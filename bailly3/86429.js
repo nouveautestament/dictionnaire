@@ -1,0 +1,1 @@
+lar[86429]=`<b>προσ·συντίθεμαι</b> <font color="purple">[ῐ]</font> convenir en outre de, <i>inf</i>. DC. <i>46, 56</i>.`

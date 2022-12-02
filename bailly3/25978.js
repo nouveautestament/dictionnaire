@@ -1,0 +1,1 @@
+lar[25978]=`<b>διγαμέω-ῶ</b> <font color="purple">[ῐᾰ]</font> se marier une seconde fois, ORIG. <i>3, 508c Migne</i>.<p><b>Étym</b>. δίγαμος.`

@@ -1,0 +1,1 @@
+lar[32832]=`<b>ας (ἡ)</b> Élimia, <i>c</i>. Ἐλίμεια XÉN. <i>Hell. 5, 2, 38, etc. ; plur</i>. Ἐλιμίαι, PLUT. <i>Æmil. 9</i>.`

@@ -1,0 +1,1 @@
+lar[5689]=`<b>ἀ·μνημόνευτος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> non mentionné, POL. <i>2, 35, 4</i>.<br><b>      2</b> oublié, EUR. <i>I.T. 1419</i>.<br><b>   II</b> <i>act</i>. oublieux de, <i>gén</i>. DL. <i>1, 86</i>.<p><b>Étym</b>. ἀ, μνημονεύω.`

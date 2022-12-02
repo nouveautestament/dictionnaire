@@ -1,0 +1,1 @@
+lar[34977]=`<b>ῶν (αἱ)</b> lieu où l’on se détourne de sa route, auberge, ARSTD. <i>t. 1, 239</i>.<p><b>Étym</b>. ἐνστρέφω.`

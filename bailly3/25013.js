@@ -1,0 +1,1 @@
+lar[25013]=`<b>ης (ἡ)</b> <font color="purple">[μᾰ]</font> combat acharné, PLAT. <i>Leg. 633d ;</i> PLUT. <i>M. 74c, etc</i>.`

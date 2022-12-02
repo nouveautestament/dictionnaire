@@ -1,0 +1,1 @@
+lar[37534]=`<b>ή, όν :<br>      1</b> capable de contenir, STR. <i>163</i>.<br><b>      2</b> capable de, PLUT. <i>M. 1055c</i>.<p><b>Étym</b>. ἐπιδέχομαι.`

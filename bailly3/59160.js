@@ -1,0 +1,1 @@
+lar[59160]=`<b>ου (τὸ)</b> noix de muscade, TH. <i>H.P. 9, 7, 2</i>.`

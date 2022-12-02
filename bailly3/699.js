@@ -1,0 +1,1 @@
+lar[699]=`<b>ἀγλαό·δωρος, ος, ον</b>, aux présents splendides, HH. <i>Cer. 54</i>.<p><b>Étym</b>. ἀ. δῶρον.`

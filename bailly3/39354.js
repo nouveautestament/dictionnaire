@@ -1,0 +1,1 @@
+lar[39354]=`<b>ἐπί·τεκνος, ος, ον</b>, capable d’enfanter, fécond, HPC. <i>Aph. 1255</i>.<p><b>Étym</b>. ἐπί, τέκνον.`

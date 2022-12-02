@@ -1,0 +1,1 @@
+lar[106066]=`<b>φιλο·ρρώθων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> ami des narines, <i>ép. d’une</i> muselière, ANTH. <i>6, 246</i>.<p><b>Étym</b>. φ. ῥώθων <i>de</i> *ϝρώθων.`

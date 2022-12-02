@@ -1,0 +1,1 @@
+lar[14998]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de laboureur, ANTH. <i>7, 209</i>.<p><b>Étym</b>. ἄροτρον.`

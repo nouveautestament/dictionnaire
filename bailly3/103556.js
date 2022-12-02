@@ -1,0 +1,1 @@
+lar[103556]=`<b>ὑπομνηματογραφέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> écrire des mémoires, THÉANO <i>Ep. 3</i>.<p><b>Étym</b>. <i>v</i>. ὑπομνηματογράφος.`

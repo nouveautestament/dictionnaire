@@ -1,0 +1,1 @@
+lar[51047]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> le fils de Kalètôr, IL. <i>13, 541</i>.<p><b>Étym</b>. <i>patr. de</i> Καλήτωρ.`

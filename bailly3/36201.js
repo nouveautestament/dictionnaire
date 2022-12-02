@@ -1,0 +1,1 @@
+lar[36201]=`<b>ἐξ·όρνυμι</b> <font color="purple">[ῡ]</font> (<i>seul. ao.2 moy. 3 sg</i>. ἐξῶρτο) s’élancer, A.RH. <i>1, 306</i>.`

@@ -1,0 +1,1 @@
+lar[71880]=`<b>ή, όν</b>, qui concerne l’interprétation des songes ; <i>subst</i>. τὸ ὀνειροπολικόν, PLUT. <i>M. 904e</i>, l’art d’interpréter les songes, <i>titre d’un ouvrage d’Artémidore</i>.<p><b>Étym</b>. ὀνειροπόλος.`

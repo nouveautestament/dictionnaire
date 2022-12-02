@@ -1,0 +1,1 @@
+lar[6554]=`<b>έως (ὁ) :<br>      1</b> écuyer qui aide à monter à cheval, PLUT. <i>C. Gracch. 7</i> ; APP. <i>Lib. 106</i>.<br><b>      2</b> levier <i>ou</i> forceps de chirurgien, ORIB. <i>p. 94 Cocch.</i> ; P. ÉG. <i>6, 88, etc</i>.<p><b>Étym</b>. ἀναβάλλω.`

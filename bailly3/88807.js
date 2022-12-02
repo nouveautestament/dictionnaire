@@ -1,0 +1,1 @@
+lar[88807]=`être roussâtre, GEOP. <i>11, 23, 1</i>.<p><b>Étym</b>. ῥούσιος.`

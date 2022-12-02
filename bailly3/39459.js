@@ -1,0 +1,1 @@
+lar[39459]=`<b>ἐπιτονόω-ῶ</b>, tonifier, <i>t. de méd</i>. SOR. <i>Obst. p. 26 Erm</i>.<p><b>Étym</b>. ἐπίτονος.`

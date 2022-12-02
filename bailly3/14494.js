@@ -1,0 +1,1 @@
+lar[14494]=`<b>άδος</b> <font color="purple">[ᾰᾰδ]</font> <i>adj. f</i>. belliqueuse, martiale, Q. SM. <i>1, 187</i>.<p><b>Étym</b>. Ἄρης.`

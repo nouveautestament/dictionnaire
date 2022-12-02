@@ -1,0 +1,1 @@
+lar[80981]=`<b>ατος (τὸ) :<br>      1</b> faute, offense, ESCHN. <i>68, 35</i> ; PLUT. <i>Demetr. 27</i> ; LUC. <i>Herm. 81</i>.<br><b>      2</b> gain illégitime, ISOCR.<p><b>Étym</b>. πλημμελέω.`

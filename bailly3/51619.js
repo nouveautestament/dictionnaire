@@ -1,0 +1,1 @@
+lar[51619]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰῐ]</font> = <i>lat</i>. Căpĭto, Capiton, <i>n. d’h. rom</i>. PLUT. <i>Ant. 36</i>.`

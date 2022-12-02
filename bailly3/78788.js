@@ -1,0 +1,1 @@
+lar[78788]=`<b>περι·κλύμενον, ου (τὸ)</b> chèvrefeuille (<i>Lonicera periclymenum</i> L.), <i>plante,</i> DIOSC. <i>4, 14</i>.`

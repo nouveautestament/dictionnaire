@@ -1,0 +1,1 @@
+lar[50792]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> malveillance, hostilité, LYS. <i>165, 33</i> ; XÉN. <i>Cyr. 3, 1, 38</i> ; PLUT. <i>Alc. 36</i>.<p><b>Étym</b>. κακόνοος.`

@@ -1,0 +1,1 @@
+lar[50983]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> de roseau, fait en roseau (habitation, HDT. <i>5, 101</i> ; flûte, ATH. <i>182d ;</i> barque, HDT. <i>3, 93, etc</i>.).<br><b>      2</b> allongé comme une tige de roseau (jambe) PLAT. COM. <i>2-2, 679, 2 Mein</i>.<p><b>Étym</b>. κάλαμος.`

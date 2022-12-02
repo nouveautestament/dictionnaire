@@ -1,0 +1,1 @@
+lar[102655]=`<i>adv</i>., démesurément, excessivement, EUR. <i>fr. 422</i>.`

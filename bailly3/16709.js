@@ -1,0 +1,1 @@
+lar[16709]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> privation de sépulture, PLUT. LUC. <i>Salt. 43</i> ; JOS. <i>A.J. 13, 15, 5</i>.<p><b>Étym</b>. ἄταφος.`

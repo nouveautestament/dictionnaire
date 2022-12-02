@@ -1,0 +1,1 @@
+lar[17388]=`<b>ας (ἡ)</b> l’infini en soi, PROCL.<p><b>Étym</b>. αὐτοάπειρος.`

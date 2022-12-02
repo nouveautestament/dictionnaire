@@ -1,0 +1,1 @@
+lar[75089]=`<b>ου (ὁ)</b> = <i>lat</i>. pannus, pièce de vêtement, vêtement, DC. <i>49, 36</i>.`

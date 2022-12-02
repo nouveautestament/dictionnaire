@@ -1,0 +1,1 @@
+lar[42304]=`<b>εὐθυ·τενής, ής, ές</b> <font color="purple">[ῠ]</font> tendu en droite ligne, direct, EL. <i>N.A. 4, 34</i> ; PHIL. <i>1, 456</i>.<p><b>Étym</b>. εὐ. τείνω.`

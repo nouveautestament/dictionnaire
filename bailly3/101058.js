@@ -1,0 +1,1 @@
+lar[101058]=`<i>v</i>. σύ.<p><b>Étym</b>. <i>pour la format. cf</i>. ἐγώνη <i>de</i> ἐγώ.`

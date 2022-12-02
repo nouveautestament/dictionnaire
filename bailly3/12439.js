@@ -1,0 +1,1 @@
+lar[12439]=`<b>ου (τὸ)</b> vase à boire, POLÉM. (ATH. <i>479f</i>).`

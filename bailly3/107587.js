@@ -1,0 +1,1 @@
+lar[107587]=`<b>ας (ἡ)</b> art du forgeron, HPC. <i>Art. 820</i> ; PLAT. <i>Prot. 324e, Conv. 197b</i>.<p><b>Étym</b>. χαλκεύς.`

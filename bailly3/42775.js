@@ -1,0 +1,1 @@
+lar[42775]=`<b>εως (ἡ)</b> bienveillance, ARTÉM. <i>2, 12</i>.<p><b>Étym</b>. εὐνοέω.`

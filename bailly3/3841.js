@@ -1,0 +1,1 @@
+lar[3841]=`<b>ου (ὁ)</b> <i>autre nom de la plante</i> βρῶμος, DIOSC. <i>4, 140</i>.`

@@ -1,0 +1,1 @@
+lar[97653]=`<b>ου</b>, <i>épq</i>. <b>οιο (ὁ)</b> Tarbèlos, <i>mt de l’î. d’Imbros,</i> Q. SM. <i>8, 80</i>.`

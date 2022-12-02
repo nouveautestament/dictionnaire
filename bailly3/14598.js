@@ -1,0 +1,1 @@
+lar[14598]=`<i>adv</i>., numériquement, PLUT. <i>M. 643c</i>.`

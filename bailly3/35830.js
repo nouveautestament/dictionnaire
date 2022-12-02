@@ -1,0 +1,1 @@
+lar[35830]=`<b>εως (ἡ)</b> investigation, recherche approfondie, SPT. <i>Ps. 63, 7</i>.<p><b>Étym</b>. ἐξερευνάω.`

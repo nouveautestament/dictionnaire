@@ -1,0 +1,1 @@
+lar[106659]=`<b>α, ον</b>, fertile en pâturages, CALL. <i>L. Pall. 50</i>.<p><b>Étym</b>. φορβή.`

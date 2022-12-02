@@ -1,0 +1,1 @@
+lar[28374]=`<b>δυσελπιστέω-ῶ</b> <font color="purple">[ῠ]</font> (<i>part. ao</i>. -ήσαντες) espérer difficilement, désespérer, POL. <i>2, 10, 8 ; 2, 44, 3, etc</i>.<p><b>Étym</b>. δυσέλπιστος.`

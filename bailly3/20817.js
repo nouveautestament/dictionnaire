@@ -1,0 +1,1 @@
+lar[20817]=`<b>εως (ἡ)</b> <font color="purple">[ῑμ]</font> grondement de colère, PHILOD. <i>V. Herc. 1, 50</i>.<p><b>Étym</b>. βριμόομαι.`

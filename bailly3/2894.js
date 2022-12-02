@@ -1,0 +1,1 @@
+lar[2894]=`<b>*αἰσχροεργία</b>, <i>seul. contr</i>. <b>αἰσχρουργία, ας (ἡ) :<br>      1</b> action honteuse, EUR. <i>Bacch. 1060</i> ; XÉN. <i>Lac. 3, 6</i>.<br><b>      2</b> obscénité, ESCHN. <i>41, 13, etc</i>.<p><b>Étym</b>. αἰσχροεργός.`

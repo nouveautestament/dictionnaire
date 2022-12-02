@@ -1,0 +1,1 @@
+lar[44026]=`<b>ἐφ·ηδύνω</b> <font color="purple">[ῡ]</font> adoucir, <i>acc</i>. PLUT. <i>M. 668d ; fig</i>. τί τινι, PLUT. <i>M. 514f</i>, une ch. au moyen d’une autre.<p><b>Étym</b>. ἐπί, ἡδ.`

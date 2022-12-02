@@ -1,0 +1,1 @@
+lar[4759]=`<b>ικος (ἡ)</b> <font color="purple">[ῐκ]</font> chlamyde thessalienne, EUPH. <i>fr. 112</i> ; CALL. <i>fr. 149</i>.<p><b>Étym</b>. <i>cf. lat</i>. ālĭcŭlă.`

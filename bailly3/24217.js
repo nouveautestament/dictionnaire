@@ -1,0 +1,1 @@
+lar[24217]=`<b>ῶνος (ὁ)</b> le mois Dèmètriôn, <i>n. donné par les Athéniens au mois Mounykhiôn, en l’honneur de Dèmètrios Poliorkétès,</i> PLUT. <i>Demetr. 12</i>.<p><b>Étym</b>. Δημήτριος² 2.`

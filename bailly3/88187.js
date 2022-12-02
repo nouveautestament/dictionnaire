@@ -1,0 +1,1 @@
+lar[88187]=`<i>adv</i>., avec impétuosité <i>ou</i> véhémence, CHRYS.`

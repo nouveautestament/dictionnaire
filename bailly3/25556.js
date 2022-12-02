@@ -1,0 +1,1 @@
+lar[25556]=`<b>δια·σκοπέω-ῶ</b>, examiner à fond : τι, XÉN. <i>Mem. 4, 8, 4</i> ; περί τινος, PLAT. <i>Phæd. 61e ;</i> ARSTT. <i>Pol. 2, 10, 9,</i> qqe ch. ; δ. τινα, PLAT. <i>Ap. 21c</i>, examiner qqn avec soin, l’observer, l’étudier.<br><b><i>Moy.</i></b> examiner avec soin, PLAT. <i>Phæd. 70c ;</i> PLUT. <i>Alc. 10</i>.`

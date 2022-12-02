@@ -1,0 +1,1 @@
+lar[55271]=`<b>κηρο·γονία, ας (ἡ)</b> formation de la cire, SPT. <i>4Macc. 14, 19</i>.<p><b>Étym</b>. κηρός, γίγνομαι.`

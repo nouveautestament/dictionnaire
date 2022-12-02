@@ -1,0 +1,1 @@
+lar[20019]=`<b>ου (ὁ)</b> Bodenkos, <i>autre n. du Pô,</i> POL. <i>2, 16</i>.`

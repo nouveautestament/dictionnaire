@@ -1,0 +1,1 @@
+lar[67364]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Myrtalè, <i>f</i>. ANTH. <i>App. 224, 3</i> ; PLUT. <i>M. 401a, etc</i>.`

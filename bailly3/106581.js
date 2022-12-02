@@ -1,0 +1,1 @@
+lar[106581]=`<b>οῦντος (ὁ)</b> <font color="purple">[ῐ]</font> bois de palmiers, DS. <i>3, 42</i>.<p><b>Étym</b>. <i>contr. de</i> φοινικόεις.`

@@ -1,0 +1,1 @@
+lar[68374]=`<b>νευρο·μήτρα, ας (ἡ)</b> <i>litt</i>. la matrice des nerfs, <i>au plur. autre n. des muscles</i> ψύαι <i>ou</i> ἀλώπεκες, CLÉARQ. (ATH. <i>399b</i>).<p><b>Étym</b>. ν. μήτρα.`

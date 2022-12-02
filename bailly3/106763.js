@@ -1,0 +1,1 @@
+lar[106763]=`<b>ων (τὰ)</b> Phraates (<i>auj</i>. Ardabil <i>ou, sel. d’autres,</i> Takht-e Suleiman) <i>v. de Médie,</i> PLUT. <i>Ant. 38, 39, 50</i>.`

@@ -1,0 +1,1 @@
+lar[15382]=`<b>ἀρτι·τόκος, ος, ον</b> <font color="purple">[ῐ]</font> qui vient d’enfanter, OPP. <i>C. 3, 119</i> ; ANTH. <i>7, 729 ; 9, 2</i>.<p><b>Étym</b>. ἄ. τίκτω.`

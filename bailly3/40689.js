@@ -1,0 +1,1 @@
+lar[40689]=`<b>οῦ</b>, <i>adj. m</i>. qui rampe, ANTH. <i>11, 33 ; subst</i>. ὁ ἑρπ. NIC. <i>Th. 9</i> ; ANTH. <i>9, 86,</i> animal rampant, reptile.<p><b>Étym</b>. ἕρπω.`

@@ -1,0 +1,1 @@
+lar[74043]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de la cuisine, ARSTT. <i>Nic. 7, 12, 6, etc</i>.<p><b>Étym</b>. ὀψοποιέω.`

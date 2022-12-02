@@ -1,0 +1,1 @@
+lar[83766]=`<b>ας (ἡ)</b> <i>autre n. de la plante</i> ὠκιμοειδές, DIOSC. <i>Noth. 4, 28</i>.`

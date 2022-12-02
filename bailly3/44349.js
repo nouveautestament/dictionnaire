@@ -1,0 +1,1 @@
+lar[44349]=`<b>ας (ἡ) :<br>      1</b> <i>autre forme de</i> αἰώρα, lacet, SOPH. <i>O.R. 1264</i>.<br><b>      2</b> chanson appelée aussi ἀλῆτις ARSTT. (ATH. <i>618e</i>) <i>au pl</i>.`

@@ -1,0 +1,1 @@
+lar[105653]=`<b>ης (ἡ)</b> <font color="purple">[φῐ]</font> Philinna, <i>f</i>. AR. <i>Nub. 684</i> ; THCR. <i>Epigr. 3</i> ; PLUT. <i>Alex. 77, etc</i>.`

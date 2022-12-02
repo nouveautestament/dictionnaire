@@ -1,0 +1,1 @@
+lar[54916]=`<b>(ὁ)</b> Kerbès, <i>fl. d’Eubée,</i> ARSTT. <i>Mir. 170</i>.`

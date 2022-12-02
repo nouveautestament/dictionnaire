@@ -1,0 +1,1 @@
+lar[63897]=`<b>μελάν·οστος, ος, ον</b> <font color="purple">[ᾰ]</font> aux os noirs, IL. <i>21, 252</i>.<p><b>Étym</b>. μ. ὀστέον.`

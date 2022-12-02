@@ -1,0 +1,1 @@
+lar[14161]=`<i>ou</i> <b>Ἀράσπης, ου (ὁ)</b> Araspas, <i>Mède,</i> XÉN. <i>Cyr. 5, 1, 1, etc</i>.`

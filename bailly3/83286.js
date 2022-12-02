@@ -1,0 +1,1 @@
+lar[83286]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> <i>c</i>. πράσιμος, PLAT. <i>Leg. 849c</i>.<p><b>Étym</b>. <i>vb. de</i> πιπράσκω.`

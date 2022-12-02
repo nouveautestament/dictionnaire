@@ -1,0 +1,1 @@
+lar[1351]=`<b>ἀ·διάπτωτος, ος, ον :<br>      1</b> infaillible, HPC. <i>1283, 21</i> ; POL. <i>4, 60, 10, etc.</i><br><b>      2</b> sans faute, d’une correction parfaite (écrivain) LGN <i>33, 5</i> ; τὸ ἀδ. LGN <i>36, 4,</i> perfection du style.<p><b>Étym</b>. ἀ, διαπίπτω.`

@@ -1,0 +1,1 @@
+lar[102699]=`<b>ὑπερ·οπτάω-ῶ</b>, faire trop rôtir, dessécher, GAL. <i>6, 484</i> ; A. APHR. <i>Probl. 1, 104, 110</i>.`

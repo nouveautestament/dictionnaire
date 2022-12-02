@@ -1,0 +1,1 @@
+lar[29166]=`<i>adv.</i> :<br><b>      1</b> à la façon dorienne, PLAT. <i>Ep. 336c ; en mauv. part avec jeu de mots, c</i>. δωροδοκιστί, AR. <i>Eq. 989</i>.<br><b>      2</b> en dialecte dorien, PAUS. <i>2, 37, 3</i>.<br><b>      3</b> selon le mode dorien, PLAT. <i>Lach. 188d, Rsp. 399a ;</i> PLUT. <i>M. 1134a, 1136d</i>, f, <i>etc</i>.<p><b>Étym</b>. δωρίζω.`

@@ -1,0 +1,1 @@
+lar[87253]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> première place, P. ALEX. <i>Apot. 24, p. 53, l. 24 Boer</i>.<p><b>Étym</b>. πρωτοστάτης.`

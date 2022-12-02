@@ -1,0 +1,1 @@
+lar[63237]=`<font color="purple">[ᾰ]</font><br><b>      1</b> <i>(seul. prés.) ion. c</i>. μάχομαι, IL. <i>1, 272, 344</i> ; HDT. <i>7, 104 ; 9, 75</i>.<br><b>      2</b> μαχέομαι-οῦμαι, <i>fut. att. de</i> μάχομαι.`

@@ -1,0 +1,1 @@
+lar[49535]=`<b>ἰσ·άργυρος, ος, ον</b> <font color="purple">[ῑ̆ῠ]</font> pareil à de l’argent, qui vaut de l’argent, ESCHL. <i>Ag. 959</i> ; THPP. <i>et</i> ACHÆ. (ATH. <i>526d, 689b</i>).<p><b>Étym</b>. ἴ. ἄργυρος.`

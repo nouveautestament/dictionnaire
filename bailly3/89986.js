@@ -1,0 +1,1 @@
+lar[89986]=`<b>ή, όν :<br>      1</b> qui engendre la putréfaction, DS. <i>Exc. 492, 49 ; subst</i>. τὸ σ. (<i>s.-e</i>. φάρμακον), ARSTT. <i>H.A. 8, 29, 3,</i> agent septique.<br><b>      2</b> qui aide à la digestion, ATH. <i>276d</i>.<p><b>Étym</b>. σήπω.`

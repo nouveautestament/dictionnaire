@@ -1,0 +1,1 @@
+lar[31374]=`<b>ἑκκαιδεκα·τάλαντος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> de seize talents, MÉN. (A. GELL. <i>2, 23).</i><p><b>Étym</b>. ἑ. τάλαντον.`

@@ -1,0 +1,1 @@
+lar[90521]=`<b>σιτο·δεία, ας (ἡ)</b> <font color="purple">[ῑ]</font> manque de blé <i>ou</i> de vivres, disette, THC. <i>4, 36</i>.<p>➳ <i>Ion</i>. σιτοδηΐη, HDT. <i>1, 22, 94</i>.<p><b>Étym</b>. σῖτος, δέομαι.`

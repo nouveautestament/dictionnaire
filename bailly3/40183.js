@@ -1,0 +1,1 @@
+lar[40183]=`<b>ῶν (οἱ)</b> gens d’atelier, ouvriers, artisans, POL. <i>38, 4, 5</i>.<p><b>Étym</b>. ἐργαστήριον.`

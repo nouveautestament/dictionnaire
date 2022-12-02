@@ -1,0 +1,1 @@
+lar[6307]=`<b>ἀμφι·περιφθινύθω</b> (<i>seul. prés</i>.) <font color="purple">[θῐ]</font> se consumer tout autour, HH. <i>Ven. 272</i>.`

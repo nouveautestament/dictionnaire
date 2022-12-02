@@ -1,0 +1,1 @@
+lar[81754]=`<b>Πολύ·βιος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Polybios (Polybe) :<br><b>      1</b> <i>historien célèbre de Mégalopolis</i>.<br><b>      2</b> <i>autres,</i> LUC. <i>Demon. 40, etc</i>.<p><b>Étym</b>. π. βίος.`

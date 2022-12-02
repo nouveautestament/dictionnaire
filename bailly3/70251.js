@@ -1,0 +1,1 @@
+lar[70251]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de manier le gouvernail, AQU. <i>Job 37, 12</i>.<p><b>Étym</b>. *οἰακόω <i>de</i> οἴαξ.`

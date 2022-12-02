@@ -1,0 +1,1 @@
+lar[94660]=`<b>συν·αλλοιόω-ῶ</b>, changer <i>ou</i> modifier ensemble en même temps, ARSTT. <i>Physiogn. 4, 1</i> ; TH. <i>C.P. 2, 14, 3</i> ; GAL. <i>2, 229</i>.`

@@ -1,0 +1,1 @@
+lar[72731]=`<b>Ὀρθό·παγον, ου (τὸ)</b> Orthopagon, <i>colline de Béotie,</i> PLUT. <i>Syll. 17</i>.<p><b>Étym</b>. <i>cf</i>. ὀρθοπαγής.`

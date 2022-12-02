@@ -1,0 +1,1 @@
+lar[7546]=`<b>ή, όν</b>, qui concerne la suture de la paupière supérieure, P. ÉG. <i>178, 42</i>.`

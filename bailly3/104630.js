@@ -1,0 +1,1 @@
+lar[104630]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> Phæax, <i>h. litt</i>. « le Phéacien », THC. <i>5, 4</i> ; AR. <i>Eq. 1377</i> ; PLAT. <i>Eryx. 392a, etc</i>.<p><b>Étym</b>. <i>cf</i>. Φαίακες.`

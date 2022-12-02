@@ -1,0 +1,1 @@
+lar[6300]=`<b>ἀμφι·περι·πτώσσω</b> (<i>prés. part</i>.) se blottir tout alentour, Q. SM. <i>12, 472</i>.`

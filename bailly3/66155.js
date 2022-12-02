@@ -1,0 +1,1 @@
+lar[66155]=`<b>ου (τὸ)</b> sorte de papyrus, <i>plante aquatique comestible, en Égypte,</i> TH. <i>H.P. 4, 8, 2 et 6</i>.`

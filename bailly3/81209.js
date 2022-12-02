@@ -1,0 +1,1 @@
+lar[81209]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> chaleur étouffante, PTOL. <i>Appar. 91, 27</i>.<p><b>Étym</b>. πνίγω.`

@@ -1,0 +1,1 @@
+lar[79022]=`<font color="purple">[ᾱ]</font> <i>vb. de</i> περιοράω DS. <i>20, 2</i>.`

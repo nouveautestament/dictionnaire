@@ -1,0 +1,1 @@
+lar[82468]=`<b>πολυ·τραφής, ής, ές</b> <font color="purple">[ᾰ]</font> qui nourrit beaucoup d’êtres, fécond, DS. <i>2, 52</i>.<p><b>Étym</b>. π. τρέφω.`

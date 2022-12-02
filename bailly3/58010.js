@@ -1,0 +1,1 @@
+lar[58010]=`ressembler à du safran, DIOSC. <i>2, 210 ; 4, 65</i>.<p><b>Étym</b>. κρόκος.`

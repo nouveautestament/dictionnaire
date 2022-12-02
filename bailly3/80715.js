@@ -1,0 +1,1 @@
+lar[80715]=`<b>ου (ἡ)</b> <font color="purple">[ᾰᾰ]</font> platane, <i>arbre à larges feuilles (Platanus orientalis</i> L.), AR. <i>Eq. 528, etc.</i> ; PLAT. <i>Phædr. 229a, etc</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ; son association avec πλατύς est secondaire</i>.`

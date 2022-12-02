@@ -1,0 +1,1 @@
+lar[50060]=`<b>ἰχθυό·θηρον, ου (τὸ)</b> sorte de cyclamen, <i>plante qui sert d’amorce aux poissons,</i> DIOSC. <i>Noth. 2, 194</i>.<p><b>Étym</b>. ἰ. θήρ.`

@@ -1,0 +1,1 @@
+lar[70402]=`<i>adv</i>., comme un bon intendant, PLUT. <i>M. 1126</i>.`

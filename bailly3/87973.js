@@ -1,0 +1,1 @@
+lar[87973]=`<b>Πύρρ·ανδρος, ου (ὁ)</b> Pyrrhandros, <i>h</i>. AR. <i>Eq. 901</i> ; ESCHN. <i>1, 84, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. πυρρός, ἀνήρ.`

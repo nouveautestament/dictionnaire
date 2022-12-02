@@ -1,0 +1,1 @@
+lar[45690]=`<b>ἤν·περ</b>, <i>conj</i>. si toutefois, <i>avec le sbj</i>. XÉN. <i>An. 3, 2, 21</i>.<p><b>Étym</b>. ἤν¹, περ.`

@@ -1,0 +1,1 @@
+lar[78881]=`<b>ατος (τὸ)</b> le contenu d’une chose, SPT. <i>Eccl. 3, 5</i>.<p><b>Étym</b>. περιλαμβάνω.`

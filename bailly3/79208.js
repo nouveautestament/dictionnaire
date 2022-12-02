@@ -1,0 +1,1 @@
+lar[79208]=`<b>περι·ρραπίζω</b> <font color="purple">[ᾰ]</font> battre tout autour, <i>acc</i>. PLUT. <i>M. 977a</i>.<p><b>Étym</b>. π. ῥαπίζω.`

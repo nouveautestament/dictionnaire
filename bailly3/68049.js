@@ -1,0 +1,1 @@
+lar[68049]=`<b>νεκυο·μαντεία, ας (ἡ)</b> divination par l’évocation des morts, <i>titre d’un ouvrage de Lucien</i>.<p><b>Étym</b>. νέκυς, μαντεία.`

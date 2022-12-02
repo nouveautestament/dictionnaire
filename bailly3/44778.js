@@ -1,0 +1,1 @@
+lar[44778]=`<b>ζωο·τύπος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui moule <i>ou</i> façonne des figures d’êtres animés, NONN. <i>D. 5, 527</i> ; MAN. <i>4, 343</i>.<br><b>      2</b> qui décrit d’une manière vivante, ANTH. <i>15, 1</i>.<p><b>Étym</b>. ζωός, τύπτω.`

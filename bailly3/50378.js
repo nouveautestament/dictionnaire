@@ -1,0 +1,1 @@
+lar[50378]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> <i>fém. de</i> καθηγητήρ ORPH. <i>H. 75, 6</i>.`

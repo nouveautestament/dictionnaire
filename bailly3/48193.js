@@ -1,0 +1,1 @@
+lar[48193]=`<b>ῆς (ἡ)</b> grand cri, ESCHL. <i>Pers. 939</i> ; EUR. <i>El. 143, etc. ; cf</i>. ἰαχή.`

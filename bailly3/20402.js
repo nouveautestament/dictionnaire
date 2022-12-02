@@ -1,0 +1,1 @@
+lar[20402]=`<b>ας (ἡ)</b> troupeau de gros bétail ; HH. <i>Merc. 498</i> ; HÉS. <i>Th. 445 ; cf</i>. HDT. <i>1, 114 (p.-ê. au sens de</i> « étable »).<p><b>Étym</b>. βουκόλος.`

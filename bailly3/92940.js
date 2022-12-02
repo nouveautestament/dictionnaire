@@ -1,0 +1,1 @@
+lar[92940]=`<b>στροβιλο·βλέφαρος, ος, ον</b> <font color="purple">[ῑᾰ]</font> aux yeux mobiles, vifs, ORPH. <i>Lith. 18, 31</i>.<p><b>Étym</b>. στρόβιλος, βλέφαρον.`

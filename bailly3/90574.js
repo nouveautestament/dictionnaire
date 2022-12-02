@@ -1,0 +1,1 @@
+lar[90574]=`<b>έως (ὁ)</b> <font color="purple">[ῑ]</font> de Siphes, A.RH. <i>1, 105</i> ; ORPH. <i>Arg. 125</i>.<p><b>Étym</b>. Σῖφαι.`

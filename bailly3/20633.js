@@ -1,0 +1,1 @@
+lar[20633]=`<b>βραδυ·πόρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> <i>litt</i>. qui marche où s’avance lentement, d’un mouvement lent, PLUT. <i>M. 626a ; en parl. d’aliments,</i> qui passe lentement, difficile à digérer, HPC. <i>389, 39 ; 394, 42</i> ; GAL. RUF. <i>etc</i>.<p>•<i> Cp</i>. -ώτερος, HPC. <i>403, 54</i>.<p><b>Étym</b>. βρ. πόρος.`

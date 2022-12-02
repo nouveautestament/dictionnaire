@@ -1,0 +1,1 @@
+lar[50850]=`<b>κακό·σινος, ος, ον</b> <font color="purple">[ᾰῑ]</font> tout à fait nuisible, HPC. <i>778, au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. κ. σίνομαι.`

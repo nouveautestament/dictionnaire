@@ -1,0 +1,1 @@
+lar[109477]=`<b>χωρο·φιλία, ας (ἡ)</b> <font color="purple">[φῐ]</font> prédilection pour un lieu, PHILSTR. <i>Ep. 47</i>.<p><b>Étym</b>. <i>v</i>. χωροφιλέω.`

@@ -1,0 +1,1 @@
+lar[69115]=`<b>α, ον</b>, <i>c</i>. νυκτερινός ARAT. <i>999</i> ; ORPH. <i>H. 1, 5, etc.</i> ; LUC. <i>Per. 28</i>.<p>➳ <i>Fém</i>. -ος, LUC. <i>Per. l. c</i>.`

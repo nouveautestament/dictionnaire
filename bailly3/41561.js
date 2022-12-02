@@ -1,0 +1,1 @@
+lar[41561]=`<b>εὐ·αλής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>c</i>. εὐάλωτος, ALCIPHR. <i>2, 1, 6, au cp</i>. -έστερος <i>conj</i>.`

@@ -1,0 +1,1 @@
+lar[71092]=`<b>ὀλιγό·ψυχος, ος, ον</b> <font color="purple">[ῐῡ]</font> pusillanime, ARTÉM. <i>3, 5</i> ; SPT. <i>Prov. 14, 29 ; Esaï. 57, 15</i> ; NT. <i>1Thess. 5, 14</i>.<p><b>Étym</b>. ὀλ. ψυχή.`

@@ -1,0 +1,1 @@
+lar[64833]=`<b>μετα·μάζιος, ος, ον</b>, qui se trouve entre les seins, IL. <i>5, 19</i> ; τὸ μεταμάζιον, ANACR. <i>16, 30,</i> l’espace entre les seins, la poitrine.<p><b>Étym</b>. μ. μαζός.`

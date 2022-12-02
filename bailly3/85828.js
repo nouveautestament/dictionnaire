@@ -1,0 +1,1 @@
+lar[85828]=`<i>adv</i>., convenablement, THC. <i>2, 43</i> ; XÉN. <i>Mem. 3, 11, 6</i> ; PLAT. <i>Leg. 659b ;</i> ISOCR. <i>31c, etc</i>.<p><b>Étym</b>. προσήκω.`

@@ -1,0 +1,1 @@
+lar[99668]=`<b>ας (ἡ)</b> bois arrondi au tour pour la construction des navires, TH. <i>H.P. 5, 7, 3</i>.<p><b>Étym</b>. τορνεύω.`

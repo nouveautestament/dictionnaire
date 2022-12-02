@@ -1,0 +1,1 @@
+lar[81755]=`<b>πολυ·βλαβής, ής, ές</b> <font color="purple">[ᾰ]</font> très endommagé <i>ou</i> facile à endommager, PLUT. <i>M. 1090b</i>.<p><b>Étym</b>. π. βλάπτω.`

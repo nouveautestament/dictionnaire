@@ -1,0 +1,1 @@
+lar[99900]=`<b>τρανόω-ῶ</b> <font color="purple">[ᾱ]</font> rendre clair, éclaircir <i>ou</i> éclairer, ANTH. <i>App. 304</i> ; PHIL. <i>p. 770a</i>.<p><b>Étym</b>. τρανός.`

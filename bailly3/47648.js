@@ -1,0 +1,1 @@
+lar[47648]=`<b>ή, όν</b>, nourri ; <i>subst</i>. ὁ θρεπτός, esclave né dans la maison (<i>lat</i>. verna) INSCR. ; ἡ θρεπτή = <i>lat</i>. alumna, LYS. (POLL. <i>7, 17</i>) ; SPT. <i>Esth. 2, 7</i>.<p><b>Étym</b>. <i>vb. de</i> τρέφω.`

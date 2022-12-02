@@ -1,0 +1,1 @@
+lar[85910]=`<b>προσ·καθιδρύω</b>, établir auprès de, <i>dat</i>. PHIL. <i>2, 559</i>.`

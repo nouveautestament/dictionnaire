@@ -1,0 +1,1 @@
+lar[98917]=`<b>εως (ἡ)</b> éclat qui se répand de loin <i>ou</i> au loin, SPT. <i>Ps. 17, 12</i>.<p><b>Étym</b>. τηλαυγής.`

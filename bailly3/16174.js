@@ -1,0 +1,1 @@
+lar[16174]=`<b>ας (ἡ)</b> Astéria :<br><b>      1</b> <i>n. de f</i>. HÉS. NONN. PLUT. <i>etc.</i><br><b>      2</b> <i>anc. n. de Dèlos,</i> CALL. <i>Del. 197, etc</i>.<p>➳ <i>Ion</i>. -ίη, HÉS. <i>Th. 409 ; etc</i>.`

@@ -1,0 +1,1 @@
+lar[98338]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. τεραστίως, EPIC. (PLUT. <i>M. 1124c</i>).`

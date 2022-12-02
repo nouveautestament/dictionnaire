@@ -1,0 +1,1 @@
+lar[101154]=`<b>ίδος</b>, <i>adj. f. c</i>. Τυρρηνικός, PLUT. <i>Popl. 17, etc</i>.<p>➳ <i>Ion. et poét</i>. Τυρσηνίς, EUR. <i>Med. 1342</i> ; ANTH. <i>9, 308, etc</i>.`

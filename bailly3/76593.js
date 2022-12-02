@@ -1,0 +1,1 @@
+lar[76593]=`<b>παρ·εισκυκλέω-ῶ</b>, introduire par un détour, ARTHÉN. (ATH. <i>661b</i>).`

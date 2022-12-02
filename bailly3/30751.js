@@ -1,0 +1,1 @@
+lar[30751]=`<b>εἰσ·ερπύζω</b> (<i>seul. ao</i>.) ramper dans, se glisser dans, <i>avec</i> εἰς <i>et l’acc</i>. PLUT. <i>Cleom. 8 (part</i>. -ύσας) ; EL. <i>N.A. 12, 32 (inf</i>. -ύσαι) ; <i>avec le dat</i>. PHIL. <i>2, 553</i>.<p><b>Étym</b>. <i>part</i>. -ύσας.`

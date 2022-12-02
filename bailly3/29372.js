@@ -1,0 +1,1 @@
+lar[29372]=`<b>ης (ἡ)</b> petite-fille, ARTÉM. <i>4, 69</i> ; NAZ. <i>3, 268a Migne</i>.<p><b>Étym</b>. <i>cf</i>. ἔγγονος.`

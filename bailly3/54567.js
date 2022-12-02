@@ -1,0 +1,1 @@
+lar[54567]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> Kékropia (Cécropia) :<br><b>   I</b> <i>n. de lieu</i> :<br><b>      1</b> <i>la citadelle d’Athènes, bâtie par Cécrops,</i> STR. <i>397</i>.<br><b>      2</b> <i>p. ext</i>. Athènes, EUR. <i>Suppl. 658</i>.<br><b>   II</b> <i>n. de f</i>. ANTH. <i>7, 722</i>.<p><b>Étym</b>. <i>propr. fém. de</i> Κεκρόπιος.`

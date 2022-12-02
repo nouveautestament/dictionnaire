@@ -1,0 +1,1 @@
+lar[100923]=`<i>adv</i>., comme les animaux <i>ou</i> les hommes qui vivent dans des trous, STR. <i>828</i>.`

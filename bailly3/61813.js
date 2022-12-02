@@ -1,0 +1,1 @@
+lar[61813]=`<b>α (ὁ)</b> <font color="purple">[ῡᾱ]</font> Lythimnas, <i>Perse,</i> ESCHL. <i>Pers. 999</i>.`

@@ -1,0 +1,1 @@
+lar[39700]=`<b>ἐπιχνοάω</b> (<i>seul. part. prés</i>. -χνοάουσαι) être couvert de duvet, <i>p. ext</i>. de cheveux, A.RH. <i>1, 672</i>.<p><b>Étym</b>. ἐπίχνοος.`

@@ -1,0 +1,1 @@
+lar[17018]=`<b>ου (ὁ)</b> <font color="purple">[λᾰ]</font> <i>sorte de sauterelle,</i> ARSTT. <i>H.A. 5, 29, etc</i>.<p>➳ <i>Ion</i>. ἀττέλεβος, HDT. <i>4, 172</i>.`

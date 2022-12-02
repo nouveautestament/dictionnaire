@@ -1,0 +1,1 @@
+lar[66096]=`<b>ου (ὁ)</b> Mitios, <i>h</i>. PLUT. <i>Ser. num. vind. 8</i>.`

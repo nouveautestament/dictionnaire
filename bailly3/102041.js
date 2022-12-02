@@ -1,0 +1,1 @@
+lar[102041]=`<b>ὑπ·ατμίζω</b> <font color="purple">[ῠ]</font> traiter par des fumigations, DIOSC. <i>3, 30</i>.`

@@ -1,0 +1,1 @@
+lar[21134]=`<b>ιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. du Gange, DIOSC. <i>1, 6</i> ; GAL. <i>13, 863e</i>.<p><b>Étym</b>. Γάγγης.`

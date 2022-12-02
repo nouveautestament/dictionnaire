@@ -1,0 +1,1 @@
+lar[81384]=`<b>ποικιλό·βουλος, ος, ον</b> <font color="purple">[ῐ]</font> aux expédients variés, fertile en expédients, HÉS. <i>Th. 521</i> ; A. PL. <i>300, etc</i>.<p><b>Étym</b>. π. βουλή.`

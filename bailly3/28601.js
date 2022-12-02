@@ -1,0 +1,1 @@
+lar[28601]=`<b>δυσκολό·κοιτος, ος, ον</b>, qui trouble le sommeil, AR. <i>Nub. 420</i>.<p><b>Étym</b>. δύσκολος, κοίτη.`

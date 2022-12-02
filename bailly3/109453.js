@@ -1,0 +1,1 @@
+lar[109453]=`<i>adv</i>., d’une manière rustique, SYN. <i>167a</i>.`

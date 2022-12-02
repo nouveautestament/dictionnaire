@@ -1,0 +1,1 @@
+lar[14773]=`<font color="purple">[ᾰ]</font> <i>adv</i>., très bien, excellemment, JAMBL. <i>Myst. p. 78, 17</i>.<p><b>Étym</b>. ἄριστος ; <i>cf</i>. ἄριστα.`

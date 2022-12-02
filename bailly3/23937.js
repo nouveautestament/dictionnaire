@@ -1,0 +1,1 @@
+lar[23937]=`<b>ος, ον</b>, qui retient <i>ou</i> comprime le cou, qui étrangle, ANTH. <i>7, 473</i>.<p><b>Étym</b>. δέραιον, ἔχω.`

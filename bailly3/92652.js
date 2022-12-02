@@ -1,0 +1,1 @@
+lar[92652]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> disposé par lignes, par rangées, HLD. <i>3, 2</i>.<p><b>Étym</b>. *στίξ, *ἄρω.`

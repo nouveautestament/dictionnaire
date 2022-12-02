@@ -1,0 +1,1 @@
+lar[35666]=`<b><i>Moy.</i></b> allumer du feu pour un sacrifice, ERATOSTH. <i>(Bkk. 655, 3</i>).`

@@ -1,0 +1,1 @@
+lar[4580]=`<b>ά, όν</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. ἀλιτήριος, ALCM. (SCH.-PD. <i>O. 1, 97).</i><p>➳ <font color="purple">[ᾰῑ]</font> SOPH. <i>O.C. 327</i>.`

@@ -1,0 +1,1 @@
+lar[49058]=`<b>η, ον</b>, d’Inykos, PLAT. <i>Hipp. ma. 283c</i>.<p><b>Étym</b>. <i>v</i>. Ἴνυκος.`

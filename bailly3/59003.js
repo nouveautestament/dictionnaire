@@ -1,0 +1,1 @@
+lar[59003]=`<b>κυρτόω-ῶ</b>, courber, voûter, OD. <i>11, 244</i> ; ATH. <i>629f.</i><br><b><i>Moy.</i></b> se courber, XÉN. <i>Cyr. 7, 5, 11, etc</i>.<p><b>Étym</b>. κυρτός.`

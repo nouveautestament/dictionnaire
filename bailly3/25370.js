@@ -1,0 +1,1 @@
+lar[25370]=`<b>δια·πρεσβεύομαι :<br>      1</b> envoyer des députés en divers endroits, XÉN. <i>Hell. 3, 2, 24</i> ; DS. <i>11, 68</i> ; DC. <i>45, 43</i>.<br><b>      2</b> s’envoyer des députés de part et d’autre, POL.`

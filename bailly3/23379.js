@@ -1,0 +1,1 @@
+lar[23379]=`<b>ιδος (ἡ)</b> <i>s.-e</i>. βοτάνη, sorte de fragon, <i>plante,</i> DIOSC. <i>1, 12</i>.<p><b>Étym</b>. <i>fém. de</i> δαφνίτης.`

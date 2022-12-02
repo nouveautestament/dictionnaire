@@ -1,0 +1,1 @@
+lar[86314]=`<b>προσ·πηδάω-ῶ</b> <font color="darkgreen">(<i>f</i>. -ήσομαι)</font> s’élancer vers, <i>avec</i> πρός <i>et l’acc</i>. AND. <i>21, 31 ; avec le dat</i>. ALEX. (<i>Com. fr. 3, 440</i>) ; <i>avec</i> ἐπί <i>et l’acc</i>. ARR. <i>Epict. 1, 2, 32 ; abs</i>. DC. <i>76, 4</i> ; APP. <i>Civ. 2, 45</i>.`

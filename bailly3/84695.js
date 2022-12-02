@@ -1,0 +1,1 @@
+lar[84695]=`<b>προμαχέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> combattre aux premiers rangs, XÉN. <i>Cyr. 3, 3, 60</i>.<br><b>      2</b> combattre pour, <i>gén</i>. SIM. <i>Epigr. 90 (149) Bgk</i>.<p><b>Étym</b>. πρόμαχος.`

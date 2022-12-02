@@ -1,0 +1,1 @@
+lar[78501]=`<b>ος, ον</b>, circonscrit, limité, borné, THC. <i>7, 49</i>.<p><b>Étym</b>. περιγράφω.`

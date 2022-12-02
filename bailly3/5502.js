@@ -1,0 +1,1 @@
+lar[5502]=`<b>ἀ·μετάπλαστος, ος, ον</b>, qu’on ne peut transformer, STOB. <i>Fl. App. 42</i>.<p><b>Étym</b>. ἀ, μεταπλάσσω.`

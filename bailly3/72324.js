@@ -1,0 +1,1 @@
+lar[72324]=`<b>εως (ἡ)</b> <font color="purple">[λῐ]</font> action d’armer, armement, XÉN. <i>Cyr. 7, 1, 46</i> ; THC. <i>3, 22</i> ; PLAT. <i>Tim. 24b ; au plur</i>. AR. <i>Ran. 1036</i>.<p><b>Étym</b>. ὁπλίζω.`

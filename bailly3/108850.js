@@ -1,0 +1,1 @@
+lar[108850]=`<b>χορτο·λόγος, ος, ον</b>, qui va au fourrage, fourrageur, STR. <i>708</i>.<p><b>Étym</b>. χόρτος, λέγω.`

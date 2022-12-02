@@ -1,0 +1,1 @@
+lar[98788]=`<b>ῶν (οἱ)</b> les descendants de Teukros, <i>fils de Télamôn,</i> ISOCR. <i>191d</i>.<p><b>Étym</b>. Τεῦκρος.`

@@ -1,0 +1,1 @@
+lar[48861]=`<font color="purple">[ῑᾰ]</font> <i>adv.</i> :<br><b>      1</b> en troupe, IL. <i>2, 93</i>.<br><b>      2</b> en masse, abondamment, HÉS. <i>O. 285</i>.<p><b>Étym</b>. ἴλη, -δον.`

@@ -1,0 +1,1 @@
+lar[106888]=`<b>ας (ἡ)</b> <font color="purple">[ῑκ]</font> horreur qui fait frissonner, frisson d’horreur, NICOM. (PHOT. <i>Bibl. 143, 29).</i><p><b>Étym</b>. φρικώδης.`

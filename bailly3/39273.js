@@ -1,0 +1,1 @@
+lar[39273]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en danger, POL. <i>6, 25, 4</i> ; PLUT. <i>Sol. 13</i>.<p>•<i> Sup</i>. ἐπισφαλέστατα, PLUT. <i>Cato mi. 15</i>.<p><b>Étym</b>. ἐπισφαλής.`

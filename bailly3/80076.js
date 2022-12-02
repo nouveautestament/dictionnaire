@@ -1,0 +1,1 @@
+lar[80076]=`<b>Πηλο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Pèlobatès, <i>propr</i>. qui va dans la vase, <i>n. de grenouille,</i> BATR. <i>240, 244</i>.<p><b>Étym</b>. πηλός, βαίνω.`

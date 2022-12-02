@@ -1,0 +1,1 @@
+lar[101975]=`<b>ὑπ·ανοίγω</b> (<i>pf</i>. ὑπανέῳγα) <font color="purple">[ῠᾰν]</font> ouvrir secrètement, DÉM. <i>889 fin</i> ; LUC. <i>As. 13</i>.`

@@ -1,0 +1,1 @@
+lar[58745]=`<b>ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> de chien, ANTH. <i>12, 238</i>.<br><b>      2</b> <i>fig</i>. cynique, impudent, IL. <i>9, 373</i> ; HÉS. <i>O. 67, etc</i>.<p><b>Étym</b>. κύων.`

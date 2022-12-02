@@ -1,0 +1,1 @@
+lar[97441]=`<b>ός, όν</b> <font color="purple">[ᾰᾰ]</font> qui travaille <i>ou</i> qui file la laine, PLAT. <i>Ion 540c ;</i> ATH. <i>618d</i>.<p><b>Étym</b>. ταλασία, ἔργον.`

@@ -1,0 +1,1 @@
+lar[38846]=`<b>ἐπί·πυρον, ου (τὸ)</b> <font color="purple">[ῠ]</font> endroit de l’autel où était le feu, foyer de l’autel, HÉRON <i>Spir. 211</i>.<p><b>Étym</b>. ἐπί, πῦρ.`

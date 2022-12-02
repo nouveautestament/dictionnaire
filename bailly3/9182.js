@@ -1,0 +1,1 @@
+lar[9182]=`<b>ἀν·όδυρτος, ος, ον</b>, qu’on ne peut déplorer, POÈT. (M. ANT. <i>7, 51).</i><p><b>Étym</b>. ἀν-, ὀδύρομαι.`

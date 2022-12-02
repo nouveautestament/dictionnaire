@@ -1,0 +1,1 @@
+lar[76165]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action d’assaisonner, PHIL. <i>1, 389, etc</i>.<p><b>Étym</b>. παραρτύω.`

@@ -1,0 +1,1 @@
+lar[91134]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> modèle, PHIL. BYZ. <i>Bel. 51</i>.<p><b>Étym</b>. σκοπός.`

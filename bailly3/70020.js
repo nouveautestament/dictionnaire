@@ -1,0 +1,1 @@
+lar[70020]=`<b>ὀβριμο·εργός, ός, όν</b> <font color="purple">[ῐ]</font> qui agit avec force <i>ou</i> violence, <i>particul. en mauv. part,</i> hardi, audacieux, terrible, IL. <i>5, 403 ; 22, 418</i> ; HÉS. <i>Th. 996</i>.<p><b>Étym</b>. ὄβριμος, ἔργον.`

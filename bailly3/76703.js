@@ -1,0 +1,1 @@
+lar[76703]=`<b>παρ·ενήνοθε</b>, <i>3 sg. pf. ou ao.2 d’un verbe inus</i>. s’approcher, se présenter, pénétrer dans, <i>abs</i>. A.RH. <i>1, 664 ; dat</i>. ORPH. <i>Lith. 628</i>.<p><b>Étym</b>. <i>cf</i>. ἐπενήνοθε <i>et</i> κατενήνοθε.`

@@ -1,0 +1,1 @@
+lar[57820]=`<b>ῶν (αἱ)</b> Krènes, <i>propr</i>. « les Sources », <i>lieu d’Acarnanie,</i> THC. <i>3, 105, 106</i>.`

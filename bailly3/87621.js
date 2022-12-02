@@ -1,0 +1,1 @@
+lar[87621]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> habitué de la Pnyx, AR. <i>Eq. 42</i>.<p><b>Étym</b>. Πνύξ.`

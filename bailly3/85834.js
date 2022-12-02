@@ -1,0 +1,1 @@
+lar[85834]=`<font color="purple">[ῠ]</font> s’établir dans un pays en qualité d’étranger, SPT. <i>Ezech. 14, 7</i>.<p><b>Étym</b>. προσήλυτος.`

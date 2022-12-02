@@ -1,0 +1,1 @@
+lar[36370]=`<b>ατος (τὸ) :<br>      1</b> annonce, DH. <i>Dem. 33</i>.<br><b>      2</b> déclaration, promesse, DÉM. <i>397, 3</i> ; ARSTT. <i>Rhet. 2, 24, 11</i>.<br><b>      3</b> ce dont on fait profession, PLAT. <i>Prot. 319a, Euthyd. 274a.</i><br><b>      4</b> <i>au plur</i>. les comices, <i>à Rome,</i> PLUT. <i>M. 276c</i>.<p><b>Étym</b>. ἐπαγγέλλω.`

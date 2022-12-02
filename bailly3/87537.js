@@ -1,0 +1,1 @@
+lar[87537]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡᾰ]</font> précepte comme ceux de Pythagore, ALEX. (<i>Com. fr. 3, 483).</i><p><b>Étym</b>. πυθαγορίζω.`

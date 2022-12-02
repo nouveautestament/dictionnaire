@@ -1,0 +1,1 @@
+lar[49655]=`<b>ἰσο·κραής, ής, ές</b> <font color="purple">[ῑ̆]</font> également mélangé <i>ou</i> tempéré, HPC. <i>474, 4 conj. (vulg</i>. ἰσοκρατεῖ).<p><b>Étym</b>. ἴ. κεράννυμι.`

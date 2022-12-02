@@ -1,0 +1,1 @@
+lar[5813]=`<b>ἀμπελό·πρασον, ου (τὸ)</b> <font color="purple">[ᾰσ]</font> poireau de vigne (<i>Allium ampeloprasum</i> L.) DIOSC. <i>2, 180</i> ; ATH. <i>371f</i>.<p><b>Étym</b>. ἄ. πράσον.`

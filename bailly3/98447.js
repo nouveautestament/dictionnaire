@@ -1,0 +1,1 @@
+lar[98447]=`<b>τεσσαρακοντά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰᾰᾰῠ]</font> de quarante coudées, ATH. <i>202b ;</i> JOS. <i>B.J. 5, 5, 3</i>.<p><b>Étym</b>. τ. πῆχυς.`

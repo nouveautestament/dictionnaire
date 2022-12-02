@@ -1,0 +1,1 @@
+lar[10576]=`<i>adv</i>., par antiphrase, EUST. <i>399, etc</i>.<p><b>Étym</b>. ἀντιφράζω.`

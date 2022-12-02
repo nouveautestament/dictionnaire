@@ -1,0 +1,1 @@
+lar[104489]=`<b>ὑψί·ζωνος, ος, ον</b>, à la ceinture haute, CALL. <i>fr. 19, 1</i>.<p><b>Étym</b>. ὕ. ζώνη.`

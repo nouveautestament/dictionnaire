@@ -1,0 +1,1 @@
+lar[71725]=`<b>ὁμο·τράπεζος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange à la même table que, <i>dat</i>. HDT. <i>3, 132, etc.</i> ; XÉN. <i>An. 3, 2, 4</i> ; PLAT. <i>Leg. 868e, etc.</i> ; οἱ ὁμοτράπεζοι, les commensaux du roi, <i>chez les Perses,</i> XÉN. <i>Cyr. 7, 1, 30</i>.<p><b>Étym</b>. ὁμ. τράπεζα.`

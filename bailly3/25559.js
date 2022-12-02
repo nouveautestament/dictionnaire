@@ -1,0 +1,1 @@
+lar[25559]=`<b>οῦ (ὁ)</b> dispersion, SPT. <i>Ezech. 6, 8, etc</i>.`

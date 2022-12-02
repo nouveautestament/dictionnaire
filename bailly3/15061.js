@@ -1,0 +1,1 @@
+lar[15061]=`<b>ή, όν</b>, rapace, ARSTT. <i>Physiogn. 6, 47</i>.`

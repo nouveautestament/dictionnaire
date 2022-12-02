@@ -1,0 +1,1 @@
+lar[10348]=`<i>adv</i>., face à face, ARSTT. <i>Mir. 72</i>.`

@@ -1,0 +1,1 @@
+lar[37174]=`<i>adv</i>., d’une manière obscure, CHRYS. <i>4, 163, etc</i>.<p><b>Étym</b>. ἐπισκιάζω.`

@@ -1,0 +1,1 @@
+lar[99244]=`<b>Τιμο·κράτης, ους (ὁ)</b> <font color="purple">[ῑᾰ]</font> Timokratès, <i>h</i>. THC. <i>3, 105</i> ; XÉN. <i>Hell. 1, 7, 3, etc</i>.<p>➳ <i>Voc</i>. Τιμόκρατες, XÉN. <i>Hell. 7, 1, 13, etc</i>.<p><b>Étym</b>. τιμή, κράτος.`

@@ -1,0 +1,1 @@
+lar[99031]=`<i>ou</i> <b>Τιρίβαζος, ου (ὁ)</b> Tiribaze, <i>satrape perse,</i> PLUT. <i>Artax. 5, etc</i>.`

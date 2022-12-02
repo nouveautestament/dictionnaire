@@ -1,0 +1,1 @@
+lar[74237]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> d’enfant, enfantin, puéril, PLAT. <i>Phil. 14d ;</i> ARSTT. <i>Pol. 2, 9, 23, etc</i>.<p>•<i> Sup</i>. -έστατος, LGN <i>4, 1</i>.<p><b>Étym</b>. παιδάριον, -ωδης.`

@@ -1,0 +1,1 @@
+lar[75151]=`<b>ή, όν</b>, qui concerne la pleine lune, PTOL. <i>Tetr. 92</i> ; PROCL. <i>Ptol. 237</i>.<p><b>Étym</b>. πανσέληνος.`

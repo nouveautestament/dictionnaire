@@ -1,0 +1,1 @@
+lar[29524]=`<b>ἐγ·κατακλείω</b> <font color="darkgreen">(<i>ao</i>. ἐγκατέκλεισα)</font> enfermer dans, <i>dat</i>. HPC. <i>383, 52</i> ; TH. <i>C.P. 5, 13, 2</i>.<p><b>Étym</b>. ἐν, κ.`

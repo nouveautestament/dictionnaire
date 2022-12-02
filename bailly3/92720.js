@@ -1,0 +1,1 @@
+lar[92720]=`<b>στολο·δρομέω-ῶ</b>, naviguer de conserve, HÉRON <i>265a</i>.<p><b>Étym</b>. στόλος, δρόμος.`

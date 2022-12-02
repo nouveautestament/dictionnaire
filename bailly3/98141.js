@@ -1,0 +1,1 @@
+lar[98141]=`<b>Τελέ·νικος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Télénikos, <i>h</i>. AND. <i>1, 35 Baiter-Sauppe</i>.<p><b>Étym</b>. τέλος, νίκη.`

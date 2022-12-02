@@ -1,0 +1,1 @@
+lar[7584]=`<b>ἀνα·ρρώομαι</b> <font color="darkgreen">(<i>inf. ao</i>. -ώσασθαι)</font> reculer, ORPH. <i>Arg. 1263</i>.<p><b>Étym</b>. ἀνά, ῥώω.`

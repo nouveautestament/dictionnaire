@@ -1,0 +1,1 @@
+lar[62175]=`<b>ης (ἡ)</b> sorte de vêtement <i>ou</i> de manteau en peau, OD. <i>13, 224</i> ; THCR. <i>Idyl. 25, 254</i> ; A.RH. <i>2, 34</i>.<p><b>Étym</b>. λέπω.`

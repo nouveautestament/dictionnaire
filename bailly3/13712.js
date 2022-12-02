@@ -1,0 +1,1 @@
+lar[13712]=`<i>adv</i>., d’une manière affirmative, ORIG. <i>3, 546, etc</i>.`

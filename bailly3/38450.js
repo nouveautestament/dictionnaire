@@ -1,0 +1,1 @@
+lar[38450]=`<b>ἐπι·μίμνω</b> (<i>seul. prés</i>.) rester sur, rester attaché à, continuer, OD. <i>14, 66 ; 15, 372 ; cf</i>. ἐπιμένω.`

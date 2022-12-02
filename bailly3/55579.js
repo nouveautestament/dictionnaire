@@ -1,0 +1,1 @@
+lar[55579]=`<b>ης, ες</b>, d’aspect jaunâtre, HIPPIATR. <i>p. 253, 8</i>.<p><b>Étym</b>. κιρρός, -ωδης.`

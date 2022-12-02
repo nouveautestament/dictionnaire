@@ -1,0 +1,1 @@
+lar[8386]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰκ]</font> résignation, PLUT. <i>M. 90e, etc.</i> ; LUC. <i>Par. 53, etc</i>.<p><b>Étym</b>. ἀνεξίκακος.`

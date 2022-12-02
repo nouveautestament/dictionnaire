@@ -1,0 +1,1 @@
+lar[26473]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font><br><b>      1</b> défense en justice, plaidoirie, <i>Démad. 179, 19,</i> ARSTT. <i>Rhet. Al. 19, 4</i> ; POL. <i>3, 21, 3 ; 20, 9, 7</i> ; PLUT. <i>Per. 30</i>.<br><b>      2</b> <i>t. de rhét</i>. discours du genre judiciaire, ARSTT. <i>Rhet. Al. 2, 2 ; 19, 14</i>.<p><b>Étym</b>. δικαιολόγος.`

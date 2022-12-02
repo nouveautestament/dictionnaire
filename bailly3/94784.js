@@ -1,0 +1,1 @@
+lar[94784]=`<b>συν·ανδάνω</b> <font color="darkgreen">(<i>ao.2</i> συνεύαδον, <i>p</i>. *συνέϝαδον <font color="purple">[ᾰ]</font>)</font> convenir en même temps, Ps.-PHOCYL. <i>191</i> ; A.RH. <i>3, 30</i>.`

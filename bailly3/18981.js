@@ -1,0 +1,1 @@
+lar[18981]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> moucheté, tacheté, EUR. <i>I.A. 222 ; Hec. 90 ; etc.</i><br><b>      2</b> rapide, OPP. <i>C. 2, 314</i> ; ORPH. NONN.`

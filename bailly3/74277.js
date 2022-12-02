@@ -1,0 +1,1 @@
+lar[74277]=`<b>παιδο·βοσκός, ός, όν</b>, qui élève (<i>propr</i>. qui nourrit) des enfants, LUC. <i>Lex. 13</i>.<p><b>Étym</b>. π. βόσκω.`

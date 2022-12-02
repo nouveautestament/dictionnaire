@@ -1,0 +1,1 @@
+lar[50590]=`<i>adv.</i> :<br><b>      1</b> d’une manière opportune, en temps opportun, ESCHL. <i>Ag. 1372</i> ; XÉN. <i>Cyr. 4, 5, 49, etc.</i><br><b>      2</b> d’une manière mortelle, mortellement, ESCHL. <i>Ag. 1344</i> ; POL. <i>2, 69, 2</i>.<p>•<i> Cp</i>. -ωτέρως, XÉN. <i>l. c</i>.`

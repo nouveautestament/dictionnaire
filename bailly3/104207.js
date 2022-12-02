@@ -1,0 +1,1 @@
+lar[104207]=`<b>ὑπο·ψήχω</b>, raser légèrement <i>ou</i> peu à peu, ATH. <i>233d</i>.`

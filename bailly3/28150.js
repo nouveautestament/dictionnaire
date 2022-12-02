@@ -1,0 +1,1 @@
+lar[28150]=`<b>δυσ·αίσθητος, ος, ον</b> <font color="purple">[ῠ]</font> insensible, POLÉM. <i>179</i> ; ADAM. <i>Physiogn. 2, 22, p. 407</i> ; A. APHR. <i>Probl. 1, 72</i> ; GAL. <i>1, 346</i>.<p><b>Étym</b>. δ. αἰσθάνομαι.`

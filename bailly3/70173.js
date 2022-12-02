@@ -1,0 +1,1 @@
+lar[70173]=`<b>ή, όν</b>, lamentable, PLUT. <i>M. 499f ; adv</i>., ὀδυρτά, AR. <i>Ach. 1226,</i> d’une façon lamentable.<p><b>Étym</b>. <i>vb. de</i> ὀδύρομαι.`

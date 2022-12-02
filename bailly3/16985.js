@@ -1,0 +1,1 @@
+lar[16985]=`<b>Ἄ·τροπος, ου (ἡ)</b> Atropos, <i>une des trois Parques,</i> HÉS. <i>Th. 218, etc.</i> ; PLAT. <i>Leg. 960c ; etc</i>.<p><b>Étym</b>. <i>v</i>. ἄτροπος.`

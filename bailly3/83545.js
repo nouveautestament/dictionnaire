@@ -1,0 +1,1 @@
+lar[83545]=`<b>προ·αναζωγραφέω-ῶ</b> <font color="purple">[ᾰφ]</font> dessiner <i>ou</i> peindre d’avance, CHRYS.`

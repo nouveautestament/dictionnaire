@@ -1,0 +1,1 @@
+lar[42554]=`<b>εὐ·κύλιστος, ος, ον</b> <font color="purple">[ῠ]</font> qui roule <i>ou</i> pivote facilement. HÉRON <i>Aut. 245</i>.<p><b>Étym</b>. εὖ, κυλίω.`

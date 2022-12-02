@@ -1,0 +1,1 @@
+lar[24925]=`<font color="purple">[ῐκ]</font> pratiquer la dialectique, M. ANT. <i>8, 13</i>.`

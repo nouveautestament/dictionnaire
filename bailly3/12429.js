@@ -1,0 +1,1 @@
+lar[12429]=`<b>ἀπο·θρίξ, τριχός (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> tondu, CALL. <i>fr. 341</i>.`

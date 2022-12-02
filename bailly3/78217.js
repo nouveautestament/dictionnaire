@@ -1,0 +1,1 @@
+lar[78217]=`<i>adv.</i> :<br><b>      1</b> d’une manière travaillée, <i>p. opp. à</i> πεφυκότως, ARSTT. <i>Rhet. 3, 2, 4</i>.<br><b>      2</b> artificiellement, <i>p. opp. à</i> ἀληθῶς, PLAT. <i>Rsp. 485d</i>.<p><b>Étym</b>. πλάσσω.`

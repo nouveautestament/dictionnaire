@@ -1,0 +1,1 @@
+lar[74991]=`<b>παν·επίθυμος, ος, ον</b> <font color="purple">[ᾰῐῡ]</font> plein de désirs, POLÉM. <i>Physiogn. p. 245</i>.`

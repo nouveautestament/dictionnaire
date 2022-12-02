@@ -1,0 +1,1 @@
+lar[54152]=`<b>εως (ἡ)</b> action de faire griller, GAL. <i>2, 29</i>.<p><b>Étym</b>. κατοπτάω.`

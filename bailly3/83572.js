@@ -1,0 +1,1 @@
+lar[83572]=`<b>προ·ανασείω :<br>      1</b> lever et agiter en avant, DS. <i>5, 29</i>.<br><b>      2</b> agiter d’avance, <i>fig</i>. PLUT. <i>C. Gracch. 4</i>.`

@@ -1,0 +1,1 @@
+lar[3337]=`<i>adv.</i> :<br><b>      1</b> avec indifférence, ANTH. <i>9, 375</i> ; Q. SM. <i>13, 6</i>.<br><b>      2</b> sans pitié, IL. <i>22, 465 ; 24, 417, etc</i>.`

@@ -1,0 +1,1 @@
+lar[31330]=`<b>ἐκ·θολόω-ῶ</b> (<i>prés</i>. -θολοῖ) rendre trouble, troubler, PROCL. <i>Ptol. 183</i>.`

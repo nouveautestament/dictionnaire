@@ -1,0 +1,1 @@
+lar[69088]=`<i>adv</i>., en piquant, DYSC. <i>Adv. p. 611, 30</i>.<p><b>Étym</b>. νύσσω.`

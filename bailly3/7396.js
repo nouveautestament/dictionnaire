@@ -1,0 +1,1 @@
+lar[7396]=`<b>εως (ἡ)</b> chute d’un os pourri, HPC. <i>157e</i>.<p><b>Étym</b>. ἀναπλέω.`

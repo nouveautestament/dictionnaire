@@ -1,0 +1,1 @@
+lar[68179]=`<b>νεό·κτητος, ος, ον</b>, nouvellement acquis, DC. <i>49, 44</i> ; APP. <i>Mithr. 16</i>.<p><b>Étym</b>. ν. κτάομαι.`

@@ -1,0 +1,1 @@
+lar[108886]=`<b>χρε·άρπαξ, αγος</b> <font color="purple">[ᾰγ]</font> <i>adj. m</i>. qui saisit l’argent, cupide, MAN. <i>4, 330</i>.<p><b>Étym</b>. χρέος, ἁρπάζω.`

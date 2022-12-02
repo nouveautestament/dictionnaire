@@ -1,0 +1,1 @@
+lar[95408]=`<b>συν·εκτανύω</b> <font color="purple">[ᾰ]</font> étendre avec <i>ou</i> en même temps, HPC. <i>Art. 823</i>.`

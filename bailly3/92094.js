@@ -1,0 +1,1 @@
+lar[92094]=`<b>ή, όν :<br>      1</b> qui peut être réglé, PLAT. <i>Charm. 154b.</i><br><b>      2</b> qu’on peut mesurer, ARR. (SUID.).<p><b>Étym</b>. <i>vb. de</i> σταθμάω.`

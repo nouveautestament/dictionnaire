@@ -1,0 +1,1 @@
+lar[27826]=`<font color="purple">[ᾱᾰ]</font> <i>adv</i>., dramatiquement, d’une manière théâtrale, BAS. <i>1, 935a</i>.`

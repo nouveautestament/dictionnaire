@@ -1,0 +1,1 @@
+lar[47039]=`<b>ή, όν</b>, de Thespies, THCR. <i>Idyl. 4, 76</i> ; MACH. (ATH. <i>583b</i>).<p><b>Étym</b>. Θεσπιαί.`

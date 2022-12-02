@@ -1,0 +1,1 @@
+lar[103780]=`<b>ὑπο·ρρίπτω :<br>      1</b> jeter sous : τοῖς θηρίοις τινά, PLUT. <i>Eum. 17,</i> qqn aux bêtes.<br><b>      2</b> soumettre : τινί τινα, PHIL. <i>1, 376,</i> une personne à une autre.<p><b>Étym</b>. ὑ. ῥίπτω.`

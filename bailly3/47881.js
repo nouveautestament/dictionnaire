@@ -1,0 +1,1 @@
+lar[47881]=`<b>ας (ἡ)</b> sarriette (<i>Satureia hortensis</i> L.) <i>plante,</i> TH. <i>C.P. 3, 1, 4</i> ; DIOSC. <i>3, 45</i>.`

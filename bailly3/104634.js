@@ -1,0 +1,1 @@
+lar[104634]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Phædimos, <i>h</i>. OD. <i>4, 617 ; 15, 117</i> ; THC. <i>5, 42</i> ; DÉM. <i>Or. 19, 196 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. φαίδιμος.`

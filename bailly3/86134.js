@@ -1,0 +1,1 @@
+lar[86134]=`<b>προσ·μετρέω-ῶ</b>, mesurer en sus, HYPÉR. <i>et</i> IS. (POLL. <i>4, 166</i>).`

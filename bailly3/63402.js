@@ -1,0 +1,1 @@
+lar[63402]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> habitant <i>ou</i> citoyen d’une grande ville, PHIL. <i>1, 37</i>.<p><b>Étym</b>. μεγαλόπολις.`

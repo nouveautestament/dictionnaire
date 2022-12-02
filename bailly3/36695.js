@@ -1,0 +1,1 @@
+lar[36695]=`<b>ατος (τὸ)</b> fleur, <i>fig</i>. la partie principale <i>ou</i> la plus brillante d’une chose, éclat, JAMBL. <i>Nicom. ar. 53c</i>.<p><b>Étym</b>. ἐπανθέω.`

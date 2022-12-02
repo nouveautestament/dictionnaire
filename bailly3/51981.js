@@ -1,0 +1,1 @@
+lar[51981]=`<b>καρυκο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰῡ]</font> qui prépare des civets <i>ou</i> des ragoûts, cuisinier, ACHÆ. (ATH. <i>173d</i>).<p><b>Étym</b>. κ. ποιέω.`

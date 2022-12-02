@@ -1,0 +1,1 @@
+lar[24257]=`<i>adv</i>., de manière à capter la faveur du peuple, BAS. <i>2, 366c</i>.`

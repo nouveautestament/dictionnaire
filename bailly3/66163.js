@@ -1,0 +1,1 @@
+lar[66163]=`<b>ωνος (ὁ)</b> Mnasôn, <i>h</i>. LUC. <i>Philops. 22</i>.`

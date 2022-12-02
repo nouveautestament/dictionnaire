@@ -1,0 +1,1 @@
+lar[78362]=`<b>περι·ακμάζω</b>, être dans toute sa force, DÉMOCR. (CLÉM. <i>498</i>).`

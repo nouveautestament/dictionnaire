@@ -1,0 +1,1 @@
+lar[4567]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> salé, ANTH. <i>9, 377</i> ; STR. <i>197</i>.<p><b>Étym</b>. ἁλίζω.`

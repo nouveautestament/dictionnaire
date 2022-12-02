@@ -1,0 +1,1 @@
+lar[6874]=`<b>ιδος (ἡ)</b> Anaïtis :<br><b>      1</b> <i>déesse arménienne (Aphrodite)</i> PLUT. <i>Artax. 27</i>.<br><b>      2</b> <i>ép. d’Artémis en Lydie,</i> PAUS. <i>3, 16, 8</i>.`

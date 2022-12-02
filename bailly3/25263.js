@@ -1,0 +1,1 @@
+lar[25263]=`<b>δια·πιδάω-ῶ</b> <font color="purple">[πῑ]</font> (<i>seul. prés. 3 pl</i>. -πιδῶσι) faire s’épancher à travers, ARSTT. <i>Meteor. 1, 13, 12</i>.`

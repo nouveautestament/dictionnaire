@@ -1,0 +1,1 @@
+lar[88019]=`<b>πυρσο·έλικτος, ος, ον</b>, qui se tord en spirales de feu, POÈT. (MARIN. <i>V. Procl. 28).</i><p><b>Étym</b>. πυρσός, ἑλίσσω.`

@@ -1,0 +1,1 @@
+lar[87637]=`<b>πυκνό·σαρκος, ος, ον</b>, aux chairs fermes, solides, HPC. <i>241, 36</i> ; ARSTT. <i>Probl. 1, 20</i>.<p><b>Étym</b>. πυκνός, σάρξ.`

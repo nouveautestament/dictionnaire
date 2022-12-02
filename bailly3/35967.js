@@ -1,0 +1,1 @@
+lar[35967]=`<i>adv</i>., d’une façon abstraite, PROCL. <i>Plat. Parm. 688 Stallb</i>.<p><b>Étym</b>. ἐξαιρέω.`

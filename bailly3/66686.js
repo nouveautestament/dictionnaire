@@ -1,0 +1,1 @@
+lar[66686]=`<b>μονό·χροος-ους, οος-ους, οον-ουν</b>, qui est d’une seule couleur, ARSTT. <i>H.A. 5, 34, 1, etc</i>.<p><b>Étym</b>. μ. χρόα.`

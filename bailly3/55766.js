@@ -1,0 +1,1 @@
+lar[55766]=`ébrancher, <i>d’où p. ext. fig</i>. abattre, décourager, AR. <i>Eq. 166</i>.<p><b>Étym</b>. κλαστός.`

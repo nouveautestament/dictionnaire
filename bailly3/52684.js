@@ -1,0 +1,1 @@
+lar[52684]=`<b>κατ·αλαλάζω</b> <font color="purple">[ᾰλᾰλ]</font> pousser un cri de guerre, AQU. <i>Ps. 146, 7</i>.`

@@ -1,0 +1,1 @@
+lar[28721]=`<b>δυσ·όμιλος, ος, ον</b> <font color="purple">[ῠῑ]</font><br><b>      1</b> dont le commerce est funeste, ESCHL. <i>Ag. 746</i>.<br><b>      2</b> d’un commerce difficile, PLUT. <i>Demetr. 42</i>.<p><b>Étym</b>. δ. ὅμιλος.`

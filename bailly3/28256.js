@@ -1,0 +1,1 @@
+lar[28256]=`<b>δυσβατο·ποιέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> rendre le passage <i>ou</i> la marche difficile, XÉN. <i>Hipp. 8, 9 dout</i>.<p><b>Étym</b>. δύσβατος, π.`

@@ -1,0 +1,1 @@
+lar[101373]=`<b>εσσα, εν</b> <font color="purple">[ῠ]</font> <i>béot. c</i>. ὑγιής, PD. <i>O. 5, 53</i>.`

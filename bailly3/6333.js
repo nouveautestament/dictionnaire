@@ -1,0 +1,1 @@
+lar[6333]=`<b>ἀμφι·ποτάομαι-ῶμαι</b> <font color="darkgreen">(<i>seul. impf. 3 sg</i>. ἀμφεποτᾶτο)</font> voltiger autour, IL. <i>2, 315</i>.`

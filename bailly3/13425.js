@@ -1,0 +1,1 @@
+lar[13425]=`<b>ἀπο·στερεόω-εῶ</b>, rendre tout à fait solide, ARSTT. <i>Mir. 89, 134</i>.`

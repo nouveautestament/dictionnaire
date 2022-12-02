@@ -1,0 +1,1 @@
+lar[93305]=`<b>συγ·καταίρω</b>, aborder ensemble <i>ou</i> en même temps, POL. <i>1, 52, 6</i> ; PLUT. <i>Crass. 20 ; fig</i>. THÉM. <i>42b</i>.`

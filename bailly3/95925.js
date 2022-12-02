@@ -1,0 +1,1 @@
+lar[95925]=`<b>ας (ἡ)</b> <font color="purple">[ᾱτ]</font> <i>fém. c</i>. συνθεατής AR. <i>fr. 399 Dind</i>.`

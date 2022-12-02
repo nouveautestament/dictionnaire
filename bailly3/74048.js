@@ -1,0 +1,1 @@
+lar[74048]=`<b>ὀψο·πωλία, ας (ἡ)</b> marché aux comestibles, <i>particul</i>. aux poissons, CLÉARQ. (ATH. <i>6a</i>) ; STR. <i>658</i>.<p><b>Étym</b>. ὄψον, πωλέω.`

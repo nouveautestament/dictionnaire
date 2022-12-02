@@ -1,0 +1,1 @@
+lar[48660]=`<b>ἱερόω-ῶ</b>, consacrer, sanctifier, THC. <i>5, 1</i> ; PLAT. <i>Leg. 771b ;</i> PLUT. <i>M. 403f, 981d, etc</i>.<p><b>Étym</b>. ἱερός.`

@@ -1,0 +1,1 @@
+lar[79715]=`<b>περι·ώδυνος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>act</i>. qui cause une vive douleur, ESCHL. <i>Ag. 1448</i> ; PLAT. <i>Leg. 873c.</i><br><b>      2</b> <i>pass</i>. qui éprouve une vive douleur, HPC. <i>402, 40</i> ; DÉM. <i>1260, 25</i>.<p><b>Étym</b>. π. ὀδύνη.`

@@ -1,0 +1,1 @@
+lar[11128]=`<b>ἀπ·αιολάω-ῶ</b>, égarer, <i>en parl. d’un doute qui égare la pensée,</i> EUR. <i>Ion 549</i> ; τινά τινος, BABR. <i>95, 99,</i> tromper qqn au sujet de qqe ch.`

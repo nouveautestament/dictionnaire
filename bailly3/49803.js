@@ -1,0 +1,1 @@
+lar[49803]=`<b>ῶν (οἱ)</b> les Israélites <i>ou</i> descendants d’Israël, NT. <i>Joh. 1, 48, etc</i>.<p><b>Étym</b>. <i>v</i>. Ἰσραήλ.`

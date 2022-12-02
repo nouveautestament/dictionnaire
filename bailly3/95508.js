@@ -1,0 +1,1 @@
+lar[95508]=`<b>συν·εξαπατάω-ῶ</b> <font color="purple">[ᾰᾰτ]</font> tromper avec <i>ou</i> en même temps, DÉM. <i>673, 2 ; au pass</i>. DÉM. <i>202, 14</i>.`

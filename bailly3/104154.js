@@ -1,0 +1,1 @@
+lar[104154]=`<b>ὑπο·χερσόω-ῶ</b>, faire sécher une terre en dessous, <i>d’où au pass</i>. devenir sec en dessous, NYSS.`

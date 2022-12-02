@@ -1,0 +1,1 @@
+lar[85931]=`<b>ος, ον</b>, dont on rit par-dessus le marché, LGS <i>2, 19</i>.<p><b>Étym</b>. προσκαταγελάω.`

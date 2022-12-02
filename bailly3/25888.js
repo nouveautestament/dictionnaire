@@ -1,0 +1,1 @@
+lar[25888]=`<b>ή, όν</b> <font color="purple">[ῠλ]</font> propre à conserver, <i>gén</i>. PLAT. <i>Def. 412a ;</i> PLUT. <i>M. 276a</i>.<p><b>Étym</b>. διαφυλάσσω.`

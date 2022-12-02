@@ -1,0 +1,1 @@
+lar[62586]=`<b>μακρο·ψυχία, ας (ἡ)</b> <font color="purple">[ῡ]</font> qui a l’âme vaste, grande, CIC. <i>Att. 9, 11</i>.<p><b>Étym</b>. μ. ψυχή.`

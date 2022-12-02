@@ -1,0 +1,1 @@
+lar[23113]=`<b>αντος (ὁ)</b> <font color="purple">[ᾰ]</font> Damas, <i>h</i>. Q. SM. <i>8, 303</i> ; DS. <i>etc</i>.`

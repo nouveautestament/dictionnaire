@@ -1,0 +1,1 @@
+lar[45756]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> fièvre continue, HPC. <i>266, 35</i> ; GAL. <i>7, 132</i>.<br><b>      2</b> <i>p. suite,</i> frisson de fièvre, THGN. <i>174</i> ; AR. <i>fr. 315 ; fig</i>. ἀηδόνων ἠπ. PHRYN. COM. (ATH. <i>44d</i>) qui donne le frisson aux rossignols, <i>en parl. d’un mauvais poète</i>.`

@@ -1,0 +1,1 @@
+lar[78000]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de cinq mois, HIPPIATR. <i>67, 17</i>.<p><b>Étym</b>. πεντάμηνος.`

@@ -1,0 +1,1 @@
+lar[15165]=`<b>ἀ·ρριγέως</b> <font color="purple">[ῑ]</font> <i>adv</i>., sans froid, HPC. <i>Acut. 388</i>.<p><b>Étym</b>. ἀ, ῥῖγος.`

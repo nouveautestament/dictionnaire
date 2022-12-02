@@ -1,0 +1,1 @@
+lar[97503]=`<b>τανα·ηχέτα, αο</b> <font color="purple">[ᾰᾰᾰ]</font> <i>adj. m</i>. au retentissement prolongé, OPP. <i>C. 2, 144</i>.<p><b>Étym</b>. ταναός, ἦχος.`

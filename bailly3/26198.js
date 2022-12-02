@@ -1,0 +1,1 @@
+lar[26198]=`<b>δι·ενοχλέω-ῶ</b>, troubler <i>ou</i> importuner grandement, DH. <i>5, 9</i> ; τινα, DÉM. <i>446, 25</i> ; τινι, JOS. <i>A.J. 9, 3, 1</i> ; PHIL. <i>2, 590</i> ; ARISTÉN. <i>1, 5 ; 2, 13,</i> qqn.`

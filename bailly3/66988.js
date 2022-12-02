@@ -1,0 +1,1 @@
+lar[66988]=`<b>οῦ (ὁ)</b> murmure, sorte de grognement, ARSTT. <i>H.A. 9, 37</i> ; DS. <i>18, 17 et 92</i>.<p><b>Étym</b>. μύζω.`

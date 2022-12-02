@@ -1,0 +1,1 @@
+lar[52376]=`<b>εως (ἡ) :<br>      1</b> action d’atteler, d’accoupler, PLUT. <i>M. 750c.</i><br><b>      2</b> halte, campement, PLUT. <i>Syll. 28</i>.<p><b>Étym</b>. καταζεύγνυμι.`

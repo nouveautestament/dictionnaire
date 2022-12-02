@@ -1,0 +1,1 @@
+lar[53636]=`<b>κατα·φθάνω</b>, prévenir, devancer, surprendre, <i>acc</i>. SPT. <i>Jud. 20, 42</i>.`

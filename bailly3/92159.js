@@ -1,0 +1,1 @@
+lar[92159]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> séditieux, PLAT. <i>Pol. 303c ;</i> ESCHN. <i>83, 34</i> ; PLUT. <i>Cor. 6</i>.<p><b>Étym</b>. στασιάζω.`

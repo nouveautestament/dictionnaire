@@ -1,0 +1,1 @@
+lar[4015]=`<b>ἀλαβ·άρχης, ου (ὁ)</b> <font color="purple">[ᾰλᾰ]</font> préposé aux écritures, <i>d’où</i> intendant <i>ou</i> percepteur ; <i>p. suite,</i> magistrat suprême, <i>chez les Juifs d’Alexandrie,</i> JOS. <i>A.J. 18, 8, 1 ; 19, 5, 1</i> (ἄλαβα, encre, <i>dans</i> HSCH., ἄρχω).`

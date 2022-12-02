@@ -1,0 +1,1 @@
+lar[64772]=`<b>μετα·κομίζω</b>, emporter, transporter : τι εἰς τόπον τινά, PLAT. <i>Leg. 904d ;</i> POL. <i>3, 42, 8,</i> qqe ch. qqe part.<br><b><i>Moy.</i></b> faire transporter, <i>acc</i>. LYCURG. <i>155, 5</i>.`

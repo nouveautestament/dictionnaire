@@ -1,0 +1,1 @@
+lar[16014]=`<b>ἀ·σπάρακτος, ος, ον</b> <font color="purple">[πᾰ]</font> non tiraillé, non déchiré, ORIB. <i>125, 8, 1</i>.<p><b>Étym</b>. ἀ, σπαράσσω.`

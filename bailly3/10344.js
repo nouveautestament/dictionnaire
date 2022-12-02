@@ -1,0 +1,1 @@
+lar[10344]=`<b>ἀντι·προστίθημι</b>, ajouter à son tour <i>ou</i> en retour, NYSS. <i>1, 1120 Migne</i>.`

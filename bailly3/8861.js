@@ -1,0 +1,1 @@
+lar[8861]=`<b>ἀνθο·δόκος, ος, ον</b>, qui contient des fleurs, MOSCH. <i>2, 34</i>.<p><b>Étym</b>. ἄνθος, δέκομαι <i>c</i>. δέχομαι.`

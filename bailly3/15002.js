@@ -1,0 +1,1 @@
+lar[15002]=`<font color="purple">[ᾰ]</font> labourer, LYC. <i>1072</i> ; NIC. <i>Th. 6, etc</i>.<p><b>Étym</b>. ἄροτρον.`

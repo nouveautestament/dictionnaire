@@ -1,0 +1,1 @@
+lar[36154]=`<b>ἐξ·ονομαίνω</b>, appeler <i>ou</i> désigner par son nom, IL. <i>3, 166</i> ; OD. <i>6, 66</i> ; HH. <i>Ven. 253</i>.<p>➳ <i>Ao. sbj. 2 sg</i>. ἐξονομήνῃς, IL. <i>l. c. ; inf</i>. ἐξονομῆναι, OD. <i>l. c</i>.<p><b>Étym</b>. ἐξ, ὄνομα.`

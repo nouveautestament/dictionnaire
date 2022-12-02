@@ -1,0 +1,1 @@
+lar[75155]=`<b>παν·σθενής, ής, ές</b>, tout à fait fort, tout-puissant, CLÉM. <i>857, etc</i>.<p><b>Étym</b>. π. σθένος.`

@@ -1,0 +1,1 @@
+lar[12563]=`<b>ἀπο·κιδαρόω-ῶ</b> <font color="purple">[ῐᾰ]</font> dépouiller de la cidare, SPT. <i>Lev. 10, 6 ; 21, 20</i>.<p><b>Étym</b>. ἀπό, κίδαρις.`

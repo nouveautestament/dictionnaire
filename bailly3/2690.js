@@ -1,0 +1,1 @@
+lar[2690]=`<i>adv</i>., de mal en pis, d’une manière de plus en plus terrible, IL. <i>7, 97</i>.<p><b>Étym</b>. αἰνός, -θεν.`

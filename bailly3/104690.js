@@ -1,0 +1,1 @@
+lar[104690]=`<b>οῦς (ἡ)</b> Phæô, <i>Hyade,</i> HÉS. <i>fr. 60 Gaisford</i>.`

@@ -1,0 +1,1 @@
+lar[98100]=`<b>ου</b>, <i>épq</i>. <b>-αο (ὁ)</b> <font color="purple">[ῐᾱ]</font> le fils de Tektôn (Polynéos) OD. <i>8, 114</i>.<p><b>Étym</b>. Τέκτων.`

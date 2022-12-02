@@ -1,0 +1,1 @@
+lar[61893]=`<b>ίδος</b> <font color="purple">[ῠ]</font> <i>adj. f</i>. de Lykomèdès : αἱ Λ. BION <i>2, 8, 15,</i> les filles de Lykomèdès.<p><b>Étym</b>. Λυκομήδης.`

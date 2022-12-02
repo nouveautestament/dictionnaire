@@ -1,0 +1,1 @@
+lar[76098]=`<b>παρα·ποδίζω</b>, entraver, empêcher : τι, POL. <i>2, 28, 8,</i> qqe ch. ; <i>au pass. abs</i>. PLAT. <i>Leg. 652b, Ep. 330b ;</i> παραποδίζεσθαί τινος, CLÉM. <i>172 ; ou</i> πρός τι, SEXT. <i>M. 1, 193 ou</i> εἴς τι, SEXT. <i>M. 1, 171,</i> être gêné pour qqe ch., détourné de qqe ch.<p><b>Étym</b>. π. πούς.`

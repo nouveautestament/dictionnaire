@@ -1,0 +1,1 @@
+lar[58505]=`<b>ου (ὁ)</b> Kythnos (<i>auj</i>. Kýthnos <i>ou</i> Thermiá) <i>Cyclade,</i> HDT. <i>7, 90 ; 8, 67</i>.`

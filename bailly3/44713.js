@@ -1,0 +1,1 @@
+lar[44713]=`<b>ή, όν</b>, qui concerne les animaux, ARSTT. <i>P.A. 1, 5, 4, etc.</i> ; ATH. <i>328f</i>.<p><b>Étym</b>. ζῷον.`

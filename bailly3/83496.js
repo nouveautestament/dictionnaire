@@ -1,0 +1,1 @@
+lar[83496]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> προαγωνίζομαι, PLAT. <i>Leg. 796a</i>.`

@@ -1,0 +1,1 @@
+lar[35132]=`<b>ἐν·τριτωνίζω</b> <font color="purple">[ρῑ]</font> <font color="darkgreen">(<i>ao</i>. ἐνετριτώνισα)</font> mettre trois cinquièmes d’eau, AR. <i>Eq. 1189</i>.<p><b>Étym</b>. ἐν, Τριτωνίς, <i>jeu de mots sur</i> Τριτογενής.`

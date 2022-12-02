@@ -1,0 +1,1 @@
+lar[18820]=`<b>βαθυ·τέρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> que sa charge fait plonger profondément (<i>navire</i>), OPP. <i>C. 2, 87</i>.<p><b>Étym</b>. β. τέρμα.`

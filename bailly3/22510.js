@@ -1,0 +1,1 @@
+lar[22510]=`<i>adv</i>., vivement, avec impétuosité, CLÉM. <i>Str. 4</i>.<p><b>Étym</b>. γοργός.`

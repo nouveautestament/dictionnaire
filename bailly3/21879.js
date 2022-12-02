@@ -1,0 +1,1 @@
+lar[21879]=`<b>γεω·πόνος, ου (ὁ)</b> celui qui travaille à la terre, cultivateur, agriculteur, ANTH. <i>6, 72 ; 7, 175, 281 ; 9, 742</i> ; PHIL. <i>1, 212, etc</i>.<p><b>Étym</b>. γῆ, πένομαι ; <i>cf</i>. γεηπόνος <i>et</i> *γηπόνος.`

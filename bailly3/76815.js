@@ -1,0 +1,1 @@
+lar[76815]=`<b>παρ·ευθύς</b> <font color="purple">[θῠ]</font> <i>adv</i>., aussitôt, DC. <i>63, 19</i>.<p><b>Étym</b>. π. εὐθύς.`

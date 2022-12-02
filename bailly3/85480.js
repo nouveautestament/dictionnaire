@@ -1,0 +1,1 @@
+lar[85480]=`<b>προσ·εδαφίζω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> heurter contre terre, RHÉT. <i>3, 661 W.</i><br><b>      2</b> fixer solidement, ESCHL. <i>Sept. 496</i>.<p><b>Étym</b>. π. ἔδαφος.`

@@ -1,0 +1,1 @@
+lar[58816]=`<b>κυνό·μορον, ου (τὸ)</b> <font color="purple">[ῠ]</font> fruit de l’églantier, GAL. <i>13, 158</i>.`

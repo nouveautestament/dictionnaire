@@ -1,0 +1,1 @@
+lar[43023]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec un vernis d’archaïsme, CIC. <i>Att. 15, 17</i>.<p><b>Étym</b>. εὐπινής.`

@@ -1,0 +1,1 @@
+lar[27661]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> troupe de gardes du corps, PLUT. <i>Alex. 77 ; au théâtre,</i> personnages figurant les gardes, PLUT. <i>M. 791e ;</i> LUC. <i>H. conscr. 4</i>.<p><b>Étym</b>. δορυφορέω.`

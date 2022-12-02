@@ -1,0 +1,1 @@
+lar[41822]=`<b>οῦ (ὁ) :<br>      1</b> action de regarder comme heureux, ARSTT. <i>Rhet. 1, 9, 34 ; Nic. 4, 7, 13</i> ; PLUT. <i>Pel. 34</i> ; LUC. <i>Dom. 5</i>.<br><b>      2</b> faveur de la fortune, bonheur, PLUT. <i>Syll. 6</i> ; DIOG. <i>Ep. 12</i>.<p><b>Étym</b>. εὐδαιμονίζω.`

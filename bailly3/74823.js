@@ -1,0 +1,1 @@
+lar[74823]=`<b>πάν·αιθος, η, ον</b>, tout resplendissant, IL. <i>14, 372</i>.<p><b>Étym</b>. π. αἴθω.`

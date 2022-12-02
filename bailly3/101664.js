@@ -1,0 +1,1 @@
+lar[101664]=`<b>υἱόω-ῶ</b>, <i>au moy</i>. prendre pour fils, EL. (PHOT. <i>p. 617, 1</i>) ; N. DAM. <i>Exc. p. 108 Orell</i>.<p><b>Étym</b>. υἱός.`

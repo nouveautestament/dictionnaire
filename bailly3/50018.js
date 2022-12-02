@@ -1,0 +1,1 @@
+lar[50018]=`<b>ου (ὁ)</b> <font color="purple">[ῑ ῑῐ]</font> le fils d’Iphiklos, <i>càd</i>. Podarkès, Q. SM. <i>1, 234</i>.<p><b>Étym</b>. <i>v</i>. Ἰφικλῆς.`

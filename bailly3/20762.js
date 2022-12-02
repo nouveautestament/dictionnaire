@@ -1,0 +1,1 @@
+lar[20762]=`<b>ου (ὁ)</b> habitant de Brundusium, POL. <i>3, 69</i> ; οἱ βρεντεσῖνοι, POL. <i>10, 1</i> ; STR. <i>etc. ou</i> βρεντεσινοί, PLUT. <i>Pomp. 62, etc</i>. les habitants de Brundusium.<p><b>Étym</b>. βρεντέσιον.`

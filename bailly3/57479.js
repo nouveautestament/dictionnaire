@@ -1,0 +1,1 @@
+lar[57479]=`<b>κοχυδέω-ῶ</b> <font color="purple">[ῠ]</font> s’écouler en abondance, PHÉRÉCR. (ATH. <i>269d</i>).<p>➳ <i>Ao. itér</i>. κοχύδεσκε, THCR. <i>Idyl. 2, 107</i>.<p><b>Étym</b>. <i>cf</i>. χέω.`

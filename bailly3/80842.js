@@ -1,0 +1,1 @@
+lar[80842]=`<b>πλειστο·βόλος, ος, ον</b>, qui amène (<i>propr</i>. qui jette) le plus fort point, <i>au jeu de dés,</i> ANTH. <i>7, 422</i>.<p><b>Étym</b>. πλεῖστος, βάλλω.`

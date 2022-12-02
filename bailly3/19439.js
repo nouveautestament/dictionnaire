@@ -1,0 +1,1 @@
+lar[19439]=`<b>ατος (τὸ)</b> indice sûr, marque certaine, preuve, JOS. <i>A.J. 2, 12, 4 ; 17, 1, 1</i>.<p><b>Étym</b>. βεβαιόω.`

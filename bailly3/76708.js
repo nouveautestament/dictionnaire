@@ -1,0 +1,1 @@
+lar[76708]=`<b>παρ·ενθυμέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. ήσομαι, <i>ao</i>. -ενεθυμήθην <font color="purple">[ῡ]</font>)</font> négliger, dédaigner, mépriser, M. ANT. <i>5, 5</i> ; PHIL. <i>1, 78, etc</i>.<p><b>Étym</b>. π. ἐνθυμέομαι.`

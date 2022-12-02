@@ -1,0 +1,1 @@
+lar[44111]=`<b>ἔφ·οδος, ος, ον</b>, accessible, praticable, POLYEN <i>1, 49</i>.<p>•<i> Sup</i>. -ώτατος, THC. <i>6, 66</i>.<p><b>Étym</b>. ἐπί, ὁδός.`

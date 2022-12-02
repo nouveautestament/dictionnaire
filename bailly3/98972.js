@@ -1,0 +1,1 @@
+lar[98972]=`<i>cp. de</i> τηλοῦ, HPC. <i>Art. 821 ; avec un gén</i>. HPC. <i>248, 14</i>.`

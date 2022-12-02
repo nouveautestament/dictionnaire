@@ -1,0 +1,1 @@
+lar[448]=`<i>adv</i>., en poussant, LUC. <i>Lex. 10</i>.<p><b>Étym</b>. ἄγω, -δην.`

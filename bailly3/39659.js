@@ -1,0 +1,1 @@
+lar[39659]=`<b>ις, ι</b>, <i>gén</i>. <b>ιτος</b> <font color="purple">[ᾰ]</font> plaisant, agréable, aimable, <i>en parl. de pers</i>. XÉN. <i>Cyr. 1, 4, 4</i> ; PLAT. <i>Rsp. 474e ; d’animaux,</i> XÉN. <i>Cyn. 5, 33 ; de choses,</i> PLAT. <i>Leg. 853d ;</i> τὸ ἐπίχαρι, XÉN. <i>An. 2, 6, 12</i> ; PLAT. <i>Rsp. 528d</i>, le charme, la grâce.<p><b>Étym</b>. ἐπιχαίρω.`

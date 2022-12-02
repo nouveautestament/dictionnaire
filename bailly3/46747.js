@@ -1,0 +1,1 @@
+lar[46747]=`<b>θεοποιέω-ῶ</b>, faire dieu, diviniser, <i>acc</i>. DH. <i>1, 209, 356 Reiske</i> ; LUC. <i>Scyth. 1</i> ; SEXT. <i>M. 7, 94</i>.<p><b>Étym</b>. θεοποιός.`

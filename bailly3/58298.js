@@ -1,0 +1,1 @@
+lar[58298]=`<i>(seul. prés</i>. JOS. <i>A.J. 17, 7, 7, et impf</i>. ἐκτίννυον, POLYEN <i>1, 23 et 25) c</i>. κτίννυμι.`

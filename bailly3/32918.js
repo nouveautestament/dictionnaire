@@ -1,0 +1,1 @@
+lar[32918]=`traiter par l’ellébore, HPC. <i>Mochl. 858</i> ; DÉM. <i>268, 3</i> ; PLUT. <i>Alex. 42 ; etc</i>.<p><b>Étym</b>. ἑλλέβορος.`

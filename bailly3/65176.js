@@ -1,0 +1,1 @@
+lar[65176]=`<font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. ιῶ)</font> transporter dans une autre résidence, <i>particul</i>. conduire une colonie, ARSTT. <i>Œc. 2, 33</i> ; PLUT. <i>Rom. 17, etc. ; fig</i>. mettre hors de soi, <i>acc</i>. MÉLANTH. (PLUT. <i>M. 551a</i>).<br><b><i>Moy.</i></b> émigrer, AR. <i>Eccl. 754</i>.<p><b>Étym</b>. μέτοικος.`

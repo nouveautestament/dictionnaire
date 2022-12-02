@@ -1,0 +1,1 @@
+lar[28519]=`<b>ας (ἡ)</b> <font color="purple">[θῡ]</font> découragement, affliction, SOPH. <i>fr. 584</i> ; EUR. <i>Suppl. 696</i> ; PLAT. <i>Leg. 666b, etc. ; au plur</i>. EUR. <i>Med. 691</i> ; ARSTT. <i>Probl. 30, 1</i>.<p><b>Étym</b>. δύσθυμος.`

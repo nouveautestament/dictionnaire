@@ -1,0 +1,1 @@
+lar[40164]=`<b>ἐραυνάω-ῶ</b>, <i>forme alexandrine p</i>. ἐρευνάω, SPT. <i>Gen. 31, 33 ; 44, 12, var.</i> ; NT. <i>Joh. 5, 39 (var</i>. ἐρευ-) ; <i>1Cor. 2, 10 ; 1Petr. 1, 11 ; Apoc. 2, 23</i>.`

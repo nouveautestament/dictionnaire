@@ -1,0 +1,1 @@
+lar[21563]=`<b>α (ὁ)</b> Géla (<i>auj</i>. Gela) <i>fl. de Sicile et v. du même nom,</i> THC. <i>6, 4</i> ; ANTH. <i>7, 40, etc</i>.<p>➳ <i>Gén</i>. Γέλα <font color="purple">[ᾱ]</font> ORACL. (DS. <i>Exc. Vat. p. 11). Dat</i>. Γέλᾳ, CALL. (SCH.-PD. <i>O. 2, 16</i>).`

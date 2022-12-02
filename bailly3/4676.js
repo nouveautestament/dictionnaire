@@ -1,0 +1,1 @@
+lar[4676]=`<b>ονος (ὁ)</b> <font color="purple">[μᾱ]</font> Alkmaôn, <i>h</i>. IL. <i>12, 394, etc</i>.`

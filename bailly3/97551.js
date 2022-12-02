@@ -1,0 +1,1 @@
+lar[97551]=`(<i>seul. 3 sg</i>. τάνυται) <font color="purple">[ᾰῠ]</font> se tendre, IL. <i>17, 393</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *tenh₂-, se tendre ; <i>cf</i>. τανύω <i>et</i> τείνω ; <i>v</i>. τανυ-.`

@@ -1,0 +1,1 @@
+lar[55474]=`<b>κιναβράω-ῶ</b> <font color="purple">[ῐνᾰ]</font> sentir le bouc, AR. <i>Pl. 294</i>.<p><b>Étym</b>. κινάβρα.`

@@ -1,0 +1,1 @@
+lar[41328]=`<b>ἑτερο·κίνητος, ος, ον</b> <font color="purple">[ῑ]</font> mû par une force étrangère, SIMPL. <i>Epict. p. 365</i> ; PROCL. <i>Plat. Parm. 617 Stallb</i>.<p><b>Étym</b>. ἕ. κινέω.`

@@ -1,0 +1,1 @@
+lar[80299]=`<b>ή, όν</b> <font color="purple">[πῑ]</font> propre à fouler :<br><b>      1</b> ἡ πιλητική (<i>s.-e</i>. τέχνη) l’art du foulon, PLAT. <i>Pol. 280c.</i><br><b>      2</b> qui contracte, ARSTT. <i>Probl. 14, 8</i>.<p><b>Étym</b>. πιλέω.`

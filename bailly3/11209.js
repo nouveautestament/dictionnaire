@@ -1,0 +1,1 @@
+lar[11209]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., mollement, délicatement, SOTAD. (ATH. <i>293c</i>) ; ANTH. <i>5, 129</i>.<p>•<i> Cp</i>. -ωτέρως, HPC. <i>Art. 31</i>.`

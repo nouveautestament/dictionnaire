@@ -1,0 +1,1 @@
+lar[72598]=`<b>ὀρειο·βάτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m. c</i>. ὀρειβάτης, SIB. <i>5, 43</i>.`

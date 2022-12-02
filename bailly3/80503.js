@@ -1,0 +1,1 @@
+lar[80503]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰᾱ]</font> habitant de Pitanè, <i>en Laconie</i> ; Πιτανάτης λόχος, THC. <i>1, 20</i>, le bataillon de Pitanè, <i>dans l’armée lacédémonienne</i>.<p>➳ <i>Ion. gén. pl</i>. Πιτανητέων, HDT. <i>9, 53</i>.<p><b>Étym</b>. Πιτάνη.`

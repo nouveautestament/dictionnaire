@@ -1,0 +1,1 @@
+lar[90613]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> sarclage, GEOP. <i>2, 24</i>.<p><b>Étym</b>. σκαλεύω.`

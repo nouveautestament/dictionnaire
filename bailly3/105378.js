@@ -1,0 +1,1 @@
+lar[105378]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. φιαλίς DURIS (ATH. <i>231b, 467c</i>) ; ARSTT. <i>Mir. 33</i>.`

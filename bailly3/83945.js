@@ -1,0 +1,1 @@
+lar[83945]=`<b>προ·διασκέπτομαι</b>, considérer auparavant, GAL. <i>9, 41</i>.`

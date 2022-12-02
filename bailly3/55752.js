@@ -1,0 +1,1 @@
+lar[55752]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. κληρίον.`

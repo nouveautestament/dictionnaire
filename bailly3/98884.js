@@ -1,0 +1,1 @@
+lar[98884]=`<b>τέωσ·περ</b>, <i>adv</i>., aussi longtemps que, DÉM. <i>Or. 25, § 70 Baiter-Sauppe</i>.<p><b>Étym</b>. τέως, -περ.`

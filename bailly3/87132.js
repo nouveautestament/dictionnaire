@@ -1,0 +1,1 @@
+lar[87132]=`<b>οῦ (ὁ)</b> anus, AR. <i>Eccl. 368, Vesp. 604</i> ; PARŒM. <i>1, 447 Gottl.</i> ; LUC. <i>As. 56</i>.`

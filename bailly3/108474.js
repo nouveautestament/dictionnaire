@@ -1,0 +1,1 @@
+lar[108474]=`<b>χιμαιρο·βάτης, ου</b> <font color="purple">[ῐᾰ]</font> <i>adj. m</i>. à pieds de chèvre, ANTH. <i>6, 35</i>.<p><b>Étym</b>. χίμαιρα, βαίνω.`

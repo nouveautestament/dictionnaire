@@ -1,0 +1,1 @@
+lar[82255]=`<b>ας (ἡ)</b> grande quantité, abondance, ARSTT. <i>H.A. 6, 4, 6</i>.<p>➳ <i>Ion</i>. πολυπληθείη, HPC. <i>Aër. 290</i>.<p><b>Étym</b>. πολυπληθής.`

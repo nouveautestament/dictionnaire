@@ -1,0 +1,1 @@
+lar[16473]=`<b>ἀ·σύμφυλος, ος, ον</b> <font color="purple">[φῡ]</font><br><b>      1</b> non de la même tribu <i>ou</i> de la même famille, étranger, LUC. <i>H. conscr. 11</i>.<br><b>      2</b> incompatible, PLUT. <i>M. 709b</i>.`

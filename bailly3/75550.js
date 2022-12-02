@@ -1,0 +1,1 @@
+lar[75550]=`<i>adv</i>., en courant, ORPH. <i>Arg. 856</i>.<p><b>Étym</b>. παράδρομος, -δην.`

@@ -1,0 +1,1 @@
+lar[97439]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλᾰ]</font> <i>c</i>. ταλασία, PLAT. <i>Pol. 282c, 283a, etc</i>.<p><b>Étym</b>. ταλασιουργός.`

@@ -1,0 +1,1 @@
+lar[28307]=`<b>δυσ·δίδακτος, ος, ον</b> <font color="purple">[ῐ]</font> difficile à instruire, HPC. <i>1283, 12</i>.<p><b>Étym</b>. δ. διδάσκω.`

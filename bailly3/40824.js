@@ -1,0 +1,1 @@
+lar[40824]=`<b>ιδος</b> <i>ou</i> <b>ιος (ὁ)</b> Éryxis, <i>h</i>. AR. <i>Ran. 934</i> ; ARSTT. <i>Nic. 1, 10</i> ; PLUT. <i>M. 688d, 1128a</i>.`

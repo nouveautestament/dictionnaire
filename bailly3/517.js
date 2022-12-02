@@ -1,0 +1,1 @@
+lar[517]=`<b>ἀγερσι·κύβηλις (ὁ)</b> <font color="purple">[ᾰῐῠ]</font> prêtre quêtant pour Cybèle, CRAT. (<i>Com. fr. 2, 51).</i><p><b>Étym</b>. ἀγείρω, Κυβήλη.`

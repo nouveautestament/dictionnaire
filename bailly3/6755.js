@@ -1,0 +1,1 @@
+lar[6755]=`<b>α, ον</b>, qu’il faut rechercher, HLD. <i>6, 9, p. 283 ; au neutre,</i> SEXT. <i>341 Bkk</i>.`

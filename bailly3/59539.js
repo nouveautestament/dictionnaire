@@ -1,0 +1,1 @@
+lar[59539]=`<b>λαιμο·δακής, ής, ές</b> <font color="purple">[ᾰ]</font> qui mord la gorge, ANTH. <i>6, 5</i>.<p><b>Étym</b>. λαιμός, δάκνω.`

@@ -1,0 +1,1 @@
+lar[94506]=`<b>συμ·ψαύω</b>, se toucher ensemble, HPC. <i>Off. 744</i> ; ARSTT. <i>H.A. 6, 3, 18</i> ; XÉN. <i>Conv. 4, 26</i> ; ἀλλήλοις, POL. <i>6, 29, 3,</i> les uns les autres ; τινός, STR. <i>514,</i> être limitrophe de, contigu à.`

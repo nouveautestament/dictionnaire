@@ -1,0 +1,1 @@
+lar[30655]=`<b>ή, όν</b>, qui concerne les poursuites par εἰσαγγελία, DÉM. <i>720, 18</i> ; νόμος εἰσ. HYPÉR. <i>Eux. 20, 49,</i> loi qui définit le droit de poursuite par εἰσαγγελία.<p><b>Étym</b>. εἰσαγγέλλω.`

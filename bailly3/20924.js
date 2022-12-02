@@ -1,0 +1,1 @@
+lar[20924]=`<b>ῶν (οἱ)</b> les Brytides, <i>famille d’Athènes,</i> DÉM. <i>1365</i>.`

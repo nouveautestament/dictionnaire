@@ -1,0 +1,1 @@
+lar[77922]=`<b>πενθ·ήμερος, ος, ον</b>, de cinq jours ; κατὰ πενθήμερον, XÉN. <i>Hell. 7, 1, 14,</i> pendant cinq jours.<p><b>Étym</b>. πέντε, ἡμέρα.`

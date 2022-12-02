@@ -1,0 +1,1 @@
+lar[98363]=`<b>ης (ἡ)</b> Tereina :<br><b>      1</b> <i>v. sur la côte de la Grande-Grèce,</i> LYC. <i>726</i>.<br><b>      2</b> <i>n. de f</i>. ANTH. <i>5, 111</i>.<p>➳ <i>Ion</i>. Τερείνη, ANTH. <i>l. c</i>.<p><b>Étym</b>. <i>fém. de</i> τέρην.`

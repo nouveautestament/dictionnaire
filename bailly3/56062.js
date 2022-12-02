@@ -1,0 +1,1 @@
+lar[56062]=`<b>ου</b> <font color="purple">[ῑᾰτ]</font> <i>adj. m.</i> : κλ. σεισμός, HÉRACLITE GRAMM. <i>All. Hom. 38,</i> tremblement de terre.<p><b>Étym</b>. κλίμα.`

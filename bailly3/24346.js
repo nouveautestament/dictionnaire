@@ -1,0 +1,1 @@
+lar[24346]=`<i>adv</i>., d’une façon vulgaire, ORIG. <i>c. Cels. 2, 434</i>.`

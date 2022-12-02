@@ -1,0 +1,1 @@
+lar[87700]=`<b>πυλόω-ῶ</b> <font color="purple">[ῠ]</font> fermer avec des portes, <i>acc</i>. XÉN. <i>Hell. 5, 4, 34 ; au pass</i>. AR. <i>Av. 1158</i>.<p><b>Étym</b>. πύλη.`

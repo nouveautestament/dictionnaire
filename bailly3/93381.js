@@ -1,0 +1,1 @@
+lar[93381]=`<b>συγ·κατατρέχω</b>, se rencontrer, s’entre-choquer, LEUCIPP. (DL. <i>9, 31</i>).`

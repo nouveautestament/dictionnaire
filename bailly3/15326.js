@@ -1,0 +1,1 @@
+lar[15326]=`<b>ἀρτι·γλυφής, ής, ές</b> <font color="purple">[ῠ]</font> nouvellement ciselé <i>ou</i> taillé, THCR. <i>Epigr. 4</i>.<p><b>Étym</b>. ἄ. γλύφω.`

@@ -1,0 +1,1 @@
+lar[48025]=`<b>έως (ὁ)</b> habitant de Thyrion ; οἱ Θυριεῖς, XÉN. <i>Hell. 6, 2, 37,</i> les habitants de Thyrion.<p><b>Étym</b>. Θύριον.`

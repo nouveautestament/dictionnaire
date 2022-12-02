@@ -1,0 +1,1 @@
+lar[5980]=`<font color="purple">[φᾰᾰ]</font> <i>adv. c</i>. ἀμφαδόν, OD. <i>19, 391</i> ; A.RH. <i>3, 615</i> ; NONN. <i>Jo. 16, 111</i>.`

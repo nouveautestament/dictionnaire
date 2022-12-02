@@ -1,0 +1,1 @@
+lar[71851]=`<b>ος, ον :<br>      1</b> <i>act</i>. injurieux, outrageant, IL. <i>1, 519, etc.</i> ; OD. <i>18, 326</i>.<br><b>      2</b> <i>pass</i>. honteux, ANTH. <i>9, 573</i>.<p><b>Étym</b>. ὄνειδος.`

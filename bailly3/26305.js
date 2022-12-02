@@ -1,0 +1,1 @@
+lar[26305]=`<b>ίδος (ἡ)</b> durée de deux ans, SPT. <i>2Reg. 12, 23</i>.<p><b>Étym</b>. <i>v</i>. διετής.`

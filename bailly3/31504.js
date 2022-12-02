@@ -1,0 +1,1 @@
+lar[31504]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font><br><b>      1</b> sécrétion, ARSTT. <i>Meteor. 1, 4</i> ; ARÉT. <i>31, etc.</i><br><b>      2</b> <i>p. suite,</i> excrément, ARSTT. <i>H.A. 7, 2</i>.<p><b>Étym</b>. ἐκκρίνω.`

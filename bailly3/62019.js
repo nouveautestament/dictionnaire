@@ -1,0 +1,1 @@
+lar[62019]=`<b>λυσί·ζωνος, ος, ον</b> <font color="purple">[ῡ]</font> <i>propr</i>. à la ceinture déliée, <i>d’où</i> :<br><b>      1</b> qui assiste les femmes en couche, <i>ép. d’Artémis ou d’Heileithyia,</i> THCR. <i>Idyl. 17, 60</i> ; ORPH. <i>H. 1, 7</i>.<br><b>      2</b> qui a son congé, <i>en parl. de soldats,</i> POLYEN <i>8, 24, 3</i>.<p><b>Étym</b>. λύω, ζώνη.`

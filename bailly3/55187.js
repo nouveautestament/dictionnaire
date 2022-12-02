@@ -1,0 +1,1 @@
+lar[55187]=`<b>ή, όν</b>, propre à charmer, à séduire, ATH. <i>633a</i>.<p><b>Étym</b>. κηλέω.`

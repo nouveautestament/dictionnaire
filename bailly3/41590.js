@@ -1,0 +1,1 @@
+lar[41590]=`<b>εὐ·ανάτμητος, ος, ον</b> <font color="purple">[ᾰν]</font> facile à disséquer, GAL. <i>4, 101f</i>.<p><b>Étym</b>. εὖ, ἀνατέμνω.`

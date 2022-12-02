@@ -1,0 +1,1 @@
+lar[16467]=`<b>ἀ·συμφανής, ής, ές</b> <font color="purple">[φᾰ]</font> non apparent, ARSTT. <i>Mir. 82, 2</i>.`

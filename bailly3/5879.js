@@ -1,0 +1,1 @@
+lar[5879]=`refluer, <i>en parl. de la mer,</i> PHIL. <i>1, 298, 674</i>.<p><b>Étym</b>. ἄμπωτις.`

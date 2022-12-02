@@ -1,0 +1,1 @@
+lar[107038]=`<b>φυγομαχέω-ῶ</b> <font color="purple">[ῠᾰ]</font> refuser (<i>litt</i>. fuir) le combat, faire retraite, POL. <i>3, 90, 10</i> ; PLUT. <i>Lyc. 18</i> ; DS. <i>17, 27, etc</i>.<p><b>Étym</b>. φυγόμαχος.`

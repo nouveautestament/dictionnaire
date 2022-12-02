@@ -1,0 +1,1 @@
+lar[69106]=`<b>νυκτ·ερέτης, ου (ὁ)</b> pêcheur (<i>propr</i>. rameur) de nuit, ANTH. <i>6, 11</i>.<p><b>Étym</b>. νύξ, ἐρέτης.`

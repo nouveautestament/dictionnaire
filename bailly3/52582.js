@@ -1,0 +1,1 @@
+lar[52582]=`<b>κατά·κοιτος, ος, ον</b>, qui est au lit, sur une couche, IBYC. (ATH. <i>601b</i>).<p><b>Étym</b>. κ. κοίτη.`

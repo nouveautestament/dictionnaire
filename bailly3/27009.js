@@ -1,0 +1,1 @@
+lar[27009]=`<b>οῦ (ὁ)</b> Dirphôssos, <i>le même que</i> Δίρφυς LYC. <i>375</i>.`

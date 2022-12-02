@@ -1,0 +1,1 @@
+lar[108812]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de diriger les chœurs, PLAT. <i>1 Alc. 125d</i>.<p><b>Étym</b>. χοροδιδάσκαλος.`

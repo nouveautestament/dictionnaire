@@ -1,0 +1,1 @@
+lar[71714]=`<b>ὁμό·τεχνος, ος, ον</b>, qui exerce la même profession, le même art que, confrère dans une profession <i>ou</i> un métier ; <i>gén</i>. PLAT. <i>Charm. 171c ; dat</i>. PLAT. <i>Lach. 186e ;</i> DÉM. <i>611, 4</i> ; LUC. <i>Demon. 23</i>.<p><b>Étym</b>. ὁμ. τέχνη.`

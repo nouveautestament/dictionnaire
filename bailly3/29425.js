@@ -1,0 +1,1 @@
+lar[29425]=`<b>εως (ἡ) :<br>      1</b> érection, construction, HDN <i>8, 5</i>.<br><b>      2</b> action d’éveiller, <i>d’où</i> réveil, HPC. <i>129 au plur. ; d’où</i> résurrection, NT. <i>Matth. 27, 53 ; fig</i>. excitation, PLAT. <i>Tim. 70a ;</i> ARSTT. <i>Nic. 3, 11</i>.<p><b>Étym</b>. ἐγείρω.`

@@ -1,0 +1,1 @@
+lar[74449]=`<b>ου (ὁ)</b> Palæstinos, <i>anc. n. du Strymon,</i> Ps.-PLUT. <i>Fluv. 11, 1</i>.`

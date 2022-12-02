@@ -1,0 +1,1 @@
+lar[58433]=`<b>ου (ὁ)</b> petite barque, ANTIPH. (<i>Com. fr. 3, 159</i>).`

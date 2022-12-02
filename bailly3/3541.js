@@ -1,0 +1,1 @@
+lar[3541]=`<font color="purple">[ᾱ]</font> <i>adv</i>., malgré soi, PLUT. <i>Fab. 5</i>.<p>➳ <i>Les Att. disent</i> ἀκόντως <i>ou</i> ἀκουσίως.<p><b>Étym</b>. ἄκων².`

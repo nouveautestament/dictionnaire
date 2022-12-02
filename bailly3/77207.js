@@ -1,0 +1,1 @@
+lar[77207]=`<font color="purple">[ῠ]</font> <i>adv</i>., par dérivation d’un mot, ARSTT. <i>Top. 2, 4, 4</i>.`

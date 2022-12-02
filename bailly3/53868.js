@@ -1,0 +1,1 @@
+lar[53868]=`<b>κατ·εμφορέομαι-οῦμαι</b> (<i>seul. prés</i>.) se remplir, se gorger de, <i>gén</i>. EUN. (SUID. <i>v°</i> χανδόν).`

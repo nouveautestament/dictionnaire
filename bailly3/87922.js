@@ -1,0 +1,1 @@
+lar[87922]=`<b>ης (ἡ)</b> <font color="purple">[ῠῐ]</font> <i>c</i>. πυρρίχη, ANTH. <i>12, 186</i>.`

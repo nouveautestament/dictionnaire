@@ -1,0 +1,1 @@
+lar[58672]=`<b>κυματο·φθόρος, ος, ον</b> <font color="purple">[ῡᾰ]</font> fléau de la mer, EUR. <i>fr. 637 Nauck (conj</i>. κυματότροφος).<p><b>Étym</b>. κῦμα, φθείρω.`

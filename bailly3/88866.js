@@ -1,0 +1,1 @@
+lar[88866]=`<b>ῥυμ·άρχης, ου (ὁ)</b> <font color="purple">[ῡ]</font> chef de la garde civique d’un quartier, EN. TACT. <i>Pol. 3</i>.<p><b>Étym</b>. ῥύμη, ἄρχω.`

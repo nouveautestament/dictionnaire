@@ -1,0 +1,1 @@
+lar[14669]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρ]</font> haut fait, GEOP. <i>Proœm. 2</i>.<p><b>Étym</b>. ἀριστεύω.`

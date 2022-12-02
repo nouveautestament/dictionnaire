@@ -1,0 +1,1 @@
+lar[52823]=`<b>εως (ἡ)</b> blâme, reproche, accusation, THC. <i>2, 41, etc.</i> ; PLUT. <i>Mar. 39</i>.<p><b>Étym</b>. καταμέμφομαι.`

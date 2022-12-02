@@ -1,0 +1,1 @@
+lar[103717]=`<b>εως (ἡ)</b> voie souterraine, PLUT. <i>M. 968b</i>.<p><b>Étym</b>. ὑποπορεύομαι.`

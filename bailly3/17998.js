@@ -1,0 +1,1 @@
+lar[17998]=`<b>ἀφεψαλόω-ῶ</b> <font color="purple">[ᾰᾰ]</font> brûler sans flamme <i>ou</i> sans éclat, brûler mal <i>ou</i> ne pas brûler, POLÉM. <i>2, 41</i>.<p><b>Étym</b>. ἀφέψαλος.`

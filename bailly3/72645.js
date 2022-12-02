@@ -1,0 +1,1 @@
+lar[72645]=`<b>ὀρεσσι·πάτος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui court à travers les montagnes, NONN. <i>D. 14, 250</i>.<p><b>Étym</b>. ὄρος, πατέω.`

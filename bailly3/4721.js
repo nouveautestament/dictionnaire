@@ -1,0 +1,1 @@
+lar[4721]=`<font color="purple">[ᾰχ]</font> <i>adv</i>., ailleurs, <i>sans mouv</i>. SOPH. <i>O.C. 43</i> ; XÉN. <i>Hell. 2, 3, 20</i>.<p><b>Étym</b>. <i>th</i>. *ἀλλαχο-.`

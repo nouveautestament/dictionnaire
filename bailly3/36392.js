@@ -1,0 +1,1 @@
+lar[36392]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> introduit, importé, PLUT. <i>Lys. 27</i>.<p><b>Étym</b>. ἐπαγωγός.`

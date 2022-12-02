@@ -1,0 +1,1 @@
+lar[42853]=`<b>εὔ·οινος, ος, ον</b>, qui produit du bon vin <i>ou</i> beaucoup de vin, STR. <i>241</i> ; ANTH. <i>6, 300</i>.<p>•<i> Sup</i>. -ότατος, M. TYR. <i>3, 10, p. 44</i>.<p><b>Étym</b>. εὖ, οἶνος.`

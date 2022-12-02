@@ -1,0 +1,1 @@
+lar[100002]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> d’espèce rude, <i>d’où</i> rude, âpre, ARSTT. <i>H.A. 5, 17, 8 dout.</i> ; TH. <i>Lap. § 62</i>.<p>➳ <i>Ion</i>. τρηχώδης, NIC. <i>l. c</i>.<p><b>Étym</b>. τραχύς, -ωδης.`

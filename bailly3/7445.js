@@ -1,0 +1,1 @@
+lar[7445]=`<b>εως (ἡ)</b> renouvellement d’une guerre, STR. <i>511</i>.`

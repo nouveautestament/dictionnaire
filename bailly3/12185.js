@@ -1,0 +1,1 @@
+lar[12185]=`<b>εως (ἡ)</b> action de quitter la vie, PLOT. <i>Enn. 1, 519 Creuz</i>.<p><b>Étym</b>. ἀπογίγνομαι.`

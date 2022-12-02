@@ -1,0 +1,1 @@
+lar[61456]=`<b>ας (ἡ) :<br>      1</b> gourmandise, friandise, XÉN. <i>Lac. 5, 4</i> ; PLUT. <i>M. 226a ; au pl</i>. XÉN. <i>Œc. 1, 22</i> ; PLAT. <i>Rsp. 519b.</i><br><b>      2</b> mets délicat, PLUT. <i>M. 225f au plur</i>.<p><b>Étym</b>. λιχνεύω.`

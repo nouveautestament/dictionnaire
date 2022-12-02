@@ -1,0 +1,1 @@
+lar[86304]=`<b>προσ·περιοδεύω</b>, parcourir en outre, <i>acc. fig</i>. STR. <i>488</i>.`

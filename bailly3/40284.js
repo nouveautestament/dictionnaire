@@ -1,0 +1,1 @@
+lar[40284]=`<b>εως (ἡ)</b> action de tomber en ruines, EROT. <i>p. 138</i>.<p><b>Étym</b>. ἐρείπω.`

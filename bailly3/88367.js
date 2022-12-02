@@ -1,0 +1,1 @@
+lar[88367]=`<i>adv. c</i>. ῥέα, facilement, aisément, agréablement, IL. <i>3, 381 ; 6, 138, etc.</i> ; OD. <i>1, 160 ; 4, 805, etc.</i> ; HÉS. <i>O. 6</i>.<p>➳ <i>Par élis</i>. ῥεῖ', IL. <i>15, 356</i> ; OD. <i>17, 273</i>.`

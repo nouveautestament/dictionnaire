@@ -1,0 +1,1 @@
+lar[3946]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> radié, PHIL. <i>2, 560</i>.<p><b>Étym</b>. *ἀκτινόω, <i>de</i> ἀκτίς.`

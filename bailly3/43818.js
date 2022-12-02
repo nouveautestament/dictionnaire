@@ -1,0 +1,1 @@
+lar[43818]=`<b>εὐ·χρημάτιστος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a <i>ou</i> procure d’abondantes ressources, PROCL. <i>Ptol. 3, 18, p. 229</i>.<p><b>Étym</b>. εὖ, χρηματίζομαι.`

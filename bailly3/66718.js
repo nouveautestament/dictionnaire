@@ -1,0 +1,1 @@
+lar[66718]=`<b>οῦ (ὁ)</b> fractionnement d’un nombre entier en parties, PTOL. <i>Math. synt. 1, 9, p. 26c</i>.<p><b>Étym</b>. *μοριάζω <i>de</i> μόριον.`

@@ -1,0 +1,1 @@
+lar[82694]=`<b>ου (ὁ)</b> Pontios, <i>propr</i>. « le marin », <i>n. d’h</i>. ALCIPHR. <i>1, 7</i>.<p><b>Étym</b>. <i>v</i>. πόντιος.`

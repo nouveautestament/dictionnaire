@@ -1,0 +1,1 @@
+lar[102659]=`<b>ας (ἡ)</b> Hypermnèstra, <i>Danaïde,</i> PD. <i>N. 10, 6</i>.<p>➳ <i>Ion. et épq</i>. Ὑπερμνήστρη, NONN. <i>D. 3, 308</i>.`

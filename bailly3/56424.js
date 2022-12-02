@@ -1,0 +1,1 @@
+lar[56424]=`<b>ου (ὁ)</b> sorte de bistouri creux par devant, CHIR. <i>p. 94, 108</i>.<p><b>Étym</b>. κοῖλος.`

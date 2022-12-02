@@ -1,0 +1,1 @@
+lar[76236]=`<b>ου (τὸ)</b> <font color="purple">[ᾰδ]</font> <i>dim. de</i> παραστάς, HÉRON <i>Aut. 270, 2</i>.`

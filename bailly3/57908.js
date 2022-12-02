@@ -1,0 +1,1 @@
+lar[57908]=`<b>κριθο·πώλης, ου (ὁ)</b> <font color="purple">[ῑ]</font> marchand d’orge, HIPPIATR. <i>p. 4</i>.<p><b>Étym</b>. κριθή, πωλέω.`

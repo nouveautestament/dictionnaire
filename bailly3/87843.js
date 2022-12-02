@@ -1,0 +1,1 @@
+lar[87843]=`<b>ης (ἡ)</b> <font color="purple">[ῠᾱ]</font> premier lait (lait de vache, de chèvre, <i>etc</i>.) chauffé pour servir d’aliment, AR. <i>Vesp. 710</i> ; EUB. <i>3, 241 Meineke</i> ; LUC. <i>Lex. 3, etc</i>.<p><b>Étym</b>. πυριάω.`

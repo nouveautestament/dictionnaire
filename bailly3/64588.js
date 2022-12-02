@@ -1,0 +1,1 @@
+lar[64588]=`<b>μεσ·όφρυον, ου (τὸ)</b> intervalle entre les sourcils, ANACR. <i>28, 13</i> ; OPP. <i>C. 1, 181</i> ; PLUT. <i>M. 899a, 909d</i>.<p><b>Étym</b>. μ. ὀφρύς.`

@@ -1,0 +1,1 @@
+lar[35027]=`<b>ἔν·τεκνος, ος, ον</b>, qui a des enfants, LUC. <i>D. mort. 6, 3</i>.<p><b>Étym</b>. ἐν, τέκνον.`

@@ -1,0 +1,1 @@
+lar[6423]=`<b>ἀμφι·φοβέομαι-οῦμαι</b> <font color="darkgreen">(<i>seul. ao. 3 pl. épq</i>. ἀμφεφόβηθεν)</font> être mis en fuite autour de, s’enfuir de tous côtés autour de, <i>etc</i>. IL. <i>16, 290</i>.`

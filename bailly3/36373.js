@@ -1,0 +1,1 @@
+lar[36373]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> rassemblement, CLÉM. <i>Phæd. 2, 8</i>.<p><b>Étym</b>. ἐπαγείρω.`

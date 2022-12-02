@@ -1,0 +1,1 @@
+lar[54663]=`<b>ης, ες</b> <font color="purple">[ῡᾰ]</font> qui ressemble à une enveloppe (écorce, pelure, coquille, <i>etc</i>.) TH. <i>C.P. 1, 7, 2</i>.<p><b>Étym</b>. κελύφανον, -ωδης.`

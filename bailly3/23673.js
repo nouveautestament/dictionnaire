@@ -1,0 +1,1 @@
+lar[23673]=`<b>ου (ὁ)</b> Dékamnikhos, <i>Macédonien,</i> ARSTT. <i>Pol. 5, 8, 13</i>.`

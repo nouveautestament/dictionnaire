@@ -1,0 +1,1 @@
+lar[104646]=`<b>ατος (τὸ)</b> parure, ornement, CLÉM. <i>291</i>.<p><b>Étym</b>. φαιδρύνω.`

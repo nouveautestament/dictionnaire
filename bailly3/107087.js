@@ -1,0 +1,1 @@
+lar[107087]=`<font color="purple">[ῠᾰ]</font> jeter en prison, NT. <i>Ap. 22, 19 ; au pass</i>. SPT. <i>Sap. 18, 4</i>.<p><b>Étym</b>. φυλακή.`

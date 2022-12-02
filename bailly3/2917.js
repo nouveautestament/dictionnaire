@@ -1,0 +1,1 @@
+lar[2917]=`<b>α, ον</b> <font color="purple">[ῠ]</font> d’Eschyle, PLUT. <i>Demetr. 35</i>.<p><b>Étym</b>. Αἰσχύλος.`

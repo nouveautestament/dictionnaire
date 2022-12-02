@@ -1,0 +1,1 @@
+lar[96767]=`<b>ίτιδος</b> <font color="purple">[ᾰῑτῐδ]</font> <i>adj. f</i>. de la gorge : φλέψ, POLYBOS (ARSTT. <i>H.A. 3, 3, 2</i>) veine jugulaire.<p><b>Étym</b>. σφαγή.`

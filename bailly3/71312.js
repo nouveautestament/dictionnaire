@@ -1,0 +1,1 @@
+lar[71312]=`<b>ὁμ·άκοοι, όων (οἱ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. qui écoutent ensemble, condisciples, <i>n. des auditeurs ou disciples de Pythagore,</i> JAMBL. <i>V. Pyth. p. 154</i>.<p><b>Étym</b>. ὁμός, ἀκούω.`

@@ -1,0 +1,1 @@
+lar[83232]=`<b>Πραξ·αγόρας (ὁ)</b> <font color="purple">[ᾰγᾱ]</font> Praxagoras :<br><b>      1</b> <i>père de Théocrite,</i> THCR. <i>Epigr. 22</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Pomp. 57, etc</i>.<p>➳ <i>Gén. dor</i>. Πραξαγόραο, THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. πράσσω, ἀγορά.`

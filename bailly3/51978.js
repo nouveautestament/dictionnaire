@@ -1,0 +1,1 @@
+lar[51978]=`<b>η, ον</b> <font color="purple">[ᾰῡ]</font> qui a une couleur de civet, une couleur rouge foncé, XÉN. <i>Cyr. 8, 3, 3</i>.<p><b>Étym</b>. καρύκη.`

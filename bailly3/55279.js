@@ -1,0 +1,1 @@
+lar[55279]=`<i>adv</i>., dans le cœur, <i>touj. dans la locution</i> κηρόθι μᾶλλον, IL. <i>9, 300, etc.</i> ; OD. <i>5, 284, etc.</i> ; HÉS. <i>Sc. 85,</i> plus avant dans le cœur, plus profondément.<p><b>Étym</b>. κῆρ, -θι.`

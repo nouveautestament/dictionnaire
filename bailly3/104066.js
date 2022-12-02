@@ -1,0 +1,1 @@
+lar[104066]=`<b>ὑποτυφόομαι-οῦμαι</b> <font color="purple">[τῡ]</font> rendre orgueilleux, <i>au pass</i>. s’enorgueillir, PHIL. <i>1, 665</i>.<p><b>Étym</b>. ὑπότυφος.`

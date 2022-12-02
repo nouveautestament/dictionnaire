@@ -1,0 +1,1 @@
+lar[34485]=`<b>ατος (τὸ)</b> ce qui résonne, bruit, voix, JAMBL. <i>V. Pyth. 65</i>.<p><b>Étym</b>. ἐνηχέω.`

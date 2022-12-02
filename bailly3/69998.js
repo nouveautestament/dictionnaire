@@ -1,0 +1,1 @@
+lar[69998]=`<b>ου (ὁ)</b> Oarsès, <i>nom originaire d’Artaxerxès Mnémon,</i> DIN. (PLUT. <i>Artax. 1</i>).`

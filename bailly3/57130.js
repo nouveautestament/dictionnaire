@@ -1,0 +1,1 @@
+lar[57130]=`<b>ου (τὸ)</b> racine du lotus aquatique, TH. <i>H.P. 4, 10, 8 et 10</i> ; STR. <i>629</i>.<p><b>Étym</b>. <i>cf</i>. κορσαῖον.`

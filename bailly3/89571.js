@@ -1,0 +1,1 @@
+lar[89571]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. des Sarmates, de Sarmatie, HDT. <i>4, 123</i> ; PLAT. <i>Leg. 804e, etc</i>.<p><b>Étym</b>. Σαυρομάται.`

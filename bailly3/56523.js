@@ -1,0 +1,1 @@
+lar[56523]=`<b>ου (ὁ)</b> nombre, ATH. <i>455d</i>.<p><b>Étym</b>. <i>mot macédonien</i>.`

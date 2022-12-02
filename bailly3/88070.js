@@ -1,0 +1,1 @@
+lar[88070]=`<b>ωνος (ὁ)</b> Pôgôn, <i>port de Trœzène,</i> HDT. <i>8, 42</i> ; STR. <i>373</i>.`

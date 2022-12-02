@@ -1,0 +1,1 @@
+lar[12882]=`<b>ἀπο·μένω :<br>      1</b> rester, continuer d’être, ARSTT. <i>Plant. 1, 7, 6</i>.<br><b>      2</b> rester, demeurer sédentaire, ORIG. <i>t. 3, p. 562</i>.`

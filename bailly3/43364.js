@@ -1,0 +1,1 @@
+lar[43364]=`<b>εὐρύ·χωρος, ος, ον</b> <font color="purple">[ῠ]</font> au vaste emplacement, vaste, spacieux, DS. <i>19, 84</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <iεὐρύωψ>H.A. 10, 5</i>.<p><b>Étym</b>. εὐ. χώρα.`

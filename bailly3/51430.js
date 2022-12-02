@@ -1,0 +1,1 @@
+lar[51430]=`<b>ης (ἡ)</b> Kamma, <i>n. de f. gaulois,</i> PLUT. <i>Mul. virt. 20, etc</i>.`

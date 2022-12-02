@@ -1,0 +1,1 @@
+lar[73894]=`<b>ας (ἡ)</b> dérivation par un canal, ARSTT. <i>P.A. 3, 5, 11 ; fig</i>. TH. <i>C.P. 3, 9 ; 5, 6</i>.<p><b>Étym</b>. ὀχετεύω.`

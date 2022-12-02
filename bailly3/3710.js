@@ -1,0 +1,1 @@
+lar[3710]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite sauterelle, DIOSC. <i>2, 116</i>.<p><b>Étym</b>. ἀκρίς.`

@@ -1,0 +1,1 @@
+lar[56838]=`<b>ης, ες</b>, fanfaron, vantard, THC. <i>2, 62</i> ; PLUT. <i>Syll. 16</i> ; τὸ κομπῶδες, THC. <i>5, 68,</i> la jactance, l’emphase.<p>•<i> Cp</i>. -έστερος, THC. <i>l. c</i>.<p><b>Étym</b>. κόμπος, -ωδης.`

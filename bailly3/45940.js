@@ -1,0 +1,1 @@
+lar[45940]=`<b>      1</b> <i>3 pl. impf. de</i> εἶμι, aller.<br><b>      2</b> <i>3 pl. ao. de</i> ᾄδω.<br><b>      3</b> <i>3 pl. pl.q.pf. de</i> *εἴδω.`

@@ -1,0 +1,1 @@
+lar[42082]=`<b>εὐ·ζωνίζω</b>, rendre dispos, AQU. <i>Gen. 49, 19</i>.<p><b>Étym</b>. εὔζωνος.`

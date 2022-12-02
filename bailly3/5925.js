@@ -1,0 +1,1 @@
+lar[5925]=`<i>vb. de</i> ἀμύσσω, MÉNÉMACH. (ORIB. <i>p. 151 Matthäi</i>).`

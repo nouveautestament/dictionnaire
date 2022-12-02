@@ -1,0 +1,1 @@
+lar[68017]=`<b>νεκρο·στόλος, ος, ον</b>, qui transporte <i>ou</i> qui ensevelit les morts, ARTÉM. <i>4, 58</i>.<p><b>Étym</b>. ν. στέλλω.`

@@ -1,0 +1,1 @@
+lar[20710]=`<b>βραχυπνοέω-οῶ</b> <font color="purple">[ᾰ]</font> avoir la respiration courte, ORIB. <i>1, 506 B.-Dar</i>.<p><b>Étym</b>. βραχύπνοος.`

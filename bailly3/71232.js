@@ -1,0 +1,1 @@
+lar[71232]=`<b>ὁλο·τελής, ής, ές</b>, achevé, parfait, ARSTT. <i>Plant. 1, 2, 20</i> ; PLUT. <i>909b</i>.<p><b>Étym</b>. ὅλ. τέλος.`

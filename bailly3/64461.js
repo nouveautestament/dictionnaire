@@ -1,0 +1,1 @@
+lar[64461]=`<b>ατος (τὸ)</b> gage déposé entre les mains d’un tiers, ESCHN. <i>71, 18</i> ; HYPÉR. (POLL. <i>8, 28) etc</i>.<p><b>Étym</b>. μεσεγγυάω.`

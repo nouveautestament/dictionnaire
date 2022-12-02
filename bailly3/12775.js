@@ -1,0 +1,1 @@
+lar[12775]=`<b>εως (ἡ)</b> action de bander avec de la toile, P. ÉG. <i>94 Briau</i>.<p><b>Étym</b>. ἀπολινόω.`

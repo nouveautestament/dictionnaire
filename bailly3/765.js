@@ -1,0 +1,1 @@
+lar[765]=`<b>ου</b>, <i>adj. m</i>. qui purifie, LYC. <i>135</i>.<p><b>Étym</b>. ἁγνός.`

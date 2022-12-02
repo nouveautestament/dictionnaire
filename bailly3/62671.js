@@ -1,0 +1,1 @@
+lar[62671]=`<b>ῶνος (ὁ)</b> Maléôn, <i>brg d’Arcadie,</i> PLUT. <i>Pyth. or. 9</i>.`

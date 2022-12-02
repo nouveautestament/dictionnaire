@@ -1,0 +1,1 @@
+lar[54156]=`<b>ος, ον :<br>      1</b> qui est en vue de, <i>gén</i>. ESCHL. <i>Ag. 307</i>.<br><b>      2</b> visible, THC. <i>8, 104, etc</i>.<p><b>Étym</b>. <i>vb. de</i> κατόψομαι.`

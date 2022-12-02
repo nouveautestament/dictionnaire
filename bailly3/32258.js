@@ -1,0 +1,1 @@
+lar[32258]=`<b>ἐκ·τυλόω-ῶ</b> <font color="purple">[ῠ]</font> rendre calleux, faire durcir, ANTYLL. (ORIB. <i>3, 617, 634 B.-Dar</i>.).`

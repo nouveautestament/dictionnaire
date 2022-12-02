@@ -1,0 +1,1 @@
+lar[80028]=`<b>ων (τὰ)</b> <font color="purple">[ᾰσ]</font> Pèdases :<br><b>      1</b> <i>v. de Carie, postér. réunie à Halicarnasse,</i> HDT. <i>8, 104, etc.</i><br><b>      2</b> <i>chaîne de mt. dans le voisinage de cette ville,</i> NIC. <i>Th. 803</i>.`

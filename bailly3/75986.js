@@ -1,0 +1,1 @@
+lar[75986]=`<b>παρα·νικάω-ῶ</b> <font color="purple">[ῑ]</font> vaincre, triompher de, <i>acc</i>. ESCHL. <i>Ch. 600</i>.`

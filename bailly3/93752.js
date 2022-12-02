@@ -1,0 +1,1 @@
+lar[93752]=`<b>συλλαβο·πευσι·λαβητής, οῦ (ὁ)</b> qui épluche les syllabes, HÉGÉSANDRE (ATH. <i>162a</i>) ; <i>cf</i>. ANTH. <i>App. 288 conj. (var</i>. συλλαβοπευσιλαλητής, qui épluche chaque syllabe de chaque mot avant de les prononcer).<p><b>Étym</b>. συλλ., πεύσομαι, λαμβάνω.`

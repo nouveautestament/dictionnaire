@@ -1,0 +1,1 @@
+lar[88077]=`<b>ης, ες</b>, qui est comme barbu, TH. <i>H.P. 6, 4, 5</i>.<p><b>Étym</b>. πώγων, -ωδης.`

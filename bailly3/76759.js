@@ -1,0 +1,1 @@
+lar[76759]=`<b>παρ·επίδημος, ος, ον</b>, qui séjourne <i>ou</i> voyage peu de temps en pays étranger, POL. <i>32, 22, 4</i> ; ATH. <i>196a ;</i> SPT. <i>Gen. 23, 4</i>.<p><b>Étym</b>. π. ἐπίδημος.`

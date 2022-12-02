@@ -1,0 +1,1 @@
+lar[32478]=`<b>ἐλαιο·φιλο·φάγος, ος, ον</b> <font color="purple">[φῐᾰ]</font> mangeur d’olives, EPICH. (ATH. <i>64f</i>).<p><b>Étym</b>. ἐλαία, φίλος, φαγεῖν.`

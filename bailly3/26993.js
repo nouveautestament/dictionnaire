@@ -1,0 +1,1 @@
+lar[26993]=`<b>δί·πτυξ, υχος</b> (<i>seul. acc. sg</i>. -υχα <font color="purple">[ῠχ]</font> <i>c</i>. δίπτυχος, A.RH. <i>2, 32</i>.`

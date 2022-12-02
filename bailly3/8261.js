@@ -1,0 +1,1 @@
+lar[8261]=`<i>adv</i>., sans être révélé, PROCL. <i>Plat. Parm. 589</i>.`

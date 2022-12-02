@@ -1,0 +1,1 @@
+lar[71156]=`<b>ου (τὸ)</b> sorte de zoophyte marin, <i>p.-ê</i>. holothurie, ARSTT. <i>H.A. 1, 1, 16</i>.`

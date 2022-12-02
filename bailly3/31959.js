@@ -1,0 +1,1 @@
+lar[31959]=`<b>ἐκ·προφεύγω</b> (<i>seul. part. ao.2</i> ἐκπροφυγών) échapper à, <i>acc</i>. ANTH. <i>6, 218</i> ; ORPH. <i>Lith. 391 ; gén</i>. HLD. <i>8, 11</i>.`

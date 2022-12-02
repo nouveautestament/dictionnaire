@@ -1,0 +1,1 @@
+lar[17607]=`<b>αὐτό·νεκρος, ος, ον</b>, qui est proprement un mort, qui n’est qu’un cadavre, ALCIPHR. <i>3, 7</i>.<p><b>Étym</b>. αὐ. νεκρός.`

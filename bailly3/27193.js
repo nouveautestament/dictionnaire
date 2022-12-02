@@ -1,0 +1,1 @@
+lar[27193]=`<b>διχό·θυμος, ος, ον</b> <font color="purple">[ῐῡ]</font> partagé entre deux résolutions, PITTAC. (DL. <i>1, 78, conj</i>).`

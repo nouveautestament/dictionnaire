@@ -1,0 +1,1 @@
+lar[86522]=`<b>ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui rencontre, <i>dat</i>. PLAT. <i>Leg. 955d.</i><br><b>      2</b> qui s’adonne à, <i>dat</i>. PLAT. <i>Pol. 264c, Epin. 990d, etc</i>.<p><b>Étym</b>. προστυγχάνω.`

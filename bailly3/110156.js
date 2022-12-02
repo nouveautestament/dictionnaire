@@ -1,0 +1,1 @@
+lar[110156]=`<b>ου (ὁ)</b> <font color="purple">[ῐῐ]</font> Ôkimidès, <i>n. de grenouille,</i> BATR. <i>214</i>.<p><b>Étym</b>. ὤκιμον.`

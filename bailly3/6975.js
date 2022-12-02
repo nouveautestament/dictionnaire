@@ -1,0 +1,1 @@
+lar[6975]=`<b>ἀν·ακολουθέω-ῶ</b> <font color="purple">[ᾰκ]</font> ne se suivre pas, SEXT.`

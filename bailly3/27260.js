@@ -1,0 +1,1 @@
+lar[27260]=`<b>διψυχέω-ῶ</b> <font color="purple">[ῡ]</font> douter, hésiter, EUM. <i>11, p. 437</i>.`

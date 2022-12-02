@@ -1,0 +1,1 @@
+lar[107777]=`<b>χαμαιμηλ·έλαιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> huile de camomille, A. TR. <i>1, 28</i>.<p><b>Étym</b>. χαμαίμηλον, ἔ.`

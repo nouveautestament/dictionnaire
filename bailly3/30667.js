@@ -1,0 +1,1 @@
+lar[30667]=`<b>εἰσ·αίρω</b>, enlever pour apporter (une table) AR. <i>Ran. 518 (impf. pass. 3 sg</i>. εἰσῄρετο).<br><b><i>Moy.</i></b> (<i>part. prés. poét</i>. ἐσαειρόμενος) enlever pour soi, prendre pour soi, <i>acc</i>. THGN. <i>976</i>.`

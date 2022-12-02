@@ -1,0 +1,1 @@
+lar[49353]=`<b>ἱππο·κορυστής, οῦ (ὁ)</b> guerrier couvert d’un casque qui combat à cheval <i>ou</i> du haut d’un char, IL. <i>2, 1 ; 24, 677 ; particul. ép. des Péoniens,</i> IL. <i>16, 287 ; 21, 205</i>.<p><b>Étym</b>. ἵ. κορύσσω.`

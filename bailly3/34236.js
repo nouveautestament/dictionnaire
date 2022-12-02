@@ -1,0 +1,1 @@
+lar[34236]=`<i>adv.</i> :<br><b>      1</b> selon l’opinion commune, ARSTT. <i>Soph. el. 17, 1</i>.<br><b>      2</b> glorieusement, DÉM. <i>246, 25</i>.<p>•<i> Sup</i>. -ότατα, DÉM. <i>l. c</i>.<p><b>Étym</b>. ἔνδοξος.`

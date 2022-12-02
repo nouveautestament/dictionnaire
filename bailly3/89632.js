@@ -1,0 +1,1 @@
+lar[89632]=`<b>ῆς (ἡ)</b> <i>traduction du lat</i>. Augusta, <i>titre des impératrices romaines,</i> HDN <i>1, 16, 4, etc</i>.<p><b>Étym</b>. <i>fém. de</i> σεβαστός.`

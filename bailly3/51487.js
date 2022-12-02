@@ -1,0 +1,1 @@
+lar[51487]=`<b>ου (τὸ)</b> <font color="purple">[ᾰν]</font> vase en forme de corbeille, HOM. <i>Ep. 14, 3</i>.<p><b>Étym</b>. κάνης.`

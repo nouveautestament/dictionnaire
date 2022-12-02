@@ -1,0 +1,1 @@
+lar[99871]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾰ]</font> action <i>ou</i> représentation tragique, EUM. <i>297, 302, etc</i>.<p><b>Étym</b>. τραγῳδέω.`

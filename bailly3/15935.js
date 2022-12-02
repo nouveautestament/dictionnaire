@@ -1,0 +1,1 @@
+lar[15935]=`<b>ἄ·σκιος, ος, ον :<br>   I</b> (ἀ <i>priv</i>.) :<br><b>      1</b> qui ne projette aucune ombre, STR. <i>817</i> ; HLD. <i>9, 22</i>.<br><b>      2</b> non ombreux, sans ombrage, POL. <i>16, 2</i> ; PLUT.<br><b>   II</b> (ἀ <i>cop</i>.) couvert d’ombre, ombreux, PD. <i>N. 6, 45</i>.<p><b>Étym</b>. ἀ, σκιά.`

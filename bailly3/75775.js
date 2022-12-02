@@ -1,0 +1,1 @@
+lar[75775]=`<b>εως (ἡ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> suite, conséquence, CHRYSIPP. (A. GELL. <i>6, 1</i>).<br><b>      2</b> intelligence, PLUT. <i>M. 1144b ;</i> ARR. <i>Epict. 1, 6, 13, etc</i>.<p><b>Étym</b>. παρακολουθέω.`

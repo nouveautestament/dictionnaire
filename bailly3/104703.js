@@ -1,0 +1,1 @@
+lar[104703]=`<b>φακο·πτισάνη, ης (ἡ)</b> <font color="purple">[ᾰῐᾰ]</font> décoction de lentilles et d’orge, GAL. <i>6, 324, 328</i> ; ORIB. <i>1, 38 ; 8, 261</i>.<p><b>Étym</b>. φακός, πτ.`

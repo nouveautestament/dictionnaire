@@ -1,0 +1,1 @@
+lar[47211]=`<b>θηλυ·τόκος, ος, ον</b> <font color="purple">[ῠ]</font> qui procrée des enfants <i>ou</i> des petits du sexe féminin, ARSTT. <i>G.A. 1, 18, 27</i> ; POL. <i>7, 16, 6</i> ; THCR. <i>Idyl. 25, 125</i>.<p><b>Étym</b>. θ. τίκτω.`

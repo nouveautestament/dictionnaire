@@ -1,0 +1,1 @@
+lar[32149]=`<i>ou</i> <b>Ἕκτηνες, Ἑκτῆνες, ων (οἱ)</b> les Ektènes <i>ou</i> Hektènes, <i>anc. habitants de la Béotie,</i> NONN. <i>D. 5, 37</i> ; LYC. <i>433, etc</i>.`

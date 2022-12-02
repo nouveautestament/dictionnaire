@@ -1,0 +1,1 @@
+lar[54572]=`<i>adv</i>., avec nombre <i>ou</i> harmonie, DH. <i>Comp. 25</i>.<p><b>Étym</b>. κροτέω.`

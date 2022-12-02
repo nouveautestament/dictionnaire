@@ -1,0 +1,1 @@
+lar[44981]=`<b>ἡδυ·επής, ής, ές</b>, au doux parler, au doux langage, IL. <i>1, 248</i> ; PD. <i>N. 7, 31</i> ; ANTH. <i>9, 525, etc. ; en parl. d’une lyre, d’un chant,</i> PD. <i>O. 10, 114, etc</i>.<p>➳ <i>Dor</i>. ἁδυ- <font color="purple">[ᾱ]</font> PD. <i>l. c. voc. fém</i>. ἁδυεπής, SOPH. <i>O.R. 151</i>.<p><b>Étym</b>. ἡ. ἔπος.`

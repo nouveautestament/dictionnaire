@@ -1,0 +1,1 @@
+lar[68393]=`<b>νευρο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime à tirer de l’arc, <i>ép. d’Apollon,</i> ANTH. <i>9, 525, 14</i>.<p><b>Étym</b>. ν. χαίρω.`

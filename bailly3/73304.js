@@ -1,0 +1,1 @@
+lar[73304]=`<font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>impf</i>. ὠστράκιζον, <i>part., pf. pass</i>. ὠστρακισμένος)</font> frapper d’ostracisme, THC. <i>1, 135 ; 8, 73</i> ; AND. <i>23, 42, etc.</i> ; ARSTT. <i>Pol. 3, 12</i>.<p><b>Étym</b>. ὄστρακον, <i>cf</i>. ὀστρακισμός.`

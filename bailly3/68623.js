@@ -1,0 +1,1 @@
+lar[68623]=`<b>νησι·άρχης, ου (ὁ)</b> gouverneur d’une île, ANT. (ATH. <i>343a</i>) ; PLUT. <i>M. 823d</i>.<p><b>Étym</b>. νῆσος, ἄρχω.`

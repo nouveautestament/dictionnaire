@@ -1,0 +1,1 @@
+lar[20242]=`<b>βορρ·απηλιώτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> vent du nord-est, PROCL. <i>Ptol. 94</i>.<p><b>Étym</b>. βορρᾶς, ἀ.`

@@ -1,0 +1,1 @@
+lar[103026]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> évacuation par le bas, purgation, ORIB. <i>25 Matthäi</i> ; XÉNOCR. <i>Al. 60</i>.<p><b>Étym</b>. ὑποβιβάζω.`

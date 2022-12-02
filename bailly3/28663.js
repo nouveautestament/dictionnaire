@@ -1,0 +1,1 @@
+lar[28663]=`<b>δυσ·μέτρητος, ος, ον</b>, difficile à mesurer, ANT. (POLL. <i>4, 167) ; p. suite,</i> difficile à parcourir (<i>mer</i>) PHILSTR. <i>V. Ap. 4, 15</i>.<p><b>Étym</b>. δ. μετρέω.`

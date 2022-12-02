@@ -1,0 +1,1 @@
+lar[83951]=`<b>προ·διατάσσω</b>, disposer auparavant <i>ou</i> d’avance, EN. TACT. <i>Pol. 16</i>.`

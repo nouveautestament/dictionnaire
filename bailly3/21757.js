@@ -1,0 +1,1 @@
+lar[21757]=`<b>ου (τὸ)</b> sorte de truffe, <i>différente de l’espèce</i> ὕδνον, TH. <i>H.P. 1, 6, 5</i>.`

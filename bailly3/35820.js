@@ -1,0 +1,1 @@
+lar[35820]=`<b>ἐξ·ερεθίζω</b>, irriter, exciter, PD. <i>P. 8, 12</i>.`

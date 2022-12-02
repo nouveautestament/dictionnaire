@@ -1,0 +1,1 @@
+lar[25223]=`<b>διά·πειρα, ας (ἡ)</b> épreuve, essai, PD. <i>O. 4, 20</i> ; HDT. <i>1, 47, etc.</i> ; ἐς διάπειράν τινος ἀπικέσθαι, HDT. <i>2, 28, 77</i>, en venir à l’épreuve de qqe ch. ; διάπειράν τινος λαμβάνειν, DÉM. <i>56, 18 Baiter-Sauppe</i> ; DH. <i>5, 14</i> ; PLUT. <i>Pyrrh. 18</i>, faire l’épreuve de qqn <i>ou</i> de qqe ch.<p><b>Étym</b>. δ. πεῖρα.`

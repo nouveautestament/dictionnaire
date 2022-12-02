@@ -1,0 +1,1 @@
+lar[19120]=`<b>βαρυ·βρεμέτης, ου</b> <font color="purple">[ᾰυ]</font> <i>adj. m</i>. qui produit un bruit <i>ou</i> un grondement sourd, SOPH. <i>Ant. 1117</i>.<p><b>Étym</b>. β. βρέμω.`

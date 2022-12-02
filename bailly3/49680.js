@@ -1,0 +1,1 @@
+lar[49680]=`<b>ἰσο·μερής, ής, ές</b> <font color="purple">[ῑ̆]</font> pourvu d’une part égale, ATH. <i>143e</i>.<p><b>Étym</b>. ἴ. μέρος.`

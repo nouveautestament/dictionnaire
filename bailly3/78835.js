@@ -1,0 +1,1 @@
+lar[78835]=`<b>εως (ἡ)</b> acquisition nouvelle, acquisition, SEXT. <i>M. 7, 166, etc</i>.<p><b>Étym</b>. περικτάομαι.`

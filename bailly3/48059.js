@@ -1,0 +1,1 @@
+lar[48059]=`<b>θυρσόω-ῶ</b>, arranger comme un thyrse, DS. <i>4, 4</i>.<p><b>Étym</b>. θύρσος.`

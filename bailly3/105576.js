@@ -1,0 +1,1 @@
+lar[105576]=`<font color="purple">[ῐ]</font> <i>adv</i>., en bon camarade, ESCHN. <i>15, 32</i>.<p><b>Étym</b>. φιλέταιρος.`

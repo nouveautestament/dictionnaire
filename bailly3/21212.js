@@ -1,0 +1,1 @@
+lar[21212]=`<b>γαλακτοφαγέω-ῶ</b> <font color="purple">[γᾰφᾰ]</font> se nourrir de laitage, PHILSTR. <i>V. soph. 2, 7</i>.<p><b>Étym</b>. γαλακτοφάγος.`

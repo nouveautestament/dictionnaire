@@ -1,0 +1,1 @@
+lar[51504]=`<b>ης (ἡ)</b> = <i>lat</i>. candela, chandelle, ATH. <i>701b</i>.`

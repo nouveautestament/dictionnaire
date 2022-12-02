@@ -1,0 +1,1 @@
+lar[87846]=`<b>ή, όν</b> <font color="purple">[ῠᾱ]</font> chauffé ; τὸ πυριατόν, SPT., <i>c</i>. πυριάτη.<p><b>Étym</b>. <i>vb. de</i> πυριάω.`

@@ -1,0 +1,1 @@
+lar[38774]=`<b>ἐπι·πονέω-ῶ :<br>      1</b> travailler fortement, XÉN. <i>Hell. 6, 1, 4</i>.<br><b>      2</b> persévérer dans un travail, XÉN. <i>Cyr. 5, 4, 17 ; Lac. 2, 5</i> ; PLAT. <i>Leg. 789e</i>.`

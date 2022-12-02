@@ -1,0 +1,1 @@
+lar[65214]=`<i>adv.</i> :<br><b>      1</b> selon la mesure, NIC. <i>Al. 45</i>.<br><b>      2</b> peu à peu, NONN. <i>D. 48, 340</i>.<br><b>      3</b> en vers, NONN. <i>D. 7, 115</i>.<p><b>Étym</b>. μετρέω, -δον.`

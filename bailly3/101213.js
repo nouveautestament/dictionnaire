@@ -1,0 +1,1 @@
+lar[101213]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> temple de la fortune, DC. <i>43, 21 ; 50, 10</i> ; LIB. <i>4, 1113, etc</i>.<p><b>Étym</b>. <i>neutre de</i> τυχαῖος.`

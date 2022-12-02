@@ -1,0 +1,1 @@
+lar[80232]=`<b>έως</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. du dème Pithos, <i>dème att. de la tribu de Cécrops,</i> PLAT. <i>Euthyphr. 2b</i>.`

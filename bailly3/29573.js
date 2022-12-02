@@ -1,0 +1,1 @@
+lar[29573]=`<b>ἐγ·καταστοιχειόω-ῶ :<br>      1</b> inculquer les premiers éléments, PLUT. <i>Lyc. 13 (part. pf. pass</i>. -κατεστοιχειωμένα).<br><b>      2</b> <i>p. ext</i>. introduire comme élément (d’un sacrifice) PLUT. <i>M. 353e</i> (<i>impf. pass. 3 sg</i>. ἐγκατεστοιχειοῦτο).<p><b>Étym</b>. ἐν, κ.`

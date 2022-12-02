@@ -1,0 +1,1 @@
+lar[69096]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. νυκταλωπία ORIB.<p><b>Étym</b>. νυκταλωπιάω.`

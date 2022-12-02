@@ -1,0 +1,1 @@
+lar[74296]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> folle passion pour les enfants, PLUT. <i>M. 769b</i>.<p><b>Étym</b>. παιδομανής.`

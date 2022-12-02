@@ -1,0 +1,1 @@
+lar[23053]=`<b>δακρυ·χαρής, ής, ές</b> <font color="purple">[αῠᾰ]</font> qui se complaît dans les larmes, ANTH. <i>App. 98</i>.<p><b>Étym</b>. δάκρυ, χαίρω.`

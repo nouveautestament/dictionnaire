@@ -1,0 +1,1 @@
+lar[58171]=`<i>adv</i>., comme du cristal, PLUT. <i>M. 888b</i>.`

@@ -1,0 +1,1 @@
+lar[62008]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Lyseios, <i>propr</i>. « celui qui délie », <i>ép. de Bacchus,</i> ORPH. <i>H. 41, 4</i>.<p><b>Étym</b>. λύω.`

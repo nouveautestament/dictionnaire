@@ -1,0 +1,1 @@
+lar[41498]=`<b>εὐαγέω-ῶ</b> <font color="purple">[ᾰ]</font> être pur <i>ou</i> saint, vivre saintement, EUR. <i>Bacch. 1009</i> ; CALL. <i>Del. 98</i> ; THCR. <i>Idyl. 26, 30</i>.<p><b>Étym</b>. εὐαγής¹.`

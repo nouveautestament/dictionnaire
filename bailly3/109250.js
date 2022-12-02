@@ -1,0 +1,1 @@
+lar[109250]=`<b>χρυσο·ρόης, ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>poét. c</i>. *χρυσορρόης, EUR. <i>Bacch. 154</i> ; HÉDYL. (ATH. <i>345a</i>) ; <i>v</i>. χρυσορρόας.`

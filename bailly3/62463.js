@@ -1,0 +1,1 @@
+lar[62463]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>fém. de</i> Μακέτης STR. <i>477</i> ; ANTH. <i>7, 49</i>.`

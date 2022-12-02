@@ -1,0 +1,1 @@
+lar[91688]=`<font color="purple">[ᾰ]</font> tirailler, DH. <i>Comp. 14</i>.<p><b>Étym</b>. σπαδών.`

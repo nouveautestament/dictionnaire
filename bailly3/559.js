@@ -1,0 +1,1 @@
+lar[559]=`<b>ου (ὁ)</b> pierre à polir les chaussures de femmes, GAL.`

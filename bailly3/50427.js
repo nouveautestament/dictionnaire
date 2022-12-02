@@ -1,0 +1,1 @@
+lar[50427]=`<b>καθ·ίννυμαι</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. καθίζομαι, HPC. <i>Fract. 752</i> (<i>var</i>. καθίγνυμαι).`

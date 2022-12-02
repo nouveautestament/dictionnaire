@@ -1,0 +1,1 @@
+lar[12914]=`<i>adv</i>., grossièrement, ESCHL. <i>Ag. 801</i>.`

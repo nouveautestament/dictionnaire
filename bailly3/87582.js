@@ -1,0 +1,1 @@
+lar[87582]=`<b>Πυθό·λαος, ου (ὁ)</b> <font color="purple">[ῡᾱ]</font> Pytholaos, <i>h</i>. PLUT. <i>Pel. 35, etc</i>.<p><b>Étym</b>. Πυθώ, λαός.`

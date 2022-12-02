@@ -1,0 +1,1 @@
+lar[101546]=`<b>ή, όν</b>, de pêche <i>ou</i> de pêcheur, EL. <i>N.A. 14, 24, etc</i>.<p><b>Étym</b>. ὑδροθήρας.`

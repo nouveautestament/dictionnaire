@@ -1,0 +1,1 @@
+lar[3508]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> disposé à suivre, ARSTT. <i>Rhet. 2, 12, 3</i> ; NIC. <i>1, 3, 6, etc</i>.<p><b>Étym</b>. ἀκολουθέω.`

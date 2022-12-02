@@ -1,0 +1,1 @@
+lar[7991]=`<b>α, ον</b> <font color="purple">[ᾰπ]</font> bon pour l’esclavage, LYC. <i>784</i>.<p><b>Étym</b>. ἀνδραποδιστής.`

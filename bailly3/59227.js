@@ -1,0 +1,1 @@
+lar[59227]=`<b>κωνο·τομέω-ῶ</b>, tailler en forme de cône, ANTH. <i>App. 25, 8</i>.<p><b>Étym</b>. κ. -τομος <i>de</i> τέμνω.`

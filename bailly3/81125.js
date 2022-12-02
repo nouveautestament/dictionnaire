@@ -1,0 +1,1 @@
+lar[81125]=`<b>*πλουτο·γηθής</b>, <i>dor</i>. <b>πλουτογαθής, ής, ές</b> <font color="purple">[ᾱ]</font> dont l’opulence réjouit, ESCHL. <i>Ch. 801</i>.<p><b>Étym</b>. πλοῦτος, γηθέω.`

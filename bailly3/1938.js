@@ -1,0 +1,1 @@
+lar[1938]=`<b>αντος (ὁ)</b> <font color="purple">[ᾰᾰμ]</font> Athamas, <i>roi d’Orchomène,</i> HÉS. <i>fr. 28 Gaisford;</i> HDT. <i>7, 197</i>.`

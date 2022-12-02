@@ -1,0 +1,1 @@
+lar[105593]=`<b>Φιλ·έψιος, ου (ὁ)</b> <font color="purple">[φῐ]</font> Philepsios, <i>h</i>. AR. <i>Pl. 177</i> ; DÉM. <i>Or. 24, 134 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. φιλέψιος.`

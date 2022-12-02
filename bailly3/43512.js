@@ -1,0 +1,1 @@
+lar[43512]=`<b>εὐ·συνάγωγος, ος, ον</b> <font color="purple">[ᾰ]</font> commode pour un rassemblement, une réunion, ARSTT. <i>Pol. 7, 12, 6</i>.<p><b>Étym</b>. εὖ, συνάγω.`

@@ -1,0 +1,1 @@
+lar[87488]=`<i>adv</i>., en mendiant, pauvrement, BABR. <i>55, 2</i>.<p><b>Étym</b>. πτωχός.`

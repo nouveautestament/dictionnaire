@@ -1,0 +1,1 @@
+lar[106856]=`<b>φρενο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> à l’esprit égaré, ESCHL. <i>Ag. 1140</i>.<p><b>Étym</b>. φρ. μαίνομαι.`

@@ -1,0 +1,1 @@
+lar[31878]=`<b>ή, όν</b>, propre à compléter, qui complète, PHIL. <i>1, 685</i>.<p><b>Étym</b>. ἐκπληρόω.`

@@ -1,0 +1,1 @@
+lar[13739]=`<b>ἀποφλεγματικός, ή, όν</b> <font color="purple">[μᾰ]</font> propre à faire évacuer les phlegmes, GAL. <i>13, 135, etc</i>.<p><b>Étym</b>. ἀποφλεγματίζω.`

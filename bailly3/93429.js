@@ -1,0 +1,1 @@
+lar[93429]=`<b>συγ·κερατίζομαι</b> <font color="purple">[ᾰ]</font> combattre à coups de cornes avec, <i>dat</i>. SPT. <i>Dan. 11, 40</i>.`

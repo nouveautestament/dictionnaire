@@ -1,0 +1,1 @@
+lar[70693]=`<i>adv</i>., en portant <i>ou</i> en supportant, JAMBL. <i>V. Pyth. c. 5</i>.`

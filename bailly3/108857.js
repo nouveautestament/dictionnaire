@@ -1,0 +1,1 @@
+lar[108857]=`<b>ας (ἡ)</b> action de chanter en chœur, PLAT. <i>Leg. 764e</i>.<p><b>Étym</b>. χορῳδέω.`

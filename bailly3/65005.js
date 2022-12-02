@@ -1,0 +1,1 @@
+lar[65005]=`<b>μετα·τρέχω</b> <font color="darkgreen">(<i>f</i>. μεταδραμοῦμαι, <i>etc</i>.)</font> courir après, poursuivre, AR. <i>Pax 261</i> ; τινά, PHRYN. (SCH.-AR. <i>Av. 989</i>) poursuivre qqn.`

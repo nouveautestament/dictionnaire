@@ -1,0 +1,1 @@
+lar[47035]=`<b>θεσπι·δαής, ής, ές</b> <font color="purple">[ῐ]</font> allumé par les dieux, <i>p. suite,</i> qui brûle avec une violence extraordinaire, IL. <i>12, 177, 441</i> ; OD. <i>4, 418, etc</i>.<p><b>Étym</b>. θέσπις, δαίω.`

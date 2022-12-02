@@ -1,0 +1,1 @@
+lar[42176]=`<font color="darkgreen">(<i>impf</i>. ηὐθέτιζον)</font> mettre en ordre, bien arranger, HÉS. <i>Th. 541</i> ; LUC. <i>Ind. 29</i> ; BABR. <i>118, 2</i>.<p><b>Étym</b>. εὔθετος.`

@@ -1,0 +1,1 @@
+lar[56170]=`<b>κλυτό·νοος, οος, οον</b> <font color="purple">[ῡ <i>par exc. à l’arsis</i>]</font> célèbre par sa sagesse, ANTH. <i>3, 4</i>.<p><b>Étym</b>. κλ. νόος.`

@@ -1,0 +1,1 @@
+lar[82850]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> atelier de teinture de pourpre, STR. <i>757</i>.<p><b>Étym</b>. πορφυρεύω.`

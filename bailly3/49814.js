@@ -1,0 +1,1 @@
+lar[49814]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> support vertical, ATHÉNÉE MÉC.<p><b>Étym</b>. ἵστημι.`

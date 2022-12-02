@@ -1,0 +1,1 @@
+lar[2465]=`<b>εος-ους (τὸ)</b> feu, flamme, ardeur, A.RH. <i>3, 1304</i>.<p><b>Étym</b>. αἴθω.`

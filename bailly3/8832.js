@@ -1,0 +1,1 @@
+lar[8832]=`<b>εως (ἡ)</b> floraison, TH. <i>C.P. 4, 10, 1</i> ; PLUT. <i>M. 647b</i>.<p><b>Étym</b>. ἀνθέω.`

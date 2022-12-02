@@ -1,0 +1,1 @@
+lar[59848]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> relâchement du ventre, HPC. <i>1137a</i>.<p><b>Étym</b>. λαπαρός.`

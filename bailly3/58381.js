@@ -1,0 +1,1 @@
+lar[58381]=`<b>ΐδος</b> <font color="purple">[ῠ]</font> <i>adj. f. c</i>. Κυβελήϊος NONN. <i>D. 14, 10, etc</i>.`

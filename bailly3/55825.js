@@ -1,0 +1,1 @@
+lar[55825]=`<b>κλειδο·ποιός, οῦ (ὁ)</b> serrurier (<i>propr</i>. faiseur de clefs) P. ALEX. <i>Apot. p. 58, 12</i>.<p><b>Étym</b>. κλείς, ποιέω.`

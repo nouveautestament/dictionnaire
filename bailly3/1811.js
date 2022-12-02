@@ -1,0 +1,1 @@
+lar[1811]=`<b>*ἀερο·φοῖτις</b>, <i>seul. ion</i>. <b>ἠερο·φοῖτις, ιδος (ἡ) :<br>      1</b> qui habite les ténèbres (Érinys) IL. <i>9, 571 ; 19, 87</i>.<br><b>      2</b> qui traverse les airs, ORPH. <i>H. 8, 2</i>.<p><b>Étym</b>. ἀήρ, φοιτάω.`

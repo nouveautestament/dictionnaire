@@ -1,0 +1,1 @@
+lar[23047]=`<b>δακρυ·πλώω</b> <font color="purple">[αυ]</font> (<i>seul. prés. inf</i>.) nager dans les larmes, <i>en parl. d’un homme ivre, dont les yeux sont humides,</i> OD. <i>19, 122</i>.<p><b>Étym</b>. δ. πλόος.`

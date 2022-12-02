@@ -1,0 +1,1 @@
+lar[6092]=`<b>ἀμφί·δασυς, εια, υ</b> <font color="purple">[δᾰ]</font> hérissé tout autour, <i>en parl. de l’égide,</i> entourée de franges, IL. <i>15, 309 ; en parl. de la tête de Marsyas,</i> POÈT. (PLUT. <i>M. 456b</i>).<p><b>Étym</b>. ἀ. δασύς.`

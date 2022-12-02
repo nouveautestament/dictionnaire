@@ -1,0 +1,1 @@
+lar[100991]=`<b>ας (ἡ)</b> = <i>lat</i>. Tullia, <i>n. de f. rom</i>. PLUT. <i>Cic. 41</i>.`

@@ -1,0 +1,1 @@
+lar[2255]=`<b>ή, όν</b> <font color="purple">[γῐ]</font> de la fistule lacrymale, P. ÉG. <i>138 Briau</i>.`

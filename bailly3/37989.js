@@ -1,0 +1,1 @@
+lar[37989]=`<b>ἐπι·κέλευσις, εως (ἡ)</b> exhortation, encouragement, THC. <i>4, 95</i> ; DH. <i>2, 41 ; Rhet. 7, 2</i>.<p><b>Étym</b>. ἐπικελεύω.`

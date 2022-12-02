@@ -1,0 +1,1 @@
+lar[105282]=`<b>ή, όν</b>, qui cherche les poux : ἡ φθειριστική, PLAT. <i>Soph. 227b</i>, l’art de chercher les poux.<p><b>Étym</b>. φθειρίζω.`

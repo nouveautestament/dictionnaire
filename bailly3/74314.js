@@ -1,0 +1,1 @@
+lar[74314]=`<b>ας (ἡ)</b> <font color="purple">[ῐβ]</font> art du maître de gymnastique <i>ou p. ext</i>. du précepteur, ARCHIPP. (POLL. <i>3, 154, vulg. ; conj</i>. -εία).<p><b>Étym</b>. παιδοτρίβης.`

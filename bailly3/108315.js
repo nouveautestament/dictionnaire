@@ -1,0 +1,1 @@
+lar[108315]=`<i>néo-att</i>. <b>χερρονησίζω</b> (<i>seul. prés</i>.) former une péninsule, POL. <i>1, 73, 4 ; 10, 10, 5</i> ; STR. <i>128, 491, 529, etc</i>.<p><b>Étym</b>. χερσόνησος.`

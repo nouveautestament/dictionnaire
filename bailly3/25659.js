@@ -1,0 +1,1 @@
+lar[25659]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> désignation, PHIL. <i>1, 26 ; 2, 454</i>.<br><b>      2</b> prescription, recommandation, CLÉM. <i>624</i>.<p><b>Étym</b>. διασυνίστημι.`

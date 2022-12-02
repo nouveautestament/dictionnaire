@@ -1,0 +1,1 @@
+lar[16894]=`<b>ατος (τὸ) :<br>      1</b> action <i>ou</i> parole déplacée, <i>d’où</i> absurdité, SEXT. <i>M. 1, 80</i>.<br><b>      2</b> <i>postér</i>. inconvenance, offense, RHÉT. <i>1, 618 W</i>.<p><b>Étym</b>. *ἀτοπέω, <i>de</i> ἄτοπος.`

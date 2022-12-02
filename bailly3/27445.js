@@ -1,0 +1,1 @@
+lar[27445]=`<b>ου</b> <i>et</i> <b>α (ὁ)</b> <font color="purple">[ᾱ]</font> = Dolabella, <i>n. romain,</i> STR. PLUT. <i>etc</i>.<p>➳ <i>Gén</i>. -α, PLUT. <i>Syll. 29, Cæs. 51, 62 ; Ant. 9 ; Brut. 8, etc.</i> ; APP. <i>Civ. 3, 24 ; gén</i>. -ου, DC. <i>fr. 39, 2 ; 47, 28</i>.`

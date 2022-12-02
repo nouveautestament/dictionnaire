@@ -1,0 +1,1 @@
+lar[24402]=`<b>δια·βαπτίζομαι</b> (<i>seul. prés</i>.) :<br><b>      1</b> lutter à qui plongera le plus avant : πρός τινα, POLYEN <i>4, 2, 6</i>, avec qqn.<br><b>      2</b> lutter d’injures cherchées dans les bas-fonds du vocabulaire : τινι, DÉM. <i>782, 26</i>, avec qqn.`

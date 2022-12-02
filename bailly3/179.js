@@ -1,0 +1,1 @@
+lar[179]=`<b>Ἁβρό·θοος, ου (ὁ)</b> Abrothoos, <i>litt</i>. « qui court mollement » <i>h</i>. NONN. <i>D. 26, 153</i>.<p><b>Étym</b>. ἁ. θέω.`

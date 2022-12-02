@@ -1,0 +1,1 @@
+lar[51426]=`<b>ου (ἡ)</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> four, fourneau, HOM. <i>Ep. 14</i> ; CROBYL. (ATH. <i>5f</i>) ; HDT. <i>1, 179</i>.<br><b>      2</b> fournaise, feu, CHRYS. <i>1Cor. 12</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

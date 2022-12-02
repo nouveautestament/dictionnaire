@@ -1,0 +1,1 @@
+lar[7949]=`<b>ἀνα·ψαλάσσω</b> <font color="purple">[ᾰλ]</font> (<i>sbj. ao. 3 sg</i>. -άξῃ) ouvrir en tâtant, LYC. <i>342</i>.`

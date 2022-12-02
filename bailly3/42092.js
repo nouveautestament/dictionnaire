@@ -1,0 +1,1 @@
+lar[42092]=`<b>εὐ·ήγορος, ος, ον</b>, qui dit du bien, qui loue, EUB. (ATH. <i>478c ; cf</i>. εὐηγορέω).<p><b>Étym</b>. εὖ, ἀγορεύω.`

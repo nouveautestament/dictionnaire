@@ -1,0 +1,1 @@
+lar[103005]=`<i>adv</i>., en état de somnolence, GAL. <i>Lex. Hipp. 19, 149</i>.`

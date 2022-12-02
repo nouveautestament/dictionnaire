@@ -1,0 +1,1 @@
+lar[3783]=`<b>ἀκρο·κελαινιάω-ῶ</b> (<i>seul. part. prés. épq</i>. -ιόων, IL. <i>21, 249 ; fém</i>. -ιόωσα, NONN. <i>D. 18, 156</i>) devenir noir <i>ou</i> sombre à la surface.<p><b>Étym</b>. ἄ. κελαινός.`

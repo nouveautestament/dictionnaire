@@ -1,0 +1,1 @@
+lar[72818]=`<i>adv</i>., de manière à limiter, à définir exactement, DL. <i>9, 71</i>.<p><b>Étym</b>. ὁρικός.`

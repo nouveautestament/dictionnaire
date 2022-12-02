@@ -1,0 +1,1 @@
+lar[33170]=`<b>ἔμ·βρυος, ος, ον</b> <font color="purple">[ῠ]</font> couvert de mousse, NONN. <i>D. 41, 29</i>.<p><b>Étym</b>. ἐν, βρύον.`

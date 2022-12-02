@@ -1,0 +1,1 @@
+lar[100534]=`<font color="purple">[ῐ]</font> <i>adv. c</i>. τριταϊκῶς, HPC. <i>Coac. 167</i>.<p><b>Étym</b>. τριταιογενής.`

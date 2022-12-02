@@ -1,0 +1,1 @@
+lar[88699]=`<b>ῥοδό·κολπος, ος, ον</b>, au sein de rose, POÈT. (STOB. <i>Ecl. 174).</i><p><b>Étym</b>. ῥ. κόλπος.`

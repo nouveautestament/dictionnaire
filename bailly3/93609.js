@@ -1,0 +1,1 @@
+lar[93609]=`<b>οῦ (ὁ)</b> qui fait partie du même chœur de danse, XÉN. <i>Hell. 2, 4, 20</i> ; PLAT. <i>Leg. 653e, 665a</i>.<p><b>Étym</b>. συγχορεύω.`

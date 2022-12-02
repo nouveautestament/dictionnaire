@@ -1,0 +1,1 @@
+lar[107485]=`<b>ωνος (ὁ)</b> Khærôn, <i>h</i>. XÉN. <i>Hell. 2, 4, 33</i> ; DÉM. <i>17, 10 Baiter-Sauppe</i> ; PLUT. <i>Syll. 17, Alex. 3, etc</i>.<p><b>Étym</b>. χαίρω.`

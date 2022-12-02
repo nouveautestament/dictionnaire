@@ -1,0 +1,1 @@
+lar[24128]=`<b>*δηΐ·φοβος</b>, <i>dor</i>. <b>δαΐ·φοβος, ος, ον</b> <font color="purple">[ᾱ]</font> qui effraie l’ennemi, ALC. <i>28</i>.<p><b>Étym</b>. δήϊος, φόβος.`

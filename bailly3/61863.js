@@ -1,0 +1,1 @@
+lar[61863]=`<b>λυκη·γενής, ής, ές</b> <font color="purple">[ῠ]</font> père de la lumière, <i>ép. d’Apollon ; sel. l’interprétation commune,</i> né en Lycie, <i>à Patara,</i> IL. <i>4, 101, 119</i>.<p><b>Étym</b>. Λυκία, γένος.`

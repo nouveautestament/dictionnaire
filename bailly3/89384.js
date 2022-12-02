@@ -1,0 +1,1 @@
+lar[89384]=`<b>ης (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> <i>c</i>. ταργάνη, ESCHL. <i>Suppl. 788</i>.<br><b>      2</b> osier tressé, <i>d’où</i> corbeille, TIMOCL. (<i>Com. fr. 3, 606</i>) ; LUC. <i>Lex. 6</i> ; NT. <i>2Cor. 11, 33</i>.`

@@ -1,0 +1,1 @@
+lar[6319]=`<b>ἀμφί·πληκτος, ος, ον</b>, qui frappe (le rivage) tout autour, <i>en parl. des flots,</i> SOPH. <i>Ph. 687</i>.<p><b>Étym</b>. ἀ. πλήσσω.`

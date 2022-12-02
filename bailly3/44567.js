@@ -1,0 +1,1 @@
+lar[44567]=`<b>ου (ὁ)</b> Zètès, <i>Argonaute</i>, APD. <i>3, 15</i>.<p>➳ <i>Dor. acc</i>. Ζήταν, PD. <i>P. 4, 325</i>.`

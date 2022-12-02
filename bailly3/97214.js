@@ -1,0 +1,1 @@
+lar[97214]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> cabas de figues <i>ou</i> de dattes, BABR. <i>108, 19 ; fig</i>. AR. <i>fr. 244 ; au plur</i>. Σώρακοι, les Paniers, <i>titre d’une comédie d’Alexis</i>.`

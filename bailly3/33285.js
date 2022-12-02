@@ -1,0 +1,1 @@
+lar[33285]=`<b>ος, ον</b>, constant, persévérant, ferme, XÉN. <i>Cyr. 3, 3, 55</i> ; PLAT. <i>Rsp. 536e</i>.<p><b>Étym</b>. ἐμμένω.`

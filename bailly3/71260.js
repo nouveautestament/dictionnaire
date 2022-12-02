@@ -1,0 +1,1 @@
+lar[71260]=`<b>(ὁ)</b> Olpis, <i>n. de pêcheur,</i> THCR. <i>Idyl. 3, 26</i> ; SIM. <i>fr. 208</i>.`

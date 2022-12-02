@@ -1,0 +1,1 @@
+lar[27904]=`<b>ῶν (οἱ)</b> Driles, <i>pple du Pont (auj</i>. région du Dchanik) XÉN. <i>An. 5, 2, 1</i>.`

@@ -1,0 +1,1 @@
+lar[82977]=`<b>ιδος (ὁ)</b> Potamis, <i>général syracusain,</i> THC. <i>8, 85</i> ; XÉN. <i>Hell. 1, 1, 29</i>.<p><b>Étym</b>. ποταμός.`

@@ -1,0 +1,1 @@
+lar[33737]=`<b>εως (ἡ)</b> <font color="purple">[φῡ]</font> inspiration, ORIG. <i>t. 16, p. 3067 Migne</i>.<p><b>Étym</b>. ἐμφυσιόω.`

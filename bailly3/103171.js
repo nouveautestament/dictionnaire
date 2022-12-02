@@ -1,0 +1,1 @@
+lar[103171]=`<b>ὑπο·διάφορος, ος, ον</b>, subdivisé en parties distinctes, GAL. <i>19, 602</i>.`

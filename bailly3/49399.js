@@ -1,0 +1,1 @@
+lar[49399]=`<b>ἱππο·νώμας, ου (ὁ)</b> <font color="purple">[ᾱ]</font> conducteur de chevaux, EUR. <i>Hipp. 1399</i> ; AR. <i>Nub. 571 ; adj</i>. SOPH. <i>Aj. 231, conj</i>. (ἱππονόμος <i>vulg</i>.).<p><b>Étym</b>. ἵ. νωμάω.`

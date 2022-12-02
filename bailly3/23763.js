@@ -1,0 +1,1 @@
+lar[23763]=`<b>ου (ὁ)</b> qui reçoit, <i>d’où</i> mendiant, OD. <i>4, 248</i>.<p><b>Étym</b>. δέχομαι.`

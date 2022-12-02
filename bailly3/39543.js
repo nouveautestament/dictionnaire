@@ -1,0 +1,1 @@
+lar[39543]=`<b>ἐπί·φαλλος, ου (ὁ)</b> sorte de danse, TRYPH. (ATH. <i>618e</i>).`

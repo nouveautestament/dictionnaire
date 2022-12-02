@@ -1,0 +1,1 @@
+lar[49599]=`<b>ου (ὁ)</b> Isménias, <i>h</i>. XÉN. <i>Hell. 3, 5, 1</i> ; PLAT. <i>Men. 90a, etc</i>.`

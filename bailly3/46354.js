@@ -1,0 +1,1 @@
+lar[46354]=`<b>ου (τὸ)</b> prix d’une place aux spectacles de charlatans, SOPHR. (EM. <i>443, 52).</i><p><b>Étym</b>. θαῦμα.`

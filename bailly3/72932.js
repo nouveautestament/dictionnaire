@@ -1,0 +1,1 @@
+lar[72932]=`<b>ὀρνιθο·θηρευτική, ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de chasser aux oiseaux, PLAT. <i>Soph. 220b</i>.<p><b>Étym</b>. ὄρνις, θηρεύω.`

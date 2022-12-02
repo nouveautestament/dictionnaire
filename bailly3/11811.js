@@ -1,0 +1,1 @@
+lar[11811]=`<b>ἀπ·ερυθριακότως</b> <font color="purple">[ᾱκ]</font> <i>adv</i>., avec impudence, APD. <i>fr. 1, 10</i>.<p><b>Étym</b>. ἀπερυθριάω.`

@@ -1,0 +1,1 @@
+lar[53519]=`<b>κατ·ασχημονέω-ῶ</b>, traiter d’une manière inconvenante <i>ou</i> odieuse, APP. <i>1, 58, 2 Schweigh</i>.`

@@ -1,0 +1,1 @@
+lar[13442]=`<b>ατος (τὸ) :<br>      1</b> compresse, bandage, HPC. <i>749d.</i><br><b>      2</b> douleur fixée (dans les intestins) HPC. <i>298, 41</i>.<p><b>Étym</b>. ἀποστηρίζω.`

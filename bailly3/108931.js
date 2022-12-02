@@ -1,0 +1,1 @@
+lar[108931]=`<b>ου (ὁ)</b> débiteur, PLUT. <i>M. 101c ;</i> LUC. <i>Abd. 15</i>.<p><b>Étym</b>. χρέος.`

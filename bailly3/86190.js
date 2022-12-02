@@ -1,0 +1,1 @@
+lar[86190]=`<b>προσ·οικίζω :<br>      1</b> bâtir auprès, DS. <i>13, 79</i>.<br><b>      2</b> établir une colonie auprès, PORPH. (EUS. <i>P.E. 114a</i>).`

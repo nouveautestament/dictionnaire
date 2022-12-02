@@ -1,0 +1,1 @@
+lar[67959]=`<b>Νειλο·θερής, ής, ές</b>, brûlé par l’air et le soleil du Nil, ESCHL. <i>Suppl. 70</i>.<p><b>Étym</b>. Ν. θέρος.`

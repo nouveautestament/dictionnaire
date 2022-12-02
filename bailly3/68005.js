@@ -1,0 +1,1 @@
+lar[68005]=`<b>νεκρο·μαντεῖον, ου (τὸ)</b> lieu où l’on évoque les morts pour prédire l’avenir, CIC. <i>Tusc. 1, 16</i>.<p><b>Étym</b>. ν. μαντεύω.`

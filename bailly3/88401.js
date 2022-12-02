@@ -1,0 +1,1 @@
+lar[88401]=`<font color="purple">[ᾰ]</font> DIOSC. <i>4, 40</i> ; PORPH. <i>Abst. 1, 28 ; d’ord. au pass</i>. ῥευματίζομαι :<br><b>      1</b> couler, découler, STR. <i>52</i>.<br><b>      2</b> souffrir d’un écoulement d’humeurs, <i>particul</i>. avoir du rhume <i>ou</i> un rhumatisme, T. LOCR. <i>103a ;</i> PLUT. <i>M. 902a</i>.<p><b>Étym</b>. ῥεῦμα.`

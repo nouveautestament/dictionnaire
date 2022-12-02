@@ -1,0 +1,1 @@
+lar[56495]=`<b>κοινο·τροφικός, ή, όν</b>, qui concerne la vie (<i>propr</i>. la nourriture) commune, PLAT. <i>Pol. 264d, 267d ;</i> ἡ κοινοτροφική (<i>s.-e</i>. ἐπιστήμη) PLAT. <i>Pol. 261e, 264b, etc</i>. l’art de nourrir en commun.<p><b>Étym</b>. κοινός, τροφή.`

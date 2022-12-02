@@ -1,0 +1,1 @@
+lar[35049]=`<b>ἐντερο·επιπλο·κήλη, ης (ἡ)</b> hernie intestinale et du scrotum, GAL. <i>2, 275</i>.<p><b>Étym</b>. ἔ. ἐπίπλοον, κήλη.`

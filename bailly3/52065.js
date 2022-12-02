@@ -1,0 +1,1 @@
+lar[52065]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> étain, <i>primit</i>. mélange d’argent et de plomb, dont on faisait des cuirasses et des boucliers, IL. <i>11, 25, etc.</i> ; HÉS. <i>Th. 862</i> ; HDT. <i>3, 115</i>.`

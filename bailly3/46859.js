@@ -1,0 +1,1 @@
+lar[46859]=`<b>*Θεοχαρίδας</b>, <i>seul. éol</i>. Θευχαρίδας, <b>α (ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> Theukharidas, <i>h</i>. THCR. <i>Idyl. 2, 70</i>.<p><b>Étym</b>. <i>patr. de</i> Θεοχάρης.`

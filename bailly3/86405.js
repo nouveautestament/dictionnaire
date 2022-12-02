@@ -1,0 +1,1 @@
+lar[86405]=`<b>προσ·σπάω-ῶ</b>, tirer vers, <i>d’où au pass</i>. être tiraillé, contracté, ARSTT. <i>Physiogn. 3, 2</i>.`

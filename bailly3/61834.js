@@ -1,0 +1,1 @@
+lar[61834]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Lykambès, <i>h</i>. ARCHIL. (HÉPH. <i>p. 129</i>) ; ANTH. <i>7, 69</i> ; LUC. <i>Am. 3, etc</i>.`

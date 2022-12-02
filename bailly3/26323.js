@@ -1,0 +1,1 @@
+lar[26323]=`<b>δι·ευριπίζω</b> <font color="purple">[ῑπ]</font> avoir un flux et un reflux comme l’Euripos, <i>courant marin qui traverse le détroit entre l’Eubée et la Béotie,</i> ARSTT. <i>Probl. 25, 22, dout</i>.<p><b>Étym</b>. διά, Εὔριπος.`

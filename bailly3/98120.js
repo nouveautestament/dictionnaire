@@ -1,0 +1,1 @@
+lar[98120]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. Τελέδημος.`

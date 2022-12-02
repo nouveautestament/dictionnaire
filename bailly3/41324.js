@@ -1,0 +1,1 @@
+lar[41324]=`<b>εως (ἡ)</b> changement, transformation, ARSTT. <i>Phys. 4, 9, 11 ; Mund. 6, 3, etc</i>.<p><b>Étym</b>. ἑτεροιόω.`

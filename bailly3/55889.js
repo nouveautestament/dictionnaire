@@ -1,0 +1,1 @@
+lar[55889]=`<b>Κλεό·βουλος, ου (ὁ)</b> Kléoboulos (Cléobule) :<br><b>      1</b> <i>Troyen,</i> IL. <i>16, 320</i>.<br><b>      2</b> <i>un des sept sages,</i> PLAT. <i>Prot. 343a, etc.</i><br><b>      3</b> <i>éphore lacédémonien,</i> THC. <i>5, 36, etc</i>.<p>➳ <i>Ion</i>. Κλεύβουλος, ANACR. <i>3</i>.<p><b>Étym</b>. κλ. βουλή.`

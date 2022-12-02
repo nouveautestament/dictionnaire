@@ -1,0 +1,1 @@
+lar[45381]=`<b>ἡμι·άρρην, ην, εν</b>, <i>gén</i>. <b>ενος</b>, à moitié mâle, eunuque, CTÉS. <i>Pers. 5</i> ; THPP. (PHOT.).<p><b>Étym</b>. ἡμι-, ἄ.`

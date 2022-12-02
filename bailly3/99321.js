@@ -1,0 +1,1 @@
+lar[99321]=`<i>acc</i>. <b>-άδη (ὁ)</b> <font color="purple">[ῑῐᾰᾱ]</font> Tisiadès, <i>Athénien,</i> AR. <i>Vesp. 401</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Τισίας.`

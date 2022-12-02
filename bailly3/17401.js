@@ -1,0 +1,1 @@
+lar[17401]=`<b>αὐτο·βούλησις, εως (ἡ)</b> la volonté en soi, ARSTT. <i>Top. 6, 8, 6</i>.<p><b>Étym</b>. <i>sel. Bkk. et Bonitz en deux mots</i>.`

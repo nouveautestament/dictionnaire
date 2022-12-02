@@ -1,0 +1,1 @@
+lar[77034]=`<i>adv</i>., proverbialement, STR. <i>497</i> ; ANTH. <i>9, 379</i>.`

@@ -1,0 +1,1 @@
+lar[20826]=`<b>ου (τὸ) :<br>   I</b> <i>c</i>. βρογχία GAL. <i>7, 467</i>.<br><b>   II</b> <i>au plur.</i> :<br><b>      1</b> bronches, conduits de l’air dans les poumons, HPC. <i>Acut. 386</i> ; GAL. <i>7, 474</i>.<br><b>      2</b> cartilages du nez, HPC. <i>252, 51</i>.`

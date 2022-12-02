@@ -1,0 +1,1 @@
+lar[13204]=`<b>ἀπ·ορθόω-ῶ</b>, redresser, <i>fig</i>. remettre dans la droite voie, diriger, SOPH. <i>Ant. 636</i> ; PLAT. <i>Leg. 757e</i>.`

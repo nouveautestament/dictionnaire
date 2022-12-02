@@ -1,0 +1,1 @@
+lar[8334]=`<b>ἀν·έμπτωτος, ος, ον</b>, qui ne peut tomber dans, <i>avec</i> εἰς <i>et l’acc</i>. PLAT. <i>Def. 412c ;</i> DL. <i>7, 117</i> (ἀν-, ἐμπίπτω.).`

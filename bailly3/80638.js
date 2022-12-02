@@ -1,0 +1,1 @@
+lar[80638]=`<b>πλακόω-ῶ</b> <font color="purple">[ᾰ]</font> incruster, plaquer, NYSS.<p><b>Étym</b>. πλάξ.`

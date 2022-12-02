@@ -1,0 +1,1 @@
+lar[19420]=`<b>ας (ἡ) :<br>      1</b> mal de mer, nausée, CRAT. (POLL. <i>10, 76</i>) ; XÉN. <i>Mem. 3, 11, 13</i>.<br><b>      2</b> infection, <i>en gén</i>. HPC. <i>883d</i> (<i>ion</i>. -ίη).<p><b>Étym</b>. βδελύσσομαι.`

@@ -1,0 +1,1 @@
+lar[18208]=`<b>εως (ἡ) :<br>      1</b> purification, expiation, DH. <i>2, 52</i>.<br><b>      2</b> accomplissement d’un devoir pour la forme : ἀφοσιώσεως ἕνεκα, PLUT. <i>Eum. 12,</i> par acquit de conscience, pour la forme.<p><b>Étym</b>. ἀφοσιόω.`

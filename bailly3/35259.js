@@ -1,0 +1,1 @@
+lar[35259]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à énoncer, à expliquer, LUC. <i>Salt. 36</i>.`

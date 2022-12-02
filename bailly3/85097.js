@@ -1,0 +1,1 @@
+lar[85097]=`<i>vb. de</i> προσαιονάω ARCHIG. (ORIB. <i>157 Cocch</i>.).`

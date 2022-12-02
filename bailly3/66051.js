@@ -1,0 +1,1 @@
+lar[66051]=`<b>μισο·πάρθενος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait les jeunes filles, PLUT. <i>M. 1164f</i>.<p><b>Étym</b>. μ. παρθένος.`

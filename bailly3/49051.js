@@ -1,0 +1,1 @@
+lar[49051]=`<b>ων (οἱ)</b> les Insubres, <i>pple de la Gaule transalpine,</i> PLUT. <i>Marc. 6</i>.`

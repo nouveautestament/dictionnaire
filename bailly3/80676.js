@@ -1,0 +1,1 @@
+lar[80676]=`<b>πλασματο·γράφος, ου (ὁ)</b> <font color="purple">[μᾰᾰ]</font> auteur qui écrit des fictions, RHÉT. <i>2, 79 W</i>.<p><b>Étym</b>. πλάσμα, γράφω.`

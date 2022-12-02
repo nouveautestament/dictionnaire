@@ -1,0 +1,1 @@
+lar[88698]=`<b>Ῥοδό·κλεια, ας (ἡ)</b> <font color="purple">[ᾰ]</font> Rhodokleia, <i>f</i>. ANTH. <i>5, 36, 73, 74</i>.<p><b>Étym</b>. ῥ. κλέος.`

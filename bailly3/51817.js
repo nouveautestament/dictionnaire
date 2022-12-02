@@ -1,0 +1,1 @@
+lar[51817]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑτ]</font> Karkinitis (<i>auj</i>. Eupatoria <i>ou</i> Yevpatoria) <i>v. de la Chersonèse Taurique,</i> HDT. <i>4, 55, 99</i>.`

@@ -1,0 +1,1 @@
+lar[100483]=`<b>τρί·σπαστος, ος, ον</b>, à trois poulies, VITR. <i>10, 3 ; subst</i>. τὸ τρίσπαστον, ORIB. <i>p. 155, 158 Mai,</i> sorte d’instrument de chirurgie.<p><b>Étym</b>. τρ. σπάω.`

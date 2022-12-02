@@ -1,0 +1,1 @@
+lar[27175]=`<b>εως (ἡ)</b> <font color="purple">[ῐᾰ]</font> séparation par moitié, ARAT. <i>737</i>.<p><b>Étym</b>. διχάζω.`

@@ -1,0 +1,1 @@
+lar[99847]=`<b>ης, ες</b> <font color="purple">[ᾰῐ]</font> qui a un air tragique, PALÆPH. <i>41</i>.<p><b>Étym</b>. τραγικός, -ωδης.`

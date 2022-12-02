@@ -1,0 +1,1 @@
+lar[96244]=`<b>σύν·οφρυς, υς, υ</b> <i>gén</i>. <b>υος</b>, dont les sourcils se joignent, <i>ce qui était considéré en Orient comme un signe de force ou de beauté,</i> ANACR. <i>15, 16</i> ; ARSTT. <i>Physiogn. 6, 41</i> ; THCR. <i>Idyl. 8, 73</i>.<p><b>Étym</b>. σύν, ὀφρύς.`

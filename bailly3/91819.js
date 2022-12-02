@@ -1,0 +1,1 @@
+lar[91819]=`<b>εος-ους (τὸ)</b> enveloppe, <i>particul. en parl. d’oignons,</i> tunique des bulbes, NIC. <i>Th. 882</i>.<p><b>Étym</b>. σπεῖρα.`

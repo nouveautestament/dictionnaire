@@ -1,0 +1,1 @@
+lar[103337]=`<b>ῆς (ἡ)</b> préparatifs, apprêts, JAMBL. <i>Protr. p. 10</i>.`

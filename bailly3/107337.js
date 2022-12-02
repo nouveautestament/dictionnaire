@@ -1,0 +1,1 @@
+lar[107337]=`<b>φυτ·ώριον, ου (τὸ)</b> <font color="purple">[ῠ]</font> pépinière, GEOP. <i>5, 3</i> ; CLÉM. <i>338</i>.<p><b>Étym</b>. φυτόν, ὤρα.`

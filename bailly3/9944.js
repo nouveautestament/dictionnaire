@@ -1,0 +1,1 @@
+lar[9944]=`<b>ἀντι·καταφρονέω-ῶ</b>, mépriser <i>ou</i> dédaigner en retour, DC. <i>54, 33</i>.`

@@ -1,0 +1,1 @@
+lar[69667]=`<b>ξυλο·κιννάμωμον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> bois de la cannelle, DIOSC. <i>1, 13</i> ; GEOP. <i>8, 22, 2</i>.`

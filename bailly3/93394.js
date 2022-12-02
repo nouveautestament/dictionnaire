@@ -1,0 +1,1 @@
+lar[93394]=`<b>συγ·καταψηφίζω</b>, élire ensemble, NT. <i>Ap. 1, 26</i>.<br><b><i>Moy.</i></b> condamner en même temps, PLUT. <i>Them. 21</i>.`

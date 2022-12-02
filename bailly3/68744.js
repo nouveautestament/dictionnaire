@@ -1,0 +1,1 @@
+lar[68744]=`<b>άα, άον</b>, de Nikias, THCR. <i>Idyl. 28, 9 gén. fém. éol</i>. -άας <i>conj</i>.<p><b>Étym</b>. Νικίας.`

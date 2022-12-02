@@ -1,0 +1,1 @@
+lar[45498]=`<b>ἡμι·ξύρητος, ος, ον</b> <font color="purple">[ῠ]</font> à demi rasé, DL. <i>6, 33</i>.<p><b>Étym</b>. ἡμι-, ξυρέω.`

@@ -1,0 +1,1 @@
+lar[29103]=`<b>δωδεκά·σημος, ος, ον</b> <font color="purple">[ᾰ]</font> à douze temps, <i>t. de mus</i>. A. QUINT. <i>p. 34 et 36</i>.<p><b>Étym</b>. δ. σῆμα.`

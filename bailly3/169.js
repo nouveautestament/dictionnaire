@@ -1,0 +1,1 @@
+lar[169]=`<b>(ὁ)</b> Abriorix (Ambiorix) <i>chef gaulois,</i> PLUT. <i>Cæs. 24</i>.`

@@ -1,0 +1,1 @@
+lar[89203]=`<b>έως (ὁ)</b> Salmônée, <i>fils d’Éole, frère de Sisyphe,</i> OD. <i>11, 336</i> ; HÉS. (TZETZ. <i>Sch. Lyc. 284</i>) ; PD. <i>P. 4, 254, etc</i>.<p>➳ <i>Gén. épq</i>. -ῆος, OD. <i>l. c. ; ou</i> -έος, LUC. <i>Trag. 12 ; acc. épq</i>. -ῆα, NONN. <i>D. 28, 184</i>.`

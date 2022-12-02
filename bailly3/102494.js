@@ -1,0 +1,1 @@
+lar[102494]=`<b>ΐδος</b>, <i>acc. contr</i>. <b>Ὑπερῇδα (ἡ)</b> Hypérèis, <i>fontaine de Thessalie,</i> PD. <i>P. 4, 125</i>.<p><b>Étym</b>. <i>cf</i>. Ὑπέρεια.`

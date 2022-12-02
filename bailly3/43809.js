@@ -1,0 +1,1 @@
+lar[43809]=`<b>εὔ·χιλος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> abondant en fourrage, LYC. <i>95</i>.<br><b>      2</b> bien nourri, XÉN. <i>Eq. 1, 12</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>l. c.</i> ; ARSTT. <i>P.A. 3, 14, 21</i>.<p><b>Étym</b>. εὖ, χιλός.`

@@ -1,0 +1,1 @@
+lar[49962]=`<b>ητος (ἡ)</b> <font color="purple">[ῐᾰ]</font> hardiesse, effronterie, impudence, PLAT. <i>Pol. 311a ;</i> POL. <i>12, 10, 4</i> ; PLUT. <i>M. 715d</i>.<p><b>Étym</b>. ἰταμός.`

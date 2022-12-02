@@ -1,0 +1,1 @@
+lar[1671]=`<b>ἀει·κτυπέων, ουσα, ον</b> <font color="purple">[ῠ]</font> qui retentit sans cesse, Q. SM. <i>1, 677</i>.<p><b>Étym</b>. ἀ. κτυπέω.`

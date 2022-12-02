@@ -1,0 +1,1 @@
+lar[46930]=`<b>ατος (τὸ)</b> fomentation, <i>d’où</i> cataplasme, HPC. <i>Acut. 386</i>.<p><b>Étym</b>. θερμάζω.`

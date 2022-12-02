@@ -1,0 +1,1 @@
+lar[21092]=`<b>ίδος (ἡ)</b> petit autel, HDT. <i>2, 125</i>.<p><b>Étym</b>. <i>dim. de</i> βωμός.`

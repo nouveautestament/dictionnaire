@@ -1,0 +1,1 @@
+lar[74061]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de bien choisir les comestibles, <i>particul</i>. le poisson, <i>titre d’un livre de Lyncée de Samos,</i> ATH. <i>228c, 313f</i>.<p><b>Étym</b>. ὀψωνέω.`

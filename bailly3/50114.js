@@ -1,0 +1,1 @@
+lar[50114]=`<i>gén</i>. <b>ἰπός (ὁ)</b> <font color="purple">[ῑπ]</font> ver qui ronge le bois, OD. <i>21, 395, ou</i> le bois de la vigne, TH. <i>C.P. 3, 22, 5</i> ; STR. <i>613</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. ἴξ.`

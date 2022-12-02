@@ -1,0 +1,1 @@
+lar[67649]=`<b>ου (ἡ) :<br>      1</b> nard, sorte de valériane, <i>plante,</i> TH. <i>H.P. 9, 7, 2</i> ; DIOSC. <i>1, 6, etc.</i><br><b>      2</b> huile de nard, ANTH. <i>6, 250</i> ; ARÉT. <i>p. 130, 6, etc</i>.`

@@ -1,0 +1,1 @@
+lar[106985]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῡῑτῐδ]</font> <i>autre n. de la plante</i> φρυγία, DIOSC. <i>3, 151</i>.`

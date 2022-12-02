@@ -1,0 +1,1 @@
+lar[66571]=`<b>μονο·λήμματος, ος, ον</b> <font color="purple">[ᾰ]</font> qui n’a qu’une prémisse (syllogisme) CHRYSIPP. (SEXT. <i>383, 22 et 29 Bkk</i>.).<p><b>Étym</b>. μ. λῆμμα.`

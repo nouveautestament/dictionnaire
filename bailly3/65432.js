@@ -1,0 +1,1 @@
+lar[65432]=`<b>μήλ·ωψ</b>, <i>gén</i>. <b>-οπος (ὁ, ἡ)</b> d’un jaune de coing <i>ou</i> d’un vert de pomme, OD. <i>7, 164</i>.<p><b>Étym</b>. μῆλον², ὤψ.`

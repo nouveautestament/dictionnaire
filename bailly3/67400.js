@@ -1,0 +1,1 @@
+lar[67400]=`<b>ά, όν</b> <font color="purple">[ῠᾰ]</font> qui souille, infâme, abominable, impur, <i>en parl. de choses,</i> HDT. <i>2, 37</i> ; EUR. <i>I.T. 1224 ; en parl. de pers</i>. EUR. <i>Med. 1393</i> ; AR. <i>Lys. 340</i>.<p><b>Étym</b>. μύσος.`

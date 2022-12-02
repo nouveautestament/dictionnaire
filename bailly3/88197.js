@@ -1,0 +1,1 @@
+lar[88197]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> fendu, crevassé, NIC. <i>Th. 821</i>.<p><b>Étym</b>. ῥαγή.`

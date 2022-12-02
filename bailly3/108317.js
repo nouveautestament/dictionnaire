@@ -1,0 +1,1 @@
+lar[108317]=`<i>néo-att</i>. <b>χερρονησιτέω-ῶ</b> <font color="purple">[ῑ]</font> être habitant d’une péninsule, POL. <i>1, 73, 4</i>.<p><b>Étym</b>. χερσονησίτης.`

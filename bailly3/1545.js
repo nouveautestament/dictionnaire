@@ -1,0 +1,1 @@
+lar[1545]=`<b>ή, όν</b> <font color="purple">[ιᾱ]</font> de l’Adriatique, ARSTT. <i>H.A. 6, 1, etc.</i> ; Ἀ. θάλαττα, PLUT. <i>Cam. 40,</i> la mer Adriatique ; Ἀ. κόλπος, STR. <i>92,</i> le golfe Adriatique.`

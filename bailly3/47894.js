@@ -1,0 +1,1 @@
+lar[47894]=`<b>Θυμβρο·φάγος, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui ne mange que de la sarriette, <i>càd</i>. sérieux, grave, AR. <i>Ach. 254</i>.<p><b>Étym</b>. θύμβρα, φαγεῖν.`

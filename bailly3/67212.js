@@ -1,0 +1,1 @@
+lar[67212]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne les parfums, de parfumeur, de parfumerie, HPC. <i>273, 28</i> ; ARSTT. <i>Nic. 6, 13</i> ; PLUT. <i>M. 661c, etc</i>.<p><b>Étym</b>. μυρεψός.`

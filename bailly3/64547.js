@@ -1,0 +1,1 @@
+lar[64547]=`<b>μεσο·πλεύριος, ος, ον</b>, qui est entre les côtes, GAL. <i>2, 246 ; 4, 70</i> ; τὸ μεσοπλεύριον, RUF. (ORIB. <i>2, 223 ; 3, 290 B.-Dar</i>.) l’intervalle entre les côtes.`

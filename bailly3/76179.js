@@ -1,0 +1,1 @@
+lar[76179]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de noter les sons, <i>t. de mus</i>. ARISTOX. <i>Harm. p. 39</i> (παρασημαίνω).`

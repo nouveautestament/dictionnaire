@@ -1,0 +1,1 @@
+lar[62864]=`<b>(ὁ)</b> Mapèn, <i>n. d’h. tyrien,</i> HDT. <i>7, 98</i>.`

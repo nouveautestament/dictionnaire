@@ -1,0 +1,1 @@
+lar[36648]=`<b>ἐπ·αναστέλλω :<br>      1</b> relever, retrousser, CLÉM. <i>Pæd. 3, p. 253</i>.<br><b>      2</b> compenser, ARSTT. <i>Mund. 5, 13</i>.<br><b><i>Moy.</i></b> (<i>prés. inf</i>.) retrousser sur soi, CLÉM. <i>Str. 4, p. 618</i>.`

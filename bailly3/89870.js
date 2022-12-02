@@ -1,0 +1,1 @@
+lar[89870]=`<b>ου (ὁ)</b> petit insecte ailé, <i>p.-ê</i>. moucheron <i>ou</i> cousin, AR. <i>Vesp. 569, 352 ; Av. 82, 570</i> ; ANTH. <i>10, 49</i> ; EL. <i>N.A. 9, 3, 14, 22</i>.`

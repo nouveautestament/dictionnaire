@@ -1,0 +1,1 @@
+lar[18964]=`<b>ου (ὁ)</b> <i>transcript. du n. rom</i>. Balbīnus, HDN.`

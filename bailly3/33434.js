@@ -1,0 +1,1 @@
+lar[33434]=`<b>ἐμ·πηδάω-ῶ :<br>      1</b> bondir dans, <i>dat</i>. HDT. <i>3, 32</i>.<br><b>      2</b> s’élancer sur, <i>avec</i> εἰς <i>et l’acc</i>. POL. <i>12, 9, 4</i> ; DC. <i>62, 18 ; dat</i>. JOS. <i>B.J. 5, 2, 2 ; 5, 7, 3 ; abs</i>. LUC. <i>H. conscr. 20</i>.<p><b>Étym</b>. ἐν. π.`

@@ -1,0 +1,1 @@
+lar[54872]=`<b>κερατο·ξόος, όος, όον</b> <font color="purple">[ᾰ]</font> qui travaille (<i>propr</i>. qui racle) la corne, NONN. <i>D. 3, 76</i>.<p><b>Étym</b>. κέρας, ξέω.`

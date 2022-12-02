@@ -1,0 +1,1 @@
+lar[59050]=`<b>εως (τὸ)</b> cyphi, <i>aromate égyptien employé en médecine,</i> PLUT. <i>M. 383d ;</i> DIOSC. <i>1, 24, etc</i>.`

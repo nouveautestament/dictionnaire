@@ -1,0 +1,1 @@
+lar[72631]=`<b>ου (τὸ)</b> Orestheion, <i>v. d’Arcadie,</i> THC. <i>5, 64</i>.`

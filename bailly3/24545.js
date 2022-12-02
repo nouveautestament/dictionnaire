@@ -1,0 +1,1 @@
+lar[24545]=`<b>διαδεσμόω-ῶ</b>, bander, entourer de bandages, GAL.<p><b>Étym</b>. διάδεσμος.`

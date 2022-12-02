@@ -1,0 +1,1 @@
+lar[46563]=`<b>α, ον</b>, bien posé, <i>d’où</i> grave, respectable, ANTH. <i>App. 239, au cp</i>. -ώτερος.<p><b>Étym</b>. <i>R. indo-europ</i>. *d<sup>h</sup>eh₁-, poser, fabriquer ; <i>cf</i>. θέμεθλον, θεμέλιος.`

@@ -1,0 +1,1 @@
+lar[98912]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Tèlamos, <i>fl. du Pont,</i> LYC. <i>1333</i>.`

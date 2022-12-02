@@ -1,0 +1,1 @@
+lar[11841]=`<b>ἀπ·ευδιασμός, οῦ (ὁ)</b> retour du calme, de la sérénité, JAMBL. <i>V. Pyth. p. 114</i> ; PORPH. <i>V. Pyth. p. 193</i>.<p><b>Étym</b>. ἀπό, εὐδιάζω.`

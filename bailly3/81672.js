@@ -1,0 +1,1 @@
+lar[81672]=`<b>υος (ὁ)</b> Poltys, <i>roi de Thrace,</i> PLUT. <i>M. 174b</i>.`

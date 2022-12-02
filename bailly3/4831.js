@@ -1,0 +1,1 @@
+lar[4831]=`<i>adv</i>., dans des dispositions contraires <i>ou</i> hostiles : ἀ. διακεῖσθαι πρός τινα, LYS. <i>519, 2</i> ; ISOCR. <i>266c ;</i> POL. <i>3, 67, 8, etc.</i> ; τινι, DS. <i>13, 113,</i> être mal disposé pour qqn.<p>•<i> Cp</i>. -ώτερον, DÉM. <i>228, 12</i> ; ISOCR. <i>266c. • Sup</i>. -ώτατα, LYS. <i>911, 4</i>.<p><b>Étym</b>. ἀλλότριος.`

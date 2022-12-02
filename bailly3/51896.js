@@ -1,0 +1,1 @@
+lar[51896]=`<b>ας (ἡ)</b> production de fruits, fructification, TH. <i>H.P. 1, 2, 1</i>.<p><b>Étym</b>. καρποτόκος.`

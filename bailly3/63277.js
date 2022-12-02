@@ -1,0 +1,1 @@
+lar[63277]=`<b>ου (ὁ)</b> Mégabazos, <i>Perse,</i> HDT. <i>4, 143, etc.</i> ; THC. <i>1, 109, etc</i>.`

@@ -1,0 +1,1 @@
+lar[55025]=`<b>ου (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> de Kéryneia, <i>en Achaïe,</i> CALL. <i>Dian. 109</i>.<p><b>Étym</b>. <i>v</i>. Κερύνεια.`

@@ -1,0 +1,1 @@
+lar[10364]=`<b>ἀντι·ρρήγνυμι</b> (<i>part. ao.2 pass</i>. ἀντιρραγείς) briser contre, PLUT. <i>M. 1005b</i>.<p><b>Étym</b>. ἀ. ῥήγνυμι.`

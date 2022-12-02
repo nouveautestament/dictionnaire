@@ -1,0 +1,1 @@
+lar[87139]=`<b>ων (οἱ)</b> les Prônies, <i>pple de Céphallénie,</i> LYC. <i>791</i>.`

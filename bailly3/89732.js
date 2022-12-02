@@ -1,0 +1,1 @@
+lar[89732]=`<b>ήεσσα, ῆεν</b>, éclairé par la lune, P. SIL. <i>Ecphr. amb. 244</i>.<p><b>Étym</b>. σελήνη.`

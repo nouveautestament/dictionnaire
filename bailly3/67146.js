@@ -1,0 +1,1 @@
+lar[67146]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> de meule <i>ou</i> de moulin, PLUT. <i>M. 159d</i>.<p><b>Étym</b>. μυλωθρός.`

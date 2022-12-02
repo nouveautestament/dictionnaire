@@ -1,0 +1,1 @@
+lar[78118]=`<b>πεντηκοντά·δραχμος, ος, ον</b>, qui vaut cinquante drachmes, PLAT. <i>Crat. 384b</i>.<p><b>Étym</b>. π. δραχμή.`

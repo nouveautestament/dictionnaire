@@ -1,0 +1,1 @@
+lar[74059]=`<b>ὀψ·ώνης, ου (ὁ)</b> qui fait les provisions de bouche, maître-d’hôtel, AR. <i>fr. 424 Dind.</i> ; ALCIPHR. <i>1, 1</i>.<p><b>Étym</b>. ὄψον, ὠνέομαι.`

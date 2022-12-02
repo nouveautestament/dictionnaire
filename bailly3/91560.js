@@ -1,0 +1,1 @@
+lar[91560]=`<b>ης, ες</b>, qui ressemble au laiteron, TH. <i>H.P. 6, 4, 5</i>.<p><b>Étym</b>. σόγκος, -ώδης.`

@@ -1,0 +1,1 @@
+lar[16331]=`<b>ἀστρό·μαντις, εως (ὁ)</b> qui prédit l’avenir par l’observation des astres, JUL. <i>Or. 4, 131a</i>.<p><b>Étym</b>. ἄστρον, μ.`

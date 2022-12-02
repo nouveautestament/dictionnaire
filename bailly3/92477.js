@@ -1,0 +1,1 @@
+lar[92477]=`<b>στεφανηπλοκέω-ῶ</b> <font color="purple">[ᾰ]</font> tresser une couronne <i>ou</i> des couronnes, SAPPH. <i>fr. 37 Bgk</i> ; AR. <i>Th. 448</i> ; PLUT. <i>M. 802e</i>.<p>➳ <i>Inf. éol</i>. στεφανηπλόκευν, SAPPH. <i>l. c</i>.<p><b>Étym</b>. στεφανηπλόκος.`

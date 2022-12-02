@@ -1,0 +1,1 @@
+lar[49030]=`<i>adv</i>., à la manière indienne, CTÉS. (PHOT. <i>Bibl. 45, 39).</i><p><b>Étym</b>. Ἰνδός.`

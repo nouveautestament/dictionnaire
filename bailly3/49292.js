@@ -1,0 +1,1 @@
+lar[49292]=`<b>ἱππιο·χάρμης, ου (ὁ) :<br>      1</b> qui combat du haut d’un char, IL. <i>24, 257</i> ; OD. <i>11, 259</i> ; HÉS. <i>fr. 37 ; fr. 88 Gaisford</i>.<br><b>      2</b> qui combat à cheval, ESCHL. <i>Pers. 29</i>.<br><b>      3</b> <i>adj</i>. ἱππ. κλόνοι, ESCHL. <i>Pers. 106,</i> tumulte d’un combat de chevaux.<p><b>Étym</b>. ἵππιος, χάρμη.`

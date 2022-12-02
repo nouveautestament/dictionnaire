@@ -1,0 +1,1 @@
+lar[21055]=`<b>ας (ἡ)</b> bouchon, ANTIPH. (POLL. <i>10, 172).</i><p><b>Étym</b>. βύω ; <i>cf</i>. βύσμα.`

@@ -1,0 +1,1 @@
+lar[72567]=`<b>ὀργυιόω-ῶ</b>, allonger les bras, <i>d’où</i> lier les bras étendus, LYC. <i>26, 1077</i>.<p><b>Étym</b>. ὄργυια.`

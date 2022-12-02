@@ -1,0 +1,1 @@
+lar[65038]=`<b>μετα·φυτεύω</b> <font color="purple">[ῠ]</font> transplanter, TH. <i>H.P. 2, 17</i> ; GEOP. <i>11, 18, 14 ; au pass</i>. GEOP. <i>4, 8, 5, etc</i>.`

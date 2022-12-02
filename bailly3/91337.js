@@ -1,0 +1,1 @@
+lar[91337]=`<b>ου (τὸ)</b> peau au-dessus des sourcils, <i>d’où</i> sourcils, NIC. <i>Th. 177, 443 au plur</i>.`

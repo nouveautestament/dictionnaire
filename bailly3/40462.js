@@ -1,0 +1,1 @@
+lar[40462]=`<font color="purple">[ῑ]</font> συκᾶς, TH. <i>C.P. 2, 9, 5 ; H.P. 2, 8, 3,</i> hâter la pollinisation des figues, en attirant des blastophages (insectes hyménoptères) au moyen de figues sauvages mâles qu’on place auprès d’elles.<p><b>Étym</b>. ἐρινός.`

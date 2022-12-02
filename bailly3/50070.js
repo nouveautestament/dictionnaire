@@ -1,0 +1,1 @@
+lar[50070]=`<b>ἰχθυό·ρροος-ους, οος-ους, οον-ουν</b>, au cours abondant en poissons, TIMOCL. <i>fr. 16</i>.<p><b>Étym</b>. ἰ. ῥέω.`

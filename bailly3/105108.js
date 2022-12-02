@@ -1,0 +1,1 @@
+lar[105108]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire de Phénéos, PLUT. <i>Scr. mem. vind. 12</i>.<p><b>Étym</b>. Φενεός.`

@@ -1,0 +1,1 @@
+lar[85609]=`<b>προσ·εξάπτω</b>, allumer encore plus, attiser, <i>acc</i>. JOS. <i>A.J. 2, 16, 3 ; fig</i>. JOS. <i>A.J. 14, 9, 4</i>.`

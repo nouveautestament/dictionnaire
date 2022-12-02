@@ -1,0 +1,1 @@
+lar[495]=`<i>adv</i>., sans barbe, PHILSTR. <i>489</i>.`

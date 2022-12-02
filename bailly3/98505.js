@@ -1,0 +1,1 @@
+lar[98505]=`<i>pf. épq. et ion. de</i> τεύχω <i>ou de</i> τυγχάνω.`

@@ -1,0 +1,1 @@
+lar[77438]=`<b>παυσί·κακος, ος, ον</b> <font color="purple">[ῐκᾰ]</font> qui fait cesser le mal, NAZ. <i>2, 292</i>.<p><b>Étym</b>. π. κακός.`

@@ -1,0 +1,1 @@
+lar[28840]=`<b>ας (ἡ)</b> difficulté de traverser, passage difficile, XÉN. <i>An. 4, 3, 7</i>.<p><b>Étym</b>. δύσπορος.`

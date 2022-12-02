@@ -1,0 +1,1 @@
+lar[71196]=`<i>adv</i>., intégralement, ARSTT. (DL. <i>5, 28).</i><p><b>Étym</b>. ὁλομερής.`

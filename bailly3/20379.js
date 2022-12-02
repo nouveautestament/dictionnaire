@@ -1,0 +1,1 @@
+lar[20379]=`<b>βου·θύτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui immole des bœufs <i>ou</i> des génisses, ATH. <i>660a</i>.<p><b>Étym</b>. βοῦς, θύω.`

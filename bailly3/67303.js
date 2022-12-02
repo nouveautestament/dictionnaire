@@ -1,0 +1,1 @@
+lar[67303]=`<b>ηκος (ὁ)</b> Myrmèx :<br><b>   I</b> <i>h</i>. AR. <i>Ran. 1506</i>.<br><b>   II</b> <i>n. géogr.</i> :<br><b>      1</b> <i>rocher de Thessalie,</i> HDT. <i>7, 183</i>.<br><b>      2</b> <i>lieu de Samothrace,</i> NONN. <i>D. 13, 397</i>.<p><b>Étym</b>. <i>v</i>. μύρμηξ.`

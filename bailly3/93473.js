@@ -1,0 +1,1 @@
+lar[93473]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> compagnon de lit pour un repas, convive, PLUT. <i>M. 149b, 503a</i>.<p><b>Étym</b>. συγκλίνω.`

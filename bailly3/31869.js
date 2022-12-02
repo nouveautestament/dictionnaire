@@ -1,0 +1,1 @@
+lar[31869]=`<i>adv.</i> :<br><b>      1</b> de façon à exciter l’étonnement, POL. <i>10, 5, 2</i>.<br><b>      2</b> d’une façon effrayante, DS. <i>14, 25</i>.<p>•<i> Sup</i>. -ωτάτως, EL. <i>N.A. 11, 32</i>.`

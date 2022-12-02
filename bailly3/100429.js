@@ -1,0 +1,1 @@
+lar[100429]=`<b>τρισ·αρειοπαγίτης, ου (ὁ)</b> <font color="purple">[ῐᾰᾰῑ]</font> trois fois aussi sévère qu’un juge de l’aréopage, CIC. <i>Att. 4, 15, 4</i>.<p><b>Étym</b>. τρ. ἀρειοπαγίτης.`

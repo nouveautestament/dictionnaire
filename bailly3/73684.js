@@ -1,0 +1,1 @@
+lar[73684]=`<b>οὐρει·βάτας (ὁ)</b> <font color="purple">[ᾰᾱ]</font> <i>dor. c</i>. ὀρειβάτης, EUR. <i>El. 170</i>.`

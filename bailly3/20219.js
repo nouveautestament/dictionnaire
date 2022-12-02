@@ -1,0 +1,1 @@
+lar[20219]=`<i>adv</i>., en allant vers le nord, DP. <i>137</i>.<p><b>Étym</b>. βορέης, -δε.`

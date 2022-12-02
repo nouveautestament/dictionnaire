@@ -1,0 +1,1 @@
+lar[23381]=`<b>δαφνο·ειδής, ής, ές</b>, semblable au laurier ; τὸ δ. DIOSC. <i>4, 148</i> ; RUF. <i>p. 28, n. de divers arbustes semblables au laurier</i>.<p><b>Étym</b>. δάφνη, εἶδος.`

@@ -1,0 +1,1 @@
+lar[4940]=`<b>ἁλο·σκόροδον, ου (τὸ)</b> oignon de mer, DIOSC. <i>Noth. 2, 204</i>.`

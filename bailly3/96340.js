@@ -1,0 +1,1 @@
+lar[96340]=`<b>συν·τινάσσω</b> <font color="purple">[ῐ]</font><br><b>      1</b> ébranler, secouer fortement, ARSTT. <i>Mund. 4, 29</i>.<br><b>      2</b> ébranler en même temps, <i>au pass</i>. PLUT. <i>M. 1089e</i>.`

@@ -1,0 +1,1 @@
+lar[11674]=`<b>οῦ (ὁ)</b> Apellès (Apelle) :<br><b>      1</b> <i>peintre célèbre,</i> PLUT. <i>Alex. 4</i> ; LUC. <i>Im. 3, etc.</i><br><b>      2</b> <i>autre,</i> LUC. <i>Cal. 2, etc</i>.<p>➳ <i>Acc</i>. -ῆν, POL. <i>4, 85, etc. ou</i> -ῆ, POL. <i>24, 1</i>.`

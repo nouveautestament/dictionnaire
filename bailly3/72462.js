@@ -1,0 +1,1 @@
+lar[72462]=`<b>ω (ὁ)</b> <font color="purple">[ῐ]</font> œil, <i>mot laconien,</i> PLUT. <i>Lyc. 11</i> ; PHINTYS (STOB. <i>Fl. 74, 61).</i><p><b>Étym</b>. ὄψομαι.`

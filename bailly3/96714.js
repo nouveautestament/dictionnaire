@@ -1,0 +1,1 @@
+lar[96714]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite trombe d’eau, ARSTT. <i>Mir. 28</i>.<p><b>Étym</b>. σύστρεμμα.`

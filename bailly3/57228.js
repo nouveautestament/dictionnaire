@@ -1,0 +1,1 @@
+lar[57228]=`<b>κορωνο·βόλον, ου (τὸ)</b> engin pour abattre des corneilles, ANTH. <i>7, 546</i>.<p><b>Étym</b>. κορώνη, βάλλω.`

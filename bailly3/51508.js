@@ -1,0 +1,1 @@
+lar[51508]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> corbeille, OD. <i>10, 355</i>.<br><b>      2</b> couvercle en osier pour certains vases, HPC. <i>596, 14, etc</i>.<p><b>Étym</b>. <i>ion. et épq. c</i>. κάνεον.`

@@ -1,0 +1,1 @@
+lar[41486]=`<b>ας (ἡ)</b> Ève, <i>n. de f. biblique,</i> SPT. <i>Gen. 3, 20 ; 4, 1</i> ; NT. <i>2Cor. 11, 3 ; 1Tim. 2, 13</i>.`

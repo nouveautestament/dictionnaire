@@ -1,0 +1,1 @@
+lar[345]=`<b>ἀγανό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰᾰ]</font> aimable, doux, IL. <i>20, 467</i> ; AR. <i>Av. 1321</i>.<p><b>Étym</b>. ἀγανός, φρήν.`

@@ -1,0 +1,1 @@
+lar[58100]=`<b>ῶν (οἱ)</b> habitants de Crotone, THC. <i>7, 35</i>.<p>➳ <i>Ion</i>. -ιῆται, HDT. <i>3, 137, etc</i>.<p><b>Étym</b>. Κρότων.`

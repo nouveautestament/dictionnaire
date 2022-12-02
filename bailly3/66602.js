@@ -1,0 +1,1 @@
+lar[66602]=`<b>μονό·πεπλος, ος, ον</b>, vêtu seulement d’un voile, EUR. <i>Hec. 933</i>.<p><b>Étym</b>. μ. πέπλος.`

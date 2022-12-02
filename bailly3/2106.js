@@ -1,0 +1,1 @@
+lar[2106]=`<b>ητος (ἡ)</b> ensemble, masse, A. APHR. <i>Probl. 25, 35</i> ; DL. <i>10, 106</i>.<p><b>Étym</b>. ἀθρόος.`

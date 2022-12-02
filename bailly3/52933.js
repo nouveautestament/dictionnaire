@@ -1,0 +1,1 @@
+lar[52933]=`<b>κατα·νουθετέω-ῶ</b>, diriger par des conseils, instruire, SYN. <i>277</i>.`

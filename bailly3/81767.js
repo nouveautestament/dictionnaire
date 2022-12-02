@@ -1,0 +1,1 @@
+lar[81767]=`<b>πολύ·βουλος, ος, ον</b> <font color="purple">[ῠ]</font> très prudent, très sage, IL. <i>5, 260</i> ; OD. <i>16, 282</i> ; PD. <i>I. 4, 122 (3, 90).</i><p><b>Étym</b>. π. βουλή.`

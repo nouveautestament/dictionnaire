@@ -1,0 +1,1 @@
+lar[4997]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> saumure, PTOL. <i>Tetr. p. 181</i>.<p><b>Étym</b>. ἁλυκός.`

@@ -1,0 +1,1 @@
+lar[71072]=`<b>ὀλιγο·φάγος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui mange peu, GAL. <i>Lex. Hipp. p. 358, 19</i>.<p><b>Étym</b>. ὀλ. φαγεῖν.`

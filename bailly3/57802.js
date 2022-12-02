@@ -1,0 +1,1 @@
+lar[57802]=`<b>ου (τὸ) :<br>      1</b> crête marine, <i>plante,</i> HPC. <i>563, 56 ; 573, 2, etc.</i> ; NIC. <i>Th. 909</i>.<br><b>      2</b> <i>c</i>. ὄσπριον, LYC. <i>238</i>.`

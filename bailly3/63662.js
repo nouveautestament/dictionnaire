@@ -1,0 +1,1 @@
+lar[63662]=`<b>μεθυ·χάρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> qui aime le vin, MAN. <i>4, 300</i>.<p><b>Étym</b>. μ. χαίρω.`

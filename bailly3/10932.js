@@ -1,0 +1,1 @@
+lar[10932]=`<b>Ἀξιό·νικος, ου (ὁ)</b> Axionikos, <i>poète de la moyenne comédie,</i> ATH. <i>95c, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀξιόνικος.`

@@ -1,0 +1,1 @@
+lar[27700]=`<b>δουλό·βοτος, ος, ον</b>, mangé par les esclaves, <i>p. anal. avec</i> μηλόβοτος, PHILSTR. <i>V. soph. 1, 21</i>.<p><b>Étym</b>. δοῦλος, βόσκω.`

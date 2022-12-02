@@ -1,0 +1,1 @@
+lar[2979]=`<b>Αἰτωλ·άρχης, ου (ὁ)</b> 1<sup>er</sup> magistrat étolien, PHLÉG. TR. <i>Mir. fr. 31, p. 614, l. 1</i>.<p><b>Étym</b>. Αἰτωλός, ἄρχω.`

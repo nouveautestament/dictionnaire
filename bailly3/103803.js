@@ -1,0 +1,1 @@
+lar[103803]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> le dessous <i>ou</i> le bas d’une planche, HÉRON (MATH. <i>p. 274).</i><p><b>Étym</b>. ὑ. σανίς.`

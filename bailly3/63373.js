@@ -1,0 +1,1 @@
+lar[63373]=`<b>μεγαλό·κλονος, ος, ον</b> <font color="purple">[ᾰ]</font> qui fait un grand bruit, CLÉM. <i>90</i>.<p><b>Étym</b>. μ. κλόνος.`

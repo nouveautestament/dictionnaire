@@ -1,0 +1,1 @@
+lar[87321]=`<b>πτερνοβατέω-ῶ</b> <font color="purple">[ᾰ]</font> marcher sur les talons, P. ÉG. <i>6</i>.<p><b>Étym</b>. πτερνοβάτης.`

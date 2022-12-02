@@ -1,0 +1,1 @@
+lar[59561]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾱ]</font> Laïs, <i>courtisane de Corinthe,</i> ANTH. <i>7, 220</i> ; LUC. <i>V.H. 2, 18, etc</i>.<p>➳ <i>Voc</i>. Λαΐ, ANTH. <i>11, 67</i>.<p><b>Étym</b>. λαός, <i>litt</i>. «fille du peuple ».`

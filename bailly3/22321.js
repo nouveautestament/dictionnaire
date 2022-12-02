@@ -1,0 +1,1 @@
+lar[22321]=`<b>ου (τὸ)</b> petit cadran solaire, PTOL.<p><b>Étym</b>. <i>dim. de</i> γνώμων.`

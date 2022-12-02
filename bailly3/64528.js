@@ -1,0 +1,1 @@
+lar[64528]=`<b>μεσό·κοπος, ος, ον</b>, de coupe, <i>càd</i>. de grandeur <i>ou</i> de grosseur moyenne, XÉNARQ. (ATH. <i>569b</i>).<p><b>Étym</b>. μ. κόπτω.`

@@ -1,0 +1,1 @@
+lar[14999]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρ]</font> labour, POÈT. (STOB. <i>Ecl. 1, 1000).</i><p><b>Étym</b>. ἀροτρεύω.`

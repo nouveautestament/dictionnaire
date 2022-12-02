@@ -1,0 +1,1 @@
+lar[60108]=`<b>ης, ες</b>, malade de lientérie, HPC. <i>79d, etc</i>.<p><b>Étym</b>. λειεντερία, -ωδης.`

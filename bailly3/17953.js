@@ -1,0 +1,1 @@
+lar[17953]=`<b>ἀφ·ελληνίζω</b>, <i>f</i>. ίσω, helléniser, <i>càd</i>. civiliser (un pays) PHIL. <i>2, 567 ; au pass. (ao</i>. ἀφηλληνίσθην) D. CHR. <i>2, 114</i>.<p><b>Étym</b>. ἀπό, ἑλλ.`

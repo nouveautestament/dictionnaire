@@ -1,0 +1,1 @@
+lar[36510]=`<b>ας (ἡ)</b> ordre successif, succession continue, GAL. <i>19, 679</i> ; DRAC. <i>47, 23</i>.<p><b>Étym</b>. ἐπάλληλος.`

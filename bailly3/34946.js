@@ -1,0 +1,1 @@
+lar[34946]=`<b>ἐν·σπαργανόω-ῶ</b> <font color="purple">[γᾰ]</font> emmailloter dans, <i>dat. fig</i>. LGN <i>44, 3</i>.`

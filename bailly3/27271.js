@@ -1,0 +1,1 @@
+lar[27271]=`<b>οῦ (ὁ) :<br>      1</b> poursuite, EUR. <i>I.T. 1435</i> ; DS. <i>3, 38 ; au plur</i>. ESCHL. <i>Suppl. 1046</i> ; EUR. <i>Or. 412</i> ; PLUT. <i>M. 483e ; particul</i>. poursuite à la chasse, XÉN. <i>Cyr. 1, 4, 21, etc.</i><br><b>      2</b> persécution, NT. <i>Matth. 13, 21 ; Ap. 8, 1</i> ; CLÉM. <i>1, 1293 ; 2, 629 Migne</i>.<p><b>Étym</b>. διώκω.`

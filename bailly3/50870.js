@@ -1,0 +1,1 @@
+lar[50870]=`<b>κακοσχολέω-ῶ</b> <font color="purple">[ᾰ]</font> mal employer son loisir, perdre son temps, CHRYSIPP. (PLUT. <i>M. 1040b</i>).<p><b>Étym</b>. κακόσχολος.`

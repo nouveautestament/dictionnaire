@@ -1,0 +1,1 @@
+lar[69009]=`<b>*νοσο·φόρος</b>, <i>poét</i>. <b>νουσο·φόρος, ος, ον</b>, qui engendre une maladie, ANTH. <i>6, 27</i>.<p><b>Étym</b>. ν. φέρω.`

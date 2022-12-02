@@ -1,0 +1,1 @@
+lar[79513]=`<b>περι·τρέφω</b> (<i>pf. pass</i>. περιτέθραμμαι) nourrir de façon à arrondir, <i>d’où</i> arrondir, épaissir, A.RH. <i>2, 738 ; au pass</i>. devenir épais, se condenser autour de, <i>dat</i>. OD. <i>14, 477 ; abs</i>. IL. <i>5, 903</i> ; M. ANT. <i>12, 1</i>.<p>➳ <i>Impf. 3 sg. épq</i>. περιτρέφετο, OD. <i>l. c</i>.`

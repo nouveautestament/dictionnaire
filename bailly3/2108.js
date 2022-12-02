@@ -1,0 +1,1 @@
+lar[2108]=`<i>adv</i>., d’ensemble, en masse, ARSTT. <i>H.A. 4, 8, 11</i> ; ἀ. πίνειν, EL. <i>V.H. 1, 2,</i> boire d’un trait.<p><b>Étym</b>. ἀθρόος.`

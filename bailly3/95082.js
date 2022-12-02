@@ -1,0 +1,1 @@
+lar[95082]=`<b>συν·δημιουργός, ός, όν</b>, qui contribue à fabriquer, à confectionner, <i>gén</i>. PLAT. <i>Leg. 671d</i>.`

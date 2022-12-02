@@ -1,0 +1,1 @@
+lar[54276]=`<b>ης (ἡ)</b> sorte de vase à boire, NICOL. MYREPS.`

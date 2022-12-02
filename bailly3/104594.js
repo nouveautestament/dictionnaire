@@ -1,0 +1,1 @@
+lar[104594]=`<b>φαγέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. φάγομαι, <i>seul. prés. opt. 2 sg</i>. φαγέοις, Ps.-PHOCYL. <i>157 dout</i>. (διάγοις <i>Bgk), et fut</i>. φαγήσω, LIB. <i>3, 124</i>.<br><b><i>Moy</i>. φαγέομαι-οῦμαι</b> (<i>seul. prés</i>.) SPT. <i>Gen. 3, 2</i>.`

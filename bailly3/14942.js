@@ -1,0 +1,1 @@
+lar[14942]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰκ]</font> peau d’agneau, PLAT. <i>Conv. 220b ;</i> AR. <i>Nub. 730</i>.<p><b>Étym</b>. *ἄρναξ, <i>de</i> ἀρήν.`

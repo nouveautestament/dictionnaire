@@ -1,0 +1,1 @@
+lar[14262]=`<b>ου (ἡ)</b> <font color="purple">[ῑ]</font> <i>mieux que</i> ἄργιλλος, terre glaise, argile, ARSTT. <i>Probl. 9, 6</i> ; TH. <i>C.P. 3, 20, 3</i>.`

@@ -1,0 +1,1 @@
+lar[88718]=`<b>ῥοδο·φόρος, ος, ον</b>, qui porte <i>ou</i> produit des roses, SPT. <i>3Macc. 3, 17</i>.<p><b>Étym</b>. ῥ. φέρω.`

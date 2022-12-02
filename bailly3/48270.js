@@ -1,0 +1,1 @@
+lar[48270]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰῐ]</font> fils d’Iasos :<br><b>      1</b> (Amphion) OD. <i>11, 282</i>.<br><b>      2</b> (Dmètôr) OD. <i>17, 443</i>.<p><b>Étym</b>. Ἴασος¹.`

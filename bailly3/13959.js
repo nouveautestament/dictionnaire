@@ -1,0 +1,1 @@
+lar[13959]=`<b>ἀ·προσκλινῶς</b> <font color="purple">[ῐ]</font> <i>adv</i>., sans inclinaison, CLÉM. <i>169</i>.<p><b>Étym</b>. ἀ, προσκλινής.`

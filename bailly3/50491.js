@@ -1,0 +1,1 @@
+lar[50491]=`<b>εως (ἡ)</b> position supérieure (d’une étoile) PROCL. <i>Ptol. p. 179</i>.<p><b>Étym</b>. καθυπερτερέω.`

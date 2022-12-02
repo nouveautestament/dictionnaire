@@ -1,0 +1,1 @@
+lar[105148]=`<b>φερέ·πονος, ος, ον :<br>      1</b> qui apporte le malheur, PD. <i>P. 2, 56</i>.<br><b>      2</b> qui supporte la fatigue, THÉM. <i>149</i>.<p><b>Étym</b>. φ. πόνος.`

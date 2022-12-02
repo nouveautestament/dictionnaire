@@ -1,0 +1,1 @@
+lar[40425]=`<b>ἐρί·ζωος, ος, ον</b>, qui vit longtemps, vivace, NAZ. <i>6, 18</i>.<p><b>Étym</b>. ἐρι-, ζωή.`

@@ -1,0 +1,1 @@
+lar[20638]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠῑτ]</font> repas tardif, A. TR. <i>86</i>.<p><b>Étym</b>. βρ. σῖτος.`

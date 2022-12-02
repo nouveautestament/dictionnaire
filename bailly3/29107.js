@@ -1,0 +1,1 @@
+lar[29107]=`<b>δωδεκα·στάσιος, ος, ον</b> <font color="purple">[τᾰ]</font> qui pèse douze fois autant, PLAT. <i>Hipparch. 231d</i>.<p><b>Étym</b>. δ. στατός <i>de</i> ἵστημι.`

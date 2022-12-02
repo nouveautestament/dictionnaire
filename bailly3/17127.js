@@ -1,0 +1,1 @@
+lar[17127]=`<font color="purple">[ᾱδ]</font> oser, <i>avec l’inf</i>. SEXT.<p><b>Étym</b>. αὐθάδεια.`

@@ -1,0 +1,1 @@
+lar[51060]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> hutte, cabane, EPICH. (POLL. <i>10, 160</i>).<br><b>      2</b> <i>c</i>. κλοιός, CRAT. (POLL. <i>10, 160).</i><p><b>Étym</b>. <i>cf</i>. καλιά.`

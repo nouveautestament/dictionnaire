@@ -1,0 +1,1 @@
+lar[48422]=`<b>ἰδιοποιέω-ῶ</b> <font color="purple">[ῐδ]</font> faire propre à qqn <i>ou</i> à qqe ch. : ἐπίδειξίν τινι, GAL. <i>2, 672,</i> montrer à qqn en particulier.<br><b><i>Moy.</i></b> faire sien, <i>càd.</i> :<br><b>      1</b> s’approprier, DS. <i>5, 13</i>.<br><b>      2</b> se concilier, DS. <i>15, 29</i> ; SPT. <i>2Sam. 15, 6</i>.<p><b>Étym</b>. ἴδ. ποιέω.`

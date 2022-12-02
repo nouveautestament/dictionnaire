@@ -1,0 +1,1 @@
+lar[6050]=`<b>ατος (τὸ)</b> vêtement, CTÉS. <i>Pers. 19</i> ; LUC. <i>Cyn. 17</i>.<p><b>Étym</b>. ἀμφιάζω.`

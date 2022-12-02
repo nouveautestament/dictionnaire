@@ -1,0 +1,1 @@
+lar[25552]=`<b>δια·σκηνόω-ῶ :<br>      1</b> dresser des baraques comme des tentes de distance en distance, EL. <i>V.H. 3, 14</i>.<br><b>      2</b> se séparer pour retourner chacun dans ses quartiers, XÉN. <i>An. 4, 4, 10</i>.`

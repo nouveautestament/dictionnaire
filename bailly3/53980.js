@@ -1,0 +1,1 @@
+lar[53980]=`<b>οῦ (ὁ) :<br>      1</b> valet de chambre, PLUT. <i>Alex. 40, etc. ; d’où</i> serviteur, <i>en gén</i>. PLUT. <i>M. 945d.</i><br><b>      2</b> qui conduit les âmes aux enfers, PLUT. <i>M. 758b</i>.<p><b>Étym</b>. κατευνάζω.`

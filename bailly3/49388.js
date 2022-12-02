@@ -1,0 +1,1 @@
+lar[49388]=`<b>Ἱππό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Hippomakhos :<br><b>      1</b> <i>Troyen,</i> IL. <i>12, 189</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>9, 38</i> ; XÉN. <i>Hell. 2, 3, 2, etc</i>.<p><b>Étym</b>. <i>v</i>. ἱππόμαχος.`

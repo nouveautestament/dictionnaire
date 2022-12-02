@@ -1,0 +1,1 @@
+lar[55298]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> crieuse publique, AR. <i>Eccl. 713</i>.<p><b>Étym</b>. κῆρυξ.`

@@ -1,0 +1,1 @@
+lar[17456]=`<b>αὐτό·δοξα, ης (ἡ)</b> l’opinion en soi, ARSTT. <i>Top. 8, 11, 14</i>.`

@@ -1,0 +1,1 @@
+lar[58667]=`<b>όεσσα, όεν</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> couvert de vagues, OPP. <i>H. 1, 4</i>.<br><b>      2</b> battu des vagues, ARSTT. <i>Pepl. 24</i>.<p><b>Étym</b>. κῦμα.`

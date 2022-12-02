@@ -1,0 +1,1 @@
+lar[36617]=`<b>ἐπ·αναλείφω</b> (<i>prés</i>. -ουσιν) oindre, frictionner, GAL. <i>6, p. 342</i>.`

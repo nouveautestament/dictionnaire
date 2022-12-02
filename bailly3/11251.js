@@ -1,0 +1,1 @@
+lar[11251]=`<b>ἀπ·ανθέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -ήσω, <i>ao</i>. ἀπήνθησα, <i>pf</i>. ἀπήνθηκα)</font> perdre sa fleur, se défleurir, HPC. <i>234, 44 ; fig</i>. PLAT. <i>Conv. 196a ;</i> ARSTT. <i>Rhet. 3, 4 et 10</i> ; LUC. <i>Alex. 6, etc</i>.`

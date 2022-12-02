@@ -1,0 +1,1 @@
+lar[59885]=`<b>ου (ὁ)</b> = <i>lat</i>. Larcius <i>ou</i> Lartius, <i>n. d’h. rom</i>. PLUT. <i>Cor. 8, etc</i>.`

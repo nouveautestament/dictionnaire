@@ -1,0 +1,1 @@
+lar[5109]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui concerne les granges <i>ou</i> la campagne, <i>en gén</i>. NIC. <i>Th. 113</i>.<p><b>Étym</b>. ἅλως.`

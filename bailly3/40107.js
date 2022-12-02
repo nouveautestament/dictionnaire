@@ -1,0 +1,1 @@
+lar[40107]=`<b>ἐπ·ωτειλόομαι-οῦμαι</b>, se cicatriser, ARÉT. <i>Caus. m. diut. 2, 4</i>.<p><b>Étym</b>. ἐπί, ὠτειλή.`

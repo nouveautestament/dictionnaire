@@ -1,0 +1,1 @@
+lar[49465]=`<b>ωνος (ὁ)</b> Hippôn, <i>philosophe,</i> ARSTT. <i>An. 1, 2, etc</i>.`

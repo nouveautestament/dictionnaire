@@ -1,0 +1,1 @@
+lar[91771]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Spartiate, EUR. <i>Or. 457</i> ; HDT. <i>1, 65 ; 6, 77, etc.</i> ; THC. <i>1, 128, etc</i>.<p>➳ <i>Ion</i>. -ιήτης, HDT. <i>ll. cc. ; voc</i>. Σπαρτιῆτα, HDT. <i>7, 160</i>.<p><b>Étym</b>. Σπάρτη.`

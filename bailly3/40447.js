@@ -1,0 +1,1 @@
+lar[40447]=`<font color="purple">[ῑῑᾱ]</font> <i>adj. m.</i> : ἐρ. ἄρτος, SÉLEUC. (ATH. <i>114b</i>) pain d’orge égrugée.<p><b>Étym</b>. ἐρικίς.`

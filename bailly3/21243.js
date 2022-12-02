@@ -1,0 +1,1 @@
+lar[21243]=`<b>γαλε·άγρα, ας (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> piège à belettes, AR. <i>fr. 474</i> ; TH. <i>H.P. 5, 7, 6</i>.<br><b>      2</b> <i>p. anal</i>. cage pour les animaux, DL. <i>5, 5 ; 6, 51 ; fig</i>. prison, HYPÉR. (ATH. <i>616c</i>) ; STR. <i>273 ; etc</i>.<p><b>Étym</b>. γαλέη, ἄγρα.`

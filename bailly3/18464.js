@@ -1,0 +1,1 @@
+lar[18464]=`<b>ἀχθο·φόρος, ος, ον</b>, qui porte des fardeaux, <i>en parl. de bêtes de somme,</i> HDT. <i>7, 187</i> ; DH. <i>1, 85</i> ; LUC. <i>etc.</i> ; ὁ ἀ. A. GELL. <i>5, 3,</i> portefaix.<p><b>Étym</b>. ἄχθος, φέρω.`

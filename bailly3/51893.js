@@ -1,0 +1,1 @@
+lar[51893]=`<b>καρπο·τελής, ής, ές</b>, qui paie un tribut en fruits, ESCHL. <i>Suppl. 689</i>.<p><b>Étym</b>. κ. τέλος.`

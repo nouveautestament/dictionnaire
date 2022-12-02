@@ -1,0 +1,1 @@
+lar[104321]=`<b>ὑστερο·παθέω-ῶ</b> <font color="purple">[ᾰ]</font> souffrir ensuite, GAL. <i>7, 388</i>.<p><b>Étym</b>. ὕ. πάθος.`

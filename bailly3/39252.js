@@ -1,0 +1,1 @@
+lar[39252]=`<b>ἐπι·συρίσσω</b> <font color="purple">[ῡ]</font> siffler à, donner un signal en sifflant, ARSTT. <i>H.A. 9, 10, 1</i>.`

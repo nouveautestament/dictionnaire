@@ -1,0 +1,1 @@
+lar[10472]=`<b>ἀντ·ισχυρίζομαι</b> <font color="purple">[ῡ]</font> persister à soutenir une opinion contraire, THC. <i>3, 44 ; avec</i> πρός <i>et l’acc</i>. PLUT. <i>M. 535e</i>.`

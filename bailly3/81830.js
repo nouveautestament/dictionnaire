@@ -1,0 +1,1 @@
+lar[81830]=`<font color="purple">[ῠᾰᾰ]</font> <i>adv</i>., avec de grandes dépenses, DS. <i>1, 52</i>.`

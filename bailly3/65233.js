@@ -1,0 +1,1 @@
+lar[65233]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> modération de sentiments, modestie ; CHRYS. <i>3, 428</i> ; SIMPL. <i>Epict. p. 249 Schweigh</i>.<p><b>Étym</b>. μετριόφρων.`

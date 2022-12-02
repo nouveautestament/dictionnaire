@@ -1,0 +1,1 @@
+lar[45884]=`<b>Ἡρό·δωρος, ου (ὁ)</b> Hèrodôros, <i>historien grec,</i> ARSTT. <i>H.A. 6, 5 ; 9, 12</i> ; PLUT. <i>Thes. 26, etc</i>.<p><b>Étym</b>. Ἥρα, δῶρον.`

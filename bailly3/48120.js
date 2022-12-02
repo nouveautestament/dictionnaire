@@ -1,0 +1,1 @@
+lar[48120]=`<font color="darkgreen">(<i>f</i>. -ίξω, <i>ao</i>. ἐθώμιξα ; <i>pass. ao. part</i>. -ιχθείς)</font> frapper d’une corde, fouetter, ANACR. <i>21, 10</i>.<p><b>Étym</b>. θῶμιξ.`

@@ -1,0 +1,1 @@
+lar[47468]=`<b>ης, ες</b>, d’apparence trouble, TH. <i>Ign. 24</i>.<p><b>Étym</b>. θολερός, -ωδης.`

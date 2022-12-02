@@ -1,0 +1,1 @@
+lar[92592]=`<font color="purple">[ῐ]</font> suivre à la piste, explorer pas à pas, DS. <i>5, 3</i> ; PLUT. <i>M. 966c ; d’où au pass</i>. τόπος στιβευόμενος, PLUT. <i>M. 918b</i>, lieu où l’on suit une piste ; <i>fig</i>. explorer, sonder, PLUT. <i>M. 399a</i>.<p><b>Étym</b>. στίβος.`

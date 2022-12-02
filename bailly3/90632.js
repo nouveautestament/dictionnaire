@@ -1,0 +1,1 @@
+lar[90632]=`<b>ᾶς (ἡ)</b> <font color="purple">[ᾰλ]</font> galerie de taupe, TH. <i>H.P. 7, 12, 3</i>.<p><b>Étym</b>. σκάλοψ.`

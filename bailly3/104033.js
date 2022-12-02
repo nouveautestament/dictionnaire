@@ -1,0 +1,1 @@
+lar[104033]=`<b>ὑπο·τριόρχης, ου (ὁ)</b> sorte d’oiseau de proie, du genre de l’épervier, ARSTT. <i>H.A. 9, 36, 1</i>.`

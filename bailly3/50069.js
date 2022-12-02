@@ -1,0 +1,1 @@
+lar[50069]=`<b>ἰχθυό·πωλις, ιδος</b>, <i>adj. f. ; subst</i>. (ἡ) <i>s.-e</i>. ἀγορά, PLUT. <i>M. 849d</i>, marché au poisson.<p><b>Étym</b>. ἰχθυοπώλης.`

@@ -1,0 +1,1 @@
+lar[42402]=`<b>εὐ·καταφρόνητος, ος, ον</b>, qu’on peut facilement dédaigner, méprisable, XÉN. <i>Cyr. 8, 3, 1 ; Hell. 6, 4, 28</i> ; DÉM. <i>45, 1</i> ; ARSTT. <i>Pol. 5, 10</i>.<p><b>Étym</b>. εὖ, καταφρονέω.`

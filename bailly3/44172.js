@@ -1,0 +1,1 @@
+lar[44172]=`<b>εως (ἡ)</b> action d’arriver en arrière, retard, CLÉM. <i>201</i>.<p><b>Étym</b>. *ἐφυστερέω, <i>cf</i>. ἐφυστερίζω.`

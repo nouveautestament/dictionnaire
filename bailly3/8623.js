@@ -1,0 +1,1 @@
+lar[8623]=`<b>ἀν·ευφραίνω</b>, réjouir fortement, PHIL. <i>1, 628</i>.<p><b>Étym</b>. ἀνά, εὐφρ.`

@@ -1,0 +1,1 @@
+lar[65574]=`<b>ης, ες</b>, de belle-mère, de marâtre, PLUT. <i>M. 143a</i>.<p><b>Étym</b>. μητρυιά, -ωδης.`

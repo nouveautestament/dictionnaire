@@ -1,0 +1,1 @@
+lar[60831]=`<b>ληξι·αρχικόν, οῦ (τὸ)</b> (<i>s.-e</i>. γραμματεῖον) registre pour l’inscription comme citoyens des jeunes gens parvenus à leur majorité, IS. <i>66, 14</i> ; DÉM. <i>1091, 9 ; 1306, 21</i> ; ESCHN. <i>3, 28 ; 14, 37, etc. ; fig</i>. LUC. <i>J. tr. 26</i>.<p><b>Étym</b>. λῆξις, ἀρχή.`

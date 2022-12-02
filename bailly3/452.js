@@ -1,0 +1,1 @@
+lar[452]=`<b>Ἀγε·άναξ, ακτος (ὁ)</b> <font color="purple">[ᾰᾰν]</font> Agéanax, <i>h</i>. THCR. <i>Idyl. 7, 52, 69</i>.<p><b>Étym</b>. ἄγω ; ἄναξ.`

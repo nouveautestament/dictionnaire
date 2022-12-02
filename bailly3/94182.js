@@ -1,0 +1,1 @@
+lar[94182]=`<b>συμ·περιδινέω-ῶ</b> <font color="purple">[δῑ]</font> faire tourner <i>ou</i> tournoyer ensemble, T. LOCR. <i>96d</i>.`

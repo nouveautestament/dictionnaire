@@ -1,0 +1,1 @@
+lar[87654]=`<b>ή, όν :<br>      1</b> qui concerne le pugilat, PLAT. <i>2 Alc. 145d ; p. opp. à</i> παλαιστικός, ARSTT. <i>Rhet. 1, 5, 14</i> ; ἡ πυκτική (<i>s.-e</i>. τέχνη) PLAT. <i>Gorg. 460d ; ou</i> π. ἐπιστήμη, ARSTT. <i>Categ. 8, 26,</i> l’art du pugilat.<br><b>      2</b> qui excelle au pugilat, PLAT. <i>Gorg. 456d, etc</i>.<p><b>Étym</b>. πύκτης.`

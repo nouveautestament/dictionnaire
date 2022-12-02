@@ -1,0 +1,1 @@
+lar[28148]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> insensibilité, T. LOCR. <i>102e ;</i> GAL. <i>7, 34 et 219</i>.<p><b>Étym</b>. δυσαίσθητος.`

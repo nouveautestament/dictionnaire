@@ -1,0 +1,1 @@
+lar[87016]=`<b>προ·χειρόω-ῶ</b>, soumettre auparavant, JOS. <i>B.J. 4, 8, 1</i>.`

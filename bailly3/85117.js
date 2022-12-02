@@ -1,0 +1,1 @@
+lar[85117]=`<b>προσ·άλλομαι</b> <font color="darkgreen">(<i>f</i>. -αλοῦμαι, <i>ao</i>. -ηλάμην, <i>etc</i>.)</font> sauter vers, sauter, XÉN. <i>Cyr. 8, 4, 20</i> ; ARSTT. <i>H.A. 9, 6, 4</i> ; PLUT. <i>M. 977c ; en parl. du vent,</i> ARSTT. <i>Mund. 4, 16</i>.`

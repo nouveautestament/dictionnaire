@@ -1,0 +1,1 @@
+lar[76510]=`<b>εως (ἡ)</b> <font color="purple">[δᾰ]</font><br><b>      1</b> panthère <i>ou</i> léopard, IL. <i>13, 103 ; 17, 20 ; 21, 573</i> ; OD. <i>4, 457</i> ; AR. <i>Nub. 346</i> ; PLAT. <i>Lach. 196e.</i><br><b>      2</b> sorte de requin tacheté, EL. <i>N.A. 9, 4</i> ; OPP. <i>H. 1, 368</i>.<p>➳ <i>Gén. ion</i>. -ιος, OPP. <i>l. c</i>. (<i>cf</i>. πόρδαλις).`

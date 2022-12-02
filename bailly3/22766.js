@@ -1,0 +1,1 @@
+lar[22766]=`<b>ή, όν</b>, qui concerne les exercices du corps, gymnique (concours, <i>etc</i>.) HDT. <i>2, 91 ; 9, 33, etc. ; p. opp. à</i> ἱππικός, HDT. <i>1, 167</i> ; XÉN. <i>Hell. 3, 2, 21 ; à</i> μουσικός, THC. <i>3, 104</i> ; PLAT. <i>Leg. 658a</i>.<p><b>Étym</b>. γυμνός.`

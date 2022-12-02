@@ -1,0 +1,1 @@
+lar[20811]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> force, HH. <i>28, 10</i> ; A.RH. <i>4, 1677</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. βρί-.`

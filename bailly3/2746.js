@@ -1,0 +1,1 @@
+lar[2746]=`<b>ωνος (ὁ)</b> fils d’Éole (Makar) HH. <i>Ap. 37, 2</i>.<p><b>Étym</b>. Αἴολος.`

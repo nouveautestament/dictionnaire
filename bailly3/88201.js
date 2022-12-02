@@ -1,0 +1,1 @@
+lar[88201]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> facile à mouvoir, IL. <i>18, 576, leç. de Zénodote au lieu de</i> ῥοδανός.`

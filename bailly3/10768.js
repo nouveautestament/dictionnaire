@@ -1,0 +1,1 @@
+lar[10768]=`<i>adv.</i> :<br><b>      1</b> <i>pass</i>. sans être soupçonné, MÉN. (STOB. <i>Fl. 94, 11</i>).<br><b>      2</b> <i>act</i>. sans concevoir de soupçon, ARSTT. <i>Top. 8, 1, 14</i>.<br><b>      3</b> <i>act. et pass</i>. sans soupçonner et sans être soupçonné, <i>càd</i>. sans défiance mutuelle, THC. <i>1, 146</i>.`

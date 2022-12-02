@@ -1,0 +1,1 @@
+lar[9924]=`<b>ἀντι·καταλέγω</b>, choisir <i>ou</i> recruter en échange <i>ou</i> à son tour, DC. <i>54, 14</i>.`

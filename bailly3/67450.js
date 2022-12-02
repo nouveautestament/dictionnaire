@@ -1,0 +1,1 @@
+lar[67450]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. μυττωτός, CALL. <i>fr. 282</i>.`

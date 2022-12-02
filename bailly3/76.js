@@ -1,0 +1,1 @@
+lar[76]=`<b>ου (ὁ)</b> Abdéritain, HDT. <i>8, 120 ; prov</i>. homme simple, sot, DÉM. <i>218, 10</i>.<p>➳ <i>Dans les inscr. att</i>. Ἁβδηρῖται, CIA. <i>1, 226, 5 (454 av. J.-C.), etc. ; une seule fois</i> Ἀβδηρῖται, CIA. <i>1, 259, 21 (425 av. J.-C. ; v. Meisterh. p. 66, 2).</i><p><b>Étym</b>. Ἄβδηρα.`

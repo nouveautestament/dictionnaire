@@ -1,0 +1,1 @@
+lar[60561]=`<b>λευκο·γραφίς, ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> terre blanche pour dessiner, craie, PLIN. <i>H.N. 27, 78</i>.<p><b>Étym</b>. λ. γράφω.`

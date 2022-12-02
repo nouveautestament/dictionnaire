@@ -1,0 +1,1 @@
+lar[35026]=`<b>ἐν·τεκνόομαι-οῦμαι</b>, <i>f</i>. ώσομαι, enfanter dans, PLUT. <i>Cato mi. 25</i>.`

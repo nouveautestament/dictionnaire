@@ -1,0 +1,1 @@
+lar[86122]=`<b>προσ·μανθάνω</b> <font color="darkgreen">(<i>f</i>. -μαθήσομαι <font color="purple">[ᾰ]</font>, <i>ao.2</i> -έμαθον <font color="purple">[ᾰ]</font>, <i>etc</i>.)</font> apprendre en outre, ESCHL. <i>Pr. 697</i> ; SOPH. <i>fr. 622 Dind.</i> ; AR. <i>Vesp. 1208, etc</i>.`

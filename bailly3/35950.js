@@ -1,0 +1,1 @@
+lar[35950]=`<i>adv</i>., étrangement, DS. <i>2, 42</i> ; PLUT. <i>M. 745f ;</i> SEXT. <i>328, 10 Bkk</i>.<p><b>Étym</b>. ἐξαλλάσσω.`

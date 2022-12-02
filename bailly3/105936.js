@@ -1,0 +1,1 @@
+lar[105936]=`<b>Φιλό·μηλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philomèlos, <i>h</i>. PLAT. <i>Prot. 315a ;</i> DÉM. <i>Or. 21, 174 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. φιλόμηλος.`

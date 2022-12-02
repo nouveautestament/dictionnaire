@@ -1,0 +1,1 @@
+lar[39330]=`<b>ἐπι·τανύω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> tendre sur, HPC. (GAL. <i>18, 408</i>).<br><b>      2</b> tendre fortement : τόξα, ARCHIL. <i>3,</i> des arcs.<br><b>      3</b> pousser sur : κληῗδα, OD. <i>1, 442,</i> pousser un verrou.`

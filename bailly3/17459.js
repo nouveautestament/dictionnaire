@@ -1,0 +1,1 @@
+lar[17459]=`<b>αὐτό·δρομος, ος, ον</b>, qui court <i>ou</i> se meut de soi-même, GAL. <i>Lex. Hipp. 19, 87</i>.<p><b>Étym</b>. αὐ. δραμεῖν.`

@@ -1,0 +1,1 @@
+lar[92552]=`<b>ης, ες</b>, semblable à une chaîne de tisserand, PLUT. <i>M. 966e</i>.<p><b>Étym</b>. στήμων, -ωδης.`

@@ -1,0 +1,1 @@
+lar[31109]=`<b>ἐκ·βολβίζω</b> (<i>seul. f. att</i>. -ιῶ) peler un oignon ; <i>fig</i>. ἐκβ. τινά τινος, AR. <i>Pax 1123,</i> dépouiller qqn de qqe ch.<p><b>Étym</b>. ἐκ, βολβός.`

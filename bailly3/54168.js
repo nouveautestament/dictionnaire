@@ -1,0 +1,1 @@
+lar[54168]=`<b>κατ·ορέγομαι</b>, tendre fortement à, désirer vivement, <i>gén</i>. SIMPL. <i>Epict. 1, p. 23</i>.`

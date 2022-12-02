@@ -1,0 +1,1 @@
+lar[105633]=`<b>ή, όν</b> <font color="purple">[φῐ]</font><br><b>   I</b> (φιλέω, aimer) porté à aimer, <i>gén</i>. ARSTT. <i>Nic. 3, 10, 2, etc. ; abs</i>. aimant, caressant, ARSTT. <i>Eud. 7, 4, 5 ; H.A. 1, 1, 33</i>.<br><b>   II</b> (φιλέω, baiser) qui aime à embrasser, ARSTT. <i>Probl. 30, 1, 8</i>.<p><b>Étym</b>. φιλέω.`

@@ -1,0 +1,1 @@
+lar[95589]=`<b>συν·επεκτείνω</b>, étendre ensemble, GAL. <i>4, 119</i> ; τινί τι, ARISTÉN. <i>2, 15,</i> qqe ch. sur qqn ; <i>au pass</i>. ARSTT. <i>Phys. 4, 9, 3</i>.`

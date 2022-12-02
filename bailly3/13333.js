@@ -1,0 +1,1 @@
+lar[13333]=`<b>ἀπο·σκολύπτω</b>, ôter l’écorce <i>ou</i> la peau, <i>d’où</i> déchirer, couper, ARCHIL. <i>123</i> ; SOPH. <i>fr. 373</i>.`

@@ -1,0 +1,1 @@
+lar[109213]=`<b>χρυσό·μηλον, ου (τὸ)</b> <font color="purple">[ῡ]</font> coing, <i>fruit du cognassier,</i> PLIN. <i>H.N. 15, 11, 10</i>.<p><b>Étym</b>. χρ. μῆλον.`

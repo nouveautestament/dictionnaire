@@ -1,0 +1,1 @@
+lar[14834]=`<b>ου (ὁ)</b> Arktos (<i>litt</i>. l’Ours), <i>Centaure,</i> HÉS. <i>Sc. 186</i>.<p><b>Étym</b>. ἄρκτος.`

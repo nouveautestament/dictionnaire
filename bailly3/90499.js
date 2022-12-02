@@ -1,0 +1,1 @@
+lar[90499]=`<b>σιτηγέω-ῶ</b> <font color="purple">[ῑ]</font> transporter du blé <i>ou</i> des vivres, LYCURG. <i>151, 21</i> ; DÉM. <i>467, 25 ; 917, 26 ; 941, 4</i>.<p><b>Étym</b>. σιτηγός.`

@@ -1,0 +1,1 @@
+lar[5481]=`<b>ας (ἡ)</b> immutabilité, ARSTT. <i>Phys. 5, 6, 3</i> ; TH. <i>C.P. 6, 19, 3</i>.<p><b>Étym</b>. ἀμετάβλητος.`

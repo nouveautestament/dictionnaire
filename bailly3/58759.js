@@ -1,0 +1,1 @@
+lar[58759]=`<b>κυν·ηγός, οῦ (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> chasseur, chasseresse, ARSTT. <i>H.A. 6, 32, 3 ; dans les poètes att. touj. dor</i>. κυναγός <font color="purple">[ᾱ]</font> ESCHL. <i>Ag. 694</i> ; SOPH. <i>El. 563</i> ; AR. <i>Lys. 1272</i>.<p><b>Étym</b>. κύων, ἄγω.`

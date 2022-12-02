@@ -1,0 +1,1 @@
+lar[74882]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> qualité du nombre 6 qui se suffit à lui-même, THEOL. <i>p. 38</i>.<p><b>Étym</b>. παναρκής.`

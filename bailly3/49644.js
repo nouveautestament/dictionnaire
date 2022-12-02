@@ -1,0 +1,1 @@
+lar[49644]=`<font color="purple">[ῑ̆]</font> <i>adv</i>., d’une manière égale à la divinité, NAZ. <i>3, 470 Migne</i>.`

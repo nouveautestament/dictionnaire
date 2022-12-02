@@ -1,0 +1,1 @@
+lar[68350]=`<b>ίδος (ἡ)</b> sorte de coupe, ATH. <i>488a, etc</i>.`

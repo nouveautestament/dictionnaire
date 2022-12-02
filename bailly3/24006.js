@@ -1,0 +1,1 @@
+lar[24006]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> autorité d’un maître, pouvoir absolu, HDT. <i>7, 102</i>.<p><b>Étym</b>. δεσπότης ; <i>cf</i>. δεσπόσυνος.`

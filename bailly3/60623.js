@@ -1,0 +1,1 @@
+lar[60623]=`<b>λευκοφλεγματέω-ῶ</b> <font color="purple">[ᾰ]</font> être malade d’une leucophlegmasie, HPC. <i>194g</i>.<p><b>Étym</b>. λευκοφλέγματος.`

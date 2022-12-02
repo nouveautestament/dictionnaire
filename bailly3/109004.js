@@ -1,0 +1,1 @@
+lar[109004]=`<b>ας (ἡ)</b> caractère bon et honnête, bonté, SPT. <i>Sir. 37, 11</i> ; D. PHAL. <i>§ 244</i>.<p><b>Étym</b>. χρηστοήθης.`

@@ -1,0 +1,1 @@
+lar[8056]=`<b>ἀνδρο·δάϊκτος, ος, ον</b>, homicide, meurtrier, ESCHL. <i>Ch. 860</i>.<p><b>Étym</b>. ἀνήρ, δαΐζω.`

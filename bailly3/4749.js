@@ -1,0 +1,1 @@
+lar[4749]=`<b>ἀλληλο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui s’entre-mangent, ARSTT. <i>H.A. 8, 3, 17,</i> ORACL. (PAUS. <i>8, 42, 6), etc. ; au sg</i>. SEXT. <i>M. 2, 32</i>.<p><b>Étym</b>. ἀλλήλων, φαγεῖν.`

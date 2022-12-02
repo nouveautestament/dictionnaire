@@ -1,0 +1,1 @@
+lar[82831]=`<b>ης (ἡ)</b> agrafe, <i>particul.</i> :<br><b>      1</b> agrafe pour attacher le vêtement sur l’épaule, EUR. <i>Ph. 62, etc. ; particul. au plur</i>. IL. <i>18, 401</i> ; HH. <i>Ven. 164</i> ; EUR. <i>El. 318</i>.<br><b>      2</b> agrafe <i>ou</i> boucle pour la chevelure, LUC. <i>Dom. 7</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

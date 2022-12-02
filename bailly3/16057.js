@@ -1,0 +1,1 @@
+lar[16057]=`<b>ἀσπιδο·χελώνη, ης (ἡ)</b> <font color="purple">[ῐ]</font> tortue-aspic, <i>animal fabuleux,</i> BAS.`

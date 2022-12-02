@@ -1,0 +1,1 @@
+lar[77982]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., cinq fois, PD. <i>N. 6, 33</i> ; ESCHL. <i>Pers. 323</i> ; AR. <i>Pax 242</i> ; ISOCR. <i>83b</i>.<p><b>Étym</b>. π. -άκις.`

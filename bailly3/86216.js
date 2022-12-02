@@ -1,0 +1,1 @@
+lar[86216]=`<b>προσ·ονομάζω</b>, donner à qqn <i>ou</i> à qqe ch. le nom de, <i>acc</i>. HDT. <i>2, 52</i> ; ARSTT. <i>Cæl. 1, 3, 13</i> ; PLUT. <i>Thes. fin</i>.`

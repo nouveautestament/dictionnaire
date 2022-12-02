@@ -1,0 +1,1 @@
+lar[33250]=`<b>ἐμ·μέμονα</b>, je suis transporté de douleur <i>ou</i> de passion, SOPH. <i>Tr. 982</i>.<p><b>Étym</b>. ἐν, μέμονα, <i>v</i>. *μένω².`

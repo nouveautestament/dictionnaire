@@ -1,0 +1,1 @@
+lar[32764]=`<b>ἐλεφαντό·πους, ποδος (ὁ, ἡ)</b> aux pieds d’ivoire, PLAT. COM. (ATH. <i>48b</i>) ; LUC. <i>Somn. 14</i>.<p><b>Étym</b>. ἐ. πούς.`

@@ -1,0 +1,1 @@
+lar[28947]=`<b>δύσ·τροφος, ος, ον</b>, difficile à nourrir, qui vient mal, <i>en parl. de végétaux,</i> TH. <i>C.P. 1, 8, 4</i> ; GEOP. <i>5, 2</i>.<p><b>Étym</b>. δ. τροφή.`

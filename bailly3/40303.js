@@ -1,0 +1,1 @@
+lar[40303]=`<i>ou mieux</i> <b>ἐρεσχηλία, ας (ἡ)</b> propos futile, bavardage, CHRYS. <i>5, 775 ; 6, 36</i> ; BAS. <i>2, 495</i>.<p><b>Étym</b>. ἐρεσχελέω.`

@@ -1,0 +1,1 @@
+lar[109597]=`<i>enclit. dor. c</i>. σφέ <i>ou</i> σφέας, THCR. <i>Idyl. 4, 3</i>.<p><b>Étym</b>. cf. lat. -pse <i>dans le pron</i>. i-pse, ea-pse.`

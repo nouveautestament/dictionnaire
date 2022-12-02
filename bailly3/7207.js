@@ -1,0 +1,1 @@
+lar[7207]=`<b>ος, ον</b>, dont on peut se souvenir, PLAT. <i>Men. 87b</i>.<p><b>Étym</b>. ἀναμιμνῄσκω.`

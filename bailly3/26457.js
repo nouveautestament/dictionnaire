@@ -1,0 +1,1 @@
+lar[26457]=`<b>ας (ἡ)</b> Dikæa :<br><b>      1</b> <i>v. de Thrace,</i> HDT. <i>7, 109</i>.<br><b>      2</b> <i>n. de cheval,</i> ARSTT. <i>H.A. 7, 6 ; Pol. 2, 1</i>.`

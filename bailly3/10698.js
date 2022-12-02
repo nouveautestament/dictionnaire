@@ -1,0 +1,1 @@
+lar[10698]=`<i>adv</i>., comme un pronom, DYSC. <i>Synt. 156</i>.`

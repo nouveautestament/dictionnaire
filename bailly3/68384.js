@@ -1,0 +1,1 @@
+lar[68384]=`<b>νευροσπαστέω-ῶ :<br>      1</b> tirer <i>ou</i> mouvoir au moyen de cordes <i>ou</i> de ficelles, M. ANT. <i>7, 3 ; p. ext</i>. mouvoir, <i>en gén</i>. PORPH. (STOB. <i>Ecl. 2, 380</i>).<br><b>      2</b> capturer avec une corde, ATH. <i>391a</i>.<p><b>Étym</b>. νευρόσπαστος.`

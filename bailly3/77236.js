@@ -1,0 +1,1 @@
+lar[77236]=`<b>Πασι·θόη, ης (ἡ)</b> <font color="purple">[ᾱῐ]</font> Pasithoè, <i>Océanide,</i> HÉS. <i>Th. 352</i>.<p><b>Étym</b>. π. θοός.`

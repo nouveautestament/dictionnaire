@@ -1,0 +1,1 @@
+lar[109779]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> <i>c</i>. ψηλάφησις, PHIL. BYZ.<p>➳ <i>Ion</i>. ψηλαφίη, HPC. <i>24, 13</i>.`

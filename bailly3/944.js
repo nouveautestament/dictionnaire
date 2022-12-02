@@ -1,0 +1,1 @@
+lar[944]=`<b>*ἀγρο·βάτης</b>, <i>seul. dor</i>. <b>ἀγρο·βάτας, α</b> <font color="purple">[βᾰ]</font> qui traverse les champs, SOPH. <i>Ph. 214</i> ; EUR. <i>Cycl. 54</i>.<p><b>Étym</b>. ἀ. βαίνω ; <i>var</i>. ἀγροβότης.`

@@ -1,0 +1,1 @@
+lar[16515]=`<b>ἀ·συνήθης, ης, ύνηθες :<br>      1</b> inaccoutumé, <i>en parl. de choses,</i> EMPÉD. HPC. ARSTT. <i>H.A. 8, 28, 13</i>.<br><b>      2</b> qui n’a pas l’habitude de, <i>gén</i>. POL. <i>10, 47 ; avec l’inf</i>. DH. <i>8, 44</i>.`

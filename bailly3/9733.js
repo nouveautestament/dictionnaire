@@ -1,0 +1,1 @@
+lar[9733]=`<b>ου</b>, <i>épq</i>. <b>-αο</b> <font color="purple">[ᾱ]</font> (ὁ) fils <i>ou</i> descendant d’Antènor, IL. <i>3, 123, etc.</i> ; οἱ Ἀντανορίδαι <font color="purple">[τᾱ]</font> (<i>dor</i>.) PD. <i>P. 5, 110,</i> les descendants d’Antènor, <i>càd</i>. les Troyens.<p><b>Étym</b>. Ἀντήνωρ.`

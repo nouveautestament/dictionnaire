@@ -1,0 +1,1 @@
+lar[2750]=`<b>αἰολο·βρόντης, ου (ὁ)</b> qui lance le tonnerre, PD. <i>O. 9, 45</i>.<p><b>Étym</b>. αἰ. βροντή.`

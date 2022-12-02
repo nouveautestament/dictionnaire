@@ -1,0 +1,1 @@
+lar[103731]=`<b>ὑπο·προχέω</b>, faire jaillir de dessous, ANTH. <i>9, 314 conj</i>.`

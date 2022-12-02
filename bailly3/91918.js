@@ -1,0 +1,1 @@
+lar[91918]=`<b>σπινθηρο·ειδής, ής, ές</b>, qui ressemble à une étincelle, NYSS.<p><b>Étym</b>. σπινθήρ, εἶδος.`

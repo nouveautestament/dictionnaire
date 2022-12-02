@@ -1,0 +1,1 @@
+lar[17103]=`<b>ου (ὁ)</b> préfet impérial, <i>sous l’empire romain,</i> SYN.`

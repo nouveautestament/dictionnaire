@@ -1,0 +1,1 @@
+lar[14954]=`bondir comme un agneau, LYC. <i>465 (part. ao</i>. ἀρνεύσας) ; <i>part</i>. bondir pour plonger, <i>d’où</i> plonger, LYC. <i>1103 (part. prés</i>.).<p><b>Étym</b>. ἀρήν.`

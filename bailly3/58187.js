@@ -1,0 +1,1 @@
+lar[58187]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> interprète des songes, AQU. <i>Gen. 41, 8 ; Ex. 7, 11, 22</i>.<p><b>Étym</b>. κρύφιος.`

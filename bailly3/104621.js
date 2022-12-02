@@ -1,0 +1,1 @@
+lar[104621]=`<b>φαεσί·μβροτος, ος, ον</b>, qui brille pour les mortels, <i>ép. de l’aurore,</i> IL. <i>24, 785 ; du soleil,</i> OD. <i>10, 138, 191</i> ; HÉS. <i>Th. 958 ; du jour,</i> EUR. <i>Her. 750 ; de Poséidon,</i> ORPH. <i>H. 65, 2</i>.<p><b>Étym</b>. φάος, βροτός.`

@@ -1,0 +1,1 @@
+lar[76422]=`<b>ή, όν</b>, de paraphrase, de commentaire, explicatif, APHTH. (<i>W. 1, 63).</i><p><b>Étym</b>. παραφράζω.`

@@ -1,0 +1,1 @@
+lar[54067]=`<b>κατ·ιλλώπτω</b> (<i>seul. prés</i>.) regarder en clignant des yeux, <i>particul</i>. regarder avec passion, <i>dat</i>. PHILÉM. <i>fr. 119</i> ; ANTH. <i>5, 200</i>.`

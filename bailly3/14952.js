@@ -1,0 +1,1 @@
+lar[14952]=`<b>ῆρος (ὁ)</b> qui plonge la tête en avant, plongeur, IL. <i>12, 385 ; 16, 742</i> ; OD. <i>12, 413</i>.<p><b>Étym</b>. ἀρνεύω.`

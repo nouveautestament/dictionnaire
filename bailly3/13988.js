@@ -1,0 +1,1 @@
+lar[13988]=`<b>ἀ·πρόσφορος, ος, ον</b>, d’accès difficile <i>ou</i> dangereux, EUR. <i>I.A. 287</i>.`

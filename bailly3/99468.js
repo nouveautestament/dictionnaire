@@ -1,0 +1,1 @@
+lar[99468]=`<b>τοιγαρ·οῦν</b>, <i>particule touj. au commenc. d’une phrase</i> :<br><b>      1</b> voilà donc pourquoi, ainsi donc, HDT. <i>4, 148</i> ; SOPH. <i>Aj. 490, O.R. 1519, etc.</i> ; PLAT. <i>Soph. 234e, etc.</i><br><b>      2</b> par suite, XÉN. <i>An. 1, 9, 9</i>.<p>➳ <i>Ion</i>. τοιγαρῶν, HDT. <i>4, 148</i>.<p><b>Étym</b>. τοιγάρ, οὖν.`

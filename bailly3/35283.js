@@ -1,0 +1,1 @@
+lar[35283]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> profonde indifférence, PHIL. <i>1, 509</i>.<p><b>Étym</b>. ἐξαδιαφορέω.`

@@ -1,0 +1,1 @@
+lar[261]=`<b>Ἀγαθό·νικος, ου (ὁ)</b> <font color="purple">[ᾰᾰῑ]</font> Agathonikos, <i>h</i>. ANTH. <i>8, 574</i>.<p><b>Étym</b>. ἀγ. νίκη.`

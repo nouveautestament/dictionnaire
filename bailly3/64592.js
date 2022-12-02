@@ -1,0 +1,1 @@
+lar[64592]=`<b>μεσό·χροος, οος, οον</b>, d’une couleur intermédiaire, PROCL. <i>Ptol. p. 205</i>.<p><b>Étym</b>. μ. χρόα.`

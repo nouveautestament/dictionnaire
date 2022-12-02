@@ -1,0 +1,1 @@
+lar[33829]=`<b>ἐν·ακολασταίνω</b>, exercer des violences sur, <i>dat</i>. ATH. <i>541d</i>.`

@@ -1,0 +1,1 @@
+lar[76676]=`<b>παρ·εμποδίζω</b>, se mettre en travers de, <i>dat</i>. LUC. <i>Am. 25</i>.`

@@ -1,0 +1,1 @@
+lar[63886]=`<b>μελανο·νεκυ·είμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> vêtu de noirs habits de deuil, AR. <i>Ran. 1336</i>.<p><b>Étym</b>. μ. νέκυς, εἷμα.`

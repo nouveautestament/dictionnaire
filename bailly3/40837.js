@@ -1,0 +1,1 @@
+lar[40837]=`<b>ου (τὸ)</b> érysimum, <i>plante de jardin,</i> TH. <i>H.P. 8, 3, 1</i> ; DIOSC. <i>2, 188</i>.<p><b>Étym</b>. ἔρυμαι.`

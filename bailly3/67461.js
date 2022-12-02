@@ -1,0 +1,1 @@
+lar[67461]=`<b>η, ον</b> <font color="purple">[ῠ]</font> ARSTT. <i>Mund. 3, 10</i> ; CLÉM. <i>840, sup. formé de</i> μύχος, <i>v</i>. μυχοίτατος.`

@@ -1,0 +1,1 @@
+lar[85576]=`<b>ας (ἡ)</b> ressemblance, EPIC. (DL. <i>10, 58).</i><p><b>Étym</b>. προσεμφερής.`

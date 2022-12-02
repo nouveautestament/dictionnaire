@@ -1,0 +1,1 @@
+lar[102971]=`<i>inf. prés. de</i> ὕπειμι², <i>ou ion. c</i>. ὑφιέναι, <i>inf. prés. de</i> ὑφίημι.`

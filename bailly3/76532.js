@@ -1,0 +1,1 @@
+lar[76532]=`<b>εως (ἡ) :<br>      1</b> transmission du mot d’ordre, XÉN. <i>Lac. 11, 4</i>.<br><b>      2</b> exhortation, instruction, ŒNOM. (EUS. <i>P.E. 224a</i>).<p><b>Étym</b>. παρεγγυάω.`

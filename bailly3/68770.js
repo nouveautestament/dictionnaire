@@ -1,0 +1,1 @@
+lar[68770]=`<b>Νικό·λαος, ου (ὁ)</b> <font color="purple">[ῑᾱ]</font> Nikolaos, <i>h</i>. PLUT. <i>Brut. 53, etc</i>.<p>➳ <i>Par contr</i>. Νικόλας, THC. <i>2, 67 ; ion</i>. Νικόλεως, HDT. <i>7, 134 ; gén</i>. Νικόλεω, HDT. <i>7, 137</i>.<p><b>Étym</b>. νικάω, λαός.`

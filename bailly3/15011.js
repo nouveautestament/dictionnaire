@@ -1,0 +1,1 @@
+lar[15011]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> charrue, IL. <i>10, 353</i> ; OD. <i>18, 374</i> ; THGN. <i>1201</i> ; PD. <i>P. 4, 224, etc. ; plur. au sens du sg</i>. AR. <i>Pl. 515</i> ; MOSCH. <i>8, 6 ; fig</i>. NONN. <i>D. 12, 46, etc</i>.<p><b>Étym</b>. ἀρόω, <i>indo-europ</i>. *h₂erh₃-trom, <i>cf. lat</i>. arātrum.`

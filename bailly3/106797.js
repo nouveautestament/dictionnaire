@@ -1,0 +1,1 @@
+lar[106797]=`<b>ῆρος (ὁ)</b> qui indique, explique <i>ou</i> montre, XÉN. <i>Cyr. 4, 5, 17 ; 5, 4, 40</i> ; PLUT. <i>M. 243f</i>.<p><b>Étym</b>. φράζω.`

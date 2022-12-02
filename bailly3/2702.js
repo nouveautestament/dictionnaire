@@ -1,0 +1,1 @@
+lar[2702]=`<b>Αἰνό·παρις, ιδος (ὁ)</b> <font color="purple">[ᾰ]</font> le funeste Paris, ALCM. <i>40</i> ; EUR. <i>Hec. 945</i>.<p><b>Étym</b>. αἰν. Πάρις, <i>cf</i>. Δύσπαρις.`

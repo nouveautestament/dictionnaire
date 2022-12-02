@@ -1,0 +1,1 @@
+lar[81774]=`<b>πολύ·βωλος, ος, ον</b> <font color="purple">[ῠ]</font> aux mottes abondantes, <i>d’où</i> fécond, fertile, EUR. <i>fr. 231 Nauck</i>.<p><b>Étym</b>. π. βῶλος.`

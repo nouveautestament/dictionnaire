@@ -1,0 +1,1 @@
+lar[74276]=`<b>παιδο·βόρος, ος, ον</b>, qui dévore les enfants, ESCHL. <i>Ch. 1068</i> ; NONN. <i>D. 21, 120</i>.<p><b>Étym</b>. παῖς, βιβρώσκω.`

@@ -1,0 +1,1 @@
+lar[61576]=`<b>οῦ (ὁ)</b> fléau, malheur, mort, IL. <i>1, 67, 341 ; 8, 130, etc.</i> ; PD. <i>N. 9, 37</i> ; ESCHL. <i>Eum. 679, etc. ; adj</i>. qui est un fléau, funeste, NIC. <i>Th. 6</i> ; ANTH. <i>7, 368</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *leig-, maladie.`

@@ -1,0 +1,1 @@
+lar[63496]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Mégare, AR. <i>Ach. 521, etc.</i> ; ἡ Μεγαρική, XÉN. <i>Hell. 5, 4, 18, etc</i>. la Mégaride ; οἱ Μεγαρικοί, ARSTT. <i>Metaph. 8, 3, 1,</i> les philosophes de Mégare, <i>disciples d’Euclide</i>.<p><b>Étym</b>. Μέγαρα.`

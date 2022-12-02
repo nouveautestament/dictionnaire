@@ -1,0 +1,1 @@
+lar[65085]=`<b>μετ·εκδύομαι</b>, changer de vêtement, PLUT. <i>Num. 15</i> ; JOS. <i>A.J. 6, 14, 2</i>.`

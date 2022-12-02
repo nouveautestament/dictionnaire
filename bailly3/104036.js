@@ -1,0 +1,1 @@
+lar[104036]=`<b>εως (ἡ) :<br>      1</b> action d’user en dessous, HIPPIATR. <i>p. 165, 2</i>.<br><b>      2</b> <i>au pl</i>. ὑποτρίψεις τριπόδων, PHIL. (MATH. <i>p. 74</i>) dessous de l’embase d’un trépied.<p><b>Étym</b>. ὑποτρίβω.`

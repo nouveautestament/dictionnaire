@@ -1,0 +1,1 @@
+lar[104027]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font> usure en dessous : ἐξ ὑποτριβῆς, APP. <i>Mithr. 75,</i> par suite de l’usure du sabot, <i>en parl. d’un cheval</i>.<p><b>Étym</b>. ὑποτρίβω.`

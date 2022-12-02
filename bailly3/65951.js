@@ -1,0 +1,1 @@
+lar[65951]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. μισηδονία.`

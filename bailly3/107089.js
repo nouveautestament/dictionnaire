@@ -1,0 +1,1 @@
+lar[107089]=`<b>ου (ἡ)</b> <font color="purple">[ῠᾰ]</font> Phylakion, <i>f</i>. PLUT. <i>Demetr. 11</i>.`

@@ -1,0 +1,1 @@
+lar[106437]=`<b>ης, ες :<br>      1</b> semblable à de l’écorce, subéreux, ARSTT. <i>H.A. 5, 23, 2</i> ; TH. <i>H.P. 1, 6, 7</i> ; PLUT. <i>M. 640d.</i><br><b>      2</b> <i>fig</i>. qui n’a que de l’écorce, superficiel, PLUT. <i>M. 81b ;</i> LGN <i>3, 2</i>.<p><b>Étym</b>. φλοιός, -ωδης.`

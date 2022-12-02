@@ -1,0 +1,1 @@
+lar[107767]=`<b>χαμαικοιτέω-ῶ</b> <font color="purple">[ᾰ]</font> coucher <i>ou</i> dormir à terre, LUC. <i>Syr. 55</i>.<p><b>Étym</b>. χαμαικοίτης.`

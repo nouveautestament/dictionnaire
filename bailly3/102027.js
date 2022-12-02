@@ -1,0 +1,1 @@
+lar[102027]=`<b>ὑπ·αστράπτω</b> <font color="darkgreen">(<i>impf</i>. ὑπήστραπτον, <i>f</i>. ὑπαστράψω, <i>ao</i>. ὑπήστραψα, <i>pf. inus</i>.)</font> <font color="purple">[ῠ]</font> briller sous <i>ou</i> briller du reflet de, <i>dat</i>. PHILSTR. <i>77</i>.`

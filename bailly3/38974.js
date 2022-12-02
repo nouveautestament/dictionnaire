@@ -1,0 +1,1 @@
+lar[38974]=`<b>ἐπι·σκάζω</b> <font color="darkgreen">(<i>impf</i>. ἐπέσκαζον)</font> boiter, vaciller, NIC. <i>Th. 294</i> ; A.RH. <i>1, 669</i>.`

@@ -1,0 +1,1 @@
+lar[51355]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Kalyptrè, <i>f</i>. ANTH. <i>9, 240</i>.<p><b>Étym</b>. <i>ion. de</i> καλύπτρα.`

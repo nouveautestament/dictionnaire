@@ -1,0 +1,1 @@
+lar[110480]=`<b>ατος (τὸ)</b> mugissement (des flots) ANTH. <i>6, 233</i>.<p><b>Étym</b>. <i>cf</i>. ὠρυγμός.`

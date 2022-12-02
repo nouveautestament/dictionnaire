@@ -1,0 +1,1 @@
+lar[17391]=`<b>αὐτο·αρετή, ῆς (ἡ)</b> la vertu en soi, la vertu même, BAS.`

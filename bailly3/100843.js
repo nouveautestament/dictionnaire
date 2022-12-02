@@ -1,0 +1,1 @@
+lar[100843]=`crier, <i>en parl. des boyaux,</i> HPC. <i>534, 31</i>.<p><b>Étym</b>. <i>dout</i>.`

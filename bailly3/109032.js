@@ -1,0 +1,1 @@
+lar[109032]=`<b>χριστο·κάπηλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui trafique du Christ, NAZ. <i>p. 178</i>.<p><b>Étym</b>. Χρ. κάπηλος.`

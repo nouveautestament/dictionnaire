@@ -1,0 +1,1 @@
+lar[3459]=`<b>ου (ὁ)</b> qui est dans toute sa force, DH. <i>2, 55 ; 9, 14 dout</i>.<p><b>Étym</b>. ἀκμή.`

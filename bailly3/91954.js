@@ -1,0 +1,1 @@
+lar[91954]=`<b>ή, όν</b>, <i>au fém. subst</i>. ἡ σπογγιστική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 227a</i>, l’art d’éponger.<p><b>Étym</b>. σπογγίζω.`

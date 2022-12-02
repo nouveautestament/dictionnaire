@@ -1,0 +1,1 @@
+lar[91253]=`<b>ης (ἡ)</b> rut, ANON. (<i>Com. fr. 4, 648).</i><p><b>Étym</b>. <i>obscure, p.-ê. pré-grec</i>.`

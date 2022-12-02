@@ -1,0 +1,1 @@
+lar[12530]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de briser net comme à la tige, LUC. <i>M. cond. 1</i>.<p><b>Étym</b>. ἀποκαυλίζω.`

@@ -1,0 +1,1 @@
+lar[46022]=`<b>ατος (τὸ)</b> échec, défaite, SPT. <i>Esaï. 31, 9</i> ; NT. <i>1Cor. 6, 7</i>.<p><b>Étym</b>. ἡττάω.`

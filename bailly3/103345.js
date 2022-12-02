@@ -1,0 +1,1 @@
+lar[103345]=`<b>ὑπο·κάτωθεν</b> <font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> de dessous, d’en bas, ARSTT. <i>G.A. 4, 4, 48</i>.<br><b>      2</b> en dessous, en bas, PLAT. <i>Leg. 761b</i>.`

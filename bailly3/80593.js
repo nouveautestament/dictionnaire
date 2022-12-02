@@ -1,0 +1,1 @@
+lar[80593]=`<b>ου (ὁ)</b> qui égare, NAZ. <i>3, 444 Migne</i>.<p><b>Étym</b>. πλάζω.`

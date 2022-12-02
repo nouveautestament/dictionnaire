@@ -1,0 +1,1 @@
+lar[89059]=`<b>ων (οἱ)</b> = <i>lat</i>. Sabini, les Sabins, <i>pple du Latium,</i> PLUT. <i>Rom. 14, etc</i>.`

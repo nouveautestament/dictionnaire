@@ -1,0 +1,1 @@
+lar[87251]=`<b>πρωτό·σπορος, ος, ον</b>, semé, <i>càd</i>. créé le premier, HERMIPP. (ATH. <i>451f</i>) ; ANTH. <i>1, 19</i> ; NONN. <i>D. 9, 142, etc</i>.<p><b>Étym</b>. πρ. σπείρω.`

@@ -1,0 +1,1 @@
+lar[77087]=`<b>εως (ἡ)</b> <font color="purple">[ρᾱ]</font><br><b>      1</b> action de regarder légèrement, négligence, SPT. <i>2Macc. 5, 17</i> ; PLUT. <i>Æmil. 3</i> ; LUC. <i>J. voc. 3, etc.</i><br><b>      2</b> affection de la vue, GAL. <i>14, 314</i>.<p><b>Étym</b>. παροράω.`

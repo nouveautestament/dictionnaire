@@ -1,0 +1,1 @@
+lar[34110]=`<b>ἐν·δείματος, ος, ον</b> <font color="purple">[ᾰ]</font> rempli de crainte, JAMBL. <i>Protr. 127</i>.<p><b>Étym</b>. ἐν, δεῖμα.`

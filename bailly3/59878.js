@@ -1,0 +1,1 @@
+lar[59878]=`<b>λαρισο·ποιός, οῦ (ὁ)</b> fabricant de vases de Larisa, GORG. (ARSTT. <i>Pol. 3, 2).</i><p><b>Étym</b>. Λάρισα, ποιέω.`

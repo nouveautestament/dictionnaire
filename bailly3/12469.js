@@ -1,0 +1,1 @@
+lar[12469]=`<b>ἀπ·οιμώζω</b> <font color="darkgreen">(<i>f</i>. -ώξω <i>ou</i> ώξομαι, <i>ao</i>. ἀπῴμωξα, <i>d’où impér</i>. ἀποίμωξον)</font> déplorer, <i>acc.</i> : τι, ESCHL. <i>Ag. 329, etc.</i> ; SOPH. <i>Ant. 1224, etc</i>. qqe ch. ; τινά, EUR. <i>Med. 31</i> ; ANT. <i>134, 15,</i> pleurer sur qqn.`

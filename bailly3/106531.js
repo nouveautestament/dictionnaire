@@ -1,0 +1,1 @@
+lar[106531]=`<b>ήεσσα, ῆεν</b>, rouge de sang, d’un rouge sombre, IL. <i>12, 202, 220</i> ; MOSCH. <i>2, 58</i> ; NIC. <i>Th. 158</i> ; COL. <i>43</i>.<p><b>Étym</b>. φοινός.`

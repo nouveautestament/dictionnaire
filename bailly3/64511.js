@@ -1,0 +1,1 @@
+lar[64511]=`<b>ου (ὁ)</b> qui habite l’intérieur des terres, NYSS. <i>2, 78c</i>.<p><b>Étym</b>. μεσόγεως.`

@@ -1,0 +1,1 @@
+lar[56087]=`<font color="purple">[ῐσ]</font> <i>adv</i>., vers la tente, IL. <i>1, 185</i>.<p><b>Étym</b>. κλισίη, -δε.`

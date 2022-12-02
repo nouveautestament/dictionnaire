@@ -1,0 +1,1 @@
+lar[44729]=`<b>ᾶ (ὁ)</b> Zônas, <i>poète de Sardes</i>, ANTH. <i>4, 2</i>.<p><b>Étym</b>. ζώνη.`

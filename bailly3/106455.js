@@ -1,0 +1,1 @@
+lar[106455]=`<b>ου</b>, <i>adj. m</i>. habitant <i>ou</i> originaire du dème Phlyées, DÉM. <i>Or. 18, 164 Baiter-Sauppe</i>.<p><b>Étym</b>. Φλυεῖς, <i>cf</i>. Φλυεύς.`

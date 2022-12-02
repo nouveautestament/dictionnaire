@@ -1,0 +1,1 @@
+lar[3903]=`<b>οῦ (ὁ)</b> amputation des extrémités, DIOSC. <i>7, 1</i>.`

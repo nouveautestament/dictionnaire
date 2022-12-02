@@ -1,0 +1,1 @@
+lar[99575]=`<b>ου (τὸ) :<br>      1</b> ligament, ORIB. <i>p. 131 Mai</i>.<br><b>      2</b> bandage, CHIRURG. <i>p. 12 Cocch</i>.<p><b>Étym</b>. τόνος.`

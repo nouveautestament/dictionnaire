@@ -1,0 +1,1 @@
+lar[20070]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>c</i>. βόθρος CRAT. <i>(Bkk. 85</i>) ; XÉN. <i>Œc. 19, 3 ; etc.</i><br><b>      2</b> <i>au plur</i>. sorte de météores ; ARSTT. <i>Meteor. 1, 5</i>.`

@@ -1,0 +1,1 @@
+lar[93014]=`<b>ης (ἡ)</b> Strophiè, <i>font. de Béotie,</i> CALL. <i>H. 4, 76</i>.`

@@ -1,0 +1,1 @@
+lar[81272]=`<b>ποδ·ηγός</b>, <i>dor. et vieil att</i>. <b>ποδαγός, ός, όν</b> <font color="purple">[ᾱ]</font><br><b>   I</b> qui guide, ANTH. <i>5, 179</i>.<br><b>   II</b> <i>subst</i>. ὁ ποδαγός :<br><b>      1</b> guide, EUR. <i>Ph. 1715</i>.<br><b>      2</b> serviteur, SOPH. <i>Ant. 1181</i>.<p><b>Étym</b>. πούς, ἡγέομαι.`

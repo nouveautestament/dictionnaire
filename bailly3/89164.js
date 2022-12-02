@@ -1,0 +1,1 @@
+lar[89164]=`<font color="purple">[ᾰᾰ]</font> être sensuel, HERMIPP. (SCH.-AR. <i>Vesp. 1169).</i><p><b>Étym</b>. σαλάκων.`

@@ -1,0 +1,1 @@
+lar[32821]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> <i>c</i>. ἑλικοειδής, PLUT. <i>M. 648f ;</i> NONN. <i>D. 1, 370, etc</i>.<p><b>Étym</b>. ἕλιξ, -ωδης.`

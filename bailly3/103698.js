@@ -1,0 +1,1 @@
+lar[103698]=`<b>ὑπο·πλήσσω</b> <i>ou</i> <b>ὑπο·πλήττω</b>, frapper par-dessous, <i>acc</i>. Q. SM. <i>4, 229</i>.`

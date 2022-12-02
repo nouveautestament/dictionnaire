@@ -1,0 +1,1 @@
+lar[84099]=`<b>προ·εκπλήσσω</b>, étonner d’abord <i>ou</i> auparavant, PLUT. <i>Lys. 25</i> ; LUC. <i>Ind. 9 ; au pass</i>. LUC. <i>Alex. 16</i>.`

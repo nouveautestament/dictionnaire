@@ -1,0 +1,1 @@
+lar[101168]=`<b>οῦς (ἡ)</b> <font color="purple">[ῡ]</font> Tyrô, <i>fille de Salmonée,</i> IL., OD. <i>2, 120 ; 11, 235, etc.</i> ; LUC. <i>D. mort. 18, 1, etc</i>.`

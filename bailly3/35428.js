@@ -1,0 +1,1 @@
+lar[35428]=`<b>ἑξα·μερής, ής, ές</b> <font color="purple">[ᾰ]</font> divisé en six parties, ORPH. (LGN <i>fr. 3, 7).</i><p><b>Étym</b>. ἕξ, μέρος.`

@@ -1,0 +1,1 @@
+lar[15899]=`<b>ης, ες</b> <font color="purple">[κᾰῐ]</font> rempli de vers ascarides, HPC. <i>Coac. 144</i>.<p><b>Étym</b>. ἀσκαρίς, -ωδης.`

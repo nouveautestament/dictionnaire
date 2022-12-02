@@ -1,0 +1,1 @@
+lar[62985]=`<b>μαρμαρ·ῶπις, ιδος</b> <font color="purple">[ᾰρω]</font> <i>adj. f</i>. dont le regard <i>ou</i> l’aspect pétrifie, LYC. <i>843</i> ; TRYPH. <i>Trop. p. 738).</i><p><b>Étym</b>. μάρμαρος, ὤψ.`

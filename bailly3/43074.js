@@ -1,0 +1,1 @@
+lar[43074]=`<b>εὔ·πομπος, ος, ον</b>, qui conduit heureusement, favorable, ESCHL. <i>Eum. 93</i> ; SOPH. <i>O.R. 697</i>.<p><b>Étym</b>. εὖ, πέμπω.`

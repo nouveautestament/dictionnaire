@@ -1,0 +1,1 @@
+lar[66674]=`<b>μονό·φυλλος, ος, ον</b>, qui n’a qu’une feuille <i>ou</i> qui n’a que des feuilles, TH. <i>H.P. 1, 13, 2</i>.`

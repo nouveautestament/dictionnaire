@@ -1,0 +1,1 @@
+lar[96000]=`<b>συν·ιεράομαι-ῶμαι</b> <font color="purple">[ᾱ]</font> être collègue dans les fonctions de prêtre <i>ou</i> de prêtresse, PLUT. <i>M. 276e</i>.<p><b>Étym</b>. σύν, ἱ.`

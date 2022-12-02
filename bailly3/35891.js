@@ -1,0 +1,1 @@
+lar[35891]=`<b>ἐξ·ευτελίζω</b>, mépriser, dédaigner, PLUT. <i>Alex. 28</i> ; ATH. <i>494c ;</i> JOS. <i>A.J. 18, 1, 3</i>.`

@@ -1,0 +1,1 @@
+lar[53883]=`<b>κατ·εντυγχάνω</b>, venir porter plainte contre, <i>dat</i>. BAS. <i>2, 86a</i>.`

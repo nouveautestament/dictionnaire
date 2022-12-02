@@ -1,0 +1,1 @@
+lar[35161]=`<b>ἔν·τυφος, ος, ον</b> <font color="purple">[ῠ]</font> aveuglé d’orgueil, TAT. <i>Or. ad Græc. 3, p. 812a</i>.<p><b>Étym</b>. ἐν, τῦφος.`

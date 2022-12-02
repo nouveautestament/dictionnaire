@@ -1,0 +1,1 @@
+lar[13009]=`<b>ἄπ·οξυς, υς, υ</b>, <i>gén</i>. <b>εος</b>, terminé en pointe, HPC. <i>799f ;</i> DIOSC. <i>4, 52</i>.<p><b>Étym</b>. ἀπό, ὀξύς.`

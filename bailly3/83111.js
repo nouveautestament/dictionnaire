@@ -1,0 +1,1 @@
+lar[83111]=`<b>ῶν (αἱ)</b> Potniès, <i>v. de Béotie,</i> XÉN. <i>Hell. 5, 4, 51</i> ; EL. <i>N.A. 15, 25</i>.<p><b>Étym</b>. πότνια.`

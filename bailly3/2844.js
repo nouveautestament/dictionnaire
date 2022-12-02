@@ -1,0 +1,1 @@
+lar[2844]=`<i>adv</i>., de manière à être perçu par les sens, ARSTT. <i>Col. 3, 13</i> ; PLUT. <i>M. 953c</i>.`

@@ -1,0 +1,1 @@
+lar[56596]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> flatteur, adulateur, AR. <i>Pax 756</i> ; ARSTT. <i>Nic. 2, 7, etc. ; particul</i>. parasite, EUP. (ATH. <i>236e</i>).<p><b>Étym</b>. <i>pré-grec</i>.`

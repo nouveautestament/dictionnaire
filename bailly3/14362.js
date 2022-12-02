@@ -1,0 +1,1 @@
+lar[14362]=`<b>ἀργυρο·τρύφημα, ατος (τὸ)</b> <font color="purple">[ῠῠ]</font> sorte de blanc-manger, ATH. <i>647d</i>.<p><b>Étym</b>. ἄ. τρυφάω.`

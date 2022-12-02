@@ -1,0 +1,1 @@
+lar[29190]=`<b>δωρο·τελέω-ῶ</b> (<i>inf. prés</i>.) accomplir un vœu au moyen d’une offrande, ORACL. (DÉM. <i>1072, 26).</i><p><b>Étym</b>. δῶρον, τελέω.`

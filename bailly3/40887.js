@@ -1,0 +1,1 @@
+lar[40887]=`<i>vb. de</i> ἐρωτάω, ARSTT. <i>An. post. 1, 12, 2, Soph. el. 1, 4, 15</i>.`

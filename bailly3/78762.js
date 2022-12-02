@@ -1,0 +1,1 @@
+lar[78762]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de faire fléchir, de courber, PLUT. <i>M. 45d, etc. ; t. mil</i>. action de faire obliquer une armée, POL. <i>10, 21, 6 ; 11, 23, 2</i>.<br><b>      2</b> courbure du sol, repli de terrain, terrain accidenté, POL. <i>3, 104, 4</i>.<p><b>Étym</b>. περικλάω.`

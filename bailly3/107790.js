@@ -1,0 +1,1 @@
+lar[107790]=`<b>χαμαί·πλιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>autre n. de l’</i>erysimum, DIOSC. <i>Noth. 447</i>.`

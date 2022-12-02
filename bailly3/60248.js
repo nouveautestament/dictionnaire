@@ -1,0 +1,1 @@
+lar[60248]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> λέκος, EPICH. (POLL. <i>10, 23</i>) ; JAMBL. <i>V. Pyth. p. 256</i>.`

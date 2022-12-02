@@ -1,0 +1,1 @@
+lar[40344]=`<b>οῦ (ὁ)</b> investigateur, chercheur, CLÉARQ. (ATH. <i>256a</i>) ; JOS. <i>A.J. 17, 5, 5 ; B.J. 1, 3, 70</i> ; DC. <i>78, 14</i>.<p><b>Étym</b>. ἐρευνάω.`

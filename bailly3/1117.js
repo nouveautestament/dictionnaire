@@ -1,0 +1,1 @@
+lar[1117]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> Agôn, <i>dieu protecteur des jeux publics,</i> PAUS. <i>5, 20, 3, etc</i>.`

@@ -1,0 +1,1 @@
+lar[28992]=`<b>δυσ·φυής, ής, ές</b> <font color="purple">[φῠ]</font> qui pousse difficilement, TH. <i>H.P. 7, 1, 3</i>.<p>•<i> Sup</i>. -έστατος, TH. <i>H.P. 7, 1, 3</i>.<p><b>Étym</b>. δ. φύω.`

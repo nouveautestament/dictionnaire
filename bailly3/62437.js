@@ -1,0 +1,1 @@
+lar[62437]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> long, élevé (<i>peuplier,</i> OD. <i>7, 106 ; sapin,</i> NIC. <i>Th. 472, etc</i>.).<p><b>Étym</b>. <i>pré-grec</i>.`

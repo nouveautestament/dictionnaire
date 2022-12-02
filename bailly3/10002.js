@@ -1,0 +1,1 @@
+lar[10002]=`<b>ἀντι·κυδαίνω</b> <font color="purple">[ῡ]</font> glorifier à son tour, THÉM. <i>57d</i>.`

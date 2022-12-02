@@ -1,0 +1,1 @@
+lar[100361]=`<b>τριπλασι·επιτέταρτος, ος, ον</b> <font color="purple">[ᾰπῐ]</font> trois fois un quart aussi grand, NICOM. <i>Arithm. 1, 22</i>.<p><b>Étym</b>. τρ. ἐπιτέταρτος.`

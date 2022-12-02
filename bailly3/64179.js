@@ -1,0 +1,1 @@
+lar[64179]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> action de composer des chants, ANTH. <i>App. 109</i>.<p><b>Étym</b>. μελογράφος.`

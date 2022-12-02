@@ -1,0 +1,1 @@
+lar[61221]=`<font color="purple">[ῐ]</font> prendre avec un filet de pêcheur, M. RUBR. <i>15</i>.<p><b>Étym</b>. λίνον.`

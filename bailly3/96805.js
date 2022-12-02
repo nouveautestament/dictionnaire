@@ -1,0 +1,1 @@
+lar[96805]=`<b>ή, όν :<br>      1</b> arrondi, OPP. <i>C. 2, 92</i>.<br><b>      2</b> garni d’un bouton, boutonné, moucheté, XÉN. <i>Eq. 8, 10</i>.<p><b>Étym</b>. <i>vb. de</i> σφαιρόω.`

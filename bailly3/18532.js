@@ -1,0 +1,1 @@
+lar[18532]=`<b>ἀ·χρήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, sans argent, pauvre, PD. (ATH. <i>782d</i>) ; SOL. (STOB. <i>Fl. 9, 25, 41</i>) ; EUR. <i>Med. 460</i>.<p><b>Étym</b>. ἀ, χρῆμα.`

@@ -1,0 +1,1 @@
+lar[67661]=`<b>ναρθηκο·φανής, ής, ές</b> <font color="purple">[φᾰ]</font> qui ressemble à la férule, ARCHIG. (ORIB. <i>p. 158 Math</i>.).<p><b>Étym</b>. ν. φαίνω.`

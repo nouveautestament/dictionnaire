@@ -1,0 +1,1 @@
+lar[20348]=`<b>βού·βρωστις, εως (ἡ) :<br>      1</b> faim dévorante, NIC. <i>Th. 785</i> ; OPP. <i>H. 2, 208</i>.<br><b>      2</b> <i>p. anal</i>. nécessité pressante, infortune, IL. <i>24, 532</i>.<p><b>Étym</b>. βοῦ-, βιβρώσκω.`

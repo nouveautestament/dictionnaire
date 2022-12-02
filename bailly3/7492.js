@@ -1,0 +1,1 @@
+lar[7492]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> crachement, GAL. <i>2, 51, etc</i>.<p><b>Étym</b>. ἀναπτύω.`

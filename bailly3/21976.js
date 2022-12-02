@@ -1,0 +1,1 @@
+lar[21976]=`<b>γη·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange de la terre, CALL. <i>fr. 58</i>.<p><b>Étym</b>. γῆ, φαγεῖν.`

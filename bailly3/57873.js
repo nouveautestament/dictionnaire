@@ -1,0 +1,1 @@
+lar[57873]=`<b>(τὸ)</b> <i>seul. nom. et acc., forme apocopée de</i> κριθή, IL. <i>8, 564</i> ; OD. <i>4, 41</i>.`

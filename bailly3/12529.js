@@ -1,0 +1,1 @@
+lar[12529]=`<b>ἀπο·καυλίζω</b> <font color="darkgreen">(<i>impf</i>. ἀπεκαύλιζον)</font> briser à la tige, <i>d’où</i> briser net <i>ou</i> complètement, HPC. <i>790f, 799 a et d</i> ; THC. <i>2, 76</i> ; EUR. <i>Suppl. 717</i>.`

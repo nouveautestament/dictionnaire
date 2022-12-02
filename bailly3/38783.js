@@ -1,0 +1,1 @@
+lar[38783]=`<b>ἐπι·πορπίς, ίδος (ἡ)</b> crochet de l’agrafe, <i>ou simpl</i>. agrafe, CALL. <i>Ap. 32</i>.<p><b>Étym</b>. ἐπί, πόρπη.`

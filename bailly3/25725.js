@@ -1,0 +1,1 @@
+lar[25725]=`<b>δια·τετραίνω</b>, trouer, percer, HDT. <i>3, 12 (fut. ind. 2 sg</i>. -τετρανέεις).<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. 3 sg</i>. διετετρήνατο)</font> <i>m. sign</i>. AR. <i>Th. 18</i>.<p><b>Étym</b>. <i>cf</i>. διατιτραίνω, *διατιτράω <i>et</i> διατίτρημι.`

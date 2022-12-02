@@ -1,0 +1,1 @@
+lar[31577]=`<i>adv</i>., par choix, d’une façon éclectique, CLÉM. <i>2, 525b</i>.`

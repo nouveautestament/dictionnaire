@@ -1,0 +1,1 @@
+lar[15388]=`<b>ἀρτι·φανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui vient de paraître, NONN. <i>D. 12, 5</i>.<p><b>Étym</b>. ἄ. φαίνω.`

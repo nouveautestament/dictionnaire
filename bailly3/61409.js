@@ -1,0 +1,1 @@
+lar[61409]=`<b>ή, όν</b>, qu’on fléchit par des prières, PLAT. <i>Rsp. 364d</i>.<p><b>Étym</b>. λίσσομαι.`

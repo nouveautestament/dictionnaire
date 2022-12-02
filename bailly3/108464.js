@@ -1,0 +1,1 @@
+lar[108464]=`<b>χιλί·ωρος, ος, ον</b> <font color="purple">[χῑ]</font> de mille saisons, <i>càd</i>. de mille ans, LYC. <i>1153</i>.<p><b>Étym</b>. χ. ὥρα.`

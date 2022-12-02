@@ -1,0 +1,1 @@
+lar[37557]=`<b>ἐπί·δεσμος, ου (ὁ)</b> ligament, bandelette pour pansement, HPC. <i>Off. 743</i> ; AR. <i>Vesp. 1440</i>.<p>➳ <i>Inus. au plur. ; on emploie</i> ἐπίδεσμα, <i>plur. de</i> ἐπίδεσμον.<p><b>Étym</b>. ἐπί, δεσμός.`

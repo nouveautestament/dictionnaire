@@ -1,0 +1,1 @@
+lar[932]=`<b>ἀγριό·φωνος, ος, ον</b>, à la voix sauvage <i>ou</i> au langage barbare, OD. <i>8, 294</i>.<p><b>Étym</b>. ἄγρ. φωνή.`

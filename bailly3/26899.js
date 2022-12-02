@@ -1,0 +1,1 @@
+lar[26899]=`<b>Διο·τέλης, ους (ὁ)</b> Diotélès, <i>péripatéticien,</i> ARSTT. (DL. <i>5, 12).</i><p><b>Étym</b>. Διός, τέλος.`

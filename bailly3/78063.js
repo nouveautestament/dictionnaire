@@ -1,0 +1,1 @@
+lar[78063]=`<b>πεντέ·βορος, ου (ἡ)</b> pivoine, <i>plante,</i> DIOSC.`

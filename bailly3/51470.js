@@ -1,0 +1,1 @@
+lar[51470]=`<b>ης (ἡ)</b> Kampsa, <i>v. de Macédoine,</i> HDT. <i>7, 123</i>.`

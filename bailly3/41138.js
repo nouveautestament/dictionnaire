@@ -1,0 +1,1 @@
+lar[41138]=`<i>ou</i> <b>Ἱστιαιόθεν</b>, <i>adv</i>., du dème Hestiæa <i>ou</i> Histiæa, DÉM. <i>929, 25</i>.<p><b>Étym</b>. Ἑστίαια, -θεν.`

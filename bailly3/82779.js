@@ -1,0 +1,1 @@
+lar[82779]=`<i>dor</i>. <b>πορθμευτάς (ὁ)</b> <font color="purple">[ᾱ]</font> médiateur, SYN. <i>Hymn. 5, 8</i>.<p><b>Étym</b>. πορθμεύω.`

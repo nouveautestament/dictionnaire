@@ -1,0 +1,1 @@
+lar[59399]=`<b>ας (ἡ)</b> lance, DS. <i>5, 30</i>.<p><b>Étym</b>. <i>cf. lat</i>. lancea.`

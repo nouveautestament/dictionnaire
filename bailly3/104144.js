@@ -1,0 +1,1 @@
+lar[104144]=`<b>ὑπό·χαλκος, ος, ον :<br>      1</b> qui renferme du cuivre, PLAT. <i>Rsp. 415b ; fig</i>. falsifié, faux, trompeur, PLUT. <i>M. 1b, 65a.</i><br><b>      2</b> qui résonne comme du cuivre, PHILSTR. <i>100</i>.<p><b>Étym</b>. ὑ. χαλκός.`

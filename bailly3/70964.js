@@ -1,0 +1,1 @@
+lar[70964]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> pauvreté du sang, ARSTT. <i>P.A. 2, 5, 6</i>.<p><b>Étym</b>. ὀλίγαιμος.`

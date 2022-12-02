@@ -1,0 +1,1 @@
+lar[26501]=`<b>οῦ (ὁ)</b> <font color="purple">[δῐ]</font> juge, PLUT. <i>Artax. 23, M. 549d, etc</i>.<p><b>Étym</b>. δικαιόω.`

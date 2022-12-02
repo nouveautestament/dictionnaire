@@ -1,0 +1,1 @@
+lar[25128]=`<b>δι·ανεμόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> (<i>seul. pf. pass</i>.) être agité par le vent, flotter au gré du vent, LUC. <i>Im. 7</i> ; ANTH. <i>9, 777</i>.`

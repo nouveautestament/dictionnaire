@@ -1,0 +1,1 @@
+lar[59044]=`<b>κυφαγωγέω-ῶ</b> <font color="purple">[ῡᾰ]</font> pencher le cou de côté, <i>en parl. d’un cheval rétif,</i> LIB. <i>v. 4, p. 203</i>.<p><b>Étym</b>. κυφαγωγός.`

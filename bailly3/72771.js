@@ -1,0 +1,1 @@
+lar[72771]=`<b>ὀρθοφυέω-ῶ</b> <font color="purple">[ῠ]</font> pousser droit, <i>en parl. de végétation,</i> TH. <i>H.P. 2, 6, 4</i>.<p><b>Étym</b>. ὀρθοφυής.`

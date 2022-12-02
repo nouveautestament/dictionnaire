@@ -1,0 +1,1 @@
+lar[94451]=`<b>ατος (τὸ) :<br>      1</b> amas, monceau, PLUT. <i>M. 955a ;</i> PHIL. <i>1, 184</i>.<br><b>      2</b> composé, mélange, PHIL. <i>1, 654</i>.<p><b>Étym</b>. συμφορέω.`

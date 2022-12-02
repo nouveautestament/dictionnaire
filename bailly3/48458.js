@@ -1,0 +1,1 @@
+lar[48458]=`<b>ας (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> vie d’un simple particulier, vie privée, XÉN. <i>Hier. 8, 1</i> ; PLAT. <i>Leg. 696a ; au pl</i>. PLAT. <i>Rsp. 618d.</i><br><b>      2</b> manque d’éducation, ignorance, LUC. <i>H. conscr. 27, etc</i>.<p><b>Étym</b>. ἰδιώτης.`

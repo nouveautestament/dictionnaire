@@ -1,0 +1,1 @@
+lar[13583]=`<b>ἀπο·τερματίζω</b> <font color="purple">[μᾰ]</font> borner, AGATHÉM. <i>Geogr. 2, 4</i>.`

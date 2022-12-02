@@ -1,0 +1,1 @@
+lar[87568]=`<b>ή, όν</b>, qui concerne un nombre racine, Ps.-JAMBL. <i>Theol. arithm. p. 11</i>.<p>•<i> Sup</i>. -ώτατος, Ps.-JAMBL. <i>Theol. arithm. p. 28</i>.<p><b>Étym</b>. πυθμήν.`

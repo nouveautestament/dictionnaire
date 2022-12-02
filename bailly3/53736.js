@@ -1,0 +1,1 @@
+lar[53736]=`<b>κατα·χορδεύω</b>, arracher les entrailles, <i>d’où</i> éventrer, <i>acc</i>. HDT. <i>6, 75</i> ; LGN <i>31, 2 ; fig</i>. torturer, martyriser, THÉM. <i>261d</i>.<p><b>Étym</b>. κ. χορδή.`

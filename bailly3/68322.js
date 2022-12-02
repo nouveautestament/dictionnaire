@@ -1,0 +1,1 @@
+lar[68322]=`<b>εως (ἡ) :<br>      1</b> renouvellement, ARÉT. <i>Cur. m. acut. 2, 3</i>.<br><b>      2</b> <i>au pl</i>. nouveautés, phénomènes nouveaux, ARSTT. <i>Mund. 5, 10</i>.<p><b>Étym</b>. νεοχμόω.`

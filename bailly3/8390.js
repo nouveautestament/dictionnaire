@@ -1,0 +1,1 @@
+lar[8390]=`<b>ἀνεξι·κώμη, ης (ἡ)</b> <font color="purple">[ῐ]</font> femme qui supporte les moqueries du village, CRAT. <i>fr. 328</i>.<p><b>Étym</b>. ἀνέχω, κώμη.`

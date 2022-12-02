@@ -1,0 +1,1 @@
+lar[89874]=`<b>εως (ἡ)</b> <i>plante de l’espèce du</i> κροτών (<i>v</i>. κροτών) (<i>Tordylium officinale</i> L.) ARSTT. <i>H.A. 9, 5, 1</i> ; DIOSC. <i>3, 54, etc.</i> ; PLUT. <i>M. 383e</i>.`

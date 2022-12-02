@@ -1,0 +1,1 @@
+lar[42798]=`<b>ας (ἡ)</b> action de rendre eunuque, BAS. <i>3, 646</i>.<p><b>Étym</b>. εὐνοῦχος.`

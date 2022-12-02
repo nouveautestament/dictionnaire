@@ -1,0 +1,1 @@
+lar[9460]=`<b>ἀντ·ανάπτω</b> <font color="darkgreen">(<i>impf</i>. ἀντανῆπτον, <i>ao</i>. ἀντανῆψα)</font> enflammer à son tour, RHÉT. <i>1, 495 W</i>.`

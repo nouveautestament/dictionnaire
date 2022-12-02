@@ -1,0 +1,1 @@
+lar[65753]=`<b>μικρο·τράπεζος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la table est petitement servie, qui fait maigre chère, ANTIPH. (ATH. <i>130e</i>).<p><b>Étym</b>. μ. τράπεζα.`

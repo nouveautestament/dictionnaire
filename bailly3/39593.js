@@ -1,0 +1,1 @@
+lar[39593]=`<i>adv.</i> :<br><b>      1</b> d’une manière effrayante, APP. <i>Syr. 2, 5</i>.<br><b>      2</b> en s’effrayant, APP. <i>Syr. 19</i>.`

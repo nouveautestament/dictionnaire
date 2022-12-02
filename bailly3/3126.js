@@ -1,0 +1,1 @@
+lar[3126]=`<b>ἀκανθο·φυέω-ῶ</b> <font color="purple">[ᾰκ]</font> produire des épines, DIOSC. <i>3, 21</i>.<p><b>Étym</b>. ἄκ. φύω.`

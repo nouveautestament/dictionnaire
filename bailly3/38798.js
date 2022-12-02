@@ -1,0 +1,1 @@
+lar[38798]=`<b>ἐπι·πρίω</b> <font color="purple">[ρῑ]</font> scier l’un sur l’autre : ἐπ. γένειον, ANTH. <i>7, 531,</i> grincer des dents.`

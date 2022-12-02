@@ -1,0 +1,1 @@
+lar[90141]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>au plur</i>. mines de fer, ARSTT. <i>Pol. 1, 11, 11</i> ; TH. <i>H.P. 5, 9, 2 ; Lap. 52</i>.<p><b>Étym</b>. σίδηρος.`

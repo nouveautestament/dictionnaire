@@ -1,0 +1,1 @@
+lar[28769]=`<b>δυσ·παράπλευστος, ος, ον</b> <font color="purple">[πᾰ]</font> difficile <i>ou</i> dangereux à côtoyer (en naviguant) STR. <i>777</i>.<p><b>Étym</b>. δ. παραπλέω.`

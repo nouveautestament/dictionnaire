@@ -1,0 +1,1 @@
+lar[49397]=`<b>α (ὁ)</b> <font color="purple">[ᾱ]</font> Hipponoïdas, <i>Spartiate,</i> THC. <i>5, 71 et 72</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Ἱππόνοος.`

@@ -1,0 +1,1 @@
+lar[28981]=`<b>*δυσφορία</b>, <i>seul. ion</i>. <b>δυσφορίη, ης (ἡ) :<br>      1</b> souffrance intolérable, HPC. <i>74a, 162c, etc.</i><br><b>      2</b> angoisse, agitation extrême, HPC. <i>1218a, etc</i>.<p><b>Étym</b>. δύσφορος.`

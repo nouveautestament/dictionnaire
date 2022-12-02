@@ -1,0 +1,1 @@
+lar[100859]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> percement, perforation, ARSTT. <i>Eud. 7, 10, 4</i> ; ARISTOX. <i>Harm. el. p. 37d</i>) ; GEOP. <i>4, 13, 1</i>.<p><b>Étym</b>. τρυπάω.`

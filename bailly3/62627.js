@@ -1,0 +1,1 @@
+lar[62627]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> homme mou, efféminé, AR. <i>Eccl. 1058</i>.<p><b>Étym</b>. μαλακός.`

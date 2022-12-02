@@ -1,0 +1,1 @@
+lar[43229]=`<b>ἐΰ·ρρηχος, ος, ον</b>, aux belles <i>ou</i> fortes haies, NIC. <i>Th. 868</i>.<p><b>Étym</b>. εὖ, ῥηχός.`

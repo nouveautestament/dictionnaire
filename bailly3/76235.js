@@ -1,0 +1,1 @@
+lar[76235]=`<b>παρ·ᾶσσον</b>, <i>adv.</i> :<br><b>      1</b> aussitôt, A.RH. <i>1, 383, etc.</i><br><b>      2</b> tout près, A.RH. <i>3, 968</i>.`

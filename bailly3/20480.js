@@ -1,0 +1,1 @@
+lar[20480]=`<b>ου (τὸ)</b> sorte de plante ombellifère, DIOSC. <i>4, 124</i>.<p><b>Étym</b>. βουνός.`

@@ -1,0 +1,1 @@
+lar[37962]=`<b>ἐπι·κατεῖδον</b>, <i>ao.2,</i> regarder en outre, HPC. <i>Progn. 38</i>.`

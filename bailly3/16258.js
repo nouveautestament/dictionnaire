@@ -1,0 +1,1 @@
+lar[16258]=`<b>ἀ·στραβής, ής, ές</b> <font color="purple">[ᾰβ]</font> non tortu, droit, régulier, PD. <i>O. 2, 90</i> ; PLAT. PLUT. <i>etc</i>.<p>•<i> Cp</i>. -έστερος, TH. <i>H.P. 5, 1, 11 ; • Sup</i>. -έστατος, TH. <i>H.P. 5, 3, 5</i>.<p><b>Étym</b>. ἀ, στραβός.`

@@ -1,0 +1,1 @@
+lar[15660]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> construction, <i>d’où</i> machination, ruse, LUC. <i>As. 25</i>.<p><b>Étym</b>. ἀρχιτεκτονέω.`

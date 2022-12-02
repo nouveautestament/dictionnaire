@@ -1,0 +1,1 @@
+lar[105114]=`<i>adv</i>., de Phères, ORPH. <i>Arg. 224</i>.<p><b>Étym</b>. Φεραί, -θεν.`

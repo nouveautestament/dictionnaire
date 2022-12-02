@@ -1,0 +1,1 @@
+lar[54450]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui ressemble aux fluxions <i>ou</i> tumeurs de l’aine, HPC. (EROT.).<p><b>Étym</b>. κέδματα, -ωδης.`

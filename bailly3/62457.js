@@ -1,0 +1,1 @@
+lar[62457]=`<b>(ὁ)</b> = <i>lat</i>. Macer, <i>n. d’h. rom</i>. PLUT. <i>Cic. 9</i>.`

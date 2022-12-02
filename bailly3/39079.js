@@ -1,0 +1,1 @@
+lar[39079]=`<b>ἐπι·σταθμάομαι-ῶμαι</b>, peser, <i>fig</i>. examiner avec soin, ESCHL. <i>Ag. 164</i>.`

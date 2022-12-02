@@ -1,0 +1,1 @@
+lar[52487]=`<b>εως (ἡ)</b> débris de la victime brûlée, SPT. <i>Lev. 6, 10</i>.<p><b>Étym</b>. *κατακαρπόω <i>de</i> κ. καρπός.`

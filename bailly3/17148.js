@@ -1,0 +1,1 @@
+lar[17148]=`<b>ή, όν :<br>      1</b> qui consiste en un pouvoir absolu, NYSS.<br><b>      2</b> <i>p. suite,</i> principal, primordial, GEOP. <i>1, 11, 1</i>.<p><b>Étym</b>. αὐθέντης.`

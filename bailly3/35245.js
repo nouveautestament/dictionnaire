@@ -1,0 +1,1 @@
+lar[35245]=`<b>εως (ἡ)</b> action de faire connaître, rapport, ARSTT. <i>Rhet. Al. 5, 1</i>.<p><b>Étym</b>. ἐξαγγέλλω.`

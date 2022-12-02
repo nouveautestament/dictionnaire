@@ -1,0 +1,1 @@
+lar[1592]=`<b>ἀ·δυσώπητος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qu’on ne peut faire rougir, sans honte, sans pudeur, PLUT. <i>M. 64f, etc</i>.<p><b>Étym</b>. ἀ, δυσωπέομαι.`

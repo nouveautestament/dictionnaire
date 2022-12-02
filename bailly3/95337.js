@@ -1,0 +1,1 @@
+lar[95337]=`<b>συν·έκδημος, ος, ον</b>, qui voyage à l’étranger avec, compagnon de voyage, PLUT. <i>Oth. 5</i> ; NT. <i>Ap. 19, 29</i>.`

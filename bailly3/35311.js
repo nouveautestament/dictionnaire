@@ -1,0 +1,1 @@
+lar[35311]=`<b>ἐξ·αιματίζω</b> <font color="purple">[ᾰ]</font> faire une saignée, saigner, HIPPIATR. <i>p. 2, 12 ; p. 112, 1 ; au pass. p. 39, 7 ; p. 121, 11</i>.<p><b>Étym</b>. ἐξ, αἷμα.`

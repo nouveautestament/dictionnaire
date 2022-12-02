@@ -1,0 +1,1 @@
+lar[53847]=`<b>κατ·εισάγω</b>, produire au jour, rendre visible, <i>acc</i>. ANTH. <i>10, 91</i>.`

@@ -1,0 +1,1 @@
+lar[59215]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> glande pinéale, <i>région du cerveau,</i> GAL. <i>4, 501c</i>.<p><b>Étym</b>. κῶνος.`

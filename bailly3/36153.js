@@ -1,0 +1,1 @@
+lar[36153]=`<b>ἐξ·ονομάζω :<br>      1</b> exprimer, énoncer, HH. <i>Merc. 59</i>.<br><b>      2</b> <i>postér</i>. appeler par son nom, PLUT. <i>Cic. 40</i>.`

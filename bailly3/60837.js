@@ -1,0 +1,1 @@
+lar[60837]=`<b>α, ον</b>, <i>vb. de</i> λαμβάνω, XÉN. <i>Mem. 1, 7, 2</i> ; PLAT. <i>Soph. 226a, etc. ; au neutre,</i> XÉN. <i>Cyr. 8, 1, 10, etc</i>.`

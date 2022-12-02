@@ -1,0 +1,1 @@
+lar[5760]=`<b>ας (ἡ) :<br>      1</b> état d’un être non encore formé, apparence informe, <i>en parl. de plantes,</i> ARSTT. <i>Plant. 1, 4</i>.<br><b>      2</b> aspect triste, PLUT. <i>M. 608f.</i><br><b>      3</b> laideur, aspect repoussant, EUR. <i>Or. 391</i> ; LUC. <i>V.H. 2, 30</i>.<p><b>Étym</b>. ἄμορφος.`

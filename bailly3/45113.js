@@ -1,0 +1,1 @@
+lar[45113]=`<b>ας (ἡ) :<br>      1</b> description des mœurs <i>ou</i> du caractère, éthopée, DH. <i>Lys. 8</i>.<br><b>      2</b> action de façonner les mœurs, de former le caractère, STR. <i>648</i>.<p><b>Étym</b>. ἠθοποιός.`

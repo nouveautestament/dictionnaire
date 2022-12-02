@@ -1,0 +1,1 @@
+lar[41366]=`<b>ἑτεροπροσωπέω-ῶ</b>, être d’une autre personne, <i>t. de gramm</i>. GRAMM.<p><b>Étym</b>. ἑτεροπρόσωπος.`

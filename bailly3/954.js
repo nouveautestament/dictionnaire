@@ -1,0 +1,1 @@
+lar[954]=`<font color="darkgreen">(<i>ao</i>. ἠγροικισάμην, <i>pf. part</i>. ἠγροικισμένος)</font> vivre <i>ou</i> parler en campagnard, être gauche <i>ou</i> grossier, PLAT. <i>Theæt. 146a ;</i> PLUT. <i>Syll. 6, etc</i>.<p><b>Étym</b>. ἄγροικος.`

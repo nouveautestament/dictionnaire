@@ -1,0 +1,1 @@
+lar[23232]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., à grands frais, XÉN. <i>Hell. 6, 5, 4</i>.`

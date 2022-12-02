@@ -1,0 +1,1 @@
+lar[23640]=`<b>δεκα·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰᾱ]</font> à dix degrés <i>ou</i> intervalles, <i>en parl. des cordes de la lyre,</i> ION <i>fr. 3, 1</i>.<p><b>Étym</b>. δ. βαίνω.`

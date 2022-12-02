@@ -1,0 +1,1 @@
+lar[29454]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> petit bain de siège, MOSCHION <i>Mul. pass. 35, p. 15</i>.<p><b>Étym</b>. <i>dim. de</i> ἐγκάθισμα.`

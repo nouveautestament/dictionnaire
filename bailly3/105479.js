@@ -1,0 +1,1 @@
+lar[105479]=`<b>φιλ·ανθής, ής, ές</b> <font color="purple">[ῐ]</font> qui aime les fleurs, riche en fleurs, EUR. <i>fr. 169</i> ; ANTH. <i>5, 32 et 72</i>.<p><b>Étym</b>. φ. ἄνθος.`

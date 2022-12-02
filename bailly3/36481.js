@@ -1,0 +1,1 @@
+lar[36481]=`<b>ἐπ·ακτρίς, ίδος (ἡ)</b> petite embarcation de pêcheur <i>ou</i> de pirate, XÉN. <i>Hell. 1, 1, 11</i>.<p><b>Étym</b>. ἐπί, ἀκτή, <i>ou p.-ê</i>. ἐπάγω.`

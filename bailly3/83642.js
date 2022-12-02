@@ -1,0 +1,1 @@
+lar[83642]=`<b>προ·αποζέννυμι</b>, nettoyer en faisant d’abord bouillir, GAL. <i>6, 623</i>.`

@@ -1,0 +1,1 @@
+lar[24847]=`<b>δια·κρατύνω</b> (<i>part. pf. pass</i>. -κεκρατυσμένος <font color="purple">[ᾰτ]</font>) renforcer, SOR. <i>Obst. p. 66 Erm</i>.`

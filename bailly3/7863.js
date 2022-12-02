@@ -1,0 +1,1 @@
+lar[7863]=`<b>ἀνα·φθείρομαι</b> <font color="darkgreen">(<i>ao.2</i> ἀνεφθάρην)</font> courir à sa perte, AR. <i>Av. 916</i>.`

@@ -1,0 +1,1 @@
+lar[64082]=`<b>μελισσο·σόος, ος, ον</b>, protecteur des abeilles (Pan) ANTH. <i>9, 226</i>.<p><b>Étym</b>. μ. σῴζω.`

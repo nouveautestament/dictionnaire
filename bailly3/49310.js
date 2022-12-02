@@ -1,0 +1,1 @@
+lar[49310]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> d’Hippodamos, XÉN. <i>Hell. 2, 4, 11</i> ; ARSTT. <i>Pol. 7, 10</i>.<p><b>Étym</b>. Ἱππόδαμος.`

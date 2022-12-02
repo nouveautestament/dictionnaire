@@ -1,0 +1,1 @@
+lar[82339]=`<b>πολύ·ρροθος, ος, ον</b>, retentissant, <i>p. suite,</i> que tout le monde répète, ESCHL. <i>Sept. 7</i>.<p><b>Étym</b>. π. ῥόθος.`

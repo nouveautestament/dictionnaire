@@ -1,0 +1,1 @@
+lar[53934]=`<b>κατ·ερείδω</b>, s’appesantir sur, fondre sur, D. CHR. <i>2, 396</i>.`

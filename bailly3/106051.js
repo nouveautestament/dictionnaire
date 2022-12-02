@@ -1,0 +1,1 @@
+lar[106051]=`<b>φιλό·πτορθος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les jeunes pousses, NONN. <i>D. 13, 261</i>.<p><b>Étym</b>. φ. πτόρθος.`

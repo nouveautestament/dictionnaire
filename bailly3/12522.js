@@ -1,0 +1,1 @@
+lar[12522]=`<b>ἀπο·κατατίθημι</b> (<i>seul. moy. ao.2, 3 sg. poét</i>. ἀποκάτθετο) déposer, quitter, A.RH. <i>3, 817</i>.`

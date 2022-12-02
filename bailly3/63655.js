@@ -1,0 +1,1 @@
+lar[63655]=`<b>μεθ·ύστερος, α, ον</b>, postérieur : οἱ μεθύστεροι, ESCHL. <i>Sept. 581,</i> les descendants, la postérité ; τὸ μεθύστερον, SOPH. <i>Ph. 1133,</i> dorénavant ; <i>adv</i>., μεθύστερον, HH. <i>Cer. 205</i> ; ESCHL. <i>Ch. 516,</i> plus tard.<p><b>Étym</b>. μ. ὕστερον.`

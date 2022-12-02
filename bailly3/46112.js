@@ -1,0 +1,1 @@
+lar[46112]=`<b>ατος (τὸ)</b> <i>dor. c</i>. θέαμα, THCR. <i>Idyl. 1, 56</i>.<p><b>Étym</b>. <i>sel. Fritzsche et Hiller</i> θέαμα.`

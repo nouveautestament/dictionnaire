@@ -1,0 +1,1 @@
+lar[71028]=`<b>ὀλιγό·μισθος, ος, ον</b> <font color="purple">[ῐγ]</font> dont le salaire est modique, PLAT. <i>Ep. 348a, au cp</i>. -ότερος.<p><b>Étym</b>. ὀλ. μισθός.`

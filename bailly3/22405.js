@@ -1,0 +1,1 @@
+lar[22405]=`<b>ου (ὁ) :<br>      1</b> cargaison d’un navire, ESCHL. <i>Suppl. 444</i> ; HDT. <i>1, 194</i> ; DÉM. <i>883, 11</i>.<br><b>      2</b> charge (d’une bête de somme, <i>etc</i>.) SPT. <i>Ex. 23, 5, etc.</i> ; BABR. <i>7, 11</i>.<p><b>Étym</b>. γέμω.`

@@ -1,0 +1,1 @@
+lar[28855]=`<b>δυσ·πρεπής, ής, ές</b>, indécent, inconvenant, EUR. <i>Hel. 307</i>.<p><b>Étym</b>. δ. πρέπω.`

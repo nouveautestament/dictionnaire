@@ -1,0 +1,1 @@
+lar[8013]=`<b>ἀνδρει·φόντης, ου (ὁ)</b> tueur d’hommes, <i>ép. d’Arès,</i> IL. <i>2, 651, etc</i>.<p><b>Étym</b>. ἀνήρ, πεφνεῖν ; <i>R. indo-europ</i>. *h₂nr-g<sup>wh</sup>onteh₂-, meurtrier ; <i>p</i>. ἀνδροφόντης, <i>changé p. anal. avec</i> ἀργεϊφόντης.`

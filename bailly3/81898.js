@@ -1,0 +1,1 @@
+lar[81898]=`<b>Πολύ·ζηλος, ου (ὁ)</b> Polyzèlos, <i>h</i>. DÉM. <i>21, 36 et 39 ; 30, 15 Baiter-Sauppe</i> ; PLUT. <i>Sol. 15</i> ; ANTH. <i>6, 214, etc</i>.<p><b>Étym</b>. <i>v</i>. πολύζηλος.`

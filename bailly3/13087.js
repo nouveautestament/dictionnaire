@@ -1,0 +1,1 @@
+lar[13087]=`<b>ης, ες</b>, de tempérament apoplectique, GAL. <i>Lex. Hipp. 19, 110 v°</i> κατεπλήσσετο.<p><b>Étym</b>. ἀπόπληκτος, -ωδης.`

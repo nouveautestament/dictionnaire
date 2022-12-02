@@ -1,0 +1,1 @@
+lar[86177]=`<b>ή, όν</b>, qui produit un revenu, STR. <i>831</i>.<p><b>Étym</b>. πρόσοδος.`

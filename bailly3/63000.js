@@ -1,0 +1,1 @@
+lar[63000]=`<b>ας (ἡ)</b> = <i>lat</i>. Martia, <i>n. de f. rom</i>. PLUT. <i>Qu. rom. 83</i>.`

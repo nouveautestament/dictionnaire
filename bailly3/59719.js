@@ -1,0 +1,1 @@
+lar[59719]=`<b>Λάμπ·ουρος, ου (ὁ)</b> Lampouros, <i>litt</i>. à la queue brillante, <i>n. de chien,</i> THCR. <i>Idyl. 8, 65</i>.<p><b>Étym</b>. λάμπω, οὐρά.`

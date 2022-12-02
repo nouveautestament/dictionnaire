@@ -1,0 +1,1 @@
+lar[13869]=`<b>Ἀπραγό·πολις, εως (ἡ)</b> ville <i>ou</i> État de Sans-Souci, <i>nom que l’empereur Auguste donnait à sa retraite de Campanie,</i> SUÉT. <i>Aug. 98</i>.<p><b>Étym</b>. ἀπραγέω, πόλις.`

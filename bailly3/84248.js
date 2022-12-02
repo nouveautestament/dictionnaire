@@ -1,0 +1,1 @@
+lar[84248]=`<b>προ·επισκοπέω-ῶ</b>, considérer d’avance, LUC. <i>M. cond. 3</i>.`

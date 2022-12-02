@@ -1,0 +1,1 @@
+lar[17666]=`<b>αὐτ·όπτης, ου (ὁ)</b> qui voit de ses propres yeux, témoin oculaire, HDT. <i>2, 29, etc.</i> ; PLAT. <i>Leg. 900a ;</i> XÉN. <i>Cyr. 5, 4, 18, etc. ; avec le gén</i>. DÉM. <i>600, 11</i> ; DIN. <i>110, 10</i> ; ARSTT. <i>H.A. 9, 37</i>.<p><b>Étym</b>. αὐ. ὄψομαι.`

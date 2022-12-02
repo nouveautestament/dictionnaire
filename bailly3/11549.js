@@ -1,0 +1,1 @@
+lar[11549]=`<b>ἀπ·ειλικρινέω-ῶ</b> <font color="purple">[ῐῐ]</font> purifier, SYN. <i>126d ;</i> RHÉT. <i>1, 604 W</i>.<p><b>Étym</b>. ἀπό, εἰλικρινής.`

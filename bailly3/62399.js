@@ -1,0 +1,1 @@
+lar[62399]=`<b>ωνος (ὁ) :<br>      1</b> cuisinier né dans la maison, ATH. <i>659a.</i><br><b>      2</b> acteur pour les rôles de cuisinier, ATH. <i>659a</i>.`

@@ -1,0 +1,1 @@
+lar[54194]=`<b>κατ·ουτάω-ῶ</b> (<i>seul. part. ao.2 moy. poét. au sens pass</i>. κατουτάμενος <font color="purple">[τᾰ]</font>) blesser grièvement, Q. SM. <i>14, 318</i>.`

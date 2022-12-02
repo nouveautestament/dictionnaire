@@ -1,0 +1,1 @@
+lar[88864]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> ce qu’on tire à soi, <i>d’où</i> :<br><b>      1</b> tir d’un arc, ESCHL. <i>Pers. 147 ; p. ext</i>. portée d’un trait : ἐκ τόξου ῥύματος, XÉN. <i>An. 3, 3, 15,</i> à la portée du trait.<br><b>      2</b> cordage pour remorquer, POL. <i>1, 26, 14, etc</i>.<p><b>Étym</b>. ἐρύω.`

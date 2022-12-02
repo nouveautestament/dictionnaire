@@ -1,0 +1,1 @@
+lar[15431]=`<b>ου (ὁ)</b> Artoukhas, <i>Perse,</i> XÉN. <i>Cyr. 5, 3, 38 ; An. 4, 3, 4</i>.`

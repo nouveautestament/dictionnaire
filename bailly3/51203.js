@@ -1,0 +1,1 @@
+lar[51203]=`<b>καλλί·πυλος, ος, ον</b> <font color="purple">[ῐῠ]</font> aux belles portes, ANTH. <i>App. 16</i>.<p><b>Étym</b>. κ. πύλη.`

@@ -1,0 +1,1 @@
+lar[51006]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> plein de roseaux, ANTH. <i>7, 365</i> ; ARSTT. <i>H.A. 5, 18, 10, etc</i>.<p><b>Étym</b>. κ. -ωδης.`

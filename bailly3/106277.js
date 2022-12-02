@@ -1,0 +1,1 @@
+lar[106277]=`<b>ΐδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f.</i> : Φινεΐδες ἀκταί, EUR. <i>I.T. 422,</i> le rivage de Phinée, <i>càd</i>. du royaume de Phinée, <i>en Thrace</i>.<p><b>Étym</b>. Φινεύς.`

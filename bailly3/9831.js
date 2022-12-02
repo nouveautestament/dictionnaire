@@ -1,0 +1,1 @@
+lar[9831]=`<b>ἀντι·διακοσμέω-ῶ</b>, disposer contre, APP. <i>Civ. 2, 75</i>.`

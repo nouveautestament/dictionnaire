@@ -1,0 +1,1 @@
+lar[62954]=`<b>ου</b> <i>ou</i> <b>Μαριός, οῦ (ἡ)</b> Marios (<i>auj</i>. Marí) <i>v. des Éleuthéro-Laconiens ou Laconiens indépendants,</i> PAUS. <i>3, 21, 7 ; 3, 22, 8</i>.`

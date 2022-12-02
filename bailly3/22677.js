@@ -1,0 +1,1 @@
+lar[22677]=`<i>mieux que</i> <b>γρυμαῖα, ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> coffre <i>ou</i> sac pour les vieux habits, DIPH. <i>(Bkk. 33</i>).<br><b>      2</b> <i>p. suite,</i> friperie, <i>d’où</i> morceau de rebut, <i>en parl. d’un poisson,</i> SOTAD. (ATH. <i>293a</i>) ; <i>de pers</i>. THÉM. <i>257a, etc</i>.`

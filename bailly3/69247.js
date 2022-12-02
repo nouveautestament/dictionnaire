@@ -1,0 +1,1 @@
+lar[69247]=`<b>εως (ἡ)</b> l’action de piquer, PLUT. <i>M. 930f</i>.<p><b>Étym</b>. νύσσω.`

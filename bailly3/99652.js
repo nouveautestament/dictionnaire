@@ -1,0 +1,1 @@
+lar[99652]=`<b>ας (ἡ)</b> ciselure, PLUT. <i>Æmil. 32, Dem. 25, etc. ; au plur</i>. PLUT. <i>M. 174d</i>.<p><b>Étym</b>. τορεύω.`

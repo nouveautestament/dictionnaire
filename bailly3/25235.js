@@ -1,0 +1,1 @@
+lar[25235]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾱ]</font> bras de mer, STR. <i>6, 1, 5 Kram.</i> ; M. RUBR. <i>32</i> ; PTOL. <i>Geogr. 37, 181</i>.<p><b>Étym</b>. διαπεράω.`

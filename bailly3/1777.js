@@ -1,0 +1,1 @@
+lar[1777]=`<b>ἀερο·βάτης, ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> qui s’avance dans les airs, <i>Fr. lyr. adesp. 129 Bgk</i>.<p><b>Étym</b>. ἀήρ, βαίνω.`

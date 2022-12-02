@@ -1,0 +1,1 @@
+lar[33978]=`<b>ἐν·απορρίπτω</b>, jeter dans <i>ou</i> sur, DIOSC. <i>Par. 1, 71</i>.`

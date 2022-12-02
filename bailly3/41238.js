@@ -1,0 +1,1 @@
+lar[41238]=`<b>ων (τὰ)</b> <font color="purple">[ῐδ]</font> fêtes de Zeus ἑταιρεῖος, <i>à Magnésie,</i> HÉGÉSANDRE (ATH. <i>572d</i>).<p><b>Étym</b>. ἑταιρίς.`

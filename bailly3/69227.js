@@ -1,0 +1,1 @@
+lar[69227]=`<b>νυμφοκομέω-ῶ :<br>      1 <i>tr.</i></b> parer la jeune épouse, A. PL. <i>147</i>.<br><b>      2 <i>intr.</i></b> se parer comme une jeune épouse, EUR. <i>Med. 985</i>.<p><b>Étym</b>. νυμφοκόμος.`

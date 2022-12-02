@@ -1,0 +1,1 @@
+lar[11462]=`<b>ἀπ·αυγάζω</b>, faire briller, <i>acc</i>. PHILSTR. <i>V. Ap. 3, 8</i> ; HLD. <i>3, 4 ; 4, 8, etc. ; d’où, au pass.,</i> réfléchir la lumière, briller, réverbérer, PHIL. <i>2, 18</i>.<br><b><i>Moy.</i></b> voir de loin, CALL. <i>Del. 125, 181</i>.`

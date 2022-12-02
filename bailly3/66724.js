@@ -1,0 +1,1 @@
+lar[66724]=`<b>α, ον</b>, donné en partage : μορίη (<i>ion</i>.) γῆ, ANTH. <i>7, 477,</i> coin de terre assigné par le destin, <i>càd</i>. tombeau.<p><b>Étym</b>. μόρος ; <i>cf</i>. μείρομαι.`

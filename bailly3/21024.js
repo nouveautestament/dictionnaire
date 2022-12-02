@@ -1,0 +1,1 @@
+lar[21024]=`<b>βυρσ·αίετος, ου (ὁ)</b> l’aigle corroyeur, <i>sobriquet de Cléon, démagogue athénien qui était tanneur,</i> AR. <i>Eq. 197</i>.<p><b>Étym</b>. βύρσα, αἰετός.`

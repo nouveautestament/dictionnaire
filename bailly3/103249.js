@@ -1,0 +1,1 @@
+lar[103249]=`<b>ὑπο·θερμαίνω :<br>      1</b> échauffer un peu <i>ou</i> peu à peu, ARR. <i>An. 1, 21, 1</i>.<br><b>      2</b> échauffer, <i>d’où au pass</i>. être échauffé, être chaud, IL. <i>16, 333 ; 20, 476 ; fig</i>. ὑ. εἴς τι, LUC. <i>D. mer. 8, 3,</i> s’échauffer pour qqe ch.`

@@ -1,0 +1,1 @@
+lar[83528]=`<b>προ·αλίζω</b> <font color="purple">[ᾰ]</font> rassembler d’avance, JOS. <i>B.J. 3, 7, 25</i>.`

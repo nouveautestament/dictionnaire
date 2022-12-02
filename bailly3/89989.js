@@ -1,0 +1,1 @@
+lar[89989]=`<b>(ὁ)</b> <i>d’ord. au pl</i>. οἱ Σῆρες, DP. <i>752</i> ; PAUS. <i>6, 26, 6</i> ; STR. <i>516, 701</i> ; LUC. <i>Macr. 5, etc</i>. les Sères, <i>pple d’Asie</i>.`

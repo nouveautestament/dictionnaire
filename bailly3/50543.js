@@ -1,0 +1,1 @@
+lar[50543]=`<i>gén. épq</i>. <b>-αο (ὁ)</b> le fils de Kænée, <i>càd.</i> :<br><b>      1</b> Korônos, IL. <i>2, 746</i> ; A.RH. <i>1, 57</i>.<br><b>      2</b> Æètiôn, HDT. <i>5, 92</i>.<p><b>Étym</b>. <i>patr. de</i> Καινεύς.`

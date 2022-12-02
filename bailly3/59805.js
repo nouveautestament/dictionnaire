@@ -1,0 +1,1 @@
+lar[59805]=`<b>ας</b> <font color="purple">[ᾱ]</font> Laokoôsa, <i>f</i>. THCR. <i>Idyl. 22, 206</i>.<p><b>Étym</b>. <i>fém. de</i> Λαοκόων.`

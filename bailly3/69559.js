@@ -1,0 +1,1 @@
+lar[69559]=`<b>ξηρο·τριβέω-ῶ</b> <font color="purple">[ῐ]</font> frotter <i>ou</i> frictionner à sec, ORIB. <i>p. 289, 313, etc. Matthäi</i>.<p><b>Étym</b>. ξ. τριβή.`

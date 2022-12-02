@@ -1,0 +1,1 @@
+lar[101925]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> ce que l’on prend en échange d’une ch., <i>comme l’argent en échange de la marchandise,</i> ARSTT. <i>Nic. 5, 5, 11</i> ; PORPH. <i>Abst. 2, 27</i>.<p><b>Étym</b>. ὑπαλλάσσω.`

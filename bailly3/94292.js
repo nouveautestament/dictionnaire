@@ -1,0 +1,1 @@
+lar[94292]=`<i>anc. att</i>. <b>ξύμπλοος-ους, οος-ους, οον-ουν</b>, qui navigue ensemble, <i>d’où subst</i>. ὁ σ. compagnon de traversée, HDT. <i>2, 115 ; 3, 41</i> ; XÉN. <i>Mem. 2, 2, 12</i> ; PLAT. <i>Rsp. 556c ; avec un dat</i>. EUR. <i>Hel. 1207</i> ; ANT. <i>132, 2, etc. ; p. ext</i>. compagnon qui s’associe à, <i>gén</i>. SOPH. <i>Ant. 541</i>.<p><b>Étym</b>. συμπλέω.`

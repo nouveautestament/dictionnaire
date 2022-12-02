@@ -1,0 +1,1 @@
+lar[98182]=`<b>ου (τὸ) :<br>      1</b> lieu pour les cérémonies d’initiation, PLUT. <i>Them. 1, Per. 13, etc.</i><br><b>      2</b> τὰ τελεστήρια, XÉN. <i>Cyr. 8, 7, 3</i> ; EL. <i>V.H. 12, 1,</i> actions de grâces pour l’achèvement d’une entreprise.<p><b>Étym</b>. τελέω.`

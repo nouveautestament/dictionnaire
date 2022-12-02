@@ -1,0 +1,1 @@
+lar[53998]=`<b>κατ·ευωχέω-ῶ</b>, traiter, régaler de, <i>dat</i>. JOS. <i>A.J. 11, 6, 1</i> ; CLÉM. <i>172</i>.<br><b><i>Moy.</i></b> se régaler, HDT. <i>1, 216</i> ; STR. <i>155</i>.`

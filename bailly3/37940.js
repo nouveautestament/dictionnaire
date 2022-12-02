@@ -1,0 +1,1 @@
+lar[37940]=`<b>ἐπι·καταράσσομαι</b> <font color="purple">[ᾰρ]</font> tomber avec fracas sur, DH. <i>10, 16</i>.`

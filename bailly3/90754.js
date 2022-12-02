@@ -1,0 +1,1 @@
+lar[90754]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> ombre, <i>poisson,</i> OPP. <i>H. 1, 106</i>.<p><b>Étym</b>. <i>cf</i>. σκεπανός.`

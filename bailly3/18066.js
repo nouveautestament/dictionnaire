@@ -1,0 +1,1 @@
+lar[18066]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire d’Aphidna, HDT. <i>6, 109, etc</i>.`

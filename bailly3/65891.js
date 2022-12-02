@@ -1,0 +1,1 @@
+lar[65891]=`<i>adj. m. c</i>. Μινύειος, ORPH. <i>Arg. 592 ; subst</i>. ὁ Μ. un Minye, PLUT. <i>Qu. gr. 46</i>.`

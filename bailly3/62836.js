@@ -1,0 +1,1 @@
+lar[62836]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> Mantinée (<i>auj</i>. Archéa Mantínia) <i>v. d’Arcadie,</i> THC. <i>5, 55, etc.</i> ; XÉN. <i>Hell. 4, 5, 18, etc</i>.<p>➳ <i>Épq. et ion</i>. Μαντινέη, IL. <i>2, 607</i> ; HDT. <i>4, 161 ; dor</i>. Μαντινέα, PD. <i>O. 11, 73</i>.`

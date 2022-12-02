@@ -1,0 +1,1 @@
+lar[109034]=`<b>χριστο·κίνητος, ος, ον</b> <font color="purple">[κῑ]</font> mû, <i>càd</i>. inspiré par le Christ, NAZ. <i>3, 444</i>.<p><b>Étym</b>. Χρ. κινέω.`

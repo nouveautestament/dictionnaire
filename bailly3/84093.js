@@ -1,0 +1,1 @@
+lar[84093]=`<b>προ·εκπηδάω-ῶ</b>, s’élancer auparavant <i>ou</i> avant, <i>gén</i>. DS. <i>12, 64 ; cf</i>. THÉM. <i>232d</i>.`

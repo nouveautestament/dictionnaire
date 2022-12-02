@@ -1,0 +1,1 @@
+lar[26739]=`<b>δι·οινόω-ῶ</b> <font color="darkgreen">(<i>part. pf. pass</i>. διῳνωμένος)</font> enivrer, PLAT. <i>Leg. 775c</i>.`

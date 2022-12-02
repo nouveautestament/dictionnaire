@@ -1,0 +1,1 @@
+lar[99194]=`<b>ου (ἡ)</b> <font color="purple">[ῑᾰ]</font> Timarion, <i>f</i>. ANTH. <i>5, 96, etc</i>.<p><b>Étym</b>. <i>dim. de</i> τιμή.`

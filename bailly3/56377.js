@@ -1,0 +1,1 @@
+lar[56377]=`<b>κογχο·ειδής, ής, ές</b>, semblable à une coquille, de la famille des coquillages, STR. <i>145</i>.<p><b>Étym</b>. κόγχη, εἶδος.`

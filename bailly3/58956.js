@@ -1,0 +1,1 @@
+lar[58956]=`<b>ου (ὁ)</b> = <i>lat</i>. Quirinus :<br><b>      1</b> <i>divinité des Sabins,</i> PLUT. <i>Rom. 29</i>.<br><b>      2</b> <i>n. de Romulus divinisé,</i> PLUT. <i>Rom. 28, 29, etc.</i> ; Κυρίνου λόφος, PLUT. <i>Num. 14,</i> la colline de Quirinus, le Quirinal.<br><b>      3</b> <i>n. d’h</i>. ANTH. <i>9, 200, etc</i>.`

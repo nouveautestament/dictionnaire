@@ -1,0 +1,1 @@
+lar[26726]=`<b>δι·οιδέω-ῶ</b>, se gonfler, LUC. <i>Nec. 18 ; Gall. 10 ; en parl. de la mer,</i> se soulever, STR. <i>173</i>.<br><b><i>Moy.</i></b> se gonfler, <i>fig. en parl. de l’âme,</i> HLD. <i>7, 7</i>.<p>➳ <i>Seul. prés</i>. STR. <i>l. c. et pf. part</i>. διῳδηκώς, LUC. <i>Gall. 10, et pl.q.pf. 3 sg</i>. διῳδήκει, LUC. <i>Nec. 18</i>.<p><b>Étym</b>. διά, οἰδέω.`

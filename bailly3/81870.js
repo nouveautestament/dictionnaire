@@ -1,0 +1,1 @@
+lar[81870]=`<b>πολυ·ειδήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui sait beaucoup, très savant, SEXT. <i>M. 1, 63</i>.<p><b>Étym</b>. π. εἰ.`

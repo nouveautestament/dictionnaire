@@ -1,0 +1,1 @@
+lar[81969]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Polykastè, <i>fille de Nestor,</i> OD. <i>3, 464</i>.`

@@ -1,0 +1,1 @@
+lar[57072]=`<i>adv</i>., à Corinthe, <i>sans mouv</i>. IL. <i>13, 664</i>.<p><b>Étym</b>. Κόρινθος, -θι.`

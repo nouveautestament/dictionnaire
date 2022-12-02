@@ -1,0 +1,1 @@
+lar[41277]=`<b>ἐτεό·κριθος, ου (ἡ)</b> <font color="purple">[ῑ]</font> vraie orge, <i>càd</i>. de bonne qualité, TH. <i>C.P. 3, 22, 2</i>.<p><b>Étym</b>. ἐτεός, κριθή.`

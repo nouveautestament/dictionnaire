@@ -1,0 +1,1 @@
+lar[77914]=`<b>ος, ον</b>, qui concerne le beau-père, du beau-père, ARAT. <i>252</i>.<p><b>Étym</b>. πενθερός.`

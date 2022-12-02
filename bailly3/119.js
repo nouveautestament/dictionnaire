@@ -1,0 +1,1 @@
+lar[119]=`<b>ἀ·βλεμής, ής, ές</b>, sans force, faible, NIC. <i>Al. 82 ; adv</i>. ἀβλεμές, LGN <i>29,</i> mollement.<p><b>Étym</b>. ἀ, βλεμεαίνω.`

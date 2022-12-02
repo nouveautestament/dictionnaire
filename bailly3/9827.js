@@ -1,0 +1,1 @@
+lar[9827]=`<b>ἀντι·διαζεύγνυμι</b> (<i>pf. pass</i>. -διέζευγμαι) diviser en opposant, DYSC. <i>Synt. 126, 10</i> ; SEXT. <i>M. 11, 15</i>.`

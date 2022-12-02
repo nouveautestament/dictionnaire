@@ -1,0 +1,1 @@
+lar[55228]=`<b>ή, όν</b>, qui concerne le jardinage ; ἡ κηπευτική (<i>s.-e</i>. τέχνη) CLÉM. <i>Str. 7, 15, 91,</i> le jardinage.<p><b>Étym</b>. κηπεύω.`

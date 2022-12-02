@@ -1,0 +1,1 @@
+lar[36267]=`<b>ἐξ·υμενίζω</b> <font color="purple">[ῠ]</font> enlever une membrane, DIOSC. <i>2, 86 et 87</i> ; P. ÉG. <i>174 Briau</i>.<p><b>Étym</b>. ἐξ, ὑμήν.`

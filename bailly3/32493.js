@@ -1,0 +1,1 @@
+lar[32493]=`<b>ἕλ·ανδρος, ος, ον</b>, qui prend les hommes, ESCHL. <i>Ag. 689</i>.<p><b>Étym</b>. ἑλεῖν, ἀνήρ.`

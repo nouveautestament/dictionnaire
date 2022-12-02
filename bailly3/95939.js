@@ -1,0 +1,1 @@
+lar[95939]=`arranger avec soin, JOS. <i>B.J. 4, 9, 10</i>.<p><b>Étym</b>. σύνθετος.`

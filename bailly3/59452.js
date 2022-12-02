@@ -1,0 +1,1 @@
+lar[59452]=`<b>(ὁ)</b> <i>sorte d’oiseau,</i> ARSTT. <i>H.A. 9, 1, 27</i>.`

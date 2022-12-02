@@ -1,0 +1,1 @@
+lar[104599]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de manger, CHRYS.<p><b>Étym</b>. φαγεῖν.`

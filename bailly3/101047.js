@@ -1,0 +1,1 @@
+lar[101047]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> <i>c</i>. τυμπανοειδής, SOR. <i>Obst. 273 Dietz, 278 Dietz</i>.<p><b>Étym</b>. τύμπανον, -ωδης.`

@@ -1,0 +1,1 @@
+lar[59972]=`<b>λα·τύπος, ου (ὁ)</b> <font color="purple">[ᾱῠ]</font> tailleur de pierres, HPC. <i>773b ;</i> SOPH. (POLL. <i>7, 118</i>) ; ANTH. <i>7, 554</i>.<p><b>Étym</b>. λᾶς, τύπτω.`

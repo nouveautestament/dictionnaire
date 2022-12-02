@@ -1,0 +1,1 @@
+lar[36513]=`<i>adv</i>., successivement, coup sur coup, ATH. <i>456e ;</i> PHIL. <i>1, 397</i> ; DIOSC. <i>1, 1, 166</i>.<p><b>Étym</b>. ἐπάλληλος.`

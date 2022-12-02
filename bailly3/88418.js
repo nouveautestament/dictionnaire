@@ -1,0 +1,1 @@
+lar[88418]=`<b>(ἡ)</b> = <i>lat</i>. Regilla, <i>femme d’Hérode Atticus,</i> ANTH. <i>App. 51</i> ; LUC. <i>Demon. 33, etc</i>.<p>➳ <i>Ion</i>. Ῥηγίλλη, ANTH. <i>l. c</i>.`

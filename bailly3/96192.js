@@ -1,0 +1,1 @@
+lar[96192]=`<b>συν·οπλιτεύω</b> <font color="purple">[ῑ]</font> être hoplite avec, <i>dat</i>. SYN. <i>12c</i>.`

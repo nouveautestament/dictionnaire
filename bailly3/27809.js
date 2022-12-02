@@ -1,0 +1,1 @@
+lar[27809]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme un serpent, <i>càd</i>. avec des sinuosités comme les replis d’un serpent, STR. <i>424</i>.`

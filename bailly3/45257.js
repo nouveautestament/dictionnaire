@@ -1,0 +1,1 @@
+lar[45257]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. de clou, DIOSC. <i>5, 89</i> ; AÉT. <i>p. 30, 20</i>.<p><b>Étym</b>. ἧλος.`

@@ -1,0 +1,1 @@
+lar[40723]=`<b>ἔρ·ρινον, ου (τὸ)</b> <font color="purple">[ῑ]</font> remède pour le nez, ANTYLL. (ORIB. <i>2, 187 B.-Dar</i>.) ; AÉT. <i>1 p. 14, 39</i>.<p><b>Étym</b>. ἐν, ῥίς.`

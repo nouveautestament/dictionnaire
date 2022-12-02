@@ -1,0 +1,1 @@
+lar[18793]=`<b>βαθυ·πόνηρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> profondément méchant, PROCL. PTOL.<p><b>Étym</b>. β. πονηρός.`

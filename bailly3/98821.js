@@ -1,0 +1,1 @@
+lar[98821]=`<b>τευχο·πλάστις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. qui façonne des vases d’argile, LYC. <i>1379</i>.<p><b>Étym</b>. τεῦχος, πλάσσω.`

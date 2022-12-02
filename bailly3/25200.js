@@ -1,0 +1,1 @@
+lar[25200]=`<b>δια·παράγω</b> <font color="purple">[ᾰγ]</font> (<i>part. prés</i>.) amener à terme, NYSS. <i>2, 177b</i>.`

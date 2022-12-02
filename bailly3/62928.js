@@ -1,0 +1,1 @@
+lar[62928]=`<b>ων (οἱ)</b> les Mâres, <i>pple sur la côte N. du Pont,</i> HDT. <i>3, 94 ; 7, 79</i>.`

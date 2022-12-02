@@ -1,0 +1,1 @@
+lar[28403]=`<b>δυσ·εξέλεγκτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> difficile à convaincre <i>ou</i> à réfuter, PLAT. <i>Phæd. 85c.</i><br><b>      2</b> difficile à découvrir, DH. <i>3, 5</i>.<p>•<i> Sup</i>. -ότατος, PLAT. <i>l. c</i>.<p><b>Étym</b>. δ. ἐξελέγχω.`

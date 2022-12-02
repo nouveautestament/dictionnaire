@@ -1,0 +1,1 @@
+lar[107570]=`<font color="purple">[ᾰῑ]</font> <i>vb. de</i> χαλινόω CLÉM. <i>285</i>.`

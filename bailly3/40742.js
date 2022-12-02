@@ -1,0 +1,1 @@
+lar[40742]=`<i>verbe réc. us. seul. en poésie (seul. prés.)</i> mouiller de rosée, mouiller, NIC. <i>Th. 62, 631</i>.<p><b>Étym</b>. ἕρση.`

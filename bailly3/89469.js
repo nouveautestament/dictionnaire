@@ -1,0 +1,1 @@
+lar[89469]=`<b>σαρκό·φυλλος, ος, ον</b>, aux feuilles charnues, épaisses, TH. <i>H.P. 1, 10, 4, etc</i>.<p><b>Étym</b>. σ. φύλλον.`

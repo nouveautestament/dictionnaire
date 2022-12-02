@@ -1,0 +1,1 @@
+lar[82950]=`<i>adv</i>., en quelque manière, SEXT. <i>P. 1, 120, 227</i>.<p><b>Étym</b>. ποσός.`

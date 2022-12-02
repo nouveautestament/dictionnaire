@@ -1,0 +1,1 @@
+lar[4121]=`<b>ου (τὸ)</b> vase à large ventre, ATH. <i>494b</i>.`

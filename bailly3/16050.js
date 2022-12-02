@@ -1,0 +1,1 @@
+lar[16050]=`<b>ἀσπιδο·πηγεῖον, ου (τὸ)</b> <font color="purple">[ῐ]</font> fabrique de boucliers, DÉM. <i>945, 15</i>.<p><b>Étym</b>. ἀσπιδοπηγός.`

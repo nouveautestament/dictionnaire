@@ -1,0 +1,1 @@
+lar[105042]=`<b>ου (ὁ)</b> = <i>lat</i>. Faustulus, <i>n. d’h. rom</i>. PLUT. <i>Rom. 3, 4, 6, etc</i>.`

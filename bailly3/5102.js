@@ -1,0 +1,1 @@
+lar[5102]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>conj. p</i>. ἁλωείτης, <i>c</i>. ἁλωεύς, ANTH. <i>6, 93</i>.`

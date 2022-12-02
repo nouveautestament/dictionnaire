@@ -1,0 +1,1 @@
+lar[46544]=`<b>ου (τὸ)</b> <i>seul. pl</i>. τὰ θέλυμνα, fondements (des choses) EMPÉD. <i>21, 6 Diels</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. προθέλυμνος, τετραθέλυμνος.`

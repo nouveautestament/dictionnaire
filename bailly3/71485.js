@@ -1,0 +1,1 @@
+lar[71485]=`<b>ὁμο·ειδής, ής, ές</b>, entièrement ressemblant, conforme, ARSTT. <i>Metaph. p. 59, 23, etc.</i> ; POL. <i>34, 11, 17</i> ; DH. <i>Pomp. 5</i>.<p><b>Étym</b>. ὁμ. εἶδος.`

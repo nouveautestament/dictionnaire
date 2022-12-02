@@ -1,0 +1,1 @@
+lar[86024]=`<b>εως (ἡ)</b> citation en justice, AR. <i>Vesp. 1041</i> ; PLAT. <i>Leg. 846b, 855d ;</i> DÉM. <i>1054, 21, etc</i>.<p><b>Étym</b>. προσκαλέω.`

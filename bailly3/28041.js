@@ -1,0 +1,1 @@
+lar[28041]=`<b>ωπός (ὁ)</b> homme, <i>litt</i>. « l’être agissant » par excellence, CLÉM. <i>Str. 5, p. 674</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[96008]=`<b>συν·ιζάνω :<br>      1</b> s’affaisser, <i>d’où</i> se condenser, se réduire, ARSTT. <i>Somn. 2, 16 ; en parl. de chairs,</i> THCR. <i>Idyl. 22, 122 ; en parl. de bitume en fusion,</i> PLUT. <i>Popl. 13 ; d’argent fondu,</i> PLUT. <i>M. 665b.</i><br><b>      2</b> faire s’affaisser, faire fléchir, ARSTT. <i>Respir. 7, 7</i>.`

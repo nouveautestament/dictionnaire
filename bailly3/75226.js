@@ -1,0 +1,1 @@
+lar[75226]=`<b>ου (τὸ)</b> Pantikapæon (<i>auj</i>. Kertch) <i>v. de la Chersonèse Taurique,</i> DÉM. <i>35, 31 Baiter-Sauppe, etc</i>.`

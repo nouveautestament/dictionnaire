@@ -1,0 +1,1 @@
+lar[32761]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat d’éléphants, PLUT. <i>Pomp. 52</i>.<p><b>Étym</b>. ἐλεφαντομάχος.`

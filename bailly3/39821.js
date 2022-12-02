@@ -1,0 +1,1 @@
+lar[39821]=`<b>ἐπ·οιστικός, ή, όν</b>, propre à porter qqe ch. sur <i>ou</i> contre, ORIG. <i>c. Cels. 7, p. 354</i>.<p><b>Étym</b>. ἐπιφέρω.`

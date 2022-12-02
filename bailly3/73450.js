@@ -1,0 +1,1 @@
+lar[73450]=`<font color="purple">[ᾰ]</font> <i>adv</i>., nulle part, <i>avec mouv</i>. THC. <i>5, 49</i> ; PLAT. <i>Rsp. 579b, etc. ; avec un verbe de repos, mais impliquant une idée de mouv</i>. DÉM. <i>1076, 7</i>.<p><b>Étym</b>. οὐδαμός, -σε.`

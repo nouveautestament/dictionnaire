@@ -1,0 +1,1 @@
+lar[17963]=`<b>ἀ·φερέπονος, ος, ον</b>, qui ne supporte pas la fatigue, indolent, nonchalant, PTOL. <i>Tetr. 156</i> ; ORIG. BAS.`

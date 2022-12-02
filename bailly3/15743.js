@@ -1,0 +1,1 @@
+lar[15743]=`<b>ος, ον</b> <font color="purple">[σᾰ]</font> non balayé ; ἀ. οἶκος, PLIN. <i>H.N. 36, 26,</i> appartement pavé en mosaïque, figurant des débris de repas non balayés.<p><b>Étym</b>. ἀ, σαρόω.`

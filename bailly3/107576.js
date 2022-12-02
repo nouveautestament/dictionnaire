@@ -1,0 +1,1 @@
+lar[107576]=`<b>χαλί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font><br><b>      1</b> léger d’esprit, irréfléchi, imprudent, OD. <i>4, 371 ; 19, 530</i> ; ANTH. <i>2, 517</i> ; OPP. <i>H. 3, 362</i>.<br><b>      2</b> négligent, MUS. <i>117</i>.<p><b>Étym</b>. χαλάω, φρήν.`

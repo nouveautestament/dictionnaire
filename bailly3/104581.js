@@ -1,0 +1,1 @@
+lar[104581]=`<b>ου (ὁ)</b> = <i>lat</i>. Fabulus, <i>n. d’h. rom</i>. PLUT. <i>Galb. 27</i>.`

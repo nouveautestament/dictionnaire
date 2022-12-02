@@ -1,0 +1,1 @@
+lar[28182]=`<b>δυσ·ανάσφαλτος, ος, ον</b> <font color="purple">[ῠᾰν]</font> qui se rétablit difficilement, HPC. <i>382, 12</i>.<p><b>Étym</b>. δ. ἀνασφάλλω.`

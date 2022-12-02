@@ -1,0 +1,1 @@
+lar[51]=`<b>ιδος (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Abaris, <i>Scythe, prêtre d’Apollon,</i> PLAT. <i>Charm. 158b ;</i> NONN. <i>D. 11, 132</i>.<p>➳ <i>Gén. ion</i>. Ἀβάριος, HDT. <i>4, 36 ; acc</i>. Ἄβαριν, HÉRACLIDE DU PONT (PLUT. <i>Aud. poet. 14</i>).`

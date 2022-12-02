@@ -1,0 +1,1 @@
+lar[57896]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> bouillie d’orge, ANTH. <i>6, 299 conj</i>.<p><b>Étym</b>. κριθή.`

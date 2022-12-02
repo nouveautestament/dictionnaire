@@ -1,0 +1,1 @@
+lar[108574]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. χλίδημα ION (HSCH.).`

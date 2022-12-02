@@ -1,0 +1,1 @@
+lar[97421]=`<b>ου (τὸ)</b> <font color="purple">[τᾰ]</font> <i>c</i>. πολύγονον, HIPPIATR. <i>p. 181</i>.`

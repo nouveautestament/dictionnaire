@@ -1,0 +1,1 @@
+lar[55683]=`<b>οῦς (ἡ)</b> sorte de cassia, DIOSC. <i>1, 12</i>.`

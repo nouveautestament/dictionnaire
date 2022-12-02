@@ -1,0 +1,1 @@
+lar[88613]=`<b>ῥινο·τόρος, ος, ον</b> <font color="purple">[ῑ]</font> qui perce le cuir des boucliers, <i>ép. d’Arès,</i> IL. <i>21, 392</i> ; HÉS. <i>Th. 934</i> ; NONN. <i>D. 45, 288, etc</i>.<p><b>Étym</b>. ῥινός, τείρω.`

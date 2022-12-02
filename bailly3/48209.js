@@ -1,0 +1,1 @@
+lar[48209]=`<b>ου (ὁ)</b> <font color="purple">[ᾱῠ]</font> Ialysos, <i>fondateur d’Ialysos,</i> PD. <i>O. 7, 136</i>.<p><b>Étym</b>. <i>v</i>. Ἰαλυσός.`

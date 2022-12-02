@@ -1,0 +1,1 @@
+lar[16017]=`<b>ας (ἡ)</b> Aspasie, <i>f</i>. XÉN. PLAT. <i>etc</i>.<p>➳ <i>Ion</i>. -ίη, HERMÉS. (ATH. <i>599b</i>).<p><b>Étym</b>. <i>fém. de</i> ἀσπάσιος.`

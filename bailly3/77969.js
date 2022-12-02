@@ -1,0 +1,1 @@
+lar[77969]=`<b>πεντα·ετής, ής, ές :<br>      1</b> de cinq ans, âgé de cinq ans, HDT. <i>1, 136</i> ; PLAT. <i>Leg. 793e.</i><br><b>      2</b> qui dure cinq ans, THC. <i>1, 112 ; adv</i>. πεντάετες, OD. <i>3, 115,</i> pendant cinq ans.<p><b>Étym</b>. π. ἔτος.`

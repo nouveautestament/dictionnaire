@@ -1,0 +1,1 @@
+lar[82487]=`<b>πολύ·ϋδρος, ος, ον</b>, abondant en eau, PLAT. <i>Leg. 761b</i>.<p><b>Étym</b>. π. ὕδωρ.`

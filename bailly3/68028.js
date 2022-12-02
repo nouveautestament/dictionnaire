@@ -1,0 +1,1 @@
+lar[68028]=`<b>νεκρο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien des morts, PHIL. <i>1, 417</i>.<p><b>Étym</b>. ν. φύλαξ.`

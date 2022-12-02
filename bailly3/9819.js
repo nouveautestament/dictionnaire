@@ -1,0 +1,1 @@
+lar[9819]=`<b>ἀντι·δεξιόομαι-οῦμαι</b>, saluer (<i>litt</i>. tendre la main droite) à son tour, <i>acc</i>. XÉN. <i>Cyr. 4, 2, 19</i> ; LUC. <i>Laps. 13</i>.`

@@ -1,0 +1,1 @@
+lar[103594]=`<b>ὑπο·νέω</b>, plonger sous l’eau, ARSTT. <i>H.A. 9, 48, 3</i>.`

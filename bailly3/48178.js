@@ -1,0 +1,1 @@
+lar[48178]=`<b>ἰῶν (τὰ)</b> <i>pl. épq. de</i> ἰός, trait, javelot, IL. <i>20, 68</i>.`

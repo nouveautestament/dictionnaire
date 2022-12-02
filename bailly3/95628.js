@@ -1,0 +1,1 @@
+lar[95628]=`<b>συν·επικαίω</b>, brûler, mettre le feu en même temps à, TH. <i>C.P. 5, 17, 6</i>.`

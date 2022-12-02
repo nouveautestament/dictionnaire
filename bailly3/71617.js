@@ -1,0 +1,1 @@
+lar[71617]=`<b>ὁμο·μαστιγίας, ου (ὁ)</b> <font color="purple">[ῑγῐᾱ]</font> compagnon de fouet, <i>càd</i>. d’esclavage, AR. <i>Ran. 756</i>.<p><b>Étym</b>. ὁμ. μαστιγίας.`

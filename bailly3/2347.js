@@ -1,0 +1,1 @@
+lar[2347]=`<b>ου (ὁ)</b> Ædepsos, <i>lieu où se trouvaient des sources thermales,</i> ARSTT. <i>Meteor. 2, 8</i>.`

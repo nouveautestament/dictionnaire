@@ -1,0 +1,1 @@
+lar[13736]=`<b>ἀπο·φλαυρίζω</b>, avilir, rabaisser, PD. <i>P. 3, 12</i>.<p>➳ <i>Inf. ao</i>. -ίξαι, HDT. <i>1, 86</i>.`

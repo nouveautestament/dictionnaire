@@ -1,0 +1,1 @@
+lar[16402]=`<b>ἀ·στύφελος, ος, ον</b> <font color="purple">[ῠ]</font> non raboteux, non rude, uni, ANTH. <i>9, 413</i>.<p>➳ <i>Fém. ion</i>. -η, THGN. <i>1040</i>.<p><b>Étym</b>. ἀ, στυφελός.`

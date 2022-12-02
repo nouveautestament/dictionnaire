@@ -1,0 +1,1 @@
+lar[74846]=`<b>ος, ον</b> <font color="purple">[ᾰν]</font> <i>c</i>. πανάκειος, NIC. <i>Th. 626</i>.`

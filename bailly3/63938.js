@@ -1,0 +1,1 @@
+lar[63938]=`<b>ίδος (ἡ)</b> pintade (<i>Numida meleagris</i> L.) <i>oiseau,</i> ARSTT. <i>H.A. 6, 2, 3</i> ; EL. <i>N.A. 4, 42 ; 5, 27</i> ; CLYTUS (ATH. <i>655b</i>).`

@@ -1,0 +1,1 @@
+lar[25385]=`<b>εως (ἡ)</b> stupeur causée par l’effroi <i>ou</i> toute sensation violente, PLAT. <i>Leg. 783c</i>.<p><b>Étym</b>. διαπτοέω.`

@@ -1,0 +1,1 @@
+lar[76194]=`<b>παρα·σιωπάω-ῶ :<br>      1</b> être silencieux, SPT. <i>Gen. 24, 21 ; Num. 30, 15 ; 1Reg. 7, 8, etc.</i><br><b>      2</b> passer sous silence ; τι, SPT. <i>Ps. 108, 1</i> ; POL. <i>2, 13, 7, etc</i>. qqe ch. ; κατὰ τὸ παρασιωπώμενον, CLÉM. <i>144,</i> par prétérition.`

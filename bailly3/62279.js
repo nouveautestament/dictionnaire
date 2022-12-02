@@ -1,0 +1,1 @@
+lar[62279]=`<i>ou</i> <b>μᾶδδα</b> <font color="purple">[ᾰ]</font> <i>mégar. c</i>. μᾶζα, AR. <i>Ach. 732</i>.`

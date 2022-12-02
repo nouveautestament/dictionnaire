@@ -1,0 +1,1 @@
+lar[99248]=`<b>Τιμό·κριτος, ου (ὁ)</b> <font color="purple">[ῑῐ]</font> Timokritos, <i>h</i>. PD. <i>N. 4, 13, etc</i>.<p><b>Étym</b>. τιμή, κρίνω.`

@@ -1,0 +1,1 @@
+lar[36472]=`<b>ἔπ·ακρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se termine en pointe, pointu, HPC. <i>483, 21</i>.<p><b>Étym</b>. ἐπί, ἄκρος.`

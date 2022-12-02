@@ -1,0 +1,1 @@
+lar[83377]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>sorte de thon,</i> OPP. <i>H. 1, 183</i>.`

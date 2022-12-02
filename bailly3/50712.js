@@ -1,0 +1,1 @@
+lar[50712]=`<b>κακό·δοξος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> sans renom, inconnu, THGN. <i>195</i>.<br><b>      2</b> de mauvais renom, peu estimé, EUR. <i>Andr. 778</i> ; XÉN. <i>Ages. 4, 1</i> ; PLAT. <i>Min. 321a</i>.<p>•<i> Cp</i>. -ότερος, PLAT. <i>l. c</i>.<p><b>Étym</b>. κ. δόξα.`

@@ -1,0 +1,1 @@
+lar[23194]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Danaè :<br><b>      1</b> <i>fille d’Akrisios, mère de Persée,</i> IL. <i>14, 319</i> ; HÉS. <i>Sc. 216</i> ; HDT. <i>2, 91, etc.</i><br><b>      2</b> <i>autres,</i> LUC. <i>Demon. 47, etc</i>.<p>➳ <i>Dor</i>. -άα, PD. <i>P. 10, 70 ; N. 10, 19, etc.</i> ; SOPH. <i>Ant. 944 ; etc</i>.`

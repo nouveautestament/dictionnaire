@@ -1,0 +1,1 @@
+lar[77509]=`<b>παχύ·χυμος, ος, ον</b> <font color="purple">[ᾰῠῡ]</font> au suc épais, GAL. <i>6, 312</i> ; A. APHR. <i>Probl. 1, 52, etc</i>.<p><b>Étym</b>. π. χυμός.`

@@ -1,0 +1,1 @@
+lar[25966]=`<b>ή, όν</b>, élu par un vote, ARSTT. <i>Rhet. Al. 3, 17</i>.<p><b>Étym</b>. <i>vb. de</i> διαψηφίζομαι.`

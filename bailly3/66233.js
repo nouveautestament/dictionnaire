@@ -1,0 +1,1 @@
+lar[66233]=`<b>μνηστὴ ἄλοχος (ἡ)</b> IL. <i>6, 246</i> ; OD. <i>1, 36, d’où</i> ἡ μνηστή, A.RH. <i>1, 780,</i> fiancée, épouse, femme légitime.<p><b>Étym</b>. <i>vb. de</i> μνάομαι.`

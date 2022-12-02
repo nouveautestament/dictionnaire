@@ -1,0 +1,1 @@
+lar[93346]=`<b>συγ·καταπίμπρημι</b>, brûler ensemble <i>ou</i> avec, <i>dat</i>. PHIL. <i>2, 21</i> ; PAUS. <i>2, 35, 4</i> ; DC. <i>44, 50</i>.`

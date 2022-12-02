@@ -1,0 +1,1 @@
+lar[59923]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> lieu fourré, couvert de bois touffus, NIC. <i>Th. 28, 489</i>.<p><b>Étym</b>. λάσιος.`

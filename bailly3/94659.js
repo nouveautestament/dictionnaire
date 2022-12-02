@@ -1,0 +1,1 @@
+lar[94659]=`<b>συν·αλληγορέω-ῶ</b>, exprimer aussi allégoriquement, ORIG. <i>1, 385 Migne</i>.`

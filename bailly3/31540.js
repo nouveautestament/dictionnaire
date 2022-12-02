@@ -1,0 +1,1 @@
+lar[31540]=`<b>ἐκ·λαθέω</b> (<i>seul. part. prés</i>. -έοντες) <font color="purple">[ᾰ]</font> <i>c</i>. ἐκλανθάνομαι, oublier, SIB. <i>2, p. 321</i>.<p><b>Étym</b>. <i>formé d’après l’inf. ao.2</i> ἐκλαθεῖν, <i>de</i> ἐκλανθάνω.`

@@ -1,0 +1,1 @@
+lar[86738]=`<font color="purple">[ᾰ]</font> <i>adv</i>., sous forme de proposition, ARSTT. <i>Soph. el. 15, 9</i>.`

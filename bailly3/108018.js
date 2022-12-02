@@ -1,0 +1,1 @@
+lar[108018]=`<b>χασμωδέω-ῶ</b>, avoir un hiatus, <i>en parl. d’un vers,</i> EUST. <i>11, 42</i>.<p><b>Étym</b>. χασμώδης.`

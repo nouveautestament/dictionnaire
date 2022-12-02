@@ -1,0 +1,1 @@
+lar[78814]=`<b>περι·κοσμέω-ῶ</b>, orner tout autour, parer avec soin, APP. <i>Civ. 4, 94</i> ; JOS. <i>c. Ap. 2, 35</i>.`

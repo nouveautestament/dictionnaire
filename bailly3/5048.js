@@ -1,0 +1,1 @@
+lar[5048]=`<b>ἀλυτ·άρχης, ου (ὁ)</b> chef des officiers de police, <i>à Olympie,</i> LUC. <i>Herm. 40</i>.<p><b>Étym</b>. ἀλύτης, ἄρχω.`

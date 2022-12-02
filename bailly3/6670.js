@@ -1,0 +1,1 @@
+lar[6670]=`<b>ἀνα·δαίω</b>, brûler, incendier, ESCHL. <i>Ag. 305</i>.<br><b><i>Moy.</i></b> s’allumer, A.RH. <i>4, 1726</i>.<p>➳ <i>Poét. part. prés</i>. ἀνδαίοντες, ESCHL. <i>l. c</i>.`

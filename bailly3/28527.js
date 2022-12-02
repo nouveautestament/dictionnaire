@@ -1,0 +1,1 @@
+lar[28527]=`<b>δυσ·ιερέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ῠῐ]</font> sacrifier sous des auspices défavorables, PLUT. <i>Cæs. 63 (inf</i>. -εῖν), <i>M. 587e</i> (<i>part. neutr</i>. -οῦν).<p><b>Étym</b>. δ. ἱερόν.`

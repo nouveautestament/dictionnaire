@@ -1,0 +1,1 @@
+lar[87017]=`<i>adv.</i> :<br><b>      1</b> promptement, facilement, PLAT. <i>Conv. 204d ;</i> ISOCR. <i>231a ;</i> LUC. <i>Pisc. 12</i>.<br><b>      2</b> <i>p. suite,</i> au hasard, témérairement, ESCHN. <i>4, 4</i> ; POL. <i>5, 7, 2</i>.<p>•<i> Cp</i>. προχειροτέρως, PLAT. <i>2 Alc. 144d, ou</i> -ότερον, POL. <i>1, 21, 5 ; • Sup</i>. -ότατα, ESCHN.<p><b>Étym</b>. πρόχειρος.`

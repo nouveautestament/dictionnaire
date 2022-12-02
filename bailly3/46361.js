@@ -1,0 +1,1 @@
+lar[46361]=`<font color="purple">[ᾰ]</font> <i>adv</i>., merveilleusement, admirablement, AR. <i>Nub. 1240 ; avec</i> ὡς : θ. ὡς ἄθλιος, PLAT. <i>Gorg. 471a</i>, étonnamment malheureux.<p><b>Étym</b>. θαυμάσιος.`

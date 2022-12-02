@@ -1,0 +1,1 @@
+lar[34950]=`<b>ἔν·σπερμος, ος, ον</b>, qui renferme la graine, la semence, DIOSC. <i>3, 28</i>.<p><b>Étym</b>. ἐν, σπέρμα.`

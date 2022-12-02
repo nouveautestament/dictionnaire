@@ -1,0 +1,1 @@
+lar[31751]=`<font color="darkgreen">(<i>ao</i>. ἑκουσιάσθην <i>au sens act</i>.) :</font><br><b>      1</b> offrir spontanément : τί τινι, SPT. <i>2Esdr. 2, 68 ; 2, 3, 5,</i> qqe ch. à qqn.<br><b>      2</b> consentir à, <i>inf</i>. SPT. <i>2Esdr. 7, 13</i>.<p><b>Étym</b>. ἑκούσιος.`

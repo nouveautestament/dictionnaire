@@ -1,0 +1,1 @@
+lar[55104]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> muge, <i>poisson de mer à grosse tête,</i> EUTHYD. (ATH. <i>307b</i>) ; ARSTT. <i>H.A. 5, 11, etc.</i> ; GAL. <i>6, 718</i>.<p><b>Étym</b>. κεφαλή.`

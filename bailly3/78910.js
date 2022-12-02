@@ -1,0 +1,1 @@
+lar[78910]=`<b>περι·μάρναμαι</b> <font color="darkgreen">(<i>seul. impf. 2 sg. poét</i>. περιμάρναο)</font> combattre autour de <i>ou</i> pour, <i>gén</i>. EPIGR. (PAUS. <i>5, 19, 4</i>).`

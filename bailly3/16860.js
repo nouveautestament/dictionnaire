@@ -1,0 +1,1 @@
+lar[16860]=`<b>ἀτμιδόω-ῶ</b> (<i>seul. prés. pass</i>.) <font color="purple">[ῑ]</font> transformer en vapeur, vaporiser, ARSTT. <i>Meteor. 1, 9, 3</i>.<p><b>Étym</b>. ἀτμίς.`

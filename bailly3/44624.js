@@ -1,0 +1,1 @@
+lar[44624]=`<b>ας (ἡ)</b> sorte d’orme (<i>Carpinus betulus</i> L.) TH. <i>H.P. 3, 3, 1</i>.`

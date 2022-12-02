@@ -1,0 +1,1 @@
+lar[105131]=`<b>φερέ·κακος, ος, ον</b> <font color="purple">[ᾰ]</font> qui supporte la fatigue <i>ou</i> la misère, POL. <i>3, 71, 10 ; 3, 79, 5</i>.<p><b>Étym</b>. φ. κακόν.`

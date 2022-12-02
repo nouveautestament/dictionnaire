@@ -1,0 +1,1 @@
+lar[21802]=`<b>ου (τὸ) :<br>      1</b> petit vieillard, HPC. <i>1276, 38</i> ; XÉN. <i>An. 6, 3, 22</i> ; AR. <i>Nub. 788, etc.</i><br><b>      2</b> <i>v</i>. γεροντικός.<p><b>Étym</b>. γέρων.`

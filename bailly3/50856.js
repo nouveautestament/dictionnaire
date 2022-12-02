@@ -1,0 +1,1 @@
+lar[50856]=`<b>κακό·σπερμος, ος, ον</b> <font color="purple">[ᾰ]</font> dont les semences sont mauvaises, TH. <i>H.P. 7, 4, 4</i>.<p><b>Étym</b>. κ. σπέρμα.`

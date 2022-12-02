@@ -1,0 +1,1 @@
+lar[25074]=`<b>δια·μορφοσκοπέομαι-οῦμαι</b> (<i>seul. prés</i>.) rivaliser de beauté : τινι, ATH. <i>188d</i>, avec qqn.`

@@ -1,0 +1,1 @@
+lar[18706]=`<b>ατος (τὸ)</b> <font color="purple">[βᾰ]</font> marche pas à pas, <i>d’où</i> marche posée et modeste, LUC. <i>Tim. 54</i> ; marche à la dérobée (pour surprendre qqn), PALÆPH. <i>32</i>.<p><b>Étym</b>. βαδίζω.`

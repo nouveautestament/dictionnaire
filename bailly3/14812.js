@@ -1,0 +1,1 @@
+lar[14812]=`<b>ου (ὁ)</b> Arkissos, <i>harmoste de Thèbes,</i> PLUT. <i>Pel. 13</i>.`

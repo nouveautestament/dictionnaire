@@ -1,0 +1,1 @@
+lar[74965]=`<b>παν·δυσία, ας (ἡ)</b> <font color="purple">[ῠ]</font> disparition totale <i>ou</i> coucher d’un astre, ANTH. <i>7, 273</i>.<p><b>Étym</b>. π. δύω.`

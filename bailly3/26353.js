@@ -1,0 +1,1 @@
+lar[26353]=`<b>δι·ηγέομαι-οῦμαι</b>, exposer en détail, raconter, décrire : τι, AR. <i>Av. 198</i> ; PLAT. <i>Conv. 172c ;</i> LUC. <i>H. conscr. 30, 57,</i> qqe ch. ; τινα, PLAT. <i>Theæt. 144c</i>, qqn.`

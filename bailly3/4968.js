@@ -1,0 +1,1 @@
+lar[4968]=`<b>ιος (ἡ)</b> la région des Alpes, les Alpes, ANTH. <i>14, 121 ; au pl. acc</i>. Ἄλπιας, ANTH. <i>9, 516</i>.`

@@ -1,0 +1,1 @@
+lar[89977]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> Σ. ἀκτή, HDT. <i>7, 183, etc.</i> ; χοιράς, EUR. <i>Andr. 1266</i> ; ἄκρη, A.RH. <i>1, 582, etc</i>. le promontoire <i>ou</i> le rivage de Sèpia, (<i>auj</i>. Ákra Ayíou Yeoryíou) <i>près de Magnésie, en Thessalie</i>.`

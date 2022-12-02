@@ -1,0 +1,1 @@
+lar[88855]=`<b>ῥυθμο·ειδής, ής, ές</b>, qui a une sorte de rythme <i>ou</i> de mesure, DH. <i>Isocr. 2</i>.<p><b>Étym</b>. ῥυθμός, εἶδος.`

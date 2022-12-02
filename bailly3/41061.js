@@ -1,0 +1,1 @@
+lar[41061]=`<i>ion</i>. <b>Ἑσπέρη, ης (ἡ)</b> Hespéra, <i>une des Hespérides,</i> A.RH. <i>4, 1427</i>.<p><b>Étym</b>. <i>cf</i>. ἑσπέρα.`

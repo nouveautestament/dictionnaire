@@ -1,0 +1,1 @@
+lar[12192]=`<b>ἀπο·γηράσκω</b> <font color="darkgreen">(<i>f</i>. άσομαι ; <i>part. ao</i>. ἀπογηράς)</font> vieillir, THGN. <i>819</i> ; HPC. <i>481, 23, etc.</i> ; ARSTT. <i>P.A. 2, 15</i> ; ALEX. (ATH. <i>36f</i>) <i>etc</i>.`

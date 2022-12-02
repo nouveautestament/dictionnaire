@@ -1,0 +1,1 @@
+lar[41970]=`<b>Εὐ·έλθων, οντος (ὁ)</b> Euelthôn (<i>litt</i>. bienvenu) <i>roi de Salamine, dans l’île de Chypre,</i> HDT. <i>4, 162 ; 5, 104</i>.<p><b>Étym</b>. εὖ, ἐλθών.`

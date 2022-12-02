@@ -1,0 +1,1 @@
+lar[105724]=`<b>φιλό·γονος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime ses enfants, <i>au cp</i>. -ώτερος, JOS. <i>Macc. 15</i>.<p><b>Étym</b>. φ. γόνος.`

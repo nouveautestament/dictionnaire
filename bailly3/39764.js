@@ -1,0 +1,1 @@
+lar[39764]=`<b>ἐπί·ψογος, ος, ον :<br>      1</b> blâmable, XÉN. <i>Lac. 14, 7</i> ; PLUT. <i>Cim. c. Luc. 7</i>.<br><b>      2</b> <i>act</i>. qui blâme, ESCHL. <i>Ag. 611</i>.<p><b>Étym</b>. ἐπί, ψόγος.`

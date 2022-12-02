@@ -1,0 +1,1 @@
+lar[72528]=`<b>ὀργανο·πήκτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> qui ajuste des mécanismes, mécanicien, MAN. <i>4, 438</i>.<p><b>Étym</b>. ὄργ. πήγνυμι.`

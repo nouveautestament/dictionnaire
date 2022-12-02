@@ -1,0 +1,1 @@
+lar[2951]=`<i>adv.</i> : αἰτ. ἔχειν πρός τινα, DL. <i>6, 31,</i> aimer à demander à qqn.`

@@ -1,0 +1,1 @@
+lar[103608]=`<b>ὑπο·νοθεύω</b>, se procurer par des moyens frauduleux, <i>acc</i>. SPT. <i>2Macc. 4, 7</i>.`

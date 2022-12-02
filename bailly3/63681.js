@@ -1,0 +1,1 @@
+lar[63681]=`<b>ητος (ἡ)</b> supériorité (de grandeur, de qualité <i>ou</i> de nombre) JAMBL. <i>V. Pyth. § 115</i>.<p><b>Étym</b>. μείζων.`

@@ -1,0 +1,1 @@
+lar[79995]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> de rue, <i>plante ; subst</i>. ἡ πηγανηρά (<i>s.-e</i>. ἔμπλαστρος) A. TR. <i>5, 265,</i> onguent de rue.<p><b>Étym</b>. πήγανον.`

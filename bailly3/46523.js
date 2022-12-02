@@ -1,0 +1,1 @@
+lar[46523]=`<b>ος, ον</b>, de bon vouloir : θέλεος ἀθέλεος, ESCHL. <i>Suppl. 875,</i> bon gré mal gré.<p><b>Étym</b>. θέλω.`

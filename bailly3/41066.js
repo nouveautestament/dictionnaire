@@ -1,0 +1,1 @@
+lar[41066]=`<b>ίδος :<br>      1</b> <i>adj. f</i>. du couchant, occidental, NONN. <i>D. 6, 219</i>.<br><b>      2</b> <i>subst</i>. ἡ ἑ. TH. <i>C.P. 6, 17, 3, sorte</i> de giroflée (<i>Hesperis tristis L.) fleur</i>.<p><b>Étym</b>. ἕσπερος.`

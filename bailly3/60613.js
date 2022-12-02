@@ -1,0 +1,1 @@
+lar[60613]=`<b>λευκό·σφυρος, ος, ον</b> <font color="purple">[ῠ]</font> aux talons blancs, THCR. <i>Idyl. 17, 32</i>.<p><b>Étym</b>. λ. σφυρόν.`

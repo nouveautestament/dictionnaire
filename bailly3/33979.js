@@ -1,0 +1,1 @@
+lar[33979]=`<b>ἐν·αποσβέννυμι</b> <font color="purple">[ῡ]</font> éteindre dans, ARSTT. <i>Probl. 24, 17, 1 ; au pass</i>. ARSTT. <i>Meteor. 2, 9, 10</i> ; HLD. <i>1, 15</i>.`

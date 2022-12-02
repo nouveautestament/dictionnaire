@@ -1,0 +1,1 @@
+lar[67485]=`<b>ας (ἡ)</b> trou de souris <i>ou</i> de rat, ARSTT. <i>H.A. 6 fin</i> ; EL. <i>V.H. 2, 11</i>.<p><b>Étym</b>. μῦς, ὀπή.`

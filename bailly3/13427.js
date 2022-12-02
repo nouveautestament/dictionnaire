@@ -1,0 +1,1 @@
+lar[13427]=`<b>εως (ἡ) :<br>      1</b> privation, THC. <i>7, 70</i>.<br><b>      2</b> action de déposséder qqn de, de s’emparer de, PLAT. <i>Leg. 936d</i>.<p><b>Étym</b>. ἀποστερέω.`

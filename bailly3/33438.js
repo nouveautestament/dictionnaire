@@ -1,0 +1,1 @@
+lar[33438]=`<b>εως (ἡ)</b> action d’enfoncer dans, GAL. <i>4, 11</i>.<p><b>Étym</b>. ἐμπήγνυμι.`

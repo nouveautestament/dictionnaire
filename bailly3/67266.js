@@ -1,0 +1,1 @@
+lar[67266]=`<b>μυριοστη·μόριον, ου (τὸ)</b> <font color="purple">[ῡ]</font> la dix-millième partie, ARSTT. <i>Sens. 6, 6</i>.<p><b>Étym</b>. μυριοστός, μόριον.`

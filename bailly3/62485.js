@@ -1,0 +1,1 @@
+lar[62485]=`<b>μακρ·ημερία</b>, <i>ion</i>. <b>μακρ·ημερίη, ης (ἡ)</b> la saison des longs jours, HDT. <i>4, 86</i>.<p><b>Étym</b>. μ. ἡμέρα.`

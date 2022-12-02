@@ -1,0 +1,1 @@
+lar[56821]=`<b>ας (ἡ)</b> femme de chambre, AR. <i>Eccl. 737</i> ; PLAT. <i>Rsp. 373c</i>.<p><b>Étym</b>. κομμόω.`

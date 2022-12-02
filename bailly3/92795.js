@@ -1,0 +1,1 @@
+lar[92795]=`<b>ου</b>, <i>adj. m.</i> : πυρός, TH. <i>C.P. 3, 21, 2,</i> sorte de froment.`

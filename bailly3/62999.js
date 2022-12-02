@@ -1,0 +1,1 @@
+lar[62999]=`<b>ου (ὁ)</b> Marsyas :<br><b>      1</b> <i>fils d’Olympos, écorché par Apollon, qu’il avait défié sur la flûte,</i> HDT. <i>7, 26</i> ; XÉN. <i>An. 1, 2, 8</i>.<br><b>      2</b> <i>fl. de Phrygie,</i> HDT. <i>5, 119</i>.<p>➳ <i>Ion</i>. -ύης, HDT. <i>l. c. ; gén</i>. -ύεω, HDT. <i>7, 26</i> ; <font color="purple">[ῡ]</font> NONN. <i>D. 1, 42</i>.`

@@ -1,0 +1,1 @@
+lar[56699]=`<b>ῶν (αἱ)</b> Kolosses (<i>auj</i>. Honaz) <i>v. de la Grande-Phrygie,</i> HDT. <i>7, 30</i> ; XÉN. <i>An. 1, 2, 6</i>.`

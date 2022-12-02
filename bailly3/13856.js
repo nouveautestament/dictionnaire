@@ -1,0 +1,1 @@
+lar[13856]=`<font color="purple">[πᾰ]</font> <i>indécl. c</i>. ἀπφά, πάππα, ἄττα, CALL. <i>Dian. 6</i>.<p><b>Étym</b>. <i>onomatopée</i>.`

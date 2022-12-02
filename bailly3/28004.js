@@ -1,0 +1,1 @@
+lar[28004]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> Dryopide, <i>anc. n. de la Doride,</i> HDT. <i>1, 56</i>.<p><b>Étym</b>. Δρύοπες.`

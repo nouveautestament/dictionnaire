@@ -1,0 +1,1 @@
+lar[96782]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de jouer à la balle, ARSTT. <i>Rhet. 1, 11, 15</i>.<p><b>Étym</b>. σφαιρίζω.`

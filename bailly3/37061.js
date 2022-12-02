@@ -1,0 +1,1 @@
+lar[37061]=`<b>ἐπ·έλπομαι</b> (<i>seul. part. prés</i>.) espérer encore, espérer, <i>inf. fut</i>. ESCHL. <i>Ag. 1031</i>.<p><b>Étym</b>. <i>cf</i>. ἐπιέλπομαι.`

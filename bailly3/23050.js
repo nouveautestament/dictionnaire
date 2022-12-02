@@ -1,0 +1,1 @@
+lar[23050]=`<b>δακρύ·ρροος, ος, ον</b> <font color="purple">[αῡ]</font> qui fond en larmes, EUR. <i>Suppl. 773 ; H.f. 98</i>.<p><b>Étym</b>. δάκρυ, ῥέω.`

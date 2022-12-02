@@ -1,0 +1,1 @@
+lar[90930]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>poisson inconnu,</i> ANAXANDR. (ATH. <i>105f</i>).<p><b>Étym</b>. <i>cf</i>. σκινθός.`

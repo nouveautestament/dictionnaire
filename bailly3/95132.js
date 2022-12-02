@@ -1,0 +1,1 @@
+lar[95132]=`<b>συν·διαπεραίνω</b>, achever ensemble <i>ou</i> en même temps, PLAT. <i>Gorg. 506b</i>.`

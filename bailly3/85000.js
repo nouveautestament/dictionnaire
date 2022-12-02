@@ -1,0 +1,1 @@
+lar[85000]=`<b>Προ·ποντίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> la Propontide (<i>auj</i>. mer de Marmara) <i>entre l’Hellespont et le Bosphore de Thrace, litt</i>. « la mer avant le Pont-Euxin », HDT. <i>4, 85</i> ; ESCHL. <i>Pers. 875, etc</i>.<p>➳ <font color="purple">[οντ]</font> bref, ANTH. <i>App. 9, 28</i>.<p><b>Étym</b>. π. Πόντος.`

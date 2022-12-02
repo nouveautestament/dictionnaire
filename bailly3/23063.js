@@ -1,0 +1,1 @@
+lar[23063]=`<i>adv</i>., en dactyles, DRAC. <i>13, 22</i>.`

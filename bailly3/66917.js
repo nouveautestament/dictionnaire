@@ -1,0 +1,1 @@
+lar[66917]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> passion pour les arts, la poésie, la musique, PLUT. <i>M. 706b</i>.<p><b>Étym</b>. μουσομανής.`

@@ -1,0 +1,1 @@
+lar[70292]=`<font color="purple">[ῡ]</font> <i>adv</i>., d’une manière lamentable, Q. SM. <i>3, 363, 481</i>.`

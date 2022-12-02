@@ -1,0 +1,1 @@
+lar[43219]=`<b>εὐρόως</b>, <i>adv</i>., d’un cours facile <i>ou</i> agréable, ARR. <i>Epict. 1, 4, 27 ; 3, 22, 45</i>.<p><b>Étym</b>. εὔροος.`

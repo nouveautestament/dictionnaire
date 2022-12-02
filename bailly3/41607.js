@@ -1,0 +1,1 @@
+lar[41607]=`<b>εὐαντέω-ῶ</b>, faire bon accueil à, <i>dat</i>. CALL. <i>Dian. 268</i>.<p><b>Étym</b>. εὐαντής.`

@@ -1,0 +1,1 @@
+lar[105736]=`<b>φιλο·γύνης, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> qui aime les femmes, ANTIPH. (<i>Com. fr. 3, 54</i>) ; POL. <i>10, 19, 3</i> ; ATH. <i>603e, etc</i>.<p><b>Étym</b>. φ. γυνή.`

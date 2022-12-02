@@ -1,0 +1,1 @@
+lar[50525]=`<b>καθ·ώς</b>, <i>conj.</i> :<br><b>      1</b> selon que, comme, SPT. <i>1Esdr. 6, 29</i>.<br><b>      2</b> quand, lorsque, SPT. <i>Neh. 5, 6</i>.<p>➳ <i>Forme réc., dans les inscr. att. seul. à partir du 2<sup>e</sup> siècle av. J.-C. (v. Meisterh. p. 215, 53</i>.<p><b>Étym</b>. κατά, ὡς.`

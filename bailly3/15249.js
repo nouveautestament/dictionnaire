@@ -1,0 +1,1 @@
+lar[15249]=`<b>ου (ὁ)</b> Artakamas, <i>Perse,</i> XÉN. <i>Cyr. 8, 6, 7</i>.`

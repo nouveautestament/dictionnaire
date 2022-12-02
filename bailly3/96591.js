@@ -1,0 +1,1 @@
+lar[96591]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> préparatifs, <i>particul</i>. pour un départ <i>ou</i> une marche, XÉN. <i>Cyr. 4, 2, 35</i>.<p><b>Étym</b>. συσκευάζω.`

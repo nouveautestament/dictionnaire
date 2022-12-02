@@ -1,0 +1,1 @@
+lar[10534]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> reproduction d’un type, ORIB. <i>36 Mai</i>.<p><b>Étym</b>. ἀντιτυπόω.`

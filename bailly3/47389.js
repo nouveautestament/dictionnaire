@@ -1,0 +1,1 @@
+lar[47389]=`<font color="purple">[ᾰ]</font><br><b>      1</b> introduire dans un thiase, EUR. <i>Ion 552</i>.<br><b>      2</b> célébrer un thiase, EUR. <i>Bacch. 378</i> ; STR. <i>562</i>.<br><b><i>Moy.</i></b> sanctifier par des purifications, EUR. <i>Bacch. 77</i>.<p><b>Étym</b>. θίασος.`

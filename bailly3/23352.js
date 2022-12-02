@@ -1,0 +1,1 @@
+lar[23352]=`<b>α, ον</b>, de Daunie, LYC. <i>592</i> ; POL. <i>3, 88 ; etc</i>.`

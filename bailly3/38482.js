@@ -1,0 +1,1 @@
+lar[38482]=`<b>ἐπι·μυθεύω</b> <font color="purple">[ῡ]</font> ajouter une fable, ARSTT. <i>H.A. 8, 24, 9</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. A. DIOG. <i>5</i>.`

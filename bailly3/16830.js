@@ -1,0 +1,1 @@
+lar[16830]=`<b>ας (ἡ)</b> <font color="purple">[τᾱ]</font> l’Atintanie, POL.<p><b>Étym</b>. <i>v</i>. Ἀτιντᾶνες.`

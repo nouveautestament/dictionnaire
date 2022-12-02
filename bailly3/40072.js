@@ -1,0 +1,1 @@
+lar[40072]=`<b>ἐπ·ώδυνος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui cause de la douleur, douloureux, HPC. <i>V. med. 18, Progn. 38</i> ; AR. <i>Ach. 1205</i>.<br><b>      2</b> causé par la douleur, PLUT. <i>M. 114d</i>.<p>•<i> Cp. irrég</i>. ἐπωδυνέστερος, HPC. <i>Art. 816</i>.<p><b>Étym</b>. ἐπί, ὀδύνη.`

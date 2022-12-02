@@ -1,0 +1,1 @@
+lar[16040]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit bouclier, HERMIPP. (POLL. <i>10, 165</i>) ; ANTH. <i>App. 330</i>.<p><b>Étym</b>. <i>dim. de</i> ἀσπίς.`

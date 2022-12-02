@@ -1,0 +1,1 @@
+lar[1552]=`<b>ἁδρο·μερής, ής, ές :<br>      1</b> composé de parties épaisses, DS. <i>5, 26</i>.<br><b>      2</b> <i>p. suite,</i> fort, riche, DIOSC. <i>5, 9</i>.<p>•<i> Cp</i>. -έστερος, GAL. <i>13, 8</i> ; DIOSC. <i>5, 10</i>.<p><b>Étym</b>. ἁ. μέρος.`

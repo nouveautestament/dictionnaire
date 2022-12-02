@@ -1,0 +1,1 @@
+lar[109559]=`<b>ης (ἡ)</b> <i>c</i>. ψάμμος, HDT. <i>4, 181</i>.<p>➳ <i>Dor</i>. ψάμμα <font color="purple">[μᾱ]</font> AR. <i>Lys. 1261</i>.`

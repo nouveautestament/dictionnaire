@@ -1,0 +1,1 @@
+lar[84046]=`<b>πρό·ειμι</b> <font color="darkgreen">(<i>f</i>. προέσομαι)</font> être auparavant, PLUT. <i>M. 586f ;</i> ATH. <i>391d ;</i> ANTH. <i>1, 20</i>.<p>➳ <i>Part. prés. poét</i>. προεών, ANTH. <i>l. c</i>.`

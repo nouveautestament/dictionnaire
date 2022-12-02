@@ -1,0 +1,1 @@
+lar[46138]=`<b>θαλαμο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui apprête la chambre nuptiale, ESCHL. <i>fr. 73 Nauck</i>.<p><b>Étym</b>. θάλαμος, ποιέω.`

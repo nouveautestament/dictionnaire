@@ -1,0 +1,1 @@
+lar[12499]=`<b>ος, ον</b> <font color="purple">[ᾰῠ]</font> découvert, PHIL. <i>1, 141</i>.<p><b>Étym</b>. ἀποκαλύπτω.`

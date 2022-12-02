@@ -1,0 +1,1 @@
+lar[32674]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de sauge, <i>plante,</i> TH. <i>H.P. 6, 1, 4</i>.<p><b>Étym</b>. ἐλελίζω¹, σφάκος.`

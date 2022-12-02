@@ -1,0 +1,1 @@
+lar[88259]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de se rider, ZÉNOB. <i>6, 42</i>.<br><b>      2</b> <i>t. de méd</i>. relâchement de la peau du scrotum, GAL. <i>2, 276</i>.<p><b>Étym</b>. ῥακόω.`

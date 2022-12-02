@@ -1,0 +1,1 @@
+lar[93895]=`<b>συμ·βραβεύω</b> <font color="purple">[ᾰ]</font> juger <i>ou</i> gouverner avec qqn, SPT. <i>1Esdr. 9, 14</i>.`

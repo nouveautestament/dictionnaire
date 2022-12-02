@@ -1,0 +1,1 @@
+lar[63749]=`<b>εως (ἡ)</b> amoindrissement, diminution, HPC. <i>Mochl. 855</i> ; ARSTT. <i>Categ. 14, 1, etc.</i> ; POL. <i>9, 43, 5</i>.<p>➳ <i>Voc</i>. μείωσι, ORIB. <i>12, 7</i>.<p><b>Étym</b>. μειόω.`

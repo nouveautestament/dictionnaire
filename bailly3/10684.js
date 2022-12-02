@@ -1,0 +1,1 @@
+lar[10684]=`<b>ἀντ·ῳδή, ῆς (ἡ)</b> chant répondant à un autre, <i>particul</i>. antistrophe, SCH.-AR. <i>Vesp. 1086</i>.<p><b>Étym</b>. ἀ. ᾠδή.`

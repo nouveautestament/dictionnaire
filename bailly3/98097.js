@@ -1,0 +1,1 @@
+lar[98097]=`<b>ου (τὸ)</b> chantier de charpentier <i>ou</i> atelier de menuisier, ESCHN. <i>17, 33</i>.<p><b>Étym</b>. τέκτων.`

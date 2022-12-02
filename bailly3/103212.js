@@ -1,0 +1,1 @@
+lar[103212]=`<b>ὑποδυσφορέω-ῶ</b>, être un peu impatient <i>ou</i> mécontent, HPC. <i>Epid. 3, 1008</i> ; PLAT. <i>Ep. 357e</i>.<p><b>Étym</b>. ὑποδύσφορος.`

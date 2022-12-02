@@ -1,0 +1,1 @@
+lar[98856]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> habileté à travailler, habileté, HIPPOLOCH. (ATH. <i>130a</i>) ; EPIC. (DL. <i>10, 93</i>) ; SEXT. <i>M. 5, 86</i>.<p><b>Étym</b>. τεχνιτεύω.`

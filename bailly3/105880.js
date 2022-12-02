@@ -1,0 +1,1 @@
+lar[105880]=`<b>φιλό·κυρος, ου (ὁ)</b> <font color="purple">[ῐῡ]</font> ami de Cyrus, STR. <i>517</i>.`

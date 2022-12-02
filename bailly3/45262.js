@@ -1,0 +1,1 @@
+lar[45262]=`<b>ἠλι·φάρμακος, ου (ἡ)</b> <font color="purple">[ῐμᾰ]</font> plante hémostatique, TIMAGORAS (STOB. <i>Fl. 100, 17).</i><p><b>Étym</b>. ἀλιταίνω, φάρμακον.`

@@ -1,0 +1,1 @@
+lar[98375]=`<b>ου (τὸ)</b> tarière, <i>instrument pour percer,</i> OD. <i>5, 246 ; 23, 198</i> ; ANTH. <i>6, 103</i> ; PLUT. <i>M. 997d</i>.<p><b>Étym</b>. τείρω.`

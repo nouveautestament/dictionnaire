@@ -1,0 +1,1 @@
+lar[36721]=`<b>ή, όν</b>, propre à corriger, à améliorer, ARSTT. <i>Nic. 5, 7, 6</i> ; STR. <i>16</i>.<p><b>Étym</b>. ἐπανορθόω.`

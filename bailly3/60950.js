@@ -1,0 +1,1 @@
+lar[60950]=`<b>ή, όν</b> <font color="purple">[λῐ]</font> de Liburnie, ESCHL. <i>fr. 353</i> ; τὰ Λιβυρνικά, PLUT. <i>Cato mi. 54,</i> sorte de vaisseaux légers.<p><b>Étym</b>. Λιβυρνός.`

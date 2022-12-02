@@ -1,0 +1,1 @@
+lar[84130]=`<b>προ·ελκόομαι-οῦμαι</b>, être ulcéré, s’ulcérer auparavant, DIOSC. <i>Par. 1, 159</i>.`

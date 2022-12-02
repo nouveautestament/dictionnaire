@@ -1,0 +1,1 @@
+lar[88063]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> <i>seul. lat</i>. pytisma, crachat, JUV. <i>11, 173</i> ; VITR. <i>7, 4</i> (<i>v</i>. πιτύλισμα).<p><b>Étym</b>. πυτίζω.`

@@ -1,0 +1,1 @@
+lar[32013]=`<b>ἐκ·ρίπτω</b> <font color="darkgreen">(<i>ao.2 pass</i>. ἐξερρίφην)</font> jeter hors de : δίφρων, SOPH. <i>El. 512,</i> hors d’un char ; τινὰ γῆς, SOPH. <i>O.R. 1412,</i> bannir qqn d’un pays ; <i>en parl. d’un acteur,</i> expulser, huer, ESCHN. <i>48, 40 ; fig</i>. ἔπη, ESCHL. <i>Pr. 932,</i> prononcer (<i>litt</i>. lancer) des paroles.`

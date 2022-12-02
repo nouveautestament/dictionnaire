@@ -1,0 +1,1 @@
+lar[53392]=`<b>κατα·σοφίζομαι :<br>      1</b> <i>pass</i>. être trompé par des sophismes, PLUT. <i>M. 80c ;</i> LGN <i>17, 1</i>.<br><b>      2</b> <i>moy</i>. tromper par des sophismes, tromper, <i>acc</i>. DS. <i>17, 116</i> ; LUC. <i>D. deor. 1, 1</i> ; SPT. <i>Ex. 1, 10 ; Judith 10, 19</i> ; NT. <i>Ap. 7, 19</i>.`

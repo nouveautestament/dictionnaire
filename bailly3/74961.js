@@ -1,0 +1,1 @@
+lar[74961]=`<b>ου (τὸ) :<br>      1</b> réceptacle, réservoir, STR. <i>5, 3, 9 ; 12, 8, 17 Kram.</i><br><b>      2</b> auberge, POL. <i>2, 15, 5</i> ; PHIL. <i>1, 483, etc</i>.<p><b>Étym</b>. πᾶν, δέχομαι.`

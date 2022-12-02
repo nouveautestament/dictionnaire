@@ -1,0 +1,1 @@
+lar[2002]=`<b>ἀθεσμο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui mange des aliments défendus, MAN. <i>4, 564</i>.<p><b>Étym</b>. ἄθ. φαγεῖν.`

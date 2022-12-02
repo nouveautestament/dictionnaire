@@ -1,0 +1,1 @@
+lar[92887]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Stratônidès, <i>h</i>. DÉM. <i>43, 36, Baiter-Sauppe</i>.`

@@ -1,0 +1,1 @@
+lar[83515]=`<b>προ·αΐσσω</b>, <i>att</i>. <b>προᾴσσω, προᾴττω</b>, s’élancer en avant, devancer, SÉLEUC. (ATH. <i>398a</i>).`

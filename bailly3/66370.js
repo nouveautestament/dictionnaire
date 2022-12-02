@@ -1,0 +1,1 @@
+lar[66370]=`<b>ῶν (οἱ)</b> <font color="purple">[λῑ]</font> les fils de Moliôn, <i>càd</i>. Ktéatos <i>et</i> Eurytos, PLUT. <i>Pyth. or. 13, etc</i>.<p><b>Étym</b>. Μολίων.`

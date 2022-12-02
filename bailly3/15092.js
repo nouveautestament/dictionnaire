@@ -1,0 +1,1 @@
+lar[15092]=`<b>ἀ·ρραγής, ής, ές</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> non brisé, HPC. <i>903h ;</i> ARSTT. <i>Probl. 11, 7</i> ; PLUT. <i>Demetr. 21</i>.<br><b>      2</b> qu’on ne peut briser, TH. <i>H.P. 3, 5, 6</i> ; DP. <i>1006</i> ; ὄμμα ἀ. SOPH. <i>fr. 847,</i> œil impassible (<i>litt</i>. qui n’éclate pas en larmes).<p><b>Étym</b>. ἀ, ῥήγνυμι.`

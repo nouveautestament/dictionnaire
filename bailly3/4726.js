@@ -1,0 +1,1 @@
+lar[4726]=`<b>ἀλλ·ηγορέω-ῶ</b>, parler par allégorie, faire comprendre par allégorie, ATH. <i>69c ;</i> PLUT. <i>M. 363c, 996b ; au pass</i>. être dit sous forme d’allégorie, NT. <i>Gal. 4, 24</i>.<p><b>Étym</b>. ἄλλος, ἀγορεύω.`

@@ -1,0 +1,1 @@
+lar[57190]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> bélier qui donne des coups de cornes, THCR. <i>Idyl. 5, 147, vulg</i>. κορύττιλος.<p><b>Étym</b>. κορύπτω.`

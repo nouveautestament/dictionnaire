@@ -1,0 +1,1 @@
+lar[47746]=`placer sur un trône, <i>d’où au pass</i>. être placé sur un trône, SPT. <i>Esth. 1, 2 ; en parl. d’un évêque,</i> introniser, NAZ. <i>3, 1159 Migne</i>.<p><b>Étym</b>. θρόνος.`

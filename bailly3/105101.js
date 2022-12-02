@@ -1,0 +1,1 @@
+lar[105101]=`<b>ου (ὁ)</b> Phellos, <i>h</i>. EL. <i>N.A. 8, 5</i> ; PLUT. <i>Sol. an. 23</i>.`

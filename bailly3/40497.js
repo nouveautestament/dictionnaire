@@ -1,0 +1,1 @@
+lar[40497]=`<b>ἐρί·πολος, ος, ον</b>, qui travaille la laine, SIM. <i>fr. 235</i>.<p><b>Étym</b>. ἔριον, πολέω.`

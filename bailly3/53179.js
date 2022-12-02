@@ -1,0 +1,1 @@
+lar[53179]=`<b>κατα·πτυχής, ής, ές</b> <font color="purple">[ῠ]</font> qui a des replis nombreux <i>ou</i> profonds, THCR. <i>Idyl. 15, 34</i>.<p><b>Étym</b>. κ. πτύσσω.`

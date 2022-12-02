@@ -1,0 +1,1 @@
+lar[84166]=`<b>προ·ενούσιος, ος, ον</b>, qui précède toute existence, SYN. <i>Hymn. 71</i>.`

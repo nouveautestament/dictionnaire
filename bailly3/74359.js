@@ -1,0 +1,1 @@
+lar[74359]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. παιπαλόεις ; τὰ παίπαλα, CALL. <i>Dian. 194,</i> lieux raboteux, rocailleux.<p><b>Étym</b>. <i>inconnue</i>.`

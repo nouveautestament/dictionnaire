@@ -1,0 +1,1 @@
+lar[71941]=`<b>ὀνο·βατέω-ῶ</b>, faire saillir une jument par un âne, XÉN. <i>Eq. 5, 8</i>.<p><b>Étym</b>. ὄνος, βατός.`

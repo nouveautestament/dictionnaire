@@ -1,0 +1,1 @@
+lar[64418]=`<b>μεροπο·σπόρος, ος, ον</b>, qui engendre des mortels, MAN. <i>4, 577</i>.<p><b>Étym</b>. μέροψ, σπείρω.`

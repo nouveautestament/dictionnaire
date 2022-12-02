@@ -1,0 +1,1 @@
+lar[71530]=`<b>ὁμοιο·λογία, ας (ἡ)</b> uniformité de style, QUINT. <i>8, 3, 52</i>.<p><b>Étym</b>. ὅμ. λόγος.`

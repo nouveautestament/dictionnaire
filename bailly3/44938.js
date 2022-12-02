@@ -1,0 +1,1 @@
+lar[44938]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Hègias, <i>h</i>. POL. <i>21, 4, 4, etc</i>.<p>➳ <i>Ion</i>. Ἡγίης, HDT. <i>9, 33</i>.`

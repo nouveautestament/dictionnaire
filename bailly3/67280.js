@@ -1,0 +1,1 @@
+lar[67280]=`<b>μυρί·πνοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῠ]</font> au souffle parfumé, ARCHYT. (PLUT. <i>M. 295a</i>) ; ANTH. <i>11, 27</i>.<p><b>Étym</b>. μύρον, πνέω.`

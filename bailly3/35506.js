@@ -1,0 +1,1 @@
+lar[35506]=`<b>ἐξ·ανοιδέω-ῶ</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐξανῴδει)</font> se gonfler de manière à sortir de, <i>gén</i>. ARSTT. <i>Meteor. 2, 8, 15</i>.`

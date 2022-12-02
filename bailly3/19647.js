@@ -1,0 +1,1 @@
+lar[19647]=`<b>(ἡ)</b> Bèssa, <i>v. de Locride,</i> IL. <i>2, 532. Cf</i>. βῆσα.`

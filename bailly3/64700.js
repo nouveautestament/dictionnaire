@@ -1,0 +1,1 @@
+lar[64700]=`il faut délier après (le repas) XÉN. <i>Eq. 4, 4</i>.<p><b>Étym</b>. <i>vb. de</i> *μεταδέω.`

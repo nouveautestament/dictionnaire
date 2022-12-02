@@ -1,0 +1,1 @@
+lar[15595]=`<b>ἀρχιεράομαι-ῶμαι</b>, être grand-prêtre, <i>en parl. du grand-prêtre des Juifs,</i> JOS. <i>A.J. 17, 9, 1 ; B.J. 1, 13, 9</i>.<p><b>Étym</b>. ἀρχιερεύς.`

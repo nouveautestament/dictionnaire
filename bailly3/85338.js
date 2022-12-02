@@ -1,0 +1,1 @@
+lar[85338]=`<b>προσ·βεβαιόω-ῶ</b>, confirmer encore, PHALAR. <i>Ep. 79</i>.`

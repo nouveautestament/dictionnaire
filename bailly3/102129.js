@@ -1,0 +1,1 @@
+lar[102129]=`<b>ὑπ·εκπλέω</b>, mettre à la voile secrètement, s’échapper sur un vaisseau, PLUT. <i>Lys. 11</i> ; PHILSTR. <i>603</i>.`

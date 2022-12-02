@@ -1,0 +1,1 @@
+lar[28929]=`<b>δυστομέω-ῶ</b> (<i>inf. prés</i>.) injurier : τινά τι, SOPH. <i>O.C. 986,</i> adresser des paroles injurieuses à qqn.<p><b>Étym</b>. δύστομος¹.`

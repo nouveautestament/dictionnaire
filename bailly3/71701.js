@@ -1,0 +1,1 @@
+lar[71701]=`<b>ὁμό·στολος, ος, ον</b>, envoyé ensemble <i>ou</i> avec, NONN. <i>Jo. 18, 16</i> ; τινι, A.RH. <i>2, 802</i> ; NONN. <i>Jo. 14, 69</i> ; avec qqn ; SOPH. <i>O.R. 212</i> (auj. : μονόστολον).<p><b>Étym</b>. ὁμ. στέλλω.`

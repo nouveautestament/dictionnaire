@@ -1,0 +1,1 @@
+lar[72082]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ὀξυδερκία, MÉTOP. <i>et</i> HIPPODAM. (STOB. <i>Fl. 1, 64 ; 103, 26</i>) ; LUC. <i>Macr. 5</i>.`

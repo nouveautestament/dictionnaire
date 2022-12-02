@@ -1,0 +1,1 @@
+lar[9220]=`<b>ἀν·οίκτιστος, ος, ον</b>, qui n’inspire pas de pitié, ANTH. <i>App. 9, 74</i>.<p><b>Étym</b>. ἀν-, οἰκτίζω.`

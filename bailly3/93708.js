@@ -1,0 +1,1 @@
+lar[93708]=`<i>ou</i> <b>συκομορέα, ας (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. συκόμορος, NT. <i>Luc. 19, 4</i>.`

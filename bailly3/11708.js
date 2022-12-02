@@ -1,0 +1,1 @@
+lar[11708]=`<b>ου (ὁ)</b> POL. <i>2, 16, 4, etc. ou</i> Ἀπέννινον ὄρος (τὸ) STR. <i>128, 259,</i> l’Apennin, <i>mt. d’Italie</i> ; τὰ Ἀπέννινα ὄρη, POL. <i>2, 14, 8, etc</i>. la chaîne des Apennins.<p><b>Étym</b>. <i>lat</i>. Apenninus.`

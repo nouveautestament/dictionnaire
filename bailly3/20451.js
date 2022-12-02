@@ -1,0 +1,1 @@
+lar[20451]=`<b>εως (ἡ) :<br>      1</b> volonté, désir, EUR. <i>H.f. 1305</i> ; THC. <i>1, 92, etc.</i> ; PLAT. <i>Crat. 420d, etc. ; au plur</i>. PLAT. <i>Leg. 688b, etc.</i><br><b>      2</b> dessein, intention, PLAT. <i>Prot. 344b ;</i> β. ὀνόματος, PLAT. <i>Crat. 421b</i>, intention qu’exprime un mot, signification d’un mot.<p><b>Étym</b>. βούλομαι.`

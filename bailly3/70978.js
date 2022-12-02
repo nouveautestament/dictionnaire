@@ -1,0 +1,1 @@
+lar[70978]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> <i>c</i>. ὀλιγάρκεια, BAS. <i>3, 168 Migne</i>.`

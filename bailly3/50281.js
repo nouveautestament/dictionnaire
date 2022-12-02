@@ -1,0 +1,1 @@
+lar[50281]=`<font color="purple">[ᾰᾰῐ]</font> <i>c</i>. καθαρεύω HDN GR. <i>Philet. p. 413 Pierson</i> ; A. APHR. <i>Probl. 67, 37</i>.<p><b>Étym</b>. καθάριος.`

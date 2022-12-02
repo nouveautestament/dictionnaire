@@ -1,0 +1,1 @@
+lar[108505]=`<b>χιονο·βόλος, ος, ον</b>, qui répand <i>ou</i> amène la neige, PLUT. <i>M. 182e</i>.<p><b>Étym</b>. χιών, βάλλω.`

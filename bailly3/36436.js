@@ -1,0 +1,1 @@
+lar[36436]=`<b>ἐπ·αισχής, ής, ές</b>, honteux, déshonorant, DC. <i>56, 13, 1</i> ; NAZ. <i>3, 1573 Migne</i>.<p><b>Étym</b>. ἐπί, αἶσχος.`

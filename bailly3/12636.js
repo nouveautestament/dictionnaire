@@ -1,0 +1,1 @@
+lar[12636]=`<b>ος, ον :<br>      1</b> coupé à pic, escarpé, M. RUBR. <i>32</i>.<br><b>      2</b> châtré, eunuque, STR. <i>630</i> ; τὸ ἀπόκοπον, PHIL. <i>2, 264,</i> castration.<p><b>Étym</b>. ἀποκόπτω.`

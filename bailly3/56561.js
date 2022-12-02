@@ -1,0 +1,1 @@
+lar[56561]=`<b>κοκκο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font> teint en rouge écarlate, TH. <i>H.P. 3, 7, 5</i> ; EL. <i>N.A. 17, 38</i>.<p><b>Étym</b>. κόκκος, βάπτω.`

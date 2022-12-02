@@ -1,0 +1,1 @@
+lar[1050]=`<b>ἀγχι·κέλευθος, ος, ον</b> <font color="purple">[ῐ]</font> près du chemin, voisin, NONN. <i>D. 40, 328</i>.`

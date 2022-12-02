@@ -1,0 +1,1 @@
+lar[23386]=`<b>δαφνο·πώλης, ου (ὁ)</b> marchand de laurier, <i>ép. com. d’Apollon,</i> AR. (HSCH.).<p><b>Étym</b>. δάφνη, πωλέω.`

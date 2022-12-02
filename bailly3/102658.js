@@ -1,0 +1,1 @@
+lar[102658]=`<b>ὑπερ·μισέω-ῶ</b> <font color="purple">[ῑ]</font> haïr au delà de toute mesure, LYS. <i>188, 32</i>.`

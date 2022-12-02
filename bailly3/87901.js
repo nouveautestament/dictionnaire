@@ -1,0 +1,1 @@
+lar[87901]=`<b>πυρι·σπείρητος, ος, ον</b> <font color="purple">[ῠ]</font> couvert <i>ou</i> enveloppé de feu, P. SIL. <i>Ecphr. ag. Soph. 892</i>.<p><b>Étym</b>. π. σπειράω.`

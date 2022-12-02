@@ -1,0 +1,1 @@
+lar[25359]=`<b>εως (ἡ)</b> achèvement d’une affaire, PLAT. <i>Conv. 184c</i>.<p><b>Étym</b>. διαπράσσω.`

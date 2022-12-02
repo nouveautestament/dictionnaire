@@ -1,0 +1,1 @@
+lar[19653]=`<i>att</i>. <b>βήττω</b> <font color="darkgreen">(<i>f</i>. βήξω, <i>ao</i>. ἔβηξα, <i>pf. inus</i>.)</font> tousser, HPC. <i>607, 46, etc.</i> ; HDT. <i>6, 107, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>479, 33</i>.<p>➳ <i>Att</i>. βήττω, PHILÉM. (<i>Com. fr. 4, 42</i>) ; AR. <i>fr. 548 ; Eccl. 56</i> ; XÉN. <i>Cyr. 2, 2, 5</i>.<p><b>Étym</b>. βήξ.`

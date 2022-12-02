@@ -1,0 +1,1 @@
+lar[74564]=`<b>παλιν·δίνητος, ος, ον</b> <font color="purple">[ᾰῑν]</font><br><b>      1</b> qui tournoie sur soi-même, ANTH. <i>9, 73</i>.<br><b>      2</b> qui revient sur ses pas, NONN. <i>Jo. 14, 28</i>.<p><b>Étym</b>. π. δινέω.`

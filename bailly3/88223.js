@@ -1,0 +1,1 @@
+lar[88223]=`<b>(ὁ)</b> Rhatinès, <i>Perse,</i> XÉN. <i>An. 6, 5, 7 ; Cyr. 8, 3, 32 ; Hell. 3, 4, 13</i>.`

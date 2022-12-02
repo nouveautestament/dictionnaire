@@ -1,0 +1,1 @@
+lar[5796]=`<b>α (ὁ)</b> Ampélidas, <i>h</i>. THC. <i>5, 22</i>.<p><b>Étym</b>. <i>patr. de</i> Ἄμπελος.`

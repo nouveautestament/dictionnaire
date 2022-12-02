@@ -1,0 +1,1 @@
+lar[66768]=`<b>η, ον</b>, de couleur sombre, noirâtre, noir, <i>ép. de l’aigle,</i> IL. <i>24, 316</i> ; HÉS. <i>Sc. 134</i>.<p><b>Étym</b>. cf ὄρφνη.`

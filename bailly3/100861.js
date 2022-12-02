@@ -1,0 +1,1 @@
+lar[100861]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> celui qui fait un trou, PLAT. <i>Crat. 388d</i>.<p><b>Étym</b>. τρυπάω.`

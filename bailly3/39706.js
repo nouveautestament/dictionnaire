@@ -1,0 +1,1 @@
+lar[39706]=`<b>ἐπι·χορηγέω-ῶ :<br>      1</b> ajouter comme chorège à ce qui a déjà été fourni, DH. <i>10, 54</i>.<br><b>      2</b> <i>p. ext</i>. fournir en outre, accorder en outre : τινί τι, GAL. <i>3, 5</i> ; SPT. <i>Sir. 25, 22</i> ; NT. <i>2Cor. 9, 10,</i> qqe ch. à qqn.`

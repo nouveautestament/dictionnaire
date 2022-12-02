@@ -1,0 +1,1 @@
+lar[98699]=`<b>τετρα·φάρμακος, ος, ον</b> <font color="purple">[ρᾰμᾰ]</font> composé de quatre ingrédients (cire, suif, poix, résine) PHIL. <i>1, 433</i> ; GAL. <i>De Constit. art. med. 1, 242</i> ; A. TR. <i>1, p. 29, 3, etc</i>.<p><b>Étym</b>. τ. φάρμακον.`

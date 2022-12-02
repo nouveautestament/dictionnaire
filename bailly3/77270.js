@@ -1,0 +1,1 @@
+lar[77270]=`<b>ῶνος (ὁ)</b> Passarôn (<i>vraisemb. près de</i> Dhrasmisius) <i>v. d’Épire,</i> PLUT. <i>Pyrrh. 5</i>.`

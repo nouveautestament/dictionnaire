@@ -1,0 +1,1 @@
+lar[655]=`<b>ἀγκυλό·κωλος, ος, ον</b> <font color="purple">[ῠ]</font> aux membres tors, ARCHESTR. (ATH. <i>320a</i>).<p><b>Étym</b>. ἀ. κῶλον.`

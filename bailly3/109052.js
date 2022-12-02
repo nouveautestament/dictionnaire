@@ -1,0 +1,1 @@
+lar[109052]=`<b>ωνος (ὁ)</b> Kromôn, <i>Messénien,</i> THC. <i>3, 98</i>.`

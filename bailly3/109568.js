@@ -1,0 +1,1 @@
+lar[109568]=`<b>ίτιδος</b>, <i>acc</i>. ιν <font color="purple">[ῑῐδ]</font> qui se plaît dans le sable, ARCHESTR. (ATH. <i>326f</i>).<p><b>Étym</b>. ψάμμος.`

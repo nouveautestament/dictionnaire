@@ -1,0 +1,1 @@
+lar[97634]=`<font color="purple">[τᾰτῑ]</font> monter à cheval à la façon des cavaliers Tarentins, E. BYZ.<p><b>Étym</b>. Ταραντῖνος.`

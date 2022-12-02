@@ -1,0 +1,1 @@
+lar[100108]=`<b>τρι·άρμενος, ος, ον</b>, à trois voiles <i>ou</i> à trois mâts, LUC. <i>Nav. 14, etc</i>.<p><b>Étym</b>. τρεῖς, *ἄρω.`

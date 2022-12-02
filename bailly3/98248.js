@@ -1,0 +1,1 @@
+lar[98248]=`<b>ας (ἡ)</b> ferme des impôts, perception des impositions, DÉM. <i>568, 7</i>.<p><b>Étym</b>. τελώνης.`

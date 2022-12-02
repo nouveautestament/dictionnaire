@@ -1,0 +1,1 @@
+lar[108956]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> besoin, indigence, pauvreté, TYRT. <i>7, 8</i> ; THGN. <i>389, 394</i> ; SOPH. <i>fr. 658, etc</i>.<p><b>Étym</b>. χράομαι, <i>v</i>. χράω³.`

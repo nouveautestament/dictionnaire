@@ -1,0 +1,1 @@
+lar[30230]=`<font color="darkgreen">(<i>3 sg. ao</i>. εἰδήνατο)</font> ressembler à, <i>dat</i>. NIC. <i>Al. 613</i>.<p><b>Étym</b>. εἶδος.`

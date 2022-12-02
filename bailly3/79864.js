@@ -1,0 +1,1 @@
+lar[79864]=`<b>ας (ἡ)</b> = <i>lat</i>. Petelia, Pétèlia (<i>auj</i>. Petilia Policastro <i>ou, sel. d’autres,</i> Strongoli) <i>v. de Lucanie,</i> PLUT. <i>Marc. 29</i>.`

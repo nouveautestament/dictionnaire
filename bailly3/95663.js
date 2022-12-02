@@ -1,0 +1,1 @@
+lar[95663]=`<b>συν·επιπλέκω</b>, enlacer étroitement, ANTH. <i>4, 2, 13 ; au pass</i>. être étroitement enlacé : ἀλλήλοις, les uns aux autres, AFRIC. (EUS. <i>H.E. 1, 7</i>).`

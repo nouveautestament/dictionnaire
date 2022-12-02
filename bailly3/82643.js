@@ -1,0 +1,1 @@
+lar[82643]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> pompile (<i>Gasterosteus ductor</i> L. ; <i>propr</i>. conducteur, guide ; <i>cf</i>. ἡγεμών) <i>poisson,</i> ATH. <i>282c, etc</i>.`

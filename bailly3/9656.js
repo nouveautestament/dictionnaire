@@ -1,0 +1,1 @@
+lar[9656]=`<b>ἀντεπικράτεια, ας (ἡ)</b> <font color="purple">[ᾰτ]</font> domination mutuelle, STOB. <i>Ecl. 1, 416</i>.<p><b>Étym</b>. ἀντεπικρατέω.`

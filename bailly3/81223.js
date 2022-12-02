@@ -1,0 +1,1 @@
+lar[81223]=`<b>ή, όν :<br>      1</b> étranglé, NT. <i>Ap. 15, 20, etc.</i><br><b>      2</b> cuit dans un vase bien clos, PHILOX. (ATH. <i>147b</i>) ; ANTIPH. (<i>Com. fr. 3, 3, 26) etc</i>.<p><b>Étym</b>. πνίγω.`

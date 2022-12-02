@@ -1,0 +1,1 @@
+lar[92704]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f.</i> :<br><b>      1</b> (στέλλω, équiper) <i>litt</i>. ce qui équipe, <i>d’où subst</i>. ἡ στ. XÉN. <i>An. 3, 3, 20,</i> pièce de l’armure.<br><b>      2</b> qui émigre, voyageur, <i>en parl. d’oiseaux,</i> EUR. <i>Hel. 1480</i>.<p><b>Étym</b>. στέλλω.`

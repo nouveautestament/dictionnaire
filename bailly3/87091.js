@@ -1,0 +1,1 @@
+lar[87091]=`<b>α, ον</b> <font color="purple">[ῠᾰ]</font> qui concerne les prytanes, ARSTD. <i>t. 1, 342</i>.<p><b>Étym</b>. πρύτανις.`

@@ -1,0 +1,1 @@
+lar[9452]=`<b>ἀντ·ανακράζω</b>, répondre par des cris, APP. <i>Mithr. 26</i>.`

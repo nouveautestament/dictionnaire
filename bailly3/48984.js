@@ -1,0 +1,1 @@
+lar[48984]=`<b>ου (ἡ)</b> Imbros (<i>auj</i>. Gökçeada <i>ou</i> Ímvros) <i>î. sur la côte de Thrace, avec une v. du même nom,</i> IL. <i>13, 33 ; 14, 281, etc.</i> ; HDT. <i>5, 26 ; 6, 41</i>.`

@@ -1,0 +1,1 @@
+lar[64411]=`<b>ης (ἡ)</b> Méroè (<i>auj</i>. Meruwi), <i>î. et v. d’Éthiopie,</i> HDT. <i>2, 29</i>.`

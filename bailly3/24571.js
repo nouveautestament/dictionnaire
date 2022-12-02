@@ -1,0 +1,1 @@
+lar[24571]=`<b>οῦ (ὁ)</b> <font color="purple">[ρᾰ]</font> combat avec la lance, M. ANT. <i>7, 3</i>.<p><b>Étym</b>. διαδορατίζω.`

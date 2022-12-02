@@ -1,0 +1,1 @@
+lar[14375]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> petit vase d’argent, ARR. <i>Epict. 3, 26, 36</i>.<p><b>Étym</b>. ἀργύρωμα.`

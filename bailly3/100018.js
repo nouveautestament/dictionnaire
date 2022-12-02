@@ -1,0 +1,1 @@
+lar[100018]=`<i>vb. de</i> τρέπω, AR. <i>Eq. 72</i> ; PLAT. <i>Rsp. 365c</i>.`

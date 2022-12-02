@@ -1,0 +1,1 @@
+lar[56686]=`<b>κολό·κυμα, ατος (τὸ)</b> <font color="purple">[ῡ]</font> vague allongée, longue lame, <i>signe de tempête,</i> AR. <i>Eq. 692</i>.<p><b>Étym</b>. κόλος, κῦμα.`

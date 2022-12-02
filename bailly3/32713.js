@@ -1,0 +1,1 @@
+lar[32713]=`<b>ἐλευθερό·παις</b>, <i>gén</i>. <b>παιδος (ὁ, ἡ)</b> enfant né de parents libres, A. PL. <i>359</i>.`

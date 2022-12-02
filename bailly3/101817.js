@@ -1,0 +1,1 @@
+lar[101817]=`<b>ή, όν</b>, digne d’être chanté <i>ou</i> célébré, PD. <i>P. 10, 31 ; 11, 93</i>.<p><b>Étym</b>. ὑμνέω.`

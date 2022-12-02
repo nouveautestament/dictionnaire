@@ -1,0 +1,1 @@
+lar[61753]=`<b>ου (ὁ)</b> Lokhos, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

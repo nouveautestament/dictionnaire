@@ -1,0 +1,1 @@
+lar[109]=`<b>ου (ὁ)</b> <font color="purple">[λᾰ]</font> Ablabios :<br><b>      1</b> <i>médecin,</i> ANTH. <i>7, 559</i>.<br><b>      2</b> <i>poète d’épigrammes de l’Anthologie</i>.<p><b>Étym</b>. ἀβλαβής.`

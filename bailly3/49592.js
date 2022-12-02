@@ -1,0 +1,1 @@
+lar[49592]=`(<i>seul. prés</i>. LYC. <i>574 et imparf</i>. ἴσκον, OD. <i>19, 203 ; 22, 31</i> ; A.RH. <i>2, 240, etc.</i> ; THCR. <i>Idyl. 22, 167</i>) dire.<p><b>Étym</b>. <i>v</i>. ἴσκω¹.`

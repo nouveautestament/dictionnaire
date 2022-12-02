@@ -1,0 +1,1 @@
+lar[6408]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire d’Amphitropè (Ἀμφιτροπή) <i>dème de la tribu Antiokhide,</i> LYS. <i>135, 1</i>.`

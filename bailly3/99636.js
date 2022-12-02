@@ -1,0 +1,1 @@
+lar[99636]=`<b>τοπο·γραφέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> faire la description d’un lieu, d’un pays, ATH. <i>16d.</i><br><b>      2</b> <i>particul</i>. dessiner <i>ou</i> indiquer la situation et les limites d’un pays, STR. <i>583</i>.<p><b>Étym</b>. τόπος, -γράφος <i>de</i> γράφω.`

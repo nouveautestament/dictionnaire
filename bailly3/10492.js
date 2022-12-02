@@ -1,0 +1,1 @@
+lar[10492]=`<b>ατος (τὸ)</b> rempart élevé contre, THC. <i>2, 77</i> ; ATH. <i>602d</i>.<p><b>Étym</b>. ἀντιτειχίζω.`

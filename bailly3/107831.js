@@ -1,0 +1,1 @@
+lar[107831]=`<b>ή, όν</b>, à ouverture béante, à large ouverture, ἐκ χανδῆς κύλικος POLÉM. (ATH. <i>463d</i>) ; ANTH. <i>App. 361</i>.<p><b>Étym</b>. χαίνω.`

@@ -1,0 +1,1 @@
+lar[101455]=`<b>ὑδατ·ηγός, ός, όν</b> <font color="purple">[ῠᾰ]</font> qui porte, conduit <i>ou</i> charrie de l’eau, CALL. <i>fr. 42</i>.<p><b>Étym</b>. ὕδ. ἄγω.`

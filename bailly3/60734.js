@@ -1,0 +1,1 @@
+lar[60734]=`<b>ου (ὁ)</b> Lèthæos :<br><b>      1</b> <i>fl. de Crète (auj</i>. Lithéos) Q. SM. <i>10, 82, etc.</i><br><b>      2</b> <i>affl. du Méandre,</i> ANACR. (SCH.-HÉPH. <i>p. 124).</i><p><b>Étym</b>. λήθη.`

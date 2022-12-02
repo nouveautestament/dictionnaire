@@ -1,0 +1,1 @@
+lar[96403]=`<b>συν·υπακούω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> écouter <i>ou</i> obéir ensemble : τινί, POL. <i>5, 56, 9,</i> à qqn ; πρός τι, POL. <i>1, 66, 7,</i> pour qqe ch. ; <i>abs</i>. DS. <i>18, 19</i>.<br><b>      2</b> sous-entendre en même temps, STOB. <i>Ecl. 2, 120 ; p. suite,</i> comprendre en même temps à demi-mot, PHALAR. <i>Ep. 131</i>.`

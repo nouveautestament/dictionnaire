@@ -1,0 +1,1 @@
+lar[88481]=`<b>ου (ὁ)</b> Rhèsos :<br><b>      1</b> <i>fl. de Troade,</i> IL. <i>12, 20</i> ; HÉS. <i>Th. 340</i> ; STR. <i>554, etc.</i><br><b>      2</b> <i>roi de Thrace,</i> IL. <i>10, 435, 519</i> ; EUR. <i>Rhes. arg. etc</i>.`

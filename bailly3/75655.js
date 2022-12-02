@@ -1,0 +1,1 @@
+lar[75655]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> encouragement, MUS. (PAUS. <i>10, 9, 11</i>) ; A.RH. <i>2, 324</i>.<br><b>      2</b> action de tromper (la fatigue, la faim, <i>etc</i>.) POÈT. (ORION <i>p. 127).</i><p><b>Étym</b>. παράφημι.`

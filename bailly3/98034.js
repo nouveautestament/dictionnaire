@@ -1,0 +1,1 @@
+lar[98034]=`<b>ας (ἡ) :<br>      1</b> construction de remparts, DS. <i>13, 35</i> ; PLUT. <i>M. 851a.</i><br><b>      2</b> <i>p. suite,</i> structure d’une fortification : τ. πριονωτή, PHIL. BYZ. fortification du système étoilé ; τ. λοξά, PHIL. BYZ. fortification biaise (à bastions triangulaires).<p><b>Étym</b>. τειχοποιός.`

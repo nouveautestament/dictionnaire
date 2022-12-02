@@ -1,0 +1,1 @@
+lar[85460]=`<b>προσ·δωρέομαι-οῦμαι</b>, faire en outre un présent, DS. <i>17, 38</i>.`

@@ -1,0 +1,1 @@
+lar[45226]=`<b>ἡλιο·καής, ής, ές</b> <font color="purple">[ᾱ]</font> brûlé par le soleil, LUC. <i>Lex. 2</i>.<p><b>Étym</b>. ἥ. καίω.`

@@ -1,0 +1,1 @@
+lar[85458]=`<b>ῆς (ἡ)</b> action de courir vers, PTOL. <i>Tetr. 3, p. 30</i>.<p><b>Étym</b>. προσδραμεῖν, <i>inf. ao.2 de</i> προστρέχω.`

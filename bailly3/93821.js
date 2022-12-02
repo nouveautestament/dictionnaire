@@ -1,0 +1,1 @@
+lar[93821]=`<b>συμ·βαρβαρίζω</b> <font color="purple">[ᾰρι]</font> imiter les mœurs <i>ou</i> le langage des barbares, BAS.`

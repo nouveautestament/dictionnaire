@@ -1,0 +1,1 @@
+lar[85940]=`<b>προσ·καταδικάζομαι</b> <font color="purple">[ῐ]</font> condamner en outre, DIN. (POLL. <i>8, 24</i>).`

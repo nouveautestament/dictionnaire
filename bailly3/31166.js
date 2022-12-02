@@ -1,0 +1,1 @@
+lar[31166]=`<b>εως (ἡ)</b> action de recevoir par succession, HDT. <i>7, 3</i>.<p><b>Étym</b>. ἐκδέχομαι.`

@@ -1,0 +1,1 @@
+lar[10523]=`<b>ἀντι·τρίβω</b>, broyer à son tour <i>ou</i> en retour, PLOT. <i>Enn. 6, 1, 20</i>.`

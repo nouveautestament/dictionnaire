@@ -1,0 +1,1 @@
+lar[20072]=`<b>ης (ἡ)</b> Bœbè :<br><b>      1</b> <i>v. de Thessalie,</i> IL. <i>2, 712</i>.<br><b>      2</b> <i>v. de Crète,</i> NONN. <i>D. 13, 236</i>.`

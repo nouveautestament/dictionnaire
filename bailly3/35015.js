@@ -1,0 +1,1 @@
+lar[35015]=`<b>ἐνταφιεύω</b> <font color="purple">[ᾰ]</font> ensevelir, CHARIS. (<i>Keil Gramm. lat. 1, 565).</i><p><b>Étym</b>. ἐντάφιος.`

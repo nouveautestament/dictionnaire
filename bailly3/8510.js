@@ -1,0 +1,1 @@
+lar[8510]=`<b>ἀν·επίτευκτος, ος</b>, qui ne touche pas le but, sans succès, PTOL. <i>Tetr. 157</i>.<p><b>Étym</b>. ἀν-, ἐπιτυγχάνω.`

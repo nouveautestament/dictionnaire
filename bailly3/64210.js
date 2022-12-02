@@ -1,0 +1,1 @@
+lar[64210]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. μεμηλώς, <i>v</i>. μέλω.`

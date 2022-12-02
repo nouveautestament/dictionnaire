@@ -1,0 +1,1 @@
+lar[81208]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑᾰ]</font> démon incube, <i>d’où</i> cauchemar, THÉMISON (P. ÉG. <i>3, 15).</i><p><b>Étym</b>. πνίγω.`

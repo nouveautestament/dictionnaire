@@ -1,0 +1,1 @@
+lar[46867]=`<b>ίδος (ἡ)</b> <font color="purple">[ρᾰ]</font> petite servante, PLAT. <i>Leg. 808a</i>.<p><b>Étym</b>. θεράπαινα.`

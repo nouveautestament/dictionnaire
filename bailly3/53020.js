@@ -1,0 +1,1 @@
+lar[53020]=`<b>κατα·πειράζω :<br>      1</b> faire une tentative sur, chercher (à obtenir, à connaître, <i>etc.) acc</i>. LYS. <i>186, 29</i> ; SPT. <i>2Macc. 13, 18, etc.</i><br><b>      2</b> <i>particul. avec idée d’hostilité,</i> s’essayer contre, s’attaquer à, <i>gén</i>. POL. <i>4, 11, 6, etc</i>.`

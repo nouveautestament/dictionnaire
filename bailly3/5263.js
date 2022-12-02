@@ -1,0 +1,1 @@
+lar[5263]=`<b>ου (τὸ)</b> <font color="purple">[ᾰμ]</font> <i>c</i>. ἁμαρτία, ESCHL. <i>Pers. 676, Ag. 537 dout</i>.`

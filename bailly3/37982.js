@@ -1,0 +1,1 @@
+lar[37982]=`<b>εως (ἡ)</b> insolence, HERMOG.<p><b>Étym</b>. ἐπικαυχάομαι.`

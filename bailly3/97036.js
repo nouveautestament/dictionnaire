@@ -1,0 +1,1 @@
+lar[97036]=`<b>σχηματό·δεσμος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de ligature, ORIB. <i>p. 50 Mai</i>.<p><b>Étym</b>. σχῆμα, δεσμός.`

@@ -1,0 +1,1 @@
+lar[47718]=`<b>ος, ον</b> <font color="purple">[ῑᾰ]</font> de Sicile, ANTH. <i>7, 714</i>.<p><b>Étym</b>. <i>v</i>. Θρινακίη.`

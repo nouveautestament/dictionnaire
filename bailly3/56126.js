@@ -1,0 +1,1 @@
+lar[56126]=`<b>ων (οἱ)</b> habitants de Clusium, PLUT. <i>Num. 12, Cam. 17</i>.<p><b>Étym</b>. Κλούσιον.`

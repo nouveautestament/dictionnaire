@@ -1,0 +1,1 @@
+lar[4410]=`<b>Ἁλι·άκμων, ονος (ὁ)</b> Haliakmôn :<br><b>      1</b> <i>fl. de Piérie (auj</i>. Aliákmonas) HDT. <i>7, 127, etc.</i><br><b>      2</b> <i>dieu de ce fleuve,</i> HÉS. <i>Th. 341</i>.<br><b>      3</b> <i>n. d’h</i>. Ps.-PLUT. <i>Fluv. 11, 4</i>.`

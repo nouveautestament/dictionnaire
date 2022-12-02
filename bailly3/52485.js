@@ -1,0 +1,1 @@
+lar[52485]=`<b>κατά·καρπος, ος, ον</b>, abondant en fruits, fertile, ARISTOD. (ATH. <i>495f</i>) ; SPT. <i>Ps. 51, 8 ; Hos. 14, 7</i>.<p><b>Étym</b>. κ. καρπός.`

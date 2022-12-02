@@ -1,0 +1,1 @@
+lar[89663]=`<b>(ὁ)</b> Seiramnès, <i>Perse,</i> PLUT. <i>Reg. apophth. proœm. el. 722</i>.`

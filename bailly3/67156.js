@@ -1,0 +1,1 @@
+lar[67156]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. Μύνης SOPH. (CHŒROB. <i>Bkk. An. p. 1399</i>).`

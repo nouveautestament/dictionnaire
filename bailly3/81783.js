@@ -1,0 +1,1 @@
+lar[81783]=`<b>πολύ·γελως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui aime les jeux et les ris, riant, PLUT. <i>M. 552a</i>.<p><b>Étym</b>. π. γέλως.`

@@ -1,0 +1,1 @@
+lar[32957]=`<b>ἐλ·λιμενικός, ή, όν</b> <font color="purple">[λῐ]</font> qui concerne le mouillage : τὸ ἐλλιμενικόν, PLAT. <i>Rsp. 425d</i>, droit de mouillage dans un port.<p><b>Étym</b>. ἐν, λιμήν.`

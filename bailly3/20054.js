@@ -1,0 +1,1 @@
+lar[20054]=`<b>ιδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. qui sert à aiguillonner les bœufs, A. PL. <i>200</i>.<p><b>Étym</b>. <i>fém. de</i> βοηλάτης.`

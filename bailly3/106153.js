@@ -1,0 +1,1 @@
+lar[106153]=`<b>φιλο·τοιοῦτος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime telle <i>ou</i> telle chose, ARSTT. <i>Nic. 1, 8, 10 ; 3, 11, 4 ; 4, 4, 4</i>.`

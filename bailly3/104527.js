@@ -1,0 +1,1 @@
+lar[104527]=`<b>ὑψί·πορος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui gravit <i>ou</i> traverse les hauteurs, NONN. <i>Jo. 1, 132</i>.<br><b>      2</b> qui traverse le haut des airs, OPP. <i>C. 3, 497</i>.<p>➳ <i>Gén. sg. épq</i>. -πόροιο, NONN. <i>l. c</i>.<p><b>Étym</b>. ὕ. πορεύομαι.`

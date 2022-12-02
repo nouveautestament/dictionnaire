@@ -1,0 +1,1 @@
+lar[67249]=`<b>μυριο·μακαριότης, ητος (ἡ)</b> <font color="purple">[ῡᾰᾰ]</font> félicité infinie, CHRYS. <i>3, 35</i>.<p><b>Étym</b>. μ. μακαριότης.`

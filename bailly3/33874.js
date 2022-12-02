@@ -1,0 +1,1 @@
+lar[33874]=`<b>ἐν·αναστρέφομαι</b> <font color="darkgreen">(<i>f</i>. -στραφήσομαι)</font> <font color="purple">[ᾰν]</font> se mêler à, converser avec, <i>dat</i>. ARISTOX. (STOB. <i>Fl. 43, 49</i>).`

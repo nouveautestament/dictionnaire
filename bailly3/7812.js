@@ -1,0 +1,1 @@
+lar[7812]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> représentation, NAZ. <i>1, 1076 Migne</i>.`

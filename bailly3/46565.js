@@ -1,0 +1,1 @@
+lar[46565]=`juger, punir, <i>d’où au moy. (part. ao</i>. θεμισσάμενος) régler d’après la justice, PD. <i>P. 4, 250</i>.<p><b>Étym</b>. θέμις.`

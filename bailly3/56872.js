@@ -1,0 +1,1 @@
+lar[56872]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱμ]</font><br><b>      1</b> enduit de chaux, HPC. <i>175, 4</i> ; ARSTT. <i>G.A. 1, 19 ; Probl. 11, 7</i> ; TH. <i>C.P. 4, 16, 1 ; particul</i>. crépissage d’un mur, DÉM. <i>175, 4</i>.<br><b>      2</b> pavé en mosaïque, HÉGÉSANDRE (ATH. <i>584f</i>).<p>➳ <i>Ion</i>. κονίημα, HPC. <i>l. c</i>.<p><b>Étym</b>. κονιάω.`

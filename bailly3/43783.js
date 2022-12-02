@@ -1,0 +1,1 @@
+lar[43783]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font> agrément, grâce, SIMPL. <i>Epict. p. 280</i>.<p><b>Étym</b>. εὐχαρής.`

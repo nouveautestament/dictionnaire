@@ -1,0 +1,1 @@
+lar[25500]=`<b>δια·σάττω</b> <font color="darkgreen">(<i>f</i>. -σάξω, <i>etc</i>.)</font> bourrer de, <i>dat</i>. GAL. <i>2, 13 ; abs</i>. ARCHIG. (GAL. <i>8, 156) ; pass</i>. διασεσάχθαι τινός, MACH. (ATH. <i>244c</i>) ; GEOP. <i>19, 9, 5, ou</i> τινί, RUF. (ORIB. <i>2, 208, 8 B.-Dar</i>.) être bourré de qqe ch. (d’anchois, <i>etc</i>.).`

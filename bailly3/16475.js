@@ -1,0 +1,1 @@
+lar[16475]=`<b>ἀ·συμφωνέω-ῶ</b>, être en désaccord avec, <i>dat</i>. PLOT. <i>Enn. 1, 14, 1</i>.<p><b>Étym</b>. ἀσύμφωνος.`

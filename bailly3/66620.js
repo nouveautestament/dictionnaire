@@ -1,0 +1,1 @@
+lar[66620]=`<b>*μον·ορύχης</b>, <i>dor</i>. <b>μουν·ορύχας</b>, <i>gén</i>. <b>α</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. qui creuse avec une seule pointe, <i>en parl. d’une pioche,</i> ANTH. <i>6, 297</i>.<p><b>Étym</b>. μόνος, ὀρύσσω.`

@@ -1,0 +1,1 @@
+lar[44498]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> <i>c</i>. ζεφύριος, ARSTT. <i>Meteor. 2, 6, 13</i> ; TH. <i>H.P. 8, 7, 7</i>.`

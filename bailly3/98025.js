@@ -1,0 +1,1 @@
+lar[98025]=`<b>τειχο·κρατέω-ῶ</b> <font color="purple">[ᾰ]</font> s’emparer des fortifications, de la citadelle (d’une place) POLYEN <i>4, 2, 18</i>.<p><b>Étym</b>. τ. κρατέω.`

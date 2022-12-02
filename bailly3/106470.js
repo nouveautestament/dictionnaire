@@ -1,0 +1,1 @@
+lar[106470]=`<b>εως (ἡ)</b> éruption de pustules, de phlyctènes, HPC. <i>Fract. 765</i> ; GAL. <i>14, 163</i>.<p><b>Étym</b>. φλυκταινόομαι.`

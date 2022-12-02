@@ -1,0 +1,1 @@
+lar[98905]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> fondant, fondu, NAZ. <i>Carm. 11, 160</i>.<p><b>Étym</b>. τήκω.`

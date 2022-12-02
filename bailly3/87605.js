@@ -1,0 +1,1 @@
+lar[87605]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> corde fortement assujettie, SYMM. <i>Ps. 117, 26</i>.<p><b>Étym</b>. πυκάζω.`

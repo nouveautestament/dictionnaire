@@ -1,0 +1,1 @@
+lar[81807]=`<b>πολύ·γουνος, ος, ον</b> <font color="purple">[ῠ]</font> qui a beaucoup de nœuds, NIC. <i>Th. 872</i>.<p><b>Étym</b>. π. γόνυ.`

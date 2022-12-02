@@ -1,0 +1,1 @@
+lar[48238]=`<b>ης (ἡ)</b> <font color="purple">[ᾰν]</font> Ianassa, <i>Néréïde,</i> IL. <i>18, 47</i>.<p><b>Étym</b>. <i>pour</i> *Ϝιϝάνασσα, <i>de</i> ἄνασσα <i>avec redoubl</i>.`

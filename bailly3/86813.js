@@ -1,0 +1,1 @@
+lar[86813]=`<b>πρό·τριτα</b> <font color="purple">[ῐᾰ]</font> <i>adv</i>., trois jours avant, THC. <i>2, 34</i>.<p><b>Étym</b>. π. τρίτος.`

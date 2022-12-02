@@ -1,0 +1,1 @@
+lar[33423]=`<b>ατος (τὸ)</b> <font color="purple">[νᾱ]</font> (<i>dor. c</i>. *ἐμπερόνημα) robe agrafée sur les épaules, THCR. <i>Idyl. 15, 34</i>.<p><b>Étym</b>. ἐμπερονάω.`

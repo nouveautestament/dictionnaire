@@ -1,0 +1,1 @@
+lar[36831]=`<i>vb. de</i> ἐπᾴδω, PLAT. <i>Charm. 158c</i>.`

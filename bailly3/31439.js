@@ -1,0 +1,1 @@
+lar[31439]=`<b>οῦ (ὁ) :<br>      1</b> membre de l’assemblée du peuple, PLAT. <i>Gorg. 452e, Euthyd. 290a, Ap. 25a ;</i> LUC. <i>Tim. 36, etc.</i><br><b>      2</b> orateur dans l’assemblée du peuple, ARSTT. <i>Rhet. 1, 1</i>.<p><b>Étym</b>. ἐκκλησιάζω.`

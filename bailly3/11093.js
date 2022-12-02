@@ -1,0 +1,1 @@
+lar[11093]=`<b>ἀπ·αγροικίζομαι</b>, devenir grossier, NAZ. <i>1, 1004c Migne</i>.`

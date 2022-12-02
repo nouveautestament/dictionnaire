@@ -1,0 +1,1 @@
+lar[90310]=`<b>ης (ἡ) :<br>      1</b> blatte, <i>insecte,</i> ARSTT. <i>H.A. 8, 17, 8</i> ; EL. <i>N.A. 1, 37</i> ; LUC. <i>Gall. 31, etc.</i><br><b>      2</b> mite <i>qui ronge les livres,</i> ANTH. <i>9, 251</i>.<p><b>Étym</b>. <i>cf</i>. τίλφη.`

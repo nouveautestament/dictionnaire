@@ -1,0 +1,1 @@
+lar[15764]=`<b>ῶν</b>, <i>ion</i>. <b>-έων (οἱ)</b> les Asbystes, <i>pple de Cyrénaïque,</i> HDT. LYC.`

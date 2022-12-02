@@ -1,0 +1,1 @@
+lar[53140]=`<b>εως (ἡ)</b> prostitution, PLUT. <i>Tim. 13</i>.<p><b>Étym</b>. καταπορνεύω.`

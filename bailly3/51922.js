@@ -1,0 +1,1 @@
+lar[51922]=`<b>ου (ὁ)</b> Karrhôtos, <i>Cyrénéen,</i> PD. <i>P. 5, 34</i>.`

@@ -1,0 +1,1 @@
+lar[84471]=`<b>προ·καταλέγω</b> <font color="darkgreen">(<i>f</i>. -λέξω, <i>part. pf. pass</i>. -καταλελεγμένος <i>ou</i> -κατειλεγμένος)</font> raconter <i>ou</i> exposer auparavant, HDT. <i>4, 175</i> ; ATH. <i>119a</i>.`

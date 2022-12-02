@@ -1,0 +1,1 @@
+lar[43474]=`<b>εὔ·στιπτος, ος, ον</b>, bien foulé, <i>en parl. d’une étoffe,</i> A.RH. <i>2, 30</i>.<p><b>Étym</b>. εὖ, στείβω.`

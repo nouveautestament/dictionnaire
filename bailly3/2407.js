@@ -1,0 +1,1 @@
+lar[2407]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Médée, <i>femme d’Æètès,</i> DP. <i>490</i>.`

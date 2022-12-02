@@ -1,0 +1,1 @@
+lar[25077]=`<b>δια·μοτόω-ῶ</b>, remplir de charpie, <i>acc</i>. HPC. <i>V.C. 907</i> ; P. ÉG. <i>98, 94 Briau</i>.`

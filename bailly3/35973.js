@@ -1,0 +1,1 @@
+lar[35973]=`<b>ἐξ·ηττάομαι-ῶμαι</b>, être inférieur à, être vaincu par, <i>gén</i>. PLUT. <i>Alex. 14</i> ; ARR. <i>An. 7, 12, 9</i>.`

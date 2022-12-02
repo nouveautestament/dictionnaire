@@ -1,0 +1,1 @@
+lar[53265]=`<b>ῆς (ἡ)</b> cours d’un fleuve, ES. <i>145 Halm</i>.<p><b>Étym</b>. καταρρέω.`

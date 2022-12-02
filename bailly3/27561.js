@@ -1,0 +1,1 @@
+lar[27561]=`<b>ή, όν</b>, qui forme le jugement, PLAT. <i>Soph. 223b</i>.<p><b>Étym</b>. δόξα, παιδεύω.`

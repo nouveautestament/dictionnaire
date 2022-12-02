@@ -1,0 +1,1 @@
+lar[13132]=`<b>ἀπο·πρεσβεύω</b>, rapporter comme réponse d’une ambassade, <i>acc</i>. PLAT. <i>Leg. 941a ; abs</i>. rendre compte d’une ambassade, d’une mission, POL. <i>7, 25</i> ; PLUT. <i>M. 815d</i>.`

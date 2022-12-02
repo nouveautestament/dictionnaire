@@ -1,0 +1,1 @@
+lar[19040]=`<b>οῦ (ὁ)</b> immersion, <i>d’où</i> :<br><b>      1</b> ablution, NT. <i>Marc. 7, 4, 8 ; Hebr. 9, 10</i>.<br><b>      2</b> baptême, JOS. <i>A.J. 18, 5, 2</i>.<p><b>Étym</b>. βαπτίζω.`

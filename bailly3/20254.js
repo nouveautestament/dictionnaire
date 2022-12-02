@@ -1,0 +1,1 @@
+lar[20254]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> nourri en basse-cour, NIC. <i>Al. 228</i>.<p><b>Étym</b>. βοσκάς.`

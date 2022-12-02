@@ -1,0 +1,1 @@
+lar[15873]=`<b>ίδος</b> <font color="purple">[ᾱῐδ]</font> <i>adj. f</i>. d’Asie, ESCHL. <i>Pers. 270 ; Suppl. 547</i> ; A.RH.<p><b>Étym</b>. Ἀσία.`

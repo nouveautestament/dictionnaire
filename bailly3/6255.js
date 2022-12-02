@@ -1,0 +1,1 @@
+lar[6255]=`<b>ος, ον</b> <font color="purple">[μᾰ]</font> digne d’être disputé, ANTH. <i>7, 705</i>.<p><b>Étym</b>. ἀμφιμάχομαι.`

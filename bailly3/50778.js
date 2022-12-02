@@ -1,0 +1,1 @@
+lar[50778]=`<i>ion</i>. <b>κακομητίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> mauvais dessein, fourberie, MAN. <i>2, 308</i>.<p><b>Étym</b>. κακομήτης.`

@@ -1,0 +1,1 @@
+lar[79865]=`<b>πετηλίας καρκίνος (ὁ)</b> sorte de crabe à pinces allongées, EL. <i>N.A. 7, 30 (corr. p</i>. πηλαῖοι).<p><b>Étym</b>. πέτηλος.`

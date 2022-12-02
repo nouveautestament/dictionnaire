@@ -1,0 +1,1 @@
+lar[31683]=`<b>ἐκ·μισέω-ῶ</b> <font color="purple">[μῑ]</font> détester, PLUT. <i>Phil. 12</i>.`

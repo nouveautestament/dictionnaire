@@ -1,0 +1,1 @@
+lar[97182]=`<b>σωματο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui a la forme <i>ou</i> la consistance d’un corps, corporel, matériel, PLAT. <i>Phæd. 83d, 86a ;</i> τὸ σ. PLAT. <i>Phæd. 81 b et c,</i> nature corporelle.<br><b>      2</b> qui forme un corps, un ensemble, ARSTT. <i>Rhet. Al. 37, 14 ; Pol. 1, 3, 4</i>.<p><b>Étym</b>. σῶμα, εἶδος.`

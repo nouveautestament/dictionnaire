@@ -1,0 +1,1 @@
+lar[62049]=`<b>λυσί·ποθος, ος, ον</b> <font color="purple">[ῡῐ]</font> qui délivre des regrets <i>ou</i> des désirs, ANTH. <i>5, 269</i>.<p><b>Étym</b>. λ. πόθος.`

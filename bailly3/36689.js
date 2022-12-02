@@ -1,0 +1,1 @@
+lar[36689]=`<b>εως (ἡ)</b> relâchement, ARÉT. <i>Cur. m. acut. 1, 1</i>.<p><b>Étym</b>. ἐπανίημι.`

@@ -1,0 +1,1 @@
+lar[61359]=`<b>λιπό·σκιος, ος, ον</b> <font color="purple">[λῐ]</font> sans ombre, clair, brillant, NONN. <i>D. 2, 93</i>.<p><b>Étym</b>. λ. σκιά.`

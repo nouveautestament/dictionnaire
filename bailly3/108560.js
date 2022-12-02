@@ -1,0 +1,1 @@
+lar[108560]=`<b>ου (ὁ)</b> décombres, débris, ordures, ESCHL. <i>fr. 14</i> ; DÉM. <i>1278, 4 ; 1279, 12</i>.`

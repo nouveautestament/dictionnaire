@@ -1,0 +1,1 @@
+lar[13344]=`<font color="darkgreen">(<i>ao</i>. ἀπεσκότισα)</font> <i>c</i>. ἀποσκοτέω, PLUT. <i>M. 605d</i>.`

@@ -1,0 +1,1 @@
+lar[56440]=`<b>κοιλ·όφθαλμος, ος, ον</b>, qui a les yeux creux et enfoncés, XÉN. <i>Eq. 1, 8</i> ; ARSTT. <i>Physiogn. § 126</i>.<p><b>Étym</b>. κοῖλος, ὀφθαλμός.`

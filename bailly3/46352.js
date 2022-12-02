@@ -1,0 +1,1 @@
+lar[46352]=`s’étonner de, admirer, <i>acc</i>. OD. <i>8, 108</i> ; PD. <i>O. 3, 57</i> ; CALLICRAT. (STOB. <i>Fl. 85, 17).</i><p>➳ <i>Impf. poét</i>. θαύμαινον, HH. <i>Ven. 84. Part. fut. épq</i>. θαυμανέοντες <font color="purple">[ᾰ]</font> OD. <i>8, 108. Pass. prés. 3 pl</i>. θαυμαίνονται, CALLICRAT. <i>l. c</i>.<p><b>Étym</b>. θαῦμα.`

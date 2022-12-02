@@ -1,0 +1,1 @@
+lar[60025]=`<b>λαχανό·πτερος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux ailes en feuilles de laitue, LUC. <i>V.H. 1, 13</i>.<p><b>Étym</b>. λάχανον, πτερόν.`

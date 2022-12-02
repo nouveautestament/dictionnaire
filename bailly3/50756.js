@@ -1,0 +1,1 @@
+lar[50756]=`<b>κακο·κερδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui recherche <i>ou</i> fait des gains honteux, NAZ. <i>4, 121 Migne</i>.<p><b>Étym</b>. κ. κέρδος.`

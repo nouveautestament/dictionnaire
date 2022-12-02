@@ -1,0 +1,1 @@
+lar[63182]=`<font color="purple">[μᾱ]</font> <i>dor. c</i>. μητρυιά.`

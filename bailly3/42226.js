@@ -1,0 +1,1 @@
+lar[42226]=`<b>εὐθυ·γενής, ής, ές</b>, de naissance régulière, NYSS. <i>3, 900b Migne</i>.<p><b>Étym</b>. εὐ. γίγνομαι.`

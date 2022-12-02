@@ -1,0 +1,1 @@
+lar[100455]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui arrive <i>ou</i> se fait le treizième jour, HPC. <i>48, 53</i>.<p><b>Étym</b>. τρισκαιδέκατος.`

@@ -1,0 +1,1 @@
+lar[80415]=`<b>(ὁ)</b> <i>mot égyptien, grec</i> καλὸς κἀγαθός, HDT. <i>2, 143</i>.<p><b>Étym</b>. <i>en copte moderne,</i> romi = <i>lat</i>. vĭr.`

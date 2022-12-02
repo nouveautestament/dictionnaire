@@ -1,0 +1,1 @@
+lar[98390]=`<b>ου (ὁ)</b> Terméros, <i>brigand qui fracassait la tête de ses victimes et qui eut la tête fracassée par Hèraklès,</i> PLUT. <i>Thes. 11</i>.<p><b>Étym</b>. <i>v</i>. Τερμέρειον.`

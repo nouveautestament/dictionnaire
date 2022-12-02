@@ -1,0 +1,1 @@
+lar[10857]=`<b>ἀνώ·ρροπος, ος, ον</b>, qui tend en haut, A. APHR.<p><b>Étym</b>. ἄνω, ῥέπω.`

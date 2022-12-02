@@ -1,0 +1,1 @@
+lar[24073]=`<b>ος, ον</b>, qui occupe le second rang, LYC. <i>204</i>.<p><b>Étym</b>. δ. ἔχω.`

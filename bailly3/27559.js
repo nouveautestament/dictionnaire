@@ -1,0 +1,1 @@
+lar[27559]=`<b>δοξο·μιμητής, οῦ (ὁ)</b> <font color="purple">[ῑ]</font> celui qui imite une chose sans la connaître autrement que par l’imagination, PLAT. <i>Soph. 267e</i>.<p><b>Étym</b>. δόξα, μιμητής.`

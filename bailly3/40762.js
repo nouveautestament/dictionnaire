@@ -1,0 +1,1 @@
+lar[40762]=`<b>ων (οἱ)</b> <font color="purple">[ῠ]</font> Érythines, <i>v. sur la côte de Paphlagonie,</i> IL. <i>2, 855</i> ; A.RH. <i>2, 941</i>.`

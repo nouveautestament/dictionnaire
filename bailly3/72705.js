@@ -1,0 +1,1 @@
+lar[72705]=`<b>ὀρθο·δοξέω-ῶ</b>, penser juste, avoir une opinion saine, ARSTT. <i>Nic. 7, 8, 4</i>.<p><b>Étym</b>. ὀ. δόξα.`

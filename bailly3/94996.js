@@ -1,0 +1,1 @@
+lar[94996]=`<b>συν·άστερος, ος, ον</b>, né sous la même constellation, NAZ. <i>3, 425 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[53093]=`<b>κατα·πλεονάζω</b>, être abondant, abonder, NYSS. <i>1, 21</i>.`

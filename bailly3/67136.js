@@ -1,0 +1,1 @@
+lar[67136]=`<b>ή, όν</b>, aux lèvres tombantes <i>ou</i> épaisses, POLÉM. <i>Physiogn. 1, p. 252</i>.`

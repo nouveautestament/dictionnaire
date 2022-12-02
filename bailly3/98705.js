@@ -1,0 +1,1 @@
+lar[98705]=`<b>τετρά·χειρ, -χειρος</b> (ὁ, ἡ, τὸ) à quatre mains, à quatre bras, ZÉNOB. <i>1, 54</i>.<p><b>Étym</b>. τ. χείρ.`

@@ -1,0 +1,1 @@
+lar[71567]=`<b>ας (ἡ)</b> ressemblance de couleur, ARSTT. <i>Meteor. 1, 5, 5</i>.<p><b>Étym</b>. ὁμοιόχροος.`

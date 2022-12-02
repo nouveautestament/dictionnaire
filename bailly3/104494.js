@@ -1,0 +1,1 @@
+lar[104494]=`<b>ὑψι·κάρηνος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à la tête <i>ou</i> à la cime élevée, IL. <i>12, 132</i> ; HH. <i>Ven. 265</i>.<p><b>Étym</b>. ὕ. κάρηνον.`

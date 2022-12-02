@@ -1,0 +1,1 @@
+lar[9822]=`<b>ἀντι·δέχομαι</b> <font color="darkgreen">(<i>ao</i>. ἀντεδεξάμην)</font> recevoir en échange, ESCHL. <i>Ch. 916</i> ; EUR. <i>I.A. 1222</i>.`

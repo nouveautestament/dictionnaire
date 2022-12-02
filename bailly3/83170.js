@@ -1,0 +1,1 @@
+lar[83170]=`<b>ου (τὸ)</b> sorte de gâteau, ATH. <i>14.57d</i>.`

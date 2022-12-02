@@ -1,0 +1,1 @@
+lar[1981]=`<b>ός, όν</b> <font color="purple">[ῐ]</font> criminel, HLD. <i>8, 9</i>.<p><b>Étym</b>. ἀθέμιτος, ἔργον.`

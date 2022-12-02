@@ -1,0 +1,1 @@
+lar[62361]=`<b>ου (ὁ)</b> le dieu des tempêtes, du mauvais temps, <i>propr</i>. «l’impétueux, le violent », <i>ép. de Zeus, p. opp. à</i> Μειλίχιος, PLUT. <i>M. 458b</i>.<p><b>Étym</b>. μαιμάσσω.`

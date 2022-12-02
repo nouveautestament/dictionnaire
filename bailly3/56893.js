@@ -1,0 +1,1 @@
+lar[56893]=`<i>c</i>. χαῖρε, HIPPON. <i>fr. 64</i>.<p><b>Étym</b>. <i>mot lydien</i>.`

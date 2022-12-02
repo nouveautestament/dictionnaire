@@ -1,0 +1,1 @@
+lar[56878]=`<font color="darkgreen">(<i>pf. pass</i>. κεκόνισμαι, THCR. <i>Idyl. 1, 30 ; pl.q.pf. 3 sg. poét</i>. κεκόνιστο, ANTH. <i>9, 128)</font> c</i>. κονίω.`

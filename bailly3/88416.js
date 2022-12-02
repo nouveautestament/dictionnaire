@@ -1,0 +1,1 @@
+lar[88416]=`<b>α (ὁ)</b> Rhèbas (<i>auj</i>. Riva), <i>fl. de Bithynie,</i> DP. <i>794</i> ; A.RH. <i>2, 349, 652</i>.`

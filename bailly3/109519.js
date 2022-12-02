@@ -1,0 +1,1 @@
+lar[109519]=`<b>ψαλιδό·στομος, ος, ον</b> <font color="purple">[ᾰῐ]</font> dont la bouche est une pince <i>ou</i> est armée de pinces (<i>litt</i>. de ciseaux) <i>ép. du crabe,</i> BATR. <i>297</i>.<p><b>Étym</b>. ψαλίς, στόμα.`

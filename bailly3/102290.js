@@ -1,0 +1,1 @@
+lar[102290]=`<b>ὑπερ·αρέσκω</b> <font color="purple">[ᾰ]</font> plaire au delà de toute mesure, APP. <i>Civ. 2, 1</i>.`

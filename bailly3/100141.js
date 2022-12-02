@@ -1,0 +1,1 @@
+lar[100141]=`<b>τρί·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui est <i>ou</i> s’est marié trois fois, STÉSICH. <i>fr. 74</i> ; THCR. <i>Idyl. 12, 5</i>.<p><b>Étym</b>. τρεῖς, γάμος.`

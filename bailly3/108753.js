@@ -1,0 +1,1 @@
+lar[108753]=`<font color="purple">[ῑ]</font> <i>adj. m</i>. fait de gruau : χ. ἄρτος, TRYPH. (ATH. <i>109c</i>) ; ATH. <i>115d ;</i> SPT. <i>Gen. 40, 16,</i> pain de gruau.<p><b>Étym</b>. χόνδρος.`

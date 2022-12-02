@@ -1,0 +1,1 @@
+lar[85999]=`<b>προσ·καυλέω-ῶ</b>, se développer en tige à côté, HPC. <i>278, 38</i>.<p><b>Étym</b>. π. καυλός.`

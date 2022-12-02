@@ -1,0 +1,1 @@
+lar[97168]=`<b>σωληνο·ειδής, ής, ές</b>, en forme de canal <i>ou</i> de tuyau, DC. <i>49, 30</i> ; PHIL. <i>2, 244</i>.<p><b>Étym</b>. σωλήν, εἶδος.`

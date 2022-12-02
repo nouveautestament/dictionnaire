@@ -1,0 +1,1 @@
+lar[49036]=`<b>Ἰνδο·φόνος, ος, ον</b>, meurtrier des Indiens, NONN. <i>D. 17, 354, etc</i>.<p><b>Étym</b>. Ἰνδός, πεφνεῖν.`

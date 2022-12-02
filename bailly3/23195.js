@@ -1,0 +1,1 @@
+lar[23195]=`<b>ης (ἡ)</b> sorte de laurier d’Alexandrie, DIOSC. <i>4, 147</i>.`

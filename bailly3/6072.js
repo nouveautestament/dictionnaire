@@ -1,0 +1,1 @@
+lar[6072]=`<b>ἀμφι·βράγχια, ων (τὰ)</b> la région des amygdales, HPC. <i>561, 49</i>.`

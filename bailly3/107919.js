@@ -1,0 +1,1 @@
+lar[107919]=`<b>ης (ἡ)</b> fête célébrée à Delphes, PLUT. <i>Qu. gr. 12</i>.`

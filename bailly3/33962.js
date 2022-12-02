@@ -1,0 +1,1 @@
+lar[33962]=`<b>ἐν·απομαραίνομαι</b> <font color="purple">[μᾰ]</font> se flétrir dans, ORIB. <i>2, 237 B.-Dar</i>.`

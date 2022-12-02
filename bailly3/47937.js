@@ -1,0 +1,1 @@
+lar[47937]=`<b>θυμο·μαχέω-ῶ</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> lutter avec animosité, POL. <i>9, 40, 4</i> ; πρός τινα, PLUT. <i>Demetr. 22,</i> contre qqn.<br><b>      2</b> s’irriter, être exaspéré de <i>ou</i> contre : ἐπί τινι, POL. <i>27, 8, 4</i> ; τινι, NT. <i>Ap. 12, 20,</i> contre qqn.<p><b>Étym</b>. θ. μάχομαι.`

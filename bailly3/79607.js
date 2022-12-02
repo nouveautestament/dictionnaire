@@ -1,0 +1,1 @@
+lar[79607]=`<b>περι·φοιτάω-ῶ</b>, se promener <i>ou</i> rôder tout autour, CRAT. (<i>Com. fr. 2, 158</i>).`

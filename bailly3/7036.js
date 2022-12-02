@@ -1,0 +1,1 @@
+lar[7036]=`<b>ἀνα·κυκάω-ῶ</b> <font color="purple">[ῠ]</font> mélanger, AR. <i>Ach. 671, etc</i>.`

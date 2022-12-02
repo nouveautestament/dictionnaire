@@ -1,0 +1,1 @@
+lar[101022]=`<b>τυμβο·χόος, ος, ον</b>, qui verse des libations sur un tombeau, ESCHL. <i>Sept. 1022 ; subst</i>. ὁ τ. ensevelisseur <i>ou</i> fossoyeur, ANTH. <i>8, 200</i>.<p><b>Étym</b>. τύμβος, χέω.`

@@ -1,0 +1,1 @@
+lar[66799]=`<b>ατος (τὸ)</b> marcotte, <i>d’où</i> rejeton, <i>en gén</i>. TH. <i>C.P. 3, 11, 5 ; H.P. 2, 2, 5</i> ; PHIL. <i>1, 606 ; 2, 348, etc.</i> ; SPT. <i>Sap. 4, 3</i>.<p><b>Étym</b>. μοσχεύω.`

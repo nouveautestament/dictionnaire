@@ -1,0 +1,1 @@
+lar[95793]=`faire comprendre, instruire, <i>acc. de pers</i>. SPT. <i>Ps. 118, 27, 34, etc</i>.<p><b>Étym</b>. συνετός.`

@@ -1,0 +1,1 @@
+lar[30332]=`<b>εἰκο·βολέω-ῶ :<br>      1</b> conjecturer, EUR. <i>fr. 905</i> ; AR. <i>fr. 549</i>.<br><b>      2</b> s’exposer à un danger, courir un hasard, POL. (SUID. <i>et Bkk. 39, 25).</i><p><b>Étym</b>. εἰκῇ, -βολος <i>de</i> βάλλω.`

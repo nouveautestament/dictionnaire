@@ -1,0 +1,1 @@
+lar[20458]=`<b>βουλιμιάω-ῶ</b>, <i>f</i>. άσω <font color="purple">[λῑ]</font> souffrir de boulimie, XÉN. <i>An. 4, 5, 7</i> ; AR. <i>Pl. 873</i>.<p><b>Étym</b>. βουλιμία.`

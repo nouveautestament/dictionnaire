@@ -1,0 +1,1 @@
+lar[22415]=`<b>γομφο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> ajusté avec des chevilles, chevillé, AR. <i>Ran. 824</i>.<p><b>Étym</b>. γόμφος, πήγνυμι.`

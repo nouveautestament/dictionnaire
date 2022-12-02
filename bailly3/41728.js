@@ -1,0 +1,1 @@
+lar[41728]=`<b>ου (ὁ)</b> Euboulidès, <i>h</i>. DÉM. <i>43, 10, etc. Baiter-Sauppe</i> ; LUC. <i>Dem. enc. 12, etc</i>.<p>➳ <i>Acc. dor</i>. Εὐβουλίδαν, POL. <i>22, 26</i>.<p><b>Étym</b>. <i>patr. de</i> Εὔβουλος.`

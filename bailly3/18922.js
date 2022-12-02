@@ -1,0 +1,1 @@
+lar[18922]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> pain cuit sous la cendre, <i>mot éléen,</i> ATH. <i>111d</i>.`

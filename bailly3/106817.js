@@ -1,0 +1,1 @@
+lar[106817]=`<b>ορος (ὁ)</b> <font color="purple">[ᾱ]</font> membre d’une même phratrie, AR. <i>Av. 1667, Ran. 419, Eq. 255</i> ; DÉM. <i>1054, 14 ; 1305, 22</i> ; LYS. <i>183, 10</i> ; ARSTT. <i>Pol. 2, 3, 7, etc. ; fig. en parl. d’oiseaux,</i> EL. <i>N.A. 8, 24</i>.<p><b>Étym</b>. <i>cf</i>. φράτηρ.`

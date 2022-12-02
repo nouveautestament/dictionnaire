@@ -1,0 +1,1 @@
+lar[32103]=`<b>άδος (ἡ)</b> groupe de six, PROCL. <i>Plat. Tim. p. 205</i>.<p><b>Étym</b>. ἕκτος.`

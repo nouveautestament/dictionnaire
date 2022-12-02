@@ -1,0 +1,1 @@
+lar[36214]=`<b>ἐξ·όστωσις, εως (ἡ)</b> tumeur des os, exostose, GAL. <i>De tumor. præter nat. 7, 728</i>.<p><b>Étym</b>. ἐξ, ὀστέον.`

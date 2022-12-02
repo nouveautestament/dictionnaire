@@ -1,0 +1,1 @@
+lar[107308]=`<b>φυτηκομέω-ῶ</b> <font color="purple">[ῠ]</font> soigner <i>ou</i> cultiver des plantes, OPP. <i>C. 1, 122 ; 4, 254</i> ; LIB. <i>4, 606, 608</i>.<p><b>Étym</b>. φυτηκόμος.`

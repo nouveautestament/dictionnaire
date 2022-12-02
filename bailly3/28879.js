@@ -1,0 +1,1 @@
+lar[28879]=`<font color="purple">[ῑ]</font> <i>adv</i>., avec crainte du froid, RUF. <i>et</i> AGATHIN. (ORIB. <i>2, 221, 398 B.-Dar</i>.).`

@@ -1,0 +1,1 @@
+lar[50309]=`<b>εως (ἡ)</b> <font color="purple">[κᾰ]</font> action de tâter, ORIB. <i>288 Matthäi</i>.<p><b>Étym</b>. καθάπτω.`

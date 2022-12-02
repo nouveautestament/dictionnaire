@@ -1,0 +1,1 @@
+lar[53728]=`<b>καταχθέω-ῶ</b>, surcharger, accabler sous le poids, <i>acc</i>. JOS. <i>A.J. 18, 6, 7</i>.<p><b>Étym</b>. καταχθής.`

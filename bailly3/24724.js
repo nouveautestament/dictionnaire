@@ -1,0 +1,1 @@
+lar[24724]=`<b>δια·κάμπτω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. διέκαμψεν)</font> se détourner, SPT. <i>4Reg. 4, 34</i>.`

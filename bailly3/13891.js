@@ -1,0 +1,1 @@
+lar[13891]=`<b>ἀ·πρίξ</b> <font color="purple">[α]</font> <i>adv., litt</i>. comme les dents d’une scie, <i>d’où,</i> fermement, sans lâcher prise, <i>avec les verbes marquant l’idée de</i> prendre, saisir, tenir : συλλαμβάνειν, SOPH. <i>Aj. 310</i> ; λαβέσθαι, PLAT. <i>Theæt. 155e ;</i> ἔχειν, THCR. <i>Idyl. 24, 54, etc</i>.<p><b>Étym</b>. <i>p.-ê</i>. ἀ <i>augm</i>. πρίω.`

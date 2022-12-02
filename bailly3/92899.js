@@ -1,0 +1,1 @@
+lar[92899]=`<b>ου (τὸ)</b> instrument de torture, SYMM. <i>Jer. 20, 2</i> ; JOS. <i>Macc. 8</i>.<p><b>Étym</b>. στρεβλόω.`

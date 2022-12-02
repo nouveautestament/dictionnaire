@@ -1,0 +1,1 @@
+lar[73289]=`<b>ὀστολογέω-ῶ</b>, rassembler les ossements d’un mort, IS. <i>48, 22</i>.<p><b>Étym</b>. ὀστολόγος.`

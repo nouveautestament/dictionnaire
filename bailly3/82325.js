@@ -1,0 +1,1 @@
+lar[82325]=`<b>πολυ·ρράθαγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> très sonore, retentissant, OPP. <i>C. 3, 21</i>.<p><b>Étym</b>. π. ῥαθαγέω.`

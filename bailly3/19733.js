@@ -1,0 +1,1 @@
+lar[19733]=`<b>ας (ἡ)</b> <font color="purple">[ῑῡ]</font> Bithynie, <i>province d’Asie Mineure,</i> ARSTT. STR. PLUT. <i>etc</i>.<p><b>Étym</b>. βιθυνός.`

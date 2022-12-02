@@ -1,0 +1,1 @@
+lar[855]=`<font color="purple">[ᾰδ]</font> <i>adv. c</i>. ἀγρόνδε, CALL. <i>fr. 26</i>.`

@@ -1,0 +1,1 @@
+lar[14489]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> Arègonis, <i>mère de Mopsos,</i> ORPH. <i>Arg. 127</i>.`

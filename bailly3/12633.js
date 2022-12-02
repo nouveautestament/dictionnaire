@@ -1,0 +1,1 @@
+lar[12633]=`<b>ἀπο·κομπάζω</b> <font color="darkgreen">(<i>ao</i>. ἀπεκόμπασα)</font> éclater avec bruit, ANTH. <i>6, 54</i>.`

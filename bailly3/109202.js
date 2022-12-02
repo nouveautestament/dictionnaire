@@ -1,0 +1,1 @@
+lar[109202]=`<b>χρυσό·λιθος, ου (ὁ)</b> <font color="purple">[ῡῐ]</font> topaze (<i>litt</i>. pierre d’or) <i>pierre précieuse,</i> DS. <i>2, 52</i> ; SPT. <i>Ex. 28, 20 ; 39, 11</i> ; NT. <i>Apoc. 21, 20</i>.<p><b>Étym</b>. χρ. λίθος.`

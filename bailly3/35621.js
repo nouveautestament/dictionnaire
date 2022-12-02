@@ -1,0 +1,1 @@
+lar[35621]=`<b>εως</b> <font color="purple">[ᾰῠ]</font> action d’épuiser, GAL. <i>Lex. Hipp. 19, 98</i>.<p><b>Étym</b>. ἐξαρύω.`

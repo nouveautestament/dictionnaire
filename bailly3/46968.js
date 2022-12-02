@@ -1,0 +1,1 @@
+lar[46968]=`<b>θερμο·σποδιά</b>, ᾶς (ἡ) cendre chaude, DIOSC. <i>2, 66, 98</i> ; EROT. <i>96, 254</i> ; ARCHIG. (ORIB. <i>2, 162 B.-Dar</i>.) ; GAL. <i>2, 96</i>.<p><b>Étym</b>. θ. σποδός.`

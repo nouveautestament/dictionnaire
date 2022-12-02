@@ -1,0 +1,1 @@
+lar[63739]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> tout jeune adolescent, AR. <i>Ran. 89</i> ; DÉM. <i>539, 23, etc</i>.<p><b>Étym</b>. μεῖραξ.`

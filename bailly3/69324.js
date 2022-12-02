@@ -1,0 +1,1 @@
+lar[69324]=`<b>ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1 <i>intr</i></b>. sans nom, sans gloire, OD. <i>13, 239 ; 14, 182</i> ; ESCHL. <i>Pers. 1002</i> ; SOPH. <i>El. 1084</i>.<br><b>      2 <i>tr</i></b>. dans lequel on ne parle pas de, <i>gén</i>. ANTH. <i>7, 17</i>.<p><b>Étym</b>. νη-, ὄνομα.`

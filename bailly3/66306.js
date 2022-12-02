@@ -1,0 +1,1 @@
+lar[66306]=`<b>μοιρο·γνωμόνιον ὄργανον (τὸ)</b> instrument pour mesurer les degrés, <i>t. de math</i>. PTOL. <i>Math. synt. p. 121</i>.<p><b>Étym</b>. μοῖρα, γνώμων.`

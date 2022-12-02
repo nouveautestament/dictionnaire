@@ -1,0 +1,1 @@
+lar[108952]=`<b>χρηματο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui procure des richesses, de l’argent, AR. <i>Eccl. 442</i> ; XÉN. <i>Œc. 20, 15</i>.<p><b>Étym</b>. χρῆμα, ποιέω.`

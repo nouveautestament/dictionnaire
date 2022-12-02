@@ -1,0 +1,1 @@
+lar[7951]=`<b>ἀνα·ψηφίζω</b>, remettre aux voix pour abroger, faire rapporter un décret, THC. <i>6, 14</i>.<br><b><i>Moy.</i></b> voter de nouveau, PHÉRÉCR. (SUID.).`

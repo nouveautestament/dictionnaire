@@ -1,0 +1,1 @@
+lar[60702]=`<b>ῶν</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. de la tribu Léontide, DÉM. <i>58, 18 Baiter-Sauppe</i>.<p><b>Étym</b>. Λεωντίς.`

@@ -1,0 +1,1 @@
+lar[1619]=`<b>ἀ·έδνωτος, ος, ον</b>, qui ne reçoit pas de dot de son époux, LYC. <i>549</i>.<p><b>Étym</b>. ἀ, ἐδνόω.`

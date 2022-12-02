@@ -1,0 +1,1 @@
+lar[82798]=`<b>ου (ὁ)</b> anneau pour fixer le fer de la lance au bois, IL. <i>6, 320 ; 8, 495</i>.`

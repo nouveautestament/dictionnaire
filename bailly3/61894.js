@@ -1,0 +1,1 @@
+lar[61894]=`<b>ῶν (οἱ)</b> <font color="purple">[ῠ]</font> les Lykomides, <i>ancienne famille sacerdotale en Attique,</i> PLUT. <i>Them. 1</i>.`

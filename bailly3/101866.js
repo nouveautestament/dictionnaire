@@ -1,0 +1,1 @@
+lar[101866]=`<b>ὑπ·άγνυμι</b> <font color="purple">[ῠῡ]</font> briser par-dessous, OPP. <i>H. 4, 653</i>.`

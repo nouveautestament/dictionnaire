@@ -1,0 +1,1 @@
+lar[96250]=`<b>ος, ον :<br>      1</b> uni à, qui s’accorde avec, EUR. <i>Bacch. 161, Hel. 171</i>.<br><b>      2</b> continu, continuel, A. APHR. <i>Probl. 2, 10</i>.<p><b>Étym</b>. συνέχω.`

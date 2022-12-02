@@ -1,0 +1,1 @@
+lar[46886]=`<b>ης (ἡ)</b> Thérapnè, <i>v. de Laconie,</i> PD. <i>P. 11, 95 ; N. 10, 106 ; I. 1, 43</i> ; HDT. <i>6, 61, etc. ; au plur</i>. θεράπναι, ALC. (HARP.) ; ISOCR. <i>218d</i>.`

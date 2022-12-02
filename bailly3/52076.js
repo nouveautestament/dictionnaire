@@ -1,0 +1,1 @@
+lar[52076]=`<b>α, ον</b> <font color="purple">[τᾰ]</font> de châtaigne, DIOSC. <i>Eup. 2, 47</i> ; GAL. <i>6, 431 ; subst</i>. τὸ καστάνειον, châtaigne, AGÉLOCH. (ATH. <i>54b</i>).<p><b>Étym</b>. κάστανον.`

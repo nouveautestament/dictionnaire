@@ -1,0 +1,1 @@
+lar[22018]=`<b>ου (ὁ)</b> Gilgamos, <i>roi de Babylone,</i> EL. <i>N.A. 12, 21</i>.`

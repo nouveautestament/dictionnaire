@@ -1,0 +1,1 @@
+lar[91170]=`<b>ή, όν</b>, né sous la constellation du Scorpion, BAS. <i>1, 129 Migne</i>.<p><b>Étym</b>. σκορπίος.`

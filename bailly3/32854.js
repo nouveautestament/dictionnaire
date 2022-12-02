@@ -1,0 +1,1 @@
+lar[32854]=`<b>ἑλί·χρυσος, ου (ὁ)</b> <font color="purple">[ῡ]</font> hélichryse <i>ou</i> immortelle <i>(Gnaphalium stœchas L.), plante à fleur jaune, sorte de lierre,</i> IBYC. <i>7</i> ; CRAT. (<i>Com. fr. 2, 72 Mein</i>.) ; THCR. <i>Idyl. 2, 78</i>.<p><b>Étym</b>. ἕλιξ, χρυσός.`

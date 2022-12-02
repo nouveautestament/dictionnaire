@@ -1,0 +1,1 @@
+lar[13233]=`<b>εως (ἡ) :<br>      1</b> rupture (d’un abcès), ARÉT. <i>p. 11, 39</i>.<br><b>      2</b> <i>fig</i>. séparation brusque <i>ou</i> violente, JOS. <i>A.J. 19, 3, 1</i>.<p><b>Étym</b>. ἀπορρήγνυμι.`

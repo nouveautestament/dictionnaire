@@ -1,0 +1,1 @@
+lar[51044]=`<b>Καλη·ποδίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>ion</i>. Kalèpodiè, <i>f</i>. ANTH. <i>7, 330</i>.<p><b>Étym</b>. καλός, πούς.`

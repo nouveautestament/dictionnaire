@@ -1,0 +1,1 @@
+lar[38384]=`<b>ἐπι·μειδιάω-ῶ :<br>      1</b> sourire sur, XÉN. <i>Cyr. 2, 2, 16</i> ; A.RH. <i>3, 129</i>.<br><b>      2</b> sourire à, <i>dat</i>. ARR. <i>An. 5, 2, 4</i>.`

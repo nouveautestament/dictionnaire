@@ -1,0 +1,1 @@
+lar[16630]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἀσωμασία JAMBL.`

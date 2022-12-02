@@ -1,0 +1,1 @@
+lar[83778]=`<b>προβατο·κάπηλος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> marchand de moutons, PLUT. <i>Per. 24</i>.`

@@ -1,0 +1,1 @@
+lar[28760]=`<b>δυσ·παράδεκτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>act</i>. qui admet difficilement, <i>gén</i>. CLÉM. <i>Str. 2, 444</i>.<br><b>      2</b> difficile à admettre, BAS. <i>1, 212</i>.<p><b>Étym</b>. δ. παραδέχομαι.`

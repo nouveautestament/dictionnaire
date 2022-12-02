@@ -1,0 +1,1 @@
+lar[1067]=`<b>ἀγχί·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ῐ]</font> qui porte ses pas près de, <i>gén</i>. LYC. <i>318</i>.<p><b>Étym</b>. ἄ. πούς.`

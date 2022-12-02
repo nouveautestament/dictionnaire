@@ -1,0 +1,1 @@
+lar[97501]=`<b>ίδος</b> <font color="purple">[τᾰ]</font> <i>adj. f. c</i>. Ταναγραῖος, CORINN. <i>20, au dat. pl. poét</i>. Ταναγρίδεσσι.`

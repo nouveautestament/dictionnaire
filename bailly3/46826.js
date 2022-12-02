@@ -1,0 +1,1 @@
+lar[46826]=`<b>ός, όν</b>, qui accomplit des actes divins, prêtre, JAMBL. <i>Myst. 21</i>.<p><b>Étym</b>. θ. ἔργον.`

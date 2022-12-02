@@ -1,0 +1,1 @@
+lar[58572]=`<i>adv</i>., d’un mouvement circulaire, PLUT. <i>M. 881f</i>.`

@@ -1,0 +1,1 @@
+lar[103273]=`<b>ὑπο·θράττω</b> (<i>seul. prés. et impf</i>.) troubler <i>ou</i> effrayer qqe peu, PLUT. <i>Pomp. 68, Fab. 2, etc</i>.`

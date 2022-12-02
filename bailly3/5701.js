@@ -1,0 +1,1 @@
+lar[5701]=`<b>ας (ἡ) :<br>      1</b> oubli, pardon, DL. <i>9, 14</i>.<br><b>      2</b> <i>postér</i>. amnistie, PLUT. <i>Cic. 42, Ant. 14</i> ; HDN <i>3, 4, 17, etc. (chez les Att</i>. ἄδεια).<p>➳ <i>Ion</i>. -ίη, DL. <i>l. c</i>.<p><b>Étym</b>. ἄμνηστος.`

@@ -1,0 +1,1 @@
+lar[39838]=`<b>ας (ἡ) :<br>      1</b> abondance de pluies, HPC. <i>Aph. 1247</i> ; STR. <i>500 ; p. opp. à</i> αὐχμός, AR. <i>Nub. 1120</i>.<br><b>      2</b> <i>p. ext</i>. inondation, déluge, grosse pluie ; DÉM. <i>1274, 22, etc.</i> ; JOS. <i>A.J. 8, 3, 1</i> ; CLÉM. <i>1, 825 Migne ; fig</i>. ἐπ. ῥημάτων, LIB. <i>4, 148,</i> déluge de mots.<p><b>Étym</b>. ἔπομβρος.`

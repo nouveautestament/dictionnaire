@@ -1,0 +1,1 @@
+lar[63787]=`<b>ου (ὁ)</b> Mélankhros, <i>tyran de Lesbos,</i> ALC. <i>7</i>.`

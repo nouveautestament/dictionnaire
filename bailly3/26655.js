@@ -1,0 +1,1 @@
+lar[26655]=`<b>δί·μυξος, ος, ον</b> <font color="purple">[ῐ]</font> à deux mèches, COM. (ATH. <i>700f</i>).<p><b>Étym</b>. δίς, μύξα.`

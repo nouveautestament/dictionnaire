@@ -1,0 +1,1 @@
+lar[85526]=`<b>προσ·εκπέμπω</b>, envoyer en outre, <i>acc</i>. XÉN. <i>Cyr. 5, 3, 24</i>.`

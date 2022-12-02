@@ -1,0 +1,1 @@
+lar[14893]=`<i>adv</i>., à la façon des Arméniens, STR. <i>500</i>.<p><b>Étym</b>. Ἀρμένιος.`

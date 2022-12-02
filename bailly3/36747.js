@@ -1,0 +1,1 @@
+lar[36747]=`<b>ἐπ·απερεύγω</b>, roter <i>ou</i> vomir sur, PHIL. <i>2, 393</i>.`

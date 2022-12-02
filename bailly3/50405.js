@@ -1,0 +1,1 @@
+lar[50405]=`<b>κάθ·ιδρος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. καθίδρως, SPT. <i>Jer. 8, 6</i>.`

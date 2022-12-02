@@ -1,0 +1,1 @@
+lar[84334]=`<b>προ·θεάομαι-εῶμαι</b>, contempler d’avance, prévoir, GAL. <i>2, 701</i>.`

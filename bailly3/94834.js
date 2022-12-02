@@ -1,0 +1,1 @@
+lar[94834]=`<b>συν·απαυγάζομαι</b> <font color="darkgreen">(<i>ao. pass</i>. συναπηυγάσθην)</font> briller avec, NYSS.`

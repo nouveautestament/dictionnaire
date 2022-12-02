@@ -1,0 +1,1 @@
+lar[47515]=`<b>άδος</b>, <i>adj. f</i>. prompte à saillir, NIC. <i>Th. 131</i> ; LYC. <i>612</i>.<p><b>Étym</b>. θοῦρος.`

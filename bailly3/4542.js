@@ -1,0 +1,1 @@
+lar[4542]=`<b>ἁλί·πνοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> qui exhale une odeur de mer, MUS. <i>265</i>.<p><b>Étym</b>. ἅ. πνέω.`

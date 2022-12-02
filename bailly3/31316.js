@@ -1,0 +1,1 @@
+lar[31316]=`<b>ἐκθήλυνσις, εως (ἡ)</b> amollissement, relâchement, HPC. <i>1, 425, 18 ; 745c</i>.<p><b>Étym</b>. ἐκθηλύνω.`

@@ -1,0 +1,1 @@
+lar[29092]=`<b>δωδεκά·μηνος, ος, ον</b> <font color="purple">[ᾰ]</font> PD. <i>N. 11, 11,</i> de douze mois.<p><b>Étym</b>. δ. μήν.`

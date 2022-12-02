@@ -1,0 +1,1 @@
+lar[49623]=`<b>ἰσο·διάστατος, ος, ον</b> <font color="purple">[ῑ̆στᾰ]</font> à une égale distance, NICOM. <i>Arithm. 128</i>.<p><b>Étym</b>. ἴ. διάστατος.`

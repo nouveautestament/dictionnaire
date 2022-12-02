@@ -1,0 +1,1 @@
+lar[8294]=`<b>εως (ἡ)</b> suppuration, CASS. <i>Probl. 9</i>.<p><b>Étym</b>. ἀνελκόω.`

@@ -1,0 +1,1 @@
+lar[13740]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> expulsion des phlegmes, DIOSC. <i>5, 4, etc</i>.<p><b>Étym</b>. ἀποφλεγματίζω.`

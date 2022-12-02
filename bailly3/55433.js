@@ -1,0 +1,1 @@
+lar[55433]=`<b>η, ον</b>, de ricin, DIOSC. <i>1, 38</i> ; GAL. <i>Lex. Hipp. p. 414</i>.<p><b>Étym</b>. κίκι.`

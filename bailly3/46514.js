@@ -1,0 +1,1 @@
+lar[46514]=`<b>ης, ες</b>, sulfureux, STR. <i>1, 3, 18 ; 16, 2, 44 Kram.</i> ; P. SIL. <i>Th. Pyth. 20</i> ; GAL. <i>6, 51</i> ; DIOSC. <i>5, 122</i> ; NT. <i>Apoc. 9, 17</i>.<p><b>Étym</b>. θεῖον¹, -ωδης.`

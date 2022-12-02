@@ -1,0 +1,1 @@
+lar[38924]=`<b>ἐπί·ρρωσις, εως (ἡ)</b> action de fortifier, d’affermir, d’encourager, EL. <i>N.A. 6, 1</i> ; LGN <i>11, 2</i>.<p><b>Étym</b>. ἐπιρρώννυμι.`

@@ -1,0 +1,1 @@
+lar[58165]=`<i>adv</i>., secrètement, SPT. <i>Tob. 12, 4 ; 1 Macc. 10, 79</i> ; JOS. <i>A.J. 19, 1, 10</i>.<p><b>Étym</b>. κρυπτός.`

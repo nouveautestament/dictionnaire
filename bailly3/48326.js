@@ -1,0 +1,1 @@
+lar[48326]=`<b>οῦ (ὁ)</b> lieu de repos, gîte, repaire, tanière, LYC. <i>606</i>.<p><b>Étym</b>. ἰαύω.`

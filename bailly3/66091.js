@@ -1,0 +1,1 @@
+lar[66091]=`<b>ου (τὸ)</b> morceau de viande, STRATON (<i>Com. fr. 4, 546).</i><p><b>Étym</b>. <i>v</i>. μιστύλλω.`

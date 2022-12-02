@@ -1,0 +1,1 @@
+lar[96463]=`<b>οῦ (ὁ)</b> conducteur d’un char à deux chevaux, LUC. <i>Zeux. 9</i>.<p><b>Étym</b>. συνωρίς.`

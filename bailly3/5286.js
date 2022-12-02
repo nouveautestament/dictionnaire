@@ -1,0 +1,1 @@
+lar[5286]=`<b>ἀ·μαστίγωτος, ος, ον</b> <font color="purple">[ῑ]</font> non fouetté, SYN. <i>Ep. 79, 224d</i>.<p><b>Étym</b>. ἀ, μαστιγόω.`

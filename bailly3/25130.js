@@ -1,0 +1,1 @@
+lar[25130]=`<i>adv</i>., en se partageant, séparément, CLÉM. <i>2, 344b Migne</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> διανέμω.`

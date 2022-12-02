@@ -1,0 +1,1 @@
+lar[6576]=`<b>εως (ἡ)</b> corrosion, A. APHR. <i>Probl. 1 p. 278</i> ; ORIB. <i>16 Mai</i>.<p><b>Étym</b>. ἀναβιβρώσκω.`

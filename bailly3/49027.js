@@ -1,0 +1,1 @@
+lar[49027]=`<b>ας (ἡ)</b> Inde, <i>contrée d’Asie,</i> LUC. <i>Alex. 44, Nav. 23</i>.<p><b>Étym</b>. Ἰνδός.`

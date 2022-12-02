@@ -1,0 +1,1 @@
+lar[79650]=`<b>περι·φωνέω-ῶ</b>, retentir tout autour, PLUT. <i>Mar. 20</i>.`

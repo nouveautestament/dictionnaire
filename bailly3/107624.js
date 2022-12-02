@@ -1,0 +1,1 @@
+lar[107624]=`<b>όνος (ἡ) :<br>      1</b> Khalkèdôn, <i>v. de Bithynie, en face de Byzance,</i> THC. <i>4, 75</i> ; XÉN. <i>Hell. 1, 3, 2</i> ; DÉM. <i>15, 20 Baiter-Sauppe</i> ; PLUT. <i>Alc. 30, 31, etc.</i><br><b>      2</b> calcédoine antique, <i>pierre précieuse,</i> NT. <i>Apoc. 21, 19</i>.`

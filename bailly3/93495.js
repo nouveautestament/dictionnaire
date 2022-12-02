@@ -1,0 +1,1 @@
+lar[93495]=`<b>συγ·κολλάω-ῶ</b>, coller ensemble, faire un assemblage de choses que l’on soude, AR. <i>Vesp. 1041</i> ; PLAT. <i>Menex. 236b, etc.</i> ; τινί τι, LUC. <i>Alex. 14,</i> souder une chose à une autre.`

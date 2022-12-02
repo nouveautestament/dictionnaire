@@ -1,0 +1,1 @@
+lar[3224]=`<b>ας (ἡ)</b> le fait de ne pouvoir être maintenu, résistance à toute direction, PTOL.<p><b>Étym</b>. ἀκατάσχετος.`

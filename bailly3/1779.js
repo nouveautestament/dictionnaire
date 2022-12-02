@@ -1,0 +1,1 @@
+lar[1779]=`<b>ἀερο·δόνητος, ος, ον</b> <font color="purple">[ᾱ]</font> qui se balance dans les airs, AR. <i>Av. 1385</i>.<p><b>Étym</b>. ἀ. δονέω.`

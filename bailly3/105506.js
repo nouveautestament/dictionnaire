@@ -1,0 +1,1 @@
+lar[105506]=`<b>φιλ·αριστείδης, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> ami d’Aristide, A. PL. <i>315</i>.`

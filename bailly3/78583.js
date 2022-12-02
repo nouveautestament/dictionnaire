@@ -1,0 +1,1 @@
+lar[78583]=`<i>adv</i>., avec une curiosité indiscrète, HPC. <i>24, 9</i> ; PLUT. <i>M. 129c, etc</i>.<p>•<i> Cp</i>. -ότερον, A. TAT. <i>2, 3</i>.<p><b>Étym</b>. περίεργος.`

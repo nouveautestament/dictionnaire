@@ -1,0 +1,1 @@
+lar[17379]=`<b>αὐτο·αγιασμός, οῦ (ὁ)</b> la sanctification même, ORIG.<p><b>Étym</b>. αὐ. ἁγ.`

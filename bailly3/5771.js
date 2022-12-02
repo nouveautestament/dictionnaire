@@ -1,0 +1,1 @@
+lar[5771]=`<i>att</i>. <b>ἁμοῦ</b>, <i>adv</i>., en quelque manière ; ἁ. γέ που, LYS. <i>170, 12,</i> quelque part.<p><b>Étym</b>. ἀμός.`

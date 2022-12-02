@@ -1,0 +1,1 @@
+lar[102790]=`<b>ὑπερ·ρέω</b>, couler sur, PLOT. <i>p. 494a</i>.`

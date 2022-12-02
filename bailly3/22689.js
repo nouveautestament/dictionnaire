@@ -1,0 +1,1 @@
+lar[22689]=`<b>ητος (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> courbure crochue (d’un bec, PLUT. <i>M. 994f ;</i> d’un nez aquilin, XÉN. <i>Cyr. 8, 4, 21) ; p. opp. à</i> σιμότης, XÉN. <i>Cyr. 8, 4, 21</i> ; ARSTT. <i>Rhet. 1, 4, 12</i>.<br><b>      2</b> <i>p. ext</i>. courbure, <i>en gén</i>. PLUT. <i>M. 641d</i>.<p><b>Étym</b>. γρυπός.`

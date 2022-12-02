@@ -1,0 +1,1 @@
+lar[23626]=`<i>c</i>. δέρω, <i>seul. prés. ind. 3 pl</i>. -ουσι, HDT. <i>2, 39 ; impér</i>. -ε, CRAT. (<i>Com. fr. 2, 224</i>) ; AR. <i>Av. 365</i> ; LUC. <i>As. 6 ; inf</i>. -ειν, AR. <i>Nub. 442</i>.`

@@ -1,0 +1,1 @@
+lar[28951]=`<b>ατος</b> (τὸ) <font color="purple">[τῠ]</font> accident malheureux, malheur, PLAT. <i>Crat. 395d ;</i> AND. <i>21, 2</i> ; LYS. <i>168, 22 ; particul</i>. malheur à la guerre, échec, revers, XÉN. <i>Hell. 4, 5, 18 ; 7, 5, 16</i>.<p><b>Étym</b>. δυστυχέω.`

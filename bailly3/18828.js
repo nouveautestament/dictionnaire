@@ -1,0 +1,1 @@
+lar[18828]=`<b>βαθυ·χάϊος, ος, ον</b> <font color="purple">[ᾰῠ]</font> d’une antique (<i>litt</i>. d’une profonde) noblesse, ESCHL. <i>Suppl. 858</i>.<p><b>Étym</b>. β. χάϊος.`

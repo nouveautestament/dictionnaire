@@ -1,0 +1,1 @@
+lar[23287]=`<b>ιδος</b>, <i>adj. f</i>. de Daskyleion, THC. <i>1, 129</i> ; PLUT. <i>Luc. 9 ; etc</i>.<p><b>Étym</b>. Δασκύλιον.`

@@ -1,0 +1,1 @@
+lar[89796]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. σεμνολογία, ANON. (SUID. <i>v°</i> Ἀδάμ).`

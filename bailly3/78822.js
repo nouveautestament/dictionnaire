@@ -1,0 +1,1 @@
+lar[78822]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui commande souverainement à, <i>gén</i>. NT. <i>Ap. 27, 16</i>.<br><b>      2</b> qui maîtrise, <i>gén</i>. CHRYS.<p><b>Étym</b>. περικρατής.`

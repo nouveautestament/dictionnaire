@@ -1,0 +1,1 @@
+lar[90376]=`<b>ή, όν</b>, des Sindes : ἡ Σινδιχή (<i>s.-e</i>. χώρα) HDT. <i>4, 86,</i> le pays des Sindes.<p><b>Étym</b>. Σίνδοι.`

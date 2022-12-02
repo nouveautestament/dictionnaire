@@ -1,0 +1,1 @@
+lar[10382]=`<b>α, ον</b>, d’Antisthène, PLUT. <i>Vit. pud. 18</i>.`

@@ -1,0 +1,1 @@
+lar[68610]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> Nèriton, <i>promont. d’Ithaque,</i> IL. <i>2, 632</i> ; OD. <i>9, 22 ; 13, 351</i>.`

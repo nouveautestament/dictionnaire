@@ -1,0 +1,1 @@
+lar[87744]=`<b>Πύρ·αιθοι, ων (οἱ)</b> <font color="purple">[ῠ]</font> adorateurs du feu, <i>chez les Perses,</i> STR. <i>733</i>.<p><b>Étym</b>. πῦρ, αἴθω.`

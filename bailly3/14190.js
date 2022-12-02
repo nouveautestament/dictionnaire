@@ -1,0 +1,1 @@
+lar[14190]=`<b>ης, ες</b>, semblable à un tissu (fil <i>ou</i> toile) d’araignée, ARSTT. <i>H.A. 5, 23, 2</i> ; EL. <i>N.A. 8, 16</i>.<p><b>Étym</b>. ἀράχνη, -ωδης.`

@@ -1,0 +1,1 @@
+lar[85013]=`<b>προ·πράτης, ου (ὁ)</b> <font color="purple">[ᾱ]</font> marchand qui vend aux détaillants, LYS. (POLL. <i>7, 12).</i><p><b>Étym</b>. π. πιπράσκω.`

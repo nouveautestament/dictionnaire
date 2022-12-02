@@ -1,0 +1,1 @@
+lar[15721]=`<b>ἄ·σαλος, ος, ον</b> <font color="purple">[σᾰ]</font> <i>c</i>. ἀσαλής PLUT. <i>M. 981c</i>.`

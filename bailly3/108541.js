@@ -1,0 +1,1 @@
+lar[108541]=`<b>χλαμυδο·ειδής, ής, ές</b> <font color="purple">[ᾰῠ]</font> qui ressemble à une chlamyde, STR. <i>112, 118, 119, etc</i>.<p><b>Étym</b>. χλ. εἶδος.`

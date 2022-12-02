@@ -1,0 +1,1 @@
+lar[81578]=`<b>πολι·ορκία, ας (ἡ) :<br>      1</b> siège d’une ville, investissement, HDT. <i>1, 81, 190 ; 5, 34</i> ; THC. <i>2, 78</i> ; AND. <i>10, 12, etc.</i><br><b>      2</b> <i>fig</i>. obsession, tourment, PLUT. <i>Syll. 25</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>ll. cc</i>.<p><b>Étym</b>. πόλις, ἕρκος.`

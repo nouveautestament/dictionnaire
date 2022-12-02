@@ -1,0 +1,1 @@
+lar[24076]=`<i>adv.</i> :<br><b>      1</b> en second lieu, au second rang, PLAT. <i>Leg. 696e ;</i> ARSTT. <i>Nic. 10, 5</i>.<br><b>      2</b> pour la seconde fois, de nouveau, PLAT. <i>Leg. 955e</i>.`

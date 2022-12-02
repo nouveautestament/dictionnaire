@@ -1,0 +1,1 @@
+lar[63049]=`<b>ᾶ (ὁ)</b> sorte de plante médicinale, A. TR. <i>7, 322 ; 8, 470</i>.`

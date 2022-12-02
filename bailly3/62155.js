@@ -1,0 +1,1 @@
+lar[62155]=`railler, outrager, OD. <i>23, 15, 26</i>.<p><b>Étym</b>. λώβη.`

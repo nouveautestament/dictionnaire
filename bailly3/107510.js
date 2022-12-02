@@ -1,0 +1,1 @@
+lar[107510]=`<b>χαλαζο·κοπέω-ῶ</b> <font color="purple">[χᾰ]</font> dévaster par la grêle, TH. <i>C.P. 5, 8, 3</i>.<p><b>Étym</b>. χάλαζα, κόπτω.`

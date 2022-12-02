@@ -1,0 +1,1 @@
+lar[84495]=`<b>προ·καταρρήγνυμι</b>, rompre auparavant, DC. <i>35, 7</i>.`

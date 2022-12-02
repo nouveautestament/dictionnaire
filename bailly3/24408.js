@@ -1,0 +1,1 @@
+lar[24408]=`<b>α, ον</b> <font color="purple">[βᾰ]</font><br><b>      1</b> qu’on peut traverser (fleuve, XÉN. <i>An. 2, 4, 6</i> ; bois, <i>ibid. 6, 5, 12</i>).<br><b>      2</b> <i>neutre</i> διαβατέον, il faut passer ensuite : ἐπὶ τὸ ἕτερον, ORIB. <i>44, 5, p. 18 Mai,</i> à la seconde partie.<p><b>Étym</b>. <i>vb. de</i> διαβαίνω.`

@@ -1,0 +1,1 @@
+lar[106971]=`<b>έως (ὁ)</b> <font color="purple">[ῡ]</font> poêlon <i>ou</i> ustensile pour faire griller, THPP. COM. (POLL. <i>10, 109).</i><p><b>Étym</b>. φρύγω.`

@@ -1,0 +1,1 @@
+lar[45715]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne le foie, hépatique, PLUT. <i>M. 773c.</i><br><b>      2</b> qui a le foie malade, GAL. <i>2, 264</i> ; DIOSC. <i>2, 78</i>.<br><b>      3</b> τὸ ἡπατικόν, divination par le foie, SCH.-ESCHL. <i>Pr. 483</i>.<p><b>Étym</b>. ἧπαρ.`

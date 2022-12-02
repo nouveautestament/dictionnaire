@@ -1,0 +1,1 @@
+lar[51158]=`<b>καλλί·μαχος, ου</b> <font color="purple">[ῐᾰ]</font> qui combat courageusement, LIB. <i>1, 616</i>.<p><b>Étym</b>. κ. μάχομαι.`

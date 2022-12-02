@@ -1,0 +1,1 @@
+lar[106742]=`<b>ῶν (οἱ)</b> les fils de Phorônée, <i>càd.</i> :<br><b>      1</b> Adrastos et Amphiaraos, PAUS. <i>7, 17, 7</i>.<br><b>      2</b> les Argiens, <i>en gén</i>. THCR. <i>Idyl. 25, 200</i>.<p><b>Étym</b>. Φορωνεύς.`

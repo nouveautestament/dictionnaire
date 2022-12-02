@@ -1,0 +1,1 @@
+lar[9759]=`<b>ἀντι·βαίνω</b>, marcher contre, <i>d’où</i> résister, lutter, HDT. <i>3, 72</i> ; SOPH. <i>El. 575</i> ; τινί, HDT. <i>5, 40</i> ; ESCHL. <i>Pr. 234</i> ; πρός τι, PLAT. <i>Leg. 634a</i>, contre qqe ch. ; faire effort contre, AR. <i>Ran. 202</i>.`

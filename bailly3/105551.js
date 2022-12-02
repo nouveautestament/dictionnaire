@@ -1,0 +1,1 @@
+lar[105551]=`<b>φιλ·εξαπάτης, ου (ὁ)</b> qui trompe l’amitié, ASCLÉP. SAM. <i>17 Mein</i>.<p><b>Étym</b>. φ. ἐξαπατάω.`

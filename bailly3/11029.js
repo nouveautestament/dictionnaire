@@ -1,0 +1,1 @@
+lar[11029]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾱ]</font> <i>fém. c</i>. Ἀόνιος NONN. <i>D. 45, 51</i>.`

@@ -1,0 +1,1 @@
+lar[109551]=`<b>ΐδος</b> <font color="purple">[ᾰᾰῐδ]</font> <i>adj. f</i>. qui se trouve <i>ou</i> vit dans le sable, <i>ép. d’une plante appelée</i> σίδη (<i>Nymphæa alba</i> L.) NIC. <i>Th. 887</i>.<p><b>Étym</b>. ψάμαθος.`

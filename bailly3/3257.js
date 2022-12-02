@@ -1,0 +1,1 @@
+lar[3257]=`<b>ἀκειρε·κόμης, ου (ὁ)</b> <i>c</i>. ἀκερσεκόμης, <i>en parl. d’Apollon,</i> PD. <i>P. 3, 14 ; I. 1, 7 ; des Scythes,</i> A. PL. <i>72, etc</i>.<p>➳ <i>Dor</i>. -ας, PD. <i>ll. cc</i>.`

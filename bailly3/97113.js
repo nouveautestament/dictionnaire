@@ -1,0 +1,1 @@
+lar[97113]=`<b>σχολαρχέω-ῶ</b>, être chef d’école <i>ou</i> de secte, DL. <i>8, 1</i>.<p><b>Étym</b>. σχολάρχης.`

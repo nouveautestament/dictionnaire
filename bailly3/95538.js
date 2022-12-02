@@ -1,0 +1,1 @@
+lar[95538]=`<b>συν·εξισόω-ῶ</b> <font color="purple">[ῐ]</font> rendre entièrement égal à, <i>dat</i>. DH. <i>Pomp. 5 ; au pass</i>. devenir entièrement égal. DH. <i>10, 16</i> ; DS. <i>2, 10</i>.`

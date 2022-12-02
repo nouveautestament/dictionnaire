@@ -1,0 +1,1 @@
+lar[43102]=`<i>adv.</i> :<br><b>      1</b> avec convenance, convenablement. ESCHL. <i>Ag. 616</i> ; PLAT. <i>Soph. 251a.</i><br><b>      2</b> d’une manière spécieuse, THC. <i>1, 82 ; 4, 61 ; 6, 6</i>.<p>•<i> Cp</i>. -έστερον, EUR. <i>Rhes. 841. • Sup</i>. -έστατα, THC. <i>8, 109</i> ; PLAT. <i>l. c</i>.<p><b>Étym</b>. εὐπρεπής.`

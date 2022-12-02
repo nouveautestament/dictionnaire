@@ -1,0 +1,1 @@
+lar[86390]=`<b>προσριζόω-ῶ</b>, enraciner, PHIL. <i>1, 334 ; au pass</i>. prendre racine, GAL. <i>19, 181</i>.<p><b>Étym</b>. πρόσριζος.`

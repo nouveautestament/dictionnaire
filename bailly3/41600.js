@@ -1,0 +1,1 @@
+lar[41600]=`<b>ου (τὸ)</b> camomille, <i>plante,</i> HPC. <i>625, 54</i>.<p><b>Étym</b>. εὐάνθεμος.`

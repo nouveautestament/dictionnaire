@@ -1,0 +1,1 @@
+lar[10456]=`<i>adv.</i> :<br><b>      1</b> corrélativement à, PLAT. <i>Rsp. 359d.</i><br><b>      2</b> contrairement à, PLUT. <i>M. 558c, 660f ; gén</i>. LUC. <i>Philopatr. 18</i>.`

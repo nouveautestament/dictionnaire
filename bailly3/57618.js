@@ -1,0 +1,1 @@
+lar[57618]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec force, SPT. <i>1Reg. 2, 16 ; Jud. 8, 1, etc.</i> ; PHIL. <i>1, 276, etc</i>.<p><b>Étym</b>. κραταιός.`

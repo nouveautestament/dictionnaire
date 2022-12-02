@@ -1,0 +1,1 @@
+lar[27498]=`<b>δομέω-ῶ</b>, construire, ARR. ARSTD. SIB. <i>(v. ci-dessous)</i>.<br><b><i>Moy.</i></b> <i>seul. ao. 3 sg. poét</i>. δομήσατο, LYC. <i>48, même sign</i>.<p>➳ <i>Pass. part</i>. δεδομημένος, ARR. <i>An. 7, 22</i> ; ARSTD. <i>43, 555 ; f. ant. au sens act. 3 sg</i>. δεδομήσεται, SIB. <i>3, 384</i>.<p><b>Étym</b>. δόμος.`

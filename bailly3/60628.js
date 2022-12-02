@@ -1,0 +1,1 @@
+lar[60628]=`<b>λευκό·φλοιος, ος, ον</b>, à écorce blanche, POSIDON. (ATH. <i>649d</i>).<p><b>Étym</b>. λ. φλοιός.`

@@ -1,0 +1,1 @@
+lar[105963]=`<b>ας (ἡ)</b> <font color="purple">[ῐνῑ]</font> désir de vaincre, THC. <i>1, 41</i>.<p><b>Étym</b>. φιλόνικος.`

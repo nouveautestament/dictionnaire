@@ -1,0 +1,1 @@
+lar[73744]=`<b>οὐσιόω-ῶ</b>, donner l’être, créer, <i>d’où au pass</i>. naître <i>ou</i> exister, SIMPL. <i>Epict. p. 486</i> ; SYN. <i>137b ;</i> PORPH. (STOB. <i>Fl. 21, 28).</i><p><b>Étym</b>. οὐσία.`

@@ -1,0 +1,1 @@
+lar[30822]=`<b>εἰσοδιάζω</b>, percevoir un revenu ; <i>au pass</i>. être perçu comme revenu, SPT. <i>4Reg. 12, 4</i> (-αζόμενον) ; <i>2Par. 15, 18</i> (-ασθέν).<p><b>Étym</b>. εἰσόδιος.`

@@ -1,0 +1,1 @@
+lar[49944]=`<b>ας (ἡ)</b> <font color="purple">[⏑⏑⏑‒, <i>dans les vers dactyliques</i> ‒⏑⏑‒]</font> Italie, HDT. <i>1, 24, etc.</i> ; XÉN. <i>Hell. 5, 1, 26</i> ; SOPH. <i>Ant. 1120</i>.<p>➳ <i>Ion. et épq</i>. Ἰταλίη, HDT. <i>l. c., etc.</i> ; ANTH. <i>6, 161, etc</i>.`

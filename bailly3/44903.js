@@ -1,0 +1,1 @@
+lar[44903]=`<font color="darkgreen">(<i>seul. inf</i>. ἠγερέεσθαι)</font> <i>c</i>. ἠγερέθομαι IL. <i>10, 127</i>.<p><b>Étym</b>. <i>vulg</i>.`

@@ -1,0 +1,1 @@
+lar[47299]=`<b>θηριο·τρόφος, ος, ον :<br>      1</b> qui nourrit des animaux sauvages, <i>en parl. d’une terre,</i> STR. <i>131</i>.<br><b>      2</b> qui entretient des bêtes sauvages, PROCL. <i>Ptol. p. 250, 11</i>.<p><b>Étym</b>. θ. τρέφω.`

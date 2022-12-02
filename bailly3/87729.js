@@ -1,0 +1,1 @@
+lar[87729]=`<b>πυο·ρροέω-οῶ</b> <font color="purple">[ῡ]</font> suppurer, HPC. <i>1210e ;</i> DIOSC. <i>1, 78</i>.<p><b>Étym</b>. πῦον, -ροος <i>de</i> ῥέω.`

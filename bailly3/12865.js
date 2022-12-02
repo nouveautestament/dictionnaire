@@ -1,0 +1,1 @@
+lar[12865]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font> action de dépérir, déclin, TH. <i>Vent. 36</i>.<p><b>Étym</b>. ἀπομαραίνω.`

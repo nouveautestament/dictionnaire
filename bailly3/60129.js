@@ -1,0 +1,1 @@
+lar[60129]=`<b>λειό·μιτος, ος, ον</b> <font color="purple">[ῐ]</font> qui tend <i>ou</i> aplanit les fils d’une trame, ANTH. <i>6, 247</i>.<p><b>Étym</b>. λ. μίτος.`

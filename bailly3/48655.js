@@ -1,0 +1,1 @@
+lar[48655]=`<b>ἱερο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien d’un temple, EUR. <i>I.T. 1207 conj. (poét</i>. ἱροφύλαξ) ; <i>à Rome,</i> DH. <i>2, 73</i>.<p><b>Étym</b>. ἱ. φύλαξ.`

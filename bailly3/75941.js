@@ -1,0 +1,1 @@
+lar[75941]=`<b>ῆς (ἡ) :<br>      1</b> action de rester, de durer : εἰς παραμονήν, GEOP. <i>6, 16, 3,</i> en permanence.<br><b>      2</b> action de se conserver, <i>en parl. du vin,</i> ATH. <i>30e.</i><br><b>      3</b> constance, persévérance, JAMBL. <i>Protr. 16</i>.<p><b>Étym</b>. παραμένω.`

@@ -1,0 +1,1 @@
+lar[22067]=`<b>γλαυκόω-ῶ</b>, altérer <i>ou</i> éteindre la vue par une atteinte de glaucome, <i>d’où au pass</i>. être atteint de glaucome, <i>en parl. des yeux,</i> HPC. <i>102</i> g (<i>part. prés</i>. γλαυκούμεναι) ; <i>de la vue,</i> HPC. <i>1133c</i> (<i>3 sg. ao</i>. ἐγλαυκώθη).<p><b>Étym</b>. γλαυκός.`

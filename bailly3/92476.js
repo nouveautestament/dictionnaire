@@ -1,0 +1,1 @@
+lar[92476]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en cercle, MAN. <i>4, 429</i> ; NONN. <i>Jo. 6, 8</i>.<p><b>Étym</b>. στεφάνη, -δον.`

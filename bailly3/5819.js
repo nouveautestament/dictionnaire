@@ -1,0 +1,1 @@
+lar[5819]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art de cultiver la vigne, PLAT. <i>Rsp. 333d</i>.<p><b>Étym</b>. ἀμπελουργός.`

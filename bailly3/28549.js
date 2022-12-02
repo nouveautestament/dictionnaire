@@ -1,0 +1,1 @@
+lar[28549]=`<b>δυσ·κατάλλακτος, ος, ον</b> <font color="purple">[κᾰ]</font> <i>litt</i>. dont on ne peut changer les dispositions, intraitable, PLUT. <i>M. 13d ;</i> ATH. <i>625b</i>.<p><b>Étym</b>. δ. καταλλάσσω.`

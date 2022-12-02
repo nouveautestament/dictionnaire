@@ -1,0 +1,1 @@
+lar[49613]=`<b>ἰσο·γλώχιν, ινος (ὁ, ἡ)</b> <font color="purple">[ῑ̆σῑν]</font> à pointes égales, NONN. <i>D. 6, 23</i>.<p><b>Étym</b>. ἴ. γλωχίς.`

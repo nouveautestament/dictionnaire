@@ -1,0 +1,1 @@
+lar[4698]=`<font color="purple">[γᾱ]</font> <i>dor. c</i>. ἀλλαγή.`

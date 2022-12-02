@@ -1,0 +1,1 @@
+lar[2112]=`<b>ας (ἡ)</b> absence de mollesse, simplicité de vie, PLUT. <i>M. 609c</i>.<p><b>Étym</b>. ἄθρυπτος.`

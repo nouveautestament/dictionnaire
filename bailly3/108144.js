@@ -1,0 +1,1 @@
+lar[108144]=`<b>χειροκρατικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui s’exerce par la force, tyrannique, violent, POL. <i>6, 10, 4</i>.<p><b>Étym</b>. χειροκρατία.`

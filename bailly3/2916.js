@@ -1,0 +1,1 @@
+lar[2916]=`<i>adv</i>., honteusement, IL. <i>23, 473</i> ; OD. <i>18, 321, etc</i>.<p>•<i> Cp</i>. αἴσχιον, THC. <i>1, 82. • Sup</i>. αἰσχίστως, MNASÉAS (ATH. <i>163a</i>)<br>MAN. <i>1, 21 ; ou</i> αἴσχιστα, ESCHL. <i>Pr. 959</i> ; SOPH. <i>O.R. 367, etc</i>.`

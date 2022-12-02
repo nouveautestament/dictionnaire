@@ -1,0 +1,1 @@
+lar[42001]=`<b>εὐ·επαίσθητος, ος, ον</b>, qui sent facilement, très sensible, HPC. <i>606, 29</i>.<p><b>Étym</b>. εὖ, ἐπαισθάνομαι.`

@@ -1,0 +1,1 @@
+lar[31310]=`<b>ή, όν</b>, propre à l’exposition de, <i>gén</i>. APHTH. <i>Prog. 93</i>.<p><b>Étym</b>. ἐκτίθημι.`

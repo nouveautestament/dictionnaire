@@ -1,0 +1,1 @@
+lar[29902]=`<b>ἐγχελυο·τρόφος, ου (ὁ)</b> qui nourrit <i>ou</i> élève des anguilles, ARSTT. <i>H.A. 8, 2, 34</i>.<p><b>Étym</b>. ἔγχελυς, τρέφω.`

@@ -1,0 +1,1 @@
+lar[29960]=`<b>ἐγ·χυτρίζω</b> (<i>fut. 2 sg</i>. -ιεῖς) <font color="purple">[ῠ]</font> faire périr, supprimer, <i>propr</i>. exposer dans un vase de terre, <i>comme on faisait à Athènes pour les enfants abandonnés,</i> AR. <i>Vesp. 289</i>.<p><b>Étym</b>. ἐν, χύτρα.`

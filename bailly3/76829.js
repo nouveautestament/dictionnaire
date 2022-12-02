@@ -1,0 +1,1 @@
+lar[76829]=`<i>adv</i>., d’une manière vicieuse, EUPOLÉM. (EUS. <i>P.E. 451b</i>).<p><b>Étym</b>. <i>part. pf. pass. de</i> παραφθείρω.`

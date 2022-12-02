@@ -1,0 +1,1 @@
+lar[5496]=`<b>ἀ·μεταμέλητος, ος, ον :<br>      1</b> dont on ne se repent pas, que l’on ne regrette pas, PLAT. <i>Leg. 866e, Tim. 59d ;</i> POL. <i>24, 12, 11, etc.</i><br><b>      2</b> qui n’éprouve aucun regret, ARSTT. <i>Nic. 7, 7, 2</i>.`

@@ -1,0 +1,1 @@
+lar[1094]=`<b>α, ον</b>, qui sert à étrangler <i>ou</i> à étouffer, EUR. <i>Hel. 686</i> ; NONN. <i>D. 21, 31 ; 34, 229</i>.<p><b>Étym</b>. ἀγχόνη.`

@@ -1,0 +1,1 @@
+lar[31084]=`<b>ἐκ·βήσσω</b> <font color="darkgreen">(<i>impf</i>. ἐξέβησσον, <i>ao</i>. ἐξέβηξα)</font> rejeter en toussant, expectorer, HPC. <i>91e ; 475, 37 ; 1012e ;</i> ARSTT. <i>H.A. 1, 16 ; au pass</i>. HPC. <i>475, 11</i>.`

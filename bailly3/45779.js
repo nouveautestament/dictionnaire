@@ -1,0 +1,1 @@
+lar[45779]=`<b>(ὁ)</b> <font color="purple">[ῠᾰ]</font> <i>seul. nom. épq. p</i>. *ἠπύτης, qui fait du bruit, retentissant, IL. <i>7, 384 ; en parl. de la mer,</i> OPP. <i>C. 2, 136 ; d’un chalumeau,</i> Q. SM. <i>6, 170</i>.<p><b>Étym</b>. ἠπύω.`

@@ -1,0 +1,1 @@
+lar[46415]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾱ]</font> Théariôn, <i>h</i>. PD. <i>N. 7, 10 et 85</i> ; AR. (ATH. <i>112e</i>) ; PLAT. <i>Gorg. 518b</i>.`

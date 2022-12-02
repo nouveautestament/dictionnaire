@@ -1,0 +1,1 @@
+lar[76723]=`<b>παρ·εν·υφαίνω</b> <font color="purple">[ῠ]</font> tresser auprès, entrelacer, A. APHR. <i>Probl. 2, 52</i>.`

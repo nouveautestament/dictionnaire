@@ -1,0 +1,1 @@
+lar[58214]=`<b>ης (ἡ)</b> Krômna, <i>v. de Paphlagonie,</i> IL. <i>2, 855</i> ; A.RH. <i>2, 942</i>.`

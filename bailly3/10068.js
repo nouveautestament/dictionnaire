@@ -1,0 +1,1 @@
+lar[10068]=`<b>ἀντι·μεθέλκω</b>, tirer en sens contraire, ANTH. <i>10, 74</i>.`

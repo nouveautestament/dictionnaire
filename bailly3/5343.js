@@ -1,0 +1,1 @@
+lar[5343]=`<b>οῦ (ὁ)</b> affaiblissement de la vue, HPC. <i>Progn. 46, Prorrh. 68</i>.<p><b>Étym</b>. ἀμβλυώσσω.`

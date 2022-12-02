@@ -1,0 +1,1 @@
+lar[98008]=`<b>ῶν (τὰ)</b> les Murs <i>ou</i> les Remparts, <i>lieu de Thrace,</i> DÉM. <i>19, 156, 180 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>plur. de</i> τεῖχος.`

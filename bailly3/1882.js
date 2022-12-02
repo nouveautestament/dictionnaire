@@ -1,0 +1,1 @@
+lar[1882]=`<b>ἄ·ζῳος, ος, ον</b>, qui n’engendre pas de vers, TH. <i>C.P. 4, 15, 3</i>.<p><b>Étym</b>. ἀ, ζῷον.`

@@ -1,0 +1,1 @@
+lar[28998]=`<b>δυσ·χάλινος, ος, ον</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. δυσχαλίνωτος CHRYS. <i>2, 6b Migne</i>.<p><b>Étym</b>. δ. χαλινός.`

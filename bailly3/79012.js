@@ -1,0 +1,1 @@
+lar[79012]=`<b>περι·ολισθάνω :<br>      1</b> glisser tout autour, HPC. <i>V. med. 18 ; d’où</i> glisser à côté de, <i>ou</i> hors de, PLUT. <i>Marc. 15</i>.<br><b>      2</b> <i>fig</i>. se glisser dans, <i>avec</i> εἰς <i>et l’acc</i>. PLUT. <i>M. 1089d</i>.`

@@ -1,0 +1,1 @@
+lar[90726]=`<b>   I</b> dessécher ; <i>au pass</i>. se dessécher, être desséché, AR. <i>fr. 677</i>.<br><b>   II</b> <i>p. suite</i> :<br><b>      1</b> conserver dans la saumure, DIOSC. <i>2, 2 et 27</i>.<br><b>      2</b> embaumer, TÉLÈS (STOB. <i>234, 11</i>) ; GAL. <i>6, 126 ; 11, 673 ; 18, 746</i>.<p><b>Étym</b>. σκελετός.`

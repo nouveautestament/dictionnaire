@@ -1,0 +1,1 @@
+lar[96921]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡ]</font> berce, <i>plante,</i> DIOSC. <i>Noth. 3, 90</i>.<p><b>Étym</b>. <i>cf</i>. σφονδύλιον.`

@@ -1,0 +1,1 @@
+lar[69544]=`<b>ξηρο·κακοζηλία, ας (ἡ)</b> <font color="purple">[ᾰκ]</font> style sec et de mauvais goût, D. PHAL. <i>239</i>.<p><b>Étym</b>. ξηρός, κακοζηλία.`

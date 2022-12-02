@@ -1,0 +1,1 @@
+lar[87761]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡᾰ]</font> <i>c</i>. πυραμοῦς, ARTÉM. <i>1, 72</i>.`

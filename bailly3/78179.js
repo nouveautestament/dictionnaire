@@ -1,0 +1,1 @@
+lar[78179]=`<b>ων (οἱ)</b> <font color="purple">[ᾰ]</font> habitants de Péparèthos, PLAT. <i>1 Alc. 116d ;</i> DÉM. <i>12, 12 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Πεπάρηθος.`

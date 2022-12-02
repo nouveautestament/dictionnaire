@@ -1,0 +1,1 @@
+lar[26565]=`<b>δι·κόρυφος, ος, ον</b> <font color="purple">[ῐῠ]</font> à deux sommets, EUR. <i>Bacch. 307, Ph. 227</i> ; STR. <i>109 ; en parl. de cheveux séparés par une raie et formant deux sommets,</i> ARSTT. <i>H.A. 1, 7, 4 ; en parl. de sillons formant deux rebords,</i> GEOP. <i>10, 75</i>.<p><b>Étym</b>. δίς, κορυφή.`

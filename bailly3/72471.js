@@ -1,0 +1,1 @@
+lar[72471]=`<b>ὁπωπέω-ῶ</b>, voir, ORPH. <i>Arg. 181, 1020</i>.<br><b><i>Moy.</i></b> (<i>inf. ao</i>. ὀπωπήσασθαι) <i>m. sing</i>. EUPHOR. <i>48</i>.<p><b>Étym</b>. ὀπωπή.`

@@ -1,0 +1,1 @@
+lar[34268]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action d’entrer, de pénétrer, PLAT. <i>Crat. 419c.</i><br><b>      2</b> action de se vêtir, de se couvrir, ATH. <i>550d ;</i> SPT. <i>Job 41, 5, etc</i>.<p><b>Étym</b>. ἐνδύω.`

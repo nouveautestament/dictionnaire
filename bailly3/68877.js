@@ -1,0 +1,1 @@
+lar[68877]=`abâtardir, <i>d’où</i> corrompre, altérer, PLUT. <i>M. 373b ;</i> LUC. <i>C. deor. 7</i> ; SYN. <i>Ep. 143</i>.<p><b>Étym</b>. νόθος.`

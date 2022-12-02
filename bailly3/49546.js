@@ -1,0 +1,1 @@
+lar[49546]=`<b>ης, ες</b>, semblable au pastel, <i>càd</i>. bleu, HPC. <i>Epid. 2, 3, 1</i> ; OD. ARÉT. <i>Caus. m. diut. 1, 15</i>.<p><b>Étym</b>. ἰσάτις, -ωδης.`

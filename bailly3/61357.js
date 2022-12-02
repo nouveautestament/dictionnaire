@@ -1,0 +1,1 @@
+lar[61357]=`<b>λιπό·σαρκος, ος, ον</b> <font color="purple">[ῐ]</font> décharné, maigre, HPC. <i>1279, 57</i>.<p><b>Étym</b>. λείπω, σάρξ.`

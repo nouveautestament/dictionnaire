@@ -1,0 +1,1 @@
+lar[104419]=`<b>ὑφ·ορμίζομαι</b> <font color="darkgreen">(<i>pf</i>. ὑφώρμισμαι)</font> entrer dans le port, jeter l’ancre, THC. <i>2, 83</i> ; τῇ Σαλαμῖνι, PLUT. <i>Sol. 9,</i> devant Salamine ; <i>fig</i>. PHILSTR. <i>p. 670</i>.`

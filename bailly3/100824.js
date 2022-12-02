@@ -1,0 +1,1 @@
+lar[100824]=`<b>τρυγο·δαίμων, ονος (ὁ)</b> <font color="purple">[ῠ]</font> <i>litt</i>. « dieu barbouillé de lie », <i>sobriquet des poètes comiques,</i> AR. <i>Nub. 296</i> (<i>v</i>. τρυγῳδικός).<p><b>Étym</b>. τρύξ, δαίμων ; <i>pour la format. cf</i>. κακοδαίμων.`

@@ -1,0 +1,1 @@
+lar[83906]=`<b>προ·διαβρέχω</b>, imbiber auparavant, GAL. <i>6, 316, etc</i>.`

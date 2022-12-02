@@ -1,0 +1,1 @@
+lar[44912]=`<b>ἡγ·ηλάζω :<br>      1</b> conduire, guider : τινά, OD. <i>17, 217,</i> qqn.<br><b>      2</b> <i>p. ext</i>. mener, traîner, <i>d’ord. en mauv. part</i> : κακὸν μόρον, OD. <i>11, 618</i> ; βίοτον βαρύν, A.RH. <i>1, 272,</i> une vie misérable <i>ou</i> pénible.<p><b>Étym</b>. ἡγέομαι, ἐλαύνω.`

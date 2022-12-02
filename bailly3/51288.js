@@ -1,0 +1,1 @@
+lar[51288]=`<b>καλοβατέω-ῶ</b> <font color="purple">[ᾱᾰ]</font> marcher avec des échasses, PORPH. <i>p. 247</i>.<p><b>Étym</b>. καλοβάτης.`

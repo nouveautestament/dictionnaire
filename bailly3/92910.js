@@ -1,0 +1,1 @@
+lar[92910]=`<b>στρεφε·δινέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1 <i>tr.</i></b> faire tournoyer, <i>d’où au pass. (3 pl. ao. épq</i>. στρεφεδίνηθεν, IL. <i>16, 792</i>) tournoyer.<br><b>      2</b> <i>intr. (seul. impf. épq</i>. στρεφεδίνεον) Q. SM. <i>13, 6</i>.<p><b>Étym</b>. στρέφω, δινέω.`

@@ -1,0 +1,1 @@
+lar[32178]=`<b>ἐκ·τοιχωρυχέω-ῶ</b> <font color="purple">[ῠ]</font> percer le mur d’une maison pour y pénétrer et la piller, <i>d’où</i> piller, POL. <i>4, 18, 8 ; 18, 38, 2</i>.`

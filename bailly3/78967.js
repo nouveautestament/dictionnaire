@@ -1,0 +1,1 @@
+lar[78967]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. περινοητικός, HERMÉSIAN. (STOB. <i>Ecl. eth. p. 358 vulg</i>.).`

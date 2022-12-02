@@ -1,0 +1,1 @@
+lar[28745]=`<b>δυσ·ούριστος, ος, ον</b> <font color="purple">[ῠ]</font> qu’on ne peut diriger à l’aide d’un vent favorable, <i>càd</i>. heureusement, <i>d’où</i> irrémédiable, SOPH. <i>O.R. 1315</i>.<p><b>Étym</b>. δ. οὐρίζω.`

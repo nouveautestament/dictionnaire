@@ -1,0 +1,1 @@
+lar[15020]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. des champs, rustique, BABR. <i>105, 29</i>.<p><b>Étym</b>. ἄρουρα.`

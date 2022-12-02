@@ -1,0 +1,1 @@
+lar[98607]=`<b>τετρά·μηνος, ος, ον</b> <font color="purple">[ᾰ]</font> de quatre mois, qui dure quatre mois, THC. <i>5, 63</i> ; ARSTT. <i>H.A. 5, 14, 12</i> ; POL. <i>5, 6, 2 ; 18, 22, 5, etc. ; adv</i>. τετράμηνον, ARSTT. <i>H.A. 6, 18, 22, ou</i> τετράμηνα, HPC. <i>Aph. 1249,</i> après une durée de quatre mois.<p><b>Étym</b>. τ. μήν.`

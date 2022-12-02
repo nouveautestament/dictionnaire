@@ -1,0 +1,1 @@
+lar[10147]=`<b>ῶν (οἱ)</b> citoyens de la tribu Antiokhide, DÉM. <i>1399, 6</i>.<p><b>Étym</b>. Ἀντιοχίς.`

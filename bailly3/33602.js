@@ -1,0 +1,1 @@
+lar[33602]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. ἐμπρόσθιος DYSC. <i>Adv. 567</i>.`

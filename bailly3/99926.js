@@ -1,0 +1,1 @@
+lar[99926]=`<b>τραπεζο·χάρων, οντος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Aime-la-table, <i>n. de parasite,</i> ALCIPHR. <i>3, 46</i>.<p><b>Étym</b>. τρ. χαίρω.`

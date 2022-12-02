@@ -1,0 +1,1 @@
+lar[36643]=`<b>εως (ἡ)</b> action de brandir (<i>litt</i>. de lever et d’agiter) contre, THC. <i>4, 126</i>.<p><b>Étym</b>. ἐπανασείω.`

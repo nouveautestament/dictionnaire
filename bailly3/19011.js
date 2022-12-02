@@ -1,0 +1,1 @@
+lar[19011]=`(<i>seul. prés. et impf</i>.) :<br><b>      1</b> claquer des dents, trembler de frayeur <i>ou</i> de froid, IL. <i>10, 375</i>.<br><b>      2</b> bégayer, balbutier, BION <i>4, 9</i> ; ANTH. <i>5, 273</i> ; THÉM. <i>56a</i>.`

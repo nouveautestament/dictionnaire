@@ -1,0 +1,1 @@
+lar[59809]=`<b>ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> fils de Laomédon, IL. <i>15, 527</i>.<p><b>Étym</b>. Λαομέδων.`

@@ -1,0 +1,1 @@
+lar[41895]=`<b>Εὔ·δικος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Eudikos, <i>h</i>. XÉN. <i>Hell. 5, 4, 39</i> ; DÉM. <i>241, 27</i>.<p><b>Étym</b>. εὖ, δίκη.`

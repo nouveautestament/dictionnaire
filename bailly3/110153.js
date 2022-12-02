@@ -1,0 +1,1 @@
+lar[110153]=`<i>adv</i>., rapidement, vite, avec agilité, PD. <i>P. 3, 104 ; N. 10, 120</i> ; LUC. <i>Salt. 19, etc</i>.<p><b>Étym</b>. ὠκύς.`

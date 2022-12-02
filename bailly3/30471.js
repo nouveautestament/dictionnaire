@@ -1,0 +1,1 @@
+lar[30471]=`<b>εἱλι·τενής, ής, ές</b> <font color="purple">[ῐ]</font> qui s’allonge en spirale (<i>plante</i>) THCR. <i>Idyl. 13, 42</i>.<p><b>Étym</b>. εἱλίσσω, τείνω.`

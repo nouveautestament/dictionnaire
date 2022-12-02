@@ -1,0 +1,1 @@
+lar[30562]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>mot de sign. inconnue, ép. de Bacchus,</i> DP. <i>576</i>.<p>➳ <i>Voc</i>. -ῶτα, HH. <i>26, 2</i>.<p><b>Étym</b>. <i>inconnue</i>.`

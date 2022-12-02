@@ -1,0 +1,1 @@
+lar[91394]=`<b>ου (τὸ)</b> petit ver, ARSTT. <i>H.A. 5, 19 ; 6, 17 ; 9, 40</i>.<p><b>Étym</b>. <i>dim. de</i> σκώληξ.`

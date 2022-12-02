@@ -1,0 +1,1 @@
+lar[104089]=`<b>ὑπό·φαυλος, ος, ον</b>, quelque peu mauvais, HPC. <i>Fract. 756</i> ; MÉN. (POLL. <i>10, 98).</i><p>➳ <i>Fém</i>. -η, HPC. <i>l. c</i>.<p><b>Étym</b>. ὑ. φαῦλος.`

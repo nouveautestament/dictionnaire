@@ -1,0 +1,1 @@
+lar[91106]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> sorte de chardon comestible <i>ou</i> d’artichaut, HÉS. <i>O. 580</i> ; TH. <i>H.P. 6, 4, 3</i>.<p>➳ ἡ σκ. NUMÉN. (ATH. <i>371c</i>).`

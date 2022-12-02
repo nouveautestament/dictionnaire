@@ -1,0 +1,1 @@
+lar[8910]=`<b>ης, ες</b> <font color="purple">[ᾰκ]</font> semblable à du charbon, HPC. <i>595, 38</i> ; ARSTT. <i>Sens. 2, 7</i>.<p><b>Étym</b>. ἄνθραξ, -ωδης.`

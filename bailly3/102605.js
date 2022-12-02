@@ -1,0 +1,1 @@
+lar[102605]=`<i>adv</i>., avec arrogance, ESCHL. <i>Ch. 136</i>.<p><b>Étym</b>. ὑπέρκοπος.`

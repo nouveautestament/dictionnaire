@@ -1,0 +1,1 @@
+lar[88946]=`<b>ῥυτ·αγωγεύς, έως (ὁ)</b> <font color="purple">[ῡᾰ]</font> bride d’un cheval, XÉN. <i>Eq. 7, 1</i>.<p><b>Étym</b>. ῥυτά, ἄγω.`

@@ -1,0 +1,1 @@
+lar[26087]=`<b>δι·εθίζω</b> (<i>prés. sbj. 3 sg</i>. -ίζῃ) accoutumer, <i>acc</i>. ARÉT. <i>27, 13</i>.`

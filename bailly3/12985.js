@@ -1,0 +1,1 @@
+lar[12985]=`<b>ἀπό·νουσος, ος, ον</b>, exempt de maladie, SYN. <i>Hymn. 8, 35</i>.<p><b>Étym</b>. ἀπό, νοῦσος.`

@@ -1,0 +1,1 @@
+lar[88548]=`<i>adv</i>., à la racine, NIC. (SCH.-NIC. <i>Th. 462).</i><p><b>Étym</b>. ῥίζα, -θι.`

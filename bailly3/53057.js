@@ -1,0 +1,1 @@
+lar[53057]=`<i>gén</i>. <b>-πῆγος (ὁ)</b> ce qui est fiché <i>ou</i> fixé dans, <i>particul.</i> :<br><b>      1</b> pieu fiché en terre, APD. POL. <i>41 (conj</i>. κατάπηξιν).<br><b>      2</b> verrou, JOS. <i>B.J. 6, 5, 3</i>.<br><b>      3</b> bouture, jeune pousse, GEOP. <i>10, 65, 2</i>.<p><b>Étym</b>. καταπήγνυμι.`

@@ -1,0 +1,1 @@
+lar[1253]=`<i>adv</i>., sans regarder, SOPH. <i>O.C. 129</i>.`

@@ -1,0 +1,1 @@
+lar[39445]=`<i>vb. de</i> ἐπιτέμνω, NICOM. <i>Arithm. p. 150</i>.`

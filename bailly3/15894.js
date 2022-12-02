@@ -1,0 +1,1 @@
+lar[15894]=`<b>ου (ὁ)</b> <font color="purple">[κᾰ]</font> Askanios (Ascagne) <i>n. de deux Troyens,</i> IL. <i>2, 862 ; 13, 792 ; part. fils d’Énée,</i> DH. PLUT. <i>etc</i>.`

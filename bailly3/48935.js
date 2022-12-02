@@ -1,0 +1,1 @@
+lar[48935]=`<b>α, ον</b>, d’Illyrie, illyrien, XÉN. <i>Cyr. 1, 1, 4, etc.</i> ; οἱ Ἰλλύριοι <font color="purple">[ῠ]</font> les Illyriens, HDT. <i>1, 196</i> ; AR. <i>Av. 1521</i>.<p>➳ <i>Dans une inscr. att. écrit</i> Ἱλλύριος, CIA. <i>1, 277, 20 (envir. 415 av. J.-C. ; v. Meisterh. p. 67).</i><p><b>Étym</b>. Ἰλλυρία.`

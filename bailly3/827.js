@@ -1,0 +1,1 @@
+lar[827]=`<b>ἀγορανομέω-ῶ</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> être agoranome, ALEX. (ATH. <i>340b</i>).<br><b>      2</b> <i>à Rome,</i> être édile, DH. <i>10, 48</i> ; PLUT. <i>Marc. 2, etc</i>.<p><b>Étym</b>. ἀγορανόμος.`

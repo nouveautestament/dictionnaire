@@ -1,0 +1,1 @@
+lar[5182]=`<b>ἀμαλη·τόμος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> moissonneur, OPP. <i>C. 1, 522</i>.<p><b>Étym</b>. ἀμάλη, τέμνω.`

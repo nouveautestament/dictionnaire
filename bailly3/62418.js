@@ -1,0 +1,1 @@
+lar[62418]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκᾰ]</font> bonheur, félicité, LUC. <i>Herm. 71, etc.</i> ; βάλλ' ἐς μακαρίαν, PLAT. <i>Hipp. ma. 293a, ou</i> ἄπαγ' ἐς μακαρίαν, AR. <i>Eq. 1151, ou simpl</i>. ἐς μακαρίαν, ANTIPH. (<i>Com. fr. 3, 137</i>) au diable !.<p><b>Étym</b>. μάκαρ.`

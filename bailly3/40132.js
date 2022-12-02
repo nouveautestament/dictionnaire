@@ -1,0 +1,1 @@
+lar[40132]=`<b>ἐρασί·μολπος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui aime les chants, PD. <i>O. 14, 16</i>.<p><b>Étym</b>. ἐράω, μολπή.`

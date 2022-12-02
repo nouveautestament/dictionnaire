@@ -1,0 +1,1 @@
+lar[63715]=`<b>ιος (ὁ)</b> Meinis, <i>roi d’Égypte</i>, PLUT. <i>Is. et Osir</i>. 8.`

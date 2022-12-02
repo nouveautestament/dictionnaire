@@ -1,0 +1,1 @@
+lar[105015]=`<b>ου (ὁ)</b> animal à peau couverte d’écailles, EL. <i>N.A. 16, 6</i>.`

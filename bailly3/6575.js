@@ -1,0 +1,1 @@
+lar[6575]=`<b>ἀνα·βρύω</b>, jaillir, EL. <i>V.H. 3, 43</i> ; PHIL. <i>1, 477 ; avec un acc</i>. ἀν. ἄνθεα, NONN. <i>D. 7, 346,</i> se couvrir de fleurs.`

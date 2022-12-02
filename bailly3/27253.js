@@ -1,0 +1,1 @@
+lar[27253]=`<b>εως (ἡ)</b> soif, ESCHL. <i>Ch. 743, conj.</i> ; ATH. <i>10b</i>.<p><b>Étym</b>. δίψα.`

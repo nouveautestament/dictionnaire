@@ -1,0 +1,1 @@
+lar[35838]=`<b>ἐξ·εριθεύομαι</b> <font color="purple">[ῑ]</font> capter par ses intrigues, POL. <i>10, 25, 9</i>.`

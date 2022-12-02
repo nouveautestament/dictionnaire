@@ -1,0 +1,1 @@
+lar[107542]=`<b>ή, όν</b>, de Chaldée <i>ou</i> des Chaldéens, PLUT. <i>Mar. 42 ; Ath. 529f ;</i> ἡ μέθοδος Χαλδαϊκή, SEXT. <i>M. 5, 43, etc., ou simpl</i>. ἡ Χαλδαϊκή, SEXT. <i>735, 30 ; 736, 25 ; ou sans art</i>. Χαλδαϊκή, SEXT. <i>744, 6,</i> la méthode astrologique des Chaldéens.<p><b>Étym</b>. Χαλδαῖος.`

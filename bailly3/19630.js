@@ -1,0 +1,1 @@
+lar[19630]=`<b>ηκος (ὁ)</b> sorte de pain, ATH. <i>114f</i>.`

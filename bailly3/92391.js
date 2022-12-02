@@ -1,0 +1,1 @@
+lar[92391]=`<b>ου (ὁ)</b> Stényklèros, <i>v. et plaine de Messénie,</i> HDT. <i>9, 64</i>.`

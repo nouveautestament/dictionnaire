@@ -1,0 +1,1 @@
+lar[71822]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> similitude de nom, PLUT. <i>M. 427</i>.<br><b>      2</b> sens <i>ou</i> mot équivoque, ARSTT. <i>Soph. el. 4, 5, etc. ; p. opp. à</i> συνωνυμία, ARSTT. <i>Rhet. 3, 2, 7</i>.<p>➳ <i>Ion</i>. -ίη, ANTH. <i>7, 628</i>.<p><b>Étym</b>. ὁμώνυμος.`

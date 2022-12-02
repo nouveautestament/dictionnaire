@@ -1,0 +1,1 @@
+lar[109186]=`<b>χρυσο·κλαύστης, ου</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. qui verse des larmes d’or, NICOM. COM. (ATH. <i>781f dout. p</i>. χρυσόκλυστος).<p><b>Étym</b>. χρ. κλαίω.`

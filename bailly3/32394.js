@@ -1,0 +1,1 @@
+lar[32394]=`<b>ἐκ·χολάω-ῶ</b>, chasser la bile, purger, SPT. <i>3Macc. 3, 1</i>.<p><b>Étym</b>. ἐκ, χολή.`

@@ -1,0 +1,1 @@
+lar[3493]=`<font color="darkgreen">(<i>seul. prés. impf</i>. ἠκολάσταινον, <i>et f</i>. ἀκολαστανῶ)</font> s’abandonner à la licence <i>ou</i> au désordre, AR. <i>Av. 1226</i> ; PLAT. <i>Rsp. 555d ;</i> ARSTT. <i>Rhet. 2, 23</i> ; PLUT. <i>Alc. 36, etc</i>.<p><b>Étym</b>. ἀκόλαστος.`

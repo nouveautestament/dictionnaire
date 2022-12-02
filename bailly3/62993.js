@@ -1,0 +1,1 @@
+lar[62993]=`<b>ων (οἱ)</b> = <i>lat</i>. Marrucini, les Marrucins, <i>ppl. du Samnium,</i> PLUT. <i>Æmil. 20</i>.`

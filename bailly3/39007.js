@@ -1,0 +1,1 @@
+lar[39007]=`<b>εως (ἡ)</b> action de surveiller, d’inspecter, EN. TACT. <i>Pol. 10, 3</i>.<p><b>Étym</b>. ἐπισκοπέω.`

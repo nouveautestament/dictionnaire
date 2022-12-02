@@ -1,0 +1,1 @@
+lar[238]=`<b>Ἀγαθ·αρχίς, ίδος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Agatharkhis, <i>f</i>. ANTH. <i>6, 352</i>.<p><b>Étym</b>. <i>cf</i>. Ἀγάθαρχος.`

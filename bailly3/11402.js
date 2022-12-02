@@ -1,0 +1,1 @@
+lar[11402]=`<b>ἀ·παρρησίαστος, ος, ον</b>, qui ne parle pas librement <i>ou</i> franchement, POL. <i>23, 12, 2</i> ; LUC. <i>Cal. 9, etc</i>.<p><b>Étym</b>. ἀ, παρρησιάζομαι.`

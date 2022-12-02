@@ -1,0 +1,1 @@
+lar[58450]=`<b>ου (ὁ)</b> Kydnos (Cydnus) :<br><b>      1</b> <i>fl. de Cilicie (auj</i>. Berdan Çayı <i>ou</i> Tarsus Çayı) XÉN. <i>An. 1, 2, 23</i>.<br><b>      2</b> <i>n. du dieu de ce fleuve,</i> NONN. <i>D. 2, 634, etc</i>.`

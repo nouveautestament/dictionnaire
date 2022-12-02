@@ -1,0 +1,1 @@
+lar[66028]=`<b>μισο·δημότης, ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. ennemi du peuple, de la plèbe, DH. <i>7, 42</i>.<p><b>Étym</b>. μ. δημότης.`

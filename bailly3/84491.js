@@ -1,0 +1,1 @@
+lar[84491]=`<b>προ·καταπλήσσω</b>, frapper d’avance d’épouvante, <i>acc</i>. DC. <i>47, 34 ; au pass</i>. DS. <i>19, 106</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. POL. <i>5, 70, 9</i>.`

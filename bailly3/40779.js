@@ -1,0 +1,1 @@
+lar[40779]=`<b>ἐρυθρό·γραμμος, ος, ον</b>, rayé de lignes rouges, ARSTT. <i>fr. 278 : cf</i>. ATH. <i>321e</i>.<p><b>Étym</b>. ἐ. γραμμή.`

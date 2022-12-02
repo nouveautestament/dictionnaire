@@ -1,0 +1,1 @@
+lar[69188]=`<b>νυκτ·ωπός, ός, όν</b>, causé par des visions nocturnes, EUR. <i>I.T. 1279</i>.<p><b>Étym</b>. ν. ὤψ.`

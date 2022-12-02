@@ -1,0 +1,1 @@
+lar[96154]=`<b>ος, ον</b>, tiré ensemble, ARSTT. <i>Probl. 208</i>.<p><b>Étym</b>. συνέλκω.`

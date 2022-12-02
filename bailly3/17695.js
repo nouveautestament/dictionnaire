@@ -1,0 +1,1 @@
+lar[17695]=`<b>αὐτό·σπορος, ος, ον :<br>      1</b> ensemencé de soi-même, <i>d’où</i> naturellement fécond, ESCHL. <i>fr. 198</i>.<br><b>      2</b> semé, <i>càd</i>. engendré de soi-même, NONN. <i>D. 7, 73, etc</i>.<p><b>Étym</b>. αὐ. σπείρω.`

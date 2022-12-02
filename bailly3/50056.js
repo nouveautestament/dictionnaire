@@ -1,0 +1,1 @@
+lar[50056]=`<b>ἰχθυο·ειδής, ής, ές</b>, qui ressemble à un poisson, HDT. <i>7, 61</i>.<p><b>Étym</b>. ἰ. εἶδος.`

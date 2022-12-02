@@ -1,0 +1,1 @@
+lar[15761]=`<b>ου (ὁ)</b> Asbolos :<br><b>      1</b> <i>centaure,</i> HÉS.<br><b>      2</b> <i>autre,</i> ANTH.`

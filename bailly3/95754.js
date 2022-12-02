@@ -1,0 +1,1 @@
+lar[95754]=`<b>εως (ἡ) :<br>      1</b> action de resserrer, <i>d’où</i> resserrement, PLOT. <i>p. 458d ; particul</i>. ordre de bataille en lignes serrées, DC. <i>50, 32</i>.<br><b>      2</b> union, PLAT. <i>Tim. 18d, Rsp. 460a</i>.<p><b>Étym</b>. συνέργω.`

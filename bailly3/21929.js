@@ -1,0 +1,1 @@
+lar[21929]=`<b>*γη·πετής</b>, <i>seul. dor</i>. <b>γαπετής, ής, ές</b> <font color="purple">[ᾰ]</font> tombé à terre, EUR. <i>Ph. 668</i>.<p><b>Étym</b>. γῆ, πετ- <i>de</i> πίπτω.`

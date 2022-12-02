@@ -1,0 +1,1 @@
+lar[51052]=`<b>ῶν (οἱ)</b> les Kalinges, <i>pple de l’Inde,</i> EL. <i>N.A. 16, 18</i>.`

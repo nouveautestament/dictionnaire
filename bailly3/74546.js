@@ -1,0 +1,1 @@
+lar[74546]=`<b>παλίμ·πρατος, ος, ον</b> <font color="purple">[ᾰᾱ]</font> sans cesse revendu, <i>en parl. d’un mauvais esclave, p. suite,</i> mauvais sujet, misérable, PHIL. <i>2, 523</i>.<p>➳ <i>Ion</i>. παλίμπρητος, ANTH. <i>9, 284</i>.<p><b>Étym</b>. π. πιπράσκω.`

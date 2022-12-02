@@ -1,0 +1,1 @@
+lar[42589]=`<b>εὐ·λίβανος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui produit beaucoup d’encens, ORPH. <i>H. 54, 17</i>.<p><b>Étym</b>. εὖ, λίβανος.`

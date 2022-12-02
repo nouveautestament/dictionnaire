@@ -1,0 +1,1 @@
+lar[101349]=`<b>ή, όν</b>, traité outrageusement, maltraité, EM. <i>697, 57</i>.<p><b>Étym</b>. <i>vb. de</i> ὑβρίζω.`

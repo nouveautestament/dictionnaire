@@ -1,0 +1,1 @@
+lar[103974]=`<b>ὑπο·ταφρεύω</b>, creuser en dessous, miner, APP. <i>Lib. 16</i>.`

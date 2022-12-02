@@ -1,0 +1,1 @@
+lar[9263]=`<b>ἀν·όμματος, ος, ον</b> <font color="purple">[μᾰ]</font> qui a les yeux fermés, SOPH. <i>Ph. 857</i>.<p><b>Étym</b>. ἀν-, ὄμμα.`

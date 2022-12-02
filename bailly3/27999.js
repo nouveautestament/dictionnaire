@@ -1,0 +1,1 @@
+lar[27999]=`<b>δρυο·κολάπτης, ου (ὁ)</b> pivert, <i>oiseau (litt</i>. qui entaille <i>ou</i> becquète les chênes) ARSTT. <i>H.A. 8, 3 ; 9, 9</i> ; TH. <i>H.P. 9, 8, 6</i> ; EL. <i>N.A. 1, 45</i> = <i>lat</i>. picus, DH. <i>1, 14</i>.<p><b>Étym</b>. δρῦς, κολάπτω.`

@@ -1,0 +1,1 @@
+lar[95444]=`<b>συν·ελαττόω-ῶ</b>, amoindrir ensemble, A. TAT.`

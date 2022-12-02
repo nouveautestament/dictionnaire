@@ -1,0 +1,1 @@
+lar[28825]=`<b>ας (ἡ)</b> difficulté pour respirer, respiration courte, XÉN. <i>Cyn. 9, 20</i> ; NYMPHIS (ATH. <i>549b</i>) ; GAL. <i>7, 219 ; au plur</i>. ARÉT. <i>7, 47</i>.<p><b>Étym</b>. δύσπνοος.`

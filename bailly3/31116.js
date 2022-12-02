@@ -1,0 +1,1 @@
+lar[31116]=`<b>ἐκ·βόσκω</b> <font color="darkgreen">(<i>ao. part</i>. -βοσκησάσης)</font> absorber, consumer, A. APHR. <i>Probl. 2, 29</i>.<br><b><i>Moy.</i></b> <i>(prés.) m. sign</i>. NIC. <i>Th. 803 ; fig. en parl. de la douleur,</i> ARISTÉN. <i>2, 5</i>.`

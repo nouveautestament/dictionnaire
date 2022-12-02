@@ -1,0 +1,1 @@
+lar[85069]=`<b>ας (ἡ)</b> nouvelle qu’on apporte, POL. <i>5, 110, 11 ; 14, 6, 2</i> ; PLUT. <i>M. 118f</i>.<p><b>Étym</b>. προσαγγέλλω.`

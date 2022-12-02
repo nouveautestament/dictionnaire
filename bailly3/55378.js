@@ -1,0 +1,1 @@
+lar[55378]=`<b>κιβδηλιάω-ῶ</b>, être pâle comme l’or falsifié, ARSTT. <i>Probl. 1, 5</i>.<p><b>Étym</b>. κίβδηλος.`

@@ -1,0 +1,1 @@
+lar[39112]=`<b>ἐπι·στενάζω</b>, gémir sur, <i>dat</i>. ESCHL. <i>Pers. 727</i> ; PLUT. <i>Brut. 51 ; abs</i>. EUR. <i>I.T. 283</i>.`

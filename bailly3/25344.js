@@ -1,0 +1,1 @@
+lar[25344]=`<b>εως (ἡ)</b> embarras, doute, POL. <i>28, 3, 6 ; t. de gr</i>. DYSC. <i>Adv. 534, 16</i>.<p><b>Étym</b>. διαπορέω.`

@@ -1,0 +1,1 @@
+lar[97359]=`<b>(τὸ)</b> <font color="purple">[ᾰῠῐ]</font> <i>indécl. dans la locut.</i> : μηδὲ τάγυρι, EUP. (PHOT. <i>564, 17</i>) pas même un peu, pas le moins du monde.`

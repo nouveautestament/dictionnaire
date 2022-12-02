@@ -1,0 +1,1 @@
+lar[42146]=`<b>εὔ·ηχος, ος, ον</b>, <i>c</i>. εὐηχής, DH. <i>Comp. 14</i> ; ATH. <i>80d ; pl. neutre adv</i>. εὔηχα, LUC. <i>Philopatr. 3</i>.`

@@ -1,0 +1,1 @@
+lar[58596]=`<b>κυκνό·μορφος, ος, ον</b>, qui a la forme d’un cygne, ESCHL. <i>Pr. 795</i>.<p><b>Étym</b>. κ. μορφή.`

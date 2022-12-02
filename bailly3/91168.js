@@ -1,0 +1,1 @@
+lar[91168]=`<b>ης (ἡ)</b> scorpion de mer, <i>poisson,</i> ATH. <i>320f</i>.<p><b>Étym</b>. σκορπίος.`

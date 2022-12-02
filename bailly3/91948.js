@@ -1,0 +1,1 @@
+lar[91948]=`<b>ης, ες</b>, malade de la rate, HPC. <i>Aph. 1257, etc</i>.<p><b>Étym</b>. σπλήν, -ωδης.`

@@ -1,0 +1,1 @@
+lar[587]=`<b>ιδος (ἡ)</b> Agiâtis, <i>femme du roi Agis,</i> PLUT. <i>Cleom. 1, 22</i>.`

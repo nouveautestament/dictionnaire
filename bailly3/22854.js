@@ -1,0 +1,1 @@
+lar[22854]=`<b>ης, ες</b> <font color="purple">[ῡῑ]</font> semblable à un têtard, ARSTT. <i>P.A. 6, 13, 12</i>.<p><b>Étym</b>. γυρῖνος, -ωδης.`

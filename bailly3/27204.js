@@ -1,0 +1,1 @@
+lar[27204]=`<b>διχό·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> dont l’esprit est double, <i>càd.</i> :<br><b>      1</b> irrésolu, incertain, PHIL. <i>2, 663</i>.<br><b>      2</b> équivoque, fourbe, PHIL. <i>2, 269, 469</i>.<p><b>Étym</b>. δίχα, νόος.`

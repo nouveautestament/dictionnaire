@@ -1,0 +1,1 @@
+lar[14709]=`<b>Ἀριστο·κράτης, ους (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Aristokratès, <i>h</i>. HDT. <i>6, 73</i> ; THC. <i>5, 19, etc</i>.<p>➳ <i>Gén. ion</i>. -εος, HDT. <i>6, 73 ; gén. épq</i>. -ευς, ANTH. <i>7, 440 ; acc</i>. -ην, <i>qqf</i>. -η, PLUT. <i>Lyc. 4</i>.<p><b>Étym</b>. ἄ. κράτος.`

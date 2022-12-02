@@ -1,0 +1,1 @@
+lar[54188]=`<b>ου (ὁ)</b> = <i>lat</i>. Catulus, <i>n. d’h. rom</i>. PLUT. <i>Popl. 15</i>.<p><b>Étym</b>. <i>cf</i>. Κάτλος.`

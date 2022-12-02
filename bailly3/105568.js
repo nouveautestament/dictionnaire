@@ -1,0 +1,1 @@
+lar[105568]=`<b>φίλ·ερις</b>, <i>gén</i>. <b>ιδος (ὁ, ἡ)</b> <font color="purple">[ῐῐδ]</font> qui aime <i>ou</i> recherche les querelles, querelleur, chicaneur, AXION. (ATH. <i>240a</i>) ; ARSTT. <i>Soph. el. 11, 5</i>.`

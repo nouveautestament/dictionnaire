@@ -1,0 +1,1 @@
+lar[26036]=`<b>διδυμ·άνωρ, ορος</b> (ὁ, ἡ, τὸ) <font color="purple">[ῐῠᾱ]</font> qui concerne deux hommes à la fois, ESCHL. <i>Sept. 849 (conj</i>. δίδυμ' ἀγανόρει' ἄχη <i>Weil).</i><p><b>Étym</b>. δίδυμος, ἀνήρ.`

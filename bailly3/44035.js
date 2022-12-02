@@ -1,0 +1,1 @@
+lar[44035]=`<b>ή, όν</b>, cloué, HÉRON <i>Aut. 244</i>.<p><b>Étym</b>. <i>vb. de</i> ἐφηλόω.`

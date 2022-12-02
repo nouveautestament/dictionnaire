@@ -1,0 +1,1 @@
+lar[66920]=`<b>μουσο·πάτακτος, ος, ον</b> <font color="purple">[πᾰ]</font> frappé, <i>càd</i>. inspiré par les Muses, CIC. <i>Q. fr. 2, 10</i>.<p><b>Étym</b>. μ. πατάσσω.`

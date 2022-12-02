@@ -1,0 +1,1 @@
+lar[74246]=`<b>ας (ἡ)</b> amour pour les jeunes garçons, PLAT. <i>Conv. 181c</i>.<p><b>Étym</b>. παιδεραστής.`

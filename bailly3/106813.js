@@ -1,0 +1,1 @@
+lar[106813]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> qui concerne les phratries, ATH. <i>185c.</i><br><b>      2</b> <i>à Rome,</i> qui concerne les curies : ἐκκλησία φρατρική, DH. <i>4, 20,</i> l’assemblée curiate.<p><b>Étym</b>. φρατρία.`

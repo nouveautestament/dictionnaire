@@ -1,0 +1,1 @@
+lar[41224]=`<b>α, ον</b>, plus intérieur, plus intime, NT. <i>Ap. 16, 24</i>.`

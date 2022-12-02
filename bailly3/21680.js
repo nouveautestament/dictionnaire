@@ -1,0 +1,1 @@
+lar[21680]=`<b>ῆρος (ὁ)</b> père, ARSTT. <i>Mund. 5</i> ; ANTH. <i>7, 602 ; au plur</i>. ancêtres, MUS. <i>125</i>.<p><b>Étym</b>. γίγνομαι.`

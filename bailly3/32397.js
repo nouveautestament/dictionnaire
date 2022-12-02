@@ -1,0 +1,1 @@
+lar[32397]=`<b>εως (ἡ)</b> action d’émouvoir la bile, d’irriter, A. TR. <i>1, 31</i>.<p><b>Étym</b>. ἐκχολόω.`

@@ -1,0 +1,1 @@
+lar[85631]=`<b>προσ·επάγω</b> <font color="darkgreen">(<i>f</i>. -επάξω, <i>ao.2</i> -επήγαγον, <i>etc</i>.)</font> <font color="purple">[ᾰ]</font> produire en outre, <i>d’où</i> ajouter, <i>acc</i>. POL. <i>15, 25, 6</i> ; ATH. <i>216b ;</i> CLÉM. <i>283</i>.`

@@ -1,0 +1,1 @@
+lar[63604]=`<b>μεθ·ήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui laisse aller, qui néglige, <i>gén</i>. ANACR. <i>61, 17 ; abs</i>. négligent, nonchalant, IL. <i>2, 241</i> ; OD. <i>6, 25</i>.<p><b>Étym</b>. μεθίημι.`

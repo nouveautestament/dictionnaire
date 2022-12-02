@@ -1,0 +1,1 @@
+lar[92779]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> tordu, tors, DRAC. <i>63, 8</i> ; GAL. <i>2, 102</i> ; A. APHR. <i>Probl. 42, 29</i>.<br><b>      2</b> qui a les yeux de travers, louche, GAL. <i>Lex. Hipp. 19, 141</i>.<p><b>Étym</b>. στρεβλός.`

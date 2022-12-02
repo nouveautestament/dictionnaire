@@ -1,0 +1,1 @@
+lar[104277]=`<b>(ὁ)</b> <i>égypt. p</i>. Ὄσιρις, HELLANIC. (PLUT. <i>M. 364d</i>).`

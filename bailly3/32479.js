@@ -1,0 +1,1 @@
+lar[32479]=`<b>*ἐλαιο·φόρος</b>, <i>att</i>. <b>ἐλαο·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui produit des oliviers <i>ou</i> de l’huile d’olive, EUR. <i>H.f. 1178</i> ; TH. <i>C.P. 2, 4, 4</i>.<p><b>Étym</b>. ἐλαία <i>ou</i> ἔλαιον, φέρω.`

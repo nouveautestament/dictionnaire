@@ -1,0 +1,1 @@
+lar[80175]=`<b>ιδος</b> <font color="purple">[ῑᾰῑῐδ]</font> <i>adj. f</i>. de source, HPC. <i>Ep. 1278, 12</i>.<p><b>Étym</b>. πῖδαξ.`

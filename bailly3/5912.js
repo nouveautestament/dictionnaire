@@ -1,0 +1,1 @@
+lar[5912]=`<b>ἄ·μυθος, ος, ον</b> <font color="purple">[ῡ]</font> sans fables, PLUT. <i>M. 16c</i>.<p><b>Étym</b>. ἀ, μῦθος.`

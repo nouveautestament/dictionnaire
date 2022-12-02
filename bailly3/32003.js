@@ -1,0 +1,1 @@
+lar[32003]=`<b>ἐκ·ριζόω-ῶ</b>, déraciner, SPT. <i>Jud. 5, 14 ; Sap. 4, 4 ; Sir. 3, 9, etc.</i> ; NT. <i>Matth. 13, 29 ; 15, 13 ; Luc. 17, 6 ; au pass</i>. BABR. <i>36, 8</i>.`

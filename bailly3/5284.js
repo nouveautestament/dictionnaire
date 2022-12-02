@@ -1,0 +1,1 @@
+lar[5284]=`<b>(ὁ)</b> Amasis :<br><b>      1</b> <i>roi d’Égypte,</i> HDT. <i>1, 30, etc.</i> ; PLAT. <i>Tim. 21e, etc.</i><br><b>      2</b> <i>chef perse,</i> HDT. <i>4, 167 etc</i>.<p>➳ <i>Gén</i>. -ιος, HDT. <i>3, 1</i> ; DS. <i>10, 32, etc.</i> ; -ιδος, DL. <i>8, 1, etc. ; dat</i>. -ι, HDT. <i>3, 4 ; acc</i>. -ιν.<p><b>Étym</b>. <i>n. oriental</i>.`

@@ -1,0 +1,1 @@
+lar[62176]=`<b>ου (τὸ)</b> petit vêtement, petit manteau, ARSTT. <i>Metaph. 3, 4, 14, etc.</i> ; ANTH. <i>6, 245</i>.<p><b>Étym</b>. <i>dim. de</i> λώπη.`

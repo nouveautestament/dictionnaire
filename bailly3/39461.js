@@ -1,0 +1,1 @@
+lar[39461]=`<b>ἐπι·τοξεύω</b>, lancer des traits, DC. <i>68, 31</i> ; τινά, ARISTÉN. <i>1, 1,</i> sur qqn.<br><b><i>Moy.</i></b> atteindre avec un trait, <i>gén</i>. HÉRON.`

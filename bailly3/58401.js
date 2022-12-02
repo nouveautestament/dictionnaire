@@ -1,0 +1,1 @@
+lar[58401]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> du jeu de dés, ESCHN. <i>9, 9</i>.<br><b>      2</b> habile au jeu de dés, PLAT. <i>Rsp. 374c</i>.<p><b>Étym</b>. κυβεύω.`

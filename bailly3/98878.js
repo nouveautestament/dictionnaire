@@ -1,0 +1,1 @@
+lar[98878]=`<b>(ὁ)</b> Tekhnôn, <i>h</i>. PLUT. <i>Arat. 5, 7, etc</i>.<p><b>Étym</b>. τέχνη.`

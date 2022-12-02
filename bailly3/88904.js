@@ -1,0 +1,1 @@
+lar[88904]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c. ῥύπος seul. au pl</i>. OD. <i>6, 93</i>.`

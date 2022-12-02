@@ -1,0 +1,1 @@
+lar[83421]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Priape, <i>fils d’Aphrodite et de Bacchus, dieu des jardins et de la fécondité,</i> DS. <i>4, 6</i> ; LUC. <i>D. deor. 23, 1, etc. ; plur. ion</i>. Πρίηποι, MOSCH. <i>3, 27,</i> des Priapes.<p>➳ <i>Ion. et épq</i>. Πρίηπος, MOSCH. <i>l. c. ; dor. gén</i>. Πριήπω, THCR. <i>Idyl. 1, 21</i>.`

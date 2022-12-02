@@ -1,0 +1,1 @@
+lar[16209]=`<b>ἀστερ·ωπός, ός, όν :<br>      1</b> brillant comme une étoile, ESCHL. <i>fr. 169</i> ; EUR. <i>Hipp. 851 (conj</i>. ἀστρωπός).<br><b>      2</b> brillant d’étoiles, étoilé, EUR. <i>Ion 1079</i>.<p><b>Étym</b>. ἀ. ὤψ.`

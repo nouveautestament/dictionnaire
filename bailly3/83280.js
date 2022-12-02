@@ -1,0 +1,1 @@
+lar[83280]=`<b>ου (ὁ)</b> Prassæos, <i>propr</i>. « vert-de-poireau », <i>n. de grenouille,</i> BATR. <i>255</i>.<p><b>Étym</b>. πράσον.`

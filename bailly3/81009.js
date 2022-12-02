@@ -1,0 +1,1 @@
+lar[81009]=`<i>adv</i>., pleinement, NICOM. <i>Arithm. 1, 18</i>.<p><b>Étym</b>. πληρόω.`

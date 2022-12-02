@@ -1,0 +1,1 @@
+lar[43217]=`<b>ου (ὁ)</b> Euros (l’Eurus) <i>vent d’est-sud-est,</i> IL. <i>2, 145</i> ; ARSTT. <i>Meteor. 2, 6, 12, etc</i>.<p><b>Étym</b>. <i>p.-ê. de</i> εὕω, dessécher.`

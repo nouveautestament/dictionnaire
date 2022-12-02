@@ -1,0 +1,1 @@
+lar[11075]=`<b>ῆρος (ὁ)</b> qui vient annoncer, messager, ANTH. <i>6, 5</i> ; SIB. <i>7, 83</i>.`

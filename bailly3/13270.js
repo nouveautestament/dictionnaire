@@ -1,0 +1,1 @@
+lar[13270]=`<b>ἀπο·σαρόω-ῶ</b> <font color="purple">[σᾰ]</font> nettoyer en balayant, balayer, NYSS.`

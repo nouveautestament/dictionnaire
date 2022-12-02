@@ -1,0 +1,1 @@
+lar[94248]=`<b>συμ·πίμπρημι</b> <i>ou mieux</i> <b>συμ·πίπρημι</b>, brûler avec <i>ou</i> ensemble, PLUT. <i>Agis 13 dout</i>.`

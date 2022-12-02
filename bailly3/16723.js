@@ -1,0 +1,1 @@
+lar[16723]=`<b>ἀ·τέκμων, ονος</b>, <i>adj. f</i>. qui n’enfante pas, stérile, MAN. <i>4, 584</i>.<p><b>Étym</b>. ἀ, τίκτω.`

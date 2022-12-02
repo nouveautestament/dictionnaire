@@ -1,0 +1,1 @@
+lar[97511]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font> Tanaos, <i>fl. de Cynurie,</i> EUR. <i>El. 410</i>.<p><b>Étym</b>. <i>v</i>. Τάνος.`

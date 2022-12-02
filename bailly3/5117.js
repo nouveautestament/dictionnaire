@@ -1,0 +1,1 @@
+lar[5117]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite grange, GEOP. <i>12, 2, 2</i>.<p><b>Étym</b>. ἅλων.`

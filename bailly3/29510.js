@@ -1,0 +1,1 @@
+lar[29510]=`<b>ἐγ·καταγηράσκω</b>, vieillir dans, <i>dat. ; en parl. de pers</i>. PLUT. <i>Phoc. 30 (ao</i>. ἐγκατεγήρασε) ; <i>en parl. de choses</i> (habitudes qui s’invétèrent) DIN. <i>105, 20 (pf. part</i>. -καταγεγηρακυῖαν).<p><b>Étym</b>. ἐν, κ.`

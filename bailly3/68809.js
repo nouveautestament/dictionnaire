@@ -1,0 +1,1 @@
+lar[68809]=`<b>ῆρος (ὁ)</b> vase pour laver les pieds, NT. <i>Joh. 13, 5</i>.<p><b>Étym</b>. νίπτω.`

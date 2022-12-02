@@ -1,0 +1,1 @@
+lar[34712]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font> dix-neuvième, HPC. <i>Epid. 3, 1076</i> ; CIA. <i>3, 677, 6 (120/150 après J.-C.), etc., v. Meisterh. p. 125, note 1122</i>.<p><b>Étym</b>. ἐννεακαίδεκα.`

@@ -1,0 +1,1 @@
+lar[99053]=`<b>τιαρο·ειδής, ής, ές</b> <font color="purple">[ᾱ]</font> en forme de tiare, XÉN. <i>An. 5, 4, 13</i>.<p><b>Étym</b>. τ. εἶδος.`

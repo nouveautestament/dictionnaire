@@ -1,0 +1,1 @@
+lar[98404]=`<b>α, ον</b>, de Terpandros, Ps.-PLUT. <i>Mus. 4</i>.<p><b>Étym</b>. Τέρπανδρος.`

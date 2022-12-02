@@ -1,0 +1,1 @@
+lar[109408]=`<b>χωλό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, au pied boiteux, boiteux, MAN. <i>4, 118</i>.<p><b>Étym</b>. χ. πούς.`

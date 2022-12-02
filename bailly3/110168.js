@@ -1,0 +1,1 @@
+lar[110168]=`<b>ὠκυ·δήκτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> aux morsures aiguës, <i>ép. d’une lime,</i> ANTH. <i>6, 92</i>.<p><b>Étym</b>. ὠ. δάκνω.`

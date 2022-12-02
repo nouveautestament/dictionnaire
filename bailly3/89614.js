@@ -1,0 +1,1 @@
+lar[89614]=`<b>α, ον</b>, qui sert à éteindre, THC. <i>7, 53</i> ; τὸ σβεστήριον, DH. <i>3, 56</i> ; PLUT. <i>Cam. 34, etc</i>. moyen d’éteindre ; τὰ σβεστήρια, PHIL. BYZ. procédés d’extinction des incendies ; <i>fig</i>. HÉRACLITE GRAMM. <i>All. Hom. p. 436</i>.<p><b>Étym</b>. σβέννυμι.`

@@ -1,0 +1,1 @@
+lar[74289]=`<b>παιδο·κτόνος, ος, ον</b>, qui tue des enfants <i>ou</i> ses enfants, SOPH. <i>Ant. 1305</i> ; EUR. <i>H.f. 825, etc</i>.<p><b>Étym</b>. π. κτείνω.`

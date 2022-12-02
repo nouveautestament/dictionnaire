@@ -1,0 +1,1 @@
+lar[27710]=`<i>adv</i>., servilement, bassement, GAL. <i>11, 483</i> ; DC. <i>61, 15 ; etc</i>.<p>•<i> Sup</i>. -πρεπέστατα, CRAT. <i>fr. 106</i>.<p><b>Étym</b>. δουλοπρεπής.`

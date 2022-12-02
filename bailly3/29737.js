@@ -1,0 +1,1 @@
+lar[29737]=`<i>adv</i>., avec un profond ressentiment, PHIL. <i>2, 520</i>.<p><b>Étym</b>. ἔγκοτος¹	.`

@@ -1,0 +1,1 @@
+lar[44320]=`<i>ou</i> -όω, nourrir d’aliments cuits, ESCHL. <i>fr. 50</i>.`

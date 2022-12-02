@@ -1,0 +1,1 @@
+lar[96051]=`<b>εως (ἡ)</b> action de mortifier ensemble, NAZ. <i>2, 401 Migne</i>.`

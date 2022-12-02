@@ -1,0 +1,1 @@
+lar[82098]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grand nombre de parties, PHIL. <i>1, 506</i> ; PLUT. <i>M. 910c</i>.<p><b>Étym</b>. πολυμερής.`

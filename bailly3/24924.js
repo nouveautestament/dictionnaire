@@ -1,0 +1,1 @@
+lar[24924]=`<i>vb. de</i> διαλέγω <i>ou</i> διαλέγομαι, PLAT. <i>Lys. 211c ;</i> ISOCR. <i>260c ;</i> ARSTT. <i>Top. 8, 14</i> ; ARISTÉN. <i>2, 19, etc</i>.`

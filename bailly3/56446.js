@@ -1,0 +1,1 @@
+lar[56446]=`<b>ατος (τὸ) :<br>      1</b> creux, cavité, ARSTT. <i>Respir. 5, 8 ; particul</i>. lit de la mer, d’un fleuve, POL. <i>4, 39, 2, etc.</i> ; LUC. <i>Am. 34</i>.<br><b>      2</b> tache sur la cornée, GAL. <i>14, 773</i>.<p><b>Étym</b>. κοιλόω.`

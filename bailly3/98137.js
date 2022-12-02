@@ -1,0 +1,1 @@
+lar[98137]=`<b>εως (ἡ) :<br>      1</b> accomplissement, achèvement, ARSTT. <i>Metaph. 4, 16, 1</i> ; DS. <i>2, 29</i> ; NT. <i>Luc. 1, 46 ; 10, 9</i>.<br><b>      2</b> maturité, ARSTT. <i>H.A. 6, 3, 4, etc.</i> ; TH. <i>H.P. 3, 4, 3</i>.<p><b>Étym</b>. τελειόω.`

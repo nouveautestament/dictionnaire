@@ -1,0 +1,1 @@
+lar[3744]=`<b>ἀκρο·βαφής, ής, ές</b> <font color="purple">[βᾰ]</font><br><b>      1</b> dont l’extrémité seule est mouillée, ANTH. <i>6, 66</i>.<br><b>      2</b> qui rase la surface de l’eau, NONN. <i>D. 1, 65</i>.<p><b>Étym</b>. ἄ. βάπτω.`

@@ -1,0 +1,1 @@
+lar[43115]=`<b>εὐ·πρόσιτος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> accessible, STR. <i>545</i> ; LUC. <i>V.H. 2, 44 ; fig</i>. ES. <i>42.3 Chambry</i>.<br><b>      2</b> affable, MAN. <i>5, 288</i>.<p><b>Étym</b>. εὖ, πρόσειμι.`

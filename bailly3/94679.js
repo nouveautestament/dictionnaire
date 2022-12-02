@@ -1,0 +1,1 @@
+lar[94679]=`<b>συν·αμύνω</b> <font color="purple">[ᾰῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> venir au secours de, <i>dat</i>. EUR. <i>I.A. 62</i> ; JOS. <i>B.J. 2, 20, 7</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. Ps.-ERATOSTH. <i>Cat. 33</i> ; EL. <i>N.A. 8, 36</i>.`

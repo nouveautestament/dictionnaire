@@ -1,0 +1,1 @@
+lar[66114]=`<b>μιτρο·φόρος, ος, ον</b>, qui porte une mitre, <i>en parl. du grand-prêtre des Juifs,</i> PLUT. <i>M. 672a</i>.<p><b>Étym</b>. μίτρα, φέρω ; <i>cf</i>. μιτρηφόρος.`

@@ -1,0 +1,1 @@
+lar[104250]=`<b>ιος (ὁ)</b> Hyrgis (<i>auj</i>. Donets) <i>fl. de Sarmatie,</i> HDT. <i>4, 57</i>.`

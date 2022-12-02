@@ -1,0 +1,1 @@
+lar[49637]=`<b>ἰσό·ζυγος, ος, ον</b> <font color="purple">[ῐῠ]</font> <i>c</i>. ἰσόζυξ NONN. <i>Jo. 5, 23</i>.`

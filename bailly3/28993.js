@@ -1,0 +1,1 @@
+lar[28993]=`<b>ας (ἡ)</b> <font color="purple">[φῠ]</font> difficulté de naître <i>ou</i> de pousser, TH. <i>C.P. 4, 8, 2</i>.<p><b>Étym</b>. δυσφυής.`

@@ -1,0 +1,1 @@
+lar[42978]=`<b>εὐ·περιάγωγος, ος, ον</b> <font color="purple">[ᾰ]</font> aisé à faire tourner, LUC. <i>Musc. enc. 3</i>.<p><b>Étym</b>. εὖ, περιάγω.`

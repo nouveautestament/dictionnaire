@@ -1,0 +1,1 @@
+lar[79836]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰῑῐδ]</font> <i>autre n. de la plante</i> φυλλῖτις, NIC. <i>Th. 864</i>.<p><b>Étym</b>. πέταλον.`

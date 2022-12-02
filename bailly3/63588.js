@@ -1,0 +1,1 @@
+lar[63588]=`<b>εως (ἡ)</b> action d’interpréter, traduction, ARSTT. <i>Plant. proœm</i>.<p><b>Étym</b>. μεθερμηνεύω.`

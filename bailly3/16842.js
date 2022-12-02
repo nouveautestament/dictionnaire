@@ -1,0 +1,1 @@
+lar[16842]=`<b>ων (οἱ)</b> les populations de l’Atlas, <i>en Libye,</i> HDT.`

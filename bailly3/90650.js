@@ -1,0 +1,1 @@
+lar[90650]=`<font color="purple">[δᾰ]</font> causer du scandale, scandaliser, NT. <i>Matth. 5, 29 ; 17, 27, etc. ; au pass</i>. être scandalisé, être offensé, NT. <i>Matth. 11, 6 ; 26, 31 et 33, etc</i>.<p><b>Étym</b>. σκανδάλον.`

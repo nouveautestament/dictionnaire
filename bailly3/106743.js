@@ -1,0 +1,1 @@
+lar[106743]=`<i>adv. au sens de</i> κατά τι <i>ou</i> τινί, PHILOD. <i>V. Herc. p. 32, 46,</i> selon qqe ch.<p><b>Étym</b>. φορός.`

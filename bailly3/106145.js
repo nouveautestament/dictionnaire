@@ -1,0 +1,1 @@
+lar[106145]=`<b>ατος (τὸ)</b> <font color="purple">[ῐῑ]</font><br><b>      1</b> ce qu’on fait par amour-propre, par émulation, <i>ou, en mauv. part,</i> par ostentation, PLUT. <i>Alc. 16, M. 822a.</i><br><b>      2</b> objet d’ambition, LUC. <i>Tim. 43</i>.<p><b>Étym</b>. φιλοτιμέομαι.`

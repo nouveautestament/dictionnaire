@@ -1,0 +1,1 @@
+lar[52071]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> Kastalia (Castalie) <i>fontaine du Parnasse, près de Delphes</i> PD. <i>P. 1, 75</i> ; HDT. <i>8, 39</i> ; SOPH. <i>Ant. 1130, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c. etc</i>.`

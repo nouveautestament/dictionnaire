@@ -1,0 +1,1 @@
+lar[81334]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> <i>c</i>. ποθεινός, ANTH. <i>7, 403</i>.`

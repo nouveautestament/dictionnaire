@@ -1,0 +1,1 @@
+lar[64290]=`<b>ῶν (αἱ)</b> sorte de poires, GAL. <i>6, 351</i>.<p><b>Étym</b>. <i>p.-ê. de Ménes, v. de Sicile</i>.`

@@ -1,0 +1,1 @@
+lar[77870]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πέμμα ATH. <i>645e</i>.`

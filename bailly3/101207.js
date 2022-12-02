@@ -1,0 +1,1 @@
+lar[101207]=`<b>τυφωνο·ειδῶς</b> <font color="purple">[ῡ]</font> comme une trombe, comme un ouragan, STR. <i>248</i>.<p><b>Étym</b>. τυφῶν, εἶδος.`

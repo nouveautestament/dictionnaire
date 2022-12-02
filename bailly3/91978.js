@@ -1,0 +1,1 @@
+lar[91978]=`<b>σποδόω-ῶ</b>, réduire en cendres, HPC. <i>667, 10</i> ; LYC. <i>178</i> ; ANTH. <i>10, 90</i>.<br><b><i>Moy.</i></b> se couvrir de cendres, SPT. <i>Judith 4, 11</i>.<p><b>Étym</b>. σποδός.`

@@ -1,0 +1,1 @@
+lar[73191]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰσ]</font> <i>c</i>. ὁσαπλάσιος ARSTT. <i>Probl. 21, 22, 2</i>.<p><b>Étym</b>. ὅσος, -πλασιον.`

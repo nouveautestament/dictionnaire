@@ -1,0 +1,1 @@
+lar[28291]=`<b>δυσ·διάγωγος, ος, ον</b> <font color="purple">[ᾰγ]</font> difficile à diriger, à gouverner, STR. <i>757</i>.<p>•<i> Cp</i>. -ότερος, PTOL. <i>Tetr. p. 168, 9</i>.<p><b>Étym</b>. δ. διαγωγή.`

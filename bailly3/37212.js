@@ -1,0 +1,1 @@
+lar[37212]=`<b>ἐπ·ευλαβέομαι-οῦμαι</b> <font color="purple">[λᾰ]</font> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐπευλαβεῖτο)</font> prendre garde, craindre de, SPT. <i>2Macc. 14, 18</i>.`

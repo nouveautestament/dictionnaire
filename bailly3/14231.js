@@ -1,0 +1,1 @@
+lar[14231]=`<b>ἀργέ·λοφοι, ων (οἱ)</b> pattes qui restent attachées à une dépouille d’animal, <i>fig</i>. accessoires inutiles, AR. <i>Vesp. 672</i>.<p><b>Étym</b>. ἀργός², λόφος.`

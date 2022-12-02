@@ -1,0 +1,1 @@
+lar[83067]=`<i>adv</i>., avec le goût de la boisson, PLUT. <i>Demetr. 36</i>.`

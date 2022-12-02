@@ -1,0 +1,1 @@
+lar[83763]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de marcher avant <i>ou</i> devant, GAL. <i>19, 373</i>.<br><b>      2</b> fortune consistant en troupeaux, OD. <i>2, 75 ; cf</i>. πρόβατον.<p><b>Étym</b>. προβαίνω.`

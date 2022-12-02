@@ -1,0 +1,1 @@
+lar[107688]=`<b>χαλκο·πώγων, ωνος (ὁ)</b> <i>traduct. du latin</i> Ahenobarbus, PLUT. <i>Æmil. 35</i>.<p><b>Étym</b>. χ. πώγων.`

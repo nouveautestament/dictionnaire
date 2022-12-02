@@ -1,0 +1,1 @@
+lar[20870]=`<b>ου (ὁ)</b> sang qui coule d’une blessure, <i>dans l’Il. touj. avec l’ép</i>. αἱματόεις : βρ. αἱμ. flot de sang, <i>7, 425 ; 14, 7 ; 18, 345 ; 23, 41 ; dans l’Od. avec</i> μέλας : βρ. μέλ. sang noir, <i>24, 189</i>.<p><b>Étym</b>. <i>Orig. inconnue</i>.`

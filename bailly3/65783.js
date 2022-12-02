@@ -1,0 +1,1 @@
+lar[65783]=`<b>ωνος (ὁ)</b> <font color="purple">[ῐ]</font> Mikôn :<br><b>      1</b> <i>peintre et sculpteur célèbre,</i> AR. <i>Lys. 679</i> ; THCR. <i>Idyl. 5, 112</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>7, 227, etc</i>.`

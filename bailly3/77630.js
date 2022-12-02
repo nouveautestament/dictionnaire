@@ -1,0 +1,1 @@
+lar[77630]=`<i>adv</i>., vers le Pirée, au Pirée, <i>avec mouv</i>. PHILSTR. <i>155</i>.<p><b>Étym</b>. Πειραεύς, -δε.`

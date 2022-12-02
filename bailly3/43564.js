@@ -1,0 +1,1 @@
+lar[43564]=`<b>εὔ·ταρσος, ος, ον :<br>      1</b> aux beaux pieds <i>ou</i> aux pieds agiles, ANTH. <i>7, 213</i>.<br><b>      2</b> d’un pied bien fait, ANTH. <i>6, 254</i>.<p><b>Étym</b>. εὖ, ταρσός.`

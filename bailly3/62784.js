@@ -1,0 +1,1 @@
+lar[62784]=`<b>μανιάω-ῶ</b> <font color="purple">[μᾰ]</font> être furieux, JOS. <i>B.J. 1, 7, 5</i>.<p><b>Étym</b>. μανία.`

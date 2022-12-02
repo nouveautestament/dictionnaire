@@ -1,0 +1,1 @@
+lar[38118]=`<b>ἐπι·κορρίζω</b>, frapper sur la tête, ARSTT. <i>H.A. 9, 8, 8</i>.<p><b>Étym</b>. ἐπί, κόρρη.`

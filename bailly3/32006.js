@@ -1,0 +1,1 @@
+lar[32006]=`<b>ἔκ·ριν</b>, <i>gén</i>. <b>ινος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> au nez saillant <i>ou</i> long, ARÉT. <i>Caus. m. diut. 2, 13</i>.<p><b>Étym</b>. ἐκ, ῥίς.`

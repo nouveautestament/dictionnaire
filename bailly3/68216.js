@@ -1,0 +1,1 @@
+lar[68216]=`<b>νεο·πολίτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> nouvellement citoyen, ARSTT. <i>Ath. 21, 4</i> ; DS. <i>14, 7</i> ; ATH. <i>138a</i>.`

@@ -1,0 +1,1 @@
+lar[8949]=`<b>ἀνθρωπό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> qui a le courage <i>ou</i> la hardiesse d’un homme, PLUT. <i>M. 988d</i>.<p><b>Étym</b>. ἄ. θυμός.`

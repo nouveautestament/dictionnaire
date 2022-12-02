@@ -1,0 +1,1 @@
+lar[85177]=`<b>προσ·αναρριπίζω</b> <font color="purple">[ρῐ]</font> exciter en outre <i>ou</i> par de nouveaux motifs, PHIL. <i>2, 442</i>.`

@@ -1,0 +1,1 @@
+lar[9698]=`<b>ἀντ·ερωτάω-ῶ</b>, interroger à son tour, PLAT. <i>Euthyd. 295b ;</i> PLUT. <i>Cor. 18</i>.`

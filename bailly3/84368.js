@@ -1,0 +1,1 @@
+lar[84368]=`<b>προ·θυμιάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> brûler des parfums auparavant, JOS. <i>A.J. 3, 8, 6</i>.`

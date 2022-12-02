@@ -1,0 +1,1 @@
+lar[57722]=`<b>ων (τὰ)</b> <font color="purple">[ᾰδ]</font> tentures, AR. <i>Vesp. 1215</i>.<p><b>Étym</b>. κρέκω.`

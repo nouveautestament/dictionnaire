@@ -1,0 +1,1 @@
+lar[3550]=`<b>ῆρος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>c</i>. ἀκοντιστής I, EUR. <i>Ph. 142</i>.<br><b>      2</b> <i>c</i>. ἀκοντιστής II, OPP. <i>H. 5, 535 (fém.) ; fig</i>. CHRISTOD. <i>Ecphr. 359</i>.`

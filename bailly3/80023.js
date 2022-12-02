@@ -1,0 +1,1 @@
+lar[80023]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> Pèdalion, <i>lieu de la Chersonèse de Thrace,</i> PLUT. <i>Luc. 23</i>.`

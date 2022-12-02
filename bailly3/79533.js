@@ -1,0 +1,1 @@
+lar[79533]=`<b>ος, ον</b>, qui tourne en rond ; περιτρόχαλα κείρεσθαι, HDT. <i>3, 8</i> ; PLUT. <i>M. 261f</i>, se faire couper les cheveux en rond.`

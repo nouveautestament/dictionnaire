@@ -1,0 +1,1 @@
+lar[100551]=`<b>τριτο·γένεια, ας (ἡ)</b> <font color="purple">[ῐ]</font> le nombre trois et le triangle équilatéral <i>dans la langue des Pythagoriciens,</i> PYTHAG. (PLUT. <i>M. 381f</i>).<p><b>Étym</b>. τρίτος, γένος.`

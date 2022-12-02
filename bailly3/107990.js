@@ -1,0 +1,1 @@
+lar[107990]=`<b>*χαροπῶς</b>, <i>seul. cp</i>. χαροπώτερον, <i>adv</i>., d’un bleu clair, HLD. <i>2, 35</i>.<p><b>Étym</b>. χαροπός.`

@@ -1,0 +1,1 @@
+lar[48727]=`<font color="purple">[ῑ]</font> <i>adv</i>., directement, <i>d’où</i> tout de suite, aussitôt, HDT. <i>2, 121, 2, etc</i>.<p><b>Étym</b>. ἰθύς.`

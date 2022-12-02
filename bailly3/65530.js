@@ -1,0 +1,1 @@
+lar[65530]=`<b>μητρ·αγύρτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> prêtre de Cybèle qui mendiait pour la déesse, ARSTT. <i>Rhet. 3, 2</i>.<p><b>Étym</b>. μήτηρ, ἀγείρω.`

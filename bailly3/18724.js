@@ -1,0 +1,1 @@
+lar[18724]=`<i>adv</i>., pas à pas, par degrés, graduellement, GAL. <i>12, 479</i> ; ATH. <i>1c</i>.<p><b>Étym</b>. βαθμός, -δον.`

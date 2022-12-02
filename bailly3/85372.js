@@ -1,0 +1,1 @@
+lar[85372]=`<b>οῦ (ὁ)</b> compagnon de gymnase, HYPÉR. <i>Lyc. 25, 5</i>.`

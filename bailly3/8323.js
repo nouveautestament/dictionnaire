@@ -1,0 +1,1 @@
+lar[8323]=`<b>ἀνεμο·σφάραγος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> qui résonne du bruit du vent, PD. <i>P. 9, 5</i>.<p><b>Étym</b>. ἄ. σφ.`

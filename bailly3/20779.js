@@ -1,0 +1,1 @@
+lar[20779]=`<b>βρεφόω-ῶ</b> (<i>seul. inf. prés. pass</i>.) transformer en fœtus ; <i>au pass</i>. devenir un fœtus, THEOL. <i>p. 6</i>.<p><b>Étym</b>. βρέφος.`

@@ -1,0 +1,1 @@
+lar[100252]=`<b>τρί·κλωστος, ος, ον</b>, filé trois fois <i>ou</i> à triple fil, ANTH. <i>6, 109</i>.<p><b>Étym</b>. τρίς, κλώθω.`

@@ -1,0 +1,1 @@
+lar[58232]=`<b>(τὸ)</b> <i>d’ord. au dat. pl</i>. κτεάτεσσιν, IL. <i>23, 829</i> ; OD. <i>14, 115</i> ; PD. <i>O. 5, 55 ; P. 2, 109</i> ; EUR. (STOB. <i>Fl. 120, 10) ; postér. au nom. sg</i>. Q. SM. <i>4, 543, c</i>. κτέανον.`

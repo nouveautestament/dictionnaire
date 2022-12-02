@@ -1,0 +1,1 @@
+lar[5271]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμ]</font> imprudence, faute, EUP. <i>199 Kock ; 79, 10 Bekker, Anecdota græca, vol. 1</i> ; AR. <i>Pax 419</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>1006b</i>.`

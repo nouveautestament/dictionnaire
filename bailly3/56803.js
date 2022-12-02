@@ -1,0 +1,1 @@
+lar[56803]=`<b>ῶν (οἱ)</b> les habitants de la Commagène, PLUT. <i>Pomp. 45 ; au sg</i>. PLUT. <i>Ant. 34</i>.<p><b>Étym</b>. <i>v</i>. Κομμαγηνή.`

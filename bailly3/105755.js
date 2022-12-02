@@ -1,0 +1,1 @@
+lar[105755]=`<b>φιλο·δημώδης, ης, ες</b> <font color="purple">[ῐ]</font> qui recherche la faveur du peuple, DL. <i>4, 22, au duel</i> φιλοδημώδεε.<p><b>Étym</b>. φιλόδημος, -ωδης.`

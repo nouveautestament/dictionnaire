@@ -1,0 +1,1 @@
+lar[96245]=`<b>έως (ὁ)</b> qui contient, qui embrasse, JUL. <i>165d</i>.<p><b>Étym</b>. συνέχω.`

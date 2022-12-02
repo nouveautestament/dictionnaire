@@ -1,0 +1,1 @@
+lar[72286]=`<b>ὀπισθο·νόμος, ος, ον</b>, qui paît en allant à reculons, HDT. <i>4, 183</i> ; ARSTT. <i>P.A. 2, 16, etc</i>.<p><b>Étym</b>. ὄπισθε, νέμω.`

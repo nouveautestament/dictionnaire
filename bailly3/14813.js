@@ -1,0 +1,1 @@
+lar[14813]=`<i>ou mieux</i> <b>Αἶκλος, ου (ὁ)</b> Arklos, <i>ou mieux</i> Æklos, <i>fils de Xouthos,</i> PLUT. <i>Qu. gr. 22</i>.`

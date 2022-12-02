@@ -1,0 +1,1 @@
+lar[80353]=`<b>πινάω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ῐ]</font> être sale, crasseux, AR. <i>Pl. 297, Lys. 279</i>.<p><b>Étym</b>. πίνος.`

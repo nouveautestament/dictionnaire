@@ -1,0 +1,1 @@
+lar[7467]=`<b>ἀν·απότμητος, ος, ον</b>, qu’on ne peut retrancher, ARR. <i>Epict. 1, 1, 24</i>.<p><b>Étym</b>. ἀν-, ἀποτέμνω.`

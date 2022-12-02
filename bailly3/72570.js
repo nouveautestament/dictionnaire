@@ -1,0 +1,1 @@
+lar[72570]=`<i>ou</i> <b>ὀρειᾶνες, ων (οἱ)</b> les mânes <i>ou</i> les hommes <i>dans le langage de la Pythie,</i> PLUT. <i>M. 406f</i>.`

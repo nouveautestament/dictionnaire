@@ -1,0 +1,1 @@
+lar[82451]=`<b>πολύ·τεχνος, ος, ον :<br>      1</b> habile en beaucoup d’arts, très industrieux, STR. <i>757</i>.<br><b>      2</b> travaillé avec beaucoup d’art, PLUT. <i>Per. 12</i>.<p><b>Étym</b>. π. τέχνη.`

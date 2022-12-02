@@ -1,0 +1,1 @@
+lar[77400]=`<b>Πατρο·φίλα, ης (ἡ)</b> <font color="purple">[ῐ]</font> Patrophila, <i>f</i>. ANTH. <i>7, 221</i>.<p><b>Étym</b>. π. φίλος.`

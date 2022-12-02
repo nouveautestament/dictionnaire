@@ -1,0 +1,1 @@
+lar[13976]=`<b>ἀ·προσ·παθής, ής, ές</b> <font color="purple">[πᾰ]</font> sans affection <i>ou</i> passion, indifférent, CLÉM. <i>869</i>.<p><b>Étym</b>. ἀ, πρός, πάθος.`

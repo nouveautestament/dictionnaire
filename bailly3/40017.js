@@ -1,0 +1,1 @@
+lar[40017]=`<b>ἑπτάς, άδος (ἡ)</b> le nombre sept, ARSTT. <i>H.A. 5, 20, 3</i>.<p><b>Étym</b>. ἑπτά.`

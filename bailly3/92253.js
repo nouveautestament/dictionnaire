@@ -1,0 +1,1 @@
+lar[92253]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>dim. de</i> στέαρ, ALEX. (<i>Com. fr. 3, 416</i>) ; P. ÉG. <i>3, 28</i>.`

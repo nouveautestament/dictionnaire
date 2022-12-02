@@ -1,0 +1,1 @@
+lar[97285]=`<b>ή, όν</b>, salutaire, GAL.<p><b>Étym</b>. σωτήρ.`

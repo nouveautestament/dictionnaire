@@ -1,0 +1,1 @@
+lar[33198]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> vomissement, HPC. <i>487, 25</i>.<p><b>Étym</b>. ἐμέω.`

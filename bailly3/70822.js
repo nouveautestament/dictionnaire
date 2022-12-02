@@ -1,0 +1,1 @@
+lar[70822]=`<b>ὀκτά·δραχμος, ος, ον</b>, qui pèse <i>ou</i> vaut huit drachmes, ANTH. <i>App. 19</i>.<p><b>Étym</b>. ὀ. δραχμή.`

@@ -1,0 +1,1 @@
+lar[2922]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> sensitive (<i>Mimosa pudica</i> L.) <i>plante,</i> PLIN. <i>H.N. 24, 17</i>.`

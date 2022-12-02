@@ -1,0 +1,1 @@
+lar[39672]=`<b>ἐπι·χειλής, ής, ές :<br>      1</b> qui vient jusqu’au bord (d’un vase), plein jusqu’au bord, <i>p. suite,</i> qui déborde de, <i>gén</i>. THÉM. <i>174d.</i><br><b>      2</b> qui a les lèvres pendantes, ALCIPHR. <i>3, 55, 4</i> ; qui crie la faim, AR. <i>Eq. 814</i>.<p><b>Étym</b>. ἐπί, χεῖλος.`

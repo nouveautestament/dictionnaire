@@ -1,0 +1,1 @@
+lar[109927]=`<b>ῶν (οἱ)</b> <i>sorte de chiens,</i> NIC. <i>fr. 97</i>.`

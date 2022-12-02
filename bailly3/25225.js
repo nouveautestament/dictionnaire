@@ -1,0 +1,1 @@
+lar[25225]=`<b>δια·πειραίνω</b> (<i>pass. prés. 3 pl</i>.) transpercer, MAN. <i>2, 106</i>.`

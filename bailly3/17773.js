@@ -1,0 +1,1 @@
+lar[17773]=`<b>αὐτό·χαρις, ιτος (ἡ)</b> <font color="purple">[ᾰῐτ]</font><br><b>      1</b> la grâce même, NYSS. <i>1, 764c.</i><br><b>      2</b> grâce naturelle, ALCIPHR. <i>3, 43</i>.`

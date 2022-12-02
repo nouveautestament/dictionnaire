@@ -1,0 +1,1 @@
+lar[531]=`<b>ἀγέ·χορος</b>, ου (ὁ) <font color="purple">[ᾰ]</font> chef du chœur, AR. <i>Lys. 1281 dout. (p.-ê</i>. ἀγεσίχορος).<p><b>Étym</b>. ἄγω, χορός.`

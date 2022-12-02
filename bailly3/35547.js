@@ -1,0 +1,1 @@
+lar[35547]=`<b>ἐξ·απλόω-ῶ :<br>      1</b> déployer, étendre, LUC. <i>Philopatr. 17</i> ; PHIL. <i>1, 95, 96</i> ; ANTYLL. (ORIB. <i>3, 634 B.-Dar</i>.) ; SEXT. <i>676, 3 Bkk. ; au pass</i>. être étendu, BATR. <i>106</i>.<br><b>      2</b> expliquer, éclaircir, PHIL. <i>1, 302</i> ; D. PHAL. <i>106, 15</i> ; SEXT. <i>49, 17 Bkk</i>.`

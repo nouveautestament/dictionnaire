@@ -1,0 +1,1 @@
+lar[32098]=`<b>ἐκ·ταπεινόω-ῶ</b> <font color="purple">[ᾰ]</font> abaisser, déprimer, PLUT. <i>Cor. 14, M. 165b</i>.`

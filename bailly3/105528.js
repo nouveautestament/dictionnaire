@@ -1,0 +1,1 @@
+lar[105528]=`<b>φιλ·αύστηρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime une vie austère, PHIL. <i>1, 39</i>.<p><b>Étym</b>. φ. αὐστηρός.`

@@ -1,0 +1,1 @@
+lar[18510]=`<b>ἀχράδινον ξύλον (τὸ)</b> bois de poirier sauvage, DIOSC. <i>6, 24</i>.<p><b>Étym</b>. ἀχράς.`

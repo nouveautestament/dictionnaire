@@ -1,0 +1,1 @@
+lar[21172]=`<b>ου (ὁ)</b> = <i>lat</i>. Gaius <i>ou</i> Caius, <i>prénom rom</i>. POL. <i>2, 27, 28</i> ; PLUT. <i>C. Gracch. 1, etc</i>.<p>➳ Γάϊος <font color="purple">[‒ ⏑ ⏑]</font> ANTH. <i>10, 19 ; 11, 92 et 100</i> ; Γαῖος <font color="purple">[‒ ⏑]</font> ANTH. <i>9, 59</i>.`

@@ -1,0 +1,1 @@
+lar[31001]=`<b>ἑκατό·ζυγος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à cent bancs de rameurs, <i>càd</i>. énorme, IL. <i>20, 247</i>.<p><b>Étym</b>. ἑ. ζυγός.`

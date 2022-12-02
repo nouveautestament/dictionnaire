@@ -1,0 +1,1 @@
+lar[77745]=`<b>      1</b> <i>adj. m. et neutre</i> Πελασγόν, des Pélasges, ESCHL. <i>Suppl. 912 (masc</i>.) ; EUR. <i>Or. 1247, 1296</i> ; THCR. <i>Idyl. 15, 142 (neutre</i>).<br><b>      2</b> Pélasgos, <i>h</i>. ESCHL. <i>Suppl. 250, 1010</i>.<p>➳ <i>Gén. dor</i>. -ῶ, THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. <i>v</i>. Πελασγοί.`

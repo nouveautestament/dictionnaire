@@ -1,0 +1,1 @@
+lar[76448]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui a poussé auprès, né auprès, TH. <i>C.P. 3, 10, 7</i>.<p><b>Étym</b>. παραφύω.`

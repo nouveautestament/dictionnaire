@@ -1,0 +1,1 @@
+lar[95615]=`<b>συν·επιζητέω-ῶ</b>, rechercher avec, ARISTÉN. <i>2, 3</i>.`

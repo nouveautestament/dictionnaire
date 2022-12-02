@@ -1,0 +1,1 @@
+lar[18648]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> perte du souffle, <i>càd</i>. de la vie, HPC. <i>76h, 155a ;</i> défaillance, ESCHL. <i>Sept. 259</i>.<br><b>      2</b> manque de cœur, lâcheté, ESCHL. <i>Sept. 259, 383</i> ; EUR. <i>Alc. 642, etc</i>.<p>➳ <i>Ion</i>. ἀψυχίη, HPC. <i>ll. cc</i>.<p><b>Étym</b>. ἄψυχος.`

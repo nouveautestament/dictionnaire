@@ -1,0 +1,1 @@
+lar[4216]=`<b>ἀ·λέκτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> (ἀ <i>priv</i>.) vierge, ATH. <i>98b.</i><br><b>      2</b> (ἀ <i>cop</i>.) épouse, SOPH. <i>fr. 230</i>.<p><b>Étym</b>. ἀ, λέκτρον.`

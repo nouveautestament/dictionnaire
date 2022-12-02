@@ -1,0 +1,1 @@
+lar[16541]=`<font color="purple">[ῡ]</font> <i>adv</i>., d’une manière impure <i>ou</i> vile, ATH. <i>220d</i>.<p><b>Étym</b>. ἀσυρής.`

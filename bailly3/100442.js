@@ -1,0 +1,1 @@
+lar[100442]=`<b>τρισ·έωλος, ος, ον</b> <font color="purple">[ῐ]</font> trois fois suranné, tout à fait hors de saison, EL. <i>N.A. 17, 44</i>.<p><b>Étym</b>. τρ. ἕωλος.`

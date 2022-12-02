@@ -1,0 +1,1 @@
+lar[73220]=`<b>εως (ἡ)</b> action de flairer, flair, ARÉT. <i>p. 24, 11</i>.<p><b>Étym</b>. ὀσμάομαι.`

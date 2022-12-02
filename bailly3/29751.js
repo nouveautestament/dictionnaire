@@ -1,0 +1,1 @@
+lar[29751]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de retenir son souffle, DL. <i>6, 77</i>.<p><b>Étym</b>. ἐγκρατέω.`

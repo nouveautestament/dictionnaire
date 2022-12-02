@@ -1,0 +1,1 @@
+lar[52995]=`<b>κατα·πανουργεύομαι</b>, agir frauduleusement, méchamment contre, <i>acc</i>. BAS. <i>1, 468, ou avec</i> ἐπί <i>et l’acc</i>. SPT. <i>Ps. 82, 3</i>.`

@@ -1,0 +1,1 @@
+lar[46725]=`<b>θεο·μυθία, ας (ἡ)</b> <font color="purple">[ῡ]</font> mythologie, PROCL. <i>Theol. Plat. 1, 4, p. 9</i>.<p><b>Étym</b>. θ. μῦθος.`

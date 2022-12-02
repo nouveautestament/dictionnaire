@@ -1,0 +1,1 @@
+lar[78678]=`<b>περι·ΐδρωσις, εως (ἡ)</b> sueur ruisselante, DIOSC. <i>Ther. 9</i>.<p><b>Étym</b>. περιϊδρόω.`

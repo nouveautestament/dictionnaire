@@ -1,0 +1,1 @@
+lar[58882]=`<b>ου (ἡ)</b> <font color="purple">[ῠᾰ]</font> Kyparissos, <i>v. sur le Parnasse,</i> IL. <i>2, 59</i>.`

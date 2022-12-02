@@ -1,0 +1,1 @@
+lar[105228]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire du dème Phègunte, <i>dème att. de la tribu Érekhthéïde,</i> AND. <i>1, 65 Baiter-Sauppe ; de même dans les inscr. att. (v. Meisterh. p. 90, 1).</i><p><b>Étym</b>. Φηγοῦς, <i>contract. de</i> φηγόεις, couvert de chênes, de φηγός.`

@@ -1,0 +1,1 @@
+lar[69253]=`<b>α, ον</b> <font color="purple">[ῡ]</font> de Nysa, HH. <i>Cer. 17</i> ; SOPH. <i>Aj. 690 ; ép. de Bacchus,</i> ORPH. <i>45, 2 ; 50, 14, etc</i>.<p><b>Étym</b>. <i>v</i>. Νυσήϊος.`

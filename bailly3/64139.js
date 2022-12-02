@@ -1,0 +1,1 @@
+lar[64139]=`<b>μελί·φθογγος, ος, ον</b>, au son doux comme le miel, PD. <i>O. 6, 36, etc</i>.<p><b>Étym</b>. μέλι, φθέγγω.`

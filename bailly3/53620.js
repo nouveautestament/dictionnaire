@@ -1,0 +1,1 @@
+lar[53620]=`<b>κατα·φαρμακεύω</b> <font color="purple">[μᾰ]</font><br><b>      1</b> empoisonner, <i>acc</i>. PLUT. <i>Dio. 3 ; fig</i>. hébéter au moyen de philtres, ensorceler, <i>acc</i>. PLAT. <i>Phædr. 242e.</i><br><b>      2</b> farder, <i>acc</i>. LUC. <i>Am. 39</i>.`

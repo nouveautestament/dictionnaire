@@ -1,0 +1,1 @@
+lar[52699]=`<b>κατα·λέγω</b> (<i>seul. moy. aux temps suiv. fut</i>. καταλέξομαι, HÉS. <i>O. 521 ; ao.1, 3 sg</i>. κατελέξατο, IL. <i>9, 690</i> ; OD. <i>10, 555 ; ao.2, 3 sg. sync</i>. κατέλεκτο, IL. <i>9, 662 ; part</i>. καταλέγμενος, OD. <i>22, 196 ; pf. inf</i>. καταλέχθαι, OD. <i>15, 394</i>) aller se coucher, se coucher.`

@@ -1,0 +1,1 @@
+lar[53535]=`<b>κατα·ταρταρόω-ῶ</b> <font color="purple">[ρτᾰ]</font> précipiter dans le Tartare, APD. <i>1, 1, 3</i> ; SEXT. <i>180</i>.`

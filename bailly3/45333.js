@@ -1,0 +1,1 @@
+lar[45333]=`<b>ἡμερο·δανειστής, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> usurier qui prête au jour le jour, DL. <i>6, 99, 100</i>.<p><b>Étym</b>. ἡμέρα, δανείζω.`

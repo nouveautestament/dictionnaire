@@ -1,0 +1,1 @@
+lar[42439]=`célébrer, SAPPH. <i>118</i> ; TYRT. <i>3, 24</i>.<p>➳ <i>Ao. dor</i>. -ΐξαι, PD. <i>P. 9, 94</i>.<p><b>Étym</b>. εὐκλεής.`

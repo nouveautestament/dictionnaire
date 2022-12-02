@@ -1,0 +1,1 @@
+lar[82976]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> habitant <i>ou</i> originaire du dème Potamos, IS. <i>53, 26, etc</i>.<p><b>Étym</b>. Ποταμός.`

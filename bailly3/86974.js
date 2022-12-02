@@ -1,0 +1,1 @@
+lar[86974]=`<b>πρό·φραγμα, ατος (τὸ)</b> barrière élevée en avant, rempart, palissade, ARSTT. <i>Œc. 2, 4</i> ; DS. <i>19, 30 ; fig</i>. POL. <i>9, 35, 3, etc</i>.<p><b>Étym</b>. πρό, φράσσω.`

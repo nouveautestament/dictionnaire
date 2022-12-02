@@ -1,0 +1,1 @@
+lar[96377]=`<i>gén</i>. <b>ιβος (ὁ, ἡ)</b> <font color="purple">[ῐβ]</font> <i>litt</i>. casseur, <i>sorte de démon ennemi des potiers,</i> HOM. <i>Epigr. 14, 9</i>.<p><b>Étym</b>. συντρίβω.`

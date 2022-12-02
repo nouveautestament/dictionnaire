@@ -1,0 +1,1 @@
+lar[63514]=`<b>μεγ·αυχής, ής, ές :<br>      1</b> glorieux, plein de gloire, PD. <i>N. 11, 27</i> ; ESCHL. <i>Pers. 641</i>.<br><b>      2</b> glorieux, fier de, <i>dat</i>. ANTH. <i>7, 427</i>.<p><b>Étym</b>. μ. αὐχέω.`

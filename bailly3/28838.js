@@ -1,0 +1,1 @@
+lar[28838]=`<b>δυσ·πόρευτος, ος, ον</b>, difficile à traverser, peu praticable, XÉN. <i>An. 1, 5, 7</i> ; DC. <i>53, 22</i>.<p><b>Étym</b>. δ. πορεύομαι.`

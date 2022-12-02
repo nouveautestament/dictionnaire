@@ -1,0 +1,1 @@
+lar[3519]=`<b>ἄ·κομος, ος, ον</b>, sans chevelure, LUC. <i>V.H. 1, 23</i>.<p><b>Étym</b>. ἀ, κόμη.`

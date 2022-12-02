@@ -1,0 +1,1 @@
+lar[32118]=`<b>ἐκ·τειχισμός, οῦ (ὁ)</b> fortifications à l’aide de remparts, ARR. <i>An. 6, 20, 1</i>.<p><b>Étym</b>. ἐκτειχίζω.`

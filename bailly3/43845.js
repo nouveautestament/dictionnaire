@@ -1,0 +1,1 @@
+lar[43845]=`<b>εὐ·ψήφις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑδ]</font> couvert de cailloux, NONN. <i>D. 10, 163</i>.<p><b>Étym</b>. εὖ, ψῆφος.`

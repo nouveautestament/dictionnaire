@@ -1,0 +1,1 @@
+lar[79385]=`<b>περι·στερνίζομαι</b>, attacher autour de sa poitrine, ARISTÉN. <i>1, 25</i>.<p><b>Étym</b>. π. στέρνον.`

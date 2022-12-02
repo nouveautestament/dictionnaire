@@ -1,0 +1,1 @@
+lar[74887]=`<b>πάν·αρχος, ος, ον</b> <font color="purple">[ᾰν]</font> qui commande à tous, SOPH. <i>O.C. 1293</i>.<p><b>Étym</b>. π. ἄρχω.`

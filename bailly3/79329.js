@@ -1,0 +1,1 @@
+lar[79329]=`<b>περισσο·μελής, ής, ές</b>, qui a des membres superflus, MAN. <i>4, 464</i>.<p><b>Étym</b>. π. μέλος.`

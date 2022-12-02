@@ -1,0 +1,1 @@
+lar[48728]=`<font color="purple">[ῐῐ]</font> <i>impér. de</i> εἶμι, va! allons! <i>souv. employé comme adverbe</i>.<p><b>Étym</b>. <i>v</i>. εἶμι, aller.`

@@ -1,0 +1,1 @@
+lar[76103]=`<b>παρ·αποθνῄσκω</b>, mourir en outre, DC. <i>fr. 119</i>.`

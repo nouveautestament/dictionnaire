@@ -1,0 +1,1 @@
+lar[90204]=`<b>α, ον</b> <font color="purple">[σῑ]</font> de Sidon, Sidonien, HDT. <i>7, 89 ; 8, 67, etc.</i> ; SOPH. <i>fr. 756 Dind. etc</i>.<p><b>Étym</b>. Σιδών.`

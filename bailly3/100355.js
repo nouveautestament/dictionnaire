@@ -1,0 +1,1 @@
+lar[100355]=`<b>τρι·πλανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui erre à trois ensemble, LYC. <i>846</i>.<p><b>Étym</b>. τρ. πλανάω.`

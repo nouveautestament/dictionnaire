@@ -1,0 +1,1 @@
+lar[32993]=`<b>ἔλ·λυπος, ος, ον</b> <font color="purple">[ῡ]</font> qui est dans le chagrin, triste, PLUT. <i>M. 621a</i>.<p><b>Étym</b>. ἐν, λύπη.`

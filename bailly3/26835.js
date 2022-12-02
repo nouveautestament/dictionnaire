@@ -1,0 +1,1 @@
+lar[26835]=`<b>ή, όν</b>, qui concerne l’emploi du quart de cercle, <i>càd</i>. la mesure des distances, STR. <i>87</i> ; ἡ διοπτρική (<i>s.-e</i>. τέχνη) PROCL. <i>Eucl. p. 12,</i> la dioptrique <i>ou</i> l’art de mesurer les distances ; τὰ διοπτρικά, PLUT. <i>M. 1093e</i>, traité de dioptrique.<p><b>Étym</b>. διόπτρα.`

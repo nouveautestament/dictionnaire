@@ -1,0 +1,1 @@
+lar[92160]=`<font color="purple">[τᾰ]</font> <i>adv</i>., en factieux, PLAT. <i>Phædr. 263a ;</i> DÉM. <i>116, 9 ; 245, 20</i> ; ARSTT. <i>Pol. 3, 13, 23</i>.`

@@ -1,0 +1,1 @@
+lar[58967]=`<i>att</i>. <b>-ίττω</b> <font color="purple">[ῠ]</font> frapper à coups de cornes, <i>d’où</i> heurter violemment, <i>acc</i>. PLAT. <i>Rsp. 586b ; fig</i>. ESCHL. <i>Pers. 310</i>.<p><b>Étym.</b> <i>p.-ê. pré-grec</i>.`

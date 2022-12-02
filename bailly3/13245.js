@@ -1,0 +1,1 @@
+lar[13245]=`<b>ἀπορριπτέω-ῶ</b> (<i>seul. prés. et impf.) c</i>. ἀπορρίπτω XÉN. <i>Hell. 5, 4, 42</i> ; PLUT. <i>Cato ma. 5 ; etc</i>.`

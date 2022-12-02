@@ -1,0 +1,1 @@
+lar[11164]=`<b>εως (ἡ)</b> insensibilité à la douleur, HLD. <i>6, 5</i>.`

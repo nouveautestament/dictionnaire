@@ -1,0 +1,1 @@
+lar[25325]=`<b>δια·πολιτεύομαι</b> <font color="purple">[λῑ]</font> être en dissentiment politique (dans le même parti) <i>càd</i>. être (dans un parti) l’adversaire de qqn, <i>p. opp. à</i> ἀντιπολιτεύομαι, <i>qui marque une opposition de principes, non de personnes,</i> ESCHN. <i>81, fin</i> ; δ. τινι, MARCELL. <i>V. Thuc. 28</i>, être l’adversaire de qqn.`

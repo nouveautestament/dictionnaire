@@ -1,0 +1,1 @@
+lar[52717]=`<b>κατα·λεύω</b> <font color="darkgreen">(<i>f</i>. εύσω, <i>ao</i>. κατέλευσα ; <i>ao. pass</i>. κατελεύσθην)</font> lapider, HDT. <i>1, 167, etc.</i> ; THC. <i>1, 106</i> ; AR. <i>Ach. 284, etc</i>.`

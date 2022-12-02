@@ -1,0 +1,1 @@
+lar[2803]=`<b>ας (ἡ) :<br>      1</b> marteau de forge, CALL. <i>fr. 129</i>.<br><b>      2</b> ivraie, <i>plante,</i> TH. <i>H.P. 1, 5, 2 ; au plur</i>. AR. <i>fr. 364</i>.`

@@ -1,0 +1,1 @@
+lar[68800]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐ]</font> Nikônidès, <i>h</i>. PLUT. <i>Luc. 10</i>.<p>➳ <i>Dor</i>. Νικωνίδας, THC. <i>4, 78</i>.<p><b>Étym</b>. <i>patr. de</i> Νίκων.`

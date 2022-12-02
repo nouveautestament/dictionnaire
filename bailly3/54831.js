@@ -1,0 +1,1 @@
+lar[54831]=`<b>κερ·άρχης, ου (ὁ)</b> chef d’une double phalange (8 192 hommes) ASCLÉPIOD. <i>2, 10</i>.<p><b>Étym</b>. κέρας, ἄρχω.`

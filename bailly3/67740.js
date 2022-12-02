@@ -1,0 +1,1 @@
+lar[67740]=`<b>ναυ·κράτης, ης, ες</b> <font color="purple">[ᾰ]</font> qui domine sur mer, HDT. <i>5, 36</i>.<p><b>Étym</b>. ναῦς, κράτος.`

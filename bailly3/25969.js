@@ -1,0 +1,1 @@
+lar[25969]=`<b>εως (ἡ)</b> rafraîchissement, PLUT. <i>M. 967f</i>.`

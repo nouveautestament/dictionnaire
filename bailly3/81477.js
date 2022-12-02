@@ -1,0 +1,1 @@
+lar[81477]=`<i>adv</i>., avec un souffle terrifiant, NIC. <i>Th. 371</i>.<p><b>Étym</b>. ποιφύσσω.`

@@ -1,0 +1,1 @@
+lar[55026]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. Κερύνεια, EL. <i>V.H. 13, 6</i>.`

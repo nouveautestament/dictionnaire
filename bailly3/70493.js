@@ -1,0 +1,1 @@
+lar[70493]=`<b>ῶνος (ὁ)</b> Œnéôn, <i>port des Locriens Ozoles,</i> THC. <i>3, 95, 98, 102</i>.`

@@ -1,0 +1,1 @@
+lar[30703]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰφ]</font> attouchement, ESCHL. <i>fr. 199</i>.<p><b>Étym</b>. *εἰσαφάσσω.`

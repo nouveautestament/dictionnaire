@@ -1,0 +1,1 @@
+lar[50766]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> injure, calomnie, XÉN. <i>Cyr. 1, 2, 6</i> ; PLAT. <i>Rsp. 401a</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>7, 237</i>.<p><b>Étym</b>. κακολόγος.`

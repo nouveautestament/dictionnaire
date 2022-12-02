@@ -1,0 +1,1 @@
+lar[93081]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> colonne, HDT. <i>2, 169</i> ; ESCHL. <i>Ag. 898</i> ; EUR. <i>I.T. 50 ; fig. càd</i>. soutien, appui, EUR. <i>I.T. 57</i>.<br><b>      2</b> poteau, EUR. <i>fr. 202</i> ; POL. <i>1, 22, 4</i>.<p><b>Étym</b>. <i>indo-europ</i>. *sth₂-u-lo-, pilier, <i>de la</i> R. *steh₂-, <i>v</i>. ἵστημι.`

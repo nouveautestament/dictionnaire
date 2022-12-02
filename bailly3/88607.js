@@ -1,0 +1,1 @@
+lar[88607]=`<b>ῥινο·λαβίς, ίδος (ἡ)</b> <font color="purple">[ῑνᾰῐδ]</font> instrument pour saisir et tordre le nez, SYN. <i>201c</i>.<p><b>Étym</b>. ῥίς, λαμβάνω.`

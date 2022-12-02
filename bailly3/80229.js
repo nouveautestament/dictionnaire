@@ -1,0 +1,1 @@
+lar[80229]=`<b>*πιθαυλικός, ή, όν</b> <font color="purple">[πῐ]</font> <i>seul. lat</i>. pithaulicus, a, um, qui concerne les joueurs <i>ou</i> les airs de cornemuse, DIOM.<p><b>Étym</b>. πιθαύλης.`

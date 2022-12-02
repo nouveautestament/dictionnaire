@@ -1,0 +1,1 @@
+lar[100948]=`<b>ίδος (ἡ)</b> ver <i>ou</i> insecte qui mange les plantes, ALEX. (ATH. <i>118a</i>).<p><b>Étym</b>. τρώγω.`

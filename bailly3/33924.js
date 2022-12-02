@@ -1,0 +1,1 @@
+lar[33924]=`<font color="purple">[ᾰᾱγ]</font> <i>adv</i>., en laissant une empreinte, SEXT. <i>581, 7 Bkk</i>.<p><b>Étym</b>. ἐναπεσφραγισμένος, <i>part. pf. pass. de</i> ἐναποσφραγίζω.`

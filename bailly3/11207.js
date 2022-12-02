@@ -1,0 +1,1 @@
+lar[11207]=`<b>ἀπ·αλφιτίζω</b> <font color="purple">[φῐ]</font> mêler de la farine au vin, ATH. <i>432d</i>.<p><b>Étym</b>. ἀπό, ἄλφιτον ; <i>cf</i>. ἐπαλφιτόω.`

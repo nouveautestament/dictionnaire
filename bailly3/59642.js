@@ -1,0 +1,1 @@
+lar[59642]=`<b>ατος (τὸ)</b> <font color="purple">[λᾰ]</font><br><b>      1</b> bavardage, babil, EUR. <i>Andr. 937</i> ; EUB. (ATH. <i>229a</i>) ; MOSCH. <i>3, 8, etc.</i><br><b>      2</b> <i>p. ext</i>. bavard, causeur, SOPH. <i>Ant. 320</i>.<br><b>      3</b> sujet de conversation, SPT. <i>3Reg. 9, 7, etc</i>.<p><b>Étym</b>. λαλέω.`

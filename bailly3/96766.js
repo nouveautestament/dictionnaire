@@ -1,0 +1,1 @@
+lar[96766]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font><br><b>      1</b> couteau pour les sacrifices, EUR. <i>El. 811, 1142</i>.<br><b>      2</b> couteau de cuisine, POLYEN <i>3, 9, 40</i>.<p><b>Étym</b>. σφάζω.`

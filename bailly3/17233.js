@@ -1,0 +1,1 @@
+lar[17233]=`<b>ου (ὁ)</b> petit vallon, TH. <i>H.P. 9, 7, 1</i>.<p><b>Étym</b>. <i>dim. de</i> αὐλών.`

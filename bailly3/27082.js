@@ -1,0 +1,1 @@
+lar[27082]=`<b>άδος (ἡ)</b> <font color="purple">[χῑ]</font> nombre de deux mille, SPT. <i>1Macc. 9, 4</i>.<p><b>Étym</b>. δισχίλιοι.`

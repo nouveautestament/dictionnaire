@@ -1,0 +1,1 @@
+lar[71976]=`<b>ου (ὁ)</b> Onomastos, <i>h</i>. PLUT. <i>Galb. 24</i>.<p>➳ <i>Ion</i>. Οὐνόμαστος, HDT. <i>6, 127</i>.<p><b>Étym</b>. <i>v</i>. ὀνομαστός.`

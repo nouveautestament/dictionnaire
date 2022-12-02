@@ -1,0 +1,1 @@
+lar[60652]=`<b>ατος (τὸ)</b> tableau peint en blanc où l’on inscrivait les noms des magistrats, des proscrits, <i>etc. (lat</i>. album) LYS. <i>163, 1</i> ; DÉM. <i>707, 12</i> ; DC. <i>55, 3</i>.<p><b>Étym</b>. λευκόω.`

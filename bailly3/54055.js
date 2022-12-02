@@ -1,0 +1,1 @@
+lar[54055]=`<b>άδος (ἡ)</b> sorte de bistouri, AÉT. <i>8, p. 162</i> ; P. ÉG. <i>6, 74</i>.<p><b>Étym</b>. καθίημι.`

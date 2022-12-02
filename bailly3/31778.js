@@ -1,0 +1,1 @@
+lar[31778]=`<b>ἐκ·παύω</b>, finir, cesser, EUR. <i>Ion 144</i>.<br><b><i>Moy.</i></b> cesser complètement, THC. <i>5, 75</i>.`

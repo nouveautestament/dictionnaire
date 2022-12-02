@@ -1,0 +1,1 @@
+lar[18221]=`<b>ου (ὁ)</b> Afranius, PLUT.`

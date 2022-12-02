@@ -1,0 +1,1 @@
+lar[71558]=`<b>ὁμοιο·τέλευτος, ος, ον</b>, qui se termine de même, ARSTT. <i>Rhet. 3, 9</i> ; QUINT. <i>9, 3, etc. ; subst</i>. τὸ ὁμοιοτέλευτον, D. PHAL. <i>§ 26,</i> similitude de désinences de deux <i>ou</i> plusieurs membres de phrase consécutifs.<p><b>Étym</b>. ὅμ. τελευτή.`

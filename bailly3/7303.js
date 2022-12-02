@@ -1,0 +1,1 @@
+lar[7303]=`<b>ου (ὁ)</b> Anaxinos, <i>h</i>. DÉM. <i>272, etc</i>.<p><b>Étym</b>. ἄναξ.`

@@ -1,0 +1,1 @@
+lar[65316]=`<b>α, ον</b>, de Méthymne, HDT. <i>1, 157</i> ; οἱ Μηθυμναῖοι, les habitants de Méthymne, HDT. <i>1, 23, 151</i> ; ἡ Μηθυμναία, ANT. <i>5, 21 Baiter-Sauppe,</i> le territoire de Méthymne.<p><b>Étym</b>. Μήθυμνα.`

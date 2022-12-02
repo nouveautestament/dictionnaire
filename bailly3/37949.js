@@ -1,0 +1,1 @@
+lar[37949]=`<b>ἐπι·κατασπένδω</b>, répandre en outre comme libation, JOS. <i>B.J. 1, 3, 6</i>.`

@@ -1,0 +1,1 @@
+lar[95938]=`<b>ου (ὁ)</b> qui compose, qui arrange : ὀνομάτων, DH. <i>Dem. 36,</i> écrivain qui arrange les mots avec art ; λόγων, PAUS. <i>10, 26, 1,</i> écrivain en prose.<p><b>Étym</b>. συντίθημι.`

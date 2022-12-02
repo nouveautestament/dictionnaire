@@ -1,0 +1,1 @@
+lar[66448]=`<b>μον·άγκων, ωνος (ὁ)</b> <i>s.-e</i>. καταπέλτης, machine de jet à battant unique, PHIL. BYZ. <i>Bel. p. 91</i>.<p><b>Étym</b>. μόνος, ἀγκών.`

@@ -1,0 +1,1 @@
+lar[37692]=`<b>ἐπι·δύω</b> <font color="darkgreen">(<i>ao.2</i> ἐπέδυν)</font> se coucher sur (de façon à interrompre qqe ch.) <i>en parl. du soleil,</i> NT. <i>Eph. 4, 26 ; cf</i>. SPT. <i>Deut. 24, 15</i> ; PHIL. <i>2, 324</i>.`

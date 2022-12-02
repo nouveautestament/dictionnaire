@@ -1,0 +1,1 @@
+lar[110375]=`<b>(ἡ)</b> Ôpis, <i>surn. d’Artémis,</i> A. ŒT. <i>fr. 2, 5 Bgk</i>.`

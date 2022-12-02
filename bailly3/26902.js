@@ -1,0 +1,1 @@
+lar[26902]=`<b>Διό·τιμος, ου (ὁ)</b> <font color="purple">[τῑ]</font> Diotimos, <i>h</i>. THC. <i>1, 45 ; 8, 15</i> ; XÉN. <i>Hell. 1, 3, 12 ; 5, 1, 25</i> ; IS. DÉM. LYS. <i>etc</i>.<p><b>Étym</b>. Διός, τιμή.`

@@ -1,0 +1,1 @@
+lar[102182]=`<b>ὑπ·ενδύω</b>, habiller en dessous : τινά τι, ALEX. (ATH. <i>568</i>) qqn de qqe vêtement.<br><b><i>Moy.</i></b> se vêtir en dessous, <i>avec l’acc</i>. PLUT. <i>Æmil. 18, etc</i>.`

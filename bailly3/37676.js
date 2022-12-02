@@ -1,0 +1,1 @@
+lar[37676]=`<b>ῆς (ἡ)</b> admission dans la cité <i>ou</i> droit de cité, THC. <i>6, 17</i>.<p><b>Étym</b>. ἐπιδέχομαι.`

@@ -1,0 +1,1 @@
+lar[25914]=`<b>δια·χάσκω</b> (<i>seul. prés</i>.) s’entr’ouvrir, AR. <i>Eq. 533</i> ; TH. <i>H.P. 3, 9, 1</i>.`

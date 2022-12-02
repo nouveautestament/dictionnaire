@@ -1,0 +1,1 @@
+lar[56797]=`<b>ή, όν :<br>      1</b> fortifiant, HPC. <i>2, 423, 5 Kühn</i>.<br><b>      2</b> qui sert à transporter, HYPÉR. (HARP.).<p><b>Étym</b>. κομίζω.`

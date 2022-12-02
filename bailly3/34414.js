@@ -1,0 +1,1 @@
+lar[34414]=`<b>ἐν·ευνάζομαι</b> <font color="darkgreen">(<i>seul. ao. 3 pl. poét</i>. ἐνευνάσσαντο)</font> dormir dans, <i>dat</i>. NIC. <i>fr. 33</i>.`

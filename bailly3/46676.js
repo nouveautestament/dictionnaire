@@ -1,0 +1,1 @@
+lar[46676]=`<b>θεο·κοίρανος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui règne en qualité de dieu, SYN. <i>315a</i>.<p><b>Étym</b>. θ. κοίρανος.`

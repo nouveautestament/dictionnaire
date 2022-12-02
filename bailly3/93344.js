@@ -1,0 +1,1 @@
+lar[93344]=`<b>συγ·καταπατέω-ῶ</b> <font color="purple">[πᾰ]</font> fouler aux pieds ensemble, DS. <i>17, 34</i>.`

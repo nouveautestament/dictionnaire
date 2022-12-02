@@ -1,0 +1,1 @@
+lar[103634]=`<b>ὑπο·ξύριος, ος, ον</b> <font color="purple">[ξῠ]</font> placé sous le rasoir, ANTH. <i>6, 307</i>.<p><b>Étym</b>. ὑ. ξυρόν.`

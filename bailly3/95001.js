@@ -1,0 +1,1 @@
+lar[95001]=`<b>συν·ασχαλάω</b>, <i>anc. att</i>. <b>ξυν·ασχαλάω-ῶ</b> <font color="purple">[χᾰ]</font> compatir à, <i>dat</i>. ESCHL. <i>Pr. 161, etc</i>.`

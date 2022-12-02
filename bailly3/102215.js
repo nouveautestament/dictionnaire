@@ -1,0 +1,1 @@
+lar[102215]=`<b>ὑπ·επίτριτος, ος, ον</b> <font color="purple">[τρῐ]</font> inférieur <i>ou</i> diminué d’un tiers, <i>comme 2 : 3,</i> NICOM. <i>Arithm. 1, 19</i>.`

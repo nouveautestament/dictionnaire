@@ -1,0 +1,1 @@
+lar[105091]=`<b>ης (ἡ)</b> lie de vin brûlée, GAL. 4.490.<p><b>Étym</b>. <i>lat</i>. fæcula.`

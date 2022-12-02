@@ -1,0 +1,1 @@
+lar[103358]=`<b>ὑπο·κερχαλέος, α, ον</b> <font color="purple">[ᾰ]</font> un peu rauque, HPC. <i>1215a</i>.`

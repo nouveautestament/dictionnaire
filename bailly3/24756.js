@@ -1,0 +1,1 @@
+lar[24756]=`<b>δια·κεντέω-ῶ</b>, faire une ponction, HPC. <i>406, 43</i>.`

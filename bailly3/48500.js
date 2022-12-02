@@ -1,0 +1,1 @@
+lar[48500]=`<b>ή, όν :<br>      1</b> <i>act</i>. qui provoque la sueur, sudorifique, HPC. <i>370, 31</i> ; ORIB. <i>18 Matthäi</i>.<br><b>      2</b> <i>pass</i>. qui transpire facilement, GAL. <i>14, 290</i>.<p>•<i> Cp</i>. -ώτερος, GAL. <i>l. c</i>.<p><b>Étym</b>. ἱδρόω.`

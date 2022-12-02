@@ -1,0 +1,1 @@
+lar[65768]=`<b>μικροψυχέω-ῶ</b> <font color="purple">[ῡ]</font> avoir peu de courage, être faible, pusillanime, ARSTT. <i>Probl. 9, 9</i>.<p><b>Étym</b>. μικρόψυχος.`

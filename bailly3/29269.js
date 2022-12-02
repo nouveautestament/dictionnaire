@@ -1,0 +1,1 @@
+lar[29269]=`<b>ητος (ἡ)</b> propriété d’être soi-même, personnalité, <i>t. de philos</i>. PROCL. <i>Theol. Plat. p. 328</i>.<p><b>Étym</b>. ἑαυτοῦ.`

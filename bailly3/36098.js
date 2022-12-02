@@ -1,0 +1,1 @@
+lar[36098]=`<b>εως (ἡ)</b> divulgation, JOS. <i>A.J. 17, 4, 1</i>.<p><b>Étym</b>. ἐξοίσω, <i>fut. de</i> ἐκφέρω.`

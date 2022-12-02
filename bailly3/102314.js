@@ -1,0 +1,1 @@
+lar[102314]=`<b>ὑπεραΰλως</b> <font color="purple">[ῡλ]</font> <i>adv</i>., tout à fait immatériel, PHIL. <i>1, 103</i>.<p><b>Étym</b>. ὑ. ἄϋλος.`

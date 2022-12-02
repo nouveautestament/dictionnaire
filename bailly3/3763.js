@@ -1,0 +1,1 @@
+lar[3763]=`<b>ἀκρο·γωνιαῖος, ος, ον</b>, qui est au sommet d’un angle, angulaire, SPT. <i>Esaï. 28, 16</i> ; NT. <i>Eph. 2, 20</i>.<p><b>Étym</b>. ἄ. γωνία.`

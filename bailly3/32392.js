@@ -1,0 +1,1 @@
+lar[32392]=`<b>ἐκ·χλοιόομαι-οῦμαι</b>, devenir d’un jaune vert, jaunir, HPC. <i>Coac. 196</i>.`

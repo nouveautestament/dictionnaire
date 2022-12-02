@@ -1,0 +1,1 @@
+lar[65216]=`<b>εως (ἡ)</b> action de mesurer, mesurage, HDT. <i>4, 99</i> ; XÉN. <i>Mem. 4, 7, 2</i> ; PLAT. <i>Pol. 285a ; au plur</i>. PLAT. <i>Leg. 819c</i>.<p><b>Étym</b>. μετρέω.`

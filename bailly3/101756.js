@@ -1,0 +1,1 @@
+lar[101756]=`<b>ὑλο·τραφής, ής, ές</b> <font color="purple">[ῡᾰ]</font> formé d’une épaisse matière, matériel, grossier, PROCL. <i>H. Mus. 9</i>.<p><b>Étym</b>. ὕ. τρέφω.`

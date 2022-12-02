@@ -1,0 +1,1 @@
+lar[15808]=`<b>ἄ·σηπτος, ος, ον :<br>      1</b> qui ne pourrit pas, non exposé à se corrompre, HPC. <i>885d ;</i> XÉN. <i>Cyn. 9, 13 ; etc.</i><br><b>      2</b> non digéré, HPC. <i>522, 48</i>.<p>•<i> Sup</i>. -ότατος, XÉN. <i>Cyn. 9, 13</i> ; ARSTT. <i>H.A. 5, 20</i>.<p><b>Étym</b>. ἀ, σήπω.`

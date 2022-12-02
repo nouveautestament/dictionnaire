@@ -1,0 +1,1 @@
+lar[61618]=`<b>λοξό·βαμος, ος, ον</b> <font color="purple">[ᾰ <i>par nécess. métr. p</i>. ᾱ]</font> <i>c</i>. λοξοβάτης NAZ. <i>2, 55a</i>.`

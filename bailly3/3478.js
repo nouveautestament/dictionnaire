@@ -1,0 +1,1 @@
+lar[3478]=`<b>ἀ·κοίμιστος, ος, ον</b>, qu’on ne peut endormir, DS. <i>Exc. 616, 48 dout</i>.<p><b>Étym</b>. ἀ, κοιμίζω.`

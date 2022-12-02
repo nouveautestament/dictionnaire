@@ -1,0 +1,1 @@
+lar[83263]=`<font color="purple">[ᾰ]</font> ressembler au poireau, DIOSC. <i>3, 94, etc</i>.<p><b>Étym</b>. πράσον.`

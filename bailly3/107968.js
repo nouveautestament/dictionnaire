@@ -1,0 +1,1 @@
+lar[107968]=`<b>ου (ἡ)</b> Kharmion, <i>femme esclave de Cléopâtre,</i> PLUT. <i>Ant. 60, 85</i>.<p><b>Étym</b>. Χάρμα.`

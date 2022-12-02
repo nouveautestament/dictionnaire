@@ -1,0 +1,1 @@
+lar[42155]=`<b>Εὐ·θαλής, οῦς (ὁ)</b> <font color="purple">[ᾰ]</font> Euthalès, <i>h</i>. ANTH. <i>App. 296</i>.<p><b>Étym</b>. <i>v</i>. εὐθαλής².`

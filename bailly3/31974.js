@@ -1,0 +1,1 @@
+lar[31974]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui facilite <i>ou</i> provoque la suppuration, HPC. <i>Aph. 1253</i>.<p><b>Étym</b>. ἐκπυέω.`

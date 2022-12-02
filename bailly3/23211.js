@@ -1,0 +1,1 @@
+lar[23211]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les prêts d’argent à intérêts ; ὁ δ. usurier, PLUT. <i>Ages. 13</i> ; LUC. <i>Conv. 5</i> ; DL. <i>4, 35, etc</i>.<p><b>Étym</b>. δανειστής.`

@@ -1,0 +1,1 @@
+lar[69097]=`<b>νυκταλωπιάω-ῶ</b> <font color="purple">[ᾰ]</font> être atteint de nyctalopie, ORIB. <i>Eun. 4, 17</i> ; GAL. <i>12, 802</i>.<p><b>Étym</b>. νυκταλωπία.`

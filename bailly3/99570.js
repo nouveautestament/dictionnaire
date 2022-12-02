@@ -1,0 +1,1 @@
+lar[99570]=`<b>οῦ (ὁ)</b> qui gronde, qui murmure, AQU. <i>Prov. 16, 28 ; 26, 20 et 22</i>.<p><b>Étym</b>. τονθρύζω.`

@@ -1,0 +1,1 @@
+lar[84157]=`<b>προ·ενέχω</b>, envelopper auparavant dans, SPT. <i>2Macc. 5, 18</i>.`

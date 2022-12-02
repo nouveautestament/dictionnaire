@@ -1,0 +1,1 @@
+lar[11687]=`<b>οῦ (ὁ)</b> vendeur, marchand, LYC. <i>341</i>.`

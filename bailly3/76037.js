@@ -1,0 +1,1 @@
+lar[76037]=`<b>α, ον</b>, <i>vb. de</i> παραπέμπω DYSC. <i>Pron. 306a ;</i> CLÉM. <i>1, 617 Migne, etc</i>.`

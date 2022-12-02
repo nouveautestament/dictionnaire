@@ -1,0 +1,1 @@
+lar[62672]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> aisselle, <i>seul. dans la loc</i>. ὑπὸ μάλης, XÉN. <i>Hell. 2, 3, 23</i> ; PLAT. <i>Gorg. 469d, etc.</i> ; AR. <i>Lys. 985</i> ; DÉM. <i>848, 12</i> ; PLUT. <i>M. 64e, etc</i>. sous l’aisselle, <i>au propre et au fig. càd</i>. en cachette.<p><b>Étym</b>. <i>cf</i>. μασχάλη.`

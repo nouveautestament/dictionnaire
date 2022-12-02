@@ -1,0 +1,1 @@
+lar[9127]=`<b>ἀνισό·τιμος, ος, ον</b> <font color="purple">[ᾰῐῑ]</font> de valeur inégale, inégal en dignité, NAZ. <i>2, 93 Migne</i>.<p><b>Étym</b>. ἄν. τιμή.`

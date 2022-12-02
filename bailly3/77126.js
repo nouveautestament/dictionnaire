@@ -1,0 +1,1 @@
+lar[77126]=`<b>εως (ἡ)</b> action de dériver le cours des humeurs par un autre canal, HPC. <i>47, 13</i>.<p><b>Étym</b>. παροχετεύω.`

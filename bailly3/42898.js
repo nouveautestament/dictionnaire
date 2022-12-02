@@ -1,0 +1,1 @@
+lar[42898]=`<b>ας (ἡ)</b> beau visage, ALEX. <i>(Bkk. p. 93, 1).</i><p><b>Étym</b>. εὔοπτος.`

@@ -1,0 +1,1 @@
+lar[98783]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> le fils de Teuthras (Axylos) IL. <i>6, 13</i>.<p><b>Étym</b>. <i>patr. de</i> Τεύθρας 2.`

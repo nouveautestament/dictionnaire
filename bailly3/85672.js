@@ -1,0 +1,1 @@
+lar[85672]=`<b>προσ·επιδοξάζω</b>, approuver <i>ou</i> appuyer l’opinion de qqn, A. A. GELL. <i>19, 1, 18</i>.`

@@ -1,0 +1,1 @@
+lar[18074]=`<b>α, ον</b>, sudorifique, ORIB. <i>468, 6 ; 470, 8 B.-Dar</i>.`

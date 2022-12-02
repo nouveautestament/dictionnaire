@@ -1,0 +1,1 @@
+lar[54366]=`<b>Καφισό·δωρος, ου (ὁ)</b> <font color="purple">[ᾱῐ]</font> Kaphisodôros, <i>h</i>. PLUT. <i>Amat. 17</i>.<p><b>Étym</b>. Καφισός, δῶρον.`

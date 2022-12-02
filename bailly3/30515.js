@@ -1,0 +1,1 @@
+lar[30515]=`<font color="purple">[ᾰ]</font> (<i>seul. part. prés</i>. -όμεναι) être âgé de neuf ans, CALL. <i>Dian. 179</i>.<p><b>Étym</b>. εἰναετής.`

@@ -1,0 +1,1 @@
+lar[33037]=`<b>ου (τὸ)</b> Élymnion, <i>î. près de l’Eubée, ou n. de lieu de l’Eubée,</i> AR. <i>Pax 1126</i>.`

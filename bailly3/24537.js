@@ -1,0 +1,1 @@
+lar[24537]=`<b>ορος (ὁ) :<br>      1</b> héritier de, <i>gén</i>. MAN. <i>4, 223</i>.<br><b>      2</b> reçu par héritage, EUR. <i>Ion 478</i>.<p><b>Étym</b>. διαδέχομαι.`

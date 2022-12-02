@@ -1,0 +1,1 @@
+lar[88563]=`<b>ῥιζό·φυτος, ος, ον</b> <font color="purple">[ῠ]</font> né d’une racine, OCELL. <i>13, p. 513</i>.<p><b>Étym</b>. ῥίζα, φύω.`

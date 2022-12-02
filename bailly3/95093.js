@@ -1,0 +1,1 @@
+lar[95093]=`<b>συν·διαδίδωμι</b> <font color="purple">[ῐδ]</font><br><b>      1</b> transmettre avec <i>ou</i> en outre, GAL. <i>2, 9</i>.<br><b>      2</b> distribuer en même temps, NYSS.`

@@ -1,0 +1,1 @@
+lar[64297]=`<b>μεν·έγχης, ης, ες</b>, à la lance ferme, inébranlable, ANTH. <i>7, 255</i>.<p><b>Étym</b>. μένω, ἔγχος ; <i>cf</i>. μεναίχμης.`

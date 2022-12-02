@@ -1,0 +1,1 @@
+lar[93673]=`<b>συζύγως</b> <font color="purple">[ζῠ]</font> <i>adv</i>., conjointement avec, <i>dat</i>. DYSC. <i>Pron. 324c, etc</i>.`

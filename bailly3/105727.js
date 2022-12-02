@@ -1,0 +1,1 @@
+lar[105727]=`<b>φιλο·γράμματος, ος, ον</b> <font color="purple">[ῐμᾰ]</font> qui aime les lettres <i>ou</i> les livres, PLUT. <i>M. 963b ;</i> DL. <i>4, 30, etc</i>.<p><b>Étym</b>. φ. γράμματα.`

@@ -1,0 +1,1 @@
+lar[60961]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Lĭbō, <i>n. d’h. rom</i>. PLUT. <i>Ant. 7, etc</i>.`

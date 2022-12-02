@@ -1,0 +1,1 @@
+lar[100969]=`<i>indécl</i>. <font color="purple">[ῡῐ]</font> Tybi, <i>n. d’un mois égyptien,</i> PLUT. <i>M. 371d ;</i> M. RUBR. <i>6</i> ; ANTH. <i>9, 383</i>.`

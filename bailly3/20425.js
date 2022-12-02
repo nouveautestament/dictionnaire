@@ -1,0 +1,1 @@
+lar[20425]=`<b>α, ον :<br>      1</b> du conseil, du sénat, <i>ép. de divinités, dont la statue était placée au Sénat, part. Hestia</i> (Ἑστία), ESCHN. <i>34, 18 ; Zeus et Athèna,</i> ANT. <i>146, 35</i>.<br><b>      2</b> qui conseille, DS. <i>2, 30</i> ; PLUT. <i>M. 789d ; etc</i>.`

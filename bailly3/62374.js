@@ -1,0 +1,1 @@
+lar[62374]=`<b>ης (ἡ)</b> mendole, <i>petit poisson de mer, qu’on salait ou qu’on préparait comme les anchois,</i> ANTH. <i>9, 412</i>.`

@@ -1,0 +1,1 @@
+lar[71059]=`<b>ὀλιγο·σύνδεσμος, ος, ον</b> <font color="purple">[ῐ]</font> qui a peu de conjonctions, <i>t. de gr</i>. DH. <i>Comp. 22</i>.<p><b>Étym</b>. ὀλ. σύνδεσμος.`

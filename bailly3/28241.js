@@ -1,0 +1,1 @@
+lar[28241]=`<b>δυσ·αυγής, ής, ές</b> <font color="purple">[ῠ]</font> qui ne brille pas, obscur, <i>Poet. de vir. herb. 65</i>.<p><b>Étym</b>. δ. αὐγή.`

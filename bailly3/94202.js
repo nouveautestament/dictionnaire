@@ -1,0 +1,1 @@
+lar[94202]=`<b>συμ·περιπλέω</b>, naviguer ensemble autour, Ps.-PLUT. <i>V. Hom. 8</i> ; APP. <i>Civ. 5, 96</i>.`

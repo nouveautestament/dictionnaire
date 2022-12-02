@@ -1,0 +1,1 @@
+lar[51830]=`<b>ων (τὰ)</b> fêtes de Carmenta, <i>à Rome,</i> PLUT. <i>Rom. 21</i>.<p><b>Étym</b>. <i>v</i>. Καρμέντα.`

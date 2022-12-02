@@ -1,0 +1,1 @@
+lar[9190]=`<b>ἀ·νόθευτος, ος, ον</b>, non falsifié, légitime, ARSTT. <i>Mir. 158</i>.<p><b>Étym</b>. ἀ, νοθεύω.`

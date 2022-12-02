@@ -1,0 +1,1 @@
+lar[86036]=`<b>προσ·κνύζομαι</b> (<i>seul. prés</i>.) japper d’une manière caressante près de, <i>dat</i>. HLD. <i>7, 10 ; 9, 10</i>.`

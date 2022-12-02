@@ -1,0 +1,1 @@
+lar[37472]=`<b>ης (ἡ)</b> intelligence, jugement, SPT. <i>Prov. 16, 23</i>.<p><b>Étym</b>. ἐπιγνώμων.`

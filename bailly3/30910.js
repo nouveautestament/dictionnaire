@@ -1,0 +1,1 @@
+lar[30910]=`<b>εἰσ·φράσσω</b>, jeter et enfermer dans, NICOM. <i>Harm. 19</i>.`

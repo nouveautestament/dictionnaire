@@ -1,0 +1,1 @@
+lar[93490]=`<b>συγ·κοινωνέω-ῶ :<br>      1</b> avoir une part de, participer à : τινος, HPC. <i>Art. 840</i> ; DÉM. <i>1299, 20,</i> à qqe ch. ; τινί τινος, ALEX. (<i>Com. fr. 3, 456</i>) à qqe ch. avec qqn.<br><b>      2</b> être compagnon avec, <i>fig</i>. vivre avec : τινι, NT. <i>Apoc. 18, 4 ; Eph. 5, 11</i> avec qqe ch. (le péché, <i>etc</i>.).`

@@ -1,0 +1,1 @@
+lar[38524]=`<b>ἐπι·νήχυτος, ος, ον</b> <font color="purple">[ῠ]</font> offert avec profusion, ORPH. <i>Arg. 39, 310</i>.`

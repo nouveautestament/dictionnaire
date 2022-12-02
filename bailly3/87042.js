@@ -1,0 +1,1 @@
+lar[87042]=`<b>προ·χῶναι, ῶν (αἱ)</b> os des jambes ARCHIPP. (<i>Com. fr. 2, 726).</i><p><b>Étym</b>. π. κοχώνη.`

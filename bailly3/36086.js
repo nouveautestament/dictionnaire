@@ -1,0 +1,1 @@
+lar[36086]=`<b>οῦ (ὁ)</b> expulsion d’habitants, PHIL. <i>2, 52</i>.<p><b>Étym</b>. ἐξοικίζω.`

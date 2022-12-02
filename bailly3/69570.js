@@ -1,0 +1,1 @@
+lar[69570]=`<b>ξιφηφορέω-ῶ</b> <font color="purple">[ῐ]</font> porter une épée, HDN <i>7, 11, 7</i>.<p><b>Étym</b>. ξιφηφόρος.`

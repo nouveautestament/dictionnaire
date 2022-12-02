@@ -1,0 +1,1 @@
+lar[56395]=`<b>ῶν (οἱ)</b> Kothôkides, <i>dème attique de la tribu Onéïde,</i> AR. <i>Th. 620</i> ; ἐγ Κοθωκιδῶν, CIA. <i>2, 785, 8 (après 350 av. J.-C.)</i> dans le dème Kothôkides ; <i>v. Meisterh. p. 176,b</i>.`

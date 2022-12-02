@@ -1,0 +1,1 @@
+lar[71324]=`<i>ou</i> <b>ὁμαρτῇ</b>, <i>adv</i>., ensemble, IL. <i>5, 656, etc.</i> ; OD. <i>22, 81 (var</i>. ἁμ.) ; EUR. <i>Hec. 839, etc.</i> ; A.RH. <i>1, 538</i>.<p>➳ <i>Éol</i>. ὐμάρτη, THCR. <i>Idyl. 28, 4</i>.<p><b>Étym</b>. ὁμαρτέω.`

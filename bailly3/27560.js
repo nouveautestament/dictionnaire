@@ -1,0 +1,1 @@
+lar[27560]=`<b>ή, όν</b> <font color="purple">[μῑ]</font> PLAT. <i>Soph. 267e, adj. de</i> δοξομιμητής.`

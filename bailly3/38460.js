@@ -1,0 +1,1 @@
+lar[38460]=`<b>ἐπί·μοιρος, ος, ον</b>, qui participe à, <i>gén</i>. EURYPHAM. (STOB. <i>Fl. 103, 27).</i><p><b>Étym</b>. ἐπί, μοῖρα.`

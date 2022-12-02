@@ -1,0 +1,1 @@
+lar[55439]=`<b>ας (ἡ)</b> <font color="purple">[κῐ]</font> le pays des Kikones, ANTH. <i>App. 9, 46</i>.<p><b>Étym</b>. <i>v</i>. Κίκονες.`

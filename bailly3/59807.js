@@ -1,0 +1,1 @@
+lar[59807]=`<b>ας (ἡ)</b> <font color="purple">[ᾱᾰτ]</font> gouvernement par le peuple, démocratie, MÉN. RHÉT. <i>194, 11</i>.<p><b>Étym</b>. λ. κράτος.`

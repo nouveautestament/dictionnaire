@@ -1,0 +1,1 @@
+lar[93376]=`<b>συγ·κατατάσσω</b>, <i>att</i>. <b>-τάττω</b>, disposer avec <i>ou</i> ensemble, XÉN. <i>Cyr. 6, 3, 32 ; fig</i>. POLYEN <i>5, 2, 22 ; au pass</i>. être disposé harmonieusement, M. ANT. <i>7, 9</i>.`

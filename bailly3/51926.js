@@ -1,0 +1,1 @@
+lar[51926]=`<b>ου (ὁ)</b> <i>nom indien d’un animal à une seule corne,</i> EL. <i>N.A. 16, 20</i>.`

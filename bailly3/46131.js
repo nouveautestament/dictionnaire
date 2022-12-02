@@ -1,0 +1,1 @@
+lar[46131]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> du lit nuptial, nuptial, HÉS. <i>O. 805</i> ; POÉT. (LUC. <i>Conv. 41).</i><p><b>Étym</b>. <i>ion. c</i>. *θαλάμειος, <i>de</i> θάλαμος.`

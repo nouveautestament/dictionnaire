@@ -1,0 +1,1 @@
+lar[10372]=`<b>ης (ἡ)</b> <i>ion</i>. équilibre, <i>d’où</i> symétrie, HPC. <i>Art. 813</i>.<p><b>Étym</b>. ἀντίρροπος.`

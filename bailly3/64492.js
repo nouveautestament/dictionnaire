@@ -1,0 +1,1 @@
+lar[64492]=`être neutre, PHILIST. <i>61</i>.<p><b>Étym</b>. *μεσήρης.`

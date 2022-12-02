@@ -1,0 +1,1 @@
+lar[99817]=`<i>c</i>. τουτεῖ, SOPHR. (DYSC. <i>Pron. p. 359a</i>).`

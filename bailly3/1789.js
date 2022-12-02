@@ -1,0 +1,1 @@
+lar[1789]=`<b>*ἀερο·μήκης</b>, <i>seul. ion</i>. <b>ἠερο·μήκης, ης, ες</b>, vaste (<i>litt</i>. long) comme l’air, <i>càd</i>. aussi haut que le ciel, ORPH. <i>Arg. 992</i>.<p><b>Étym</b>. ἀήρ, μῆκος.`

@@ -1,0 +1,1 @@
+lar[69226]=`<b>νυμφό·κλαυτος, ος, ον</b>, qui fait pleurer les jeunes épouses, ESCHL. <i>Ag. 749</i>.<p><b>Étym</b>. ν. κλαίω.`

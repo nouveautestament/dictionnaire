@@ -1,0 +1,1 @@
+lar[108820]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de frapper (la terre) en chœur, danse en chœur, ANTH. <i>7, 448 ; au pl</i>. IL. <i>24, 261</i>.<p><b>Étym</b>. χοροιτύπος.`

@@ -1,0 +1,1 @@
+lar[19183]=`<b>βαρυ·όργητος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui éprouve une violente colère, ANTH. <i>5, 107</i>.<p><b>Étym</b>. β. <i>vb. de</i> ὀργάω.`

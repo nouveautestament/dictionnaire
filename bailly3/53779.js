@@ -1,0 +1,1 @@
+lar[53779]=`<b>κατα·ψάω-ῶ</b>, flatter de la main, caresser, <i>acc</i>. HDT. <i>6, 61,</i> XÉN. <i>Ap. 28</i> ; PLAT. <i>Phæd. 89b, etc. ; fig</i>. POL. <i>2, 13, 6, etc</i>.`

@@ -1,0 +1,1 @@
+lar[12958]=`<b>ἀ·πόνητος, ος, ον</b>, exempt de peine, de châtiment ; impuni, SOPH. <i>El. 1065</i>.<p><b>Étym</b>. ἀ, πονέω.`

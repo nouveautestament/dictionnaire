@@ -1,0 +1,1 @@
+lar[51965]=`<b>καρυδόω-ῶ</b> <font color="purple">[ᾰῠ]</font> châtrer des chevaux, HIPPIATR. <i>p. 239, 33</i>.`

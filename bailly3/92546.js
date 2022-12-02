@@ -1,0 +1,1 @@
+lar[92546]=`<b>ου</b> <font color="purple">[ῐ]</font> <i>adj. m. c</i>. στημόνιος, CRAT. (<i>Com. fr. 2, 209</i>).`

@@ -1,0 +1,1 @@
+lar[100712]=`<i>adv</i>., par trope, figurément, au figuré, RHÉT. ; ATH. <i>76c</i>.`

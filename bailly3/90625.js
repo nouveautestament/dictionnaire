@@ -1,0 +1,1 @@
+lar[90625]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σκάλισις EUN. <i>p. 59</i>.`

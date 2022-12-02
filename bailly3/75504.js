@@ -1,0 +1,1 @@
+lar[75504]=`<b>ή, όν</b>, qui peut admettre, qui admet, CLÉM. <i>Str. 437</i>.<p><b>Étym</b>. παραδεκτός.`

@@ -1,0 +1,1 @@
+lar[61942]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. λυμαντήρ, SOPH. <i>Tr. 793</i>.`

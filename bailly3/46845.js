@@ -1,0 +1,1 @@
+lar[46845]=`<b>ος, ον :<br>      1</b> <i>pass</i>. inspiré par un dieu, ESCHL. <i>Ag. 1140</i> ; PLUT. <i>M. 54c.</i><br><b>      2</b> <i>act</i>. qui porte une divinité, LUC. <i>As. 37, 38</i>.<p><b>Étym</b>. θεοφορέω.`

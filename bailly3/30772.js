@@ -1,0 +1,1 @@
+lar[30772]=`<b>εως (ἡ)</b> introduction, PHIL. <i>1, 278</i>.<p><b>Étym</b>. εἰστίθημι.`

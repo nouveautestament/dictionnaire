@@ -1,0 +1,1 @@
+lar[45566]=`<b>ἡμι·στάδιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> demi-stade, POL. <i>3, 54, 7</i> ; STR. <i>817</i>.<p><b>Étym</b>. ἡμι-, στ.`

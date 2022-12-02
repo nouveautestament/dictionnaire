@@ -1,0 +1,1 @@
+lar[9912]=`<b>ἀντι·κακόω-ῶ</b> <font color="purple">[κᾰ]</font> maltraiter à son tour <i>ou</i> en retour, JOS. <i>B.J. 3, 6, 30</i>.`

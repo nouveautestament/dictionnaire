@@ -1,0 +1,1 @@
+lar[39355]=`<b>ἐπι·τεκνόω-ῶ</b>, engendrer ensuite, JOS. <i>A.J. 6, 5, 6</i>.`

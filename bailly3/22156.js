@@ -1,0 +1,1 @@
+lar[22156]=`<b>εσσα, εν</b> <font color="purple">[ῠ]</font> <i>c</i>. γλυκύς, NIC. <i>Al. 444</i>.`

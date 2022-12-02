@@ -1,0 +1,1 @@
+lar[85529]=`<b>προσ·εκπορίζω</b>, procurer en outre, <i>acc</i>. GAL. <i>10, 146</i>.`

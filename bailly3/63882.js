@@ -1,0 +1,1 @@
+lar[63882]=`<b>μελανό·θριξ, τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰῐχ]</font> aux cheveux noirs, HPC. <i>Epid. 1, 955</i>.<p><b>Étym</b>. μ. θρίξ.`

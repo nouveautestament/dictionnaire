@@ -1,0 +1,1 @@
+lar[39683]=`<b>ή, όν</b>, qui concerne l’argumentation, PLUT. <i>M. 978b ;</i> ἡ ἐπιχειρητική (<i>s.-e</i>. τέχνη) ARR. <i>Epict. 1, 8, 7,</i> l’art d’argumenter.<p><b>Étym</b>. ἐπιχειρέω.`

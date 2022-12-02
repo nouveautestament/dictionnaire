@@ -1,0 +1,1 @@
+lar[77328]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de fouler, GEOP. <i>8, 36, 2</i>.<p><b>Étym</b>. πατέω.`

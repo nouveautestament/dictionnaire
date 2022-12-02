@@ -1,0 +1,1 @@
+lar[27368]=`<b>ων (τὰ)</b> pièces de bois parallèles reliées par des traverses, <i>symbole d’union indissoluble, en l’honneur de Castor et de Pollux, à Lacédémone (cf. le signe astronomique Π de la constellation des Gémeaux</i>) PLUT. <i>M. 478a</i>.`

@@ -1,0 +1,1 @@
+lar[74282]=`<b>όεσσα, όεν</b>, <i>seul. fém. contr</i>. παιδοῦσσα, féconde en enfants, CALL. (SCH.-SOPH. <i>Tr. 308).</i><p><b>Étym</b>. παῖς.`

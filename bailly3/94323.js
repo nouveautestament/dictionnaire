@@ -1,0 +1,1 @@
+lar[94323]=`<b>συμ·πορπάω-ῶ</b>, agrafer ensemble, SPT. <i>Ex. 36, 9</i>.`

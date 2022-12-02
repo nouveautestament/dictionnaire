@@ -1,0 +1,1 @@
+lar[22593]=`<b>ου (τὸ)</b> <font color="purple">[μᾰῠᾰ]</font> <i>c</i>. γραμματοφυλακεῖον PLUT. <i>Arist. 21</i>.`

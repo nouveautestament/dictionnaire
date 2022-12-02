@@ -1,0 +1,1 @@
+lar[44378]=`<b>ζα·ής, ής, ές</b> <font color="purple">[ᾱ]</font> qui souffle avec violence, IL. <i>12, 157</i> ; OD. <i>5, 368</i>.<p>➳ <i>Gén</i>. ζαοῦς, ANTH. <i>9, 290 ; acc</i>. ζαῆν, OD. <i>12, 313</i>.<p><b>Étym</b>. ζα-, ἄημι.`

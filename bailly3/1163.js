@@ -1,0 +1,1 @@
+lar[1163]=`<b>(ὁ)</b> <i>indécl</i>. Adam, <i>h</i>. ANTH. <i>1, 46 etc</i>.<p><b>Étym</b>. <i>mot hébr</i>.`

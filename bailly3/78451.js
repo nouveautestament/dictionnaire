@@ -1,0 +1,1 @@
+lar[78451]=`<b>εως (ἡ)</b> action de crier tout alentour, <i>d’où</i> bruit, tumulte, ARTÉM. <i>1, 51</i>.<p><b>Étym</b>. περιβοάω.`

@@ -1,0 +1,1 @@
+lar[110585]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> utile, avantageux, AR. <i>Av. 317</i>.<br><b>      2</b> secourable, bienveillant, SOPH. <i>Aj. 1022</i>.<p><b>Étym</b>. ὠφελέω.`

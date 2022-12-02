@@ -1,0 +1,1 @@
+lar[19051]=`<b>βαραθρόω-ῶ</b> <font color="purple">[ᾰα]</font> précipiter dans un gouffre, CHRYS. <i>9, 846d Migne</i>.<p><b>Étym</b>. βάραθρον.`

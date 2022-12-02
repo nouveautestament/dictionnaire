@@ -1,0 +1,1 @@
+lar[79929]=`(<i>seul. prés. et impf.) c</i>. πυνθάνομαι.<p>➳ <i>Prés</i>. OD. <i>3, 87</i> ; MIMNERME <i>14, 2</i> ; PD. <i>P. 4, 66, 193</i> ; ESCHL. <i>Pr. 617, etc.</i> ; SOPH. <i>O.R. 604</i> ; EUR. <i>I.A. 1138, etc. ; impf</i>. ἐπευθόμην, IL. <i>17, 408</i> ; EUR. <i>Rhes. 767, ou</i> πευθόμην, IL. <i>11, 21</i> ; HÉS. <i>Th. 463</i>.`

@@ -1,0 +1,1 @@
+lar[93812]=`<b>ου (ὁ)</b> Symæthos :<br><b>      1</b> <i>fl. de Sicile,</i> THC. <i>6, 65</i>.<br><b>      2</b> <i>dieu de ce fleuve,</i> ANTH. <i>6, 203</i>.`

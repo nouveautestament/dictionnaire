@@ -1,0 +1,1 @@
+lar[97349]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. ταγηνίας, ATH. <i>646d ;</i> GAL. <i>6, 490</i>.<p><b>Étym</b>. <i>cf</i>. τηγανίτης.`

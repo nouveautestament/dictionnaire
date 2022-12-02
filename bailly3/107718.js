@@ -1,0 +1,1 @@
+lar[107718]=`<b>χαλκο·φόρος, ος, ον</b>, qui produit (<i>litt</i>. qui porte) du cuivre, NONN. <i>D. 14, 343</i>.<p><b>Étym</b>. χ. φέρω.`

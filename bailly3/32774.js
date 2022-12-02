@@ -1,0 +1,1 @@
+lar[32774]=`<b>ιδος (ἡ)</b> <i>sorte de poisson du Nil,</i> ATH. <i>312b</i>.`

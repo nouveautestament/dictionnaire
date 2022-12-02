@@ -1,0 +1,1 @@
+lar[55214]=`<b>ου (ὁ)</b> = <i>lat</i>. Censorinus, <i>n. d’h. rom</i>. PLUT. <i>Ant. 24</i>.`

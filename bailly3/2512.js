@@ -1,0 +1,1 @@
+lar[2512]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾱ]</font> qui s’élance, impétueux, OPP. <i>H. 1, 171</i>.<p><b>Étym</b>. ἀΐσσω.`

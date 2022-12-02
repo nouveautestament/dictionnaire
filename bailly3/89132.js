@@ -1,0 +1,1 @@
+lar[89132]=`<b>σακκο·γενειο·τρόφος, ος, ον</b>, qui laisse croître une grande barbe à son menton, ANTH. <i>App. 288</i>.<p><b>Étym</b>. σάκκος, γένειον, τρέφω.`

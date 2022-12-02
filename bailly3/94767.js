@@ -1,0 +1,1 @@
+lar[94767]=`<b>συν·αναφαίνομαι</b>, se montrer <i>ou</i> paraître ensemble, D. PHAL. <i>§ 6</i> ; LUC. <i>Salt. 7, etc</i>.`

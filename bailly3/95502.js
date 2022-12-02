@@ -1,0 +1,1 @@
+lar[95502]=`<b>συν·εξαναπληρόω-ῶ</b>, remplir avec <i>ou</i> en même temps, HPC. <i>915h</i>.`

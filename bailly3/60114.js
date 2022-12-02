@@ -1,0 +1,1 @@
+lar[60114]=`<b>ατος (τὸ) :<br>      1</b> reste, résidu, HDT. <i>1, 119</i> ; PLUT. <i>M. 78a ; particul</i>. la plus petite de deux moitiés, <i>chez les Pythagoriciens,</i> PLUT. <i>M. 1018e.</i><br><b>      2</b> <i>t. de mus</i>. demi-ton <i>ou</i> dièse, PLAT. (PLUT. <i>M. 1017f</i>) ; A. QUINT. <i>1, p. 40</i>.<p><b>Étym</b>. λείπω.`

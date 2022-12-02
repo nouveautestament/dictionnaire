@@ -1,0 +1,1 @@
+lar[62572]=`<b>ας (ἡ)</b> extension prolongée, ANTYLL. (ORIB. <i>1, 534 B.-Dar</i>.).<p><b>Étym</b>. μακρότονος.`

@@ -1,0 +1,1 @@
+lar[29536]=`<b>ή, όν</b>, qui peut embrasser <i>ou</i> comprendre, GAL. <i>2, 25</i>.<p><b>Étym</b>. ἐγκαταλαμβάνω.`

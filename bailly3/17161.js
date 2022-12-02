@@ -1,0 +1,1 @@
+lar[17161]=`<b>αὐθ·υπότακτος, ου (ὁ)</b> <i>t. de gr</i>. le subjonctif aoriste second, <i>ou parfois</i> premier, HDN GR. <i>Epim. p. 278 Boissonade</i>.<p><b>Étym</b>. αὐτός, ὑποτάσσω.`

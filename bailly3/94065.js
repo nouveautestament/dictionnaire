@@ -1,0 +1,1 @@
+lar[94065]=`<b>συμ·παραιτέομαι-οῦμαι</b>, chercher en même temps à détourner par ses prières, DYSC. <i>Synt. 292, 19</i>.`

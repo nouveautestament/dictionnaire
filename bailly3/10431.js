@@ -1,0 +1,1 @@
+lar[10431]=`<b>ἀντι·στηρίζω :<br>      1</b> soutenir, supporter, ARSTT. <i>Probl. 25, 22, 2</i>.<br><b>      2</b> résister, HPC. <i>Art. 813c, 836b ;</i> SEXT. <i>M. 7, 137</i>.`

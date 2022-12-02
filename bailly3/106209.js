@@ -1,0 +1,1 @@
+lar[106209]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour du mensonge, habitude de mentir, HPC. <i>1283, 26</i> ; PLUT. <i>M. 61d</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l.c</i>.<p><b>Étym</b>. φιλοψευδής.`

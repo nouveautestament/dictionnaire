@@ -1,0 +1,1 @@
+lar[29355]=`<b>ἐγ·γιγνώσκω</b> (<i>part. prés</i>.) reconnaître, avouer, <i>acc</i>. ARÉT. <i>Caus. m. diut. 1, 5</i>.<p><b>Étym</b>. ἐν, γ.`

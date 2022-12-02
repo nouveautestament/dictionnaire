@@ -1,0 +1,1 @@
+lar[32296]=`<font color="purple">[ᾰ]</font> <i>adv</i>., clairement, manifestement, POL. <i>5, 1, 3</i> ; PLUT. <i>M. 436e, etc</i>.<p>•<i> Cp</i>. ἐκφανέστερον, ATH. <i>491a ; sup</i>. ἐκφανέστατα, POL. <i>6, 44, 2</i>.<p><b>Étym</b>. ἐκφανῆς.`

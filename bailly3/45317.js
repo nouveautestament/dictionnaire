@@ -1,0 +1,1 @@
+lar[45317]=`<i>inf. prés. dor. et 1 pl. impf. de</i> εἰμί.`

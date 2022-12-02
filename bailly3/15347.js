@@ -1,0 +1,1 @@
+lar[15347]=`<b>ἀρτι·κόμιστος, ος, ον</b> <font color="purple">[τῐ]</font> nouvellement apporté, NONN. <i>D. 9, 53</i>.<p><b>Étym</b>. ἄ. κομίζω.`

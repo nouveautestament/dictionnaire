@@ -1,0 +1,1 @@
+lar[1326]=`<font color="purple">[ῐτ]</font> <i>adv</i>., indistinctement, PROCL. <i>Plat. Parm. 584 Stallb</i>.`

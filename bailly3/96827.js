@@ -1,0 +1,1 @@
+lar[96827]=`<font color="darkgreen">(<i>impf</i>. ἐσφαράγιζον)</font> <font color="purple">[ᾰᾰ]</font> soulever avec bruit, HÉS. <i>Th. 706</i>.<p><b>Étym</b>. <i>cf</i>. σφαραγέομαι.`

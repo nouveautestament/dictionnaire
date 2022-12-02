@@ -1,0 +1,1 @@
+lar[26252]=`<b>δι·εράω-ῶ</b> (<i>part. prés. pass</i>. -ωμένου) filtrer, PLUT. <i>M. 692c</i>.`

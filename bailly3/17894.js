@@ -1,0 +1,1 @@
+lar[17894]=`<b>ης (ἡ)</b> sorte de philyréa, <i>plante vivace,</i> TH. <i>H.P. 1, 9, 3</i>.`

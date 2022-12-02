@@ -1,0 +1,1 @@
+lar[109273]=`<b>χρυσο·τόκος, ος, ον</b> <font color="purple">[ῡ]</font> qui pond des œufs d’or, ES. <i>343 Halm</i>.<p><b>Étym</b>. χρ. τίκτω.`

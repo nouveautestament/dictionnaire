@@ -1,0 +1,1 @@
+lar[54136]=`<b>κατ·όνομαι</b> (-οσαι, -οται, <i>impf. ion. sans augm</i>. κατονόμην) blâmer vivement, rabaisser, <i>acc</i>. HDT. <i>2, 136, 172</i>.`

@@ -1,0 +1,1 @@
+lar[33197]=`<b>*ἐμεσία</b>, <i>ion</i>. <b>ἐμεσίη (ἡ)</b> (<i>au pl</i>.) envie de vomir, HPC. <i>473, 11</i>.<p><b>Étym</b>. ἔμετος.`

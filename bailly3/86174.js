@@ -1,0 +1,1 @@
+lar[86174]=`<b>προσ·ογκέω-ῶ</b>, se gonfler, devenir volumineux, ARSTT. <i>Probl. 34, 11</i>.<p><b>Étym</b>. π. ὄγκος.`

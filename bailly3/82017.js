@@ -1,0 +1,1 @@
+lar[82017]=`<b>πολυ·κοίρανος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui commande à beaucoup d’hommes, ESCHL. <i>fr. 92</i> (AR. <i>Ran. 1270</i>).`

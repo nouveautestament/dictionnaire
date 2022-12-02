@@ -1,0 +1,1 @@
+lar[33288]=`<b>ἔμ·μορος, ος, ον :<br>      1</b> qui a sa part de, <i>gén</i>. OD. <i>8, 480</i>.<br><b>      2</b> <i>abs</i>. qui a son lot, fortuné, heureux, A. PL. <i>4, 72</i>.<p><b>Étym</b>. ἐν, μείρομαι.`

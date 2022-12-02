@@ -1,0 +1,1 @@
+lar[81805]=`<b>πολύ·γονον, ου (τὸ)</b> <font color="purple">[ῠ]</font> sorte de prêle, <i>plante,</i> DIOSC. <i>4, 4</i>.`

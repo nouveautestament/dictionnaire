@@ -1,0 +1,1 @@
+lar[13744]=`<b>ἀπο·φοιβάζω :<br>      1</b> composer <i>ou</i> réciter d’inspiration, STR. <i>675</i>.<br><b>      2</b> prédire, DS. <i>Exc. Vat. p. 81</i>.`

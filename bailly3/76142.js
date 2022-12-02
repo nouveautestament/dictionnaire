@@ -1,0 +1,1 @@
+lar[76142]=`<b>παρ·αρμόζω</b>, ajuster, adapter, BAS.`

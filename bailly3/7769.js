@@ -1,0 +1,1 @@
+lar[7769]=`<b>ἀνα·τοιχέω-ῶ</b>, être ballotté d’un côté du vaisseau à l’autre, rouler, ARR. <i>Epict. 3, 12, 7</i>.<p><b>Étym</b>. ἀνά, τοῖχος.`

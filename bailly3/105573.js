@@ -1,0 +1,1 @@
+lar[105573]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> affection pour des camarades <i>ou</i> des amis, ALEX. (<i>Com. fr. 3, 526</i>) ; XÉN. <i>Ages. 2, 21</i> ; ARSTT. <i>Rhet. 1, 7, 18</i>.<p><b>Étym</b>. φιλέταιρος.`

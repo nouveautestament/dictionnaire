@@ -1,0 +1,1 @@
+lar[110542]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> sorte de plante marine, OPP. <i>Ix. 2, 7</i>.`

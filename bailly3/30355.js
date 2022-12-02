@@ -1,0 +1,1 @@
+lar[30355]=`<b>εἰκοσα·μναῖος, α, ον</b>, qui lance un poids de vingt mines, PHIL. BYZ. <i>Bel. p. 95, 10</i>.<p><b>Étym</b>. εἴ. μνᾶ.`

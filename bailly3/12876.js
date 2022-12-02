@@ -1,0 +1,1 @@
+lar[12876]=`<b>ἀπο·μειουρίζω</b>, diminuer en pointe, <i>litt</i>. en queue, NICOM. <i>Arithm. 2, p. 125</i>.<p><b>Étym</b>. ἀ. μείουρος.`

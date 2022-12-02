@@ -1,0 +1,1 @@
+lar[101287]=`<b>ὔ</b> <i>ou</i> <b>ὕ</b>, <i>ou mieux</i> <b>ὔ ὗ</b> <i>juxtaposés, onomatopée pour exprimer le reniflement d’une personne qui flaire,</i> AR. <i>Pl. 895</i>.`

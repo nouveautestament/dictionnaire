@@ -1,0 +1,1 @@
+lar[22824]=`<b>γυναικό·φωνος, ος, ον</b> <font color="purple">[ῠ]</font> à voix de femme, AR. <i>Th. 192</i>.<p><b>Étym</b>. γ. φωνή.`

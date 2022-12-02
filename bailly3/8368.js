@@ -1,0 +1,1 @@
+lar[8368]=`<b>ἀν·εξάλεπτος, ος, ον</b> <font color="purple">[ᾰλ]</font> ineffaçable, ISOCR. <i>96c ;</i> PLUT. <i>M. 1b, etc</i>.<p><b>Étym</b>. ἀν-, ἐξαλείφω.`

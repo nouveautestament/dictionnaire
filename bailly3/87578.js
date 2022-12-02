@@ -1,0 +1,1 @@
+lar[87578]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Pythokleidès, <i>h</i>. PLAT. <i>1 Alc. 118c, etc.</i> ; ARSTT. (PLUT. <i>Per. 4), etc</i>.<p><b>Étym</b>. <i>patr. de</i> Πυθοκλῆς.`

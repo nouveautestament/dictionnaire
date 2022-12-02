@@ -1,0 +1,1 @@
+lar[78664]=`<b>περι·θριγκόω-ῶ</b>, entourer d’un revêtement : τινί τι, PLUT. <i>Mar. 21,</i> faire d’une chose un rempart à une autre ; <i>au pass</i>. être protégé contre, <i>gén</i>. CLÉM. <i>303</i>.`

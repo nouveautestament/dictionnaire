@@ -1,0 +1,1 @@
+lar[4226]=`<b>ους (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Alexaménès, <i>h</i>. ANTH. <i>7, 485</i>.<p><b>Étym</b>. ἀλέξω, μένος.`

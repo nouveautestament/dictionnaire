@@ -1,0 +1,1 @@
+lar[19055]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱᾱκ]</font> sorte de gâteau, EPILYC. (ATH. <i>140a</i>) ; <i>plur. ion</i>. βήρηκες, ATH. <i>114f ; cf. Bkk. 226</i>.`

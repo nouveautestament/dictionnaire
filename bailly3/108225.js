@@ -1,0 +1,1 @@
+lar[108225]=`<b>ου (ὁ)</b> Khélidonios, <i>h</i>. LUC. <i>M. cond. 33</i>.<p><b>Étym</b>. <i>v</i>. χελιδόνιος.`

@@ -1,0 +1,1 @@
+lar[48868]=`<font color="purple">[ῐᾰ]</font> se réjouir, SYMM. <i>Cant. 1, 4, etc</i>.<p><b>Étym</b>. ἱλαρός.`

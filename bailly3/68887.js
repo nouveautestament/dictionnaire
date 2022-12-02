@@ -1,0 +1,1 @@
+lar[68887]=`<b>ή, όν</b>, de Numidie, POL. <i>1, 19, 2, etc.</i> ; PLUT. <i>Luc. 1</i> ; LUC. <i>M. cond. 17</i>.`

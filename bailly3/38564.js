@@ -1,0 +1,1 @@
+lar[38564]=`<b>ἐπι·ξανθίζω</b>, rendre jaune <i>ou</i> dorer, PHÉRÉCR. (ATH. <i>269a</i>).<p><b>Étym</b>. ἐπίξανθος.`

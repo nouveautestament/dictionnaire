@@ -1,0 +1,1 @@
+lar[86086]=`<b>προσ·κύπτω</b>, se pencher vers, AR. <i>Vesp. 608</i> ; PLAT. <i>Rsp. 449b ; avec</i> πρός <i>et l’acc</i>. PLAT. <i>Euthyd. 275e ;</i> LUC. <i>Nec. 21</i> ; ATH. <i>181f</i>.`

@@ -1,0 +1,1 @@
+lar[92065]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de l’étendue (longueur, largeur, <i>etc</i>.) d’un stade, POL. <i>34, 11, 14</i> ; DH. <i>7, 73</i> ; DS. <i>1, 52 ; etc</i>.<p><b>Étym</b>. στάδιον.`

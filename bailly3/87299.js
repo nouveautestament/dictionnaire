@@ -1,0 +1,1 @@
+lar[87299]=`<b>(ἡ)</b> Ptéléa, <i>dème att. de la tribu Œnéïde,</i> EUST. <i>Il. 2, p. 297, etc</i>.`

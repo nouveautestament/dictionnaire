@@ -1,0 +1,1 @@
+lar[10665]=`<b>α, ον</b>, d’antre, de caverne, de grotte, EUR. (E. BYZ. <i>v°</i> ἄντρον).<p><b>Étym</b>. ἄντρον.`

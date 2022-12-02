@@ -1,0 +1,1 @@
+lar[45836]=`<i>adv</i>., doucement, modérément, XÉN. <i>Eq. 9, 5</i>.<p>•<i> Cp</i>. -αιότερον, ARSTT. <i>Meteor. 2, 8, 32</i> (-αίτερον <i>Bkk</i>.).<p><b>Étym</b>. ἠρεμαῖος.`

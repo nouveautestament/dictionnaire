@@ -1,0 +1,1 @@
+lar[59298]=`<b>κωφόω-ῶ :<br>      1</b> rendre sourd, GAL. <i>19, 116 ; au pass</i>. être <i>ou</i> devenir sourd, SPT. <i>Ps. 38, 70</i>.<br><b>      2</b> rendre impuissant, <i>au pass</i>. être <i>ou</i> devenir impuissant, SEXT. <i>222</i>.<p><b>Étym</b>. κωφός.`

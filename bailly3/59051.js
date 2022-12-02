@@ -1,0 +1,1 @@
+lar[59051]=`<b>κυφο·ειδής, ής, ές</b> <font color="purple">[ῡ]</font> qui ressemble au cyphi, GAL. <i>13, 585, 587</i>.<p><b>Étym</b>. κῦφι, εἶδος.`

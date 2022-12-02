@@ -1,0 +1,1 @@
+lar[79587]=`<b>περι·φθινύθω</b> (<i>seul. prés</i>.) <font color="purple">[ῐνῠ]</font> se gâter, se corrompre, ORPH. <i>Lith. 515</i>.`

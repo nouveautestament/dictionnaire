@@ -1,0 +1,1 @@
+lar[2544]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. sanguin, HPC. <i>557, 12</i> ; λίθος αἱμ. TH. <i>Lap. 37</i> ; DIOSC. <i>5, 143,</i> hématite, <i>pierre</i>.<p><b>Étym</b>. αἷμα.`

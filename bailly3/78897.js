@@ -1,0 +1,1 @@
+lar[78897]=`<b>περι·λούω</b>, laver <i>ou</i> baigner autour, PLUT. <i>Lyc. 15, Pomp. 80</i>.`

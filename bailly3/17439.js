@@ -1,0 +1,1 @@
+lar[17439]=`<b>αὐτο·δέσποτος, ος, ον :<br>      1</b> qui est son propre maître, indépendant, HIÉROCL. <i>de Provid. 172 Bekker</i>.<br><b>      2</b> maître absolu de, <i>gén</i>. JOS. <i>Macc. 2, 13</i>.<p><b>Étym</b>. αὐ. δεσπότης.`

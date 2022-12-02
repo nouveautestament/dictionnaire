@@ -1,0 +1,1 @@
+lar[79239]=`<b>περί·σαρκος, ος, ον</b>, entouré de chair, gras, ARSTT. <i>Physiogn. 5, 5</i> ; ADAM. <i>Physiogn. 2, 1, p. 374 ; fig</i>. CLÉARQ. (<i>Com. fr. 4, 563).</i><p><b>Étym</b>. π. σάρξ.`

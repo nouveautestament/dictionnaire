@@ -1,0 +1,1 @@
+lar[50650]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvais état de santé, NIC. <i>Th. 319</i>.<p><b>Étym</b>. κακηπελέων.`

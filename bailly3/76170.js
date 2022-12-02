@@ -1,0 +1,1 @@
+lar[76170]=`<b>παρα·σάττω</b>, fourrer, bourrer de côté <i>ou</i> le long de, HDT. <i>6, 125</i>.`

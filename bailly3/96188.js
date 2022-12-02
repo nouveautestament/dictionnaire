@@ -1,0 +1,1 @@
+lar[96188]=`<b>συν·οπαδός, οῦ (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> compagnon, compagne de, <i>dat</i>. PLAT. <i>Phædr. 248c ;</i> A.RH. <i>4, 745 ; gén</i>. PANYAS. <i>Heracl. 12, 13 Kinkel, etc. ; abs</i>. PLAT. <i>Soph. 216b</i>.<p>➳ <i>Ion</i>. συνοπηδός, PANYAS. <i>l. c</i>.<p><b>Étym</b>. σ. ὀπαδός.`

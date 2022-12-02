@@ -1,0 +1,1 @@
+lar[5098]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de grange, propre aux travaux de la grange, ANTH. <i>9, 301</i>.<p><b>Étym</b>. ἅλως.`

@@ -1,0 +1,1 @@
+lar[13585]=`<i>adv</i>., exclusivement, BAS. <i>3, 498a ;</i> NYSS. <i>3, 23d</i>.<p><b>Étym</b>. ἀποτάσσω.`

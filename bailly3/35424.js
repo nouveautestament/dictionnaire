@@ -1,0 +1,1 @@
+lar[35424]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> changements successifs, évolution périodique, PLUT. <i>M. 426d</i>.<p><b>Étym</b>. ἐξαμείβω.`

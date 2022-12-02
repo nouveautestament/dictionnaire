@@ -1,0 +1,1 @@
+lar[106048]=`<b>φιλό·πρωτος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à primer, qui ambitionne le premier rang, POL. <i>Fr. gr. 115</i> ; PLUT. <i>M. 471d ;</i> ARTÉM. <i>2, 32</i> ; τὸ φιλόπρωτον, PLUT. <i>Sol. 29, etc</i>. désir de primer ; <i>joint à</i> τὸ φίλαρχον, PLUT. <i>M. 793e ; à</i> φιλόνεικον, PLUT. <i>Alc. 2</i>.<p><b>Étym</b>. φ. πρῶτος.`

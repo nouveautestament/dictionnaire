@@ -1,0 +1,1 @@
+lar[46588]=`<b>ή, όν</b>, <i>c</i>. θεμιτός, PD. <i>fr. 204</i> ; ESCHL. <i>Sept. 694</i>.<p>➳ <i>Dans les inscr. att. seul</i>. θεμιτός.<p><b>Étym</b>. <i>vb. de</i> θεμίζω.`

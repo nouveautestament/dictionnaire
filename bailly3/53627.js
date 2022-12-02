@@ -1,0 +1,1 @@
+lar[53627]=`<b>ας (ἡ)</b> inclination vers, ATH. <i>352c</i>.<p><b>Étym</b>. καταφερής.`

@@ -1,0 +1,1 @@
+lar[12763]=`<b>εως (ἡ)</b> cessation, fin, HPC. <i>28, 40</i> ; M. ANT. <i>9, 21</i>.<p><b>Étym</b>. ἀπολήγω.`

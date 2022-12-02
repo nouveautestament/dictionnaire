@@ -1,0 +1,1 @@
+lar[92810]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> commandement d’une armée, PHIL. <i>2, 90</i>.<p><b>Étym</b>. στρατάρχης.`

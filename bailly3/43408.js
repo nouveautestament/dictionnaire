@@ -1,0 +1,1 @@
+lar[43408]=`<b>εὔ·σελμος, ος, ον</b>, muni d’un bon tillac, de bonnes planches, de bancs solides, EUR. <i>I.T. 1383, Rhes. 98</i>.<p>➳ <i>Épq</i>. ἐΰσσελμος, IL. <i>2, 170, 358</i> ; OD. <i>2, 390, etc</i>.<p><b>Étym</b>. εὖ, σέλμα.`

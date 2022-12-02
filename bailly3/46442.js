@@ -1,0 +1,1 @@
+lar[46442]=`<b>ης, ες</b>, sulfureux, ARSTT. <i>Plant. 2, 4, 10</i> (θέαφος, soufre, EUST. <i>1935, 22,</i> -ωδης).`

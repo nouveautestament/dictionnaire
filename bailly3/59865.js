@@ -1,0 +1,1 @@
+lar[59865]=`<b>ου (τὸ)</b> <font color="purple">[βᾰ]</font> antimoine, DIOSC. <i>5, 99</i>.`

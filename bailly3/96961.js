@@ -1,0 +1,1 @@
+lar[96961]=`<b>σφυρο·κόπος, ος, ον</b> <font color="purple">[ῡ]</font> qui travaille avec le marteau, SPT. <i>Gen. 4, 22</i> ; PHIL. <i>1, 247</i>.<p><b>Étym</b>. σφῦρα, κόπτω.`

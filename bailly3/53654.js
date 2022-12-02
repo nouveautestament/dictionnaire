@@ -1,0 +1,1 @@
+lar[53654]=`<b>καταφοβέω-ῶ</b>, frapper d’épouvante, <i>acc</i>. DC. <i>39, 14, etc. ; au pass</i>. être frappé d’épouvante, redouter, <i>acc</i>. AR. <i>Ran. 1109 ; abs</i>. THC. <i>6, 33</i>.<p>➳ <i>Fut. moy. au sens pass</i>. AR. <i>l. c</i>.<p><b>Étym</b>. κατάφοβος.`

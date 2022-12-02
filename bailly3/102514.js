@@ -1,0 +1,1 @@
+lar[102514]=`<b>ὑπερηφανο·πάροινος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> ivre d’orgueil, PHILOD. <i>De sup. 3</i>.`

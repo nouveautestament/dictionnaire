@@ -1,0 +1,1 @@
+lar[36688]=`<b>ἐπ·ανερωτάω-ῶ</b>, demander de nouveau : τι, PLAT. <i>Gorg. 454b</i>, qqe ch. ; τινα, XÉN. <i>Mem. 3, 1, 11</i> ; PLAT. <i>Crat. 413a</i>, interroger qqn de nouveau.`

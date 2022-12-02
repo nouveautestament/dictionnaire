@@ -1,0 +1,1 @@
+lar[3345]=`<b>ἀ·κήλητος, ος, ον :<br>      1</b> non charmé, non séduit, PLAT. <i>Phædr. 259a.</i><br><b>      2</b> que l’on ne peut charmer <i>ou</i> adoucir, OD. <i>10, 329</i> ; SOPH. <i>Tr. 999 ; d’où</i> inexorable, inflexible, THCR. <i>Idyl. 22, 169</i>.<p><b>Étym</b>. ἀ, κηλέω.`

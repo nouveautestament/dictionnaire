@@ -1,0 +1,1 @@
+lar[84212]=`<b>προ·εξοδεύω</b>, sortir le premier <i>ou</i> marcher en avant, JOS. <i>B.J. 7, 5, 4</i>.`

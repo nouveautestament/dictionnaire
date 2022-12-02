@@ -1,0 +1,1 @@
+lar[47777]=`<b>ου (ὁ)</b> murmure, bruit, rumeur, BATR. <i>135</i> ; ANON. (SUID.).<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *d<sup>h</sup>reu-, murmurer, bourdonner, gronder, <i>cf</i>. θρέομαι ; <i>autrement pré-grec</i>.`

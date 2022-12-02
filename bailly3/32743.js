@@ -1,0 +1,1 @@
+lar[32743]=`<b>ας (ἡ)</b> commandement d’une troupe de seize éléphants de guerre, EL. TACT. <i>23</i>.<p><b>Étym</b>. ἐλεφαντάρχης.`

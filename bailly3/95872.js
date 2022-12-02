@@ -1,0 +1,1 @@
+lar[95872]=`<b>συν·ηθέω-ῶ</b>, filtrer ensemble <i>ou</i> en même temps, GAL. <i>19, 649</i>.<p><b>Étym</b>. σ. ἠθέω.`

@@ -1,0 +1,1 @@
+lar[36016]=`<b>ἐξ·ισάζω</b> <font color="purple">[ῑ]</font> rendre égal, <i>d’où au pass</i>. être égal à, égaler, STR. <i>84</i>.<br><b><i>Moy.</i></b> s’égaler à, SPT. <i>Sir. 32, 10</i>.`

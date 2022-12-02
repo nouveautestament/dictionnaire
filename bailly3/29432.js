@@ -1,0 +1,1 @@
+lar[29432]=`<b>ή, όν</b>, dont on peut s’éveiller, ARSTT. <i>Somn. 1</i>.<p><b>Étym</b>. <i>vb. de</i> ἐγείρω.`

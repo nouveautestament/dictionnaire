@@ -1,0 +1,1 @@
+lar[75728]=`<b>παρα·κίνδυνος, ος, ον</b> <font color="purple">[ῡ]</font> téméraire : τὸ π. STR. <i>836,</i> caractère aventureux, témérité.`

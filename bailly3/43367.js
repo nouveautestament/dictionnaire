@@ -1,0 +1,1 @@
+lar[43367]=`<b>ης, ες</b>, aux larges rues, SOPH. <i>Aj. 1191</i>.<p><b>Étym</b>. εὐρύς, -ωδης.`

@@ -1,0 +1,1 @@
+lar[77315]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πάτελλα, A. TR. <i>5, 249</i>.`

@@ -1,0 +1,1 @@
+lar[40368]=`<b>ἐρημο·λάλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui chante dans le désert, ANTH. <i>7, 196</i>.<p><b>Étym</b>. ἔ. λαλέω.`

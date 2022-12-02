@@ -1,0 +1,1 @@
+lar[70375]=`<i>gén</i>. <b>έους (ὁ)</b> Œklès, <i>père d’Amphiaraos</i>.<p>➳ <i>Gén. poét</i>. Ὀϊκλέος, PD. <i>P. 8, 41</i> ; Οἰκλέους, ESCHL. <i>Sept. 609, etc. ; acc. épq</i>. Ὀϊκλῆα, OD. <i>15, 243</i>.`

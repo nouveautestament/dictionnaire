@@ -1,0 +1,1 @@
+lar[90019]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de Sestos, MUS. <i>34, 189</i>.<p><b>Étym</b>. Σηστός.`

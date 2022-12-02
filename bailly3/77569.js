@@ -1,0 +1,1 @@
+lar[77569]=`<b>ή, όν</b>, qui a la faculté de marcher, qui marche, ARSTT. <i>G.A. 1, 1, 5</i>.<p><b>Étym</b>. πεζεύω.`

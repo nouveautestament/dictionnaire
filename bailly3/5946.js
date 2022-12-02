@@ -1,0 +1,1 @@
+lar[5946]=`<font color="purple">[ᾰ]</font> <i>adv</i>., sur la défensive, PROCL. <i>Plat. Parm. 555</i>.`

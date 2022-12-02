@@ -1,0 +1,1 @@
+lar[31995]=`<b>ἐκ·ραίνω</b> <font color="darkgreen">(<i>ao</i>. ἐξέρρανα <font color="purple">[ρᾱ]</font>)</font> faire jaillir, SOPH. <i>Tr. 781</i> ; EUR. <i>Cycl. 402</i>.`

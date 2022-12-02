@@ -1,0 +1,1 @@
+lar[67337]=`<b>ας (ἡ)</b> myrrhe, <i>parfum,</i> ATH. <i>688c</i>.<p><b>Étym</b>. <i>emprunt sémit. ; cf</i>. σμύρνα.`

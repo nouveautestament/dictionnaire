@@ -1,0 +1,1 @@
+lar[68385]=`<b>νευρο·σπάστης, ου (ὁ)</b> qui fait mouvoir des marionnettes, ARSTT. <i>Mund. 6</i> ; ATH. <i>19e</i>.<p><b>Étym</b>. νεῦρον, σπάω.`

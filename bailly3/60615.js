@@ -1,0 +1,1 @@
+lar[60615]=`<b>ητος (ἡ) :<br>      1</b> couleur blanche, blancheur, HPC. <i>Aër. 292</i> ; PLAT. <i>Rsp. 617a ;</i> ARSTT. <i>Nic. 1, 6</i>.<br><b>      2</b> limpidité, <i>fig</i>. EUN. <i>p. 21, 21</i>.<p><b>Étym</b>. λευκός.`

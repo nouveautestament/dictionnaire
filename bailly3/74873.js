@@ -1,0 +1,1 @@
+lar[74873]=`<b>παν·απηρής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> tout à fait intact, non mutilé, CALL. <i>Cer. 125</i>.<p><b>Étym</b>. π. ἀπηρής.`

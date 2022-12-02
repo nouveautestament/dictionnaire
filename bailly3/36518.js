@@ -1,0 +1,1 @@
+lar[36518]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> onction, <i>d’où</i> onguent, <i>c</i>. ἐπάλειμμα, MOSCHION <i>Mul. pass. 55, p. 26</i>.`

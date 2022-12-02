@@ -1,0 +1,1 @@
+lar[106056]=`<b>Φιλ·όπωρος, ου (ὁ)</b> Philopôros. ALCIPHR. <i>3, 71,</i> Ami-de-l’automne, <i>càd</i>. de la vendange, <i>n. de parasite</i>.<p><b>Étym</b>. <i>v</i>. φιλοπωριστής.`

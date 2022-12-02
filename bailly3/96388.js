@@ -1,0 +1,1 @@
+lar[96388]=`<b>συν·τυπόω-ῶ</b> <font color="purple">[τῠ]</font> façonner sur le type de, modeler sur, <i>rég. ind. au dat</i>. SIMPL. <i>Epict. p. 263</i>.<p><b>Étym</b>. <i>418</i>.`

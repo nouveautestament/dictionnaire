@@ -1,0 +1,1 @@
+lar[110034]=`<b>ψυχρο·φόρος, ος, ον</b>, qui porte de l’eau froide, NAZ.<p><b>Étym</b>. ψ. φέρω.`

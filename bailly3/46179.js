@@ -1,0 +1,1 @@
+lar[46179]=`<b>ας (ἡ)</b> <font color="purple">[θᾰ]</font> métier de marin, de pêcheur, HPC. <i>366, 28</i> ; THÉM. <i>Or. 24, 305d</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l. c</i>.<p><b>Étym</b>. θαλασσουργός.`

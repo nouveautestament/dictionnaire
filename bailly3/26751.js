@@ -1,0 +1,1 @@
+lar[26751]=`<b>ου (ὁ)</b> Diokleidès (<i>litt</i>. fils <i>ou</i> descendant de Dioklès) <i>h</i>. AND. <i>6, 7, etc</i>.<p>➳ <i>Dor</i>. -είδας, PHRYN. COM. (PLUT. <i>Alc. 20</i>) ; THCR. <i>Idyl. 5, 147</i>.<p><b>Étym</b>. <i>patr. de</i> Διοκλῆς.`

@@ -1,0 +1,1 @@
+lar[48532]=`<b>ου (τὸ)</b> épervière, <i>plante</i>, DIOSC. <i>3, 72</i> ; GAL. <i>13, 450</i>.<p><b>Étym</b>. ἱέραξ.`

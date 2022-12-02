@@ -1,0 +1,1 @@
+lar[69322]=`<b>ου (ὁ)</b> = <i>lat</i>. Nonius, <i>n. d’h. rom</i>. PLUT. <i>Mar. 29, Syll. 10</i>.`

@@ -1,0 +1,1 @@
+lar[3708]=`<b>εως (ἡ)</b> <font color="purple">[ῑ]</font> recherche exacte, soin minutieux, JOS. <i>A.J. 17, 2 ; 4</i>.<p><b>Étym</b>. ἀκριβόω.`

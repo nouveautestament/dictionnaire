@@ -1,0 +1,1 @@
+lar[11534]=`<i>adv.</i> :<br><b>      1</b> sans vraisemblance, <i>d’ord. précédé d’une nég</i>. THC. <i>6, 55 (var</i>. ἀπεοικότως) ; ISOCR. <i>179c.</i><br><b>      2</b> sans raison, à tort, <i>d’ord. précédé d’une nég</i>. THC. <i>1, 73, 2, 8 ; 8, 68, etc.</i> ; PLUT. <i>M. 3d, 103b, 947f ;</i> LGN <i>15, 11, etc</i>.<p><b>Étym</b>. ἀπεικώς.`

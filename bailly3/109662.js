@@ -1,0 +1,1 @@
+lar[109662]=`<b>ψευδ·ησιόδειος, ος, ον</b>, faussement attribué à Hésiode, CIC. <i>Att. 7, 18</i>.<p><b>Étym</b>. ψ. Ἡσίοδος.`

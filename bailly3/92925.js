@@ -1,0 +1,1 @@
+lar[92925]=`<b>εος-ους (τὸ)</b> orgueil, insolence, ANTH. <i>7, 686</i> ; SPT. <i>4Reg. 19, 28</i> ; luxe, NT. <i>Apoc. 18, 3, etc</i>.`

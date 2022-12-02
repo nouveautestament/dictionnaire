@@ -1,0 +1,1 @@
+lar[63130]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Maso, Masôn, <i>n. rom</i>. PLUT. <i>Æmil. 5</i>.`

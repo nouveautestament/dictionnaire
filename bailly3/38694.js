@@ -1,0 +1,1 @@
+lar[38694]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> application d’un emplâtre, ARÉT. <i>Cur. m. acut. 1, 9</i>.<p><b>Étym</b>. ἐπιπλάσσω.`

@@ -1,0 +1,1 @@
+lar[95957]=`<b>συν·θηράω-ῶ :<br>      1</b> chasser ensemble <i>ou</i> avec, XÉN. <i>An. 5, 3, 10</i>.<br><b>      2</b> <i>fig</i>. prendre ensemble, SOPH. <i>Ph. 1005</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 1, SOPH. <i>Ant. 433</i>.`

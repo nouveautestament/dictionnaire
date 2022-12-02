@@ -1,0 +1,1 @@
+lar[9532]=`<b>ἀντ·αυγέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἀντηύγουν)</font> réfléchir la lumière, EMPÉD. (PLUT. <i>M. 400b</i>) ; ARSTT. <i>Probl. 32, 6, 1, etc.</i> ; ἀ. φόνον, EUR. <i>Or. 1519,</i> lancer des éclairs de sang, <i>en parl. d’une épée</i>.<p><b>Étym</b>. ἀνταυγής.`

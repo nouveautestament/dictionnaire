@@ -1,0 +1,1 @@
+lar[71128]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> vaisseau remorqué, <i>particul</i>. vaisseau de transport <i>ou</i> de charge, PD. <i>N. 5, 2</i> ; HDT. <i>7, 25, etc.</i> ; THC. <i>2, 91, etc.</i> ; XÉN. <i>Ath. 1, 20</i> ; AR. <i>Eq. 171, etc</i>.<p><b>Étym</b>. ἕλκω.`

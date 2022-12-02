@@ -1,0 +1,1 @@
+lar[28352]=`<b>δυσ·έκνευστος, ος, ον</b> <font color="purple">[ῠ]</font> d’où il est difficile de s’échapper à la nage, M. TYR. <i>17, 10</i>.<p><b>Étym</b>. δ. ἐκνέω.`

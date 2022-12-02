@@ -1,0 +1,1 @@
+lar[55323]=`<b>κηρωτο·μάλαγμα, ατος (τὸ)</b> <font color="purple">[μᾰ]</font> emplâtre de cérat, GAL. <i>13, 849</i>.<p><b>Étym</b>. κηρωτός, μαλάσσω.`

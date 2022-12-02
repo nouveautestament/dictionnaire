@@ -1,0 +1,1 @@
+lar[97252]=`<b>σωσί·κοσμος, ου (ὁ)</b> <font color="purple">[ῐ]</font> sauveur du monde, <i>en parl. de J.-C</i>. ANTH. <i>1, 94</i>.<p><b>Étym</b>. σῴζω, κόσμος.`

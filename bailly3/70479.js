@@ -1,0 +1,1 @@
+lar[70479]=`<font color="purple">[ᾰ]</font> ébourgeonner la vigne, AR. <i>Pax 1147</i> ; PHÆNIAS (SCH.-THCR. <i>7, 134).</i><p><b>Étym</b>. οἰναρίς.`

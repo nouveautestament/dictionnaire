@@ -1,0 +1,1 @@
+lar[27197]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. διχομηνία GEOP. <i>2, 14</i>.`

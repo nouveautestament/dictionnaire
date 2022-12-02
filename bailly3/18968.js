@@ -1,0 +1,1 @@
+lar[18968]=`<b>οῦ (ὁ)</b> PLUT. <i>Fort. Rom. 4 ou</i> βαλιαρικός (ὁ) STR. <i>167</i> = <i>lat</i>. Balearicus, <i>surn. de Métellus</i>.`

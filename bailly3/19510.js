@@ -1,0 +1,1 @@
+lar[19510]=`<b>βελό·στασις, εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> emplacement d’une batterie de tir, PHIL. BYZ. <i>Bel. 81b, etc.</i> ; POL. <i>9, 41, 8</i> ; DS. <i>20, 85</i>.<br><b>      2</b> <i>p. ext</i>. batterie en position, SPT. <i>Ezech. 4, 2 ; 1 Macc. 6, 20</i>.<p><b>Étym</b>. βέλος, στάσις.`

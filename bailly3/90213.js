@@ -1,0 +1,1 @@
+lar[90213]=`<b>α, ον</b> <font color="purple">[σῑ]</font> de Sithôn, NONN. <i>D. 3, 217, etc.</i> ; ἡ Σιθονία, <i>c</i>. Σιθωνίη, NONN. <i>D. 3, 40</i> ; EUPHOR. <i>fr. 55</i>.<p><b>Étym</b>. Σιθών.`

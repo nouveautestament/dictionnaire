@@ -1,0 +1,1 @@
+lar[96655]=`<b>σύσ·σωμος, ος, ον</b>, uni en un seul corps, NT. <i>Eph. 3, 6</i>.<p><b>Étym</b>. σύν, σῶμα.`

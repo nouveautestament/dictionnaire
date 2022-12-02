@@ -1,0 +1,1 @@
+lar[60626]=`<b>λευκο·φλέγματος, ος, ον</b> <font color="purple">[ᾰ]</font> malade d’une leucophlegmasie, HPC. <i>1133b</i>.<p><b>Étym</b>. λ. φλέγμα.`

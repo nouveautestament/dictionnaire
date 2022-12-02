@@ -1,0 +1,1 @@
+lar[41582]=`<b>εὐ·ανακόμιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> facile à rappeler <i>ou</i> à ramener, PLUT. <i>M. 458e</i>.<p><b>Étym</b>. εὖ, ἀνακομίζω.`

@@ -1,0 +1,1 @@
+lar[34059]=`<b>ἐν·αττικίζω</b> (<i>seul. prés</i>.) <font color="purple">[ῐκ]</font> faire entendre des sons attiques, <i>càd</i>. mélodieux dans, <i>dat</i>. PHILSTR. <i>665</i>.`

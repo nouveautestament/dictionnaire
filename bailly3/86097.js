@@ -1,0 +1,1 @@
+lar[86097]=`<b>προσ·λαλέω-ῶ</b> <font color="purple">[ᾰ]</font> s’entretenir avec, <i>dat</i>. TH. <i>Char. 7</i> ; τινί τι, PLUT. <i>M. 602e</i>, avec qqn de qqe ch.`

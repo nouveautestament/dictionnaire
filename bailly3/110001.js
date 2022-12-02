@@ -1,0 +1,1 @@
+lar[110001]=`<b>ψυχόω-ῶ</b> <font color="purple">[ῡ]</font> animer, vivifier, A. PL. <i>4, 159</i> ; PLUT. <i>M. 1052f ;</i> PHIL. <i>1, 693</i>.<p><b>Étym</b>. ψυχή.`

@@ -1,0 +1,1 @@
+lar[44546]=`<b>Ζηνό·δοτος, ου (ὁ)</b> Zènodotos :<br><b>      1</b> <i>critique célèbre d’Alexandrie</i>, LUC. <i>V.H. 2, 20</i>.<br><b>      2</b> <i>historien</i>, PLUT. <i>Rom. 14</i>.<p><b>Étym</b>. Ζήν, δοτός.`

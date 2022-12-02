@@ -1,0 +1,1 @@
+lar[50784]=`<b>κακο·μιμήτως</b> <font color="purple">[ᾰῑ]</font> <i>adv</i>., en imitant mal, ARSTT. <i>Poet. 26, 10</i>.<p><b>Étym</b>. κ. μιμέομαι.`

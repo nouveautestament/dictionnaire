@@ -1,0 +1,1 @@
+lar[29278]=`<b>ἑβδομ·αγέτης, ου (ὁ)</b> <font color="purple">[ᾱ]</font> le septième chef, <i>sel. d’autres,</i> l’instigateur des sept chefs (Apollon), ESCHL. <i>Sept. 800 ; cf</i>. HDT. <i>6, 57</i>.<p><b>Étym</b>. ἕβδομος, ἡγέομαι ; <i>cf</i>. Μουσαγέτης.`

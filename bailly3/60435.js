@@ -1,0 +1,1 @@
+lar[60435]=`<b>λεπτο·σπάθητος, ος, ον</b> <font color="purple">[ᾰ]</font> finement tissé, SOPH. <i>fr. 400</i>.<p><b>Étym</b>. λ. σπαθάω.`

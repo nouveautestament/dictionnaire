@@ -1,0 +1,1 @@
+lar[37552]=`<b>ατος (τὸ)</b> <i>seul. au plur</i>. ligament, bandage, HPC. <i>Fract. 765, Art. 791</i>.<p><b>Étym</b>. ἐπιδέω¹.`

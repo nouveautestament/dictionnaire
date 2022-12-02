@@ -1,0 +1,1 @@
+lar[101185]=`<b>τυφλό·πους, -ποδός (ὁ, ἡ)</b> qui marche aveuglément, au hasard, EUR. <i>Ph. 1549</i>.<p><b>Étym</b>. τυφλός, πούς.`

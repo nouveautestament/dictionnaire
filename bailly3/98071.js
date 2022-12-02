@@ -1,0 +1,1 @@
+lar[98071]=`<b>ας (ἡ)</b> procréation d’enfants, reproduction, XÉN. <i>Mem. 1, 4, 7 ; Lac. 1, 3, etc.</i> ; ARSTT. <i>Nic. 7, 12, 7, etc. ; en parl. d’animaux,</i> ARSTT. <i>H.A. 8, 1, 11 ; en parl. d’oiseaux,</i> PLUT. <i>M. 966d</i>.<p><b>Étym</b>. τεκνοποιός.`

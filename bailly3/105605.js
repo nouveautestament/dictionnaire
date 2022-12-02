@@ -1,0 +1,1 @@
+lar[105605]=`<b>φιληκοέω-οῶ</b>, écouter volontiers, écouter avec attention, POL. <i>3, 57, 4</i>.<p><b>Étym</b>. φιλήκοος.`

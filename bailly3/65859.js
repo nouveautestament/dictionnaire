@@ -1,0 +1,1 @@
+lar[65859]=`<b>μιμό·βιος, ος, ον</b> <font color="purple">[μῑ]</font> qui gagne sa vie à composer <i>ou</i> à jouer des mimes, MAN. <i>4, 280</i>.<p><b>Étym</b>. μῖμος, βίος.`

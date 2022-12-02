@@ -1,0 +1,1 @@
+lar[5624]=`<b>ἀμιτρο·χίτωνες, ώνων (οἱ)</b> <font color="purple">[χῐ]</font> qui ne portent pas de ceinture sur leur cotte de mailles (Lyciens) IL. <i>16, 419</i>.<p><b>Étym</b>. ἄμιτρος, χιτών.`

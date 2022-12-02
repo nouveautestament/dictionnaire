@@ -1,0 +1,1 @@
+lar[90629]=`<b>ης (ἡ)</b> épée thrace, coutelas, SOPH. <i>fr. 549</i> ; M. ANT. <i>11, 15</i>.`

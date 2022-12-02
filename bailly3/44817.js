@@ -1,0 +1,1 @@
+lar[44817]=`<b>εως (ἡ) :<br>      1</b> action de ceindre, SPT. <i>Esaï. 22, 12</i>.<br><b>      2</b> partie du corps ceinte, la ceinture, NT. <i>Apoc. 59</i>.<p><b>Étym</b>. ζώννυμι.`

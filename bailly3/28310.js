@@ -1,0 +1,1 @@
+lar[28310]=`<b>δυσ·διεξίτητος, ος, ον</b> <font color="purple">[ῐ]</font> difficile à parcourir, SYN. <i>246d</i>.<p><b>Étym</b>. δ. διέξειμι.`

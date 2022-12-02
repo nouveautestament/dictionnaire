@@ -1,0 +1,1 @@
+lar[6612]=`<b>ἀναγκό·δακρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ᾰν]</font> qui se contraint pour pleurer, ESCHL. <i>fr. 407</i>.<p><b>Étym</b>. ἀνάγκη, δάκρυ.`

@@ -1,0 +1,1 @@
+lar[27805]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> sorte d’oiseau, A. LIB. <i>9</i>.<br><b>      2</b> <i>plur</i>. αἱ δρακοντίδες, grosses veines partant du cœur, RUF. <i>Part. corp. 42</i>.<p><b>Étym</b>. δράκων.`

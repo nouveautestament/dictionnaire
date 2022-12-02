@@ -1,0 +1,1 @@
+lar[36538]=`<b>ἐπ·αμοιβαδίς</b> <font color="purple">[ᾰᾰῐ]</font> <i>adv</i>., alternativement, OD. <i>5, 481</i> ; A.RH. <i>4, 1030</i>.`

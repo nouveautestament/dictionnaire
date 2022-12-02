@@ -1,0 +1,1 @@
+lar[10617]=`<b>ἀντι·ψηφίζομαι</b> <font color="darkgreen">(<i>ao</i>. ἀντεψηφισάμην)</font>, rendre un vote <i>ou</i> un décret contraire, PLUT. <i>Lys. 27</i>.`

@@ -1,0 +1,1 @@
+lar[93118]=`<b>ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font><br><b>      1</b> storax, gomme <i>ou</i> résine dont on fait l’encens, ARSTT. <i>H.A. 4, 8, 27</i> ; TH. <i>H.P. 9, 7, 3</i>.<br><b>      2</b> styrax, arbre qui produit cette gomme, HDT. <i>3, 107</i> ; STR. <i>570</i> ; PLUT. <i>Lys. 28</i>.<p>➳ ἡ στ. HDT. <i>l. c</i>.`

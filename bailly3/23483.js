@@ -1,0 +1,1 @@
+lar[23483]=`<font color="purple">[ᾰ]</font> faire un exemple, <i>acc</i>. NT. <i>Matth. 1, 19 ; Col. 2, 15 (ao. 3 sg</i>. ἐδειγμάτισεν) ; proposer en exemple, CHRYS. <i>7, 307</i>.<p><b>Étym</b>. δεῖγμα.`

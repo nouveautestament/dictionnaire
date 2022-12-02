@@ -1,0 +1,1 @@
+lar[5661]=`<b>ας (ἡ)</b> infortune, malheur, OD. <i>20, 76</i> ; ANTH. <i>9, 284</i>.<p><b>Étym</b>. ἄμμορος.`

@@ -1,0 +1,1 @@
+lar[36252]=`<b>ἑξ·πηχυστί</b>, <i>adv</i>., de six coudées, SOPH. <i>fr. 876</i>.<p><b>Étym</b>. ἕξ, πῆχυς.`

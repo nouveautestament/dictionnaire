@@ -1,0 +1,1 @@
+lar[74906]=`<b>παν·δακέτης</b>, <i>dor</i>. <b>παν·δακέτας</b> <font color="purple">[ᾰκ]</font> <i>adj. m</i>. tout à fait mordant, EPIGR. (PLUT. <i>Cato ma. 1).</i><p><b>Étym</b>. π. δάκνω.`

@@ -1,0 +1,1 @@
+lar[21316]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) donner en mariage, DYSC. <i>Synt. 277</i> ; NT. <i>Luc. 17, 27</i>.<p><b>Étym</b>. γάμος.`

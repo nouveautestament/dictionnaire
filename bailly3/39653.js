@@ -1,0 +1,1 @@
+lar[39653]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>pass</i>. joyeux de, <i>dat</i>. SPT. <i>Job 31, 29</i>.<br><b>      2</b> <i>act</i>. réjouissant, agréable : τινι, ESCHL. <i>Pr. 160,</i> à qqn.<p><b>Étym</b>. ἐπιχαίρω.`

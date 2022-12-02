@@ -1,0 +1,1 @@
+lar[79020]=`<i>adv</i>., remarquablement, PLUT. <i>Marc. 10, Syll. 21</i>.`

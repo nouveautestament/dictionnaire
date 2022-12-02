@@ -1,0 +1,1 @@
+lar[100930]=`<b>ώων (οἱ)</b> les Troyens, IL. <i>1, 408 ; 22, 57, etc</i>.<p>➳ <i>Dat. pl</i>. Τρωσί, IL. <i>2, 40, etc.</i> ; OD. <i>3, 86, etc.</i> ; ESCHL. <i>Ag. 67, etc. ; ou</i> Τρώεσσι, IL. <i>1, 408, etc.</i> ; OD. <i>4, 254, etc.</i> ; HH. <i>4, 103, 196, etc</i>.`

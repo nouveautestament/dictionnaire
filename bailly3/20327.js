@@ -1,0 +1,1 @@
+lar[20327]=`<b>α, ον</b>, de Bottie <i>ou</i> des Bottiæes ; ἡ βοττιαία (<i>s.-e</i>. χώρα) THC. <i>2, 100</i> ; STR. <i>etc</i>. le pays des Bottiæes, la Bottie ; οἱ βοττιαῖοι, HDT. <i>7, 185 ; 8, 127</i> ; ARSTT. STR. PLUT. <i>etc</i>. les Bottiæes.<p><b>Étym</b>. βοττία.`

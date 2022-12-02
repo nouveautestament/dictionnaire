@@ -1,0 +1,1 @@
+lar[70129]=`<b>ὀδοντ·αλγέω-ῶ</b>, avoir mal aux dents, CTÉS. <i>Ind. 45</i>.<p><b>Étym</b>. ὀδούς, ἄλγος.`

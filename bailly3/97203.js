@@ -1,0 +1,1 @@
+lar[97203]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de créer des corps, HERMÈS (STOB. <i>Ecl. 1, p. 730</i>).<br><b>      2</b> action de donner du corps, de la consistance, TH. <i>C.P. 6, 11, 14</i>.<p><b>Étym</b>. σωματόω.`

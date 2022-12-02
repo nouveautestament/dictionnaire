@@ -1,0 +1,1 @@
+lar[56632]=`<b>ή, όν</b>, qui a la propriété de coller, de souder, ARSTT. <i>Probl. 21, 11 et 16</i> ; PLUT. <i>M. 952b ; p. suite,</i> de cicatriser, DIOSC. <i>1, 112 ; 3, 89</i>.<p><b>Étym</b>. κολλητός.`

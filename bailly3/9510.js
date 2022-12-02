@@ -1,0 +1,1 @@
+lar[9510]=`<b>ῆς (ἡ)</b> aversion mutuelle, STR. <i>257</i>.<p><b>Étym</b>. ἀντί, ἀποστρέφω.`

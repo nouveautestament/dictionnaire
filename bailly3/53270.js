@@ -1,0 +1,1 @@
+lar[53270]=`<b>κατάρροος-ους, οος-ους, οον-ουν :<br>      1</b> <i>adj</i>. qui coule en bas, PHILSTR. <i>265</i>.<br><b>      2</b> <i>subst</i>. ὁ κ. flux d’humeurs, PLAT. <i>Crat. 440c ; particul</i>. catarrhe <i>ou</i> rhume, HPC. <i>1259h ;</i> PLAT. <i>Crat. 440d, etc</i>.<p><b>Étym</b>. καταρρέω.`

@@ -1,0 +1,1 @@
+lar[74192]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> avec disposition à s’émouvoir, d’une manière pathétique, ARSTT. <i>Rhet. 2, 21, 13 ; 3, 7, 11</i>.<br><b>      2</b> d’une façon passive, PLUT. <i>M. 1111e.</i><br><b>      3</b> <i>t. de gr</i>. au passif, DYSC. <i>Synt. 276</i>.`

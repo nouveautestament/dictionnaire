@@ -1,0 +1,1 @@
+lar[51825]=`<b>ης, ες :<br>      1</b> semblable au crabe, ARSTT. <i>P.A. 4, 8</i> ; PLUT. <i>M. 980b.</i><br><b>      2</b> cancéreux, GAL. <i>18, 80</i>.<p><b>Étym</b>. καρκίνος, -ωδης.`

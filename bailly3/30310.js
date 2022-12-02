@@ -1,0 +1,1 @@
+lar[30310]=`<b>ας (ἡ)</b> langage irréfléchi, PHIL. <i>1, 674</i>.<p><b>Étym</b>. εἰκαιολόγος.`

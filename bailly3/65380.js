@@ -1,0 +1,1 @@
+lar[65380]=`<b>μηλίτης οἶνος (ὁ)</b> vin de pommes, cidre, PLUT. <i>M. 648e</i>.<p><b>Étym</b>. μῆλον².`

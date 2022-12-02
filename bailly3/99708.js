@@ -1,0 +1,1 @@
+lar[99708]=`<b>τοσουτο·πλάσιος, α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. τοσαυταπλάσιος, JAMBL. <i>Nicom. ar. p. 137d</i>.`

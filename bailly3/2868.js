@@ -1,0 +1,1 @@
+lar[2868]=`<b>αἰσυμνάω-ῶ</b> (<i>seul. prés</i>.) régner sur, commander à, <i>gén</i>. EUR. <i>Med. 19</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

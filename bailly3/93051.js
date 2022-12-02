@@ -1,0 +1,1 @@
+lar[93051]=`<b>ηρος (ὁ) :<br>      1</b> <i>t. d’archit</i>. solive transversale soutenant un plancher <i>ou</i> rattachant deux colonnes, HPC. <i>Art. 783, 838</i> ; GAL. <i>12, 301, 302</i> ; TH. <i>Vent. 12</i> ; POL. <i>5, 89, 6</i>.<br><b>      2</b> <i>c</i>. στρώτης, NAZ.<p><b>Étym</b>. στρώννυμι.`

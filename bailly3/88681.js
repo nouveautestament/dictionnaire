@@ -1,0 +1,1 @@
+lar[88681]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> sorte de coupe fabriquée à Rhodes, DIPH. (<i>Com. fr. 4, 377).</i><p><b>Étym</b>. Ῥόδος.`

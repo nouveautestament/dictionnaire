@@ -1,0 +1,1 @@
+lar[75948]=`<b>*παρ·αμπυκίζω</b>, <i>dor</i>. <b>παρ·αμπυκίδδω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. παραμπύκιδδε)</font> <font color="purple">[ῠ]</font> entourer d’une bandelette, AR. <i>Lys. 1316</i>.<p><b>Étym</b>. π. ἄμπυξ.`

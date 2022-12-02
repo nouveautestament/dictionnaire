@@ -1,0 +1,1 @@
+lar[107902]=`<font color="purple">[ᾰ]</font> faire le gracieux, l’homme d’esprit, plaisanter, badiner, PLAT. <i>Rsp. 436d, Ap. 24c ;</i> AR. <i>fr. 212</i> ; DH. <i>Lys. 13, etc</i>.<p><b>Étym</b>. χαρίεις.`

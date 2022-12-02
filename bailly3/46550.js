@@ -1,0 +1,1 @@
+lar[46550]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> horoscope, HERM. <i>Iatr. 431, 18</i>.<p><b>Étym</b>. <i>dim. de</i> θέμα.`

@@ -1,0 +1,1 @@
+lar[90676]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰῑῐδ]</font> <i>pierre précieuse dont la couleur rappelle le poisson</i> σκάρος, PLIN. <i>H.N. 37, 11, 72</i>.`

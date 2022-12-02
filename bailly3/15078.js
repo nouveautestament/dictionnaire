@@ -1,0 +1,1 @@
+lar[15078]=`<b>ους</b>, <i>acc</i>. <b>ην (ὁ)</b> Harpokratès, <i>dieu égyptien,</i> ANTH. <i>11, 115</i> ; PLUT. <i>M. 358e, etc</i>.`

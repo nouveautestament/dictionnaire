@@ -1,0 +1,1 @@
+lar[41967]=`<b>εὐ·έκφορος, ου</b>, <i>adj. f</i>. qui enfante à terme, ARSTT. <i>H.A. 7, 4, 11</i>.<p><b>Étym</b>. εὖ, ἐκφέρω.`

@@ -1,0 +1,1 @@
+lar[12292]=`<b>ἀπο·διδάσκω</b> (<i>inf. ao</i>. -διδάξαι) <font color="purple">[ῐ]</font> apprendre (à qqn) à ne pas, <i>etc</i>. HPC. <i>750e</i>.`

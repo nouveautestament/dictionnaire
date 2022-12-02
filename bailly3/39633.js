@@ -1,0 +1,1 @@
+lar[39633]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de la nature d’un épiphonème, HERMOG. <i>Rhet. 174, 10</i>.<p><b>Étym</b>. ἐπιφώνημα.`

@@ -1,0 +1,1 @@
+lar[99080]=`<b>*τιέω</b>, <i>c</i>. τίω, <i>seul. aux temps suiv. : act. part. pf</i>. τετιηώς, IL. <i>11, 555 ; 9, 13 ; pass. pf</i>. τετίημαι, IL. <i>8, 437, 447</i> ; HÉS. <i>Th. 163</i>.`

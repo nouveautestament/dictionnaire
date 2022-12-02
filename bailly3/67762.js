@@ -1,0 +1,1 @@
+lar[67762]=`<b>ναύ·μαχος, ος, ον</b> <font color="purple">[ᾰ]</font> propre aux combats sur mer, IL. <i>15, 389, 677</i> ; HDT. <i>7, 89</i>.<p><b>Étym</b>. <i>v</i>. ναυμάχος.`

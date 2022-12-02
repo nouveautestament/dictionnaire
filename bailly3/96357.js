@@ -1,0 +1,1 @@
+lar[96357]=`<b>συν·τοξεύω</b>, cribler de traits, EUN. <i>p. 29</i>.<p><b>Étym</b>. <i>465</i>.`

@@ -1,0 +1,1 @@
+lar[48821]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Ikmalios, <i>h</i>. OD. <i>19, 57</i>.`

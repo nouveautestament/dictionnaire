@@ -1,0 +1,1 @@
+lar[18502]=`<b>ἄ·χορος, ος, ον</b>, non accompagné de danses, PLUT. <i>M. 16c ; d’où</i> triste, affreux, <i>en parl. d’Arès,</i> ESCHL. <i>Suppl. 635, 681 ; en parl. de la mort,</i> SOPH. <i>O.C. 1223</i>.<p><b>Étym</b>. ἀ, χορός.`

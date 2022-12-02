@@ -1,0 +1,1 @@
+lar[90847]=`<b>εως (ἡ) :<br>      1</b> action de dresser une tente, AGATHARCH. <i>p. 35</i>.<br><b>      2</b> action de s’établir qqe part, DS. <i>3, 19</i>.<p><b>Étym</b>. σκηνόω.`

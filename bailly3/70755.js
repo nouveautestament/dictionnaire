@@ -1,0 +1,1 @@
+lar[70755]=`<b>ου (τὸ) :<br>      1</b> lieu où l’on prend les auspices d’après le vol des oiseaux, DH. <i>1, 86</i>.<br><b>      2</b> augure tiré du vol des oiseaux, présage, XÉN. <i>Ap. 12</i>.<p><b>Étym</b>. οἰωνίζομαι.`

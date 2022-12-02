@@ -1,0 +1,1 @@
+lar[88896]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> saleté, souillure, ORIG. <i>2, 1588 Migne</i>.`

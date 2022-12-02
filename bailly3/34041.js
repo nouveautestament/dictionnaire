@@ -1,0 +1,1 @@
+lar[34041]=`<b>ἐν·ασθενέω-ῶ</b>, être faible dans, BAS. <i>3, 321 Migne</i>.`

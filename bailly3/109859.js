@@ -1,0 +1,1 @@
+lar[109859]=`<b>ου (τὸ)</b> <font color="purple">[ῐῡ]</font> blanc de céruse qui servait de fard, AR. <i>Eccl. 878, 929, 1072</i> ; XÉN. <i>Œc. 10, 2 ; ou</i> comme teinture pour les cheveux, PLAT. <i>Lys. 217d</i>.<p>➳ <font color="purple">[ῑ]</font> NIC. <i>Al. 75</i> ; <font color="purple">[ῠ]</font> ANTH. <i>11, 374, 408</i>.<p><b>Étym</b>. ψίμυθος.`

@@ -1,0 +1,1 @@
+lar[83516]=`<b>προ·αιτέω-ῶ</b>, demander auparavant <i>ou</i> d’avance, DC. <i>55, 5</i>.`

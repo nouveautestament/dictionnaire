@@ -1,0 +1,1 @@
+lar[47913]=`<b>ή, όν</b> <font color="purple">[ῡᾱ]</font> qui exhale de la fumée, qui s’évapore, ARSTT. <i>Meteor. 4, 9, 25</i>.<p>➳ <i>Ion</i>. -ιητός, ARÉT. <i>Caus. m. diut. 2, 11</i>.<p><b>Étym</b>. <i>vb. de</i> θυμιάω.`

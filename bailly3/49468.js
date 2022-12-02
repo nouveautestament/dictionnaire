@@ -1,0 +1,1 @@
+lar[49468]=`<b>ακτος (ὁ)</b> Hipponax, <i>poète ïambique d’Éphèse,</i> AR. <i>Ran. 661</i>.<p><b>Étym</b>. ἵππος, ἄναξ.`

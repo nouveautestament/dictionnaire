@@ -1,0 +1,1 @@
+lar[63253]=`<b>μαχλάω-ῶ</b>, faire la débauche, CLÉM. <i>12</i>.<p><b>Étym</b>. μάχλος.`

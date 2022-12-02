@@ -1,0 +1,1 @@
+lar[84344]=`<b>προ·θεσπίζω</b>, annoncer l’avenir, faire une prédiction, ESCHL. <i>Pr. 211</i> ; PLUT. <i>M. 421b ;</i> LUC. <i>Alex. 19, etc</i>.`

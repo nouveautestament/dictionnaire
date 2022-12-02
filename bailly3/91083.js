@@ -1,0 +1,1 @@
+lar[91083]=`<b>σκολιό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, aux pensées tortueuses, HPC. <i>1283, 35</i> ; NONN. <i>Jo. 8, 129, etc</i>.<p><b>Étym</b>. σκ. φρήν.`

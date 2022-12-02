@@ -1,0 +1,1 @@
+lar[93972]=`<b>συμ·μετεωροπολέω-ῶ</b>, vivre dans les régions célestes avec, <i>dat</i>. PHILSTR. <i>V. Ap. 6, 11</i>.`

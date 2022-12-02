@@ -1,0 +1,1 @@
+lar[88931]=`<b>ῥυσμόω-ῶ</b>, arranger, façonner, former, DÉMOCR. (STOB. <i>Fl. 4, 73).</i><p><b>Étym</b>. <i>ion</i>. ῥυθμόω.`

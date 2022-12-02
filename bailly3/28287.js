@@ -1,0 +1,1 @@
+lar[28287]=`<b>δυσ·δερκής, ής, ές</b>, qui voit difficilement, OPP. <i>C. 3, 263</i>.<p><b>Étym</b>. δ. δέρκομαι.`

@@ -1,0 +1,1 @@
+lar[4949]=`<b>α, ον</b> <font color="purple">[ᾰλ]</font> <i>c</i>. ἁλουργός, ANTIPH. <i>(Bkk. 380, 14</i>).`

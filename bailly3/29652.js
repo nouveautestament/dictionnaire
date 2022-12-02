@@ -1,0 +1,1 @@
+lar[29652]=`<b>ἐγ·κινέω-ῶ</b> <font color="purple">[ῑ]</font> (<i>seul. moy. part. prés</i>. -ούμενος) causer de l’agitation dans, <i>d’où</i> troubler, <i>dat</i>. AR. <i>fr. 56</i>.<p><b>Étym</b>. ἐν, κ.`

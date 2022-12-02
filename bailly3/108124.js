@@ -1,0 +1,1 @@
+lar[108124]=`<b>χειρο·γάστωρ, ορος (ὁ, ἡ)</b> qui nourrit son ventre, <i>càd</i>. qui vit du travail de ses mains, HÉCAT. (POLL. <i>7, 4).</i><p><b>Étym</b>. χ. γαστήρ.`

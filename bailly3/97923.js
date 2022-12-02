@@ -1,0 +1,1 @@
+lar[97923]=`<b>ταχυ·φυής, ής, ές</b> <font color="purple">[ᾰχῠ]</font> qui croît promptement, HPC. <i>Mochl. 864f</i>.<p><b>Étym</b>. τ. φύω.`

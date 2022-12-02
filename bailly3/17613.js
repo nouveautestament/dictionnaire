@@ -1,0 +1,1 @@
+lar[17613]=`<b>αὐτό·νοος-ους, όου-ου (ὁ)</b> l’intelligence en soi, PLOT. <i>Enn. 3, 2</i>.<p><b>Étym</b>. αὐ. νόος.`

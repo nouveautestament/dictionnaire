@@ -1,0 +1,1 @@
+lar[17066]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans succès, malheureusement, ISOCR. <i>236a ;</i> DH. <i>9, 26</i>.<p>•<i> Sup</i>. ἀτυχέστατα, LGN <i>33, 5</i>.<p><b>Étym</b>. ἀτυχής.`

@@ -1,0 +1,1 @@
+lar[35633]=`<b>*ἔξαστις</b>, <i>ion</i>. <b>ἔξεστις, ιος (ἡ)</b> fil détaché d’un tissu, HPC. <i>Off. 744</i>.`

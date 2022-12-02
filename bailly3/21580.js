@@ -1,0 +1,1 @@
+lar[21580]=`<b>γελγο·πωλέω-ῶ</b>, brocanter, HERMIPP. (POLL. <i>7, 198).</i><p><b>Étym</b>. γέλγη, π.`

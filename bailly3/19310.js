@@ -1,0 +1,1 @@
+lar[19310]=`<b>ίδος (ἡ)</b> <font color="purple">[σᾰ]</font> bacchante, ANACR. <i>55</i> ; ANTH. NONN.<p><b>Étym</b>. βασσάρα.`

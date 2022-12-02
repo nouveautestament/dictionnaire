@@ -1,0 +1,1 @@
+lar[90648]=`<b>ης (ἡ)</b> <font color="purple">[δᾰ]</font> <i>c</i>. σκανδάληθρον ALCIPHR. <i>3, 22, 1</i>.`

@@ -1,0 +1,1 @@
+lar[100035]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> criblé de trous, troué, ANTH. <i>6, 62</i>.<p><b>Étym</b>. τρῆμα.`

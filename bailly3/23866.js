@@ -1,0 +1,1 @@
+lar[23866]=`<b>ας (ἡ) :<br>      1</b> action de porter des branches d’arbres (<i>cf</i>. θυρσοφορία) STR. <i>468</i>.<br><b>      2</b> action de produire <i>ou</i> de nourrir des arbres, GEOP. <i>2, 9, 3</i>.<p><b>Étym</b>. δενδροφόρος.`

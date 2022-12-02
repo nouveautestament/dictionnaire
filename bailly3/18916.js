@@ -1,0 +1,1 @@
+lar[18916]=`<b>ιδος (ὁ)</b> Bakkhis, <i>chef de la famille des Bakkhiades</i> (<i>v</i>. βακχιάδαι) DS. PAUS.`

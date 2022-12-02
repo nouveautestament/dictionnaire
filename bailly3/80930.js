@@ -1,0 +1,1 @@
+lar[80930]=`<b>ή, όν</b>, propre à la navigation, THCR. <i>Idyl. 13, 52</i>.<p><b>Étym</b>. πλέω.`

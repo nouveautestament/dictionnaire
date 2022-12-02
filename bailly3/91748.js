@@ -1,0 +1,1 @@
+lar[91748]=`<b>σπαργανόω-ῶ</b> <font color="purple">[γᾰ]</font> envelopper de langes, emmailloter, EUR. <i>Ion 955</i> ; ARSTT. <i>H.A. 7, 4, 10 ; au pass</i>. HPC. <i>Aër. 292, 766c ;</i> NT. <i>Luc. 2, 12 ; fig</i>. SOTAD. (<i>Com. fr. 3, 586</i>) ; PLUT. <i>M. 691c</i>.<p><b>Étym</b>. σπάργανον.`

@@ -1,0 +1,1 @@
+lar[29472]=`<b>ἐγ·κακοπαθέω-ῶ</b> (<i>3 sg</i>. -εῖ) <font color="purple">[ᾰᾰ]</font> souffrir de, <i>dat</i>. NYSS. <i>1, 464d</i>.<p><b>Étym</b>. ἐν, κ.`

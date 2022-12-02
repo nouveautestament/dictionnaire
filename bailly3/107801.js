@@ -1,0 +1,1 @@
+lar[107801]=`<b>χαμαι·τυπής, ής, ές</b>, <i>gén</i>. έος <font color="purple">[ᾰῠ]</font> <i>litt</i>. qui tombe à terre, <i>càd</i>. bas, trivial, DH. <i>Thuc. 27, 3</i>.<p><b>Étym</b>. χ. τύπτω.`

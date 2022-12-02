@@ -1,0 +1,1 @@
+lar[100278]=`<b>τρι·λογία, ας (ἡ)</b> trilogie, <i>ensemble de trois tragédies,</i> DL. <i>3, 61 (cf</i>. τετραλογία).<p><b>Étym</b>. τρ. λόγος.`

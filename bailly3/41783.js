@@ -1,0 +1,1 @@
+lar[41783]=`<i>att</i>. <b>εὐγλωττία, ας (ἡ) :<br>      1</b> facilité de parole, EUR. <i>fr. 205</i> ; AR. <i>Eq. 837</i>.<br><b>      2</b> douceur du chant, <i>en parl. d’oiseaux,</i> EL. <i>N.A. 17, 23</i>.<p><b>Étym</b>. εὔγλωσσος.`

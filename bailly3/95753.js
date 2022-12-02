@@ -1,0 +1,1 @@
+lar[95753]=`<b>συν·ερμηνεύω</b>, interpréter en même temps, NYSS.`

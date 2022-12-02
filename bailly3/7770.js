@@ -1,0 +1,1 @@
+lar[7770]=`<b>ἀνα·τοκισμός, οῦ (ὁ)</b> = <i>lat</i>. anatocismus, intérêts des intérêts, CIC. <i>Att. 5, 21, 11</i>.<p><b>Étym</b>. ἀνά, τοκίζω.`

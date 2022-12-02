@@ -1,0 +1,1 @@
+lar[85895]=`<b>προσ·ιστορέω-ῶ</b>, raconter en outre, PLUT. <i>Them. 27, M. 301d, etc</i>.`

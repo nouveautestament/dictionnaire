@@ -1,0 +1,1 @@
+lar[79201]=`<b>περι·ρραγής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> brisé tout autour, ANTH. <i>7, 542</i>.<br><b>      2</b> largement fendu <i>ou</i> écarté, CLÉM. <i>186</i>.<p><b>Étym</b>. περιρρήγνυμι.`

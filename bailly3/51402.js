@@ -1,0 +1,1 @@
+lar[51402]=`<b>α, ον</b> <font color="purple">[κᾰ]</font> de chameau, PORPH. <i>Abst. 1, 14</i>.<p><b>Étym</b>. κάμηλος.`

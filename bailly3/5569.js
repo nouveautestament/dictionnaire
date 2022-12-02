@@ -1,0 +1,1 @@
+lar[5569]=`<font color="purple">[χᾰ]</font> <i>adv.</i> :<br><b>      1</b> sans ressources, ESCHL. <i>Ch. 405</i>.<br><b>      2</b> d’une manière incroyable : ἀ. ὡς, PLAT. <i>Rsp. 527e, Phædr. 263d, m. sign</i>.<p><b>Étym</b>. ἀμήχανος.`

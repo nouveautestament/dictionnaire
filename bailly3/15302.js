@@ -1,0 +1,1 @@
+lar[15302]=`<b>Ἀρτ·επίθυμος, ου (ὁ)</b> <font color="purple">[ῐῡ]</font> Souhaite-pain, <i>n. de parasite,</i> ALCIPHR. <i>3, 6</i>.<p><b>Étym</b>. ἄρτος, ἐπιθυμέω.`

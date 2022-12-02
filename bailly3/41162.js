@@ -1,0 +1,1 @@
+lar[41162]=`<i>3e pl. impf. Moy. épq. de</i> στιχάω.`

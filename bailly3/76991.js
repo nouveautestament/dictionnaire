@@ -1,0 +1,1 @@
+lar[76991]=`<b>ίδος</b> <font color="purple">[νᾱ]</font> <i>adj. f. c</i>. Παρνάσιος, PD. <i>P. 8, 28</i> ; ESCHL. <i>Ch. 563</i>.<p>➳ <i>Ion</i>. Παρνησίς, ESCHL. <i>l. c.</i> ; ORPH. <i>Arg. 2</i> ; Παρνησσίς, NONN. <i>D. 9, 283</i>.`

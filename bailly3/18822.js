@@ -1,0 +1,1 @@
+lar[18822]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰῠ]</font> profondeur, épaisseur, LUC. <i>Ic. 5</i>.<p><b>Étym</b>. βαθύς.`

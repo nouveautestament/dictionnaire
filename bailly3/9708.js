@@ -1,0 +1,1 @@
+lar[9708]=`<b>ή, όν</b>, disposé à rendre bienfait pour bienfait, ARSTT. <i>Nic. 4, 3, 24</i>.<p><b>Étym</b>. <i>v</i>. ἀντευεργετέω.`

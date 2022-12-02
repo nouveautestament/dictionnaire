@@ -1,0 +1,1 @@
+lar[50182]=`<b>ων (οἱ)</b> Kabires, <i>n. de trois, ou, sel. d’autres, quatre fils d’Hèphæstos, honorés à Samothrace, Lemnos et Imbros,</i> HDT. <i>2, 51</i> ; PLUT. <i>Marc. 30, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

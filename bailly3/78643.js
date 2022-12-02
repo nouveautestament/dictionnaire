@@ -1,0 +1,1 @@
+lar[78643]=`<b>εως (ἡ)</b> purification par le soufre tout autour, PLAT. <i>Crat. 405a</i>.<p><b>Étym</b>. περιθειόω.`

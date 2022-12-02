@@ -1,0 +1,1 @@
+lar[47602]=`<b>Θρασυνία λίμνη (ἡ)</b> le lac Trasimène, <i>en Étrurie,</i> PLUT. <i>Fab. 3</i>.`

@@ -1,0 +1,1 @@
+lar[77632]=`<b>έως</b>, <i>adj. m</i>. habitant du Pirée, ESCHN. <i>1, 50</i> ; DÉM. <i>35, 13, etc. Baiter-Sauppe</i>.<p>➳ <i>Dans les inscr. att. la forme usuelle est</i> Πειραεύς.<p><b>Étym</b>. Πειραιεύς.`

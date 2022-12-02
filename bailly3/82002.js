@@ -1,0 +1,1 @@
+lar[82002]=`<b>Πολυ·κλῆς, έους (ὁ)</b> Polyklès, <i>h</i>. DÉM. <i>18, 105 Baiter-Sauppe, etc</i>.<p>➳ <i>Voc</i>. Πολύκλεις, ANTH. <i>App. 149 ; acc</i>. -ῆν, DS. <i>18, 38</i>.<p><b>Étym</b>. π. κλέος.`

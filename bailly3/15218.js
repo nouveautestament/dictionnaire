@@ -1,0 +1,1 @@
+lar[15218]=`<i>pour tous les mots qui commencent ainsi</i> (ἀρσενογενής, ἀρσενόθηλυς, ἀρσενόθυμος, <i>etc.) v. la forme assimilée en ἀρρενο</i>- (ἀρρενογενής, ἀρρενόθηλυς, ἀρρενόθυμος, <i>etc</i>).`

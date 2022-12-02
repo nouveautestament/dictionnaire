@@ -1,0 +1,1 @@
+lar[99421]=`<i>adv.</i> :<br><b>      1</b> avec patience <i>ou</i> résignation, EUR. <i>Suppl. 947, etc.</i><br><b>      2</b> avec courage, ESCHL. <i>Ch. 748</i>.<p><b>Étym</b>. τλήμων.`

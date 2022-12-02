@@ -1,0 +1,1 @@
+lar[20933]=`<b>ῆς (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> rugissement, OPP. <i>H. 2, 530</i>.<br><b>      2</b> grincement des dents, A.RH. <i>2, 83</i> ; Q. SM. <i>5, 392, etc</i>.<p><b>Étym</b>. βρυχάομαι.`

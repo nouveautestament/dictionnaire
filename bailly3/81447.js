@@ -1,0 +1,1 @@
+lar[81447]=`<i>adv</i>., du troupeau, A.RH. <i>2, 491</i>.<p><b>Étym</b>. ποίμνη, -θεν.`

@@ -1,0 +1,1 @@
+lar[52861]=`<b>κατα·μουσόω-ῶ</b>, embellir par le charme du nombre <i>ou</i> de l’harmonie, JUL. <i>403d</i>.`

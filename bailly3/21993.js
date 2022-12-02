@@ -1,0 +1,1 @@
+lar[21993]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> pépin de raisin, AR. <i>Pax 634</i> ; TH. <i>C.P. 5, 5, 1, etc.</i><br><b>      2</b> <i>au plur</i>. marc de raisin, GEOP. <i>6, 11, 3</i>.`

@@ -1,0 +1,1 @@
+lar[45432]=`<b>ἡμι·θανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> à demi mort, STR. <i>98</i> ; ANTH. <i>11, 392</i>.<p><b>Étym</b>. ἡμι-, θνῄσκω.`

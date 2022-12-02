@@ -1,0 +1,1 @@
+lar[50130]=`<b>ης, ες</b> <font color="purple">[ῑ]</font><br><b>      1</b> semblable à de la rouille, HPC. <i>68a, etc.</i> ; TH. <i>Lap. 37</i> ; DIOSC. <i>5, 92</i>.<br><b>      2</b> âcre, HPC. <i>V. med. 16 ; d’où</i> vénéneux, venimeux, ATH. <i>42a ; fig. en parl. de l’envie,</i> PLUT. <i>M. 565c</i>.<p><b>Étym</b>. ἰός, -ωδης.`

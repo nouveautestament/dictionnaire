@@ -1,0 +1,1 @@
+lar[79585]=`<b>περι·φθέγγομαι</b>, parler de côté et d’autre à toutes sortes de gens, GAL. <i>5, 390</i>.`

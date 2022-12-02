@@ -1,0 +1,1 @@
+lar[84963]=`<b>προ·πλάσσω</b>, façonner <i>ou</i> modeler avant, <i>gén</i>. PHIL. <i>1, 67</i>.`

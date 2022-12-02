@@ -1,0 +1,1 @@
+lar[48394]=`<font color="purple">[ῐδ]</font> <i>adv</i>., particulièrement, spécialement, ATH. <i>299d, au cp</i>. -ώτερον.`

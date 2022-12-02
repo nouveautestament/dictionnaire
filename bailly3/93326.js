@@ -1,0 +1,1 @@
+lar[93326]=`<b>συγ·κατακτάομαι-ῶμαι</b>, acquérir en même temps que, <i>ou</i> avec, <i>dat</i>. STR. <i>287</i> ; DS. <i>14, 98</i>.`

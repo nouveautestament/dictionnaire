@@ -1,0 +1,1 @@
+lar[103447]=`<b>άδος (ἡ)</b> fenêtre à demi éclairée, sorte de lucarne, PHYLARQ. (ATH. <i>536e</i>).<p><b>Étym</b>. ὑπολάμπω.`

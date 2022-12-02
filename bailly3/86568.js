@@ -1,0 +1,1 @@
+lar[86568]=`<b>προσ·υπολαμβάνω</b> <font color="darkgreen">(<i>f</i>. -υπολήψομαι, <i>ao.2</i> -υπέλαβον, <i>etc</i>.)</font> supposer <i>ou</i> penser en outre, ARSTT. <i>Cæl. 4, 1, 6</i> ; DH. <i>Thuc. 35, 1</i>.`

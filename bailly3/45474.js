@@ -1,0 +1,1 @@
+lar[45474]=`<b>ἡμι·λίτριον, ου (τὸ)</b> <font color="purple">[μῐ]</font> <i>c</i>. ἡμίλιτρον EPICH. <i>vol. 1, p. 98, 32 Bekker, Anecdota græca</i>.`

@@ -1,0 +1,1 @@
+lar[85915]=`<b>προσ·καθοράω-ῶ</b> <font color="darkgreen">(<i>f</i>. -κατόψομαι, <i>ao.2</i> -κατεῖδον, <i>etc</i>.)</font> voir en outre, <i>acc</i>. PLAT. <i>Charm. 172b</i>.`

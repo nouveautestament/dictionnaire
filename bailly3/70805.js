@@ -1,0 +1,1 @@
+lar[70805]=`<b>ας (ἡ)</b> Ocrèsia, <i>n. de f. rom</i>. PLUT. <i>Fort. Rom. 10</i>.`

@@ -1,0 +1,1 @@
+lar[92321]=`<b>στελεόω-εῶ</b>, garnir d’un manche, ANTH. <i>6, 205</i>.<p><b>Étym</b>. στελεός.`

@@ -1,0 +1,1 @@
+lar[91233]=`<b>σκοτόω-ῶ :<br>      1</b> couvrir de ténèbres, <i>acc</i>. SOPH. <i>Aj. 85</i>.<br><b>      2</b> aveugler par un éblouissement, <i>d’où au pass</i>. avoir le vertige, HPC. <i>1154, 5</i> ; PLAT. <i>Rsp. 518a, Prot. 339e, Theæt. 209e ;</i> POL. <i>10, 13, 8</i> ; PLUT. <i>M. 489f</i>.<p><b>Étym</b>. σκότος.`

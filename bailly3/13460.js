@@ -1,0 +1,1 @@
+lar[13460]=`<b>εως (ἡ)</b> action de déboucher, ARSTT. <i>Probl. 8, 10</i>.<p><b>Étym</b>. ἀ. στομόω.`

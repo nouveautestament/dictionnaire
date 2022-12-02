@@ -1,0 +1,1 @@
+lar[58524]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> trouble, bouleversement, PLAT. <i>Tim. 68a</i>.<p><b>Étym</b>. κυκάω.`

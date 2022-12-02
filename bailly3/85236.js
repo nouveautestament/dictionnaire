@@ -1,0 +1,1 @@
+lar[85236]=`<b>προσ·αποδείκνυμι :<br>      1</b> démontrer en outre, PLAT. <i>Phæd. 77c ;</i> PLUT. <i>M. 998b.</i><br><b>      2</b> établir <i>ou</i> instituer en outre, <i>acc</i>. STR. <i>329</i> ; DC. <i>54, 10, etc</i>.`

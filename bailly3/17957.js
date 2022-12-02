@@ -1,0 +1,1 @@
+lar[17957]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰφ]</font> remise (d’une dette), exemption (d’une taxe), SPT. <i>1Macc. 10, 28 ; 13, 37</i>.<p><b>Étym</b>. ἀφίημι.`

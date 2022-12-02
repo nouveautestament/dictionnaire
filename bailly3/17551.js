@@ -1,0 +1,1 @@
+lar[17551]=`<b>αὐτό·κτονος, ος, ον</b>, tué lui-même (en tuant un autre) : θάνατος αὐτ. ESCHL. <i>Sept. 681,</i> meurtre mutuel.<p><b>Étym</b>. αὐ. κτεῖνω.`

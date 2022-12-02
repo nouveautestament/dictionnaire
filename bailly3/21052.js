@@ -1,0 +1,1 @@
+lar[21052]=`<b>βυσσό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, à l’esprit profond <i>ou</i> mystérieux, ESCHL. <i>Ch. 651</i>.<p><b>Étym</b>. βυσσός, φρήν.`

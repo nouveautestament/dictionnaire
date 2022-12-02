@@ -1,0 +1,1 @@
+lar[72980]=`<b>ὀροβο·ειδής, ής, ές</b>, qui ressemble à un grain de vesce, HPC. <i>514, 16</i> ; GAL. <i>19, 589, etc</i>.<p><b>Étym</b>. ὄροβος, εἶδος.`

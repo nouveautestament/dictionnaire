@@ -1,0 +1,1 @@
+lar[104252]=`<b>ου (ὁ)</b> Viriathe, <i>h</i>. PLUT.`

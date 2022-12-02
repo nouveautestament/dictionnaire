@@ -1,0 +1,1 @@
+lar[21075]=`<b>ου (ὁ)</b> champignon, ATH. <i>113c</i>.<p><b>Étym</b>. βῶλος.`

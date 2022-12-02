@@ -1,0 +1,1 @@
+lar[86092]=`<b>πρόσ·κωπος, ος, ον</b>, penché sur les rames, THC. <i>1, 10</i> ; LUC. <i>Cat. 19</i>.<p><b>Étym</b>. π. κώπη.`

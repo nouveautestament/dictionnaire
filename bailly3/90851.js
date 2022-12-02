@@ -1,0 +1,1 @@
+lar[90851]=`<b>σκηπτο·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱ]</font> qui se pose sur le sceptre, <i>en parl. d’un aigle,</i> SOPH. <i>fr. 766 Dind</i>.<p><b>Étym</b>. *σκῆπτον, βαίνω.`

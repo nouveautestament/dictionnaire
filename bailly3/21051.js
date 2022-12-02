@@ -1,0 +1,1 @@
+lar[21051]=`<b>οῦ (ὁ)</b> fond, <i>part</i>. fond de la mer, IL. <i>24, 80</i> ; HDT. <i>2, 96 ; 3, 23,</i> ARSTT. <i>H.A. 5, 15, 15</i>.<p><b>Étym</b>. <i>ion. c</i>. βυθός.`

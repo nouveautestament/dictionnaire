@@ -1,0 +1,1 @@
+lar[43968]=`<b>ἐφ·εξκαιδέκατος, η, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐφεκκαιδέκατος, ANON.<p><b>Étym</b>. <i>Vincent, Notices sur div. manuscr. de mus. p. 292</i>.`

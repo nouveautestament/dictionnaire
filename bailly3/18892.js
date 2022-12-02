@@ -1,0 +1,1 @@
+lar[18892]=`<b>βακχειο·χόρειος, ου (ὁ)</b> pied formé d’un bacchius et d’un chorée, DIOM.<p><b>Étym</b>. <i>Gramm. lat. Keil 1, 482, 6</i>.`

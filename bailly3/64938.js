@@ -1,0 +1,1 @@
+lar[64938]=`<b>μετ·αρίθμιος, ος, ον</b>, qui compte, <i>càd</i>. qui est en honneur parmi, <i>dat</i>. HH. <i>25, 6</i> ; A.RH. <i>1, 205</i>.<p><b>Étym</b>. μ. ἀριθμός.`

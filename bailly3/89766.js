@@ -1,0 +1,1 @@
+lar[89766]=`<b>ας (ἡ)</b> Sellasia, <i>v. de Laconie,</i> XÉN. <i>Hell. 2, 2, 13, etc</i>.`

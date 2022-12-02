@@ -1,0 +1,1 @@
+lar[33595]=`<b>ἔμ·προθεν</b>, <i>adv</i>., d’abord, THCR. <i>Idyl. 9, 6 dout</i>.`

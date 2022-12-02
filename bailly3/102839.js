@@ -1,0 +1,1 @@
+lar[102839]=`<b>ὑπερ·τραγίζω</b> <font color="purple">[ᾰ]</font> exhaler une forte odeur de bouc, DIOSC. <i>1, 6</i>.`

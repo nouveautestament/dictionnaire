@@ -1,0 +1,1 @@
+lar[48576]=`<b>ἱερο·γλύφος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui grave des hiéroglyphes, PROCL. <i>Ptol. p. 251</i>.<p><b>Étym</b>. ἱ. γλύπτω.`

@@ -1,0 +1,1 @@
+lar[100456]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> treizième, IL. <i>10, 561</i> ; OD. <i>8, 391, etc.</i> ; LUC. <i>Fug. 23</i> ; ἡ τρισκαιδεκάτη (<i>s.-e</i>. ἡμέρα) OD. <i>19, 202</i> ; HÉS. <i>O. 780</i> ; HPC. <i>p. 48, 54</i>, le 13<sup>e</sup> jour.<p><b>Étym</b>. τρισκαίδεκα.`

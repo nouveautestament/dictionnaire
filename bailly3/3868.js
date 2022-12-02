@@ -1,0 +1,1 @@
+lar[3868]=`<b>ἀκρό·φυλλος, ος, ον</b>, qui a des feuilles au sommet, TH. <i>H.P. 1, 14, 2</i>.<p><b>Étym</b>. ἄ. φύλλον.`

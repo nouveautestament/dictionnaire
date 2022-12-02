@@ -1,0 +1,1 @@
+lar[9528]=`<b>ἀντ·αστράπτω</b>, répondre par des éclairs, DC. <i>59, 28</i>.`

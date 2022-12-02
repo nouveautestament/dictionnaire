@@ -1,0 +1,1 @@
+lar[2204]=`<b>αἰγ·ελάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> chevrier, PLUT. <i>Pomp. 4</i> ; A. PL. <i>229</i>.<p><b>Étym</b>. αἴξ, ἐλαύνω.`

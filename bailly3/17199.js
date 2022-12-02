@@ -1,0 +1,1 @@
+lar[17199]=`<b>ή, όν</b>, de cour, de courtisan, POL. <i>24, 5</i> ; PLUT. <i>M. 800a ;</i> οἱ αὐ. POL. <i>16, 22, etc</i>. les courtisans ; <i>en mauv. part,</i> PLUT. <i>M. 778b, etc</i>.<p><b>Étym</b>. αὐλή.`

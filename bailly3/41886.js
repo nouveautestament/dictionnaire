@@ -1,0 +1,1 @@
+lar[41886]=`<b>εὐ·διαχώρητος, ος, ον :<br>      1</b> digestif, ARSTT. <i>Probl. 11, 8</i>.<br><b>      2</b> qui va facilement à la selle, XÉNOCR. <i>Al. 31</i>.<p><b>Étym</b>. εὖ, διαχωρέω.`

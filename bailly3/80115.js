@@ -1,0 +1,1 @@
+lar[80115]=`<b>ας (ἡ)</b> Pènélopè (Pénélope) <i>fille d’Ikarios et de Péribœa, femme d’Ulysse,</i> OD. <i>1, 329, etc.</i> ; HDT. <i>2, 145</i> ; AR. <i>Th. 547, etc</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. πηνέλοψ.`

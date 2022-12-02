@@ -1,0 +1,1 @@
+lar[34060]=`<b>ἐν·αυγάζω :<br>   I <i>tr</i>.<br>      1</b> faire briller (du feu) <i>acc</i>. LYC. <i>71</i>.<br><b>      2</b> éclairer, illuminer (des ténèbres) <i>acc</i>. PHIL. <i>1, 146</i>.<br><b>   II <i>intr.</i></b> briller dans, EL. <i>N.A. 1, 58</i>.<br><b><i>Moy.</i></b> se montrer, PHIL. <i>1, 422</i>.`

@@ -1,0 +1,1 @@
+lar[38854]=`<font color="purple">[ᾰ]</font> <i>c</i>. ἐπιπωμάζω, ARSTT. <i>Cæl. 2, 13, 16</i> ; TH. <i>Ign. 40, 59 ; au pass</i>. ARSTT. <i>fr. 294</i>.`

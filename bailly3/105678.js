@@ -1,0 +1,1 @@
+lar[105678]=`<b>ου (ἡ)</b> <font color="purple">[φῐ]</font> Philistion, <i>f</i>. ANTH. <i>5, 114</i>.<p><b>Étym</b>. φίλιστος.`

@@ -1,0 +1,1 @@
+lar[48358]=`<b>ας (ἡ)</b> jarret, pli du genou, ARSTT. <i>H.A. 3, 5, 4</i> ; PLUT. <i>Artax. 11</i>.<p>➳ <i>Épq. et ion</i>. -ύη, IL. <i>13, 212</i> ; HPC. <i>Fract. 761</i> ; THCR. <i>Idyl. 25, 242</i>.<p><b>Étym</b>. <i>p</i>. *ἐν-γνύ-η, <i>cf</i>. γόνυ ; <i>v</i>. ἰγνύς.`

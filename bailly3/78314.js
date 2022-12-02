@@ -1,0 +1,1 @@
+lar[78314]=`<font color="purple">[ᾰ]</font> <i>adv</i>., du dème Pergasè, <i>dans la tribu Érekhthéide,</i> IS. (HARP.).<p><b>Étym</b>. Περγασή, -θεν.`

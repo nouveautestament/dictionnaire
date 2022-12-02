@@ -1,0 +1,1 @@
+lar[84502]=`<b>προ·κατασκευή, ῆς (ἡ) :<br>      1</b> préparatif, POL. <i>9, 20, 7</i> ; JOS. <i>B.J. 2, 21, 3</i>.<br><b>      2</b> <i>t. de rhét</i>. exposition d’un sujet, préambule, POL. <i>1, 3, 10, etc</i>.`

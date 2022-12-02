@@ -1,0 +1,1 @@
+lar[65911]=`<b>α, ον</b> <font color="purple">[μῑ]</font> de Minos, HH. <i>Ap. 396</i> ; A.RH. <i>4, 1504</i>.<p>➳ <i>Par contract</i>. Μινῴος, HH. <i>l. c</i>.<p><b>Étym</b>. Μίνως.`

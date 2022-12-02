@@ -1,0 +1,1 @@
+lar[97425]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> balancement, fluctuation, ARSTT. <i>Meteor. 2, 1, 9</i>.<br><b>      2</b> poids, ANT. (POLL. <i>9, 53).</i><p><b>Étym</b>. ταλαντόω.`

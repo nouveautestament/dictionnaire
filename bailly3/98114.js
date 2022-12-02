@@ -1,0 +1,1 @@
+lar[98114]=`<b>α, ον</b> <font color="purple">[λᾰ]</font> de Télamon, <i>càd</i>. fils de Télamon, <i>càd</i>. Ajax, IL. <i>2, 528, 768 ; 4, 473, etc. ou</i> Teukros, IL. <i>13, 170 ; 15, 462 ; abs</i>. ὁ Τ. ANTH. <i>7, 149,</i> Ajax, fils de Télamon.<p><b>Étym</b>. Τελαμών.`

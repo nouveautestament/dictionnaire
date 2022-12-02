@@ -1,0 +1,1 @@
+lar[19930]=`<b>ου (ὁ)</b> Blepsos, <i>h</i>. PLUT.`

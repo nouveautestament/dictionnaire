@@ -1,0 +1,1 @@
+lar[101226]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Tykhios, <i>artiste de Béotie,</i> IL. <i>7, 220</i> ; NONN. <i>D. 13, 67</i>.<p>➳ <i>Gén. épq</i>. -ίοιο, NONN. <i>D. l. c</i>.`

@@ -1,0 +1,1 @@
+lar[39847]=`<b>ἐπ·ονειδίζω</b>, reprocher en termes blessants, CLÉM. <i>Pæd. 3, 286</i> ; τινί τι, NYSS. <i>1, 492,</i> qqe ch. à qqn.`

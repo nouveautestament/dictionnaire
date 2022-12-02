@@ -1,0 +1,1 @@
+lar[65761]=`<b>μικρο·φυής, ής, ές</b>, qui naît <i>ou</i> croît petit, de petite espèce, PORPH. <i>Antr. nymph. c. 28, p. 26</i>.<p>•<i> Cp</i>. μικροφυέστερος, EUST. <i>Op. p. 166, 81</i>.<p><b>Étym</b>. μ. φύω.`

@@ -1,0 +1,1 @@
+lar[86709]=`<b>προσωπο·ποιέω-ῶ :<br>      1</b> personnifier, ORIG. <i>1, 713, 740 ; 7, 121</i> ; CHRYS. <i>9, 581 Migne</i>.<br><b>      2</b> animer par l’introduction de personnages, <i>acc</i>. DH. <i>Thuc. 37</i>.<p><b>Étym</b>. πρόσωπον, π.`

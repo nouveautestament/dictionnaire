@@ -1,0 +1,1 @@
+lar[33340]=`<b>ἐμ·παροινέω-ῶ</b>, se conduire comme un homme ivre, s’enivrer ; JOS. <i>A.J. 6, 12, 7</i> ; PHIL. <i>2, 5, 18</i> ; τινι, LUC. <i>D. deor. 5, 4,</i> envers qqn, <i>càd</i>. l’insulter.<p>➳ <i>Ao. 3 sg. réc</i>. ἐνεπαροίνησεν (<i>pour</i> ἐμπαρῴνησεν) JOS. <i>c. Ap. 1, 8</i>.<p><b>Étym</b>. ἐν, π.`

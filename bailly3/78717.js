@@ -1,0 +1,1 @@
+lar[78717]=`<b>ής, ές</b>, courbé autour, AQU. <i>Hos. 6, 8</i>.`

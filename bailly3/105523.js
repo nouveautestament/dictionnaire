@@ -1,0 +1,1 @@
+lar[105523]=`<b>φιλ·άσωτος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime la débauche <i>ou</i> les débauchés, ANTH. <i>5, 175, 191</i>.`

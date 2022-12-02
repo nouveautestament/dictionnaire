@@ -1,0 +1,1 @@
+lar[40644]=`<b>ου (ὁ)</b> habitant d’Hermopolis, PTOL. <i>4, 5</i> ; STR. <i>812</i>.<p>➳ Ἑρμουπολίτης, MÉN. RHÉT. <i>9, 197 W</i>.`

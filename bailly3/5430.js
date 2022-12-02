@@ -1,0 +1,1 @@
+lar[5430]=`<i>adv</i>., sans soin, LUC. <i>Tim. 12</i>.<p><b>Étym</b>. ἀμέλητος.`

@@ -1,0 +1,1 @@
+lar[19301]=`(<i>seul. impér. prés</i>.) marcher, <i>d’où</i> :<br><b>      1</b> aller : βάσκ' ἴθι, IL. <i>2, 8,</i> va, en avant ! βάσκετε, AR. <i>Th. 783,</i> allez ! en avant !.<br><b>      2</b> venir : βάσκε, ESCHL. <i>Pers. 664, 672,</i> viens !.<p><b>Étym</b>. <i>v</i>. βαίνω.`

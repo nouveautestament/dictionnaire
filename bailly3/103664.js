@@ -1,0 +1,1 @@
+lar[103664]=`<b>ὑπο·πέρδομαι</b> <font color="darkgreen">(<i>ao.2</i> ὑπέπαρδον)</font> lâcher un pet tout doucement, AR. <i>Ran. 1095</i>.`

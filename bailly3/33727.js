@@ -1,0 +1,1 @@
+lar[33727]=`<b>ἔμ·φυλλος, ος, ον</b>, couvert de feuilles, GEOP. <i>4, 15, 4</i>.<p><b>Étym</b>. ἐν, φύλλον.`

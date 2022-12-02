@@ -1,0 +1,1 @@
+lar[21512]=`<b>ων (οἱ)</b> les habitants de la Gédrosie, EL. <i>N.A. 15, 25 ; 17, 6, etc</i>.`

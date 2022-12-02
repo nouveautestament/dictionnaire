@@ -1,0 +1,1 @@
+lar[98835]=`<b>τεφρόω-ῶ :<br>      1</b> réduire en cendres, LYC. <i>227 ; au pass</i>. TH. <i>Ign. 20</i> ; ANTH. <i>5, 188</i>.<br><b>      2</b> couvrir de cendres, DC. <i>66, 21</i>.<br><b><i>Moy.</i></b> réduire en cendres, NIC. <i>Al. 534</i>.<p><b>Étym</b>. τέφρα.`

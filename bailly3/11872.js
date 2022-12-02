@@ -1,0 +1,1 @@
+lar[11872]=`<b>ἀπ·εχυρόω-ῶ</b> <font color="purple">[ῠ]</font> fortifier, rendre solide <i>ou</i> sûr, TH. <i>H.P. 4, 7, 7</i>.`

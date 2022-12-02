@@ -1,0 +1,1 @@
+lar[31261]=`<b>εως (ἡ)</b> éruption cutanée, <i>fig</i>. CLÉM. <i>Pæd. 2, 2, 21</i>.<p><b>Étym</b>. ἐκζέω.`

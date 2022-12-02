@@ -1,0 +1,1 @@
+lar[3389]=`<font color="purple">[κῑ]</font> <i>c</i>. ἀκινητέω ARSTT. <i>H.A. 4, 10, 12, etc.</i> ; SEXT. <i>M. 342</i>.`

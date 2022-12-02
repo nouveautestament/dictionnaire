@@ -1,0 +1,1 @@
+lar[73163]=`<b>ύος (ἡ)</b> <font color="purple">[ῡ <i>nom. et acc</i>.]</font> danse, IL. <i>13, 731</i> ; OD. <i>1, 152</i> ; EUR. <i>Cycl. 171</i> ; LUC. <i>Tim. 55</i>.<p>➳ <i>Dat. contr</i>. -υῖ, OD. <i>8, 253 ; 17, 605</i>.<p><b>Étym</b>. ὀρχέομαι.`

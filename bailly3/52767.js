@@ -1,0 +1,1 @@
+lar[52767]=`<b>ας (ἡ)</b> division par cohortes, par troupes, SPT. <i>2Par. 31, 18</i>.<p><b>Étym</b>. κ. λόχος.`

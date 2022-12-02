@@ -1,0 +1,1 @@
+lar[58833]=`<b>Κυνὸς κεφαλαί (αἱ)</b> Cynoscéphales (<i>litt</i>. têtes de chien) <i>collines de Béotie,</i> XÉN. <i>Hell. 5, 1, 75</i>.`

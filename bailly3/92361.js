@@ -1,0 +1,1 @@
+lar[92361]=`<b>στενο·κώκυτος, ος, ον</b> <font color="purple">[ῡ]</font> qui fait gémir et se lamenter, AR. <i>Lys. 448</i>.<p><b>Étym</b>. στένω, κωκυτός.`

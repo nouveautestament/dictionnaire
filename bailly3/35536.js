@@ -1,0 +1,1 @@
+lar[35536]=`<i>ou</i> <b>ἐξαπίναιος, α</b> <i>ou</i> <b>ος, ον</b> <font color="purple">[ᾰῐ]</font> soudain, subit, XÉN. <i>Hier. 10, 6</i>.<p>➳ <i>Fém</i>. -αῖος, HPC. <i>Acut. 388</i> ; POL. <i>26, 6, 1</i>.<p><b>Étym</b>. ἐξαπίνης.`

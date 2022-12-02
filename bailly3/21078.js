@@ -1,0 +1,1 @@
+lar[21078]=`<b>ου (τὸ)</b> petite motte, AR. <i>Vesp. 203</i> ; ARSTT. <i>Mir. 46</i>.<p><b>Étym</b>. <i>dim. de</i> βῶλος.`

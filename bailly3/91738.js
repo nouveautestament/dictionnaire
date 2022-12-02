@@ -1,0 +1,1 @@
+lar[91738]=`<b>ου (ὁ)</b> <font color="purple">[πᾰ]</font> celui qui déchire, RHÉT. <i>3, 606 W</i>.<p><b>Étym</b>. σπαράσσω.`

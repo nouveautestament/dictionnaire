@@ -1,0 +1,1 @@
+lar[94689]=`<b>συν·αναγαργαρίζω</b> <font color="purple">[ᾰρι]</font> employer comme un gargarisme en même temps, GAL. <i>14, 439</i>.`

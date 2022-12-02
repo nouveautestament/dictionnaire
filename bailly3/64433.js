@@ -1,0 +1,1 @@
+lar[64433]=`<b>μεσαι·πόλιος, ος, ον</b>, à demi blanc, grisonnant, IL. <i>13, 361</i> ; ANTH. <i>5, 234</i> ; ALCIPHR. <i>3, 25</i>.<p><b>Étym</b>. μεσαι- <i>locat. fém. de</i> μέσος, πολιός.`

@@ -1,0 +1,1 @@
+lar[86146]=`<b>προσ·μολυβδοχοέω-οῶ</b>, fondre en outre du plomb, ERATOSTH. (EUTOC. <i>ad Archim. Sph. et cycl. p. 94, 10 Heiberg).</i><p><b>Étym</b>. π. μόλυβδος.`

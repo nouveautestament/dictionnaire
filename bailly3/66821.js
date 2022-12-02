@@ -1,0 +1,1 @@
+lar[66821]=`<b>μοτόω-ῶ</b>, garnir de charpie, HPC. <i>V.C. 904</i> ; SPT. <i>Hos. 6, 1</i>.<p><b>Étym</b>. μοτός.`

@@ -1,0 +1,1 @@
+lar[83014]=`<b>α, ον</b>, <i>vb. de</i> πίνω, PLAT. <i>Leg. 674b, etc. ; au neutre,</i> PLAT. <i>Crit. 47b, etc</i>.`

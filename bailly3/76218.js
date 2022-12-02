@@ -1,0 +1,1 @@
+lar[76218]=`<b>παρα·σοβέω-ῶ :<br>      1</b> poursuivre de côté, ARSTT. <i>Mir. 128</i>.<br><b>      2</b> passer dédaigneusement devant, PLUT. <i>Cato ma. 24, 2</i>.`

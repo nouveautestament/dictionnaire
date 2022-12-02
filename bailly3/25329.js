@@ -1,0 +1,1 @@
+lar[25329]=`<b>ῆς (ἡ) :<br>      1</b> action de faire aller et venir mutuellement, <i>d’où</i> échange de messagers <i>ou</i> de messages, négociation par délégués, THC. <i>6, 41</i>.<br><b>      2</b> envoi de côté et d’autre, APP. <i>Civ. 5, 71</i>.<p><b>Étym</b>. διαπέμπω.`

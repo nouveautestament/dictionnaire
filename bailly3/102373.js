@@ -1,0 +1,1 @@
+lar[102373]=`<b>ὑπερ·γέλοιος, ος, ον</b>, par trop ridicule <i>ou</i> risible, DÉM. <i>406 fin</i>.<p><b>Étym</b>. ὑ. γέλοιος.`

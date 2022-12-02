@@ -1,0 +1,1 @@
+lar[49032]=`<b>Ἰνδ·ολέτης, ου (ὁ)</b> vainqueur (<i>propr</i>. destructeur) de l’Inde, ANTH. <i>9, 524</i>.<p><b>Étym</b>. Ἰνδός, ὄλλυμι.`

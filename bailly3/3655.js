@@ -1,0 +1,1 @@
+lar[3655]=`<font color="purple">[ᾰτ]</font> <i>adv</i>., sans pouvoir se maîtriser <i>ou</i> se contenir, ARÉT. <i>34</i>.<p><b>Étym</b>. ἀκρατής.`

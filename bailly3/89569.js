@@ -1,0 +1,1 @@
+lar[89569]=`<b>ῶν (οἱ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. Σαρμάται, HDT. <i>4, 21, etc.</i> ; A.RH. <i>3, 353, etc. ; au sg</i>. Σαυρομάτης, HDT. <i>4, 119</i> ; LUC. <i>Tox. 40</i>.<p>➳ <i>Gén. pl. épq</i>. -άων, DP. <i>15 et 653 ; ion</i>. -έων, HDT. <i>4, 21, 136 ; dat. pl. épq</i>. -ῃσιν, DP. <i>656</i>.`

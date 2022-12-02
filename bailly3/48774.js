@@ -1,0 +1,1 @@
+lar[48774]=`THC. <i>1, 103, ou</i> <b>Ἰθωμάτας</b>, PLUT. <i>Arat. 50, adj. m</i>. du mt Ithôme.<p><b>Étym</b>. Ἰθώμη.`

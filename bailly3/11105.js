@@ -1,0 +1,1 @@
+lar[11105]=`<b>ἀπ·αθανατίζω</b> <font color="purple">[ᾰθᾰᾰ]</font> rendre immortel, diviniser, PLAT. <i>Charm. 156d ;</i> ARSTT. <i>Nic. 10, 7</i> ; DS. <i>1, 2, etc.</i> ; LUC. <i>Scyth. 1, etc</i>.`

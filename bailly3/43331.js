@@ -1,0 +1,1 @@
+lar[43331]=`<b>εὐρύ·σορος, ος, ον</b> <font color="purple">[ῠ]</font> au large tombeau, ANTH. <i>7, 528</i>.<p><b>Étym</b>. εὐ. σορός.`

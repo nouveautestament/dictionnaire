@@ -1,0 +1,1 @@
+lar[110217]=`<b>ὠλέ·κρανον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> la pointe du coude, HPC. <i>Epid. 7, p. 1226g ;</i> ARSTT. <i>H.A. 1, 15, 3, etc</i>.<p><b>Étym</b>. <i>par dissimil. p</i>. *ὠλενόκρανον, <i>de</i> ὠλένη, κρᾶνον.`

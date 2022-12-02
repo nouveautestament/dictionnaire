@@ -1,0 +1,1 @@
+lar[21141]=`<b>ης, ες</b>, de nature gangréneuse, HPC. <i>1238e</i>.<p><b>Étym</b>. γάγγραινα, -ωδης.`

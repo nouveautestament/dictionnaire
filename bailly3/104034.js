@@ -1,0 +1,1 @@
+lar[104034]=`<b>ὑπο·τριπλάσιος, ος, ον</b> <font color="purple">[ᾰ]</font> trois fois plus petit, NICOM. <i>Arithm. 1, 18 ; 2, 27</i>.`

@@ -1,0 +1,1 @@
+lar[12508]=`<b>ἀπο·καρπίζομαι</b>, recueillir les fruits de, jouir de, <i>gén</i>. CLÉM. <i>705</i>.`

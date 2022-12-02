@@ -1,0 +1,1 @@
+lar[4629]=`<b>(ὁ)</b> Alkeunas, <i>h</i>. XÉN. <i>Cyr. 5, 3, 42</i>.<p><b>Étym</b>. <i>voc</i>. -α.`

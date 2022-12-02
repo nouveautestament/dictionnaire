@@ -1,0 +1,1 @@
+lar[57683]=`<b>α, ον</b>, sec, friable, PLAT. <i>Tim. 74b ;</i> ARSTT. <i>P.A. 2, 9</i>.<p>•<i> Cp</i>. -ότερος, PLAT. <i>Tim. 60c</i>.<p>➳ <i>Fém</i>. -ος, ARSTT. <i>l. c</i>.`

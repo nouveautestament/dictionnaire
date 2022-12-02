@@ -1,0 +1,1 @@
+lar[60779]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> petite fiole à huile, AR. <i>Ran. 1200, etc.</i> ; DÉM. <i>736, 7</i>.<p><b>Étym</b>. λήκυθος.`

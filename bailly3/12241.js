@@ -1,0 +1,1 @@
+lar[12241]=`<b>εως (ἡ)</b> <font color="purple">[ᾱσ]</font> crainte, lâcheté, POL. <i>3, 103, 2</i> ; PLUT. <i>Alex. 13</i>.<p><b>Étym</b>. ἀποδειλιάω.`

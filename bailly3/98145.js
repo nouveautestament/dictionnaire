@@ -1,0 +1,1 @@
+lar[98145]=`<b>τελεοδρομέω-ῶ</b> (<i>seul. inf. ao. dor</i>. τελεοδρομᾶσαι) achever sa course, ARCHYT. (JAMBL. <i>Protr. 4).</i><p><b>Étym</b>. τελεοδρόμος.`

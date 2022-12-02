@@ -1,0 +1,1 @@
+lar[16493]=`<i>adv</i>., sans conjonction, HERMOG. PHILSTR.`

@@ -1,0 +1,1 @@
+lar[105741]=`<b>φιλο·δάρειος, ου (ὁ)</b> <font color="purple">[ῐᾱ]</font> ami de Darius, THÉM. <i>95d</i>.`

@@ -1,0 +1,1 @@
+lar[21461]=`<b>Γαυρανὸς οἶνος (ὁ)</b> vin du mt Gauranus, <i>en Campanie,</i> ATH. <i>26f</i>.`

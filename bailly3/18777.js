@@ -1,0 +1,1 @@
+lar[18777]=`<b>βαθυ·μῆτα (ὁ)</b> <font color="purple">[ᾰῠᾰ]</font> <i>éol. c</i>. *βαθυμήτης, à la profonde sagesse, PD. <i>N. 3, 51</i>.<p><b>Étym</b>. β. μῆτις.`

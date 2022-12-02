@@ -1,0 +1,1 @@
+lar[94000]=`<i>vb. de</i> συμμίγνυμι, PLAT. <i>Phil. 62e, Leg. 828c, etc</i>.`

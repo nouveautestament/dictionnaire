@@ -1,0 +1,1 @@
+lar[13103]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> lavure, rinçure, DS. <i>5, 26 et 28</i>.<p><b>Étym</b>. ἀποπλύνω.`

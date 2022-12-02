@@ -1,0 +1,1 @@
+lar[22231]=`<b>γλωσσο·πέδη, ης (ἡ)</b> bâillon, muselière, CHRYS. <i>2, 22e Migne</i>.<p><b>Étym</b>. γλῶσσα, π.`

@@ -1,0 +1,1 @@
+lar[59035]=`<b>ίδος (ἡ)</b> sorte d’onguent, LUC. <i>Alex. 22, 53</i>.`

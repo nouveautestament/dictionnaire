@@ -1,0 +1,1 @@
+lar[56630]=`<b>ου (τὸ)</b> corps gras pour coller : κ. τεκτονικόν, PHIL. BYZ. graisse à outil.<p><b>Étym</b>. κολλάω.`

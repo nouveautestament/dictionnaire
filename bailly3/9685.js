@@ -1,0 +1,1 @@
+lar[9685]=`<b>ἀντ·εργάτης, ου (ὁ)</b> <font color="purple">[γᾰ]</font> qui agit contre, opposant, BAS. <i>3, 640 Migne</i>.`

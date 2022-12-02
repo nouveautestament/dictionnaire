@@ -1,0 +1,1 @@
+lar[11379]=`<b>ἀ·παρηγόρητος, ος, ον :<br>      1</b> que l’on ne peut satisfaire, insatiable, MÉN. (STOB. <i>Fl. 64, 3</i>) ; PLUT. <i>Mar. 2, etc.</i><br><b>      2</b> inconsolable, PLUT. <i>Dem. 22</i>.<p><b>Étym</b>. ἀ, παρηγορέω.`

@@ -1,0 +1,1 @@
+lar[74683]=`<b>παμ·βδελυρός, ά, όν</b> <font color="purple">[ῠ]</font> tout à fait honteux, AR. <i>Lys. 969, etc</i>.<p><b>Étym</b>. π. βδελυρός.`

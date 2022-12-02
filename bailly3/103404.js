@@ -1,0 +1,1 @@
+lar[103404]=`<b>οῦ (ὁ) :<br>      1</b> <i>c</i>. ὑποκόρισμα PLUT. <i>Thes. 14</i> ; ALCIPHR. <i>3, 33</i>.<br><b>      2</b> usage de diminutifs, ARSTT. <i>Rhet. 3, 2, 15</i>.`

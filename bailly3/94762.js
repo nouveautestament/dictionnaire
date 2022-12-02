@@ -1,0 +1,1 @@
+lar[94762]=`<b>συν·ανατίθημι</b> <font color="purple">[τῐ]</font><br><b>      1</b> imposer en même temps, PORPH. <i>V. Pyth. p. 42</i> ; JAMBL. <i>V. Pyth. 18, 87</i>.<br><b>      2</b> dédier en même temps, LUC. <i>Phal. 2, 7</i>.`

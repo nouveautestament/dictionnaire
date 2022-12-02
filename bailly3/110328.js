@@ -1,0 +1,1 @@
+lar[110328]=`<b>α, ον</b>, <i>vb. de</i> ὠνέομαι, PLAT. <i>Leg. 849c, etc. ; au neutre,</i> LUC. <i>Herm. 58</i>.`

@@ -1,0 +1,1 @@
+lar[53705]=`<b>κατα·φωράω-ῶ</b>, prendre sur le fait, <i>avec un part.</i> : κ. τινα ἐπιβουλεύοντα, THC. <i>1, 82,</i> surprendre qqn en flagrant délit de conspiration ; <i>d’où</i> découvrir <i>en gén</i>. THC. <i>8, 87</i> ; LUC. <i>Somn. 28 ; p. suite,</i> reconnaître : ψυχὴν ὡς οὖσαν, XÉN. <i>Cyr. 8, 7, 17,</i> l’existence de l’âme.`

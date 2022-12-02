@@ -1,0 +1,1 @@
+lar[84571]=`<b>προ·κλύω</b> (<i>seul. prés</i>.) entendre auparavant, ESCHL. <i>Ag. 251</i>.`

@@ -1,0 +1,1 @@
+lar[68109]=`<b>νεο·γλαγής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui tète depuis peu, MAX. <i>π. κατ. 517</i>.<br><b>      2</b> qui donne du lait depuis peu, NONN. <i>D. 48, 764</i>.<p><b>Étym</b>. ν. γλάγος.`

@@ -1,0 +1,1 @@
+lar[44634]=`<b>ζυγό·δεσμον, ου (τὸ)</b> <font color="purple">[ῠ]</font>, courroie qui attache le joug au timon, IL. <i>24, 270 ; en parl. du nœud gordien,</i> PLUT. <i>Alex. 18 ; au plur</i>. ANTH. <i>9, 155, etc.</i> ; ARTÉM. <i>2, 24</i> ; PROCL. <i>H. Sol. 31</i>.<p><b>Étym</b>. ζυγόν, δεσμός.`

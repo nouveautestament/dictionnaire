@@ -1,0 +1,1 @@
+lar[46880]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> <i>ion</i>. propre à guérir : τὰ θεραπήϊα, ANTH. <i>7, 158,</i> remèdes.<p><b>Étym</b>. θεραπεύω.`

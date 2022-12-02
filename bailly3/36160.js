@@ -1,0 +1,1 @@
+lar[36160]=`<b>ἐξ·όπιθε</b> <i>ou</i> <b>ἐξ·όπιθεν</b> <font color="purple">[ῐ]</font> <i>adv</i>., par derrière, IL. <i>4, 298</i> ; HÉS. <i>Sc. 130</i> ; τινος, IL. <i>17, 251,</i> en arrière de qqe ch.<p><b>Étym</b>. <i>cf</i>. ἐξόπισθεν.`

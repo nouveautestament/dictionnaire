@@ -1,0 +1,1 @@
+lar[92646]=`<b>στιχ·αοιδός, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> qui chante des vers, poète, A. PL. <i>316</i>.<p><b>Étym</b>. *στίξ, ἀοιδός.`

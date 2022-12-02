@@ -1,0 +1,1 @@
+lar[85575]=`<b>προσ·εμφανίζω</b> <font color="purple">[ᾰ]</font> montrer en outre, JOS. <i>A.J. 8, 7, 3</i>.`

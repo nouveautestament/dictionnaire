@@ -1,0 +1,1 @@
+lar[26712]=`<b>δι·οδοποιέω-ῶ</b> (<i>seul. prés</i>.) faire un chemin à travers, TH. <i>Ign. 59</i>.<p><b>Étym</b>. δίοδον ποιεῖ <i>Dind</i>.`

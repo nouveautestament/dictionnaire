@@ -1,0 +1,1 @@
+lar[13102]=`<b>ἀπο·πλουτέω-ῶ</b>, perdre sa fortune, NAZ. <i>179a, etc</i>.`

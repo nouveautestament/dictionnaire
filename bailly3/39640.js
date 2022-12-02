@@ -1,0 +1,1 @@
+lar[39640]=`<b>ἐπι·χαίνω</b> <font color="darkgreen">(<i>f</i>. -χανῶ, <i>pf</i>. -κέχηνα)</font> avoir la bouche béante sur, <i>càd</i>. regarder bouche béante, LUC. <i>Tim. 18, etc</i>.`

@@ -1,0 +1,1 @@
+lar[55518]=`<b>ης (ἡ)</b> <i>sorte de</i> ἄγρωστις, <i>plante de Cilicie,</i> DIOSC. <i>4, 32</i>.`

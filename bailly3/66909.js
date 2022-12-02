@@ -1,0 +1,1 @@
+lar[66909]=`<b>μουσό·δομος, ος, ον</b>, bâti aux sons de la musique, ANTH. <i>9, 250</i>.<p><b>Étym</b>. μοῦσα, δέμω.`

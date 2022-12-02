@@ -1,0 +1,1 @@
+lar[62345]=`<b>ή, όν</b>, des Mædes, ARSTT. <i>H.A. 2, 1, etc</i>.<p><b>Étym</b>. Μαῖδοι.`

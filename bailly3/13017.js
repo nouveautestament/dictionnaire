@@ -1,0 +1,1 @@
+lar[13017]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> dislocation, HPC. <i>777e</i>.<p><b>Étym</b>. ἀποπάλλω.`

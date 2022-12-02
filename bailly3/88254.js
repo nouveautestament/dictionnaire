@@ -1,0 +1,1 @@
+lar[88254]=`<b>ος, ον</b>, bruyant, SOPH. <i>fr. 631 Dind</i>.<p><b>Étym</b>. ῥάσσω.`

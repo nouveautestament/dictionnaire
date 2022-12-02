@@ -1,0 +1,1 @@
+lar[82548]=`<b>Πολυ·χάρης, ους (ὁ)</b> <font color="purple">[ῠᾰ]</font> Polykharès, <i>un des trente tyrans d’Athènes,</i> XÉN. <i>Hell. 2, 3, 2</i>.<p><b>Étym</b>. π. χαίρω.`

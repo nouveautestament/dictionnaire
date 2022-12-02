@@ -1,0 +1,1 @@
+lar[36633]=`<b>ἐπ·αναπληρόω-ῶ</b> (<i>inf. prés. pass</i>. -οῦσθαι) remplir jusqu’au bord, TH. <i>Sens. 8</i>.`

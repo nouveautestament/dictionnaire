@@ -1,0 +1,1 @@
+lar[75409]=`<b>*παρα·βλώσκω</b> (<i>seul. pf. poét. 3 sg</i>. παρμέμβλωκε, IL. <i>4, 11, ou</i> παρμέμβλωκεν, IL. <i>24, 73</i>) venir au secours de, <i>dat</i>.`

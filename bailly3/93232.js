@@ -1,0 +1,1 @@
+lar[93232]=`<b>συγ·καθέλκω</b>, <i>anc. att</i>. <b>ξυγ·καθέλκω</b> <font color="darkgreen">(<i>ao</i>. -είλκυσα)</font> entraîner avec <i>ou</i> ensemble, ESCHL. <i>Sept. 614</i>.`

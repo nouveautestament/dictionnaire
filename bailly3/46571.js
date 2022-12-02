@@ -1,0 +1,1 @@
+lar[46571]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> Thémiskyra, <i>plaine du Pont, près du Thermôdôn, résidence des Amazones,</i> ESCHL. <i>Pr. 722</i> ; ARSTT. <i>H.A. 5, 22</i>.<p>➳ <i>Ion</i>. -η, HDT. <i>4, 86</i>.`

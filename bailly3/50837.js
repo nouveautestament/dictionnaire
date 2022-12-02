@@ -1,0 +1,1 @@
+lar[50837]=`<b>κακο·ρραφέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> tramer (<i>propr</i>. coudre) de mauvais desseins, SYN. <i>286</i>.<p><b>Étym</b>. κ. ῥάπτω.`

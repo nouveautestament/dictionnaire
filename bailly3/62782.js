@@ -1,0 +1,1 @@
+lar[62782]=`<b>ου (ὁ)</b> collier d’or des Perses, des Celtes, POL. <i>2, 29 et 31</i> ; PLUT. <i>Cim. 9</i> ; SPT. <i>Dan. 5, 7, etc</i>.`

@@ -1,0 +1,1 @@
+lar[23735]=`<b>ου (ὁ)</b> Décébale, <i>roi de Dacie,</i> DC. <i>67, 6</i> ; THÉM. <i>110</i>.`

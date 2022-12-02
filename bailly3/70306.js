@@ -1,0 +1,1 @@
+lar[70306]=`<b>εως (ἡ) :<br>      1</b> pensée, opinion, PLAT. <i>Phæd. 92a, etc.</i><br><b>      2</b> <i>particul</i>. haute opinion de soi-même, présomption, PLUT. <i>M. 49a ;</i> BION <i>et</i> HÉRACLITE ÉPH. <i>fr. 46</i> (DL. <i>7, 23</i>) ; PHILOD. <i>t. 1, p. 15 et 17</i>.<p><b>Étym</b>. οἴομαι.`

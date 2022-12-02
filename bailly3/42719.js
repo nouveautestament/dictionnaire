@@ -1,0 +1,1 @@
+lar[42719]=`<b>εὔ·μολπος, ος, ον</b>, qui chante bien, harmonieusement, ANTH. <i>9, 396</i>.<p><b>Étym</b>. εὖ, μολπή.`

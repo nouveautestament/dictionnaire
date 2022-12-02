@@ -1,0 +1,1 @@
+lar[86477]=`<b>πρό·στερνος, ος, ον</b>, placé sur la poitrine, ESCHL. <i>Ch. 29</i>.<p><b>Étym</b>. π. στέρνον.`

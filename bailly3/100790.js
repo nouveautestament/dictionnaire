@@ -1,0 +1,1 @@
+lar[100790]=`<b>τροχο·δινέω-ῶ</b> <font color="purple">[ῑ]</font> faire tourner, rouler tout autour, ESCHL. <i>Pr. 882</i>.<p><b>Étym</b>. τροχός, δινέω.`

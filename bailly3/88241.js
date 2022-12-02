@@ -1,0 +1,1 @@
+lar[88241]=`<b>ῥαϊστό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> frappé par le marteau, MAN. <i>1, 289, etc</i>.<p><b>Étym</b>. ῥαιστής, τύπτω.`

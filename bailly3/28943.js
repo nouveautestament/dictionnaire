@@ -1,0 +1,1 @@
+lar[28943]=`<b>ας (ἡ)</b> malignité d’une maladie, A. TR. <i>7, p. 368</i>.<p><b>Étym</b>. δύστροπος.`

@@ -1,0 +1,1 @@
+lar[72304]=`<b>ὀπισθο·χειμών, ῶνος (ὁ)</b> hiver tardif, <i>propr</i>. arrière-hiver, HPC. <i>942, 9</i> ; TH. <i>C.P. 2, 1, 6</i>.<p><b>Étym</b>. ὄπισθε, χειμών.`

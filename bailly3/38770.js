@@ -1,0 +1,1 @@
+lar[38770]=`<b>ἐπι·πόλιος, ος, ον</b>, qui commence à blanchir, qui grisonne, DÉM. <i>1267, 21</i>.`

@@ -1,0 +1,1 @@
+lar[19816]=`<b>ου (ὁ)</b> sorte de petit oiseau (<i>sel. d’autres, c</i>. ψίττακος) EUB. (ATH. <i>65e</i>).`

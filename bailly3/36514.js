@@ -1,0 +1,1 @@
+lar[36514]=`<b>ἐπ·αλλό·καυλος, ος, ον</b>, qui porte <i>ou</i> appuie sa tige sur une autre plante, TH. <i>H.P. 3, 18 ; 9, 11</i>.<p><b>Étym</b>. ἐπί, ἄλλος, καυλός.`

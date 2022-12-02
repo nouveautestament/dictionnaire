@@ -1,0 +1,1 @@
+lar[106115]=`<b>φιλό·συκος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui aime les figues, PLUT. <i>M. 668a</i>.<p><b>Étym</b>. φ. σῦκον.`

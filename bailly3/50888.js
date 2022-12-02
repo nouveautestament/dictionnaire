@@ -1,0 +1,1 @@
+lar[50888]=`<b>κακο·τροφέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1 <i>tr.</i></b> nourrir mal, <i>d’où au pass</i>. être mal nourri, dépérir, TH. <i>H.P. 5, 2, 2</i>.<br><b>      2 <i>intr.</i></b> venir mal, dépérir, TH. <i>ibid</i>.<p><b>Étym</b>. κ. -τροφος <i>de</i> τρέφω.`

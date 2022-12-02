@@ -1,0 +1,1 @@
+lar[69668]=`<b>ξυλό·κοκκον, ου (τὸ)</b> <font color="purple">[ῠ]</font> graine du caroubier, ORIB.<p><b>Étym</b>. ξ. κόκκος.`

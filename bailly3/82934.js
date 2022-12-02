@@ -1,0 +1,1 @@
+lar[82934]=`<b>ή, όν</b>, qui est de quelque grandeur, en quelque quantité, PLAT. <i>Soph. 245d, etc.</i> ; τὸ ποσόν, PLAT. <i>Phil. 24d ;</i> ARSTT. <i>Categ. 6, etc</i>. quantité ; κατὰ ποσόν, jusqu’à un certain point, ARSTT. <i>Nic. 8, 7, 3</i> ; ἐπὶ ποσόν, pour un certain temps, POL. <i>2, 34, 15, etc</i>.<p><b>Étym</b>. *πός.`

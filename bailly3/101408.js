@@ -1,0 +1,1 @@
+lar[101408]=`<b>ὑγρό·μορφος, ος, ον</b>, d’une nature (<i>litt</i>. d’une forme) fluide, NONN. <i>D. 39, 88 dout</i>.<p><b>Étym</b>. ὑ. μορφή.`

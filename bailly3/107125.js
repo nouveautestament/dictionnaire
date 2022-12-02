@@ -1,0 +1,1 @@
+lar[107125]=`<b>ῆς (ἡ)</b> Phylè (<i>auj</i>. Fylí) <i>dème att. de la tribu Onéïde,</i> AR. <i>Ach. 1023</i> ; XÉN. <i>Hell. 2, 4, 2, etc.</i> ; DÉM. <i>18, 38 Baiter-Sauppe</i>.<p>➳ <i>Dat. Φυλῇ dans les inscr. att. (envir. 315 av. J.-C., etc.) ; v. Meisterh. p. 169, 23</i>.<p><b>Étym</b>. <i>cf</i>. φυλή.`

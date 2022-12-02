@@ -1,0 +1,1 @@
+lar[108776]=`faire du boudin, <i>fig</i>. χ. τὰ πράγματα, AR. <i>Eq. 214,</i> manipuler les affaires publiques comme de la chair à boudin.<p><b>Étym</b>. χορδή.`

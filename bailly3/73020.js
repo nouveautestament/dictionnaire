@@ -1,0 +1,1 @@
+lar[73020]=`<b>η, ον</b> <font color="purple">[ῐ]</font> couvert d’une toiture en roseaux, EN. TACT. <i>Pol. 32</i>.<p><b>Étym</b>. ὄροφος.`

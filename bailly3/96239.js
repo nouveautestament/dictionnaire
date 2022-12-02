@@ -1,0 +1,1 @@
+lar[96239]=`<b>συνουσιόω-ῶ</b>, unir en une seule substance, <i>d’où au pass</i>. se confondre <i>ou</i> s’identifier avec, <i>dat</i>. A. APHR. <i>Probl. 1, 121</i>.<p><b>Étym</b>. συνουσία.`

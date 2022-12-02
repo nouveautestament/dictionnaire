@@ -1,0 +1,1 @@
+lar[85208]=`<b>προσ·ανοικοδομέω-ῶ</b>, rebâtir auprès, édifier à côté, <i>fig</i>. SPT. <i>Sir. 3, 17</i>.`

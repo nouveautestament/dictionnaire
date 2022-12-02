@@ -1,0 +1,1 @@
+lar[2040]=`<b>ἀ·θήρατος, ος, ον</b> <font color="purple">[ρᾱ]</font> insaisissable, EL. <i>N.A. 1, 4</i> ; LGS <i>2, 4</i>.<p><b>Étym</b>. ἀ. θηράω.`

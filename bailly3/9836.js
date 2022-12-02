@@ -1,0 +1,1 @@
+lar[9836]=`<b>ή, όν</b>, qui distingue <i>ou</i> oppose, DYSC. <i>Pron. 48b</i>.<p><b>Étym</b>. ἀντιδιαστέλλω.`

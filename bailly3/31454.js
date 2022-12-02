@@ -1,0 +1,1 @@
+lar[31454]=`<font color="purple">[ῐτ]</font> <i>adv</i>., de manière à éviter, ARR. <i>Epict. 3, 3, 2 ; 3, 12, 7</i>.<p><b>Étym</b>. ἐκκλιτικός.`

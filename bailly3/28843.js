@@ -1,0 +1,1 @@
+lar[28843]=`<b>δυσποτμέω-ῶ</b> (<i>prés</i>. -οῦσι) être malheureux, POL. <i>Fr. gr. 41</i> ; DS. <i>Exc. Vat. 99, 26</i>.<p><b>Étym</b>. δύσποτμος.`

@@ -1,0 +1,1 @@
+lar[22234]=`<b>γλωσσοτομέω-ῶ</b>, <i>f</i>. ήσω, couper la langue, PLUT. <i>M. 849b</i> (<i>att</i>. γλωττο-) ; τινα, SPT. <i>2Macc. 7, 4,</i> à qqn.<p><b>Étym</b>. γλῶσσα, -τομος <i>de</i> τέμνω.`

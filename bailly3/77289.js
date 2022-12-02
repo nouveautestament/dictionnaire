@@ -1,0 +1,1 @@
+lar[77289]=`<b>οῦ (ὁ)</b> désirs impurs, LUC. <i>Gall. 32</i> ; CLÉM. <i>1, 160, 501 Migne</i>.<p><b>Étym</b>. πασχητιάω.`

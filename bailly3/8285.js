@@ -1,0 +1,1 @@
+lar[8285]=`<b>ατος (τὸ)</b> enroulement, boucle, ANTH. <i>6, 210 ; 7, 485</i>.<p><b>Étym</b>. ἀνελίσσω.`

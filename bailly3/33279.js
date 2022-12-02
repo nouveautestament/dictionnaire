@@ -1,0 +1,1 @@
+lar[33279]=`<b>ἔμ·μιλτος, ος, ον</b>, coloré de vermillon, DIOSC. <i>5, 129</i>.<p><b>Étym</b>. ἐν, μίλτος.`

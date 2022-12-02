@@ -1,0 +1,1 @@
+lar[104836]=`<b>φανόω-ῶ</b> <font color="purple">[ᾱ]</font> rendre visible, STR.<p><b>Étym</b>. φανός¹.`

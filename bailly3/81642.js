@@ -1,0 +1,1 @@
+lar[81642]=`<i>ion</i>. <b>πολλαπλησίως</b> <font color="purple">[ᾰσ]</font> <i>adv</i>., en multipliant, <i>càd</i>. beaucoup plus, HPC. <i>455, 18, etc</i>.<p><b>Étym</b>. πολλαπλάσιος.`

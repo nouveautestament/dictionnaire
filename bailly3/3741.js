@@ -1,0 +1,1 @@
+lar[3741]=`<b>ἀκροβατέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[βᾰ]</font><br><b>      1</b> aller sur la pointe des pieds, DS. <i>2, 50</i> ; LUC. <i>Ic. 10</i>.<br><b>      2</b> marcher la tête haute, PHIL. <i>1, 106</i>.<br><b>      3</b> s’élever, gravir avec effort, POLYEN <i>4, 3</i>.<p><b>Étym</b>. ἀκρόβατος.`

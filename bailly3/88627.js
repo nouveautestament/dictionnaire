@@ -1,0 +1,1 @@
+lar[88627]=`<b>εως (ἡ)</b> <font color="purple">[ῑπῐ]</font> action de souffler, de rafraîchir, TH. <i>Ign. 36</i> ; A. APHR. <i>Probl. 1, 113</i>.<p><b>Étym</b>. ῥιπίζω.`

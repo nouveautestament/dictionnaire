@@ -1,0 +1,1 @@
+lar[62405]=`<b>ου (ὁ)</b> sorte de poisson, ARCHIPP. (ATH. <i>312a</i>) ; EL. <i>N.A. 10, 19</i>.`

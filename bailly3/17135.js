@@ -1,0 +1,1 @@
+lar[17135]=`<b>αὐθαδό·στομος, ος, ον</b> <font color="purple">[ᾱ]</font> à la bouche présomptueuse, au langage présomptueux, AR. <i>Ran. 837</i>.<p><b>Étym</b>. αὐθάδης, στόμα.`

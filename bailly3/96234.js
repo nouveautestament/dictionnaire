@@ -1,0 +1,1 @@
+lar[96234]=`<b>      1 <i>intr.</i></b> être ensemble, être uni <i>ou</i> marié, THPP. <i>65</i> ; PLUT. <i>Alex. 22</i>.<br><b>      2 <i>tr.</i></b> unir, marier, X. ÉPH. <i>2, 9</i>.<p><b>Étym</b>. συνουσία.`

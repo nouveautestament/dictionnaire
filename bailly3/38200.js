@@ -1,0 +1,1 @@
+lar[38200]=`<b>ου (ὁ)</b> Épictète, <i>n. d’h., particul. philosophe stoïcien,</i> LUC. <i>Demon. 55</i>.<p><b>Étym</b>. <i>v</i>. ἐπίκτητος.`

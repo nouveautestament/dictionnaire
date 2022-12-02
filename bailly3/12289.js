@@ -1,0 +1,1 @@
+lar[12289]=`<b>ἀπο·διαστέλλω :<br>      1</b> séparer par une clôture, <i>d’où</i> intercepter, interdire, SPT. <i>2Macc. 6, 5</i>.<br><b>      2</b> partager : τῷ λαῷ τὴν γῆν, SPT. <i>Jos. 1, 6,</i> la terre entre le peuple.`

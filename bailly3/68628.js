@@ -1,0 +1,1 @@
+lar[68628]=`<b>εως (ἡ)</b> action de filer, PLAT. <i>Rsp. 620e</i>.<p><b>Étym</b>. νέω³.`

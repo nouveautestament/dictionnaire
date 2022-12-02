@@ -1,0 +1,1 @@
+lar[15717]=`<b>ἀ·σάλευτος, ος, ον</b> <font color="purple">[σᾰ]</font> non agité, fixe, ferme, <i>en parl. de la terre,</i> ARSTT. <i>Mund. 3, 4 ; fig. en parl. de l’esprit,</i> calme, tranquille, EUR. <i>Bacch. 390</i> ; PLAT. <i>Ax. 370d ;</i> ANTH. <i>11, 100 ; 12, 183</i>.<p><b>Étym</b>. ἀ, σαλεύω.`

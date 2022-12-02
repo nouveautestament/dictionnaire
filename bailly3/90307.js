@@ -1,0 +1,1 @@
+lar[90307]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> silure, <i>grand poisson de riviére,</i> SOPATR. (ATH. <i>230e</i>) ; DIOD. SIN. (<i>Com. fr. 4, 381</i>) ; STR. <i>823</i> ; EL. <i>N.A. 12, 14 et 29</i>.`

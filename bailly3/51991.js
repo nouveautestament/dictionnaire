@@ -1,0 +1,1 @@
+lar[51991]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰ]</font> sorte de datte, DIOSC. <i>1, 148</i>.<p><b>Étym</b>. κάρυον.`

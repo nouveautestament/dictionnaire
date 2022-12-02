@@ -1,0 +1,1 @@
+lar[91586]=`<i>adv</i>., grossièrement, DL. <i>7, 18</i>.<p><b>Étym</b>. σόλοικος.`

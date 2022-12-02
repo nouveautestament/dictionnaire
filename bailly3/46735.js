@@ -1,0 +1,1 @@
+lar[46735]=`<b>θεό·πεμπτος, ος, ον :<br>      1</b> envoyé par la divinité, ARSTT. <i>Nic. 1, 9, 3</i> ; DH. <i>1, 14</i>.<br><b>      2</b> <i>p. suite,</i> extraordinaire, LGS <i>3, 18</i> ; ARTÉM. <i>1, 7</i>.<p><b>Étym</b>. θ. πέμπω.`

@@ -1,0 +1,1 @@
+lar[85003]=`<b>προ·πορίζω</b>, procurer d’avance <i>ou</i> auparavant, LUC. <i>Salt. 61</i>.`

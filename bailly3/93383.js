@@ -1,0 +1,1 @@
+lar[93383]=`<b>συγ·κατατρώγω</b>, manger ensemble, PLUT. <i>Sol. 20</i>.`

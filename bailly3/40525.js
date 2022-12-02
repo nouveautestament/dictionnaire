@@ -1,0 +1,1 @@
+lar[40525]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> de chevreau, XÉN. <i>An. 4, 5, 31</i> ; PHÉRÉCR. (ATH. <i>269d</i>) ; ANTIPH. (ATH. <i>295d</i>).<p><b>Étym</b>. ἔριφος.`

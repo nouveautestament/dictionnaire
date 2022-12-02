@@ -1,0 +1,1 @@
+lar[9697]=`<b>Ἀντ·έρως, ωτος (ὁ)</b> Antérôs, dieu vengeur de l’amour (dédaigné) PAUS. <i>1, 30, 1 ; ou au contr</i>. ennemi de l’amour, PAUS. <i>6, 23, 5</i>.`

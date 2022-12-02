@@ -1,0 +1,1 @@
+lar[24260]=`<b>δημό·κραντος, ος, ον</b>, ratifié par le peuple, ESCHL. <i>Ag. 457</i>.<p><b>Étym</b>. δῆμος, κραίνω.`

@@ -1,0 +1,1 @@
+lar[33445]=`<b>ἔμ·πικρος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> profondément amer : τὤμπικρον αὐτᾷ, THCR. <i>Idyl. 15, 74 Mein</i>. (silence) qui lui fut profondément amer.<br><b>      2</b> légèrement amer, DIOSC. <i>1, 4 ; 2, 132</i>.<p><b>Étym</b>. ἐν, π.`

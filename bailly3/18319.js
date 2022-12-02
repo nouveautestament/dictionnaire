@@ -1,0 +1,1 @@
+lar[18319]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> eau grasse <i>ou</i> bourbeuse, fange, IL. <i>11, 495</i> ; OPP. <i>H. 1, 779</i>.<br><b>      2</b> <i>adj</i>. gras, abondant, NIC. <i>Al. 597</i>.`

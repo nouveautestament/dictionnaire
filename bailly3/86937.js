@@ -1,0 +1,1 @@
+lar[86937]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> proclamé, célébré, PD. <i>O. 8, 21</i>.<p><b>Étym</b>. <i>vb. de</i> πρόφημι.`

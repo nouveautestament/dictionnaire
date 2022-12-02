@@ -1,0 +1,1 @@
+lar[59668]=`<b>ας (ἡ)</b> sorte de requin, ARSTT. <i>H.A. 5, 5, 3</i>.`

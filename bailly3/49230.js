@@ -1,0 +1,1 @@
+lar[49230]=`<b>ου (τὸ)</b> petit cheval <i>ou</i> jeune cheval, XÉN. <i>Cyr. 1, 4, 19</i> ; PLUT. <i>Phil. 7</i>.<p><b>Étym</b>. ἵππος.`

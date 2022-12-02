@@ -1,0 +1,1 @@
+lar[21329]=`<b>γαμο·ποιΐα, ας (ἡ)</b> <font color="purple">[γᾰ]</font> célébration d’un mariage <i>ou</i> de noces, ATH. <i>180c</i>.<p><b>Étym</b>. γάμος, ποιέω.`

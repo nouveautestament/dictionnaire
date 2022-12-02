@@ -1,0 +1,1 @@
+lar[57449]=`<b>ατος (τὸ)</b> allégement, soulagement, EUR. <i>Ph. 848 ; fig</i>. PLUT. <i>M. 114c</i>.<p><b>Étym</b>. κουφίζω.`

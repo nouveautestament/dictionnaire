@@ -1,0 +1,1 @@
+lar[64109]=`<b>ά, όν</b> <font color="purple">[ῐ]</font> de miel, mielleux, TH. <i>H.P. 3, 7, 4</i> ; NIC. (ATH. <i>475d</i>).<p><b>Étym</b>. μέλι.`

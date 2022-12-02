@@ -1,0 +1,1 @@
+lar[5557]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> moissonné, OPP. <i>C. 1, 527</i> ; ὁ ἀ. champ moissonné, DP. <i>194</i> ; ARAT. <i>1097 ; fig</i>. rasé, <i>en parl. de barbe,</i> ANTH. <i>11, 368</i>.<p><b>Étym</b>. ἀμάω.`

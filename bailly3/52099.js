@@ -1,0 +1,1 @@
+lar[52099]=`<font color="purple">[ᾰ]</font> se prostituer, LYC. <i>772</i>.<p><b>Étym</b>. <i>cf</i>. κάσσα.`

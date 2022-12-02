@@ -1,0 +1,1 @@
+lar[50236]=`<b>Καδμο·γενής, ής, ές :<br>      1</b> descendant de Kadmos, <i>en parl. d’Hèraklès,</i> SOPH. <i>Tr. 116</i>.<br><b>      2</b> <i>p. ext</i>. thébain, ESCHL. <i>Sept. 302</i> ; EUR. <i>Ph. 808</i>.<p><b>Étym</b>. Κάδμος, γένος.`

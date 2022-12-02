@@ -1,0 +1,1 @@
+lar[79603]=`<b>περι·φλύω</b> <font color="purple">[ῡ]</font> <i>c</i>. περιφλεύω, AR. <i>Nub. 396</i>.`

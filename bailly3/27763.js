@@ -1,0 +1,1 @@
+lar[27763]=`<b>έως (ὁ)</b> hôte (<i>litt</i>. celui qui reçoit) SYN. <i>Ep. 151</i>.<p><b>Étym</b>. δέχομαι.`

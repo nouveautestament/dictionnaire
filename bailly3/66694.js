@@ -1,0 +1,1 @@
+lar[66694]=`<b>μονῳδέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἐμονῴδουν, <i>f</i>. μονῳδήσω, <i>etc</i>.) :</font><br><b>      1</b> chanter seul, sans accompagnement, AR. <i>Pax 1012, etc.</i><br><b>      2</b> chanter sur un ton plaintif, gémir, <i>acc</i>. LUC. <i>Salt. 27, etc</i>.<p><b>Étym</b>. <i>cf</i>. μονῳδία.`

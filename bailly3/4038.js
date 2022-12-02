@@ -1,0 +1,1 @@
+lar[4038]=`<font color="purple">[ᾰᾱ]</font> <i>adv</i>., en fanfaron, PLUT. <i>Mar. 9</i>.`

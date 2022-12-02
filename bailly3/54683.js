@@ -1,0 +1,1 @@
+lar[54683]=`<b>κενε·αγόρος</b>, <i>ion</i>. <b>κενε·ηγόρος, ος, ον</b>, diseur de riens, bavard, NAZ. <i>3, 1571 Migne</i>.<p><b>Étym</b>. κενεός, ἀγορεύω.`

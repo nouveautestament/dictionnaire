@@ -1,0 +1,1 @@
+lar[39697]=`<b>ἐπι·χλευάζω</b>, se moquer de : τινά, APP. <i>Syr. 53</i> ; τι, PLUT. <i>Num. 22</i> ; τινί, PLUT. <i>M. 93b ;</i> HLD. <i>6, 12,</i> de qqn <i>ou</i> de qqe ch. ; <i>abs</i>. LUC. <i>Gymn. 13</i> ; BABR. <i>82, 4</i>.`

@@ -1,0 +1,1 @@
+lar[83444]=`<b>ου (τὸ)</b> <font color="purple">[ρῑ]</font> <i>dim. de</i> πρίων, PHIL. BYZ. <i>Bel</i>.<p><b>Étym</b>. <i>Math. vet. p. 67</i>.`

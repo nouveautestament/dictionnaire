@@ -1,0 +1,1 @@
+lar[86706]=`<b>προσωπο·λήπτης, ου</b>, <i>adj. m</i>. qui a égard aux personnes, partial, NT. <i>Ap. 10, 34</i> ; CHRYS. <i>1, 137 Migne</i>.<p><b>Étym</b>. πρόσωπον, λαμβάνω.`

@@ -1,0 +1,1 @@
+lar[65281]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Mèdésikastè, <i>fille de Priam,</i> IL. <i>13, 173</i>.`

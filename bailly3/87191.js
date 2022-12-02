@@ -1,0 +1,1 @@
+lar[87191]=`<b>ους (ὁ)</b> Protogénès (Protogène) :<br><b>      1</b> <i>peintre célèbre,</i> PLUT. <i>Demetr. 22</i> ; EL. <i>V.H. 12, 41, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Amat. 2, etc</i>.`

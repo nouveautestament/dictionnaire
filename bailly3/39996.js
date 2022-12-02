@@ -1,0 +1,1 @@
+lar[39996]=`<b>ἑπτά·μιτος, ος, ον</b> <font color="purple">[ᾰῐ]</font> de sept fils <i>ou</i> cordes, <i>en parl. d’une lyre,</i> LUC. <i>Astr. 10</i> ; ANTH. <i>9, 250</i>.<p><b>Étym</b>. ἑ. μίτος.`

@@ -1,0 +1,1 @@
+lar[2637]=`<b>ας (ἡ)</b> <i>lat</i>. Ænaria (<i>auj</i>. Ischia) <i>î. du golfe de Naples,</i> PLUT. <i>Mar. 34, 40</i>.`

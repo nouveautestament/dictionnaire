@@ -1,0 +1,1 @@
+lar[63485]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Mégapolè, <i>f</i>. LUC. <i>As. 28</i>.`

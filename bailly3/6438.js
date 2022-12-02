@@ -1,0 +1,1 @@
+lar[6438]=`<b>ἀμφί·χωλος, ος, ον</b>, boiteux des deux jambes, ANTH. <i>6, 203</i> ; LUC. <i>Philopatr. 6</i>.<p><b>Étym</b>. ἀ. χωλός.`

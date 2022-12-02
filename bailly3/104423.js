@@ -1,0 +1,1 @@
+lar[104423]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> tissu, SOCR. RHOD. (ATH. <i>147b</i>) ; <i>particul</i>. toile d’araignée, DIOSC. <i>2, 68</i> ; filet, ANTH. <i>9, 370</i>.<br><b>      2</b> <i>fig</i>. texte d’un ouvrage, LGN <i>1, 4</i>.<p><b>Étym</b>. ὑφαίνω.`

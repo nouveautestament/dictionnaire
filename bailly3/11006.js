@@ -1,0 +1,1 @@
+lar[11006]=`<b>ἀοιδο·θέτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui compose des chants, ANTH. <i>7, 50</i>.<p><b>Étym</b>. ἀοιδή, τίθημι.`

@@ -1,0 +1,1 @@
+lar[467]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> troupe, foule, PROCL. <i>H. Min. 44</i>.<p><b>Étym</b>. ἀγελάζομαι.`

@@ -1,0 +1,1 @@
+lar[44277]=`<b>ἐχινο·μῆτραι, ῶν (αἱ)</b> sorte de hérissons de mer, ARSTT. <i>H.A. 4, 5, 2</i>.<p><b>Étym</b>. ἐχῖνος, μήτρα.`

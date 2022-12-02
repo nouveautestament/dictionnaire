@@ -1,0 +1,1 @@
+lar[52580]=`<b>οῦ (ὁ)</b> valet de chambre, DS. <i>11, 69</i> ; PLUT. <i>M. 173d</i>.<p><b>Étym</b>. κατακοιμίζω.`

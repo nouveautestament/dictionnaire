@@ -1,0 +1,1 @@
+lar[105541]=`<b>φιλ·ειδήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> qui aime savoir, avide d’apprendre, STR. <i>14</i>.<p><b>Étym</b>. φ. εἰδέναι.`

@@ -1,0 +1,1 @@
+lar[49171]=`<b>ου (ὁ)</b> Iouliadès, <i>propr</i>. fils de Ioulos, <i>h</i>. ESCHN. <i>Ep. 5, 1 Baiter-Sauppe</i>.`

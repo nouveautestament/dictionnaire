@@ -1,0 +1,1 @@
+lar[37495]=`<b>ἐπι·γυμνάζω</b>, exercer à, PHIL. <i>1, 467</i>.<br><b><i>Moy.</i></b> s’exercer à, prendre pour sujet d’exercice, HPC. <i>376, 33</i>.`

@@ -1,0 +1,1 @@
+lar[53991]=`<b>κατ·ευτονέω-ῶ :<br>      1</b> avoir du ressort, être résistant, HPC. <i>Ep. p. 1282</i> ; PHIL. BYZ. <i>Bel. 71</i>.<br><b>      2</b> fléchir <i>ou</i> céder aisément par ressort, HÉRON.`

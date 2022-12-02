@@ -1,0 +1,1 @@
+lar[77494]=`<b>παχύ·ρριν</b>, <i>gén</i>. <b>-ρινος (ὁ, ἡ)</b> <font color="purple">[ᾰῑν]</font> au gros nez, POLÉM. <i>Physiogn. p. 287</i>.<p><b>Étym</b>. π. ῥίν.`

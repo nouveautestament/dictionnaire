@@ -1,0 +1,1 @@
+lar[85590]=`<b>προσ·ενεχυράζω</b> <font color="purple">[ῠ]</font> exiger en outre une garantie, un gage de (qqn), <i>acc</i>. DÉM. <i>610, 17</i>.`

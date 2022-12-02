@@ -1,0 +1,1 @@
+lar[29348]=`<i>adv</i>., à titre de compatriote, SOPH. <i>O.R. 1225</i>.<p><b>Étym</b>. ἐγγενής.`

@@ -1,0 +1,1 @@
+lar[100057]=`<font color="purple">[ᾰ]</font> multiplier par trois, tripler, DAMASC.<p><b>Étym</b>. <i>Wolf An. t. 3, p. 230</i>.`

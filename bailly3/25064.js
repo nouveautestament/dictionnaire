@@ -1,0 +1,1 @@
+lar[25064]=`<b>δια·μιστύλλω</b> (<i>seul. ao. 3 sg</i>. διεμίστυλλε) couper en menus morceaux, HDT. <i>1, 132</i>.`

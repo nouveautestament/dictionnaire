@@ -1,0 +1,1 @@
+lar[90103]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. Σίγειον Q. SM. <i>7, 562, etc</i>.`

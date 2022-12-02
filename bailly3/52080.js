@@ -1,0 +1,1 @@
+lar[52080]=`<b>ου (τὸ)</b> <font color="purple">[τᾰ]</font> κάρυον, NIC. <i>Al. 269, ou abs. au pl</i>. τὰ κάστανα, MNÉSITH. <i>et</i> DIPH. (ATH. <i>54b</i>) ; GAL. <i>6, 357,</i> châtaigne.<p><b>Étym</b>. <i>cf</i>. καστάνιον.`

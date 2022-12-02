@@ -1,0 +1,1 @@
+lar[10603]=`<b>ἀντι·χορεύω</b>, danser en accord avec, <i>dat</i>. NONN. <i>D. 22, 44</i> ; SYN. <i>Hymn. 4, 159</i>.`

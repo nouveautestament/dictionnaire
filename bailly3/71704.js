@@ -1,0 +1,1 @@
+lar[71704]=`<b>ὁμο·σύζυξ, υγος</b> <font color="purple">[ῠγ]</font> (ὁ, ἡ) attelé ensemble au même joug, PHILOX. (ATH. <i>147e</i>).<p><b>Étym</b>. ὁμ. σύζυξ.`

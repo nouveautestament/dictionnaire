@@ -1,0 +1,1 @@
+lar[40160]=`<b>ου (ὁ)</b> Ératyllos, <i>h</i>. HPC. <i>Epid. 7, 105</i>.`

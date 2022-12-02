@@ -1,0 +1,1 @@
+lar[2078]=`<b>ἀ·θόλωτος, ος, ον</b>, non troublé, limpide (eau, HÉS. <i>O. 593</i> ; air, LUC. <i>Trag. 62, etc</i>.).<p><b>Étym</b>. ἀ, θολόω.`

@@ -1,0 +1,1 @@
+lar[15142]=`<b>ας (ἡ)</b> équilibre (d’esprit), quiétude, DL. <i>9, 74</i> ; SEXT. <i>42, 16 et 18 ; 361, 22 Bkk</i>.<p><b>Étym</b>. *ἄρρεπτος, <i>de</i> ἀ, ῥέπω.`

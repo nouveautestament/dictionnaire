@@ -1,0 +1,1 @@
+lar[40805]=`<b>ου (ὁ)</b> Érykios, <i>n. de deux poètes de l’Anthologie,</i> ANTH. <i>7, 230 et 397</i>.`

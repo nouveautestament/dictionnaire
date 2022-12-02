@@ -1,0 +1,1 @@
+lar[76466]=`<b>παρα·χλιαίνω</b>, faire chauffer légèrement, réchauffer doucement, HPC. <i>574, 17 ; 660, 9 ; 672, 1</i>.`

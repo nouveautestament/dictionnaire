@@ -1,0 +1,1 @@
+lar[10513]=`<b>ἀντί·τολμος, ος, ον</b>, qui résiste hardiment, ESCHL. <i>Eum. 553</i>.<p><b>Étym</b>. ἀ. τόλμα.`

@@ -1,0 +1,1 @@
+lar[83379]=`<i>adv</i>., en tombant en avant, la tête la première, NONN. <i>Jo. 4, 23</i>.<p><b>Étym</b>. πρηνής, -δον.`

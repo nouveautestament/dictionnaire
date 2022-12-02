@@ -1,0 +1,1 @@
+lar[103071]=`<b>ὑπο·γενειάσκω</b> (<i>seul. prés</i>.) commencer à avoir de la barbe, HDN <i>p. 444 Piers</i>.`

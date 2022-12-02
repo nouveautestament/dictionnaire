@@ -1,0 +1,1 @@
+lar[99776]=`<i>crase att. et poét. p</i>. τὸ ἔπος, ESCHL. <i>Ag. 268, etc</i>.`

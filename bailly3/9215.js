@@ -1,0 +1,1 @@
+lar[9215]=`<b>ἀν·οικονόμητος, ος, ον :<br>      1</b> qui n’est pas bien administré <i>ou</i> ordonné, mal arrangé, MACH. (ATH. <i>341b</i>) ; LGN <i>33, 5</i>.<br><b>      2</b> qui administre mal, PLUT. <i>M. 517e ;</i> A. GELL. <i>12, 12, 4</i>.<p><b>Étym</b>. ἀν-, οἰκονομέω.`

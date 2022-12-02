@@ -1,0 +1,1 @@
+lar[79580]=`<i>adv</i>., en cercle, PROCL. <i>Hyp. p. 78, 31 Halm</i>.<p><b>Étym</b>. περιφερής.`

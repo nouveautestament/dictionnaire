@@ -1,0 +1,1 @@
+lar[91834]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> semence, NIC. <i>Th. 649, Al. 330</i>.<p>➳ <i>Dat. pl. épq</i>. σπεράδεσσιν, NIC. <i>Al. 134</i>.<p><b>Étym</b>. σπείρω.`

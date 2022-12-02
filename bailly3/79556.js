@@ -1,0 +1,1 @@
+lar[79556]=`<b>περι·τυλόομαι-οῦμαι</b>, devenir calleux <i>ou</i> dur tout autour, CASS. <i>Probl. 13, p. 337, 10</i>.`

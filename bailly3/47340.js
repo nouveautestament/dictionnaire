@@ -1,0 +1,1 @@
+lar[47340]=`<b>ωνος (ὁ)</b> Thèrôn, <i>roi d’Agrigente,</i> PD. <i>O. 2, titre, etc</i>.`

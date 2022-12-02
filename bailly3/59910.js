@@ -1,0 +1,1 @@
+lar[59910]=`<b>λασανο·φόρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui porte la chaise percée, PLUT. <i>M. 182c</i>.<p><b>Étym</b>. λάσανον, φέρω.`

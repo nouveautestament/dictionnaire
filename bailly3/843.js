@@ -1,0 +1,1 @@
+lar[843]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de l’assemblée, IL. <i>2, 264</i>.<p><b>Étym</b>. ἀγορή, -θεν.`

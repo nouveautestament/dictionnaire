@@ -1,0 +1,1 @@
+lar[104276]=`<b>ῶν (αἱ)</b> Hysies :<br><b>      1</b> <i>v. de Béotie (auj</i>. Erythrés) HDT. <i>6, 108 ; 9, 15 et 25</i> ; THC. <i>3, 24</i> ; EUR. <i>Bacch. 751, etc.</i><br><b>      2</b> <i>lieu d’Argolide,</i> THC. <i>5, 83</i>.`

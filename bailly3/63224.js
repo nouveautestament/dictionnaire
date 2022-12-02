@@ -1,0 +1,1 @@
+lar[63224]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> glaïeul, <i>plante,</i> DIOSC. <i>4, 20</i>.`

@@ -1,0 +1,1 @@
+lar[12236]=`<i>vb. de</i> ἀποδείκνυμι PLAT. <i>Phædr. 245b ;</i> LUC. <i>V. auct. 7</i>.`

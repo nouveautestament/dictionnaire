@@ -1,0 +1,1 @@
+lar[58484]=`<b>α, ον</b>, qui favorise la conception, HPC. <i>586, 47, etc</i>.<p><b>Étym</b>. κυέω.`

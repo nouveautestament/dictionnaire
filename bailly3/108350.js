@@ -1,0 +1,1 @@
+lar[108350]=`<b>εως (ἡ)</b> inflammation de la cornée qui se gonfle de façon que la prunelle paraît renfoncée, GAL. <i>19, 436</i> ; P. ÉG. <i>3, 22</i>.<p><b>Étym</b>. χήμη.`

@@ -1,0 +1,1 @@
+lar[40598]=`<b>Ἑρμ·ηρακλῆς, έους (ὁ)</b> tête <i>ou</i> buste d’Hèraklès en forme d’Hermès, CIC. <i>Att. 1, 10</i>.<p><b>Étym</b>. Ἑρμῆς, Ἡρακλῆς.`

@@ -1,0 +1,1 @@
+lar[105005]=`tenir au râtelier <i>ou</i> à l’écurie, HLD. <i>7, 29</i>.<p><b>Étym</b>. φάτνη.`

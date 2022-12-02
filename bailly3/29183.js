@@ -1,0 +1,1 @@
+lar[29183]=`<b>δωρο·κοπέω-ῶ</b>, chercher à corrompre par des présents, SPT. <i>3Macc. 4, 19</i> ; AQU. <i>Ezech. 16, 33 (impf</i>. ἐδωροκόπεις) ; SPT. <i>Eccl. 35, 11</i>.<p><b>Étym</b>. δῶρον, κόπτω.`

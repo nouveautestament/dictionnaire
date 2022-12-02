@@ -1,0 +1,1 @@
+lar[107768]=`<b>χαμαι·κοίτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui couche <i>ou</i> dort à terre, SOPH. <i>Tr. 1166</i>.<p><b>Étym</b>. χ. κοιτάω.`

@@ -1,0 +1,1 @@
+lar[18318]=`<b>ἀ·φύρτως</b>, <i>adv</i>., sans confusion, N. DAM.<p><b>Étym</b>. ἀ, φύρω.`

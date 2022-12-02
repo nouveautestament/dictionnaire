@@ -1,0 +1,1 @@
+lar[22563]=`<b>ος, ον</b>, de Gracchus, des Gracques, APP. <i>Civ. 1, 27 et 34</i>.<p><b>Étym</b>. Γράκχος.`

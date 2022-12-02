@@ -1,0 +1,1 @@
+lar[15270]=`<b>ου</b>, <i>voc</i>. <b>α (ὁ)</b> Artasyras, <i>Perse,</i> PLUT. <i>Artax. 12</i>.`

@@ -1,0 +1,1 @@
+lar[59047]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> habitant de Kyphos, LYC. <i>897</i>.<p><b>Étym</b>. Κύφος.`

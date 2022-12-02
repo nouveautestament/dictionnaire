@@ -1,0 +1,1 @@
+lar[97115]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> loisir, CHRYS.<p><b>Étym</b>. σχολάζω.`

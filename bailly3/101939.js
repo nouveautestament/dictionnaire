@@ -1,0 +1,1 @@
+lar[101939]=`<b>ὑπ·αναβλέπω</b> <font color="purple">[ῠᾰν]</font> commencer à entrevoir, EL. <i>N.A. 3, 25</i>.`

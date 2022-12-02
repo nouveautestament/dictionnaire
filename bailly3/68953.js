@@ -1,0 +1,1 @@
+lar[68953]=`<b>ή, όν</b>, qui observe les lois, HIÉROCL. <i>C. aur. p. 440 Mullach</i>.`

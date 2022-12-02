@@ -1,0 +1,1 @@
+lar[107267]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> recherche <i>ou</i> dissertation sur les choses de la nature, ARSTT. <i>Sens. 4, 24</i> ; PLUT. <i>Per. 4, 8, M. 420b et e, 1092b, 1114c ; au pl</i>. D. PHAL. <i>§ 231</i> ; LGN <i>12, 5</i>.<p><b>Étym</b>. φυσιολόγος.`

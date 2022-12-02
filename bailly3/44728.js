@@ -1,0 +1,1 @@
+lar[44728]=`<b>α, ον</b>, qui réside dans une zone limitée, <i>p. opp. à</i> ἄζωνος, SYN.<p><b>Étym</b>. ζώνη.`

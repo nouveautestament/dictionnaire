@@ -1,0 +1,1 @@
+lar[105843]=`<b>Φιλο·κλέων, ωνος (ὁ)</b> <font color="purple">[ῐ]</font> Philokléôn, <i>h</i>. AR. <i>Vesp. 133, 166, 1466</i>.<p><b>Étym</b>. <i>cf</i>. Φιλοκλῆς.`

@@ -1,0 +1,1 @@
+lar[42424]=`<i>adv</i>., avec calme, A.RH. <i>2, 861</i>.<p><b>Étym</b>. εὔκηλος¹.`

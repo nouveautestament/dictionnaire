@@ -1,0 +1,1 @@
+lar[90417]=`<b>ου (ὁ)</b> <font color="purple">[ῐῑ]</font> <i>c</i>. Σινωπεύς, ANTH. <i>11, 158</i>.`

@@ -1,0 +1,1 @@
+lar[70943]=`<b>ὀλεσ·ήνωρ</b>, <i>gén</i>. <b>ορος (ὁ, ἡ)</b> qui perd les hommes, THGN. <i>399</i> ; NONN. <i>D. 28, 273</i>.<p><b>Étym</b>. ὄλλυμι, ἀνήρ.`

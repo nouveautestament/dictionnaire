@@ -1,0 +1,1 @@
+lar[2933]=`<b>ωνος</b> <i>ou</i> <b>ονος (ὁ)</b> Æsôn :<br><b>   I</b> <i>n. d’h.</i> :<br><b>      1</b> <i>père de Jason,</i> OD. <i>11, 259, etc.</i><br><b>      2</b> <i>autre,</i> THC. <i>2, 40</i>.<br><b>   II</b> <i>fl. de Macédoine,</i> PLUT. <i>Æmil. 16</i>.<p>➳ <i>Dans les inscr. att</i>. Αἵσων, CIA. <i>1, 239, 35 (441 av. J.-C.) etc., v. Meisterh. p. 66, 2</i>.`

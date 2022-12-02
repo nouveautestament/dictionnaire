@@ -1,0 +1,1 @@
+lar[105562]=`<b>φιλεργέω-ῶ</b> <font color="purple">[ῐ]</font> aimer le travail, être laborieux <i>ou</i> industrieux, DH. <i>5, 66</i> ; PLUT. <i>M. 13a ; en parlant de l’araignée,</i> EL. <i>N.A. 1, 21</i>.<p><b>Étym</b>. φιλεργός.`

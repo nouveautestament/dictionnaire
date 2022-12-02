@@ -1,0 +1,1 @@
+lar[7837]=`<b>Ἄν·αυρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> l’Anauros, <i>fl. de Thessalie,</i> EUR. <i>H.f. 390</i> ; CALL. <i>Dian. 101, Del. 103</i>.<br><b>      2</b> <i>p. ext</i>. fleuve grossi par les pluies, torrent, ANACR. <i>29, 4</i> ; NIC. <i>Al. 235</i>.`

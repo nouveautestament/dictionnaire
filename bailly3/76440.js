@@ -1,0 +1,1 @@
+lar[76440]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> action de veiller auprès <i>ou</i> sur, DS. <i>17, 71 ; d’où</i> garde, troupe de garde, POL. <i>2, 58, 1</i>.<br><b>      2</b> action d’observer, HPC. <i>1278, 54</i>.<p><b>Étym</b>. παραφυλάσσω.`

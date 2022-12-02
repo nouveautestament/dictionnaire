@@ -1,0 +1,1 @@
+lar[37372]=`<b>ἐπίβοιον θῦμα (τὸ)</b> sacrifice d’une brebis après celui d’un bœuf, PHILOCH. <i>32</i> (HARP.).<p><b>Étym</b>. ἐπί, βοῦς.`

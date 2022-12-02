@@ -1,0 +1,1 @@
+lar[105172]=`<b>ῆς (ἡ) :<br>      1</b> ce qu’on apporte en mariage, dot, HDT. <i>1, 93</i> ; ESCHL. <i>Suppl. 979</i> ; EUR. <i>I.A. 47 ; au pl</i>. EUR. <i>Or. 1662, Med. 956</i> ; XÉN. <i>Cyr. 8, 5, 19</i> ; ESCHN. <i>32, 22</i> ; PLUT. <i>Sol. 20</i>.<br><b>      2</b> produit, rapport, EUR. <i>Ion 298</i>.<p><b>Étym</b>. φέρω.`

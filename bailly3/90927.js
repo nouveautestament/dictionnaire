@@ -1,0 +1,1 @@
+lar[90927]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> éclat de bois, copeau aigu, écharde, <i>fig</i>. LUC. <i>Hes. 5</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

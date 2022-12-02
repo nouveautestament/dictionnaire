@@ -1,0 +1,1 @@
+lar[85714]=`<b>προσ·επιρρώννυμι</b>, donner de nouvelles forces à, <i>acc</i>. JOS. <i>B.J. 1, 6, 9 ; au pass</i>. GAL. <i>4, 80, 3</i>.`

@@ -1,0 +1,1 @@
+lar[75511]=`<b>ή, όν</b>, qui marque mal <i>ou</i> à tort une disjonction, DYSC. <i>(Bkk. p. 485, 18).</i><p><b>Étym</b>. παραδιαζεύγνυμι.`

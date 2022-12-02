@@ -1,0 +1,1 @@
+lar[102110]=`<b>ὑπ·εκθέω</b>, s’échapper en courant, s’enfuir à la hâte <i>ou</i> secrètement, EMPÉD. <i>363 Mullach</i> ; PLUT. <i>Pomp. 8</i>.`

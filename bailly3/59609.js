@@ -1,0 +1,1 @@
+lar[59609]=`<b>ης, ες</b>, crevassé, <i>ou p.-ê</i>. propre à être creusé, GEOP. <i>3, 3, 11</i>.<p><b>Étym</b>. λάκκος, -ωδης.`

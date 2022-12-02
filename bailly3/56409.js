@@ -1,0 +1,1 @@
+lar[56409]=`<b>άδος</b> <font color="purple">[ᾰδ]</font><br><b>      1</b> <i>adj. f</i>. creux, enfoncé, NONN. <i>D. 26, 112, etc.</i> ; TRIPHIOD. <i>194</i> ; TH. <i>Sign. 4, 2</i>.<br><b>      2</b> <i>subst</i>. ἡ κ. creux, cavité, Ps.-PHOCYL. <i>173 ; particul</i>. vallon, ravin, DS. <i>3, 15</i> ; SPT. <i>Jos. 8, 11, etc</i>.<p><b>Étym</b>. κοῖλος.`

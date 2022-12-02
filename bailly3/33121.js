@@ -1,0 +1,1 @@
+lar[33121]=`<b>ἐμ·βοθρεύω</b>, creuser une fosse, creuser, PHILSTR. <i>67</i>.<p><b>Étym</b>. ἐν, β.`

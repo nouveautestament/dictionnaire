@@ -1,0 +1,1 @@
+lar[70508]=`<b>ων (τὰ)</b> <i>s.-e</i>. ἱερά, libations de vin des jeunes Athéniens à Hèraklès le jour où ils étaient admis parmi les éphèbes, EUP. <i>2-1, 473 Meineke</i>.<p><b>Étym</b>. οἰνίζω.`

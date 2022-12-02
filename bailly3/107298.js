@@ -1,0 +1,1 @@
+lar[107298]=`<b>άδος (ἡ)</b> <font color="purple">[ῠᾰδ]</font> rejeton que l’on replante, <i>particul</i>. rejeton d’olivier, PLUT. <i>M. 411d</i>.<p><b>Étym</b>. φυτόν.`

@@ -1,0 +1,1 @@
+lar[106596]=`<b>ικος</b> <font color="purple">[ῑκ]</font> <i>adj</i>. :<br><b>1</b> phénicien, <i>OD</i>. 13.372, 14.288, 15.419 ; HDT. 1.1, <i>etc.</i> ; THC. 1.100, <i>etc.</i> ; XÉN. <i>Cyr</i>. 1.1.4, <i>etc.</i><br><b>2</b> carthaginois, HDT. 2.32, 4.197, 7.165 ; PLAT. <i>Ep</i>. 353e, <i>etc</i>.`

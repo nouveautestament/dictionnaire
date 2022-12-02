@@ -1,0 +1,1 @@
+lar[8118]=`<b>ῆτος (ἡ)</b> <i>mieux que</i> <b>ἀνδρότης, ητος (ἡ)</b> <i>propr</i>. qualité d’être homme fait, <i>d’où</i> force de l’âge, virilité, bravoure, IL. <i>16, 857 ; 22, 363 ; 24, 6</i>.<p>➳ <i>seul. acc</i>. -ῆτα <font color="purple">[ᾰν <i>par nécessité métrique</i>]</font> <i>cf</i>. ἀδροτής.<p><b>Étym</b>. ἀνήρ.`

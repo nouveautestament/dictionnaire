@@ -1,0 +1,1 @@
+lar[26098]=`<b>δι·ειλύω</b>, dérouler, déployer, <i>d’où au pass. (part. ao. fém</i>. διειλυσθεῖσα) se glisser hors de, <i>gén</i>. A.RH. <i>4, 35</i>.`

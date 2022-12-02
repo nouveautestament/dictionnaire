@@ -1,0 +1,1 @@
+lar[88040]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πύρεθρον, DIOSC. <i>3, 86 dout</i>.`

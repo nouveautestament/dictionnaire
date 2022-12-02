@@ -1,0 +1,1 @@
+lar[81138]=`<b>πλουτό·χθων, ονος (ὁ, ἡ)</b> né d’une terre riche <i>ou</i> féconde, ESCHL. <i>Eum. 947</i>.<p><b>Étym</b>. πλ. χθών.`

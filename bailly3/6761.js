@@ -1,0 +1,1 @@
+lar[6761]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> fermentation, TH. <i>Ign. 18</i>.`

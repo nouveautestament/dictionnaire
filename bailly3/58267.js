@@ -1,0 +1,1 @@
+lar[58267]=`<b>ης, ες</b>, qui ressemble à une bête, brutal, stupide, SPT. <i>Ps. 72, 22</i>.<p>•<i> Cp</i>. -έστερος, HSCH.<p><b>Étym</b>. κτῆνος, -ωδης.`

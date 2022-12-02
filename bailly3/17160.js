@@ -1,0 +1,1 @@
+lar[17160]=`<b>αὐθ·υπόστατος, ος, ον</b> <font color="purple">[τᾰ]</font> qui subsiste par soi-même, JAMBL. (STOB. <i>Ecl. 2, 400).</i><p><b>Étym</b>. αὐτός, ὑφίσταμαι.`

@@ -1,0 +1,1 @@
+lar[85086]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. προσαγωγεύς 2, PLUT. <i>Dio. 28</i>.`

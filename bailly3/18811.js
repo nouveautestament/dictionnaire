@@ -1,0 +1,1 @@
+lar[18811]=`<b>βαθυ·σπῆλυγξ, υγγος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> aux profondes cavernes, NONN. <i>D. 40, 260</i>.`

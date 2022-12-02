@@ -1,0 +1,1 @@
+lar[29027]=`<b>ας (ἡ)</b> mauvaise couleur, GAL. <i>7, 131</i> ; NYSS. <i>1, 518d</i>.<p><b>Étym</b>. δύσχροος.`

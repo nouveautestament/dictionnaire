@@ -1,0 +1,1 @@
+lar[14578]=`<b>ἀρι·δείκετος, ος, ον</b> <font color="purple">[ᾰῐ]</font> remarquable, OD. <i>11, 540</i> ; HÉS. <i>Th. 385</i> ; ἀ. ἀνδρῶν, IL. <i>11, 248,</i> remarquable entre les hommes.<p><b>Étym</b>. ἀρι-, δείκνυμι.`

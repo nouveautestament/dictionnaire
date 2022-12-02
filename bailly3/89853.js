@@ -1,0 +1,1 @@
+lar[89853]=`<b>ιδος (ἡ)</b> <i>sorte de</i> chicorée, EPICH. <i>fr. 113 Ahrens</i> ; DIOSC. <i>2, 160</i> ; GEOP. <i>12, 28</i> ; ANTH. <i>11, 413</i>.<p>➳ <i>Plur</i>. σέρεις, DIOG. CYN. <i>Ep. 32</i>.`

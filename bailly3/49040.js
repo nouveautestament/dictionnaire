@@ -1,0 +1,1 @@
+lar[49040]=`<b>ης (ἡ)</b> <i>seul. plur</i>. ἶναι, fibres des plantes, M. RUBR. <i>65</i>.<p><b>Étym</b>. ἴς.`

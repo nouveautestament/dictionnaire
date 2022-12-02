@@ -1,0 +1,1 @@
+lar[55135]=`<b>ή, όν</b>, plein de sollicitude, PLUT. <i>M. 55b ;</i> τὸ κηδεμονικόν, POL. <i>32, 13, 12</i> ; MUSON. (STOB. <i>Fl. 67, 20</i>) sollicitude.<p><b>Étym</b>. κηδεμών.`

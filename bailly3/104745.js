@@ -1,0 +1,1 @@
+lar[104745]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> cruauté digne de Phalaris, CIC. <i>Att. 7, 12</i>.<p><b>Étym</b>. Φάλαρις.`

@@ -1,0 +1,1 @@
+lar[61646]=`<b>ατος (τὸ)</b> attitude d’un corps voûté, courbé en avant, HPC. <i>815g, 863h</i>.<p><b>Étym</b>. λορδόω.`

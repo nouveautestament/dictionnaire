@@ -1,0 +1,1 @@
+lar[55131]=`<b>ας (ἡ) :<br>      1</b> soin qu’on prend d’un mort, funérailles, A.RH. <i>2, 836</i> ; DH. <i>3, 21, etc.</i><br><b>      2</b> parenté, alliance, EUR. <i>Suppl. 134</i> ; XÉN. <i>Mem. 2, 6, 36 ; p. opp. à la parenté</i> πρὸς αἵματος, ARSTT. <i>Pol. 2, 3, 7 ; p. anal. en parl. d’États,</i> ARSTT. <i>Pol. 3, 9, 13, etc</i>.<p><b>Étym</b>. κηδεύω.`

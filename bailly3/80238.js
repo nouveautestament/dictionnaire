@@ -1,0 +1,1 @@
+lar[80238]=`<b>οῦ (ὁ)</b> <font color="purple">[πῐ]</font> singerie, <i>particul</i>. cajolerie, ruse, AR. <i>Eq. 887</i> ; M. ANT. <i>9, 37</i>.<p><b>Étym</b>. πιθηκίζω.`

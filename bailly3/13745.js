@@ -1,0 +1,1 @@
+lar[13745]=`<b>ἀπο·φοιτάω-ῶ :<br>      1</b> cesser de fréquenter : παρά τινος, PLAT. <i>Gorg. 489d</i>, cesser de fréquenter un maître ; πρός τινα, DIN. (SUID. <i>v°</i> χρυσοχοεῖν), quitter un maître pour en fréquenter un autre.<br><b>      2</b> <i>abs</i>. cesser de fréquenter l’école, LYS. (EUST. <i>1167, 23</i>).`

@@ -1,0 +1,1 @@
+lar[84274]=`<b>προ·έτειος, ος, ον</b>, de l’année précédente, ARSTT. <i>Probl. 20, 14, 2</i>.<p><b>Étym</b>. π. ἔτος.`

@@ -1,0 +1,1 @@
+lar[29691]=`<b>ἔγ·κνισμα, ατος (τὸ)</b> morceau de viande grillée, <i>mot argien,</i> PLUT. <i>M. 296f</i>.<p><b>Étym</b>. ἐν, κνισάω.`

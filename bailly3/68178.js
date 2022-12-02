@@ -1,0 +1,1 @@
+lar[68178]=`<b>νεό·κροτος, ος, ον</b>, accueilli par de nouveaux applaudissements, BACCHYL. <i>5, 48</i>.<p><b>Étym</b>. ν. κροτέω.`

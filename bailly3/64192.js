@@ -1,0 +1,1 @@
+lar[64192]=`<b>ου (τὸ)</b> amusement, jouet, <i>au plur</i>. IL. <i>13, 233 ; 17, 255 ; 18, 179</i>.<p><b>Étym</b>. μέλπω.`

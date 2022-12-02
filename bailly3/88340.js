@@ -1,0 +1,1 @@
+lar[88340]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. de l’épine dorsale, HPC. <i>129, 440</i> ; ARSTT. <i>P.A. 2, 6, 3, etc</i>.<p><b>Étym</b>. ῥάχις.`

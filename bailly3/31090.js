@@ -1,0 +1,1 @@
+lar[31090]=`<b>ή, όν</b> <font color="purple">[βῐ]</font> propre à accomplir, à exécuter, PROCL. <i>Ptol. 219, 1</i>.<p><b>Étym</b>. ἐκβιβάζω.`

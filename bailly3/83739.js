@@ -1,0 +1,1 @@
+lar[83739]=`<b>προ·αφέψω</b>, faire cuire d’avance <i>ou</i> auparavant, DIOSC. <i>1, 146</i>.`

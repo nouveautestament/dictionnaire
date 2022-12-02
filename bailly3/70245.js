@@ -1,0 +1,1 @@
+lar[70245]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱκ]</font> maniement du gouvernail, <i>d’où, fig</i>. gouvernement, DIODOT. (DL. <i>9, 12).</i><p><b>Étym</b>. οἰακίζω.`

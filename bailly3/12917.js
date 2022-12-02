@@ -1,0 +1,1 @@
+lar[12917]=`<b>ἀπο·μυθέομαι-οῦμαι</b> <font color="purple">[ῡ]</font><br><b>      1</b> déconseiller : τινί τι, IL. <i>9, 109,</i> qqe ch. à qqn.<br><b>      2</b> se justifier, STRATT. <i>(Bkk. 421, 14</i>).`

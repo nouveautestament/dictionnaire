@@ -1,0 +1,1 @@
+lar[103123]=`<b>ὑπο·δειλιάω-ῶ :<br>      1 <i>intr.</i></b> être un peu effrayé, ESCHN. <i>26, 1</i>.<br><b>      2</b> s’effrayer un peu de, craindre un peu, <i>acc</i>. POL. <i>35, 3, 4</i>.`

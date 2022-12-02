@@ -1,0 +1,1 @@
+lar[25563]=`<b>δια·σμάω-ῶ</b> (<i>seul. part. prés. ion</i>. διασμέοντες) nettoyer, <i>particul</i>. rincer (des vases à boire) HDT. <i>2, 37</i>.`

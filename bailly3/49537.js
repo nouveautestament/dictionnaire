@@ -1,0 +1,1 @@
+lar[49537]=`<font color="purple">[ῑ̆ᾰ]</font> <i>adv</i>., en nombre égal, DYSC. <i>Synt.</i> ; THÉM. <i>367b</i>.`

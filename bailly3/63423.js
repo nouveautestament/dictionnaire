@@ -1,0 +1,1 @@
+lar[63423]=`<b>μεγαλο·ρρώξ, ῶγος (ὁ, ἡ)</b> qui porte de grosses baies, STR. <i>726</i>.<p><b>Étym</b>. μ. ῥώξ.`

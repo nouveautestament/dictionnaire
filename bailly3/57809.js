@@ -1,0 +1,1 @@
+lar[57809]=`précipiter, SPT. <i>2Macc. 6, 10 ; fig</i>. PLUT. <i>M. 5a</i>.<p><b>Étym</b>. κρημνός.`

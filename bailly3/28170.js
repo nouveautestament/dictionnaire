@@ -1,0 +1,1 @@
+lar[28170]=`<font color="purple">[ῠᾰν]</font> <i>adv</i>., de façon à pouvoir être difficilement rappelé à la santé, DIOSC. <i>Alex. 16</i>.<p><b>Étym</b>. δ. ἀνακαλέω.`

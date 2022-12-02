@@ -1,0 +1,1 @@
+lar[100622]=`<b>ίτιδος</b> <font color="purple">[ῐῑῐδ]</font> <i>adj. f</i>. chevelu ; <i>subst</i>. ἡ τρ. (<i>s.-e</i>. λίθος) DIOSC. <i>5, 123,</i> sorte d’alun.<p><b>Étym</b>. θρίξ.`

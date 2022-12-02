@@ -1,0 +1,1 @@
+lar[87427]=`<i>ou</i> <b>πτυελισμός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> salivation continue, HPC. <i>Progn. 42, 82d, etc</i>.<p><b>Étym</b>. πτυαλίζω.`

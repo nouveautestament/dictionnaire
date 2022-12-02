@@ -1,0 +1,1 @@
+lar[80245]=`<b>πιθηκο·φόρος, ος, ον</b> <font color="purple">[ῐ]</font> avec une figure de singe <i>ou</i> affublé d’une peau de singe, LUC. <i>Pisc. 47</i>.<p><b>Étym</b>. π. φέρω.`

@@ -1,0 +1,1 @@
+lar[2507]=`<b>ατος (τὸ) :<br>      1</b> mauvais traitement, torture, ESCHL. <i>Pr. 989</i> ; LYS. <i>105, 29</i>.<br><b>      2</b> corps mutilé, EUR. <i>Ph. 1529</i>.<p><b>Étym</b>. αἰκίζω.`

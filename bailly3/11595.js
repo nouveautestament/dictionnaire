@@ -1,0 +1,1 @@
+lar[11595]=`<b>ἀπειρο·μάχας, α</b> <font color="purple">[ᾰᾰᾰ]</font> <i>adj. m</i>. sans expérience des combats, PD. <i>N. 4, 30</i>.<p><b>Étym</b>. ἄ. μάχη.`

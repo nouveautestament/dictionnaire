@@ -1,0 +1,1 @@
+lar[58523]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> spatule pour mélanger, <i>fig</i>. brouillon, AR. <i>Pax 654</i>.<p><b>Étym</b>. κυκάω.`

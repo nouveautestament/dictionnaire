@@ -1,0 +1,1 @@
+lar[102117]=`<b>ὑπ·έκκειμαι</b>, être déposé secrètement en réserve, être mis en lieu sûr, HDT. <i>8, 41 ; 9, 73</i> ; THC. <i>1, 137 ; 8, 31 ; avec mouv</i>. être transporté secrètement pour être déposé, <i>avec</i> ἐς <i>et l’acc</i>. HDT. <i>8, 60</i>.`

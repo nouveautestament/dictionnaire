@@ -1,0 +1,1 @@
+lar[109137]=`<b>χρυσ·ήρης, ης, ες</b> <font color="purple">[ῡ]</font> incrusté d’or, EUR. <i>Ion 157, 1154 ; I.T. 129</i>.<p><b>Étym</b>. χρ. *ἄρω.`

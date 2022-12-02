@@ -1,0 +1,1 @@
+lar[25667]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> crevasse, fente, HPC. <i>1006c</i> (<i>sel. d’autres</i> διάστασις).<p><b>Étym</b>. διασφάττω.`

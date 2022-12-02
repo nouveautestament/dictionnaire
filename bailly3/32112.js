@@ -1,0 +1,1 @@
+lar[32112]=`<b>ἐκ·ταφρεύω</b>, creuser des fossés, JOS. <i>B.J. 5, 2, 2</i> ; APP. <i>1, 288, 97 Schweigh</i>.`

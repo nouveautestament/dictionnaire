@@ -1,0 +1,1 @@
+lar[58399]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> maison de jeu, PLUT. <i>M. 621b</i>.<p><b>Étym</b>. κυβεύω.`

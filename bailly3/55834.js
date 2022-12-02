@@ -1,0 +1,1 @@
+lar[55834]=`<b>Κλειν·αρέτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Kleinarétè, <i>f</i>. AR. <i>Eccl. 41</i>.<p>➳ <i>Dor</i>. -αρέτα, ANTH. <i>7, 711</i>.<p><b>Étym</b>. κλ. ἀρετή.`

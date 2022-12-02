@@ -1,0 +1,1 @@
+lar[36412]=`<b>ἐπ·άϊκλον, ου (τὸ)</b> ATH. <i>664e, et pl</i>. τὰ ἐπάϊκλα, PERSÆ. <i>fr. 454</i> (ATH. <i>140e</i>) <i>mot dor</i>. friandises de dessert.<p><b>Étym</b>. ἐπί, αἶκλον.`

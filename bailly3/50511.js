@@ -1,0 +1,1 @@
+lar[50511]=`<b>καθ·υποστιβίζω</b> <font color="purple">[τῐ]</font> peindre en vermillon, N. DAM. <i>20</i>.`

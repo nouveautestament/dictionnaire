@@ -1,0 +1,1 @@
+lar[78783]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> inclinaison, NYSS.`

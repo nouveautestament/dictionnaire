@@ -1,0 +1,1 @@
+lar[84037]=`<b>προ·έδω</b> (<i>seul. aux temps suiv. : inf. pf</i>. προεδηδοκέναι, ORIB. <i>p. 197 ; part. ao. pass</i>. προεδεσθείς, ARSTT. <i>Probl. 20, 34,</i> manger auparavant.`

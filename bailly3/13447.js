@@ -1,0 +1,1 @@
+lar[13447]=`<b>ἀπο·στιλβόω-ῶ</b>, rendre brillant, ANTH. <i>7, 339</i>.`

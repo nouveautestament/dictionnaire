@@ -1,0 +1,1 @@
+lar[104502]=`<b>Ὑψι·κράτης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Hypsikratès, <i>historien,</i> LUC. <i>Macr. 22</i>.<p><b>Étym</b>. ὕ. κράτος.`

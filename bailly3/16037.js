@@ -1,0 +1,1 @@
+lar[16037]=`<b>ἀσπιδ·αποβλής, ῆτος (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui jette <i>ou</i> a jeté loin de lui son bouclier, lâche, AR. <i>Vesp. 592</i>.<p><b>Étym</b>. ἀσπίς, ἀποβάλλω.`

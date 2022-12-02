@@ -1,0 +1,1 @@
+lar[108803]=`<b>ή, όν</b>, choriambique, HÉPH.<p><b>Étym</b>. χορίαμβος.`

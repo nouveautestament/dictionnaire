@@ -1,0 +1,1 @@
+lar[62208]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> μαγάς, LUC. <i>D. deor. 7, 4</i>.`

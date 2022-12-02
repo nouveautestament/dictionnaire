@@ -1,0 +1,1 @@
+lar[51196]=`<b>καλλι·πόταμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui forme un beau fleuve, EUR. <i>Ph. 645</i>.<p><b>Étym</b>. κ. ποταμός.`

@@ -1,0 +1,1 @@
+lar[46418]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> contemplation, PORPH. <i>Abst. 4, 6, p. 309</i>.<p><b>Étym</b>. θεάομαι.`

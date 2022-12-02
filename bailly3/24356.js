@@ -1,0 +1,1 @@
+lar[24356]=`<b>ου (τὸ)</b> = <i>lat</i>. dēnārius, denier, PLUT. <i>Cam. 12, Cic. 8, M. 900c ;</i> ARR. <i>Epict. 1, 4, 16 ; etc</i>.`

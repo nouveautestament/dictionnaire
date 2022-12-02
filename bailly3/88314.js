@@ -1,0 +1,1 @@
+lar[88314]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ῥάφανος, BATR. <i>53</i> ; HIPPIATR. <i>111, 10</i>.`

@@ -1,0 +1,1 @@
+lar[5383]=`<b>ου (ἡ)</b> Ambryssos (<i>auj</i>. Đístomo) <i>v. de Phocide,</i> THGN. <i>73</i>.`

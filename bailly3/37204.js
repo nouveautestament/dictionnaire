@@ -1,0 +1,1 @@
+lar[37204]=`<b>ἐπ·ευάζω</b> (<i>part. prés. fém</i>.) se réjouir au sujet de : τινί, ORPH. <i>H. 69, 6,</i> de qqe ch. ; <i>avec un acc. de pers</i>. ἐπ. τινά, ORPH. <i>H. 79, 9,</i> fêter qqn.`

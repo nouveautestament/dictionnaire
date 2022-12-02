@@ -1,0 +1,1 @@
+lar[91712]=`<b>ας (ἡ)</b> <font color="purple">[ᾰνᾰ]</font> manque <i>ou</i> insuffisance de frères <i>ou</i> de sœurs, PTOL. <i>Tetr. 3, p. 119</i> ; PROCL. <i>Ptol. p. 102a</i>.<p><b>Étym</b>. σπανάδελφος.`

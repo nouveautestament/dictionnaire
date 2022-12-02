@@ -1,0 +1,1 @@
+lar[70494]=`<b>ης (ἡ) :<br>      1</b> cep de vigne, HÉS. <i>O. 188, Sc. 292</i> ; EUR. <i>Bacch. 535, etc.</i><br><b>      2</b> vin, ANTH. <i>6, 334, etc</i>.<p>➳ <i>Dor</i>. οἴνα, EUR. <i>Bacch. 535</i> ; ANTH. <i>12, 49</i>.<p><b>Étym</b>. <i>cf</i>. οἶνος.`

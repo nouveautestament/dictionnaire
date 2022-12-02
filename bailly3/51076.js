@@ -1,0 +1,1 @@
+lar[51076]=`<b>ου (ὁ)</b> <font color="purple">[ᾰδ]</font> Kalliadès, <i>h</i>. HDT. <i>8, 51</i> ; PLAT. <i>1 Alc. 119a, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Καλλίας.`

@@ -1,0 +1,1 @@
+lar[58311]=`<font color="purple">[ᾰ]</font><br><b>      1</b> boire <i>ou</i> donner à boire avec le cyathe, ATH. <i>503c.</i><br><b>      2</b> puiser comme avec le cyathe, <i>en parl. des engins d’Archimède,</i> POL. <i>8, 8, 9</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. 2, ASCON. <i>ad Cic. Verr. 2, 1</i>.<p><b>Étym</b>. κύαθος.`

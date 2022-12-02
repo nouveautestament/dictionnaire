@@ -1,0 +1,1 @@
+lar[11224]=`<b>ἀπ·αμέρδω</b> <font color="darkgreen">(<i>ao</i>. ἀπήμερσα)</font> <font color="purple">[ᾰμ]</font> priver : τινά τινος, Q. SM. <i>4, 422,</i> qqn de qqe ch.`

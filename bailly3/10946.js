@@ -1,0 +1,1 @@
+lar[10946]=`<b>ἀξιό·σκεπτος, ος, ον</b>, digne de considération, XÉN. <i>Hell. 6, 1, 13</i>.<p><b>Étym</b>. ἄ. σκέπτομαι.`

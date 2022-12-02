@@ -1,0 +1,1 @@
+lar[15125]=`<b>ἀρρενο·πρεπής, ής, ές</b>, qui convient à des hommes, viril, A. QUINT. <i>p. 92, 7</i>.<p><b>Étym</b>. ἄ. πρέπω.`

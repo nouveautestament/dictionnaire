@@ -1,0 +1,1 @@
+lar[52095]=`<b>Καστωλοῦ πεδίον (τὸ)</b> plaine de Kastôlos, <i>près de Sardes,</i> XÉN. <i>An. 1, 1, 2, etc</i>.`

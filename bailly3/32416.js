@@ -1,0 +1,1 @@
+lar[32416]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> prodigue (<i>litt</i>. qui répand à profusion) <i>p. opp. à</i> περιεκτικός, LUC. <i>V. auct. 24</i>.<p><b>Étym</b>. ἐκχέω.`

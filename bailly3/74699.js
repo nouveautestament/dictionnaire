@@ -1,0 +1,1 @@
+lar[74699]=`<font color="purple">[ᾰχ]</font> <i>adv</i>., en luttant par tous les moyens, CLÉM. <i>1, 569a Migne</i>.`

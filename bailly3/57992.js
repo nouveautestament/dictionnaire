@@ -1,0 +1,1 @@
+lar[57992]=`<b>έως</b>, <i>adj. m</i>. du dème Kriôa, <i>de la tribu Antiokhide,</i> DÉM. <i>1042, 6</i>.`

@@ -1,0 +1,1 @@
+lar[106188]=`<b>φιλό·χλαινος, ος, ον</b> <font color="purple">[ῐ]</font> qui désire le manteau, <i>prix du combat,</i> NONN. <i>D. 37, 150 ; Jo. 19, 131</i>.<p><b>Étym</b>. φ. χλαῖνα.`

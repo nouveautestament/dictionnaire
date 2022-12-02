@@ -1,0 +1,1 @@
+lar[27178]=`<font color="purple">[ῐ]</font> (<i>seul. part. prés., nom. fém</i>. διχόωσα, ARAT. <i>605, 799 ; dat. masc</i>. διχόωντι, ARAT. <i>512 ; moy. prés. 3 pl. dor</i>. διχόωνται, ARAT. <i>856) c</i>. διχάζω.`

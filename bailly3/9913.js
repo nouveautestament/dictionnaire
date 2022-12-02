@@ -1,0 +1,1 @@
+lar[9913]=`<b>ἀντι·καλέω-ῶ</b> <font color="purple">[κᾰ]</font> inviter à son tour, XÉN. <i>Conv. 1, 15</i>.`

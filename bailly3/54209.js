@@ -1,0 +1,1 @@
+lar[54209]=`<b>κατ·οψοφαγέω-ῶ</b> <font color="purple">[φᾰ]</font> (<i>pf</i>. κατωψοφάγηκα ; <i>pl.q.pf. pass</i>. κατωψοφαγήμην) consumer en bonne chère, ESCHN. <i>13, 34</i> ; ATH. <i>186d</i>.`

@@ -1,0 +1,1 @@
+lar[63226]=`<b>(ὁ)</b> Makhætas, <i>h</i>. PLUT. <i>M. 178f</i>.`

@@ -1,0 +1,1 @@
+lar[32152]=`<b>ἐκ·τιθηνέομαι-οῦμαι</b> <font color="purple">[ῐ]</font> élever, nourrir, <i>fig</i>. PLUT. <i>M. 1070c</i>.`

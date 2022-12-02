@@ -1,0 +1,1 @@
+lar[70382]=`<b>ή, όν</b>, du maître de maison, du chef de famille, CIC. <i>Att. 12, 44, 2</i>.<p><b>Étym</b>. οἰκοδεσπότης.`

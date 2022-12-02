@@ -1,0 +1,1 @@
+lar[32859]=`<b>ἑλκε·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> à la tunique traînante, IL. <i>13, 685</i> ; HH. <i>Ap. 147</i>.<p><b>Étym</b>. ἕ. χιτών.`

@@ -1,0 +1,1 @@
+lar[51116]=`<b>καλλι·έλαιος, ος, ον</b>, qui produit de belles olives : GEOP. <i>9, 8, etc. ; subst</i>. ἡ κ. olivier cultivé, ARSTT. <i>Plant. 1, 6</i> ; NT. <i>Rom. 11, 24</i>.<p><b>Étym</b>. κ. ἐλαία.`

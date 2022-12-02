@@ -1,0 +1,1 @@
+lar[27597]=`<b>δορι·μήστωρ, ορος</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. passionné pour les combats (<i>litt</i>. pour la lance) EUR. <i>Andr. 1016</i>.<p><b>Étym</b>. δόρυ, μήδομαι.`

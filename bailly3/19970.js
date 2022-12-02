@@ -1,0 +1,1 @@
+lar[19970]=`<b>άδος (ἡ)</b> vieille femme de rien, MÉN. (SUID.).`

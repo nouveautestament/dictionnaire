@@ -1,0 +1,1 @@
+lar[102793]=`<b>εως (ἡ)</b> excroissance de chair, <i>d’où en gén</i>. gonflement, <i>fig. en parl. de l’orgueil,</i> CLÉM. <i>137</i>.<p><b>Étym</b>. ὑπερσαρκόω.`

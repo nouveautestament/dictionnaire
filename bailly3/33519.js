@@ -1,0 +1,1 @@
+lar[33519]=`<b>ἐμ·πνευματώδης, ης, ες</b> <font color="purple">[ᾰ]</font> qui donne des vents, DIOSC. <i>5, 10</i>.<p><b>Étym</b>. ἐν, πνεῦμα, -ωδης.`

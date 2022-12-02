@@ -1,0 +1,1 @@
+lar[52249]=`<b>κατ·αγοράζω</b> <font color="purple">[ᾰγ]</font> acheter au marché, acheter, DÉM. <i>908 fin</i> ; EPHIPP. (ATH. <i>359a</i>).`

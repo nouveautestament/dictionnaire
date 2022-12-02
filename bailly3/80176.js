@@ -1,0 +1,1 @@
+lar[80176]=`<b>όεσσα, όεν</b> <font color="purple">[ῑᾰ]</font> <i>c</i>. πιδακῖτις EUR. <i>Andr. 116</i>.`

@@ -1,0 +1,1 @@
+lar[100773]=`<b>τροχ·ηλάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. qui fait tourner les roues d’un char, <i>d’où</i> :<br><b>      1</b> conducteur d’un char, SOPH. <i>O.R. 806</i> ; EUR. <i>Ph. 39</i>.<br><b>      2</b> cheval attelé, SEXT. <i>M. 9, 228</i>.<p><b>Étym</b>. τροχός, ἐλαύνω.`

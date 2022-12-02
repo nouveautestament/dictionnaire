@@ -1,0 +1,1 @@
+lar[60778]=`<font color="purple">[ῠ]</font> enfler un style, écrire en un style ampoulé, STR. <i>602</i>.<p><b>Étym</b>. λήκυθος.`

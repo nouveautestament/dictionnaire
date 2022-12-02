@@ -1,0 +1,1 @@
+lar[6500]=`<font color="purple">[ᾰᾰ]</font> <i>poét</i>. en haut, <i>au sens de l’impér</i>. ἀνάσθητι, lève-toi (<i>cf</i>. ἄν 3) : ἀλλ' ἄνα, IL. <i>6, 331</i> ; OD. <i>18, 13,</i> allons ! relève-toi !.<p>➳ <i>La finale ne s’élide jamais,</i> IL. <i>5, 247</i> ; SOPH. <i>Aj. 194</i>.`

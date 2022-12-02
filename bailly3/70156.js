@@ -1,0 +1,1 @@
+lar[70156]=`<b>ίδος (ἡ)</b> (<i>s.-e</i>. γῆ) le territoire des Odryses, A. PL. <i>6</i>.<p><b>Étym</b>. Ὀδρύσαι.`

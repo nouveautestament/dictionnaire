@@ -1,0 +1,1 @@
+lar[86217]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> surnom, DL. <i>7, 108</i>.<p><b>Étym</b>. προσονομάζω.`

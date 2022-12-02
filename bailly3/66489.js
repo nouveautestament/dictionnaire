@@ -1,0 +1,1 @@
+lar[66489]=`<b>μον·εντρεχής, ής, ές</b>, qui n’est que fourberie, PHILOD. <i>De ira 1, p. 73</i>.<p><b>Étym</b>. μ. ἐντρεχής.`

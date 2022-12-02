@@ -1,0 +1,1 @@
+lar[101736]=`<b>Ὑλό·βιοι, ων (οἱ)</b> les habitants des bois, <i>litt</i>. « qui vivent dans les bois » <i>n. d’une tribu des Garmanes, dans l’Inde,</i> MÉGASTH. (STR. <i>713).</i><p><b>Étym</b>. ὕλη, βίος.`

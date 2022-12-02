@@ -1,0 +1,1 @@
+lar[8073]=`<b>ἀνδρο·κόμος, ου</b>, <i>adj. f</i>. qui prend soin de son époux, LUC. <i>1, 176 Reitz</i>.<p><b>Étym</b>. ἀνήρ, κομέω.`

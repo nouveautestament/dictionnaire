@@ -1,0 +1,1 @@
+lar[91326]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> dépouille d’un animal écorché, peau de bête, CALL. <i>fr. 142 dout</i>.<p><b>Étym</b>. <i>cf</i>. σκύλος.`

@@ -1,0 +1,1 @@
+lar[67704]=`<b>ητος (ἡ)</b> densité, SIMPL. <i>Arstt. Phys. 1, 18</i>.<p><b>Étym</b>. ναστός.`

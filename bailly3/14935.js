@@ -1,0 +1,1 @@
+lar[14935]=`<font color="darkgreen">(<i>impf</i>. ἥρμοττον)</font> <i>att. c</i>. ἁρμόζω PLAT. <i>Pol. 286d, etc. ; pass</i>. ἁρμόττομαι, PLAT. <i>Rsp. 349e, 591d, etc</i>.<p>➳ <i>Ion</i>. ἁρμόσσω, HPC. <i>3, 558 Littré</i>.`

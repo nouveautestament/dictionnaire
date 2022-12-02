@@ -1,0 +1,1 @@
+lar[55717]=`<b>ή, όν</b>, criard, ANTIPH. (<i>Com. fr. 3, 136).</i><p><b>Étym</b>. <i>vb. de</i> κλάζω.`

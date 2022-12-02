@@ -1,0 +1,1 @@
+lar[7851]=`<font color="purple">[δᾰ]</font> <i>adv</i>., ouvertement, OD. <i>3, 222 ; 11, 455</i> ; A.RH. <i>4, 84 ; cf</i>. ἀμφαδά.<p><b>Étym</b>. ἀναφαίνω.`

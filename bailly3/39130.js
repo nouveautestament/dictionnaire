@@ -1,0 +1,1 @@
+lar[39130]=`<b>ης (ἡ)</b> science, instruction, XÉNOCR. PH. (DL. <i>4, 13).</i><p><b>Étym</b>. ἐπιστήμων.`

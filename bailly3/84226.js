@@ -1,0 +1,1 @@
+lar[84226]=`<b>προ·επείγω</b>, être imminent, ORIB. <i>77 Matthäi</i> ; LIB. <i>4, 150</i>.`

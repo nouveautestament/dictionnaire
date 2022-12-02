@@ -1,0 +1,1 @@
+lar[21645]=`(<i>seul. prés</i>.) fêter l’anniversaire de la naissance, APP. <i>Civ. 4, 134</i>.<p><b>Étym</b>. γενέθλιος.`

@@ -1,0 +1,1 @@
+lar[83832]=`<b>προ·βύω</b> <font color="purple">[ῡ]</font> moucher la mèche d’une lampe, AR. <i>Vesp. 249 ; fig</i>. COM. <i>(Bkk. p. 59, 18</i>).`

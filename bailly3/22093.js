@@ -1,0 +1,1 @@
+lar[22093]=`<b>ου (τὸ)</b> petit grain de chassie, HPC.<p><b>Étym</b>. *γλήμη <i>c</i>. λήμη.`

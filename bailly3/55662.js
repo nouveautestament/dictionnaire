@@ -1,0 +1,1 @@
+lar[55662]=`<b>ου (τὸ)</b> <font color="purple">[ῐτ]</font> Kition, <i>v. de Chypre,</i> THC. <i>1, 112</i> ; PLUT. <i>Cim. 19</i>.`

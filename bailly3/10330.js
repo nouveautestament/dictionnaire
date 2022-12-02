@@ -1,0 +1,1 @@
+lar[10330]=`<b>ἀντι·προκαταληπτέον</b>, il faut prendre les devants à la place de <i>ou</i> à son tour, ANAXIM. <i>18</i>.<p><b>Étym</b>. ἀ. <i>vb. de</i> προκαταλαμβάνω.`

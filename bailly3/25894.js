@@ -1,0 +1,1 @@
+lar[25894]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> <i>au plur</i>. exhalaison, émanation, ARSTT. <i>Probl. 13, 4, 5</i>.<p><b>Étym</b>. διαφυσάω.`

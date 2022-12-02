@@ -1,0 +1,1 @@
+lar[74957]=`<b>ας (ἡ)</b> pandore, <i>instrument de musique à trois cordes,</i> ATH. <i>183f ; v</i>. φάνδουρα.`

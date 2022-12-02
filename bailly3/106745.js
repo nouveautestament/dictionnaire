@@ -1,0 +1,1 @@
+lar[106745]=`<b>ου (ὁ)</b> = <i>lat</i>. Fufetius, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 7</i>.`

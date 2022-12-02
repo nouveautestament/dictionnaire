@@ -1,0 +1,1 @@
+lar[67766]=`<b>Ναύ·πακτος, ου (ἡ)</b> Naupaktos, Naupacte (<i>auj</i>. Náfpaktos, <i>anc</i>. Lepanto) <i>v. sur le golfe de Corinthe,</i> THC. <i>1, 103, etc.</i> ; XÉN. <i>Hell. 4, 6, 14, etc</i>.<p><b>Étym</b>. ναῦς, πήγνυμι.`

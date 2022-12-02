@@ -1,0 +1,1 @@
+lar[39350]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de se fortifier contre, fortification contre, THC. <i>1, 142 ; 6, 93</i>.<p><b>Étym</b>. ἐπιτειχίζω.`

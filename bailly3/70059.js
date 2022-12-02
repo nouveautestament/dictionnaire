@@ -1,0 +1,1 @@
+lar[70059]=`<b>α, ον</b>, plus gros, ARSTT. <i>Probl. 37, 2, cp. de</i> ὄγκος².`

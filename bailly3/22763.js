@@ -1,0 +1,1 @@
+lar[22763]=`<b>ή, όν</b>, qui concerne les soldats armés à la légère, XÉN. <i>Cyr. 1, 2, 4</i> ; PLUT. <i>Flam. 4</i> ; τὸ γυμνητικόν, STR. <i>306,</i> troupes légères.<p><b>Étym</b>. γυμνής.`

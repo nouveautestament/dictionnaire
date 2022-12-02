@@ -1,0 +1,1 @@
+lar[36763]=`<b>ῆς (ἡ)</b> envoi vers, contre <i>ou</i> après, SYMM. <i>Ps. 77, 49</i>.<p><b>Étym</b>. ἐπαποστέλλω.`

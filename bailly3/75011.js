@@ -1,0 +1,1 @@
+lar[75011]=`<b>παν·εύκηλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui vit tout à fait tranquille, A.RH. <i>3, 1196</i>.<p><b>Étym</b>. π. εὔκηλος.`

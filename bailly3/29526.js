@@ -1,0 +1,1 @@
+lar[29526]=`<b>ἐγ·κατακοιμάομαι-ῶμαι</b>, se coucher dans, dormir dans, HDT. <i>8, 134</i>.<p><b>Étym</b>. ἐν, κ.`

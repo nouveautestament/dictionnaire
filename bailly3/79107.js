@@ -1,0 +1,1 @@
+lar[79107]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de modeler, GAL. <i>6, 690, etc</i>.<p><b>Étym</b>. περιπλάσσω.`

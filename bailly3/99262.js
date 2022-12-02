@@ -1,0 +1,1 @@
+lar[99262]=`<b>Τιμό·στρατος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Timostratos, <i>h</i>. DÉM. <i>1365, 25</i>.<p><b>Étym</b>. τιμή, στρατός.`

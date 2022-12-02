@@ -1,0 +1,1 @@
+lar[101535]=`<b>ὑδρο·γάστωρ, ορος (ὁ, ἡ)</b> malade d’une hydropisie du ventre, MAN. <i>1, 155</i>.<p><b>Étym</b>. ὕδωρ, γαστήρ.`

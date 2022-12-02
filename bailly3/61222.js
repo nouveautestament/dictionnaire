@@ -1,0 +1,1 @@
+lar[61222]=`<b>ου (τὸ)</b> <font color="purple">[ῐνῐ]</font> petit fil de lin, BITON <i>p. 106b</i>.<p><b>Étym</b>. λίνον.`

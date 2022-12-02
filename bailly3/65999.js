@@ -1,0 +1,1 @@
+lar[65999]=`<b>ου (τὸ)</b> sorte de vase à col étroit, AR. <i>Vesp. 525</i>.`

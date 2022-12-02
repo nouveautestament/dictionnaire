@@ -1,0 +1,1 @@
+lar[100351]=`<b>τρι·πετής, ής, ές</b> <font color="purple">[ῐ]</font> coupé (<i>litt</i>. ouvert) en trois, NIC. <i>Al. 347 dout</i>.<p><b>Étym</b>. τρ. πετάννυμι.`

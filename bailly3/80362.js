@@ -1,0 +1,1 @@
+lar[80362]=`<b>ης (ἡ)</b> pinne marine, <i>sorte de coquillage sur lequel on recueille le lin marin, ou p.-ê</i>. nacre, ARSTT. <i>H.A. 4, 4, 6, etc</i>.`

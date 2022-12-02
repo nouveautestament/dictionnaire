@@ -1,0 +1,1 @@
+lar[36458]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> conséquence, PHILOD. <i>De ira 1, p. 81</i>.<p><b>Étym</b>. ἐπακόλουθος.`

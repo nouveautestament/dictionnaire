@@ -1,0 +1,1 @@
+lar[2421]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire du dème Æthalia, <i>de la tribu Léontide,</i> IS. <i>3, 23 Baiter-Sauppe</i>.`

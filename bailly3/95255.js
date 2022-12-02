@@ -1,0 +1,1 @@
+lar[95255]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> régi par une assemblée délibérante, POL. <i>31, 12, 12</i>.<p><b>Étym</b>. συνέδριον.`

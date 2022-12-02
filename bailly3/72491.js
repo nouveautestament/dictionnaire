@@ -1,0 +1,1 @@
+lar[72491]=`<b>ὀπωρο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien d’un verger, d’un vignoble, ARSTT. <i>Probl. 25, 2, 4</i> ; DS. <i>4, 6</i>.<p><b>Étym</b>. ὀπώρα, φύλαξ.`

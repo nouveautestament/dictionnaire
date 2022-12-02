@@ -1,0 +1,1 @@
+lar[63135]=`<b>ματαιο·βουλία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> vain <i>ou</i> sot projet, SIM. <i>fr. 37, 17 vulg. (conj</i>. μεταιβολία <i>Bgk).</i><p><b>Étym</b>. μάταιος, βουλή.`

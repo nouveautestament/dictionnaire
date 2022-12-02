@@ -1,0 +1,1 @@
+lar[24258]=`<b>δημο·κόπος, ου (ὁ)</b> qui capte la faveur populaire, démagogue, DH. <i>5, 65 ; 6, 27 ; 7, 15</i> ; APP. <i>Hann. 18</i> ; PHIL. <i>2, 47, etc</i>.<p><b>Étym</b>. δῆμος, κόπτω.`

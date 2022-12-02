@@ -1,0 +1,1 @@
+lar[73713]=`<b>οὐριο·δρομέω-ῶ</b>, être poussé par un vent favorable, PHÉRÉC. (DL. <i>1, 116</i>) ; DS. <i>3, 33</i>.<p><b>Étym</b>. οὔριος, δρόμος.`

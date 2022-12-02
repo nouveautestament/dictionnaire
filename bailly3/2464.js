@@ -1,0 +1,1 @@
+lar[2464]=`<b>ας (ἡ)</b> Artémis d’Æthopion (Αἰθόπιον) <i>en Eubée,</i> SAPPH. <i>1</i>.`

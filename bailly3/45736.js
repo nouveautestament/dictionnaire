@@ -1,0 +1,1 @@
+lar[45736]=`<b>ἠπειρόω-ῶ</b>, transformer en terre ferme, ARSTT. <i>Mund. 6, 32</i> ; ANTH. <i>9, 670 ; au pass</i>. THC. <i>2, 102</i>.<p><b>Étym</b>. ἤπειρος.`

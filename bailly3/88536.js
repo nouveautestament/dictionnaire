@@ -1,0 +1,1 @@
+lar[88536]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>poét. c</i>. ῥίζα, NIC. <i>Al. 531 vulg</i>.`

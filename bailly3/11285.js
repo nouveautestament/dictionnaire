@@ -1,0 +1,1 @@
+lar[11285]=`<b>ἀπ·άνωθε</b> <i>et</i> <b>ἀπ·άνωθεν</b> <font color="purple">[ᾰν]</font> <i>adv.</i> :<br><b>      1</b> d’en haut, SPT. <i>2Reg. 11, 20</i>.<br><b>      2</b> <i>p. ext</i>. loin de, <i>gén</i>. SPT. <i>Jud. 16, 20 ; d’où</i> hors de, <i>gén</i>. SPT. <i>2Reg. 20, 21</i>.`

@@ -1,0 +1,1 @@
+lar[104039]=`<b>ης, ες</b>, sujet au tremblement, HPC. <i>1136e</i>.<p><b>Étym</b>. ὑπότρομος, -ωδης.`

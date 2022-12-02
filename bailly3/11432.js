@@ -1,0 +1,1 @@
+lar[11432]=`<b>ἀπ·ασπαίρω</b> (<i>seul. prés</i>.) palpiter, EUR. <i>Ion 1207</i>.`

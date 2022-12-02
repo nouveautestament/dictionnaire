@@ -1,0 +1,1 @@
+lar[18379]=`<b>ἀχάνη, ης (ἡ)</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> mesure de blé de 45 médimnes attiques, <i>en Perse,</i> AR. <i>Ach. 108, 109</i>.<br><b>      2</b> corbeille, panier, PLUT. <i>Arat. 6</i>.`

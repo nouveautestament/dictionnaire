@@ -1,0 +1,1 @@
+lar[100778]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. τροχιλεύς, τροχιλία ARSTT. <i>Mech. 8</i>.`

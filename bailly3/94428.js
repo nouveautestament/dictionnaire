@@ -1,0 +1,1 @@
+lar[94428]=`<b>συμ·φιλοδοξέω-ῶ</b> <font color="purple">[ῐ]</font> s’intéresser à la gloire de, <i>dat</i>. CIC. <i>Att. 5, 17, 2</i>.`

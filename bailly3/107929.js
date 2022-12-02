@@ -1,0 +1,1 @@
+lar[107929]=`<b>Χάρ·ιππος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kharippos, <i>h</i>. AND. <i>1, 35 Baiter-Sauppe</i> ; PLUT. <i>Per. 36</i> ; EL. <i>V.H. 1, 27, etc</i>.<p><b>Étym</b>. χαίρω, ἵ.`

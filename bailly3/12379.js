@@ -1,0 +1,1 @@
+lar[12379]=`<b>ἀπο·θαρρέω-ῶ</b>, prendre courage, s’enhardir, XÉN. <i>Œc. 16, 6</i> ; τι, PAUS. <i>10, 19, 5,</i> à qqe ch. ; <i>avec l’inf</i>. LGN <i>32, 8,</i> à faire qqe ch.`

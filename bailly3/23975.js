@@ -1,0 +1,1 @@
+lar[23975]=`<b>εος-ους (τὸ)</b> peau, cuir, SPT. <i>Jud. 4, 18, dout</i>.<p><b>Étym</b>. <i>cf</i>. δέρρις.`

@@ -1,0 +1,1 @@
+lar[36255]=`<b>ἐξ·υγιάζω</b> <font color="purple">[ῠ]</font> guérir complètement, POL. <i>3, 88, 2 ; au pass</i>. HPC. <i>5, 19</i>.`

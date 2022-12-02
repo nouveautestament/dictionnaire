@@ -1,0 +1,1 @@
+lar[53498]=`<b>κατα·συλάω-ῶ</b> <font color="purple">[ῡ]</font> piller, ravir, EUM. <i>p. 153</i>.`

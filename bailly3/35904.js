@@ -1,0 +1,1 @@
+lar[35904]=`<b>ής, ές</b>, proéminent, saillant, ARÉT. <i>Cur. m. diut. 8</i>.<p><b>Étym</b>. ἐξέχω.`

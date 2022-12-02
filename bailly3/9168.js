@@ -1,0 +1,1 @@
+lar[9168]=`<b>εως</b> <i>ou</i> <b>ιδος (ὁ)</b> Annikéris, <i>philosophe de Cyrène,</i> LUC. <i>Dem. enc. 23</i>.<p>➳ <i>Gén</i>. -ιδος, DL. <i>2, 8</i>.`

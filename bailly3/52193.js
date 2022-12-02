@@ -1,0 +1,1 @@
+lar[52193]=`<b>κατ·αγαπάω-ῶ</b> <font color="purple">[τᾰγᾰ]</font> aimer tendrement, chérir, EPIC. (DL. <i>10, 94, 116</i>).`

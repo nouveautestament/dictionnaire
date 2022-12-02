@@ -1,0 +1,1 @@
+lar[64579]=`<b>μεσ·ουρανέω-ῶ</b> <font color="purple">[ᾰ]</font> être au milieu du ciel, <i>càd</i>. au méridien <i>ou</i> à midi, ARSTT. <i>Meteor. 3, 4</i> ; PLUT. <i>Hipparch. 1005b Migne</i> ; GÉM. <i>El. astr. 2, 19</i> ; CLÉOM. <i>40, 14 ; 51, 9</i>.<p><b>Étym</b>. μέσος, οὐρανός.`

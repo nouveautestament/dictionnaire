@@ -1,0 +1,1 @@
+lar[69421]=`<b>ξεν·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ξεναγός PLUT. <i>M. 553d</i>.<p><b>Étym</b>. ξ. ἄγω.`

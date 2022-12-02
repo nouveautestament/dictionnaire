@@ -1,0 +1,1 @@
+lar[65518]=`<font color="purple">[ᾱ]</font> <i>adj. m. touj. avec le nom. Ζεύς ou le voc</i>. Ζεῦ, prudent, sage, IL. <i>1, 175</i> ; OD. <i>14, 243, etc.</i> ; HÉS. <i>O. 51, Th. 457</i>.<p><b>Étym</b>. μῆτις.`

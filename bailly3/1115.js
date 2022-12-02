@@ -1,0 +1,1 @@
+lar[1115]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> charge, cargaison, XÉN. <i>Cyr. 6, 1, 54</i>.<p><b>Étym</b>. ἀγωγή.`

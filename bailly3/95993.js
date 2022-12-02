@@ -1,0 +1,1 @@
+lar[95993]=`<b>συν·ιδρύω</b>, élever une statue <i>ou</i> un temple à qqn avec, APP. <i>Civ. 5, 132 ; au pass</i>. ATH. <i>561d</i>.<p><b>Étym</b>. σύν, ἱ.`

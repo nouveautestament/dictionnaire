@@ -1,0 +1,1 @@
+lar[74062]=`<b>ας (ἡ)</b> achat de provisions de bouche, <i>particul</i>. de poisson, CRITIAS <i>50</i> ; ANTIPH. (<i>Com. fr. 3, 101), etc</i>.<p><b>Étym</b>. ὀψώνης.`

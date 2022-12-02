@@ -1,0 +1,1 @@
+lar[8427]=`<b>ἀν·επιδεής, ής, ές</b>, qui n’a pas besoin de, <i>gén</i>. PLAT. <i>Leg. 947e ;</i> LUC. <i>D. mort. 26, 2</i>.<p><b>Étym</b>. ἀν-, ἐ.`

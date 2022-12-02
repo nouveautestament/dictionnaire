@@ -1,0 +1,1 @@
+lar[6120]=`<b>ἀμφί·δρομος, ος, ον :<br>      1</b> où l’on court en deux sens : ἀ. τόποι, POL. <i>34, 2, 5,</i> lieux exposés au flux et au reflux (de la mer).<br><b>      2</b> qui court autour, <i>d’où</i> qui enveloppe, SOPH. <i>Aj. 352</i>.<p><b>Étym</b>. ἀ. δραμεῖν.`

@@ -1,0 +1,1 @@
+lar[35495]=`<b>ἐξ·ανθίζω :<br>      1</b> fleurir, <i>d’où</i> farder, AR. <i>Lys. 43</i>.<br><b>      2</b> parer comme avec des fleurs, <i>càd</i>. peindre de couleurs variées, PHILÉM. (ATH. <i>288) ; p. ext</i>. parer, orner, HLD. <i>7, 19</i>.<br><b><i>Moy.</i></b> cueillir des fleurs, PLUT. <i>M. 661f</i>.`

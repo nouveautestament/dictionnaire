@@ -1,0 +1,1 @@
+lar[109543]=`<b>ή, όν</b>, qu’on peut jouer sur la lyre, SPT. <i>Ps. 118, 34</i>.<p><b>Étym</b>. <i>vb. de</i> ψάλλω.`

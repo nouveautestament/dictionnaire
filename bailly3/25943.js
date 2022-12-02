@@ -1,0 +1,1 @@
+lar[25943]=`<b>ατος (τὸ)</b> <i>au plur</i>. excrément, HPC. <i>400, 16</i> ; STR. <i>675</i>.<p><b>Étym</b>. διαχωρέω.`

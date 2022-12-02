@@ -1,0 +1,1 @@
+lar[32445]=`<b>Ἐλαιατικὸς κόλπος (ὁ)</b> le golfe d’Élæa, <i>en Éolide,</i> ARSTT. <i>Vent</i>.<p><b>Étym</b>. Ἐλαία.`

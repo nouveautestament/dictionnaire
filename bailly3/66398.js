@@ -1,0 +1,1 @@
+lar[66398]=`<b>ας (ἡ)</b> Molpadia, <i>Amazone,</i> PLUT. <i>Thes. 27</i>.<p><b>Étym</b>. μολπάζω.`

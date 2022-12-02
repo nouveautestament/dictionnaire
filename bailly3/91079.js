@@ -1,0 +1,1 @@
+lar[91079]=`<b>σκολιο·πλόκαμος, ος, ον</b> <font color="purple">[ᾰ]</font> aux boucles frisées, NONN. <i>D. 26, 65</i>.<p><b>Étym</b>. σκ. πλόκαμος.`

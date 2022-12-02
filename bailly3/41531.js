@@ -1,0 +1,1 @@
+lar[41531]=`<b>ας (ἡ)</b> <font color="purple">[ᾱε]</font> air pur et doux, PLUT. <i>M. 787d</i>.<p><b>Étym</b>. εὐάερος.`

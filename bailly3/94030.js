@@ -1,0 +1,1 @@
+lar[94030]=`<b>οῦ (ὁ)</b> <i>lacon. c</i>. θυμός, GRAMM.<p><b>Étym</b>. <i>Cram. t. 1, p. 197, 7</i>.`

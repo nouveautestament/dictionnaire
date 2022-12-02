@@ -1,0 +1,1 @@
+lar[9295]=`<b>ἀν·ονόμαστος, ος, ον</b>, innommé, HDN GR. <i>Epim. p. 203 Boissonade</i>.<p><b>Étym</b>. ἀν-, ὀνομάζω.`

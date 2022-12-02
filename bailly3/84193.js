@@ -1,0 +1,1 @@
+lar[84193]=`<b>προ·εξασθενέω-ῶ</b>, avoir déjà perdu ses forces, ARSTT. <i>Probl. 1, 50, 2</i>.`

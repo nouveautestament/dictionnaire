@@ -1,0 +1,1 @@
+lar[82163]=`<b>*Πολυ·νόμη</b>, <i>épq</i>. <b>Πουλυ·νόμη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Polynomè, <i>Néréide,</i> HÉS. <i>Th. 258</i>.<p><b>Étym</b>. <i>v</i>. πολύνομος.`

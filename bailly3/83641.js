@@ -1,0 +1,1 @@
+lar[83641]=`<b>προ·αποδύομαι</b>, se dépouiller d’abord <i>ou</i> auparavant de, <i>acc</i>. EUM. <i>p. 62 ; fig</i>. CLÉM. <i>569</i>.`

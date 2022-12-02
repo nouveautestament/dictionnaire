@@ -1,0 +1,1 @@
+lar[89032]=`<i>dor. mégar. p</i>. τί ; quoi donc ? AR. <i>Ach. 757, 784</i>.`

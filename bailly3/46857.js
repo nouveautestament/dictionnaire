@@ -1,0 +1,1 @@
+lar[46857]=`<b>θεο·χάρακτος, ος, ον</b> <font color="purple">[χᾰ]</font> gravé par la divinité, NAZ. <i>1, 99</i>.<p><b>Étym</b>. θ. χαράσσω.`

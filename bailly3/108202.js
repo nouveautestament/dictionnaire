@@ -1,0 +1,1 @@
+lar[108202]=`<b>ακτος (ὁ) :<br>      1</b> qui travaille de ses mains, ouvrier, artisan, HDT. <i>1, 93 ; 2, 141</i> ; LUC. <i>Somn. 9 ; adj</i>. SOPH. <i>fr. 724</i>.<br><b>      2</b> <i>p. suite,</i> artisan de : λόγων, EUR. <i>fr. 793,</i> artisan de paroles, <i>particul</i>. d’oracles, <i>càd</i>. devin.<p><b>Étym</b>. χ. ἄναξ.`

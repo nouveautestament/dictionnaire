@@ -1,0 +1,1 @@
+lar[40790]=`<b>ἐρυθρό·πους, ους, ουν</b>, <i>gén</i>. <b>ποδος</b>, aux pieds rouges, ARSTT. <i>H.A. 5, 13, 3 ; subst</i>. ἡ ἐρ. AR. <i>Av. 303,</i> sorte d’oiseau aux pieds rouges.<p><b>Étym</b>. ἐ. πούς.`

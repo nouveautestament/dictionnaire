@@ -1,0 +1,1 @@
+lar[7370]=`<b>ας (ἡ)</b> état d’un corps estropié, infirmité, CRAT. (POLL. <i>2, 61</i>) ; ARSTT. <i>Probl. 10, 26 ; Rhet. 2, 8, 10, etc</i>.<p><b>Étym</b>. ἀνάπηρος.`

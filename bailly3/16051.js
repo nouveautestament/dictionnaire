@@ -1,0 +1,1 @@
+lar[16051]=`<b>ἀσπιδο·πηγός, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> fabricant de boucliers, THÉM. <i>197</i>.<p><b>Étym</b>. ἀ. πήγνυμι.`

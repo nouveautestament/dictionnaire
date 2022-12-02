@@ -1,0 +1,1 @@
+lar[33271]=`<b>ητος (ἡ)</b> mesure bien proportionnée, mesure, convenance, ARISTÉN. <i>1, 18</i>.<p><b>Étym</b>. ἔμμετρος.`

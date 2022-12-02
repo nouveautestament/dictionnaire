@@ -1,0 +1,1 @@
+lar[2752]=`<b>αἰολό·δεικτος, ος, ον</b>, qui se montre sous des formes variées, ORPH. <i>H. 7, 12</i>.<p><b>Étym</b>. αἰ. δείκνυμι.`

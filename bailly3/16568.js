@@ -1,0 +1,1 @@
+lar[16568]=`<b>ου (ὁ)</b> <font color="purple">[φᾰ]</font> qui donne la sécurité (Poséidon) PAUS. <i>7, 21, 7 (var</i>. -ειος) ; PLUT. <i>Thes. 36</i>.<p><b>Étym</b>. ἀσφαλής ; <i>cf</i>. ἀσφάλειος.`

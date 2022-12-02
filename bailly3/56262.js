@@ -1,0 +1,1 @@
+lar[56262]=`<b>οῦ (ὁ) :<br>      1</b> flanc boisé d’une montagne, IL. <i>2, 821, etc.</i> ; OD. <i>4, 337, touj. au plur.</i><br><b>      2</b> montagne, HH. <i>Ap. 283 au sg.</i> ; ORPH. <i>Arg. 602, 637</i>.<p><b>Étym</b>. κνήμη.`

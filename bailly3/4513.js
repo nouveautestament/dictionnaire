@@ -1,0 +1,1 @@
+lar[4513]=`<b>ικος (ὁ)</b> <font color="purple">[ᾰῐκ]</font> bouillie d’épeautre, ATH. <i>647d</i>.<p><b>Étym</b>. ἀλέω ; <i>cf. lat</i>. alica.`

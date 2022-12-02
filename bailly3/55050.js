@@ -1,0 +1,1 @@
+lar[55050]=`<b>ας (ἡ) :<br>   I</b> n. d’instrument aigu :<br><b>      1</b> marteau pointu, SOPH. <i>fr. 21</i>.<br><b>      2</b> poinçon, HÉRON.<br><b>   II</b> sorte de poisson (<i>cf</i>. κεστρεύς) AR. <i>Nub. 339, etc</i>.<p>➳ <i>Gén. pl. dor</i>. κεστρᾶν, AR. <i>l. c</i>.`

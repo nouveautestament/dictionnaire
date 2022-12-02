@@ -1,0 +1,1 @@
+lar[25431]=`<b>δι·αριστάομαι-ῶμαι</b> <font color="purple">[ᾱρ]</font> (<i>seul. ao. 3 sg</i>. διηριστήσατο) déjeuner par suite d’un pari contre : βοῦν τινι δ. ATH. <i>412f</i>, manger un bœuf à son déjeuner, par suite d’un pari contre qqn.`

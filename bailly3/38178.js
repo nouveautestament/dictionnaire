@@ -1,0 +1,1 @@
+lar[38178]=`<b>οῦ</b> <font color="purple">[ῐτ]</font> <i>c</i>. κρίτης, POL. <i>14, 3, 7</i>.`

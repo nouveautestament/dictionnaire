@@ -1,0 +1,1 @@
+lar[41992]=`<b>εὐ·εξαπάτητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> facile à tromper, XÉN. <i>Hipp. 7, 15</i> ; PLAT. <i>Rsp. 409a ;</i> ARSTT. <i>Rhet. 2, 12</i>.<p><b>Étym</b>. εὖ, ἐξαπατάω.`

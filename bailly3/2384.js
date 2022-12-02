@@ -1,0 +1,1 @@
+lar[2384]=`<b>ου</b> (<i>genre inconnu</i>) Ædôlios, <i>lieu de Lacédémone,</i> ARSTT. <i>fr. 498</i>.`

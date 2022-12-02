@@ -1,0 +1,1 @@
+lar[9807]=`<b>ου (τὸ)</b> <font color="purple">[ᾰφ]</font> transcription, copie, AND. <i>10, 31 ; 11, 3</i> ; LYS. <i>896 fin, etc</i>.<p><b>Étym</b>. <i>neutre de</i> ἀντίγραφος.`

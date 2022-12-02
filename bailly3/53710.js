@@ -1,0 +1,1 @@
+lar[53710]=`<b>κατα·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font> laisser passer, SPT. <i>Jos. 2, 15</i>.`

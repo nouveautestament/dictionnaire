@@ -1,0 +1,1 @@
+lar[60480]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. femme de Lesbos, Lesbienne, HERMÉSIAN. (ATH. <i>598c</i>) ; ANTH. <i>9, 26</i>.<p>➳ <i>Dat. pl. épq</i>. Λεσβιάδεσσιν, ANTH. <i>6, 348</i>.<p><b>Étym</b>. Λέσβος.`

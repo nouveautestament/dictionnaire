@@ -1,0 +1,1 @@
+lar[21890]=`<b>ης, ες</b>, de cultivateur, rustique, PLUT. <i>M. 8b</i>.<p><b>Étym</b>. γεωργός, -ωδης.`

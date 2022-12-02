@@ -1,0 +1,1 @@
+lar[10949]=`<b>ἀξιο·στράτηγος, ος, ον</b>, digne de commander à des troupes, digne du commandement, XÉN. <i>An. 3, 1, 24</i> ; ARR. <i>An. 4, 11, 9</i> ; DC. (<i>v</i>. ἀξιοστρατήγητος).<p>•<i> Cp</i>. -ότερος, XÉN. <i>l. c</i>.<p><b>Étym</b>. ἄ. στρατηγός.`

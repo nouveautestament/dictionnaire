@@ -1,0 +1,1 @@
+lar[69575]=`<font color="purple">[ξῐ]</font> danser le bras tendu comme si l’on tenait une épée, <i>sorte de danse guerrière,</i> CRAT. (<i>Com. fr. 2, 142).</i><p><b>Étym</b>. ξίφος.`

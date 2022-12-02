@@ -1,0 +1,1 @@
+lar[64716]=`<b>ου (ὁ)</b> qui partage, PHILOD. <i>Œc. 15</i>.<p><b>Étym</b>. μεταδίδωμι.`

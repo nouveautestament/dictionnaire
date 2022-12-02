@@ -1,0 +1,1 @@
+lar[92377]=`<b>στενο·φυής, ής, ές</b>, étroit de sa nature, <i>en parl. de l’Eubée,</i> ALEX. (<i>Com. fr. 3, 517).</i><p><b>Étym</b>. στ. φύω.`

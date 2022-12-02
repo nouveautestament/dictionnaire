@@ -1,0 +1,1 @@
+lar[34438]=`<font color="purple">[ῠ]</font> <i>adv</i>., en sûreté, M. RUBR. <i>43</i>.<p><b>Étym</b>. *ἐνέχυρος, <i>cf</i>. ἐνέχυρον.`

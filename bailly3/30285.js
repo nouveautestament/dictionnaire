@@ -1,0 +1,1 @@
+lar[30285]=`<b>εἰδωλοπλαστέω-ῶ</b>, représenter sous forme d’image, HÉRACLITE GRAMM. <i>All. Hom. 66</i>.<p><b>Étym</b>. εἰδωλόπλαστος.`

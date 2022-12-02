@@ -1,0 +1,1 @@
+lar[58480]=`<b>ου (ἡ)</b> Cyzique, <i>v. de Propontide,</i> HDT. <i>4, 14, 76</i> ; THC. <i>8, 107</i>.`

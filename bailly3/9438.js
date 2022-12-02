@@ -1,0 +1,1 @@
+lar[9438]=`<b>ἀντ·αμύνομαι</b> <font color="purple">[ᾰμῡ]</font><br><b>      1</b> repousser à son tour, se venger de, THC. <i>3, 84</i> ; τὸν ἐχθρὸν κακοῖς, SOPH. <i>Ant. 643,</i> infliger des maux en représaille à l’ennemi (de sa famille).<br><b>      2</b> se défendre, résister, THC. <i>4, 19</i>.`

@@ -1,0 +1,1 @@
+lar[77384]=`<b>πατρ·ολέτωρ, ορος (ὁ)</b> meurtrier de son père, parricide, ANTH. <i>11, 348</i>.<p><b>Étym</b>. π. <i>th</i>. ὀλε- <i>de</i> ὄλλυμι.`

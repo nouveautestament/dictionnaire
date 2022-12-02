@@ -1,0 +1,1 @@
+lar[6294]=`<b>ἀμφι·περιΐσταμαι</b> <font color="darkgreen">(<i>f</i>. -περιστήσομαι)</font> se tenir debout autour de, <i>acc</i>. Q. SM. <i>3, 201</i>.`

@@ -1,0 +1,1 @@
+lar[77298]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰτ]</font> craquement, claquement, RHÉT. (<i>W. 3, 520).</i><p><b>Étym</b>. πατάσσω.`

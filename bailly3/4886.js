@@ -1,0 +1,1 @@
+lar[4886]=`(<i>seul. prés</i>.) déraisonner, CIC. <i>Att. 6, 4, 3</i>.<p><b>Étym</b>. ἄλογος.`

@@ -1,0 +1,1 @@
+lar[64930]=`<b>μετα·πτοιέω-ῶ</b>, s’enfuir de frayeur, ESCHL. <i>Suppl. 331</i>.`

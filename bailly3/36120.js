@@ -1,0 +1,1 @@
+lar[36120]=`<b>ἐξ·ολοθρεύω</b>, anéantir, exterminer, SPT. <i>Ex. 22, 20 ; Jos. 23, 15 ; Judith 6, 2 ; Ps. 142, 12</i> ; NT. <i>Ap. 3, 23</i> ; JOS. <i>A.J. 8, 11, 1</i>.<p><b>Étym</b>. ἐξ, ὄλεθρος.`

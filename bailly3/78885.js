@@ -1,0 +1,1 @@
+lar[78885]=`<b>περιληπτῶς</b>, <i>adv</i>., de manière à être compris, EPIC. (DL. <i>10, 40</i>).`

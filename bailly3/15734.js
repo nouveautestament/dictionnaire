@@ -1,0 +1,1 @@
+lar[15734]=`<b>ἀσαρίτης οἶνος (ὁ)</b> vin aromatisé d’asarum, DIOSC. <i>5, 68</i>.<p><b>Étym</b>. ἄσαρον.`

@@ -1,0 +1,1 @@
+lar[47149]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>pass</i>. aiguisé, tranchant, ANTH. <i>6, 109 ; 7, 542</i>.<br><b>      2</b> qui aiguise, <i>gén</i>. ANTH. <i>6, 68</i>.<p><b>Étym</b>. θήγω.`

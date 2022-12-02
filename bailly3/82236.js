@@ -1,0 +1,1 @@
+lar[82236]=`<b>πολυ·πίδακος, ος, ον</b> <font color="purple">[ῠῑᾰ]</font> aux nombreuses sources, HH. <i>Ven. 54</i> ; CYPR. (ATH. <i>682f</i>).<p><b>Étym</b>. πολυπῖδαξ.`

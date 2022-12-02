@@ -1,0 +1,1 @@
+lar[23401]=`<font color="purple">[ῐ]</font> (<i>seul. prés</i>.) avoir en abondance, abonder en, <i>dat</i>. PHIL. PARADOX. <i>VII mir. ; fig</i>. SPT. <i>1Reg. 10, 2</i>.`

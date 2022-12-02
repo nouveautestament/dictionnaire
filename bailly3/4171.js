@@ -1,0 +1,1 @@
+lar[4171]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> lieu où l’on se frottait d’huile <i>au gymnase, et, à Rome, au bain,</i> ALEX. (POLL. <i>7, 166</i>) ; TH. <i>Ign. 13</i> ; STR. <i>154</i>.<p><b>Étym</b>. ἀλείφω.`

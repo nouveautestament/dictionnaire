@@ -1,0 +1,1 @@
+lar[62462]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Macédonien, ANTH. <i>7, 51</i>.<p><b>Étym</b>. <i>cf</i>. Μακηδόνιος, Μακηδών.`

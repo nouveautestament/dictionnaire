@@ -1,0 +1,1 @@
+lar[82592]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> vaste étendue, PTOL. <i>de Jud. fac. p. 8</i>.<p><b>Étym</b>. πολύχωρος.`

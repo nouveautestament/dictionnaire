@@ -1,0 +1,1 @@
+lar[61537]=`<b>λογο·τέχνης, ου (ὁ)</b> habile artisan de paroles, RHÉT. (<i>W. 2, 90).</i><p><b>Étym</b>. λ. τέχνη.`

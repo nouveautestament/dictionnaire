@@ -1,0 +1,1 @@
+lar[61239]=`<b>λινό·πλεκτος, ος, ον</b> <font color="purple">[ῐ]</font> tissé en lin, NONN. <i>D. 26, 56</i>.<p><b>Étym</b>. λ. πλέκω.`

@@ -1,0 +1,1 @@
+lar[63410]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> magnificence, générosité, PLAT. <i>Rsp. 486a, etc.</i> ; ARSTT. <i>Rhet. 1, 8, etc. ; en parl. du style,</i> DH. <i>Comp. 16</i>.<p>➳ <i>Ion</i>. -είη, HDT. <i>1, 139, etc</i>.<p><b>Étym</b>. μεγαλοπρεπής.`

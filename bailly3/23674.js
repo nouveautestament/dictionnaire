@@ -1,0 +1,1 @@
+lar[23674]=`<b>δεκά·μνοος, οος, οον</b>, MOSCHION HIST. (ATH. <i>207b</i>) ; <i>par contract</i>. δεκάμνους, ους, ουν, AR. <i>Pax 1224, 1235,</i> qui pèse <i>ou</i> vaut dix mines.<p><b>Étym</b>. δ. μνάα.`

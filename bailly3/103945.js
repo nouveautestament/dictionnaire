@@ -1,0 +1,1 @@
+lar[103945]=`<b>ὑπο·σχάζω</b>, donner un croc-en-jambe, SPT. <i>Sir. 12, 17</i>.`

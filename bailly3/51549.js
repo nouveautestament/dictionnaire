@@ -1,0 +1,1 @@
+lar[51549]=`<b>ου (ὁ)</b> <font color="purple">[νᾰ]</font> <i>c</i>. κανναβόκοκκος STRATT. (<i>Com. fr. 2, 769, 3</i>).`

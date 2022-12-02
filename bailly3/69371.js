@@ -1,0 +1,1 @@
+lar[69371]=`<b>ου (τὸ)</b> lampourde, <i>plante qui servait à teindre les cheveux en blond,</i> DIOSC. <i>4, 136</i>.<p><b>Étym</b>. ξανθός.`

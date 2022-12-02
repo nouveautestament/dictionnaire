@@ -1,0 +1,1 @@
+lar[28842]=`<b>δύσ·πορος, ος, ον</b>, difficile à traverser, XÉN. <i>An. 6, 5, 12</i> ; PLAT. <i>Crat. 420e ;</i> LUC. <i>D. deor. 10, 2</i> ; τὰ δ. LUC. <i>Demon. 1,</i> passages difficiles.<p><b>Étym</b>. δ. πόρος.`

@@ -1,0 +1,1 @@
+lar[48661]=`<b>ατος (τὸ)</b> offrande sacrée, victime, SPT. <i>2Macc. 12, 40</i>.<p><b>Étym</b>. ἱερόω.`

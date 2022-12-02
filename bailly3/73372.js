@@ -1,0 +1,1 @@
+lar[73372]=`<i>neutre de</i> ὅστε, <i>ou masc. épq. et ion. c</i>. ὄστε.`

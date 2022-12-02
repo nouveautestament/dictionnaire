@@ -1,0 +1,1 @@
+lar[71204]=`<b>ὁλο·πόρφυρος, ος, ον</b> <font color="purple">[ῠ]</font> tout de pourpre, XÉN. <i>Cyr. 8, 3, 13</i> ; SPT. <i>Num. 4, 7, etc</i>.<p><b>Étym</b>. ὅλος, πορφύρα.`

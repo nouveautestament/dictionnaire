@@ -1,0 +1,1 @@
+lar[77647]=`<b>οῦ (ὁ) :<br>      1</b> épreuve, essai, expérience, SPT. <i>Sir. 6, 7</i> ; NT. <i>1Petr. 4, 12</i>.<br><b>      2</b> tentation, ORIG. <i>1, 456 Migne, etc</i>.<p><b>Étym</b>. πειράζω.`

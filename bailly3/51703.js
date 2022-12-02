@@ -1,0 +1,1 @@
+lar[51703]=`<b>καραιβαράω-ῶ</b> <font color="purple">[ᾰβᾰ]</font> <i>c</i>. καρηβαρέω, PHÉRÉCR. <i>fr. 167</i>.`

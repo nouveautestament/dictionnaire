@@ -1,0 +1,1 @@
+lar[12249]=`<b>ἀπο·δεκατόω-ῶ</b> <font color="purple">[κᾰ]</font><br><b>      1</b> payer <i>ou</i> offrir la dîme, SPT. <i>Gen. 28, 22 ; Deut. 14, 21 ; 26, 12</i> ; NT. <i>Matth. 23, Luc. 18, 22</i>.<br><b>      2</b> exiger la dîme de qqn, <i>acc</i>. SPT. <i>1Reg. 8, 15</i> ; NT. <i>Hebr. 7, 5</i>.`

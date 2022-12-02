@@ -1,0 +1,1 @@
+lar[96376]=`<b>οῦ (ὁ) :<br>      1</b> ruine, SPT. <i>Soph. 1, 10</i>.<br><b>      2</b> <i>au pl</i>. afflictions, misères, SPT. <i>2Reg. 22, 5</i>.<p><b>Étym</b>. συντρίβω.`

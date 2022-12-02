@@ -1,0 +1,1 @@
+lar[14600]=`<b>ος, ον</b> <font color="purple">[ᾰιθ]</font> dont on tient compte, OPP. <i>H. 1, 151</i> ; DP. <i>263</i>.<p><b>Étym</b>. ἀριθμός.`

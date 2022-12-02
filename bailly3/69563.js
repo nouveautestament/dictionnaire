@@ -1,0 +1,1 @@
+lar[69563]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> nourriture composée d’aliments secs, ATH. <i>113b</i>.<p><b>Étym</b>. <i>v</i>. ξηροφαγέω.`

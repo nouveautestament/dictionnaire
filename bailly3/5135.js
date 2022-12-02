@@ -1,0 +1,1 @@
+lar[5135]=`<b>ἀλωπέκ·ουρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> queue de renard (<i>Lagurus cylindricus</i> L.) <i>plante,</i> TH. <i>H.P. 7, 11, 2</i>.<p><b>Étym</b>. ἀλώπηξ, οὐρά.`

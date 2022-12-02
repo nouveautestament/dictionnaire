@@ -1,0 +1,1 @@
+lar[95473]=`<b>συν·εμφανίζω</b> <font color="purple">[ᾰ]</font> <i>c</i>. συνεμφαίνω A. QUINT. <i>p. 84</i>.`

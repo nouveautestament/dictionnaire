@@ -1,0 +1,1 @@
+lar[7911]=`<b>ατος (τὸ)</b> action de retenir par la crinière, <i>d’où</i> action de retenir, PLUT. <i>M. 611f</i>.<p><b>Étym</b>. ἀναχαιτίζω.`

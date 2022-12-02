@@ -1,0 +1,1 @@
+lar[4285]=`<b>ός, όν</b>, insensé, ESCHL. <i>fr. 409</i>.<p><b>Étym</b>. <i>corr. p</i>. ἀλαιός ; <i>cf</i>. ἠλεός.`

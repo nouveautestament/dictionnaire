@@ -1,0 +1,1 @@
+lar[3975]=`<b>ας (ἡ)</b> = <i>lat</i>. Aquilēia, Aquilée, <i>v. d’Italie,</i> LUC. <i>Alex. 48</i>.`

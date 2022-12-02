@@ -1,0 +1,1 @@
+lar[36957]=`<b>ἐπ·είνυμι</b> <font color="purple">[ῡ]</font> (<i>seul. inf. prés. moy</i>. ἐπείνυσθαι) se vêtir, HDT. <i>4, 64</i>.<p><b>Étym</b>. <i>ion. c</i>. ἐφέννυμι.`

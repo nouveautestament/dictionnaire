@@ -1,0 +1,1 @@
+lar[43317]=`<b>Εὐρυ·πύλη, ης (ἡ)</b> <font color="purple">[ῠῠ]</font> Eurypylè, <i>f</i>. ANACR. (ATH. <i>533e</i>) ; ANTH. <i>7, 27, etc</i>.<p><b>Étym</b>. <i>v</i>. Εὐρύπυλος, εὐρυπυλής.`

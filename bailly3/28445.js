@@ -1,0 +1,1 @@
+lar[28445]=`<b>δυσ·ερεύνητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à explorer, JOS. <i>B.J. 1, 16, 5</i>.<p><b>Étym</b>. δ. ἐρευνάω.`

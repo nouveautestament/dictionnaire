@@ -1,0 +1,1 @@
+lar[8697]=`<b>ος, ον</b>, indigne de pitié, LYCURG. <i>169, 6</i> ; ESCHN. <i>50, 8</i>.<p><b>Étym</b>. ἀν-, ἐλεέω.`

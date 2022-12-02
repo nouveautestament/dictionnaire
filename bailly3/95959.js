@@ -1,0 +1,1 @@
+lar[95959]=`<b>συν·θηρεύω :<br>      1</b> chasser ensemble, PLAT. <i>Rsp. 451d, 466c.</i><br><b>      2</b> prendre ensemble, s’emparer de, se saisir de, <i>fig</i>. EUR. <i>fr. 971</i>.<br><b><i>Moy.</i></b> se saisir de, <i>fig</i>. AR. <i>Th. 156</i>.`

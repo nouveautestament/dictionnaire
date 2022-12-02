@@ -1,0 +1,1 @@
+lar[72767]=`<i>adv</i>., avec l’accent plein, HDN GR. <i>(Bkk. p. 1445c, v</i>. ὀρθότονος).<p><b>Étym</b>. ὀρθοτονέω.`

@@ -1,0 +1,1 @@
+lar[4700]=`<b>ης (ἡ)</b> <font color="purple">[ᾰγ]</font> <i>ion. c</i>. ἀλλαγή SIB. <i>2, 157 dout</i>.`

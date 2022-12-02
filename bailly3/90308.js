@@ -1,0 +1,1 @@
+lar[90308]=`<i>et</i> <b>σίλλυβον, ου (τὸ)</b> sorte de chardon comestible, DIOSC. <i>3, 10 ; 4, 159</i>.`

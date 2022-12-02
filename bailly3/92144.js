@@ -1,0 +1,1 @@
+lar[92144]=`<b>ου (τὸ) :<br>      1</b> cruche pour le vin, AR. <i>Lys. 196, 199</i> ; MÉN. <i>4, 108 Meineke</i>.<br><b>      2</b> <i>c</i>. ἀμίς, SEXT. <i>M. 1, 234</i>.<p><b>Étym</b>. <i>dim. de</i> στάμνος.`

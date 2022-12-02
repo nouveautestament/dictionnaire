@@ -1,0 +1,1 @@
+lar[12873]=`<b>ἀπό·μαχος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> qui est loin du combat, ANTH. <i>9, 467</i>.<br><b>      2</b> impropre au combat, XÉN. <i>An. 3, 4, 32, etc</i>.<p><b>Étym</b>. ἀ. μάχη.`

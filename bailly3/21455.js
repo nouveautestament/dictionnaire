@@ -1,0 +1,1 @@
+lar[21455]=`<b>ου (ὁ)</b> vaisseau marchand phénicien de forme arrondie (<i>p. opp. à</i> μακρὰ ναῦς, vaisseau long <i>ou</i> vaisseau de guerre) HDT. <i>3, 136 ; 6, 17 ; 8, 97, etc.</i> ; EPICH. (ATH. <i>320c</i>) ; AR. <i>Av. 598, 602</i>.<p><b>Étym</b>. <i>Orig. sémitique</i>.`

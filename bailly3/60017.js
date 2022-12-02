@@ -1,0 +1,1 @@
+lar[60017]=`<b>λαχανη·φόρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui plante <i>ou</i> fait produire des légumes, MAN. <i>4, 258</i>.<br><b>      2</b> qui produit des légumes, NAZ. <i>3, 61 Migne</i>.<p><b>Étym</b>. λάχανον, φέρω.`

@@ -1,0 +1,1 @@
+lar[7590]=`<b>ἀν·άρτυτος, ος, ον</b> <font color="purple">[ῡ]</font> non assaisonné, non accommodé, DIOGÉN. <i>2, 12</i> ; SYMM. <i>Job 6, 6 ; Ezech. 13, 10 ; fig</i>. ATH. <i>511d conj</i>.<p><b>Étym</b>. ἀν-, ἀρτύω.`

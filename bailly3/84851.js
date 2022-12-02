@@ -1,0 +1,1 @@
+lar[84851]=`<b>ου (ὁ)</b> qui observe, qui épie, surveillant, POL. <i>29, 6, 13</i> ; PLUT. <i>M. 370a</i>.<p><b>Étym</b>. προόψομαι, <i>fut. de</i> προοράω.`

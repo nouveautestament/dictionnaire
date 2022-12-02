@@ -1,0 +1,1 @@
+lar[108159]=`<i>adv</i>., d’une manière pire, LIB. <i>82</i>.<p><b>Étym</b>. χείρων.`

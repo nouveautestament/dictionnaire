@@ -1,0 +1,1 @@
+lar[69073]=`<i>adv</i>., sagement, prudemment, ISOCR. <i>160c, 278c ; cf</i>. ἐχόντως νοῦν, PLAT. <i>Leg. 686e</i>.<p><b>Étym</b>. νοῦν, <i>acc. de</i> νοῦς ; ἔχων, <i>part. de</i> ἔχω.`

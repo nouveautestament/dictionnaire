@@ -1,0 +1,1 @@
+lar[83586]=`<b>προ·αναφθέγγομαι</b>, déclarer auparavant, PHIL. <i>1, 680</i>.`

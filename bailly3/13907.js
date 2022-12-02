@@ -1,0 +1,1 @@
+lar[13907]=`<b>ἀ·προϊδής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> imprévu, ANTH. <i>7, 213</i> ; NIC. <i>Th. 2, 18</i>.<br><b>      2</b> imprévoyant, qui agit à son insu, NONN. <i>Jo. 7, 168</i>.<p><b>Étym</b>. ἀ, προϊδεῖν.`

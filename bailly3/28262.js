@@ -1,0 +1,1 @@
+lar[28262]=`<b>δυσ·βράκανος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à comprendre, CRAT. (<i>Com. fr. 2, 197).</i><p><b>Étym</b>. δ. βρακεῖν, HSCH. comprendre.`

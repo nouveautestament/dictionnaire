@@ -1,0 +1,1 @@
+lar[64477]=`<b>Μεσ·ημβρία</b>, <i>ion</i>. <b>Μεσ·αμβρίη, ης (ἡ)</b> Mésambriè :<br><b>      1</b> <i>port sur le Pont-Euxin (auj</i>. Nessebar) HDT. <i>4, 93 ; 7, 33</i>.<br><b>      2</b> <i>v. de Thrace,</i> HDT. <i>7, 108</i>.<p><b>Étym</b>. <i>v</i>. μεσημβρία.`

@@ -1,0 +1,1 @@
+lar[93001]=`<b>ων (οἱ)</b> les Stroukhates, <i>pple de Médie,</i> HDT. <i>1, 101</i>.`

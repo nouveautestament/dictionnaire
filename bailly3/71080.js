@@ -1,0 +1,1 @@
+lar[71080]=`<b>ὀλιγό·χοος-ους, οος-ους, οον-ουν</b>, <i>gén</i>. <b>όου-οῦ</b>, <i>etc</i>. <font color="purple">[ῐ]</font> qui rapporte (<i>propr</i>. qui verse) peu, TH. <i>H.P. 8, 4, 4</i>.<p>•<i> Cp</i>. -ούστερος, ARSTT. <i>G.A. 3, 7</i> ; TH. <i>C.P. 4, 8, 2</i>.<p><b>Étym</b>. ὀλ. χέω.`

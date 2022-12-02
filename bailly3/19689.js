@@ -1,0 +1,1 @@
+lar[19689]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾱᾱ]</font><br><b>      1</b> fort, PD. <i>O. 9, 114 ; P. 4, 420</i>.<br><b>      2</b> violent, PD. <i>P. 1, 18</i> ; ANTH. <i>7, 492</i>.<p><b>Étym</b>. βιάω.`

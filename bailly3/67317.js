@@ -1,0 +1,1 @@
+lar[67317]=`<b>ου (τὸ) :<br>      1</b> parfum liquide, huile <i>ou</i> essence parfumée, ARCHIL. (ATH. <i>688c</i>) ; EUR. <i>Or. 1112</i> ; AR. <i>Lys. 47</i> ; PLUT. <i>Artax. 22, etc.</i> ; EL. <i>V.H. 12, 31 ; fig. t. de tendresse,</i> ANTH. <i>5, 113</i>.<br><b>      2</b> lieu où l’on vend ces parfums, marché aux parfums, AR. <i>Eq. 1375</i>.`

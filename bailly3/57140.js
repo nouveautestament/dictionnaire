@@ -1,0 +1,1 @@
+lar[57140]=`<font color="purple">[ῠ]</font> faire initier aux rites des Corybantes, AR. <i>Vesp. 119</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. CELS. <i>c. Orig. 3, 120</i>.<p><b>Étym</b>. Κορύβας.`

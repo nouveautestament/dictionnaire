@@ -1,0 +1,1 @@
+lar[98558]=`<b>τετρά·δωρος, ος, ον</b> <font color="purple">[ᾰ]</font> long <i>ou</i> large de quatre palmes, PLIN. <i>H.N. 35, 14, 49</i> ; VITR. <i>2, 3, 3</i>.<p><b>Étym</b>. τ. δῶρον.`

@@ -1,0 +1,1 @@
+lar[69041]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> humidité, EUR. <i>Ph. 645, Bacch. 705, etc.</i> ; PLAT. <i>Tim. 74c, etc.</i> ; TH. <i>C.P. 5, 6, 1</i> ; PLUT. <i>Alex. 35 ; en parl. de la pluie,</i> NIC. <i>Th. 847</i>.<p><b>Étym</b>. νότος.`

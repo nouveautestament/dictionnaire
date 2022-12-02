@@ -1,0 +1,1 @@
+lar[15673]=`<b>ἀρχο·ειδής, ής, ές</b>, qui est de principe, élémentaire, ARSTT. <i>Metaph. 2, 3, 9, etc.</i> ; PLUT. <i>M. 1085c, etc</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>An. post. 25</i>.<p><b>Étym</b>. ἀρχή, εἶδος.`

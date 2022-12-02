@@ -1,0 +1,1 @@
+lar[21448]=`<b>αντος (ὁ)</b> Gauante, <i>surn. d’Adonis, chez les Cypriotes,</i> LYC. <i>831</i>.`

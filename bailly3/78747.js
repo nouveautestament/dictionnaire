@@ -1,0 +1,1 @@
+lar[78747]=`<b>περι·κεντέω-ῶ</b>, piquer tout autour <i>ou</i> de tous côtés, APP. <i>Civ. 4, 22</i>.`

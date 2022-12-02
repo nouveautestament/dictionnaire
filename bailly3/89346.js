@@ -1,0 +1,1 @@
+lar[89346]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾱῐδ]</font> sorte de poisson, <i>p.-ê. c</i>. σαπέρδης, ARSTT. <i>H.A. 8, 30, 7</i>.`

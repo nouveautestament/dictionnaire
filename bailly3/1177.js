@@ -1,0 +1,1 @@
+lar[1177]=`<font color="purple">[δᾰᾰ]</font> <i>adv</i>., sans qu’il en coûte, à souhait (se réjouir) EUR. <i>Or. 1176</i>.`

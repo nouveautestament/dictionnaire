@@ -1,0 +1,1 @@
+lar[75620]=`<b>ου (ὁ)</b> Paræbatès, Spartiate, HDT. <i>5, 46</i>.`

@@ -1,0 +1,1 @@
+lar[30927]=`<i>p</i>. εἶπ(ε) <i>dev. un esprit rude, v</i>. ἔπω.`

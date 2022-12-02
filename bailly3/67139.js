@@ -1,0 +1,1 @@
+lar[67139]=`(<i>seul. prés</i>.) avoir commerce avec, THCR. <i>Idyl. 4, 58</i>.`

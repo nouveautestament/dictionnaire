@@ -1,0 +1,1 @@
+lar[80778]=`<b>πλατύ·ρριν</b> <i>ou</i> <b>πλατύ·ρρις, ινος (ὁ, ἡ)</b> <font color="purple">[ᾰῑ]</font> aux larges narines <i>ou</i> au gros nez, STR. <i>96</i>.<p><b>Étym</b>. πλ. ῥίς.`

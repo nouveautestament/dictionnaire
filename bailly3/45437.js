@@ -1,0 +1,1 @@
+lar[45437]=`<b>ἡμί·θηρ, ηρος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> à moitié animal, APD. <i>1, 6, 3</i> ; PHILSTR. <i>Im. 868</i>.<p><b>Étym</b>. ἡμι-, θήρ.`

@@ -1,0 +1,1 @@
+lar[16238]=`<b>ἀ·στονάχητος, ος, ον</b> <font color="purple">[νᾰ]</font> qui ne gémit pas, ANTH. <i>App. 337</i>.<p><b>Étym</b>. ἀ, στοναχέω.`

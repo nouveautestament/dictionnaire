@@ -1,0 +1,1 @@
+lar[76746]=`<b>παρ·εξισόω-ῶ</b> <font color="purple">[ῐ]</font> égaler : τί <i>ou</i> τινά τινι, ARCHESTR. (ATH. <i>29b</i>) une ch. <i>ou</i> une personne à une autre.`

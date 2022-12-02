@@ -1,0 +1,1 @@
+lar[30317]=`<b>άδος (ἡ) :<br>      1</b> le 20<sup>e</sup> jour du mois, HÉS. <i>O. 790, 818</i> ; PLAT. <i>Leg. 849b ; au plur</i>. AR. <i>Nub. 17</i> ; AND. <i>16, 8</i>.<br><b>      2</b> <i>particul</i>. le 6<sup>e</sup> jour des fêtes d’Éleusis, EUR. <i>Ion 1076</i> ; PLUT. <i>Phoc. 28</i>.<p><b>Étym</b>. εἴκοσι.`

@@ -1,0 +1,1 @@
+lar[10620]=`<b>ἀντι·ψύχω</b> <font color="purple">[ῡ]</font> rafraîchir à son tour <i>ou</i> en retour, A. APHR. <i>Probl. 1, 113</i>.`

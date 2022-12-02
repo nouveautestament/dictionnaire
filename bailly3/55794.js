@@ -1,0 +1,1 @@
+lar[55794]=`<b>ας (ἡ)</b> Kléa, <i>f</i>. PLUT. <i>Mul. virt. proœm</i>.<p>➳ <i>Ion</i>. Κλέη, ANTH. <i>9, 688</i>.`

@@ -1,0 +1,1 @@
+lar[98052]=`<i>adv</i>., par induction, STOB. <i>Fl. 2, 767</i>.`

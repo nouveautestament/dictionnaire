@@ -1,0 +1,1 @@
+lar[102057]=`<b>ὑπ·αυχένιος, ος, ον</b> <font color="purple">[ῠ]</font> qu’on se met sous le cou, ANTH. <i>6, 41</i> ; HLD. <i>3, 4</i> ; ADAM. <i>Physiogn. p. 392 ; subst</i>. τὸ ὑπαυχένιον, LUC. <i>Gall. 11</i> ; GAL. <i>12, 218,</i> coussin pour le cou, oreiller.<p>➳ <i>Fém</i>. -α, ANTH. <i>l. c</i>.<p><b>Étym</b>. ὑ. αὐχήν.`

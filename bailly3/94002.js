@@ -1,0 +1,1 @@
+lar[94002]=`<i>adv</i>., confus, mêlé, pêle-mêle, STR. <i>33</i>.`

@@ -1,0 +1,1 @@
+lar[91964]=`<b>σποδ·εύνης, ου (ὁ)</b> qui couche sur la cendre, ANTH. <i>15, 26</i>.<p><b>Étym</b>. σποδός, εὐνή.`

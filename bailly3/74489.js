@@ -1,0 +1,1 @@
+lar[74489]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> fleur de farine, farine très fine, HPC. <i>614, 54</i>.<br><b>      2</b> <i>p. ext</i>. toute poussière fine, <i>particul</i>. poussier de charbon, PHÉRÉCR. (EUST. <i>p. 898, 7).</i><p><b>Étym</b>. <i>incert. ; cf. p.-ê</i>. πάλλω « tamiser la farine » <i>ou</i> πόλτος, <i>lat</i>. pollen.`

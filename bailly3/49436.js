@@ -1,0 +1,1 @@
+lar[49436]=`<b>ου (τὸ)</b> endroit où l’on élève des chevaux, haras, STR. <i>212, 752</i>.<p><b>Étym</b>. ἱπποτρόφος.`

@@ -1,0 +1,1 @@
+lar[544]=`<b>ἁγ·ήλατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui chasse les souillures, qui purifie, LYC. <i>436</i>.<p><b>Étym</b>. ἅγος, ἐλαύνω.`

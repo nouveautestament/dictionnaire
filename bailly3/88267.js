@@ -1,0 +1,1 @@
+lar[88267]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> la Némésis de Rhamnunte, ANTH. <i>App. 50, 2</i>.<p><b>Étym</b>. Ῥαμνοῦς.`

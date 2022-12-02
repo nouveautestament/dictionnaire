@@ -1,0 +1,1 @@
+lar[96486]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>fém. de</i> Σύρος, AR. <i>Pax 1146, etc</i>.`

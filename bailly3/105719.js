@@ -1,0 +1,1 @@
+lar[105719]=`<b>φιλο·γέωργος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime l’agriculture, <i>ou en gén</i>. la campagne, XÉN. <i>Œc. 20, 27 et 28</i> ; ARSTT. <i>fr. 530</i> ; PLUT. <i>M. 778b</i>.<p>•<i> Sup</i>. -ότατος, XÉN. <i>Œc. 26</i>.<p><b>Étym</b>. φ. γεωργός.`

@@ -1,0 +1,1 @@
+lar[42863]=`<b>εὐ·όμφαλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. εὔοσμον, la fleur à l’odeur suave, <i>càd</i>. la rose, <i>chez les Arcadiens,</i> TIMACH. (ATH. <i>682c</i>).<p><b>Étym</b>. εὖ, ὀμφαλός.`

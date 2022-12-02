@@ -1,0 +1,1 @@
+lar[56429]=`<b>κοιλό·μυχος, ος, ον</b> <font color="purple">[ῠ]</font> aux pétioles creux, TH. <i>H.P. 3, 7, 5 (conj. p</i>. κοιλόμισχος).<p><b>Étym</b>. κοῖλος, μυχός.`

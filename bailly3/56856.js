@@ -1,0 +1,1 @@
+lar[56856]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> épieu <i>ou</i> javelot, <i>fig</i>. ANTH. <i>5, 61</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

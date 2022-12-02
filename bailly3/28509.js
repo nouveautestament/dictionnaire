@@ -1,0 +1,1 @@
+lar[28509]=`<b>δύσ·θηρος, ος, ον</b>, malheureux à la chasse, OPP. <i>H. 3, 431</i>.<p><b>Étym</b>. δ. θήρα.`

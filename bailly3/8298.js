@@ -1,0 +1,1 @@
+lar[8298]=`<b>ἀν·ελλιπής, ής, ές</b> <font color="purple">[ῐ]</font> incessant, continuel, PLUT. <i>M. 495c ;</i> EL. <i>V.H. 1, 33</i>.<p><b>Étym</b>. ἀν-, ἐλλείπω.`

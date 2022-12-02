@@ -1,0 +1,1 @@
+lar[41916]=`<b>εως (ἡ)</b> <font color="purple">[κῐ]</font> <i>d’ord. au plur</i>. PLAT. <i>Rsp. 358a, 363a ;</i> LUC. <i>Pisc. 25 ; au sg</i>. THEM. <i>347,</i> bonne renommée, considération.<p><b>Étym</b>. εὐδοκιμέω.`

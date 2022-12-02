@@ -1,0 +1,1 @@
+lar[41390]=`<b>ας (ἡ)</b> défaut d’un cheval dont les yeux sont de couleur différente, HIPPIATR. <i>p. 53</i>.<p><b>Étym</b>. ἑτερόφθαλμος.`

@@ -1,0 +1,1 @@
+lar[44040]=`<b>ή, όν</b>, quotidien, ALEX. (STOB. <i>Fl. 68, 2).</i><p><b>Étym</b>. ἐφήμερος.`

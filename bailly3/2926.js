@@ -1,0 +1,1 @@
+lar[2926]=`<b>ός, όν :<br>      1</b> pudique, modeste, PLAT. <i>Charm. 160e ;</i> ARSTT. <i>Nic. 4, 9, 3</i> ; τὸ αἰ. PLAT. <i>Charm. 158c</i>, modestie.<br><b>      2</b> qui cause de la honte, ARSTT. <i>Rhet. 2, 6</i>.<p>•<i> Cp</i>. -ότερος, ARSTD. <i>40</i>.<p><b>Étym</b>. αἰσχύνω.`

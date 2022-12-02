@@ -1,0 +1,1 @@
+lar[20030]=`<b>βοηδρομέω-ῶ</b>, <i>f</i>. ήσω :<br><b>      1</b> courir au secours, à l’aide de, EUR. <i>Or. 1356</i> ; PLUT. <i>Sert. 19</i>.<br><b>      2</b> courir en criant, courir tumultueusement, APP. <i>Civ. 2, 119 ; Hann. 42</i>.<p><b>Étym</b>. βοηδρόμος.`

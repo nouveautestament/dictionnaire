@@ -1,0 +1,1 @@
+lar[53440]=`<b>κατα·στείχω</b> <font color="darkgreen">(<i>ao.2</i> κατέστιχον <font color="purple">[ῐ]</font>)</font> revenir, ANTH. <i>9, 298</i> ; NONN. <i>Jo. 4, 230</i>.`

@@ -1,0 +1,1 @@
+lar[43363]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. εὐρυχωρία PLAT. <i>Leg. 804c, au plur</i>.`

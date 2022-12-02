@@ -1,0 +1,1 @@
+lar[41037]=`<b>ἑσμο·τόκος, ος, ον</b>, qui enfante des essaims, ANTH. <i>6, 239</i>.<p><b>Étym</b>. ἑσμός, τεκεῖν.`

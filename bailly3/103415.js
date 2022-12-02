@@ -1,0 +1,1 @@
+lar[103415]=`<b>ὑπο·κρίζω</b> (<i>seul. prés</i>.) pousser un petit cri, un cri aigu, EL. <i>N.A. 6, 19</i>.`

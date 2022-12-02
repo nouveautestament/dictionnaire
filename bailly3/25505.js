@@ -1,0 +1,1 @@
+lar[25505]=`<b>εως (ἡ)</b> <font color="purple">[σᾰ]</font> éclaircissement, explication, SPT. <i>Gen. 40, 8, etc</i>.<p><b>Étym</b>. διασαφέω.`

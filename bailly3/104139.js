@@ -1,0 +1,1 @@
+lar[104139]=`<b>ὑπο·χαίνω</b> <font color="darkgreen">(<i>f</i>. -χανοῦμαι, <i>pf. au sens du prés</i>. ὑποκέχηνα)</font> avoir la bouche entr’ouverte, rester la bouche béante, EL. <i>N.A. 15, 1</i> ; A. TAT. <i>1, 1</i>.`

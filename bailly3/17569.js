@@ -1,0 +1,1 @@
+lar[17569]=`<b>αὐτο·λυρίζων ὄνος (ὁ)</b> <font color="purple">[ῠ]</font> l’âne qui joue lui-même de la lyre, LUC. <i>D. mer. 14, 4</i>.<p><b>Étym</b>. αὐ. λυρίζω.`

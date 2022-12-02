@@ -1,0 +1,1 @@
+lar[4219]=`<b>ἀλ·έλαιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> mélange d’huile et de sel, GAL. <i>14, 386</i>.<p><b>Étym</b>. ἅλς, ἔλαιον.`

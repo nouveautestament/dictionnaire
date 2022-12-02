@@ -1,0 +1,1 @@
+lar[33689]=`<b>ἐμ·φιλοτιμέομαι-οῦμαι</b> <font color="purple">[ῐῑ]</font> mettre tout son amour-propre à <i>ou</i> dans, <i>dat</i>. NYSS. <i>2, 155</i>.<p><b>Étym</b>. ἐν, φ.`

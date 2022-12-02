@@ -1,0 +1,1 @@
+lar[52009]=`<b>καρχαρ·όδους, ους, ουν</b>, <i>gén</i>. <b>-όδοντος</b> <font color="purple">[χᾰ]</font> aux dents aiguës, acérées, IL. <i>10, 360 ; 13, 198</i> ; HÉS. <i>O. 602, 794 ; Th. 175</i> ; AR. <i>Vesp. 1031</i> ; ARSTT. <i>H.A. 2, 1</i>.<p><b>Étym</b>. κ. ὀδούς.`

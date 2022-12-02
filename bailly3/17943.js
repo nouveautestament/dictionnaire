@@ -1,0 +1,1 @@
+lar[17943]=`<b>ή, όν</b>, qui s’abstient (de vin, de plaisirs, <i>etc</i>.) ARR. <i>Epict. 2, 22, 20</i>.<p><b>Étym</b>. ἀπέχομαι.`

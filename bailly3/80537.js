@@ -1,0 +1,1 @@
+lar[80537]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> Pityeia :<br><b>      1</b> <i>c</i>. Πιτύα, IL. <i>2, 829</i> ; A.RH. <i>1, 933, etc.</i><br><b>      2</b> <i>î. de la mer Adriatique,</i> A.RH. <i>4, 564</i>.`

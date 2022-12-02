@@ -1,0 +1,1 @@
+lar[27301]=`<b>διωξι·κέλευθος, ος, ον</b> <font color="purple">[ῐῐ]</font> qui accélère la marche, ANTH. <i>6, 246</i>.<p><b>Étym</b>. διώκω, κέλευθος.`

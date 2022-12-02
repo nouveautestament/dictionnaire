@@ -1,0 +1,1 @@
+lar[74848]=`<b>ου (ὁ)</b> <font color="purple">[πᾰ]</font> <i>c</i>. Πάνακτον DÉM. <i>19, 326 Baiter-Sauppe, etc.</i> ; PLUT. <i>Alc. 14, etc</i>.<p>➳ ἡ Π. PLUT. <i>Nic. 10</i>.`

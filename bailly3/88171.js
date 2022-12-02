@@ -1,0 +1,1 @@
+lar[88171]=`<b>ῥαβδο·μαχία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat au moyen de baguettes, PLUT. <i>Alex. 4</i>.<p><b>Étym</b>. ῥ. μάχομαι.`

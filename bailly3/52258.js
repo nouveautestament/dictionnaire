@@ -1,0 +1,1 @@
+lar[52258]=`<b>ος, ον</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> bariolé, tacheté, ALEX. MYND. (ATH. <i>387f</i>) ; LUC. <i>Alex. 12</i>.<br><b>      2</b> dessiné de profil, HIPPARQ. <i>ad Arat. 1, 6, p. 180 ; lat</i>. catagrapha, PLIN. <i>H.N. 35, 4,</i> dessins de profil, <i>sel. d’autres,</i> dessins en raccourci.<p><b>Étym</b>. καταγράφω.`

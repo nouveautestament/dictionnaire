@@ -1,0 +1,1 @@
+lar[76871]=`<b>ας (ἡ) :<br>      1</b> trait pour attacher un cheval de main, IL. <i>8, 87 ; 16, 152</i>.<br><b>      2</b> bord <i>ou</i> extrémité (<i>d’un navire,</i> A.RH. <i>4, 943 ; d’un fleuve,</i> ARAT. <i>600).</i><p><b>Étym</b>. παρήορος.`

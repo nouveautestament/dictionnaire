@@ -1,0 +1,1 @@
+lar[20670]=`<b>ίδος</b>, <i>adj. f</i>. de Braurôn, <i>càd</i>. d’Attique, ANTH. <i>7, 705</i>.<p><b>Étym</b>. βραυρών.`

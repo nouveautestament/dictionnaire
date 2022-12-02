@@ -1,0 +1,1 @@
+lar[102058]=`<b>ὑπ·αύχενον, ου (τὸ)</b> <font color="purple">[ῠ]</font> partie inférieure du cou, gorge, ARAT. <i>487, 524</i>.<p><b>Étym</b>. ὑ. αὐχήν.`

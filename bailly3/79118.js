@@ -1,0 +1,1 @@
+lar[79118]=`<b>εως (ἡ)</b> entrelacement, enlacement, ARSTT. <i>Cæl. 3, 4, 6</i>.<p><b>Étym</b>. περιπλέκω.`

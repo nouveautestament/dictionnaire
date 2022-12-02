@@ -1,0 +1,1 @@
+lar[101144]=`<b>ου (ἡ)</b> <font color="purple">[ῠ]</font> Tyr (<i>auj</i>. Ṣūr) <i>v. et î. de Phénicie,</i> HDT. <i>2, 44, etc</i>.`

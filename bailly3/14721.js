@@ -1,0 +1,1 @@
+lar[14721]=`<b>Ἀριστό·λοχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristolokhos, <i>h</i>. XÉN. <i>Hell. 5, 4, 22, etc</i>.<p><b>Étym</b>. ἄ. λόχος.`

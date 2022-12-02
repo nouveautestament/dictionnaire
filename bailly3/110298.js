@@ -1,0 +1,1 @@
+lar[110298]=`<b>ὠμό·φαγος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> mangé cru, EUR. <i>fr. 475, 12</i>.<br><b>      2</b> qu’on peut manger cru, XÉNOCR. <i>Al. 78</i>.<p><b>Étym</b>. ὠ. φαγεῖν.`

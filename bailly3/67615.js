@@ -1,0 +1,1 @@
+lar[67615]=`<b>ναννο·φυής, ής, ές</b>, d’une taille de nain, AR. <i>Pax 790</i>.<p><b>Étym</b>. νάννος, φύω.`

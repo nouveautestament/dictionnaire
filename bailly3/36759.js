@@ -1,0 +1,1 @@
+lar[36759]=`<b>ατος (τὸ)</b> doute qu’on fait naître, question qu’on soulève, ORIG. <i>1, 23 f Delarue</i> ; BAS. <i>2, 219</i>.<p><b>Étym</b>. ἐπαπορέω.`

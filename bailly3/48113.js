@@ -1,0 +1,1 @@
+lar[48113]=`<i>adv</i>., vers l’assemblée, OD. <i>5, 3</i>.<p><b>Étym</b>. θῶκος, -δε.`

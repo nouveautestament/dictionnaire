@@ -1,0 +1,1 @@
+lar[73783]=`<font color="purple">[ῐ]</font> <i>adv. nég. c</i>. οὐχ IL. <i>15, 716 ; 16, 762</i> ; ATT.`

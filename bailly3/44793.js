@@ -1,0 +1,1 @@
+lar[44793]=`<b>ζωόω-ζωῶ</b>, rendre vivant, animer, PLOT. <i>Enn. 705</i>.<p><b>Étym</b>. ζωός.`

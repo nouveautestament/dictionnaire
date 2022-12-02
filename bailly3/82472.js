@@ -1,0 +1,1 @@
+lar[82472]=`<b>πολύ·τρητος, ος, ον</b>, aux nombreux trous, <i>en parl. d’éponges,</i> OD. <i>1, 111 ; 22, 439 ; de flûtes,</i> ANTH. <i>9, 266, etc. ; de ruches d’abeilles,</i> ANTH. <i>9, 363, 15, etc. ; des poumons,</i> ARÉT. <i>39, 36</i> ; STR. <i>578</i>.<p><b>Étym</b>. π. τιτραίνω.`

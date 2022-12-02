@@ -1,0 +1,1 @@
+lar[4286]=`<b>οῦ (ὁ)</b> Aléos, <i>h</i>. PLUT. <i>Gen. Socr. 5, etc</i>.`

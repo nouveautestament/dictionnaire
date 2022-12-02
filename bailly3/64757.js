@@ -1,0 +1,1 @@
+lar[64757]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> qu’on peut <i>ou</i> qu’il faut déplacer <i>ou</i> changer, THC. <i>5, 21</i> ; PLUT. <i>M. 152a</i>.<p><b>Étym</b>. <i>vb. de</i> μετακινέω.`

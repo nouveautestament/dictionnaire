@@ -1,0 +1,1 @@
+lar[96973]=`<i>gén. plur. du pron</i>. οὗ.`

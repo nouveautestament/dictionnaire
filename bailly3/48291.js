@@ -1,0 +1,1 @@
+lar[48291]=`<i>adv.</i> :<br><b>      1</b> à la façon des Ioniens (<i>p. opp. à</i> Δωριστί) PLAT. <i>Lach. 188d.</i><br><b>      2</b> en langue ionienne, STR. <i>13, 4, 8 Kram.</i> ; DYSC. <i>Conj. 500, 14</i> ; LUC. <i>Her. 2</i>.<br><b>      3</b> sur le mode ionien, <i>t. de mus</i>. PLAT. <i>Rsp. 398e</i>, ATH. <i>524f</i>.<p><b>Étym</b>. ἰάζω.`

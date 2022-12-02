@@ -1,0 +1,1 @@
+lar[63202]=`<b>ου</b>, <i>adj. m</i>. de Maurétanie, Maure, LUC. <i>H. conscr. 28</i> ; οἱ Μαῦροι, les Maures, LUC. <i>H. conscr. 31</i>.`

@@ -1,0 +1,1 @@
+lar[14423]=`<font color="purple">[ᾰᾰῑτ]</font> <i>var. réc. p</i>. Ἀρεοπαγιτικός.`

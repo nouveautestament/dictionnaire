@@ -1,0 +1,1 @@
+lar[6977]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> défaut de suite dans le discours, anacoluthe, D. PHAL. <i>153</i>.<p><b>Étym</b>. ἀνακόλουθος.`

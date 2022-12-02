@@ -1,0 +1,1 @@
+lar[47745]=`<b>άδος</b>, <i>adj. f</i>. de Thronion, EUR. <i>I.A. 264</i>.<p><b>Étym</b>. Θρόνιον.`

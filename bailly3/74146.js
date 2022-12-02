@@ -1,0 +1,1 @@
+lar[74146]=`<b>παγ·κύνιον, ου (τὸ)</b> <font color="purple">[ῡ]</font> sorte d’algue marine dont le suc est mortel aux chiens de mer, EL. <i>N.A. 14, 24</i>.<p><b>Étym</b>. π. κύων.`

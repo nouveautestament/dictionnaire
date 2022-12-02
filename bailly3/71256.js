@@ -1,0 +1,1 @@
+lar[71256]=`<b>ων (οἱ)</b> les habitants d’Olpè, THC. <i>3, 101</i>.<p><b>Étym</b>. Ὄλπη.`

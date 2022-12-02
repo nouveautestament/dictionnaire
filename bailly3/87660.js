@@ -1,0 +1,1 @@
+lar[87660]=`<b>πυλ·αγόρας, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> pylagore, <i>député à l’assemblée de Pyles ou conseil des Amphictions,</i> DÉM. <i>277, 1</i> ; ESCHN. <i>69, 31</i> ; STR. <i>420, etc</i>.<p><b>Étym</b>. Πύλαι, ἀγορεύω.`

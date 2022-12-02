@@ -1,0 +1,1 @@
+lar[110622]=`<b>ητος (ἡ)</b> pâleur, PLAT. <i>Rsp. 474e ;</i> PLUT. <i>M. 56d ;</i> LUC. <i>Ic. 5 ; p. opp. à</i> μελανία, ARSTT. <i>Categ. 8, 14 ; au plur. p. opp. à</i> ἐρυθήματα, ARSTT. <i>Mot. an. 7, 12</i> ; PLUT. <i>M. 84e</i>.<p><b>Étym</b>. ὠχρός.`

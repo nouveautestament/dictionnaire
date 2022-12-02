@@ -1,0 +1,1 @@
+lar[74600]=`<b>παλιν·τράπελος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> changeant, contraire, PD. <i>O. 2, 69</i>.<p><b>Étym</b>. π. τρέπω.`

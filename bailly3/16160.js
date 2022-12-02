@@ -1,0 +1,1 @@
+lar[16160]=`<i>adv</i>., avec élégance <i>ou</i> finesse, PLUT. <i>Sol. 15</i> ; LUC. <i>Nigr. 13</i>.<p><b>Étym</b>. ἀστεῖος.`

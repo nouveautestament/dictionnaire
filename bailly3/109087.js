@@ -1,0 +1,1 @@
+lar[109087]=`<b>ου (ἡ)</b> <font color="purple">[ῡ]</font> Khrysarion, <i>f</i>. LUC. <i>D. mer. 1</i>.<p><b>Étym</b>. χρυσός.`

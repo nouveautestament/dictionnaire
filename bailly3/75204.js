@@ -1,0 +1,1 @@
+lar[75204]=`<b>παντ·ειδήμων</b>, <i>gén</i>. <b>ονος (ὁ, ἡ)</b> qui prétend tout savoir, qui sait tout, PHILOD. <i>De sup. 15, 17</i>.<p><b>Étym</b>. π. εἰδέναι.`

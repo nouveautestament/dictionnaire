@@ -1,0 +1,1 @@
+lar[18697]=`<b>ου (ὁ)</b> Bagæos, <i>Perse,</i> HDT. XÉN. PLUT. <i>etc</i>.`

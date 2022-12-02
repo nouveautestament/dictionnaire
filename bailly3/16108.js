@@ -1,0 +1,1 @@
+lar[16108]=`<b>ίδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f. c</i>. Ἀσσύριος APP.`

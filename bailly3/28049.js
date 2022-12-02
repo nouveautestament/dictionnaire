@@ -1,0 +1,1 @@
+lar[28049]=`<font color="purple">[ῠ]</font>(<i>seul. 3 pl. épq</i>. δυόωσι) accabler de maux, OD. <i>20, 195</i>.<p><b>Étym</b>. δύη.`

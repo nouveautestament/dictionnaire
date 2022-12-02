@@ -1,0 +1,1 @@
+lar[88614]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> cloaque, égout (<i>litt</i>. nauséabond) STR. <i>640</i>.<p><b>Étym</b>. ῥίς, ἔχω.`

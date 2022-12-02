@@ -1,0 +1,1 @@
+lar[93109]=`<b>α, ον</b>, astringent ; <i>subst</i>. ἡ στυπτηρία, ας (<i>s.-e</i>. γῆ) alun (<i>litt</i>. terre astringente) HDT. <i>2, 180</i> ; T. LOCR. <i>99d ;</i> HPC. <i>877, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. HPC. <i>ll. cc</i>.<p><b>Étym</b>. στύφω.`

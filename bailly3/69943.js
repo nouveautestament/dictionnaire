@@ -1,0 +1,1 @@
+lar[69943]=`<b>ξυρο·φορέω-ῶ</b> <font color="purple">[ῠ]</font> porter un rasoir, AR. <i>Th. 218</i>.<p><b>Étym</b>. ξυρόν, -φορος <i>de</i> φέρω.`

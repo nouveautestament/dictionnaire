@@ -1,0 +1,1 @@
+lar[2433]=`<b>αἰθερ·εμβατέω-ῶ</b> <font color="purple">[ᾰ]</font> voyager dans les airs, A. PL. <i>338</i>.<p><b>Étym</b>. αἰθήρ, ἐ.`

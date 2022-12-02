@@ -1,0 +1,1 @@
+lar[81976]=`<b>πολυ·κερδής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> très adroit, rusé, fourbe, OD. <i>13, 255</i>.<br><b>      2</b> habile à gagner de l’argent, MAN. <i>1, 132</i>.<p><b>Étym</b>. π. κέρδος.`

@@ -1,0 +1,1 @@
+lar[10]=`<b>ἀ·αγής, ής, ές</b> <font color="purple">[αᾱ]</font> <font color="brown">qui ne se rompt pas, solide</font>.<p>➳ <font color="purple">[ᾰᾱ]</font> OD. <i>11, 575</i> ; THCR. <i>Idyl. 24, 121, etc.</i> ; <font color="purple">[ᾱᾱ]</font> A.RH. <i>3, 1251</i> ; Q. SM. <i>6, 595</i>.<p><b>Étym</b>. ἀ, ἄγνυμι.`

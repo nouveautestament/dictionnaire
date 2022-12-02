@@ -1,0 +1,1 @@
+lar[68661]=`<b>νηστο·ποτέω-ῶ</b>, boire à jeun, HÉRODOTUS (ORIB. <i>p. 69, 70 Matthäi).</i><p><b>Étym</b>. νῆστις, ποτός.`

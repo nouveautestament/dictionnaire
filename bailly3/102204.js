@@ -1,0 +1,1 @@
+lar[102204]=`<b>ὑπ·εξελαύνω</b> (<i>seul. part. prés</i>.) :<br><b>      1</b> bouleverser, détruire (des puits) HDT. <i>4, 120</i>.<br><b>      2 <i>intr.</i></b> s’éloigner peu à peu, HDT. <i>4, 130</i>.`

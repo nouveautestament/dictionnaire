@@ -1,0 +1,1 @@
+lar[5696]=`<b>ας (ἡ)</b> <font color="purple">[ῐκᾰ]</font> absence de ressentiment, SPT. <i>3Macc. 3, 21</i> ; CLÉM. <i>474</i>.`

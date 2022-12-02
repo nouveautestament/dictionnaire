@@ -1,0 +1,1 @@
+lar[60747]=`<i>n. géogr.</i> :<br><b>      1</b> Λ. ποταμός (ὁ) <i>ou simpl</i>. ὁ Λήθης, APP. <i>Iber. 11,</i> le Lèthès (<i>auj</i>. Lima) <i>fl. de Lusitanie,</i> PLUT. <i>Qu. gr. 34</i>.<br><b>      2</b> Λ. τόπος, le lieu du Lèthè <i>ou</i> de l’Oubli, <i>lieu de Thespies,</i> PLUT. <i>Ser. num. vind. 22</i>.`

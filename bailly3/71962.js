@@ -1,0 +1,1 @@
+lar[71962]=`<b>ὀνομα·κλήδην</b>, <i>adv</i>., en désignant par son nom, OD. <i>4, 278</i>.<p><b>Étym</b>. ὄνομα, καλέω, -δην.`

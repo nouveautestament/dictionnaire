@@ -1,0 +1,1 @@
+lar[38817]=`<b>ἐπι·προσθέω-ῶ</b>, être en avant de, dans l’alignement de, <i>dat</i>. ARSTT. <i>Top. 6, 11, 1</i> ; TH. <i>Vent. 32</i> ; POL. <i>1, 47, 2 ; particul</i>. intercepter le jour, <i>d’où</i> aveugler, <i>fig. en parl. de la colère, dat</i>. PLUT. <i>M. 450c, 471c ; d’où au pass</i>. être masqué <i>ou</i> obscurci, <i>fig</i>. PLUT. <i>M. 42d</i>.`

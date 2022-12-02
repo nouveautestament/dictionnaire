@@ -1,0 +1,1 @@
+lar[43722]=`<b>ας (ἡ)</b> bonne <i>ou</i> abondante pâture, SOPH. <i>fr. 727</i>.<p><b>Étym</b>. εὔφορβος.`

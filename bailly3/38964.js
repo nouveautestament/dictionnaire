@@ -1,0 +1,1 @@
+lar[38964]=`<b>ής, ές</b> <font color="purple">[σῑ]</font><br><b>      1</b> <i>pass</i>. exposé à un dommage, TH. <i>H.P. 8, 6, 1, etc.</i><br><b>      2</b> <i>act</i>. nuisible, malfaisant, TH. <i>H.P. 2, 3, 2</i>.<p><b>Étym</b>. ἐπισίνομαι.`

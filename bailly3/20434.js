@@ -1,0 +1,1 @@
+lar[20434]=`<b>ου (τὸ)</b> salle du conseil, Ps.-PLUT. <i>V. Hom. 12</i>.<p><b>Étym</b>. βουλεύω.`

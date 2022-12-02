@@ -1,0 +1,1 @@
+lar[91050]=`<b>ας (ἡ)</b> affection des yeux où se porte et sèche l’humeur, P. ÉG. <i>3, 22</i>.<p><b>Étym</b>. σκληρόφθαλμος.`

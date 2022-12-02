@@ -1,0 +1,1 @@
+lar[108769]=`<b>ων (οἱ)</b> les Khorasmies, <i>pple de la Sogdiane (auj</i>. le Khwarezm) HDT. <i>3, 93, 117 ; 7, 66, etc</i>.`

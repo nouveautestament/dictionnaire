@@ -1,0 +1,1 @@
+lar[84326]=`<b>προ·ῆμαρ</b>, <i>adv</i>., pendant tout le jour, SIM. AM. <i>fr. 7, 47</i>.<p><b>Étym</b>. π. ἦμαρ.`

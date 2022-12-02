@@ -1,0 +1,1 @@
+lar[24921]=`<b>δι·αλείφω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> oindre sur toute la surface, HPC. <i>614, 52</i>.<br><b>      2</b> effacer avec une substance grasse, PLUT. <i>Arat. 13</i> ; ATH. <i>407c</i>.`

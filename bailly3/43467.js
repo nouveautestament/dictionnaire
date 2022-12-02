@@ -1,0 +1,1 @@
+lar[43467]=`<b>εὔ·σταχυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ᾰ]</font> aux beaux épis <i>ou</i> chargé d’épis, ANTH. <i>6, 36 ; fig</i>. fécond, ANTH. <i>5, 276 ; 7, 589</i>.<p>➳ <i>Épq</i>. ἐΰσταχυς, ORACL. (HLD. <i>2, 26).</i><p><b>Étym</b>. εὖ, στάχυς.`

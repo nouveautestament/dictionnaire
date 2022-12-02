@@ -1,0 +1,1 @@
+lar[45040]=`<b>ἡδυ·χαρής, ής, ές</b> <font color="purple">[ῠᾰ]</font> tout à fait joyeux, ANTH. <i>3, 18</i>.<p><b>Étym</b>. ἡ. χαίρω.`

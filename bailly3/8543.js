@@ -1,0 +1,1 @@
+lar[8543]=`<b>ἀν·ερείδω</b>, appuyer, ARISTÉN. <i>1, 22 dout</i>.<p><b>Étym</b>. ἀνά, ἐ.`

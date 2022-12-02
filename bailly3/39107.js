@@ -1,0 +1,1 @@
+lar[39107]=`<b>ἐπι·στεγάζω</b>, couvrir d’un toit, CTÉS. (ATH. <i>529c</i>).`

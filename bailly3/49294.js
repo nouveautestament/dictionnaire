@@ -1,0 +1,1 @@
+lar[49294]=`<b>ου (ὁ) :<br>      1</b> le petit cheval, <i>comédie d’Alexis,</i> ATH. <i>120b, etc.</i><br><b>      2</b> ornement de la coiffure des femmes, CRAT. (HSCH.).<p><b>Étym</b>. ἵππος.`

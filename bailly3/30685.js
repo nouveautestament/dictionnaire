@@ -1,0 +1,1 @@
+lar[30685]=`<b>εἰσ·ανέχω</b> (<i>seul. prés</i>.) :<br><b>      1</b> s’élever au-dessus de, <i>gén</i>. A.RH. <i>1, 1360 ; 4, 291</i>.<br><b>      2</b> s’élever dans, se soulever et pénétrer dans, <i>acc</i>. A.RH. <i>4, 1578</i>.`

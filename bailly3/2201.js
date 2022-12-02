@@ -1,0 +1,1 @@
+lar[2201]=`<b>αἰγειρο·φόρος, ος, ον</b>, qui produit des peupliers noirs, M. TYR. <i>118, 38 Dübn</i>.<p><b>Étym</b>. αἴγ. φέρω.`

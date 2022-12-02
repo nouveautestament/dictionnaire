@@ -1,0 +1,1 @@
+lar[22314]=`<b>γνωμο·λογέω-ῶ</b>, parler par sentences, ARSTT. <i>Rhet. 2, 21, 1 ; Rhet. Al. 33, 9</i>.<p><b>Étym</b>. *γνωμολόγος <i>de</i> γνώμη, λέγω.`

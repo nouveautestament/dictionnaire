@@ -1,0 +1,1 @@
+lar[11175]=`<b>ας (ἡ)</b> <font color="purple">[ᾰπᾰ]</font> mollesse, GEOP. <i>1, 8, 2</i>.<p><b>Étym</b>. ἁπαλός.`

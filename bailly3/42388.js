@@ -1,0 +1,1 @@
+lar[42388]=`<b>εὐ·καταμάθητος, ος, ον</b> <font color="purple">[μᾰ]</font> facile à apprendre, HPC. <i>Acut. 388</i>.<p><b>Étym</b>. εὖ, καταμανθάνω.`

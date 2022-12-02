@@ -1,0 +1,1 @@
+lar[91178]=`<b>σκορπιο·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui combat contre un scorpion, ARSTT. <i>Mir. 139</i>.<p><b>Étym</b>. σκ. μάχομαι.`

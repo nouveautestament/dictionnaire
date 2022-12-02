@@ -1,0 +1,1 @@
+lar[43683]=`<b>εὐ·υφής, ής, ές</b> <font color="purple">[ῠφ]</font> bien tissé, SOPH. <i>Tr. 602</i> ; ANTH. <i>10, 2</i>.<p><b>Étym</b>. εὖ, ὑφαίνω.`

@@ -1,0 +1,1 @@
+lar[92977]=`<b>α (ὁ)</b> Strouthas, <i>Perse,</i> XÉN. <i>Hell. 4, 8, 17, etc</i>.`

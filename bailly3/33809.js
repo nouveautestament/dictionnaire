@@ -1,0 +1,1 @@
+lar[33809]=`<b>ἐν·αιματόω-ῶ</b> <font color="purple">[ᾰ]</font> ensanglanter, HPC. <i>280, 11</i>.<p><b>Étym</b>. ἐν, αἷμα.`

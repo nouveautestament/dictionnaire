@@ -1,0 +1,1 @@
+lar[45813]=`<b>ιδος (ἡ)</b> <i>fém. de</i> Ἡρακλεώτης, <i>en parl. de pers</i>. MEMN. <i>fr. 50 ; de choses</i> : ἡ Ἡρ. XÉN. <i>An. 6, 2, 19,</i> le territoire d’Hèrakleia, <i>en Bithynie</i>.`

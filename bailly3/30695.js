@@ -1,0 +1,1 @@
+lar[30695]=`<b>*εἰσ·αρτίζω</b>, <i>ion</i>. <b>ἐσ·αρτίζω</b> (<i>inf. prés</i>.) ajuster <i>ou</i> adapter dans, HPC. <i>471, 48</i>.`

@@ -1,0 +1,1 @@
+lar[29012]=`<b>ατος (τὸ)</b> (<i>au plur</i>.) marque d’impatience, de mauvaise humeur, PLAT. <i>Phil. 44d</i>.<p><b>Étym</b>. δυσχεραίνω.`

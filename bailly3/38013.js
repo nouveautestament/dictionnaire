@@ -1,0 +1,1 @@
+lar[38013]=`<b>ἐπι·κεφαλίς, ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐπικέφαλον HÉRON <i>p. 220 Wescher, Poliorcétique des Grecs</i>.`

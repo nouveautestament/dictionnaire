@@ -1,0 +1,1 @@
+lar[96545]=`<b>συρο·πέρδιξ, ικος (ὁ)</b> <font color="purple">[ῠῑκ]</font> perdrix de Syrie, EL. <i>N.A. 16, 7</i>.<p><b>Étym</b>. Σύρος, πέρδιξ.`

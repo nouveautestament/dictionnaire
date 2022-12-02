@@ -1,0 +1,1 @@
+lar[70264]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> enflé, gonflé, ARCHIL. (STOB. <i>Fl. 124, 30</i>) ; NIC. <i>Al. 210</i>.<p>•<i> Cp</i>. -ώτερος, A. TR. <i>1, 329, 14 Puschmann</i>.<p><b>Étym</b>. οἰδέω.`

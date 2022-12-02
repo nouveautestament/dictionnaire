@@ -1,0 +1,1 @@
+lar[84323]=`<b>προ·ηδύνομαι</b>, se réjouir auparavant, ES. <i>23.2 Chambry</i>.`

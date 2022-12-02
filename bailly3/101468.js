@@ -1,0 +1,1 @@
+lar[101468]=`<b>ὑδατοποτέω-ῶ</b> <font color="purple">[ῠᾰ]</font> boire de l’eau, LUC. <i>Ic. 7</i>.<p><b>Étym</b>. ὑδατοπότης.`

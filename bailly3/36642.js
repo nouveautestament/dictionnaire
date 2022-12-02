@@ -1,0 +1,1 @@
+lar[36642]=`<b>ἐπ·αναρριπτέω-ῶ</b> (<i>part. prés</i>. -οῦντες) s’enlever en bondissant, bondir, XÉN. <i>Cyn. 5, 4</i>.`

@@ -1,0 +1,1 @@
+lar[6579]=`<b>ίδος (ἡ)</b> pimprenelle, <i>plante,</i> DIOSC. <i>2, 209</i>.`

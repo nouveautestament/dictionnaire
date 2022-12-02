@@ -1,0 +1,1 @@
+lar[52124]=`<b>ος, ον</b> <font color="purple">[βᾰ]</font> qui descend (du ciel) SPT. <i>Sap. 10, 6</i>.<p><b>Étym</b>. καταβαίνω.`

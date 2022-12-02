@@ -1,0 +1,1 @@
+lar[33530]=`<i>adv</i>., avec difficulté <i>ou</i> embarras, PLAT. <i>Crat. 415c</i>.<p><b>Étym</b>. ἐμποδίζω.`

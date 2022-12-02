@@ -1,0 +1,1 @@
+lar[88776]=`<b>ῥομβο·ειδής, ής, ές</b>, qui a la forme d’une toupie, <i>ou p. suite,</i> d’un losange, rhomboïde, HPC. <i>Art. 802</i> ; STR. <i>78</i> ; HÉGÉSANDRE (ATH. <i>108a</i>), <i>etc. ; subst</i>. τὸ ῥομβοειδές, PLUT. <i>Thes. 27,</i> monument en forme de losange, <i>à Mégare</i>.<p><b>Étym</b>. ῥόμβος, εἶδος.`

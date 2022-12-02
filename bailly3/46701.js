@@ -1,0 +1,1 @@
+lar[46701]=`<b>Θεο·λύτη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Théolytè, <i>f</i>. THPP. COM. (ATH. <i>471a</i>).<p><b>Étym</b>. <i>fém. de</i> Θεόλυτος.`

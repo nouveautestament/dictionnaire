@@ -1,0 +1,1 @@
+lar[68875]=`<b>α, ον</b>, de bâtard : χρήματα νοθεῖα, AR. <i>Av. 1656</i> ; LYS. (HARP. <i>v°</i> νοθεία), part d’héritage qui revient à l’enfant naturel.<p><b>Étym</b>. νόθος.`

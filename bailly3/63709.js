@@ -1,0 +1,1 @@
+lar[63709]=`<b>μειλιχό·μυθος, ος, ον</b> <font color="purple">[ῐῡ]</font> à la parole douce, aimable, NAZ. <i>2, 158</i>.<p><b>Étym</b>. μ. μῦθος.`

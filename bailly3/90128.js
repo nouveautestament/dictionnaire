@@ -1,0 +1,1 @@
+lar[90128]=`<b>ου (ὁ)</b> <font color="purple">[ῐῡ]</font> <i>c</i>. σίγυνον A.RH. <i>2, 99</i> ; ANTH. <i>6, 176</i>.`

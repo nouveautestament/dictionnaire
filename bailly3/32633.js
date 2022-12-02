@@ -1,0 +1,1 @@
+lar[32633]=`<b>ής, ές</b>, blâmable, honteux, vil, <i>en parl. de pers</i>. IL. <i>4, 242 ; 24, 239</i>.<p>•<i> Sup</i>. ἐλέγχιστος, IL. <i>2, 285</i>.<p><b>Étym</b>. ἔλεγχος.`

@@ -1,0 +1,1 @@
+lar[41331]=`<b>ἑτερο·κλινής, ής, ές</b> <font color="purple">[ῐ]</font> qui penche d’un côté, HPC. <i>Art. 795</i> ; DC. <i>57, 21</i> ; τὰ ἑτεροκλινῆ τῶν χωρίων, XÉN. <i>Cyn. 2, 7,</i> parties déclives d’un terrain.<p><b>Étym</b>. ἕ. κλίνω.`

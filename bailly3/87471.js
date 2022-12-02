@@ -1,0 +1,1 @@
+lar[87471]=`<b>πτωχ·αλαζών, όνος (ὁ, ἡ)</b> <font color="purple">[ᾰλ]</font> gueux, vantard, PHRYN. COM. <i>2-1, 584 Mein.</i> ; ATH. <i>230c</i>.<p><b>Étym</b>. πτωχός, ἀλαζών.`

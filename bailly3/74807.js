@@ -1,0 +1,1 @@
+lar[74807]=`<b>παν·άγιος, α, ον</b> <font color="purple">[ᾰᾰ]</font> tout à fait saint, CLÉM. <i>349 Migne</i> ; JOS. <i>Macc. 7, 2</i>.<p><b>Étym</b>. π. ἅγιος.`

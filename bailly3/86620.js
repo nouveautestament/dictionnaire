@@ -1,0 +1,1 @@
+lar[86620]=`<b>προσ·φοιτάω-ῶ</b>, aller souvent chez <i>ou</i> vers, fréquenter, LYS. <i>166, 37, etc. ; avec</i> πρός <i>et l’acc</i>. LYS. <i>170, 8</i> ; DÉM. <i>786, 8, etc. ; dat</i>. STR. <i>644</i> ; DH. <i>Rhet. 9, 11, etc. ; fig. avec</i> πρός <i>et l’acc</i>. ANTIPH. (<i>Com. fr. 3, 155</i>).`

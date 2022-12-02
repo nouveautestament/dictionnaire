@@ -1,0 +1,1 @@
+lar[92084]=`<font color="purple">[ᾰ]</font> rôtir, faire frire, AR. <i>Ach. 1041, etc.</i> ; ARSTT. <i>H.A. 4, 8, 21, etc.</i> ; TH. <i>H.P. 7, 13, 3, etc</i>.`

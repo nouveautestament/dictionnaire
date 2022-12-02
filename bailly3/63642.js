@@ -1,0 +1,1 @@
+lar[63642]=`<b>ου (ὁ)</b> le dieu de l’ivresse (μέθυ) <i>sel</i>. PLUT. <i>M. 648e ; sel. d’autres,</i> le dieu de Méthymne.<p><b>Étym</b>. *Μέθυμνα <i>p</i>. Μήθυμνα.`

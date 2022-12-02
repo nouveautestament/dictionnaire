@@ -1,0 +1,1 @@
+lar[27148]=`<b>διφρηλατέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἐδιφρηλάτουν) :</font><br><b>      1</b> conduire un char <i>ou</i> un attelage, EUR. <i>Rhes. 781</i>.<br><b>      2</b> parcourir en char, SOPH. <i>Aj. 845</i>.<p><b>Étym</b>. διφρηλάτης.`

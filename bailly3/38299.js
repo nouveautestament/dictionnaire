@@ -1,0 +1,1 @@
+lar[38299]=`<b>ης (ἡ)</b> oubli, ALEX. (SCH.-AR. <i>Nub. 788).</i><p><b>Étym</b>. ἐπιλήθω.`

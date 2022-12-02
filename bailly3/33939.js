@@ -1,0 +1,1 @@
+lar[33939]=`<b>ἐν·αποθλίβω</b> <font color="purple">[ῑ]</font> écraser dans <i>ou</i> sous, <i>dat</i>. PHIL. <i>1, 541</i>.`

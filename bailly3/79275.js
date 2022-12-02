@@ -1,0 +1,1 @@
+lar[79275]=`<b>περι·σκιρτάω-ῶ</b>, bondir tout autour, <i>acc</i>. EL. <i>N.A. 14, 28</i> ; LUC. <i>Bacch. 2</i> ; ANTH. <i>12, 181, etc</i>.`

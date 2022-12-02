@@ -1,0 +1,1 @@
+lar[24223]=`<b>δημιο·πληθής, ής, ές</b>, que le peuple possède en abondance, ESCHL. <i>Ag. 128</i>.<p><b>Étym</b>. δήμιος, πλῆθος.`

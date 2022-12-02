@@ -1,0 +1,1 @@
+lar[92265]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> état de ce qui est impénétrable, DP. <i>1166</i>.<p><b>Étym</b>. στεγανός.`

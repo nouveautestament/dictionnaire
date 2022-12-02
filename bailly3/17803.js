@@ -1,0 +1,1 @@
+lar[17803]=`<b>ου (ὁ)</b> <i>transcr. du lat</i>. Aufidius :<br><b>      1</b> <i>n. d’h</i>. PLUT. DC. <i>etc.</i><br><b>      2</b> <i>fl. d’Apulie (auj</i>. Ofanto) PLUT. PTOL. (<i>cf</i>. Αὔφιδος).`

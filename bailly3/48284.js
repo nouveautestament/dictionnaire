@@ -1,0 +1,1 @@
+lar[48284]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Iasos :<br><b>      1</b> <i>chef athénien,</i> IL. <i>15, 332, 337</i>.<br><b>      2</b> <i>roi du Péloponnèse,</i> OD. <i>18, 245</i>.`

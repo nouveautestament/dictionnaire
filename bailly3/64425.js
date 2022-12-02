@@ -1,0 +1,1 @@
+lar[64425]=`<b>*μεσαβόω</b>, <i>épq</i>. <b>μεσσαβόω-ῶ</b> <font color="purple">[ᾰ]</font> atteler au joug une paire de bœufs, LYC. <i>817</i>.<p><b>Étym</b>. μέσαβον.`

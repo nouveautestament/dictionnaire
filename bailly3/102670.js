@@ -1,0 +1,1 @@
+lar[102670]=`<b>ὑπέρ·νοος-ους, οος-ους, οον-ουν</b>, au-dessus de l’intelligence, PROCL. <i>Inst. theol. c. 115, p. 168</i>.<p><b>Étym</b>. ὑ. νόος.`

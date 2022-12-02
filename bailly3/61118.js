@@ -1,0 +1,1 @@
+lar[61118]=`<b>α, ον</b> <font color="purple">[ῐ]</font> de Likymnios, PLAT. <i>Phædr. 267c</i>.<p><b>Étym</b>. <i>v</i>. Λικύμνιος².`

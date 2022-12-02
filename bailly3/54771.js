@@ -1,0 +1,1 @@
+lar[54771]=`<b>ατος (τὸ) :<br>      1</b> espace vide, POL. <i>6, 31, 9, etc.</i> ; PHIL. BYZ. <i>Bel. 57, 17</i>.<br><b>      2</b> <i>t. de méd</i>. évacuation, purgation, PLUT. <i>M. 381c, 655b</i>.<p><b>Étym</b>. κενόω.`

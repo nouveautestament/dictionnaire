@@ -1,0 +1,1 @@
+lar[17545]=`<b>αὐτό·κρισις, εως (ἡ)</b> <font color="purple">[ῐσ]</font> <i>litt</i>. jugement qui se rend de soi-même, ORIG.`

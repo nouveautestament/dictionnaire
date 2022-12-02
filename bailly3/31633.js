@@ -1,0 +1,1 @@
+lar[31633]=`<b>ος, ον</b> <font color="purple">[ῠ]</font><br><b>   I</b> dégagé, libre, <i>d’où</i> :<br><b>      1</b> rapide, léger, EUR. <i>Andr. 1133</i>.<br><b>      2</b> <i>fig</i>. sans frein, T. LOCR. <i>102e.</i><br><b>   II</b> relâché, affaibli, ARÉT. <i>Caus. m. acut. 2, 2, p. 14, etc. ; en parl. de vin sans force,</i> GEOP. <i>7, 1, 4</i>.<p><b>Étym</b>. ἐκλύω.`

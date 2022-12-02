@@ -1,0 +1,1 @@
+lar[109688]=`<b>ψευδο·κιννάμωμον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> faux cinnamome, <i>plante,</i> DIOSC. <i>1, 13</i> ; GAL. <i>Simpl. med. 7</i>.`

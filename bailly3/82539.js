@@ -1,0 +1,1 @@
+lar[82539]=`<b>πολυ·φυής, ής, ές</b> <font color="purple">[λῠ]</font> qui se divise en plusieurs parties, ARSTT. <i>H.A. 1, 11, 12</i>.<p><b>Étym</b>. π. φύω.`

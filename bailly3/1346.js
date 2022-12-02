@@ -1,0 +1,1 @@
+lar[1346]=`<b>ἀ·διάπνευστος, ος, ον :<br>      1</b> qui ne transpire pas <i>ou</i> ne s’évapore pas, TH. <i>Od. 39</i>.<br><b>      2</b> non ventilé, non aéré, GAL. <i>10, 251</i>.<br><b>      3</b> qui ne prend pas le temps de respirer, qui ne se repose pas, JAMBL. <i>V. Pyth. 188</i>.<p><b>Étym</b>. ἀ, διαπνέω.`

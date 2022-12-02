@@ -1,0 +1,1 @@
+lar[43251]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Eurybiadès (Eurybiade) <i>amiral Spartiate,</i> HDT. <i>8, 2</i>.<p>➳ <i>Formes ion. : gén</i>. -εω, HDT. <i>8, 4, 50 ; acc</i>. -εα, HDT. <i>8, 2, 62. Gén. dor</i>. Εὐρυβιάδα, DS. <i>7</i>.<p><b>Étym</b>. <i>patr. de</i> Εὐρύβιος.`

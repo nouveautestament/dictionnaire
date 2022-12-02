@@ -1,0 +1,1 @@
+lar[40910]=`<b>ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui concerne l’amour : ἐρωτύλα ἀείδειν, BION <i>3, 10, 13,</i> chanter des chansons d’amour.<br><b>      2</b> <i>subst</i>. ὁ ἐρ. amant, THCR. <i>Idyl. 3, 7 (sel. d’autres,</i> Ἐρωτύλος, petit dieu de l’amour) ; ANTH. <i>9, 614</i>.<p><b>Étym</b>. ἔρως.`

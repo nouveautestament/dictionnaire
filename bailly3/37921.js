@@ -1,0 +1,1 @@
+lar[37921]=`<b>ἐπι·καταδεσμέω-ῶ</b>, emmailloter, <i>acc</i>. SOR. <i>Obst. p. 128 Erm</i>.`

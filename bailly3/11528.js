@@ -1,0 +1,1 @@
+lar[11528]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> image, représentation, PLAT. <i>Leg. 668b, Criti. 197b ; au plur</i>. PLAT. <i>Leg. 668d</i>.<p><b>Étym</b>. ἀπεικάζω.`

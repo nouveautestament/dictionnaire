@@ -1,0 +1,1 @@
+lar[24666]=`<b>δι·αθροίζω</b> (<i>part. prés. pass</i>. -ομένης) rassembler de tous côtés, recueillir, GAL. <i>13, 251</i>.`

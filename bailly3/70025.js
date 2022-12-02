@@ -1,0 +1,1 @@
+lar[70025]=`<b>οῦς (ἡ)</b> <font color="purple">[ῑ]</font> <i>c</i>. βριμώ, LYC. <i>698</i>.`

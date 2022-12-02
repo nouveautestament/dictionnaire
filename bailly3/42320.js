@@ -1,0 +1,1 @@
+lar[42320]=`<b>εὐθύ·φλοιος, ος, ον</b>, à l’écorce droite, <i>càd</i>. lisse, unie, TH. <i>H.P. 3, 8, 2</i>.<p><b>Étym</b>. εὐ. φλοιός.`

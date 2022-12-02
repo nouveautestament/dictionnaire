@@ -1,0 +1,1 @@
+lar[47486]=`<b>α, ον</b> <font color="purple">[ῐκ]</font> de Thorikos, SOPH. <i>O.C. 1595</i> ; DÉM. <i>996, 23</i>.<p>➳ <i>Dans les inscr. att</i>. Θορίκιος (<i>non</i> Θορύκιος) CIA. <i>1, 189a, 3, 13 (407 av. J.-C.) etc. ; v. Meisterh. p. 23, 9</i>.<p><b>Étym</b>. Θορικός.`

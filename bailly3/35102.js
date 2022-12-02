@@ -1,0 +1,1 @@
+lar[35102]=`<i>adv</i>., avec tension, <i>càd</i>. avec force, avec ardeur, THC. <i>5, 70</i> ; XÉN. <i>An. 7, 5, 7</i> ; PLAT. <i>Rsp. 528c ;</i> PLUT. <i>Syll. 21 ; etc</i>.`

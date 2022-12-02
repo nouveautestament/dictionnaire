@@ -1,0 +1,1 @@
+lar[32161]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> secousse, ébranlement, PHIL. <i>1, 415</i> ; SPT. <i>Nah. 2, 10</i>.<p><b>Étym</b>. ἐκτινάσσω.`

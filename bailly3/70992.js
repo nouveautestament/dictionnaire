@@ -1,0 +1,1 @@
+lar[70992]=`<b>ὀλιγ·ήρης, ης, ες</b> <font color="purple">[ῐ]</font> <i>propr</i>. ajusté en petit nombre <i>ou</i> en petites proportions, <i>d’où simpl</i>. peu nombreux <i>ou</i> petit, NIC. <i>Th. 284</i>.<p><b>Étym</b>. ὀλ. *ἄρω.`

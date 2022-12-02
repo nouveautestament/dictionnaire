@@ -1,0 +1,1 @@
+lar[4988]=`<b>(ὁ)</b> <font color="purple">[ᾱ]</font> Altès, <i>h</i>. IL. <i>21, 85 (gén</i>. -αο), <i>21, 86</i>.<p><b>Étym</b>. <i>gén</i>. -εω.`

@@ -1,0 +1,1 @@
+lar[110558]=`<b>ή, όν</b>, qui concerne les oreilles : κλυστῆρες ὠτικοί, P. ÉG. <i>6, 59</i> ; GAL. κ. τόπ. <i>3,</i> injections dans l’oreille.<p><b>Étym</b>. οὖς.`

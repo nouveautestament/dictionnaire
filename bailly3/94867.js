@@ -1,0 +1,1 @@
+lar[94867]=`<b>συν·αποθλίβω</b> <font color="purple">[ῑ]</font> exprimer <i>ou</i> pressurer en même temps, DIOSC. <i>4, 157</i>.`

@@ -1,0 +1,1 @@
+lar[85311]=`<b>προσ·αυγάζω :<br>      1 <i>tr.</i></b> contempler, regarder, <i>acc</i>. LYC. <i>1082</i>.<br><b>      2 <i>intr.</i></b> briller aux yeux de, <i>dat</i>. JOS. <i>A.J. 12, 2, 8</i>.<br><b><i>Moy.</i></b> contempler, DIOTOG. (STOB. <i>Fl. 48, 62, dor</i>. ποταυγάζομαι).`

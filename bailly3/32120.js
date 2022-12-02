@@ -1,0 +1,1 @@
+lar[32120]=`<b>ἐκ·τεκνόω-ῶ</b>, engendrer, HPC. <i>Acut. 391</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Ion 438</i>.`

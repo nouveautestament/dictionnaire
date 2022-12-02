@@ -1,0 +1,1 @@
+lar[105779]=`<b>φιλοζωέω-ωῶ</b> <font color="purple">[ῐ]</font> aimer la vie, POL. <i>11, 2, 11 ; 30, 7, 8, etc</i>.<p><b>Étym</b>. φιλόζωος.`

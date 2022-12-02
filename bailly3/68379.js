@@ -1,0 +1,1 @@
+lar[68379]=`<b>νευρο·ποιητικός, ή, όν</b>, qui produit des nerfs, GAL.`

@@ -1,0 +1,1 @@
+lar[63394]=`<b>μεγαλο·πάθεια, ας (ἡ)</b> <font color="purple">[ᾰπᾰ]</font> patience, PLUT. <i>M. 551c</i>.<p><b>Étym</b>. μ. πάθος.`

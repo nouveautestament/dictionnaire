@@ -1,0 +1,1 @@
+lar[57064]=`<b>ης</b> (η) <font color="purple">[ῑ]</font> jeune fille, PHILSTR. <i>p. 74</i>.<p><b>Étym</b>. <i>dim. de</i> κόρη.`

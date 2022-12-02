@@ -1,0 +1,1 @@
+lar[15927]=`<b>α, ον</b>, <i>vb. de</i> ἀσκέω, XÉN. <i>Cyr. 5, 3, 43 ; au neutre</i> ἀσκητέον, PLAT. <i>Gorg. 487c, etc.</i> ; ARSTT. <i>Pol. 7, 2, 18</i>.`

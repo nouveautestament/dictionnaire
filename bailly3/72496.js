@@ -1,0 +1,1 @@
+lar[72496]=`<b>ὁπωσ·οῦν</b>, <i>adv</i>., d’une manière quelconque, THC. <i>1, 77, etc.</i> ; ISOCR. <i>15e, etc.</i> ; οὐδ' ὁπωσοῦν, THC. <i>7, 49</i> ; ISOCR. <i>233b, etc</i>. pas le moins du monde.<p><b>Étym</b>. ὅπως, οὖν.`

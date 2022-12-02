@@ -1,0 +1,1 @@
+lar[74792]=`<b>πάμ·φυρτος, ος, ον</b>, mêlé de toutes sortes de choses, confus, OPP. <i>H. 1, 779</i> ; LGN <i>9, 7</i>.<p><b>Étym</b>. π. φύρω.`

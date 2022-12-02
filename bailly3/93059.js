@@ -1,0 +1,1 @@
+lar[93059]=`<font color="purple">[ῠ]</font> <i>adv</i>., horriblement, IL. <i>16, 723</i> ; OD. <i>22, 23</i> ; SOPH. <i>Ph. 166</i>.<p><b>Étym</b>. στυγερός.`

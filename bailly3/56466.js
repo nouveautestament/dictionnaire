@@ -1,0 +1,1 @@
+lar[56466]=`<b>κοινό·βιος, ος, ον</b>, qui vit en communauté, JAMBL. <i>V. Pyth. 29</i> ; PTOL. <i>Tetr. p. 119, 24 ; subst</i>. τὸ κοινόβιον, vie commune, A. GELL. <i>1, 9</i>.<p><b>Étym</b>. κοινός, βίος.`

@@ -1,0 +1,1 @@
+lar[108763]=`<b>εως (ὁ)</b> Khonouphis, <i>sage d’Égypte,</i> PLUT. <i>Is. et Os. 10</i> ; FAVOR. (DL. <i>8, 90).</i><p>➳ <i>Gén</i>. Κονούφιδος, FAVOR. (DL. <i>l. c</i>).`

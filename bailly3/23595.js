@@ -1,0 +1,1 @@
+lar[23595]=`<b>ή, όν :<br>      1</b> qui concerne un souper, ATH. <i>128a.</i><br><b>      2</b> qui aime à souper, ANAXIPP. (ATH. <i>404d</i>).<p><b>Étym</b>. δειπνέω.`

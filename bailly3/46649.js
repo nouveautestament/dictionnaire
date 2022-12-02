@@ -1,0 +1,1 @@
+lar[46649]=`<b>θεο·δώρητος, ος, ον :<br>      1</b> qui est un don de la divinité, CLÉM. <i>172</i>.<br><b>      2</b> <i>subst</i>. ἡ θ. <i>sorte de remède,</i> A. TR. <i>8, p. 457</i>.<p><b>Étym</b>. θ. δωρέομαι.`

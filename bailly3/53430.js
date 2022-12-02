@@ -1,0 +1,1 @@
+lar[53430]=`<b>ου (ὁ)</b> <font color="purple">[στᾰ]</font> qui rétablit, qui restaure, SOPH. <i>El. 72</i>.<p><b>Étym</b>. καθίστημι.`

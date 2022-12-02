@@ -1,0 +1,1 @@
+lar[64006]=`<font color="darkgreen">(<i>f</i>. ιῶ, <i>ao</i>. ἐμέλισα, <i>pf. inus. ; pf. pass</i>. μεμέλισμαι) :</font><br><b>      1</b> former avec des articulations parfaites, OPP. <i>C. 3, 159</i>.<br><b>      2</b> démembrer, dépecer, DH. <i>7, 72</i>.<p>➳ <i>Fut</i>. μελιῶ, SPT. <i>Lev. 1, 6</i>.<p><b>Étym</b>. μέλος.`

@@ -1,0 +1,1 @@
+lar[29604]=`<b>ἐγ·κατοικέω-ῶ</b>, habiter dans <i>ou</i> parmi, <i>dat</i>. HDT. <i>4, 204</i> ; EUR. <i>fr. 188 ; fig</i>. résider dans (l’âme) <i>en parl. de la conscience,</i> POL. <i>18, 26, 13 ; de la douceur,</i> THÉM. <i>51d</i>.<p><b>Étym</b>. ἐν, κ.`

@@ -1,0 +1,1 @@
+lar[18135]=`<b>ἀφ·ιστορέω-ῶ</b> (<i>seul. part. prés</i>.) observer de loin, PHILSTR. <i>Im. 2, 18</i>.`

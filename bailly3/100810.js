@@ -1,0 +1,1 @@
+lar[100810]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> récolte, vendange, PLUT. <i>M. 646d</i>.<p><b>Étym</b>. τρυγάω.`

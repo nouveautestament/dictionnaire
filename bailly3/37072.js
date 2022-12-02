@@ -1,0 +1,1 @@
+lar[37072]=`<b>ῆς (ἡ)</b> intercalation, parenthèse, HERMOG. <i>Rhet. 263, 12 ; 282, 8</i>.<p><b>Étym</b>. ἐπεμβάλλω.`

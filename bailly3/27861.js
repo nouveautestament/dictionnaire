@@ -1,0 +1,1 @@
+lar[27861]=`<b>*δραστήρ</b>, <i>seul. ion</i>. <b>δρηστήρ, ῆρος (ὁ)</b> serviteur (<i>litt</i>. celui qui fait la besogne) OD. <i>16, 248</i>.<p><b>Étym</b>. δράω.`

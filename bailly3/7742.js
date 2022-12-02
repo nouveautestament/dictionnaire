@@ -1,0 +1,1 @@
+lar[7742]=`<b>οῦ (ὁ)</b> délivrance, AQU. <i>Gen. 45, 7</i>.<p><b>Étym</b>. ἀνασῴζω.`

@@ -1,0 +1,1 @@
+lar[72366]=`<b>ὀπο·βάλσαμον, ου (τὸ)</b> <font color="purple">[σᾰ]</font> suc du baumier, TH. <i>H.P. 4, 4, 14</i> ; DIOSC. <i>1, 18</i>.<p><b>Étym</b>. ὀπός, βάλσαμον.`

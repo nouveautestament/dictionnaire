@@ -1,0 +1,1 @@
+lar[57520]=`<b>κραιπαλό·κωμος, ος, ον</b> <font color="purple">[ᾰ]</font> ivrogne, <i>d’où</i> ivre, AR. <i>Ran. 217</i>.<p><b>Étym</b>. κραιπάλη, κῶμος.`

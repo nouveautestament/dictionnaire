@@ -1,0 +1,1 @@
+lar[87223]=`<b>πρωτό·μαντις, εως (ἡ)</b> qui a rendu ses oracles la première, ESCHL. <i>Eum. 2</i>.<p><b>Étym</b>. πρ. μάντις.`

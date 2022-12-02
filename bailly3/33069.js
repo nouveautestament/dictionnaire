@@ -1,0 +1,1 @@
+lar[33069]=`<b>ἐμ·βακχεύω</b>, s’emporter contre, <i>dat</i>. HLD. <i>1, 4</i>.<p><b>Étym</b>. ἐν, β.`

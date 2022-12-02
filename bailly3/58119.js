@@ -1,0 +1,1 @@
+lar[58119]=`<b>ῶν (οἱ)</b> les Sources, <i>source et contrée d’Élide,</i> OD. <i>15, 294</i> ; HH. <i>Ap. 425</i>.<p><b>Étym</b>. <i>plur. de</i> κρουνός.`

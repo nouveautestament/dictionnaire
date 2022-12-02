@@ -1,0 +1,1 @@
+lar[37452]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière symptomatique, <i>t. de méd</i>. CHRYSIPP. (GAL. <i>Hipp. et Plat. 3</i>).`

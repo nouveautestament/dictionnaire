@@ -1,0 +1,1 @@
+lar[37903]=`<b>ἐπι·καμπύλος, ος, ον</b> <font color="purple">[ῠ]</font> recourbé, voûté, HH. <i>Merc. 90</i> ; HÉS. <i>O. 425</i>.`

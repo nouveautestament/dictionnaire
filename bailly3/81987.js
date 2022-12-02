@@ -1,0 +1,1 @@
+lar[81987]=`<b>πολυ·κίνητος, ος, ον</b> <font color="purple">[ῠῑ]</font> fortement agité <i>ou</i> qui s’agite beaucoup, ARSTT. <i>Mund. 6, 34</i> ; PLUT. <i>M. 681a</i>.<p><b>Étym</b>. π. κινέω.`

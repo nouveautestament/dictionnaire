@@ -1,0 +1,1 @@
+lar[92817]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> expédition militaire, HDT. <i>189</i> ; DH. <i>6, 909, 12 Reiske</i> ; SYMM. <i>Ps. 59, 12 ; 107, 12</i>.<p><b>Étym</b>. στρατεύω.`

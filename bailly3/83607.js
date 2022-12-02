@@ -1,0 +1,1 @@
+lar[83607]=`<b>προ·ανύω</b> <font color="purple">[ᾰ]</font> <i>c</i>. προανύτω SEXT. <i>M. 8, 1</i>.`

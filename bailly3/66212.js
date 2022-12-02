@@ -1,0 +1,1 @@
+lar[66212]=`<b>Μνησί·λοχος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Mnèsilokhos, <i>h</i>. XÉN. <i>Hell. 2, 3, 2</i> ; DÉM. <i>1219, 20, etc</i>.<p><b>Étym</b>. μν. λόχος.`

@@ -1,0 +1,1 @@
+lar[53112]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> lavage, SYN. <i>Febr. p. 234, au plur</i>.<p><b>Étym</b>. καταπλύνω.`

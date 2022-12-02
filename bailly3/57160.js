@@ -1,0 +1,1 @@
+lar[57160]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῠ]</font> Korydôn (Corydon), <i>n. de berger,</i> THCR. <i>Idyl. 4, 1, etc</i>.`

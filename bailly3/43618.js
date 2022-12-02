@@ -1,0 +1,1 @@
+lar[43618]=`<font color="purple">[ᾰ]</font> faire le plaisant, plaisanter agréablement, POL. <i>12, 16, 14</i> ; DS. <i>Exc. 615, 59</i>.<p><b>Étym</b>. εὐτράπελος.`

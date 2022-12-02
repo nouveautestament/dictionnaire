@@ -1,0 +1,1 @@
+lar[20905]=`HDT. <i>6, 45, etc. ou</i> <b>βρῦγοι, ων (οἱ)</b> SCYMN. <i>434</i> ; A.RH. les Bryges, <i>n. de diverses populations de Thrace, de Macédoine et d’Illyrie ; cf</i>. βρίγες.`

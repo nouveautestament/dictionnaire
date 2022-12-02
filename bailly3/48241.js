@@ -1,0 +1,1 @@
+lar[48241]=`<b>ἰ·άνθινος, η, ον</b>, de couleur violette, AQU. <i>Ex. 25, 5</i>.<p><b>Étym</b>. ἴον, ἄνθος ; <i>cf</i>. Ἰάνθη.`

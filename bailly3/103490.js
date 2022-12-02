@@ -1,0 +1,1 @@
+lar[103490]=`<b>ὑπ·ολισθάνω</b>, glisser <i>ou</i> tomber insensiblement, HPC. <i>Art. 782</i> ; εἰς τὰς θρύψεις, LUC. <i>Dem. enc. 12,</i> dans la mollesse.`

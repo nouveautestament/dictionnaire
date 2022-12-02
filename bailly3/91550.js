@@ -1,0 +1,1 @@
+lar[91550]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> avec impétuosité, AR. <i>Pax 83</i>.<br><b>      2</b> d’une manière imposante, avec magnificence, POL. <i>3, 72, 13</i> ; PLUT. <i>Alc. 4 ; joint à</i> μεγαλοπρεπῶς, EL. <i>N.A. 11, 4</i>.`

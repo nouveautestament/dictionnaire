@@ -1,0 +1,1 @@
+lar[8304]=`<b>ἀν·έλυτρος, ος, ον</b>, sans étui, sans fourreau, ARSTT. <i>H.A. 1, 5, 12, etc</i>.<p><b>Étym</b>. ἀν-, ἔλυτρον.`

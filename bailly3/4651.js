@@ -1,0 +1,1 @@
+lar[4651]=`<b>Ἀλκί·μαχος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Alkimakhos, <i>h</i>. HDT. <i>6, 101</i> ; DÉM. <i>47, 50, 78 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. ἀλκίμαχος.`

@@ -1,0 +1,1 @@
+lar[21091]=`<b>α</b> <i>ou</i> <b>ος, ον :<br>      1</b> de l’autel, EUR. <i>Ph. 274</i>.<br><b>      2</b> qui se tient <i>ou</i> se fait devant l’autel : βωμία ἐφημένη, EUR. <i>Suppl. 93,</i> assise en suppliante près de l’autel ; βώμιοι λιταί, EUR. <i>Ph. 1750,</i> prières devant l’autel.<p><b>Étym</b>. βωμός.`

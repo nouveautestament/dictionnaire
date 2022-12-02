@@ -1,0 +1,1 @@
+lar[9213]=`<b>ἀν·οικοδόμησις, εως (ἡ)</b> reconstruction, ARSTT. <i>Ath. 23, 4</i>.`

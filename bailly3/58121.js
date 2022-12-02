@@ -1,0 +1,1 @@
+lar[58121]=`<b>κρουνο·χυτρο·λήραιος, ου (ὁ)</b> flux de paroles, <i>d’où</i> bavard insupportable, AR. <i>Eq. 89 (vulg</i>. -ον).<p><b>Étym</b>. κρουνός, χύτρα, λῆρος.`

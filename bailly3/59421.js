@@ -1,0 +1,1 @@
+lar[59421]=`<b>λαγυνο·φόρια, ων (τὰ)</b> fête où chacun apportait sa bouteille pour le banquet, <i>à Alexandrie,</i> ERATOSTH. (ATH. <i>276a</i>).<p><b>Étym</b>. λάγυνος, φέρω.`

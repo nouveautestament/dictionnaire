@@ -1,0 +1,1 @@
+lar[87614]=`<b>πυκινό·φρων, ονος (ὁ, ἡ)</b> <font color="purple">[ῠῐ]</font> à l’esprit sensé, sage, prudent, avisé, HH. <i>Merc. 538</i> ; HÉS. <i>fr. 79 Göttling</i>.<p><b>Étym</b>. πυκινός, φρήν.`

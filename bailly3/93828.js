@@ -1,0 +1,1 @@
+lar[93828]=`<font color="purple">[ᾰ]</font> s’accoupler, PALÆPH. <i>40</i>.<p><b>Étym</b>. συμβατός.`

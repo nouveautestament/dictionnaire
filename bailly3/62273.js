@@ -1,0 +1,1 @@
+lar[62273]=`<b>ά, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> glabre, lisse, HPC. <i>50, 36 ; particul</i>. chauve, ANTH. <i>11, 434</i>.<br><b>      2</b> sans cohésion, HPC. <i>1230c, etc. ; d’où</i> flasque, ARSTT. <i>H.A. 4, 6, 9</i>.<p><b>Étym</b>. μαδάω.`

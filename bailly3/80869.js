@@ -1,0 +1,1 @@
+lar[80869]=`<b>εως (ἡ)</b> action de tresser, PLAT. <i>Pol. 308d ;</i> GEOP. <i>10, 6</i>.<p><b>Étym</b>. πλέκω.`

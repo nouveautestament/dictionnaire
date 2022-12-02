@@ -1,0 +1,1 @@
+lar[79001]=`<b>περι·οιδέω-ῶ</b>, être gonflé <i>ou</i> se gonfler tout autour, HPC. <i>374, 21</i>.`

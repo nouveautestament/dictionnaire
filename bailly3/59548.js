@@ -1,0 +1,1 @@
+lar[59548]=`<b>λαιμο·τόμος, ος, ον</b>, qui coupe la gorge, qui égorge, EUR. <i>I.T. 444</i> ; ANTH. <i>6, 306</i>.<p><b>Étym</b>. λαιμός, τέμνω.`

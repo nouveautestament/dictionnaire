@@ -1,0 +1,1 @@
+lar[34659]=`<b>ης (ἡ)</b> Énispè, <i>lieu d’Arcadie,</i> IL. <i>2, 606</i> ; NONN. <i>D. 13, 290, etc</i>.`

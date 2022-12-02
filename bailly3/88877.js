@@ -1,0 +1,1 @@
+lar[88877]=`<b>ῥυμο·τομέω-ῶ</b> <font color="purple">[ῡ]</font> (<i>part. pf. pass</i>. ἐρρυμοτομημένος) diviser en rues, en quartiers, STR. <i>565</i> ; DS. <i>17, 52</i> ; JOS. <i>B.J. 3, 5, 2</i>.<p><b>Étym</b>. ῥύμη, -τομος <i>de</i> τέμνω.`

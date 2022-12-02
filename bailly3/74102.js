@@ -1,0 +1,1 @@
+lar[74102]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière fixe, solidement, fermement, PLAT. <i>Rsp. 434d, 479c, etc.</i> ; ARSTT. <i>Cæl. 3, 1, 8</i>.<p><b>Étym</b>. πάγιος.`

@@ -1,0 +1,1 @@
+lar[83211]=`<b>ή, όν</b> = <i>lat</i>. prætorianus, de préteur, prétorien, DC. <i>53, 25, 5</i> ; HDN <i>5, 4, 14, etc</i>.`

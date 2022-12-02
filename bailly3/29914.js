@@ -1,0 +1,1 @@
+lar[29914]=`<b>ἐγχλοάω-οῶ</b> (<i>prés. part. fém. poét</i>. -οάουσα) commencer à verdir, NIC. <i>Th. 154</i>.<p><b>Étym</b>. ἔγχλοος.`

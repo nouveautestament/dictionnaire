@@ -1,0 +1,1 @@
+lar[25922]=`<b>ας (ἡ)</b> décision entre deux propositions <i>ou</i> choix entre deux concurrents par un vote à main levée, DÉM. <i>707, 25</i> ; διαχειροτονίαν διδόναι τῷ δήμῳ, ESCHN. <i>59, 13,</i> faire voter le peuple à main levée pour décider entre deux (propositions, <i>etc</i>.).<p><b>Étym</b>. <i>cf</i>. διαχειροτονέω.`

@@ -1,0 +1,1 @@
+lar[37739]=`<b>ἐπί·ζηλος, ος, ον</b>, digne d’envie, <i>càd</i>. heureux, ESCHL. <i>Ag. 939</i> ; BACCHYL. <i>5, 52</i>.<p>➳ <i>Dor</i>. ἐπίζαλος <font color="purple">[ᾱ]</font>.`

@@ -1,0 +1,1 @@
+lar[53463]=`<b>κατα·στοιχίζω</b>, enseigner les premiers éléments, CHRYSIPP. (PLUT. <i>M. 1036a</i>).`

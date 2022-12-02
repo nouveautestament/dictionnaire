@@ -1,0 +1,1 @@
+lar[73767]=`<b>ων (οἱ)</b> les Outies, <i>pple perse,</i> HDT. <i>3, 93 ; 7, 68</i>.`

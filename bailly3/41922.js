@@ -1,0 +1,1 @@
+lar[41922]=`<b>ας (ἡ) :<br>   I</b> <i>pass</i>. bonne réputation, célébrité, gloire, PD. <i>P. 5, 8 ; N. 3, 38</i> ; ARSTT. <i>Rhet. 1, 5, 8, etc.</i><br><b>   II</b> <i>act.</i> :<br><b>      1</b> approbation, consentement, PLAT. <i>Menex. 238d.</i><br><b>      2</b> bon sens, bon jugement, PLAT. <i>Men. 99b</i>.<p><b>Étym</b>. εὔδοξος.`

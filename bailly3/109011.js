@@ -1,0 +1,1 @@
+lar[109011]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> étude des choses utiles, bonne instruction, LGN <i>44, 1</i>.<br><b>      2</b> chrestomathie, <i>recueil des meilleurs ou des plus utiles morceaux d’auteurs, comme les recueils de Proclus et d’Helladius</i>.<p><b>Étym</b>. χρηστομάθης.`

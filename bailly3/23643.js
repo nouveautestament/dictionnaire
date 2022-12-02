@@ -1,0 +1,1 @@
+lar[23643]=`<b>δεκα·γράμματος, ος, ον</b> <font color="purple">[κᾰμᾰ]</font> de dix lettres, ATH. <i>455b</i>.<p><b>Étym</b>. δ. γράμμα.`

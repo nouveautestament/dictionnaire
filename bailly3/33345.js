@@ -1,0 +1,1 @@
+lar[33345]=`<b>ἐμ·πάσσω</b>, <i>att</i>. <b>ἐμ·πάττω :<br>      1</b> répandre en saupoudrant sur : εἴς τι, TH. <i>Lap. 67,</i> sur qqe ch. ; τινός, PLAT. <i>Lys. 210a</i>, répandre qqe ch. : τινός τινι, GEOP. <i>5, 9, 2,</i> qqe ch. sur un objet.<br><b>      2</b> <i>fig</i>. broder sur, IL. <i>3, 126 (impf. 3 sg</i>. ἐνέπασσε).<p><b>Étym</b>. ἐν, π.`

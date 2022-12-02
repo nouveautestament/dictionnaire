@@ -1,0 +1,1 @@
+lar[96740]=`<b>οῦ (ὁ)</b> condisciple, STR. <i>614</i> ; DH. <i>Rhet. 349</i> ; PLUT. <i>M. 47e</i>.<p><b>Étym</b>. συσχολάζω.`

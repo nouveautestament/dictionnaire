@@ -1,0 +1,1 @@
+lar[58432]=`<font color="purple">[ῡᾰ]</font><br><b>      1 <i>tr.</i></b> célébrer, vanter, glorifier, IL. <i>14, 73</i>.<br><b>      2 <i>intr.</i></b> se vanter, IL. <i>20, 42</i>.<p>➳ <i>Impf</i>. κύδανον, IL. <i>20, 42</i>.<p><b>Étym</b>. <i>cf</i>. κυδαίνω.`

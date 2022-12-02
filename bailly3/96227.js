@@ -1,0 +1,1 @@
+lar[96227]=`<b>συν·οτρύνω</b> <font color="purple">[τρῡ]</font> pousser ensemble <i>ou</i> en même temps, THÉM. <i>295b</i>.`

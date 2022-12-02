@@ -1,0 +1,1 @@
+lar[37032]=`<b>ἐπ·εκθέω</b> <font color="darkgreen">(<i>impf</i>. ἐπεξέθεον)</font> faire une excursion contre, s’élancer sur, fondre sur, THC. <i>4, 34 ; 5, 9</i> ; XÉN. <i>Hell. 5, 3, 6 ; An. 5, 2, 22 ; avec le dat</i>. HÉRON <i>324 ; avec</i> ἐς <i>et l’acc</i>. ARR. <i>An. 5, 17, 5</i>.`

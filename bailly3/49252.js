@@ -1,0 +1,1 @@
+lar[49252]=`<b>ἱππ·άστριαι, ων</b>, <i>adj. f.</i> : ἱ. κάμηλοι, PLUT. <i>Eum. 15,</i> chamelles qu’on monte comme des chevaux.<p><b>Étym</b>. ἱππάζομαι.`

@@ -1,0 +1,1 @@
+lar[10884]=`<b>ας (ἡ)</b> défaut d’hospitalité, caractère inhospitalier, ERATOSTH. (STR. <i>802</i>) ; DS. <i>1, 67</i>.<p><b>Étym</b>. ἄξενος.`

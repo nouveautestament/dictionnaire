@@ -1,0 +1,1 @@
+lar[66139]=`<b>ας (ἡ)</b> <font color="purple">[ᾱμ]</font> <i>mot laconien</i>, = Μνημοσύνη, le Souvenir <i>personnifié</i>, AR. <i>Lys</i>. 1248.<p><b>Étym</b>. μνήμη.`

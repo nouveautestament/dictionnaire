@@ -1,0 +1,1 @@
+lar[39854]=`<b>ἐπ·οξύνω</b> <font color="purple">[ῡ]</font> irriter, exciter, SPT. <i>2Macc. 9, 7</i>.`

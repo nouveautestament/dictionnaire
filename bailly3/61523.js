@@ -1,0 +1,1 @@
+lar[61523]=`<b>λογο·κλοπεία, ας (ἡ)</b> vol d’un discours <i>ou</i> d’un écrit, plagiat, DL. <i>8, 54</i>.<p><b>Étym</b>. λ. κλοπεύς.`

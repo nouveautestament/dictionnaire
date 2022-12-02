@@ -1,0 +1,1 @@
+lar[46539]=`<b>θελξί·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> qui charme l’esprit <i>ou</i> le cœur, MUS. <i>147</i> ; ANTH. <i>6, 88</i>.<p><b>Étym</b>. θ. νόος.`

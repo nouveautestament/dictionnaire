@@ -1,0 +1,1 @@
+lar[33443]=`<b>ατος (τὸ)</b> fracture par suite d’enfoncement, SOR. <i>Fract. 249, 35 Id</i>.<p><b>Étym</b>. ἐμπιέζω.`

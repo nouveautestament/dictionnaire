@@ -1,0 +1,1 @@
+lar[60339]=`<b>λεοντο·πέταλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> léontice, <i>plante,</i> DIOSC. <i>3, 110</i>.`

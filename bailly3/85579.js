@@ -1,0 +1,1 @@
+lar[85579]=`<b>προσ·εμφορέω-ῶ</b>, apporter <i>ou</i> inspirer en outre, <i>acc</i>. PLUT. <i>M. 168a, 547c</i>.`

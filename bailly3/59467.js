@@ -1,0 +1,1 @@
+lar[59467]=`<b>λαθ·άνεμος</b>, <i>dor. c</i>. *<b>ληθ·άνεμος, ος, ον</b> <font color="purple">[ᾱᾰ]</font> sans vent, calme, SIM. <i>fr. 12</i>.<p><b>Étym</b>. λήθη, ἄνεμος.`

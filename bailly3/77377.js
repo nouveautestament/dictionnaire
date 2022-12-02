@@ -1,0 +1,1 @@
+lar[77377]=`<b>ου (ὁ)</b> Patrokleidès, <i>h</i>. AR. <i>Av. 790</i> ; AND. <i>1, 73, 80 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Πατροκλῆς.`

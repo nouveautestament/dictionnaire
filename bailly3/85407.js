@@ -1,0 +1,1 @@
+lar[85407]=`<i>vb. de</i> προσδιαλαμβάνω, HIÉROCL. (STOB. <i>Ecl. 1, 136</i>) ; ORIB. <i>p. 224 Matthäi</i>.`

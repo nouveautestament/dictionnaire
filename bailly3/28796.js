@@ -1,0 +1,1 @@
+lar[28796]=`<b>δυσ·πέρατος, ος, ον</b> <font color="purple">[ᾱ]</font> difficile à traverser, STR. <i>697 ; fig</i>. EUR. <i>Med. 645</i>.<p><b>Étym</b>. δ. περάω.`

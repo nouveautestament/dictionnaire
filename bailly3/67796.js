@@ -1,0 +1,1 @@
+lar[67796]=`<b>Ναυσί·μαχος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Nausimakhos, <i>h</i>. DÉM. <i>984</i>.<p><b>Étym</b>. ν. μάχομαι.`

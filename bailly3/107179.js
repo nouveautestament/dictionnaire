@@ -1,0 +1,1 @@
+lar[107179]=`<b>Φυλο·μάχη, ης (ἡ)</b> <font color="purple">[ῡᾰ]</font> Phylomakhè, <i>f</i>. DÉM. <i>Or. 43, 17, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. <i>cf</i>. Φυλόμαχος.`

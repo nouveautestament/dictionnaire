@@ -1,0 +1,1 @@
+lar[101853]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> fait de jusquiame, DIOSC. <i>1, 42</i>.<p><b>Étym</b>. ὑοσκύαμος.`

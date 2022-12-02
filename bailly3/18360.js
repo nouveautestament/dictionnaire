@@ -1,0 +1,1 @@
+lar[18360]=`<b>ους (ὁ)</b> Akhæménès, <i>Perse,</i> HDT. PLAT. EL. <i>etc</i>.<p>➳ <i>Voc</i>. Ἀχαίμενες, HDT. <i>7, 237 ; gén. ion</i>. Ἀχαιμένεος, HDT. ; <i>gén. réc</i>. Ἀχαιμένου, HLD. <i>9, 20. Acc</i>. Ἀχαιμένην, DS. <i>11, 74 ou</i> Ἀχαιμένη, EL. <i>N.A. 12, 21</i>.`

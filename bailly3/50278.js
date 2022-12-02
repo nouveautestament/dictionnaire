@@ -1,0 +1,1 @@
+lar[50278]=`<font color="purple">[ᾰᾰ]</font> <i>vb. de</i> καθαρεύω, EPICT. <i>Ench. 33, 8</i> ; CLÉM. <i>1, 453, 1145 Migne</i>.`

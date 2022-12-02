@@ -1,0 +1,1 @@
+lar[18470]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> fils, <i>ou</i> descendant d’Achille ; οἱ Ἀχιλλεῖδαι, les Achilléides, HLD. <i>en parl. de Néoptolème ou de Pyrrhus,</i> ANTH. <i>9, 219</i> ; CHRIST. <i>Ecphr. 57</i>.<br><b>      2</b> Akhilleidès, <i>h</i>. LYS. (RHÉT. <i>9, 591 W</i>.).<p><b>Étym</b>. Ἀχιλλεύς.`

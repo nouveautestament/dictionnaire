@@ -1,0 +1,1 @@
+lar[96310]=`<i>adv</i>., au passé, au parfait, APOLL. <i>Lex. 93, 32 Bkk. etc</i>.`

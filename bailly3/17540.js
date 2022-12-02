@@ -1,0 +1,1 @@
+lar[17540]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en maître absolu, PLUT. <i>Ant. 15</i>.`

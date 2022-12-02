@@ -1,0 +1,1 @@
+lar[34411]=`<b>ἐν·ευημερέω-ῶ</b> (<i>pf</i>. ἐνευημέρηκα) être heureux dans, réussir dans, <i>dat</i>. PLUT. <i>M. 289d, 665d</i>.`

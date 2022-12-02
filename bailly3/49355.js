@@ -1,0 +1,1 @@
+lar[49355]=`<b>Ἱππο·κόων, όωντος (ὁ)</b> Hippokoôn :<br><b>      1</b> <i>serviteur de Rhèsos,</i> IL. <i>10, 513</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>5, 60</i> ; PLUT. <i>Thes. 31, etc</i>.<p><b>Étym</b>. ἵ. -κοων, <i>cf</i>. Λαοκόων.`

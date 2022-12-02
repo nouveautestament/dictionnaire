@@ -1,0 +1,1 @@
+lar[82343]=`<b>πολύ·ρρυτος, ος, ον</b> <font color="purple">[ρῠ]</font> au cours abondant <i>ou</i> impétueux, ESCHL. <i>Suppl. 843</i> ; SOPH. <i>El. 1420</i>.<p><b>Étym</b>. π. ῥέω.`

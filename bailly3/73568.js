@@ -1,0 +1,1 @@
+lar[73568]=`<b>η, ον</b>, funeste, <i>en parl. de pers</i>. IL. <i>5, 461, 717 ; de choses,</i> BION <i>6, 14</i> ; NIC. <i>Th. 233</i>.<p><b>Étym</b>. <i>cf</i>. ὄλλυμι.`

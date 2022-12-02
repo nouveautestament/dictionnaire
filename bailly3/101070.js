@@ -1,0 +1,1 @@
+lar[101070]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> coup, NIC. <i>Th. 129, 673, 784 ; d’ord. au pl</i>. IL. <i>5, 887</i> ; A.RH. <i>3, 848 ; 4, 1674</i> ; NIC. <i>Th. 358</i>.<p><b>Étym</b>. τύπτω.`

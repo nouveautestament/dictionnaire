@@ -1,0 +1,1 @@
+lar[1048]=`<b>ἀγχί·θρονος, ος, ον</b>, qui siège sur un trône près de, <i>gén</i>. NONN. <i>Jo. 7, 39</i>.<p><b>Étym</b>. ἄ. θρόνος.`

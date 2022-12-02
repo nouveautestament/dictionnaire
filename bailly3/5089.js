@@ -1,0 +1,1 @@
+lar[5089]=`<b>ης, ες</b>, malade de dartres farineuses <i>ou</i> de la lèpre, GAL. <i>6, 118</i>.<p><b>Étym</b>. ἀλφός, -ώδης.`

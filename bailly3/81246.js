@@ -1,0 +1,1 @@
+lar[81246]=`<b>ής, ές</b>, qui souffre aux pieds, podagre, DL. <i>5, 68</i>.<p><b>Étym</b>. πούς, ἀλγέω.`

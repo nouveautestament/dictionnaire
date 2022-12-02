@@ -1,0 +1,1 @@
+lar[101656]=`<b>υἱο·θεσία, ας (ἡ)</b> adoption de qqn comme fils, NT. <i>Rom. 8, 23</i> ; GAL. <i>4, 5</i>.<p><b>Étym</b>. υἱός, τίθημι.`

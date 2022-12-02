@@ -1,0 +1,1 @@
+lar[99520]=`<b>ου (ὁ)</b> Tolmæos (<i>litt</i>. Hardi) <i>h</i>. THC. <i>1, 108, 113, etc.</i> ; PLUT. <i>Per. 18</i>.<p><b>Étym</b>. τόλμα.`

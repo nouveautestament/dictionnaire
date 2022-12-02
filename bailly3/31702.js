@@ -1,0 +1,1 @@
+lar[31702]=`<b>ἐκ·μύσσομαι</b>, se moucher, DIOSC. <i>Par. 1, 63</i> ; GAL. <i>13, 384b</i>.`

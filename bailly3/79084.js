@@ -1,0 +1,1 @@
+lar[79084]=`<b>περι·πευκής, ής, ές</b>, très amer, qui cause une grande douleur, IL. <i>11, 845</i>.<p><b>Étym</b>. π. πεύκη.`

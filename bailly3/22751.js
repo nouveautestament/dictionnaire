@@ -1,0 +1,1 @@
+lar[22751]=`<i>vb. de</i> γυμνάζω, XÉN. <i>Mem. 2, 1, 28</i> ; PLAT. <i>Leg. 829b ; etc</i>.`

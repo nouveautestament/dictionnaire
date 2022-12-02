@@ -1,0 +1,1 @@
+lar[69433]=`<b>*ξενη·δόκος</b>, <i>ion</i>. <b>ξεινη·δόκος, ος, ον</b>, qui accueille les étrangers, hospitalier, NONN. <i>Jo. 11, 40</i>.`

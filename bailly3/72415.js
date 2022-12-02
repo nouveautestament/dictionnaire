@@ -1,0 +1,1 @@
+lar[72415]=`<i>adv. relat</i>. dans lequel des deux endroits, des deux côtés, HPC. <i>261, 42</i> ; XÉN. <i>Hipp. 4, 15</i>.<p><b>Étym</b>. ὁπότερος, -θι.`

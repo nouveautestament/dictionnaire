@@ -1,0 +1,1 @@
+lar[50924]=`<b>κακό·χροος-ους, οος-ους, οον-ουν</b>, qui a une vilaine couleur, un mauvais teint, HPC. <i>113d ; 521, 12</i> ; ARSTT. <i>H.A. 9, 17</i>.<p><b>Étym</b>. κ. χρόα.`

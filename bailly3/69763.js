@@ -1,0 +1,1 @@
+lar[69763]=`<i>att. pour</i> <b>συν-</b> <i>dans les composés</i> ξυνάγω, ξυνίημι, <i>etc. p</i>. συνάγω, συνίημι.`

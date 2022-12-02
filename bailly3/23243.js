@@ -1,0 +1,1 @@
+lar[23243]=`<b>ακος (ὁ)</b> Daradax, <i>fl. de Syrie,</i> XÉN. <i>An. 1, 4, 10</i> (<i>var</i>. Δάρδης).`

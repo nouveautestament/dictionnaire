@@ -1,0 +1,1 @@
+lar[54459]=`<b>ου (τὸ)</b> huile de cèdre, VITR. <i>2, 9</i> ; PLIN. <i>H.N. 16, 21</i>.<p><b>Étym</b>. κέδρος.`

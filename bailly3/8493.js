@@ -1,0 +1,1 @@
+lar[8493]=`<b>ης (ἡ)</b> ignorance, THC. <i>5, 7</i> ; XÉN. <i>Mem. 3, 9, 6</i> ; PLAT. <i>Rsp. 560a ; p. opp. à</i> ἐπιστήμη, XÉN. <i>Œc. 20, 2</i> ; PLAT. <i>Rsp. 350a ; en parl. d’abeilles,</i> ARSTT. <i>H.A. 9, 40, 42 ; au plur</i>. XÉN. <i>Œc. 20, 20</i>.`

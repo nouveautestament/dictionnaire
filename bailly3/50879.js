@@ -1,0 +1,1 @@
+lar[50879]=`<b>κακοτεχνίου δίκη</b> <font color="purple">[κᾰ]</font> procès en subornation de témoins, LYS. (POLL. <i>8, 37).</i><p><b>Étym</b>. κακότεχνος.`

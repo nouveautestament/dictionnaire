@@ -1,0 +1,1 @@
+lar[4952]=`<b>ἁλουργο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> marchand de pourpre, ARSTT. <i>Mech. 1, 20</i>.<p><b>Étym</b>. ἁ. πωλέω.`

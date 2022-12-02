@@ -1,0 +1,1 @@
+lar[108467]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> fourrage, ESCHL. <i>fr. 278</i>.<p><b>Étym</b>. χιλόω.`

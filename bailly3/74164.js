@@ -1,0 +1,1 @@
+lar[74164]=`<b>πάγ·χρηστος, ος, ον</b>, tout à fait utile <i>ou</i> utile à tout, AR. <i>Ach. 936</i> ; XÉN. <i>Mem. 2, 4, 5</i>.<p><b>Étym</b>. π. χρηστός.`

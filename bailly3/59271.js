@@ -1,0 +1,1 @@
+lar[59271]=`<b>ίδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f</i>. πέτρα κοίλη, ESCHL. <i>Eum. 22,</i> la grotte de Kôrykos.<p><b>Étym</b>. <i>cf</i>. Κωρύκιος.`

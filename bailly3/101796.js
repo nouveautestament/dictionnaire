@@ -1,0 +1,1 @@
+lar[101796]=`<b>ος, ον</b> <font color="purple">[ῡ]</font> <i>c</i>. Ὑμήττιος, ANTH. <i>7, 36</i>.`

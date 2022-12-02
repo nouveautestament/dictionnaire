@@ -1,0 +1,1 @@
+lar[58563]=`<b>κυκλο·σοβέω-ῶ</b>, mouvoir en rond, AR. <i>Vesp. 1523 conj</i>.`

@@ -1,0 +1,1 @@
+lar[25803]=`<b>δια·τωθάζω</b> (<i>prés. inf</i>.) tourner en dérision, railler, <i>acc</i>. ALCIPHR. <i>2, 4, 4</i>.`

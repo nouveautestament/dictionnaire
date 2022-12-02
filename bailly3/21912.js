@@ -1,0 +1,1 @@
+lar[21912]=`<b>εος-ους (τὸ)</b> joie, PLUT. <i>Ages. 29</i> ; LUC. <i>Am. 9, etc</i>.<p><b>Étym</b>. <i>Cf</i>. γηθέω.`

@@ -1,0 +1,1 @@
+lar[92645]=`<b>ητος (ἡ)</b> nature compacte, épaisseur, solidité, TIMOCL. (ATH. <i>570f</i>).<p><b>Étym</b>. στιφρός.`

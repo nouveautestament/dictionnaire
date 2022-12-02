@@ -1,0 +1,1 @@
+lar[34795]=`<font color="purple">[ῠ]</font><br><b>      1</b> passer la nuit dans, <i>dat</i>. PLUT. <i>M. 434d.</i><br><b>      2</b> passer la nuit <i>ou</i> reposer, SOPH. <i>Ant. 784</i>.<br><b>      3</b> accomplir sa course pendant la nuit, <i>en parl. d’une étoile,</i> BABR. <i>124, 16</i>.<p><b>Étym</b>. ἔννυχος.`

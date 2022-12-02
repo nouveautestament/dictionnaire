@@ -1,0 +1,1 @@
+lar[17692]=`<b>αὐτο·σμικρόν, οῦ (τὸ)</b> la petitesse en soi, PROCL.`

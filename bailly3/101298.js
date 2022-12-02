@@ -1,0 +1,1 @@
+lar[101298]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> l’amant d’Hyakinthos, <i>ép. d’Apollon,</i> NONN. <i>D. 11, 330</i>.<p><b>Étym</b>. Ὑάκινθος.`

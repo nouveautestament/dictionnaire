@@ -1,0 +1,1 @@
+lar[44187]=`<b>ου (ὁ)</b> Ekhéidôros, <i>fl. de Macédoine,</i> HDT. <i>7, 127</i>.`

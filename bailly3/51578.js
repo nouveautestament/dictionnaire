@@ -1,0 +1,1 @@
+lar[51578]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> vie de débauche (comme à Canope) STR. <i>800</i>.<p><b>Étym</b>. Κάνωβος.`

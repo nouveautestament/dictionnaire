@@ -1,0 +1,1 @@
+lar[62371]=`<b>ου (τὸ)</b> Mænalon (<i>auj</i>. Ménalo) <i>mt d’Arcadie,</i> THCR. <i>Idyl. 1, 124</i>.`

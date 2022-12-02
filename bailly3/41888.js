@@ -1,0 +1,1 @@
+lar[41888]=`<b>εὐ·δίδακτος, ος, ον</b> <font color="purple">[ῐ]</font> facile à instruire, docile, DS. <i>2, 29</i>.<p><b>Étym</b>. εὖ, διδάσκω.`

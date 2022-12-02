@@ -1,0 +1,1 @@
+lar[105692]=`<b>ου (ὁ)</b> Phillidas, <i>h</i>. PLUT. <i>Pel. 7, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Φίλλις.`

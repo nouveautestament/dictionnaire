@@ -1,0 +1,1 @@
+lar[87532]=`<font color="purple">[ῡᾰ]</font> être disciple de Pythagore, ALEX. (<i>Com. fr. 3, 483).</i><p><b>Étym</b>. Πυθαγόρας.`

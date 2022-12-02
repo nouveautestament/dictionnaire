@@ -1,0 +1,1 @@
+lar[13626]=`<b>ἀπό·τοκος, ος, ον</b>, né de, qui résulte de, <i>gén</i>. ARÉT. <i>p. 46, 55, etc. ; subst</i>. ὁ ἀπ. propagation (d’une maladie), HPC. <i>816f</i>.<p><b>Étym</b>. ἀποτίκτω.`

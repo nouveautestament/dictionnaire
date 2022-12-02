@@ -1,0 +1,1 @@
+lar[16246]=`<b>ἀ·στόχαστος, ος, ον :<br>      1</b> non visé, DH. <i>14, 10</i>.<br><b>      2</b> <i>fig</i>. qu’on ne peut conjecturer, TH. (STOB. <i>Fl. 52, 15).</i><p><b>Étym</b>. ἀ, στοχάζομαι.`

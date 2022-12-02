@@ -1,0 +1,1 @@
+lar[3721]=`<b>ἀκριτό·βουλος, ος, ον</b> <font color="purple">[ῐ]</font> inconsidéré, MAN. <i>4, 530</i>.<p><b>Étym</b>. ἄκριτος, βούλη.`

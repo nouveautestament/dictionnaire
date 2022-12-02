@@ -1,0 +1,1 @@
+lar[25996]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. βούκεντρον <i>ou</i> βουπλήξ, AQU. <i>Jud. 3, 31</i>.`

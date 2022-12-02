@@ -1,0 +1,1 @@
+lar[23627]=`<i>neutre</i> <b>δέν</b>, <i>gén</i>. <b>δενός</b> (<i>éol</i>. δένος), quelqu’un, quelque chose, <i>c</i>. τις, ALC. <i>76</i> ; DÉMOCR. (PLUT. <i>M. 1109a</i>).<p><b>Étym</b>. <i>forme déduite comme fausse coupe de</i> οὐδείς, μηδείς.`

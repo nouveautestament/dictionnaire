@@ -1,0 +1,1 @@
+lar[77884]=`<b>α, ον</b>, <i>vb. de</i> πέμπω, LUC. <i>Phal. 11 ; au neutre,</i> XÉN. <i>Cyr. 8, 1, 11</i>.`

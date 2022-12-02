@@ -1,0 +1,1 @@
+lar[80424]=`<font color="purple">[ῑ]</font> <i>adv</i>., de Pisa, ANTH. <i>7, 390</i>.<p><b>Étym</b>. Πῖσα, -θεν.`

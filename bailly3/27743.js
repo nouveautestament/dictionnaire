@@ -1,0 +1,1 @@
+lar[27743]=`<b>δουρι·κλυτός, οῦ</b> <font color="purple">[ῐῠ]</font> <i>c</i>. δουρικλειτός IL. <i>2, 645</i> ; OD. <i>15, 544, etc.</i> ; ARCHIL. (PLUT. <i>Thes. 5</i>) ; ESCHL. <i>Pers. 85 (accentué</i> δουρικλύτοις).<p><b>Étym</b>. δόρυ, κλυτός.`

@@ -1,0 +1,1 @@
+lar[35962]=`<b>ἐξ·ηπειρόω-ῶ</b>, réunir au continent, STR. <i>52 et 458</i>.<p><b>Étym</b>. ἐξ, ἤπειρος.`

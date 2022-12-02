@@ -1,0 +1,1 @@
+lar[26602]=`<i>adv</i>., en forme de filet, NYSS. <i>1, 182a</i>.<p><b>Étym</b>. δικτυοειδής.`

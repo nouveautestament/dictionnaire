@@ -1,0 +1,1 @@
+lar[49873]=`<b>ἰσχαδο·κάρυον, ου (τὸ)</b> <font color="purple">[ᾰᾰρ]</font> figues sèches mêlées à des noix, ARR. <i>Epict. 4, 7, 23 ; d’ord. au plur</i>. ARR. <i>Epict. 3, 9, 22</i>.<p><b>Étym</b>. ἰσχάς, κάρυον.`

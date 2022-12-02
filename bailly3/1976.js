@@ -1,0 +1,1 @@
+lar[1976]=`<b>ας (ἡ)</b> iniquité, illégalité, APP. <i>Civ. 2, 77</i>.<p><b>Étym</b>. ἀθέμιστος.`

@@ -1,0 +1,1 @@
+lar[66482]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> vêtement indien, fait d’une seule pièce d’étoffe, M. RUBR. <i>p. 5</i>.<p><b>Étym</b>. <i>fém. de</i> μοναχός.`

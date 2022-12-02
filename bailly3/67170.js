@@ -1,0 +1,1 @@
+lar[67170]=`<b>ης, ες</b>, qui ressemble à la morve, muqueux, visqueux, HPC. <i>817g ;</i> ARSTT. <i>P.A. 2, 9 ; H.A. 3, 5</i> ; HIPPIATR. <i>p. 160, 23</i>.<p><b>Étym</b>. μύξα, -ωδής.`

@@ -1,0 +1,1 @@
+lar[46535]=`<b>ύος (ἡ)</b> charme, enchantement, A.RH. <i>1, 515</i> dout.<p><b>Étym</b>. θέλγω.`

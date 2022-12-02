@@ -1,0 +1,1 @@
+lar[65740]=`<b>μικρο·σκελής, ής, ές</b>, qui a les jambes petites, ARSTT. <i>P.A. 4, 8, 4</i>.<p><b>Étym</b>. μ. σκέλος.`

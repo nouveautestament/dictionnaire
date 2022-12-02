@@ -1,0 +1,1 @@
+lar[29646]=`<b>ἐγ·κηρίς, ίδος (ἡ)</b> boule de cire, GAL. <i>12, 81 au plur</i>.<p><b>Étym</b>. ἐν, κηρός.`

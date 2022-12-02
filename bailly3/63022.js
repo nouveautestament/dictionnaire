@@ -1,0 +1,1 @@
+lar[63022]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Marôn, <i>n. grec</i> :<br><b>      1</b> <i>fils d’Evanthès,</i> OD. <i>9, 197 ; ou de Bacchus,</i> EUR. <i>Cycl. 141 ; d’où p. ext</i>. le vin, CRAT. (<i>Com. fr. 2, 97</i>).<br><b>      2</b> <i>Spartiate,</i> HDT. <i>7, 227</i>.`

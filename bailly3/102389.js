@@ -1,0 +1,1 @@
+lar[102389]=`<b>ὑπερ·δικάζω</b> <font color="purple">[ῐ]</font> <i>c</i>. ὑπερδικέω, AQU. <i>Ps. 9, 5</i>.`

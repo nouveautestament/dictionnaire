@@ -1,0 +1,1 @@
+lar[24876]=`<b>οῦ (ὁ)</b> action de peigner avec soin, CLÉM. <i>1, 577 Migne</i>.<p><b>Étym</b>. διακτενίζω.`

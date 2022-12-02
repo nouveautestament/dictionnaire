@@ -1,0 +1,1 @@
+lar[21245]=`<b>ου (ὁ)</b> sorte de poisson, GAL. <i>6, 395c</i>.`

@@ -1,0 +1,1 @@
+lar[83973]=`<b>προ·διηθέω-ῶ</b>, clarifier auparavant, ARSTT. <i>Probl. 23, 21</i>.`

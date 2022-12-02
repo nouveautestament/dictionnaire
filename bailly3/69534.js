@@ -1,0 +1,1 @@
+lar[69534]=`<i>adv</i>., de manière à sécher, MÉD. <i>p. 72 Matthäi</i>.`

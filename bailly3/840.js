@@ -1,0 +1,1 @@
+lar[840]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Agoratos, <i>h</i>. LYS.<p><b>Étym</b>. ἀγοράομαι.`

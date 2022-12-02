@@ -1,0 +1,1 @@
+lar[57876]=`<b>*κριβανεύς</b>, <i>réc</i>. <b>κλιβανεύς, έως (ὁ)</b> <font color="purple">[ῑᾰ]</font> boulanger, MAN. <i>1, 80</i>.`

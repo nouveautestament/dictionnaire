@@ -1,0 +1,1 @@
+lar[6432]=`<b>ἀμφι·χάσκω</b> (<i>seul. prés. et impf</i>. ἀμφέχασκον) ouvrir la bouche pour avaler, sucer, téter, <i>etc. acc</i>. ESCHL. <i>Ch. 545</i> ; ANTH. <i>7, 702 ; rar. dat</i>. OPP. <i>H. 3, 178</i>.`

@@ -1,0 +1,1 @@
+lar[73263]=`<b>ὀστεο·γενής, ής, ές</b>, engendré par les os ; <i>subst</i>. τὸ ὀστεογενές, PLAT. (ARSTT. <i>Top. 6, 2, 4</i>) la moelle des os.<p><b>Étym</b>. ὀστέον, γίγνομαι.`

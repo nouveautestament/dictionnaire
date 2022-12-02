@@ -1,0 +1,1 @@
+lar[97607]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> humilité, ARR. <i>Epict. 3, 24, 56</i> ; NT. <i>Eph. 4, 2, etc</i>.<p><b>Étym</b>. ταπεινόφρων.`

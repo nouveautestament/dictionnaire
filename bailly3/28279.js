@@ -1,0 +1,1 @@
+lar[28279]=`<b>δυσ·γρίπιστος, ος, ον</b> <font color="purple">[ρῑ]</font> qui recherche le gain, cupide, LIB. <i>724, 725</i>.<p><b>Étym</b>. δ. γριπίζω.`

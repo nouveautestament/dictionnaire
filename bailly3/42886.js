@@ -1,0 +1,1 @@
+lar[42886]=`<b>εὐ·όρπηξ, ηκος (ὁ, ἡ)</b> aux beaux <i>ou</i> vigoureux rameaux, NONN. <i>D. 21, 296</i>.<p><b>Étym</b>. εὖ, ὅρπηξ.`

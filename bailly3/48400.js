@@ -1,0 +1,1 @@
+lar[48400]=`<b>ἰδιογνωμονέω-ῶ</b> <font color="purple">[ῐδ]</font><br><b>      1</b> agir <i>ou</i> parler d’après son propre sentiment, DC. <i>45, 42, etc.</i><br><b>      2</b> avoir une opinion à soi, PHILOD. <i>De sup. 14</i>.<p><b>Étym</b>. ἰδιογνώμων.`

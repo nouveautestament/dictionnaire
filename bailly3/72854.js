@@ -1,0 +1,1 @@
+lar[72854]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> thon germon, <i>gros poisson de mer,</i> ARCHESTR. (ATH. <i>301b, etc</i>.) ; EL. <i>N.A. 1, 40</i>.<p><b>Étym</b>. <i>cf</i>. ὄρκυς.`

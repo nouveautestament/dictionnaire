@@ -1,0 +1,1 @@
+lar[18808]=`<b>βαθυ·σκόπελος, ος, ον</b> <font color="purple">[ᾰ]</font> aux roches élevées, ORPH. <i>Arg. 462, 636</i> ; Q. SM. <i>1, 316</i>.`

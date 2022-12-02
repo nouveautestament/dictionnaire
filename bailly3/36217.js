@@ -1,0 +1,1 @@
+lar[36217]=`<b>ἐξ·οτρύνω</b>, pousser, exciter vivement : τινὰ ἐπί τι, THC. <i>1, 84,</i> qqn à qqe ch. ; τινὰ ποιεῖν τι, ESCHL. <i>Sept. 692</i> ; EUR. <i>Suppl. 24,</i> qqn à faire qqe ch.`

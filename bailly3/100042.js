@@ -1,0 +1,1 @@
+lar[100042]=`<b>οῦ (τὸ)</b> le mt Trèton <i>entre Kléones et Argos, ainsi nommé à cause de ses nombreuses crevasses,</i> HÉS. <i>Th. 331</i>.<p><b>Étym</b>. <i>neutre de</i> τρητός.`

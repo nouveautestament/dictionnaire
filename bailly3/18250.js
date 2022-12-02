@@ -1,0 +1,1 @@
+lar[18250]=`<b>ή, όν</b> <font color="purple">[αῑσ]</font><br><b>      1</b> qui concerne les plaisirs de l’amour, ARSTT. <i>Pol. 5, 10, 7</i>.<br><b>      2</b> qui se livre aux plaisirs de l’amour, ARSTT. <i>G.A. 4, 5, 7</i>.<br><b>      3</b> qui excite aux plaisirs de l’amour, ARSTT. <i>Probl. 30, 1, 13</i>.<p><b>Étym</b>. ἀφροδισιάζω.`

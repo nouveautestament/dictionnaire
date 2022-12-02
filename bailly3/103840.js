@@ -1,0 +1,1 @@
+lar[103840]=`<b>ὑπο·σκληρύνω</b> <font color="purple">[ῡ]</font> rendre un peu dur, TH. <i>Vent. 58</i>.`

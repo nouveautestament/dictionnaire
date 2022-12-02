@@ -1,0 +1,1 @@
+lar[29291]=`<b>ας (ἡ)</b> période de 70 ans, J. AFR. (EUS. <i>D.E. 389d</i>).<p><b>Étym</b>. ἑβδομηκονταετής.`

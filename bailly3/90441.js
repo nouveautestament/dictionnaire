@@ -1,0 +1,1 @@
+lar[90441]=`<b>ιος</b> <i>ou</i> <b>ιδος (ἡ)</b> Siris :<br><b>      1</b> <i>anc. ville de la Grande-Grèce,</i> HDT. <i>8, 62</i>.<br><b>      2</b> <i>v. de Thrace (auj</i>. Sérres, Serrès) HDT. <i>8, 115</i>.`

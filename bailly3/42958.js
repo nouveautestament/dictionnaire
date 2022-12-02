@@ -1,0 +1,1 @@
+lar[42958]=`<b>Εὐ·πάτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> Eupatôr, <i>surn. de Mithridate le Grand,</i> LUC. <i>Alex. 57</i>.<p><b>Étym</b>. <i>v</i>. εὐπάτωρ.`

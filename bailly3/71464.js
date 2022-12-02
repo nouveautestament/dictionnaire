@@ -1,0 +1,1 @@
+lar[71464]=`<b>ὁμο·δίαιτος, ος, ον</b>, qui a le même genre de vie que, <i>dat</i>. LUC. <i>Demon. 5 ; fig</i>. τῇ νόσῳ, LUC. <i>Abd. 5,</i> qui vit avec la maladie, habitué à être malade ; ὁμοδίαιτα τοῖς πολλοῖς, LUC. <i>H. conscr. 16,</i> expressions habituelles à la foule.<p><b>Étym</b>. ὁμ. δίαιτα.`

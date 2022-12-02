@@ -1,0 +1,1 @@
+lar[60338]=`<b>λεοντο·κόμος, ος, ον</b>, qui entretient des lions, OPP. <i>C. 3, 53</i> ; PHILSTR. <i>p. 712</i>.<p><b>Étym</b>. λ. κομέω.`

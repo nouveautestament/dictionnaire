@@ -1,0 +1,1 @@
+lar[82342]=`<b>πολύ·ρρυμος, ος, ον</b> <font color="purple">[ρῡ]</font> muni de plusieurs timons, ARR. <i>Tact. 2, 5</i>.<p><b>Étym</b>. π. ῥυμός.`

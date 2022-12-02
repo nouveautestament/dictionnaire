@@ -1,0 +1,1 @@
+lar[5018]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> <i>pass</i>. absence de chagrin, PLAT. <i>Ax. 371d ;</i> ARSTT. <i>Rhet. 1, 5, 15</i>.<br><b>      2</b> <i>act</i>. innocuité, TH. <i>H.P. 2, 4, 2</i>.<p><b>Étym</b>. ἄλυπος.`

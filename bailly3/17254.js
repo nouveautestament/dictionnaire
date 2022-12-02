@@ -1,0 +1,1 @@
+lar[17254]=`<b>αὐξί·μολπος, ος, ον</b> <font color="purple">[ῐ]</font> qui développe <i>ou</i> inspire les chants, ANACR. <i>53</i>.<p><b>Étym</b>. αὔξω, μολπή.`

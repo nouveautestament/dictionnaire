@@ -1,0 +1,1 @@
+lar[12812]=`<b>ή, όν</b>, propre à défendre, justificatif, apologétique, ARSTT. <i>Rhet. Al. 5, 1</i>.`

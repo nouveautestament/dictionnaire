@@ -1,0 +1,1 @@
+lar[30879]=`<b>ή, όν</b>, adopté, adoptif (enfant) LYS. <i>fr. 33</i> ; DÉM. <i>1088, 3 ; 1390, 8</i>.<p><b>Étym</b>. <i>vb. de</i> εἰσποιέω.`

@@ -1,0 +1,1 @@
+lar[8358]=`<b>ας (ἡ)</b> inertie, inefficacité, SEXT. <i>M. 11, 161</i>.<p><b>Étym</b>. ἀνενέργητος.`

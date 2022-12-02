@@ -1,0 +1,1 @@
+lar[5292]=`<b>ἁμα·τροχάω</b> (<i>seul. part. épq</i>. -τροχόων) courir ensemble, faire des courses ensemble, OD. <i>15, 451</i>.<p><b>Étym</b>. ἅμα, τρόχος.`

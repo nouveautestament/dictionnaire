@@ -1,0 +1,1 @@
+lar[14560]=`<b>ου (ὁ)</b> Ariæos, <i>général de Cyrus le Jeune,</i> XÉN. <i>Œc. 4, 19 ; An. 1, 8, 5, etc</i>.`

@@ -1,0 +1,1 @@
+lar[67790]=`<b>ναυσι·κλειτός, ή, όν</b>, célèbre par ses vaisseaux <i>ou</i> ses exploits sur mer, OD. <i>6, 22</i> ; HH. <i>Ap. 31</i>.<p><b>Étym</b>. ν. κλειτός.`

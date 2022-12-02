@@ -1,0 +1,1 @@
+lar[93072]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> ce qui cause un sentiment d’horreur, <i>d’où</i> chagrin, tristesse, ESCHL. <i>Ag. 1308</i>.<br><b>      2</b> objet de haine, ESCHL. <i>Ag. 558, Ch. 392, 770 ; particul. en parl. des Érynies,</i> ESCHL. <i>Eum. 644, etc.</i> ; A.RH. <i>4, 445</i>.<p><b>Étym</b>. στυγέω.`

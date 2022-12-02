@@ -1,0 +1,1 @@
+lar[10441]=`<b>ἀντι·στρατεύω</b> <font color="purple">[ᾰτ]</font> faire une expédition contre, XÉN. <i>Cyr. 8, 8, 26</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. DS. <i>Exc. 499, 22</i>.`

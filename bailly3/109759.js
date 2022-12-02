@@ -1,0 +1,1 @@
+lar[109759]=`<b>ατος (τὸ)</b> mensonge, tromperie, PLAT. <i>Men. 71d ;</i> LUC. <i>Tim. 55, etc</i>.<p><b>Étym</b>. ψεύδω.`

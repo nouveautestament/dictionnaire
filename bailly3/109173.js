@@ -1,0 +1,1 @@
+lar[109173]=`<b>χρυσο·έλικτος, ος, ον</b> <font color="purple">[ῡ]</font> à spirale d’or, P. SIL. <i>Ecphr. amb. 255</i>.<p><b>Étym</b>. χρ. ἑλίσσω.`

@@ -1,0 +1,1 @@
+lar[92712]=`<b>ου (τὸ)</b> petite robe, <i>particul</i>. robe de philosophe, ANTH. <i>11, 157, 3</i> ; ARR. <i>Epict. 3, 23, 35</i>.<p><b>Étym</b>. στολή.`

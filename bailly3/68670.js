@@ -1,0 +1,1 @@
+lar[68670]=`<b>νη·τρεκέως</b>, <i>adv</i>., vraiment, sincèrement, LYC. <i>1</i>.<p><b>Étym</b>. νη-, *τρεκής ; <i>cf</i>. ἀτρεκής.`

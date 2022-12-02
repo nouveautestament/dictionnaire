@@ -1,0 +1,1 @@
+lar[24748]=`<i>ou</i> <b>διακέλευσμα, ατος (τὸ)</b> recommandation, ordre, PLAT. <i>Leg. 805c</i>.<p><b>Étym</b>. διακελεύω.`

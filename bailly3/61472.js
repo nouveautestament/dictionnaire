@@ -1,0 +1,1 @@
+lar[61472]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en tas, en monceau, THC. <i>4, 31 ; 6, 66</i>.<br><b>      2</b> avec choix, THC. <i>4, 4</i> ; PLUT. <i>Oth. 6</i>.<p><b>Étym</b>. λογάς, -δην.`

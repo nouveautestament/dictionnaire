@@ -1,0 +1,1 @@
+lar[39383]=`<i>adv</i>., en abrégé, brièvement, STR. <i>202</i> ; CORN. <i>217</i> ; PTOL. <i>Tetr. 107</i>.<p><b>Étym</b>. ἐπιτέμνω.`

@@ -1,0 +1,1 @@
+lar[72353]=`<b>ὁπλοποιέω-ῶ</b>, fabriquer des armes, SPT. <i>Sap. 5, 18</i>.<p><b>Étym</b>. ὁπλοποιός.`

@@ -1,0 +1,1 @@
+lar[49888]=`<b>ή, όν</b> <font color="purple">[ᾰδ]</font><br><b>   I</b> qui concerne la goutte sciatique, HPC. <i>139f ;</i> DIOSC. <i>1, 9</i>.<br><b>   II</b> <i>particul.</i> :<br><b>      1</b> atteint de la goutte sciatique, DIOSC. <i>1, 35</i>.<br><b>      2</b> qui guérit la goutte sciatique, DIOSC. <i>2, 205</i>.<p><b>Étym</b>. ἰσχιάς.`

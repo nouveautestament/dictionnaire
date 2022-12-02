@@ -1,0 +1,1 @@
+lar[5072]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> comme de la farine, DIOSC. <i>Parab. 2, 49</i>.<br><b>      2</b> de manière à être comme réduit en farine, <i>en parl. d’un os presque broyé,</i> GAL. <i>2, 394, etc</i>.<p><b>Étym</b>. ἄλφιτον.`

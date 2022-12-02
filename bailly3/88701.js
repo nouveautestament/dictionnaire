@@ -1,0 +1,1 @@
+lar[88701]=`<b>ῥοδό·μελι, ιτος (τὸ)</b> <font color="purple">[ῐτ]</font> miel rosat, ORIB. <i>65 Matthäi</i>.<p><b>Étym</b>. ῥ. μέλι.`

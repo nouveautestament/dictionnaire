@@ -1,0 +1,1 @@
+lar[56185]=`<b>ων (αἱ)</b> <i>nom des bacchantes chez les Macédoniens,</i> PLUT. <i>Alex. 2</i> ; POLYEN <i>4, 1</i>.`

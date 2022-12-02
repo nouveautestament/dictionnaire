@@ -1,0 +1,1 @@
+lar[86469]=`<b>προσ·τεκταίνομαι</b>, fabriquer <i>ou</i> machiner en outre, PLUT. <i>Lys. 26</i>.<p><b>Étym</b>. π. τεκταίνω.`

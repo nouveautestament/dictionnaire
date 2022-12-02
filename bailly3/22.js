@@ -1,0 +1,1 @@
+lar[22]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. Ἄτη, CALL.`

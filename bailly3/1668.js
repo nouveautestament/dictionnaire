@@ -1,0 +1,1 @@
+lar[1668]=`<b>ας (ἡ)</b> <font color="purple">[κῑ]</font> mouvement perpétuel, GAL. <i>2, 245, etc</i>.<p><b>Étym</b>. ἀεικίνητος.`

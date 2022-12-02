@@ -1,0 +1,1 @@
+lar[6819]=`<b>ἀν·αιάζω</b>, se répandre en lamentations, SIB. <i>5, 137</i>.<p><b>Étym</b>. ἀνά, αἰ.`

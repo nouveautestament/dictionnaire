@@ -1,0 +1,1 @@
+lar[6959]=`<b>ἀν·ακμάζω</b>, recouvrer toute sa force, JOS. <i>B.J. 5, 1, 1</i>.`

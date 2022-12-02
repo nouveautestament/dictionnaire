@@ -1,0 +1,1 @@
+lar[11893]=`<font color="purple">[ῑ]</font> <i>adv.</i> :<br><b>      1</b> très exactement, PLUT. <i>Agis 2</i>.<br><b>      2</b> chichement, ALEX. (ATH. <i>137d</i>).<p><b>Étym</b>. ἀπακριβόω.`

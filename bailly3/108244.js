@@ -1,0 +1,1 @@
+lar[108244]=`<b>(ἡ)</b> la déesse à la tortue, <i>n. d’Artémis à Sparte,</i> CLÉM. <i>33</i>.<p><b>Étym</b>. χέλυς.`

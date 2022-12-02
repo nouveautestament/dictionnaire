@@ -1,0 +1,1 @@
+lar[87588]=`<b>ου (ὁ)</b> <font color="purple">[ῡῑ]</font><br><b>      1</b> habitant de Pythopolis, <i>en Bithynie,</i> PLUT. <i>Thes. 26</i>.<br><b>      2</b> fleuve de Pythopolis, <i>v. de Carie,</i> PLUT. <i>Mul. virt. 27</i>.<p><b>Étym</b>. Πυθόπολις.`

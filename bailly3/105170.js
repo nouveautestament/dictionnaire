@@ -1,0 +1,1 @@
+lar[105170]=`<b>ου (ὁ)</b> Phéristos, <i>h</i>. PLUT. <i>Tim. 35</i>.<p><b>Étym</b>. <i>v</i>. φέριστος.`

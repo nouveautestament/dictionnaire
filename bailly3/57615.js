@@ -1,0 +1,1 @@
+lar[57615]=`<b>κραταί·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰ]</font> aux pieds robustes <i>ou</i> fermes, HOM. <i>Ep. 15, 9</i>.<p><b>Étym</b>. κραταιός, πούς.`

@@ -1,0 +1,1 @@
+lar[110541]=`<b>ὠτ·άγρα, ας (ἡ)</b> tenaille pour arracher les oreilles, <i>instrument de torture,</i> SYN. <i>201c</i>.<p><b>Étym</b>. οὖς, ἀγρέω.`

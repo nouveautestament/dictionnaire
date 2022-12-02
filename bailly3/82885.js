@@ -1,0 +1,1 @@
+lar[82885]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> <i>c</i>. πορφυροειδής, ARTÉM. <i>206 Reiff</i>.<p><b>Étym</b>. πορφύρα, -ωδης.`

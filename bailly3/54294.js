@@ -1,0 +1,1 @@
+lar[54294]=`<b>Καυλο·μύκητες, ων (οἱ)</b> Champignons-en-tige, <i>n. de peuple imaginaire,</i> LUC. <i>V.H. 1, 16</i>.<p><b>Étym</b>. καυλός, μύκης.`

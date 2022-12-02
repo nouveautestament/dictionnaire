@@ -1,0 +1,1 @@
+lar[108670]=`<b>χοιρ·άγχη, ης (ἡ)</b> esquinancie des porcs, SOPHR. (DYSC. <i>Adv. p. 541) cf</i>. ὑάγχη.<p><b>Étym</b>. χοῖρος, ἄγχω.`

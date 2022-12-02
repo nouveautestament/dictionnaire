@@ -1,0 +1,1 @@
+lar[75933]=`<b>παρ·άμιλλος, ος, ον</b> <font color="purple">[ᾰμ]</font> qui lutte contre, rival, ASTYDAM. (SUID.), <i>cf. Bgk Poet. lyr. t. 2, p. 326, 4<sup>e</sup> éd</i>.`

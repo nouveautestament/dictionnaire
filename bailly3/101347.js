@@ -1,0 +1,1 @@
+lar[101347]=`<i>adv</i>., avec insolence, arrogance <i>ou</i> violence, XÉN. <i>Cyr. 8, 1, 33</i> ; PLAT. <i>Charm. 175d, etc</i>.<p>•<i> Cp</i>. -ώτερον, DÉM. <i>610, 1</i>.`

@@ -1,0 +1,1 @@
+lar[107197]=`<b>ιδος</b>, <i>acc</i>. <b>ιν (ὁ, ἡ)</b> <font color="purple">[ῐδ]</font> fuyard, lâche, IL. <i>17, 143</i> ; NIC. <i>Al. 472</i> ; LYC. <i>943</i> ; SYN. <i>Hymn. 5, 46</i>.<p><b>Étym</b>. φεύγω.`

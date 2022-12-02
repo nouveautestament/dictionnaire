@@ -1,0 +1,1 @@
+lar[88007]=`<b>πυρρόω-ῶ</b>, rendre roux, SPT. <i>Jer. 4, 7 ; au pass</i>. devenir roux, ARSTT. <i>Probl. 38, 2</i>.<p><b>Étym</b>. πυρρός.`

@@ -1,0 +1,1 @@
+lar[41804]=`<b>εὔ·γονος, ος, ον</b>, apte à produire ; τὸ εὔγονον, JOS. <i>B.J. 4, 8, 3,</i> la faculté de produire.<p><b>Étym</b>. εὖ, γίγνομαι.`

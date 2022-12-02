@@ -1,0 +1,1 @@
+lar[17535]=`<b>αὐτο·κρατής, ής, ές</b> <font color="purple">[ᾰ]</font> qui commande par lui-même <i>ou</i> souverainement, maître absolu, <i>en parl. de la fortune,</i> HPC. <i>423, 5 ; de l’intelligence,</i> EUR. <i>Andr. 483 ; joint à</i> ἀπειθής, PLAT. <i>Tim. 91b ;</i> τὸ αὐτοκρατές, PLUT. <i>M. 1026b</i>, volonté indépendante, libre arbitre.<p><b>Étym</b>. αὐ. κράτος.`

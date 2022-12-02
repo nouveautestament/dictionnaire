@@ -1,0 +1,1 @@
+lar[30400]=`<b>εἰκοτο·λογέω-ῶ</b>, parler selon la vraisemblance, STR. <i>620</i>.<p><b>Étym</b>. εἰκώς, λόγος.`

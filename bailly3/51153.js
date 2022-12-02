@@ -1,0 +1,1 @@
+lar[51153]=`<b>καλλι·λαμπέτης</b>, <i>voc</i>. <b>-η</b>, <i>gén</i>. <b>-ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. brillant d’un bel éclat, ANACR. <i>25</i>.<p><b>Étym</b>. κ. λάμπω.`

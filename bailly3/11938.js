@@ -1,0 +1,1 @@
+lar[11938]=`<b>ας (ἡ)</b> dissonance, <i>d’où</i> dissentiment, LYS. (HARP.).<p><b>Étym</b>. ἀπηχής.`

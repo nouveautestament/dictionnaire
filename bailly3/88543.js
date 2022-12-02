@@ -1,0 +1,1 @@
+lar[88543]=`<b>εως (ὁ)</b> animal d’Éthiopie qui a « les habitudes, la taille et l’ardeur belliqueuse » de l’éléphant, STR. <i>17, 3, 5</i>.`

@@ -1,0 +1,1 @@
+lar[105863]=`<b>φιλό·κροτος, ος, ον</b>, qui aime le bruit, <i>ép. de Pan,</i> HH. <i>18, 2</i>.<p><b>Étym</b>. φ. κροτέω.`

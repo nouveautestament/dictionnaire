@@ -1,0 +1,1 @@
+lar[110012]=`<b>ψυχρο·δόχος, ος, ον</b>, qui reçoit <i>ou</i> contient l’eau froide, <i>en parl. d’une salle de bain,</i> LUC. <i>Hipp. 7</i>.<p><b>Étym</b>. ψ. δέχομαι.`

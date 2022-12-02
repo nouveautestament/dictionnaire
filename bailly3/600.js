@@ -1,0 +1,1 @@
+lar[600]=`<i>contract. poét., surt. épq., p</i>. ἀνακ- <i>dans les cps. c</i>. ἀγκεῖσθαι <i>p</i>. ἀνακεῖσθαι.`

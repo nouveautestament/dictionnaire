@@ -1,0 +1,1 @@
+lar[110226]=`<b>ὠλεσί·θυμος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui détruit le cœur <i>ou</i> la vie, P. SIL. <i>Ecphr. ag. Soph. 566</i>.<p><b>Étym</b>. ὄλλυμι, θυμός.`

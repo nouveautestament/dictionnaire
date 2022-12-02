@@ -1,0 +1,1 @@
+lar[38123]=`<b>ἐπι·κοσμέω-ῶ :<br>      1</b> ajouter de nouveaux ornements à, <i>acc</i>. HDT. <i>1, 184</i>.<br><b>      2</b> combler d’honneurs, honorer, AR. <i>Ran. 383</i> ; XÉN. <i>Cyr. 7, 3, 11 ; au pass</i>. ARSTT. <i>Pol. 2, 5, 5</i>.`

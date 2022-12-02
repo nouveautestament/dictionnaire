@@ -1,0 +1,1 @@
+lar[85790]=`<b>προσ·εταιρέομαι-οῦμαι</b> (<i>seul. prés</i>.) prendre pour compagnon, LUC. <i>Cat. 26</i>.<p><b>Étym</b>. π. ἑταιρέω.`

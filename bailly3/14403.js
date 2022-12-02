@@ -1,0 +1,1 @@
+lar[14403]=`<b>ου (ὁ)</b> Ardiæos, <i>h</i>. PLAT. <i>Rsp. 615c, e</i>.`

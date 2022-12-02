@@ -1,0 +1,1 @@
+lar[84343]=`<b>προ·θέσμιος, α, ον</b>, fixé d’avance, LUC. <i>Nigr. 27</i> ; ἡ προθεσμία (<i>s.-e</i>. ἡμέρα) jour fixé d’avance pour une échéance légale, échéance (d’une dette), terme (d’une assignation) ESCHN. <i>6, 14</i> ; DÉM. <i>952, 19 ; d’où</i> échéance, <i>en gén</i>. LYS. <i>109, 42</i> ; PLAT. <i>Leg. 954d, etc</i>.<p><b>Étym</b>. π. θέσμιος.`

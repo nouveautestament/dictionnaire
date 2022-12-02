@@ -1,0 +1,1 @@
+lar[65580]=`<b>*μητρωσμός, οῦ (ὁ)</b> sacrifice à Cybèle, PHINTYS (STOB. <i>Fl. 74, 61</i>).`

@@ -1,0 +1,1 @@
+lar[8041]=`<i>adv</i>., virilement, courageusement, AR. <i>Eq. 451, etc.</i> ; PLAT. <i>Phædr. 265a, etc.</i> ; PLUT. <i>M. 427e, etc</i>.<p>•<i> Cp</i>. -ώτερον, AR. <i>Pax 515 ; Sup</i>. -ώτατα, AR. <i>Eq. 81</i>.`

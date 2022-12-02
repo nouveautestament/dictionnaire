@@ -1,0 +1,1 @@
+lar[90367]=`<b>ατος (τὸ)</b> <font color="purple">[ῐᾱ]</font> sinapisme, SOR. <i>Obst. 227 fin</i>.<p><b>Étym</b>. σιναπίζω.`

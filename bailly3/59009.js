@@ -1,0 +1,1 @@
+lar[59009]=`<b>ου (ὁ)</b> Kyrônidès, <i>h</i>. IS. <i>10, 4 Baiter-Sauppe, etc</i>.`

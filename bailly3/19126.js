@@ -1,0 +1,1 @@
+lar[19126]=`<b>βαρυ·γούνατος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> aux genoux alourdis, THCR. <i>Idyl. 18, 10</i>.<p><b>Étym</b>. β. γόνυ.`

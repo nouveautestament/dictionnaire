@@ -1,0 +1,1 @@
+lar[90698]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> fosse, fossé, TH. <i>C.P. 3, 16, 2</i> ; STR. <i>165</i>.`

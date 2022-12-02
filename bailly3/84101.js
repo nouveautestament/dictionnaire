@@ -1,0 +1,1 @@
+lar[84101]=`<b>προ·εκπονέω-ῶ</b>, élaborer auparavant, SIM. AM. <i>fr. 20 (26) Bgk</i>.`

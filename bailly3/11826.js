@@ -1,0 +1,1 @@
+lar[11826]=`<b>ἀπ·εσθέομαι</b> <font color="darkgreen">(<i>seul. part. pf. pass</i>. ἀπησθημένος)</font> être déshabillé, LUC. <i>Lex. 5</i>.<p><b>Étym</b>. ἀπό, ἐσθής.`

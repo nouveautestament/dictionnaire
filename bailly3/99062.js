@@ -1,0 +1,1 @@
+lar[99062]=`<b>(τὸ)</b> Tibur (<i>auj</i>. Tivoli) <i>v. du Latium,</i> PLUT. <i>Qu. rom. 55</i>.`

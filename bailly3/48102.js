@@ -1,0 +1,1 @@
+lar[48102]=`<b>ου (ὁ)</b> le fils de Thyônè, <i>càd</i>. de Dionysos, OPP. <i>C. 1, 27</i>.<p><b>Étym</b>. Θυώνη.`

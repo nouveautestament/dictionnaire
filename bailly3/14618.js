@@ -1,0 +1,1 @@
+lar[14618]=`<b>ου</b> <i>et</i> <b>ους (ὁ)</b> Ariobarzane :<br><b>      1</b> <i>satrape persan,</i> XÉN. <i>Hell. 1, 4, 7, etc.</i><br><b>      2</b> <i>roi de Cappadoce,</i> PLUT.<p>➳ <i>Gén</i>. -ου, XÉN. <i>Ages. 2, 26</i> ; -ους, XÉN. <i>Hell. 5, 1, 28 ; 7, 1, 27. Dat</i>. -ῃ ; <i>qqf</i>. -ει, XÉN. <i>Hell. 1, 4, 7 ; 1, 5, 1. Acc</i>. -ην, STR. <i>540</i>.`

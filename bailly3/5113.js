@@ -1,0 +1,1 @@
+lar[5113]=`<b>ωνος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἅλως, ARSTT. <i>Vent. 3, etc.</i> ; SPT. <i>Gen. 50, 10, etc.</i> ; NT. <i>Matth. 3, 12 ; Luc. 3, 17</i>.`

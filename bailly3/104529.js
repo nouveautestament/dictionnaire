@@ -1,0 +1,1 @@
+lar[104529]=`<b>ὑψί·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ῐ]</font> aux pieds élevés, <i>d’où</i> élevé, SOPH. <i>O.R. 866</i>.<p><b>Étym</b>. ὕ. πούς.`

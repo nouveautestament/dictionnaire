@@ -1,0 +1,1 @@
+lar[41632]=`<b>εὐ·απόπτωτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se détache et tombe aisément, TH. <i>C.P. 2, 9, 3</i>.<p><b>Étym</b>. εὖ, ἀποπίπτω.`

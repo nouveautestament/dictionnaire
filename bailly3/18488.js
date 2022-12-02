@@ -1,0 +1,1 @@
+lar[18488]=`<b>ης, ες</b> <font color="purple">[ᾱῠ]</font><br><b>      1</b> couvert de brouillards, brumeux, sombre, ARSTT. <i>Meteor. 2, 8</i> ; APP. D. CHR. <i>etc.</i><br><b>      2</b> <i>part</i>. couvert de brouillards, trouble, <i>en parl. de la vue,</i> HPC. <i>71a, 179a, etc</i>.<p>•<i> Cp</i>. ἀχλυωδέστερος, GAL. <i>8, 559</i>.<p><b>Étym</b>. ἀχλύς, -ωδης.`

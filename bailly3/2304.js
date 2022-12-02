@@ -1,0 +1,1 @@
+lar[2304]=`<b>αἰγο·κέφαλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> oiseau à tête de chèvre, <i>p.-ê</i>. le barge, ARSTT. <i>H.A. 2, 15, 7</i>.<p><b>Étym</b>. αἴξ, κεφαλή.`

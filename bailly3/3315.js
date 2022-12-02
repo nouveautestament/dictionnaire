@@ -1,0 +1,1 @@
+lar[3315]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> guérissable, HPC. <i>Art. 825 ; en gén</i>. à quoi l’on peut remédier, ANT. <i>140, 15</i>.<br><b>      2</b> qu’on peut ranimer, exciter, IL. <i>13, 115</i>.<p><b>Étym</b>. <i>vb. de</i> ἀκέομαι.`

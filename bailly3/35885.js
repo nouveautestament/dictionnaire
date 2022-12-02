@@ -1,0 +1,1 @@
+lar[35885]=`<b>ἐξ·ευπορέω-ῶ :<br>      1</b> procurer, fournir : τί τινι, PLAT. <i>Leg. 918c</i>, un secours à qqn.<br><b>      2</b> avoir des ressources, un moyen : περί τι, PLAT. <i>Leg. 861b</i>, pour faire qqe ch.`

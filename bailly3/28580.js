@@ -1,0 +1,1 @@
+lar[28580]=`<b>ας (ἡ)</b> <font color="purple">[ῑν]</font> difficulté de se mouvoir, ARSTT. <i>G.A. 5, 1, 29 ; P.A. 4, 9, 8</i> ; PLUT. <i>M. 127d</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>Aph. 1257</i>.<p><b>Étym</b>. δυσκίνητος.`

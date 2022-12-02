@@ -1,0 +1,1 @@
+lar[12230]=`<b>ος, ον</b>, détaché d’un tout, <i>en parl. des Phocéens détachés de la métropole,</i> HDT. <i>1, 146 ; d’où</i> attribué en partage, OPP. <i>H. 5, 444</i>.<p><b>Étym</b>. ἀποδασμός.`

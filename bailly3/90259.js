@@ -1,0 +1,1 @@
+lar[90259]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> graine de concombre <i>ou</i> de citrouille, PLUT. <i>M. 733e, 903f dout</i>.<p><b>Étym</b>. σικύα.`

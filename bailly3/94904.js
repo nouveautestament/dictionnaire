@@ -1,0 +1,1 @@
+lar[94904]=`<b>συν·αποπαύομαι</b>, cesser avec <i>ou</i> en même temps, MÉD. <i>p. 103 Matthäi</i>.`

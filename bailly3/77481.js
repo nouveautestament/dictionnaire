@@ -1,0 +1,1 @@
+lar[77481]=`<font color="purple">[ᾰῠ]</font> <i>adv</i>., grossièrement, ARSTT. <i>Nic. 1, 3, 4</i>.<p><b>Étym</b>. παχύς.`

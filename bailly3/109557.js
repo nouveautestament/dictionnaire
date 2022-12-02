@@ -1,0 +1,1 @@
+lar[109557]=`<b>ψαμμακοσιο·γάργαρα, ων (τὰ)</b> <font color="purple">[μᾰ, ᾰρα]</font> foule innombrable comme les grains de sable de la mer, AR. <i>Ach. 3</i>.<p><b>Étym</b>. ψαμμακόσιοι, γάργαρα.`

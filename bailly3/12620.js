@@ -1,0 +1,1 @@
+lar[12620]=`<b>ἀπο·κογχύζω</b>, vider avec une coquille <i>ou</i> une cuiller en forme de coquille, DIOSC. <i>1, 33</i>.`

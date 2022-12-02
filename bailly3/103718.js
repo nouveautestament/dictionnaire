@@ -1,0 +1,1 @@
+lar[103718]=`<b>ὑπό·πορτις, ιος (ἡ)</b> mère (<i>litt</i>. génisse) qui allaite, HÉS. <i>O. 601</i>.<p><b>Étym</b>. ὑ. πόρτις.`

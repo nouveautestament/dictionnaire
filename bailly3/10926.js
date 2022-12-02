@@ -1,0 +1,1 @@
+lar[10926]=`<b>ἀξιο·μισής, ής, ές</b> <font color="purple">[μῑ]</font> digne de haine, haïssable, DC. <i>78, 21</i>.<p><b>Étym</b>. ἄ. μῖσος.`

@@ -1,0 +1,1 @@
+lar[69065]=`<b>οῦ (ὁ)</b> qui fête le premier jour du mois par un festin, LYS. (ATH. <i>551f</i>).<p><b>Étym</b>. νουμηνία.`

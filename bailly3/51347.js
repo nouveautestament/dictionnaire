@@ -1,0 +1,1 @@
+lar[51347]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> sorte de tuile, AR. <i>fr. 54</i>.<p><b>Étym</b>. <i>dim. de</i> κάλυμμα.`

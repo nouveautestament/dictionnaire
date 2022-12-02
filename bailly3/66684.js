@@ -1,0 +1,1 @@
+lar[66684]=`<b>μονοχρονέω-ῶ</b>, n’avoir qu’une durée d’un temps, <i>en parl. d’une syllabe brève,</i> CHŒROB. <i>p. 20, 16</i>.<p><b>Étym</b>. μονόχρονος.`

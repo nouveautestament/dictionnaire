@@ -1,0 +1,1 @@
+lar[107382]=`<b>ίδος (ἡ)</b> sorte de poisson de mer qui s’enveloppe de son écume, ARSTT. <i>H.A. 9, 37, 15</i>.`

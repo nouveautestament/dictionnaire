@@ -1,0 +1,1 @@
+lar[63509]=`<b>Μεγα·σθένης, ους (ὁ)</b> Mégasthénès, <i>historien alexandrin,</i> PLUT. <i>Fac. orb. lun. 24</i>.<p>➳ <i>Dat. ion</i>. -εϊ, ARR. <i>Ind. 3, 7 ; 7, 1 ; acc</i>. -η, STR. <i>707, et</i> -ην, ANTIG. <i>H. mir. 147</i>.`

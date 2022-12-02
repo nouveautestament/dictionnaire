@@ -1,0 +1,1 @@
+lar[16837]=`<b>ἀ·τίτης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m.</i> :<br><b>      1</b> impuni, ESCHL. <i>Eum. 257 (dor</i>. ἀτίτας).<br><b>      2</b> insolvable, ESCHL. <i>Ag. 72</i>.<p><b>Étym</b>. <i>cf</i>. ἄτιτος.`

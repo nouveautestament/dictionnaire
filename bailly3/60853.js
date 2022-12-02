@@ -1,0 +1,1 @@
+lar[60853]=`<b>λησί·μβροτος, ος, ον</b>, qui trompe les mortels, trompeur, voleur, HH. <i>Merc. 339</i>.<p><b>Étym</b>. λανθάνω, βροτός.`

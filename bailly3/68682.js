@@ -1,0 +1,1 @@
+lar[68682]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. νηφάλιος ORACL. (PHLÉG. TR. <i>Mir. 10, 62</i>).`

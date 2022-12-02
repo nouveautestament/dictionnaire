@@ -1,0 +1,1 @@
+lar[39248]=`<b>ἐπι·συντίθημι</b>, placer en outre sur, ajouter encore, SEXT. <i>P. 2, 207</i> ; NICOM. <i>Arithm. 91, 122</i> ; JAMBL. <i>Nicom. ar. p. 80, 85, 108, 112</i>.`

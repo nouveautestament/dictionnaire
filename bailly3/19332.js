@@ -1,0 +1,1 @@
+lar[19332]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>mot sicil. c</i>. πατάνη, plat, MATR. (ATH. <i>163d</i>).`

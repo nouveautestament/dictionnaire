@@ -1,0 +1,1 @@
+lar[88179]=`<b>ῥαβδο·φόρος, ος, ον</b>, <i>litt</i>. qui porte une baguette ; <i>subst</i>. ὁ ῥ. sorte d’agent de police, <i>à Athènes,</i> SCH.-AR. <i>Pax 734</i> ; licteur, <i>à Rome</i> (<i>v</i>. ῥάβδος) POL. <i>10, 32, 2</i> ; DH. <i>1, 569 Reiske</i>.<p><b>Étym</b>. ῥ. φέρω.`

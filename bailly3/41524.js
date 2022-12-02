@@ -1,0 +1,1 @@
+lar[41524]=`<b>εὐ·άγων, ωνος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> acquis par de glorieux combats, PD. <i>N. 10, 38</i>.<p><b>Étym</b>. εὖ, ἀγών.`

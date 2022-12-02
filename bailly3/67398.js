@@ -1,0 +1,1 @@
+lar[67398]=`<font color="purple">[ῠ]</font> <i>c</i>. μυσάττομαι, AQU. <i>1Reg. 25, 26</i>.`

@@ -1,0 +1,1 @@
+lar[93488]=`<b>συγκοινόω-ῶ</b>, unir solidement, fixer, HÉRON <i>20, 25</i>.<br><b><i>Moy.</i></b> faire part de, communiquer : τί τινι, THC. <i>8, 75,</i> qqe ch. à qqn.<p><b>Étym</b>. σύγκοινος.`

@@ -1,0 +1,1 @@
+lar[16750]=`<b>ου (ὁ)</b> Atepomarus, <i>roi gaulois,</i> PLUT.`

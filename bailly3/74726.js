@@ -1,0 +1,1 @@
+lar[74726]=`<b>παμ·μύριος, α, ον</b> <font color="purple">[ῡ]</font> tout à fait innombrable, PHIL. <i>1, 329</i>.<p><b>Étym</b>. π. μυρίος.`

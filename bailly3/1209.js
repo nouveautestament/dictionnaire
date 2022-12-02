@@ -1,0 +1,1 @@
+lar[1209]=`<b>ἄ·δειπνος, ος, ον</b>, sans dîner <i>ou</i> sans souper, XÉN. <i>An. 4, 5, 21, etc</i>.<p><b>Étym</b>. ἀ, δεῖπνον.`

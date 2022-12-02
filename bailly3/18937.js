@@ -1,0 +1,1 @@
+lar[18937]=`<b>βαλανηφαγέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰᾰᾰ]</font> se nourrir de glands, APP. <i>Civ. 1, 50</i>.<p><b>Étym</b>. βαλανηφάγος.`

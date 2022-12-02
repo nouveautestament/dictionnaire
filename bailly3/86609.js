@@ -1,0 +1,1 @@
+lar[86609]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> bienveillance, ESCHL. <i>Sept. 515</i>.<p><b>Étym</b>. προσφιλής.`

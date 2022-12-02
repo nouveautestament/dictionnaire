@@ -1,0 +1,1 @@
+lar[49446]=`<b>Ἱππ·ουρίς, ίδος (ἡ)</b> Hippouris, <i>petite î. des Sporades,</i> A.RH. <i>4, 1710</i>.<p><b>Étym</b>. <i>v</i>. ἵππουρις.`

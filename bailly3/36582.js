@@ -1,0 +1,1 @@
+lar[36582]=`<b>εως (ἡ) :<br>      1</b> action de replier, repli, ARSTT. <i>H.A. 2, 17, 14</i>.<br><b>      2</b> action de redoubler, redoublement, ARSTT. <i>An. pr. 1, 38, 2 ; t. de gr</i>. GR. COR. <i>p. 433</i>.<p><b>Étym</b>. ἐπαναδιπλόω.`

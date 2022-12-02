@@ -1,0 +1,1 @@
+lar[74945]=`<b>ου (τὸ)</b> auberge, hôtellerie, AR. <i>Ran. 550</i> ; DÉM. <i>390, 26</i> ; ESCHN. <i>41, 4</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 817, a, 30 (358 av. J.-C.) ; v. Meisterh. p. 80, § 38, 5</i>.<p><b>Étym</b>. πάνδοκος.`

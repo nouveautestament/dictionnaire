@@ -1,0 +1,1 @@
+lar[102548]=`<b>ὑπερ·θύω</b> <font color="purple">[θῡ, <i>par licence</i> θῠ]</font> déborder en bouillonnant <i>ou simpl</i>. bouillonner fortement, ALEX. (ATH. <i>471f</i>).`

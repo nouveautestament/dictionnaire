@@ -1,0 +1,1 @@
+lar[73049]=`<b>ὀρσί·πους</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> qui meut ses pieds, agile, ANTH. <i>15, 27</i>.<p><b>Étym</b>. ὄρνυμι, πούς.`

@@ -1,0 +1,1 @@
+lar[76062]=`<b>παρα·πλαγιάζω</b> <font color="purple">[ᾰγ]</font> rendre un peu oblique, SPT. <i>1Reg. 23, 26</i>.<p><b>Étym</b>. παραπλάγιος.`

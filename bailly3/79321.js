@@ -1,0 +1,1 @@
+lar[79321]=`<b>περισσο·γωνία, ας (ἡ)</b> nombre d’angles impair, JAMBL. <i>Nicom. ar. p. 28</i>.`

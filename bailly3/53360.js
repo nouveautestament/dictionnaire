@@ -1,0 +1,1 @@
+lar[53360]=`<b>εως (ἡ)</b> action de planter sa tente, <i>d’où</i> :<br><b>      1</b> tente, demeure, POL. <i>1, 26, 5</i>.<br><b>      2</b> nid, NT. <i>Matth. 8, 20</i>.<p><b>Étym</b>. κατασκηνόω.`

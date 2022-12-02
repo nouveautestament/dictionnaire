@@ -1,0 +1,1 @@
+lar[693]=`<b>ή, όν</b>, paré, brillant, CHRYS. <i>7, 313</i>.<p><b>Étym</b>. ἀγλαΐζω.`

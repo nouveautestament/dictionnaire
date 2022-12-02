@@ -1,0 +1,1 @@
+lar[89156]=`<b>ων (οἱ)</b> <font color="purple">[σᾰ]</font> les Salanges :<br><b>      1</b> <i>pple d’Italie,</i> LYC. <i>1058</i>.<br><b>      2</b> <i>pple de l’Inde,</i> NONN. <i>D. 26, 61 ; 30, 312</i>.`

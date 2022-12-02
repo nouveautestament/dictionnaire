@@ -1,0 +1,1 @@
+lar[87986]=`<b>πυρριχιο·ανάπαιστος, ου (ὁ)</b> <font color="purple">[ῐχᾰᾰ]</font> mètre composé de pyrrhiques et d’anapestes, DIOM. <i>481, 18</i>.<p><b>Étym</b>. πυρρίχιος, ἀνάπαιστος.`

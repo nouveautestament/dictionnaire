@@ -1,0 +1,1 @@
+lar[26359]=`<b>οῦ (ὁ)</b> qui raconte, qui explique, A. TAT. <i>4, 15</i>.<p><b>Étym</b>. διηγέομαι.`

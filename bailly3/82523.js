@@ -1,0 +1,1 @@
+lar[82523]=`<b>πολύ·φορβος, ος, ον</b> <font color="purple">[ῠ]</font> très nourrissant <i>ou</i> qui nourrit beaucoup d’êtres, IL. <i>14, 200, etc</i>.<p>➳ <i>Fém</i>. πολυφόρβη, IL. <i>9, 568</i> ; HÉS. <i>Th. 912</i>.<p><b>Étym</b>. π. φέρβω.`

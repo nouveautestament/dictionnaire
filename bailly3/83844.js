@@ -1,0 +1,1 @@
+lar[83844]=`<b>προ·γελάω-ῶ</b>, être riant auparavant, <i>fig. en parl. du matin,</i> PHIL. <i>1, 603</i>.`

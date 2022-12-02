@@ -1,0 +1,1 @@
+lar[28067]=`<b>ων (οἱ)</b> les Dymanes, <i>une des trois tribus doriennes,</i> EPHOR. (E. BYZ.).`

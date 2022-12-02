@@ -1,0 +1,1 @@
+lar[81464]=`<b>ποινο·ποιός, ός, όν</b>, qui punit ; αἱ ποινοποιοί, LUC. <i>Philopatr. 23</i>, les furies vengeresses.<p><b>Étym</b>. ποινή, ποιέω.`

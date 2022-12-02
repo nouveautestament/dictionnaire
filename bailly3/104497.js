@@ -1,0 +1,1 @@
+lar[104497]=`<b>ὑψι·κέραυνος, ος, ον</b> <font color="purple">[ῐ]</font> qui lance la foudre d’en haut, SIB. <i>1, 323 ; 2, 240</i>.<p><b>Étym</b>. ὕ. κεραυνός.`

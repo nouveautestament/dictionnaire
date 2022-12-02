@@ -1,0 +1,1 @@
+lar[95791]=`<b>συνετέω-ῶ</b>, remarquer, comprendre, <i>gén</i>. HPC. <i>273, 12</i>.<p><b>Étym</b>. συνετός.`

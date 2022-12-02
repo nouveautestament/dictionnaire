@@ -1,0 +1,1 @@
+lar[95980]=`<b>συν·θρύπτω</b>, briser, amollir, énerver, NT. <i>Ap. 21, 13</i>.`

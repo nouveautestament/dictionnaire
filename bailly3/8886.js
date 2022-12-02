@@ -1,0 +1,1 @@
+lar[8886]=`<b>ἀνθ·οσμίας, ου</b>, <i>adj. m</i>. qui exhale une odeur de fleur, LUC. <i>Lex. 2</i> ; ἀ. οἶνος, AR. <i>Pl. 807, ou abs</i>. ἀ. XÉN. <i>Hell. 6, 2, 6</i> ; LUC. <i>Sat. 22,</i> vin au bouquet agréable.<p><b>Étym</b>. ἄνθος, ὀσμή.`

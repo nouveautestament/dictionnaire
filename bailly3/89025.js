@@ -1,0 +1,1 @@
+lar[89025]=`<b>ή, όν :<br>      1</b> fortifiant, ORIB. <i>1, 368 B.-Dar.</i><br><b>      2</b> fort, CLÉM. <i>26</i>.<p><b>Étym</b>. ῥώννυμι.`

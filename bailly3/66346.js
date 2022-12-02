@@ -1,0 +1,1 @@
+lar[66346]=`<b>μολιβδ·αχθής, ής, ές</b> <font color="purple">[ῐ]</font> chargé de plomb, ANTH. <i>6, 103</i>.<p><b>Étym</b>. μόλιβος, ἄχθος.`

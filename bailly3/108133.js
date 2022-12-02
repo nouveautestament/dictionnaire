@@ -1,0 +1,1 @@
+lar[108133]=`<b>ας (ἡ)</b> douceur de caractère, mansuétude, ARSTT. <i>Physiogn. 5, 2</i> ; GEOP. <i>16, 1, 11</i>.<p><b>Étym</b>. χειροήθης.`

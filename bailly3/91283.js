@@ -1,0 +1,1 @@
+lar[91283]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> qui élève des chiens, HIM. <i>p. 678</i>.<p><b>Étym</b>. σκυλακεύω.`

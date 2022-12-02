@@ -1,0 +1,1 @@
+lar[70998]=`<b>ὀλιγο·βαρής, ής, ές</b> <font color="purple">[ῐᾰ]</font> de peu de poids, P. ÉG. <i>p. 122, 10</i>.<p><b>Étym</b>. ὀλ. βάρος.`

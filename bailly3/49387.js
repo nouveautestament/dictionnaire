@@ -1,0 +1,1 @@
+lar[49387]=`<b>ἱππό·μαχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui combat à cheval, IL. <i>10, 431</i> (ἱππόδαμος <i>vulg</i>.) ; LUC. <i>Macr. 17</i>.<p><b>Étym</b>. ἵ. μάχομαι.`

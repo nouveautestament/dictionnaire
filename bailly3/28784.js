@@ -1,0 +1,1 @@
+lar[28784]=`<i>adv.</i> :<br><b>      1</b> avec impatience, PLUT. <i>Galb. 25</i>.<br><b>      2</b> avec indocilité, <i>d’où</i> à grand peine, HÉRON <i>122</i> ; APP. <i>1, 355 Schweigh</i>.<p><b>Étym</b>. δυσπειθής.`

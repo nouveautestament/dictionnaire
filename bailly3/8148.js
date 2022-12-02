@@ -1,0 +1,1 @@
+lar[8148]=`<b>ἀν·έγγυος, ος, ον</b>, sans caution, sans garantie, <i>d’où</i> :<br><b>      1</b> illégitime (enfant) PLAT. <i>Rsp. 461b ;</i> PLUT. <i>Thes. 2</i>.<br><b>      2</b> <i>au fém</i>. non fiancée (jeune fille, femme) PLUT. <i>Cæs. 14 ; d’où</i> sans fiançailles (union) DH. <i>2, 24</i>.<p><b>Étym</b>. ἀν-, ἔγγυος.`

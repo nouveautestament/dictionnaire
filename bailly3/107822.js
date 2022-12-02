@@ -1,0 +1,1 @@
+lar[107822]=`<font color="purple">[ᾰ]</font> <i>adv. mauv. leç. p</i>. χαμᾶθεν, CRAT. (PRISC. <i>Gr. lat. 18, p. 214</i>) ; XÉN. <i>Hell. 7, 2, 7</i> ; PLUT. <i>Alex. 35</i> ; LUC. <i>Philops. 7</i> ; ARTÉM. <i>2, 25</i>.`

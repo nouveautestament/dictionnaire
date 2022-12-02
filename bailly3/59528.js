@@ -1,0 +1,1 @@
+lar[59528]=`<b>ατος (τὸ)</b> <i>c</i>. λῆμα, <i>avec jeu de mots sur</i> λαιμός <i>et</i> αἷμα, AR. <i>Av. 1563</i>.`

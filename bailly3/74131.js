@@ -1,0 +1,1 @@
+lar[74131]=`<b>παγ·κόσμιος, ος, ον</b>, commun au monde entier, ORPH. <i>H. 34, 20</i>.<p><b>Étym</b>. π. κόσμος.`

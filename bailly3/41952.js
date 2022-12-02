@@ -1,0 +1,1 @@
+lar[41952]=`<b>εὐ·είματος, ος, ον</b> <font color="purple">[ᾰ]</font> richement vêtu, M. TYR. <i>3, 10 conj</i>.<p><b>Étym</b>. εὖ, εἷμα.`

@@ -1,0 +1,1 @@
+lar[30950]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> fête de Zeus d’Hékalè, PLUT. <i>Thes. 14</i>.<p><b>Étym</b>. <i>cf</i>. Ἑκάλειος.`

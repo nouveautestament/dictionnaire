@@ -1,0 +1,1 @@
+lar[27941]=`<b>ῶν (οἱ)</b> Dropiques, <i>tribu persane,</i> HDT. <i>1, 125</i>.`

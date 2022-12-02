@@ -1,0 +1,1 @@
+lar[83612]=`<b>προ·απαιτέω-ῶ</b>, réclamer d’abord <i>ou</i> auparavant, GAL. <i>14, 577</i>.`

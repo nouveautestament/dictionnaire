@@ -1,0 +1,1 @@
+lar[103271]=`<b>ὑπο·θολόω-ῶ</b>, troubler légèrement, EL. <i>N.A. 4, 31</i>.`

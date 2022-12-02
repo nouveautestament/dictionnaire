@@ -1,0 +1,1 @@
+lar[27884]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> faux, OD. <i>18, 368, etc.</i> ; serpe, serpette, PLAT. <i>Rsp. 333d, etc.</i><br><b>      2</b> sabre recourbé en forme de faux, cimeterre, HDT. <i>5, 112</i>.<p><b>Étym</b>. δρέπω.`

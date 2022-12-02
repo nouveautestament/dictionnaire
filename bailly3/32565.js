@@ -1,0 +1,1 @@
+lar[32565]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>mot éléen, c</i>. Ἐλαφηβολιών, PAUS. <i>5, 13, 11</i>.`

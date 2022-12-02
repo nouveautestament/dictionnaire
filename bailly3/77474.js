@@ -1,0 +1,1 @@
+lar[77474]=`<b>*παχυδερμία</b>, <i>ion</i>. <b>παχυδερμίη, ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> épaisseur de la peau, HPC. <i>1144b</i>.<p><b>Étym</b>. παχύδερμος.`

@@ -1,0 +1,1 @@
+lar[10361]=`<b>ἀντι·πυρσεύω</b>, répondre par un signal de feu, POL. <i>8, 30, 3</i>.`

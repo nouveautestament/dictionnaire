@@ -1,0 +1,1 @@
+lar[58541]=`<b>κυκλιο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[υκᾰ]</font> poète dithyrambique, AR. <i>Av. 1403</i>.<p><b>Étym</b>. κύκλιος, δ.`

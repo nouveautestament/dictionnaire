@@ -1,0 +1,1 @@
+lar[74718]=`<b>παμ·μίαρος, ος, ον</b> <font color="purple">[ᾰρ]</font> tout à fait scélérat, infâme, AR. <i>Pax 183, etc</i>.<p>•<i> Sup</i>. -ώτατος, SPT. <i>4Macc. 10, 17</i>.<p><b>Étym</b>. π. μιαρός.`

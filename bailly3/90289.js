@@ -1,0 +1,1 @@
+lar[90289]=`<b>σιλη·πορδέω</b>, <i>dor</i>. <b>σιλα·πορδέω-ῶ</b> <font color="purple">[ᾱ]</font> péter au nez de qqn, POSIDON. (ATH. <i>212c</i>).<p><b>Étym</b>. <i>p.-ê</i>. σίλλος, πορδή.`

@@ -1,0 +1,1 @@
+lar[71032]=`<b>ὀλιγό·ξυλος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui n’a que peu de bois, ANTH. <i>6, 226</i>.<p><b>Étym</b>. ὀλ. ξύλον.`

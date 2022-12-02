@@ -1,0 +1,1 @@
+lar[23546]=`<b>δειματο·σταγής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> <i>litt</i>. qui distille la frayeur, <i>càd</i>. terrible, ESCHL. <i>Ch. 842 (conj</i>. αἱματο-).<p><b>Étym</b>. δεῖμα, στάζω.`

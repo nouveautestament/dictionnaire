@@ -1,0 +1,1 @@
+lar[78540]=`<b>εως (ἡ)</b> action de saisir avec la main, PLUT. <i>M. 392a</i>.<p><b>Étym</b>. περιδράσσομαι.`

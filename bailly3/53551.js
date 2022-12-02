@@ -1,0 +1,1 @@
+lar[53551]=`<b>κατα·τεφρόω-ῶ</b>, couvrir de cendre, ARSTT. <i>Meteor. 2, 8</i> ; STR. <i>247</i>.`

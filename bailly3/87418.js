@@ -1,0 +1,1 @@
+lar[87418]=`<b>ου (τὸ)</b> ville forte, IL. <i>2, 133</i> ; OD. <i>1, 2, etc.</i> ; HÉS. <i>Sc. 81</i>.<p><b>Étym</b>. πτόλις.`

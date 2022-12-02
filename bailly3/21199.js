@@ -1,0 +1,1 @@
+lar[21199]=`<b>γαλακτο·θρέμμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[γᾰ]</font> nourri de lait, ANTIPH. <i>fr. 52, 4 Kock (corr</i>. γαλατοθρέμμων).<p><b>Étym</b>. γ. τρέφω.`

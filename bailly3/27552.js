@@ -1,0 +1,1 @@
+lar[27552]=`<b>ας (ἡ)</b> glorification, hymne de louanges, CHRYS. <i>Ps. 149</i> ; BAS. <i>1, 77c</i>.<p><b>Étym</b>. δοξολόγος.`

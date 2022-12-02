@@ -1,0 +1,1 @@
+lar[17680]=`<b>αὐτό·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule de soi-même, ANTH. <i>9, 669</i>.<p>➳ <i>Poét</i>. αὐτόρυτος, PD. <i>P. 12, 17</i>.<p><b>Étym</b>. αὐ. ῥέω.`

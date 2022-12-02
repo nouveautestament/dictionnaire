@@ -1,0 +1,1 @@
+lar[25878]=`<b>δια·φρέω</b>, laisser passer, AR. <i>Av. 193</i> ; THC. <i>7, 32</i>.<p><i>cf</i>. εἰσφρέω.`

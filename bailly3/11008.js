@@ -1,0 +1,1 @@
+lar[11008]=`<b>ἀοιδο·πόλος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui s’occupe de chants <i>ou</i> de poésie, ANTH. <i>7, 594</i>.<p><b>Étym</b>. ἀοιδή, πέλομαι.`

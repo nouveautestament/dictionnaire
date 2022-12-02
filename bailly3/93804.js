@@ -1,0 +1,1 @@
+lar[93804]=`<b>εως (ἡ)</b> <font color="purple">[λῠ]</font> raccommodement, réconciliation, DS. <i>12, 4 et 25</i>.<p><b>Étym</b>. συλλύω.`

@@ -1,0 +1,1 @@
+lar[105651]=`<font color="purple">[φῐ]</font> <i>adv</i>., amicalement, XÉN. <i>Hell. 4, 8, 17</i> ; PLAT. <i>Gorg. 485e ;</i> ARSTT. <i>Nic. 9, 4, 10, etc</i>.<p>•<i> Cp</i>. -ώτερον, XÉN. <i>Mem. 2, 7, 9 ; 4, 3, 12 ; • Sup</i>. φιλικώτατα, XÉN. <i>Conv. 9, 4</i>.`

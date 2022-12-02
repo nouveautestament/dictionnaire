@@ -1,0 +1,1 @@
+lar[20412]=`<b>ίδος</b>, <i>adj. f</i>. propre à la nourriture des bœufs, DH. <i>1, 39 ; subst</i>. ἡ β. DH. <i>1, 37,</i> nourriture des bœufs.<p><b>Étym</b>. βουκόλος.`

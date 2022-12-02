@@ -1,0 +1,1 @@
+lar[7282]=`<b>Ἀνάξ·ανδρος, ου (ὁ)</b> Anaxandros :<br><b>      1</b> <i>roi lacédémonien,</i> HDT. <i>7, 204</i>.<br><b>      2</b> <i>autres,</i> THC. <i>8, 100</i>.<p><b>Étym</b>. ἄναξ, ἀνήρ.`

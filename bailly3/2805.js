@@ -1,0 +1,1 @@
+lar[2805]=`<b>αἱρεσιαρχέω-ῶ</b>, être chef d’une secte religieuse, BAS. <i>1, 449</i> ; NAZ. <i>3, 1352 Migne</i>.`

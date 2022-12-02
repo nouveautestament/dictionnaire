@@ -1,0 +1,1 @@
+lar[109920]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> ψυκτήριον ALEX. (ATH. <i>230c, 502f</i>).`

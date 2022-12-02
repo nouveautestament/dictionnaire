@@ -1,0 +1,1 @@
+lar[39646]=`<b>ἐπι·χαλαρός, ή, όν</b> <font color="purple">[ᾰᾰ]</font> quelque peu flasque, lâche, HPC. <i>Art. 817</i>.`

@@ -1,0 +1,1 @@
+lar[15439]=`<b>ου (ὁ)</b> Artybios, <i>Perse,</i> HDT. <i>5, 108</i>.`

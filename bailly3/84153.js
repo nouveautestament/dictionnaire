@@ -1,0 +1,1 @@
+lar[84153]=`<b>προ·ενεδρεύω</b>, placer d’avance en embuscade, <i>acc</i>. APP. <i>Hann. 20</i>.`

@@ -1,0 +1,1 @@
+lar[43973]=`<b>εως (ἡ)</b> interprétation, PROCL. <i>Plat. Parm. 4, p. 40</i>.<p><b>Étym</b>. ἐφερμηνεύω.`

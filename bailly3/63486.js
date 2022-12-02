@@ -1,0 +1,1 @@
+lar[63486]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾱ]</font> Mégara, <i>f</i>. PD. <i>I. 3, 82</i>.<p>➳ <i>Ion</i>. Μεγάρη, OD. <i>11, 269</i>.`

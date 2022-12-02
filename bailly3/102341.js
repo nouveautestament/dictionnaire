@@ -1,0 +1,1 @@
+lar[102341]=`<i>adv</i>., d’une manière excessive <i>ou</i> extraordinaire, ARSTT. <i>Nic. 3, 10, 4</i>.<p><b>Étym</b>. ὑπερβάλλω.`

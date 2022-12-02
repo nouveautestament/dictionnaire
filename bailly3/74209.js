@@ -1,0 +1,1 @@
+lar[74209]=`<font color="purple">[ᾱν]</font> chanter un péan, XÉN. <i>Conv. 2, 1</i> ; PLAT. <i>Ax. 364d ;</i> π. ὀλολυγμὸν ἱρόν, ESCHL. <i>Sept. 268,</i> entonner un chant sacré plaintif.<p><b>Étym</b>. παιάν.`

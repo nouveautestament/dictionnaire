@@ -1,0 +1,1 @@
+lar[89369]=`<b>ων (τὰ)</b> <font color="purple">[ᾰᾰβᾱ]</font> haut de chausses <i>à l’usage des Orientaux,</i> ANTIPH. (<i>Com. fr. 3, 115</i>) ; SPT. <i>Dan. 3, 27</i>.<p><b>Étym</b>. <i>persan</i> shalvâr <i>ou</i> shulvâr, haut de chausses.`

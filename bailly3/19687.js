@@ -1,0 +1,1 @@
+lar[19687]=`<b>ή, όν :<br>      1</b> qui contraint, coactif, PLAT. <i>Leg. 921e ;</i> ARSTT. <i>Mot. an. 10, 4</i>.<br><b>      2</b> violent, PHIL. <i>2, 28, 31 ; 211, 14</i>.<p>•<i> Cp</i>. -ώτερος, SEXT. <i>357. • Sup</i>. -ώτατος, PHIL. <i>ll. cc</i>.<p><b>Étym</b>. βιάζω.`

@@ -1,0 +1,1 @@
+lar[31696]=`<b>εως (ἡ)</b> action de sucer, DIOSC. <i>Delet. 32, Iob. 19</i> ; A. APHR. <i>Probl. 69, 25</i>.<p><b>Étym</b>. ἐκμυζάω.`

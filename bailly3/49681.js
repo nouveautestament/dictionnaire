@@ -1,0 +1,1 @@
+lar[49681]=`<font color="purple">[ῑ̆]</font> <i>adv</i>., également, NYSS. <i>1, 39</i>.<p><b>Étym</b>. ἰσομερής.`

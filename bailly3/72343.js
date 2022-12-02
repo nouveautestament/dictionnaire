@@ -1,0 +1,1 @@
+lar[72343]=`<b>ὁπλο·λογέω-ῶ</b>, ramasser des armes, SPT. <i>2Macc. 8, 27 et 31</i>.<p><b>Étym</b>. ὅπλ. -λογος <i>de</i> λέγω.`

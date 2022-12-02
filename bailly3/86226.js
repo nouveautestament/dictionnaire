@@ -1,0 +1,1 @@
+lar[86226]=`<b>*πρόσ·ορθρος</b>, <i>dor</i>. <b>πότ·ορθρος, ος, ον</b>, qui se trouve vers le point du jour : <i>adv</i>., τὸ πότορθρον, THCR. <i>Idyl. 5, 126,</i> vers le point du jour.<p><b>Étym</b>. π. ὄρθρος.`

@@ -1,0 +1,1 @@
+lar[58694]=`<b>κυμινο·δόκη, ης (ἡ)</b> <font color="purple">[ῠῑ]</font> vase où l’on dépose le cumin, APD. COM. (POLL. <i>10, 94).</i><p><b>Étym</b>. κύμινον, δέχομαι.`

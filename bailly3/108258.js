@@ -1,0 +1,1 @@
+lar[108258]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. χέραδος PD. <i>P. 6, 13</i> ; SAPPH. <i>114</i> ; A.RH. <i>1, 1123, etc</i>.`

@@ -1,0 +1,1 @@
+lar[43612]=`<i>adv</i>., avec tension, avec effort, avec vigueur, AR. <i>Pl. 1095</i> ; XÉN. <i>Hier. 9, 6</i> ; ARSTT. <i>Probl. 5, 39, etc</i>.`

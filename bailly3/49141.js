@@ -1,0 +1,1 @@
+lar[49141]=`<b>ης, ες</b>, semblable à un bouton, qui bourgeonne, TH. <i>Sud. 16</i>.<p><b>Étym</b>. ἴονθος, -ωδης.`

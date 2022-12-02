@@ -1,0 +1,1 @@
+lar[92523]=`<b>στηθο·ειδής, ής, ές</b>, qui ressemble à la poitrine, HPC. <i>476, 53</i>.<p><b>Étym</b>. στῆθος, εἶδος.`

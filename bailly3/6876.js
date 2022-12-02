@@ -1,0 +1,1 @@
+lar[6876]=`<b>ἀν·αιωρέω-ῶ</b>, tenir en l’air <i>ou</i> suspendu, COL. <i>153</i> ; NONN. <i>D. 1, 184, etc</i>.<p>➳ <i>Ao. 3 sg</i>. ἀνῃώρησε, COL. <i>l. c. Pl.q.pf. pass. 3 sg</i>. ἀνῃώρετο, NONN. <i>D. l. c. etc</i>.`

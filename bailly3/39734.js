@@ -1,0 +1,1 @@
+lar[39734]=`<b>ἐπι·χύνω</b> <font color="purple">[ῡ]</font> (<i>seul. part. prés.) c</i>. ἐπιχέω, HERM. (STOB. <i>Ecl. phys. 1, p. 1092</i>).`

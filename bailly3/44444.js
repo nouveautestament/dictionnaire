@@ -1,0 +1,1 @@
+lar[44444]=`<b>ου</b>, <i>adj. m</i>. de Zéleia, DÉM. <i>121, 7</i> ; PLUT. <i>Them. 6, etc</i>.<p><b>Étym</b>. Ζέλεια.`

@@ -1,0 +1,1 @@
+lar[92156]=`<b>στασί·αρχος, ου (ὁ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> chef de parti, DC. <i>Exc. 109 Sturz</i> ; APP. <i>Civ. 1, 2</i>.<br><b>      2</b> chef de fugitifs qui s’exilent, ESCHL. <i>Suppl. 13</i>.<p><b>Étym</b>. στάσις, ἄρχω.`

@@ -1,0 +1,1 @@
+lar[17419]=`<i>adv</i>., en agissant d’après sa propre détermination, en décidant par soi-même, PLUT. <i>Demetr. 6</i>.<p><b>Étym</b>. αὐτογνώμων.`

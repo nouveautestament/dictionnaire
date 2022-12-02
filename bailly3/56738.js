@@ -1,0 +1,1 @@
+lar[56738]=`<i>ou</i> <b>κολύμφατος, ου (ἡ)</b> plante qui pousse dans les lieux humides, GEOP. <i>2, 4, 1</i>.<p><b>Étym</b>. κολυμβάω.`

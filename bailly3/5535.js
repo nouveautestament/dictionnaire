@@ -1,0 +1,1 @@
+lar[5535]=`<b>ἀμευσι·επής, ής, ές</b> <font color="purple">[ᾰ]</font> dont l’expression répond au sentiment, PD. (EUST. <i>Op. 56, 86).</i><p><b>Étym</b>. *ἀμεύομαι, ἔπος.`

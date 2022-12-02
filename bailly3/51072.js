@@ -1,0 +1,1 @@
+lar[51072]=`<b>α (ὁ)</b> Kalléas, <i>h</i>. XÉN. <i>Ages. 8, 3</i>.<p><b>Étym</b>. <i>sur l’incertitude de l’écriture</i> Καλλίας <i>ou</i> Καλλέας, <i>v</i>. Καλλίας <i>fin</i>.`

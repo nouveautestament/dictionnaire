@@ -1,0 +1,1 @@
+lar[71733]=`<b>ὁμο·τροχάω-ῶ</b>, courir aussi rapidement <i>ou</i> avec, MAN. <i>6, 527</i>.<p><b>Étym</b>. ὁμ. τρέχω.`

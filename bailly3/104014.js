@@ -1,0 +1,1 @@
+lar[104014]=`bégayer légèrement, LUC. <i>Tim. 55</i>.<p><b>Étym</b>. ὑπότραυλος.`

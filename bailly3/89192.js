@@ -1,0 +1,1 @@
+lar[89192]=`<b>ου (ὁ)</b> Salios, <i>h</i>. PLUT. <i>Num. 13</i>.`

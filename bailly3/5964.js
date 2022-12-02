@@ -1,0 +1,1 @@
+lar[5964]=`<font color="darkgreen">(<i>seul. prés. et ao</i>. ἠμύστισα)</font> <font color="purple">[ᾰ]</font> boire d’un trait, EUR. <i>Cycl. 565</i> ; PLUT. <i>M. 650a</i>.<p><b>Étym</b>. ἄμυστις.`

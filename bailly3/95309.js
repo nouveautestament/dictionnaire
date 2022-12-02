@@ -1,0 +1,1 @@
+lar[95309]=`<b>συν·εισελαύνω</b>, entrer ensemble à cheval <i>ou</i> en voiture, PLUT. <i>Artax. 13 ; M. 814d</i>.`

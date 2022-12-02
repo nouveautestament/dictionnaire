@@ -1,0 +1,1 @@
+lar[37599]=`<b>ἐπι·διανέμω</b>, distribuer <i>ou</i> partager en outre, ARSTT. <i>Ath. 10, 2</i> ; PHIL. <i>2, 651</i> ; JOS. <i>B.J. 2, 6, 3</i>.`

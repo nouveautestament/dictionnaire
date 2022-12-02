@@ -1,0 +1,1 @@
+lar[36192]=`<b>ἐξ·ορκόω-ῶ</b>, faire prêter serment, THC. <i>5, 47</i> (traité) ; DÉM. <i>535, 24</i> ; ἐξ. τινα <i>avec l’inf. fut</i>. HDT. <i>3, 133 ; 4, 154</i> ; CIA. <i>2, add. 841b, 35 (396 av. J.-C. ; v. Meisterh. p. 200, 7</i>) faire jurer que ; <i>avec double acc</i>. ἐξ. τινα τὸ Στυγὸς ὕδωρ, HDT. <i>6, 74,</i> faire jurer qqn par l’eau du Styx.`

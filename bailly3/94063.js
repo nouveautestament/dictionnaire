@@ -1,0 +1,1 @@
+lar[94063]=`<b>συμ·παραθέω</b>, courir auprès avec, DÉM. <i>52, 2 ; dat</i>. PLUT. <i>Them. 10</i> ; LUC. <i>H. conscr. 45, etc</i>.`

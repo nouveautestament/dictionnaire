@@ -1,0 +1,1 @@
+lar[92947]=`(<i>seul. prés</i>.) <font color="purple">[ῠ]</font> arrondir, PLUT. <i>M. 894a au pass</i>.<p><b>Étym</b>. στρογγύλος.`

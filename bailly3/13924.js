@@ -1,0 +1,1 @@
+lar[13924]=`<i>adv</i>., à l’improviste, CHRYSIPP. (PLUT. <i>M. 1038f</i>) ; EL. <i>N.A. 1, 8</i>.`

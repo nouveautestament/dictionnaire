@@ -1,0 +1,1 @@
+lar[4642]=`<b>Ἀλκι·βίη, ης (ἡ)</b> <font color="purple">[κῐ]</font> Alkibiè, <i>f</i>. Q. SM. <i>1, 25, etc</i>.<p><b>Étym</b>. <i>cf</i>. Ἀλκίβιος.`

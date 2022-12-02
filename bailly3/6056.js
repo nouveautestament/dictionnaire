@@ -1,0 +1,1 @@
+lar[6056]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῐᾰ]</font> protecteur (<i>v</i>. ἀμφιβαίνω II, 1) SYN. <i>p. 324</i>.<p><b>Étym</b>. ἀμφιβαίνω.`

@@ -1,0 +1,1 @@
+lar[70079]=`<i>adv</i>., avec les dents, en mordant, IL. <i>2, 418, etc.</i> ; OD. <i>1, 381, etc.</i> ; EUR. <i>Ph. 1423</i> ; AR. <i>Pl. 690, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

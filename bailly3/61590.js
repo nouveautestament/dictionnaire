@@ -1,0 +1,1 @@
+lar[61590]=`<b>ή, όν :<br>      1</b> qui concerne la peste, pestilentiel, HPC. <i>1271, 2</i> ; LGN <i>44, 9</i>.<br><b>      2</b> qui porte la peste, LYC. <i>1205</i>.<p><b>Étym</b>. λοιμός.`

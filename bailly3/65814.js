@@ -1,0 +1,1 @@
+lar[65814]=`<b>μιλτό·πρῳρος, ος, ον</b>, à la proue peinte en vermillon, APOLL. <i>Lex. p. 459</i>.<p><b>Étym</b>. μίλτος, πρῴρα.`

@@ -1,0 +1,1 @@
+lar[28535]=`<b>δυσ·κάθαρτος, ος, ον</b> <font color="purple">[κᾰ]</font><br><b>      1</b> difficile à purifier, PLUT. <i>M. 991b.</i><br><b>      2</b> difficile à fléchir par des expiations, <i>càd</i>. qui exige victime sur victime, SOPH. <i>Ant. 1285</i> ; AR. <i>Pax 1250</i>.<p><b>Étym</b>. δ. καθαίρω.`

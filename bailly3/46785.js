@@ -1,0 +1,1 @@
+lar[46785]=`<b>θεο·σέπτωρ, ορος (ὁ)</b> adorateur de la divinité, EUR. <i>Hipp. 1364</i>.<p><b>Étym</b>. θ. σέβω.`

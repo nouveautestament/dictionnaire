@@ -1,0 +1,1 @@
+lar[37483]=`<b>ου (ὁ)</b> Épigonos, <i>h</i>. AR. <i>Eccl. 167</i> ; PLUT. <i>Luc. 3</i>.<p><b>Étym</b>. <i>v</i>. ἐπίγονος.`

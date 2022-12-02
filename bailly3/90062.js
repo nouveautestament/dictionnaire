@@ -1,0 +1,1 @@
+lar[90062]=`<b>όνος (ἡ)</b> <font color="purple">[ᾱ]</font> mâchoire, <i>p. ext</i>. joue, HPC. <i>Epid. 3, 1096</i> ; SOPH. <i>fr. 114</i> ; AR. <i>fr. 278 Dind.</i> ; ARSTT. <i>P.A. 3, 7, 4, etc</i>.<p>➳ <i>Ion</i>. σιηγών, HPC. <i>l. c</i>.`

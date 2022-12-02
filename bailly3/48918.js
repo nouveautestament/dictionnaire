@@ -1,0 +1,1 @@
+lar[48918]=`<b>ου (τὸ)</b> <font color="purple">[ῑλ]</font> <i>c</i>. Ἴλιος, <i>chez les Trag</i>. (SOPH. <i>Ph. 454, 1200</i> ; EUR. <i>Andr. 400, etc.) et en prose</i> (HDT. <i>2, 117, etc.</i> ; PLAT. <i>Leg. 682d, etc</i>.) ; <i>dans Hom. seul</i>. IL. <i>15, 71</i>.<p><b>Étym</b>. <i>la forme homérique est</i> ἡ Ἴλιος.`

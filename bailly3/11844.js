@@ -1,0 +1,1 @@
+lar[11844]=`<b>ἀ·πευθής, ής, ές :<br>      1</b> <i>pass</i>. dont on n’a pas entendu parler, inconnu, OD. <i>3, 88</i> ; ARAT. <i>259, 270, 648</i> ; ANTH. <i>11, 420, etc.</i><br><b>      2</b> <i>act</i>. ignorant de, OD. <i>3, 184 ; gén</i>. DP. <i>194</i> ; A. PL. <i>303</i>.<p><b>Étym</b>. ἀ, πυνθάνομαι.`

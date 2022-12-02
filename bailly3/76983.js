@@ -1,0 +1,1 @@
+lar[76983]=`<b>ης (ἡ)</b> = <i>lat</i>. parma, bouclier léger, POL. <i>6, 22, 1, etc</i>.`

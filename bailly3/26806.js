@@ -1,0 +1,1 @@
+lar[26806]=`<b>ου (τὸ)</b> <font color="purple">[ῐῡ]</font> temple de Dionysos, AR. <i>fr. 187</i> ; PLAT. <i>Gorg. 472a ;</i> LUC. <i>Am. 8, etc</i>.<p><b>Étym</b>. <i>neutre de</i> Διονύσιος¹.`

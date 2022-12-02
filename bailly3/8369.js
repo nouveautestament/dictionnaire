@@ -1,0 +1,1 @@
+lar[8369]=`<b>ἀν·εξάλλακτος, ος, ον</b>, invariable, immuable, PROCL. <i>Plat. Tim. p. 175</i>.<p><b>Étym</b>. ἀν-, ἐξαλλάσσω.`

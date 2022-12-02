@@ -1,0 +1,1 @@
+lar[103579]=`<b>ὑπο·μύσαρος, ος, ον</b> <font color="purple">[μῠᾰ]</font> qqe peu fétide <i>ou</i> répugnant, HPC. <i>1234d ;</i> PHIL. <i>1, 581</i>.<p><b>Étym</b>. ὑ. μυσαρός.`

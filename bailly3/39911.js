@@ -1,0 +1,1 @@
+lar[39911]=`<b>ἐπ·οφθάλμιος, ος, ον</b>, qui est au-dessus des yeux, GAL.<p><b>Étym</b>. ἐπί, ὀφθαλμός.`

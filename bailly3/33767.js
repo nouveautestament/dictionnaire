@@ -1,0 +1,1 @@
+lar[33767]=`<b>ἐν·άγαμαι</b> <font color="purple">[ᾰγᾰ]</font> admirer, PHIL. <i>1, 449</i>.`

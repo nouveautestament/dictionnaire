@@ -1,0 +1,1 @@
+lar[16454]=`<i>adv</i>., sans proportion, sans accord, SYN.`

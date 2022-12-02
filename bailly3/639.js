@@ -1,0 +1,1 @@
+lar[639]=`<i>ou</i> <b>ἀγκτηρίζω</b>, rapprocher les lèvres d’une plaie avec un ἀγκτήρ, CRIT. (GAL. <i>13, 608</i>).`

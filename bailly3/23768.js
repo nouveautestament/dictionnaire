@@ -1,0 +1,1 @@
+lar[23768]=`<b>ορος (ὁ)</b> qui accueille, <i>gén</i>. ESCHL. <i>Eum. 204</i>.<p><b>Étym</b>. δέχομαι.`

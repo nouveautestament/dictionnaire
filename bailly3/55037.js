@@ -1,0 +1,1 @@
+lar[55037]=`<b>      1 <i>tr.</i></b> rendre rude <i>ou</i> rauque, enrouer, HPC. <i>553, 52 ; d’où au pass</i>. devenir enroué, HPC. <i>479, 51</i>.<br><b>      2 <i>intr.</i></b> être rauque <i>ou</i> enroué, HPC. <i>544, 45</i>.<p><b>Étym</b>. κέρχνος².`

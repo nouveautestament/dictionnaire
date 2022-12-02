@@ -1,0 +1,1 @@
+lar[65415]=`<b>μηλο·τρόφος, ος, ον</b>, qui nourrit des brebis <i>ou</i> des troupeaux, ARCHIL. (SCH.-EUR. <i>Med. 713</i>) ; ESCHL. <i>Pers. 764, etc</i>.<p><b>Étym</b>. μῆλον¹, τρέφω.`

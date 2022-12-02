@@ -1,0 +1,1 @@
+lar[66106]=`<b>(τὰ)</b> les Monts des Mitræes <i>en Sarmatie,</i> LUC. <i>Tox. 52</i>.`

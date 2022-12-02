@@ -1,0 +1,1 @@
+lar[1399]=`<b>ἀ·διεξίτητος, ος, ον</b> <font color="purple">[ῐτ]</font> qu’on ne peut parcourir <i>ou</i> expliquer en entier, ARSTT. <i>Phys. 3, 7, 5</i>.<p><b>Étym</b>. ἀ, διέξειμι.`

@@ -1,0 +1,1 @@
+lar[53994]=`<b>κατ·ευφημέω-ῶ</b>, saluer par des acclamations, PLUT. <i>Cic. 9, Mar. 29, etc. ; au pass</i>. DH. <i>3, 18</i>.`

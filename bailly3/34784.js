@@ -1,0 +1,1 @@
+lar[34784]=`<i>adv</i>., légalement, justement, LYS. <i>115, 15 ; 186, 35</i> ; DC. <i>56, 7, etc</i>.<p><b>Étym</b>. ἔννομος¹.`

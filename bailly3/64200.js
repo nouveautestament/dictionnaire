@@ -1,0 +1,1 @@
+lar[64200]=`<b>ατος (τὸ)</b> chant, mélodie, PLUT. <i>M. 1145a ;</i> CHRYS. <i>1, 926</i>.<p><b>Étym</b>. μελῳδέω.`

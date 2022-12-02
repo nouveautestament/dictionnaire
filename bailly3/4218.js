@@ -1,0 +1,1 @@
+lar[4218]=`<font color="purple">[ᾰ]</font> <i>c</i>. ἀλέξω, ANTH. <i>6, 245</i>;.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>f</i>. ἀλέξομαι, SOPH. <i>O.R. 171</i> ; XÉN. <i>An. 7, 7, 3 ; ao</i>. ἠλεξάμην, HDT. <i>7, 207</i> ; HPC. <i>6, 74 Littré</i> ; XÉN. <i>An. 1, 3, 6, etc</i>.)</font>.`

@@ -1,0 +1,1 @@
+lar[79801]=`<b>Περσονομέομαι-οῦμαι</b>, vivre sous la domination des Perses, ESCHL. <i>Pers. 585</i>.<p><b>Étym</b>. Περσονόμος.`

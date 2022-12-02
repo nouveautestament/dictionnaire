@@ -1,0 +1,1 @@
+lar[74103]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de fixer solidement, OLYMPIOD. <i>(Bkk. 1408</i>).`

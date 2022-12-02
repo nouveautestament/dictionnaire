@@ -1,0 +1,1 @@
+lar[24627]=`<b>δια·ζώω</b> (<i>seul. impf</i>.) soutenir sa vie, A.RH. <i>1, 1074 (impf. itér. 3 pl</i>. διεζώεσκον) ; <i>avec un part</i>. ποιηφαγέοντες διέζωον, HDT. <i>3, 25</i>, ils soutenaient leur vie en mangeant de l’herbe.<p><b>Étym</b>. <i>ion. c</i>. διαζάω.`

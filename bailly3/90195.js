@@ -1,0 +1,1 @@
+lar[90195]=`<b>α, ον</b> <font color="purple">[σῑ]</font> <i>c</i>. Σιδώνιος, IL. <i>6, 290</i> ; OD. <i>4, 84, 618 ; 13, 285</i> ; ESCHL. <i>Suppl. 121, etc.</i> ; HDT. <i>2, 116 ; 7, 44, etc.</i> ; ἡ Σιδονίη (<i>ion</i>.) OD. <i>13, 285,</i> le territoire de Sidon.<p><b>Étym</b>. Σιδών.`

@@ -1,0 +1,1 @@
+lar[8375]=`<i>adv</i>., sans pouvoir être surpris, XÉN. <i>Œc. 10, 8</i>.`

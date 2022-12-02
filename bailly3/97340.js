@@ -1,0 +1,1 @@
+lar[97340]=`<i>part. ao.2 pass. de</i> τάσσω.`

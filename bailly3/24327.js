@@ -1,0 +1,1 @@
+lar[24327]=`<b>ου (ὁ)</b> Dèmoukhos, <i>Troyen,</i> IL. <i>20, 457</i>.<p><b>Étym</b>. <i>cf</i>. δημοῦχος.`

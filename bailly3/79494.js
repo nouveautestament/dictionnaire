@@ -1,0 +1,1 @@
+lar[79494]=`<b>περι·τιτραίνω</b> <i>ou</i> <b>περι·τιτράω-ῶ</b> (<i>seul. 3 sg. impér. prés. pass</i>. περιτιτράσθω, ORIB. <i>p. 97 Cocch. et part. prés. moy</i>. περιτιτράμενος, ORIB. <i>p. 97 Cocch. comme de</i> *περιτίτρημι) percer tout autour.`

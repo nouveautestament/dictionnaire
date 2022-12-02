@@ -1,0 +1,1 @@
+lar[70474]=`<b>η, ον</b> <font color="purple">[ῐ]</font> préparé avec la fleur de la vigne <i>ou</i> l’œnanthe, TH. <i>fr. 4, 27</i> ; DIOSC. <i>1, 57, etc</i>.<p><b>Étym</b>. οἰνάνθη.`

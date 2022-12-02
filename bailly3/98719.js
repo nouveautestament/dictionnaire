@@ -1,0 +1,1 @@
+lar[98719]=`<b>τετρά·χυτρος, ος, ον</b>, d’une contenance de quatre marmites, BATR. <i>258</i>.<p><b>Étym</b>. τ. χύτρα.`

@@ -1,0 +1,1 @@
+lar[7085]=`<b>ἀν·αλήθης, ης, ες</b> <font color="purple">[ᾰλ]</font> qui n’est pas vrai, faux, PLUT. <i>Alc. c.Cor. 2</i>.<p>•<i> Cp</i>. -έστερος, DH. <i>Dem. 4 dout</i>.<p><b>Étym</b>. ἀν-, ἀληθής.`

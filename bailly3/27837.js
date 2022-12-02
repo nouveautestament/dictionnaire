@@ -1,0 +1,1 @@
+lar[27837]=`<b>ικος</b>, <i>mot des Athamanes, sorte de</i> pain, ATH. <i>114b</i> (<i>plur</i>. -ικες) ; SÉLEUC. (ATH. <i>114b acc</i>. -ιν).`

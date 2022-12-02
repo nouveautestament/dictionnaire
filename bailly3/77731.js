@@ -1,0 +1,1 @@
+lar[77731]=`<b>ίτιδος (ἡ)</b> herbe aux cigognes, GAL. <i>13, 599</i>.<p><b>Étym</b>. πελαργός.`

@@ -1,0 +1,1 @@
+lar[70515]=`<b>οἰνό·γαλα, ακτος (τὸ)</b> <font color="purple">[γᾰ]</font> vin mêlé de lait, HPC. <i>1230b</i>.<p><b>Étym</b>. οἶν. γάλα.`

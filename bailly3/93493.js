@@ -1,0 +1,1 @@
+lar[93493]=`<b>συγ·κολάζω</b>, châtier ensemble <i>ou</i> avec, aider à châtier : τινί τινα, PLAT. <i>Leg. 730d</i>, aider qqn à châtier qqn.`

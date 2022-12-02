@@ -1,0 +1,1 @@
+lar[18941]=`<font color="darkgreen">(<i>f</i>. ίσω)</font> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> secouer les glands d’un chêne, ANTH. <i>11, 417</i>.<br><b>      2</b> appliquer un suppositoire, HPC. (POLL. <i>10, 150).</i><p><b>Étym</b>. βάλανος.`

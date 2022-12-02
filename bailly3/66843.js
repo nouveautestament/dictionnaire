@@ -1,0 +1,1 @@
+lar[66843]=`<b>(ἡ)</b> = <i>lat</i>. Munda, <i>v. de Bétique,</i> PLUT. <i>Cæs. 56</i>.`

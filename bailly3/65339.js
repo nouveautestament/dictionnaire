@@ -1,0 +1,1 @@
+lar[65339]=`<b>εως (ἡ)</b> allongement d’une syllabe, SCH.-D. THR. <i>(Bkk. p. 822, 23).</i><p><b>Étym</b>. μηκύνω.`

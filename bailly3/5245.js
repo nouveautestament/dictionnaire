@@ -1,0 +1,1 @@
+lar[5245]=`<b>ου (τὸ)</b> immortelle, <i>plante,</i> A. PL. <i>188 dout</i>.<p><b>Étym</b>. <i>cf</i>. ἀμάραντος.`

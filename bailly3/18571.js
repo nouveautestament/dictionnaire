@@ -1,0 +1,1 @@
+lar[18571]=`<b>ἀχυρό·τριψ, ιβος (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> qui broie la paille, ANTH. <i>6, 104</i>.<p><b>Étym</b>. ἄχυρον, τρίβω.`

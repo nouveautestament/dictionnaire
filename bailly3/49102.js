@@ -1,0 +1,1 @@
+lar[49102]=`<b>ἰο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> violet, DÉMOCR. (ATH. <i>525c</i>).<br><b>      2</b> de couleur sombre, ATH. <i>42e</i>.<p><b>Étym</b>. ἴον, βάπτω.`

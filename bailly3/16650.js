@@ -1,0 +1,1 @@
+lar[16650]=`<b>ας (ἡ)</b> vie de prodigue, débauche, PLAT. <i>Rsp. 560e ;</i> ARSTT. <i>Nic. 4, 1, 3</i>.<p><b>Étym</b>. ἄσωτος.`

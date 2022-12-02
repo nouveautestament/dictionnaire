@@ -1,0 +1,1 @@
+lar[42145]=`<b>*εὐ·ήχητος</b>, <i>seul. dor</i>. <b>εὐ·άχητος, ος, ον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> aux sons harmonieux, EUR. <i>Ion 884</i>.<br><b>      2</b> aux sons retentissants, EUR. <i>Hipp. 1272</i>.<p><b>Étym</b>. εὖ, ἠχέομαι.`

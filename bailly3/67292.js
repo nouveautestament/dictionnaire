@@ -1,0 +1,1 @@
+lar[67292]=`<b>ας (ἡ) :<br>   I</b> fourmilière, ARSTT. <i>H.A. 4, 8</i> ; PLUT. <i>M. 601c.</i><br><b>   II</b> <i>au plur</i>. μυρμηκίαι :<br><b>      1</b> verrues qui causent des démangeaisons, une sorte de fourmillement, P. ÉG. <i>4, 15</i>.<br><b>      2</b> trilles, roulades de chanteur, PHÉRÉCR. (PLUT. <i>M. 1142a</i>).<p><b>Étym</b>. μύρμηξ.`

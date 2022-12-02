@@ -1,0 +1,1 @@
+lar[71085]=`<b>ος, ον</b> <font color="purple">[ῐγ]</font> qui dure peu, de courte durée, THGN. <i>1014</i> ; HDT. <i>1, 38</i> ; XÉN. <i>Cyr. 4, 2, 24</i>.<p>•<i> Cp</i>. -ώτερος, PLAT. <i>Phædr. 87 c et d</i>.<p>➳ <i>Fém. ion</i>. -ίη, ANTH. <i>7, 648</i>.<p><b>Étym</b>. ὀλιγόχρονος.`

@@ -1,0 +1,1 @@
+lar[20510]=`<b>ου</b>, <i>épq</i>. <b>οιο (τὸ)</b> <font color="purple">[ᾰ]</font> Bouprasion, <i>ville, pays et fl. d’Élide,</i> IL. <i>2, 615</i> ; THCR. <i>Idyl. 25, 11 ; etc</i>.<p><b>Étym</b>. βοῦς, πιπράσκω.`

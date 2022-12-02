@@ -1,0 +1,1 @@
+lar[97795]=`<b>ταυρο·πάτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui a pour père un taureau, ANTH. <i>15, 21</i>.<p><b>Étym</b>. τ. πατήρ.`

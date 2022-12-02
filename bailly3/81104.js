@@ -1,0 +1,1 @@
+lar[81104]=`<b>πλουθ·υγίεια, ας (ἡ)</b> <font color="purple">[ῠ]</font> réunion de la fortune et de la santé, AR. <i>Av. 731</i>.<p><b>Étym</b>. πλοῦτος, ὑγίεια.`

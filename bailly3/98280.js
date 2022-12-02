@@ -1,0 +1,1 @@
+lar[98280]=`<b>ίτιδος</b>, <i>acc</i>. <b>ῖτιν</b> <font color="purple">[ᾰῑτῐδ]</font> <i>adj. f</i>. qui forme des bas-fonds, ANTH. <i>9, 551</i>.<p><b>Étym</b>. τέναγος.`

@@ -1,0 +1,1 @@
+lar[25135]=`<b>δια·νέω</b> <font color="darkgreen">(<i>f</i>. -νεύσομαι, <i>etc</i>.) :</font><br><b>      1</b> traverser (la mer) à la nage : ἐς Σαλαμῖνα, HDT. <i>8, 89 (impf</i>. διένεον) jusqu’à Salamine.<br><b>      2</b> traverser à la nage : ποταμόν, EL. <i>N.A. 3, 6</i>, un fleuve ; <i>fig</i>. πλῆθος λόγων, PLAT. <i>Parm. 137a</i>, une multitude de discussions.`

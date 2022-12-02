@@ -1,0 +1,1 @@
+lar[63220]=`<b>μαχαιρο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> fabricant de coutelas, de sabres, AR. <i>Av. 441</i> ; DÉM. <i>816, 5</i> ; PLUT. <i>M. 598d, etc</i>.<p><b>Étym</b>. μάχαιρα, ποιέω.`

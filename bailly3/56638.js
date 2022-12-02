@@ -1,0 +1,1 @@
+lar[56638]=`<b>Κολλίνα πύλη (ἡ)</b> = <i>lat</i>. Collīna porta, la porte Colline, <i>à Rome,</i> PLUT. <i>Num. 10, etc</i>.`

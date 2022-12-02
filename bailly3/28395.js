@@ -1,0 +1,1 @@
+lar[28395]=`<b>δυσ·ένωτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à unir, M. ANT. <i>11, 8</i>.<p><b>Étym</b>. δ. ἐνόω.`

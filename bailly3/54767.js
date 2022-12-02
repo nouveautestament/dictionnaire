@@ -1,0 +1,1 @@
+lar[54767]=`<b>ωνος (ὁ) :<br>      1</b> misérable, <i>propr</i>. digne de l’aiguillon <i>ou</i> du fouet à clous, SOPH. <i>fr. 309</i> ; AR. <i>Nub. 449</i>.<br><b>      2</b> habit de plusieurs morceaux, BITON <i>p. 109 ; fig</i>. centon, poème composé de vers empruntés à d’autres poèmes, EUST. <i>p. 1308 fin ; 1099, 51</i>.<p><b>Étym</b>. κέντρον.`

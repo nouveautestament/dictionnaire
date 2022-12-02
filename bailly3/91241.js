@@ -1,0 +1,1 @@
+lar[91241]=`<b>ου (ὁ)</b> <font color="purple">[ῑτ]</font> sorte de gâteau au fromage, CHRYSIPP. (ATH. <i>647d</i>) ; <i>cf. lat</i>. scriblita.`

@@ -1,0 +1,1 @@
+lar[68031]=`<b>ῶνος (ὁ)</b> tombeau <i>ou</i> cimetière, ANTH. <i>7, 610</i>.<p><b>Étym</b>. νεκρός.`

@@ -1,0 +1,1 @@
+lar[12574]=`<b>ἀπο·κλάζω</b>, pousser un cri, ESCHL. <i>Ag. 156</i> ; ANTH. <i>7, 191</i>.`

@@ -1,0 +1,1 @@
+lar[39619]=`<b>ἐπί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, prudent, sage, <i>en parl. de pers</i>. OD. <i>23, 12 ; 16, 242 ; en parl. de choses (conseil, dessein, etc</i>.) OD. <i>3, 128 ; 19, 326</i>.<p><b>Étym</b>. ἐπί, φρήν.`

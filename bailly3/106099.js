@@ -1,0 +1,1 @@
+lar[106099]=`<b>φιλό·σπονδος, ος, ον</b> <font color="purple">[ῐ]</font> ami des libations, qui sert aux libations, ESCHL. <i>Ch. 292</i>.<p><b>Étym</b>. φ. σπονδή.`

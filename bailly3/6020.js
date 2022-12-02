@@ -1,0 +1,1 @@
+lar[6020]=`<b>ἀμφ·έρχομαι</b> <font color="darkgreen">(<i>seul. ao.2, 3 sg</i>. ἀμφήλυθε)</font> venir autour de, <i>p. suite,</i> s’approcher de, <i>acc</i>. OD. <i>6, 122 ; 12, 369</i>.`

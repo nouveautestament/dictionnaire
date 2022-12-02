@@ -1,0 +1,1 @@
+lar[106807]=`<font color="purple">[ᾱτ]</font> appartenir à une phratrie : μετά τινος, DÉM. <i>1054, 3,</i> avec qqn.<p><b>Étym</b>. φρατρία.`

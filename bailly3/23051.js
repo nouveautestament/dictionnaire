@@ -1,0 +1,1 @@
+lar[23051]=`<b>δακρυσί·στακτος, ος, ον</b> <font color="purple">[αῠ]</font> qui dégoutte de larmes, qui épanche des larmes, ESCHL. <i>Pr. 399</i>.<p><b>Étym</b>. δάκρυ, στάζω.`

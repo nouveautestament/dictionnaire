@@ -1,0 +1,1 @@
+lar[36959]=`<b>ῶν (οἱ)</b> les Épeies, <i>pple d’Élide,</i> IL. <i>2, 619, etc</i>.`

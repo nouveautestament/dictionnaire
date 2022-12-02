@@ -1,0 +1,1 @@
+lar[41341]=`<b>ἑτερο·λογία, ας (ἡ)</b> langage différent, <i>càd</i>. faux, SYMM. <i>Ps. 138, 4</i>.<p><b>Étym</b>. ἕ. λόγος.`

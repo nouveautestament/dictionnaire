@@ -1,0 +1,1 @@
+lar[27242]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> Dipsakos, <i>h</i>. A.RH. <i>2, 653</i>.`

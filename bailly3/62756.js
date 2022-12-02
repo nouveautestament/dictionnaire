@@ -1,0 +1,1 @@
+lar[62756]=`<b>ου (τὸ)</b> Mandonion, <i>v. de Messapie,</i> PLUT. <i>Agis 3</i>.`

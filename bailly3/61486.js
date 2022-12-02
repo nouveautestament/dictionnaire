@@ -1,0 +1,1 @@
+lar[61486]=`<b>ας (ἡ)</b> collecte pour les pauvres, NT. <i>1Cor. 16, 1 et 2</i>.<p><b>Étym</b>. λέγω.`

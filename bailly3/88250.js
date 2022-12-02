@@ -1,0 +1,1 @@
+lar[88250]=`<b>ῥακό·δυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> couvert de haillons, déguenillé, EUR. <i>Rhes. 712</i>.<p><b>Étym</b>. ῥάκος, δύομαι.`

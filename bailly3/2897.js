@@ -1,0 +1,1 @@
+lar[2897]=`<b>αἰσχρο·κερδέω-ῶ</b>, être cupide <i>ou</i> avare, HYPÉR. (POLL. <i>3, 113</i>).`

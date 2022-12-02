@@ -1,0 +1,1 @@
+lar[79534]=`<b>οῦ (ὁ)</b> course autour, ANTYLL. (ORIB. <i>1, 512 B.-Dar</i>.).<p><b>Étym</b>. περιτροχάζω.`

@@ -1,0 +1,1 @@
+lar[71985]=`<b>ὀνοματο·λόγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> collecteur de mots, ATH. <i>397a.</i><br><b>      2</b> <i>c</i>. ὀνομακλήτωρ, PLUT. <i>Cato mi. 8</i>.<p><b>Étym</b>. ὄ. λέγω.`

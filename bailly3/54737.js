@@ -1,0 +1,1 @@
+lar[54737]=`<b>κενταυρο·φόνος, ου (ὁ)</b> tueur de Centaures, <i>ép. d’Hèraklès,</i> THCR. <i>Idyl. 17, 20</i>.<p><b>Étym</b>. Κ. πεφνεῖν.`

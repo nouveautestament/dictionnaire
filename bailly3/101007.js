@@ -1,0 +1,1 @@
+lar[101007]=`<b>τυμβ·ήρης, ης, ες :<br>      1</b> enseveli, SOPH. <i>Ant. 255</i>.<br><b>      2</b> sépulcral, funéraire, SOPH. <i>Ant. 947</i> ; SOPH. (AR. <i>Th. 889).</i><p><b>Étym</b>. τύμβος, *ἄρω.`

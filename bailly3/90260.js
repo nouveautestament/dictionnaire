@@ -1,0 +1,1 @@
+lar[90260]=`<b>σικυο·πέπων, ονος (ὁ)</b> <font color="purple">[ῐ]</font> sorte de melon, GAL. <i>6, 338</i>.<p><b>Étym</b>. σίκυος, πέπων.`

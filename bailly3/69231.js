@@ -1,0 +1,1 @@
+lar[69231]=`<b>νυμφοστολέω-ῶ :<br>      1</b> habiller la fiancée, STR. <i>259</i>.<br><b>      2</b> conduire la fiancée à son époux, HDT. <i>10, 16 ; d’où</i> unir des fiancés, ANTH. <i>9, 203</i>.<p><b>Étym</b>. νυμφοστόλος.`

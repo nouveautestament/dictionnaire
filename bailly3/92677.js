@@ -1,0 +1,1 @@
+lar[92677]=`<b>στοιβο·ειδής, ής, ές</b>, qui a l’air rembourré, A. APHR. <i>Probl. 2, 72</i>.<p><b>Étym</b>. στοιβή, εἶδος.`

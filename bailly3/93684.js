@@ -1,0 +1,1 @@
+lar[93684]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> σῦς, M. ANT. <i>10, 10</i> ; ARR. <i>Epict. 4, 11, 11</i>.`

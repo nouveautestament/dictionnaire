@@ -1,0 +1,1 @@
+lar[99418]=`<b>τλή·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> à l’âme courageuse, ANTH. <i>9, 472</i>.<p>➳ <i>Dor</i>. τλάθυμος <font color="purple">[ᾱ]</font> PD. <i>N. 2, 24 ; fr. 258</i>.<p><b>Étym</b>. *τλάω, θυμός.`

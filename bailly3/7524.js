@@ -1,0 +1,1 @@
+lar[7524]=`<b>ος, ον</b> <font color="purple">[ᾱρ]</font> qui n’a pas dîné (<i>en parl. du repas du matin ou du milieu du jour</i>), EUP. (ATH. <i>47e</i>) ; AR. <i>fr. 391</i>.<p><b>Étym</b>. ἀναριστέω.`

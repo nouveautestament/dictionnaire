@@ -1,0 +1,1 @@
+lar[24671]=`<b>δια·θρῴσκω</b>, sauter à travers, EMPÉD. (ARSTT. <i>Sens. 2, 9</i>) ; OPP. <i>H. 1, 549</i>.`

@@ -1,0 +1,1 @@
+lar[27002]=`<b>α, ον</b>, de Dirkè, PD. <i>P. 9, 153</i> ; ESCHL. <i>Sept. 309</i> ; SOPH. <i>Ant. 105, 844</i> ; EUR. <i>Suppl. 637, etc</i>.<p><b>Étym</b>. Δίρκη.`

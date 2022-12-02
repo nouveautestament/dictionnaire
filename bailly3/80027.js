@@ -1,0 +1,1 @@
+lar[80027]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> muni d’un gouvernail <i>ou</i> d’un manche, ARSTT. <i>Categ. 7, 12</i>.<p><b>Étym</b>. πηδάλιον.`

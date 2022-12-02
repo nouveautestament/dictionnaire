@@ -1,0 +1,1 @@
+lar[66364]=`<b>μολιβο·σφιγγής, ής, ές</b> <font color="purple">[ῐβ]</font> soudé (<i>propr</i>. serré) avec du plomb, OPP. <i>C. 1, 155</i>.<p><b>Étym</b>. μόλιβος, σφίγγω.`

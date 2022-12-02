@@ -1,0 +1,1 @@
+lar[69589]=`<b>ωνος (ὁ)</b> Xiphôn, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

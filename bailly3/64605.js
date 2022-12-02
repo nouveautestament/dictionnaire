@@ -1,0 +1,1 @@
+lar[64605]=`<b>Μεσσ·απία, ας (ἡ)</b> la Messapie (<i>auj</i>. Salento <i>ou</i> Terre d’Otrante) <i>contrée de la Grande-Grèce,</i> STR. <i>277, 405 etc</i>. (μέσσος, ἀπία, eau, LEX. <i>cf. franç</i>. Entraigues).`

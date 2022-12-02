@@ -1,0 +1,1 @@
+lar[3575]=`<b>ας (ἡ)</b> avidité insatiable, HPC. <i>1180f ;</i> PLUT. <i>M. 129f ;</i> ARÉT. <i>Cur. m. acut. 2, 2</i>.<p>➳ <i>Ion</i>. -ίη, HPC. ARÉT. <i>ll. cc</i>.<p><b>Étym</b>. ἄκορος.`

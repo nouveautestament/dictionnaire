@@ -1,0 +1,1 @@
+lar[106751]=`<b>φουμῶσος τυρός (ὁ)</b> sorte de fromage, ATH. <i>113c</i>.<p><b>Étym</b>. <i>lat</i>. fumosus.`

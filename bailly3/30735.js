@@ -1,0 +1,1 @@
+lar[30735]=`<b>εἰσ·εγγίζω</b> (<i>part. prés</i>.) s’approcher de, <i>dat</i>. POL. <i>12, 19, 6 dout</i>.`

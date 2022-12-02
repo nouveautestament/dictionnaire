@@ -1,0 +1,1 @@
+lar[106969]=`<b>ης, ες</b> <font color="purple">[ῡᾰ]</font> semblable à des broussailles, <i>comme la bruyère,</i> TH. <i>H.P. 6, 6, 2</i> ; DIOSC. <i>4, 48, 162</i> ; τὰ φρ. TH. <i>H.P. 1, 3, 4,</i> les bruyères.<p><b>Étym</b>. φρύγανον, -ωδης.`

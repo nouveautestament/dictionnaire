@@ -1,0 +1,1 @@
+lar[52164]=`<b>ου (ὁ) :<br>      1</b> lieu où l’on peut jeter l’ancre, port, mouillage, EM. <i>336, 21</i>.<br><b>      2</b> parc aux huîtres, XÉNOCR. <i>Al. 53</i>.<p><b>Étym</b>. καταβάλλω.`

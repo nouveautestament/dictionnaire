@@ -1,0 +1,1 @@
+lar[22400]=`<i>onomatopée pour imiter le grognement du porc,</i> ANTH. <i>11, 327</i>.`

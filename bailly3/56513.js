@@ -1,0 +1,1 @@
+lar[56513]=`<i>adv.</i> :<br><b>      1</b> avec disposition à communiquer à autrui, POL. <i>18, 31, 7</i>.<br><b>      2</b> <i>p. suite,</i> avec sociabilité <i>ou</i> bienveillance, DS. <i>5, 9</i> ; PLUT. <i>M. 1108b</i>.`

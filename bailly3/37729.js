@@ -1,0 +1,1 @@
+lar[37729]=`<b>ἐπι·ζάω-ῶ</b> (<i>seul. prés. et ao</i>. ἐπέζησα) vivre après, survivre, PLAT. <i>Leg. 661c ;</i> CHRYSIPP. (PLUT. <i>M. 1039e</i>) ; PLUT. <i>Pomp. 53 ; fig. en parl. de l’envie,</i> PLUT. <i>Num. 22 ; de la gloire,</i> PLUT. <i>M. 823e</i>.`

@@ -1,0 +1,1 @@
+lar[83935]=`<b>προ·διαπίπτω</b>, tomber <i>ou</i> disparaître auparavant, STOB. <i>Ecl. 2, 234</i>.`

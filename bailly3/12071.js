@@ -1,0 +1,1 @@
+lar[12071]=`<b>ἁπλο·κύων, -κυνος (ὁ)</b> <font color="purple">[ῠν]</font> vrai chien, franc cynique, <i>sobriquet d’Antisthène,</i> DL. <i>6, 13</i> ; PLUT. <i>Brut. 34</i>.<p><b>Étym</b>. ἁπλόος, κύων.`

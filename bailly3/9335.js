@@ -1,0 +1,1 @@
+lar[9335]=`<b>ας (ἡ)</b> sacrilège, <i>d’où</i> scélératesse, PLAT. <i>Ep. 335b ;</i> PLUT. <i>Arat. 54, etc</i>.<p><b>Étym</b>. ἀνοσιουργός.`

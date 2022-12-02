@@ -1,0 +1,1 @@
+lar[101517]=`<b>ὑδρ·έλαιον, ου (τὸ)</b> mélange d’eau et d’huile, PLUT. <i>M. 663c ;</i> DIOSC. <i>2, 10</i> ; GAL. <i>13, 76</i>.<p><b>Étym</b>. ὕδωρ, ἔλαιον.`

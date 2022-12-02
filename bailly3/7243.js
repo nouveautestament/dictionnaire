@@ -1,0 +1,1 @@
+lar[7243]=`<i>adv</i>., en refusant, ARR. <i>Epict. 1, 14, 7</i>.<p><b>Étym</b>. ἀνανεύω.`

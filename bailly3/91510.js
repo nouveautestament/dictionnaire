@@ -1,0 +1,1 @@
+lar[91510]=`<b>ων (τὰ)</b> fête en l’honneur d’Apollon <i>à Sminthè,</i> PHILOMN. (ATH. <i>74f, etc</i>.).<p><b>Étym</b>. Σμινθεύς.`

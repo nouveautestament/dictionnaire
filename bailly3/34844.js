@@ -1,0 +1,1 @@
+lar[34844]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> réflexion dans un miroir, PLOT. <i>Enn. 1, 584 Creuz</i>.<p><b>Étym</b>. ἐνοπτρίζω.`

@@ -1,0 +1,1 @@
+lar[63476]=`<b>μεγαλ·ωπός, ός, όν (ὁ)</b> <font color="purple">[ᾰ]</font> aux grands yeux, OPP. <i>C. 2, 177</i>.<p><b>Étym</b>. μ. ὤψ.`

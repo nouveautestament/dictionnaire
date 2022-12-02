@@ -1,0 +1,1 @@
+lar[58767]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., en se baisant : παίζειν τὴν κ. CRATÈS (<i>Com. fr. 2, 242</i>) jouer à se baiser.<p><b>Étym</b>. κυνέω.`

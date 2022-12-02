@@ -1,0 +1,1 @@
+lar[34740]=`<b>ἐννεά·χιλοι, αι, α</b> <font color="purple">[ᾰῑ]</font> neuf mille, IL. <i>5, 860, etc. ; postér. sg</i>. ἐννεάχιλος κτύπος, NONN. <i>D. 8, 45,</i> bruit produit par 9 000 hommes.<p><b>Étym</b>. ἐ. χίλιοι.`

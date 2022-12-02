@@ -1,0 +1,1 @@
+lar[50873]=`<b>κακο·τέρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui cesse difficilement, Anon. <i>de vir. herb. 94</i>.<p><b>Étym</b>. κ. τέρμα.`

@@ -1,0 +1,1 @@
+lar[43656]=`<i>adv</i>., couramment, PHIL. <i>1, 303</i>.`

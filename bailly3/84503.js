@@ -1,0 +1,1 @@
+lar[84503]=`<b>προ·κατασκιρρόω-ῶ</b>, endurcir auparavant ; <i>part. pf. pass</i>. προκατεσκιρρωμένος, η, ον, endurci, <i>fig</i>. SPT. <i>3Macc. 4, 1</i>.`

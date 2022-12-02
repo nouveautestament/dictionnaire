@@ -1,0 +1,1 @@
+lar[56389]=`<b>ου (τὸ)</b> coing, ALCM. <i>85</i> ; ATH. <i>81f</i>.<p><b>Étym</b>. <i>emprunt anatolien, cf</i>. κυδώνιος.`

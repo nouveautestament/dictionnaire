@@ -1,0 +1,1 @@
+lar[10343]=`<b>ἀντι·προσκυνέω-ῶ</b> <font color="purple">[ῠ]</font> adorer à son tour <i>ou</i> en retour, PLUT. <i>M. 1117c</i>.`

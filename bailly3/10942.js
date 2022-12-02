@@ -1,0 +1,1 @@
+lar[10942]=`<b>ἀξι·όρατος, ος, ον</b> <font color="purple">[ρᾱ]</font> digne d’être vu, LUC. <i>H. conscr. 38</i>.<p><b>Étym</b>. ἄ. ὁράω.`

@@ -1,0 +1,1 @@
+lar[37871]=`<b>ἐπι·καθηλόω-ῶ</b>, clouer sur, <i>dat</i>. APD. POL. <i>17</i>.`

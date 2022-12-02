@@ -1,0 +1,1 @@
+lar[39384]=`<b>ἐπι·τετρα·έβδομος, ος, ον</b>, qui comprend un entier plus ⁴⁄₇, NICOM. <i>Arithm. 108</i>.<p><b>Étym</b>. ἐπί, τέτταρες, ἕβδομος.`

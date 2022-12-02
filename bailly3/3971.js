@@ -1,0 +1,1 @@
+lar[3971]=`<i>ou mieux</i> <b>Ἀκυῖνος, ου (ὁ)</b> = <i>lat</i>. Aquinus, <i>n. d’h. rom</i>. PLUT. <i>Sert. 13</i>.`

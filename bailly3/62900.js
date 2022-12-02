@@ -1,0 +1,1 @@
+lar[62900]=`(<i>seul. prés</i>.) être hors de soi, être en démence, en fureur, COL. <i>195</i> ; ἐπί τινι, IL. <i>5, 882,</i> contre qqn.<p><b>Étym</b>. <i>cf</i>. μαργάω.`

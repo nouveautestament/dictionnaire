@@ -1,0 +1,1 @@
+lar[4315]=`<b>ου (τὸ)</b> divination au moyen de farine de froment, ŒNOM. (EUS. <i>3, 376 Migne</i>).`

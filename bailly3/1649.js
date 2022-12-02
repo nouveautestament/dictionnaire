@@ -1,0 +1,1 @@
+lar[1649]=`<b>ας (ἡ)</b> servitude perpétuelle, HDN GR. <i>Epim. p. 221 Boissonade</i>.<p><b>Étym</b>. ἀείδουλος.`

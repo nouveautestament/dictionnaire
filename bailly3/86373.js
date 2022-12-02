@@ -1,0 +1,1 @@
+lar[86373]=`<b>προσ·πυρόω-ῶ</b> <font color="purple">[ῠ]</font> enflammer en outre <i>ou</i> encore plus, <i>fig</i>. SPT. <i>2Macc. 14, 11</i>.`

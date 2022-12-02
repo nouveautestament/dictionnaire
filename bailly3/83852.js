@@ -1,0 +1,1 @@
+lar[83852]=`<b>προ·γευματίζω</b> <font color="purple">[ᾰ]</font> goûter d’abord, <i>gén</i>. ARSTT. <i>An. 2, 10, 5</i>.`

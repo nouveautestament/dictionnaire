@@ -1,0 +1,1 @@
+lar[50407]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῡ]</font> action d’asseoir, de poser, de fonder, DS. <i>4, 51</i> ; CLÉM. <i>1, 825 Migne</i>.<p><b>Étym</b>. καθιδρύω.`

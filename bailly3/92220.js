@@ -1,0 +1,1 @@
+lar[92220]=`<b>Σταφυλο·δαίμων (ὁ)</b> Staphylodæmon, <i>litt</i>. le dieu du raisin, ALCIPHR. <i>3, 42</i>.<p><b>Étym</b>. στ. δαίμων.`

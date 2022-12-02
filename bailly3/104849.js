@@ -1,0 +1,1 @@
+lar[104849]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> <i>dim. de</i> φάντασμα PLUT. <i>M. 766b</i>.`

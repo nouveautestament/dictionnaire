@@ -1,0 +1,1 @@
+lar[11277]=`<b>ἀπ·αντικρύ</b>, <i>adv</i>., en face, XÉN. <i>Hell. 6, 4, 4 ; avec le gén</i>. en face de, DÉM. <i>99, 1</i> ; LUC. <i>Am. 5</i>.<p>➳ <i>Inscr. att</i>. ἀπαντροκύ, CIA. <i>2 add. 834b, I, 25 (329 av. J.-C.) ; cf</i>. καταντροκύ.`

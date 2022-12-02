@@ -1,0 +1,1 @@
+lar[99018]=`<b>ης (ἡ)</b> Tèreiè, <i>v. de Mysie</i> : τὸ Τηρείης ὄρος, IL. <i>2, 829,</i> la montagne de Tèréiè, <i>près de la v. de ce nom</i>.`

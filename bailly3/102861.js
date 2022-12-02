@@ -1,0 +1,1 @@
+lar[102861]=`<b>ας (ἡ)</b> orgueil, fierté, AQU. <i>Prov. 16, 19 ; Job 37, 4</i>.<p><b>Étym</b>. ὑπερφερής.`

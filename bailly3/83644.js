@@ -1,0 +1,1 @@
+lar[83644]=`<b>προ·αποθνῄσκω</b> <font color="darkgreen">(<i>ao.2</i> -απέθανον, <i>etc</i>.)</font> mourir avant, <i>gén</i>. ANT. <i>125, 25 ; abs</i>. mourir auparavant <i>ou</i> avant le temps, HDT. <i>2, 1</i> ; XÉN. <i>Cyr. 3, 1, 25</i> ; PLAT. <i>Conv. 208d</i>.`

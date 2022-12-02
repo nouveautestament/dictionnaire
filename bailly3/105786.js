@@ -1,0 +1,1 @@
+lar[105786]=`<b>φιλό·θερμος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la chaleur, TH. <i>C.P. 2, 3, 3</i> ; PLUT. <i>M. 648d</i>.<p><b>Étym</b>. φ. θερμός.`

@@ -1,0 +1,1 @@
+lar[35305]=`<b>ἐξ·αθυμέω-ῶ</b> <font color="purple">[ᾰῡ]</font> être tout à fait découragé, perdre courage, POL. <i>11, 17, 6</i> ; PLUT. <i>Cic. 6</i>.`

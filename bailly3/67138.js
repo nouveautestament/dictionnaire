@@ -1,0 +1,1 @@
+lar[67138]=`<b>ου (ὁ)</b> mulet, <i>poisson,</i> DORION (ATH. <i>118c et d</i>) ; EL. <i>N.A. 14, 23</i>.<p><b>Étym</b>. <i>cf</i>. μύλος.`

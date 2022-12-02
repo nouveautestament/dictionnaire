@@ -1,0 +1,1 @@
+lar[83686]=`<b>προ·αποστρέφω</b>, détourner auparavant, APP. <i>2, 263 Schweigh</i>.`

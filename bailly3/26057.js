@@ -1,0 +1,1 @@
+lar[26057]=`<b>διδυμοτοκέω-ῶ</b> <font color="purple">[ῐῠ]</font> mettre au monde des jumeaux, HPC. <i>205h ;</i> ARSTT. <i>H.A. 6, 19, 3</i> ; GEOP. <i>18, 9, 2</i>.<p><b>Étym</b>. διδυμοτόκος.`

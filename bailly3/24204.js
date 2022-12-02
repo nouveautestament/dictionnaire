@@ -1,0 +1,1 @@
+lar[24204]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> bannissement décrété par le peuple, ESCHL. <i>Suppl. 7</i>.<p><b>Étym</b>. δημήλατος.`

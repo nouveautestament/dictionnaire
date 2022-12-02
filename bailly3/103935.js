@@ -1,0 +1,1 @@
+lar[103935]=`<b>ὑπο·σύνθημα, ατος (τὸ)</b> contre-mot d’ordre par signe, PHIL. BYZ. (MATH. <i>p. 93</i>).`

@@ -1,0 +1,1 @@
+lar[33686]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> sujet de dissertation philosophique, NAZ. <i>2, 576 Migne</i>.<p><b>Étym</b>. ἐμφιλοσοφέω.`

@@ -1,0 +1,1 @@
+lar[12122]=`<b>ἀπ·οβελίζω</b>, débrocher, SOTAD. (ATH. <i>293b</i>).`

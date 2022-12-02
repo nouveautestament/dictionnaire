@@ -1,0 +1,1 @@
+lar[33159]=`<b>ἐμ·βροχή, ῆς (ἡ)</b> nœud coulant, lacet, LUC. <i>Lex. 11</i>.<p><b>Étym</b>. ἐν, βρόχος.`

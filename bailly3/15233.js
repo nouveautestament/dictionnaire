@@ -1,0 +1,1 @@
+lar[15233]=`<b>(ὁ)</b> Arsis, <i>fl. d’Italie,</i> PLUT. <i>Pomp. 7</i>.`

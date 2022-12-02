@@ -1,0 +1,1 @@
+lar[82463]=`<b>πολυτοκέω-ῶ</b> <font color="purple">[ῠ]</font> mettre au monde beaucoup d’enfants <i>ou</i> de petits, ARSTT. <i>H.A. 6, 1, 3, etc</i>.<p><b>Étym</b>. πολυτόκος.`

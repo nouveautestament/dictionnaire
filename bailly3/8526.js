@@ -1,0 +1,1 @@
+lar[8526]=`<font color="purple">[φᾰ]</font> <i>adv</i>., secrètement, PHIL. <i>2, 57, 521</i>.`

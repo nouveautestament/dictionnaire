@@ -1,0 +1,1 @@
+lar[13437]=`<b>ατος (τὸ) :<br>      1</b> éloignement, distance, ARSTT. <i>Cæl. 2, 13, 9, etc.</i> ; POL. <i>1, 9, 4 ; d’où</i> intervalle, HÉRON <i>Aut. 265</i>.<br><b>      2</b> apostume, abcès, HPC. <i>133e, etc.</i> ; TH. <i>Od. 61</i> ; PLUT. <i>Syll. 37, etc</i>.<p><b>Étym</b>. ἀφίστημι.`

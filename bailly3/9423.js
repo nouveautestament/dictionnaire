@@ -1,0 +1,1 @@
+lar[9423]=`<b>ἀντ·ακοντίζω</b> <font color="darkgreen">(<i>impf</i>. ἀντηκόντιζον)</font> <font color="purple">[ᾰκ]</font> lancer à son tour en guise de trait, DC. <i>59, 28</i>.`

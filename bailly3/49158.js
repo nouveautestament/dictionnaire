@@ -1,0 +1,1 @@
+lar[49158]=`<b>ου (ὁ)</b> = <i>lat</i>. Jovius, <i>n. d’h. rom</i>. PLUT. <i>Pomp. 65</i>.`

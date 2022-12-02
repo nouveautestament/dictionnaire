@@ -1,0 +1,1 @@
+lar[52664]=`<b>κατά·κυκλος, ος, ον</b>, parfaitement rond, MOSCHION <i>Mul. pass. 106</i>.<p><b>Étym</b>. κ. κύκλος.`

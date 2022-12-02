@@ -1,0 +1,1 @@
+lar[106388]=`<b>ου (ὁ)</b> le mois de la récolte des fruits, <i>à Lacédémone,</i> E. BYZ.`

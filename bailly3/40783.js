@@ -1,0 +1,1 @@
+lar[40783]=`<b>ἐρυθροδανόω-ῶ</b> <font color="purple">[ᾰ]</font> teindre avec la garance, SPT. <i>Ex. 25, 5 ; 26, 14 ; 35, 7</i>.<p><b>Étym</b>. <i>v</i>. ἐρυθρόδανον.`

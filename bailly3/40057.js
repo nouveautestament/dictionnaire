@@ -1,0 +1,1 @@
+lar[40057]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> éclos, OPP. <i>H. 1, 752</i>.<p><b>Étym</b>. ἐπῳάζω.`

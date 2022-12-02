@@ -1,0 +1,1 @@
+lar[38217]=`<b>ἐπι·κυλίκειος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui se fait <i>ou</i> se dit à table, <i>litt</i>. sur les coupes, PLUT. <i>M. 1146d ;</i> ATH. <i>2a ;</i> DL. <i>4, 42</i>.<p><b>Étym</b>. ἐπί, κύλιξ.`

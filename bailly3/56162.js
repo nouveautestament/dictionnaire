@@ -1,0 +1,1 @@
+lar[56162]=`<b>κλυτό·δενδρος, ος, ον</b> <font color="purple">[ῠ]</font> renommé pour ses beaux arbres, ANTH. <i>4, 2</i>.<p><b>Étym</b>. κλ. δένδρον.`

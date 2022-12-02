@@ -1,0 +1,1 @@
+lar[58846]=`<b>α, ον</b>, de Cynurie : Κυνουρία γῆ, THC. <i>4, 56 ; 5, 14 et 41, etc</i>. la Cynurie, <i>contrée entre l’Argolide et la Laconie</i> : οἱ Κυνούριοι, HDT. <i>8, 76,</i> les habitants de la Cynurie.<p><b>Étym</b>. κύνουρα.`

@@ -1,0 +1,1 @@
+lar[92669]=`<b>ατος (τὸ)</b> sueur <i>ou</i> crasse qu’on enlève avec le strigile, ARSTT. <i>Mir. 105</i>.<p><b>Étym</b>. στλεγγίζω.`

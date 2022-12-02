@@ -1,0 +1,1 @@
+lar[75064]=`<b>παν·ίερος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait sacré, PHIL. <i>1, 483, etc</i>.<p><b>Étym</b>. π. ἱερός.`

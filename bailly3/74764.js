@@ -1,0 +1,1 @@
+lar[74764]=`<b>ων (τὰ)</b> <i>fête du dieu Pamylès,</i> PLUT. <i>M. 355</i>.<p><b>Étym</b>. Παμύλης.`

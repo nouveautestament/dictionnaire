@@ -1,0 +1,1 @@
+lar[86079]=`<b>προσ·κυμαίνω</b> <font color="purple">[ῠ]</font> rouler ses flots vers, baigner de ses flots, PHILSTR. <i>738</i>.`

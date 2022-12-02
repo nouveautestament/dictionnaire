@@ -1,0 +1,1 @@
+lar[45555]=`<font color="purple">[μῐ]</font> <i>c</i>. ἡμισεύω, ASCLÉPIOD. <i>12, 11</i>.`

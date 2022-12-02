@@ -1,0 +1,1 @@
+lar[83694]=`<b>προ·αποτίθημι</b>, déposer <i>ou</i> rejeter d’avance, BAS.<br><b><i>Moy.</i></b> déposer, <i>càd</i>. accorder (qqes paroles d’éloge) avant de commencer à blâmer, PLUT. <i>M. 856d</i>.`

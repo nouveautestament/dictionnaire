@@ -1,0 +1,1 @@
+lar[92010]=`<b>οῦ (ὁ) :<br>      1</b> ensemencement, XÉN. <i>Hell. 4, 6, 13</i> ; TH. <i>H.P. 8, 2, 8</i>.<br><b>      2</b> semence, ESCHL. <i>Ag. 1392</i>.<p><b>Étym</b>. σπορά.`

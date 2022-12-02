@@ -1,0 +1,1 @@
+lar[86582]=`<b>προ·συστέλλω</b>, resserrer, condenser <i>ou</i> restreindre auparavant, SPT. <i>3Macc. 2, 29</i>.`

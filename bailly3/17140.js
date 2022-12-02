@@ -1,0 +1,1 @@
+lar[17140]=`<i>adv</i>., de son plein gré, volontairement, LUC. <i>Anach. 34</i> ; SPT. <i>2Macc. 6, 19, etc</i>.`

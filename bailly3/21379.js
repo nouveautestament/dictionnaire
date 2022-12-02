@@ -1,0 +1,1 @@
+lar[21379]=`<b>ής, ές</b> <font color="purple">[ᾰλ]</font> chatouilleux, EL. <i>N.A. 16, 9</i>.<p><b>Étym</b>. <i>Cf</i>. γάργαλος.`

@@ -1,0 +1,1 @@
+lar[16170]=`<i>vb. de</i> ᾄδω, AR. <i>Nub. 1205</i> ; PLAT. <i>Rsp. 390e</i>.`

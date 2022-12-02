@@ -1,0 +1,1 @@
+lar[98894]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. τάγηνον, COM. (ATH. <i>390d</i>, e, f).<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 736, b, 21 (après 307 av. J.-C.) ; v. Meisterh. p. 13, 10</i>.`

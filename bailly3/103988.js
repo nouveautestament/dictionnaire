@@ -1,0 +1,1 @@
+lar[103988]=`<b>ὑπο·τετραπλασιεπίτριτος, ος, ον</b>, quatre fois un tiers plus petit, NICOM. <i>Arithm</i>.<p><b>Étym</b>. <i>J. Fr. Boissonade, Anecdota græca, t. 4, p. 420</i>.`

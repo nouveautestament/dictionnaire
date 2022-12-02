@@ -1,0 +1,1 @@
+lar[25347]=`<i>adv</i>., avec incertitude, DYSC. <i>Conj. 496, 4</i> ; BAS. <i>1, 298c</i>.`

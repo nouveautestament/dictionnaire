@@ -1,0 +1,1 @@
+lar[77192]=`<b>Παρ·ωκεάνιος, ος, ον</b> <font color="purple">[ᾰν]</font> qui habite près de l’Océan, situé près de l’Océan, PLUT. <i>Cæs. 20</i>.<p><b>Étym</b>. π. Ὠκεανός.`

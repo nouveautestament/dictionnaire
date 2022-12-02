@@ -1,0 +1,1 @@
+lar[57398]=`<b>ή, όν</b> <font color="purple">[ᾰκ]</font> de barbier, POL. <i>3, 20, 5</i>.<p><b>Étym</b>. κουρεύς.`

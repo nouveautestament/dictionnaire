@@ -1,0 +1,1 @@
+lar[22679]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> Gryneia, <i>c</i>. Γρύνειον HDT. <i>1, 149</i>.`

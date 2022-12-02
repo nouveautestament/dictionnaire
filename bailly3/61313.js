@@ -1,0 +1,1 @@
+lar[61313]=`<b>ιδος</b> <font color="purple">[ῐ]</font> <i>adj. f. c</i>. λιπερνήτης ANTH. <i>9, 649</i>.`

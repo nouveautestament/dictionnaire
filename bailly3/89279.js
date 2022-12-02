@@ -1,0 +1,1 @@
+lar[89279]=`<font color="purple">[ῡ]</font><br><b>      1</b> avoir l’odeur de la marjolaine, DIOSC. <i>3, 46</i>.<br><b>      2</b> parfumer de marjolaine, DIOSC. <i>2, 96</i>.<p><b>Étym</b>. σάμψυχον.`

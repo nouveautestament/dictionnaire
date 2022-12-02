@@ -1,0 +1,1 @@
+lar[99944]=`<b>οῦ (ὁ)</b> bégaiement, défaut de parole, HPC. (EROT.) ; PLUT. <i>M. 53c</i>.<p><b>Étym</b>. τραυλίζω.`

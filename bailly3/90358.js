@@ -1,0 +1,1 @@
+lar[90358]=`<b>ατος (τὸ)</b> <font color="purple">[ῐᾰμ]</font> vol <i>ou</i> gaspillage par gourmandise, PHÉRÉCR. (<i>Com. fr. 2, 343).</i><p><b>Étym</b>. σινάμωρος.`

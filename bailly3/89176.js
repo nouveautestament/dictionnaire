@@ -1,0 +1,1 @@
+lar[89176]=`<font color="purple">[σᾰλ]</font><br><b>      1</b> ébranler, agiter, secouer, IBYC. <i>1 conj.</i> ; NIC. <i>Al. 457</i>.<br><b>      2</b> bourrer, remplir outre mesure, A. PL. <i>306</i>.<p><b>Étym</b>. σάλαξ.`

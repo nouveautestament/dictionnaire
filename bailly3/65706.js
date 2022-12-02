@@ -1,0 +1,1 @@
+lar[65706]=`<b>μικρο·κοίλιος, ος, ον</b> <font color="purple">[μῑ]</font> dont le ventre est petit, ARSTT. <i>P.A. 3, 4</i>.<p><b>Étym</b>. μ. κοιλία.`

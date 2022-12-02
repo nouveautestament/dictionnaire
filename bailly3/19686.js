@@ -1,0 +1,1 @@
+lar[19686]=`<b>οῦ (ὁ) :<br>      1</b> qui use de violence, NT. <i>Matth. 11, 12 ; cf</i>. POLÉM. ADAM.<br><b>      2</b> qui prend de force, ravisseur, NAZ.<p><b>Étym</b>. βιάζω.`

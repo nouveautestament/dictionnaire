@@ -1,0 +1,1 @@
+lar[45271]=`<b>ἡλο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> fixé avec des clous, MAN. <i>1, 149</i>.<p><b>Étym</b>. ἧλος, πήγνυμι.`

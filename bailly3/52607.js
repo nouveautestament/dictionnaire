@@ -1,0 +1,1 @@
+lar[52607]=`<b>εως (ἡ) :<br>      1</b> action de mettre en ordre, PLAT. <i>Pol. 271e ; Tim. 47d.</i><br><b>      2</b> action de parer, parure, PLUT. <i>M. 712d</i>.<p><b>Étym</b>. κατακοσμέω.`

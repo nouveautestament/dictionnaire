@@ -1,0 +1,1 @@
+lar[108453]=`<b>χιλιό·παλαι</b> <font color="purple">[χῑᾰ]</font> <i>adv</i>., il y a mille fois longtemps, <i>mot com</i>. AR. <i>Eq. 1155</i>.<p><b>Étym</b>. χ. πάλαι.`

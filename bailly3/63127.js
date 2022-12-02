@@ -1,0 +1,1 @@
+lar[63127]=`<font color="darkgreen">(<i>f</i>. ίσω)</font> <font color="purple">[χᾰ]</font> placer sous les aisselles d’un cadavre les tronçons de ses bras <i>ou</i> de ses jambes, ESCHL. <i>Ch. 439,</i> SOPH. <i>El. 445</i> ; A.RH. <i>4, 447</i>.<p><b>Étym</b>. μασχάλη.`

@@ -1,0 +1,1 @@
+lar[6237]=`<b>ας (ἡ)</b> contestation, HÉS. <i>Th. 229</i> (-φῑ- <i>p</i>. -φῐ-) ; PLUT. <i>Arist. c. Cat. ma. 4, Ages. 28</i>.<p><b>Étym</b>. ἀμφίλογος.`

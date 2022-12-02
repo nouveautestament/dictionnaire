@@ -1,0 +1,1 @@
+lar[89392]=`<b>α, ον</b> <font color="purple">[δᾰ]</font>, sardonique, <i>càd</i>. grimaçant, convulsif, PLAT. <i>Rsp. 337a ;</i> σαρδάνιον γελᾶν, ANTH. <i>5, 179, etc. ; ou</i> μειδιᾶν, OD. <i>20, 302,</i> avoir un rire <i>ou</i> sourire sardonique.<p><b>Étym</b>. <i>cf</i>. σαρδόνιος.`

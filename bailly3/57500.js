@@ -1,0 +1,1 @@
+lar[57500]=`<b>οῦ (ὁ)</b> vibration, EPIC. (DL. <i>10, 105</i>) ; NICOM. <i>Harm. p. 8</i>.<p><b>Étym</b>. κραδαίνω.`

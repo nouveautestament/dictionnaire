@@ -1,0 +1,1 @@
+lar[98126]=`<b>τελειο·γόνος, ος, ον</b>, qui enfante à terme, qui produit un fruit <i>ou</i> un rejeton mûr, ARSTT. <i>G.A. 4, 4, 9</i>.<p><b>Étym</b>. τέλειος, γίγνομαι.`

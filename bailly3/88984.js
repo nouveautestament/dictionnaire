@@ -1,0 +1,1 @@
+lar[88984]=`<b>      1</b> être du parti des Romains, APP. <i>Lib. 68, Mac. 5</i> ; DC. <i>51, 1</i>.<br><b>      2</b> parler romain <i>ou</i> latin, APP. <i>Hann. 41</i>.<p><b>Étym</b>. Ῥωμαῖος.`

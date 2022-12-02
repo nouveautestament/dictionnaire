@@ -1,0 +1,1 @@
+lar[108176]=`<b>ας (ἡ)</b> profession manuelle, PLAT. <i>Rsp. 590c ; au pl</i>. PLAT. <i>Rsp. 547d, Pol. 304b</i>.<p><b>Étym</b>. χειροτέχνης.`

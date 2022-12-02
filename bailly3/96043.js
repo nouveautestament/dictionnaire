@@ -1,0 +1,1 @@
+lar[96043]=`<b>συν·ναυβάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> compagnon de traversée, SOPH. <i>Ph. 565</i>.`

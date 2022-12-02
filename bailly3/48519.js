@@ -1,0 +1,1 @@
+lar[48519]=`<font color="darkgreen">(<i>seul. prés. inf</i>. ἵεσθαι, <i>part</i>. ἱέμενος <i>et impf</i>. ἱέμην)</font> aller, se porter à <i>ou</i> vers.<p><b>Étym</b>. <i>p</i>. *ϝίεμαι <font color="purple">[ῑ]</font> <i>pass. ou moy. de</i> ἵημι ; <i>R. indo-europ</i>. *uei(H)-, aller vers, se lancer, désirer ; <i>cf. sscr</i>. véti.`

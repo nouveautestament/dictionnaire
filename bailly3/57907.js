@@ -1,0 +1,1 @@
+lar[57907]=`<b>κριθο·πομπία, ας (ἡ)</b> <font color="purple">[ῑθ]</font> envoi <i>ou</i> convoi d’orge, COM. AN. <i>fr. 194</i>.<p><b>Étym</b>. κριθή, πέμπω.`

@@ -1,0 +1,1 @@
+lar[85141]=`<b>προσ·αναισιμόω-ῶ</b> <font color="purple">[ῐ]</font> dépenser en outre, HDT. <i>5, 34</i>.`

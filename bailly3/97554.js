@@ -1,0 +1,1 @@
+lar[97554]=`<b>τανύ·πεπλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à la longue robe, à la robe flottante, IL. <i>3, 228, etc.</i> ; OD. <i>4, 305 ; p. anal</i>. τ. πλακοῦς, BATR. <i>36,</i> gâteau à larges bords.<p><b>Étym</b>. τανυ-, πέπλος.`

@@ -1,0 +1,1 @@
+lar[33802]=`<b>ἐν·αθλέω-ῶ</b> <font color="purple">[ᾱ]</font><br><b>      1</b> s’exercer à <i>ou</i> dans, <i>dat</i>. DS. <i>1, 54, etc., ou</i> ἐν <i>et le dat</i>. DS. <i>16, 44</i>.<br><b>      2</b> lutter au milieu de, <i>dat</i>. EL. <i>V.H. 2, 4</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ANTH. <i>7, 117</i>.`

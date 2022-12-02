@@ -1,0 +1,1 @@
+lar[57666]=`<b>ου (ὁ)</b> Kratylos (Cratyle) <i>disciple d’Héraclite et maître de Platon ; titre d’un dialogue de Platon ; au plur</i>. Κρατύλοι, des philosophes comme Cratyle, PLAT. <i>Crat. 432c</i>.`

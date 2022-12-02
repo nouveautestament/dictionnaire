@@ -1,0 +1,1 @@
+lar[102251]=`<b>ὑπερ·άκριος, ος, ον</b>, qui est sur les hauteurs ; τὰ ὑπεράκρια, HDT. <i>6, 20,</i> les hauteurs : οἱ ὑπεράκριοι, HDT. <i>1, 59</i> ; DH. <i>1, 13,</i> les habitants du pays-haut, <i>en Attique, p. opp. à ceux de la plaine</i> (πεδιεῖς) <i>ou du rivage</i> (παράλιοι).<p><b>Étym</b>. ὑ. ἄκρα.`

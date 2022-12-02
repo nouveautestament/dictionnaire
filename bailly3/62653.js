@@ -1,0 +1,1 @@
+lar[62653]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. μαλακός, CHRYS. <i>6, 511 Migne</i>.<p><b>Étym</b>. μαλακός, -ωδης.`

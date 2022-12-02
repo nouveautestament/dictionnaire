@@ -1,0 +1,1 @@
+lar[102550]=`<b>άδος (ἡ)</b> sorte de vin, ARSTT. (ATH. <i>31c</i>).`

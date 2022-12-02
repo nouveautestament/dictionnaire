@@ -1,0 +1,1 @@
+lar[87557]=`<b>άδος (ἡ)</b> <font color="purple">[ῡᾰδ]</font> Pythias, <i>f</i>. SIM. <i>Epigr. 178 Bgk, etc</i>.<p><b>Étym</b>. Πυθώ.`

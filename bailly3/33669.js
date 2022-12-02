@@ -1,0 +1,1 @@
+lar[33669]=`<b>ἐμ·φαρύγγομαι</b> <font color="purple">[φᾰ]</font> (<i>seul. inf. ao</i>. -ύγξασθαι) engloutir, dévorer, DIOSC. <i>Iob. 19</i>.<p><b>Étym</b>. ἐν, φάρυγξ.`

@@ -1,0 +1,1 @@
+lar[4760]=`<b>ος, ον</b>, inexorable, EMPÉD. <i>fr. 50</i> ; ANTH. <i>7, 643</i>.<p><b>Étym</b>. <i>poét. p</i>. *ἄλιστος, <i>de</i> ἀ, λίσσομαι.`

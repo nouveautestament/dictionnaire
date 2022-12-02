@@ -1,0 +1,1 @@
+lar[63061]=`<b>ή, όν</b> <font color="purple">[σᾰ]</font> de Massalia, HPC. <i>626, 9</i>.<p><b>Étym</b>. Μασσαλιώτης.`

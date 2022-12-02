@@ -1,0 +1,1 @@
+lar[86529]=`<b>προ·συλάω-ῶ</b> <font color="purple">[ῡ]</font> piller <i>ou</i> dépouiller auparavant, DC. <i>60, 6</i>.`

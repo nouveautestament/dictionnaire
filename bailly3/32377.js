@@ -1,0 +1,1 @@
+lar[32377]=`<b>ἐκ·φωτίζω</b>, illuminer, CLÉM. <i>2, 52 et 417 Migne</i>.<p><b>Étym</b>. ἐκ, φῶς.`

@@ -1,0 +1,1 @@
+lar[95124]=`<b>συν·διαμάχομαι</b> <font color="purple">[μᾰ]</font> combattre jusqu’au bout avec, PLAT. <i>Phil. 66e</i>.`

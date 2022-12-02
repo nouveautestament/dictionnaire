@@ -1,0 +1,1 @@
+lar[89435]=`<b>σαρκο·δακής, ής, ές</b> <font color="purple">[ᾰ]</font> qui déchire (<i>litt</i>. qui mord) la chair, ORPH. <i>fr. 12, 2</i>.<p><b>Étym</b>. σ. δάκνω.`

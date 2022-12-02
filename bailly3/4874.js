@@ -1,0 +1,1 @@
+lar[4874]=`<b>ἁλμυρό·γεως, ως, ων</b> <font color="purple">[ῠ]</font> dont le sol est salin, PHIL. <i>2, 111</i>.<p><b>Étym</b>. ἁλμυρός, γῆ.`

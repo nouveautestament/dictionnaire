@@ -1,0 +1,1 @@
+lar[104402]=`<b>ὕφ·ημαι</b> <font color="darkgreen">(<i>part</i>. ὑφήμενος)</font> être assis sous, NAZ. <i>Carm. 50, 244</i>.`

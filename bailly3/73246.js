@@ -1,0 +1,1 @@
+lar[73246]=`<b>α (ὁ)</b> <font color="purple">[ᾱ]</font> Ossas (<i>auj</i>. Osa) <i>fl. d’Italie,</i> LYC. <i>697</i>.`

@@ -1,0 +1,1 @@
+lar[39025]=`<b>ἐπί·σκυρος, ου (ὁ)</b> chef, commandant, CALL. <i>fr. 231</i>.<p><b>Étym</b>. <i>conj</i>. ἐπὶ σχυρθῶν <i>O. Schneid</i>.`

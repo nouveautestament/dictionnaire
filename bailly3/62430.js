@@ -1,0 +1,1 @@
+lar[62430]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., avec félicité, EUR. <i>Hel. 904</i> ; AR. <i>Pl. 629</i> ; PLAT. <i>Leg. 711e</i>.<p>•<i> Sup</i>. -ώτατα, PLAT. <i>Leg. 733e</i>.<p><b>Étym</b>. μακάριος.`

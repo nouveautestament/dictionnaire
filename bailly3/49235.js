@@ -1,0 +1,1 @@
+lar[49235]=`<b>ἱππαρχέω-ῶ</b>, être commandant de cavalerie, XÉN. <i>Ages. 2, 4</i> ; DÉM. <i>570, 12, etc. ; avec un gén</i>. HDT. <i>9, 20, 69</i> ; DÉM. <i>567, 21</i> ; DIN. <i>109, 37 ; d’où au pass</i>. être sous les ordres d’un commandant de cavalerie, ARSTT. <i>Pol. 3, 4, 14</i>.<p><b>Étym</b>. ἵππαρχος.`

@@ -1,0 +1,1 @@
+lar[16357]=`<b>α, ον</b> <font color="purple">[ᾰν]</font> d’Astyanax, ANTH. <i>9, 351</i>.<p><b>Étym</b>. <i>fém. ion</i>. -είη.`

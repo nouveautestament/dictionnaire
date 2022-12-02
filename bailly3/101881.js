@@ -1,0 +1,1 @@
+lar[101881]=`<b>ὑπ·ᾴδω</b> <font color="darkgreen">(<i>f</i>. -ᾴσομαι, <i>ao</i>. -ῇσα, <i>etc</i>.)</font> <font color="purple">[ῠᾱ]</font> chanter pour accompagner, <i>dat</i>. AR. <i>Ran. 366</i> ; LUC. <i>Salt. 30</i> ; τινί τι, AR. <i>Ran. 874,</i> chanter qqe ch. pour accompagner qqn.`

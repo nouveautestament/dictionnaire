@@ -1,0 +1,1 @@
+lar[62403]=`<b>ῶν (οἱ)</b> les Mæôtes, <i>pple voisin du Palus-Méotide,</i> HDT. <i>4, 123</i> ; XÉN. <i>Mem. 2, 1, 10</i>.<p><b>Étym</b>. <i>cf</i>. Μαιώτης.`

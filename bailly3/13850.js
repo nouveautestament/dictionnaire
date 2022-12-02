@@ -1,0 +1,1 @@
+lar[13850]=`<b>ἀπο·ψόφησις, εως (ἡ)</b> action de lâcher un vent, PLUT. <i>M. 866c</i>.`

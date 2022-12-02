@@ -1,0 +1,1 @@
+lar[23646]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> le gouvernement des Dix, <i>à Athènes,</i> ISOCR. <i>63d ; à Rome,</i> le décemvirat, DH. <i>10, 57, etc.</i> ; PLUT. <i>M. 277f, etc.</i><br><b>      2</b> commandement de dix hommes, charge de décurion, ARR. <i>Tact</i>.<p><b>Étym</b>. δεκάδαρχος.`

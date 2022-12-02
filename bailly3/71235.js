@@ -1,0 +1,1 @@
+lar[71235]=`<b>ου (ὁ)</b> Olouros (<i>auj</i>. Xylókastro) <i>petite v. d’Achaïe,</i> XÉN. <i>Hell. 7, 4, 17, 18</i>.`

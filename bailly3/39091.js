@@ -1,0 +1,1 @@
+lar[39091]=`<b>εως (ἡ)</b> action de dégoutter, saignement de nez, HPC. <i>80e</i>.<p><b>Étym</b>. ἐπιστάζω.`

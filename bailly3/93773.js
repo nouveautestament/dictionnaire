@@ -1,0 +1,1 @@
+lar[93773]=`<i>anc. att</i>. <b>ξυλλήβδην</b>, <i>adv.</i> :<br><b>      1</b> en somme, en un mot, THGN. <i>147</i> ; ESCHL. <i>Pr. 505</i> ; AR. <i>Pl. 646, etc.</i><br><b>      2</b> en général, PLAT. <i>Prot. 323e, etc. ; p. opp. à</i> καθ' ἕκαστον, XÉN. <i>Œc. 19, 14 ; à</i> κατὰ σμικρόν, peu à peu, PLAT. <i>Rsp. 344a</i>.<p><b>Étym</b>. συλλαμβάνω.`

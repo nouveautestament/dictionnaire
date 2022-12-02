@@ -1,0 +1,1 @@
+lar[91885]=`<b>ου (τὸ) :<br>      1</b> caverne, grotte, cavité, PLAT. <i>Rsp. 514a, 515a, 539e, etc.</i><br><b>      2</b> parties secrètes, SPT. <i>Hab. 2, 15</i>.<p><b>Étym</b>. <i>pré-grec, cf</i>. σπῆλυγξ ; <i>emprunts lat</i>. spēlæum, spēlunca.`

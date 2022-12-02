@@ -1,0 +1,1 @@
+lar[2082]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans trouble, EUR. <i>Or. 630</i>.`

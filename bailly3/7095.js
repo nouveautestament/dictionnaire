@@ -1,0 +1,1 @@
+lar[7095]=`<b>ἀν·αλθής, ής, ές :<br>      1</b> incurable, HPC. <i>Art. 829</i>.<br><b>      2</b> inefficace, BION <i>7, 4</i>.<p><b>Étym</b>. ἀν-, ἀλθαίνω.`

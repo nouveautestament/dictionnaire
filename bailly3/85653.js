@@ -1,0 +1,1 @@
+lar[85653]=`<b>προσ·επευωνίζω</b>, vendre à vil prix, <i>acc</i>. PHIL. <i>2, 276</i>.`

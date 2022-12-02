@@ -1,0 +1,1 @@
+lar[106318]=`<b>ή, όν</b>, qu’on peut froisser <i>ou</i> broyer, ARSTT. <i>H.A. 4, 1</i>.<p><b>Étym</b>. φλάω.`

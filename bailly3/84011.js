@@ -1,0 +1,1 @@
+lar[84011]=`<b>προ·δουπέω-ῶ</b> (<i>pf</i>. προδέδουπα <i>au sens du prés</i>.) tomber auparavant avec bruit, NIC. <i>Al. 313</i>.`

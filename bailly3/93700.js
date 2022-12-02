@@ -1,0 +1,1 @@
+lar[93700]=`<font color="purple">[ῡ]</font> nourrir de figues, ANTH. <i>9, 487</i>.<p><b>Étym</b>. συκῆ.`

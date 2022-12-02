@@ -1,0 +1,1 @@
+lar[14339]=`<b>ἀργυροκοπέω-ῶ</b> <font color="purple">[ῠ]</font> frapper de la monnaie, SPT. <i>Jer. 6, 29</i>.<p><b>Étym</b>. ἀργυροκόπος.`

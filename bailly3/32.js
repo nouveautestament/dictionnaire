@@ -1,0 +1,1 @@
+lar[32]=`<b>ἀβακέω-ῶ</b> (<i>seul. ao. 3 pl</i>. ἀβάκησαν) <font color="purple">[ᾰᾰ]</font> <font color="brown">ne rien dire d’une chose parce qu’on l’ignore</font>, <i>d’où</i> <font color="brown">ignorer</font>, <i>particul</i>. <font color="brown">ne pas reconnaître</font> (qqn) OD. <i>4, 249</i>.<p><b>Étym</b>. ἀβακής.`

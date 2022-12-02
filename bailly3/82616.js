@@ -1,0 +1,1 @@
+lar[82616]=`<i>adv</i>., fort utilement, AR. <i>Th. 504</i>.<p>•<i> Sup</i>. -έστατα, XÉN. <i>Eq. 1, 1</i>.<p><b>Étym</b>. πολυωφελής.`

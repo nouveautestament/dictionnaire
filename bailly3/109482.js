@@ -1,0 +1,1 @@
+lar[109482]=`<b>εως (ἡ)</b> action de faire un terrassement, <i>particul.</i> :<br><b>      1</b> action de construire une jetée, une digue, THC. <i>2, 76</i>.<br><b>      2</b> action de combler un port, THC. <i>3, 2</i>.<p><b>Étym</b>. χώννυμι.`

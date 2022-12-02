@@ -1,0 +1,1 @@
+lar[92019]=`<b>σπουδαιό·μυθος, ος, ον</b> <font color="purple">[ῡ]</font> qui parle sérieusement <i>ou</i> sur des sujets sérieux, DÉMOCRAT. (PYTHAG. <i>p. 631 Gale).</i><p><b>Étym</b>. σπουδαῖος, μῦθος.`

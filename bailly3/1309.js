@@ -1,0 +1,1 @@
+lar[1309]=`<b>ἀ·διάβολος, ος, ον</b>, non calomnié <i>ou</i> qui ne calomnie pas, STOB. <i>Ecl. 2, 240</i>.<p><b>Étym</b>. ἀ, διαβάλλω.`

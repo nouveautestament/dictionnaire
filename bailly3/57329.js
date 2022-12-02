@@ -1,0 +1,1 @@
+lar[57329]=`<i>ou mieux</i> <b>κοττίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> tête, <i>mot dor</i>. HPC. <i>468, 13, etc</i>.`

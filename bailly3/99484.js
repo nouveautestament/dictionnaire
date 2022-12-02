@@ -1,0 +1,1 @@
+lar[99484]=`<i>adv</i>., de telle sorte, SAPPH.<p><b>Étym</b>. τοιοῦτος.`

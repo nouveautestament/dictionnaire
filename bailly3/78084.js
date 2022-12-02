@@ -1,0 +1,1 @@
+lar[78084]=`<b>πεντεκαιδεκ·ήρης, ης, ες</b>, à quinze rangs de rames, PLUT. <i>Demetr. 20</i>.<p><b>Étym</b>. π. ἐρέσσω.`

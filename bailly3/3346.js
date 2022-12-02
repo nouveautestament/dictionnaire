@@ -1,0 +1,1 @@
+lar[3346]=`<b>ἀ·κηλίδωτος, ος, ον</b> <font color="purple">[ῑ]</font> non souillé, sans tache, PORPH. <i>Abst. 2, 45</i> ; PHIL. <i>1, 156, etc. ; fig</i>. immaculé, pur, SPT. <i>Sap. 4, 9</i>.<p><b>Étym</b>. ἀ, κηλιδόω.`

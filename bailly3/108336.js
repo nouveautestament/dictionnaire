@@ -1,0 +1,1 @@
+lar[108336]=`crase <i>poét. p</i>. καὶ ἡ, AR. <i>Lys. 48</i>.`

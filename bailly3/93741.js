@@ -1,0 +1,1 @@
+lar[93741]=`<font color="purple">[ῡ]</font><br><b>      1</b> dépouiller de ses armes, <i>acc</i>. IL. <i>5, 48</i>.<br><b>      2</b> voler, piller, IL. <i>24, 436</i>.<p>➳ Seul. <i>prés</i>. IL. <i>24, 436</i> ; ANTH. <i>5, 231, et impf</i>. ἐσύλευον, IL. <i>5, 48</i>.<p><b>Étym</b>. σῦλον.`

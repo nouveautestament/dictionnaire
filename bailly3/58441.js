@@ -1,0 +1,1 @@
+lar[58441]=`<b>Κυδί·μαχος, ου (ὁ)</b> <font color="purple">[ῡῐᾰ]</font> Kydimakhos, <i>tyran de Carie,</i> LUC. <i>Cat. 8</i>.<p><b>Étym</b>. κῦδος, μάχομαι.`

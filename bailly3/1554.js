@@ -1,0 +1,1 @@
+lar[1554]=`<b>ἁδρό·μισθος, ος, ον</b>, qui reçoit un gros salaire, SCYMN. <i>362</i>.<p><b>Étym</b>. ἁ. μισθός.`

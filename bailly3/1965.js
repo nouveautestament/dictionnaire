@@ -1,0 +1,1 @@
+lar[1965]=`<b>ης (ἡ)</b> <i>ion</i>. impuissance à voir, ARÉT. <i>Cur. m. acut. 1, 4</i>.<p><b>Étym</b>. ἀ, θεάομαι.`

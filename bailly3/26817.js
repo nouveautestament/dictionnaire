@@ -1,0 +1,1 @@
+lar[26817]=`<b>δι·οξειῶν (ἡ)</b> <i>càd</i>. δι' ὀξειῶν (χορδῶν) συμφωνία (ἡ) la quinte, <i>t. de mus. dans la théorie pythagoricienne,</i> PHILOL. <i>B 6, p. 409, 10</i>.<p><i>cf</i>. διαπασῶν.`

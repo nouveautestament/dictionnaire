@@ -1,0 +1,1 @@
+lar[49266]=`<b>οῦ (ὁ) :<br>      1</b> <i>adj</i>. qui va à cheval, EUR. <i>H.f. 408</i>.<br><b>      2</b> cavalier, PD. <i>P. 9, 217</i>.<p>➳ <i>Dor</i>. ἱππευτάς, PD. <i>l. c</i>.`

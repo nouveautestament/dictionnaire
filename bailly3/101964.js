@@ -1,0 +1,1 @@
+lar[101964]=`<b>ὑπ·ανεμόω-ῶ</b> <font color="purple">[ῠᾰ]</font> éventer légèrement, doucement, LIB. <i>4, 1072</i>.`

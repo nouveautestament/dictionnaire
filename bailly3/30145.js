@@ -1,0 +1,1 @@
+lar[30145]=`<b>ἐθελοδουλέω-ῶ</b>, être volontairement esclave, DC. <i>45, 35, 2 ; 54, 32, 1 ; fr. 55, 1</i>.<p><b>Étym</b>. ἐθελόδουλος.`

@@ -1,0 +1,1 @@
+lar[61212]=`<b>ων (οἱ)</b> Lindies, <i>emplacement où fut fondée la ville de Géla, en Sicile,</i> THC. <i>6, 4</i>.`

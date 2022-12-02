@@ -1,0 +1,1 @@
+lar[106459]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire du dème Phlyées, AR. <i>Vesp. 234</i> ; IS. <i>Or. 8, 3</i> ; DÉM. <i>Or. 18, 29 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Φλυεῖς.`

@@ -1,0 +1,1 @@
+lar[6645]=`<b>έως (ὁ)</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> greffier <i>ou</i> secrétaire d’État, LYS. <i>183, 11 ; 185, 33</i>.<br><b>      2</b> tracé d’une épure, PHIL. BYZ. <i>Bel. 51</i>.<p><b>Étym</b>. ἀναγράφω.`

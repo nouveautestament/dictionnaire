@@ -1,0 +1,1 @@
+lar[89388]=`<b>οῦ (ὁ)</b> sargue <i>ou</i> sar, <i>sorte de poisson de mer,</i> EPICH. <i>fr. 44 Ahrens</i> ; ARSTT. <i>H.A. 5, 11, 3, etc</i>.<p><b>Étym</b>. <i>cf. lat</i>. sargus.`

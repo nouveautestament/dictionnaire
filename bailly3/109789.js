@@ -1,0 +1,1 @@
+lar[109789]=`<b>ψηττο·ειδής, ής, ές</b>, semblable à la plie <i>ou</i> barbue, ARSTT. <i>Inc. an. 17, 4</i>.<p><b>Étym</b>. ψῆττα, εἶδος.`

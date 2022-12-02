@@ -1,0 +1,1 @@
+lar[92121]=`<b>ατος (τὸ)</b> <font color="purple">[τᾰ]</font> goutte, ESCHL. <i>Eum. 802</i> ; SOPH. <i>Ant. 1239</i> ; PHILSTR. <i>116</i>.<p><b>Étym</b>. σταλάζω.`

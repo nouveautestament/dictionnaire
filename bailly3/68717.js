@@ -1,0 +1,1 @@
+lar[68717]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> onguent pour les yeux, A. TR. <i>2, p. 132</i>.<p><b>Étym</b>. νίκη.`

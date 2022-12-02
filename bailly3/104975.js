@@ -1,0 +1,1 @@
+lar[104975]=`<i>enclit. c</i>. φασί <i>avec ν euphon</i>.`

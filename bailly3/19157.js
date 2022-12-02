@@ -1,0 +1,1 @@
+lar[19157]=`<b>βαρύ·κοτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> chargé de ressentiment, ESCHL. <i>Eum. 780</i>.<p><b>Étym</b>. β. κότος.`

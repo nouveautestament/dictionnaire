@@ -1,0 +1,1 @@
+lar[80277]=`avoir un goût d’amertume, STR. <i>498</i> ; CLÉM. <i>893</i>.<p><b>Étym</b>. πικρός.`

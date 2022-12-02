@@ -1,0 +1,1 @@
+lar[8247]=`<b>ας (ἡ)</b> absence de frayeur <i>ou</i> d’étonnement, sang-froid, PLAT. <i>Def. 412c</i>.<p><b>Étym</b>. ἀνέκπληκτος.`

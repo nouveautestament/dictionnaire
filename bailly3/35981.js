@@ -1,0 +1,1 @@
+lar[35981]=`<b>ἐξ·ιδίω</b> <font color="purple">[ῑδ]</font> transpirer, <i>euphém. p</i>. laisser aller sous soi, AR. <i>Av. 791</i>.`

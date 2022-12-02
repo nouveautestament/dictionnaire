@@ -1,0 +1,1 @@
+lar[42024]=`<b>εὐ·επίτευκτος, ος, ον</b>, opportun, qui arrive heureusement, ANON. (SUID. <i>v°</i> βασιλίσκος).<p><b>Étym</b>. εὖ, ἐπιτυγχάνω.`

@@ -1,0 +1,1 @@
+lar[2156]=`<b>ατος (τὸ)</b> gémissement, EUR. <i>Alc. 873</i>.<p><b>Étym</b>. αἰάζω.`

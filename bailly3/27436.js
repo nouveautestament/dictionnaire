@@ -1,0 +1,1 @@
+lar[27436]=`<b>δολιχό·ουρος</b> <i>ou</i> <b>δολιχοῦρος, ος, ον</b> <font color="purple">[ῐ]</font> à queue allongée, <i>en parl. d’hexamètres dont le dernier pied est en apparence un dactyle (p. ex</i>. ἀγαθὸν Πολυδεύκεα, <i>où</i> -εα <i>est en réalité monosyll. par syniz</i>.) DRAC. <i>141, 15</i> ; HDN GR. <i>Vers. 86</i>.<p><b>Étym</b>. δολιχός, οὐρά.`

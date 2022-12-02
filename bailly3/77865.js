@@ -1,0 +1,1 @@
+lar[77865]=`<i>adv</i>., d’une manière prodigieuse <i>ou</i> monstrueuse, SIB.<p><b>Étym</b>. πελώριος.`

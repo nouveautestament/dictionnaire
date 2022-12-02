@@ -1,0 +1,1 @@
+lar[1886]=`<b>ου</b>, <i>ou</i> <b>Ἀζωτός, οῦ (ἡ)</b> Azot (<i>auj</i>. Ashdod) <i>v. de Palestine,</i> HDT. <i>2, 157, etc</i>.`

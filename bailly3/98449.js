@@ -1,0 +1,1 @@
+lar[98449]=`<b>τεσσαρακοντ·ήρης, ης, ες</b> <font color="purple">[ᾰᾰ]</font> à quarante rangs de rames, CALLIX. (ATH. <i>203e</i>).<p><b>Étym</b>. τ. ἐρέσσω.`

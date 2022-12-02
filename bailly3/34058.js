@@ -1,0 +1,1 @@
+lar[34058]=`<b>ἐν·ατρεμέω-ῶ</b>, rester calme dans, THÉM. <i>62, 18 G. Dind</i>.`

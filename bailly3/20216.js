@@ -1,0 +1,1 @@
+lar[20216]=`<b>άδος :<br>      1</b> <i>adj. f</i>. du nord, boréal, <i>c</i>. βόρειος, ESCHL. <i>fr. 195</i>.<br><b>      2</b> <i>subst</i>. ἡ β. la fille de Borée, SOPH. <i>Ant. 985</i>.<p><b>Étym</b>. βορέας.`

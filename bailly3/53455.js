@@ -1,0 +1,1 @@
+lar[53455]=`<b>ατος (τὸ)</b> état, situation, condition :<br><b>      1</b> <i>au sens phys. en parl. du climat, de la température,</i> ORIB. <i>p. 236 Matthäi etc. ; en parl. du corps, de la santé,</i> PLUT. <i>M. 1157b ;</i> ATH. <i>38e, etc.</i><br><b>      2</b> <i>au sens polit</i>. constitution d’un État, POL. <i>6, 50, 2</i>.<p><b>Étym</b>. καθίστημι.`

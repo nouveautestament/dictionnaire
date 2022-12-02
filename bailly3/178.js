@@ -1,0 +1,1 @@
+lar[178]=`<b>ου (ὁ)</b> Abrozelmès, <i>Thrace,</i> XÉN. <i>An. 7, 6, 43</i>.`

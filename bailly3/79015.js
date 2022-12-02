@@ -1,0 +1,1 @@
+lar[79015]=`<b>περι·ομματο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui ouvre les yeux à, <i>gén</i>. JAMBL. <i>V. Pyth. 31</i>.<p><b>Étym</b>. π. ὄμμα, ποιέω.`

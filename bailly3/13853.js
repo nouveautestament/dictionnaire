@@ -1,0 +1,1 @@
+lar[13853]=`<b>ἀπό·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> inanimé, LGN <i>42, 2</i>.<p><b>Étym</b>. ἀ. ψυχή.`

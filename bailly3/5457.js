@@ -1,0 +1,1 @@
+lar[5457]=`<b>ἀ·μέρδω</b> (<i>seul. prés. et impf. épq</i>. ἄμερδον) :<br><b>      1</b> aveugler, <i>acc</i>. IL. <i>13, 340</i>.<br><b>      2</b> obscurcir, ternir, <i>acc</i>. OD. <i>19, 18</i>.<p><b>Étym</b>. <i>v</i>. ἀμέρδω¹.`

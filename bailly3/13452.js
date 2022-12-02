@@ -1,0 +1,1 @@
+lar[13452]=`<b>έως (ὁ)</b> intendant maritime, <i>préposé à l’armement et à l’expédition des navires de guerre, à Athènes,</i> DÉM. <i>262, 18, etc</i>.<p><b>Étym</b>. ἀποστέλλω.`

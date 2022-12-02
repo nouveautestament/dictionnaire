@@ -1,0 +1,1 @@
+lar[35493]=`<b>ατος (τὸ)</b> efflorescence, éruption de la peau, exanthème, HPC. <i>Aph. 1256, Epid. 1, 946, etc.</i> ; ARSTT. <i>An. 3, 11</i>.<p><b>Étym</b>. ἐξανθέω.`

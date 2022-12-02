@@ -1,0 +1,1 @@
+lar[102859]=`<b>ὑπέρ·φατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui est au-dessus de toute expression, inexprimable, admirable, PD. <i>O. 9, 98 ; fr. 74, 8</i>.<p><b>Étym</b>. ὑ. φημί.`

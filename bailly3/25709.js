@@ -1,0 +1,1 @@
+lar[25709]=`<font color="purple">[τᾰ]</font> <i>adv. (seul. compar</i>. -ώτερον) avec extension, SEXT. <i>608, 26 Bkk</i>.`

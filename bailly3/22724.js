@@ -1,0 +1,1 @@
+lar[22724]=`<b>γυιο·πέδη, ης (ἡ)</b> entraves pour les pieds, PD. <i>P. 2, 41</i> ; ESCHL. <i>Pr. 468</i>.`

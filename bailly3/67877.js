@@ -1,0 +1,1 @@
+lar[67877]=`<font color="purple">[ᾱ]</font> avoir l’ardeur de la jeunesse, PLUT. <i>Flam. 20</i>.<p><b>Étym</b>. νεανίας.`

@@ -1,0 +1,1 @@
+lar[49883]=`<b>άδος (ἡ) :<br>      1</b> figue sèche, AR. <i>Eq. 752</i> ; COM. (ATH. <i>27b, 75b, etc</i>.).<br><b>      2</b> euphorbe (<i>Euphorbia apios</i> L.) <i>plante,</i> TH. <i>H.P. 9, 9, 6</i> ; DIOSC. <i>4, 175, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἰσχνός.`

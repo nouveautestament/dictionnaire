@@ -1,0 +1,1 @@
+lar[105117]=`<b>φερ·ανθής, ής, ές</b>, qui produit (<i>litt</i>. qui porte) des fleurs, ANTH. <i>9, 363</i>.<p><b>Étym</b>. φέρω, ἄνθος.`

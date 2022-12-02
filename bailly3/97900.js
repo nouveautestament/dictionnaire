@@ -1,0 +1,1 @@
+lar[97900]=`<b>ταχυ·κρίσιμος, ος, ον</b> <font color="purple">[ᾰῐῐ]</font> qui amène promptement une crise, HPC. <i>Epid. 1, 963</i>.<p><b>Étym</b>. τ. κρίσιμος.`

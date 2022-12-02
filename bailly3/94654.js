@@ -1,0 +1,1 @@
+lar[94654]=`<b>οῦ (ὁ)</b> contractant, médiateur, négociateur, BAS. <i>3, 196 Migne ; ou</i> συναλλάκτης, BAS. <i>3, 260 Migne</i>.<p><b>Étym</b>. συναλλάσσω.`

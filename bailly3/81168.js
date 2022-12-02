@@ -1,0 +1,1 @@
+lar[81168]=`<b>      1</b> naviguer, <i>en parl. de navires,</i> SIB. <i>5, 447</i>.<br><b>      2</b> <i>au pass</i>. être parcouru par des navires, POL. <i>16, 29, 11</i>.`

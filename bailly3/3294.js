@@ -1,0 +1,1 @@
+lar[3294]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> Akésinès :<br><b>      1</b> <i>fl. de l’Inde (auj</i>. Chenab) NONN. <i>D. 23, 276</i>.<br><b>      2</b> <i>fl. de Sicile,</i> THC. <i>4, 25</i>.`

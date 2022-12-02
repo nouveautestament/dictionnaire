@@ -1,0 +1,1 @@
+lar[72396]=`<b>ὁποσά·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, long de combien de pieds, LUC. <i>Gall. 9</i>.<p><b>Étym</b>. ὁπόσος, πούς.`

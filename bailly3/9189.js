@@ -1,0 +1,1 @@
+lar[9189]=`<i>adv</i>., sottement, follement, AR. <i>Lys. 518</i>.<p>•<i> Cp</i>. -ότερον, LYS. <i>117, 24 ; • Sup</i>. -ότατα, DC. <i>44, 35, etc.</i> ; XÉN. <i>Cyn. 3, 8</i> ; PLAT. <i>Phæd. 88b, etc</i>.`

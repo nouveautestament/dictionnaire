@@ -1,0 +1,1 @@
+lar[772]=`<b>Ἁγνό·θεος, ου (ὁ)</b> Hagnothéos, <i>h</i>. IS. <i>4, 1, Baiter-Sauppe</i>.<p><b>Étym</b>. ἁγν. θεός.`

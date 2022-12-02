@@ -1,0 +1,1 @@
+lar[35189]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. ἐνύπνιος, SEXT. <i>400, 15 et 24 Bkk</i>.`

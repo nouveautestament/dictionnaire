@@ -1,0 +1,1 @@
+lar[70117]=`<b>ὁδοι·ποιοί, ῶν (οἱ)</b> corps d’ingénieurs des routes, ESCHN. <i>3, 25 Baiter-Sauppe</i>.<p><b>Étym</b>. ὁδός, ποιέω.`

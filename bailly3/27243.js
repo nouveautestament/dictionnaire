@@ -1,0 +1,1 @@
+lar[27243]=`<b>α, ον</b> <font color="purple">[ψᾰ]</font><br><b>      1</b> qui a soif, altéré, BATR. <i>9</i> ; δ. θρυαλλίδιον, LUC. <i>Tim. 14,</i> mèche qui manque d’huile ; δ. ὀδύνη, EPIGR. (LUC. <i>Dips. 6</i>), souffrance que cause la soif.<br><b>      2</b> <i>p. suite,</i> desséché, CALL. <i>Jov. 27</i> ; A.RH. <i>4, 678</i>.<p><b>Étym</b>. δίψα.`

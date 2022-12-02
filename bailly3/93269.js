@@ -1,0 +1,1 @@
+lar[93269]=`<b>συγ·καταβάλλω</b>, dépenser ensemble <i>ou</i> avec, PLUT. <i>Luc. 23</i> ; DC. <i>48, 53</i> ; ANTH. <i>4, 3, 24</i>.`

@@ -1,0 +1,1 @@
+lar[97458]=`<b>ου</b>, <i>ou</i> <b>Ταμασσός, οῦ</b> (<i>genre inconnu</i>) <font color="purple">[ᾰᾱ]</font> Tamasos <i>ou</i> Tamassos, <i>v. de l’î. de Chypre,</i> NONN. <i>D. 13, 445, etc</i>.`

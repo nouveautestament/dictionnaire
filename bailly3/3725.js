@@ -1,0 +1,1 @@
+lar[3725]=`<b>ἀκριτό·φυλλος, ος, ον</b> <font color="purple">[ῐ]</font> au feuillage épais (<i>propr</i>. confus) IL. <i>2, 868</i>.<p><b>Étym</b>. ἄ. φύλλον.`

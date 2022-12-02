@@ -1,0 +1,1 @@
+lar[87906]=`<b>πυρι·σφρήγιστος, ος, ον</b> <font color="purple">[ῠ]</font> que le feu a scellé de son empreinte, NONN. <i>D. 13, 328</i>.<p><b>Étym</b>. π. <i>vb. ion. de</i> σφραγίζω.`

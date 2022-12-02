@@ -1,0 +1,1 @@
+lar[100789]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> galet, <i>caillou roulé par les eaux et arrondi,</i> AR. <i>fr. 694</i> ; TH. <i>C.P. 3, 6, 4 et 5</i> ; LYC. <i>1064</i>.<p><b>Étym</b>. τρέχω.`

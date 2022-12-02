@@ -1,0 +1,1 @@
+lar[58201]=`<b>κρύψ·ιππος, ου (ὁ)</b> <i>litt</i>. caché <i>ou</i> masqué par un cheval, <i>jeu de mots sur le nom de Chrysippe, dont la statue, placée dans le Céramique, était cachée par une statue équestre,</i> DL. <i>7, 182</i>.<p><b>Étym</b>. κρύπτω, ἵππος.`

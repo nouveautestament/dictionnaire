@@ -1,0 +1,1 @@
+lar[19280]=`<i>acc</i>. <b>ιν (ὁ)</b> Basilis, <i>h</i>. EL. ATH. <i>etc</i>.<p><b>Étym</b>. βασιλεύς.`

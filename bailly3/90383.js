@@ -1,0 +1,1 @@
+lar[90383]=`<b>σινδον·υφής, ής, ές</b> <font color="purple">[ῠ]</font> tissé avec du lin très fin, PHILOX. (ATH. <i>409e</i>).<p><b>Étym</b>. σ. ὑφαίνω.`

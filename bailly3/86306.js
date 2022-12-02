@@ -1,0 +1,1 @@
+lar[86306]=`<b>προσ·περιποιέω-ῶ</b>, ajouter à une réserve (<i>litt</i>. d’arrondir) DÉM. <i>832, 24</i>.`

@@ -1,0 +1,1 @@
+lar[91422]=`<i>ou</i> <b>σκῶρ, σκατός (τὸ)</b> <font color="purple">[ᾰτ]</font> excrément, AR. <i>Ran. 146</i> ; COM. <i>etc</i>.<p>➳ <i>Gén</i>. σκάτους, SOPHR. (ATH. <i>362c</i>).<p><b>Étym</b>. <i>indo-europ</i>. *sk-ōr, excrément ; <i>cf. lat</i>. mūscerda, crotte de souris.`

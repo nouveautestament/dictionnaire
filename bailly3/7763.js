@@ -1,0 +1,1 @@
+lar[7763]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> ébranlement, secousse, SPT. <i>Nah. 2, 10</i>.`

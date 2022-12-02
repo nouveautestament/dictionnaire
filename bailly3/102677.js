@@ -1,0 +1,1 @@
+lar[102677]=`<i>ion</i>. <b>ὑπερξηρασίη, ης (ἡ)</b> <font color="purple">[ρᾰ]</font> sécheresse excessive <i>ou</i> extrême, HPC. <i>460, 2</i>.<p><b>Étym</b>. ὑπερξηραίνω.`

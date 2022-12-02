@@ -1,0 +1,1 @@
+lar[80274]=`<b>οῦ (ὁ)</b> aigreur, haine, AQU. <i>Job 3, 5 ; Esth. 14, 8</i>.<p><b>Étym</b>. πικραίνω.`

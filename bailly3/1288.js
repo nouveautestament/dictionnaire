@@ -1,0 +1,1 @@
+lar[1288]=`<i>ou</i> <b>ἁδήν, ένος (ὁ</b> <i>ou</i> <b>ἡ)</b> glande, HPC. <i>Art. 788, etc</i>.`

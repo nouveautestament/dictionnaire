@@ -1,0 +1,1 @@
+lar[38629]=`<b>ἐπι·παροξύνω</b> <font color="purple">[ῡ]</font><br><b>      1</b> aigrir de nouveau <i>ou</i> encore davantage, DC. <i>44, 35</i> ; A. TAT. <i>1, 8</i>.<br><b>      2</b> <i>au pass</i>. avoir des accès successifs (de fièvre, <i>etc</i>.) HPC. <i>Epid. 1, 940 ; ou</i> s’enflammer encore plus, HPC. <i>81h</i>.`

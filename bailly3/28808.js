@@ -1,0 +1,1 @@
+lar[28808]=`<i>adv</i>., difficilement, ESCHL. <i>Pr. 752</i>.<p>•<i> Cp</i>. -εστέρως, HPC. <i>456, 22</i>.<p>➳ <i>Ion</i>. δυσπετέως, HDT. <i>3, 107</i>.<p><b>Étym</b>. δυσπετής.`

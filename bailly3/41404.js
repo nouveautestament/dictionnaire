@@ -1,0 +1,1 @@
+lar[41404]=`<b>ἑτερό·χρονος, ος, ον</b>, de temps différent : τὸ ἑ. PHŒBAMM. <i>8, 504 W.,</i> changement de temps.<p><b>Étym</b>. ἕ. χρόνος.`

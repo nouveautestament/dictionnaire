@@ -1,0 +1,1 @@
+lar[109239]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> plante à fleurs rouges qui servait à éprouver l’or du Pactole, PLUT. <i>M. 1152b</i>.`

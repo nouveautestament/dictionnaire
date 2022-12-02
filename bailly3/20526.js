@@ -1,0 +1,1 @@
+lar[20526]=`<b>ου</b> <font color="purple">[ῑῑ]</font> <i>adj. m</i>. de Busiris : β. νομός, HDT. <i>2, 165</i> ; STR. <i>etc</i>. le nome Busirite <i>ou</i> de Busiris (<i>v</i>. βούσιρις) ; οἱ βουσιρῖται, PLUT. EL. <i>etc</i>. les habitants de Busiris.<p><b>Étym</b>. βούσιρις.`

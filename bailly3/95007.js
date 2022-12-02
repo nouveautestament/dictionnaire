@@ -1,0 +1,1 @@
+lar[95007]=`<b>συν·ατιτάλλω</b> <font color="purple">[ᾰῐ]</font> nourrir avec, OPP. <i>C. 4, 239</i>.`

@@ -1,0 +1,1 @@
+lar[22927]=`<b>ας (ἡ)</b> <font color="purple">[δᾰ]</font> Daeira (<i>litt</i>. celle qui sait), <i>ép. de Perséphonè,</i> ESCHL. <i>fr. 271</i> ; LYC. <i>710</i>.<p><b>Étym</b>. *δάω.`

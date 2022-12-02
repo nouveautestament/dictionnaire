@@ -1,0 +1,1 @@
+lar[16903]=`<b>(ἡ)</b> <i>sorte de plante,</i> GAL. <i>6, 358b</i>.`

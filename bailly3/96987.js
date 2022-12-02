@@ -1,0 +1,1 @@
+lar[96987]=`<i>adv.</i> :<br><b>      1</b> lentement, pas à pas, XÉN. <i>Hipp. 3, 4</i> ; MACH. <i>et</i> SEMUS (ATH. <i>349b, 622b</i>) ; PLUT. <i>Cam. 29, Mar. 18, etc.</i> ; ARÉT. <i>p. 38, 36, etc.</i><br><b>      2</b> près, auprès, de près, ANON. (SUID. <i>v°</i> σχέδην).<p><b>Étym</b>. σχεῖν.`

@@ -1,0 +1,1 @@
+lar[64604]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. Μεσήνιος.`

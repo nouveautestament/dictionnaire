@@ -1,0 +1,1 @@
+lar[77610]=`<b>Πειθό·λαος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Peitholaos, <i>h</i>. ARSTT. <i>Rhet. 3, 9, 10</i>.<p><b>Étym</b>. πείθω, λαός.`

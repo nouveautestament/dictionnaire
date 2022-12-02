@@ -1,0 +1,1 @@
+lar[39447]=`<b>ου (τὸ) :<br>      1</b> chant pour célébrer la naissance, EUM. <i>4, 6</i>.<br><b>      2</b> usure, ES. <i>177 b Halm</i>.<p><b>Étym</b>. ἐπίτοκος.`

@@ -1,0 +1,1 @@
+lar[4420]=`<b>ἀλιβαντὶς φυλή (ἡ)</b> la tribu des morts, LUC. <i>Nec. 20</i>.<p><b>Étym</b>. ἀλίβας.`

@@ -1,0 +1,1 @@
+lar[71411]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> avec qui l’on peut lier commerce, sociable, ESCHL. <i>Sept. 189</i>.<p><b>Étym</b>. <i>vb. de</i> ὁμιλέω.`

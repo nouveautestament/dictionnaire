@@ -1,0 +1,1 @@
+lar[11356]=`<b>ἀ·παραφυλάκτως</b> <font color="purple">[ῠ]</font> <i>adv</i>., sans précaution, ES.<p><b>Étym</b>. ἀ, παραφυλάσσω.`

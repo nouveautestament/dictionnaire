@@ -1,0 +1,1 @@
+lar[48174]=`<b>Ι, ι (ἰώτα)</b> iôta, <i>9<sup>e</sup> lettre de l’alphabet grec ; comme chiffre ιʹ = 10, ͵ι = 10 000</i>.`

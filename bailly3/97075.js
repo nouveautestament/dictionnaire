@@ -1,0 +1,1 @@
+lar[97075]=`<b>έως (ὁ)</b> habitant de Skhœnos, ANTH. <i>13, 22</i>.<p><b>Étym</b>. Σχοῖνος.`

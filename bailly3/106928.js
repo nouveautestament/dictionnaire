@@ -1,0 +1,1 @@
+lar[106928]=`<i>vb. de</i> φροντίζω, EUR. <i>I.T. 468</i> ; PLAT. <i>Crit. 48a ; avec le gén</i>. STR. <i>775</i>.`

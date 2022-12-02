@@ -1,0 +1,1 @@
+lar[48309]=`<b>εως (ἡ)</b> <font color="purple">[ῑᾱ]</font> action de soigner, de guérir, PLAT. <i>Rsp. 357a ;</i> ARSTT. <i>Phys. 2, 1, 12, etc</i>.<p><b>Étym</b>. ἰατρεύω.`

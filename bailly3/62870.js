@@ -1,0 +1,1 @@
+lar[62870]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. μάραθρον, EL. <i>N.A. 9, 16</i> ; ATH. <i>596a ; au plur</i>. EPICH. (ATH. <i>71a</i>).`

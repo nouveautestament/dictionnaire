@@ -1,0 +1,1 @@
+lar[108090]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> action de conduire par la main, direction, LGS <i>4, 12</i>.<p><b>Étym</b>. χειραγωγός.`

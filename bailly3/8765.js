@@ -1,0 +1,1 @@
+lar[8765]=`<b>ου (τὸ)</b> fleur, <i>mot béot</i>. AR. <i>Ach. 869</i>.<p><b>Étym</b>. ἄνθος.`

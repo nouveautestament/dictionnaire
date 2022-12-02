@@ -1,0 +1,1 @@
+lar[99923]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> habitant <i>ou</i> originaire de Trapézonte, XÉN. <i>An. 4, 8, 23 ; 5, 5, 10</i>.<p><b>Étym</b>. Τραπεζοῦς.`

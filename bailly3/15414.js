@@ -1,0 +1,1 @@
+lar[15414]=`<b>ἀρτο·ποιΐα, ας (ἡ)</b> confection du pain, XÉN. <i>Mem. 2, 7, 6</i> ; AR. <i>fr. 295</i>.<p><b>Étym</b>. ἀρτοποιός.`

@@ -1,0 +1,1 @@
+lar[36335]=`<i>3 sg. impf. d’un verbe inus. signifiant</i> troubler, PD. <i>P. 4, 233 (conj. Bœckh, ms</i>. αἰόλλει) ; <i>au pass. 3 sg. pl.q.pf</i>. ἐόλητο, être troublé, A.RH. <i>3, 471</i> ; MOSCH. <i>2, 74</i>.<p><b>Étym</b>. <i>de</i> *ὀλέω, <i>c</i>. αἰολέω, <i>cf</i>. εἴλω.`

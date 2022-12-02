@@ -1,0 +1,1 @@
+lar[9057]=`<b>εως (ἡ)</b> poussée de sueur, sueur abondante, HPC. <i>1236b ;</i> DIOSC. <i>1, 18</i>.<p><b>Étym</b>. ἀνιδρόω.`

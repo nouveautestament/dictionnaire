@@ -1,0 +1,1 @@
+lar[67357]=`<b>μυρσινο·ειδῶς</b> <font color="purple">[ῐ]</font> <i>adv</i>., comme un myrte, ORIB. <i>p. 5, 21, etc.</i> ; HIPPIATR. <i>p. 60, 28</i>.<p><b>Étym</b>. μυρσινοειδής.`

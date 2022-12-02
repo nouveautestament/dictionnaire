@@ -1,0 +1,1 @@
+lar[90921]=`<b>ου (τὸ)</b> <i>c</i>. σκιμποδίσκος PHILÉM. (<i>Com. fr. 4, 10</i>) ; LUC. <i>As. 3</i> ; PERSÆ. <i>fr. 454 et</i> PYTHON (ATH. <i>140f, 550f</i>).`

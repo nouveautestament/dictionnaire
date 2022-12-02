@@ -1,0 +1,1 @@
+lar[69351]=`<b>νωτο·φόρος, ος, ον</b>, qui porte sur son dos, SPT. <i>2Par. 2, 2, et 11, etc.,</i> τὸ νωτοφόρον, XÉN. <i>Cyr. 6, 2, 34</i> ; DC. <i>56, 20,</i> bête de somme.<p><b>Étym</b>. νῶτος, φέρω.`

@@ -1,0 +1,1 @@
+lar[69595]=`<b>ΐδος (ἡ)</b> instrument pour tailler la pierre <i>ou</i> le bois, ciseau <i>ou</i> serpe, A. PL. <i>86</i>.<p><b>Étym</b>. ξέω.`

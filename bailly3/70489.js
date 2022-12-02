@@ -1,0 +1,1 @@
+lar[70489]=`<b>οἰν·εραστής, οῦ (ὁ)</b> passionné pour le vin, ivrogne, EL. <i>V.H. 2, 41</i>.<p><b>Étym</b>. οἶν. ἐραστής.`

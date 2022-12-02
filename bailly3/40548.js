@@ -1,0 +1,1 @@
+lar[40548]=`<b>ἑρκο·θηρικός, ή, όν</b>, qui concerne la chasse au filet, PLAT. <i>Soph. 220c</i>.<p><b>Étym</b>. ἕρκος, θήρα.`

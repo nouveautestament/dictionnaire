@@ -1,0 +1,1 @@
+lar[62193]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> le pays des Lotophages, TH. <i>H.P. 4, 3, 2</i>.<p><b>Étym</b>. Λωτοφάγος.`

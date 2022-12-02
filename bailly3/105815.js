@@ -1,0 +1,1 @@
+lar[105815]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Philœtios, <i>bouvier d’Ulysse,</i> OD. <i>20, 135, 254 ; 21, 240, 388 ; 22, 359, etc</i>.`

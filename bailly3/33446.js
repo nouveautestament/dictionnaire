@@ -1,0 +1,1 @@
+lar[33446]=`<b>ἐμ·πιλέω-ῶ</b> <font color="purple">[ῑ]</font> fouler l’un sur l’autre, presser, <i>au pass</i>. PLAT. <i>Tim. 74e ;</i> DS. <i>2, 52</i>.<p><b>Étym</b>. ἐν, π.`

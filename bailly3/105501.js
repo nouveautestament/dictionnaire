@@ -1,0 +1,1 @@
+lar[105501]=`<b>φιλαργυρέω-ῶ</b> <font color="purple">[ῐῠ]</font> aimer l’argent, ALCIPHR. <i>1, 40</i> ; SPT. <i>2Macc. 10, 20</i> ; SEXT. <i>M. 11, 122</i>.<p><b>Étym</b>. φιλάργυρος.`

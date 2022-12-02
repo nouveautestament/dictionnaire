@@ -1,0 +1,1 @@
+lar[1860]=`<b>ἀ·ζηλοτύπητος, ος, ον</b> <font color="purple">[ῠ]</font> qui n’excite pas la jalousie, CIC. <i>Att. 13, 19</i> ; PLUT. <i>M. 787d</i>.<p><b>Étym</b>. ἀ, ζηλοτυπέω.`

@@ -1,0 +1,1 @@
+lar[73676]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui réside dans le ciel, ESCHL. <i>Ch. 960</i>.<p><b>Étym</b>. οὐρ. ἔχω.`

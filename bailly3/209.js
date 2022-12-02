@@ -1,0 +1,1 @@
+lar[209]=`<b>ἄ·βρωμος, ος, ον</b>, sans mauvaise odeur, DIPH. (ATH. <i>355b</i>) ; DIOSC. <i>1, 15 ; 2, 35, etc</i>.<p><b>Étym</b>. ἀ, βρῶμος.`

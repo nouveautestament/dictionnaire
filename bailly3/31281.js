@@ -1,0 +1,1 @@
+lar[31281]=`<b>ἐκ·θάλπω</b>, échauffer, réchauffer, <i>fig</i>. SOPH. <i>fr. 430</i>.`

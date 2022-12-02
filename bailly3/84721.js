@@ -1,0 +1,1 @@
+lar[84721]=`<b>α, ον</b>, de Prométhée, NIC. <i>Al. 273</i> ; τὰ Προμήθεια, XÉN. <i>Ath. 3, 4</i> ; LYS. <i>161 fin,</i> fêtes de Prométhée.<p>➳ <i>Dans les inscr. att</i>. τὰ Προμήθια, CIA. <i>4, b, 35b, 28 (440/432 av. J.-C.), etc. ; v. Meisterh. p. 43</i>.<p><b>Étym</b>. Προμηθεύς.`

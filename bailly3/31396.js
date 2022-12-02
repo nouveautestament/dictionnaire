@@ -1,0 +1,1 @@
+lar[31396]=`<b>ἐκ·καρπίζομαι</b> (<i>prés</i>.) :<br><b>      1</b> épuiser (le sol) à force de produire, TH. <i>C.P. 4, 8, 3</i>.<br><b>      2</b> produire comme fruit, <i>acc. fig</i>. ESCHL. <i>Sept. 601, dout</i>.`

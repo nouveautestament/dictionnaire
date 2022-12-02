@@ -1,0 +1,1 @@
+lar[105807]=`<b>φιλ·οικοδόμος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à bâtir des maisons, XÉN. <i>Œc. 20, 29</i> ; ARSTT. <i>Nic. 10, 5, 2</i>.<p><b>Étym</b>. φ. οἰκοδομέω.`

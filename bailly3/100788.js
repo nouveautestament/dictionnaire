@@ -1,0 +1,1 @@
+lar[100788]=`<b>ων (τὰ)</b> <font color="purple">[μᾰ]</font> mur fait de cailloux ronds, NIC. <i>Th. 143</i>.<p><b>Étym</b>. <i>cf</i>. τρόχμαλος.`

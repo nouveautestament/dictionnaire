@@ -1,0 +1,1 @@
+lar[97606]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec des sentiments, bas, BAS. <i>4, 813 Migne</i>.<p><b>Étym</b>. ταπεινόφρων.`

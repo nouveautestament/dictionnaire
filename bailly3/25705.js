@@ -1,0 +1,1 @@
+lar[25705]=`<b>ῆς (ἡ)</b> <font color="purple">[τᾰᾰ]</font> trouble profond, bouleversement, PLUT. <i>M. 317a</i>.<p><b>Étym</b>. διαταράσσω.`

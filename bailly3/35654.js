@@ -1,0 +1,1 @@
+lar[35654]=`<b>ἐξ·αυθαδίζομαι</b> <font color="purple">[θᾱ]</font> (<i>seul. prés</i>.) résister obstinément, JOS. <i>A.J. 15, 10, 4</i>.`

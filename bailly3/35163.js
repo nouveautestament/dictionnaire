@@ -1,0 +1,1 @@
+lar[35163]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> rencontre, entretien, POL. <i>6, 2, 7</i> ; PLUT. <i>M. 67c, 582e.</i><br><b>      2</b> intercession, prière, SPT. <i>3Macc. 6, 40</i>.<br><b>      3</b> accusation, SÉRÉN. (STOB. <i>Fl. 13, 28).</i><p><b>Étym</b>. ἐντυγχάνω.`

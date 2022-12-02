@@ -1,0 +1,1 @@
+lar[33630]=`<b>ἐμ·πυκάζω</b> <font color="purple">[ῠ]</font> cacher profondément, <i>fig</i>. MOSCH. <i>1, 15</i>.<p><b>Étym</b>. ἐν, π.`

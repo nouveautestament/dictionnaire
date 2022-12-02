@@ -1,0 +1,1 @@
+lar[67860]=`<b>νε·αλδής, ής, ές</b>, nouvellement poussé, <i>en parl. d’une plante,</i> OPP. <i>H. 1, 692</i>.<p><b>Étym</b>. ν. ἀλδαίνω.`

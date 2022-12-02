@@ -1,0 +1,1 @@
+lar[28091]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> impérieux, autoritaire, ARSTT. <i>Pol. 6, 6, 3 au</i> <i>• Sup</i>. -ώτατος.<p><b>Étym</b>. δυνάστης.`

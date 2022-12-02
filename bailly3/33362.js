@@ -1,0 +1,1 @@
+lar[33362]=`<b>ἐμπεδό·μυθος, ος, ον</b> <font color="purple">[ῡ]</font> à la parole immuable, NONN. <i>Jo. 1, 17, etc</i>.<p><b>Étym</b>. ἔ. μῦθος.`

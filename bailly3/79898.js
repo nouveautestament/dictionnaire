@@ -1,0 +1,1 @@
+lar[79898]=`<b>ας (ἡ)</b> action de lancer des pierres, XÉN. <i>An. 6, 4, 15</i>.<p><b>Étym</b>. πετροβόλος.`

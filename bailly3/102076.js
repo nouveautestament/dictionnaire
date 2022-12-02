@@ -1,0 +1,1 @@
+lar[102076]=`<b>*ὑπ·εικάθω</b>, <i>poét</i>. ὑποεικάθω (<i>seul. prés. opt. 1 sg</i>. ὑπεικάθοιμι, SOPH. <i>El. 361, part. épq</i>. ὑπεικαθέων, OPP. <i>H. 5, 500 ; impf. 3 sg</i>. ὑπείκαθε, A.RH. <i>2, 590, ou</i> ὑποείκαθε, ORPH. <i>Arg. 709) c</i>. ὑπείκω <i>ou plus vraisembl. ao. poét. de</i> ὑπείκω.<p>➳ <i>Impf. 3 pl</i>. ὑπείκαθον, A.RH. <i>4, 339</i>.`

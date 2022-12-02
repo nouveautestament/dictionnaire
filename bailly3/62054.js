@@ -1,0 +1,1 @@
+lar[62054]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Lysippidès, <i>h</i>. DÉM.<p><b>Étym</b>. <i>patr. de</i> Λύσιππος.`

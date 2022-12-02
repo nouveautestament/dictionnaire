@@ -1,0 +1,1 @@
+lar[28348]=`<b>δυσ·έκλειπτος, ος, ον</b> <font color="purple">[ῠ]</font> qui cesse difficilement, continu, PLUT. <i>M. 829a ;</i> P. ÉG. <i>67, 5</i>.<p><b>Étym</b>. δ. ἐκλείπω.`

@@ -1,0 +1,1 @@
+lar[47385]=`<font color="purple">[ῐ]</font> suff. <i>adv.</i> :<br><b>      1</b> de lieu, <i>sans mouv.</i> : οἴκοθι, à la maison ; ἄλλοθι, ailleurs ; αὐτόθι, là même, <i>etc.</i><br><b>      2</b> de temps : ἠῶθι, à l’aurore.`

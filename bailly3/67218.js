@@ -1,0 +1,1 @@
+lar[67218]=`<b>μυρί·αθλος</b>, <i>poét</i>. <b>-άεθλος, ος, ον</b>, mêlé à mille contestations, ORACL. (D. CUR. <i>1, 618).</i><p><b>Étym</b>. μ. ἆθλον.`

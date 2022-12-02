@@ -1,0 +1,1 @@
+lar[42354]=`<b>εὐ·καθαίρετος, ος, ον</b> <font color="purple">[ᾰθ]</font> facile à renverser, à conquérir, DC. <i>47, 37</i>.<p>•<i> Cp</i>. -ώτερος, THC. <i>7, 18</i>.<p><b>Étym</b>. εὖ, καθαιρέω.`

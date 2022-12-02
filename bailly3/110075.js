@@ -1,0 +1,1 @@
+lar[110075]=`<i>dor. c</i>. οὗ, <i>gén. sg. masc. et neutre de</i> ὅς, ἥ, ὅ, THCR. <i>Idyl. 3, 11, etc</i>.`

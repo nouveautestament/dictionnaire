@@ -1,0 +1,1 @@
+lar[66024]=`<b>μισο·γύνης, ου</b> <font color="purple">[ῑῠ]</font> <i>adj. m</i>. qui hait les femmes, ennemi des femmes, HIÉRON. (ATH. <i>557e</i>) ; STR. <i>297</i> ; PLUT. <i>M. 403f</i>.<p><b>Étym</b>. μισέω, γυνή.`

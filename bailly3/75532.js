@@ -1,0 +1,1 @@
+lar[75532]=`<b>ας (ἡ)</b> caractère extraordinaire, étrangeté, STR. <i>36, etc</i>.<p><b>Étym</b>. παράδοξος.`

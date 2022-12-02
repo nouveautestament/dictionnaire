@@ -1,0 +1,1 @@
+lar[80601]=`<b>πλαδάω-ῶ</b> <font color="purple">[ᾰδ]</font><br><b>      1</b> être humide <i>ou</i> aqueux, A.RH. <i>2, 662</i>.<br><b>      2</b> <i>p. suite,</i> être mou, flasque, HPC. <i>Aër. 287, 288</i> ; ARSTT. <i>H.A. 3, 6, 2, etc</i>.<p>➳ <i>Part. prés. fém. épq</i>. πλαδόωσα, A.RH. <i>l. c</i>.<p><b>Étym</b>. πλάδη.`

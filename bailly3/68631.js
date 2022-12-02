@@ -1,0 +1,1 @@
+lar[68631]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. habitant <i>ou</i> originaire d’une île, insulaire, E. BYZ. <i>v°</i> νῆσος.<p><b>Étym</b>. νῆσος.`

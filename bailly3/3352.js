@@ -1,0 +1,1 @@
+lar[3352]=`<b>ἄ·κηπος, ος, ον</b>, sans jardin : κῆπος ἄ. NAZ. <i>Ep. 5, 5,</i> jardin qui n’en est pas un.<p><b>Étym</b>. ἀ, κῆπος.`

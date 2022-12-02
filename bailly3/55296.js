@@ -1,0 +1,1 @@
+lar[55296]=`<b>κηρόω-ῶ :<br>      1</b> enduire de cire, TRYPH. <i>Trop. p. 738</i>.<br><b>      2</b> joindre avec de la cire, LGS <i>2, 35</i>.<br><b><i>Moy.</i></b> façonner pour soi en cire, ANTH. <i>9, 226</i>.<p><b>Étym</b>. κηρός.`

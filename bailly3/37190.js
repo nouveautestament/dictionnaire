@@ -1,0 +1,1 @@
+lar[37190]=`<b>ἐπετειό·καυλος, ος, ον</b>, qui pousse une tige annuelle, TH. <i>H.P. 6, 2, 8</i>.<p><b>Étym</b>. ἐ. καυλός.`

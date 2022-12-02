@@ -1,0 +1,1 @@
+lar[81610]=`<b>ιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font><br><b>      1</b> habitante de la cité, citoyenne, SOPH. <i>El. 1227</i> ; EUR. <i>El. 1335</i> ; PLAT. <i>Leg. 814c ;</i> ARSTT. <i>Pol. 3, 2, 3, etc.</i><br><b>      2</b> protectrice de la cité, DIN. <i>98, 19</i>.<p><b>Étym</b>. <i>fém. de</i> πολίτης.`

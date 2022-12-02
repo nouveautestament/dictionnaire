@@ -1,0 +1,1 @@
+lar[93424]=`<b>συγ·κελεύω</b>, ordonner ensemble, en même temps, EUR. <i>I.A. 892</i> ; THC. <i>8, 31</i>.`

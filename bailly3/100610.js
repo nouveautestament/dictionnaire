@@ -1,0 +1,1 @@
+lar[100610]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> en trois, <i>càd</i>. en trois parties, HDT. <i>3, 39</i> ; PLAT. <i>Rsp. 564c, Leg. 683d, etc.</i> ; en trois groupes, XÉN. <i>An. 4, 8, 15 ; 5, 10, 16, etc.</i><br><b>      2</b> de trois manières, triplement, PLAT. <i>Crit. 51e ;</i> PLUT. <i>Flam. 4, Sert. 5, M. 720a, 745b</i>.<p><b>Étym</b>. τρίχα.`

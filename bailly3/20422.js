@@ -1,0 +1,1 @@
+lar[20422]=`<b>βου·κτασία, ας (ἡ)</b> <font color="purple">[τᾰ]</font> <i>c</i>. βοοκτασία, NAZ. <i>Epigr. 217</i>.`

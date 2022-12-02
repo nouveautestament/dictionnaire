@@ -1,0 +1,1 @@
+lar[85176]=`<b>προσ·αναρρήγνυμι :<br>      1</b> briser en outre, PLUT. <i>Crass. 25</i>.<br><b>      2</b> faire rompre, faire éclater, <i>acc</i>. PLUT. <i>Cleom. 30 ; fig</i>. PHIL. <i>2, 372</i>.`

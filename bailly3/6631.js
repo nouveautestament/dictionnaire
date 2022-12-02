@@ -1,0 +1,1 @@
+lar[6631]=`<b>εως (ἡ)</b> action de reconnaître, PLAT. <i>Theæt. 193c ;</i> ARSTT. <i>Poet. 6, 11</i>.<p><b>Étym</b>. ἀναγνωρίζω.`

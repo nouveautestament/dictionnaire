@@ -1,0 +1,1 @@
+lar[103294]=`<b>ὑπ·οιδέω-ῶ</b>, être un peu gonflé, HPC. <i>Coac. 137 ; 262, 11</i> ; EL. <i>V.H. 14, 7</i> ; PHILSTR. <i>Im. p. 807</i>.<p><b>Étym</b>. ὑ. οἰδέω, <i>ion. p</i>. οἰδάω.`

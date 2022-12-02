@@ -1,0 +1,1 @@
+lar[58068]=`<b>ωνος</b> <i>ou</i> <b>ονος (ὁ)</b> <font color="purple">[ῑ]</font> le fils de Kronos, <i>càd</i>. Zeus.<p>➳ <i>Gén</i>. -ίονος <font color="purple">[ῑ]</font> IL. <i>14, 247</i> ; OD. <i>11, 620</i>.`

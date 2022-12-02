@@ -1,0 +1,1 @@
+lar[64923]=`<b>μετα·ποροποιέω-ῶ</b>, modifier le système poreux d’une plante, DIOSC. <i>4, 157</i>.`

@@ -1,0 +1,1 @@
+lar[108844]=`<b>ατος (τὸ) :<br>      1</b> fourrage, PHYLARQ. (ATH. <i>607a</i>) ; POL. <i>9, 4, 3</i> ; DS. <i>20, 42</i>.<br><b>      2</b> <i>p. ext</i>. nourriture, NT. <i>Luc. 7, 11 ; Ap. 7, 11</i>.<p><b>Étym</b>. χορτάζω.`

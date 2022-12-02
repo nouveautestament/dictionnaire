@@ -1,0 +1,1 @@
+lar[14370]=`<b>ἀργυρο·χόος, όου (ὁ)</b> <font color="purple">[ῠ]</font> fondeur d’argent, SPT. <i>Sap. 15, 9</i>.<p><b>Étym</b>. ἄ. χέω.`

@@ -1,0 +1,1 @@
+lar[108997]=`<b>α, ον</b>, qui sert aux usages de la vie : τὰ χρηστήρια σκεύη, PLAT. COM. <i>2-2, 623 Mein.</i> ; STR. <i>604</i> ; ATH. <i>204f ; ou simpl</i>. τὰ χρηστήρια, POLL. <i>10, 11,</i> les meubles, les ustensiles.<p><b>Étym</b>. χράομαι.`

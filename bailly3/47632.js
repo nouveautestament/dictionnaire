@@ -1,0 +1,1 @@
+lar[47632]=`<b>ή, όν</b>, fragile, facile à briser, T. LOCR. <i>99c ;</i> TH. <i>H.P. 5, 3, 6</i>.<p><b>Étym</b>. <i>vb. de</i> θραύω.`

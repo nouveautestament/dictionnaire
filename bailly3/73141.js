@@ -1,0 +1,1 @@
+lar[73141]=`<b>Ὀρχαλίδης λόφος (ὁ)</b> la colline d’Orkhalos, <i>en Béotie,</i> PLUT. <i>Lys. 29</i>.`

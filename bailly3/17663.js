@@ -1,0 +1,1 @@
+lar[17663]=`<i>adv</i>., en face en personne, CLÉM. SYN. <i>etc</i>.`

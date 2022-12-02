@@ -1,0 +1,1 @@
+lar[43771]=`<b>εὔ·φυλλος, ος, ον</b>, aux belles feuilles <i>ou</i> au feuillage abondant, PD. <i>I. 5, 58</i> ; EUR. <i>I.T. 1246</i> ; ANTH. <i>7, 714</i>.<p><b>Étym</b>. εὖ, φύλλον.`

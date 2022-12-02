@@ -1,0 +1,1 @@
+lar[100783]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> semblable à un treuil, à une poulie, GAL. <i>12, 162</i> ; ORIB. <i>p. 158 Dund</i>.<p><b>Étym</b>. τροχίλος, -ωδης.`

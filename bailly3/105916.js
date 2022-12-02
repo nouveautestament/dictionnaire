@@ -1,0 +1,1 @@
+lar[105916]=`<b>φιλό·μαντις, εως (ὁ, ἡ)</b> <font color="purple">[φῐ]</font> qui aime les devins <i>ou</i> la divination, LUC. <i>Char. 11</i>.<p><b>Étym</b>. φ. μάντις.`

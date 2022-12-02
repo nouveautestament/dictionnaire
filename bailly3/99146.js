@@ -1,0 +1,1 @@
+lar[99146]=`<b>ῶν (αἱ)</b> petits flocons de laine, duvet, peluche, PLUT. <i>M. 722a</i>.<p><b>Étym</b>. τίλλω.`

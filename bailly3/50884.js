@@ -1,0 +1,1 @@
+lar[50884]=`<b>κακοτροπέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir un mauvais naturel, HPC. <i>606, 31</i>.<p><b>Étym</b>. κακότροπος.`

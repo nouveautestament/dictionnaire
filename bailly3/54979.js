@@ -1,0 +1,1 @@
+lar[54979]=`imiter le singe, <i>càd</i>. être rusé, fourbe, ZÉNOB. <i>4, 50</i>.<p><b>Étym</b>. κέρκωψ.`

@@ -1,0 +1,1 @@
+lar[17861]=`<b>ἄ·φαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> sans φάλος pour fixer l’aigrette, <i>d’où</i> sans aigrette (casque) IL. <i>10, 258 ; cf</i>. τετράφαλος, ἀμφίφαλος.`

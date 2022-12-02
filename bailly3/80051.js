@@ -1,0 +1,1 @@
+lar[80051]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> lieu où l’on pêche le thon πηλαμύς, STR. <i>545</i>.`

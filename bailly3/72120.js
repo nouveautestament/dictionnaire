@@ -1,0 +1,1 @@
+lar[72120]=`<b>ὀξυ·λιπὴς ἄρτος (ὁ)</b> <font color="purple">[ῠῑ]</font> sorte de pain mêlé de graisse et de vinaigre, GAL. <i>8, 5, 5</i>.<p><b>Étym</b>. ὀ. λίπος.`

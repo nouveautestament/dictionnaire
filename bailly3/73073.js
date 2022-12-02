@@ -1,0 +1,1 @@
+lar[73073]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> petite caille, EUP. <i>et</i> ANTIPH. (<i>Com. fr. 2, 512 ; 3, 4).</i><p><b>Étym</b>. <i>dim. de</i> ὄρτυξ.`

@@ -1,0 +1,1 @@
+lar[90184]=`<b>σιδηρόω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> fabriquer en fer, POSIDIPP. (ATH. <i>376f</i>) ; GEOP. <i>19, 2, 15</i>.<br><b>      2</b> munir de fer, LUC. <i>Pisc. 51 ; au pass</i>. THC. <i>4, 100</i>.<p><b>Étym</b>. σίδηρος.`

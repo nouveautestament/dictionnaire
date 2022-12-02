@@ -1,0 +1,1 @@
+lar[8743]=`<b>ἀνησι·δώρα, ας (ἡ)</b> celle qui produit (<i>litt</i>. qui fait germer) des présents (Dèmèter) PAUS. <i>1, 31, 4</i> ; PLUT. <i>M. 745a, etc. ; cf</i>. ἀνεισίδωρος.<p><b>Étym</b>. ἀνίημι, δῶρον.`

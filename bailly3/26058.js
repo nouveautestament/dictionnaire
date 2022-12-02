@@ -1,0 +1,1 @@
+lar[26058]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font> enfantement de jumeaux, ARSTT. <i>G.A. 4, 4, 38</i> ; NYSS. <i>1, 863b</i>.<p><b>Étym</b>. διδυμοτόκος.`

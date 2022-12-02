@@ -1,0 +1,1 @@
+lar[88527]=`<b>ῥιγο·πύρετος, ου (ὁ)</b> <font color="purple">[ῑῠ]</font> fièvre avec frisson, HERM. TRISM. <i>Iatr. 394, 36 ; 396, 5</i> ; PTOL. <i>Tetr. 115</i>.<p><b>Étym</b>. ῥ., πυρετός.`

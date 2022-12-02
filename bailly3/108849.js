@@ -1,0 +1,1 @@
+lar[108849]=`<b>ας (ἡ)</b> action d’aller au fourrage, POL. <i>18, 5, 1 ; 22, 22, 12, etc</i>.<p><b>Étym</b>. χορτολόγος.`

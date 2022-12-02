@@ -1,0 +1,1 @@
+lar[61746]=`<b>λοχῖτις ἐκκλησία (ἡ)</b> <font color="purple">[χῑ]</font> l’assemblée par centuries, <i>à Rome,</i> DH. <i>4, 20, etc</i>.<p><b>Étym</b>. <i>fém. de</i> λοχίτης.`

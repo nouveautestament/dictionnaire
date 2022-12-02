@@ -1,0 +1,1 @@
+lar[65255]=`<b>μετωπο·σώφρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui porte la sagesse empreinte sur son visage, ESCHL. <i>Suppl. 198 conj</i>.<p><b>Étym</b>. μ. σώφρων.`

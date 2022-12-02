@@ -1,0 +1,1 @@
+lar[16158]=`<b>ἄ·στειπτος, ος, ον</b>, non foulé, <i>d’où</i> non fréquenté, SOPH. <i>Ph. 2</i>.<p><b>Étym</b>. ἀ, στείβω.`

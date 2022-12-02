@@ -1,0 +1,1 @@
+lar[106694]=`<b>ου (ὁ)</b> Phormidès, <i>Athénien,</i> DÉM. <i>Or. 59, 123 Baiter-Sauppe</i>.`

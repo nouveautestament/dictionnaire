@@ -1,0 +1,1 @@
+lar[53916]=`<b>κατ·επινοέω-οῶ</b>, imaginer <i>ou</i> méditer contre, <i>gén</i>. BAS. <i>3, 418a</i>.`

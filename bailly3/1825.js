@@ -1,0 +1,1 @@
+lar[1825]=`<b>ἀερσι·πότητος, ος, ον</b> <font color="purple">[ῐ]</font> suspendu en l’air (l’araignée), HÉS. <i>O. 777</i>.`

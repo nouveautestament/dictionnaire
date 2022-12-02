@@ -1,0 +1,1 @@
+lar[107752]=`<b>χαμαι·γενής, ής, ές</b> <font color="purple">[ᾰ]</font> né de la terre, <i>ép. des hommes,</i> HH. <i>Ven. 108, Cer. 353</i> ; HÉS. <i>Th. 879</i> ; PD. <i>P. 4, 175 ; ou des fourmis,</i> NONN. <i>D. 13, 361</i>.<p><b>Étym</b>. χ. γένος.`

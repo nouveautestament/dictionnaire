@@ -1,0 +1,1 @@
+lar[74154]=`<b>ῶν (οἱ)</b> Pagourides, <i>pple imaginaire,</i> LUC. <i>V.H. 1, 35</i>.<p><b>Étym</b>. πάγουρος.`

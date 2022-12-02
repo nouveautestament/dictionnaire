@@ -1,0 +1,1 @@
+lar[101886]=`<b>ὑπ·αιάζω</b> <font color="purple">[ῠ]</font> répondre par des cris de douleur, des lamentations, ANTH. <i>9, 372</i>.`

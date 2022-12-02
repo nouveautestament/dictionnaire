@@ -1,0 +1,1 @@
+lar[84704]=`<b>Προ·μέδων, οντος (ὁ)</b> Promédôn, <i>h</i>. ARSTT. (PLUT. <i>Mul. virt. 17</i>).`

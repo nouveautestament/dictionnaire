@@ -1,0 +1,1 @@
+lar[100529]=`<b>έων (οἱ) :<br>      1</b> habitants de Tritæa (Τριταία). HDT. <i>1, 145</i> ; PLUT. <i>Cleom. 16 ; au sg</i>. Τριταιεύς, PLUT. <i>Arat. 11, etc.</i><br><b>      2</b> habitants de Tritées (Τριτέαι) THC. <i>3, 101 dout</i>.<p>➳ <i>Ion</i>. Τριταιέες, HDT. <i>l. c</i>.`

@@ -1,0 +1,1 @@
+lar[93588]=`<b>συγ·ξηραίνω</b>, faire sécher <i>ou</i> dessécher avec, GAL. <i>2, 19</i>.`

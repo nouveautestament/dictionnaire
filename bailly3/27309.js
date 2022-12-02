@@ -1,0 +1,1 @@
+lar[27309]=`<b>δι·ώροφος, ος, ον</b>, à deux étages (<i>litt</i>. dont le toit est au 2<sup>e</sup> étage), APP. <i>Lib. 95</i>.<p><b>Étym</b>. δίς, ὄροφος.`

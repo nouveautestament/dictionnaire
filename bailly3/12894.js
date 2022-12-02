@@ -1,0 +1,1 @@
+lar[12894]=`<b>ἀπο·μιμνῄσκομαι</b>, conserver le souvenir, <i>càd</i>. conserver reconnaissance <i>ou</i> garder rancune ; ἀπ. χάριν τινός, HÉS. <i>Th. 503,</i> conserver de la reconnaissance pour qqe ch. ; τινὶ χάριν ἀπ. THC. <i>1, 137, ou abs</i>. ἀπ. τινι, IL. <i>24, 428,</i> conserver de la reconnaissance à qqn.`

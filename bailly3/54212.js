@@ -1,0 +1,1 @@
+lar[54212]=`THCR. <i>Idyl. 5, 77, dor. c</i>. κατὰ τάδε, de cette manière.`

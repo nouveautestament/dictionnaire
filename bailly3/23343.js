@@ -1,0 +1,1 @@
+lar[23343]=`<b>Δαυλάντιον ἔθνος (τὸ)</b> le peuple des Daulantes, <i>en Illyrie,</i> NONN. <i>D. 44, 1</i>.`

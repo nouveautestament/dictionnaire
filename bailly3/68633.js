@@ -1,0 +1,1 @@
+lar[68633]=`<b>ου (ὁ)</b> Nèsikhos, <i>h</i>. PLUT. <i>Pyth. or. 27</i>.`

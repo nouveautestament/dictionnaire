@@ -1,0 +1,1 @@
+lar[38039]=`<b>ἐπι·κίχρημι</b> (<i>seul. ao</i>. ἐπέχρησα) prêter en outre, PLUT. <i>Pomp. 52</i>.`

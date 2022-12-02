@@ -1,0 +1,1 @@
+lar[49611]=`<b>ἰσό·γαιος, ος, ον</b> <font color="purple">[ῑ̆]</font> qui est au niveau de la terre, LUC. <i>Ner. 5</i>.<p><b>Étym</b>. ἴ. γαῖα.`

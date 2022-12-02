@@ -1,0 +1,1 @@
+lar[13516]=`<b>ἀπο·σχαλίδωμα, ατος (τὸ)</b> <font color="purple">[χᾰῐ]</font> bois fourchu supportant des filets à la chasse, XÉN. <i>Cyn. 10, 7</i>.<p><b>Étym</b>. ἀ. σχαλιδόω.`

@@ -1,0 +1,1 @@
+lar[157]=`<b>ἄ·βουλος, ος, ον :<br>      1</b> irréfléchi, imprudent, SOPH. <i>Ant. 1026</i>.<br><b>      2</b> indifférent à, <i>dat</i>. SOPH. <i>Tr. 139</i>.<br><b>      3</b> qui a de mauvais desseins, contraire <i>ou</i> hostile à, SOPH. <i>El. 546</i>.<p>•<i> Cp</i>. -ότερος, THC. <i>1, 120</i>.<p><b>Étym</b>. ἀ, βουλή.`

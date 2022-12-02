@@ -1,0 +1,1 @@
+lar[108733]=`<b>χολο·βάφινος, η, ον</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. χολόβαφος ARSTT. <i>Soph. el. 1, 2</i>.`

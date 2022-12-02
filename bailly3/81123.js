@@ -1,0 +1,1 @@
+lar[81123]=`<b>α, ον</b>, capable d’enrichir, PHIL. <i>1, 669</i>.<p><b>Étym</b>. πλουτίζω.`

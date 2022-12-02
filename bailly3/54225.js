@@ -1,0 +1,1 @@
+lar[54225]=`<b>κατώ·βλεπον, οντος (τὸ)</b> sorte de grande antilope d’Afrique, à grosse tête inclinée, <i>p.-ê</i>. gnou, EL. <i>N.A. 7, 5</i> ; A. MYND. (ATH. <i>221b</i>) (κάτω, βλέπω, <i>cf. lat</i>. catoblepas, PLIN. <i>H.N. 8, 21, 32</i>).`

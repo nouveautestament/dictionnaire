@@ -1,0 +1,1 @@
+lar[51286]=`<b>ας</b>, <i>adj. f</i>. élégante, coquette, PLUT. <i>M. 140b</i>.<p><b>Étym</b>. καλλωπίζω.`

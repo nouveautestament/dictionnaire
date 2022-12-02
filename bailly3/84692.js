@@ -1,0 +1,1 @@
+lar[84692]=`<b>πρό·μαστος, ος, ον</b>, au sein saillant, PORPH. (EUS. <i>P.E. 109a</i>).<p><b>Étym</b>. π. μαστός.`

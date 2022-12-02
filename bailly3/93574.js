@@ -1,0 +1,1 @@
+lar[93574]=`<b>ατος (τὸ)</b> <font color="purple">[κῠ]</font> rencontre fortuite, accident, événement, POL. <i>4, 86, 2</i> ; DH. <i>9, 38, etc</i>.<p><b>Étym</b>. συγκυρέω.`

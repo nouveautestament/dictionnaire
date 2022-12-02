@@ -1,0 +1,1 @@
+lar[5981]=`<font color="purple">[φᾰ]</font> <i>adv. c</i>. ἀμφαδά ARCHIL. <i>31</i>.`

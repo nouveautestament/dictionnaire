@@ -1,0 +1,1 @@
+lar[68808]=`<b>ης (ἡ)</b> Niobè :<br><b>      1</b> <i>fille de Tantale, femme d’Amphion,</i> A. PL. <i>132, etc.</i><br><b>      2</b> <i>fille de Phoronée,</i> PLAT. <i>Tim. 22b</i>.<p>➳ <i>Dor</i>. Νιόβα, SOPH. <i>El. 150</i> ; A. PL. <i>l. c. Dans une inscr. att</i>. Νιόπη, <i>v. Meisterh. p. 59 § 283</i>.`

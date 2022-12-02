@@ -1,0 +1,1 @@
+lar[18733]=`<i>adv</i>., jusqu’à la base, profondément, SIB. <i>5, 118</i>.<p><b>Étym</b>. βάθρον, -δον.`

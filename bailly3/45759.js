@@ -1,0 +1,1 @@
+lar[45759]=`<b>ἠπιο·δίνητος, ος, ον</b> <font color="purple">[δῑ]</font> tourné doucement, ANTH. <i>5, 250</i>.<p><b>Étym</b>. ἤπιος, δινέω.`

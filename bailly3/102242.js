@@ -1,0 +1,1 @@
+lar[102242]=`<b>ὑπέρ·αισχρος, ος, ον</b>, extrêmement laid <i>ou</i> honteux, XÉN. <i>Cyr. 2, 2, 28</i> ; PLUT. <i>M. 632a</i>.`

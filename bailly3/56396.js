@@ -1,0 +1,1 @@
+lar[56396]=`<b>ου</b>, <i>adj. m</i>. du dème Kothôkides, DÉM. <i>1369, 16, etc</i>.<p><b>Étym</b>. <i>v</i>. Κοθωκίδαι.`

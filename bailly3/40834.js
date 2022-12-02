@@ -1,0 +1,1 @@
+lar[40834]=`<b>ἐρυσιβόω-ῶ</b> <font color="purple">[ῠῑ]</font> nieller, gâter par la rouille, TH. <i>C.P. 3, 24</i>.<p><b>Étym</b>. ἐρυσίβη.`

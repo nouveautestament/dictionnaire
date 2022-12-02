@@ -1,0 +1,1 @@
+lar[82206]=`<b>πολυ·όφθαλμος, ος, ον :<br>      1</b> qui a beaucoup d’yeux, DS. <i>1, 11</i>.<br><b>      2</b> <i>p. anal</i>. qui a beaucoup de bourgeons, GEOP. <i>5, 8, 1</i> ; ἡ π. HPC. <i>Art. 830 ; autre n. de la plante</i> βούφθαλμον.<p><b>Étym</b>. π. ὀφθαλμός.`

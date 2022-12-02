@@ -1,0 +1,1 @@
+lar[60947]=`<b>ή, όν</b> <font color="purple">[ῐῠ]</font> du sud-ouest, PTOL. <i>Tetr. 184</i>.<p><b>Étym</b>. λίψ.`

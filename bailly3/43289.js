@@ -1,0 +1,1 @@
+lar[43289]=`<b>εὐρυ·κρείων, οντος</b>, <i>adj. m</i>. puissant au loin, <i>ép. d’Agamemnon,</i> IL. <i>1, 102, etc.</i> ; OD. <i>3, 248 ; de Poséidon,</i> IL. <i>11, 751</i>.<p><b>Étym</b>. εὐ. κρείων.`

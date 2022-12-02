@@ -1,0 +1,1 @@
+lar[53523]=`<b>κατα·σχολάζω :<br>      1</b> tarder, SOPH. <i>Ph. 128 ; d’où</i> perdre son temps, PLUT. <i>Tim. 36</i>.<br><b>      2</b> s’amuser aux dépens de, <i>gén</i>. MACH. (ATH. <i>581e</i>).`

@@ -1,0 +1,1 @@
+lar[13990]=`<i>adv</i>., sans adresser la parole, ES. <i>35 Halm</i>.<p><b>Étym</b>. ἀπροσφώνητος.`

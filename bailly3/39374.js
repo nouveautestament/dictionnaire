@@ -1,0 +1,1 @@
+lar[39374]=`<b>ἐπι·τερπής, ής, ές :<br>      1</b> agréable, charmant, HH. <i>Ap. 413</i> ; ἐπ. ἀκούειν, PLAT. <i>Phædr. 210d ;</i> ἐπ. ἰδεῖν, PLUT. <i>Rom. 16,</i> charmant à entendre, à voir.<br><b>      2</b> adonné au plaisir, PLUT. <i>Alc. 23</i>.<p><b>Étym</b>. ἐπιτέρπω.`

@@ -1,0 +1,1 @@
+lar[3273]=`<b>ἀ·κέρατος, ος, ον</b> <font color="purple">[ρᾰ]</font> sans cornes, PLAT. <i>Pol. 265c ;</i> ARSTT. <i>H.A. 2, 1, 51, etc</i>.<p><b>Étym</b>. ἀ, κέρας.`

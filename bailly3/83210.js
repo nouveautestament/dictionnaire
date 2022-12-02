@@ -1,0 +1,1 @@
+lar[83210]=`<b>ορος (ὁ)</b> = <i>lat</i>. prætor, préteur, <i>à Rome,</i> DC. <i>Fragm. 17, 13</i>.`

@@ -1,0 +1,1 @@
+lar[69258]=`<b>ΐδος (ἡ)</b> <i>autre n. du nombre neuf, c</i>. ἐννεάς, THEOL. <i>p. 58</i>.`

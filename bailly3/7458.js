@@ -1,0 +1,1 @@
+lar[7458]=`<b>ου (ὁ)</b> <font color="purple">[νᾱ]</font> Anapos :<br><b>      1</b> <i>fl. de Sicile (auj</i>. Anapo) THC. <i>6, 96 ; 7, 78</i> ; THCR. <i>Idyl. 1, 68 ; 7, 151</i>.<br><b>      2</b> <i>fl. d’Acarnanie,</i> THC. <i>2, 82</i>.<p>➳ <i>Gén. dor</i>. -ω, THCR. <i>Idyl. ll. cc</i>.`

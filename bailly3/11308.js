@@ -1,0 +1,1 @@
+lar[11308]=`<i>adv</i>., sans pouvoir être détourné, HIÉROCL. <i>C. aur. 431 Mullach</i>.`

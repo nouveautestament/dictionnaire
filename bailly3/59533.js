@@ -1,0 +1,1 @@
+lar[59533]=`<i>adv</i>., avec voracité, avec gloutonnerie, NYSS. <i>1, 381 ; fig</i>. NYSS. <i>2, 121</i>.`

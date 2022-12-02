@@ -1,0 +1,1 @@
+lar[28813]=`<b>δυσπιστέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -ήσουσι)</font> croire difficilement, <i>dat</i>. PLUT. <i>M. 593a</i>.<p><b>Étym</b>. δύσπιστος.`

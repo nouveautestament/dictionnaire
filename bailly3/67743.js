@@ -1,0 +1,1 @@
+lar[67743]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> victoire <i>ou</i> domination sur mer, AND. (PHOT. <i>p. 288, 23</i>) ; DC. <i>49, 7 ; 51, 21 ; 53, 27</i>.<p><b>Étym</b>. ναυκράτης.`

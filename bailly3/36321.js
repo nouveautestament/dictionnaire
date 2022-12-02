@@ -1,0 +1,1 @@
+lar[36321]=`<b>ή, όν</b>, du dehors, extérieur, EPICT. <i>Ench. 33, 6 (var</i>.) ; PORPH. <i>Abst. 311, etc</i>.<p><b>Étym</b>. ἔξω.`

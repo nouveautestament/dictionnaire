@@ -1,0 +1,1 @@
+lar[69112]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. νυκτερινός TH. <i>C.P. 2, 6, 1</i>.`

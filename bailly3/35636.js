@@ -1,0 +1,1 @@
+lar[35636]=`<b>ἑξά·στυλος, ος, ον</b> <font color="purple">[ῡ]</font> à six colonnes, VITR. <i>3, 1</i>.<p><b>Étym</b>. ἕξ, στῦλος.`

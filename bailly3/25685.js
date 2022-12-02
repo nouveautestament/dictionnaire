@@ -1,0 +1,1 @@
+lar[25685]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> <i>c</i>. διασχίς ATH. <i>488e ;</i> THÉM. <i>289, 12</i>.<p><b>Étym</b>. διασχίζω.`

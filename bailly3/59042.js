@@ -1,0 +1,1 @@
+lar[59042]=`<b>ου (ἡ)</b> Kytôros (<i>auj</i>. Gideros) <i>v. de Paphlagonie,</i> IL. <i>2, 853</i>.<p>➳ ὁ Κ. A.RH. <i>2, 942</i>.`

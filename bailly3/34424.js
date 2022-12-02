@@ -1,0 +1,1 @@
+lar[34424]=`<b>ἐν·εύχομαι</b>, faire des vœux dans <i>ou</i> pendant, SYN. <i>Ep. 67, 1413b Migne</i>.`

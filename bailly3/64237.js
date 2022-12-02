@@ -1,0 +1,1 @@
+lar[64237]=`<i>adv</i>., selon la mesure, LUC. <i>Salt. 67</i>.<p><b>Étym</b>. μετρέω.`

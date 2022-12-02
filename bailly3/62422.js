@@ -1,0 +1,1 @@
+lar[62422]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> félicité, PLAT. <i>Leg. 661b, Ep. 327c</i>.<p><b>Étym</b>. μακάριος.`

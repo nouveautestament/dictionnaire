@@ -1,0 +1,1 @@
+lar[10536]=`<b>ἀντι·φαίνω</b>, reproduire <i>ou</i> réfléchir une image, TH. <i>Sens. 26</i>.`

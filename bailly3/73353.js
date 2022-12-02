@@ -1,0 +1,1 @@
+lar[73353]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> douleur de reins, lumbago, HPC. <i>219d</i>.<p><b>Étym</b>. ὀσφυαλγής.`

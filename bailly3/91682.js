@@ -1,0 +1,1 @@
+lar[91682]=`<b>ου (ὁ)</b> Sophônidès, <i>h</i>. EL. <i>V.H. 2, 43, etc</i>.<p><b>Étym</b>. <i>patr. de</i> *Σόφων, <i>de</i> σοφός.`

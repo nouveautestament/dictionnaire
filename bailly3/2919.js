@@ -1,0 +1,1 @@
+lar[2919]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> Æskhylis, <i>f</i>. ANTH. <i>6, 150</i>.`

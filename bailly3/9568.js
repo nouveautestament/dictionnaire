@@ -1,0 +1,1 @@
+lar[9568]=`<b>ἀντ·εκπέμπω</b>, envoyer à son tour, mettre de son côté en campagne, XÉN. <i>Hell. 4, 8, 25</i>.`

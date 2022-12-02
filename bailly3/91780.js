@@ -1,0 +1,1 @@
+lar[91780]=`<i>non</i> <b>Σπάρτακος, ου (ὁ)</b> Spartokos, <i>Thrace,</i> THC. <i>2, 101</i>.<p>➳ <i>Sur l’écriture</i> Σπάρτοκος <i>dans les inscr. att. v. Meisterh. p. 17, 1 ; 31, 5</i>.`

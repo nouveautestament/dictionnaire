@@ -1,0 +1,1 @@
+lar[108569]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> mou, efféminé, ESCHL. <i>Pers. 544 ; en prose réc</i>. PLUT. <i>Alc. 23</i>.<p><b>Étym</b>. χλιδή.`

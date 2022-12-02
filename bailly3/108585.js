@@ -1,0 +1,1 @@
+lar[108585]=`<b>      1</b> germer, <i>en parl. de jeunes pousses,</i> ARSTT. <i>Plant. 1, 1, 5 ; 1, 5, 10</i> ; NIC. <i>Th. 576</i> ; PLUT. <i>M. 517d.</i><br><b>      2</b> être d’un vert tendre <i>ou</i> d’un jaune pâle, comme de jeunes pousses, ARSTT. <i>Plant. 2, 8, 1 ; Mir. 164, etc</i>.<p><b>Étym</b>. χλόη.`

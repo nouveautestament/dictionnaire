@@ -1,0 +1,1 @@
+lar[3195]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans pouvoir être dissous, CHRYS.`

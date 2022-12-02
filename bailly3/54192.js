@@ -1,0 +1,1 @@
+lar[54192]=`<b>κατ·ουρίζω :<br>      1</b> pousser à l’aide d’un vent favorable, <i>d’où</i> faire aborder, ESCHL. <i>Pr. 965 (conj</i>. κατουρίσας, <i>Gottfried Hermann, Æschyli Tragœdiae, 1852 p</i>. καθωρμίσας, <i>v</i>. καθορμίζω).<br><b>      2</b> être poussé par un vent favorable, <i>d’où fig</i>. avoir un heureux succès, SOPH. <i>Tr. 827</i>.<p><b>Étym</b>. κ. οὖρος.`

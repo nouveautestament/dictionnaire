@@ -1,0 +1,1 @@
+lar[59835]=`<b>λαο·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> <i>litt</i>. qui porte le peuple : λ. ὁδός, IL. <i>15, 682, ou</i> λ. κέλευθος, THCR. <i>Idyl. 25, 155,</i> route <i>ou</i> chemin fréquenté.<p><b>Étym</b>. λ. φέρω ; <i>cf</i>. λεωφόρος.`

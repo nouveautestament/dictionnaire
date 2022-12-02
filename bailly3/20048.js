@@ -1,0 +1,1 @@
+lar[20048]=`<b>ου</b> <i>ou</i> <b>βοηθός, οῦ (ὁ)</b> Boèthos, <i>h</i>. AND. STR. ANTH. <i>etc</i>.<p><b>Étym</b>. <i>v</i>. βοηθός.`

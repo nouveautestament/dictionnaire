@@ -1,0 +1,1 @@
+lar[97255]=`<b>Σωσί·νομος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Sôsinomos, <i>h</i>. LYS. <i>fr. 1</i> ; DÉM. <i>36, 50 Baiter-Sauppe</i>.<p><b>Étym</b>. σῴζω, νόμος.`

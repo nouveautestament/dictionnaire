@@ -1,0 +1,1 @@
+lar[89162]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰκ]</font> affectation de grands airs, faste, ostentation, ARSTT. <i>M. mor. 1, 27, 1</i> ; ATH. <i>691e</i> (<i>var</i>. -ία) ; ALCIPHR. <i>2, 3 (var</i>. -ία).<p><b>Étym</b>. σαλάκων.`

@@ -1,0 +1,1 @@
+lar[49371]=`<b>Ἱππό·λεω ἄκρη (ἡ)</b> le promontoire d’Hippoléôs, <i>en Sarmatie,</i> HDT. <i>4, 53</i>.<p><b>Étym</b>. ἵ. λεώς.`

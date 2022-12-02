@@ -1,0 +1,1 @@
+lar[43084]=`<b>ας (ἡ)</b> heureux sort, bonheur, PROTAG. (PLUT. <i>M. 118e</i>) ; PLUT. <i>Arist. 21</i> ; LUC. <i>D. deor. 15, 1</i> ; EL. <i>N.A. 11, 40</i>.<p><b>Étym</b>. εὔποτμος.`

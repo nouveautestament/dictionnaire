@@ -1,0 +1,1 @@
+lar[17340]=`<b>ου (ὁ)</b> <i>sorte de pierre précieuse,</i> PLIN. <i>H.N. 37, 54 dout</i>.<p><b>Étym</b>. <i>correct</i>. αἰθαχάτης, <i>litt</i>. « agate qui brûle » <i>et qui, en brûlant, répand une odeur de myrrhe ; v. Georges, Lateinisch Handwörterbuch v°</i> ætăchātes.`

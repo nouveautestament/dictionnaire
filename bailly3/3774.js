@@ -1,0 +1,1 @@
+lar[3774]=`<font color="purple">[ῐ]</font> <i>adv</i>., superficiellement, légèrement, DIOSC. <i>2, 105</i>.<p><b>Étym</b>. ἀκροθιγής.`

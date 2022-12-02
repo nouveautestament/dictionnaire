@@ -1,0 +1,1 @@
+lar[20192]=`<b>βοο·σσόος, ος, ον</b>, qui aiguillonne les bœufs, Q. SM. <i>5, 64</i> ; NONN. <i>D. 4, 31, etc</i>.<p><b>Étym</b>. βοῦς, σεύω ; <i>cf</i>. βουσσόος.`

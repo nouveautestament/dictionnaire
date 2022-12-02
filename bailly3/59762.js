@@ -1,0 +1,1 @@
+lar[59762]=`<font color="purple">[ᾰῠ]</font> <i>adv</i>., avec hardiesse, pétulance <i>ou</i> effronterie, SYN. <i>36b</i>.<p>•<i> Cp</i>. -ώτερον, XÉN. <i>Conv. 8, 24</i>.`

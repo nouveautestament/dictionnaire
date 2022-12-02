@@ -1,0 +1,1 @@
+lar[24968]=`<b>ου (ὁ)</b> entretien, dialogue, PLAT. <i>Prot. 335d, etc.</i> ; ARSTT. <i>An. post. 1, 12, 8, etc</i>.<p><b>Étym</b>. διαλέγω.`

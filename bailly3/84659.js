@@ -1,0 +1,1 @@
+lar[84659]=`<b>πρό·λοβος, ου (ὁ)</b> jabot d’un oiseau, ARSTT. <i>H.A. 2, 17, 28, etc</i>.<p><b>Étym</b>. π. λοβός.`

@@ -1,0 +1,1 @@
+lar[7309]=`<b>ἀναξι·φόρμιγξ, ιγγος (ὁ, ἡ)</b> <font color="purple">[ξῐ]</font> roi de la lyre, PD. <i>O. 2, 1</i>.<p><b>Étym</b>. ἄναξ, φ.`

@@ -1,0 +1,1 @@
+lar[6725]=`<b>ή, όν :<br>      1</b> propre à distribuer, qui distribue, <i>gén</i>. CORN. <i>161</i>.<br><b>      2</b> qui favorise la digestion, GAL. <i>6, 416</i>.<p><b>Étym</b>. ἀναδίδωμι.`

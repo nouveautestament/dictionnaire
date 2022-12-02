@@ -1,0 +1,1 @@
+lar[70915]=`<b>ὀλβιό·φρουρος, ος, ον</b>, qui assure <i>ou</i> conserve le bonheur, J. GEORG. <i>Hymn. 3, 53</i>.<p><b>Étym</b>. ὄ. φρουρέω.`

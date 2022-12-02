@@ -1,0 +1,1 @@
+lar[106134]=`<b>φιλο·τέχνης, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. φιλότεχνος, POLÉM. <i>Physiogn. 1, 6, p. 229</i>.`

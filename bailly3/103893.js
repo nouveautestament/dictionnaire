@@ -1,0 +1,1 @@
+lar[103893]=`<b>ῆς (ἡ)</b> virgule (<i>litt</i>. sous-ponctuation, <i>p. opp. au point</i>) D. THR. <i>p. 7 et 8 Uhlig</i> ; ARCAD. <i>p. 189</i> ; QUINT. <i>11, 3, 35</i>.<p><b>Étym</b>. ὑποστίζω.`

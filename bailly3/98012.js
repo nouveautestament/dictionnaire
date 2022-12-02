@@ -1,0 +1,1 @@
+lar[98012]=`<b>όεσσα, όεν</b>, entouré de murs, de remparts, IL. <i>2, 559, 646</i>.<p><b>Étym</b>. τεῖχος ; <i>cf</i>. Τειχιοῦσσα.`

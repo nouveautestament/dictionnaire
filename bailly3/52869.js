@@ -1,0 +1,1 @@
+lar[52869]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de baisser les yeux, PLUT. <i>Cam. 6</i> ; DYSC. <i>Synt. 287, 28</i>.<p><b>Étym</b>. καταμύω.`

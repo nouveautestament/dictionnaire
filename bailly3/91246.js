@@ -1,0 +1,1 @@
+lar[91246]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> méprisé, méprisable, TIMOCR. (PLUT. <i>Them. 21, 3 vulg.</i> ; σκυβαλικτός <i>conj</i>.).<p><b>Étym</b>. σκύβαλον.`

@@ -1,0 +1,1 @@
+lar[83735]=`<b>προ·αύξω</b>, faire croître avant le temps <i>ou</i> auparavant, HPC. <i>1006c ; au pass</i>. grandir <i>ou</i> se développer avant l’âge, TH. <i>C.P. 4, 10, 2 vulg</i>.`

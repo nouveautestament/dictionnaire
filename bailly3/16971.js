@@ -1,0 +1,1 @@
+lar[16971]=`<b>ας (ἡ)</b> manque d’habitude, inexpérience, CIC. <i>Att. 13, 16</i>.<p><b>Étym</b>. ἄτριπτος.`

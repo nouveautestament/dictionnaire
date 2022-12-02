@@ -1,0 +1,1 @@
+lar[51489]=`<b>ᾶ (ὁ)</b> <font color="purple">[ᾰᾰᾱ]</font> Kanakhas, <i>h</i>. A. PL. <i>220</i>.`

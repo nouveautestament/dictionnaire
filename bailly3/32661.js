@@ -1,0 +1,1 @@
+lar[32661]=`<b>ἑλειό·τροφος, ος, ον</b>, qui croît (<i>litt</i>. qui se nourrit) dans les marais <i>ou</i> les marécages, ARCHESTR. (ATH. <i>305f</i>).<p><b>Étym</b>. ἕλειος, τρέφω.`

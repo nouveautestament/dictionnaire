@@ -1,0 +1,1 @@
+lar[108645]=`<b>ης, ες :<br>      1</b> couvert de duvet, EMPÉD. (GAL. <i>3, 101</i>) ; TH. <i>H.P. 1, 10, 3</i> ; DIOSC. <i>4, 69 et 150</i>.<br><b>      2</b> vaporeux, couvert, brumeux, <i>p. opp. à</i> λαμπρός, <i>en parlant de l’air,</i> HPC. <i>Aër. 290</i>.<p><b>Étym</b>. χνόος, -ωδης.`

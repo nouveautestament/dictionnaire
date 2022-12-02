@@ -1,0 +1,1 @@
+lar[98568]=`<b>τετρά·ζυγος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> attelé de quatre chevaux, EUR. <i>Hel. 1039</i>.<br><b>      2</b> quadruple, NONN. <i>D. 12, 108</i>.<p><b>Étym</b>. τ. ζυγόν.`

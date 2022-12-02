@@ -1,0 +1,1 @@
+lar[105701]=`<b>φιλο·βάσκανος, ος, ον</b> <font color="purple">[ῐκᾰ]</font> envieux, jaloux, PROCL. <i>Ptol. 226</i>.`

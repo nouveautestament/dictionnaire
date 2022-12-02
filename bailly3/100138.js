@@ -1,0 +1,1 @@
+lar[100138]=`<b>ου (τὸ)</b> <font color="purple">[ῐβ]</font><br><b>      1</b> petit manteau grossier, vêtement misérable, AR. <i>Vesp. 33, 116 ; Pl. 714, etc.</i> ; IS. <i>51, 33</i> ; LYS. <i>903, 5</i> ; LUC. <i>D. mort. 1, 2 ; Philopatr. 21</i>.<br><b>      2</b> surtout qu’on porte d’habitude, <i>p. opp</i>. au manteau de guerre, THÉM.<p><b>Étym</b>. <i>dim. de</i> τρίβων.`

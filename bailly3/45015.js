@@ -1,0 +1,1 @@
+lar[45015]=`<b>ἡδυ·παθής, ής, ές</b> <font color="purple">[ῠᾰ]</font> qui se livre au plaisir, sensuel, mou, ANTIPH. (ATH. <i>526d</i>) ; ATH. <i>545a</i>.<p><b>Étym</b>. ἡ. πάθος.`

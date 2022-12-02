@@ -1,0 +1,1 @@
+lar[47555]=`<b>ή, όν</b> <font color="purple">[ᾱῑτ]</font> qui concerne les rameurs du banc supérieur, ATH. <i>203f</i>.<p><b>Étym</b>. θρανίτης.`

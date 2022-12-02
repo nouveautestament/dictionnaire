@@ -1,0 +1,1 @@
+lar[8923]=`<b>ου (τὸ)</b> <font color="purple">[ᾰρ]</font> petit homme, AR. <i>Pl. 416</i>.<p><b>Étym</b>. ἄνθρωπος.`

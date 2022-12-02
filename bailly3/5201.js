@@ -1,0 +1,1 @@
+lar[5201]=`<b>ων (οἱ)</b> <font color="purple">[ᾰμ]</font> les Amantes, <i>pple de Pannonie,</i> LYC. <i>1043</i>.`

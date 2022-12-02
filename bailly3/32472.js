@@ -1,0 +1,1 @@
+lar[32472]=`<b>ἐλαιο·στάφυλος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> plant de vigne greffé sur un olivier, GEOP. <i>9, 14</i>.<p><b>Étym</b>. ἐλαία, σταφυλή.`

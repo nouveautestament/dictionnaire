@@ -1,0 +1,1 @@
+lar[87920]=`<b>πυρί·φλεκτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> brûlé par le feu, ESCHL. <i>fr. 167 Dind.</i> ; EUR. <i>Ion 195</i>.<br><b>      2</b> frisé au feu, ANTH. <i>11, 66</i>.<br><b>      3</b> <i>fig</i>. ardent, ANTH. <i>12, 151</i>.<p><b>Étym</b>. π. <i>vb. de</i> φλέγω.`

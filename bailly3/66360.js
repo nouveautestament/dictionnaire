@@ -1,0 +1,1 @@
+lar[66360]=`<b>μολίβεος-οῦς, έα-ῆ, εον-οῦν</b> <font color="purple">[ῐ]</font> de plomb, DS. <i>2, 10</i>.<p><b>Étym</b>. μόλιβος.`

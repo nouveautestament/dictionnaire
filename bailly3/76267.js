@@ -1,0 +1,1 @@
+lar[76267]=`<b>παρα·συγγραφέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -ήσω, <i>pf</i>. -συγγεγράφηκα)</font> <font color="purple">[ᾰφ]</font> violer une convention écrite : τινα, DÉM. <i>1291, 17 ; 1293, 7,</i> envers qqn.<p><b>Étym</b>. π. συγγράφω.`

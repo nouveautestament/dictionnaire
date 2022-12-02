@@ -1,0 +1,1 @@
+lar[27610]=`<b>α, ον</b> <font color="purple">[ᾰδ]</font> de chevreuil, POL. <i>26, 10, 9</i> ; A. TR. <i>523</i>.<p>➳ δορκάδεοι, CIA. <i>2, 766, 23 (après 341 av. J.-C.)</i>.<p><b>Étym</b>. δορκάς.`

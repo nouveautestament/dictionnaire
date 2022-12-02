@@ -1,0 +1,1 @@
+lar[62524]=`<b>μακρό·κεντρος, ος, ον</b>, muni d’un long aiguillon, ARSTT. <i>H.A. 4, 7, 7</i>.<p><b>Étym</b>. μ. κέντρον.`

@@ -1,0 +1,1 @@
+lar[8185]=`<b>ἀν·εικάζομαι</b> <font color="darkgreen">(<i>inf. ao. moy</i>. -άσασθαι)</font> se moquer de, contrefaire, CRAT. <i>fr. 61</i>.<p><b>Étym</b>. ἀνά, εἰκάζω.`

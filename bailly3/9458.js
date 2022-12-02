@@ -1,0 +1,1 @@
+lar[9458]=`<b>ἀντ·αναπληρόω-ῶ :<br>      1</b> compléter en échange, <i>d’où</i> substituer, DYSC. <i>Synt. p. 14</i>.<br><b>      2</b> mettre en balance : πρὸς τὸν εὐπορώτατον τοὺς ἀπορωτάτους, DÉM. <i>182, 22,</i> contrebalancer les plus riches par les plus pauvres.`

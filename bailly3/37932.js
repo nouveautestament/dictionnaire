@@ -1,0 +1,1 @@
+lar[37932]=`<b>ἐπι·καταλλαγή, ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> droit de change, escompte, TH. <i>Char. 30</i>.<p><b>Étym</b>. ἐπί, καταλλάσσω.`

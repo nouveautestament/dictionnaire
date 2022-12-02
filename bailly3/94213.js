@@ -1,0 +1,1 @@
+lar[94213]=`<b>συμ·περισύρω</b> <font color="purple">[ῡρ]</font> traîner en même temps à terre autour, NYSS.`

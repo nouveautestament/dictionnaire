@@ -1,0 +1,1 @@
+lar[33284]=`<b>ῆς (ἡ)</b> persévérance dans, <i>gén</i>. PLAT. <i>Gorg. 479d</i>.<p><b>Étym</b>. ἐμμένω.`

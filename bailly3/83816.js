@@ -1,0 +1,1 @@
+lar[83816]=`<b>ος, ον</b>, qu’on présente en avant, qu’on oppose, THCR. <i>Idyl. 24, 123 ; subst</i>. ὁ πρ. (<i>s.-e</i>. ἄκων) ORACL. (HDT. <i>7, 148</i>) épieu <i>ou</i> javeline en arrêt ; <i>cf</i>. πρόβολος.<p><b>Étym</b>. προβολή.`

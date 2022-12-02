@@ -1,0 +1,1 @@
+lar[25944]=`<b>εως (ἡ)</b> sécrétion, selle, HPC. <i>217b ; 400, 16</i> ; ARSTT. <i>P.A. 3, 14, 15 ; etc</i>.<p><b>Étym</b>. διαχωρέω.`

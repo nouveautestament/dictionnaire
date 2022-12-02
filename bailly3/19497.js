@@ -1,0 +1,1 @@
+lar[19497]=`<b>(ὁ)</b> Bélittas, <i>Scythe,</i> LUC.`

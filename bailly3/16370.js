@@ -1,0 +1,1 @@
+lar[16370]=`<b>(ὁ)</b> <font color="purple">[ᾰτ]</font> Astykratidas, <i>h</i>. PLUT.<p><b>Étym</b>. <i>patr. dor. de</i> Ἀστυκράτης.`

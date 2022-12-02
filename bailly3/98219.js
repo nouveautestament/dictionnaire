@@ -1,0 +1,1 @@
+lar[98219]=`<b>ῶν (οἱ)</b> les Telliades, <i>famille célèbre de devins éléens,</i> HDT. <i>9, 37</i>.<p><b>Étym</b>. <i>patr. de</i> Τελλίας.`

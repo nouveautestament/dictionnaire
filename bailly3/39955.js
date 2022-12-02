@@ -1,0 +1,1 @@
+lar[39955]=`<i>seul. neutre</i> ἑπτάετες, <i>adv</i>., pendant sept ans, OD. <i>3, 305 ; 7, 259</i>.<p><b>Étym</b>. ἑ. ἔτος.`

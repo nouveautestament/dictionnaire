@@ -1,0 +1,1 @@
+lar[39657]=`<b>ἐπι·χαρίζομαι</b> <font color="purple">[ᾰ]</font> accorder avec complaisance, <i>acc</i>. XÉN. <i>Eq. 6, 12 ; abs</i>. être complaisant pour, <i>dat</i>. DL. <i>10, 121</i>.<p>➳ <i>Impér. ao. dor. ou béot. 2 sg</i>. κἠπιχάριτται <font color="purple">[ᾰ]</font> = καὶ ἐπιχάρι(σ)σαι, AR. <i>Ach. 884</i>.`

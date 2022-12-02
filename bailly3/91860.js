@@ -1,0 +1,1 @@
+lar[91860]=`<b>ας (ἡ)</b> bouffonnerie de parasite, PLUT. <i>Alc. 36, M. 65b, etc</i>.<p><b>Étym</b>. σπερμολόγος.`

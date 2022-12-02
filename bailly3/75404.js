@@ -1,0 +1,1 @@
+lar[75404]=`<b>ῆτος (ὁ, ἡ)</b> : νόου, MAN. <i>6, 560,</i> qui a l’esprit frappé, égaré.<p><b>Étym</b>. παραβάλλω.`

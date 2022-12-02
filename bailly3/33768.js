@@ -1,0 +1,1 @@
+lar[33768]=`<b>ἐν·αγγειο·σπέρματος, ος, ον</b> <font color="purple">[μᾰ]</font> dont les graines sont enfermées dans des capsules, TH. <i>H.P. 1, 11, 3</i>.<p><b>Étym</b>. ἐν, ἀγγεῖον, σπέρμα.`

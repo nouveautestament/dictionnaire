@@ -1,0 +1,1 @@
+lar[95552]=`<b>συν·εξυγραίνω</b>, humecter ensemble, PLUT. <i>M. 752d</i>.`

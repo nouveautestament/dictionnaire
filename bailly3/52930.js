@@ -1,0 +1,1 @@
+lar[52930]=`<b>κατα·νομοθετέω-ῶ</b>, porter une loi, PLAT. <i>Leg. 861b</i>.`

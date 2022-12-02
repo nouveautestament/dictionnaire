@@ -1,0 +1,1 @@
+lar[97184]=`<b>σωματο·κάπηλος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> marchand d’esclaves, CHRYS.<p><b>Étym</b>. σῶμα, κάπηλος.`

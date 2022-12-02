@@ -1,0 +1,1 @@
+lar[91545]=`<b>ιγγος (ἡ)</b> tumeur provenant d’une contusion, contusion, IL. <i>2, 267 ; 23, 716</i> ; LYC. <i>783</i> ; NIC. <i>Al. 558</i> ; OPP. <i>H. 2, 428</i>.`

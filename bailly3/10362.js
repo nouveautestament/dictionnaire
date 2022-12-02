@@ -1,0 +1,1 @@
+lar[10362]=`<b>ἀντι·ρραπίζω</b> <font color="darkgreen">(<i>ao</i>. ἀντερράπισα)</font> <font color="purple">[ᾰπ]</font> frapper à son tour, CHRYS. <i>1, 571</i>.<p><b>Étym</b>. ἀ. ῥαπίζω.`

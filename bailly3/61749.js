@@ -1,0 +1,1 @@
+lar[61749]=`<b>ος, ον</b>, de taillis, ANTH. <i>6, 32</i> ; τὰ λόχμια, LUC. <i>Philopatr. 12,</i> les taillis.<p><b>Étym</b>. λόχμη.`

@@ -1,0 +1,1 @@
+lar[54730]=`<i>adv</i>., comme un centaure, grossièrement, brutalement, AR. <i>Ran. 38</i>.`

@@ -1,0 +1,1 @@
+lar[39307]=`<b>ας (ἡ)</b> action d’entasser, accumulation, NICOM. <i>Arithm. 127</i>.<p><b>Étym</b>. ἐπισωρεύω.`

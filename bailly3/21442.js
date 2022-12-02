@@ -1,0 +1,1 @@
+lar[21442]=`<b>ης, ες :<br>      1</b> ventru, AR. <i>Pl. 560</i>.<br><b>      2</b> gonflé, enflé en forme de panse, HPC. <i>20, 40</i>.<p><b>Étym</b>. γαστήρ, -ωδης.`

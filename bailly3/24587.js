@@ -1,0 +1,1 @@
+lar[24587]=`<b>ου (ὁ)</b> lieu par où l’on passe (<i>litt</i>. par où l’on court), passage, LUC. <i>Hipp. 6</i>.<p><b>Étym</b>. διαδραμεῖν.`

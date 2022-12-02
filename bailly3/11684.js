@@ -1,0 +1,1 @@
+lar[11684]=`<b>ἀπεμέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -έσω, <i>ao</i>. ἀπήμεσα)</font> vomir, rejeter, IL. <i>14, 437</i> ; OPP. <i>H. 1, 560</i> ; ARR. <i>Cyn. 9, 1</i> ; LUC. <i>Charid. 7</i> ; GAL. <i>14, 163, etc</i>.<p>➳ <i>Ao. 3 sg. épq</i>. ἀπέμεσσεν, IL. <i>l. c</i>.`

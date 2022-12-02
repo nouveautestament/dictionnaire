@@ -1,0 +1,1 @@
+lar[26287]=`<b>δι·ερύκω</b> (<i>part. prés</i>. -ων) <font color="purple">[ῡκ]</font> séparer, <i>d’où</i> arrêter, PLUT. <i>Lyc. 2</i>.`

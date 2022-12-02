@@ -1,0 +1,1 @@
+lar[71378]=`<b>ας (ἡ) :<br>      1</b> action de donner en otage <i>ou</i> en garantie, gage de sûreté <i>ou</i> d’amitié, THC. <i>8, 45</i> ; PLAT. <i>Pol. 310e ;</i> POL. <i>9, 11, 10, etc.</i><br><b>      2</b> condition d’otage, DS. <i>19, 75</i>.<p><b>Étym</b>. ὅμηρος.`

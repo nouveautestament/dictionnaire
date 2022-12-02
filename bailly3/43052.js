@@ -1,0 +1,1 @@
+lar[43052]=`<b>εὔ·πλωτος, ος, ον</b>, propre à une bonne navigation ; ANTH. <i>10, 25</i>.<p><b>Étym</b>. εὖ, πλώω.`

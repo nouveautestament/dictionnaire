@@ -1,0 +1,1 @@
+lar[53378]=`<b>κατά·σκοτος, ος, ον</b>, qui est dans l’obscurité, EPICH. (ATH. <i>236a</i>).<p><b>Étym</b>. κ. σκότος.`

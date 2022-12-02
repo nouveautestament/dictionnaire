@@ -1,0 +1,1 @@
+lar[2327]=`<i>adv.</i> :<br><b>      1</b> en langue égyptienne, HDT. <i>2, 46</i> ; PLAT. <i>Tim. 21e.</i><br><b>      2</b> en Égyptien, <i>càd</i>. en fourbe, THCR. <i>Idyl. 15, 48</i>.`

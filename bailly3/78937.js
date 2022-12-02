@@ -1,0 +1,1 @@
+lar[78937]=`<b>περι·μοχθέω-ῶ</b>, souffrir cruellement pour, <i>dat</i>. OPP. <i>H. 4, 258</i>.`

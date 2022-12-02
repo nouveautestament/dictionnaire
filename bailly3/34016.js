@@ -1,0 +1,1 @@
+lar[34016]=`<b>ἔν·αρθρος, ος, ον :<br>      1</b> articulé, composé d’articulations distinctes, ARÉT. <i>Caus. m. diut. 2, 5</i>.<br><b>      2</b> articulé, <i>en parl. du son,</i> DS. <i>3, 17</i> ; DH. <i>Comp. 14</i> ; PLUT. <i>M. 722c, 973a</i>.<p><b>Étym</b>. ἐν, ἄρθρον.`

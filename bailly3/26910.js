@@ -1,0 +1,1 @@
+lar[26910]=`<b>Διο·φάνης, ους (ὁ)</b> <font color="purple">[ῐᾰ]</font> Diophanès, <i>h</i>. DÉM. <i>59, 123 Baiter-Sauppe</i> ; PLUT. <i>T. Gracch. 8, 20, etc</i>.<p>➳ <i>Gén. épq</i>. -εος, ANTH. <i>7, 642 ; acc</i>. -ην, POL. <i>29, 8, etc. ; ou</i> -η, PLUT. <i>Phil. 16, etc</i>.<p><b>Étym</b>. Διός, φαίνω.`

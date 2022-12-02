@@ -1,0 +1,1 @@
+lar[95232]=`<b>οῦ (ὁ)</b> union de deux personnes <i>ou</i> de deux choses, ARSTT. <i>Pol. 4, 4, 8 ; 4, 9, 3, etc. ; particul</i>. accouplement, union, HPC. <i>657, 3</i> ; ARSTT. <i>H.A. 5, 1, 6</i> ; PLUT. <i>M. 685e, en parl. d’animaux,</i> ARSTT. <i>H.A. 5, 2, 3, etc</i>.<p><b>Étym</b>. συνδυάζω.`

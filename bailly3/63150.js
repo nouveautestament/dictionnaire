@@ -1,0 +1,1 @@
+lar[63150]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> vanité, sottise, frivolité, SIB. <i>8, 80 au pl</i>.<p><b>Étym</b>. ματαιόφρων.`

@@ -1,0 +1,1 @@
+lar[90586]=`<b>ου (τὸ)</b> <font color="purple">[σῑ]</font> sorte d’avoine, DIOSC. <i>4, 139</i>.<p><b>Étym</b>. σίφων.`

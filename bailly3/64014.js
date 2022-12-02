@@ -1,0 +1,1 @@
+lar[64014]=`<b>μελί·θροος-ους, οος-ους, οον-ουν</b>, à la voix douce comme le miel, ANTH. <i>5, 125</i>.<p><b>Étym</b>. μ. θρέω.`

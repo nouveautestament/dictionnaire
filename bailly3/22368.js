@@ -1,0 +1,1 @@
+lar[22368]=`<b>γογγρο·κτόνος, ος, ον</b>, qui tue les congres, PLUT. <i>M. 966a</i>.<p><b>Étym</b>. γ. κτείνω.`

@@ -1,0 +1,1 @@
+lar[69180]=`<b>νυκτο·πότιον, ου (τὸ)</b> boisson prise pendant la nuit, <i>càd</i>. orgie nocturne, SYMM. <i>Sam. 1, 26, 11</i>.<p><b>Étym</b>. ν. πότος.`

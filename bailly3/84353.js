@@ -1,0 +1,1 @@
+lar[84353]=`<b>προ·θλάω-ῶ</b>, briser auparavant, GAL. <i>14, 86</i>.`

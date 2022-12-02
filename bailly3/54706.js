@@ -1,0 +1,1 @@
+lar[54706]=`<b>κενο·λογία, ας (ἡ)</b> vain bavardage, langage frivole, PLUT. <i>M. 1069</i>.<p><b>Étym</b>. κ. λόγος.`

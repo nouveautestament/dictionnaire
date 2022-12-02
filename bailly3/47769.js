@@ -1,0 +1,1 @@
+lar[47769]=`<font color="purple">[ῡ]</font> faire une fausse note sur la flûte, HH. <i>Merc. 488</i>.<p><b>Étym</b>. θρῦλος.`

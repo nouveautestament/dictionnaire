@@ -1,0 +1,1 @@
+lar[42243]=`<b>εὐθυ·θάνατος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> qui cause la mort sur-le-champ, PLUT. <i>Ant. 76</i>.<p><b>Étym</b>. εὐ. θάνατος.`

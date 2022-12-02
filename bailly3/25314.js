@@ -1,0 +1,1 @@
+lar[25314]=`<b>δι·αποθνῄσκω</b> (<i>seul. prés. inf</i>.) achever de mourir, POL. <i>16, 31, 8</i>.`

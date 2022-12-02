@@ -1,0 +1,1 @@
+lar[101462]=`<b>ὑδατο·ειδής, ής, ές</b> <font color="purple">[ῠᾰ]</font> qui ressemble à de l’eau, EPIC. (DL. <i>10, 106</i>) ; ARSTT. <i>Col. 3, 13</i> ; GAL. <i>14, 712</i>.<p><b>Étym</b>. ὕδωρ, εἶδος.`

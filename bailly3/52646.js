@@ -1,0 +1,1 @@
+lar[52646]=`<i>dor</i>. <b>-ά, ᾶς (ἡ)</b> <font color="purple">[ῠ]</font> dissimulation, SOPH. <i>O.C. 218</i>.<p><b>Étym</b>. κατακρύπτω.`

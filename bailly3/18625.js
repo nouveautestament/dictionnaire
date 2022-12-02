@@ -1,0 +1,1 @@
+lar[18625]=`<b>ου (τὸ)</b> absinthe (<i>Artemisia absinthium</i> L.) <i>herbe amère,</i> HPC. <i>491, 1, etc</i>. XÉN. <i>An. 1, 5, 1</i> ; TH. NIC. <i>etc</i>.<p><b>Étym</b>. ἄψινθος.`

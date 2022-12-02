@@ -1,0 +1,1 @@
+lar[96611]=`<b>συσκοτασμός, οῦ (ὁ)</b> commencement d’obscurité, ORIG. <i>3, 392 Migne</i>.`

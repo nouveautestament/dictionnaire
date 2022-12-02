@@ -1,0 +1,1 @@
+lar[84933]=`<b>προ·πέρυσι(ν)</b> <font color="purple">[ῠῐ]</font> <i>adv</i>., deux ans auparavant, LYS. <i>114, 31</i> ; PLAT. <i>Euthyd. 272c ;</i> DÉM. <i>467, 14, etc</i>.<p>➳ <i>Att</i>. πρωπέρυσιν, PHÉRÉCR. (<i>Com. Att. fr. t. 1, p. 199 Kock</i>) ; DYSC. <i>Adv. p. 577, 24</i>.<p><b>Étym</b>. π. πέρυσι.`

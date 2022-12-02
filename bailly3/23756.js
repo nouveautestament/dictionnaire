@@ -1,0 +1,1 @@
+lar[23756]=`<b>ου (ὁ)</b> = <i>lat</i>. Dĕcĭus, <i>n. romain,</i> POL. DH. PLUT. <i>etc.</i> ; οἱ Δέκιοι, DC. <i>53, 8,</i> les Décius.<p>➳ <i>Voc</i>. -ιε, DH. <i>7, 53</i>.`

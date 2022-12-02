@@ -1,0 +1,1 @@
+lar[86603]=`<b>ή, όν :<br>      1</b> <i>pass</i>. à qui l’on adresse la parole : φωνῆς τινος, SOPH. <i>Ph. 1067,</i> salué <i>ou</i> interpellé par la voix de qqn.<br><b>      2</b> <i>act</i>. qui adresse la parole, qui salue, ANTH. <i>7, 649</i>.<p>➳ <i>Dor</i>. ποτιφθεγκτός, ANTH. <i>l. c</i>.<p><b>Étym</b>. <i>vb. de</i> προσφθέγγομαι.`

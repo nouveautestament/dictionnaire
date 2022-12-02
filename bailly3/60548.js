@@ -1,0 +1,1 @@
+lar[60548]=`<b>ης (ἡ)</b> Leukimmè (<i>auj</i>. Asprókavos) <i>promont. de Corcyre,</i> THC. <i>1, 30 ; 47 ; 51</i>.`

@@ -1,0 +1,1 @@
+lar[23888]=`(<i>seul. part. prés</i>.) se servir de la main droite, SPT. <i>1Par. 12, 2</i>.<p><b>Étym</b>. δεξιός.`

@@ -1,0 +1,1 @@
+lar[63836]=`<b>μελάν·δετος, ος, ον</b>, dont les attaches <i>ou</i> la monture sont noires, <i>en parl. de glaives,</i> IL. <i>15, 713 ; d’une épée,</i> EUR. <i>Ph. 1091 ; d’un bouclier,</i> ESCHL. <i>Sept. 43, etc</i>.<p><b>Étym</b>. μ. δέω.`

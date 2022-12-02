@@ -1,0 +1,1 @@
+lar[25792]=`<b>εως (ἡ)</b> action de passer au crible, PLUT. <i>M. 693e</i>.<p><b>Étym</b>. διαττάω.`

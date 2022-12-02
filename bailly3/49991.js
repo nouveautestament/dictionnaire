@@ -1,0 +1,1 @@
+lar[49991]=`<b>ωνος (ἡ)</b> <font color="purple">[ῑ, <i>postér</i>. ῐ]</font> Itôn, <i>v. de Thessalie,</i> IL. <i>2, 696, etc</i>.`

@@ -1,0 +1,1 @@
+lar[51351]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> voile, ANTH. <i>6, 206</i>.<p><b>Étym</b>. <i>fém. de</i> καλυπτήρ.`

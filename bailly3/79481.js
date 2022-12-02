@@ -1,0 +1,1 @@
+lar[79481]=`<b>περι·τεραμνίζω</b>, border tout autour : τί τινι, POLÉM. (ATH. <i>474d</i>) border une chose avec une autre.<p><b>Étym</b>. π. τέραμνον.`

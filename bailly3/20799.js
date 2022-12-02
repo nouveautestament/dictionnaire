@@ -1,0 +1,1 @@
+lar[20799]=`<b>βρι·ήπυος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui crie d’une voix forte (Arès), IL. <i>13, 521</i>.<p><b>Étym</b>. βρι-, ἠπύω.`

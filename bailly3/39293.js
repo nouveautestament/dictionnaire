@@ -1,0 +1,1 @@
+lar[39293]=`<b>ἐπι·σχερώ</b>, <i>adv.</i> :<br><b>      1</b> sur une même ligne, à la suite l’un de l’autre, IL. <i>18, 68 ; 23, 125</i> ; A.RH. <i>1, 528</i>.<br><b>      2</b> <i>en parl. du temps,</i> successivement, ANTH. <i>13, 19 ; ou</i> par degrés, THCR. <i>Idyl. 14, 69 ; d’où avec un gén</i>. à la suite de, A.RH. <i>4, 451</i>.<p><b>Étym</b>. ἐπί, σχερός.`

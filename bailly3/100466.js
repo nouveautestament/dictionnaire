@@ -1,0 +1,1 @@
+lar[100466]=`<b>τρι·σκελής, ής, ές</b>, à trois jambes, à trois pieds, CRAT. (ATH. <i>49a</i>) ; THCR. <i>Epigr. 4, 3</i> ; τρισκελὴς λόφος, SCH.-AR. <i>Ach. 1121,</i> la colline à trois embranchements (<i>près d’Athènes</i>) où aboutissaient les trois murs du Pirée.<p><b>Étym</b>. τρ. σκέλος.`

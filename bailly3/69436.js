@@ -1,0 +1,1 @@
+lar[69436]=`<b>ξεν·ηλατέω-ῶ</b> <font color="purple">[ᾰ]</font> bannir les étrangers, AR. <i>Av. 1012</i> ; DS. <i>Exc. p. 543, 9 ; fig</i>. PLUT. <i>M. 727e</i>.<p><b>Étym</b>. ξένος, ἐλατός.`

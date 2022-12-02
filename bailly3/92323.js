@@ -1,0 +1,1 @@
+lar[92323]=`<i>adv</i>., par tiges <i>ou</i> par troncs, A.RH. <i>1, 1004</i>.<p><b>Étym</b>. στέλεχος, -δον.`

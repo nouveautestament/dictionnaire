@@ -1,0 +1,1 @@
+lar[64226]=`<b>μεμβραδο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> marchand de sardines, NICOPH. (ATH. <i>126e</i>).<p><b>Étym</b>. μεμβράς, πωλέω.`

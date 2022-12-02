@@ -1,0 +1,1 @@
+lar[105198]=`<b>φερ·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> dont le nom convient, qui porte un nom significatif, bien nommé, NIC. <i>Th. 666</i> ; EL. <i>N.A. 17, 8</i> ; COL. <i>242, etc.</i> ; φ. τινος, ORPH. <i>Arg. 717,</i> nommé d’après qqe ch.<p><b>Étym</b>. φέρω, ὄνομα.`

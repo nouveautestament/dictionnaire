@@ -1,0 +1,1 @@
+lar[89410]=`<b>οῦς (ἡ)</b> sorte de pierre précieuse, PHILSTR. <i>770 ; v</i>. σάρδιον <i>et</i> σαρδόνυξ.`

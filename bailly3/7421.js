@@ -1,0 +1,1 @@
+lar[7421]=`<b>ἀνά·πνευστος, ος, ον</b>, <i>c</i>. ἄπνευστος, HÉS. <i>Th. 797 dout</i>.<p><b>Étym</b>. ἀνά, à rebours, au contraire ; πνέω.`

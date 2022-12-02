@@ -1,0 +1,1 @@
+lar[7886]=`<b>ἀνα·φράσσω</b>, barrer fortement, barricader, fortifier, STR. <i>194 ; au pass</i>. SPT. <i>Neh. 4, 7</i>.`

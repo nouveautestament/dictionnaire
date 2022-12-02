@@ -1,0 +1,1 @@
+lar[22585]=`<b>γραμματο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[μᾰῐκᾰ]</font> maître d’école, TÉLÈS (STOB. <i>Fl. 98, 72</i>) ; PLUT. <i>Alc. 7</i>.<p><b>Étym</b>. γράμμα, δ.`

@@ -1,0 +1,1 @@
+lar[106358]=`<b>ου (ὁ)</b> Phlégræos, <i>Satyre,</i> NONN. <i>D. 14, 107</i>.<p><b>Étym</b>. <i>cf</i>. Φλεγραῖος.`

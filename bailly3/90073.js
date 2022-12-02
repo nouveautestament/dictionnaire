@@ -1,0 +1,1 @@
+lar[90073]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>   I. 1</b> de la nature de la salive, DP. <i>791</i>.<br><b>      2</b> qui bave, HPC. <i>304, 51</i>.<br><b>   II</b> brillant de graisse, gras, onctueux, HPC. <i>678, 13</i>.<p><b>Étym</b>. σίαλον, -ωδης.`

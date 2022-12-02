@@ -1,0 +1,1 @@
+lar[81664]=`<i>adv</i>., à une grande distance, <i>càd</i>. très secondairement, ARSTT. <i>Nic. 10, 5, 11</i> ; DH. <i>Rhet. 11, 9</i>.<p><b>Étym</b>. πολλοστός.`

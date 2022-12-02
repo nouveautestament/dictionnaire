@@ -1,0 +1,1 @@
+lar[107228]=`<b>ου (ὁ)</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> sorte de crapaud venimeux, LUC. <i>Philops. 12</i>.<br><b>      2</b> sorte de poisson venimeux, EL. <i>N.A. 3, 18</i>.<br><b>      3</b> cétacé, OPP. <i>H. 1, 368</i> ; EL. <i>N.A. 9, 49</i>.<p><b>Étym</b>. φυσάω.`

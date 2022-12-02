@@ -1,0 +1,1 @@
+lar[87800]=`<b>ατος (τὸ)</b> ouvrage en forme de fortification, ORACL. (HDT. <i>7, 140</i>) ; EUR. <i>Ph. 287 ; au plur</i>. ESCHL. <i>Sept. 30, 251, 469, etc</i>.<p><b>Étym</b>. πυργόω.`

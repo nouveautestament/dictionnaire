@@ -1,0 +1,1 @@
+lar[22357]=`<b>ῆς (ἡ)</b> parente par le sang, <i>particul</i>. sœur, IL. <i>15, 350</i>.<p><b>Étym</b>. <i>fém. de</i> γνωτός².`

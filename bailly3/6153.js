@@ -1,0 +1,1 @@
+lar[6153]=`<b>Ἀμφι·θέα</b>, <i>ion</i>. <b>Ἀμφι·θέη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Amphithéa <i>ou</i> Amphithéè, <i>f</i>. OD. <i>19, 416</i>.<p><b>Étym</b>. ἀ. θεά, <i>cf</i>. Ἀμφίθεος.`

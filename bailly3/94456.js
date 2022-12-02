@@ -1,0 +1,1 @@
+lar[94456]=`<i>adv</i>., avantageusement, utilement, ISOCR. <i>102e</i>.<p>•<i> Cp</i>. -ώτερον, THC. <i>3, 40</i> ; XÉN. <i>Hell. 6, 5, 39, etc. ; • Sup</i>. -ώτατα, THC. <i>8, 43</i> ; XÉN. <i>Cyr. 5, 3, 22 ; Hell. 4, 2, 10, etc</i>.<p><b>Étym</b>. σύμφορος.`

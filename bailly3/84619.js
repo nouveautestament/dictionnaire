@@ -1,0 +1,1 @@
+lar[84619]=`<b>εως (ἡ)</b> <font color="purple">[ῠῑσ]</font> action de se rouler aux genoux de qqn, supplication, PLAT. <i>Leg. 887e</i>.<p><b>Étym</b>. προκυλίνδομαι.`

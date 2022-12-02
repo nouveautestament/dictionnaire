@@ -1,0 +1,1 @@
+lar[83499]=`<b>προ·ᾴδω</b> <font color="purple">[ᾱ]</font> chanter avant <i>ou</i> préluder, ESCHN. <i>50, 5</i>.`

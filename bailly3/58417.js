@@ -1,0 +1,1 @@
+lar[58417]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> culbute, LUC. <i>Anach. 18</i>.<p><b>Étym</b>. κυβιστάω.`

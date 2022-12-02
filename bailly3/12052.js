@@ -1,0 +1,1 @@
+lar[12052]=`<i>adv</i>., sans pouvoir être rassasié, HDN GR. <i>Epim. p. 257 Boissonade</i>.<p><b>Étym</b>. ἄπληστος.`

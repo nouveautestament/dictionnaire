@@ -1,0 +1,1 @@
+lar[51750]=`<b>καρδιο·βόλος, ος, ον</b>, qui atteint le cœur, <i>càd</i>. qui agit sur le cœur <i>ou</i> sur l’estomac, <i>en parl. de remèdes,</i> ARÉT. <i>p. 16</i> ; RUF. <i>p. 16</i>.<p><b>Étym</b>. κ. βάλλω.`

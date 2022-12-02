@@ -1,0 +1,1 @@
+lar[56913]=`<b>Κοντο·πορεία</b> <i>ou</i> <b>Κοντο·πορία, ας (ἡ)</b> <i>propr</i>. le Trajet aux crocs, <i>route de Corinthe à Argos, dont on ne pouvait gravir la pente qu’à l’aide de bâtons en forme d’Alpenstock,</i> POL. <i>16, 16, 4 et 5</i> ; ATH. <i>43e</i>.<p><b>Étym</b>. κοντός, πορεία.`

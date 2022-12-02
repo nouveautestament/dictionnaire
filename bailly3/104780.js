@@ -1,0 +1,1 @@
+lar[104780]=`<b>φαλλο·βάτης, ου (ὁ)</b> <font color="purple">[βᾰ]</font> prêtre de Priape, LUC. <i>Syr. 29</i>.<p><b>Étym</b>. φαλλός, βαίνω.`

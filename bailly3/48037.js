@@ -1,0 +1,1 @@
+lar[48037]=`<b>θυρόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> garnir de portes (pour clore) AR. <i>Av. 613 ; fig</i>. βλεφάροις θ. τὴν ὄψιν, XÉN. <i>Mem. 1, 4, 6,</i> protéger les yeux de paupières comme de portes.<br><b>      2</b> pourvoir de portes de sortie, d’issues, LUC. <i>Hipp. 8</i>.<p><b>Étym</b>. θύρα.`

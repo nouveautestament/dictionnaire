@@ -1,0 +1,1 @@
+lar[5150]=`<b>ου (ὁ)</b> Amadokos, <i>n. de deux rois des Odryses,</i> DÉM. <i>623, 19</i> ; ARSTT. <i>Pol. 5, 10, etc</i>.`

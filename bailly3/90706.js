@@ -1,0 +1,1 @@
+lar[90706]=`<b>σκαφο·λουτρέω-ῶ</b> <font color="purple">[ᾰ]</font> se baigner dans une baignoire, A. TR. <i>12, 696</i>.<p><b>Étym</b>. σκάφη, λουτρόν.`

@@ -1,0 +1,1 @@
+lar[25721]=`<b>δια·τέμνω</b> <font color="darkgreen">(<i>f</i>. -τεμῶ, <i>ao.2</i> διέταμον <font color="purple">[ᾰ]</font>, <i>etc</i>.)</font> couper en deux : δίχα δ. PLAT. <i>Conv. 190d, ou</i> διχῇ δ. ESCHL. <i>Suppl. 545,</i> couper <i>ou</i> partager en deux ; τι ἀπό τινος, PLAT. <i>Pol. 280d</i>, séparer une chose d’une autre ; <i>fig</i>. désunir, ESCHN. <i>83, 29</i>.`

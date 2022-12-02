@@ -1,0 +1,1 @@
+lar[17357]=`<b>αὐτ·επώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> qui a le même surnom que, <i>gén</i>. EUR. <i>Ph. 769</i>.<p><b>Étym</b>. αὐτός, ἐπ.`

@@ -1,0 +1,1 @@
+lar[9828]=`<b>εως (ἡ)</b> division avec opposition, <i>t. de log</i>. DL. <i>7, 61</i> ; PLOT. <i>Enn. 4, 4, 28, etc</i>.<p><b>Étym</b>. ἀντιδιαιρέω.`

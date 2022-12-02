@@ -1,0 +1,1 @@
+lar[94582]=`<b>εως (ἡ)</b> rassemblement, ARSTT. <i>G.A. 2, 4, 27</i>.<p><b>Étym</b>. συναθροίζω.`

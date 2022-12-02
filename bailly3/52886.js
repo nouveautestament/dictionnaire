@@ -1,0 +1,1 @@
+lar[52886]=`<b>ων (οἱ)</b> habitants de Catane, THC. <i>3, 116, etc.</i> ; XÉN. <i>Hell. 2, 3, 5, etc</i>.<p><b>Étym</b>. Κατάνη.`

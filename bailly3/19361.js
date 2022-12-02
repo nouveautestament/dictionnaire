@@ -1,0 +1,1 @@
+lar[19361]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> de grenouille ; τὰ βατράχεια (<i>s.-e</i>. χρώματα) AR. <i>Eq. 523,</i> couleur de grenouille, <i>càd</i>. vert clair.<p><b>Étym</b>. βάτραχος.`

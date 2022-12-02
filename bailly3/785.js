@@ -1,0 +1,1 @@
+lar[785]=`<b>ου</b>, <i>adj. m</i>. du dème Agnunte, <i>de la tribu Akamantide,</i> ESCHN. <i>2, 13</i> ; DÉM. <i>18, 21 Baiter-Sauppe</i>.<p><b>Étym</b>. *ἀγνοῦς, οῦντος, <i>p</i>. *ἀγνόεις, όεντος « planté d’agnus-castus » <i>de</i> ἄγνος.`

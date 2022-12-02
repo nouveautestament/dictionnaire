@@ -1,0 +1,1 @@
+lar[12935]=`<b>εως (ἡ)</b> engourdissement, PLUT. <i>M. 652d</i>.<p><b>Étym</b>. ἀποναρκάω.`

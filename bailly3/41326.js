@@ -1,0 +1,1 @@
+lar[41326]=`<b>ἑτερό·καρπος, ος, ον</b>, qui produit d’autres fruits, HPC. <i>245, 34</i>.<p><b>Étym</b>. ἕ. καρπός.`

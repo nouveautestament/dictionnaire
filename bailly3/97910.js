@@ -1,0 +1,1 @@
+lar[97910]=`<b>ταχύ·πνοια</b>, <i>ion</i>. <b>ταχυ·πνοίη, ης (ἡ)</b> <font color="purple">[τᾰ]</font> respiration courte, précipitée, HPC. <i>278, 14</i>.<p><b>Étym</b>. τ. πνέω.`

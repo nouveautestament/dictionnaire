@@ -1,0 +1,1 @@
+lar[103318]=`<b>ὑπο·καπνίζω</b>, traiter par des fumigations, GAL. <i>14, 551</i> ; A. TR. <i>5, p. 261</i>.`

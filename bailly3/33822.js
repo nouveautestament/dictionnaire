@@ -1,0 +1,1 @@
+lar[33822]=`<b>ἐν·αιχμάζω</b>, combattre dans, <i>dat</i>. LYC. <i>546</i> ; ANTH. <i>12, 147</i>.`

@@ -1,0 +1,1 @@
+lar[63306]=`<b>μεγάλ·αρτος, ος, ον</b> <font color="purple">[γᾰ]</font> aux grands pains, <i>ép. d’un héros béotien,</i> SEMUS (ATH. <i>109b</i>).<p><b>Étym</b>. μ. ἄρτος.`

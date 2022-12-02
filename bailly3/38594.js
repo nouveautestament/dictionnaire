@@ -1,0 +1,1 @@
+lar[38594]=`<b>ας (ἡ)</b> faux serment, parjure, XÉN. <i>An. 3, 2, 4</i> ; DÉM. <i>409, 21 ; au plur</i>. PLAT. <i>Gorg. 524e</i>.<p><b>Étym</b>. ἐπίορκος.`

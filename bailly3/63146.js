@@ -1,0 +1,1 @@
+lar[63146]=`<b>ματαιο·τεχνία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> art frivole, CLÉM. <i>163</i> ; QUINT. <i>2, 20, 3</i>.<p><b>Étym</b>. μάταιος, τέχνη.`

@@ -1,0 +1,1 @@
+lar[18098]=`<b>*ἀ·φιλήκοος, ος, ον</b> (<i>seul. cp. irrég</i>. ἀφιληκοέστερος) <font color="purple">[ῐ]</font> qui n’aime pas à écouter, indocile, JUL. <i>358d</i>.`

@@ -1,0 +1,1 @@
+lar[75032]=`<b>παν·ῆμαρ</b> <font color="purple">[πᾰ]</font> <i>adv</i>., pendant tout le jour, OD. <i>13, 31</i>.<p><b>Étym</b>. π. ἦμαρ.`

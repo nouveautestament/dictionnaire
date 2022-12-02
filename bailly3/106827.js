@@ -1,0 +1,1 @@
+lar[106827]=`<b>(ἡ)</b> Phréattys, <i>lieu sur la côte du Pirée,</i> PAUS. <i>1, 28, 11</i>.`

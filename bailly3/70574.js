@@ -1,0 +1,1 @@
+lar[70574]=`<b>οἰνο·σσόος, ος, ον</b>, qui protège la vigne, NONN. <i>Jo. 2, 7</i>.<p><b>Étym</b>. οἶν. σῴζω.`

@@ -1,0 +1,1 @@
+lar[48942]=`<b>όεσσα, όεν</b> <font color="purple">[ῑ]</font> bourbeux ; fangeux, A.RH. <i>2, 823</i> ; NIC. <i>Th. 568</i> ; ANTH. <i>App. 39</i>.<p><b>Étym</b>. ἰλύς.`

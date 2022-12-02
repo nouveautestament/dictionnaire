@@ -1,0 +1,1 @@
+lar[9906]=`<b>ἀντι·καθεύδω</b> <font color="darkgreen">(<i>impf</i>. ἀντικάθευδον)</font> dormir à son tour, ANTH. <i>11, 366</i>.`

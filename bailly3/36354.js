@@ -1,0 +1,1 @@
+lar[36354]=`<b>ή, όν</b>, qui concerne une fête, de fête, solennel, PLAT. <i>Leg. 829b ;</i> LUC. <i>Am. 1</i> ; ALCIPHR. <i>3, 57</i>.<p><b>Étym</b>. ἑορτάζω.`

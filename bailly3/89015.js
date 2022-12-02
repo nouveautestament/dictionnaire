@@ -1,0 +1,1 @@
+lar[89015]=`<b>ῥωπο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> peinture de menus objets, <i>particul</i>. de paysages, CIC. <i>Att. 15, 16</i>.<p><b>Étym</b>. ῥῶπος, γράφω.`

@@ -1,0 +1,1 @@
+lar[61309]=`<b>λιπ·εργάτης, ου</b> <font color="purple">[ῐᾰ]</font> <i>adj. m</i>. qui abandonne son ouvrage, LGS <i>2, 22 (conj</i>. λιπερνήτης).<p><b>Étym</b>. λείπω, ἔργον.`

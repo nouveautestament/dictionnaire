@@ -1,0 +1,1 @@
+lar[39788]=`<b>ἔπ·ογκος, ος, ον</b>, pesamment chargé, <i>particul. au fém</i>. grosse, enceinte, JAMBL. <i>V. Pyth. 194</i>.<p><b>Étym</b>. ἐπί, ὄγκος.`

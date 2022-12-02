@@ -1,0 +1,1 @@
+lar[4907]=`<b>ἀ·λοιδόρητος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> non injurié, PLUT. <i>M. 757a.</i><br><b>      2</b> que les injures ne peuvent atteindre, PLUT. <i>M. 89a.</i><br><b>   II</b> <i>act</i>. qui n’injurie pas, SOPH. <i>fr. 731</i>.<p><b>Étym</b>. ἀ, λοιδορέω.`

@@ -1,0 +1,1 @@
+lar[96238]=`<b>ή, όν :<br>      1</b> qui sait vivre en société, AR. <i>Vesp. 1209</i>.<br><b>      2</b> aphrodisiaque, CHRYSIPP. (ATH. <i>335d</i>).<br><b>      3</b> libertin, PHIL. <i>2, 22, etc</i>.<p><b>Étym</b>. συνουσιάζω.`

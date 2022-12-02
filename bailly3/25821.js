@@ -1,0 +1,1 @@
+lar[25821]=`<b>δι·αυχένιος, ος, ον</b>, qui traverse le cou, PLAT. <i>Tim. 73e</i>.<p><b>Étym</b>. διά, αὐχήν.`

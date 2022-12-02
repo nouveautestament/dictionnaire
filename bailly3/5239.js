@@ -1,0 +1,1 @@
+lar[5239]=`<b>ου (τὸ)</b> <font color="purple">[ᾰαᾰ]</font> marjolaine, <i>plante odoriférante,</i> TH. <i>H.P. 1, 9, 4, etc.</i> ; DIOSC. <i>4, 47</i> ; ANTH. <i>4, 2, 9, etc</i>.`

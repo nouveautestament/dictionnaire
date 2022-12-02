@@ -1,0 +1,1 @@
+lar[95206]=`<b>συν·διώκω :<br>      1</b> poursuivre avec <i>ou</i> ensemble, THC. <i>1, 135 ; 8, 17</i> ; POL. <i>1, 17, 13, etc.</i><br><b>      2</b> <i>fig</i>. poursuivre en justice avec <i>ou</i> ensemble, DÉM. <i>1068 fin</i>.<p><b>Étym</b>. <i>loi</i>.`

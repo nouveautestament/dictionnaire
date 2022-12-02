@@ -1,0 +1,1 @@
+lar[58526]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui mêle, qui agite, <i>n. donné à Héraclite par Épicure,</i> DL. <i>10, 8</i>.<br><b>      2</b> <i>en mauv. part,</i> brouillon, intrigant, PTOL. <i>Tetr. p. 166, 17</i>.<p><b>Étym</b>. κυκάω.`

@@ -1,0 +1,1 @@
+lar[1276]=`<b>ητος (ἡ)</b> obscurité, incertitude, POL. <i>5, 2, 3 ; 36, 4, 2</i> ; NT. <i>1Tim. 6, 17</i> ; PLUT. <i>Cæs. 7</i>.<p><b>Étym</b>. ἄδηλος.`

@@ -1,0 +1,1 @@
+lar[55457]=`<b>ή, όν</b>, de couleur d’âne, gris, EUB. <i>fr. 103 Kock</i>.`

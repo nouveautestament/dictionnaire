@@ -1,0 +1,1 @@
+lar[81511]=`<b>ου (τὸ)</b> quartier général pour des opérations de guerre, POL. <i>4, 71, 2</i>.<p><b>Étym</b>. πολεμέω ; <i>pour la format. cf</i>. ὁρμητήριον.`

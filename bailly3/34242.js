@@ -1,0 +1,1 @@
+lar[34242]=`<b>α, ον</b>, plus avant dans l’intérieur, plus intime, ARSTT. <i>Plant. 2, 4, 5, etc</i>.<p><b>Étym</b>. <i>v</i>. ἔνδον.`

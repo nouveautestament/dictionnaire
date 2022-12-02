@@ -1,0 +1,1 @@
+lar[85746]=`<b>προσ·επιτυγχάνω</b> <font color="darkgreen">(<i>f</i>. -επιτεύξομαι, <i>ao.2</i> -επέτυχον, <i>etc</i>.)</font> obtenir en outre, <i>avec l’inf</i>. JOS. <i>B.J. 1, 10, 3</i>.`

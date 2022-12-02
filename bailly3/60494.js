@@ -1,0 +1,1 @@
+lar[60494]=`converser avec, <i>dat</i>. APP. <i>Civ. 2, 91</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>454, 9</i>.<p><b>Étym</b>. λέσχη.`

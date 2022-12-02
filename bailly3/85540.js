@@ -1,0 +1,1 @@
+lar[85540]=`<b>προσ·εκτίνω</b> <font color="purple">[ῑ]</font> payer <i>ou</i> acquitter en outre, PLAT. <i>Leg. 933e ;</i> PLUT. <i>Phoc. 27, Arat. 54</i>.`

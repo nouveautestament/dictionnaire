@@ -1,0 +1,1 @@
+lar[98082]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> action de manger ses enfants, LUC. <i>Salt. 80</i>.<p><b>Étym</b>. τεκνοφάγος.`

@@ -1,0 +1,1 @@
+lar[85743]=`<b>προσ·επιτρέπω</b>, livrer <i>ou</i> confier en outre, DC. <i>38, 8, etc. ; avec l’inf</i>. permettre de, DC. <i>54, 10</i>.`

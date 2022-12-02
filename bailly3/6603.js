@@ -1,0 +1,1 @@
+lar[6603]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰν]</font> contrainte, JOS. <i>A.J. 19, 2, 5</i>.<p><b>Étym</b>. ἀναγκάζω.`

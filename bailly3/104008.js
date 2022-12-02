@@ -1,0 +1,1 @@
+lar[104008]=`<b>οῦ (ὁ)</b> soupçon, conjecture, supposition, JOS. <i>A.J. 17, 4, 2</i>.<p><b>Étym</b>. ὑποτοπάζω.`

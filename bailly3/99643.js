@@ -1,0 +1,1 @@
+lar[99643]=`<b>τοπο·μαχέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> guerroyer en se bornant à occuper des points stratégiques que l’ennemi n’ose pas attaquer, STR. <i>10</i> ; PLUT. <i>Flam. 3, Cleom. 20, etc.</i><br><b>      2</b> combattre pour s’emparer <i>ou</i> rester maître d’une position, <i>t. milit</i>. DS. <i>13, 39</i>.<p><b>Étym</b>. τ. μάχη.`

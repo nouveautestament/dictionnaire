@@ -1,0 +1,1 @@
+lar[18557]=`<b>ἄ·χυλος, ος, ον</b> <font color="purple">[ῡ]</font> sans suc, sans saveur, TH. <i>C.P. 6, 19, 4</i> ; DIOCL. (ORIB. <i>1, 277, 2 B.-Dar.) ; etc</i>.<p><b>Étym</b>. ἀ, χυλός.`

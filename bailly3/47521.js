@@ -1,0 +1,1 @@
+lar[47521]=`<b>ου</b>, <i>adj. m</i>. de Thouria ; <i>au plur</i>. οἱ Θουριᾶται, THC. <i>1, 101,</i> habitants de Thouria.<p><b>Étym</b>. Θουρία.`

@@ -1,0 +1,1 @@
+lar[40353]=`(<i>seul. part. prés. act</i>. -ων, OD. <i>5, 83, et fém. pass</i>. -ομένη, IL. <i>23, 317</i> ; HH. <i>Ap. 180</i>) briser, déchirer, IL. <i>l. c. ; au mor</i>. OD. <i>l. c. et 5, 157</i> ; HH. <i>Ap. 358</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[5277]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰᾰῐδ]</font> Amaryllis, <i>chevrière,</i> THCR. <i>Idyl. 3, 1</i> ; LGS <i>5</i>.`

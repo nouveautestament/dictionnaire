@@ -1,0 +1,1 @@
+lar[59134]=`<b>κωλό·βαθρον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> échasse, ARTÉM. <i>3, 15</i>.<p><b>Étym</b>. κῶλον, βάθρον.`

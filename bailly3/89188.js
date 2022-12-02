@@ -1,0 +1,1 @@
+lar[89188]=`<b>ας (ἡ)</b> agitation d’esprit, folie, POLÉM. <i>Physiogn. 1, 11</i>.<p><b>Étym</b>. σάλος.`

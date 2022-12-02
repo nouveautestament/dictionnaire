@@ -1,0 +1,1 @@
+lar[63005]=`<b>ου (ὁ)</b> de Mars :<br><b>      1</b> le mois de Mars, <i>à Rome,</i> PLUT. <i>Num. 19, etc.</i> ; Μάρτιαι καλάνδαι, PLUT. <i>Popl. 9, etc</i>. les calendes de Mars ; Μάρτιαι εἰδοί, PLUT. <i>Cæs. 63, etc</i>. les ides de Mars.<br><b>      2</b> Μ. κάμπος, STR. <i>236,</i> le Champ de Mars, <i>à Rome</i>.<p><b>Étym</b>. <i>lat</i>. Martius.`

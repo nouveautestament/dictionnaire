@@ -1,0 +1,1 @@
+lar[77577]=`<b>πεζογραφέω-ῶ</b> <font color="purple">[ᾰ]</font> écrire en prose, DL. <i>4, 15</i>.<p><b>Étym</b>. πεζογράφος.`

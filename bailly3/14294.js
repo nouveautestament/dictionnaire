@@ -1,0 +1,1 @@
+lar[14294]=`<b>Ἀργο·ναύτης, ου (ὁ)</b> Argonaute, <i>litt</i>. matelot <i>ou</i> passager du navire Argo, ARSTT. <i>Pol. 3, 13, 16, etc</i>.<p><b>Étym</b>. Ἀργώ, ν.`

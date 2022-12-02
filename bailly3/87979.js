@@ -1,0 +1,1 @@
+lar[87979]=`<b>ή, όν</b>, de Pyrrhus, ARSTT. <i>H.A. 3, 21, 3</i>.<p><b>Étym</b>. Πύρρος.`

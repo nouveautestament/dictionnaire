@@ -1,0 +1,1 @@
+lar[109390]=`<b>ου (τὸ)</b> Khytron, <i>lieu près de Klazomène,</i> ARSTT. <i>Pol. 5, 2, 12</i>.`

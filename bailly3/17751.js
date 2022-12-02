@@ -1,0 +1,1 @@
+lar[17751]=`<b>αὐτό·φλοιος, ος, ον</b> <font color="purple">[ο̄φλ]</font> avec l’écorce même, revêtu de l’écorce, THCR. <i>Idyl. 25, 208</i> ; ANTH. <i>6, 99</i>.<p><b>Étym</b>. αὐ. φλοιός.`

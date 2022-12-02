@@ -1,0 +1,1 @@
+lar[88935]=`<b>ῥυσο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῡῐ]</font> à l’enveloppe (<i>litt</i>. à la tunique) ridée, ORPH. <i>Lith. 715 conj</i>.<p><b>Étym</b>. ῥυσός, χιτών.`

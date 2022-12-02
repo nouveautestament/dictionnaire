@@ -1,0 +1,1 @@
+lar[53101]=`<b>ος, ον</b>, étonnant, <i>ou</i> effrayant, DS. <i>Exc. Vat. p. 645, 56</i>.<p><b>Étym</b>. καταπλήσσω.`

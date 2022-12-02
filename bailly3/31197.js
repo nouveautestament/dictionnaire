@@ -1,0 +1,1 @@
+lar[31197]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> vengeur, EUR. <i>Suppl. 1153</i>.<p><b>Étym</b>. ἐκδικάζω.`

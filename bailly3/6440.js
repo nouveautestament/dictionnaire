@@ -1,0 +1,1 @@
+lar[6440]=`<b>ονος (ὁ)</b> <font color="purple">[ῑ]</font> Amphion :<br><b>      1</b> <i>fils de Zeus, fondateur de Thèbes,</i> OD. <i>11, 262</i>.<br><b>      2</b> <i>roi d’Orchomène,</i> OD. <i>11, 283</i>.<br><b>      3</b> <i>chef des Épéens,</i> IL. <i>13, 692</i>.<br><b>      4</b> <i>autres,</i> HDT. <i>5, 92</i> ; DÉM. <i>1104, 8, etc</i>.<p><b>Étym</b>. Ἄμφις.`

@@ -1,0 +1,1 @@
+lar[102177]=`<i>adv</i>., contrairement, ESCHN. <i>54 fin</i> ; ARSTT. <i>G.A. 1, 12, 1, etc. ; avec le dat</i>. ARSTT. <i>H.A. 2, 1, 38, etc</i>.<p><b>Étym</b>. ὑπεναντίος.`

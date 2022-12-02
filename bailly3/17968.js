@@ -1,0 +1,1 @@
+lar[17968]=`<b>ἀφ·ερπυλλόομαι-οῦμαι</b> (<i>seul. prés</i>.) devenir du serpolet, TH. <i>C.P. 5, 7, 2</i>.<p><b>Étym</b>. ἀπό, ἕρπυλλος.`

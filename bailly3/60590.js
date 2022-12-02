@@ -1,0 +1,1 @@
+lar[60590]=`<b>Λευκὸν τεῖχος (τὸ)</b> le Mur blanc, <i>château fort de Memphis,</i> HDT. <i>3, 91</i> ; THC. <i>1, 104</i> ; DS. <i>11, 74</i>.`

@@ -1,0 +1,1 @@
+lar[95186]=`<b>συν·διημερεύω</b>, passer la journée avec, <i>dat</i>. XÉN. <i>Conv. 4, 44</i> ; ARSTT. <i>Rhet. 2, 4, 12, etc. ; avec</i> μετά <i>et le gén</i>. ARSTT. <i>Nic. 9, 4, 9</i>.`

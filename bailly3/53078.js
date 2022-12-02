@@ -1,0 +1,1 @@
+lar[53078]=`<b>κατα·πιστόομαι-οῦμαι</b>, se porter garant : ὑπέρ τινος πρός τινα, PLUT. <i>Cleom. 21,</i> pour une personne auprès d’une autre.`

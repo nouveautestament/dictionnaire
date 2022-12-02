@@ -1,0 +1,1 @@
+lar[34291]=`<b>ἐν·έζομαι</b> (<i>seul. prés. et ao</i>.) :<br><b>      1</b> s’asseoir dans <i>ou</i> sur, ARSTT. <i>Probl. 4, 11 ; avec mouv</i>. venir s’asseoir dans, <i>acc</i>. ESCHL. <i>Pers. 140</i>.<br><b>      2</b> asseoir sur, <i>dat</i>. A.RH. <i>4, 188</i>.<p><b>Étym</b>. <i>ao. 3 sg. poét</i>. ἐνεείσατο.`

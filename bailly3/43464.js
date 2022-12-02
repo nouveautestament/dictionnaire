@@ -1,0 +1,1 @@
+lar[43464]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec agilité, lestement, HDN <i>4, 15</i> ; LUC. <i>Herm. 18</i>.<p>➳ <i>Ion</i>. εὐσταλέως, HPC. <i>Off. 740, 743</i> ; OPP. <i>C. 1, 97</i>.<p><b>Étym</b>. εὐσταλής.`

@@ -1,0 +1,1 @@
+lar[28056]=`<b>δυη·παθής, ής, ές</b> <font color="purple">[ῠᾰ]</font> accablé de maux, A.RH. <i>4, 1165</i> ; qui supporte ses maux, ANTH. <i>7, 209</i>.<p><b>Étym</b>. δύη, πάσχω.`

@@ -1,0 +1,1 @@
+lar[2738]=`tromper en inventant des récits variés (<i>cf</i>. ποικίλλω <i>et le franç</i>. broder) SOPH. <i>fr. 815</i>.<p><b>Étym</b>. αἰόλος.`

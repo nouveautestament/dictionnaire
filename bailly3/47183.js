@@ -1,0 +1,1 @@
+lar[47183]=`<b>θηλυ·κράνεια, ας (ἡ)</b> <font color="purple">[ᾰν]</font> cornouiller femelle, arbre, TH. <i>H.P. 3, 3, 1</i>.<p><b>Étym</b>. θ. κράνεια.`

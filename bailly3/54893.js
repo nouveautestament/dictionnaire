@@ -1,0 +1,1 @@
+lar[54893]=`<b>κεραυνοβολέω-ῶ :<br>      1</b> lancer la foudre, PLUT. <i>M. 893e.</i><br><b>      2 <i>tr.</i></b> frapper de la foudre, <i>fig., acc</i>. ANTH. <i>12, 122, 140</i>.<p><b>Étym</b>. κεραυνοβόλος.`

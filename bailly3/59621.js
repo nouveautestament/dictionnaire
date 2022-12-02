@@ -1,0 +1,1 @@
+lar[59621]=`<b>ιος (ἡ)</b> pilon <i>ou</i> spatule pour broyer des drogues, CALL. (EUST. <i>Od. p. 1675, 56</i>) ; NIC. <i>Th. 108</i>.<p><b>Étym</b>. λάξ.`

@@ -1,0 +1,1 @@
+lar[73936]=`<i>adv</i>., d’une manière importune, fatigante, DH. <i>Dem. 45</i>.<p>•<i> Cp</i>. -οτέρως, HPC. <i>955</i>.<p><b>Étym</b>. ὀχληρός.`

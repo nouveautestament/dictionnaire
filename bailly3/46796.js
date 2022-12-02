@@ -1,0 +1,1 @@
+lar[46796]=`<b>θεό·στοργος, ος, ον</b>, qui chérit la divinité, NONN. <i>Jo. 4, 45</i>.<p><b>Étym</b>. θ. στέργω.`

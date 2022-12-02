@@ -1,0 +1,1 @@
+lar[1047]=`<b>ἀγχί·θεος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> proche des dieux, en relation étroite avec eux, <i>en parl. des Phéaciens</i>, OD. <i>5, 35</i>.<br><b>      2</b> demi-dieu, LUC. <i>Syr. 31</i>.<p><b>Étym</b>. ἄ. θεός.`

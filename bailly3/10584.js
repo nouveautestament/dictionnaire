@@ -1,0 +1,1 @@
+lar[10584]=`<b>ἀντι·φυσάω-ῶ</b> <font color="purple">[ῡ]</font> souffler en sens contraire, ANTYLL. <i>249</i>.`

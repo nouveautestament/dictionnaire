@@ -1,0 +1,1 @@
+lar[97785]=`<b>ταυρό·κολλα, ας (ἡ)</b> colle faite avec des cartilages de bœuf, ARSTT. <i>H.A. 3, 11, 2</i> ; POL. <i>6, 23, 3</i>.<p><b>Étym</b>. τ. κόλλα.`

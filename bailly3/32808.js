@@ -1,0 +1,1 @@
+lar[32808]=`<b>ων (οἱ)</b> <font color="purple">[ῐκ]</font> habitants d’Hélikè, <i>en Achaïe,</i> EL. <i>N.A. 11, 19</i>.<p><b>Étym</b>. Ἑλίκη.`

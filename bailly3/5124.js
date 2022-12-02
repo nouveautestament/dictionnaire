@@ -1,0 +1,1 @@
+lar[5124]=`<i>adv</i>., du dème Alôpékè, <i>de la tribu Antiokhide,</i> PLAT. <i>Gorg. 495d</i> (Ἀλωπεκή, INSCR.).`

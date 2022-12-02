@@ -1,0 +1,1 @@
+lar[27946]=`<b>      1 <i>tr.</i></b> mouiller de rosée, humecter, POSIDON. (ATH. <i>692d</i> δροσίζουσι) ; <i>au pass</i>. AR. <i>Ran. 1312 (part. prés</i>. -ιζόμεναι) ; PLUT. <i>M. 913e</i> (<i>part. pf</i>. δεδροσισμένος).<br><b>      2 <i>intr.</i></b> être en sueur, PHILSTR. <i>Gymn. 49</i>.<p><b>Étym</b>. δρόσος.`

@@ -1,0 +1,1 @@
+lar[13057]=`<b>ἀπο·πεφασμένως</b>, <i>adv</i>., ouvertement, DÉM. <i>1367, 27</i>.<p><b>Étym</b>. <i>pf. pass. de</i> ἀποφαίνω.`

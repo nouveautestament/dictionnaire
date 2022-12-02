@@ -1,0 +1,1 @@
+lar[5167]=`<b>α, ον</b>, d’Amathunte, HDT. <i>5, 104</i> ; PLUT. <i>Thes. 20, etc</i>.<p><b>Étym</b>. Ἀμαθοῦς.`

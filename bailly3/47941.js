@@ -1,0 +1,1 @@
+lar[47941]=`<b>θυμο·πληθής, ής, ές</b> <font color="purple">[ῡ]</font> plein de colère, ESCHL. <i>Sept. 686</i>.<p><b>Étym</b>. θ. πλῆθος.`

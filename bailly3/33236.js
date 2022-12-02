@@ -1,0 +1,1 @@
+lar[33236]=`<b>ἐμ·μέθοδος, ος, ον</b>, conforme à des règles, méthodique, PHIL. <i>2, 512</i> ; SEXT. <i>61, 15 ; 642, 22 Bkk</i>.<p><b>Étym</b>. ἐν, μ.`

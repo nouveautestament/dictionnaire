@@ -1,0 +1,1 @@
+lar[95164]=`<b>συν·διατριβή, ῆς (ἡ)</b> <font color="purple">[τρῐ]</font> fréquentation, relations habituelles, PHIL. <i>2, 671</i>.<p><b>Étym</b>. συνδιατρίβω.`

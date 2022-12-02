@@ -1,0 +1,1 @@
+lar[76278]=`<b>παρα·σύνθεσις, εως (ἡ)</b> formation d’un composé à l’aide d’une préposition initiale dont la finale s’élide, <i>p. ex</i>. πάρ-ειμι, <i>p</i>. *παρά-ειμι, PHAVOR. <i>v° πρόθεσις, p. 1565, 16</i>.`

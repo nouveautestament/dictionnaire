@@ -1,0 +1,1 @@
+lar[57099]=`<b>(ὁ)</b> Korniadès, <i>h</i>. PLUT. <i>Adv. Epic. 4</i>.`

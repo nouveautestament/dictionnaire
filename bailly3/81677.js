@@ -1,0 +1,1 @@
+lar[81677]=`<b>πολύ·αγρος, ος, ον</b>, <i>seul cp</i>. πολυαγρότερος, ANTH. <i>6, 184,</i> qui prend beaucoup de gibier.<p><b>Étym</b>. π. ἄγρα.`

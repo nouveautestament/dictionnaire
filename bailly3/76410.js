@@ -1,0 +1,1 @@
+lar[76410]=`<b>παρα·φλυαρέω-ῶ</b> <font color="purple">[ᾰρ]</font> bavarder auprès <i>ou</i> pendant, EUN. <i>Hist. 93, 9</i>.`

@@ -1,0 +1,1 @@
+lar[62331]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>fém. de</i> μαθητής, DS. <i>2, 52</i> ; DL. <i>4, 2</i>.`

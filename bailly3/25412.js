@@ -1,0 +1,1 @@
+lar[25412]=`<b>δια·πυρσεύω</b>, éclairer avec une torche, <i>fig. acc</i>. PLUT. <i>Demetr. 8</i>.<br><b><i>Moy.</i></b> faire des signaux de feu, POL. <i>1, 19, 7</i>.`

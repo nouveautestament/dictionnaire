@@ -1,0 +1,1 @@
+lar[46625]=`<b>θεο·δέγμων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> qui reçoit la divinité <i>ou</i> les objets sacrés, ANTH. <i>7, 363</i>.<br><b>      2</b> <i>p. suite,</i> divin, ARCHESTR. (ATH. <i>320b</i>).<p><b>Étym</b>. θ. δέχομαι.`

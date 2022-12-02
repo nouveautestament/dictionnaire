@@ -1,0 +1,1 @@
+lar[67130]=`<b>ου</b> <font color="purple">[ῠᾱ]</font><br><b>      1</b> <i>adj. m.</i> : μ. λίθος, STR. <i>269,</i> roc dont on fait des pierres meulières.<br><b>      2</b> <i>subst</i>. ὁ μ. PLAT. <i>Hipp. ma. 292a ;</i> STR. <i>269, 488,</i> pierre meulière, meule.<p><b>Étym</b>. μύλη.`

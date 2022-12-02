@@ -1,0 +1,1 @@
+lar[17722]=`<b>αὐτο·τέλεστος, ος, ον</b>, qui s’est accompli <i>ou</i> s’accomplit de soi-même, spontané, OPP. <i>H. 1, 763</i> ; ANTH. <i>1, 19</i>.<p><b>Étym</b>. αὐ. τελέω.`

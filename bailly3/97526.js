@@ -1,0 +1,1 @@
+lar[97526]=`<b>Τανίτης νομός (ὁ)</b> le nome Tanite <i>dans la Basse-Égypte,</i> HDT. <i>2, 166</i>.<p><b>Étym</b>. Τάνις.`

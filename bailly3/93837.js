@@ -1,0 +1,1 @@
+lar[93837]=`<b>συμ·βελής, ής, ές</b>, accablé <i>ou</i> criblé de traits, POL. <i>1, 40, 13</i>.<p><b>Étym</b>. σ. βέλος.`

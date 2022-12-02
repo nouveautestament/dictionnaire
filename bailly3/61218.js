@@ -1,0 +1,1 @@
+lar[61218]=`<b>λίνεος-οῦς, έα-ῆ, εον-οῦν</b> <font color="purple">[ῐ]</font> de lin, fait de lin, HDT. <i>1, 195, etc.</i> ; PLAT. <i>Crat. 389b, Ep. 363a ;</i> ARSTT. <i>H.A. 9, 13</i>.`

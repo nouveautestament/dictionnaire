@@ -1,0 +1,1 @@
+lar[108479]=`<b>χιμαρο·κτόνος, ος, ον</b> <font color="purple">[ῐᾱ]</font> meurtrier de la Chimère, OPP. <i>C. 1, 233</i>.<p><b>Étym</b>. χίμαρος, κτείνω.`

@@ -1,0 +1,1 @@
+lar[58127]=`<b>κρουσί·θυρος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui frappe à la porte ; τὸ κρουσίθυρον (<i>s.-e</i>. μέλος) TRYPH. (ATH. <i>618c</i>) air de flûte pour une danse.<p><b>Étym</b>. κρούω, θύρα.`

@@ -1,0 +1,1 @@
+lar[106053]=`<b>φιλό·πτωχος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les pauvres (<i>litt</i>. les mendiants) NAZ.<p><b>Étym</b>. φ. πτωχός.`

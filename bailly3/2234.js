@@ -1,0 +1,1 @@
+lar[2234]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire d’Ægion, ION <i>fr. 17, au pl. ion</i>. Αἰγιέες.`

@@ -1,0 +1,1 @@
+lar[105018]=`<b>φαυλ·επί·φαυλος, ος, ον</b>, cent fois vil, <i>litt</i>. vil et encore vil, <i>au</i> <i>• Sup</i>. -ότατος, ANTH. <i>11, 238</i>.<p><b>Étym</b>. φαῦλος, ἐπί, φαῦλος.`

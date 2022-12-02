@@ -1,0 +1,1 @@
+lar[83925]=`<b>προ·διαλέγομαι :<br>      1</b> s’entretenir auparavant, parler préalablement : περί τινος, ISOCR. <i>233e</i>, de qqe ch. : τινι, DH. <i>3, 71</i> ; DS. <i>20, 7,</i> avec qqn.<br><b>      2</b> <i>pass</i>. être traité <i>ou</i> discuté auparavant : τὰ προδιαλεχθέντα, NICOM. <i>Arithm. p. 70,</i> sujets déjà traités.`

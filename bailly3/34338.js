@@ -1,0 +1,1 @@
+lar[34338]=`<b>ἐν·εξορύσσω</b>, arracher en fouillant, BAS. <i>2, 770</i>.`

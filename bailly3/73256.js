@@ -1,0 +1,1 @@
+lar[73256]=`<b>ὀστ·άγρα, ας (ἡ) :<br>      1</b> pince pour enlever les éclats d’un os, GAL. <i>Orib. p. 6 Mai</i>.<br><b>      2</b> sorte de plante, TH. <i>fr. 7, 2</i>.<p><b>Étym</b>. ὀστέον, ἄγρα.`

@@ -1,0 +1,1 @@
+lar[93838]=`<b>συμ·βιάζομαι</b> <font color="darkgreen">(<i>f</i>. -άσομαι, <i>pf. au sens pass</i>.)</font> faire violence avec <i>ou</i> en même temps, LGN <i>10, 6</i> ; συμβεβιασμένος, η, ον, uni par force, DÉM. <i>100, 3 Baiter-Sauppe</i>.`

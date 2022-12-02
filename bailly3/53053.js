@@ -1,0 +1,1 @@
+lar[53053]=`<i>adv</i>., dans le mépris, CHRYS. <i>5, 129</i>.<p><b>Étym</b>. καταφρονέω.`

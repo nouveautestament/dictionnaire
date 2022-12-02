@@ -1,0 +1,1 @@
+lar[65245]=`<font color="purple">[ῠ]</font> par métonymie, SCH.-IL. <i>1 (Bkk. p. 1, 28</i>) ; ARTÉM. <i>5, 87</i> ; BAS. <i>1, 1082d, etc</i>.`

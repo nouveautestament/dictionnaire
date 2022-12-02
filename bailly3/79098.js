@@ -1,0 +1,1 @@
+lar[79098]=`<b>περι·πίμελος, ος, ον</b> <font color="purple">[πῑ]</font> très gras, ORIB. <i>10 Matthäi</i>.<p><b>Étym</b>. π. πιμελή.`

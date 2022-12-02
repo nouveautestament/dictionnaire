@@ -1,0 +1,1 @@
+lar[32567]=`<b>ἐλαφο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à un cerf, POL. <i>34, 10, 8</i>.<p><b>Étym</b>. ἔ. εἶδος.`

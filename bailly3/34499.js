@@ -1,0 +1,1 @@
+lar[34499]=`<b>ἐν·θάλπω</b>, réchauffer dans, réchauffer, DS. <i>2, 52</i>.`

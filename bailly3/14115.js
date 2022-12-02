@@ -1,0 +1,1 @@
+lar[14115]=`<b>ου (ὁ)</b> Aræthos, <i>fl. d’Épire,</i> LYC. <i>409</i>.`

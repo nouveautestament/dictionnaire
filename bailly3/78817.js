@@ -1,0 +1,1 @@
+lar[78817]=`<b>περι·κόχλιον, ου (τὸ)</b> écrou d’une vis, HLD. CHIR. <i>1, 469 Schneider, Eclogæ physicæ</i>.<p><b>Étym</b>. π. κοχλίας.`

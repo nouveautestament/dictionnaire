@@ -1,0 +1,1 @@
+lar[14401]=`<b>ου (ὁ)</b> l’Ardèskos, <i>fl. de Sarmatie,</i> HÉS. <i>Th. 345</i>.`

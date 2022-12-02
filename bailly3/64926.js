@@ -1,0 +1,1 @@
+lar[64926]=`<b>μετά·πρασις, εως (ἡ)</b> <font color="purple">[ᾱσ]</font> action de revendre, STR. <i>235</i>.<p><b>Étym</b>. μετά, πιπράσκω.`

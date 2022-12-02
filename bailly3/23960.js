@@ -1,0 +1,1 @@
+lar[23960]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> δέρμα, PLAT. <i>Eryx. 400a ;</i> ARSTT. <i>Physiogn. 3, 3</i>.`

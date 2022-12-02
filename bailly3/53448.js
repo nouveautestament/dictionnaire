@@ -1,0 +1,1 @@
+lar[53448]=`<b>κατ·αστερόω-ῶ</b>, placer parmi les astres, PALÆPH. <i>5</i>.`

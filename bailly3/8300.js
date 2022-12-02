@@ -1,0 +1,1 @@
+lar[8300]=`<b>ἄν·ελπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῐδ]</font> sans espoir de, <i>gén</i>. EUR. <i>I.T. 487</i>.<p><b>Étym</b>. ἀν-, ἐλπίς.`

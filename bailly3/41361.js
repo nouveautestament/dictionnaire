@@ -1,0 +1,1 @@
+lar[41361]=`<b>ἑτερό·πνοοι ἔναυλοι (οἱ)</b> flûte inégale, double flûte, ANACR. <i>65, 4</i>.<p><b>Étym</b>. ἕ. πνέω.`

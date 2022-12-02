@@ -1,0 +1,1 @@
+lar[58700]=`<b>ης, ες</b> <font color="purple">[ῠῑ]</font> semblable au cumin, TH. <i>H.P. 8, 7, 3</i>.<p><b>Étym</b>. κύμινον, -ωδης.`

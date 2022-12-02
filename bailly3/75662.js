@@ -1,0 +1,1 @@
+lar[75662]=`<b>παρα·καθεύδω</b>, dormir auprès, EL. <i>V.H. 1, 13</i> ; SPT. <i>Judith 10, 20</i>.`

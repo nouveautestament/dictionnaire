@@ -1,0 +1,1 @@
+lar[75138]=`<b>πανουργέω-ῶ</b> <font color="purple">[πᾰ]</font> (<i>pf</i>. πεπανούργηκα) être fourbe <i>ou</i> méchant, ANT. <i>137, 8</i> ; EUR. <i>Med. 583</i> ; AR. <i>Ach. 658</i> ; τι, SOPH. <i>Ant. 74</i> ; AR. <i>Eq. 803, etc.</i> ; πανουργίας π. DÉM. <i>943, 1,</i> tramer <i>ou</i> commettre qqe méchanceté, des méfaits.<p><b>Étym</b>. πανοῦργος.`

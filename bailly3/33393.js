@@ -1,0 +1,1 @@
+lar[33393]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> concubine, CALL. <i>fr. 170</i>.<p><b>Étym</b>. ἐμπελάω.`

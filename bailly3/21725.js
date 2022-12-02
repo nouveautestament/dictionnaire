@@ -1,0 +1,1 @@
+lar[21725]=`<b>γεννο·δότειρα, ας (ἡ)</b> celle qui donne des rejetons, <i>ép. d’Aphrodite,</i> ORPH. <i>H. 54, 12</i>.<p><b>Étym</b>. γέννα, δ.`

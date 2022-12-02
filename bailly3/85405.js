@@ -1,0 +1,1 @@
+lar[85405]=`<b>προσ·διαλαμβάνω</b>, entreprendre en outre, PTOL. <i>1, 2, 8</i>.`

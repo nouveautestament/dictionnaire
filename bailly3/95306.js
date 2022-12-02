@@ -1,0 +1,1 @@
+lar[95306]=`<b>συν·εισβάλλω</b>, fondre ensemble sur, s’abattre en même temps sur, <i>avec</i> εἰς <i>et l’acc</i>. HDT. <i>9, 17</i> ; τινί, XÉN. <i>Cyr. 7, 1, 30</i> ; μετά τινος, XÉN. <i>Hell. 6, 5, 22</i> ; avec qqn ; <i>abs</i>. THC. <i>2, 31, etc</i>.`

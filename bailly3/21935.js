@@ -1,0 +1,1 @@
+lar[21935]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. γηραιός PD. <i>P. 4, 121</i> ; ESCHL. <i>Pers. 171</i> ; CRAT. <i>(Bkk. 371) ; en parl. de choses,</i> ANTH. <i>5, 129 ; 9, 242</i>.`

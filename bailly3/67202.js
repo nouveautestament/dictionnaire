@@ -1,0 +1,1 @@
+lar[67202]=`<b>μυρ·άκανθος, ου (ἡ)</b> <font color="purple">[ῠᾰκ]</font> <i>autre n. de la plante</i> ἠρύγγιον, DIOSC. <i>3, 21</i>.`

@@ -1,0 +1,1 @@
+lar[71067]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> insuffisance de nourriture, A. TR. <i>12, p. 214</i>.<p><b>Étym</b>. ὀλιγοτρόφος.`

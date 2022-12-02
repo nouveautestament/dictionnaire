@@ -1,0 +1,1 @@
+lar[93631]=`<b>σύγ·χροος-ους, οον-ουν :<br>      1</b> de même couleur, de même aspect, POL. <i>3, 46, 6 ; fig</i>. PLUT. <i>M. 565c.</i><br><b>      2</b> qui touche à, uni, POSIDIPP. (ATH. <i>596d</i>) ; NIC. (EL. <i>N.A. 16, 28).</i><p><b>Étym</b>. σ. χρόα.`

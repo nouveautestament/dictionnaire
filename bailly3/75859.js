@@ -1,0 +1,1 @@
+lar[75859]=`<b>παρα·λιθάζω</b> <font color="purple">[ῐ]</font> se pétrifier sur le côté, TH. <i>H.P. 3, 8, 3</i>.<p><b>Étym</b>. π. λίθος.`

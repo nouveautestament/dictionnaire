@@ -1,0 +1,1 @@
+lar[87703]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Pylôn, <i>h</i>. IL. <i>12, 187</i>.`

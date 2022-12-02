@@ -1,0 +1,1 @@
+lar[11140]=`<b>ἀπ·αισχύνομαι</b>, s’abstenir par pudeur, rougir de ; PLAT. <i>Gorg. 494c</i>.`

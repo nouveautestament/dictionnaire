@@ -1,0 +1,1 @@
+lar[3583]=`<b>ἀκοσμέω-ῶ</b>, agir de façon à troubler l’ordre, <i>d’où</i> :<br><b>      1</b> mal agir, SOPH. <i>Ant. 730, Ph. 387</i> ; περί τι, PLAT. <i>Leg. 764b</i>, en qqe ch.<br><b>      2</b> manquer à son devoir, DÉM. <i>729, 7</i>.<br><b>      3</b> vivre dans le désordre, ISOCR. <i>148, 149</i> ; DÉM. <i>1226</i> ; ARR. <i>Epict. 3, 22, 97</i>.<p><b>Étym</b>. ἄκοσμος.`

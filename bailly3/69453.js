@@ -1,0 +1,1 @@
+lar[69453]=`<b>*ξενο·δαΐκτης</b>, <i>dor</i>. <b>ξενο·δαΐκτας, ου</b> <font color="purple">[ᾱς]</font> <i>adj. m</i>. meurtrier d.`

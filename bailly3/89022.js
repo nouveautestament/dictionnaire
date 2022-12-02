@@ -1,0 +1,1 @@
+lar[89022]=`<b>ου (τὸ)</b> = <i>lat</i>. ros marinus, romarin, <i>plante, d’ord</i>. λιβανωτίς, DIOSC. <i>3, 89</i>.`

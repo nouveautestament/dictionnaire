@@ -1,0 +1,1 @@
+lar[9595]=`<b>ἀντ·εμπίπλημι</b> <font color="darkgreen">(<i>ao</i>. ἀντενέπλησα) :</font><br><b>      1</b> emplir à son tour, <i>acc</i>. XÉN. <i>Hell. 2, 4, 12 ; au pass</i>. PLAT. <i>Leg. 705b.</i><br><b>      2</b> emplir en retour : τινός, XÉN. <i>An. 4, 5, 28,</i> de qqe ch.`

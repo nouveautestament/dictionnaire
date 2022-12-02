@@ -1,0 +1,1 @@
+lar[37462]=`<b>ἐπι·γλυκαίνω</b> <font color="purple">[ῠ]</font><br><b>      1 <i>tr.</i></b> édulcorer, GAL. <i>14, 277</i>.<br><b>      2 <i>intr.</i></b> être <i>ou</i> devenir doux, TH. <i>C.P. 6, 15, 4</i>.`

@@ -1,0 +1,1 @@
+lar[52539]=`<b>κατά·κισσος, ος, ον</b>, couvert <i>ou</i> entrelacé de lierre, ANACR. <i>41, 5</i>.<p><b>Étym</b>. κ. κισσός.`

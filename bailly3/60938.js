@@ -1,0 +1,1 @@
+lar[60938]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> goutte d’un liquide, <i>particul</i>. larme, ESCHL. <i>Ch. 448</i> ; humeur qui coule des yeux, GAL. <i>Lex. Hipp. 19, 118</i>.<br><b>      2</b> sorte de gâteau, CHRYSIPP. TYAN. (ATH. <i>647d</i>).<p><b>Étym</b>. λείβω ; <i>cf</i>. λίψ².`

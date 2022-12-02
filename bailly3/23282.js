@@ -1,0 +1,1 @@
+lar[23282]=`<b>ου (ὁ)</b> sorte de poisson, ARSTT. <i>H.A. 8, 2, 24</i>.`

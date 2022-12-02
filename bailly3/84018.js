@@ -1,0 +1,1 @@
+lar[84018]=`<b>προ·δωρέομαι-οῦμαι</b>, donner des présents auparavant, <i>pass</i>. JOS. <i>18, 9, 7</i>.`

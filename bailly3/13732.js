@@ -1,0 +1,1 @@
+lar[13732]=`<b>ἀπο·φθινύθω</b> <font color="purple">[ῐῠ]</font> (<i>seul. prés</i>.) :<br><b>      1</b> se consumer, périr, IL. <i>5, 643</i> ; A.RH. <i>1, 683</i>.<br><b>      2 <i>tr.</i></b> consumer, faire perdre, IL. <i>16, 540</i> ; EUR. <i>fr. 908</i>.`

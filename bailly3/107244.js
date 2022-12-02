@@ -1,0 +1,1 @@
+lar[107244]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> soufflé <i>ou</i> enflé, <i>en parl. de verre,</i> HÉRODOTUS (ORIB. <i>79 Matthäi).</i><p><b>Étym</b>. <i>vb. de</i> φυσάω.`

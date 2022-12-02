@@ -1,0 +1,1 @@
+lar[26121]=`<b>δι·εκδίδωμι</b>, <i>f</i>. διεκδώσω, transmettre, distribuer, HPC. <i>612, 32</i>.`

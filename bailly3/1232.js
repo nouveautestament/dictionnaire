@@ -1,0 +1,1 @@
+lar[1232]=`<font color="purple">[ᾰ]</font><br><b>      1</b> appeler du nom de frère, adopter comme, frère, traiter en frère, ISOCR. <i>390c.</i><br><b>      2</b> <i>au pass</i>. être frère de, <i>càd</i>. tout à fait semblable à, <i>dat</i>. HPC. <i>17, 42 ; 238, 44, etc</i>.<p><b>Étym</b>. ἀδελφός.`

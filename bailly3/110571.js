@@ -1,0 +1,1 @@
+lar[110571]=`<b>ου (ὁ)</b> duc, <i>oiseau de nuit, muni de deux aigrettes en forme d’oreilles,</i> ATH. <i>390f ;</i> PLUT. <i>M. 961e, etc. ; p. anal</i>. sot, imbécile. COM. (ATH. <i>391a</i>).<p><b>Étym</b>. οὖς.`

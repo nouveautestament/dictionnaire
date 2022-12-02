@@ -1,0 +1,1 @@
+lar[4146]=`<b>ας (ἡ)</b> Aléa, <i>surn. de Pallas honorée à Tégée et à Mantinée,</i> XÉN. <i>Hell. 6, 5, 27, etc</i>.<p>➳ <i>Ion</i>. -έη, HDT. <i>1, 66 ; 9, 70</i>.`

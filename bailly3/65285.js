@@ -1,0 +1,1 @@
+lar[65285]=`<i>adv</i>., ni d’un côté ni de l’autre, <i>avec mouv</i>. THC. <i>4, 118</i> ; PAUS. <i>2, 1, 4</i>.<p><b>Étym</b>. μηδέτερος, -σε.`

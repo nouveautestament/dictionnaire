@@ -1,0 +1,1 @@
+lar[37652]=`<b>ἐπι·διώκω :<br>      1</b> s’acharner à poursuivre, HDT. <i>4, 1, 160</i> ; LYS. <i>99, 24</i>.<br><b>      2</b> <i>t. de droit,</i> poursuivre en appel, IS. (POLL. <i>8, 67</i>).`

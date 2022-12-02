@@ -1,0 +1,1 @@
+lar[107211]=`<i>adv.</i> :<br><b>      1</b> dans l’état d’une chose détrempée, mouillée, ANTH. <i>7, 531</i>.<br><b>      2</b> pêle-mêle, confusément, ESCHL. <i>Pers. 812</i> ; XÉN. <i>Cyr. 7, 1, 37</i> ; POL. <i>30, 14, 6</i>.<p>➳ <i>Dor</i>. φύρδαν <font color="purple">[ᾱ]</font> ANTH. <i>l.c</i>.<p><b>Étym</b>. φύρω.`

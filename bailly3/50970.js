@@ -1,0 +1,1 @@
+lar[50970]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., en forme de tige creuse, <i>càd</i>. de tuyau, P. ÉG. <i>6, 89</i>.<p><b>Étym</b>. καλάμη, -δον.`

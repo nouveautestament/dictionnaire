@@ -1,0 +1,1 @@
+lar[34285]=`<b>ή, όν</b>, propre aux embuscades, <i>d’où</i> insidieux, STR. <i>154</i> ; PHIL. <i>2, 269</i> ; GAL. <i>2, 101</i>.<p><b>Étym</b>. ἐνεδρεύω.`

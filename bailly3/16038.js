@@ -1,0 +1,1 @@
+lar[16038]=`<b>ἀσπιδη·στρόφος, ος, ον</b> <font color="purple">[ῐ]</font> qui agite (<i>litt</i>. qui fait tourner) son bouclier, ESCHL. <i>Ag. 825</i>.<p><b>Étym</b>. ἀσπίς, στρέφω.`

@@ -1,0 +1,1 @@
+lar[76738]=`<b>παρ·εξετάζω</b>, confronter, comparer : τί τινι, DC. <i>53, 7</i> ; τι παρά τι, DÉM. <i>742, 1,</i> une chose avec une autre.`

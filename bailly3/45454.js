@@ -1,0 +1,1 @@
+lar[45454]=`<b>α, ον</b> <font color="purple">[ῐῠ]</font> qui équivaut à un demi-cotyle, DIOSC.<p><b>Étym</b>. ἡμικοτύλιον.`

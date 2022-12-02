@@ -1,0 +1,1 @@
+lar[2279]=`<b>ου (ὁ)</b> Ægisthos (Égisthe) <i>fils de Thyeste, meurtrier d’Agamemnon,</i> OD. <i>1, 29, etc.</i> ; ESCHL. <i>Ch. 1011 ; au plur</i>. Αἴγισθοι, EL. <i>V.H. 2, 11,</i> des Égisthe.`

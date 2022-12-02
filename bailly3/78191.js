@@ -1,0 +1,1 @@
+lar[78191]=`<b>πεπειρόω-ῶ</b>, faire mûrir, <i>d’où au pass</i>. être mûr, ARSTT. <i>Plant. 2, 10, 8</i>.<p><b>Étym</b>. πέπειρος.`

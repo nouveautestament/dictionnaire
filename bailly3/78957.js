@@ -1,0 +1,1 @@
+lar[78957]=`<b>περι·νέω</b>, amasser tout autour : τι, HDT. <i>4, 164</i> ; PLUT. <i>M. 244c</i>, amonceler qqe ch. autour ; <i>ou</i> τὴν οἰκίην ὕλῃ, HDT. <i>2, 107 ; cf</i>. HDT. <i>6, 80,</i> entourer la maison d’un amas de bois.`

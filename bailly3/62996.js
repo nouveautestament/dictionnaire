@@ -1,0 +1,1 @@
+lar[62996]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> sac, valise, bourse, XÉN. <i>An. 4, 3, 11</i> ; DS. <i>20, 41</i>.<p><b>Étym</b>. <i>pré-grec ; cf. l’emprunt lat</i>. marsupium.`

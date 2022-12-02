@@ -1,0 +1,1 @@
+lar[34544]=`<b>ἐν·θνῄσκω :<br>      1</b> mourir dans, <i>dat</i>. EUR. <i>Her. 560 ; abs</i>. SOPH. <i>O.C. 790</i>.<br><b>      2</b> rester comme insensible dans, <i>en parl. de la main,</i> EUR. <i>Hec. 246</i>.<p>➳ <i>Rare en prose,</i> LYS. <i>147, 13</i> ; PLUT. <i>M. 357 d. Épq. et ion</i>. ἐνιθν. NIC. <i>Th. 816</i>.`

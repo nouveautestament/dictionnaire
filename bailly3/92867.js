@@ -1,0 +1,1 @@
+lar[92867]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> campement, XÉN. <i>Hell. 4, 1, 24</i> ; DH. <i>10, 23</i>.<p><b>Étym</b>. στρατοπεδεύω.`

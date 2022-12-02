@@ -1,0 +1,1 @@
+lar[102657]=`<b>ὑπερ·μιξολύδιος, ος, ον</b> <font color="purple">[λῡ]</font> hypermixolydien, <i>mode de musique d’un demi-ton au-dessus du mixolydien,</i> ATH. <i>625d</i>.<p><b>Étym</b>. ὑ. μιξολύδιος.`

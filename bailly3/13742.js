@@ -1,0 +1,1 @@
+lar[13742]=`<b>ἀπο·φλοιόω-ῶ</b>, ôter l’écorce, NONN. <i>D. 14, 380</i>.<br><b><i>Moy.</i></b> se dépouiller de, <i>acc</i>. ANT. <i>6, 263</i>.<p><b>Étym</b>. ἀ. φλοιός.`

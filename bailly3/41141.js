@@ -1,0 +1,1 @@
+lar[41141]=`<b>ιδος (ἡ)</b> Hestiæotide <i>ou</i> territoire d’Hestiæa :<br><b>      1</b> <i>contrée du nord de la Thessalie,</i> DS. <i>4, 37</i> ; DH. <i>1, 18</i>.<br><b>      2</b> territoire d’Hestiæa, <i>en Eubée,</i> HDT. <i>1, 56</i>.<p>➳ <i>Ion</i>. Ἱστιαιῶτις, HDT. <i>l. c</i>.`

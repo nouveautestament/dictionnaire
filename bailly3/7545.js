@@ -1,0 +1,1 @@
+lar[7545]=`<b>ῆς (ἡ)</b> suture à la paupière supérieure, P. ÉG. <i>6, 8</i>.<p><b>Étym</b>. ἀναρράπτω.`

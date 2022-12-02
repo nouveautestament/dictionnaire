@@ -1,0 +1,1 @@
+lar[105423]=`<b>φιλ·άγρυπνος, ος, ον</b>, qui aime à veiller, ANTH. <i>5, 166, 197</i> ; A. PL. <i>309</i> ; CHRISTOD. <i>Ecphr. 395</i> ; ORPH. <i>H. 8, 7</i>.<p><b>Étym</b>. φίλος, ἄγρυπνος.`

@@ -1,0 +1,1 @@
+lar[64869]=`<b>Μετ·άνειρα, ας (ἡ)</b> <font color="purple">[ᾰν]</font> Métaneira, <i>f</i>. HH. <i>Cer. 161, 206</i> ; DÉM. <i>1351, 24</i>.<p>➳ <i>Gén. épq</i>. Μετανείρης, HH. <i>l. c</i>.<p><b>Étym</b>. μ. ἀνήρ.`

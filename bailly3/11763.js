@@ -1,0 +1,1 @@
+lar[11763]=`<b>ἀ·περιήγητος, ος, ον</b>, non développé <i>ou</i> expliqué, PLAT. <i>Leg. 770b</i>.<p><b>Étym</b>. ἀ. περιηγέομαι.`

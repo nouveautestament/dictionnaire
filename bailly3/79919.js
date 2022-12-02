@@ -1,0 +1,1 @@
+lar[79919]=`<b>ωνος (ὁ)</b> Pétrôn, <i>h</i>. HIPP. <i>et</i> PHÆNIAS (PLUT. <i>Def. or. 23</i>) ; PLUT. <i>Cæs. 16, etc</i>.`

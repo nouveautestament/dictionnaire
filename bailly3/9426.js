@@ -1,0 +1,1 @@
+lar[9426]=`<b>ἀντ·ακρωτήριον, ου (τὸ)</b> promontoire opposé, STR. <i>6, 1, 1 Kram</i>.`

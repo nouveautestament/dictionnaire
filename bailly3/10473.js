@@ -1,0 +1,1 @@
+lar[10473]=`<b>ἀντ·ίσχυρος, ος, ον</b> <font color="purple">[ῡ]</font> qui prévaut contre, ARTÉM. <i>88 Reiff</i>.<p><b>Étym</b>. ἀ. ἰσχυρός.`

@@ -1,0 +1,1 @@
+lar[38386]=`<b>ἐπι·μελαίνομαι :<br>      1</b> noircir à la surface, HPC. <i>Fract. 775</i>.<br><b>      2</b> noircir en mûrissant, TH. <i>H.P. 3, 15, 6</i>.`

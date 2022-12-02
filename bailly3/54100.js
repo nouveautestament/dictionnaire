@@ -1,0 +1,1 @@
+lar[54100]=`<b>κατ·οικοδομέω-ῶ :<br>      1</b> couvrir de constructions, XÉN. <i>Ath. 3, 4</i> ; STR. <i>245</i>.<br><b>      2</b> dissiper en constructions, PLUT. <i>Popl. 15</i>.<br><b>      3</b> enfermer dans une maison, séquestrer, IS. <i>73, 34</i>.`

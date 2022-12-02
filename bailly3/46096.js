@@ -1,0 +1,1 @@
+lar[46096]=`<i>adv</i>., dès l’aurore, au point du jour, IL. <i>11, 555, etc.</i> ; OD. <i>1, 372, etc.</i> ; THCR. <i>Idyl. 15, 132</i>.<p>➳ <i>Dor</i>. ἀῶθεν <font color="purple">[ᾱ]</font> THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. ἠώς, -θεν.`

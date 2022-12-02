@@ -1,0 +1,1 @@
+lar[14871]=`<b>ἁρματο·δρομία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> course de chars, STR. <i>236</i>.<p><b>Étym</b>. <i>v</i>. ἁρματοδρομέω.`

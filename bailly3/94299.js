@@ -1,0 +1,1 @@
+lar[94299]=`<i>anc. att</i>. <b>ξύμπνοος-ους, οος-ους, οον-ουν :<br>      1</b> animé d’un même souffle, <i>joint à</i> συμπαθής, PLUT. <i>M. 574e ; à</i> ὁμοπαθής, THÉM. <i>Or. 6, 76b ; à</i> ξυνῳδός, ARÉT. <i>p. 8, 39</i>.<br><b>      2</b> qui s’accorde avec, <i>dat</i>. ANTH. <i>6, 227 ; 11, 372, etc</i>.<p><b>Étym</b>. συμπνέω.`

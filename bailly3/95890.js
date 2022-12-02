@@ -1,0 +1,1 @@
+lar[95890]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, lié avec, <i>d’où</i> compagnon, ami, <i>au pl</i>. A.RH. <i>4, 1240</i>.<p><b>Étym</b>. συνίημι.`

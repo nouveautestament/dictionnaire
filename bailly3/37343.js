@@ -1,0 +1,1 @@
+lar[37343]=`<b>εως (ἡ)</b> nouvelle pousse de bourgeons, TH. <i>C.P. 1, 10, 6</i>.<p><b>Étym</b>. ἐπιβλαστάνω.`

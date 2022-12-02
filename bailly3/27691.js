@@ -1,0 +1,1 @@
+lar[27691]=`<i>adv</i>., en esclave, d’une manière servile, XÉN. <i>Œc. 10, 10</i>.<p>•<i> Cp</i>. -ώτερον, ARR. <i>Epict. 4, 1, 25</i>.`

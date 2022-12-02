@@ -1,0 +1,1 @@
+lar[80222]=`<b>ητος (ἡ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> talent de persuader <i>ou</i> de plaire, POL. <i>23, 18, 2, etc.</i> ; PLUT. <i>M. 1040b.</i><br><b>      2</b> vraisemblance, PLAT. <i>Leg. 839d, etc.</i> ; ARSTT. <i>Nic. 1, 6, 15</i>.<p><b>Étym</b>. πιθανός.`

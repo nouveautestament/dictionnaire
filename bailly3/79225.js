@@ -1,0 +1,1 @@
+lar[79225]=`<b>περί·ρρυπος, ος, ον</b> <font color="purple">[ῠ]</font> tout souillé, CRATÈS (DL. <i>6, 85).</i><p><b>Étym</b>. π. ῥύπος.`

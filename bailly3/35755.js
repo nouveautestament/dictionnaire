@@ -1,0 +1,1 @@
+lar[35755]=`<b>ος, ον</b>, qui concerne les affranchis, PORPH. <i>V. Pyth. 21</i>.<p><b>Étym</b>. ἐξελεύθερος.`

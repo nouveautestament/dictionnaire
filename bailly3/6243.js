@@ -1,0 +1,1 @@
+lar[6243]=`<b>Ἀμφιλοχικὸν Ἄργος (τὸ)</b> Argos d’Amphilokhie (<i>auj</i>. près de Neokhóri) <i>capitale de l’Amphilokhie,</i> THC. <i>2, 68</i>.<p><b>Étym</b>. Ἀμφιλοχία.`

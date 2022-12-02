@@ -1,0 +1,1 @@
+lar[41388]=`<b>ἑτερο·φαής, ής, ές</b> <font color="purple">[ᾰ]</font> qui n’est éclairé <i>ou</i> qui ne brille que d’un côté, SYN. <i>Insomn. 6, 1297d Migne</i>.<p><b>Étym</b>. ἕ. φάος.`

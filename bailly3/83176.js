@@ -1,0 +1,1 @@
+lar[83176]=`<b>ης, ες</b> <font color="purple">[μᾰ]</font> qui ressemble à un travail, à une occupation, PLAT. <i>Parm. 137b</i>.<p><b>Étym</b>. πραγματεία, -ωδης.`

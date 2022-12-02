@@ -1,0 +1,1 @@
+lar[97060]=`<b>σχινο·κέφαλος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui a la tête grosse et allongée (comme un oignon marin) CRAT. (PLUT. <i>Per. 3).</i><p><b>Étym</b>. σχῖνος, κεφαλή.`

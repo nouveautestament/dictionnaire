@@ -1,0 +1,1 @@
+lar[49069]=`<b>α, ον</b>, <i>seul. fém</i>. qui prend avec de la glu (la Fortune) PLUT. <i>M. 281e</i>.<p><b>Étym</b>. ἰξευτήρ.`

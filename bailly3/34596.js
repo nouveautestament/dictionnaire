@@ -1,0 +1,1 @@
+lar[34596]=`<i>adv</i>., annuellement, PTOL. <i>Tetr. 91</i>.`

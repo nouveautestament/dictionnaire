@@ -1,0 +1,1 @@
+lar[99291]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> chaud, brûlant, NIC. <i>Al. 445, 463</i> ; NONN. <i>D. 2, 501, etc</i>.<p><b>Étym</b>. τινθός.`

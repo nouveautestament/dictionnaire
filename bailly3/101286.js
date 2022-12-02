@@ -1,0 +1,1 @@
+lar[101286]=`<i>aphérèse poét. et att. p</i>. τῷ ὄχλῳ.`

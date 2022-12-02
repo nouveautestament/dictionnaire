@@ -1,0 +1,1 @@
+lar[55966]=`<b>ου (ὁ)</b> Kléônidès, <i>h</i>. PLUT. <i>Demetr. 15</i>.<p><b>Étym</b>. <i>patr. de</i> Κλέων.`

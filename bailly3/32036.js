@@ -1,0 +1,1 @@
+lar[32036]=`<b>ἐκ·σιγάω-ῶ</b> <font color="purple">[ῑ]</font> <font color="darkgreen">(<i>ao. pass. dor</i>. ἐκσιγαθείς <font color="purple">[ᾱ]</font>)</font> se taire, ANTH. <i>7, 182</i>.`

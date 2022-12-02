@@ -1,0 +1,1 @@
+lar[88977]=`<b>ῆς (ἡ)</b> déchirure, fente, crevasse, OPP. <i>C. 4, 391</i> ; NONN. <i>D. 1, 418</i>.<p><b>Étym</b>. ῥώξ.`

@@ -1,0 +1,1 @@
+lar[73200]=`<b>ὁσ·ημέραι</b>, <i>adv</i>., chaque jour, AR. <i>Pl. 1006</i> ; THC. <i>7, 27, etc</i>.<p><b>Étym</b>. ὅσος, ἡμέρα.`

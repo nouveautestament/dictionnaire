@@ -1,0 +1,1 @@
+lar[55260]=`<b>ου (ἡ)</b> Kèrinthos, <i>v. d’Eubée,</i> IL. <i>2, 538</i> ; THGN. <i>891</i>.<p><b>Étym</b>. <i>v</i>. κήρινθος.`

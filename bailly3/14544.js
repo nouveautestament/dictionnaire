@@ -1,0 +1,1 @@
+lar[14544]=`<i>adv</i>., comme l’article, DYSC.`

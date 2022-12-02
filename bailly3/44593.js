@@ -1,0 +1,1 @@
+lar[44593]=`<i>ou</i> <b>Ζόαρες, ων (οἱ)</b> habitants de Zoara, <i>v. de Perse</i>, NONN. <i>D. 26, 166</i>.`

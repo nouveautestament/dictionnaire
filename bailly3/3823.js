@@ -1,0 +1,1 @@
+lar[3823]=`<b>ἀκρο·πόλος, ος, ον</b>, <i>seul. dat. pl</i>. -οισιν, IL. <i>5, 523</i> ; OD. <i>19, 205,</i> élevé, <i>en parl. de montagnes</i>.<p><b>Étym</b>. ἄ. πέλω.`

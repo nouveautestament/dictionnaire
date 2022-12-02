@@ -1,0 +1,1 @@
+lar[63110]=`(<i>seul. prés. impér</i>. μάστιε, IL. <i>17, 622, et impf. 3 sg</i>. ἐμάστιε, NONN. <i>D. 1, 179</i>) fouetter, HÉS. <i>Sc. 466</i>.<br><b><i>Moy.</i></b> (<i>seul. prés</i>.) se fouetter (avec sa queue) <i>en parl. d’un lion,</i> IL. <i>20, 171</i>.<p><b>Étym</b>. μάστις.`

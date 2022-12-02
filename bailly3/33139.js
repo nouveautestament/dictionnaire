@@ -1,0 +1,1 @@
+lar[33139]=`<b>ἐμ·βραδύνω</b> <font color="purple">[ᾰῡ]</font> s’attarder, s’arrêter à, <i>dat</i>. LUC. <i>Dom. 3, 23</i> ; SEXT. <i>391, 24 Bkk</i>.<p><b>Étym</b>. ἐν, βρ.`

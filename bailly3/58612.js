@@ -1,0 +1,1 @@
+lar[58612]=`<b>κυλινδρο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> de forme cylindrique, PLUT. <i>M. 891c</i>.<p><b>Étym</b>. κύλινδρος, εἶδος.`

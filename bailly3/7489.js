@@ -1,0 +1,1 @@
+lar[7489]=`<b>ος, ον</b>, qu’on ne peut saisir <i>ou</i> toucher, intangible, ARSTT. <i>An. 2, 11, 19</i>.<p><b>Étym</b>. ἀν-, ἅπτω¹.`

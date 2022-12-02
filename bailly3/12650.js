@@ -1,0 +1,1 @@
+lar[12650]=`<b>ἀπο·κρανίζω</b> <font color="darkgreen">(<i>impf</i>. ἀπεκράνιζον)</font> <font color="purple">[ᾱν]</font> faire tomber de la tête, ANTH. <i>6, 255</i>.<p><b>Étym</b>. ἀ. κρανίον.`

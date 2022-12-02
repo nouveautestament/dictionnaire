@@ -1,0 +1,1 @@
+lar[73654]=`<b>οὐρανο·βατέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> <i>réc</i>. monter au ciel, CHRYS. <i>5, 528</i>.<p><b>Étym</b>. οὐρανός, βατός.`

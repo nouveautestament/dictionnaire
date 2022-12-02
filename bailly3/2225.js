@@ -1,0 +1,1 @@
+lar[2225]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui se trouve au bord de la mer, ARSTT. <i>H.A. 1, 1, 15</i>.<p><b>Étym</b>. αἰγιαλός, -ωδης.`

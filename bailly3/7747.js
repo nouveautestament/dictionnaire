@@ -1,0 +1,1 @@
+lar[7747]=`<b>ἀνα·τάσσω</b>, <i>att</i>. <b>ἀνα·τάττω</b>, déranger, détruire, abolir, DC. <i>78, 18 (ao.2 pass. 3 sg</i>. ἀνετάγη).<br><b><i>Moy.</i></b> parcourir en ordre, réciter, raconter, PLUT. <i>M. 968c</i>.`

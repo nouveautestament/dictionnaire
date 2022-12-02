@@ -1,0 +1,1 @@
+lar[87943]=`<b>πυρο·λόγος, ος, ον</b> <font color="purple">[ῡ]</font> qui ramasse le blé, ANTH. <i>6, 104</i>.<p><b>Étym</b>. πυρός, λέγω.`

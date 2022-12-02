@@ -1,0 +1,1 @@
+lar[104030]=`<b>ὑπο·τριμερής, ής, ές</b> <font color="purple">[ῐ]</font> moindre de trois parties <i>ou</i> fractions, JAMBL. <i>Nicom. ar. p. 58b</i>.`

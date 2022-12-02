@@ -1,0 +1,1 @@
+lar[61644]=`<b>ή, όν</b>, courbé, penché en avant, HPC. <i>763c, etc.</i> ; ARSTT. <i>Inc. an. 7, 7</i>.`

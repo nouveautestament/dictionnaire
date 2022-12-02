@@ -1,0 +1,1 @@
+lar[89144]=`<b>ή, όν</b>, rempli, bourré, ANTIPH. (<i>Com. fr. 3, 72).</i><p><b>Étym</b>. <i>vb. de</i> σάττω.`

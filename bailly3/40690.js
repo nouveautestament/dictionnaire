@@ -1,0 +1,1 @@
+lar[40690]=`<b>ή, όν</b>, enclin à ramper ; <i>subst</i>. τὰ ἑρπηστικά, HPC. <i>Coac. 220e</i>, ulcères rongeurs.<p><b>Étym</b>. ἕρπω.`

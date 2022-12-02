@@ -1,0 +1,1 @@
+lar[53990]=`<b>κατ·ευτελίζω</b>, déprécier, mépriser, PLUT. <i>M. 1097c</i>.`

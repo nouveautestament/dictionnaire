@@ -1,0 +1,1 @@
+lar[10142]=`<b>ἀντιο·στατέω-ῶ</b> <font color="purple">[τᾰ]</font> rester contraire, <i>en parl. du vent,</i> SOPH. <i>Ph. 640</i>.<p><b>Étym</b>. ἀντίος, στατός.`

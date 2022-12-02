@@ -1,0 +1,1 @@
+lar[67004]=`<b>η, ον</b> <font color="purple">[ῡῐ]</font> tendre comme la moelle, ANTH. <i>12, 37</i>.<p><b>Étym</b>. μυελός.`

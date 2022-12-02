@@ -1,0 +1,1 @@
+lar[92676]=`<i>adv</i>., de manière à boucher, SIMPL. <i>Arstt. t. 4, p. 30b, 43</i>.<p><b>Étym</b>. στοιβή, -δον.`

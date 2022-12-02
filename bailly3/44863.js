@@ -1,0 +1,1 @@
+lar[44863]=`<b>ου (τὸ)</b> lieu de réunion et de divertissement pour la jeunesse, PLUT. <i>Pomp. 40, 53</i> ; ATH. <i>425e</i>.<p><b>Étym</b>. ἡβητήρ.`

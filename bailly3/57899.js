@@ -1,0 +1,1 @@
+lar[57899]=`<font color="darkgreen">(<i>ao</i>. ἐκριθίασα, <i>pf</i>. κεκριθίακα)</font> <font color="purple">[ῑθ]</font> se bourrer d’orge, avoir une indigestion d’orge, <i>en parl. de chevaux,</i> XÉN. <i>Eq. 4, 2</i> ; ARSTT. <i>H.A. 8, 24 ; fig</i>. se bourrer, se gorger, CLÉANTH. (STOB. <i>Fl. 6, 20</i>) ; BABR. <i>62, 2</i>.<p><b>Étym</b>. κριθή.`

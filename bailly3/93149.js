@@ -1,0 +1,1 @@
+lar[93149]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui babille, qui parle beaucoup et agréablement, AR. <i>Ach. 429</i> ; PLAT. <i>Eryx. 397d ; avec un inf</i>. ALCIPHR. <i>3, 65</i> ; LUC. <i>V. auct. 15</i> ; τὸ στωμύλον, D. PHAL. <i>§ 151,</i> langage spirituel <i>ou</i> enjoué.<p>➳ <i>Fém</i>. στωμύλη, LUC. <i>Musc. enc. 10</i>.<p><b>Étym</b>. στόμα.`

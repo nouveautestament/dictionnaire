@@ -1,0 +1,1 @@
+lar[65363]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de Mèlis : Μηλιάδες νύμφαι, SOPH. <i>Ph. 725,</i> nymphes de Mèlis.<p><b>Étym</b>. Μηλίς.`

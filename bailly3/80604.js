@@ -1,0 +1,1 @@
+lar[80604]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> humidité, <i>d’où</i> aquosité, surabondance d’humeurs, HPC. <i>Epid. 1, 943, etc.</i> ; ARÉT. <i>Caus. m. acut. 2, 6</i>.`

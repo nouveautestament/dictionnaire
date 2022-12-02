@@ -1,0 +1,1 @@
+lar[39819]=`<b>ἐπ·οίνιος, ος, ον</b>, qui se fait <i>ou</i> se chante en buvant, <i>càd</i>. à table, NONN. <i>D. 11, 301</i>.<p><b>Étym</b>. ἐπί, οἶνος.`

@@ -1,0 +1,1 @@
+lar[52435]=`<b>εως (ἡ)</b> <font color="purple">[βᾰ]</font> <i>c</i>. κατάβασις, ANTH. <i>11, 23</i>.`

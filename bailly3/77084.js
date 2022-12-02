@@ -1,0 +1,1 @@
+lar[77084]=`<b>α, ον</b>, <i>vb. de</i> παροράω, LUC. <i>Tim. 9 ; au neutre,</i> DÉM. <i>805, 9, etc</i>.`

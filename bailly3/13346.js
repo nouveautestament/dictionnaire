@@ -1,0 +1,1 @@
+lar[13346]=`<b>ἀπο·σκυβαλίζω</b> <font color="purple">[ῠᾰ]</font> jeter au rebut, MÉLÉT. <i>3, 99 Cramer, etc</i>.`

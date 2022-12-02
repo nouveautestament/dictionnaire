@@ -1,0 +1,1 @@
+lar[62644]=`<b>μαλακό·φωνος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à la voix douce, harmonieuse, DH. <i>Dem. 40</i>.<p><b>Étym</b>. μ. φωνή.`

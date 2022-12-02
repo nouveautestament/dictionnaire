@@ -1,0 +1,1 @@
+lar[54259]=`<b>κατώ·φορος, ος, ον</b>, qui se porte en bas, qui descend, A. APHR.<p><b>Étym</b>. κάτω, φέρω.`

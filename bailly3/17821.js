@@ -1,0 +1,1 @@
+lar[17821]=`<b>αὐχμέω-ῶ</b> (<i>seul. prés. et ao</i>.) être sec <i>ou</i> poudreux, <i>d’où</i> être sale, OD. <i>24, 250</i> ; AR. <i>Nub. 442</i> ; PLAT. <i>Rsp. 606d, etc</i>.<p><b>Étym</b>. αὐχμός.`

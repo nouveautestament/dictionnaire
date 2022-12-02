@@ -1,0 +1,1 @@
+lar[42448]=`<b>εὐ·κληματέω-ῶ</b> <font color="purple">[ᾰ]</font> pousser de vigoureux sarments, SPT. <i>Hos. 10, 1</i> ; PHIL. <i>1, 681</i>.<p><b>Étym</b>. εὖ, κλῆμα.`

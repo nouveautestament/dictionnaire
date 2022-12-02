@@ -1,0 +1,1 @@
+lar[280]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> bonté, bienveillance, SPT. <i>2Par. 24, 16, etc.</i> ; NT. <i>Rom. 15, 14, etc</i>.<p><b>Étym</b>. ἀγαθόω.`

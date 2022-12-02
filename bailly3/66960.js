@@ -1,0 +1,1 @@
+lar[66960]=`<b>ας (ἡ)</b> Mopsopie, <i>anc. n. de l’Attique,</i> CALL. <i>fr. 351</i> ; STR. <i>397</i>.<p><b>Étym</b>. Μόψοψ.`

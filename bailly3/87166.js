@@ -1,0 +1,1 @@
+lar[87166]=`<b>ου (τὸ) :<br>      1</b> premier rang, prééminence, DÉM. <i>151, 8, etc.</i><br><b>      2</b> <i>au plur</i>. premier prix, PLAT. <i>Phil. 22e, 33c, etc.</i> ; DÉM. <i>247, 5</i> ; DH. <i>Comp. 24</i> ; DS. <i>17, 54</i>.<p><b>Étym</b>. πρῶτος.`

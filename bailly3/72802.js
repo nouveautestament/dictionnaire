@@ -1,0 +1,1 @@
+lar[72802]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑᾱ]</font> Mangeur d’origan, <i>n. de grenouille,</i> BATR. <i>258</i>.<p><b>Étym</b>. ὀρίγανος.`

@@ -1,0 +1,1 @@
+lar[1849]=`<font color="darkgreen">(<i>seul. act. ao. sbj. 3 sg</i>. ἀζήνῃ, NIC. <i>Th. 205, ou</i> ἀζήνῃσι, <i>Th. 368 ; pass. prés. 3 sg</i>. ἀζαίνεται, <i>Th. 339</i>)</font> dessécher.<p><b>Étym</b>. ἄζα ; <i>cf</i>. ἀζάνω.`

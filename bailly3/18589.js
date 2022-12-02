@@ -1,0 +1,1 @@
+lar[18589]=`<i>adv</i>., sans toucher, PLUT. <i>M. 665f</i>.<p><b>Étym</b>. ἄψαυστος.`

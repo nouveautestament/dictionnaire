@@ -1,0 +1,1 @@
+lar[70134]=`<b>ή, όν</b>, qui concerne les dents, ORIB. <i>p. 336 Matthäi</i>.<p><b>Étym</b>. ὀδούς.`

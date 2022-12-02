@@ -1,0 +1,1 @@
+lar[27506]=`<b>ου (ὁ)</b> Domninos, <i>h</i>. ANTH. <i>9, 659 ; voc</i>. -ῖνε, <i>ibid. 658</i>.`

@@ -1,0 +1,1 @@
+lar[66637]=`<b>μονό·στομος, ος, ον</b>, qui n’a qu’une embouchure, ANTYLL. (ORIB. <i>3, 631 B.-Dar</i>.).<p><b>Étym</b>. μ. στόμα.`

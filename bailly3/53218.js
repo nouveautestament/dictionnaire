@@ -1,0 +1,1 @@
+lar[53218]=`<b>κατάρης ἄνεμος</b> <font color="purple">[ᾰᾱ]</font> vent de tempête, ouragan (<i>propr</i>. vent qui renverse <i>ou</i> qui s’abat sur) ALC. <i>131</i> ; SAPPH. (EUST. <i>p. 603, 35).</i><p><b>Étym</b>. καταράσσω.`

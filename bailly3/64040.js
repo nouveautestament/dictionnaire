@@ -1,0 +1,1 @@
+lar[64040]=`<b>Μελινο·φάγοι, ων (οἱ)</b> <font color="purple">[ῐᾰ]</font> les Mélinophages, <i>propr</i>. « mangeurs de millet », <i>pple de Thrace,</i> XÉN. <i>An. 7, 4, 12</i>.<p><b>Étym</b>. μελίνη, φαγεῖν.`

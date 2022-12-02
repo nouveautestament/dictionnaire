@@ -1,0 +1,1 @@
+lar[105521]=`<b>φιλ·αστρολόγος, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui aime l’astrologie, PTOL. <i>Tetr. 2, fol. 14</i> ; PROCL. <i>Ptol. p. 95, 19</i>.`

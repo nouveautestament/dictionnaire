@@ -1,0 +1,1 @@
+lar[81994]=`<b>πολύ·κλειστος, ος, ον</b>, fermé avec beaucoup de soin, PHOCYL. <i>203 Bgk</i>.<p><b>Étym</b>. π. κλείω.`

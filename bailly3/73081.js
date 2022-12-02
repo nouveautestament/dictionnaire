@@ -1,0 +1,1 @@
+lar[73081]=`<b>ὀρτυγο·τρόφος, ος, ον</b> <font color="purple">[ῠ]</font> qui nourrit des cailles, PLAT. <i>Euthyd. 290d</i>.<p><b>Étym</b>. ὄρτυξ, τρέφω.`

@@ -1,0 +1,1 @@
+lar[43422]=`<i>adv</i>., avec vigueur, PHIL.<p><b>Étym</b>. εὐσθενής.`

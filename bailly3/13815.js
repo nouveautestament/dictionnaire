@@ -1,0 +1,1 @@
+lar[13815]=`<b>ἀπο·χυλίζω</b> <font color="purple">[ῡ]</font> exprimer le jus de, <i>acc</i>. DIOSC. <i>1, 115</i>.`

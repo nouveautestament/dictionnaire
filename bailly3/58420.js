@@ -1,0 +1,1 @@
+lar[58420]=`<font color="purple">[ῠβῐ]</font> heurter du coude, EPICH. (POLL. <i>2, 142).</i><p><b>Étym</b>. κύβιτον.`

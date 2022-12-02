@@ -1,0 +1,1 @@
+lar[95612]=`<b>συν·επιδέω</b>, lier ensemble, HPC. <i>Off. 748</i> ; ORIB. <i>p. 45, 106 Mai</i>.`

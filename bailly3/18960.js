@@ -1,0 +1,1 @@
+lar[18960]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> assujetti à l’aide d’un pêne (verrou), PARMÉN. (SEXT. <i>M. 7, 111</i>).<br><b>      2</b> orné d’appendices en forme de glands (vase), ATH. <i>502b</i>.<p><b>Étym</b>. βαλανόω.`

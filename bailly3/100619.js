@@ -1,0 +1,1 @@
+lar[100619]=`<b>ου (τὸ)</b> <font color="purple">[ῐχ]</font> <i>dim. de</i> θρίξ, ARSTT. <i>Probl. 33, 18</i> ; PLUT. <i>M. 727a</i>.`

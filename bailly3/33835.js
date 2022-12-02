@@ -1,0 +1,1 @@
+lar[33835]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> enduit, oint, graissé, HPC. <i>407, 17</i>.<p><b>Étym</b>. ἐναλείφω.`

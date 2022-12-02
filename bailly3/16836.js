@@ -1,0 +1,1 @@
+lar[16836]=`<b>ἀτιτέω-ῶ</b> (<i>seul. ao. 3 pl</i>. ἀτίτησαν) <font color="purple">[ῐ]</font> déshonorer, profaner, DP. <i>1158</i>.<p><b>Étym</b>. ἄτιτος.`

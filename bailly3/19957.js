@@ -1,0 +1,1 @@
+lar[19957]=`<b>ή, όν :<br>      1</b> qui bêle ; τὰ βληχητά, EL. <i>N.A. 2, 54,</i> animaux bêlants.<br><b>      2</b> qui vagit, EUP. (SCH.-AR. <i>Nub. 997).</i><p><b>Étym</b>. <i>vb. de</i> βληχάομαι.`

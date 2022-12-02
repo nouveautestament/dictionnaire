@@ -1,0 +1,1 @@
+lar[87743]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> temple des adorateurs du feu, STR. <i>733</i>.<p><b>Étym</b>. Πύραιθοι.`

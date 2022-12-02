@@ -1,0 +1,1 @@
+lar[109747]=`<b>ψευδο·φίλιππος, ου (ὁ)</b> <font color="purple">[φῐ]</font> faux Philippe, <i>qui se faisait passer pour fils de Persée, roi de Macédoine,</i> LUC. <i>Ind. 20</i> ; STR. <i>333, etc. ; cf</i>. ψευδαλέξανδρος.`

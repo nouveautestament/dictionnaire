@@ -1,0 +1,1 @@
+lar[57954]=`<b>κριό·στασις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> support d’un bélier de siège, PHIL. BYZ. (<i>Math. vet. p. 92).</i><p><b>Étym</b>. κριός, στάσις.`

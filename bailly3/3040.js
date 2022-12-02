@@ -1,0 +1,1 @@
+lar[3040]=`<font color="purple">[κᾰ]</font> <i>adv</i>., avec impureté, PLAT. <i>Tim. 92a</i>.`

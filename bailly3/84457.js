@@ -1,0 +1,1 @@
+lar[84457]=`<b>προ·καταθάπτω</b>, ensevelir auparavant, NAZ.`

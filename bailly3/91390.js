@@ -1,0 +1,1 @@
+lar[91390]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. σκύφος, σκύφος² ESCHL. <i>fr. 184 Dind</i>.`

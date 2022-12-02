@@ -1,0 +1,1 @@
+lar[52804]=`<b>κατα·ματεύομαι</b>, sonder, explorer avec le doigt, HPC. <i>547, 55</i>.`

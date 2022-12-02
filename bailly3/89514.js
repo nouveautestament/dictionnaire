@@ -1,0 +1,1 @@
+lar[89514]=`<b>ου (ὁ)</b> Satnios, <i>Troyen,</i> IL. <i>14, 443</i>.`

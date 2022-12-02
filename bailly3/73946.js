@@ -1,0 +1,1 @@
+lar[73946]=`<b>ὀχλο·κρατία, ας (ἡ)</b> <font color="purple">[ρᾰ]</font> gouvernement exercé par la multitude, POL. <i>6, 4, 6, etc.</i> ; PLUT. <i>M. 826f</i>.<p><b>Étym</b>. ὄ. κρατέω.`

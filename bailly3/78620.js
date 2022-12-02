@@ -1,0 +1,1 @@
+lar[78620]=`<b>εως (ἡ) :<br>      1</b> action de conduire autour, <i>d’où</i> description <i>ou</i> explication détaillée, STR. <i>403</i> ; ATH. <i>278d ;</i> LUC. <i>Char. 22</i>.<br><b>      2</b> dessin du contour, contour, HDT. <i>2, 73</i>.<p><b>Étym</b>. περιηγέομαι.`

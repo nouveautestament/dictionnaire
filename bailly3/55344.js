@@ -1,0 +1,1 @@
+lar[55344]=`<b>ϋκος (ὁ)</b> Kèyx (Céyx) :<br><b>      1</b> <i>anc. roi de Trakhis,</i> HÉS. <i>Sc. 354, 476</i>.<br><b>      2</b> <i>mari d’Halcyone,</i> LUC. <i>Halc. 1</i>.`

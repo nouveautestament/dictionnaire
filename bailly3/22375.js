@@ -1,0 +1,1 @@
+lar[22375]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> rave ronde, AR. <i>fr. 476</i> ; COM. (ATH. <i>7e ; 133d ; 419a, etc</i>.) ; JUL. POLYEN <i>etc</i>.<p><b>Étym</b>. γογγύλος.`

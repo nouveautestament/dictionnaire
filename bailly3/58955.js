@@ -1,0 +1,1 @@
+lar[58955]=`<b>(ὁ) :<br>      1</b> <i>lat</i>. Quirinal, le Quirinal, <i>colline de Rome,</i> PLUT. <i>Rom. 29</i>.<br><b>      2</b> Κ. φλαμίν = <i>lat</i>. Quirinalis flamen, PLUT. <i>Num. 7</i>.`

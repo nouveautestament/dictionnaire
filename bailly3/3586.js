@@ -1,0 +1,1 @@
+lar[3586]=`<i>adv</i>., sans ordre, PLAT. <i>Leg. 781b</i>.`

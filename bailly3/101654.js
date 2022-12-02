@@ -1,0 +1,1 @@
+lar[101654]=`<b>(ὁ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. ὑϊδοῦς, ARSTT. <i>H.A. 7, 6, 6</i> ; PAUS. <i>4, 15, 32</i>.`

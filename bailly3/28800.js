@@ -1,0 +1,1 @@
+lar[28800]=`<b>δυσ·περίληπτος, ος, ον</b> <font color="purple">[ῐ]</font> difficile à entourer, à embrasser, POSIDON. (ATH. <i>549e</i>) ; ARSTT. <i>Pol. 7, 11, 3, etc.</i> ; STR. <i>695, 826 ; fig</i>. difficile à comprendre, DS. <i>1, 3</i>.<p><b>Étym</b>. δ. περιλαμβάνω.`

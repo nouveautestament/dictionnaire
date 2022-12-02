@@ -1,0 +1,1 @@
+lar[15614]=`<b>ἀρχι·θιασίτης, ου (ὁ)</b> <font color="purple">[ᾰσ]</font> chef d’un thiase, CI. <i>2271, 4</i>.<p><b>Étym</b>. ἄ. θίασος.`

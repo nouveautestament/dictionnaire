@@ -1,0 +1,1 @@
+lar[83424]=`<b>ιπος (ὁ)</b> <font color="purple">[ῐπ]</font> = <i>lat</i>. princeps, POL. <i>6, 21, 7, etc</i>.`

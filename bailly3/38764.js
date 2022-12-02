@@ -1,0 +1,1 @@
+lar[38764]=`<b>οῦ (ὁ) :<br>      1</b> action d’être <i>ou</i> de venir à la surface, ARSTT. <i>Probl. 22, 8</i> ; ARCHIG. (ORIB. <i>152 B.-Dar</i>.).<br><b>      2</b> <i>fig</i>. arrogance, insolence, DH. <i>6, 65</i>.<p><b>Étym</b>. ἐπιπολάζω.`

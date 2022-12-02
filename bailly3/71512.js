@@ -1,0 +1,1 @@
+lar[71512]=`<font color="purple">[ῡᾰ]</font> <i>adv</i>., unanimement, AR. <i>Av. 1016</i> ; XÉN. <i>Hell. 2, 4, 17</i> ; PLAT. <i>Leg. 805a ;</i> DÉM. <i>147, 1</i>.<p><b>Étym</b>. *ὁμόθυμος, -δόν.`

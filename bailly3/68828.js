@@ -1,0 +1,1 @@
+lar[68828]=`<b>ας (ἡ)</b> lieu où l’on recueille le nitre, nitrière, STR. <i>803</i>.<p><b>Étym</b>. νίτρον.`

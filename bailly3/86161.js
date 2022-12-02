@@ -1,0 +1,1 @@
+lar[86161]=`<b>προσ·νέω</b>, nager vers, <i>dat</i>. THC. <i>3, 112</i> ; LUC. <i>Bis acc. 21</i>.`

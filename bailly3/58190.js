@@ -1,0 +1,1 @@
+lar[58190]=`<b>κρυφιο·γνώστης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui connaît les choses <i>ou</i> les pensées cachées, CHRYS. <i>7, 244</i>.<p><b>Étym</b>. κρύφιος, γιγνώσκω.`

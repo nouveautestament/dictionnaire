@@ -1,0 +1,1 @@
+lar[66749]=`<b>ων (τὰ)</b> vases de porcelaine, PAUS. <i>8, 18, 2</i>.<p><b>Étym</b>. <i>cf. lat</i>. murrha.`

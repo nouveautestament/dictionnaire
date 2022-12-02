@@ -1,0 +1,1 @@
+lar[622]=`<b>ἀγκιστρο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui mord à l’hameçon, ARSTT. <i>H.A. 9, 37, 13</i>.<p><b>Étym</b>. ἄ. φαγεῖν.`

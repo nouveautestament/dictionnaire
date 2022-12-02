@@ -1,0 +1,1 @@
+lar[20934]=`<font color="purple">[ῡ]</font> <i>adv.</i> :<br><b>      1</b> en mugissant, A.RH. <i>3, 1374</i>.<br><b>      2</b> en grinçant des dents, ANTH. <i>9, 371</i>.<p><b>Étym</b>. βρυχάομαι, -δον.`

@@ -1,0 +1,1 @@
+lar[77585]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> combat d’infanterie, HDT. <i>8, 15</i>.<br><b>      2</b> combat sur terre, THC. <i>1, 23, 49, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c</i>.<p><b>Étym</b>. πεζομάχος.`

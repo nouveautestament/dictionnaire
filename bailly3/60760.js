@@ -1,0 +1,1 @@
+lar[60760]=`<b>ου (τὸ)</b> champ de blé, <i>d’où</i> :<br><b>      1</b> moisson, IL. <i>2, 147, etc.</i> ; HÉS. <i>Sc. 288</i> ; HDT. <i>1, 19</i> ; τοῦ σίτου, ARSTT. <i>H.A. 9, 6, 8,</i> moisson de blé.<br><b>      2</b> champ ensemencé, <i>en gén</i>. THCR. <i>Idyl. 10, 42</i>.<p><b>Étym</b>. <i>dor</i>. λαῖον.`

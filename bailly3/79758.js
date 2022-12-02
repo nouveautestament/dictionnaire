@@ -1,0 +1,1 @@
+lar[79758]=`<b>ων (οἱ)</b> <i>c</i>. Περραιβοί, ISOCR. <i>5, 21 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>dout</i>.`

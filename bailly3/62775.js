@@ -1,0 +1,1 @@
+lar[62775]=`<b>(ὁ)</b> chant funèbre égyptien, HDT. <i>2, 79</i> ; PAUS. <i>9, 29, 7</i> ; PLUT. <i>M. 357e</i>.<p>➳ <i>Dat</i>. μανέρωτι, PLUT. <i>l. c. ; acc</i>. μανέρωτα, PLUT. <i>l. c. et</i> μανέρων, PAUS. <i>l. c</i>.`

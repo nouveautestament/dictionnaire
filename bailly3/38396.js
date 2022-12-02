@@ -1,0 +1,1 @@
+lar[38396]=`<b>ή, όν</b>, porté à prendre soin de, XÉN. <i>Œc. 12, 19</i> ; ARSTT. <i>G.A. 3, 2</i> ; ἡ ἐπιμελητική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 275e</i>, l’art de prendre soin de, diligence, vigilance.<p><b>Étym</b>. ἐπιμελέομαι.`

@@ -1,0 +1,1 @@
+lar[62003]=`<b>Λύσ·ανδρος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Lysandros (Lysandre) :<br><b>      1</b> <i>général spartiate,</i> XÉN. <i>Hell. 1, 5, 1, etc.</i><br><b>      2</b> <i>autres,</i> IL. <i>11, 491 ; au plur</i>. Λύσανδροι, PLUT. <i>Flam. 11,</i> des hommes comme Lysandre, XÉN. <i>Hell. 7, 1, 45, etc</i>.<p><b>Étym</b>. λύω, ἀνήρ.`

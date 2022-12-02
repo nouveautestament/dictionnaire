@@ -1,0 +1,1 @@
+lar[75876]=`<b>παραλληλό·γραμμος, ος, ον</b>, en forme de parallélogramme, STR. <i>178</i> ; τὸ π. PLUT. <i>M. 1080b</i>, le parallélogramme.<p><b>Étym</b>. παράλληλος, γράμμα.`

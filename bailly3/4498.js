@@ -1,0 +1,1 @@
+lar[4498]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> de mer : τὰ ἅλιμα, SPT. <i>Jer. 17, 6,</i> le bord de la mer ; <i>subst</i>. ὁ ἅ. DIOSC. <i>1, 120, ou</i> τὸ ἅ. ANTIPH. (ATH. <i>161a</i>) ; TH. <i>H.P. 4, 16, 5,</i> halimus <i>ou</i> arroche de mer.<p><b>Étym</b>. ἅλς.`

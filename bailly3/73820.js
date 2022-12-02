@@ -1,0 +1,1 @@
+lar[73820]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> <i>litt</i>. celle qui a des yeux, <i>ép. d’Athèna, comme divinité lunaire,</i> PAUS. <i>3, 18, 1</i>.<p><b>Étym</b>. ὀφθαλμός.`

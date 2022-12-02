@@ -1,0 +1,1 @@
+lar[52188]=`<b>κατα·βυθίζω</b> <font color="purple">[ῠ]</font> plonger dans, submerger, <i>acc</i>. HPC. <i>1284, 25</i> ; TH. <i>H.P. 5, 4, 7</i> ; DS. <i>15, 34 ; fig</i>. LGN <i>44, 6</i>.`

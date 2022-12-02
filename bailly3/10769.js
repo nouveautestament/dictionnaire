@@ -1,0 +1,1 @@
+lar[10769]=`<b>ἀν·υπόπτωτος, ος, ον</b>, qui ne tombe pas sous (le sens) <i>dat</i>. SEXT. <i>M. 7, 345</i>.<p><b>Étym</b>. ἀν-, ὑποπίπτω.`

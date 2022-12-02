@@ -1,0 +1,1 @@
+lar[56853]=`<font color="purple">[ᾰ]</font> (<i>seul. prés. et impf</i>.) :<br><b>      1</b> <i>c</i>. κοναβέω 1, IL. <i>13, 498, etc.</i><br><b>      2</b> <i>c</i>. κοναβέω 2, IL. <i>2, 466</i>.<p>➳ <i>Seul. prés. impér. 2 pl</i>. κοναβίζετε, ORPH. <i>H. 38, 9, et impf. 3 sg</i>. κονάβιζε, IL. <i>13, 498 ; 21, 255</i>.`

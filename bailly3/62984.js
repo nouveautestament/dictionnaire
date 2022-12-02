@@ -1,0 +1,1 @@
+lar[62984]=`<font color="darkgreen">(<i>f</i>. ύξω)</font> <font color="purple">[ᾰρυ]</font> briller, resplendir, THÉM. <i>235b</i>.`

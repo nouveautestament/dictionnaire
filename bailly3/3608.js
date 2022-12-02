@@ -1,0 +1,1 @@
+lar[3608]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> qu’on peut entendre, SOPH. <i>fr. 823</i>.<p><b>Étym</b>. ἀκούω.`

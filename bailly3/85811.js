@@ -1,0 +1,1 @@
+lar[85811]=`<b>προσ·εφευρίσκω</b>, inventer <i>ou</i> imaginer en outre, CLÉM. <i>565</i>.`

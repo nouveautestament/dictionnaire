@@ -1,0 +1,1 @@
+lar[102173]=`<b>ὑπ·εναντιόομαι-οῦμαι :<br>      1</b> résister à, s’opposer à, <i>dat</i>. HPC. <i>Epid. 1, 948</i>.<br><b>      2</b> s’opposer secrètement à, PLUT. <i>Per. 34, Cæs. 1</i>.<br><b>      3</b> être opposé à, ARSTT. <i>Eud. 7, 6, 1 ; Physiogn. 2, 17</i>.`

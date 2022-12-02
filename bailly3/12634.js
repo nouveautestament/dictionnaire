@@ -1,0 +1,1 @@
+lar[12634]=`<b>ἀπο·κονίω</b>, <i>mot étol</i>. s’éloigner en hâte, HYG. <i>Astr. 3, 11</i>.`

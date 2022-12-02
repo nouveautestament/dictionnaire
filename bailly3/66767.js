@@ -1,0 +1,1 @@
+lar[66767]=`<b>ήεσσα, ῆεν :<br>      1</b> d’une belle forme, beau, PD. <i>I. 6, 22</i>.<br><b>      2</b> figuré, façonné : λίθου, ANTH. <i>App. 111,</i> façonné en pierre.<p>➳ <i>Dor</i>. μορφάεις <font color="purple">[ᾰ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. μορφή.`

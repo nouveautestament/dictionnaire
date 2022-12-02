@@ -1,0 +1,1 @@
+lar[78029]=`<b>πεντά·πολις, εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ᾰ]</font> pentapole, <i>État formé de cinq villes doriennes</i> (Lindos, Ialysos, Kamiros, Eos, Knidos) HDT. <i>1, 144, etc. ; en Palestine</i> (Sodome, Gomorrhe, Adama, Zéboïm et Zoar) SPT. <i>Sap. 10, 6</i>.<p><b>Étym</b>. π. πόλις.`

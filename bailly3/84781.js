@@ -1,0 +1,1 @@
+lar[84781]=`<b>ή, όν :<br>      1</b> prévoyant, XÉN. <i>Mem. 4, 3, 6</i>.<br><b>      2</b> <i>p. suite,</i> qui a soin de pourvoir, qui prend soin de, XÉN. <i>Mem. 1, 3, 9</i> ; ARSTT. <i>Nic. 6, 7, 4</i> ; PLUT. <i>M. 1052b</i>.<p><b>Étym</b>. προνοέω.`

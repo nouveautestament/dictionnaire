@@ -1,0 +1,1 @@
+lar[81992]=`<b>πολύ·κλαυτος, ος, ον :<br>      1</b> <i>pass</i>. que l’on pleure beaucoup, HOM. <i>Ep. 3, 5</i> ; ESCHL. <i>Pers. 674, Ag. 1526</i> ; EUR. <i>Ion 869, etc.</i><br><b>      2</b> <i>act</i>. qui pleure beaucoup, qui se lamente, EUR. <i>I.A. 779, 783</i>.<p>➳ <i>Fém</i>. -η, EUR. <i>Med. 822</i>.<p><b>Étym</b>. π. κλαίω.`

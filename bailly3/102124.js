@@ -1,0 +1,1 @@
+lar[102124]=`<b>ὑπ·εκλείπω</b>, s’affaiblir peu à peu, TH. <i>Ign. 55</i> ; GAL. <i>8, 13</i>.`

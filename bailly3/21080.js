@@ -1,0 +1,1 @@
+lar[21080]=`<b>βωλο·ειδής, ής, ές</b>, semblable à une motte, TH. <i>Ign. 65</i>.<p><b>Étym</b>. βῶλος, εἶδος.`

@@ -1,0 +1,1 @@
+lar[78429]=`<b>περί·βαρυς, υς, υ</b> <font color="purple">[ᾰ]</font> tout à fait lourd, accablant, ESCHL. <i>Eum. 161</i>.<p><b>Étym</b>. π. βαρύς.`

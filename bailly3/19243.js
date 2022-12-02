@@ -1,0 +1,1 @@
+lar[19243]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> qui sert à mettre à la question, JOS. <i>B.J. 2, 8, 10</i>.<p><b>Étym</b>. βασανίζω.`

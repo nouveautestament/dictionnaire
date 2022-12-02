@@ -1,0 +1,1 @@
+lar[51024]=`<b>ου (ὁ)</b> = <i>lat</i>. Calvinus, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 44, etc</i>.`

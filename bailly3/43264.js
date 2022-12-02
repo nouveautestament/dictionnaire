@@ -1,0 +1,1 @@
+lar[43264]=`<b>Εὐρυ·δίκη, ης (ἡ)</b> <font color="purple">[ῠῐ]</font> Eurydikè (Eurydice) :<br><b>      1</b> femme d’Orphée, <i>etc</i>. OD. <i>3, 452</i>.<br><b>      2</b> <i>femme de Créon, roi de Thèbes,</i> SOPH. <i>Ant. 1180</i>.<p>➳ <i>Dor</i>. Εὐρυδίκα, SIM. <i>fr. 26</i> ; ANTH. <i>3, 10</i>.<p><b>Étym</b>. εὐ. δίκη.`

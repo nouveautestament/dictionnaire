@@ -1,0 +1,1 @@
+lar[3713]=`<b>ἀκριδο·φάγος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui se nourrit de sauterelles, DS. <i>3, 29</i> ; STR. <i>772</i>.<p><b>Étym</b>. ἀκρίς, φαγεῖν.`

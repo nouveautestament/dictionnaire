@@ -1,0 +1,1 @@
+lar[61057]=`<b>λιθο·κάρδιος, ος, ον</b>, au cœur de pierre, ORIG. <i>3, 293</i> ; BAS. <i>4, 260 Migne</i>.<p><b>Étym</b>. λ. καρδία.`

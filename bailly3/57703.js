@@ -1,0 +1,1 @@
+lar[57703]=`<b>Κρεῖον ὄρος (τὸ)</b> le mt. Kreion, <i>près d’Argos,</i> CALL. <i>L. Pall. 41</i>.`

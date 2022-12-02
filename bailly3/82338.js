@@ -1,0 +1,1 @@
+lar[82338]=`<b>ος, ον</b>, battu de tous côtés <i>ou</i> fortement par les flots, Q. SM. <i>7, 395 ; fig</i>. ARAT. <i>412</i>.<p><b>Étym</b>. πολύρροθος.`

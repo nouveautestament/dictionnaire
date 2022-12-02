@@ -1,0 +1,1 @@
+lar[23744]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire de Décélie, Décélien, HDT. <i>9, 73</i>.<p>➳ ATT. Δεκελεεύς, CIA. <i>2, 733, b, 6 (306 av. J.-C.) ou</i> Δεκελειεύς, <i>2, 660, 4</i>.<p><b>Étym</b>. <i>390 av. J.-C</i>.`

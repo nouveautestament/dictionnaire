@@ -1,0 +1,1 @@
+lar[34056]=`<b>ἑνά·τονος, ος, ον</b> <font color="purple">[ᾰ]</font> tendu en un (faisceau) ; τὸ ἑνάτονον, HÉRON, machine de jet à faisceau balistique unique.<p><b>Étym</b>. εἷς, τείνω.`

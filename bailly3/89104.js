@@ -1,0 +1,1 @@
+lar[89104]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> garçon vigoureux, TÉLÉCL. (<i>Com. fr. 2, 377</i>).`

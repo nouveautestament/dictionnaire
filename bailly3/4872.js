@@ -1,0 +1,1 @@
+lar[4872]=`<font color="purple">[ῠ]</font> être salé, avoir un goût salé, ARSTT. <i>H.A. 9, 6, 5</i> ; DIOSC. <i>1, 11 ; 2, 157</i>.<p><b>Étym</b>. ἁλμυρίς.`

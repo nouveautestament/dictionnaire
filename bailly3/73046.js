@@ -1,0 +1,1 @@
+lar[73046]=`<b>ὀρσί·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui lance le tonnerre (<i>propr</i>. le fracas) PD. <i>O. 11, 85</i>.<p><b>Étym</b>. ὄρνυμι, κτύπος.`

@@ -1,0 +1,1 @@
+lar[95534]=`<b>συν·εξημερόομαι-οῦμαι</b>, prendre en même temps des mœurs plus douces, PLUT. <i>Num. 16</i>.`

@@ -1,0 +1,1 @@
+lar[95614]=`<b>συν·επιδίδωμι</b> <font color="purple">[δῐ]</font>,<br><b>      1 <i>tr.</i></b> offrir ensemble <i>ou</i> en même temps, <i>acc</i>. POL. <i>32, 10, 5 ; 32, 21, 10 ; avec un inf</i>. DH. <i>3, 15</i>.<br><b>      2 <i>intr.</i></b> croître ensemble <i>ou</i> également, PLUT. <i>M. 448d</i>.`

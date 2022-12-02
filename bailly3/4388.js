@@ -1,0 +1,1 @@
+lar[4388]=`<b>ου (ὁ)</b> Althænos, <i>fl. d’Italie,</i> LYC. <i>1053</i>.`

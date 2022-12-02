@@ -1,0 +1,1 @@
+lar[11969]=`<b>ου (ὁ)</b> = <i>lat</i>. Apicius, <i>riche Romain renommé pour son luxe et sa gourmandise,</i> ATH. <i>7a, etc.</i> ; DC. <i>57, 19</i>.`

@@ -1,0 +1,1 @@
+lar[49372]=`<b>ας (ἡ)</b> crinière de cheval sur un casque, RHÉT. <i>1, 532 W</i>.<p><b>Étym</b>. ἱππόλοφος.`

@@ -1,0 +1,1 @@
+lar[41870]=`<b>εὐδι·άναξ, άνακτος (ὁ)</b> <font color="purple">[ᾰν]</font> maître du temps serein, LUC. <i>V.H. 1, 15</i>.<p><b>Étym</b>. εὐδία, ἄναξ.`

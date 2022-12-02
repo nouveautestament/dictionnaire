@@ -1,0 +1,1 @@
+lar[27676]=`<b>ή, όν :<br>      1</b> donné, SPT. <i>1Reg. 1, 11</i> ; PHIL. <i>1, 273</i>.<br><b>      2</b> qu’on peut <i>ou</i> qu’il faut donner, M. TYR. <i>42, 44</i>.<p><b>Étym</b>. <i>vb. de</i> δίδωμι.`

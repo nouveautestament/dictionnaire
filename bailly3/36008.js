@@ -1,0 +1,1 @@
+lar[36008]=`<b>ἐξ·ιόω-ῶ</b> <font color="purple">[ῑ]</font> dérouiller, ARR. <i>Epict. 4, 11, 13</i>.<p><b>Étym</b>. ἐξ, ἰός.`

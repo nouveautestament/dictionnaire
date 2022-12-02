@@ -1,0 +1,1 @@
+lar[31897]=`<b>ἔκ·ποθεν</b>, <i>adv</i>., A.RH. <i>3, 262, ou</i> <b>ἔκ·ποθε</b>, Q. SM. <i>9, 420 ; 14, 74,</i> de qqe lieu, <i>avec le gén</i>.`

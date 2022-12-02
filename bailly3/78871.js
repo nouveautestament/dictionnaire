@@ -1,0 +1,1 @@
+lar[78871]=`<b>ατος (τὸ)</b> reste, résidu, PLAT. <i>Menex. 236b au plur</i>.<p><b>Étym</b>. περιλείπομαι.`

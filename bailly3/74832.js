@@ -1,0 +1,1 @@
+lar[74832]=`<b>παν·αίτιος, ος, ον</b> <font color="purple">[ᾰν]</font><br><b>      1</b> qui est la cause et le principe de tout, ESCHL. <i>Ag. 1486</i>.<br><b>      2</b> coupable de tout, seul coupable, ESCHL. <i>Eum. 200</i>.<p><b>Étym</b>. π. αἰτία.`

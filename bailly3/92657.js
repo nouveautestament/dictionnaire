@@ -1,0 +1,1 @@
+lar[92657]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Stikhios, <i>h</i>. IL. <i>13, 195, 691 ; 15, 329</i>.<p><b>Étym</b>. στίχος.`

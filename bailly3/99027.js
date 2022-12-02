@@ -1,0 +1,1 @@
+lar[99027]=`<b>οῦ (ὁ)</b> gardien, surveillant, DS. <i>3, 4</i>.<p><b>Étym</b>. τηρέω.`

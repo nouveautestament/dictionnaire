@@ -1,0 +1,1 @@
+lar[37879]=`<b>ἐπι·καινουργέω-ῶ</b>, entreprendre sans cesse quelque œuvre nouvelle, DÉMOCR. (STOB. <i>Fl. 1, 40</i>).`

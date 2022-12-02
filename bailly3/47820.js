@@ -1,0 +1,1 @@
+lar[47820]=`<b>θυελλο·φορέω-ῶ</b>, emporter dans le tourbillon d’une tempête, DS. <i>16, 80</i>.<p><b>Étym</b>. θ. -φορος <i>de</i> φέρω.`

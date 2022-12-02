@@ -1,0 +1,1 @@
+lar[70510]=`<b>οἰνοβαρέω-ῶ</b> <font color="purple">[ᾰ]</font> être alourdi par le vin, THGN. <i>503</i>.<p><b>Étym</b>. οἰνοβαρής.`

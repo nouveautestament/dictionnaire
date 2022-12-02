@@ -1,0 +1,1 @@
+lar[54112]=`<b>κατ·οίομαι</b>, être arrogant, présomptueux, SPT. <i>Hab. 2, 5</i> ; PHIL. <i>2, 652</i>.`

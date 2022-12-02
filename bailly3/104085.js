@@ -1,0 +1,1 @@
+lar[104085]=`<b>ὑπο·φαρμάσσω</b>, <i>att</i>. <b>ὑπο·φαρμάττω</b>, mêler des drogues, travailler, altérer, PLUT. <i>M. 614b, 672b, 985e</i>.`

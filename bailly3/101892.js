@@ -1,0 +1,1 @@
+lar[101892]=`<b>ὑπ·αίθριος, ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ὕπαιθρος PD. <i>O. 6, 104</i> ; HDT. <i>4, 7 ; 7, 119</i> ; THC. <i>1, 134</i> ; PLAT. <i>Criti. 117a, etc</i>.<p>➳ <i>Fém</i>. -α, EUR. <i>Andr. 227</i>.`

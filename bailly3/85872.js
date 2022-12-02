@@ -1,0 +1,1 @@
+lar[85872]=`<b>α, ον :<br>      1</b> placé par devant, de devant, XÉN. <i>Cyn. 9, 19</i> ; PLAT. <i>Tim. 91e, etc. ; p. opp. à</i> ὀπίσθιος, HDT. <i>2, 69, etc. ; à</i> πρανής, ARSTT. <i>G.A. 1, 13, 5</i>.<br><b>      2</b> reçu par devant, <i>en parl. de blessures,</i> ANTH. <i>9, 279</i>.<p><b>Étym</b>. πρόσθεν.`

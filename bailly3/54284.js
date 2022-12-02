@@ -1,0 +1,1 @@
+lar[54284]=`<b>Καυλιακὸν ὄρος (τὸ)</b> le mt Kauliaque, <i>à l’embouchure de l’Ister,</i> A.RH. <i>4, 324</i>.`

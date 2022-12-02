@@ -1,0 +1,1 @@
+lar[90557]=`<b>ός, όν</b> <font color="purple">[ῑ]</font> <i>c</i>. σιτοποιός, PLAT. <i>Pol. 267e ;</i> POLYEN <i>3, 10, 10</i>.<p><b>Étym</b>. σ. ἔργον.`

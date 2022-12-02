@@ -1,0 +1,1 @@
+lar[93744]=`<b>ος, ον</b> <font color="purple">[ῡ]</font> pillé, MAX. <i>π. κατ. 583</i>.<p><b>Étym</b>. συλάω.`

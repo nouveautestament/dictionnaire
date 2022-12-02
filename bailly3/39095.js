@@ -1,0 +1,1 @@
+lar[39095]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui arrête : Ζεὺς ἐπ. PLUT. <i>Rom. 18,</i> Jupiter Stator, <i>à Rome</i>.<p><b>Étym</b>. ἐφίστημι.`

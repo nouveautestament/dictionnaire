@@ -1,0 +1,1 @@
+lar[91175]=`<b>όεσσα, όεν :<br>      1</b> de scorpion, NIC. <i>Th. 654</i>.<br><b>      2</b> semblable à un scorpion, NIC. <i>Al. 145</i>.<p><b>Étym</b>. σκορπίος.`

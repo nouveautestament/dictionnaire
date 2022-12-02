@@ -1,0 +1,1 @@
+lar[22876]=`<b>ου (ὁ)</b> Gôbarès, <i>Perse,</i> LUC. <i>Cat. 6</i>.`

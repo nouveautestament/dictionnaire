@@ -1,0 +1,1 @@
+lar[105737]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font> amour pour les femmes, PLUT. <i>M. 706b ;</i> CLÉM. <i>83, etc</i>.<p><b>Étym</b>. φιλογύνης.`

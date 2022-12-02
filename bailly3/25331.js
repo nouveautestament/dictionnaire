@@ -1,0 +1,1 @@
+lar[25331]=`<b>ος, ον</b>, transmis au dehors, exporté, DS. <i>2, 49</i> ; OPP. <i>C. 3, 37</i>.<p><b>Étym</b>. διαπέμπω.`

@@ -1,0 +1,1 @@
+lar[86825]=`<b>πρό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui sert de modèle : τὸ πρ. DIOSC. <i>1, 27,</i> modèle.`

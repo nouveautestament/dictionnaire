@@ -1,0 +1,1 @@
+lar[31822]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de déployer, expansion, PLUT. <i>M. 564b</i>.<p><b>Étym</b>. ἐκπετάννυμι.`

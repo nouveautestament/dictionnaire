@@ -1,0 +1,1 @@
+lar[28126]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> de Dyrrachium, ANTH. <i>9, 215</i>.`

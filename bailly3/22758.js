@@ -1,0 +1,1 @@
+lar[22758]=`<b>ων (οἱ)</b> habitants <i>ou</i> originaires des î. Baléares, APP. <i>Lib. 40</i>.<p><b>Étym</b>. <i>Cf</i>. Γυμνήσιαι.`

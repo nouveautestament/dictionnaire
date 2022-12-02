@@ -1,0 +1,1 @@
+lar[109321]=`<b>χρυσωρυχέω-ῶ</b> <font color="purple">[ῡῠ]</font> creuser <i>ou</i> exploiter une mine d’or, EL. <i>N.A. 4, 27</i> ; CLÉM. <i>207</i>.<p><b>Étym</b>. χρυσωρύχος.`

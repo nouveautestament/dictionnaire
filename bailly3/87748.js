@@ -1,0 +1,1 @@
+lar[87748]=`<b>πυρ·ακτέω-ῶ</b> (<i>seul. impf</i>. ἐπυράκτεον) <font color="purple">[ῠ]</font> mettre dans le feu, faire rougir <i>ou</i> durcir au feu, <i>acc</i>. OD. <i>9, 328</i>.<p><b>Étym</b>. π. ἀκτός, <i>vb. de</i> ἄγω ; <i>sel. d’autres, de</i> *πυρακτός, <i>vb. de</i> *πυράζω.`

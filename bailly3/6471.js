@@ -1,0 +1,1 @@
+lar[6471]=`<b>ου (ὁ)</b> Amphytos, <i>cocher des Dioscures,</i> PLUT. <i>Pro Nobil. 20, 3</i>.`

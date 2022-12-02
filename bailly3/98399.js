@@ -1,0 +1,1 @@
+lar[98399]=`<b>α, ον</b>, qui est à l’extrémité, final : ἡμέρα, SOPH. <i>Ant. 1331,</i> le dernier jour, le jour de la mort ; χώρα, SOPH. <i>O.C. 89,</i> le dernier pays (qu’Œdipe doit visiter).<p><b>Étym</b>. τέρμα.`

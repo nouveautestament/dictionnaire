@@ -1,0 +1,1 @@
+lar[68857]=`<b>νοερη·φόρος, ος, ον</b>, qui porte aux choses idéales, SYN. <i>Hymn. 1, 121, p. 1592</i>.<p><b>Étym</b>. νοερός, φέρω.`

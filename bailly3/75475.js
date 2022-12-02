@@ -1,0 +1,1 @@
+lar[75475]=`<font color="purple">[ᾰγ]</font> faire payer le péage à, <i>acc</i>. POL. <i>4, 44, 4</i>.<p><b>Étym</b>. παραγώγιον.`

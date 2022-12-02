@@ -1,0 +1,1 @@
+lar[45742]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν</b>, <i>adj. f.</i> :<br><b>      1</b> de la terre ferme, du continent, HDT. <i>1, 151</i> ; THC. <i>1, 5, etc.</i> ; ἠπ. ξυμμαχία, THC. <i>1, 35,</i> alliance continentale, <i>p. opp. à</i> ξ. ναυτική.<br><b>      2</b> <i>particul</i>. d’Asie, EUR. <i>Andr. 159, 652</i>.<p><b>Étym</b>. <i>fém. de</i> ἠπειρώτης.`

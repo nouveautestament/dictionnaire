@@ -1,0 +1,1 @@
+lar[68745]=`<b>άδος (ἡ)</b> <font color="purple">[νῑᾰδ]</font> Nikias, <i>f</i>. ANTH. <i>6, 210</i>.<p><b>Étym</b>. <i>cf</i>. Νικίας.`

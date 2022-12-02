@@ -1,0 +1,1 @@
+lar[2264]=`<b>ή, όν</b> <font color="purple">[γῑ]</font> d’Égine, LUC. <i>Tim. 57</i>.`

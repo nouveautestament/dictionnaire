@@ -1,0 +1,1 @@
+lar[52687]=`<b>κατά·λαλος, ος, ον</b> <font color="purple">[λᾰ]</font> médisant, calomniateur, NT. <i>Rom. 1, 30</i>.<p><b>Étym</b>. κ. λαλέω.`

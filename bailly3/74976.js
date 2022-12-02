@@ -1,0 +1,1 @@
+lar[74976]=`<b>παν·είκελος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait semblable, ANTH. <i>9, 699, etc.</i> ; OPP. <i>C. 1, 434</i>.<p><b>Étym</b>. π. εἴκελος.`

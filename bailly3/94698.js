@@ -1,0 +1,1 @@
+lar[94698]=`<b>συν·αναδείκνυμι</b> <font color="purple">[νῡ]</font> déclarer ensemble <i>ou</i> en même temps, ZOS. <i>1, 24</i>.`

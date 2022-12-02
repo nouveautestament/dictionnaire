@@ -1,0 +1,1 @@
+lar[58046]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> κροκωτός, AR. <i>Lys. 47, Eccl. 332</i>.`

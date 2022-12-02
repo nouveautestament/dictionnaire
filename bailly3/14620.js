@@ -1,0 +1,1 @@
+lar[14620]=`<b>ου (ὁ)</b> = <i>lat</i>. Ariovistus, Arioviste, <i>chef germain,</i> PLUT. <i>Cæs. 19</i>.`

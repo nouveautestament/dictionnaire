@@ -1,0 +1,1 @@
+lar[42000]=`<b>εὐ·επάγωγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se laisse amener sans peine à, πρός <i>et l’acc</i>. POL. <i>31, 13, 5</i>.<p><b>Étym</b>. εὖ, ἐπάγω.`

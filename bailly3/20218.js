@@ -1,0 +1,1 @@
+lar[20218]=`<i>adv</i>., en venant du nord, DP. <i>79</i>.<p><b>Étym</b>. βορέης, -θεν.`

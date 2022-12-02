@@ -1,0 +1,1 @@
+lar[109337]=`(<i>seul. prés</i>.) colorer, teindre, PLUT. <i>M. 395e, 879d ;</i> LUC. <i>Im. 7, Anach. 25 ; fig</i>. LUC. <i>H. conscr. 48</i>.<p><b>Étym</b>. χρώς.`

@@ -1,0 +1,1 @@
+lar[35426]=`<b>ἐξ·αμελέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>pf</i>. ἐξημέληκα) négliger complètement : τινος, HDT. <i>1, 97,</i> qqe ch. ; <i>au pass</i>. ἐξαμελεῖσθαι, ARSTT. <i>Nic. 10, 9, 14</i> ; PLUT. <i>Cam. 18,</i> être négligé ; <i>impers</i>. ἐξημέληται περὶ τῶν τοιούτων, ARSTT. <i>Nic. 10, 9, 13,</i> on n’a pris aucun soin de ces sortes de choses.`

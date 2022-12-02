@@ -1,0 +1,1 @@
+lar[39533]=`<b>ἐπι·τυπόω-ῶ</b>, représenter, exprimer, NYSS. <i>1, 910</i>.`

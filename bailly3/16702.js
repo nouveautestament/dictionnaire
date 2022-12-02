@@ -1,0 +1,1 @@
+lar[16702]=`<b>ἀ·ταρτηρός, ά, όν</b> <font color="purple">[ᾰτ]</font> funeste, malfaisant, <i>en parl. de choses (paroles, mal, etc</i>.) IL. <i>1, 223</i> ; HÉS. <i>Th. 610</i> ; THCR. OPP. <i>etc. ; rar. en parl. de pers</i>. OD. <i>2, 243, ou d’animaux,</i> Q. SM. <i>4, 223</i>.<p>➳ <i>Fem. ion</i>. -ή, OPP. <i>H. 1, 370 ; 2, 630</i>.<p><b>Étym</b>. <i>inconnue</i>.`

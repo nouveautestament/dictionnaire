@@ -1,0 +1,1 @@
+lar[40543]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> haie, clôture, THÉM. <i>292a</i>.<p><b>Étym</b>. ἕρκος.`

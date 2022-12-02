@@ -1,0 +1,1 @@
+lar[8866]=`<b>ἀνθό·κροκος, ος, ον</b>, tissu de couleurs éclatantes, EUR. <i>Hec. 471</i>.<p><b>Étym</b>. ἄνθος, κρόκη.`

@@ -1,0 +1,1 @@
+lar[21443]=`<b>ωνος (ὁ)</b> homme pansu, <i>càd</i>. goulu, gourmand, ALC. (DL. <i>1, 81).</i><p>➳ <i>Voc</i>. γάστρων, ATH. <i>97c</i>.<p><b>Étym</b>. γαστήρ.`

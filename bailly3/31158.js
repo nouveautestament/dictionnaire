@@ -1,0 +1,1 @@
+lar[31158]=`<b>ἐκ·δείκνυμι</b> <font color="purple">[ῡ]</font> exposer, montrer clairement, <i>acc</i>. SOPH. <i>El. 348, O.C. 1021</i> ; EUR. <i>Hipp. 1298</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Suppl. 341</i>.`

@@ -1,0 +1,1 @@
+lar[48642]=`<b>ή, όν</b>, qui concerne les cérémonies religieuses, CLÉM. <i>1, 924 Migne</i>.<p><b>Étym</b>. ἱερουργία.`

@@ -1,0 +1,1 @@
+lar[54334]=`<b>Καΰστριον πεδίον (τὸ)</b> la plaine du Kaystros, <i>en Lydie,</i> XÉN. <i>Cyr. 2, 1, 5</i> ; AR. <i>Ach. 68</i>.<p><b>Étym</b>. Κάϋστρος.`

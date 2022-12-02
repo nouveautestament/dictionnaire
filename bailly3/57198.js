@@ -1,0 +1,1 @@
+lar[57198]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> lampuge, <i>sorte de poisson de mer,</i> DORION (ATH. <i>304 c et d).</i><p><b>Étym</b>. κορυφή ; <i>cf</i>. ἵππουρος.`

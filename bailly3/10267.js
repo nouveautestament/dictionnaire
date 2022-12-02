@@ -1,0 +1,1 @@
+lar[10267]=`<b>ἀντι·περιωθέω-ῶ</b>, refouler tout autour, PLUT. <i>M. 1005d</i>.`

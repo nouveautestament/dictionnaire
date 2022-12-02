@@ -1,0 +1,1 @@
+lar[90733]=`faire de grandes enjambées, SEXT. <i>M. 1, 159</i> ; SPT. <i>Jer. 10, 18 ; Prov. 19, 3</i>.<p><b>Étym</b>. σκέλος.`

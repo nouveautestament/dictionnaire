@@ -1,0 +1,1 @@
+lar[62568]=`<b>ητος (ἡ)</b> longueur, ARSTT. <i>Plant. 2, 6, 3</i> ; PLUT. <i>M. 947f</i>.<p><b>Étym</b>. μακρός.`

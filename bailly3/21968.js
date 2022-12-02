@@ -1,0 +1,1 @@
+lar[21968]=`<b>όνος (ὁ)</b> <font color="purple">[ῠ]</font> Gèryôn (Géryon), <i>géant à trois corps,</i> PD. <i>I. 1, 15 ; etc.</i> ; ESCHL. <i>Ag. 870, etc</i>.`

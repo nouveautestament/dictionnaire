@@ -1,0 +1,1 @@
+lar[67705]=`<b>ναστο·φάγος, ος, ον</b> <font color="purple">[φᾰγ]</font> qui mange de la pâtisserie ναστός, ORACL. (PAUS. <i>8, 42, 6).</i><p><b>Étym</b>. ναστός, φαγεῖν.`

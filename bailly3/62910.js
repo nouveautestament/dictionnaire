@@ -1,0 +1,1 @@
+lar[62910]=`<b>μαργάω-ῶ</b> (<i>seul. prés. part</i>.) être hors de soi, être en démence, en fureur, <i>en parl. de pers. et de choses,</i> ESCHL. <i>Sept. 380, etc.</i> ; EUR. <i>Hec. 1128, etc. ; avec un inf</i>. EUR. <i>Ph. 1247</i>.<p><b>Étym</b>. μάργος.`

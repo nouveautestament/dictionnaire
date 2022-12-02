@@ -1,0 +1,1 @@
+lar[90493]=`<b>ου (τὸ)</b> <font color="purple">[ῑτ]</font> volaille gonflée de vent au lieu de farce, ANTH. <i>9, 484 et 486 (lemme)</i>.`

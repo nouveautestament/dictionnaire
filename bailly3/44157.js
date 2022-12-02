@@ -1,0 +1,1 @@
+lar[44157]=`<b>ἐφ·υλακτέω-ῶ</b> <font color="purple">[ῠ]</font> aboyer contre, <i>dat</i>. PLUT. <i>M. 551c, 969f</i>.<p><b>Étym</b>. ἐπί, ὑ.`

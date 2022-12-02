@@ -1,0 +1,1 @@
+lar[91013]=`<b>ατος (τὸ)</b> dessiccation, induration, GAL. <i>Lex. Hipp. 19, 139</i>.<p><b>Étym</b>. σκέλλω.`

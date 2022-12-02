@@ -1,0 +1,1 @@
+lar[93852]=`<b>συμ·βλαστάνω</b>, croître ensemble <i>ou</i> en même temps, M. ANT. <i>11, 8</i> ; GAL. <i>19, 169</i>.`

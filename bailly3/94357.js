@@ -1,0 +1,1 @@
+lar[94357]=`<b>συμ·προδίδωμι</b> <font color="purple">[δῐ]</font> livrer en même temps, EN. TACT. <i>Pol. 11, 2</i>.`

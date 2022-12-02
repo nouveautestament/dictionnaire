@@ -1,0 +1,1 @@
+lar[94565]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui rassemble, qui réunit, <i>gén</i>. PLAT. <i>Tim. 31c, Prot. 322c ;</i> PLUT. <i>M. 632e ; abs</i>. SEXT. <i>M. 9, 10, etc.</i><br><b>      2</b> qui se rassemble en troupe, en essaim, PHIL. <i>2, 255</i>.<p>•<i> Sup</i>. -ότατος, ARSTD. <i>1, 5</i>.<p><b>Étym</b>. συνάγω.`

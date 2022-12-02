@@ -1,0 +1,1 @@
+lar[645]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> sorte d’épieu recourbé pour la chasse, OPP. <i>C. 1, 155</i>.<p><b>Étym</b>. ἀγκύλη.`

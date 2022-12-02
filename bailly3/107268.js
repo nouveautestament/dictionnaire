@@ -1,0 +1,1 @@
+lar[107268]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne l’étude de la nature, PHIL. <i>1, 139, etc</i>.<p><b>Étym</b>. φυσιολόγος.`

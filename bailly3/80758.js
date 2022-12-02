@@ -1,0 +1,1 @@
+lar[80758]=`<b>πλατυ·λέσχης, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> grand bavard, ANTH. <i>11, 382</i>.<p><b>Étym</b>. πλ. λέσχη.`

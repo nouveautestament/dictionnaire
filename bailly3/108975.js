@@ -1,0 +1,1 @@
+lar[108975]=`<b>χρησμο·δοτέω-ῶ</b>, rendre des oracles, EUM. <i>10, 14</i>.`

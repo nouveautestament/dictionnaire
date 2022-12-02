@@ -1,0 +1,1 @@
+lar[10996]=`<b>ἄ·ογκος, ος, ον</b>, <i>seul. au</i> <i>• Sup</i>. -ότατος, peu volumineux, HPC. <i>229, 5</i>.<p><b>Étym</b>. ἀ, ὄγκος.`

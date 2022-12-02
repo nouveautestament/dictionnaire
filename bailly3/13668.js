@@ -1,0 +1,1 @@
+lar[13668]=`<b>ἀπο·τρυγίζω</b> <font color="purple">[ῠ]</font> clarifier du vin, GEOP. <i>8, 23, 2</i>.<p><b>Étym</b>. ἀ. τρύξ.`

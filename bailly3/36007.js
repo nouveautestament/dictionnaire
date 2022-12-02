@@ -1,0 +1,1 @@
+lar[36007]=`<b>ἐξ·ιονθίζω</b>, dérouler un cheveu, SOPH. <i>fr. 653</i>.<p><b>Étym</b>. ἐξ, ἴονθος.`

@@ -1,0 +1,1 @@
+lar[57360]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> mime, JUL. <i>94a</i>.<p><b>Étym</b>. κοτυλίζω.`

@@ -1,0 +1,1 @@
+lar[58522]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. κύκησις, M. TYR. <i>64, 24 Dübn</i>.`

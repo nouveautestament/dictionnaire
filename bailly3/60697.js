@@ -1,0 +1,1 @@
+lar[60697]=`<b>Λεω·κράτης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Léôkratès, <i>h</i>. THC. <i>1, 105, etc</i>.<p>➳ <i>Voc</i>. Λεώκρατες, ANTH. <i>6, 144 ; acc</i>. Λεωκράτη, DÉM. <i>41, 3 Baiter-Sauppe</i> ; PLUT. <i>Arist. 20 ; et</i> -ην, DÉM. <i>44, 19 Baiter-Sauppe</i> ; PLUT. <i>X orat. Lyc. 35 ; plur</i>. Λεωκράται, PLUT. <i>Per. 16</i>.<p><b>Étym</b>. λεώς, κράτος.`

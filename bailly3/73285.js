@@ -1,0 +1,1 @@
+lar[73285]=`<b>ὀστο·ειδής, ής, ές</b>, qui ressemble à un os, osseux, HPC. <i>410, 2</i> ; GAL. <i>2, 375</i>.<p><b>Étym</b>. ὀστέον, εἶδος.`

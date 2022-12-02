@@ -1,0 +1,1 @@
+lar[104457]=`<b>ατος (τὸ)</b> alternative d’élévation <i>ou</i> d’abaissement, P. ALEX. <i>Apot. 24, p. 61, l. 5 Boer</i>.<p><b>Étym</b>. ὑψηλοτάπεινος.`

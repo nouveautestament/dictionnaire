@@ -1,0 +1,1 @@
+lar[62571]=`<b>μακροτονέω-ῶ :<br>      1 <i>tr.</i></b> tendre loin, en longueur, PHIL. BYZ. <i>Bel. 40</i>.<br><b>      2 <i>intr.</i></b> persister à, <i>avec un part</i>. SPT. <i>2Macc. 8, 26</i>.<p><b>Étym</b>. μακρότονος.`

@@ -1,0 +1,1 @@
+lar[1755]=`<b>ἀεξί·φυλλος, ος, ον</b> <font color="purple">[ῐ]</font> qui développe les feuilles, au feuillage touffu, ESCHL. <i>Ag. 697</i>.<p><b>Étym</b>. ἀ. φύλλον.`

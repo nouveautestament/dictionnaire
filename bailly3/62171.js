@@ -1,0 +1,1 @@
+lar[62171]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite bordure, <i>ou, sel. d’autres,</i> casaque militaire, ANTH. <i>11, 210</i>.<p><b>Étym</b>. <i>dim. de</i> λῶμα.`

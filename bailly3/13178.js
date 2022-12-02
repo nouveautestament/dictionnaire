@@ -1,0 +1,1 @@
+lar[13178]=`<b>ἀπο·πυέω</b> <font color="purple">[ῡ]</font> suppurer, HPC. <i>1012c</i>.`

@@ -1,0 +1,1 @@
+lar[107136]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. du fl. Phyllis, A.RH. <i>2, 652</i>.<p><b>Étym</b>. Φύλλις.`

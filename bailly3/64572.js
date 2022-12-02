@@ -1,0 +1,1 @@
+lar[64572]=`<b>μεσο·ταγής, ής, ές</b> <font color="purple">[ᾰ]</font> rangé au milieu, JAMBL. <i>Nicom. ar. 119a</i>.<p><b>Étym</b>. μ. τάσσω.`

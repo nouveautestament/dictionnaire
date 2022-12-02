@@ -1,0 +1,1 @@
+lar[99184]=`<b>Τίμ·ανδρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Timandros, <i>h</i>. HDT. <i>9, 69, etc</i>.<p><b>Étym</b>. τιμή, ἀνήρ ; <i>cf</i>. Τιμάνωρ.`

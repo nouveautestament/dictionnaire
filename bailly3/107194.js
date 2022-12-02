@@ -1,0 +1,1 @@
+lar[107194]=`<b>φυξ·ανορία, ας (ἡ)</b> <font color="purple">[ᾰν]</font> aversion pour les hommes, ESCHL. <i>Suppl. 8 conj</i>.<p><b>Étym</b>. φεύγω, ἀνήρ.`

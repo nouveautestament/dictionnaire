@@ -1,0 +1,1 @@
+lar[36755]=`<b>ἐπ·απολογέομαι-οῦμαι</b>, produire de nouvelles preuves pour se justifier, PLUT. <i>Marc. 27 dout</i>.`

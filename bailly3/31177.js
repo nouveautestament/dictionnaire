@@ -1,0 +1,1 @@
+lar[31177]=`<i>adv</i>., manifestement, évidemment, ATH. <i>561b</i>.<p><b>Étym</b>. ἔκδηλος.`

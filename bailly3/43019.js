@@ -1,0 +1,1 @@
+lar[43019]=`<b>εὐ·πιθής, ής, ές</b> <font color="purple">[ῐ]</font> <i>c</i>. εὐπειθής, ESCHL. <i>Pr. 333, Ag. 982</i>.`

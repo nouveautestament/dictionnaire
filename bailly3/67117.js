@@ -1,0 +1,1 @@
+lar[67117]=`<b>ίδος</b> <font color="purple">[ῠῐδ]</font><br><b>      1</b> <i>adj. f</i>. qui sert à moudre : λᾶας, A. ÉTOL. <i>p. 220 Mein.</i><br><b>      2</b> ἡ μ. AR. <i>fr. 503 Dind.</i> ; PLAT. COM. <i>2-2, 641 Mein.,</i> blatte, <i>insecte qui ronge la farine</i>.<p><b>Étym</b>. μύλη.`

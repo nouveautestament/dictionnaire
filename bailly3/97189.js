@@ -1,0 +1,1 @@
+lar[97189]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> nature corporelle, SEXT. <i>M. 3, 85</i>.<p><b>Étym</b>. σῶμα.`

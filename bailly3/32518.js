@@ -1,0 +1,1 @@
+lar[32518]=`<b>*ἐλασσονότης</b>, <i>seul</i>. <b>ἐλαττονότης, ητος (ἡ)</b> diminution, JAMBL. <i>Nicom. ar. p. 45</i>.<p><b>Étym</b>. ἐλάσσων.`

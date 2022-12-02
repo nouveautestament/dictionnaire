@@ -1,0 +1,1 @@
+lar[47424]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. θλίψις, GAL. <i>12, 113</i>.`

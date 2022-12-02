@@ -1,0 +1,1 @@
+lar[34536]=`<b>ἐν·θηλυ·παθέω-ῶ</b> <font color="purple">[ῠᾰ]</font> être efféminé.<p><b>Étym</b>. ἐν, θῆλυς, πάθος.`

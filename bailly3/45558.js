@@ -1,0 +1,1 @@
+lar[45558]=`<b>ἡμί·σοφος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié sage, LUC. <i>Herm. 15, Bis acc. 8</i>.<p><b>Étym</b>. ἡμι-, σοφός.`

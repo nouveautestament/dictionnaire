@@ -1,0 +1,1 @@
+lar[80602]=`<b>πλαδδιάω-ῶ</b>, <i>seul. 2 sg. impér</i>. πλαδδίη, AR. <i>Lys. 990, et inf</i>. πλαδδιῆν, AR. <i>Lys. 171, mot lacon</i>. radoter.<p><b>Étym</b>. πλάζω.`

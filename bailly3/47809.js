@@ -1,0 +1,1 @@
+lar[47809]=`<b>θυγατρο·γόνος, ος, ον</b> <font color="purple">[ῠ]</font> qui engendre <i>ou</i> qui enfante une fille, NONN. <i>D. 7, 212, etc</i>.<p><b>Étym</b>. θ. γίγνομαι.`

@@ -1,0 +1,1 @@
+lar[93762]=`<b>συλ·λατρεύω</b> <font color="purple">[ᾰ]</font> servir ensemble (une divinité) <i>dat</i>. PLUT. <i>M. 941e</i>.`

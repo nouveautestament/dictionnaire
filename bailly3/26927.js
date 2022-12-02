@@ -1,0 +1,1 @@
+lar[26927]=`<b>ή, όν</b>, de deux penthémimères, MAR. PLOT. SAC. <i>6, 512, 10 Grammatici latini Keil ; 517, 19 Grammatici latini Keil</i>.<p><b>Étym</b>. <i>v</i>. διπενθημιμερής.`

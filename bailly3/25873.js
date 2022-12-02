@@ -1,0 +1,1 @@
+lar[25873]=`<font color="purple">[ᾰδ]</font> <i>adv</i>., clairement, HPC. <i>408, 39</i>.<p><b>Étym</b>. διαφράζω.`

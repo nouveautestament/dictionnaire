@@ -1,0 +1,1 @@
+lar[47800]=`être en rut, <i>en parl. du porc ou du sanglier,</i> ARSTT. <i>H.A. 5, 14, 23, etc</i>.<p><b>Étym</b>. θύω.`

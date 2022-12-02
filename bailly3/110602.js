@@ -1,0 +1,1 @@
+lar[110602]=`<i>3 sg. impf. pass. de</i> ὀχέω.`

@@ -1,0 +1,1 @@
+lar[40521]=`<b>Ἐρί·τιμος, ου (ὁ)</b> <font color="purple">[ῐῑ]</font> Éritimos, <i>h</i>. PD. <i>O. 13, 59</i>.<p><b>Étym</b>. <i>v</i>. ἐρίτιμος.`

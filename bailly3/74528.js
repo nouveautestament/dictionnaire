@@ -1,0 +1,1 @@
+lar[74528]=`<b>παλιμ·πετής, ής, ές</b> <font color="purple">[ᾰ]</font> qui tombe <i>ou</i> retombe en arrière, NONN. <i>Jo. 7, 34 ; adv. au neutre,</i> παλιμπετές, IL. <i>16, 395</i> ; OD. <i>5, 27</i> ; CALL. <i>Del. 294</i> ; A.RH. <i>2, 1250, etc</i>. en arrière, en sens inverse.<p><b>Étym</b>. π. πίπτω.`

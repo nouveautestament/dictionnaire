@@ -1,0 +1,1 @@
+lar[26251]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾱ]</font> filtre, PLUT. <i>M. 1088e</i>.<p><b>Étym</b>. διεράω.`

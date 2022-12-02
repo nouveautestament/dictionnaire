@@ -1,0 +1,1 @@
+lar[9465]=`<b>ης (ἡ)</b> Antandrè, <i>Amazone,</i> Q. SM. <i>1, 43, 531</i>.<p><b>Étym</b>. <i>cf</i>. ἄντανδρος.`

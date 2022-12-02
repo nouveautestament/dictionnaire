@@ -1,0 +1,1 @@
+lar[89434]=`<b>σαρκο·γονία, ας (ἡ)</b> action d’engendrer de la chair, PORPH. <i>Antr. nymph. 14</i>.<p><b>Étym</b>. σάρξ, γίγνομαι.`

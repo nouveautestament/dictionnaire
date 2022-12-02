@@ -1,0 +1,1 @@
+lar[33907]=`<b>εως (ἡ)</b> opposition, <i>d’où</i> :<br><b>      1</b> contradiction, THC. <i>8, 50</i> ; PLAT. <i>Rsp. 454a.</i><br><b>      2</b> conduite opposée, ARSTT. <i>Nic. 4, 6, 7</i>.<br><b>      3</b> désaccord, PLAT. <i>Rsp. 607c ; au plur</i>. ISOCR. <i>275c</i>.<p><b>Étym</b>. ἐναντιόομαι.`

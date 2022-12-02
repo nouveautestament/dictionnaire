@@ -1,0 +1,1 @@
+lar[42947]=`<b>εὐ·παρόξυντος, ος, ον</b>, facile à piquer, à irriter, PLUT. <i>Ant. 73</i>.<p><b>Étym</b>. εὖ, παροξύνω.`

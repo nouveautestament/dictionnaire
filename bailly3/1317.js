@@ -1,0 +1,1 @@
+lar[1317]=`<b>ἀ·διάθετος, ος, ον</b>, qui n’a pas fait ses dispositions par testament, intestat, D. CHR. <i>2, 281</i>.<p><b>Étym</b>. ἀ, διατίθημι.`

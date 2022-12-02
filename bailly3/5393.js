@@ -1,0 +1,1 @@
+lar[5393]=`<b>ἀ·μεθόδευτος, ος, ον</b>, qui n’a pas de plan, HERM. (STOB. <i>Ecl. 1, 976).</i><p><b>Étym</b>. ἀ, μεθοδεύω.`

@@ -1,0 +1,1 @@
+lar[108623]=`<b>χλωρίτης λίθος (ὁ)</b> sorte de pierre précieuse d’un vert tendre, PLIN. <i>H.N. 37, 56</i>.<p><b>Étym</b>. χλωρός.`

@@ -1,0 +1,1 @@
+lar[58958]=`<b>κυριο·κτόνος, ος, ον</b> <font color="purple">[ῡ]</font> déicide, JOS. <i>A.J. 7, 2, 1</i>.<p><b>Étym</b>. Κύριος, κτείνω.`

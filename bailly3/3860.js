@@ -1,0 +1,1 @@
+lar[3860]=`<b>ἀκρ·ουρανία, ας (ἡ)</b> <font color="purple">[ρᾰ]</font> les hauteurs des cieux, <i>mot emphatique blâmé par</i> LUC. <i>Lex. 15</i>.<p><b>Étym</b>. ἄ. οὐρανός.`

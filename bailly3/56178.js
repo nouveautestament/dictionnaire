@@ -1,0 +1,1 @@
+lar[56178]=`<b>κλυτο·φεγγής, ής, ές</b> <font color="purple">[ῠ]</font> à la lumière brillante, <i>ou p.-ê</i>. à l’éclat vanté, MAN. <i>2, 148</i>.<p><b>Étym</b>. κλ. φέγγος.`

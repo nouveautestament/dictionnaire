@@ -1,0 +1,1 @@
+lar[27089]=`<font color="darkgreen">(<i>part. ao</i>. -εύσας)</font> <font color="purple">[ῐ]</font> <i>c</i>. διτοκέω NIC. (ATH. <i>395c</i>).`

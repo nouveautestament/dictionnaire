@@ -1,0 +1,1 @@
+lar[58823]=`<b>κυνό·πρασον, ου (τὸ)</b> porreau de chien, HIPPIATR. <i>p. 189, 11</i>.<p><b>Étym</b>. κ. πράσον.`

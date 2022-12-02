@@ -1,0 +1,1 @@
+lar[10159]=`<b>ἀντι·παίω :<br>      1</b> frapper en retour, <i>d’où</i> renvoyer le son, ARSTT. <i>Probl. 11, 29, 1</i>.<br><b>      2</b> se heurter contre, <i>avec</i> πρός <i>et l’acc</i>. POL. <i>18, 29, 15</i>.`

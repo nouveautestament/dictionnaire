@@ -1,0 +1,1 @@
+lar[9203]=`<b>ἀν·οίδησις, εως (ἡ)</b> gonflement (des mamelles) ARSTT. <i>H.A. 6, 20, 7</i> ; soulèvement (de la mer) ARSTT. <i>Mund. 6, 21</i>.<p><b>Étym</b>. ἀνοιδέω.`

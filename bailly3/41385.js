@@ -1,0 +1,1 @@
+lar[41385]=`<b>ἑτερό·τροπος, ος, ον :<br>      1</b> d’une manière différente, d’autre sorte, <i>d’où</i> différent, AR. <i>Th. 724</i> ; NONN. <i>D. 18, 67, etc</i>. OPP. <i>H. 1, 379</i>.<br><b>      2</b> qui se tourne <i>ou</i> se porte d’un autre côté, ANTH. <i>9, 768</i> ; NONN. <i>D. 2, 669 ; 7, 7</i>.<p><b>Étym</b>. ἕ. τρέπω.`

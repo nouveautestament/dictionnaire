@@ -1,0 +1,1 @@
+lar[72929]=`<b>ὀρνιθο·ειδής, ής, ές</b> <font color="purple">[ῑθ]</font> qui ressemble à un oiseau, <i>particul</i>. à une poule, ADAM. <i>Physiogn. 1, 1, p. 323</i>.<p><b>Étym</b>. ὄρνις, εἶδος.`

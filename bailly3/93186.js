@@ -1,0 +1,1 @@
+lar[93186]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> la parenté, PLUT. <i>M. 265c</i>.<p><b>Étym</b>. συγγενής.`

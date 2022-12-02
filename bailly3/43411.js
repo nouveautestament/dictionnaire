@@ -1,0 +1,1 @@
+lar[43411]=`<b>εὐ·σήκωτος, ος, ον</b>, bien équilibré, BITON <i>Mach. p. 113</i>.<p><b>Étym</b>. εὖ, σηκόω.`

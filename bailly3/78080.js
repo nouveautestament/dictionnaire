@@ -1,0 +1,1 @@
+lar[78080]=`<b>πεντεκαιδεκα·τάλαντος, ος, ον</b> <font color="purple">[ᾰτᾰ]</font> qui vaut quinze talents, DÉM. <i>838, 25</i>.<p><b>Étym</b>. π. τάλαντον.`

@@ -1,0 +1,1 @@
+lar[52012]=`<font color="purple">[χᾱ]</font> <i>dor. c</i>. καρχήσιον.`

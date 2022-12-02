@@ -1,0 +1,1 @@
+lar[54928]=`<b>η, ον :<br>      1</b> le plus avantageux, le plus utile, ESCHL. <i>Pr. 385</i> ; SOPH. <i>Aj. 743</i>.<br><b>      2</b> le plus rusé, IL. <i>6, 153</i>.<p><b>Étym</b>. <i>superl. dér. de</i> κέρδος ; <i>cf</i>. κερδίων.`

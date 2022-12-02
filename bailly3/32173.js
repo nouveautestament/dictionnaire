@@ -1,0 +1,1 @@
+lar[32173]=`<b>εως (ἡ)</b> castration, ARSTT. <i>Probl. 10, 37</i>.<p><b>Étym</b>. ἐκτέμνω.`

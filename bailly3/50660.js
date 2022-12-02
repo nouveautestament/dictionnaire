@@ -1,0 +1,1 @@
+lar[50660]=`<b>ης (ἡ)</b> <font color="purple">[ᾰβ]</font><br><b>      1</b> perdrix, ATH. <i>389f.</i><br><b>      2</b> marmite à trois pieds, AR. <i>fr. 26</i> ; DORION (ATH. <i>338a, etc</i>.).<p><b>Étym</b>. <i>p. le sens 1 : emprunt anatolien ; p. le sens 2 : p.-ê. pré-grec, cf. l’emprunt lat</i>. cacabus.`

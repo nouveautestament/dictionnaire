@@ -1,0 +1,1 @@
+lar[89633]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. auguste, ANTH. <i>9, 355</i>.<p><b>Étym</b>. σεβαστή.`

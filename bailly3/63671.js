@@ -1,0 +1,1 @@
+lar[63671]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱμ]</font> sourire, PLUT. <i>Syll. 35</i> ; LUC. <i>Bis acc. 28</i>.<p><b>Étym</b>. μειδιάω.`

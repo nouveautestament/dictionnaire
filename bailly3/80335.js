@@ -1,0 +1,1 @@
+lar[80335]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> de tablette, PTOL. <i>Tetr. 120</i>.<p><b>Étym</b>. πίναξ.`

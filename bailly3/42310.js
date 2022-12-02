@@ -1,0 +1,1 @@
+lar[42310]=`<b>εὐθύ·τομος, ος, ον</b> <font color="purple">[ῠ]</font> coupé droit, direct, PD. <i>P. 5, 90</i>.<p><b>Étym</b>. εὐ. τέμνω.`

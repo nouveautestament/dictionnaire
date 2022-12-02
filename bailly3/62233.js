@@ -1,0 +1,1 @@
+lar[62233]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> petit cuisinier <i>ou</i> méchant cuisinier, ATH. <i>292e</i>.<p><b>Étym</b>. <i>dim. de</i> μάγειρος.`

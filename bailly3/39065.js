@@ -1,0 +1,1 @@
+lar[39065]=`<b>οῦ</b>, <i>adj. m</i>. qui presse, qui accélère, SPT. <i>Esaï. 14, 4</i>.<p><b>Étym</b>. ἐπισπουδάζω.`

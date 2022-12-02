@@ -1,0 +1,1 @@
+lar[43613]=`<b>ας (ἡ)</b> habileté à tirer de l’arc, HDN <i>1, 15</i>.<p><b>Étym</b>. εὔτοξος.`

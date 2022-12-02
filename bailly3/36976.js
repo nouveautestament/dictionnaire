@@ -1,0 +1,1 @@
+lar[36976]=`<i>adv</i>., par importation, NYSS. <i>1, 862</i> ; CHRYS. <i>4, 265</i>.`

@@ -1,0 +1,1 @@
+lar[37382]=`<b>οῦ (ὁ)</b> qui tend des embûches, SOPH. <i>Aj. 726</i>.<p><b>Étym</b>. ἐπιβουλεύω.`

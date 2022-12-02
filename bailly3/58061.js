@@ -1,0 +1,1 @@
+lar[58061]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de Saturne, <i>à Rome</i> : Κρονιάδες ἡμέραι, les Saturnales, PLUT. <i>Cic. 18</i>.<p><b>Étym</b>. Κρόνος.`

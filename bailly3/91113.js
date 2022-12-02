@@ -1,0 +1,1 @@
+lar[91113]=`<b>ῶν (οἱ)</b> les descendants de Skopas <i>de Thessalie,</i> PD. <i>fr. 194</i> ; HDT. <i>6, 127</i> ; THCR. <i>Idyl. 16, 36, etc</i>.<p>➳ <i>Gén. ion</i>. Σκοπαδέων, HDT. <i>l. c. ; dat. poét</i>. Σκοπάδῃσι, THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. Σκόπας.`

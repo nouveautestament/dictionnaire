@@ -1,0 +1,1 @@
+lar[72744]=`<b>ὀρθο·πραγέω-ῶ</b> <font color="purple">[ᾱ]</font> agir droitement, se bien conduire, ARSTT. <i>Pol. 1, 13, 10</i>.<p><b>Étym</b>. ὀ. πρᾶγος.`

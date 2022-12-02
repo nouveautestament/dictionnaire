@@ -1,0 +1,1 @@
+lar[95295]=`<b>συν·είργνυμι</b>, <i>c</i>. συνέργω, <i>avec</i> εἰς <i>et l’acc</i>. PLUT. <i>Alex. 2 ; avec</i> ἐν <i>et le dat</i>. PLUT. <i>M. 493d ; abs</i>. PLUT. <i>Rom. 5, Crass. 8 ; au pass</i>. PLUT. <i>M. 138b, 926c, etc</i>.`

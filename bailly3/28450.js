@@ -1,0 +1,1 @@
+lar[28450]=`<b>δυσ·ερμήνευτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à expliquer, obscur, DS. <i>2, 52</i> ; NT. <i>Hebr. 5, 11</i> ; PHIL. <i>1, 649</i>.<p><b>Étym</b>. δ. ἑρμηνεύω.`

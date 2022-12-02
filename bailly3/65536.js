@@ -1,0 +1,1 @@
+lar[65536]=`<b>α, ον</b> <font color="purple">[ῖδ]</font> muni d’organes de reproduction, <i>particul</i>. chargé de graines, AR. <i>Lys. 549</i>.<p><b>Étym</b>. μήτρα.`

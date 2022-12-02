@@ -1,0 +1,1 @@
+lar[97217]=`<b>ας (ἡ) :<br>      1</b> amoncellement, PLUT. <i>Oth. 14</i>.<br><b>      2</b> tas, monceau, NÉMÉS. <i>N.H. p. 128</i>.<br><b>      3</b> emploi du sorite (<i>v</i>. σωρείτης) TAT. <i>Or. ad Græc. 27, c. 865b</i>.<p><b>Étym</b>. σωρεύω.`

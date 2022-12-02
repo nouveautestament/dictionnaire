@@ -1,0 +1,1 @@
+lar[11906]=`<b>Ἀ·πήμαντος, ου (ὁ)</b> Apèmantos, <i>h</i>. PLAT. <i>Hipp. ma. 286b, etc</i>.`

@@ -1,0 +1,1 @@
+lar[25381]=`<b>δια·πτερνιστής, οῦ (ὁ)</b> qui a l’habitude de ruer, <i>d’où</i> récalcitrant, CLÉM. <i>982</i>.<p><b>Étym</b>. διά, πτέρνον.`

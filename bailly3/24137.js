@@ -1,0 +1,1 @@
+lar[24137]=`<b>ή, όν</b>, qui mord, <i>en parl. de poissons,</i> ARSTT. <i>P.A. 3, 1, 13 ; d’insectes,</i> ARSTT. <i>H.A. 9, 39, 1 ; p. anal. en parl. d’une drogue d’un goût fort ou âcre,</i> LUC. <i>Nigr. 37 ; fig. en parl. du caractère ou de l’esprit, joint à</i> ἀστεῖος, LUC. <i>Demon. 50</i>.<p>•<i> Cp</i>. -ώτερος, ATH. <i>121a</i>.<p><b>Étym</b>. δάκνω.`

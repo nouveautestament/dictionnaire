@@ -1,0 +1,1 @@
+lar[36457]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> ἐπακολουθέω, DÉM. <i>1402, 14</i>.`

@@ -1,0 +1,1 @@
+lar[26260]=`<b>δι·ερείκω</b> <font color="darkgreen">(<i>ao.2</i> διήρικον <font color="purple">[ρῐ]</font>)</font> fendre, séparer, EUPH. <i>p. 72 Mein</i>.`

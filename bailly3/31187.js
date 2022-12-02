@@ -1,0 +1,1 @@
+lar[31187]=`<b>εως (ἡ)</b> action de s’écarter d’un régime <i>ou</i> d’une règle, changement d’habitudes, PLUT. <i>Alex. 45, M. 493c</i>.<p><b>Étym</b>. ἐκδιαιτάω.`

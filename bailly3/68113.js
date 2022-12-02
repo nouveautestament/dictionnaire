@@ -1,0 +1,1 @@
+lar[68113]=`<b>νεό·γραπτος, ος, ον</b>, nouvellement peint <i>ou</i> écrit, THCR. <i>Idyl. 18, 3</i>.<p><b>Étym</b>. ν. γράφω.`

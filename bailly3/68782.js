@@ -1,0 +1,1 @@
+lar[68782]=`<b>νικοποιέω-ῶ</b> <font color="purple">[ῑ]</font> vaincre, SPT. <i>Esdr. 3, 8</i>.<p><b>Étym</b>. νικοποιός.`

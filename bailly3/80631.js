@@ -1,0 +1,1 @@
+lar[80631]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de gâteau, PHÆNIAS (ATH. <i>58e</i>).<p><b>Étym</b>. πλακοῦς.`

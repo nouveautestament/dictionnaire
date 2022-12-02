@@ -1,0 +1,1 @@
+lar[81771]=`<b>πολύ·βρωτος, ος, ον</b>, entièrement dévoré <i>ou</i> déchiré, NONN. <i>D. 5, 502</i>.<p><b>Étym</b>. π. βιβρώσκω.`

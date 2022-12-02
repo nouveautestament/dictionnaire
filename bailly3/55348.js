@@ -1,0 +1,1 @@
+lar[55348]=`<b>έως (ὁ)</b> Kèphée :<br><b>      1</b> <i>roi d’Éthiopie, père d’Andromède,</i> HDT. <i>7, 61, 150</i> ; AR. <i>Th. 1056, 1113</i>.<br><b>      2</b> <i>constellation</i> (Céphée), Ps.-ERATOSTH. <i>Cat. 15, etc</i>.<p>➳ <i>Gén. épq</i>. -ῆος, NIC. <i>Al. 103 ; ion</i>. -έος, NONN. <i>D. 1, 190 ; acc. épq</i>. -ῆα, NONN. <i>D. 23, 311, etc</i>.`

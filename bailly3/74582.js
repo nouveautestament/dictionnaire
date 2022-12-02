@@ -1,0 +1,1 @@
+lar[74582]=`<b>παλίν·οπτος, ος, ον</b> <font color="purple">[ᾰῐ]</font> vu au rebours de la lumière, à contre-jour, GAL. <i>Lex. Hipp</i>.<p><b>Étym</b>. π. ὀπτός.`

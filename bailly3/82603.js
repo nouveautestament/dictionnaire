@@ -1,0 +1,1 @@
+lar[82603]=`<b>πολυ·ώδυνος, ος, ον</b> <font color="purple">[δῠ]</font><br><b>      1</b> <i>act</i>. qui cause beaucoup de souffrances, THCR. <i>Idyl. 25, 238</i> ; A. PL. <i>201</i>.<br><b>      2</b> <i>pass</i>. accablé de souffrances, ANTH. <i>11, 386</i> ; A. PL. <i>111</i>.<p><b>Étym</b>. π. ὀδύνη.`

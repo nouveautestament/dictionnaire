@@ -1,0 +1,1 @@
+lar[51506]=`<b>υος (ὁ)</b> robe de dessus, <i>avec manches, chez les Perses,</i> XÉN. <i>Cyr. 1, 3, 2 ; 8, 3, 13</i> ; LUC. <i>D. mort. 14, 4</i>.`

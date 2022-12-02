@@ -1,0 +1,1 @@
+lar[11022]=`<i>adv.</i> :<br><b>      1</b> en masse compacte, en foule, OPP. <i>H. 1, 788</i>.<br><b>      2</b> <i>p. ext</i>. ensemble, <i>en parl. de deux,</i> MOSCH. <i>2, 49</i>.<p><b>Étym</b>. ἀολλής, -δην.`

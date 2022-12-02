@@ -1,0 +1,1 @@
+lar[38260]=`<b>ἐπ·ιλαρχία, ας (ἡ)</b> <font color="purple">[ῑλ]</font> commandement d’un double escadron (128 chevaux) ASCLÉPIOD. <i>7, 11</i>.<p><b>Étym</b>. ἐπί, ἰλαρχία, <i>cf</i>. ἐπειλαρχία.`

@@ -1,0 +1,1 @@
+lar[53706]=`<b>κατά·φωρος, ος, ον :<br>      1</b> pris sur le fait, PLUT. <i>M. 301b.</i><br><b>      2</b> <i>p. suite,</i> manifeste, DH. <i>Rhet. 5, p. 331, 14</i> ; PLUT. <i>Cato mi. 54, etc</i>.<p><b>Étym</b>. <i>cf</i>. αὐτόφωρος.`

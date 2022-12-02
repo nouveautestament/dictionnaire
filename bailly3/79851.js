@@ -1,0 +1,1 @@
+lar[79851]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> jambon, <i>à cause de sa forme évasée,</i> ATH. <i>657</i>.<p><b>Étym</b>. πέτασος.`

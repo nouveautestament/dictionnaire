@@ -1,0 +1,1 @@
+lar[74136]=`<font color="purple">[ρᾰ]</font> s’exercer à la lutte du pancrace, PLAT. <i>Gorg. 456d, etc.</i> ; ISOCR. <i>Antid. § 252 ; fig</i>. ESCHN. <i>4, 33</i>.<p><b>Étym</b>. παγκράτιον.`

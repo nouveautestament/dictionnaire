@@ -1,0 +1,1 @@
+lar[24462]=`<b>ή, όν</b>, dont la nature est de dévorer, corrosif ; A. APHR. <i>Probl. 34, 22</i> ; τὸ δ. CHRYS. <i>4, 533 (cf. 5, 808 ; 6, 136</i>) action dévorante (du feu).<p><b>Étym</b>. <i>v</i>. διάβρωμα, διάβρωσις.`

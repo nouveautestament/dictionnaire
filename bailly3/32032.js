@@ -1,0 +1,1 @@
+lar[32032]=`<b>ἐκ·σεμνύνω</b> <font color="purple">[ῡ]</font> exalter, ATH. <i>661e</i>.`

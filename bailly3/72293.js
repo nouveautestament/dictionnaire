@@ -1,0 +1,1 @@
+lar[72293]=`<b>ή, όν</b>, sujet à des attaques d’ὀπισθοτονία, DIOSC. <i>3, 18</i>.`

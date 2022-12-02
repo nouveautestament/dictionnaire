@@ -1,0 +1,1 @@
+lar[84127]=`<b>προ·ελαύνω</b> <font color="darkgreen">(<i>f</i>. -ελάσω, <i>ao</i>. -ήλασα, <i>etc</i>.) :</font><br><b>      1 <i>intr.</i></b> s’avancer à cheval devant, <i>gén</i>. XÉN. <i>Mem. 3, 3, 1 ; abs</i>. XÉN. <i>An. 6, 3, 14</i>.<br><b>      2 <i>tr.</i></b> faire avancer, <i>d’où au pass</i>. être avancé, s’avancer, <i>en parl. du temps,</i> HDT. <i>9, 44</i>.`

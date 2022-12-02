@@ -1,0 +1,1 @@
+lar[44292]=`<b>ἐχο·νόη (ἡ)</b> <i>mot créé par</i> PLAT. <i>Crat. 414b, pour expliquer</i> τέχνη (<i>propr</i>. possession d’intelligence).<p><b>Étym</b>. ἔχω, νοῦς.`

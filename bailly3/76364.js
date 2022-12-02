@@ -1,0 +1,1 @@
+lar[76364]=`<b>παρα·τρυφάω-ῶ</b> <font color="purple">[ῠ]</font> vivre dans la mollesse près de, <i>dat</i>. NAZ. <i>2, 576 Migne</i>.`

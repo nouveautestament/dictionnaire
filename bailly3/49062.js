@@ -1,0 +1,1 @@
+lar[49062]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. d’Inô, NONN. <i>D. 9, 269</i>.<p><b>Étym</b>. Ἰνώ.`

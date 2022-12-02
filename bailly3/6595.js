@@ -1,0 +1,1 @@
+lar[6595]=`<b>ἀν·άγιος, ος, ον</b> <font color="purple">[ᾰγ]</font> non sacré, non saint, NAZ. <i>3, 149 Migne</i>.<p><b>Étym</b>. ἀν-, ἅγιος.`

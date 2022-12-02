@@ -1,0 +1,1 @@
+lar[100701]=`<b>τροπαιο·φόρος, ος, ον :<br>      1</b> qui porte des trophées, orné de trophées, <i>en parl. de la Victoire, d’un arc de triomphe,</i> DS. <i>18, 26</i> ; DH. <i>3, 31, etc.</i> ; PLUT. <i>Rom. 16, Syll. 6, Marc. 8</i> ; DC. <i>49, 15</i>.<br><b>      2</b> qui remporte des trophées, victorieux, ANTH. <i>5, 294</i>.<p><b>Étym</b>. τρόπαιον, φέρω.`

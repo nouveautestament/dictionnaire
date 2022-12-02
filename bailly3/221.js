@@ -1,0 +1,1 @@
+lar[221]=`<b>ου (ἡ)</b> <font color="purple">[ᾰῡ]</font> Abydos :<br><b>      1</b> <i>v. de Troade sur l’Hellespont, en face de Sestos (auj</i>. Nara Burnu) IL. <i>2, 836, etc.</i><br><b>      2</b> <i>v. d’Égypte (auj</i>. ruines près de Birbé) PLUT.<p>➳ ὁ Ἄβ. HERMIPP. (ATH. <i>525</i>).`

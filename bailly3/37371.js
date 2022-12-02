@@ -1,0 +1,1 @@
+lar[37371]=`<b>ἐπι·βόθριος, ος, ον</b>, qui est sur la fosse, ARSTD. <i>t. 1, 296</i>.<p><b>Étym</b>. ἐπί, βόθρος.`

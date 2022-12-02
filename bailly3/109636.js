@@ -1,0 +1,1 @@
+lar[109636]=`<b>ψευδ·αποφάσκων, οντος (ὁ)</b> <font color="purple">[ᾰ]</font> argument captieux, par lequel on feint de nier, DL. <i>2, 108</i> ; CLÉM. <i>651, cf</i>. ψευδόμενος.<p><b>Étym</b>. ψ. ἀποφάσκω.`

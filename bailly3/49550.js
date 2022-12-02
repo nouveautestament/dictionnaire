@@ -1,0 +1,1 @@
+lar[49550]=`<font color="purple">[ῑ̆ᾰ]</font> <i>adv</i>., d’autant de manières, ARSTT. <i>Metaph. 4, 1, 2</i>.<p><b>Étym</b>. ἴσος.`

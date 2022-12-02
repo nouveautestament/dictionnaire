@@ -1,0 +1,1 @@
+lar[70815]=`<b>όεσσα, όεν</b>, qui donne le frisson, effrayant, horrible, IL. <i>6, 344 ; 9, 64</i> ; A.RH. <i>2, 607</i> ; ANTH. <i>7, 67</i>.<p><b>Étym</b>. κρυόεις, <i>par fausse coupe dans</i> IL. <i>ll. cc</i>.`

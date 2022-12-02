@@ -1,0 +1,1 @@
+lar[55362]=`<b>ου (ὁ)</b> <font color="purple">[ῑσ]</font> Kèphisios, <i>h</i>. AND. <i>1, 38 Baiter-Sauppe, etc</i>.`

@@ -1,0 +1,1 @@
+lar[66885]=`<i>ou</i> <b>μορρίνη, ης (ἡ)</b> porcelaine, M. RUBR. <i>6, 48</i>.<p><b>Étym</b>. <i>fém. de</i> μούρρινος.`

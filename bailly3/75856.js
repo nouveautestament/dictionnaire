@@ -1,0 +1,1 @@
+lar[75856]=`<b>ος, ον</b>, qui déraisonne, qui radote, HPC. <i>Epid. 1, 940</i> ; PHIL. <i>1, 387, etc. ; subst</i>. τὸ π. HPC. <i>1103e</i>, délire.<p><b>Étym</b>. παραληρέω.`

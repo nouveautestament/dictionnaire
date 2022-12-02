@@ -1,0 +1,1 @@
+lar[69597]=`<b>ων (οἱ)</b> les Xouthes, <i>pple de l’Inde,</i> NONN. <i>D. 26, 165</i>.<p><b>Étym</b>. ξουθός.`

@@ -1,0 +1,1 @@
+lar[98450]=`<b>τεσσαρακοντ·όργυιος</b>, <i>ion</i>. <b>τεσσερακοντ·όργυιος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> de quarante brasses, HDT. <i>2, 148</i>.<p><b>Étym</b>. τ. ὀργυιά.`

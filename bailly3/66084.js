@@ -1,0 +1,1 @@
+lar[66084]=`<b>μισο·φιλόσοφος, ος, ον</b> <font color="purple">[ῑῐ]</font> qui hait les philosophes, EUM. <i>p. 91</i>.`

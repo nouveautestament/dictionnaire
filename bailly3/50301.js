@@ -1,0 +1,1 @@
+lar[50301]=`<b>ος, ον</b> <font color="purple">[κᾰ]</font> propre à purifier, DH. <i>9, 40</i>.<p><b>Étym</b>. καθαίρω.`

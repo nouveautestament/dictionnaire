@@ -1,0 +1,1 @@
+lar[18231]=`<b>ἀφριάω-ῶ</b> <i>(seul. prés.) c</i>. ἀφρέω, OPP. <i>H. 1, 770</i> ; PORPH.<p>➳ <i>3 sg. épq</i>. ἀφριάᾳ, OPP. <i>H. 1, 770, etc. ; part. épq</i>. ἀφριόων, OPP. <i>H. 5, 183, etc. ; fém</i>. ἀφριόωσα, NONN. <i>D. 1, 153</i> (EUS. <i>P.E. 114c</i>).`

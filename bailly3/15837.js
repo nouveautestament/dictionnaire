@@ -1,0 +1,1 @@
+lar[15837]=`<font color="purple">[ᾰᾱ]</font> <i>adv</i>., à la manière des Asiatiques, DC.`

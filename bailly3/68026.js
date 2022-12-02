@@ -1,0 +1,1 @@
+lar[68026]=`<b>νεκρο·φόρος, ος, ον</b>, qui transporte un mort <i>ou</i> des morts pour la sépulture, POL. <i>35, 6, 2</i> ; PLUT. <i>Cato ma. 9</i>.<p><b>Étym</b>. ν. φέρω.`

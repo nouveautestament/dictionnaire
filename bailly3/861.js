@@ -1,0 +1,1 @@
+lar[861]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> manque d’instruction, ignorance, EL. <i>V.H. 8, 6</i>.<p><b>Étym</b>. ἀγράμματος.`

@@ -1,0 +1,1 @@
+lar[83252]=`<b>ου (ὁ)</b> Prâos, <i>h</i>. PLUT. <i>Parall. min. 32</i>.<p><b>Étym</b>. <i>cf</i>. πρᾷος.`

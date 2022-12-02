@@ -1,0 +1,1 @@
+lar[64580]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> situation d’un astre, <i>particul</i>. du soleil, parvenu au méridien, <i>d’où</i> le méridien, CLÉOM. <i>52, 18</i> ; STR. <i>3, 5, 8 Kram.</i> ; SEXT. <i>M. 5, 12</i>.<br><b>      2</b> le milieu du ciel, NT. <i>Apoc. 8, 13 ; 14, 6 ; 19, 17</i>.<p><b>Étym</b>. μεσουρανέω.`

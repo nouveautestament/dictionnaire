@@ -1,0 +1,1 @@
+lar[102720]=`<b>ὑπερ·ουράνιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui est au-dessus du ciel, PLAT. <i>Phædr. 247c ;</i> THÉM. <i>p. 8b</i>.<p><b>Étym</b>. ὑ. οὐρανός.`

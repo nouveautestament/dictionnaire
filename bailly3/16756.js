@@ -1,0 +1,1 @@
+lar[16756]=`<b>ἀ·τεράμων, ων, ον</b>, <i>gén</i>. ονος, cru, dur, TH. <i>H.P. 2, 4, 2 ; fig</i>. AR. <i>Ach. 181</i> ; PLAT. <i>Leg. 853d, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἀτέραμνος.`

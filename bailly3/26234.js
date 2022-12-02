@@ -1,0 +1,1 @@
+lar[26234]=`<b>ος, ον</b>, qui peut être traversé, ORIB. <i>244 Matthäi</i>.<p><b>Étym</b>. διέξειμι.`

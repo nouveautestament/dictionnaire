@@ -1,0 +1,1 @@
+lar[55480]=`<b>ας (ἡ)</b> <font color="purple">[κῐ]</font> débauche contre nature, ESCHN. <i>41, 13, etc</i>.<p><b>Étym</b>. κίναιδος.`

@@ -1,0 +1,1 @@
+lar[45563]=`<b>ἡμι·σπιθαμιαῖος, α, ον</b> <font color="purple">[πῐᾰ]</font> de la longueur <i>ou</i> de la grosseur d’un demi-empan (0,116<i>m</i>) HPC. <i>Fract. 770</i>.<p><b>Étym</b>. ἡμι-, σπιθαμή.`

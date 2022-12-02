@@ -1,0 +1,1 @@
+lar[55410]=`<b>εως (ἡ)</b> <font color="purple">[ῐᾰῐσ]</font> action de jouer de la cithare, PLAT. <i>Prot. 325e, etc.</i> ; ARSTT. <i>Poet. 2</i> ; PLUT. <i>M. 724b, etc</i>.<p><b>Étym</b>. κιθαρίζω.`

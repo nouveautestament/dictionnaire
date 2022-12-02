@@ -1,0 +1,1 @@
+lar[41720]=`<b>εὐ·βόστρυχος, ος, ον</b> <font color="purple">[ῠ]</font> aux belles boucles, ANTH. <i>5, 251</i>.<p><b>Étym</b>. εὖ, βόστρυχος.`

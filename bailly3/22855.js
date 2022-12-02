@@ -1,0 +1,1 @@
+lar[22855]=`<b>εως (ἡ)</b> fleur de farine, DIOSC. <i>1, 89 ; 2, 107</i> ; ATH. <i>115d ;</i> GAL. <i>13, 193a ; etc</i>.`

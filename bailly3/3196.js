@@ -1,0 +1,1 @@
+lar[3196]=`<b>ἀ·καταμάθητος, ος, ον</b> <font color="purple">[μᾰ]</font> ignoré, HPC. <i>Acut. 384</i>.<p><b>Étym</b>. ἀ, καταμανθάνω.`

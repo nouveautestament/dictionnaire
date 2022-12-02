@@ -1,0 +1,1 @@
+lar[67387]=`<b>α, ον</b>, de Myrtô (mer) <i>partie de la mer Égée,</i> PD. <i>fr. 22</i> ; NONN. <i>D. 43, 291</i>.<p><b>Étym</b>. Μυρτώ.`

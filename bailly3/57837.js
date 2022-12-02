@@ -1,0 +1,1 @@
+lar[57837]=`<b>κρηπιδόω-ῶ</b> <font color="purple">[ῑ]</font> poser des fondations, fonder, <i>fig</i>. DC. <i>60, 11 ; au pass</i>. se fonder : ἐπί τινος, PLUT. <i>M. 233b</i>, sur qqe ch.<p><b>Étym</b>. κρηπίς.`

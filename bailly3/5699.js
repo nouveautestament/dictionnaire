@@ -1,0 +1,1 @@
+lar[5699]=`<b>ἀ·μνήστευτος, ου</b>, <i>adj. f</i>. non recherchée en mariage, EUR. <i>Ph. fr. 13 ; adv</i>. ἀμνήστευτα, Ps.-PHOCYL. <i>199,</i> sans avoir recherché en mariage.<p><b>Étym</b>. ἀ, μνηστεύω.`

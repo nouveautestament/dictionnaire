@@ -1,0 +1,1 @@
+lar[103813]=`<b>ὑπο·σημειόω-ῶ</b>, DAMASC., <i>d’ord. au moyen</i> ὑποσημειόομαι-οῦμαι :<br><b>      1</b> prendre des notes d’après, <i>acc</i>. DL. <i>2, 48</i>.<br><b>      2</b> marquer des signes en dessous, PTOL. <i>Geogr. p. 63, 5 Halma</i>.`

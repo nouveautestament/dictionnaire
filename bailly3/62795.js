@@ -1,0 +1,1 @@
+lar[62795]=`<b>μανιουργέω-ῶ</b> <font color="purple">[ᾰ]</font> rendre fou <i>ou</i> furieux, POLYEN <i>8, 43</i>.<p><b>Étym</b>. μανία, ἔργον.`

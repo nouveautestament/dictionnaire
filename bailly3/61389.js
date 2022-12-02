@@ -1,0 +1,1 @@
+lar[61389]=`<b>λιρ·όφθαλμος, ος, ον</b> <font color="purple">[ῑ]</font> aux yeux impudents, MÉLÉT. <i>3, 70 Cramer</i>.<p><b>Étym</b>. λιρός, ὀφθαλμός.`

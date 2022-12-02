@@ -1,0 +1,1 @@
+lar[56994]=`<b>οῦ (ἡ)</b> Koptos, <i>v. d’Égypte,</i> LUC.`

@@ -1,0 +1,1 @@
+lar[97400]=`<b>ταλα·εργός, ός, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui supporte le travail, endurci au travail, infatigable, IL. <i>23, 654, 662, 666</i> ; OD. <i>4, 636 ; 21, 23</i> ; THCR. <i>Idyl. 13, 19</i>.<br><b>      2</b> pénible, fatigant, OPP. <i>H. 5, 20</i>.<p><b>Étym</b>. <i>p</i>. *ταλαϝεργός, <i>de</i> *τλάω, ἔργον.`

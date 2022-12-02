@@ -1,0 +1,1 @@
+lar[98812]=`<i>ou mieux</i> <b>Τευτλοῦσσα, ης (ἡ)</b> Teutloussa, <i>litt</i>. « fertile en bettes », <i>î. près de Rhodes,</i> THC. <i>8, 42</i>.<p><b>Étym</b>. <i>contr. de</i> *Τευτλόεσσα, <i>fém. de</i> *τευτλόεις, <i>dér. de</i> τεῦτλον.`

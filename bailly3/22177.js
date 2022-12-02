@@ -1,0 +1,1 @@
+lar[22177]=`<b>γλυκύ·πικρος, ος, ον</b> <font color="purple">[ῠῠῐ]</font> dont l’amertume a qqe douceur (l’amour), SAPPH. <i>37</i> ; ANTH. <i>5, 134 ; 12, 109</i> ; CIC. PLUT.<p><b>Étym</b>. γλ. πικρός.`

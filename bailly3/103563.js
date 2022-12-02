@@ -1,0 +1,1 @@
+lar[103563]=`<i>adv</i>., en rappelant brièvement, GAL. <i>De Opt. sect. 1, 149</i>.<p>•<i> Cp</i>. -ώτερον, SEXT. <i>M. 8, 289</i>.`

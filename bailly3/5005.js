@@ -1,0 +1,1 @@
+lar[5005]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰῠ]</font> salure, ARSTT. <i>fr. 209</i> ; TH. <i>C.P. 2, 5, 4</i> ; PLUT. <i>M. 627a, etc</i>.<p><b>Étym</b>. ἁλυκός.`

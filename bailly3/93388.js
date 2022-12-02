@@ -1,0 +1,1 @@
+lar[93388]=`<b>συγ·καταφλέγω</b> <font color="darkgreen">(<i>ao.2 pass</i>. συγκατεφλέγην)</font> brûler ensemble <i>ou</i> avec, LUC. <i>Nigr. 30, Luct. 14 ; au pass</i>. être brûlé avec, <i>dat</i>. PLUT. <i>M. 499c ; abs</i>. POLYEN <i>7, 24</i>.`

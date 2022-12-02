@@ -1,0 +1,1 @@
+lar[12729]=`<b>ατος (τὸ)</b> jouissance, ESCHN. <i>733, 1</i> ; PLUT. <i>M. 125c</i>.`

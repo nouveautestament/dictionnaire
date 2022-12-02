@@ -1,0 +1,1 @@
+lar[88752]=`<b>ατος (τὸ)</b> sifflement d’un corps qui fend l’espace, <i>d’où</i> mouvement impétueux, impétuosité, AR. <i>Av. 1182</i> ; LUC. <i>J. tr. 1, etc</i>.<p><b>Étym</b>. ῥοιζέω.`

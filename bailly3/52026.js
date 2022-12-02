@@ -1,0 +1,1 @@
+lar[52026]=`<font color="purple">[κᾰ]</font><br><b>      1 <i>intr.</i></b> se conduire comme une courtisane, HERMIPP. (SCH.-AR. <i>Vesp. 1164</i>).<br><b>      2 <i>tr.</i></b> traiter comme une courtisane, se moquer de, AR. <i>Eq. 355</i>.<p><b>Étym</b>. κασαλβάς.`

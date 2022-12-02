@@ -1,0 +1,1 @@
+lar[88010]=`rendre rouge, EUR. <i>Tr. 227</i> ; PHILSTR. <i>Ep. 2</i>.<p><b>Étym</b>. πυρσός.`

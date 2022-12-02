@@ -1,0 +1,1 @@
+lar[11740]=`<b>ἁπερ·εί</b>, <i>conj</i>. comme si, comme, SOPH. <i>El. 189</i>.<p><b>Étym</b>. ἅπερ, <i>pl. neutre de</i> ὅσπερ <i>et</i> εἰ ; <i>cf</i>. ὡσπερεί.`

@@ -1,0 +1,1 @@
+lar[5129]=`<b>έως (ὁ)</b> <font color="purple">[ᾰῐ]</font> jeune renard, AR. <i>Pax 1067</i> ; EL. <i>N.A. 7, 47</i>.<p><b>Étym</b>. ἀλωπεκίς.`

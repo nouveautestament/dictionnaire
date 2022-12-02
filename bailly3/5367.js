@@ -1,0 +1,1 @@
+lar[5367]=`<font color="purple">[ᾰδ]</font> <i>adv</i>., tour à tour, CALL. <i>Dian. 61</i>.<p><b>Étym</b>. ἀμβολή.`

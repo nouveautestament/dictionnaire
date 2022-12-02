@@ -1,0 +1,1 @@
+lar[70949]=`<b>ὀλεσι·σιαλο·κάλαμος, ου</b>, <i>adj. m</i>. qui détruit la salive, <i>càd</i>. qui assèche la bouche, PRATIN. (ATH. <i>617e, conj. p</i>. ὀλεσιαυλοκάλαμος).<p><b>Étym</b>. ὄλλυμι, σίαλον, κάλαμος.`

@@ -1,0 +1,1 @@
+lar[89537]=`<b>σατυριάω-ῶ</b> <font color="purple">[ᾰῠ]</font> être atteint de priapisme, ARSTT. <i>G.A. 4, 3, 22</i> ; RUF. <i>p. 156 Matthäi</i>.<p><b>Étym</b>. σάτυρος.`

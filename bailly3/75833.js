@@ -1,0 +1,1 @@
+lar[75833]=`<b>ῶν (οἱ)</b> les Paralates, <i>pple scythe,</i> HDT. <i>4, 6</i>.`

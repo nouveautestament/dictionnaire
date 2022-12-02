@@ -1,0 +1,1 @@
+lar[5672]=`<b>ης, ες</b>, de sable, sablonneux, ARSTT. <i>H.A. 5, 15, 14 ; 6, 15, 4</i> ; POL. <i>12, 3, 2, etc</i>.<p><b>Étym</b>. ἄ. 1, -ωδης.`

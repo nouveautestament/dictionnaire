@@ -1,0 +1,1 @@
+lar[38905]=`<b>ἐπι·ρροιβδέω-ῶ :<br>      1 <i>intr.</i></b> croasser, pousser un cri rauque, TH. <i>Sign. 1, 16</i>.<br><b>      2</b> faire tournoyer dans, <i>rég. ind. au dat</i>. Q. SM. <i>8, 322</i>.<p><b>Étym</b>. ἐπί, ῥοιβδέω.`

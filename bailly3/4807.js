@@ -1,0 +1,1 @@
+lar[4807]=`<b>ἀλλο·ποιός, ός, όν</b>, qui fait plus d’une chose, PROCL. <i>Plat. Parm. 569</i>.<p><b>Étym</b>. ἄ. ποιέω.`

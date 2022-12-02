@@ -1,0 +1,1 @@
+lar[14783]=`<b>ονος (ὁ)</b> <font color="purple">[ᾰῑ]</font> Arion :<br><b>      1</b> <i>poète lyrique de Méthymne,</i> HDT. <i>1, 23, etc.</i> ; LUC. <i>V.H. 2, 15, etc.</i><br><b>      2</b> <i>cheval d’Adrastos,</i> Q. SM. <i>4, 569</i>.<p>➳ <i>Gén</i>. -ωνος, JOS. <i>A.J. 12, 4, 7</i> ; D. CHR. <i>Or. 19, 260 et 37, 455, etc</i>.`

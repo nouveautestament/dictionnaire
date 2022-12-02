@@ -1,0 +1,1 @@
+lar[16115]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> instabilité, CHRYS.<p><b>Étym</b>. ἀσταθής.`

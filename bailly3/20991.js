@@ -1,0 +1,1 @@
+lar[20991]=`<b>άδος :<br>      1</b> <i>adj. f</i>. de Byzance, ANTH. <i>15, 15</i> ; A. PL. <i>4, 56, 72</i> ; CHRIST. <i>Ecphr. 2, 405</i>.<br><b>      2</b> ἡ β. originaire <i>ou</i> habitante de Byzance, A. PL. <i>4, 284</i>.<p><b>Étym</b>. βυζάντιον.`

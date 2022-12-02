@@ -1,0 +1,1 @@
+lar[62016]=`<b>Λυσι·δίκη, ης (ἡ)</b> <font color="purple">[ῡῐῐ]</font> Lysidikè, <i>fille de Pélops,</i> PLUT. <i>Thes. 7, etc</i>.<p>➳ <i>Dor</i>. Λυσιδίκα, ANTH. <i>7, 424, 474</i>.<p><b>Étym</b>. λύω, δίκη.`

@@ -1,0 +1,1 @@
+lar[73502]=`<b>ῶν (οἱ)</b> = les habitants de Veies, PLUT. <i>Cam. 2</i>.<p><b>Étym</b>. Οὐήϊοι.`

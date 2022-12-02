@@ -1,0 +1,1 @@
+lar[1877]=`<b>ἄ·ζυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> non soumis au joug, non accouplé, <i>d’où</i> non uni par mariage, vierge, EUR. <i>Tr. 536, etc. ; avec un gén</i>. ἄζ. γάμων, EUR. <i>I.A. 805, etc</i>. non soumis au joug du mariage ; <i>d’où</i> sans compagnon, isolé, ARSTT. <i>Pol. 1, 2, 10</i>.<p><b>Étym</b>. ἀ, ζεύγνυμι.`

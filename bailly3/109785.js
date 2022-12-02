@@ -1,0 +1,1 @@
+lar[109785]=`<b>εως (ἡ)</b> action d’étriller, XÉN. <i>Eq. 5, 3 et 10</i>.<p><b>Étym</b>. ψήχω.`

@@ -1,0 +1,1 @@
+lar[95784]=`<i>adv</i>., d’une manière serrée, ARSTT. <i>Rhet. 2, 24, 2</i>.<p><b>Étym</b>. συστρέφω.`

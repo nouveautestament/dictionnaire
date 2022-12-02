@@ -1,0 +1,1 @@
+lar[109332]=`<font color="purple">[ᾰ]</font> colorer, teindre, ALEX. (ATH. <i>170c</i>) ; ARSTT. <i>P.A. 3, 3, 9 ; G.A. 2, 7, 18</i> ; TH. <i>Od. 31 ; au pass</i>. SOPH. <i>fr. 9 ; avec un acc</i>. ARSTT. <i>Meteor. 1, 5, 2, etc.</i> ; HPC. <i>Coac. 178</i>.<p><b>Étym</b>. χρῶμα.`

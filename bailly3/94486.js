@@ -1,0 +1,1 @@
+lar[94486]=`<b>εως (ἡ) :<br>      1</b> mélange, PROCL. <i>Plat. Parm. 598</i>.<br><b>      2</b> cohésion, P. ÉG. <i>122 Briau</i>.<p><b>Étym</b>. συμφύρω.`

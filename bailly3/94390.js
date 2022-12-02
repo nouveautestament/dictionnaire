@@ -1,0 +1,1 @@
+lar[94390]=`<b>συμ·πτύσσω</b>, plier ensemble, <i>d’où</i> fermer, enfermer, serrer, SOPH. <i>Tr. 691</i>.`

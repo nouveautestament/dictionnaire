@@ -1,0 +1,1 @@
+lar[12675]=`<b>ος, ον</b>, repoussé par un choc, NIC. <i>Th. 270</i>.<p><b>Étym</b>. ἀποκρούω.`

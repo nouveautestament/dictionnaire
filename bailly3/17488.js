@@ -1,0 +1,1 @@
+lar[17488]=`<b>αὐτο·θελεί</b>, <i>adv</i>., de sa propre volonté, volontairement, ANTH. <i>7, 470</i>.<p><b>Étym</b>. αὐτοθελής.`

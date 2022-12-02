@@ -1,0 +1,1 @@
+lar[67422]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> initiation aux mystères, PLUT. <i>Alc. 34</i>.<p><b>Étym</b>. μυσταγωγός.`

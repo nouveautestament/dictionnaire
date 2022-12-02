@@ -1,0 +1,1 @@
+lar[103233]=`<b>ης, ες</b> <font color="purple">[ῠγ]</font> semblable à une bête de somme, qui n’a pas de volonté, docile, AR. <i>fr. 696</i>.<p><b>Étym</b>. ὑποζύγιον, -ωδης.`

@@ -1,0 +1,1 @@
+lar[104907]=`<b>όεσσα, όεν</b> <font color="purple">[μᾰ]</font><br><b>      1</b> vénéneux, NIC. <i>Al. 4</i> ; MOSCH. <i>4, 30</i> ; MAN. <i>3, 71</i> ; NONN. <i>D. 45, 223</i>.<br><b>      2</b> <i>subst</i>. sorcier, NONN. <i>D. 21, 142</i>.<p><b>Étym</b>. φάρμακον.`

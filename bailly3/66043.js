@@ -1,0 +1,1 @@
+lar[66043]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font><br><b>      1</b> aversion pour la parole, HIÉROCL. <i>C. aur. p. 446 Mullach</i>.<br><b>      2</b> aversion pour la science, PLAT. <i>Phæd. 89a ;</i> PLUT. <i>M. 864d</i>.<p><b>Étym</b>. μισόλογος.`

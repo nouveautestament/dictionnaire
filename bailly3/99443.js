@@ -1,0 +1,1 @@
+lar[99443]=`<b>ατος (τὸ) :<br>      1</b> morceau coupé, section, part, PLAT. <i>Pol. 267b, Conv. 191d ; t. de math</i>. segment de cercle, ARSTT. <i>Metaph. 6, 10, 10</i>.<br><b>      2</b> coupure, incision, PLAT. <i>Gorg. 476c</i>.<p><b>Étym</b>. τέμνω.`

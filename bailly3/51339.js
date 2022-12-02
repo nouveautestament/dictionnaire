@@ -1,0 +1,1 @@
+lar[51339]=`<b>α, ον</b> <font color="purple">[ᾰῠ]</font> de Calydon, CALL. <i>Dian. 218</i> ; οἱ Καλυδώνιοι, XÉN. <i>Hell. 4, 6, 1,</i> les habitants de Calydon.<p><b>Étym</b>. Καλυδών.`

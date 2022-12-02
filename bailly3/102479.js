@@ -1,0 +1,1 @@
+lar[102479]=`<b>ὑπερ·εύωνος, ος, ον</b>, d’un excessif bon marché, EL. <i>V.H. 14, 44</i>.<p><b>Étym</b>. ὑ. εὔωνος.`

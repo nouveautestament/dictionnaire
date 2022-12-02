@@ -1,0 +1,1 @@
+lar[104750]=`<b>η, ον</b>, de Falerne : Φ. οἶνος, PLUT. <i>Ant. 59, M. 125d ;</i> ATH. <i>26c, etc</i>. vin de Falerne.<p><b>Étym</b>. <i>lat</i>. Falernus.`

@@ -1,0 +1,1 @@
+lar[20545]=`<b>ου (ὁ)</b> Boutélinos <i>ou</i> Butelinus, <i>h</i>. ANTH. <i>App. 312</i>.`

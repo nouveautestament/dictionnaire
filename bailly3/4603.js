@@ -1,0 +1,1 @@
+lar[4603]=`<b>ἁλί·φλοιος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> écorce de mer, <i>sorte de chêne,</i> TH. <i>H.P. 3, 8, 5</i>.<p><b>Étym</b>. ἅ. φλοιός.`

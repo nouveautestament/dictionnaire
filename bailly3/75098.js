@@ -1,0 +1,1 @@
+lar[75098]=`<b>παν·όδυρτος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait lamentable, ANTH. <i>7, 476</i> ; SPT. <i>3Macc. 4, 2</i>.<p><b>Étym</b>. π. ὀδύρομαι.`

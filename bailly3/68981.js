@@ -1,0 +1,1 @@
+lar[68981]=`<b>ας (ἡ) :<br>      1</b> traitement d’une maladie, PLUT. <i>Lyc. 10</i>.<br><b>      2</b> maladie, PLUT. <i>M. 110d ; particul</i>. matière (pus, <i>etc</i>.) d’un mal, SOPH. <i>Ph. 39</i>.<p><b>Étym</b>. νοσηλεύω.`

@@ -1,0 +1,1 @@
+lar[49973]=`<i>ou</i> <b>Ἴτης (ἡ)</b> Itè <i>ou</i> Itès, <i>nourrice de Zeus,</i> PLUT. <i>Qu. conv. 3, 9, 2</i>.`

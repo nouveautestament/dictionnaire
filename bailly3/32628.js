@@ -1,0 +1,1 @@
+lar[32628]=`<b>ου (ὁ)</b> <i>litt</i>. le critique, <i>jeu de mots sur le nom d’Alexinos,</i> DL. <i>2, 109</i>.<p><b>Étym</b>. ἐλέγχω.`

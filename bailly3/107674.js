@@ -1,0 +1,1 @@
+lar[107674]=`<b>χαλκό·νωτος, ος, ον</b>, au dos d’airain, <i>ép. d’un bouclier,</i> EUR. <i>Tr. 1136, 1193</i>.<p><b>Étym</b>. χ. νῶτος.`

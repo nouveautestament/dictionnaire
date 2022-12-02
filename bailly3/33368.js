@@ -1,0 +1,1 @@
+lar[33368]=`<b>Ἐμπεδό·τιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Empédotimos, <i>h</i>. ANTH. <i>8, 29</i>.<p><b>Étym</b>. ἔμπεδος, τιμή.`

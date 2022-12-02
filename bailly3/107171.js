@@ -1,0 +1,1 @@
+lar[107171]=`<b>ης, ες :<br>      1</b> semblable à une feuille <i>ou</i> à des feuilles, TH. <i>H.P. 6, 3, 1</i>.<br><b>      2</b> couvert de feuilles, TH. <i>H.P. 7, 8, 3</i>.<p><b>Étym</b>. φύλλον, -ωδης.`

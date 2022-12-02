@@ -1,0 +1,1 @@
+lar[7560]=`<b>ἀνα·ρριπίζω</b> <font color="purple">[ῑπ]</font> agiter l’air au-dessus, <i>d’où</i> :<br><b>      1</b> ventiler, ANTIPH. (ATH. <i>257f</i>).<br><b>      2</b> rallumer, ranimer, ARSTT. <i>fr. 224</i> ; DH. <i>1, 59 ; fig</i>. DH. <i>7, 15</i>.<p><b>Étym</b>. ἀνά, ῥιπίζω.`

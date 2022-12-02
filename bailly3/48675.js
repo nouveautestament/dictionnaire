@@ -1,0 +1,1 @@
+lar[48675]=`<font color="purple">[ῑ]</font> <i>interj.</i> :<br><b>      1</b> <i>cri de joie en l’honneur d’Apollon</i> : ἰὴ παιών, AR. <i>Pax 453,</i> ἰὴ παιῆον, CALL. <i>H. Ap. 21, 97, 103,</i> Iè ! Pæôn ; ἰὴ ἰὴ ἱή, AR. <i>Pax 195</i>.<br><b>      2</b> <i>cri de douleur,</i> ESCHL. <i>Pers. 1003, etc</i>.<p>➳ <font color="purple">[ῐ]</font> AR. <i>Pax 195</i>.`

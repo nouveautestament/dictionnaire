@@ -1,0 +1,1 @@
+lar[22227]=`<b>γλωσσο·κάτοχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui maintient la langue ; τὸ γλ. P. ÉG. <i>156,</i> instrument de chirurgie pour maintenir la langue.<p><b>Étym</b>. γλῶσσα, κατέχω.`

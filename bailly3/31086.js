@@ -1,0 +1,1 @@
+lar[31086]=`<b>ἐκ·βιάομαι-ῶμαι</b> (<i>prés. 3 sg</i>. -ᾶται) contraindre, forcer, HPC. <i>Art. 7, 52</i>.`

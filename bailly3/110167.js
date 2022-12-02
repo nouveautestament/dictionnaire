@@ -1,0 +1,1 @@
+lar[110167]=`<b>ὠκυ·βόλος, ος, ον</b> <font color="purple">[ῠ]</font> qui s’élance et frappe promptement, <i>en parl. d’un arc,</i> SOPH. <i>Ph. 710 ; de traits,</i> ANTH. <i>6, 118 ; de la main,</i> A. PL. <i>195 ; d’un aigle,</i> ARSTT. <i>H.A. 9, 32, 2</i>.<p><b>Étym</b>. ὠκύς, βάλλω.`

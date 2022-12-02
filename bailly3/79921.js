@@ -1,0 +1,1 @@
+lar[79921]=`<b>(ἡ)</b> Petta, <i>f</i>. ARSTT. (ATH. <i>576b</i>).`

@@ -1,0 +1,1 @@
+lar[109251]=`<b>χρυσ·όροφος, ος, ον</b> <font color="purple">[ῡ]</font> au toit d’or, PLUT. <i>M. 329d ;</i> LUC. <i>Cyn. 9</i>.<p><b>Étym</b>. χρ. ὄροφος.`

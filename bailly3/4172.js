@@ -1,0 +1,1 @@
+lar[4172]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> celui qui frottait d’huile, <i>au gymnase ou au bain, d’où</i> maître de gymnase, ARSTT. <i>Nic. 2, 6, 7</i> ; POL. <i>27, 6, 1</i> ; ARR. <i>Epict. 3, 10, 1</i>.<br><b>      2</b> <i>fig</i>. maître, instituteur : τῶν πολιτικῶν, PLUT. <i>Per. 4,</i> qui façonne à la vie publique.<p><b>Étym</b>. ἀλείφω.`

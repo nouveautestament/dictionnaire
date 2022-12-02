@@ -1,0 +1,1 @@
+lar[60957]=`<b>ή, όν</b> <font color="purple">[λῐ]</font> de Libye, ESCHL. <i>Eum. 292, etc.</i> ; EUR. (DS. <i>20, 41</i>) ; τὸ λιβυστικόν, A. TR. <i>7, 112</i> ; GAL. <i>13, 203, 970,</i> livèche, <i>plante</i>.<p><b>Étym</b>. Λιβύη.`

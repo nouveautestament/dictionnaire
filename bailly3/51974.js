@@ -1,0 +1,1 @@
+lar[51974]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰῡ]</font> mets préparé avec un assaisonnement délicat, BAS. <i>1, 124</i>.<p><b>Étym</b>. καρυκεύω.`

@@ -1,0 +1,1 @@
+lar[18782]=`<b>βαθύ·πελμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à l’épaisse semelle, ANTH. <i>7, 413</i>.<p><b>Étym</b>. β. πέλμα.`

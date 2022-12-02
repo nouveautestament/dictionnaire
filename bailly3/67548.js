@@ -1,0 +1,1 @@
+lar[67548]=`<b>μωρο·πόνηρος, ος, ον</b>, sottement méchant, POLÉM. <i>Physiogn. p. 294</i>.<p><b>Étym</b>. μωρός, πονηρός.`

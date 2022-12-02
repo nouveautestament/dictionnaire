@@ -1,0 +1,1 @@
+lar[11959]=`<b>ἀπιθέω-ῶ</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> ne pas ajouter foi, <i>touj. accompagné d’une nég</i>. IL. <i>24, 300, etc.</i> ; οὐδ' ἀπίθησε, OD. <i>5, 43,</i> et il ne fut pas incrédule ; τινὸς ἀ. HH. <i>Cer. 448,</i> ne pas croire à qqe ch.<br><b>      2</b> ne pas obéir : τινι, IL. <i>1, 220,</i> à qqn.<p><b>Étym</b>. ἀπιθής.`

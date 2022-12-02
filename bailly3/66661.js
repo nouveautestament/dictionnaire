@@ -1,0 +1,1 @@
+lar[66661]=`<b>μον·ούατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui n’a qu’une anse (<i>propr</i>. une oreille) ANTH. <i>5, 135</i>.<p><b>Étym</b>. μ. οὖς ; <i>cf</i>. δίωτος.`

@@ -1,0 +1,1 @@
+lar[10814]=`<i>3 sg. ind. prés. ou pl.q.pf. de</i> ἀνώγω.<p><b>Étym</b>. <i>v</i>. ἀνώγω <i>fin</i>.`

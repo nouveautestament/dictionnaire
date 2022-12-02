@@ -1,0 +1,1 @@
+lar[39997]=`<b>ἑπτα·μόριον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> la septième partie, PLUT. <i>Rom. 24</i>.<p><b>Étym</b>. ἑ. μόριον.`

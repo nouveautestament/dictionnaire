@@ -1,0 +1,1 @@
+lar[31018]=`<b>ων (αἱ)</b> <font color="purple">[ᾰ]</font> STR. <i>618, ou</i> Ἑκατὸν νῆσοι, ων (αἱ) HDT. <i>1, 151,</i> les Cent îles (<i>auj</i>. Moskhonísia <i>ou</i> Ayvalık Adaları) <i>groupe d’îles entre Lesbos et l’Éolide</i>.<p><b>Étym</b>. ἑ. νῆσος.`

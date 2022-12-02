@@ -1,0 +1,1 @@
+lar[96730]=`<b>συ·σφίγγω</b>, étreindre <i>ou</i> resserrer ensemble, A. PL. <i>199, 1 ; au pass</i>. A. APHR. <i>Probl. 1, 26 ; fig</i>. RHÉT. <i>3, 536 W. ; p. suite,</i> condenser, ARSTT. <i>Plant. 2, 3, 10</i> ; ATH. <i>41b</i>.`

@@ -1,0 +1,1 @@
+lar[94690]=`<b>συν·αναγιγνώσκω</b> <i>ou</i> <b>συν·αναγινώσκω</b>, lire avec, <i>dat</i>. PLUT. <i>M. 97a ; abs</i>. PLUT. <i>M. 180d</i>.`

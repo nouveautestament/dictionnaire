@@ -1,0 +1,1 @@
+lar[90333]=`<b>ου (ὁ)</b> <font color="purple">[σῐμ]</font> Simoeisios, <i>litt</i>. « le riverain du Simoïs », <i>Troyen,</i> IL. <i>4, 474</i>.<p><b>Étym</b>. <i>v</i>. Σιμοείσιος.`

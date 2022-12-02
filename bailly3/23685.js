@@ -1,0 +1,1 @@
+lar[23685]=`<b>δεκα·πέντε</b>, <i>indécl</i>. = πεντεκαίδεκα, quinze, SPT. <i>Ex. 27, 15 ; 1 Macc. 10, 40</i> ; POL. <i>3, 56, 3</i>.<p>➳ <i>Écrit en deux mots dans deux inscr. att. du commenc. du 4<sup>e</sup> siècle av. J.-C. ; v. Meisterh. p. 126, 12</i>.`

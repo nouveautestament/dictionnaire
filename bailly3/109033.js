@@ -1,0 +1,1 @@
+lar[109033]=`<b>χριστο·κῆρυξ, υκος (ὁ)</b> <font color="purple">[ῡκ]</font> qui annonce le Christ, ANTH. <i>1, 106, 17</i>.`

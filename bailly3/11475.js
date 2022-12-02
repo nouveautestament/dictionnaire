@@ -1,0 +1,1 @@
+lar[11475]=`<b>ἀπ·αυλόσυνος, ος, ον</b> <font color="purple">[ῠ]</font> qui s’éloigne de sa demeure, ANTH. <i>6, 221</i>.`

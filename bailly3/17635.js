@@ -1,0 +1,1 @@
+lar[17635]=`<b>αὐτο·πήμων, ων, ον</b>, <i>gén</i>. -ονος, qui souffre de ses propres maux, ESCHL. <i>Sept. 916</i>.<p><b>Étym</b>. αὐ. πῆμα.`

@@ -1,0 +1,1 @@
+lar[16310]=`<b>ἀστρο·βολέω-ῶ</b>, <i>f</i>. ήσω, exposer à une insolation, PORPH. <i>V. Plot. 10 ; au pass</i>. être frappé d’insolation, TH. <i>H.P. 4, 14, 2, etc</i>.<p><b>Étym</b>. ἄστρον, -βόλος, <i>de</i> βάλλω.`

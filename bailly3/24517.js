@@ -1,0 +1,1 @@
+lar[24517]=`<b>δια·γυμνάζω</b> (<i>seul. inf. ao</i>. -άσαι) exercer continuellement : τὸ σῶμα, POLYEN <i>6, 1</i>, le corps.<br><b><i>Moy.</i></b> s’exercer continuellement, GAL.`

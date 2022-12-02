@@ -1,0 +1,1 @@
+lar[27267]=`<b>δι·ωβολία, ας (ἡ)</b> don de deux oboles aux citoyens d’Athènes qui assistaient à l’assemblée du peuple, pour les indemniser du temps enlevé à leur travail, ARSTT. <i>Pol. 2, 7, 19</i>.<p><b>Étym</b>. δίς, ὀβολός.`

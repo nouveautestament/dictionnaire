@@ -1,0 +1,1 @@
+lar[67512]=`<b>μώλ·ωψ, ωπος (ὁ)</b> marque de coups, meurtrissure, PLUT. <i>M. 46d ; d’ord. au plur</i>. HYPÉR. (POLL. <i>3, 79</i>) ; ARSTT. <i>Probl. 9, 1</i> ; PLUT. <i>M. 634c, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

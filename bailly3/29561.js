@@ -1,0 +1,1 @@
+lar[29561]=`<b>ἐγ·κατασβέννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>f</i>. -σβέσω)</font> éteindre dans, <i>dat</i>. PLUT. <i>M. 975c</i> (<i>pf. pass. 3 sg</i>. -κατέσβεσται) ; <i>987d</i> (<i>ao. pass. sbj. 3 sg</i>. -κατασβεσθῇ).<p><b>Étym</b>. ἐν, κ.`

@@ -1,0 +1,1 @@
+lar[7789]=`<b>ἀνα·τριαινόω-ῶ</b>, renverser d’un coup de trident, <i>d’où</i> bouleverser, AMPHIS (ATH. <i>175b</i>).`

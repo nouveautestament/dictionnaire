@@ -1,0 +1,1 @@
+lar[95576]=`<b>συν·επασκέω-ῶ</b>, exercer à son tour <i>ou</i> également contre qqn, ARSTD. <i>t. 1, 452</i>.`

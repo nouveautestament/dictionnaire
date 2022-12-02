@@ -1,0 +1,1 @@
+lar[104063]=`<font color="purple">[τῠ]</font> <i>adv</i>., en forme d’ébauche, sommairement, SEXT. <i>P. 2, 1</i>.`

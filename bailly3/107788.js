@@ -1,0 +1,1 @@
+lar[107788]=`<b>χαμαί·πιτυς, υος (ἡ)</b> <font color="purple">[ᾰῐ]</font> ive <i>ou</i> ivette, <i>plante,</i> NIC. <i>Al. 56 (Ajuga iva</i> L.) DIOSC. <i>3, 175, (et Ajuga chia</i> L.) DIOSC. <i>3, 176</i> ; PLIN. <i>H.N. 24, 20</i>.<p><b>Étym</b>. χ. πίτυς.`

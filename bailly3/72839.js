@@ -1,0 +1,1 @@
+lar[72839]=`<b>ης (ἡ)</b> enceinte, clôture, prison, EUR. <i>Bacch. 611</i>.<p>➳ <i>Dor</i>. -άνα, ESCHL. <i>Sept. 338</i>.<p><b>Étym</b>. ἕρκος.`

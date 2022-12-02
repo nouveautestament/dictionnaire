@@ -1,0 +1,1 @@
+lar[36918]=`<b>ἐπ·εγκλίνω</b> <font color="purple">[ῑ]</font> incliner vers, tourner vers, <i>avec</i> ἐς <i>et l’acc</i>. GAL. <i>4, 38</i>.`

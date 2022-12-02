@@ -1,0 +1,1 @@
+lar[39060]=`<b>ᾶς (ἡ)</b> ensemencement fait après un autre, nouvel ensemencement, TH. <i>C.P. 2, 17, 10</i>.<p><b>Étym</b>. ἐπισπείρω.`

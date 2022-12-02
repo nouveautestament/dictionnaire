@@ -1,0 +1,1 @@
+lar[100893]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> sensuel, CLÉM. <i>Pæd. 2, 10, 110</i>.<p>•<i> Cp</i>. -ώτερος, CLÉM. <i>Pæd. 3, 11, 56 et 73</i>.<p><b>Étym</b>. τρυφάω.`

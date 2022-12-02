@@ -1,0 +1,1 @@
+lar[4942]=`<b>ἁλό·τριψ, ιβος (ὁ)</b> <font color="purple">[ῐβ]</font> pilon pour le sel, ANTH. <i>6, 306</i>.<p><b>Étym</b>. ἅ. τρίβω.`

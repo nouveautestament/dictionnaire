@@ -1,0 +1,1 @@
+lar[90180]=`<b>σιδηρό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> au cœur de fer, ESCHL. <i>Pr. 242, etc</i>.<p><b>Étym</b>. σ. φρήν.`

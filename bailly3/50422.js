@@ -1,0 +1,1 @@
+lar[50422]=`<b>καθ·ικετεύω</b> <font color="purple">[ῐ]</font> supplier : τινί, HDT. <i>6, 68,</i> qqn ; demander en suppliant : τί τινος, EUR. <i>Hel. 1024</i> ; τινά τι, HLD. <i>6, 14,</i> qqe ch. à qqn ; τινά <i>avec l’inf</i>. PLUT. <i>Cato mi. 32,</i> supplier qqn de.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Or. 324</i>.<p>➳ <i>Ion</i>. κατικετεύω, HDT. <i>6, 68</i>.`

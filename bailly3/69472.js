@@ -1,0 +1,1 @@
+lar[69472]=`<b>ξενο·κρατέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> être sous la domination de troupes étrangères, EN. TACT. <i>Pol. 12</i>.<p><b>Étym</b>. ξένος, κρατέω.`

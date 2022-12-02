@@ -1,0 +1,1 @@
+lar[78106]=`<b>πεντέ·πους</b>, <i>mieux que</i> <b>πεντά·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, de cinq pieds, PLAT. <i>Theæt. 147d</i>.<p>➳ <i>Dans les inscr. att</i>. πεντέπους <i>et</i> πεντάπους, CIA. <i>1, 322a, 21, 26, etc</i>.<p><b>Étym</b>. <i>473 av. J.-C. ; v. Meisterh. p. 125, 3, note 1117</i>.`

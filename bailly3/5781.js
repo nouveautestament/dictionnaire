@@ -1,0 +1,1 @@
+lar[5781]=`<i>adv</i>., sans fatigue, BABR. <i>9, 2</i>.`

@@ -1,0 +1,1 @@
+lar[93087]=`<b>ας (ἡ)</b> Stymphæa, <i>v. d’Épire,</i> PLUT. <i>Pyrrh. 6</i>.`

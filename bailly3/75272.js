@@ -1,0 +1,1 @@
+lar[75272]=`<b>παντό·μωρος, ος, ον</b>, tout à fait fou, POLÉM. <i>Physiogn. 1, 11, p. 250</i>.<p><b>Étym</b>. π. μωρός.`

@@ -1,0 +1,1 @@
+lar[5483]=`<b>ἀ·μετάβολος, ος, ον :<br>      1</b> <i>c</i>. ἀμετάβλητος DH. <i>1, 83</i> ; PLUT. <i>Mar. 42, M. 437d.</i><br><b>      2</b> qui ne bouge pas, <i>en parl. des liquides</i> λ, μ, ν, ρ, <i>qui restent au futur dans les verbes comme</i> ἀγγέλλω, νέμω, μένω, σπείρω, D. THR. <i>622, 6</i> ; DRAC. <i>5, 23, etc</i>.<p><b>Étym</b>. ἀ, μεταβολή.`

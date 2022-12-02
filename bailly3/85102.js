@@ -1,0 +1,1 @@
+lar[85102]=`<b>προσ·αΐσσω</b> <font color="darkgreen">(<i>f</i>. -αΐξω, <i>ao</i>. προσῇξα, <i>etc</i>.)</font> <font color="purple">[ᾱ]</font> s’élancer vers, se jeter sur, OD. <i>22, 337, 342, 365 ; avec le dat</i>. ESCHL. <i>Pr. 145</i>.`

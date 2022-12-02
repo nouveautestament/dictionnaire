@@ -1,0 +1,1 @@
+lar[45445]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., à moitié mal, AR. <i>Th. 479</i>.`

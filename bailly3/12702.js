@@ -1,0 +1,1 @@
+lar[12702]=`<b>εως (ἡ)</b> enfantement, PLUT. <i>M. 907d, 965e ;</i> DL. <i>2, 2</i>.<p><b>Étym</b>. ἀποκυέω.`

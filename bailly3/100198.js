@@ -1,0 +1,1 @@
+lar[100198]=`être âgé de trois ans, SPT. <i>1Reg. 1, 24</i>.<p><b>Étym</b>. τριετής.`

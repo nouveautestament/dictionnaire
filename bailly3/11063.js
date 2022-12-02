@@ -1,0 +1,1 @@
+lar[11063]=`<b>ῆρος (ὁ)</b> qui vient au secours de, défenseur, IL. <i>15, 254, etc.</i> ; OD. <i>4, 165</i> ; A.RH. <i>1, 471</i>.<p><b>Étym</b>. ἀοσσέω.`

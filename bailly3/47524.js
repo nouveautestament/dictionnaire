@@ -1,0 +1,1 @@
+lar[47524]=`<b>ου (τὸ)</b> Thourion :<br><b>      1</b> <i>c</i>. Θούριοι, ARSTT. <i>Mir. 161</i>.<br><b>      2</b> <i>c</i>. Θύριον ; POL. <i>17, 10 ; 28, 5</i>.<br><i>mt. près de Chéronée,</i> PLUT. <i>Syll. 17, 18</i>.`

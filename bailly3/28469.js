@@ -1,0 +1,1 @@
+lar[28469]=`<b>δυσηκοέω-οῶ</b> <font color="purple">[ῠ]</font> avoir l’ouïe dure, ANTYLL. (ORIB. <i>2, 411 B.-Dar</i>.) A. TR. <i>3, 56</i> ; P. ÉG. <i>79, 7</i>.<p><b>Étym</b>. δυσήκοος.`

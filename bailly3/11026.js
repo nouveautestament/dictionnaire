@@ -1,0 +1,1 @@
+lar[11026]=`<b>ας</b>, <i>épq. et ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ᾱο]</font> Aonie, <i>autre n. de la Béotie,</i> CALL. <i>Del. 75</i> ; NONN. <i>D. 4, 337, etc</i>.`

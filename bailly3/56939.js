@@ -1,0 +1,1 @@
+lar[56939]=`<b>ῆς (ἡ) :<br>      1</b> incision, SOPH. <i>fr. 380</i>.<br><b>      2</b> choc, ARSTT. <i>Mund. 4, 7</i>.<br><b>      3</b> action de piler dans un mortier, A. APHR. <i>Probl. 1, 67</i>.<br><b>      4</b> meurtre, carnage, NT. <i>Hebr. 7, 1</i>.`

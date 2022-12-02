@@ -1,0 +1,1 @@
+lar[38329]=`<b>ἐπί·λογχος, ος, ον</b>, terminé par un fer de lance, EUR. <i>Hipp. 221</i>.<p><b>Étym</b>. ἐπί, λόγχη.`

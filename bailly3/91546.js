@@ -1,0 +1,1 @@
+lar[91546]=`broyer, AR. <i>Pax 1309</i> ; NIC. <i>Th. 530</i>.`

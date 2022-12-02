@@ -1,0 +1,1 @@
+lar[85066]=`<b>προ·σάββατος, ος, ον</b> <font color="purple">[βᾰ]</font> qui précède le sabbat, NONN. <i>Jo. 19, 14</i> ; τὸ προσάββατον, NT. <i>Marc. 15, 42,</i> la veille du sabbat.<p><b>Étym</b>. προ, σάββατον.`

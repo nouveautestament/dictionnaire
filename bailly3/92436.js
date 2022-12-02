@@ -1,0 +1,1 @@
+lar[92436]=`<b>στεριφόω-ῶ</b> <font color="purple">[ῐ]</font> affermir, consolider, PHIL. <i>2, 117</i>.<p><b>Étym</b>. στέριφος.`

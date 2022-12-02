@@ -1,0 +1,1 @@
+lar[47290]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat contre les bêtes féroces, <i>dans les jeux publics, à Rome,</i> STR. <i>131</i> ; PHIL. <i>1, 602</i>.<p><b>Étym</b>. θηριομάχος.`

@@ -1,0 +1,1 @@
+lar[81129]=`<b>πλουτο·δότης, ου</b>, <i>adj. m</i>. qui donne la richesse, qui enrichit, HÉS. <i>O. 125</i> ; LUC. <i>Tim. 21 etc</i>.<p><b>Étym</b>. πλοῦτος, δίδωμι.`

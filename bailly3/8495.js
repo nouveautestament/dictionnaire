@@ -1,0 +1,1 @@
+lar[8495]=`<b>ἀνεπιστρεπτέω-ῶ</b>, ne pas se détourner, <i>d’où</i> être indifférent, ARR. <i>Epict. 2, 5, 9</i> ; DL. <i>6, 91 ; 8, 17</i>.<p><b>Étym</b>. ἀνεπίστρεπτος.`

@@ -1,0 +1,1 @@
+lar[109067]=`<b>ου (ὁ)</b> le Temps, <i>divinité,</i> NONN. <i>D. 2, 422 ; 3, 197, etc.</i> ; ANTH. <i>7, 245, etc</i>.<p><b>Étym</b>. <i>v</i>. χρόνος.`

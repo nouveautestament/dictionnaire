@@ -1,0 +1,1 @@
+lar[49764]=`<b>ητος (ἡ)</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> égalité, EUR. <i>Ph. 536, etc. ; au plur</i>. PLAT. <i>Leg. 633b ;</i> ISOCR. <i>152a ; au duel,</i> PLAT. <i>Leg. 757b.</i><br><b>      2</b> équité, POL. <i>2, 38, 8</i>.<p><b>Étym</b>. ἴσος.`

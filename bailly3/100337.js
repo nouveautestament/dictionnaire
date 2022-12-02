@@ -1,0 +1,1 @@
+lar[100337]=`<b>τρί·παλτος, ος, ον</b> <font color="purple">[ῐ]</font> lancé <i>ou</i> qui frappe avec une force triple, <i>d’où</i> violent, ESCHL. <i>Sept. 985 dout</i>.<p><b>Étym</b>. τρ. πάλλω.`

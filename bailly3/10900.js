@@ -1,0 +1,1 @@
+lar[10900]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> petite hache, hachette, JOS. <i>B.J. 2, 8, 7</i>.<p><b>Étym</b>. ἀξίνη.`

@@ -1,0 +1,1 @@
+lar[49766]=`<b>ου (ὁ)</b> <font color="purple">[ῑ̆ῑῐ]</font> Isotimidès, <i>h</i>. AND. <i>2, 10</i>.<p><b>Étym</b>. ἰσότιμος.`

@@ -1,0 +1,1 @@
+lar[19923]=`<b>βλεφαρό·ξυστον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> instrument pour nettoyer les paupières, P. ÉG. <i>3, 73</i>.<p><b>Étym</b>. βλ. ξέω.`

@@ -1,0 +1,1 @@
+lar[73945]=`<b>ὀχλο·κόπος, ος, ον</b>, qui cherche à capter la faveur populaire, intrigant, ambitieux, POL. <i>3, 80, 3</i>.<p><b>Étym</b>. ὄχλος, κόπτω.`

@@ -1,0 +1,1 @@
+lar[20558]=`<b>βού·φαγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange les bœufs, ANTH. <i>6, 217 ; ép. d’Hèraklès,</i> LUC. <i>Am. 4</i> ; ANTH. <i>9, 59</i>.<p><b>Étym</b>. βοῦς, φαγεῖν.`

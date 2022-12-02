@@ -1,0 +1,1 @@
+lar[102589]=`<b>ὑπερ·κατηφής, ής, ές</b>, extrêmement abattu, LUC. <i>Am. 52 ; en parl. de choses,</i> en mauvaise situation, LUC. <i>Nec. 10</i>.`

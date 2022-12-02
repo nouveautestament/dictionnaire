@@ -1,0 +1,1 @@
+lar[108009]=`<b>ου (τὸ)</b> <font color="purple">[κᾰ]</font> <i>autre n. de la plante</i> ξάνθιον, DIOSC. <i>4, 138</i>.`

@@ -1,0 +1,1 @@
+lar[102755]=`<b>εως (ἡ)</b> action de sauter par-dessus, PLUT. <i>M. 371b</i>.<p><b>Étym</b>. ὑπερπηδάω.`

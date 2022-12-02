@@ -1,0 +1,1 @@
+lar[35250]=`<b>ἐξ·αγίζω</b> <font color="purple">[ᾰ]</font> chasser comme impur de, <i>gén</i>. ESCHL. <i>Ag. 641</i>.<p><b>Étym</b>. ἐξ, ἄγος.`

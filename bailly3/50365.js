@@ -1,0 +1,1 @@
+lar[50365]=`<b>καθ·ευρεσιλογέω-ῶ</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. εὑρεσιλογέω, POL. <i>Exc. Vat. p. 397</i>.`

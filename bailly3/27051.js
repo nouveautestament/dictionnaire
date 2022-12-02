@@ -1,0 +1,1 @@
+lar[27051]=`<b>δισσό·τοκος, ος, ον</b>, enfanté deux fois (Dionysos), NONN. <i>D. 1, 4</i>.<p><b>Étym</b>. δισσός, τίκτω.`

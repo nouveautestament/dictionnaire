@@ -1,0 +1,1 @@
+lar[77227]=`<b>ῶν (αἱ)</b> <font color="purple">[πᾰ]</font> Pasargades (<i>auj</i>. Mādar e Soleymān) <i>capitale de la Perse,</i> PLUT. <i>Artax. 3, etc</i>.`

@@ -1,0 +1,1 @@
+lar[17784]=`<b>αὐτο·χόλωτος, ος, ον</b>, qui s’irrite contre lui-même, ANTH. <i>7, 688</i>.<p><b>Étym</b>. αὐ. χολόω.`

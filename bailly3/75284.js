@@ -1,0 +1,1 @@
+lar[75284]=`<b>παντο·ρέκτης, ου</b>, <i>adj. m</i>. qui fait tout, entreprenant, ANACR. <i>10, 11</i> ; PORPH. <i>Abst. 1, 42, etc</i>.<p><b>Étym</b>. π. ῥέζω.`

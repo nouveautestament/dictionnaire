@@ -1,0 +1,1 @@
+lar[18489]=`<i>éol. c</i>. *ἄχω, être malheureux, ALC. <i>125, dout</i>.`

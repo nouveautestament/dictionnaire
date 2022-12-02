@@ -1,0 +1,1 @@
+lar[23672]=`<b>δεκα·μναῖος, α, ον</b>, <i>c</i>. δεκάμνοος, POL. <i>13, 2, 3</i> ; δ. πετροβόλος, PHIL. BYZ. baliste <i>ou</i> pierrier à boulet de dix mines = 4,363 kg.`

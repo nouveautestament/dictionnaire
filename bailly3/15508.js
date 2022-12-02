@@ -1,0 +1,1 @@
+lar[15508]=`<i>adv</i>., à la manière antique, PLAT. <i>Phædr. 267b ;</i> ESCHN. <i>26, 12</i>.`

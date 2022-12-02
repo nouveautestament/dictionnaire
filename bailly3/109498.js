@@ -1,0 +1,1 @@
+lar[109498]=`<b>ψαθυρόομαι-οῦμαι</b> <font color="purple">[ᾰῠ]</font> s’en aller en poussière, AQU. <i>Ps. 101, 3</i>.<p><b>Étym</b>. ψαθυρός.`

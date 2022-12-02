@@ -1,0 +1,1 @@
+lar[43831]=`<b>εὔ·χρως, ως, ων</b> (<i>seul. nom. et acc.) c</i>. εὔχροος, AR. <i>Eq. 1171, etc.</i> ; XÉN. <i>Œc. 10, 5</i> ; ARSTT. <i>P.A. 4, 2 ; en parl. de sons,</i> PLAT. <i>Leg. 655a</i>.`

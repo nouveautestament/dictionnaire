@@ -1,0 +1,1 @@
+lar[92244]=`<b>σταχυο·στέφανος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à la couronne d’épis, ANTH. <i>6, 104</i>.<p><b>Étym</b>. στ. στέφανος.`

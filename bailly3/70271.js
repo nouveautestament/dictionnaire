@@ -1,0 +1,1 @@
+lar[70271]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à une tumeur, œdémateux, GAL. <i>6, 418d</i>.<p><b>Étym</b>. οἴδημα, -ωδης.`

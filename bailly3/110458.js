@@ -1,0 +1,1 @@
+lar[110458]=`<b>οντος (ὁ)</b> Oromédon :<br><b>      1</b> <i>Cilicien,</i> HDT. <i>7, 98</i>.<br><b>      2</b> <i>mt. de Cos,</i> THCR. <i>Idyl. 7, 46</i>.`

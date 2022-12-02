@@ -1,0 +1,1 @@
+lar[24005]=`<b>ή, όν</b>, qu’on peut dominer <i>ou</i> gouverner, ARSTT. <i>Pol. 3, 11, 1 ; 7, 2, 15</i>.<p><b>Étym</b>. δεσπόζω.`

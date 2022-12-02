@@ -1,0 +1,1 @@
+lar[36674]=`<b>ἔπ·ανδρος, ος, ον</b>, qui convient à un homme, viril, DS. <i>4, 50</i> ; SEXT. <i>359, 710</i> ; τὸ ἔπανδρον, CORN. <i>106,</i> virilité.<p><b>Étym</b>. ἐπί, ἀνήρ.`

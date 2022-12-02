@@ -1,0 +1,1 @@
+lar[98268]=`<b>ος, ον</b>, qui habite <i>ou</i> possède une enceinte sacrée (bois <i>ou</i> temple) PD. <i>fr. 185</i>.<p><b>Étym</b>. τέμενος, ἔχω.`

@@ -1,0 +1,1 @@
+lar[61990]=`<b>λυρό·κτυπος, ος, ον</b> <font color="purple">[ῠῠ]</font><br><b>      1</b> qui fait résonner la lyre, NONN. <i>Jo. 7, 42</i>.<br><b>      2</b> qui résonne comme la lyre, LYC. <i>918</i>.<p><b>Étym</b>. λύρα, κτυπέω.`

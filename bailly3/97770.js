@@ -1,0 +1,1 @@
+lar[97770]=`<i>adv</i>., à la façon d’un taureau : βλέπειν, AR. <i>Ran. 804</i> ; ὑποβλέπειν, PLAT. <i>Phæd. 117b</i>, regarder comme un taureau, <i>càd</i>. de côté et en dessous.<p><b>Étym</b>. ταῦρος, -δον.`

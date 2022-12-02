@@ -1,0 +1,1 @@
+lar[75795]=`<font color="purple">[ᾰκ]</font> <i>vb. de</i> παρακούω MUSON. (STOB. <i>Fl. 79, 51</i>).`

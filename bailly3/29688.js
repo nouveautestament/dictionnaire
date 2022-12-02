@@ -1,0 +1,1 @@
+lar[29688]=`<b>ἐγ·κλύζω :<br>      1</b> laver : οἴνῳ, DS. <i>1, 91, etc</i>. avec du vin.<br><b>      2</b> administrer un lavement, DIOSC. <i>1, 186, etc. ; au pass</i>. être administré en lavement, DIOSC. <i>1, 101, etc. ; avec un acc. de pers</i>. traiter par des lavements, DIOSC. <i>4, 155</i>.<p><b>Étym</b>. ἐν, κλ.`

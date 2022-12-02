@@ -1,0 +1,1 @@
+lar[34081]=`<b>ἐν·αφάπτω</b>, suspendre dans, ARSTT. <i>Cæl. 3, 2, 17</i>.`

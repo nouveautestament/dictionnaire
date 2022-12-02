@@ -1,0 +1,1 @@
+lar[90959]=`<b>(ὁ)</b> <font color="purple">[ῑᾰῐ]</font> Skiraphidas, <i>Laconien,</i> THPP. (PLUT. <i>Lys. 17), etc</i>.`

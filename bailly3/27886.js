@@ -1,0 +1,1 @@
+lar[27886]=`<b>ή, όν</b>, que l’on cueille ; <i>fig</i>. τὸ δρεπτόν, TÉLÉCL. (HSCH.) <i>etc</i>. baiser.<p><b>Étym</b>. <i>vb. de</i> δρέπω.`

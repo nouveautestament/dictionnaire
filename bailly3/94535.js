@@ -1,0 +1,1 @@
+lar[94535]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> rassemblement, réunion, PORPH. (STOB. <i>Ecl. 1, 1036).</i><p><b>Étym</b>. συναγείρω.`

@@ -1,0 +1,1 @@
+lar[17289]=`<b>ου (ὁ)</b> <i>transcr. du n. d’h. rom</i>. Aurunculēius, POL.`

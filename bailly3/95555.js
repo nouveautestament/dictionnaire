@@ -1,0 +1,1 @@
+lar[95555]=`<b>συν·εορτάζω</b>, célébrer une fête avec, <i>dat</i>. PLUT. <i>M. 666d ;</i> DC. <i>59, 8 ; abs</i>. DS. <i>4, 4</i>.`

@@ -1,0 +1,1 @@
+lar[8231]=`<b>ἀν·εκθέρμαντος, ος, ον</b>, qu’on ne peut chauffer <i>ou</i> réchauffer, ORIB. (PHOT. <i>Bibl. p. 175, 40).</i><p><b>Étym</b>. ἀν-, ἐκθερμαίνω.`

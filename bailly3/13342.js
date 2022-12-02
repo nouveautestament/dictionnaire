@@ -1,0 +1,1 @@
+lar[13342]=`<b>ἀπο·σκορπίζω</b> <font color="darkgreen">(<i>ao</i>. ἀπεσκόρπισα)</font> disperser, SPT. <i>1Macc. 11, 55</i> ; GEOP. <i>20, 12, 1</i>.`

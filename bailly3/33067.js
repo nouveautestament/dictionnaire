@@ -1,0 +1,1 @@
+lar[33067]=`<b>ἐμ·βαθύνω</b> <font color="purple">[ῡ]</font><br><b>   I <i>tr.</i></b> rendre profond, creuser, ALCIPHR. <i>3, 13 ; fig</i>. PLUT. <i>M. 1128e.</i><br><b>   II <i>intr</i>.<br>      1</b> s’enfoncer dans, <i>d’où fig</i>. approfondir, <i>avec le dat</i>. PHIL. <i>1, 18</i>.<br><b>      2</b> couler bas, SPT. <i>Jer. 30, 7</i>.<p><b>Étym</b>. ἐν, β.`

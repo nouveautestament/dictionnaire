@@ -1,0 +1,1 @@
+lar[46518]=`<b>ους (ὁ)</b> Thektaménès, <i>h</i>. PLUT. <i>Apophth. lac. v°</i> Θεκταμένης.`

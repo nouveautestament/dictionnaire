@@ -1,0 +1,1 @@
+lar[20752]=`<b>ης (ἡ)</b> <i>litt</i>. Frémissante, Grondante, <i>n. d’une Amazone,</i> Q. SM. <i>1, 44, 247</i>.<p><b>Étym</b>. <i>part. prés. de</i> βρέμω.`

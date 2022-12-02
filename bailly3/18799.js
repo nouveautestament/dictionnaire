@@ -1,0 +1,1 @@
+lar[18799]=`<b>ας (ἡ)</b> <font color="purple">[ᾰθ]</font> profondeur de racine, TH. <i>H.P. 1, 7, 1</i>.<p><b>Étym</b>. βαθύρριζος.`

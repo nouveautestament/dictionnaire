@@ -1,0 +1,1 @@
+lar[84875]=`<b>ας (ἡ)</b> instruction préliminaire, PLAT. <i>Rsp. 536d ;</i> LUC. <i>Rh. præc. 14</i>.<p><b>Étym</b>. προπαιδεύω.`

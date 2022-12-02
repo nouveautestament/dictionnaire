@@ -1,0 +1,1 @@
+lar[93116]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>dim. de</i> στύραξ¹ THC. <i>2, 4</i>.`

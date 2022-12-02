@@ -1,0 +1,1 @@
+lar[62007]=`<b>Λυσ·αρέτη, ης (ἡ)</b> <font color="purple">[ῡᾰ]</font> Lysarétè, <i>f</i>. DÉM. <i>57, 20 et 21 Baiter-Sauppe</i>.<p><b>Étym</b>. λύω, ἀρετή.`

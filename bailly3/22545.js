@@ -1,0 +1,1 @@
+lar[22545]=`<b>ης, ες</b>, gémissant, plaintif, ARSTT. <i>H.A. 9, 12, 4</i> ; LUC. <i>Halc. 2</i>.<p>•<i> Sup</i>. -έστατος, PLAT. <i>Leg. 800d</i>.<p><b>Étym</b>. γόος, -ωδης.`

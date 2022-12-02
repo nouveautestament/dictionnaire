@@ -1,0 +1,1 @@
+lar[80743]=`<font color="purple">[ᾰῠ]</font><br><b>      1</b> faire du bruit en frappant l’eau avec la rame ; <i>fig</i>. parler d’un ton sec et bruyant, AR. <i>Eq. 830</i>.<br><b>      2</b> pousser un cri aigu, <i>en parl. de l’oie,</i> EUB. <i>3, 260 Meineke</i>.<p><b>Étym</b>. πλατύς.`

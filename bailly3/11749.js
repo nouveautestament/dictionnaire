@@ -1,0 +1,1 @@
+lar[11749]=`<b>ἀπ·ερητύω</b> <font color="darkgreen">(<i>impf. 3 sg. poét</i>. ἀπερήτυε)</font> arrêter, retenir, A.RH. <i>1, 772</i>.<p><b>Étym</b>. ἀπό, ἐρητύω.`

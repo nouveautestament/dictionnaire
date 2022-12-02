@@ -1,0 +1,1 @@
+lar[4908]=`<b>ἀ·λοίδορος, ος, ον</b>, qui n’injurie pas, ESCHL. <i>Ag. 412</i>.`

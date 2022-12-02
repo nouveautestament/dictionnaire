@@ -1,0 +1,1 @@
+lar[10387]=`<b>ἀντι·σκευάζομαι</b>, garnir de meubles contrairement à, XÉN. <i>Ages. 8, 6</i>.`

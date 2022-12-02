@@ -1,0 +1,1 @@
+lar[85466]=`<b>οῦ (ὁ)</b> action de s’approcher, NYSS.<p><b>Étym</b>. προσεγγίζω.`

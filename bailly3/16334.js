@@ -1,0 +1,1 @@
+lar[16334]=`<b>ατος (τὸ)</b> observation astronomique, TIMON (DL. <i>1, 34).</i><p><b>Étym</b>. ἀστρονομέω.`

@@ -1,0 +1,1 @@
+lar[83810]=`<b>εως (ἡ) :<br>      1</b> éruption, ARÉT. <i>Cur. m. acut. 1, 5</i>.<br><b>      2</b> proposition, GAL. <i>2, 24</i>.<p><b>Étym</b>. προβάλλω.`

@@ -1,0 +1,1 @@
+lar[44812]=`<i>adj. m. c</i>. ζωός, <i>seul. nomin</i>. IL. <i>5, 887 ; et acc</i>. ζών, IL. <i>16, 445 ; sel. Riemann</i> (Qua rei criticæ, <i>etc. p. 73) forme à restituer dans Xénophon</i>.`

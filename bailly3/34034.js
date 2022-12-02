@@ -1,0 +1,1 @@
+lar[34034]=`<b>ἐν·αρτύω</b>, préparer (des aliments) dans, GAL. <i>6, 398</i>.`

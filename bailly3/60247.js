@@ -1,0 +1,1 @@
+lar[60247]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> qui ressemble à de la purée de légumes, HPC. <i>1123b ;</i> TH. <i>H.P. 4, 8, 11</i>.<p><b>Étym</b>. λέκιθος, -ωδης.`

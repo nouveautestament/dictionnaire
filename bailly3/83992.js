@@ -1,0 +1,1 @@
+lar[83992]=`<b>προ·διυλίζω</b> <font color="purple">[ῡ]</font> filtrer d’abord, DIOSC. <i>1, 93</i>.`

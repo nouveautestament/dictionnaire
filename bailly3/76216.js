@@ -1,0 +1,1 @@
+lar[76216]=`<b>παρα·σκώπτω</b>, plaisanter légèrement <i>ou</i> en passant : τινά, HH. <i>Cer. 203,</i> qqn ; τι εἴς τινα, PLUT. <i>Cic. 38, etc</i>. adresser à qqn une plaisanterie légère.`

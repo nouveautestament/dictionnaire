@@ -1,0 +1,1 @@
+lar[17221]=`<b>ἄ·ϋλος, ος, ον</b> <font color="purple">[ῡ]</font> immatériel, ARSTT. <i>Gen. et corr. 1, 5, 28</i> ; CLÉM. NYSS.<p><b>Étym</b>. ἀ, ὕλη.`

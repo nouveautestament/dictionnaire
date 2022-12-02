@@ -1,0 +1,1 @@
+lar[24581]=`<b>διαδρασι·πολῖται, ῶν (οἱ)</b> <font color="purple">[ρᾱῐῑ]</font> déserteurs des affaires publiques, AR. <i>Ran. 1014</i>.<p><b>Étym</b>. διαδιδράσκω, πολίτης.`

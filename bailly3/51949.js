@@ -1,0 +1,1 @@
+lar[51949]=`<b>καρτερό·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> d’un courage résolu, CHRYS. <i>7, 532</i>.<p><b>Étym</b>. κ. ψυχή.`

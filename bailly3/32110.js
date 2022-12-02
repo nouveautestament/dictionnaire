@@ -1,0 +1,1 @@
+lar[32110]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> étendu, allongé, PLAT. <i>Tim. 44e</i>.<p><b>Étym</b>. <i>vb. de</i> ἐκτείνω.`

@@ -1,0 +1,1 @@
+lar[63624]=`<b>ή, όν</b>, qui poursuit une recherche avec méthode, qui agit méthodiquement, méthodique, POL. <i>1, 84, 6 ; 9, 12, 6, etc.</i> ; DS. <i>2, 34</i> ; τὰ Μεθοδικά, la Méthode, <i>titre d’un ouvrage d’Aristote</i>.<p><b>Étym</b>. μέθοδος.`

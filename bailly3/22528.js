@@ -1,0 +1,1 @@
+lar[22528]=`<b>οῦ</b>, <i>adj. m</i>. des Goths, gothique, THÉM. <i>140</i>.`

@@ -1,0 +1,1 @@
+lar[682]=`<b>ἀγκωνο·ειδής, ής, ές</b>, en forme de battant (d’une machine de jet) BITON <i>Mech. 110</i>.<p><b>Étym</b>. ἀ. εἶδος.`

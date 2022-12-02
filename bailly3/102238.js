@@ -1,0 +1,1 @@
+lar[102238]=`<b>ὑπερ·αιμόω-ῶ</b>, avoir trop de sang, XÉN. <i>Eq. 4, 2</i>.<p><b>Étym</b>. ὑ. αἷμα.`

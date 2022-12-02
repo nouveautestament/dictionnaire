@@ -1,0 +1,1 @@
+lar[87049]=`<b>προ·ψελλίζω</b>, bégayer <i>ou</i> balbutier auparavant, NYSS.`

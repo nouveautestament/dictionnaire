@@ -1,0 +1,1 @@
+lar[38417]=`<b>ἐπι·μεσουράνημα, ατος (τὸ)</b> <i>t. d’astron</i>. culmination postérieure (du soir) PTOL. <i>t. 2, p. 103, 21</i>.<p><b>Étym</b>. ἐπί, μεσουρανέω.`

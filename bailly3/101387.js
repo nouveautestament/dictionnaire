@@ -1,0 +1,1 @@
+lar[101387]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> humidité, HPC. <i>de Hom. fabr. p. 295, 5 Erm.</i> ; ARSTT. <i>H.A. 5, 31, 3, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l. c</i>.<p><b>Étym</b>. ὑγραίνω.`

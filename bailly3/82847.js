@@ -1,0 +1,1 @@
+lar[82847]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. πορφύρεος, PAL. <i>62</i>.`

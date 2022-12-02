@@ -1,0 +1,1 @@
+lar[35310]=`<b>ἐξ·αιμάσσω</b>, <i>att</i>. <b>-άττω</b>, mettre tout en sang, <i>acc</i>. XÉN. <i>Cyr. 7, 1, 29</i> ; PHILSTR. <i>Im. 11 ; fig</i>. DH. <i>6, 81</i>.`

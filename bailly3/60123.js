@@ -1,0 +1,1 @@
+lar[60123]=`THCR. <i>Idyl. 7, 80, et</i> <b>λειμωνόθεν</b>, <i>adv</i>., d’une prairie, IL. <i>24, 451</i>.<p><b>Étym</b>. λειμών, -θεν.`

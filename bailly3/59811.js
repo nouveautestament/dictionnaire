@@ -1,0 +1,1 @@
+lar[59811]=`<b>Λαο·μέδων, οντος (ὁ)</b> <font color="purple">[ᾱ]</font> Laomédon, <i>roi de Troie,</i> IL. <i>5, 269, etc</i>.<p>➳ <i>Par contr</i>. Λαυμέδων, LYC. <i>952</i>.<p><b>Étym</b>. λαός, μέδομαι.`

@@ -1,0 +1,1 @@
+lar[54140]=`<b>κάτ·οξος, ος, ον</b>, très vinaigré, POSIDIPP. (ATH. <i>662a</i>).<p><b>Étym</b>. κ. ὄξος.`

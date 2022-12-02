@@ -1,0 +1,1 @@
+lar[80210]=`<b>ου (τὸ)</b> instrument de chirurgie pour broyer, HPC. <i>618, 15</i>.<p><b>Étym</b>. πιέζω.`

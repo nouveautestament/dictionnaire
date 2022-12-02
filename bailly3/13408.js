@@ -1,0 +1,1 @@
+lar[13408]=`<font color="purple">[τᾰ]</font> <i>adv</i>., avec des dispositions séditieuses, avec un esprit de rébellion, PLUT. <i>Pel. 15</i>.`

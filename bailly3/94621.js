@@ -1,0 +1,1 @@
+lar[94621]=`<b>συν·ακοντίζω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> lancer un trait en même temps <i>ou</i> avec, <i>dat</i>. SYN. <i>12c ; abs</i>. ANT. <i>124, 31</i>.<br><b>      2</b> percer en même temps de ses traits, <i>acc</i>. POL. <i>1, 34, 7 ; 1, 40, 12, etc</i>.`

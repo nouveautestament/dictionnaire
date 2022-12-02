@@ -1,0 +1,1 @@
+lar[107395]=`<b>ατος (τὸ) :<br>      1</b> son de voix, SOPH. <i>Aj. 16, Ph. 1295 ; en parl. d’un chanteur,</i> DC. <i>61, 20</i>.<br><b>      2</b> parole, discours, SOPH. <i>Ph. 234, O.R. 324</i>.<p><b>Étym</b>. φωνέω.`

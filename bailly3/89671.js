@@ -1,0 +1,1 @@
+lar[89671]=`<b>σειριάω-ῶ :<br>      1</b> être ardent, brûler, <i>en parl. du soleil,</i> ARAT. <i>331</i>.<br><b>      2</b> être atteint de la siriase (<i>v</i>. σειρίασις) DIOSC. <i>4, 71 ; Par. 1, 9, etc</i>.<p><b>Étym</b>. σείριος.`

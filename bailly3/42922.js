@@ -1,0 +1,1 @@
+lar[42922]=`<b>ου (τὸ)</b> Eupalion (<i>auj</i>. Evpálio) <i>v. de Locride,</i> THC. <i>3, 96, 102</i>.`

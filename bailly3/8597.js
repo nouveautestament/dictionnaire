@@ -1,0 +1,1 @@
+lar[8597]=`<font color="purple">[ῠ]</font> <i>adv. c</i>. ἀνέτυμος SEXT. <i>M. 1, 244</i>.`

@@ -1,0 +1,1 @@
+lar[13823]=`<b>ἀπο·χωλόω-ῶ</b>, rendre tout à fait boiteux, <i>au pass</i>. être tout à fait estropié <i>ou</i> boiteux, HPC. <i>293, 16</i> ; THC. <i>7, 27</i> ; PAUS. <i>10, 1, 3</i>.`

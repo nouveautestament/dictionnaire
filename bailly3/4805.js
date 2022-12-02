@@ -1,0 +1,1 @@
+lar[4805]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> influence étrangère, DS. <i>fr. p. 513</i>.`

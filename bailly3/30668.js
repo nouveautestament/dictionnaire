@@ -1,0 +1,1 @@
+lar[30668]=`<b>εἰσ·αΐσσω</b> <font color="purple">[ᾱ]</font> <i>att</i>. <b>εἰσᾴττω</b> <font color="darkgreen">(<i>ao</i>. εἰσῇξα)</font> s’élancer dans <i>ou</i> sur, AR. <i>Nub. 543 ; avec</i> εἰς, <i>Nub. 996</i> ; ARSTD. <i>t. 1, 313</i>.`

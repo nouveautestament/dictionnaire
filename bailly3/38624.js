@@ -1,0 +1,1 @@
+lar[38624]=`<b>ἐπι·παρασκευάζομαι</b>, se procurer en outre, XÉN. <i>Cyr. 6, 3, 1</i>.`

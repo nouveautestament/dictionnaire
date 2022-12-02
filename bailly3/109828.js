@@ -1,0 +1,1 @@
+lar[109828]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font> sorte d’instrument de musique, <i>chez les Thraces,</i> CANTHAR. (POLL. <i>4, 60).</i><p><b>Étym</b>. <i>cf</i>. ψιθυρίζω.`

@@ -1,0 +1,1 @@
+lar[79509]=`<b>περι·τραχήλιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> collier, PLUT. <i>Alex. 32</i>.<p><b>Étym</b>. π. τράχηλος.`

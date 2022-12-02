@@ -1,0 +1,1 @@
+lar[105456]=`<b>φιλ·ακόλουθος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui suit <i>ou</i> accompagne volontiers, AR. <i>Ran. 415</i> ; ARISTOM. (POLL. <i>6, 167</i>).`

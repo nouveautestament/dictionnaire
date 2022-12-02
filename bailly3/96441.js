@@ -1,0 +1,1 @@
+lar[96441]=`<b>συν·υφίσταμαι</b> <font color="darkgreen">(<i>f</i>. -υποστήσομαι, <i>ao.2</i> -υπέστην, <i>etc</i>.) :</font><br><b>      1 <i>intr.</i></b> exister avec, coexister, SEXT. <i>P. 3, 26 ; M. 8, 273</i>.<br><b>      2 <i>tr.</i></b> entreprendre avec, <i>dat</i>. POL. <i>4, 32, 7</i>.`

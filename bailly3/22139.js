@@ -1,0 +1,1 @@
+lar[22139]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> saveur douce, douceur, SPT. <i>Prov. 16, 24</i>.<br><b>      2</b> boisson douce, SPT. <i>1Esdr. 9, 51 ; Neh. 8, 10 ; Sir. 11, 3</i>.<p><b>Étym</b>. γλυκάζω.`

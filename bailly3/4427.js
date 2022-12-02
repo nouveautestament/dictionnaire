@@ -1,0 +1,1 @@
+lar[4427]=`<b>ἁλί·βρομος, ος, ον</b> <font color="purple">[ᾰ]</font> qui gronde comme la mer, NONN. <i>D. 43, 385</i>.<p><b>Étym</b>. ἅ. βρέμω.`

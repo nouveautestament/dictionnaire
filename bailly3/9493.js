@@ -1,0 +1,1 @@
+lar[9493]=`<i>vb. de</i> ἀνταποδίδωμι, PLAT. <i>Phil. 40d ;</i> ARSTT. <i>Nic. 8, 13, 9, etc</i>.`

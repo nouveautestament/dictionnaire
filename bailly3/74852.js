@@ -1,0 +1,1 @@
+lar[74852]=`<b>παν·αλήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰνᾰ]</font> qui erre sans cesse en tout lieu, PROCL. <i>H. Mus. 15</i>.<p><b>Étym</b>. π. ἀλήμων.`

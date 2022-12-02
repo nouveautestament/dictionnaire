@@ -1,0 +1,1 @@
+lar[52004]=`<b>καρφόω-ῶ</b>, dessécher, <i>d’où au pass</i>. se dessécher, ANTH. <i>7, 385</i>.<p><b>Étym</b>. κάρφος.`

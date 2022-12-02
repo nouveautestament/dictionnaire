@@ -1,0 +1,1 @@
+lar[66984]=`<b>ίδος</b>, <i>adj. f</i>. de Mygdonie, <i>càd</i>. de Phrygie, NONN. <i>D. 1, 153, etc</i>.`

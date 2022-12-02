@@ -1,0 +1,1 @@
+lar[41397]=`<b>ας (ἡ)</b> différence de son <i>ou</i> de ton, PLAT. <i>Leg. 812d ;</i> TH. (ATH. <i>390a</i>).<p><b>Étym</b>. ἑτερόφωνος.`

@@ -1,0 +1,1 @@
+lar[84667]=`<b>Πρό·λοχος, ου (ὁ)</b> Prolokhos, <i>Lapithe,</i> HÉS. <i>Sc. 180</i>.<p><b>Étym</b>. π. λόχος.`

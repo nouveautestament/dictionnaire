@@ -1,0 +1,1 @@
+lar[63200]=`<b>ου (ὁ)</b> = <i>lat</i>. Mauricus, <i>n. d’h. rom</i>. PLUT. <i>Galb. 8</i>.`

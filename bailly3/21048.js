@@ -1,0 +1,1 @@
+lar[21048]=`<i>adv.</i> :<br><b>      1</b> du fond de la mer, SOPH. <i>Ant. 590</i>.<br><b>      2</b> <i>fig</i>. du fond (de l’esprit, <i>etc</i>.) ERATOSTH. (ATH. <i>36f</i>).<p><b>Étym</b>. βυσσός, -θεν.`

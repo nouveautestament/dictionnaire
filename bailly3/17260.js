@@ -1,0 +1,1 @@
+lar[17260]=`<b>αὐξο·μειόω-ῶ</b> (<i>seul. fut</i>.) accroître et diminuer, PTOL. <i>Math. synt. 1, 410c</i>.<p><b>Étym</b>. αὔξω, μ.`

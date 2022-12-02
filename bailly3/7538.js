@@ -1,0 +1,1 @@
+lar[7538]=`<b>ἀν·αρπαγή, ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> rapt, EUR. <i>Hel. 50</i>.<p><b>Étym</b>. ἀναρπάζω.`

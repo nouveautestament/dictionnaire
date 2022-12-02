@@ -1,0 +1,1 @@
+lar[107664]=`<b>χαλκο·κορυστής, οῦ</b>, <i>adj. m</i>. couvert d’une armure d’airain, IL. <i>5, 699 ; 6, 199, 398 ; 9, 199</i> ; HH. <i>7, 2, etc.</i> ; HÉS. <i>Th. 984</i>.<p><b>Étym</b>. χ. κορύσσω.`

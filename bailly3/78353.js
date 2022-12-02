@@ -1,0 +1,1 @@
+lar[78353]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. περιαγωγεύς, HLD. CHIR. <i>1, 468 Schneider, Eclogæ physicæ</i>.`

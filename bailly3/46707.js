@@ -1,0 +1,1 @@
+lar[46707]=`<b>θεό·μαντις, εως (ὁ)</b> qui prophétise par l’inspiration divine, PLAT. <i>Ap. 22c, Men. 99c ;</i> ARSTD. <i>t. 2, 18 et 187</i>.<p><b>Étym</b>. θ. μάντις.`

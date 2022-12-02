@@ -1,0 +1,1 @@
+lar[71149]=`<b>ὁλο·γραφέω-ῶ</b> <font color="purple">[ᾰ]</font> écrire en entier, en toutes lettres, PLUT. <i>M. 288e</i>.<p><b>Étym</b>. ὅλος, γράφω.`

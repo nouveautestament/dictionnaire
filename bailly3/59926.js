@@ -1,0 +1,1 @@
+lar[59926]=`<b>ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. de Lasiôn, ANTH. <i>6, 111</i> ; EUPH. (ATH. <i>44f</i>).<p><b>Étym</b>. Λασιών.`

@@ -1,0 +1,1 @@
+lar[44732]=`<b>α, ον</b>, semblable à une ceinture, ATHÉNÉE MÉC. <i>38, 3</i>.<p><b>Étym</b>. ζώνη.`

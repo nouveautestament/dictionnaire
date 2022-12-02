@@ -1,0 +1,1 @@
+lar[25874]=`<b>δια·φράζω</b> (<i>seul. ao. 3 sg</i>. διεπέφραδε <font color="purple">[ᾰδ]</font>) dire clairement, dire, IL. <i>18, 9</i> ; OD. <i>6, 47</i> ; A.RH. <i>1, 848 ; 3, 741</i> ; OPP. <i>C. 4, 378</i> ; Q. SM. <i>3, 80 ; 9, 409</i>.`

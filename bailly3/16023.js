@@ -1,0 +1,1 @@
+lar[16023]=`<b>ατος (τὸ) :<br>      1</b> salut amical, ANTH. <i>9, 562, 3</i>.<br><b>      2</b> <i>au plur</i>. embrassements, EUR. <i>Hec. 829, etc.</i> ; LUC. ANTH.<br><b>      3</b> objet aimé, PLUT. <i>M. 608e</i>.<p><b>Étym</b>. ἀσπάζομαι.`

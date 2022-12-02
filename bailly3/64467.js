@@ -1,0 +1,1 @@
+lar[64467]=`<b>μεσ·εντέριον, ου (τὸ)</b> le mésentère, <i>membrane qui enveloppe les intestins,</i> ARSTT. <i>H.A. 1, 16, 8, etc</i>.<p><b>Étym</b>. μ. ἔντερον.`

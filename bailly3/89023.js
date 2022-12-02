@@ -1,0 +1,1 @@
+lar[89023]=`<b>οῦ (ἡ)</b> Rhôsos, <i>port de Syrie,</i> PLUT. <i>Demetr. 32, etc</i>.`

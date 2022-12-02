@@ -1,0 +1,1 @@
+lar[95827]=`<b>συν·εφεδρεύω :<br>      1</b> attendre ensemble en qualité d’ἔφεδρος, <i>càd</i>. attendre ensemble la fin d’un combat pour lutter à son tour contre le vainqueur, POL. <i>1, 27, 9</i>.<br><b>      2</b> <i>p. ext</i>. attendre <i>ou</i> guetter ensemble, <i>dat</i>. POL. <i>2, 12, 2,</i> τοῖς καιροῖς, POL. <i>31, 13, 6,</i> les circonstances favorables.`

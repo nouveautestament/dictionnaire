@@ -1,0 +1,1 @@
+lar[70451]=`<b>ας (ἡ)</b> bien <i>ou</i> profit pour une maison, THCR. <i>Idyl. 28, 2 conj. ; d’où</i> soins du ménage, OD. <i>14, 223 (ion</i>. -ίη).<p><b>Étym</b>. οἰκωφελής.`

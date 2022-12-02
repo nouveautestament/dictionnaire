@@ -1,0 +1,1 @@
+lar[49380]=`<b>ἱππομανέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> avoir la passion des chevaux, SYN. <i>250a.</i><br><b>      2</b> être en chaleur, <i>en parl. d’une jument, ou en gén</i>. ARSTT. <i>H.A. 6, 18, 8</i>.<p><b>Étym</b>. ἱππομανής.`

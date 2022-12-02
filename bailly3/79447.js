@@ -1,0 +1,1 @@
+lar[79447]=`<b>εως (ἡ)</b> action de serrer tout autour, d’étreindre, STOB. <i>Ecl. 1, 1096</i>.<p><b>Étym</b>. περισφίγγω.`

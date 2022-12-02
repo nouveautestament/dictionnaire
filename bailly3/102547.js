@@ -1,0 +1,1 @@
+lar[102547]=`<b>ὑπέρ·θυρος, ος, ον</b> <font color="purple">[θῠ]</font> placé au-dessus de la porte : τὸ ὑπέρθυρον, HDT. <i>1, 179</i> ; PARMÉN. <i>12 Karsten</i> ; PLUT. <i>M. 684a, c</i>. ὑπερθύριον.<p><b>Étym</b>. ὑ. θύρα.`

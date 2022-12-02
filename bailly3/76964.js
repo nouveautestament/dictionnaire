@@ -1,0 +1,1 @@
+lar[76964]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> qui ressemble à un rapprochement de mots de même son <i>ou</i> de même forme, ISOCR. (<i>Must. Anecd. p. 11, 35 Dind.), cf. les art. suivants</i> παρίσωμα, παρίσωσις.<p><b>Étym</b>. πάρισος, -ωδης.`

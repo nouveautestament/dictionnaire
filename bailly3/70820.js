@@ -1,0 +1,1 @@
+lar[70820]=`<b>α, ον</b> <font color="purple">[τᾰῠ]</font> <i>c</i>. ὀκταδάκτυλος ORIB. <i>p. 159 Mai</i>.`

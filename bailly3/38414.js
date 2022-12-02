@@ -1,0 +1,1 @@
+lar[38414]=`<b>οῦ (ὁ) :<br>      1</b> division, distribution, DYSC. <i>Synt. 91, 1</i>.<br><b>      2</b> énumération détaillée, CHŒROB. <i>(Bkk. 1340).</i><p><b>Étym</b>. ἐπιμερίζω.`

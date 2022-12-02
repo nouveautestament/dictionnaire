@@ -1,0 +1,1 @@
+lar[31443]=`proclamer (le nom d’un témoin qui fait défaut et qui se trouve, dès lors, frappé d’une amende) ESCHN. <i>7, 17</i>.<p><b>Étym</b>. ἔκκλητος.`

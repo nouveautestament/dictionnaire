@@ -1,0 +1,1 @@
+lar[96210]=`<i>ion</i>. <b>συνορίη, ης (ἡ)</b> situation limitrophe, M. RUBR. <i>65</i>.<p><b>Étym</b>. σύνορος.`

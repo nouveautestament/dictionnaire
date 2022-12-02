@@ -1,0 +1,1 @@
+lar[92840]=`<i>ion</i>. <b>Στρατίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Stratiè, <i>v. d’Arcadie,</i> IL. <i>2, 606 ; etc</i>.`

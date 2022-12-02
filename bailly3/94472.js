@@ -1,0 +1,1 @@
+lar[94472]=`<font color="purple">[ῠᾰ]</font> bannir ensemble, JAMBL. <i>V. Pyth. 35</i>.<p><b>Étym</b>. συμφυγάς.`

@@ -1,0 +1,1 @@
+lar[15773]=`<b>ατος (τὸ)</b> action <i>ou</i> parole impie, impiété, sacrilège, THC. <i>6, 27</i> ; AND. LYS. DÉM. <i>etc</i>.<p><b>Étym</b>. ἀσεβέω.`

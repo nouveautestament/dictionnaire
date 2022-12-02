@@ -1,0 +1,1 @@
+lar[60321]=`<b>ου (ὁ)</b> Léontidès, <i>h</i>. PLUT. <i>Gen. Socr. 30, 32, etc</i>.<p>➳ <i>Dor</i>. Λεοντίδας <font color="purple">[ᾱ]</font> PLUT. <i>Ages. 23, 24 ; Pel. 5, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Λέων.`

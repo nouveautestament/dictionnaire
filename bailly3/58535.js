@@ -1,0 +1,1 @@
+lar[58535]=`<font color="purple">[υ]</font> <i>adv</i>., circulairement, POSIDON. (ATH. <i>212f</i>).<p><b>Étym</b>. κύκλος, -δον.`

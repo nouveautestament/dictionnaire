@@ -1,0 +1,1 @@
+lar[218]=`<font color="purple">[ᾰῡ]</font> <i>adv</i>., en venant d’Abydos, IL. <i>4, 500</i>.<p><b>Étym</b>. Ἄ. -θεν.`

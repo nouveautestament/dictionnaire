@@ -1,0 +1,1 @@
+lar[46414]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> <i>dor. c</i>. θεωρίος, <i>ép. d’Apollon,</i> PAUS. <i>2, 31, 6</i>.`

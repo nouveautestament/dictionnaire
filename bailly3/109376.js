@@ -1,0 +1,1 @@
+lar[109376]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> Khytos, <i>port de Cyzique,</i> A.RH. <i>1, 987</i>.<p><b>Étym</b>. <i>v</i>. χυτός.`

@@ -1,0 +1,1 @@
+lar[80770]=`<b>πλατυ·όφθαλμος, ος, ον</b> <font color="purple">[ᾰτ]</font> qui élargit les yeux : τὸ πλατυόφθαλμον (<i>s.-e</i>. στίμμι) DIOSC. <i>5, 99</i>, vermillon dont on se peint les yeux pour les faire paraître plus grands.<p><b>Étym</b>. πλ. ὀφθαλμός.`

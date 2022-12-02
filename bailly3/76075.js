@@ -1,0 +1,1 @@
+lar[76075]=`<b>ας (ἡ)</b> paralysie partielle <i>ou</i> légère, <i>p. opp. à</i> ἀποπληξία, HPC. <i>Epid. 1, 950</i>.<p><b>Étym</b>. <i>cf</i>. παραπληξία.`

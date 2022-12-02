@@ -1,0 +1,1 @@
+lar[47823]=`<b>ου (ὁ)</b> pilon d’un mortier, DIONYS. tyr. (PHOT. <i>Bibl. p. 532</i>).`

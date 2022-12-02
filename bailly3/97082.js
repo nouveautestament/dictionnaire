@@ -1,0 +1,1 @@
+lar[97082]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de jonc, NIC. <i>Al. 546</i>.<p><b>Étym</b>. σχοῖνος.`

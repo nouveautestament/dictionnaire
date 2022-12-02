@@ -1,0 +1,1 @@
+lar[18418]=`<b>ἀ·χειρής, ής, ές</b> (<i>seul. nom. pl</i>. ἀχειρέες) sans mains <i>ou</i> sans pattes pour saisir, BATR. <i>298 (conj</i>. ἀχείρεες <i>de</i> ἄχειρ, <i>avec épenthèse d’un</i> ε ; <i>sel. Nauck, conj</i>. ἀτειρέες).<p><b>Étym</b>. <i>cf</i>. ἄχειρ.`

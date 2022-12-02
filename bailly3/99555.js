@@ -1,0 +1,1 @@
+lar[99555]=`<b>ος, ον</b>, coupé ; <i>subst</i>. τὰ τόμια, AR. <i>Lys. 186</i> ; ANT. <i>139, 42</i> ; PLAT. <i>Leg. 753d ;</i> DÉM. <i>642, 18, etc. ; rar</i>. τὸ τόμιον, AR. <i>Lys. 192,</i> entrailles découpées de la victime sur lesquelles on jurait.<p><b>Étym</b>. τέμνω.`

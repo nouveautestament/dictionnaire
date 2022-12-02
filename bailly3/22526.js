@@ -1,0 +1,1 @@
+lar[22526]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> habitant <i>ou</i> originaire de Gortyne, PAUS. <i>2, 11, 8</i> ; οἱ Γ. les habitants de Gortyne, POL. <i>4, 53</i> ; PLUT. <i>Phil. 13 ; etc</i>.`

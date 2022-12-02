@@ -1,0 +1,1 @@
+lar[86605]=`<b>προσ·φθείρομαι</b>, s’attacher <i>ou</i> être attaché pour sa perte à, <i>dat</i>. AR. <i>Eccl. 248</i> ; EL. <i>N.A. 2, 17</i> ; ALCIPHR. <i>1, 32, 34</i>.`

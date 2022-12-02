@@ -1,0 +1,1 @@
+lar[27800]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> dracontiasis, <i>sorte de maladie,</i> GAL. <i>2, 393</i>.<p><b>Étym</b>. *δρακοντιάζω, <i>de</i> δράκων ; <i>cf</i>. ἐλεφαντίασις.`

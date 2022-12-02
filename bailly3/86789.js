@@ -1,0 +1,1 @@
+lar[86789]=`<b>ας (ἡ)</b> <font color="purple">[τῑ]</font> prérogative, M. TYR. <i>1, 5</i>.<p><b>Étym</b>. πρότιμος.`

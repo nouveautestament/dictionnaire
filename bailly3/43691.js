@@ -1,0 +1,1 @@
+lar[43691]=`<b>εὐ·φαντασίωτος, ος, ον</b> <font color="purple">[ᾰσ]</font> qui se représente vivement les choses, QUINT. <i>6, 2, 30</i>.<p><b>Étym</b>. εὖ, φαντασία.`

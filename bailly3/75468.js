@@ -1,0 +1,1 @@
+lar[75468]=`<b>παρα·γυμνάζω</b>, exercer peu à peu <i>ou</i> à peu près superficiellement, NYSS.`

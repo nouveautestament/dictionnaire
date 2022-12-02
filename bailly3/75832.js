@@ -1,0 +1,1 @@
+lar[75832]=`<b>παρα·λανθάνω</b> <font color="darkgreen">(<i>ao.2</i> παρέλαθον, <i>etc</i>.)</font> être caché, HDN <i>4, 15, 7 ; fig</i>. être caché à, <i>càd</i>. ignoré <i>ou</i> inconnu de, PLAT. <i>Hipp. ma. 298b ;</i> ISOCR. <i>210d, etc</i>.`

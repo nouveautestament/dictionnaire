@@ -1,0 +1,1 @@
+lar[60010]=`<font color="darkgreen">(<i>f. inus., ao</i>. ἐλάχηνα, <i>pf. inus</i>.)</font> <font color="purple">[λᾰ]</font> creuser, fouiller, fouir, <i>acc</i>. A.RH. <i>3, 222</i> ; MOSCH. <i>4, 96, etc</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

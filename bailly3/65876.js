@@ -1,0 +1,1 @@
+lar[65876]=`<b>ου (ὁ)</b> = <i>lat</i>. Minucius, <i>n. d’h. rom</i>. PLUT. <i>Popl. 3, Fab. 4, 12, etc</i>.`

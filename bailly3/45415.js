@@ -1,0 +1,1 @@
+lar[45415]=`<b>ἡμι·δουλεία, ας (ἡ)</b> demi-servitude, ŒNOM. (EUS. <i>P.E. 257a</i>).<p><b>Étym</b>. ἡμι-, δ.`

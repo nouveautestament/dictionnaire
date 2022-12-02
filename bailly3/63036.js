@@ -1,0 +1,1 @@
+lar[63036]=`<b>ης (ἡ)</b> lanière <i>ou</i> cordon de cuir, SOPH. <i>fr. 160</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

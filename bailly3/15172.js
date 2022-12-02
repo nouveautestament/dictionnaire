@@ -1,0 +1,1 @@
+lar[15172]=`<b>ου (ὁ)</b> = <i>lat</i>. Arrius, <i>n. d’h. rom</i>. PLUT. <i>Cic. 15, etc</i>.`

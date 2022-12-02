@@ -1,0 +1,1 @@
+lar[65831]=`<b>άδος (ἡ)</b> <font color="purple">[ῑ]</font> actrice de pantomime, EL. (SUID. <i>v°</i> Κρίσεως) ; ANTH. <i>9, 139</i>.<p><b>Étym</b>. μιμέομαι.`

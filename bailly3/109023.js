@@ -1,0 +1,1 @@
+lar[109023]=`<b>εως (ἡ) :<br>      1</b> action d’enduire, ARSTT. <i>Probl. 38, 3 ; d’où</i> onction pour consacrer, SPT. <i>Ex. 29, 21, etc.</i><br><b>      2</b> couche de plâtre <i>ou</i> de mortier, EL. <i>N.A. 6, 41</i>.<p><b>Étym</b>. χρίω.`

@@ -1,0 +1,1 @@
+lar[39556]=`<b>ἐπι·φαύσκω</b> (<i>seul. prés</i>.) commencer à luire, se lever, <i>en parl. des astres,</i> ORPH. <i>H. 49, 9</i> ; ARSTT. <i>Probl. 8, 17</i> ; SPT. <i>Job 25, 5 ; 31, 26 ; au pass</i>. SPT. <i>Job 41, 9</i>.`

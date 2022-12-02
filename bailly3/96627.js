@@ -1,0 +1,1 @@
+lar[96627]=`<b>συ·σπουδάζω :<br>      1</b> s’empresser avec <i>ou</i> en même temps, AR. <i>Pax 768</i> ; XÉN. <i>An. 2, 3, 11</i> ; σ. τινί τι, XÉN. <i>Ages. 8, 2,</i> mettre toute son ardeur à qqe ch. de concert avec qqn.<br><b>      2</b> <i>particul</i>. s’empresser en faveur de, prendre chaleureusement le parti de, <i>dat</i>. DC. <i>63, 26</i>.`

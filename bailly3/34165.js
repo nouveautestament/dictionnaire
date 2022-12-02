@@ -1,0 +1,1 @@
+lar[34165]=`<i>adv</i>., d’une manière intime, en exprimant des sentiments intimes, HERMOG. <i>p. 284 Sturm</i>.`

@@ -1,0 +1,1 @@
+lar[52078]=`<b>ου (τὸ)</b> <font color="purple">[τᾰ]</font> <i>c</i>. κάστανον, <i>au pl</i>. GAL. <i>6, 426</i>.`

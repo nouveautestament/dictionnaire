@@ -1,0 +1,1 @@
+lar[4481]=`<b>ἁλί·κμητος μέριμνα (ἡ)</b> P. SIL. <i>Ecphr. amb. 198,</i> fatigues de la vie sur mer.<p><b>Étym</b>. ἅ. κάμνω.`

@@ -1,0 +1,1 @@
+lar[107452]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Khadèsia, <i>dans le Pont, en parl. des Amazones,</i> A.RH. <i>2, 1000</i>.`

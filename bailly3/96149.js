@@ -1,0 +1,1 @@
+lar[96149]=`<b>συν·όκτω</b> (οἱ, αἱ, τὰ) <i>indécl</i>. huit ensemble, huit par huit, SOPATR. (ATH. <i>702c</i>).`

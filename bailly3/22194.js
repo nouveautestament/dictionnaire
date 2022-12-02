@@ -1,0 +1,1 @@
+lar[22194]=`<b>(ὁ)</b> <font color="purple">[ῠ]</font> <i>seul. voc</i>. ὦ γλύκων, AR. <i>Eccl. 985,</i> mon doux ami ! <i>avec une nuance d’ironie</i>.<p><b>Étym</b>. γλυκύς.`

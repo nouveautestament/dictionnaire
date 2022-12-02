@@ -1,0 +1,1 @@
+lar[33945]=`<b>ἐν·αποκινδυνεύω</b> <font color="purple">[ῡ]</font> s’exposer à un danger dans <i>ou</i> avec, <i>dat</i>. JOS. <i>A.J. 2, 9, 4</i> ; DC. <i>49, 2</i>.`

@@ -1,0 +1,1 @@
+lar[75273]=`<b>παντο·νίκης, ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. vainqueur dans tous les combats, DC. <i>63, 10</i>.<p><b>Étym</b>. π. νικάω.`

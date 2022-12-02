@@ -1,0 +1,1 @@
+lar[4187]=`<b>ἀ·λειτούργητος, ος, ον</b>, exempt des charges publiques, DÉM. <i>256, 10 (décr</i>.) ; DIN. (POLL. <i>8, 156).</i><p><b>Étym</b>. ἀ, λειτουργέω.`

@@ -1,0 +1,1 @@
+lar[93474]=`<b>συγ·κλονέω-ῶ</b>, jeter de la confusion, troubler, bouleverser, IL. <i>13, 722</i> ; ANTH. <i>9, 755</i> ; GAL. <i>7, 76</i>.<p>➳ <i>Impf. épq</i>. συνεκλόνεον, IL. <i>l. c</i>.`

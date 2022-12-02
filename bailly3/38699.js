@@ -1,0 +1,1 @@
+lar[38699]=`<i>adv</i>., faussement, M. ANT. <i>2, 16</i>.`

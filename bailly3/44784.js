@@ -1,0 +1,1 @@
+lar[44784]=`<b>ζῳο·φθόρος, ος, ον</b>, qui a commerce avec des animaux (<i>litt</i>. qui perd <i>ou</i> souille des animaux) BAS. <i>4, 673 Migne</i>.<p><b>Étym</b>. ζῷον, φθείρω.`

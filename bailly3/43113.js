@@ -1,0 +1,1 @@
+lar[43113]=`<i>adv</i>., avec affabilité, DH. <i>Rhet. 5, 4</i>.`

@@ -1,0 +1,1 @@
+lar[25086]=`<b>δια·μυδάω</b> <font color="purple">[ᾰῡ]</font> moisir <i>ou</i> se putréfier profondément, <i>en parl. d’os ou d’organes malades,</i> HPC. <i>912g</i>.`

@@ -1,0 +1,1 @@
+lar[3367]=`<b>εω (ὁ)</b> Akès, <i>fl. d’Hyrconie,</i> HDT. <i>3, 117</i>.`

@@ -1,0 +1,1 @@
+lar[14197]=`<b>ου (ὁ)</b> Arbakès, <i>n. d’h. persan ou assyrien,</i> XÉN. <i>An. 1, 7, 12, etc.</i> ; PLUT. <i>Artax. 14, etc</i>.<p>➳ <i>Acc</i>. -ην, DS. <i>2, 25, 26</i>.`

@@ -1,0 +1,1 @@
+lar[67360]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. μυρρινών, SPT. <i>Jud. 1, 35</i>.`

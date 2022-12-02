@@ -1,0 +1,1 @@
+lar[84516]=`<b>προ·καταφεύγω</b>, se réfugier auparavant, THC. <i>1, 134 ; 2, 91 ; 3, 78</i>.`

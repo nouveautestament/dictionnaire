@@ -1,0 +1,1 @@
+lar[97298]=`<b>ατος (τὸ) :<br>      1</b> trait de modération, XÉN. <i>Ages. 5, 4</i> ; STOB. <i>Ecl. 2, 194</i>.<br><b>      2</b> <i>c</i>. σωφρονιστής, ARISTARQ. (STOB. <i>p. 602, 13).</i><p><b>Étym</b>. σωφρονέω.`

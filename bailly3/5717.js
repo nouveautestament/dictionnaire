@@ -1,0 +1,1 @@
+lar[5717]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> <i>v</i>. ἀμοιβαῖος, ANTH. <i>12, 238</i> ; OPP. <i>C. 4, 349</i> ; Q. SM. <i>5, 65</i>.<p><b>Étym</b>. ἀμοιβάς.`

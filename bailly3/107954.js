@@ -1,0 +1,1 @@
+lar[107954]=`<b>χαριτόω-ῶ</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> remplir de la grâce divine, <i>acc</i>. NT. <i>Eph. 1, 6 ; au pass</i>. être rempli de la grâce divine, SPT. <i>Sir. 18, 17</i> ; NT. <i>Luc. 1, 28</i>.<br><b>      2</b> rendre gracieux, LIB. <i>4, 1071</i> ; RHÉT. <i>1, 429 W</i>.<p><b>Étym</b>. χάρις.`

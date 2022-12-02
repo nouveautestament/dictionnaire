@@ -1,0 +1,1 @@
+lar[79142]=`<b>ής, ές</b> <font color="purple">[νῐ]</font> suffoqué, NIC. <i>Th. 432</i> ; DS. (PHOT. <i>Bibl. 381, 40, etc</i>.).<p><b>Étym</b>. περιπνίγω.`

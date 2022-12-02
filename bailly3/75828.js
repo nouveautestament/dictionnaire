@@ -1,0 +1,1 @@
+lar[75828]=`<b>παρα·λαλέω-ῶ</b> <font color="purple">[λᾰ]</font> parler à tort et à travers, MÉN. (<i>Com. fr. 4, 238</i>) ; DC. <i>69, 4</i>.`

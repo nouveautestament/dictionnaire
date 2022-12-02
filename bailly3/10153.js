@@ -1,0 +1,1 @@
+lar[10153]=`<b>ἀντιπαθέω-ῶ</b> <font color="purple">[πᾰ]</font><br><b>      1</b> avoir une répugnance, A. APHR. <i>Probl. præf.</i><br><b>      2</b> être inverse de, <i>dat</i>. HÉPH. <i>5, 7</i>.<p><b>Étym</b>. ἀντιπαθής.`

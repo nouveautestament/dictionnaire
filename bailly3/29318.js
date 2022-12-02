@@ -1,0 +1,1 @@
+lar[29318]=`<b>      1</b> parler la langue hébraïque, JOS. <i>B.J. 6, 2, 1</i>.<br><b>      2</b> être de la secte <i>ou</i> du parti des Hébreux, NYSS. <i>1, 310a</i>.<p><b>Étym</b>. Ἑβραῖος.`

@@ -1,0 +1,1 @@
+lar[27278]=`<b>α, ον</b>, qu’il faut <i>ou</i> qu’on peut poursuivre, HDT. <i>9, 58</i> ; AR. <i>Ach. 221 ; neutre</i> διωκτέον, PLAT. <i>Theæt. 167d, Gorg. 507d</i>, il faut poursuivre.<p><b>Étym</b>. <i>vb. de</i> διώκω.`

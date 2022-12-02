@@ -1,0 +1,1 @@
+lar[51495]=`<b>ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui résonne, <i>càd</i>. accompagné de gémissements, ESCHL. <i>Ch. 152</i>.<p><b>Étym</b>. καναχέω.`

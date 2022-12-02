@@ -1,0 +1,1 @@
+lar[72049]=`avoir un goût de vinaigre <i>ou</i> être aigre, DIOSC. <i>5, 12</i>.<p><b>Étym</b>. ὄξος <i>ou</i> ὀξύς.`

@@ -1,0 +1,1 @@
+lar[22028]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> abondant en lait, plein de lait, OPP. <i>C. 1, 200</i> ; ANTH. <i>6, 154</i>.<p><b>Étym</b>. γλάγος.`

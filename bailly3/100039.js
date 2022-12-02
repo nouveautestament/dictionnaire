@@ -1,0 +1,1 @@
+lar[100039]=`<b>ωνος (ὁ, ἡ)</b> craintif, peureux, timide, <i>surt. en parl. de colombes,</i> IL. <i>5, 778</i> ; OD. <i>12, 63, etc.</i> ; AR. <i>Pax 1067</i> ; A.RH. <i>2, 534 ; 3, 541 ; subst</i>. ἡ τρ. LYC. <i>87, 423,</i> la colombe.<p><b>Étym</b>. τρέω.`

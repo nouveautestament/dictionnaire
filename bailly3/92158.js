@@ -1,0 +1,1 @@
+lar[92158]=`<b>οῦ (ὁ)</b> <font color="purple">[τᾰ]</font> factieux, DH. <i>6, 70</i> ; JOS. <i>A.J. 14, 1, 3, etc</i>.<p><b>Étym</b>. στασιάζω.`

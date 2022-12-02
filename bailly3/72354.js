@@ -1,0 +1,1 @@
+lar[72354]=`<b>ας (ἡ) :<br>      1</b> fabrication d’armes, DS. <i>14, 43</i> ; STR. <i>4, etc.</i><br><b>      2</b> <i>titre du 18<sup>e</sup> chant de l’Iliade où est décrit le travail d’Hèphæstos fabriquant les armes d’Achille</i>.<p><b>Étym</b>. ὁπλοποιός.`

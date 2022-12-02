@@ -1,0 +1,1 @@
+lar[23949]=`<b>οῦς (ἡ)</b> Derkétô, <i>déesse syrienne,</i> LUC. <i>Syr. 14</i>.`

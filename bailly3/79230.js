@@ -1,0 +1,1 @@
+lar[79230]=`<b>*περι·σαίνω</b>, <i>seul. poét</i>. <b>περισσαίνω</b>, caresser de la queue comme les chiens, OD. <i>10, 215 ; 16, 4</i> ; THCR. <i>Idyl. 25, 72 ; fig</i>. caresser, flatter, ORPH. <i>Lith. 424</i>.<p>➳ <i>Impf. poét. 3 pl</i>. περίσσαινον, OD. <i>16, 4</i>.<p><b>Étym</b>. π. σαίνω.`

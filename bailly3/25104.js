@@ -1,0 +1,1 @@
+lar[25104]=`<b>δι·ανάγω</b> <font color="purple">[ᾰᾰ]</font> ramener en arrière pour remettre en place, GAL. <i>12, 328</i>.`

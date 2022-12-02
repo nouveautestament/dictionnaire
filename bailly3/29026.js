@@ -1,0 +1,1 @@
+lar[29026]=`<i>adv.</i> :<br><b>      1</b> de façon à se tirer difficilement d’affaire : δ. διακεῖσθαι, POL. <i>1, 61, 4,</i> être dans l’embarras ; <i>joint à</i> ἀπορεῖν, POL. <i>5, 18, 11, ou à</i> ἀπορεῖσθαι, POL. <i>16, 2, 1</i>.<br><b>      2</b> d’une façon peu utile, inutilement, <i>p. opp. à</i> χρησίμως, STR. <i>823</i>.`

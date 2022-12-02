@@ -1,0 +1,1 @@
+lar[101177]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> qui est en feu, qui brûle, ANTH. <i>6, 249</i>.<p><b>Étym</b>. τῦφος, *ἄρω.`

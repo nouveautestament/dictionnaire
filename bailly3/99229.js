@@ -1,0 +1,1 @@
+lar[99229]=`<b>τιμιο·πώλης, ου (ὁ)</b> <font color="purple">[τῑ]</font> qui vend cher, PHRYN. (POLL. <i>7, 195).</i><p><b>Étym</b>. τίμιος, πωλέω.`

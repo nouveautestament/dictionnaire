@@ -1,0 +1,1 @@
+lar[19557]=`<b>ου (ὁ)</b> = <i>lat</i>. Vergilius, Virgile, <i>poète latin,</i> E. BYZ. <i>v°</i> Μάντυα ; <i>cf</i>. βεργίλλιος <i>et</i> βιργίλιος.`

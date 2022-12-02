@@ -1,0 +1,1 @@
+lar[81760]=`<b>*πολυ·βόλος, ος, ον</b> <font color="purple">[ῠ]</font> qui lance des projectiles par jet continu, PHIL. BYZ. <i>p. 73</i>.<p><b>Étym</b>. π. βάλλω.`

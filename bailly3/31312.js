@@ -1,0 +1,1 @@
+lar[31312]=`<b>ἐκ·θέω :<br>      1</b> courir hors de, sortir en courant, AR. <i>Ach. 456, Eq. 280</i> ; ARSTT. <i>Nic. 7, 7 ; en parl. d’abeilles,</i> voler hors de, XÉN. <i>Hell. 4, 2, 12 ; en parl. de traits,</i> jaillir, voler, PLUT. <i>Marc. 16</i>.<br><b>      2</b> <i>en parl. d’assiégés,</i> faire une sortie, XÉN. <i>Hell. 3, 1, 7</i>.`

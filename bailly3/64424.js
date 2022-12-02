@@ -1,0 +1,1 @@
+lar[64424]=`<b>μέσα·βον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> courroie qui assujettit deux bœufs au joug, HÉS. <i>O. 469</i>.<p>➳ <i>Épq</i>. μέσσαβον, CALL. <i>fr. 479</i> (μέσος, βοῦς).<p><b>Étym</b>. <i>pré-grec</i>.`

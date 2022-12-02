@@ -1,0 +1,1 @@
+lar[95429]=`<b>συν·εκτρίβω</b> <font color="purple">[ῑ]</font> broyer <i>ou</i> écraser avec, <i>d’où</i> détruire ensemble, SPT. <i>Sap. 11, 19</i>.`

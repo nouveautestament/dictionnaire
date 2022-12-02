@@ -1,0 +1,1 @@
+lar[37616]=`<b>ἐπι·διδυμίς, ίδος (ἡ)</b> <font color="purple">[δῐῠ]</font> épididyme, tunique interne des testicules, GAL. <i>2, 98</i>.<p><b>Étym</b>. ἐπί, δίδυμος.`

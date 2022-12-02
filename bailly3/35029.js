@@ -1,0 +1,1 @@
+lar[35029]=`<b>ἐν·τελέθω</b> (<i>seul. prés</i>.) se trouver dans, <i>dat</i>. NIC. <i>Th. 660</i>.`

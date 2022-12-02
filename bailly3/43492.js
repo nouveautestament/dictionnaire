@@ -1,0 +1,1 @@
+lar[43492]=`<b>Εὔ·στρατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Eustratos, <i>h</i>. ANTH. <i>7, 445</i>.<p><b>Étym</b>. εὖ, στρατός.`

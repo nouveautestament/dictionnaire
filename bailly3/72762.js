@@ -1,0 +1,1 @@
+lar[72762]=`<b>ὀρθο·τομέω-ῶ</b>, ouvrir en droite ligne, SPT. <i>Prov. 11, 5 ; fig</i>. NT. <i>2Tim. 2, 15</i>.<p><b>Étym</b>. ὀ. -τομος <i>de</i> τέμνω.`

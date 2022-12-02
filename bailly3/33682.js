@@ -1,0 +1,1 @@
+lar[33682]=`<b>ἐμ·φιλοκαλέω-ῶ</b> <font color="purple">[ῐᾰ]</font> chercher à s’illustrer dans, <i>dat</i>. PLUT. <i>M. 122e, etc</i>.<p><b>Étym</b>. ἐν, φ.`

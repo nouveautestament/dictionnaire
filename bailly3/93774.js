@@ -1,0 +1,1 @@
+lar[93774]=`<b>συλ·λήγω :<br>      1</b> finir, <i>càd</i>. périr avec, <i>dat</i>. ANTH. <i>7, 585</i>.<br><b>      2</b> se terminer de la même façon, avoir la même désinence, DYSC. <i>Synt. 168, 13</i>.`

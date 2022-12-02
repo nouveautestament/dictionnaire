@@ -1,0 +1,1 @@
+lar[76430]=`<b>ης (ἡ) :<br>      1</b> déraison, démence, folie, HPC. <i>Aph. 1244</i> ; PLAT. <i>Soph. 228d.</i><br><b>      2</b> délire, HPC. <i>Aph. 1258d</i>.<p><b>Étym</b>. παράφρων.`

@@ -1,0 +1,1 @@
+lar[6545]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> jaillissement d’une source, ARSTT. <i>Mund. 4, 34</i>.<p><b>Étym</b>. ἀναβλύω.`

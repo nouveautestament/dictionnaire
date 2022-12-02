@@ -1,0 +1,1 @@
+lar[9541]=`<b>ἀντ·εγγράφω</b>, inscrire en remplacement, DÉM. <i>792, 3</i>.`

@@ -1,0 +1,1 @@
+lar[100319]=`<b>α, ον</b>, de Triopas <i>ou</i> Triope, ANTH. <i>App. 50, 6</i>.<p>➳ <i>Fém</i>. -ος, ANTH. <i>App. 50, 39</i>.<p><b>Étym</b>. Τρίοψ ; <i>cf</i>. Τριόπας.`

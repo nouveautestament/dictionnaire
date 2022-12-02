@@ -1,0 +1,1 @@
+lar[19065]=`<b>βαρβαρό·θυμος, ος, ον</b> <font color="purple">[ᾰρο ῡ]</font> d’un cœur <i>ou</i> d’un esprit barbare, SIB. <i>3, 332</i>.<p><b>Étym</b>. β. θυμός.`

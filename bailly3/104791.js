@@ -1,0 +1,1 @@
+lar[104791]=`<b>(ὁ)</b> <i>indécl</i>. Phaménôph, <i>mois égyptien,</i> ANTH. <i>App. 392</i>.`

@@ -1,0 +1,1 @@
+lar[12257]=`<b>εως (ἡ)</b> action de recevoir, M. ANT. <i>10, 8</i>.<p><b>Étym</b>. ἀποδέχομαι.`

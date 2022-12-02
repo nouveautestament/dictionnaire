@@ -1,0 +1,1 @@
+lar[1894]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> petit rossignol, THCR. <i>Idyl. 15, 121</i>.<p><b>Étym</b>. ἀηδών.`

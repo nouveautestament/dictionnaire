@@ -1,0 +1,1 @@
+lar[50196]=`<b>ου (τὸ)</b> <i>sorte de</i> plante, GAL. <i>13, 183</i>.`

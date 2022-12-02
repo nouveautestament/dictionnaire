@@ -1,0 +1,1 @@
+lar[48827]=`<b>ἰκμό·βωλον, ου (τὸ)</b> bloc de terre glaise, DIOSC. <i>2, 123</i>.<p><b>Étym</b>. ἰκμάς, βῶλος.`

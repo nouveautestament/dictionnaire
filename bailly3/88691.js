@@ -1,0 +1,1 @@
+lar[88691]=`<b>ῥοδο·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> aux doigts de roses, <i>ép. d’Éos,</i> IL. <i>6, 175</i> ; OD. <i>2, 1 ; d’Aphrodite,</i> COL. <i>98</i>.<p><b>Étym</b>. ῥόδον, δ.`

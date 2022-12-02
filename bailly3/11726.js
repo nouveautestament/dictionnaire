@@ -1,0 +1,1 @@
+lar[11726]=`<b>ἀπεραντο·λόγος, ος, ον</b>, qui bavarde sans fin, THALÈS (DL. <i>1, 35</i>) ; PHIL. <i>1, 216, etc</i>.<p><b>Étym</b>. ἀπέραντος, λέγω.`

@@ -1,0 +1,1 @@
+lar[56662]=`<b>ῆς (ἡ)</b> vêtement court sans manches, ARTÉM. <i>2, 3</i>.`

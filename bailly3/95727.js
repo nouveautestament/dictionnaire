@@ -1,0 +1,1 @@
+lar[95727]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> maison de force pour les esclaves (<i>lat</i>. ergastulum) DS. <i>20, 13</i>.<p><b>Étym</b>. συνεργάζομαι.`

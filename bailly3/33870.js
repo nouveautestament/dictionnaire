@@ -1,0 +1,1 @@
+lar[33870]=`<b>ἐν·αμπέχομαι</b> <font color="darkgreen">(<i>f</i>. -αμφέξομαι)</font> s’envelopper de, <i>acc</i>. PHIL. <i>1, 635</i>.`

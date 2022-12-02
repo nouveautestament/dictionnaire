@@ -1,0 +1,1 @@
+lar[56766]=`<b>ῳοῦ (ὁ)</b> criaillerie, tumulte, IL. <i>1, 575</i> ; A.RH. <i>1, 1284</i>.`

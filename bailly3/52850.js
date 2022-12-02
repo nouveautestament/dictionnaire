@@ -1,0 +1,1 @@
+lar[52850]=`<b>κατα·μισθοφορέω-ῶ</b>, solder <i>ou</i> salarier (des citoyens), AR. <i>Eq. 1352</i> ; ESCHN. <i>45, 27</i> ; THPP. (ATH. <i>166e</i>).`

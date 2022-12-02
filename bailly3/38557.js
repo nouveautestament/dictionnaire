@@ -1,0 +1,1 @@
+lar[38557]=`<b>ἐπι·νυστάζω</b>, laisser tomber sa tête de sommeil sur, <i>dat</i>. PLUT. <i>Brut. 36</i> ; LUC. <i>Bis acc. 2</i> ; SPT. <i>Prov. 6, 4</i>.`

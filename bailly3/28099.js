@@ -1,0 +1,1 @@
+lar[28099]=`<i>3 sg. sbj. prés. de</i> δύνω <i>ou 2 sg. sbj. prés. de</i> δύναμαι.`

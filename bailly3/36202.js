@@ -1,0 +1,1 @@
+lar[36202]=`<b>ἐξ·οροθύνω</b>, exciter, troubler, STASIN. (ATH. <i>334c</i>) ; Q. SM. <i>2, 431</i>.`

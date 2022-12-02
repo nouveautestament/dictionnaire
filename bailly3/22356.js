@@ -1,0 +1,1 @@
+lar[22356]=`<i>adv</i>., de façon à être connu, clairement, distinctement, SPT. <i>Ex. 33, 13, Prov. 27, 23</i>.`

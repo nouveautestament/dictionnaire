@@ -1,0 +1,1 @@
+lar[65358]=`<b>ος, ον</b>, de mouton, de brebis, HDT. <i>1, 119</i> ; EUR. <i>El. 92, etc.</i> ; HPC. <i>574, 18, etc</i>.<p><b>Étym</b>. μῆλον¹.`

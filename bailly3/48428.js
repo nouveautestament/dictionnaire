@@ -1,0 +1,1 @@
+lar[48428]=`<b>ἰδιο·πρόσωπος, ος, ον</b> <font color="purple">[ῐδ]</font> qui a un aspect particulier, PTOL. <i>Tetr. p. 50</i>.<p><b>Étym</b>. ἴδ. πρόσωπον.`

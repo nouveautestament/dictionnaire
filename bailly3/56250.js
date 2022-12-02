@@ -1,0 +1,1 @@
+lar[56250]=`<b>ης, ες</b>, roussâtre, roux, fauve, TH. <i>H.P. 1, 11, 3</i>.<p><b>Étym</b>. κνῆκος, -ωδης.`

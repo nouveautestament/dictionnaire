@@ -1,0 +1,1 @@
+lar[20190]=`<b>βοο·ρραίστης, ου (ὁ)</b> qui assomme les bœufs, TRIPHIOD. <i>361</i>.<p><b>Étym</b>. βοῦς, ῥαίω.`

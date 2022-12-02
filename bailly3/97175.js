@@ -1,0 +1,1 @@
+lar[97175]=`<b>σωματεμπορέω-ῶ</b> <font color="purple">[ᾰ]</font> faire le commerce <i>ou</i> la traite des esclaves, STR. <i>669</i>.<p><b>Étym</b>. σωματέμπορος.`

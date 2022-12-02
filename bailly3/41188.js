@@ -1,0 +1,1 @@
+lar[41188]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> foyer, autel, THCR. <i>Idyl. 24, 48</i> ; ANTH. <i>7, 648</i>.<p><b>Étym</b>. ἐσχάρα.`

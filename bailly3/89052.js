@@ -1,0 +1,1 @@
+lar[89052]=`<b>ή, όν</b> <font color="purple">[βᾰ]</font><br><b>      1</b> qui concerne le sabbat, sabbatique, JOS. <i>A.J. 14, 10, 6</i>.<br><b>      2</b> qui concerne un Juif, ANTH. <i>5, 160</i>.<p><b>Étym</b>. σάββατον.`

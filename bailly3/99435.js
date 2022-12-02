@@ -1,0 +1,1 @@
+lar[99435]=`patiemment, courageusement, PHIL. <i>1, 112 ; 2, 163</i>.`

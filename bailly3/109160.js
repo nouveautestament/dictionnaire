@@ -1,0 +1,1 @@
+lar[109160]=`<b>χρυσό·γεως, ως, ων</b> <font color="purple">[ῡ]</font> dont le sol est riche en or, PHILSTR. <i>229</i>.<p><b>Étym</b>. χρ. γῆ.`

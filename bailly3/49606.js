@@ -1,0 +1,1 @@
+lar[49606]=`<b>ἰσο·βαθής, ής, ές</b> <font color="purple">[ῑ̆ᾰ]</font> également profond, ORIB. <i>p. 90, 26 Cocch</i>.<p><b>Étym</b>. ἴσος, βάθος.`

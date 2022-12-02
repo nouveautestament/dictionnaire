@@ -1,0 +1,1 @@
+lar[65544]=`<b>μητρο·γαμία, ας (ἡ)</b> <font color="purple">[γᾰ]</font> mariage avec sa propre mère, CHRYS. <i>4, 403</i>.<p><b>Étym</b>. μ. γάμος.`

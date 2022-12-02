@@ -1,0 +1,1 @@
+lar[35043]=`vider (un poisson) ARCHIPP. (ATH. <i>311f</i>).<p><b>Étym</b>. ἔντερον.`

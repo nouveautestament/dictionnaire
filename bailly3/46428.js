@@ -1,0 +1,1 @@
+lar[46428]=`<b>θεατρο·ειδής, ής, ές</b> <font color="purple">[ᾱ]</font> semblable à un théâtre, DS. <i>19, 45</i> ; STR. <i>179</i>.<p><b>Étym</b>. θ. εἶδος.`

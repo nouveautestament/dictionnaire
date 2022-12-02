@@ -1,0 +1,1 @@
+lar[96424]=`<b>συν·υπολαμβάνω</b>, soulever <i>ou</i> soutenir ensemble, GEOP. <i>15, 3, 8</i>.`

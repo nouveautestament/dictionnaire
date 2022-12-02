@@ -1,0 +1,1 @@
+lar[15387]=`<b>ἀρτι·φαής, ής, ές</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> qui vient de recouvrer la vue, NONN. <i>Jo. 9, 88</i>.<br><b>      2</b> qui brille d’un éclat récent, NONN. <i>D. 5, 165</i>.<p><b>Étym</b>. ἄ. φάος.`

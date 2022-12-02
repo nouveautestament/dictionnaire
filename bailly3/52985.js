@@ -1,0 +1,1 @@
+lar[52985]=`<b>κατα·παίζω</b>, se jouer de, se moquer de, <i>gén</i>. AR. <i>fr. 212</i> ; ANTH. <i>5, 40 ; acc</i>. DL. <i>2, 136</i>.`

@@ -1,0 +1,1 @@
+lar[3696]=`<font color="purple">[ῑ]</font> <i>c</i>. ἀκριβόω, SEXT. <i>M. 1, 71</i>.<p><b>Étym</b>. ἀκριβής.`

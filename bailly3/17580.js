@@ -1,0 +1,1 @@
+lar[17580]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. αὐτομάτην CHRYS.`

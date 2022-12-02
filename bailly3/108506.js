@@ -1,0 +1,1 @@
+lar[108506]=`<b>χιονό·βοσκος, ος, ον</b>, nourri par la neige, <i>càd</i>. dont la neige entretient la fraîcheur, <i>ép. d’une prairie,</i> ESCHL. <i>Suppl. 560</i>.<p><b>Étym</b>. χ. βόσκω.`

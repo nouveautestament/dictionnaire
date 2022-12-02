@@ -1,0 +1,1 @@
+lar[2127]=`<b>ἀθυρό·γλωττος, ος, ον</b> <font color="purple">[ῠ]</font> d’une langue sans frein, EUR. <i>Or. 903</i> ; A. PL. <i>4, 132</i>.<p><b>Étym</b>. ἄθυρος, γλῶττα.`

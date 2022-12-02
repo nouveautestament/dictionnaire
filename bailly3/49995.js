@@ -1,0 +1,1 @@
+lar[49995]=`<b>ίδος</b>, <i>adj. f. c</i>. Ἰτωνιάς.<p>➳ <font color="purple">[ῑτ]</font> A.RH. <i>1, 551</i> ; <font color="purple">[ῐτ]</font> ANTH. <i>6, 130</i>.`

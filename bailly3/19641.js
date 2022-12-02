@@ -1,0 +1,1 @@
+lar[19641]=`<i>adv</i>., vers le dème Bèsa, <i>avec mouv</i>. IS. ; CIA. <i>2, 782, 10 (commenc. du 4<sup>e</sup> siècle av. J.-C.)</i>.<p><b>Étym</b>. βῆσα, -ζε.`

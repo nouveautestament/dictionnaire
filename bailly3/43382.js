@@ -1,0 +1,1 @@
+lar[43382]=`<b>εὔ·ρωστος, ος, ον</b>, fort, robuste, vigoureux, XÉN. <i>Hell. 4, 3, 6 ; 6, 1, 6 ; Œc. 6, 9, etc. ; au mor</i>. XÉN. <i>Hell. 3, 3, 5</i> ; ARSTT. <i>Physiogn. 6, 4</i> ; PLUT. <i>M. 597e</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>H.A. 10, 5 ; • Sup</i>. -ότατος, XÉN. <i>Œc. 6, 9</i>.<p><b>Étym</b>. εὖ, ῥώννυμι.`

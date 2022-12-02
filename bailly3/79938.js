@@ -1,0 +1,1 @@
+lar[79938]=`<b>ων (οἱ)</b> les habitants du Picénum, <i>en Italie,</i> ARSTT. <i>Mir. 112</i>.`

@@ -1,0 +1,1 @@
+lar[21939]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. γηραιός, ANTH. <i>App. 147</i>.`

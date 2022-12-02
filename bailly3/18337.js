@@ -1,0 +1,1 @@
+lar[18337]=`<b>ἀ·φώνητος, ος, ον</b>, sans voix, muet, SOPH. <i>O.C. 1283 ; en parl. de choses,</i> (douleur, infortune, <i>etc</i>.), PD. <i>P. 4, 237</i> ; NONN. <i>D. 13, 10, etc</i>. CHRIST. <i>Ecphr. 44, 256</i>.<p><b>Étym</b>. ἀ, φωνέω.`

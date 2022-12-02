@@ -1,0 +1,1 @@
+lar[71707]=`<b>ὁμο·ταχής, ής, ές</b> <font color="purple">[ᾰ]</font> aussi rapide, ARSTT. <i>Cæl. 2, 7</i> ; STR. <i>97, 110</i>.<p><b>Étym</b>. ὁμ. τάχος.`

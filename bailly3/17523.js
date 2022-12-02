@@ -1,0 +1,1 @@
+lar[17523]=`<b>αὐτο·κίνησις, εως (ἡ)</b> <font color="purple">[κῑ]</font> mouvement spontané <i>ou</i> volontaire, ARSTT. <i>Phys. 8, 9, 10</i>.`

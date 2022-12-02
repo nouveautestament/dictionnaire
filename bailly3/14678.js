@@ -1,0 +1,1 @@
+lar[14678]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui a envie de dîner, EUP. <i>130 Kock</i>.<p><b>Étym</b>. ἀριστάω.`

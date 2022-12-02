@@ -1,0 +1,1 @@
+lar[6377]=`<b>(ὁ)</b> Amphistrée, <i>h</i>. ESCHL. <i>Pers. 320</i>.`

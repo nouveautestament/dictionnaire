@@ -1,0 +1,1 @@
+lar[4866]=`conserver dans la saumure, DIOSC. <i>1, 172 ; 2, 134</i>.<p><b>Étym</b>. ἅλμη.`

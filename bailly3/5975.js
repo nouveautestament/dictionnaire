@@ -1,0 +1,1 @@
+lar[5975]=`<i>en compos</i>. :<br><b>      1</b> <i>p</i>. ἀμφί <i>dev. une voy</i>. (<i>v</i>. ἀμφέπω, <i>etc</i>.).<br><b>      2</b> <i>contract. poét. p</i>. ἀναφ- (<i>v</i>. ἀμφαίνω, <i>etc</i>.) ; <i>cf</i>. ἀμπ-.`

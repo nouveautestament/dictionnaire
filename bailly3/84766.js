@@ -1,0 +1,1 @@
+lar[84766]=`<b>προ·νεύω</b>, se pencher <i>ou</i> être penché en avant, <i>avec</i> εἰς <i>et l’acc</i>. PLAT. <i>Euthyd. 274b ; abs. en parl. d’un cavalier,</i> XÉN. <i>Eq. 8, 7 ; de rameurs,</i> XÉN. <i>Œc. 8, 8 ; de cornes,</i> ARSTT. <i>H.A. 9, 5, 6, etc</i>.`

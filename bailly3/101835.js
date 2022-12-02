@@ -1,0 +1,1 @@
+lar[101835]=`<b>ας (ἡ) :<br>      1</b> chant d’hymnes <i>ou</i> d’un hymne, chant, EUR. <i>Hel. 1434</i>.<br><b>      2</b> hymne, poème lyrique, <i>au plur</i>. LUC. <i>Philopatr. 26</i> ; ARTÉM. <i>1, 56</i> ; PHALAR. <i>Ep. 53, p. 268</i>.<br><b>      3</b> oracle, EUR. <i>Ion 682</i>.<p><b>Étym</b>. ὑμνῳδός.`

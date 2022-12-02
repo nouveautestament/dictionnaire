@@ -1,0 +1,1 @@
+lar[37207]=`<b>ἐπ·ευθύνω</b> <font color="purple">[ῡν]</font> diriger :<br><b>      1</b> <i>au propre,</i> XÉN. <i>Cyn. 5, 32</i> ; PLUT. <i>M. 980f.</i><br><b>      2</b> <i>fig</i>. ESCHL. <i>Pers. 860</i> ; PLUT. <i>M. 790f, 975f</i>.`

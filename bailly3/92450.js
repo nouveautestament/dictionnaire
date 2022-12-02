@@ -1,0 +1,1 @@
+lar[92450]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de se frapper la poitrine, LUC. <i>Luct. 19</i> ; PHIL. <i>2, 579</i>.<p><b>Étym</b>. στερνοτυπής.`

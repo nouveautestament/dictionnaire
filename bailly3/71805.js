@@ -1,0 +1,1 @@
+lar[71805]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> relevé <i>ou</i> bombé dans son milieu comme un nombril, IL. <i>6, 118, etc.</i> ; TYRT. (STOB. <i>Fl. 51, 25</i>) ; AR. <i>Pax 1274, 1278</i>.<br><b>      2</b> situé au centre du ciel, <i>càd</i>. au pôle, <i>en parl. de la constellation de l’Ourse,</i> NIC. <i>Al. 7</i>.<p><b>Étym</b>. ὀμφαλός.`

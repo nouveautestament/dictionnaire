@@ -1,0 +1,1 @@
+lar[60683]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. λεχώ NONN. <i>D. 48, 848, etc</i>.`

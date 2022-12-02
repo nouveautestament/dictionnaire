@@ -1,0 +1,1 @@
+lar[93722]=`<b>ου (ὁ)</b> <font color="purple">[ῡᾱ]</font> le vent de la calomnie, <i>formé par analog. avec</i> καικίας, <i>etc</i>. AR. <i>Eq. 437</i>.<p><b>Étym</b>. συκοφάντης.`

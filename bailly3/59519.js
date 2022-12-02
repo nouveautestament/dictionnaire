@@ -1,0 +1,1 @@
+lar[59519]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> courtisane, ARISTÉN. <i>2, 16</i>.<p><b>Étym</b>. λαικάζω.`

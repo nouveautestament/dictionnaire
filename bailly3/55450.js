@@ -1,0 +1,1 @@
+lar[55450]=`<b>ης</b> <font color="purple">[κῐ]</font> <i>adj. f</i>. de Cilicie, ESCHL. <i>Ch. 732</i> ; HDT. <i>8, 14</i> ; XÉN. <i>An. 1, 2, 12</i>.<p><b>Étym</b>. Κίλιξ.`

@@ -1,0 +1,1 @@
+lar[19890]=`<i>adv</i>., d’une manière diffamatoire <i>ou</i> injurieuse, APP. <i>Civ. 2, 126</i> ; PHILSTR. <i>V. Ap. 4, 19</i>.`

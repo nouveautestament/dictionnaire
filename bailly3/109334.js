@@ -1,0 +1,1 @@
+lar[109334]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> couleur ANTH. <i>11, 423 ; fig. en parl. du style,</i> APSIN. (<i>W. 9, 512</i>).<p><b>Étym</b>. <i>dim. de</i> χρῶμα.`

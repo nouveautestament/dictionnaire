@@ -1,0 +1,1 @@
+lar[93226]=`<b>συγ·καθαγίζω</b> <font color="purple">[ᾰᾰ]</font> consacrer ensemble, PLUT. <i>Æmil. 24, M. 141e</i>.`

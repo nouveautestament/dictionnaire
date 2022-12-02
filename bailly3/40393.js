@@ -1,0 +1,1 @@
+lar[40393]=`<b>ἐρι·αχθής, ής, ές</b>, qui porte un lourd fardeau, MAX. <i>π. κατ. 520</i>.<p><b>Étym</b>. ἐρι-, ἄχθος.`

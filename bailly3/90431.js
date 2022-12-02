@@ -1,0 +1,1 @@
+lar[90431]=`<b>ου (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. σιπύη, POÈT. (LUC. <i>Alex. 25</i>).`

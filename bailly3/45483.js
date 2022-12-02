@@ -1,0 +1,1 @@
+lar[45483]=`<b>ἡμι·μέδιμνον, ου (τὸ)</b> <font color="purple">[μῐ]</font> demi-médimne, DÉM. <i>1278, 22</i> ; DICÉARQ. (ATH. <i>141c</i>).<p><b>Étym</b>. ἡμι-, μέδιμνος.`

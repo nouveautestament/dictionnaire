@@ -1,0 +1,1 @@
+lar[49795]=`<b>ἰσό·χωρος, ος, ον</b> <font color="purple">[ῑ̆]</font> <i>c</i>. ἰσόχρονος, <i>t. de gramm</i>. PLUT. <i>M. 1284b</i>.<p><b>Étym</b>. ἴ. χώρα.`

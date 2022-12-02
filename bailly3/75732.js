@@ -1,0 +1,1 @@
+lar[75732]=`<b>ή, όν</b> <font color="purple">[κῑ]</font> qui a l’esprit dérangé, PLUT. (EUS. <i>P.E. 563d</i>) ; PHIL. <i>2, 477</i>.<p><b>Étym</b>. παρακινέω.`

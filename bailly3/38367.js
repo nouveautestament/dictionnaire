@@ -1,0 +1,1 @@
+lar[38367]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> témoignage à l’appui, confirmation, EPIC. (DL. <i>10, 147).</i><p><b>Étym</b>. ἐπιμαρτυρέω.`

@@ -1,0 +1,1 @@
+lar[83597]=`<b>προ·ανέλκω</b>, tirer d’abord en haut, PLUT. <i>M. 905c</i>.`

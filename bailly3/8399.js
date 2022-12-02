@@ -1,0 +1,1 @@
+lar[8399]=`<i>adv</i>., insensiblement, HIPPIATR. <i>p. 137</i> ; CHRYS. <i>7, 244 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[2766]=`<b>αἰολο·πτέρυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> aux ailes rapides, TÉLEST. (ATH. <i>617a</i>).<p><b>Étym</b>. αἰ. πτέρυξ.`

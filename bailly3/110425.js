@@ -1,0 +1,1 @@
+lar[110425]=`<b>η, ον</b> <font color="purple">[ῐκ]</font> <i>c</i>. Ὠρίκιος CALL. <i>fr. 43 Bgk</i>.`

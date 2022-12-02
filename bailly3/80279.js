@@ -1,0 +1,1 @@
+lar[80279]=`<b>πικρό·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> dont les noces <i>ou</i> l’hymen sont amers, OD. <i>1, 266 ; 4, 346 ; 12, 13</i>.<p><b>Étym</b>. π. γάμος.`

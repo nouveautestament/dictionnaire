@@ -1,0 +1,1 @@
+lar[52774]=`<b>κατα·λυπέω-ῶ</b> <font color="purple">[ῡ]</font> accabler de chagrin, BAS. <i>3, 305c Migne</i>.`

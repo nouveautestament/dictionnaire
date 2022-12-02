@@ -1,0 +1,1 @@
+lar[52806]=`<b>κατα·μάχομαι</b> <font color="darkgreen">(<i>ao</i>. κατεμαχεσάμην, <i>pf</i>. καταμεμάχημαι)</font> <font color="purple">[μᾰ]</font> vaincre dans un combat, PAUS. <i>6, 11, 2</i> ; DS. <i>3, 47</i> ; PLUT. <i>Flam. 3</i>.`

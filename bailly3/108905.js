@@ -1,0 +1,1 @@
+lar[108905]=`<b>οῦ (ὁ)</b> hennissement, AR. <i>Eq. 553</i> ; DH. <i>Comp. 16 ; au plur</i>. PLUT. <i>M. 902b</i>.<p><b>Étym</b>. χρεμετίζω.`

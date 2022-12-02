@@ -1,0 +1,1 @@
+lar[89444]=`<b>σαρκο·λάβος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σαρκολαβίς ORIB. <i>41 Mai</i>.`

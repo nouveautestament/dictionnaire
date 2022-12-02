@@ -1,0 +1,1 @@
+lar[43518]=`<b>ας (ἡ)</b> conscience pure, CLÉM. <i>797</i>.<p><b>Étym</b>. εὐσυνείδητος.`

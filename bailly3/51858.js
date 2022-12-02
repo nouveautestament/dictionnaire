@@ -1,0 +1,1 @@
+lar[51858]=`<b>ου (τὸ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> <i>au pl</i>. κάρπασα, ων (τὰ) <i>c</i>. κάρπασος 1, ANTH. <i>9, 415</i>.<br><b>      2</b> <i>au sg</i>. ORPH. <i>Arg. 925, c</i>. κάρπασος 2.`

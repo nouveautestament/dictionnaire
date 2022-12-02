@@ -1,0 +1,1 @@
+lar[96862]=`<b>ου (τὸ)</b> cellule <i>ou</i> rayon d’un gâteau de miel, ARSTT. <i>H.A. 9, 41, 6</i> ; TH. <i>H.P. 4, 8, 7</i> ; EL. <i>N.A. 3, 49</i>.<p><b>Étym</b>. σφήξ.`

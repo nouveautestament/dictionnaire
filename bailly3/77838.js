@@ -1,0 +1,1 @@
+lar[77838]=`<font color="purple">[ᾱ]</font> <i>adv. dor</i>. dans la langue du Péloponnèse, THCR. <i>Idyl. 15, 92</i>.<p><b>Étym</b>. Πελοποννήσιος.`

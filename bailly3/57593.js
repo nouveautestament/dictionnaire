@@ -1,0 +1,1 @@
+lar[57593]=`<b>ας (ἡ)</b> la Krastônie, <i>pays des Bisaltes,</i> ARSTT. <i>Mir. 122</i>.`

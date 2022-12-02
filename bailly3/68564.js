@@ -1,0 +1,1 @@
+lar[68564]=`<b>νή·οχος, ος, ον</b>, qui maintient le navire, ANTH. <i>7, 636</i>.`

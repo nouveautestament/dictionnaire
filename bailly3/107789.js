@@ -1,0 +1,1 @@
+lar[107789]=`<b>χαμαι·πλάτανος, ου (ἡ)</b> <font color="purple">[ᾰᾰ]</font> platane nain, PLIN. <i>H.N. 12, 6</i>.`

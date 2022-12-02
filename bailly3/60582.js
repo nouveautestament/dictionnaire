@@ -1,0 +1,1 @@
+lar[60582]=`<b>λευκο·μαινίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> anchois blanc, <i>poisson,</i> POLIOCH. (ATH. <i>313c</i>).`

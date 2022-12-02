@@ -1,0 +1,1 @@
+lar[77592]=`<b>πεζο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ressemble à de la prose, RHÉT. (<i>W. 5, 472).</i><p><b>Étym</b>. πεζός, φαίνω.`

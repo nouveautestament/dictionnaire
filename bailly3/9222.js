@@ -1,0 +1,1 @@
+lar[9222]=`<b>ἄν·οικτος, ος, ον</b>, sans pitié, impitoyable, EUR. <i>Tr. 782</i> ; AR. <i>Th. 1022</i>.<p><b>Étym</b>. ἀν-, οἶκτος.`

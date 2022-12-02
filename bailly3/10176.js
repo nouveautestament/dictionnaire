@@ -1,0 +1,1 @@
+lar[10176]=`<b>εως (ἡ)</b> mise en opposition, contraste, JOS. <i>c. Ap. 2, 33</i> ; DYSC. <i>Pron. 406b, etc</i>.<p><b>Étym</b>. ἀντιπαρατίθημι.`

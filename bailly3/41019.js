@@ -1,0 +1,1 @@
+lar[41019]=`<i>adv</i>., d’une manière voilée, ORIG. <i>4, 485b etc Migne</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> σκεπάζω.`

@@ -1,0 +1,1 @@
+lar[109576]=`<i>voc</i>. <b>Ψαπφοί (ἡ)</b> <i>éol. c</i>. Σαπφώ, SAPPH. <i>fr. 59 Bgk</i> ; ALC. <i>55</i>.<p>➳ Ψάπφ', <i>par élis</i>. SAPPH. <i>1, 20</i>.`

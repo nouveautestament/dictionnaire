@@ -1,0 +1,1 @@
+lar[65431]=`<b>ίδος (ἡ)</b> sonde de chirurgien, GAL. <i>19, 85</i>.<p><b>Étym</b>. μηλόω.`

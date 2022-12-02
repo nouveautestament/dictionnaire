@@ -1,0 +1,1 @@
+lar[67972]=`<i>adv.</i> :<br><b>      1</b> au fond, HÉS. <i>Th. 567 ; avec le gén</i>. au fond de, IL. <i>21, 317</i>.<br><b>      2</b> <i>p. suite,</i> sous, <i>avec le gén</i>. ARAT. <i>89</i> ; A.RH. <i>1, 63, 990</i>.<p>➳ <i>Avec élis</i>. νείοθ', NIC. <i>Al. 520</i>.<p><b>Étym</b>. <i>ion. c</i>. νεόθι.`

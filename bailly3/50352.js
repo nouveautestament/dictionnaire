@@ -1,0 +1,1 @@
+lar[50352]=`<i>adv</i>., d’une manière posée, <i>càd</i>. régulière, solide, assurée, ARSTT. <i>Pol. 8, 5</i>.<p><b>Étym</b>. καθεστηκώς.`

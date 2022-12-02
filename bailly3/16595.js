@@ -1,0 +1,1 @@
+lar[16595]=`<b>ἀ·σφράγιστος, ος, ον</b> <font color="purple">[ᾱγ]</font><br><b>      1</b> non marqué d’un sceau, non scellé, CHRYS. BAS.<br><b>      2</b> <i>part</i>. non marqué du sceau du baptême, non baptisé, NAZ.<p><b>Étym</b>. ἀ, σφραγίζω.`

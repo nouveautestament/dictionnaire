@@ -1,0 +1,1 @@
+lar[35659]=`<b>ἐξ·αυτῆς</b>, <i>adv. p</i>. ἐξ αὐτῆς (<i>s.-e</i>. τῆς ὁδοῦ) à l’heure même, sur-le-champ, THGN. <i>231</i> ; ARAT. <i>641</i> ; POL. <i>2, 7, 7, etc</i>.`

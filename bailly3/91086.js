@@ -1,0 +1,1 @@
+lar[91086]=`<b>ατος (τὸ)</b> courbure, obliquité, STR. <i>167, 193</i>.<p><b>Étym</b>. σκολιόω.`

@@ -1,0 +1,1 @@
+lar[54620]=`<b>ης (ἡ)</b> sorte de coupe, vase à boire, ANACR. <i>42</i>.`

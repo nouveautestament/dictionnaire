@@ -1,0 +1,1 @@
+lar[76726]=`<b>παρ·εξαγωγή, ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> action de conduire dehors, de transporter, ARTÉM. <i>5, 13</i>.<p><b>Étym</b>. π. ἐξαγωγή.`

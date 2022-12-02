@@ -1,0 +1,1 @@
+lar[58152]=`<b>εος-ους (τὸ) :<br>      1</b> froid glacial, froid, HÉS. <i>O. 492</i> ; PLAT. <i>Ax. 368c ;</i> ARSTT. <i>Meteor. 2, 8, 18</i> ; LUC. <i>Lex. 2, etc.</i><br><b>      2</b> <i>fig</i>. frisson de crainte, ESCHL. <i>Sept. 834, Eum. 161</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *kreus-, frissonner <i>ou</i> R. *kruh₂-, sanglant.`

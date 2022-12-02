@@ -1,0 +1,1 @@
+lar[81836]=`<b>πολυ·δέκτης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. qui reçoit une grande foule, <i>ép. d’Hadès,</i> HH. <i>Cer. 9</i>.<p><b>Étym</b>. π. δέχομαι.`

@@ -1,0 +1,1 @@
+lar[33565]=`<i>adv</i>., avec peine, CHRYS. <i>6, 914</i>.`

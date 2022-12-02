@@ -1,0 +1,1 @@
+lar[35858]=`<b>ης (ἡ)</b> <i>ion</i>. députation ; ἐξεσίην ἐλθεῖν, IL. <i>24, 235</i> ; OD. <i>21, 20,</i> aller en ambassade.<p><b>Étym</b>. ἐξίημι.`

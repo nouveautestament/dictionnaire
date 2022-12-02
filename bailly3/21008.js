@@ -1,0 +1,1 @@
+lar[21008]=`<b>βυκανάω-ῶ</b> <font color="purple">[ῠᾰν]</font> (<i>seul. prés</i>.) sonner de la trompette, POL. <i>6, 35, 12 ; 6, 36, 5 (var</i>. βουκανάω).<p><b>Étym</b>. βυκάνη.`

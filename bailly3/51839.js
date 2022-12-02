@@ -1,0 +1,1 @@
+lar[51839]=`<b>Καρνεο·νῖκαι, ῶν (οἱ)</b> vainqueurs aux jeux des fêtes d’Apollon Karneios, ATH. <i>635e</i>.<p><b>Étym</b>. Κάρνεια, νίκη.`

@@ -1,0 +1,1 @@
+lar[52831]=`<b>ατος (τὸ)</b> mesure, dimension, EPIC. (DL. <i>10, 59).</i><p><b>Étym</b>. καταμετρέω.`

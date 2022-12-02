@@ -1,0 +1,1 @@
+lar[9613]=`<b>ἀντ·εξαιτέω-ῶ</b>, réclamer en échange, PLUT. <i>Alex. 11</i>.`

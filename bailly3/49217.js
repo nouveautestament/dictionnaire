@@ -1,0 +1,1 @@
+lar[49217]=`<b>ης (ἡ) :<br>      1</b> fromage de lait de jument, <i>chez les Scythes,</i> ESCHL. <i>fr. 203</i> ; HPC. <i>Aër. 291</i>.<br><b>      2</b> <i>sorte de plante légumineuse,</i> TH. <i>H.P. 9, 13, 2</i>.<p><b>Étym</b>. ἵππος.`

@@ -1,0 +1,1 @@
+lar[71167]=`<b>εως (ἡ)</b> action de faire une offrande en holocauste, SPT. <i>Gen. 8, 20 ; Lev. 4, 34</i>.<p><b>Étym</b>. ὁλοκαρπόω.`

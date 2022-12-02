@@ -1,0 +1,1 @@
+lar[103114]=`<b>ὑπο·δεής, ής, ές</b>, inférieur, ARSTT. <i>H.A. 9, 40, 5 ; surt. au cp</i>. ὑποδεέστερος, tout à fait inférieur, HDT. <i>1, 91, 134 ; 2, 25</i> ; THC. <i>2, 89, etc.</i> ; τινος, PLAT. <i>Euthyd. 289e ;</i> THC. <i>1, 2</i> ; XÉN. <i>Œc. 13, 8,</i> à qqn <i>ou</i> à qqe ch.<p><b>Étym</b>. ὑ. δέω.`

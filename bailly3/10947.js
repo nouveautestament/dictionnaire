@@ -1,0 +1,1 @@
+lar[10947]=`<b>ἀξιο·σπούδαστος, ος, ον</b>, digne de soin <i>ou</i> de recherche, XÉN. <i>Lac. 10, 3</i> ; PLUT. <i>M. 5c</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>l. c.</i> ; DC. <i>57, 24</i>.<p><b>Étym</b>. ἄ. σπουδάζω.`

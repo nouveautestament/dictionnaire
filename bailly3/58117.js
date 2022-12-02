@@ -1,0 +1,1 @@
+lar[58117]=`<b>οῦ (ὁ)</b> petite source, petit jet d’eau, AQU. <i>Sam. 2, 5, 8</i>.<p><b>Étym</b>. κρουνίζω.`

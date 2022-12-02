@@ -1,0 +1,1 @@
+lar[95642]=`<b>συν·επικρύπτω</b>, cacher ensemble <i>ou</i> en même temps, PLUT. <i>Alc. 28</i>.`

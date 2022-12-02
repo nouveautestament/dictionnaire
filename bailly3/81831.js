@@ -1,0 +1,1 @@
+lar[81831]=`<b>πολυ·δέγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> qui reçoit <i>ou</i> contient une grande foule, LYC. <i>700 ; ép. d’Hadès,</i> HH. <i>Cer. 17, 31</i>.<p><b>Étym</b>. π. δέχομαι.`

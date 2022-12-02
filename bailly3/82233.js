@@ -1,0 +1,1 @@
+lar[82233]=`<b>πολυ·πήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui cause de grands maux, HH. <i>Cer. 230, etc.</i> ; PD. <i>P. 3, 81</i>.<br><b>      2</b> qui souffre beaucoup, MAN. <i>1, 85 ; 4, 49</i>.<p><b>Étym</b>. π. πῆμα.`

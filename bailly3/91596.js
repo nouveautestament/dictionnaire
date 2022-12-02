@@ -1,0 +1,1 @@
+lar[91596]=`<b>ητος (ἡ)</b> nature spongieuse (des poumons, <i>etc</i>.) ARSTT. <i>P.A. 3, 6, 4</i>.<p><b>Étym</b>. σομφός.`

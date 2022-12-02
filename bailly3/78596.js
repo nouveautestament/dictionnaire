@@ -1,0 +1,1 @@
+lar[78596]=`<i>adv</i>., de manière à faire espérer la guérison, HPC. <i>Progn. 43, 45</i>.`

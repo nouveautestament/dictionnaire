@@ -1,0 +1,1 @@
+lar[54356]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kaphauros, <i>h</i>. A.RH. <i>4, 1490, 1496</i>.`

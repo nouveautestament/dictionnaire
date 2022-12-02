@@ -1,0 +1,1 @@
+lar[100596]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐῐδ]</font> oxalide surelle, DIOSC. <i>Par. 2, 58</i>.<p><b>Étym</b>. τρίφυλλος.`

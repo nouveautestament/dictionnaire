@@ -1,0 +1,1 @@
+lar[104942]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Pharos, <i>î. de la baie d’Alexandrie, fameuse par son phare,</i> OD. <i>4, 355</i> ; EUR. <i>Hel. 5</i> ; THC. <i>1, 104</i> ; STR. <i>791, etc. ; d’où</i> ὁ φάρος, ANTH. <i>9, 671 ; 11, 117,</i> phare.`

@@ -1,0 +1,1 @@
+lar[29584]=`<b>ἐγ·καταφυσάω-ῶ</b> <font color="darkgreen">(<i>impér. ao</i>. -φύσησον)</font> <font color="purple">[ῡ]</font> souffler dans <i>ou</i> sur, HIPPIATR. <i>p. 87</i>.<p><b>Étym</b>. ἐν, κ.`

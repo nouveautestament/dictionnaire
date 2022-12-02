@@ -1,0 +1,1 @@
+lar[50616]=`<i>par sync. et assimilat. homér. p</i>. κατ(ά) <i>devant un</i> κ <i>dans</i> κὰκ κεφαλῆς, IL. <i>18, 24</i> ; κὰκ κόρυθα, IL. <i>11, 351</i> ; κὰκ κορυφήν, IL. <i>8, 83</i>.`

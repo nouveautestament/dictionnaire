@@ -1,0 +1,1 @@
+lar[16369]=`<b>Ἀστυ·κράτης (ὁ)</b> <font color="purple">[ᾰτ]</font> Astykratès, <i>h</i>. PAUS. <i>etc</i>.<p><b>Étym</b>. ἄ. κράτος.`

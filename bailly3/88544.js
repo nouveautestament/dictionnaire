@@ -1,0 +1,1 @@
+lar[88544]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>poét. c</i>. ῥίζα, NIC. <i>Al. 403 vulg</i>.`

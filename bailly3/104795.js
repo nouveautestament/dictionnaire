@@ -1,0 +1,1 @@
+lar[104795]=`<b>Φαν·αγόρας</b>, <i>ion</i>. <b>Φαν·αγόρης, εω (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Phanagoras, <i>h</i>. HDT. <i>7, 214</i>.<p><b>Étym</b>. φαίνω, ἀγορά.`

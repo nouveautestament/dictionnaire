@@ -1,0 +1,1 @@
+lar[40204]=`<font color="darkgreen">(<i>seul. 3 sg. impf. épq</i>. ἐέργνυ)</font> enfermer, enclore, OD. <i>10, 238</i>.<p><b>Étym</b>. <i>cf</i>. ἕργω <i>et</i> εἵργω ; <i>dans Hom</i>. ἔργνυμι <i>avec esprit doux</i>.`

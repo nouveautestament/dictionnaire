@@ -1,0 +1,1 @@
+lar[66358]=`<b>μολιβδόω-ῶ</b>, transformer en plomb, <i>au pass</i>. devenir du plomb, DIOSC. <i>5, 109</i>.<p><b>Étym</b>. μόλιβδος.`

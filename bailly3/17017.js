@@ -1,0 +1,1 @@
+lar[17017]=`<font color="purple">[ττᾰ]</font> <i>interj</i>. ah ! hélas ! <i>cri de douleur,</i> SOPH. <i>Ph. 743, etc.</i> ; AR. <i>Ran. 57 ; redoublé,</i> AR. <i>Ach. 1190 ; prolongé en</i> ἀτταταταῖ <i>et</i> ἀτταταίαξ.`

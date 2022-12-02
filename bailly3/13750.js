@@ -1,0 +1,1 @@
+lar[13750]=`<b>ἀπό·φορος, ος, ον</b>, qu’on ne peut supporter, odieux, PHALAR. <i>Ep. 88, p. 254 Valckenaer</i>.<p><b>Étym</b>. ἀποφέρω.`

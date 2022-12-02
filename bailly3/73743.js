@@ -1,0 +1,1 @@
+lar[73743]=`<b>ητος (ἡ)</b> nature de l’οὐσία, JAMBL. <i>Myst. 262, 5</i>.<p><b>Étym</b>. οὐσία.`

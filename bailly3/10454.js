@@ -1,0 +1,1 @@
+lar[10454]=`<b>ῶν (τὰ)</b> chœurs composés de strophes et d’antistrophes dans les drames grecs, GRAMM.<p><b>Étym</b>. ἀντίστροφος.`

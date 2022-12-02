@@ -1,0 +1,1 @@
+lar[13185]=`<b>ἀπο·πυρίς, ίδος (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> poisson qu’on mange grillé, HÉGÉSANDRE (ATH. <i>334e</i>).<br><b>      2</b> <i>c</i>. ἀποπυρίας, TÉLÈS (STOB. <i>Fl. 97, 31).</i><p><b>Étym</b>. ἀπό, πῦρ.`

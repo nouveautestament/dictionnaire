@@ -1,0 +1,1 @@
+lar[50191]=`<b>ης (ἡ)</b> Kabylè (<i>auj</i>. Golowitza) <i>v. de Thrace,</i> DÉM. <i>8, 44 Baiter-Sauppe</i>.`

@@ -1,0 +1,1 @@
+lar[74018]=`<b>ητος (ἡ)</b> maturité tardive, <i>t. de botan</i>. TH. <i>C.P. 4, 11, 9</i>.<p><b>Étym</b>. ὄψιος.`

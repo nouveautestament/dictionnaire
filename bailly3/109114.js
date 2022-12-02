@@ -1,0 +1,1 @@
+lar[109114]=`<b>χρυσεό·νωτος, ος, ον</b> <font color="purple">[ῡ]</font> <i>c</i>. χρυσόνωτος, EUR. (SCH.-EUR. <i>Ph. 1130</i>).`

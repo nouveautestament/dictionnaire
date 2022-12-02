@@ -1,0 +1,1 @@
+lar[74334]=`<b>παιδοφορέω-ῶ</b>, porter, <i>càd</i>. enlever un enfant, <i>en parl. du vent,</i> ANTH. <i>12, 52</i>.<p><b>Étym</b>. π. -φορος <i>de</i> φέρω.`

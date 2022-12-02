@@ -1,0 +1,1 @@
+lar[34928]=`<b>ἐν·σκεδάννυμι</b> (<i>part. ao. pass</i>. ἐνσκεδασθείς) disperser dans, répandre dans, <i>dat</i>. NYSS. <i>1, 26 ; 2, 787</i>.`

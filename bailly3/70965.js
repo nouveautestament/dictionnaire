@@ -1,0 +1,1 @@
+lar[70965]=`<b>ὀλίγ·αιμος, ος, ον</b> <font color="purple">[ῐ]</font> qui a le sang pauvre, HPC. <i>278, 1, etc.</i> ; ARSTT. <i>H.A. 1, 16, etc</i>.<p>•<i> Sup</i>. -ότατος, ARSTT. <i>P.A. 4, 11, 21</i>.<p><b>Étym</b>. ὀλ. αἷμα.`

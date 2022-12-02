@@ -1,0 +1,1 @@
+lar[44586]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> jujubier (<i>Rhamnus jujuba</i> L.) <i>arbre qui produit la jujube</i>, GAL. <i>6, 357</i> ; ORIB. <i>1, 211 B.-Dar.</i> ; GEOP. <i>10, 3, 4</i>.<p><b>Étym</b>. <i>orig. inconnue</i>.`

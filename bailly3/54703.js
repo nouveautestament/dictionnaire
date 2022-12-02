@@ -1,0 +1,1 @@
+lar[54703]=`<b>κενο·κοπέω-ῶ</b>, prendre une peine inutile, CHRYSIPP. (PLUT. <i>M. 1032a</i>).<p><b>Étym</b>. κ. κόπος.`

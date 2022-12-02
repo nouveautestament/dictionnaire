@@ -1,0 +1,1 @@
+lar[66281]=`<b>ή, όν</b>, effronté, insolent, ION (PLUT. <i>Per. 5).</i><p><b>Étym</b>. μόθων.`

@@ -1,0 +1,1 @@
+lar[45407]=`<b>ἡμι·δακτύλιον, ου (τὸ)</b> <font color="purple">[ῐῠ]</font> demi-doigt, PLUT. <i>M. 935d</i>.<p><b>Étym</b>. ἡμι-, δάκτυλος.`

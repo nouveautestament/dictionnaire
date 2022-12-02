@@ -1,0 +1,1 @@
+lar[20398]=`(<i>seul. prés</i>.) sonner de la trompette, SEXT. <i>M. 6, 24</i>.<p><b>Étym</b>. <i>lat</i>. bucina.`

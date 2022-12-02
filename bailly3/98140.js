@@ -1,0 +1,1 @@
+lar[98140]=`<font color="purple">[νῑ]</font> rendre vide <i>ou</i> creux comme Télénikos, CRAT. (<i>Com. fr. 2, 139).</i><p><b>Étym</b>. Τελένικος.`

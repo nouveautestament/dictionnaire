@@ -1,0 +1,1 @@
+lar[867]=`<b>ας (ἡ)</b> nuit passée aux champs, vie en rase campagne, DS. <i>16, 15</i> ; DH. <i>6, 44</i>.<p><b>Étym</b>. ἄγραυλος.`

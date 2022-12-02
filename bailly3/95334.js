@@ -1,0 +1,1 @@
+lar[95334]=`<b>συν·εκδαπανάω-ῶ</b> <font color="purple">[ᾰᾰν]</font> consumer <i>ou</i> épuiser en même temps, GAL. <i>10, 342</i>.`

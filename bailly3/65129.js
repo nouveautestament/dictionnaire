@@ -1,0 +1,1 @@
+lar[65129]=`<b>ας (ἡ) :<br>      1</b> élévation, PHIL. <i>1, 524</i>.<br><b>      2</b> action de regarder en l’air, <i>d’où</i> distraction, étourderie, SUÉT. <i>Claud. 39</i>.<p><b>Étym</b>. μετέωρος.`

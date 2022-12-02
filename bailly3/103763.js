@@ -1,0 +1,1 @@
+lar[103763]=`<b>ὑπ·όρειος, ος, ον</b>, situé au pied d’une montagne, JOS. <i>B.J. 3, 9, 1</i> ; CALLISTR. <i>Stat. p. 906</i>.<p><b>Étym</b>. ὑ. ὄρος.`

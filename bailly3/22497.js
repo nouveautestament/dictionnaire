@@ -1,0 +1,1 @@
+lar[22497]=`<b>Γοργο·φόνος, ου (ὁ)</b> Gorgophonos, <i>h</i>. CHRYSERM. (Ps.-PLUT. <i>Fluv. 18, 7).<p><b>Étym</b>. cf</i>. γοργοφόνος.`

@@ -1,0 +1,1 @@
+lar[24812]=`<b>δια·κονίομαι</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> se rouler dans la poussière, <i>en parl. d’un cheval,</i> HPC. <i>1293, 22</i>.<br><b>      2</b> se frotter de poussière comme les athlètes, <i>d’où</i> se préparer au combat <i>ou</i> à la lutte, PLUT. <i>M. 970f</i>.`

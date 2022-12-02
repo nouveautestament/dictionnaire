@@ -1,0 +1,1 @@
+lar[104168]=`<b>ὑπο·χοινικίς, ίδος (ἡ)</b> <font color="purple">[νῐ]</font> sous-barillet, PHIL. BYZ. <i>Bel. 28</i>.<p><b>Étym</b>. ὑ. χοινικίς.`

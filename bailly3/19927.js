@@ -1,0 +1,1 @@
+lar[19927]=`<b>(ὁ)</b> sorte de poisson, DORION (ATH. <i>306f</i>).`

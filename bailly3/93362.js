@@ -1,0 +1,1 @@
+lar[93362]=`<b>συγκατασκάπτης, ου (ὁ)</b> qui ruine de fond en comble, dévastateur, LYC. <i>222</i>.<p><b>Étym</b>. συγκατασκάπτω.`

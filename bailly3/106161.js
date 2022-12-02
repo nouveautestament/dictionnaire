@@ -1,0 +1,1 @@
+lar[106161]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> mon petit amour ! <i>t. de tendresse,</i> AR. <i>Eccl. 891</i>.<p><b>Étym</b>. <i>poét. p</i>. *φιλοτάριον, <i>dim. de</i> φιλότης.`

@@ -1,0 +1,1 @@
+lar[27062]=`<b>ή, όν</b>, qui marque le doute, <i>en parl. du mode subjonctif,</i> DYSC. <i>Synt. 264 Bkk</i>.<p><b>Étym</b>. διστάζω.`

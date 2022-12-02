@@ -1,0 +1,1 @@
+lar[106575]=`<b>φοινικό·ρυγχος, ος, ον</b> <font color="purple">[ῑ]</font> au bec écarlate, ARSTT. <i>H.A. 9, 24</i>.<p><b>Étym</b>. φ. ῥύγχος.`

@@ -1,0 +1,1 @@
+lar[82583]=`<i>adv</i>., fort longtemps, HPC. <i>Ep. 1282, 6</i>.<p><b>Étym</b>. πολυχρόνιος.`

@@ -1,0 +1,1 @@
+lar[39259]=`<b>ἐπι·συστέλλω</b> (<i>part. pf. pass</i>. ἐπισυνεσταλμένος) resserrer ensemble, contracter, ARSTT. <i>Rhet. 3, 2, 3</i>.`

@@ -1,0 +1,1 @@
+lar[107726]=`<b>Χαλκωδόνιον ὄρος (τὸ)</b> le mt Khalkôdonion, <i>en Thessalie,</i> A.RH. <i>1, 50</i>.`

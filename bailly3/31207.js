@@ -1,0 +1,1 @@
+lar[31207]=`<b>ἐκ·διφρεύω</b> (<i>part. ao. pass</i>. -ευθείς) <font color="purple">[ῐ]</font> renverser d’un char, LUC. <i>D. deor. 25, 3</i>.<p><b>Étym</b>. ἐκ, δίφρος.`

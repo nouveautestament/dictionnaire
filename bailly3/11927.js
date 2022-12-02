@@ -1,0 +1,1 @@
+lar[11927]=`<b>ἀ·πηρής, ής, ές</b>, non endommagé, intact, A.RH. <i>1, 888</i>.<p><b>Étym</b>. ἀ, πηρός.`

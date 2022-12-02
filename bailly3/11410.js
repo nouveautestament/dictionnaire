@@ -1,0 +1,1 @@
+lar[11410]=`<b>ας (ἡ)</b> ce qu’on emporte en partant, bagages, meubles, HIPPON. (POLL. <i>10, 18</i>) ; SPT. <i>Ex. 40, 36 ; Judith 2, 17, etc</i>.`

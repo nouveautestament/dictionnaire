@@ -1,0 +1,1 @@
+lar[35150]=`<b>ἐν·τυλίσσω</b>, <i>att</i>. <b>-ίττω</b> <font color="darkgreen">(<i>ao</i>. ἐνετύλιξα)</font> <font color="purple">[ῠ]</font> envelopper dans, AR. <i>Pl. 692, Nub. 983</i> ; ATH. <i>106f ;</i> NT. <i>Luc. 23, 53</i>.`

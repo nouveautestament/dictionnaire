@@ -1,0 +1,1 @@
+lar[38632]=`<b>ατος (τὸ)</b> ce qu’on répand sur, MOSCHION <i>Mul. pass. 67</i> ; ARÉT. <i>Cur. m. acut. 2, 2</i>.<p><b>Étym</b>. ἐπιπάσσω.`

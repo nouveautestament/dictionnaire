@@ -1,0 +1,1 @@
+lar[80633]=`<b>Πλακουντο·μύων, ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Ronge-gâteaux, <i>n. de parasite,</i> ALCIPHR. <i>3, 67</i>.<p><b>Étym</b>. πλακοῦς, μῦς.`

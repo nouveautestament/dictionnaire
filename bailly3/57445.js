@@ -1,0 +1,1 @@
+lar[57445]=`<b>Κουσσαῖον ἔθνος (τὸ)</b> la population de Koussa, <i>en Médie,</i> PLUT. <i>Alex. 72</i>.`

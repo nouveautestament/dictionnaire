@@ -1,0 +1,1 @@
+lar[71816]=`<b>ῆρος (ὁ)</b> qui rend des oracles, prophète, TRIPHIOD. <i>133</i>.<p><b>Étym</b>. ὀμφή.`

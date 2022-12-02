@@ -1,0 +1,1 @@
+lar[29809]=`<b>ου (τὸ)</b> <i>seul. plur</i>. cavité, profondeur, PLAT. <i>Tim. 78b, c, d</i>.<p><b>Étym</b>. ἔγκυρτος.`

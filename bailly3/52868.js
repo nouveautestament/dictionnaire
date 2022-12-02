@@ -1,0 +1,1 @@
+lar[52868]=`<b>κατ·αμύνομαι</b> <font color="darkgreen">(<i>ao</i>. κατημυνάμην)</font> se venger de, <i>acc</i>. EL. <i>N.A. 5, 11</i>.`

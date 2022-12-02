@@ -1,0 +1,1 @@
+lar[98841]=`<b>ατος (τὸ) :<br>      1</b> œuvre faite avec art, ouvrage d’art, EUR. <i>Or. 1053</i>.<br><b>      2</b> artifice, machination, ruse, EUR. <i>Or. 1560</i> ; AR. <i>Th. 198</i> ; XÉN. <i>Hell. 6, 4, 7</i>.<p><b>Étym</b>. τεχνάζω.`

@@ -1,0 +1,1 @@
+lar[85292]=`<b>προσ·αρκέω-ῶ</b>, venir au secours de, subvenir à : τινι, SOPH. <i>O.R. 141,</i> venir au secours de qqn ; τι, SOPH. <i>O.C. 72,</i> assister en qqe ch. ; <i>abs</i>. EUR. <i>Hec. 862</i>.<br><b><i>Moy.</i></b> se contenter de, <i>avec un part</i>. LGN <i>fr. 5</i>.`

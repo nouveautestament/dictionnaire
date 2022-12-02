@@ -1,0 +1,1 @@
+lar[23220]=`<b>οῦ (ὁ)</b> morsure, <i>d’où</i> démangeaison cuisante, T. LOCR. <i>103a</i>.<p><b>Étym</b>. *δαξάζω, <i>de</i> δάξ.`

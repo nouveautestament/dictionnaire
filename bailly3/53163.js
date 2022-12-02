@@ -1,0 +1,1 @@
+lar[53163]=`<b>κατα·προλείπω</b>, abandonner complètement, A.RH. <i>3, 1164</i>.`

@@ -1,0 +1,1 @@
+lar[25409]=`<b>δια·πυρόω-ῶ</b> <font color="purple">[ῠ]</font> embraser, enflammer, <i>d’où au pass</i>. avoir une soif ardente, SPT. <i>4Macc. 3, 15 ; fig</i>. enflammer (de colère, <i>etc</i>.) PLUT. <i>Phoc. 6</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao</i>. διεπυρωσάμην)</font> embraser, incendier, <i>acc</i>. EUR. <i>Cycl. 694</i>.`

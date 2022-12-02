@@ -1,0 +1,1 @@
+lar[89395]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> de Sardes, AR. <i>Ach. 112, Pax 1174</i>.<p><b>Étym</b>. Σαρδιανός.`

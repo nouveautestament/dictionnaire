@@ -1,0 +1,1 @@
+lar[98402]=`<b>ονος (ὁ)</b> = <i>lat</i>. Terminus, le dieu Terme, <i>à Rome,</i> PLUT. <i>Num. 16</i>.<p><b>Étym</b>. <i>cf</i>. τέρμων.`

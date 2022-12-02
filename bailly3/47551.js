@@ -1,0 +1,1 @@
+lar[47551]=`<b>ου (τὸ)</b> <font color="purple">[ᾱῐδ]</font> <i>dim. de</i> θρανίον AR. <i>fr. 352</i>.`

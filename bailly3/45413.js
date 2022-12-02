@@ -1,0 +1,1 @@
+lar[45413]=`<b>ἡμι·διπλοΐδιον</b>, <i>att</i>. <b>ἡμι·διπλοίδιον, ου (τὸ)</b> <font color="purple">[μῐ]</font> demi-manteau de femme, AR. <i>Eccl. 318</i>.<p><b>Étym</b>. ἡμι-, διπλοΐς.`

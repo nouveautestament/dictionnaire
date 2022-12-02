@@ -1,0 +1,1 @@
+lar[22207]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> ouvrage ciselé <i>ou</i> gravé, ciselure, gravure, DS. <i>5, 44</i> ; PLUT. <i>M. 174d, 355a, 985b.</i><br><b>      2</b> trou fait avec un ciseau, ANON. (SUID. <i>v</i>° καινοπρεπές).<p><b>Étym</b>. γλύφω.`

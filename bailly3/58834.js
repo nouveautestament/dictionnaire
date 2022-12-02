@@ -1,0 +1,1 @@
+lar[58834]=`<b>Κυνόσ·ουρα, ας (ἡ)</b> <font color="purple">[ῠ]</font> Kynosoura, <i>litt</i>. « queue de chien » :<br><b>      1</b> Petite-Ourse, <i>constellation,</i> ARAT. <i>36</i> ; Ps.-ERATOSTH. <i>Cat. 2</i>.<br><b>      2</b> <i>promont. sur la côte est de l’Attique,</i> HDT. <i>8, 76</i>.<p><b>Étym</b>. κυνός, <i>gén. de</i> κύων, οὐρά.`

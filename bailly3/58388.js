@@ -1,0 +1,1 @@
+lar[58388]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de diriger à l’aide d’un gouvernail, PLAT. <i>Rsp. 488b ; fig</i>. PD. <i>P. 10, 112 (dor</i>. κυβερνάσιες <font color="purple">[ᾱ]</font>).<p><b>Étym</b>. κυβερνάω.`

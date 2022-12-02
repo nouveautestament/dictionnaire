@@ -1,0 +1,1 @@
+lar[11426]=`<b>ου (ὁ)</b> commandant, <i>c.</i> ἀρχός I, ESCHL. <i>Pers. 327 (var.</i> ἔπαρχος<i>), Ag. 1227</i>.`

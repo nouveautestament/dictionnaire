@@ -1,0 +1,1 @@
+lar[49006]=`<b>ᾶς (ἡ)</b> <font color="purple">[ῐμ]</font> corde à puits, APD. COM. 1 <i>et</i> ALEX. (ATH. <i>125a, 170c</i>) ; <i>fig</i>. AR. <i>Eccl. 351</i>.<p><b>Étym</b>. <i>cf</i>. ἱμάω.`

@@ -1,0 +1,1 @@
+lar[73357]=`<b>ου (ὁ)</b> bourse des testicules, ARSTT. <i>H.A. 1, 13, 4</i>.`

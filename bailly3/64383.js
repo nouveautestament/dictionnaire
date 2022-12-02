@@ -1,0 +1,1 @@
+lar[64383]=`<b>οῦ (ὁ)</b> qui se préoccupe de, qui médite, <i>gén</i>. EUR. <i>Med. 1226</i>.<p><b>Étym</b>. μεριμνάω.`

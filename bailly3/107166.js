@@ -1,0 +1,1 @@
+lar[107166]=`<b>φυλλοφορέω-ῶ</b>, porter des feuilles, se couvrir de feuilles, TH. <i>C.P. 3, 9, 2</i>.<p><b>Étym</b>. φυλλοφόρος.`

@@ -1,0 +1,1 @@
+lar[2065]=`<i>adv</i>., misérablement :<br><b>      1</b> <i>au sens mor</i>. SOPH. <i>Ant. 26</i> ; EUR. <i>H.f. 707, etc.</i> ; PLAT. <i>Rsp. 577c.</i><br><b>      2</b> <i>sans sign. mor</i>. piteusement, DÉM. <i>276, 2</i>.`

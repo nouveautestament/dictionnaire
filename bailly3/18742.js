@@ -1,0 +1,1 @@
+lar[18742]=`<b>βαθύ·γλυπτος, ος, ον</b> <font color="purple">[ᾰ]</font> profondément gravé, P. SIL. <i>Ecphr. amb. 156</i>.<p><b>Étym</b>. β. γλύφω.`

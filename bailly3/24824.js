@@ -1,0 +1,1 @@
+lar[24824]=`<b>δια·κορής, ής, ές</b>, complètement rassasié : τινος, PLAT. <i>Leg. 629b ;</i> τινι, PLUT. <i>Lyc. 15</i>, de qqe ch.<p><i>cf</i>. διάκορος.`

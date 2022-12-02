@@ -1,0 +1,1 @@
+lar[94025]=`<b>συμ·μοχθέω-ῶ</b>, partager la fatigue <i>ou</i> la peine de, <i>dat</i>. EUR. <i>I.T. 690</i>.`

@@ -1,0 +1,1 @@
+lar[69308]=`<i>ou</i> <b>Νωλάνοι, ων (οἱ)</b> les habitants de Nola, PLUT. <i>Marc. 11</i>.<p><b>Étym</b>. Νῶλα.`

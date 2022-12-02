@@ -1,0 +1,1 @@
+lar[44654]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action d’assujettir les rames au bord du navire, CALLIX. (ATH. <i>204a</i>).<p><b>Étym</b>. ζυγόω.`

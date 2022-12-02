@@ -1,0 +1,1 @@
+lar[107568]=`<b>χαλινόω-ῶ</b> <font color="purple">[ᾱῐ]</font> soumettre au frein, <i>acc</i>. XÉN. <i>Cyr. 3, 3, 27 ; An. 3, 4, 35 ; Hell. 7, 2, 21 ; au pass</i>. XÉN. <i>Eq. 5, 1, etc. ; fig</i>. PHOCYL. <i>57</i> ; PLUT. <i>M. 967b ; au pass</i>. PHILSTR. <i>170</i> ; PLUT. <i>Arat. 38 ; p. suite,</i> diriger, gouverner (un navire) PHILSTR. <i>114</i>.<p><b>Étym</b>. χαλινός.`

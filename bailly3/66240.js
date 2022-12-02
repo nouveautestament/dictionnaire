@@ -1,0 +1,1 @@
+lar[66240]=`<b>α (ὁ)</b> Mnèstoridas, <i>h</i>. THÉMISTOCLE <i>Ep. 14, 7</i>.<p><b>Étym</b>. μνήστωρ.`

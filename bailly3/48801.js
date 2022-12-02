@@ -1,0 +1,1 @@
+lar[48801]=`<b>άονος (ὁ)</b> <font color="purple">[ῐᾱ]</font> Hikétaôn, <i>frère de Priam,</i> IL. <i>3, 147 ; 15, 576 ; 20, 238</i>.`

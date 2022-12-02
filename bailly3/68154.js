@@ -1,0 +1,1 @@
+lar[68154]=`<b>νεο·κατάγραφος, ος, ον</b> <font color="purple">[ᾰφ]</font> nouvellement inscrit <i>ou</i> enrôlé, APP. <i>Mithr. 78</i>.<p><b>Étym</b>. ν. καταγράφω.`

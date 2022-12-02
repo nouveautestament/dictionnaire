@@ -1,0 +1,1 @@
+lar[7914]=`<b>ἀνα·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font> relâcher, détendre, PLUT. <i>M. 647d ;</i> ATH. <i>24d ;</i> GAL. <i>19, 537, etc. ; au pass</i>. HPC. <i>616, 38</i> ; POL. <i>6, 23, 11</i> ; PLUT. <i>M. 877c, etc</i>.<p>➳ <i>Poét</i>. ἀγχαλάω, A.RH. <i>2, 585</i>.`

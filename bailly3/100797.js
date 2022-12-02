@@ -1,0 +1,1 @@
+lar[100797]=`<b>τροχο·ποιέω-ῶ</b>, faire des roues, être charron, AR. <i>Pl. 513</i>.<p><b>Étym</b>. τροχός, ποιέω.`

@@ -1,0 +1,1 @@
+lar[45350]=`<b>ου (τὸ)</b> lieu de garde pendant le jour, EN. TACT. <i>Pol. 614</i>.<p><b>Étym</b>. ἡμεροσκόπος.`

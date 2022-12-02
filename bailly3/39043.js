@@ -1,0 +1,1 @@
+lar[39043]=`<b>ή, όν</b>, propre à attirer ; <i>gén</i>. ARSTT. <i>Probl. 37, 3, 2</i> ; POL. <i>4, 84, 6</i> ; STR. <i>15, 1, 38 Kram.</i> ; DIOSC. <i>2, 107, 209</i>.<p><b>Étym</b>. ἐπίσπαστος.`

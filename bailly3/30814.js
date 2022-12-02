@@ -1,0 +1,1 @@
+lar[30814]=`<b>εἰσ·λεύσσω</b>, <i>anc. att</i>. <b>ἐσ·λεύσσω</b> (<i>seul. prés</i>.) regarder, <i>acc</i>. SOPH. <i>Aj. 260</i> (ἐσ.) ; MAN. <i>4, 36</i>.`

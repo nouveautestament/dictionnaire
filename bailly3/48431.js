@@ -1,0 +1,1 @@
+lar[48431]=`<b>ἰδιό·στολος, ος, ον</b> <font color="purple">[ῐδ]</font><br><b>      1</b> équipé aux frais particuliers d’une personne, PLUT. <i>Alc. 1</i>.<br><b>      2</b> équipé pour son propre usage, ATH. <i>521a ;</i> ἰδ. ἔπλευσε, PLUT. <i>Thes. 26,</i> il navigua sur son propre navire.<p><b>Étym</b>. ἴδ. στέλλω.`

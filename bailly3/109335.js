@@ -1,0 +1,1 @@
+lar[109335]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de colorer, DIOSC.<br><b>      2</b> <i>fig</i>. action d’embellir, EUM. <i>p. 188</i>.<p><b>Étym</b>. χρωματίζω.`

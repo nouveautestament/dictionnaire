@@ -1,0 +1,1 @@
+lar[92553]=`<b>στημο·ρραγέω-ῶ</b> <font color="purple">[ᾰ]</font> se rompre, éclater, <i>en parl. de la trame d’une étoffe,</i> ESCHL. <i>Pers. 836</i>.<p><b>Étym</b>. στήμων, ῥήγνυμι.`

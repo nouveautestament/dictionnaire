@@ -1,0 +1,1 @@
+lar[19223]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> accablement de l’esprit, tristesse, mélancolie, PLUT. <i>M. 710e.</i><br><b>      2</b> irritation, indignation, PLUT. <i>Cor. 21</i>.<p><b>Étym</b>. βαρύφρων.`

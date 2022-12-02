@@ -1,0 +1,1 @@
+lar[60441]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec de petites fentes, DIOSC. <i>4, 188</i>.<p><b>Étym</b>. λεπτοσχιδής.`

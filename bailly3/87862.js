@@ -1,0 +1,1 @@
+lar[87862]=`<b>Πυρι·γόνος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui engendre <i>ou</i> produit du feu, PLUT. <i>Alex. 35</i>.<p><b>Étym</b>. π. γίγνομαι.`

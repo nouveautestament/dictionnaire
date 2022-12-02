@@ -1,0 +1,1 @@
+lar[61243]=`<b>λινο·πόρος, ος, ον</b> <font color="purple">[ῐ]</font> qui pénètre dans les voiles, <i>en parl. du vent,</i> EUR. <i>I.T. 410</i>.<p><b>Étym</b>. λ. πορεύομαι.`

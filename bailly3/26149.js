@@ -1,0 +1,1 @@
+lar[26149]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’allonger, tension, CLÉM. <i>1, 496c Migne</i>.<p><b>Étym</b>. διεκτείνω.`

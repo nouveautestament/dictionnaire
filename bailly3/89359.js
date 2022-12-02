@@ -1,0 +1,1 @@
+lar[89359]=`<i>adv</i>., salement, ARR. <i>Epict. 2, 21, 14</i>.<p><b>Étym</b>. σαπρός.`

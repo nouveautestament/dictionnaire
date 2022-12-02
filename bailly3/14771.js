@@ -1,0 +1,1 @@
+lar[14771]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Aristôn :<br><b>      1</b> <i>père de Platon,</i> PLAT. <i>Ap. 34a, etc.</i><br><b>      2</b> <i>autres,</i> HDT. <i>4, 138</i> ; THC. <i>7, 39</i> ; XÉN. <i>An. 5, 6, 14, etc. ; au plur</i>. οἱ Ἀριστῶνες, LUC. <i>Lex. 7,</i> les Aristôns.<p><b>Étym</b>. ἄριστος.`

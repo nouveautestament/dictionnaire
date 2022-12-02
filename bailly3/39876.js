@@ -1,0 +1,1 @@
+lar[39876]=`<b>ἐπ·ορθρεύω</b>, <i>d’ord. au moy</i>. <b>ἐπορθρεύομαι</b>, se lever de grand matin, faire qqe ch. de grand matin, LUC. <i>Somn. 1</i> ; D. CHR. <i>1, 372</i>.<p><b>Étym</b>. ἐπί, ὄρθρος.`

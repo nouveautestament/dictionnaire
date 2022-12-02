@@ -1,0 +1,1 @@
+lar[11637]=`<b>ἀπ·εκ·προθέω</b>, s’échapper en courant en avant, NYSS. <i>2, 361</i>.<p><b>Étym</b>. ἀπό, ἐκ, προθέω.`

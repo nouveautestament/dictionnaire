@@ -1,0 +1,1 @@
+lar[12557]=`<b>ατος (τὸ)</b> proclamation, HPC. <i>110f dout</i>.<p><b>Étym</b>. ἀποκηρύσσω.`

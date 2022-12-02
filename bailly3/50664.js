@@ -1,0 +1,1 @@
+lar[50664]=`<b>ου (ὁ)</b> marmite à trois pieds, NICOCH. <i>et</i> ANTIPH. (<i>Com. fr. 2, 845, 4 ; 3, 99, etc</i>.).<p><b>Étym</b>. <i>cf</i>. κακκάβη.`

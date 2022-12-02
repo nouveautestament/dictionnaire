@@ -1,0 +1,1 @@
+lar[37070]=`<b>ἐπ·εμβοάω-οῶ</b> (<i>prés. 3 sg. épq</i>. -βοάᾳ) crier contre, <i>dat</i>. NIC. <i>Al. 219</i>.`

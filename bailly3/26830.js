@@ -1,0 +1,1 @@
+lar[26830]=`<b>ῆρος (ὁ) :<br>   I</b> <i>en parl. de pers.</i> :<br><b>      1</b> éclaireur, espion, IL. <i>10, 562</i>.<br><b>      2</b> <i>à Rome,</i> sorte d’adjudant, PLUT. <i>Galb. 24</i>.<br><b>   II</b> sonde de chirurgien, AÉT. <i>16, 105</i>.<p><b>Étym</b>. διά, ὄψομαι.`

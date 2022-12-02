@@ -1,0 +1,1 @@
+lar[31771]=`<b>ἐκ·πάλλομαι</b> <font color="darkgreen">(<i>3 sg. ao.2</i> ἔκπαλτο)</font> s’élancer de, jaillir de, <i>gén</i>. IL. <i>20, 483</i>.`

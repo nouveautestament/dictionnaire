@@ -1,0 +1,1 @@
+lar[92837]=`<b>στρατ·ηλάτης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> chef d’armée, général, SOPH. <i>Aj. 1123</i> ; EUR. <i>Or. 970,</i> STR. <i>1, 1, 16 ; etc.</i> ; νεῶν, ESCHL. <i>Eum. 637</i> ; EUR. <i>Rhes. 173,</i> chef d’une flotte.<p><b>Étym</b>. στρατός, ἐλαύνω.`

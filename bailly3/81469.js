@@ -1,0 +1,1 @@
+lar[81469]=`<b>ά, όν</b>, de telle <i>ou</i> telle qualité, de telle <i>ou</i> telle sorte, tel <i>ou</i> tel, <i>d’ord. suivi de</i> τις, PLAT. <i>Soph. 262e, Rsp. 438e, etc.</i> ; ARSTT. <i>Categ. 4, 1, etc</i>.<p><b>Étym</b>. <i>cf</i>. ποῖος.`

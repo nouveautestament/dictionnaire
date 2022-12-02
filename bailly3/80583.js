@@ -1,0 +1,1 @@
+lar[80583]=`<b>πλαγιό·καυλος, ος, ον</b> <font color="purple">[ᾰ]</font> à tige oblique, TH. <i>H.P. 8, 3, 2</i>.<p><b>Étym</b>. πλ. καυλός.`

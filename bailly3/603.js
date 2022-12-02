@@ -1,0 +1,1 @@
+lar[603]=`<font color="purple">[κᾰ]</font> en embrassant, ESCHL. <i>Eum. 80</i>.<p><b>Étym</b>. <i>cf</i>. ἀγκάς <i>et</i> ἀγκάσι.`

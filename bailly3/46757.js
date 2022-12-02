@@ -1,0 +1,1 @@
+lar[46757]=`<b>θεο·πρεπής, ής, ές</b>, qui convient à un dieu, digne d’un dieu, magnifique, PD. <i>N. 10, 2</i> ; DS. <i>11, 89 ; 17, 75</i> ; PLUT. <i>Dio. 28 ; M. 780a</i>.<p><b>Étym</b>. θ. πρέπω.`

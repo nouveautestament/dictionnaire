@@ -1,0 +1,1 @@
+lar[78155]=`<b>ύος (ἡ)</b> nombre de cinquante, <i>particul</i>. compagnie de cinquante hommes (4<sup>e</sup> partie du λόχος) <i>à Sparte,</i> THC. <i>5, 68</i> ; XÉN. <i>An. 3, 4, 22 (acc. pl</i>. πεντηκοστῦς).<p><b>Étym</b>. πεντηκοστός.`

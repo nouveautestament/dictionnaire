@@ -1,0 +1,1 @@
+lar[38835]=`<b>εως (ἡ)</b> action de fermer en repliant, GAL. <i>3, 564</i> ; BAS. <i>1, 63</i>.<p><b>Étym</b>. ἐπιπτύσσω.`

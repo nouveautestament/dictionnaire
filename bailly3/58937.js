@@ -1,0 +1,1 @@
+lar[58937]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> pouvoir, autorité : τινός, POL. <i>6, 2, 13 ; ou</i> περί τινος, POL. <i>6, 14, 10,</i> sur qqe ch.<p><b>Étym</b>. κῦρος.`

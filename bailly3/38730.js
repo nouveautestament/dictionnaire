@@ -1,0 +1,1 @@
+lar[38730]=`<b>ή, όν</b>, atteint d’une hernie du scrotum, GAL. <i>19, 448</i>.<p><b>Étym</b>. ἐπιπλοκήλη.`

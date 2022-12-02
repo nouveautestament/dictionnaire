@@ -1,0 +1,1 @@
+lar[78550]=`<b>περι·εγείρω</b>, éveiller pendant que qqe ch. se fait, JOS. <i>A.J. 2, 9, 4</i>.`

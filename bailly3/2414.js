@@ -1,0 +1,1 @@
+lar[2414]=`<b>έως (ὁ)</b> habitant d’Æthæa, <i>en Laconie,</i> THC. <i>1, 101, au plur. att</i>. Αἰθαιῆς.`

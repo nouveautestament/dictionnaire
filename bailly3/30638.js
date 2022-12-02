@@ -1,0 +1,1 @@
+lar[30638]=`<b>ατος (τὸ)</b> parole ironique, M. TYR. <i>463</i>.<p><b>Étym</b>. εἰρωνεύομαι.`

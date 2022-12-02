@@ -1,0 +1,1 @@
+lar[21307]=`<b>ας (ἡ)</b> <font color="purple">[γᾱ]</font> <i>dor. c</i>. γεωμετρία, PÉRICT. (STOB. <i>1, 63</i>).`

@@ -1,0 +1,1 @@
+lar[98707]=`<font color="purple">[θᾰ]</font> <i>adv. c</i>. τέτραχα, IL. <i>3, 363</i> ; OD. <i>9, 71</i>.<p><b>Étym</b>. <i>pour la format. cf</i>. διχθά, τριχθά.`

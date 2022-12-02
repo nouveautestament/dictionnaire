@@ -1,0 +1,1 @@
+lar[25266]=`<b>δια·πιθανεύομαι</b> <font color="purple">[πῐᾰ]</font> s’opposer mutuellement des arguments probants, SEXT. <i>M. 8, 324</i>.`

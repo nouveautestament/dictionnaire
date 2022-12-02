@@ -1,0 +1,1 @@
+lar[67077]=`<b>ίδος</b> <font color="purple">[ῠᾰῐδ]</font> <i>adj. f</i>. de Mykalè, CALL. <i>Del. 50</i>.<p><b>Étym</b>. Μυκάλη.`

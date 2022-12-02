@@ -1,0 +1,1 @@
+lar[58305]=`<b>*κτίω</b>, <i>c</i>. κτίζω, <i>seul. dans les dériv. c</i>. κτίτης, <i>etc. ou les cps. c</i>. ἐϋκτίμενος, Ἀμφικτίων, <i>etc</i>.<p><b>Étym</b>. <i>v</i>. κτίζω.`

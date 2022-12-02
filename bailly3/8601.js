@@ -1,0 +1,1 @@
+lar[8601]=`<b>ἀν·ευένδοτος, ος, ον</b>, qui ne cède pas facilement, PHIL. <i>2, 269</i>.<p><b>Étym</b>. ἀν-, εὐέ.`

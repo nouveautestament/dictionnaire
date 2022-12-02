@@ -1,0 +1,1 @@
+lar[13730]=`<b>ή, όν :<br>      1</b> qui a un sens profond, PLUT. <i>Brut. 2</i>.<br><b>      2</b> qui parle par sentences, PLUT. <i>Lyc. 19</i>.<p><b>Étym</b>. ἀπόφθεγμα.`

@@ -1,0 +1,1 @@
+lar[98010]=`<b>τειχ·ήρης, ης, ες :<br>      1</b> enfermé dans des murs, assiégé, HDT. <i>1, 162</i> ; THC. <i>2, 101 ; 4, 25</i> ; XÉN. <i>Hell. 5, 3, 2, etc.</i><br><b>      2</b> muni de remparts, fortifié, SPT. <i>Num. 13, 20 ; Deut. 9, 1, etc.</i> ; PHILSTR. <i>835</i>.<p><b>Étym</b>. τεῖχος, *ἄρω.`

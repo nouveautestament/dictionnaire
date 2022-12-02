@@ -1,0 +1,1 @@
+lar[108657]=`<b>χο·ήρης, ης, ες</b>, qui contient un χοῦς (un peu plus de trois litres) EUR. <i>I.T. 960</i>.<p><b>Étym</b>. χόος, *ἄρω.`

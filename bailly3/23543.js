@@ -1,0 +1,1 @@
+lar[23543]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> le Terrifiant (Zeus), DH. <i>6, 90</i>.`

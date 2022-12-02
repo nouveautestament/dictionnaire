@@ -1,0 +1,1 @@
+lar[106336]=`<b>ας (ἡ)</b> incision d’une veine, saignée, POLYBOS (ARSTT. <i>H.A. 3, 3, 1</i>) ; GAL. <i>2, 37</i> ; MOSCHION <i>Mul. pass. 61, etc</i>.<p><b>Étym</b>. φλεβοτόμος.`

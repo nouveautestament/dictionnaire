@@ -1,0 +1,1 @@
+lar[28883]=`<b>δύσ·ροος-ους, οος-ους, οον-ουν</b>, qui coule avec peine, ORIB. <i>208 Matthäi</i>.<p><b>Étym</b>. δ. ῥέω.`

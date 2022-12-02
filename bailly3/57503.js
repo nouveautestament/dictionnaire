@@ -1,0 +1,1 @@
+lar[57503]=`<b>κραδάω-ῶ</b>, être atteint de la maladie κράδος, TH. <i>H.P. 4, 14, 4</i>.`

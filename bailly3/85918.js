@@ -1,0 +1,1 @@
+lar[85918]=`<i>adv</i>., temporairement, CHRYS.`

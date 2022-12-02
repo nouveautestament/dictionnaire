@@ -1,0 +1,1 @@
+lar[31780]=`<b>οῦ (ὁ)</b> bouillonnement, ARSTT. <i>Probl. 24, 9, 2</i>.<p><b>Étym</b>. ἐκπαφλάζω.`

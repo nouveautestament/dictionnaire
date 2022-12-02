@@ -1,0 +1,1 @@
+lar[56151]=`<b>ῆρος (ὁ) :<br>      1</b> seringue, HDT. <i>2, 87</i>.<br><b>      2</b> clystère, NIC. <i>Al. 139</i>.<p><b>Étym</b>. κλύζω.`

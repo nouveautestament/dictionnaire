@@ -1,0 +1,1 @@
+lar[18382]=`<b>ἀ·χάρακτος, ος, ον</b> <font color="purple">[χᾰ]</font><br><b>      1</b> qui n’a reçu <i>ou</i> ne garde aucune empreinte, NONN. <i>D. 45, 497, etc.</i><br><b>      2</b> non taillé, non façonné, <i>d’où</i> informe, NONN. <i>Jo. 9, 5</i>.<p><b>Étym</b>. ἀ, χαράσσω.`

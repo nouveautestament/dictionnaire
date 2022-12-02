@@ -1,0 +1,1 @@
+lar[95774]=`<i>adv.</i> :<br><b>      1</b> avec une syllabe brève, ATH. <i>106b, 393b.</i><br><b>      2</b> simplement, PLUT. <i>M. 216f</i>.<p><b>Étym</b>. συστέλλω.`

@@ -1,0 +1,1 @@
+lar[40569]=`<b>ΐδος</b>, <i>adj. f.</i> : Ἑ. κρήνη, HPC. <i>Ep. p. 1280, 50,</i> la fontaine d’Hermès.<p><b>Étym</b>. Ἑρμῆς.`

@@ -1,0 +1,1 @@
+lar[49543]=`<b>ἰσ·άστερος, ος, ον</b> <font color="purple">[ῑ̆]</font> semblable à un astre, JOS. <i>Macc. 17, 5</i>.<p><b>Étym</b>. ἴ. ἀστήρ.`

@@ -1,0 +1,1 @@
+lar[70591]=`<b>οἰνό·φυτος, ος, ον</b> <font color="purple">[ῠ]</font> planté de vignes, STR. <i>559</i> ; DH. <i>1, 37</i>.<p><b>Étym</b>. οἶν. φύω.`

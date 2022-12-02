@@ -1,0 +1,1 @@
+lar[99707]=`<b>τοσουτ·άριθμος, ος, ον</b> <font color="purple">[ᾰ]</font> en aussi grand nombre, ESCHL. <i>Pers. 432</i>.<p><b>Étym</b>. τοσοῦτος, ἀριθμός.`

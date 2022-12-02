@@ -1,0 +1,1 @@
+lar[102488]=`<b>ὑπέρ·ηβος, ος, ον</b>, qui a passé l’âge de la jeunesse, GAL. <i>19, 489</i>.<p><b>Étym</b>. ὑ. ἥβη.`

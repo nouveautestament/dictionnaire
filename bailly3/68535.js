@@ -1,0 +1,1 @@
+lar[68535]=`<b>ής, ές</b>, <i>c</i>. νηλεής, <i>en parl. de pers</i>. IL. <i>9, 632</i> ; PD. <i>P. 11, 22</i> ; ESCHL. <i>Pr. 42, etc. ; en parl. de choses (lien,</i> IL. <i>10, 443 ; cœur,</i> OD. <i>9, 287, etc.) ; cf</i>. IL. <i>3, 292</i> ; SOPH. <i>O.R. 180, etc</i>.`

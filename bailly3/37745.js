@@ -1,0 +1,1 @@
+lar[37745]=`<i>adv</i>., avec préjudice, D. CHR. <i>1, 425, 442</i>.<p><b>Étym</b>. ἐπιζήμιος.`

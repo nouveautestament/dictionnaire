@@ -1,0 +1,1 @@
+lar[101694]=`<b>ης, ες</b> <font color="purple">[ῠᾰ]</font> dont les sons ressemblent à des hurlements, NYSS.<p><b>Étym</b>. ὑλάσσω, -ωδης.`

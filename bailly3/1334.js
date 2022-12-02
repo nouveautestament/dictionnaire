@@ -1,0 +1,1 @@
+lar[1334]=`<b>ἀ·διάλυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> indissoluble, PLAT. <i>Phæd. 80b ;</i> DH. <i>6, 7</i>.<br><b>      2</b> indémontable (machine) HÉRON.<p><b>Étym</b>. ἀ, διαλύω.`

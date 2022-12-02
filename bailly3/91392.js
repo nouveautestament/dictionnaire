@@ -1,0 +1,1 @@
+lar[91392]=`<b>σκωληκιάω-ῶ</b>, pulluler de vers, être en putréfaction, GEOP. <i>10, 90, 5</i> ; DIOSC. <i>3, 43</i>.<p><b>Étym</b>. σκώληξ.`

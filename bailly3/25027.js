@@ -1,0 +1,1 @@
+lar[25027]=`<b>δια·μελίζω</b>, arracher les membres, mettre en pièces, DS. <i>3, 65</i> ; PLUT. <i>M. 993a ;</i> JOS. <i>A.J. 3, 9, 1</i>.`

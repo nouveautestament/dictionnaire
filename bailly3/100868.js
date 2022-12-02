@@ -1,0 +1,1 @@
+lar[100868]=`<b>ης (ἡ)</b> <font color="purple">[ῡᾰ]</font> balance, AR. <i>Vesp. 39</i> ; DÉM. <i>60, 7 ; 325, 13</i> ; LUC. <i>H. conscr. 49, etc</i>.`

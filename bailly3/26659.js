@@ -1,0 +1,1 @@
+lar[26659]=`<b>ων (τὰ)</b> <font color="purple">[ῠ]</font> <i>c</i>. Δίνδυμον, ANTH. <i>6, 281</i>.`

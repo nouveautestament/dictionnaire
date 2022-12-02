@@ -1,0 +1,1 @@
+lar[78200]=`avoir un goût de poivre, DIOSC. <i>2, 190</i>.<p><b>Étym</b>. πέπερι.`

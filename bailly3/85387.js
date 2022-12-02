@@ -1,0 +1,1 @@
+lar[85387]=`<b>εως (ἡ)</b> admission, réception, DL. <i>7, 47</i>.<p><b>Étym</b>. προσδέχομαι.`

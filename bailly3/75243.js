@@ -1,0 +1,1 @@
+lar[75243]=`<b>παντο·δίδακτος, ος, ον</b> <font color="purple">[ῐ]</font> instruit en tout, ORACL. (LACT. <i>1, 7, 9).</i><p><b>Étym</b>. π. διδάσκω.`

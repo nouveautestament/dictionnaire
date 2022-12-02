@@ -1,0 +1,1 @@
+lar[94643]=`<b>συν·αληθεύω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> être également vrai, ARSTT. <i>Interpr. 10, 5</i>.<br><b>      2</b> dire également la vérité, PLUT. <i>M. 53b</i>.`

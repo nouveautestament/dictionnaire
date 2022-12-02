@@ -1,0 +1,1 @@
+lar[32754]=`<b>οῦ (ὁ) :<br>      1</b> conducteur d’éléphants, cornac, ARSTT. <i>H.A. 2, 1, 6</i>.<br><b>      2</b> bouclier en peau d’éléphant, APP. <i>Lib. 46</i>.<p><b>Étym</b>. ἐλέφας.`

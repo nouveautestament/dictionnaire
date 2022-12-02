@@ -1,0 +1,1 @@
+lar[98183]=`<b>οῦ (ὁ)</b> celui qui initie aux mystères, PYTHAG. (PROCL. <i>Plat. Tim. 5</i>) ; M. TYR. <i>10</i>.<p><b>Étym</b>. τελέω.`

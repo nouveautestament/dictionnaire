@@ -1,0 +1,1 @@
+lar[110246]=`<b>ῆρος</b>, <i>adj. m. c</i>. ὠμηστής OPP. <i>H. 5, 324 ; en parl. de Pan,</i> NONN. <i>D. 14, 80</i>.`

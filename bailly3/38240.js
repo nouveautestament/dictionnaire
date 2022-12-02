@@ -1,0 +1,1 @@
+lar[38240]=`<b>ή, όν</b>, propre aux parties de plaisir, THCR. <i>Idyl. 3 Argum</i>.<p><b>Étym</b>. ἐπικωμάζω.`

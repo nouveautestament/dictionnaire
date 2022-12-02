@@ -1,0 +1,1 @@
+lar[17862]=`<b>εως (ἡ)</b> action de sauter hors de, jaillissement, ARÉT.<p><b>Étym</b>. ἀφάλλομαι.`

@@ -1,0 +1,1 @@
+lar[32039]=`<b>ἐκ·σκαλεύω</b> <font color="purple">[ᾰ]</font> sarcler ; <i>fig. càd</i>. arracher, rejeter, AR. <i>Lys. 1028</i>.`

@@ -1,0 +1,1 @@
+lar[29963]=`<b>ἐγ·χώννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>f</i>. -χώσω) :</font><br><b>      1</b> combler avec de la terre, <i>acc</i>. DS. <i>4, 22</i> ; APP. <i>Civ. 5, 36 ; au pass</i>. POL. <i>4, 40, 4</i>.<br><b>      2</b> jeter de la terre dans, <i>avec</i> εἰς <i>et l’acc</i>. APP. <i>Civ. 2, 75</i>.<p><b>Étym</b>. ἐν, χ.`

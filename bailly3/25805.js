@@ -1,0 +1,1 @@
+lar[25805]=`<b>οῦ (ὁ)</b> lueur éclatante, PLUT. <i>M. 893d</i>.<p><b>Étym</b>. διαυγάζω.`

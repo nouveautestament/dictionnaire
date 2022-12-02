@@ -1,0 +1,1 @@
+lar[33518]=`<b>ἐμ·πνευματόω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> remplir de vent, gonfler, DIPH. (ATH. <i>54d</i>) ; TH. <i>Ign. 17</i>.<br><b>      2</b> <i>au pass</i>. être poussé par le vent, LUC. <i>Lex. 15</i>.<p><b>Étym</b>. ἐν, πνεῦμα.`

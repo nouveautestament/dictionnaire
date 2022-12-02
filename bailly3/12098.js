@@ -1,0 +1,1 @@
+lar[12098]=`<b>ἀ·πνεής, ής, ές</b>, qui brûle sans être attisé par le soufflet <i>ou</i> par le vent, ANTH. <i>9, 420</i>.<p><b>Étym</b>. ἀ, πνέω.`

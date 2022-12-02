@@ -1,0 +1,1 @@
+lar[101187]=`<b>τυφλό·στομος, ος, ον</b>, dont l’embouchure est obstruée (<i>litt</i>. aveuglée) STR. <i>183</i>.<p><b>Étym</b>. τυφλός, στόμα.`

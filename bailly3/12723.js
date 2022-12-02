@@ -1,0 +1,1 @@
+lar[12723]=`<b>ἀπο·λαμπρύνω :<br>      1</b> rendre clair, <i>en parl. de la voix,</i> DIOSC.<br><b>      2</b> <i>au pass. (avec fut. moy</i>.) devenir illustre, HDT. <i>1, 41 ; 6, 70</i>.`

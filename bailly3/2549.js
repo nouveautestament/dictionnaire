@@ -1,0 +1,1 @@
+lar[2549]=`<b>αἱματο·ποιέω-ῶ</b>, changer en sang ; <i>au pass</i>. devenir du sang, A. TR. <i>432</i>.`

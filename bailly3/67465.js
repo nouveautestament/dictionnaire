@@ -1,0 +1,1 @@
+lar[67465]=`<b>οῦ (ὁ)</b> grondement, murmure, EUR. <i>Rhes. 789</i>.<p><b>Étym</b>. μυχθίζω.`

@@ -1,0 +1,1 @@
+lar[102153]=`<b>ὑπ·εκφαίνω</b> (<i>seul. prés</i>.) faire briller en dessous, PHILSTR. <i>799</i>.`

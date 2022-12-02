@@ -1,0 +1,1 @@
+lar[47804]=`<b>θυγατριδέος-οῦς, έου-οῦ (ὁ)</b> <font color="purple">[ῠῐ]</font> fils de la fille, petit-fils, HDT. <i>5, 67</i>.<p>➳ <i>Ion</i>. θυγατριδέος, HDT. <i>l. c. ; att</i>. θυγατριδοῦς, IS. <i>70, 30</i> ; ARSTT. <i>fr. 433, etc</i>.<p><b>Étym</b>. θυγάτηρ.`

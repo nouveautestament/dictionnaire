@@ -1,0 +1,1 @@
+lar[98340]=`<b>τερατο·γραφέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> décrire des monstres, ERATOSTH. (STR. <i>22).</i><p><b>Étym</b>. τέρας, -γράφος <i>de</i> γράφω.`

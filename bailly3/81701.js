@@ -1,0 +1,1 @@
+lar[81701]=`<b>πολυ·αναγνωσία, ας (ἡ)</b> <font color="purple">[ᾰν]</font> lecture abondante, <i>d’où</i> vaste savoir, ATH. <i>654a</i>.<p><b>Étym</b>. π. ἀναγιγνώσκω.`

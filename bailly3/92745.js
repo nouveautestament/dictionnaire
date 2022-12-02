@@ -1,0 +1,1 @@
+lar[92745]=`<b>ου (ὁ)</b> langage emphatique, emphase, LGN <i>3, 1 ; 32, 7</i>.`

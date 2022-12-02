@@ -1,0 +1,1 @@
+lar[17897]=`<b>ἀ·φάρμακτος, ος, ον</b>, non empoisonné, NIC. <i>Th. 115 ; en parl. d’une coupe,</i> LUC. <i>D. mort. 7, 2 ; de traits,</i> STR. <i>499</i>.<p><b>Étym</b>. ἀ, φαρμάσσω.`

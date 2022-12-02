@@ -1,0 +1,1 @@
+lar[224]=`<b>ἀβυρτακο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui fait une sauce ἀβυρτάκη, DÉMÉTR. (ATH. <i>405).</i><p><b>Étym</b>. ἀβ. ποιέω.`

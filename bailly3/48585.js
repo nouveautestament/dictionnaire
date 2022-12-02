@@ -1,0 +1,1 @@
+lar[48585]=`<b>*ἱερο·δρόμος</b>, <i>ion</i>. <b>ἱρο·δρόμος, ος, ον</b>, qui s’épanche en flots sacrés, ANTH. <i>9, 319</i>.<p><b>Étym</b>. ἱ. δραμεῖν.`

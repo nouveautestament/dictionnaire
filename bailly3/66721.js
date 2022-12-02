@@ -1,0 +1,1 @@
+lar[66721]=`<b>ης (ἡ)</b> Moriè, <i>nymphe,</i> NONN. <i>D. 2, 86 ; 25, 481, etc</i>.`

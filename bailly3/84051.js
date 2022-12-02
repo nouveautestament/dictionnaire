@@ -1,0 +1,1 @@
+lar[84051]=`<b>προ·εισβάλλω :<br>      1</b> introduire <i>ou</i> insérer auparavant, LGN <i>22</i>.<br><b>      2</b> introduire une manière de faire, donner l’exemple de, SOCR. <i>Ep. p. 44</i>.`

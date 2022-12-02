@@ -1,0 +1,1 @@
+lar[67807]=`<b>ναυσί·στονος, ος, ον</b>, qui fait gémir les vaisseaux, PD. <i>P. 1, 72</i>.<p><b>Étym</b>. ν. στένω.`

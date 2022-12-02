@@ -1,0 +1,1 @@
+lar[58038]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> action d’arracher des brins de fil <i>ou</i> des flocons de laine, GAL. <i>14, 732</i>.<p><b>Étym</b>. κροκυδίζω.`

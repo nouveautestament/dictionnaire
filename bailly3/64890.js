@@ -1,0 +1,1 @@
+lar[64890]=`<b>μετα·πείρω</b> (<i>seul. prés</i>.) percer de nouveau, ORIB. <i>p. 50 Mai</i>.`

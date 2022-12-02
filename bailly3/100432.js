@@ -1,0 +1,1 @@
+lar[100432]=`<b>τρισ·άσμενος, η, ον</b> <font color="purple">[ῐ]</font> qui fait qqe ch. très volontiers, XÉN. <i>An. 3, 2, 24</i>.`

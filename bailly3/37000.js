@@ -1,0 +1,1 @@
+lar[37000]=`<b>ἐπ·εισπαίω</b>, tomber sur, fondre sur, εἰς <i>et l’acc</i>. AR. <i>Pl. 805 ; abs</i>. LUC. <i>D. mer. 15, 1</i>.`

@@ -1,0 +1,1 @@
+lar[33774]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne une personne <i>ou</i> une chose maudite, PLUT. <i>M. 825b</i>.<p><b>Étym</b>. ἐναγής.`

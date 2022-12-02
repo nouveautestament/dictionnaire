@@ -1,0 +1,1 @@
+lar[72814]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> qui limite, qui définit, ARSTT. <i>Top. 1, 5, 1</i>.<p><b>Étym</b>. ὅρος.`

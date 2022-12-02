@@ -1,0 +1,1 @@
+lar[1758]=`<b>ἄ·επτος, ος, ον</b>, <i>p.-ê</i>. qui ne peut suivre <i>ou</i> qui ne peut être manié, irrésistible, féroce, ESCHL. <i>Ag. 141</i>.<p><b>Étym</b>. <i>inconnue, cf. p.-ê</i>. ἄαπτος.`

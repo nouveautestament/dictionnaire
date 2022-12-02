@@ -1,0 +1,1 @@
+lar[59969]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> Latymnon, <i>mt près de Crotone,</i> THCR. <i>Idyl. 4, 19</i>.`

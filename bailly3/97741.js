@@ -1,0 +1,1 @@
+lar[97741]=`<b>εος-ους</b> (τὸ) <i>au plur</i>. épaisseur, profondeur, IL. <i>5, 555 ; 15, 606</i> ; A.RH. <i>4, 1238</i>.<p><b>Étym</b>. <i>incert</i>.`

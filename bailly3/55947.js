@@ -1,0 +1,1 @@
+lar[55947]=`<b>κλεψ·ίαμβος, ου (ὁ)</b> <i>instrument de musique inconnu,</i> ARISTOX. <i>et</i> PHILLIS (ATH. <i>182f, 636b</i>).<p><b>Étym</b>. κλέπτω, ἴαμβος.`

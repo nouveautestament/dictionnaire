@@ -1,0 +1,1 @@
+lar[23846]=`<b>ου (τὸ)</b> petit arbre, arbuste, ATH. <i>649f ;</i> THCR. <i>Idyl. 29, 12</i>.<p><b>Étym</b>. <i>dim. de</i> δένδρον.`

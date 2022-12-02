@@ -1,0 +1,1 @@
+lar[78168]=`<i>adv</i>., en homme instruit, savamment, ISOCR. <i>227c ;</i> EL. <i>V.H. 2, 16</i>.<p><b>Étym</b>. παιδεύω.`

@@ -1,0 +1,1 @@
+lar[988]=`<b>ης, ες</b>, qui cause l’insomnie <i>ou</i> accompagné d’insomnie, HPC. <i>68a</i>.<p><b>Étym</b>. ἄγρυπνος, -ωδης.`

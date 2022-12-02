@@ -1,0 +1,1 @@
+lar[19986]=`<font color="purple">[ῠ]</font> <i>adv</i>., d’un air terrible, HLD. <i>10, 27</i>.`

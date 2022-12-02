@@ -1,0 +1,1 @@
+lar[37246]=`<b>ἐπ·ῆλυξ, υγος</b> <font color="purple">[ῠγ]</font> <i>adj. f</i>. qui recouvre, qui donne de l’ombre, EUR. <i>Cycl. 680</i>.<p><b>Étym</b>. ἐπί, ἠλύγη.`

@@ -1,0 +1,1 @@
+lar[79873]=`<b>ου (ὁ)</b> = <i>lat</i>. Petinus, <i>n. d’h. rom</i>. PLUT. <i>Galb. 17</i>.`

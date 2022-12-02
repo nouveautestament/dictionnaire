@@ -1,0 +1,1 @@
+lar[1408]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font> déni de justice, injustice, SYMM. <i>Ps. 54, 10</i>.`

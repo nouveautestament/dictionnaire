@@ -1,0 +1,1 @@
+lar[13662]=`<b>ος, ον</b>, qui détourne, ORPH. <i>Arg. 483</i>.<p><b>Étym</b>. ἀπότροπος.`

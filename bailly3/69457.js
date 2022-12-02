@@ -1,0 +1,1 @@
+lar[69457]=`<b>ξενοδοκέω-ῶ :<br>      1</b> accueillir les étrangers, PLAT. <i>Rsp. 419a ;</i> EUR. <i>Alc. 552 ; fig</i>. LUC. <i>Am. 47</i>.<br><b>      2</b> <i>c</i>. μαρτυρέω, PD. <i>fr. 311 Bgk</i>.<p>➳ <i>Ion</i>. ξεινοδοκέω, HDT. <i>6, 127</i>.<p><b>Étym</b>. ξενοδόκος.`

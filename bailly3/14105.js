@@ -1,0 +1,1 @@
+lar[14105]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> choc, craquement, IL. <i>10, 375</i>.`

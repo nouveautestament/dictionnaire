@@ -1,0 +1,1 @@
+lar[42604]=`<b>ας (ἡ)</b> prudence, réflexion, PLAT. <i>Def. 412e ;</i> PLUT. <i>M. 103a</i>.<p><b>Étym</b>. εὐλόγιστος.`

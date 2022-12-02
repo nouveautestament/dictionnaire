@@ -1,0 +1,1 @@
+lar[18058]=`<b>ἄ·φθορος, ος, ον</b>, non corrompu, pur, <i>en parl. de jeunes gens,</i> DS. <i>4, 7</i> ; SPT. <i>Esth. 2, 5</i> ; ANTH. <i>9, 229</i> ; ARTÉM. <i>5, 95</i>.<p><b>Étym</b>. ἀ, φθείρω.`

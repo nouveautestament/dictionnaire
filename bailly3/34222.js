@@ -1,0 +1,1 @@
+lar[34222]=`<b>ή, όν</b>, douteux, HPC. <i>Prorrh. 100b</i>.<p><b>Étym</b>. <i>vb. de</i> ἐνδοιάζω.`

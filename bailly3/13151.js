@@ -1,0 +1,1 @@
+lar[13151]=`<b>ἀπο·προΐημι</b> (<i>seul. aux formes citées</i>) :<br><b>      1</b> jeter loin devant soi, lancer au loin, <i>acc</i>. OD. <i>22, 82 (part. prés</i>. ἀποπροϊείς).<br><b>      2</b> envoyer hors <i>ou</i> au loin, <i>acc</i>. OD. <i>14, 26</i>.<p><b>Étym</b>. <i>ao.1 ion. 3 sg</i>. -προέηκε.`

@@ -1,0 +1,1 @@
+lar[27461]=`<b>ας (ἡ)</b> Dolopie, <i>pays des Dolopes,</i> THC. <i>2, 102</i> ; POL. STR.<p><b>Étym</b>. Δόλοπες.`

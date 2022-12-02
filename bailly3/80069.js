@@ -1,0 +1,1 @@
+lar[80069]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. du Pélion, IL. <i>16, 143 ; 19, 390</i> ; EUR. <i>I.A. 1047, etc</i>.<p><b>Étym</b>. Πήλιον.`

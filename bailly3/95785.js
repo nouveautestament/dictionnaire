@@ -1,0 +1,1 @@
+lar[95785]=`<b>οῦς (ἡ)</b> banquet, festin, HDT. <i>6, 128 correct. p</i>. συνεστία.`

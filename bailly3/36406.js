@@ -1,0 +1,1 @@
+lar[36406]=`<b>ἐπ·αιγιαλῖτις, ιδος</b>, <i>adj. f</i>. qui séjourne au bord de la mer, ANTH. <i>10, 8</i>.<p><b>Étym</b>. ἐπί, αἰγιαλός.`

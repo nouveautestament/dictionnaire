@@ -1,0 +1,1 @@
+lar[26700]=`<b>οῦ (ὁ)</b> genre de vie à la Diogène, JUL. <i>137c</i>.<p><b>Étym</b>. Διογένης.`

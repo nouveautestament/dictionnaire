@@ -1,0 +1,1 @@
+lar[69601]=`<b>ας (ἡ)</b> trou de souris, tanière, NAZ. <i>Ep. 4, 3</i>.<p><b>Étym</b>. <i>v. la notice s. v</i>. ζοφηφορία.`

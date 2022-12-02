@@ -1,0 +1,1 @@
+lar[88593]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> lime, XÉN. <i>Cyr. 6, 2, 33</i> ; ARSTT. <i>Aud. 45</i> ; ANTH. <i>6, 205</i>.<br><b>      2</b> <i>p. anal</i>. ange de mer, <i>poisson d’une forme intermédiaire entre celle des requins et celle des raies et dont la peau sert à polir le bois et le marbre,</i> ARSTT. <i>H.A. 5, 4, 2, etc</i>.`

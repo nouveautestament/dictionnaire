@@ -1,0 +1,1 @@
+lar[85809]=`<i>vb. de</i> *προσεφαρμόζω, il faut adapter à, <i>dat</i>. ORIG. <i>3, 416</i>.`

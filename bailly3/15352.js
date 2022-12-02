@@ -1,0 +1,1 @@
+lar[15352]=`<b>ἀρτι·μαθής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui vient d’apprendre, <i>gén</i>. EUR. <i>Hec. 687 ; abs</i>. LGS <i>3, 20</i>.<p><b>Étym</b>. ἄ. μανθάνω.`

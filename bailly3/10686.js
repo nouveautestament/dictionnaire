@@ -1,0 +1,1 @@
+lar[10686]=`<b>ἀντ·ωθέω-ῶ</b>, repousser, résister à, TH. <i>H.P. 5, 6, 1</i> ; LGN <i>43, 2</i>.`

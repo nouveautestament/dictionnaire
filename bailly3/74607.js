@@ -1,0 +1,1 @@
+lar[74607]=`<b>παλιν·τυπής, ής, ές</b> <font color="purple">[ᾰῠ]</font> répercuté ; <i>adv</i>., παλιντυπές, A.RH. <i>3, 1254,</i> par répercussion.<p><b>Étym</b>. π. τύπτω.`

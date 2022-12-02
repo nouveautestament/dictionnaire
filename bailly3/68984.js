@@ -1,0 +1,1 @@
+lar[68984]=`<b>ων (τὰ)</b> soins qu’on donne à un malade, OPP. <i>H. 1, 301</i>.<p><b>Étym</b>. νοσηλός.`

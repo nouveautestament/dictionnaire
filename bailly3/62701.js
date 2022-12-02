@@ -1,0 +1,1 @@
+lar[62701]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> boucle de cheveux, ANTH. <i>11, 157</i>.<p><b>Étym</b>. μαλλός.`

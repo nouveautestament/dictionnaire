@@ -1,0 +1,1 @@
+lar[32097]=`<b>εως (ἡ)</b> action de disposer une armée, mise en ordre de bataille, POL. <i>2, 33, 7</i> ; DS. <i>11, 17</i> ; JOS. <i>A.J. 15, 9, 2</i>.<p><b>Étym</b>. ἐκτάσσω.`

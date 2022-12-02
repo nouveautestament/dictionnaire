@@ -1,0 +1,1 @@
+lar[84966]=`<b>προ·πληρόω-ῶ</b>, remplir auparavant, PHIL. <i>1, 603</i> ; DIOSC. <i>Alex. Proœm</i>.`

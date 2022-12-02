@@ -1,0 +1,1 @@
+lar[5460]=`<b>ας (ἡ)</b> = <i>lat</i>. Ameria :<br><b>      1</b> <i>v. d’Ombrie (auj</i>. Amelia) PLUT. <i>Mar. 17</i>.<br><b>      2</b> <i>n. de f</i>. PLUT. <i>Parall. min. 25</i>.`

@@ -1,0 +1,1 @@
+lar[27557]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> folle passion pour la gloire, PLUT. <i>Syll. 7</i> ; CLÉM. <i>1, 549 Migne</i>.<p><b>Étym</b>. δοξομανής.`

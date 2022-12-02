@@ -1,0 +1,1 @@
+lar[89602]=`<font color="darkgreen">(<i>slmt prés. 2 sg</i>. σάως)</font> <i>éol. c</i>. σαόω, ALC. <i>fr. 73 Bgk</i>.`

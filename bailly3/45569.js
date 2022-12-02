@@ -1,0 +1,1 @@
+lar[45569]=`<b>ἡμι·στρατιώτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> à moitié soldat, LUC. <i>Bacch. 3</i>.<p><b>Étym</b>. ἡμι-, στρ.`

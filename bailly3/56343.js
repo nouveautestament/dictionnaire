@@ -1,0 +1,1 @@
+lar[56343]=`<b>ατος (τὸ)</b> cri inarticulé, <i>d’où</i> :<br><b>      1</b> cri d’enfant, HDT. <i>2, 2</i>.<br><b>      2</b> cri plaintif, HIM. (PHOT. <i>Bibl. p. 365, 24).</i><p><b>Étym</b>. κνυζέω.`

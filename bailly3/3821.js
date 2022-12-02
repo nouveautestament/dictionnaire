@@ -1,0 +1,1 @@
+lar[3821]=`<b>ἀκροπολεύω</b>, traverser les régions supérieures, MAN. <i>4, 79</i>.<p><b>Étym</b>. ἀκρόπολος.`

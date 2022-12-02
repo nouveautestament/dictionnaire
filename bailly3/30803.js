@@ -1,0 +1,1 @@
+lar[30803]=`<b>εἰσ·κρίνω</b>, admettre ; <i>au pass</i>. être admis parmi, s’introduire dans, DL. <i>1, 7</i> ; PHIL. <i>1, 49 ; 2, 604</i> ; GEOP. <i>15, 6, 2</i>.`

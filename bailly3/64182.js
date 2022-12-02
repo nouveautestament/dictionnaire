@@ -1,0 +1,1 @@
+lar[64182]=`<b>ας (ἡ)</b> action de démembrer, de dépecer, SPT. <i>Nah. 3, 1</i>.<p><b>Étym</b>. μέλος, κόπτω.`

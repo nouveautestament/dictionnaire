@@ -1,0 +1,1 @@
+lar[10377]=`<b>ἀντι·σεμνύνομαι</b> <font color="purple">[ῡ]</font> faire le fier à son tour, ARSTT. <i>Pol. 5, 11, 13</i>.`

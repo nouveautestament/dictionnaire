@@ -1,0 +1,1 @@
+lar[55175]=`<b>ος, ον</b>, brûlant, ardent, IL. <i>8, 217</i> ; HÉS. <i>Th. 865</i>.<p>➳ <i>Seul. dans la loc</i>. πυρὶ κηλέῳ, <i>dissyll. par syniz</i>.<p><b>Étym</b>. καίω.`

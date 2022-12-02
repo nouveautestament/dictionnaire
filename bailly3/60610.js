@@ -1,0 +1,1 @@
+lar[60610]=`<b>λευκο·στεφής, ής, ές</b>, ceint de bandelettes de laine blanche, ESCHL. <i>Suppl. 191, 333</i>.<p><b>Étym</b>. λ. στέφω.`

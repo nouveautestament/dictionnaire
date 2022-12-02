@@ -1,0 +1,1 @@
+lar[54750]=`aiguillonner, XÉN. <i>Eq. 11, 6 ; fig</i>. XÉN. <i>Cyr. 8, 7, 12 ; Conv. 8, 24</i> ; PLUT. <i>M. 84c</i>.<p><b>Étym</b>. κέντρον.`

@@ -1,0 +1,1 @@
+lar[75009]=`<b>παν·εύδιος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait serein, <i>fig</i>. ATTIC. (EUS. <i>P.E. 815b</i>).<p><b>Étym</b>. π. εὔδιος.`

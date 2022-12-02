@@ -1,0 +1,1 @@
+lar[3510]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> petit esclave pour accompagner, PTOL. (ATH. <i>550a</i>).<p><b>Étym</b>. <i>dim. de</i> ἀκόλουθος.`

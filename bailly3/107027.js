@@ -1,0 +1,1 @@
+lar[107027]=`(<i>seul. prés. et impf.) c</i>. φεύγω, ESCHL. <i>Pr. 513</i> ; SOPH. <i>El. 132</i> ; HPC. <i>537, 50</i>.`

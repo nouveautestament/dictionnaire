@@ -1,0 +1,1 @@
+lar[58198]=`<b>κρυψί·δρομος, ος, ον</b>, qui court en secret, ORPH. <i>H. 50, 3 ; conj</i>. κρυψίδομος <i>Casaub</i>.<p><b>Étym</b>. κρύπτω, δραμεῖν.`

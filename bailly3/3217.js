@@ -1,0 +1,1 @@
+lar[3217]=`<b>ἀ·κατασόφιστος, ος, ον</b>, qu’on ne peut tromper par des sophismes, A. TYAN. <i>Ep. 44</i>.<p><b>Étym</b>. ἀ, κατασοφίζομαι.`

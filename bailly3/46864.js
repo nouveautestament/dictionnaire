@@ -1,0 +1,1 @@
+lar[46864]=`<b>ω (ἡ)</b> Thérambôs, <i>v. de Pallène,</i> HDT. <i>7, 123</i>.`

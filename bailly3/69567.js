@@ -1,0 +1,1 @@
+lar[69567]=`<i>barbarisme d’un Scythe pour</i> ξιφομάχαιρα, AR. <i>Th. 1127</i>.`

@@ -1,0 +1,1 @@
+lar[30425]=`<b>ωνος (ὁ)</b> Eilatiôn, <i>h</i>. LUC. <i>Salt. 14</i>.`

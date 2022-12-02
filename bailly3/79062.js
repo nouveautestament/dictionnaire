@@ -1,0 +1,1 @@
+lar[79062]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la philosophie péripatéticienne ; ὁ π. philosophe péripatéticien, CIC. <i>Acad. quæst. 1, 4</i> ; PLUT. <i>M. 1115a ;</i> LUC. <i>Herm. 14</i> ; τὰ περιπατητικά, la doctrine péripatéticienne, CIC. <i>Att. 13, 19, 4</i>.<p><b>Étym</b>. περιπατέω.`

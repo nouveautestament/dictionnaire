@@ -1,0 +1,1 @@
+lar[12006]=`<b>ἀπ·ισχναίνω</b>, faire maigrir, PHILÉM. (STOB. <i>Fl. 57, 6</i>) ; ARSTT. <i>H.A. 6, 20, 5</i>.`

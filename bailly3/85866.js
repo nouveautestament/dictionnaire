@@ -1,0 +1,1 @@
+lar[85866]=`<b>προσ·θεωρέω-ῶ</b>, considérer en outre, <i>acc</i>. ARSTT. <i>H.A. 4, 11, 4</i>.`

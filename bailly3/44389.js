@@ -1,0 +1,1 @@
+lar[44389]=`<font color="darkgreen">(<i>seul. part. prés. fém. épq. ζαλόωσα</i>)</font> tourbillonner <i>ou</i> éclater en tempête, NIC. <i>Th. 252</i>.<p><b>Étym</b>. ζάλη.`

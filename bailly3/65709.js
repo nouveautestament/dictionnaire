@@ -1,0 +1,1 @@
+lar[65709]=`<b>μικρο·ληψία, ας (ἡ)</b> <font color="purple">[μῑ]</font> action de recevoir de petits présents, POL. <i>5, 90, 5</i>.<p><b>Étym</b>. μ. ληπτός.`

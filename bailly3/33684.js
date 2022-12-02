@@ -1,0 +1,1 @@
+lar[33684]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec le goût inné des querelles, CHRYS. <i>6, 115</i>.`

@@ -1,0 +1,1 @@
+lar[1168]=`<b>Ἀ·δάμας, αντος (ὁ)</b> <font color="purple">[ᾰᾰᾱ]</font> Adamas, <i>h</i>. IL. <i>12, 140 ; 15, 560</i>.<p><b>Étym</b>. <i>cf</i>. ἀδάμας.`

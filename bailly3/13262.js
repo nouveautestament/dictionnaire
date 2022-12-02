@@ -1,0 +1,1 @@
+lar[13262]=`<b>ἀ·πόρφυρος, ος, ον</b> <font color="purple">[ῠ]</font> sans pourpre, non orné de pourpre, PLUT. <i>Ant. 71, M. 528b</i>.<p><b>Étym</b>. ἀ, πορφύρα.`

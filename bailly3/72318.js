@@ -1,0 +1,1 @@
+lar[72318]=`<b>ῆς (ἡ)</b> corne, sabot du cheval <i>et</i> de l’âne, IL. <i>11, 536 ; 20, 501</i> ; XÉN. <i>Eq. 1, 3, etc.</i> ; PLAT. <i>Rsp. 586b ; et en gén</i>. des quadrupèdes (bœuf, HÉS. <i>O. 487</i> ; porc, AR. <i>Ach. 740, etc</i>.).<p><b>Étym</b>. <i>inconnue</i>.`

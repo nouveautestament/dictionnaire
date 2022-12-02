@@ -1,0 +1,1 @@
+lar[15783]=`<b>ἀσελγέω-ῶ</b>, être déréglé <i>ou</i> impudent : τὰ ἠσελγημένα, DÉM. <i>521, 2,</i> actes impudents.<p>➳ <i>Pl.q.pf. pass. réc. 3 sg</i>. ἠσέλγητο, JOS. <i>A.J. 17, 5, 6</i>.<p><b>Étym</b>. ἀσελγής.`

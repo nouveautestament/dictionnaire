@@ -1,0 +1,1 @@
+lar[46887]=`<b>ίδος (ἡ)</b> petite servante, ANTH. <i>9, 603</i>.<p><b>Étym</b>. θέραψ.`

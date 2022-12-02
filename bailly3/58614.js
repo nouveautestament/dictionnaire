@@ -1,0 +1,1 @@
+lar[58614]=`<b>κυλινδρόω-ῶ</b> <font color="purple">[ῠ]</font> aplanir avec un rouleau <i>ou</i> un cylindre, TH. <i>H.P. 2, 4, 3</i>.<p><b>Étym</b>. κύλινδρος.`

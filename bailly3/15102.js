@@ -1,0 +1,1 @@
+lar[15102]=`<b>(ὁ)</b> Arrhénidès, <i>h</i>. PLUT. <i>Dem. 25</i>.<p><b>Étym</b>. ἄρρην.`

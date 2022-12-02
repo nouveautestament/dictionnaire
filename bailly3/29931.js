@@ -1,0 +1,1 @@
+lar[29931]=`<b>εως (ἡ)</b> <font color="purple">[ρῑ]</font><br><b>      1</b> onction, HPC. <i>24, 13</i>.<br><b>      2</b> morsure, EL. <i>N.A. 3, 22</i>.<p><b>Étym</b>. ἐγχρίω.`

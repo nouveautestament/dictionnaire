@@ -1,0 +1,1 @@
+lar[54919]=`<b>κερδαλέη-ῆ, έης-ῆς (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> (<i>s.-e</i>. ἀλώπηξ) le renard (<i>propr</i>. le rusé) ARCHIL. (PLAT. <i>Rsp. 365c</i>) ; EL. <i>N.A. 6, 64</i>.<br><b>      2</b> (<i>s.-e</i>. δορά) peau de renard, NAZ.<p><b>Étym</b>. <i>fém. de</i> κερδαλέος.`

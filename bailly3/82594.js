@@ -1,0 +1,1 @@
+lar[82594]=`<b>πολύ·χωστος, ος, ον</b> <font color="purple">[ῠ]</font> formé d’un grand amas de terre, ESCHL. <i>Ch. 350</i>.<p><b>Étym</b>. π. χώννυμι.`

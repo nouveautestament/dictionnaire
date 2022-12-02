@@ -1,0 +1,1 @@
+lar[22796]=`<b>γυναικό·βουλος, ος, ον</b> <font color="purple">[ῠ]</font> médité par une femme, ESCHL. <i>Ch. 626</i>.<p><b>Étym</b>. γυνή, βουλή.`

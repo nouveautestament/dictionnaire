@@ -1,0 +1,1 @@
+lar[23361]=`<b>ου (ὁ)</b> Daphnæos, <i>h</i>. ARSTT. <i>Pol. 5, 5</i> ; PLUT. <i>M. 749, etc</i>.`

@@ -1,0 +1,1 @@
+lar[69388]=`<b>ξανθο·τριχέω-ῶ</b> <font color="purple">[ῐ]</font> avoir les cheveux blonds, STR. <i>263</i>.<p><b>Étym</b>. ξανθόθριξ.`

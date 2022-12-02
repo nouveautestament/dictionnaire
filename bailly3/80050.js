@@ -1,0 +1,1 @@
+lar[80050]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> pêche du thon, STR. <i>549</i>.<p><b>Étym</b>. πηλαμύς.`

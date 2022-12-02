@@ -1,0 +1,1 @@
+lar[16011]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> le superflu, TÉLÈS (STOB. <i>Fl. 97, 31, t. 3, p. 216, 21 Mein</i>.).`

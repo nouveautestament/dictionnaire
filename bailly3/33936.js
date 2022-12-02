@@ -1,0 +1,1 @@
+lar[33936]=`<b>ἐν·απο·ζέννυμι</b> <font color="purple">[ᾰῡ]</font> faire bouillir dans, <i>dat</i>. DIOSC. <i>4, 178</i> ; GAL. <i>13, 560</i>.<p><b>Étym</b>. ἐν, ἀπό, ζέω.`

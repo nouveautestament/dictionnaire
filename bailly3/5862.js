@@ -1,0 +1,1 @@
+lar[5862]=`<b>ή, όν</b> <font color="purple">[ᾰκ]</font> d’Ambracie : ὁ Ἀ. κόλπος, THC. <i>1, 55,</i> le golfe d’Ambracie (<i>auj</i>. golfe Ambracique) <i>entre l’Épire et l’Acarnanie</i>.<p>➳ <i>Postér</i>. Ἀμβρακικός, POL. <i>4, 63</i> ; STR. <i>428</i>.`

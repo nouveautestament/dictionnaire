@@ -1,0 +1,1 @@
+lar[107691]=`<b>χαλκο·σκελής, ής, ές</b>, aux jambes d’airain, SOPH. <i>fr. 320</i>.<p><b>Étym</b>. χ. σκέλος.`

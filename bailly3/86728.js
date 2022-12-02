@@ -1,0 +1,1 @@
+lar[86728]=`<b>προ·ταμιεύω</b> <font color="purple">[ᾰ]</font> faire d’avance des provisions, mettre en réserve, LUC. <i>Salt. 61</i>.`

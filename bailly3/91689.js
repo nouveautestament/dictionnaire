@@ -1,0 +1,1 @@
+lar[91689]=`<b>ατος (τὸ)</b> <font color="purple">[πᾰ]</font> tiraillement, ANTH. <i>5, 204</i>.<p><b>Étym</b>. σπαδονίζω.`

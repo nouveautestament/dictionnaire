@@ -1,0 +1,1 @@
+lar[9641]=`<b>ἀντ·επεξάγω</b> <font color="darkgreen">(<i>impf</i>. -επεξῆγον)</font> <font color="purple">[ᾰγ]</font> faire sortir (des troupes) contre, marcher contre, THC. <i>8, 104</i> ; LUC. <i>Bacch. 3</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao.2</i> -επεξηγαγόμην)</font> <i>m. sign</i>. DC. <i>30, 31</i>.`

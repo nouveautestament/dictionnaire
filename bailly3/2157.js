@@ -1,0 +1,1 @@
+lar[2157]=`<font color="darkgreen">(<i>seul. prés. fut. et ao. part</i>. αἰάξας) :</font><br><b>      1</b> gémir, SOPH. <i>Aj. 432, 904</i> ; ANTH. <i>App. 127 ; avec un acc</i>. se lamenter sur, déplorer, ESCHL. <i>Pers. 886</i>.<br><b>      2</b> <i>p. ext</i>. respirer bruyamment, ARSTT. <i>H.A. 4, 9, 20</i>.<p><b>Étym</b>. αἶ.`

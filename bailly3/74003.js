@@ -1,0 +1,1 @@
+lar[74003]=`<b>ας (ἡ)</b> production de fruits tardifs, TH. <i>H.P. 3, 2, 1</i>.<p><b>Étym</b>. ὀψίκαρπος.`

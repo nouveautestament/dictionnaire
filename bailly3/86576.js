@@ -1,0 +1,1 @@
+lar[86576]=`<b>προσ·υποτίθεμαι</b> <font color="purple">[ῐ]</font><br><b>      1</b> placer en outre dessous, HIPPIATR. <i>p. 197, 27</i>.<br><b>      2</b> supposer en outre, GAL. <i>6, 127, 8</i>.`

@@ -1,0 +1,1 @@
+lar[20211]=`<b>βορβορόω-ῶ</b>, <i>f</i>. ώσω, couvrir de fange, souiller, ARSTT. <i>G.A. 3, 11, 31</i>.<p><b>Étym</b>. βόρβορος.`

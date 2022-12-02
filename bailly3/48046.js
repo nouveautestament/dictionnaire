@@ -1,0 +1,1 @@
+lar[48046]=`<b>ιδος (ὁ)</b> Thyrsis, <i>n. de berger,</i> THCR. <i>Idyl. 1</i> ; ANTH. <i>7, 703 ; 9, 432</i>.<p>➳ <i>Voc</i>. Θύρσι, THCR. <i>Idyl. 1, 19</i>.<p><b>Étym</b>. θύρσος.`

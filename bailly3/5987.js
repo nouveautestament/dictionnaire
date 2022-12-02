@@ -1,0 +1,1 @@
+lar[5987]=`<b>ἀμφ·αλάλημαι</b> <font color="purple">[ᾰλᾰ]</font> (<i>pf. au sens d’un prés</i>.) errer autour, OPP. <i>C. 3, 423</i>.`

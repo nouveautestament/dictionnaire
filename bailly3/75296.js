@@ -1,0 +1,1 @@
+lar[75296]=`<b>παντο·φάγος, ος, ον</b> <font color="purple">[ᾰγ]</font> qui mange tout, vorace, ANTH. <i>8, 213</i> ; NAZ. <i>4, 123 Migne</i>.<p><b>Étym</b>. π. φαγεῖν.`

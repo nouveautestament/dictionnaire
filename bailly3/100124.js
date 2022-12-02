@@ -1,0 +1,1 @@
+lar[100124]=`<b>ή, όν</b> <font color="purple">[ῐβ]</font> fondé sur la pratique, SEXT. <i>M. 1, 249</i>.<p><b>Étym</b>. τριβή.`

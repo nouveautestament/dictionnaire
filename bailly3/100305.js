@@ -1,0 +1,1 @@
+lar[100305]=`<b>α, ον</b> <font color="purple">[τρῑ]</font> de Trinacrie, A.RH. <i>4, 291</i> ; CALL. <i>fr. 18, etc</i>.<p><b>Étym</b>. <i>v</i>. Τρινακρία.`

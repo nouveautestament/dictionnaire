@@ -1,0 +1,1 @@
+lar[24524]=`<b>δι·αγωνία, ας (ἡ)</b> <font color="purple">[ᾰγ]</font> <i>c</i>. ἀγωνία, M. TYR. <i>1, 15 Dübn</i>.`

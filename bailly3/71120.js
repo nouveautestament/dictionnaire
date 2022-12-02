@@ -1,0 +1,1 @@
+lar[71120]=`<b>ου (ὁ) :<br>      1</b> endroit glissant, LUC. <i>Anach. 2</i> ; LIB. <i>t. 4, p. 615</i>.<br><b>      2</b> glissement, HPC. <i>393, 48, etc. ; fig</i>. CLÉM. <i>Pæd. 2, 155d.</i><br><b>      3</b> <i>sorte de poisson,</i> OPP. <i>H. 1, 113</i>.<p><b>Étym</b>. <i>cf</i>. ὀλισθάνω.`

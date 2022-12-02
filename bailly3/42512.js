@@ -1,0 +1,1 @@
+lar[42512]=`<b>ἐϋ·κρήπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> aux solides fondements, NONN. <i>D. 40, 258</i>.<p><b>Étym</b>. εὖ, κρηπίς.`

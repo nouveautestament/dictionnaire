@@ -1,0 +1,1 @@
+lar[43169]=`<b>εὑρεσί·λογος, ος, ον</b> <font color="purple">[ῐ]</font> qui trouve facilement des mots <i>ou</i> des raisons, qui a la parole facile, CORN. <i>191</i>.<p>•<i> Sup</i>. -ώτατος, DL. <i>4, 37</i>.<p>➳ <i>Poét</i>. εὑρεσσίλογος, SIB. <i>1, 178</i>.<p><b>Étym</b>. εὑρίσκω, λόγος.`

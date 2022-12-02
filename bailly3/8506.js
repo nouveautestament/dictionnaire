@@ -1,0 +1,1 @@
+lar[8506]=`<b>ἀν·επίτακτος, ος, ον</b>, qui agit sans ordre <i>ou</i> sans contrôle, indépendant, THC. <i>7, 69</i> ; PLUT. <i>M. 987b</i>.<p><b>Étym</b>. ἀν-, ἐπιτάσσω.`

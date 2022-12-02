@@ -1,0 +1,1 @@
+lar[70903]=`<b>ὀλβιο·γάστωρ</b>, <i>gén</i>. <b>ορος</b>, <i>adj. m</i>. qui cherche <i>ou</i> trouve le bonheur dans son ventre, AMPHIS (ATH. <i>386e</i>).<p><b>Étym</b>. ὄλβιος, γαστήρ.`

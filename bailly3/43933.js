@@ -1,0 +1,1 @@
+lar[43933]=`<b>ας (ἡ)</b> embuscade, ATHÉNÉE MÉC. <i>16, 4</i>.<p><b>Étym</b>. ἐφέδρα.`

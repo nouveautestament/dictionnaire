@@ -1,0 +1,1 @@
+lar[99316]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑᾰ]</font> Tisaménos, <i>h</i>. HDT. <i>4, 147, etc.</i> ; THC. <i>3, 92</i> ; XÉN. <i>Hell. 3, 3, 11, etc</i>.<p>➳ <i>Dans les inscr. att</i>. Τεισάμενος, CIA. <i>1, 133, 2 (5<sup>e</sup> siècle av. J.-C.), etc. ; v. Meisterh. p. 144, 6. Sur le rad</i>. τει- <i>du verbe</i> τίνω, <i>v. ce mot</i>.`

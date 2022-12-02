@@ -1,0 +1,1 @@
+lar[51600]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>d’ord. au pl</i>. crèche, mangeoire, IL. <i>8, 434</i> ; OD. <i>4, 40</i>.`

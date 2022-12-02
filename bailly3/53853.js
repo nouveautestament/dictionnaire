@@ -1,0 +1,1 @@
+lar[53853]=`<b>κατ·έλαιος, ος, ον</b>, rempli d’huile, ARCHESTR. (ATH. <i>399f</i>).<p><b>Étym</b>. κ. ἔλαιον.`

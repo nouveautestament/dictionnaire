@@ -1,0 +1,1 @@
+lar[25882]=`<b>δια·φρύγω</b> <font color="darkgreen">(<i>ao. impér</i>. διάφρυξον)</font> griller entièrement, HIPPIATR. <i>p. 251</i>.`

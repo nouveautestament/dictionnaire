@@ -1,0 +1,1 @@
+lar[10476]=`<b>ατος (τὸ)</b> troupe opposée à l’ennemi, DS. <i>11, 67</i> ; PLUT. <i>Cleom. 23</i>.`

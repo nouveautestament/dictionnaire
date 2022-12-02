@@ -1,0 +1,1 @@
+lar[74351]=`<b>ή, όν :<br>      1</b> de Pæonie, THC. <i>2, 96, etc.</i> ; STR. <i>316, etc.</i> ; EL. <i>N.A. 7, 3, etc.</i> ; ἡ Παιονική, (<i>s.e</i>. γῆ) HDT. <i>7, 124</i> ; ARSTT. <i>Mir. 1,</i> la Pæonie (<i>v</i>. Παιονία).<br><b>      2</b> de Pannonie, PHILSTR. <i>V. soph. 571</i>.<p><b>Étym</b>. <i>v</i>. Παιονία.`

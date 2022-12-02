@@ -1,0 +1,1 @@
+lar[94274]=`<b>συμ·πλέω</b>, <i>anc. att</i>. <b>ξυμ·πλέω</b>, naviguer ensemble <i>ou</i> avec, <i>dat</i>. EUR. <i>I.A. 102</i> ; THC. <i>1, 27 ; 6, 44</i> ; PLAT. <i>Gorg. 511e ; fig</i>. EUR. <i>H.f. 1225</i>.<p>➳ <i>Ao.2 poét</i>. συνέπλων, ANTH. <i>7, 635</i>.`

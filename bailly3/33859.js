@@ -1,0 +1,1 @@
+lar[33859]=`<b>ἐν·αλύω</b> <font color="purple">[ᾰ]</font> s’égarer <i>ou</i> se jouer dans <i>ou</i> sur, <i>dat</i>. PHILSTR. <i>823 ; en parl. de cheveux qui se jouent sur le visage,</i> PHILSTR. <i>779</i>.`

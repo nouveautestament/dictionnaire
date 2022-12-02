@@ -1,0 +1,1 @@
+lar[10266]=`<b>ἀντι·περιψύχω</b> <font color="purple">[ῡ]</font> rafraîchir à son tour <i>ou</i> en retour, PLUT. <i>M. 691f</i>.`

@@ -1,0 +1,1 @@
+lar[51700]=`<b>ης, ες</b> <font color="purple">[ᾱᾰ]</font> <i>c</i>. καραβοειδής, ARSTT. <i>H.A. 4, 2, 21, etc</i>.<p><b>Étym</b>. κάραβος, -ωδης.`

@@ -1,0 +1,1 @@
+lar[53880]=`<b>κατ·εντείνομαι</b>, faire tous ses efforts, M. ANT. <i>4, 3</i>.`

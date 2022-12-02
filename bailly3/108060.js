@@ -1,0 +1,1 @@
+lar[108060]=`<font color="darkgreen">(<i>f</i>. -ιῶ)</font> <font color="purple">[ᾰ]</font> <i>c</i>. χειμάζω, JOS. <i>A.J. 18, 5, 3</i>.`

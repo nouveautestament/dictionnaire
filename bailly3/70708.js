@@ -1,0 +1,1 @@
+lar[70708]=`<b>ατος (τὸ)</b> aiguillon, piqûre qui rend furieux, SOPH. <i>O.R. 1318</i> ; ANTH. <i>6, 51</i>.<p><b>Étym</b>. οἰστράω.`

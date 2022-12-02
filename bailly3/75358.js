@@ -1,0 +1,1 @@
+lar[75358]=`<b>Παπρημίτης νομός (ὁ)</b> le nome Paprèmite <i>dans la Basse-Égypte,</i> HDT. <i>2, 71</i>.<p><b>Étym</b>. Πάπρημις.`

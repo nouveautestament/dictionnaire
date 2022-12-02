@@ -1,0 +1,1 @@
+lar[80820]=`<b>πλειονο·μοιρέω-ῶ</b>, avoir un plus grand nombre de parties, P. ALEX. <i>Apot. 17, p. 36, l. 6 Boer</i>.<p><b>Étym</b>. πλείων, μοῖρα.`

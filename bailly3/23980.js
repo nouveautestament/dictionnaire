@@ -1,0 +1,1 @@
+lar[23980]=`<b>ατος (τὸ) :<br>      1</b> lien, <i>au plur</i>. OD. <i>1, 204 ; 8, 278</i>.<br><b>      2</b> bandeau pour une chevelure de femme, IL. <i>22, 468</i>.<p><b>Étym</b>. δέω¹.`

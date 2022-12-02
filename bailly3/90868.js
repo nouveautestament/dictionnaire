@@ -1,0 +1,1 @@
+lar[90868]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱᾰφ]</font> dessin <i>ou</i> peinture en perspective, PLAT. <i>Theæt. 208e</i>.<p><b>Étym</b>. σκιαγραφέω.`

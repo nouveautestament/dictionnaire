@@ -1,0 +1,1 @@
+lar[80651]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> πλανάω, XÉN. <i>Lac. 9, 5</i>.`

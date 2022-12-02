@@ -1,0 +1,1 @@
+lar[89526]=`<b>ίδος</b> <font color="purple">[ᾰᾰ]</font> <i>adj. f. c</i>. σατραπικός PHILSTR. <i>V. Ap. 2, 68</i>.`

@@ -1,0 +1,1 @@
+lar[41806]=`<b>ας (ἡ)</b> dessin bien tracé, ATH. <i>197b</i>.<p><b>Étym</b>. εὔγραμμος.`

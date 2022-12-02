@@ -1,0 +1,1 @@
+lar[109099]=`<b>α, ον</b> <font color="purple">[ῡ]</font> <i>poét. c</i>. χρύσεος, HOM. HÉS. THCR. <i>etc. ; en prose dans la locut</i>. χρύσεια μέταλλα, THC. <i>4, 105</i> ; DS. <i>16, 8,</i> mines d’or.<p><b>Étym</b>. χρυσός.`

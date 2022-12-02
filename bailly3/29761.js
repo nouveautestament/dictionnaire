@@ -1,0 +1,1 @@
+lar[29761]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> admis après examen, approuvé, PLAT. <i>Leg. 966d</i>.<p><b>Étym</b>. ἐγκρίνω.`

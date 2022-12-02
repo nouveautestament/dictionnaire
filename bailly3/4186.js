@@ -1,0 +1,1 @@
+lar[4186]=`<b>ας (ἡ)</b> exemption des charges publiques (<i>att</i>. ἀτέλεια) STR. <i>13</i>.<p><b>Étym</b>. ἀλειτούργητος.`

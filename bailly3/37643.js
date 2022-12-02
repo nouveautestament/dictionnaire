@@ -1,0 +1,1 @@
+lar[37643]=`<b>ἐπι·διστάζω</b>, avoir un doute sur, TH. <i>Od. 45</i> ; NYSS. <i>3, 16</i>.`

@@ -1,0 +1,1 @@
+lar[13063]=`<b>ἀπο·πιέζω :<br>      1</b> faire sortir en pressant, exprimer, ARSTT. <i>Probl. 9, 3</i>.<br><b>      2</b> presser <i>ou</i> serrer fortement, HPC. <i>2, 516 Littré ; au pass</i>. TH. <i>fr. 11</i>.`

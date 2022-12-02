@@ -1,0 +1,1 @@
+lar[104964]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. φάσηλος, ARCAD. <i>p. 31</i>.`

@@ -1,0 +1,1 @@
+lar[18792]=`<b>βαθυ·πόλεμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> profondément belliqueux, PD. <i>P. 2, 1</i>.<p><b>Étym</b>. β. πόλεμος.`

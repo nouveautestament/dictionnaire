@@ -1,0 +1,1 @@
+lar[91039]=`<b>σκληρο·ποιός, ός, όν</b>, qui rend dur, qui durcit, PLUT. <i>M. 953c</i>.<p><b>Étym</b>. σκλ. ποιέω.`

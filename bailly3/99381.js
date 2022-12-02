@@ -1,0 +1,1 @@
+lar[99381]=`<b>τιτλόω-ῶ</b>, infliger le supplice de la marque, marquer, RHÉT. <i>7, 1, 676 W</i>.<p><b>Étym</b>. τίτλος.`

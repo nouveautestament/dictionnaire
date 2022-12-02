@@ -1,0 +1,1 @@
+lar[9594]=`<b>ἀντ·εμπήγνυμι</b> (<i>sbj. ao.2 pass</i>. ἀντεμπαγῶ) enfoncer <i>ou</i> ficher contre, AR. <i>Ach. 230</i>.<p><b>Étym</b>. ἀντί, ἐ.`

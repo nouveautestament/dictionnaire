@@ -1,0 +1,1 @@
+lar[94797]=`<b>συν·ανθρωπίζω :<br>      1</b> être sociable, CLÉARQ. (ATH. <i>611c</i>).<br><b>      2</b> être apprivoisé, ARSTT. <i>H.A. 1, 1, 30</i>.`

@@ -1,0 +1,1 @@
+lar[105889]=`<b>ας (ἡ)</b> <font color="purple">[ῐλᾰ]</font> bavardage, LIB. <i>222</i>.`

@@ -1,0 +1,1 @@
+lar[109212]=`<b>χρυσο·μηλολόνθιον, ου (τὸ)</b> <font color="purple">[ῡ]</font> (mon) petit scarabée d’or, <i>t. d’amitié,</i> AR. <i>Vesp. 1341</i>.<p><b>Étym</b>. χρ. μηλολόνθη.`

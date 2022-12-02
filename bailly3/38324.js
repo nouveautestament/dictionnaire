@@ -1,0 +1,1 @@
+lar[38324]=`<b>οῦ (ὁ) :<br>      1</b> calcul, réflexion, ARSTT. <i>Pol. 6, 8, 21,</i> DH. <i>1, 74</i>.<br><b>      2</b> <i>p. suite,</i> examen, recherche, PLUT. <i>M. 40b</i>.<p><b>Étym</b>. ἐπιλογίζομαι.`

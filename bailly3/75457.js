@@ -1,0 +1,1 @@
+lar[75457]=`<font color="purple">[μᾰ]</font><br><b>      1</b> altérer par un changement de lettre : τινά, TIMON (DL. <i>3, 26</i>) le nom de qqn.<br><b>      2</b> changer une <i>ou</i> plusieurs lettres d’un mot, STR. <i>41</i>.<p><b>Étym</b>. παράγραμμα.`

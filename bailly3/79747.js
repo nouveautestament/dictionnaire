@@ -1,0 +1,1 @@
+lar[79747]=`<b>ιδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. περόνημα ANTH. <i>7, 413</i>.`

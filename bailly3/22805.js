@@ -1,0 +1,1 @@
+lar[22805]=`<b>γυναικο·κτόνος, ος, ον</b> <font color="purple">[ῠ]</font> meurtrier d’une femme <i>ou</i> de sa femme, PHIL. <i>2, 581</i>.<p><b>Étym</b>. γ. κτείνω.`

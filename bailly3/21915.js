@@ -1,0 +1,1 @@
+lar[21915]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec joie, HPC. <i>Ep. 1285, 46</i> ; NAZ. <i>2, 42, etc</i>.`

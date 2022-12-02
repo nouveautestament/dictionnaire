@@ -1,0 +1,1 @@
+lar[8882]=`<b>ἀνθ·ορμέω-ῶ</b>, <i>t. de mar</i>. mouiller en face de, <i>dat</i>. THC. <i>7, 19, ou</i> πρός <i>et l’acc</i>. THC. <i>7, 31</i>.<p><b>Étym</b>. ἀντί, ὁ.`

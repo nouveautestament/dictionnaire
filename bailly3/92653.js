@@ -1,0 +1,1 @@
+lar[92653]=`<b>ά, όν</b> <font color="purple">[ῐ]</font> disposé par lignes, par vers, NAZ. <i>3, 473, 1594 Migne</i>.<p><b>Étym</b>. <i>cf</i>. στιχήρης.`

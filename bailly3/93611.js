@@ -1,0 +1,1 @@
+lar[93611]=`<b>συγ·χορεύω</b>, danser ensemble, AR. <i>Av. 1761 ; particul</i>. être du même chœur, ARSTT. <i>Pol. 3, 13, 21</i> ; PLUT. <i>M. 94b</i>.`

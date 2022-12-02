@@ -1,0 +1,1 @@
+lar[72204]=`<b>*ὀξυωπῶς</b>, <i>sup</i>. ὀξυωπέστατα, <i>adv</i>., avec une vue très perçante, HERM. (STOB. <i>Ecl. phys. t. 1, p. 988).</i><p><b>Étym</b>. ὀξυωπής.`

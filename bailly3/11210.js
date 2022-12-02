@@ -1,0 +1,1 @@
+lar[11210]=`<i>ou</i> <b>Ἀπάμη (ἡ)</b> Apama <i>ou</i> Apamè, <i>n. de f. oriental,</i> PLUT. <i>Eum. 1, Demetr. 31</i>.`

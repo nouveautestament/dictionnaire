@@ -1,0 +1,1 @@
+lar[33561]=`<b>ἐμ·πομπεύω :<br>      1</b> s’avancer solennellement, DC. <i>77, 5</i>.<br><b>      2</b> <i>p. suite, fig</i>. faire parade, se glorifier de, <i>dat</i>. LUC. <i>Ind. 10</i> ; CLÉM. <i>1, 596 Migne</i>.<p><b>Étym</b>. ἐν, π.`

@@ -1,0 +1,1 @@
+lar[108598]=`<b>χλοη·τόκος, ος, ον</b>, qui engendre une verdure nouvelle, LUC. <i>Trag. 45</i>.<p><b>Étym</b>. χλόη, τίκτω.`

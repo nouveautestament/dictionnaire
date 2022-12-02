@@ -1,0 +1,1 @@
+lar[35271]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> canal <i>ou</i> conduit d’écoulement, TIMARCH. (ATH. <i>501e</i>).<p><b>Étym</b>. ἐξάγω.`

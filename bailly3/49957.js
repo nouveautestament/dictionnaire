@@ -1,0 +1,1 @@
+lar[49957]=`<b>οῦ (ὁ)</b> <i>mot tyrrhénien c</i>. ταῦρος, DC. <i>fr. 4, 2</i>.<p><b>Étym</b>. <i>cf. lat</i>. vitulus.`

@@ -1,0 +1,1 @@
+lar[107127]=`<i>ion</i>. <b>φυλίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> olivier sauvage, <i>sel. d’autres,</i> sorte de nerprun, OD. <i>5, 477</i>.`

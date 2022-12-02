@@ -1,0 +1,1 @@
+lar[8513]=`<b>ητος (ἡ)</b> défaut de convenance, PHIL. <i>1, 191</i> ; M. ANT. <i>5, 5</i>.`

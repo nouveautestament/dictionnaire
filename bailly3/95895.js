@@ -1,0 +1,1 @@
+lar[95895]=`<b>συν·ηπεροπεύω</b>, tromper ensemble <i>ou</i> en même temps, AR. <i>Lys. 843</i>.`

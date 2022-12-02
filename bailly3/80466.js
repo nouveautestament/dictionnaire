@@ -1,0 +1,1 @@
+lar[80466]=`<b>ατος (τὸ)</b> gage de foi, ESCHL. <i>Ag. 878</i>.<p><b>Étym</b>. πιστεύω.`

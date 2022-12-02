@@ -1,0 +1,1 @@
+lar[89750]=`<b>σελιδη·φάγος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui mange des feuilles de livre, ANTH. <i>9, 251</i>.<p><b>Étym</b>. σελίς, φαγεῖν.`

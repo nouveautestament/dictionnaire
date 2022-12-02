@@ -1,0 +1,1 @@
+lar[20110]=`<b>ου (ὁ)</b> = <i>lat</i>. Vŏcōnius, <i>n. d’h</i>. PLUT. <i>Luc. 13</i>.`

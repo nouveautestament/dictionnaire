@@ -1,0 +1,1 @@
+lar[67267]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> dix-millième, XÉN. <i>Cyr. 2, 3, 6</i> ; PLAT. <i>Leg. 656e ;</i> ARSTT. <i>Rhet. 2, 8, 10</i>.<p><b>Étym</b>. μυρίος.`

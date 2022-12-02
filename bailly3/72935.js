@@ -1,0 +1,1 @@
+lar[72935]=`<b>ὀρνιθο·λόγος, ος, ον</b> <font color="purple">[ῑ]</font> qui parle des oiseaux, PLUT. <i>M. 406c</i>.<p><b>Étym</b>. ὄρνις, λέγω.`

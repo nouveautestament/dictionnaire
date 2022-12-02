@@ -1,0 +1,1 @@
+lar[41907]=`<b>εὔ·διφρος, ος, ον</b>, aux beaux chariots, NONN. <i>D. 37, 139</i>.<p><b>Étym</b>. εὖ, δίφρος.`

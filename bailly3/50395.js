@@ -1,0 +1,1 @@
+lar[50395]=`<b>καθ·ημερεία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> travail de chaque jour, POL. <i>6, 33, 4 au pl</i>.<p><b>Étym</b>. καθ' ἡμέραν.`

@@ -1,0 +1,1 @@
+lar[11651]=`<b>ου (ὁ)</b> ravisseur, PTOL. <i>Tetr. 4, p. 180</i>.<p><b>Étym</b>. ἀπελαύνω.`

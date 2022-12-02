@@ -1,0 +1,1 @@
+lar[86861]=`<b>προ·ϋπάγομαι</b> <font color="purple">[ᾰ]</font> pousser peu à peu en avant, <i>d’où</i> engager, attirer : τινα ἔς τι, DC. <i>58, 28,</i> qqn dans qqe ch.`

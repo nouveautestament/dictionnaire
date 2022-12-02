@@ -1,0 +1,1 @@
+lar[24461]=`<b>εως (ἡ)</b> érosion, ulcération, PLUT. <i>M. 1087e ;</i> JOS. <i>B.J. 7, 11, 4</i> ; DIOSC. <i>1, 137</i> ; ARÉT. <i>62a ;</i> GAL. <i>7, 466</i>.<p><b>Étym</b>. <i>v</i>. διάβρωμα.`

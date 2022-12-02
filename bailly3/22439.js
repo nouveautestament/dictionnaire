@@ -1,0 +1,1 @@
+lar[22439]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> fécond, ORPH. <i>H. 54, 19</i>.<p><b>Étym</b>. γόνιμος, -ωδης.`

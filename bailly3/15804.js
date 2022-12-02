@@ -1,0 +1,1 @@
+lar[15804]=`<b>ἀσημο·κλέπτης, ου (ὁ)</b> <i>mot de sign. obscure, p.-ê</i>. voleur d’argenterie <i>ou</i> de bijoux, ANTH. <i>11, 360</i>.<p><b>Étym</b>. ἄσημος, κλέπτω.`

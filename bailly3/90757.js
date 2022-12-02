@@ -1,0 +1,1 @@
+lar[90757]=`fendre avec la hache, HÉRON <i>Aut. 244</i>.<p><b>Étym</b>. σκέπαρνον.`

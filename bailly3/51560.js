@@ -1,0 +1,1 @@
+lar[51560]=`<font color="purple">[ᾰ]</font> <i>adv</i>., régulièrement, ARTÉM. <i>1, Præf. p. 2, 31</i>.`

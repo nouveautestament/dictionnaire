@@ -1,0 +1,1 @@
+lar[63216]=`<b>ωνος (ὁ)</b> Makhæriôn, <i>h</i>. PAUS. <i>8, 11, 5 ; cf</i>. DIOSC. (PLUT. <i>Ages. 35).</i><p><b>Étym</b>. μάχαιρα.`

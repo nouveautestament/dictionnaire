@@ -1,0 +1,1 @@
+lar[66673]=`<b>μονο·φυής, ής, ές :<br>      1</b> qui est simple de sa nature, qui ne se compose pas de parties distinctes, ARSTT. <i>P.A. 3, 7, etc.</i> ; TH. <i>H.P. 2, 6, 9</i>.<br><b>      2</b> qui est d’un seul bloc, HDT. <i>9, 83</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>P.A. 3, 12</i>.<p>➳ <i>Ion</i>. μουνοφ-, HDT. <i>l. c</i>.<p><b>Étym</b>. μ. φύω.`

@@ -1,0 +1,1 @@
+lar[67110]=`<b>οῦ (ὁ)</b> raillerie, moquerie, ATH. <i>182a, 187c</i>.<p><b>Étym</b>. μυκτηρίζω.`

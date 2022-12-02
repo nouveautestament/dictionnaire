@@ -1,0 +1,1 @@
+lar[61311]=`<b>ῆτος</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. pauvre, misérable, ARCHIL. <i>50</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

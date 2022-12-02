@@ -1,0 +1,1 @@
+lar[104828]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Phanos, <i>h</i>. AR. <i>Eq. 1256</i> ; DÉM. <i>851, 21</i>.<p><b>Étym</b>. φαίνω.`

@@ -1,0 +1,1 @@
+lar[29076]=`<b>δωδεκά·γωνον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> dodécagone, mesure de douze angles <i>ou</i> côtés, PLUT. <i>M. 363a</i>.<p><b>Étym</b>. δ. γωνία.`

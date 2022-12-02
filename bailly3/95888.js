@@ -1,0 +1,1 @@
+lar[95888]=`<i>adv.</i> :<br><b>      1</b> en fermant (les lèvres) GAL. <i>2, 85</i>.<br><b>      2</b> d’une manière tout à fait appropriée, BAS. <i>1, 517 Migne</i>.<p><b>Étym</b>. συνάπτω.`

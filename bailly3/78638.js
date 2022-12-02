@@ -1,0 +1,1 @@
+lar[78638]=`<b>εως (ἡ)</b> retentissement autour, PLUT. <i>Syll. 19</i> ; PHIL. <i>2, 159</i>.<p><b>Étym</b>. περιηχέω.`

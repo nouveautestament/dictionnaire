@@ -1,0 +1,1 @@
+lar[46357]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> étonnement, GAL. <i>12, 943</i>.<p><b>Étym</b>. θαυμάζω.`

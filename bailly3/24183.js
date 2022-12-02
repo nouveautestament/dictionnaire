@@ -1,0 +1,1 @@
+lar[24183]=`<b>*Δημαρέτιος</b>, <i>seul. dor</i>. <b>Δαμαρέτιος χρυσός (ὁ)</b> <font color="purple">[ᾱᾰ]</font> l’or de Damarétè, <i>femme de Gélon, roi de Syracuse,</i> SIM. <i>fr. 196</i>.<p><b>Étym</b>. Δημαρέτη.`

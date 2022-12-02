@@ -1,0 +1,1 @@
+lar[64602]=`<b>ου (ὁ)</b> = <i>lat</i>. Messalinus, <i>n. d’h. rom</i>. DC. <i>55, 29</i>.<p>➳ Μεσσαλινός <font color="purple">[ῐ]</font> <i>d’où gén</i>. -οῦ, ANTH. <i>App. 333, épq</i>. -οῖο, ANTH. <i>9, 694</i>.`

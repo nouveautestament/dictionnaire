@@ -1,0 +1,1 @@
+lar[103466]=`<b>ὑπο·λευκαίνομαι</b>, blanchir en dessous <i>ou</i> devenir blanchâtre, IL. <i>5, 502</i> ; ARAT. <i>927</i> ; LUC. <i>D. mer. 11, 3</i>.`

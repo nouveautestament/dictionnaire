@@ -1,0 +1,1 @@
+lar[25936]=`<b>δια·χρίω</b>, oindre, enduire, HPC. <i>889f ;</i> GAL. <i>13, 503</i> ; GEOP. <i>2, 6, 43 ; en parl. d’abeilles pour la construction de leurs cellules,</i> ARSTT. <i>H.A. 9, 40, 6</i>.`

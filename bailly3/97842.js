@@ -1,0 +1,1 @@
+lar[97842]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de sépulture, de tombeau, ANTH. <i>7, 40</i> ; NONN. <i>Jo. 20, 7</i>.<p><b>Étym</b>. τάφος¹.`

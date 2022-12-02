@@ -1,0 +1,1 @@
+lar[82619]=`<b>ατος (τὸ)</b> sorte de palmier φοῖνιξ, DIOSC. <i>1, 148</i>.`

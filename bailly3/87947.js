@@ -1,0 +1,1 @@
+lar[87947]=`<b>πυρο·πωλέω-ῶ</b> <font color="purple">[ῡ]</font> vendre du blé, DÉM. <i>376, 1</i>.<p><b>Étym</b>. πυρός, π.`

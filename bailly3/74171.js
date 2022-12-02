@@ -1,0 +1,1 @@
+lar[74171]=`<b>οντος (ὁ)</b> Pankhôn, <i>î. fabuleuse de la mer Rouge,</i> PLUT. <i>Is. et Os. 23</i>.`

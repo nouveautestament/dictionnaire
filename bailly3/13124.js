@@ -1,0 +1,1 @@
+lar[13124]=`<b>ἀπο·πονέω-ῶ</b> (<i>pf</i>. ἀποπεπόνηκα) être au bout de ses peines, AR. <i>Th. 245</i>.`

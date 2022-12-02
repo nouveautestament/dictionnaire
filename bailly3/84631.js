@@ -1,0 +1,1 @@
+lar[84631]=`<b>πρό·κωπος, ος, ον :<br>      1</b> que l’on tient par la poignée, <i>càd. en parl. d’une épée,</i> prête pour le combat, ESCHL. <i>Ag. 1651</i> ; EUR. <i>Or. 1477, etc.</i><br><b>      2</b> qui tient la poignée de l’épée, <i>càd</i>. prêt, ESCHL. <i>Ag. 1652</i> ; HDN <i>7, 5</i>.<p><b>Étym</b>. π. κώπη.`

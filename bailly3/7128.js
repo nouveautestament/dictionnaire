@@ -1,0 +1,1 @@
+lar[7128]=`<i>adv</i>., en rapport avec, PLUT. <i>M. 896b, 1022a ;</i> LUC. <i>Philopatr. 21</i>.`

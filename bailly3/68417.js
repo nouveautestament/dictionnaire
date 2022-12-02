@@ -1,0 +1,1 @@
+lar[68417]=`<b>έως (ὁ)</b> <font color="purple">[ῡ]</font> habitant de la Ville des Coucous dans les nuages, AR. <i>Av. 878, 1035</i>.<p><b>Étym</b>. Νεφελοκοκκυγία.`

@@ -1,0 +1,1 @@
+lar[43523]=`<i>adv., seul. compar. att</i>. εὐξυνετώτερον, THC. <i>4, 18,</i> avec plus d’intelligence.`

@@ -1,0 +1,1 @@
+lar[45049]=`<i>interj. cri de douleur,</i> hé ! hélas ! ESCHL. <i>Sept. 966, 978 ; Suppl. 831</i>.`

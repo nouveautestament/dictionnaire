@@ -1,0 +1,1 @@
+lar[72526]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ὄργανον, ANTH. <i>5, 191</i>.`

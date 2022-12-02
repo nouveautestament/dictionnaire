@@ -1,0 +1,1 @@
+lar[29382]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par écrit, JOS. <i>B.J. 1, 27, 1</i> ; CLÉM. <i>564</i>.<p><b>Étym</b>. ἔγγραφος.`

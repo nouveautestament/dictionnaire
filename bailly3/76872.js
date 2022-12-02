@@ -1,0 +1,1 @@
+lar[76872]=`<b>α, ον</b>, qui est en démence, insensé, ANTH. <i>9, 603</i>.<p><b>Étym</b>. παρήορος.`

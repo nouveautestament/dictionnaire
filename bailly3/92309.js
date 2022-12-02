@@ -1,0 +1,1 @@
+lar[92309]=`<b>στειρο·φυής, ής, ές</b>, né d’une femme jusqu’alors stérile, DIOSC. <i>3, 692</i>.<p><b>Étym</b>. στεῖρα², φύω.`

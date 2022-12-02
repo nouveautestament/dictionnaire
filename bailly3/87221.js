@@ -1,0 +1,1 @@
+lar[87221]=`<b>πρωτο·λόγος, ος, ον</b>, qui joue le principal rôle, TÉLÈS (STOB. <i>Fl. 68, 48).</i><p><b>Étym</b>. πρ. λέγω.`

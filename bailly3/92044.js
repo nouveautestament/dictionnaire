@@ -1,0 +1,1 @@
+lar[92044]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐδ]</font> <i>dim. de</i> σπυρίς AR. <i>Ach. 453, 469</i> ; PHÉRÉCR. (ATH. <i>365a</i>).`

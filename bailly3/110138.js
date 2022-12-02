@@ -1,0 +1,1 @@
+lar[110138]=`<i>crase dor. p</i>. ὁ ἐκ, THCR. <i>Epigr. 20</i>.`

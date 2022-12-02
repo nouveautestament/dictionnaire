@@ -1,0 +1,1 @@
+lar[69058]=`<b>ή, όν</b>, propre à avertir, à admonester, PLAT. <i>Leg. 740e ;</i> ἡ νουθετητική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 230a</i>, l’art d’avertir.<p><b>Étym</b>. νουθετέω.`

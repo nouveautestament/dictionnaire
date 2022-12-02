@@ -1,0 +1,1 @@
+lar[2081]=`<b>ἀ·θόρυβος, ος, ον</b> <font color="purple">[ῠ]</font> sans trouble, paisible, PLAT. <i>Leg. 640c</i> ; POL. <i>8, 31</i>.`

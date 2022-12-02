@@ -1,0 +1,1 @@
+lar[24676]=`<font color="purple">[ᾱ]</font> <i>adv</i>., en s’élançant à travers <i>ou</i> avec impétuosité, OPP.<p><b>Étym</b>. διαΐσσω.`

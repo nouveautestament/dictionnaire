@@ -1,0 +1,1 @@
+lar[55521]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font> rouge comme le cinabre, ARSTT. <i>H.A. 2, 1</i> ; ATH. <i>390b</i>.<p><b>Étym</b>. κιννάβαρι.`

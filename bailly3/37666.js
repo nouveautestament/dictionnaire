@@ -1,0 +1,1 @@
+lar[37666]=`manger à dessert, COM. (ATH. <i>640f</i>).<p><b>Étym</b>. ἐπιδορπίς.`

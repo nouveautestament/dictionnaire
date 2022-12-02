@@ -1,0 +1,1 @@
+lar[16922]=`<b>ἀ·τραπιτός, οῦ (ἡ)</b> <font color="purple">[αᾰῐ]</font> <i>c</i>. ἀτραπός, OD. <i>13, 195</i> ; A.RH. <i>4, 123</i> ; CALL. <i>Del. 73</i> ; NIC. OPP. <i>etc. Cf</i>. ἀταρπιτός.`

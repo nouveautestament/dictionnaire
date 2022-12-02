@@ -1,0 +1,1 @@
+lar[106972]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> la Phrygienne, <i>n. d’esclave,</i> THCR. <i>Idyl. 15, 42</i>.<p><b>Étym</b>. <i>fém. de</i> Φρύγιος.`

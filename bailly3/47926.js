@@ -1,0 +1,1 @@
+lar[47926]=`<b>θυμο·βόρος, ος, ον</b> <font color="purple">[ῡ]</font> qui ronge (<i>propr</i>. qui dévore) le cœur, IL. <i>19, 58</i> ; ESCHL. <i>Ag. 103</i> ; A.RH. <i>4, 1666</i>.<p><b>Étym</b>. θ. βιβρώσκω.`

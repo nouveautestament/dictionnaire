@@ -1,0 +1,1 @@
+lar[105127]=`<b>φερε·γλαγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui donne (<i>litt</i>. qui porte <i>ou</i> produit) du lait, ORPH. <i>Lith. 216</i>.<p><b>Étym</b>. φέρω, γλάγος.`

@@ -1,0 +1,1 @@
+lar[19577]=`<b>ου (τὸ)</b> Bermion, <i>chaîne de mt. de Macédoine,</i> HDT. <i>8, 138</i> ; STR. PTOL.`

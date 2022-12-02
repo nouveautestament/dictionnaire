@@ -1,0 +1,1 @@
+lar[103917]=`<b>ὑπο·στρωννύω</b> (<i>seul. prés. et impf.) c</i>. ὑποστρώννυμι PLUT. <i>Artax. 22</i> ; ATH. <i>48d</i>.`

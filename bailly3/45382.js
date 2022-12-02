@@ -1,0 +1,1 @@
+lar[45382]=`<b>ἡμι·άρτιον, ου (τὸ)</b> petit pain (<i>litt</i>. demi-pain) SOPHR. (ATH. <i>110c</i>).<p><b>Étym</b>. ἡμι-, ἄρτος.`

@@ -1,0 +1,1 @@
+lar[93117]=`<b>ακος (ὁ)</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> bout d’une lance, <i>c</i>. σαυρωτήρ, XÉN. <i>Hell. 6, 2, 19</i> ; PLAT. <i>Lach. 183e.</i><br><b>      2</b> <i>p. ext</i>. lance, pique, PLUT. <i>Marc. 26</i> ; ATH. <i>514d</i>.`

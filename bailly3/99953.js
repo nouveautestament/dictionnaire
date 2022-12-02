@@ -1,0 +1,1 @@
+lar[99953]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de blesser, RUF. (SUID. <i>v°</i> Ῥοῦφος).`

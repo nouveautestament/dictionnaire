@@ -1,0 +1,1 @@
+lar[102742]=`<b>ὑπέρ·παχυς, υς, υ</b>, <i>gén</i>. <b>εως</b> <font color="purple">[ᾰ]</font><br><b>      1</b> excessivement gras, HPC. <i>Aër. 290, Acut. 385</i> ; PLUT. <i>Alex. 55, Cato ma. 9</i>.<br><b>      2</b> excessivement épais, DC. <i>49, 1, 1</i>.<p><b>Étym</b>. ὑ. παχύς.`

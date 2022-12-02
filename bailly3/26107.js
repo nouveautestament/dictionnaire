@@ -1,0 +1,1 @@
+lar[26107]=`<b>δι·είρομαι</b> (<i>seul. prés</i>.) demander : τι, IL. <i>1, 550,</i> qqe ch. ; τινά τι, OD. <i>4, 492,</i> demander qqe ch. à qqn.<p><b>Étym</b>. διά, εἴρομαι ; <i>cf</i>. διέρομαι.`

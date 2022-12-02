@@ -1,0 +1,1 @@
+lar[7511]=`<b>ἀν·άρβυλος, ος, ον</b> <font color="purple">[ῠ]</font> sans chaussures, EUR. <i>fr. 534, 7</i>.<p><b>Étym</b>. ἀν-, ἀρβύλη.`

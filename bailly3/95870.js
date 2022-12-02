@@ -1,0 +1,1 @@
+lar[95870]=`<b>συν·ηδύνω</b> <font color="purple">[δῡ]</font><br><b>      1</b> rendre <i>ou</i> faire paraître en même temps agréable, PLUT. <i>M. 668f ; au pass</i>. PLUT. <i>M. 661b.</i><br><b>      2</b> <i>fig</i>. réjouir également, faire plaisir, ARSTT. <i>Nic. 4, 6, 6</i>.`

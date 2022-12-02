@@ -1,0 +1,1 @@
+lar[83968]=`<b>οῦ (ὁ)</b> qui explore d’avance, XÉN. <i>Cyr. 5, 4, 4</i> ; PLUT. <i>Pel. c. Marc. 5 fin</i>.<p><b>Étym</b>. προδιερευνάω.`

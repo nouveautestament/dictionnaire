@@ -1,0 +1,1 @@
+lar[102487]=`<b>ὑπερ·ζέω :<br>      1</b> bouillir trop <i>ou</i> très fort, ARSTT. <i>G.A. 3, 2, 18 ; Probl. 24, 6</i> ; TH. <i>Ign. 16</i> ; ATH. <i>126d ; fig. en parl. de la colère, des passions en effervescence,</i> AR. <i>Eq. 920</i> ; ARSTT. <i>Probl. 1, 19, etc.</i><br><b>      2</b> être ardent, <i>en parl. du soleil,</i> LUC. <i>Dips. 1</i>.`

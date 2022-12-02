@@ -1,0 +1,1 @@
+lar[107715]=`<b>χαλκο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a l’apparence du cuivre, DIOSC. <i>5, 84</i>.<p><b>Étym</b>. χ. φαίνω.`

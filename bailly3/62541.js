@@ -1,0 +1,1 @@
+lar[62541]=`<b>ας (ἡ)</b> long souffle, ANTYLL. (ORIB. <i>127 Matthäi).</i><p><b>Étym</b>. μακρόπνοος.`

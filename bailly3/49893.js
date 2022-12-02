@@ -1,0 +1,1 @@
+lar[49893]=`<b>ἰσχιο·ρρωγικός, ή, όν</b>, aux hanches brisées, <i>d’où</i> ἰσχιορρωγικὸς στίχος, GRAMM. (<i>Tyrwh. de Babrio, p. 17</i>) vers ïambique qui a des spondées aux pieds pairs.<p><b>Étym</b>. ἰσχίον, ῥήγνυμι.`

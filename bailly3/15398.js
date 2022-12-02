@@ -1,0 +1,1 @@
+lar[15398]=`<b>ἀρτί·χριστος, ος, ον</b>, employé comme teinture au moment même SOPH. <i>Tr. 687</i>.<p><b>Étym</b>. ἄ. χρίω.`

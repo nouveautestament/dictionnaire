@@ -1,0 +1,1 @@
+lar[81322]=`<b>ποθ·έσπερος, ος, ον</b>, qui a lieu sur le soir ; <i>adv</i>., τὰ ποθέσπερα, THCR. <i>Idyl. 8, 16</i>, sur le soir.<p><b>Étym</b>. ποτί, ἑσπέρα.`

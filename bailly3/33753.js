@@ -1,0 +1,1 @@
+lar[33753]=`<b>εως (ἡ)</b> rafraîchissement, RUF. (ORIB. <i>3, 113 B.-Dar</i>.) ; GAL. <i>6, 359</i>.<p><b>Étym</b>. ἐμψύχω.`

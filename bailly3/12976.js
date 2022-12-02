@@ -1,0 +1,1 @@
+lar[12976]=`<b>ῆς (ἡ)</b> attribution, partage, PHIL. <i>2, 345</i>.<p><b>Étym</b>. ἀπονέμω.`

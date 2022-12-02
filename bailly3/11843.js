@@ -1,0 +1,1 @@
+lar[11843]=`<b>ἀπ·ευθανατίζω</b> <font color="purple">[θᾰᾰ]</font> mourir d’une belle <i>ou</i> d’une heureuse mort, SPT. <i>2Macc. 6, 28</i>.`

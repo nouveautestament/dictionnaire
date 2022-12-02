@@ -1,0 +1,1 @@
+lar[42135]=`<b>ης (ἡ)</b> <i>ion</i>. bon état, bonheur, CALL. <i>Cer. 136</i>.<p><b>Étym</b>. εὐηπελής.`

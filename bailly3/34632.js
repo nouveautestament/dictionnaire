@@ -1,0 +1,1 @@
+lar[34632]=`<b>ἐν·ιλλώπτω</b>, cligner des yeux, CLÉM. <i>1, 645 Migne</i>.`

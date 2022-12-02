@@ -1,0 +1,1 @@
+lar[108190]=`<b>ή, όν :<br>      1</b> qu’on peut tendre avec la main, <i>en parl. d’un arc à main ou portatif,</i> HÉRON (MATH. <i>p. 122, 41</i>).<br><b>      2</b> qui concerne la pratique d’un art <i>ou</i> d’un métier, PLUT. <i>M. 1135c ; particul</i>. ἡ χειρουργική, DL. <i>4, 85,</i> l’art du chirurgien, la chirurgie.<p><b>Étym</b>. χειρουργός.`

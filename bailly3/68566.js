@@ -1,0 +1,1 @@
+lar[68566]=`<b>νή·παυστος, ος, ον</b>, qui ne se repose pas, qui ne cesse pas, LYC. <i>972</i>.<p><b>Étym</b>. νη-, παύομαι.`

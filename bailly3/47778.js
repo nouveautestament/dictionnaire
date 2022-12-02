@@ -1,0 +1,1 @@
+lar[47778]=`<b>ατος (τὸ)</b> fragment, morceau, HPC. <i>254, 37 et 39</i> ; AR. <i>fr. 208</i> ; ANTH. <i>6, 232</i>.<p><b>Étym</b>. θρύπτω.`

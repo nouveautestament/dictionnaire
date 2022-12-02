@@ -1,0 +1,1 @@
+lar[98656]=`<b>τετρά·πορος, ος, ον</b> <font color="purple">[ᾰ]</font> à quatre ouvertures <i>ou</i> passages, ANTH. <i>9, 696</i>.<p><b>Étym</b>. τ. πόρος.`

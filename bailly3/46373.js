@@ -1,0 +1,1 @@
+lar[46373]=`<b>θαυματοποιέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> faire des tours d’adresse, LUC. <i>Per. 17, 21</i>.<br><b>      2</b> <i>au sens chrétien,</i> faire des miracles, NYSS. <i>3, 349 Migne</i>.<p><b>Étym</b>. θαυματοποιός.`

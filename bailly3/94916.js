@@ -1,0 +1,1 @@
+lar[94916]=`<b>συν·αποστάζω</b>, faire tomber goutte à goutte, distiller, HIM. <i>Or. 1, 19</i>.`

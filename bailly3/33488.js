@@ -1,0 +1,1 @@
+lar[33488]=`<b>ἐμ·πλέω</b> <font color="darkgreen">(<i>f</i>. -πλεύσομαι, <i>etc</i>.) :</font><br><b>      1</b> naviguer dans <i>ou</i> sur, <i>dat</i>. HDT. <i>7, 184</i> ; οἱ ἐμπλέοντες, THC. <i>3, 77</i> ; XÉN. <i>Œc. 8, 8,</i> les hommes d’équipage.<br><b>      2</b> flotter dans, ARÉT. <i>Caus. m. diut. 1, 12 ; 2, 1</i>.<p><b>Étym</b>. ἐν, πλ.`

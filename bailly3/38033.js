@@ -1,0 +1,1 @@
+lar[38033]=`<font color="purple">[ῡ]</font> <i>adv.</i> :<br><b>      1</b> dans une situation précaire <i>ou</i> critique, HPC. <i>Aph. 1255</i> ; SOPH. <i>Ph. 502</i> ; EUR. <i>fr. 683</i>.<br><b>      2</b> à ses risques et périls, THC. <i>3, 37</i>.`

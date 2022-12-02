@@ -1,0 +1,1 @@
+lar[69642]=`<b>ξυλ·αλόη, ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> bois d’aloès, <i>mot substitué dans l’usage à</i> ἀγάλλοχον, GAL. <i>10, 662</i> ; AÉT. <i>1, p. 9b, 39</i>.`

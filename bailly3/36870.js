@@ -1,0 +1,1 @@
+lar[36870]=`<b>ἐπ·αφανίζω</b> <font color="purple">[ᾰᾰ]</font> faire en outre disparaître, LYSIS (JAMBL. <i>V. Pyth. 77</i>).`

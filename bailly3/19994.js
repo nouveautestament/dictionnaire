@@ -1,0 +1,1 @@
+lar[19994]=`<b>οῦ (ὁ)</b> morceau, <i>part</i>. morceau de pain, CALL. <i>fr. 240</i>.`

@@ -1,0 +1,1 @@
+lar[82802]=`<b>ας (ἡ) :<br>      1</b> prostitution, DÉM. <i>403, 26, etc.</i><br><b>      2</b> <i>p. ext</i>. toute action déshonnête (adultère, <i>etc.) ; particul</i>. relations avec les Gentils, idolâtrie, SPT. <i>Num. 14, 33, etc</i>.<p><b>Étym</b>. πορνεύω.`

@@ -1,0 +1,1 @@
+lar[97588]=`<b>ταξιαρχέω-ῶ</b>, commander une compagnie <i>ou</i> un bataillon, AR. <i>Pax 444</i> ; THC. <i>8, 92</i> ; XÉN. <i>Mem. 3, 1, 5, etc</i>.<p><b>Étym</b>. ταξιάρχης.`

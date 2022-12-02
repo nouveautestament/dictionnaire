@@ -1,0 +1,1 @@
+lar[55402]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> du Cithéron, EUR. <i>Bacch. 1043</i>.<p><b>Étym</b>. <i>v</i>. Κιθαιρών.`

@@ -1,0 +1,1 @@
+lar[83168]=`<b>ου (ὁ)</b> = <i>lat</i>. Pupius, <i>n. d’h. rom</i>. PLUT. <i>Garrul. 18</i>.`

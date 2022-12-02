@@ -1,0 +1,1 @@
+lar[97174]=`<b>σωμ·ασκία, ας (ἡ)</b> exercices du corps, XÉN. <i>Mem. 3, 9, 11</i> ; PLAT. <i>Phil. 30b, Leg. 646d, 674b</i>.<p><b>Étym</b>. σῶμα, ἀσκέω.`

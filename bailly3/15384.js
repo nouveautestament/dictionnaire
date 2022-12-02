@@ -1,0 +1,1 @@
+lar[15384]=`<b>ἀρτι·τρεφής, ής, ές</b>, que l’on nourrit encore, encore à la mamelle, ESCHL. <i>Sept. 350</i>.<p><b>Étym</b>. ἄ. τρέφω.`

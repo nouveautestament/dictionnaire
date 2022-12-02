@@ -1,0 +1,1 @@
+lar[76168]=`<b>ου (ὁ)</b> parasange, <i>mesure itinéraire persane de 30 stades (envir. 6 km</i>), HDT. <i>2, 6 ; 5, 53, etc.</i> ; XÉN. <i>An. 1, 10, 1, etc</i>.<p><b>Étym</b>. <i>persan</i> Farsang.`

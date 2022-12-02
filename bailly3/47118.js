@@ -1,0 +1,1 @@
+lar[47118]=`<b>εως (ἡ)</b> représentation, PLAT. <i>Phil. 48a</i>.<p><b>Étym</b>. θεωρέω.`

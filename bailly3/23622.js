@@ -1,0 +1,1 @@
+lar[23622]=`<b>οῦ (ὁ)</b> moineau, <i>chez les Éléens,</i> ATH. <i>392a</i>.`

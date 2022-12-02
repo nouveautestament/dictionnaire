@@ -1,0 +1,1 @@
+lar[75626]=`<b>παρ·αιθύσσω :<br>      1 <i>tr.</i></b> agiter vivement, <i>acc</i>. A.RH. <i>2, 1253</i> ; ANTH. <i>7, 204 ; fig</i>. θόρυβον, PD. <i>10 (11) 90,</i> faire éclater des applaudissements.<br><b>      2 <i>intr.</i></b> jaillir de, s’échapper de, <i>fig</i>. PD. <i>P. 1, 169</i>.<p>➳ <i>Ao. poét</i>. παραίθυξα, PD. <i>O. 10 (11) 90</i>.`

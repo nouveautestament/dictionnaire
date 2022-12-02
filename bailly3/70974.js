@@ -1,0 +1,1 @@
+lar[70974]=`<b>ὀλιγ·αριστία, ας (ἡ)</b> <font color="purple">[ῐᾱρ]</font> mince dîner, PLUT. <i>Alex. 22, etc</i>.<p><b>Étym</b>. ὀ. ἄριστον.`

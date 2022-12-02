@@ -1,0 +1,1 @@
+lar[99829]=`<font color="purple">[ᾰᾰ]</font> ronger, dévorer, AR. <i>Vesp. 674</i>.<p><b>Étym</b>. τραγεῖν.`

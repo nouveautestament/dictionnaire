@@ -1,0 +1,1 @@
+lar[61001]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> son clair, voix retentissante <i>ou</i> harmonieuse, NAZ. <i>Sent. iamb. tetr. 17</i>.<p><b>Étym</b>. λιγύς.`

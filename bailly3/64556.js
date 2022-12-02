@@ -1,0 +1,1 @@
+lar[64556]=`<b>μεσο·πτερύγια, ων (τὰ)</b> <font color="purple">[ῠ]</font> intervalle entre les ailes, EL. <i>N.A. 7, 17</i>.<p><b>Étym</b>. μέσος, πτέρυξ.`

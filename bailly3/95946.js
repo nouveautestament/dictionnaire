@@ -1,0 +1,1 @@
+lar[95946]=`<i>adv</i>., par composition, STR. <i>618</i> ; GAL. <i>6, 549</i>.`

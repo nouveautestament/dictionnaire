@@ -1,0 +1,1 @@
+lar[13834]=`<b>ἀπο·ψάλλω</b>, tirer vivement : πάγην, LYC. <i>407,</i> un filet ; <i>fig</i>. ἡ γλῶττα ἀποψάλλει τὴν ἄκραν Ἀτθίδα, PHILSTR. <i>553,</i> la langue tire des sons du plus pur attique.`

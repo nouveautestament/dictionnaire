@@ -1,0 +1,1 @@
+lar[16278]=`<b>ἀστραπη·βόλος, ος, ον</b> <font color="purple">[ᾰπ]</font> qui lance des éclairs, EUM. <i>197</i>.<p><b>Étym</b>. ἀστραπή, βάλλω.`

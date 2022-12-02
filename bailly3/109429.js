@@ -1,0 +1,1 @@
+lar[109429]=`<b>ου (ὁ)</b> Khônidas, <i>poète grec,</i> ARSTT. <i>Poet. 3</i>.`

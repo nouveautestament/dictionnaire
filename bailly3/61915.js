@@ -1,0 +1,1 @@
+lar[61915]=`<b>λυκο·φιλία, ας (ἡ)</b> <font color="purple">[ῠφῐ]</font> amitié de loup, <i>càd</i>. douteuse, PLAT. <i>Ep. 318e ;</i> M. ANT. <i>11, 15</i>.<p><b>Étym</b>. λ. φιλία.`

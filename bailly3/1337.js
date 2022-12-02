@@ -1,0 +1,1 @@
+lar[1337]=`<b>ἀ·διανόητος, ος, ον :<br>      1</b> <i>pass</i>. inintelligible, inconcevable, PLAT. <i>Soph. 238c ;</i> DL. <i>10, 47</i>.<br><b>      2</b> <i>act</i>. inintelligent, ARSTT. <i>fr. 77</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. ἀ, διανοέω.`

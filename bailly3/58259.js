@@ -1,0 +1,1 @@
+lar[58259]=`<b>α, ον</b>, de troupeau, de bétail, ORIG. <i>c. Cels. 4, p. 201</i>.<p><b>Étym</b>. κτῆνος.`

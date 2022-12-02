@@ -1,0 +1,1 @@
+lar[16886]=`<b>ας (ἡ)</b> relâchement, affaiblissement, langueur, PLUT. <i>M. 535d ;</i> LUC. <i>Nigr. 36</i> ; DIOSC. GEOP.<p>➳ <i>Ion</i>. ἀτονίη, HPC. <i>292, 33</i> ; ARÉT. <i>24, 20</i>.<p><b>Étym</b>. ἄτονος.`

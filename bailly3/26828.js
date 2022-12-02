@@ -1,0 +1,1 @@
+lar[26828]=`<b>εως (ἡ)</b> examen approfondi, PTOL. <i>Math. synt. p. 109, 6</i>.<p><b>Étym</b>. διοπτεύω.`

@@ -1,0 +1,1 @@
+lar[88550]=`<b>ῥιζο·λογέω-ῶ</b>, déraciner, extirper, <i>acc</i>. DS. <i>16, 82</i>.<p><b>Étym</b>. ῥίζα, -λογος <i>de</i> λέγω.`

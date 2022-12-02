@@ -1,0 +1,1 @@
+lar[3966]=`<b>ἀ·κυδής, ής, ές</b> <font color="purple">[ῡ]</font> sans gloire, APOLLIN. <i>Ps. 106, 80</i>.<p><b>Étym</b>. ἀ, κῦδος.`

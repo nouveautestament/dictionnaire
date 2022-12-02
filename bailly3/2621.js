@@ -1,0 +1,1 @@
+lar[2621]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. αἱμύλος, OD. <i>1, 56</i> ; HH. <i>Merc. 317</i> ; HÉS. <i>Th. 889</i>.`

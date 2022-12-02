@@ -1,0 +1,1 @@
+lar[108859]=`<b>χορ·ωφελέτης, ου (ὁ)</b> qui vient en aide aux chœurs, qui les soutient <i>ou</i> les encourage, <i>en parl. d’applaudissements,</i> AR. <i>Lys. 1319</i>.<p><b>Étym</b>. χορός, ὠφελέω.`

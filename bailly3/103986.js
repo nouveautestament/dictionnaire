@@ -1,0 +1,1 @@
+lar[103986]=`<b>ὑπο·τετράγωνος, ος, ον</b> <font color="purple">[ᾰ]</font> à peu près quadrangulaire, presque carré, ADAM. <i>Physiogn. 2, 17</i>.`

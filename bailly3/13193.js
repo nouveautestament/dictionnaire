@@ -1,0 +1,1 @@
+lar[13193]=`<b>ἀ·πόρευτος, ος, ον</b>, infranchissable, impraticable, PLUT. <i>Cam. 26</i> ; PHIL. <i>1, 294, etc</i>.<p><b>Étym</b>. ἀ, πορεύομαι.`

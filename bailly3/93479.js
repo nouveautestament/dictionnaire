@@ -1,0 +1,1 @@
+lar[93479]=`<b>οῦ (ὁ)</b> choc des vagues, ARSTT. <i>Mir. 130, 2</i>.<p><b>Étym</b>. συγκλύζω.`

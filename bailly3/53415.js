@@ -1,0 +1,1 @@
+lar[53415]=`<b>κατ·άσσω</b>, briser, rompre, APP. <i>Lib. 129</i> ; ARTÉM. <i>1, 68</i>.<p><b>Étym</b>. κ. ἄγνυμι.`

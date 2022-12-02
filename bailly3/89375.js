@@ -1,0 +1,1 @@
+lar[89375]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾱ]</font> <i>c</i>. Σεραπεῖον, PLUT. <i>Alex. 76</i> ; DC. <i>66, 24</i>.`

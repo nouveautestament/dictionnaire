@@ -1,0 +1,1 @@
+lar[67324]=`<b>μυροπωλέω-ῶ</b> <font color="purple">[ῠ]</font> vendre des parfums, des essences, AR. <i>fr. 651 Dind.</i> ; PHÉRÉCR. (ATH. <i>687a</i>).<p><b>Étym</b>. μυροπώλης.`

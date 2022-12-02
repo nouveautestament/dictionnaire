@@ -1,0 +1,1 @@
+lar[29755]=`<b>ἐγκριδο·πώλης, ου (ὁ)</b> <font color="purple">[ῐ]</font> marchand de gâteaux, AR. <i>fr. 252 ; etc</i>.<p><b>Étym</b>. ἐγκρίς, πωλέω.`

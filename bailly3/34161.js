@@ -1,0 +1,1 @@
+lar[34161]=`<b>ἐν·διαβάλλω</b>, accuser : τινά, CTÉS. <i>Pers. 10</i> ; LUC. <i>Cal. 24</i> ; SPT. <i>Ps. 108, 20,</i> qqn.`

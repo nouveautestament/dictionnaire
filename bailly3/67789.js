@@ -1,0 +1,1 @@
+lar[67789]=`<b>Ναυσι·κάα, ας (ἡ)</b> <font color="purple">[ῐ]</font> Nausikaa, <i>fille d’Alkinoos (Alcinoüs</i>) OD. <i>6, 17, etc</i>.<p><b>Étym</b>. ν. καίω.`

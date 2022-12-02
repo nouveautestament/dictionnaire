@@ -1,0 +1,1 @@
+lar[93222]=`<b>συγ·γυμνάζω</b>, exercer avec <i>ou</i> ensemble, POL. <i>5, 65, 3</i> ; DL. <i>6, 90</i>.<br><b><i>Moy.</i></b> s’exercer avec, PLAT. <i>Conv. 217b, c</i> ; ARSTT. <i>Nic. 9, 12, 2, etc</i>.`

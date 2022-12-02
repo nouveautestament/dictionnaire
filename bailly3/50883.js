@@ -1,0 +1,1 @@
+lar[50883]=`<b>κακοτροπεύομαι</b> <font color="purple">[ᾰ]</font> se conduire mal, agir déloyalement : πρός τινα, POL. <i>5, 2, 9,</i> à l’égard de qqn.<p><b>Étym</b>. <i>cf</i>. κακοτροπέω.`

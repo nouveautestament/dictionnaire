@@ -1,0 +1,1 @@
+lar[63331]=`<b>μεγαλή·φατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> grand, sublime, ORPH. <i>Arg. 419</i>.<p><b>Étym</b>. μ. φατός.`

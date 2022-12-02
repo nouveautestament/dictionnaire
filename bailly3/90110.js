@@ -1,0 +1,1 @@
+lar[90110]=`<b>ή, όν</b> <font color="purple">[σῑ]</font> taciturne, HPC. <i>22, 48</i>.<p><b>Étym</b>. σιγάω.`

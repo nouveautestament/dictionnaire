@@ -1,0 +1,1 @@
+lar[17209]=`<b>ου (τὸ) :<br>      1</b> étable, parc pour les troupeaux, HERM. (STOB. <i>Ecl. 7, 1074</i>).<br><b>      2</b> <i>c</i>. αὐλισμός, AQU. <i>Esai. 10, 29</i>.<p><b>Étym</b>. αὐλίζομαι.`

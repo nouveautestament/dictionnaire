@@ -1,0 +1,1 @@
+lar[105905]=`<b>φιλό·λυπος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui aime la tristesse, PLUT. <i>M. 600c</i>.<p><b>Étym</b>. φ. λύπη.`

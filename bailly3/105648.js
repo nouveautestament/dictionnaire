@@ -1,0 +1,1 @@
+lar[105648]=`<b>φιλ·ίατρος, ος, ον</b> <font color="purple">[ῐῑ̆]</font> qui a du goût pour la médecine et les médicaments, GAL. <i>6, 269</i>.<p><b>Étym</b>. φ. ἰατρός.`

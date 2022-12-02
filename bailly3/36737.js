@@ -1,0 +1,1 @@
+lar[36737]=`<i>adv</i>., dignement, SOPH. <i>O.R</i>.<p><b>Étym</b>. ἐπάξιος.`

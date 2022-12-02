@@ -1,0 +1,1 @@
+lar[9412]=`<b>ου (ὁ)</b> Antæos (Antée) <i>roi myth. de Libye, père de Barkè, qui donna en mariage sa fille au vainqueur d’une course,</i> PD. <i>P. 9, 110, etc. ; plus tard, géant, vaincu par Hèraklès,</i> PD. <i>I. 3, 70</i>.<p><b>Étym</b>. <i>cf</i>. ἀνταῖος.`

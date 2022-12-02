@@ -1,0 +1,1 @@
+lar[60106]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> lientérie, <i>càd</i>. flux de ventre, HPC. <i>Aph. 1248, etc</i>.<p><b>Étym</b>. λεῖος, ἔντερον.`

@@ -1,0 +1,1 @@
+lar[16775]=`<b>ἀ·τεχνής, ής, ές</b>, sans art, inhabile, BABR. <i>75, 4</i> ; SEXT.<p>•<i> Cp</i>. -έστερος, HPC. <i>763f</i>.<p><b>Étym</b>. ἀ, τέχνη.`

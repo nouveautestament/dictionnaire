@@ -1,0 +1,1 @@
+lar[34080]=`<b>ἐν·αφανίζω</b> <font color="purple">[ᾰᾰ]</font> faire disparaître dans, <i>dat</i>. PLUT. <i>M. 489a, ou</i> ἐν <i>et le dat</i>. STR. <i>49 ; abs</i>. PLUT. <i>M. 968b ;</i> PHIL. <i>2, 100, 118</i>.`

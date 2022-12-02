@@ -1,0 +1,1 @@
+lar[97727]=`<font color="purple">[ᾰρι]</font> trembler de froid, frissonner, PLUT. <i>M. 948f</i>.<p><b>Étym</b>. Τάρταρος.`

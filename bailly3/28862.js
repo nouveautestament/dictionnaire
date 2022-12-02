@@ -1,0 +1,1 @@
+lar[28862]=`<b>δυσ·πρόσμαχος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à combattre, PLUT. <i>Tim. 21</i>.<p><b>Étym</b>. δ. προσμάχομαι.`

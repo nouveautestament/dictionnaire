@@ -1,0 +1,1 @@
+lar[76806]=`<i>vb. de</i> παρίημι, PLAT. <i>Leg. 796a, etc</i>.`

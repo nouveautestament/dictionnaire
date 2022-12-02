@@ -1,0 +1,1 @@
+lar[22781]=`<b>εως (ἡ) :<br>   I <i>tr</i></b>. action de mettre à nu, PLUT. <i>Cato ma. 20</i>.<br><b>   II <i>intr.</i> :<br>      1</b> nudité, SPT. <i>Gen. 9, 22 et 23</i>.<br><b>      2</b> flanc droit non couvert (par le bouclier) THC. <i>5, 71</i>.<p><b>Étym</b>. γυμνόω.`

@@ -1,0 +1,1 @@
+lar[48804]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>vb. de</i> ἱκετεύω, LUC. <i>M. cond. 38</i>.`

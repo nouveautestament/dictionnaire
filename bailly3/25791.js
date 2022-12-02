@@ -1,0 +1,1 @@
+lar[25791]=`<b>διαττάω-ῶ</b>, passer au crible, PLAT. <i>Tim. 73c, Soph. 226b, Crat. 402c ;</i> TH. <i>H.P. 3, 18, 5 ; etc</i>. (δίαττος, crible, HSCH.).`

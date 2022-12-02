@@ -1,0 +1,1 @@
+lar[101597]=`<b>ὑδρο·φόβος, ος, ον</b>, atteint d’hydrophobie, ARR. <i>Epict. 4, 4, 20</i>.<p><b>Étym</b>. <i>cf</i>. ὑδροφόβος².`

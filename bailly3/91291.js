@@ -1,0 +1,1 @@
+lar[91291]=`<b>σκυλακό·δρομος, ου</b> <font color="purple">[ῠᾰ]</font> <i>adj. f.</i> : ὥρη, Anon. <i>de vir. herb. 140,</i> saison de la canicule.<p><b>Étym</b>. σκύλαξ, δραμεῖν.`

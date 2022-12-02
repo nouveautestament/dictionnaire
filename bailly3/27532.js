@@ -1,0 +1,1 @@
+lar[27532]=`<b>ατος (τὸ) :<br>      1</b> opinion, croyance, PLAT. <i>Pol. 260b, Theæt. 158e ;</i> EUR. <i>El. 383</i>.<br><b>      2</b> gloire, SPT. <i>Esaï. 46, 13 ; Thren. 2, 1</i>.<p><b>Étym</b>. δοξάζω.`

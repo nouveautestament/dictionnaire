@@ -1,0 +1,1 @@
+lar[42535]=`<i>vb. de</i> εὔχομαι, EPICT. <i>Ench. 53 var</i>.`

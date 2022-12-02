@@ -1,0 +1,1 @@
+lar[12750]=`<i>adv</i>., sans aptitude pour la guerre, PLAT. <i>Pol. 307e</i>.`

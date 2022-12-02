@@ -1,0 +1,1 @@
+lar[45455]=`<b>ου (τὸ)</b> <font color="purple">[ῐῠ]</font> <i>dim. de</i> ἡμικοτύλη, ARSTT. <i>H.A. 6, 18, 21</i> ; HÉRON <i>Spir. 215, 218</i>.`

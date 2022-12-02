@@ -1,0 +1,1 @@
+lar[13113]=`<b>εως (ἡ)</b> étranglement, MOSCHION <i>Mul. pass. p. 68, 129, l. 8 et 13</i>.<p><b>Étym</b>. ἀποπνίγω.`

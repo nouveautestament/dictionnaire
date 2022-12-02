@@ -1,0 +1,1 @@
+lar[33635]=`<b>ἐμ·πύρετος, ος, ον</b> <font color="purple">[ῠ]</font> consumé par la fièvre, A. TR. <i>5, p. 252</i>.<p><b>Étym</b>. ἐν, π.`

@@ -1,0 +1,1 @@
+lar[40909]=`<b>ἐρωτο·τρόφος, ος, ον</b>, qui nourrit <i>ou</i> enfante l’amour, ORPH. <i>Arg. 476</i>.<p>➳ <i>Fém</i>. -η, ORPH. <i>Arg. 871</i>.<p><b>Étym</b>. ἔ. τρέφω.`

@@ -1,0 +1,1 @@
+lar[27252]=`<b>ά, όν</b>, altéré, desséché, ARSTT. <i>H.A. 10, 2, 9</i> ; STR. <i>370</i>.<p>➳ <i>Fém. ion</i>. -ηρή, DP. <i>182</i>.<p><b>Étym</b>. δίψα.`

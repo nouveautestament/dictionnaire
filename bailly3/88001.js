@@ -1,0 +1,1 @@
+lar[88001]=`<b>ητος (ἡ)</b> couleur rousse <i>ou</i> dorée, ARSTT. <i>G.A. 5, 5, 3</i> ; GAL. <i>6, 21</i>.<p><b>Étym</b>. πυρρός.`

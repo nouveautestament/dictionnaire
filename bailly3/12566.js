@@ -1,0 +1,1 @@
+lar[12566]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de risquer, risque, THC. <i>7, 67 dout</i>.`

@@ -1,0 +1,1 @@
+lar[16052]=`<b>ἀσπιδο·ποιΐα, ας (ἡ)</b> <font color="purple">[πῐ]</font> fabrication du bouclier, <i>nom donné par les grammairiens au 18<sup>e</sup> chant de l’Iliade</i>.<p><b>Étym</b>. ἀ. -ποιος, <i>de</i> ποιέω.`

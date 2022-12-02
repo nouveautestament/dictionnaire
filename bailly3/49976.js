@@ -1,0 +1,1 @@
+lar[49976]=`<b>ου</b> <font color="purple">[ῐ]</font> qui marche en avant, <i>d’où</i> :<br><b>      1</b> <i>en b. part,</i> résolu, brave, hardi, PLAT. <i>Conv. 203d, Prot. 349e ;</i> DC. <i>55, 18</i>.<br><b>      2</b> <i>en mauv. part,</i> effronté, impudent, AR. <i>Nub. 445</i>.<p><b>Étym</b>. <i>incert. ; cf</i>. ἰταμός.`

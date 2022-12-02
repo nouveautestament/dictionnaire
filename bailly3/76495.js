@@ -1,0 +1,1 @@
+lar[76495]=`<b>παρα·ψυχή, ῆς (ἡ)</b> <font color="purple">[ῠ]</font> rafraîchissement ; <i>fig</i>. adoucissement, consolation, EUR. <i>Hec. 280, etc.</i> ; IS. <i>19, 17</i> ; DÉM. <i>1399, 18, etc</i>.`

@@ -1,0 +1,1 @@
+lar[31961]=`<b>ἐκ·πτερόω-ῶ</b>, rendre ailé, <i>d’où au pass</i>. être pourvu d’ailes, HPC. <i>347, 19</i>.`

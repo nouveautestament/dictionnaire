@@ -1,0 +1,1 @@
+lar[13935]=`<b>ἀ·πρόσβατος, ος, ον</b> <font color="purple">[βᾰ]</font> inaccessible, ARSTT. <i>H.A. 6, 5, 1</i> ; PLUT. <i>Alex. 58</i> ; LUC. <i>Prom. 1</i>.<p>➳ <i>Dor</i>. ἀποτίβατος, SOPH. <i>Tr. 1030</i>.<p><b>Étym</b>. ἀ, προσβαίνω.`

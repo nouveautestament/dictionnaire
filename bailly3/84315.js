@@ -1,0 +1,1 @@
+lar[84315]=`<b>ή, όν</b>, qui a la propriété de précéder, PHILOD. (<i>Herc. Stud. 1, p. 39 Gomperz).</i><p><b>Étym</b>. προηγέομαι.`

@@ -1,0 +1,1 @@
+lar[6455]=`<b>ἀμφοτερό·γλωσσος, ος, ον</b>, qui soutient le pour et le contre, TIMON (PLUT. <i>Per. 4).</i><p><b>Étym</b>. ἀ. γλῶσσα.`

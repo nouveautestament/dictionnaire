@@ -1,0 +1,1 @@
+lar[13152]=`<b>ἀπο·προλείπω</b>, abandonner au loin, HERMÉSIAN. <i>fr. 2, 21</i> ; A.RH. <i>1, 1285</i>.`

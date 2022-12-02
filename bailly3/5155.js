@@ -1,0 +1,1 @@
+lar[5155]=`<b>ίδος</b> <font color="purple">[ᾰμῐδ]</font> des Amazones, PLAT. <i>Ax. 365a ;</i> αἱ Ἀ. les Amazones, PD. <i>O. 13, 124</i> ; HDT. <i>9, 27, etc</i>.<p>➳ <i>Dat. pl. épq</i>. -ίδεσσιν, A.RH. <i>2, 987</i>.`

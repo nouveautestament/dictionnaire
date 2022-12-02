@@ -1,0 +1,1 @@
+lar[25280]=`<b>οῦ (ὁ)</b> formation, EPIC. (PLUT. <i>M. 877d</i>).<p><b>Étym</b>. διαπλάσσω.`

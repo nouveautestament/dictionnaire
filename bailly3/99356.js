@@ -1,0 +1,1 @@
+lar[99356]=`<b>ης, ες</b> <font color="purple">[ῑᾱ]</font> semblable à un Titan ; τιτανῶδες βλέπειν, LUC. <i>Tim. 54, etc</i>. regarder comme un Titan, <i>càd</i>. d’un air farouche.<p><b>Étym</b>. Τιτάν, -ωδης.`

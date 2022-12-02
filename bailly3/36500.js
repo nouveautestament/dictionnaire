@@ -1,0 +1,1 @@
+lar[36500]=`<b>ἐπ·αλθαίνω</b> <font color="darkgreen">(<i>f</i>. -αλθήσω)</font> guérir, NIC. <i>Al. 395, 627</i>.<br><b><i>Moy.</i></b> se guérir de, <i>acc</i>. NIC. <i>Th. 654</i>.`

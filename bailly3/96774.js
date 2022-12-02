@@ -1,0 +1,1 @@
+lar[96774]=`<b>έως (ὁ)</b> éphèbe au moment où il entre dans la classe des hommes faits, <i>à Sparte,</i> PAUS. <i>3, 14, 6</i>.<p><b>Étym</b>. σφαῖρα.`

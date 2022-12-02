@@ -1,0 +1,1 @@
+lar[39609]=`<b>εως (ἡ)</b> action d’obstruer, de cacher, PLUT. <i>M. 891e</i>.<p><b>Étym</b>. ἐπιφράσσω.`

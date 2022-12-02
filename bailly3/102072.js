@@ -1,0 +1,1 @@
+lar[102072]=`<b>ὑπ·εγκλίνω</b> <font color="purple">[ῠῑ]</font> incliner doucement, légèrement, ORPH. <i>Arg. 1203</i>.`

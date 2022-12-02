@@ -1,0 +1,1 @@
+lar[80535]=`<i>ion</i>. <b>Πιτύη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Pitya (<i>auj. p.-ê</i>. Aksaz) <i>cap et v. près de Lampsaque,</i> ORPH. <i>Arg. 488</i>.<p><b>Étym</b>. πίτυς.`

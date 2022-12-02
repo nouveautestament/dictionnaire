@@ -1,0 +1,1 @@
+lar[41204]=`<b>*ἐσχατεύω</b> <font color="purple">[ᾰ]</font> (<i>seul. part. prés</i>.) être à l’extrémité, TH. <i>C.P. 5, 1, 3</i> ; PLUT. <i>M. 366b ;</i> ἐσχ. τῆς Ἀρκαδίας, POL. <i>4, 77, 8,</i> être à l’extrémité de l’Arcadie.`

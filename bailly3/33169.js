@@ -1,0 +1,1 @@
+lar[33169]=`<b>ἔμ·βρυος, ος, ον :<br>      1</b> qui naît et se développe à l’intérieur, qui est à l’état d’embryon, <i>en parl. d’un fœtus d’être humain,</i> Ps.-PHOCYL. <i>184 ; ou d’animal,</i> HIPPIATR.<br><b>      2</b> <i>act</i>. fécondant, TH. <i>C.P. 1, 1, 3</i>.<p><b>Étym</b>. ἐν, βρύω.`

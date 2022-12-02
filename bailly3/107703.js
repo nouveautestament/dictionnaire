@@ -1,0 +1,1 @@
+lar[107703]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠῐ]</font> art <i>ou</i> métier de forgeron, PLAT. <i>Pol. 288a ;</i> PLUT. <i>M. 1084c</i>.<p><b>Étym</b>. χαλκοτύπος.`

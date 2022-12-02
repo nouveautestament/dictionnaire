@@ -1,0 +1,1 @@
+lar[41770]=`<b>εὐγηρέω-ῶ</b>, avoir une belle vieillesse, STOÏC. (STOB. <i>Ecl. 2, 236).</i><p><b>Étym</b>. εὔγηρος.`

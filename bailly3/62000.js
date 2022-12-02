@@ -1,0 +1,1 @@
+lar[62000]=`<b>Λυσ·άνδρα, ας (ἡ)</b> <font color="purple">[ῡ]</font> Lysandra, <i>f</i>. PLUT. <i>Amat. 2</i>.<p><b>Étym</b>. <i>fém. de</i> Λύσανδρος.`

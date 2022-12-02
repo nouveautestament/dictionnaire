@@ -1,0 +1,1 @@
+lar[20713]=`<b>βραχύ·πορος, ος, ον</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> dont le passage est court, PLAT. <i>Rsp. 546a ; en parl. d’oiseaux,</i> dont le vol (<i>litt</i>. le trajet) est court, PHILSTR. <i>V. Ap. 3, 48</i>.<br><b>      2</b> dans une passe étroite, PLUT. <i>Mar. 15</i>.<p><b>Étym</b>. βρ. πόρος.`

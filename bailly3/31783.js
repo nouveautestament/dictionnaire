@@ -1,0 +1,1 @@
+lar[31783]=`<b>ἐκ·πειράζω</b>, tenter, éprouver, SPT. <i>Deut. 6, 16 ; 8, 16 ; Ps. 77, 18</i> ; NT. <i>Luc. 10, 25 ; 1Cor. 10, 9</i>.`

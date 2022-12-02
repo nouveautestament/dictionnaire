@@ -1,0 +1,1 @@
+lar[100635]=`<b>τριχο·ποιός, ός, όν</b> <font color="purple">[ῐ]</font> qui fait pousser les cheveux, MÉLÉT. <i>3, 17, 6 Cramer</i>.<p><b>Étym</b>. θρίξ, ποιέω.`

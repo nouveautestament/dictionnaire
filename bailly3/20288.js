@@ -1,0 +1,1 @@
+lar[20288]=`<font color="darkgreen">(<i>ao</i>. ἐβοτάνισα)</font> <font color="purple">[ᾰ]</font> arracher les mauvaises herbes, TH. <i>C.P. 3, 20, 9</i> ; GEOP. <i>3, 3, 13 ; au pass</i>. GEOP. <i>2, 24, 3 ; 2, 38, 1</i>.<p><b>Étym</b>. βοτάνη.`

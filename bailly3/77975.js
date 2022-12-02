@@ -1,0 +1,1 @@
+lar[77975]=`<b>ας (ἡ)</b> <font color="purple">[τᾱ]</font> <i>c</i>. πεντάθλιον, πένταθλον ARR. <i>Epict. 3, 1, 5</i>.`

@@ -1,0 +1,1 @@
+lar[23191]=`<b>ων (τὰ)</b> Danes (<i>auj</i>. Kemerhisar, sel. d’autres,</i> Konisse Hissar) <i>v. de Cappadoce,</i> XÉN. <i>An. 1, 2, 20</i> (<i>var</i>. Τύανα).`

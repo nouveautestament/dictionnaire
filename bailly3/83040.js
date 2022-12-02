@@ -1,0 +1,1 @@
+lar[83040]=`<b>(ἡ)</b> sorte de pain d’orge, DINON (ATH. <i>503f</i>).<p><b>Étym</b>. <i>mot persan</i>.`

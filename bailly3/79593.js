@@ -1,0 +1,1 @@
+lar[79593]=`<b>περι·φλέγω :<br>      1 <i>tr.</i></b> enflammer tout autour, <i>acc</i>. PLUT. <i>M. 651b ; au pass</i>. POL. <i>11, 25, 2</i>.<br><b>      2 <i>intr.</i></b> être ardent tout autour, PLUT. <i>M. 648c</i>.`

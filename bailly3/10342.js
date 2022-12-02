@@ -1,0 +1,1 @@
+lar[10342]=`<b>ἀντι·προσκαλέομαι-οῦμαι</b> <font color="purple">[κᾰ]</font> appeler à son tour en justice, DÉM. <i>1153, 3</i>.`

@@ -1,0 +1,1 @@
+lar[73528]=`<b>οὐκ·έτι</b> <font color="purple">[ῐ]</font> <i>adv</i>., ne… plus, HOM. ATT. ; οὐκέτι πάμπαν, IL. <i>13, 701</i> ; οὐκέτι πάγχυ, <i>19, 343,</i> plus du tout.<p><b>Étym</b>. οὐκ, ἔτι.`

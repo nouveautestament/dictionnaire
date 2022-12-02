@@ -1,0 +1,1 @@
+lar[105655]=`<b>ίδος (ἡ)</b> <font color="purple">[φῐ]</font> Philinnis, <i>f</i>. ANTH. <i>14, 138</i>.<p><b>Étym</b>. <i>cf</i>. Φίλιννα, Φιλίννιον.`

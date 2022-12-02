@@ -1,0 +1,1 @@
+lar[70219]=`<b>ης (ἡ)</b> <i>plante de Syrie ou d’Arabie employée en médecine,</i> DIOSC. <i>2, 211, 213</i>.`

@@ -1,0 +1,1 @@
+lar[108452]=`<b>χιλιοντα·ετηρίς, ίδος (ἡ)</b> <font color="purple">[χῑ]</font> durée de mille ans, CHRYS. <i>in Psalm. p. 1</i>.<p><b>Étym</b>. χίλιοι, ἔτος.`

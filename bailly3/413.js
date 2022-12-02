@@ -1,0 +1,1 @@
+lar[413]=`<b>ας (ἡ)</b> leçon <i>ou</i> recherches sur les veines <i>ou</i> vaisseaux, GAL. <i>3, 395</i> ; P. ÉG. <i>92 Briau</i>.`

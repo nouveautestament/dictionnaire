@@ -1,0 +1,1 @@
+lar[77784]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>ion. c</i>. πελειάς, OPP. <i>C. 1, 350</i>.`

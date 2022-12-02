@@ -1,0 +1,1 @@
+lar[51988]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Karystos, EUR. <i>I.T. 1451, etc.</i> ; οἱ Καρύστιοι, HDT. <i>4, 33 ; 8, 112,</i> les habitants de Karystos ; Καρύστιον κάρυον, EUB. (ATH. <i>52b</i>) noix de Karystos, <i>càd</i>. châtaigne.<p><b>Étym</b>. Κάρυστος.`

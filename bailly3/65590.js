@@ -1,0 +1,1 @@
+lar[65590]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> apte à inventer, inventif, XÉN. <i>Eq. 5, 2</i>.<p><b>Étym</b>. μηχανάω.`

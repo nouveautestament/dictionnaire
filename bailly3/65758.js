@@ -1,0 +1,1 @@
+lar[65758]=`<b>μικρο·φιλότιμος, ος, ον</b> <font color="purple">[φῐτῑ]</font> ambitieux de petites choses, TH. <i>Char. 23</i>.`

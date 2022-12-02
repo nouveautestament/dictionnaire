@@ -1,0 +1,1 @@
+lar[33483]=`<b>εως (ἡ)</b> action d’entrelacer, PLAT. <i>Pol. 282e</i>.<p><b>Étym</b>. ἐμπλέκω.`

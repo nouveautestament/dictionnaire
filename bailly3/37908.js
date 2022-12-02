@@ -1,0 +1,1 @@
+lar[37908]=`<b>ἐπι·καρπίδιος, ος, ον</b> <font color="purple">[ῐδ]</font> qui est sur le fruit, ANTH. <i>9, 226</i>.<p><b>Étym</b>. ἐπί, καρπός.`

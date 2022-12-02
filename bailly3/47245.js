@@ -1,0 +1,1 @@
+lar[47245]=`<b>α (ὁ)</b> Thèras, <i>Spartiate, chef d’une colonie lacédémonienne dans l’île Kallistô appelée de son nom Thèra,</i> HDT. <i>4, 147</i>.`

@@ -1,0 +1,1 @@
+lar[78732]=`<b>περι·καταρρέω</b>, s’écrouler de toute part, LYS. <i>185, 20</i> ; CLÉM. <i>89</i>.`

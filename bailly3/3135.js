@@ -1,0 +1,1 @@
+lar[3135]=`<b>ἀ·καπήλευτος, ος, ον</b> <font color="purple">[κᾰ]</font> non falsifié, sincère, SYN. <i>Ep. 49, 1377a Migne</i>.<p><b>Étym</b>. ἀ, καπηλεύω.`

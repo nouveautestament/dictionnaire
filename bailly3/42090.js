@@ -1,0 +1,1 @@
+lar[42090]=`<b>εὐηγορέω-ῶ</b>, dire du bien de, louer, vanter, célébrer, EUB. <i>fr. 71 Kock, conj</i>. εὐηγορῶν, <i>p</i>. εὐηγόρων.<p>➳ <i>Dor. part. ao. pass</i>. εὐαγορηθείς <font color="purple">[ᾱ]</font> PD. <i>I. 1, 51</i>.<p><b>Étym</b>. εὐήγορος, <i>cf</i>. εὐαγορέω.`

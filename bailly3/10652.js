@@ -1,0 +1,1 @@
+lar[10652]=`<b>ἀντ·ονίνημι</b> <font color="darkgreen">(<i>ao</i>. ἀντώνησα)</font> aider à son tour <i>ou</i> en retour, LIB. <i>1, 240</i>.`

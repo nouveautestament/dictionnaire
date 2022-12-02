@@ -1,0 +1,1 @@
+lar[70859]=`<b>ὀκτα·σκελής, ής, ές</b>, à huit jambes <i>ou</i> pieds, ORIB. <i>p. 93 Mai</i>.<p><b>Étym</b>. ὀ. σκέλος.`

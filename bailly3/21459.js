@@ -1,0 +1,1 @@
+lar[21459]=`<b>α (ὁ)</b> Gauradas, <i>poète, de l’Anthologie,</i> A. PL. <i>152</i>.`

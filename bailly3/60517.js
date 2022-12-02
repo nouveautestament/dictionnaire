@@ -1,0 +1,1 @@
+lar[60517]=`être blanchi, être blanc, HDT. <i>8, 27</i> ; ALCIPHR. <i>3, 30 ; fig. au pass</i>. SEXT. <i>P. 1, 44</i> ; SPT. <i>Cant. 8, 5, etc</i>.<p><b>Étym</b>. λευκανθής.`

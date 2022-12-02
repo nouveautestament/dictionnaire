@@ -1,0 +1,1 @@
+lar[84045]=`<b>προ·εικάζω :<br>      1</b> comparer auparavant, PLAT. <i>Rsp. 473c.</i><br><b>      2</b> présumer, ARSTT. <i>Rhet. 1, 3, 4</i>.`

@@ -1,0 +1,1 @@
+lar[85728]=`<b>προσ·επισφάττω</b>, immoler en outre, PLUT. <i>M. 1104e ;</i> SOPH. <i>Ant. arg</i>.`

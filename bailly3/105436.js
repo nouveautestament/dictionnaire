@@ -1,0 +1,1 @@
+lar[105436]=`<b>φίλ·αθλος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les luttes, PLUT. <i>M. 724b</i>.<p><b>Étym</b>. φ. ἆθλος.`

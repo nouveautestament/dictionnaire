@@ -1,0 +1,1 @@
+lar[85978]=`<b>προσ·κατατείνω</b>, étendre en outre, HPC. <i>Art. 837b</i>.`

@@ -1,0 +1,1 @@
+lar[42404]=`<b>εὐ·κατάψευστος, ος, ον</b>, qu’on peut facilement dissimuler par un mensonge, STR. <i>26</i>.<p><b>Étym</b>. εὖ, καταψεύδω.`

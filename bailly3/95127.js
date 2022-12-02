@@ -1,0 +1,1 @@
+lar[95127]=`<b>συν·διανέμω</b>, distribuer ensemble <i>ou</i> avec, <i>dat</i>. PLUT. <i>M. 1024c, 1082b ; abs</i>. CLÉM. <i>702</i>.`

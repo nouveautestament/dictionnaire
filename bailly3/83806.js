@@ -1,0 +1,1 @@
+lar[83806]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πρόβλημα, ARR. <i>Epict. 2, 20, 33</i>.`

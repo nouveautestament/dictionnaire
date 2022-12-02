@@ -1,0 +1,1 @@
+lar[65200]=`<b>μετ·όπωρον, ου (τὸ)</b> fin de l’automne, automne, THC. <i>7, 79</i> ; ARSTT. <i>Meteor. 1, 12</i>.<p><b>Étym</b>. μ. ὀπώρα.`

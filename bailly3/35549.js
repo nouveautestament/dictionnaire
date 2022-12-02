@@ -1,0 +1,1 @@
+lar[35549]=`<b>ἐξ·αποβαίνω</b>, sortir de, descendre de, <i>gén</i>. OD. <i>12, 306</i> ; A.RH. <i>3, 199</i>.`

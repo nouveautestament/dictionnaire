@@ -1,0 +1,1 @@
+lar[72310]=`<b>α, ον</b>, qui vient après, <i>gén</i>. ARAT. <i>284</i> ; NONN. <i>D. 7, 189, etc</i>.<p><b>Étym</b>. <i>cp. de</i> ὄπις².`

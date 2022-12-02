@@ -1,0 +1,1 @@
+lar[92337]=`<i>(seul. prés.) c</i>. στείβω, ESCHL. <i>fr. 412 Dind</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

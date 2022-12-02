@@ -1,0 +1,1 @@
+lar[68789]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> Nikotéléia, <i>f</i>. RHIAN. (E. BYZ. <i>v°</i> Δώτιον).<p><b>Étym</b>. <i>v</i>. Νικοτέλης.`

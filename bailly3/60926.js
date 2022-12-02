@@ -1,0 +1,1 @@
+lar[60926]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐᾰῐδ]</font> encensoir, CARNÉAD. (PLUT. <i>M. 477b</i>) ; POLYEN <i>4, 8, 2</i>.<p>➳ <i>Réduit à</i> λιβανωτίς <i>dans les inscr. att</i>. CIA. <i>386a</i> b, <i>28</i> ; c-k, <i>33 (267/265 av. J.-C.) ; v. Meisterh. p. 63, 5</i>.<p><b>Étym</b>. λίβανος.`

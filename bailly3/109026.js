@@ -1,0 +1,1 @@
+lar[109026]=`<i>vb. de</i> χρίω, ANTYLL. (ORIB. <i>2, 415 B.-Dar</i>.) ; GEOP. <i>16, 4, 1</i>.`

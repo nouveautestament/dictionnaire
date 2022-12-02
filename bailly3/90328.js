@@ -1,0 +1,1 @@
+lar[90328]=`<b>α (ὁ)</b> <font color="purple">[ῑῐῐ]</font> Simikhidas, <i>h</i>. THCR. <i>Idyl. 7, 21, etc. (patr. dor. de</i> Σιμίχη).`

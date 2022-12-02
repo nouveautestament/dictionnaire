@@ -1,0 +1,1 @@
+lar[85]=`<b>ας (ἡ)</b> <font color="purple">[ᾰβ]</font> sottise, ignorance, PLAT. <i>Theæt. 174c, etc.</i> ; PLUT. <i>Fab. 1</i> (-ηρία <i>incorr</i>.).<p><b>Étym</b>. ἀβέλτερος.`

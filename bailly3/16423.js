@@ -1,0 +1,1 @@
+lar[16423]=`<i>att</i>. <b>ἀξυγκρότητος, ος, ον :<br>      1</b> non déjà rassemblé, <i>càd</i>. qu’on prend n’importe où, qui se trouve sous la main, THC. <i>8, 95</i>.<br><b>      2</b> non ramassé, peu serré, lâche (style) DH. <i>Dem. 19</i>.<p><b>Étym</b>. ἀ, συγκροτέω.`

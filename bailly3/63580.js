@@ -1,0 +1,1 @@
+lar[63580]=`<b>μεθ·ελκύω</b> <font color="darkgreen">(<i>ao</i>. μεθείλκυσα)</font> <i>c</i>. μεθέλκω PHIL. <i>1, 387</i>.`

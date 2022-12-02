@@ -1,0 +1,1 @@
+lar[64003]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐῐδ]</font> Méligounis, <i>autre n. de Lipara, une des î. éoliennes,</i> CALL. <i>Dian. 48</i>.`

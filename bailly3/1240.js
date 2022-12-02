@@ -1,0 +1,1 @@
+lar[1240]=`<b>ἀδελφό·παις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> neveu, nièce, DH. <i>4, 64</i>.<p><b>Étym</b>. ἀδ. παῖς.`

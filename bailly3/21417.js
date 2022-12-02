@@ -1,0 +1,1 @@
+lar[21417]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit ventre, AR. <i>Nub. 392</i>.<p><b>Étym</b>. <i>dim. de</i> γαστήρ.`

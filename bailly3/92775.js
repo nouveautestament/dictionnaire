@@ -1,0 +1,1 @@
+lar[92775]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰβᾰκ]</font> Strabax, <i>h</i>. DÉM. <i>20, 84 Baiter-Sauppe</i> ; THÉOD. (ARSTT. <i>Rhet. 2, 23), etc</i>.<p><b>Étym</b>. στραβός.`

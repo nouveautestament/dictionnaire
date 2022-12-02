@@ -1,0 +1,1 @@
+lar[30163]=`<b>ας (ἡ)</b> bonne volonté au travail, activité, XÉN. <i>Œc. 21, 6, conj. p</i>. φιλοπονία.<p><b>Étym</b>. ἐθελόπονος.`

@@ -1,0 +1,1 @@
+lar[34491]=`<b>ου (τὸ)</b> sorte de laitue, GEOP. <i>12, 1, 3</i>.`

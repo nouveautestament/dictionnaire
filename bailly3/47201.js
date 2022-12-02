@@ -1,0 +1,1 @@
+lar[47201]=`<b>θηλυ·πτέριον, ου (τὸ)</b> <i>c</i>. θηλυπτερίς A. TR. (<i>Fabricii bibliotheca græca 12, 611</i>).`

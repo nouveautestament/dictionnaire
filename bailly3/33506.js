@@ -1,0 +1,1 @@
+lar[33506]=`<b>εως (ἡ)</b> action de remplir ; <i>p. suite,</i> action de rassasier, de satisfaire, EPICT. (STOB. <i>Fl. 5, 93).</i><p><b>Étym</b>. ἐμπίπλημι.`

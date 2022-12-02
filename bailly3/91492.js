@@ -1,0 +1,1 @@
+lar[91492]=`<b>ου (ὁ)</b> Smikythès, <i>chef thrace,</i> AR. <i>Eq. 969, etc</i>.`

@@ -1,0 +1,1 @@
+lar[57970]=`<b>ων (τὰ)</b> Kritalles, <i>v. de Cappadoce,</i> HDT. <i>7, 26</i>.`

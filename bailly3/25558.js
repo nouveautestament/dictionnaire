@@ -1,0 +1,1 @@
+lar[25558]=`<b>δια·σκορπίζω</b>, dissiper, disperser, POL. <i>1, 47, 5</i> ; SPT. <i>Dan. 11, 24, etc</i>.`

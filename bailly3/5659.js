@@ -1,0 +1,1 @@
+lar[5659]=`<b>ἀμμο·κονία, ας (ἡ)</b> mélange de sable et de chaux, STR. <i>245</i> ; GEOP. <i>2, 27, 24</i>.`

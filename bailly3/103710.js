@@ -1,0 +1,1 @@
+lar[103710]=`<b>ὑπο·πολιτικός, ή, όν</b> <font color="purple">[λῑ]</font> lié indirectement avec l’État, RHÉT. <i>7, 9 W</i>.`

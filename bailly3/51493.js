@@ -1,0 +1,1 @@
+lar[51493]=`<font color="purple">[ᾰᾰ]</font> <i>c</i>. καναχηδά DP. <i>145</i> ; ARÉT. <i>p. 28</i>.<p><b>Étym</b>. καναχέω, -δον.`

@@ -1,0 +1,1 @@
+lar[96544]=`<b>ου (ὁ)</b> Syrmos, <i>roi des Triballes,</i> PLUT. <i>Alex. 11</i>.`

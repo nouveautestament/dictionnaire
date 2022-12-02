@@ -1,0 +1,1 @@
+lar[38871]=`<b>ἐπι·ρραψῳδέω-ῶ</b>, <i>litt</i>. coudre des paroles à un air, réciter en accompagnement : ἔπη, LUC. <i>Nec. 4,</i> des paroles ; ἔπη τινί, PHILSTR. <i>682,</i> des paroles sur qqn.<p><b>Étym</b>. ἐπί, ῥαψῳδέω.`

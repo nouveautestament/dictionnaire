@@ -1,0 +1,1 @@
+lar[102909]=`<b>ὑπέρ·ψυχος, ος, ον</b> <font color="purple">[ψῡ]</font> supérieur à l’âme, PLAT. <i>Tim. 88a</i>.<p><b>Étym</b>. ὑ. ψυχή.`

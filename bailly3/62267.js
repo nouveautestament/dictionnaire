@@ -1,0 +1,1 @@
+lar[62267]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῡ]</font><br><b>      1</b> racine du laserpitium (<i>v</i>. σίλφιον) DIOSC. <i>3, 94</i>.<br><b>      2</b> graine du laserpitium, TH. <i>H.P. 6, 34</i>.<br><b>      3</b> plante inconnue, TH. <i>H.P. 1, 6, 12 (cf. lat</i>. magudaris, PLAUT. <i>Rud. 3, 2, 19</i>).`

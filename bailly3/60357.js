@@ -1,0 +1,1 @@
+lar[60357]=`<b>ῆς (ἡ)</b> vase en forme de coquillage, AR. <i>Pax 916</i> ; COM. (ATH. <i>485a</i>).<p><b>Étym</b>. λεπάς.`

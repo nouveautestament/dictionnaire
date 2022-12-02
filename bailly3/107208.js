@@ -1,0 +1,1 @@
+lar[107208]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡᾱ]</font> qui pétrit, gâcheur, CIC. <i>Att. 7, 1, 8</i>.<p><b>Étym</b>. φυράω.`

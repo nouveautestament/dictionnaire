@@ -1,0 +1,1 @@
+lar[30662]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne l’introduction <i>ou</i> l’importation, STR. <i>798</i>.<br><b>      2</b> <i>fig</i>. qui sert à introduire, à initier, élémentaire, CHRYSIPP. (DL. <i>7, 195</i>) ; PTOL. <i>Tetr. 16</i> ; GAL. <i>1, 36</i>.<p><b>Étym</b>. εἰσαγωγή.`

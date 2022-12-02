@@ -1,0 +1,1 @@
+lar[33546]=`<b>ἐμ·ποίνιμος, ος, ον</b>, <i>poét</i>. qui expose à un châtiment, punissable, POÈT. (STOB. <i>Fl. 1, 28, 2</i>) ; CORN. <i>24</i>.<p><b>Étym</b>. ἐν, ποινή.`

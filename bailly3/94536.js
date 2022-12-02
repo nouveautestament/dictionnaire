@@ -1,0 +1,1 @@
+lar[94536]=`<b>συν·αγιάζω</b> <font color="purple">[ᾰγ]</font> sanctifier ensemble <i>ou</i> en même temps, HERM. TR. <i>Poem. 18, 13</i>.`

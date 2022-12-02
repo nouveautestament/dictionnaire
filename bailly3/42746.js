@@ -1,0 +1,1 @@
+lar[42746]=`<b>εὐ·νάων, άουσα, άον</b>, qui coule abondamment, <i>en parl. de la pluie,</i> ESCHL. <i>fr. 41</i>.<p><b>Étym</b>. εὖ, νάω.`

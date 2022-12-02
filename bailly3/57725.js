@@ -1,0 +1,1 @@
+lar[57725]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> corbeille suspendue, <i>où l’on déposait certains objets (provisions de bouche, etc</i>.) AR. <i>Nub. 218, 868</i>.<p><b>Étym</b>. κρεμάννυμι.`

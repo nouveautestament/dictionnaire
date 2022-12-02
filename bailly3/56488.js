@@ -1,0 +1,1 @@
+lar[56488]=`<b>κοινο·ποιέω-ῶ :<br>      1</b> rendre commun, CHRYS. <i>3, 365 ; au pass</i>. être commun à tous, SEXT. <i>M. 5, 63</i>.<br><b>      2</b> faire connaître, révéler, CLÉM. <i>641</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 2, CLÉM. <i>574</i>.<p><b>Étym</b>. κοινός, ποιέω.`

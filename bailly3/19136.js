@@ -1,0 +1,1 @@
+lar[19136]=`<b>βαρύ·δικος, ος, ον</b> <font color="purple">[ᾰῠῐ]</font> qui punit durement, ESCHL. <i>Ch. 936</i>.<p><b>Étym</b>. β. δίκη.`

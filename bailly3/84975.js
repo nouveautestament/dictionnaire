@@ -1,0 +1,1 @@
+lar[84975]=`<b>προ·ποδηγός, οῦ (ὁ, ἡ)</b> qui marche devant, qui sert de guide, PLUT. <i>M. 580c ; en parl. d’un bâton qui sert à soutenir la marche,</i> ANTH. <i>6, 294</i>.<p>➳ <i>Dor</i>. προποδαγός <font color="purple">[ᾱ]</font> ANTH. <i>l. c</i>.<p><b>Étym</b>. π. ποδηγός.`

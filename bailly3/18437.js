@@ -1,0 +1,1 @@
+lar[18437]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de l’Achéron, ESCHL. <i>Ag. 1160</i>.<p><b>Étym</b>. Ἀχέρων.`

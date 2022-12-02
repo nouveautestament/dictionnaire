@@ -1,0 +1,1 @@
+lar[51058]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de lancer en faisant tourner, ALCIPHR. <i>3, 42</i>.<p><b>Étym</b>. καλινδέομαι, <i>cf</i>. κυλίνδησις.`

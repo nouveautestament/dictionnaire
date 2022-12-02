@@ -1,0 +1,1 @@
+lar[45094]=`<b>ατος (τὸ)</b> ce qu’on a filtré, DIEUCH. (ORIB. <i>1, 290 B.-Dar</i>.).<p><b>Étym</b>. ἠθέω.`

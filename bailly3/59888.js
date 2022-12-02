@@ -1,0 +1,1 @@
+lar[59888]=`<b>ου (τὸ)</b> coffret, SYMM. <i>Sam. 1, 6, 8</i>.<p><b>Étym</b>. <i>dim. de</i> λάρναξ.`

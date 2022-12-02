@@ -1,0 +1,1 @@
+lar[82010]=`<b>πολύ·κμητος, ος, ον</b>, qui coûte beaucoup de travail <i>ou</i> de peine, IL. <i>6, 48 ; 10, 379 ; 11, 133</i> ; OD. <i>4, 718</i> ; ANTH. <i>9, 656</i> ; Q. SM. <i>7, 424</i>.<p><b>Étym</b>. π. κάμνω.`

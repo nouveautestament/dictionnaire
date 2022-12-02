@@ -1,0 +1,1 @@
+lar[86726]=`<b>ος, ον</b>, placé aux premiers rangs, PLUT. <i>Cam. 41, Crass. 23, etc</i>.<p><b>Étym</b>. προτάσσω.`

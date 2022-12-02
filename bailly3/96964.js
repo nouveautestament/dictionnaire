@@ -1,0 +1,1 @@
+lar[96964]=`<b>σφυρο·πρησι·πύρα, ας (ἡ)</b> <font color="purple">[ῠῐῠ]</font> qui brûle les talons <i>ou</i> les pieds, <i>en parl. de la goutte,</i> LUC. <i>Trag. 200</i>.<p><b>Étym</b>. σφυρόν, πρήθω, πῦρ.`

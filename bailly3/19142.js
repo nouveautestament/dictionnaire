@@ -1,0 +1,1 @@
+lar[19142]=`<b>βαρυ·εργής, ής, ές</b> <font color="purple">[ᾰῠ]</font> accablé de travail, APP. <i>Civ. 1, 83</i>.<p><b>Étym</b>. β. ἔργον.`

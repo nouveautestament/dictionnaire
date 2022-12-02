@@ -1,0 +1,1 @@
+lar[85562]=`<b>προσ·εμβάλλω :<br>      1 <i>tr.</i></b> jeter en outre vers <i>ou</i> sur, <i>avec</i> εἰς <i>et l’acc</i>. PLAT. <i>Crat. 439c ;</i> PLUT. <i>Demetr. 34</i> ; DC. <i>43, 31, etc.</i><br><b>      2 <i>intr</i></b>. (<i>s.-e</i>. ἑαυτόν) se jeter en outre sur, PLUT. <i>M. 751f</i>.`

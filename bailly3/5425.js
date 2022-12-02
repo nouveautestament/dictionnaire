@@ -1,0 +1,1 @@
+lar[5425]=`<i>adv</i>., sans préparation, PLAT. <i>Conv. 173c</i>.`

@@ -1,0 +1,1 @@
+lar[97159]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui imite <i>ou</i> contrefait Socrate, AR. <i>Nub. arg. 3 conj</i>.<p><b>Étym</b>. σωκρατίζω.`

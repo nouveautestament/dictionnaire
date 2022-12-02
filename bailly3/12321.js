@@ -1,0 +1,1 @@
+lar[12321]=`<b>ἀπο·δόκιμος, ος, ον</b> <font color="purple">[ῐ]</font> qui mérite d’être repoussé, DIOSC. <i>1, 77</i>.`

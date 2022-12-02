@@ -1,0 +1,1 @@
+lar[78441]=`<b>εως (ἡ) :<br>      1</b> action de regarder tout autour, HPC. <i>1212h ;</i> ARSTT. <i>Physiogn. 3, 9</i>.<br><b>      2</b> observation attentive, vigilance, PLUT. <i>Alex. 23</i>.<p><b>Étym</b>. περιβλέπω.`

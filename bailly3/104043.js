@@ -1,0 +1,1 @@
+lar[104043]=`<b>οῦ (ὁ)</b> retour périodique, accès, HPC. <i>Aph. 1250</i> ; GAL. <i>19, 517</i>.<p><b>Étym</b>. ὑποτροπιάζω.`

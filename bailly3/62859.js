@@ -1,0 +1,1 @@
+lar[62859]=`<b>οῦ (ὁ)</b> <i>sorte de poisson,</i> TH. (ATH. <i>332c</i>).`

@@ -1,0 +1,1 @@
+lar[44809]=`<b>ζωρο·πότης, ου (ὁ)</b> qui boit du vin pur, qui boit sans retenue, HÉDYL. (ATH. <i>487d</i>) ; MAN. <i>4, 300 ; 6, 588 ; fig</i>. ANTH. <i>5, 226</i>.<p><b>Étym</b>. ζωρός, πίνω.`

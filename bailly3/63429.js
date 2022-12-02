@@ -1,0 +1,1 @@
+lar[63429]=`<b>μεγαλο·σοφιστής, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> grand sophiste, ATH. <i>113d</i>.`

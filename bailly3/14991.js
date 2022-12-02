@@ -1,0 +1,1 @@
+lar[14991]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> ἀρόω, GÉM.<p><b>Étym</b>. <i>Cram. 3, 226</i>.`

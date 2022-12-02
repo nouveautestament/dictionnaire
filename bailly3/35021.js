@@ -1,0 +1,1 @@
+lar[35021]=`<b>ἐν·τείρω</b> (<i>seul. impf. pass. 3 sg</i>. ἐνετείρετο) tourmenter dans, <i>dat</i>. Q. SM. <i>1, 671</i>.`

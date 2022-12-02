@@ -1,0 +1,1 @@
+lar[73239]=`<b>ου (ὁ)</b> Osroès, <i>Parthe,</i> LUC. <i>H. conscr. 18</i>.`

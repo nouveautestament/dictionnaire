@@ -1,0 +1,1 @@
+lar[42857]=`<b>εὐ·όλισθος, ος, ον :<br>      1 <i>tr</i></b>. qui fait glisser facilement, glissant, A. APHR. <i>Probl. 1, 90</i>.<br><b>      2 <i>intr</i></b>. qui glisse facilement, PLUT. <i>M. 878d ;</i> PHIL. <i>2, 463</i>.<p><b>Étym</b>. εὖ, ὀλισθαίνω.`

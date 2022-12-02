@@ -1,0 +1,1 @@
+lar[9612]=`<b>ἀντ·εξαίρω</b> (<i>seul. part. ao</i>. -εξάρας) élever à son tour, PHILSTR. <i>511</i>.`

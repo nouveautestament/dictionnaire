@@ -1,0 +1,1 @@
+lar[76548]=`<b>παρ·εγχέω</b>, répandre dans <i>ou</i> sur, <i>dat</i>. ARSTT. <i>Nic. 7, 2, 5 ; au pass</i>. ARSTT. <i>Meteor. 2, 3, 33</i>.`

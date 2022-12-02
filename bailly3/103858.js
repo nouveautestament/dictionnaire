@@ -1,0 +1,1 @@
+lar[103858]=`<b>οῦ (ὁ)</b> action de soustraire, AQU. <i>Deut. 15, 1</i>.<p><b>Étym</b>. ὑποσπάω.`

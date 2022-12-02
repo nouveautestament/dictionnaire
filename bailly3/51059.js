@@ -1,0 +1,1 @@
+lar[51059]=`<b>η, ον</b> <font color="purple">[ᾱῐ]</font> de bois, LYC. <i>1418</i> ; POÈT. (SCH.-AR. <i>Av. 1283).</i><p><b>Étym</b>. κᾶλον.`

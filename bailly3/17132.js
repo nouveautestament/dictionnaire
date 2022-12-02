@@ -1,0 +1,1 @@
+lar[17132]=`NAZ. <i>p. 801d ; d’ord</i>. <b>αὐθαδίζομαι</b> <font color="purple">[ᾱδ]</font> (<i>seul. prés., postér. ao</i>.) être présomptueux <i>ou</i> arrogant, PLAT. <i>Ap. 34d</i> (<i>au part. prés</i>.) ; THÉM. <i>Or. 29, 346b</i> (<i>part. ao</i>. -ισάμενος).<p><b>Étym</b>. αὐθάδης.`

@@ -1,0 +1,1 @@
+lar[4296]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de moudre, <i>d’où</i> mouture, EUN. <i>V. Max. p. 59</i>.<p><b>Étym</b>. ἀλέω.`

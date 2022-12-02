@@ -1,0 +1,1 @@
+lar[36002]=`<b>ἐξ·ιλεόω-εῶ</b> <font color="purple">[ῑ]</font> rendre favorable, SPT. <i>2Reg. 21, 9</i>.<br><b><i>Moy.</i></b> apaiser par un sacrifice, se rendre favorable, STR. <i>198</i> ; HERMOG. <i>Rhet. 24, 8</i>.<p><b>Étym</b>. ἐξ, ἵλεως.`

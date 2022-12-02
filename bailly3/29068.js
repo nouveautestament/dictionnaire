@@ -1,0 +1,1 @@
+lar[29068]=`<b>δυωκαιεικοσί·μετρος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui contient 22 mesures (vase) IL. <i>23, 264</i>.<p><b>Étym</b>. <i>épq. c</i>. δυοκαι-.`

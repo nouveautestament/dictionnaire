@@ -1,0 +1,1 @@
+lar[83517]=`<b>προ·αιτία, ας (ἡ)</b> préliminaires d’une cause, DAMASC. (<i>Wolf, Anecd. 3, 235).</i><p><b>Étym</b>. π. αἰτία.`

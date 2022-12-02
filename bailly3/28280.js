@@ -1,0 +1,1 @@
+lar[28280]=`<b>δυσδαιμονέω-ῶ</b> (<i>part. prés</i>. -οῦσιν) être malheureux, LGN <i>9, 7</i>.<p><b>Étym</b>. δυσδαίμων.`

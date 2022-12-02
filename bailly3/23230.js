@@ -1,0 +1,1 @@
+lar[23230]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰν]</font> prodigalité, ARSTT. <i>Eud. 2, 3, 4</i>.<p><b>Étym</b>. δαπανηρός.`

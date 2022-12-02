@@ -1,0 +1,1 @@
+lar[52001]=`<b>καρφο·λογέω-ῶ</b>, ramasser des brins de paille, TH. <i>C.P. 1, 15, 1 ; Char. 2 ; fig</i>. s’attacher à un brin de paille, <i>càd</i>. à un fétu, à un rien, GAL. <i>8, 607</i>.<p><b>Étym</b>. κ. -λόγος <i>de</i> λέγω.`

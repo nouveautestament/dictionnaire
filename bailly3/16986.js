@@ -1,0 +1,1 @@
+lar[16986]=`<b>ἀτροφέω-ῶ</b> (<i>seul. prés., ao</i>. ἠτρόφησα, <i>pf</i>. ἠτρόφηκα) :<br><b>      1</b> ne pas avoir <i>ou</i> ne pas prendre de nourriture, EL. <i>N.A. 10, 21</i> ; PHIL.<br><b>      2</b> dépérir, PLUT. <i>Arat. 25</i> ; GAL. <i>etc. ; en parl. des plantes,</i> TH. <i>H.P. 8, 6, 7, etc.</i> ; PLUT. <i>M. 688e</i>.<p><b>Étym</b>. ἄτροφος.`

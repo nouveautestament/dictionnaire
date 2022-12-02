@@ -1,0 +1,1 @@
+lar[87155]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de Protagoras, PLAT. <i>Theæt. 162c, 164d</i>.<p><b>Étym</b>. Πρωταγόρας.`

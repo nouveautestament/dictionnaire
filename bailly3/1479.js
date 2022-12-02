@@ -1,0 +1,1 @@
+lar[1479]=`<b>ἀδό·λεσχος, ος, ον</b> <font color="purple">[ᾱ]</font> <i>réc. c</i>. ἀδολέσχης :<br><b>      1</b> déraisonnable, SEXT. <i>631 Bkk.</i><br><b>      2</b> bavard, PLUT. <i>M. 502c ;</i> ANTH. <i>App. 236</i>.`

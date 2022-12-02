@@ -1,0 +1,1 @@
+lar[32673]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐλελίσφακος DIOSC. <i>3, 40</i>.`

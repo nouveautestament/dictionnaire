@@ -1,0 +1,1 @@
+lar[55374]=`<b>ας (ἡ)</b> falsification, <i>d’où</i> tromperie, mauvaise foi, PLAT. <i>Leg. 916d, 920c</i>.<p><b>Étym</b>. κίβδηλος.`

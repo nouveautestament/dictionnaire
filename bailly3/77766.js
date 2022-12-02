@@ -1,0 +1,1 @@
+lar[77766]=`<b>εως (ἡ)</b> action de couper avec la hache, TH. <i>H.P. 3, 9, 3</i>.<p><b>Étym</b>. πελεκάω.`

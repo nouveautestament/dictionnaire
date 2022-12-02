@@ -1,0 +1,1 @@
+lar[56604]=`<b>α, ον</b>, qu’il faut châtier, XÉN. <i>Hier. 8, 9</i> ; PLAT. <i>Gorg. 527b, etc. ; au neutre,</i> PLAT. <i>Gorg. 492d</i>.<p><b>Étym</b>. <i>vb. de</i> κολάζω.`

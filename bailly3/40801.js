@@ -1,0 +1,1 @@
+lar[40801]=`<font color="purple">[ῡᾰ]</font> (<i>seul. 3 pl. prés. épq</i>. ἐρυκανόωσι, OD. <i>1, 199, et part. prés. épq</i>. ἐρυκανόωσα, Q. SM. <i>12, 205) c</i>. ἐρύκω.`

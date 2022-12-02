@@ -1,0 +1,1 @@
+lar[19827]=`<b>ωνος (ὁ)</b> Bion :<br><b>      1</b> <i>philosophe de l’école de Cyrène,</i> PLUT. DL. <i>etc.</i><br><b>      2</b> <i>poète idyllique,</i> MOSCH. <i>etc.</i><br><b>      3</b> <i>historien,</i> ATH. <i>etc.</i><br><b>      4</b> <i>autres,</i> HIPPON. STR. <i>etc</i>.<p>➳ <i>Voc</i>. βίων, MOSCH. <i>3, 86</i>.`

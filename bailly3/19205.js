@@ -1,0 +1,1 @@
+lar[19205]=`<b>βαρύ·στομος, ος, ον :<br>      1</b> au tranchant acéré (<i>litt</i>. qui tranche lourdement, <i>càd</i>. profondément), OPP. <i>H. 4, 481</i>.<br><b>      2</b> au langage dur (<i>litt</i>. pesant) NONN. <i>D. 48, 420</i>.<p><b>Étym</b>. β. στόμα.`

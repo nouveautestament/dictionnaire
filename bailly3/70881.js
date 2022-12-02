@@ -1,0 +1,1 @@
+lar[70881]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> dix-huitième, OD. <i>5, 279, etc.</i> ; POL. <i>1, 56, 2</i>.<p><b>Étym</b>. ὀκτωκαίδεκα.`

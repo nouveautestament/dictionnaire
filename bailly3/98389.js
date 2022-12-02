@@ -1,0 +1,1 @@
+lar[98389]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire de Terméra, <i>v. de Lycie ou de Carie,</i> HDT. <i>5, 37</i>.`

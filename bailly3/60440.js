@@ -1,0 +1,1 @@
+lar[60440]=`<b>λεπτο·σχιδής, ής, ές</b> <font color="purple">[ῐ]</font> coupé en fentes minces, CÉPHISOD. <i>fr. 4</i> ; DIOSC. <i>2, 169 ; 3, 29</i>.<p><b>Étym</b>. λ. σχίζω.`

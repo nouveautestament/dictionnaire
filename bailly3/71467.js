@@ -1,0 +1,1 @@
+lar[71467]=`<b>ὁμο·δογματία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> conformité d’opinion, STOB. <i>Ecl. eth. p. 130</i>.<p><b>Étym</b>. <i>cf</i>. ὁμοδογματέω.`

@@ -1,0 +1,1 @@
+lar[93160]=`<b>ιος</b> <i>ou</i> <b>ιδος (ὁ)</b> Sybaris (<i>auj</i>. Coscile <i>ou</i> Sibari) <i>fl. de la Grande-Grèce,</i> THC. <i>7, 35, etc</i>.<p>➳ <i>Gén</i>. -ιος, DS. <i>11, 90, etc.</i> ; -ιδος, STR. <i>263, etc. ; dat</i>. -ει, THC. <i>l. c</i>.`

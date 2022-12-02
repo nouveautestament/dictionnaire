@@ -1,0 +1,1 @@
+lar[65617]=`<b>ας (ἡ)</b> action de se souiller d’un meurtre, DÉM. <i>795, 7</i> ; DS. <i>17, 5 ; 19, 1</i> ; PLUT. <i>M. 857a, 994a, etc</i>.<p><b>Étym</b>. μιαιφόνος.`

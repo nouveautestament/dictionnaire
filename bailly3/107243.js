@@ -1,0 +1,1 @@
+lar[107243]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui fait enfler, HPC. <i>622, 9</i> ; ARSTT. <i>H.A. 8, 7, 1, avec le gén</i>. ARSTT. <i>Probl. 13, 6, 2</i>.<p><b>Étym</b>. φυσάω.`

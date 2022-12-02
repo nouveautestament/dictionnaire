@@ -1,0 +1,1 @@
+lar[97702]=`<b>ου (ὁ)</b> = <i>lat</i>. Tarpeius, <i>n. d’h. rom</i>. PLUT. <i>Rom. 17, 18, etc</i>.`

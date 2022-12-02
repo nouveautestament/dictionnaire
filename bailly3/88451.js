@@ -1,0 +1,1 @@
+lar[88451]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ῥημάτιον PLAT. <i>Theæt. 180a</i>.`

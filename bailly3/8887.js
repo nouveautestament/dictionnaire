@@ -1,0 +1,1 @@
+lar[8887]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> floraison, <i>d’où</i> fleur, ANTH. <i>5, 276 ; 11, 365</i>.<p><b>Étym</b>. ἄνθος.`

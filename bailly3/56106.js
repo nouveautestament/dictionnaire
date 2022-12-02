@@ -1,0 +1,1 @@
+lar[56106]=`<b>εως (ἡ)</b> l’os sacrum, ANTIM. <i>65 Kinkel</i>.`

@@ -1,0 +1,1 @@
+lar[165]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰμ]</font> brème <i>ou</i> muge, <i>poisson de mer et du Nil,</i> OPP. <i>H. 1, 244</i>.`

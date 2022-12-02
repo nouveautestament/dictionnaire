@@ -1,0 +1,1 @@
+lar[47547]=`<i>adv.</i> :<br><b>      1</b> à la manière des Thraces, THCR. <i>Idyl. 14, 46</i>.<br><b>      2</b> en langue thrace, SEXT. <i>M. 1, 218</i>.<p><b>Étym</b>. Θρᾷξ.`

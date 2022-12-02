@@ -1,0 +1,1 @@
+lar[106377]=`<b>ῶνος (ὁ)</b> Phléôn, <i>surn. de Dionysos,</i> EL. <i>V.H. 3, 41</i>.<p><b>Étym</b>. φλέω.`

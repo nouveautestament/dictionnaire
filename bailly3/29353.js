@@ -1,0 +1,1 @@
+lar[29353]=`<b>ἐγγιάω-ῶ</b>, être apparenté <i>ou</i> allié à, SPT. <i>Neh. 13, 4</i>.<p><b>Étym</b>. ἐγγύς.`

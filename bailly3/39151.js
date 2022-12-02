@@ -1,0 +1,1 @@
+lar[39151]=`<b>ἐπι·στολίδιον, ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit billet, BAS. <i>4, 724 Migne</i>.<p><b>Étym</b>. <i>dim. de</i> ἐπιστόλιον.`

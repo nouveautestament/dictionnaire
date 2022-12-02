@@ -1,0 +1,1 @@
+lar[60974]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> d’une voix aiguë : λ. κλαίειν, IL. <i>19, 5</i> ; OD. <i>11, 391,</i> se lamenter avec des cris perçants ; λ. ἰάχειν, HÉS. <i>Sc. 234,</i> pousser des cris aigus.<br><b>      2</b> d’une voix claire, harmonieuse, IL. <i>3, 214</i>.<p><b>Étym</b>. λιγύς.`

@@ -1,0 +1,1 @@
+lar[35361]=`<b>ἑξακοσί·αρχος, ου (ὁ)</b> commandant de 600 hommes, POLYEN <i>Proœm. 2</i>.<p><b>Étym</b>. ἑξ. ἄρχω.`

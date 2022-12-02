@@ -1,0 +1,1 @@
+lar[98205]=`<b>ας (ἡ)</b> Téleutia, <i>f</i>. PLUT. <i>Lac. apophth. 10</i>.<p><b>Étym</b>. τελευτή.`

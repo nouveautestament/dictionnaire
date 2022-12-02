@@ -1,0 +1,1 @@
+lar[41501]=`<b>εὐ·αγής, ής, ές</b> <font color="purple">[ᾱ]</font> bien conduit, <i>d’où</i> régulier ; <i>particul</i>. de forme arrondie, PARMÉN. (CLÉM. <i>732).</i><p><b>Étym</b>. εὖ, ἡγέομαι ; <i>cf</i>. περιαγής <i>et</i> περιηγής.`

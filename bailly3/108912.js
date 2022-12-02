@@ -1,0 +1,1 @@
+lar[108912]=`<b>ου (ὁ)</b> Khrémylos, <i>litt</i>. « qui tousse et crache », <i>rôle de vieillard dans la nouvelle comédie (cf</i>. Χρέμης) AR. <i>Pl. 336, etc</i>.<p><b>Étym</b>. <i>cf</i>. χρέμπτομαι.`

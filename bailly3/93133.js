@@ -1,0 +1,1 @@
+lar[93133]=`<b>ωνος (ὁ)</b> Styphôn, <i>Lacédémonien,</i> THC. <i>4, 38</i>.`

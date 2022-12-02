@@ -1,0 +1,1 @@
+lar[21491]=`<b>ος, ον</b>, <i>m. ion</i>. primitif, antique, ancien, CALL. <i>fr. 103</i>.<p><b>Étym</b>. <i>Cf</i>. γέα, γῆ.`

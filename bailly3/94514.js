@@ -1,0 +1,1 @@
+lar[94514]=`<b>συμ·ψιλόω-ῶ</b> <font color="purple">[ῐ]</font> marquer également d’un esprit doux, GRAMM.<p><b>Étym</b>. <i>Cram. 1, 132</i>.`

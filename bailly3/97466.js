@@ -1,0 +1,1 @@
+lar[97466]=`<b>ταμεσί·χρως, οος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui coupe la peau, qui déchire le corps, IL. <i>4, 511 ; 13, 340</i>.<p><b>Étym</b>. ταμεῖν, χρώς.`

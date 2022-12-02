@@ -1,0 +1,1 @@
+lar[106981]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> menu bois sec, SPT. <i>Ps. 101, 3</i>.<p><b>Étym</b>. φρύγω.`

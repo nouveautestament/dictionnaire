@@ -1,0 +1,1 @@
+lar[104500]=`<b>ὑψί·κομος, ος, ον</b> <font color="purple">[ῐ]</font> à la chevelure élevée, <i>càd</i>. au feuillage élevé <i>ou</i> à la cime chevelue, IL. <i>14, 398</i> ; OD. <i>9, 186</i>.<p>➳ <i>Fém</i>. -η, Q. SM. <i>5, 119</i>.<p><b>Étym</b>. ὕ. κόμη.`

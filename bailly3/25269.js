@@ -1,0 +1,1 @@
+lar[25269]=`<b>δια·πίμελος, ος, ον</b> <font color="purple">[πῑ]</font> très gras, <i>en parl. de la chair,</i> RUF. <i>Part. corp. p. 39</i>.`

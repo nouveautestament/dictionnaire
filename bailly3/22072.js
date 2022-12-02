@@ -1,0 +1,1 @@
+lar[22072]=`<b>ου (τὸ)</b> temple d’Athèna Glaukôpis, <i>à Athènes,</i> ALC. (STR. <i>600).</i><p><b>Étym</b>. γλαυκῶπις.`

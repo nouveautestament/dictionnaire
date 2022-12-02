@@ -1,0 +1,1 @@
+lar[89524]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> satrape, <i>gouverneur de province, en Perse,</i> XÉN. <i>Cyr. 7, 4, 2, etc.</i> ; DÉM. <i>153, 21, etc. ; fig</i>. homme très riche, PAUS. <i>6, 25, 6</i> ; LUC. <i>Nigr. 20, etc</i>.<p><b>Étym</b>. <i>anc. persan</i> xšaϑra-pā-, <i>litt</i>. protégeant l’empire.`

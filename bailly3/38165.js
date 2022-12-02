@@ -1,0 +1,1 @@
+lar[38165]=`<b>ἐπι·κρεμάω</b>, suspendre sur, <i>d’où au pass. (seul. impf. 3 pl. épq</i>. ἐπεκρεμόωντο) être suspendu sur, <i>dat</i>. NONN. <i>D. 20, 173</i>.`

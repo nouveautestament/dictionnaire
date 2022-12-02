@@ -1,0 +1,1 @@
+lar[97629]=`<b>ου (τὸ)</b> <font color="purple">[τᾰ]</font> cause de trouble, instrument de désordre, AR. <i>Pax 654</i>.<p><b>Étym</b>. ταράσσω.`

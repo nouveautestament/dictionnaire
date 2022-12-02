@@ -1,0 +1,1 @@
+lar[51935]=`<b>εως (ἡ)</b> action de supporter avec patience <i>ou</i> courage, <i>gén</i>. PLAT. <i>Conv. 220a, etc. ; abs</i>. persévérance, PLAT. <i>Lach. 193d ; au pl</i>. PLAT. <i>Leg. 637b</i>.<p><b>Étym</b>. καρτερέω.`

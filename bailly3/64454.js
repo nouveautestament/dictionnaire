@@ -1,0 +1,1 @@
+lar[64454]=`<b>ου (ὁ)</b> Mésaulios, <i>esclave d’Eumée, propr</i>. « préposé à la cour intérieure », OD. <i>14, 449</i>.<p><b>Étym</b>. <i>v</i>. μέσαυλος.`

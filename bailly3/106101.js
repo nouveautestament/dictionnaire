@@ -1,0 +1,1 @@
+lar[106101]=`<b>φιλο·στάφυλος, ος, ον</b> <font color="purple">[ῐᾰῠ]</font> qui aime le raisin, abondant en raisin, NONN. <i>D. 29, 234</i>.<p><b>Étym</b>. φ. σταφυλή.`

@@ -1,0 +1,1 @@
+lar[35578]=`<b>ἐξ·αραιόω-ῶ</b> <font color="darkgreen">(<i>ao. inf</i>. -ῶσαι)</font> <font color="purple">[ᾰ]</font> <i>c</i>. ἀραιόω, ARÉT. <i>Cur. m. acut. 2, 6</i>.`

@@ -1,0 +1,1 @@
+lar[94982]=`<b>συν·άρω</b> (<i>seul. ao</i>. συνῆρσα, <i>et pf</i>. συνάραρα <font color="purple">[ᾰᾱᾰ]</font>, <i>ion</i>. συνάρηρα) être ajusté, uni, HH. <i>Ap. 164</i> ; A.RH. <i>2, 1112</i> ; Q. SM. <i>3, 100 ; en prose,</i> LUC. <i>Zeux. 8</i>.`

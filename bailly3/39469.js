@@ -1,0 +1,1 @@
+lar[39469]=`<b>ἐπι·τραπέζιος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui est sur la table, LUC. <i>Herm. 68</i>.<br><b>      2</b> qui concerne la table, de table, BAS. <i>1, 69</i>.<p><b>Étym</b>. ἐπί, τράπεζα.`

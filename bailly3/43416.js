@@ -1,0 +1,1 @@
+lar[43416]=`<b>εὔ·σηπτος, ος, ον</b>, qui pourrit facilement, ARSTT. <i>G.A. 5, 4, 11 ; Probl. 1, 18, etc</i>.<p>•<i> Cp</i>. –ότερος, ARSTT. <i>G.A. 5, 5</i> ; PLUT. <i>M. 912c</i>.<p><b>Étym</b>. εὖ, σήπω.`

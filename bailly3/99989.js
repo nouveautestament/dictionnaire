@@ -1,0 +1,1 @@
+lar[99989]=`<b>τραχυ·όστρακος, ος, ον</b> <font color="purple">[ᾱᾰ]</font> aux écailles raboteuses, ARSTT. <i>H.A. 4, 4, 6</i>.<p><b>Étym</b>. τρ. ὄστρακον.`

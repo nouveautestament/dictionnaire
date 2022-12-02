@@ -1,0 +1,1 @@
+lar[86532]=`<b>προ·συλλογισμός, οῦ (ὁ)</b> syllogisme antérieur, <i>càd</i>. dont la conclusion sert de prémisse à un autre, ARSTT. <i>An. pr. 1, 25, 11</i>.`

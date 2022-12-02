@@ -1,0 +1,1 @@
+lar[10841]=`<font color="purple">[μᾰ]</font> <i>adv</i>., inégalement, irrégulièrement, HPC. <i>Progn. 37</i> ; PLAT. <i>Tim. 52e ;</i> ISOCR. <i>145c, 197e ;</i> ARSTT. <i>Phys. 6, 7, 6, etc</i>.`

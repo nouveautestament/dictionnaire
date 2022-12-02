@@ -1,0 +1,1 @@
+lar[35466]=`<b>ἐξ·ανάπτω</b>, rallumer, PLUT. <i>M. 752a ;</i> ANTH. <i>5, 1</i>.`

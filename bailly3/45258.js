@@ -1,0 +1,1 @@
+lar[45258]=`<b>ἠλιτο·εργός, ός, όν</b> <font color="purple">[ῐ]</font> qui a échoué dans une entreprise, ANTH. <i>7, 210</i>.<p><b>Étym</b>. ἀλιταίνω, ἔργον.`

@@ -1,0 +1,1 @@
+lar[61347]=`<b>λιπο·πάτωρ</b>, <i>mieux que</i> <b>λειπο·πάτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῐᾰ]</font> <i>adj</i>. qui abandonne son père, EUR. <i>Or. 1305</i>.<p><b>Étym</b>. λ. πατήρ.`

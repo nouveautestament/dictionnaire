@@ -1,0 +1,1 @@
+lar[19128]=`<b>βαρύ·γυιος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui alourdit les membres, fatigant, accablant, OPP. <i>H. 5, 63</i> ; ANTH. <i>6, 190</i>.<p><b>Étym</b>. β. γυῖον.`

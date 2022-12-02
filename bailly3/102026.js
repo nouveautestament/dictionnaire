@@ -1,0 +1,1 @@
+lar[102026]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> écuyer (<i>litt</i>. qui porte le bouclier), HDT. <i>5, 111</i> ; EUR. <i>Rhes. 2, etc.</i> ; XÉN. <i>An. 4, 2, 20, etc</i>.<p><b>Étym</b>. ὑπασπίζω.`

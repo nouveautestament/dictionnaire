@@ -1,0 +1,1 @@
+lar[8963]=`<b>ἀνθρωπο·μάγειρος, ου (ὁ)</b> <font color="purple">[μᾰ]</font> cuisinier qui apprête la chair humaine, LUC. <i>As. 6</i>.`

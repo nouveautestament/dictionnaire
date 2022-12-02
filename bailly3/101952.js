@@ -1,0 +1,1 @@
+lar[101952]=`<b>ὑπ·αναπτύσσω</b>, déployer, développer, RHÉT. <i>1, 471 W</i>.`

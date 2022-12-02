@@ -1,0 +1,1 @@
+lar[84417]=`<b>προ·καθηγέομαι-οῦμαι :<br>   I</b> marcher en avant, être le chef <i>ou</i> le conducteur, guider, conduire, POL. <i>3, 95, 6, etc.</i><br><b>   II</b> <i>fig.</i> :<br><b>      1</b> amener par son influence à une détermination, POL. <i>3, 6, 7</i>.<br><b>      2</b> être le conseiller <i>ou</i> le promoteur d’une entreprise, DH. <i>5, 65</i>.`

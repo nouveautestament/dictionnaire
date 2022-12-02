@@ -1,0 +1,1 @@
+lar[16319]=`<b>ἀστρο·θέτης, ου (ὁ)</b> astronome, <i>litt</i>. qui détermine la position des astres, ORPH. <i>H. 64, 2</i>.<p><b>Étym</b>. ἄ, τίθημι.`

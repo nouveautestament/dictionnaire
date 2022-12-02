@@ -1,0 +1,1 @@
+lar[16905]=`<b>ἀ·τράγῳδος, ος, ον</b> <font color="purple">[ᾰγ]</font> (<i>sup</i>. -ότατος) non conforme à la tragédie, non tragique, ARSTT. <i>Poet. 13, 3</i>.`

@@ -1,0 +1,1 @@
+lar[14206]=`<b>ἀρβυλό·πτερος, ος, ον</b> <font color="purple">[ῠ]</font> aux talonnières ailées, LYC. <i>839</i>.<p><b>Étym</b>. ἀρβύλη, πτερόν.`

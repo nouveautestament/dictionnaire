@@ -1,0 +1,1 @@
+lar[36604]=`<b>ἐπ·ανακλίνω</b> <font color="purple">[ῑ]</font> incliner en arrière, coucher en arrière, HPC. <i>403, 13</i>.`

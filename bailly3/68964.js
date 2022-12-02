@@ -1,0 +1,1 @@
+lar[68964]=`<b>νοο·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>pass</i>. qui est dans l’erreur, dont l’esprit s’égare, NONN. <i>D. 4, 197</i>.<br><b>      2</b> <i>act</i>. qui égare la raison, NONN. <i>D. 29, 69</i>.<p><b>Étym</b>. νόος, πλανάω.`

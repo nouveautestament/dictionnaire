@@ -1,0 +1,1 @@
+lar[106523]=`<b>ιδος (ὁ)</b> Phœbis, <i>h</i>. PLUT. <i>Cleom. 8</i>.`

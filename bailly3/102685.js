@@ -1,0 +1,1 @@
+lar[102685]=`<b>ὑπερ·οικέω-ῶ</b>, habiter <i>ou</i> résider au-dessus de <i>ou</i> au delà de, <i>gén</i>. HDT. <i>4, 13, 21, 37</i> ; STR. <i>253, 326 ; acc</i>. HDT. <i>7, 113</i> ; PAUS. <i>4, 35, 5</i> ; LUC. <i>Alex. 9</i>.`

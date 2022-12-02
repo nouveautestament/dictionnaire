@@ -1,0 +1,1 @@
+lar[33928]=`<b>ἐν·αποβλύζω</b> <font color="purple">[ᾰ]</font> jaillir en bouillonnant dans, <i>dat</i>. CLÉM. <i>1, 201 Migne</i>.`

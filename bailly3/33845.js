@@ -1,0 +1,1 @@
+lar[33845]=`<b>ατος (τὸ)</b> ce qu’on donne en échange d’une chose, prix d’une chose, SPT. <i>2Reg. 24, 24</i>.<p><b>Étym</b>. ἐναλλάσσω.`

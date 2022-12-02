@@ -1,0 +1,1 @@
+lar[63340]=`<b>μεγαλο·βρεμέτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui gronde <i>ou</i> retentit fortement, Q. SM. <i>2, 568</i>.<p><b>Étym</b>. μ. βρέμω.`

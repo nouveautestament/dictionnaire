@@ -1,0 +1,1 @@
+lar[3190]=`<b>ας (ἡ)</b> désaccord, incohérence, DYSC. <i>Synt. 199, 4, etc</i>.`

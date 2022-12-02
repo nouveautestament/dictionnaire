@@ -1,0 +1,1 @@
+lar[50878]=`<font color="purple">[ᾰ]</font> <i>c</i>. κακοτεχνέω, ALC. COM. <i>(Bkk. p. 103, 18</i>).`

@@ -1,0 +1,1 @@
+lar[39031]=`<b>ἐπι·σμυγερός, ά, όν</b> <font color="purple">[ῠ]</font> lamentable, HÉS. <i>Sc. 264</i> ; A.RH. <i>4, 1065</i>.`

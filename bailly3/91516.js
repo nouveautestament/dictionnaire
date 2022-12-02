@@ -1,0 +1,1 @@
+lar[91516]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> hoyau, NIC. <i>Th. 386</i>.`

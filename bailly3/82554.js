@@ -1,0 +1,1 @@
+lar[82554]=`<b>πολύ·χειρ, -χειρος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> aux nombreuses mains, SOPH. <i>El. 488</i> ; ARSTT. <i>Pol. 3, 11, 2</i>.<br><b>      2</b> pourvu d’une armée nombreuse, ESCHL. <i>Pers. 83</i>.<p><b>Étym</b>. π. χείρ.`

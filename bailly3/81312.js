@@ -1,0 +1,1 @@
+lar[81312]=`<b>ποη·λογέω-ῶ</b>, cueillir de l’herbe, JOS. <i>B.J. 5, 13, 7</i>.<p><b>Étym</b>. πόα, -λογος <i>de</i> λέγω.`

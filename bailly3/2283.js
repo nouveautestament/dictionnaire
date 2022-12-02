@@ -1,0 +1,1 @@
+lar[2283]=`éclairer, illuminer, MAN. <i>4, 264</i>.<p><b>Étym</b>. αἴγλη.`

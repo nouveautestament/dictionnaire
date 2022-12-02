@@ -1,0 +1,1 @@
+lar[28464]=`<b>δύσ·ζηλος, ος, ον :<br>      1</b> envieux, jaloux, OD. <i>7, 307</i> ; A.RH. <i>4, 1089 ; en parl. de jalousie d’amour,</i> PLUT. <i>Alex. 9</i> ; THÉM. <i>66c.</i><br><b>      2</b> qui lutte péniblement, HOM. <i>Epigr. 8</i>.<p><b>Étym</b>. δ. ζῆλος.`

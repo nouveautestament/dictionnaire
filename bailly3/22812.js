@@ -1,0 +1,1 @@
+lar[22812]=`<b>γυναικονομέω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. inf. prés</i>.) être γυναικονόμος, ARTÉM. <i>2, 30</i>.`

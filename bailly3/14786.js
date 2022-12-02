@@ -1,0 +1,1 @@
+lar[14786]=`<i>adv</i>., en Arcadie, <i>avec mouv</i>. A.RH. <i>2, 1052</i>.<p><b>Étym</b>. Ἀρκαδίη, -δε.`

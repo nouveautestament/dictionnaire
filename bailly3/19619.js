@@ -1,0 +1,1 @@
+lar[19619]=`<b>βηλίδες πύλαι (αἱ)</b> la porte de Bèlos, <i>à Babylone,</i> HDT. <i>3, 155, 158</i>.<p><b>Étym</b>. βῆλος.`

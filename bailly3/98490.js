@@ -1,0 +1,1 @@
+lar[98490]=`avoir la fièvre quarte, PLUT. <i>M. 1162</i> ; DIOSC. <i>2, 36</i>.<p><b>Étym</b>. τεταρταῖος.`

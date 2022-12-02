@@ -1,0 +1,1 @@
+lar[94173]=`<i>adv</i>., en forme de conclusion, ARSTT. <i>Soph. el. 1</i>.<p><b>Étym</b>. <i>v</i>. συμπεραστικός.`

@@ -1,0 +1,1 @@
+lar[16801]=`<b>ἀ·τιθάσευτος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qu’on ne peut apprivoiser, sauvage, PLUT. <i>Artax. 25 ; M. 728a ;</i> JOS. <i>etc</i>.<p><b>Étym</b>. ἀ, τιθασεύω.`

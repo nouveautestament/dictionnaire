@@ -1,0 +1,1 @@
+lar[4316]=`<b>ἀλευρό·μαντις, εως (ὁ)</b> <font color="purple">[ᾰλ]</font> qui prédit l’avenir au moyen de farine de froment, CLÉM. <i>1, 69 Migne</i>.<p><b>Étym</b>. ἄλευρον, μάντις.`

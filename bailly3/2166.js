@@ -1,0 +1,1 @@
+lar[2166]=`<b>ή, όν :<br>      1</b> <i>pass</i>. déploré, déplorable, ESCHL. <i>Sept. 846,</i> AR. <i>Ach. 1195</i>.<br><b>      2</b> <i>act</i>. qui déplore, ESCHL. <i>Pers. 1025</i>.<p><b>Étym</b>. αἰάζω.`

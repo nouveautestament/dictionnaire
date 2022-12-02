@@ -1,0 +1,1 @@
+lar[11014]=`<b>ἀοινέω-ῶ</b>, s’abstenir de vin, HPC. <i>490, 7</i>.<p><b>Étym</b>. ἄοινος.`

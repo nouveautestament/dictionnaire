@@ -1,0 +1,1 @@
+lar[57050]=`<b>ου (τὸ)</b> balai, LUC. <i>Philops. 35</i>.<p><b>Étym</b>. κορέω.`

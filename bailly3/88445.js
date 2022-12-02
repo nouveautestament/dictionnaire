@@ -1,0 +1,1 @@
+lar[88445]=`<b>ου</b>, <i>adj. m</i>. qui déchire le sol, <i>en parl. d’un tremblement de terre,</i> ARSTT. <i>Mund. 4, 30</i>.<p><b>Étym</b>. ῥήγνυμι.`

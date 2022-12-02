@@ -1,0 +1,1 @@
+lar[362]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., affectueusement, PHIL. <i>1, 462, etc</i>.`

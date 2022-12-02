@@ -1,0 +1,1 @@
+lar[109127]=`<b>ου (ὁ)</b> Khrysermos :<br><b>      1</b> <i>écrivain,</i> PLUT. <i>Parall. min. 3, 10, etc.</i><br><b>      2</b> <i>médecin,</i> EL. <i>N.A. 11, 35</i>.<br><b>      3</b> <i>autre,</i> PLUT. <i>Cleom. 36, 37</i>.`

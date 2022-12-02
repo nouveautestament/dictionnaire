@@ -1,0 +1,1 @@
+lar[93650]=`<i>adv</i>., par concession, ORIG. <i>1, 1264 Migne</i>.`

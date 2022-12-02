@@ -1,0 +1,1 @@
+lar[7703]=`<b>ἀνα·στρατεύω</b> <font color="purple">[ᾰτ]</font> rappeler au service, APP. <i>Civ. 3, 66 ; au pass</i>. rentrer au service, DC. <i>41, 35</i>.`

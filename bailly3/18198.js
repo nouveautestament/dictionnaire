@@ -1,0 +1,1 @@
+lar[18198]=`<b>ἀφ·ορμίζομαι</b> (<i>seul. ao. sbj. 2 sg</i>. -ίσῃ ; <i>conj</i>. -ίσῃς, <i>c. de</i> ἀφορμίζω) faire sortir du port (ses vaisseaux) EUR. <i>I.T. 18</i>.`

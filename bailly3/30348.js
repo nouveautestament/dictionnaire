@@ -1,0 +1,1 @@
+lar[30348]=`<b>εἰκοσα·ετηρίς, ίδος (ἡ)</b> période de vingt ans, PTOL. <i>Tetr. 205</i>.<p><b>Étym</b>. εἴκοσι, ἔτος.`

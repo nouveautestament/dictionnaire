@@ -1,0 +1,1 @@
+lar[60092]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> enlèvement de butin, pillage, XÉN. <i>Hier. 1, 36</i>.<p>➳ <i>Ion</i>. -ίη, A.RH. <i>2, 302</i>.<p><b>Étym</b>. <i>cf</i>. λεηλατέω.`

@@ -1,0 +1,1 @@
+lar[18885]=`<b>βακχέ·βακχον ᾆσαι</b>, AR. <i>Eq. 408,</i> chanter une invocation à Bacchus.<p><b>Étym</b>. <i>voc. et acc. de</i> βάκχος.`

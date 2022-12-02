@@ -1,0 +1,1 @@
+lar[29207]=`<b>Δωσί·θεος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Dôsithéos, <i>h</i>. ANTH. <i>12, 130</i>.<p><b>Étym</b>. δίδωμι, θεός.`

@@ -1,0 +1,1 @@
+lar[977]=`<b>ῆρος (ὁ)</b> dieu des champs, <i>càd</i>. des troupeaux et des bergers, <i>en parl. d’Hermès,</i> EUR. <i>El. 463</i>.<p><b>Étym</b>. <i>cf</i>. ἀγρότης.`

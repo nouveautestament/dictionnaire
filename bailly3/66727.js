@@ -1,0 +1,1 @@
+lar[66727]=`<b>(ὁ)</b> Mormias, <i>h</i>. EL. <i>Ep. rust. 19</i>.`

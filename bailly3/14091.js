@@ -1,0 +1,1 @@
+lar[14091]=`<b>ἀπ·ωχραίνω</b>, faire jaunir, rendre jaune, TH. <i>Col. 34</i>.`

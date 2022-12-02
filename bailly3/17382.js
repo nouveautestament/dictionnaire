@@ -1,0 +1,1 @@
+lar[17382]=`<b>αὐτο·αδάμας, αντος (ὁ)</b> diamant véritable, CHRYS.<p><b>Étym</b>. αὐτός, ἀ.`

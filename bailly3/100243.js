@@ -1,0 +1,1 @@
+lar[100243]=`<b>τρί·καρπος, ος, ον</b> <font color="purple">[ῐ]</font> qui donne trois récoltes par an, DH. <i>1, 37</i>.<p><b>Étym</b>. τρ. καρπός.`

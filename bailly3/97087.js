@@ -1,0 +1,1 @@
+lar[97087]=`<b>ωνος (ὁ)</b> <i>litt</i>. le Vannier, <i>surn. du poète com. Callias, fils d’un vannier,</i> CRAT. (<i>Com. fr. 2, 194).</i><p><b>Étym</b>. σχοῖνος.`

@@ -1,0 +1,1 @@
+lar[85907]=`<b>προσ·καθεύδω</b>, dormir auprès <i>ou</i> sur, <i>dat</i>. JUL. <i>Ep. 58</i>.`

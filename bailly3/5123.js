@@ -1,0 +1,1 @@
+lar[5123]=`<b>ῆς</b>, <i>contr. de</i> ἀλωπεκέη, έης (ἡ) (<i>s.-e</i>. δορά) peau de renard, PLUT. <i>Lys. 7</i>.<p>➳ <i>Ion</i>. -έη, HDT. <i>7, 75</i>.<p><b>Étym</b>. ἀλώπηξ.`

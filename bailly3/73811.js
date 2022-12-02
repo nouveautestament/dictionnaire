@@ -1,0 +1,1 @@
+lar[73811]=`<b>ὀφεό·δηκτος, ος, ον</b>, mordu par une vipère, DAMASC. <i>Plat. Phil. 200, 2</i>.<p><b>Étym</b>. ὄφις, δάκνω.`

@@ -1,0 +1,1 @@
+lar[36553]=`<b>οῦ (ὁ)</b> qui balance entre deux partis, PHIL. <i>1, 176</i>.<p><b>Étym</b>. ἐπαμφοτερίζω.`

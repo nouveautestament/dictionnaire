@@ -1,0 +1,1 @@
+lar[30295]=`<b>εἰδωλο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se plaît au culte des idoles, SYN. <i>Hymn. 3, 92</i>.<p><b>Étym</b>. εἴδωλον, χαίρω.`

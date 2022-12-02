@@ -1,0 +1,1 @@
+lar[106897]=`<b>φριξ·αύχην, χενος (ὁ, ἡ)</b> dont le cou est hérissé de soies, ARION <i>8</i> ; POÈT. (PLUT. <i>M. 462e</i>).<p><b>Étym</b>. φρίσσω, αὐχήν.`

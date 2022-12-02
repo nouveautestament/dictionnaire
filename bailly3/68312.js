@@ -1,0 +1,1 @@
+lar[68312]=`<b>νεό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui a les sentiments <i>ou</i> le caractère d’un jeune homme, PANYAS. (STOB. <i>Fl. 18, 22).</i><p><b>Étym</b>. ν. φρήν.`

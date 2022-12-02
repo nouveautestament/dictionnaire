@@ -1,0 +1,1 @@
+lar[12431]=`<b>ἀπό·θρονος, ος, ον</b>, sans trône, <i>en parl. d’un évêque,</i> NAZ. <i>3, 247 Migne</i>.<p><b>Étym</b>. ἀπό, θρόνος.`

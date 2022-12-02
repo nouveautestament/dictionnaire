@@ -1,0 +1,1 @@
+lar[14449]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρ]</font> obséquiosité, complaisance excessive, PLUT. <i>Demetr. 11</i>.<p><b>Étym</b>. ἀρεσκεύομαι.`

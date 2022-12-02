@@ -1,0 +1,1 @@
+lar[78461]=`<b>περι·βομβέω-ῶ</b>, bourdonner autour, LUC. <i>Lex. 16, etc</i>.`

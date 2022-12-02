@@ -1,0 +1,1 @@
+lar[98830]=`être de couleur cendrée, ARÉT. <i>p. 38</i>.<p><b>Étym</b>. τέφρα.`

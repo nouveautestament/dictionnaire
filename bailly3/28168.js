@@ -1,0 +1,1 @@
+lar[28168]=`<b>δυσ·αναθυμίατος, ος, ον</b> <font color="purple">[ῠᾰᾰῡῐᾱ]</font> qui s’évapore difficilement, ARTÉM. <i>1, 1</i>.<p><b>Étym</b>. δ. ἀναθυμιάω.`

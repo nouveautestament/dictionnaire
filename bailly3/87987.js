@@ -1,0 +1,1 @@
+lar[87987]=`<b>ος, ον</b> <font color="purple">[ῐχ]</font> qui concerne la danse pyrrhique, LUC. <i>Salt. 9</i> ; HDN <i>4, 2, 9</i> ; HLD. <i>3, 10</i> ; ὁ π. (<i>s.-e</i>. πούς) LGN <i>41, 1</i> ; DRAC. <i>127, 15</i> ; HÉPH. <i>3, 1</i> ; A. QUINT. <i>p. 37,</i> pyrrhique, <i>pied de deux brèves, t. de pros</i>.<p><b>Étym</b>. πυρρίχη.`

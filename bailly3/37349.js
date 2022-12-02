@@ -1,0 +1,1 @@
+lar[37349]=`<b>ἐπι·βλεφαρίς, ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> paupière, EUM. <i>p. 82</i>.<p><b>Étym</b>. ἐπί, βλέφαρον.`

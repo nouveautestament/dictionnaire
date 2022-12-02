@@ -1,0 +1,1 @@
+lar[48814]=`<b>ιδος</b> <font color="purple">[ῐκ]</font> <i>adj. f</i>. suppliante, HDT. <i>4, 165 ; 9, 76</i> ; ESCHL. <i>Suppl. 349, 429</i> ; SOPH. <i>O.R. 920</i> ; EUR. <i>Hec. 147, etc</i>.<p><b>Étym</b>. <i>fém. de</i> ἱκέτης.`

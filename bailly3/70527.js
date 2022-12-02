@@ -1,0 +1,1 @@
+lar[70527]=`<b>οἰνο·ηθητής, οῦ (ὁ)</b> qui clarifie <i>ou</i> filtre du vin, PARMÉN. (ATH. <i>608a</i>).<p><b>Étym</b>. οἶν. ἠθέω.`

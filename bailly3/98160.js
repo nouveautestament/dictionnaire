@@ -1,0 +1,1 @@
+lar[98160]=`<b>Τελεσι·κράτης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Télésikratès, <i>Cyrénéen,</i> PD. <i>P. 9, etc</i>.<p>➳ <i>Voc</i>. Τελεσίκρατες, PD. <i>P. 9, 100</i>.<p><b>Étym</b>. τελέω, κράτος.`

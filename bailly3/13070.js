@@ -1,0 +1,1 @@
+lar[13070]=`<b>(ὁ)</b> Apopis, <i>dieu égyptien,</i> PLUT. <i>Is. et Os. 36</i>.`

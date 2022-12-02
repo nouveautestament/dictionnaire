@@ -1,0 +1,1 @@
+lar[50677]=`<b>κακό·βιος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui vit difficilement, <i>càd</i>. qui végète, ARSTT. <i>H.A. 9, 17, 2</i>.<br><b>      2</b> qui a une vie rude <i>ou</i> besogneuse, HDT. <i>4, 95</i> ; XÉN. <i>Cyr. 7, 5, 67</i>.<p>•<i> Sup</i>. -ώτατος, <i>l. c</i>.<p><b>Étym</b>. κ. βίος.`

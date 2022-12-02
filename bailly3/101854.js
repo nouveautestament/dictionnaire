@@ -1,0 +1,1 @@
+lar[101854]=`<b>ὑοσ·κύαμος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> jusquiame (<i>litt</i>. fève de porc) <i>plante dont l’absorption provoque le délire,</i> XÉN. <i>Œc. 1, 13</i> ; DIOSC. <i>4, 69 ; 6, 15, etc</i>.<p><b>Étym</b>. ὗς, κύαμος.`

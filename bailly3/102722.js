@@ -1,0 +1,1 @@
+lar[102722]=`<b>ὑπερ·ούσιος, ος, ον</b>, supérieur à toutes les substances, supersubstantiel, PROCL. <i>Inst. theol. p. 168</i> ; SYN. <i>Hymn. 1, 62, 67</i>.<p><b>Étym</b>. ὑ. οὐσία.`

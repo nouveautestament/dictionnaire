@@ -1,0 +1,1 @@
+lar[102557]=`<i>ou</i> <b>ὑπερινέω-ῶ</b> <font color="purple">[ῐ]</font> purger avec excès, HPC. (EROT. <i>p. 372).</i><p><b>Étym</b>. ὑπέρινος.`

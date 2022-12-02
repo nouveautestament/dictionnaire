@@ -1,0 +1,1 @@
+lar[61677]=`<b>ΐδος</b>, <i>adj. f</i>. de Louses, ANTH. <i>App. 324</i>.<p><b>Étym</b>. Λουσοί.`

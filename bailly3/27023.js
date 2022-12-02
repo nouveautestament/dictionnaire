@@ -1,0 +1,1 @@
+lar[27023]=`<b>ατος (τὸ) :<br>      1</b> projectile lancé comme le disque, EUR. <i>Tr. 1121</i>.<br><b>      2</b> jet du disque, SOPH. <i>fr. 69</i>.<p><b>Étym</b>. δισκέω.`

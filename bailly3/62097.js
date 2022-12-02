@@ -1,0 +1,1 @@
+lar[62097]=`<b>ας</b> <font color="purple">[ῠ]</font> <i>adj. fém. de</i> λυτήρ, ORPH. <i>H. 9, 17 ; 31, 13</i>.`

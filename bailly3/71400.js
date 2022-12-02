@@ -1,0 +1,1 @@
+lar[71400]=`<b>ου</b>, <i>adj. m</i>. aveugle, <i>mot us. à Kymes,</i> Ps.-HDT. <i>V. Hom. 13</i> ; LYC. <i>422</i>.`

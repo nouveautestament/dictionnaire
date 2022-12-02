@@ -1,0 +1,1 @@
+lar[278]=`<b>Ἀγαθ·ώνυμος, ου (ὁ)</b> <font color="purple">[ᾰᾰῠ]</font> Agathônymos, <i>écrivain,</i> Ps.-PLUT. <i>Fluv. 18, 10</i>.<p><b>Étym</b>. ἀ. ὄνομα.`

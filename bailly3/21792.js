@@ -1,0 +1,1 @@
+lar[21792]=`(Γερμέραι, <i>Mein</i>.), les Germares <i>ou</i> Germéres, <i>pple celtique,</i> ARSTT.`

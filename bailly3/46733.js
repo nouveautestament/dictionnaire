@@ -1,0 +1,1 @@
+lar[46733]=`<b>θεο·πάτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> père de Dieu, <i>surn. de David, d’où descend J.-C</i>. CHRYS. <i>6, 478</i>.<p><b>Étym</b>. θ. πατήρ.`

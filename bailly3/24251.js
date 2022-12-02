@@ -1,0 +1,1 @@
+lar[24251]=`<b>δημό·κοινος, ου (ὁ)</b> exécuteur public, bourreau (<i>cf</i>. κοινὸς δήμιος, <i>v</i>. δήμιος) SOPH. <i>fr. 869</i> ; ANT. <i>113, 33</i> ; ISOCR. <i>361d</i>.<p><b>Étym</b>. δῆμος, κοινός.`

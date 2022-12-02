@@ -1,0 +1,1 @@
+lar[87134]=`<b>πρωκτο·τηρέω-ῶ</b>, être surveillant des derrières, AR. <i>Eq. 876</i>.`

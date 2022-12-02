@@ -1,0 +1,1 @@
+lar[44931]=`<b>ῆρος (ὁ)</b> conducteur, guide, SOPH. <i>O.C. 1521</i> ; OPP. <i>H. 5, 70</i>.<p>➳ <i>Dor</i>. ἁγ- <font color="purple">[ᾱ]</font> PD. <i>P. 1, 133</i>.<p><b>Étym</b>. ἡγέομαι.`

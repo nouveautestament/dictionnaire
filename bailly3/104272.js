@@ -1,0 +1,1 @@
+lar[104272]=`<b>όεσσα, όεν</b> <font color="purple">[ῑ, <i>p. exc</i>. ῐ]</font> d’un rouge écarlate, NIC. <i>Th. 870</i>.<p><b>Étym</b>. ὕσγινον.`

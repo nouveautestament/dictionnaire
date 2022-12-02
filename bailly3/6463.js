@@ -1,0 +1,1 @@
+lar[6463]=`<i>adv</i>., des deux manières, PLAT. <i>Gorg. 469a, Theæt. 181d, e,</i> SOPH. <i>224e, etc.</i> ; ARSTT. <i>Rhet. 1, 2, 7, etc</i>.<p><b>Étym</b>. ἀμφότερος.`

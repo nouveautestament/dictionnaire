@@ -1,0 +1,1 @@
+lar[73492]=`<b>ιγος (ὁ)</b> = <i>lat</i>. Vercingetorix, <i>roi gaulois,</i> PLUT. <i>Cæs. 25, etc</i>.`

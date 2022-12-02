@@ -1,0 +1,1 @@
+lar[103826]=`<b>ὑπο·σκαφιό·καρτος, ος, ον</b> <font color="purple">[ᾰφ]</font> qui a la tête presque rasée avec une seule touffe de cheveux sur le sommet, NICOSTR. (ATH. <i>47e</i>).<p><b>Étym</b>. ὑ. σκαφίον, κείρω.`

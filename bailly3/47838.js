@@ -1,0 +1,1 @@
+lar[47838]=`<b>ων (τὰ)</b> fête de Bacchus <i>chez les Éléens,</i> PAUS. <i>6, 26, 1</i>.`

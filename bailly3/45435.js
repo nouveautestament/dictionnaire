@@ -1,0 +1,1 @@
+lar[45435]=`<b>Ἡμι·θέων, ωνος (ὁ)</b> <font color="purple">[ῐ]</font> Hèmithéôn, <i>h</i>. LUC. <i>Ind. 23, Pseud. 3</i>.`

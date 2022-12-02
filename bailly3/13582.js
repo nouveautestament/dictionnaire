@@ -1,0 +1,1 @@
+lar[13582]=`<b>ἀπο·τερατόω-ῶ</b> <font color="purple">[ρᾰ]</font> frapper d’étonnement par un prodige, Ps.-CALLISTH. <i>3, 17, 47, p. 124</i>.`

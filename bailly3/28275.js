@@ -1,0 +1,1 @@
+lar[28275]=`<b>δυσ·γνωσία, ας (ἡ)</b> difficulté de connaître, ignorance, EUR. <i>El. 767</i>.<p><b>Étym</b>. <i>cf</i>. δύσγνωστος.`

@@ -1,0 +1,1 @@
+lar[71379]=`<b>ου (τὸ)</b> sanctuaire consacré à Homère, <i>à Smyrne,</i> STR. <i>646</i>.<p><b>Étym</b>. Ὅμηρος.`

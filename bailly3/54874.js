@@ -1,0 +1,1 @@
+lar[54874]=`<b>κερατο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a (<i>propr</i>. qui porte) des cornes, ARSTT. <i>H.A. 2, 1, etc.</i> ; OPP. <i>C. 2, 489</i>.<p><b>Étym</b>. κέρας, φέρω.`

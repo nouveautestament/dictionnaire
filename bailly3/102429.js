@@ -1,0 +1,1 @@
+lar[102429]=`<b>οῦ (ὁ)</b> qui paye pour, <i>gén</i>. BAS.<p><b>Étym</b>. ὑπερεκτίνω.`

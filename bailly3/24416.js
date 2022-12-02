@@ -1,0 +1,1 @@
+lar[24416]=`<i>adv</i>., affirmativement, DYSC. <i>Synt. 313, 19</i> ; SEXT. <i>41, 62, etc</i>.`

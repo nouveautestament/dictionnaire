@@ -1,0 +1,1 @@
+lar[52318]=`<b>κατα·δημοκοπέω-ῶ</b>, gagner le peuple par des intrigues, <i>d’où en gén</i>. gagner, séduire par des flatteries, APP. <i>Mithr. 19</i>.`

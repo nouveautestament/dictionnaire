@@ -1,0 +1,1 @@
+lar[11962]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῐ]</font> directeur, guide, P. SIL. <i>Ecphr. amb. 78</i>.<p><b>Étym</b>. ἀπιθύνω.`

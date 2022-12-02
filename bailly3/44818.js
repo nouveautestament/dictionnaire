@@ -1,0 +1,1 @@
+lar[44818]=`<b>ατος (τὸ)</b> <i>c</i>. ζῶμα, STR. <i>7, 2, 3 Kram.</i> ; BAS. <i>4, 232 Migne ; non class. sel</i>. TH. MAG. <i>p. 411</i>.`

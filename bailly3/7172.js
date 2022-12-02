@@ -1,0 +1,1 @@
+lar[7172]=`<b>ἀνα·μέλπω :<br>      1</b> entonner : ἀοιδάν, THCR. <i>Idyl. 17, 113,</i> un chant.<br><b>      2</b> exalter par un chant, célébrer, ANACR. <i>36, 1</i>.`

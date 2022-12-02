@@ -1,0 +1,1 @@
+lar[101721]=`<i>adv</i>., matériellement, ARSTT. <i>Metaph. 12, 3, 10</i>.`

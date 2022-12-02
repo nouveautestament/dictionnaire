@@ -1,0 +1,1 @@
+lar[52614]=`<b>κατα·κρανία, ας (ἡ)</b> <font color="purple">[ᾱν]</font> maladie propre aux chevaux et dont le siège est dans la tête, HIPPIATR. <i>p. 249, 16</i>.<p><b>Étym</b>. κ. κρανίον.`

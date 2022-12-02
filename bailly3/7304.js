@@ -1,0 +1,1 @@
+lar[7304]=`<b>ἀν·αξιόλογος, ος, ον</b>, qui ne mérite pas qu’on en parle, sans importance, DS.<p><b>Étym</b>. ἀν-, ἀ.`

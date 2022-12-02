@@ -1,0 +1,1 @@
+lar[64673]=`<b>ατος (τὸ)</b> changement de détermination, SYMM. <i>Job 21, 2</i>.<p><b>Étym</b>. μεταβουλεύω.`

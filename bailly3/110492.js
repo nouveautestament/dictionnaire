@@ -1,0 +1,1 @@
+lar[110492]=`<b>α, ον</b>, d’Ôrôpos <i>ou</i> de l’Ôrôpie, THC. <i>2, 23</i> ; PLUT. <i>Cato ma. 22 ; subst</i>. ἡ Ὠρωπία (<i>s.-e</i>. γῆ) l’Ôrôpie, THC. <i>4, 91</i> ; PLAT. <i>Crit. 110e, etc</i>.<p><b>Étym</b>. Ὠρωπός.`

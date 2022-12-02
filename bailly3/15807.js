@@ -1,0 +1,1 @@
+lar[15807]=`<i>adv.</i> :<br><b>      1</b> sans caractère distinctif, HPC. <i>Epid. 1, 938, etc.</i><br><b>      2</b> sans laisser de trace, XÉN. <i>Cyn. 3, 4</i>.<br><b>      3</b> obscurément, ARR. <i>Epict. 2, 17, 6</i>.<br><b>      4</b> d’une manière insignifiante, DS. <i>5, 52</i>.<p><b>Étym</b>. ἄσημος.`

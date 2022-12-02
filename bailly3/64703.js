@@ -1,0 +1,1 @@
+lar[64703]=`<font color="purple">[ῐ]</font> <i>vb. de</i> μεταδιδάσκω MUSON. (STOB. <i>Fl. 79, 51</i>).`

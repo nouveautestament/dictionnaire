@@ -1,0 +1,1 @@
+lar[27590]=`<b>δορί·κτητος, ος, ον</b>, conquis à la pointe de la lance, par le droit de la guerre, EUR. <i>Andr. 155 ; avec un gén</i>. δ. Ἀργείων, EUR. <i>Hec. 478,</i> (possession) acquise par la lance des Grecs ; <i>cf</i>. A.RH. <i>1, 806</i>.<p>➳ <i>Épq. fém</i>. δουρικτήτη, IL. <i>9, 343</i>.<p><b>Étym</b>. δόρυ, κτάομαι.`

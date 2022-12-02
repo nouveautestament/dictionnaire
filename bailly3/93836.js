@@ -1,0 +1,1 @@
+lar[93836]=`<b>συμ·βεβηλόω-ῶ</b>, profaner ensemble <i>ou</i> en même temps, NÉMÉS. <i>N.H. p. 356</i>.`

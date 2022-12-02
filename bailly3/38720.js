@@ -1,0 +1,1 @@
+lar[38720]=`<b>εως (ἡ)</b> châtiment, réprimande, blâme, HPC. <i>24, 46</i> ; ESCHN. <i>25, 18</i> ; DÉM. <i>1406, 26</i>.<p>➳ <i>Dor</i>. ἐπίπλαξις, T. LOCR. <i>103e</i>.<p><b>Étym</b>. ἐπιπλήσσω.`

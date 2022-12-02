@@ -1,0 +1,1 @@
+lar[67448]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> odieux, exécrable, PLUT. <i>Tim. 5</i>.<p><b>Étym</b>. μύσος, -ωδης.`

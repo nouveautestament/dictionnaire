@@ -1,0 +1,1 @@
+lar[93777]=`<b>εως (ἡ)</b> action de réunir par le sort, PLAT. <i>Tim. 18e, etc. ; particul</i>. action d’apparier par le sort, <i>gén</i>. PLAT. <i>Leg. 819b ;</i> PLUT. <i>M. 390b</i>.<p><b>Étym</b>. συλλαγχάνω.`

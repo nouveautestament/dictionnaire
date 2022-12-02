@@ -1,0 +1,1 @@
+lar[95486]=`<b>σύν·εξ</b> (οἱ, αἱ, τὰ) <i>indécl</i>. six ensemble, six par six, HYPÉR. (HARP. <i>v°</i> συμμορία).<p><b>Étym</b>. σύν, ἕξ.`

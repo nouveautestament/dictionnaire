@@ -1,0 +1,1 @@
+lar[60946]=`<b>ή, όν</b> <font color="purple">[ῐῠ]</font> de Libye, HDT. <i>2, 19 ; 2, 8</i> ; XÉN. <i>Cyr. 6</i> ; PLUT. <i>Sert. 9, etc.</i> ; Λ. λόγοι, ARSTT. <i>Rhet. 2, 20, 2,</i> Récits libyens, <i>sorte de fables comme celles d’Ésope</i>.<p><b>Étym</b>. Λιβύη.`

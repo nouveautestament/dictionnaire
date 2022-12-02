@@ -1,0 +1,1 @@
+lar[91074]=`<b>σκολιο·δρόμος, ος, ον</b>, qui court en suivant une voie oblique <i>ou</i> sinueuse, ORPH. <i>H. 50, 4</i> ; MAN. <i>4, 478</i>.<p><b>Étym</b>. σκ. δραμεῖν.`

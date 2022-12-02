@@ -1,0 +1,1 @@
+lar[83488]=`<font color="purple">[ᾰ]</font> prostituer, Ps.-PHOCYL. <i>177</i> ; ESCHN. <i>3, 9 (loi</i>) ; PLUT. <i>Sol. 23 ; fig</i>. AR. <i>Nub. 980</i> ; XÉN. <i>Conv. 4, 62</i>.<p><b>Étym</b>. προαγωγός.`

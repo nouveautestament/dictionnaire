@@ -1,0 +1,1 @@
+lar[96677]=`<b>συ·σταυρόω-ῶ</b>, crucifier avec, <i>dat</i>. NT. <i>Marc. 15, 32 ; Gal. 2, 20</i>.`

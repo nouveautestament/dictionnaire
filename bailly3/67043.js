@@ -1,0 +1,1 @@
+lar[67043]=`<b>μυθο·ειδῶς</b> <font color="purple">[ῡ]</font> <i>adv</i>., d’une manière fabuleuse, PROCL. <i>Plat. Rsp. t. 1, p. 15, 10</i>.<p><b>Étym</b>. μ. εἶδος.`

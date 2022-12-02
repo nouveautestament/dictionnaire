@@ -1,0 +1,1 @@
+lar[90810]=`<b>ου (ὁ)</b> valet d’armée, EUP. <i>2-1, 530 Meineke</i>.<p><b>Étym</b>. σκευοφόριον ; <i>formé d’après</i> εἰραφιώτης.`

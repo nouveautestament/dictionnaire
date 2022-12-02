@@ -1,0 +1,1 @@
+lar[52159]=`<b>κατα·βλώσκω</b> (<i>seul. prés</i>.) :<br><b>      1</b> descendre en courant, A.RH. <i>1, 322</i>.<br><b>      2 <i>tr.</i></b> traverser en courant : ἄστυ, OD. <i>16, 466,</i> la ville.<p>➳ <i>Fut. réc</i>. -βλώξω, LYC. <i>1068</i>.`

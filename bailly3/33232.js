@@ -1,0 +1,1 @@
+lar[33232]=`<b>ἐμ·μάσσω</b>, ANTH. <i>9, 548 et moy</i>. <b>ἐμ·μάσσομαι</b>, enfoncer dans : αὐχένι κέντρα, NIC. <i>Th. 767,</i> son aiguillon dans le cou ; <i>fig</i>. ὀργήν τινι, CALL. <i>Dian. 124,</i> faire sentir sa colère à qqn ; <i>cf</i>. OPP. <i>H. 2, 502</i>.<p><b>Étym</b>. ἐν, μ.`

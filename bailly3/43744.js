@@ -1,0 +1,1 @@
+lar[43744]=`<b>ου (τὸ)</b> sujet de joie, <i>d’où</i> allégresse, PHIL.<p><b>Étym</b>. εὐφραίνω.`

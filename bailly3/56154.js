@@ -1,0 +1,1 @@
+lar[56154]=`<b>Κλυται·μνήστρα</b>, <i>anc</i>. <b>Κλυταιμήστρα, ας (ἡ)</b> <font color="purple">[ῠ]</font> Clytemnestre, <i>anc</i>. Clytémestre, <i>épouse d’Agamemnon,</i> ESCHL. <i>Ch. 882, etc</i>.<p>➳ <i>Ion</i>. Κλυταιμνήστρη, IL. <i>1, 113</i> ; OD. <i>3, 266, etc</i>.<p><b>Étym</b>. κλυτός, μνηστήρ <i>ou</i> μήδομαι.`

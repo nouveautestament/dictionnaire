@@ -1,0 +1,1 @@
+lar[105913]=`<b>φιλο·μακεδών, όνος (ὁ)</b> <font color="purple">[ῐᾰ]</font> ami des Macédoniens, THÉM. <i>132b, etc</i>.`

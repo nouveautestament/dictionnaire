@@ -1,0 +1,1 @@
+lar[65867]=`<b>ακος (ἡ)</b> <font color="purple">[ᾰκ]</font> parfum de Perse, AMPHIS (ATH. <i>691a</i>).`

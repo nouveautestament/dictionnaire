@@ -1,0 +1,1 @@
+lar[65205]=`<b>εως (ἡ)</b> dérivation des eaux au moyen d’un canal, ARÉT. <i>p. 17, 54</i> ; GAL. <i>2, 222</i>.<p><b>Étym</b>. μετοχετεύω.`

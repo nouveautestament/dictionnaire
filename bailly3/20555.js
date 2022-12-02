@@ -1,0 +1,1 @@
+lar[20555]=`<b>βού·τυρος, ου (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> beurre, GAL. <i>13, 527</i>.<br><b>      2</b> sorte de plante, ATH. <i>395a</i>.<p><b>Étym</b>. βοῦς, τυρός.`

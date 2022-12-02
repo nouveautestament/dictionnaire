@@ -1,0 +1,1 @@
+lar[91417]=`<b>(ὁ)</b> Skôpasis, <i>roi des Scythes,</i> HDT. <i>4, 120, 128</i>.`

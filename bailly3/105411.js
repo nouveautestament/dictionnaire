@@ -1,0 +1,1 @@
+lar[105411]=`<font color="purple">[ῐᾰᾰ]</font> avec amour du bien, CLÉM. <i>Str. 4, p. 631</i>.`

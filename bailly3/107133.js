@@ -1,0 +1,1 @@
+lar[107133]=`<b>ου (τὸ)</b> <i>au plur</i>. feuilles de plantes potagères, herbes de cuisine, AR. <i>Ach. 469, Pl. 544</i>.<p><b>Étym</b>. φύλλον.`

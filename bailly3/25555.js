@@ -1,0 +1,1 @@
+lar[25555]=`<b>δια·σκιρτάω-ῶ</b>, bondir çà et là, PLUT. <i>Eum. 11</i> ; PHILSTR. <i>880</i> ; SPT. <i>Sap. 19, 9</i> ; NYSS. <i>1, 49d</i>.`

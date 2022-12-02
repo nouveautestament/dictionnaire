@@ -1,0 +1,1 @@
+lar[56184]=`<b>ου (ὁ)</b> = <i>lat</i>. Clōdius, <i>n. d’h. rom</i>. PLUT. <i>Luc. 21, etc. ; Cæs. 9, etc</i>.`

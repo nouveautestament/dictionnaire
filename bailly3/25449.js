@@ -1,0 +1,1 @@
+lar[25449]=`<b>δια·ρραπίζω</b> <font color="purple">[ρᾰ]</font> <font color="darkgreen">(<i>ao</i>. διερράπισα)</font> souffleter, frapper, HLD. <i>7, 7 ; 8, 9</i>.`

@@ -1,0 +1,1 @@
+lar[58414]=`<b>ου (ὁ)</b> Kybisthos, <i>h</i>. PLUT. <i>Sol. 7</i>.`

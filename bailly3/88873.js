@@ -1,0 +1,1 @@
+lar[88873]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec force <i>ou</i> impétuosité, POLYEN <i>4, 3, 5</i>.<p><b>Étym</b>. ῥύμη, -δον.`

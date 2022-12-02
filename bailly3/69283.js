@@ -1,0 +1,1 @@
+lar[69283]=`<font color="purple">[ᾰ]</font> manger des friandises, EUB. (ATH. <i>622f</i>).<p><b>Étym</b>. νώγαλον.`

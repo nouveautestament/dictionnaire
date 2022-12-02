@@ -1,0 +1,1 @@
+lar[105237]=`<b>ης (ἡ)</b> la renommée <i>personnifiée,</i> PLUT. <i>Cam. 30, etc</i>.<p><b>Étym</b>. <i>v</i>. φήμη.`

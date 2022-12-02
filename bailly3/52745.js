@@ -1,0 +1,1 @@
+lar[52745]=`<b>ή, όν :<br>      1</b> <i>act</i>. propre à concilier <i>ou</i> à réconcilier, ARSTT. <i>Nic. 2, 6</i>.<br><b>      2</b> <i>pass</i>. d’esprit conciliant, ARSTT. <i>Rhet. 1, 9, 31</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Rhet. 1, 9, 31</i>.<p><b>Étym</b>. καταλλάσσω.`

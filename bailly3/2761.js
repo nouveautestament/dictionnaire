@@ -1,0 +1,1 @@
+lar[2761]=`<b>αἰολό·μορφος, ος, ον</b>, aux formes changeantes, ORPH. <i>H. 3, 7</i>.<p><b>Étym</b>. αἰ. μορφή.`

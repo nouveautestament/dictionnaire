@@ -1,0 +1,1 @@
+lar[106219]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec un attachement excessif à la vie, LIB. <i>4, 797</i>.<p><b>Étym</b>. φιλόψυχος.`

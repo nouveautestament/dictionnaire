@@ -1,0 +1,1 @@
+lar[28342]=`<b>δυσ·έκθυτος, ος, ον</b> <font color="purple">[ῠῠ]</font> difficile à détourner par un sacrifice, de mauvais augure, PLUT. <i>Crass. 18</i>.<p><b>Étym</b>. δ. ἐκθύω.`

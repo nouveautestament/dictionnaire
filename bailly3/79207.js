@@ -1,0 +1,1 @@
+lar[79207]=`<b>οῦ (ὁ)</b> aspersion, SYMM. <i>Zach. 13, 1</i>.<p><b>Étym</b>. περιρραντίζω.`

@@ -1,0 +1,1 @@
+lar[2808]=`<b>αἱρεσιο·μάχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui combat pour une hérésie, PHIL. <i>2, 84</i>.<p><b>Étym</b>. αἵρεσις, μάχομαι.`

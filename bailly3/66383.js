@@ -1,0 +1,1 @@
+lar[66383]=`<i>att</i>. <b>Μολοττικός, ή, όν :<br>      1</b> du pays des Molosses : Μολοττικαὶ κύνες, ALEX. (ATH. <i>540d</i>), <i>ou simpl</i>. οἱ Μολοττικοί, AR. <i>Th. 416,</i> chiens <i>ou</i> chiennes molosses.<br><b>      2</b> molossique, <i>t. de pros</i>. ATH. <i>629d</i>.<p><b>Étym</b>. Μολοσσός.`

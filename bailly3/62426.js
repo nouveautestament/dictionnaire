@@ -1,0 +1,1 @@
+lar[62426]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., d’une manière enviable, JOS. <i>A.J. 2, 6, 1</i>.`

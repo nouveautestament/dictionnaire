@@ -1,0 +1,1 @@
+lar[77056]=`<b>ῆς (ἡ) :<br>      1</b> prolongement, retard, HLD. <i>6, 5, etc.</i> ; ALCIPHR. <i>1, 22</i>.<br><b>      2</b> <i>t. de gr</i>. pléonasme, redondance, SEXT. <i>96, 16 Bkk. etc</i>.<p><b>Étym</b>. παρέλκω.`

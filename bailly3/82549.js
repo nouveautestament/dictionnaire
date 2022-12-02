@@ -1,0 +1,1 @@
+lar[82549]=`<b>πολυ·χαρίδας</b>, <i>seul. au voc. poét</i>. <b>πουλυχαρίδα</b> <font color="purple">[ῠᾰῑᾱ]</font> mon très cher, <i>t. d’amitié chez les Lacédémoniens,</i> AR. <i>Lys. 1098, 1242</i>.<p><b>Étym</b>. π. χάρις.`

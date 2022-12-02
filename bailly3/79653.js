@@ -1,0 +1,1 @@
+lar[79653]=`<b>οῦ (ὁ)</b> lumière qui rayonne alentour, STR. <i>138</i>.<p><b>Étym</b>. περιφωτίζω.`

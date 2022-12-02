@@ -1,0 +1,1 @@
+lar[12850]=`<b>ατος (τὸ)</b> <font color="purple">[μᾰ]</font> ce qu’on désapprend, HPC. <i>767g</i>.<p><b>Étym</b>. ἀπομανθάνω.`

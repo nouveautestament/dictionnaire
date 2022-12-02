@@ -1,0 +1,1 @@
+lar[82272]=`<b>ης (ἡ)</b> <font color="purple">[ῠῑ]</font> <i>autre n. du polype</i> ὀσμύλος <i>ou</i> ὀσμύλη, ATH. <i>318e</i>.<p><b>Étym</b>. πολύπους.`

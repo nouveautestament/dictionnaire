@@ -1,0 +1,1 @@
+lar[43090]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱγ]</font> succès d’une entreprise, APP. <i>Lib. 4, Civ. 1, 51</i>.<p><b>Étym</b>. εὐπραγέω.`

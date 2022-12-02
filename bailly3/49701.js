@@ -1,0 +1,1 @@
+lar[49701]=`<b>ή, όν</b> <font color="purple">[ῑ̆σ]</font> qui a un caractère conforme à l’égalité, PLAT. <i>Rsp. 561e</i>.<p><b>Étym</b>. ἰσόνομος.`

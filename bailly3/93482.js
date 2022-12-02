@@ -1,0 +1,1 @@
+lar[93482]=`<b>συγ·κνισόω-ῶ</b> <font color="purple">[ῑ]</font> imprégner de l’odeur de la graisse, <i>en parl. de viandes qui cuisent,</i> ATH. <i>395f</i>.`

@@ -1,0 +1,1 @@
+lar[93706]=`<b>συκο·βασίλεια, ων (τὰ)</b> <font color="purple">[ῡῐ]</font> figues royales, <i>sorte de belles figues,</i> ATH. <i>78a</i>.<p><b>Étym</b>. σῦκον, βασιλεύς.`

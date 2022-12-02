@@ -1,0 +1,1 @@
+lar[67354]=`<b>α, ον</b> <font color="purple">[σῐ]</font> de myrte, DIOSC. <i>1, 49</i>.<p><b>Étym</b>. μυρσίνη.`

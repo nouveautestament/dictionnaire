@@ -1,0 +1,1 @@
+lar[33122]=`<b>ος, ον</b>, creusé comme une fosse, creux, TH. <i>H.P. 9, 3, 1</i>.<p><b>Étym</b>. ἐν, βόθρος.`

@@ -1,0 +1,1 @@
+lar[58361]=`<b>κυανό·στολος, ος, ον</b> <font color="purple">[ῠᾰ]</font> au vêtement sombre, BION <i>1, 4</i>.<p><b>Étym</b>. κυανός², στολή.`

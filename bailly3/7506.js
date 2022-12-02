@@ -1,0 +1,1 @@
+lar[7506]=`<b>ἀνα·πωμάζω</b>, déboucher, HÉRON <i>Spir. 150</i>.`

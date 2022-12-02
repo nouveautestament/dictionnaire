@@ -1,0 +1,1 @@
+lar[20814]=`<b>βριμόομαι-οῦμαι</b> <font color="purple">[ῑ]</font> (<i>seul. impf. 3 sg</i>. ἐβριμοῦτο), gronder de colère contre, <i>dat</i>. XÉN. <i>Cyr. 4, 5, 9</i>.<p><b>Étym</b>. βρίμη ; <i>cf</i>. βριμάομαι.`

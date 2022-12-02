@@ -1,0 +1,1 @@
+lar[81761]=`<b>πολυ·βόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui mange beaucoup, vorace, HPC. <i>Aër. 282</i>.<p>•<i> Sup</i>. -ώτατος, PLAT. <i>Criti. 115a</i>.<p><b>Étym</b>. π. βιβρώσκω.`

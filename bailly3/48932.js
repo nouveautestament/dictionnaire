@@ -1,0 +1,1 @@
+lar[48932]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Illyrie, <i>primit. région à l’ouest de la Macédoine, plus tard région riveraine de l’Adriatique entre la Macédoine et l’Épire,</i> STR. <i>313, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Ἰλλύριος.`

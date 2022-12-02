@@ -1,0 +1,1 @@
+lar[104661]=`<b>ου (ὁ)</b> Phænippidès, <i>h</i>. LYS. <i>136, 9</i>.<p><b>Étym</b>. <i>patr. de</i> Φαίνιππος.`

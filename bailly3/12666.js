@@ -1,0 +1,1 @@
+lar[12666]=`<b>ή, όν</b> <font color="purple">[ῐτ]</font><br><b>      1</b> qui facilite les sécrétions, GAL. <i>7, 381</i>.<br><b>      2</b> propre aux réponses, THÉON <i>Prog. 97, 16</i>.<p><b>Étym</b>. ἀποκρίνω.`

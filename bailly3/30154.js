@@ -1,0 +1,1 @@
+lar[30154]=`<b>ἐθελο·κινδύνως</b> <font color="purple">[ῡ]</font> <i>adv</i>., en s’exposant volontairement au danger, APP. <i>Lib. 120</i>.<p><b>Étym</b>. ἐθέλω, κίνδυνος.`

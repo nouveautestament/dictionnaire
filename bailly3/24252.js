@@ -1,0 +1,1 @@
+lar[24252]=`<b>δημο·κόλαξ, ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> flatteur du peuple, DH. <i>6, 60</i> ; LUC. <i>Dem. enc. 31</i>.<p><b>Étym</b>. δῆμος, κ.`

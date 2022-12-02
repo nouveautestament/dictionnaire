@@ -1,0 +1,1 @@
+lar[44636]=`<b>ζυγο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à un joug, zygoïde, <i>en parl. de certains os</i>, GAL. <i>4, 13</i>.<p><b>Étym</b>. ζυγόν, εἶδος.`

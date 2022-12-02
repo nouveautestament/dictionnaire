@@ -1,0 +1,1 @@
+lar[55954]=`<b>κλεψί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> qui cache sa pensée, dissimulé, fourbe, HH. <i>Merc. 413</i>.<br><b>      2</b> qui égare l’esprit, MAN. <i>1, 93</i>.<p><b>Étym</b>. κλέπτω, νόος.`

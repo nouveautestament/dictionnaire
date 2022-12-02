@@ -1,0 +1,1 @@
+lar[7912]=`<b>οῦ (ὁ)</b> <font color="purple">[χᾰ]</font> relâchement, PLUT. <i>M. 909d</i>.<p><b>Étym</b>. ἀναχαλάω.`

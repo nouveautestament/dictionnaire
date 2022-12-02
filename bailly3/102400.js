@@ -1,0 +1,1 @@
+lar[102400]=`<b>ὑπερ·δύναμος, ος, ον</b> <font color="purple">[ῠᾰ]</font> extrêmement puissant, THÉM. <i>8b</i>.<p><b>Étym</b>. ὑ. δύναμαι.`

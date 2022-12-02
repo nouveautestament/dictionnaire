@@ -1,0 +1,1 @@
+lar[105507]=`<b>φιλ·αριστοτέλης (ὁ)</b> <font color="purple">[ῐᾰ]</font> ami d’Aristote, STR. <i>609</i>.`

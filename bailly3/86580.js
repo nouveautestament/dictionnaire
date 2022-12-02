@@ -1,0 +1,1 @@
+lar[86580]=`<b>προ·συρίττω</b> <font color="purple">[ῡ]</font> siffler auparavant, POL. <i>8, 22, 5 ; 8, 27, 10, etc</i>.`

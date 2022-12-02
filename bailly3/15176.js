@@ -1,0 +1,1 @@
+lar[15176]=`<b>ου (ἡ)</b> <font color="purple">[ῑ]</font> corbeille <i>ou</i> panier, AR. <i>Av. 1309</i>.<br>ὁ ἄ. ANTH. <i>7, 410</i>.`

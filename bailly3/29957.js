@@ -1,0 +1,1 @@
+lar[29957]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> infusion, injection, HÉRON <i>177</i> ; PLUT. <i>M. 38e</i>.<p><b>Étym</b>. ἐγχέω.`

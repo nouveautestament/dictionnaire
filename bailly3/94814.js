@@ -1,0 +1,1 @@
+lar[94814]=`<b>εως (ἡ)</b> rencontre, HPC. <i>15, 8</i> ; EUR. <i>Ion 535</i> ; PLUT. <i>Pyrrh. 16 ; au plur</i>. DH. <i>4, 66</i>.<p><b>Étym</b>. συναντάω.`

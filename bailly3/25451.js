@@ -1,0 +1,1 @@
+lar[25451]=`<b>δια·ρράπτω</b>, coudre ensemble, STR. <i>15, 1, 67 Kram.</i> ; PLUT. <i>M. 978a, Cato mi. 70 ; etc</i>.`

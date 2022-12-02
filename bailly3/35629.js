@@ -1,0 +1,1 @@
+lar[35629]=`<b>ἑξα·σκελής, ής, ές</b>, à six membres (<i>litt</i>. à six jambes) GAL. <i>12, 475</i> ; P. ÉG. <i>6, 60</i>.<p><b>Étym</b>. ἕξ, σκέλος.`

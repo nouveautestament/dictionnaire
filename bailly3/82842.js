@@ -1,0 +1,1 @@
+lar[82842]=`<i>v</i>. πόρρω.<p><b>Étym</b>. <i>indo-europ</i>. *per-, <i>cf. lat</i>. porrō, <i>ou</i> *preti, *proti, en avant, <i>cf</i>. πρόσω, <i>avec métath</i>.`

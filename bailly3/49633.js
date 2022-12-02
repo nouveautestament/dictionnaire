@@ -1,0 +1,1 @@
+lar[49633]=`<b>ἰσο·έτηρος, ος, ον</b> <font color="purple">[ῑ̆]</font> qui compte un même nombre d’années, NONN. <i>D. 21, 175</i>.<p><b>Étym</b>. ἴ. ἔτος.`

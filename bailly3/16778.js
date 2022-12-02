@@ -1,0 +1,1 @@
+lar[16778]=`<b>ἀ·τεχνολόγητος, ος, ον</b>, dit sans art, <i>càd</i>. simplement, NYSS.<p><b>Étym</b>. ἀ, τεχνολογέω.`

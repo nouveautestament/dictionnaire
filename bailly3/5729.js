@@ -1,0 +1,1 @@
+lar[5729]=`<b>ἀμοιρέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἠμοίρησα)</font> n’avoir point part à, être dépourvu de, <i>gén</i>. PLUT. <i>Alex. 23</i>.<p><b>Étym</b>. ἄμοιρος.`

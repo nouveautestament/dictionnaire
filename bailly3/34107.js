@@ -1,0 +1,1 @@
+lar[34107]=`<b>ή, όν :<br>      1</b> propre à indiquer, à montrer, <i>gén</i>. GAL. <i>2, 25, 253</i> ; SEXT. <i>79, 22 ; 226, 10 ; 318, 24 Bkk.</i> ; CLÉM. <i>1, 369 Migne</i>.<br><b>      2</b> propre à accuser, THRASYLL. (DL. <i>3, 51).</i><p><b>Étym</b>. ἐνδείκνυμι.`

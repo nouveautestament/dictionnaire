@@ -1,0 +1,1 @@
+lar[18118]=`<b>ας (ἡ)</b> <font color="purple">[ῐῑμ]</font> indifférence pour les honneurs, manque d’ambition, ARSTT. <i>Nic. 4, 4, 5</i> ; TH. <i>Char. 22</i>.<p><b>Étym</b>. ἀφιλότιμος.`

@@ -1,0 +1,1 @@
+lar[87713]=`<b>πυξ·άκανθα (ἡ)</b> <font color="purple">[ᾰκ]</font> <i>autre n. de la plante</i> λύκιον, DIOSC. <i>1, 132</i>.`

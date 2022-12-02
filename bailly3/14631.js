@@ -1,0 +1,1 @@
+lar[14631]=`<b>ου (τὸ)</b> arisarum, sorte de gouet, <i>plante,</i> DIOSC. <i>2, 198</i>.`

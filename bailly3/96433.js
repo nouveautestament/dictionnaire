@@ -1,0 +1,1 @@
+lar[96433]=`<b>συν·υπουργέω</b>, <i>ion. et anc. att</i>. <b>ξυν·υπουργέω-ῶ</b>, joindre son assistance à celle d’un autre, HPC. <i>Art. 824</i> ; LUC. <i>Bis acc. 17</i> ; NT. <i>2Cor. 1, 11</i>.`

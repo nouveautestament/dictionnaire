@@ -1,0 +1,1 @@
+lar[83167]=`<b>(ὁ)</b> = <i>lat</i>. Pulcher, <i>n. d’h. rom</i>. PLUT. <i>Inim. ut. 1</i>.`

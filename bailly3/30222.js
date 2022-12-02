@@ -1,0 +1,1 @@
+lar[30222]=`<b>εἰαρο·τερπής, ής, ές</b> <font color="purple">[ᾰ]</font> que charme le printemps, ORPH. <i>H. 50, 14</i>.<p><b>Étym</b>. εἶαρ, τέρπω.`

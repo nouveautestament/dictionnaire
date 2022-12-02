@@ -1,0 +1,1 @@
+lar[95782]=`<b>συν·εστιάω-ῶ</b>, offrir ensemble un régal, un festin, <i>fig</i>. ANTH. <i>4, 3, 24</i>.<br><b><i>Moy.</i></b> se régaler avec, être convive <i>ou</i> commensal de, <i>dat</i>. LYS. <i>fr. 31, 2</i> ; IS. <i>45, 7</i> ; PLUT. <i>M. 121f, etc</i>.`

@@ -1,0 +1,1 @@
+lar[46077]=`<b>ατος (τὸ)</b> bruit retentissant, bruit, PHIL. <i>1, 144</i>.<p>➳ <i>Dor</i>. ἄχ- <font color="purple">[ᾱ]</font> EUR. <i>I.A. 1045</i>.<p><b>Étym</b>. ἠχέω.`

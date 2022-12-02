@@ -1,0 +1,1 @@
+lar[109863]=`<b>ψιμυθο·ειδής, ής, ές</b> <font color="purple">[ῐῡ]</font> blanchi à la céruse, GEOP. <i>7, 15, 18</i>.<p><b>Étym</b>. ψίμυθος, εἶδος.`

@@ -1,0 +1,1 @@
+lar[8116]=`<b>ης (ἡ)</b> virilité, ŒNOM. (EUS. <i>P.E. 223d</i>).<p><b>Étym</b>. ἀνήρ.`

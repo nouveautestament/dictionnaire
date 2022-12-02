@@ -1,0 +1,1 @@
+lar[76754]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰφ]</font> ce qui est écrit à côté, note marginale, <i>particul. sur les manuscrits des poèmes dramatiques pour indiquer un jeu de scène, p. ex</i>. αὐλεῖ τις, AR. <i>Av. 223, litt</i>. qqn joue de la flûte, <i>pour avertir qu’à cet endroit on doit jouer de la flûte ; cf</i>. AR. <i>Ran. 313</i>.<p><b>Étym</b>. παρεπιγράφω.`

@@ -1,0 +1,1 @@
+lar[21081]=`<i>adv</i>., en forme de motte, DIOSC. <i>1, 100</i>.`

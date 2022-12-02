@@ -1,0 +1,1 @@
+lar[89330]=`<b>σαό·μβροτος, ος, ον</b>, qui sauve les mortels, PROCL. <i>H. Min. 40</i>.<p><b>Étym</b>. σάος, βροτός.`

@@ -1,0 +1,1 @@
+lar[56183]=`<b>ας (ἡ)</b> = <i>lat</i>. Clōdia, <i>n. de f. rom</i>. PLUT. <i>Luc. 38, etc</i>.`

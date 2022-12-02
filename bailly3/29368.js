@@ -1,0 +1,1 @@
+lar[29368]=`<b>ἐγ·γλωττο·τυπέω-ῶ</b> (<i>prés. inf</i>.) <font color="purple">[ῠ]</font> faire claquer sa langue comme pour déguster du bon vin, <i>càd</i>. vanter qqe ch., vanter sans cesse, AR. <i>Eq. 782</i>.<p><b>Étym</b>. ἐν, γλῶττα, τύπτω.`

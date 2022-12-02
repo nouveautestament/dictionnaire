@@ -1,0 +1,1 @@
+lar[79485]=`<b>εως (ἡ)</b> invention ingénieuse, ruse, THC. <i>3, 82</i> ; DC. <i>46, 19</i>.<p><b>Étym</b>. περιτεχνάομαι.`

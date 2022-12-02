@@ -1,0 +1,1 @@
+lar[98763]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> qui ressemble à une cigale, LUC. <i>Bacch. 7</i>.<p><b>Étym</b>. τέττιξ, -ωδης.`

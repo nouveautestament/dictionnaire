@@ -1,0 +1,1 @@
+lar[53214]=`<b>κατ·άργυρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui est tout en argent, CALLIX. (ATH. <i>199d</i>).<br><b>      2</b> argenté, ATH. <i>148b ;</i> PLUT. <i>M. 828e</i>.<p><b>Étym</b>. κ. ἄργυρος.`

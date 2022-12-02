@@ -1,0 +1,1 @@
+lar[106830]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> habitant <i>ou</i> originaire de Frégelles, PLUT. <i>Marc. 29, etc.</i> ; DH. <i>15, 10</i>.<p><b>Étym</b>. Φρέγελλα.`

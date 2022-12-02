@@ -1,0 +1,1 @@
+lar[94110]=`<b>συμ·παραφυλάσσω</b> <font color="purple">[φῠ]</font> veiller avec <i>ou</i> ensemble, NYSS.`

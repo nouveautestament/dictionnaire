@@ -1,0 +1,1 @@
+lar[14609]=`<b>ου (τὸ)</b> Ariminon (<i>auj</i>. Rimini) <i>v. d’Ombrie, en Italie,</i> PLUT. <i>Marc. 4, etc</i>.`

@@ -1,0 +1,1 @@
+lar[60027]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰν]</font> <i>fém. de</i> λαχανοπώλης AR. <i>Th. 387</i>.`

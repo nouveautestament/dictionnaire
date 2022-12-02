@@ -1,0 +1,1 @@
+lar[43295]=`<b>Εὐρυ·μέδουσα, ης (ἡ)</b> <font color="purple">[ῠ]</font> Eurymédousa, <i>f</i>. OD. <i>7, 8</i>.<p><b>Étym</b>. <i>fém. de</i> εὐρυμέδων.`

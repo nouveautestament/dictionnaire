@@ -1,0 +1,1 @@
+lar[103655]=`<b>ὑπο·πειράω-ῶ</b>, chercher à séduire, à corrompre, EL. <i>N.A. 14, 5</i> ; ALCIPHR. <i>3, 52</i>.`

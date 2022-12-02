@@ -1,0 +1,1 @@
+lar[51848]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> sommeil profond, engourdissement, ARSTT. <i>Probl. 3, 18</i> ; PLUT. <i>Ant. 72</i>.<br><b>      2</b> vertige, A.RH. <i>2, 203</i>.`

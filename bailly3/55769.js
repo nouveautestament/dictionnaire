@@ -1,0 +1,1 @@
+lar[55769]=`<b>ας (ἡ)</b> = <i>lat</i>. Claudia, <i>n. de f. rom</i>. PLUT. <i>T. Gracch. 4</i>.`

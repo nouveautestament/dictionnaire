@@ -1,0 +1,1 @@
+lar[64035]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> de Mélina, <i>en Argolide, ép. d’Aphrodite,</i> LYC. <i>403</i>.`

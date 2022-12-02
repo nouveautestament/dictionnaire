@@ -1,0 +1,1 @@
+lar[29787]=`<b>ἐγ·κυκάω-ῶ</b> <font color="purple">[ῠ]</font> mélanger dans, <i>avec</i> ἐν <i>et le dat</i>. DIOSC. <i>Th. 2, p. 424a ; avec le dat</i>. LYC. <i>674</i>.<br><b><i>Moy.</i></b> (<i>prés. inf</i>. -ᾶσθαι) <i>m. sign</i>. AR. <i>Ach. 939</i>.<p><b>Étym</b>. ἐν, κ.`

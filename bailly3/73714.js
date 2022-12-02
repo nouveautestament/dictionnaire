@@ -1,0 +1,1 @@
+lar[73714]=`<b>ᾠόν</b>, œuf séreux, <i>càd</i>. sans germe, stérile, ARSTT. <i>G.A. 3, 2</i>.<p><b>Étym</b>. οὐρός².`

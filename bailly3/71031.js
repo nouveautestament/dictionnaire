@@ -1,0 +1,1 @@
+lar[71031]=`<b>ὀλιγ·όνειρος, ος, ον</b> <font color="purple">[ῐ]</font> qui rêve peu <i>ou</i> rarement, JAMBL. <i>V. Pyth. c. 114</i>.<p><b>Étym</b>. ὀλ. ὄνειρος.`

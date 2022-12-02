@@ -1,0 +1,1 @@
+lar[65623]=`<b>μιαρό·γλωσσος, ος, ον</b>, au langage impur <i>ou</i> criminel, ANTH. <i>7, 377</i>.<p><b>Étym</b>. μιαρός, γλῶσσα.`

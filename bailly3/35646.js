@@ -1,0 +1,1 @@
+lar[35646]=`<b>ἑξά·τροχος, ος, ον</b>, à six roues, HÉRON <i>p. 329 Wescher, Poliorcétique des Grecs</i>.<p><b>Étym</b>. ἕξ, τροχός.`

@@ -1,0 +1,1 @@
+lar[33182]=`<b>ἐμ·βυκανάω-ῶ</b> <font color="purple">[ῠᾰ]</font> sonner de la trompette en soufflant dans, <i>dat</i>. DH. <i>2, 8</i>.<p><b>Étym</b>. ἐν, βυκάνη.`

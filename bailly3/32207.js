@@ -1,0 +1,1 @@
+lar[32207]=`<b>ἐκ·τορνεύω</b>, travailler avec soin sur le tour, HLD. <i>2, 11</i> ; AQU. <i>Ex. 25, 33</i>.`

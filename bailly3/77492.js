@@ -1,0 +1,1 @@
+lar[77492]=`<b>παχύ·ρραβδος, ος, ον</b> <font color="purple">[πᾰ]</font> aux branches épaisses, DIOSC. <i>1, 13</i>.<p><b>Étym</b>. π. ῥάβδος.`

@@ -1,0 +1,1 @@
+lar[29743]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> mélange, combinaison (de nombres) THEOL. <i>p. 9 et 37</i>.<p><b>Étym</b>. ἐγκεράννυμι.`

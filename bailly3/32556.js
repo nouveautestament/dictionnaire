@@ -1,0 +1,1 @@
+lar[32556]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> chasse au cerf, CALL. <i>Dian. 262 ; au plur</i>. SOPH. <i>Aj. 178</i>.<p>➳ <i>Dor</i>. ἐλαφαβολίας <font color="purple">[φᾱ]</font> SOPH. <i>l. c</i>.<p><b>Étym</b>. ἐλαφηβόλος.`

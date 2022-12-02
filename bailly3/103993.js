@@ -1,0 +1,1 @@
+lar[103993]=`<b>ὑπο·τήκομαι</b>, se corrompre intérieurement <i>ou</i> peu à peu, EL. <i>N.A. 15, 4</i> ; M. TYR. <i>34, 2</i> ; MAN. <i>5, 191</i>.`

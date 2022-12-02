@@ -1,0 +1,1 @@
+lar[102122]=`<b>ὑπ·εκκρίνω</b> <font color="purple">[ῑ]</font> évacuer par le bas, aller à la selle, DL. <i>9, 76</i>.`

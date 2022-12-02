@@ -1,0 +1,1 @@
+lar[14430]=`<b>ἀρεί·φατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> tué par Arès, <i>càd</i>. dans le combat, IL. <i>19, 31 (ion</i>. ἀρηΐφατος).<br><b>      2</b> qui tue dans le combat, <i>càd</i>. belliqueux, vaillant, ESCHL. <i>Eum. 913</i> ; EUR. <i>Rhes. 124</i> ; ORPH. <i>Arg. 514</i>.<p><b>Étym</b>. Ἄρης, <i>vb. de</i> θείνω.`

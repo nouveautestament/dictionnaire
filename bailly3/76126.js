@@ -1,0 +1,1 @@
+lar[76126]=`<b>παρ·άπτω</b>, <i>seul. moy.</i> :<br><b>      1</b> toucher en passant, PLUT. <i>Cleom. 31</i>.<br><b>      2</b> toucher légèrement, <i>particul</i>. humecter légèrement, <i>gén</i>. GAL.<br><b>      3</b> toucher par mégarde, HIPPIATR.`

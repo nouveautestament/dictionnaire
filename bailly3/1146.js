@@ -1,0 +1,1 @@
+lar[1146]=`<b>ἀ·δᾳδούχητος, ος, ον</b> <font color="purple">[δᾱ]</font> où l’on ne porte aucun flambeau, APION (EUST. <i>622, 42).</i><p><b>Étym</b>. ἀ, δᾳδουχέω.`

@@ -1,0 +1,1 @@
+lar[105664]=`<b>ου (ὁ)</b> <font color="purple">[φῐῐδ]</font> Philippidès, <i>h</i>. PLAT. <i>Prot. 315a ;</i> DÉM. <i>21, 208, etc</i>.<p>➳ <i>Voc</i>. Φιλιππίδη, PLUT. <i>Demetr. 12</i>.<p><b>Étym</b>. <i>patr. de</i> Φίλιππος.`

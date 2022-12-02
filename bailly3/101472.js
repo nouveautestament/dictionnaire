@@ -1,0 +1,1 @@
+lar[101472]=`<b>ὑδατο·τρεφής, ής, ές</b> <font color="purple">[ῠᾰ]</font> qui se nourrit d’eau, qui croît au bord de l’eau, OD. <i>17, 208</i>.<p><b>Étym</b>. ὕδ. τρέφω.`

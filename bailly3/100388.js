@@ -1,0 +1,1 @@
+lar[100388]=`<b>ου (ὁ)</b> Tripodiskos (<i>litt</i>. le petit trépied) <i>village de Mégaride,</i> THC. <i>4, 70</i>.<p><b>Étym</b>. <i>dim. de</i> τρίπους.`

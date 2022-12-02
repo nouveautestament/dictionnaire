@@ -1,0 +1,1 @@
+lar[47755]=`<b>ου (τὸ)</b> <i>seul. pl</i>. τὰ θρόνα :<br><b>      1</b> fleurs en broderie, IL. <i>22, 441</i>.<br><b>      2</b> <i>postér</i>. plantes médicinales dont on se servait dans les incantations, THCR. <i>Idyl. 2, 59 ; cf</i>. NIC. <i>Th. 493, 936</i> ; LYC. <i>674</i>.<p><b>Étym</b>. <i>cf. sscr</i>. trnas, herbe.`

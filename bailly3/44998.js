@@ -1,0 +1,1 @@
+lar[44998]=`<b>ἡδυ·μελί·φθογγος, ος, ον</b> <font color="purple">[ῠ]</font> dont la parole est aussi douce que le miel, ANTH. <i>9, 571</i>.<p><b>Étym</b>. ἡ. μέλι, φθέγγω.`

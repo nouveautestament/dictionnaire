@@ -1,0 +1,1 @@
+lar[74097]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> rets, filet :<br><b>      1</b> filet de chasse, HDT. <i>2, 121</i> ; XÉN. <i>Cyr. 1, 6, 39</i> ; PLAT. <i>Leg. 824a.</i><br><b>      2</b> <i>fig. càd</i>. piège, ruse, ESCHL. <i>Ag. 822</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *peh₂ǵ-, raidir, <i>v</i>. πήγνυμι.`

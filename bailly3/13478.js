@@ -1,0 +1,1 @@
+lar[13478]=`<b>ἀπο·συκάζω</b> <font color="purple">[ῠ]</font><br><b>      1</b> cueillir des figues, AMIPS. <i>fr. 17 (au pf. pass</i>. ἀποσεσύκασται).<br><b>      2</b> tâter des figues pour juger de leur maturité, <i>fig</i>. AR. <i>Eq. 259</i>.<p><b>Étym</b>. ἀ. συκῆ.`

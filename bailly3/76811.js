@@ -1,0 +1,1 @@
+lar[76811]=`<b>οῦ</b>, <i>adj. m</i>. que l’on voit à terre pendant le calme, <i>en parl. de certains oiseaux de mer,</i> ATH. <i>322e</i>.<p><b>Étym</b>. παρευδιάζομαι.`

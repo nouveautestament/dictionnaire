@@ -1,0 +1,1 @@
+lar[18030]=`<b>οῦ (ὁ)</b> qui résiste aux rênes, qui regimbe, rebelle, PHIL. <i>1, 114</i>.<p><b>Étym</b>. ἀφηνιάζω.`

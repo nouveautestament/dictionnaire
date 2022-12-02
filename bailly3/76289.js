@@ -1,0 +1,1 @@
+lar[76289]=`<b>παρα·σφραγίζομαι</b> <font color="purple">[ᾱγ]</font> sceller en outre, TÉLÈS (STOB. <i>Fl. 97, 31</i>).`

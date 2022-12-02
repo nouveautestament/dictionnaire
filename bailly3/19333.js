@@ -1,0 +1,1 @@
+lar[19333]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> petit plat, ALEX. <i>et</i> ANTIPH. (ATH. <i>28c, 169d, etc</i>.).<p><b>Étym</b>. <i>dim. de</i> βατάνη.`

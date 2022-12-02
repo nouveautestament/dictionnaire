@@ -1,0 +1,1 @@
+lar[24335]=`<b>Δημό·φιλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Dèmophilos, <i>h</i>. HDT. <i>7, 222</i> ; DÉM. ESCHN. PLUT. <i>etc</i>.<p>➳ <i>Dor</i>. Δαμό-, PD. <i>P. 4, 500</i> ; POSIDON. (ATH. <i>542b</i>) ; <i>etc</i>.<p><b>Étym</b>. δ. φίλος.`

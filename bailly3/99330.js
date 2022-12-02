@@ -1,0 +1,1 @@
+lar[99330]=`<b>ωνος (ὁ)</b> Tisôn, <i>Syracusain,</i> PLAT. <i>Ep. 363c</i>.`

@@ -1,0 +1,1 @@
+lar[95308]=`<b>συν·είσειμι</b>, entrer ensemble <i>ou</i> en même temps, ARSTT. <i>Respir. 4, 3</i> ; PLUT. <i>M. 674d, 713c, etc</i>.`

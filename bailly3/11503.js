@@ -1,0 +1,1 @@
+lar[11503]=`<b>ἀ·πέδιλος, ος, ον</b> <font color="purple">[ῑ]</font> sans chaussures, sans prendre le temps de se chausser, ESCHL. <i>Pr. 135</i>.<p><b>Étym</b>. ἀ, πέδιλον.`

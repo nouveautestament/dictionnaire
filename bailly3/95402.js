@@ -1,0 +1,1 @@
+lar[95402]=`<b>συν·εκπυρόω-ῶ</b> <font color="purple">[ῠ]</font> enflammer avec <i>ou</i> en même temps, PLAT. <i>Tim. 65e</i>.`

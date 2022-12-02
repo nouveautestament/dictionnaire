@@ -1,0 +1,1 @@
+lar[51590]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> de Kapanée, IL. <i>4, 367, etc</i>.<p><b>Étym</b>. Καπανεύς.`

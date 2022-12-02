@@ -1,0 +1,1 @@
+lar[97559]=`<b>τανύ·πρεμνος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> au tronc élevé, NONN. <i>D. 5, 303</i>.<br><b>      2</b> couvert de troncs élevés, COL. <i>195</i> ; NONN. <i>D. 5, 541</i>.<p><b>Étym</b>. τανυ-, πρέμνον.`

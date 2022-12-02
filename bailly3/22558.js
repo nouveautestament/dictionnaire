@@ -1,0 +1,1 @@
+lar[22558]=`(SUID.) <i>d’où</i> Γραίξ (ἡ) femme grecque, GRAMM. ; <i>plur</i>. αἱ Γραῖκες, ALCM. <i>et</i> SOPH. (E. BYZ.) femmes grecques.`

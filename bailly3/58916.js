@@ -1,0 +1,1 @@
+lar[58916]=`<b>οῦ (ὁ)</b> fleur de l’olivier, SPT. <i>Cant. 7, 12</i>.`

@@ -1,0 +1,1 @@
+lar[93468]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> qui se penche en même temps <i>ou</i> tout à fait, qui tombe sur, <i>avec</i> ἐπί <i>et le dat</i>. ESCHL. <i>fr. 77</i>.<p><b>Étym</b>. συγκλίνω.`

@@ -1,0 +1,1 @@
+lar[57239]=`<b>κοσκινό·μαντις, ιδος (ὁ, ἡ)</b> devin <i>ou</i> sorcière qui prédit l’avenir au moyen d’un crible, THCR. <i>Idyl. 3, 31</i> ; ARTÉM. <i>2, 69</i>.<p><b>Étym</b>. κόσκινον, μάντις.`

@@ -1,0 +1,1 @@
+lar[53701]=`<b>κατά·φυτος, ος, ον</b> <font color="purple">[ῠ]</font> planté : τινι, LUC. <i>Nec. 11,</i> de qqe ch. ; <i>abs</i>. couvert de plantations, POL. <i>18, 3, 1</i> ; PLUT. <i>Cic. 48, etc</i>.<p><b>Étym</b>. καταφύω.`

@@ -1,0 +1,1 @@
+lar[70247]=`<b>οἰακο·νόμος, ος, ον</b> <font color="purple">[ᾱ]</font> qui dirige le gouvernail, pilote, ESCHL. <i>Pr. 149</i>.<p><b>Étym</b>. οἴαξ, νέμω.`

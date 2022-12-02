@@ -1,0 +1,1 @@
+lar[103162]=`<b>ὑπο·διάκονος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> serviteur subalterne, auxiliaire en sous-ordre, POSIDIPP. (ATH. <i>376f</i>).`

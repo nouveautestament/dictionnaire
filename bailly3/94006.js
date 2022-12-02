@@ -1,0 +1,1 @@
+lar[94006]=`<b>συμ·μινύθω</b>, <i>anc. att</i>. <b>ξυμ·μινύθω</b> (<i>seul. prés</i>.) <font color="purple">[ῐῠ]</font> s’amoindrir <i>ou</i> dépérir avec <i>ou</i> en même temps, PHILSTR. <i>V. Ap. 5, 2</i>.`

@@ -1,0 +1,1 @@
+lar[101900]=`<b>ὑπ·αΐσσω</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> s’élancer sous, <i>acc</i>. IL. <i>21, 126</i>.<br><b>      2</b> s’élancer de l’autel, <i>gén</i>. IL. <i>2, 310</i> ; NIC. <i>Th. 455 ; abs</i>. SOPH. <i>Aj. 301</i>.<p>➳ <font color="purple">[ᾰ]</font> <i>par nécess. prosod</i>. IL. <i>21, 126</i> (<i>var</i>. ὑπαλύξει).`

@@ -1,0 +1,1 @@
+lar[66452]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne l’unité ; μ. ἀριθμός, ARSTT. <i>Metaph. 12, 6, 11,</i> l’unité ; <i>t. de gr</i>. qui n’a qu’une forme (<i>pour le masc. et le fém.) c. les pron</i>. ἐγώ, σύ, DYSC. <i>Pron. 273</i>.<br><b>      2</b> isolé, solitaire, ARSTT. <i>H.A. 1, 1, 23</i>.<p><b>Étym</b>. μονάς.`

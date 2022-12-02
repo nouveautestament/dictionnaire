@@ -1,0 +1,1 @@
+lar[16873]=`<b>ας (ἡ)</b> stérilité, MUSON. (STOB. <i>Fl. 75, 15).</i><p><b>Étym</b>. ἄτοκος.`

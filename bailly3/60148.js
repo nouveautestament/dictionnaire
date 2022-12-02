@@ -1,0 +1,1 @@
+lar[60148]=`<b>λειόω-ῶ :<br>      1</b> lisser, polir, unir, M. SID. <i>83</i>.<br><b>      2</b> broyer, réduire en poudre fine, HLD. CHIR. (CHIR. <i>p. 97, 26</i>), DIOSC. <i>1, 102, 129</i> ; GAL. <i>6, 376</i>.<p><b>Étym</b>. λεῖος.`

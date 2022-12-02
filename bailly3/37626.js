@@ -1,0 +1,1 @@
+lar[37626]=`<b>ος, ον</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> réclamé comme un droit, JOS. <i>A.J. 4, 2, 4</i>.<br><b>      2</b> que l’on réclame, que l’on invoque, <i>d’où</i> secourable, LUC. <i>Somn. 9</i>.<p><b>Étym</b>. ἐπιδικάζω.`

@@ -1,0 +1,1 @@
+lar[108538]=`<b>ατος (τὸ)</b> manteau, <i>d’où</i> χλ. λέοντος, A. PL. <i>104,</i> peau de lion.<p><b>Étym</b>. χλαινόω.`

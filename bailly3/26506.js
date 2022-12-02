@@ -1,0 +1,1 @@
+lar[26506]=`<b>δι·κάρηνος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à deux têtes, BATR. <i>300</i>.<p>➳ <i>Dor</i>. δικάρανος <font color="purple">[ρᾱ]</font> ANTH. <i>6, 306</i>.<p><b>Étym</b>. δίς, κάρηνον.`

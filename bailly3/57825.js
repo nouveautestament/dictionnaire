@@ -1,0 +1,1 @@
+lar[57825]=`<i>adv</i>., vers la fontaine, OD. <i>20, 154</i>.<p><b>Étym</b>. κρήνη, -δε.`

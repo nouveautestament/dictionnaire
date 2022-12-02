@@ -1,0 +1,1 @@
+lar[94914]=`<b>συν·αποσεμνύνω</b> <font color="purple">[νῡ]</font> honorer également, DS. <i>1, 92</i>.`

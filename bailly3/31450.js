@@ -1,0 +1,1 @@
+lar[31450]=`<b>εως (ἡ)</b> <font color="purple">[λῐ]</font><br><b>      1</b> déclinaison d’un astre, PLUT. <i>M. 929c.</i><br><b>      2</b> action d’éviter, PLUT. <i>M. 1037f ;</i> SEXT. <i>226</i>.<p><b>Étym</b>. ἐκκλίνω.`

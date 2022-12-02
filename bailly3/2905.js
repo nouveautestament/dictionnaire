@@ -1,0 +1,1 @@
+lar[2905]=`<b>αἰσχρο·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> qui souffre un traitement honteux, PHIL. <i>2, 268</i>.<p><b>Étym</b>. αἰ. πάθος.`

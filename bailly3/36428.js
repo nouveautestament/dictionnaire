@@ -1,0 +1,1 @@
+lar[36428]=`<b>ἐπ·αιονάω-ῶ :<br>      1</b> verser sur, arroser, ATH. <i>41b.</i><br><b>      2</b> se mouiller, se baigner, NIC. <i>Al. 463</i>.`

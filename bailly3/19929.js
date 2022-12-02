@@ -1,0 +1,1 @@
+lar[19929]=`<b>εως (ἡ)</b> vue, regard, PLUT. <i>Pel. 32</i> ; BAS.<p><b>Étym</b>. βλέπω.`

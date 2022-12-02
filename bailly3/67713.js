@@ -1,0 +1,1 @@
+lar[67713]=`<b>ναυ·αγός, ός, όν</b> <font color="purple">[ᾱ]</font> qui dirige un navire, pilote, EUPH. <i>p. 135 Mein</i>.<p><b>Étym</b>. ναῦς, ἡγέομαι.`

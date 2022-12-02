@@ -1,0 +1,1 @@
+lar[6775]=`<b>εως (ἡ)</b> action de reprendre courage, ONOS. <i>c. 14, p. 67</i>.`

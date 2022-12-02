@@ -1,0 +1,1 @@
+lar[88969]=`<b>εως (ἡ)</b> nettoiement, PLAT. <i>Tim. 65e</i>.<p><b>Étym</b>. ῥύπτω.`

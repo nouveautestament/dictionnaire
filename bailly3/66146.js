@@ -1,0 +1,1 @@
+lar[66146]=`<b>ά, όν</b>, doux, facile, agréable, CRAT. (<i>Com. fr. 2, 203</i>).`

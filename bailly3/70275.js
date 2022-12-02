@@ -1,0 +1,1 @@
+lar[70275]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> d’Œdipe, PLUT. <i>Syll. 19</i> ; τὸ Οἰδιπόδειον, LYSIM. (SCH.-SOPH. <i>O.C. 91</i>) sanctuaire consacré à Œdipe.<p>➳ <i>Fém</i>. -α, PAUS. <i>9, 18, 5 et 6 (corr. p</i>. Οἰδιποδία).<p><b>Étym</b>. Οἰδίπους.`

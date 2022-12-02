@@ -1,0 +1,1 @@
+lar[93312]=`<b>συγ·κατακεράννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>f</i>. -κερῶ, <i>ao. pass</i>. συγκατεκράθην)</font> mêler ensemble <i>ou</i> avec, <i>dat</i>. ARÉSAS (STOB. <i>Ecl. p. 856</i>).`

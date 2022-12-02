@@ -1,0 +1,1 @@
+lar[58894]=`<b>ιδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> sorte de souchet, NIC. <i>Al. 604</i>.`

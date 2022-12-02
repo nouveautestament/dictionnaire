@@ -1,0 +1,1 @@
+lar[20001]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> bouclier de peau de bœuf sauvage, IL. <i>12, 22</i> ; OD. <i>16, 296</i> ; ANTH. <i>9, 323</i>.<p><b>Étym</b>. βόαγρος.`

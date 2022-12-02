@@ -1,0 +1,1 @@
+lar[106288]=`<b>ου (ὁ)</b> le fisc, ARTÉM. <i>1, 375</i>.<p><b>Étym</b>. <i>lat</i>. fiscus.`

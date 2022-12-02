@@ -1,0 +1,1 @@
+lar[82983]=`<b>ποταμό·κλυστος, ος, ον</b> <font color="purple">[ᾰ]</font> baigné par un fleuve <i>ou</i> par des fleuves, STR. <i>162, 187</i>.<p><b>Étym</b>. π. κλύζω.`

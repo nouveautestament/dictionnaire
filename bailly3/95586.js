@@ -1,0 +1,1 @@
+lar[95586]=`<b>συν·επεισπίπτω</b>, faire ensemble irruption, PLUT. <i>Fab. 17</i>.`

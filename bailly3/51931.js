@@ -1,0 +1,1 @@
+lar[51931]=`<b>καρτερ·αίχμης, ου</b>, <i>adj. m</i>. à la forte lance, <i>ép. d’Hèraklès,</i> PD. <i>I. 6, 55</i>.<p><b>Étym</b>. καρτερός, αἰχμή.`

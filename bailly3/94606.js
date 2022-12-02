@@ -1,0 +1,1 @@
+lar[94606]=`<b>συν·αΐσσω</b> <font color="purple">[ᾱ]</font> s’élancer ensemble, A.RH. <i>4, 112</i> ; Q. SM. <i>2, 456</i>.`

@@ -1,0 +1,1 @@
+lar[2426]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> étincelle enflammée, <i>d’où</i> cendre fine, suie, EUR. <i>Hec. 911</i> ; HPC. <i>634, 23</i>.<p><b>Étym</b>. αἴθω.`

@@ -1,0 +1,1 @@
+lar[37927]=`<b>ἐπι·καταίρω</b>, s’abattre sur, PLUT. <i>Pomp. 31</i>.`

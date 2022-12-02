@@ -1,0 +1,1 @@
+lar[30345]=`<b>*εἰκοσά·βοιος</b>, <i>seul. poét</i>. <b>ἐεικοσά·βοιος, ος, ον</b> <font color="purple">[ᾰ]</font> du prix de vingt bœufs, OD. <i>1, 431</i>.<p><b>Étym</b>. εἴκοσι, βοῦς.`

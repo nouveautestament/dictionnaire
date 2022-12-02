@@ -1,0 +1,1 @@
+lar[65806]=`<b>μιλτ·ηλιφής, ής, ές</b> <font color="purple">[ῐφ]</font> teint (<i>propr</i>. oint) de vermillon, HDT. <i>3, 58</i>.<p><b>Étym</b>. μίλτος, ἀλείφω.`

@@ -1,0 +1,1 @@
+lar[26284]=`<b>εως (ἡ)</b> action d’enfoncer, enfoncement, ARSTT. <i>Probl. 16, 8</i> ; GAL. <i>Lex. Hipp. 19, 134</i>.<p><b>Étym</b>. διείρω.`

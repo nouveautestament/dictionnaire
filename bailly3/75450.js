@@ -1,0 +1,1 @@
+lar[75450]=`<b>παρα·γνάμπτω</b>, courber de côté <i>ou</i> dans un autre sens, COL. <i>239</i>.`

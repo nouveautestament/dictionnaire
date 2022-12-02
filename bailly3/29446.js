@@ -1,0 +1,1 @@
+lar[29446]=`<b>ἐγ·καθεύδω</b> <font color="darkgreen">(<i>f</i>. -ευδήσω) :</font><br><b>      1</b> dormir dans, sur <i>ou</i> parmi, <i>avec le dat</i>. ARSTT. <i>H.A. 9, 3, 3 ; avec</i> ἐν <i>et le dat</i>. PLUT. <i>M. 190f.</i><br><b>      2</b> <i>abs</i>. être couché, AR. <i>Lys. 614</i>.<p><b>Étym</b>. ἐν, κ.`

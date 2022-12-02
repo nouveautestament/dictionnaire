@@ -1,0 +1,1 @@
+lar[92176]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> séditieux, THC. <i>7, 57 ; 8, 92</i> ; τὸ στ. THC. <i>4, 130,</i> le caractère d’une sédition.<p><b>Étym</b>. στασιώτης.`

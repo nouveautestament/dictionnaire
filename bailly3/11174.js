@@ -1,0 +1,1 @@
+lar[11174]=`<b>ἀπ·άλθομαι</b> <font color="darkgreen">(<i>seul. fut. 3 duel</i> ἀπαλθήσεσθον)</font> se guérir de, <i>acc</i>. IL. <i>8, 405, 419</i>.`

@@ -1,0 +1,1 @@
+lar[1544]=`<b>ου (ὁ)</b> la mer Adriatique, LYS. <i>32, 25 Baiter-Sauppe, etc. ; rar. sans article,</i> ANTH. <i>11, 247</i> ; SCYMN. <i>375 ; avec l’art. dans une inscr. att</i>. CIA. <i>2, 809a, 176 (325 av. J.-C.) v. Meisterh. p. 186, 16</i>.<p>➳ <i>Gén</i>. -α, POL. <i>3, 47 ; Ion</i>. -ίης, HDT. <i>1, 163, etc</i>.`

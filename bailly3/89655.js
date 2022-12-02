@@ -1,0 +1,1 @@
+lar[89655]=`<b>οῦ (ὁ)</b> Seilènos (Silène) :<br><b>      1</b> <i>père nourricier de Bacchus,</i> HDT. <i>7, 26, etc.</i> ; EUR. <i>Cycl. 13, 82, 269, etc.,</i> οἱ Σειληνοί, HH. <i>Ven. 263,</i> les Silènes, <i>divinités des bois analogues aux Satyres</i>.<br><b>      2</b> un silène, une figure de Silène, PLAT. <i>Conv. 215 a et b ; cf</i>. Σιληνός.`

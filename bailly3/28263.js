@@ -1,0 +1,1 @@
+lar[28263]=`<b>δύσ·βρωτος, ος, ον</b>, difficile à manger, PLUT. <i>M. 668e</i>.<p><b>Étym</b>. δ. βιβρώσκω.`

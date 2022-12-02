@@ -1,0 +1,1 @@
+lar[108762]=`<b>ου (ὁ)</b> coupe de cuivre, <i>chez les Crétois,</i> HERMONAX (ATH. <i>502b</i>).`

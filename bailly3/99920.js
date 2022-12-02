@@ -1,0 +1,1 @@
+lar[99920]=`<b>τραπεζο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> esclave chargé de dresser la table pour le repas, PHILÉM. <i>et</i> ANTIPH. (ATH. <i>170d et e</i>) ; SEXT. <i>P. 1, 82</i> ; THÉM. <i>54c, etc</i>.<p><b>Étym</b>. τρ. ποιέω.`

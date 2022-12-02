@@ -1,0 +1,1 @@
+lar[20943]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> couvert de mousse, moussu, ARSTT. <i>H.A. 5, 10, 4</i> ; TH. <i>C.P. 3, 5, 5</i> ; EL. <i>N.A. 16, 15, etc</i>.<p><b>Étym</b>. βρύον, -ωδης.`

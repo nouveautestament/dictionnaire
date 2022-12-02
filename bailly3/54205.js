@@ -1,0 +1,1 @@
+lar[54205]=`<b>κατ·οψέ</b>, <i>adv</i>., tard sur le soir, A. TR. <i>2, p. 147</i>.<p><b>Étym</b>. κ. ὀψέ.`

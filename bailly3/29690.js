@@ -1,0 +1,1 @@
+lar[29690]=`<b>ἐγ·κνήθω</b>, <i>épq</i>. ἐνικνήθω (<i>seul. impér. prés. moy</i>.) racler des plantes pour une infusion, NIC. <i>Al. 368</i> (ἐγκνήθεο) ; <i>Th. 911</i> (ἐνικνήθεο).<p><b>Étym</b>. ἐν, κν.`

@@ -1,0 +1,1 @@
+lar[84271]=`<i>adv</i>., avec circonspection, avec prévoyance, ANTYLL. (ORIB. <i>p. 49 Mai).</i><p><b>Étym</b>. προσκέπτομαι.`

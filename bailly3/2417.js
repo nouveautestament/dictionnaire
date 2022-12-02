@@ -1,0 +1,1 @@
+lar[2417]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>   I</b> résidu de matières brûlées, <i>d’où</i> :<br><b>      1</b> suie, LUC. <i>D. deor. 15</i>.<br><b>      2</b> cendres, SPT. <i>Ex. 9, 8</i> ; DIOSC. <i>1, 84</i> ; GAL. <i>8, 294 ; 13, 263</i>.<br><b>   II</b> <i>synon. de</i> στύραξ, DIOSC. <i>1, 79, p. 83</i>.<p><b>Étym</b>. αἴθαλος.`

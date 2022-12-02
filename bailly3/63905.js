@@ -1,0 +1,1 @@
+lar[63905]=`<b>μελανο·φορέω-ῶ</b> <font color="purple">[ᾰ]</font> porter des vêtements noirs, PLUT. <i>M. 557d</i>.<p><b>Étym</b>. μέλας, -φορος <i>de</i> φέρω.`

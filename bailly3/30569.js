@@ -1,0 +1,1 @@
+lar[30569]=`<b>οῦ (ὁ) :<br>      1</b> action de jeter en prison, PLUT. <i>M. 84f ;</i> JOS. <i>A.J. 18, 1, 3</i>.<br><b>      2</b> prison, PLAT. <i>Phæd. 82e, Rsp. 495d.</i><br><b>      3</b> lien, EL. <i>N.A. 7, 17</i> ; JAMBL. (STOB. <i>Ecl. phys. 1, 17).</i><p><b>Étym</b>. εἵργω.`

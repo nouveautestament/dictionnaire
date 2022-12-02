@@ -1,0 +1,1 @@
+lar[108485]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> engelure, DIOSC. <i>1, 149, 183 ; 2, 44, etc</i>.<p><b>Étym</b>. <i>cf</i>. χειμών.`

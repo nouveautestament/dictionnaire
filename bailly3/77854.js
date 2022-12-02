@@ -1,0 +1,1 @@
+lar[77854]=`<b>πελτο·φόρος, ος, ον</b>, qui porte un bouclier léger, POL. <i>3, 43, 2</i> ; ὁ π. <i>c</i>. πελταστής, XÉN. <i>Cyr. 7, 1, 24, etc</i>.<p><b>Étym</b>. πέλτη, φέρω.`

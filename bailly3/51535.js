@@ -1,0 +1,1 @@
+lar[51535]=`<b>ωνος (ὁ) :<br>      1</b> bête de somme, <i>particul</i>. âne, AR. <i>Vesp. 179</i> ; LYC. <i>817</i>.<br><b>      2</b> escarbot, scarabée, AR. <i>Pax 82</i>.<p><b>Étym</b>. <i>cf</i>. κανθίς.`

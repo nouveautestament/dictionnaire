@@ -1,0 +1,1 @@
+lar[4039]=`<b>ἀλαζονο·χαυνο·φλύαρος, ος, ον</b> <font color="purple">[ᾰᾱᾰ]</font> fanfaron sot et bavard, ARCHESTR. (ATH. <i>29c</i>).<p><b>Étym</b>. ἀ. χαῦνος, φλύαρος.`

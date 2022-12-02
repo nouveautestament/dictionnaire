@@ -1,0 +1,1 @@
+lar[53349]=`<b>οῦ (ὁ)</b> qui organise, qui construit, qui fabrique, auteur <i>ou</i> fabricant de, TAT. <i>Or. ad Græc. 4, c. 813a</i>.<p><b>Étym</b>. κατασκευάζω.`

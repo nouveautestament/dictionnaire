@@ -1,0 +1,1 @@
+lar[102275]=`<b>ὑπερ·ανίσταμαι</b> <font color="darkgreen">(<i>seul. ao.2</i> ὑπερανέστην <i>et pf</i>. ὑπερανέστηκα)</font> <font color="purple">[ᾰ]</font> s’élever au-dessus, dominer, DH. <i>3, 68</i> ; LUC. <i>Ic. 12</i> ; ὑπ. τινος, DH. <i>1, 15 ; 9, 68,</i> s’élever au-dessus de qqe ch. ; <i>fig</i>. PHILSTR. <i>730</i>.`

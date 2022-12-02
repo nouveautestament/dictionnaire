@@ -1,0 +1,1 @@
+lar[77548]=`<i>adv.</i> :<br><b>      1</b> du sol, à partir du sol, HÉS. <i>Th. 680</i>.<br><b>      2</b> des fondements du sol, du fond de la terre, PD. <i>O. 7, 112 ; fig. càd</i>. à fond, du fond de l’âme, OD. <i>13, 295</i>.<br><b>      3</b> depuis l’origine, PD. <i>I. 5, 48</i>.<p><b>Étym</b>. πέδον, -θεν.`

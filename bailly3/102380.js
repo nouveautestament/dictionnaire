@@ -1,0 +1,1 @@
+lar[102380]=`<b>ὑπέρ·δασυς, εια, υ</b> <font color="purple">[ᾰ]</font> extrêmement épais <i>ou</i> touffu, EL. <i>N.A. 7, 6 ; en parl. d’un homme</i> qui a les cheveux et la barbe incultes, d’aspect sauvage, XÉN. <i>Cyr. 2, 2, 28</i>.<p><b>Étym</b>. ὑ. δασύς.`

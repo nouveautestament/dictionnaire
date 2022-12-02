@@ -1,0 +1,1 @@
+lar[10925]=`<b>ἀξιο·μίμητος</b>, <i>dor</i>. <b>-μίματος, ος, ον</b> <font color="purple">[μῑᾱ]</font> digne d’être imité, ECPHANT. (STOB. <i>Fl. 48, 65).</i><p><b>Étym</b>. ἄ. μιμέομαι.`

@@ -1,0 +1,1 @@
+lar[41882]=`<b>εὐ·διαφορέω-ῶ</b>, être excellent, <i>sel. d’autres,</i> faire digérer facilement, GEOP. <i>19, 6, 12</i>.<p><b>Étym</b>. εὖ, διαφορέω.`

@@ -1,0 +1,1 @@
+lar[52019]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> fermé par un sommeil léthargique, <i>en parl. des yeux,</i> HPC. <i>1217h.</i><br><b>      2</b> qui cause de la torpeur : τὸ καρῶδες, HPC. <i>72b</i>, torpeur.<p><b>Étym</b>. κάρος, -ωδης.`

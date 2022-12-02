@@ -1,0 +1,1 @@
+lar[43581]=`<b>οῦ (ὁ)</b> atténuation <i>ou</i> amoindrissement d’une chose par l’expression, <i>t. de rhét</i>. LGN <i>11, 2</i>.<p><b>Étym</b>. εὐτελίζω.`

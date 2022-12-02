@@ -1,0 +1,1 @@
+lar[88818]=`<i>ou</i> (ὁ) = <i>lat</i>. Rŭfus, <i>n. d’h. rom</i>. PLUT. <i>T. Gracch. 19, etc</i>.`

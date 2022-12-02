@@ -1,0 +1,1 @@
+lar[76672]=`<b>ή, όν</b>, propre à boucher les pores, DIOSC. <i>1, 133 ; 3, 23</i>.<p>•<i> Cp</i>. -ώτερος, A. TR. <i>7, 289</i>.<p><b>Étym</b>. παρεμπλάσσω.`

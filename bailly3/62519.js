@@ -1,0 +1,1 @@
+lar[62519]=`<b>μακρο·καμπυλ·αύχην, ενος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> au long cou recourbé, EPICH. (ATH. <i>65b, 398d</i>).<p><b>Étym</b>. μ. καμπύλος, αὐχήν.`

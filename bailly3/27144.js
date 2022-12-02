@@ -1,0 +1,1 @@
+lar[27144]=`<b>οῦ (ὁ)</b> conducteur d’un char, SOPH. <i>Aj. 857</i>.<p><b>Étym</b>. διφρεύω.`

@@ -1,0 +1,1 @@
+lar[109275]=`<b>χρυσο·τόρευτος, ος, ον</b> <font color="purple">[ῡ]</font> ciselé <i>ou</i> travaillé en or, SPT. <i>Ex. 25, 18</i>.<p><b>Étym</b>. χρ. τορεύω.`

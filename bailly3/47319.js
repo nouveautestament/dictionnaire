@@ -1,0 +1,1 @@
+lar[47319]=`<b>θηρ·όλετος, ος, ον</b>, tué par des bêtes sauvages, ANTH. <i>8, 210</i>.<p><b>Étym</b>. θ. ὄλλυμι.`

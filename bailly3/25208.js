@@ -1,0 +1,1 @@
+lar[25208]=`<b>ατος (τὸ)</b> poudre pour le visage <i>ou</i> la peau, poudre odorante, DIOSC. <i>1, 6 ; au plur</i>. TH. <i>Od. 8</i> ; PLUT. <i>M. 660e ;</i> LUC. <i>Am. 39</i>.<p><b>Étym</b>. διαπάσσω.`

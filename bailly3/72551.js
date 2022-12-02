@@ -1,0 +1,1 @@
+lar[72551]=`<b>ή, όν</b>, qui se plaît aux mystères, aux orgies, <i>p. ext</i>. porté à l’enthousiasme, inspiré, ARSTT. <i>Pol. 8, 6, 9, etc</i>.<p><b>Étym</b>. ὀργιάζω.`

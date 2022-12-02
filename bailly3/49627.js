@@ -1,0 +1,1 @@
+lar[49627]=`<b>ἰσό·δρομος, ος</b> <i>ou</i> <b>η, ον</b> <font color="purple">[ῑ̆]</font> qui court <i>aussi</i> vite que, <i>dat</i>. T. LOCR. <i>96e ;</i> PLAT. <i>Tim. 38d ; gén</i>. ARSTT. <i>Mund. 6, 18 ; abs</i>. ANTH. <i>7, 212</i> ; ἡ Ἰσοδρόμη μήτηρ, STR. <i>440,</i> la déesse qui court d’une vitesse toujours égale, <i>càd</i>. Cybèle.<p><b>Étym</b>. ἴ. δραμεῖν.`

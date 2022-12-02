@@ -1,0 +1,1 @@
+lar[31914]=`<b>ος, ον</b>, qui procède de, NAZ. <i>1, 1096b ; 2, 141a, 477c Migne</i>.<p><b>Étym</b>. ἐκπορεύω.`

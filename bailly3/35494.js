@@ -1,0 +1,1 @@
+lar[35494]=`<b>εως (ἡ)<br>      1</b> efflorescence, floraison, HPC. <i>Aph. 1248b.</i><br><b>      2</b> action de perdre ses fleurs, TH. <i>C.P. 6, 15, 2</i>.<p><b>Étym</b>. ἐξανθέω.`

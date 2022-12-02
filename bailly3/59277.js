@@ -1,0 +1,1 @@
+lar[59277]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Kôrykos (<i>auj</i>. cap Curco) <i>promont. d’Ionie,</i> HH. <i>Ap. 39</i> ; THC. <i>8, 14, etc</i>.`

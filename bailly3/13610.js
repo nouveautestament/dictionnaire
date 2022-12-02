@@ -1,0 +1,1 @@
+lar[13610]=`<b>ή, όν</b> <font color="purple">[ῐν]</font> qui secoue, RHÉT. <i>3, 542 W</i>.<p><b>Étym</b>. ἀποτινάσσω.`

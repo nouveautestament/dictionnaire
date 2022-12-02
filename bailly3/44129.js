@@ -1,0 +1,1 @@
+lar[44129]=`<b>ἐφ·ορμαίνω</b>, s’élancer sur, ESCHL. <i>Pers. 208</i> ; τινί, OPP. <i>C. 3, 367</i> ; ORPH. <i>H. 33, 5 ; 73, 7,</i> se porter avec ardeur vers <i>ou</i> contre qqn.<p><b>Étym</b>. ἐπί, ὁρμή.`

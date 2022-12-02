@@ -1,0 +1,1 @@
+lar[94542]=`<b>συν·αγνοέω-οῶ</b>, ignorer ensemble <i>ou</i> également, HIÉROCL. <i>C. aur. p. 448 Mullach</i>.`

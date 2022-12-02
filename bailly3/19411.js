@@ -1,0 +1,1 @@
+lar[19411]=`<b>ος, ον</b>, qu’on peut teindre, JAMBL. <i>V. Pyth. 17</i>.<p><b>Étym</b>. βάπτω.`

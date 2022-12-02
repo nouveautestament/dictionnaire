@@ -1,0 +1,1 @@
+lar[2252]=`<b>ιπος (ὁ, ἡ)</b> <font color="purple">[ῐῐπ]</font> escarpé, IL. <i>9, 15</i> ; ESCHL. <i>Suppl. 794</i> ; ANTH. <i>7, 6, 22</i>.<p><b>Étym</b>. <i>inconnue</i> ; αἴξ, λείπω « abandonné même des chèvres » <i>par étym. populaire</i>.`

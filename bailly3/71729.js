@@ -1,0 +1,1 @@
+lar[71729]=`<i>adv</i>., de la même manière, DL. <i>9, 70</i> ; EN. TACT. <i>Pol. c. 1, p. 15</i>.`

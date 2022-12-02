@@ -1,0 +1,1 @@
+lar[80857]=`<b>ῶνος (ὁ)</b> durée d’une année, année, HÉS. <i>O. 617</i> ; CALL. <i>Jov. 89</i> ; ANTH. <i>6, 93</i> ; LYC. <i>201</i>.<p><b>Étym</b>. πλέος.`

@@ -1,0 +1,1 @@
+lar[30165]=`<b>ἐθελό·πορνος, ος, ον</b>, qui se prostitue volontairement, ANACR. <i>21, 7</i>.<p><b>Étym</b>. ἐθέλω, πόρνη.`

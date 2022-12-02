@@ -1,0 +1,1 @@
+lar[85078]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’interpeller, d’appeler par son nom <i>ou</i> de saluer qqn, MÉN. (ATH. <i>571e</i>) ; PLUT. <i>Crass. 3, Fab. 17</i> ; LUC. <i>Laps. 8</i> ; action de s’adresser à qqn au commencement d’un discours, DH. <i>Comp. 25, ou</i> d’une lettre, PLUT. <i>Pyrrh. 6</i>.<p><b>Étym</b>. προσαγορεύω.`

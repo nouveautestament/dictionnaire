@@ -1,0 +1,1 @@
+lar[54788]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> pillard, brigand, HH. <i>Merc. 336</i>.<p><b>Étym</b>. κεραΐζω.`

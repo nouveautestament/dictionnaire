@@ -1,0 +1,1 @@
+lar[82860]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Porphyrios (Porphyre) :<br><b>      1</b> <i>philosophe néoplatonicien</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>9, 214, etc</i>.<p><b>Étym</b>. <i>v</i>. πορφύριος.`

@@ -1,0 +1,1 @@
+lar[91441]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> picarel, <i>petit poisson de mer,</i> ARSTT. <i>H.A. 8, 30, 5</i> ; OPP. <i>H. 1, 109, etc</i>.<p>➳ <font color="purple">[ᾱ]</font> M. SID. <i>97</i>.`

@@ -1,0 +1,1 @@
+lar[4827]=`<b>ἀλλοτριό·φυλος, ος, ον</b> <font color="purple">[ῡ]</font> d’une autre race, JOS. <i>A.J. 14, 16, 3</i>.<p><b>Étym</b>. ἀ. φῦλον.`

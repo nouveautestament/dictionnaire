@@ -1,0 +1,1 @@
+lar[49345]=`<b>Ἱππο·κλέης</b>, <i>p. contr</i>. <b>-κλῆς</b>, <i>gén</i>. <b>-κλέους (ὁ)</b> Hippokléès <i>ou</i> Hippoklès, <i>h</i>. THC. <i>8, 13, etc</i>.<p><b>Étym</b>. ἵ. κλέος.`

@@ -1,0 +1,1 @@
+lar[58603]=`<b>κυλικ·ηγορέω-ῶ</b> <font color="purple">[ῠῐ]</font> causer de boissons <i>ou</i> en buvant, PRATIN. (ATH. <i>461e, 480e</i>).<p><b>Étym</b>. κύλιξ, ἀγορεύω.`

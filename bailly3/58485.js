@@ -1,0 +1,1 @@
+lar[58485]=`<b>ή, όν</b>, qui concerne la gestation, CLÉM. <i>225</i>.<p><b>Étym</b>. κυέω.`

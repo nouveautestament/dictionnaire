@@ -1,0 +1,1 @@
+lar[75845]=`il faut longer la côte, STR. <i>591</i>.<p><b>Étym</b>. <i>vb. de</i> παραλέγομαι.`

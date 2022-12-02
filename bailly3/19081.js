@@ -1,0 +1,1 @@
+lar[19081]=`<b>ου (ὁ)</b> = <i>lat</i>. Varguntinus, <i>n. d’h. (conj</i>. βαργοντήϊος = <i>lat</i>. Vargunteius), PLUT. <i>Crass. 28</i>.`

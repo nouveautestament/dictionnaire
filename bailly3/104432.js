@@ -1,0 +1,1 @@
+lar[104432]=`<b>ὑψαυχενέω-ῶ</b>, dresser le cou, relever la tête, être hautain, fier, DH. <i>7, 46</i> ; PLUT. <i>M. 324e ;</i> EL. <i>N.A. 4, 29, etc</i>.<p><b>Étym</b>. ὑψαύχην.`

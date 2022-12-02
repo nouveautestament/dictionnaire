@@ -1,0 +1,1 @@
+lar[83797]=`<b>ῆς (ἡ)</b> vie antérieure, HIÉROCL. <i>de Provid. p. 172 Bekker</i>.<p><b>Étym</b>. προβιόω.`

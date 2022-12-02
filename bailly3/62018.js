@@ -1,0 +1,1 @@
+lar[62018]=`<b>λυσι·έθειρα, ας</b> <font color="purple">[ῡ]</font> aux cheveux dénoués <i>ou</i> épars, NONN. <i>D. 19, 329</i>.<p><b>Étym</b>. λύω, ἔ.`

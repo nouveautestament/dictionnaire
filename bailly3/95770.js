@@ -1,0 +1,1 @@
+lar[95770]=`<i>adv</i>., collectivement, ensemble, XÉN. <i>Œc. 11, 19</i>.<p><b>Étym</b>. συσκευάζω.`

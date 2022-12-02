@@ -1,0 +1,1 @@
+lar[106321]=`déprécier, PLUT. <i>Pomp. 38, M. 1118c, att. c</i>. φαυλίζω.<p><b>Étym</b>. φλαῦρος.`

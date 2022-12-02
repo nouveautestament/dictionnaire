@@ -1,0 +1,1 @@
+lar[10699]=`<b>ἀντ·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> employé à la place du nom, DYSC. <i>Pron. 262</i>.<p><b>Étym</b>. ἀντί, ὄνομα.`

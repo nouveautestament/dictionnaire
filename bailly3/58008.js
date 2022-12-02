@@ -1,0 +1,1 @@
+lar[58008]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>adj. m. c</i>. κρόκεος, PLUT. <i>M. 375e</i>.`

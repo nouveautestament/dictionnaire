@@ -1,0 +1,1 @@
+lar[78635]=`<b>περι·ηχέω-ῶ :<br>      1 <i>intr.</i></b> retentir tout autour, IL. <i>7, 267</i> ; τὴν οἰκίαν, PLUT. <i>M. 720d</i>, retentir autour de la maison, dans toute la maison.<br><b>      2 <i>tr.</i></b> faire retentir, célébrer ; <i>au pass</i>. être célébré, PHIL. BYBL. (EUS. <i>P.E. 39d</i>).`

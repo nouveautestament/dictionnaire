@@ -1,0 +1,1 @@
+lar[69644]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de ramasser du bois, <i>d’où</i> tas de bois, POL. <i>22, 22, 12</i> ; JOS. <i>B.J. 3, 5, 3</i>.<br><b>      2</b> construction en bois, POL. <i>3, 42, 3</i> ; CALLIX. (ATH. <i>204c</i>).<p><b>Étym</b>. ξύλον.`

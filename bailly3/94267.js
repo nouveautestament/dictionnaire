@@ -1,0 +1,1 @@
+lar[94267]=`<b>ας (ἡ)</b> qui enlace, ORPH. <i>H. 28, 9 dout</i>.<p><b>Étym</b>. συμπλέκω.`

@@ -1,0 +1,1 @@
+lar[104223]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> indolence, indifférence, ORIB. <i>71 Matthäi</i>.<p><b>Étym</b>. ὑπτιάζω.`

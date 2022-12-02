@@ -1,0 +1,1 @@
+lar[17881]=`<b>ἀ·φάνταστος, ος, ον :<br>      1</b> non imaginé, non imaginaire, PHIL. SEXT. <i>etc.</i><br><b>      2</b> sans imagination, SEXT. <i>M. 9, 114</i>.<p><b>Étym</b>. ἀ, φαντάζομαι.`

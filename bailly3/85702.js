@@ -1,0 +1,1 @@
+lar[85702]=`<b>προσ·επινύσσω</b>, piquer en outre, SOR. <i>Fract. p. 48 Cocch</i>.`

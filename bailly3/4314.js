@@ -1,0 +1,1 @@
+lar[4314]=`<b>ἀλευρίτης ἄρτος (ὁ)</b> <font color="purple">[ᾰῑ]</font> pain de farine de froment, DIPH. (ATH. <i>115c</i>).<p><b>Étym</b>. ἄλευρον.`

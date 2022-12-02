@@ -1,0 +1,1 @@
+lar[49511]=`<i>ou</i> <b>ἶσα</b>, <i>pl. neutre adv. de</i> ἴσος <i>ou</i> ἶσος, <i>v. ce mot</i>.`

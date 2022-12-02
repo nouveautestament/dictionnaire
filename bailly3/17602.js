@@ -1,0 +1,1 @@
+lar[17602]=`<b>ας (ἡ)</b> désertion d’un transfuge, THC. <i>7, 13 ; 8, 40 ; au plur</i>. THC. <i>1, 142</i> ; DH. <i>6, 22 et 51</i> ; PLUT. <i>Brut. 39</i>.<p><b>Étym</b>. αὐτόμολος.`

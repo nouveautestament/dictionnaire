@@ -1,0 +1,1 @@
+lar[63954]=`<font color="purple">[τῐ]</font> <i>adv</i>., par membres, par morceaux, IL. <i>24, 409</i> ; OD. <i>9, 291</i> ; A.RH. <i>2, 626</i>.<p><b>Étym</b>. μελεΐζω.`

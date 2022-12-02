@@ -1,0 +1,1 @@
+lar[73019]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. qui vit sous les toits, <i>fig</i>. AR. <i>Vesp. 206</i>.<p><b>Étym</b>. ὀροφή.`

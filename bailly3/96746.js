@@ -1,0 +1,1 @@
+lar[96746]=`<font color="purple">[ῠ]</font> <i>adv</i>., vers l’étable à porcs, OD. <i>10, 320</i>.<p><b>Étym</b>. συφεός, -δε.`

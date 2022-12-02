@@ -1,0 +1,1 @@
+lar[50740]=`<b>κακο·θάνατος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> qui meurt misérablement, PLUT. <i>M. 22c</i>.<p><b>Étym</b>. κ. θάνατος.`

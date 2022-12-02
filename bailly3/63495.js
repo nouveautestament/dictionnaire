@@ -1,0 +1,1 @@
+lar[63495]=`<font color="purple">[ᾰ]</font><br><b>      1</b> faire comme les Mégariens, AR. <i>Ach. 822</i>.<br><b>      2</b> suivre la doctrine du philosophe mégarien Stilpon, DL. <i>2, 11, 3</i>.<p><b>Étym</b>. Μέγαρα.`

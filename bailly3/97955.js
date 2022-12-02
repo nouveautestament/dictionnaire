@@ -1,0 +1,1 @@
+lar[97955]=`<b>ου (ὁ)</b> de Tégyres, <i>ép. d’Apollon,</i> PLUT. <i>Pel. 16</i>.<p><b>Étym</b>. Τεγύραι.`

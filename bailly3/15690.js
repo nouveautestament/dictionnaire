@@ -1,0 +1,1 @@
+lar[15690]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρ]</font> arôme, <i>d’où</i> plante aromatique, HPC. <i>Aph. 1254</i> ; XÉN. <i>An. 1, 5, 1, etc</i>.<p><b>Étym</b>. <i>Orig. inconnue, p.-ê. mot oriental</i>.`

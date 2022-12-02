@@ -1,0 +1,1 @@
+lar[72294]=`<i>adv</i>., avec des crises d’ὀπισθοτονία <i>ou</i> comme un malade atteint d’ὀπισθοτονία, DIOSC. <i>1, 72</i>.`

@@ -1,0 +1,1 @@
+lar[44707]=`<b>ζωη·φόρος, ος, ον</b>, qui apporte la vie, vivifiant, THÉM. <i>227d</i>.<p><b>Étym</b>. ζωή, φέρω.`

@@ -1,0 +1,1 @@
+lar[52981]=`<b>κατα·παγιδεύω</b> <font color="purple">[ᾰῐ]</font> enlacer dans un filet, <i>fig</i>. EUM. <i>p. 133</i>.`

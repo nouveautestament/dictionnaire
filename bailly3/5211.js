@@ -1,0 +1,1 @@
+lar[5211]=`<b>ἁμαξ·ήλατος, ος, ον</b> <font color="purple">[ᾰμλᾰ]</font> où l’on peut conduire des chariots : ἁ. ὁδός, EN. TACT. voie charretière.<p><b>Étym</b>. ἅμαξα, ἐλαύνω.`

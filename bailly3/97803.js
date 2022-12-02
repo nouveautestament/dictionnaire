@@ -1,0 +1,1 @@
+lar[97803]=`<b>ταυρο·σφάγος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui égorge les taureaux, LYC. <i>47</i>.<br><b>      2</b> où l’on immole un taureau <i>ou</i> des taureaux, SOPH. <i>Tr. 609</i>.<p><b>Étym</b>. τ. σφάττω.`

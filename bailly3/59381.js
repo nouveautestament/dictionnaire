@@ -1,0 +1,1 @@
+lar[59381]=`<b>λαγαρόω-ῶ</b> <font color="purple">[ᾰᾰ]</font> rendre mou ; <i>au pass</i>. devenir mou, dégeler, <i>en parl. d’un fleuve,</i> ANTH. <i>9, 56</i>.<p><b>Étym</b>. λαγαρός.`

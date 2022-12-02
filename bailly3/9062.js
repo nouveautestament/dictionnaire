@@ -1,0 +1,1 @@
+lar[9062]=`<b>ἀν·ίερος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> non consacré, ESCHL. <i>Ag. 220, 770</i> ; EUR. <i>Hipp. 147 ; d’où</i> impie, sacrilège, ESCHL. <i>Suppl. 757</i>.<br><b>      2</b> <i>p. suite,</i> illégitime, PLAT. <i>Rsp. 461b</i>.<p>➳ <i>Gén. pl. contr</i>. ἀνίρων, EUR. <i>l. c</i>.<p><b>Étym</b>. ἀν- ἱερός.`

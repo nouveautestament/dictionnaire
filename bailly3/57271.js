@@ -1,0 +1,1 @@
+lar[57271]=`<b>ας (ἡ)</b> cosmogonie, création du monde, CLÉM. <i>Str. 4, p. 475 ; titre d’un ouvrage de Parménide,</i> PLUT. <i>M. 756e</i>.<p><b>Étym</b>. κοσμογόνος.`

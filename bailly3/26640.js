@@ -1,0 +1,1 @@
+lar[26640]=`<b>δι·μέτωπος, ος, ον</b> <font color="purple">[ῐ]</font> à double front, <i>t. de tact</i>. APP. <i>Civ. 5, 33</i>.<p><b>Étym</b>. δίς, μέτωπον.`

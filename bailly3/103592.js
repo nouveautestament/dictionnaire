@@ -1,0 +1,1 @@
+lar[103592]=`être un peu nuageux, GAL. <i>19, 625</i>.<p><b>Étym</b>. ὑπονέφελος.`

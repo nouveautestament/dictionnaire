@@ -1,0 +1,1 @@
+lar[38354]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> instruction tardive, CORN. <i>18</i>.<p><b>Étym</b>. ἐπιμανθάνω.`

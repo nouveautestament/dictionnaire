@@ -1,0 +1,1 @@
+lar[45807]=`<i>adv</i>., comme Hèraklès, LUC. <i>Per. 33</i>.<p><b>Étym</b>. Ἡράκλειος.`

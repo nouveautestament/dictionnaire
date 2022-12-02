@@ -1,0 +1,1 @@
+lar[13466]=`<b>ἀπο·στρατεύομαι</b> <font color="purple">[ᾰτ]</font> se retirer du service : οἱ ἀπεστρατευμένοι, APP. <i>Civ. 5, 26,</i> les soldats congédiés <i>ou</i> émérites.`

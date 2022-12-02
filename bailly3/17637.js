@@ -1,0 +1,1 @@
+lar[17637]=`<b>αὐτό·πιστος, ος, ον</b>, croyable par soi-même, ŒNOM. (EUS. <i>P.E. 228d</i>) ; OLYMPIOD.<p><b>Étym</b>. αὐ. πιστός.`

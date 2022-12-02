@@ -1,0 +1,1 @@
+lar[50398]=`<b>καθ·ημερόω-ῶ</b>, adoucir, PORPH. <i>V. Pyth. 64 ; au moy</i>. s’adoucir, se calmer, Ps.-CALLISTH. (<i>Fabricii bibliotheca græca, t. 14, p. 148</i>).`

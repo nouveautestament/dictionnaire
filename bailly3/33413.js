@@ -1,0 +1,1 @@
+lar[33413]=`<b>ἐμ·περίοδος, ος, ον</b>, qui procède par périodes, <i>t. de rhét</i>. DH. <i>Comp. 9</i>.<p><b>Étym</b>. ἐν, π.`

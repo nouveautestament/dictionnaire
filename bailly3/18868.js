@@ -1,0 +1,1 @@
+lar[18868]=`<b>ας (ἡ) :<br>      1</b> bâton pour la marche, AR. <i>Ach. 682</i> ; THC. <i>8, 84</i> ; XÉN. <i>Hell. 6, 2, 19 ; etc.</i><br><b>      2</b> bâton, insigne de juge, DÉM. <i>298, 6</i> ; ARSTT. <i>fr. 420</i>.<p><b>Étym</b>. <i>cf</i>. βάκτρον.`

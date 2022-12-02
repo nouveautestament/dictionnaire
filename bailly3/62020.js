@@ -1,0 +1,1 @@
+lar[62020]=`<b>ου (ὁ)</b> <font color="purple">[ῡῐ]</font> Lysitheidès, <i>h</i>. DÉM. <i>565, 13</i> ; PLUT. <i>M. 575e, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Λυσίθεος.`

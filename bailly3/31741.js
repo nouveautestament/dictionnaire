@@ -1,0 +1,1 @@
+lar[31741]=`<b>ἐκ·ξυλόω-ῶ</b> <font color="purple">[ῠ]</font> changer en bois ; <i>au pass</i>. pousser tout en bois, TH. <i>H.P. 1, 2, 7</i>.<p><b>Étym</b>. ἐκ. ξύλον.`

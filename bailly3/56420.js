@@ -1,0 +1,1 @@
+lar[56420]=`<b>κοιλιο·λυτικός, ή, όν</b> <font color="purple">[ῠ]</font> qui relâche le ventre, laxatif, GEOP. <i>10, 51</i>.<p><b>Étym</b>. κοιλία, λύω.`

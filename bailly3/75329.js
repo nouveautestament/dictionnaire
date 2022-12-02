@@ -1,0 +1,1 @@
+lar[75329]=`<b>ῶν (οἱ)</b> les Paxes (<i>auj</i>. Páxi et Antípaxi, <i>ou</i> Paxos et Antípaxos) <i>n. de deux petites î. entre Corcyre et Leucade,</i> PLUT. <i>Def. or. 17</i>.`

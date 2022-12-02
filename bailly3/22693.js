@@ -1,0 +1,1 @@
+lar[22693]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> friperie, PHRYN. <i>(Bkk. 33) ; d’où</i> meuble de toilette de femme, chiffonnier, SAPPH. <i>(Bkk. 34</i>).<br><b>      2</b> sorte de petit poisson, GEOP. <i>20, 12, 2</i>.<p><b>Étym</b>. <i>Cf. lat</i>. gruta <i>et</i> scruta.`

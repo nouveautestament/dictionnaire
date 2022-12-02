@@ -1,0 +1,1 @@
+lar[47243]=`<b>θηρ·αρχία, ας (ἡ)</b> commandement d’une couple <i>ou</i> demi-section d’éléphants de guerre, EL. TACT. <i>23</i>.<p><b>Étym</b>. θήραρχος.`

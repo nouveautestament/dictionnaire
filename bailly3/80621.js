@@ -1,0 +1,1 @@
+lar[80621]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾱ]</font> = <i>lat</i>. Placianus, <i>n. d’h. rom</i>. ANTH. <i>9, 425</i>.`

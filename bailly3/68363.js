@@ -1,0 +1,1 @@
+lar[68363]=`<b>ή, όν</b>, qui souffre des nerfs, ANTYLL. <i>229</i>.<p><b>Étym</b>. νεῦρον.`

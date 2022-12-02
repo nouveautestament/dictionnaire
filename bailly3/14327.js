@@ -1,0 +1,1 @@
+lar[14327]=`<b>ιδος</b> <font color="purple">[ῠῑῐδ]</font> <i>adj. f</i>. qui contient de l’argent : γῆ ἀ. STR. <i>147 ou subst</i>. ἡ ἀ. XÉN. <i>Vect. 1, 5,</i> minerai mêlé d’argent ; <i>d’où</i> mine d’argent, XÉN. <i>Vect. 11, 4, 5</i> ; DÉM. <i>974, 28</i>.<p><b>Étym</b>. <i>v</i>. ἀργυρίτης.`

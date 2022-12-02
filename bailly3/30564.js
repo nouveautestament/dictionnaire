@@ -1,0 +1,1 @@
+lar[30564]=`<b>*εἰργάθω</b>, <i>ion</i>. <b>*ἐργάθω</b>, <i>épq</i>. <b>*ἐεργάθω</b> <font color="purple">[ᾰ]</font> <i>c</i>. εἴργω, <i>seul. prés. inf</i>. εἰργάθειν, SOPH. <i>El. 1271</i> ; EUR. <i>Ph. 1175 et impf. ion</i>. ἔργαθον, IL. <i>11, 437, épq</i>. ἐέργαθον, IL. <i>5, 147</i>.<p><b>Étym</b>. εἴργω.`

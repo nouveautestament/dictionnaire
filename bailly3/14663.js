@@ -1,0 +1,1 @@
+lar[14663]=`<b>ἀριστερό·μαχος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui combat de la main gauche, HERM. (STOB. <i>Ecl. 1, 992).</i><p><b>Étym</b>. ἀριστερός, μάχομαι.`

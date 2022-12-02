@@ -1,0 +1,1 @@
+lar[92250]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> semblable à un épi.<br><b>      2</b> qui tient des épis, <i>en parl. de la constellation de la Vierge, ou</i> à des épis, TH. <i>H.P. 1, 14, 2 ; 8, 3, 3</i> ; NONN. <i>D. 2, 655</i>.<p><b>Étym</b>. στάχυς, -ωδης.`

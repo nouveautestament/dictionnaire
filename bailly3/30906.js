@@ -1,0 +1,1 @@
+lar[30906]=`<b>*εἰσ·φλάω</b>, <i>ion</i>. <b>ἐσ·φλάω</b> <font color="darkgreen">(<i>ao. pass</i>. ἐσεφλάσθην)</font> enfoncer, HPC. <i>899f</i>.`

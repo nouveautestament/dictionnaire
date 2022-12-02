@@ -1,0 +1,1 @@
+lar[23270]=`<b>ητος (ὁ)</b> <font color="purple">[ᾰ]</font> Darès :<br><b>      1</b> <i>Troyen,</i> IL. <i>5, 9, etc.</i><br><b>      2</b> <i>poète phrygien,</i> EL. <i>V.H. 11, 2</i>.`

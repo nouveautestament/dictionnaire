@@ -1,0 +1,1 @@
+lar[20726]=`<b>βραχυ·σκελής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a les jambes courtes, ARSTT. <i>P.A. 4, 12, 1</i> ; GAL. <i>4, 343</i> ; GEOP. <i>19, 6</i>.<p><b>Étym</b>. βρ. σκέλος.`

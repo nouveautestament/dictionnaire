@@ -1,0 +1,1 @@
+lar[16686]=`<font color="purple">[τᾰᾰ]</font> <i>adv</i>., sans trouble, DS. <i>17, 54</i> ; JOS. DIOSC. <i>etc</i>.<p>•<i> Cp</i>. -ώτερον, ARR. <i>Epict. 4, 1, 47</i>.<p><b>Étym</b>. ἀτάραχος.`

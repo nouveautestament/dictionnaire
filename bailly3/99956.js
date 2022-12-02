@@ -1,0 +1,1 @@
+lar[99956]=`<b>ῶν (οἱ)</b> les Trauses, <i>pple de la chaîne du Rhodope,</i> HDT. <i>5, 3 et 4</i>.`

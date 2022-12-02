@@ -1,0 +1,1 @@
+lar[23656]=`<b>δεκα·έξ</b>, <i>indécl</i>. = ἑκκαίδεκα, seize, SPT. <i>Gen. 46, 18, etc.</i> ; ASCLÉP. EL.<p>➳ <i>Écrit en deux mots dans une inscr. att. de 355/346 av. J.-C. ; v. Meisterh. p. 127, 13</i>.`

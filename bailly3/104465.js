@@ -1,0 +1,1 @@
+lar[104465]=`<i>adv.</i> :<br><b>      1</b> en haut, PHÉRÉCR. (<i>Com. fr. 2, 276</i>).<br><b>      2</b> d’une manière élevée, NYSS.<p><b>Étym</b>. ὑψηλός.`

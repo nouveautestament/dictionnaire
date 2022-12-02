@@ -1,0 +1,1 @@
+lar[16666]=`<b>ἀ·τάλαντος, ος, ον</b> <font color="purple">[ᾰτᾰ]</font> égal en poids, égal <i>ou</i> semblable à, <i>dat</i>. IL. <i>2, 169 ; 5, 576, etc.</i> ; OD. <i>3, 110, 409</i> ; A.RH. <i>2, 40</i>.<p><b>Étym</b>. ἀ <i>cop</i>. τάλαντον.`

@@ -1,0 +1,1 @@
+lar[43192]=`<b>εὔ·ρινος, ος, ον</b> <font color="purple">[ῑ]</font> <i>c</i>. εὔριν SOPH. <i>Aj. 8</i> ; EL. <i>N.A. 2, 15, etc</i>.`

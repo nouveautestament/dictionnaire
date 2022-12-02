@@ -1,0 +1,1 @@
+lar[29120]=`<b>ΐδος</b>, <i>par contr</i>. <b>-ῇς, -ῇδος (ἡ)</b> <i>ion. p</i>. *δωδεκαΐς (<i>s.-e</i>. θυσία sacrifice de douze animaux, PORPH. <i>Abst. 1, 22</i>.<p><b>Étym</b>. δώδεκα.`

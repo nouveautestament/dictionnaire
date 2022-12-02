@@ -1,0 +1,1 @@
+lar[102943]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui fait aller <i>ou</i> qui purge par le bas, HPC. <i>Acut. 387, 514, 1</i>.<p><b>Étym</b>. ὑπελαύνω.`

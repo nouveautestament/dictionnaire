@@ -1,0 +1,1 @@
+lar[92468]=`<i>adv</i>., solidement, fermement, XÉN. <i>An. 3, 1, 22</i> ; LUC. <i>Macr. 8, au</i> <i>• Sup</i>. στερρότατα.<p><b>Étym</b>. στερρός.`

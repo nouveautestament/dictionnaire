@@ -1,0 +1,1 @@
+lar[19680]=`<i>gén. épq</i>. <b>αο (ὁ)</b> <font color="purple">[ῐῐᾰ]</font> le fils de Bias, A.RH.<p><b>Étym</b>. <i>patr. de</i> βίας.`

@@ -1,0 +1,1 @@
+lar[87859]=`<b>πυρί·γληνος, ος, ον</b> <font color="purple">[ῠ]</font> aux yeux enflammés, OPP. <i>C. 9, 37</i> ; ORPH. <i>Lith. 651, etc</i>.<p><b>Étym</b>. π. γλήνη.`

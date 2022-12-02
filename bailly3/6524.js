@@ -1,0 +1,1 @@
+lar[6524]=`<i>adv</i>., avec lenteur <i>ou</i> nonchalance, DH. <i>Dem. 54</i>.<p><b>Étym</b>. ἀναβάλλω.`

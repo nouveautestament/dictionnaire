@@ -1,0 +1,1 @@
+lar[43490]=`<i>adv</i>., droit au but, adroitement, avec justesse, XÉN. <i>Cyr. 1, 4, 8</i> ; LUC. <i>Prom. 2 ; fig</i>. PLAT. <i>Leg. 792d ;</i> ARSTT. <i>P.A. 1, 1, 1, etc</i>.<p>•<i> Sup</i>. -ώτατα, DC. <i>67, 14</i>.`

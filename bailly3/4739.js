@@ -1,0 +1,1 @@
+lar[4739]=`<b>ἀλληλο·μάχος, ος, ον</b> <font color="purple">[μᾰ]</font> qui se combattent l’un l’autre, ARSTT. <i>H.A. 9, 1, 26 conj</i>.<p><b>Étym</b>. ἀ., μάχομαι.`

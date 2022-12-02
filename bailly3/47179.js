@@ -1,0 +1,1 @@
+lar[47179]=`<b>θηλ·υδρίας, ου</b>, <i>adj. m</i>. efféminé, HDT. <i>7, 153</i> ; LUC. <i>D. deor. 5, 3 ; en parl. d’animaux,</i> ARSTT. <i>H.A. 9, 49, 3</i>.<p>➳ <i>Ion</i>. -ίης, HDT. <i>l. c</i>.<p><b>Étym</b>. θ. ὕδωρ.`

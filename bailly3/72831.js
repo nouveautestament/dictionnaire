@@ -1,0 +1,1 @@
+lar[72831]=`<b>οῦ (ὁ) :<br>   I</b> action de borner, de limiter, DH. <i>2, 74, etc.</i><br><b>   II</b> <i>fig.</i> :<br><b>      1</b> définition, ARSTT. <i>Nic. 8, 6 ; particul. t. de log. ou de gr</i>. ARSTT. <i>An. post. 2, 3, 3, etc.</i><br><b>      2</b> engagement précis, exacte obligation, PLUT. <i>Alex. 6, T. Gracch. 14, Ant. 58</i>.<p><b>Étym</b>. ὁρίζω.`

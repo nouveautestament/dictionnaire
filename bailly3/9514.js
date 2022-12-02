@@ -1,0 +1,1 @@
+lar[9514]=`<b>ἀντ·αποφαίνω</b>, exposer à son tour, THC. <i>3, 38, 67</i>.<br><b><i>Moy.</i></b> exposer en sens contraire, CLÉM. <i>891</i>.`

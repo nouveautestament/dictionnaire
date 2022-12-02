@@ -1,0 +1,1 @@
+lar[46737]=`<b>θεο·πέταστος, ος, ον</b>, déployé <i>ou</i> répandu par les dieux, POLÉM. <i>170</i>.<p><b>Étym</b>. θεός, πετάννυμι.`

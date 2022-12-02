@@ -1,0 +1,1 @@
+lar[19597]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> <i>béot. c</i>. γέφυρα, STRATT. <i>fr. 47</i>.`

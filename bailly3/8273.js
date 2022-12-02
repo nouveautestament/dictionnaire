@@ -1,0 +1,1 @@
+lar[8273]=`<i>adv</i>., sans qu’on puisse convaincre (qqn d’un crime dont on l’accuse) PLUT. <i>C. Gracch. 10</i>.`

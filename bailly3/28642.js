@@ -1,0 +1,1 @@
+lar[28642]=`<b>δυσ·μάχητος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à combattre, <i>Fr. lyr. adesp. 85 Bgk</i>.<p><b>Étym</b>. δ. μάχομαι.`

@@ -1,0 +1,1 @@
+lar[49362]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> supériorité par la cavalerie <i>ou</i> dans un combat de cavalerie, XÉN. <i>Cyr. 1, 4, 14</i>.<p><b>Étym</b>. ἱπποκρατέω.`

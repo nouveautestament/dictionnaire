@@ -1,0 +1,1 @@
+lar[59073]=`<b>κυψελό·βυστος, ος, ον</b>, dont les oreilles sont bouchées par la saleté, LUC. <i>Lex. 1</i>.<p><b>Étym</b>. κυψέλη, βύω.`

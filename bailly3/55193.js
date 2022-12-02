@@ -1,0 +1,1 @@
+lar[55193]=`<b>κηλο·τομία, ας (ἡ)</b> <font color="purple">[ῐ]</font> action d’opérer (<i>propr</i>. de couper) une tumeur, P. ÉG. <i>6, 63</i>.<p><b>Étym</b>. κήλη, τέμνω.`

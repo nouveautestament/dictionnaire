@@ -1,0 +1,1 @@
+lar[31036]=`<b>ἑκατοντά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰᾰ]</font> de cent coudées, JOS. <i>B.J. 2, 10, 2</i>.<p><b>Étym</b>. ἑ. πῆχυς.`

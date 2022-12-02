@@ -1,0 +1,1 @@
+lar[40071]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> souffrance, A. TR. <i>8, 444</i>.<p><b>Étym</b>. ἐπώδυνος.`

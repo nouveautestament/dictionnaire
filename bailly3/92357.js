@@ -1,0 +1,1 @@
+lar[92357]=`<b>στενό·βρογχος, ος, ον</b>, au col étroit, <i>en parl. d’un vase,</i> ARR. <i>Epict. 3, 9, 22</i>.<p><b>Étym</b>. στ. βρόγχος.`

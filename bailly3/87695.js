@@ -1,0 +1,1 @@
+lar[87695]=`<b>Πύλον·δε</b> <font color="purple">[ῠ]</font> <i>adv</i>., à Pylos, <i>avec mouv</i>. IL. <i>11, 760</i> ; OD. <i>3, 182</i>.<p><b>Étym</b>. Πύλος, -δε.`

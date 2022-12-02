@@ -1,0 +1,1 @@
+lar[40000]=`<b>ἑπτα·πάλαιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> de sept palmes, SEXT. <i>M. 9, 321</i>.<p><b>Étym</b>. ἑ. παλαιστή.`

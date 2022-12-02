@@ -1,0 +1,1 @@
+lar[18562]=`<b>(ὁ)</b> sorte de plante à épis, TH. <i>H.P. 7, 11, 2</i>.`

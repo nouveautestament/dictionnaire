@@ -1,0 +1,1 @@
+lar[10704]=`<b>ἀντ·ωπός, ός, όν :<br>      1</b> qui regarde en face, <i>d’où</i> placé en face, EUR. <i>I.A. 585</i> ; ANTH. <i>10, 14</i> ; LUC. <i>Im. 6</i>.<br><b>      2</b> <i>p. suite,</i> qui répond à, semblable à, OPP. <i>H. 5, 7</i>.<p><b>Étym</b>. ἀντί, ὤψ.`

@@ -1,0 +1,1 @@
+lar[77589]=`<b>πεζοπορέω-ῶ :<br>      1</b> voyager à pied, XÉN. <i>Hipp. 4, 1</i>.<br><b>      2</b> aller par terre, POL. <i>3, 68, 14</i> ; LUC. <i>Alex. 53</i>.<p><b>Étym</b>. πεζοπόρος.`

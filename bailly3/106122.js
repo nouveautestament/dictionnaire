@@ -1,0 +1,1 @@
+lar[106122]=`<b>φιλο·σώματος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime son corps, qui prend soin de sa personne, PLAT. <i>Phæd. 68b ;</i> PLUT. <i>M. 140b ;</i> τὸ φ. PLUT. <i>M. 593d, c</i>. φιλοσωματία.<p><b>Étym</b>. φ. σῶμα.`

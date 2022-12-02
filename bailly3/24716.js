@@ -1,0 +1,1 @@
+lar[24716]=`<b>εως (ἡ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> purification complète, PLAT. <i>Leg. 735d.</i><br><b>      2</b> émondage, TH. <i>H.P. 2, 7, 1 ; C.P. 2, 12, 6</i> ; CORN. <i>154</i>.<p><b>Étym</b>. διακαθαίρω.`

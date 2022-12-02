@@ -1,0 +1,1 @@
+lar[92374]=`<b>ητος (ἡ) :<br>      1</b> <i>pass</i>. étroitesse, HDT. <i>4, 85</i> ; THC. <i>4, 24 ; 7, 62</i> ; LYS. <i>193, 29 ; au plur</i>. ARSTT. <i>Meteor. 2, 1, 9</i>.<br><b>      2</b> <i>act</i>. action de rétrécir, de diminuer (les dépenses) JOS. <i>A.J. 19, 7, 5</i>.<p>➳ <i>Ion</i>. στεινότης, HDT. <i>l. c</i>.<p><b>Étym</b>. στενός.`

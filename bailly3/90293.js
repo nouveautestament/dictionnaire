@@ -1,0 +1,1 @@
+lar[90293]=`<b>ου (ὁ)</b> <font color="purple">[σῑῐκ]</font> = <i>lat</i>. Silicius, <i>n. d’h. rom</i>. PLUT. <i>Brut. 27</i>.`

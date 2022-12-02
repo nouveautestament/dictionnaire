@@ -1,0 +1,1 @@
+lar[65591]=`<i>ion</i>. <b>μηχανίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. μηχανή, SIB. <i>8, p. 709</i>.`

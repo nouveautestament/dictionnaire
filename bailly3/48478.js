@@ -1,0 +1,1 @@
+lar[48478]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> sueur, HPC. <i>132c</i> (<i>au plur</i>.).<br><b>      2</b> chaleur qui provoque la sueur, temps chaud, HÉS. <i>Sc. 397</i> ; DP. <i>966</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *sueid-, suer, <i>avec psilose ; cf</i>. ἰδίω, ἱδρώς, <i>lat</i>. sūdāre, <i>all</i>. schwitzen.`

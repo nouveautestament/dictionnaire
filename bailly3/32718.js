@@ -1,0 +1,1 @@
+lar[32718]=`<i>adv</i>., en homme libre, noblement, PLAT. <i>1 Alc. 135c</i>.`

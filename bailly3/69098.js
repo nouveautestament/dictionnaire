@@ -1,0 +1,1 @@
+lar[69098]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la nyctalopie, HPC. <i>1194a</i>.<p><b>Étym</b>. νυκτάλωψ.`

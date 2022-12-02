@@ -1,0 +1,1 @@
+lar[109853]=`<b>ου (τὸ)</b> <font color="purple">[ψῑ]</font> vigne-blanche, HPC. <i>889</i> h (<i>var</i>. ψίλωθρον).<p><b>Étym</b>. <i>cf</i>. ψίλωθρον.`

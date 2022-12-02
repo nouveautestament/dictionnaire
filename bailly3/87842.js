@@ -1,0 +1,1 @@
+lar[87842]=`<i>vb. de</i> πυριάω, ORIB. <i>p. 301 Matthäi</i>.`

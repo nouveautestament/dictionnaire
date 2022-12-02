@@ -1,0 +1,1 @@
+lar[17504]=`<b>αὐτο·κάθαρσις, εως (ἡ)</b> <font color="purple">[κᾰ]</font> la purification en soi, NAZ.`

@@ -1,0 +1,1 @@
+lar[36717]=`<b>ατος (τὸ)</b> amélioration, correction, PLAT. <i>Theæt. 183a ;</i> DÉM. <i>774, 20</i>.<p><b>Étym</b>. ἐπανορθόω.`

@@ -1,0 +1,1 @@
+lar[4295]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de moudre, GEOP. <i>2, 32, 1 ; 9, 19, 7</i>.<p><b>Étym</b>. ἀλέω.`

@@ -1,0 +1,1 @@
+lar[19367]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> renoncule, <i>plante,</i> HPC. <i>570, 43</i> ; DIOSC. <i>2, 206</i>.<br><b>      2</b> partie du sabot d’un cheval, PTOL.<p><b>Étym</b>. βάτραχος.`

@@ -1,0 +1,1 @@
+lar[81984]=`<b>πολυ·κήτης, ης, ες</b> <font color="purple">[ῠ]</font> abondant en poissons monstrueux, THCR. <i>Idyl. 17, 98</i>.<p><b>Étym</b>. π. κῆτος.`

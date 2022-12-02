@@ -1,0 +1,1 @@
+lar[107440]=`<b>φωτο·ποιός, ός, όν</b>, qui produit la lumière, JAMBL. <i>Protr. c. 21</i>.<p><b>Étym</b>. φῶς, ποιέω.`

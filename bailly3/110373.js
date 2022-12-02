@@ -1,0 +1,1 @@
+lar[110373]=`<b>ῆς (ἡ) :<br>      1</b> action de voir <i>ou</i> de regarder, vue, regard, A.RH. <i>3, 821</i>.<br><b>      2</b> air, aspect, NIC. <i>Al. 376, Th. 657</i>.<p><b>Étym</b>. ὤψ.`

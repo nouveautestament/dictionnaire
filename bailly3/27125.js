@@ -1,0 +1,1 @@
+lar[27125]=`<b>ορος</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui recherche, <i>gén</i>. OPP. <i>H. 2, 435</i> ; ANTH. <i>8, 230</i>.<p><b>Étym</b>. διφάω.`

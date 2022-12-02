@@ -1,0 +1,1 @@
+lar[19783]=`<b>ου (τὸ)</b> vie chétive, petite vie, AR. <i>Pl. 1165</i>.<p><b>Étym</b>. βίοτος.`

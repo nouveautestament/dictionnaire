@@ -1,0 +1,1 @@
+lar[103409]=`<b>ὑπο·κρατέω-ῶ</b> <font color="purple">[ᾰ]</font> prendre de la force en dessous, se souder à la partie supérieure, GAL. <i>14, 435</i>.`

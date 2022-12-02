@@ -1,0 +1,1 @@
+lar[85993]=`<b>προσ·κατέχω</b> <font color="darkgreen">(<i>f</i>. -καθέξω, <i>ao.2</i> -κατέσχον, <i>etc</i>.)</font> contenir <i>ou</i> maintenir en outre, <i>acc</i>. HPC. <i>Art. 798</i>.`

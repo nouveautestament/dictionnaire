@@ -1,0 +1,1 @@
+lar[51801]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Karinos, <i>h</i>. ANTH. <i>11, 336</i>.`

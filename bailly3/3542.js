@@ -1,0 +1,1 @@
+lar[3542]=`<b>ου (ὁ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> sorte de serpent (<i>lat</i>. jaculus) NIC. <i>Th. 491</i>.<br><b>      2</b> sorte de météore, PLIN. <i>H.N. 2, 23</i>.<p><b>Étym</b>. ἄκων¹.`

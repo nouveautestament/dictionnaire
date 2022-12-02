@@ -1,0 +1,1 @@
+lar[20891]=`<b>ίδος (ἡ) :<br>      1</b> petit lacet à nœud coulant, ANTH. <i>9, 76</i>.<br><b>      2</b> filet de pêche, OPP. <i>H. 3, 595</i>.<p><b>Étym</b>. βρόχος.`

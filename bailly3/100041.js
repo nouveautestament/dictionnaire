@@ -1,0 +1,1 @@
+lar[100041]=`<b>εως (ἡ) :<br>      1</b> action de trouer, de percer, PLAT. <i>Pol. 279e.</i><br><b>      2</b> trou, ARSTT. <i>H.A. 1, 16, 10</i>.<p><b>Étym</b>. τιτράω.`

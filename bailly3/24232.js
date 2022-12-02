@@ -1,0 +1,1 @@
+lar[24232]=`<b>οῦ (ὁ)</b> Dèmiourgos, <i>litt</i>. l’Artisan, <i>poète de l’Anthologie,</i> ANTH. <i>7, 52, titre</i>.<p><b>Étym</b>. <i>v</i>. δημιουργός.`

@@ -1,0 +1,1 @@
+lar[51868]=`<b>ος, ον :<br>      1</b> <i>act</i>. qui porte des fruits, fertile, ESCHL. <i>Pr. 453</i> ; EUR. <i>Or. 1086, etc.</i> ; TH. <i>H.P. 3, 2, 1 ; fig</i>. productif, AR. <i>Eq. 326</i>.<br><b>      2</b> <i>pass. subst</i>. τὰ κάρπιμα, AR. <i>Vesp. 264,</i> les biens de la terre.<p><b>Étym</b>. καρπός.`

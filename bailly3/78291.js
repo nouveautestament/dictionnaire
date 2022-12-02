@@ -1,0 +1,1 @@
+lar[78291]=`<b>ή, όν</b>, apte à accomplir, à achever, à conclure, AR. <i>Eq. 1378</i> ; π. λόγος, DL. <i>7, 78,</i> sorte de syllogisme.<p><b>Étym</b>. περαίνω.`

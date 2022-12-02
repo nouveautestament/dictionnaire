@@ -1,0 +1,1 @@
+lar[6849]=`<b>ή, όν</b>, destructif, ARSTT. <i>Rhet. 2, 8, 8 ; avec le gén</i>. PLUT. <i>M. 427e</i>.<p><b>Étym</b>. ἀναιρέω.`

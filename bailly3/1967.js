@@ -1,0 +1,1 @@
+lar[1967]=`<b>ἀ·θείαστος, ος, ον</b>, non inspiré par la divinité, PLUT. <i>Cor. 33</i>.<p><b>Étym</b>. ἀ, θειάζω.`

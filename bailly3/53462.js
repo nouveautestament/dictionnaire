@@ -1,0 +1,1 @@
+lar[53462]=`<b>κατα·στοιχειόω-ῶ</b>, réduire aux premiers éléments, EPIC. (DL. <i>10, 35</i>).`

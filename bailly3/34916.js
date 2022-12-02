@@ -1,0 +1,1 @@
+lar[34916]=`<b>ἔν·σαρκος, ος, ον :<br>      1</b> qui consiste en chair, PORPH. <i>Abst. 1, 1</i>.<br><b>      2</b> incarné, SIB. <i>5, 423</i>.<p><b>Étym</b>. ἐν, σάρξ.`

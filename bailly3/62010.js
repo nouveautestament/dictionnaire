@@ -1,0 +1,1 @@
+lar[62010]=`<b>λυσ·ήνωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> qui affaiblit <i>ou</i> épuise l’homme, TRIPHIOD. <i>449</i>.<p><b>Étym</b>. λύω, ἀνήρ.`

@@ -1,0 +1,1 @@
+lar[17588]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> de son propre mouvement, par sa propre impulsion, automatiquement, HÉRON <i>Aut. 265</i>.<br><b>      2</b> <i>p. ext</i>. de soi-même, spontanément, HDT. <i>2, 180</i> ; HPC. <i>Fract. 778</i> ; ARSTT. <i>G.A. 2, 6</i> ; THCR. <i>Idyl. 21, 27 ; etc</i>.`

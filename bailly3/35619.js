@@ -1,0 +1,1 @@
+lar[35619]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> mise en état, <i>particul</i>. montage (des faisceaux) d’une machine de jet, PHIL. BYZ. <i>Bel. p. 67</i>.<br><b>      2</b> adaptation, arrangement, <i>t. de mus</i>. CALLICRAT. <i>et</i> EURYPHAM. (STOB. <i>Fl. 102, 27, t. 4, p. 11, l. 16).</i><p><b>Étym</b>. ἐξαρτύω.`

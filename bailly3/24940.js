@@ -1,0 +1,1 @@
+lar[24940]=`<b>ή, όν</b>, qu’on peut distinguer, EPIC. (DL. <i>10, 57).</i><p><b>Étym</b>. <i>vb. de</i> διαλαμβάνω.`

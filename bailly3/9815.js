@@ -1,0 +1,1 @@
+lar[9815]=`<font color="purple">[δᾰ]</font> <i>vb. de</i> ἀντιδανείζω ARSTT. <i>Nic. 9, 2, 5</i>.`

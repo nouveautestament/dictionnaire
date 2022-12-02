@@ -1,0 +1,1 @@
+lar[89115]=`<b>ή, όν</b>, de Saïs, HDT. <i>2, 17</i> ; PLAT. <i>Tim. 21e, etc</i>.<p><b>Étym</b>. Σάϊς.`

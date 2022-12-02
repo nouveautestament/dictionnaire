@@ -1,0 +1,1 @@
+lar[4428]=`<b>ἁλί·βροχος, ος, ον</b> <font color="purple">[ᾰ]</font> baigné par la mer, A.RH. <i>2, 731</i>.<p><b>Étym</b>. ἅ. βρέχω.`

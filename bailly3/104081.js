@@ -1,0 +1,1 @@
+lar[104081]=`<i>adv</i>., avec obligeance, ARISTÉN. <i>1, 3</i>.`

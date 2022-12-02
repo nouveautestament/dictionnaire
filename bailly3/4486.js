@@ -1,0 +1,1 @@
+lar[4486]=`<b>ἁλί·κροτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui résonne du bruit de la mer, ALC.<p><b>Étym</b>. ἅ. κρότος.`

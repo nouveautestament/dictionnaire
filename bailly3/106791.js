@@ -1,0 +1,1 @@
+lar[106791]=`<b>Φρασι·κλῆς, έους (ὁ)</b> Phrasiklès, <i>h</i>. PLUT. <i>X orat. Lys. 1, Them. 32</i>.<p><b>Étym</b>. φράζω, κλέος.`

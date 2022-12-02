@@ -1,0 +1,1 @@
+lar[56283]=`<b>(ὁ)</b> <i>indécl</i>. Knèph, <i>dieu égyptien qu’on adorait sous la forme d’un serpent,</i> PLUT. <i>Is. et Os. 21</i>.`

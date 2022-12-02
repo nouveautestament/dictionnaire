@@ -1,0 +1,1 @@
+lar[78878]=`<b>περι·λευκαίνω</b>, blanchir tout autour, A. TAT. <i>1, 1</i>.`

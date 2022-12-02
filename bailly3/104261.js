@@ -1,0 +1,1 @@
+lar[104261]=`<b>ακος (ὁ)</b> Hyrpax, <i>fils de Borée,</i> Ps.-PLUT. <i>Fluv. 5, 3</i>.`

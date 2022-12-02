@@ -1,0 +1,1 @@
+lar[36261]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> changement en eau, MÉD.<br><b>      2</b> le déluge, ORIG. <i>1, 696a Migne</i>.<p><b>Étym</b>. ἐξυδατόω.`

@@ -1,0 +1,1 @@
+lar[89452]=`<b>σαρκο·ποιός, ός, όν</b>, qui forme de la chair, PLUT. <i>M. 771b</i>.<p><b>Étym</b>. σ. ποιέω.`

@@ -1,0 +1,1 @@
+lar[19752]=`<b>βιο·δότης, ου (ὁ)</b> qui donne la vie, PLAT. <i>Leg. 921a</i>.<p><b>Étym</b>. βίος, δίδωμι.`

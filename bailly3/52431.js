@@ -1,0 +1,1 @@
+lar[52431]=`<b>κατα·θωρακίζω</b> <font color="purple">[ᾱκ]</font> recouvrir entièrement d’une cuirasse, XÉN. <i>Cyr. 6, 2, 17</i>.`

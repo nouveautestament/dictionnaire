@@ -1,0 +1,1 @@
+lar[39516]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en courant, <i>d’où</i> rapidement, brièvement, IL. <i>3, 213</i> ; OD. <i>18, 26</i> ; MAN. <i>1, 11</i>.<p><b>Étym</b>. ἐπίτροχος, -δην.`

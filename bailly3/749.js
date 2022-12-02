@@ -1,0 +1,1 @@
+lar[749]=`<b>ας (ἡ) :<br>      1</b> pureté, chasteté, SOPH. <i>O.R. 864</i> ; ANTH. <i>App. 99, etc. ; d’où</i> état d’une âme pure, PLAT. <i>Leg. 909e.</i><br><b>      2</b> purification, Ps.-PHOCYL. <i>228</i> ; ISOCR. <i>225d, etc</i>.<p><b>Étym</b>. ἁγνεύω.`

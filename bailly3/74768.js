@@ -1,0 +1,1 @@
+lar[74768]=`<b>παμ·φαίνω</b> (<i>seul. prés. et impf</i>.) être tout brillant, <i>en parl. d’un astre,</i> IL. <i>5, 6</i> ; HÉS. <i>O. 565 ; de clous d’or,</i> IL. <i>11, 30 ; d’un bouclier,</i> IL. <i>14, 11, etc</i>.<p><b>Étym</b>. π. φαίνω <i>ou p.-ê. radical</i> φαν <i>redoublé ; cf</i>. παιπάλλω <i>de</i> πάλλω, παφλάζω <i>de</i> φλάζω.`

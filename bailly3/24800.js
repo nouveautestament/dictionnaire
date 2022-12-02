@@ -1,0 +1,1 @@
+lar[24800]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font> transport (dans un lieu) THC. <i>3, 76</i>.<p><b>Étym</b>. διακομίζω.`

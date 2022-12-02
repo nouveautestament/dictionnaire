@@ -1,0 +1,1 @@
+lar[8362]=`<i>adv</i>., sans inspiration, sans chaleur, PLUT. <i>M. 346b</i>.`

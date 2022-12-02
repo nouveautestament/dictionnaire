@@ -1,0 +1,1 @@
+lar[25194]=`<b>δια·παλύνω</b> <font color="purple">[πᾰῡ]</font> <font color="darkgreen">(<i>impf. 3 sg</i>. διεπάλυνε)</font> broyer, écraser, EUR. <i>Ph. 1159</i>.`

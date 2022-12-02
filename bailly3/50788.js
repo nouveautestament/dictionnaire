@@ -1,0 +1,1 @@
+lar[50788]=`<b>κακό·μοχθος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se donne une peine inutile, SPT. <i>Sap. 15, 8</i>.<p><b>Étym</b>. κ. μόχθος.`

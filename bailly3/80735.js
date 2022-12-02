@@ -1,0 +1,1 @@
+lar[80735]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>gros poisson de l’espèce</i> μύλλος, DOR. (ATH. <i>118c</i>).<br><b>      2</b> <i>autre nom du poisson</i> σαπέρδης, PARMÉN. RH. (ATH. <i>308f</i>).<p><b>Étym</b>. πλατύς.`

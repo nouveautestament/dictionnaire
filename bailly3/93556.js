@@ -1,0 +1,1 @@
+lar[93556]=`<b>οῦ (ὁ)</b> <font color="purple">[κῠ]</font> partenaire au jeu de dés, compagnon de jeu, ESCHN. <i>8, 41 ; 9, 6</i> ; DC. <i>45, 47 ; 59, 22</i>.<p><b>Étym</b>. συγκυβεύω.`

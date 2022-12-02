@@ -1,0 +1,1 @@
+lar[12548]=`<b>ἀπο·κερδαίνω</b>, tirer parti de, profiter de, AND. <i>17, 32</i> ; LUC. <i>D. mort. 4, 1</i> ; τινός, EUR. <i>Cycl. 432,</i> de qqe ch.<p>➳ <i>Ao. inf</i>. ἀποκερδᾶναι, LUC. <i>D. mort. 4, 1 ; ou</i> ἀποκερδῆσαι, SCH.-AR. <i>Pax 1094 ; part</i>. ἀποκερδήσας, HDN <i>6, 5, 8. Pf</i>. ἀποκεκέρδακα (<i>var</i>. -αγκα) DC. <i>43, 18</i>.`

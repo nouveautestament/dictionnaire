@@ -1,0 +1,1 @@
+lar[53702]=`<b>κατα·φυτουργέω-ῶ</b> <font color="purple">[ῠ]</font> faire des plantations, EUM. <i>p. 445</i>.`

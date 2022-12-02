@@ -1,0 +1,1 @@
+lar[104732]=`<b>φαλακρο·κόραξ, ακος (ὁ)</b> <font color="purple">[φᾰ]</font> cormoran (<i>litt</i>. corbeau chauve) <i>oiseau,</i> PLIN. <i>H.N. 10, 48, 68</i>.<p><b>Étym</b>. φαλακρός, κόραξ.`

@@ -1,0 +1,1 @@
+lar[35148]=`<b>ἐν·τρώγω</b> (<i>seul. ao.2</i> ἐνέτραγον, <i>d’où inf</i>. ἐντραγεῖν) avaler gloutonnement, <i>acc</i>. AR. <i>Vesp. 612 ; gén</i>. PLUT. <i>M. 279f ;</i> LUC. <i>M. cond. 24</i>.`

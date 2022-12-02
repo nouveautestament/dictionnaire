@@ -1,0 +1,1 @@
+lar[96128]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> colonisation, THC. <i>3, 3</i> ; ARR. <i>An. 1, 4</i>.<p><b>Étym</b>. συνοικίζω.`

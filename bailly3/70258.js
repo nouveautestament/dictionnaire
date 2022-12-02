@@ -1,0 +1,1 @@
+lar[70258]=`<b>ους (ὁ)</b> Œbarès, <i>Perse,</i> HDT. <i>3, 85 ; 6, 33</i> ; ESCHL. <i>Pers. 986</i>.<p>➳ <i>Voc</i>. Οἴβαρες, HDT. <i>3, 85 ; gén. ion</i>. -εος, HDT. <i>3, 88 ; dat. ion</i>. -εϊ, HDT. <i>6, 33 ; acc</i>. -ην, ESCHL. <i>l. c. ; ion</i>. -εα, HDT. <i>3, 86</i>.`

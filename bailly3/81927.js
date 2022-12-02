@@ -1,0 +1,1 @@
+lar[81927]=`<b>πολύ·θεστος, ος, ον</b> <font color="purple">[ῠ]</font> très désirable, <i>d’où</i> très cher, CALL. <i>Cer. 48</i>.<p><b>Étym</b>. π. θέσσασθαι.`

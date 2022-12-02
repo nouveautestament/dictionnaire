@@ -1,0 +1,1 @@
+lar[82327]=`<b>πολυ·ρραίστης, ου</b>, <i>adj. m</i>. grand dévastateur, OPP. <i>H. 1, 463</i>.<p><b>Étym</b>. π. ῥαίω.`

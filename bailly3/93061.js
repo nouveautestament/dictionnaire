@@ -1,0 +1,1 @@
+lar[93061]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> objet de haine, EUR. <i>Or. 480</i> ; BABR. <i>95, 62</i>.<p><b>Étym</b>. στυγέω.`

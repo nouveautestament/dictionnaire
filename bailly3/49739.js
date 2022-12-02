@@ -1,0 +1,1 @@
+lar[49739]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> <i>c</i>. ἰσοσθένεια, CLÉM. <i>2, 581 Migne</i>.`

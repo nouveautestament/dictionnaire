@@ -1,0 +1,1 @@
+lar[83459]=`<b>ῆς (ἡ)</b> l’art de scier, THÉM.<p><b>Étym</b>. πρίω.`

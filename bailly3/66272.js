@@ -1,0 +1,1 @@
+lar[66272]=`<b>ου (ὁ)</b> = <i>lat</i>. Moderatus, <i>n. d’h. rom</i>. PLUT. <i>Qu. conv. 8, 7, 1</i>.`

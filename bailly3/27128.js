@@ -1,0 +1,1 @@
+lar[27128]=`<b>η, ον</b>, de peau, de cuir, XÉN. <i>An. 2, 4, 28</i> ; STR. <i>155</i>.<p><b>Étym</b>. διφθέρα.`

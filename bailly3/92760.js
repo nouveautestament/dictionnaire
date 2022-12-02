@@ -1,0 +1,1 @@
+lar[92760]=`<b>υγγος (ἡ)</b> pointe, <i>particul.</i> :<br><b>   I</b> <i>en parl. d’animaux</i> :<br><b>      1</b> défense de sanglier, LYC. <i>492</i>.<br><b>      2</b> corne de cerf, ANTH. <i>6, 111</i>.<br><b>   II</b> pointe de terre, LYC. <i>761, 865, 1406</i>.<p><b>Étym</b>. στορέννυμι.`

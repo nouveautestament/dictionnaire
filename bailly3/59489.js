@@ -1,0 +1,1 @@
+lar[59489]=`<font color="purple">[ῐδ]</font> <i>adv. c</i>. λάθρᾳ, ANTH. <i>5, 127, 262</i>.`

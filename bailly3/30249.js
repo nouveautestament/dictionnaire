@@ -1,0 +1,1 @@
+lar[30249]=`<i>adv</i>., spécifiquement, DIOSC. <i>5, 85</i>.`

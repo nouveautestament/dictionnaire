@@ -1,0 +1,1 @@
+lar[88685]=`<b>α, ον</b>, de Rhodes, rhodien, IL. <i>2, 654 ; 7, 57</i> ; ἡ Ῥοδία, THC. <i>8, 44,</i> l’î. et la contrée de Rhodes ; οἱ Ῥόδιοι, THC. <i>8, 44, 55</i> ; XÉN. <i>Hell. 1, 5, 19, etc</i>. les Rhodiens.<p>➳ <i>Fém</i>. -ος, EL. <i>V.H. 1, 28, etc</i>.<p><b>Étym</b>. Ῥόδος.`

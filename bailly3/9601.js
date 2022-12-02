@@ -1,0 +1,1 @@
+lar[9601]=`<b>ἀντ·εναντίωσις, εως (ἡ)</b> affirmation sous forme de négation (<i>p. ex</i>. οὐκ ἐλάχιστα <i>pour</i> μέγιστα <i>ou</i> πλεῖστα) RHÉT. <i>8, 481 W</i>.`

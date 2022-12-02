@@ -1,0 +1,1 @@
+lar[30191]=`<b>οῦ (ὁ) :<br>      1</b> action d’accoutumer, ARSTT. <i>Nic. 1, 7, 21</i>.<br><b>      2</b> usage, coutume, ARSTT. <i>Pol. 7, 13, 12 au plur.</i> ; τὰ κατ' ἐθισμόν τινος, SPT. <i>Gen. 31, 35,</i> ce qui est habituel à qqn, ce qui se produit régulièrement chez qqn.<p><b>Étym</b>. ἐθίζω.`

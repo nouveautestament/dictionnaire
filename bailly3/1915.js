@@ -1,0 +1,1 @@
+lar[1915]=`<b>ἀ·ήσσητος</b>, <i>att</i>. <b>ἀ·ήττητος, ος, ον :<br>      1</b> non vaincu, THC. <i>6, 70</i> ; DÉM. <i>309, 17, etc.</i><br><b>      2</b> invincible, PLAT. <i>Rsp. 375b</i>.<p><b>Étym</b>. ἀ, ἡσσάομαι.`

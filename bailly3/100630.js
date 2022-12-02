@@ -1,0 +1,1 @@
+lar[100630]=`<b>τριχό·μαλλος, ος, ον</b> <font color="purple">[ῐ]</font> à l’épaisse toison, ANTH. <i>9, 150</i>.<p><b>Étym</b>. θρίξ, μαλλός.`

@@ -1,0 +1,1 @@
+lar[94546]=`<b>συν·αγραυλέω-ῶ</b>, vivre en pleins champs avec, <i>dat</i>. DH. <i>1, 39</i>.`

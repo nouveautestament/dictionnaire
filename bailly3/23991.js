@@ -1,0 +1,1 @@
+lar[23991]=`<b>δεσμό·λυτος, ος, ον</b> <font color="purple">[ῠ]</font> affranchi de ses liens, NAZ. <i>Christ. pat. 2529</i>.<p><b>Étym</b>. δ. λύω.`

@@ -1,0 +1,1 @@
+lar[108616]=`<b>έως (ὁ)</b> sorte d’oiseau de couleur jaunâtre, <i>p.-ê. le même que</i> χλωρίων, ARSTT. <i>H.A. 9, 1, 13 et 17</i> ; EL. <i>N.A. 5, 48</i>.`

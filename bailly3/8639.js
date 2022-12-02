@@ -1,0 +1,1 @@
+lar[8639]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῐᾰ]</font> cousin issu de germains, DÉM. <i>1088, 17</i> ; PHÉRÉCR. <i>et</i> HERMIPP. <i>(Bkk. 401, 18).</i><p><b>Étym</b>. ἀνεψιός.`

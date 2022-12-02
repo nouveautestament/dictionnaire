@@ -1,0 +1,1 @@
+lar[49798]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆ῡ]</font> parfaite ressemblance d’âme <i>ou</i> de sentiments, CHRYS. <i>6, 752</i>.<p><b>Étym</b>. ἰσόψυχος.`

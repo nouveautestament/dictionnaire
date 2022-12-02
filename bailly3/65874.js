@@ -1,0 +1,1 @@
+lar[65874]=`<b>μινθόω-ῶ :<br>      1</b> souiller d’excréments, AR. <i>Ran. 1075, etc.</i><br><b>      2</b> <i>c</i>. ἀποσκορακίζω, ARCHESTR. (ATH. <i>285b</i>).<p><b>Étym</b>. μίνθος.`

@@ -1,0 +1,1 @@
+lar[49597]=`<b>ης (ἡ)</b> Ismènè (Ismène) <i>fille d’Œdipe,</i> ESCHL. <i>Sept. 862</i> ; SOPH. <i>Ant. 1, etc</i>.`

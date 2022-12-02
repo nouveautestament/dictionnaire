@@ -1,0 +1,1 @@
+lar[63487]=`<b>ων (τὰ)</b> <font color="purple">[γᾰ]</font> Mégare (<i>auj</i>. Mégara) <i>v. de Grèce,</i> PD. <i>O. 7, 157, etc.</i> ; HDT. <i>5, 76, etc.</i> ; THC. <i>1, 103, etc.</i> ; XÉN. <i>Vect. 4, 46 ; Hell. 1, 1, 36, etc</i>.`

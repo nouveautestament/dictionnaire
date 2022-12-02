@@ -1,0 +1,1 @@
+lar[71977]=`<font color="purple">[ᾰ]</font> s’occuper de mots, GAL. <i>12, 93</i>.<p><b>Étym</b>. ὄνομα.`

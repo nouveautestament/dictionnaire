@@ -1,0 +1,1 @@
+lar[5309]=`<font color="purple">[μᾰ]</font> <i>adv. c</i>. ἀμαχεί, IL. <i>21, 437</i> ; HDT. <i>1, 174, etc</i>.<p><b>Étym</b>. ἀμάχητος.`

@@ -1,0 +1,1 @@
+lar[778]=`<b>ου (ἡ)</b> agnus-castus <i>ou</i> gattilier, <i>arbrisseau,</i> HH. <i>Merc. 410</i>.<p>➳ ὁ ἄγν. PLAT. <i>Phædr. 230b</i>.`

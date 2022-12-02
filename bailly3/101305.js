@@ -1,0 +1,1 @@
+lar[101305]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> fait de verre, AR. <i>Ach. 74</i> ; DAMOCR. (GAL. <i>14, 99</i>) ; PAUS. <i>2, 27, 3</i> ; LUC. <i>V.H. 1, 42</i>.<p><b>Étym</b>. ὕαλος.`

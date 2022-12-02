@@ -1,0 +1,1 @@
+lar[33996]=`<b>ἐν·αποτυπόω-ῶ</b> <font color="purple">[ῠ]</font> imprimer dans, <i>dat</i>. PLUT. <i>M. 3e</i>.`

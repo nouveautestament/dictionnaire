@@ -1,0 +1,1 @@
+lar[84879]=`<b>προ·παίζω</b> (<i>seul. prés</i>.) préluder, ANACR. <i>63, 3</i>.`

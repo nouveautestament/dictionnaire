@@ -1,0 +1,1 @@
+lar[17687]=`<b>αὐτό·σιτος, ος, ον</b> <font color="purple">[ῑ]</font> qui apporte sa propre nourriture (en guise d’écot), <i>p. opp. à</i> παράσιτος, CROBYL. (ATH. <i>47e</i>).<p><b>Étym</b>. αὐ. σῖτος.`

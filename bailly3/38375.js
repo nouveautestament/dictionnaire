@@ -1,0 +1,1 @@
+lar[38375]=`<b>ἐπι·μαστίδιος, ος, ον</b> <font color="purple">[ῐδ]</font> qui est à la mamelle, ESCHL. <i>Sept. 349</i> ; SOPH. <i>fr. 962</i> ; EUR. <i>I.T. 231</i> ; LUC. <i>Tox. 61</i>.<p><b>Étym</b>. ἐπί, μαστός.`

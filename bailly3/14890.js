@@ -1,0 +1,1 @@
+lar[14890]=`<b>ου (ὁ) :<br>      1</b> Arménios, <i>ou</i> « l’Arménien » <i>h</i>. ALCIPHR. <i>1, 13</i>.<br><b>      2</b> Arminius, <i>chef germain,</i> STR. <i>291, 292</i>.`

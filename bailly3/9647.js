@@ -1,0 +1,1 @@
+lar[9647]=`<b>ἀντ·επηχέω-ῶ</b>, étourdir de bruit <i>ou</i> de cris, LUC. <i>Cat. 19</i>.`

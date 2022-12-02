@@ -1,0 +1,1 @@
+lar[78816]=`<b>περι·κόσμιος, ος, ον</b>, qui embrasse l’univers, JAMBL. <i>Myst. 67, 12</i>.<p>➳ <i>Fém</i>. -α, SYN. <i>p. 317c</i>.<p><b>Étym</b>. π. κόσμος.`

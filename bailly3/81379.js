@@ -1,0 +1,1 @@
+lar[81379]=`<b>ίδος (ἡ)</b> <font color="purple">[κῐῐδ]</font> <i>sorte d’oiseau tacheté, p.-ê</i>. le chardonneret, ARSTT. <i>H.A. 9, 1, 13</i>.<p><b>Étym</b>. ποικίλος.`

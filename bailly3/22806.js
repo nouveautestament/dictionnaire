@@ -1,0 +1,1 @@
+lar[22806]=`<b>γυναικομανέω-ῶ</b> <font color="purple">[ῠᾰ]</font> avoir pour les femmes une passion folle, AR. <i>Th. 576</i>.<p><b>Étym</b>. γυναικομανής.`

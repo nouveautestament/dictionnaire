@@ -1,0 +1,1 @@
+lar[95288]=`<b>συν·είμαρμαι</b>, <i>seul. 3 sg</i>. συνείμαρται, ARSTD. <i>t. 1, 571,</i> c’est en même temps la volonté du destin que, <i>etc.</i> ; τὰ συνειμαρμένα, PLUT. <i>M. 569e</i>, événements qui dépendent du destin.`

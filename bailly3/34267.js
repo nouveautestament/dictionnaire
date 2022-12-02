@@ -1,0 +1,1 @@
+lar[34267]=`<b>ἕν·δυο</b>, <i>adv</i>., vite (<i>litt</i>. une ! deux !) MÉN. <i>198 Kock</i>.<p><b>Étym</b>. ἕν, δύο.`

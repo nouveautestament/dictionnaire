@@ -1,0 +1,1 @@
+lar[98190]=`<b>εως (ἡ)</b> vertu <i>ou</i> puissance de mener à terme, de faire parvenir à maturité, M. TYR. <i>16, 4</i> ; CHRYS. <i>1, 28</i>.<p><b>Étym</b>. τελεσφορέω.`

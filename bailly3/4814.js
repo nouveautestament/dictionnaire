@@ -1,0 +1,1 @@
+lar[4814]=`<b>ἀλλοτριό·γνωμος, ος, ον</b>, qui a autre chose dans l’esprit, CRAT. <i>(Bkk. 385).</i><p><b>Étym</b>. ἄ. γνώμη.`

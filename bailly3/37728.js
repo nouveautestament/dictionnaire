@@ -1,0 +1,1 @@
+lar[37728]=`<font color="purple">[ᾰ]</font> <i>adv</i>., violemment, IL. <i>9, 516</i> ; OD. <i>6, 330</i> ; HH. <i>Merc. 487</i>.<p><b>Étym</b>. *ἐπιζαφελής, <i>c</i>. ἐπιζάφελος.`

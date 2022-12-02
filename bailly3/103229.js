@@ -1,0 +1,1 @@
+lar[103229]=`<b>εως (ἡ)</b> subordination, <i>sorte de figure de rhétorique,</i> CHARIS. DIOM.<p><b>Étym</b>. ὑποζεύγνυμι.`

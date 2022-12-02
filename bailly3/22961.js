@@ -1,0 +1,1 @@
+lar[22961]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qu’on peut <i>ou</i> qu’il faut faire périr, ORPH. <i>Arg. 974</i>.<p><b>Étym</b>. <i>vb. de</i> δαΐζω.`

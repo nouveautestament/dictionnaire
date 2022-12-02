@@ -1,0 +1,1 @@
+lar[20224]=`<b>βορεί·γονοι, ων (οἱ)</b> <i>litt</i>. les hommes du Nord, les Aborigènes, LYC. <i>1253</i>.<p><b>Étym</b>. βορέας, γίγνομαι.`

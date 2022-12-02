@@ -1,0 +1,1 @@
+lar[69117]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> chauve-souris, OD. <i>12, 433 ; 24, 6</i> ; HDT. <i>2, 76, etc.</i> ; XÉN. <i>Hell. 4, 7, 6</i> ; PLUT. <i>M. 567e ;</i> LUC. <i>Dips. 3</i>.<br><b>      2</b> autre n. du poisson ἡμεροκοίτης, OPP. <i>H. 2, 200, 205</i>.<p><b>Étym</b>. νύξ.`

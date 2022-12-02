@@ -1,0 +1,1 @@
+lar[75740]=`<b>παρα·κλέπτω</b>, prendre à la dérobée, en passant, AR. <i>Pax 414</i> ; LUC. <i>J. voc. 4 ; au pass</i>. IS. <i>88, 33</i>.`

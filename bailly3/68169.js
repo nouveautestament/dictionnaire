@@ -1,0 +1,1 @@
+lar[68169]=`<b>νεό·κμητος, ος, ον :<br>      1</b> récemment travaillé, <i>d’où</i> récent, NIC. <i>Th. 498</i>.<br><b>      2</b> qui vient d’être tué, EUR. <i>Rhes. 887</i>.<p><b>Étym</b>. ν. κάμνω.`

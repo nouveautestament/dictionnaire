@@ -1,0 +1,1 @@
+lar[76563]=`<b>ου (ὁ)</b> <font color="purple">[πᾰ]</font> serpent joufflu consacré à Asklèpios, CRAT. (<i>Com. fr. 2, 143</i>) ; AR. <i>Pl. 690</i> ; DÉM. <i>313, 25</i>.<p><b>Étym</b>. παρειά.`

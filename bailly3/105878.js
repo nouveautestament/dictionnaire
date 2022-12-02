@@ -1,0 +1,1 @@
+lar[105878]=`<b>φιλό·κυνος, ος, ον</b> <font color="purple">[ῐῠ]</font> <i>c</i>. φιλοκύων, ADAM. <i>Physiogn. 1, 339</i>.`

@@ -1,0 +1,1 @@
+lar[98062]=`<b>τεκνο·δαίτης, ου (ὁ)</b> qui mange ses enfants, ORACL. (PAUS. <i>8, 42, 6).</i><p><b>Étym</b>. τ. δαίνυμι.`

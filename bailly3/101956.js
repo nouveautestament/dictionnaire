@@ -1,0 +1,1 @@
+lar[101956]=`<b>ὑπ·ανατέλλω</b> <font color="purple">[ῠᾰᾰ]</font> s’élever de dessous, sourdre, EL. <i>N.A. 15, 4</i>.<br><b><i>Moy.</i></b> s’élever imperceptiblement, NAZ. <i>Carm. 3, 304</i>.`

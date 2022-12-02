@@ -1,0 +1,1 @@
+lar[80371]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> boisson fermentée, sorte de bière, ARSTT. (ATH. <i>447c</i>).`

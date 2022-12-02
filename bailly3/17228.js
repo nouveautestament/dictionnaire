@@ -1,0 +1,1 @@
+lar[17228]=`<b>αὐλ·ῳδός, οῦ (ὁ)</b> celui qui pratique l’aulodie, <i>prob. le chanteur,</i> PAUS. PLUT. <i>M. 149f ; etc</i>.<p><b>Étym</b>. αὐλός, ᾠδή.`

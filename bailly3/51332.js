@@ -1,0 +1,1 @@
+lar[51332]=`<b>καλυβο·ποιΐα, ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> construction de cabane, STR. <i>726</i>.<p><b>Étym</b>. καλύβη, -ποιος <i>de</i> ποιέω.`

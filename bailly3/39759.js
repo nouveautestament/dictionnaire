@@ -1,0 +1,1 @@
+lar[39759]=`<b>ατος (τὸ)</b> raclure, <i>d’où</i> écume de mer, DIOSC. <i>5, 127</i>.<p><b>Étym</b>. ἐπί, ψήχω.`

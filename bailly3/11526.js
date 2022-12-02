@@ -1,0 +1,1 @@
+lar[11526]=`<i>adv</i>., avec désobéissance, PLAT. <i>Rsp. 391b ;</i> EL. <i>N.A. 2, 11</i>.<p>•<i> Cp</i>. ἀπειθέστερον, PHIL. <i>2, 393</i>.<p><b>Étym</b>. ἀπειθής.`

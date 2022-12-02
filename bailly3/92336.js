@@ -1,0 +1,1 @@
+lar[92336]=`<b>ῶν (αἱ)</b> larges sangles pour les chiens de chasse, XÉN. <i>Cyn. 6, 1</i>.<p><b>Étym</b>. στέλλω.`

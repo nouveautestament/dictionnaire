@@ -1,0 +1,1 @@
+lar[80439]=`<b>ήεσσα, ῆεν :<br>      1</b> de poix, MAN. <i>4, 346</i>.<br><b>      2</b> qui a la couleur de la poix, NIC. <i>Th. 716</i>.<p><b>Étym</b>. πίσσα.`

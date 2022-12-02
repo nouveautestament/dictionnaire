@@ -1,0 +1,1 @@
+lar[86414]=`<b>προσ·στερνίζομαι</b>, presser contre sa poitrine, JOS. <i>A.J. 2, 9, 7</i> ; LGS <i>4, 23, etc</i>.<p><b>Étym</b>. π. στέρνον.`

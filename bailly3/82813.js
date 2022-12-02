@@ -1,0 +1,1 @@
+lar[82813]=`<b>πορνο·διδάσκαλος, ου (ὁ, ἡ)</b> <font color="purple">[ῐκᾰ]</font> maître <i>ou</i> maîtresse de prostitution, ARISTÉN. <i>1, 14</i>.`

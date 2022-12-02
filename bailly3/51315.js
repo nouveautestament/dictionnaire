@@ -1,0 +1,1 @@
+lar[51315]=`aller au trot, HIPPIATR. <i>p. 120, 128 ; ou sel</i>. EUST. <i>v°</i> καλπάζειν, au galop.<p><b>Étym</b>. κάλπη.`

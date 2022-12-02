@@ -1,0 +1,1 @@
+lar[76893]=`<b>ας (ἡ)</b> virginité, PD. <i>I. 8, 94</i> ; ESCHL. <i>Pr. 898</i> ; PLUT. <i>Brut. 13, etc. ; en parl. d’hommes,</i> A. TAT. <i>5, 20</i>.<p>➳ <i>Ion</i>. παρθενίη, A.RH. <i>2, 502</i>.<p><b>Étym</b>. παρθένος.`

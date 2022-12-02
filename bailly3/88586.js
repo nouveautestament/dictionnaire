@@ -1,0 +1,1 @@
+lar[88586]=`<b>ῥινάω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> limer : ψῆγμα ῥινηθέν, ANTH. <i>9, 310,</i> limaille.<br><b>      2</b> affiner avec la lime <i>ou</i> comme avec la lime, <i>d’où</i> limer, affiner, ARSTT. <i>Aud. 35 et 45</i> ; EL. <i>N.A. 6, 3 ; fig</i>. DH. <i>Thuc. 24</i>.<p><b>Étym</b>. ῥίνη.`

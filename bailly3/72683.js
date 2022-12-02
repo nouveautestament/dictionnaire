@@ -1,0 +1,1 @@
+lar[72683]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> partie inférieure d’un mât, EPICH. (POLL. <i>10, 134).</i><p><b>Étym</b>. ὄρθιος.`

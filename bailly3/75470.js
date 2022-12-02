@@ -1,0 +1,1 @@
+lar[75470]=`<b>παρα·γυμνόω-ῶ :<br>      1</b> mettre à nu, <i>acc</i>. DC. <i>49, 6</i>.<br><b>      2</b> <i>fig</i>. dévoiler, révéler, <i>acc</i>. HDT. <i>1, 126, etc. ; au pass</i>. POL. <i>1, 80, 9, etc</i>.`

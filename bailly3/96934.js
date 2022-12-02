@@ -1,0 +1,1 @@
+lar[96934]=`<b>ων (αἱ)</b> <font color="purple">[ᾱῑῐ]</font> les nymphes de Sphragidion, <i>càd</i>. du Cithéron, PLUT. <i>Arist. 11, 19, etc</i>.`

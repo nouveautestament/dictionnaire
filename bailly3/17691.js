@@ -1,0 +1,1 @@
+lar[17691]=`<b>αὐτό·σκωμμα, ατος (τὸ)</b> pure plaisanterie, ALCIPHR. <i>3, 43, 2 conj</i>.`

@@ -1,0 +1,1 @@
+lar[70413]=`<b>οἰκό·τροφος, ος, ον</b>, nourri <i>ou</i> élevé à la maison, D. CHR. <i>1, 202</i>.<p><b>Étym</b>. οἶκ. τρέφω.`

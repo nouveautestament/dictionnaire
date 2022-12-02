@@ -1,0 +1,1 @@
+lar[72638]=`<b>ὀρέσ·κοος, οος, οον</b>, qui a son gîte <i>ou</i> qui réside dans les montagnes, ESCHL. <i>Sept. 532</i> ; EUR. <i>Hipp. 1277 ; Cycl. 247</i>.<p><b>Étym</b>. ὄρος, κο- <i>pour</i> κου-, <i>de</i> *κοϝ-, κυϝ-; <i>cf</i>. ὀρεσκεύω.`

@@ -1,0 +1,1 @@
+lar[34943]=`<b>ἐν·σοφιστεύω</b>, s’insinuer habilement dans, <i>dat</i>. PHIL. <i>1, 315, 367, etc</i>.`

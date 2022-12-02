@@ -1,0 +1,1 @@
+lar[104476]=`<b>ὑψι·βόας, ου (ὁ)</b> <font color="purple">[ῐᾱ]</font> Crie-haut <i>ou</i> Crie-fort, <i>n. d’une grenouille,</i> BATR. <i>205</i>.<p><b>Étym</b>. ὕψι, βοάω.`

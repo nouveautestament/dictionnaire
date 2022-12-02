@@ -1,0 +1,1 @@
+lar[36080]=`<b>ἐξ·οικειόω-ῶ</b>, rendre familier : ἑαυτῷ τι, M. ANT. <i>10, 31,</i> se familiariser avec qqe ch. ; <i>d’où au pass</i>. ἐξοικειοῦσθαί τινι, PLUT. <i>M. 649e</i>, s’introduire dans la familiarité de qqn.<br><b><i>Moy.</i></b> admettre dans sa familiarité, se concilier, <i>acc</i>. STR. <i>184, 250</i>.`

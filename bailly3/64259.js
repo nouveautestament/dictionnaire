@@ -1,0 +1,1 @@
+lar[64259]=`<i>pf. de</i> *μένω, désirer, <i>et pf.2 de</i> μένω, rester.`

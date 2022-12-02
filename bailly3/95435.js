@@ -1,0 +1,1 @@
+lar[95435]=`<b>συν·εκφοιτάω-ῶ</b>, venir habituellement avec, fréquenter avec, THÉM. <i>304b</i>.`

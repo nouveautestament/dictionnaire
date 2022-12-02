@@ -1,0 +1,1 @@
+lar[73547]=`<b>ου (ὁ)</b> <i>forme crét. (lat</i>. Ulixes) Ulysse, PLUT. <i>Marc. 10</i>.<p><b>Étym</b>. <i>v</i>. Ὀδυσσεύς.`

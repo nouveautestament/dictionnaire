@@ -1,0 +1,1 @@
+lar[52204]=`<b>ος, ον</b> <font color="purple">[λᾰῐ]</font> tout à fait risible, PLAUT. <i>Stich. 4, 2, 50</i>.<p><b>Étym</b>. καταγελάω.`

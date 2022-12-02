@@ -1,0 +1,1 @@
+lar[104422]=`<b>ὕφ·ορμος, ου (ὁ)</b> mouillage, station pour les navires, ARSTT. <i>H.A. 5, 9, 2</i> ; STR. <i>252, 635, etc. ; adj.</i> : ὕφ. αἰγιαλός, STR. <i>645, ou</i> τόπος, E. BYZ. <i>v°</i> λιμήν, littoral <i>ou</i> lieu propre au mouillage.<p><b>Étym</b>. ὑ. ὅρμος.`

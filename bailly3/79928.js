@@ -1,0 +1,1 @@
+lar[79928]=`<b>ῆνος (ὁ)</b> qui se renseigne, espion, LUC. <i>Phal. 1, 10 ; Alex. 23, 37, etc</i>.<p><b>Étym</b>. πυνθάνομαι.`

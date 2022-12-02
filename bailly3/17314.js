@@ -1,0 +1,1 @@
+lar[17314]=`<b>αὐτ·άγγελτος, ος, ον</b>, qui annonce <i>ou</i> s’annonce de soi-même, BAS. <i>2, 956d</i>.<p><b>Étym</b>. αὐτός, ἀγγέλλω.`

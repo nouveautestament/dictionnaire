@@ -1,0 +1,1 @@
+lar[81289]=`<b>ποδο·κάκη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> entraves de bois, DÉM. <i>733, 6</i> ; LYS. <i>117, 32 (loi) etc</i>.<p><b>Étym</b>. πούς, κακός.`

@@ -1,0 +1,1 @@
+lar[26258]=`<b>διερεθιστικός, ή, όν</b>, excitant, irritant, HÉRODOTUS (ORIB. <i>1, 424, 2, B.-Dar</i>.).<p><b>Étym</b>. διερεθίζω.`

@@ -1,0 +1,1 @@
+lar[17259]=`<b>αὐξι·φαής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui accroît la lumière, MAN. <i>5, 174 et 257</i>.<p><b>Étym</b>. αὔξω, φάος.`

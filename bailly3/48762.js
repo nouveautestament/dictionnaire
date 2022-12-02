@@ -1,0 +1,1 @@
+lar[48762]=`<b>ητος (ἡ)</b> <font color="purple">[ῑῠ]</font> direction en droite ligne, ARÉT. <i>Cur. m. acut. 2, 6</i>.<p><b>Étym</b>. ἰθύς.`

@@ -1,0 +1,1 @@
+lar[21897]=`<i>ou</i> <b>γεωφάνιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> lieu, à Samos, d’où l’on tirait une sorte d’ocre, DIN. (HARP.) ; POLL. <i>7, 99, etc</i>.<p><b>Étym</b>. γεωφανής.`

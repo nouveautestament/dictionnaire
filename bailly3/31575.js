@@ -1,0 +1,1 @@
+lar[31575]=`<b>α, ον</b>, <i>vb. de</i> ἐκλέγω, PLAT. <i>Rsp. 456b, 536c ; au neutre, Leg. 809b</i>.`

@@ -1,0 +1,1 @@
+lar[23619]=`<b>άδος (ἡ) :<br>      1</b> cou, OPP. <i>C. 1, 180</i>.<br><b>      2</b> dos d’une montagne, <i>d’où</i> chaîne de montagnes (<i>cf</i>. αὐχήν <i>et</i> λόφος) HH. <i>Ap. 281</i> ; PD. <i>O. 8, 52 ; I. 1, 10 ; au pl</i>. SOPH. <i>Ant. 832 (avec allus. au cou de Niobé).</i><p><b>Étym</b>. <i>p.-ê. pré-grec ; cf</i>. δειρή.`

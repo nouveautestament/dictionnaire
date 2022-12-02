@@ -1,0 +1,1 @@
+lar[43605]=`<i>adv</i>., avec assurance, courageusement, TYRT. <i>12</i> ; ESCHL. <i>Ag. 1298</i> ; DS. <i>3, 136 ; 5, 125</i>.<p>•<i> Cp</i>. -ότερον, PLUT. <i>Sol. 14</i>.`

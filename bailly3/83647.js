@@ -1,0 +1,1 @@
+lar[83647]=`<b>προ·αποκαλύπτω</b> <font color="purple">[κᾰ]</font> dévoiler d’avance, CHRYS.`

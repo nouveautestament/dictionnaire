@@ -1,0 +1,1 @@
+lar[109569]=`<b>ου (ὁ)</b> Psammétikhos (Psammétique) :<br><b>      1</b> <i>roi d’Égypte,</i> HDT. <i>1, 105 ; 2, 2, etc.</i><br><b>      2</b> <i>autre,</i> HDT. <i>7, 7</i> ; THC. <i>1, 104</i>.`

@@ -1,0 +1,1 @@
+lar[81556]=`<b>πολί·αρχος, ου (ὁ) :<br>      1</b> chef d’une ville, PD. <i>N. 7, 125</i> ; EUR. <i>Rhes. 381</i>.<br><b>      2</b> <i>à Rome,</i> préfet de la ville, DC. <i>40, 46 ; 41, 14 ; 52, 33</i>.<p><b>Étym</b>. πόλις, ἄρχω.`

@@ -1,0 +1,1 @@
+lar[7025]=`<b>α, ον</b> <font color="purple">[ᾰν]</font> royal, A. PL. <i>336</i>.<p><b>Étym</b>. ἀνάκτωρ.`

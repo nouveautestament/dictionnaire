@@ -1,0 +1,1 @@
+lar[13919]=`<b>ἀ·προνοήτως</b>, <i>adv.</i> :<br><b>      1</b> sans prévoyance, sans réflexion, imprudemment, XÉN. <i>Cyr. 1, 4, 21, etc.</i><br><b>      2</b> sans intervention de la Providence, SEXT. <i>P. 1, 151</i>.`

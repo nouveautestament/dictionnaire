@@ -1,0 +1,1 @@
+lar[41678]=`<b>εὐ·αφήγητος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à exposer, à décrire, DC. <i>42, 26</i>.<p>➳ <i>Ion</i>. εὐαπήγητος, HDT. <i>7, 63</i>.<p><b>Étym</b>. εὖ, ἀφηγέομαι.`

@@ -1,0 +1,1 @@
+lar[83703]=`<b>προ·άπτω</b>, allumer d’abord <i>ou</i> auparavant, HLD. <i>1, 12</i>.`

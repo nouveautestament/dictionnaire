@@ -1,0 +1,1 @@
+lar[56530]=`<i>ion</i>. <b>κοιρανίη, ης (ἡ)</b> <font color="purple">[ρᾰ]</font> puissance souveraine, domination, empire, DP. <i>464</i> ; A. PL. <i>5, 358</i>.<p><b>Étym</b>. κοίρανος.`

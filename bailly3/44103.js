@@ -1,0 +1,1 @@
+lar[44103]=`<b>οῦ (ὁ)</b> qui fait une ronde de surveillance, AQU. <i>Gen. 42, 9</i>.<p><b>Étym</b>. ἐφοδεύω.`

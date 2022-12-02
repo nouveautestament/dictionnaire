@@ -1,0 +1,1 @@
+lar[90688]=`<b>σκατο·φάγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui mange des excréments ; <i>p. ext</i>. avare, EPICH. <i>fr. 34 Ahrens</i> ; AR. <i>Pl. 706</i> ; MÉN. <i>4, 286 Meineke</i>.<p><b>Étym</b>. σκώρ, φαγεῖν.`

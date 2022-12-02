@@ -1,0 +1,1 @@
+lar[94932]=`<b>συν·αποφθίνω</b> <font color="darkgreen">(<i>ao.1</i> συναπέφθισα <font color="purple">[ῐ]</font>)</font> tuer également, OPP. <i>H. 5, 576 ; au pass. (ao.2, 3 sg</i>. συναπέφθιτο) périr en même temps, OPP. <i>H. 5, 587</i>.`

@@ -1,0 +1,1 @@
+lar[52062]=`<i>att</i>. <b>Καττιτερίδες, ων (αἱ)</b> <font color="purple">[ῐῐ]</font> les î. Kassitérides (<i>propr</i>. aux mines d’étain) HDT. <i>3, 115</i> ; STR. <i>120</i>.<p><b>Étym</b>. κασσίτερος.`

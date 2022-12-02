@@ -1,0 +1,1 @@
+lar[17805]=`<b>α, ον</b> <font color="purple">[χᾰ]</font> glorieux, fier, XÉNOPHAN. (ATH. <i>526b</i>).<p><b>Étym</b>. αὔχη.`

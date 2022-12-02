@@ -1,0 +1,1 @@
+lar[38883]=`<b>ἐπι·ρρήδην</b>, <i>adv.</i> :<br><b>      1</b> nominalement, par son nom, ARAT. <i>261</i>.<br><b>      2</b> expressément, clairement, A.RH. <i>2, 640, 847</i> ; ARAT. <i>191</i>.<p><b>Étym</b>. ἐπί, ϝρη- <i>d’où</i> ῥη-, <i>cf</i>. ἐρῶ.`

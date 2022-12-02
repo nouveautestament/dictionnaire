@@ -1,0 +1,1 @@
+lar[56098]=`<b>ας (ἡ)</b> = <i>lat</i>. Clœlia, Clélie, <i>n. de f. rom</i>. PLUT. <i>Popl. 19, etc</i>.`

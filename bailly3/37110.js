@@ -1,0 +1,1 @@
+lar[37110]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> action d’étendre encore plus, THC. <i>8, 105</i>.<p><b>Étym</b>. ἐπεξάγω.`

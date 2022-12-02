@@ -1,0 +1,1 @@
+lar[81066]=`<b>η, ον</b> <font color="purple">[θῐ]</font><br><b>      1</b> fait <i>ou</i> bâti en briques, HDT. <i>5, 101</i> ; XÉN. <i>An. 3, 4, 11</i> ; ARSTT. <i>Metaph. 6, 7, 12</i>.<br><b>      2</b> d’argile, DICÉARQ. <i>p. 120 Gail</i> ; TH. <i>H.P. 5, 9, 8</i>.<p><b>Étym</b>. πλίνθος.`

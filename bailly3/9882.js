@@ -1,0 +1,1 @@
+lar[9882]=`<b>ἀντι·θάλπω</b>, réchauffer à son tour, JOS. <i>B.J. 4, 4, 6</i>.`

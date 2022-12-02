@@ -1,0 +1,1 @@
+lar[84804]=`<b>ος, ον</b>, qui s’offre aux regards, EUR. <i>Bacch. 645</i> ; τὰ προνώπια, EUR. <i>Bacch. 639,</i> entrée d’une maison ; <i>fig</i>. τὸ προνώπιον, EUR. <i>Hipp. 374,</i> seuil d’un pays ; τὰ προνώπια, DH. <i>4, 14,</i> carrefours (<i>lat</i>. compita) ; ἥρωες προνώπιοι, DH. <i>4, 14,</i> lares des carrefours (<i>lat</i>. lares compitales).<p><b>Étym</b>. προνωπής.`

@@ -1,0 +1,1 @@
+lar[88274]=`<b>ης, ες</b>, qui ressemble à un bec, PHILSTR. <i>376</i>.<p><b>Étym</b>. ῥάμφος, -ωδης.`

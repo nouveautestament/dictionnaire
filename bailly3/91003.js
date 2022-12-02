@@ -1,0 +1,1 @@
+lar[91003]=`<b>α (ὁ)</b> <font color="purple">[ῐφᾱ]</font> <i>dor. c</i>. ξιφίας, EPICH. <i>fr. 29 Ahrens</i>.`

@@ -1,0 +1,1 @@
+lar[57894]=`<b>έως (ὁ)</b> Krithée, <i>h</i>. PLUT. <i>Sol. an. 36</i>.`

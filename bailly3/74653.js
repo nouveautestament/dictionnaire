@@ -1,0 +1,1 @@
+lar[74653]=`<b>πάλ·λευκος, ος, ον</b>, tout blanc, ESCHL. <i>Eum. 352</i> ; EUR. <i>Med. 30, etc</i>.<p><b>Étym</b>. πᾶν, λευκός.`

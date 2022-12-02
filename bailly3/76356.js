@@ -1,0 +1,1 @@
+lar[76356]=`<b>παρα·τροπέω</b> (<i>seul. part. prés</i>.) chercher à tromper par des discours, OD. <i>4, 465</i> ; A.RH. <i>3, 946</i> ; NONN. <i>Jo. 16, 29</i>.<p><b>Étym</b>. παράτροπος.`

@@ -1,0 +1,1 @@
+lar[14305]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> qui concerne le change de l’argent, LUC. <i>Bis acc. 13</i>.<p><b>Étym</b>. ἀργυραμοιβός.`

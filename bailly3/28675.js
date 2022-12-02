@@ -1,0 +1,1 @@
+lar[28675]=`<b>δυσ·μίμητος, ος, ον</b> <font color="purple">[ῑ]</font> difficile à imiter, à contrefaire, DS. <i>1, 61</i> ; PLUT. <i>Cato mi. 8</i> ; LUC. <i>Alex. 20</i>.<p><b>Étym</b>. δ. μιμέομαι.`

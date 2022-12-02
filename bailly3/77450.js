@@ -1,0 +1,1 @@
+lar[77450]=`<b>ωνος (ὁ)</b> Pausôn, <i>peintre,</i> AR. <i>Ach. 854, etc</i>.<p><b>Étym</b>. παύω.`

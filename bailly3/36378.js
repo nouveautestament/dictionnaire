@@ -1,0 +1,1 @@
+lar[36378]=`<b>ἐπ·αγλαΐζω</b> <font color="purple">[λᾰ]</font> réjouir, AR. <i>Eccl. 575 (part. fut. fém</i>. -αϊοῦσα).<br><b><i>Moy.</i></b> :<br><b>      1</b> se réjouir de, s’enorgueillir de, <i>dat</i>. IL. <i>18, 133 (inf. fut</i>. -ϊεῖσθαι).<br><b>      2</b> briller, être somptueux, CRAT. (ATH. <i>49a</i>).`

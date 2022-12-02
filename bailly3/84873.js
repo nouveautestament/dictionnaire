@@ -1,0 +1,1 @@
+lar[84873]=`<b>προ·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> proéminent : προπαγεῖς ὀφθαλμοί, LUC. <i>Musc. enc. 3,</i> yeux à fleur de tête.`

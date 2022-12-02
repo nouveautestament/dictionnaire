@@ -1,0 +1,1 @@
+lar[33024]=`<b>Ἐλπι·νίκη, ης (ἡ)</b> <font color="purple">[ῐῑ]</font> Elpinikè, <i>f</i>. EUP. (PLUT. <i>Cim. 15</i>) ; PLUT. <i>Per. 28 ; etc</i>.<p><b>Étym</b>. ἐλπίς, νίκη.`

@@ -1,0 +1,1 @@
+lar[21921]=`<i>par contract</i>. <b>γῄτης, ου (ὁ)</b> cultivateur, SOPH. <i>Tr. 32</i>.<p><b>Étym</b>. γῆ.`

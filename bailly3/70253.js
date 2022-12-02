@@ -1,0 +1,1 @@
+lar[70253]=`<b>έων (οἱ)</b> habitants d’Œantheia, THC. <i>3, 101</i>.<p><b>Étym</b>. <i>v</i>. Οἰάνθεια.`

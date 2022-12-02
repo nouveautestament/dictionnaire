@@ -1,0 +1,1 @@
+lar[70720]=`<b>η, ον</b> <font color="purple">[ῠ]</font> d’osier, OD. <i>5, 256</i> ; THC. <i>4, 9</i> ; XÉN. <i>Hell. 2, 4, 25</i> ; OPP. <i>H. 3, 372</i>.<p><b>Étym</b>. οἰσύα.`

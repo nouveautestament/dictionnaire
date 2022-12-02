@@ -1,0 +1,1 @@
+lar[108641]=`(<i>seul. prés</i>.) être couvert de duvet, GAL. <i>14, 778</i>.<p><b>Étym</b>. χνόος.`

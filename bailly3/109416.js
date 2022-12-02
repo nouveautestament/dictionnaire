@@ -1,0 +1,1 @@
+lar[109416]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit tertre pour un tombeau, DH. <i>1, 64</i>.<p><b>Étym</b>. <i>dim. de</i> χῶμα.`

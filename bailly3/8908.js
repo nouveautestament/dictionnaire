@@ -1,0 +1,1 @@
+lar[8908]=`<b>ἀνθρακο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰκ]</font> marchand de charbon, PHILYLL. (POLL. <i>7, 110).</i><p><b>Étym</b>. ἄνθραξ, πωλέω.`

@@ -1,0 +1,1 @@
+lar[6640]=`<b>εως (ἡ)</b> proclamation, déclaration publique, DÉM. <i>253 fin (décr</i>.) ; PLUT. <i>Marc. 4</i>.`

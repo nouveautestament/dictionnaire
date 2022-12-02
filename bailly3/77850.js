@@ -1,0 +1,1 @@
+lar[77850]=`<b>*πελταστικῶς</b>, <i>seul</i>. <i>• Sup</i>. <b>πελταστικώτατα</b>, <i>adv</i>., à la façon des plus habiles peltastes, XÉN. <i>Œc. 21, 7</i>.<p><b>Étym</b>. πελταστικός.`

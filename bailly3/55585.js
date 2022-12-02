@@ -1,0 +1,1 @@
+lar[55585]=`<b>οῦ (ὁ)</b> appareil pour comprimer les varices, GAL. <i>2, 397</i>.<p><b>Étym</b>. κιρσός, ἕλκω.`

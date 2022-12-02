@@ -1,0 +1,1 @@
+lar[52986]=`<b>ή, όν</b>, <i>seul. au fém</i>. κ. θύρη, HDT. <i>5, 16 dout</i>. porte fixée par en bas, <i>càd</i>. s’ouvrant à la façon d’un pont-levis, sorte de trappe.<p><b>Étym</b>. <i>vb. de</i> καταπήγνυμι.`

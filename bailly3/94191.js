@@ -1,0 +1,1 @@
+lar[94191]=`<b>συμ·περιθέω</b>, courir ensemble tout autour, M. ANT. <i>7, 47</i> ; LUC. <i>M. cond. 24</i>.`

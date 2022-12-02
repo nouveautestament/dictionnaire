@@ -1,0 +1,1 @@
+lar[53467]=`<b>κατα·στομόω-ῶ</b>, amincir en bec, <i>d’où</i> aiguiser, EUM. <i>p. 134, 441</i>.<p><b>Étym</b>. κ. στόμα.`

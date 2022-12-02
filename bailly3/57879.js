@@ -1,0 +1,1 @@
+lar[57879]=`<b>ου</b> <font color="purple">[ῑᾰῑ]</font> <i>adj. m</i>. cuit au four de campagne, AR. <i>Ach. 87</i> ; ὁ κρ. (<i>s.-e</i>. ἄρτος) AR. <i>Ach. 1123,</i> pain cuit au four de campagne.<p><b>Étym</b>. κρίβανος.`

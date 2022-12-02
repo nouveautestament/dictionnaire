@@ -1,0 +1,1 @@
+lar[28176]=`<b>δυσ·ανάπειστος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> difficile à dissuader, PLAT. <i>Parm. 135a</i>.<p><b>Étym</b>. δ. ἀναπείθω.`

@@ -1,0 +1,1 @@
+lar[25297]=`<b>ος, ον</b>, entrelacé, tressé, HLD. <i>2, 3</i>.<p><b>Étym</b>. διαπλέκω.`

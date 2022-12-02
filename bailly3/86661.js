@@ -1,0 +1,1 @@
+lar[86661]=`<b>πρόσ·χορος, ος, ον</b>, qui prend part à un chœur, à une danse, AR. <i>fr. 396 Dind</i>.<p><b>Étym</b>. π. χορός.`

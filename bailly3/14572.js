@@ -1,0 +1,1 @@
+lar[14572]=`<b>ἀρί·γνωτος, η, ον :<br>      1</b> reconnaissable, OD. <i>6, 108</i>.<br><b>      2</b> célèbre, IL. <i>13, 72, etc. ; ironiq</i>. trop connu, OD. <i>17, 375</i> (ὦ ἀρίγνωτε, <i>tétrasyll. par synizèse).</i><p>➳ <i>Fém</i>. -ος, IL. <i>15, 490</i>.<p><b>Étym</b>. ἀρι-, γιγνώσκω.`

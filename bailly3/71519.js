@@ -1,0 +1,1 @@
+lar[71519]=`<b>ας (ἡ)</b> ressemblance de race <i>ou</i> de famille, DH. <i>3, 15</i>.<p><b>Étym</b>. ὁμοιογενής.`

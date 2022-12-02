@@ -1,0 +1,1 @@
+lar[58245]=`<b>ης, ες</b>, semblable à un peigne, PHÆNIAS (ATH. <i>58e</i>) ; STR. <i>49</i>.<p><b>Étym</b>. κτείς, -ωδης.`

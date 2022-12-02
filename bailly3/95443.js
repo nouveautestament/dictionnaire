@@ -1,0 +1,1 @@
+lar[95443]=`<b>συν·εκχυμόω-ῶ</b> <font color="purple">[χῡ]</font> extravaser ensemble, HPC. <i>1168g ;</i> GAL. <i>Lex. Hipp. 19, 143 v°</i> συνεκχυμόω.`

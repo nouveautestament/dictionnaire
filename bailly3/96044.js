@@ -1,0 +1,1 @@
+lar[96044]=`<b>συν·ναύκληρος, ου (ὁ)</b> pilote-adjoint, LUC. <i>3, 663 Reitz</i>.`

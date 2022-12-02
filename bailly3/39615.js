@@ -1,0 +1,1 @@
+lar[39615]=`<b>ἐπι·φρονέω-ῶ</b> (<i>seul. part. prés. fém</i>. ἐπιφρονέουσα) :<br><b>      1</b> être sage, prudent, OD. <i>19, 385</i>.<br><b>      2</b> apprécier, <i>acc</i>. PLAT. <i>Rsp. 424b</i>.<p><b>Étym</b>. ἐπίφρων.`

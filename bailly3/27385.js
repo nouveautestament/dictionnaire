@@ -1,0 +1,1 @@
+lar[27385]=`<b>ή, όν</b> <font color="purple">[κῐ]</font> apte à examiner, à contrôler, ARR. <i>Epict. 1, 1, 1, etc.</i> ; NICOM. <i>Theol. 52</i> ; SEXT. <i>203 Bkk</i>.<p><b>Étym</b>. δοκιμάζω.`

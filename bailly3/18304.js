@@ -1,0 +1,1 @@
+lar[18304]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans se garder, sans précaution, XÉN. <i>Hell. 4, 1, 7 ; 4, 4, 15, etc.</i> ; POL. <i>4, 36, 4</i> ; DH. <i>9, 19 ; etc</i>.<p>•<i> Cp</i>. ἀφυλακτότερον, PAUS. <i>7, 16, 2</i> ; DC. <i>35, 9</i>.`

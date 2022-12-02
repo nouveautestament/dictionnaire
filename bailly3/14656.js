@@ -1,0 +1,1 @@
+lar[14656]=`<b>ας (ἡ)</b> <font color="purple">[ᾰρ]</font> supériorité, <i>d’où</i> vaillance, SOPH. <i>Aj. 443 ; au pl</i>. hauts faits, exploits, PLAT. <i>Leg. 942d</i>.<p>➳ <i>Ion</i>. -είη, ANTH. <i>7, 312</i>.<p><b>Étym</b>. ἀριστεύω.`

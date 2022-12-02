@@ -1,0 +1,1 @@
+lar[71000]=`<b>ὀλιγό·βουλος, ος, ον</b> <font color="purple">[ῐ]</font> de peu de réflexion, POLÉM. <i>Physiogn. 1, 3, p. 182</i> ; ADAM. <i>Physiogn. 2, 23, p. 409</i>.<p><b>Étym</b>. ὀλ. βουλή.`

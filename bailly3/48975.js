@@ -1,0 +1,1 @@
+lar[48975]=`<b>ἱματιοφυλακέω-ῶ</b> <font color="purple">[ῑᾰῠᾰ]</font> être préposé à la garde-robe, LUC. <i>Hipp. 8</i>.<p><b>Étym</b>. ἱματιοφύλαξ.`

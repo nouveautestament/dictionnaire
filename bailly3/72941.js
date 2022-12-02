@@ -1,0 +1,1 @@
+lar[72941]=`<b>ὀρνιθό·παις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ῑθ]</font> né (<i>propr</i>. enfant) d’un oiseau, LYC. <i>731</i>.<p><b>Étym</b>. ὄρνις, παῖς.`

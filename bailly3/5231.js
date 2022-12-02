@@ -1,0 +1,1 @@
+lar[5231]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμ]</font> fabrication de chars, charronnage, TH. <i>H.P. 3, 10, 1</i>.<p><b>Étym</b>. ἀμαξουργός.`

@@ -1,0 +1,1 @@
+lar[55962]=`<b>ωνος (ὁ)</b> Kléôn (Cléon) :<br><b>      1</b> <i>démagogue athénien,</i> AR. <i>Eq. 44, etc.</i> ; THC. <i>3, 36, etc.</i><br><b>      2</b> <i>autres,</i> XÉN. <i>Hell. 5, 4, 39</i> ; DÉM. <i>18, 29 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. κλέος.`

@@ -1,0 +1,1 @@
+lar[78528]=`<b>περι·διαιρέω-ῶ</b>, couper tout autour, ORIB. <i>4 Mai</i>.`

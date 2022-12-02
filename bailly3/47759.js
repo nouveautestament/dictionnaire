@@ -1,0 +1,1 @@
+lar[47759]=`<b>ου (τὸ)</b> petite mèche, LUC. <i>Tim. 14</i>.<p><b>Étym</b>. <i>dim. de</i> θρυαλλίς.`

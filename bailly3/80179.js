@@ -1,0 +1,1 @@
+lar[80179]=`<b>πιδάω-ῶ</b> <font color="purple">[ῑ]</font> faire sourdre <i>ou</i> jaillir, ARSTT. <i>Meteor. 1, 13, 10</i>.<p><b>Étym</b>. <i>v</i>. πῖδαξ.`

@@ -1,0 +1,1 @@
+lar[52042]=`<b>Κάσιον ὄρος (τὸ)</b> <font color="purple">[ᾰ]</font> le mont Kasion (<i>auj</i>. El-Kas, El-Katieh <i>ou</i> Ras Kouroun) <i>dans la Basse-Égypte,</i> HDT. <i>2, 6, etc</i>.`

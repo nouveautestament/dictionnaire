@@ -1,0 +1,1 @@
+lar[42634]=`<b>εὐ·μάραντος, ος, ον</b> <font color="purple">[μᾰ]</font> qui se flétrit facilement, ARTÉM. <i>108 Reiff</i> ; NAZ. <i>4, 80a Migne</i>.<p><b>Étym</b>. εὖ, μαραίνομαι.`

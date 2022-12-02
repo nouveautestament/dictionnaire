@@ -1,0 +1,1 @@
+lar[25921]=`<b>δια·χειροτονέω-ῶ</b>, décider entre deux propositions <i>ou</i> faire un choix entre deux concurrents par un vote à main levée, XÉN. <i>Hell. 1, 7, 34</i> ; PLAT. <i>Leg. 755d</i> (<i>au pass</i>.) ; DÉM. <i>1152, 9</i>.`

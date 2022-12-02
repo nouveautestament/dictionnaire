@@ -1,0 +1,1 @@
+lar[65636]=`<font color="purple">[ᾰ]</font> <i>adv</i>., confusément, pêle-mêle, <i>dat</i>. IL. <i>8, 437 ; abs</i>. OD. <i>24, 77</i> ; HH. <i>Cer. 426</i>.<p><b>Étym</b>. μίγνυμι.`

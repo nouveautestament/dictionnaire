@@ -1,0 +1,1 @@
+lar[61752]=`<b>οῦ (ἡ)</b> l’accouchée, DIOSC. <i>3, 4</i>.<p><b>Étym</b>. λέχω.`

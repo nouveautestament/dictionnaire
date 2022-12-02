@@ -1,0 +1,1 @@
+lar[48921]=`<b>α</b> <i>ou</i> <b>ος, ον</b> <font color="purple">[ῑλ]</font> d’Ilion, EUR. <i>Hec. 1008</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Hel. 1164</i>.<p><b>Étym</b>. Ἴλιον.`

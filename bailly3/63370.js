@@ -1,0 +1,1 @@
+lar[63370]=`<b>μεγαλο·κευθής, ής, ές</b>, très profond, <i>propr</i>. qui cache grandement, PD. <i>P. 2, 60</i>.<p><b>Étym</b>. μ. κεύθω.`

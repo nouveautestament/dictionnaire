@@ -1,0 +1,1 @@
+lar[71970]=`<b>ας (ἡ) :<br>      1</b> désignation par un nom, appellation, PLAT. <i>Pol. 275d ;</i> ARSTT. <i>Poet. 6, etc.</i><br><b>      2</b> expression, DH. <i>Comp. 25, etc</i>.<p><b>Étym</b>. ὀνομάζω.`

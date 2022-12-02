@@ -1,0 +1,1 @@
+lar[72836]=`<b>ή, όν</b>, déterminé, défini, <i>ou</i> qu’on peut déterminer, définir, ARSTT. <i>Metaph. 2, 49, 4</i> ; PLUT. <i>M. 720b</i>.<p><b>Étym</b>. <i>vb. de</i> ὁρίζω.`

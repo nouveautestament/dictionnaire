@@ -1,0 +1,1 @@
+lar[99534]=`<b>οῦ (ὁ) :<br>      1</b> homme audacieux, entreprenant, THC. <i>1, 70</i>.<br><b>      2</b> <i>adj. m</i>. (cœur) hardi, ANTH. <i>9, 678</i>.<p><b>Étym</b>. τολμάω.`

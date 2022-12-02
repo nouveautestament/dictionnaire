@@ -1,0 +1,1 @@
+lar[86544]=`<b>προ·συνάπτω</b>, unir <i>ou</i> combiner auparavant, TAT. <i>Or. ad Græc. 17, c. 844b</i>.`

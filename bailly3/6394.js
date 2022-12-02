@@ -1,0 +1,1 @@
+lar[6394]=`<b>ἀμφι·τεύχω</b> (<i>seul. pl.q.pf. pass. 3 sg</i>. ἀμφετέτυκτο) disposer autour, Q. SM. <i>5, 14, 103</i>.`

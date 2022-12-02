@@ -1,0 +1,1 @@
+lar[100649]=`<b>τριχό·φυλλος, ος, ον</b> <font color="purple">[ῐ]</font> aux feuilles aussi fines que des cheveux, TH. <i>H.P. 3, 9, 4</i> ; τὸ τριχόφυλλον, TH. <i>H.P. 4, 6, 3, sorte de plante marine</i>.<p><b>Étym</b>. θρίξ, φύλλον.`

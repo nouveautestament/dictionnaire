@@ -1,0 +1,1 @@
+lar[5185]=`<b>ου (τὸ)</b> un domaine d’Amalthée, un riche domaine, CIC. <i>Att. 1, 16</i>.<p><b>Étym</b>. <i>cf</i>. Ἀμάλθεια.`

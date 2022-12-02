@@ -1,0 +1,1 @@
+lar[85818]=`<b>προσ·ζημιόω-ῶ</b>, punir en outre <i>ou</i> encore, ISOCR. <i>9b ;</i> τινι, PLAT. <i>Gorg. 516d</i>, de qqe peine.`

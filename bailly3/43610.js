@@ -1,0 +1,1 @@
+lar[43610]=`<b>ου (ὁ)</b> Eutonios, <i>h</i>. ANTH. <i>App. 356</i>.<p><b>Étym</b>. εὔτονος.`

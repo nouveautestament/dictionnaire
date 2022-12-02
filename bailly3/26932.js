@@ -1,0 +1,1 @@
+lar[26932]=`<b>      1 <i>tr.</i></b> doubler, AND. <i>30, 27 Baiter-Sauppe</i> ; ALEX. (<i>Com. fr. 3, 436) ; au pass</i>. être doublé, être double, EUR. <i>Suppl. 781</i> ; MÉN. <i>4, 161 Meineke</i>.<br><b>      2 <i>intr.</i></b> être double, SOPH. <i>Aj. 268</i>.<p><b>Étym</b>. δίπλαξ.`

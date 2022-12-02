@@ -1,0 +1,1 @@
+lar[94524]=`<b>συν·αγανακτέω-ῶ</b> <font color="purple">[ᾰᾰν]</font> s’indigner avec, POL. <i>4, 7, 3</i> ; DH. <i>10, 6</i> ; PLUT. <i>Rom. 7</i> ; τινι ἐπί τινι, POL. <i>2, 59, 5, etc</i>. avec qqn de qqe ch.`

@@ -1,0 +1,1 @@
+lar[872]=`<font color="purple">[ᾰφ]</font> <i>adv</i>., sans écriture, CLÉM. <i>2, 96 Migne</i>.`

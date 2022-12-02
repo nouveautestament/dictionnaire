@@ -1,0 +1,1 @@
+lar[101215]=`<font color="purple">[ῠ]</font> fortuitement, par hasard, ANTH. <i>12, 222</i> ; JOS. <i>A.J. 5, 9, 2</i>.`

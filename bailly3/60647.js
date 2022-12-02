@@ -1,0 +1,1 @@
+lar[60647]=`<b>ων (τὰ)</b> Leuctres :<br><b>      1</b> <i>brg de Béotie (auj</i>. Léfktra, <i>anc</i>. Parapoúngia) XÉN. <i>Hell. 5, 4, 33</i>.<br><b>      2</b> <i>v. d’Arcadie (auj</i>. Leondári) THC. <i>5, 54</i>.<p><b>Étym</b>. <i>cf</i>. Λεῦκτρον.`

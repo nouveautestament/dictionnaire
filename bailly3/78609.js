@@ -1,0 +1,1 @@
+lar[78609]=`<b>περι·ζητέω-ῶ</b>, chercher tout autour <i>ou</i> avec soin, BAS.`

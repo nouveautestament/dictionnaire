@@ -1,0 +1,1 @@
+lar[24315]=`<b>Δημό·στρατος, ου (ὁ)</b> Dèmostratos :<br><b>      1</b> <i>orateur athénien,</i> AR. <i>Lys. 391, 393</i> ; PLUT. <i>Alc. 18, etc.</i><br><b>      2</b> <i>autres,</i> XÉN. <i>Hell. 6, 3, 2</i> ; DÉM. PLUT. LUC. <i>etc</i>.<p>➳ <i>Dor</i>. Δαμό-, DÉM. <i>1310, 6 et 11</i> ; ANTH. <i>9, 328</i> ; A. PL. <i>25 ; etc</i>.<p><b>Étym</b>. δῆμος, στρατός.`

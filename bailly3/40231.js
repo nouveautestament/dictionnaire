@@ -1,0 +1,1 @@
+lar[40231]=`<i>adv</i>., laborieusement, difficilement, HPC. <i>1256e ;</i> TH. <i>H.P. 9, 16</i>.<p><b>Étym</b>. ἐργώδης.`

@@ -1,0 +1,1 @@
+lar[34028]=`<b>ἐν·αρμόνιος, ος, ον</b>, harmonieux, en accord parfait, PLAT. <i>Leg. 654a ;</i> ARSTT. <i>Probl. 19, 15,</i> LUC. <i>D. deor. 7, 4</i> ; τινι, T. LOCR. <i>103c</i>, avec qqe ch. ; <i>abs</i>. τὸ ἐναρμόνιον, PLUT. <i>M. 711c, 744c</i>, gamme d’accord parfait, plus simple que la gamme chromatique <i>ou même</i> que la gamme diatonique.<p><b>Étym</b>. ἐν, ἁρμονία.`

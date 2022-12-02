@@ -1,0 +1,1 @@
+lar[109647]=`<b>ψευδ·επίγραφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte faussement le titre de, POL. <i>24, 5, 5</i> ; DH. <i>Dem. 57, etc.</i> ; PLUT. <i>M. 479e</i>.<p><b>Étym</b>. ψ. ἐπιγράφω.`

@@ -1,0 +1,1 @@
+lar[10335]=`<b>ἀντι·πρόσειμι</b> (<i>inf</i>. -προσιέναι) s’avancer de son côté <i>ou</i> contre, XÉN. <i>Cyr. 3, 3, 24</i>.`

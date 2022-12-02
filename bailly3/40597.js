@@ -1,0 +1,1 @@
+lar[40597]=`<b>ου (ὁ)</b> = <i>lat</i>. Herminius, <i>n. d’h. rom</i>. PLUT. <i>Popl. 16</i>.`

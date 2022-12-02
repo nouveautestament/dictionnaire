@@ -1,0 +1,1 @@
+lar[43167]=`<b>εὐρεσιλογέω-ῶ</b> <font color="purple">[ῐ]</font> imaginer des paroles <i>ou</i> des raisons pour expliquer qqe ch., <i>càd</i>. parler beaucoup pour ne rien dire <i>ou</i> pour dire peu, POL. <i>26, 10, 3 ; Fr. gr. 68</i> ; PLUT. <i>M. 625c ;</i> DL. <i>2, 134</i>.<p><b>Étym</b>. εὑρεσίλογος.`

@@ -1,0 +1,1 @@
+lar[42938]=`<b>εὐ·παραχώρητος, ος, ον</b>, qui cède facilement, ARCHIM. <i>Quadr. p. 127, 24</i>.<p><b>Étym</b>. εὖ, παραχωρέω.`

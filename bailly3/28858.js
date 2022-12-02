@@ -1,0 +1,1 @@
+lar[28858]=`<b>δυσ·πρόσβατος, ος, ον</b> <font color="purple">[ᾰ]</font> d’accès difficile, THC. <i>4, 129</i> ; DC. <i>56, 12</i>.<p><b>Étym</b>. δ. προσβαίνω.`

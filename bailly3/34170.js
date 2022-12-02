@@ -1,0 +1,1 @@
+lar[34170]=`<b>ἐν·διάκειμαι</b> <font color="darkgreen">(<i>seul. prés. et impf</i>. ἐνδιεκείμην)</font> se trouver dans, <i>dat</i>. JOS. <i>A.J. 12, 2, 9</i>.`

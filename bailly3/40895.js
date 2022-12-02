@@ -1,0 +1,1 @@
+lar[40895]=`<b>ου (ἡ)</b> Érôtion (<i>litt</i>. petit Amour) <i>f</i>. ANTH. <i>11, 88</i>.<p><b>Étym</b>. <i>c</i>. ἐρώτιον.`

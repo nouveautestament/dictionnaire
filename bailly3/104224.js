@@ -1,0 +1,1 @@
+lar[104224]=`<b>ατος (τὸ)</b> position renversée : ὑπτιάσματα χερῶν, ESCHL. <i>Pr. 1005,</i> mains étendues et renversées ; chute à la renverse, chute mortelle, ESCHL. <i>Ag. 1235</i>.<p><b>Étym</b>. ὑπτιάζω.`

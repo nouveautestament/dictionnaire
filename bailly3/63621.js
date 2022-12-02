@@ -1,0 +1,1 @@
+lar[63621]=`<b>ή, όν</b>, méthodique, AGATHARCH. (PHOT. <i>Bibl. 455, 14).</i><p><b>Étym</b>. μεθοδεύω.`

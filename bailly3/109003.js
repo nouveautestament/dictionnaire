@@ -1,0 +1,1 @@
+lar[109003]=`<b>χρηστο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> talent d’un bon peintre, PLUT. <i>Arat. 13</i>.<p><b>Étym</b>. χρηστός, γράφω.`

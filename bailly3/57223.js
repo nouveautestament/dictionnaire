@@ -1,0 +1,1 @@
+lar[57223]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> jeune corneille, CRAT. <i>fr. 178</i>.<p><b>Étym</b>. κορώνη.`

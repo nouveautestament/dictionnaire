@@ -1,0 +1,1 @@
+lar[43713]=`<b>εὔ·φθαρτος, ος, ον :<br>      1</b> facile à détruire, à corrompre, ARSTT. <i>Cæl. 1, 11, 5</i> ; POL. <i>2, 5, 6</i>.<br><b>      2</b> facile à digérer, DIPH. (ATH. <i>68f</i>).<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Cæl. 3, 6</i>.<p><b>Étym</b>. εὖ, φθείρω.`

@@ -1,0 +1,1 @@
+lar[37811]=`<b>ας (ἡ)</b> commandement d’ (une section de 4) éléphants, EL. TACT. <i>23</i>.<p><b>Étym</b>. ἐπιθήραρχος.`

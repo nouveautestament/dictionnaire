@@ -1,0 +1,1 @@
+lar[29189]=`<b>ου (ὁ)</b> Dôros :<br><b>      1</b> <i>chef de la race dorienne,</i> HDT. <i>1, 56</i>.<br><b>      2</b> <i>fils de Xouthos (Xuthus</i>) EUR. <i>Ion 1590, etc.</i><br><b>      3</b> <i>autres,</i> THC. <i>4, 78, etc</i>.`

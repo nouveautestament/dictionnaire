@@ -1,0 +1,1 @@
+lar[28312]=`<b>δυσ·διέξοδος, ος, ον :<br>      1</b> difficile à traverser, DS. <i>5, 34</i> ; DC. <i>60, 20</i>.<br><b>      2</b> qui passe <i>ou</i> se digère difficilement, GAL. <i>6, 327</i>.<p><b>Étym</b>. δ. διέξοδος.`

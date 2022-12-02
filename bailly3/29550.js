@@ -1,0 +1,1 @@
+lar[29550]=`<b>ἐγ·καταπήγνυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao</i>. ἐγκατέπηξα)</font> ficher dans, enfoncer dans, <i>dat.</i> : ξίφος κουλεῷ ἐγκ. OD. <i>11, 98 ; ou abs</i>. ἐγκ. τὸ ξίφος, PLUT. <i>M. 313e</i>, remettre un glaive au fourreau ; κεφαλὴν δόρατι ἐγκ. HDN <i>1, 13,</i> ficher une tête sur une pique.<p><b>Étym</b>. ἐν, κ.`

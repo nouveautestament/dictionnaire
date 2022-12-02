@@ -1,0 +1,1 @@
+lar[43483]=`<b>εὔ·στοος, οος, οον</b>, aux beaux portiques, ANTH. <i>App. 336</i>.<p><b>Étym</b>. εὖ, στοά.`

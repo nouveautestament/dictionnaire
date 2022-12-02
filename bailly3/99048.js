@@ -1,0 +1,1 @@
+lar[99048]=`<b>οῦ (ὁ)</b> habitant <i>ou</i> originaire de Tion, LUC. <i>Alex. 43</i>.<p><b>Étym</b>. Τίον.`

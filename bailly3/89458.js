@@ -1,0 +1,1 @@
+lar[89458]=`<b>σαρκο·τροφέω-ῶ</b>, bien nourrir son corps (<i>litt</i>. sa chair) NAZ.<p><b>Étym</b>. σ. -τροφος <i>de</i> τρέφω.`

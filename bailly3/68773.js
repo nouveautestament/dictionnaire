@@ -1,0 +1,1 @@
+lar[68773]=`<b>νικο·μάχας, α (ὁ)</b> <font color="purple">[ῑᾰᾱ]</font> vainqueur dans le combat, SOPH. <i>fr. 765</i>.<p><b>Étym</b>. νικάω, μάχη.`

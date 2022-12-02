@@ -1,0 +1,1 @@
+lar[106356]=`<b>οῦ (ὁ)</b> humeur, <i>d’où</i> liqueur, <i>en gén</i>. THESPIS (CLÉM. <i>674).</i><p><b>Étym</b>. φλέγω.`

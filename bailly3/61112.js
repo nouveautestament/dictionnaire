@@ -1,0 +1,1 @@
+lar[61112]=`<b>ου (ὁ)</b> <font color="purple">[νῑ]</font> à qui l’on apporte le van sacré, <i>ép. de Dionysos,</i> ORPH. <i>H. 45, 1 ; 51, 3</i> ; PLUT. <i>M. 365a</i>.<p><b>Étym</b>. λίκνον.`

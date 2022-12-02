@@ -1,0 +1,1 @@
+lar[47854]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> petit sac, HDT. <i>3, 105</i> ; AR. <i>Ran. 1203, Vesp. 314</i>.<br><b>      2</b> gousse, DIOSC. <i>2, 128</i>.<p><b>Étym</b>. <i>dim. de</i> θύλακος.`

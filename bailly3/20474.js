@@ -1,0 +1,1 @@
+lar[20474]=`<b>βου·μολγός, οῦ (ὁ)</b> qui trait les vaches, ANTH. <i>6, 255</i>.<p><b>Étym</b>. βοῦς, μέλγω.`

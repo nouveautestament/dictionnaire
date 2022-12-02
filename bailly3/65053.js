@@ -1,0 +1,1 @@
+lar[65053]=`<b>μετα·χθόνιος, α, ον :<br>      1</b> qui est sur terre parmi les mortels, NONN. <i>Jo. 20, 81</i>.<br><b>      2</b> qui est sur la terre ferme, A.RH. <i>4, 1269</i>.<p><b>Étym</b>. μ. χθών.`

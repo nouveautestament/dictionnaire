@@ -1,0 +1,1 @@
+lar[73206]=`<b>ή, όν</b> <font color="purple">[ῑρ]</font> d’Osiris, PLUT. <i>M. 364e</i>.<p><b>Étym</b>. Ὄσιρις.`

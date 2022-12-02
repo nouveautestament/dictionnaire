@@ -1,0 +1,1 @@
+lar[27578]=`<b>δορατο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. δορυφόρος, POÈT. (DH. <i>Comp. 17</i>) ; ARR. <i>Tact. 4, 4</i> ; SPT. <i>Par. 1, 12, 24</i>.`

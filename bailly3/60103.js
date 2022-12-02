@@ -1,0 +1,1 @@
+lar[60103]=`<b>α, ον</b>, de Leibèthres, LYC. <i>275, 410</i> ; οἱ Λειβήθριοι, ARISTÉN. <i>1, 27,</i> les habitants de Leibèthres, <i>renommés pour leur stupidité</i>.`

@@ -1,0 +1,1 @@
+lar[87343]=`<b>ας (ἡ)</b> naissance de plumes <i>ou</i> d’ailes, HIÉROCL. <i>C. aur. p. 479 Mullach</i>.<p><b>Étym</b>. πτεροφυής.`

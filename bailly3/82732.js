@@ -1,0 +1,1 @@
+lar[82732]=`<i>interj</i>. ah ! <i>cri de douleur,</i> ESCHL. <i>Eum. 143</i>.<p><b>Étym</b>. πόποι.`

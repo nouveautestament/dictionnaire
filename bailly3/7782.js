@@ -1,0 +1,1 @@
+lar[7782]=`<b>ή, όν</b>, qui bouleverse, PLAT. <i>Rsp. 389d ;</i> στομάχου, DIOSC. <i>2, 75,</i> qui soulève l’estomac ; <i>fig</i>. qui réfute, THRASYLL. (DL. <i>3, 59</i>).`

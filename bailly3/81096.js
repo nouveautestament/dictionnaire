@@ -1,0 +1,1 @@
+lar[81096]=`<b>ου (τὸ)</b> sorte de collier <i>ou</i> de chaîne, PLUT. <i>M. 141d ;</i> EUN. <i>p. 5 ; titre d’une comédie de Ménandre (Com. Att. fr. 3, 114 Kock).</i><p><b>Étym</b>. πλόκος.`

@@ -1,0 +1,1 @@
+lar[12143]=`<b>ή, όν</b>, sujet à perdre, TH. <i>C.P. 2, 9, 3</i>.`

@@ -1,0 +1,1 @@
+lar[19294]=`<b>ου (τὸ)</b> <font color="purple">[κᾰ]</font> préservatif contre les sortilèges, amulette, AR. <i>fr. 510</i> ; STR. <i>776</i>.<p><b>Étym</b>. βάσκανος.`

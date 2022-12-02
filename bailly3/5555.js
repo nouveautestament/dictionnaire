@@ -1,0 +1,1 @@
+lar[5555]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui sert à moissonner, EL. <i>N.A. 17, 37</i>.<p><b>Étym</b>. ἀμάω.`

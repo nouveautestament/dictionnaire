@@ -1,0 +1,1 @@
+lar[24030]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> la Deucaliônie, <i>ouvrage d’Hellanikos sur Deucalion,</i> ATH. <i>446b</i>.<p><b>Étym</b>. Δευκαλίων.`

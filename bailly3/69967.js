@@ -1,0 +1,1 @@
+lar[69967]=`<b>ίδος (ἡ) :<br>      1</b> tunique d’étoffe fine et tombant jusqu’aux pieds, <i>à l’usage des femmes, des acteurs tragiques et des athlètes victorieux,</i> AR. <i>Lys. 1188</i> ; PLAT. <i>Rsp. 420e ;</i> PLUT. <i>Alc. 32, etc.</i> ; THCR. <i>Idyl. 2, 74</i>.<br><b>      2</b> brosse, étrille, EPICH. <i>et</i> DIPH. (POLL. <i>10, 16).</i><p><b>Étym</b>. ξύω.`

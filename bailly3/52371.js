@@ -1,0 +1,1 @@
+lar[52371]=`<b>κατα·ζαίνω</b> <font color="darkgreen">(<i>ao. itér</i>. καταζήνασκον)</font> faire sécher entièrement, OD. <i>11, 587</i>.`

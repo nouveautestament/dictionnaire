@@ -1,0 +1,1 @@
+lar[34094]=`<b>ἔν·δακρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ᾰ]</font> plein de larmes, LUC. <i>Somn. 4</i> ; JOS. <i>A.J. 1, 19, 5</i>.<p><b>Étym</b>. ἐν, δάκρυ.`

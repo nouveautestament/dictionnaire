@@ -1,0 +1,1 @@
+lar[107306]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> planté, PLAT. <i>Rsp. 510a</i>.<p><b>Étym</b>. <i>vb. de</i> φυτεύω.`

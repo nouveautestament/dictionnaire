@@ -1,0 +1,1 @@
+lar[95012]=`<b>συν·αυγασμός, οῦ (ὁ)</b> foyer <i>ou</i> concours de rayons lumineux, PLUT. <i>M. 893a, 929b</i>.<p><b>Étym</b>. σύν, αὐγάζω.`

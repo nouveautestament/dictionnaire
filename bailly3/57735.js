@@ -1,0 +1,1 @@
+lar[57735]=`<b>ή, όν</b>, suspendu, SOPH. <i>O.R. 1263, etc.</i> ; EUR. <i>Hipp. 778, etc.</i> ; XÉN. <i>Œc. 8, 12</i> ; PLUT. <i>Per. 27, etc</i>.<p><b>Étym</b>. <i>vb. de</i> κρεμάννυμι.`

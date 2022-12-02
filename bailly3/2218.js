@@ -1,0 +1,1 @@
+lar[2218]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>subst</i>. Ægialée, <i>h</i>. EUR. <i>Suppl. 1216, etc.</i><br><b>      2</b> <i>adj</i>. οἱ Αἰγιαλέες, les Ægialées, <i>tribu de Sicyone,</i> HDT. <i>5, 68</i> ; οἱ Αἰγιαλῆες, THCR. <i>Idyl. 25, 174,</i> les Argiens.<p>➳ <i>Voc</i>. -εῦ, EUR. <i>Suppl. 1216</i>.`

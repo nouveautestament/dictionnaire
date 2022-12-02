@@ -1,0 +1,1 @@
+lar[98621]=`<b>τετρ·αοίδιος, ος, ον</b>, composé de quatre sortes de mélodie, PLUT. <i>M. 1132d</i>.<p><b>Étym</b>. τ. ἀοιδή.`

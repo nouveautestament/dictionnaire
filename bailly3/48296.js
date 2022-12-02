@@ -1,0 +1,1 @@
+lar[48296]=`<b>*ἰατέον</b> <font color="purple">[ῑᾱ]</font> <i>ion</i>. <b>ἰητέον</b>, <i>vb. de</i> ἰάομαι, HPC.`

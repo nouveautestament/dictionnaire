@@ -1,0 +1,1 @@
+lar[71761]=`<b>ὁμό·χορος, ος, ον</b>, compagnon <i>ou</i> compagne de chœur, PLUT. <i>M. 768b</i>.<p><b>Étym</b>. ὁμ. χορός.`

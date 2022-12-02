@@ -1,0 +1,1 @@
+lar[26125]=`<b>δι·εκθέω</b> (<i>seul. prés</i>.) traverser en courant, PLUT. <i>Pel. 17</i> ; traverser dans sa course, ARSTT. <i>Mund. 4 ; fig. en parl. de matières vomies,</i> être expulsé <i>ou</i> rejeté avec force, ARÉT. <i>17, 34</i>.`

@@ -1,0 +1,1 @@
+lar[14810]=`<b>ου (ὁ) :<br>      1</b> jeune panthère, EL. <i>N.A. 7, 47</i>.<br><b>      2</b> animal semblable à la panthère, CALLIX. (ATH. <i>261c</i>).<p><b>Étym</b>. <i>cf</i>. ἄρκτος.`

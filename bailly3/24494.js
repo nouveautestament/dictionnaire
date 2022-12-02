@@ -1,0 +1,1 @@
+lar[24494]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui discerne, <i>d’où</i> qui fait attention à, qui a égard à, <i>gén</i>. ANT. <i>122, 39, p. opp. à</i> τιμωρός.<p><b>Étym</b>. διαγιγνώσκω.`

@@ -1,0 +1,1 @@
+lar[64502]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῐ]</font> interrègne, PLUT. <i>Num. 2</i>.<p><b>Étym</b>. μεσοβασιλεύς.`

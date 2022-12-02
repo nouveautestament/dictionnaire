@@ -1,0 +1,1 @@
+lar[9401]=`<b>ἀνταγωνιστέω-ῶ</b> <font color="purple">[ᾰγ]</font> être adversaire, ARSTT. <i>Rhet. 3, 15, 10</i>.<p><b>Étym</b>. ἀνταγωνιστής.`

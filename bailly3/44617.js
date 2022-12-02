@@ -1,0 +1,1 @@
+lar[44617]=`<b>ζυγ·άρχης, ου (ὁ)</b> <font color="purple">[ῠ]</font> capitaine de cavalerie, EL. TACT. <i>19, 8</i>.<p><b>Étym</b>. ζυγόν, ἄρχω.`

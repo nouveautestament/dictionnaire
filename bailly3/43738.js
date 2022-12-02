@@ -1,0 +1,1 @@
+lar[43738]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec éloquence <i>ou</i> sagesse, OD. <i>19, 352</i>.<p><b>Étym</b>. εὐφράδης.`

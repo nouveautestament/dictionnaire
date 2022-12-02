@@ -1,0 +1,1 @@
+lar[75113]=`<b>παν·όμοιος</b>, <i>épq</i>. <b>παν·ομοίϊος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait semblable, ANTH. <i>7, 599, etc.</i> ; NONN. <i>D. 16, 161</i>.<p><b>Étym</b>. π. ὅμοιος.`

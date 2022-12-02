@@ -1,0 +1,1 @@
+lar[63889]=`<b>μελανο·ρράβδωτος, ος, ον</b> <font color="purple">[λᾰ]</font> rayé de noir, XÉNOCR. <i>Al. 57</i>.<p><b>Étym</b>. μ. ῥαβδωτός.`

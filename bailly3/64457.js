@@ -1,0 +1,1 @@
+lar[64457]=`<b>μεσ·αύχην, ενος (ὁ, ἡ)</b> lié par le milieu du cou, AR. <i>fr. 648</i>.<p><b>Étym</b>. μ. αὐχήν.`

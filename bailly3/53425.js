@@ -1,0 +1,1 @@
+lar[53425]=`<b>εως (ἡ)</b> action de tomber goutte à goutte, GAL. <i>Lex. Hipp. 19, 140</i>.<p><b>Étym</b>. καταστάζω.`

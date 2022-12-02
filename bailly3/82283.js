@@ -1,0 +1,1 @@
+lar[82283]=`<font color="purple">[ῠ]</font> <i>adv</i>., très péniblement, PLUT. <i>Alex. 63</i>.`

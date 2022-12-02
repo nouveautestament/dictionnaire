@@ -1,0 +1,1 @@
+lar[98793]=`<b>ή, όν</b>, capable d’obtenir, <i>gén</i>. ARSTT. <i>Nic. 6, 9, 4</i>.<p><b>Étym</b>. τεύχω.`

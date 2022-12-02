@@ -1,0 +1,1 @@
+lar[70858]=`<b>ὀκτά·σημος, ος, ον</b> <font color="purple">[ᾰ]</font> à huit temps (<i>propr</i>. à huit signes) <i>t. de pros</i>. SCH.-ESCHL. <i>Sept. 103</i>.<p><b>Étym</b>. ὀ. σῆμα.`

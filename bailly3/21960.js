@@ -1,0 +1,1 @@
+lar[21960]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> son, voix, ESCHL. <i>Eum. 569 ; au plur. en parl. de cris d’animaux,</i> PLUT. <i>M. 973a ; joint à</i> φωναί, PLUT. <i>M. 975a</i>.<p><b>Étym</b>. γηρύω.`

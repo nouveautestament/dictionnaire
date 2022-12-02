@@ -1,0 +1,1 @@
+lar[101438]=`<font color="purple">[ῡν <i>prés.,</i> ῠν <i>fut</i>.]</font> <i>c</i>. ὑγραίνω, CASS. <i>Probl. 5 dout</i>.`

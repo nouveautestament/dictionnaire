@@ -1,0 +1,1 @@
+lar[33072]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> <i>dim. de</i> ἔμβαμμα ANAXIPP. (ATH. <i>404c</i>).`

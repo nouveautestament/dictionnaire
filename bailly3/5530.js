@@ -1,0 +1,1 @@
+lar[5530]=`<b>ἀμετρο·παθής, ής, ές</b> <font color="purple">[πᾰ]</font> passionné outre mesure, ALCIN. <i>Intr. Plat. p. 118</i>.<p><b>Étym</b>. ἄ. πάθος.`

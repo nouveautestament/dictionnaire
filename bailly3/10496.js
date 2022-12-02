@@ -1,0 +1,1 @@
+lar[10496]=`<b>ἀντί·τευχος, ου (ὁ)</b> jet de dés contre un adversaire, EUB. (POLL. <i>7, 205).</i><p><b>Étym</b>. ἀ. τυγχάνω.`

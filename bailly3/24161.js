@@ -1,0 +1,1 @@
+lar[24161]=`<b>δηλο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>seul. cp</i>. -έστερος, qui se montre au grand jour, qui se fait voir, POLUS (STOB. <i>Fl. 9, 54, vol. 1, p. 196, l. 18 Mein</i>.).<p><b>Étym</b>. δῆλος, φαίνω.`

@@ -1,0 +1,1 @@
+lar[19594]=`<b>ου (ὁ)</b> = <i>lat</i>. Vettius, PLUT. <i>Luc. 42 ; C. Gracch. 1</i>.`

@@ -1,0 +1,1 @@
+lar[67774]=`<b>ας (ἡ)</b> Nauplia (<i>auj</i>. Náfplio <i>ou</i> Anápli) <i>port sur le golfe d’Argolide,</i> HDT. <i>6, 76</i> ; XÉN. <i>Hell. 4, 7, 6</i>.`

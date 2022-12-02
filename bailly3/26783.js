@@ -1,0 +1,1 @@
+lar[26783]=`<b>Διομηῒς πύλη (ἡ)</b> la porte de Dioméies, <i>à Athènes,</i> ALCIPHR. <i>3, 3 et 5</i>.<p><b>Étym</b>. <i>fém. ion. dérivé de</i> Διόμεια.`

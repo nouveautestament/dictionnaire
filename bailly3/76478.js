@@ -1,0 +1,1 @@
+lar[76478]=`<b>εως (ἡ)</b> action de teindre de fausses couleurs ; <i>fig.</i> :<br><b>      1</b> altération, perversion, SIMPL. <i>Epict. 21, 41 Dübn.</i><br><b>      2</b> <i>t. de mus</i>. emploi des demi-tons <i>ou</i> de l’harmonie chromatique, PLUT. <i>M. 645d au pl</i>.<p><b>Étym</b>. παραχρώννυμι.`

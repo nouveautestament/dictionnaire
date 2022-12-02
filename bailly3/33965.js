@@ -1,0 +1,1 @@
+lar[33965]=`<b>ἐν·απομένω</b>, rester dans, s’arrêter dans <i>ou</i> à, <i>dat</i>. CLÉM. <i>1, 721 Migne ; abs</i>. HLD. <i>1, 15</i>.`

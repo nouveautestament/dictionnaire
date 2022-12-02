@@ -1,0 +1,1 @@
+lar[100236]=`<b>ου (ὁ)</b> <font color="purple">[ῑτ]</font> matelot, soldat <i>ou</i> passager d’une trirème, HDT. <i>5, 85</i> ; THC. <i>6, 46</i> ; XÉN. <i>An. 6, 4, 7</i>.<p><b>Étym</b>. τριήρης.`

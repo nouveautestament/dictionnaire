@@ -1,0 +1,1 @@
+lar[2535]=`<b>αἱματάω-ῶ</b> <font color="purple">[μᾰ]</font> être ensanglanté, ALC. <i>62</i>.<p><b>Étym</b>. αἷμα.`

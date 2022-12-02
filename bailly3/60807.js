@@ -1,0 +1,1 @@
+lar[60807]=`<i>adv</i>., de Lemnos, LUC. <i>Dom. 29, etc</i>.<p>➳ <i>Dor</i>. Λαμνόθεν, PD. <i>P. 1, 100</i>.<p><b>Étym</b>. Λῆμνος, -θεν.`

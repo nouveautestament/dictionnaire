@@ -1,0 +1,1 @@
+lar[4418]=`<b>Ἀλιὰς ἡμέρα (ἡ)</b> jour funeste de l’Allia, PLUT. <i>Cam. 19</i>.<p><b>Étym</b>. Ἀλίας.`

@@ -1,0 +1,1 @@
+lar[64420]=`<b>(ὁ)</b> = <i>lat</i>. Merula, <i>n. d’h. rom</i>. PLUT. <i>Mar. 41, 45</i>.`

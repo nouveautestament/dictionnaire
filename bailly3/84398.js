@@ -1,0 +1,1 @@
+lar[84398]=`<b>προ·ϊππασία, ας (ἡ)</b> <font color="purple">[πᾰ]</font> action d’aller à cheval en avant, POLYEN <i>2, 3, 14</i>.`

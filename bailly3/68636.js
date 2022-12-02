@@ -1,0 +1,1 @@
+lar[68636]=`<b>ή, όν</b>, d’insulaire ou d’île, EUR. <i>Andr. 1262, etc.</i> ; AR. <i>Av. 1442</i> ; DS. <i>5, 2, etc</i>.<p><b>Étym</b>. νησιώτης.`

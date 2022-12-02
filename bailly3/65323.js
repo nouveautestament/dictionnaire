@@ -1,0 +1,1 @@
+lar[65323]=`<b>οῦ (ὁ)</b> bêlement, PLUT. <i>Syll. 27, M. 290a</i>.<p><b>Étym</b>. μηκάζω.`

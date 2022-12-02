@@ -1,0 +1,1 @@
+lar[74875]=`<b>παν·απόπληκτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> tout à fait frappé de stupeur, SOCR. <i>Ep. p. 75</i>.<p><b>Étym</b>. π. ἀπόπληκτος.`

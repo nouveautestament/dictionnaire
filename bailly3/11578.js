@@ -1,0 +1,1 @@
+lar[11578]=`<b>ἀπειρο·βίως</b>, <i>adv</i>., sans expérience de la vie, HIÉROCL. (STOB. <i>Fl. 67, 24).</i><p><b>Étym</b>. ἄ. βίος.`

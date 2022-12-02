@@ -1,0 +1,1 @@
+lar[32912]=`<b>Ἑλλανο·κράτης (ὁ)</b> Hellanokratès, <i>h</i>. ARSTT. <i>Pol. 5, 8</i>.<p><b>Étym</b>. Ἕ. κράτος.`

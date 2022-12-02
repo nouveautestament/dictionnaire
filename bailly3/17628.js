@@ -1,0 +1,1 @@
+lar[17628]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par l’effet de son sentiment personnel <i>ou</i> de sa propre expérience, POL. <i>3, 12, 1</i> ; PLUT. <i>Cato mi. 54 ; etc</i>.<p><b>Étym</b>. αὐτοπαθής.`

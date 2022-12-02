@@ -1,0 +1,1 @@
+lar[34140]=`<i>adv</i>., insuffisamment, GAL. <i>6, 504</i>.<p><b>Étym</b>. ἐνδέω².`

@@ -1,0 +1,1 @@
+lar[37767]=`<i>att</i>. <b>ἐπιθαλαττίδιος, ος, ον</b> <font color="purple">[ᾰλῐδ]</font> situé près de la mer, maritime, THC. <i>4, 76</i> ; XÉN. <i>Hell. 3, 4, 28, etc</i>.<p>➳ <i>Fém</i>. -ία, XÉN. <i>l. c</i>. (<i>cf</i>. ἐπιθαλάσσιος).<p><b>Étym</b>. ἐπιθαλάσσιος.`

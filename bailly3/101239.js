@@ -1,0 +1,1 @@
+lar[101239]=`<i>enclit. att. p</i>. τινί, <i>dat. sg. de</i> τὶς.`

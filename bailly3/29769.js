@@ -1,0 +1,1 @@
+lar[29769]=`<b>ἐγκρυφίας ἄρτος (ὁ)</b> pain cuit sous la cendre, HPC. <i>1208e ;</i> DIOCL. (ATH. <i>110b</i>) ; LUC. <i>D. mort. 20, 4 ; Lex. 3</i>.<p>➳ <i>Ion</i>. -ίης, HPC. <i>l. c</i>.<p><b>Étym</b>. ἐγκρύπτω.`

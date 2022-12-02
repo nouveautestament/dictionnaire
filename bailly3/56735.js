@@ -1,0 +1,1 @@
+lar[56735]=`<b>ου (τὸ)</b> figue très mûre, ATH. <i>76f</i>.`

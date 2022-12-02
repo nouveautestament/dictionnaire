@@ -1,0 +1,1 @@
+lar[73625]=`<b>ιδος (ἡ)</b> Oupis :<br><b>      1</b> <i>surn. d’Artémis,</i> CALL. <i>Dian. 204</i>.<br><b>      2</b> <i>surn. de Némésis à Rhamnunte,</i> ANTH. <i>App. 50</i>.<br><b>      3</b> <i>n. d’une f. hyperboréenne,</i> HDT. <i>4, 35</i>.<p>➳ <i>Voc</i>. Οὖπι, CALL. ANTH. <i>ll. cc</i>.`

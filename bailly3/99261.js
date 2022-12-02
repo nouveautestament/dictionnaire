@@ -1,0 +1,1 @@
+lar[99261]=`<b>Τιμο·σθένης, ους (ὁ)</b> <font color="purple">[ῑ]</font> Timosthénès, <i>h</i>. PD. <i>O. 8, 15</i> ; DÉM. <i>1193, 8, etc</i>.<p>➳ <i>Voc</i>. Τιμόσθενες, PD. <i>l. c. ; acc</i>. Τιμοσθένη, ANTH. <i>7, 722</i>.<p><b>Étym</b>. τιμή, σθένος.`

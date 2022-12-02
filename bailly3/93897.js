@@ -1,0 +1,1 @@
+lar[93897]=`<b>συμ·βρέμω</b> (<i>seul. prés</i>.) frémir <i>ou</i> gronder avec <i>ou</i> en même temps, DC. <i>66, 22</i>.`

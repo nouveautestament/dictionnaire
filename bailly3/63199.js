@@ -1,0 +1,1 @@
+lar[63199]=`<b>ου (ὁ)</b> = <i>lat</i>. Mauricius, <i>n. d’h. rom</i>. ANTH. <i>App. 102</i>.`

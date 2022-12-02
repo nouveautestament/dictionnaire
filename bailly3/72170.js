@@ -1,0 +1,1 @@
+lar[72170]=`<b>ὀξύ·ρυγχος</b>, <i>ou mieux</i> <b>ὀξύ·ρρυγχος, ος, ον</b>, au museau pointu ; <i>subst</i>. ὁ ὀξ. sorte d’esturgeon, <i>poisson,</i> EPICH. (ATH. <i>304c, etc</i>.) ; ATH. <i>312a</i>.<p><b>Étym</b>. ὀ. ῥύγχος.`

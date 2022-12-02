@@ -1,0 +1,1 @@
+lar[72136]=`<b>όεσσα, όεν</b>, aigu, pointu, <i>de</i> ὀξύς, <i>ou plutôt</i> en bois de hêtre, <i>de</i> ὀξύα, IL. <i>5, 568</i>.`

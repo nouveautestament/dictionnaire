@@ -1,0 +1,1 @@
+lar[90278]=`<b>οῦ</b>, <i>adj. m</i>. dégoûté, délicat, difficile pour la nourriture, ARSTT. <i>Eud. 3, 7, 6</i> ; PLUT. <i>M. 87b ;</i> ATH. <i>262a</i>.`

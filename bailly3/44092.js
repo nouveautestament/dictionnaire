@@ -1,0 +1,1 @@
+lar[44092]=`<b>Ἔφ·ιππος, ου (ὁ)</b> Éphippos, <i>h.</i> :<br><b>      1</b> <i>poète de la moyenne comédie,</i> ATH. <i>28b, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Qu. gr. 37</i>.`

@@ -1,0 +1,1 @@
+lar[108759]=`<b>χονδρό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui a la forme d’un cartilage, cartilagineux, ARSTT. <i>H.A. 9, 22, 2</i>.<p><b>Étym</b>. χόνδρος, τύπτω.`

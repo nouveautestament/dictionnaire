@@ -1,0 +1,1 @@
+lar[2593]=`<b>αἱμορραγέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir une hémorrhagie, HPC. <i>Acut. 395, etc. ; impers</i>. αἱμορραγεῖ, HPC. <i>Aph. 1252,</i> il se produit une hémorrhagie.`

@@ -1,0 +1,1 @@
+lar[57662]=`<b>κρατο·γενής, ής, ές</b> <font color="purple">[ᾱ]</font> né de la tête, PORPH. <i>Antr. nymph. p. 29</i>.<p><b>Étym</b>. κράς, γίγνομαι.`

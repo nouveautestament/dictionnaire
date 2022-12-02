@@ -1,0 +1,1 @@
+lar[23258]=`<b>ου (ἡ)</b> Dardanos, <i>v. de Troade,</i> HDT. <i>5, 117 ; 7, 43</i> ; THC. <i>8, 104</i> ; PLUT. <i>Syll. 24 ; etc</i>.`

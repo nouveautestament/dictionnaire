@@ -1,0 +1,1 @@
+lar[62431]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. μακαριότης, HDN GR. <i>Epim. p. 232 Boissonade</i>.`

@@ -1,0 +1,1 @@
+lar[96364]=`<b>συν·τραυλίζω</b>, bégayer <i>ou</i> balbutier avec, CLÉM. <i>117</i>.`

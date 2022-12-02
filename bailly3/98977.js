@@ -1,0 +1,1 @@
+lar[98977]=`<b>υος (ὁ)</b> Tèlys, <i>roi de Sybaris,</i> HDT. <i>5, 44, 47, etc</i>.`

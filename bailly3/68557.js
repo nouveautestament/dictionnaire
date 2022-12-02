@@ -1,0 +1,1 @@
+lar[68557]=`<b>νηο·πόλος, ος, ον</b>, <i>ion. c</i>. ναοπόλος, qui prend soin d’un temple, prêtre <i>ou</i> ministre d’un temple, HÉS. <i>Th. 991</i> ; MAN. <i>4, 427</i> ; ἡ ν. ANTH. <i>1, 16,</i> prêtresse.<p><b>Étym</b>. ναός, πολέω.`

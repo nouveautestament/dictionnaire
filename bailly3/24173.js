@@ -1,0 +1,1 @@
+lar[24173]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> à la façon des démagogues, de démagogue, démagogique, AR. <i>Eq. 217</i> ; POL. <i>15, 21, 1</i>.<p><b>Étym</b>. δημαγωγός.`

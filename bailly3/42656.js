@@ -1,0 +1,1 @@
+lar[42656]=`<b>εὐ·μέλεια, ας (ἡ)</b> harmonie d’un chant, DS. <i>4, 84</i> ; PLUT. <i>M. 456b ;</i> de la parole, DH. <i>Comp. p. 209, 7</i> ; LGN <i>28, 2</i>.<p><b>Étym</b>. εὐμελής¹.`

@@ -1,0 +1,1 @@
+lar[63374]=`<b>μεγαλο·κοίλιος, ος, ον</b> <font color="purple">[ᾰ]</font> à gros ventre, ARSTT. <i>P.A. 4, 4, 30</i>.<p><b>Étym</b>. μ. κοιλία.`

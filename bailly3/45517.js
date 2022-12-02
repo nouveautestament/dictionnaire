@@ -1,0 +1,1 @@
+lar[45517]=`<b>ἡμι·παθής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui souffre dans la moitié d’un organe, ARÉT. <i>Caus. m. diut. 1, 7</i>.<p><b>Étym</b>. ἡμι-, πάθος.`

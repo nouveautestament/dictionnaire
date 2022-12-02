@@ -1,0 +1,1 @@
+lar[12794]=`<b>Ἀπολλο·φάνης, ους (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Apollophanès, <i>h</i>. HDT. <i>6, 26</i> ; XÉN. <i>Hell. 4, 1, 29</i>.<p>➳ <i>Gén. ion</i>. -εος, HDT. <i>l. c. Acc</i>. -η, ATH. <i>251d ;</i> APP. <i>Civ. 5, 105 ; ou</i> -ην, DC. <i>48, 48</i> ; ARR. <i>An. 6, 27, 1</i> ; APP. <i>Civ. 5, 84</i>.<p><b>Étym</b>. Ἀ. φαίνομαι.`

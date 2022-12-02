@@ -1,0 +1,1 @@
+lar[101757]=`<b>ὑλουργέω-ῶ</b> <font color="purple">[ῡ]</font> travailler le bois, être charpentier <i>ou</i> menuisier, EL. <i>N.A. 7, 22</i>.<p><b>Étym</b>. ὑλουργός.`

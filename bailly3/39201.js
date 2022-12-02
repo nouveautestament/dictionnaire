@@ -1,0 +1,1 @@
+lar[39201]=`<b>ἐπι·στωμύλλομαι</b> (<i>seul. prés</i>.) badiner avec, <i>dat</i>. SYN. <i>62c</i>.<p><b>Étym</b>. ἐπί, στωμύλλω.`

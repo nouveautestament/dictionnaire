@@ -1,0 +1,1 @@
+lar[76977]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Parménide, <i>philosophe d’Élée,</i> PLAT. <i>Theæt. 152e, etc. ; titre d’un dialogue de Platon ; plur</i>. Παρμενίδαι, PLAT. <i>Theæt. 180e</i>, des hommes comme Parménide.<p>➳ <i>Voc</i>. Παρμενίδη, PLAT. <i>Parm. 128a, etc</i>.`

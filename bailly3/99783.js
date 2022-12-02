@@ -1,0 +1,1 @@
+lar[99783]=`<b>ου (ὁ)</b> = <i>lat</i>. Turnus, <i>n. d’h. latin,</i> PLUT.<p><b>Étym</b>. <i>cf</i>. Τύρνος.`

@@ -1,0 +1,1 @@
+lar[36605]=`<b>ἐπ·ανακοινόω-ῶ</b>, communiquer : τινί τι, PLAT. <i>Leg. 918a</i>, faire part de qqe ch. à qqn.`

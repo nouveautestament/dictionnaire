@@ -1,0 +1,1 @@
+lar[32117]=`<b>ἐκ·τειχίζω</b>, achever des fortifications, THC. <i>4, 4 et 45 ; 7, 4 et 26</i> ; XÉN. <i>Hell. 3, 2, 10 ; 4, 4, 18</i>.`

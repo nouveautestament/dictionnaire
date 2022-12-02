@@ -1,0 +1,1 @@
+lar[51687]=`<font color="darkgreen">(<i>seul. ao. 3 sg. poét</i>. κάπυσσε)</font> exhaler, Q. SM. <i>6, 523</i>.<p><b>Étym</b>. καπνός.`

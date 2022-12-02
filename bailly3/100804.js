@@ -1,0 +1,1 @@
+lar[100804]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Trygæos, <i>litt</i>. vendangeur, AR. <i>Pax 190, etc</i>.<p><b>Étym</b>. τρύξ.`

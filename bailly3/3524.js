@@ -1,0 +1,1 @@
+lar[3524]=`<i>adv</i>., sans élégance, PLUT. <i>M. 4f</i>.`

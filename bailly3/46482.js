@@ -1,0 +1,1 @@
+lar[46482]=`<i>adv</i>., divinement, NAZ. θειλοπεδεύω, faire sécher au soleil, DIOSC. <i>5, 9</i>.<p><b>Étym</b>. θειλόπεδον.`

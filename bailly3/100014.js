@@ -1,0 +1,1 @@
+lar[100014]=`<b>ου (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. τέρμινθος, NIC. <i>Th. 844</i>.`

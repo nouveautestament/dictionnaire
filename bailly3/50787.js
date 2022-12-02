@@ -1,0 +1,1 @@
+lar[50787]=`<b>κακο·μουσία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvaise musique, PLUT. <i>M. 748c</i>.<p><b>Étym</b>. κ. μοῦσα.`

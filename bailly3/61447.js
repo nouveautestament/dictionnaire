@@ -1,0 +1,1 @@
+lar[61447]=`<b>ου (ἡ)</b> <font color="purple">[ῐᾰ]</font> <i>s.-e</i>. χορδή :<br><b>      1</b> corde de la lyre qu’on touchait avec l’index de la main gauche, ARSTT. <i>Probl. 19, 9</i> ; DS. <i>3, 29</i>.<br><b>      2</b> <i>p. suite,</i> son de cette corde, PLUT. <i>M. 1029a</i>.<p><b>Étym</b>. λείχω.`

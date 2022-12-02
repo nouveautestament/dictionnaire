@@ -1,0 +1,1 @@
+lar[107660]=`<b>χαλκό·θροος, οος, οον</b>, qui retentit comme l’airain, NONN. <i>D. 13, 48</i>.<p><b>Étym</b>. χ. θρέω.`

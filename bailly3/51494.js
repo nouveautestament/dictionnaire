@@ -1,0 +1,1 @@
+lar[51494]=`<b>καναχή·πους</b>, <i>gén</i>. <b>ποδος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font> au pied retentissant (<i>cf. lat</i>. sonipes) HÉS. (PLUT. <i>M. 154a</i>) ; OPP. <i>C. 2, 431</i>.<p><b>Étym</b>. καναχέω, πούς.`

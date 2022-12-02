@@ -1,0 +1,1 @@
+lar[107927]=`<b>Χαρι·ξένη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Kharixénè, <i>f</i>. AR. <i>Eccl. 943</i>.<p><b>Étym</b>. <i>fém. de</i> Χαρίξενος.`

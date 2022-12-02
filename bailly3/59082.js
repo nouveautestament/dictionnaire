@@ -1,0 +1,1 @@
+lar[59082]=`<b>οῦ</b> <i>ou</i> <b>κωβίος, ου (ὁ)</b> goujon, <i>poisson,</i> HPC. <i>543, 40</i> ; PLAT. <i>Euthyd. 298d ;</i> ARSTT. <i>H.A. 6, 13, etc</i>.`

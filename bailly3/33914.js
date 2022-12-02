@@ -1,0 +1,1 @@
+lar[33914]=`<b>ἐν·άπαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> un peu mou, délicat, DIOSC. <i>1, 77</i>.<p><b>Étym</b>. ἐν, ἁπαλός.`

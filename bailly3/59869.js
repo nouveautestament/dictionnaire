@@ -1,0 +1,1 @@
+lar[59869]=`<b>ου (τὸ)</b> sorte d’encens de l’Inde, STR. <i>778</i>.`

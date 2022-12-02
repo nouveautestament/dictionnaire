@@ -1,0 +1,1 @@
+lar[96510]=`<b>συριγγο·τόμος, ος, ον</b> <font color="purple">[ῡ]</font> qui sert à l’opération de la fistule, P. ÉG. <i>6, 78</i> ; τὸ συριγγοτόμον, GAL. <i>10, 140</i> ; ORIB. <i>p. 23, 15 Mai,</i> instrument pour l’opération de la fistule.`

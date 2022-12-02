@@ -1,0 +1,1 @@
+lar[71223]=`<b>ὁλο·σφυρ·ήλατος, ος, ον</b> <font color="purple">[ῡᾰ]</font> qu’on forge d’un bloc, en métal massif, JOS. <i>A.J. 14, 7, 1</i>.<p><b>Étym</b>. ὅλ. σφῦρα, ἐλαύνω.`

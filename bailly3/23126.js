@@ -1,0 +1,1 @@
+lar[23126]=`<b>δαμασί·φως, ωτος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰῐ]</font> qui dompte les hommes (le sommeil), SIM. (SCH.-IL. <i>24, 5).</i><p><b>Étym</b>. δαμάζω, φώς.`

@@ -1,0 +1,1 @@
+lar[17641]=`<b>ας (ἡ)</b> usage de son propre pied, <i>d’où</i> αὐτοποδίᾳ, DC. <i>44, 8,</i> de son propre pied.<p><b>Étym</b>. αὐτόπους.`

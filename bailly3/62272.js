@@ -1,0 +1,1 @@
+lar[62272]=`<b>ας (ἡ)</b> sorte de navire, M. RUBR. <i>36</i>.`

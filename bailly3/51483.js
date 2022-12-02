@@ -1,0 +1,1 @@
+lar[51483]=`<font color="purple">[ᾰᾰ]</font> <i>ou</i> <b>κάνναβος, ου (ὁ)</b> modèle en cire, en terre glaise <i>ou</i> en plâtre à l’usage des sculpteurs, <i>d’où</i> représentation du squelette, ARSTT. <i>H.A. 3, 5, 3, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[61809]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> de Lydie, Lydien, PD. <i>O. 1, 24</i> ; HDT. <i>1, 10, etc.</i> ; XÉN. <i>An. 3, 1, 31, etc.</i> ; ESCHL. <i>Pers. 770</i> ; SOPH. <i>Tr. 79</i> ; Λυδὴ λίθος, TH. <i>Lap. 2 c</i>. Λυδία λίθος.<p>➳ <i>Voc</i>. Λυδέ, ORACL. (HDT. <i>1, 55</i>) ; ANTH. <i>14, 79</i>.`

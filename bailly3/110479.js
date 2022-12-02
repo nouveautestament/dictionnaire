@@ -1,0 +1,1 @@
+lar[110479]=`<b>ῆς (ἡ)</b> <font color="purple">[ῡ]</font> hurlement, HERMÉS. <i>5, 72</i> ; PLUT. <i>Mar. 20, Crass. 23, M. 590f</i>.<p><b>Étym</b>. <i>cf. lat</i>. rūgiō, <i>v</i>. ὠρύω.`

@@ -1,0 +1,1 @@
+lar[71275]=`<b>ου (τὸ)</b> <i>c</i>. Ὀλυμπιεῖον, PLAT. <i>Phædr. 227b ;</i> ARSTT. <i>Pol. 5, 9, 4</i>.<p><b>Étym</b>. <i>neutre de</i> Ὀλύμπιος.`

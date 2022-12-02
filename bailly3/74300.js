@@ -1,0 +1,1 @@
+lar[74300]=`<b>παιδ·οπίπης, ου (ὁ)</b> <font color="purple">[ῑ]</font> corrupteur d’enfants, ALEX. (ATH. <i>563e</i>).<p><b>Étym</b>. π. ὀπιπεύω.`

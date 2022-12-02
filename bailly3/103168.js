@@ -1,0 +1,1 @@
+lar[103168]=`<b>ὑπο·διατρίβω</b> <font color="purple">[ῑβ]</font> séjourner un peu, GAL. <i>1, 36</i>.`

@@ -1,0 +1,1 @@
+lar[50291]=`<b>καθαρο·ποιέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> purifier, CLÉM. <i>2, 85 Migne</i>.<p><b>Étym</b>. καθαρός, π.`

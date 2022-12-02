@@ -1,0 +1,1 @@
+lar[20613]=`<b>βραδυ·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῠᾱ]</font> à la démarche lente, ARSTT. <i>Physiogn. 6, 44</i>.<p><b>Étym</b>. βραδύς, βαίνω.`

@@ -1,0 +1,1 @@
+lar[15147]=`<b>ας (ἡ)</b> taciturnité, silence, NICOPH. (POLL. <i>3, 128).</i><p><b>Étym</b>. ἄρρητος.`

@@ -1,0 +1,1 @@
+lar[55564]=`<b>ων (τὰ)</b> = <i>lat</i>. ludi circenses, jeux du cirque, ARR. <i>Epict. 4, 10, 21</i>.`

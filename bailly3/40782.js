@@ -1,0 +1,1 @@
+lar[40782]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐρυθρόδανον PLIN. <i>H.N. 24, 56</i>.`

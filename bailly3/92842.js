@@ -1,0 +1,1 @@
+lar[92842]=`<b>στρατί·αρχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> chef d’armée, commandant, XÉN. <i>Lac. 13, 4</i> ; ANTH. <i>1, 98</i>.<p><b>Étym</b>. στρατιά, ἄρχω.`

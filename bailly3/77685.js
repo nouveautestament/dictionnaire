@@ -1,0 +1,1 @@
+lar[77685]=`<b>Πεισι·άναξ, -άνακτος (ὁ)</b> <font color="purple">[ᾰν]</font> Peisianax, <i>h</i>. XÉN. <i>Hell. 1, 4, 19, etc</i>.<p><b>Étym</b>. πείθω, ἄναξ.`

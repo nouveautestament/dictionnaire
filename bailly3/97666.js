@@ -1,0 +1,1 @@
+lar[97666]=`<i>gén</i>. <b>τάρων</b>, <i>forme com. par aphérèse p</i>. τέτταρες, AMPHIS. (<i>Com. fr. 3, 313</i>).`

@@ -1,0 +1,1 @@
+lar[86519]=`<font color="purple">[ῠ]</font> <i>adv</i>., en pressant à plat. GAL. <i>14, 483</i>.<p><b>Étym</b>. πρόστυπος.`

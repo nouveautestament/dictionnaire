@@ -1,0 +1,1 @@
+lar[66886]=`<b>η, ον</b> = <i>lat</i>. murrhinus, de porcelaine, ARR. <i>Epict. 3, 9, 21</i>.`

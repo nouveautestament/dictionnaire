@@ -1,0 +1,1 @@
+lar[109019]=`<b>χρηστο·φωνία, ας (ἡ)</b> bonne voix, ANTYLL. (ORIB. <i>p. 95 Matthäi).</i><p><b>Étym</b>. χρηστός, φωνή.`

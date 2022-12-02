@@ -1,0 +1,1 @@
+lar[64905]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> <i>c</i>. μεταπλασμός EUST. <i>Il. p. 58, 35</i>.`

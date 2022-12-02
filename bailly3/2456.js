@@ -1,0 +1,1 @@
+lar[2456]=`parler <i>ou</i> agir comme un Éthiopien, HLD. <i>10, 39</i>.<p><b>Étym</b>. Αἰθίοψ.`

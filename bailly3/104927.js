@@ -1,0 +1,1 @@
+lar[104927]=`<b>ῶνος (ὁ)</b> <font color="purple">[μᾰ]</font> atelier pour la teinture, SOPH. <i>fr. 956</i>.<p><b>Étym</b>. φαρμάσσω.`

@@ -1,0 +1,1 @@
+lar[74754]=`<b>παμ·πορθής, ής, ές</b>, qui détruit tout, ESCHL. <i>Ag. 714 conj</i>.<p><b>Étym</b>. π. πέρθω.`

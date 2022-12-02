@@ -1,0 +1,1 @@
+lar[44622]=`<font color="purple">[ῠ]</font> <i>adv</i>., par couples, deux à deux, HLD. <i>10, 17</i>.<p><b>Étym</b>. ζυγόν, -δον.`

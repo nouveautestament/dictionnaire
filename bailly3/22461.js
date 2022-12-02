@@ -1,0 +1,1 @@
+lar[22461]=`<b>γονυ·κλισία, ας (ἡ)</b> <font color="purple">[ῐσ]</font> génuflexion, ORIG. <i>1, 552a Migne</i> ; BAS. <i>3, 877a Migne, etc</i>.<p><b>Étym</b>. γ. κλίνω.`

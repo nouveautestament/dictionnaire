@@ -1,0 +1,1 @@
+lar[97541]=`<b>τανυ·γλώχιν, ινος (ὁ, ἡ)</b> <font color="purple">[ᾰῑ]</font> à la pointe allongée, IL. <i>8, 297</i> SIM. <i>fr. 111 Bgk</i> ; OPP. <i>H. 3, 88</i>.<p><b>Étym</b>. τανυ-, γλωχίν.`

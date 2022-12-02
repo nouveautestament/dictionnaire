@@ -1,0 +1,1 @@
+lar[63251]=`<b>ων (οἱ)</b> les Makhlées, <i>pple indien,</i> LUC. <i>Bacch. 6</i>.`

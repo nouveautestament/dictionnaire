@@ -1,0 +1,1 @@
+lar[108757]=`<b>ά, όν</b>, qui ressemble à un grain, en forme de grain, AR. <i>Ach. 521 (accentué</i> χόνδρος) ; PHŒN. COL. (ATH. <i>359e</i>) ; ARSTT. <i>Meteor. 2, 3, 37</i>.<p>•<i> Cp</i>. χονδρότερος, HPC. <i>668, 6</i>.<p><b>Étym</b>. <i>cf</i>. χόνδρος.`

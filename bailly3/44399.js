@@ -1,0 +1,1 @@
+lar[44399]=`<b>ζαμενέω-ῶ</b> <font color="purple">[ᾰ]</font> être furieux, HÉS. <i>Th. 928</i>.<p><b>Étym</b>. ζαμενής.`

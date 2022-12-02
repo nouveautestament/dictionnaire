@@ -1,0 +1,1 @@
+lar[39046]=`<b>ου (τὸ) :<br>      1</b> câble, DS. <i>17, 90</i>.<br><b>      2</b> voile <i>ou</i> rideau, SPT. <i>Ex. 26, 36</i>.<p><b>Étym</b>. ἐπισπάω.`

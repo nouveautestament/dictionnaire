@@ -1,0 +1,1 @@
+lar[66067]=`<b>μισο·πόρπαξ</b>, <i>au</i> <i>• Sup</i>. <b>μισοπορπακίστατος, η, ον</b> <font color="purple">[ῑᾱκ]</font> qui exècre les anneaux <i>ou</i> agrafes de boucliers, <i>càd</i>. les boucliers, <i>p. suite,</i> la guerre, AR. <i>Pax 662</i>.<p><b>Étym</b>. μ. πόρπαξ.`

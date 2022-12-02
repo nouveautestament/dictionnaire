@@ -1,0 +1,1 @@
+lar[103855]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> scalpel de chirurgien, P. ÉG. <i>6, 6</i>.<p><b>Étym</b>. *ὑποσπαθίζω, <i>v</i>. ὑποσπαθισμός.`

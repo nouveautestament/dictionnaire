@@ -1,0 +1,1 @@
+lar[84838]=`<b>ή, όν</b>, porté devant, placé devant, DYSC. <i>Pron. 322, etc</i>.<p><b>Étym</b>. <i>vb. de</i> προφέρω.`

@@ -1,0 +1,1 @@
+lar[87285]=`<b>ατος (τὸ)</b> faux pas, <i>d’où fig.</i> :<br><b>      1</b> faute, erreur, méprise, THGN. <i>1226</i> ; PLUT. <i>M. 549c, etc.</i><br><b>      2</b> accident, revers, défaite, HDT. <i>7, 149</i> ; DÉM. <i>135, 2, etc.</i> ; ESCHN. <i>77, 13</i> ; DS. <i>11, 15</i>.<p><b>Étym</b>. πταίω.`

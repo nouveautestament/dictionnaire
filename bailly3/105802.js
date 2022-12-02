@@ -1,0 +1,1 @@
+lar[105802]=`<b>φιλό·θυρσος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le thyrse, POÈT. ANON. <i>p. 169 Bgk</i> ; ORPH. <i>H. 53, 11</i>.<p><b>Étym</b>. φ. θύρσος.`

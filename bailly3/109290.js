@@ -1,0 +1,1 @@
+lar[109290]=`<b>χρυσο·φεγγής, ής, ές</b> <font color="purple">[ῡ]</font> qui a l’éclat de l’or, ESCHL. <i>Ag. 288</i> ; EUR. <i>fr. 781 Nauck (var</i>. καλλιφεγγές).<p><b>Étym</b>. χρ. φέγγος.`

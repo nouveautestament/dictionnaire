@@ -1,0 +1,1 @@
+lar[55540]=`<b>ά, όν</b> <font color="purple">[ῐῠ]</font> plaintif, lamentable, IL. <i>17, 5</i> ; A.RH. <i>4, 605</i> ; NONN. <i>D. 38, 95</i>.`

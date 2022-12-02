@@ -1,0 +1,1 @@
+lar[47539]=`<b>οῦ (ὁ)</b> bruit sonore <i>ou</i> crépitant, SEXT. <i>P. 1, 58</i>.<p><b>Étym</b>. θράσσω.`

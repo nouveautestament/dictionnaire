@@ -1,0 +1,1 @@
+lar[12446]=`<b>εως (ἡ)</b> soulèvement (de la terre au fond de la mer) STR. <i>54</i> (ἀνοιδήσεις <i>Mein</i>.).<p><b>Étym</b>. ἀποιδέω.`

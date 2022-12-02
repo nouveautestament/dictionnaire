@@ -1,0 +1,1 @@
+lar[102610]=`<b>ὑπερ·κόσμιος, ος, ον</b>, qui est au-dessus de ce monde, HIÉROCL. <i>de Provid. 464 Bekker</i>.<p><b>Étym</b>. ὑ. κόσμος.`

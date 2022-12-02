@@ -1,0 +1,1 @@
+lar[72144]=`<b>ὀξυ·πευκής, ής, ές</b> <font color="purple">[ῠ]</font> dont la pointe fait d’amères blessures, ESCHL. <i>Ch. 640</i>.<p><b>Étym</b>. ὀ. πεύκη.`

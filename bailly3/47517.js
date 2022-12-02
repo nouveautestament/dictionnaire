@@ -1,0 +1,1 @@
+lar[47517]=`<i>acc</i>. <b>-έα (ὁ)</b> Thourée, <i>h</i>. NONN. <i>D. 21, 322, etc</i>.`

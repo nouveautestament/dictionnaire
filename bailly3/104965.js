@@ -1,0 +1,1 @@
+lar[104965]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> Phasèlis (<i>auj</i>. ruines près de Tekirova) <i>v. de Lycie,</i> HDT. <i>2, 178</i> ; THC. <i>2, 69 ; 8, 88, 99</i>.`

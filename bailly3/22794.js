@@ -1,0 +1,1 @@
+lar[22794]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> timidité <i>ou</i> pusillanimité de femme, POL. <i>30, 16, 5</i> ; PLUT. <i>Cæs. 63</i>.<p><b>Étym</b>. γυναικίζω.`

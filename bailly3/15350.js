@@ -1,0 +1,1 @@
+lar[15350]=`<b>ἀρτί·ληπτος, ος, ον</b> <font color="purple">[ῐ]</font> nouvellement pris, APP. <i>Mithr. 108</i>.<p><b>Étym</b>. ἄ. ληπτός.`

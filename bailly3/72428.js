@@ -1,0 +1,1 @@
+lar[72428]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> Oppien, <i>poète didactique et épique</i>.`

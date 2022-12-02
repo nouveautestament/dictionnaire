@@ -1,0 +1,1 @@
+lar[2164]=`<b>ίδος (ἡ)</b> <i>sorte de coupe,</i> TIMACH. (ATH. <i>782b</i>).`

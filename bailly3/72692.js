@@ -1,0 +1,1 @@
+lar[72692]=`<b>Ὀρθό·βουλος, ου (ὁ)</b> Orthoboulos, <i>h</i>. LYS. <i>16, 13 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. ὀρθόβουλος.`

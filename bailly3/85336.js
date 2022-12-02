@@ -1,0 +1,1 @@
+lar[85336]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> moyen de s’approcher, accès, abord, THC. <i>7, 45 ; au plur</i>. EUR. <i>Ph. 181</i>.<p><b>Étym</b>. προσβαίνω.`

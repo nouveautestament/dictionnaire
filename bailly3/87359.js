@@ -1,0 +1,1 @@
+lar[87359]=`<i>att</i>. <b>πτερύττομαι</b>, battre des ailes pour prendre son essor, LUC. <i>V.H. 2, 41,</i> EL. <i>N.A. 7, 7, etc. ; fig. en parl. d’un transport de joie,</i> DIPH. (<i>Com. fr. 4, 404).</i><p><b>Étym</b>. πτέρυξ.`

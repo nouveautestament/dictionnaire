@@ -1,0 +1,1 @@
+lar[79236]=`<b>εως (ἡ)</b> rechaussement des arbres, TH. <i>C.P. 5, 6, 6</i>.<p><b>Étym</b>. περισάττω.`

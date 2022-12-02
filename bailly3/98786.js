@@ -1,0 +1,1 @@
+lar[98786]=`<b>αντος (ὁ)</b> <font color="purple">[ᾱς]</font> Teuthras :<br><b>      1</b> <i>anc. roi de Mysie,</i> Ps.-PLUT. <i>Fluv. 21, 4</i> ; Τεύθραντος πεδίον, PD. <i>O. 9, 71, c</i>. Τευθρανία.<br><b>      2</b> <i>Grec,</i> IL. <i>5, 705</i>.<br><b>      3</b> autre, ESCHN. <i>Ep. 5, 2</i>.`

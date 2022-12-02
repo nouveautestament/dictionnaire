@@ -1,0 +1,1 @@
+lar[89576]=`<b>ας (ἡ)</b> <i>arcad. et macéd. p</i>. σωτηρία, AMÉRIAS (HSCH.).`

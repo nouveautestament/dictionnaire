@@ -1,0 +1,1 @@
+lar[103552]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui se compose d’un commentaire, DL. <i>4, 5</i>.<p><b>Étym</b>. ὑπόμνημα.`

@@ -1,0 +1,1 @@
+lar[38160]=`<b>ων (αἱ)</b> <font color="purple">[ᾱ]</font> linge de tête, bandage de tête, HPC. <i>28, 7</i>.<p><b>Étym</b>. ἐπί, κράς.`

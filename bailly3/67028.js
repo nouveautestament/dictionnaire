@@ -1,0 +1,1 @@
+lar[67028]=`<b>μυθηγορέω-ῶ</b> <font color="purple">[ῡ]</font> raconter des faits, PROCL. <i>Hes. O. p. 5 Gaisf</i>.<p><b>Étym</b>. μῦθος, ἀγορεύω.`

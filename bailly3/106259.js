@@ -1,0 +1,1 @@
+lar[106259]=`<b>(ὁ)</b> <font color="purple">[φῐ]</font> Philônidès, <i>h</i>. AR. <i>Pl. 179, 303</i> ; DÉM. <i>Or. 27, 56 ; 29, 48 Baiter-Sauppe</i>.<p>➳ <i>Voc</i>. -η, ANTH. <i>9, 542</i>.<p><b>Étym</b>. <i>patr. de</i> Φίλων.`

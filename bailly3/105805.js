@@ -1,0 +1,1 @@
+lar[105805]=`<b>φιλο·ΐατρος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. φιλίατρος, PROCL. <i>Ptol. 225</i>.`

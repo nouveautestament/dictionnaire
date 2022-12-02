@@ -1,0 +1,1 @@
+lar[7776]=`<b>ή, όν :<br>      1</b> qui concerne les dissections, GAL. <i>1, 37</i>.<br><b>      2</b> habile à disséquer, anatomiste, GAL. <i>1, 40</i>.<p><b>Étym</b>. ἀνατομή.`

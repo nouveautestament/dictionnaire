@@ -1,0 +1,1 @@
+lar[6606]=`<b>α, ον</b> <font color="purple">[ᾰν]</font> qui contraint, obligatoire, DH. <i>2, 75</i>.`

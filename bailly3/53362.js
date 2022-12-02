@@ -1,0 +1,1 @@
+lar[53362]=`<b>εως (ἡ)</b> action de s’abattre sur, accès de maladie, DIOSC. <i>Præf. 7</i>.<p><b>Étym</b>. κατασκήπτω.`

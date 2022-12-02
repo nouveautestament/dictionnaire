@@ -1,0 +1,1 @@
+lar[38016]=`<b>ἐπι·κήδειος, ος, ον</b>, funèbre, EUR. <i>Tr. 513</i> ; PLAT. <i>Leg. 800e ;</i> EL. <i>N.A. 5, 34</i> ; τὸ ἐπικήδειον, PLUT. <i>Pel. 1,</i> poésie <i>ou</i> chant funèbre.<p><b>Étym</b>. ἐπί, κῆδος.`

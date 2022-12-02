@@ -1,0 +1,1 @@
+lar[24846]=`<b>ή, όν</b> <font color="purple">[ᾰτ]</font> propre à maintenir fortement, SEXT. <i>408, 3 Bkk</i>.<p><b>Étym</b>. διακρατέω.`

@@ -1,0 +1,1 @@
+lar[30870]=`<b>εἰσπληρόω-ῶ</b> (<i>part. prés. pass</i>. -ουμένοις) remplir de, <i>gén</i>. DL. <i>10, 142</i>.`

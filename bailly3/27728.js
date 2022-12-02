@@ -1,0 +1,1 @@
+lar[27728]=`<b>ορος</b>, <i>adj. m</i>. qui fait un bruit sourd, ANTH. <i>4, 3, 59</i>.<p><b>Étym</b>. δουπέω.`

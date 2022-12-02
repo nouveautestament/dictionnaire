@@ -1,0 +1,1 @@
+lar[35508]=`<b>ου</b>, <i>acc</i>. <b>ην (ὁ, ἡ) :<br>      1</b> exempt de mal, sain, en bon état, HPC. <i>488, 39</i> ; PLAT. <i>Phædr. 244e.</i><br><b>      2</b> <i>p. ext</i>. exempt de, <i>gén</i>. EL. <i>N.A. 3, 5 ; 6, 38</i> ; JUL. <i>192a</i>.`

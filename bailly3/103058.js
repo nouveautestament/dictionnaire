@@ -1,0 +1,1 @@
+lar[103058]=`<b>ὑπο·γάμιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> mariage postérieur, PHIL. <i>2, 311</i>.<p><b>Étym</b>. ὑ. γάμος.`

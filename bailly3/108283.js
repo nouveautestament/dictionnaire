@@ -1,0 +1,1 @@
+lar[108283]=`<b>ατος (τὸ)</b> eau pour les ablutions, PHILONID. (POLL. <i>2, 149).</i><p><b>Étym</b>. χερνίπτω.`

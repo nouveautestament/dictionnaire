@@ -1,0 +1,1 @@
+lar[79149]=`<b>περι·πόθητος, ος, ον</b>, très désiré <i>ou</i> très désirable, LUC. <i>D. mort. 9, 2, etc</i>.<p>•<i> Cp</i>. -ότερος, APP. <i>Civ. 3, 4</i>.<p><b>Étym</b>. π. ποθέω.`

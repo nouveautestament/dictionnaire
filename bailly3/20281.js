@@ -1,0 +1,1 @@
+lar[20281]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> boucle de cheveux, frisure, EUM. <i>2, 2</i>.<p><b>Étym</b>. βοστρυχόω.`

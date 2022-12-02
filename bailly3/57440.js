@@ -1,0 +1,1 @@
+lar[57440]=`<b>κουροτροφέω-ῶ :<br>      1</b> nourrir <i>ou</i> élever un garçon, STR. <i>472</i>.<br><b>      2</b> nourrir des garçons, des jeunes gens robustes, PHILSTR. <i>333</i>.<p><b>Étym</b>. κουροτρόφος.`

@@ -1,0 +1,1 @@
+lar[18395]=`<b>έως (ὁ)</b> originaire <i>ou</i> habitant du dème Acharnes, LYS. IS. LYCURG. ESCHN. DÉM.<p>➳ <i>Gén. att</i>. Ἀχαρνείως, CIA. <i>2, 1060, 5 (p.-ê. 4<sup>e</sup> s. av. J.-C.)</i>.<p><b>Étym</b>. Ἀχαρναί.`

@@ -1,0 +1,1 @@
+lar[81038]=`<b>πλησι·σέληνος, ος, ον</b> <font color="purple">[ῐ]</font> qui est dans son plein, <i>en parl. de la lune,</i> P. ALEX. <i>Apot. 16, p. 33, l. 18 Boer</i>.<p><b>Étym</b>. πλήθω, σελήνη.`

@@ -1,0 +1,1 @@
+lar[50935]=`<b>εως (ὁ)</b> Kakyparis (<i>auj</i>. Fontana Bianca) <i>fl. de Sicile,</i> THC. <i>7, 80</i>.`

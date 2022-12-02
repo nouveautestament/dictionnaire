@@ -1,0 +1,1 @@
+lar[13688]=`<b>ου (ὁ)</b> = <i>lat</i>. Apulēius, Apulée, <i>n. rom</i>. PLUT. <i>Cam. 12</i>.`

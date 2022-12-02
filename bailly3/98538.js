@@ -1,0 +1,1 @@
+lar[98538]=`<b>τετρά·γυος, ος, ον</b> <font color="purple">[ᾰ]</font> de quatre arpents, OD. <i>7, 113</i> ; ORPH. <i>Arg. 869</i> ; τὸ τετράγυον, OD. <i>18, 374</i> ; A.RH. <i>3, 1344,</i> quatre arpents, <i>mesure d’une journée de labour</i>.<p><b>Étym</b>. τ. γύης.`

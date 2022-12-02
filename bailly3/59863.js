@@ -1,0 +1,1 @@
+lar[59863]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> pituiteux, HPC. <i>dout</i>.<p><b>Étym</b>. λάπη, -ωδης.`

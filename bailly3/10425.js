@@ -1,0 +1,1 @@
+lar[10425]=`<b>ος, ον</b> <font color="purple">[τᾰ]</font> contraire, hostile, NAZ. <i>2, 201, etc</i>.<p><b>Étym</b>. <i>vb. de</i> ἀνθίστημι.`

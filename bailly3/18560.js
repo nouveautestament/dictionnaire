@@ -1,0 +1,1 @@
+lar[18560]=`<b>ἄ·χυμος, ος, ον</b> <font color="purple">[ῡ]</font> sans suc, ARSTT. <i>Metaph. 1, 8, 13, etc.</i> ; TH. PLUT.<p><b>Étym</b>. ἀ, χυμός.`

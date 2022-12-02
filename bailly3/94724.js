@@ -1,0 +1,1 @@
+lar[94724]=`<b>συν·ανακύπτω</b>, se relever, se redresser avec, THÉM. <i>223c</i>.`

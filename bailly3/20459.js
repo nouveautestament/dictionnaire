@@ -1,0 +1,1 @@
+lar[20459]=`<b>ης, ες</b> <font color="purple">[λῑ]</font> de la nature de la boulimie, GAL. <i>13, 122</i>.<p><b>Étym</b>. βουλιμία, -ωδης.`

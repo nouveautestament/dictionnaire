@@ -1,0 +1,1 @@
+lar[94925]=`<b>συν·αποτίκτω</b>, enfanter avec <i>ou</i> en même temps, PLAT. <i>Theæt. 156e ;</i> PLUT. <i>Cor. 1</i>.`

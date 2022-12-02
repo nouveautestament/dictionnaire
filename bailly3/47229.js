@@ -1,0 +1,1 @@
+lar[47229]=`<i>ou</i> <b>θῇος, α, ον</b>, <i>dor. c</i>. θεῖος, HIPPODAM. <i>et</i> EURYPHAM. (STOB. <i>Fl. 103, 26, t. 4, p. 8, l. 7, 103, 27, t. 4, p. 10, l. 17</i>).`

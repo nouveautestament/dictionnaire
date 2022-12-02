@@ -1,0 +1,1 @@
+lar[23916]=`<i>adv.</i> :<br><b>      1</b> de bon augure, HDN <i>3, 9, 21</i>.<br><b>      2</b> adroitement, habilement, AR. <i>Eccl. 159 ; Nub. 148</i> ; LUC. <i>Alex. 57</i> ; δ. ἔχειν πρός τι, PLUT. <i>M. 660a</i>, convenir <i>ou</i> être approprié à qqe ch.<p>•<i> Sup</i>. -ώτατα, AR. <i>ll. cc</i>.`

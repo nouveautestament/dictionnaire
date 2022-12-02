@@ -1,0 +1,1 @@
+lar[54121]=`<b>κατ·ολισθάνω</b>, glisser, se laisser tomber, A.RH. <i>1, 390</i> ; STR. <i>204 ; fig</i>. εἰς ἔρωτα, ALCIPHR. <i>3, 64,</i> tomber amoureux, <i>etc</i>.<p>➳ <i>Ao.1</i> κατωλίσθησα, ALCIPHR. <i>l. c. ; ao.2</i> κατώλισθον, HSCH. <i>etc. ; poét. sans augm</i>. κατόλισθον, A.RH. <i>l. c. ; pf. inf</i>. κατωλισθηκέναι, ORIB. <i>p. 192 Mai</i>.`

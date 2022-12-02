@@ -1,0 +1,1 @@
+lar[55147]=`<b>η, ον :<br>      1</b> très cher, très précieux, IL. <i>9, 642</i> ; OD. <i>10, 225</i>.<br><b>      2</b> le plus proche parent par alliance, OD. <i>8, 583</i>.<p><b>Étym</b>. <i>sup. dér. de</i> κῆδος.`

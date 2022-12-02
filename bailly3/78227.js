@@ -1,0 +1,1 @@
+lar[78227]=`<b>ατος (τὸ)</b> voile, tissu, vêtement, ESCHL. <i>Sept. 1039</i> ; SOPH. <i>Tr. 613</i> ; EUR. <i>Suppl. 720</i>.<p><b>Étym</b>. *πεπλόω <i>de</i> πέπλος.`

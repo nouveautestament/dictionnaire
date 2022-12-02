@@ -1,0 +1,1 @@
+lar[98218]=`<b>ηνος (ὁ)</b> Tellès, <i>h</i>. PLUT. <i>Prov. 27</i>.<p><b>Étym</b>. <i>cf</i>. Τέλλην.`

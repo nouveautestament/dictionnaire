@@ -1,0 +1,1 @@
+lar[38149]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> action de mélanger, de tempérer, DIPH. (ATH. <i>91f</i>) ; <i>en parl. d’humeurs,</i> DIOSC. <i>2, 53</i>.<br><b>      2</b> mélange, combinaison, union, JAMBL. <i>Math. 208</i>.<p><b>Étym</b>. ἐπικεράννυμι.`

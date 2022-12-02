@@ -1,0 +1,1 @@
+lar[9137]=`<b>ἀν·ιστόρητος, ος, ον :<br>      1</b> non renseigné sur, <i>gén</i>. ARR. <i>Epict. 1, 6, 23, ou</i> περί τινος, POL. <i>12, 3, 2,</i> sur qqe ch.<br><b>      2</b> non mentionné dans l’histoire, inconnu, PLUT. <i>M. 731c, 733b</i>.<p><b>Étym</b>. ἀν-, ἱστορέω.`

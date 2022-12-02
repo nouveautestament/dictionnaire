@@ -1,0 +1,1 @@
+lar[975]=`<b>ας,<br>      1</b> <i>adj. f</i>. chasseresse, PD. <i>P. 9, 6</i> ; Ἄρτεμις ἀγρ. IL. <i>21, 471, ou simpl</i>. Ἀγροτέρα, XÉN. <i>Cyn. 6, 13,</i> Artémis chasseresse, la Chasseresse.<br><b>      2</b> <i>fig</i>. qui poursuit : μέριμνα ἀγρ. PD. <i>O. 2, 60,</i> esprit en quête de qqe ch.<p><b>Étym</b>. ἄγρα.`

@@ -1,0 +1,1 @@
+lar[22618]=`<i>att</i>. <b>κράστις, εως (ἡ)</b> fourrage vert, GRAMM. <i>87, 7 Bekker, Anecdota græca</i> ; HSCH. MŒR. <i>etc</i>.`

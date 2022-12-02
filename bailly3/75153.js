@@ -1,0 +1,1 @@
+lar[75153]=`<b>πάν·σεμνος, ος, ον</b>, tout à fait vénérable, LUC. <i>V. auct. 26</i>.<p><b>Étym</b>. π. σεμνός.`

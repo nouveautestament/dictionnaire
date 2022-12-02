@@ -1,0 +1,1 @@
+lar[7993]=`<b>ή, όν</b> <font color="purple">[ᾰπ]</font> qui concerne la capture et le trafic des esclaves, PLAT. <i>Soph. 222c</i>.<p>•<i> Sup. adv</i>. -κώτατα, EUP. <i>396 Kock</i>.`

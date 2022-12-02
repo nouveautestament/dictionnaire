@@ -1,0 +1,1 @@
+lar[79784]=`<b>ης (ἡ) :<br>      1</b> Persè, <i>fille d’Okéanos, femme d’Hèlios, mère de Circé,</i> OD. <i>10, 139</i> ; A.RH. <i>4, 591</i>.<br><b>      2</b> <i>femme perse,</i> NONN. <i>D. 28, 82</i>.`

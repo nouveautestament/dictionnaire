@@ -1,0 +1,1 @@
+lar[60351]=`<b>ου (τὸ)</b> courroie qui retient le cou du cheval au joug <i>ou</i> au timon, ANTH. <i>4, 3, 47 ; au pl</i>. IL. <i>5, 730 ; 19, 393</i> ; ESCHL. <i>Pers. 191</i> ; AR. <i>Eq. 768 ; fig</i>. lien, joug, ESCHL. <i>Ag. 217</i>.<p><b>Étym</b>. λέπω.`

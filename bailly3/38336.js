@@ -1,0 +1,1 @@
+lar[38336]=`<b>Ἐπί·λυκος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Épilykos, <i>h</i>. STÉSIMBR. (PLUT. <i>Per. 36</i>) ; <i>particul. poète de l’ancienne comédie,</i> ATH. <i>28e, 691c</i>.<p><b>Étym</b>. ἐπί, λύκος.`

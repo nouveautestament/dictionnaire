@@ -1,0 +1,1 @@
+lar[92790]=`<b>στραγγαλόω-ῶ</b> <font color="purple">[γᾰ]</font><br><b>      1</b> tordre, PHIL. BYZ. <i>Bel. 57d ;</i> A. APHR. <i>Probl. 1, 76</i>.<br><b>      2</b> étrangler, suffoquer, SPT. <i>Tob. 2, 3</i>.<p><b>Étym</b>. στραγγάλη.`

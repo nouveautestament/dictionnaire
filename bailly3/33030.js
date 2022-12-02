@@ -1,0 +1,1 @@
+lar[33030]=`<b>ῆς (ἡ)</b> espérance, <i>dans Homère seul. au nomin. et avec l’inf</i>. OD. <i>2, 280 ; 7, 76 ; avec la prop. inf</i>. OD. <i>23, 287 ; au pl</i>. A.RH. <i>3, 1255</i>.<p><b>Étym</b>. ἔλπω.`

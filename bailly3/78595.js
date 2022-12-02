@@ -1,0 +1,1 @@
+lar[78595]=`<b>περι·εστικός, ή, όν</b>, qui annonce la guérison, HPC. <i>Progn. 39, 41, etc</i>.<p><b>Étym</b>. περίειμι¹.`

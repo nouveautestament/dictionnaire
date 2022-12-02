@@ -1,0 +1,1 @@
+lar[10005]=`<b>ἀντι·κύπτω</b>, marcher tête baissée contre, ASCLÉPIOD. <i>Tact. 12, 10</i>.`

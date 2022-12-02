@@ -1,0 +1,1 @@
+lar[21784]=`<b>Γερητο·θεόδωροι, ων (οἱ)</b> des Gérès Théodôros, <i>càd</i>. des mauvais sujets comme Gérès et Théodôros. AR. <i>Ach. 605</i>.<p><b>Étym</b>. Γέρης, Θεόδωρος.`

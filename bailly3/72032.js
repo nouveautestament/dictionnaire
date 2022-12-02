@@ -1,0 +1,1 @@
+lar[72032]=`<b>ὀνυχο·γραφέω-ῶ</b> <font color="purple">[ῠᾰ]</font> marquer <i>ou</i> graver avec l’ongle, HPC. <i>p. 1190d</i>.<p><b>Étym</b>. ὄνυξ, -γραφος <i>de</i> γράφω.`

@@ -1,0 +1,1 @@
+lar[10713]=`<b>οῦ (ὁ)</b> action d’humecter de nouveau, ARCHIG. (ORIB. <i>159 Matthäi).</i><p><b>Étym</b>. ἀνυγραίνω.`

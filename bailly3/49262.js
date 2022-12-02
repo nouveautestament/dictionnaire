@@ -1,0 +1,1 @@
+lar[49262]=`<b>ατος (τὸ)</b> course à cheval, trajet qu’on fait à cheval <i>ou</i> en voiture, EUR. <i>I.T. 1428 (cf</i>. AR. <i>Th. 1066).</i><p><b>Étym</b>. ἱππεύω.`

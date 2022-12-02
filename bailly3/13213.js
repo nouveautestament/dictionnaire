@@ -1,0 +1,1 @@
+lar[13213]=`<b>ἀπο·ρρᾳθυμέω-ῶ</b> <font color="purple">[ᾱῡ]</font> se laisser aller à la mollesse, PLAT. <i>Rsp. 449c ;</i> DÉM. <i>108, 21</i> ; ἀπ. τινος, XÉN. <i>Mem. 3, 7, 9,</i> se relâcher <i>ou</i> s’abstenir, par mollesse, de qqe ch.<p><b>Étym</b>. ἀπό, ῥᾳθυμέω.`

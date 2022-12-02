@@ -1,0 +1,1 @@
+lar[75434]=`<b>εως (ἡ)</b> ordre, commandement, THC. <i>5, 66</i> ; PLAT. <i>Leg. 942b ;</i> ἀπὸ παραγγέλσεως, XÉN. <i>An. 4, 1, 5,</i> par ordre du général (ordre verbal <i>ou</i> par signe et non au moyen de la trompette).<p><b>Étym</b>. παραγγέλλω.`

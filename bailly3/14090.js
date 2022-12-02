@@ -1,0 +1,1 @@
+lar[14090]=`<i>adv. cp</i>. plus loin, SOPH. <i>O.R. 137</i> ; AR. <i>Nub. 761</i> ; PLAT. <i>Phædr. 254c ;</i> ἀπ. τῷ γένει ὄντες, DÉM. <i>1066, 26,</i> parents à un degré plus éloigné ; <i>avec un gén</i>. plus loin de, PLAT. <i>Rsp. 449b, etc</i>.<p><b>Étym</b>. ἀπό.`

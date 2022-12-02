@@ -1,0 +1,1 @@
+lar[64558]=`<b>μεσό·πυλον, ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. μεσοπύλη EN. TACT. <i>Pol. 39</i>.`

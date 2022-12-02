@@ -1,0 +1,1 @@
+lar[56004]=`<b>ου (τὸ) :<br>      1</b> petit héritage, petit bien, ANTH. <i>6, 98</i>.<br><b>      2</b> <i>au pl</i>. τὰ κλαρία <font color="purple">[ᾱρ]</font> <i>dor</i>. PLUT. <i>Agis 13,</i> livre de comptes.<p><b>Étym</b>. κλῆρος.`

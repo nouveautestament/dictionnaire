@@ -1,0 +1,1 @@
+lar[59709]=`<b>όνος (ἡ)</b> clarté, éclat, DS. <i>3, 37</i> ; PLUT. <i>M. 894d, etc</i>.<p><b>Étym</b>. λάμπω.`

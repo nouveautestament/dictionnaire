@@ -1,0 +1,1 @@
+lar[10843]=`<font color="purple">[ῑ]</font> <i>adv</i>., sans jurer, HDT. <i>2, 118</i>.<p><b>Étym</b>. ἀνώμοτος.`

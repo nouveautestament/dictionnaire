@@ -1,0 +1,1 @@
+lar[31378]=`<b>ἑκκαιδεκ·ήρης</b>, <i>gén</i>. <b>εος-ους (ἡ)</b> <i>s.-e</i>. ναῦς, vaisseau à seize rangs de rameurs, POL. <i>18, 27, 6</i> ; PLUT. <i>Æmil. 30, Demetr. 20</i>.<p><b>Étym</b>. ἑ. ἐρέσσω.`

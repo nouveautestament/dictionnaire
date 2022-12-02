@@ -1,0 +1,1 @@
+lar[16459]=`<font color="purple">[πᾰ]</font> <i>adv</i>., sans sympathie, sans compassion, DS. <i>13, 111</i>.`

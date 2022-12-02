@@ -1,0 +1,1 @@
+lar[33638]=`<b>ἐμ·πυρι·βήτης, ου</b> <font color="purple">[ῠῐ]</font> <i>adj. m</i>. qui va sur le feu, IL. <i>23, 702</i>.<p><b>Étym</b>. ἐν, πῦρ, βαίνω.`

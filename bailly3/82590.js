@@ -1,0 +1,1 @@
+lar[82590]=`<b>πολύ·χυτος, ος, ον</b> <font color="purple">[ῠῠ]</font> qui se répand en abondance, PLUT. <i>Cato mi. 26, M. 423a, etc</i>.<p><b>Étym</b>. π. χέω.`

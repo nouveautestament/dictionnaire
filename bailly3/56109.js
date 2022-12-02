@@ -1,0 +1,1 @@
+lar[56109]=`<b>ης, ες</b>, tumultueux, violemment agité, GAL. <i>8, 34</i>.<p><b>Étym</b>. κλόνος, -ωδης.`

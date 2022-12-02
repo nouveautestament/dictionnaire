@@ -1,0 +1,1 @@
+lar[8986]=`<b>ἀνθρωπο·φυής, ής, ές</b>, qui a une nature d’homme, HDT. <i>1, 131</i>.<p><b>Étym</b>. ἄ. φύω.`

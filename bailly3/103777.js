@@ -1,0 +1,1 @@
+lar[103777]=`<b>ὑπό·ρρινος, ος, ον</b> <font color="purple">[ῑ]</font> placé sous le nez ; <i>subst</i>. τὰ ὑπόρρινα, CTÉS. <i>Pers. 53 dout</i>. moustaches.<p><b>Étym</b>. ὑ. ῥίς.`

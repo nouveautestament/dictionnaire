@@ -1,0 +1,1 @@
+lar[22493]=`<b>ητος (ἡ)</b> vivacité, rapidité, impétuosité, SYMM. <i>Eccl. 2, 21 ; en parl. du style,</i> HERMOG. <i>Rhet. 3, 295</i>.<p><b>Étym</b>. γοργός.`

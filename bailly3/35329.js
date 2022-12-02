@@ -1,0 +1,1 @@
+lar[35329]=`<i>adv</i>., d’une manière extraordinaire, excessive, THÉM. <i>p. 312d</i>.`

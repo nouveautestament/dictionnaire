@@ -1,0 +1,1 @@
+lar[36366]=`<b>ἐπ·αγανακτέω-ῶ</b> <font color="purple">[ᾰᾰν]</font> s’indigner de, s’irriter de, <i>dat</i>. PLUT. <i>Alc. 14</i> ; JOS. <i>B.J. 2, 13, 3 ; 2, 19, 3</i> ; CLÉM. <i>1, 649 Migne</i>.`

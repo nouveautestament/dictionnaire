@@ -1,0 +1,1 @@
+lar[95350]=`<b>συν·εκκαίω</b>, brûler avec <i>ou</i> en même temps, EL. <i>V.H. 13, 1</i> ; PLUT. <i>Alex. 35 ; fig</i>. aider à enflammer, <i>acc</i>. POL. <i>3, 14, 3</i> ; PLUT. <i>Pel. 19, Cæs. 44</i>.`

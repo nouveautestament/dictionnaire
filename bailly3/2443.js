@@ -1,0 +1,1 @@
+lar[2443]=`<b>αἰθερο·λόγος, ου (ὁ)</b> qui parle <i>ou</i> s’occupe des régions célestes, DL. <i>2, 4</i>.<p><b>Étym</b>. αἰθ. λέγω.`

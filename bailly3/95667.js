@@ -1,0 +1,1 @@
+lar[95667]=`<b>συν·επιρρέπω</b>, se pencher ensemble vers, PLUT. <i>Phoc. 2</i>.`

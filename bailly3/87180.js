@@ -1,0 +1,1 @@
+lar[87180]=`<b>πρωτοβαθρέω-ῶ</b> <font color="purple">[ᾰ]</font> être assis au premier rang, SPT. <i>Esth. 3, 1</i>.<p><b>Étym</b>. πρωτόβαθρος.`

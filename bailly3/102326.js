@@ -1,0 +1,1 @@
+lar[102326]=`<b>ὑπερ·βακχεύω</b>, se permettre une licence excessive, exagérer outre mesure, PHILSTR. <i>613</i>.`

@@ -1,0 +1,1 @@
+lar[77957]=`<b>πεντά·γωνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a cinq angles, ARSTT. <i>fr. 293</i> ; τὸ πεντάγωνον, PLUT. <i>M. 1003d</i>, pentagone, <i>figure de géométrie</i>.<p><b>Étym</b>. π. γωνία.`

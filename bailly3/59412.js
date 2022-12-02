@@ -1,0 +1,1 @@
+lar[59412]=`<b>λαγο·κτονέω-ῶ</b> <font color="purple">[ᾰ]</font> tuer des lièvres, ANTH. <i>10, 11</i>.<p><b>Étym</b>. λαγώς, κτείνω.`

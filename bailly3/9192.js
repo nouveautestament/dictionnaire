@@ -1,0 +1,1 @@
+lar[9192]=`<i>adv</i>., franchement, légitimement, PHIL. <i>1, 316</i>.`

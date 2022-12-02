@@ -1,0 +1,1 @@
+lar[75489]=`<font color="purple">[μᾰ]</font> <i>adv</i>., en se servant d’exemples, ARSTT. <i>Metaph. 1, 3, 2</i> ; SEXT. <i>P. 3, 163</i>.`

@@ -1,0 +1,1 @@
+lar[31216]=`<b>ος, ον</b>, livré, abandonné, ATH. <i>680c</i>.<p><b>Étym</b>. ἐκδίδωμι.`

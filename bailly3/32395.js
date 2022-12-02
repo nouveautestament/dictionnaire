@@ -1,0 +1,1 @@
+lar[32395]=`<b>ἐκ·χολίζω</b>, extraire la vésicule du fiel, GEOP. <i>14, 19, 3</i>.<p><b>Étym</b>. ἐκ, χολή.`

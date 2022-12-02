@@ -1,0 +1,1 @@
+lar[20551]=`<b>βού·τραγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> (animal fabuleux) demi-bœuf demi-bouc, PHILSTR. <i>265</i>.<p><b>Étym</b>. βοῦς, τράγος.`

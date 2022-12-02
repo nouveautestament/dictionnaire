@@ -1,0 +1,1 @@
+lar[73656]=`<b>οὐρανο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰνᾰφ]</font> description du ciel, <i>titre d’un ouvrage de Démocrite,</i> DL. <i>9, 48</i>.<p><b>Étym</b>. οὐρ. γράφω.`

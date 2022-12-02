@@ -1,0 +1,1 @@
+lar[65190]=`<b>μετ·οκλάζω</b>, aller s’agenouiller, s’accroupir <i>ou</i> se poser d’une place à une autre, IL. <i>13, 281</i> ; ANTH. <i>9, 209</i>.`

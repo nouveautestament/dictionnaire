@@ -1,0 +1,1 @@
+lar[89912]=`<b>(ὁ)</b> <i>indécl</i>. Seth, <i>n. de Typhon chez les Égyptiens,</i> PLUT. <i>Is. et Os. 41, 49, 62</i>.`

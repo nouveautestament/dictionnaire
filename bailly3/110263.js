@@ -1,0 +1,1 @@
+lar[110263]=`<b>ὠμο·βόρος, ος, ον</b>, qui mange de la chair crue, A.RH. <i>1, 636</i> ; EL. <i>N.A. 15, 11</i> ; PHIL. <i>1, 670</i> ; ὠμοβόρον βλέπειν, ALCIPHR. <i>3, 21,</i> avoir un regard féroce.<p><b>Étym</b>. ὠμός, βιβρώσκω.`

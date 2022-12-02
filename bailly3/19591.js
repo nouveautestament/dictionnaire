@@ -1,0 +1,1 @@
+lar[19591]=`<b>ῶν (οἱ)</b> ANTH. <i>9, 428</i> ; APP. <i>etc. ou</i> βέσσοι, ων (οἱ) POL. <i>24, 6</i> ; STR., les Besses, <i>pple thrace</i>.<p><b>Étym</b>. <i>Cf</i>. βησσοί.`

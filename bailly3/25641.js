@@ -1,0 +1,1 @@
+lar[25641]=`<i>adv</i>., de travers, <i>d’où</i> contrairement au bon usage, SEXT. <i>M. 634, 2 Bkk</i>.`

@@ -1,0 +1,1 @@
+lar[19287]=`<b>ου (ὁ)</b> Basillos, <i>h</i>. PLUT. <i>Syll. 9 et 19</i>.`

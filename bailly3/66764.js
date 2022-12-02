@@ -1,0 +1,1 @@
+lar[66764]=`<b>μορφάω-ῶ</b>, figurer, représenter, ANTH. <i>6, 354</i>.<p><b>Étym</b>. μορφή.`

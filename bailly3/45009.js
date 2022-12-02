@@ -1,0 +1,1 @@
+lar[45009]=`<b>ἡδύ·οινος, ος, ον :<br>      1</b> qui donne un vin agréable, XÉN. <i>An. 5, 4, 6</i>.<br><b>      2</b> qui a du bon vin, XÉN. <i>Vect. 5, 3</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>C.P. 3, 15, 1</i>.<p><b>Étym</b>. ἡ. οἶνος.`

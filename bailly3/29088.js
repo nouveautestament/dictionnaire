@@ -1,0 +1,1 @@
+lar[29088]=`<b>δωδεκά·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> de douze lits, ANAXANDR. (ATH. <i>131b</i>).<p><b>Étym</b>. δ. κλίνη.`

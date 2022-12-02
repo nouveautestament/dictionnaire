@@ -1,0 +1,1 @@
+lar[35889]=`<b>ατος (τὸ)</b> invention, découverte, ESCHL. <i>Sept. 649</i> ; HDT. <i>1, 53, etc.</i> ; AR. <i>Eccl. 578</i>.<p><b>Étym</b>. ἐξευρίσκω.`

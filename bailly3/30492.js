@@ -1,0 +1,1 @@
+lar[30492]=`<b>ας (ἡ) :<br>      1</b> condition d’hilote, <i>à Sparte,</i> PLAT. <i>Leg. 776c.</i><br><b>      2</b> les hilotes, ARSTT. (POL. <i>2, 5, 22).</i><p><b>Étym</b>. εἵλως.`

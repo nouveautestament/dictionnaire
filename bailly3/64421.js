@@ -1,0 +1,1 @@
+lar[64421]=`<b>οπος (ὁ)</b> Mérops :<br><b>      1</b> <i>anc. roi de Kos,</i> EUR. <i>Hel. 382</i>.<br><b>      2</b> <i>roi d’Éthiopie,</i> EUR. <i>fr. 711 Nauck</i>.<br><b>      3</b> <i>autres,</i> IL. <i>2, 831 ; 11, 329, etc</i>.`

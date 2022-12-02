@@ -1,0 +1,1 @@
+lar[79421]=`<b>Περί·στρατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Péristratos, <i>h</i>. A. PL. <i>189</i>.<p><b>Étym</b>. π. στρατός.`

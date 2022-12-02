@@ -1,0 +1,1 @@
+lar[68914]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> légalité <i>ou</i> régularité, JAMBL. <i>V. Pyth. 69, 229</i>.<p><b>Étym</b>. νόμιμος.`

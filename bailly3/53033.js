@@ -1,0 +1,1 @@
+lar[53033]=`<b>κατα·πενθέω-ῶ</b>, pleurer sur, déplorer, <i>acc</i>. ANTH. <i>7, 618</i> ; SPT. <i>Ex. 33, 9</i>.`

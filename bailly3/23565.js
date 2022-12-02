@@ -1,0 +1,1 @@
+lar[23565]=`<b>δεινο·λογία, ας (ἡ)</b> relation exagérée d’un événement fâcheux, POL. <i>33, 5, 3</i>.<p><b>Étym</b>. <i>v</i>. δεινολογέομαι.`

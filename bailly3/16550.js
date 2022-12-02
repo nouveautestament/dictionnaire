@@ -1,0 +1,1 @@
+lar[16550]=`<b>ος, ον</b> <font color="purple">[ᾰῠ]</font> sans valeur, vil, ἀ. ἔπος, IL. <i>24, 767,</i> parole injurieuse ; ὥς μ' ἀσύφηλον ἔρεξε, IL. <i>9, 647,</i> comme il m’a indignement traité.<p><b>Étym</b>. <i>Orig. incert. ; p.-ê. de</i> ἄσοφος, <i>d’où éol</i>. ἀσύφηλος.`

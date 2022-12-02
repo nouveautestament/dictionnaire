@@ -1,0 +1,1 @@
+lar[34381]=`<b>ἐν·ερεύγω</b> (<i>seul. ao.2</i> ἐνήρυγον) roter sur, AR. <i>Vesp. 913</i>.<br><b><i>Moy.</i></b> vomir sur, <i>dat</i>. NIC. <i>Th. 185</i>.`

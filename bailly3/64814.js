@@ -1,0 +1,1 @@
+lar[64814]=`<b>ῆρος (ὁ, ἡ)</b> qui s’enfonce dans la terre, souterrain, P. SIL. <i>Ecphr. ag. Soph. 621</i>.<p><b>Étym</b>. μεταλλεύω.`

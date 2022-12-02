@@ -1,0 +1,1 @@
+lar[78949]=`<i>adv</i>., avec une intelligence vaste <i>ou</i> profonde, HERMOG. <i>3, 359 Walz</i>.<p><b>Étym</b>. περινοέω.`

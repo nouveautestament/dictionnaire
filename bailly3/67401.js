@@ -1,0 +1,1 @@
+lar[67401]=`<b>μυσ·άρχης, ου (ὁ)</b> <font color="purple">[ῠ]</font> auteur d’infamies, SPT. <i>2Macc. 5, 24</i>.<p><b>Étym</b>. μύσος, ἄρχω.`

@@ -1,0 +1,1 @@
+lar[5783]=`<b>ἄ·μοχθος, ος, ον :<br>      1</b> non fatigué, XÉN. <i>Mem. 2, 1, 33</i>.<br><b>      2</b> exempt de peine, de fatigue, SOPH. <i>Tr. 147</i> ; EUR. <i>fr. 242</i>.<p>•<i> Cp</i>. -ότερος, ANTH. <i>9, 390</i>.<p><b>Étym</b>. ἀ, μόχθος.`

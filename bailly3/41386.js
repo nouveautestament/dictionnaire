@@ -1,0 +1,1 @@
+lar[41386]=`<b>ἑτερό·τροφος, ος, ον</b>, nourri d’une autre manière, <i>càd</i>. étranger, SYN. <i>22</i>.<p><b>Étym</b>. ἕ. τρέφω.`

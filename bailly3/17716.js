@@ -1,0 +1,1 @@
+lar[17716]=`<b>αὐτο·σχεδόν</b>, <i>adv.</i> :<br><b>      1</b> (<i>avec idée de lieu</i>) sur le lieu même, <i>d’où</i> de près, IL. <i>7, 273, etc.</i> ; OD. <i>22, 293 ; avec un gén</i>. près de, ARAT. <i>901</i>.<br><b>      2</b> (<i>avec idée de temps</i>) sur-le-champ, aussitôt, en hâte, A.RH. <i>1, 12, etc</i>.<p><b>Étym</b>. αὐ. σχεδόν.`

@@ -1,0 +1,1 @@
+lar[21801]=`<i>mauv. prononciat. par un Scythe de</i> γερόντιον, AR. <i>Th. 1212</i>.`

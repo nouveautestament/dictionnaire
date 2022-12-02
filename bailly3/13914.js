@@ -1,0 +1,1 @@
+lar[13914]=`<b>ἀ·πρόληπτος, ος, ον</b>, non présumé, non préjugé, HIÉROCL. <i>C. aur. p. 459 Mullach</i>.<p><b>Étym</b>. ἀ, προλαμβάνω.`

@@ -1,0 +1,1 @@
+lar[50257]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui renverse, destructeur, THC. <i>4, 83</i> ; Καίσαρος, DC. <i>44, 1,</i> meurtrier de César.<p><b>Étym</b>. καθαιρέω.`

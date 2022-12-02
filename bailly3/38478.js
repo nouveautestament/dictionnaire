@@ -1,0 +1,1 @@
+lar[38478]=`<i>adv</i>., péniblement, APP. <i>Lib. 72</i>.`

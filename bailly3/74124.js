@@ -1,0 +1,1 @@
+lar[74124]=`<b>πάγ·κληρος, ος, ον</b>, qui constitue un héritage entier, EUR. <i>Ion 1542</i>.<p><b>Étym</b>. π. κλῆρος.`

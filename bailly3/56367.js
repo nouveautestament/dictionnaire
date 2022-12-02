@@ -1,0 +1,1 @@
+lar[56367]=`<b>ας (ἡ)</b> <font color="purple">[βᾱ]</font> bouffonnerie, mystification, DIN. (HARP.).<p><b>Étym</b>. κόβαλος.`

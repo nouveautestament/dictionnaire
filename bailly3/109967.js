@@ -1,0 +1,1 @@
+lar[109967]=`<b>ψυχο·γόνιμος, ος, ον</b> <font color="purple">[ῡῐ]</font> qui engendre l’âme <i>ou</i> la vie, PHIL. <i>2, 96</i>.<p><b>Étym</b>. <i>cf</i>. ψυχογονία.`

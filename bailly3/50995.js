@@ -1,0 +1,1 @@
+lar[50995]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰᾰ]</font> de roseau, EUR. <i>I.A. 1038</i>.<p><b>Étym</b>. κάλαμος.`

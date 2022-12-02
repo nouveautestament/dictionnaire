@@ -1,0 +1,1 @@
+lar[28465]=`<i>adv</i>., avec jalousie, PLUT. <i>Alex. 77</i>.<p><b>Étym</b>. δύσζηλος.`

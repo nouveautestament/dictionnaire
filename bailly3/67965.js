@@ -1,0 +1,1 @@
+lar[67965]=`<b>οῦς (ὁ)</b> Neilô, <i>f</i>. EPICH. (TZETZ. <i>Sch. Hes. 23</i>).`

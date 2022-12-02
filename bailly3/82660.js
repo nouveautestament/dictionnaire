@@ -1,0 +1,1 @@
+lar[82660]=`<b>οῦ (ὁ)</b> bulle, bouton, pustule, HPC. <i>485, 54 ; 641, 49 ; cf</i>. πέμφιξ.`

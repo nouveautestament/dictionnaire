@@ -1,0 +1,1 @@
+lar[5596]=`<b>ἀμιμητό·βιος, ος, ον</b> <font color="purple">[μῑ]</font> dont la vie est inimitable, PLUT. <i>Ant. 28, 71</i>.<p><b>Étym</b>. ἀμίμητος, βίος.`

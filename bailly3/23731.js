@@ -1,0 +1,1 @@
+lar[23731]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en dix parties <i>ou</i> sections, DC. <i>55, 24</i>.<p><b>Étym</b>. δέκα, -χη.`

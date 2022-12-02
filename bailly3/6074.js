@@ -1,0 +1,1 @@
+lar[6074]=`<b>ἀμφί·βροτος, η, ον :<br>      1</b> qui couvre (<i>litt</i>. qui enveloppe) tout l’homme, <i>en parl. d’un bouclier,</i> IL. <i>2, 389</i>.<br><b>      2</b> qui enveloppe l’homme, <i>en parl. du corps, enveloppe de l’âme,</i> EMPÉD. (PLUT. <i>M. 683e</i>).<p><b>Étym</b>. ἀ. βροτός.`

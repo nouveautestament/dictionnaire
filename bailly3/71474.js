@@ -1,0 +1,1 @@
+lar[71474]=`<b>ὁμό·δουπος, ος, ον</b>, dont le bruit se mêle à, <i>dat</i>. NONN. <i>D. 39, 129</i>.<p><b>Étym</b>. ὁμ. δοῦπος.`

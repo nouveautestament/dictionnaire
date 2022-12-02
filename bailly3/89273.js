@@ -1,0 +1,1 @@
+lar[89273]=`<b>σάμ·πι</b>, <i>ou mieux</i> <b>σαμ·πῖ (τὸ)</b> <i>indécl</i>. sampi, <i>signe d’écriture ainsi figuré</i> ϡ, <i>abréviation de</i> Ϲ (<i>l’une des formes du sigma) et de</i> π. <i>Comme chiffre</i> ϡ = 900.<p><b>Étym</b>. σάν, πῖ.`

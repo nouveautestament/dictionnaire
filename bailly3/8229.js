@@ -1,0 +1,1 @@
+lar[8229]=`<b>ἀν·έκδοτος, ος, ον :<br>      1</b> non livré ; <i>en parl. d’une femme,</i> non remise (à un époux), non mariée, LYS. <i>134, 1</i> ; DÉM. <i>1124, 7</i> ; HYPÉR. <i>Lyc. 11</i>.<br><b>      2</b> non publié, inédit, DS. <i>1, 4</i> ; CIC. <i>Att. 14, 17, 6</i>.<p><b>Étym</b>. ἀν-, ἐκδίδωμι.`

@@ -1,0 +1,1 @@
+lar[108431]=`<font color="purple">[ῑ]</font><br><b>      1</b> nourrir de fourrage, <i>acc</i>. TH. <i>C.P. 2, 17, 6</i>.<br><b>      2</b> paître, NIC. <i>Th. 635</i>.<p><b>Étym</b>. χιλός.`

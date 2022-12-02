@@ -1,0 +1,1 @@
+lar[2804]=`<b>α, ον</b> = <i>lat</i>. aerārius, du trésor public, DC. <i>fr. 57, 71</i>.`

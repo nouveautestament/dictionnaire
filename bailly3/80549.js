@@ -1,0 +1,1 @@
+lar[80549]=`<b>πιτυο·κάμπτης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. qui courbe les pins, <i>surn. du brigand Sinis,</i> PLUT. <i>Thes. 8</i> ; STR. <i>391</i> ; PAUS. <i>2, 1, 4</i> ; APD. <i>3, 16, 2</i>.<p><b>Étym</b>. π. κάμπτω.`

@@ -1,0 +1,1 @@
+lar[56714]=`<b>εως (ἡ)</b> action de couper, de rogner, ARSTT. <i>Pol. 5, 10</i> ; TH. <i>H.P. 2, 15, 4 ; au plur</i>. TH. <i>H.P. 5, 17, 5</i> ; PLUT. <i>M. 157d</i>.<p><b>Étym</b>. κολούω.`

@@ -1,0 +1,1 @@
+lar[56860]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> κόνδυλος, AXION. (ATH. <i>239f</i>).`

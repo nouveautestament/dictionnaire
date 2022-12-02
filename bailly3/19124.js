@@ -1,0 +1,1 @@
+lar[19124]=`<b>βαρύ·γδουπος, ος, ον</b> <font color="purple">[ᾰ]</font> qui fait un bruit retentissant, <i>en parl. de Zeus,</i> PD. <i>O. 6, 81 ; 8, 44 ; des vents,</i> PD. <i>P. 4, 210</i> ; ANTH. <i>9, 674 ; de la mer,</i> MUS. <i>270</i>.<p><b>Étym</b>. <i>Cf</i>. βαρύδουπος.`

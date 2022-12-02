@@ -1,0 +1,1 @@
+lar[38233]=`<b>ος, ον</b> <font color="purple">[ῡ]</font> courbé, SPT. <i>3Macc. 4, 5</i>.<p><b>Étym</b>. ἐπικύπτω.`

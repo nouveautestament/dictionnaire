@@ -1,0 +1,1 @@
+lar[51806]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾱ]</font> méchant petit Carien, <i>n. d’esclave,</i> EUPHRON (ATH. <i>377d</i>) ; LUC. <i>Cat. 12</i>.<p><b>Étym</b>. Κάρ.`

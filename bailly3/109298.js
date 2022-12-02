@@ -1,0 +1,1 @@
+lar[109298]=`<b>χρυσο·φύλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῡῠᾰκ]</font> gardien de l’or, gardien d’un trésor, HDT. <i>4, 13, 27</i> ; EUR. <i>Ion 54 ; subst</i>. ὁ χρ. trésorier, PLUT. <i>Arist. 24</i>.<p><b>Étym</b>. χρ. φύλαξ.`

@@ -1,0 +1,1 @@
+lar[43027]=`<b>εὐ·πίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῑ]</font> très gras, ANTH. <i>7, 654</i>.<p><b>Étym</b>. εὖ, πίων.`

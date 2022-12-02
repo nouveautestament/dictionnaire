@@ -1,0 +1,1 @@
+lar[80495]=`<b>ή, όν</b>, propre à faire foi, démonstratif, HERMOG. <i>p. 324, 19</i>.<p><b>Étym</b>. πιστόω.`

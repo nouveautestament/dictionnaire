@@ -1,0 +1,1 @@
+lar[29498]=`<b>ἐγ·κάρσιος, α, ον</b>, oblique (route, HDT. <i>1, 180</i> ; mur, THC. <i>6, 99</i> ; poutres, THC. <i>2, 76</i> ; l’écliptique, ARSTT. <i>Mund. 2) ; fig</i>. (démonstration, PLUT. <i>M. 630a</i>).<p><b>Étym</b>. ἐν, κ.`

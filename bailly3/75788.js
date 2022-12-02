@@ -1,0 +1,1 @@
+lar[75788]=`<b>ή, όν</b>, qui a l’esprit atteint <i>ou</i> égaré, GAL. <i>2, 260</i> ; ANTYLL. (ORIB. <i>2, 308 B.-Dar</i>.).<p><b>Étym</b>. παρακόπτω.`

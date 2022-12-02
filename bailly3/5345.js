@@ -1,0 +1,1 @@
+lar[5345]=`<b>ἀμβλυ·ωπής, ής, ές</b>, qui affaiblit la vue, DIOSC. <i>2, 174</i>.<p><b>Étym</b>. ἀμβλύς, ὤψ.`

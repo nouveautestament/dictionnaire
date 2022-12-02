@@ -1,0 +1,1 @@
+lar[26261]=`<b>δι·ερέσσω :<br>      1</b> ramer à travers, OD. <i>12, 444 ; 14, 351</i>.<br><b>      2 <i>tr.</i></b> agiter comme des rames, <i>acc</i>. EUR. <i>Tr. 1258</i>.`

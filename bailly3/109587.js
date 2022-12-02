@@ -1,0 +1,1 @@
+lar[109587]=`<b>ή, όν</b>, gratté, poli, <i>d’où</i> touché de la main d’un artiste, HDN <i>1, 11, 2</i>.<p><b>Étym</b>. ψαύω.`

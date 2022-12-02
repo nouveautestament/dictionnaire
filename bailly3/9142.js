@@ -1,0 +1,1 @@
+lar[9142]=`<b>ἀν·ίσχυρος, ος, ον</b> <font color="purple">[ῡ]</font> sans force, STR. <i>89</i>.<p><b>Étym</b>. ἀν-, ἰσχυρός.`

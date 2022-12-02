@@ -1,0 +1,1 @@
+lar[18536]=`<b>ἄ·χρηστος, ος, ον</b>, qui n’a pas reçu de réponse de l’oracle, ATH. <i>98c</i> (<i>avec jeu de mots sur le sens</i> « inutile », <i>v</i>. ἄχρηστος).<p><b>Étym</b>. ἀ, χράομαι.`

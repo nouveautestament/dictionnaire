@@ -1,0 +1,1 @@
+lar[14458]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui plaît, agréable, <i>en parl. de choses,</i> HDT. <i>1, 119, etc.</i> ; SOPH. <i>Ant. 500, etc.</i> ; XÉN. <i>Mem. 3, 11, 10, etc. ; rar. en parl. de pers</i>. PLUT. <i>Ant. 9</i>.<p><b>Étym</b>. <i>vb. de</i> ἀρέσκω.`

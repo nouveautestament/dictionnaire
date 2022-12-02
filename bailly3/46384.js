@@ -1,0 +1,1 @@
+lar[46384]=`<b>ας (ἡ)</b> thapsie, <i>plante,</i> ARSTT. <i>Probl. 1, 41, 1</i> ; TH. <i>H.P. 9, 9, 1</i> ; DIOSC. <i>4, 157</i>.<p><b>Étym</b>. <i>cf</i>. θάψος.`

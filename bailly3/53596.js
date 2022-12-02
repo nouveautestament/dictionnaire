@@ -1,0 +1,1 @@
+lar[53596]=`<b>ας</b>, <i>adj. f</i>. qui brille, qui éclaire, ORPH. <i>8, 6</i>.<p><b>Étym</b>. καταυγάζω.`

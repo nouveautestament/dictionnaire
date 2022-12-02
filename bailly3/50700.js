@@ -1,0 +1,1 @@
+lar[50700]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> κακοδαιμονίζω, PHIL. <i>2, 671</i>.`

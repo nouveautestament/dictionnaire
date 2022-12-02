@@ -1,0 +1,1 @@
+lar[1218]=`<b>ἄ·δεκτος, ος, ον</b>, qui ne peut recevoir, incapable de, <i>gén</i>. PLUT. <i>M. 881b ;</i> PLOT. <i>Enn. 1, 2, 12 Creuz</i>.<p><b>Étym</b>. ἀ, δέχομαι.`

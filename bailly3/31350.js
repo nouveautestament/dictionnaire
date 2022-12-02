@@ -1,0 +1,1 @@
+lar[31350]=`<font color="purple">[ῠ]</font> offrir un sacrifice expiatoire, SIB. <i>5, 54</i>.<p><b>Étym</b>. ἐκθυσία.`

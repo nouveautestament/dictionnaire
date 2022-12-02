@@ -1,0 +1,1 @@
+lar[54269]=`<b>καυκαλο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à une coquille, MOSCHION <i>Mul. pass. 91</i>.<p><b>Étym</b>. καύκαλον, εἶδος.`

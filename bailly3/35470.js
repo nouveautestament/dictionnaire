@@ -1,0 +1,1 @@
+lar[35470]=`<b>ἐξ·αναστέφω</b> <font color="darkgreen">(<i>impf</i>. ἐξανέστεφον)</font> couronner <i>ou</i> ceindre de nouveau, EUR. <i>Bacch. 1055</i>.`

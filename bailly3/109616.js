@@ -1,0 +1,1 @@
+lar[109616]=`<b>ατος (τὸ)</b> trébuchement, faux pas, HIM. <i>Or. 23, 21</i>.<p><b>Étym</b>. ψελλίζω.`

@@ -1,0 +1,1 @@
+lar[84464]=`<b>προ·κατακλίνω</b> <font color="purple">[ῑ]</font> faire coucher (à table) à la première place <i>ou</i> sur un lit plus élevé que les autres, JOS. <i>A.J. 15, 2, 4</i> ; LUC. <i>D. deor. 13, 1</i>.`

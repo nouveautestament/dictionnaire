@@ -1,0 +1,1 @@
+lar[54434]=`<b>η, ον</b> <font color="purple">[ῐ]</font> fait avec du millet, DIOSC. <i>5, 4</i>.<p><b>Étym</b>. κέγχρος.`

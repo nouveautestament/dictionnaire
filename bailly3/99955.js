@@ -1,0 +1,1 @@
+lar[99955]=`<b>ου (ὁ)</b> Trauos, <i>fl. de Thrace,</i> HDT. <i>7, 109</i>.`

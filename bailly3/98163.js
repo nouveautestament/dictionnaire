@@ -1,0 +1,1 @@
+lar[98163]=`<b>τελεσιουργέω-ῶ :</b> achever son œuvre, <i>d’où</i> :<br><b>      1</b> <i>abs</i>. achever, accomplir, POL. <i>5, 4, 10</i>.<br><b>      2</b> faire se réaliser, <i>acc</i>. LUC. <i>Nav. 25</i>.<br><b>      3</b> mener à terme, à maturité, ARSTT. <i>G.A. 1, 8, 4, etc. ; au pass</i>. ARSTT. <i>H.A. 6, 10, 16, etc</i>.<p><b>Étym</b>. τελεσιουργός.`

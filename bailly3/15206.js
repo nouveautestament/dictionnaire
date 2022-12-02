@@ -1,0 +1,1 @@
+lar[15206]=`<b>α (ὁ)</b> Arsakomas, <i>Scythe,</i> LUC. <i>Tox. 44</i>.`

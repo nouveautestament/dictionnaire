@@ -1,0 +1,1 @@
+lar[72081]=`<b>ὀξυδορκέω-ῶ</b>, avoir la vue perçante <i>ou</i> le regard, perçant, PLUT. <i>M. 469b, 515d ;</i> LUC. <i>Bis acc. 34, etc</i>.`

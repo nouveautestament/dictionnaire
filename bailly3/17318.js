@@ -1,0 +1,1 @@
+lar[17318]=`<b>αὐτ·άδελφος, ος, ον</b> <font color="purple">[ᾰ]</font> du propre frère, de la propre sœur, ESCHL. <i>Sept. 718 ; Eum. 89</i> ; SOPH. <i>Ant. 1 ; subst</i>. ὁ, ἡ αὐτ. le propre frère, la propre sœur, SOPH. <i>Ant. 503, 696</i>.<p><b>Étym</b>. αὐτός, ἀδελφός.`

@@ -1,0 +1,1 @@
+lar[22514]=`<b>ου (τὸ)</b> Gordion, <i>v. de Phrygie,</i> XÉN. <i>Hell. 1, 4, 1</i> ; PLUT. <i>Alex. 18 ; etc</i>.`

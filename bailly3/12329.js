@@ -1,0 +1,1 @@
+lar[12329]=`<b>ῆρος (ὁ)</b> qui restitue <i>ou</i> rémunère, EPICH. (EM. <i>725, 25).</i><p><b>Étym</b>. ἀποδίδωμι.`

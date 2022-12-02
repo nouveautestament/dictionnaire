@@ -1,0 +1,1 @@
+lar[103470]=`<b>ατος (τὸ)</b> ce que l’on conçoit, pensée, PLAT. <i>Def. 413b ;</i> PLUT. <i>M. 164f</i>.<p><b>Étym</b>. ὑπολαμβάνω.`

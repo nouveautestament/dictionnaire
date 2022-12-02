@@ -1,0 +1,1 @@
+lar[25902]=`<b>ας (ἡ)</b> discordance, désaccord, PLAT. <i>Leg. 689a, 691a</i>.<p><b>Étym</b>. διάφωνος.`

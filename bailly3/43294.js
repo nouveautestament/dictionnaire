@@ -1,0 +1,1 @@
+lar[43294]=`<b>ους (ὁ)</b> <font color="purple">[ῠᾰ]</font> le fils d’Eurymédôn, HIPPON. (ATH. <i>698c</i>).<p><b>Étym</b>. <i>patr. de</i> Εὐρυμέδων.`

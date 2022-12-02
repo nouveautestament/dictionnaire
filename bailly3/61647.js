@@ -1,0 +1,1 @@
+lar[61647]=`<b>ωνος (ὁ)</b> démon <i>ou</i> génie de la lubricité, PLAT. COM. (ATH. <i>442a</i>).<p><b>Étym</b>. λορδός.`

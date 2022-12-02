@@ -1,0 +1,1 @@
+lar[28057]=`<b>ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> <i>ion</i>. affliction, A.RH. <i>4, 1395</i> ; A. PL. <i>113</i>.<p><b>Étym</b>. δυηπαθής.`

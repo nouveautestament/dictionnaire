@@ -1,0 +1,1 @@
+lar[206]=`<b>ων (τὰ)</b> mûres sauvages, PARTH. (ATH. <i>51f</i>).`

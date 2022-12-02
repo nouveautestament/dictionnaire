@@ -1,0 +1,1 @@
+lar[66178]=`<b>ή, όν</b>, apte à se souvenir, qui a de la mémoire, PLOT. <i>Enn. 2, 732</i>.<p><b>Étym</b>. μνημονεύω.`

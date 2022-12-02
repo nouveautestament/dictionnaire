@@ -1,0 +1,1 @@
+lar[70192]=`<b>ης (ἡ)</b> mauvaise odeur de la bouche, CELS. <i>3, 11</i>.<p><b>Étym</b>. ὄζω.`

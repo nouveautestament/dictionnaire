@@ -1,0 +1,1 @@
+lar[16786]=`<b>ἄ·τηκτος, ος, ον :<br>      1</b> non fondu, PLAT. <i>Phæd. 106a, etc.</i> ; ARSTT. <i>Meteor. 3, fin ; 4, 8 ; etc.</i><br><b>      2</b> qu’on ne peut faire fondre <i>ou</i> amollir, <i>fig</i>. PLAT. <i>Leg. 853d</i>.<p><b>Étym</b>. ἀ, τήκω.`

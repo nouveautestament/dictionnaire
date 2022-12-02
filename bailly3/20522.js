@@ -1,0 +1,1 @@
+lar[20522]=`<b>(οἱ)</b> les Bouses, <i>pple mède,</i> HDT. <i>1, 101</i>.`
