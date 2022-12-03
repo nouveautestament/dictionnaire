@@ -1,1 +1,0 @@
-lar[62386]=`<b>ας (ἡ)</b> Méonie, <i>anc. n. de la Lydie,</i> NONN. <i>D. 10, 307, etc. ; postér. seul. une partie de la Lydie sur la frontière de la Mysie et de la Phrygie,</i> STR. <i>576, etc</i>.<p>➳ <i>Ion</i>. Μαιονίη, NONN. <i>l. c., etc</i>.<p><b>Étym</b>. Μαίονες ; <i>cf</i>. Μῃονίη.`

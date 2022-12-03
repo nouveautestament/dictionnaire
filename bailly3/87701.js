@@ -1,1 +1,0 @@
-lar[87701]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> porte, ESCHL. <i>Sept. 406, 799</i> ; EUR. <i>Hipp. 808, etc</i>.<p><b>Étym</b>. πυλόω.`

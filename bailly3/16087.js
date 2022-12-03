@@ -1,1 +1,0 @@
-lar[16087]=`<b>ων (οἱ)</b> PLUT. <i>ou</i> <b>Ἀσσακηνοί, ῶν (οἱ)</b> ARR. les Assakanes <i>ou</i> Assakènes, <i>pple indien</i>.<p><b>Étym</b>. <i>v</i>. Ἀσσακανός.`

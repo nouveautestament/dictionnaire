@@ -1,1 +1,0 @@
-lar[25869]=`<b>ητος (ἡ)</b> différence, PLAT. <i>Phil. 12e, Rsp. 587b, Theæt. 209a ;</i> EL. <i>N.A. 3, 32, etc</i>.<p><b>Étym</b>. διάφορος.`

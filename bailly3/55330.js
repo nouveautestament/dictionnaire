@@ -1,1 +1,0 @@
-lar[55330]=`<b>ατος (τὸ)</b> chair salée des gros poissons de mer, <i>particul</i>. du thon, DIPH. (ATH. <i>121b</i>).<p><b>Étym</b>. κῆτος.`

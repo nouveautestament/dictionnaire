@@ -1,1 +1,0 @@
-lar[74566]=`<b>παλιν·δορία, ας (ἡ)</b> <font color="purple">[ᾰλ]</font> pièce de cuir pour de vieilles chaussures, PLAT. COM. <i>2-2, 667 Mein</i>.<p><b>Étym</b>. π. δορά.`

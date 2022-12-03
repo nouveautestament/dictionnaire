@@ -1,1 +1,0 @@
-lar[63006]=`<b>ου</b>, <i>acc</i>. <b>αν (ὁ)</b> quadrupède de l’Inde, tigre, CTÉS. (ARSTT. <i>H.A. 2, 1, 53, conj. p</i>. μαντιχώρας).`

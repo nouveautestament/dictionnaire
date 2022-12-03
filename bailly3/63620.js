@@ -1,1 +1,0 @@
-lar[63620]=`<b>οῦ (ὁ)</b> celui qui agit avec méthode, PTOL. <i>Tetr. 165</i>.<p><b>Étym</b>. μεθοδεύω.`

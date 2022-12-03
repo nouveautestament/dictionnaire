@@ -1,1 +1,0 @@
-lar[29477]=`<b>ἐγ·καλο·σκελεῖς (οἱ)</b> <font color="purple">[ᾱ]</font> qui ont les jambes entravées, COM. (<i>Com. fr. 4, 635).</i><p><b>Étym</b>. ἐν, κᾶλον, σκέλος.`

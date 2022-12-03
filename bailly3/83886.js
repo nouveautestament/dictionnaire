@@ -1,1 +1,0 @@
-lar[83886]=`<b>ου (ὁ)</b> <i>sorte de comédien,</i> DS. <i>Exc. p. 606, 66</i>.<p><b>Étym</b>. προδείκνυμι.`

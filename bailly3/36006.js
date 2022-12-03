@@ -1,1 +1,0 @@
-lar[36006]=`<b>ἐξ·ινίζω</b> <font color="purple">[ῑν]</font> <i>c</i>. ἐξινιάζω RUF. (ORIB. <i>2, 276 B.-Dar</i>.).`

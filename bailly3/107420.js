@@ -1,1 +1,0 @@
-lar[107420]=`<i>ou</i> <b>φωσώνιον, ου (τὸ)</b> mouchoir de toile, LUC. <i>Lex. 2</i>.<p><b>Étym</b>. <i>dim. de</i> φώσσων.`

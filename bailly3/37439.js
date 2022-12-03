@@ -1,1 +1,0 @@
-lar[37439]=`<b>ἐπί·γειος, ος, ον</b>, qui est sur la terre, <i>d’où</i> :<br><b>      1</b> qui vit sur la terre, PLAT. <i>Rsp. 546a ;</i> ARSTT. <i>H.A. 9, 49, 10 ; P.A. 2, 13, 9</i> ; ANTH. <i>App. 369</i>.<br><b>      2</b> qui se traîne à terre, rampant, <i>en parl. de plantes,</i> TH. <i>H.P. 3, 18, 6</i>.<p><b>Étym</b>. ἐπί, γῆ.`

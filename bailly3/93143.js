@@ -1,1 +1,0 @@
-lar[93143]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. στωμύληθρος ATH. <i>381b</i>.`

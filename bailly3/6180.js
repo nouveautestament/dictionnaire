@@ -1,1 +1,0 @@
-lar[6180]=`<b>ἀμφί·κειμαι</b> (<i>seul. prés</i>.) être couché, étendu <i>ou</i> placé autour, PD. <i>fr. 93</i> ; ἐπ' ἀλλήλοισιν ἀμφικείμενοι πάντες, SOPH. <i>O.C. 1620,</i> se tenant tous embrassés les uns les autres.`

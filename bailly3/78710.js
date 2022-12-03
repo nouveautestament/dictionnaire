@@ -1,1 +1,0 @@
-lar[78710]=`<b>Περι·καλλίμαχοι, ων (οἱ)</b> <font color="purple">[λῐᾰ]</font> partisans de Callimaque, ANTH. <i>11, 347</i>.<p><b>Étym</b>. π. Καλλίμαχος.`

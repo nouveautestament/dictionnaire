@@ -1,1 +1,0 @@
-lar[73952]=`<b>ης, ες :<br>   I</b> qui concerne la foule, <i>d’où</i> :<br><b>      1</b> tumultueux, turbulent, PLAT. <i>Rsp. 590b ;</i> τὸ ὀχλῶδες, THC. <i>6, 24,</i> le tumulte, les embarras.<br><b>      2</b> populaire, commun, vulgaire, PLUT. <i>Cato ma. 18, etc.</i><br><b>   II</b> fatigant, HPC. <i>de Fract. 759</i>.<p><b>Étym</b>. ὄχλος, -ωδης.`

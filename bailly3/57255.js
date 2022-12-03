@@ -1,1 +1,0 @@
-lar[57255]=`<b>ῆρος (ὁ)</b> qui arrange, dispose <i>ou</i> dirige, EPIGR. (ESCHN. <i>80, 22</i>) ; PLUT. <i>Cim. 7</i>.<p><b>Étym</b>. κοσμέω.`

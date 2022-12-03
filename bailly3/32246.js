@@ -1,1 +1,0 @@
-lar[32246]=`<b>ἐκ·τρυφάω-ῶ</b> <font color="purple">[ῠ]</font> s’abandonner à une mollesse excessive, à la sensualité, PLUT. <i>Alex. 40</i> ; ATH. <i>519f, 554b</i>.`

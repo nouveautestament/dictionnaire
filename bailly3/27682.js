@@ -1,1 +1,0 @@
-lar[27682]=`<b>α, ον</b>, d’esclave, servile, OD. <i>24, 252</i> ; PD. <i>fr. 244</i> ; ESCHL. <i>Sept. 75</i> ; EUR. <i>Andr. 302</i> ; PLAT. <i>Leg. 770e, etc</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Tr. 1330. Fém. ion</i>. δουληΐη (<i>var</i>. δουλίη) HDT. <i>3, 14</i>.<p><b>Étym</b>. δοῦλος.`

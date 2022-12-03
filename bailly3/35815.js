@@ -1,1 +1,0 @@
-lar[35815]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> achèvement, POL. <i>10, 45, 6</i>.<br><b>      2</b> travail du sol, culture, TH. <i>C.P. 3, 1, 6 ; p. ext</i>. travail de composition, DH. <i>Isocr. 4</i> ; PLUT. <i>M. 1004e</i>.<p><b>Étym</b>. ἐξεργάζομαι.`

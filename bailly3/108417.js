@@ -1,1 +1,0 @@
-lar[108417]=`<b>χθονο·γηθής, ής, ές</b>, qui aime les choses de la terre, SYN. <i>Hymn. 1, 114</i>.<p><b>Étym</b>. χθ. γηθέω.`

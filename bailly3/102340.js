@@ -1,1 +1,0 @@
-lar[102340]=`<b>ὑπερβατῶς</b> <font color="purple">[ᾰ]</font><br><b>      1</b> en passant par-dessus, avec négligence, THC. <i>7, 31</i>.<br><b>      2</b> dans un ordre inverse <i>ou</i> peu naturel, ARSTT. <i>Rhet. Al. 31, 5</i> ; STR. <i>342, 370</i>.`

@@ -1,1 +1,0 @@
-lar[81110]=`<i>adv</i>., richement, abondamment, HDT. <i>2, 44</i> ; EUR. <i>Alc. 56</i> ; EUP. <i>2-1, 450 Meineke</i> ; AR. <i>Vesp. 1168</i>.<p>•<i> Cp</i>. -ώτερον, XÉN. <i>Œc. 9, 13</i>.<p><b>Étym</b>. πλούσιος.`

@@ -1,1 +1,0 @@
-lar[20945]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. βρυώνη DIOSC. <i>4, 184</i> ; P. ÉG. <i>7, 233</i>.`

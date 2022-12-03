@@ -1,1 +1,0 @@
-lar[73108]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ὄρφος, <i>poisson</i>, DORION (ATH. <i>315</i>).`

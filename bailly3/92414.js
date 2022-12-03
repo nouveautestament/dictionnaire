@@ -1,1 +1,0 @@
-lar[92414]=`<b>στερεομετρέω-ῶ</b>, mesurer des corps solides, ONOS. <i>Strat. 8</i>.<p><b>Étym</b>. στερεομέτρης.`

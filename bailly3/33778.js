@@ -1,1 +1,0 @@
-lar[33778]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> <i>litt</i>. ce qu’on serre dans ses bras, <i>d’où</i> objet d’affection, LYC. <i>308</i>.<p><b>Étym</b>. ἐναγκαλίζομαι.`

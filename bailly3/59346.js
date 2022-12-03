@@ -1,1 +1,0 @@
-lar[59346]=`<b>      1</b> bavarder sans cesse, NIC. <i>Al. 160</i>.<br><b>      2</b> se ruer, LYC. <i>260</i>.`

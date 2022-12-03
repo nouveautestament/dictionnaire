@@ -1,1 +1,0 @@
-lar[105767]=`<b>φιλό·δρομος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à courir, ORPH. <i>H. 13, 10</i>.<p><b>Étym</b>. φ. δρόμος.`

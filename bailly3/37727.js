@@ -1,1 +1,0 @@
-lar[37727]=`<b>ἐπι·ζά·φελος, ος, ον</b> <font color="purple">[ᾰ]</font> violent, IL. <i>9, 525 ; adv</i>. ἐπιζάφελον, A.RH. <i>4, 1672,</i> violemment.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

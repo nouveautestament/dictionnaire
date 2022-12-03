@@ -1,1 +1,0 @@
-lar[21142]=`<b>εως (ἡ)</b> transformation en gangrène, affection gangréneuse, HPC. <i>Fract. 759</i>.<p><b>Étym</b>. γαγγραινόομαι.`

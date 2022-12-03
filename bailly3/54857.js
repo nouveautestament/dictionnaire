@@ -1,1 +1,0 @@
-lar[54857]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> commandement de 32 éléphants, EL. TACT. <i>22</i>.<p><b>Étym</b>. κερατάρχης.`

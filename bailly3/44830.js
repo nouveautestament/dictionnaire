@@ -1,1 +1,0 @@
-lar[44830]=`<i>adv</i>., avec disposition pour vivre : ζ. ἔχειν, PLUT. <i>Cato mi. 70</i>, être disposé à vivre, ne pas vouloir se tuer.<p>•<i> Sup</i>. -ώτατα, PLUT. <i>M. 130b</i>.`

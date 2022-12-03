@@ -1,1 +1,0 @@
-lar[747]=`<b>ἄ·γναπτος, ος, ον</b>, non foulé, non cardé, <i>d’où</i> :<br><b>      1</b> qui est encore neuf, PLUT. <i>M. 691d.</i><br><b>      2</b> non nettoyé, non purifié, PLUT. <i>M. 169c</i>.<p><b>Étym</b>. ἀ, γνάπτω.`

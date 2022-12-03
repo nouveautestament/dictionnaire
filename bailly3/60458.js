@@ -1,1 +1,0 @@
-lar[60458]=`<b>λεπτό·χυλος, ος, ον</b> <font color="purple">[ῡ]</font> dont le suc est rare <i>ou</i> peu dense, TH. <i>H.P. 6, 16, 5</i>.<p><b>Étym</b>. λ. χυλός.`

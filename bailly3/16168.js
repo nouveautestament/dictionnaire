@@ -1,1 +1,0 @@
-lar[16168]=`<b>ἀ·στένακτος, ος, ον :<br>      1</b> qui ne gémit pas, SOPH. <i>Tr. 1200</i> ; EUR. <i>Alc. 173</i> ; DH. PLUT. <i>etc.</i><br><b>      2</b> qui ne connaît pas les gémissements, EUR. <i>Hec. 690</i> ; PLAT. <i>Ax. 370d</i>.<p><b>Étym</b>. ἀ, στενάζω.`

@@ -1,1 +1,0 @@
-lar[73109]=`<b>ατος (τὸ)</b> <font color="purple">[φᾰ]</font> situation d’orphelin, EUR. <i>H.f. 546</i>.<p><b>Étym</b>. ὀρφανεύω.`

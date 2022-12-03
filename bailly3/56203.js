@@ -1,1 +1,0 @@
-lar[56203]=`<b>κλωπο·πάτωρ, ορος (ὁ)</b> fils d’un père inconnu (<i>propr</i>. furtif) ANTH. <i>15, 21</i>.<p><b>Étym</b>. κλώψ, πατήρ.`

@@ -1,1 +1,0 @@
-lar[75334]=`<font color="purple">[ᾰπ]</font> <i>interj.</i> :<br><b>      1</b> <i>renforcement comique de</i> παπαῖ, AR. <i>Vesp. 235</i>.<br><b>      2</b> <i>exclamation de surprise joyeuse,</i> EUR. <i>Cycl. 153</i> ; AR. <i>Lys. 924</i>.`

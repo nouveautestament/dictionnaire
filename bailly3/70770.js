@@ -1,1 +1,0 @@
-lar[70770]=`<b>οἰωνοσκοπέω-ῶ</b>, observer le vol <i>ou</i> le cri des oiseaux, EUR. <i>Bacch. 347 ; Ph. 956</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. JOS. <i>A.J. 18, 5, 3</i>.<p><b>Étym</b>. οἰωνοσκόπος.`

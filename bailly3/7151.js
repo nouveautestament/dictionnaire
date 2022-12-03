@@ -1,1 +1,0 @@
-lar[7151]=`<b>ἀνα·λωφάω-ῶ</b>, se reposer, ARÉT. <i>Cur. m. acut. 2, 11</i>.`

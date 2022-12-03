@@ -1,1 +1,0 @@
-lar[14326]=`<b>ἀργυρίτης ἀγών (ὁ)</b> <font color="purple">[ῠῑ]</font> concours où le prix était de l’argent, <i>p. anal. avec</i> στεφανίτης ἀγών, PLUT. <i>M. 820c</i>.<p><b>Étym</b>. ἄργυρος.`

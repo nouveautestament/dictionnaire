@@ -1,1 +1,0 @@
-lar[54882]=`<b>κερατ·ῶπις, ιδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. qui se montre avec des cornes <i>ou</i> un croissant, MAN. <i>4, 91</i>.<p><b>Étym</b>. κέρας, ὤψ.`

@@ -1,1 +1,0 @@
-lar[59751]=`<b>έως</b>, <i>adj. m</i>. du dème Lamptres, DÉM. <i>1236, 15 ; 1237, 35</i>.<p>➳ <i>Dans les inscr. att</i>. Λαμπτρεύς, <i>non</i> Λαμπρεύς, <i>v. Meisterh. p. 61, 6</i>.<p><b>Étym</b>. Λαμπτραί.`

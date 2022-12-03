@@ -1,1 +1,0 @@
-lar[30238]=`<b>εἰδ·εχθής, ής, ές :<br>      1</b> d’aspect hideux, laid, COM. ANON. (<i>Com. fr. 4, 699</i>) ; POL. <i>37, 2, 1</i> ; DS. <i>3, 29</i>.<br><b>      2</b> fétide, HPC. <i>640, 21 ; 645, 28</i>.<p><b>Étym</b>. εἶδος, ἔχθομαι.`

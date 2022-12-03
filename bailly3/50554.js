@@ -1,1 +1,0 @@
-lar[50554]=`<b>καινο·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> éprouvé <i>ou</i> souffert pour la première fois, SOPH. <i>Tr. 1277</i>.<p><b>Étym</b>. κ. πάσχω.`

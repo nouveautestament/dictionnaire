@@ -1,1 +1,0 @@
-lar[47287]=`<b>θηριο·ειδής, ής, ές</b>, semblable à une bête sauvage, ADAM. <i>Physiogn. 1, 1</i>.<p><b>Étym</b>. θ. εἶδος.`

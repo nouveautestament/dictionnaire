@@ -1,1 +1,0 @@
-lar[46919]=`<i>slmt fém</i>., protectrice des bains chauds (Artémis) ARSTD. 1, p. 322.`

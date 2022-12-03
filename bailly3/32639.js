@@ -1,1 +1,0 @@
-lar[32639]=`<b>ης (ἡ)</b> sorte de poulpe, ARSTT. <i>H.A. 4, 1, 27</i>.`

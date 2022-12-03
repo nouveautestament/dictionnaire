@@ -1,1 +1,0 @@
-lar[93422]=`<i>adv</i>., d’une manière serrée, savante, habile, LUC. <i>M. cond. 35</i>.<p><b>Étym</b>. συγκροτέω.`

@@ -1,1 +1,0 @@
-lar[105363]=`<b>έως (ὁ)</b> corrupteur, séducteur, SOPH. <i>fr. 155</i> ; ANTH. <i>5, 257, etc.</i> ; PLUT. <i>M. 18c</i>.<p><b>Étym</b>. φθείρω.`

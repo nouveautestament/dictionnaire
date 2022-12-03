@@ -1,1 +1,0 @@
-lar[3965]=`<b>ἀ·κύβευτος, ος, ον</b> <font color="purple">[ῠ]</font> qui ne risque pas sur un coup de dé, réfléchi, M. ANT. <i>1, 8</i>.<p><b>Étym</b>. ἀ, κυβεύω.`

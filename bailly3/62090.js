@@ -1,1 +1,0 @@
-lar[62090]=`<b>λυσσο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> enragé, furieux, ANTH. <i>11, 232</i>.<br><b>      2</b> qui appartient à une personne furieuse, ANTH. <i>6, 219</i>.<p><b>Étym</b>. λύσσα, μαίνομαι.`

@@ -1,1 +1,0 @@
-lar[77751]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> servante, PLUT. <i>Cato ma. 24</i>.<p><b>Étym</b>. <i>fém. de</i> πελάτης.`

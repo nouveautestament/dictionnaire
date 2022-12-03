@@ -1,1 +1,0 @@
-lar[96394]=`<b>ή, όν</b> <font color="purple">[τῠ]</font> fortuit, PLUT. <i>M. 611a</i>.<p><b>Étym</b>. συντυχία.`

@@ -1,1 +1,0 @@
-lar[65610]=`<b>(τὸ)</b> <i>indécl</i>. expédient, remède, ESCHL. <i>Pr. 606, Suppl. 394, etc</i>.<p><b>Étym</b>. <i>cf</i>. μῆχος.`

@@ -1,1 +1,0 @@
-lar[36400]=`<b>ἔπ·αθλον, ου (τὸ) :<br>      1</b> prix de la lutte, EUR. <i>Ph. 52</i> ; PLUT. <i>Flam. 15</i>.<br><b>      2</b> <i>p. ext</i>. récompense, salaire, HDN <i>1, 17</i>.<p><b>Étym</b>. ἐπί, ἆθλον.`

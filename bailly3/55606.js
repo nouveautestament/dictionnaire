@@ -1,1 +1,0 @@
-lar[55606]=`<b>έως</b>, <i>adj. m</i>. couronné de lierre, <i>ép. d’Apollon,</i> ESCHL. <i>fr. 383 Dind</i>.<p><b>Étym</b>. κισσός.`

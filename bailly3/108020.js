@@ -1,1 +1,0 @@
-lar[108020]=`<b>ας (ἡ)</b> hiatus dans un vers, EUST. <i>11, 33 ; 12, 8, etc</i>.<p><b>Étym</b>. χασμώδης.`

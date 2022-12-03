@@ -1,1 +1,0 @@
-lar[28008]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> une coupe de bois, provision de bois coupé, PLAT. <i>Leg. 678d</i>.<p><b>Étym</b>. δρυοτόμος.`

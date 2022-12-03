@@ -1,1 +1,0 @@
-lar[101710]=`<b>ή, όν</b> <font color="purple">[ῡᾰ]</font> de broussailles, de buissons, de taillis, TH. <i>C.P. 6, 11, 10</i>.<p><b>Étym</b>. ὕλημα.`

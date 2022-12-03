@@ -1,1 +1,0 @@
-lar[98726]=`(<i>seul. prés. et impf</i>.) frissonner, AR. <i>Nub. 294, 374</i> ; HPC. <i>663f ;</i> XÉNARQ. (ATH. <i>569c</i>).<p><b>Étym</b>. τρέμω, <i>avec redoubl</i>.`

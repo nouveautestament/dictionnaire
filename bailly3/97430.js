@@ -1,1 +1,0 @@
-lar[97430]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> τάλαρος ARSTT. <i>Probl. 20, 14</i> ; THCR. <i>Idyl. 15, 113</i> ; ANTH. <i>6, 174</i>.`

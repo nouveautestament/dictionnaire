@@ -1,1 +1,0 @@
-lar[28863]=`<b>δυσ·πρόσοδος, ος, ον</b>, d’un abord difficile, THC. <i>5, 65</i> ; POL. <i>1, 26, 10</i> ; PLUT. <i>Popl. 10 ; en parl. de pers</i>. THC. <i>1, 130</i> ; XÉN. <i>Ages. 9, 2</i> ; DC. <i>34, 4</i>.`

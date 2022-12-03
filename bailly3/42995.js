@@ -1,1 +1,0 @@
-lar[42995]=`<b>εὐ·περίτρεπτος, ος, ον :<br>      1</b> facile à détourner, ATH. <i>155e.</i><br><b>      2</b> <i>fig</i>. facile à réfuter, LUC. <i>J. tr. 50</i>.<p><b>Étym</b>. εὖ, περιτρέπω.`

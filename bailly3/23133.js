@@ -1,1 +1,0 @@
-lar[23133]=`<b>ου (ὁ)</b> <font color="purple">[δᾰ]</font> le fils de Damastôr, <i>càd.</i> :<br><b>      1</b> Tlèpolémos, IL. <i>16, 416</i>.<br><b>      2</b> Agélaos, OD. <i>20, 321 ; 22, 293</i>.<br><b>      3</b> <i>autre,</i> Q. SM. <i>13, 211</i>.<p><b>Étym</b>. Δαμάστωρ, <i>de</i> δαμάζω.`

@@ -1,1 +1,0 @@
-lar[28199]=`<b>δυσ·άντητος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> dont l’abord est terrible <i>ou</i> funeste, LUC. <i>Tim. 5</i>.<br><b>      2</b> <i>p. suite,</i> terrible <i>ou</i> funeste, PLUT. <i>M. 118c ;</i> ORPH. <i>Arg. 1337</i> ; NONN. <i>D. 42, 406</i>.<p><b>Étym</b>. δ. ἀντάω.`

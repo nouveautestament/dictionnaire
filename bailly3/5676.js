@@ -1,1 +1,0 @@
-lar[5676]=`<b>ων (οἱ)</b> les Ammoniens, <i>càd</i>. les Libyens, HDT. <i>2, 32, etc</i>.`

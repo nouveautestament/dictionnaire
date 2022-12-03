@@ -1,1 +1,0 @@
-lar[16561]=`<font color="purple">[φᾰ]</font> <i>réc. c</i>. ἀσπάλαξ, BABR. <i>108, 13</i> ; A. TR.`

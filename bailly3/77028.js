@@ -1,1 +1,0 @@
-lar[77028]=`<b>παρ·οικοδομέω-ῶ :<br>      1</b> bâtir auprès de, <i>rég. ind. au dat</i>. THC. <i>2, 75 ; 7, 6, etc.</i><br><b>      2</b> barrer par des constructions, intercepter, <i>acc</i>. DÉM. <i>1276, 10</i> ; ARSTT. <i>H.A. 9, 40, 6</i>.<p><b>Étym</b>. π. οἰκοδομέω.`

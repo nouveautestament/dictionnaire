@@ -1,1 +1,0 @@
-lar[10212]=`<b>ἀντι·παρέρχομαι :<br>      1</b> <i>c</i>. ἀντιπαράγω 3, ANTH. <i>12, 8</i> ; NT. <i>Luc. 10, 31</i>.<br><b>      2</b> venir au secours, SPT. <i>Sap. 16, 10</i>.`

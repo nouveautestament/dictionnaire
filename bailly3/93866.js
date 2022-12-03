@@ -1,1 +1,0 @@
-lar[93866]=`<b>συμ·βοηθέω-ῶ</b>, porter ensemble du secours, THC. <i>2, 80, etc.</i> ; τινι, XÉN. <i>Ages. 1, 38,</i> à qqn ; <i>ou avec une prép.</i> : ἔς τινα, THC. <i>3, 105,</i> à qqn.`

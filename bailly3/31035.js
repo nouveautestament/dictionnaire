@@ -1,1 +1,0 @@
-lar[31035]=`<b>ἑκατοντά·πεδος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> long de cent pieds, JUL. <i>Ep. 180</i>.<p><b>Étym</b>. ἑ. πέδον.`

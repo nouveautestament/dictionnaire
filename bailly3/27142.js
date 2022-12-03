@@ -1,1 +1,0 @@
-lar[27142]=`<b>ας (ἡ)</b> conduite d’un char <i>ou</i> transport sur un char, XÉN. <i>Cyr. 6, 1, 16</i> ; SYN. <i>58b ;</i> LIB. <i>89d, 348b</i>.<p><b>Étym</b>. διφρεύω.`

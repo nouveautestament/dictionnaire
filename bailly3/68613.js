@@ -1,1 +1,0 @@
-lar[68613]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Nèritos, <i>anc. roi d’Ithaque,</i> OD. <i>17, 207</i>.`

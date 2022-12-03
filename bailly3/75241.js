@@ -1,1 +1,0 @@
-lar[75241]=`<font color="purple">[ᾰπ]</font> <i>adv</i>., de toutes les façons, POÈT. (ARSTT. <i>Nic. 2, 6, 14</i>) ; PLAT. <i>Parm. 129e, etc</i>.`

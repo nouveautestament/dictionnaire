@@ -1,1 +1,0 @@
-lar[52918]=`<b>ατος (τὸ)</b> eau pour laver, <i>d’où</i> ablution, ATH. <i>18f</i>.<p><b>Étym</b>. *κατανίπτω, <i>c</i>. κατανίζω.`

@@ -1,1 +1,0 @@
-lar[103887]=`<b>ὑπο·στένω</b> (<i>seul. prés. et impf</i>.) pousser des gémissements sourds et étouffés, SOPH. <i>El. 79</i> ; AR. <i>Ach. 162</i> ; LUC. <i>D. mort. 6, 3, etc</i>.`

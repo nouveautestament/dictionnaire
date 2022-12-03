@@ -1,1 +1,0 @@
-lar[80486]=`<b>πιστο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien de la bonne foi, ORPH. <i>H. 7, 17</i>.<p><b>Étym</b>. πιστός¹, φύλαξ.`

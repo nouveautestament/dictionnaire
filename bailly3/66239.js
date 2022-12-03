@@ -1,1 +1,0 @@
-lar[66239]=`<b>εως</b>, <i>poét</i>. <b>ιος (ἡ) :<br>      1</b> action de penser à, pensée, OD. <i>13, 280</i> ; SOPH. <i>Aj. 523, 1269</i>.<br><b>      2</b> souvenir, HDT. <i>7, 158</i>.<p>➳ <i>Dor</i>. μνᾶστις, SIM. (DS. <i>11, 11</i>) ; THCR. <i>Idyl. 28, 23</i>.<p><b>Étym</b>. μνάομαι.`

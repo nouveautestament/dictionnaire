@@ -1,1 +1,0 @@
-lar[75458]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> altération d’un mot par substitution d’une lettre à une autre, E. BYZ. <i>v°</i> Τύανα.<p><b>Étym</b>. παραγραμματίζω.`

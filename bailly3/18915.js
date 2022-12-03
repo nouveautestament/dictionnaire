@@ -1,1 +1,0 @@
-lar[18915]=`<b>ίδος (ἡ)</b> Bakkhis, <i>f</i>. PLUT. ATH.<p><b>Étym</b>. βάκχος.`

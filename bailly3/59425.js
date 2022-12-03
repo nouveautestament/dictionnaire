@@ -1,1 +1,0 @@
-lar[59425]=`<b>λαγω·βόλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> bâton pour tuer les lièvres, <i>d’où, en gén</i>. houlette de berger, THCR. <i>Idyl. 4, 49 ; 7, 128</i> ; ANTH. <i>6, 188 ; cf</i>. λαγωοβόλον.<p><b>Étym</b>. λαγώς, βάλλω.`

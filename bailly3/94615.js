@@ -1,1 +1,0 @@
-lar[94615]=`<b>εως (ἡ)</b> suspension commune, PLAT. <i>Tim. 80d</i>.<p><b>Étym</b>. συναιωρέομαι.`

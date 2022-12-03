@@ -1,1 +1,0 @@
-lar[31957]=`<b>ἐκ·προτιμάω-ῶ</b> <font color="purple">[ῑ]</font> honorer par-dessus tous, SOPH. <i>Ant. 913</i>.`

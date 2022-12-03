@@ -1,1 +1,0 @@
-lar[8352]=`<b>ἀν·ένδοτος, ος, ον</b>, qui ne s’abandonne pas, ferme, ANTYLL. <i>235 ; fig</i>. HIÉROCL. (STOB. <i>Fl. 79, 53).</i><p><b>Étym</b>. ἀν-, ἐνδίδωμι.`

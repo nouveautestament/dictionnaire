@@ -1,1 +1,0 @@
-lar[55929]=`<b>ου (ὁ) :<br>      1</b> voleur, IL. <i>3, 11</i> ; ESCHL. <i>Pr. 946</i> ; EUR. <i>I.T. 1026</i> ; PLAT. <i>Rsp. 344b, etc.</i><br><b>      2</b> <i>p. ext</i>. tout homme qui dérobe <i>ou</i> dissimule qqe ch., fourbe, SOPH. <i>Aj. 1135</i>.<p><b>Étym</b>. κλέπτω.`

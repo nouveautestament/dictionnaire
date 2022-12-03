@@ -1,1 +1,0 @@
-lar[22500]=`<i>ion</i>. <b>γοργύρη, ης (ἡ)</b> <font color="purple">[ῡ]</font> prison souterraine, HDT. <i>3, 145</i> ; DIN. <i>et</i> ESCHN. (HARP.).<p><b>Étym</b>. <i>Cf</i>. γέργυρα <i>et</i> γεργύρα.`

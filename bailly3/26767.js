@@ -1,1 +1,0 @@
-lar[26767]=`<b>δι·ολοφύρομαι</b> <font color="darkgreen">(<i>impf. 3 sg</i>. διωλοφύρετο)</font> ne cesser de se lamenter, POL. <i>29, 9, 11</i>.`

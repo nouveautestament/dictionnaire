@@ -1,1 +1,0 @@
-lar[87065]=`<b>εως (ἡ)</b> action de pousser en avant, ARSTT. <i>Cæl. 2, 14, 15 ; Mund. 4, 31, etc</i>.<p><b>Étym</b>. προωθέω.`

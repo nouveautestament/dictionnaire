@@ -1,1 +1,0 @@
-lar[15332]=`<b>ἀρτι·δίδακτος, ος, ον</b> <font color="purple">[ῐῐ]</font> nouvellement enseigné, APP. <i>Civ. 3, 20</i>.<p><b>Étym</b>. ἄ. διδάσκω.`

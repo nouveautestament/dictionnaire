@@ -1,1 +1,0 @@
-lar[17384]=`<b>αὐτο·αθανασία, ας (ἡ)</b> l’immortalité même, CHRYS. <i>ad Timoth. 1</i>.`

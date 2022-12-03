@@ -1,1 +1,0 @@
-lar[102455]=`<b>ὑπερ·επείγω</b>, presser extrêmement, DC. <i>59, 21</i> ; APP. <i>Civ. 2, 114</i>.`

@@ -1,1 +1,0 @@
-lar[34778]=`<b>ή, όν</b>, habitué <i>ou</i> apte à réfléchir, à penser, ARSTT. <i>Physiogn. 6, 49</i>.<p><b>Étym</b>. ἐννοέω.`

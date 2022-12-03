@@ -1,1 +1,0 @@
-lar[42963]=`<b>εὐπειθέω-ῶ</b>, être docile, obéir, CHAROND. (STOB. <i>Fl. 44, 40</i>) ; τινι, SPT. <i>4Macc. 8, 5,</i> à qqn.<p><b>Étym</b>. εὐπειθής.`

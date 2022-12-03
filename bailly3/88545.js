@@ -1,1 +1,0 @@
-lar[88545]=`<b>ῥιζοβολέω-ῶ</b>, pousser des racines, prendre racine, ANTH. <i>11, 246</i> ; SEXT. <i>M. 5, 57</i>.<p><b>Étym</b>. ῥιζοβόλος.`

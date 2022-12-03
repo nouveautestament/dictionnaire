@@ -1,1 +1,0 @@
-lar[108712]=`<b>ας (ἡ)</b> <i>forme postér. et incorr. p</i>. χολημεσία, P. ÉG. <i>6, 90</i>.`

@@ -1,1 +1,0 @@
-lar[50736]=`<font color="purple">[ᾰ]</font> <i>adv</i>., méchamment, HPC. <i>Art. 807</i> ; PHILIPP. (DÉM. <i>251, 22</i>) ; JOS. <i>A.J. 13, 11, 1 ; 15, 3, 5</i>.<p><b>Étym</b>. κακοήθης.`

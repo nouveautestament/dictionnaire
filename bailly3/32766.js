@@ -1,1 +1,0 @@
-lar[32766]=`<b>οῦ (ὁ)</b> qui travaille l’ivoire, DYSC. <i>Pron. 299a ;</i> PHILSTR. <i>203</i> ; THÉM. <i>224</i>.<p><b>Étym</b>. ἐ. ἔργον.`

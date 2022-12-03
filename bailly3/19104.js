@@ -1,1 +1,0 @@
-lar[19104]=`<b>ου (τὸ)</b> <i>sorte de</i> plante aromatique, MNÉSIM. fr. 4.62.`

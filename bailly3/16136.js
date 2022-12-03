@@ -1,1 +1,0 @@
-lar[16136]=`<font color="purple">[τᾰ]</font> <i>adv</i>., sans être troublé par des séditions, paisiblement, DS. <i>17, 54</i>.<p>•<i> Cp</i>. -ότερον, DC. <i>52, 30 ; • Sup</i>. -ότατα, PLAT. <i>Rsp. 520d</i>.`

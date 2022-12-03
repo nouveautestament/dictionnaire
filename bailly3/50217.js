@@ -1,1 +1,0 @@
-lar[50217]=`<font color="darkgreen">(<i>seul. inf. pf. pass</i>. κεκαδδίσθαι, <i>vulg</i>. κεκαδεῖσθαι)</font> décider par les urnes, <i>càd</i>. par un scrutin, PLUT. <i>Lyc. 12</i>.<p><b>Étym</b>. κάδος.`

@@ -1,1 +1,0 @@
-lar[16247]=`<b>ἀστοχέω-ῶ</b>, <i>f</i>. ήσω, ne pas atteindre le but, faire fausse route, s’écarter de, POL. <i>5, 107</i> ; PLUT. <i>M. 414f ;</i> περί τινος, POL. <i>3, 21</i> ; περί τι, NT. <i>1Tim. 6, 21</i> ; ἔν τινι, JOS. <i>B.J. 2, 8, 12,</i> se tromper sur qqe ch.<p><b>Étym</b>. ἄστοχος.`

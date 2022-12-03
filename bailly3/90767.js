@@ -1,1 +1,0 @@
-lar[90767]=`<b>ή, όν</b>, <i>c</i>. σκεπαστήριος, ARSTT. <i>G.A. 1, 12, 5</i> ; ATH. <i>193c ; avec un gén</i>. ARSTT. <i>Metaph. 7, 2, 8</i>.`

@@ -1,1 +1,0 @@
-lar[77564]=`<b>πεζ·ακοντιστής, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> archer à pied, POL. <i>3, 65, 10, etc</i>.<p><b>Étym</b>. πεζός, ἀκοντιστής.`

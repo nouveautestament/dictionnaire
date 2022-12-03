@@ -1,1 +1,0 @@
-lar[4421]=`<b>ἀ·λιβάνωτος, ος, ον</b> <font color="purple">[ῐᾰ]</font> non encensé, PLAT. COM. (ATH. <i>644a</i>).<p><b>Étym</b>. ἀ, λιβανωτός.`

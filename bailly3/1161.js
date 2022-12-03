@@ -1,1 +1,0 @@
-lar[1161]=`<font color="purple">[δαῡ]</font> <i>adv</i>., sans larmes, ISOCR. <i>305e ;</i> PLUT. <i>Cæs. 7</i>.<p><b>Étym</b>. ἀδάκρυτος.`

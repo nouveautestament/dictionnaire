@@ -1,1 +1,0 @@
-lar[64659]=`<b>μετα·βλαστάνω</b>, germer encore une fois <i>ou</i> sous une nouvelle forme, TH. <i>H.P. 2, 4, 4</i>.`

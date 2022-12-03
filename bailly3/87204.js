@@ -1,1 +1,0 @@
-lar[87204]=`<b>πρωτό·θρονος, ος, ον</b>, qui siège à la première place, CALL. <i>Dian. 228</i> ; COL. <i>153</i> ; NONN. <i>D. 8, 166 ; Jo. 11, 190</i>.<p><b>Étym</b>. πρ. θρόνος.`

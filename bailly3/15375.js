@@ -1,1 +1,0 @@
-lar[15375]=`<b>ἀρτι·στράτευτος, ος, ον</b> <font color="purple">[ᾰτ]</font> nouvellement arrivé à l’armée, nouvelle recrue, APP. <i>Civ. 3, 49</i>.<p><b>Étym</b>. ἄ. στρατεύομαι.`

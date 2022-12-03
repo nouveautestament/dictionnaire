@@ -1,1 +1,0 @@
-lar[84186]=`<b>προ·εξανθέω-ῶ :<br>      1 <i>tr.</i></b> faire fleurir <i>ou</i> faire germer auparavant, <i>acc</i>. PLUT. <i>M. 552c.</i><br><b>      2 <i>intr.</i></b> fleurir auparavant, SYN. <i>128a</i>.`

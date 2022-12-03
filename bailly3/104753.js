@@ -1,1 +1,0 @@
-lar[104753]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> Phalènée, <i>h</i>. NONN. <i>D. 28, 46, 54</i>.`

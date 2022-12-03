@@ -1,1 +1,0 @@
-lar[4858]=`<b>ας (ἡ)</b> saumure, AR. <i>fr. 366</i> ; NIC. <i>fr. 3, 18 ; plur</i>. DIOSC. <i>2, 205</i>.<p><b>Étym</b>. ἅλμη.`

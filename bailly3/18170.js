@@ -1,1 +1,0 @@
-lar[18170]=`<b>ἀ·φολίδωτος, ος, ον</b> <font color="purple">[ῐ]</font> non couvert d’écailles, PORPH. <i>Abst. 4, 14</i>.<p><b>Étym</b>. ἀ, φολιδωτός.`

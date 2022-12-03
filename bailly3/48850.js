@@ -1,1 +1,0 @@
-lar[48850]=`<b>α, ον :<br>      1</b> <i>c</i>. ἱκετήριος, de suppliant, SOPH. <i>O.R. 3 ; subst</i>. οἱ ἱκτ. SOPH. <i>O.R. 327,</i> les suppliants.<br><b>      2</b> ἡ ἱκτηρία, <i>c</i>. ἱκετηρία, rameau de suppliant, ESCHL. <i>Suppl. 192 ; p. anal, en parl. de pers</i>. (<i>v</i>. ἱκετηρία) DÉM. <i>1078, 26</i>.<p><b>Étym</b>. ἱκτήρ.`

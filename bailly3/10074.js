@@ -1,1 +1,0 @@
-lar[10074]=`<b>(ὁ)</b> Antiménidès, <i>h</i>. ARSTT. <i>Pol. 3, 14</i>.<p>➳ <i>Dor</i>. Ἀντιμενίδας, THC. <i>5, 42</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀντιμένης, <i>de</i> ἀντί, μένος.`

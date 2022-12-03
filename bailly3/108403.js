@@ -1,1 +1,0 @@
-lar[108403]=`<b>ά, όν</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. χθαμαλός, POL. <i>10, 10</i>.`

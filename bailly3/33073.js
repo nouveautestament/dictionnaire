@@ -1,1 +1,0 @@
-lar[33073]=`<b>ἐμ·βαπτίζω</b>, plonger dans, <i>dat</i>. NIC. (ATH. <i>133e</i>) ; PLUT. <i>Syll. 21</i>.<p><b>Étym</b>. ἐν, β.`

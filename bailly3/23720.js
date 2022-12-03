@@ -1,1 +1,0 @@
-lar[23720]=`<b>δεκατη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> dont on offre la dîme aux dieux, CALL. <i>Del. 278</i>.<br><b>      2</b> qui reçoit la dîme <i>ou</i> les prémices (Apollon), PAUS. <i>1, 42, 5</i>.<p><b>Étym</b>. δεκάτη, φέρω.`

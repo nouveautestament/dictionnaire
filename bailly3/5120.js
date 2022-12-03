@@ -1,1 +1,0 @@
-lar[5120]=`<b>ἁλωό·φυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> produit d’un vignoble, NONN. <i>D. 13, 267</i>.<p><b>Étym</b>. ἅλως, φύω.`

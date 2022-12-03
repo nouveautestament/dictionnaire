@@ -1,1 +1,0 @@
-lar[74369]=`<b>ων (οἱ)</b> les Pætes, <i>pple thrace entre l’Èbre et le Mélas,</i> HDT. <i>7, 110</i>.`

@@ -1,1 +1,0 @@
-lar[23293]=`<b>δασμο·λόγος, ου (ὁ)</b> percepteur de contributions, STR. <i>476 fin</i>.<p><b>Étym</b>. δασμός, λέγω.`

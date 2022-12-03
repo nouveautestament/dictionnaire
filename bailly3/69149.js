@@ -1,1 +1,0 @@
-lar[69149]=`<b>νυκτι·πλοέω-οῶ</b>, naviguer la nuit, CHRYSIPP. (ZÉNOB. <i>5, 32).</i><p><b>Étym</b>. νύξ, πλόος.`

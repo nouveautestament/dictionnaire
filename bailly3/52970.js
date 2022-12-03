@@ -1,1 +1,0 @@
-lar[52970]=`<i>adv</i>., en un état de sécheresse complète, ANTYLL. (ORIB. <i>2, 335 B.-Dar</i>.).`

@@ -1,1 +1,0 @@
-lar[30614]=`<b>ῆς (ἡ) :<br>      1</b> Héirktè (la Prison) <i>lieu de Sicile,</i> POL. <i>1, 56</i>.<br><b>      2</b> <i>plur</i>. αἱ Εἱρκταί, les Prisons, <i>lieu d’Argolide,</i> XÉN. <i>Hell. 4, 7, 7</i>.<p><b>Étym</b>. <i>v</i>. εἱρκτή.`

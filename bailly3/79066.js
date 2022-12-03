@@ -1,1 +1,0 @@
-lar[79066]=`<b>περι·παχνόομαι-οῦμαι</b>, être gelé <i>ou</i> geler entièrement, ORPH. <i>Lith. 520</i>.`

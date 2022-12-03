@@ -1,1 +1,0 @@
-lar[19652]=`<b>ου (ὁ)</b> Bessus, <i>Perse,</i> PLUT. ARR. <i>etc</i>.`

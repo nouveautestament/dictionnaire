@@ -1,1 +1,0 @@
-lar[37082]=`<b>ἐπ·εμφύρω</b> <font color="purple">[ῡ]</font> tremper dans, <i>dat</i>. CLÉM. <i>171</i>.`

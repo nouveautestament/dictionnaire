@@ -1,1 +1,0 @@
-lar[14055]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans feu, HPC. <i>77c</i>.<p><b>Étym</b>. ἄπυρος.`

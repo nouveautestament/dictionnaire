@@ -1,1 +1,0 @@
-lar[21280]=`<b>Γαλλαϊκὴ χώρη (ἡ)</b> la Gallaïque, <i>contrée de Thrace,</i> HDT. <i>7, 108</i>.`

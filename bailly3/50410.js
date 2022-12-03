@@ -1,1 +1,0 @@
-lar[50410]=`<b>εως (ἡ)</b> action d’offrir en sacrifice, sacrifice, PLUT. <i>M. 380d</i>.<p><b>Étym</b>. καθιερεύω.`

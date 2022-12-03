@@ -1,1 +1,0 @@
-lar[78794]=`<b>περι·κνήμιος, ος, ον</b>, qui entoure la jambe ; τὰ περικνήμια, HPC. <i>Epid. 3, 1083,</i> le gras de la jambe.<p><b>Étym</b>. π. κνήμη.`

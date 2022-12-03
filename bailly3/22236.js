@@ -1,1 +1,0 @@
-lar[22236]=`<b>γλωσσο·φόρος, ος, ον</b>, qui porte une langue, <i>càd</i>. pourvu d’une langue, <i>d’où</i> qui parle, NYSS. <i>3, 737d Migne</i>.<p><b>Étym</b>. γλῶσσα, φέρω.`

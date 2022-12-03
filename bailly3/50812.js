@@ -1,1 +1,0 @@
-lar[50812]=`<b>κακό·πατρις, ιδος (ὁ, ἡ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> <i>pass</i>. d’une patrie misérable <i>ou</i> d’ancêtres misérables, THGN. <i>193</i>.<br><b>      2</b> <i>act</i>. qui fait la honte <i>ou</i> qui est le malheur de sa patrie, ALC. <i>37</i>.<p><b>Étym</b>. κ. πατρίς <i>ou</i> πατήρ.`

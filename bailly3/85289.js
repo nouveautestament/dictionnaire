@@ -1,1 +1,0 @@
-lar[85289]=`<b>εως (ἡ)</b> emboîtement des os, articulation, HPC.<p><b>Étym</b>. προσαρθρόω.`

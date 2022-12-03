@@ -1,1 +1,0 @@
-lar[73601]=`<b>ωνος (ὁ)</b> = <i>lat</i>. unedo, arbousier, GAL. <i>6, 357</i>.`

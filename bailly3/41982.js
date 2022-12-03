@@ -1,1 +1,0 @@
-lar[41982]=`<b>ας (ἡ) :<br>      1</b> inclination, tendance à, STOB. <i>Ecl. 2, 182</i> ; CLÉM. <i>Pæd. 1, 2, p. 80</i>.<br><b>      2</b> accidents auxquels le corps est facilement exposé, POSIDON. (GAL. <i>5, 145e, 157b</i>) ; DL. <i>7, 115</i>.<p><b>Étym</b>. εὐέμπτωτος.`

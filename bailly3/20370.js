@@ -1,1 +1,0 @@
-lar[20370]=`<b>ων (τὰ)</b> <i>litt</i>. fête de l’attelage des bœufs, <i>fête des laboureurs à Éleusis,</i> PHIL. <i>2, 630</i>.<p><b>Étym</b>. βοῦς, ζεύγνυμι.`

@@ -1,1 +1,0 @@
-lar[54577]=`<b>κεκρυφαλο·πλόκος, ου</b> <font color="purple">[ῡᾰ]</font> qui tresse des réseaux de femme, CRITIAS (POLL. <i>7, 179).</i><p><b>Étym</b>. κεκρύφαλος, πλέκω.`

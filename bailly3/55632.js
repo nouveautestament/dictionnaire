@@ -1,1 +1,0 @@
-lar[55632]=`<b>κισσο·κόμης, ου</b>, <i>adj. m</i>. à la chevelure de lierre, <i>càd</i>. couronné de lierre, HH. <i>25, 1</i> ; ANTH. <i>6, 56</i>.<p><b>Étym</b>. κισσός, κόμη.`

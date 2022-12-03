@@ -1,1 +1,0 @@
-lar[106389]=`<font color="purple">[ῑ]</font> <i>(seul. prés.) éol. et ion. c</i>. θλίβω, THCR. <i>Idyl. 15, 76</i>.<p>➳ <i>Moy. fut. 3 sg</i>. φλίψεται, OD. <i>17, 221</i>.`

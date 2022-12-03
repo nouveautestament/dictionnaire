@@ -1,1 +1,0 @@
-lar[89374]=`<b>ου (ὁ)</b> Sarambos, <i>h</i>. PLAT. <i>Gorg. 518b</i>.`

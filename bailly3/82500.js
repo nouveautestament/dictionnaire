@@ -1,1 +1,0 @@
-lar[82500]=`<b>πολυ·φάσματος, ος, ον</b> <font color="purple">[ῠμᾰ]</font> qui offre beaucoup d’aspects, ORACL. (EUS. <i>P.E. 175).</i><p><b>Étym</b>. π. φάσμα.`

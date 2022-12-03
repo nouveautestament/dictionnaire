@@ -1,1 +1,0 @@
-lar[62762]=`<b>μανδραγορίτης οἶνος (ὁ)</b> vin préparé avec de la mandragore, DIOSC. <i>5, 81</i>.<p><b>Étym</b>. μανδραγόρας.`

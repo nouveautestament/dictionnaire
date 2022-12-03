@@ -1,1 +1,0 @@
-lar[54833]=`<b>(τὸ)</b> la Corne, <i>promont. de l’Inde,</i> ARSTT. <i>Mir. 71</i>.<p><b>Étym</b>. <i>v</i>. κέρας ; <i>cf</i>. Κέρατα.`

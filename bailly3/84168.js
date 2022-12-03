@@ -1,1 +1,0 @@
-lar[84168]=`<b>προ·ενσείω</b>, lancer auparavant contre, <i>dat</i>. PLUT. <i>Eum. 6</i>.`

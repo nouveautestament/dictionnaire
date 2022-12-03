@@ -1,1 +1,0 @@
-lar[3075]=`<b>ἀ·καλήφη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> ortie, AR. <i>Lys. 549 ; fig</i>. piquant, aiguillon, AR. <i>Vesp. 884</i>.<br><b>      2</b> ortie de mer (<i>Ascidia</i> L.) <i>zoophyte,</i> ARSTT. <i>H.A. 4, 6, 6, etc.</i> ; ATH. <i>90b</i>.`

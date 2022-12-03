@@ -1,1 +1,0 @@
-lar[61016]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>dim. réc. c</i>. λιθίδιον, petite pierre, TH. <i>H.P. 3, 7, 5</i>.<p><b>Étym</b>. λίθος.`

@@ -1,1 +1,0 @@
-lar[101869]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> propre à indiquer, à faire connaître, SEXT. <i>M. 8, 200</i>.<p><b>Étym</b>. ὑπαγορεύω.`

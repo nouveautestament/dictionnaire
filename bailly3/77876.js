@@ -1,1 +1,0 @@
-lar[77876]=`<b>οῦ (ὁ)</b> qui compte sur les cinq doigts <i>ou</i> qui compte cinq par cinq, <i>d’où</i> calculateur <i>en gén</i>. ESCHL. <i>Pers. 981</i>.<p><b>Étym</b>. πεμπάζω.`

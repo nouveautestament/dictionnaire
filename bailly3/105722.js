@@ -1,1 +1,0 @@
-lar[105722]=`<b>φιλό·γλωσσος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la langue, bavard, NAZ. <i>p. 1233</i>.<p><b>Étym</b>. φ. γλῶσσα.`

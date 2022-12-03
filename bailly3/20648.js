@@ -1,1 +1,0 @@
-lar[20648]=`comprendre, HSCH.`

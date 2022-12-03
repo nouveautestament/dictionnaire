@@ -1,1 +1,0 @@
-lar[2429]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de noircir avec la suie <i>ou</i> par la fumée, M. TYR. <i>163, 11 Dübn</i>.<p><b>Étym</b>. αἰθαλόω.`

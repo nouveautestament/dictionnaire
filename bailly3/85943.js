@@ -1,1 +1,0 @@
-lar[85943]=`<b>προσ·κατακλαίομαι</b>, se lamenter mutuellement, POL. <i>40, 2, 9</i>.`

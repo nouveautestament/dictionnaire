@@ -1,1 +1,0 @@
-lar[88669]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> = <i>lat</i>. Rhŏdănus, le Rhône, <i>fl. de Gaule,</i> ARSTT. <i>Meteor. 1, 13</i> ; PLUT. <i>Mar. 15, etc</i>.`

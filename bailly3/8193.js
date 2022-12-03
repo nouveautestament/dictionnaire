@@ -1,1 +1,0 @@
-lar[8193]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ) :<br>      1</b> torsion, <i>d’où</i> colique, HPC. <i>1086a.</i><br><b>      2</b> action de replier le corps (dans certains exercices gymnastiques) ARÉT. <i>Cur. m. diut. 1, 2 ; 2, 13</i>.`

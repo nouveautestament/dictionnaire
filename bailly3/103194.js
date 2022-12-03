@@ -1,1 +1,0 @@
-lar[103194]=`<i>adv. forme postér. p</i>. ὑπόδρα, CALL. (SUID. <i>v°</i> ὑποδράξ) ; NIC. <i>Th. 457, 765</i>.`

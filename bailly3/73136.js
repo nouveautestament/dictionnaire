@@ -1,1 +1,0 @@
-lar[73136]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. dépouillé, nu, ANTH. <i>6, 289</i>.<p><b>Étym</b>. ὀρφνός.`

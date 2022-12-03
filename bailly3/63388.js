@@ -1,1 +1,0 @@
-lar[63388]=`<b>μεγαλό·μητις, ιος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> aux grandes pensées, aux pensées ambitieuses, ESCHL. <i>Ag. 1426</i>.<p><b>Étym</b>. μ. μῆτις.`

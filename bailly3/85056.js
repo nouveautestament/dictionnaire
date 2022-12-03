@@ -1,1 +1,0 @@
-lar[85056]=`<b>ή, όν</b>, qui concerne les prédictions, SEXT. <i>M. 5, 1</i> ; πρ. βιβλίον, traité sur le pronostic des maladies, <i>titre d’un ouvrage d’Hippocrate,</i> GAL. <i>8, 692</i>.<p><b>Étym</b>. πρόρρητος.`

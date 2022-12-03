@@ -1,1 +1,0 @@
-lar[42960]=`<b>εὐ·πέδιλος, ος, ον</b> <font color="purple">[ῑ]</font> aux belles sandales, ALC. <i>13</i>.<p><b>Étym</b>. εὖ, πέδιλον.`

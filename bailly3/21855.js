@@ -1,1 +1,0 @@
-lar[21855]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la description de la terre, de géographie, géographique, STR. <i>2, 7, etc.</i> ; τὰ γεωγραφικά, STR. <i>67, etc.</i> ; ATH. <i>121a</i>, traité de géographie, <i>titre de l’ouvrage de Strabon</i>.<p><b>Étym</b>. γεωγράφος.`

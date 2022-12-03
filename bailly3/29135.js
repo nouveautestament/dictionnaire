@@ -1,1 +1,0 @@
-lar[29135]=`<b>ιδος</b> <font color="purple">[ᾰῑτ]</font> <i>fém. de</i> δωματίτης ESCHL. <i>Ag. 968</i>.`

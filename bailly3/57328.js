@@ -1,1 +1,0 @@
-lar[57328]=`<b>κοτινο·τράγος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui mange des olives sauvages, AR. <i>Av. 243</i>.<p><b>Étym</b>. κότινος, τρώγω.`

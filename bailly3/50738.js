@@ -1,1 +1,0 @@
-lar[50738]=`<b>κακο·ηχής, ής, ές</b> <font color="purple">[ᾰ]</font> qui sonne mal, POLÉM. <i>Physiogn. p. 252, au cp</i>. -ηχέστερος.<p><b>Étym</b>. κ. ἦχος.`

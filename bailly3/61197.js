@@ -1,1 +1,0 @@
-lar[61197]=`<b>λιμο·πύκτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> « Cogne-la-faim », <i>propr</i>. qui lutte à coups de poing contre la faim, <i>n. de parasite,</i> ALCIPHR. <i>3, 70</i>.<p><b>Étym</b>. λ. πύξ.`

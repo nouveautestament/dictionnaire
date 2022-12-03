@@ -1,1 +1,0 @@
-lar[91021]=`<b>ου (ὁ)</b> Sklèrias, <i>poète comique de Tarente,</i> ATH. <i>402b</i>.`

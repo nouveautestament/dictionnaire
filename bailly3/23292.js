@@ -1,1 +1,0 @@
-lar[23292]=`<b>ας (ἡ)</b> perception d’un impôt, PLUT. <i>Ant. 23</i>.<p><b>Étym</b>. δασμολόγος.`

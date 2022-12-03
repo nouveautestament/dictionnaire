@@ -1,1 +1,0 @@
-lar[69256]=`<b>ης (ἡ)</b> borne à l’extrémité de la carrière et que l’on tournait pour revenir, IL. <i>23, 332, 338, 344, 758,</i> THCR. <i>Idyl. 24, 117, etc. ; fig</i>. but, terme, GAL. <i>4, 282</i> ; A. PL. <i>386</i>.`

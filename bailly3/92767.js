@@ -1,1 +1,0 @@
-lar[92767]=`<b>ατος (τὸ)</b> objet avec lequel on vise, <i>particul</i>. javelot, EUR. <i>Bacch. 1205</i>.<p><b>Étym</b>. στοχάζομαι.`

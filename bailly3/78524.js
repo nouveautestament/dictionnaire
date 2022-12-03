@@ -1,1 +1,0 @@
-lar[78524]=`<i>adv</i>., avec effroi, THC. <i>6, 83</i> ; ISOCR. <i>200e</i>.<p><b>Étym</b>. περιδεής.`

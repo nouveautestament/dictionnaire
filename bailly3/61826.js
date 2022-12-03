@@ -1,1 +1,0 @@
-lar[61826]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> louve, ARSTT. <i>H.A. 6, 35, 2</i> ; BABR. <i>16, 8</i> ; ORPH. <i>H. 55, 11 Hermann</i> ; PLUT. <i>Rom. 2</i>.<p><b>Étym</b>. λύκος.`

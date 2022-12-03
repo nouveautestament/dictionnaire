@@ -1,1 +1,0 @@
-lar[98073]=`<b>τεκνο·ποιός, ός, όν</b>, qui procrée <i>ou</i> enfante, <i>en parl. de la femme,</i> HDT. <i>1, 59 ; 5, 40 ; en parl. de l’homme,</i> EUR. <i>Tr. 853 ; en parl. de choses</i> : τὰ τ. ἀφροδίσια, XÉN. <i>Hier. 1, 29,</i> les plaisirs permis <i>ou</i> naturels, <i>litt</i>. qui procréent, <i>p. opp. aux plaisirs contre nature</i>.<p><b>Étym</b>. τ. ποιέω.`

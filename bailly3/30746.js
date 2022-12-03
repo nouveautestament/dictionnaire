@@ -1,1 +1,0 @@
-lar[30746]=`<b>εἰσ·έλκω</b> (<i>seul. prés</i>.) entraîner dans, attirer dans, XÉNARQ. (ATH. <i>569b</i>).`

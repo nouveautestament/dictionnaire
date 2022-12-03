@@ -1,1 +1,0 @@
-lar[82514]=`<b>ας (ἡ)</b> <font color="purple">[ῠφῐ]</font> grand nombre d’amis, ARSTT. <i>Rhet. 1, 5, 4 ; au plur</i>. ARSTT. <i>Pol. 4, 6, 11</i>.<p><b>Étym</b>. πολύφιλος.`

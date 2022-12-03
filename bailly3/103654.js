@@ -1,1 +1,0 @@
-lar[103654]=`<b>ὑπο·πεινάω-ῶ</b>, commencer à avoir faim, AR. <i>Pl. 536</i>.`

@@ -1,1 +1,0 @@
-lar[19662]=`<b>ου (ὁ)</b> <i>s.-e</i>. φθόγγος, voix enrouée, NICOM. <i>Harm. 11, p. 256, l. 3 Jan, p. 20 M</i>.<p><b>Étym</b>. βήξ.`

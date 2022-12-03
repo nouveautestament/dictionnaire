@@ -1,1 +1,0 @@
-lar[49525]=`<b>ἰσ·άμιλλος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font> égal dans la lutte, <i>d’où en gén</i>. égal à ; <i>adv</i>., ἰσάμιλλα, ANTH. <i>9, 311,</i> également.<p><b>Étym</b>. ἴσος, ἅμιλλα.`

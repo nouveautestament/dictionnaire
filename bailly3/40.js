@@ -1,1 +1,0 @@
-lar[40]=`<b>ἀ·βαμβάκευτος, ος, ον</b> <font color="purple">[ᾰκ]</font> <font color="brown">non drogué, non épicé</font>, PYRGION (ATH. <i>143e</i>).<p><b>Étym</b>. ἀ, *βαμβακεύω.`

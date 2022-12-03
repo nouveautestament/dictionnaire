@@ -1,1 +1,0 @@
-lar[71210]=`<b>ὁλό·ρριζος, ος, ον</b>, qui a toute sa racine, avec toute sa racine, TH. <i>H.P. 3, 18, 5 ; fig</i>. SPT. <i>Prov. 15, 5</i>.<p><b>Étym</b>. ὅλ. ρίζα.`

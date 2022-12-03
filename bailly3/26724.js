@@ -1,1 +1,0 @@
-lar[26724]=`<b>δι·οιδαίνω</b> (<i>seul. prés. et impf</i>.) :<br><b>      1</b> se gonfler, s’enfler, HIPPIATR. <i>p. 68</i>.<br><b>      2</b> <i>fig</i>. se gonfler (de colère, d’indignation) HDN <i>7, 3, 16 ; 8, 8, 2 et 3</i> ; CLÉM. <i>1, 456b Migne</i>.<p>➳ <i>Impf</i>. διοίδαινον, HDN <i>ll. cc</i>.`

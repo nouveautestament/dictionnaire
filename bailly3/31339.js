@@ -1,1 +1,0 @@
-lar[31339]=`<b>εως (ἡ)</b> action de rendre grumeleux, de faire coaguler (le sang) DIOSC. <i>1, 186</i>.<p><b>Étym</b>. ἐκθρομβόω.`

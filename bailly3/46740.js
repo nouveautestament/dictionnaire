@@ -1,1 +1,0 @@
-lar[46740]=`<b>θεο·πλάστης, ου (ὁ) :<br>      1</b> qui façonne des images de dieux, MAN. <i>4, 569</i>.<br><b>      2</b> le divin créateur, PHIL. <i>2, 490</i>.<p><b>Étym</b>. θ. πλάσσω.`

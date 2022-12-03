@@ -1,1 +1,0 @@
-lar[30708]=`<b>εἰσ·αφύσσω</b> (<i>seul. ao. moy. 3 pl</i>. εἰσαφύσαντο <font color="purple">[ᾰφ]</font>) puiser dans, A.RH. <i>4, 1692</i>.`

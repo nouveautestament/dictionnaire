@@ -1,1 +1,0 @@
-lar[9578]=`<b>ἀντ·εκτρέφω :<br>      1</b> nourrir à son tour <i>ou</i> en retour, ARSTT. <i>H.A. 9, 13, 2</i>.<br><b>      2</b> nourrir en opposition avec, LYNC. (ATH. <i>654a</i>).`

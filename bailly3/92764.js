@@ -1,1 +1,0 @@
-lar[92764]=`<b>ου (ὁ)</b> Stoudios, <i>h</i>. ANTH. <i>1, 4</i>.`

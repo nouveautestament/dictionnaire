@@ -1,1 +1,0 @@
-lar[101312]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> verrier, STR. <i>758</i>.<p><b>Étym</b>. ὕαλος, ἔργον.`

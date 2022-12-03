@@ -1,1 +1,0 @@
-lar[47523]=`<b>Θουριό·μαντις, εως (ὁ)</b> devin de Thurium, <i>càd</i>. charlatan, AR. <i>Nub. 336</i>.<p><b>Étym</b>. Θούριον, μάντις.`

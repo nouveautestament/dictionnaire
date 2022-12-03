@@ -1,1 +1,0 @@
-lar[58530]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠᾰῐδ]</font> <i>c</i>. κυκλάμινος ORPH. <i>Arg. 915</i>.`

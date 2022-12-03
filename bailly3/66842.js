@@ -1,1 +1,0 @@
-lar[66842]=`<b>ου (ὁ)</b> = <i>lat</i>. Munatius, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 9, 30, etc.</i> ; CIC. <i>25, etc</i>.`

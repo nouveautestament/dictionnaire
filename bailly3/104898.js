@@ -1,1 +1,0 @@
-lar[104898]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> qui concerne la préparation <i>ou</i> l’administration des médicaments, PLAT. <i>Tim. 89b ;</i> PLUT. <i>M. 974b ;</i> ἡ φαρμακευτική (<i>s.-e</i>. τέχνη) DL. <i>3, 85,</i> l’art de préparer <i>ou</i> d’administrer les médicaments.<p><b>Étym</b>. φαρμακεύω.`

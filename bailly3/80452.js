@@ -1,1 +1,0 @@
-lar[80452]=`<b>πισσο·τρόφος, ος, ον</b>, qui produit (<i>propr</i>. qui nourrit) de la poix, PLUT. <i>M. 648d</i>.<p><b>Étym</b>. πίσσα, τρέφω.`

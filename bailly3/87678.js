@@ -1,1 +1,0 @@
-lar[87678]=`<b>πυλά·οχος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> gardien des portes, POÈT. (PLUT. <i>M. 364f</i>).<p><b>Étym</b>. πύλη, ἔχω.`

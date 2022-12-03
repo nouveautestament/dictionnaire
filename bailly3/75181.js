@@ -1,1 +1,0 @@
-lar[75181]=`<b>Παντ·αίνετος, ου (ὁ)</b> Pantænétos, <i>h</i>. DÉM. <i>Or. 37 Baiter-Sauppe</i> ; ANTH. <i>11, 311</i>.<p><b>Étym</b>. π. αἰνέω.`

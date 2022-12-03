@@ -1,1 +1,0 @@
-lar[72625]=`<font color="darkgreen">(<i>seul. prés. et impf. 3 pl. épq</i>. ὀρέοντο)</font> s’élancer, IL. <i>2, 398 ; 23, 212</i> ; EPIGR. (PAUS. <i>9, 38).</i><p><b>Étym</b>. <i>p.-ê. par lic. poét. p</i>. ὄροντο, <i>v</i>. ὄρνυμι <i>ou R. indo-europ</i>. *h₁er-, bouger ; <i>cf</i>. ἔρετο = ὡρμήθη, HSCH.`

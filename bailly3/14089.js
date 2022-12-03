@@ -1,1 +1,0 @@
-lar[14089]=`<font color="purple">[τᾰ]</font> <i>adv</i>., <i>• Sup</i>. le plus loin de, <i>gén</i>. DÉM. <i>675, 27</i>.<p><b>Étym</b>. ἀπό.`

@@ -1,1 +1,0 @@
-lar[48073]=`<b>ης, ες</b> <font color="purple">[ῠᾰ]</font> en forme de frange, TH. <i>H.P. 1, 6, 4</i>.<p><b>Étym</b>. θύσανος, -ωδης.`

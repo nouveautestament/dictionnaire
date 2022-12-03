@@ -1,1 +1,0 @@
-lar[8]=`<font color="purple">[ᾱ]</font> <font color="brown">ah ! ha !</font> <i>exclamation d’étonnement ou de joie,</i> EUR. <i>Cycl. 157, etc</i>.`

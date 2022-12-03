@@ -1,1 +1,0 @@
-lar[48441]=`<font color="purple">[ῐδ]</font> <i>adv</i>., d’une manière particulière, DS. <i>3, 19</i>.`

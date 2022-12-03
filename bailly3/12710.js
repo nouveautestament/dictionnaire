@@ -1,1 +1,0 @@
-lar[12710]=`<b>ἀπο·κυρτόω-ῶ</b>, <i>au pass</i>. poindre en se recourbant, <i>en parl. de suppurations,</i> HPC. <i>39, 9</i> ; GAL. <i>8, 617</i>.`

@@ -1,1 +1,0 @@
-lar[8769]=`<b>ἀνθ·έλιξ, ικος (ἡ)</b> le pavillon de l’oreille, RUF. <i>p. 26</i>.<p><b>Étym</b>. ἀντί, ἕλιξ.`

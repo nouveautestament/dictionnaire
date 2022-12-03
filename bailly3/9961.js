@@ -1,1 +1,0 @@
-lar[9961]=`<b>ἀντι·κηρύσσω</b>, <i>att</i>. <b>-ύττω</b> <font color="darkgreen">(<i>ao</i>. ἀντεκήρυξα)</font> faire publier une déclaration contraire, EUR. <i>Suppl. 673</i>.`

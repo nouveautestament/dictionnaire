@@ -1,1 +1,0 @@
-lar[89186]=`<b>*σάλη</b>, <i>dor</i>. <b>σάλα, ας (ἡ)</b> <font color="purple">[σᾰ]</font> agitation, ESCHL. (PHOT. <i>p. 497, 14).</i><p><b>Étym</b>. <i>cf</i>. σάλος.`

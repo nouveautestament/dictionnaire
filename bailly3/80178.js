@@ -1,1 +1,0 @@
-lar[80178]=`<b>ακος (ἡ)</b> <font color="purple">[ῑᾰκ]</font><br><b>      1</b> source, IL. <i>16, 825</i> ; EUR. <i>Andr. 285</i> ; ANTH. <i>6, 238, etc.</i><br><b>      2</b> eau de source, HDT. <i>4, 198</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ; cf</i>. πιδάω.`

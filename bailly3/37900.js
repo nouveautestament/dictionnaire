@@ -1,1 +1,0 @@
-lar[37900]=`<b>ας (ἡ)</b> courbure, PHIL. BYZ. <i>Bel. 80</i>.<p><b>Étym</b>. ἐπικάμπτω.`

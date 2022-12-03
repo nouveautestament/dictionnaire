@@ -1,1 +1,0 @@
-lar[52131]=`<font color="purple">[βᾰ]</font> <i>adv</i>., en descendant <i>ou</i> de manière à pouvoir descendre, OLYMPIOD. <i>Plat. 1 Alc. 2, 78</i>.`

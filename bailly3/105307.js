@@ -1,1 +1,0 @@
-lar[105307]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> habitant de la Phthiotide, <i>au plur</i>. HDT. <i>7, 132</i>.`

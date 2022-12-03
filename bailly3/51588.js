@@ -1,1 +1,0 @@
-lar[51588]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾱ]</font> char, <i>chez les Thessaliens,</i> XÉNARQ. (ATH. <i>418d</i>).<p><b>Étym</b>. <i>cf</i>. ἀπήνη.`

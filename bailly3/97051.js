@@ -1,1 +1,0 @@
-lar[97051]=`<b>σχιζό·πτερος, ος, ον</b>, dont les ailes sont formées de plumes séparées, ARSTT. <i>Inc. an. 10, 4 ; P.A. 4, 13, 30</i>.<p><b>Étym</b>. σχίζω, πτερόν.`

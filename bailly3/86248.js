@@ -1,1 +1,0 @@
-lar[86248]=`<b>ος, ον</b>, pleinement en vue, SOPH. <i>O.C. 1600</i>.<p><b>Étym</b>. <i>cf</i>. πρόσοψις.`

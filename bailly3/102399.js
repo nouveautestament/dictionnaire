@@ -1,1 +1,0 @@
-lar[102399]=`<b>ὑπέρ·δουλος, ου (ὁ)</b> plus qu’esclave, DYSC. <i>Synt. 305</i>.`

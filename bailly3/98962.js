@@ -1,1 +1,0 @@
-lar[98962]=`<b>η, ον</b>, très éloigné, le plus éloigné, DP. <i>485</i> ; PARTH. <i>fr. 8 ; adv</i>. τήλιστον <i>ou</i> τήλιστα, ORPH. <i>Arg. 179, 1186,</i> très loin, le plus loin.<p><b>Étym</b>. <i>sup. de</i> τηλοῦ <i>ou de</i> τῆλυ.`

@@ -1,1 +1,0 @@
-lar[88053]=`<b>ατος (τὸ) :<br>      1</b> interrogation (<i>supposant une réponse développée, p. opp. à</i> ἐρώτησις, <i>qui suppose une réponse par oui ou non</i>) PLUT. <i>M. 408c ;</i> SEXT. <i>P. 1, 189</i> ; RHÉT. <i>8, 455, 704 W.</i><br><b>      2</b> particule interrogative, DYSC. <i>Synt. 304</i>.<p><b>Étym</b>. πυνθάνομαι.`

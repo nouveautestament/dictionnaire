@@ -1,1 +1,0 @@
-lar[22331]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> connaissance de qqn, relations d’amitié, STOB. <i>Ecl. 2, 130</i>.<p><b>Étym</b>. γνώριμος.`

@@ -1,1 +1,0 @@
-lar[75664]=`<b>παρα·καθιδρύομαι</b>, être placé près de, <i>dat</i>. PLUT. <i>Cæs. 9</i>.`

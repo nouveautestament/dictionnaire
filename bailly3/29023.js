@@ -1,1 +1,0 @@
-lar[29023]=`<b>ατος (τὸ)</b> incommodité, embarras, CIC. <i>Fin. 3, 21</i>.<p><b>Étym</b>. δυσχρηστέω.`

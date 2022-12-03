@@ -1,1 +1,0 @@
-lar[29290]=`<b>ἑβδομηκοντα·ετής, ής, ές</b> <font color="purple">[ᾰ]</font> âgé de 70 ans, septuagénaire, CLÉM. <i>1, 403</i>.<p><b>Étym</b>. ἑβδομήκοντα, ἔτος.`

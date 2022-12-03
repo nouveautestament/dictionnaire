@@ -1,1 +1,0 @@
-lar[38872]=`<b>ἐπι·ρρέζω :<br>      1</b> faire un sacrifice sur (un autel) OD. <i>17, 211 (ao. itér</i>. ἐπιρρέζεσκον).<br><b>      2</b> sacrifier ensuite <i>ou</i> en outre à, <i>dat</i>. THCR. <i>Idyl. 24, 97</i>.<p><b>Étym</b>. ἐπί, ῥέζω.`

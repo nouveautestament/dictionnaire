@@ -1,1 +1,0 @@
-lar[60624]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> leucophlegmasie, <i>sorte d’hydropisie,</i> HPC.<p><b>Étym</b>. λευκοφλέγματος.`

@@ -1,1 +1,0 @@
-lar[90962]=`<b>ας (ἡ)</b> <font color="purple">[ῑρ]</font> tumeur dure, squirre, ARÉT. <i>Cur. m. diut. 1, 14</i>.<p><b>Étym</b>. <i>cf</i>. σκῖρος.`

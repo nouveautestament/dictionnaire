@@ -1,1 +1,0 @@
-lar[56376]=`<b>κογχίτης λίθος (ὁ)</b> marbre portant des empreintes de coquillages, PAUS. <i>1, 44, 6</i>.<p><b>Étym</b>. κόγχη.`

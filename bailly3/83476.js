@@ -1,1 +1,0 @@
-lar[83476]=`<b>προ·αγνοέω-οῶ</b>, ne pas savoir auparavant, GAL. <i>2, 231</i>.`

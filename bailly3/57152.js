@@ -1,1 +1,0 @@
-lar[57152]=`<b>οῦ</b>, <i>mieux que</i> <b>κορύδαλος, ου (ὁ)</b> alouette huppée, THCR. <i>Idyl. 10, 50</i>.<p><b>Étym</b>. κορυδός.`

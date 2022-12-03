@@ -1,1 +1,0 @@
-lar[23318]=`<b>δασύ·πους</b>, <i>gén</i>. <b>-ποδος (ὁ)</b> <font color="purple">[ᾰῠ]</font> sorte de lièvre à pattes velues (<i>Lepus timidus</i> L.) CRAT. (POLL. <i>5, 68</i>) ; COM. (ATH. <i>402e, etc</i>.) ; ARSTT. <i>H.A. 2, 1 et 17 ; 3, 1, etc</i>.<p><b>Étym</b>. δ. πούς.`

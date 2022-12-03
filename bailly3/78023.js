@@ -1,1 +1,0 @@
-lar[78023]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰσ]</font> le quintuple, NICOM. <i>Arithm. 114</i>.<p><b>Étym</b>. πενταπλάσιος.`

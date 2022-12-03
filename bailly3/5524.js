@@ -1,1 +1,0 @@
-lar[5524]=`<i>adv</i>., sans mesure, ORACL. (DS. <i>12, 10 conj</i>.).<p><b>Étym</b>. ἄμετρος.`

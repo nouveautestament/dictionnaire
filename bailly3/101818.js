@@ -1,1 +1,0 @@
-lar[101818]=`<b>ίδος (ἡ)</b> Hymnis, <i>litt</i>. « la Cantatrice » :<br><b>      1</b> <i>f</i>. LUC. <i>D. mer. 13, 4</i>.<br><b>      2</b> <i>titre d’une comédie de Ménandre</i>.<p>➳ <i>Voc</i>. -ί, LUC. <i>l. c</i>.<p><b>Étym</b>. ὕμνος.`

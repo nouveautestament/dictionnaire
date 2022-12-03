@@ -1,1 +1,0 @@
-lar[8134]=`<b>ης, ες</b>, viril, fort, courageux, ARSTT. <i>Pol. 5, 7 ; Nic. 9, 11</i> ; POL. <i>16, 21, 3</i> ; PLUT. <i>M. 456f ; en parl. de choses (paroles, etc</i>.) PLUT. <i>M. 110d</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Rhet. 2, 17, 2</i>.<p><b>Étym</b>. ἀνήρ, -ωδης.`

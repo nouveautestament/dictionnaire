@@ -1,1 +1,0 @@
-lar[109958]=`<b>α, ον</b> <font color="purple">[ῡ]</font> animé, vivant, PYTHAG. (LUC. <i>V. auct. 6).</i><p><b>Étym</b>. ψυχή.`

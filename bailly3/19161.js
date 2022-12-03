@@ -1,1 +1,0 @@
-lar[19161]=`<b>βαρυ·λαῖλαψ, απος (ὁ, ἡ)</b> <font color="purple">[ᾰῠᾰπ]</font> aux tourbillons pesants, <i>càd</i>. terribles, ANTH. <i>9, 247</i>.<p><b>Étym</b>. βαρ. λαῖλαψ.`

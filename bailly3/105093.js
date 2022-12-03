@@ -1,1 +1,0 @@
-lar[105093]=`<b>έως (ὁ)</b> <i>litt</i>. « la région pierreuse », <i>n. d’une contrée rocheuse de l’Attique,</i> AR. <i>Ach. 273, Nub. 71</i> ; PLAT. <i>Criti. 111b</i>.<p><b>Étym</b>. <i>v</i>. φελλεύς.`

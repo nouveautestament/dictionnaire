@@ -1,1 +1,0 @@
-lar[50449]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière générale, généralement. ARSTT. <i>Plant. 2, 8, 9</i> ; POL. <i>4, 1, 8</i>.<p>•<i> Cp</i>. -ώτερον, POL. <i>3, 37, 6</i>.`

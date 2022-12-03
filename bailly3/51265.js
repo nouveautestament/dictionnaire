@@ -1,1 +1,0 @@
-lar[51265]=`<b>καλλι·χωρία, ας (ἡ)</b> <font color="purple">[λῐ]</font> beauté d’un pays, DS. <i>1, 30 dout</i>.<p><b>Étym</b>. κ. χώρα.`

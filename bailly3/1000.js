@@ -1,1 +1,0 @@
-lar[1000]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> consacré à Apollon ἀγυιεύς, SOPH. <i>fr. 211</i>.`

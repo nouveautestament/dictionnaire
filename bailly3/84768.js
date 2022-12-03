@@ -1,1 +1,0 @@
-lar[84768]=`<b>προ·νέω</b>, nager en avant, EL. <i>N.A. 1, 4</i>.`

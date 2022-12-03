@@ -1,1 +1,0 @@
-lar[89911]=`<b>ου (ὁ)</b> = <i>lat</i>. Sēdātus, <i>n. d’h. rom</i>. PLUT. <i>Aud. poet. 1</i>.`

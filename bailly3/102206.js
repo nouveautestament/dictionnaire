@@ -1,1 +1,0 @@
-lar[102206]=`<b>*ὑπ·εξερύω</b>, <i>ion</i>. <b>ὑπ·εξειρύω</b>, soustraire, enlever, HDT. <i>7, 225</i>.<br><b><i>Moy.</i></b> soustraire qqn <i>ou</i> qqe ch. à soi : τινος, A.RH. <i>2, 1183,</i> à qqe ch.<p>➳ <i>Impf. 3 sg. poét. avec contr</i>. ὑπεξείρυτο <font color="purple">[ῡ]</font> A.RH. <i>l. c</i>.`

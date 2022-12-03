@@ -1,1 +1,0 @@
-lar[107057]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. φῦκος, PHIL. (MATH. <i>p. 85 dout</i>.).`

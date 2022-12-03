@@ -1,1 +1,0 @@
-lar[48476]=`<b>ης (ἡ)</b> Idoménè, <i>colline d’Acarnanie,</i> THC. <i>3, 112</i>.`

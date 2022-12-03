@@ -1,1 +1,0 @@
-lar[20096]=`<font color="darkgreen">(<i>f</i>. άσω) :</font><br><b>      1</b> agir comme un Béotien, COM. (E. BYZ.).<br><b>      2</b> parler le dialecte béotien, XÉN. <i>An. 3, 1, 26</i>.<br><b>      3</b> être du parti des Béotiens, XÉN. <i>Hell. 5, 4, 34</i> ; ESCHN. <i>73, 24</i>.<p><b>Étym</b>. βοιωτός.`

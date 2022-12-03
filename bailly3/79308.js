@@ -1,1 +1,0 @@
-lar[79308]=`<b>περί·σπουδος, ος, ον</b>, qui s’intéresse vivement à, <i>gén</i>. SIMPL. <i>Epict. p. 51, 30</i>.<p><b>Étym</b>. π. σπουδή.`

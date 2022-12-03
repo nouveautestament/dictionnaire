@@ -1,1 +1,0 @@
-lar[39467]=`<b>ἐπί·τραγοι, ων (οἱ)</b> branches de la vigne stériles à force de croissance, DH. <i>17, 2</i>.<p><b>Étym</b>. ἐπί, τραγάω.`

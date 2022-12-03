@@ -1,1 +1,0 @@
-lar[11606]=`<b>ἀπειρο·πόλεμος, ος, ον</b>, sans expérience de la guerre, APP. <i>Mithr. 51</i> ; τὸ ἀ. DH. <i>8, 37,</i> inexpérience de la guerre.<p><b>Étym</b>. ἄ. πόλεμος.`

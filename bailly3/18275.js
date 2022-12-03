@@ -1,1 +1,0 @@
-lar[18275]=`<b>ἀφρο·τόκος, ος, ον</b>, qui produit de l’écume, écumant, NONN. <i>D. 45, 156</i>.<p><b>Étym</b>. ἀφρός, τίκτω.`

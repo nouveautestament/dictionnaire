@@ -1,1 +1,0 @@
-lar[72268]=`<b>ὀπισθο·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱ]</font> qui va en arrière, à reculons, ANTH. <i>6, 196</i>.<p><b>Étym</b>. ὄπισθε, βαίνω.`

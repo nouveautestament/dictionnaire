@@ -1,1 +1,0 @@
-lar[87278]=`<b>πρωτό·χυτος, ος, ον</b> <font color="purple">[ῠ]</font> répandu <i>ou</i> qui coule pour la première fois, ANTH. <i>6, 44</i> ; CLÉM. <i>123</i>.<p><b>Étym</b>. πρ. χέω.`

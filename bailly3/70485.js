@@ -1,1 +1,0 @@
-lar[70485]=`<b>άδος (ἡ)</b> Œnade, <i>n. de chienne,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. <i>v</i>. οἰνάς.`

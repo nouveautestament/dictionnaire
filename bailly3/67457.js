@@ -1,1 +1,0 @@
-lar[67457]=`<b>ιδος (ἡ) :<br>      1</b> intérieur de la seiche, ARSTT. <i>P.A. 4, 5, 12, etc. ; H.A. 4, 1, 19</i> ; PLUT. <i>M. 978a.</i><br><b>      2</b> liqueur noire jetée par la seiche, GAL. <i>Lex. Hipp. 19, 123</i>.<p><b>Étym</b>. μύω.`

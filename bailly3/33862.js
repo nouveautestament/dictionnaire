@@ -1,1 +1,0 @@
-lar[33862]=`<b>ἐν·αμείβω</b> <font color="purple">[ᾰ]</font> échanger, faire alterner dans, HPC. <i>343, 44</i>.`

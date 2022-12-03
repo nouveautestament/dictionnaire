@@ -1,1 +1,0 @@
-lar[95739]=`<b>σύν·εργον, ου (τὸ)</b> achèvement d’un travail, ARTÉM. <i>282 Reiff</i> ; PLOT. <i>Enn. 1, 154 Creuz</i>.<p><b>Étym</b>. σ. ἔργον.`

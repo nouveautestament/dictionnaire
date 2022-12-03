@@ -1,1 +1,0 @@
-lar[106716]=`<b>ος, ον</b>, soumis à un impôt, tributaire, SPT. <i>Deut. 20, 11</i>.<p><b>Étym</b>. <i>vb. de</i> φορολογέω.`

@@ -1,1 +1,0 @@
-lar[36193]=`<b>εως (ἡ)</b> action de faire prêter serment, HDT. <i>4, 154</i> ; JOS. <i>A.J. 2, 5</i>.<p><b>Étym</b>. ἐξορκόω.`

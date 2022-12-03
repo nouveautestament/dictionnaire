@@ -1,1 +1,0 @@
-lar[19138]=`<b>βαρυ·δότειρα, ας</b> <font color="purple">[ᾰῠ]</font> <i>adj. f</i>. qui accable de maux, ESCHL. <i>Sept. 957, 988</i>.`

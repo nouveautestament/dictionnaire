@@ -1,1 +1,0 @@
-lar[100090]=`<b>τριακοντ·ήρης, ης, ες</b> <font color="purple">[ᾱ]</font> à trente rangs de rames, <i>subst</i>. ἡ τρ. CALLIX. (ATH. <i>203d</i>) galère à trente rangs de rames.<p><b>Étym</b>. τρ. ἐρέσσω.`

@@ -1,1 +1,0 @@
-lar[2721]=`<b>ἄϊκος (ἡ)</b> <font color="purple">[ᾱῑκ]</font> tourbillon ; <i>seul. pl</i>. ἄϊκες ἀνέμων, A.RH. <i>4, 820,</i> vents impétueux.<p><b>Étym</b>. ἀΐσσω.`

@@ -1,1 +1,0 @@
-lar[77392]=`<b>πατρο·ποιέομαι-οῦμαι</b>, adopter pour son père, CHRYS.<p><b>Étym</b>. π. ποιέω.`

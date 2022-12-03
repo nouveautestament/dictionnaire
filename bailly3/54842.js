@@ -1,1 +1,0 @@
-lar[54842]=`<b>ου</b>, <i>ou sel</i>. ARC. <i>p. 76, 22,</i> <b>κερασός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> cerisier, <i>arbre,</i> ARSTT. <i>Plant. 1, 5, 9</i> ; TH. <i>H.P. 3, 13</i> ; GEOP. <i>10, 41, 2, etc</i>.`

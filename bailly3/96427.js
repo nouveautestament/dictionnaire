@@ -1,1 +1,0 @@
-lar[96427]=`<b>συν·υποπτεύω</b>, soupçonner ensemble <i>ou</i> en même temps, POL. <i>14, 4, 8</i>.`

@@ -1,1 +1,0 @@
-lar[85738]=`<b>προσ·επιτερατεύομαι</b> <font color="purple">[ᾰ]</font> ajouter des circonstances prodigieuses à, <i>dat</i>. CLÉM. <i>16</i>.`

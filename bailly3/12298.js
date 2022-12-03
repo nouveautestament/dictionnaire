@@ -1,1 +1,0 @@
-lar[12298]=`<b>ἀπο·διΐστημι</b>, séparer, écarter, PLUT. <i>M. 968d</i>.`

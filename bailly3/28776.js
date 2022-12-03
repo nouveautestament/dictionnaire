@@ -1,1 +1,0 @@
-lar[28776]=`<b>Δύσ·παρις</b>, <i>gén</i>. <b>ιδος</b>, <i>voc</i>. <b>ι</b> <font color="purple">[ᾰῐδ]</font> malheureux <i>ou</i> funeste Pâris, IL. <i>3, 39 ; 13, 769</i> ; ARSTD. <i>t. 2, 255</i>.<p><b>Étym</b>. δ. Πάρις, <i>cf</i>. Αἰνόπαρις, Δυσελένη.`

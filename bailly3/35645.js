@@ -1,1 +1,0 @@
-lar[35645]=`<b>ἑξά·τονος, ος, ον</b> <font color="purple">[ᾰ]</font> à six tons, PLUT. <i>M. 1028f ;</i> A. QUINT. <i>p. 21</i>.<p><b>Étym</b>. ἕξ, τόνος.`

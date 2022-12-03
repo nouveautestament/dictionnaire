@@ -1,1 +1,0 @@
-lar[48405]=`<b>ἰδιο·θηρευτικός, ή, όν</b> <font color="purple">[ῐδ]</font> qui chasse pour soi : ἡ ἰδιοθηρευτική, PLAT. <i>Soph. 222d, c</i>. ἰδιοθηρία.<p><b>Étym</b>. ἴδ. θηρεύω.`

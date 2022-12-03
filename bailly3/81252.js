@@ -1,1 +1,0 @@
-lar[81252]=`<b>ποδα·νιπτήρ, ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> bassin pour les pieds, HDT. <i>2, 172</i>.<p><b>Étym</b>. πούς, νίπτω ; <i>cf</i>. ποδονιπτήρ.`

@@ -1,1 +1,0 @@
-lar[30366]=`<b>εἰκοσ·ήρης, ης, ες</b>, à vingt rangs de rames, ATH. <i>203d</i>.<p><b>Étym</b>. εἴ. ἐρέσσω.`

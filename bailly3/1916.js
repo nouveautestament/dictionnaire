@@ -1,1 +1,0 @@
-lar[1916]=`<b>ος, ον</b> <font color="purple">[ᾰῠ]</font> criminel, IL. <i>5, 876</i>.<p><b>Étym</b>. <i>cf. p.-ê</i>. αἴσυλος, <i>autrement pré-grec</i>.`

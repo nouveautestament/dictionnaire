@@ -1,1 +1,0 @@
-lar[76339]=`<b>παρα·τολμάω-ῶ</b>, être trop audacieux, être téméraire, POL. <i>Fr. gr. 102</i> ; τὰ παρατετολμημένα, LGN <i>8, 2,</i> métaphores trop hardies.`

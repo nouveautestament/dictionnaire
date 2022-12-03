@@ -1,1 +1,0 @@
-lar[1422]=`<b>ἀδικο·δοξέω-ῶ</b> <font color="purple">[ῐ]</font> chercher la gloire par des moyens iniques, DS. <i>Exc. 31, 1</i>.<p><b>Étym</b>. ἄδ. δόξα.`

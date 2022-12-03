@@ -1,1 +1,0 @@
-lar[62750]=`<i>adv</i>., en entravant avec des lianes, HIPPIATR.<p><b>Étym</b>. μανδάκης, -δον.`

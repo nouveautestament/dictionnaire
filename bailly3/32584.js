@@ -1,1 +1,0 @@
-lar[32584]=`<b>ἐλαφῶεν ὄρος (τὸ)</b> la « montagne des cerfs », <i>dans l’î. d’Arginuse,</i> ARSTT. <i>H.A. 6, 29</i>.<p><b>Étym</b>. ἔλαφος.`

@@ -1,1 +1,0 @@
-lar[65414]=`<b>μηλο·σφαγέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> égorger des brebis <i>ou</i> offrir des brebis en sacrifice, SOPH. <i>El. 280</i> ; EUR. <i>fr. 630</i> ; AR. <i>Av. 1232</i>.<br><b>      2</b> offrir en sacrifice, <i>en gén</i>. (du vin, <i>etc</i>.) AR. <i>Lys. 196</i>.<p><b>Étym</b>. μῆλον¹, σφάζω.`

@@ -1,1 +1,0 @@
-lar[85884]=`<b>προσ·ίζω</b> (<i>seul. prés. et impf</i>.) être assis près de, se tenir auprès de, <i>avec l’acc</i>. ESCHL. <i>Suppl. 189</i> ; EUR. <i>Hec. 935 ; avec</i> πρός <i>et l’acc</i>. ARSTT. <i>H.A. 8, 11, 2, ou</i> περί <i>et l’acc</i>. PLAT. <i>Rsp. 564d ;</i> ἐν <i>et le dat</i>. TH. <i>C.P. 5, 11, 3 ; fig</i>. EUR. <i>fr. inc. 902, 9 Nauck</i>.`

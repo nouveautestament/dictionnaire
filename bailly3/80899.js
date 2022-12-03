@@ -1,1 +1,0 @@
-lar[80899]=`<b>πλευμάω-ῶ</b> (<i>seul. prés</i>.) être atteint d’une maladie de poumon, HPC. <i>477, 18</i>.<p><b>Étym</b>. πλεῦμος.`

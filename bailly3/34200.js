@@ -1,1 +1,0 @@
-lar[34200]=`<b>ἐν·δινεύω</b> <font color="purple">[ῑ]</font> <i>c</i>. ἐνδινέω LGS <i>1, 23</i>.`

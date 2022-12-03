@@ -1,1 +1,0 @@
-lar[54696]=`<b>κενο·γάμιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> semblant de mariage, A. TAT. <i>5, 14</i>.<p><b>Étym</b>. κ. γάμος.`

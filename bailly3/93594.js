@@ -1,1 +1,0 @@
-lar[93594]=`<b>συγ·χαράσσω</b>, <i>ion. et anc. att</i>. <b>ξυγ·χαράττω</b> <font color="purple">[χᾰ]</font> scarifier entièrement, ARÉT. <i>Cur. m. diut. 1, 2</i>.`

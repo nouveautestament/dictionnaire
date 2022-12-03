@@ -1,1 +1,0 @@
-lar[7178]=`<b>ἀνά·μεσος, ος, ον</b>, situé au milieu (des terres) HDT. <i>2, 108</i>.<p><b>Étym</b>. ἀνά, μέσος.`

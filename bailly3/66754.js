@@ -1,1 +1,0 @@
-lar[66754]=`<b>ωνος (ὁ)</b> Morsôn, <i>n. d’un chevrier,</i> THCR. <i>Idyl. 5, 65</i>.`

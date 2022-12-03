@@ -1,1 +1,0 @@
-lar[41980]=`<b>εὐ·έμετος</b>, <i>ou</i> <b>εὐ·ήμετος, ος, ον</b>, qui provoque le vomissement, HPC. <i>Art. 805</i>.<p><b>Étym</b>. εὖ, ἐμέω.`

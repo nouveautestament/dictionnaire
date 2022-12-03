@@ -1,1 +1,0 @@
-lar[88709]=`<b>ῥοδό·πνοος-ους, οος-ους, οον-ουν</b>, au parfum de rose, EPHIPP. <i>26 Kock</i> (ATH. <i>48c</i>).<p><b>Étym</b>. ῥ. πνέω.`

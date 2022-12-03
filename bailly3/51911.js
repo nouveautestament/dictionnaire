@@ -1,1 +1,0 @@
-lar[51911]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> fruit, ESCHL. <i>Suppl. 1001</i>.<br><b>      2</b> fruit offert sur l’autel, <i>d’où</i> offrande, sacrifice, SPT. <i>Ex. 29, 25 ; Lev. 1, 4</i>.<p><b>Étym</b>. καρπόω.`

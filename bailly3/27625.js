@@ -1,1 +1,0 @@
-lar[27625]=`<i>gén</i>. <b>δορκός (ἡ)</b> chevreuil <i>ou</i> gazelle, CALL. <i>L. Pall. 91</i> ; OPP. <i>C. 2, 315</i> ; LUC. <i>Am. 16</i>.<p>➳ ζόρξ, CALL. <i>Dian. 97, fr. 239</i> ; NIC. <i>Th. 42</i>.<p><b>Étym</b>. <i>v</i>. δορκάς.`

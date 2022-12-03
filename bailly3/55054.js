@@ -1,1 +1,0 @@
-lar[55054]=`<b>ου (ὁ)</b> <i>c</i>. κεστρεύς, HYPÉR. (HARP.) ; ANAXANDR. (ATH. <i>307f</i>).`

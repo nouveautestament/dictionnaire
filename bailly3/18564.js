@@ -1,1 +1,0 @@
-lar[18564]=`<b>ιδος</b> <font color="purple">[ᾰῠῑῐδ]</font> <i>adj. f</i>. de paille, ANTH. <i>9, 438</i>.<p><b>Étym</b>. ἄχυρον.`

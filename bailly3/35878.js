@@ -1,1 +1,0 @@
-lar[35878]=`<b>ἐξ·ευθύνω</b>, faire rendre compte à, <i>acc</i>. PLAT. <i>Leg. 945d</i>.`

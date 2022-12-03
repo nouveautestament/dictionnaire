@@ -1,1 +1,0 @@
-lar[45284]=`<b>α, ον</b> <font color="purple">[ῠ]</font> élyséen, des Champs Élysées, ANTH. <i>App. 51</i> ; Ἠλύσιον πεδίον, OD. <i>4, 563</i> ; τὸ πεδίον τὸ Ἠλύσιον, PAUS. <i>8, 53, 5</i> ; Ἠλύσια πεδία, ANTH. <i>App. 278</i> ; Ἠλύσιον πέδον, Q. SM. <i>2, 651</i> ; Ἠλύσιος λειμών, NONN. <i>D. 19, 189</i> ; LUC. <i>J. conf. 17,</i> les Champs Élysées.`

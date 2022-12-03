@@ -1,1 +1,0 @@
-lar[5629]=`<b>ου (ὁ)</b> Ammæos (Ammée) <i>ami de Denys d’Halicarnasse,</i> DH. <i>Lys. 1, etc</i>.`

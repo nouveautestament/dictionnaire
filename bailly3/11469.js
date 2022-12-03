@@ -1,1 +1,0 @@
-lar[11469]=`<b>ἀπ·αυθάδημα, ατος (τὸ)</b> <font color="purple">[θᾱ]</font> trait d’arrogance, D. CHR. <i>Or. 18, t. 1, p. 477</i>.<p><b>Étym</b>. ἀπαυθαδέω.`

@@ -1,1 +1,0 @@
-lar[482]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> d’un troupeau, qui vit en troupe, BAS. <i>1, 172 Migne</i>.<p><b>Étym</b>. ἀγέλη.`

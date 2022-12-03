@@ -1,1 +1,0 @@
-lar[15644]=`<b>ἀρχι·ποιμήν, ένος (ὁ)</b> <font color="purple">[ῐ]</font> chef des bergers, NT. <i>Eph. 5, 23, etc</i>.`

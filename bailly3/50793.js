@@ -1,1 +1,0 @@
-lar[50793]=`<b>κακονομέω-ῶ</b> <font color="purple">[ᾰ]</font> régir par de mauvaises lois, OCELL. <i>4, 8</i>.<p><b>Étym</b>. κακόνομος.`

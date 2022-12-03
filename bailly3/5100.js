@@ -1,1 +1,0 @@
-lar[5100]=`<b>έως</b>, <i>épq</i>. <b>-ῆος (ὁ)</b> <font color="purple">[ᾰ]</font> Alôée, <i>h</i>. IL. <i>5, 386</i> ; OD. <i>11, 305, etc</i>.`

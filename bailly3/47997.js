@@ -1,1 +1,0 @@
-lar[47997]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font> Thyræe, <i>h</i>. NONN. <i>D. 26, 146</i>.`

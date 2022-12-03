@@ -1,1 +1,0 @@
-lar[103851]=`<b>ὑπό·σοφος, ος, ον</b>, qqe peu sage, assez sage, PHILSTR. <i>V. Ap. 8, 7</i>.<p><b>Étym</b>. ὑ. σοφός.`

@@ -1,1 +1,0 @@
-lar[69069]=`<b>ου (ὁ) :<br>      1</b> triobole, <i>monnaie de trois oboles chez les Doriens, les Siciliens et dans la Grande-Grèce,</i> EPICH. <i>fr. 92 Ahrens</i> ; ARSTT. <i>fr. 547</i>.<br><b>      2</b> sesterce, <i>à Rome,</i> PLUT. <i>Syll. 1</i>.<p><b>Étym</b>. <i>lat</i>. nummus.`

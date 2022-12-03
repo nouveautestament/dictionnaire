@@ -1,1 +1,0 @@
-lar[86420]=`<b>*προσ·συμβάλλομαι</b>, <i>ion</i>. <b>προσ·ξυμβάλλομαι</b>, contribuer en outre à, <i>avec</i> πρός <i>et l’acc</i>. HPC. <i>Art. 797 ; abs</i>. HPC. <i>Fract. 769</i>.`

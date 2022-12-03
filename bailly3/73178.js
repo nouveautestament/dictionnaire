@@ -1,1 +1,0 @@
-lar[73178]=`<b>ης, ες</b>, semblable à du petit-lait, séreux, TH. <i>C.P. 5, 9, 7</i> ; GAL. <i>4, 201, etc</i>.<p><b>Étym</b>. ὀρός, -ωδης.`

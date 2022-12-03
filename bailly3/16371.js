@@ -1,1 +1,0 @@
-lar[16371]=`<b>ἄ·στυλος, ος, ον</b> <font color="purple">[ῡ]</font> sans colonnes, ANTH. <i>7, 648</i>.<p><b>Étym</b>. ἀ, στῦλος.`

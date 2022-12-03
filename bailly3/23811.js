@@ -1,1 +1,0 @@
-lar[23811]=`<b>ου (ὁ)</b> <font color="purple">[ῑν]</font> petit dauphin, ARSTT. <i>H.A. 9, 48, 3</i>.<p><b>Étym</b>. δελφίς.`

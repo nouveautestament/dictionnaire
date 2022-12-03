@@ -1,1 +1,0 @@
-lar[14644]=`<b>Ἀριστ·αίνετος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristænétos (Aristénète) :<br><b>      1</b> <i>philosophe,</i> LUC. <i>D. mer. 2, 4 ; 10, 1, etc.</i><br><b>      2</b> <i>écrivain épistolaire, etc</i>.<p><b>Étym</b>. ἄ. αἰνέω.`

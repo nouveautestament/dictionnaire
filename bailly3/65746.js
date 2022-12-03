@@ -1,1 +1,0 @@
-lar[65746]=`<b>μικρό·στομος, ος, ον :<br>      1</b> qui a la bouche petite, ARSTT. <i>H.A. 2, 7, 1</i>.<br><b>      2</b> qui a une petite embouchure (vase, lampe, <i>etc</i>.) HPC. <i>515, 19</i> ; LUC. <i>Tim. 14</i>.<p><b>Étym</b>. μ. στόμα.`

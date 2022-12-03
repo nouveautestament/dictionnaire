@@ -1,1 +1,0 @@
-lar[28482]=`<b>δυσ·ήνιος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à contenir avec les rênes, difficile à maîtriser, MÉN. <i>4, 290 Meineke</i>.<p><b>Étym</b>. δ. ἡνία.`

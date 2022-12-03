@@ -1,1 +1,0 @@
-lar[86403]=`<b>προσ·σπαίρω</b>, palpiter auprès de <i>ou</i> sur, <i>dat</i>. PLUT. <i>Oth. 2</i>.`

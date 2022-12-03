@@ -1,1 +1,0 @@
-lar[21019]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Bynè, <i>anc. n. d’Ino ou Leukothéa, divinité marine,</i> LYC. <i>107 ; d’où synon. de</i> la mer <i>elle-même,</i> EUPH. <i>90</i>.`

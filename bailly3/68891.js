@@ -1,1 +1,0 @@
-lar[68891]=`s’établir qqe part, résider, NIC. <i>Th. 950</i>.<br><b><i>Moy.</i></b> paître, NIC. <i>Al. 345</i>.<p><b>Étym</b>. νομάς.`

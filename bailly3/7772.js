@@ -1,1 +1,0 @@
-lar[7772]=`<b>ή, όν</b>, qui concerne la région du Levant, oriental, PLUT. <i>M. 888a ;</i> JOS. <i>A.J. 20, 9, 7</i> ; ἡ ἀνατολική, E. BYZ. <i>v°</i> Ἴχναι, l’Orient ; οἱ ἀνατολικοί, HDN <i>3, 2, 4 ; 3, 4, 5,</i> les Orientaux.<p>•<i> Cp</i>. -ώτερος, E. BYZ. <i>v°</i> Ἑκατόμπυλος.<p><b>Étym</b>. ἀνατολή.`

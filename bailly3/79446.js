@@ -1,1 +1,0 @@
-lar[79446]=`<b>περι·σφίγγω</b>, serrer tout autour, HPC. <i>V.C. 908, etc.</i> ; τινὶ τὸν αὐχένα, DS. <i>3, 33,</i> serrer le cou avec qqe ch.`

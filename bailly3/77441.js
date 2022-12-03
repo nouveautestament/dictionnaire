@@ -1,1 +1,0 @@
-lar[77441]=`<b>παυσί·νοσος, ος, ον</b> <font color="purple">[ῐ]</font> qui guérit la maladie, ANTH. <i>App. 234</i>.<p><b>Étym</b>. π. νόσος.`

@@ -1,1 +1,0 @@
-lar[63848]=`<b>μελαν·είμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font><br><b>      1</b> vêtu de noir, ESCHL. <i>Eum. 376</i> ; POL. <i>2, 16, 13, etc.</i><br><b>      2</b> où l’on revêt des habits de deuil, DH. <i>2, 19</i>.<p><b>Étym</b>. μ. εἷμα.`

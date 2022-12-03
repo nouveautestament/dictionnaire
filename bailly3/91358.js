@@ -1,1 +1,0 @@
-lar[91358]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> boutique <i>ou</i> atelier de cordonnier, TÉLÈS (STOB. <i>Fl. 95, 21</i>) ; Ps.-HDT. <i>V. Hom. 9</i>.<p><b>Étym</b>. σκυτεύς.`

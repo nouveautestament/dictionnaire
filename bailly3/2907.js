@@ -1,1 +1,0 @@
-lar[2907]=`<b>αἰσχρο·ποιός, ός, όν :<br>      1</b> qui commet des actions honteuses, EUR. <i>Med. 1346</i>.<br><b>      2</b> débauché, MACH. (ATH. <i>582d</i>).<p><b>Étym</b>. αἰ. ποιέω.`

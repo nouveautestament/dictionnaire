@@ -1,1 +1,0 @@
-lar[98573]=`<b>τετρά·θυρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à quatre portes, ARSTT. <i>H.A. 9, 41, 5</i> ; CALLIX. (ATH. <i>205b</i>).<p><b>Étym</b>. τ. θύρα.`

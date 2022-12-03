@@ -1,1 +1,0 @@
-lar[71285]=`<b>ου</b>, <i>adj. m</i>. d’Olynthe, Olynthien, XÉN. <i>Hell. 5, 3, 3, etc.</i> ; ἡ Ὀλυνθία, XÉN. <i>Hell. 5, 3, 18,</i> le territoire d’Olynthe ; οἱ Ὀλύνθιοι, THC. <i>4, 110, etc.</i> ; XÉN. <i>Hell. 5, 2, 13, etc</i>. les Olynthiens.<p><b>Étym</b>. Ὄλυνθος.`

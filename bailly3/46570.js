@@ -1,1 +1,0 @@
-lar[46570]=`<b>θεμισ·κρέων, οντος</b>, <i>adj. m</i>. qui gouverne avec justice, PD. <i>P. 5, 38</i>.<p><b>Étym</b>. θ. κρέων.`

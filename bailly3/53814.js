@@ -1,1 +1,0 @@
-lar[53814]=`<b>κατ·εγ·χλιδάω-ῶ</b> <font color="purple">[ῐ]</font> faire le dégoûté <i>ou</i> le dédaigneux à l’égard de, <i>dat</i>. MACH. (ATH. <i>577f</i>).<p><b>Étym</b>. κ. ἐν, χλιδή.`

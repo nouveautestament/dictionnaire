@@ -1,1 +1,0 @@
-lar[2251]=`<b>(ἡ)</b> <i>litt</i>. « l’escarpée » <i>î. d’Épire,</i> IL. <i>2, 633</i>.<p><b>Étym</b>. <i>v</i>. αἰγίλιψ.`

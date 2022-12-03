@@ -1,1 +1,0 @@
-lar[32926]=`<b>ατος (τὸ) :<br>      1</b> manque, déficit, HPC. <i>28, 5 ; d’où</i> lacune, ARSTT. <i>Rhet. 1, 13, 12</i>.<br><b>      2</b> arriéré, DÉM. <i>606, 29 ; d’où</i> reste, SPT. <i>2Reg. 21, 2</i>.<br><b>      3</b> <i>p. suite,</i> défaut, faute, DH. <i>Dem. 20</i>.<p><b>Étym</b>. ἐλλείπω.`

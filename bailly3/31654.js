@@ -1,1 +1,0 @@
-lar[31654]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> témoignage écrit d’une personne absente, DÉM. <i>1130</i> ; IS. <i>24</i>.<p><b>Étym</b>. ἐκμαρτυρέω.`

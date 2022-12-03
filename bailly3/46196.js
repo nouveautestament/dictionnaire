@@ -1,1 +1,0 @@
-lar[46196]=`<b>ων (τά)</b> <font color="purple">[ᾰ]</font> joie, plaisir, <i>seul. pl. gén</i>. θαλέων, IL. <i>22, 504, et dat</i>. θαλέεσσιν, POÈT. (SUID.) ; <i>sel. d’autres,</i> σαλέεσσι, ALCM. <i>9 (mais plutôt</i> σάλεσσι <i>de</i> σάλος).<p><b>Étym</b>. <i>probabl. neutre de</i> *θάλυς, <i>d’où fém</i>. θάλεια, <i>v</i>. Θάλεια 2.`

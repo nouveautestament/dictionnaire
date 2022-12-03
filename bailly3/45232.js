@@ -1,1 +1,0 @@
-lar[45232]=`<b>ἡλιο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> excité, affolé par le soleil, AR. <i>Av. 1096</i>.<p><b>Étym</b>. ἥ. μαίνομαι.`

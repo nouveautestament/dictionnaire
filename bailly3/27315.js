@@ -1,1 +1,0 @@
-lar[27315]=`<b>ῆρος (ὁ) :<br>      1</b> bâton qu’on passe dans l’anneau d’un coffre pour le porter, SPT. <i>Ex. 38, 4 ; 40, 18</i> ; AQU. <i>Ex. 30, 4</i>.<br><b>      2</b> diostre, instrument pour extraire le fer d’une plaie, <i>t. de chir</i>. P. ÉG. <i>352 Briau</i>.<p><b>Étym</b>. διωθέω.`

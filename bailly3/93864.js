@@ -1,1 +1,0 @@
-lar[93864]=`<b>συμ·βοάω-οῶ :<br>      1</b> crier avec : τινι, XÉN. <i>Cyr. 7, 5, 26,</i> avec qqn ; τὸ πολεμικόν, DC. <i>41, 58,</i> pousser ensemble le cri de guerre.<br><b>      2</b> appeler en même temps à grands cris, <i>acc</i>. XÉN. <i>An. 6, 3, 6</i>.`

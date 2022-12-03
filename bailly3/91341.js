@@ -1,1 +1,0 @@
-lar[91341]=`<b>ῶν (οἱ)</b> les Skyrmiades, <i>pple thrace,</i> HDT. <i>4, 93</i>.`

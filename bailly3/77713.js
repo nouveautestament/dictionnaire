@@ -1,1 +1,0 @@
-lar[77713]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> mal de mer, <i>au plur</i>. ALCIPHR. <i>2, 4</i>.<p><b>Étym</b>. πελαγίζω.`

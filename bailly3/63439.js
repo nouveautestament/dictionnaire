@@ -1,1 +1,0 @@
-lar[63439]=`<b>μεγαλο·σχήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui a grand air, magnifique, ESCHL. <i>Pr. 409</i>.<p><b>Étym</b>. μ. σχῆμα.`

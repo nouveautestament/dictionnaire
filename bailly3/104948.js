@@ -1,1 +1,0 @@
-lar[104948]=`<b>ου (ἡ)</b> <font color="purple">[σᾱ]</font> Pharsale (<i>auj</i>. ta Fársala, <i>anc</i>. Çatalca) <i>v. de Thessalie,</i> THC. <i>1, 111 ; 4, 78</i> ; XÉN. <i>Hell. 6, 4, 34, etc.</i> ; AR. <i>Vesp. 1271, etc</i>.`

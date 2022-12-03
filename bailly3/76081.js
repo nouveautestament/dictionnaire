@@ -1,1 +1,0 @@
-lar[76081]=`<b>παρα·πλήξ, ῆγος (ὁ, ἡ) :<br>      1</b> battu de côté par les flots, OD. <i>4, 418</i>.<br><b>      2</b> frappé de démence, HDT. <i>5, 92</i> ; HPC. <i>397, 18</i> ; XÉN. <i>Œc. 1, 13, etc</i>.<p><b>Étym</b>. παραπλήσσω.`

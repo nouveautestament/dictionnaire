@@ -1,1 +1,0 @@
-lar[85948]=`<b>προσ·κατακυκάω-ῶ</b> <font color="purple">[ῠ]</font> troubler en outre, HPC. <i>497, 17</i>.`

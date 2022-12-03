@@ -1,1 +1,0 @@
-lar[81397]=`<b>ποικιλό·θρονος, ος, ον</b> <font color="purple">[ῐ]</font> qui siège sur un trône de couleurs variées, SAPPH. <i>1, 1</i>.<p><b>Étym</b>. π. θρόνος.`

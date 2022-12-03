@@ -1,1 +1,0 @@
-lar[50958]=`<i>ou</i> <b>κάλλαϊς (ὁ)</b> turquoise, <i>pierre précieuse de couleur bleue,</i> PLIN. <i>H.N. 37, 10</i>.`

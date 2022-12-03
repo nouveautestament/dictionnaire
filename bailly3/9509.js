@@ -1,1 +1,0 @@
-lar[9509]=`<b>ἀντ·αποστέλλω</b> <font color="darkgreen">(<i>impf</i>. -απέστελλον)</font> renvoyer en échange, rapporter, POL. <i>22, 26, 22</i> ; PLUT. <i>M. 248c ;</i> LUC. <i>Dem. enc. 39, etc</i>.`

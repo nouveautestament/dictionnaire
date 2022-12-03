@@ -1,1 +1,0 @@
-lar[93250]=`<b>συγ·κακόω-ῶ</b> <font color="purple">[ᾰ]</font> blesser <i>ou</i> endommager ensemble, PROCL. <i>Ptol. p. 281 ; au pass</i>. HPC. <i>Mochl. 854</i>.`

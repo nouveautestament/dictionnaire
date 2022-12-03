@@ -1,1 +1,0 @@
-lar[33607]=`<b>ἐμπροσθό·τονος, ος, ον</b>, dont le corps se raidit en avant par un spasme, HPC. <i>491, 561</i> ; ARÉT. <i>Caus. m. acut. 1, 6</i>.<p><b>Étym</b>. ἔμπροσθε, τείνω.`

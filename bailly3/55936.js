@@ -1,1 +1,0 @@
-lar[55936]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> habitude de voler, <i>d’où</i> fourberie, OD. <i>19, 396</i> ; MAN. <i>6, 207</i>.<p><b>Étym</b>. κλέπτω.`

@@ -1,1 +1,0 @@
-lar[17315]=`<b>αὐτ·άγητος, ος, ον</b> <font color="purple">[ᾰ]</font> qui s’admire soi-même, suffisant, présomptueux, ANACR. <i>112</i> ; ION (HSCH.).<p><b>Étym</b>. αὐτός, ἄγαμαι.`

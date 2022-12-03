@@ -1,1 +1,0 @@
-lar[93691]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰῑ]</font> mûre, EUB. <i>3, 250 Meineke</i> ; PHILIPPID. (<i>Com. fr. 4, 473</i>) ; ARSTT. <i>Rhet. 3, 11, 15</i> ; SPT. <i>Amos 7, 14</i>.<p><b>Étym</b>. συκάμινος.`

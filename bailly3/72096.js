@@ -1,1 +1,0 @@
-lar[72096]=`<b>εως (ἡ)</b> <font color="purple">[ῠῡ]</font> irascibilité, ARTÉM. <i>4, 69</i>.<p><b>Étym</b>. ὀξυθυμέω.`

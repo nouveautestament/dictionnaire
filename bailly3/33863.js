@@ -1,1 +1,0 @@
-lar[33863]=`<b>ἐν·αμέλγω</b> <font color="purple">[ᾰ]</font> traire dans, OD. <i>9, 223</i>.`

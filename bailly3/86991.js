@@ -1,1 +1,0 @@
-lar[86991]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> pétri auparavant, HPC. <i>368, 11 ; 373, 52</i>.<p><b>Étym</b>. <i>ion. c</i>. *προφυρατός, <i>vb. de</i> προφυράω.`

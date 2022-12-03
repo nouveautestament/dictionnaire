@@ -1,1 +1,0 @@
-lar[52138]=`<b>εως (ἡ)</b> action d’affermir, de consolider, PLUT. <i>M. 1120d</i>.<p><b>Étym</b>. καταβεβαιόω.`

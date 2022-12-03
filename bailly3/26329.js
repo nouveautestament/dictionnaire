@@ -1,1 +1,0 @@
-lar[26329]=`<b>δι·ευτονέω-ῶ</b>, avoir une grande force, TH. <i>fr. 1, 7</i> ; POL. <i>4, 43, 8</i> ; JOS. <i>B.J. 5, 12, 3</i>.`

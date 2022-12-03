@@ -1,1 +1,0 @@
-lar[71870]=`<b>ας (ἡ)</b> <font color="purple">[ῐσ]</font> interprétation des songes, ARTÉM. <i>2, 25</i>.<p><b>Étym</b>. ὀνειροκρίτης.`

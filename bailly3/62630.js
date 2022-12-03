@@ -1,1 +1,0 @@
-lar[62630]=`<b>μαλακό·δερμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui a la peau tendre, ARSTT. <i>H.A. 1, 5, 5</i>.<p><b>Étym</b>. μ. δέρμα.`

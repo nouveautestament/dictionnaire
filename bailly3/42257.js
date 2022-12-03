@@ -1,1 +1,0 @@
-lar[42257]=`<b>εὐθυ·μετρέω-ῶ</b>, mesurer en longueur, JAMBL. <i>Nicom. ar. 37b</i>.`

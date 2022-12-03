@@ -1,1 +1,0 @@
-lar[104035]=`<b>ὑπό·τριτος, ος, ον</b> <font color="purple">[ῐ]</font> plus petit d’un tiers, M. CAP. <i>7, 252</i>.<p><b>Étym</b>. ὑ. τρίτος.`

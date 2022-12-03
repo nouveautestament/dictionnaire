@@ -1,1 +1,0 @@
-lar[32997]=`<b>ἐλ·λωβάομαι-ῶμαι</b>, faire un outrage, <i>avec</i> εἰς <i>et l’acc</i>. A. LIB. <i>11, 7</i>.<p><b>Étym</b>. ἐν, λ.`

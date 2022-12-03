@@ -1,1 +1,0 @@
-lar[59856]=`<font color="purple">[ᾰ]</font> se vanter, faire le fanfaron, SOPH. (EUST. <i>Od. p. 1761, 27</i>) ; CIC. <i>Att. 9, 13, 4</i>.`

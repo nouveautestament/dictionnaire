@@ -1,1 +1,0 @@
-lar[88136]=`<b>ῦος (ἡ)</b> <font color="purple">[ῡς]</font> affliction, infortune, ANTIM. <i>56 Kinkel</i> (πωρός, malheureux, HSCH. ; <i>cf</i>. ταλαίπωρος).`

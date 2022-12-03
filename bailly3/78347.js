@@ -1,1 +1,0 @@
-lar[78347]=`<b>περι·αγνίζω</b>, purifier tout autour, DH. <i>7, 92</i> ; PLUT. <i>M. 974c ;</i> LUC. <i>Nec. 7, etc</i>.`

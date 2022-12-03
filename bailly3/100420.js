@@ -1,1 +1,0 @@
-lar[100420]=`<b>τρισ·άγιος, ος, ον</b> <font color="purple">[ῐᾰ]</font> trois fois saint, ECCL.<p><b>Étym</b>. τρίς, ἅγιος.`

@@ -1,1 +1,0 @@
-lar[84163]=`<b>προ·ενοικέω-ῶ</b>, habiter auparavant <i>ou</i> habiter le premier qqe part, DS. <i>5, 84</i> ; PHIL. <i>2, 132</i>.`

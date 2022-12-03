@@ -1,1 +1,0 @@
-lar[74070]=`<b>ων (τὰ)</b> = <i>lat</i>. paganalia, <i>fête d’un village,</i> DH. <i>4, 15</i>.`

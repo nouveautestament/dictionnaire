@@ -1,1 +1,0 @@
-lar[84901]=`<b>προ·παρατάσσω</b>, <i>att</i>. <b>-τάττω</b>, ranger (une armée) en avant, DC. <i>49, 8</i>.`

@@ -1,1 +1,0 @@
-lar[14295]=`<b>ῶν (τὰ)</b> les Argonautiques, <i>titre de poèmes d’Apollonius de Rhodes et d’Orphée sur l’expédition des Argonautes</i>.<p><b>Étym</b>. Ἀργοναύτης.`

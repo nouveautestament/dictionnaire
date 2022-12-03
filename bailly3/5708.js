@@ -1,1 +1,0 @@
-lar[5708]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> Amnisos :<br><b>      1</b> <i>port de Crète (auj</i>. Karterós) OD. <i>19, 188</i>.<br><b>      2</b> <i>fl. de Crète (auj</i>. Amnisós) A.RH. <i>3, 876, etc</i>.`

@@ -1,1 +1,0 @@
-lar[71703]=`<b>ὁμό·στοργος, ος, ον</b>, qui chérit d’une égale tendresse, NONN. <i>D. 3, 391</i>.<p><b>Étym</b>. ὁμ. στέργω.`

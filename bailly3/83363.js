@@ -1,1 +1,0 @@
-lar[83363]=`<b>ας (ἡ)</b> bienveillance, bonté, EUR. <i>Or. 1323</i>.<p><b>Étym</b>. πρευμενής.`

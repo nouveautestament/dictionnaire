@@ -1,1 +1,0 @@
-lar[106084]=`<b>φιλο·σκύλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῐῠᾰκ]</font> qui aime les jeunes chiens, NONN. <i>D. 3, 74</i>.`

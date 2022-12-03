@@ -1,1 +1,0 @@
-lar[25826]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> transparence, PLAT. <i>Phæd. 110d</i>.<p><b>Étym</b>. διαφανής.`

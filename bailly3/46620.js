@@ -1,1 +1,0 @@
-lar[46620]=`<b>Θεό·γνωστος, ου (ὁ)</b> Théognôstos :<br><b>      1</b> <i>grammairien byzantin</i>.<br><b>      2</b> <i>autre,</i> ANTH. <i>9, 483</i>.<p><b>Étym</b>. <i>v</i>. θεόγνωστος.`

@@ -1,1 +1,0 @@
-lar[44905]=`<b>Ἠγερία, ας (ἡ)</b> <i>= lat</i>. Egeria, (la nymphe) Égérie, DH. <i>2, 60</i> ; PLUT. <i>Num. 4</i> ; Ἐγερία, PLUT. <i>Fort. Rom. 9</i>.`

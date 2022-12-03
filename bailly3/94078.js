@@ -1,1 +1,0 @@
-lar[94078]=`<b>α, ον</b>, <i>vb. de</i> συμπαραλαμβάνω ARSTT. <i>M. mor. 2, 11, 1 ; au neutre,</i> ARSTT. <i>Rhet. Al. 37, 4</i> ; PTOL. <i>Tetr. p. 79, 2</i>.`

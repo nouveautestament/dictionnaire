@@ -1,1 +1,0 @@
-lar[95422]=`<b>συν·εκτίνω</b> <font color="purple">[ῑ]</font> acquitter avec, payer une dette solidaire, PLAT. <i>Leg. 855b ;</i> DÉM. <i>1254, 27</i> ; PLUT. <i>Rom. 13</i>.`

@@ -1,1 +1,0 @@
-lar[35553]=`<b>Ἑξά·πολις</b>, <i>gén</i>. <b>-εως (ἡ)</b> <font color="purple">[ᾰ]</font> l’Hexapole (<i>litt</i>. pays à six villes) <i>contrée de Doride, en Asie Mineure,</i> HDT. <i>1, 144</i>.<p><b>Étym</b>. ἕξ, πόλις.`

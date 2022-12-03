@@ -1,1 +1,0 @@
-lar[91433]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> <i>dim. de</i> σμάραγδος, M. ANT. <i>4, 20</i>.`

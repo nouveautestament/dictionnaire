@@ -1,1 +1,0 @@
-lar[69681]=`<b>ξυλο·σπόγγιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> ξυλόσπογγος HIPPIATR.`

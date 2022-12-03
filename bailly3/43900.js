@@ -1,1 +1,0 @@
-lar[43900]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à l’envi, PLUT. <i>Cleom. 39</i> ; ARISTÉN. <i>1, 2, p. 9</i>.`

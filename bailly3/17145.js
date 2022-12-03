@@ -1,1 +1,0 @@
-lar[17145]=`<b>αὐθεντέω-ῶ</b> (<i>seul. prés. ao. et pf</i>.) avoir pleine autorité sur, <i>gén</i>. NT. <i>1Tim. 2, 12</i>.<p>➳ <i>Ao. inf</i>. -ῆσαι, BAS. <i>p. 825 ; pf. part</i>. αὐθεντηκώς, SCH.-ESCHL. <i>Eum. 42</i>.<p><b>Étym</b>. αὐθέντης.`

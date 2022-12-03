@@ -1,1 +1,0 @@
-lar[71932]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> ânon, AR. <i>Vesp. 1306</i>.<p><b>Étym</b>. ὄνος.`

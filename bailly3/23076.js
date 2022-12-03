@@ -1,1 +1,0 @@
-lar[23076]=`<font color="purple">[ῠ]</font> <i>adv</i>., en forme de doigt, comme un doigt, NYSS.<p><b>Étym</b>. <i>Koumanoudis v°</i> δακτυλοειδῶς.`

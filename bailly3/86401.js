@@ -1,1 +1,0 @@
-lar[86401]=`<b>προσ·σκώπτω</b>, railler encore <i>ou</i> en outre, ne cesser de railler, JOS. <i>A.J. 6, 9, 4 ; au pass</i>. DL. <i>2, 120</i>.`

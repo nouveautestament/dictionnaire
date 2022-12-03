@@ -1,1 +1,0 @@
-lar[38812]=`<b>ἐπι·προσγίγνομαι</b>, s’ajouter encore, DYSC. <i>Synt. 258</i>.`

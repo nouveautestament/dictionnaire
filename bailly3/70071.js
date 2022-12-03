@@ -1,1 +1,0 @@
-lar[70071]=`<b>α, ον</b>, d’Onkhèstos, <i>en Béotie,</i> PD. <i>I. 3, 33</i>.<p><b>Étym</b>. <i>v</i>. Ὀγχηστός.`

@@ -1,1 +1,0 @@
-lar[61876]=`<b>ου (τὸ) :<br>      1</b> nerprun des teinturiers, <i>arbrisseau de Lycie,</i> DIOSC. <i>1, 132</i>.<br><b>      2</b> fruit de cet arbre, <i>employé en médecine,</i> GAL. <i>13, 204</i>.<p><b>Étym</b>. Λύκιος.`

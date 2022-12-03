@@ -1,1 +1,0 @@
-lar[63462]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec une grandeur <i>ou</i> une noblesse naturelle, CLÉOM. <i>58, 12</i>.<p><b>Étym</b>. μεγαλοφυής.`

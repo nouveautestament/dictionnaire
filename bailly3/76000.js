@@ -1,1 +1,0 @@
-lar[76000]=`<b>ας (ἡ) :<br>      1</b> violation de la loi, DÉM. <i>808, 7 ; d’où</i> illégalité, méfait, THC. <i>4, 98</i> ; PLAT. <i>Rsp. 537e</i>, etc. ISOCR. <i>168c ;</i> DÉM. <i>808, 7</i> ; POL. <i>3, 6, 13, etc.</i><br><b>      2</b> violation des usages, des coutumes, singularité, THC. <i>6, 15, etc.</i> ; PLUT. <i>Alc. 6, 16</i>.<p><b>Étym</b>. παράνομος.`

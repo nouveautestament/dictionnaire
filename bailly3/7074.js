@@ -1,1 +1,0 @@
-lar[7074]=`<b>ἀν·αλδήσκω :<br>      1</b> croître, A.RH. <i>3, 1363</i>.<br><b>      2</b> croître de nouveau, OPP. <i>C. 2, 397</i>.<p><b>Étym</b>. ἀνά, ἀ.`

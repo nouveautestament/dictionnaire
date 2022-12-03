@@ -1,1 +1,0 @@
-lar[63094]=`<b>ος, ον</b> <font color="purple">[ῑγ]</font> qui mérite le fouet, LUC. <i>Her. 8</i>.<p><b>Étym</b>. μαστιγόω.`

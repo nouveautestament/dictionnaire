@@ -1,1 +1,0 @@
-lar[36597]=`<b>εως (ἡ)</b> action de se replier, retour, OCELL. <i>1, 15, p. 32</i>.<p><b>Étym</b>. ἐπανακάμπτω.`

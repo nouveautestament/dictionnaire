@@ -1,1 +1,0 @@
-lar[5889]=`<b>ἀμυγδαλο·ειδής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> en forme d’amande, DIOSC. <i>4, 165</i>.<p><b>Étym</b>. ἀ., εἶδος.`

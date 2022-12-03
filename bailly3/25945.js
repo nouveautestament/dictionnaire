@@ -1,1 +1,0 @@
-lar[25945]=`<b>ή, όν :<br>      1</b> qui passe facilement, digestif, ARÉT.<br><b>      2</b> laxatif, HPC. <i>392, 22, etc.</i> ; ARSTT. <i>Probl. 21, 12</i>.<p>•<i> Cp</i>. -ώτερος, HPC. ARSTT. <i>ll. cc. Sup</i>. -ώτατος, HPC. <i>544, 34</i>.<p><b>Étym</b>. διαχωρέω.`

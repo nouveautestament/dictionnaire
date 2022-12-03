@@ -1,1 +1,0 @@
-lar[77505]=`<b>παχύ·φρων, ων</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui a l’esprit épais, lourd, ARSTT. <i>Rhet. 59, 11 conj</i>.<p><b>Étym</b>. π. φρήν.`

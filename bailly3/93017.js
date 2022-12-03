@@ -1,1 +1,0 @@
-lar[93017]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> enroulement, EUR. <i>Andr. 719</i>.<p><b>Étym</b>. στρέφω.`

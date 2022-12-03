@@ -1,1 +1,0 @@
-lar[83762]=`<b>προ·βασιλεύω</b> <font color="purple">[ᾰῐ]</font> régner avant, DS. <i>1, 51</i>.`

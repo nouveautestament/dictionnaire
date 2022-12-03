@@ -1,1 +1,0 @@
-lar[80543]=`<b>(τὸ)</b> <i>seul. lat</i>. pitylisma, JUV. <i>11, 175</i>, bruit qu’on fait avec les lèvres en goûtant le vin, <i>mauv. leç. pour</i> pytisma = πύτισμα.<p><b>Étym</b>. πιτυλίζω.`

@@ -1,1 +1,0 @@
-lar[88231]=`<b>ή, όν :<br>      1</b> tortu, <i>particul</i>. cagneux, NIC. <i>Th. 801,</i> LYC. <i>262</i> ; τὸ ῥαιβόν, ARSTT. <i>Soph. el. 31, 3,</i> déformation de jambes cagneuses.<br><b>      2</b> tortueux, recourbé, <i>en parl. d’un dragon,</i> NIC. <i>Th. 917 ; de coquillages,</i> NIC. <i>Th. 238</i>.<p><b>Étym</b>. ῥαίω.`

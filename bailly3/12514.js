@@ -1,1 +1,0 @@
-lar[12514]=`<b>ἀπο·καταβαίνω</b>, descendre de cheval, DH. <i>9, 16</i>.`

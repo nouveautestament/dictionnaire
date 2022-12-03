@@ -1,1 +1,0 @@
-lar[56533]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de chef, de roi, OPP. <i>C. 3, 41</i>.<br><b>      2</b> dominateur, souverain, OPP. <i>C. 3, 47</i>.<p><b>Étym</b>. κοίρανος.`

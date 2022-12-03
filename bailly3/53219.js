@@ -1,1 +1,0 @@
-lar[53219]=`<b>κατα·ριγηλός, ή, όν</b> <font color="purple">[ῑ]</font> effrayant, horrible, odieux, OD. <i>14, 226</i>.<p><b>Étym</b>. κ. ῥιγέω.`

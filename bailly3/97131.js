@@ -1,1 +1,0 @@
-lar[97131]=`<b>Σώ·δαμος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Sôdamos, <i>h</i>. ANTH. <i>7, 494</i>.<p><b>Étym</b>. σῶς, δᾶμος.`

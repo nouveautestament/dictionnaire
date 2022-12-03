@@ -1,1 +1,0 @@
-lar[100582]=`<b>τρι·φάλεια, ας (ἡ)</b> <font color="purple">[ῐφᾰ]</font> casque surmonté de trois pointes brillantes, COL. <i>30, correct. p</i>. τρυφάλεια.<p><b>Étym</b>. τρ. φάλος.`

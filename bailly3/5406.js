@@ -1,1 +1,0 @@
-lar[5406]=`<b>ου (ὁ)</b> fils d’Ameinias, THC. <i>2, 67, etc</i>.`

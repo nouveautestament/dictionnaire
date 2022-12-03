@@ -1,1 +1,0 @@
-lar[45099]=`<i>adv.</i> :<br><b>      1</b> d’une manière conforme aux discours oratoires, ARSTT. <i>Rhet. 3, 17, 12</i>.<br><b>      2</b> d’une manière caractéristique <i>ou</i> significative, PLUT. <i>Brut. 51</i> ; ARISTÉN. <i>1, 24 et 27</i>.<p><b>Étym</b>. ἠθικός.`

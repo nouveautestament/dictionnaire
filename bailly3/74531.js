@@ -1,1 +1,0 @@
-lar[74531]=`<b>παλίμ·πλαγκτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui erre en revenant sur ses pas, errant, ESCHL. <i>Pr. 838</i>.<p><b>Étym</b>. <i>cf</i>. παλιμπλάζομαι.`

@@ -1,1 +1,0 @@
-lar[12831]=`<b>ἀ·πολυπράγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui ne se donne pas de peine, M. ANT. <i>1, 5</i>.`

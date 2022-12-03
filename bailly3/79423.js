@@ -1,1 +1,0 @@
-lar[79423]=`<b>περι·στροβέω</b>, faire tourner tout autour, HERM. (STOB. <i>Ecl. 1, 940</i>).`

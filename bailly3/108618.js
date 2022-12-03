@@ -1,1 +1,0 @@
-lar[108618]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f.</i> :<br><b>      1</b> verdâtre, NIC. <i>Th. 88</i>.<br><b>      2</b> jaunâtre, <i>ou sel. d’autres,</i> qui chante dans la verdure, <i>en parl. du rossignol,</i> OD. <i>19, 518</i>.<p><b>Étym</b>. χλωρός.`

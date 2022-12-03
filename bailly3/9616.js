@@ -1,1 +1,0 @@
-lar[9616]=`<b>ατος (τὸ)</b> latitude australe correspondant à une latitude boréale, THEOL. <i>25</i>.<p><b>Étym</b>. ἀντεξαίρω.`

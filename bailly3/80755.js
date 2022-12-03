@@ -1,1 +1,0 @@
-lar[80755]=`<b>πλατυ·κύμινον, ου (τὸ)</b> <font color="purple">[ᾰῠῠῑ]</font> <i>sorte de cumin, plante,</i> DIOSC. <i>Par. 2, 111</i>.`

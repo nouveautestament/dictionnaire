@@ -1,1 +1,0 @@
-lar[40023]=`<b>ἑπτα·τάλαντος, ος, ον</b> <font color="purple">[ᾰᾰλ]</font> de sept talents, THÉM. <i>Or. 23, 284b</i>.<p><b>Étym</b>. ἑ, τάλαντον.`

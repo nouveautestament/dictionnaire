@@ -1,1 +1,0 @@
-lar[56480]=`<b>κοινό·λεκτος, ος, ον</b>, exprimé en langue vulgaire <i>ou</i> courante, SCH.-ESCHL. <i>Sept. 885</i>.<p><b>Étym</b>. κοινός, λεκτός.`

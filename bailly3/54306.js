@@ -1,1 +1,0 @@
-lar[54306]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> brûlant, <i>en parl. du Notus,</i> ARSTT. <i>Meteor. 2, 6 ; d’une route,</i> DS. <i>19, 18 ; du corps,</i> HPC. <i>337, 22 ; de déjections,</i> HPC. <i>222d</i>.<p><b>Étym</b>. καῦμα, -ωδης.`

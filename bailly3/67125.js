@@ -1,1 +1,0 @@
-lar[67125]=`<b>μυλη·βόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui dévore la meule, <i>càd</i>. le grain sous la meule, NIC. (SCH.-IL. <i>8, 178).</i><p><b>Étym</b>. μύλη, βιβρώσκω.`

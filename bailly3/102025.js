@@ -1,1 +1,0 @@
-lar[102025]=`<b>ῆρος</b> <font color="purple">[ῠ]</font> <i>adj. m.</i> : ὄχλος, ESCHL. <i>Suppl. 182,</i> troupe couverte de boucliers.<p><b>Étym</b>. <i>cf</i>. ὑπασπιστής.`

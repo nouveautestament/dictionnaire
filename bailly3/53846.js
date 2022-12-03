@@ -1,1 +1,0 @@
-lar[53846]=`<b>κατ·ειρωνεύομαι</b>, parler à qqn ironiquement, <i>d’où</i> se jouer de (soit pour tromper, soit pour railler) : τινος, PLUT. <i>M. 211d</i>, qqn ; <i>avec un acc. de chose</i> : τι, PLUT. <i>Dem. c. Cic. 1,</i> traiter qqe ch. légèrement et en se moquant.`

@@ -1,1 +1,0 @@
-lar[102872]=`<b>ὑπερ·φιλοσοφέω-ῶ</b> <font color="purple">[ῐ]</font> philosopher outre mesure, HPC. <i>1279, 38</i>.`

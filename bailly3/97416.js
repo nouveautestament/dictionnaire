@@ -1,1 +1,0 @@
-lar[97416]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> lamentation, CHRYS. <i>Hom. 18</i>.<p><b>Étym</b>. ταλανίζω.`

@@ -1,1 +1,0 @@
-lar[35778]=`<b>ἐξ·εμέω-ῶ</b>, <i>f</i>. έσω, rejeter en vomissant, vomir, OD. <i>12, 237 et 437</i> ; HÉS. <i>Th. 497</i> ; PLAT. <i>Rsp. 406d ; abs</i>. AR. <i>Ach. 586, Ran. 11 ; fig</i>. vomir (de l’argent volé), rendre gorge, <i>acc</i>. AR. <i>Ach. 6</i>.`

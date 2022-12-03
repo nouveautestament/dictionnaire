@@ -1,1 +1,0 @@
-lar[84953]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. προπηλάκισις HDT. <i>6, 73</i> ; DÉM. <i>229, 9</i> ; ESCHN. <i>90, 22 ; au pl</i>. PLAT. <i>Leg. 855b, etc</i>.`

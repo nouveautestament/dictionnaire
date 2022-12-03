@@ -1,1 +1,0 @@
-lar[59117]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> lamentation, <i>au plur</i>. ESCHL. <i>Pers. 332, 427</i> ; SOPH. <i>Aj. 321, etc</i>.<p><b>Étym</b>. κωκύω.`

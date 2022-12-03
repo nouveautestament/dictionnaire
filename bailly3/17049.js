@@ -1,1 +1,0 @@
-lar[17049]=`<b>(ὁ)</b> <font color="purple">[ᾰᾰ]</font> le fils d’Atymnios, IL. <i>5, 581</i>.<p><b>Étym</b>. <i>v</i>. Ἀτύμνιος.`

@@ -1,1 +1,0 @@
-lar[45123]=`<b>όεσσα, όεν</b>, aux rives escarpées, IL. <i>5, 36</i>.<p><b>Étym</b>. ἠϊών.`

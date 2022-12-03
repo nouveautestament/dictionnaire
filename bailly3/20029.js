@@ -1,1 +1,0 @@
-lar[20029]=`<b>ας (ἡ)</b> Boèdria, <i>lieu de Béotie,</i> TH. <i>H.P. 4, 11, 9</i>.`

@@ -1,1 +1,0 @@
-lar[86774]=`<b>προ·τήθυς, υος (ἡ)</b> <font color="purple">[ῡς]</font> vieille femme, <i>litt</i>. « d’avant Téthys », CRAT. <i>(Bkk. p. 59, 25).</i><p><b>Étym</b>. π. Τηθύς.`

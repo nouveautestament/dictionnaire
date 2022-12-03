@@ -1,1 +1,0 @@
-lar[90172]=`<b>σιδηρο·τόκος, ος, ον</b> <font color="purple">[ῐ]</font> qui produit du fer, ANTH. <i>9, 561</i>.<p><b>Étym</b>. σ. τίκτω.`

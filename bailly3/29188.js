@@ -1,1 +1,0 @@
-lar[29188]=`<b>δωροξενίας γραφή</b>, LYS. <i>et</i> HYPÉR. (HARP.) action contre un étranger, accusé d’avoir corrompu les magistrats pour se faire inscrire comme citoyen.<p><b>Étym</b>. δῶρον, ξένος.`

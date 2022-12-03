@@ -1,1 +1,0 @@
-lar[11663]=`<b>ἀπελεθερία, ας (ἡ)</b> affranchissement, ESCHN. <i>3, 41</i>.<p>➳ <i>Ion</i>. -ίη, MAN. <i>4, 600</i>.<p><b>Étym</b>. ἀπελεύθερος.`

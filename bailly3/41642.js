@@ -1,1 +1,0 @@
-lar[41642]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> propitiatoire, DH. <i>1, 67</i>.`

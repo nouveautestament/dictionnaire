@@ -1,1 +1,0 @@
-lar[47650]=`<font color="purple">[ᾰ]</font> <i>invar</i>. onomatopée pour imiter le son de la lyre, AR. <i>Pl. 290</i> (<i>cf. notre</i> tralala tradéridéra).`

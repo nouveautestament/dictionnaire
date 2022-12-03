@@ -1,1 +1,0 @@
-lar[15427]=`<b>ἀρτο·σιτέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> manger du pain de froment (<i>p. opp. à</i> ἀλφιτοσιτέω) XÉN. <i>Cyr. 6, 2, 28</i>.<br><b>      2</b> manger du pain (<i>p. opp. à</i> ὀψοφαγέω) PLAT. COM. <i>2-2, 672, 7 Mein.</i> ; HPC. <i>228, 40 ; 366, 47</i>.<p><b>Étym</b>. ἄρτος, σῖτος.`

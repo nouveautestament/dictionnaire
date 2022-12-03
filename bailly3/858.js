@@ -1,1 +1,0 @@
-lar[858]=`<b>ων (οἱ)</b> les Agræes, <i>pple étolien,</i> THC. <i>2, 102 ; 3, 106</i>.`

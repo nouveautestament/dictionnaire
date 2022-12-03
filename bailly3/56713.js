@@ -1,1 +1,0 @@
-lar[56713]=`<b>εως (ἡ)</b> action de tronquer, de mutiler, JAMBL. <i>Protr. p. 368</i>.<p><b>Étym</b>. κόλουρος.`

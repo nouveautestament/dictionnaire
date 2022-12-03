@@ -1,1 +1,0 @@
-lar[37412]=`<b>ἐπι·βώμιος, ος, ον</b>, placé sur l’autel, ESCHL. <i>fr. 22a ;</i> EUR. <i>Andr. 1024</i> ; A.RH. <i>4, 1129 ; subst</i>. τὰ ἐπιβώμια, sacrifices, offrandes, THCR. <i>Idyl. 16, 26</i>.<p><b>Étym</b>. ἐπί, βωμός.`

@@ -1,1 +1,0 @@
-lar[73884]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> courroie servant de poignée au bouclier, HDT. <i>1, 171 ; 2, 141</i> ; LUC. <i>Her. 5, Anach. 27</i>.<p><b>Étym</b>. ἔχω.`

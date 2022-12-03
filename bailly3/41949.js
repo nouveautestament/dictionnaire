@@ -1,1 +1,0 @@
-lar[41949]=`<b>εὔ·εικτος, ος, ον</b>, qui cède facilement, docile, A. APHR. <i>Probl. 2, 23</i> ; DC. <i>69, 20</i>.<p>•<i> Cp</i>. -ότερος, SCH.-ORIB. <i>p. 121 Mai</i>.<p><b>Étym</b>. εὖ, εἴκω.`

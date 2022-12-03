@@ -1,1 +1,0 @@
-lar[81729]=`<b>*πολύ·αρς</b>, <i>seul. dat</i>. πολύαρνι, riche en troupeaux, IL. <i>2, 106</i>.<p><b>Étym</b>. πολύρρην.`

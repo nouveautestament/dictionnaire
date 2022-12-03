@@ -1,1 +1,0 @@
-lar[71550]=`<b>ὁμοιό·στομος, ος, ον</b>, qui présente un front semblable, EL. TACT. <i>c. 42</i>.<p><b>Étym</b>. ὅμ. στόμα.`

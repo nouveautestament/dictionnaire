@@ -1,1 +1,0 @@
-lar[28061]=`<i>adv</i>., au duel, GRAMM.`

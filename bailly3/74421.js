@@ -1,1 +1,0 @@
-lar[74421]=`<b>παλαιο·λογέω-ῶ</b> <font color="purple">[ᾰ]</font> parler de choses anciennes, APP. <i>Iber. 2</i>.<p><b>Étym</b>. π. λόγος.`

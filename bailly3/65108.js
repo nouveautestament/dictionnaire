@@ -1,1 +1,0 @@
-lar[65108]=`<b>μετ·εξαντλέω-ῶ</b>, puiser pour transvaser, CALLIX. (ATH. <i>204a</i>).`

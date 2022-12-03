@@ -1,1 +1,0 @@
-lar[102586]=`<b>ὑπερ·καταγέλαστος, ος, ον</b>, extrêmement ridicule, ESCHN. <i>81, 29</i> ; PLUT. <i>M. 4a</i>.`

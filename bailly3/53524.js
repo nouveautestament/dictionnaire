@@ -1,1 +1,0 @@
-lar[53524]=`<b>κατ·ασχολέομαι-οῦμαι</b>, être fort occupé, PÉRICT. (STOB. <i>Fl. 1, 63</i>) ; PLUT. <i>M. 874e</i>.`

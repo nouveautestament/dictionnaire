@@ -1,1 +1,0 @@
-lar[55089]=`<font color="purple">[ᾰ]</font> <i>adv</i>., κ. κολάζεσθαι, HDN <i>2, 13, 18,</i> être puni de la peine capitale.`

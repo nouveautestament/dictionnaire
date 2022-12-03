@@ -1,1 +1,0 @@
-lar[64]=`<b>ἀ·βάστακτος, ος, ον</b>, intolérable, PLUT. <i>Ant. 16</i> ; ARR. <i>Epict. 1, 9, 11</i>.<p><b>Étym</b>. ἀ, βαστάζω.`

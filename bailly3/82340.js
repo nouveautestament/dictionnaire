@@ -1,1 +1,0 @@
-lar[82340]=`<b>πολυ·ρροίβδητος, ος, ον</b>, que l’on tire avec grand bruit, ANTH. <i>6, 160</i>.<p><b>Étym</b>. π. ῥοιβδέω.`

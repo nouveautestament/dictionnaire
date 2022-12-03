@@ -1,1 +1,0 @@
-lar[70575]=`<b>οἰνο·τόκος, ος, ον</b>, qui produit du vin, NONN. <i>D. 7, 89, etc</i>.<p><b>Étym</b>. οἶν. τίκτω.`

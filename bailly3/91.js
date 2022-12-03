@@ -1,1 +1,0 @@
-lar[91]=`<b>ου (τὸ)</b>, Ἀβεντῖνος λόφος (ὁ), Ἀβεντῖνον ὄρος (τὸ) = <i>lat</i>. Aventinus, le mont Aventin, <i>à Rome,</i> STR. <i>180, 234</i> ; PLUT. <i>Rom. 9, Num. 15</i>.`

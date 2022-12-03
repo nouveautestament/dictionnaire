@@ -1,1 +1,0 @@
-lar[35655]=`<b>ἐξ·αυλέω-ῶ</b> (<i>part. pf. pass</i>. ἐξηυλημένος) fausser une flûte, <i>d’où</i> étourdir en jouant de la flûte, SYN. <i>62b</i>.`

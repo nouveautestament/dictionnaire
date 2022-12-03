@@ -1,1 +1,0 @@
-lar[100621]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐχ]</font> fente de la finesse d’un cheveu, qui se produit dans les os, P. ÉG. <i>6, 9</i>.<p><b>Étym</b>. θρίξ.`

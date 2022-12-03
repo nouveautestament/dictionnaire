@@ -1,1 +1,0 @@
-lar[5346]=`<b>ας (ἡ)</b> faiblesse de la vue, PLAT. <i>Hipp. mi. 374d ;</i> PLUT. <i>M. 732c, etc. ; au plur</i>. HPC. <i>Aph. 3, 31, etc</i>.<p><b>Étym</b>. ἀμβλυωπός.`

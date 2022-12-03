@@ -1,1 +1,0 @@
-lar[10443]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> manœuvre <i>ou</i> stratagème de l’ennemi, HÉRON <i>Aut. 326</i>.<p><b>Étym</b>. ἀντιστρατηγέω.`

@@ -1,1 +1,0 @@
-lar[94711]=`<b>συν·ανακεφαλαιόω-ῶ</b> <font color="purple">[φᾰ]</font> récapituler d’une manière générale, DH. <i>Thuc. 12</i>.`

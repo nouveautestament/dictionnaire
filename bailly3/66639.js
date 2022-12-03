@@ -1,1 +1,0 @@
-lar[66639]=`<b>μονο·στροφικός, ή, όν</b>, qui se compose d’une seule strophe, HÉPH. <i>Poem. 3, 2, etc</i>.<p><b>Étym</b>. μονόστροφος.`

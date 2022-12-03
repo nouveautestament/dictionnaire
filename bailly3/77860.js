@@ -1,1 +1,0 @@
-lar[77860]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. πελωρίς, NIC. <i>et</i> ARCHESTR. (ATH. <i>93d et e</i>), <i>etc</i>.`

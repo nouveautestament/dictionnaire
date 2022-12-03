@@ -1,1 +1,0 @@
-lar[22882]=`<b>οῦ (ὁ)</b> antre, repaire, ARSTT. <i>H.A. 8, 20, 4</i>.`

@@ -1,1 +1,0 @@
-lar[24611]=`<b>δια·ζηλεύομαι</b> (<i>seul. part. prés</i>.) être rival, rivaliser, HPC. <i>28, 25, dout</i>.`

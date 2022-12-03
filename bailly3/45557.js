@@ -1,1 +1,0 @@
-lar[45557]=`<b>ἡμισο·αγκωνο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> en forme d’avant-bras, BITON <i>p. 58 Wescher, Poliorcétique des Grecs</i>.<p><b>Étym</b>. ἥμισυς, ἀγκών, εἶδος.`

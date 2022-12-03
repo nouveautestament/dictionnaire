@@ -1,1 +1,0 @@
-lar[76494]=`<b>παρά·ψογος, ου (ὁ)</b> reproche indirect <i>ou</i> fait en passant, <i>mot employé par le sophiste Événos et blâmé par</i> PLAT. <i>Phædr. 267a</i>.<p><b>Étym</b>. π. ψόγος.`

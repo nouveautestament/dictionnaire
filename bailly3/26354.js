@@ -1,1 +1,0 @@
-lar[26354]=`<b>ατος (τὸ)</b> récit, POL. <i>1, 14, 6 ; 4, 39, 11</i> ; SPT. <i>Deut. 28, 37 ; etc. ; blâmé par</i> HDN GR. <i>Philet. p. 430 Pierson</i>.<p><b>Étym</b>. διηγέομαι.`

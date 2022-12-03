@@ -1,1 +1,0 @@
-lar[6430]=`<b>ἀμφι·χανής, ής, ές</b> <font color="purple">[χᾰ]</font> béant autour, ABYD. (EUS. <i>P.E. 9, 2).</i><p><b>Étym</b>. ἀ. χαίνω.`

@@ -1,1 +1,0 @@
-lar[22690]=`<b>γρυπόω-ῶ</b> <font color="purple">[ῡ]</font> rendre crochu, recourber, <i>d’où, au pass</i>. devenir crochu, se recourber, HPC. <i>42, 32</i> ; A. APHR. <i>Probl. 2, 18</i>.<p><b>Étym</b>. γρυπός.`

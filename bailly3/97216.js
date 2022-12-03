@@ -1,1 +1,0 @@
-lar[97216]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> Sôranos, <i>médecin grec</i>.<br><b>      2</b> = <i>lat</i>. Soranus, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 7</i>.`

@@ -1,1 +1,0 @@
-lar[18997]=`<b>(ὁ)</b> Balliôn, <i>h</i>. AXION. (ATH. <i>166c</i>).`

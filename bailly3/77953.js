@@ -1,1 +1,0 @@
-lar[77953]=`<b>πεντά·γαμβρος, ος, ον</b> <font color="purple">[τᾰ]</font> qui a cinq gendres, LYC. <i>146</i>.<p><b>Étym</b>. π. γαμβρός.`

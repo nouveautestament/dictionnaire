@@ -1,1 +1,0 @@
-lar[26340]=`<b>δι·έψω</b>, cuire tout à fait à point, HPC. <i>283, 20</i> ; A. TR. <i>8, 438</i>.`

@@ -1,1 +1,0 @@
-lar[84744]=`<b>ας (ἡ)</b> entremetteuse, AR. <i>Nub. 41, etc. ; en b. part,</i> PLAT. <i>Theæt. 149d ; fig</i>. EUR. <i>Hipp. 589</i>.<p><b>Étym</b>. προμνάομαι.`

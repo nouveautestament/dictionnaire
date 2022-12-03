@@ -1,1 +1,0 @@
-lar[80477]=`<b>Πίστιος Ζεύς (ὁ)</b> = <i>lat</i>. Jupiter Fidius, Jupiter protecteur de la foi jurée, DH. <i>4, 58</i>.<p><b>Étym</b>. πιστός¹.`

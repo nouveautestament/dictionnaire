@@ -1,1 +1,0 @@
-lar[7798]=`se détourner pour échapper, HERM. <i>Iatr. 394, 9</i>.<p><b>Étym</b>. ἀνατροπή.`

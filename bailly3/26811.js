@@ -1,1 +1,0 @@
-lar[26811]=`<b>Διονυσό·δοτος, ου (ὁ)</b> <font color="purple">[ῐῡ]</font> Dionysodotos, <i>poète lacédémonien,</i> ATH. <i>678c</i>.<p><b>Étym</b>. Διόνυσος, δοτός.`

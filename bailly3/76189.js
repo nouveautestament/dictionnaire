@@ -1,1 +1,0 @@
-lar[76189]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> lieu où se rassemblaient les παράσιτοι CRATÈS GRAMM. (ATH. <i>235d</i>).<p><b>Étym</b>. παράσιτος.`

@@ -1,1 +1,0 @@
-lar[9893]=`<i>adv</i>., par antithèse, PLUT. <i>M. 1022d ;</i> D. PHAL. <i>24</i>.`

@@ -1,1 +1,0 @@
-lar[105777]=`<b>φιλο·ζέφυρος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime le zéphyr, ANTH. <i>10, 16 ; 12, 195</i>.`

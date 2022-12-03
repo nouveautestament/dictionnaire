@@ -1,1 +1,0 @@
-lar[2813]=`<i>adv</i>., en choisissant bien, DL. <i>7, 126</i>.`

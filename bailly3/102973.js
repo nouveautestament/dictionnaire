@@ -1,1 +1,0 @@
-lar[102973]=`<b>ὑπ·ίλλω</b> (<i>seul. prés. 3 pl</i>. ὑπίλλουσι, <i>part. ao. fém</i>. ὑπίλασα, <i>et ao. pass</i>. ὑπιλλήθην) rouler en dessous : οὐράν, EUR. <i>fr. 544 (part. ao</i>.) sa queue ; στόμα, SOPH. <i>Ant. 509 (prés</i>.) replier, <i>càd</i>. fermer la bouche ; <i>au pass</i>. HPC. (GAL.).`

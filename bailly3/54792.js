@@ -1,1 +1,0 @@
-lar[54792]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> art du potier, PLAT. <i>Prot. 324e, Gorg. 514e ;</i> ERATOSTH. (ATH. <i>482b</i>).<p><b>Étym</b>. κεραμεύς.`

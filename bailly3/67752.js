@@ -1,1 +1,0 @@
-lar[67752]=`<b>ου (τὸ)</b> lieu de mouillage pour un navire en observation, AR. <i>fr. 69 Dind</i>.<p><b>Étym</b>. ναύλοχος.`

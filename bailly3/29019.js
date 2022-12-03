@@ -1,1 +1,0 @@
-lar[29019]=`<b>δυσ·χλαινία, ας (ἡ)</b> mauvais manteau, guenille, haillons, EUR. <i>Hec. 240 ; au plur</i>. EUR. <i>Hel. 416</i>.<p><b>Étym</b>. δ. χλαῖνα.`

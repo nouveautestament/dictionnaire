@@ -1,1 +1,0 @@
-lar[62248]=`<b>(τὸ)</b> sorte d’épice, M. RUBR. <i>42</i>.`

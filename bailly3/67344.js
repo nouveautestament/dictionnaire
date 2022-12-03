@@ -1,1 +1,0 @@
-lar[67344]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῐ]</font> bois de myrtes, AR. <i>Ran. 156</i> ; PHILSTR. <i>Im. p. 810</i>.<p><b>Étym</b>. μυρρίνη.`

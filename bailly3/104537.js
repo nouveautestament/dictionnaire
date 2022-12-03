@@ -1,1 +1,0 @@
-lar[104537]=`<b>ὑψιτενέω-ῶ</b> <font color="purple">[ῐ]</font> tendre vers les hauteurs, THÉOCTIST. (STOB. <i>Fl. vol. 4, p. 142, l. 15 Mein</i>.).<p><b>Étym</b>. ὑψιτενής.`

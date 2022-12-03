@@ -1,1 +1,0 @@
-lar[19017]=`<b>ης (ἡ)</b> Bambykè, <i>v. de Syrie,</i> PLUT. <i>Ant. 37</i> ; EL. <i>etc</i>.`

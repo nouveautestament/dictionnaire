@@ -1,1 +1,0 @@
-lar[105902]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec une humeur agressive <i>ou</i> satirique, PHILSTR. <i>587</i>.`

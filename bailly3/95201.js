@@ -1,1 +1,0 @@
-lar[95201]=`<b>συν·διπλόω-ῶ</b>, doubler en même temps, GAL. <i>Lex. Hipp. 19, 143</i>.`

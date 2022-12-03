@@ -1,1 +1,0 @@
-lar[67351]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῐ]</font> bois <i>ou</i> plantation de myrtes, AQU. <i>et</i> SYMM. <i>Zach. 1, 8</i>.<p><b>Étym</b>. μυρσίνη.`

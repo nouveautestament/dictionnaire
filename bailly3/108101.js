@@ -1,1 +1,0 @@
-lar[108101]=`<b>χειρ·εκμαγεῖον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> essuie-mains, serviette, APOLL. PAR. <i>Hist. mir. 36</i>.<p><b>Étym</b>. χ. ἐκμάσσω.`

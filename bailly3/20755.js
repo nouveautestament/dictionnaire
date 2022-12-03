@@ -1,1 +1,0 @@
-lar[20755]=`<i>ou</i> <b>βρένθιον, ου (τὸ)</b> sorte de parfum précieux, PHÉRÉCR. (ATH. <i>690e</i>) ; CLÉM. <i>Pæd. 2, 64</i>.<p>➳ <i>Éol</i>. βρενθέϊον, SAPPH. (ATH. <i>690e</i>).`

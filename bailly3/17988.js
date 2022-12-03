@@ -1,1 +1,0 @@
-lar[17988]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀφέτης, JAMBL. <i>Protr. 160</i>.`

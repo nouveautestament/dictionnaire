@@ -1,1 +1,0 @@
-lar[16672]=`<b>ου (ἡ)</b> <font color="purple">[ᾰᾰ]</font> sorte de prunier, NIC. <i>Al. 108</i>.`

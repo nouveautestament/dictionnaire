@@ -1,1 +1,0 @@
-lar[60076]=`<b>ης (ἡ)</b> Lébæè, <i>anc. capitale de la Macédoine,</i> HDT. <i>8, 137</i>.`

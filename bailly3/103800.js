@@ -1,1 +1,0 @@
-lar[103800]=`<b>ὑπο·σαλεύω</b> <font color="purple">[ᾰ]</font> agiter un peu, APP. <i>Civ. 2, 143</i>.`

@@ -1,1 +1,0 @@
-lar[80288]=`<b>πικρόω-ῶ</b>, rendre amer, <i>d’où au pass</i>. devenir <i>ou</i> être amer, A. APHR. <i>Probl. 2, 70</i>.<p><b>Étym</b>. πικρός.`

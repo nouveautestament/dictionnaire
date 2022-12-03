@@ -1,1 +1,0 @@
-lar[18008]=`<b>ἀφ·ηβάω-ῶ</b>, <i>f</i>. ήσω, avoir passé l’âge de l’adolescence, LIB. <i>4, 309 ; fig. en parl. des passions,</i> PHIL. <i>1, 516</i>.<p><b>Étym</b>. ἀπό, ἡβάω.`

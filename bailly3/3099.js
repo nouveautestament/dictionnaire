@@ -1,1 +1,0 @@
-lar[3099]=`<b>ἀκαμπτό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, aux pieds <i>ou</i> aux jambes qui ne plient pas, <i>càd</i>. fermes <i>ou</i> raides, NONN. <i>D. 15, 148</i>.<p><b>Étym</b>. ἄκ. πούς.`

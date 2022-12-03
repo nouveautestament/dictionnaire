@@ -1,1 +1,0 @@
-lar[92663]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> <i>contr. de</i> στιχαοιδός, MÉNÆCHM. (SCH.-PD. <i>N. 2, 1</i>).`

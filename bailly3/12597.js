@@ -1,1 +1,0 @@
-lar[12597]=`<b>εως (ἡ) :<br>      1</b> tirage au sort, lot, DC. <i>39, 7, 4 ; d’où</i> lot assigné par le sort, PLUT. <i>M. 1045f.</i><br><b>      2</b> <i>p. suite,</i> caprice, étrangeté : τίς ἡ ἀποκλήρωσις ; <i>avec l’inf</i>. CLÉM. <i>122</i> ; ORIG. <i>799a, etc</i>. qu’y a-t-il d’étrange à… ?<p><b>Étym</b>. ἀποκληρόω.`

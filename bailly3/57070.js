@@ -1,1 +1,0 @@
-lar[57070]=`<b>ής, ές</b>, travaillé à Corinthe, <i>ou</i> en airain de Corinthe, ATH. <i>199e, etc</i>.<p><b>Étym</b>. Κορίνθιος, ἔργον.`

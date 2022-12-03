@@ -1,1 +1,0 @@
-lar[16211]=`<b>ή, όν</b>, garni d’ajustements <i>ou</i> d’ornements en forme d’étoiles, JUL. <i>Or. 5, 165b</i>.<p><b>Étym</b>. ἀστερόω.`

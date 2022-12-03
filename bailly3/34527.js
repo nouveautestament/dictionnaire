@@ -1,1 +1,0 @@
-lar[34527]=`<i>adv</i>., conformément aux lois, légalement, SYN. <i>Ep. 67, 1413c Migne</i>.`

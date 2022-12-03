@@ -1,1 +1,0 @@
-lar[51679]=`<b>ης (ἡ)</b> <font color="purple">[κᾰ]</font> = <i>lat</i>. Capua, Capoue, <i>v. de Campanie,</i> PLUT. <i>Fab. 17, etc</i>.`

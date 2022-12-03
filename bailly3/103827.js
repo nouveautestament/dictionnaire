@@ -1,1 +1,0 @@
-lar[103827]=`<b>ὑπο·σκαφισμός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> vannage du blé, PLUT. <i>M. 693d</i>.<p><b>Étym</b>. ὑ. σκαφίς.`

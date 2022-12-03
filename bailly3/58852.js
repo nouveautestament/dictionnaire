@@ -1,1 +1,0 @@
-lar[58852]=`<b>κυνό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> impudent comme un chien, ESCHL. <i>Ch. 622</i>.<p><b>Étym</b>. κ. φρήν.`

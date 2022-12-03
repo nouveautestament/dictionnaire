@@ -1,1 +1,0 @@
-lar[62543]=`<b>μακρο·ποιέω-ῶ</b>, rendre long, allonger, ARSTT. <i>Metaph. 13, 3, 10</i>.<p><b>Étym</b>. μ. π.`

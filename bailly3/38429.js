@@ -1,1 +1,0 @@
-lar[38429]=`<b>ἐπι·μήκης, ης, ες</b>, un peu long, oblong, allongé, DÉMOCR. (SEXT. <i>M. 1, 117</i>) ; PLUT. <i>M. 902d</i>.<p>•<i> Cp</i>. -έστερος, LUC. <i>D. deor. 10, 1</i> ; DIOSC. <i>1, 6</i> ; HDN <i>1, 1, 6, etc. • Sup</i>. -έστατος, HDN <i>8, 1, ou irrégul</i>. ἐπιμήκιστος, PHIL. <i>1, 291</i>.<p><b>Étym</b>. ἐπί, μῆκος.`

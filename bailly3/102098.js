@@ -1,1 +1,0 @@
-lar[102098]=`<b>ὑπ·εισέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> ὑπεισῆλθον)</font> s’introduire tout doucement, se glisser furtivement <i>ou</i> peu à peu dans, <i>fig. dat</i>. PLAT. <i>Ax. 367b ; acc</i>. LUC. <i>M. cond. 11, etc</i>.`

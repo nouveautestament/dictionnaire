@@ -1,1 +1,0 @@
-lar[98125]=`<b>ας (ἡ)</b> enfantement à terme, production en parfaite maturité, ARSTT. <i>G.A. 2, 8, 17</i>.<p><b>Étym</b>. τελειογόνος.`

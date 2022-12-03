@@ -1,1 +1,0 @@
-lar[73799]=`(<i>seul. prés</i>.) balayer, <i>acc</i>. HIPPON. <i>fr. 51</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₃b<sup>h</sup>el-, balayer.`

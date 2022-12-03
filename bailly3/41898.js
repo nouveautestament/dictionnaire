@@ -1,1 +1,0 @@
-lar[41898]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> <i>c</i>. εὐδιεινός, ORPH. <i>H. 21, 5</i> ; STR. <i>6, 3, 9 Kram</i>.`

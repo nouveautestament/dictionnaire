@@ -1,1 +1,0 @@
-lar[51154]=`<b>καλλι·λεκτέω-ῶ</b> <font color="purple">[ῐ]</font> parler agréablement, SEXT. <i>300</i> ; DL. <i>5, 66</i>.<p><b>Étym</b>. κ. λεκτός.`

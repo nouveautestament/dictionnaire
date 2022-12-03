@@ -1,1 +1,0 @@
-lar[87080]=`<i>adv.</i> :<br><b>      1</b> du côté de la poupe, IL. <i>15, 716</i> ; ESCHL. <i>Sept. 209</i> ; EUR. <i>I.T. 1349</i> ; LUC. <i>Lex. 15</i>.<br><b>      2</b> <i>p. anal</i>. par derrière, ERINN. (ATH. <i>283d</i>).<p>➳ <i>Dor</i>. πρύμναθεν <font color="purple">[ᾱ]</font> ERINN. <i>l. c</i>.<p><b>Étym</b>. πρύμνη, -θεν.`

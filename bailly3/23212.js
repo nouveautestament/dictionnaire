@@ -1,1 +1,0 @@
-lar[23212]=`<font color="purple">[ᾰ]</font> <i>forme réc. c</i>. δανείζω, ANTH. <i>11, 309 ; fut. 2 sg</i>. δανιεῖς (<i>v</i>. δανείζω <i>fin</i>).<br><b><i>Moy.</i></b> <i>fut. 2 sg</i>. δανιῇ.<p><b>Étym</b>. <i>v</i>. δανείζω <i>fin</i>.`

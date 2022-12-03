@@ -1,1 +1,0 @@
-lar[83976]=`<b>προ·δικάζω</b> <font color="purple">[ῐ]</font> juger auparavant, PHIL. <i>1, 603</i>.`

@@ -1,1 +1,0 @@
-lar[42074]=`<b>εὔ·ζυγος</b>, <i>épq</i>. <b>ἐΰ·ζυγος, ος, ον</b> <font color="purple">[ζῠ]</font> <i>touj. en parl. d’un vaisseau,</i> bien joint, bien ajusté, bien construit, <i>ou sel. d’autres,</i> garni de bancs commodes pour les rameurs, OD. <i>13, 113</i>.<p><b>Étym</b>. εὖ, ζεύγνυμι.`

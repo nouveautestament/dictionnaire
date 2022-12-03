@@ -1,1 +1,0 @@
-lar[89983]=`<b>σηπο·ποιός, ός, όν</b>, qui produit la putréfaction, A. APHR. <i>Probl. 1, 66</i>.<p><b>Étym</b>. σήψ, ποιέω.`

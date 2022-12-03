@@ -1,1 +1,0 @@
-lar[77102]=`<b>ας (ἡ)</b> violation d’un serment, BAS. <i>4, 368 Migne</i>.<p><b>Étym</b>. παρορχέω.`

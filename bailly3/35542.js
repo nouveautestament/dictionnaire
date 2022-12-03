@@ -1,1 +1,0 @@
-lar[35542]=`<b>ἑξα·πλάσιος, α, ον</b> <font color="purple">[ᾰσ]</font> sextuple, PLUT. <i>M. 1020a et 1028e</i>.<p>➳ <i>Ion</i>. -πλήσιος, HDT. <i>4, 81</i>.<p><b>Étym</b>. ἕξ, -πλάσιος.`

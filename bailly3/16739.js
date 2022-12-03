@@ -1,1 +1,0 @@
-lar[16739]=`<b>ης (ἡ)</b> Atella, <i>v. de Campanie,</i> STR.`

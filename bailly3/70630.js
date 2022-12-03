@@ -1,1 +1,0 @@
-lar[70630]=`<font color="purple">[ῐ]</font> <i>adv</i>., à part, en soi, ARAT. <i>376</i> ; A.RH. <i>2, 709</i>.<p><b>Étym</b>. οἶος, -θι.`

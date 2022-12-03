@@ -1,1 +1,0 @@
-lar[21026]=`<b>ή, όν</b>, provenant du cuir (odeur), GEOP. <i>6, 2, 7</i>.<p><b>Étym</b>. βύρσα.`

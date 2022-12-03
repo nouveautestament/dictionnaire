@@ -1,1 +1,0 @@
-lar[101928]=`<b>ὑπ·άλληλος, ος, ον</b> <font color="purple">[ῠ]</font> alternatif, ARSTT. <i>Metaph. 4, 10, 4</i>.<p><b>Étym</b>. ὑ. ἀλλήλων.`

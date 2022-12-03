@@ -1,1 +1,0 @@
-lar[105445]=`<b>Φιλ·αινέτη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Philænétè, <i>f</i>. AR. <i>Eccl. 42</i>.<p><b>Étym</b>. φ. αἰνέω.`

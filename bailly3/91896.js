@@ -1,1 +1,0 @@
-lar[91896]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐᾰ]</font> empan, <i>mesure d’une demi-coudée, ou de trois quarts de pied,</i> HDT. <i>2, 106</i> ; PLAT. <i>1 Alc. 126c ;</i> ARSTT. <i>Pol. 5, 3 ; H.A. 8, 28, 5</i>.<p><b>Étym</b>. <i>probabl. pré-grec</i>.`

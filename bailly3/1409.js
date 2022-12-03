@@ -1,1 +1,0 @@
-lar[1409]=`<b>ἀ·δίκαστος, ος, ον</b> <font color="purple">[ῐ]</font> non jugé, non décidé, PLAT. <i>Tim. 51c ;</i> LUC. <i>Bis acc. 23</i>.<p><b>Étym</b>. ἀ, δικάζω.`

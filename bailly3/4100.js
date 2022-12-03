@@ -1,1 +1,0 @@
-lar[4100]=`<b>Ἀ·λάστωρ, ορος (ὁ)</b> <font color="purple">[ᾰλ]</font> Alastôr :<br><b>      1</b> <i>compagnon de Nestor,</i> IL. <i>2, 295 ; 8, 333 ; 13, 422</i>.<br><b>      2</b> <i>chef des Lyciens,</i> IL. <i>5, 677</i>.<p><b>Étym</b>. <i>v</i>. ἀλάστωρ.`

@@ -1,1 +1,0 @@
-lar[77721]=`<b>πελαγό·στροφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui vit (<i>propr</i>. qui évolue) sur mer, OPP. <i>H. 3, 174</i>.<p><b>Étym</b>. πέλαγος, στρέφω.`

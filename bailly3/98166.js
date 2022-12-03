@@ -1,1 +1,0 @@
-lar[98166]=`<b>ός, όν :<br>      1</b> qui achève une œuvre, un travail ; <i>p. suite,</i> qui produit son effet, efficace, PLAT. <i>Phædr. 270a.</i><br><b>      2</b> qui achève, qui accomplit, <i>gén</i>. POL. <i>2, 40, 2</i>.<p><b>Étym</b>. τελέω, ἔργον.`

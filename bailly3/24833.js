@@ -1,1 +1,0 @@
-lar[24833]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> deux centième, DH. <i>8, 83</i>.<p><b>Étym</b>. διακόσιοι.`

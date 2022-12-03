@@ -1,1 +1,0 @@
-lar[4305]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> femme esclave qui moud, OD. <i>20, 105</i>.<br><b>      2</b> <i>à Athènes,</i> jeune fille noble qui préparait la farine pour les gâteaux sacrés, AR. <i>Lys. 643</i>.<p><b>Étym</b>. ἀλέω.`

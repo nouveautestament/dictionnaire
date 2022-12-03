@@ -1,1 +1,0 @@
-lar[54907]=`<b>κεραυνόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐκεραύνωσα)</font> frapper de la foudre, foudroyer, <i>acc</i>. HDT. <i>7, 10</i> ; PLAT. <i>Conv. 190c, etc. ; au pass</i>. HÉS. <i>Th. 859, etc. ; fig</i>. ARTÉM. <i>2, 8</i>.<p><b>Étym</b>. κεραυνός.`

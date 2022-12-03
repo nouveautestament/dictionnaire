@@ -1,1 +1,0 @@
-lar[42335]=`<b>άδος</b>, <i>adj. f</i>. bachique, ANTH. <i>9, 603</i>.<p><b>Étym</b>. Εὔϊος.`

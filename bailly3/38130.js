@@ -1,1 +1,0 @@
-lar[38130]=`<b>εως (ἡ)</b> protection contre, <i>gén</i>. EUR. <i>Andr. 28</i> ; PLAT. <i>Leg. 919b</i>.<p><b>Étym</b>. ἐπικουρέω.`

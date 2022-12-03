@@ -1,1 +1,0 @@
-lar[109738]=`<b>ψευδό·στομα, ατος (τὸ)</b> fausse embouchure d’un fleuve, STR. <i>801</i>.<p><b>Étym</b>. ψ. στόμα.`

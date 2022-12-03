@@ -1,1 +1,0 @@
-lar[6305]=`<b>ἀμφι·περιτρομέω-ῶ</b> (<i>prés. part. non contracte</i>) trembler de tout son corps, OPP. <i>H. 4, 193</i>.`

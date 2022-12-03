@@ -1,1 +1,0 @@
-lar[42950]=`<b>*εὐ·παρρησίαστος, ος, ον</b>, qui parle avec une entière franchise <i>ou</i> confiance, NYSS. <i>3, 744b Migne</i>.<p><b>Étym</b>. εὖ, παρρησιάζομαι.`

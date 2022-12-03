@@ -1,1 +1,0 @@
-lar[96547]=`<b>Συρο·φοῖνιξ, ικος (ὁ)</b> <font color="purple">[ῠῑκ]</font> Phénicien, LUC. <i>C. deor. 4</i>.<p><b>Étym</b>. Σύρος, Φοῖνιξ.`

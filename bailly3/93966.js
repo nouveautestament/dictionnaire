@@ -1,1 +1,0 @@
-lar[93966]=`<b>συμ·μεταφέρω</b> <font color="darkgreen">(<i>f</i>. -μετοίσω, <i>etc</i>.)</font> transporter <i>ou</i> déplacer en même temps, PLUT. <i>M. 901c, etc. ; fig</i>. PLUT. <i>M. 1071b ; au pass</i>. être transporté avec, PLUT. <i>Ant. 66</i>.`

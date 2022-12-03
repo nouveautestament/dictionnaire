@@ -1,1 +1,0 @@
-lar[4017]=`<b>ου (τὸ)</b> petit vase d’albâtre, EUB. (POLL. <i>10, 120).</i><p><b>Étym</b>. ἀλάβαστος.`

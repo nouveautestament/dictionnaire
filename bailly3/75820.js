@@ -1,1 +1,0 @@
-lar[75820]=`<b>παρα·κυπαρίσσιος, α, ον</b> <font color="purple">[ῠᾰ]</font> voisin du temple d’Athèna Κυπαρισσία, PAUS. <i>3, 22, 9</i>.`

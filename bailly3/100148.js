@@ -1,1 +1,0 @@
-lar[100148]=`<i>ou p.-ê</i>. <b>τρῖγλα, ας (ἡ)</b> mulet de mer <i>ou</i> rouget, <i>poisson,</i> SOPHR. (ATH. <i>324a</i>) ; COM. (ATH. <i>325a, etc</i>.) ; PLUT. <i>M. 730b, 977e, 983b ;</i> ANTH. <i>6, 105</i>.`

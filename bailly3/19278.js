@@ -1,1 +1,0 @@
-lar[19278]=`<b>ης (ἡ)</b> <font color="purple">[ᾰσῐ]</font> <i>c</i>. βασίλισσα, femme de l’archonte-roi, DÉM. <i>1370, 17</i> ; MÉN. (EUST. <i>Od. 1425, 40).</i><p><b>Étym</b>. βασιλεύς ; <i>pour le suff. cf</i>. Ἤριννα, Κόριννα.`

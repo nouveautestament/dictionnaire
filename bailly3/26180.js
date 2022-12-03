@@ -1,1 +1,0 @@
-lar[26180]=`<b>δι·έμπιλος, ος, ον</b>, enveloppé de feutre, LUC. <i>Lex. 13</i>.`

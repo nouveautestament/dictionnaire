@@ -1,1 +1,0 @@
-lar[47210]=`<b>θηλύ·τοκος, ος, ον</b> <font color="purple">[ῠ]</font> du sexe féminin, de nature féminine, ARSTT. <i>Pol. 7, 14</i>.<p><b>Étym</b>. θ. τίκτω.`

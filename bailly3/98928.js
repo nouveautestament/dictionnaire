@@ -1,1 +1,0 @@
-lar[98928]=`<b>ου (ὁ)</b> Tèlékleidès (Téléclide) :<br><b>      1</b> <i>poète de l’anc. comédie,</i> PLUT. <i>Per. 3, 16, Nic. 4</i>.<br><b>      2</b> <i>autre,</i> PLUT. <i>Tim. 7</i>.<p><b>Étym</b>. <i>patr. de</i> Τηλεκλῆς.`

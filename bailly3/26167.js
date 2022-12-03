@@ -1,1 +1,0 @@
-lar[26167]=`<b>εως (ἡ)</b> action de passer à travers, passage, PTOL. <i>Tetr. 135</i> ; PROCL. <i>Ptol. 191, 19</i>.<p><b>Étym</b>. διελεύσομαι, <i>v</i>. διέρχομαι.`

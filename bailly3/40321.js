@@ -1,1 +1,0 @@
-lar[40321]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui provoque des rapports, HPC. <i>404, 47</i> au <i>• Cp</i>. -έστερος.<p><b>Étym</b>. ἔρευγμα, -ωδης.`

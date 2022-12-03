@@ -1,1 +1,0 @@
-lar[36746]=`<b>ἐπ·απερείδω</b>, appuyer sur, <i>d’où au moy</i>. ἐπαπερείδομαι, s’appuyer sur, <i>dat</i>. POSIDON. (ATH. <i>550b</i>).`

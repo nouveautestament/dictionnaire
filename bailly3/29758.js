@@ -1,1 +1,0 @@
-lar[29758]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> gâteau à l’huile et au miel, COM. (ATH. <i>645e</i>) ; SPT. <i>Ex. 16, 31 ; Num. 11, 8</i>.`

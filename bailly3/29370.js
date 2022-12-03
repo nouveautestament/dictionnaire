@@ -1,1 +1,0 @@
-lar[29370]=`<b>ἐγ·γομφόω-ῶ</b>, clouer, GAL. <i>4, 11 (sbj. ao. pass</i>. -ωθῇ) <i>et 64 (part. prés. pass</i>. -ουμένων).<p><b>Étym</b>. ἐν, γ.`

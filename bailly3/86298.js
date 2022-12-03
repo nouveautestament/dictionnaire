@@ -1,1 +1,0 @@
-lar[86298]=`<b>προσ·πέρδω</b> (<i>seul. ao.2</i> προσέπαρδον) péter sur, <i>dat</i>. AR. <i>Ran. 1074, etc.</i><br><b><i>Moy.</i></b> <i>m. sign. fig</i>. SOSIPATER. (<i>Com. fr. 4, 482</i>).`

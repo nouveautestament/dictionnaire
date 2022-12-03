@@ -1,1 +1,0 @@
-lar[102704]=`d’un air méprisant, avec fierté <i>ou</i> dédain, XÉN. <i>Hell. 7, 1, 18</i> ; PLUT. <i>Pomp. 55</i> ; LUC. <i>Tim. 8, V.H. 1, 36</i>.<p>•<i> Cp</i>. -ώτερον, POL. <i>5, 46, 6 ; • Sup</i>. -ώτατα, DC. <i>49, 7</i>.`

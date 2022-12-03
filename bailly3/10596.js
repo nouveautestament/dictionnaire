@@ -1,1 +1,0 @@
-lar[10596]=`<b>ἀντι·χαρίζομαι</b> <font color="purple">[χᾰ]</font> témoigner en retour sa reconnaissance, HDT. <i>7, 114</i> ; XÉN. <i>Cyr. 4, 1, 20</i>.`

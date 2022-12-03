@@ -1,1 +1,0 @@
-lar[538]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> fragment, débris, éclat, ESCHL. <i>Pers. 425</i> ; EUR. <i>Suppl. 693</i>.<br><b>      2</b> endroit où se brisent les vagues, A.RH. <i>1, 554</i>.<br><b>      3</b> inflexion, repli, ARAT. <i>688 ; fig</i>. détours, ruse, PD. <i>P. 2, 82 (dor</i>. ἀγάν <i>dout. p</i>. ἄγαν).<p><b>Étym</b>. ἄγνυμι.`

@@ -1,1 +1,0 @@
-lar[19734]=`<b>ή, όν</b> <font color="purple">[ῑῡ]</font> de Bithynie, STR. <i>563</i> ; APP. <i>Civ. 4, 84</i> ; τὰ βιθυνικά, histoire de Bithynie, <i>ouvrage d’Arrien</i>.`

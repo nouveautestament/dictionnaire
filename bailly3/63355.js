@@ -1,1 +1,0 @@
-lar[63355]=`<b>μεγαλο·δωρεά, ᾶς (ἡ)</b> <font color="purple">[γᾰ]</font> munificence, largesse, LUC. <i>Gymn. 9 ; au plur</i>. HDN <i>2, 3, 22</i>.<p><b>Étym</b>. μ. δωρεά.`

@@ -1,1 +1,0 @@
-lar[49233]=`<b>Ἱππαρμό·δωρος, ου (ὁ)</b> Hipparmodôros, <i>h</i>. LYS. <i>23, 5 et 6 Baiter-Sauppe</i>.`

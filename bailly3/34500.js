@@ -1,1 +1,0 @@
-lar[34500]=`<b>ἐν·θανατόω-ῶ</b> <font color="purple">[ᾰᾰ]</font> condamner à mort, PHILOCH. <i>144</i>. (DH. <i>Din. 3</i>).`

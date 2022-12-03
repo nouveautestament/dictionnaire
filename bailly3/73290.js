@@ -1,1 +1,0 @@
-lar[73290]=`<b>ας (ἡ) :<br>      1</b> action de rassembler les os après la crémation du corps, DS. <i>4, 38</i>.<br><b>      2</b> traité sur les os, <i>ou</i> science des os, ostéologie, GAL. <i>4, 27</i>.<p><b>Étym</b>. ὀστολόγος.`

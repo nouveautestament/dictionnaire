@@ -1,1 +1,0 @@
-lar[84709]=`<i>ion</i>. <b>-είη, ης (ἡ)</b> Proméneia, <i>l’une des trois prêtresses de Dodone,</i> HDT. <i>2, 55</i>.<p><b>Étym</b>. <i>cf</i>. Προμένης.`

@@ -1,1 +1,0 @@
-lar[36005]=`<b>ἐξ·ινιάζω</b> <font color="purple">[ῑῐ]</font> dépouiller de ses chairs, ATH. <i>406a ;</i> M. RUBR. <i>178</i>.<p><b>Étym</b>. ἐξ, ἴς.`

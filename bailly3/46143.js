@@ -1,1 +1,0 @@
-lar[46143]=`<b>οῦ (ὁ)</b> <font color="purple">[θᾰ]</font> <i>sorte de collyre,</i> A. TR. <i>2, p. 147</i>.<p><b>Étym</b>. θάλασσα.`

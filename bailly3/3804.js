@@ -1,1 +1,0 @@
-lar[3804]=`<b>ἀκρ·όμφαλον, ου (τὸ)</b> <font color="purple">[φᾰ]</font> pointe du nombril, RUF. <i>31</i>.<p><b>Étym</b>. ἄ. ὀμφαλός.`

@@ -1,1 +1,0 @@
-lar[39950]=`<b>ἑπτά·δουλος, ος, ον</b> <font color="purple">[ᾰ]</font> sept fois esclave, HIPPON. <i>fr. 113B</i>.<p><b>Étym</b>. ἑ. δοῦλος ; <i>cf</i>. ἑπτάβουλος.`

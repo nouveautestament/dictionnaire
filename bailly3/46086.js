@@ -1,1 +1,0 @@
-lar[46086]=`<b>ή, όν</b>, sonore, retentissant, EPIGR. (<i>Welck. Syll. 236, 4).</i><p><b>Étym</b>. ἦχος.`

@@ -1,1 +1,0 @@
-lar[26951]=`<b>διπλασιόω-ῶ</b> <font color="purple">[ῑ̆ᾰ]</font> doubler, THC. <i>1, 69</i>.<p><b>Étym</b>. διπλάσιος.`

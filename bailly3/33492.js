@@ -1,1 +1,0 @@
-lar[33492]=`<i>adv</i>., pleinement, NIC. <i>Al. 129</i>.<p><b>Étym</b>. ἐμπίπλημι.`

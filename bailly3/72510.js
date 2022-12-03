@@ -1,1 +1,0 @@
-lar[72510]=`<i>adv</i>., concernant la vue, la faculté de voir, SEXT. <i>440</i>.`

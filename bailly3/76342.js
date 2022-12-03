@@ -1,1 +1,0 @@
-lar[76342]=`<b>ος, ον</b>, relâché, défaillant, EUR. <i>Alc. 399</i>.<p><b>Étym</b>. παρατείνω.`

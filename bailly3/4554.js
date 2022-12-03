@@ -1,1 +1,0 @@
-lar[4554]=`<b>ἁλί·ρροιζος, ος, ον</b> <font color="purple">[ᾰ]</font> qui retentit du choc des vagues, NONN. <i>D. 13, 322</i>.<p><b>Étym</b>. ἅ. ῥοῖζος.`

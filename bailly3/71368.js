@@ -1,1 +1,0 @@
-lar[71368]=`<font color="purple">[ῐ]</font> convoquer une assemblée, rassembler, OD. <i>16, 376</i>.<p><b>Étym</b>. ὁμήγυρις.`

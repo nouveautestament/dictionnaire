@@ -1,1 +1,0 @@
-lar[84150]=`<b>προ·ενδείκνυμαι</b> <font color="purple">[ῠ]</font> se montrer empressé près de, <i>dat</i>. ESCHN. <i>85, 16 ; avec</i> ὡς <i>et un part</i>. DC. <i>58, 10,</i> pour faire qqe ch.`

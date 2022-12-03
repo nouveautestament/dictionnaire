@@ -1,1 +1,0 @@
-lar[87994]=`<b>πυρρό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> aux cheveux <i>ou</i> aux poils roux, EUR. <i>I.A. 225</i> ; SOL. (ARSTT. <i>Rhet. 1, 15).</i><p><b>Étym</b>. π. θρίξ.`

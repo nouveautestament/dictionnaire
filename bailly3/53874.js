@@ -1,1 +1,0 @@
-lar[53874]=`<b>κατ·εναρίζω</b> <font color="darkgreen">(<i>f</i>. -ίσω ; <i>ao. pass</i>. κατηναρίσθην ; <i>pf. pass</i>. κατηνάρισμαι)</font> <font color="purple">[ᾰ]</font> tuer, ESCHL. <i>Ch. 347</i> ; SOPH. <i>Aj. 26</i>.`

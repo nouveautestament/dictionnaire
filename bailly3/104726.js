@@ -1,1 +1,0 @@
-lar[104726]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> calvitie, SYN. <i>72a</i>.<p><b>Étym</b>. φαλακρός.`

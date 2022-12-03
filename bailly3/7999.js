@@ -1,1 +1,0 @@
-lar[7999]=`<b>ἀνδραποδ·ώνης, ου (ὁ)</b> <font color="purple">[ᾰπ]</font> marchand d’esclaves, AR. <i>fr. 295</i>.<p><b>Étym</b>. ἀνδράποδον, ὠνέομαι.`

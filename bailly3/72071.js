@@ -1,1 +1,0 @@
-lar[72071]=`<b>ου (τὸ)</b> axonge, DIOSC. <i>3, 104</i>.<p><b>Étym</b>. <i>lat</i>. axungia.`

@@ -1,1 +1,0 @@
-lar[56674]=`<b>ης, ες</b>, qui paraît tronqué, écourté, POLÉM. <i>Physiogn. 1, 22, p. 277</i>.<p><b>Étym</b>. κολοβός, -ωδης.`

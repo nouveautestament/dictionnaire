@@ -1,1 +1,0 @@
-lar[38541]=`<b>ας (ἡ)</b> droit de pâture réciproque entre deux états voisins, XÉN. <i>Cyr. 3, 2, 23</i>.<p><b>Étym</b>. ἐπινέμω.`

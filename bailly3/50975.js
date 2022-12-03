@@ -1,1 +1,0 @@
-lar[50975]=`<b>καλαμηφορέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> apporter une marque (paille <i>ou</i> roseau) <i>pour se faire remettre du pain aux boulangeries publiques,</i> THÉM. <i>352, 34</i>.<p><b>Étym</b>. καλαμηφόρος.`

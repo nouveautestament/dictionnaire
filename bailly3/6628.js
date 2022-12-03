@@ -1,1 +1,0 @@
-lar[6628]=`<b>ἄν·αγνος, ος, ον</b>, impur, criminel, <i>en parl. de pers</i>. SOPH. <i>O.R. 822, O.C. 944 ; joint à</i> μιαρός, ANT. <i>116, 11 ; en parl. de choses,</i> ESCHL. <i>Ag. 220, Ch. 986</i> ; EUR. <i>Hipp. 448, etc</i>.<p><b>Étym</b>. ἀν-, ἁγνός.`

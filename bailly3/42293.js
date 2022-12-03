@@ -1,1 +1,0 @@
-lar[42293]=`<i>adv</i>., en parlant sans détour, franchement, CLÉM. <i>493</i>.<p><b>Étym</b>. εὐθυρρήμων.`

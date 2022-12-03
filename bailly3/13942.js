@@ -1,1 +1,0 @@
-lar[13942]=`<b>ἀ·προσδιορίστως</b>, <i>adv</i>., sans être défini <i>ou</i> spécifié, RHÉT.`

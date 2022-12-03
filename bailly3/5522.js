@@ -1,1 +1,0 @@
-lar[5522]=`<b>ἀ·μέτρητος, ος, ον :<br>      1</b> qu’on ne peut mesurer, immense, OD. <i>19, 512 ; 23, 249</i> ; EUR. <i>Hec. 783</i> ; AR. <i>Nub. 264, etc.</i><br><b>      2</b> innombrable, EUR. <i>El. 433</i>.<p>➳ <i>Fém. dor</i>. -ήτα, PD. <i>I. 1, 37</i>.<p><b>Étym</b>. ἀ, μετρέω.`

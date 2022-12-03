@@ -1,1 +1,0 @@
-lar[94380]=`<b>συμ·προτερέω-ῶ</b>, devancer <i>ou</i> surpasser ensemble <i>ou</i> avec, SUID. <i>v°</i> Ἡσίοδος.`

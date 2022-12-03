@@ -1,1 +1,0 @@
-lar[81027]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. πλησιασμός PLUT. <i>M. 1112e</i>.`

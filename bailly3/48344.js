@@ -1,1 +1,0 @@
-lar[48344]=`<b>ή, όν</b>, d’Ibérie, PLUT. <i>Arist. c. Cat. ma. 2, Luc. 5, etc</i>.<p><b>Étym</b>. Ἰβηρία.`

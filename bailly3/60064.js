@@ -1,1 +1,0 @@
-lar[60064]=`<b>ης (ἡ)</b> lionne, HDT. <i>3, 108</i> ; THCR. <i>Idyl. 23, 19 ; fig</i>. ESCHL. <i>Ag. 1258</i> ; SOPH. <i>Aj. 987</i> ; EUR. <i>Med. 187, etc</i>.<p><b>Étym</b>. <i>fém. de</i> λέων.`

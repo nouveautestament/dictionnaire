@@ -1,1 +1,0 @@
-lar[48418]=`<b>ας (ἡ)</b> <font color="purple">[ῐδπᾰ]</font><br><b>      1</b> affection, sentiment qu’on éprouve pour soi-même (<i>p. opp. à</i> συμπάθεια) GAL. <i>7, 454</i> ; A. APHR. <i>Probl. 2, 35</i>.<br><b>      2</b> qualité de verbe réfléchi, PRISC. <i>Gr. lat. 1, 366, etc</i>.<p><b>Étym</b>. ἰδιοπαθής.`

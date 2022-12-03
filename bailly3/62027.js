@@ -1,1 +1,0 @@
-lar[62027]=`<b>λυσί·κοπος, ος, ον</b> <font color="purple">[ῡῐ]</font> qui délivre de la fatigue, qui soulage, Anon. <i>de vir. herb. 28</i>.<p><b>Étym</b>. λ. κόπος.`

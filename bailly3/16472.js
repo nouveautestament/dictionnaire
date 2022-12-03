@@ -1,1 +1,0 @@
-lar[16472]=`<b>ἀ·συμφυής, ής, ές</b>, qui ne se combine pas avec, incompatible, PLUT. <i>M. 908d ;</i> CLÉM.`

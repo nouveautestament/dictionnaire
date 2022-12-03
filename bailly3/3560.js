@@ -1,1 +1,0 @@
-lar[3560]=`<b>ας (ἡ)</b> absence de fatigue, CIC. <i>Fam. 16, 18</i>.<p><b>Étym</b>. ἄκοπος.`

@@ -1,1 +1,0 @@
-lar[13576]=`<b>ἀπο·τελευτάω-ῶ :<br>      1 <i>intr.</i></b> finir, aboutir, <i>avec</i> εἰς <i>et l’acc</i>. PLAT. <i>Prot. 353e, 354b ;</i> ARSTT. <i>Pol. 5, 6</i>.<br><b>      2 <i>tr.</i></b> achever, A. APHR.`

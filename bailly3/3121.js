@@ -1,1 +1,0 @@
-lar[3121]=`<b>ου (ὁ)</b> <font color="purple">[ᾰκ]</font> acanthe (<i>Acanthus mollis</i> L.) <i>plante épineuse,</i> THCR. <i>Idyl. 1, 55</i> ; NIC. <i>Th. 645</i>.<p><b>Étym</b>. <i>cf</i>. ἄκανθα.`

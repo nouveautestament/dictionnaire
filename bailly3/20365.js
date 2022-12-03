@@ -1,1 +1,0 @@
-lar[20365]=`<b>βου·δόκος, ος, ον</b>, qui renferme un bœuf <i>ou</i> des bœufs, CALL.<p><b>Étym</b>. βοῦς, δέκομαι <i>c</i>. δέχομαι.`

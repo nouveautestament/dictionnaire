@@ -1,1 +1,0 @@
-lar[65385]=`<b>Μηλό·βοσις (ὁ)</b> Mèlobosis, <i>fille d’Okéanos et de Téthys,</i> HÉS. <i>Th. 354</i>.<p><b>Étym</b>. μῆλον¹, βόσκω.`

@@ -1,1 +1,0 @@
-lar[54154]=`<b>κατ·οπτίλλομαι</b>, sembler ; κατοπτίλλεταί μοι, DIUS (STOB. <i>Fl. 65, 16</i>) il me semble.`

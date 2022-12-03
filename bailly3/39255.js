@@ -1,1 +1,0 @@
-lar[39255]=`<b>ἐπι·συρρέω</b> <font color="darkgreen">(<i>f</i>. -συρρυήσομαι)</font> couler ensemble vers, STR. <i>240</i> ; DH. <i>4, 55</i> ; PLUT. <i>M. 895b</i>.`

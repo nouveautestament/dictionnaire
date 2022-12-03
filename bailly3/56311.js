@@ -1,1 +1,0 @@
-lar[56311]=`<b>οῦ (ὁ) :<br>      1</b> démangeaison, excitation des sens, SOPH. <i>fr. 482</i> ; AR. <i>Pl. 974</i>.<br><b>      2</b> pique, brouille, ALCIPHR. <i>1, 29</i>.<br><b>      3</b> sorte de chant <i>ou</i> de danse, ATH. <i>618c</i>.<p><b>Étym</b>. κνίζω.`

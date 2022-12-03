@@ -1,1 +1,0 @@
-lar[44236]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> d’hier, de la veille, ANTH. <i>10, 79</i>.<p><b>Étym</b>. ἐχθές.`

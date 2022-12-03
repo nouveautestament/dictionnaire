@@ -1,1 +1,0 @@
-lar[18760]=`<b>βαθυ·κλῆς, έους (ὁ)</b> <font color="purple">[ᾰῡ]</font> Bathyklès :<br><b>      1</b> <i>Myrmidon,</i> IL. <i>16, 594</i>.<br><b>      2</b> <i>autres,</i> PAUS. PLUT. <i>etc</i>.<p>➳ <i>Gén. épq</i>. βαθυκλῆος, IL. <i>l. c. ; poét</i>. βαθυκλέος, ANTH. <i>7, 503</i>.<p><b>Étym</b>. <i>contract. de</i> βαθυκλεής.`

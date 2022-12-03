@@ -1,1 +1,0 @@
-lar[41580]=`<b>εὐ·ανάκλητος, ος, ον</b> <font color="purple">[ᾰν]</font><br><b>      1</b> facile à rappeler, PLUT. <i>Cim. 17</i>.<br><b>      2</b> <i>p. suite,</i> facile à apaiser, PLUT. <i>T. Gracch. 2</i> ; facile à guérir, ARÉT. <i>p. 35, 10</i>.<br><b>      3</b> facile à appeler, <i>càd</i>. à prononcer, XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. εὖ, ἀνακαλέω.`

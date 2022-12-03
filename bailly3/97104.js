@@ -1,1 +1,0 @@
-lar[97104]=`<b>ας (ἡ)</b> direction en ligne droite, STR.<p><b>Étym</b>. σχοινότονος.`

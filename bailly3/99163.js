@@ -1,1 +1,0 @@
-lar[99163]=`<b>ου (ὁ)</b> de Tilphoussa, <i>ép. d’Apollon,</i> HH. <i>Ap. 386</i>.<p><b>Étym</b>. Τιλφοῦσσα.`

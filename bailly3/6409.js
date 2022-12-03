@@ -1,1 +1,0 @@
-lar[6409]=`<i>adv</i>., du dème Amphitropè, PLUT. <i>Arist. 26</i>.`

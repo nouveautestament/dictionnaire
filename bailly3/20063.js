@@ -1,1 +1,0 @@
-lar[20063]=`<font color="darkgreen">(<i>f</i>. εύσω)</font> creuser une fosse <i>ou</i> un trou, GEOP. <i>9, 6, 2</i>.<p><b>Étym</b>. βόθρος.`

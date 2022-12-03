@@ -1,1 +1,0 @@
-lar[90635]=`<b>ων (τὰ)</b> <font color="purple">[ᾰμᾰ]</font> brisants d’un fleuve, POL. <i>5, 59, 9</i>.`

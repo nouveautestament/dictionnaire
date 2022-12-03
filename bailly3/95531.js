@@ -1,1 +1,0 @@
-lar[95531]=`<b>συν·εξευρίσκω</b>, trouver <i>ou</i> découvrir aussi <i>ou</i> en même temps, EUR. <i>Her. 420</i> ; AR. <i>Th. 601</i> ; DION (PLAT. <i>Ep. 322a</i>) ; ISOCR. <i>50b</i>.`

@@ -1,1 +1,0 @@
-lar[86445]=`<b>προσ·ταράσσω</b> <font color="purple">[τᾰ]</font> troubler en outre <i>ou</i> encore, SPT. <i>Sir. 4, 3</i>.`

@@ -1,1 +1,0 @@
-lar[24866]=`<b>ος, ον</b> <font color="purple">[αῐ]</font><br><b>      1</b> distinct, MAN. <i>2, 60</i>.<br><b>      2</b> distingué, choisi, <i>d’où</i> supérieur, THCR. <i>Idyl. 22, 163</i> ; OPP. <i>H. 3, 441</i>.<p><b>Étym</b>. διακρίνω.`

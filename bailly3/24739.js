@@ -1,1 +1,0 @@
-lar[24739]=`<b>διά·καυμα, ατος (τὸ)</b> chaleur ardente, ANTH. <i>6, 291 dout</i>.<p><b>Étym</b>. διακαίω.`

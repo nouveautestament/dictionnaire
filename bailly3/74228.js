@@ -1,1 +1,0 @@
-lar[74228]=`<b>εως (ἡ)</b> <font color="purple">[ᾰγ]</font> action de diriger <i>ou</i> d’instruire les enfants, CLÉM. <i>198</i>.<p><b>Étym</b>. παιδαγωγέω.`

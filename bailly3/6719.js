@@ -1,1 +1,0 @@
-lar[6719]=`<b>ἀνα·διπλόω-ῶ</b>, redoubler, XÉN. <i>Cyr. 7, 5, 5 ; t. de gr</i>. PHRYN. GR. <i>(Bkk. p. 20, 1</i>) ; EUST. <i>Od. p. 1722, 39 ; t. de rhét</i>. PHŒBAMM. <i>8, 516 W</i>.`

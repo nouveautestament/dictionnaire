@@ -1,1 +1,0 @@
-lar[26464]=`<b>ή, όν</b> <font color="purple">[δῐ]</font> M. ANT. <i>5, 34 (cf. 9, 22, dout.) c</i>. δίκαιος.`

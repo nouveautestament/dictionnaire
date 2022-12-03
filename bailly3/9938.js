@@ -1,1 +1,0 @@
-lar[9938]=`<b>εως (ἡ)</b> rétention, arrêt, ARSTT. <i>Probl. 3, 1, 3</i>.<p><b>Étym</b>. ἀντικατέχω.`

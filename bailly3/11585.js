@@ -1,1 +1,0 @@
-lar[11585]=`<b>ἀπειρο·ειδής, ής, ές</b>, infini, PROCL. <i>Inst. theol. p. 90</i>.<p><b>Étym</b>. ἄ. εἶδος.`

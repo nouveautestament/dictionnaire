@@ -1,1 +1,0 @@
-lar[21192]=`<b>η, ον</b> <font color="purple">[γᾰ]</font> <i>c</i>. γαλακτικός ANTH. <i>5, 193</i>.`

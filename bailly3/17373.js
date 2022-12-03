@@ -1,1 +1,0 @@
-lar[17373]=`<b>ένος (ὁ)</b> <font color="purple">[ᾰῡ]</font> souffle du vent, IL. <i>23, 765</i> ; OD. <i>3, 289</i>.<p><b>Étym</b>. <i>cf</i>. ἀϋτμή.`

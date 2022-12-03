@@ -1,1 +1,0 @@
-lar[50598]=`<b>καιρο·τηρέω-ῶ</b>, guetter l’occasion, <i>abs</i>. DS. <i>13, 21 ; avec un acc</i>. DS. <i>19, 16</i>.<p><b>Étym</b>. κ. τηρέω.`

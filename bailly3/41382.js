@@ -1,1 +1,0 @@
-lar[41382]=`<b>ἑτερο·σχήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, de figure <i>ou</i> d’aspect différent, TH. <i>H.P. 1, 10, 1</i> ; LUC. <i>H. conscr. 51</i>.<p><b>Étym</b>. ἕ. σχῆμα.`

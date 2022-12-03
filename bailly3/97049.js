@@ -1,1 +1,0 @@
-lar[97049]=`<b>ας (ἡ)</b> séparation du pied en doigts, ARSTT. <i>P.A. 1, 3, 18 ; Metaph. 6, 12, 8</i>.<p><b>Étym</b>. σχιζόπους.`

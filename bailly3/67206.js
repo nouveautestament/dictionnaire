@@ -1,1 +1,0 @@
-lar[67206]=`<b>μυρ·αλοιφία, ας (ἡ)</b> <font color="purple">[ῠᾰλ]</font> action de parfumer d’huile <i>ou</i> d’essence aromatique, PLUT. <i>M. 662a ;</i> A. TAT. <i>2, 38</i>.<p><b>Étym</b>. μύρον, ἀλοιφή.`

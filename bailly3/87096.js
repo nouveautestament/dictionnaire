@@ -1,1 +1,0 @@
-lar[87096]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> de prytane, ATH. <i>149e</i>.<p><b>Étym</b>. πρύτανις.`

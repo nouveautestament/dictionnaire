@@ -1,1 +1,0 @@
-lar[69093]=`<b>οῦ (ὁ)</b> piqûre, DS. <i>13, 58 ; fig</i>. PLUT. <i>Phil. 9</i>.<p><b>Étym</b>. νύσσω.`

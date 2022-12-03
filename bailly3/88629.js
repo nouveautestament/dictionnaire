@@ -1,1 +1,0 @@
-lar[88629]=`<b>οῦ (ὁ)</b> <font color="purple">[ρῑ]</font> <i>c</i>. ῥίπισις, A. APHR.`

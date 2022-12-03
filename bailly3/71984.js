@@ -1,1 +1,0 @@
-lar[71984]=`<b>ὀνοματο·θήρας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> qui va à la chasse des mots <i>ou</i> des sens nouveaux, ATH. <i>98a, 649b</i>.<p><b>Étym</b>. ὄ. θηράω.`

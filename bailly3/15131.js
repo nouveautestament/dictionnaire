@@ -1,1 +1,0 @@
-lar[15131]=`<b>ας (ἡ)</b> dépravation contre nature, ESCHL. <i>Sept. Arg</i>.<p><b>Étym</b>. ἀρρενοφθόρος.`

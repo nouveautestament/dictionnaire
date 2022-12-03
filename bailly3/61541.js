@@ -1,1 +1,0 @@
-lar[61541]=`<b>λογόω-ῶ</b>, douer de raison, PLOT. <i>Enn. 1, 482</i>.<p><b>Étym</b>. λόγος.`

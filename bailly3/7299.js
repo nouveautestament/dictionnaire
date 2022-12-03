@@ -1,1 +1,0 @@
-lar[7299]=`<b>-α (ὁ)</b> <font color="purple">[λᾱ]</font> <i>Dor. c</i>. Ἀναξίλαος.`

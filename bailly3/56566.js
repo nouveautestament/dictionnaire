@@ -1,1 +1,0 @@
-lar[56566]=`<b>ας (ἡ)</b> sorte de sumac, <i>arbre dont les baies ou fruits servent pour la teinture jaune,</i> TH. <i>H.P. 3, 16, 6</i>.`

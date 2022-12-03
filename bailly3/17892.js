@@ -1,1 +1,0 @@
-lar[17892]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰᾰᾰ]</font> les fils <i>ou</i> descendants d’Apharée, A.RH.<p><b>Étym</b>. Ἀφαρεύς.`

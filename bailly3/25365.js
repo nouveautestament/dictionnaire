@@ -1,1 +1,0 @@
-lar[25365]=`<b>δια·πρεπής, ής, ές :<br>      1</b> distingué, remarquable entre tous, éminent, PD. <i>I. 4, 49</i> ; THC. <i>2, 34</i> ; τινι, EUR. <i>Suppl. 841,</i> par qqe ch. ; τι, EUR. <i>I.A. 1588,</i> en qqe ch.<br><b>      2</b> <i>abs</i>. magnifique : τὸ δ. THC. <i>6, 16,</i> la magnificence.<p>•<i> Cp</i>. -έστερος, XÉN. <i>Mem. 2, 1, 27</i>.`

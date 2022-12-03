@@ -1,1 +1,0 @@
-lar[50336]=`<b>καθ·ελίσσω</b> <font color="purple">[ᾰ]</font> envelopper, ARSTD. <i>t. 1, 303</i>.<p>➳ <i>Ion</i>. κατελ-, HDT. <i>2, 86, et 3 pl. pl.q.pf</i>. κατειλίχατο, HDT. <i>7, 76</i>.`

@@ -1,1 +1,0 @@
-lar[8075]=`<b>ου (ὁ)</b> Androkottos, <i>roi indien,</i> PLUT. <i>Alex. 62</i>.`

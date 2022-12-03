@@ -1,1 +1,0 @@
-lar[67667]=`<i>ou</i> <b>νάσκαφθον, ου (τὸ)</b> écorce d’un arbre indien employée comme aromate, DIOSC. <i>1, 22</i>.`

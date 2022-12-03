@@ -1,1 +1,0 @@
-lar[885]=`<b>οῦ (ὁ) :<br>      1</b> chasseur, SOPH. <i>O.C. 1091</i>.<br><b>      2</b> <i>adj</i>. de chasse, SOL. <i>23, 2 ; ou</i> de pêche, ANTH. <i>7, 171</i>.<p>➳ <i>Dor. acc</i>. -τάν, SOPH. <i>l. c</i>.`

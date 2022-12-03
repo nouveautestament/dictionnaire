@@ -1,1 +1,0 @@
-lar[37471]=`<b>ἐπι·γνάπτω</b>, carder et dégraisser comme un foulon, <i>càd</i>. remettre à neuf, <i>fig</i>. LUC. <i>Fug. 28</i>.`

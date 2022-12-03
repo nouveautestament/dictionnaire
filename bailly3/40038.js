@@ -1,1 +1,0 @@
-lar[40038]=`<b>ἑπτά·χορδος, ος, ον</b> <font color="purple">[ᾰ]</font> à sept cordes, ARSTT. <i>Probl. 19, 25, etc</i>.<p><b>Étym</b>. ἑ. χορδή.`

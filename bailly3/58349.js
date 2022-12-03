@@ -1,1 +1,0 @@
-lar[58349]=`<b>κυανο·κρήδεμνος, ος, ον</b> <font color="purple">[ᾰ]</font> aux bandelettes sombres, Q. SM. <i>4, 381</i>.<p><b>Étym</b>. κ. κρήδεμνον.`

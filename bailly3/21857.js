@@ -1,1 +1,0 @@
-lar[21857]=`<b>γεω·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui décrit la terre ; ὁ γ. GRAMM. le Géographe, <i>càd</i>. Strabon.<p><b>Étym</b>. γῆ, γράφω.`

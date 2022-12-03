@@ -1,1 +1,0 @@
-lar[110016]=`<b>ας (ἡ)</b> sottise, LUC. <i>D. mort. 16, 5</i> ; langage froid, RHÉT. <i>5, 4 W</i>.<p><b>Étym</b>. <i>cf</i>. ψυχρολογέω.`

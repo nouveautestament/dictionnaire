@@ -1,1 +1,0 @@
-lar[90024]=`<b>οῦ (ἡ)</b> <i>litt</i>. « le crible, » <i>surn. de Phrynè qui laissait à sec la bourse (les bourses aussi…) de ses visiteurs,</i> ATH. <i>591c</i>.<p><b>Étym</b>. σήθω.`

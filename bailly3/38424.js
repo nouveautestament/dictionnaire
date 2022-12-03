@@ -1,1 +1,0 @@
-lar[38424]=`<b>ας (ἡ)</b> pensée qui vient à l’esprit après, <i>p. anal. avec</i> προμήθεια, CORN. <i>98</i>.`

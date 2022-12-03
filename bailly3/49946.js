@@ -1,1 +1,0 @@
-lar[49946]=`<b>ῶν (οἱ)</b> <font color="purple">[ῑᾰῐ]</font> les Italiens, CALL. <i>fr. 448</i> ; ANTH. <i>9, 344</i>.<p><b>Étym</b>. Ἰταλία.`

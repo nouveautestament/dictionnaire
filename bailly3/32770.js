@@ -1,1 +1,0 @@
-lar[32770]=`<b>ορος (ὁ)</b> Éléphènor, <i>chef des Abantes,</i> IL. <i>2, 540 ; 4, 463</i> ; PLUT. <i>Thes. 35, etc</i>.`

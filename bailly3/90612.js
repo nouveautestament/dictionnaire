@@ -1,1 +1,0 @@
-lar[90612]=`<font color="purple">[ᾰᾰ, ῡ <i>prés</i>. ῠ <i>fut</i>.]</font> fouiller, <i>en un sens obscène,</i> AR. <i>Eccl. 611</i>.<p><b>Étym</b>. σκάλλω, ἀθύρω.`

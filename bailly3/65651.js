@@ -1,1 +1,0 @@
-lar[65651]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> Midéa :<br><b>   I</b> <i>nymphe,</i> PD. <i>O. 7, 53</i>.<br><b>   II</b> <i>n. géogr.</i> :<br><b>      1</b> <i>v. de Béotie,</i> IL. <i>2, 507</i>.<br><b>      2</b> <i>v. d’Argolide,</i> XÉN. <i>Hell. 7, 1, 28</i>.`

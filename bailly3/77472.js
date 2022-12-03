@@ -1,1 +1,0 @@
-lar[77472]=`<b>παχυ·δάκτυλος, ος, ον</b> <font color="purple">[ᾰῠῠ]</font> qui a de gros doigts, POLÉM. <i>p. 310</i>.<p><b>Étym</b>. π. δάκτυλος.`

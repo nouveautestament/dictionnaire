@@ -1,1 +1,0 @@
-lar[65027]=`<b>ή, όν :<br>      1</b> métaphorique, figuré, ARSTT. <i>Poet. 22, 16</i>.<br><b>      2</b> qui aime les expressions figurées, ARSTT. (DL. <i>8, 57).</i><p><b>Étym</b>. μεταφορά.`

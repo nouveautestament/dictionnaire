@@ -1,1 +1,0 @@
-lar[30391]=`<b>α, ον</b>, qui se fait <i>ou</i> arrive le vingtième jour, HPC. <i>Progn. 42</i> ; ANT. <i>113, 32</i>.<p><b>Étym</b>. εἰκοστός.`

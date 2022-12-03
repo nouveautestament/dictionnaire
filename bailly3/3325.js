@@ -1,1 +1,0 @@
-lar[3325]=`<b>ἀκεσ·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui guérit, qui secourt, qui sauve, EUR. <i>Ion 1005</i> ; ASTYDAM. (ATH. <i>40b</i>).<p><b>Étym</b>. ἄκος, φέρω.`

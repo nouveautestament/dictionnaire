@@ -1,1 +1,0 @@
-lar[17413]=`<b>αὐτο·γεννήτωρ, ορος (ὁ)</b> qui engendre de soi-même, ORIG.`

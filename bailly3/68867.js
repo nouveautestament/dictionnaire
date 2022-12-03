@@ -1,1 +1,0 @@
-lar[68867]=`<b>εως (ἡ) :<br>      1</b> action de se mettre dans l’esprit, conception <i>ou</i> intelligence d’une chose, PLAT. <i>Ep. 310a.</i><br><b>      2</b> faculté de penser, intelligence, esprit, PLAT. <i>Tim. 28a, 52a ; Rsp. 524b, 534a, etc.</i> ; PLUT. <i>M. 961c, etc</i>.<p><b>Étym</b>. νοέω.`

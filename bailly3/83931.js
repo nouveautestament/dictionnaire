@@ -1,1 +1,0 @@
-lar[83931]=`<b>προ·διαντλέω-ῶ</b>, épuiser auparavant, ATH. <i>185a</i>.`

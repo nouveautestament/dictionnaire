@@ -1,1 +1,0 @@
-lar[96243]=`<b>συν·οφρυόομαι</b>, <i>anc. att</i>. <b>ξυνοφρυόομαι-οῦμαι</b> <font color="darkgreen">(<i>pf</i>. συνωφρύωμαι)</font> contracter <i>ou</i> froncer les sourcils, SOPH. <i>Tr. 869</i> ; EUR. <i>Alc. 777</i>.<p><b>Étym</b>. σύνοφρυς.`

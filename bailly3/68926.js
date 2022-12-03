@@ -1,1 +1,0 @@
-lar[68926]=`<b>ονος (ὁ)</b> <font color="purple">[ῑ]</font> Nomiôn, <i>h</i>. IL. <i>2, 871</i>.<p><b>Étym</b>. νόμος.`

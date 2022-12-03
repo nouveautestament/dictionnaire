@@ -1,1 +1,0 @@
-lar[61855]=`<b>ονος (ὁ)</b> <font color="purple">[ῠᾱ]</font> Lykaôn, <i>h</i>. IL. <i>2, 826, etc.</i> ; EUR. <i>Alc. 505, etc</i>.`

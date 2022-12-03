@@ -1,1 +1,0 @@
-lar[42189]=`<b>εὐθημονέομαι-οῦμαι</b>, mettre en bon ordre, PLAT. <i>Leg. 758b</i>.<p><b>Étym</b>. εὐθήμων.`

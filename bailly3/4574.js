@@ -1,1 +1,0 @@
-lar[4574]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰῐ]</font> faute, crime, ANTH. <i>9, 643</i>.<p><b>Étym</b>. ἀλιταίνω.`

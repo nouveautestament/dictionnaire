@@ -1,1 +1,0 @@
-lar[12913]=`<b>ἀπό·μουσος, ος, ον</b>, étranger aux muses, grossier, EUR. <i>Med. 1089</i>.<p><b>Étym</b>. ἀπό, μοῦσα.`

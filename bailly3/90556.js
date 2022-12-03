@@ -1,1 +1,0 @@
-lar[90556]=`<b>σιτό·σπορος, ος, ον</b> <font color="purple">[ῑ]</font> ensemencé de blé, DH. <i>4, 56</i>.<p><b>Étym</b>. σ. σπείρω.`

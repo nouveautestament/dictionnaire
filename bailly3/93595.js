@@ -1,1 +1,0 @@
-lar[93595]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de félicitation, PHIL. <i>1, 81</i>.<p><b>Étym</b>. συγχαίρω.`

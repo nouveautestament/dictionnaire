@@ -1,1 +1,0 @@
-lar[66635]=`<b>μονό·στοιχος, ος, ον</b>, d’une seule ligne, ATH. (ORIB. <i>1, 26 B.-Dar</i>.) ; DRAC. <i>56, 4</i>.<p><b>Étym</b>. μ. στοῖχος.`

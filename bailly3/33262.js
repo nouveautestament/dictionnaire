@@ -1,1 +1,0 @@
-lar[33262]=`<b>ἐμ·μερίζω</b>, partager, CHRYS. <i>5, 666</i> ; NYSS. <i>1, 1113c Migne</i>.<p><b>Étym</b>. ἐν, μ.`

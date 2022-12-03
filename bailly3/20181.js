@@ -1,1 +1,0 @@
-lar[20181]=`<b>βοό·γληνος, ος, ον</b>, aux grands yeux (<i>litt</i>. aux yeux de bœuf) NONN. <i>D. 7, 260</i>.<p><b>Étym</b>. βοῦς, γλήνη.`

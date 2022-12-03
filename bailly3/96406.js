@@ -1,1 +1,0 @@
-lar[96406]=`<font color="purple">[ῠῠᾰ]</font> être consul avec, PLUT. <i>Popl. 1, Fab. 25, etc.</i> ; DC. <i>51, 4</i>.<p><b>Étym</b>. συνύπατος.`

@@ -1,1 +1,0 @@
-lar[18120]=`<font color="purple">[ῐῑ]</font> <i>adv</i>., sans ambition, POL. <i>12, 23, 8</i> ; PLUT. <i>M. 525c</i>.`

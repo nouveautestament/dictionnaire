@@ -1,1 +1,0 @@
-lar[98815]=`<b>τευχεσ·φόρος, ος, ον</b>, qui porte des armes, ESCHL. <i>Ch. 627</i> ; EUR. <i>Suppl. 654</i>.<p><b>Étym</b>. τεῦχος, φέρω.`

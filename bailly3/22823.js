@@ -1,1 +1,0 @@
-lar[22823]=`<b>γυναικο·φυής, ής, ές</b> <font color="purple">[ῠῠ]</font> de nature féminine, EMPÉD. <i>217 Sturz</i>.<p><b>Étym</b>. γ. φύω.`

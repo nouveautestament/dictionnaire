@@ -1,1 +1,0 @@
-lar[25840]=`<b>εως (ἡ)</b> moyen de fuir, de s’échapper, THC. <i>3, 23</i> ; PLUT. <i>M. 977e</i>.<p><b>Étym</b>. διαφεύγω.`

@@ -1,1 +1,0 @@
-lar[88322]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰᾰῑῐδ]</font> sorte d’iris, PLIN. <i>H.N. 21, 7, 19</i>.`

@@ -1,1 +1,0 @@
-lar[54679]=`<b>κενε·αγγίη, ης (ἡ)</b> <i>ion.</i> :<br><b>      1</b> disette, inanition, HPC. <i>392, etc.</i><br><b>      2</b> épuisement des vaisseaux, perte de sang, ARÉT. <i>Cur. m. diut. 2, 3, etc</i>.<p><b>Étym</b>. <i>cf</i>. κεναγγής.`

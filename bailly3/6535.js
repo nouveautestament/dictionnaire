@@ -1,1 +1,0 @@
-lar[6535]=`<b>ἀνα·βιώσκομαι :<br>      1</b> (<i>au sens act. seul. prés. et ao</i>. ἀνεβιωσάμην) rappeler à la vie, PLAT. <i>Crit. 48c, Phæd. 89b, etc.</i><br><b>      2</b> <i>au sens pass</i>. être rappelé à la vie, revivre, PLAT. <i>Phæd. 71e, 72b, etc</i>.<p><b>Étym</b>. ἀναβιόω.`

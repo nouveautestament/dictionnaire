@@ -1,1 +1,0 @@
-lar[35097]=`<b>ῆς (ἡ) :<br>      1</b> incision, HPC. <i>Art. 799</i>.<br><b>      2</b> entaille, fente, ARSTT. <i>H.A. 1, 1, 16 ; 4, 1, 5</i> ; LUC. <i>Am. 44</i>.<br><b>      3</b> ouverture, crevasse, <i>en parl. des cataractes du Nil,</i> DS. <i>1, 32</i>.<p><b>Étym</b>. ἐντέμνω.`

@@ -1,1 +1,0 @@
-lar[101758]=`<b>ός, όν</b> <font color="purple">[ῡ]</font><br><b>      1</b> qui sert à travailler le bois, DH. <i>3, 73</i>.<br><b>      2</b> <i>subst</i>. ὁ ὑλ. charpentier, bûcheron, EUR. <i>H.f. 241, etc</i>.<p><b>Étym</b>. ὕ. ἔργον.`

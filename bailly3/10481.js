@@ -1,1 +1,0 @@
-lar[10481]=`<b>ἀντι·τάλαντον, ου (τὸ)</b> <font color="purple">[τᾰ]</font> contrepoids, équivalent, NAZ. <i>3, 1478 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[93578]=`<b>συγ·κυρόω-ῶ</b> <font color="purple">[κῡ]</font> confirmer, MÉN. RHÉT. <i>9, 271 W</i>.`

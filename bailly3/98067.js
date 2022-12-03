@@ -1,1 +1,0 @@
-lar[98067]=`<b>τεκν·ολέτειρα, ας</b>, <i>adj. f</i>. qui a perdu ses petits, SOPH. <i>El. 107</i>.<p><b>Étym</b>. τ. ὄλλυμι.`

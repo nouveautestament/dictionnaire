@@ -1,1 +1,0 @@
-lar[48314]=`<b>ης (ἡ)</b> <font color="purple">[ῑᾱῑ]</font> femme qui exerce la médecine, <i>particul</i>. sage-femme, GAL. <i>7, 517, 521</i> ; A. APHR. <i>Probl. 2, 64</i>.<p><b>Étym</b>. ἰατρός.`

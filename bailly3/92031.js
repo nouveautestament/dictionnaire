@@ -1,1 +1,0 @@
-lar[92031]=`<b>ή, όν</b>, grave, sérieux, PLAT. <i>Rsp. 452e</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Rhet. 2, 17, 3</i>.<p><b>Étym</b>. σπουδάζω.`

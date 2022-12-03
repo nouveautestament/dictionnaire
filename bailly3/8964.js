@@ -1,1 +1,0 @@
-lar[8964]=`<b>ἀνθρωπό·μιμος, ος, ον</b> <font color="purple">[ῑ]</font> qui imite les hommes, PLUT. <i>M. 1157a</i>.<p><b>Étym</b>. ἄ. μιμέομαι.`

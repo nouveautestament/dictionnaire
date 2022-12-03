@@ -1,1 +1,0 @@
-lar[91642]=`<b>ῶν (οἱ)</b> les habitants de Suse, ESCHL. <i>Pers. 557</i>.<p><b>Étym</b>. Σοῦσα.`

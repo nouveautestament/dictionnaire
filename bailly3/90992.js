@@ -1,1 +1,0 @@
-lar[90992]=`<b>(ὁ)</b> Skirphôndas, <i>béotarque,</i> THC. <i>7, 30</i>.`

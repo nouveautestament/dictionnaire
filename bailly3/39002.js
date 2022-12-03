@@ -1,1 +1,0 @@
-lar[39002]=`<b>ἐπι·σκιρτάω-ῶ</b>, bondir sur, <i>dat</i>. NONN. <i>D. 2, 29 ; abs</i>. ANTH. <i>5, 103, etc. ; fig</i>. insulter, <i>dat</i>. PLUT. <i>Dem. 22</i>.`

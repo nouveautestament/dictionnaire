@@ -1,1 +1,0 @@
-lar[27517]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> rempli de roseaux, EUR. <i>Hel. 209</i>.<br><b>      2</b> préparé au moyen de gluaux (piège) ANTH. <i>9, 273 (ion. acc</i>. δουνακόεντα).<p><b>Étym</b>. δόναξ.`

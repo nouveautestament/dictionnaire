@@ -1,1 +1,0 @@
-lar[5616]=`<b>ου (ὁ)</b> Amistrès, <i>chef perse,</i> ESCHL. <i>Pers. 21</i>.`

@@ -1,1 +1,0 @@
-lar[100633]=`<b>τριχο·πλάστης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui façonne les cheveux, coiffeur, SYN. <i>85b</i>.<p><b>Étym</b>. θρίξ, πλάσσω.`

@@ -1,1 +1,0 @@
-lar[4824]=`<b>ητος (ἡ) :<br>      1</b> qualité de ce qui est étranger <i>ou</i> incompatible, PLAT. <i>Pol. 261a.</i><br><b>      2</b> dispositions hostiles : πρός τινα, PLAT. <i>Ep. 318d ;</i> DÉM. <i>282, 26 (décr</i>.) pour qqn.<p><b>Étym</b>. ἀλλότριος.`

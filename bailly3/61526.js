@@ -1,1 +1,0 @@
-lar[61526]=`<b>λογο·μαχέω-ῶ</b> <font color="purple">[ᾰ]</font> se battre en paroles, disputer, se quereller, NT. <i>2Tim. 2, 14</i>.<p><b>Étym</b>. λόγος, μάχομαι.`

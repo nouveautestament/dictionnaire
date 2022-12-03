@@ -1,1 +1,0 @@
-lar[29296]=`<b>ἑβδομηκοντα·τέσσαρες, ες, α</b> <font color="purple">[ᾰᾰ]</font> soixante-quatorze, SPT. <i>1Esdr. 5, 26</i>.`

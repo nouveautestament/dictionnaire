@@ -1,1 +1,0 @@
-lar[75944]=`<b>παρά·μουσος, ος, ον</b>, étranger aux Muses ; <i>d’où</i> qui ne s’harmonise pas avec, <i>dat</i>. EUR. <i>Ph. 786 ; abs</i>. horrible, ESCHL. <i>Ch. 464</i>.<p><b>Étym</b>. π. μοῦσα.`

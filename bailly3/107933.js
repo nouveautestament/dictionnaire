@@ -1,1 +1,0 @@
-lar[107933]=`<b>ου (ὁ)</b> fils de Kharisios, DÉM. <i>57, 20 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Χαρίσιος.`

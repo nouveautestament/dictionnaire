@@ -1,1 +1,0 @@
-lar[98131]=`<b>τελειο·τοκέω-ῶ</b>, mettre, bas à terme <i>ou</i> mettre bas un petit bien venu, ARSTT. <i>G.A. 4, 6, 3</i>.<p><b>Étym</b>. τέλειος, τόκος.`

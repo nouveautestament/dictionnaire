@@ -1,1 +1,0 @@
-lar[77335]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> robe traînante pour la statue d’Hèra, CALL. <i>fr. 495</i>.<p><b>Étym</b>. <i>incert</i>.`

@@ -1,1 +1,0 @@
-lar[19950]=`<b>βληχάομαι-ῶμαι</b> <font color="darkgreen">(<i>ao</i>. ἐβληχησάμην) :</font><br><b>      1</b> bêler, AR. <i>Pax 535 ; Pl. 293, etc.</i><br><b>      2</b> <i>p. ext</i>. pousser des vagissements, AR. <i>Vesp. 570</i>.<p><b>Étym</b>. βληχή.`

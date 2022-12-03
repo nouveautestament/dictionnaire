@@ -1,1 +1,0 @@
-lar[89839]=`<b>άδος (ἡ)</b> <font color="purple">[ᾱᾰδ]</font> <i>c</i>. σαραπιάς, DIOSC. <i>3, 142</i> ; PLIN. <i>H.N. 26, 10, 62</i>.`

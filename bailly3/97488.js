@@ -1,1 +1,0 @@
-lar[97488]=`<b>ῶν (αἱ)</b> Tamynæ, <i>v. d’Eubée,</i> HDT. <i>6, 101</i> ; ESCHN. <i>2, 169</i> ; DÉM. <i>21, 162, etc. Baiter-Sauppe, etc</i>.`

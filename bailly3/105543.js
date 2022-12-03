@@ -1,1 +1,0 @@
-lar[105543]=`<b>φιλ·ελεήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> miséricordieux, SPT. <i>Tob. 14, 9</i>.<p><b>Étym</b>. φ. ἐλεέω.`

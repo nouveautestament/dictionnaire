@@ -1,1 +1,0 @@
-lar[99463]=`<i>enclit. dor. et ion. épq. c</i>. σοί, <i>dat. de</i> σύ.`

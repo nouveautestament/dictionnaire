@@ -1,1 +1,0 @@
-lar[59231]=`<b>ου (ὁ)</b> = <i>lat</i>. Consus, <i>divinité rom</i>. PLUT. <i>Rom. 14, etc</i>.`

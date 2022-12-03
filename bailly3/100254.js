@@ -1,1 +1,0 @@
-lar[100254]=`<b>τρι·κόλουρος, ος, ον</b> <font color="purple">[ῐ]</font> à trois pans coupés, NICOM. <i>Arithm. 2, 14</i>.<p><b>Étym</b>. τρεῖς, κόλουρος.`

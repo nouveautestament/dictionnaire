@@ -1,1 +1,0 @@
-lar[10007]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire d’Antikyra, <i>en Phocide,</i> HDT.<p><b>Étym</b>. Ἀντίκυρα.`

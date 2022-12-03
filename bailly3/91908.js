@@ -1,1 +1,0 @@
-lar[91908]=`<b>ης</b> <font color="purple">[ῐ]</font> <i>c</i>. σπίνος, ALEX. (<i>Com. fr. 3, 416</i>).`

@@ -1,1 +1,0 @@
-lar[5591]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰμ]</font> lutte, SOPH. <i>El. 493</i>.<p><b>Étym</b>. ἁμιλλάομαι.`

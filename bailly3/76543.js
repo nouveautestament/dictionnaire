@@ -1,1 +1,0 @@
-lar[76543]=`<b>παρ·εγκόπτω</b>, intercepter, PLUT. <i>M. 130b</i>.`

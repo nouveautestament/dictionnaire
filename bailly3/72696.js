@@ -1,1 +1,0 @@
-lar[72696]=`<b>ὀρθο·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui écrit correctement, SUID. <i>v°</i> ἀνώγεων.<p><b>Étym</b>. ὀ. γράφω.`

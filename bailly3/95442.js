@@ -1,1 +1,0 @@
-lar[95442]=`<b>συν·εκχέω</b> (<i>part. ao. pass</i>. συνεκχυθείς) :<br><b>      1</b> épancher <i>ou</i> rejeter avec, <i>dat</i>. ARÉT. <i>Caus. m. diut. 2, 13 ; d’où</i> exhaler, ANTH. <i>7, 608</i>.<br><b>      2</b> répandre en foule au dehors, <i>d’où au pass</i>. se répandre en foule au dehors, POL. <i>9, 9, 7 ; 11, 14, 7</i>.`

@@ -1,1 +1,0 @@
-lar[54600]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. de Kélænes, ANTH. <i>7, 696 ; en parl. de Marsyas,</i> ANTH. <i>9, 340</i>.<p><b>Étym</b>. Κελαιναί.`

@@ -1,1 +1,0 @@
-lar[24658]=`<b>διά·θραυστος, ος, ον</b>, qu’on peut facilement mettre en pièces, cassant, fragile, TH. <i>Lap. 11</i>.<p><b>Étym</b>. διαθραύω.`

@@ -1,1 +1,0 @@
-lar[34340]=`<b>ἐν·εορτάζω</b>, célébrer une fête dans, STR. <i>559</i> ; PLUT. <i>Per. c. Fab. 1</i>.`

@@ -1,1 +1,0 @@
-lar[90939]=`<b>σκιο·ειδής, ής, ές :<br>      1</b> qui ressemble aux ombres, AR. <i>Av. 686</i> ; PLAT. <i>Phæd. 81d.</i><br><b>      2</b> sombre, obscur, ARSTT. <i>Col. 5, 11</i>.<p><b>Étym</b>. σκιά, -ωδης.`

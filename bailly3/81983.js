@@ -1,1 +1,0 @@
-lar[81983]=`<b>πολυ·κήριος, ος, ον</b> <font color="purple">[ῠ]</font> très funeste, ANTH. <i>App. 119, 12</i> ; NIC. <i>Th. 798</i>.<p><b>Étym</b>. π. κήρ.`

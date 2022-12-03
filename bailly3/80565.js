@@ -1,1 +1,0 @@
-lar[80565]=`<b>πιτύ·στεπτος, ος, ον</b> <font color="purple">[ῐ]</font> à la couronne de pin, ANTH. <i>6, 253</i>.<p><b>Étym</b>. πίτυς, στεπτός.`

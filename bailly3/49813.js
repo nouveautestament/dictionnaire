@@ -1,1 +1,0 @@
-lar[49813]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ἱστός, MÉN. (<i>Com. fr. 4, 111</i>).`

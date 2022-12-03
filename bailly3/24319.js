@@ -1,1 +1,0 @@
-lar[24319]=`<b>δημο·τερπής, ής, ές</b>, qui charme le peuple, populaire, <i>seul. au cp</i>. -έστερος, DH. <i>Rhet. 1, 8 ; et au</i> <i>• Sup</i>. -έστατος, PLAT. <i>Min. 321a</i>.<p><b>Étym</b>. δῆμος, τέρπω.`

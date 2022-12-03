@@ -1,1 +1,0 @@
-lar[63860]=`<b>μελ·ανθής, ής, ές</b>, à fleur noire, <i>d’où, en gén.,</i> de couleur sombre, ESCHL. <i>Suppl. 154</i>.<p><b>Étym</b>. μέλας, ἄνθος.`

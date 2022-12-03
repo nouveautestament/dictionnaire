@@ -1,1 +1,0 @@
-lar[87725]=`<b>πυο·ειδής, ής, ές</b> <font color="purple">[ῡ]</font> semblable à du pus, ARSTT. <i>H.A. 6, 18, 24</i>.<p><b>Étym</b>. πῦον, εἶδος.`

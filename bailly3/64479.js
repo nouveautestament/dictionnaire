@@ -1,1 +1,0 @@
-lar[64479]=`<b>      1</b> se reposer vers midi, faire la sieste <i>ou</i> méridienne, PLAT. <i>Phædr. 259a.</i><br><b>      2</b> être à midi, PORPH. <i>Antr. nymph. c. 27, p. 24</i>.<p><b>Étym</b>. μεσημβρία.`

@@ -1,1 +1,0 @@
-lar[65156]=`<b>μετεωρο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui apparaît dans les hautes régions, PHIL. PARADOX. <i>VII mir. 6</i>.<p><b>Étym</b>. μ. φαίνω.`

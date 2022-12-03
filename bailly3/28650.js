@@ -1,1 +1,0 @@
-lar[28650]=`<b>ου</b>, <i>adj. m</i>. méchant, malveillant, EL. <i>V.H. 3, 7</i>.<p><b>Étym</b>. δυσμενής.`

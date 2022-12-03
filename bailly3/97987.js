@@ -1,1 +1,0 @@
-lar[97987]=`<b>τεθριππο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> monté sur un char à quatre chevaux, HDT. <i>4, 170</i>.<p><b>Étym</b>. τέθριππος, βαίνω.`

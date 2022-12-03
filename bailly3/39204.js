@@ -1,1 +1,0 @@
-lar[39204]=`<b>ἐπι·συγκροτέω-ῶ</b>, rassembler en outre, <i>acc</i>. JOS. <i>B.J. 1, 1, 6</i>.`

@@ -1,1 +1,0 @@
-lar[72794]=`<b>εως (ἡ)</b> action de diriger sagement, bonne direction, PLUT. <i>M. 166d</i>.<p><b>Étym</b>. ὀρθόω.`

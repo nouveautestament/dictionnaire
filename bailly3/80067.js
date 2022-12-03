@@ -1,1 +1,0 @@
-lar[80067]=`<b>ηκος (ἡ)</b> casque, heaume à panache flottant, IL. <i>8, 308 ; 13, 527, 805 ; 15, 608</i> ; OD. <i>1, 256</i> ; AR. <i>Ran. 1017</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,1 +1,0 @@
-lar[105219]=`<i>ou</i> <b>φή</b>, <i>conj</i>. comme, IL. <i>2, 144 ; 14, 499, sel. Zénodote</i> ; ANTIM. <i>79 Kinkel</i> ; CALL. <i>fr. 518</i> ; HH. <i>Merc. 241 conj</i>.<p><b>Étym</b>. <i>indo-europ</i>. *b<sup>h</sup>e/o-.`

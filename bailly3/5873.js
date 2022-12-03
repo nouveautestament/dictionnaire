@@ -1,1 +1,0 @@
-lar[5873]=`<b>ου</b> <i>épq</i>. <b>εω (ὁ)</b> <font color="purple">[ῡῐ]</font> le fils d’Ampyx, <i>càd</i>. Mopsos, HÉS. <i>Sc. 181</i> ; A.RH. <i>1, 1083, etc</i>.<p><b>Étym</b>. Ἄμπυξ.`

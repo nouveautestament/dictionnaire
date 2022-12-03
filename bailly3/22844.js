@@ -1,1 +1,0 @@
-lar[22844]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> semblable à un vautour, ARSTT. <i>Physiogn. 3, 16</i>.<p><b>Étym</b>. γύψ, -ωδης.`

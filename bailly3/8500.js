@@ -1,1 +1,0 @@
-lar[8500]=`<b>ἀν·επιστρεφής, ή, ές :<br>      1</b> inflexible, CORN. <i>121</i>.<br><b>      2</b> indifférent à, <i>gén</i>. PLUT. <i>M. 881b</i>.<p><b>Étym</b>. ἀν-, ἐπιστρέφω.`

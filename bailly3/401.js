@@ -1,1 +1,0 @@
-lar[401]=`<b>ου (ὁ)</b> Agbalos, <i>Arcadien,</i> HDT. <i>7, 98</i>.`

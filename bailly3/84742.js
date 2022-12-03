@@ -1,1 +1,0 @@
-lar[84742]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de faire des mariages, PLAT. <i>Theæt. 150a</i>.<p><b>Étym</b>. προμνάομαι.`

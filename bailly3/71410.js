@@ -1,1 +1,0 @@
-lar[71410]=`<b>ή, όν</b> <font color="purple">[μῑ]</font> qui concerne les relations, le commerce habituel, PLAT. <i>Def. 415e ;</i> πρός τινα, ISOCR. <i>8d</i>, qui se montre sociable, affable avec qqn ; ἡ ὁμιλητική (<i>s.-e</i>. τέχνη) PLUT. <i>M. 629f</i>, l’art de vivre en société.<p><b>Étym</b>. ὁμιλέω.`

@@ -1,1 +1,0 @@
-lar[81234]=`<b>οῦ (ὁ)</b> action d’arracher l’herbe, de sarcler, TH. <i>C.P. 3, 20, 6</i>.<p><b>Étym</b>. ποάζω.`

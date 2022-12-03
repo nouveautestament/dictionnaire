@@ -1,1 +1,0 @@
-lar[22088]=`<b>γλευκ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui sert à transporter du vin doux (outre de cuir), PHÉRÉCR. (POLL. <i>7, 193).</i><p><b>Étym</b>. γλεῦκος, ἀγαγεῖν.`

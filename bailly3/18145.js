@@ -1,1 +1,0 @@
-lar[18145]=`<b>ἄ·φλοιος, ος, ον</b>, sans écorce, ALC. (PLUT. <i>Flam. 9</i>) ; TH. <i>H.P. 7, 9, 4 ; etc</i>.<p><b>Étym</b>. ἀ, φλοιός.`

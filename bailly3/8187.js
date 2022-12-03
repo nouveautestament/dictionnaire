@@ -1,1 +1,0 @@
-lar[8187]=`<b>ἀν·είκαστος, ος, ον</b>, qui ne peut être assimilé à rien, sans pareil, DÉM. <i>8, 46,</i> SPT. <i>3Macc. 1, 28</i>.<p><b>Étym</b>. ἀν-, εἰκάζω.`

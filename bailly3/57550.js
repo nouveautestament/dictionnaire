@@ -1,1 +1,0 @@
-lar[57550]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰν]</font> Kranaos, <i>ancien roi d’Athènes,</i> APD. <i>3, 14, 5</i> ; Κραναοῦ παῖδες, ESCHL. <i>Eum. 1011, ou</i> Κραναοῦ πολῖται, ANTH. <i>7, 98,</i> les enfants de Kranaos <i>ou</i> les citoyens de Kranaos, <i>càd</i>. les Athéniens.`

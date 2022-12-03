@@ -1,1 +1,0 @@
-lar[72558]=`<b>ου (ὁ)</b> le dieu des mystères, <i>surn. de Bacchus,</i> ORPH. <i>H. 52, 5</i>.<p><b>Étym</b>. ὄργια.`

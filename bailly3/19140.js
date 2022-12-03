@@ -1,1 +1,0 @@
-lar[19140]=`<b>βαρυ·εγκέφαλος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> qui a la cervelle pesante, <i>ironiq</i>. PLUT. <i>M. 1086e</i>.`

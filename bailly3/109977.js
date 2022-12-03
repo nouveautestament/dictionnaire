@@ -1,1 +1,0 @@
-lar[109977]=`<b>ψυχο·μαχέω-ῶ</b> <font color="purple">[ῡᾰ]</font> combattre pour sa vie, combattre en désespéré, POL. <i>1, 58, 7</i>.<p><b>Étym</b>. ψ. μάχη.`

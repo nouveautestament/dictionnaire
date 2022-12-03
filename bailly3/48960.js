@@ -1,1 +1,0 @@
-lar[48960]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> semblable à une courroie, PLUT. <i>Tim. 76c ;</i> DIOSC. <i>2, 201 ; 5, 156</i>.<p><b>Étym</b>. ἱμάς, -ωδης.`

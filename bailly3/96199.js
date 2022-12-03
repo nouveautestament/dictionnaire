@@ -1,1 +1,0 @@
-lar[96199]=`<b>ος, ον</b>, qu’on peut embrasser d’un coup d’œil, pleinement visible, ARSTT. <i>Pol. 2, 19, 9 ; Mir. 130</i> ; POL. <i>2, 28, 9</i> ; DH. <i>9, 24</i> ; PLUT. <i>Tim. 27</i>.<p><b>Étym</b>. συνόψομαι.`

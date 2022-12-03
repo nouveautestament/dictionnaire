@@ -1,1 +1,0 @@
-lar[52775]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> facile à dissoudre, <i>fig</i>. facile à faire cesser, SOPH. <i>El. 1246</i>.<p><b>Étym</b>. καταλύω.`

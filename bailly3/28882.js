@@ -1,1 +1,0 @@
-lar[28882]=`<b>ας (ἡ)</b> cours malheureux des événements, ARR. <i>Epict. 2, 17, 18</i>.<p><b>Étym</b>. δύσροος.`

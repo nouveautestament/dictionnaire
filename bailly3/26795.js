@@ -1,1 +1,0 @@
-lar[26795]=`<b>Διό·νικος, ου (ὁ)</b> <font color="purple">[ῑκ]</font> Dionikos, <i>h</i>. LUC. <i>Conv. 1, 20 ; Nav. 24</i>.<p><b>Étym</b>. Διός, νίκη.`

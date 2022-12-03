@@ -1,1 +1,0 @@
-lar[19772]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> arc, IL. <i>1, 49</i> ; OD. <i>6, 270, etc</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *g<sup>w</sup>ieh₂-, corde ; <i>cf. sanscr</i>. jiyā́.`

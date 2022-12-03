@@ -1,1 +1,0 @@
-lar[56135]=`<b>(ὁ)</b> <font color="purple">[ῠ]</font> Klydôn, <i>h</i>. Q. SM. <i>2, 365</i>.<p><b>Étym</b>. <i>cf</i>. κλύδων.`

@@ -1,1 +1,0 @@
-lar[101858]=`<b>ὑπ·αγγέλλω</b> <font color="purple">[ῠ]</font> faire savoir secrètement, MUS. <i>106</i>.`

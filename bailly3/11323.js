@@ -1,1 +1,0 @@
-lar[11323]=`<b>ἀ·παράλεκτος, ος, ον</b>, à la chevelure en désordre (<i>litt</i>. non rassemblée) PHÉRÉCR. (POLL. <i>2, 35).</i><p><b>Étym</b>. ἀ, παραλέγω.`

@@ -1,1 +1,0 @@
-lar[67243]=`<b>όεσσα, όεν</b> <font color="purple">[ῡ]</font> innombrable, infini, SIB. <i>1, 224</i>.<p><b>Étym</b>. μυρίος.`

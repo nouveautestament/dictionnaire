@@ -1,1 +1,0 @@
-lar[13526]=`<b>ίδος (ἡ)</b> <i>d’ord. au plur.</i> :<br><b>      1</b> embranchement d’une veine, HPC. <i>275, 6, etc.</i> ; d’une montagne, STR. <i>521</i>.<br><b>      2</b> fragment (d’os), esquille, GAL. <i>4, 143 au sg</i>.<p><b>Étym</b>. ἀποσχίζω.`

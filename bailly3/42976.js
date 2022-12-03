@@ -1,1 +1,0 @@
-lar[42976]=`<b>εὔ·πεπτος, ος, ον :<br>      1</b> facile à digérer, HPC. <i>Acut. 385</i> ; ARSTT. <i>Nic. 6, 7, 7</i>.<br><b>      2</b> qui digère facilement, ATH. MÉD. <i>p. 227 Matthäi</i> ; RUF. <i>p. 253 Matthäi</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Probl. 11, 8</i> ; RUF. <i>l. c. Sup</i>. -ότατος, GAL. <i>2, 188</i>.<p><b>Étym</b>. εὖ, πέπτω.`

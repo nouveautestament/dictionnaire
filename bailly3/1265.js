@@ -1,1 +1,0 @@
-lar[1265]=`<i>adv.</i> :<br><b>      1</b> sans crainte, avec confiance, en toute sûreté, HDT. <i>3, 65 ; 9, 109</i> ; LYS. <i>170, 32, etc.</i><br><b>      2</b> librement, facilement, THC. <i>2, 40</i> ; CIC. <i>Att. 13, 52</i>.<p>•<i> Cp</i>. ἀδεέστερον, THC. <i>2, 20, etc. ; • Sup</i>. ἀδεέστατα, PLAT. <i>Soph. 256d</i>.<p><b>Étym</b>. ἀδεής.`

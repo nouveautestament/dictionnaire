@@ -1,1 +1,0 @@
-lar[67367]=`<b>οῦ (τὸ)</b> Myrtènon, <i>v. de la Chersonèse de Thrace,</i> DÉM. <i>28, 27 Baiter-Sauppe</i>.`

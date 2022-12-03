@@ -1,1 +1,0 @@
-lar[20104]=`<b>ίδος</b>, <i>adj. f</i>. de Béotie, XÉN. ; ἡ β. (<i>s.-e</i>. χώρα) A.RH. STR. la Béotie.<p><b>Étym</b>. βοιωτός.`

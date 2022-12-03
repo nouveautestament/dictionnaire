@@ -1,1 +1,0 @@
-lar[50183]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kabeiros, <i>h</i>. Q. SM. <i>1, 267</i>.<p><b>Étym</b>. <i>cf</i>. Κάβειροι.`

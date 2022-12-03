@@ -1,1 +1,0 @@
-lar[30376]=`<b>εἰκοσι·και·τέτρατος, η, ον</b> <font color="purple">[ᾰ]</font> vingt-quatrième, ANTH. <i>7, 343</i>.<p><b>Étym</b>. εἴ. καί, τέταρτος <i>avec métathèse</i>.`

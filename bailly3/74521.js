@@ -1,1 +1,0 @@
-lar[74521]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> fluctuation d’esprit, irrésolution, inconstance, ANTH. <i>5, 302</i>.<p><b>Étym</b>. παλίμβολος.`

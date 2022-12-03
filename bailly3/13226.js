@@ -1,1 +1,0 @@
-lar[13226]=`<b>εως (ἡ) :<br>      1</b> écoulement, POL. <i>10, 28</i> ; PLUT. <i>M. 933c.</i><br><b>      2</b> <i>p. suite,</i> cessation, JUNC. (STOB. <i>Fl. 115, 26).</i><p><b>Étym</b>. ἀπορρέω.`

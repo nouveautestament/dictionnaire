@@ -1,1 +1,0 @@
-lar[98648]=`<b>τετρά·πνη, ης</b>, <i>adj. f</i>. qui souffle par quatre narines <i>ou</i> quatre naseaux, LYC. <i>1313</i>.<p><b>Étym</b>. τ. πνέω.`

@@ -1,1 +1,0 @@
-lar[4957]=`<b>ἀλουτέω-ῶ</b>, ne pas se laver, être sale, HPC. <i>338, 23, etc.</i> ; ARR. <i>Epict. 3, 22, 73</i>.<p><b>Étym</b>. ἄλουτος.`

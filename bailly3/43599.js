@@ -1,1 +1,0 @@
-lar[43599]=`<b>εὐ·τόκιος, ος, ον</b>, qui procure un enfantement heureux <i>ou</i> facile, GEOP. <i>13, 10, 12</i>.<p><b>Étym</b>. εὖ, τίκτω.`

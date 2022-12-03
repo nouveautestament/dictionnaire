@@ -1,1 +1,0 @@
-lar[55057]=`<b>ου (ὁ)</b> Kestros :<br><b>      1</b> <i>Troyen,</i> Q. SM. <i>8, 293</i>.<br><b>      2</b> <i>fl. de Pamphylie,</i> NIC. <i>Al. 404</i>.`

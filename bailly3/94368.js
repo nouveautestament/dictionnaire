@@ -1,1 +1,0 @@
-lar[94368]=`<b>συμ·προπίπτω</b>, survenir <i>ou</i> s’avancer ensemble, POL. <i>31, 22, 1</i>.`

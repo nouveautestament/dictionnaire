@@ -1,1 +1,0 @@
-lar[34275]=`(<i>seul. prés</i>.) avoir envie de remettre, DC. <i>46, 37, 1 conj</i>.<p><b>Étym</b>. ἐνδίδωμι.`

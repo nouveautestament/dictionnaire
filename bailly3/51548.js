@@ -1,1 +1,0 @@
-lar[51548]=`<b>κανναβό·κοκκος, ου (ὁ)</b> <font color="purple">[νᾰ]</font> graine de chanvre, MOSCHION <i>Mul. pass. 157, p. 237</i>.<p><b>Étym</b>. κάνναβος, κόκκος.`

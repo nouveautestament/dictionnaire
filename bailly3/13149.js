@@ -1,1 +1,0 @@
-lar[13149]=`<i>adv</i>., au loin en avant, dans le lointain en avant, IL. <i>23, 832</i> ; OD. <i>4, 811</i>.<p><b>Étym</b>. ἀποπρό, -θι.`

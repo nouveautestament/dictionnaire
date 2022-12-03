@@ -1,1 +1,0 @@
-lar[89021]=`<i>adv</i>., avec force, avec vigueur, HPC. <i>268, 23</i>.<p><b>Étym</b>. *ῥώσκομαι ; <i>cf</i>. ῥώννυμαι.`

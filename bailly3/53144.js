@@ -1,1 +1,0 @@
-lar[53144]=`<b>ου (τὸ) :<br>      1</b> médicament qu’on avale sans le mâcher, pilule, HPC. <i>407, 32, etc.</i> ; TH. <i>H.P. 9, 20, 2</i>.<br><b>      2</b> <i>au pl</i>. aliments, <i>en gén</i>. ARÉT. <i>p. 97, 20</i>.<p><b>Étym</b>. καταπίνω.`

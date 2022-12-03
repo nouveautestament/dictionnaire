@@ -1,1 +1,0 @@
-lar[107457]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> respectable, noble, bon, AR. <i>Lys. 91</i>.<p>•<i> Cp</i>. χαϊώτερος, AR. <i>Lys. 1157</i>.`

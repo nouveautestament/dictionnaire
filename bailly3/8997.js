@@ -1,1 +1,0 @@
-lar[8997]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> échange de cas <i>ou</i> de modes par hypallage, DYSC. <i>Pron. 291e ; Conj. 502, 3 ; Synt. 213, 20</i> ; PHALAR. <i>Ep. 60</i>.<p><b>Étym</b>. ἀνθυπαλλάσσω.`

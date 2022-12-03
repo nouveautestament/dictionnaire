@@ -1,1 +1,0 @@
-lar[107128]=`<i>ou</i> <b>φιλύκη, ης (ἡ)</b> sorte de nerprun, TH. <i>H.P. 1, 9, 3, etc</i>.`

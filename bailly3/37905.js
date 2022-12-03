@@ -1,1 +1,0 @@
-lar[37905]=`<b>ἐπι·κανθίς, ίδος (ἡ)</b> caroncule lacrymale, HIPPIATR. <i>p. 119</i>.<p><b>Étym</b>. ἐπί, κανθός.`

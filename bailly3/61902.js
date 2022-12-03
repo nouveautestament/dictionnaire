@@ -1,1 +1,0 @@
-lar[61902]=`<b>α (ὁ)</b> Lykortas, <i>h</i>. PLUT. <i>Phil. 20</i> ; LUC. <i>Macr. 22</i>.`

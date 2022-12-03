@@ -1,1 +1,0 @@
-lar[12336]=`<b>ου (ὁ)</b> Apodrasippidès, <i>litt</i>. qui se sauve à cheval <i>ou</i> au galop, <i>n. com. d’h</i>. AR. <i>Vesp. 185</i>.<p><b>Étym</b>. ἀποδιδράσκω, ἵππος.`

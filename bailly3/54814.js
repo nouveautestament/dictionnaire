@@ -1,1 +1,0 @@
-lar[54814]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>seul. pl</i>. vaisselle d’argile, <i>d’où</i> vaisselle <i>en gén., même d’or ou d’argent,</i> PTOL. (ATH. <i>229b</i>).<p><b>Étym</b>. κέραμος.`

@@ -1,1 +1,0 @@
-lar[46815]=`<b>Θεό·τιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Théotimos, <i>h</i>. THGN. <i>881</i> ; DÉM. <i>54, 7 Baiter-Sauppe, etc</i>.<p>➳ <i>Par contr</i>. Θούτιμος, CIA. <i>1, 347, 1 (6<sup>e</sup> siècle av. J.-C.) v. Meisterh. p. 57, § 26, 1</i>.`

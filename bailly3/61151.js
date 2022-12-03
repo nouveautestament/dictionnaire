@@ -1,1 +1,0 @@
-lar[61151]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠᾰκ]</font> fonction de gardien de port, ARSTT. <i>Pol. 6, 8</i>.<p><b>Étym</b>. λιμενοφύλαξ.`

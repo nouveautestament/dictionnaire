@@ -1,1 +1,0 @@
-lar[102049]=`<b>ὑπ·αττικός, ή, όν</b> <font color="purple">[ῠ]</font> à demi attique, TIMON <i>50, 3</i>. (DL. <i>2, 19</i>).`

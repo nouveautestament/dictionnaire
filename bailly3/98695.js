@@ -1,1 +1,0 @@
-lar[98695]=`<b>τετραφαλαγγ·αρχία, ας (ἡ)</b> <font color="purple">[ᾱφᾰλ]</font> commandement de quatre phalanges, ARR. <i>Tact. 10, 8</i> ; EL. TACT. <i>9 ; v</i>. τετραφαλαγγία.<p><b>Étym</b>. τετραφαλαγγία, ἄρχω.`

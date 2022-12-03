@@ -1,1 +1,0 @@
-lar[81073]=`<b>οῦ (ὁ)</b> briquetier, PLAT. <i>Theæt. 147a</i>.<p><b>Étym</b>. πλίνθος, ἔργον.`

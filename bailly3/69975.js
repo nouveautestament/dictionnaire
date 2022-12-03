@@ -1,1 +1,0 @@
-lar[69975]=`<b>ξυστρο·ειδής, ής, ές</b>, semblable à une étrille, raboteux, EROT. <i>v°</i> ἄμβην.<p><b>Étym</b>. ξύστρα, εἶδος.`

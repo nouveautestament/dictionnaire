@@ -1,1 +1,0 @@
-lar[53299]=`<b>ῆς (ἡ)</b> commencement, début, CALLICRAT. (STOB. <i>85, 16</i>) ; POL. <i>2, 12, 8, etc</i>.<p><b>Étym</b>. κατάρχω.`

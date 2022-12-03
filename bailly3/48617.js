@@ -1,1 +1,0 @@
-lar[48617]=`<b>ἱερο·πομπός, οῦ (ὁ)</b> député chargé de porter le tribut sacré, <i>chez les Juifs,</i> PHIL. <i>2, 224, 578</i>.<p><b>Étym</b>. ἱ. πέμπω.`

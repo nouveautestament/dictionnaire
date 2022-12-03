@@ -1,1 +1,0 @@
-lar[2142]=`<font color="purple">[ρᾱ]</font> <i>adv</i>., sans cuirasse, NYSS. <i>1, 462</i>.`

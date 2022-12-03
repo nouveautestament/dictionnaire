@@ -1,1 +1,0 @@
-lar[108227]=`<b>ατος (τὸ)</b> <font color="purple">[ῑδ]</font> chanson de l’hirondelle, <i>sorte de chanson</i> populaire (<i>Bgk, Lyr. gr. t. 3, p. 671).</i><p><b>Étym</b>. χελιδονίζω.`

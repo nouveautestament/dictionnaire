@@ -1,1 +1,0 @@
-lar[65519]=`<b>όεσσα, όεν :<br>      1</b> sage, prudent, <i>ép. de Zeus,</i> HH. <i>Ap. 344</i> ; HÉS. <i>O. 51, 767</i>.<br><b>      2</b> prudemment <i>ou</i> habilement imaginé (remède) OD. <i>4, 227</i>.<p><b>Étym</b>. μῆτις.`

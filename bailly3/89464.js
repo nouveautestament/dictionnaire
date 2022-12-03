@@ -1,1 +1,0 @@
-lar[89464]=`<b>σαρκο·φθόρος, ος, ον</b>, qui consume <i>ou</i> détruit la chair, ORPH. <i>H. 69, 7</i>.<p><b>Étym</b>. σ. φθείρω.`

@@ -1,1 +1,0 @@
-lar[14078]=`<b>υγος (ἡ)</b> <font color="purple">[ῠγ]</font> provin de vigne, SPT. <i>Ezech. 17, 6</i> ; GEOP. <i>5, 18, 1</i>.<p><b>Étym</b>. ἀπορύσσω.`

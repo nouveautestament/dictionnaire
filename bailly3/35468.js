@@ -1,1 +1,0 @@
-lar[35468]=`<b>ἐξ·ανασπάω-ῶ</b>, tirer du fond de : ἔκ τινος, HDT. <i>5, 85</i> ; τινος, EUR. <i>Ph. 1139,</i> du fond de qqe ch.`

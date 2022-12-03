@@ -1,1 +1,0 @@
-lar[110284]=`<b>ὠμο·σπάρακτος, ος, ον</b> <font color="purple">[πᾰ]</font> déchiré tout cru, tout vif, AR. <i>Eq. 345</i>.<p><b>Étym</b>. ὠμός, σπαράσσω.`

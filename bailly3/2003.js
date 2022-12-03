@@ -1,1 +1,0 @@
-lar[2003]=`<b>ἀ·θέσφατος, ος, ον</b> <font color="purple">[φᾰ]</font> que les dieux mêmes ne sauraient exprimer, <i>càd</i>. dont on ne peut dire la grandeur, la beauté : νὺξ ἀ. OD. <i>11, 373,</i> nuit sans fin ; ὕμνος ἀ. HÉS. <i>O. 660,</i> chant d’une inexprimable beauté ; <i>une fois dans les Trag.</i> : ἀ. θέα, EUR. <i>I.A. 232,</i> spectacle admirable.`

@@ -1,1 +1,0 @@
-lar[39732]=`<b>ἐπι·χρώννυμι</b>, colorer à la surface, teindre légèrement, PLUT. <i>M. 395e ;</i> LUC. <i>Dom. 8 ; fig</i>. PLAT. <i>Ep. 340d</i>.`

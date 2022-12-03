@@ -1,1 +1,0 @@
-lar[24290]=`<b>ου (ὁ)</b> Dèmos, <i>h</i>. PLAT. <i>Lys. 205d ;</i> AR. <i>Vesp. 98 ; Lys. 19, etc</i>.<p><b>Étym</b>. <i>v</i>. δῆμος.`

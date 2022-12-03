@@ -1,1 +1,0 @@
-lar[49909]=`<i>adv</i>., sèchement, maigrement, <i>d’où</i> faiblement, HPC. <i>196b ;</i> LYCURG. <i>157 fin ; en parl. du style,</i> simplement, sans ornements oratoires, POL. <i>1, 2, 6</i>.<p><b>Étym</b>. ἰσχνός.`

@@ -1,1 +1,0 @@
-lar[25700]=`<b>δια·ταλαντόομαι-οῦμαι</b> <font color="purple">[τᾰ]</font> (<i>seul. part. prés</i>.) se balancer de côté et d’autre, <i>en parl. d’un navire,</i> A. TAT. <i>3, 1</i>.`

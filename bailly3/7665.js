@@ -1,1 +1,0 @@
-lar[7665]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font> <i>c</i>. ἀναστατήρ ESCHL. <i>Ag. 1227</i>.`

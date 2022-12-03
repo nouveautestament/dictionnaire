@@ -1,1 +1,0 @@
-lar[42689]=`<b>Εὐ·μήδης, ους (ὁ)</b> Eumèdès, <i>h</i>. IL. <i>10, 314</i> ; CALL. <i>L. Pall. 37</i> ; ANTH. <i>6, 91 ; 10, 99, etc</i>.<p>➳ <i>Gén. épq</i>. -εος, IL. <i>10, 314</i> ; ANTH. <i>App. 9 ; gén. dor</i>. -ευς, THCR. <i>Idyl. 5, 134 ; acc</i>. -ην, APD. <i>1, 8, 5</i>.<p><b>Étym</b>. εὖ, μήδομαι.`

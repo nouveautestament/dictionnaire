@@ -1,1 +1,0 @@
-lar[31421]=`<b>ἐκ·κεραΐζω</b> <font color="purple">[ᾰ]</font> (<i>prés</i>.) :<br><b>      1</b> abattre, renverser, ANTH. <i>9, 312</i>.<br><b>      2</b> <i>p. ext</i>. détruire, piller, CALL. <i>Cer. 50</i>.`

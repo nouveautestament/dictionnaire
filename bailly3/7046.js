@@ -1,1 +1,0 @@
-lar[7046]=`<b>ἀνα·κυμβαλιάζω</b> (<i>seul. impf</i>.) <font color="purple">[βᾰ]</font> être renversé, avec un bruit retentissant, IL. <i>16, 379</i>.<p><b>Étym</b>. ἀνά, κύμβαλον.`

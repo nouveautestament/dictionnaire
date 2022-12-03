@@ -1,1 +1,0 @@
-lar[76902]=`<b>ίδος</b>, <i>voc</i>. <b>-ί (ἡ)</b> <font color="purple">[ῐδ]</font> Parthénis, <i>f</i>. ANTH. <i>4, 1</i> ; LUC. <i>D. mer. 15, 1, etc</i>.<p><b>Étym</b>. παρθένος.`

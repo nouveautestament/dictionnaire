@@ -1,1 +1,0 @@
-lar[34377]=`<i>adv</i>., avec activité, avec énergie, XÉN. <i>Mem. 3, 4, 11</i> ; POL. <i>1, 11, 6, etc</i>.<p>•<i> Cp</i>. -ότερον, POL. <i>4, 59, 2</i>.<p><b>Étym</b>. ἐνεργός.`

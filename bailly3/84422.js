@@ -1,1 +1,0 @@
-lar[84422]=`<b>προ·καθιδρύω</b>, établir auparavant, JOS. <i>A.J. 1, 18, 10</i>.`

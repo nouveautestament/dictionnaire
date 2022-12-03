@@ -1,1 +1,0 @@
-lar[79441]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> glissant tout autour, PLUT. <i>Alex. 16, etc. ; fig</i>. PLUT. <i>M. 317e</i>.<p><b>Étym</b>. περισφάλλομαι.`

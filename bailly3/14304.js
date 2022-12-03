@@ -1,1 +1,0 @@
-lar[14304]=`<b>ἀργυρ·άγχη, ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>litt</i>. « argyrancie » <i>maladie de l’argent, mot de Démade contre Démosthène qui alléguait un mal de gorge ou esquinancie</i> = κυνάγχη, PLUT. <i>Dem. 25</i> ; DÉMAD. (POLL. <i>7, 104).</i><p><b>Étym</b>. ἄργυρος, ἄγχω.`

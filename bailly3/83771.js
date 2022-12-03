@@ -1,1 +1,0 @@
-lar[83771]=`<b>ος</b> <i>ou</i> <b>η, ον</b> <font color="purple">[ᾰ]</font> qui convient aux brebis ou, <i>en gén</i>. aux troupeaux, PHIL. <i>2, 91, 131</i>.<p><b>Étym</b>. προβατεύω.`

@@ -1,1 +1,0 @@
-lar[45561]=`<b>ἡμι·σπάρακτος, ος, ον</b> <font color="purple">[πᾰ]</font> à moitié déchiré, NAZ. <i>2, 192</i>.<p><b>Étym</b>. ἡμι-, σπαράσσω.`

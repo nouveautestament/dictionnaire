@@ -1,1 +1,0 @@
-lar[30491]=`<b>ωτος (ὁ)</b> hilote, <i>esclave lacédémonien,</i> THC. <i>1, 101, etc.</i> ; XÉN. <i>Hell. 1, 2, 18</i> ; PLUT. <i>Lyc. 1, etc</i>.<p><b>Étym</b>. <i>cf</i>. εἷλον, <i>v</i>. αἱρέω.`

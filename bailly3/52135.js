@@ -1,1 +1,0 @@
-lar[52135]=`<b>κατα·βαυκαλίζω</b> <font color="purple">[κᾰ]</font><br><b>      1</b> endormir par des chants, COM. (EM. <i>192, 19</i>).<br><b>      2</b> avaler, SOPATR. (ATH. <i>784b</i>).<p><b>Étym</b>. κ. βαύκαλις.`

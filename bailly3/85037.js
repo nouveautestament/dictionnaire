@@ -1,1 +1,0 @@
-lar[85037]=`<b>πρό·πυργος, ος, ον</b>, qu’on célèbre pour le salut des remparts, <i>en parl. d’un sacrifice,</i> ESCHL. <i>Ag. 1168</i>.<p><b>Étym</b>. π. πύργος.`

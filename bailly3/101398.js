@@ -1,1 +1,0 @@
-lar[101398]=`<b>ὑγρο·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> hydrocéphale, <i>càd</i>. dont la tête est pleine d’eau, ARSTT. <i>Probl. 1, 16, 2</i> ; PROCL. <i>Ptol. p. 237</i>.<p><b>Étym</b>. ὑ. κεφαλή.`

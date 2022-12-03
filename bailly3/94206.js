@@ -1,1 +1,0 @@
-lar[94206]=`<b>συμ·περιπόλησις, εως (ἡ)</b> action de tourner ensemble autour, évolution simultanée autour, PROCL. <i>Plat. 1 Alc. p. 138</i>.<p><b>Étym</b>. συμπεριπολέω.`

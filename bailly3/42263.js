@@ -1,1 +1,0 @@
-lar[42263]=`<b>εὐθυμο·ποιέω-ῶ</b> <font color="purple">[ῡ]</font> rendre confiant <i>ou</i> joyeux, BAS. <i>1, 380 Migne</i>.<p><b>Étym</b>. εὔθυμος, ποιέω.`

@@ -1,1 +1,0 @@
-lar[69211]=`<b>ας (ἡ) :<br>      1</b> celle qui conduit la fiancée chez l’époux, AR. <i>Ach. 1056</i> ; PLUT. <i>Lyc. 15</i>.<br><b>      2</b> fiancée, épouse, SYN. <i>160b</i>.<p><b>Étym</b>. νυμφεύω.`

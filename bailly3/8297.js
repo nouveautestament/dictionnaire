@@ -1,1 +1,0 @@
-lar[8297]=`<b>ἀν·ελλήνιστος, ος, ον</b>, non grec, contraire aux mœurs <i>ou</i> à la langue des Grecs, SEXT. <i>M. 1, 181</i>.<p><b>Étym</b>. ἀν-, ἑλληνίζω.`

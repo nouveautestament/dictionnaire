@@ -1,1 +1,0 @@
-lar[32516]=`<b>*ἐλασσονάκις</b>, <i>seul. att</i>. <b>ἐλαττονάκις</b> <font color="purple">[νᾰ]</font> <i>adv</i>., moins souvent, plus rarement, PLAT. <i>Theæt. 148a ;</i> ARSTT. <i>Probl. 5, 22</i>.<p><b>Étym</b>. ἐλάσσων, -άκις.`

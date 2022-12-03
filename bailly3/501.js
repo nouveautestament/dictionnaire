@@ -1,1 +1,0 @@
-lar[501]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> le fait de n’avoir pas été engendré, NAZ. <i>Or. 25, t. 1, p. 1221b</i>.<p><b>Étym</b>. ἀγέννητος.`

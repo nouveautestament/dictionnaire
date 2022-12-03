@@ -1,1 +1,0 @@
-lar[84647]=`<b>προ·λεσχηνεύομαι</b>, s’entretenir auparavant : τινι περί τινος, HDT. <i>6, 4,</i> de qqe ch. avec qqn.`

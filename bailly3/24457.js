@@ -1,1 +1,0 @@
-lar[24457]=`<b>ῆς (ἡ)</b> action de tremper, DIOSC. <i>2, 129</i> ; ANTYLL. (ORIB. <i>1, 301 ; 2, 334 B.-Dar</i>.).<p><b>Étym</b>. διαβρέχω.`

@@ -1,1 +1,0 @@
-lar[26496]=`<i>nom indien de l’oiseau</i> δίκαιον, EL. <i>N.A. 4, 41</i>.`

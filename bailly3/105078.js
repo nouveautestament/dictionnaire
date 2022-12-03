@@ -1,1 +1,0 @@
-lar[105078]=`<b>α (ὁ)</b> Pheidôlas, <i>h</i>. ANTH. <i>App. 389</i>.<p><b>Étym</b>. φειδωλή.`

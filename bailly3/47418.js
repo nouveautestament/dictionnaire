@@ -1,1 +1,0 @@
-lar[47418]=`<b>ου (ὁ)</b> qui meurtrit, qui brise, GAL. <i>2, 99</i>.<p><b>Étym</b>. θλάω.`

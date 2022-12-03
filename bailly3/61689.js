@@ -1,1 +1,0 @@
-lar[61689]=`<b>ῆρος (ὁ)</b> baignoire, SPT. <i>Ex. 30, 18 ; Lev. 8, 11 ; 2Reg. 8, 8, etc.</i> ; ATH. <i>207f</i>.<p><b>Étym</b>. λούω.`

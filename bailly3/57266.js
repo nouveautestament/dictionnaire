@@ -1,1 +1,0 @@
-lar[57266]=`<b>ητος (ἡ)</b> bon ordre, <i>au phys. et au mor. ; d’où</i> modération d’esprit <i>ou</i> de caractère, convenance, décence, AR. <i>Pl. 564</i> ; PLAT. <i>Def. 412d, Gorg. 508a ;</i> ARSTT. <i>Nic. 2, 8</i> ; LUC. <i>Tim. 55</i>.<p><b>Étym</b>. κόσμιος.`

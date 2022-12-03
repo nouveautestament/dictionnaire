@@ -1,1 +1,0 @@
-lar[34817]=`<b>ἐν·οίκιος, ος, ον :<br>   I</b> <i>adj</i>. domestique, ESCHL. <i>Eum. 866</i>.<br><b>   II</b> <i>subst</i>. τὸ ἐνοίκιον :<br><b>      1</b> prix d’un loyer, loyer, DÉM. <i>1179, 23</i> ; IS. <i>58, 23</i> ; LUC. <i>D. mer. 7, 2</i>.<br><b>      2</b> <i>au pl</i>. demeure, DP. <i>668</i>.<p><b>Étym</b>. ἔνοικος.`

@@ -1,1 +1,0 @@
-lar[55453]=`<b>ου (ὁ)</b> Killès, <i>Macédonien,</i> PLUT. <i>Demetr. 6</i>.`

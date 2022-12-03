@@ -1,1 +1,0 @@
-lar[76712]=`<b>παρ·ενοράω-ῶ</b> (<i>seul. ao.2</i> παρενεῖδον) regarder de côté <i>ou</i> à la dérobée, AR. <i>Lys. 156 dout</i>.`

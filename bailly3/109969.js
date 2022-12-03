@@ -1,1 +1,0 @@
-lar[109969]=`<b>ψυχο·δαΐκτης, ου</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. qui déchire l’âme, ANTH. <i>9, 524, 24</i>.<p><b>Étym</b>. ψ. δαΐζω.`

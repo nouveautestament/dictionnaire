@@ -1,1 +1,0 @@
-lar[70087]=`<b>ἡδεδί, τοδεδί</b> <font color="purple">[ῑ]</font> <i>c</i>. ὁδὶ δέ, <i>etc</i>. AR. <i>Av. 18, Eccl. 989</i> ; EUP. (<i>Com. fr. 2, 568</i>).`

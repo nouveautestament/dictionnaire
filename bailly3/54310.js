@@ -1,1 +1,0 @@
-lar[54310]=`<b>ων (οἱ)</b> habitants de Kaunos, HDT. <i>1, 176</i>.<p><b>Étym</b>. Καῦνος².`

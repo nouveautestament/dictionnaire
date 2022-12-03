@@ -1,1 +1,0 @@
-lar[10779]=`<font color="purple">[ῑ]</font> <i>adv</i>., sans amende, <i>d’où</i> impunément, JOS. <i>A.J. 16, 9, 1</i>.`

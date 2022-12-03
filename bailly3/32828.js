@@ -1,1 +1,0 @@
-lar[32828]=`<b>ἑλικ·ῶπις, ιδος</b> <font color="purple">[ῐκ]</font> <i>f. de</i> ἑλίκωψ, IL. <i>1, 98</i> ; HÉS. <i>Th. 298</i> ; PD. <i>P. 6, 1</i>.`

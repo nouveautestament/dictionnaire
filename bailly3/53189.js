@@ -1,1 +1,0 @@
-lar[53189]=`<b>κατα·πύθω</b> <font color="purple">[ῡ]</font> faire pourrir, HH. <i>Ap. 371 ; d’où au pass</i>. pourrir, être pourri, IL. <i>23, 328</i>.`

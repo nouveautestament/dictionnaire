@@ -1,1 +1,0 @@
-lar[8226]=`<b>ἀν·εκδήμητος, ος, ον</b>, qui ne convient pas pour un voyage, PLUT. <i>M. 269d</i>.<p><b>Étym</b>. ἀν-, ἐκδημέω.`

@@ -1,1 +1,0 @@
-lar[33971]=`<b>ἐν·αποξύω</b> <font color="purple">[ῡ]</font> racler en dedans, CLÉM. <i>2, 344 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[75186]=`<b>οντος (ὁ)</b> <font color="purple">[τᾰ]</font> Pantaléôn :<br><b>      1</b> <i>frère de Crésus,</i> HDT. <i>1, 92</i>.<br><b>      2</b> <i>Athénien,</i> LYS. <i>10, 5 Baiter-Sauppe</i>.<br><b>      3</b> <i>autres,</i> PLUT. <i>Arat. 33, etc</i>.`

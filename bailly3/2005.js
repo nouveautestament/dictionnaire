@@ -1,1 +1,0 @@
-lar[2005]=`<b>ατος (τὸ)</b> iniquité, prévarication, SPT. <i>2Reg. 8, 50 ; 2Par. 36, 14 ; Jer. 12, 1</i> ; DH. <i>2, 708 Reiske</i>.<p><b>Étym</b>. ἀθετέω.`

@@ -1,1 +1,0 @@
-lar[97170]=`<b>σωληνόω-ῶ</b>, creuser en forme de canal <i>ou</i> de tuyau, P. ÉG. <i>6, 106</i>.<p><b>Étym</b>. σωλήν.`

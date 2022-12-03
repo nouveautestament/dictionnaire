@@ -1,1 +1,0 @@
-lar[41232]=`faire métier de courtisane, PLUT. <i>Ant. 18 ; ou</i> de prostitué, THPP. (POL. <i>8, 11, 10</i>) ; DS. <i>12, 21</i>.<p><b>Étym</b>. ἑταῖρος.`

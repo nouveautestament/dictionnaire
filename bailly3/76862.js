@@ -1,1 +1,0 @@
-lar[76862]=`<b>παρ·ήλιος, ος, ον</b>, qui est auprès <i>ou</i> vis-à-vis du soleil, PTOL. <i>Tetr. 100</i> ; ὁ π. ARSTT. <i>Meteor. 3, 2, 6, ou</i> τὸ παρήλιον, ARAT. <i>881,</i> parhélie, <i>réflexion du soleil dans les vapeurs de l’air</i>.<p><b>Étym</b>. π. ἥλιος.`

@@ -1,1 +1,0 @@
-lar[42221]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de frapper en droite ligne, PLUT. <i>Nic. 25</i>.<p><b>Étym</b>. εὐθυβόλος.`

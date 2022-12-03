@@ -1,1 +1,0 @@
-lar[26241]=`<b>δι·εξοιδέω-ῶ</b> (<i>part. pf</i>. -ῳδηκότι) se gonfler, PHILSTR. <i>Im. 1, 13</i>.`

@@ -1,1 +1,0 @@
-lar[4079]=`<font color="purple">[ᾰᾰ]</font> être troublé, anxieux, IL. <i>10, 94</i>.<p><b>Étym</b>. <i>pf. pass. redoublé de</i> ἀλυκτέω, <i>au sens d’un prés</i>.`

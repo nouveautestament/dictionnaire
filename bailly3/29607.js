@@ -1,1 +1,0 @@
-lar[29607]=`<b>ου (τὸ)</b> LUC. <i>Lex. 3 ; d’ord. plur</i>. ἔγκατα, IL. <i>11, 176</i> ; OD. <i>9, 293</i> ; HÉS. <i>Th. 538</i> ; LUC. <i>Cauc. 20, etc</i>. intestins, entrailles.<p>➳ <i>Dat. pl</i>. ἔγκασι, IL. <i>11, 438</i>.<p><b>Étym</b>. ἐγκάς.`

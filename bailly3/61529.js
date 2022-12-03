@@ -1,1 +1,0 @@
-lar[61529]=`<b>λογον·εχόντως</b>, <i>adv</i>., avec prudence <i>ou</i> réflexion, ISOCR. <i>152a</i>.<p><b>Étym</b>. <i>accus. de</i> λόγος, ἔχων ; <i>cf</i>. νουνεχόντως.`

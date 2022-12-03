@@ -1,1 +1,0 @@
-lar[89076]=`<b>ου (ὁ)</b> <font color="purple">[γᾰ]</font> Sangarios :<br><b>      1</b> <i>fl. de Bithynie (auj</i>. Sakarya) IL. <i>3, 187 ; 16, 719, etc.</i><br><b>      2</b> <i>dieu de ce fleuve,</i> HÉS. <i>Th. 344</i>.`

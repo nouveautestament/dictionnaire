@@ -1,1 +1,0 @@
-lar[48094]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne les sacrifices, qui sert aux sacrifices, LUC. <i>Pisc. 45</i> ; ἡ θυτική (<i>s.-e</i>. τέχνη) ATH. <i>659d ;</i> HDN <i>8, 3 ; ou</i> τὸ θυτικόν, PLUT. <i>M. 904e</i>, la science des sacrifices <i>ou</i> de la divination.<p><b>Étym</b>. θύω¹.`

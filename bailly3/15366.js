@@ -1,1 +1,0 @@
-lar[15366]=`<b>ἀρτι·πόλεμος, ος, ον</b> <font color="purple">[ῐ]</font> qui vient de faire la guerre, APP. <i>Syr. 37 dout</i>.<p><b>Étym</b>. ἄ. πόλεμος.`

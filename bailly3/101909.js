@@ -1,1 +1,0 @@
-lar[101909]=`<b>οῦ (ὁ, ἡ)</b> <font color="purple">[ῠᾰ]</font> qui entend et répète les paroles d’autrui, interprète, A.RH. <i>4, 1381</i>.<p><b>Étym</b>. ὑπακούω.`

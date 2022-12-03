@@ -1,1 +1,0 @@
-lar[26592]=`<b>ας (ἡ)</b> <font color="purple">[τᾱ]</font> dictature, PLUT. <i>Fab. 3</i>.<p><b>Étym</b>. δικτάτωρ.`

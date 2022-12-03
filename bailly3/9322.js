@@ -1,1 +1,0 @@
-lar[9322]=`<b>ἀν·όροφος, ος, ον</b>, sans toit, sans abri, EUR. <i>Bacch. 38</i>.<p><b>Étym</b>. ἀν-, ὄ.`

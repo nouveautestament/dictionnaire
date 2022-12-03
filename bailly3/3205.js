@@ -1,1 +1,0 @@
-lar[3205]=`<b>*ἀ·καταπόνητος</b>, <i>seul. dor</i>. <b>-πόνατος, ος, ον</b> <font color="purple">[νᾱ]</font> infatigable, PHILOL. <i>B 21, p. 417, 8</i> (STOB. <i>Ecl. 1, 420).</i><p><b>Étym</b>. ἀ, καταπονέω.`

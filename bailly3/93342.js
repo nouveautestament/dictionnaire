@@ -1,1 +1,0 @@
-lar[93342]=`<b>συγ·κατανεύω</b> : donner son assentiment à, <i>dat</i>. POL. <i>3, 52, 6, etc. ; avec double rég.</i> : τινί τι, POL. <i>7, 4, 9,</i> à qqn pour qqe ch. ; <i>abs</i>. ANTH. <i>5, 287</i>.`

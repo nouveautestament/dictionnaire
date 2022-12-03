@@ -1,1 +1,0 @@
-lar[36829]=`<b>ἐπασσυτερο·τριβής, ής, ές</b> <font color="purple">[ῠῐ]</font> qui frappe à coups pressés, ESCHL. <i>Ch. 426</i>.<p><b>Étym</b>. ἐπασσύτερος, τρίβω.`

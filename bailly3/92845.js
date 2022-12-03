@@ -1,1 +1,0 @@
-lar[92845]=`<b>ου</b>, <i>adj. m</i>. de Stratos, <i>v. d’Acarnanie,</i> THC. <i>2, 81</i>.<p><b>Étym</b>. Στράτος.`

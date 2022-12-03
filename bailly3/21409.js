@@ -1,1 +1,0 @@
-lar[21409]=`<b>οῦ (ὁ)</b> trésorier, intendant, SPT. <i>2Esdr. 1, 8</i>.<p><b>Étym</b>. <i>Origine hébr</i>.`

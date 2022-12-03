@@ -1,1 +1,0 @@
-lar[109381]=`<b>έως (ὁ)</b> potier, PLAT. <i>Rsp. 421d, Theæt. 174a ;</i> LUC. <i>Prom. 2, etc</i>.<p><b>Étym</b>. χύτρα.`

@@ -1,1 +1,0 @@
-lar[96413]=`<b>συν·υπογράφω</b> <font color="purple">[ᾰ]</font> souscrire en même temps à, <i>dat</i>. PHOT. <i>Bibl. 93, 9</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PHIL. <i>2, 600</i>.`

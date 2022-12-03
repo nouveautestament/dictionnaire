@@ -1,1 +1,0 @@
-lar[91065]=`<b>α, ον</b> <font color="purple">[ῑ]</font> qui est dans l’obscurité, THCR. <i>Idyl. 16, 93</i>.<p><b>Étym</b>. κνίψ.`

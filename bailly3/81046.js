@@ -1,1 +1,0 @@
-lar[81046]=`<i>adv</i>., jusqu’à satiété, GAL.`

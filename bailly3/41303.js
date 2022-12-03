@@ -1,1 +1,0 @@
-lar[41303]=`<b>ἑτεροδοξέω-ῶ</b>, prendre une chose pour une autre, PLAT. <i>Theæt. 190e</i>.<p><b>Étym</b>. ἑτερόδοξος.`

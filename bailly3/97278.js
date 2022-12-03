@@ -1,1 +1,0 @@
-lar[97278]=`<b>ου</b>, <i>acc</i>. <b>-ην (ὁ)</b> <font color="purple">[ᾰ]</font> Sôtadès, <i>poète,</i> STR. <i>345</i> ; PLUT. <i>Educ. lib. 14, etc</i>.`

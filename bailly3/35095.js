@@ -1,1 +1,0 @@
-lar[35095]=`<b>ῆς (ἡ)</b> ordre, instruction, HDT. <i>1, 157</i> ; LUC. <i>Im. 16, etc.</i> ; SPT. <i>Deut. 4, 2 ; 4Reg. 21, 8</i> ; NT. <i>Ap. 17, 15 ; Joh. 11, 57, etc. ; plur. au sens du sg</i>. PD. <i>fr. 167</i> ; HDT. <i>1, 22 ; 3, 147, etc</i>.<p><b>Étym</b>. ἐντέλλω.`

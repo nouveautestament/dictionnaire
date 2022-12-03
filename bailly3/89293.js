@@ -1,1 +1,0 @@
-lar[89293]=`<b>σανδαλόω-ῶ</b> <font color="purple">[ᾰ]</font> chausser de sandales, <i>d’où au pass</i>. être chaussé de sandales, EUM. <i>p. 110</i>.<p><b>Étym</b>. σάνδαλον.`

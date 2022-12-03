@@ -1,1 +1,0 @@
-lar[52744]=`<b>ου (ὁ)</b> réconciliateur, pacificateur, JOS. <i>A.J. 3, 15, 2</i>.<p><b>Étym</b>. καταλλάσσω.`

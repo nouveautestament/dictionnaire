@@ -1,1 +1,0 @@
-lar[38525]=`<b>ἐπι·νίζω</b> <font color="darkgreen">(<i>ao. pass</i>. ἐπενίφθην)</font> mouiller à la surface, TH. <i>C.P. 5, 9, 13</i>.`

@@ -1,1 +1,0 @@
-lar[42275]=`<b>ας (ἡ)</b> trou par où passait le gouvernail, EUR. <i>I.T. 1356</i>.<p><b>Étym</b>. <i>fém. de</i> εὐθυντήριος.`

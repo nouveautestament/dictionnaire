@@ -1,1 +1,0 @@
-lar[68611]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> de Nèriton, LYC. <i>769, 794</i>.<p><b>Étym</b>. Νήριτον.`

@@ -1,1 +1,0 @@
-lar[67252]=`<b>μυριό·ναυς, -ναος (ὁ, ἡ)</b> <font color="purple">[ῡᾱ]</font> aux vaisseaux innombrables, ANTH. <i>7, 237</i>.<p><b>Étym</b>. μ. ναῦς.`

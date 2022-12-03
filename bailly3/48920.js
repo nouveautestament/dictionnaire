@@ -1,1 +1,0 @@
-lar[48920]=`<b>Ἰλιο·ραίστας (ὁ)</b> <font color="purple">[ῑλ]</font> destructeur d’Ilion, ANTH. <i>15, 26, 17</i>.<p><b>Étym</b>. <i>poét. p</i>. *Ἰλιορραίστας, <i>de</i> Ἴλιον, ῥαίω.`

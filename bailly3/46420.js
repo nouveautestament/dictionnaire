@@ -1,1 +1,0 @@
-lar[46420]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> qui contemple, EUR. <i>Ion 301</i> ; AR. <i>Nub. 575</i> ; THC. <i>3, 38, etc. ; fig</i>. ARSTT. <i>Nic. 1, 7, 19</i>.<p>➳ <i>Ion</i>. θεητής, HDT. <i>3, 139</i>.<p><b>Étym</b>. θεάομαι.`

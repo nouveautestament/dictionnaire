@@ -1,1 +1,0 @@
-lar[70845]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Octavianus, <i>n. d’h. rom</i>. PLUT. <i>Ant. 11</i>.`

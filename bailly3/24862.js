@@ -1,1 +1,0 @@
-lar[24862]=`<font color="purple">[ῐτ]</font> DIOSC. <i>5, 123</i> ; DL. <i>9, 92 ; et plur</i>. διακριτέα, THC. <i>1, 86, vb. de</i> διακρίνω.`

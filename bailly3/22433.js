@@ -1,1 +1,0 @@
-lar[22433]=`<font color="darkgreen">(<i>f</i>. εύσω)</font> engendrer, <i>en parl. de plantes,</i> TH. <i>C.P. 1, 14, 1 ; ou de mollusques,</i> PLUT. <i>M. 980c, etc. ; rar. en parl. de l’homme,</i> TH. <i>H.P. 8, 10, 5</i>.<p><b>Étym</b>. γονεύς.`

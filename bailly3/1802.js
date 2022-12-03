@@ -1,1 +1,0 @@
-lar[1802]=`<b>ἀερο·πορέω-ῶ</b> <font color="purple">[ᾱ]</font> s’avancer à travers les airs, PHIL. <i>2, 116, 300</i> ; NYSS. <i>1, 268 Migne</i>.<p><b>Étym</b>. ἀεροπόρος.`

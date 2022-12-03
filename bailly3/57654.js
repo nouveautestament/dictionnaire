@@ -1,1 +1,0 @@
-lar[57654]=`<b>(ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> Kratidas, <i>h</i>. THCR. <i>Idyl. 5, 90</i>.`

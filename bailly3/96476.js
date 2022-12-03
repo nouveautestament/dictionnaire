@@ -1,1 +1,0 @@
-lar[96476]=`<b>ας (ἡ)</b> immolation d’un porc, DP. <i>853</i>.<p><b>Étym</b>. συοκτόνος.`

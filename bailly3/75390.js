@@ -1,1 +1,0 @@
-lar[75390]=`<b>οῦ (ὁ)</b> emploi de la violence, contrainte, PLUT. <i>M. 1097f</i>.<p><b>Étym</b>. παραβιάζομαι.`

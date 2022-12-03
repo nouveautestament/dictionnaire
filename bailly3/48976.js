@@ -1,1 +1,0 @@
-lar[48976]=`<b>ἱματιο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῑᾰῠᾰκ]</font> préposé à la garde-robe, SPT. <i>2Reg. 22, 14 ; 2Par. 34, 22</i>.<p><b>Étym</b>. ἱ. φυλάσσω.`

@@ -1,1 +1,0 @@
-lar[71045]=`<b>ὀλιγό·πτερος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a que peu de plumes, ARSTT. <i>H.A. 1, 1, 7</i>.<p><b>Étym</b>. ὀλ. πτερόν.`

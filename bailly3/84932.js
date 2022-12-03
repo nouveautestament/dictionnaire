@@ -1,1 +1,0 @@
-lar[84932]=`<b>προ·περισπάω-ῶ</b>, marquer la pénultième d’un accent circonflexe, SCH.-AR. <i>Eq. 21, etc</i>.`

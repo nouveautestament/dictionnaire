@@ -1,1 +1,0 @@
-lar[51647]=`<b>ης, ες :<br>      1</b> fumeux, TH. <i>C.P. 5, 3, 2</i> ; POL. <i>9, 16, 3</i>.<br><b>      2</b> de couleur fumeuse, sombre, TH. <i>Lap. 50</i> ; LUC. <i>Philops. 16</i>.<p><b>Étym</b>. κ. -ωδης.`

@@ -1,1 +1,0 @@
-lar[84515]=`<b>προ·καταφέρω</b> <font color="darkgreen">(<i>f</i>. -κατοίσω, <i>ao.2</i> -κατήνεγκον, <i>etc</i>.) :</font><br><b>      1</b> porter en avant de haut en bas, ARSTT. <i>Probl. 12, 2</i>.<br><b>      2</b> emporter auparavant ; <i>au pass</i>. être emporté <i>ou</i> succomber avant, <i>gén</i>. LIB. <i>2, 365</i>.`

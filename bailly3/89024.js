@@ -1,1 +1,0 @@
-lar[89024]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> appui, support, APD. POL. <i>44</i>.<p><b>Étym</b>. ῥώννυμι.`

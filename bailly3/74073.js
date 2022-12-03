@@ -1,1 +1,0 @@
-lar[74073]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> de Pagases, A.RH. <i>1, 524</i> ; ANTH. <i>4, 3, 66</i>.<p>➳ <i>Ion</i>. Παγασήϊος, A.RH. <i>l.c</i>.<p><b>Étym</b>. Παγασαί.`

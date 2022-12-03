@@ -1,1 +1,0 @@
-lar[49588]=`<i>gén</i>. <b>Ἴσιδος</b>, <i>acc</i>. <b>Ἶσιν (ἡ) :<br>      1</b> Isis, <i>divinité égyptienne, femme et sœur d’Osiris,</i> HDT. <i>2, 41, 59, 156</i>.<br><b>      2</b> <i>n. de plantes,</i> PLUT. <i>M. 939d ; et d’un emplâtre,</i> GAL. <i>10, 385, etc</i>.<p>➳ <i>Gén. ion</i>. Ἴσιος, HDT. <i>2, 41, etc. ; dat. ion</i>. Ἴσι, HDT. <i>2, 61 et 176</i>.`

@@ -1,1 +1,0 @@
-lar[79134]=`<b>περίπλοος-ους, οος-ους, οον-ουν :<br>      1</b> qui navigue autour, ANTH. <i>9, 559</i>.<br><b>      2</b> autour duquel on peut naviguer, THC. <i>2, 97</i>.<p><b>Étym</b>. περιπλέω.`

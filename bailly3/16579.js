@@ -1,1 +1,0 @@
-lar[16579]=`<b>ἀσφαλτόω-ῶ</b>, enduire de bitume, SPT. <i>Gen. 6, 14</i>.<p><b>Étym</b>. ἄσφαλτος.`

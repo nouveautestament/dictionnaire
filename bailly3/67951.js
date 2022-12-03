@@ -1,1 +1,0 @@
-lar[67951]=`<b>ῆρος (ὁ)</b> querelleur, agresseur, HÉS. <i>O. 714</i>.<p><b>Étym</b>. νεικέω.`

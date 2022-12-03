@@ -1,1 +1,0 @@
-lar[100538]=`<b>τρι·τάλαντος, ος, ον</b> <font color="purple">[ῐτᾰ]</font><br><b>      1</b> qui pèse trois talents, MOSCHION HIST. (ATH. <i>208c</i>).<br><b>      2</b> qui vaut trois talents, IS. <i>39, 40 ; 42, 40</i>.<p><b>Étym</b>. τρ. τάλαντον.`

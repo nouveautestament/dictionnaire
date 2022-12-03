@@ -1,1 +1,0 @@
-lar[87451]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> <i>v</i>. *πτύξ.`

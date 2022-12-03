@@ -1,1 +1,0 @@
-lar[46712]=`<b>ας (ἡ)</b> la colère de Dieu, <i>d’où</i> marque de la colère de Dieu, <i>càd</i>. calamité, <i>et particul</i>. tremblement de terre, DC. <i>fr. 30, 1 ; (cf. pour la relation des deux idées,</i> SPT. <i>Ps. 103, 32).</i><p><b>Étym</b>. θ. μῆνις.`

@@ -1,1 +1,0 @@
-lar[103998]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> sous-censeur, <i>à Rome,</i> DC. <i>52, 21, 24 et 33</i>.<p><b>Étym</b>. ὑποτιμάω.`

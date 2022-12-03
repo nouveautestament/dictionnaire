@@ -1,1 +1,0 @@
-lar[17789]=`<b>αὐτό·χροος-ους, οος-ους, οον-ουν :<br>      1</b> qui a sa couleur propre, sa couleur naturelle, PLUT. <i>M. 270e.</i><br><b>      2</b> d’une seule et même couleur, PLUT. <i>M. 330a</i>.<p><b>Étym</b>. αὐ. χρόα.`

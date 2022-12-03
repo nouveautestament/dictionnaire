@@ -1,1 +1,0 @@
-lar[95621]=`<b>συν·επιθρηνέω-ῶ</b>, se lamenter avec, <i>dat</i>. PLUT. <i>M. 541a ; abs</i>. PLUT. <i>M. 56a ; 443a ; 599b ;</i> M. ANT. <i>7, 43</i>.`

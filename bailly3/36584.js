@@ -1,1 +1,0 @@
-lar[36584]=`<b>ἐπ·αναθαρρέω-ῶ</b>, reprendre courage, ONOS. <i>33, 5 Kœchly</i>.`

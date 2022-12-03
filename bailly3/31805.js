@@ -1,1 +1,0 @@
-lar[31805]=`<b>ἐκ·περιλαμβάνω</b>, envelopper de toutes parts, BAS. <i>1, 49b ;</i> NYSS. <i>2, 198c</i>.`

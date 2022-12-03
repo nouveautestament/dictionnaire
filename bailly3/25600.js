@@ -1,1 +1,0 @@
-lar[25600]=`<b>ή, όν :<br>      1</b> qui distingue, qui détermine par le caractère distinctif, DYSC. <i>Pron. 289b.</i><br><b>      2</b> qui peut produire un état d’épanchement <i>ou</i> d’exaltation de l’âme, <i>en parl. de la musique,</i> A. QUINT. <i>p. 30</i>.`

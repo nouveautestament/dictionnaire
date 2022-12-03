@@ -1,1 +1,0 @@
-lar[75883]=`<b>οῦ (ὁ) :<br>      1</b> faux raisonnement, argumentation captieuse, paralogisme, LYCURG. <i>152, 4</i> ; ARSTT. <i>Soph. el. 4, 9</i>.<br><b>      2</b> <i>p. suite,</i> tromperie, POL. <i>1, 81, 8, etc</i>.<p><b>Étym</b>. παραλογίζομαι.`

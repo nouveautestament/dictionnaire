@@ -1,1 +1,0 @@
-lar[60299]=`<b>ου (τὸ)</b> petit mot, DÉMOCR. (CLÉM. <i>Str. 1, p. 328</i>) ; ARR. <i>Epict. 2, 1, 30</i>.<p><b>Étym</b>. λέξις.`

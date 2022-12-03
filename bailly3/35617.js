@@ -1,1 +1,0 @@
-lar[35617]=`<b>εως (ἡ) :<br>      1</b> enchaînement des parties d’un corps l’une avec l’autre, cohésion, HPC. <i>Fract. 776</i> ; ARSTT. <i>H.A. 3, 1, 31, etc.</i><br><b>      2</b> suspension d’un poids, THÉON SM. <i>57, 4</i>.<p><b>Étym</b>. ἐξαρτάω.`

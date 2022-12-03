@@ -1,1 +1,0 @@
-lar[91306]=`<b>ας</b> <font color="purple">[ῡ]</font> <i>adj. f</i>. qui dépouille les ennemis tués, <i>ép. d’Athèna,</i> LYC. <i>853</i>.<p><b>Étym</b>. σκυλάω.`

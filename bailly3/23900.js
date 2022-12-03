@@ -1,1 +1,0 @@
-lar[23900]=`<b>Δεξιό·νικος, ου (ὁ)</b> <font color="purple">[νῑ]</font> Dexionikos, <i>h</i>. ANTH. <i>12, 142</i>.<p><b>Étym</b>. δεξιός, νίκη.`

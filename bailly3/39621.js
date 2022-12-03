@@ -1,1 +1,0 @@
-lar[39621]=`<b>ἐπι·φυλάσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[ῠ]</font> surveiller, <i>acc</i>. PLAT. <i>Leg. 866d</i>.`

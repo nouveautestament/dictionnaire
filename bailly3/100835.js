@@ -1,1 +1,0 @@
-lar[100835]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> de comédie, comique, AR. <i>Ach. 886</i>.<p><b>Étym</b>. τρυγῳδία.`

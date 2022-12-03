@@ -1,1 +1,0 @@
-lar[37358]=`<b>οῦ (ὁ)</b> jaillissement d’une source, AQU. <i>Gen. 2, 5</i>.<p><b>Étym</b>. ἐπιβλύζω.`

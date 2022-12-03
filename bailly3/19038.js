@@ -1,1 +1,0 @@
-lar[19038]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> immersion, baptême, JOS. <i>A.J. 18, 5, 2</i>.<p><b>Étym</b>. βαπτίζω.`

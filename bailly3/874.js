@@ -1,1 +1,0 @@
-lar[874]=`<b>α, ον :<br>      1</b> champêtre, ANTH. <i>6, 35</i>.<br><b>      2</b> rustique, grossier, AR. <i>Nub. 655, etc</i>.<p><b>Étym</b>. ἀγρός.`

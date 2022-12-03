@@ -1,1 +1,0 @@
-lar[84948]=`<b>προ·πήγνυμι</b>, rendre compact auparavant, <i>d’où part. pf. au sens intr</i>. προπεπηγώς, υῖα, ός, figé <i>ou</i> congelé auparavant, DIOSC. <i>3, 92</i>.`

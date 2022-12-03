@@ -1,1 +1,0 @@
-lar[80682]=`<b>ου (τὸ)</b> petite éclisse pour assujettir un membre luxé, HIPPIATR. <i>p. 198, 24</i>.<p><b>Étym</b>. <i>dim. de</i> πλάστιγξ¹.`

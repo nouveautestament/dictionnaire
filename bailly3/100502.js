@@ -1,1 +1,0 @@
-lar[100502]=`<b>τρι·στάσιος, ος, ον</b> <font color="purple">[ᾰ]</font> trois fois aussi lourd, ARR. <i>Ind. 8, 13</i>.<p><b>Étym</b>. τρίς, ἵστημι.`

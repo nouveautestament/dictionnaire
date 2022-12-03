@@ -1,1 +1,0 @@
-lar[96975]=`<b>ου (ὁ)</b> Sphôrakios, <i>h</i>. ANTH. <i>1, 7 et 8</i>.`

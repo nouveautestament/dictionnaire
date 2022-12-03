@@ -1,1 +1,0 @@
-lar[11200]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> mollesse, délicatesse, HPC. <i>18, 33</i> ; XÉN. <i>Mem. 2, 1, 22</i> ; PLAT. <i>Conv. 195d ;</i> ARSTT. <i>Pol. 7, 17, etc</i>.<p><b>Étym</b>. ἁπαλός.`

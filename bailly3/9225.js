@@ -1,1 +1,0 @@
-lar[9225]=`<i>adv</i>., sans provoquer la pitié, SOPH. <i>O.R. 180</i> ; EUR. <i>Tr. 751</i>.`

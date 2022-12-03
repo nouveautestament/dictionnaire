@@ -1,1 +1,0 @@
-lar[85230]=`<b>προσ·απερείδομαι :<br>      1</b> s’appuyer sur, <i>en parl. d’enclitiques, dat</i>. DYSC. <i>Synt. 135</i>.<br><b>      2</b> insister sur, <i>avec</i> ἐπί <i>et l’acc</i>. POL. <i>2, 31, 3</i>.`

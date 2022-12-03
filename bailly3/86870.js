@@ -1,1 +1,0 @@
-lar[86870]=`<b>προ·ϋπεξάγω</b> <font color="purple">[ᾰγ]</font> soustraire auparavant, NAZ. <i>1, 585 Migne</i>.`

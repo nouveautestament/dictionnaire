@@ -1,1 +1,0 @@
-lar[64407]=`<b>ιθος (ἡ)</b> <font color="purple">[ῑ]</font> fil, cordon, OD. <i>10, 23</i> ; DS. <i>3, 21</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

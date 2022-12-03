@@ -1,1 +1,0 @@
-lar[58898]=`<b>κυπελλο·μάχος, ος, ον</b> <font color="purple">[ῠᾰ]</font> où l’on combat la coupe en main, ANTH. <i>11, 59</i>.<p><b>Étym</b>. κύπελλον, μάχομαι.`

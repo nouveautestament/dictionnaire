@@ -1,1 +1,0 @@
-lar[34505]=`<b>ἐν·θεάζω :<br>      1</b> animer d’un transport divin, <i>d’où au pass</i>. être inspiré, PLUT. <i>M. 623c.</i><br><b>      2 <i>intr.</i></b> être inspiré, HDT. <i>1, 63</i> ; LUC. <i>Alex. 13</i>.<p><b>Étym</b>. ἔνθεος.`

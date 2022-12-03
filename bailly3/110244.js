@@ -1,1 +1,0 @@
-lar[110244]=`<b>ὠμ·ανθής, ής, ές</b>, qui surcharge les épaules, ANTH. <i>6, 104</i>.<p><b>Étym</b>. ὦμος, ἄχθος.`

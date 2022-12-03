@@ -1,1 +1,0 @@
-lar[89254]=`<b>ου (ἡ)</b> Saminthos, <i>lieu d’Argolide,</i> THC. <i>5, 58</i>.`

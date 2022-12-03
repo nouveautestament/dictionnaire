@@ -1,1 +1,0 @@
-lar[89119]=`<b>α (ὁ)</b> Sakas, <i>échanson d’Astyage,</i> XÉN. <i>Cyr. 1, 3, 8, etc</i>.`

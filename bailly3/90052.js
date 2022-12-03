@@ -1,1 +1,0 @@
-lar[90052]=`<b>σθενο·βλαβής, ής, ές</b> <font color="purple">[ᾰ]</font> qui affaiblit, OPP. <i>C. 2, 82</i>.<p><b>Étym</b>. σθένος, βλάπτω.`

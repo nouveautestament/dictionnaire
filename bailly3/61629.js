@@ -1,1 +1,0 @@
-lar[61629]=`<i>adv</i>., obliquement, de travers, HPC. ; <i>fig</i>. λ. ἔχειν πρός τινα, POL. <i>4, 86, 8,</i> regarder qqn de travers, être soupçonneux.<p>•<i> Cp</i>. λοξότερον, POL. <i>l. c</i>.<p><b>Étym</b>. λοξός.`

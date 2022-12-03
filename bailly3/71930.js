@@ -1,1 +1,0 @@
-lar[71930]=`<b>ου (ὁ)</b> sorte d’esturgeon, <i>poisson,</i> ATH. <i>320c</i>.<p><b>Étym</b>. ὄνος.`

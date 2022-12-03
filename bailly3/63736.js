@@ -1,1 +1,0 @@
-lar[63736]=`<font color="purple">[ᾰ]</font> <i>adv</i>., puérilement, sottement, POL. <i>11, 14, 7</i> ; DH. <i>Pomp. 2</i>.<p>•<i> Cp</i>. -ωδέστερον, DIN. (GAL. <i>8, 663).</i><p><b>Étym</b>. μειρακιώδης.`

@@ -1,1 +1,0 @@
-lar[55983]=`<b>ων (αἱ)</b> les Clefs, <i>promont. de Chypre,</i> HDT. <i>5, 108</i>.<p><b>Étym</b>. <i>ion. c</i>. Κλεῖδες ; <i>v</i>. κλείς.`

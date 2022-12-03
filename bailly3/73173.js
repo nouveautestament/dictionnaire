@@ -1,1 +1,0 @@
-lar[73173]=`<b>ου (τὸ)</b> <i>vraisembl. plante des environs d’Orchomène,</i> HPC. <i>879f</i>.<p><b>Étym</b>. Ὀρχομενός.`

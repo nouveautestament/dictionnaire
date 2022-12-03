@@ -1,1 +1,0 @@
-lar[42870]=`<b>εὐ·όρατος, ος, ον</b> <font color="purple">[ᾱ]</font> facile à voir, JAMBL. <i>V. Pyth. p. 34</i>.<p><b>Étym</b>. εὖ, ὁράω.`

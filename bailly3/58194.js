@@ -1,1 +1,0 @@
-lar[58194]=`<b>οῦ</b> <i>ou</i> <b>κρύφος, ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de cacher, PD. <i>O. 2, 177</i>.<br><b>      2</b> cachette, lieu de refuge, SPT. <i>1Macc. 1, 53, etc</i>.<p>➳ <i>Sel</i>. ARC. <i>p. 84, 17,</i> κρυφός.<p><b>Étym</b>. κρύπτω.`

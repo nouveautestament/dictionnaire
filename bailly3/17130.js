@@ -1,1 +1,0 @@
-lar[17130]=`<font color="purple">[ᾱδ]</font> <i>(seul. prés.) réc. c</i>. αὐθαδίζομαι, JOS. <i>B.J. 5, 3, 4</i> ; NAZ. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[15953]=`<b>ἀσκο·δέτης, ου (ὁ)</b> lien qui serre, pour le fermer, l’orifice d’une outre, NIC. <i>Th. 928</i>.<p><b>Étym</b>. ἀσκός, δέω.`

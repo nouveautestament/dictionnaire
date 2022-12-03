@@ -1,1 +1,0 @@
-lar[54431]=`<b>ου :<br>      1</b> <i>adj. m</i>. κ. ἕρπης, GAL. <i>7, 318,</i> dartre miliaire, avec boutons semblables à des grains de millet.<br><b>      2</b> <i>subst</i>. ὁ κ. sorte de serpent tacheté comme de grains de millet, AÉT. <i>13, 25</i>.<p><b>Étym</b>. κέγχρος.`

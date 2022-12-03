@@ -1,1 +1,0 @@
-lar[14269]=`<b>ῶν (αἱ)</b> STR. <i>615, 617 ; d’ord</i>. Ἀργινοῦσαι, XÉN. <i>Hell. 1, 6, 27</i> ; PLUT. <i>Per. 37, etc</i>. les Arginusses <i>ou</i> Arginuses, <i>n. de trois petites î. sur la côte d’Éolide</i>.<p><b>Étym</b>. <i>contract. de</i> Ἀργινόεσσαι, <i>fém. pl. de</i> ἀργινόεις ; <i>cf</i>. Ἀργεννοῦσαι.`

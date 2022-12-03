@@ -1,1 +1,0 @@
-lar[10185]=`<b>ἀντι·παραλυπέω-ῶ</b> <font color="purple">[ῡ]</font> chagriner à son tour <i>ou</i> en retour, THC. <i>4, 80</i>.`

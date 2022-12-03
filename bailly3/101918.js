@@ -1,1 +1,0 @@
-lar[101918]=`<b>ος, ον</b> <font color="purple">[ῠᾰ]</font> dont on se sert pour une onction, HPC. <i>881b</i>.<p><b>Étym</b>. ὑπαλείφω.`

@@ -1,1 +1,0 @@
-lar[36825]=`<b>οῦ (ὁ)</b> incantation, BAS. <i>2, 237</i>.<p><b>Étym</b>. ἐπᾴδω.`

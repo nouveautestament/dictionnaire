@@ -1,1 +1,0 @@
-lar[21227]=`<b>Γαλαξί·δωρος, ου (ὁ)</b> <font color="purple">[γᾰῐ]</font> Galaxidôros, <i>Thébain,</i> XÉN. PLUT.<p><b>Étym</b>. γάλα, δῶρον.`

@@ -1,1 +1,0 @@
-lar[10325]=`<b>ἀντι·πρόειμι</b>, s’avancer contre <i>ou</i> aller au-devant de, THC. <i>6, 66 (impf</i>. ἀντιπροῇν) ; <i>abs</i>. APP. <i>Lib. 107</i>.<p><b>Étym</b>. <i>impf</i>. ἀντιπροήειν.`

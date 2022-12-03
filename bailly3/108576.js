@@ -1,1 +1,0 @@
-lar[108576]=`<b>ωνος (ὁ)</b> Khlidôn, <i>h</i>. PLUT. <i>Pel. 8, Gen. Socr. 18</i>.<p><b>Étym</b>. <i>v</i>. χλιδών.`

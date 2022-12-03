@@ -1,1 +1,0 @@
-lar[100600]=`<b>τρί·φυλος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui se compose de trois tribus, HDT. <i>4, 161</i> ; DH. <i>4, 14</i>.<p><b>Étym</b>. τρ. φυλή.`

@@ -1,1 +1,0 @@
-lar[71650]=`<b>ὁμο·πλώτηρ, ηρος (ὁ)</b> qui navigue <i>ou</i> nage avec, OPP. <i>H. 1, 208</i>.<p><b>Étym</b>. ὁμ. πλώω.`

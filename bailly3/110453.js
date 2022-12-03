@@ -1,1 +1,0 @@
-lar[110453]=`<b>ου (ὁ)</b> Horologios, <i>litt</i>. « celui qui dit l’heure », <i>n. d’h. imagin</i>. ALCIPHR. <i>3, 47</i>.<p><b>Étym</b>. ὡρολόγος.`

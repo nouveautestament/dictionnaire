@@ -1,1 +1,0 @@
-lar[18455]=`<b>ά, όν</b>, pénible, ANTIPH. (STOB. <i>Fl. 116, 23).</i><p><b>Étym</b>. ἄχθος.`

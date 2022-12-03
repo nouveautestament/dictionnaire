@@ -1,1 +1,0 @@
-lar[49645]=`<b>ἰσό·θροος, οος, οον</b> <font color="purple">[ῑ̆]</font> qui rend un son semblable, NONN. <i>D. 36, 473</i>.<p><b>Étym</b>. ἴ. θρέω.`

@@ -1,1 +1,0 @@
-lar[93688]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡῐδ]</font> <i>var. de</i> συκαλίς EPICH. <i>fr. 49 Ahrens</i>.`

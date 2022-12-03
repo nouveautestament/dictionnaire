@@ -1,1 +1,0 @@
-lar[5660]=`<b>ἀμμό·νιτρον, ου (τὸ)</b> mélange de sable et de salpêtre, PLIN. <i>H.N. 36, 27</i>.`

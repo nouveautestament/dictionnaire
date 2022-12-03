@@ -1,1 +1,0 @@
-lar[55770]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. Claudiānus, <i>n. d’h. rom</i>. ANTH. <i>9, 13, etc</i>.<p>➳ <font color="purple">[ᾰ]</font> ANTH. <i>App. 158</i>.`

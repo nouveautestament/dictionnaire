@@ -1,1 +1,0 @@
-lar[51526]=`<b>Κανθαρ·ώλεθρον, ου (τὸ)</b> <font color="purple">[θᾰ]</font> le Fléau des scarabées, <i>lieu de Thrace, mortel pour les scarabées,</i> ARSTT. <i>Mir. 120</i> ; STR. <i>330</i> ; PLUT. <i>M. 473e</i>.<p><b>Étym</b>. κ. ὄλεθρος.`

@@ -1,1 +1,0 @@
-lar[27466]=`<b>δολο·πλόκος, ος, ον</b>, qui ourdit (<i>litt</i>. qui tresse) des ruses, SAPPH. <i>1, 2</i> ; POÈT. (ARSTT. <i>Nic. 7, 7</i>) ; NONN. <i>Jo. p. 132, 12</i> ; TRIPHIOD. <i>264</i>.<p>➳ <i>Fém</i>. -πλόκη, <i>Poetæ lyrici græci, vol. 3, Fragmenta Adespota, Th. Bergk, p. 727 et sq. 129</i>.<p><b>Étym</b>. δόλος, πλέκω.`

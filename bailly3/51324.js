@@ -1,1 +1,0 @@
-lar[51324]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱν]</font> = <i>lat</i>. Calpurnianus, <i>n. d’h. rom</i>. LUC. <i>H. conscr. 15</i>.`

@@ -1,1 +1,0 @@
-lar[9826]=`<b>ἀντι·διαβάλλω</b>, dénigrer <i>ou</i> accuser à son tour <i>ou</i> en retour, ARSTT. <i>Rhet. 3, 15, 7</i>.`

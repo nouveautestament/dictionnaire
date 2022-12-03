@@ -1,1 +1,0 @@
-lar[79857]=`<b>πεταχνόω-ῶ</b>, se gonfler, se pavaner, AR. <i>fr. 279 Dind</i>.<p><b>Étym</b>. πέταχνον.`

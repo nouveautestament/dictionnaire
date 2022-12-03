@@ -1,1 +1,0 @@
-lar[32852]=`<b>ἑλί·τροχος, ος, ον</b>, qui fait tourner des roues, ESCHL. <i>Sept. 205</i>.<p><b>Étym</b>. ἑλίσσω, τροχός.`

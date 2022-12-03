@@ -1,1 +1,0 @@
-lar[81147]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> auge <i>ou</i> bassin pour laver, IL. <i>22, 153</i> ; OD. <i>6, 40, 86</i> ; LUC. <i>Fug. 12 ; fig</i>. πλυνόν με ποιῶν, AR. <i>Pl. 1061</i>, faisant de moi un bassin à laver, <i>càd</i>. m’éclaboussant <i>ou</i> me criblant d’injures ignobles.<p><b>Étym</b>. πλύνω.`

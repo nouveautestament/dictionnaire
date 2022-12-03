@@ -1,1 +1,0 @@
-lar[75529]=`<b>παρ·αδολεσχέω-ῶ</b> <font color="purple">[ᾱδ]</font> bavarder à tort et à travers, PLUT. <i>M. 639c</i>.`

@@ -1,1 +1,0 @@
-lar[2675]=`<b>ή, όν</b>, dit à mots couverts, énigmatique, SOPH. <i>O.R. 439</i>.<p><b>Étym</b>. αἰνίσσομαι.`

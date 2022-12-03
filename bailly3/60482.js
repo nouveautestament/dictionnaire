@@ -1,1 +1,0 @@
-lar[60482]=`<b>ου (τὸ)</b> vase à boire, ANTH. <i>App. 31, 4</i> ; HÉDYL. (ATH. <i>486c</i>).<p><b>Étym</b>. <i>neutre de</i> Λέσβιος.`

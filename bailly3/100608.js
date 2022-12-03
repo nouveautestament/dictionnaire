@@ -1,1 +1,0 @@
-lar[100608]=`<b>άδος (ἡ)</b> <font color="purple">[ῐᾰδ]</font> sorte de grive tenant du merle, ARSTT. <i>H.A. 9, 20</i>.<p><b>Étym</b>. θρίξ.`

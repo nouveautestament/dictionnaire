@@ -1,1 +1,0 @@
-lar[28017]=`<b>δρύ·πεψ</b>, <i>seul. acc</i>. δρύπεπα, <i>adj. f</i>. <font color="purple">[ῡ]</font> <i>c</i>. δρυπεπής, ANTH. <i>6, 191</i>.`

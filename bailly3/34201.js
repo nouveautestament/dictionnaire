@@ -1,1 +1,0 @@
-lar[34201]=`<b>ἐν·δινέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> tourner <i>ou</i> rouler dans : ἐνδεδινημένα ὄμματα, HPC. <i>1162c</i>, yeux qui roulent dans leur orbite.<br><b>      2</b> <i>au pass</i>. se tourner, se mouvoir, THCR. <i>Idyl. 15, 82</i> (<i>3 pl. dor</i>. ἐνδινεῦνται, <i>vulg</i>. ἐνδινεῦντι).`

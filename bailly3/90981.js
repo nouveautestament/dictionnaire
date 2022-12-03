@@ -1,1 +1,0 @@
-lar[90981]=`<i>adv</i>., par bonds, en bondissant, ORPH. <i>fr. 23, 1 Hermann</i>.<p><b>Étym</b>. σκιρτάω, -δον.`

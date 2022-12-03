@@ -1,1 +1,0 @@
-lar[83734]=`<b>εως (ἡ)</b> croissance <i>ou</i> développement avant l’âge, HPC. <i>1006c</i>.<p><b>Étym</b>. προαύξω.`

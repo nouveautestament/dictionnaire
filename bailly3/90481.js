@@ -1,1 +1,0 @@
-lar[90481]=`<b>σιτ·άλκας (ὁ)</b> <font color="purple">[ῑᾱς]</font> protecteur du blé, <i>surn. d’Apollon chez les Delphiens,</i> PAUS. <i>10, 15, 2</i>.<p><b>Étym</b>. σῖτος, ἀλκή.`

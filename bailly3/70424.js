@@ -1,1 +1,0 @@
-lar[70424]=`<b>ας (ἡ) :<br>      1</b> ruine d’une maison, perte de ses biens, PLAT. <i>Phæd. 82c ;</i> DH. <i>1, 23</i>.<br><b>      2</b> séduction d’une femme mariée, adultère, PLUT. <i>M. 12b</i>.<p><b>Étym</b>. οἰκοφθόρος.`

@@ -1,1 +1,0 @@
-lar[95751]=`<b>συν·έριθος, ου (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> compagnon <i>ou</i> compagne de travail, auxiliaire, OD. <i>6, 32</i> ; AR. <i>Pax 786 ; en parl. des arts,</i> PLAT. <i>Rsp. 533d, etc</i>.<p>➳ <i>Masc. rare,</i> ANTH. <i>7, 726</i> ; MUS. <i>11</i>.<p><b>Étym</b>. σ. ἔριθος.`

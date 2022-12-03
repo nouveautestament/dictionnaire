@@ -1,1 +1,0 @@
-lar[46204]=`<b>θαλερ·ῶπις, ιδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. au visage frais, jeune, ANTH. <i>7, 204</i>.<p><b>Étym</b>. θαλερός, ὤψ.`

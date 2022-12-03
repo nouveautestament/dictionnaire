@@ -1,1 +1,0 @@
-lar[47005]=`<b>ου (τὸ)</b> lieu de réunion des thesmothètes, PLUT. <i>M. 613b</i>.<p><b>Étym</b>. θεσμοθέτης.`

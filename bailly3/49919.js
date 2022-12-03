@@ -1,1 +1,0 @@
-lar[49919]=`<b>ου</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. ALEX. <i>fr. 194 dout</i>. (ἰσχυρικός <i>Kock) dim. de</i> ἰσχυρός.`

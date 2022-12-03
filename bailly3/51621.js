@@ -1,1 +1,0 @@
-lar[51621]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Cæpio, Cépion, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 1, etc</i>.`

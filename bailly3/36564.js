@@ -1,1 +1,0 @@
-lar[36564]=`<b>ἐπ·αναβιβάζω</b> <font color="purple">[ῐ]</font> faire monter sur, THC. <i>3, 23</i> ; DC. <i>50, 23</i>.`

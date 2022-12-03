@@ -1,1 +1,0 @@
-lar[2220]=`<b>ας (ἡ)</b> Ægialia (<i>auj</i>. Anticythère) <i>î. entre Cythère et la Crète,</i> PLUT. <i>Cleom. 31</i>.`

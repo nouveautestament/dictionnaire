@@ -1,1 +1,0 @@
-lar[109852]=`<i>acc</i>. <b>-ιν (ἡ)</b> Psiltoukis, <i>anc. n. de l’î</i>. Σκιλλοῦστις <i>dans l’Océan indien,</i> PLUT. <i>Alex. 66</i>.`

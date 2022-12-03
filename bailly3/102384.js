@@ -1,1 +1,0 @@
-lar[102384]=`<b>ὑπέρ·δεινος, ος, ον :<br>      1</b> extraordinairement effrayant, DÉM. <i>551, 2</i> ; LUC. <i>Tim. 13</i>.<br><b>      2</b> extrêmement habile, <i>avec l’inf</i>. D. CHR. <i>2, 215</i>.<p><b>Étym</b>. ὑ. δεινός.`

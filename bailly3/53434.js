@@ -1,1 +1,0 @@
-lar[53434]=`<b>ατος (τὸ)</b> couverture, toit, abri, HDT. <i>2, 155</i>.<p><b>Étym</b>. καταστεγάζω.`

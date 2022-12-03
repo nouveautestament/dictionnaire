@@ -1,1 +1,0 @@
-lar[23754]=`<b>δεκ·ήρης, ης, ες</b>, à dix rangs de rames, à dix bancs de rameurs, POL. <i>16, 3, 3 ; 16, 7, 1</i> ; PLUT. <i>Ant. 65</i>.<p><b>Étym</b>. δ. ἐρέσσω ; <i>cf</i>. τριήρης, <i>etc</i>.`

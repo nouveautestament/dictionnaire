@@ -1,1 +1,0 @@
-lar[5823]=`<b>ἀμπελο·φύτωρ, ορος (ὁ)</b> <font color="purple">[ῡ <i>pour</i> ῠ]</font> qui plante de la vigne, ANTH. <i>6, 44</i>.<p><b>Étym</b>. ἄ. φύω.`

@@ -1,1 +1,0 @@
-lar[83331]=`<b>πρεσβειόω-ῶ</b>, honorer, LYC. <i>1205, fut. moy. au sens pass</i>.<p><b>Étym</b>. πρεσβεῖον.`

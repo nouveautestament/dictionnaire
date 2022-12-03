@@ -1,1 +1,0 @@
-lar[96516]=`<b>ης, ες</b> <font color="purple">[ῡᾰ]</font> qui ressemble à un sifflement, sifflant, CASS. <i>Probl. 82</i>.<p><b>Étym</b>. σύριγμα, -ωδης.`

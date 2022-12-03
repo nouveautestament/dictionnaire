@@ -1,1 +1,0 @@
-lar[108229]=`<b>όνος (ἡ)</b> <font color="purple">[ῑ]</font> Khélidôn, <i>litt</i>. l’Hirondelle, <i>f</i>. ANTH. <i>App. 337</i>.<p><b>Étym</b>. <i>v</i>. χελιδών.`

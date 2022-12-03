@@ -1,1 +1,0 @@
-lar[3558]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀκουστικός, PLAT. COM. <i>2-2, 694 Mein</i>.`

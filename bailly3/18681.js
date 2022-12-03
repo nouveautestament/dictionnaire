@@ -1,1 +1,0 @@
-lar[18681]=`<i>interj. com. c</i>. βαβαί AR. <i>Ach. 64</i> ; βαβαὶ βαβαιάξ, AR. <i>Pax 248,</i> oh ! oh !.`

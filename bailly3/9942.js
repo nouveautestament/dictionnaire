@@ -1,1 +1,0 @@
-lar[9942]=`<b>ἀντι·κατατείνω</b>, tendre avec force contre, HPC. <i>761, 781 ; fig</i>. λόγον, PLAT. <i>Rsp. 348a</i>, opposer un discours.<p><b>Étym</b>. à un autre.`

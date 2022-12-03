@@ -1,1 +1,0 @@
-lar[49884]=`<b>άδος (ἡ)</b> ancre, SOPH. (ATH. <i>99d</i>) ; LUC. <i>Lex. 15</i>.<p><b>Étym</b>. ἴσχω.`

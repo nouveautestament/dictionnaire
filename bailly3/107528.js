@@ -1,1 +1,0 @@
-lar[107528]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>   I</b> <i>tr.</i> :<br><b>      1</b> action de relâcher, relâchement, HPC. <i>Fract. 759</i> ; PLAT. <i>Rsp. 590b.</i><br><b>      2</b> action d’écarter, d’entr’ouvrir, DIOSC.<br><b>   II <i>intr</i></b>. action de se relâcher, relâchement, GAL. <i>1, 85</i>.<p><b>Étym</b>. χαλάω.`

@@ -1,1 +1,0 @@
-lar[47925]=`<b>θυμοβορέω-ῶ</b> <font color="purple">[ῡ]</font> se ronger (<i>propr</i>. se dévorer) le cœur, HÉS. <i>O. 801</i>.<p><b>Étym</b>. θυμοβόρος.`

@@ -1,1 +1,0 @@
-lar[91582]=`<b>σολοικο·ειδῶς</b>, <i>adv</i>., avec l’apparence d’un solécisme, ORIG. <i>3, 438a</i>.<p><b>Étym</b>. σολοικοειδής.`

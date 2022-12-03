@@ -1,1 +1,0 @@
-lar[9988]=`<b>ἀντι·κρατέω-ῶ</b> <font color="purple">[ᾰτ]</font> être le maître à son tour, ANTH. <i>11, 298</i>.`

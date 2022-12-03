@@ -1,1 +1,0 @@
-lar[94875]=`<b>συν·αποκάμνω</b>, être fatigué <i>ou</i> épuisé en même temps, EUR. <i>I.T. 1371</i>.`

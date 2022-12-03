@@ -1,1 +1,0 @@
-lar[95992]=`<b>συν·ιδρόω-ῶ</b>, suer abondamment, DS. <i>3, 28</i> ; GEOP. <i>18, 8, 5</i>.`

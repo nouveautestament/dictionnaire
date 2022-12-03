@@ -1,1 +1,0 @@
-lar[13639]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> reliefs d’un repas, EUP. (ATH. <i>658d</i>).<p><b>Étym</b>. ἀποτρώγω.`

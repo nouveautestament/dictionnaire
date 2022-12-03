@@ -1,1 +1,0 @@
-lar[61712]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> brandon fait de sarment de vigne, ANTH. <i>11, 20</i> ; LYC. <i>48</i>.`

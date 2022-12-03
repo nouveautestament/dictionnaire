@@ -1,1 +1,0 @@
-lar[73341]=`<b>ή, όν :<br>      1</b> qui concerne l’odorat, ARSTT. <i>An. 2, 9, 13, etc.</i> ; τὸ ὀσφρ. ARSTT. <i>Sens. 2, 19,</i> la faculté de sentir.<br><b>      2</b> doué d’un bon odorat, ARSTT. <i>G.A. 2, 5, 7</i>.<br><b>      3</b> odorant, TH. <i>C.P. 2, 18, 4</i>.<p><b>Étym</b>. ὀσφραντός.`

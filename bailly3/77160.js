@@ -1,1 +1,0 @@
-lar[77160]=`<b>παρ·υβρίζω</b>, outrager, BAS. <i>3, 913 Migne</i>.`

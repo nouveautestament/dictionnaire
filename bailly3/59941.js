@@ -1,1 +1,0 @@
-lar[59941]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> Latinos (Latinus) <i>fils d’Ulysse,</i> HÉS. <i>Th. 1073</i>.`

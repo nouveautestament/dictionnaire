@@ -1,1 +1,0 @@
-lar[69578]=`<b>ῆρος (ὁ)</b> <font color="purple">[ξῐ]</font> baudrier, PLUT. <i>Pomp. 42</i> ; HLD. <i>9, 23</i>.<p><b>Étym</b>. ξίφος.`

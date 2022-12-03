@@ -1,1 +1,0 @@
-lar[41302]=`<b>ἑτερο·διδασκαλέω-ῶ</b> <font color="purple">[ῐκᾰ]</font> enseigner une autre (<i>càd</i>. une fausse) doctrine, NT. <i>1Tim. 1, 3</i>.<p><b>Étym</b>. ἕ. διδάσκαλος.`

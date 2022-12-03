@@ -1,1 +1,0 @@
-lar[78983]=`<b>περι·ξυράω-ῶ</b> <font color="purple">[ῠ]</font> raser tout autour, LUC. <i>M. cond. 33</i>.<p>➳ <i>Ion</i>. περιξυρέω, HDT. <i>3, 8</i>.`

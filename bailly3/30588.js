@@ -1,1 +1,0 @@
-lar[30588]=`<b>εἰρηναγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>. -εῖ) conduire en paix, CLÉM. <i>1, 329a Migne</i>.<p><b>Étym</b>. εἰρήνη, ἀγωγός, <i>de</i> ἄγω.`

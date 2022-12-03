@@ -1,1 +1,0 @@
-lar[109308]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. χρυσοχοεῖον, ZÉNON (CLÉM. <i>Pæd. 3, 11</i>).`

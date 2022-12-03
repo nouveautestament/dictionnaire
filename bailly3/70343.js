@@ -1,1 +1,0 @@
-lar[70343]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne une maison <i>ou</i> un appartement, DL. <i>5, 55</i>.<p><b>Étym</b>. οἴκημα.`

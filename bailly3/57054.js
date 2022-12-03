@@ -1,1 +1,0 @@
-lar[57054]=`<b>(ὁ)</b> Korètas, <i>h</i>. PLUT. <i>M. 433d</i>.`

@@ -1,1 +1,0 @@
-lar[77134]=`<b>ου (ὁ)</b> fournisseur de vivres aux agents qui voyageaient pour le service public, CIC. <i>Att. 13, 2, 2</i>.<p><b>Étym</b>. παρέχω.`

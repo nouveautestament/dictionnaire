@@ -1,1 +1,0 @@
-lar[83774]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les moutons, <i>et, p. ext.,</i> les chèvres, EUP. <i>2-1, 427 Meineke</i> ; προβατικὴ πύλη, NT. <i>Joh. 5, 2,</i> porte <i>ou</i> piscine probatique où on lavait les bestiaux pour les sacrifices, <i>à Jérusalem</i>.<p><b>Étym</b>. πρόβατον.`

@@ -1,1 +1,0 @@
-lar[29186]=`<b>δωρο·ληψία, ας (ἡ)</b> acceptation de présents, DC. <i>39, 55</i>.<p><b>Étym</b>. <i>cf</i>. δωρολήπτης.`

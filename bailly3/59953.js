@@ -1,1 +1,0 @@
-lar[59953]=`<b>ας (ἡ)</b> <font color="purple">[λᾱ]</font> <i>surt. au pl</i>. carrière de pierres, ANTH. <i>11, 253</i> ; EL. <i>V.H. 12, 44 ; particul. à Syracuse,</i> carrière servant de prison, PLUT. <i>M. 334c</i>.<p><b>Étym</b>. λατόμος ; <i>cf. lat</i>. lautumiæ.`

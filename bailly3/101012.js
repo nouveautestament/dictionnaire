@@ -1,1 +1,0 @@
-lar[101012]=`<b>τυμβ·ολέτης, ου (ὁ)</b> qui viole <i>ou</i> dépouille les tombeaux, ANTH. <i>8, 172, 184, 198, etc</i>.<p><b>Étym</b>. τ. ὄλλυμι.`

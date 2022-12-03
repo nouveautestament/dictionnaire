@@ -1,1 +1,0 @@
-lar[10697]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> pronominal, DH. <i>Amm. 2, 12</i> ; DYSC. <i>Pron. 290, etc</i>.<p><b>Étym</b>. ἀντωνυμία.`

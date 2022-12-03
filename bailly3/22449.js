@@ -1,1 +1,0 @@
-lar[22449]=`<b>γονο·πώτης, ου (ὁ)</b> qui boit du liquide séminal, MAN. <i>4, 311</i>.<p><b>Étym</b>. γόνος, πίνω.`

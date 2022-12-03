@@ -1,1 +1,0 @@
-lar[108363]=`<b>ου (ὁ) :<br>      1</b> <i>dim. de</i> χήν, EUB. <i>3, 211 Meineke</i>.<br><b>      2</b> extrémité de la poupe d’un navire recourbée comme le cou de l’oie, LUC. <i>V.H. 2, 41, Nav. 5, J. tr. 47</i> ; ARTÉM. <i>110 Reiff</i>.<p><b>Étym</b>. χήν.`

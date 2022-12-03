@@ -1,1 +1,0 @@
-lar[62768]=`<b>(ὁ)</b> Mandrokleidas, <i>Spartiate,</i> PLUT. <i>Pyrrh. 26, Agis 6, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Μανδροκλέης.`

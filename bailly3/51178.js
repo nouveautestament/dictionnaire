@@ -1,1 +1,0 @@
-lar[51178]=`<b>ατος (τὸ)</b> beau travail, chef-d’œuvre, JUL. <i>Ep. 205</i>.<p><b>Étym</b>. καλλιουργέω.`

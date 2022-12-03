@@ -1,1 +1,0 @@
-lar[8560]=`<b>*ἀν·ερπύζω</b> <font color="darkgreen">(<i>ao</i>. -είρπυσα <font color="purple">[ῠ]</font>)</font> monter en rampant, <i>d’où</i> se glisser en haut dans, <i>ou, p. ext</i>., pénétrer dans, LUC. <i>Nec. 22, etc. ; en gén</i>. aller, AR. <i>Pax 586</i>.<p><b>Étym</b>. ἀνά, ἑ.`

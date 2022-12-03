@@ -1,1 +1,0 @@
-lar[37623]=`<b>εως (ἡ)</b> récit sur lequel on revient, ARSTT. <i>Rhet. 3, 13</i> ; QUINT. <i>4, 2, 128</i>.<p><b>Étym</b>. ἐπιδιηγέομαι.`

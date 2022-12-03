@@ -1,1 +1,0 @@
-lar[103646]=`<b>ὑπο·παρωθέω-ῶ</b>, écarter tout doucement, IS. <i>73, 17</i>.`

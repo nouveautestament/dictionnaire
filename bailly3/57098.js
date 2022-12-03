@@ -1,1 +1,0 @@
-lar[57098]=`<b>ου (ὁ)</b> = <i>lat</i>. Cornēlius, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 47, 60, etc</i>.`

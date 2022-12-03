@@ -1,1 +1,0 @@
-lar[74629]=`<b>παλίσ·συτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui se précipite en arrière, SOPH. <i>O.R. 193</i> ; EUR. <i>Suppl. 388</i> ; POL. <i>15, 12, 2</i>.<p><b>Étym</b>. π. σεύομαι.`

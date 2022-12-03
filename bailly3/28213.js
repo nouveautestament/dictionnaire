@@ -1,1 +1,0 @@
-lar[28213]=`<b>δυσ·αποδίδακτος, ος, ον</b> <font color="purple">[ῠᾰῐ]</font> qu’on désapprend avec peine, JOS. <i>A.J. 16, 2, 4</i>.<p><b>Étym</b>. δ. ἀποδιδάσκω.`

@@ -1,1 +1,0 @@
-lar[78428]=`<b>περι·βαρίδες, ων (αἱ)</b> <font color="purple">[ᾱῐ]</font> chaussures de servante, AR. <i>Lys. 45</i> ; THPP. COM. <i>2, 811</i> ; CÉPHISOD. (<i>Com. fr. 2, 884).</i><p><b>Étym</b>. π. βᾶρις.`

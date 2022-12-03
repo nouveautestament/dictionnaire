@@ -1,1 +1,0 @@
-lar[51860]=`<b>ας (ἡ)</b> possession, jouissance, usufruit, PHIL. <i>2, 380</i>.<p><b>Étym</b>. καρπός.`

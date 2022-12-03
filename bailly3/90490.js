@@ -1,1 +1,0 @@
-lar[90490]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> intendance des vivres, POL. <i>1, 52, 5</i> ; PHIL. <i>2, 64</i>.<p><b>Étym</b>. σίταρχος.`

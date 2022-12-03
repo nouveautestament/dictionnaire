@@ -1,1 +1,0 @@
-lar[92099]=`<b>σταθμο·δότης, ου (ὁ)</b> officier chargé de préparer les logements, PLUT. <i>Demetr. 23</i>.<p><b>Étym</b>. σταθμός, δίδωμι.`

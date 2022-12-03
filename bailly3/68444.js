@@ -1,1 +1,0 @@
-lar[68444]=`<b>ας (ἡ)</b> fonction de νεωκόρος, PLUT. <i>M. 351c ;</i> MAN. <i>4, 441</i>.<p>➳ <i>Ion</i>. -ίη, ANTH. <i>App. 256</i>.`

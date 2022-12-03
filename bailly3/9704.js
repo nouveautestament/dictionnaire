@@ -1,1 +1,0 @@
-lar[9704]=`<i>adv</i>., en sens inverse <i>ou</i> contraire, contrairement, ARSTT. <i>Phys. 3, 6, 7, etc</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> ἀντιστρέφω.`

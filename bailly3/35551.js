@@ -1,1 +1,0 @@
-lar[35551]=`<b>ἐξ·αποδύνω</b> (<i>seul. impf. 3 sg</i>. ἐξαπέδυνε) dépouiller de, <i>avec double acc</i>. OD. <i>5, 372</i>.`

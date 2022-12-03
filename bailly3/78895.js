@@ -1,1 +1,0 @@
-lar[78895]=`<b>περί·λοιπος, ος, ον</b>, qui reste, qui survit, AR. <i>Pax 208</i> ; THC. <i>1, 74</i>.<p><b>Étym</b>. περιλείπω.`

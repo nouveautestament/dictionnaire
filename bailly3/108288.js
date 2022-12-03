@@ -1,1 +1,0 @@
-lar[108288]=`<b>χερο·κένως</b>, <i>adv</i>., avec les mains vides, SPT. <i>1Par. 12, 33</i>.<p><b>Étym</b>. χείρ, κενός.`

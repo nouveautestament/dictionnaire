@@ -1,1 +1,0 @@
-lar[54120]=`<b>κατ·ολιγωρέω-ῶ</b> <font color="purple">[ῐ]</font> négliger entièrement, <i>gén</i>. LYS. <i>166, 8</i> ; LGN <i>13, 2 ; abs</i>. être négligent : ἔν τινι, DIOGÉN. <i>Prov. 2, 75,</i> pour qqe ch.`

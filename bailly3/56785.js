@@ -1,1 +1,0 @@
-lar[56785]=`<b>(ὁ)</b> Komètas, <i>poète de l’Anthologie,</i> ANTH. <i>5, 265, etc</i>.`

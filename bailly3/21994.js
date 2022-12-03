@@ -1,1 +1,0 @@
-lar[21994]=`<b>οῦς (ἡ)</b> <font color="purple">[ῐ]</font> Gigartô, <i>bacchante,</i> NONN. <i>D. 21, 77, etc</i>.<p><b>Étym</b>. γίγαρτον.`

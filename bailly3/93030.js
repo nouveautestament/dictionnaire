@@ -1,1 +1,0 @@
-lar[93030]=`<b>Στρυμό·δωρος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Strymodôros, AR. <i>Ach. 273, Lys. 257, etc</i>.<p><b>Étym</b>. Στρυμών, δῶρον.`

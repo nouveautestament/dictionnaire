@@ -1,1 +1,0 @@
-lar[2458]=`<b>α, ον</b>, d’Éthiopie, éthiopien, DP. <i>38</i> ; ἡ Αἰθιοπίη χώρη, HDT. <i>3, 114</i> ; ἡ Αἰθιοπίη, HDT. <i>2, 30</i> ; ἡ Αἰθιοπία, THC. <i>2, 48,</i> Éthiopie, <i>contrée d’Afrique</i>.<p><b>Étym</b>. Αἰθίοψ.`

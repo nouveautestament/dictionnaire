@@ -1,1 +1,0 @@
-lar[102395]=`<b>ὑπερδιψάω-ῶ</b>, avoir une soif extrême, GAL. <i>4, 569</i>.<p><b>Étym</b>. ὑπέρδιψος.`

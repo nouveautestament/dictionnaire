@@ -1,1 +1,0 @@
-lar[99122]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. τιθηνός, ANTH. <i>7, 241</i> ; A. PL. <i>179</i>.`

@@ -1,1 +1,0 @@
-lar[75746]=`<i>adv</i>., de manière à exhorter, à exciter, <i>ou, particul</i>., à consoler, CLÉM. <i>869</i>.`

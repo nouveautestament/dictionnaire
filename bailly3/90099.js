@@ -1,1 +1,0 @@
-lar[90099]=`<b>ου (ὁ)</b> habitant de Singos, THC. <i>5, 18</i>.<p><b>Étym</b>. Σίγγος.`

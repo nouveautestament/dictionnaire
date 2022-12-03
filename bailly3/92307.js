@@ -1,1 +1,0 @@
-lar[92307]=`<b>εως</b>, <i>dat</i>. <b>-ι (ἡ)</b> Steiris, <i>v. de Phocide,</i> PLUT. <i>Cim. 1</i>.`

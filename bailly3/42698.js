@@ -1,1 +1,0 @@
-lar[42698]=`<b>ατος (τὸ)</b> <font color="purple">[χᾰ]</font> heureuse invention, CHRYSIPP. (EM. <i>v°</i> Ῥέα, <i>p. 701, 25).</i><p><b>Étym</b>. εὐμήχανος.`

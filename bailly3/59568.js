@@ -1,1 +1,0 @@
-lar[59568]=`<b>α, ον</b> <font color="purple">[ῡ]</font> des Lestrygons, OD. <i>10, 82 ; 23, 318</i>.<p><b>Étym</b>. Λαιστρυγόνες.`

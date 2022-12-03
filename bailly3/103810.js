@@ -1,1 +1,0 @@
-lar[103810]=`<b>ὑπο·σέληνος, ος, ον</b>, sous la lune, sublunaire, XÉNOCR. PH. (STOB. <i>Ecl. t. 1, p. 62).</i><p><b>Étym</b>. ὑ. σελήνη.`

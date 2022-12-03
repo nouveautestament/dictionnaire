@@ -1,1 +1,0 @@
-lar[101675]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> aboiement, IL. <i>21, 575,</i> XÉN. <i>Cyn. 4, 5</i> ; ARSTT. <i>H.A. 4, 10, 2, etc</i>.<p><b>Étym</b>. ὑλάσσω.`

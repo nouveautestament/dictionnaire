@@ -1,1 +1,0 @@
-lar[85092]=`<b>προσ·αθυμέω-ῶ</b> <font color="purple">[ᾰῡ]</font> se décourager au sujet de, <i>dat</i>. JOS. <i>B.J. 4, 1, 6</i>.`

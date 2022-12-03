@@ -1,1 +1,0 @@
-lar[77253]=`<b>Πασί·φιλος, ου (ὁ)</b> <font color="purple">[ᾱῐῐ]</font> Pasiphilos, ANTH. <i>12, 218</i>.<p><b>Étym</b>. π. φίλος.`

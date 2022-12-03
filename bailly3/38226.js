@@ -1,1 +1,0 @@
-lar[38226]=`<b>ἐπι·κύπτω :<br>      1</b> pencher la tête sur, se pencher sur : ἐπί τι, XÉN. <i>Cyr. 2, 3, 18</i> ; ἔς τι, LUC. <i>Herm. 2,</i> sur qqe ch. ; <i>abs</i>. HPC. <i>Art. 819</i> ; AR. <i>Th. 239</i> ; ARSTT. <i>H.A. 3, 21, 2</i>.<br><b>      2</b> s’appuyer sur, <i>dat</i>. LUC. <i>D. mort. 6, 2</i>.`

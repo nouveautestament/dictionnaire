@@ -1,1 +1,0 @@
-lar[107512]=`<b>χαλαζόομαι-οῦμαι</b> <font color="purple">[χᾰ]</font> devenir <i>ou</i> être ladre, <i>maladie des porcs,</i> ARSTT. <i>H.A. 8, 21</i>.<p><b>Étym</b>. χάλαζα.`

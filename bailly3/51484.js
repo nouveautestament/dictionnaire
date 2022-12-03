@@ -1,1 +1,0 @@
-lar[51484]=`<font color="purple">[ᾰᾰ]</font> <i>ou</i> <b>κάνναθρον, ου (τὸ)</b> charrette <i>ou</i> voiture recouverte de nattes de jonc <i>ou</i> d’osier, XÉN. <i>Ages. 8, 7</i> ; PLUT. <i>Ages. 19</i>.<p><b>Étym</b>. κάνης.`

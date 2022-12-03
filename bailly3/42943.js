@@ -1,1 +1,0 @@
-lar[42943]=`<i>adv</i>., en se consolant facilement, PHALAR. <i>Ep. 55, dout</i>.`

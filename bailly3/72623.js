@@ -1,1 +1,0 @@
-lar[72623]=`<b>εως (ἡ)</b> action de tendre vers, <i>d’où</i> appétit :<br><b>      1</b> désir de nourriture, PLUT. <i>M. 479b.</i><br><b>      2</b> désir <i>en gén</i>. PLAT. <i>Def. 414b ;</i> ARSTT. <i>Rhet. 1, 10, 3</i>.<p><b>Étym</b>. ὀρέγω.`

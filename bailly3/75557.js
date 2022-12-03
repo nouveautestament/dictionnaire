@@ -1,1 +1,0 @@
-lar[75557]=`<b>παρα·δύνω</b> (<i>seul. prés. et impf.) c</i>. παραδύομαι, ARSTT. <i>Probl. 20, 22, 3</i>.`

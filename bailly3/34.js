@@ -1,1 +1,0 @@
-lar[34]=`<font color="purple">[ᾰᾰ]</font> (<i>part. prés. moy</i>. ἀβακιζόμενος) <i>c</i>. ἀβακέω, ANACR. <i>78, 4</i>.`

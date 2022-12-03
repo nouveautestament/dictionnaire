@@ -1,1 +1,0 @@
-lar[79665]=`<b>εως (ἡ)</b> <font color="purple">[χᾰ]</font> action de graver <i>ou</i> de gratter tout autour, ORIB. <i>p. 6 Mai</i> ; GEOP. <i>10, 77, 2</i>.<p><b>Étym</b>. περιχαράσσω.`

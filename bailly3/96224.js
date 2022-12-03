@@ -1,1 +1,0 @@
-lar[96224]=`<b>συν·οροφόω-ῶ</b>, couvrir comme d’une voûte, obscurcir, LUC. <i>Am. 12</i>.`

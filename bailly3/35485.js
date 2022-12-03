@@ -1,1 +1,0 @@
-lar[35485]=`<b>ἐξ·άνειμι</b> <font color="purple">[ᾰ]</font><br><b>      1</b> se lever et sortir de, venir de, <i>gén</i>. A.RH. <i>2, 459 ; en parl. de la lumière des étoiles,</i> THCR. <i>Idyl. 22, 8</i>.<br><b>      2</b> revenir de, HH. <i>Pan 15</i>.`

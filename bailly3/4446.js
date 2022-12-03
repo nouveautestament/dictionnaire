@@ -1,1 +1,0 @@
-lar[4446]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> pêche, STR. <i>493</i>.<p><b>Étym</b>. ἁλιεύω.`

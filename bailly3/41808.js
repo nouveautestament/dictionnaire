@@ -1,1 +1,0 @@
-lar[41808]=`<b>εὐ·γραφής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>pass</i>. bien peint, ANTH. <i>6, 221</i>.<br><b>      2</b> <i>act</i>. qui écrit bien, ANTH. <i>6, 66</i>.<p><b>Étym</b>. εὖ, γράφω.`

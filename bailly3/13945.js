@@ -1,1 +1,0 @@
-lar[13945]=`<b>ας (ἡ)</b> le fait de ne pas s’attendre à, PLAT. <i>Def. 412d</i>.<p><b>Étym</b>. ἀ, προσδοκέω.`

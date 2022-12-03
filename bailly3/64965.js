@@ -1,1 +1,0 @@
-lar[64965]=`<b>ῶν (αἱ)</b> brebis d’âge moyen (<i>entre les πρόγονοι et les ἕρσαι</i>) OD. <i>9, 221</i>.<p><b>Étym</b>. μετά.`

@@ -1,1 +1,0 @@
-lar[91305]=`<b>(ὁ)</b> Skylès, <i>roi des Scythes,</i> HDT. <i>4, 76, etc</i>.`

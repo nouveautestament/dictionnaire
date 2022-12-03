@@ -1,1 +1,0 @@
-lar[63041]=`<b>(ὁ)</b> Masistès, <i>fils de Darius,</i> HDT. <i>7, 82 ; 9, 107, 113</i>.<p>➳ <i>Voc</i>. Μασίστα, HDT. <i>9, 111 ; gén. ion</i>. Μασίστεω, HDT. <i>7, 108, etc</i>.`

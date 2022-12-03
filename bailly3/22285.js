@@ -1,1 +1,0 @@
-lar[22285]=`<b>ου (ὁ)</b> Gnèsippos, <i>h</i>. XÉN. <i>An. 7, 3, 28, etc</i>.`

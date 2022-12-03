@@ -1,1 +1,0 @@
-lar[75613]=`<b>παρά·θυρος, ου (ἡ)</b> <font color="purple">[ῠ]</font> <i>s.e</i>. θύρα, porte de côté <i>ou</i> porte dérobée, PLUT. <i>M. 617a ;</i> CLÉM. <i>Str. 7, p. 897</i>.<p><b>Étym</b>. π. θύρα.`

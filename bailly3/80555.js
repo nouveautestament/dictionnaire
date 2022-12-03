@@ -1,1 +1,0 @@
-lar[80555]=`<b>εως (ἡ)</b> <font color="purple">[ῐῡᾰ]</font> dartre farineuse, GAL. <i>10, 578</i>.<p><b>Étym</b>. πίτυρον.`

@@ -1,1 +1,0 @@
-lar[32043]=`<b>ἔκ·σκηνος, ος, ον</b>, qui est hors de la tente, <i>d’où</i> exilé de, <i>gén. fig</i>. SEXT. <i>408, 5 Bkk</i>.<p><b>Étym</b>. ἐκ, σκηνή.`

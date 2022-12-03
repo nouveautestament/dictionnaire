@@ -1,1 +1,0 @@
-lar[75731]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> dérangement, distorsion, GAL. <i>14, 780</i>.<p><b>Étym</b>. παρακινέω.`

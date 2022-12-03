@@ -1,1 +1,0 @@
-lar[91845]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> semis de plantes, TH. <i>7, 5, 3</i>.<br><b>      2</b> fécondation, SPT. <i>Lev. 18, 23</i>.<p><b>Étym</b>. σπερματίζω.`

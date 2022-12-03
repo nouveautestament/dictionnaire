@@ -1,1 +1,0 @@
-lar[63612]=`<b>μεθ·ιππεύω</b>, chevaucher dans une autre direction, APP. <i>Lib. 44</i>.<p><b>Étym</b>. μετά, ἵ.`

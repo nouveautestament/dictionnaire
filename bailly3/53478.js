@@ -1,1 +1,0 @@
-lar[53478]=`<b>κατα·στρατεύομαι :<br>      1</b> faire la guerre à, guerroyer contre, <i>gén</i>. CLÉM. <i>827</i>.<br><b>      2</b> envahir avec une armée, porter la guerre dans, <i>acc</i>. CHION. <i>Ep. 2</i>.`

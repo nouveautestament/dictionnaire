@@ -1,1 +1,0 @@
-lar[82493]=`<b>ας (ἡ)</b> <font color="purple">[ῠφᾰ]</font> gourmandise, voracité, ARSTT. <i>G.A. 4, 3, 20</i> ; PLUT. <i>M. 624a</i>.<p><b>Étym</b>. πολυφάγος.`

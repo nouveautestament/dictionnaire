@@ -1,1 +1,0 @@
-lar[23378]=`<b>οἶνος (ὁ)</b> vin parfumé de laurier, GEOP. <i>8, 8</i>.<p><b>Étym</b>. δάφνη.`

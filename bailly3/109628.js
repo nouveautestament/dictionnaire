@@ -1,1 +1,0 @@
-lar[109628]=`<b>ψευδ·άδελφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> faux frère, NT. <i>Gal. 2, 4</i>.<p><b>Étym</b>. ψ. ἀδελφός.`

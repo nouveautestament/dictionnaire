@@ -1,1 +1,0 @@
-lar[28193]=`<b>δυσ·ανιῶν, ῶσα, ῶν</b> <font color="purple">[ῠᾰῐ]</font> qui cause du chagrin <i>ou</i> du mécontentement, PLUT. <i>M. 106d</i>.<p><b>Étym</b>. δ. ἀνιάω.`

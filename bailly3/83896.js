@@ -1,1 +1,0 @@
-lar[83896]=`<b>προ·δηλόω-ῶ</b>, déclarer <i>ou</i> notifier d’avance, THC. <i>6, 34</i> ; PLUT. <i>Pomp. 32 ; au pass</i>. POL. <i>10, 46, 10, etc</i>.`

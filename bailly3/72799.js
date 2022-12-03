@@ -1,1 +1,0 @@
-lar[72799]=`<b>ου (τὸ)</b> <font color="purple">[ῑγ]</font> <i>dim. de</i> ὀρίγανον, ORIB. <i>p. 67 fin</i>.`

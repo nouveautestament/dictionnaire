@@ -1,1 +1,0 @@
-lar[103367]=`<b>ὑπο·κινύρομαι</b> <font color="purple">[ῑῡ]</font> chantonner, fredonner, EL. <i>V.H. 9, 11</i>.`

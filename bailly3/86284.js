@@ -1,1 +1,0 @@
-lar[86284]=`<b>προσ·παροξύνω</b> (<i>pf</i>. προσπαρώξυγκα) exciter en outre <i>ou</i> encore plus, HPC. <i>Acut. 283</i> ; STR. <i>660</i> ; PLUT. <i>Alex. 52</i> ; DC. <i>37, 29 au pf</i>.`

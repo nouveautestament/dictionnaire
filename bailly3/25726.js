@@ -1,1 +1,0 @@
-lar[25726]=`<b>δια·τήκω</b>, dissoudre en faisant fondre, <i>d’où</i> amollir par la chaleur, AR. <i>Nub. 179 ; p. suite,</i> relâcher (les intestins) HPC. <i>Aër. 284 ; au pass</i>. se fondre, XÉN. <i>An. 4, 5, 6</i> ; ARSTT. <i>Meteor. 4, 8, 8</i>.`

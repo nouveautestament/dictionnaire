@@ -1,1 +1,0 @@
-lar[33391]=`<b>ἐμ·πελάζω :<br>      1 <i>tr.</i></b> faire approcher, mettre aux prises, <i>acc</i>. HÉS. <i>Sc. 109 ; d’où au pass</i>. s’approcher de, <i>gén</i>. SOPH. <i>Tr. 17</i>.<br><b>      2 <i>intr.</i></b> s’approcher de, <i>dat</i>. HH. <i>Merc. 523 (fut. inf</i>. -άσειν) ; SOPH. <i>Tr. 748</i> ; ARSTT. <i>Mund. 4, 18 et 28</i>.`

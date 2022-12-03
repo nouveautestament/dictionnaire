@@ -1,1 +1,0 @@
-lar[8267]=`<b>ἀν·εκφώνητος, ος, ον :<br>      1</b> non prononcé, <i>en parl. de certaines lettres écrites comme l’</i>ι <i>souscrit,</i> EM. <i>203, 7</i>.<br><b>      2</b> qu’on ne doit pas prononcer, BAS. <i>4, 149 Migne</i>.<p><b>Étym</b>. ἀν-, ἐκφωνέω.`

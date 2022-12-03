@@ -1,1 +1,0 @@
-lar[1005]=`<b>ἄ·γυιος, ος, ον</b>, aux membres affaiblis, sans force, HPC. <i>600, 49</i>.<p><b>Étym</b>. ἀ. γυῖον.`

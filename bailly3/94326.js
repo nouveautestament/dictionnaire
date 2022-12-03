@@ -1,1 +1,0 @@
-lar[94326]=`<b>συμ·ποσιάζω</b>, festiner avec <i>ou</i> ensemble, SPT. <i>Deut. 21, 20</i> ; HLD. <i>5, 28</i>.<p><b>Étym</b>. συμπόσιον.`

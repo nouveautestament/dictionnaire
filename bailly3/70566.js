@@ -1,1 +1,0 @@
-lar[70566]=`<b>οἰνο·πότις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. buveuse de vin, ANACR. <i>162</i>.<p><b>Étym</b>. <i>fém. de</i> οἰνοπότης.`

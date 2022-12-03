@@ -1,1 +1,0 @@
-lar[105928]=`<b>φιλο·μεμφής, ής, ές</b> <font color="purple">[ῐ]</font> qui aime à faire des reproches, grondeur, PLUT. <i>M. 706d</i>.<p>•<i> Sup. irrég</i>. φιλομεμφότατος, PLUT. <i>Cim. c. Luc. 1</i>.<p><b>Étym</b>. φ. μέμφομαι.`

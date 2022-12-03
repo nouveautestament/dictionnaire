@@ -1,1 +1,0 @@
-lar[14724]=`<b>Ἀριστο·μάχη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Aristomakhè, <i>f</i>. AR. <i>Th. 806</i> ; PLUT. <i>Tim. 33, etc</i>.<p><b>Étym</b>. <i>f. de</i> Ἀριστόμαχος.`

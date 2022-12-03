@@ -1,1 +1,0 @@
-lar[84801]=`<b>προ·νύσσω</b>, <i>att</i>. <b>-νύττω</b>, aiguillonner en avant, POL. <i>28, 15, 8</i>.`

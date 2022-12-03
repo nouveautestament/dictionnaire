@@ -1,1 +1,0 @@
-lar[25924]=`<b>δια·χλαινόω-ῶ</b> <font color="darkgreen">(<i>ao. 3 sg</i>. διεχλαίνωσε)</font> revêtir d’une robe, <i>fig</i>. NONN. <i>D. 2, 166</i>.<p><b>Étym</b>. διά, χλαῖνα.`

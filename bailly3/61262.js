@@ -1,1 +1,0 @@
-lar[61262]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> fabrique de toiles de lin, STR. <i>191</i>.<p><b>Étym</b>. λινουργός.`

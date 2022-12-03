@@ -1,1 +1,0 @@
-lar[77215]=`<b>πάρ·ωρος, ος, ον :<br>      1</b> qui vient hors de saison, intempestif, TH. <i>C.P. 5, 1, 3 ; adv. plur. n</i>. πάρωρα, CIC. <i>Att. 10, 12, 2,</i> hors de saison.<br><b>      2</b> qui vient trop tard, tardif, EPIC. (DL. <i>10, 122).</i><p><b>Étym</b>. π. ὥρα.`

@@ -1,1 +1,0 @@
-lar[36875]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾰ]</font> la fille d’Épaphos, <i>càd</i>. Libya, NONN. <i>D. 3, 289</i>.<p><b>Étym</b>. Ἔπαφος.`

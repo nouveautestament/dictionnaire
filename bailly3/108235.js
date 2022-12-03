@@ -1,1 +1,0 @@
-lar[108235]=`<b>χέλ·υδρος, ου (ὁ)</b> sorte de serpent d’eau, NIC. <i>Th. 411</i>.<p><b>Étym</b>. χέλυς, ὕδωρ.`

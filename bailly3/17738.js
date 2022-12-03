@@ -1,1 +1,0 @@
-lar[17738]=`<b>αὐτο·ϋπομονή, ῆς (ἡ)</b> la patience en soi, ORIG.<p><b>Étym</b>. αὐ. ὑπομονή.`

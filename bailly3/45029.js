@@ -1,1 +1,0 @@
-lar[45029]=`<b>ατος (τὸ) :<br>      1</b> assaisonnement, XÉN. <i>Mem. 3, 14, 5</i> ; PLAT. <i>Rsp. 332d ; particul. en parl. de vinaigre,</i> ATH. <i>67c ; d’épices,</i> PLUT. <i>M. 995c ; fig</i>. ARSTT. <i>Rhet. 3, 3, 3 ; Poet. 6, 27</i>.<br><b>      2</b> <i>au pl</i>. essences, parfums, HPC. <i>170, 37</i> ; PLUT. <i>M. 995c</i>.<p><b>Étym</b>. ἡδύνω.`

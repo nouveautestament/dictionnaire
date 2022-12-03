@@ -1,1 +1,0 @@
-lar[37895]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de cacher, BAS. <i>1, 909</i>.<p><b>Étym</b>. ἐπικαλύπτω.`

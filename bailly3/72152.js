@@ -1,1 +1,0 @@
-lar[72152]=`<b>ὀξυ·πύθμενος, ος, ον</b> <font color="purple">[ξῠ]</font> dont le fond se termine en pointe, XÉNOCR. <i>Al. 49</i>.<p><b>Étym</b>. ὀ. πυθμήν.`

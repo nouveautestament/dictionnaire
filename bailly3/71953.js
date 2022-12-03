@@ -1,1 +1,0 @@
-lar[71953]=`<b>ὀνο·κίνδιος, ου (ὁ)</b> ânier, EUP. <i>2-1, 501 Meineke par crase avec l’art</i>. οὑνοκίνδιος.<p><b>Étym</b>. ὄνος, κινέω.`

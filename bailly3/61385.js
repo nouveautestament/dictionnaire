@@ -1,1 +1,0 @@
-lar[61385]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> graisseux, TH. <i>H.P. 3, 12, 1</i>.<p><b>Étym</b>. λίπος, -ωδης.`

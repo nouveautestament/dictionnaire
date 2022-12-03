@@ -1,1 +1,0 @@
-lar[3127]=`<b>ἀκανθόω-ῶ</b> <font color="purple">[ᾰκ]</font> hérisser d’épines ; <i>au pass</i>. se hérisser d’épines <i>ou</i> de piquants, TH. <i>H.P. 7, 6, 2, etc</i>.<p><b>Étym</b>. ἄκανθα.`

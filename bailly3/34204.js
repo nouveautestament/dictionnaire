@@ -1,1 +1,0 @@
-lar[34204]=`<b>ου (τὸ)</b> lieu de séjour en plein air, <i>d’où</i> gîte, OPP. <i>H. 4, 371 ; fig</i>. ANTH. <i>11, 63</i>.<p><b>Étym</b>. <i>neutre de</i> ἔνδιος.`

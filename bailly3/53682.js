@@ -1,1 +1,0 @@
-lar[53682]=`<b>ατος (τὸ)</b> hennissement d’un cheval qui se cabre, <i>d’où</i> orgueil, EPICT. <i>Ench. 3, 26 dout</i>.<p><b>Étym</b>. καταφρυάττομαι.`

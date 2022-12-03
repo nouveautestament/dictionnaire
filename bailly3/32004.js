@@ -1,1 +1,0 @@
-lar[32004]=`<b>οῦ (ὁ)</b> qui déracine, qui extirpe, JOS. <i>Macc. 3</i>.<p><b>Étym</b>. ἐκριζόω.`

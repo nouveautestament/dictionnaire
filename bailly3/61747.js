@@ -1,1 +1,0 @@
-lar[61747]=`<b>α, ον</b>, qui se plaît dans les taillis, AR. <i>Av. 737</i>.<p><b>Étym</b>. λόχμη.`

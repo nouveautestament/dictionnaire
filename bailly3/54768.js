@@ -1,1 +1,0 @@
-lar[54768]=`<b>εως (ἡ)</b> position centrale, centre, PROCL. <i>Ptol. p. 143, 9, etc</i>.<p><b>Étym</b>. κεντρόω.`

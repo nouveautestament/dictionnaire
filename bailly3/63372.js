@@ -1,1 +1,0 @@
-lar[63372]=`<b>μεγαλο·κίνδυνος, ος, ον</b> <font color="purple">[ᾰῡ]</font> qui s’expose à de grands dangers, ARSTT. <i>Nic. 4, 3, 23</i>.<p><b>Étym</b>. μ. κ.`

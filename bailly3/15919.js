@@ -1,1 +1,0 @@
-lar[15919]=`<b>ας (ἡ)</b> manque de réflexion, POL. <i>2, 63</i>.<p><b>Étym</b>. ἄσκεπτος.`

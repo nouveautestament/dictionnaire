@@ -1,1 +1,0 @@
-lar[16073]=`<b>ἀ·σπορία, ας (ἡ)</b> absence de semence, <i>d’où</i> stérilité, MAN. <i>4, 585 (ion</i>. -ίη) ; SIB. <i>3, 542</i>.<p><b>Étym</b>. ἄσπορος.`

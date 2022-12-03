@@ -1,1 +1,0 @@
-lar[25002]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰσ]</font> ce que l’on mâche, DIOSC. <i>1, 125</i>.<p><b>Étym</b>. διαμασάω.`

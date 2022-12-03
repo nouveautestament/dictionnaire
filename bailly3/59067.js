@@ -1,1 +1,0 @@
-lar[59067]=`<b>ων (τὰ)</b> Kypséles, <i>place forte d’Arcadie,</i> THC. <i>5, 33</i>.`

@@ -1,1 +1,0 @@
-lar[3156]=`<b>ἀ·κάρπωτος, ος, ον :</b> dont on ne recueille aucun fruit, stérile, TH. <i>C.P. 3, 13, 3 ; fig</i>. χρησμὸς ἀ. ESCHL. <i>Eum. 714,</i> oracle qui ne s’est pas accompli ; ψευσθεῖσα χάριν ἀκάρπωτον νίκας, SOPH. <i>Aj. 176,</i> frustrée de la récompense d’une victoire dont elle n’a pas recueilli le fruit.<p><b>Étym</b>. ἀ, καρπόω.`

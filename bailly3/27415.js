@@ -1,1 +1,0 @@
-lar[27415]=`<b>δολιό·πους</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> au pied perfide, <i>càd</i>. qui s’avance sournoisement, SOPH. <i>El. 1392</i>.<p><b>Étym</b>. δόλιος, πούς.`

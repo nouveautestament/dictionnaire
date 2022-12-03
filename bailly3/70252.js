@@ -1,1 +1,0 @@
-lar[70252]=`<b>ας (ἡ)</b> Œantheia (<i>auj</i>. ruines près de Tolofón, de Glyfađa <i>ou, sel. d’autres,</i> de Galaxíđi) <i>v. des Locriens Ozoles,</i> POL. <i>4, 57, 2</i>.`

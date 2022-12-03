@@ -1,1 +1,0 @@
-lar[94151]=`<b>σύμ·πειρος, ος, ον</b>, qui a l’expérience de, <i>dat</i>. PD. <i>N. 7, 15</i>.<p><b>Étym</b>. σ. πεῖρα.`

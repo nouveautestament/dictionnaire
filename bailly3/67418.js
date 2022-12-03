@@ -1,1 +1,0 @@
-lar[67418]=`<b>μυσ·πολέω-ῶ</b>, trotter comme une souris, AR. <i>Vesp. 140</i>.<p><b>Étym</b>. μῦς, πολέω.`

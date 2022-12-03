@@ -1,1 +1,0 @@
-lar[104054]=`<b>ὑπό·τρυγος, ος, ον</b> <font color="purple">[ῠ]</font> chargé de lie, HPC. <i>1139d</i>.<p><b>Étym</b>. ὑ. τρύξ.`

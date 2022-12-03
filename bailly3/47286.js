@@ -1,1 +1,0 @@
-lar[47286]=`<b>θηριό·δηκτος, ος, ον</b>, mordu par une bête venimeuse, DIOSC. <i>4, 24</i> ; DAMOCR. (GAL. <i>13, 902).</i><p><b>Étym</b>. θ. δάκνω.`

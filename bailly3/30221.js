@@ -1,1 +1,0 @@
-lar[30221]=`<b>εἰαρό·μασθος, ος, ον</b> <font color="purple">[ᾰ]</font> au sein printanier, au jeune sein, ANTH. <i>5, 76</i>.<p><b>Étym</b>. εἶαρ, μασθός.`

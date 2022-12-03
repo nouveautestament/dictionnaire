@@ -1,1 +1,0 @@
-lar[103323]=`<b>ὑπο·κάρδιος, ος, ον</b>, qui est au fond du cœur, THCR. <i>Idyl. 11, 15 ; 20, 17</i> ; NONN. <i>Jo. 6, 58 ; 15, 28</i>.<p><b>Étym</b>. ὑ. καρδία.`

@@ -1,1 +1,0 @@
-lar[25573]=`<b>οῦ (ὁ)</b> <font color="purple">[πᾰ]</font> déchirement, CHRYS. <i>7, 515</i>.<p><b>Étym</b>. διασπαράσσω.`

@@ -1,1 +1,0 @@
-lar[3063]=`<b>ας (ἡ)</b> acacia, <i>arbre,</i> DIOSC. <i>1, 133 ; 3, 25</i>.`

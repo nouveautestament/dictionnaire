@@ -1,1 +1,0 @@
-lar[99402]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> sorte de blé, <i>p.-ê. le même que</i> ὄλυρα, ARSTT. <i>H.A. 8, 21, 5</i> ; TH. <i>H.P. 1, 6, 5</i>.<br><b>      2</b> tipule, <i>insecte, cf</i>. τίλφη <i>ou</i> σίλφη, AR. <i>Ach. 920, 925</i> ; EL. <i>N.A. 8, 13</i>.`

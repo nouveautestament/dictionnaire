@@ -1,1 +1,0 @@
-lar[53107]=`<b>κατα·πλίσσω</b> (<i>seul. fut.2 pass</i>. καταπλιγήσομαι) culbuter, rouler son adversaire à la lutte, AR. <i>fr. 1</i>.`

@@ -1,1 +1,0 @@
-lar[102157]=`<b>ὑπ·εκφύω</b>, <i>au moy</i>. croître en dessous de, <i>gén</i>. PHILSTR. <i>786</i>.`

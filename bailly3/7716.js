@@ -1,1 +1,0 @@
-lar[7716]=`<b>ἀνα·στυφελίζω</b> <font color="purple">[ῠ]</font> heurter, renverser, NONN. <i>D. 1, 181</i>.`

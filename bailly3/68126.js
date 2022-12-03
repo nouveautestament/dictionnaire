@@ -1,1 +1,0 @@
-lar[68126]=`<b>νεο·δουπής, ής, ές</b>, tué depuis peu, NIC. (ATH. <i>684c conj</i>.).<p><b>Étym</b>. ν. δουπέω.`

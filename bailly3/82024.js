@@ -1,1 +1,0 @@
-lar[82024]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de Polykratès, ARSTT. <i>Pol. 5, 9, 4</i>.<p><b>Étym</b>. πολυκρατής.`

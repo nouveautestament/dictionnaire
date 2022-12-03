@@ -1,1 +1,0 @@
-lar[64564]=`<b>μεσο·ρραγής, ής, ές</b> <font color="purple">[ᾰ]</font> déchiré (<i>propr</i>. rompu) au milieu, OPP. <i>H. 2, 31</i>.<p><b>Étym</b>. μ. ῥήγνυμι.`

@@ -1,1 +1,0 @@
-lar[101620]=`<b>ης (ἡ)</b> <i>autre n. de</i> Ἐλέα = <i>lat</i>. Velia, <i>v. d’Italie,</i> HDT. <i>1, 167</i> ; STR. <i>252</i>.<p><b>Étym</b>. ἕλος.`

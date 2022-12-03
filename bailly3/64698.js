@@ -1,1 +1,0 @@
-lar[64698]=`<b>μετα·δαίνυμαι</b>, prendre sa part d’un festin, Q. SM. <i>2, 157</i> ; ἱρῶν, IL. <i>23, 207,</i> d’un repas sacré ; τινι, IL. <i>22, 498</i> ; OD. <i>18, 48,</i> avec qqn.`

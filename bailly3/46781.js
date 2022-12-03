@@ -1,1 +1,0 @@
-lar[46781]=`<b>θεο·σεβής, ής, ές</b>, qui honore la divinité, religieux, HDT. <i>1, 86 ; 2, 37</i> ; EUR. <i>Alc. 604</i> ; AR. <i>Av. 897</i> ; PLAT. <i>Crat. 394d, etc.</i> ; τὸ θεοσεβές, PLAT. <i>Epin. 977e</i>, la piété.<p>•<i> Sup</i>. -έστατος, SOPH. <i>O.C. 260</i> ; PLAT. <i>Tim. 41e, Leg. 909b</i>.<p><b>Étym</b>. θ. σέβω.`

@@ -1,1 +1,0 @@
-lar[71564]=`<b>ὁμοιο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se montre pareil, GAL. <i>12, 473</i>.<p><b>Étym</b>. ὅμ. φαίνω.`

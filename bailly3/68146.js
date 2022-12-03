@@ -1,1 +1,0 @@
-lar[68146]=`<b>νεο·θήρευτος, ος, ον</b>, qu’on vient de prendre à la chasse, ZÉNOB. <i>2, 14</i>.<p><b>Étym</b>. ν. θηρεύω.`

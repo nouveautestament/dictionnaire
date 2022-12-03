@@ -1,1 +1,0 @@
-lar[20135]=`<b>ῶνος (ὁ)</b> fosse à jeter (le fumier), DIN. <i>et</i> PHILÉM. (<i>Cram. 2, 492).</i><p><b>Étym</b>. βολή.`

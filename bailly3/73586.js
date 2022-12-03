@@ -1,1 +1,0 @@
-lar[73586]=`<b>οῦς (ἡ)</b> déesse des gerbes, <i>càd</i>. Dèmèter, SEMUS (ATH. <i>618d</i>).<p><b>Étym</b>. <i>cf</i>. οὖλος⁴.`

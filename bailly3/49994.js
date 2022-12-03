@@ -1,1 +1,0 @@
-lar[49994]=`<b>άδος</b> <font color="purple">[ῐτ]</font> <i>adj. f</i>. d’Itôn, CALL. <i>H. 6, 75</i> ; ANTH. <i>9, 743</i>.`

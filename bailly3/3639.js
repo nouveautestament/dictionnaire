@@ -1,1 +1,0 @@
-lar[3639]=`<b>ἀ·κραίπαλος, ος, ον</b> <font color="purple">[πᾰ]</font><br><b>      1</b> que l’ivresse ne rend pas malade, ARSTT. <i>Probl. 3, 17</i>.<br><b>      2</b> qui n’enivre pas de façon à pendre malade, ATH. <i>32d.</i><br><b>      3</b> qui dissipe l’ivresse, DIOSC. <i>1, 25</i>.<p><b>Étym</b>. ἀ, κραιπάλη.`

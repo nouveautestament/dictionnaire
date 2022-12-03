@@ -1,1 +1,0 @@
-lar[5198]=`<b>Ἀμανίδες πύλαι (αἱ)</b> les portes de l’Amanos, <i>défilé dans la chaîne de l’Amanos,</i> PLUT. <i>Demetr. 49</i>.<p><b>Étym</b>. Ἄμανος.`

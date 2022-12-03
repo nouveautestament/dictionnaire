@@ -1,1 +1,0 @@
-lar[103465]=`<b>ὑπο·λεπτύνω</b> <font color="purple">[ῡ]</font> rendre un peu mince, un peu grêle, un peu faible, P. SIL. <i>Ecphr. amb. 74</i>.`

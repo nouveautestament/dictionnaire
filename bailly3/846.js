@@ -1,1 +1,0 @@
-lar[846]=`<b>ύος (ἡ)</b> <font color="purple">[ᾰ]</font> talent de parler en public, éloquence, OD. <i>8, 168</i>.<p><b>Étym</b>. ἀγοράομαι.`

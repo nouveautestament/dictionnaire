@@ -1,1 +1,0 @@
-lar[50411]=`<b>καθ·ιερεύω</b> <font color="purple">[ᾰ]</font> offrir en sacrifice, consacrer, PLAT. <i>Phædr. 252c ;</i> ARSTT. <i>Nic. 7, 5, 3</i> ; DH. <i>8, 1</i>.`

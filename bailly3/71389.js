@@ -1,1 +1,0 @@
-lar[71389]=`imiter Homère, LIB. <i>t. 4, p. 1070, 26</i>.<p><b>Étym</b>. Ὅμηρος.`

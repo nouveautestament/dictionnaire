@@ -1,1 +1,0 @@
-lar[78736]=`<b>περι·κατατίθεμαι</b> <font color="darkgreen">(<i>ao.2, 3 sg. épq</i>. περικάτθετο)</font> attacher autour, A.RH. <i>3, 156</i>.`

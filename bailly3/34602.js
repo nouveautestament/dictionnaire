@@ -1,1 +1,0 @@
-lar[34602]=`<b>ἐν·ιαύω :<br>      1</b> dormir dans, <i>d’où</i> habiter dans <i>ou</i> parmi, <i>dat</i>. OD. <i>15, 557</i>.<br><b>      2</b> dormir sur, <i>dat</i>. BION <i>1, 72</i>.`

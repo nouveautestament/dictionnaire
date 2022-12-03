@@ -1,1 +1,0 @@
-lar[81617]=`<b>πολιτοφυλακέω-ῶ</b> <font color="purple">[ῑῠᾰ]</font> veiller au salut des citoyens, EN. TACT. <i>Pol. 1</i>.<p><b>Étym</b>. πολιτοφύλαξ.`

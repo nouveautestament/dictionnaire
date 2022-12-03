@@ -1,1 +1,0 @@
-lar[92774]=`<b>στραβαλο·κόμας, ου (ὁ)</b> <font color="purple">[ᾰᾰᾱ]</font> <i>dor</i>. aux cheveux tordus, <i>càd</i>. frisés, SOPH. <i>fr. 948 Dind</i>.<p><b>Étym</b>. στράβηλος, κόμη.`

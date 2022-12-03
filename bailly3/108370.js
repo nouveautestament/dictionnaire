@@ -1,1 +1,0 @@
-lar[108370]=`<b>χηνο·πλούματον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> coussin fait de plumes d’oie, CHRYS. <i>Hom. 26, t. 8, p. 40</i>.<p><b>Étym</b>. χ. <i>lat</i>. pluma.`

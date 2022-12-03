@@ -1,1 +1,0 @@
-lar[24635]=`<b>δια·θέλγω</b> (<i>seul. prés. part. fém</i>. -ουσα) charmer par des flatteries, <i>acc</i>. ANON. (SUID. <i>v° κατεπᾴδουσα</i>).`

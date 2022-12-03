@@ -1,1 +1,0 @@
-lar[90081]=`<b>α, ον</b> <font color="purple">[ῐ]</font> de sibylle, sibyllin, PLUT. <i>Fab. 4</i> ; τὰ Σιβύλλεια, DH. <i>6, 17</i> ; PLUT. <i>Marc. 3, etc</i>. les Livres sibyllins.<p><b>Étym</b>. σίβυλλα.`

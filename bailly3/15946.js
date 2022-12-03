@@ -1,1 +1,0 @@
-lar[15946]=`<i>ou</i> <b>Ἀσκληπίειον, ου (τὸ)</b> temple d’Asklèpios, POL. <i>1, 18, etc.</i> ; STR. PLUT. <i>etc</i>.`

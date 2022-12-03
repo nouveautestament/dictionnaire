@@ -1,1 +1,0 @@
-lar[6736]=`<b>ος, ον</b>, qui remonte vivement en courant, A. TR. <i>1, 15</i>.<p><b>Étym</b>. ἀναδραμεῖν.`

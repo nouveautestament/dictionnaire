@@ -1,1 +1,0 @@
-lar[32337]=`<b>εως (ἡ)</b> action d’emporter, CLÉM. <i>1, 905 Migne</i>.<p><b>Étym</b>. ἐκφορέω.`

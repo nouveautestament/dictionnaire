@@ -1,1 +1,0 @@
-lar[48011]=`<b>ή, όν</b>, en souvenir de la victoire de Thyréa, SOSIB. (ATH. <i>678b</i>).<p><b>Étym</b>. Θυρεά.`

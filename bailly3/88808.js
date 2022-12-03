@@ -1,1 +1,0 @@
-lar[88808]=`<b>ος, ον</b>, roux, roussâtre, DIOSC. <i>4, 133</i>.`

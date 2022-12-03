@@ -1,1 +1,0 @@
-lar[6615]=`<b>ἀναγκο·τροφέω-ῶ</b> <font color="purple">[ᾰν]</font> être soumis à un régime de nourriture, <i>comme les athlètes,</i> EPICT. <i>Ench. 29, 2</i>.<p><b>Étym</b>. ἀ. τροφή.`

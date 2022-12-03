@@ -1,1 +1,0 @@
-lar[75782]=`<b>ατος (τὸ)</b> pièce de monnaie fausse, PHIL. <i>2, 561, etc. ; fig</i>. contrefaçon, PHIL. <i>1, 683</i>.<p><b>Étym</b>. παρακόπτω.`

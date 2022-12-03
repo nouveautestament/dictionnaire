@@ -1,1 +1,0 @@
-lar[16542]=`<b>ἀ·συσκεύαστος, ος, ον</b>, non coordonné, non arrangé, non prêt, XÉN. <i>Œc. 8, 1</i>.`

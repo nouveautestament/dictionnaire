@@ -1,1 +1,0 @@
-lar[58862]=`<b>οῦς (ἡ)</b> Kynô, <i>litt</i>. « la chienne », <i>f</i>. HDT. <i>1, 100, 122</i>.<p><b>Étym</b>. κύων.`

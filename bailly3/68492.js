@@ -1,1 +1,0 @@
-lar[68492]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> agréable, <i>en parl. du sommeil,</i> IL. <i>2, 2</i>.<p><b>Étym</b>. ἥδυμος, <i>en prenant le ν euphonique qui précède au début du mot</i>.`

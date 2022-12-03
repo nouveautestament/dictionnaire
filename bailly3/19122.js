@@ -1,1 +1,0 @@
-lar[19122]=`<b>βαρύ·βρομος, ος, ον</b> <font color="purple">[ᾰυ]</font> <i>c</i>. βαρυβρεμέτης, HOM. <i>fr. 71</i> ; EUR. <i>Ph. 183, etc. ; en parl. de flots,</i> EUR. <i>Hel. 1305, etc</i>.<p><b>Étym</b>. β. βρέμω.`

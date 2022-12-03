@@ -1,1 +1,0 @@
-lar[64493]=`<b>ης, ες</b>, placé (<i>litt</i>. ajusté) au milieu, ERATOSTH. (A. TAT. ASTR. <i>Isag. in Arat. 152a Petau).</i><p>➳ <i>Poét</i>. μεσσήρης, EUR. <i>I.A. 8, Ion 910</i>.<p><b>Étym</b>. μέσος, *ἄρω.`

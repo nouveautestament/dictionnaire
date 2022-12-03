@@ -1,1 +1,0 @@
-lar[72384]=`<b>ὅποι·περ</b>, <i>adv. relat</i>. vers quelque lieu que, SOPH. <i>Aj. 810, etc</i>.<p><b>Étym</b>. ὅποι, περ.`

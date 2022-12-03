@@ -1,1 +1,0 @@
-lar[92846]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Stratios :<br><b>      1</b> <i>fils de Nestor,</i> OD. <i>3, 413, 439</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>43, 19, etc. Baiter-Sauppe</i>.`

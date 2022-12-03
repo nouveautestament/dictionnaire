@@ -1,1 +1,0 @@
-lar[95148]=`<b>συν·διασήπω</b>, faire pourrir, GAL. <i>7, 114 ; au pass</i>. pourrir <i>ou</i> être pourri, GAL. <i>7, 146</i>.`

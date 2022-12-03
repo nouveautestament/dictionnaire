@@ -1,1 +1,0 @@
-lar[397]=`<font color="purple">[ᾰ]</font> <i>adv. slmt sup</i>., HDT. 7.57, superbement, avec orgueil. [*ἀγαυρῶς].`

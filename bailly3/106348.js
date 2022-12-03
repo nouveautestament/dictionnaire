@@ -1,1 +1,0 @@
-lar[106348]=`<b>α, ον</b> <font color="purple">[μᾰ]</font> plein d’humeur, glaireux, GEOP. <i>12, 22, 2</i>.<p><b>Étym</b>. φλέγμα.`

@@ -1,1 +1,0 @@
-lar[100744]=`<b>ης, ες</b>, épais, qui s’épaissit, HPC. <i>1239g, 1240a, etc</i>.<p><b>Étym</b>. τρόφις, -ωδης.`

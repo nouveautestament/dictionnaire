@@ -1,1 +1,0 @@
-lar[20535]=`<i>adv</i>., en tournant d’une ligne à l’autre, comme les bœufs d’un sillon à un autre, <i>càd</i>. en écrivant alternativement de gauche à droite, puis de droite à gauche, <i>mode d’écriture usité dans des inscriptions grecques anciennes,</i> PAUS. <i>5, 17, 6</i>.<p><b>Étym</b>. βοῦς, στροφή, -δον.`

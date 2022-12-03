@@ -1,1 +1,0 @@
-lar[55105]=`<b>κεφαλοτομέω-ῶ</b> <font color="purple">[ᾰ]</font> décapiter, TH. <i>(Bkk. p. 104, 31).</i><p><b>Étym</b>. κεφαλοτόμος.`

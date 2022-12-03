@@ -1,1 +1,0 @@
-lar[78585]=`<b>περι·έρπω</b> (<i>seul. prés. et impf</i>. περιεῖρπον) ramper autour ; <i>en gén</i>. aller autour, EL. <i>N.A. 6, 21 ; avec l’acc</i>. EL. <i>V.H. 3, 42 ; 13, 1</i>.`

@@ -1,1 +1,0 @@
-lar[68027]=`<b>νεκρό·φρων, ονος (ὁ, ἡ)</b> dont l’esprit est occupé de choses périssables, NAZ. <i>2, 290</i>.<p><b>Étym</b>. ν. φρήν.`

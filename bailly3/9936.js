@@ -1,1 +1,0 @@
-lar[9936]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font><br><b>      1</b> confrontation, POL. <i>4, 47, 4</i>.<br><b>      2</b> opposition, JOS. <i>A.J. 16, 2, 5</i>.<p><b>Étym</b>. ἀντικαθίστημι.`

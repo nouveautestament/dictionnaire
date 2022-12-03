@@ -1,1 +1,0 @@
-lar[89287]=`<b>ης (ἡ)</b> Sandakè, <i>sœur de Xerxès,</i> PLUT. <i>Them. 13, Arist. 9</i>.`

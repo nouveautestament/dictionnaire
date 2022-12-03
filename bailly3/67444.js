@@ -1,1 +1,0 @@
-lar[67444]=`<b>μυστο·δότης</b>, <i>voc</i>. <b>-α</b>, <i>gén</i>. <b>-ου (ὁ)</b> qui initie aux mystères, initiateur, MÉSOMÈD. <i>Mus. 7</i>.<p><b>Étym</b>. μ. δίδωμι.`

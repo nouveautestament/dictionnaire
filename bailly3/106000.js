@@ -1,1 +1,0 @@
-lar[106000]=`<b>Φιλο·πλάτανος, ου (ὁ)</b> <font color="purple">[ῐᾰᾱ]</font> « l’ami des platanes », <i>n. d’h</i>. ARISTÉN. <i>1, 3</i>.`

@@ -1,1 +1,0 @@
-lar[23774]=`<b>ατος (τὸ)</b> appât ajusté, <i>d’où</i> appât, amorce, <i>en gén.,</i> AR. <i>Eq. 789</i>.<p><b>Étym</b>. δελεάζω.`

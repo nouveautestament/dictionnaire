@@ -1,1 +1,0 @@
-lar[42075]=`<b>εὔ·ζυμος, ος, ον</b> <font color="purple">[ῡ]</font> bien fermenté, GAL. <i>14, 879</i>.<p><b>Étym</b>. εὖ, ζύμη.`

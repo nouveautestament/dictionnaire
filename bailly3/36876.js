@@ -1,1 +1,0 @@
-lar[36876]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰ]</font> attouchement, DIOG. <i>Ep. 10</i>.<p><b>Étym</b>. ἐπαφάω.`

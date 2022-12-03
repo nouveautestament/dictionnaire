@@ -1,1 +1,0 @@
-lar[94603]=`<b>εως (ἡ)</b> action de percevoir une chose en même temps qu’une autre, sensation <i>ou</i> perception simultanée, ARSTT. <i>Eud. 7, 12, 18</i> ; PLUT. <i>M. 75a, 76b ;</i> ARÉT. <i>p. 22, 26 ; 52, 10, etc</i>.<p><b>Étym</b>. συναισθάνομαι.`

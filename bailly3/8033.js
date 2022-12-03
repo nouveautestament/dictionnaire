@@ -1,1 +1,0 @@
-lar[8033]=`<b>ας (ἡ)</b> la statuaire, la sculpture, XÉN. <i>Mem. 1, 4, 3</i> ; PLAT. <i>Gorg. 450c, etc</i>.<p><b>Étym</b>. ἀνδριαντοποιός.`

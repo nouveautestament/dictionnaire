@@ -1,1 +1,0 @@
-lar[50282]=`<font color="purple">[ᾰᾰ]</font> purifier, SPT. <i>Sir. 38, 10</i> ; NT. <i>Matth. 23, 5, etc</i>.<p><b>Étym</b>. καθαρός.`

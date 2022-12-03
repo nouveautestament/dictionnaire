@@ -1,1 +1,0 @@
-lar[19848]=`<b>ά, όν</b> <font color="purple">[ᾰᾰ]</font> mou, flasque, HPC. <i>Aër. 10</i>.`

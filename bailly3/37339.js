@@ -1,1 +1,0 @@
-lar[37339]=`<b>ἐπι·βλαβής, ής, ές</b> <font color="purple">[ᾰ]</font> nuisible, CLÉM. <i>Pæd. 2, p. 163</i> ; ARÉT. <i>Cur. m. diut. 1, 2</i>.`

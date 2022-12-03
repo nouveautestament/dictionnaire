@@ -1,1 +1,0 @@
-lar[62312]=`<b>μαζο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange de la pâte cuite, HPC. <i>478, 12</i> ; JUL. <i>198d</i>.<p><b>Étym</b>. μᾶζα, φαγεῖν.`

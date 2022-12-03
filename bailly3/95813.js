@@ -1,1 +1,0 @@
-lar[95813]=`<b>συν·ευπάσχω</b>, recevoir un bienfait avec <i>ou</i> en même temps, DÉM. <i>105, 23</i>.<p><b>Étym</b>. σ. εὖ, πάσχω.`

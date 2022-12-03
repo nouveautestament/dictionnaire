@@ -1,1 +1,0 @@
-lar[44469]=`<i>adv</i>., en partant du joug, A.RH. <i>3, 1319</i>.<p><b>Étym</b>. ζεύγλη, -θεν.`

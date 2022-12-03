@@ -1,1 +1,0 @@
-lar[82812]=`<b>πορνο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> auteur d’écrits sur la prostitution, ATH. <i>567b</i>.<p><b>Étym</b>. π. γράφω.`

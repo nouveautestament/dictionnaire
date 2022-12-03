@@ -1,1 +1,0 @@
-lar[97025]=`<b>ή, όν</b>, qui convient à la douleur, qui sert à exprimer la douleur, la plainte, APSIN. (<i>W. 9, 537</i>) ; SCH.-AR. <i>Nub. 1</i>.<p><b>Étym</b>. σχετλιάζω.`

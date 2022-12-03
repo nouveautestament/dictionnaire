@@ -1,1 +1,0 @@
-lar[81450]=`<b>α, ον</b>, fréquenté par les troupeaux, EUR. <i>fr. 740 Nauck</i>.`

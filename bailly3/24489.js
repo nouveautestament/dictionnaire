@@ -1,1 +1,0 @@
-lar[24489]=`<b>ος, ον</b>, taillé par le ciseau, ANTH. <i>6, 227</i>.<p><b>Étym</b>. διαγλύφω.`

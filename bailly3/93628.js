@@ -1,1 +1,0 @@
-lar[93628]=`<b>      1</b> être contemporain de, <i>dat</i>. SEXT. <i>P. 2, 245</i>.<br><b>      2</b> rester qqe temps dans, SPT. <i>Sir. prol</i>.<p><b>Étym</b>. σύγχρονος.`

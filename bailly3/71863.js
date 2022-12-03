@@ -1,1 +1,0 @@
-lar[71863]=`<b>α, ον :<br>      1</b> d’âne <i>ou</i> d’ânesse, AR. <i>Eq. 1396</i> ; ARSTT. <i>H.A. 3, 20, etc. ; subst</i>. ἡ ὀνεία (<i>s.-e</i>. δορά) BABR. <i>7, 13,</i> peau d’âne.<br><b>      2</b> de peau d’âne, POL. <i>8, 23, 3</i>.<p><b>Étym</b>. ὄνος.`

@@ -1,1 +1,0 @@
-lar[48085]=`<b>ῶν (οἱ)</b> les Thyssagétes, <i>pple scythe,</i> HDT. <i>4, 22 et 123</i>.`

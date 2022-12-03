@@ -1,1 +1,0 @@
-lar[70816]=`<b>ας (ἡ)</b> = <i>lat</i>. Octavia, <i>n. de f. rom</i>. PLUT. <i>Marc. 30</i>.`

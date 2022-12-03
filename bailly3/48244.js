@@ -1,1 +1,0 @@
-lar[48244]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Janus, <i>divinité romaine,</i> PLUT. <i>Num. 19, etc.</i> ; τὸ Ἰανοῦ δίπυλον, PLUT. <i>Fort. Rom. 9,</i> le temple à deux portes de Janus.`

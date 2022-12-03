@@ -1,1 +1,0 @@
-lar[77931]=`<b>ῆρος (ὁ, ἡ)</b> qui pleure, qui se lamente, ESCHL. <i>Pers. 946, Sept. 1062</i>.<p><b>Étym</b>. πενθέω.`

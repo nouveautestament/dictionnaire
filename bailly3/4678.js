@@ -1,1 +1,0 @@
-lar[4678]=`<i>c</i>. Ἀλκμαιωνίδαι, DÉM. <i>21, 144 Baiter-Sauppe</i>.<p>➳ <i>Dans les inscr. att. seul</i>. Ἀλκμεωνίδης (<i>non</i> Ἀλκμαι-) CIA. <i>1, 433, 3 col. 10 (461/456 av. J.-C.) ; 2, 946, 14 (400/350 av. J.-C.) ; v. Meisterh. p. 28, § 14</i>.`

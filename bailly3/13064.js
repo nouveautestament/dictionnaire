@@ -1,1 +1,0 @@
-lar[13064]=`<b>εως (ἡ)</b> action de faire sortir en pressant, TH. <i>Ign. 11</i>.<p><b>Étym</b>. ἀποπιέζω.`

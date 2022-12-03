@@ -1,1 +1,0 @@
-lar[68042]=`<b>νεκυ·άμβατος, ος, ον</b> <font color="purple">[βᾰ]</font> monté par des morts, POÈT. (PAUS. <i>10, 28, 2).</i><p><b>Étym</b>. νέκυς, *ἄμβατος, <i>poét. p</i>. ἀνάβατος.`

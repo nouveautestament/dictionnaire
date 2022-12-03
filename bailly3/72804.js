@@ -1,1 +1,0 @@
-lar[72804]=`<b>ου (τὸ)</b> <font color="purple">[ῑγᾰ]</font> <i>c</i>. ὀρίγανος AR. <i>fr. 180 Dind</i>.`

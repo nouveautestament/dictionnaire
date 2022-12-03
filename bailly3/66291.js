@@ -1,1 +1,0 @@
-lar[66291]=`<b>α, ον</b>, du destin, ALCIPHR. <i>1, 20</i>.<p><b>Étym</b>. μοῖρα.`

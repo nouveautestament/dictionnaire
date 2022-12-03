@@ -1,1 +1,0 @@
-lar[24182]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Dèmarétè, <i>f</i>. ATH. <i>685b ;</i> ANTH. <i>7, 167 ; etc</i>.<p><b>Étym</b>. <i>fém. de</i> Δημάρετος.`

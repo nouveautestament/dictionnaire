@@ -1,1 +1,0 @@
-lar[7926]=`<b>ῆς (ἡ)</b> éruption volcanique, LGN <i>35, 4</i>.<p><b>Étym</b>. ἀναχέω.`

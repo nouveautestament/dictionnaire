@@ -1,1 +1,0 @@
-lar[75182]=`<b>παντ·αιτία, ας (ἡ)</b> cause de toute chose, JOS.<p><b>Étym</b>. π. αἰτία.`

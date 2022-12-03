@@ -1,1 +1,0 @@
-lar[106979]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> de Phrygie, Phrygien, DH. <i>1, 76</i>.`

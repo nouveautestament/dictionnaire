@@ -1,1 +1,0 @@
-lar[11449]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰᾰ]</font> trompeur, ZOS. <i>1, 52, 9</i>.<p><b>Étym</b>. ἀπατάω.`

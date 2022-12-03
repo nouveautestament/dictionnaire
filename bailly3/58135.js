@@ -1,1 +1,0 @@
-lar[58135]=`<b>ή, όν :<br>      1</b> qui heurte, qui frappe en heurtant, PHIL. <i>1, 113</i>.<br><b>      2</b> retentissant, vibrant, ARSTT. <i>Probl. 19, 10</i> ; PLUT. <i>M. 802e ; fig</i>. AR. <i>Eq. 1379</i> ; LUC. <i>Dem. enc. 32</i>.<p><b>Étym</b>. κρούω.`

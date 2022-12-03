@@ -1,1 +1,0 @@
-lar[22235]=`<b>Γλωσσο·τράπεζος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Langue-à-table, <i>càd</i>. qui mange au lieu de parler, <i>n. de parasite,</i> ALCIPHR. <i>3, 69</i>.<p><b>Étym</b>. γλῶσσα, τράπεζα.`

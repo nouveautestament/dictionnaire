@@ -1,1 +1,0 @@
-lar[12310]=`<b>ἀπο·δισκεύω</b>, lancer comme un disque, NICÉPH. <i>1, p. 497 W.</i> ; ANON. (EUST. <i>Od. 159, 31</i>).`

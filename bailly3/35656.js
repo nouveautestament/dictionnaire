@@ -1,1 +1,0 @@
-lar[35656]=`<b>ἐξ·αυλίζομαι</b>, changer de campement <i>ou</i> de quartier, décamper, XÉN. <i>An. 7, 8, 21</i>.`

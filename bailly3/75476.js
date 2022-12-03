@@ -1,1 +1,0 @@
-lar[75476]=`<b>ου (τὸ)</b> <font color="purple">[ᾰγ]</font> prix du passage, péage, PHILIPPID. (<i>Com. fr. 4, 472</i>) ; POL. <i>4, 47, 3</i>.<p><b>Étym</b>. παραγωγή.`

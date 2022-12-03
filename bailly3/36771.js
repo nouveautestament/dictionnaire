@@ -1,1 +1,0 @@
-lar[36771]=`<b>ος, ον</b> <font color="purple">[ᾰᾱ]</font> maudit, THC. <i>8, 97</i> ; PLAT. <i>Leg. 877a ;</i> ὃ ἐπάρατον ἦν μὴ οἰκεῖν, THC. <i>2, 17,</i> qu’il était interdit d’habiter sous peine de malédiction.<p><b>Étym</b>. ἐπαράομαι.`

@@ -1,1 +1,0 @@
-lar[51109]=`<b>Καλλι·δίκη, ης (ἡ)</b> <font color="purple">[ῐῐ]</font> Kallidikè, <i>f</i>. HH. <i>Cer. 109</i>.<p><b>Étym</b>. κ. δίκη.`

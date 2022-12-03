@@ -1,1 +1,0 @@
-lar[84075]=`<b>προ·εκκαίω</b> <font color="darkgreen">(<i>f</i>. -εκκαύσω, <i>ao</i>. -εξέκηα, <i>etc</i>.)</font> brûler auparavant, GAL. <i>Simpl. med. 11, 392</i>.`

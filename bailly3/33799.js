@@ -1,1 +1,0 @@
-lar[33799]=`<b>ἐν·αέριος, ος, ον</b> <font color="purple">[ᾱ]</font> qui est <i>ou</i> vit dans l’air, aérien, T. LOCR. <i>101c ;</i> LUC. <i>Musc. enc. 6</i>.<p><b>Étym</b>. ἐν, ἀήρ.`

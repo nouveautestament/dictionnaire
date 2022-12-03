@@ -1,1 +1,0 @@
-lar[8196]=`<b>ἀν·είλλομαι</b>, s’enrouler, PLAT. <i>Conv. 206d</i>.<p><b>Étym</b>. <i>vulg. ; corr</i>. ἀνίλλομαι ; <i>v</i>. ἀνίλλω.`

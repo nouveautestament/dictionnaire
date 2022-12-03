@@ -1,1 +1,0 @@
-lar[102413]=`<b>ὑπ·ερείπω</b> <font color="darkgreen">(<i>f</i>. -ερείψω, <i>ao.2</i> -ήριπον, <i>etc</i>.) :</font><br><b>      1 <i>tr.</i></b> miner <i>ou</i> saper en dessous, PLUT. <i>M. 71b ; d’où au pass</i>. être miné, s’écrouler, PLUT. <i>Pomp. 74, Ant. 82</i>.<br><b>      2</b> <i>intr. (à l’ao.2</i>) s’affaisser, s’écrouler, IL. <i>23, 691</i>.`

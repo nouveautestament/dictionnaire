@@ -1,1 +1,0 @@
-lar[62089]=`<b>λυσσομανέω-ῶ</b> <font color="purple">[ᾰ]</font> être transporté de rage, MAN. <i>4, 216</i>.<p><b>Étym</b>. λυσσομανής.`

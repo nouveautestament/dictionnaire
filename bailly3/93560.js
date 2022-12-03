@@ -1,1 +1,0 @@
-lar[93560]=`<b>συγ·κυκλέω-ῶ</b>, faire tourner, rouler ensemble, PLAT. <i>Pol. 269c</i>.`

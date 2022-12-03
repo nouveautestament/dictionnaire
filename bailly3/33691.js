@@ -1,1 +1,0 @@
-lar[33691]=`<font color="purple">[ῐ]</font> <i>adv</i>., en séjournant volontiers, PTOL. <i>Harm. 3, 11</i>.`

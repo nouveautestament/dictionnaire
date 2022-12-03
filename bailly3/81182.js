@@ -1,1 +1,0 @@
-lar[81182]=`<b>πνευματο·δόχος, ος, ον</b> <font color="purple">[ᾰ]</font> animé de l’Esprit saint, NYSS. <i>1, 149 Migne</i>.<p><b>Étym</b>. πν. δέχομαι.`

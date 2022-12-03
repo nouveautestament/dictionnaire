@@ -1,1 +1,0 @@
-lar[104708]=`<b>φαλαγγ·αρχία, ας (ἡ)</b> <font color="purple">[φᾰ]</font> quart d’une phalange, <i>à peu près une brigade,</i> ASCLÉP. <i>2, 10</i>.<p><b>Étym</b>. φάλαγξ, ἄρχω.`

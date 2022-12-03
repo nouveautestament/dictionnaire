@@ -1,1 +1,0 @@
-lar[34394]=`<b>εως (ἡ)</b> introduction, HPC. <i>Art. 815</i> ; HÉRON <i>Spir. 209</i>.<p><b>Étym</b>. ἐνίημι.`

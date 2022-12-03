@@ -1,1 +1,0 @@
-lar[33235]=`<b>ἐμ·μάχομαι</b> <font color="purple">[ᾰ]</font> combattre dans, HDT. <i>9, 7</i> ; DC. <i>50, 12</i>.<p><b>Étym</b>. ἐν, μ.`

@@ -1,1 +1,0 @@
-lar[62598]=`<b>οῦ (ὁ)</b> sorte de danse comique, ATH. <i>629c</i>.`

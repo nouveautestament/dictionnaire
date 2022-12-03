@@ -1,1 +1,0 @@
-lar[49455]=`<b>ἱππο·φοβάς, άδος (ἡ)</b> la terreur des chevaux, <i>plante fabuleuse,</i> DÉMOCR. (PLIN. <i>H.N. 24, 102).</i><p><b>Étym</b>. ἵ. φέβομαι.`

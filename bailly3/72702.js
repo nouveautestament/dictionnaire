@@ -1,1 +1,0 @@
-lar[72702]=`<b>ὀρθο·δοξαστής, οῦ (ὁ)</b> qui a des opinions saines (<i>propr</i>. droites) CLÉM. <i>343</i>.<p><b>Étym</b>. ὀ. δοξάζω.`

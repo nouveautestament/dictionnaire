@@ -1,1 +1,0 @@
-lar[64660]=`<b>ή, όν</b>, qui germe encore une fois, qui repousse, PHILOL. (STOB. <i>Phys</i>. 1, p. 422).<p><b>Étym</b>. μεταβλαστάνω.`

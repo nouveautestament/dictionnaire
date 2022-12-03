@@ -1,1 +1,0 @@
-lar[10478]=`<b>ή, όν</b>, capable de résister, PLUT. <i>M. 759e</i>.<p><b>Étym</b>. ἀντιτάσσω.`

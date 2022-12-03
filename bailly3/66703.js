@@ -1,1 +1,0 @@
-lar[66703]=`<b>ή, όν</b>, qui aime la solitude, solitaire, ARSTT. <i>H.A. 1, 1</i>.<p><b>Étym</b>. μονόω.`

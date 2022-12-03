@@ -1,1 +1,0 @@
-lar[5785]=`<b>ἀμ·παλίνορρος, ος, ον</b> <font color="purple">[πᾰῐ]</font> <i>c</i>. παλίνορρος, PHILÉT. (SUID.).`

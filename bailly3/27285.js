@@ -1,1 +1,0 @@
-lar[27285]=`<b>δι·ωλένιος, ος, ον</b>, qui a les bras ouverts, <i>fig</i>. qui s’écarte en deux jets (flamme) ANTH. <i>7, 771</i>.<p>➳ <i>Fém</i>. -ίη, ARAT. <i>202</i>.<p><b>Étym</b>. διά, ὠλένη.`

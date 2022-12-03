@@ -1,1 +1,0 @@
-lar[42114]=`<b>εὐημερέω-ῶ :<br>      1</b> couler des jours heureux, SOPH. <i>El. 653</i>.<br><b>      2</b> <i>p. ext</i>. avoir du bonheur <i>ou</i> de la chance, prospérer, réussir, SOPH. <i>O.C. 616</i> ; ESCHN. <i>36, 18</i> ; ARSTT. <i>Pol. 5, 8, 13 ; 6, 8, 22</i> ; PLUT. <i>M. 521f</i>.<p><b>Étym</b>. εὐήμερος.`

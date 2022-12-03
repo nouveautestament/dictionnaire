@@ -1,1 +1,0 @@
-lar[90440]=`<b>α, ον</b> <font color="purple">[σῑ]</font> <i>c</i>. σείριος, IBYC. <i>fr. 3 Bgk</i>.`

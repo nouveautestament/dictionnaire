@@ -1,1 +1,0 @@
-lar[103910]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> machine pour faire tourner, ATHÉNÉE MÉC. <i>37, 1</i>.<p><b>Étym</b>. ὑποστρέφω.`

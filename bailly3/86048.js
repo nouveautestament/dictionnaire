@@ -1,1 +1,0 @@
-lar[86048]=`<b>ῆς (ἡ)</b> action de s’avancer en reconnaissance, THC. <i>1, 116</i> ; DC. <i>Exc. 82, 57</i>.<p><b>Étym</b>. προσκέπτομαι.`

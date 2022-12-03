@@ -1,1 +1,0 @@
-lar[90438]=`<b>ου (τὸ)</b> <font color="purple">[ῑ̆]</font> <i>c</i>. σίραιος AR. <i>Vesp. 878</i>.<p>➳ <font color="purple">[ῐ]</font> ANTIPH. <i>et</i> ALEX. (<i>Com. fr. 3, 78, 471</i>) ; <font color="purple">[ῑ]</font> NIC. <i>Al. 153</i>.`

@@ -1,1 +1,0 @@
-lar[76086]=`<b>εως (ἡ)</b> addition d’une syllabe <i>ou</i> d’une particule explétive, RHÉT. <i>8, 721 W</i>.<p><b>Étym</b>. παραπληρόω.`

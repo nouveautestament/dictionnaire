@@ -1,1 +1,0 @@
-lar[78534]=`<b>περί·δινος, ου (ὁ)</b> <font color="purple">[δῑ]</font> pirate, <i>propr</i>. qui louvoie autour, PLAT. <i>Leg. 777c</i>.<p><b>Étym</b>. περιδινέω.`

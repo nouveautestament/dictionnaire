@@ -1,1 +1,0 @@
-lar[101876]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰῐδ]</font> <i>dim. de</i> ὑπαγώγιον, PTOL. <i>Harm. p. 296</i>.`

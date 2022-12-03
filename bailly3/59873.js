@@ -1,1 +1,0 @@
-lar[59873]=`<b>ικος (ἡ)</b> <font color="purple">[ῐκ]</font> larix, <i>arbuste,</i> DIOSC. <i>1, 92</i>.`

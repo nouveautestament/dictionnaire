@@ -1,1 +1,0 @@
-lar[48981]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> d’Imbrasos, A.RH. <i>1, 187 ; 2, 866</i>.`

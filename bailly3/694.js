@@ -1,1 +1,0 @@
-lar[694]=`<b>α (ὁ)</b> Aglaïtadas, <i>Perse,</i> XÉN. <i>Cyr. 2, 2, 11</i>.`

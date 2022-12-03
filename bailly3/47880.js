@@ -1,1 +1,0 @@
-lar[47880]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> petite victime, AR. <i>Nub. 179 conj</i>.<p><b>Étym</b>. <i>dim. de</i> θῦμα.`

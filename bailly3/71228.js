@@ -1,1 +1,0 @@
-lar[71228]=`<b>ὁλό·σχιστος, ος, ον</b>, dont le morceau est d’une seule pièce, PLAT. <i>Pol. 279d, 280c</i>.<p><b>Étym</b>. ὅλ. σχίζω.`

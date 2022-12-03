@@ -1,1 +1,0 @@
-lar[39693]=`<b>ατος (τὸ)</b> libation, EUR. <i>H.f. 892 conj</i>.<p><b>Étym</b>. ἐπιχέω.`

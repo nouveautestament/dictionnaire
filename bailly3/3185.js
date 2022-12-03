@@ -1,1 +1,0 @@
-lar[3185]=`<b>ἀ·κατάληπτος, ος, ον :<br>      1</b> non pris, non touché, ARSTT. <i>Probl. 19, 42</i>.<br><b>      2</b> imprenable, JOS. <i>B.J. 3, 7, 7</i>.<br><b>      3</b> <i>fig</i>. incompréhensible, CIC. <i>Acad. 2, 9, 18</i> ; PLUT. <i>M. 1056f, etc</i>.<p><b>Étym</b>. ἀ, καταλαμβάνω.`

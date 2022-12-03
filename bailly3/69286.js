@@ -1,1 +1,0 @@
-lar[69286]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> cessation <i>ou</i> absence du sentiment de la douleur, PD. <i>P. 3, 6</i> ; THCR. <i>Idyl. 17, 63</i>.<p><b>Étym</b>. νώδυνος.`

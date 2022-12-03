@@ -1,1 +1,0 @@
-lar[82878]=`<b>πορφυρο·πωλική, ῆς (ἡ)</b> <font color="purple">[ῠ]</font> (<i>s.-e</i>. τέχνη) vente, <i>ou en gén</i>. commerce de pourpre, IS. (HARP.).<p><b>Étym</b>. π. πωλέω.`

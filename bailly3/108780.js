@@ -1,1 +1,0 @@
-lar[108780]=`<b>ας (ἡ)</b> torsion <i>ou</i> tension des cordes d’un instrument de musique, EL. <i>N.A. 17, 6</i>.<p><b>Étym</b>. χορδοστρόφος.`

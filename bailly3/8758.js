@@ -1,1 +1,0 @@
-lar[8758]=`<b>ἀνθ·αλίσκομαι</b> <font color="purple">[ᾰλ]</font> <font color="darkgreen">(<i>ao.2</i> ἀνθεάλων)</font> être pris <i>ou</i> convaincu à son tour, ESCHL. <i>Ag. 340</i> ; DC. <i>36, 23</i>.<p><b>Étym</b>. ἀντί, ἁλ.`

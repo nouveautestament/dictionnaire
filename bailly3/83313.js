@@ -1,1 +1,0 @@
-lar[83313]=`<b>*πραϋ·τένων</b>, <i>ion</i>. <b>πρηϋ·τένων, ονος (ὁ, ἡ)</b> aux muscles souples, souple, ANTH. <i>9, 299</i>.`

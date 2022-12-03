@@ -1,1 +1,0 @@
-lar[29608]=`<b>ἐγ·κατοπτρίζομαι</b> (<i>prés. inf</i>.) se mirer dans, ARTÉM. <i>3, 30</i> ; PHIL. PARADOX. <i>VII mir. p. 2</i>.<p><b>Étym</b>. ἐν, κ.`

@@ -1,1 +1,0 @@
-lar[91444]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. σμερδαλέον, HDN GR.<p><b>Étym</b>. <i>v</i>. σμερδαλέος.`

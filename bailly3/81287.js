@@ -1,1 +1,0 @@
-lar[81287]=`<b>ας (ἡ)</b> piège qui saisit par les pieds, ANTH. <i>6, 107 ; en parl. d’une toile d’araignée,</i> ANTH. <i>9, 372</i>.<p><b>Étym</b>. ποδίζω.`

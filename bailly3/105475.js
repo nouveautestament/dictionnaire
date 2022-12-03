@@ -1,1 +1,0 @@
-lar[105475]=`<b>φιλ·αναλωτής, οῦ (ὁ)</b> <font color="purple">[ῐᾰᾱ]</font> qui aime la dépense, prodigue, PLAT. <i>Rsp. 548b ;</i> DC. <i>77, 9</i>.<p><b>Étym</b>. φ. ἀναλίσκω.`

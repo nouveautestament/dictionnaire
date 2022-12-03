@@ -1,1 +1,0 @@
-lar[65846]=`<b>ή, όν</b> <font color="purple">[μῑ]</font> qui a le talent d’imiter, imitateur, PLAT. <i>Rsp. 602a, 605a ;</i> PLUT. <i>Per. 2</i> ; μιμητικὴ τέχνη, PLAT. <i>Soph. 219b</i>, l’art d’imiter.<p><b>Étym</b>. μιμέομαι.`

@@ -1,1 +1,0 @@
-lar[79009]=`<b>περι·οιχνέω-ῶ</b>, rôder autour de, <i>acc</i>. AGATHOCL. (ATH. <i>376a</i>).<p><b>Étym</b>. π. οἴχομαι.`

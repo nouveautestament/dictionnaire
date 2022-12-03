@@ -1,1 +1,0 @@
-lar[62599]=`<b>ῶν (αἱ)</b> <font color="purple">[ῠ]</font> danseuses de μακτρισμός, ATH. <i>629c</i>.`

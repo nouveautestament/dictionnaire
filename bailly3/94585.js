@@ -1,1 +1,0 @@
-lar[94585]=`<font color="purple">[ᾱ]</font> <i>adv</i>., d’un égal élan, HÉS. <i>Sc. 189</i>.<p><b>Étym</b>. συναΐσσω.`

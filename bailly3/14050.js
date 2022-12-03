@@ -1,1 +1,0 @@
-lar[14050]=`<b>ἀπυρηνο·μήλη</b>, <i>correct. p</i>. <b>ἀπυρο·μήλη, ης (ἡ)</b> <font color="purple">[ῡ]</font> sonde (de chirurgien) sans bout arrondi, GAL.<p><b>Étym</b>. ἀπύρηνος, μ.`

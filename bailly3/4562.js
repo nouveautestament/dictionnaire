@@ -1,1 +1,0 @@
-lar[4562]=`<b>ἁλι·σμάραγος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> qui résonne du bruit de la mer, NONN. <i>D. 39, 362</i>.<p><b>Étym</b>. ἅλς, σμαραγή.`

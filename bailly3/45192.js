@@ -1,1 +1,0 @@
-lar[45192]=`<b>ή, όν</b>, qui concerne le soleil, solaire : ἡλ. κύκλος, DS. <i>1, 98</i> ; CLÉOM. <i>15, 3</i> ; PLUT. <i>M. 891a</i>, l’écliptique ; ἡ. ἐκλείψεις, DL. <i>1, 23,</i> éclipses de soleil ; ἡ ἡλιακή (<i>s.-e</i>. περίοδος) PLUT. <i>Cæs. 59,</i> année solaire.<p><b>Étym</b>. ἥλιος.`

@@ -1,1 +1,0 @@
-lar[65065]=`<b>μετ·εγγράφω</b> <font color="purple">[ᾰ]</font> inscrire sur un nouveau registre, AR. <i>Eq. 1370</i>.`

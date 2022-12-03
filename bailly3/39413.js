@@ -1,1 +1,0 @@
-lar[39413]=`<b>ος, ον :<br>      1</b> plaqué (d’or, <i>etc</i>.) ALEX. (ATH. <i>471e</i>).<br><b>      2</b> <i>fig</i>. feint, simulé, faux, ANTH. <i>5, 187</i> ; CIC. <i>Att. 7, 1, 5</i>.<p><b>Étym</b>. ἐπιτήκω.`

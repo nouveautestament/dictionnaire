@@ -1,1 +1,0 @@
-lar[48275]=`<b>εως (ἡ)</b> <font color="purple">[ῑᾱ]</font> guérison, HPC. <i>Aph. 1245</i> ; SOPH. <i>O.R. 68</i> ; PLAT. <i>Conv. 188c, Phil. 46a, etc. ; fig</i>. SOPH. <i>El. 876</i> ; PLAT. <i>Leg. 862c ;</i> ARSTT. <i>Rhet. 1, 14, 2, etc</i>.<p>➳ <i>Ion</i>. ἴησις, HPC. <i>l. c</i>.<p><b>Étym</b>. ἰάομαι.`

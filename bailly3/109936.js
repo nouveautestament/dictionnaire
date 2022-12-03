@@ -1,1 +1,0 @@
-lar[109936]=`<b>εως (ἡ) :<br>      1</b> moyen de rafraîchir, HPC. <i>V. med. 15</i>.<br><b>      2</b> rafraîchissement, refroidissement, HPC. <i>V. med. 15</i> ; PLAT. <i>Tim. 85d ; au plur. p. opp. à</i> θερμότητες, PLAT. <i>Theæt. 156b, Leg. 897a</i>.<p><b>Étym</b>. ψύχω.`

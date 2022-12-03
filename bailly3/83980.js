@@ -1,1 +1,0 @@
-lar[83980]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font> fonction d’arbitre, PLUT. <i>M. 793d</i>.<p><b>Étym</b>. πρόδικος.`

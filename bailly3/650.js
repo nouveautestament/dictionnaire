@@ -1,1 +1,0 @@
-lar[650]=`<b>ἀγκυλο·γλώχιν, ινος (ὁ, ἡ)</b> <font color="purple">[ῠῐ]</font> aux ergots recourbés, BABR. <i>17, 3</i>.<p><b>Étym</b>. ἀ. γλωχίς.`

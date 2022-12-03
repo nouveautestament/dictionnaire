@@ -1,1 +1,0 @@
-lar[16182]=`<b>ου (ὁ)</b> Astérios, <i>h</i>. A.RH. <i>etc</i>.<p><b>Étym</b>. <i>v</i>. ἀστέριος.`

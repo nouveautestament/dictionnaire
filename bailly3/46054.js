@@ -1,1 +1,0 @@
-lar[46054]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire du dème Hèphæstiade, <i>de la tribu Akamantide,</i> IS. <i>9, 5 Baiter-Sauppe</i>.<p>➳ <i>Dans les inscr. att. d’ord</i>. Ἰφιστιάδης ; <i>mais</i> Ἡφαιστιαδῶν, CIA. <i>2, 772, b, 12 (4<sup>e</sup> ou 3<sup>e</sup> siècle av. J.-C.) v. Meisterh. p. 92, 10</i>.`

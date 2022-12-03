@@ -1,1 +1,0 @@
-lar[81697]=`<b>Πολύ·αλσος, ου (ὁ)</b> Polyalsos, <i>propr</i>. Bois-touffu, <i>n. d’h</i>. ALCIPHR. <i>3, 22</i>.<p><b>Étym</b>. π. ἄ.`

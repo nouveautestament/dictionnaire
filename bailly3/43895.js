@@ -1,1 +1,0 @@
-lar[43895]=`<b>ἐφ·αμαρτάνω</b> <font color="purple">[ᾰμ]</font> induire à pécher, SPT. <i>Jer. 39, 35</i>.<p><b>Étym</b>. ἐπί, ἁ.`

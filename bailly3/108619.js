@@ -1,1 +1,0 @@
-lar[108619]=`<b>χλωριάω-ῶ</b>, être jaunâtre <i>ou</i> d’un vert tendre, HPC. <i>1134b ;</i> pâlir, LGS <i>4, 31</i>.<p><b>Étym</b>. χλωρός.`

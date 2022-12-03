@@ -1,1 +1,0 @@
-lar[93797]=`<b>συλ·λοιδορέω-ῶ</b>, injurier ensemble, SPT. <i>Jer. 29, 22</i>.`

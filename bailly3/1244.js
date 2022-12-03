@@ -1,1 +1,0 @@
-lar[1244]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> réunion de frères, NT. <i>1Petr. 2, 17</i>.<br><b>      2</b> affection fraternelle, SPT. <i>1Macc. 12, 10</i>.<br><b>      3</b> <i>titre d’honneur</i> (votre Fraternité) SYN. <i>Ep. 72, 1436a Migne</i>.<p><b>Étym</b>. ἀδελφός.`

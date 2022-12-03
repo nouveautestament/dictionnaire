@@ -1,1 +1,0 @@
-lar[68890]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. νομαδικός, SYN. <i>Cat. 1569a Migne</i>.`

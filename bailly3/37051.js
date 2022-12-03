@@ -1,1 +1,0 @@
-lar[37051]=`<b>ἐπ·ελέγχω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐπήλεγξεν)</font> réfuter, convaincre en réfutant, DL. <i>6, 97</i>.`

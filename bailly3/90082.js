@@ -1,1 +1,0 @@
-lar[90082]=`<b>ή, όν</b> <font color="purple">[ῐβᾰ]</font> <i>c</i>. σιβύλλειος DS. <i>Exc. 602, 37</i>.`

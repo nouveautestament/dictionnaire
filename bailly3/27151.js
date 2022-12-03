@@ -1,1 +1,0 @@
-lar[27151]=`<b>(ὁ)</b> Diphridas, <i>h</i>. XÉN. <i>Hell. 4, 8, 21</i> ; PLUT. <i>Ages. 17</i>.`

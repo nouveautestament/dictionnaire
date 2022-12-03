@@ -1,1 +1,0 @@
-lar[50701]=`<b>οῦ (ὁ)</b> <i>au pl</i>. κακοδαιμονισταί, ceux qui sont voués au mauvais génie, confrères du mauvais génie, <i>sorte de confrérie de libertins,</i> LYS. (ATH. <i>551f</i>).<p><b>Étym</b>. κακοδαιμονίζω.`

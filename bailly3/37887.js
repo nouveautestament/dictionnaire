@@ -1,1 +1,0 @@
-lar[37887]=`<b>ἐπι·καλαμάομαι-ῶμαι</b> <font color="purple">[ᾰλᾰ]</font> glaner, LUC. <i>Tox. 16</i>.<p><b>Étym</b>. ἐπί, καλάμη.`

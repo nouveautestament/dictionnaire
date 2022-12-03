@@ -1,1 +1,0 @@
-lar[100226]=`<b>ατος (τὸ)</b> contribution pour l’équipement d’une trirème, DÉM. <i>1220, 12</i>.<p><b>Étym</b>. τριηραρχέω.`

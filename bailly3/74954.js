@@ -1,1 +1,0 @@
-lar[74954]=`<b>ας (ἡ)</b> gloire entière <i>ou</i> parfaite, PD. <i>N. 1, 14</i>.<p><b>Étym</b>. π. δόξα.`

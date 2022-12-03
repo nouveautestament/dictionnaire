@@ -1,1 +1,0 @@
-lar[91064]=`<b>ά, όν</b>, mince et alerte, <i>d’où</i> qui paraît plus jeune qu’il n’est, PLAT. <i>Euthyd. 271b ;</i> THPP. COM. <i>2, 813</i>.<p><b>Étym</b>. <i>att. c</i>. σκελιφρός.`

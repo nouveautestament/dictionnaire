@@ -1,1 +1,0 @@
-lar[104546]=`<b>ὑψί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, aux sentiments hautains, PD. <i>P. 2, 94</i>.<p><b>Étym</b>. ὕ. φρήν.`

@@ -1,1 +1,0 @@
-lar[86948]=`<b>ας (ἡ) :<br>      1</b> action d’interpréter la volonté des dieux, ORACL. (LUC. <i>Alex. 40), d’où</i> oracle, LUC. <i>Alex. 60</i>.<br><b>      2</b> explication des Livres saints sous l’inspiration de l’Esprit saint, NT. <i>1Cor. 12, 10 ; 1Tim. 1, 18, etc</i>.<p>➳ <i>Ion</i>. -είη, LUC. <i>ll. cc</i>.<p><b>Étym</b>. προφητεύω.`

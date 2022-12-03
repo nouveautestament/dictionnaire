@@ -1,1 +1,0 @@
-lar[109016]=`<b>ητος (ἡ)</b> bonne qualité, bonté, <i>en parl. de choses</i> (fruits, <i>etc</i>.) ARSTT. <i>Plant. 1, 4, 14 ; 1, 7, 2 ; en parl. de pers</i>. EUR. <i>Suppl. 872</i> ; MÉN. <i>4, 209 Meineke ; particul</i>. bonté de cœur, IS. <i>2, 8, etc.</i> ; SPT. <i>Ps. 118, 65 ; d’où</i> simplicité, naïveté, PLAT. <i>Def. 412e</i>.<p><b>Étym</b>. χρηστός.`

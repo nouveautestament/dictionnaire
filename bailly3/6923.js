@@ -1,1 +1,0 @@
-lar[6923]=`<b>ή, όν</b> <font color="purple">[φᾰ]</font> de récapitulation, DYSC. <i>Conj. 525</i> ; DH. <i>Lys. 19</i>.`

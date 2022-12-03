@@ -1,1 +1,0 @@
-lar[59817]=`<b>λαο·πλάνος, ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> qui égare le peuple, JOS. <i>A.J. 8, 8, 5</i>.<p><b>Étym</b>. λ. πλανάω.`

@@ -1,1 +1,0 @@
-lar[20346]=`<b>βού·βοτος, ος, ον</b>, où paissent les bœufs, <i>ou, en gén.,</i> les bestiaux, OD. <i>13, 246</i> ; ANTH. <i>6, 114</i>.<p><b>Étym</b>. βοῦς, βόσκω.`

@@ -1,1 +1,0 @@
-lar[76043]=`<b>παρα·πετάννυμι</b> (<i>pf. pass</i>. -πεπέτασμαι, <i>poét</i>. -πέπταμαι) déployer devant, tendre devant, POL. <i>33, 3, 2, etc.</i><br><b><i>Moy.</i></b> s’étendre devant, DP. <i>98 ; en parl. d’un oiseau,</i> déployer ses ailes devant, <i>dat</i>. ARAT. <i>312</i>.<p>➳ <i>Pf</i>. παραπεπέτασμαι, POL. <i>l. c.</i> ; παραπέπταμαι, DP. ARAT. <i>ll. cc</i>.`

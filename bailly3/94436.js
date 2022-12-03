@@ -1,1 +1,0 @@
-lar[94436]=`<b>συμ·φλεγμαίνω</b>, s’enflammer avec <i>ou</i> ensemble, ARÉT. <i>Cur. m. acut. 2, 8</i>.`

@@ -1,1 +1,0 @@
-lar[108599]=`<b>χλοη·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange l’herbe tendre, PHIL. <i>2, 238</i>.<p><b>Étym</b>. χλόη, φαγεῖν.`

@@ -1,1 +1,0 @@
-lar[26224]=`<b>εως (ἡ)</b> recherche minutieuse, enquête, CHRYS. <i>1, 925</i>.<p><b>Étym</b>. διεξετάζω.`

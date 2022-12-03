@@ -1,1 +1,0 @@
-lar[33386]=`<b>ἐμ·πείρω</b> <font color="darkgreen">(<i>f</i>. -περῶ, <i>part. pf. pass</i>. ἐμπεπαρμένος)</font> fixer en perçant dans, fixer dans <i>ou</i> sur, ATH. <i>488d ; d’où</i> incruster, <i>au pass</i>. ALCIPHR. <i>3, 55</i>.<p><b>Étym</b>. ἐν, π.`

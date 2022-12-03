@@ -1,1 +1,0 @@
-lar[34826]=`<b>ἐν·ολισθαίνω</b> <font color="darkgreen">(<i>ao.2</i> ἐνώλισθον)</font> glisser dans, tomber dans, PLUT. <i>Cim. 16, Pomp. 25</i>.`

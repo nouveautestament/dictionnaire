@@ -1,1 +1,0 @@
-lar[89704]=`<b>σελαη·φόρος, ος, ον</b>, qui porte la lumière, <i>ép. d’Hermès,</i> MAN. <i>4, 333</i>.<p><b>Étym</b>. σέλας, φέρω.`

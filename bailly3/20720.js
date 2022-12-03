@@ -1,1 +1,0 @@
-lar[20720]=`<b>ας (ἡ)</b> <font color="purple">[ᾰχ]</font> peu de longueur des racines, TH. <i>C.P. 3, 7, 2</i>.<p><b>Étym</b>. βραχύρριζος.`

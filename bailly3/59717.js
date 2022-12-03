@@ -1,1 +1,0 @@
-lar[59717]=`<b>ου (ὁ)</b> Lampos :<br><b>      1</b> <i>h</i>. IL. <i>3, 147 ; 15, 526, etc.</i><br><b>      2</b> <i>cheval d’Eos,</i> OD. <i>23, 246, et d’Hector,</i> IL. <i>8, 185</i>.`

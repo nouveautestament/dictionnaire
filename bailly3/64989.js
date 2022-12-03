@@ -1,1 +1,0 @@
-lar[64989]=`<b>εως (ἡ)</b> <font color="purple">[ρῐ]</font> renouvellement <i>ou</i> rafraîchissement du corps par l’évacuation des humeurs, DIOSC. <i>3, 43</i>.<p><b>Étym</b>. μετασυγκρίνω.`

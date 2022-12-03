@@ -1,1 +1,0 @@
-lar[67815]=`<b>ατος (τὸ)</b> transport par mer, navigation, EUR. <i>Suppl. 209 au plur</i>.<p><b>Étym</b>. ναυστολέω.`

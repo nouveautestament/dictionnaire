@@ -1,1 +1,0 @@
-lar[47972]=`<b>θυννο·θήρας, ου (ὁ)</b> le pêcheur de thons, <i>titre d’une comédie de Sophron,</i> ATH. <i>303c, 306d</i>.<p><b>Étym</b>. θύννος, θηράω.`

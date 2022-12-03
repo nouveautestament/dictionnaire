@@ -1,1 +1,0 @@
-lar[88459]=`<b>ικος (ἡ)</b> <font color="purple">[ῐκ]</font> peau d’agneau <i>ou</i> de brebis, HPC. <i>611, 14</i>.<p><b>Étym</b>. ῥήν.`

@@ -1,1 +1,0 @@
-lar[18300]=`<i>adv</i>., inévitablement, LYC. <i>493</i> ; ARSTD. <i>t. 2, 272</i>.`

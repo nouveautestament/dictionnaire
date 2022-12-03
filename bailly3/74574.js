@@ -1,1 +1,0 @@
-lar[74574]=`<b>παλιν·δωμήτωρ</b>, <i>gén</i>. <b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> qui rebâtit, reconstructeur, P. SIL. <i>Ecphr. ag. Soph. 218</i>.<p><b>Étym</b>. π. δόμος.`

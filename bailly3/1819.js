@@ -1,1 +1,0 @@
-lar[1819]=`<b>ἀερσί·λοφος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> au panache élevé, A.RH. <i>2, 1061</i>.<br><b>      2</b> à la cime élevée, NONN. <i>D. 8, 75</i>.<p><b>Étym</b>. ἀείρω, λόφος.`

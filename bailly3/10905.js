@@ -1,1 +1,0 @@
-lar[10905]=`<b>ἀξιο·εργός, ός, όν</b>, capable de supporter le travail, XÉN. <i>Œc. 7, 34</i>.<p><b>Étym</b>. ἄ. ἔργον.`

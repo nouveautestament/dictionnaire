@@ -1,1 +1,0 @@
-lar[44687]=`<b>ου (τὸ)</b> local pour des animaux vivants, <i>d’où</i> :<br><b>      1</b> ménagerie, STR. <i>556</i>.<br><b>      2</b> vivier, PLUT. <i>M. 89a ;</i> XÉNOCR. <i>Al. 34</i>.<br><b>      3</b> cage, ONOS. <i>Strat. c. 11</i>.<p><b>Étym</b>. ζωγρεύς.`

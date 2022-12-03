@@ -1,1 +1,0 @@
-lar[74441]=`<b>παλαιστέω-ῶ</b> <font color="purple">[ᾰ]</font> repousser avec la paume de la main, LUC. <i>Philopatr. 1</i>.<p><b>Étym</b>. παλαιστή.`

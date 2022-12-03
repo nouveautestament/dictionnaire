@@ -1,1 +1,0 @@
-lar[102732]=`<b>εως (ἡ)</b> action de regarder de haut, hauteur, fierté, SPT. <i>Lev. 20, 4</i>.<p><b>Étym</b>. ὑπερόψομαι.`

@@ -1,1 +1,0 @@
-lar[68135]=`<b>νεο·ηλής, ής, ές</b>, fraîchement moulu, NIC. <i>Al. 411</i>.<p><b>Étym</b>. ν. ἀλέω.`

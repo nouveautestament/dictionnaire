@@ -1,1 +1,0 @@
-lar[7841]=`<b>ἀν·αύχην, ενος (ὁ, ἡ)</b> sans cou, EMPÉD. <i>307 Mullach</i> ; ARSTT. <i>An. 3, 6</i>.<p><b>Étym</b>. ἀν-, αὐχήν.`

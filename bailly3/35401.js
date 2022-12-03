@@ -1,1 +1,0 @@
-lar[35401]=`<i>adv</i>., remarquablement, POL. <i>32, 25, 7</i>.<p><b>Étym</b>. ἔξαλλος.`

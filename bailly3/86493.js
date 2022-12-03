@@ -1,1 +1,0 @@
-lar[86493]=`<b>πρόσ·τιμον, ου (τὸ)</b> <font color="purple">[ῑ]</font> peine ajoutée à la peine légale, HPC. <i>2, 3</i> ; POL. <i>1, 7, 11, etc</i>.<p><b>Étym</b>. π. τιμή.`

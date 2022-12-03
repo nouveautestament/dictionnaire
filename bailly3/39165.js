@@ -1,1 +1,0 @@
-lar[39165]=`<b>ἐπι·στορέννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao</i>. ἐπεστόρεσα)</font> étendre sur : τι ἐπί τι, HPC. <i>Art. 836,</i> une chose (tapis, couverture) sur une autre ; <i>abs</i>. couvrir d’un tapis, d’une housse, <i>acc</i>. JOS. <i>A.J. 8, 9, 1 ; au pass</i>. être couvert d’une housse, LUC. <i>Prom. 4</i>.`

@@ -1,1 +1,0 @@
-lar[89020]=`<b>ου (ὁ)</b> = <i>lat</i>. Roscius, <i>n. d’h. rom</i>. PLUT. <i>Syll. 36, Cic. 3, etc</i>.`

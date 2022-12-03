@@ -1,1 +1,0 @@
-lar[103039]=`<b>έως (ὁ) :<br>      1</b> celui qui fait souvenir de qqe ch., qui avertit, PHIL. <i>1, 591</i>.<br><b>      2</b> <i>particul</i>. souffleur dans un théâtre, PLUT. <i>M. 813e.</i><br><b>      3</b> <i>c</i>. ὑπαγωγεύς, THÉON SM. <i>71, 5</i>.<p><b>Étym</b>. ὑποβάλλω.`

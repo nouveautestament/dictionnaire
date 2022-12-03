@@ -1,1 +1,0 @@
-lar[99028]=`<b>ή, όν :<br>      1</b> apte à surveiller, à observer, qui observe, SEXT. <i>M. 8, 288</i>.<br><b>      2</b> qu’il faut observer, DL. <i>9, 108</i>.<p><b>Étym</b>. τηρέω.`

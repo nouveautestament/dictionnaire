@@ -1,1 +1,0 @@
-lar[94708]=`<b>συν·ανακάμπτω :<br>      1 <i>tr.</i></b> recourber avec <i>ou</i> ensemble, POL. <i>8, 29, 6</i>.<br><b>      2 <i>intr.</i></b> revenir sur ses pas avec, <i>dat</i>. DL. <i>2, 127 et 139</i>.`

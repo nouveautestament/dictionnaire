@@ -1,1 +1,0 @@
-lar[33719]=`<b>ἐμφρουρέω-ῶ :<br>      1 <i>intr.</i></b> tenir garnison, THC. <i>4, 110 ; 8, 60</i> ; πόλιν, DC. <i>47, 30,</i> dans une ville.<br><b>      2</b> garder, <i>au pass</i>. être gardé, emprisonné, PHALAR. <i>Ep. 5</i>.<p><b>Étym</b>. ἔμφρουρος.`

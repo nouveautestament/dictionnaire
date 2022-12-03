@@ -1,1 +1,0 @@
-lar[68605]=`<b>ου (ἡ)</b> <font color="purple">[ῐ]</font> Nèrikos, <i>v. de l’î. de Leucade,</i> OD. <i>24, 377</i> ; THC. <i>3, 7</i>.`

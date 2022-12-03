@@ -1,1 +1,0 @@
-lar[34820]=`<b>ἐν·οικουρέω-ῶ</b>, rester à la maison, <i>d’où</i> rester dans, ἐν <i>et le dat</i>. DH. <i>6, 3 ; fig</i>. LUC. <i>Philops. 39</i>.`

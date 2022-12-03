@@ -1,1 +1,0 @@
-lar[35511]=`<i>vb. de</i> ἐξαντλέω, ANTYLL. (ORIB. <i>2, 414 B.-Dar</i>.).`

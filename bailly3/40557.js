@@ -1,1 +1,0 @@
-lar[40557]=`<b>ατος (τὸ) :<br>      1</b> pendant d’oreilles, IL. <i>14, 182</i> ; OD. <i>18, 297, au plur.</i><br><b>      2</b> collier, EL. <i>N.A. 17, 25, 37</i>.<p><b>Étym</b>. <i>cf</i>. εἴρω¹.`

@@ -1,1 +1,0 @@
-lar[91049]=`<b>ας (ἡ)</b> traitement rigoureux, JOS. <i>A.J. 8, 8, 2</i>.<p><b>Étym</b>. σκληρός, ἔχω.`

@@ -1,1 +1,0 @@
-lar[66488]=`<b>μον·έντερον, ου (τὸ)</b> le gros intestin <i>ou</i> côlon, HIPPIATR.<p><b>Étym</b>. μόνος, ἔντερον.`

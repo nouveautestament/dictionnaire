@@ -1,1 +1,0 @@
-lar[99327]=`<b>Τισι·φόνη, ης (ἡ)</b> <font color="purple">[ῑῐ]</font> Tisiphonè :<br><b>      1</b> <i>l’une des trois Furies, vengeresse du meurtre,</i> ORPH. <i>H. 68, 2, Arg. 966</i> ; Ps.-PLUT. <i>Fluv. 18, 1</i> ; LUC. <i>Cat. 23</i>.<br><b>      2</b> <i>n. de f</i>. Q. SM. <i>1, 405</i>.<p><b>Étym</b>. <i>cf</i>. Τισίφονος.`

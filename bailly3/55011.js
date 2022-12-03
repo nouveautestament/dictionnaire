@@ -1,1 +1,0 @@
-lar[55011]=`<b>κερό·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> aux cornes dorées, SIB. <i>5, 354</i>.<p><b>Étym</b>. κέρας, χρυσός.`

@@ -1,1 +1,0 @@
-lar[89507]=`<b>ου (ὁ)</b> Sataspès, <i>Perse,</i> HDT. <i>4, 43</i>.`

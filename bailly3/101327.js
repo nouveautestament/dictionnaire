@@ -1,1 +1,0 @@
-lar[101327]=`<b>α, ον</b>, d’Hybla la Petite, THC. <i>6, 4 ; ou</i> d’Hybla la Grande, THC. <i>6, 94</i> ; PLUT. <i>Nic. 15, etc</i>.<p><b>Étym</b>. Ὕβλα.`

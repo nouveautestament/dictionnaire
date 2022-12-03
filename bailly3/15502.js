@@ -1,1 +1,0 @@
-lar[15502]=`<b>ας (ἡ)</b> simplicité des mœurs antiques, PLUT. <i>Phoc. 3</i>.<p><b>Étym</b>. ἀρχαιότροπος.`

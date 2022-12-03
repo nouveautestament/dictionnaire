@@ -1,1 +1,0 @@
-lar[28166]=`<b>δυσ·ανάγωγος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font><br><b>      1</b> difficile à ramener par en haut, à expectorer, à rejeter, DIOSC. <i>1, 1</i>.<br><b>      2</b> <i>fig</i>. difficile à conduire, à gouverner, SYN. <i>Calv. 6, 1177b Migne</i>.<p><b>Étym</b>. δ. ἀναγωγή.`

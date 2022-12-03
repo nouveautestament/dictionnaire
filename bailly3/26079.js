@@ -1,1 +1,0 @@
-lar[26079]=`<i>adv.</i> :<br><b>      1</b> séparément, SYNCELL. <i>223, 7</i>.<br><b>      2</b> par transposition : <i>p. ex. la proport. a : b :: c : d peut devenir par transposition</i> (διεζευγμένως) <i>a : c :: b : d ; lorsqu’elle devient d : b :: c : a, elle est</i> ἀναστρόφως τε καὶ κατὰ τὸ διεζευγμένον, NICOM. <i>Arithm. 140</i>.<p><b>Étym</b>. διαζεύγνυμι.`

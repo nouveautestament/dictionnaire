@@ -1,1 +1,0 @@
-lar[107785]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en volant à terre, LUC. <i>Ic. 10</i>.<p><b>Étym</b>. χαμαιπετής.`

@@ -1,1 +1,0 @@
-lar[49354]=`<b>ἱππο·κούριος, ου (ὁ)</b> protecteur des cavaliers (Poséidon) PAUS. <i>3, 14, 2</i>.<p><b>Étym</b>. ἵ. κοῦρος.`

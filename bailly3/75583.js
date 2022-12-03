@@ -1,1 +1,0 @@
-lar[75583]=`<b>παρα·θέλγω</b>, adoucir, calmer, ESCHL. <i>Ag. 71</i>.`

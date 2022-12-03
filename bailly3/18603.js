@@ -1,1 +1,0 @@
-lar[18603]=`<b>ἀ·ψεφής, ής, ές</b>, qui ne s’inquiète pas de, SOPH. <i>fr. 618</i>.<p><b>Étym</b>. ἀ, ψέφω.`

@@ -1,1 +1,0 @@
-lar[16688]=`<b>ου (ὁ)</b> Adherbal, <i>Carthaginois,</i> POL. DS.`

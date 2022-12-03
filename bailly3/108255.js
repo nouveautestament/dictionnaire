@@ -1,1 +1,0 @@
-lar[108255]=`<b>(ὁ)</b> <i>n. égypt. du</i> lierre, PLUT. <i>M. 365e</i>.`

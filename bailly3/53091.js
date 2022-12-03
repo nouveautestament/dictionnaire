@@ -1,1 +1,0 @@
-lar[53091]=`<b>κατα·πλατύνω</b> <font color="purple">[ᾰτ]</font> rendre très large, GAL. <i>2, 298</i>.`

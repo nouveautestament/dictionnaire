@@ -1,1 +1,0 @@
-lar[28524]=`<b>δυσιατέω-ῶ</b> (<i>part. prés</i>. -οῦντας) <font color="purple">[ῠῑᾱ]</font> être difficile à guérir, P. ÉG. <i>69, 28</i>.<p><b>Étym</b>. δυσίατος.`

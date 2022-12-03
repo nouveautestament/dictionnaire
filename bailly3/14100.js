@@ -1,1 +1,0 @@
-lar[14100]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> d’Arabie <i>ou</i> d’Arabe, arabique, ARSTT. <i>Mund. 3</i> ; PLUT. <i>Ant. 69, etc</i>.<p><b>Étym</b>. Ἄραψ.`

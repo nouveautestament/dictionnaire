@@ -1,1 +1,0 @@
-lar[57292]=`<b>κοσμο·πρεπής, ής, ές</b>, proportionné à la grandeur de l’univers, EURYPHAM. (STOB. <i>Fl. 103, 27, t. 4, p. 11, l. 8).</i><p><b>Étym</b>. κ. πρέπω.`

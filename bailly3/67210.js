@@ -1,1 +1,0 @@
-lar[67210]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> vase à parfums, AQU. <i>Job 41, 22</i>.<p><b>Étym</b>. μυρεψέω.`

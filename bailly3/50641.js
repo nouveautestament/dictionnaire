@@ -1,1 +1,0 @@
-lar[50641]=`<b>κακ·εργάτις, ιδος</b> <font color="purple">[ᾰᾰ]</font> <i>adj. f. c</i>. κακεργέτης THÉM. <i>33d</i>.`

@@ -1,1 +1,0 @@
-lar[96004]=`<b>συνιεροποιέω-ῶ</b>, offrir un sacrifice <i>ou</i> des sacrifices avec un autre, IS. <i>71, 5</i>.<p><b>Étym</b>. συνιεροποιός.`

@@ -1,1 +1,0 @@
-lar[33888]=`<b>ἐναντιο·λογέω-ῶ</b>, contredire, PLAT. <i>Soph. 268b ;</i> STR. <i>686</i>.<p><b>Étym</b>. ἐν. λόγος.`

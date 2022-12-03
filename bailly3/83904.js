@@ -1,1 +1,0 @@
-lar[83904]=`<b>προ·διαβιβάζω</b> <font color="purple">[βῐ]</font> faire d’abord passer, GAL. <i>4, 515</i>.`

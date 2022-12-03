@@ -1,1 +1,0 @@
-lar[96509]=`<b>ίδος</b> <font color="purple">[ῡ]</font> <i>adj. f</i>. en forme de roseau, GAL. <i>Antid. 14, 73</i>.<p><b>Étym</b>. σῦριγξ.`

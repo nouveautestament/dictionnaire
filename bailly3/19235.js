@@ -1,1 +1,0 @@
-lar[19235]=`<b>(ὁ)</b> <i>seul. voc</i>. <b>βᾶ</b>, roi, prince, ESCHL. <i>Suppl. 892, 901</i> (<i>cf</i>. βασιλεύς).`

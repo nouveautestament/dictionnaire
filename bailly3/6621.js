@@ -1,1 +1,0 @@
-lar[6621]=`<b>ος, ον</b>, ciselé <i>ou</i> relevé en bosse, PLIN. <i>H.N. 33, 49</i>.<p><b>Étym</b>. ἀναγλύφω.`

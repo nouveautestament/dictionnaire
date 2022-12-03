@@ -1,1 +1,0 @@
-lar[35471]=`<b>ἐξ·αναστράπτω</b>, faire briller des éclairs, éclairer, Ps.-EMPÉD. <i>Sph. 86</i>.`

@@ -1,1 +1,0 @@
-lar[77162]=`<b>πάρ·υγρος, ος, ον</b>, légèrement humide, MAN. <i>1, 87</i> ; τὸ π. GAL. <i>4, 185 ; 13, 832,</i> sorte d’emplâtre.<p><b>Étym</b>. π. ὑγρός.`

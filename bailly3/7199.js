@@ -1,1 +1,0 @@
-lar[7199]=`<b>εως (ἡ) :<br>      1</b> mélange, TH. <i>C.P. 4, 15, 4</i>.<br><b>      2</b> relations, commerce intime, PLUT. <i>Num. 17</i>.<p><b>Étym</b>. ἀναμίγνυμι.`

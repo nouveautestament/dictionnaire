@@ -1,1 +1,0 @@
-lar[28615]=`<font color="purple">[ῐ]</font> <i>adv</i>., d’une manière indistincte, obscurément, <i>en parl. d’oracles,</i> ESCHL. <i>Pr. 662</i> ; δ. ἔχειν, AR. <i>Ran. 1433,</i> être dans le doute.`

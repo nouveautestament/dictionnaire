@@ -1,1 +1,0 @@
-lar[45846]=`<b>ητος (ἡ)</b> <i>c</i>. ἠρεμία, EUCL. <i>Intr. harm. 13, p. 222, l. 3 Heiberg et Menge</i>.<p><b>Étym</b>. ἤρεμος.`

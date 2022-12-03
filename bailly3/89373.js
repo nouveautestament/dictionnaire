@@ -1,1 +1,0 @@
-lar[89373]=`<b>ων (οἱ)</b> les Sarakores, <i>n. de pple,</i> EL. <i>N.A. 12, 34</i>.`

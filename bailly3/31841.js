@@ -1,1 +1,0 @@
-lar[31841]=`<b>ἐκ·πιδύομαι</b> <font color="purple">[ῑῡ]</font> sourdre, jaillir, ESCHL. <i>Pers. 815</i>.`

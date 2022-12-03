@@ -1,1 +1,0 @@
-lar[3073]=`<b>ἀκαλα·ρρείτης, αο</b> <font color="purple">[ᾰκᾰ]</font> <i>adj</i>. qui coule doucement <i>ou</i> silencieusement (l’Océan) IL. <i>7, 422</i> ; OD. <i>19, 434 ; cf</i>. ORPH. <i>Arg. 1050</i>.<p><b>Étym</b>. ἀκαλός, ῥέω.`

@@ -1,1 +1,0 @@
-lar[81191]=`<b>πνευματο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> inspiré de Dieu, SPT. <i>Hos. 9, 7</i>.<p><b>Étym</b>. πν. φέρω.`

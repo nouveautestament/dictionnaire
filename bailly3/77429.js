@@ -1,1 +1,0 @@
-lar[77429]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., rarement, THGN. <i>857</i>.<p><b>Étym</b>. παῦρος.`

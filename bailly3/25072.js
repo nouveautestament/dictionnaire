@@ -1,1 +1,0 @@
-lar[25072]=`<b>δια·μονομαχέω-ῶ</b> <font color="purple">[μᾰ]</font> lutter en combat singulier : πρός τινα, PLUT. <i>M. 482c ;</i> τινι, HLD. <i>7, 16</i>, contre qqn.`

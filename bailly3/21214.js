@@ -1,1 +1,0 @@
-lar[21214]=`<b>γαλακτοφορέω-ῶ</b> <font color="purple">[γᾰ]</font> (<i>seul. prés</i>.) avoir (<i>litt</i>. porter) du lait, <i>en parl. de mamelles,</i> NYSS. <i>1, 556c Migne</i>.<p><b>Étym</b>. γαλακτοφόρος.`

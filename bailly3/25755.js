@@ -1,1 +1,0 @@
-lar[25755]=`<b>ος, ον</b>, qui peut être traversé par les projectiles, qui est à portée des projectiles, PLUT. <i>Luc. 28</i>.<p><b>Étym</b>. διατοξεύω ; <i>cf</i>. ἱππάσιμος.`

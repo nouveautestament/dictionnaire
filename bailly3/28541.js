@@ -1,1 +1,0 @@
-lar[28541]=`<b>δυσ·καρτέρητος, ος, ον</b>, difficile à supporter, PLUT. <i>Phoc. 4, Lyc. c. Num. 3, M. 546c</i>.<p><b>Étym</b>. δ. καρτερέω.`

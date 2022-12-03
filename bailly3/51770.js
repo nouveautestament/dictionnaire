@@ -1,1 +1,0 @@
-lar[51770]=`<b>ων (οἱ)</b> les Carduques (<i>auj</i>. Kurdes) <i>pple d’Asie sur les confins de l’Arménie et de l’Assyrie,</i> XÉN. <i>An. 3, 5, 16, etc</i>.`

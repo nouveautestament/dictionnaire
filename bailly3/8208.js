@@ -1,1 +1,0 @@
-lar[8208]=`<b>εως (ἡ)</b> action de contenir, PLUT. <i>M. 584e</i>.<p><b>Étym</b>. ἀνείργω.`

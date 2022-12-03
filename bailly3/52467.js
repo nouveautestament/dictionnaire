@@ -1,1 +1,0 @@
-lar[52467]=`<b>καταῖ·τυξ, υγος (ἡ)</b> <font color="purple">[ῠγ]</font> casque bas sans panache, IL. <i>10, 258</i>.<p><b>Étym</b>. καταί, τεύχω.`

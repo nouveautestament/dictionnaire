@@ -1,1 +1,0 @@
-lar[57814]=`<b>κρημνο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui gravit des lieux escarpés, ANTH. <i>9, 142</i> ; POLYEN <i>4, 3, 29</i>.<br><b>      2</b> <i>fig</i>. qui aime l’emphase, l’enflure, NAZ. <i>Carm. 10, 80</i>.<p><b>Étym</b>. κρημνός, βαίνω.`

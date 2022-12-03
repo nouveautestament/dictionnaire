@@ -1,1 +1,0 @@
-lar[34908]=`<b>ἐν·ρίπτω</b>, jeter dans <i>ou</i> sur, <i>avec</i> ἐς <i>et l’acc</i>. ARR. <i>An. 6, 10, 4</i> ; DC. <i>74, 14</i>.`

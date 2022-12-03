@@ -1,1 +1,0 @@
-lar[27515]=`<b>δονακο·γλύφος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui taille des roseaux (pour écrire) ANTH. <i>6, 295</i>.<p><b>Étym</b>. δόναξ, γλύφω.`

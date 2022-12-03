@@ -1,1 +1,0 @@
-lar[9854]=`<b>ἀντι·δομή, ῆς (ἡ)</b> construction en face de <i>ou</i> à la place de, EN. TACT. <i>Pol. 23, 2</i>.<p><b>Étym</b>. ἀ. δέμω.`

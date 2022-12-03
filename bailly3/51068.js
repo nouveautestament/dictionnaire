@@ -1,1 +1,0 @@
-lar[51068]=`<b>ου (ὁ)</b> <font color="purple">[ᾰρᾱς]</font> sorte de poisson, <i>p.-ê</i>. merlan, ARCHESTR. (ATH. <i>316a</i>) ; OPP. <i>H. 1, 105</i>.`

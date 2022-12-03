@@ -1,1 +1,0 @@
-lar[90429]=`<b>ης (ἡ)</b> Siptè, <i>v. de Thrace,</i> ANTH. <i>App. 186</i>.`

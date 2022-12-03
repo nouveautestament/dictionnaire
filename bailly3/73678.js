@@ -1,1 +1,0 @@
-lar[73678]=`<b>οὐρανό·φοιτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui parcourt le ciel, PHIL. <i>2, 513</i>.<p><b>Étym</b>. οὐρ. φοιτάω.`

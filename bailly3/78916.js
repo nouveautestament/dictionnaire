@@ -1,1 +1,0 @@
-lar[78916]=`<b>περι·μελαίνω</b>, noircir tout autour, PLUT. <i>M. 368c</i>.`

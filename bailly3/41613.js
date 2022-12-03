@@ -1,1 +1,0 @@
-lar[41613]=`<b>εὔ·αξος, ος, ον</b>, facile à briser, fragile, GEOP. <i>10, 57</i>.<p><b>Étym</b>. εὖ, ἄγνυμι.`

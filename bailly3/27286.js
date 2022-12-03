@@ -1,1 +1,0 @@
-lar[27286]=`<b>δι·ωλύγιος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui résonne au loin, PLAT. <i>Theæt. 162a ;</i> CALL. <i>fr. 111</i> ; ANTH. <i>7, 641</i>.<br><b>      2</b> <i>p. suite,</i> immense, PLAT. <i>Leg. 890e, etc</i>.<p><b>Étym</b>. διά, ὀλυγ- <i>de</i> ὀλολύζω.`

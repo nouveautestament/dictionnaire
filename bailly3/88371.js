@@ -1,1 +1,0 @@
-lar[88371]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. de Rheithymnia, <i>v. de Crète,</i> LYC. <i>76</i>.`

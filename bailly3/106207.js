@@ -1,1 +1,0 @@
-lar[106207]=`<b>φιλό·χωρος, ος, ον</b> <font color="purple">[ῐ]</font> qui séjourne volontiers <i>ou</i> habituellement dans un lieu, NAZ. <i>Or. 28, t. 2, p. 57c</i>.<p><b>Étym</b>. φ. χώρα.`

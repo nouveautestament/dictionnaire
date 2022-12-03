@@ -1,1 +1,0 @@
-lar[22820]=`<b>γυναικο·τραφής, ής, ές</b> <font color="purple">[ῠᾰ]</font> nourri par des femmes, CHRYS. <i>3, 460</i>.<p><b>Étym</b>. γ. τρέφω.`

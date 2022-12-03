@@ -1,1 +1,0 @@
-lar[103297]=`<b>ὑπ·οικοδομέω-ῶ</b>, consolider dans la partie inférieure, LUC. <i>H. conscr. 3</i>.`

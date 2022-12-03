@@ -1,1 +1,0 @@
-lar[65963]=`<b>μισγ·άγκεια, ας (ἡ)</b> vallon où se réunissent les eaux de plusieurs torrents, IL. <i>4, 453</i>.<p><b>Étym</b>. μίσγω, ἄγκος.`

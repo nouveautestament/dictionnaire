@@ -1,1 +1,0 @@
-lar[60221]=`<b>λειψό·θριξ, τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> qui a perdu ses cheveux, EL. <i>N.A. 14, 4</i>.<p><b>Étym</b>. λ. θρίξ.`

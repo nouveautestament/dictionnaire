@@ -1,1 +1,0 @@
-lar[90078]=`<b>ῶν (οἱ)</b> sorte de scorpions <i>d’Éthiopie,</i> EL. <i>N.A. 8, 13</i>.`

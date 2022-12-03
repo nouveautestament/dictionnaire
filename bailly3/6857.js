@@ -1,1 +1,0 @@
-lar[6857]=`<b>ἀναισθητέω-ῶ</b>, être stupide, DÉM. <i>302, 3</i> ; être insensible, JOS. <i>A.J. 11, 5, 8</i>.<p><b>Étym</b>. ἀναίσθητος.`

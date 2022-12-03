@@ -1,1 +1,0 @@
-lar[34191]=`<b>ἐν·διδύσκω</b> (<i>seul. prés</i>.) <font color="purple">[ῐ]</font> revêtir : τινά τι, SPT. <i>2Reg. 1, 24,</i> NT. <i>Marc. 15, 17,</i> qqn de qqe ch.<br><b><i>Moy.</i></b> (<i>seul. prés. et impf</i>. ἐνεδιδυσκόμην) se revêtir de, <i>acc</i>. NT. <i>Luc. 8, 27, etc</i>.`

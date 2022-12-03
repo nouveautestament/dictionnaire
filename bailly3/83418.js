@@ -1,1 +1,0 @@
-lar[83418]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> façonné en forme de petit priape, GAL. <i>14, 795</i>.<p><b>Étym</b>. πριαπίσκος.`

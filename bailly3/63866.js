@@ -1,1 +1,0 @@
-lar[63866]=`<b>Μέλ·ανθος, ου (ὁ)</b> Mélanthos :<br><b>      1</b> <i>fils de Nélée, roi d’Élide,</i> HDT. <i>1, 147 ; 5, 65</i> ; THC. <i>8, 3, etc.</i><br><b>      2</b> <i>surn. de Poséidon,</i> LYC. <i>767</i>.<p><b>Étym</b>. μ. ἄνθος.`

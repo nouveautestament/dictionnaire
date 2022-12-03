@@ -1,1 +1,0 @@
-lar[6183]=`<b>ἀμφι·κέφαλος, ος, ον</b> <font color="purple">[φᾰ]</font><br><b>      1</b> à deux têtes, EUB. (ATH. <i>450a, conj</i>. -κέφαλλος) ; ARSTT. <i>H.A. 1, 15, 5</i>.<br><b>      2</b> où il y a place pour deux têtes (lit, siège, <i>etc</i>.) POLL. <i>10, 36</i> ; SYN. <i>158c</i>.<p><b>Étym</b>. ἀ. κεφαλή.`

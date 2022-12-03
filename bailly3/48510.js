@@ -1,1 +1,0 @@
-lar[48510]=`<b>ων (οἱ)</b> témoins, SOL. (PHOT. <i>v°</i> ἰδύους) ; AR. fr. 210 Bgk.`

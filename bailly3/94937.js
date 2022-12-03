@@ -1,1 +1,0 @@
-lar[94937]=`<b>ή, όν</b>, qui a la propriété de marquer la connexion : σ. σύνδεσμος, PLUT. <i>M. 385e ; ou subst</i>. ὁ συναπτικός, DYSC. <i>Conj. p. 501, 10 Bekker, Anecdota græca,</i> conjonction marquant la connexion, <i>en parl. des conjonctions conditionnelles, c</i>. εἰ, εἴπερ, <i>etc</i>.<p><b>Étym</b>. συναπτός.`

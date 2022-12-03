@@ -1,1 +1,0 @@
-lar[47922]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> buis, AÉT. <i>4, 1, 64</i>.<br><b>      2</b> petite loupe, excroissance de chair, HPC. <i>877f ;</i> PLIN. <i>H.N. 32, 45</i>.<p><b>Étym</b>. θύμος.`

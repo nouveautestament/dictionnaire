@@ -1,1 +1,0 @@
-lar[43391]=`<b>εὔ·σαλος, ος, ον</b> <font color="purple">[ᾰ]</font> où la mer est calme, qui offre un bon mouillage, M. RUBR. <i>24</i>.<p><b>Étym</b>. εὖ, σάλος.`

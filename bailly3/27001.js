@@ -1,1 +1,0 @@
-lar[27001]=`<b>δί·πυρος, ος, ον</b> <font color="purple">[ῐῠ]</font><br><b>      1</b> à deux lumières, AR. <i>Ran. 1351</i>.<br><b>      2</b> mis deux fois au feu : δ. ἄρτος, ALC. COM. <i>et</i> EUB. <i>2, 826 et 3, 214 Meineke ; ou</i> δ. <i>seul</i> ALEX. (ATH. <i>110a</i>) pain cuit deux fois, biscuit.<p><b>Étym</b>. δίς, πῦρ.`

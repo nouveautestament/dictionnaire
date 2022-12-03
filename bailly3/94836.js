@@ -1,1 +1,0 @@
-lar[94836]=`<b>συν·άπειμι :<br>      1</b> s’en aller ensemble, XÉN. <i>An. 2, 2, 1</i> ; LYS. <i>134, 34</i>.<br><b>      2</b> s’en aller en même temps, ARSTT. <i>Probl. 1, 28</i>.`

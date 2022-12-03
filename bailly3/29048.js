@@ -1,1 +1,0 @@
-lar[29048]=`<b>δυσ·ωπία, ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> trouble de la figure, <i>d’où</i> fausse honte, PLUT. <i>M. 528e.</i><br><b>      2</b> action de voir d’un œil défiant, soupçon, CIC. <i>Att. 16, 15</i> ; PHIL. <i>1, 330</i>.<p><b>Étym</b>. δ. ὤψ.`

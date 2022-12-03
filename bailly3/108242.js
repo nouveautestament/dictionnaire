@@ -1,1 +1,0 @@
-lar[108242]=`<b>ου (τὸ)</b> petite toux sèche et fréquente, HPC. (GAL. <i>Lex. Hipp. 19, 154</i>) <font color="purple">[<i>graphie</i> χελίσκιον pour Kühn]</font>.<p><b>Étym</b>. χελύσσω.`

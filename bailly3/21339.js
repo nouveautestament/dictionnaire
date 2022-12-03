@@ -1,1 +1,0 @@
-lar[21339]=`<b>γαμψόω-ῶ</b> (<i>part. prés. pass</i>.) recourber, <i>d’où au pass</i>. être recourbé, ARSTT. <i>H.A. 9, 32, 7</i>.<p><b>Étym</b>. γαμψός.`

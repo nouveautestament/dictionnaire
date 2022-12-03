@@ -1,1 +1,0 @@
-lar[74862]=`<b>παν·άμωμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> tout à fait sans reproche, SIM. <i>fr. 8, 17</i>.<p><b>Étym</b>. π. ἄμωμος.`

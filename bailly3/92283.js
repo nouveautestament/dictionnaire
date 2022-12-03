@@ -1,1 +1,0 @@
-lar[92283]=`<b>εως (ἡ)</b> resserrement, obstruction, DIOSC. <i>1, 160</i> ; ORIB. (PHOT. <i>Bibl. 175, 32) ; p. opp. à</i> χαύνωσις, SEXT. <i>P. 1, 238</i>.<p><b>Étym</b>. στεγνόω.`

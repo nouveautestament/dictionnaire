@@ -1,1 +1,0 @@
-lar[108805]=`<b>ή, όν</b>, qui concerne les chœurs, les danses, PLAT. <i>Leg. 670a ;</i> ARSTT. <i>Probl. 19, 15, Poet. 12, 5</i> ; τὸ χορικόν, AR. <i>Eq. 589</i> ; XÉN. <i>Mem. 3, 4, 5</i> ; ARSTT. <i>Poet. 12, 1,</i> chœur dans les pièces de théâtre.<p><b>Étym</b>. χορός.`

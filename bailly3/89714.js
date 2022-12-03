@@ -1,1 +1,0 @@
-lar[89714]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> σέλαχος, EUP. <i>2-1, 428 Meineke</i> ; PLAT. COM. <i>2-2, 634 Mein.</i> ; LUC. <i>Lex. 6</i>.`

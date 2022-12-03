@@ -1,1 +1,0 @@
-lar[54087]=`<b>εως (ἡ)</b> présomption, orgueil, PLUT. <i>M. 1119b</i>.<p><b>Étym</b>. κατοίομαι.`

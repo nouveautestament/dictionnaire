@@ -1,1 +1,0 @@
-lar[50558]=`<b>οῦ (ὁ)</b> qui imagine qqe ch. de nouveau, novateur, XÉN. <i>Cyr. 8, 8, 16</i>.<p><b>Étym</b>. καινοποιέω.`

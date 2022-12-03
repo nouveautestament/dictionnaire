@@ -1,1 +1,0 @@
-lar[23388]=`<b>ου (ὁ)</b> laurier, DIOSC. <i>Noth. 1, 106</i>.<p><b>Étym</b>. <i>cf</i>. δάφνη.`

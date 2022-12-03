@@ -1,1 +1,0 @@
-lar[70184]=`<b>ης, ες</b>, odorant, HPC. <i>295, 4 dout</i>.<p><b>Étym</b>. ὄζω.`

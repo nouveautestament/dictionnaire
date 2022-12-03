@@ -1,1 +1,0 @@
-lar[61045]=`<b>λιθο·γνωμικόν, οῦ (τὸ)</b> (<i>s.-e</i>. βιβλίον) ouvrage sur les pierres précieuses <i>par Philostrate</i>.<p><b>Étym</b>. λ. γνώμη.`

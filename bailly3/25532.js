@@ -1,1 +1,0 @@
-lar[25532]=`<b>εως (ἡ)</b> <font color="purple">[δᾰ]</font> dispersion, AQU. <i>Esai. 5, 7</i>.<p><b>Étym</b>. διασκεδάννυμι.`

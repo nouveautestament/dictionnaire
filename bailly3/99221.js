@@ -1,1 +1,0 @@
-lar[99221]=`<font color="purple">[ῑ]</font> être censeur, <i>à Rome,</i> PLUT. <i>T. Gracch. 14</i>.<p><b>Étym</b>. τιμητής.`

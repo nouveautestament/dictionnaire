@@ -1,1 +1,0 @@
-lar[52439]=`<font color="purple">[τᾱ]</font> <i>adv</i>., avec impétuosité, A.RH. <i>1, 64</i>.<p><b>Étym</b>. καταΐσσω.`

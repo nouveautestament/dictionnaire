@@ -1,1 +1,0 @@
-lar[34555]=`<b>ης, ες</b>, saisi d’un transport divin, inspiré, DH. <i>5, 5, 1 Reiske</i> ; PLUT. <i>Lyc. 21, Pyrrh. 12, etc</i>.<p><b>Étym</b>. ἐνθουσία, -ωδης.`

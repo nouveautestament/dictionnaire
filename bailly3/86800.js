@@ -1,1 +1,0 @@
-lar[86800]=`<b>εως (ἡ)</b> la taille, <i>litt</i>. coupe de la partie antérieure <i>ou</i> supérieure du corps, IL. <i>11, 424</i> ; Q. SM. <i>6, 374</i>.<p><b>Étym</b>. προτέμνω.`

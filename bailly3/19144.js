@@ -1,1 +1,0 @@
-lar[19144]=`<b>βαρυηκοέω-οῶ</b> <font color="purple">[ᾰῠ]</font> avoir l’ouïe dure, HPC. <i>462, 44 et 51 (ms</i>. βαρηκοέω).<p><b>Étym</b>. βαρυήκοος.`

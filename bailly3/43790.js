@@ -1,1 +1,0 @@
-lar[43790]=`<font color="purple">[ᾰ]</font> <i>adv</i>., εὐχ. ἔχειν, PHIL. <i>1, 27,</i> être reconnaissant.<p><b>Étym</b>. εὐχαριστέω.`

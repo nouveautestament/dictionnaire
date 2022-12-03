@@ -1,1 +1,0 @@
-lar[2814]=`<b>ίδος (ἡ)</b> qui choisit, <i>gén</i>. SPT. <i>Sap. 8, 4</i>.<p><b>Étym</b>. αἱρέω.`

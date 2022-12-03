@@ -1,1 +1,0 @@
-lar[98833]=`<b>τεφρο·ειδής, ής, ές</b>, qui ressemble à la cendre, cendré, DIOSC. <i>4, 110</i>.<p><b>Étym</b>. τέφρα, εἶδος.`

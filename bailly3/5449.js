@@ -1,1 +1,0 @@
-lar[5449]=`<b>ἀμενηνόω-ῶ</b> (<i>seul. ao. 3 sg</i>. ἀμενήνωσεν) rendre impuissant, <i>litt</i>. sans consistance, IL. <i>13, 562</i>.<p><b>Étym</b>. ἀμενηνός.`

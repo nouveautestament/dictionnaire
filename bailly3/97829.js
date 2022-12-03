@@ -1,1 +1,0 @@
-lar[97829]=`<b>ταὐτο·μήκης, ης, ες</b>, de la même longueur, NICOM. <i>Arithm. 2, 131</i>.<p><b>Étym</b>. ταὐτό, μῆκος.`

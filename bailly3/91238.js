@@ -1,1 +1,0 @@
-lar[91238]=`<b>εως (ἡ) :<br>      1</b> action de couvrir de ténèbres, PLUT. <i>M. 414d.</i><br><b>      2</b> étourdissement, GAL. <i>2, 261</i>.<p><b>Étym</b>. σκοτόω.`

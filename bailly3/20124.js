@@ -1,1 +1,0 @@
-lar[20124]=`<b>ου (τὸ)</b> <i>ou</i> <b>βόλβιτος, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>grec commun c</i>. βόλιτον, HPC. <i>(Bkk. 86, 9</i>).`

@@ -1,1 +1,0 @@
-lar[51541]=`<b>ης (ἡ)</b> POL. <i>3, 107, 2, etc. ou</i> <b>Κάνναι, ῶν (αἱ)</b> POL. <i>15, 7, 6, etc.</i> ; STR. <i>285,</i> Canne <i>ou</i> Cannes, <i>v. d’Apulie</i>.`

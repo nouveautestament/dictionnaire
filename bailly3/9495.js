@@ -1,1 +1,0 @@
-lar[9495]=`<b>ἀντ·αποδύομαι</b>, se préparer (<i>litt</i>. se déshabiller pour être prêt) contre, se préparer (à la lutte) contre, <i>dat</i>. PHILSTR. <i>842</i>.`

@@ -1,1 +1,0 @@
-lar[98647]=`<i>adv</i>., au quadruple, SPT. <i>3Reg. 6, 33</i>.<p><b>Étym</b>. τετραπλόος.`

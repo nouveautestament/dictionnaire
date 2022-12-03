@@ -1,1 +1,0 @@
-lar[24281]=`<b>Δημό·νικος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Dèmonikos, <i>h</i>. DÉM. <i>265, 5 ; 272, 6</i> ; ISOCR.<p><b>Étym</b>. δ. νίκη.`

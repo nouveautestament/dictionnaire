@@ -1,1 +1,0 @@
-lar[39401]=`<b>ἐπιτηδειόω-ῶ</b> <font color="purple">[ῐ]</font> rendre propre à, JAMBL. <i>V. Pyth. § 228</i>.<p><b>Étym</b>. ἐπιτήδειος.`

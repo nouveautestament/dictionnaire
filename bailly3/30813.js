@@ -1,1 +1,0 @@
-lar[30813]=`<b>εἰσ·λάμπω</b> (<i>seul. prés</i>.) briller dans, luire sur, <i>acc</i>. TH. <i>C.P. 2, 7, 4</i> ; PLUT. <i>M. 929b</i>.`

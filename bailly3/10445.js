@@ -1,1 +1,0 @@
-lar[10445]=`<b>ἀντι·στράτηγος, ου (ὁ)</b> <font color="purple">[ᾰτ]</font><br><b>   I</b> général de l’armée ennemie, THC. <i>7, 86</i> ; DH. <i>6, 5</i>.<br><b>   II</b> <i>à Rome</i> :<br><b>      1</b> propréteur, POL. <i>15, 4, 1</i> ; PLUT. <i>C. Gracch. 6, etc.</i><br><b>      2</b> proconsul, POL. <i>28, 3, 1</i>.<p><b>Étym</b>. ἀ. στρατηγός.`

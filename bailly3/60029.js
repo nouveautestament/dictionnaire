@@ -1,1 +1,0 @@
-lar[60029]=`<b>λαχανο·φαγία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ᾰᾰφᾰ]</font> nourriture composée de légumes, HPC. <i>550, 56 ; 1230, 5</i>.<p><b>Étym</b>. λάχανον, φαγεῖν.`

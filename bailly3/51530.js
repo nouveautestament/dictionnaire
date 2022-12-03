@@ -1,1 +1,0 @@
-lar[51530]=`<b>ῶν (αἱ)</b> grands paniers, HSCH.<p><b>Étym</b>. κάνης.`

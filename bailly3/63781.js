@@ -1,1 +1,0 @@
-lar[63781]=`<i>adv</i>., avec mélancolie, HPC. <i>68c, etc</i>.`

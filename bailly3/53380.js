@@ -1,1 +1,0 @@
-lar[53380]=`<b>κατα·σκυλεύω</b> <font color="purple">[ῡ]</font> dépouiller, <i>acc</i>. EUM. <i>p. 393</i>.`

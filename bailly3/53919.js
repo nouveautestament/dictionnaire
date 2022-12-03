@@ -1,1 +1,0 @@
-lar[53919]=`<b>κατ·επιστρατεύω</b> <font color="purple">[ρᾰ]</font> faire campagne, guerroyer contre, <i>fig</i>. RHÉT. <i>1, 520 W</i>.`

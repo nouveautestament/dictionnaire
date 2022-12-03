@@ -1,1 +1,0 @@
-lar[61173]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Limnes, <i>ép. d’Artémis à Épidaure,</i> PAUS. <i>4, 4, 2, etc</i>.<p>➳ <i>Dat. dor</i>. Λιμνᾶτι, <i>p</i>. λιμνάτιδι, ANTH. <i>6, 280</i>.<p><b>Étym</b>. λίμνη.`

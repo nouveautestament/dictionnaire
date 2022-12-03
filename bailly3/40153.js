@@ -1,1 +1,0 @@
-lar[40153]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰ]</font> les Ératides, <i>famille noble de Rhodes,</i> PD. <i>O. 7, 172 (gén. dor</i>. -ᾶν).<p><b>Étym</b>. ἐρατός.`

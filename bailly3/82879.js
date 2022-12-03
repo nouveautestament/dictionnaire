@@ -1,1 +1,0 @@
-lar[82879]=`<b>πορφυρό·πωλις, ιδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> marchande d’étoffes de pourpre, NT. <i>Ap. 16, 14</i>.<p><b>Étym</b>. π. πωλέω.`

@@ -1,1 +1,0 @@
-lar[18023]=`<b>ἀφ·ηλόω-ῶ</b> (<i>f</i>. ώσω) déclouer, détacher, PORPH. <i>Abst. 1, 57</i>.`

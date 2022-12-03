@@ -1,1 +1,0 @@
-lar[91316]=`<b>η, ον</b> <font color="purple">[ῑ]</font> de Skyllètium ; ὁ σκ. ARSTT. <i>Vent. p. 973b 14 ; fr. 250 Rose, autre n. du vent</i> ἰάπυξ.`

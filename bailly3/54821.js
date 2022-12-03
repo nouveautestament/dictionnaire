@@ -1,1 +1,0 @@
-lar[54821]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> coupe, AR. <i>Lys. 200 conj</i>.<p><b>Étym</b>. κέραμος.`

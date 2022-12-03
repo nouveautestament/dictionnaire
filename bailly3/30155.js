@@ -1,1 +1,0 @@
-lar[30155]=`<b>ἐθελο·κωφέω-ῶ</b>, faire le sourd, DS. <i>Exc. Vat. 81, 26</i> ; STR. <i>36</i> ; τι, CLÉM. <i>773, 42,</i> ne vouloir pas entendre qqe ch.<p><b>Étym</b>. ἐθέλω, κωφός.`

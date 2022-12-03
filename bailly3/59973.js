@@ -1,1 +1,0 @@
-lar[59973]=`(<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> faire claquer, faire du bruit en frappant, OPP. <i>H. 1, 628.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. OPP. <i>C. 2, 430</i>.`

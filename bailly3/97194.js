@@ -1,1 +1,0 @@
-lar[97194]=`<b>σωματο·φορβός, ός, όν</b> <font color="purple">[ᾰ]</font> qui nourrit le corps, MAN. <i>4, 232</i>.<p><b>Étym</b>. σῶμα, φέρβω.`

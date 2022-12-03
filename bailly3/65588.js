@@ -1,1 +1,0 @@
-lar[65588]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> machine, appareil, HPC. <i>Art. 834</i> ; POL. <i>1, 22, 7</i>.<p>➳ <i>Dor</i>. μαχάνασις <font color="purple">[μᾱνᾱ]</font> THÉAGÈS <i>p. 862</i>.<p><b>Étym</b>. μηχανάω.`

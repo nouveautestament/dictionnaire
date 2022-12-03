@@ -1,1 +1,0 @@
-lar[59116]=`<b>α, ον</b>, CALL. <i>fr. 254</i> ; ANTH. <i>11, 382, etc. ; p. contr</i>. <b>Κῷος, α, ον</b>, de Cos, DÉM. <i>35, 31 Baiter-Sauppe, etc.</i> ; οἱ Κῷοι, les habitants de Cos, HDT. <i>7, 99, etc</i>.<p>➳ Κῷοι, CIA. <i>1, 231, 10 (449 av. J.-C.) ; v. Meisterh. p. 51, 8</i>.<p><b>Étym</b>. Κῶς.`

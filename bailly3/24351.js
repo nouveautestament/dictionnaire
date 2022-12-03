@@ -1,1 +1,0 @@
-lar[24351]=`<b>ου (ὁ)</b> Dèmônidès, <i>h</i>. PLUT. <i>M. 18d</i>.<p>➳ <i>Dor</i>. Δαμωνίδας <font color="purple">[ᾱᾱ]</font> ARSTT. (PLUT. <i>Per. 9</i>) ; PLUT.<p><b>Étym</b>. <i>patr. de</i> Δήμων.`

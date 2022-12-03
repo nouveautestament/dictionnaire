@@ -1,1 +1,0 @@
-lar[11950]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῐ]</font> poirier, GEOP. <i>10, 3, 6</i>.<p><b>Étym</b>. ἄπιον.`

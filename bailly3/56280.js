@@ -1,1 +1,0 @@
-lar[56280]=`<i>gén</i>. <b>ιος</b>, <i>acc</i>. <b>κνῆστιν (ἡ) :<br>      1</b> racloir, grattoir, IL. <i>11, 640</i> ; ANTH. <i>6, 305</i>.<br><b>      2</b> démangeaison, OPP. <i>H. 2, 427</i>.<p>➳ <i>Dat</i>. κνήστιϊ, <i>par contr</i>. κνήστι <font color="purple">[ῑ]</font> IL. <i>11, 640</i>.<p><b>Étym</b>. κνάω.`

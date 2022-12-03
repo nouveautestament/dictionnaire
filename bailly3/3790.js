@@ -1,1 +1,0 @@
-lar[3790]=`<b>ἀκρο·κυματόω-ῶ</b> <font color="purple">[ῡᾰ]</font> flotter sur la cime des vagues, <i>exemple de mot emphatique, blâmé par</i> LUC. <i>Lex. 15</i>.`

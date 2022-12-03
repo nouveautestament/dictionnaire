@@ -1,1 +1,0 @@
-lar[75324]=`<b>πάν·ωρος, ος, ον</b>, de toutes les saisons, ESCHL. <i>Suppl. 690</i>.<p><b>Étym</b>. π. ὤρα.`

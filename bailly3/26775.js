@@ -1,1 +1,0 @@
-lar[26775]=`<b>ων (τὰ)</b> <font color="purple">[ῐ]</font> Dioméies, <i>dème attique de la tribu Ægéïde,</i> AR. <i>Ran. 651</i>.<p><b>Étym</b>. Δίομος.`

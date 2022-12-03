@@ -1,1 +1,0 @@
-lar[75968]=`<b>ατος (τὸ)</b> achèvement, complément, DIOPH. <i>Mult. num. 7</i> ; EUCL. <i>Elem. 1, 43</i>.<p><b>Étym</b>. π. ἀναπληρόω.`

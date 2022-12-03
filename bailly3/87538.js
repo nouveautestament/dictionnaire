@@ -1,1 +1,0 @@
-lar[87538]=`<b>οῦ</b> <font color="purple">[ῡᾰ]</font> disciple de Pythagore, pythagoricien, JAMBL. <i>V. Pyth. 80</i> ; ARISTOPHON (<i>Com. fr. 3, 362) ; particul</i>. disciple de Pythagore pour l’enseignement exotérique, <i>p. opp. à</i> Πυθαγόρειος, JAMBL. <i>V. Pyth. 172</i>.<p>➳ <i>Dor</i>. Πυθαγορικτάς, THCR. <i>Idyl. 14, 5</i>.<p><b>Étym</b>. πυθαγορίζω.`

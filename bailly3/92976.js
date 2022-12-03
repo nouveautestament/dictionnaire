@@ -1,1 +1,0 @@
-lar[92976]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> στρουθός, EUB. <i>3, 268 Meineke</i>.`

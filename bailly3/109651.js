@@ -1,1 +1,0 @@
-lar[109651]=`<b>ψευδ·έφοδος, ος, ον</b>, qui simule une attaque, POLYEN <i>3, 9, 32</i>.`

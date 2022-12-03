@@ -1,1 +1,0 @@
-lar[86022]=`<b>προσ·κλάω-ῶ</b>, briser contre, XÉN. <i>Eq. 7, 6 dout</i>.`

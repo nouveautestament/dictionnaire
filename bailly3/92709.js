@@ -1,1 +1,0 @@
-lar[92709]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> vêtement plissé, ANTH. <i>5, 104</i>.<p><b>Étym</b>. στολιδόω.`

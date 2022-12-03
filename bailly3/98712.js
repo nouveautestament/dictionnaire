@@ -1,1 +1,0 @@
-lar[98712]=`<b>τετρά·χοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> qui contient quatre χόες (<i>v</i>. χοῦς), <i>environ treize litres,</i> HÉDYL. (ATH. <i>473a</i>) ; <i>subst</i>. ὁ τ. mesure de quatre χόες, GEOP. <i>9, 10</i>.<p><b>Étym</b>. τ. χοῦς.`

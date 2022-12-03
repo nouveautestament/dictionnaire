@@ -1,1 +1,0 @@
-lar[82415]=`<b>πολύ·στροφος, ος, ον :<br>      1</b> tout à fait enroulé, <i>d’où</i> bien tressé, ANTH. <i>6, 107</i>.<br><b>      2</b> qui tourne en tous sens, DIONYS. <i>H. 2 ; fig</i>. versatile, changeant, inconstant, PD. <i>fr. 233</i>.<p><b>Étym</b>. π. στρέφω.`

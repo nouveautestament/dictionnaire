@@ -1,1 +1,0 @@
-lar[3293]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> propre à guérir, PLUT. <i>M. 956f</i>.<p><b>Étym</b>. ἀκέομαι.`

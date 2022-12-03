@@ -1,1 +1,0 @@
-lar[77079]=`<b>παρ·οξύτονος, ος, ον</b> <font color="purple">[ῠ]</font> paroxyton, marqué de l’accent aigu sur la pénultième, ARCAD. <i>191, 19</i>.<p><b>Étym</b>. π. ὀξύτονος.`

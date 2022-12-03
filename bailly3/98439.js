@@ -1,1 +1,0 @@
-lar[98439]=`<b>τεσσαρακονθ·ήμερος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> de quarante jours, HPC. <i>Progn. 42, etc</i>.<p><b>Étym</b>. τεσσαράκοντα, ἡμέρα.`

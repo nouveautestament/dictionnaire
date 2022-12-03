@@ -1,1 +1,0 @@
-lar[74079]=`<i>ou</i> <b>Παγγαῖον, ου (τὸ)</b> Pangæon (<i>auj</i>. Pangéo) <i>mt. de Macédoine avec des mines d’or et d’argent,</i> ESCHL. <i>Pers. 494</i> ; HDT. <i>5, 16, etc.</i> ; THC. <i>2, 99</i> ; XÉN. <i>Cyn. 11, 1, etc</i>.`

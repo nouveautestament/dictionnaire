@@ -1,1 +1,0 @@
-lar[62416]=`<b>έως (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Makarée, <i>h</i>. EUR. (DH. <i>Rhet. 9, 11) ; acc. plur</i>. Μακαρέας, PLAT. <i>Leg. 838c</i>, des hommes comme Makarée.`

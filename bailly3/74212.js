@@ -1,1 +1,0 @@
-lar[74212]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱν]</font> action de chanter un péan, DH. <i>1, 323, 3 Reiske,</i> STR. <i>16, 4, 13, etc</i>.<p><b>Étym</b>. παιανίζω.`

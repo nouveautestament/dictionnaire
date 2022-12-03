@@ -1,1 +1,0 @@
-lar[13510]=`<b>ἀπο·σφίγγω</b> <font color="darkgreen">(<i>f</i>. -σφίγξω, <i>part. pf. pass</i>. ἀπεσφιγμένος)</font> serrer, comprimer, LUC. <i>Luct. 19 ; fig. en b. part, en parl. d’un style serré et ferme,</i> LUC. <i>Rh. præc. 9</i>.`

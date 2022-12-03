@@ -1,1 +1,0 @@
-lar[98565]=`<b>ίδος (ἡ)</b> période de quatre ans, HLD. <i>103</i>.<p><b>Étym</b>. τετραέτης.`

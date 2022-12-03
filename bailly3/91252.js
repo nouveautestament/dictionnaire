@@ -1,1 +1,0 @@
-lar[91252]=`<font color="darkgreen">(<i>seul. inf. prés. épq</i>. σκυδμαινέμεν)</font> s’irriter <i>ou</i> être irrité contre, <i>dat</i>. IL. <i>24, 592</i>.<p><b>Étym</b>. σκύζομαι.`

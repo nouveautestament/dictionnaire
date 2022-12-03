@@ -1,1 +1,0 @@
-lar[47457]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. θοίναμα, EUR. <i>Rhes. 515</i>.<p><b>Étym</b>. θοινατήρ.`

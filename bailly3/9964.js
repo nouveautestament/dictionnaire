@@ -1,1 +1,0 @@
-lar[9964]=`<b>εως (ἡ)</b> <font color="purple">[κῑ]</font> mouvement en sens contraire, HERM. (STOB. <i>Ecl. 1, 400).</i><p><b>Étym</b>. ἀντικινέω.`

@@ -1,1 +1,0 @@
-lar[69492]=`<b>ξενό·τιμος, ος, ον</b> <font color="purple">[ῑ]</font> qui honore les hôtes <i>ou</i> les étrangers, ESCHL. <i>Eum. 546</i>.<p><b>Étym</b>. ξ. τιμάω.`

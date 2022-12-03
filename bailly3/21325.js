@@ -1,1 +1,0 @@
-lar[21325]=`<b>γαμοκλοπέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>seul. inf. prés</i>. -έειν) commettre un adultère, PHOCYL. <i>3</i>.<p><b>Étym</b>. γαμοκλόπος.`

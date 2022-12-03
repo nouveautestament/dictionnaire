@@ -1,1 +1,0 @@
-lar[67660]=`<b>ναρθηκο·πλήρωτος, ος, ον</b>, qui remplit le creux de la tige d’une férule, ESCHL. <i>Pr. 109</i>.<p><b>Étym</b>. ν. πληρόω.`

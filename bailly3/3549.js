@@ -1,1 +1,0 @@
-lar[3549]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de lancer un trait, XÉN. <i>Hipp. 3, 6</i> ; PLUT. <i>M. 8d ;</i> ARR. <i>An. 1, 2, 6, etc.</i><br><b>      2</b> jaillissement d’un liquide, GAL. <i>2, 279</i>.<br><b>      3</b> <i>plur</i>. ἀ. ἀστέρων, PROCL. <i>Ptol. 147,</i> jet d’étoiles filantes.<p><b>Étym</b>. ἀκοντίζω.`

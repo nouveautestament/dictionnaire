@@ -1,1 +1,0 @@
-lar[63405]=`<b>μεγαλο·πόνηρος, ος, ον</b> <font color="purple">[ᾰ]</font> grand malfaiteur, très méchant, ARSTT. <i>Pol. 4, 11, 5</i>.<p><b>Étym</b>. μ. πονηρός.`

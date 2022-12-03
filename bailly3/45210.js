@@ -1,1 +1,0 @@
-lar[45210]=`<font color="purple">[ῐθ]</font> <i>adv</i>., sottement, stupidement, LYS. <i>91, 34</i> ; PLAT. <i>Theæt. 180d</i>.<p>➳ <i>Dor</i>. ἀλιθίως <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 10, 40</i>.<p><b>Étym</b>. ἠλίθιος.`

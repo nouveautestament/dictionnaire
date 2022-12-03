@@ -1,1 +1,0 @@
-lar[5115]=`<font color="purple">[ᾰ]</font> battre les épis dans la grange, APP. <i>Mac. 9, 11</i>.<p><b>Étym</b>. ἅλων.`

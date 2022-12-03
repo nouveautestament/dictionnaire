@@ -1,1 +1,0 @@
-lar[39493]=`<b>ἐπι·τριήραρχος, ου (ὁ)</b> triérarque en fonction au delà du temps légal, INSCR.<p><b>Étym</b>. <i>356 av. J.-C., v. Meisterh. p. 97, 47</i>.`

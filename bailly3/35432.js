@@ -1,1 +1,0 @@
-lar[35432]=`<b>ἐξ·αμηχανέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -ήσομεν)</font> <font color="purple">[ᾰᾰ]</font> imaginer pour sortir d’embarras, EUR. <i>Her. 495</i>.`

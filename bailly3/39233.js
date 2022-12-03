@@ -1,1 +1,0 @@
-lar[39233]=`<b>ἐπι·συνείρω</b>, ajouter ensuite, SEXT. <i>M. 1, 142</i>.`

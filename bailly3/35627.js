@@ -1,1 +1,0 @@
-lar[35627]=`<b>ἑξά·σημος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a six temps, <i>t. de métr</i>. DRAC. <i>125, 12</i> ; A. QUINT. <i>p. 36</i> ; HÉPH. <i>14, 2</i>.<p><b>Étym</b>. ἕξ, σῆμα.`

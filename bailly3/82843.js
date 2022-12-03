@@ -1,1 +1,0 @@
-lar[82843]=`<b>ακος (ἡ)</b> <font color="purple">[ᾰκ]</font> <i>c</i>. πόρτις, IL. <i>17, 4</i>.`

@@ -1,1 +1,0 @@
-lar[106650]=`<b>φοξί·χειλος, ος, ον</b> <font color="purple">[ῐ]</font> aux bords aigus <i>ou</i> tranchants, SIM. AM. <i>Iamb. fr. 27</i>.<p><b>Étym</b>. φοξός, χεῖλος.`

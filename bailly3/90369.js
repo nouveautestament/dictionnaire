@@ -1,1 +1,0 @@
-lar[90369]=`<font color="purple">[ῐᾱ]</font> <i>vb. de</i> σιναπίζω, DIOSC. <i>7, 3</i> ; MÉD. <i>p. 299 Matthäi</i>.`

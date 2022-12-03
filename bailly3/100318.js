@@ -1,1 +1,0 @@
-lar[100318]=`<b>Τρι·όπας, α (ὁ)</b> <font color="purple">[ᾱ]</font> Triopas, <i>fondateur de Cnide</i>.<p>➳ <i>Gén</i>. -ου, PORPH. <i>V. Pyth. 16 ; épq</i>. -αο, CALL. <i>H. 6, 112</i> ; ANTH. <i>App. 50, 5 ; ion</i>. -εω, HH. <i>Ap. 211</i> ; CALL. <i>H. 6, 24</i> ; ANTH. <i>App. 50, 36 ; 51, 49</i>.<p><b>Étym</b>. τρ. ὤψ.`

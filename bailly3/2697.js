@@ -1,1 +1,0 @@
-lar[2697]=`<b>αἰνό·λινος, ος, ον</b> <font color="purple">[ῐ]</font> au fil <i>ou</i> à la trame funeste, ANTH. <i>7, 527</i>.<p><b>Étym</b>. αἰν. λίνον.`

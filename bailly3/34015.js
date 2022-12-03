@@ -1,1 +1,0 @@
-lar[34015]=`<b>ἐναρη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui remporte des dépouilles, A. PL. <i>72</i>.<p><b>Étym</b>. ἔναρα, φέρω.`

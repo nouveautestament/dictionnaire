@@ -1,1 +1,0 @@
-lar[96580]=`<b>ης, ες</b>, composé d’un ramassis de populace, POL. <i>4, 75, 5</i> ; PLUT. <i>M. 454e ;</i> LUC. <i>Salt. 83, etc</i>.<p><b>Étym</b>. συρφετός, -ωδης.`

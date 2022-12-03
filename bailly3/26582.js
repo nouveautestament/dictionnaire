@@ -1,1 +1,0 @@
-lar[26582]=`<b>δικταμνίτης οἶνος (ὁ)</b> <font color="purple">[νῑ]</font> vin au dictame, DIOSC. <i>5, 57</i>.<p><b>Étym</b>. δίκταμνον.`

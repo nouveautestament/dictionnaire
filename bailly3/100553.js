@@ -1,1 +1,0 @@
-lar[100553]=`<b>τριτο·γενής, ής, ές</b> <font color="purple">[ῐ]</font> né le troisième jour du mois, POÉT. (SCH.-IL. <i>8, 39).</i><p><b>Étym</b>. τρίτος, γένος.`

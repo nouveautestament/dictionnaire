@@ -1,1 +1,0 @@
-lar[13424]=`<b>ἀπο·στέργω :<br>      1</b> cesser d’aimer, THCR. <i>Idyl. 14, 50</i>.<br><b>      2</b> prendre en aversion, <i>acc</i>. THCR. <i>Epigr. 4, 14</i>.<br><b>      3</b> repousser comme fâcheux, <i>acc</i>. ESCHL. <i>Ag. 499</i>.`

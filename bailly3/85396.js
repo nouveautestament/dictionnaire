@@ -1,1 +1,0 @@
-lar[85396]=`<b>προσ·δέω</b>, lier <i>ou</i> attacher à : τί τινι, HDT. <i>6, 119</i> ; DS. <i>17, 41</i> ; τι πρός τι, HPC. <i>Fract. 760</i> ; τι ἐπί τινι, HDT. <i>4, 195,</i> attacher une chose à une autre ; <i>avec un acc. seul,</i> HDT. <i>2, 36</i>.`

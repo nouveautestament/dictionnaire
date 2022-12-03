@@ -1,1 +1,0 @@
-lar[3968]=`<b>ἄ·κυθος, ος, ον</b> <font color="purple">[ῠ]</font> stérile, CALL. <i>H. Ap. 53</i>.<p><b>Étym</b>. ἀ, κύω.`

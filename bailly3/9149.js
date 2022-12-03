@@ -1,1 +1,0 @@
-lar[9149]=`<b>ἀν·ιύζω</b> <font color="purple">[ῑ]</font> pousser un cri, Q. SM. <i>11, 117</i>.<p><b>Étym</b>. ἀνά, ἰύζω.`

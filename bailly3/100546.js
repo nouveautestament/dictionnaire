@@ -1,1 +1,0 @@
-lar[100546]=`<b>α, ον</b> <font color="purple">[ῐτ]</font> d’un tiers, A. QUINT. <i>p. 20</i>.<p><b>Étym</b>. τριτημόριον.`

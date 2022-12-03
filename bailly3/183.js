@@ -1,1 +1,0 @@
-lar[183]=`<b>ἀ·βρόμιος, ος, ον</b>, sans Bacchus <i>ou</i> sans vin, ANTH. <i>6, 291</i>.<p><b>Étym</b>. ἀ. βρ.`

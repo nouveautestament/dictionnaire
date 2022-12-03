@@ -1,1 +1,0 @@
-lar[62893]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> action de consumer, de dissiper, ARSTT. <i>Meteor. 2, 5, 2, etc.</i><br><b>      2</b> action de se consumer, consomption, dépérissement, ARSTT. <i>Juv. 1</i> ; PORPH. <i>Abst. 1, c. 32</i>.<p><b>Étym</b>. μαραίνω.`

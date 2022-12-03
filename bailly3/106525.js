@@ -1,1 +1,0 @@
-lar[106525]=`<b>φοιβό·ληπτος, ος, ον</b>, possédé, <i>càd</i>. inspiré de Phœbus, LYC. <i>1460</i> ; PLUT. <i>Pomp. 48</i> ; LGN <i>16, 2</i>.<p><b>Étym</b>. Φοῖβος, ληπτός.`

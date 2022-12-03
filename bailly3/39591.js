@@ -1,1 +1,0 @@
-lar[39591]=`<b>ἐπι·φλύω</b> <font color="purple">[ῡ]</font> épancher un flot d’injures contre, <i>dat</i>. A.RH. <i>1, 481</i>.`

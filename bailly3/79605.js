@@ -1,1 +1,0 @@
-lar[79605]=`<i>adv</i>., avec effroi, DH. <i>11, 22</i> ; PLUT. <i>Arat. 26</i>.`

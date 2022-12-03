@@ -1,1 +1,0 @@
-lar[106065]=`<b>φιλό·ρρυθμος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le rythme, la cadence, la mesure, PLUT. <i>M. 1138b</i>.<p><b>Étym</b>. φ. ῥυθμός <i>de</i> *ϝρυθμός.`

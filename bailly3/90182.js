@@ -1,1 +1,0 @@
-lar[90182]=`<b>*σιδηρο·χάρμης</b>, <i>dor</i>. <b>σιδαροχάρμας, α</b> <font color="purple">[ῐᾱμᾱ]</font> <i>adj. m</i>. qui combat bardé de fer, <i>en parl. de chevaux,</i> PD. <i>P. 2, 4</i>.<p><b>Étym</b>. σ. χάρμα ; <i>cf</i>. χαλκοχάρμης.`

@@ -1,1 +1,0 @@
-lar[12473]=`<b>ἀποινό·δορπος, ος, ον</b> <font color="purple">[ᾰ]</font> qui dévore les victimes offertes pour une rançon, LYC. <i>902</i>.<p><b>Étym</b>. ἄποινα, δόρπον.`

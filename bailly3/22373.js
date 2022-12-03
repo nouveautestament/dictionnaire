@@ -1,1 +1,0 @@
-lar[22373]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> rave ronde (<i>cf</i>. γογγυλίς), <i>mot non att. employé par le Scythe,</i> AR. <i>Th. 1185 ; p. anal</i>. pâte de forme ronde, AR. <i>Pax 28</i>.<p><b>Étym</b>. γογγύλος.`

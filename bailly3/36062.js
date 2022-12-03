@@ -1,1 +1,0 @@
-lar[36062]=`<b>οῦ (ὁ) :<br>      1</b> dépense, contribution, ARTÉM. <i>1, 59</i>.<br><b>      2</b> expédition, POL. <i>23, 6, 1</i>.<p><b>Étym</b>. ἐξοδιάζω.`

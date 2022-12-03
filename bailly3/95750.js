@@ -1,1 +1,0 @@
-lar[95750]=`<b>συν·ερίζω</b>, disputer ensemble, SPT. <i>2Macc. 8, 30</i>.`

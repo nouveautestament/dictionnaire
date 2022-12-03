@@ -1,1 +1,0 @@
-lar[44910]=`<b>ου (ὁ)</b> guide, chef, SYN.<p>➳ <i>Dor. voc</i>. ἀγέτα <font color="purple">[ᾱγ]</font> ORPH. <i>H. 51, 7</i>.<p><b>Étym</b>. ἡγέομαι.`

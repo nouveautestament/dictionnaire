@@ -1,1 +1,0 @@
-lar[26070]=`<b>ή, όν</b>, propre à réveiller, <i>gén</i>. ATH. <i>64b, 371b ;</i> SEXT. <i>360</i> ; A. QUINT. <i>p. 111</i>.<p><b>Étym</b>. διεγείρω.`

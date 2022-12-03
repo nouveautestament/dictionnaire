@@ -1,1 +1,0 @@
-lar[22382]=`<b>οῦ (ὁ)</b> qui murmure, qui gronde sourdement, NT. <i>Jud. 16</i> ; NAZ. <i>2, 656c Migne</i>.<p><b>Étym</b>. γογγύζω.`

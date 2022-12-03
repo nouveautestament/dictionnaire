@@ -1,1 +1,0 @@
-lar[86428]=`<b>προσ·συνοικίζω :<br>      1</b> donner en outre en mariage, DC. <i>60, 53</i>.<br><b>      2</b> établir dans une autre résidence, M. ANT. <i>4, 21</i>.`

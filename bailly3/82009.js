@@ -1,1 +1,0 @@
-lar[82009]=`<b>πολύ·κλωνος, ος, ον</b>, aux nombreux rameaux, TH. <i>H.P. 6, 2, 6</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Plant. 1, 7</i>.<p><b>Étym</b>. π. κλών.`

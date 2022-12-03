@@ -1,1 +1,0 @@
-lar[77863]=`<b>ίδος</b>, <i>adj. f</i>. du cap Pélôron, NONN. <i>D. 2, 395</i> ; ARSTT. <i>Mir. 111, etc. ; subst</i>. ἡ Πελωρίς, THC. <i>4, 25, etc</i>. le cap Pélôron.<p><b>Étym</b>. Πέλωρον.`

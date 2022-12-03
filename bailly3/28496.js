@@ -1,1 +1,0 @@
-lar[28496]=`<b>δυσ·θανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui meurt misérablement, ANTH. <i>9, 81</i>.<p><b>Étym</b>. δ. θαν- <i>de</i> θάνατος.`

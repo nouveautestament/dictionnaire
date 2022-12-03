@@ -1,1 +1,0 @@
-lar[85344]=`<b>προσ·βλάπτω</b>, endommager encore plus, HPC. <i>Epid. 3, 1086, etc</i>.`

@@ -1,1 +1,0 @@
-lar[62721]=`<b>ή, όν</b>, garni <i>ou</i> muni de longs poils, fourré, PLAT. COM. <i>2-2, 617 Mein.</i> ; STR. <i>499</i> ; DH. <i>7, 72</i>.<p><b>Étym</b>. μαλλός.`

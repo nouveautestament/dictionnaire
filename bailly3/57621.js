@@ -1,1 +1,0 @@
-lar[57621]=`<b>(ὁ)</b> Kratéas, <i>h</i>. PLUT. <i>M. 768f</i>.`

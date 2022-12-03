@@ -1,1 +1,0 @@
-lar[48786]=`<b>Ἰκαρο·μένιππος, ου (ὁ)</b> Ikaroménippos, <i>titre d’un ouvrage de Lucien</i>.<p><b>Étym</b>. Ἴκαρος, Μένιππος.`

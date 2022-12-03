@@ -1,1 +1,0 @@
-lar[2189]=`<font color="purple">[ᾱ]</font> <i>adv</i>., en s’élançant, A.RH. <i>2, 826</i>.<p><b>Étym</b>. ἀΐσσω.`

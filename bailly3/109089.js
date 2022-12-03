@@ -1,1 +1,0 @@
-lar[109089]=`<b>χρύσ·ασπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῡῐδ]</font> au bouclier d’or, PD. <i>I. 1, 1</i> ; EUR. <i>Ph. 1372</i> ; ANTH. <i>9, 697, 3</i>.<p><b>Étym</b>. χρ. ἀσπίς.`

@@ -1,1 +1,0 @@
-lar[66397]=`<b>ου (ὁ)</b> Molpagoras, <i>h</i>. PLUT. <i>Sept. sap. conv. 2</i>.<p>➳ <i>Ion</i>. Μολπαγόρης, HDT. <i>5, 30</i>.<p><b>Étym</b>. μολπή, ἀγορεύω.`

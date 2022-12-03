@@ -1,1 +1,0 @@
-lar[80214]=`<b>ου (τὸ)</b> <font color="purple">[πῐ]</font> <i>dim. de</i> πιθάκνη, EUB. <i>3, 265 Meineke</i>.`

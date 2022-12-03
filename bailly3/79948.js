@@ -1,1 +1,0 @@
-lar[79948]=`<i>adv</i>., d’une manière interrogative, DYSC. <i>Adv. p. 625</i>.`

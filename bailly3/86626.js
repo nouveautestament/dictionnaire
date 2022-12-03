@@ -1,1 +1,0 @@
-lar[86626]=`<i>adv</i>., d’une manière appropriée, convenablement, TH. <i>C.P. 4, 7, 2</i>.<p><b>Étym</b>. πρόσφορος.`

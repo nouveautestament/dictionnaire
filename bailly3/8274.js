@@ -1,1 +1,0 @@
-lar[8274]=`<b>ας (ἡ)</b> qualité de ce qui ne peut être réfuté, DL. <i>7, 47</i>.<p><b>Étym</b>. ἀνέλεγκτος.`

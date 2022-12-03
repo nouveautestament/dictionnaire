@@ -1,1 +1,0 @@
-lar[90235]=`<i>indécl. ou</i> <b>σίκερα, -ερος (τὸ)</b> boisson fermentée (cidre, <i>etc</i>.) SPT. <i>Lev. 10, 9 ; Esaï. 24, 9</i> ; NT. <i>Luc. 1, 15 ; p. ext. en parl. du vin,</i> SPT. <i>Num. 28, 7</i>.<p><b>Étym</b>. <i>hébr</i>. schêkâr.`

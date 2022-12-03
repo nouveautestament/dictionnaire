@@ -1,1 +1,0 @@
-lar[57023]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> petite fille, fillette, <i>t. familier,</i> PLAT. (DL. <i>3, 33).</i><p><b>Étym</b>. κόρη.`

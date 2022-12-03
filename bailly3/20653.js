@@ -1,1 +1,0 @@
-lar[20653]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> bouillonnement (de l’eau), ORIB. <i>1, 432</i>.<br><b>      2</b> action de rejeter en bouillonnant (sur le rivage), NAZ. <i>3, 1414a Migne</i>.<p><b>Étym</b>. βράζω.`

@@ -1,1 +1,0 @@
-lar[48317]=`<b>ἰατρο·λογία, ας (ἡ)</b> <font color="purple">[ῑᾱ]</font> traité de médecine, PHIL. <i>1, 302</i>.<p><b>Étym</b>. ἰατρός, λόγος.`

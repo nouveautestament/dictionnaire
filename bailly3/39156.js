@@ -1,1 +1,0 @@
-lar[39156]=`<b>ἐπιστολο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui écrit des lettres, secrétaire, POL. <i>31, 3, 16</i>.<p><b>Étym</b>. ἐπιστολή, γράφω.`

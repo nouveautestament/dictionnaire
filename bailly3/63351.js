@@ -1,1 +1,0 @@
-lar[63351]=`<b>μεγαλό·δηλος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait évident, PORPH. <i>Qu. Hom. 28</i>.<p><b>Étym</b>. μ. δῆλος.`

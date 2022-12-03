@@ -1,1 +1,0 @@
-lar[92593]=`<b>στιβέω-ῶ</b> (<i>seul. 3 sg. pf. pass</i>. ἐστίβηται) <font color="purple">[ῐ]</font> <i>c</i>. στιβεύω SOPH. <i>Aj. 861</i>.`

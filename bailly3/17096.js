@@ -1,1 +1,0 @@
-lar[17096]=`<b>ων (τὰ)</b> Augiles, <i>oasis de Libye,</i> HDT. STR.`

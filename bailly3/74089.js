@@ -1,1 +1,0 @@
-lar[74089]=`<b>παγ·γλυκερός, ά, όν</b> <font color="purple">[ῠ]</font> tout à fait doux, très doux, AR. <i>Lys. 970</i>.<p><b>Étym</b>. π. γλυκερός.`

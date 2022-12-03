@@ -1,1 +1,0 @@
-lar[52312]=`<b>κατα·δεῶς</b>, <i>adv</i>., d’une manière tout à fait craintive <i>ou</i> timide, ANAXIM. <i>Rhet. p. 229, 17 Speng. au cp</i>. -δεεστέρως.<p><b>Étym</b>. κ. δέος.`

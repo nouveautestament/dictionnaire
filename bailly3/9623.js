@@ -1,1 +1,0 @@
-lar[9623]=`<b>ή, όν</b>, apte <i>ou</i> habitué à comparer, qui compare, APHTH. (<i>W. 1, 97).</i><p><b>Étym</b>. ἀντεξετάζω.`

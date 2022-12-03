@@ -1,1 +1,0 @@
-lar[13483]=`<b>ἀπο·συνάγω</b> <font color="purple">[ᾰγ]</font> faire revenir de, guérir de : ἀπό τινος, SPT. <i>4Reg. 5, 3,</i> de qqe (maladie).`

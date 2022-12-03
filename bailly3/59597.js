@@ -1,1 +1,0 @@
-lar[59597]=`<font color="purple">[ᾰ]</font> déchirer, mettre en pièces, LYC. <i>1113</i> ; ANTH. <i>9, 117</i>.<p><b>Étym</b>. λακίς.`

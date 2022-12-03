@@ -1,1 +1,0 @@
-lar[2822]=`<b>ἄ·ϊρος Ἶρος</b> <font color="purple">[ῑ]</font> infortuné Iros, <i>litt</i>. Iros qui n’est plus Iros, OD. <i>18, 73</i>.`

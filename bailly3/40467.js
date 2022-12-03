@@ -1,1 +1,0 @@
-lar[40467]=`<b>ἐρινεός-οῦς, εά-ῆ, εόν-οῦν</b> <font color="purple">[ῑ]</font> qui concerne le figuier sauvage, de figuier sauvage, ARSTT. <i>H.A. 5, 22, 9</i> ; EUR. <i>fr. 680 (dat. pl. fém. contr</i>. ἐριναῖς) ; ATH. <i>76c</i> (<i>gén. pl. fém. contr</i>. ἐρινῶν).<p><b>Étym</b>. ἐρινός.`

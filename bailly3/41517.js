@@ -1,1 +1,0 @@
-lar[41517]=`<b>ας (ἡ)</b> bonne chasse, POL. <i>8, 31, 6</i> ; LUC. <i>Cat. 5</i> ; ANTH. <i>6, 187 ; 9, 268</i>.<p><b>Étym</b>. εὔαγρος.`

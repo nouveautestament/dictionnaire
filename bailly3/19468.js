@@ -1,1 +1,0 @@
-lar[19468]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> le pays des Bébrykes, A.RH. <i>2, 129</i>.<p><b>Étym</b>. βέβρυξ.`

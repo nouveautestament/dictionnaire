@@ -1,1 +1,0 @@
-lar[84472]=`<b>προ·καταλήγω</b>, cesser auparavant, POL. <i>2, 14, 6</i>.`

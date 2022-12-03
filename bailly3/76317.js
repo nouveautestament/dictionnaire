@@ -1,1 +1,0 @@
-lar[76317]=`<b>παρα·τελευταῖος, α, ον</b>, avant-dernier, A. QUINT. <i>p. 58 ; subst</i>. ἡ π. ATH. <i>106c</i>, la pénultième.`

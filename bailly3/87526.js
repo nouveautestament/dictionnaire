@@ -1,1 +1,0 @@
-lar[87526]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. πύησις ARÉT. <i>Caus. m. diut. 1, 8</i>.`

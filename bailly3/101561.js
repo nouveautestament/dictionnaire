@@ -1,1 +1,0 @@
-lar[101561]=`<b>ὑδρο·μιγής, ής, ές</b> <font color="purple">[ῐ]</font> mélangé d’eau, ARÉT. <i>Cur. m. acut. 1, 1</i>.<p><b>Étym</b>. ὕδ. μίγνυμι.`

@@ -1,1 +1,0 @@
-lar[48411]=`<b>ἰδιολογέομαι-οῦμαι</b> <font color="purple">[ῐδ]</font> avoir un entretien particulier avec, <i>dat</i>. PLAT. <i>Theag. 121a ;</i> PHIL. <i>1, 197</i>.<p><b>Étym</b>. ἰδιολόγος.`

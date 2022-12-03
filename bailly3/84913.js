@@ -1,1 +1,0 @@
-lar[84913]=`<b>προ·πάτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> aïeul, ancêtre, PD. <i>N. 4, 145</i> ; HDT. <i>2, 161 ; 9, 122</i> ; SOPH. <i>Aj. 389</i> ; EUR. <i>Or. 1441, etc.</i> ; οἱ προπάτορες, HDT. <i>2, 169,</i> les ancêtres.<p>➳ <i>Voc</i>. προπάτωρ, SOPH. <i>l. c</i>.<p><b>Étym</b>. π. πατήρ.`

@@ -1,1 +1,0 @@
-lar[56571]=`<b>κοκκύ·μηλον, ου (τὸ) :<br>      1</b> prune, COM. (ATH. <i>49f</i>).<br><b>      2</b> κ. ἄγριον, prunier sauvage, TH. (ATH. <i>50a</i>).<p><b>Étym</b>. κόκκυξ, μῆλον.`

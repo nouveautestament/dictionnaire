@@ -1,1 +1,0 @@
-lar[61570]=`<b>ῆς (ἡ)</b> action d’épancher <i>ou</i> de s’épancher, <i>d’où</i> :<br><b>      1</b> libation, IL. <i>4, 49 ; 9, 500, etc.</i> ; OD. <i>9, 349, etc. ; au plur</i>. PD. <i>I. 6, 10</i> ; SOPH. <i>El. 52, etc.</i> ; EUR. <i>I.T. 164, etc. ; en prose,</i> PLAT. <i>Leg. 906d.</i><br><b>      2</b> eau qui coule, A.RH. <i>2, 291</i>.<p><b>Étym</b>. λείβω.`

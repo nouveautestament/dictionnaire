@@ -1,1 +1,0 @@
-lar[106842]=`<b>ίτιδος (ἡ)</b> <i>s.-e</i>. νόσος, transport, <i>d’où</i> folie, démence, HPC. <i>Aph. 1248</i> ; PLUT. <i>M. 81f ;</i> LUC. <i>Conv. 20</i>.<p><b>Étym</b>. φρήν.`

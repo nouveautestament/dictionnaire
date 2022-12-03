@@ -1,1 +1,0 @@
-lar[96172]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. ὁμιλητής, ATH. (ORIB. <i>3, 168 B.-Dar</i>.).<p><b>Étym</b>. συνομιλέω.`

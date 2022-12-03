@@ -1,1 +1,0 @@
-lar[55237]=`<b>ων (οἱ)</b> les Jardins :<br><b>      1</b> <i>emplacement d’Athènes,</i> PAUS. <i>1, 19, 2</i>.<br><b>      2</b> <i>v. du Bosphore,</i> ESCHN. <i>78, 18</i>.<p><b>Étym</b>. <i>plur. de</i> κῆπος.`

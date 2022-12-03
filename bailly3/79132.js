@@ -1,1 +1,0 @@
-lar[79132]=`<b>ος, ον</b>, replié tout autour, entortillé, entrelacé, TRIPHIOD. <i>300</i> ; ANTH. <i>9, 362, etc</i>.<p><b>Étym</b>. περιπλέκω.`

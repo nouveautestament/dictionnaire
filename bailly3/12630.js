@@ -1,1 +1,0 @@
-lar[12630]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> transport au loin, exportation, POL. <i>25, 7, 3</i>.<br><b>      2</b> retour, THC. <i>1, 137</i>.<p><b>Étym</b>. ἀποκομίζω.`

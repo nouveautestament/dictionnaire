@@ -1,1 +1,0 @@
-lar[56944]=`<b>ου (ὁ)</b> = <i>lat</i>. Copillus, <i>chef des Tectosages,</i> PLUT. <i>Syll. 4</i>.`

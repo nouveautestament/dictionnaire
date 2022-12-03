@@ -1,1 +1,0 @@
-lar[62146]=`<b>λυχνο·φορέω-ῶ</b> (<i>prés. part. lac</i>. λυχνοφορίοντες) porter une lampe, AR. <i>Lys. 1003</i>.<p><b>Étym</b>. λυχνοφόρος.`

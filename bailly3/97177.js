@@ -1,1 +1,0 @@
-lar[97177]=`<font color="purple">[ᾰ]</font> revêtir d’un corps, incorporer, HERMÈS (STOB. <i>Ecl. p. 984).</i><p><b>Étym</b>. σῶμα.`

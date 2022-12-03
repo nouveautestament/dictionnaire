@@ -1,1 +1,0 @@
-lar[106452]=`<b>ας (ἡ)</b> <font color="purple">[ᾱρ]</font> <i>c</i>. φλυαρία, PLAT. <i>Ax. 369d</i>.`

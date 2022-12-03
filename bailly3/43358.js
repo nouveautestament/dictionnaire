@@ -1,1 +1,0 @@
-lar[43358]=`<b>Εὐρυ·χόρη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Eurykhorè, <i>f</i>. ANTH. <i>14, 119</i>.<p><b>Étym</b>. <i>fém. de</i> εὐρύχορος.`

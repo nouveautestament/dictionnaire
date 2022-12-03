@@ -1,1 +1,0 @@
-lar[63189]=`<b>(ὁ)</b> Mattèn, <i>Tyrien,</i> HDT. <i>7, 98</i> (<i>var</i>. Μάπην).`

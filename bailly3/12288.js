@@ -1,1 +1,0 @@
-lar[12288]=`<b>ἀπο·διαπέμπω</b>, séparer en envoyant de côté et d’autre, SYN.`

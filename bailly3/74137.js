@@ -1,1 +1,0 @@
-lar[74137]=`<b>οῦ</b> <font color="purple">[ᾰτ]</font> qui lutte <i>ou</i> s’exerce au pancrace, PLAT. <i>Rsp. 338c, Euthyd. 271c, etc</i>.<p><b>Étym</b>. παγκρατιάζω.`

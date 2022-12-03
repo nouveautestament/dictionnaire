@@ -1,1 +1,0 @@
-lar[86163]=`<b>προσ·νικάω-ῶ</b> <font color="purple">[ῑ]</font> vaincre en outre, HPC. <i>Art. 828</i>.`

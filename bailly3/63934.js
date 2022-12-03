@@ -1,1 +1,0 @@
-lar[63934]=`(<i>seul. prés</i>.) faire fondre, amollir par la cuisson, CALL. <i>fr. 309 ; au pass</i>. fondre, entrer en fusion : λέβης κνίσῃ μελδόμενος, IL. <i>21, 363,</i> chaudière où fond la graisse ; <i>p. ext</i>. fondre, mollir, NIC. <i>Th. 108</i>.`

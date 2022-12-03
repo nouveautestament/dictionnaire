@@ -1,1 +1,0 @@
-lar[60035]=`<b>λαχ·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>mot de sign. obscure ; sel. les uns,</i> fourré, touffu (<i>de</i> λάχνη) ; <i>sel. d’autres,</i> petit (<i>cf</i>. ἐλαχύς) ; <i>sel. d’autres,</i> d’un vert de légumes (<i>cf</i>. λάχανον) NIC. <i>Al. 581</i>.<p><b>Étym</b>. λάχνη, <i>etc</i>. εἶδος.`

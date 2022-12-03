@@ -1,1 +1,0 @@
-lar[20963]=`<b>ης, ες</b>, puant, infect, STR. <i>246</i> ; DIOSC. <i>1, 6, 7, 10, etc.</i> ; XÉNOCR. <i>Al. 8, 17, 49</i> ; GAL. <i>2, 254f, etc</i>.<p><b>Étym</b>. βρῶμος², -ωδης.`

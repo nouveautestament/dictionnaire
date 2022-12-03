@@ -1,1 +1,0 @@
-lar[103580]=`<b>ὑπο·μύω</b>, se fermer un peu : ὄμματα ὑπομεμυκότα, ALCIPHR. <i>3, 55, 7,</i> yeux à demi fermés.`

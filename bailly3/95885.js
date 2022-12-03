@@ -1,1 +1,0 @@
-lar[95885]=`<b>οῦ (ὁ)</b> compagnon avec qui l’on passe ses journées, ARSTT. <i>Pol. 5, 11, 14</i>.<p><b>Étym</b>. συνημερεύω.`

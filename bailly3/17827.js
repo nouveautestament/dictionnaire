@@ -1,1 +1,0 @@
-lar[17827]=`<i>adv</i>., salement, PHILSTR. <i>147</i>.`

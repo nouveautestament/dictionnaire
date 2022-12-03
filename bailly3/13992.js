@@ -1,1 +1,0 @@
-lar[13992]=`<b>ἀ·πρόσχυτος, ος, ον</b> <font color="purple">[ῠ]</font> qu’on ne peut verser sur, congelé, NYSS. <i>2, 36 Migne</i>.<p><b>Étym</b>. ἀ, προσχέω.`

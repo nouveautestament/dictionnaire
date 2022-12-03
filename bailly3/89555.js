@@ -1,1 +1,0 @@
-lar[89555]=`<b>ου (ὁ)</b> Saül, <i>premier n. de l’apôtre Paul,</i> NT. <i>Ap. 7, 58</i>.`

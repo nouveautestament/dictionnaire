@@ -1,1 +1,0 @@
-lar[56590]=`<font color="purple">[ᾰ]</font> avec adulation, CHARIT. <i>8, 4</i>.`

@@ -1,1 +1,0 @@
-lar[25733]=`<b>δια·τίλλω :<br>      1</b> arracher poil à poil, épiler, SOPH. <i>fr. 587 (pf. pass. part</i>. διατετιλμένης).<br><b>      2</b> <i>p. ext</i>. arracher, <i>en gén</i>. NYSS. <i>2, 1026d</i>.`

@@ -1,1 +1,0 @@
-lar[313]=`<b>ἀγαλματοφορέω-ῶ</b> <font color="purple">[ᾰμᾰ]</font> avoir (<i>litt</i>. porter) dans le cœur <i>ou</i> dans l’esprit l’image de qqe ch. PHIL. <i>1, 4, etc</i>.<p><b>Étym</b>. ἄγαλμα, -φορος <i>de</i> φέρω.`

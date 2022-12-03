@@ -1,1 +1,0 @@
-lar[45412]=`<b>ἡμί·δελτα (τὸ)</b> <font color="purple">[ῐ]</font> <i>indécl</i>. demi-delta, ALYP. <i>Introd. mus. 8</i>.<p><b>Étym</b>. ἡμι-, δέλτα.`

@@ -1,1 +1,0 @@
-lar[97308]=`<b>ῆρος (ὁ) :<br>      1</b> <i>c</i>. σωφρονιστής, PLUT. <i>Cato ma. 27</i> ; SEXT. <i>Mus. 11, p. 358</i>.<br><b>      2</b> <i>au pl</i>. les dents de sagesse, HPC. <i>252, 29</i>.<p><b>Étym</b>. σωφρονίζω.`

@@ -1,1 +1,0 @@
-lar[102055]=`<b>ὕπ·αυλος, ος, ον</b> <font color="purple">[ῠ]</font> sous l’abri de, <i>gén</i>. SOPH. <i>Aj. 796</i>.<p><b>Étym</b>. ὑ. αὐλή.`

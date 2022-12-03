@@ -1,1 +1,0 @@
-lar[20332]=`<b>ου (τὸ) :<br>      1</b> sorte de bracelet ; DIPH. (EM. <i>206, 15</i>) ; NICOSTR. <i>3, 289 Com. fr</i>. (CLÉM. ALEX. <i>Pæd. 209 D</i>).<br><b>      2</b> concombre sauvage, HPC. (GAL. <i>Lex. Hipp. 19, 89</i>) ; DIOSC. <i>4, 154</i>.`

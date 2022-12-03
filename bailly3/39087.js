@@ -1,1 +1,0 @@
-lar[39087]=`<b>ή, όν :<br>      1</b> qui marque la destination, SCH.-D. THR. <i>(Bkk. p. 636, 6</i>) ; ἡ ἐπισταλτική (<i>s.-e</i>. πτῶσις) DYSC. <i>Synt. 40, 27 ; 241, 6,</i> le datif.<br><b>      2</b> épistolaire, A. TYAN. (PHILSTR. <i>391).</i><p><b>Étym</b>. ἐπιστέλλω.`

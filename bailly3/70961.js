@@ -1,1 +1,0 @@
-lar[70961]=`<b>οῦ (ὁ)</b> Olthakos, <i>chef des Dardaniens,</i> PLUT. <i>Luc. 16</i>.`

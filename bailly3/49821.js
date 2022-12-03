@@ -1,1 +1,0 @@
-lar[49821]=`<b>ιδος (ἡ)</b> le territoire d’Histiæa, HDT. <i>7, 175 ; 8, 23</i>.<p><b>Étym</b>. Ἱστίαια.`

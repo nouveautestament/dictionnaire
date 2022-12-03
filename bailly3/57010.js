@@ -1,1 +1,0 @@
-lar[57010]=`<b>ων (οἱ)</b> <i>slmt au plur</i>. bon génie, dieu bienfaisant, <i>chez les Scythes</i>, LUC. <i>Tox</i>. 7.`

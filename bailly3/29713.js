@@ -1,1 +1,0 @@
-lar[29713]=`<b>ἐγ·κολπόω-ῶ</b>, rendre sinueux comme les plis d’une robe, ORPH. <i>Arg. 1181 ; au pass</i>. se recourber en forme de golfe, ARSTT. <i>Mund. 3, 9</i>.<br><b><i>Moy.</i></b> recueillir dans les plis de sa robe, ramasser dans son sein, DC. <i>48, 52</i>.<p><b>Étym</b>. ἐν, κόλπος.`

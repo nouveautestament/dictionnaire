@@ -1,1 +1,0 @@
-lar[1715]=`<b>ας (ἡ)</b> feuillage vivace, toujours vert, TH. <i>C.P. 2, 17, 2</i>.<p><b>Étym</b>. ἀείφυλλος.`

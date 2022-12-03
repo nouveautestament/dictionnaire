@@ -1,1 +1,0 @@
-lar[88585]=`<b>ῥιν·αυλέω-ῶ</b> <font color="purple">[ῑ]</font> souffler bruyamment du nez, LUC. <i>Lex. 19</i>.<p><b>Étym</b>. ῥίς, αὐλέω.`

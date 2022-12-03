@@ -1,1 +1,0 @@
-lar[96583]=`<b>συ·σβέννυμι</b> <font color="darkgreen">(<i>f</i>. συσβέσω, <i>ao</i>. συνέσβεσα, <i>etc</i>.)</font> éteindre avec, <i>d’où pass. (ao.2 moy. 3 sg</i>. συνέσβετο, <i>au sens pass</i>.) s’éteindre avec, <i>fig</i>. OPP. <i>H. 2, 477</i>.`

@@ -1,1 +1,0 @@
-lar[13066]=`<b>ἀπο·πίμπλημι</b> <font color="darkgreen">(<i>f</i>. ἀποπλήσω, <i>etc</i>.)</font> remplir complètement : μυριάδας, HDT. <i>7, 29,</i> parfaire un nombre de myriades ; χρησμόν, HDT. <i>8, 96,</i> accomplir un oracle ; τὸ θυμούμενον, THC. <i>7, 68,</i> assouvir sa colère ; ἐπιθυμίας, PLAT. <i>Gorg. 492a</i>, satisfaire ses désirs.`

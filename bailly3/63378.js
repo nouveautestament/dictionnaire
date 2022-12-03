@@ -1,1 +1,0 @@
-lar[63378]=`<b>μεγαλο·κρατής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> très fort, très puissant, ANTH. <i>9, 657</i>.<p><b>Étym</b>. μ. κράτος.`

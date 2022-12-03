@@ -1,1 +1,0 @@
-lar[85737]=`<b>προσ·επιτελέω-ῶ</b>, accomplir jusqu’au bout, JOS.`

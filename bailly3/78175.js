@@ -1,1 +1,0 @@
-lar[78175]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. πέπων, ARTÉM. <i>1, 75</i> ; ANTH. <i>9, 261</i>.<p>•<i> Cp</i>. -ώτερος, PAUS. <i>9, 19, 8</i>.`

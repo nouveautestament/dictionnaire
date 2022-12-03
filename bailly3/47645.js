@@ -1,1 +1,0 @@
-lar[47645]=`<b>ῆρος (ὁ)</b> qui nourrit, qui élève, ANTH. <i>12, 137</i> ; NONN. <i>D. 3, 385, Jo. 13, 12</i>.<p><b>Étym</b>. τρέφω.`

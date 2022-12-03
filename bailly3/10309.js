@@ -1,1 +1,0 @@
-lar[10309]=`<b>ἀντι·πορεύομαι :<br>      1</b> marcher contre, XÉN. <i>Hell. 7, 3, 5</i>.<br><b>      2</b> résister, NAZ. <i>2, 95</i>.`

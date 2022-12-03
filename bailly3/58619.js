@@ -1,1 +1,0 @@
-lar[58619]=`<b>εως (ἡ)</b> <font color="purple">[ῠῐσ]</font><br><b>      1</b> action de se rouler (dans la poussière) ARSTT. <i>Phys. 3, 1, 6, etc.</i><br><b>      2</b> révolution d’un astre, ARSTT. <i>Cæl. 2, 8, 8</i>.<p><b>Étym</b>. κυλίω.`

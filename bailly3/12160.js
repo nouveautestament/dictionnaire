@@ -1,1 +1,0 @@
-lar[12160]=`<b>ἀπο·βρίζω</b> <font color="darkgreen">(<i>ao</i>. ἀπέβριξα)</font> s’endormir, OD. <i>9, 151 ; 12, 7</i> ; THCR. <i>Epigr. 21, etc. ; avec</i> ὕπνον, CALL. <i>Ep. 17, m. sign</i>.`

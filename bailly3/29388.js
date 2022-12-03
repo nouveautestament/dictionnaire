@@ -1,1 +1,0 @@
-lar[29388]=`<b>ή, όν</b>, donné sous caution ; <i>seul. au fém</i>. fiancée, IS. <i>45, 40</i> ; DÉM. <i>1365, 18</i>.<p><b>Étym</b>. <i>vb. de</i> ἐγγυάω.`

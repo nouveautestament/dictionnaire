@@ -1,1 +1,0 @@
-lar[66013]=`<b>οῦ (ὁ)</b> fermier des impôts, IS. <i>60, 1</i> ; DÉM. <i>955, 17</i>.<p><b>Étym</b>. μισθόω.`

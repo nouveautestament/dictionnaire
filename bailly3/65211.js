@@ -1,1 +1,0 @@
-lar[65211]=`<b>μετ·οχμάζω</b>, porter ailleurs, transporter, NONN. <i>D. 1, 48</i>.`

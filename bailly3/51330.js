@@ -1,1 +1,0 @@
-lar[51330]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠῑ]</font> habitant d’une cabane, STR. <i>318</i>.<p><b>Étym</b>. καλύβη.`

@@ -1,1 +1,0 @@
-lar[51556]=`<b>ου (ὁ)</b> Kannônos, <i>h</i>. AR. <i>Eccl. 1089</i> ; XÉN. <i>Hell. 1, 7, 21</i>.`

@@ -1,1 +1,0 @@
-lar[42450]=`<b>ατος (τὸ)</b> bon lot, heureux sort, STR. <i>234</i> ; DS. <i>18, 13</i>.<p><b>Étym</b>. εὐκληρέω.`

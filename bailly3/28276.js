@@ -1,1 +1,0 @@
-lar[28276]=`<b>δύσ·γνωστος, ος, ον :<br>      1</b> difficile à comprendre, PLAT. <i>2 Alc. 147c.</i><br><b>      2</b> difficile à reconnaître <i>ou</i> à comprendre, POL. <i>3, 78, 4</i>.<p><b>Étym</b>. δ. γιγνώσκω.`

@@ -1,1 +1,0 @@
-lar[10201]=`<b>ἀντι·παραχωρέω-ῶ</b>, céder la place à son tour, BAS. <i>2, 70</i>.`

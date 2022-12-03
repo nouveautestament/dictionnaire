@@ -1,1 +1,0 @@
-lar[80061]=`<b>έως (ὁ)</b> Pèlée, <i>litt</i>. qui vit dans la boue, <i>n. de rat,</i> BATR. <i>19</i>.<p><b>Étym</b>. πηλός.`

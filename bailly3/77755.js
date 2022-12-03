@@ -1,1 +1,0 @@
-lar[77755]=`<b>ου (τὸ)</b> Péléthronion, <i>région montagneuse de Thessalie,</i> NIC. <i>Th. 440</i>.`

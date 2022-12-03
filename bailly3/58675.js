@@ -1,1 +1,0 @@
-lar[58675]=`<b>ης, ες</b> <font color="purple">[ῡᾰ]</font> <i>c</i>. κυματοειδής, ARSTT. <i>Probl. 23, 29, 1 ; en parl. du pouls,</i> agité, GAL. <i>8, 33</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. κ. -ωδης.`

@@ -1,1 +1,0 @@
-lar[2425]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. αἰθαλέος, NIC. <i>Th. 659</i>.`

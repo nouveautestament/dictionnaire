@@ -1,1 +1,0 @@
-lar[58085]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. κρ. μῦς, GAL. <i>4, 295, etc</i>. muscle des tempes, muscle temporal.<p><b>Étym</b>. κρόταφος.`

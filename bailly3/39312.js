@@ -1,1 +1,0 @@
-lar[39312]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> ordre, commandement, SPT. <i>1Esdr. 1, 16</i> ; POL. <i>13, 4, 3</i> ; DS. <i>1, 70</i>.<br><b>      2</b> tribut imposé, POL. <i>21, 4, 1</i>.<p><b>Étym</b>. ἐπιτάσσω.`

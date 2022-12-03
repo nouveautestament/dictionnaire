@@ -1,1 +1,0 @@
-lar[84920]=`<b>ή, όν</b>, propre aux cérémonies funèbres, RHÉT. <i>9, 257 W</i>.<p><b>Étym</b>. προπέμπω.`

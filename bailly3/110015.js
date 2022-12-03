@@ -1,1 +1,0 @@
-lar[110015]=`<b>ψυχρο·λογέω-ῶ</b>, parler froidement, LUC. <i>Pseud. 27</i>.<p><b>Étym</b>. ψ. λόγος <i>de</i> λέγω.`

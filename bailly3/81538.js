@@ -1,1 +1,0 @@
-lar[81538]=`<b>ου (τὸ)</b> <i>sorte de plante,</i> DIOSC. <i>4, 8</i>.<p><b>Étym</b>. Πολέμων.`

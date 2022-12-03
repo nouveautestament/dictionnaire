@@ -1,1 +1,0 @@
-lar[108547]=`<b>χλανιδο·ποιΐα, ας (ἡ)</b> <font color="purple">[ᾰῐ]</font> confection de manteaux légers, XÉN. <i>Mem. 2, 7, 6</i>.<p><b>Étym</b>. χλανιδοποιός.`

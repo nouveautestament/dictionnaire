@@ -1,1 +1,0 @@
-lar[29197]=`<b>οῦς (ἡ)</b> Dôrô, <i>déesse imaginaire de la corruption,</i> AR. <i>Eq. 529</i>.<p><b>Étym</b>. δῶρον.`

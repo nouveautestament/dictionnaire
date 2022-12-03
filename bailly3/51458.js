@@ -1,1 +1,0 @@
-lar[51458]=`<b>ή, όν</b>, qui concerne la flexion, ARSTT. <i>H.A. 1, 15, 3, etc</i>.<p><b>Étym</b>. κάμπτω.`

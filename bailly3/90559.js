@@ -1,1 +1,0 @@
-lar[90559]=`<b>Σιτο·φάγος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Mange-pain, <i>n. de rat,</i> BATR. <i>249</i>.<p><b>Étym</b>. <i>v</i>. σιτοφάγος.`

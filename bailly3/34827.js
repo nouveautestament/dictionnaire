@@ -1,1 +1,0 @@
-lar[34827]=`<b>ἔν·ολμος, ος, ον</b>, qui siège sur le trépied pour rendre des oracles, SOPH. <i>fr. 876</i>.<p><b>Étym</b>. ἐν, ὅλμος.`

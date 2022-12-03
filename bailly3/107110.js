@@ -1,1 +1,0 @@
-lar[107110]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> commandement d’un corps de cavalerie, ARSTT. <i>Pol. 6, 8, 15</i>.<p><b>Étym</b>. φύλαρχος.`

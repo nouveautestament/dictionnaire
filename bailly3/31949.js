@@ -1,1 +1,0 @@
-lar[31949]=`<b>ἐκ·πρόϊημι</b> <font color="darkgreen">(<i>f</i>. -προήσω)</font> lâcher, faire jaillir, EUR. <i>Ion 119</i>.`

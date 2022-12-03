@@ -1,1 +1,0 @@
-lar[66570]=`<b>μονο·λήκυθος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui n’a que son flacon, <i>càd</i>. homme pauvre, POSIDIPP. (ATH. <i>414e</i>).`

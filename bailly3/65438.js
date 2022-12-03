@@ -1,1 +1,0 @@
-lar[65438]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> la lune, EUR. <i>Rhes. 534</i>.<p><b>Étym</b>. μήν.`

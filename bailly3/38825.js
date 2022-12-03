@@ -1,1 +1,0 @@
-lar[38825]=`<b>ἐπι·προφέρω</b> (<i>seul. prés</i>.) porter en avant, A.RH. <i>4, 1549</i>.`

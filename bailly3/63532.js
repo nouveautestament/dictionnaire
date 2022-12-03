@@ -1,1 +1,0 @@
-lar[63532]=`<b>(ὁ)</b> Mégistias, <i>h</i>. HDT. <i>7, 219, etc</i>. SIM. <i>fr. 152</i> ; ANTH. <i>7, 677</i>.<p>➳ <i>Gén</i>. Μεγιστία, SIM. <i>l. c.</i> ; Μεγιστίου, ANTH. <i>l. c. Ion</i>. Μεγιστίης, HDT. <i>l. c</i>.`

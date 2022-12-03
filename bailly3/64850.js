@@ -1,1 +1,0 @@
-lar[64850]=`<b>εως (ἡ)</b> transformation, métamorphose, STR. <i>1, 2, 11 Kram.</i> ; LUC. <i>Halc. (titre), etc. ; au plur</i>. LUC. <i>Salt. 57</i>.<p><b>Étym</b>. μεταμορφόω.`

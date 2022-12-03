@@ -1,1 +1,0 @@
-lar[51446]=`<b>ου (ὁ)</b> = <i>lat</i>. Camulatus, <i>n. d’h. rom</i>. PLUT. <i>Brut. 49</i>.`

@@ -1,1 +1,0 @@
-lar[31637]=`<b>ἐκ·λωβάομαι-ῶμαι</b> <font color="darkgreen">(<i>ao</i>. ἐξελωβήθην)</font> recevoir une injure grave, SOPH. <i>Ph. 330</i>.`

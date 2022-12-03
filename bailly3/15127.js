@@ -1,1 +1,0 @@
-lar[15127]=`<b>ἀρρενοτοκέω-ῶ</b> (<i>seul. prés</i>.) produire des mâles, ARSTT. <i>H.A. 6, 19, 4</i>.<p><b>Étym</b>. ἀρρενοτόκος.`

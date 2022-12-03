@@ -1,1 +1,0 @@
-lar[9606]=`dresser une contre-embuscade, HPC. <i>Ep. 1282</i> ; DC. <i>41, 51</i>.<p><b>Étym</b>. ἀντενέδρα.`

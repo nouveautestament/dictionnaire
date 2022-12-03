@@ -1,1 +1,0 @@
-lar[97858]=`<b>ταφρ·ωρύχος, ος, ον</b> <font color="purple">[ῠ]</font> qui creuse une fosse <i>ou</i> une tranchée, mineur, DL. <i>4, 23</i>.<p><b>Étym</b>. τάφρος, ὀρύσσω.`

@@ -1,1 +1,0 @@
-lar[25103]=`<b>οῦ (ὁ)</b> instrument pour réduire un membre luxé, HPC. <i>Art. 812</i>.<p><b>Étym</b>. διαναγκάζω.`

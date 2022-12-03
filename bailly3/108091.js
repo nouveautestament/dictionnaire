@@ -1,1 +1,0 @@
-lar[108091]=`<b>χειρ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui conduit par la main ; <i>subst</i>. ὁ χ. PHILÉM. (<i>Com. fr. 4, 47</i>) ; NT. <i>Ap. 13, 11</i> ; PLUT. <i>M. 794d ;</i> ἡ χ. PLUT. <i>M. 98b</i>, guide, conducteur, conductrice.<p><b>Étym</b>. χείρ, ἄγω.`

@@ -1,1 +1,0 @@
-lar[51147]=`<b>καλλί·κρεας</b>, <i>gén</i>. <b>κρεως (τὸ)</b> belle chair, <i>autre n. du mésentère,</i> GAL. <i>2, 781</i>.<p><b>Étym</b>. κ. κρέας.`

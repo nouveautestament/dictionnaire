@@ -1,1 +1,0 @@
-lar[68358]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> sorte de plante, DIOSC. <i>3, 17</i>.`

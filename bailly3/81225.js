@@ -1,1 +1,0 @@
-lar[81225]=`<b>εως (ἡ)</b> action d’étouffer, suffocation, ARSTT. <i>Respir. 9, 7</i> ; TH. <i>Ign. 76</i>.<p><b>Étym</b>. πνίγω.`

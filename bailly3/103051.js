@@ -1,1 +1,0 @@
-lar[103051]=`<b>ὑπο·βρυχάομαι-ῶμαι</b> <font color="purple">[ῡχ]</font><br><b>      1</b> gronder sourdement <i>ou</i> un peu, LUC. <i>Am. 6</i> ; NONN. <i>D. 43, 316</i> ; TRIPHIOD. <i>319</i>.<br><b>      2</b> respirer profondément, ADAM. <i>Physiogn. 2, 27, p. 428</i>.`

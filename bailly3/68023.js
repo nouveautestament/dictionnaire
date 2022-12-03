@@ -1,1 +1,0 @@
-lar[68023]=`<b>νεκρο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange des cadavres, DC. <i>47, 40</i>.<p><b>Étym</b>. ν. φαγεῖν.`

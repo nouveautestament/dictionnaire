@@ -1,1 +1,0 @@
-lar[48876]=`<b>ἱλαρῳδέω-ῶ</b> <font color="purple">[ῐᾰ]</font> chanter des airs joyeux, ARISTOCL. (ATH. <i>621c</i>).<p><b>Étym</b>. ἱλαρῳδός.`

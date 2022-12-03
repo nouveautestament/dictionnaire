@@ -1,1 +1,0 @@
-lar[47425]=`<b>ου (ὁ)</b> <font color="purple">[ῐβ]</font> eunuque, STR. <i>623</i>.<p><b>Étym</b>. θλίβω.`

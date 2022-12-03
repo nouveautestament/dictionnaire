@@ -1,1 +1,0 @@
-lar[11043]=`<b>ας (ἡ)</b> indétermination, ARSTT. <i>Meteor. 2, 5, 4, etc</i>.<p><b>Étym</b>. ἀόριστος.`

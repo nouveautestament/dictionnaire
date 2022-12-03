@@ -1,1 +1,0 @@
-lar[65975]=`<b>ῶν (οἱ)</b> <font color="purple">[ῑ]</font> <i>c</i>. Μισηνόν PLUT. <i>Mar. 34, C. Gracch. 19, Ant. 32</i>.`

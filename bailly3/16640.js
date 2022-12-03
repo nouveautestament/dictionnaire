@@ -1,1 +1,0 @@
-lar[16640]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> de l’Asôpos, <i>en Béotie,</i> PD. <i>N. 3, 6</i> ; οἱ Ἀσώπιοι, HDT. <i>9, 15,</i> les riverains de l’Asôpos, <i>en Béotie</i>.<p><b>Étym</b>. Ἀσωπός.`

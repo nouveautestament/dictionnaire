@@ -1,1 +1,0 @@
-lar[88378]=`<b>ου</b>, <i>adj. m</i>. celui qui fait, qui agit, PLUT. <i>Brut. 12</i> ; SYN. <i>209d, etc</i>.<p><b>Étym</b>. ῥέζω.`

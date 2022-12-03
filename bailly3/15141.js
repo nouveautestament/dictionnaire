@@ -1,1 +1,0 @@
-lar[15141]=`<b>*ἄ·ρρευστος</b>, <i>par licence poét</i>. <b>ἄρευστος, ος, ον</b>, qui ne s’écoule pas, NAZ. <i>3, 1199a</i>.<p><b>Étym</b>. ἀ, ῥέω.`

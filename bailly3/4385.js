@@ -1,1 +1,0 @@
-lar[4385]=`<b>ας</b>, <i>ion</i>. <b>Ἀλθαίη, ης (ἡ)</b> Althæa, <i>femme de Thestios, mère de Méléagros,</i> IL. <i>9, 555</i>.<p><b>Étym</b>. ἄλθομαι.`

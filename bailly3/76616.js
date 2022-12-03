@@ -1,1 +1,0 @@
-lar[76616]=`<b>παρ·εκθλίβω</b> <font color="purple">[ῑ]</font> presser de côté, ARSTT. <i>Probl. 23, 5, 3</i>.`

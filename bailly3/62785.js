@@ -1,1 +1,0 @@
-lar[62785]=`<b>μανιη·τόκος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>ion</i>. qui engendre la folie, NAZ. <i>3, 1571 Migne</i>.<p><b>Étym</b>. μανία, τίκτω.`

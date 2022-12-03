@@ -1,1 +1,0 @@
-lar[39196]=`<b>ἐπι·στύλιον, ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>t. d’arch</i>. épistyle, architrave, entablement, PLUT. <i>Per. 13</i> ; ATH. <i>196b, 205e ;</i> HÉRON <i>Aut. 272</i>.<p><b>Étym</b>. ἐπί, στῦλος.`

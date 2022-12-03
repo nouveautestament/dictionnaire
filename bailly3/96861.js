@@ -1,1 +1,0 @@
-lar[96861]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> coin, PHÉRÉCR. (PHOT. <i>p. 560, 12</i>).<br><b>      2</b> vers dont les deux hémistiches ont un nombre de syllabes égal, DRAC. <i>p. 141, 2 ; 142, 8</i>.<p><b>Étym</b>. σφήξ.`

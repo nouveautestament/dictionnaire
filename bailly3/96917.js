@@ -1,1 +1,0 @@
-lar[96917]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. σφονδύλιον, NIC. <i>Th. 948</i>.`

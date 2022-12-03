@@ -1,1 +1,0 @@
-lar[16665]=`<b>ης (ἡ)</b> <font color="purple">[ᾰτᾰ]</font> Atalantè (Atalante) :<br><b>   I</b> <i>n. de f</i>. PAUS. <i>etc.</i><br><b>   II</b> <i>n. géogr.</i> :<br><b>      1</b> <i>petite î. près de l’Eubée,</i> THC.<br><b>      2</b> <i>v. de Macédoine,</i> THC.<p><b>Étym</b>. <i>v</i>. ἀτάλαντος.`

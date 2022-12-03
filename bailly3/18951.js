@@ -1,1 +1,0 @@
-lar[18951]=`<b>βαλανο·κάστανον, ου (τὸ)</b> <font color="purple">[ᾰᾰν ᾰν]</font> châtaigne allongée, A. TR. <i>312</i>.`

@@ -1,1 +1,0 @@
-lar[89229]=`<b>σαμαγόρειος οἶνος (ὁ)</b> <i>sorte de vin inconnu,</i> ARSTT. (ATH. <i>429f</i>).`

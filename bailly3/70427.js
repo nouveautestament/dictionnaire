@@ -1,1 +1,0 @@
-lar[70427]=`<b>οἰκοφυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> être gardien de la maison, ES. <i>82</i>.<p><b>Étym</b>. οἰκοφύλαξ.`

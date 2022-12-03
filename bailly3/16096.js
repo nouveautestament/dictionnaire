@@ -1,1 +1,0 @@
-lar[16096]=`<b>α, ον</b>, de l’Assos ; τὰ Ἄ. PLUT. <i>Syll. 17,</i> la région de l’Ἄσσος.`

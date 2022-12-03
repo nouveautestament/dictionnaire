@@ -1,1 +1,0 @@
-lar[35843]=`<b>ἐξ·ερμηνεύω</b>, interpréter, <i>d’où</i> :<br><b>      1</b> traduire, DH. <i>1, 67 ; au pass</i>. POL. <i>2, 15, 9</i> ; DH. <i>4, 67, etc.</i><br><b>      2</b> décrire avec soin, LUC. <i>H. conscr. 19</i>.`

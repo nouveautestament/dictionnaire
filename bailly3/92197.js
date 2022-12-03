@@ -1,1 +1,0 @@
-lar[92197]=`<b>σταυρό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte le signe de la croix, NAZ. <i>3, 969 Migne</i>.<p><b>Étym</b>. σταυρός, τύπος.`

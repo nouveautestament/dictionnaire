@@ -1,1 +1,0 @@
-lar[66547]=`<b>μονό·καμπτος, ος, ον</b>, avec une seule courbure, ARSTT. <i>H.A. 1, 15, 7</i>.<p><b>Étym</b>. μ. κάμπτω.`

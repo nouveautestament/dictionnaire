@@ -1,1 +1,0 @@
-lar[53763]=`<font color="purple">[ῠ]</font> <i>adv</i>., en versant d’en haut, ANACR. <i>90</i>.<p><b>Étym</b>. καταχέω, -δην.`

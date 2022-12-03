@@ -1,1 +1,0 @@
-lar[56802]=`<b>ῆς (ἡ)</b> la Commagène, <i>province du nord-est de la Syrie,</i> PLUT. <i>Ant. 61, etc</i>.`

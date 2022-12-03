@@ -1,1 +1,0 @@
-lar[104712]=`<b>φαλαγγιό·πληκτος, ος, ον</b> <font color="purple">[φᾰ]</font> piqué (<i>litt</i>. frappé) par une tarentule, GAL. <i>Comp. med. sec. loc. 13, 66</i>.<p><b>Étym</b>. φαλάγγιον, πλήσσω.`

@@ -1,1 +1,0 @@
-lar[63737]=`<b>Μειρακο·φίλη, ης (ἡ)</b> <font color="purple">[ᾰῐ]</font> <i>propr</i>. « l’Amie des jeunes gens », <i>n. de f</i>. ALCIPHR. <i>1, 18</i>.<p><b>Étym</b>. μεῖραξ, φίλος.`

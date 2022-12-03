@@ -1,1 +1,0 @@
-lar[72104]=`<b>ὀξύ·κεδρος, ου (ἡ)</b> <font color="purple">[ῠ]</font> genévrier, <i>arbrisseau,</i> TH. <i>H.P. 3, 12, 3</i>.<p><b>Étym</b>. ὀ. κέδρος.`

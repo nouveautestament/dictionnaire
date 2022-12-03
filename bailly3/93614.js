@@ -1,1 +1,0 @@
-lar[93614]=`<b>σύγ·χορος, ος, ον</b>, qui figure dans un chœur avec d’autres, ORPH. <i>H. 10, 9</i>.<p><b>Étym</b>. σ. χορός.`

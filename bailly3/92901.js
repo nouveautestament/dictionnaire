@@ -1,1 +1,0 @@
-lar[92901]=`<b>ατος (τὸ) :<br>      1</b> déboîtement, luxation, HPC. <i>Off. 748</i> ; DÉM. <i>24, 6 ; 156, 1</i>.<br><b>      2</b> torsion, entrelacement, SPT. <i>Jud. 16, 9 ; p. anal</i>. torsion des intestins, <i>càd</i>. colique, DIOSC. <i>2, 152</i>.<p><b>Étym</b>. στρέφω.`

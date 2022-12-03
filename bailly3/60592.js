@@ -1,1 +1,0 @@
-lar[60592]=`<b>λευκο·πάρειος</b>, <i>ion</i>. <b>λευκο·πάρῃος, ος, ον</b> <font color="purple">[ᾰ]</font> aux joues blanches, ANTH. <i>5, 160</i>.<p><b>Étym</b>. λ. παρειά.`

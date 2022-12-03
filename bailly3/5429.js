@@ -1,1 +1,0 @@
-lar[5429]=`<b>α, ον</b>, qu’on peut <i>ou</i> qu’il faut négliger, LUC. <i>Tim. 9</i> ; ARR. <i>An. 1, 7, 5</i> ; ἀμελητέον, ISOCR. <i>190</i> c : <i>ou</i> ἀμελητέα, ARR. <i>An. 1, 24, 1,</i> on doit négliger, <i>gén</i>.<p><b>Étym</b>. ἀμελέω.`

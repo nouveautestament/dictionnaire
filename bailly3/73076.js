@@ -1,1 +1,0 @@
-lar[73076]=`<b>ὀρτυγο·κόπος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui s’amuse à battre des cailles, <i>d’où</i> jeune désœuvré, PLAT. COM. (ATH. <i>506d</i>) (<i>v</i>. ὀρτυγοκοπέω).<p><b>Étym</b>. ὄρτυξ, κόπτω.`

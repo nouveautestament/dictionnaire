@@ -1,1 +1,0 @@
-lar[99071]=`<b>(ὁ)</b> Tigrapatès, LUC. <i>Tox. 44</i>.`

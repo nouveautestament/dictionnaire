@@ -1,1 +1,0 @@
-lar[65894]=`<b>ατος (τὸ)</b> <font color="purple">[ῐῠ]</font> ce qu’on diminue, HPC. <i>748f</i>.<p><b>Étym</b>. μινυθέω.`

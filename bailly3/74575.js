@@ -1,1 +1,0 @@
-lar[74575]=`<b>παλίν·ζωος, ος, ον</b> <font color="purple">[ᾰ]</font> qui revit, qui renaît, NONN. <i>Jo. 2, 105</i>.<p><b>Étym</b>. π. ζωή.`

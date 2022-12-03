@@ -1,1 +1,0 @@
-lar[52058]=`<b>ας (ἡ)</b> Kassiépeia, <i>femme de Kèphée,</i> LUC. <i>Salt. 44, Im. 7 ; c. constellation</i> (<i>v</i>. Κασσιόπη) STR. <i>134, 135</i>.`

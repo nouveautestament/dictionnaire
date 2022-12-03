@@ -1,1 +1,0 @@
-lar[99786]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Turpilianus, <i>n. d’h. rom</i>. PLUT. <i>Galb. 15, 17</i>.`

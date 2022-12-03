@@ -1,1 +1,0 @@
-lar[71690]=`<b>ὁμό·σπλαγχνος, ος, ον</b>, né des mêmes entrailles, fraternel, ESCHL. <i>Sept. 889</i> ; SOPH. <i>Ant. 511</i>.<p><b>Étym</b>. ὁμ. σπλάγχνον.`

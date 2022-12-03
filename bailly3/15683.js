@@ -1,1 +1,0 @@
-lar[15683]=`<b>*ἄρω</b>, <i>prés. inus. auquel on rattache qqf. les temps de</i> ἀραρίσκω.`

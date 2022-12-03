@@ -1,1 +1,0 @@
-lar[98923]=`<b>τηλε·βόλος, ος, ον</b>, qui lance au loin, qui frappe de loin, PD. <i>P. 3, 86</i> ; ANTH. <i>App. 9, 49</i>.<p>•<i> Cp</i>. -ώτερος, STR. <i>4</i>.<p><b>Étym</b>. τ. βάλλω.`

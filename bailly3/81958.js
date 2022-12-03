@@ -1,1 +1,0 @@
-lar[81958]=`<b>πολυ·κάλαμος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> à plusieurs tiges, TH. <i>H.P. 8, 9, 2, etc.</i> ; DS. <i>3, 58</i>.`

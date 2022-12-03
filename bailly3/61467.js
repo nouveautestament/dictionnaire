@@ -1,1 +1,0 @@
-lar[61467]=`<b>ου (τὸ)</b> petite cosse, DIOSC. <i>2, 176</i>.<p><b>Étym</b>. <i>dim. de</i> λοβός.`

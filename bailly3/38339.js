@@ -1,1 +1,0 @@
-lar[38339]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> tristesse, ZÉNON (STOB. <i>Ecl. eth. 1 p. 100).</i><p><b>Étym</b>. ἐπίλυπος.`

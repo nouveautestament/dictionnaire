@@ -1,1 +1,0 @@
-lar[78541]=`<b>περι·δράσσομαι</b>, <i>att</i>. <b>-ττομαι</b>, saisir avec la main, <i>d’où</i> saisir fortement, empoigner, PLUT. <i>Cam. 26, Lys. 17</i>.`

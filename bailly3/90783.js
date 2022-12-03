@@ -1,1 +1,0 @@
-lar[90783]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> méditation, examen réfléchi, réflexion, TIMON <i>46, 4</i>.<p><b>Étym</b>. σκέπτομαι.`

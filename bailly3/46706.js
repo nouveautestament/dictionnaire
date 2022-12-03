@@ -1,1 +1,0 @@
-lar[46706]=`<b>ας (ἡ)</b> divination par inspiration divine, DC. <i>62, 18</i>.<p><b>Étym</b>. θεόμαντις.`

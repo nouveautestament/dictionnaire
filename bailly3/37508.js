@@ -1,1 +1,0 @@
-lar[37508]=`<b>ἐπι·δανείζω</b> <font color="purple">[ᾰ]</font> prendre une seconde hypothèque sur un bien, DÉM. <i>930, 18 ; avec</i> ἐπί <i>et le dat</i>. ARSTT. <i>Œc. 2, 4, 4</i>.<br><b><i>Moy.</i></b> emprunter sur un bien déjà hypothéqué, DÉM. <i>908, 26, etc. ; fig</i>. PLUT. <i>Brut. 33</i>.`

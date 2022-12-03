@@ -1,1 +1,0 @@
-lar[79272]=`couvrir d’ombre tout autour, de tous côtés, <i>au pass</i>. PLUT. <i>M. 1129e ; en parl. de la Lune,</i> PLUT. <i>Nic. 21</i>.<p><b>Étym</b>. περίσκιος.`

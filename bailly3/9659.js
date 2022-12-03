@@ -1,1 +1,0 @@
-lar[9659]=`<b>ἀντ·επιμελέομαι-οῦμαι</b>, prendre soin à son tour de, <i>gén</i>. XÉN. <i>An. 3, 1, 16</i>.`

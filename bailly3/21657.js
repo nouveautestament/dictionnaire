@@ -1,1 +1,0 @@
-lar[21657]=`<font color="darkgreen">(<i>seul. prés. et pf</i>. γεγενείακα <font color="purple">[ᾰκ]</font>)</font> commencer à avoir de la barbe, DH. <i>1, 76,</i> ANTH. <i>12, 12</i>.<p>➳ <i>Pf</i>. PHILÉM. (<i>Com. fr. 4, 7). Prés. part. dor</i>. γενειάσδων, THCR. <i>Idyl. 11, 9</i>.<p><b>Étym</b>. γενειάς.`

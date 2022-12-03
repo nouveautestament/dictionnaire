@@ -1,1 +1,0 @@
-lar[58580]=`<i>adv</i>., à la manière des Cyclopes, ARSTT. <i>Nic. 10, 9, 13</i>.<p><b>Étym</b>. Κύκλωψ.`

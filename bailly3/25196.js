@@ -1,1 +1,0 @@
-lar[25196]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> veille durant toute la nuit, DH. <i>2, 19</i>.<p><b>Étym</b>. διαπαννυχίζω.`

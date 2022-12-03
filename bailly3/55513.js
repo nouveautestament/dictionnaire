@@ -1,1 +1,0 @@
-lar[55513]=`<b>α, ον</b> <font color="purple">[κῑ]</font> qui met en mouvement, qui agite, ESCHL. <i>Suppl. 307</i>.<p><b>Étym</b>. κινέω.`

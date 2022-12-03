@@ -1,1 +1,0 @@
-lar[51399]=`<b>ας (ἡ)</b> = <i>lat</i>. Cameria, <i>v. du Latium,</i> PLUT. <i>Rom. 24</i>.`

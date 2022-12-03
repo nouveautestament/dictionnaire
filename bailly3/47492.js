@@ -1,1 +1,0 @@
-lar[47492]=`<font color="purple">[ῠ]</font> (<i>seul. prés</i>.) :<br><b>      1</b> jaillir, THEOL. <i>p. 45</i>.<br><b>      2</b> se jouer avec, POÈT. (CLÉM. <i>716</i>).<br><b>      3</b> saillir, NIC. <i>Th. 130</i>.<p><b>Étym</b>. θρῴσκω.`

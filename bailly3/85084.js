@@ -1,1 +1,0 @@
-lar[85084]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> conciliateur, médiateur, DÉM. <i>750, 21, cf</i>. ARSTD. <i>t. 2, 369, 395</i>.<br><b>      2</b> rapporteur, délateur, espion des rois de Sicile, PLUT. <i>M. 522d</i>.<p><b>Étym</b>. προσάγω.`

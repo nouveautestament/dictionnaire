@@ -1,1 +1,0 @@
-lar[80254]=`<b>πιθ·οιγία, ας (ἡ)</b> <font color="purple">[πῐ]</font> fête de l’ouverture des « tonneaux », <i>d’où l’on tirait le vin nouveau, le 1<sup>er</sup> jour des Anthestéries,</i> PLUT. <i>M. 655e, 735d</i>.<p><b>Étym</b>. πίθος, οἴγνυμι.`

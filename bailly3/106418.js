@@ -1,1 +1,0 @@
-lar[106418]=`<b>ης, ες :<br>      1</b> semblable à la flamme, d’un rouge de feu, ARSTT. <i>Mir. 38 ; Mund. 2, 11</i> ; LUC. <i>Anach. 16, etc. ; en parl. des effets de l’inflammation dans certaines maladies,</i> HPC. <i>Coac. 220, etc.</i><br><b>      2</b> enflammé, ardent : τὸ φλ. DC. <i>48, 51,</i> chaleur ardente.<p><b>Étym</b>. φλόξ, -ωδης.`

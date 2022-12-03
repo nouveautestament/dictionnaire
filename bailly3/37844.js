@@ -1,1 +1,0 @@
-lar[37844]=`<b>ἐπι·θυμιάω-ῶ</b> <font color="purple">[ῡ]</font> brûler des parfums, PLUT. <i>Alex. 25</i> ; τι, PLUT. <i>M. 397a ;</i> ARTÉM. <i>4, 2, p. 205, 26,</i> brûler qqe parfum ; τινί τι, PLUT. <i>M. 372c</i>, brûler qqe parfum en l’honneur de qqn.`

@@ -1,1 +1,0 @@
-lar[90850]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Scīpio, Scipion, <i>n. d’h. rom</i>. PLUT. <i>Cam. 5, etc. ; au plur</i>. Σκηπίωνες, les Scipions, PLUT. <i>Sert. 16, etc. ; ou</i> des hommes comme Scipion, PLUT. <i>Cæs. 15, etc</i>.<p><b>Étym</b>. <i>cf</i>. Σκιπίων.`

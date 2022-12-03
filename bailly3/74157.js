@@ -1,1 +1,0 @@
-lar[74157]=`<b>ου (ὁ)</b> Pankhæos, <i>ép. de Zeus,</i> CALL. <i>fr. 86</i> (πᾶς, χάϊος, bon, <i>c</i>. ἀγαθός, HSCH.).`

@@ -1,1 +1,0 @@
-lar[87797]=`<b>πυργο·φύλαξ, ακος (ὁ)</b> <font color="purple">[φῠᾰκ]</font> gardien d’une tour, ESCHL. <i>Sept. 168</i>.`

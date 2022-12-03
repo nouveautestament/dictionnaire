@@ -1,1 +1,0 @@
-lar[107118]=`<font color="purple">[ῡ]</font> admettre dans une tribu, ARSTT. <i>Pol. 3, 2, 3</i>.<p><b>Étym</b>. φυλέτης.`

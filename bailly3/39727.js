@@ -1,1 +1,0 @@
-lar[39727]=`<b>ἐπι·χρόνιος, ος, ον</b>, qui dure longtemps, de longue durée, HÉRACLITE ÉPH. (DL. <i>9, 14).</i><p>➳ <i>Fém</i>. -α, CIC. <i>Att. 6, 9, 3</i>.<p><b>Étym</b>. ἐπί, χρόνος.`

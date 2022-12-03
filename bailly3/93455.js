@@ -1,1 +1,0 @@
-lar[93455]=`<b>οῦ (ὁ)</b> fermeture, SPT. <i>Esaï. 24, 22 ; Ezech. 4, 3, 7 ; fig. en parl. d’un cœur fermé,</i> dureté de cœur, SPT. <i>Hos. 13, 8</i>.<p><b>Étym</b>. συγκλείω.`

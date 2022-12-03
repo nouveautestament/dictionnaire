@@ -1,1 +1,0 @@
-lar[4200]=`<b>ἀλεκτορο·φωνία, ας (ἡ)</b> <font color="purple">[ᾰλ]</font> chant du coq, ES. <i>44 de Furia</i> ; NT. <i>Marc. 13, 35</i>.<p><b>Étym</b>. ἀ. φωνή.`

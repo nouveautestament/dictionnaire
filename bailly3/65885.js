@@ -1,1 +1,0 @@
-lar[65885]=`<b>ου (ὁ)</b> Minyas, <i>h</i>. PD. <i>I. 1, 80, etc</i>.<p>➳ <i>Gén. dor</i>. Μινύα, PD. <i>l. c. ; épq. et ion</i>. Μινύης, A.RH. <i>3, 1092, 1093 ; gén</i>. -αο <font color="purple">[ᾱ]</font> A.RH. <i>1, 230</i>.`

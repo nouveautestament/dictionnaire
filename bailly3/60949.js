@@ -1,1 +1,0 @@
-lar[60949]=`<b>οῦ (ὁ)</b> <i>oiseau inconnu,</i> ARSTT. <i>H.A. 9, 1, 16</i>.`

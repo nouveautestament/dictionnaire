@@ -1,1 +1,0 @@
-lar[60131]=`<b>λειοντο·μάχας, α</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. qui combat un lion, THCR. <i>Epigr. 20, 2</i>.<p><b>Étym</b>. λείων, μάχομαι.`

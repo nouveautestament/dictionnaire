@@ -1,1 +1,0 @@
-lar[18962]=`<b>ου (τὸ)</b> fleur du grenadier sauvage, ARSTT. <i>Plant. 1, 6, fin</i> ; DIOSC. <i>1, 154</i>.`

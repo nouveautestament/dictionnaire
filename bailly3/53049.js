@@ -1,1 +1,0 @@
-lar[53049]=`<b>κατα·πετρόω-ῶ :<br>      1</b> précipiter d’un rocher, STR. <i>155</i>.<br><b>      2</b> lapider, XÉN. <i>An. 1, 3, 2</i>.`

@@ -1,1 +1,0 @@
-lar[4154]=`<b>(ὁ)</b> <font color="purple">[ᾰῐ]</font> le fils d’Alégènôr (Ἀλεγήνωρ) <i>càd</i>. Promakhos, IL. <i>14, 503</i>.`

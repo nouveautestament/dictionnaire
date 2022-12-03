@@ -1,1 +1,0 @@
-lar[88606]=`<b>ῥινο·κολούστης, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui mutile le nez, PAUS. <i>9, 25, 4</i>.<p><b>Étym</b>. ῥίς, κολούω.`

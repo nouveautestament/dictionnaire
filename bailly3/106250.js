@@ -1,1 +1,0 @@
-lar[106250]=`<b>Φιλυρηΐς νῆσος (ἡ)</b> <font color="purple">[ῐῠ]</font> l’île des Philyres, A.RH. <i>2, 1231</i>.<p><b>Étym</b>. Φιλύρες.`

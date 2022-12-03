@@ -1,1 +1,0 @@
-lar[51091]=`<b>καλλι·γάληνος, ος, ον</b> <font color="purple">[ῐᾰ]</font> d’une beauté calme, sereine, EUR. <i>Tr. 837</i>.<p><b>Étym</b>. κ. γαλήνη.`

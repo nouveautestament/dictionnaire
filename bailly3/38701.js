@@ -1,1 +1,0 @@
-lar[38701]=`<b>ἐπι·πλατής, ής, ές</b>, <i>gén</i>. <b>έος-οῦς</b> <font color="purple">[ᾰ]</font> large à la surface, plat, TH. <i>H.P. 8, 5, 3</i>.<p><b>Étym</b>. ἐπί, πλάτος.`

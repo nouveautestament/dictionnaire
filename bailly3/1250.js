@@ -1,1 +1,0 @@
-lar[1250]=`<b>ἀ·δέξιος, ος, ον</b>, maladroit, gauche, LUC. <i>M. cond. 14, etc</i>.<p><b>Étym</b>. ἀ, δεξιός.`

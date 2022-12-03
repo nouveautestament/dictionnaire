@@ -1,1 +1,0 @@
-lar[62789]=`<font color="purple">[ᾰ]</font> <i>adv</i>., follement, comme un fou, XÉN. <i>Cyn. 3, 5</i> ; PLAT. <i>Leg. 897c, Phædr. 249d, etc.</i> ; PLUT. <i>Alex. 75 ; joint à</i> ἀλόγως, ISOCR. <i>95b</i>.`

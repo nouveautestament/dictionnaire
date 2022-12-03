@@ -1,1 +1,0 @@
-lar[38813]=`<b>ἐπι·προσδέομαι</b>, demander toujours davantage, PARTH. <i>17, 2</i>.`

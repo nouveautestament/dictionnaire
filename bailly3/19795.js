@@ -1,1 +1,0 @@
-lar[19795]=`<b>ου (ὁ)</b> sorte de casaque, ARTÉM. <i>2, 3</i>.`

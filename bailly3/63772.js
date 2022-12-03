@@ -1,1 +1,0 @@
-lar[63772]=`<b>μελάγ·χειμα, ων (τὰ)</b> espaces de terrain où la neige en fondant laisse le sol à découvert et noir, XÉN. <i>Cyn. 8, 1</i>.<p><b>Étym</b>. μ. χεῖμα.`

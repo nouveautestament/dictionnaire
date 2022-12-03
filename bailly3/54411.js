@@ -1,1 +1,0 @@
-lar[54411]=`<b>ητος (ὁ)</b> Kébès (Cébès) <i>disciple de Socrate,</i> XÉN. <i>Mem. 1, 2, 48, etc.</i> ; PLAT. <i>Ep. 363a, etc</i>.`

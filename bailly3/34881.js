@@ -1,1 +1,0 @@
-lar[34881]=`<b>ἔν·ουλος, ος, ον</b>, bouclé, frisé, CALLISTR. <i>Stat. 4</i>.<p><b>Étym</b>. ἐν, οὖλος.`

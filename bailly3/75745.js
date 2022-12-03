@@ -1,1 +1,0 @@
-lar[75745]=`<b>ή, όν</b>, propre à exhorter, à exciter, à encourager à, <i>gén</i>. PLAT. <i>Rsp. 523d, etc.</i> ; DH. <i>4, 26 ; subst</i>. τὰ παρακλητικὰ τοῦ πολέμου, DH. <i>4, 17,</i> le signal de la guerre.<p><b>Étym</b>. παρακαλέω.`

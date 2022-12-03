@@ -1,1 +1,0 @@
-lar[110025]=`<b>ας (ἡ)</b> action de boire de l’eau fraîche <i>ou</i> froide, PLUT. <i>M. 126e, 692d ;</i> ARÉT. <i>Caus. m. acut. 2, 6</i> ; RHÉT. <i>5, 4, 24 W</i>.<p><b>Étym</b>. ψυχροπότης.`

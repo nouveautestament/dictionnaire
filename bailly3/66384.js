@@ -1,1 +1,0 @@
-lar[66384]=`<i>att</i>. <b>Μολοττίς, ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. du pays des Molosses : ἡ Μ. (<i>s.-e</i>. χώρα) PLUT. <i>M. 297b</i>, le pays des Molosses.<p><b>Étym</b>. Μολοσσός.`

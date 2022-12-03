@@ -1,1 +1,0 @@
-lar[36921]=`<b>ἐπ·εγκρεμάννυμαι</b> <font color="purple">[ῠ]</font> (<i>seul. opt. ao. 2 sg</i>. ἐπεγκρεμάσαιο) suspendre au-dessus de, <i>dat</i>. NIC. <i>fr. 4, 2</i>.`

@@ -1,1 +1,0 @@
-lar[71203]=`<b>ὀλοό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> malfaisant, funeste, <i>en parl. d’une hydre,</i> IL. <i>2, 723 ; d’un lion,</i> IL. <i>15, 630, etc.</i><br><b>      2</b> <i>p. suite,</i> redoutable, terrible, <i>ép. de Minos,</i> OD. <i>11, 322, d’Atlas,</i> OD. <i>1, 52, etc. ; d’Æétès,</i> OD. <i>10, 137</i>.<p><b>Étym</b>. ὀλοός, φρήν.`

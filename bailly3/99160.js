@@ -1,1 +1,0 @@
-lar[99160]=`<b>ή, όν :<br>      1</b> tiré brin à brin : μοτός, GAL. tampon de charpie.<br><b>      2</b> écaillé : τιλτὸν τάριχος, PLAT. COM. <i>2-2, 685 Mein.,</i> poisson qu’on sale et qu’on empote après l’avoir écaillé.<p><b>Étym</b>. τίλλω.`

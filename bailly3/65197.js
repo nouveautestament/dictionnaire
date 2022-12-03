@@ -1,1 +1,0 @@
-lar[65197]=`= μετόπισθε, <i>dev. une voy. ou, par posit., dev. une cons</i>.`

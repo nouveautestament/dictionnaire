@@ -1,1 +1,0 @@
-lar[71178]=`<b>ου (τὸ)</b> Olokron, <i>mt. de Macédoine,</i> PLUT. <i>Æmil. 20</i>.`

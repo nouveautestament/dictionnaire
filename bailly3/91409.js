@@ -1,1 +1,0 @@
-lar[91409]=`<b>ου (ὁ) :<br>      1</b> pieu, poteau, IL. <i>13, 564</i>.<br><b>      2</b> épine, piquant, AR. <i>Lys. 810 ; fig</i>. SPT. <i>2Par. 28, 13, etc. ; cf</i>. σκόλοψ.`

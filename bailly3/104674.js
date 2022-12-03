@@ -1,1 +1,0 @@
-lar[104674]=`<b>φαῖν·οψ, οπος (ὁ, ἡ)</b> aux yeux brillants, <i>d’où</i> brillant, MAN. <i>4, 239</i>.<p><b>Étym</b>. φαίνω, ὤψ.`

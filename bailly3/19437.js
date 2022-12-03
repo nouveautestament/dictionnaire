@@ -1,1 +1,0 @@
-lar[19437]=`<b>ητος (ἡ) :<br>   I</b> solidité, stabilité, PLAT. <i>Crat. 386a, etc.</i><br><b>   II</b> <i>p. suite</i> :<br><b>      1</b> assurance, certitude, PLAT. <i>Phædr. 277d.</i><br><b>      2</b> sécurité, sûreté, THC. <i>4, 66 ; joint à</i> ἀσφάλεια, PLUT. <i>Fab. 19</i>.<p><b>Étym</b>. βέβαιος.`

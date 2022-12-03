@@ -1,1 +1,0 @@
-lar[24195]=`<b>δημ·εραστής, οῦ (ὁ)</b> ardent ami du peuple, PLAT. <i>1 Alc. 132a ;</i> DC. <i>47, 38</i>.<p><b>Étym</b>. δῆμος, ἐραστής.`

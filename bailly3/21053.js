@@ -1,1 +1,0 @@
-lar[21053]=`<b>ατος (τὸ)</b> filets qu’on jette à une grande profondeur pour boucher le passage aux bancs de thons, ANTH. <i>6, 33</i>.<p><b>Étym</b>. *βυσσόω <i>de</i> βυσσός.`

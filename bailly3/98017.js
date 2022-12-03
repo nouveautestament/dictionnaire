@@ -1,1 +1,0 @@
-lar[98017]=`<b>ατος (τὸ)</b> ouvrage de défense, fortification, EUR. <i>H.f. 1096</i> ; THC. <i>4, 8, 115, etc</i>.<p><b>Étym</b>. τειχίζω.`

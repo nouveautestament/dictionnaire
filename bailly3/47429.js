@@ -1,1 +1,0 @@
-lar[47429]=`<i>adv</i>., en accablant, SEXT. <i>M. 10, 83</i>.<p><b>Étym</b>. θλίβω.`

@@ -1,1 +1,0 @@
-lar[71488]=`<b>ὁμο·έστιος, ος, ον</b>, qui occupe le même foyer, <i>càd</i>. la même maison, PLUT. <i>M. 703f</i>.<p><b>Étym</b>. ὁμ. ἑστία.`

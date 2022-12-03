@@ -1,1 +1,0 @@
-lar[93435]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> récapitulation, PLAT. <i>Def. 415b ;</i> POL. <i>9, 32, 6</i> ; SEXT. <i>M. 7, 244</i>.<p><b>Étym</b>. συγκεφαλαιόω.`

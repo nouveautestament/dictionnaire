@@ -1,1 +1,0 @@
-lar[94138]=`<b>συμ·παρορμάω-ῶ</b>, exciter ensemble <i>ou</i> en même temps, ARSTT. <i>M. mor. 2, 10, 13</i> ; PLUT. <i>Cic. 3</i>.`

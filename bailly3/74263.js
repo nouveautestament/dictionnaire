@@ -1,1 +1,0 @@
-lar[74263]=`<i>adv.</i> :<br><b>      1</b> d’une manière enfantine, <i>en b. part,</i> PLAT. <i>Lys. 211a, etc.</i><br><b>      2</b> par plaisanterie, PLAT. <i>Crat. 406, etc</i>.`

@@ -1,1 +1,0 @@
-lar[8791]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> asphodèle, <i>plante,</i> ANTH. <i>12, 121</i>.<p><b>Étym</b>. ἀνθέριξ.`

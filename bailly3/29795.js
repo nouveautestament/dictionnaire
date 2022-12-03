@@ -1,1 +1,0 @@
-lar[29795]=`<b>ἐγ·κυλίνδησις, εως (ἡ)</b> <font color="purple">[ῠ]</font> action de se rouler dans, <i>fig</i>. PLUT. <i>Oth. 2, au plur</i>.<p><b>Étym</b>. ἐν, κυλινδέω.`

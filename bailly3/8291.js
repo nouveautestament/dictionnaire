@@ -1,1 +1,0 @@
-lar[8291]=`<b>ἄν·ελκτος, ος, ον</b>, qu’on ne peut tirer, ARSTT. <i>Meteor. 4, 9</i>.<p><b>Étym</b>. ἀν-, ἕλκω.`

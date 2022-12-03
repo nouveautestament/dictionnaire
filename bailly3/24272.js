@@ -1,1 +1,0 @@
-lar[24272]=`<b>δημό·λευστος, ος, ον</b>, lapidé par le peuple, LYC. <i>331</i> ; δ. φόνος, SOPH. <i>Ant. 36</i>, mort d’un supplicié lapidé par le peuple.<p><b>Étym</b>. δῆμος, λεύω.`

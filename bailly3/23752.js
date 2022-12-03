@@ -1,1 +1,0 @@
-lar[23752]=`<b>δεκ·έτις, ιδος</b>, <i>adj. f.</i> :<br><b>      1</b> qui dure dix ans, décennal, PAUS. <i>4, 13, 7</i> ; DC. <i>54, 16 ; 56, 28</i>.<br><b>      2</b> qui dure depuis dix ans, de dix ans, PLAT. <i>Leg. 784b</i>.<p><b>Étym</b>. <i>fém. de</i> δεκέτης.`

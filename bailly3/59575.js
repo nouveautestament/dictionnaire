@@ -1,1 +1,0 @@
-lar[59575]=`<b>λαιψηρο·κέλευθος, ος, ον</b>, qui s’avance rapidement, HÉS. <i>Th. 379 conj. p</i>. αἰψηροκέλευθος.`

@@ -1,1 +1,0 @@
-lar[18989]=`<i>ou</i> <b>βαλήν</b> <font color="purple">[ᾰ]</font> (ὁ) roi, <i>mot phrygien,</i> ESCHL. <i>Pers. 658</i> (βαλήν) ; SOPH. <i>fr. 144</i>.`

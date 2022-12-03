@@ -1,1 +1,0 @@
-lar[24957]=`<b>δι·άλληλος, ος, ον</b>, qui se remplacent mutuellement, réciproque, DYSC. <i>Pron. 302a, 324a, etc.</i> ; SEXT. <i>27, 23, etc.</i> ; δ. τρόπος, SEXT. <i>72, 10 Bkk</i>. cercle vicieux.<p><b>Étym</b>. δ. ἀλλήλων.`

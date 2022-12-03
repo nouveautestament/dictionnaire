@@ -1,1 +1,0 @@
-lar[95517]=`<b>συν·έξειμι :<br>      1</b> sortir avec : τινί, XÉN. <i>Cyr. 1, 4, 15, etc.</i> ; μετά τινος, THC. <i>3, 113,</i> avec qqn.<br><b>      2</b> disparaître avec, <i>dat</i>. ARÉT. <i>Caus. m. diut. 1, 4</i>.`

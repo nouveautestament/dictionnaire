@@ -1,1 +1,0 @@
-lar[3820]=`<b>ἀκρο·πόδιον, ου (τὸ)</b> pointe du pied, PTOL. <i>t. 2, p. 42, 5 Halm</i>.`

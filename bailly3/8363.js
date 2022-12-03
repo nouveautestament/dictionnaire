@@ -1,1 +1,0 @@
-lar[8363]=`<b>ἀν·εννόητος, ος, ον</b>, qui ne peut se faire aucune idée de, <i>gén</i>. POL. <i>2, 35, 6 ; 11, 8, 3</i> ; DS. <i>1, 8, etc</i>.<p><b>Étym</b>. ἀν-, ἐννοέω.`

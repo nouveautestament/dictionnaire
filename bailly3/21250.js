@@ -1,1 +1,0 @@
-lar[21250]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec calme <i>ou</i> sérénité, ANTH. <i>12, 50, dout</i>.<p><b>Étym</b>. γαλερός, serein, <i>Bkk. 229</i>.`

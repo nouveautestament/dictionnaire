@@ -1,1 +1,0 @@
-lar[61368]=`<b>λιπο·ταξίου</b>, <i>mieux que</i> <b>λειπο·ταξίου γραφή (ἡ)</b> action en justice pour abandon d’un poste, PLAT. <i>Leg. 943d ;</i> DÉM. <i>547, 27 ; 999, 12</i>.<p><b>Étym</b>. λείπω, τάσσω.`

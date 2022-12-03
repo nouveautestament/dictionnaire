@@ -1,1 +1,0 @@
-lar[78237]=`<i>adv</i>., avec un travail pénible, avec peine, EL. <i>N.A. Epilog. p. 395, 18</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> πονέω.`

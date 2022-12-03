@@ -1,1 +1,0 @@
-lar[63051]=`<b>ων (οἱ)</b> les Maspies, <i>pple de Perse,</i> HDT. <i>1, 125</i>.`

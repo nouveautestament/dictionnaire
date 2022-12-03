@@ -1,1 +1,0 @@
-lar[54559]=`<b>κεκραξι·δάμας, αντος (ὁ)</b> <font color="purple">[ῐᾰᾱ]</font> braillard, AR. <i>Vesp. 596</i>.<p><b>Étym</b>. κέκραγα, δαμάω.`

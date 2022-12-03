@@ -1,1 +1,0 @@
-lar[51334]=`<b>ῶν (αἱ)</b> <font color="purple">[κᾰ]</font> les Kalydnes, <i>î. du groupe des Sporades, près de l’î. de Kos,</i> IL. <i>2, 677</i> ; LYC. <i>25</i>.`

@@ -1,1 +1,0 @@
-lar[104869]=`<b>ου (ὁ)</b> <font color="purple">[φᾱ]</font> Pharandakès, <i>Perse,</i> ESCHL. <i>Pers. 31, 957</i>.`

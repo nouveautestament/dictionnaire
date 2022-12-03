@@ -1,1 +1,0 @@
-lar[33201]=`<b>ος, ον</b>, vomitif, HPC. <i>419, 33</i> ; τὰ ἐμετήρια, ARÉT. <i>Cur. m. diut. 1, 3,</i> les vomitifs.<p><b>Étym</b>. ἐμέω.`

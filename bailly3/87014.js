@@ -1,1 +1,0 @@
-lar[87014]=`<b>ας (ἡ)</b> vote préalable, ARSTT. <i>Ath. 43, 6 ; fr. 396</i>.`

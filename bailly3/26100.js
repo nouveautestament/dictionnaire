@@ -1,1 +1,0 @@
-lar[26100]=`<b>δί·ειμι</b>, durer, continuer : διέσει (<i>conj</i>. διοίσει) σκοπούμενος, XÉN. <i>Mem. 2, 1, 24,</i> tu ne cesseras d’examiner.<p><b>Étym</b>. διά, εἰμί.`

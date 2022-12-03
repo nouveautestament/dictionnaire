@@ -1,1 +1,0 @@
-lar[40508]=`<b>οῦ (ὁ)</b> querelle, dispute, TIMON <i>41, 3</i> (DL. <i>2, 107).</i><p><b>Étym</b>. ἐρίζω.`

@@ -1,1 +1,0 @@
-lar[72649]=`<b>ας (ἡ)</b> l’Orestie, <i>titre d’ouvrages</i> :<br><b>      1</b> <i>poème de Stésichore</i>.<br><b>      2</b> <i>trilogie d’Eschyle (Agamemnon, les Choéphores, les Euménides</i>) AR. <i>Ran. 1124</i>.<p><b>Étym</b>. Ὀρέστης.`

@@ -1,1 +1,0 @@
-lar[18367]=`<b>ἀ·χάλαζος, ος, ον</b> <font color="purple">[χᾰ]</font> non atteint par la grêle, non grêlé, SIB. <i>3, 369</i>.<p><b>Étym</b>. ἀ, χάλαζα.`

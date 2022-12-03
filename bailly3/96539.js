@@ -1,1 +1,0 @@
-lar[96539]=`<b>συρμαιο·πώλης, ου (ὁ)</b> marchand de simples pour purger, AR. <i>fr. 252</i>.<p><b>Étym</b>. συρμαία, πωλέω.`

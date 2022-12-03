@@ -1,1 +1,0 @@
-lar[42706]=`<b>εὔ·μιτρος, ος, ον</b>, à la belle ceinture, MOSCH. <i>4, 98</i>.<p><b>Étym</b>. εὖ, μίτρα.`

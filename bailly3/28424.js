@@ -1,1 +1,0 @@
-lar[28424]=`<b>δυσ·επιθύμως</b> <font color="purple">[ῠῐῡ]</font> <i>adv</i>., δ. ἔχειν, NAZ. être mal disposé, <i>avec</i> πρός <i>et l’acc</i>.<p><b>Étym</b>. δ. ἐπίθυμος.`

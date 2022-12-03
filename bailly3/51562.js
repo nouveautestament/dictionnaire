@@ -1,1 +1,0 @@
-lar[51562]=`<b>ῖδος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> règle pour le papier, ANTH. <i>6, 62</i>.<br><b>      2</b> chevillette, HÉRON.<br><b>      3</b> bande de fer, armature, PHIL. BYZ.<br><b>      4</b> tableau à rainures, ARSTT. <i>Ath. 64, 2</i>.<p><b>Étym</b>. κανών.`

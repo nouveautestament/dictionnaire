@@ -1,1 +1,0 @@
-lar[101822]=`<b>ὑμνο·θέτης, ου (ὁ) :<br>      1</b> poète d’hymnes, THCR. <i>Epigr. 11</i> ; ANTH. <i>7, 428, 16 ; 12, 257</i>.<br><b>      2</b> <i>adj</i>. ὑμν. στέφανος, ANTH. <i>4, 1, 2, etc</i>. couronne de chants.<p><b>Étym</b>. ὕ. τίθημι.`

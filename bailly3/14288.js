@@ -1,1 +1,0 @@
-lar[14288]=`<b>ή, όν</b>, d’Argos <i>ou</i> d’Argolide, PLUT. <i>Rom. 21</i>.<p><b>Étym</b>. Ἀργόλας.`

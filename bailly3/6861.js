@@ -1,1 +1,0 @@
-lar[6861]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> dépense, HDT. <i>5, 31</i>.`

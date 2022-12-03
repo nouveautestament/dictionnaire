@@ -1,1 +1,0 @@
-lar[90690]=`<b>ου (ὁ)</b> = <i>lat</i>. Scaurus, <i>n. d’h. rom</i>. PLUT. <i>Syll. 33, etc.</i> ; οἱ Σκαῦροι, PLUT. <i>Cic. 1,</i> les Scaurus.`

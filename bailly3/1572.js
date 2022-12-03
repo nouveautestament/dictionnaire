@@ -1,1 +1,0 @@
-lar[1572]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ἡδυεπής.`

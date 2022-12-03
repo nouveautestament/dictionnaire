@@ -1,1 +1,0 @@
-lar[93831]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec des dispositions conciliantes, PLUT. <i>Pyrrh. 18, Flam. 5, Cic. 30</i>.`

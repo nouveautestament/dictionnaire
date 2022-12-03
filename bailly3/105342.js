@@ -1,1 +1,0 @@
-lar[105342]=`(<i>seul. prés. et impf.) c</i>. φθέγγομαι, ION (PHIL. <i>2, 466</i>) ; ANTH. <i>9, 539</i>.`

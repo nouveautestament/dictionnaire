@@ -1,1 +1,0 @@
-lar[66700]=`<i>adv</i>., seulement, XÉN. <i>Mem. 1, 5, 5 ; Cyr. 3, 2, 23</i>.<p><b>Étym</b>. μόνος.`

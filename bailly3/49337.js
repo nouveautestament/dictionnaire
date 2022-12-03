@@ -1,1 +1,0 @@
-lar[49337]=`<b>ἱππο·κάμπιος, ος, ον</b>, qui conduit (<i>propr</i>. qui fait détourner) des chevaux, EPICH. <i>fr. 16 Ahrens</i>.<p><b>Étym</b>. ἵ. κάμπτω.`

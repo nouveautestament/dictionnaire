@@ -1,1 +1,0 @@
-lar[42206]=`<b>ας (ἡ)</b> adresse à toucher le but, PHIL. <i>1, 157, 593</i>.<p><b>Étym</b>. εὔθικτος.`

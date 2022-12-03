@@ -1,1 +1,0 @@
-lar[33598]=`<b>ἐμ·προίκιος, ος, ον</b>, qui concerne la dot : τὸ ἐμπροίκιον, APP. <i>Civ. 1, 10, etc</i>. la dot.<p><b>Étym</b>. ἐν, προΐξ.`

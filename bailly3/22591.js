@@ -1,1 +1,0 @@
-lar[22591]=`<b>γραμματο·φόρος, ου (ὁ)</b> <font color="purple">[μᾰ]</font> qui porte des lettres (<i>lat</i>. tabellarius), POL. <i>1, 79, 90 ; 2, 61, 4, etc.</i> ; LUC. <i>Rh. præc. 5</i>.<p><b>Étym</b>. γράμμα, φέρω ; <i>cf</i>. γραμματηφόρος.`

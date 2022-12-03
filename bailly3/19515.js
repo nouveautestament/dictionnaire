@@ -1,1 +1,0 @@
-lar[19515]=`<b>ός, όν</b>, qui retire un trait (d’une blessure) ; τὸ βελουλκόν, CELS. <i>6, 26</i> ; P. ÉG. <i>6, 88,</i> instrument pour l’extraction des traits.<p><b>Étym</b>. βέλος, ἕλκω.`

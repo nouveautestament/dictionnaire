@@ -1,1 +1,0 @@
-lar[47993]=`<b>θυόω-ῶ</b> (<i>seul. part. pf. pass. neutre</i> τεθυωμένον) parfumer, <i>d’où au pass</i>. être parfumé, odorant, IL. <i>14, 172</i> ; HH. <i>Ap. 184</i> ; STASIN. (ATH. <i>682f</i>) ; CALL. <i>L. Pall. 63</i>.<p><b>Étym</b>. θύος.`

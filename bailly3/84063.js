@@ -1,1 +1,0 @@
-lar[84063]=`<b>προ·εκδαπανάω-ῶ</b> <font color="purple">[ᾰᾰν]</font> épuiser auparavant, POL. <i>9, 43, 2</i>.`

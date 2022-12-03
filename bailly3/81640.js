@@ -1,1 +1,0 @@
-lar[81640]=`<b>πολλαπλασιόω-ῶ</b> <font color="purple">[ᾰσ]</font> multiplier, PLAT. <i>Rsp. 525e ; au pass</i>. HPC. <i>Acut. 394</i> ; ARSTT. <i>Top. 8, 14, 5</i>.<p><b>Étym</b>. πολλαπλάσιος.`

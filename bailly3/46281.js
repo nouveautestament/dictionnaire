@@ -1,1 +1,0 @@
-lar[46281]=`<b>ιος</b>, <i>acc</i>. <b>ιν (ὁ)</b> <font color="purple">[ᾰῠ]</font> Thamyris, <i>chantre thrace,</i> IL. <i>2, 595</i> ; EUR. <i>Rhes. 925</i>.`

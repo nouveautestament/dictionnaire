@@ -1,1 +1,0 @@
-lar[24022]=`<b>ιδος (ἡ)</b> gousse d’ail, <i>litt</i>. gousse à follicules réunies en faisceau, HPC. (EROT. <i>132).</i><p><b>Étym</b>. δέω¹ ; <i>cf</i>. δαῖτις.`

@@ -1,1 +1,0 @@
-lar[67279]=`<b>μυριό·φωνος, ος, ον</b> <font color="purple">[ῡ]</font> aux mille voix, aux voix innombrables, A. PL. <i>362</i>.<p><b>Étym</b>. μ. φωνή.`

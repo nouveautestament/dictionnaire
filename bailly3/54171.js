@@ -1,1 +1,0 @@
-lar[54171]=`<b>ατος (τὸ) :<br>      1</b> entreprise bien dirigée, <i>d’où</i> heureux succès, POL. <i>1, 19, 12, etc. (différ. de</i> εὐτύχημα, heureuse fortune).<br><b>      2</b> belle <i>ou</i> bonne action, trait de vertu, de courage, <i>t. stoïc</i>. CIC. <i>Fin. 3, 7 ; Off. 1, 3</i> ; SEXT. <i>M. 9, 16</i>.<p><b>Étym</b>. κατορθόω.`

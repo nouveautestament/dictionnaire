@@ -1,1 +1,0 @@
-lar[100787]=`<b>ου (ὁ) :<br>      1</b> petite roue <i>ou</i> petit cercle, ARSTT. <i>Mech. proœm. 11</i> ; TH. <i>H.P. 9, 9, 1</i>.<br><b>      2</b> petite boule, pilule, pastille ronde, A. TR.<br><b>      3</b> pendant d’oreille, SPT. <i>Ezech. 16, 12</i>.<p><b>Étym</b>. τροχός.`

@@ -1,1 +1,0 @@
-lar[101510]=`<b>εως (ἡ)</b> jeu d’orgue hydraulique, <i>c</i>. ὕδραυλις, SIMPL. <i>Arstt. Phys. p. 160</i>.<p><b>Étym</b>. ὑδραυλέω.`

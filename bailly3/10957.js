@@ -1,1 +1,0 @@
-lar[10957]=`<font color="purple">[ῐ]</font> <i>adv</i>., sans épée, HDN GR. <i>Epim. p. 257 Boissonade</i>.<p><b>Étym</b>. ἄξιφος.`

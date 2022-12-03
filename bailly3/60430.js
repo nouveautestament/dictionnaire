@@ -1,1 +1,0 @@
-lar[60430]=`<b>λεπτό·ραβδος, ος, ον</b>, avec de petites branches, DIOSC. <i>4, 143</i>.<p><b>Étym</b>. λ. ῥάβδος.`

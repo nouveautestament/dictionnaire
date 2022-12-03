@@ -1,1 +1,0 @@
-lar[10673]=`<b>ἀντρο·φυής, ής, ές</b>, qui offre des cavernes naturelles, OPP. <i>H. 3, 212</i>.<p><b>Étym</b>. ἄντρον, φύω.`

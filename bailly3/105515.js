@@ -1,1 +1,0 @@
-lar[105515]=`<b>ή, όν</b> <font color="purple">[φῐ]</font> dominateur, <i>au cp</i>. -ώτερος, PHÉRÉCR. (<i>Com. fr. 2, 258).</i><p><b>Étym</b>. φίλαρχος.`

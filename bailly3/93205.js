@@ -1,1 +1,0 @@
-lar[93205]=`avec indulgence, HIÉROCL. <i>C. aur. p. 447 Mullach</i>.`

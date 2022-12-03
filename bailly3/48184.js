@@ -1,1 +1,0 @@
-lar[48184]=`<i>interj</i>. ah ! <i>exclamation d’étonnement,</i> AR. <i>Vesp. 1338</i>.`

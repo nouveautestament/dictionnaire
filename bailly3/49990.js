@@ -1,1 +1,0 @@
-lar[49990]=`<i>impér. prés. 3 sg. de</i> εἶμι, aller ; <i>chez les Att. sorte d’exclamation,</i> eh bien donc ! soit! SOPH. <i>Ph. 120</i> ; EUR. <i>Med. 780</i>.`

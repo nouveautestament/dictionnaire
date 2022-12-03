@@ -1,1 +1,0 @@
-lar[74780]=`<b>πάμ·φορβος, ος, ον</b>, qui nourrit tout le monde, nourricier, ANTH. <i>7, 698</i>.<p>➳ <i>Fém</i>. -η, ANTH. <i>l.c</i>.<p><b>Étym</b>. π. φορβή.`

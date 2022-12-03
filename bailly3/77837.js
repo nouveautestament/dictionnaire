@@ -1,1 +1,0 @@
-lar[77837]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. Πελοποννήσιος.`

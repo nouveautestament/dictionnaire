@@ -1,1 +1,0 @@
-lar[99323]=`<b>ου (ὁ)</b> sorte de vase, ALEXANDR. (ATH. <i>784a</i>).<p><b>Étym</b>. <i>mot persan</i>.`

@@ -1,1 +1,0 @@
-lar[106381]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰφ]</font> sot bavardage, EUR. <i>Epist. 5</i>.<p><b>Étym</b>. φληναφάω.`

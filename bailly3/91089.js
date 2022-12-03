@@ -1,1 +1,0 @@
-lar[91089]=`<b>εως (ἡ)</b> action de rendre oblique <i>ou</i> tortu, SOR. <i>Fract. p. 48 Cocch.</i> ; NONN. TH. <i>Cur. morb. t. 2, p. 138</i>.<p><b>Étym</b>. σκολιόω.`

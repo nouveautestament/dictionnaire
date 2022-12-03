@@ -1,1 +1,0 @@
-lar[89552]=`<b>σαυλόομαι-οῦμαι</b>, marcher <i>ou</i> danser d’une allure efféminée, EUR. <i>Cycl. 40</i> ; LUC. <i>Lex. 10</i>.<p><b>Étym</b>. σαῦλος.`

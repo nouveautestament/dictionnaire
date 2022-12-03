@@ -1,1 +1,0 @@
-lar[28303]=`<b>δυσ·διατύπωτος, ος, ον</b> <font color="purple">[τῠ]</font> difficile à former (<i>en parl. du caractère, des mœurs</i>) CHRYS. <i>4, 397</i>.<p><b>Étym</b>. δ. διατυπόω.`

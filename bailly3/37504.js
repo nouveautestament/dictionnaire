@@ -1,1 +1,0 @@
-lar[37504]=`<b>ἐπι·δάμναμαι</b> <font color="purple">[νᾰ]</font> (<i>seul. prés</i>.) dompter, ANTH. <i>12, 96, 5</i>.`

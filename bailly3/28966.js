@@ -1,1 +1,0 @@
-lar[28966]=`<b>δυσ·φαής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a peu d’éclat, obscur, PLUT. <i>Luc. 9, M. 431f</i> (<i>vulg</i>. δυσφανής).<p><b>Étym</b>. δ. φάος.`

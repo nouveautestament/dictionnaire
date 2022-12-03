@@ -1,1 +1,0 @@
-lar[79162]=`<b>περι·πολίζω</b>, aller de ville en ville, STR. <i>675</i>.<p><b>Étym</b>. π. πόλις.`

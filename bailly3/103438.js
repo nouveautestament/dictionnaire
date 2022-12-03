@@ -1,1 +1,0 @@
-lar[103438]=`<b>ὑπό·κυφος, ος, ον</b> <font color="purple">[κῡ]</font> un peu bossu, STR. <i>262</i>.<p><b>Étym</b>. ὑ. κυφός.`

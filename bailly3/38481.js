@@ -1,1 +1,0 @@
-lar[38481]=`<b>ἐπι·μύζω</b> <font color="darkgreen">(<i>ao</i>. ἐπέμυξα)</font> murmurer contre, IL. <i>4, 20 ; 8, 457</i>.`

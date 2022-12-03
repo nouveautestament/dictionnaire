@@ -1,1 +1,0 @@
-lar[25863]=`<b>ατος (τὸ)</b> ce qu’on met en pièces, butin qu’on pille, SPT. <i>Jer. 37, 16</i>.<p><b>Étym</b>. διαφορέω.`

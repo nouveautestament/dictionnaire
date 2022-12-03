@@ -1,1 +1,0 @@
-lar[21853]=`<b>γεωγραφέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰ]</font> faire une description de la terre, ARSTT. <i>Mund. 3, 13</i> ; τὰ γεωγραφούμενα, ATH. <i>657f</i>, description géographique.<p><b>Étym</b>. γεωγράφος.`

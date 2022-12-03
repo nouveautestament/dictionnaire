@@ -1,1 +1,0 @@
-lar[70588]=`<b>οἰνό·φλυξ, -φλυγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> <i>litt</i>. qui bouillonne de vin, <i>d’où</i> homme ivre, ivrogne, HPC. <i>83g, etc.</i> ; XÉN. <i>Ap. 19</i> ; PLAT. <i>Eryx. 405e ;</i> ARSTT. <i>Poet. 25, 16, etc</i>.<p><b>Étym</b>. οἶν. φλύω.`

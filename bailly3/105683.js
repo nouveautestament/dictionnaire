@@ -1,1 +1,0 @@
-lar[105683]=`<b>ου (ὁ)</b> Philistos, <i>h</i>. HDT. <i>9, 97,</i> ARSTT. (PLUT. <i>Amat. 17), etc</i>.<p><b>Étym</b>. <i>v</i>. φίλιστος.`

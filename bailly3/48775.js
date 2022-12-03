@@ -1,1 +1,0 @@
-lar[48775]=`ressembler à la rouille du fer, DIOSC. <i>5, 120</i>.<p><b>Étym</b>. ἰός.`

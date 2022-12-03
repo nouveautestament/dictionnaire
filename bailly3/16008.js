@@ -1,1 +1,0 @@
-lar[16008]=`<b>ῆς (ἡ)</b> <font color="purple">[πᾰ]</font> la pêche, PLAT. <i>Soph. 219d, 221a</i>.<p><b>Étym</b>. ἀσπαλιεύω.`

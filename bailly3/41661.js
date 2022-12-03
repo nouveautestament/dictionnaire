@@ -1,1 +1,0 @@
-lar[41661]=`<b>εὔ·αρχος, ος, ον :<br>   I</b> <i>act.</i> :<br><b>      1</b> qui gouverne bien, LYC. <i>33</i>.<br><b>      2</b> qui commence bien, qui débute bien, LUC. <i>Lex. 1 ; particul</i>. qui étrenne un marchand, <i>sorte d’heureux présage,</i> ANTH. <i>6, 304</i>.<br><b>   II</b> <i>pass</i>. facile à gouverner, ARSTT. <i>Œc. 1, 5, 5</i>.<p><b>Étym</b>. εὖ, ἄρχω.`

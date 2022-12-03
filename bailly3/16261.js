@@ -1,1 +1,0 @@
-lar[16261]=`<b>ης (ἡ)</b> <font color="purple">[ᾰγᾰ]</font> <i>c</i>. ἀστράγαλος, ANACR.`

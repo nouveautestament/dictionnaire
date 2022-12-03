@@ -1,1 +1,0 @@
-lar[60790]=`<b>ου (ὁ)</b> Lèlantos, <i>Titan,</i> NONN. <i>D. 48, 247, etc</i>.`

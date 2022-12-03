@@ -1,1 +1,0 @@
-lar[2330]=`<i>adv</i>., en Égypte, <i>avec mouv</i>. OD. <i>17, 426</i>.<p><b>Étym</b>. Αἴγ. -δε.`

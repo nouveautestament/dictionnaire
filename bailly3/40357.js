@@ -1,1 +1,0 @@
-lar[40357]=`<font color="darkgreen">(<i>seul. prés. et impf. ion</i>. ἤρεον)</font> dire, HPC. <i>3, 88 Littré</i>.<p><b>Étym</b>. <i>cf</i>. εἶπον.`

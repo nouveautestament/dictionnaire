@@ -1,1 +1,0 @@
-lar[95000]=`<b>συν·αστρία, ας (ἡ) :<br>      1</b> constellation, NYSS.<br><b>      2</b> bouderie, brouille, PROCL. <i>Ptol. p. 267</i> ; PTOL. <i>Tetr. 4, 193</i>.`

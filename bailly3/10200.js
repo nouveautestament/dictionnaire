@@ -1,1 +1,0 @@
-lar[10200]=`<b>ἀντι·παραφυλάσσομαι</b> <font color="purple">[ῠ]</font> se mettre en garde à son tour <i>ou</i> en retour, CLÉM. <i>279</i>.`

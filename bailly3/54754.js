@@ -1,1 +1,0 @@
-lar[54754]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> sorte de poisson, EL. <i>N.A. 1, 55</i>.<br><b>      2</b> sorte de serpent, EL. <i>N.A. 9, 11</i>.<p><b>Étym</b>. κέντρον.`

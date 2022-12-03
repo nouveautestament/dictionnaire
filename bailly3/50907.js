@@ -1,1 +1,0 @@
-lar[50907]=`<b>κακο·φράδες</b> <font color="purple">[ᾰᾰ]</font> <i>nom. pl. c</i>. κακοφραδής EUPH. <i>fr. 50 Mein</i>.`

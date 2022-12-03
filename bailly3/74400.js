@@ -1,1 +1,0 @@
-lar[74400]=`<b>α, ον</b>, du Pactole, LYC. <i>1352</i> ; NONN. <i>D. 11, 21, etc</i>.<p><b>Étym</b>. Πακτωλός.`

@@ -1,1 +1,0 @@
-lar[104000]=`<b>*ὑπο·τλάω</b> (<i>seul. ao.2</i> ὑπέτλην) souffrir, supporter, ANTH. <i>5, 302</i>.`

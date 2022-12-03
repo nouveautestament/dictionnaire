@@ -1,1 +1,0 @@
-lar[57438]=`<b>κουροτοκέω-ῶ</b>, mettre au monde un garçon, HPC. <i>233, 54 ; 234, 8</i>.<p><b>Étym</b>. κουροτόκος.`

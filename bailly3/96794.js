@@ -1,1 +1,0 @@
-lar[96794]=`<b>σφαιρο·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui combat avec des balles, DYSC. <i>Adv. 602, 4</i>.<p><b>Étym</b>. σφαῖρα, μάχομαι.`

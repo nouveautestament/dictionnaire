@@ -1,1 +1,0 @@
-lar[50573]=`<b>καινό·τροπος, ος, ον</b>, de nouvelle sorte, inaccoutumé, étrange, EUR. <i>fr. inc. 1117, 32 Nauck</i> ; APP. <i>Civ. 5, 90</i>.<p><b>Étym</b>. κ. τρέπω.`

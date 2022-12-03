@@ -1,1 +1,0 @@
-lar[34121]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui se fait <i>oua</i> lieu le onzième jour, HPC. <i>Aph. 1250</i> ; THC. <i>2, 97</i>.<br><b>      2</b> qui dure onze jours, pour une durée de onze jours, THCR. <i>Idyl. 10, 12</i>.<p><b>Étym</b>. ἕνδεκα.`

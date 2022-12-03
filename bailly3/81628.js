@@ -1,1 +1,0 @@
-lar[81628]=`<b>ης (ἡ)</b> = <i>lat</i>. Polla, <i>n. de f. rom</i>. ANTH. <i>App. 229, etc</i>.`

@@ -1,1 +1,0 @@
-lar[38230]=`<b>ἐπί·κυρτος, ος, ον</b>, légèrement courbé, bossu, PLUT. <i>M. 53c ;</i> NONN. <i>Jo. 6, 71</i>.`

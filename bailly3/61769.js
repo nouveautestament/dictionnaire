@@ -1,1 +1,0 @@
-lar[61769]=`<b>η, ον</b> <font color="purple">[ῠῐ]</font> fait d’osier, ATH. <i>673e</i>.<p><b>Étym</b>. λύγος.`

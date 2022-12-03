@@ -1,1 +1,0 @@
-lar[56577]=`<b>ᾶ (ὁ)</b> Kokkônas, <i>Byzantin,</i> LUC. <i>Alex. 6, 9, 10</i>.`

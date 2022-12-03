@@ -1,1 +1,0 @@
-lar[99512]=`<b>τοκογλυφέω-ῶ</b> <font color="purple">[ῠ]</font> <i>litt</i>. «gratter <i>ou</i> racler les intérêts,» <i>càd</i>. être un prêteur rapace, un usurier avide, PLUT. <i>M. 34d ;</i> LUC. <i>Nec. 2, etc</i>.<p><b>Étym</b>. τοκογλύφος.`

@@ -1,1 +1,0 @@
-lar[71375]=`<b>ὅμ·ηλυς, υδος (ὁ, ἡ)</b> <font color="purple">[ῠδ]</font> qui vient avec, compagnon, NONN. <i>Jo. 19, 21</i>.<p><b>Étym</b>. ὁμός, ἤλυθον.`

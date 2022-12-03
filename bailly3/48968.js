@@ -1,1 +1,0 @@
-lar[48968]=`<font color="purple">[ῑᾰ]</font> vêtir, NT. <i>Marc. 5, 15 ; Luc. 8, 35</i>.<p><b>Étym</b>. ἷμα.`

@@ -1,1 +1,0 @@
-lar[58796]=`<b>κυν·όδων, οντος</b> <font color="purple">[ῠ]</font> <i>adj. m. c</i>. κυνόδους, EPICH. (ATH. <i>411b</i>).`

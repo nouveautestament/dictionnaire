@@ -1,1 +1,0 @@
-lar[13160]=`<b>ἀπο·πτερνίζω</b>, renverser d’un croc-en-jambe, PHILSTR. <i>678</i>.`

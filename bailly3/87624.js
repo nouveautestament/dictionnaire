@@ -1,1 +1,0 @@
-lar[87624]=`<b>πυκνό·καρπος, ος, ον</b>, aux fruits drus <i>ou</i> nombreux, LUC. <i>Am. 12</i>.<p><b>Étym</b>. π. καρπός.`

@@ -1,1 +1,0 @@
-lar[72106]=`<b>ὀξύ·κερως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> aux cornes pointues, OPP. <i>C. 2, 445</i>.<p><b>Étym</b>. ὀ. κέρας.`

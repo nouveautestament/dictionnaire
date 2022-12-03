@@ -1,1 +1,0 @@
-lar[58762]=`<b>κυν·ηλατέω-ῶ</b> <font color="purple">[ῠᾰ]</font> chasser avec des chiens, NIC. <i>Th. 19</i>.<p><b>Étym</b>. κύων, ἐλαύνω.`

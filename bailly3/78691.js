@@ -1,1 +1,0 @@
-lar[78691]=`<b>ής, ές :<br>      1</b> brûlé tout autour <i>ou</i> de tous côtés, <i>en parl. d’un pays,</i> JOS. <i>B.J. 4, 8, 3 ; t. de méd</i>. HPC. <i>143c, etc.</i><br><b>      2</b> <i>p. ext</i>. ardent, brûlant, HPC. <i>143c, etc.</i> ; TH. <i>Ign. 44, etc</i>.<p><b>Étym</b>. περικαίω.`

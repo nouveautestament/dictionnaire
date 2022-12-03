@@ -1,1 +1,0 @@
-lar[17539]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de l’empereur, impérial, <i>à Rome,</i> DH. <i>8, 59</i>.<br><b>      2</b> indépendant, CLÉM. <i>434</i>.`

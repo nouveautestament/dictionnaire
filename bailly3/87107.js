@@ -1,1 +1,0 @@
-lar[87107]=`<b>πρωθ·ύστερος, ος, ον</b>, où le premier devient le dernier : τὸ πρωθύστερον, RHÉT. <i>3, 600 W</i>. renversement de l’ordre naturel des idées.<p><b>Étym</b>. πρ. ὕστερος.`

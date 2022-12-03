@@ -1,1 +1,0 @@
-lar[20786]=`<font color="purple">[ῐ]</font> <i>préfixe marquant une idée de force</i> (<i>v</i>. βριάω, βριαρός, βριήπυος, <i>etc</i>.).<p><b>Étym</b>. <i>pré-grec</i>.`

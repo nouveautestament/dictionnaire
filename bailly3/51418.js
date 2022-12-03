@@ -1,1 +1,0 @@
-lar[51418]=`<b>έως (ὁ)</b> <font color="purple">[ᾰῑ]</font> forgeron, chaufournier, DS. <i>20, 63</i>.<p><b>Étym</b>. κάμινος.`

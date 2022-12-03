@@ -1,1 +1,0 @@
-lar[6901]=`<b>εως (ἡ)</b> action de revenir sur ses pas, retour, HPC. <i>278, 39</i> ; ARSTT. <i>Meteor. 4, 9, 8</i>.<p><b>Étym</b>. ἀνακάμπτω.`

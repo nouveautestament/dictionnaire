@@ -1,1 +1,0 @@
-lar[30458]=`<b>εἱλικό·μορφος, ος, ον</b> <font color="purple">[ῐ]</font> de forme enroulée, OPP. <i>C. 2, 98</i>.<p><b>Étym</b>. ἕλιξ, μορφή.`

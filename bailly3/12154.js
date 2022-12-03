@@ -1,1 +1,0 @@
-lar[12154]=`<b>ἀπο·βράζω</b> (<i>inf. ao</i>. -βράσαι) :<br><b>      1 <i>tr.</i></b> rejeter en bouillonnant, rejeter l’écume, <i>d’où fig</i>. séparer le son de la farine, CALL. <i>fr. 232</i>.<br><b>      2 <i>intr.</i></b> cesser de bouillonner, perdre de sa force, ALCIPHR. <i>1, 23, 3</i>.`

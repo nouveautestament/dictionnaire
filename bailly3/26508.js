@@ -1,1 +1,0 @@
-lar[26508]=`<b>δί·καρπος, ος, ον</b> <font color="purple">[ῑ]</font> qui produit des fruits deux fois l’an, STR. <i>831</i>.<p><b>Étym</b>. δίς, καρπός.`

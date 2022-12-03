@@ -1,1 +1,0 @@
-lar[70851]=`<b>ὀκτά·πλεθρος, ος, ον</b>, long <i>ou</i> large de huit plèthres, DH. <i>4, 61</i>.<p><b>Étym</b>. ὀ. πλέθρον.`

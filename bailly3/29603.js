@@ -1,1 +1,0 @@
-lar[29603]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> qui renferme les intestins, NIC. <i>Th. 580</i>.<p><b>Étym</b>. ἔγκατον.`

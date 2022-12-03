@@ -1,1 +1,0 @@
-lar[33997]=`<b>ἐναποτυπωτέον</b> <font color="purple">[ῠ]</font> <i>vb. de</i> ἐναποτυπόω CLÉM. <i>1, 633 Migne</i>.`

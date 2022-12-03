@@ -1,1 +1,0 @@
-lar[87714]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> πυξίς, AR. <i>fr. 671 Dind</i>.`

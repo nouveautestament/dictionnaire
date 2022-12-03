@@ -1,1 +1,0 @@
-lar[93648]=`<b>α, ον</b>, <i>vb. de</i> συγχωρέω, LUC. <i>Herm. 74 ; au neutre,</i> PLAT. <i>Phædr. 234e ; au plur. neutre,</i> SOPH. <i>O.C. 1426</i> ; PLAT. <i>Leg. 895a, etc</i>.`

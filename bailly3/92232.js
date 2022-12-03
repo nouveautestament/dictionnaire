@@ -1,1 +1,0 @@
-lar[92232]=`<b>σταχυηκομέω-ῶ</b> <font color="purple">[ᾰῠ]</font> avoir une chevelure d’épis, <i>càd</i>. être couvert d’épis, OPP. <i>C. 2, 150</i>.<p><b>Étym</b>. στάχυς, κόμη.`

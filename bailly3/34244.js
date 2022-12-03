@@ -1,1 +1,0 @@
-lar[34244]=`<i>adv</i>., de plus avant, plus avant, JOS. <i>A.J. 3, 6, 4</i>.<p><b>Étym</b>. ἐνδοτέρω, -θεν.`

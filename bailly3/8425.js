@@ -1,1 +1,0 @@
-lar[8425]=`<i>adv</i>., sans pouvoir être reconnu, POL. <i>18, 1, 16</i>.`

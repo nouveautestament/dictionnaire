@@ -1,1 +1,0 @@
-lar[103317]=`<b>ὑπο·κάπηλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> revendeur, PHILSTR. <i>V. Ap. 8, 11</i>.`

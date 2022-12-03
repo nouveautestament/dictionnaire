@@ -1,1 +1,0 @@
-lar[2888]=`<b>Αἰσχριωνίη φυλή (ἡ)</b> la tribu d’Æskhriôn <i>à Samos,</i> HDT. <i>3, 26</i>.`

@@ -1,1 +1,0 @@
-lar[53717]=`<b>κατα·χασμάομαι-ῶμαι</b>, s’ouvrir tout grand, s’épanouir, TH. <i>C.P. 4, 12, 11</i>.`

@@ -1,1 +1,0 @@
-lar[105989]=`<b>φιλο·πάτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῐᾰ]</font> qui aime son père, EUR. <i>Or. 1605, I.A. 638</i> ; ARSTT. <i>Nic. 7, 4, 5 ; surn. de diverses pers</i>. XÉN. <i>Cyn. 1, 14, etc. ; particul. de Ptolémée IV, roi d’Égypte,</i> THCR. <i>Idyl. 17, etc</i>.<p><b>Étym</b>. φ. πατήρ.`

@@ -1,1 +1,0 @@
-lar[63221]=`<b>μαχαιρο·πώλιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> boutique de marchand de sabres, d’armurier, PLUT. <i>Dem. 15</i>.<p><b>Étym</b>. <i>v</i>. μαχαιροποιός.`

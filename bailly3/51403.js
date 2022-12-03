@@ -1,1 +1,0 @@
-lar[51403]=`<b>καμηλ·έμπορος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> marchand qui transporte sa marchandise en caravane sur des chameaux, STR. <i>815</i>.<p><b>Étym</b>. κ. ἔμπορος.`

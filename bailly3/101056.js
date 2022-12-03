@@ -1,1 +1,0 @@
-lar[101056]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> la fille de Tyndaréos, EUR. <i>Hel. 1546, etc</i>.<p>➳ <i>Voc</i>. Τυνδαρί, EUR. <i>El. 480</i>.<p><b>Étym</b>. Τυνδάρεος.`

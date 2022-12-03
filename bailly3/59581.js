@@ -1,1 +1,0 @@
-lar[59581]=`<b>λα·καταπύγων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱᾰᾰῡ]</font> abominable débauché, AR. <i>Ach. 664</i>.<p><b>Étym</b>. λα-, καταπύγων.`

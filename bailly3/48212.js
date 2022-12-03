@@ -1,1 +1,0 @@
-lar[48212]=`<b>ου (τὸ) :<br>      1</b> mètre ïambique, ARSTT. <i>Rhet. 3, 1, 9</i>.<br><b>      2</b> vers ïambique, AR. <i>Ran. 1133, 1204</i> ; PLAT. <i>Rsp. 602b ; au pl</i>. poème ïambique, LUC. <i>Salt. 27</i>.<p><b>Étym</b>. <i>neutre de</i> ἰαμβεῖος.`

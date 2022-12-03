@@ -1,1 +1,0 @@
-lar[35526]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἐξαπατητήρ PROCL. <i>Ptol. 3, 18, p. 231 ; 4, 4, p. 249</i>.`

@@ -1,1 +1,0 @@
-lar[19634]=`<b>ου (ἡ)</b> béryl, pierre précieuse d’un vert de mer, DP. <i>1012</i> ANTH. <i>9, 544</i> ; LUC. <i>V.H. 2, 11, etc</i>.`

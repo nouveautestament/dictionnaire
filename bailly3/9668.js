@@ -1,1 +1,0 @@
-lar[9668]=`<b>ἀντ·επιστρατεύω</b> <font color="purple">[ᾰτ]</font> faire à son tour une expédition contre, XÉN. <i>Hell. 4, 8, 33</i>.`

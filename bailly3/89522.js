@@ -1,1 +1,0 @@
-lar[89522]=`<font color="purple">[ᾰᾰ]</font><br><b>      1 <i>intr.</i></b> être satrape, XÉN. <i>Hell. 3, 1, 12</i>.<br><b>      2 <i>tr.</i></b> gouverner comme satrape, <i>acc</i>. XÉN. <i>An. 1, 7, 6</i> ; HLD. <i>2, 24, etc. ; gén</i>. XÉN. <i>Hell. 3, 1, 10 ; An. 3, 4, 31</i> ; PLUT. <i>Them. 30</i>.<p><b>Étym</b>. σατράπης.`

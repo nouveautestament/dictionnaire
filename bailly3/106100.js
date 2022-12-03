@@ -1,1 +1,0 @@
-lar[106100]=`<b>φιλό·σπουδος, ος, ον</b> <font color="purple">[ῐ]</font> ami du zèle <i>ou</i> du soin, diligent, sérieux, ANTH. <i>5, 46</i>.<p><b>Étym</b>. φ. σπουδή.`

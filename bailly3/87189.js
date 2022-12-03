@@ -1,1 +1,0 @@
-lar[87189]=`<b>Πρωτο·γένεια, ας (ἡ)</b> Protogéneia, <i>fille d’Oponte,</i> PD. <i>O. 6, 94, etc</i>.<p><b>Étym</b>. <i>v</i>. πρωτογένεια.`

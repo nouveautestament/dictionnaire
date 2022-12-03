@@ -1,1 +1,0 @@
-lar[9813]=`<b>ἀντι·δάκτυλος, ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> pouce, AQU. <i>Ex. 29, 20</i>.<br><b>      2</b> dactyle renversé, anapeste, DIOM. <i>478</i>.`

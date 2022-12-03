@@ -1,1 +1,0 @@
-lar[95983]=`<b>συν·θυμόομαι-οῦμαι</b> <font color="purple">[θῡ]</font> se mettre en colère avec, CHORIC. <i>p. 165</i>.<p><b>Étym</b>. σύν, θυμός.`

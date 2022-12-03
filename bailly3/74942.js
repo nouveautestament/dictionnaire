@@ -1,1 +1,0 @@
-lar[74942]=`<b>παν·δῖος, ος, ον</b>, tout divin : π. ῥίζα, DIOSC. <i>Noth. 2, 211,</i> la plante toute divine, <i>autre n. de la grande chélidoine ; fém</i>. πανδῖα Σελήνη, MAX. <i>π. κατ. 146, ou abs</i>. Πανδῖα, <i>id. ib. 123,</i> la toute divine Sélènè.<p><b>Étym</b>. π. δῖος.`

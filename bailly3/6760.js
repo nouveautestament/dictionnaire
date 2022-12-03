@@ -1,1 +1,0 @@
-lar[6760]=`<b>ἀνα·ζυμόω-ῶ</b> <font color="purple">[ῡ]</font> faire lever la pâte, TH. <i>C.P. 2, 1, 3, etc.</i> ; DS. <i>1, 17</i>.`

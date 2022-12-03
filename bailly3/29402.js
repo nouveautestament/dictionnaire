@@ -1,1 +1,0 @@
-lar[29402]=`<b>η, ον</b>, <i>superl. formé de</i> ἐγγύς, très proche, le plus proche, EN. TACT. <i>Pol. 20 et 38</i> (ἐγγύτατος) ; SPT. <i>Job 6, 15</i> (ἐγγύτατοι) ; δι' ἐγγυτάτου, THC. <i>8, 96,</i> le plus près, très près.`

@@ -1,1 +1,0 @@
-lar[27538]=`<i>adv</i>., en idée, ARSTT. <i>An. pr. 1, 27, 7</i> ; SEXT. <i>p. 718</i>.<p><b>Étym</b>. δοξάζω.`

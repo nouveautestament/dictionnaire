@@ -1,1 +1,0 @@
-lar[32538]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑῐ]</font> fils <i>ou</i> descendant d’Élatiôn (Iskhys) HH. <i>Ap. 210</i>.<p><b>Étym</b>. *Ἐλατίων <i>de</i> Ἔλατος.`

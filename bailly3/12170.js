@@ -1,1 +1,0 @@
-lar[12170]=`<b>ἀπό·γαιον, ου (τὸ)</b> amarre <i>ou</i> câble pour retenir un vaisseau attaché au rivage, POL. <i>33, 7, 6</i>.<p><b>Étym</b>. ἀπό, γαῖα.`

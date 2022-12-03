@@ -1,1 +1,0 @@
-lar[56637]=`<b>κολλικο·φάγος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui mange du pain d’orge grossier, AR. <i>Ach. 872</i>.<p><b>Étym</b>. κόλλιξ, φαγεῖν.`

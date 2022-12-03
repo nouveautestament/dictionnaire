@@ -1,1 +1,0 @@
-lar[103695]=`<b>ὑπο·πλέω :<br>      1</b> naviguer sous, <i>dat</i>. ANTH. <i>9, 296 ; gén</i>. PHILSTR. <i>836</i>.<br><b>      2</b> naviguer de côté, obliquement, NT. <i>Ap. 27, 4</i>.<br><b>      3</b> naviguer secrètement, DC. <i>49, 43</i>.`

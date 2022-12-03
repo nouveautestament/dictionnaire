@@ -1,1 +1,0 @@
-lar[5609]=`<b>ἀ·μισής, ής, ές</b> <font color="purple">[ῑ]</font> non odieux, PLUT. <i>M. 10a ; cp</i>. ἀμισέστερος, XÉN. <i>Eq. 8, 9,</i> moins odieux.<p><b>Étym</b>. ἀ, μῖσος.`

@@ -1,1 +1,0 @@
-lar[108184]=`<b>χειρο·τριβέω-ῶ</b> <font color="purple">[ῐ]</font> frictionner avec la main, HIPPIATR.<p><b>Étym</b>. χ. τρίβω.`

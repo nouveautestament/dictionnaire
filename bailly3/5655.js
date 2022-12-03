@@ -1,1 +1,0 @@
-lar[5655]=`<b>ἀμμό·γειος, ος, ον</b>, à fond de sable : ἀ. ἀγκυροβόλια, M. RUBR. <i>24,</i> bancs de sable où l’on peut jeter l’ancre.<p><b>Étym</b>. ἄμμος, γῆ.`

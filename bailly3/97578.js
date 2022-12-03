@@ -1,1 +1,0 @@
-lar[97578]=`<b>τανύ·στροφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui fait tourner <i>ou</i> qui lance au loin, ORACL. (EUS. <i>P.E. 5, 23).</i><p><b>Étym</b>. τανυ-, στρέφω.`

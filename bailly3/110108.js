@@ -1,1 +1,0 @@
-lar[110108]=`<b>ὠδινάω-ῶ</b> <font color="purple">[ῑ]</font> <i>c</i>. ὠδίνω, SPT. <i>Jer. 4, 31 ; avec un acc</i>. SPT. <i>Cant. 8, 5 ; fig</i>. SPT. <i>Ps. 6, 14 ; p. ext</i>. éprouver une vive douleur, SPT. <i>Hab. 3, 10 ; Sir. 19, 11</i>.`

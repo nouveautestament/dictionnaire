@@ -1,1 +1,0 @@
-lar[6939]=`<b>ος, ον</b>, réfléchi, <i>t. de gr. en parl. de participes dérivés d’un adj. comme</i> σωφρονῶν <i>de</i> σώφρων, PLUT. <i>M. 1011d</i>.<p><b>Étym</b>. ἀνακλάω.`

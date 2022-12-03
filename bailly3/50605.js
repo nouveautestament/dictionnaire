@@ -1,1 +1,0 @@
-lar[50605]=`<b>ας (ἡ)</b> <font color="purple">[σᾰ]</font> = <i>lat</i>. Cæsarea, Césarée :<br><b>      1</b> <i>v. de Cappadoce (auj</i>. ruines près de Kæsarieh) ANTH. <i>1, 92 ; 8, 2, etc.</i><br><b>      2</b> <i>v. de Maurétanie (auj</i>. Cherchell) LUC. <i>H. conscr. 28</i>.`

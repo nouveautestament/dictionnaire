@@ -1,1 +1,0 @@
-lar[104203]=`<b>ὑπο·ψάω-ῶ</b>, essuyer légèrement, EL. <i>N.A. 14, 5</i>.`

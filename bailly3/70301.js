@@ -1,1 +1,0 @@
-lar[70301]=`<b>ου (τὸ)</b> gouvernail, OD. <i>9, 483 ; au plur</i>. IL. <i>19, 43</i> ; OD. <i>12, 218</i> ; A.RH. <i>1, 401, etc</i>.<p><b>Étym</b>. <i>cf</i>. οἴαξ.`

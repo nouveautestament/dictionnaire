@@ -1,1 +1,0 @@
-lar[51089]=`<b>καλλί·βοτρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ῐ]</font> aux belles grappes, SOPH. <i>O.C. 682</i>.<p><b>Étym</b>. κ. βότρυς.`

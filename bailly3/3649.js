@@ -1,1 +1,0 @@
-lar[3649]=`<font color="purple">[ᾰτ]</font> MÉN. <i>fr. inc. 449 Meineke</i> ; ARSTT. <i>Nic. 7, 2, 1, etc. et</i> ἀκρατεύω, PLUT. (STOB. <i>Fl. 6, 46, t. 1, p. 152, l. 11</i>) être intempérant, déréglé.<p><b>Étym</b>. ἀκρατής.`

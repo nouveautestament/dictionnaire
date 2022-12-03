@@ -1,1 +1,0 @@
-lar[5061]=`donner un bon gain, HIPPON. <i>fr. 46</i>.<p><b>Étym</b>. ἀλφηστής ; <i>var</i>. ἀλφιτεύω.`

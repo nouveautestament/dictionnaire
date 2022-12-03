@@ -1,1 +1,0 @@
-lar[28565]=`<b>δυσ·κατάστατος, ος, ον</b> <font color="purple">[κᾰᾰτ]</font> difficile à apaiser, XÉN. <i>Cyr. 5, 3, 43, au cp</i>. -ώτερος.<p><b>Étym</b>. δ. καθίστημι.`

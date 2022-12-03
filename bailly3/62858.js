@@ -1,1 +1,0 @@
-lar[62858]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui relâche, PTOL. <i>Tetr. 29</i>.<p><b>Étym</b>. μανόω.`

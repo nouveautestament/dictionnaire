@@ -1,1 +1,0 @@
-lar[108978]=`<b>χρησμολογέω-ῶ</b>, prononcer des oracles, prophétiser, AR. <i>Av. 964, 991</i> ; DL. <i>16, 26 ; avec un acc</i>. SPT. <i>Jer. 45, 4</i>.<p><b>Étym</b>. χρησμολόγος.`

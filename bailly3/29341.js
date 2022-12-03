@@ -1,1 +1,0 @@
-lar[29341]=`<b>ἐγγειό·φυλλος, ος, ον</b>, dont les feuilles rampent à terre, TH. <i>H.P. 6, 6, 7</i>.<p><b>Étym</b>. ἔγγειος, φύλλον.`

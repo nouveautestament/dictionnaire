@@ -1,1 +1,0 @@
-lar[42128]=`<i>adv</i>., docilement, PLAT. <i>Soph. 217c ;</i> PLUT. <i>M. 9d ;</i> ARR. <i>Epict. 4, 7, 12, etc</i>.<p><b>Étym</b>. εὐήνιος.`

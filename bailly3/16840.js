@@ -1,1 +1,0 @@
-lar[16840]=`<b>Ἀτλα·γενής, ής, ές</b> <font color="purple">[ᾱγ]</font> né d’Atlas, HÉS. <i>O. 381</i>.<p><b>Étym</b>. Ἄτλας, γένος.`

@@ -1,1 +1,0 @@
-lar[106126]=`<b>φιλο·τάριχος, ος, ον</b> <font color="purple">[ῐᾰῑ]</font> qui aime les salaisons, ANTIPH. (ATH. <i>125a</i>).`

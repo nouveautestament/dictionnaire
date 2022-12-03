@@ -1,1 +1,0 @@
-lar[107928]=`<b>Χαρί·ξενος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kharixénos, <i>h</i>. LUC. <i>Tox. 22, 23</i> ; ANTH. <i>7, 468</i>.<p><b>Étym</b>. χάρις, ξένος.`

@@ -1,1 +1,0 @@
-lar[25941]=`<b>δια·χώννυμι</b>, <i>forme à laquelle on rattache qqf. l’inf. ao</i>. διαχῶσαι, <i>v</i>. διαχόω.`

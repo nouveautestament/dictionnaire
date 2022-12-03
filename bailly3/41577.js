@@ -1,1 +1,0 @@
-lar[41577]=`<b>εὐ·ανάγνωστος, ος, ον</b> <font color="purple">[ᾰν]</font> facile à lire, ARSTT. <i>Rhet. 3, 5, 6</i>.<p><b>Étym</b>. εὖ, ἀναγιγνώσκω.`

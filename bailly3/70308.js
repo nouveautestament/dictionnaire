@@ -1,1 +1,0 @@
-lar[70308]=`<b>οἰησί·σοφος, ος, ον</b> <font color="purple">[ῐ]</font> qui se croit sage <i>ou</i> habile, CLÉM. <i>455, 456</i>.<p><b>Étym</b>. οἴησις, σοφός.`

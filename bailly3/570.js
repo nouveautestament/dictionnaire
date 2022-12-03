@@ -1,1 +1,0 @@
-lar[570]=`<b>ἀγησί·λαος, ου (ὁ)</b> <font color="purple">[ᾱῐᾱ]</font> conducteur du peuple, ESCHL. <i>fr. 319 ; ou</i> des peuples, ANTH. <i>App. 235 (dor</i>. ἀγεσίλας).<p>➳ <i>ion</i>. ἡγησίλεως, ANTH. <i>7, 545. Épq</i>. ἡγεσίλαος, NIC. (ATH. <i>684d</i>).<p><b>Étym</b>. ἡγέομαι, λαός.`

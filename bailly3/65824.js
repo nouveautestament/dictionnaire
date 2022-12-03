@@ -1,1 +1,0 @@
-lar[65824]=`<b>ῶν (αἱ)</b> chute des poils des sourcils, DIOSC. <i>1, 149</i>.`

@@ -1,1 +1,0 @@
-lar[18751]=`<b>βαθύ·δοξος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à la gloire profonde, <i>càd</i>. immense, PD. <i>P. 1, 66</i>.<p><b>Étym</b>. β. δόξα.`

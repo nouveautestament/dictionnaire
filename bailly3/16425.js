@@ -1,1 +1,0 @@
-lar[16425]=`<b>ἀ·σύγχυτος, ος, ον</b> <font color="purple">[χῠ]</font> non confondu, PLUT. <i>M. 735b ;</i> ARR. THÉM.<p><b>Étym</b>. ἀ, συγχέω.`

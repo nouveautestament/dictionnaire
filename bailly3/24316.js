@@ -1,1 +1,0 @@
-lar[24316]=`<b>δημο·τελής, ής, ές</b>, accompli <i>ou</i> célébré au nom <i>ou</i> aux frais de l’État (sacrifice) HDT. <i>6, 57</i> ; PLAT. <i>Leg. 935b ;</i> DÉM. <i>531, 25</i> ; (fête) THC. <i>2, 15</i>.<p><b>Étym</b>. δ. τέλος.`

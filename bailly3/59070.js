@@ -1,1 +1,0 @@
-lar[59070]=`être un tyran comme Kypsélos, THGN. <i>894</i>.<p><b>Étym</b>. Κύψελος.`

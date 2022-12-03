@@ -1,1 +1,0 @@
-lar[81216]=`<b>ης, ες</b>, suffocant, étouffant, HPC. <i>1217d</i>.<p><b>Étym</b>. πνῖγμα, -ωδης.`

@@ -1,1 +1,0 @@
-lar[62821]=`<i>vb. de</i> μαντεύομαι EUR. <i>Ion 373</i> ; PLAT. <i>Phil. 64a</i>.`

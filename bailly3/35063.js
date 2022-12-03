@@ -1,1 +1,0 @@
-lar[35063]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite requête, ARR. <i>Epict. 1, 10, 10</i>.<p><b>Étym</b>. <i>dim. de</i> ἔντευξις.`

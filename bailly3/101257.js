@@ -1,1 +1,0 @@
-lar[101257]=`<i>aphérèse poét. et att. p</i>. τῷ ἐμῷ.`

@@ -1,1 +1,0 @@
-lar[67589]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> petit temple, chapelle, STR. <i>637</i> ; JOS. <i>A.J. 8, 8, 4</i>.<p><b>Étym</b>. ναός.`

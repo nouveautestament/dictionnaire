@@ -1,1 +1,0 @@
-lar[104190]=`<b>ος, ον</b> <font color="purple">[χῠ]</font> mêlé d’une substance qu’on y a infusée : οἶνος, PHRYN. (DL. <i>4, 20</i>) ; ATH. <i>31e</i>, sorte de vin doux, <i>vraisembl</i>. mêlé de moût cuit.<p><b>Étym</b>. ὑποχέω.`

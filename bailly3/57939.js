@@ -1,1 +1,0 @@
-lar[57939]=`<b>κρινο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> qui ressemble à un lis, liliacé, DIOSC. <i>3, 143</i>.<p><b>Étym</b>. κρίνον, εἶδος.`

@@ -1,1 +1,0 @@
-lar[81566]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>fém. c</i>. πολιήτης EUR. <i>Hipp. 1126</i> ; A.RH. <i>1, 867 ; cf</i>. πολιᾶτις.`

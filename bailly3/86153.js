@@ -1,1 +1,0 @@
-lar[86153]=`<b>προσ·μύρομαι</b> <font color="purple">[ῡ]</font> découler sur, <i>dat</i>. ANTH. <i>9, 362, 23</i>.`

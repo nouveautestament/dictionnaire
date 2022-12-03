@@ -1,1 +1,0 @@
-lar[52263]=`<b>κατα·γυμνόω-ῶ</b>, mettre tout à fait à nu, ARISTÉN. <i>1, 7 dout</i>.`

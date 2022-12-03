@@ -1,1 +1,0 @@
-lar[72968]=`<b>ου (ὁ)</b> Orobaze, <i>Parthe,</i> PLUT. <i>Syll. 5</i>.`

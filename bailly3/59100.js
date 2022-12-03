@@ -1,1 +1,0 @@
-lar[59100]=`<b>κωδωνο·φαλαρό·πωλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> dont les chevaux ont des grelots attachés aux harnais, AR. <i>Ran. 963</i>.<p><b>Étym</b>. κώδων, φάλαρα, πῶλος.`

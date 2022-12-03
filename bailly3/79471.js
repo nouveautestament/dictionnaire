@@ -1,1 +1,0 @@
-lar[79471]=`<b>περι·τειχίζω :<br>      1</b> élever un mur autour : πλίνθοις βαβυλῶνα, AR. <i>Av. 552,</i> entourer Babylone d’un mur de briques ; <i>particul</i>. entourer d’un mur pour investir, THC. <i>2, 78 ; 3, 18, etc.</i> ; DÉM. <i>1380, 1, etc.</i><br><b>      2</b> construire autour, XÉN. <i>Hell. 5, 3, 22</i>.`

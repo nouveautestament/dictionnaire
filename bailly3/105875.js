@@ -1,1 +1,0 @@
-lar[105875]=`<b>φιλο·κυνηγέτης, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> amateur de chasse, XÉN. <i>Cyn. 5, 14 ; 12, 11</i>.<p><b>Étym</b>. φ. κυνηγετέω.`

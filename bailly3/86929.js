@@ -1,1 +1,0 @@
-lar[86929]=`<font color="purple">[ᾰ]</font> <i>adv</i>., visiblement, manifestement, POL. <i>1, 21, 9</i>.<p><b>Étym</b>. προφανής.`

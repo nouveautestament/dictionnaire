@@ -1,1 +1,0 @@
-lar[30753]=`<b>εἰσ·έρρω</b> <font color="darkgreen">(<i>ao</i>. εἰσήρρησα, AR. <i>Eq. 4 ; pf</i>. εἰσήρρηκα, AR. <i>Th. 1075</i>)</font> se glisser dans, <i>avec</i> εἰς <i>et l’acc</i>.`

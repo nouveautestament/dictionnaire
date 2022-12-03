@@ -1,1 +1,0 @@
-lar[98813]=`<b>τευτλο·φακῆ, ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> plat de lentilles aux feuilles de poirée, GAL. <i>6, 324</i> ; ORIB. (<i>Méd. 4, 1</i>) ; C. AUR. <i>Acut. morb. 1, 15</i>.<p><b>Étym</b>. τεῦτλον, φακῆ.`

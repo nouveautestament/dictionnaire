@@ -1,1 +1,0 @@
-lar[108575]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῐ]</font> parure, <i>particul.</i> :<br><b>      1</b> collier <i>ou</i> bracelet, AR. <i>fr. 309, 11</i> ; ASIOS (ATH. <i>525f</i>) ; <i>au plur</i>. DS. <i>18, 27</i>.<br><b>      2</b> harnais somptueux, PLUT. <i>M. 145a</i>.<p><b>Étym</b>. χλιδή.`

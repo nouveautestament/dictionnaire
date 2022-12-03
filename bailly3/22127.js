@@ -1,1 +1,0 @@
-lar[22127]=`<i>adv</i>., comme de la glu, GAL. <i>2, 87f</i>.<p><b>Étym</b>. γλοιώδης.`

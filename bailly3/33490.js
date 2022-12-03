@@ -1,1 +1,0 @@
-lar[33490]=`<i>adv</i>., avec stupeur, follement, OD. <i>20, 132</i>.<p><b>Étym</b>. ἐμπλήσσω.`

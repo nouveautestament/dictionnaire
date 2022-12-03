@@ -1,1 +1,0 @@
-lar[16264]=`<b>εως (ἡ)</b> <font color="purple">[ᾰγᾰῐσ]</font> jeu des osselets, ARSTT. <i>Rhet. 1, 11</i>.<p><b>Étym</b>. ἀστραγαλίζω.`

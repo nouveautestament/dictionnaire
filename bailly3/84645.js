@@ -1,1 +1,0 @@
-lar[84645]=`<b>ή, όν</b>, prophétique, P. SIL. <i>Th. Pyth. 67</i>.<p><b>Étym</b>. προλέγω.`

@@ -1,1 +1,0 @@
-lar[76465]=`<b>παρά·χηλος, ος, ον</b>, situé près du sabot, HIPPIATR. <i>230, 17</i>.<p><b>Étym</b>. π. χηλή.`

@@ -1,1 +1,0 @@
-lar[44661]=`<b>ζυμόω-ῶ</b> <font color="purple">[ῡ]</font> pétrir avec du levain, <i>d’où</i> faire fermenter, faire lever, NT. <i>1Cor. 5, 6 ; au pass</i>. fermenter, HPC. <i>Acut. 394</i> ; PLUT. <i>M. 659b ;</i> SPT. <i>Ex. 12, 34, 39</i> ; NT. <i>Luc. 13, 21, etc. ; d’où</i> avoir un goût aigre (<i>propr</i>. de ferment) ALEX. (ATH. <i>383d</i>).<p><b>Étym</b>. ζύμη.`

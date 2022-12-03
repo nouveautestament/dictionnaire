@@ -1,1 +1,0 @@
-lar[88781]=`<b>ή, όν</b>, fait en forme de losange, CALLIX. (ATH. <i>205d</i>) ; JOS. <i>A.J. 12, 2, 10</i> ; ANTH. <i>6, 111</i>.<p><b>Étym</b>. <i>vb. de</i> ῥομβόω.`

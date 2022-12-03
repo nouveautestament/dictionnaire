@@ -1,1 +1,0 @@
-lar[46699]=`<i>adv</i>., à la façon des théologiens, PLUT. <i>M. 568d</i>.`

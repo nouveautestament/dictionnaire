@@ -1,1 +1,0 @@
-lar[56926]=`<b>ος, ον</b>, de Conon : φιάλη, κύλιξ, ATH. <i>478b</i>, coupe à la Conon, sorte de vase à boire.<p><b>Étym</b>. Κόνων.`

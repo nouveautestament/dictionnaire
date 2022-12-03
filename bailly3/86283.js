@@ -1,1 +1,0 @@
-lar[86283]=`<b>προσ·παροινέω-ῶ</b>, insulter en outre comme fait un ivrogne, <i>acc</i>. PHILSTR. <i>Im. 2, 23</i>.`

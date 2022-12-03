@@ -1,1 +1,0 @@
-lar[60797]=`<b>ας (ἡ)</b> chassie, HPC. <i>943d au pl</i>.<p><b>Étym</b>. λήμη.`

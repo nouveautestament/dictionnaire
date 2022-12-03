@@ -1,1 +1,0 @@
-lar[90961]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> cornet de dés, EM. <i>717, 28 ; fig</i>. tromperie, tricherie, HIPPON. <i>fr. 84</i>.<p><b>Étym</b>. σκῖρος.`

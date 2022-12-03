@@ -1,1 +1,0 @@
-lar[28807]=`<b>δυσ·πετής, ής, ές</b>, qui tombe mal, <i>d’où</i> difficile, SOPH. <i>Aj. 1046</i>.<p><b>Étym</b>. δ. πίπτω.`

@@ -1,1 +1,0 @@
-lar[65021]=`<b>μετά·φημι</b> (<i>seul. impf. 3 sg</i>. μετέφη) :<br><b>      1</b> parler au milieu de, <i>dat</i>. OD. <i>18, 312, etc., ou en gén</i>. s’adresser à, IL. <i>2, 411, etc.</i><br><b>      2</b> adresser la parole à, IL. <i>2, 795</i>.`

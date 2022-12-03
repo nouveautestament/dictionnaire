@@ -1,1 +1,0 @@
-lar[82540]=`<b>πολύ·φυλλος, ος, ον</b> <font color="purple">[λῠ]</font> abondant en feuilles, EUP. <i>2-1, 426 Meineke</i> ; TH. <i>H.P. 1, 10, 8, etc</i>.<p><b>Étym</b>. π. φύλλον.`

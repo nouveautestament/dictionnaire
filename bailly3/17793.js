@@ -1,1 +1,0 @@
-lar[17793]=`<b>ας (ἡ)</b> action de voir de ses propres yeux, DIOSC. <i>Præf.</i> ; LUC. <i>Syr. 1</i>.<p><b>Étym</b>. αὔτοπτος.`

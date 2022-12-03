@@ -1,1 +1,0 @@
-lar[37618]=`<b>ἐπι·διέξειμι</b> (<i>seul. prés</i>.) parcourir <i>ou</i> examiner en détail, PLUT. <i>M. 854f ;</i> POLYEN <i>4, 20</i>.`

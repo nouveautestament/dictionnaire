@@ -1,1 +1,0 @@
-lar[36818]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> qui secourt, qui défend, NIC. <i>Al. 110</i>.<p><b>Étym</b>. ἐπαρήγω.`

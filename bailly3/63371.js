@@ -1,1 +1,0 @@
-lar[63371]=`<b>μεγαλο·κέφαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à grosse tête, ARSTT. <i>Somn. 3, 16</i>.<p><b>Étym</b>. μ. κεφαλή.`

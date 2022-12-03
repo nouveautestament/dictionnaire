@@ -1,1 +1,0 @@
-lar[67157]=`<b>ητος (ὁ)</b> <font color="purple">[ῡ]</font> Mynès, <i>h</i>. IL. <i>2, 692</i>.`

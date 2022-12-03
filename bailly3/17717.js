@@ -1,1 +1,0 @@
-lar[17717]=`<b>αὐτο·σχιδής, ής, ές</b> <font color="purple">[ῐ]</font> qui n’a qu’une fente, <i>p. opp. à</i> πολυσχιδής, <i>en parl. d’une sorte de chaussure,</i> HERMIPP.<p><b>Étym</b>. αὐ. σχίζω.`

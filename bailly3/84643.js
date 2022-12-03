@@ -1,1 +1,0 @@
-lar[84643]=`<b>προ·λειόω-ῶ :<br>      1</b> polir <i>ou</i> aplanir auparavant, A. TR. <i>8, 464</i>.<br><b>      2</b> broyer, pulvériser, GAL. <i>13, 391</i>.`

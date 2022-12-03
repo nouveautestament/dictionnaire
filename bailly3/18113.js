@@ -1,1 +1,0 @@
-lar[18113]=`<b>ας (ἡ)</b> <font color="purple">[φῐλ]</font> ignorance <i>ou</i> mépris de la philosophie, PLAT. <i>Def. 415e</i>.<p><b>Étym</b>. ἀφιλόσοφος.`

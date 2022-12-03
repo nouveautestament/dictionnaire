@@ -1,1 +1,0 @@
-lar[83580]=`<b>προ·ανατέλλω</b>, se lever avant, <i>en parl. d’un astre,</i> T. LOCR. <i>97a ;</i> PLUT. <i>M. 308a</i>.`

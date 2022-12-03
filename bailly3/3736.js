@@ -1,1 +1,0 @@
-lar[3736]=`<b>ή, όν</b> <font color="purple">[ᾱτ]</font><br><b>      1</b> <i>c</i>. ἀκροαματικός, ARSTT. <i>fr. 612</i>.<br><b>      2</b> qui concerne un lecteur : ἀ. μισθός, LUC. <i>Dem. enc. 25,</i> honoraires de celui qui fait une lecture.<p><b>Étym</b>. ἀκροάομαι.`

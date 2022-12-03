@@ -1,1 +1,0 @@
-lar[75354]=`<b>ης, ες</b>, cotonneux <i>ou</i> muni d’une aigrette, <i>en parl. de certaines graines,</i> TH. <i>H.P. 6, 4, 11</i>.<p><b>Étym</b>. πάππος, -ωδης.`

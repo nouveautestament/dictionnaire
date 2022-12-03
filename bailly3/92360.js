@@ -1,1 +1,0 @@
-lar[92360]=`<b>στενο·κύμων, ονος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> aux flots resserrés dans un espace étroit, ARCHESTR. (ATH. <i>313a</i>).<p><b>Étym</b>. στ. κῦμα.`

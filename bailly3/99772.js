@@ -1,1 +1,0 @@
-lar[99772]=`<i>crase att. et poét. p</i>. τὸ ἐπίπεμπτον, AR. <i>fr. 17</i>.`

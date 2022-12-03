@@ -1,1 +1,0 @@
-lar[41038]=`<b>ἑσμο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> surveillant des ruches, GEOP. <i>15, 2, 9</i>.<p><b>Étym</b>. ἑσμός, φύλαξ.`

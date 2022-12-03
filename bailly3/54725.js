@@ -1,1 +1,0 @@
-lar[54725]=`<b>α, ον</b>, de centaure, EUR. <i>I.A. 706</i> ; LUC. <i>Per. 25</i>.<p><b>Étym</b>. Κένταυρος.`

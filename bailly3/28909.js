@@ -1,1 +1,0 @@
-lar[28909]=`<b>δυσ·ταμίευτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui administre mal, <i>gén</i>. ARSTT. <i>Aud. 12</i>.<p><b>Étym</b>. δ. ταμιεύω.`

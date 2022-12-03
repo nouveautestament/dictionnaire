@@ -1,1 +1,0 @@
-lar[39018]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> <i>c</i>. ἐπισκότησις, PROCL. <i>Ptol. 2, 7, p. 112</i>.`

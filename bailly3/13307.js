@@ -1,1 +1,0 @@
-lar[13307]=`<b>ἀπο·σκεπαρνισμός, οῦ (ὁ)</b> sorte de fracture du crâne (comme par un coup de hache) GAL. <i>19, 431, 432, etc</i>.<p><b>Étym</b>. ἀ. *σκεπαρνίζω <i>de</i> σκέπαρνον.`

@@ -1,1 +1,0 @@
-lar[56815]=`<b>κομμόω-ῶ</b>, parer, orner, <i>particul</i>. farder, EUP. <i>2-1, 576 Meineke</i> ; ARSTT. <i>Soph. el. 12 ; fig</i>. THÉM. <i>336c</i>.<p><b>Étym</b>. κομμός.`

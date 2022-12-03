@@ -1,1 +1,0 @@
-lar[27434]=`<b>δολιχο·δρόμος, ος, ον</b> <font color="purple">[ῐ]</font> qui fournit la course du long stade, XÉN. <i>Conv. 2, 17</i> ; PLAT. <i>Leg. 822b ; Prot. 335e</i>.<p><b>Étym</b>. δόλιχος, δραμεῖν.`

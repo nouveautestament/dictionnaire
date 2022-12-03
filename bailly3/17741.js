@@ -1,1 +1,0 @@
-lar[17741]=`<b>ος, ον</b>, qui s’est fait de soi-même, <i>d’où</i> grossier, brut, ANTH. <i>6, 33</i>.`

@@ -1,1 +1,0 @@
-lar[42581]=`<b>εὐ·λεχής, ής, ές :<br>      1</b> dont la couche est désirable, ANTH. <i>7, 649</i>.<br><b>      2</b> propice aux hymens, ANTH. <i>4, 182</i>.<p><b>Étym</b>. εὖ, λέχος.`

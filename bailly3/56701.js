@@ -1,1 +1,0 @@
-lar[56701]=`<b>α, ον</b>, de colosse, colossal, LUC. <i>Herm. 71</i>.<p><b>Étym</b>. κολοσσός.`

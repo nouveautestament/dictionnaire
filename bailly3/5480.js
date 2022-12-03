@@ -1,1 +1,0 @@
-lar[5480]=`<b>ἀ·μετάβατος, ος, ον</b> <font color="purple">[τᾰᾰ]</font><br><b>      1</b> qui ne change pas de place, CLÉOM. <i>55, 28</i>.<br><b>      2</b> <i>t. de gr</i>. intransitif, <i>p. opp. à</i> μεταβατικός, DYSC. <i>Pron. 315, 316</i>.<p><b>Étym</b>. ἀ, μεταβαίνω.`

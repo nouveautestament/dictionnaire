@@ -1,1 +1,0 @@
-lar[9739]=`<b>ίδος (ἡ) :<br>      1</b> contre-étai, contre-fiche, jambe de force, THC. <i>7, 36</i> ; XÉN. <i>Cyn. 10, 7</i> ; POL. <i>8, 6, 6 (cf</i>. ἀντερείδιον).<br><b>      2</b> ouverture, <i>d’où au plur</i>. naseaux d’un cheval, EUR. <i>Rhes. 785</i>.<p><b>Étym</b>. ἀντερείδω.`

@@ -1,1 +1,0 @@
-lar[83764]=`<b>προ·βασκαίνω</b> <font color="darkgreen">(<i>f</i>. ανῶ, <i>ao</i>. προεβάσκηνα)</font> porter envie auparavant, <i>d’où</i> : πρ. τινί τινος, LIB. <i>4, 216,</i> refuser d’avance qqe ch. à qqn.`

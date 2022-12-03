@@ -1,1 +1,0 @@
-lar[20449]=`<b>εσσα, εν</b>, de bon conseil, sage, SOL. (PLUT. <i>Sol. 14).</i><p><b>Étym</b>. βουλή.`

@@ -1,1 +1,0 @@
-lar[72010]=`<b>(ὁ)</b> Onouphis, <i>n. du taureau noir sacré des Égyptiens,</i> EL. <i>N.A. 12, 11</i>.`

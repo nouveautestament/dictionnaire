@@ -1,1 +1,0 @@
-lar[78127]=`<b>πεντηκοντα·μναῖος, ος, ον</b> (baliste <i>ou</i> pierrier à boulets) de cinquante mines, PHIL. BYZ. <i>Bel. 6</i>.`

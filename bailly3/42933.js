@@ -1,1 +1,0 @@
-lar[42933]=`<b>εὐ·παραμύθητος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> facile à apaiser, à fléchir, PLAT. <i>Leg. 888c.</i><br><b>      2</b> dont on peut facilement se consoler, PLUT. <i>M. 110d, 113e</i>.<p><b>Étym</b>. εὖ, παραμυθέομαι.`

@@ -1,1 +1,0 @@
-lar[85782]=`<b>προσ·ερυγγάνω</b> (<i>seul. prés. et ao.2</i> προσήρυγον <font color="purple">[ῠ]</font>) :<br><b>      1</b> roter au nez de, <i>dat</i>. DIOD. SIN. (ATH. <i>239e</i>) ; <i>p. ext</i>. baver sur, EL. <i>N.A. 9, 11</i>.<br><b>      2</b> roter en outre <i>ou</i> en même temps, TH. <i>Char. 19</i>.`

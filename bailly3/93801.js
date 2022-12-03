@@ -1,1 +1,0 @@
-lar[93801]=`<b>οῦ (ὁ)</b> réunion de compagnies, EL. TACT. <i>6, 1, 2</i>.<p><b>Étym</b>. συλλοχίζω.`

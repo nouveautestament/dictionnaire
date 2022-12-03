@@ -1,1 +1,0 @@
-lar[29342]=`<b>ἐγ·γείσωμα, ατος (τὸ)</b> fracture du crâne en deux morceaux, dont l’un recouvre l’autre, comme les tuiles d’un toit, GAL. <i>Intr. 14, 782</i> ; SOR. <i>Fract. p. 44</i> ; ORIB. <i>Fract. p. 98</i>.<p><b>Étym</b>. ἐν, γεισόω.`

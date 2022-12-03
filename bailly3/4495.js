@@ -1,1 +1,0 @@
-lar[4495]=`<b>Ἁλι·μήδη, ης (ἡ)</b> <font color="purple">[ᾰῐ]</font> Halimèdè, <i>Néréide,</i> HÉS. <i>Th. 255</i>.<p><b>Étym</b>. ἅλς, μήδομαι.`

@@ -1,1 +1,0 @@
-lar[1546]=`<b>(ἡ)</b> <i>ion. fém. de</i> Ἀδριανός, la mer Adriatique, EUR. <i>Hipp</i>. 736.`

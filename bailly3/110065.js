@@ -1,1 +1,0 @@
-lar[110065]=`<b>ψωρ·οφθαλμία, ας (ἡ)</b> mal des paupières avec pustules cuisantes, GAL. <i>14, 766 ; au plur</i>. DIOSC. <i>1, 82</i>.<p><b>Étym</b>. ψώρα, ὀφθαλμός.`

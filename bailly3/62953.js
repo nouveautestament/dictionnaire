@@ -1,1 +1,0 @@
-lar[62953]=`<b>ου (ὁ)</b> <i>poisson de mer, p.-ê. une sorte de</i> mulet, ARSTT. <i>H.A. 6, 17, 2</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

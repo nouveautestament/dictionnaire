@@ -1,1 +1,0 @@
-lar[46904]=`<b>α, ον</b> <font color="purple">[ῐ]</font> d’été : θ. τροπαί, HDT. <i>2, 19,</i> le solstice d’été.<p><b>Étym</b>. θέρος, <i>cf</i>. θερινός.`

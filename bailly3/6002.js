@@ -1,1 +1,0 @@
-lar[6002]=`<b>ου (τὸ)</b> Ampheion, <i>lieu de Thèbes,</i> XÉN. <i>Hell. 5, 4, 8</i>.`

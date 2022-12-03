@@ -1,1 +1,0 @@
-lar[17992]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui délivre, qui fait remise de, <i>gén</i>. CLÉM. <i>464</i>.<p><b>Étym</b>. ἀφίημι.`

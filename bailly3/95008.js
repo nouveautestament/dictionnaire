@@ -1,1 +1,0 @@
-lar[95008]=`<b>συν·ατμίζομαι</b>, être réuni sous forme de vapeur, DL. <i>6, 73</i>.`

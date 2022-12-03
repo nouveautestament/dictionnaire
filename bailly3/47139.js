@@ -1,1 +1,0 @@
-lar[47139]=`<b>ή, όν</b>, de Thèbes, Thébain :<br><b>      1</b> <i>en Béotie,</i> STR. <i>408, 412</i>.<br><b>      2</b> <i>en Égypte,</i> HDT. <i>2, 4, etc.</i> ; DIOSC. <i>1, 149</i>.<p><b>Étym</b>. Θῆβαι.`

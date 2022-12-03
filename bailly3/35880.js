@@ -1,1 +1,0 @@
-lar[35880]=`<b>ἐξ·ευλαβέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> se garder avec soin de, <i>acc</i>. PLAT. <i>Lach. 199e ; ou</i> μή <i>avec le sbj</i>. ESCHL. <i>fr. 195</i> ; EUR. <i>Andr. 645</i>.`

@@ -1,1 +1,0 @@
-lar[59265]=`<b>ου (τὸ)</b> corail, DIOSC.`

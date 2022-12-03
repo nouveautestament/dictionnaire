@@ -1,1 +1,0 @@
-lar[28209]=`<b>δυσ·άπιστος, ος, ον</b> <font color="purple">[ῠᾰ]</font> méfiant, <i>d’où</i> désobéissant, indocile, ANTH. <i>12, 179</i>.<p><b>Étym</b>. δ. ἄπιστος.`

@@ -1,1 +1,0 @@
-lar[23986]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> δεσμίς, DIOSC. <i>Parab. 2, 64</i> ; ANTYLL. (ORIB. <i>3, 633</i>) ; AÉT. <i>3, 79</i>.`

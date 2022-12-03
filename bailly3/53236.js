@@ -1,1 +1,0 @@
-lar[53236]=`<b>ή, όν</b>, qui s’abaisse : καταρρακτὴ θύρα, PLUT. <i>Arat. 26,</i> porte qui s’abaisse, trappe <i>ou</i> guichet.<p><b>Étym</b>. <i>vb. de</i> καταράσσω ; <i>pour</i> ρρ, <i>v</i>. καταρράκτης.`

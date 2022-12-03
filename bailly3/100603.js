@@ -1,1 +1,0 @@
-lar[100603]=`<b>ων</b> <font color="purple">[ῐᾱῑ]</font> <i>adj. m. vraisembl. de</i> τρίχα, <i>adv</i>., aux trois tribus, <i>ép. des Doriens, à cause des trois tribus principales</i> Ὑλλεῖς, Δυμᾶνες, Πάμφυλοι ; <i>sel. d’autres,</i> à la crinière flottante, <i>de</i> θρίξ <i>et</i> ἀΐσσω, OD. <i>19, 177</i> ; HÉS. <i>fr. 7, 1 Göttling</i>.`

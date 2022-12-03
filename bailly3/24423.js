@@ -1,1 +1,0 @@
-lar[24423]=`<b>ή, όν</b> <font color="purple">[βῐ]</font> transitif, <i>t. de gr</i>. DYSC. <i>Synt. 294, 11</i>.<p><b>Étym</b>. διαβιβάζω.`

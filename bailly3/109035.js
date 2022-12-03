@@ -1,1 +1,0 @@
-lar[109035]=`<b>χριστο·κτόνος, ος, ον</b>, meurtrier du Christ, CHRYS. <i>in Matthäi 2, 533</i>.<p><b>Étym</b>. Χρ. κτείνω.`

@@ -1,1 +1,0 @@
-lar[74199]=`<b>παθο·κρατέομαι-οῦμαι</b> <font color="purple">[ᾰᾰ]</font> maîtriser ses passions, JOS. <i>Macc. 7, 20</i>.<p><b>Étym</b>. π. κρατέω.`

@@ -1,1 +1,0 @@
-lar[67052]=`<b>μυθοπλαστέω-ῶ</b> <font color="purple">[ῡ]</font> composer des fables, DÉMOCR. (STOB. <i>Fl. 98, 61).</i><p><b>Étym</b>. μυθοπλάστης.`

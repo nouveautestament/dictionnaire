@@ -1,1 +1,0 @@
-lar[86001]=`<b>εως (ἡ)</b> action de brûler, brûlure, ORIB. <i>p. 37 Matthäi</i>.<p><b>Étym</b>. προσκαίω.`

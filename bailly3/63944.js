@@ -1,1 +1,0 @@
-lar[63944]=`<b>ατος (τὸ) :<br>      1</b> inquiétude, souci, soin, IL. <i>23, 62</i> ; OD. <i>15, 8 (touj. au plur.) ; avec le gén. de la pers. qui prend soin</i> : μελεδήματα θεῶν, EUR. <i>Hipp. 1102,</i> sollicitude des dieux (pour les hommes).<br><b>      2</b> objet d’inquiétude, de souci, IBYC. <i>fr. 5</i>.<p><b>Étym</b>. μελεδαίνω.`

@@ -1,1 +1,0 @@
-lar[92942]=`<b>ος, ον</b> <font color="purple">[ῑ]</font> qui tournoie en spirale, ANTH. <i>15, 25</i>.<p><b>Étym</b>. στρόβος.`

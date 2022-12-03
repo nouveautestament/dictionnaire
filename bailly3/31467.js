@@ -1,1 +1,0 @@
-lar[31467]=`<b>ἐκ·κοκκίζω</b>, ôter le noyau <i>ou</i> la graine, <i>d’où fig</i>. dilapider (son bien) NICOM. COM. (ATH. <i>58a</i>) (κἀξεκόκκισα) ; arracher, détruire, AR. <i>Lys. 364, 448 (fut</i>. ἐκκοκκιῶ) ; saccager (une ville) AR. <i>Pax 63, etc</i>.<p><b>Étym</b>. ἐκ, κόκκος.`

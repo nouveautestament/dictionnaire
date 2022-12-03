@@ -1,1 +1,0 @@
-lar[102706]=`<b>ος, ον</b>, méprisant, fier, dédaigneux, ANTH. <i>12, 186 ; plur. neutre adv</i>. SOPH. <i>O.R. 883</i>.<p><b>Étym</b>. ὑπερόψομαι.`

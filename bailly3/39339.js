@@ -1,1 +1,0 @@
-lar[39339]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui donne <i>ou</i> marque de l’intensité, NYSS. <i>1, 21 ; t. de gr</i>. intensif, <i>en parl. des préfixes</i> ἁ-, ζα- (ἁθρόος, ζάθεος) DRAC. <i>43, 20</i> ; ARC. <i>197, 10</i>.<p><b>Étym</b>. ἐπιτείνω.`

@@ -1,1 +1,0 @@
-lar[10138]=`<b>Ἄντιον, ου (τὸ)</b> = <i>lat</i>. Antium (<i>auj</i>. Anzio) <i>v. du Latium,</i> PLUT. <i>Fab. 2, etc</i>.`

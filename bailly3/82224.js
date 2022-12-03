@@ -1,1 +1,0 @@
-lar[82224]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grande expérience, THC. <i>1, 71</i> ; PLAT. <i>Leg. 811a, etc</i>.<p><b>Étym</b>. πολύπειρος.`

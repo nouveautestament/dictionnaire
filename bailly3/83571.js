@@ -1,1 +1,0 @@
-lar[83571]=`<b>προ·άναρχος, ος, ον</b>, qui précède de toute éternité ; <i>gén</i>. ANTH. <i>1, 27</i>.`

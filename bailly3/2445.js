@@ -1,1 +1,0 @@
-lar[2445]=`<b>αἰθερό·πλαγκτος, ος, ον</b>, errant dans les espaces célestes, ORPH. <i>H. 5, 1</i>.<p><b>Étym</b>. αἰθήρ, πλάζω.`

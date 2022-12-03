@@ -1,1 +1,0 @@
-lar[62350]=`<b>ή, όν</b>, apte <i>ou</i> expert en accouchements, PLAT. <i>Theæt. 151c ;</i> ἡ μαιευτική (<i>s.-e</i>. τέχνη) PLAT. <i>Theæt. 161e, etc., ou</i> τὸ μαιευτικόν, DL. <i>3, 49,</i> l’art de faire accoucher, <i>en parl. de la méthode d’enseignement de Socrate</i>.<p><b>Étym</b>. μαιεύω.`

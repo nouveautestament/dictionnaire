@@ -1,1 +1,0 @@
-lar[102044]=`<b>ὑπατο·ειδής, ής, ές</b> <font color="purple">[ῠᾰ]</font> <i>t. de mus</i>. qui correspond à la dernière corde, A. QUINT. <i>p. 28</i> ; ANON. MUS. <i>76, 11</i>.<p><b>Étym</b>. ὑπάτη, εἶδος.`

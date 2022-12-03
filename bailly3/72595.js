@@ -1,1 +1,0 @@
-lar[72595]=`<b>ὀρει·νόμος, ος, ον :<br>      1</b> qui habite les montagnes, EUR. <i>H.f. 364</i>.<br><b>      2</b> qui paît sur les montagnes, <i>fig</i>. ANTH. <i>6, 107</i>.<p><b>Étym</b>. ὄρος, νέμω.`

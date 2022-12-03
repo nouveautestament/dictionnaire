@@ -1,1 +1,0 @@
-lar[36656]=`<b>ῆς (ἡ)</b> lever postérieur d’un astre, PTOL. <i>Math. synt. t. 2, p. 100, 32 ; p. 103, 8</i>.<p><b>Étym</b>. ἐπανατέλλω.`

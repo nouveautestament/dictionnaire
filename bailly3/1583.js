@@ -1,1 +1,0 @@
-lar[1583]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠᾰτ]</font> <i>mot sicil. c</i>. ἀδυναμία, DINOL. <i>(Bkk. p. 345</i>).`

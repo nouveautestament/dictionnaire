@@ -1,1 +1,0 @@
-lar[86667]=`<b>εως (ἡ)</b> emploi d’une chose pour qqe usage, LGN <i>27, 2</i> ; M. ANT. <i>7, 5</i>.<p><b>Étym</b>. προσχράομαι.`

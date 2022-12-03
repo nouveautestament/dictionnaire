@@ -1,1 +1,0 @@
-lar[86101]=`<b>προσ·λέγομαι</b> <font color="darkgreen">(<i>seul. 3 sg. ao.2</i> προσέλεκτο)</font> se coucher auprès, OD. <i>12, 34</i>.`

@@ -1,1 +1,0 @@
-lar[87721]=`<b>πυξο·ειδής, ής, ές</b>, qui ressemble au buis, DIOSC. <i>3, 35</i>.<p><b>Étym</b>. π. εἶδος.`

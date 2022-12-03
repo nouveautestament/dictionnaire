@@ -1,1 +1,0 @@
-lar[61557]=`<b>ης, ες</b>, qui ressemble à de la prose, prosaïque, ARSTT. <i>Respir. 2, 6</i> ; ARISTOX. <i>p. 18</i>.<p><b>Étym</b>. λόγος, -ωδης.`

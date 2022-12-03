@@ -1,1 +1,0 @@
-lar[28246]=`<b>δυσ·αυξής, ής, ές</b> <font color="purple">[ῠ]</font> qui pousse <i>ou</i> croît difficilement, TH. <i>C.P. 1, 8, 4 ; 4, 12, 10 ; H.P. 3, 6, 1</i> ; JOS. <i>A.J. 3, 1, 3</i>.<p><b>Étym</b>. δ. αὔξω.`

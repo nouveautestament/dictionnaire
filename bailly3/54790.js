@@ -1,1 +1,0 @@
-lar[54790]=`<font color="darkgreen">(<i>impf. épq</i>. κέραιον)</font> <i>c</i>. κεράννυμι, IL. <i>9, 203</i>.`

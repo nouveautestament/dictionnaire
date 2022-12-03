@@ -1,1 +1,0 @@
-lar[46085]=`<i>mieux que</i> <b>ᾗχι</b>, <i>adv</i>., où, de la façon que, IL. <i>1, 607 ; 3, 326</i> ; OD. <i>3, 87, etc. (épq. p</i>. ᾗ ; <i>ttef</i>. ἧχι ARISTARQ. <i>Il. 1, 607</i>).`

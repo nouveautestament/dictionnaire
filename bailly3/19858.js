@@ -1,1 +1,0 @@
-lar[19858]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> mou, indolent, lâche, XÉN. <i>Eq. 9, 1</i> ; LUC. <i>etc.</i> ; βλακῶδες βαίνειν, HLD. <i>4, 7,</i> avoir une démarche indolente.<p>•<i> Cp</i>. βλακωδέστερος, XÉN. <i>l. c</i>.<p><b>Étym</b>. βλάξ, -ωδης.`

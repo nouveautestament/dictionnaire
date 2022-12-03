@@ -1,1 +1,0 @@
-lar[92719]=`<b>οῦ (ὁ)</b> action de s’équiper, <i>en parl. de vêtements,</i> ESCHL. <i>Ch. 29</i> ; EUR. <i>Alc. 215, Andr. 148, etc. ; de couronnes,</i> EUR. <i>Tr. 258, etc. ; de voiles d’un navire,</i> ESCHL. <i>Suppl. 715</i>.<p><b>Étym</b>. στέλλω.`

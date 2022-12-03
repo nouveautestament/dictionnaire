@@ -1,1 +1,0 @@
-lar[10281]=`<b>ἀντι·πλέω :<br>      1</b> s’avancer sur mer contre (l’ennemi) THC. <i>1, 50, 54 (var</i>. ἀντεπιπλέω).<br><b>      2</b> naviguer contre (le vent) Ps.-PHOCYL. <i>121 conj</i>.`

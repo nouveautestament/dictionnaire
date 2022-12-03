@@ -1,1 +1,0 @@
-lar[82212]=`<b>ας (ἡ)</b> <font color="purple">[ῠπᾰ]</font> multitude d’affections <i>ou</i> de maux auxquels on est sujet, PLUT. <i>M. 167e</i>.<p><b>Étym</b>. πολυπαθής.`

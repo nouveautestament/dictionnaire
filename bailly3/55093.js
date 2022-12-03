@@ -1,1 +1,0 @@
-lar[55093]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> multiplication des nombres jusqu’à 10, <i>sorte de table de Pythagore,</i> ARSTT. <i>Top. 8, 12</i>.<p><b>Étym</b>. *κεφαλίζω, <i>de</i> κεφαλή.`

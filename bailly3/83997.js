@@ -1,1 +1,0 @@
-lar[83997]=`<b>προδομέω-ῶ</b>, construire auparavant, JOS. <i>B.J. 1, 21, 6</i>.<p><b>Étym</b>. πρόδομος.`

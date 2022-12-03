@@ -1,1 +1,0 @@
-lar[84961]=`<b>προ·πίτνω</b> (<i>seul. prés</i>.) tomber en avant, ESCHL. <i>Pers. 588 ; particul</i>. tomber à genoux en suppliant, SOPH. <i>El. 1380</i>.`

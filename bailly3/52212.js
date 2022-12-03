@@ -1,1 +1,0 @@
-lar[52212]=`<b>κατα·γέμω</b> (<i>seul. prés. et impf</i>.) être rempli, chargé de, <i>gén</i>. POL. <i>14, 10, 2</i> ; DS. <i>5, 43</i> ; LUC. <i>Somn. 8, etc</i>.`

@@ -1,1 +1,0 @@
-lar[35270]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐξαγωγός MATH. <i>100</i>.`

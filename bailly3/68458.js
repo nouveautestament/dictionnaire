@@ -1,1 +1,0 @@
-lar[68458]=`<b>νε·ωρυχής, ής, ές</b> <font color="purple">[ῠ]</font> nouvellement creusé <i>ou</i> tiré de terre, NIC. <i>Th. 940</i>.<p><b>Étym</b>. νέος, ὀρύσσω.`

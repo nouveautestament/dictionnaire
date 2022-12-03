@@ -1,1 +1,0 @@
-lar[76896]=`<b>ή, όν</b>, de jeune fille, PLUT. <i>Lyc. c. Num. 3</i> ; ἡ παρθενική, IL. <i>18, 567</i> ; OD. <i>11, 39</i> ; HÉS. <i>O. 697</i> ; ALCM. <i>13</i> ; EUR. <i>El. 174,</i> jeune fille vierge.<p><b>Étym</b>. παρθένος.`

@@ -1,1 +1,0 @@
-lar[5083]=`<b>όος-οῦς (ἡ)</b> <font color="purple">[ῐ]</font> Alphitô (<i>litt</i>. l’enfarinée) <i>mannequin de femme pour effrayer les enfants (cf</i>. Ἀκκώ) PLUT. <i>M. 1040b</i>.<p><b>Étym</b>. ἄλφιτον.`

@@ -1,1 +1,0 @@
-lar[1749]=`<b>ἀεξί·γυιος, ος, ον</b> <font color="purple">[ξῐ]</font> qui fortifie les membres, PD. <i>N. 4, 73</i>.<p><b>Étym</b>. ἀέξω, γυῖον.`

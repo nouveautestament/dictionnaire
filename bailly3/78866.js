@@ -1,1 +1,0 @@
-lar[78866]=`<b>περι·λάμπω :<br>      1 <i>intr.</i></b> briller tout autour <i>ou</i> d’un vif éclat, PLUT. <i>Cam. 17, Arat. 21, etc.</i><br><b>      2 <i>tr.</i></b> illuminer, <i>acc</i>. PLUT. <i>Cic. 35</i> ; NT. <i>Ap. 26, 13, etc. ; au pass</i>. PLUT. <i>Per. 39, etc.</i> ; LUC. <i>Dom. 8</i>.`

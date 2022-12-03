@@ -1,1 +1,0 @@
-lar[85157]=`<b>προσ·αναλίσκω</b> <font color="purple">[ᾰνᾱ]</font> dépenser <i>ou</i> épuiser en outre, XÉN. <i>An. 6, 2, 8</i> ; PLAT. <i>Prot. 311d ;</i> DÉM. <i>460, 2 ; 1025, 20, etc</i>.`

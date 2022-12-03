@@ -1,1 +1,0 @@
-lar[20796]=`<b>ου (ὁ)</b> Brigulus, <i>anc. n. du fl</i>. Arar (la Saône), Ps.-PLUT. <i>Fluv. 6, 1</i>.`

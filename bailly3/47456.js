@@ -1,1 +1,0 @@
-lar[47456]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾱ]</font> qui donne un festin, ESCHL. <i>Ag. 1502</i>.<p><b>Étym</b>. θοινάω.`

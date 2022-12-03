@@ -1,1 +1,0 @@
-lar[49918]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> (<i>seul. cp</i>. -ώτερος) <i>c</i>. ἰσχυρός, PLAT. <i>Theæt. 169b</i>.`

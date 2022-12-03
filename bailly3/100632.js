@@ -1,1 +1,0 @@
-lar[100632]=`<b>τριχο·μανία, ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font> manie d’avoir de longs cheveux, SYN. <i>p. 80a</i>.<p><b>Étym</b>. θρίξ, μανία.`

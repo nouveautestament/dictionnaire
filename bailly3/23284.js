@@ -1,1 +1,0 @@
-lar[23284]=`<b>ου (τὸ)</b> Daskyleion :<br><b>      1</b> <i>v. de Bithynie,</i> HDT. <i>3, 120, 126 ; 6, 33</i>.<br><b>      2</b> <i>v. d’Ionie, en att. mieux que</i> Δασκύλιον, XÉN. <i>Hell. 3, 4, 13 ; 4, 1, 15 (vulg</i>. -ιον) ; <i>cf</i>. CIA. <i>1, 226, 16 (454 av. J.-C.) ; 243, 5</i>.<p><b>Étym</b>. <i>437 av. J.-C</i>.`

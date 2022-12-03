@@ -1,1 +1,0 @@
-lar[63059]=`<b>ου</b> <font color="purple">[σᾱ]</font> <i>adj. m</i>. originaire <i>ou</i> habitant de Massalia, PLUT. <i>Mar. 22 ; en parl. de choses</i> (vin, <i>etc</i>.) ATH. <i>27c</i>.<p><b>Étym</b>. Μασσαλία.`

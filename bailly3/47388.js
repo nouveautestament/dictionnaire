@@ -1,1 +1,0 @@
-lar[47388]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> célébration d’un thiase, PROCL. <i>H. Sol. 21</i>.<p><b>Étym</b>. θίασος.`

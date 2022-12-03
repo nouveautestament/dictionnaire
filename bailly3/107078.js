@@ -1,1 +1,0 @@
-lar[107078]=`<b>(οἱ)</b> <i>dat. pl. poét</i>. Φυλάκεσσιν <font color="purple">[ῠᾰ]</font> habitants de Phylakè, Q. SM. <i>1, 244</i>.<p><b>Étym</b>. Φυλάκη.`

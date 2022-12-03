@@ -1,1 +1,0 @@
-lar[21878]=`<b>ή, όν</b>, qui concerne le travail de la terre ; τὰ Γεωπονικά, les Géoponiques, <i>titre d’un recueil de Traités d’agriculture et d’horticulture compilés par Cassianus Bassus</i>.<p><b>Étym</b>. γεωπόνος.`

@@ -1,1 +1,0 @@
-lar[92900]=`<b>ή, όν</b>, qui torture, NYSS. <i>3 Migne</i>.<p><b>Étym</b>. στρεβλόω.`

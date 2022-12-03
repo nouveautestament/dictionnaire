@@ -1,1 +1,0 @@
-lar[19316]=`<b>ου (ὁ) :<br>      1</b> Bassos, <i>n. grec, part. poète de l’Anthologie,</i> ANTH. <i>7, 243, 372, etc.</i><br><b>      2</b> Bassus, <i>n. rom</i>. JOS. APP. <i>etc</i>.`

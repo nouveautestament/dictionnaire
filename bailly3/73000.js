@@ -1,1 +1,0 @@
-lar[73000]=`<b>*ὀρο·μηλίδες</b>, <i>dor</i>. <b>ὀρο·μαλίδες, ων (αἱ)</b> <font color="purple">[ᾱ]</font> <i>propr</i>. pommes de montagne, <i>càd</i>. pommes sauvages, THCR. <i>Idyl. 5, 94</i>.<p><b>Étym</b>. ὄρος, μῆλον.`

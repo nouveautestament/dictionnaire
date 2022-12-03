@@ -1,1 +1,0 @@
-lar[93146]=`<b>στωμυλιο·συλλεκτάδης, ου (ὁ)</b> <font color="purple">[μῠᾰ]</font> collectionneur, <i>c</i>. à. d. débitant de bavardages, AR. <i>Ran. 839</i>.<p><b>Étym</b>. στωμυλία, συλλέγω.`

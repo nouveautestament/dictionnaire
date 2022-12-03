@@ -1,1 +1,0 @@
-lar[22978]=`<b>ίδος (ἡ)</b> démon féminin, PROCL. <i>Plat. Tim. 15</i> ; HERMIAS <i>Phædr. 87</i>.<p><b>Étym</b>. δαίμων.`

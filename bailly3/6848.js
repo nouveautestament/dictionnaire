@@ -1,1 +1,0 @@
-lar[6848]=`<b>ου (ὁ)</b> destructeur, PROCL. PLUT. <i>p. 190</i>.<p><b>Étym</b>. ἀναιρέω.`

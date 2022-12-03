@@ -1,1 +1,0 @@
-lar[67757]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ναυμάχος, D. CHR.`

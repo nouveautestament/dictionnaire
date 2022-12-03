@@ -1,1 +1,0 @@
-lar[57538]=`<b>Κραμβο·βάτης (ὁ)</b> <font color="purple">[βᾰ]</font> Piétine-les-choux, <i>n. de rat,</i> BATR. <i>237, 241</i>.<p><b>Étym</b>. κράμβη, βαίνω.`

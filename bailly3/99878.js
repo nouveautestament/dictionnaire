@@ -1,1 +1,0 @@
-lar[99878]=`<b>τραγῳδο·ποδάγρα, ας (ἡ)</b> <font color="purple">[τρᾰ]</font> Tragédie de la goutte aux pieds, <i>titre d’un ouvrage de Lucien</i>.`

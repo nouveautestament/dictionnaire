@@ -1,1 +1,0 @@
-lar[59376]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> sorte de gâteau au miel baigné d’huile, MATR. (ATH. <i>656f</i>).<br><b>      2</b> feuille d’un gâteau feuilleté, ATH. <i>647e</i>.`

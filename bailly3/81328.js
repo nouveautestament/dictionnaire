@@ -1,1 +1,0 @@
-lar[81328]=`<b>ή, όν</b>, désiré <i>ou</i> désirable, EL. <i>N.A. 7, 3</i>.<p><b>Étym</b>. <i>vb. de</i> ποθέω.`

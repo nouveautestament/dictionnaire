@@ -1,1 +1,0 @@
-lar[68832]=`<b>νιτρόω-ῶ</b>, lessiver avec du nitre, SYN. <i>182d</i>.<p><b>Étym</b>. νίτρον.`

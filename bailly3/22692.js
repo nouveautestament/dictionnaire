@@ -1,1 +1,0 @@
-lar[22692]=`<b>οῦ (ὁ)</b> grognement, AGATHOCL. (ATH. <i>376a</i>).<p><b>Étym</b>. γρύζω.`

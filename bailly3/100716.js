@@ -1,1 +1,0 @@
-lar[100716]=`<b>τροπο·μάσθλης, ητος (ὁ)</b> <i>mot blâmé par</i> LUC. <i>Pseud. 24,</i> homme sans consistance, sans caractère.<p><b>Étym</b>. τρόπος, μάσθλης.`

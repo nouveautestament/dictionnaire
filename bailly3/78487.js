@@ -1,1 +1,0 @@
-lar[78487]=`<b>περι·γλαγής, ής, ές</b> <font color="purple">[ᾰ]</font> plein de lait, IL. <i>16, 642</i>.<p><b>Étym</b>. π. γλάγος.`

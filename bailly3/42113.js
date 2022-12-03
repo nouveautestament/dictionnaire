@@ -1,1 +1,0 @@
-lar[42113]=`<i>adv</i>., avec un beau soleil, ESCHL. <i>Eum. 906</i>.`

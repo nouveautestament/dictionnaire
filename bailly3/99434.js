@@ -1,1 +1,0 @@
-lar[99434]=`<b>ή, όν</b>, capable de supporter, patient, SCH.-AR. <i>Pl. 33</i>.<p><b>Étym</b>. τλητός.`

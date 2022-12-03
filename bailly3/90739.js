@@ -1,1 +1,0 @@
-lar[90739]=`<b>ου (ὁ)</b> Skellios, <i>h</i>. AR. <i>Av. 126</i> ; THC. <i>8, 89</i> ; PLAT. <i>Gorg. 472a, etc</i>.`

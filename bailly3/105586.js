@@ -1,1 +1,0 @@
-lar[105586]=`<b>φιλ·ευτράπελος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime l’enjouement, ARSTT. <i>Virt. et vit. 6, 5</i>.`

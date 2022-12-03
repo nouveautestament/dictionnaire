@@ -1,1 +1,0 @@
-lar[5232]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰμ]</font> charron, AR. <i>Eq. 464</i>.<p><b>Étym</b>. ἅμαξα, ἔργον.`

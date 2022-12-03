@@ -1,1 +1,0 @@
-lar[43073]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Eupompidas, <i>chef des Platéens,</i> THC. <i>3, 20 dout</i>.<p><b>Étym</b>. εὔπομπος.`

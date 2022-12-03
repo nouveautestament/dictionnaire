@@ -1,1 +1,0 @@
-lar[106788]=`<b>Φρασί·δαμος, ου (ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> Phrasidamos, <i>h</i>. THCR. <i>Idyl. 7 argum</i>.<p><b>Étym</b>. φράζω, δᾶμος, <i>dor. p</i>. δῆμος.`

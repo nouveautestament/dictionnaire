@@ -1,1 +1,0 @@
-lar[3834]=`<b>ἀκρό·ρριζος, ος, ον</b>, dont les racines sont presque à la surface, BAS. <i>1, 63</i>.<p><b>Étym</b>. ἄ. ῥίζα.`

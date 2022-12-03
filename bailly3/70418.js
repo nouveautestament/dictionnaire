@@ -1,1 +1,0 @@
-lar[70418]=`<b>ατος (τὸ) :<br>      1</b> garde de la maison, action de veiller sur, garde, EUR. <i>Her. 700</i>.<br><b>      2</b> femme qui garde la maison, EUR. <i>Hipp. 787, Or. 926</i>.<p><b>Étym</b>. οἰκουρέω.`

@@ -1,1 +1,0 @@
-lar[81290]=`<b>ποδο·κρουστία, ας (ἡ)</b> battement de pieds en signe d’approbation, STR. <i>470</i>.<p><b>Étym</b>. πούς, κρούω.`

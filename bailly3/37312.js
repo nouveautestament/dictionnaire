@@ -1,1 +1,0 @@
-lar[37312]=`<b>ἐπι·βαπτίζω</b>, plonger de nouveau <i>ou</i> en outre, JOS. <i>B.J. 1, 27, 1 ; 3, 7, 15</i>.`

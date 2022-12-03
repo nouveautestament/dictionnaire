@@ -1,1 +1,0 @@
-lar[107237]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> <i>dim. de</i> φύσημα <i>fig</i>. ARR. <i>Epict. 2, 16, 10</i>.`

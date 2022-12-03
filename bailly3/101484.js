@@ -1,1 +1,0 @@
-lar[101484]=`<b>ὑδερο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à une hydropisie, A. TR.<p><b>Étym</b>. ὕδερος, εἶδος.`

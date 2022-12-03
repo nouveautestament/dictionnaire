@@ -1,1 +1,0 @@
-lar[61275]=`<b>ου (ἡ)</b> Lipaxos, <i>v. de Macédoine,</i> HDT. <i>7, 123, etc</i>.`

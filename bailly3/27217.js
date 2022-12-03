@@ -1,1 +1,0 @@
-lar[27217]=`<b>εως (ἡ)</b> <font color="purple">[δῐ]</font> action de couper en deux, SEXT. <i>9, 284</i>.<p><b>Étym</b>. διχοτομέω.`

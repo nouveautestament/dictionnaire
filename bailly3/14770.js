@@ -1,1 +1,0 @@
-lar[14770]=`<b>ἀριστ·ώδιν, ινος (ἡ)</b> <font color="purple">[ᾰῑν]</font> qui enfante de nobles fils, A. PL. <i>221</i>.<p><b>Étym</b>. ἄ. ὠδίς.`

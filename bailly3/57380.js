@@ -1,1 +1,0 @@
-lar[57380]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Quintio, <i>n. d’h. rom</i>. PLUT. <i>Cato ma. 21</i>.`

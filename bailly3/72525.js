@@ -1,1 +1,0 @@
-lar[72525]=`<font color="purple">[ᾰ]</font> <i>adv</i>., au moyen d’instruments <i>ou</i> de ressorts, ARSTT. <i>Nic. 1, 9, 7</i> ; PHIL. BYZ. <i>Bel. 51d, etc</i>.`

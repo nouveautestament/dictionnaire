@@ -1,1 +1,0 @@
-lar[46105]=`<b>Θ, , ϑ, θ</b> (θῆτα) thêta, <i>8<sup>e</sup> lettre de l’alphabet grec ; comme chiffre, ϑʹ = 9, ͵ϑ = 9 000</i>.`

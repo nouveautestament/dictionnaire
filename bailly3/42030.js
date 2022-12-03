@@ -1,1 +1,0 @@
-lar[42030]=`<i>adv</i>., avec une diction facile <i>ou</i> élégante, DH. <i>Comp. 22</i>.<p><b>Étym</b>. εὐεπής.`

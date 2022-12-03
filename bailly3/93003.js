@@ -1,1 +1,0 @@
-lar[93003]=`<b>α, ον</b>, qui préside aux gonds, <i>càd</i>. gardien des portes, <i>ép. d’Hermès,</i> AR. <i>Pl. 1153, et d’Artémis, chez les Érythréens,</i> ATH. <i>259b</i>.<p><b>Étym</b>. στροφή.`

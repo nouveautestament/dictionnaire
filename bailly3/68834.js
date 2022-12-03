@@ -1,1 +1,0 @@
-lar[68834]=`<b>ιος (ἡ)</b> Nitôkris, <i>reine d’Égypte,</i> HDT. <i>2, 100, et de Babylone,</i> HDT. <i>1, 185</i>.`

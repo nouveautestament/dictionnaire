@@ -1,1 +1,0 @@
-lar[107224]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰδ]</font> Physadeia, <i>font. près d’Argos,</i> CALL. <i>L. Pall. 47</i>.`

@@ -1,1 +1,0 @@
-lar[70854]=`<b>ὀκτά·πους, ους, ουν</b>, <i>gén</i>. <b>ποδος</b> <font color="purple">[ᾰ]</font><br><b>      1</b> long <i>ou</i> large de huit pieds, BATR. <i>310</i> ; ANTH. <i>6, 96</i>.<br><b>      2</b> qui possède un attelage à huit pieds, <i>càd</i>. une paire de bœufs, LUC. <i>Scyth. 1</i>.<p><b>Étym</b>. ὀ. πούς.`

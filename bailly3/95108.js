@@ -1,1 +1,0 @@
-lar[95108]=`<b>συν·διάκονος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> aide d’un serviteur, POSIDIPP. (ATH. <i>376d</i>).<p>➳ ἡ σ. CLÉM. <i>536</i>.`

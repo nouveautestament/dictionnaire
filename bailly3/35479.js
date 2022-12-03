@@ -1,1 +1,0 @@
-lar[35479]=`<b>ἐξ·αναχωρέω-ῶ</b>, se retirer, reculer, HDT. <i>1, 207, etc. ; avec l’acc</i>. τὰ εἰρημένα, THC. <i>4, 28,</i> chercher à revenir sur ses déclarations.`

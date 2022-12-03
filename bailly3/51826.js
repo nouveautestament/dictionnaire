@@ -1,1 +1,0 @@
-lar[51826]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> tumeur cancéreuse, chancre, HPC. <i>1162d, etc.</i> ; PLUT. <i>M. 65b</i>.<p><b>Étym</b>. καρκινόω.`

@@ -1,1 +1,0 @@
-lar[84915]=`<b>προ·πείθω</b>, persuader d’avance <i>ou</i> auparavant, LUC. <i>Alex. 17</i>.`

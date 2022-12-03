@@ -1,1 +1,0 @@
-lar[47780]=`<b>όεσσα, όεν</b>, couvert de jonc, NIC. <i>Th. 200</i>.<p><b>Étym</b>. θρύον.`

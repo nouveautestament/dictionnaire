@@ -1,1 +1,0 @@
-lar[103746]=`<b>ὑπο·πτώσσω :<br>      1</b> <i>c</i>. ὑποπτήσσω, Q. SM. <i>5, 368 ; 7, 132</i>.<br><b>      2</b> se relâcher un peu, ARÉT. <i>Cur. m. diut. 1, 5</i>.`

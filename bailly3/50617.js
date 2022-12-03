@@ -1,1 +1,0 @@
-lar[50617]=`<b>ης (ἡ)</b> <i>c</i>. κακκάβη, marmite à trois pieds, GAL.`

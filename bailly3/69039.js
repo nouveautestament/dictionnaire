@@ -1,1 +1,0 @@
-lar[69039]=`<b>ου (τὸ)</b> Notion, <i>v. d’Ionie,</i> HDT. <i>1, 149</i> ; THC. <i>3, 34</i> ; XÉN. <i>Hell. 1, 2, 3, etc</i>.<p><b>Étym</b>. νότιος.`

@@ -1,1 +1,0 @@
-lar[73809]=`<b>ου (ὁ)</b> Opheltios :<br><b>      1</b> <i>Troyen,</i> IL. <i>6, 20</i>.<br><b>      2</b> <i>Grec,</i> IL. <i>11, 302</i>.<p><b>Étym</b>. ὀφέλλω.`

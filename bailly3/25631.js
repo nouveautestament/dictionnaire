@@ -1,1 +1,0 @@
-lar[25631]=`<b>δι·αστράπτω</b>, briller comme un éclair, SPT. <i>Sap. 16, 22</i> ; APOLLIN. <i>Ps. 17, 62</i>.`

@@ -1,1 +1,0 @@
-lar[35221]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. ἐνωπαδίως Q. SM. <i>2, 84</i>.<p><b>Étym</b>. ἐνωπή, -δον.`

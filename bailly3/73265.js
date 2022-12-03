@@ -1,1 +1,0 @@
-lar[73265]=`<b>ὀστεο·κόπος, ος, ον</b>, qui brise les os, TH. <i>fr. 7 ; subst</i>. ὁ ὀστ. courbature, HPC. <i>396, 9</i>.<p><b>Étym</b>. ὀστέον, κόπτω.`

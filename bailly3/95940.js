@@ -1,1 +1,0 @@
-lar[95940]=`<b>ή, όν :<br>      1</b> qui compose, qui assemble, qui combine, PLAT. <i>Pol. 308c.</i><br><b>      2</b> habile à composer, à bien disposer, <i>gén</i>. LUC. <i>H. conscr. 47</i> ; ἡ σ. ἐπιστήμη, DH. <i>Comp. 6, etc</i>. l’art de la composition.<p><b>Étym</b>. σύνθετος.`

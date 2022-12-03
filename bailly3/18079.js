@@ -1,1 +1,0 @@
-lar[18079]=`<b>εως (ἡ)</b> consécration, dédicace, DS. <i>1, 90</i> ; PLUT. <i>Popl. 15</i>.<p><b>Étym</b>. ἀφιερόω.`

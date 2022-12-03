@@ -1,1 +1,0 @@
-lar[16512]=`<b>ἀ·συνηγόρητος, ος, ον</b>, sans défenseur, sans appui, BAS. NYSS.<p><b>Étym</b>. ἀ, συνηγορέω.`

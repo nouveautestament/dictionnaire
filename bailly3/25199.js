@@ -1,1 +1,0 @@
-lar[25199]=`<b>δια·παπταίνω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. διεπάπταινεν)</font> tourner les yeux de tous côtés, <i>avec</i> πρός <i>et l’acc</i>. PLUT. <i>Fab. 11</i>.`

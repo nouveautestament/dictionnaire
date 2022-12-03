@@ -1,1 +1,0 @@
-lar[17452]=`<b>αὐτό·δικος, ος, ον</b> <font color="purple">[ῐ]</font> qui a sa juridiction propre, indépendant, JOS. <i>A.J. 19, 2, 2 ; joint à</i> αὐτόνομος <i>et</i> αὐτοτελής, THC. <i>5, 18</i>.<p><b>Étym</b>. αὐ. δίκη.`

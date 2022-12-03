@@ -1,1 +1,0 @@
-lar[93339]=`<b>συγ·καταναυμαχέω-ῶ</b> <font color="purple">[μᾰ]</font> vaincre ensemble <i>ou</i> en même temps dans un combat naval, <i>acc</i>. ESCHN. <i>38, 23</i> ; DS. <i>5, 52</i>.`

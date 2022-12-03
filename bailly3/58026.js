@@ -1,1 +1,0 @@
-lar[58026]=`<b>όεσσα, όεν</b>, de la couleur de safran, d’un jaune de safran, EUR. <i>Ph. 1505</i> ; ANTH. <i>9, 338</i> ; THCR. <i>Idyl. 1, 31, etc. ; subst</i>. ὁ κρ. (<i>s.-e</i>. χιτών) AR. <i>Th. 1044, c</i>. κροκωτός.<p><b>Étym</b>. κρόκος.`

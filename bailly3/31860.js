@@ -1,1 +1,0 @@
-lar[31860]=`<b>ἐκ·πλεθρίζω</b>, courir la longueur d’un plèthre (100 pieds grecs) en décrivant des cercles concentriques de moins en moins larges, GAL. <i>6, 86d</i>.<p><b>Étym</b>. ἐκ, πλέθρον.`

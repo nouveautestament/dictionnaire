@@ -1,1 +1,0 @@
-lar[70861]=`<b>ὀκτά·στιχος, ος, ον</b> <font color="purple">[ῐ]</font> à huit vers, SYN. <i>313</i>.<p><b>Étym</b>. ὀ. στίχος.`

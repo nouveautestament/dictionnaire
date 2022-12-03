@@ -1,1 +1,0 @@
-lar[99292]=`<b>οῦ (ὁ)</b> fumée, vapeur (d’un chaudron, <i>etc</i>.) LYC. <i>36</i>.`

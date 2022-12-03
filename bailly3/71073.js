@@ -1,1 +1,0 @@
-lar[71073]=`<b>ὀλιγο·φιλία, ας (ἡ)</b> <font color="purple">[ῐφῐ]</font> petit nombre d’amis, ANT. <i>fr. 75 Blass</i> ; ARSTT. <i>Rhet. 2, 8</i>.<p><b>Étym</b>. ὀλ. φίλος.`

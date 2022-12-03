@@ -1,1 +1,0 @@
-lar[72616]=`<b>ὀρεί·χαλκος, ου (ὁ)</b> orichalque <i>ou</i> laiton, <i>sorte de cuivre,</i> HH. <i>5, 9</i> ; HÉS. <i>Sc. 122</i> ; PLAT. <i>Criti. 114e, etc</i>.<p><b>Étym</b>. ὄρος, χαλκός.`

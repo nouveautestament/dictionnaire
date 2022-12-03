@@ -1,1 +1,0 @@
-lar[85156]=`<b>προσ·αναλικμάω-ῶ</b>, passer en outre au crible, GEOP. <i>5, 32, 2</i>.`

@@ -1,1 +1,0 @@
-lar[55906]=`<b>Κλεο·μήδης, ους (ὁ)</b> Kléomèdès :<br><b>      1</b> <i>général athénien,</i> THC. <i>5, 84</i>.<br><b>      2</b> <i>l’un des trente tyrans,</i> XÉN. <i>Hell. 2, 3, 2</i>.<p><b>Étym</b>. κλ. μήδομαι.`

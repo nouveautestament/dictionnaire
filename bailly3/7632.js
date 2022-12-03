@@ -1,1 +1,0 @@
-lar[7632]=`<b>οῦ (ὁ)</b> supplice du pal, NYSS. <i>1, 835</i>.`

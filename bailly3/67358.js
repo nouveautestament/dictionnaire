@@ -1,1 +1,0 @@
-lar[67358]=`<b>η, ον</b> <font color="purple">[ῐ]</font> <i>néo-att. c</i>. μύρρινος, CALL. <i>Dian. 202</i>.`

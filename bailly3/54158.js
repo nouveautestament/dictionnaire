@@ -1,1 +1,0 @@
-lar[54158]=`<b>κατ·οπτρίζω :<br>      1</b> montrer comme dans un miroir, <i>acc</i>. PLUT. <i>M. 894d.</i><br><b>      2</b> regarder comme dans un miroir, <i>acc</i>. NT. <i>2Cor. 3, 18</i>.<br><b><i>Moy.</i></b> se mirer, ATH. <i>687c ;</i> DL. <i>2, 33</i>.<p><b>Étym</b>. κάτοπτρον.`

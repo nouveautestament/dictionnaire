@@ -1,1 +1,0 @@
-lar[102158]=`<b>ὑπ·εκχέω</b>, verser, répandre doucement, A.RH. <i>3, 705 ; fig</i>. PLUT. <i>M. 78e</i>.<p>➳ <i>Ao.2 pass. 3 sg</i>. ὑπεξέχυτο, A.RH. <i>l. c</i>.`

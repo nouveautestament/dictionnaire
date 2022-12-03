@@ -1,1 +1,0 @@
-lar[66118]=`<b>α, ον</b> <font color="purple">[ῐῠ]</font> de Mitylène, PLUT. <i>T. Gracch. 8</i> ; ANTH. <i>7, 17 ; 11, 34, etc.</i> ; EL. <i>N.A. 11, 29</i> ; οἱ Μιτυληναῖοι, les Mityléniens, ANT. <i>5, 76 Baiter-Sauppe</i> ; ARSTT. <i>Pol. 3, 14, etc.</i> ; PLUT. <i>Sol. 14, etc</i>.<p><b>Étym</b>. Μιτυλήνη.`

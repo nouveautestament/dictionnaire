@@ -1,1 +1,0 @@
-lar[109629]=`<b>ψευδ·αλαζών, όνος (ὁ, ἡ)</b> <font color="purple">[ᾰλ]</font> qui se vante faussement, vantard, COM. (DL. <i>2, 108</i>).`

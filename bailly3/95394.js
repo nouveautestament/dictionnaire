@@ -1,1 +1,0 @@
-lar[95394]=`<b>συν·εκπονέω-ῶ :<br>      1</b> aider à accomplir <i>ou</i> à supporter, <i>acc</i>. EUR. <i>Hel. 1378, I.T. 1063, etc.</i> ; STR. <i>737</i> ; PLUT. <i>M. 808d.</i><br><b>      2</b> <i>p. suite,</i> se donner de la peine pour, venir en aide à, assister, <i>dat</i>. EUR. <i>Ion 850, fr. 132 Nauck</i>.`

@@ -1,1 +1,0 @@
-lar[3793]=`<b>ἀκρο·λίνιον, ου (τὸ)</b> <font color="purple">[λῐ]</font> extrémité d’un filet, XÉN. <i>Cyn. 2, 6 ; 6, 9</i>.<p><b>Étym</b>. ἄ. λίνον.`

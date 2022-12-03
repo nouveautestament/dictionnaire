@@ -1,1 +1,0 @@
-lar[3253]=`<b>ων (οἱ)</b> graine <i>ou</i> fruit semblable à une lentille, PHÉRÉCR. <i>fr. 169</i>.`

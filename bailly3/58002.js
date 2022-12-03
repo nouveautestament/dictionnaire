@@ -1,1 +1,0 @@
-lar[58002]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> caillou rond du bord de la mer, ANTH. <i>7, 479</i>.<br><b>      2</b> <i>p. ext</i>. bord de la mer, grève, EUR. <i>I.A. 211</i> ; ANTH. <i>6, 186, etc</i>.`

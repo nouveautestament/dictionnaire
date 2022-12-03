@@ -1,1 +1,0 @@
-lar[49904]=`<b>ἰσχνο·σκελής, ής, ές</b>, aux jambes maigres, grêles, DL. <i>5, 1</i> ; GAL. <i>6, 143</i>.<p><b>Étym</b>. ἰ. σκέλος.`

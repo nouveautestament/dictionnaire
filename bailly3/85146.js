@@ -1,1 +1,0 @@
-lar[85146]=`<b>προσ·ανακλαίω</b>, pleurer avec : τινί τι, SYN. <i>227b</i>, avec qqn sur qqe ch.`

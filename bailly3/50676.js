@@ -1,1 +1,0 @@
-lar[50676]=`<b>κακο·ανάστροφος, ος, ον</b> <font color="purple">[κᾰ]</font> difficile à retourner, <i>fig</i>. intraitable, insociable, PROCL. <i>Ptol. p. 233</i>.<p><b>Étym</b>. κ. ἀναστρέφω.`

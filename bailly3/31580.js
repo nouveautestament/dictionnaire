@@ -1,1 +1,0 @@
-lar[31580]=`<i>adv</i>., d’une manière choisie, remarquablement, AQU. <i>Ps. 2, 12</i>.`

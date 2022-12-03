@@ -1,1 +1,0 @@
-lar[83849]=`<b>προ·γεννάω-ῶ</b>, engendrer auparavant, TH. <i>C.P. 1, 20, 3</i> ; CLÉM. <i>769</i>.`

@@ -1,1 +1,0 @@
-lar[27838]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν</b> <i>(genre inconnu) mot macéd</i>. sorte de pain, ATH. <i>114b ;</i> SÉLEUC. (ATH. <i>114b acc</i>. -ιν).`

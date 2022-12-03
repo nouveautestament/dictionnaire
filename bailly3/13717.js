@@ -1,1 +1,0 @@
-lar[13717]=`<b>ή, όν</b> <font color="purple">[φᾰ]</font> négatif, <i>p. opp. à</i> καταφατικός, ARSTT. <i>An. pr. 1, 1 etc</i>.<p><b>Étym</b>. ἀπόφημι.`

@@ -1,1 +1,0 @@
-lar[74986]=`<b>παν·έξοχος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait supérieur, ORPH. <i>Arg. 80</i> ; OPP. <i>C. 1, 477 ; avec le gén</i>. MAN. <i>2, 30</i>.<p><b>Étym</b>. π. ἔξοχος.`

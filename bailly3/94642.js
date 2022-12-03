@@ -1,1 +1,0 @@
-lar[94642]=`<b>συν·αλέω-ῶ</b> <font color="purple">[ᾰ]</font> réduire en poudre, GEOP. <i>15, 2, 23</i>.`

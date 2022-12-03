@@ -1,1 +1,0 @@
-lar[97843]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Taphos, OD. <i>15, 427 ; 16, 426</i> ; EUR. <i>I.A. 284, etc.</i> ; οἱ Τ. OD. <i>1, 181 ; 17, 426,</i> les habitants de Taphos.<p><b>Étym</b>. Τάφος.`

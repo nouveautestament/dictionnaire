@@ -1,1 +1,0 @@
-lar[109319]=`<b>χρυσ·ωπός, ός, όν</b> <font color="purple">[ῡ]</font><br><b>      1</b> aux yeux <i>ou</i> au visage d’or, PLUT. <i>Syll. 6</i>.<br><b>      2</b> <i>p. ext</i>. brillant d’or, EUR. <i>El. 740 ; subst</i>. ὁ χρ. PLUT. <i>M. 977e</i>, la dorade (<i>v</i>. χρυσόφρυς) <i>poisson</i>.<p><b>Étym</b>. χρ. ὤψ.`

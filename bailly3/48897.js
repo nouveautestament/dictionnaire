@@ -1,1 +1,0 @@
-lar[48897]=`<i>adv</i>., d’une manière favorable, MOSCHION <i>Mul. pass. 52, p. 24</i>.<p><b>Étym</b>. ἵλεως.`

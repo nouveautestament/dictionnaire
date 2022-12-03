@@ -1,1 +1,0 @@
-lar[93275]=`<b>εως (ἡ)</b> <font color="purple">[ρᾱ]</font> action de vieillir ensemble, PLAT. <i>Leg. 930b</i>.<p><b>Étym</b>. συγκαταγηράσκω.`

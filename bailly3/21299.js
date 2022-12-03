@@ -1,1 +1,0 @@
-lar[21299]=`<b>ου (τὸ)</b> Gambrion, <i>v. de Mysie,</i> XÉN. <i>Hell. 3, 1, 6</i>.`

@@ -1,1 +1,0 @@
-lar[75977]=`<b>παρα·νεύω</b>, se pencher de côté, HIPPIATR. <i>111, 23</i>.`

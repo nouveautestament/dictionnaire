@@ -1,1 +1,0 @@
-lar[14324]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font><br><b>      1</b> coupe <i>ou</i> vase d’argent, PD. <i>O. 9, 97</i> ; ATH. <i>502a, etc.</i><br><b>      2</b> pièce d’argent, drachme, ALEXARCH. (ATH. <i>98c</i>).<p>➳ <i>Dat. pl. poét</i>. -ίδεσσι, PD. <i>l. c</i>.<p><b>Étym</b>. ἄργυρος.`

@@ -1,1 +1,0 @@
-lar[24733]=`<b>δια·καταπονέω-ῶ</b>, fatiguer sans cesse, CHRYS. <i>6, 914</i>.`

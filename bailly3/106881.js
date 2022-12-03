@@ -1,1 +1,0 @@
-lar[106881]=`<b>εως (ἡ)</b> <font color="purple">[ῑκᾰ]</font> frissonnement de fièvre, DIOSC. <i>Noth. p. 478</i>.<p><b>Étym</b>. φρικιάω.`

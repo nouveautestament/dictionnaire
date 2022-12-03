@@ -1,1 +1,0 @@
-lar[71573]=`<b>ατος (τὸ)</b> objet ressemblant, image, PLAT. <i>Phædr. 250a ;</i> ARSTT. <i>Rhet. 1, 2, 3, etc</i>.<p><b>Étym</b>. ὁμοιόω.`

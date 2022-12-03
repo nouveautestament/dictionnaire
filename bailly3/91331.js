@@ -1,1 +1,0 @@
-lar[91331]=`<b>(ὁ)</b> Skymbratès, <i>h</i>. PLUT. <i>Parall. min. 26</i>.`

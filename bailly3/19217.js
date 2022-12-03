@@ -1,1 +1,0 @@
-lar[19217]=`<b>βαρύ·υπνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> au sommeil lourd, NONN. <i>D. 48, 765</i>.<p><b>Étym</b>. β. ὕπνος.`

@@ -1,1 +1,0 @@
-lar[105439]=`<b>φιλ·αίακτος, ος, ον</b> <font color="purple">[ῐ]</font> qui se plaît aux gémissements, lamentable, ESCHL. <i>Suppl. 803</i>.<p><b>Étym</b>. φίλος, αἰάζω.`

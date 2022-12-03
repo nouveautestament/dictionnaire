@@ -1,1 +1,0 @@
-lar[11627]=`<b>ἀπ·εκδύω</b>, <i>d’où moy</i>. ἀπεκδύομαι <font color="darkgreen">(<i>ao.1</i> ἀπεκδυσάμην, <i>part. ao.2</i> ἀπεκδύς) :</font><br><b>      1</b> quitter un vêtement, JOS. <i>A.J. 6, 14, 2</i>.<br><b>      2</b> <i>p. ext</i>. dépouiller de, <i>acc</i>. BAS. <i>1, 569</i>.`

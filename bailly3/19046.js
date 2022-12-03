@@ -1,1 +1,0 @@
-lar[19046]=`<b>βάπυρον ὄρος (τὸ)</b> le mt Bapyron, <i>en Asie,</i> ARSTT. <i>Vent. 1</i>.`

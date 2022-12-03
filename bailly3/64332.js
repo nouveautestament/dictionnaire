@@ -1,1 +1,0 @@
-lar[64332]=`<b>μενε·χάρμης, ου (ὁ)</b> qui combat de pied ferme, IL. <i>9, 529 ; 11, 122, etc</i>.<p><b>Étym</b>. μ. χάρμη.`

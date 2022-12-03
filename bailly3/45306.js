@@ -1,1 +1,0 @@
-lar[45306]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui se fait pendant le jour, OD. <i>2, 104</i> ; HÉS. <i>Th. 597</i>.<br><b>      2</b> du jour (lumière) ANTH. <i>9, 651</i>.<br><b>      3</b> de chaque jour, IL. <i>9, 72</i>.<p><b>Étym</b>. ἦμαρ.`

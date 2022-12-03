@@ -1,1 +1,0 @@
-lar[28563]=`<b>δυσ·κατάρτιστος, ος, ον</b> <font color="purple">[κᾰ]</font> qui ne peut exécuter <i>ou</i> accomplir, HIPPIATR. <i>p. 54</i>.<p><b>Étym</b>. δ. καταρτίζω.`

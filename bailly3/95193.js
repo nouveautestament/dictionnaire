@@ -1,1 +1,0 @@
-lar[95193]=`<i>seul. sous la forme</i> <b>ξυνδίκως</b>, <i>adv. c</i>. σύν <i>simple,</i> avec, <i>ou, selon d’autres,</i> selon le droit, justement, <i>hapax</i> ESCHL. <i>Ag. 1601</i>.`

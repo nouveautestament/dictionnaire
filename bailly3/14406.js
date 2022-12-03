@@ -1,1 +1,0 @@
-lar[14406]=`<b>υος</b>, <i>acc</i>. <b>υν (ὁ)</b> Ardys, <i>ancien roi de Lydie,</i> HDT. <i>1, 15</i>.`

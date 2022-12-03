@@ -1,1 +1,0 @@
-lar[43652]=`<b>ας (ἡ) :<br>      1</b> <i>act</i>. action de bien nourrir, bonne nourriture, PLAT. <i>Prot. 531a ; cf</i>. ARSTT. <i>H.A. 5, 8, 6</i>.<br><b>      2</b> <i>pass</i>. état d’un être bien nourri, bonne constitution, force, TH. <i>H.P. 4, 11, 4</i>.<p><b>Étym</b>. εὔτροφος.`

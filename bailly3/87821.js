@@ -1,1 +1,0 @@
-lar[87821]=`<font color="purple">[ῠ]</font> allumer, <i>acc</i>. PLAT. <i>Leg. 843e</i>.<p><b>Étym</b>. πῦρ.`

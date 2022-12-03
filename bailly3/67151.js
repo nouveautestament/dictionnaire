@@ -1,1 +1,0 @@
-lar[67151]=`<b>ατος (τὸ)</b> sorte de ragoût, EPÆNÉT. (ATH. <i>663e</i>).`

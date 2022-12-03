@@ -1,1 +1,0 @@
-lar[108092]=`<b>χείρ·ακρα, ων (τὰ)</b> le bout des doigts, POLÉM. <i>Physiogn. 2, 15</i>.<p><b>Étym</b>. χ. ἄκρος.`

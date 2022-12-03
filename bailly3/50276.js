@@ -1,1 +1,0 @@
-lar[50276]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> pur, propre, ARSTT. <i>Rhet. 2, 4, 15</i>.<p>➳ <i>Forme att.</i> ; καθάριος <i>postérieur</i>.`

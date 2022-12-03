@@ -1,1 +1,0 @@
-lar[54808]=`<b>Κεραμικὸς κόλπος (ὁ)</b> le golfe Céramique <i>ou</i> de Kéramos, <i>en Carie,</i> XÉN. <i>Hell. 1, 4, 8</i>.`

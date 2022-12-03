@@ -1,1 +1,0 @@
-lar[70594]=`<b>οἰνο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime le vin, ANTH. <i>App. 225</i>.<p><b>Étym</b>. οἶν. χαίρω.`

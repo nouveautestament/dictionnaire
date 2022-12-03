@@ -1,1 +1,0 @@
-lar[94709]=`<b>συν·ανάκειμαι</b>, se mettre à table avec, <i>dat</i>. NT. <i>Matth. 9, 10, etc</i>.`

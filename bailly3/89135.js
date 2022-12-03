@@ -1,1 +1,0 @@
-lar[89135]=`<b>σακκο·φόρος, ος, ον</b>, qui porte un vêtement grossier <i>ou</i> σάκκος, PLUT. <i>M. 239c</i>.<p><b>Étym</b>. σάκκος, φέρω.`

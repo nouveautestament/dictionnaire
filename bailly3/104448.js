@@ -1,1 +1,0 @@
-lar[104448]=`<b>ὑψηλο·κάρδιος, ος, ον</b>, qui a le cœur haut, <i>en mauv. part,</i> fier, orgueilleux, SPT. <i>Prov. 16, 5</i>.<p><b>Étym</b>. ὑ. καρδία.`

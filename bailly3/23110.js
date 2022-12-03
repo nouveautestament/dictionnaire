@@ -1,1 +1,0 @@
-lar[23110]=`<b>(ὁ)</b> sorte de figue, EUP. (HSCH.) ; CHŒROB. <i>(Bkk. 1197</i>).`

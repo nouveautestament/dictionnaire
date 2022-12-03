@@ -1,1 +1,0 @@
-lar[98492]=`<b>α, ον :<br>      1</b> qui se produit le quatrième jour, HDT. <i>2, 89</i> ; PLAT. <i>Rsp. 616b ;</i> τ. πυρετός, PLAT. <i>Tim. 86a ; abs</i>. τ. HPC. <i>Aph. 1245, etc</i>. fièvre quarte.<br><b>      2</b> quatrième, ARAT. <i>806</i>.<p><b>Étym</b>. τέταρτος.`

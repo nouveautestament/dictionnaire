@@ -1,1 +1,0 @@
-lar[45689]=`<b>ἦν·οψ, οπος (ὁ, ἡ)</b> (<i>touj. dans la loc</i>. ἤνοπι χαλκῷ) à l’aspect brillant, éclatant, IL. <i>16, 408 ; 18, 349</i> ; OD. <i>10, 360</i> ; POÈT. (SUID.).<p><b>Étym</b>. <i>pour</i> *ϝῆν-οψ, <i>étymol. du premier terme inconnue ; p. le second terme v</i>. ὄψ², ὄπωπα ; <i>cf</i>. αἶθοψ, νῶροψ.`

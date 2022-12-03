@@ -1,1 +1,0 @@
-lar[10034]=`<b>ή, όν :<br>      1</b> propre à saisir, à percevoir (le son, la parole, <i>etc.) gén</i>. T. LOCR. <i>100c ;</i> PLAT. <i>Def. 416</i> ; PLUT. <i>M. 98b.</i><br><b>      2</b> qui empêche toute prise, qui facilite le glissement, TH. <i>C.P. 1, 6, 4</i>.<p>➳ <i>Dor</i>. -λαπτικός, T. LOCR. <i>l. c</i>.<p><b>Étym</b>. ἀντιλαμβάνω.`

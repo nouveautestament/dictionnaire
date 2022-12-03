@@ -1,1 +1,0 @@
-lar[102342]=`<b>ου (ὁ)</b> le mois Hyperbérétæos, <i>le dernier du calendrier Macédonien et chez les Grecs d’Asie,</i> JOS. <i>A.J. 8, 4, 1</i> ; GAL. <i>4, 263 ; prov</i>. Ὑπερβερεταῖα, ZÉNOB. <i>6, 30</i> ; DIOGÉN. <i>8, 63,</i> choses du mois Hyperbérétæos, <i>en parl. d’affaires qu’on remet sans cesse</i>.`

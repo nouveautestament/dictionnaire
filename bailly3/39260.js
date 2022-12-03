@@ -1,1 +1,0 @@
-lar[39260]=`<b>ἐπι·συστρέφω</b>, rassembler, réunir, SPT. <i>Num. 16, 42 ; 1 Macc. 14, 44</i> ; JOS. <i>A.J. 13, 13, 3</i> ; LGN <i>24</i>.`

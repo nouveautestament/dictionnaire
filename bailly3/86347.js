@@ -1,1 +1,0 @@
-lar[86347]=`<b>προσποιή·σοφος</b>, <i>ou mieux</i> <b>προσποιησί·σοφος, ος, ον</b> <font color="purple">[ῐ]</font> qui feint d’être sage, qui se donne pour sage, PTOL. <i>Tetr. 163</i>.<p><b>Étym</b>. προσποιέομαι, σοφός.`

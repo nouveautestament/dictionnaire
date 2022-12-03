@@ -1,1 +1,0 @@
-lar[59245]=`<b>ωπος (ὁ)</b> cousin, <i>insecte,</i> ESCHL. <i>Ag. 893</i> ; HDT. <i>2, 95</i> ; ARSTT. <i>H.A. 4, 7 et 8, etc</i>.<p><b>Étym</b>. <i>probabl. pré-grec</i>.`

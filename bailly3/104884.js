@@ -1,1 +1,0 @@
-lar[104884]=`<b>ου</b> <font color="purple">[ᾰῐ]</font> <i>adj. m</i>. pharisien, NT. <i>Matth. 3, 7, etc.</i> ; NONN. <i>Jo. 12, 10</i>.`

@@ -1,1 +1,0 @@
-lar[99492]=`<i>ion</i>. <b>τοιχογραφίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> écriture <i>ou</i> peinture sur une muraille, ARÉT. <i>Cur. m. acut. 1, 1</i>.<p><b>Étym</b>. τοιχογράφος.`

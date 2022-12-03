@@ -1,1 +1,0 @@
-lar[41027]=`<b>(ὁ λόφος)</b> = <i>lat</i>. collis Esquilinus, <i>le mt Esquilin, à Rome,</i> DH. <i>2, 37</i> ; Ἐσκυλῖναι πύλαι = porta Esquilina, la porte Esquiline, DH. <i>9, 68</i>.`

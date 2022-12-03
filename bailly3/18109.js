@@ -1,1 +1,0 @@
-lar[18109]=`<b>ἀ·φιλοπλουτία, ας (ἡ)</b> <font color="purple">[φῐ]</font> mépris <i>ou</i> indifférence pour les richesses, PLUT. <i>Lys. c. Syll. 3</i>.<p><b>Étym</b>. ἀ, φιλόπλουτος.`

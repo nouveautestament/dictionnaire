@@ -1,1 +1,0 @@
-lar[8283]=`<i>adv</i>., bassement sordidement, XÉN. <i>Ap. 9</i> ; ALEX. (ATH. <i>40f</i>) ; PLUT. <i>Luc. 19</i>.`

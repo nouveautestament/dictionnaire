@@ -1,1 +1,0 @@
-lar[48893]=`<i>(seul. prés.) ion. c</i>. ἱλάομαι, ESCHL. <i>Suppl. 117, 128</i>.`

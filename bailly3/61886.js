@@ -1,1 +1,0 @@
-lar[61886]=`<b>*λυκο·εργής, ής, ές</b> <font color="purple">[ῠ]</font> qui écarte, <i>ou p.-ê</i>. qui tue les loups, HDT. <i>7, 76</i>.<p><b>Étym</b>. <i>leçon fausse p</i>. λυκιοεργής.`

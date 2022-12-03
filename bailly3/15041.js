@@ -1,1 +1,0 @@
-lar[15041]=`<i>adv</i>., hâtivement, SCH.-OD. <i>6, 250</i>.`

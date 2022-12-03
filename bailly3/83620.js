@@ -1,1 +1,0 @@
-lar[83620]=`<b>προ·απαντλέω-ῶ</b>, arroser d’abord d’en haut, HIPPIATR. <i>p. 90</i>.`

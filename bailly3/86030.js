@@ -1,1 +1,0 @@
-lar[86030]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de briser ses flots, DS. <i>3, 19</i>.<p><b>Étym</b>. προσκλύζω.`

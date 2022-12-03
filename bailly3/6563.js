@@ -1,1 +1,0 @@
-lar[6563]=`<b>ἀνα·βράσσω</b>, <i>att</i>. -βράττω :<br><b>      1</b> faire bouillir, <i>acc</i>. AR. <i>Ran. 510, Ach. 1005, etc.</i><br><b>      2</b> faire jaillir <i>ou</i> rejeter en bouillonnant, ARSTT. <i>Meteor. 2, 8, 42</i>.`

@@ -1,1 +1,0 @@
-lar[93430]=`<b>συγ·κεραυνόω</b>, <i>anc. att</i>. <b>ξυγ·κεραυνόω-ῶ</b>, foudroyer ensemble <i>ou</i> en même temps, <i>acc</i>. EUR. <i>Bacch. 1103</i> ; CRAT. (<i>Com. fr. 2, 122) ; fig</i>. frapper de stupeur, ARCHIL. <i>72</i>.`

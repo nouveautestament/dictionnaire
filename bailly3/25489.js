@@ -1,1 +1,0 @@
-lar[25489]=`<b>δι·αρταμέω-ῶ</b> <font color="purple">[τᾰ]</font> couper en morceaux, <i>d’où</i> déchirer, ESCHL. <i>Pr. 1023</i> ; ANAXANDR. (ATH. <i>455f</i>) ; OPP. <i>H. 2, 622</i> ; PHIL. <i>2, 564</i>.`

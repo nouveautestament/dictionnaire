@@ -1,1 +1,0 @@
-lar[18874]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. χώρα, la Bactriane, <i>province de l’empire perse (cf</i>. βάκτρα), EL. POL. <i>etc</i>.`

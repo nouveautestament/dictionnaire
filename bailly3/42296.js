@@ -1,1 +1,0 @@
-lar[42296]=`<b>εὐθύ·ρριζος, ος, ον</b>, aux racines droites, TH. <i>H.P. 1, 7, 2</i>.<p><b>Étym</b>. εὐ. ῥίζα.`

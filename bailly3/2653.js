@@ -1,1 +1,0 @@
-lar[2653]=`<b>ου</b>, <i>adj. m</i>. d’Ænos, <i>mt. de Céphallénie, ép. de Zeus,</i> HÉS. (SCH.-A.RH. <i>2, 297</i>).`

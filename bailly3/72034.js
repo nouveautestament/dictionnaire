@@ -1,1 +1,0 @@
-lar[72034]=`<b>ὀνυχόω-ῶ</b> <font color="purple">[ῠ]</font> tailler en forme d’ongle, ORIB. <i>p. 94, 16 Cocch</i>.<p><b>Étym</b>. ὄνυξ.`

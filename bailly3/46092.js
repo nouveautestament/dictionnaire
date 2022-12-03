@@ -1,1 +1,0 @@
-lar[46092]=`<b>ης, ες :<br>      1</b> sonore, D. PHAL. <i>42</i>.<br><b>      2</b> qui bourdonne dans les oreilles, HPC. <i>145c</i>.<p><b>Étym</b>. ἦχος, -ωδης.`

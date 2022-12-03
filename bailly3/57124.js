@@ -1,1 +1,0 @@
-lar[57124]=`<b>ου (τὸ)</b> tempe, NIC. <i>Al. 414 au plur</i>.<p><b>Étym</b>. <i>v</i>. κορσεῖον.`

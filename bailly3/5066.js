@@ -1,1 +1,0 @@
-lar[5066]=`<b>Ἀλφί·νοος-ους, όου-ου (ὁ)</b> Alphinoos (<i>litt</i>. à l’esprit industrieux) <i>h</i>. HERMIPP. (PLUT. <i>X orat. Hyper</i>.).<p><b>Étym</b>. ἀλφάνω, νόος.`

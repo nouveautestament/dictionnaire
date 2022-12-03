@@ -1,1 +1,0 @@
-lar[37020]=`<b>ἐπ·εκβαίνω</b> <font color="darkgreen">(<i>ao.2</i> ἐπεξέβην) :</font><br><b>      1</b> déborder sur, <i>acc</i>. ANTH. <i>7, 393 ; 9, 276</i>.<br><b>      2</b> sortir pour aller sur, descendre (à terre) THC. <i>1, 49 ; 8, 105</i>.`

@@ -1,1 +1,0 @@
-lar[52821]=`<b>ος, ον</b>, méprisé, méprisable, SOPH. <i>O.C. 1235 ; neutre plur. adv</i>. SOPH. <i>O.C. 1695</i>.<p><b>Étym</b>. καταμέμφομαι.`

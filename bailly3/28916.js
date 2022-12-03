@@ -1,1 +1,0 @@
-lar[28916]=`<b>δυσ·τερπής, ής, ές</b>, pénible, affligeant, ESCHL. <i>Ch. 277</i>.<p><b>Étym</b>. δ. τέρπω.`

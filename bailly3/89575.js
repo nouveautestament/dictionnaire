@@ -1,1 +1,0 @@
-lar[89575]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> sécheresse de la langue qui est comme fixée au palais, ARSTT. <i>Probl. 27, 3, 3</i>.<p><b>Étym</b>. <i>inconnue</i>.`

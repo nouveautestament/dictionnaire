@@ -1,1 +1,0 @@
-lar[31273]=`<b>ἑκηβολέω-ῶ</b>, lancer de loin <i>ou</i> au loin, M. TYR. <i>1, 107</i>.<p><b>Étym</b>. ἑκηβόλος.`

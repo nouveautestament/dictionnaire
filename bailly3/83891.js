@@ -1,1 +1,0 @@
-lar[83891]=`<b>ορος (ὁ)</b> qui fait connaître l’avenir, HDT. <i>7, 37</i>.<p><b>Étym</b>. <i>ion. c</i>. *προδείκτωρ, <i>de</i> προδείκνυμι.`

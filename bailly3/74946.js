@@ -1,1 +1,0 @@
-lar[74946]=`<b>έως (ὁ)</b> aubergiste, qui héberge <i>ou</i> accueille tout le monde, PLAT. <i>Leg. 918b ;</i> PLUT. <i>M. 234e ; fig. en parl. d’Hadès,</i> LYC. <i>655</i> ; πάσης κακίας, PLAT. <i>Rsp. 580a</i>, qui entretient tous les vices.<p><b>Étym</b>. π. δέχομαι.`

@@ -1,1 +1,0 @@
-lar[103219]=`<b>ὑπο·δωρίζω</b>, parler un peu comme les Doriens, SYN. <i>279b</i>.`

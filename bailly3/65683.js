@@ -1,1 +1,0 @@
-lar[65683]=`<b>μικκό·τρωγος, ος, ον</b>, petit mangeur, <i>n. d’un parasite,</i> PLAUT. <i>Stich. 1, 3, 88</i>.<p><b>Étym</b>. μικκός, τρώγω.`

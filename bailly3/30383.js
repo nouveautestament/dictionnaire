@@ -1,1 +1,0 @@
-lar[30383]=`<b>εἰκοσι·πέντε</b> <font color="purple">[ῐ]</font> vingt-cinq, DÉM. <i>926, 4</i> ; SPT. <i>3Reg. 16, 28 ; 1Esdr. 1, 37 ; Ezech. 40, 21</i>.<p><b>Étym</b>. εἴ. πέντε.`

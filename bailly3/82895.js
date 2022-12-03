@@ -1,1 +1,0 @@
-lar[82895]=`<font color="purple">[ᾰ]</font> <i>adv. interr</i>. de combien de sortes ? ARSTT. <i>Rhet. 2, 23, 9, etc</i>.<p><b>Étym</b>. π. -αχως.`

@@ -1,1 +1,0 @@
-lar[28829]=`<b>δυσ·πολέμητος, ος, ον</b>, contre qui l’on ne peut guerroyer, invincible, ESCHL. <i>Suppl. 649</i> ; ISOCR. <i>69a ;</i> DÉM. <i>41, 9 ; 156, 10, etc</i>.<p><b>Étym</b>. δ. πολεμέω.`

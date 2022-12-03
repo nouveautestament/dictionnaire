@@ -1,1 +1,0 @@
-lar[75491]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> action de faire un exemple <i>en infligeant une peine militaire,</i> POL. <i>15, 20, 15, etc.</i><br><b>      2</b> peine infamante infligée pour l’exemple, POL. <i>6, 38, 4</i>.<p><b>Étym</b>. παραδειγματίζω.`

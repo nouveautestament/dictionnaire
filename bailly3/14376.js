@@ -1,1 +1,0 @@
-lar[14376]=`<b>ἀργυρ·ώνητος, ος, ον</b> <font color="purple">[ῠ]</font> acheté à prix d’argent, HDT. <i>4, 72</i> ; ESCHL. <i>Ag. 949</i> ; ὁ ἀ. ISOCR. <i>300b ;</i> EUR. <i>Alc. 676,</i> esclave acheté à prix d’argent.<p><b>Étym</b>. ἄ. ὠνέομαι.`

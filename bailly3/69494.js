@@ -1,1 +1,0 @@
-lar[69494]=`<b>ξενο·τροφέω-ῶ</b>, entretenir des troupes mercenaires, THC. <i>7, 48</i> ; DÉM. <i>157, 12</i> ; PLUT. <i>M. 214d, etc</i>.<p><b>Étym</b>. ξ. -τροφος, <i>de</i> τρέφω.`

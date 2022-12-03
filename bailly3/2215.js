@@ -1,1 +1,0 @@
-lar[2215]=`parler de chèvres, EUP. <i>2 Kock</i>.<p><b>Étym</b>. αἴξ.`

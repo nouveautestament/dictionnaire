@@ -1,1 +1,0 @@
-lar[10693]=`<b>ου (ὁ)</b> = <i>lat</i>. Antōnīnus, <i>n. d’h. rom., particul. surn. de Marc-Aurèle,</i> DC. <i>70, 1, etc</i>.`

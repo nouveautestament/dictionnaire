@@ -1,1 +1,0 @@
-lar[39027]=`<b>εως (ἡ)</b> moquerie, raillerie, PLUT. <i>Ant. 24</i> ; CLÉM. <i>202</i>.<p><b>Étym</b>. ἐπισκώπτω.`

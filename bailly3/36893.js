@@ -1,1 +1,0 @@
-lar[36893]=`<b>ἐπ·άχθομαι</b> (<i>seul. prés</i>.) s’affliger de, <i>dat</i>. EUR. <i>Hipp. 1260</i>.`

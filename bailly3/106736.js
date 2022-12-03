@@ -1,1 +1,0 @@
-lar[106736]=`<b>φορτο·φορέω-ῶ :<br>      1</b> porter une charge, PLUT. <i>Per. 26</i>.<br><b>      2</b> être grosse, SIB. <i>2, 190</i>.<p><b>Étym</b>. φόρτος, φορά.`

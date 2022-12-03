@@ -1,1 +1,0 @@
-lar[94345]=`<b>οῦ (ὁ)</b> collègue pour une ambassade, ESCHN. <i>24, 12</i> ; LYS. <i>177, 41</i>.<p><b>Étym</b>. συμπρεσβεύω.`

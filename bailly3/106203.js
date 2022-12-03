@@ -1,1 +1,0 @@
-lar[106203]=`<b>φιλό·χριστος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime le Christ, <i>d’où</i> chrétien, ANTH. <i>1, 10, 13</i>.<p><b>Étym</b>. φ. Χριστός.`

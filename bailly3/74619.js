@@ -1,1 +1,0 @@
-lar[74619]=`<b>παλί·ρροθος, ος, ον</b> <font color="purple">[ᾰ]</font> battu par le flux et le reflux, ESCHL. <i>Ag. 191</i>.<p><b>Étym</b>. π. ῥόθος.`

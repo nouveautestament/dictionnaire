@@ -1,1 +1,0 @@
-lar[7766]=`<b>ἀνα·τλῆναι</b>, <i>inf. de l’ao.2</i> ἀνέτλην (<i>part</i>. ἀνάτλας ; <i>f</i>. ἀνατλήσομαι) supporter, OD. <i>3, 104 ; 10, 327 ; 14, 47</i> ; ESCHL. <i>Ag. 716</i> ; PLAT. <i>Theæt. 169c, etc.</i> ; οὐκ ἀν. SOPH. <i>O.C. 239,</i> ne pas supporter, avoir horreur de.`

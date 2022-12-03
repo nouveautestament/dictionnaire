@@ -1,1 +1,0 @@
-lar[109731]=`<b>ψεύδ·ορκος, ος, ον</b>, qui fait un faux serment, qui se parjure, EUR. <i>Med. 1392 ; subst</i>. ὁ ψ. parjure (criminel) PHOCYL. <i>15</i>.<p><b>Étym</b>. ψ. ὅρκος.`

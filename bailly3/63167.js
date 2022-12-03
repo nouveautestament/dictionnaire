@@ -1,1 +1,0 @@
-lar[63167]=`<b>ου (ὁ)</b> Matthieu, <i>un des quatre Evangélistes</i>.`

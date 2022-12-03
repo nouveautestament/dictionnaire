@@ -1,1 +1,0 @@
-lar[86900]=`<b>προ·ϋποχρίω</b>, oindre d’abord légèrement, DIOSC. <i>Parab. 1, 143</i> ; GAL. <i>10, 501 ; 12, 226, etc</i>.`

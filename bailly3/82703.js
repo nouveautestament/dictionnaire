@@ -1,1 +1,0 @@
-lar[82703]=`<b>ποντο·κράτωρ, ορος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. maître de la mer, ORPH. <i>H. 17, 15</i>.<p><b>Étym</b>. π. κρατέω.`

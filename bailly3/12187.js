@@ -1,1 +1,0 @@
-lar[12187]=`<b>ατος (τὸ)</b> progéniture, T. LOCR. <i>97e ;</i> EL. <i>N.A. 15, 8</i>.<p><b>Étym</b>. ἀπογεννάω.`

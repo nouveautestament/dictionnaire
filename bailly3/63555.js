@@ -1,1 +1,0 @@
-lar[63555]=`<b>ου (ὁ)</b> = <i>lat</i>. Mezentius, <i>n. d’h. rom</i>. PLUT. <i>Qu. gr. 45, 78</i>.`

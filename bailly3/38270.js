@@ -1,1 +1,0 @@
-lar[38270]=`<b>ἐπιλεκτ·άρχης, ου (ὁ)</b> chef d’une troupe d’élite, PLUT. <i>Arat. 32</i>.<p><b>Étym</b>. ἐπίλεκτος, ἄρχω.`

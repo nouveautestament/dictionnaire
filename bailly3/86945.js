@@ -1,1 +1,0 @@
-lar[86945]=`<b>πρό·φημι</b>, dire <i>ou</i> annoncer d’avance, ARSTT. <i>Plant. 2, 3, 15</i>.<p><b>Étym</b>. π. φημί.`

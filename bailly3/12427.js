@@ -1,1 +1,0 @@
-lar[12427]=`<b>ἀπο·θριάζω</b> (<i>pf</i>. ἀποτεθρίακα <font color="purple">[ῑ]</font>) arracher <i>ou</i> couper comme une feuille, AR. <i>Ach. 158</i>.`

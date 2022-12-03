@@ -1,1 +1,0 @@
-lar[103907]=`<b>ὑπο·στρατοφύλαξ, ακος (ὁ)</b> <font color="purple">[ᾰτᾰκ]</font> commandant en second, STR. <i>567</i>.`

@@ -1,1 +1,0 @@
-lar[64860]=`<b>μετα·ναιετάω-ῶ</b> (<i>seul. prés</i>.) habiter avec, <i>dat</i>. HH. <i>Cer. 87 conj</i>.`

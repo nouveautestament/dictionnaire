@@ -1,1 +1,0 @@
-lar[94946]=`<b>συν·αρθμέω-ῶ</b>, être <i>ou</i> se mettre d’accord avec qqn, A.RH. <i>4, 418</i>.`

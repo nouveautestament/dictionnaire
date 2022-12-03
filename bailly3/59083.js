@@ -1,1 +1,0 @@
-lar[59083]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui ressemble au goujon, ARSTT. <i>H.A. 6, 15, 9</i>.<p><b>Étym</b>. κωβιός.`

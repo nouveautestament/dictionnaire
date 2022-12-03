@@ -1,1 +1,0 @@
-lar[18038]=`<i>ou</i> <b>ἄφθη, ης (ἡ)</b> GRAMM. <i>470, 31 Bekker, Anecdota græca, d’ord. au plur</i>. ἄφθαι, HPC. <i>Aph. 1248,</i> aphthe, <i>sorte d’ulcère</i>.<p><b>Étym</b>. ἅπτω, brûler.`

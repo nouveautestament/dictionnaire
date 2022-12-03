@@ -1,1 +1,0 @@
-lar[40906]=`<b>ἐρωτο·πλάνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui trompe l’amour, ANTH. <i>7, 195</i>.<p><b>Étym</b>. ἔ. πλάνη.`

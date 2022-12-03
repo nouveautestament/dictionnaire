@@ -1,1 +1,0 @@
-lar[52784]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> linge pour essuyer, serviette, torchon, ARTÉM. <i>1, 64</i>.<p><b>Étym</b>. καταμάσσω.`

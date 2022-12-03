@@ -1,1 +1,0 @@
-lar[18314]=`<b>ἀφ·υπνίζω</b> <font color="darkgreen">(<i>ao</i>. ἀφύπνισα) :</font><br><b>      1</b> éveiller, EUR. <i>Rhes. 25</i> ; PLUT. <i>Nic. 9 ; d’où, au pass</i>. s’éveiller, CRAT. (ARSTD. <i>t. 2, 386</i> ; PHÉRÉCR. <i>(Bkk. 473, 8</i>) ; EL. HLD.<br><b>      2 <i>intr.</i></b> s’éveiller, PHILSTR. <i>V. Ap. 2, 36, 1</i>.<p><b>Étym</b>. ἀπό, ὑπνίζω.`

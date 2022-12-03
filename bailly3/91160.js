@@ -1,1 +1,0 @@
-lar[91160]=`<b>      1</b> nourrir avec de l’ail, <i>en parl. des coqs qui devaient combattre ; fig</i>. exciter, aigrir, exaspérer, AR. <i>Eq. 946 ; au pass</i>. AR. <i>Eq. 494, Ach. 166, etc.</i><br><b>      2</b> préparer à l’ail, DIPH. (<i>Com. fr. 4, 381).</i><p><b>Étym</b>. σκόροδον.`

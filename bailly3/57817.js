@@ -1,1 +1,0 @@
-lar[57817]=`<b>κρημνο·ποιός, ός, όν</b>, qui forge des expressions emphatiques, AR. <i>Nub. 1367</i>.<p><b>Étym</b>. κρημνός, ποιέω.`

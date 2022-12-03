@@ -1,1 +1,0 @@
-lar[62552]=`<b>ας (ἡ)</b> longueur des racines, TH. <i>H.P. 1, 7, 1</i>.<p><b>Étym</b>. μακρόρριζος.`

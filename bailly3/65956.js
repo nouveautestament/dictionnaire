@@ -1,1 +1,0 @@
-lar[65956]=`<b>μισ·άμπελος, ος, ον</b> <font color="purple">[ῑ]</font> ennemi de la vigne, ANTH. <i>App. 100</i>.`

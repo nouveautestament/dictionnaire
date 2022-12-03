@@ -1,1 +1,0 @@
-lar[108638]=`avoir son premier duvet, sa première barbe, ARISTAG. (ATH. <i>571b</i>) ; <i>p. anal</i>. χν. λευκανθὲς κάρα SOPH. <i>O.R. 742,</i> avoir la première floraison de cheveux blancs.<p><b>Étym</b>. χνόος.`

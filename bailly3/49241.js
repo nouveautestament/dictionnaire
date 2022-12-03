@@ -1,1 +1,0 @@
-lar[49241]=`<b>ου (ὁ)</b> Hipparkhos (Hipparque) <i>h</i>. HDT. <i>5, 55, etc.</i> ; THC. <i>1, 20, etc</i>.<p><b>Étym</b>. <i>v</i>. ἵππαρχος.`

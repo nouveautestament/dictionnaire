@@ -1,1 +1,0 @@
-lar[53213]=`<b>ατος (τὸ)</b> <i>au plur.</i> :<br><b>      1</b> première offrande dans un sacrifice, accomplissement des premiers rites d’un sacrifice, EUR. <i>I.T. 244</i>.<br><b>      2</b> prémices, PLUT. <i>Thes. 22</i>.<p><b>Étym</b>. κατάρχω.`

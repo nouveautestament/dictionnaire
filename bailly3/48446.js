@@ -1,1 +1,0 @@
-lar[48446]=`<b>ἰδιο·φυής, ής, ές</b> <font color="purple">[ῐδ]</font> d’une nature particulière, DS. <i>5, 30</i> ; ARCHÉL. (DL. <i>2, 17).</i><p><b>Étym</b>. ἴδ. φύω.`

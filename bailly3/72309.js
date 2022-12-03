@@ -1,1 +1,0 @@
-lar[72309]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> qui est tout à fait par derrière, le dernier, IL. <i>8, 342 ; 11, 178</i>.<p><b>Étym</b>. <i>sup. de</i> ὄπις².`

@@ -1,1 +1,0 @@
-lar[53287]=`<b>εως (ἡ)</b> lieu de débarquement, point abordable d’une côte, THC. <i>4, 26</i> ; PLUT. <i>Pomp. 65, etc.</i> ; EL. <i>V.H. 9, 16, etc</i>.<p><b>Étym</b>. καταίρω.`

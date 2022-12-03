@@ -1,1 +1,0 @@
-lar[41983]=`<b>εὐ·έμπτωτος, ος, ον</b>, qui se laisse facilement aller à, enclin à, <i>avec</i> εἰς <i>ou</i> πρός <i>et l’acc</i>. PTOL. <i>Tetr. 164,</i> GAL. <i>5, 157a</i>, b.<p><b>Étym</b>. εὖ, ἐμπίπτω.`

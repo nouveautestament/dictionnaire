@@ -1,1 +1,0 @@
-lar[33478]=`<i>adv</i>., en entrelaçant, NICOM. <i>Arithm. 2 p. 153 Ast</i>.<p><b>Étym</b>. ἐμπλέκω.`

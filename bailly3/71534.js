@@ -1,1 +1,0 @@
-lar[71534]=`<b>ὁμοιό·νομος, ος, ον</b>, régi <i>ou</i> réglé de la même manière, PHINTYS (STOB. <i>Fl. 74, 61).</i><p><b>Étym</b>. ὅμ. νέμω.`

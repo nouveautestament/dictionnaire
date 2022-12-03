@@ -1,1 +1,0 @@
-lar[9781]=`<b>εως (ἡ)</b> prière, supplication, PLAT. <i>Ap. 37a, etc</i>.<p><b>Étym</b>. ἀντιβολέω.`

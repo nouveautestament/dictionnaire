@@ -1,1 +1,0 @@
-lar[27337]=`être dans le doute, <i>d’où</i> imaginer, A.RH. <i>3, 955 (ao. opt. 3 sg</i>. δοάσσαι).<br><b><i>Moy.</i></b> être dans le doute, douter, A.RH. <i>3, 770 (ao. 3 sg</i>. δοάσσατο).<p><b>Étym</b>. <i>v</i>. δοιάζω.`

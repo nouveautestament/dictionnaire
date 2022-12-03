@@ -1,1 +1,0 @@
-lar[18795]=`<b>βαθυ·πώγων, ωνος (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> à la barbe longue <i>ou</i> épaisse, PLUT. <i>M. 710b ;</i> LUC. <i>J. tr. 26</i>.<p><b>Étym</b>. β. πώγων.`

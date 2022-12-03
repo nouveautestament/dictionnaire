@@ -1,1 +1,0 @@
-lar[106876]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> frissonnement, frisson, SPT. <i>2Macc. 3, 17</i>.<p><b>Étym</b>. φρικάζω.`

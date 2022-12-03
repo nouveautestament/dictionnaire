@@ -1,1 +1,0 @@
-lar[106086]=`<b>φιλοσκωπτέω-ῶ</b> <font color="purple">[ῐ]</font> aimer à se moquer, ATH. <i>616b</i>.<p><b>Étym</b>. φιλοσκώπτης.`

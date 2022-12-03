@@ -1,1 +1,0 @@
-lar[98718]=`<b>τετρά·χρονος, ος, ον</b>, d’une durée de quatre temps, <i>t. de mus. et de métr</i>. LGN <i>fr. 2, 14</i>.<p><b>Étym</b>. τ. χρόνος.`

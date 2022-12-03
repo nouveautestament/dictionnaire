@@ -1,1 +1,0 @@
-lar[104731]=`<b>φαλακρο·ειδής, ής, ές</b> <font color="purple">[φᾰ]</font> qui semble chauve, DC. <i>76, 8</i>.<p><b>Étym</b>. φαλακρός, εἶδος.`

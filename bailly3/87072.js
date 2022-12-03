@@ -1,1 +1,0 @@
-lar[87072]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> sorte de danse armée, CALL. <i>Jov. 52, Dian. 240</i>.<p><b>Étym</b>. πρυλέες.`

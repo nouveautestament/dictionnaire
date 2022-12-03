@@ -1,1 +1,0 @@
-lar[42366]=`<b>εὔ·καμπτος, ος, ον</b>, facile à courber, flexible, HPC. <i>Art. 826</i> ; ARSTT. <i>P.A. 4, 11, 17</i>.<p><b>Étym</b>. εὖ, κάμπτω.`

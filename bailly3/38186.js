@@ -1,1 +1,0 @@
-lar[38186]=`<b>ἐπι·κρούω :<br>      1</b> frapper sur : τί τινι, ESCHL. <i>Ag. 202</i> ; PLUT. <i>Pomp. 58,</i> frapper une chose avec une autre.<br><b>      2</b> enfoncer (un clou) AR. <i>Th. 1004</i>.<br><b>      3</b> <i>fig</i>. insulter, MACH. (ATH. <i>579b</i>).`

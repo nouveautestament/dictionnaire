@@ -1,1 +1,0 @@
-lar[30529]=`<b>ας</b>, <i>ion</i>. <b>-ίη, ης</b> <font color="purple">[ᾰτ]</font> <i>adj. f</i>. d’Einatos <i>ou</i> d’Einaton, <i>v. de Crète, ép. d’Eileithyia,</i> CALL. (EM. <i>303, 12</i>).`

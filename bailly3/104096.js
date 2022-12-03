@@ -1,1 +1,0 @@
-lar[104096]=`<b>ὑπο·φεύγω</b>, fuir secrètement, s’esquiver, HDT. <i>4, 111, 120</i> ; THC. <i>3, 97</i> ; PLAT. <i>Rsp. 422c, Leg. 762b, etc.</i> ; τινά, IL. <i>22, 200</i> ; κύνας, EUR. <i>El. 1343,</i> échapper à qqn, à des chiens ; τι, THC. <i>4, 28, etc</i>. à qqe ch.<p><b>Étym</b>. à un danger, <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[40360]=`<b>άδος</b>, <i>adj. f</i>. déserte, solitaire, MAN. <i>6, 67</i>.<p><b>Étym</b>. ἔρημος.`

@@ -1,1 +1,0 @@
-lar[41856]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à intervalles réguliers, suivant des dispositions bien conçues, JOS. <i>B.J. 3, 5, 2</i>.`

@@ -1,1 +1,0 @@
-lar[75415]=`<font color="purple">[ᾰδ]</font> <i>poét</i>. <b>παρβολάδην</b>, <i>adv.</i> :<br><b>      1</b> de côté, A.RH. <i>4, 936</i> ; ARAT. <i>318</i>.<br><b>      2</b> parallèlement, ARAT. <i>525</i>.`

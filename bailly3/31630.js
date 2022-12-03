@@ -1,1 +1,0 @@
-lar[31630]=`<b>ἐκ·λυσσάω-ῶ</b>, être transporté de rage, PHIL. <i>1, 430</i> ; JOS. <i>A.J. 13, 16, 3</i>.`

@@ -1,1 +1,0 @@
-lar[50136]=`<b>ίδος (ἡ)</b> <i>s.-e</i>. χώρα, le territoire d’Iôlkos, A.RH. <i>1, 572</i> ; ANTH. <i>4, 3</i>.<p><b>Étym</b>. Ἰωλκός.`

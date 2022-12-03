@@ -1,1 +1,0 @@
-lar[84812]=`<b>προ·ξηραίνω</b>, faire dessécher auparavant, DIOSC. <i>5, 86</i>.`

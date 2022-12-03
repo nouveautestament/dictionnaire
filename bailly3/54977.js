@@ -1,1 +1,0 @@
-lar[54977]=`<b>ος, ον</b>, malin comme un singe, SYN. <i>108c</i>.<p><b>Étym</b>. κέρκωψ.`

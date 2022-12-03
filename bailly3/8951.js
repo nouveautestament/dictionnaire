@@ -1,1 +1,0 @@
-lar[8951]=`<b>ἀνθρωπο·θυτέω-ῶ</b> <font color="purple">[ῠ]</font> faire un sacrifice humain, PHIL. <i>2, 28</i>.<p><b>Étym</b>. ἄ. *θυτός <i>de</i> θύω.`

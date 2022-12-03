@@ -1,1 +1,0 @@
-lar[57317]=`<b>ή, όν</b>, garni de franges <i>ou</i> de bouffettes, SPT. <i>Ex. 28, 4 ; Esaï. 3, 18</i>.<p><b>Étym</b>. *κοσυμβόω <i>de</i> κόσυμβος.`

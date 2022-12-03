@@ -1,1 +1,0 @@
-lar[45915]=`<b>α, ον</b>, <i>c</i>. ἡρωϊκός, PD. <i>O. 13, 71</i>.<p>➳ <font color="purple">[ω <i>bref</i>]</font> PD. <i>N. 7, 68</i>.`

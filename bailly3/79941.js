@@ -1,1 +1,0 @@
-lar[79941]=`<b>ήεσσα, ῆεν :<br>      1</b> couvert de pins, DP. <i>678</i> ; ORPH. <i>Arg. 1187</i>.<br><b>      2</b> fait de bois de pin : Ἥφαιστος, SOPH. <i>Ant. 123,</i> feu de torches résineuses.<br><b>      3</b> perçant, piquant, aigu, OPP. <i>H. 2, 457 ; fig. en parl. de hurlements de douleur,</i> ESCHL. <i>Ch. 385</i>.<p><b>Étym</b>. πεύκη.`

@@ -1,1 +1,0 @@
-lar[53662]=`<b>καταφορέω-ῶ</b>, porter en bas, <i>ou</i> dans son cours, <i>en parl. d’un fleuve,</i> HDT. <i>5, 101 ; fig</i>. PLAT. <i>Rsp. 587e</i>.`

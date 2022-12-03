@@ -1,1 +1,0 @@
-lar[109633]=`<b>ψευδ·άνωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. faux homme, <i>càd</i>. qui se fait faussement passer pour un homme, POLYEN <i>4, 18, 1</i>.<p><b>Étym</b>. ψ. ἀνήρ.`

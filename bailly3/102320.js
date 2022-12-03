@@ -1,1 +1,0 @@
-lar[102320]=`<b>ὑπέρ·αυχος, ος, ον</b>, extrêmement vain <i>ou</i> orgueilleux, ESCHL. <i>Sept. 483</i> ; SOPH. <i>Ant. 1351</i> ; XÉN. <i>Ages. 11, 11</i> ; τὰ ὑπέραυχα, DH. <i>8, 50,</i> orgueil excessif.<p><b>Étym</b>. ὑ. αὔχη.`

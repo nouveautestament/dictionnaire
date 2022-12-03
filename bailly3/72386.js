@@ -1,1 +1,0 @@
-lar[72386]=`<i>adv. relat</i>. de quelle manière, ATT. ; ὁποίως ἄν <i>avec un mode subord</i>. de quelque manière que, ATT. ; ὁποιωσοῦν, ATT. d’une façon quelconque.<p><b>Étym</b>. ὁποῖος.`

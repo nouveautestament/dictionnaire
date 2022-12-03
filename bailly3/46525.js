@@ -1,1 +1,0 @@
-lar[46525]=`<b>ατος (τὸ)</b> volonté, désir, ARSTT. <i>Plant. 1, 1, 7</i> ; SPT. <i>Eccl. 5, 3</i> ; NT. <i>Matth. 7, 21</i>.<p><b>Étym</b>. θέλω.`

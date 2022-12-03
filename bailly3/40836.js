@@ -1,1 +1,0 @@
-lar[40836]=`<b>ἐρυσί·θριξ</b>, <i>gén</i>. <b>-τριχος (ὁ)</b> <font color="purple">[ῠῐχ]</font> qui sillonne les cheveux <i>ou</i> les poils, <i>en parl. d’un peigne <i>ou</i> d’une brosse,</i> ANTH. <i>6, 246</i>.<p><b>Étym</b>. ἐρύω, θρίξ.`

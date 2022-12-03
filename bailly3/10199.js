@@ -1,1 +1,0 @@
-lar[10199]=`<b>ἀντι·παρατίθημι</b>, mettre en parallèle, comparer, opposer, PLAT. <i>Ap. 40d</i>.`

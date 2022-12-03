@@ -1,1 +1,0 @@
-lar[89064]=`<b>ου (ὁ)</b> sorte de coupe pour boire, ATH. <i>262b</i>.`

@@ -1,1 +1,0 @@
-lar[9078]=`<b>ἀν·ικέτευτος, ος, ον</b> <font color="purple">[ῐ]</font> non prié, non supplié, EUR. <i>I.A. 1003</i>.<p><b>Étym</b>. ἀν-, ἱκετεύω.`

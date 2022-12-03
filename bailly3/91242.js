@@ -1,1 +1,0 @@
-lar[91242]=`<b>ας (ἡ)</b> = <i>lat</i>. Scribōnia, <i>n. de f. rom</i>. PLUT. <i>Galb. 23</i>.`

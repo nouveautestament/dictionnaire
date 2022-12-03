@@ -1,1 +1,0 @@
-lar[70108]=`<b>ῆς (ἡ)</b> odeur, IL. <i>14, 415</i> ; OD. <i>4, 406</i> ; HDT. <i>1, 47, etc.</i> ; PLUT. <i>M. 144c, etc</i>.<p>➳ <i>Dor</i>. ὀδμά, PD. <i>fr. 95, 6</i>.<p><b>Étym</b>. ὄζω.`

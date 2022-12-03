@@ -1,1 +1,0 @@
-lar[27093]=`<b>α, ον</b> <font color="purple">[ῐ]</font> à deux tons, ARISTOX. <i>Harm. 3, p. 66 Meib</i>.<p><b>Étym</b>. δίτονος.`

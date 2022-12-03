@@ -1,1 +1,0 @@
-lar[6168]=`<b>ἀμφι·θόωκος, ος, ον</b>, qui est autour du trône, NAZ. <i>3, 422 Migne</i>.<p><b>Étym</b>. ἀ. θόωκος.`

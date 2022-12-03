@@ -1,1 +1,0 @@
-lar[9170]=`<b>ου (τὸ)</b> Annikhôron, <i>lieu voisin de la Perse,</i> ALCM. <i>125</i>.`

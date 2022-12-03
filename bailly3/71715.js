@@ -1,1 +1,0 @@
-lar[71715]=`<b>ή, όν</b>, propre à un serment, LGN <i>16, 1</i> ; ORIG. <i>c. Cels. p. 434</i>.<p><b>Étym</b>. ὄμνυμι.`

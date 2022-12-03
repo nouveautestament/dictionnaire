@@ -1,1 +1,0 @@
-lar[50855]=`<b>κάκ·οσμος, ος, ον</b> <font color="purple">[ᾰ]</font> puant, ESCHL. <i>et</i> SOPH. (ATH. <i>17c</i>) ; AR. <i>Pax 38</i>.<p><b>Étym</b>. κ. ὀσμή.`

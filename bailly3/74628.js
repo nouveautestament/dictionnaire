@@ -1,1 +1,0 @@
-lar[74628]=`<b>παλισσυτέω-ῶ</b> <font color="purple">[ᾰῠ]</font> s’élancer vivement en arrière, DS. <i>1, 32 ; 3, 22</i>.<p><b>Étym</b>. παλίσσυτος.`

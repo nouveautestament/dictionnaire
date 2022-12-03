@@ -1,1 +1,0 @@
-lar[46809]=`<b>θεο·τερπής, ής, ές</b>, agréable aux dieux ou à Dieu, PHILOX. (ATH. <i>147a</i>) ; ANTH. <i>1, 82, 88, etc</i>.<p><b>Étym</b>. θ. τέρπω.`

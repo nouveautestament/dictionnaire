@@ -1,1 +1,0 @@
-lar[70462]=`<b>ατος (τὸ)</b> <i>c</i>. οἰμωγή ESCHL. <i>Sept. 8, etc.</i> ; EUR. <i>Bacch. 1112</i>.`

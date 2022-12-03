@@ -1,1 +1,0 @@
-lar[48518]=`<b>ἰ·έλαιον, ου (τὸ)</b> huile de violette, SYN. <i>Febr. p. 102, 194</i>.<p><b>Étym</b>. ἴον, ἔλαιον.`

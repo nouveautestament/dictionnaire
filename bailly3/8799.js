@@ -1,1 +1,0 @@
-lar[8799]=`<b>ων (τὰ)</b> les Anthestèries, <i>litt</i>. « fête des fleurs » <i>durant 3 jours du mois</i> Anthestèriôn, <i>en l’honneur de Dionysos, à Athènes,</i> HARP. <i>v°</i> Χόες.<p><b>Étym</b>. ἄνθος.`

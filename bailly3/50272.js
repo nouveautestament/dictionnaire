@@ -1,1 +1,0 @@
-lar[50272]=`<b>καθαπερ·εί</b> <font color="purple">[ᾰᾰ]</font> <i>adv. c</i>. καθάπερ, καθαπερανεί PLAT. <i>Phil. 22e, etc</i>.<p>➳ <i>Ion</i>. καταπερεί, HDT. <i>1, 170</i>.<p><b>Étym</b>. κ. εἰ.`

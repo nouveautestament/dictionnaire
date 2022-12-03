@@ -1,1 +1,0 @@
-lar[34910]=`<b>ἔν·ρυθμος, ος, ον</b> <font color="purple">[ῠ]</font> conforme au rythme, à la mesure, PLAT. <i>Leg. 654a ; en parl. du rythme oratoire,</i> DH. <i>Comp. 11</i>.<p><b>Étym</b>. ἐν, ῥυθμός.`

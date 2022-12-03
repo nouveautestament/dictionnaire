@@ -1,1 +1,0 @@
-lar[13412]=`<b>ἀπο·σταχύω</b> <font color="purple">[τᾰ]</font> commencer à donner des épis, monter en épis, GEOP. <i>2, 24, 3</i>.<p><b>Étym</b>. ἀ. στάχυς.`

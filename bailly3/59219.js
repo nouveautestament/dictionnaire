@@ -1,1 +1,0 @@
-lar[59219]=`<b>ου (τὸ) :<br>      1</b> ciguë, <i>plante,</i> HPC. <i>681, 4, etc.</i><br><b>      2</b> jus de la ciguë, AR. <i>Ran. 124</i> ; XÉN. <i>Hell. 2, 3, 56 ; pl</i>. AR. <i>Ran. 1051</i>.<p><b>Étym</b>. κῶνος.`

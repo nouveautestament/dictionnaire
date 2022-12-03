@@ -1,1 +1,0 @@
-lar[25069]=`<b>δια·μολύνω</b> <font color="purple">[ῡ]</font> souiller profondément, PLUT. <i>M. 504d</i>.`

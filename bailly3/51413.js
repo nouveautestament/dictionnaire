@@ -1,1 +1,0 @@
-lar[51413]=`<b>οῦ (ἡ)</b> <font color="purple">[ᾰῑ]</font> Kamikos, <i>v. de Sicile,</i> HDT. <i>7, 169, 170</i> ; ARSTT. <i>Pol. 2, 10</i>.`

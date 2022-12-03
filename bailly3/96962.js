@@ -1,1 +1,0 @@
-lar[96962]=`<b>Σφυρό·μαχος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> Sphyromakhos, <i>h</i>. AR. <i>Eccl. 22 (corr</i>. Φυρόμαχος).<p><b>Étym</b>. σφυρόν, μάχομαι.`

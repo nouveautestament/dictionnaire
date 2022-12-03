@@ -1,1 +1,0 @@
-lar[107402]=`<b>φωνό·μιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui imite <i>ou</i> reproduit la voix, HÉPH. (PHOT. <i>Bibl. 149, 4).</i><p><b>Étym</b>. φωνή, μιμέομαι.`

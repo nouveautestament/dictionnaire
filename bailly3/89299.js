@@ -1,1 +1,0 @@
-lar[89299]=`<i>ou</i> <b>σανδαρακουργεῖον, ου (τὸ)</b> <font color="purple">[δᾰᾰ]</font> mine d’où l’on extrait l’arsenic rouge, STR. <i>562</i>.<p><b>Étym</b>. σανδαράκη, ἔργον.`

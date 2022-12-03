@@ -1,1 +1,0 @@
-lar[6539]=`<b>ατος (τὸ)</b> regard en arrière, XÉN. <i>Cyn. 4, 4</i>.<p><b>Étym</b>. ἀναβλέπω.`

@@ -1,1 +1,0 @@
-lar[42185]=`<b>εὐ·θηλέω-ῶ</b>, bien allaiter, bien nourrir, <i>d’où au pass</i>. être bien nourri, ESCHL. <i>fr. 321</i>.<p><b>Étym</b>. εὔθηλος.`

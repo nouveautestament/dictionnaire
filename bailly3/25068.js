@@ -1,1 +1,0 @@
-lar[25068]=`<b>δια·μοιράω-ῶ</b>, partager, <i>d’où</i> déchirer, EUR. <i>Hipp. 1376</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> distribuer par portions, <i>acc</i>. OD. <i>14, 434</i>.<br><b>      2</b> partager, <i>d’où</i> déchirer, EUR. <i>Hec. 717</i>.<p>➳ <i>Moy. impf. 3 sg</i>. διεμοιρᾶτο <i>avec</i> ε <i>long à l’arsis,</i> OD. <i>l. c</i>.`

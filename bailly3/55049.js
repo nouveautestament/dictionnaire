@@ -1,1 +1,0 @@
-lar[55049]=`<b>ή, όν :<br>      1</b> piqué, brodé, IL. <i>14, 204</i>.<br><b>      2</b> <i>subst</i>. ὁ κ. (<i>s.-e</i>. ἱμάς) ceinture brodée, PLUT. <i>M. 19f ;</i> LUC. <i>D. deor. 20, 10</i> ; ALCIPHR. <i>1, 37, p. 180</i> ; ANTH. <i>5, 121</i>.<p><b>Étym</b>. κεντέω.`

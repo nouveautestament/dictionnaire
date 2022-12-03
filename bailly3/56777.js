@@ -1,1 +1,0 @@
-lar[56777]=`<b>ου (ὁ)</b> Kombabos, <i>h</i>. LUC. <i>Syr. 19</i>.`

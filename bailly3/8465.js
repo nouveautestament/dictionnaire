@@ -1,1 +1,0 @@
-lar[8465]=`<b>ας (ἡ)</b> nature d’une chose inconcevable, SEXT. <i>M. 3, 57</i>.<p><b>Étym</b>. ἀνεπινόητος.`

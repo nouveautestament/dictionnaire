@@ -1,1 +1,0 @@
-lar[95]=`<b>ου (τὸ)</b> le lis <i>en Libye,</i> DIOSC. <i>3, 116, 137</i>.`

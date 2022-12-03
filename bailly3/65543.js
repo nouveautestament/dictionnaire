@@ -1,1 +1,0 @@
-lar[65543]=`<b>μητρογαμέω-ῶ</b> <font color="purple">[ᾰ]</font> épouser sa propre mère, CHRYS. <i>6, 248</i>.<p><b>Étym</b>. <i>v</i>. μητρογαμία.`

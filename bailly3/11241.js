@@ -1,1 +1,0 @@
-lar[11241]=`<b>ἀπ·αναλίσκω</b> <font color="darkgreen">(<i>f</i>. -αναλώσω, <i>ao</i>. ἀπανήλωσα, <i>pf</i>. ἀπανήλωκα)</font> <font color="purple">[πᾰᾱ]</font> dépenser en pure perte, THC. <i>7, 11</i> ; M. ANT. <i>3, 1</i>.`

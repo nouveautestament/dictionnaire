@@ -1,1 +1,0 @@
-lar[80017]=`<b>ή, όν :<br>   I</b> compact, épais, <i>d’où</i> :<br><b>      1</b> solide, fort, vigoureux (cheval) IL. <i>9, 124, 266</i>.<br><b>      2</b> gros, énorme (vague) OD. <i>5, 388 ; 23, 235</i>.<br><b>   II</b> qui ressemble aux frimas blancs, grisâtre, LYC. <i>336</i> ; CALL. <i>Dian. 90 ; subst</i>. sel, STRATON (ATH. <i>383a</i>).<p><b>Étym</b>. πήγνυμι.`

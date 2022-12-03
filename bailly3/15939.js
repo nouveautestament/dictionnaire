@@ -1,1 +1,0 @@
-lar[15939]=`<b>ων (οἱ)</b> habitants d’Asculum, APP. <i>Civ. 1, 48</i>.<p><b>Étym</b>. <i>v</i>. Ἄσκλον.`

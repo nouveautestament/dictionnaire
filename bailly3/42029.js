@@ -1,1 +1,0 @@
-lar[42029]=`<i>adv</i>., de manière à être facilement entrepris, HIÉROCL. <i>C. aur. p. 436 Mullach</i>.`

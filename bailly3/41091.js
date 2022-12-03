@@ -1,1 +1,0 @@
-lar[41091]=`<b>(ὁ)</b> <i>mot forgé par</i> PLAT. <i>Crat. 420, pour expliquer l’étymol. de</i> ἔρως, <i>comme venant de</i> ἐσρέω.`

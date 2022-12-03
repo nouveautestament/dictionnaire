@@ -1,1 +1,0 @@
-lar[57706]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> la fille de Kreiôn, <i>càd</i>. Mégara, PD. <i>I. 3, 109</i>.<p><b>Étym</b>. Κρείων.`

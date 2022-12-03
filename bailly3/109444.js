@@ -1,1 +1,0 @@
-lar[109444]=`<b>εως (ἡ)</b> action de s’avancer, HLD. <i>6, 5</i>.<p><b>Étym</b>. χωρέω.`

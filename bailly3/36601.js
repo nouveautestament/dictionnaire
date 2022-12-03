@@ -1,1 +1,0 @@
-lar[36601]=`<b>ἐπ·ανακίρναμαι</b> <font color="purple">[νᾰμ]</font> (<i>seul. prés</i>.) se mêler <i>ou</i> se confondre de nouveau avec, NAZ. <i>1, 118</i>.`

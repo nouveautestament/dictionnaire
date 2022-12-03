@@ -1,1 +1,0 @@
-lar[20317]=`<b>βοτρυο·στέφανος, ος, ον</b> <font color="purple">[ᾰ]</font> couronné de grappes (vignoble), ARCHYT. (PLUT. <i>M. 295a</i>).`

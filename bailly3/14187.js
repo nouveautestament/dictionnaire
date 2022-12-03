@@ -1,1 +1,0 @@
-lar[14187]=`<b>ἀραχνο·ειδής, ής, ές</b>, semblable à un fil <i>ou</i> à une toile d’araignée. HPC. <i>40, 52</i> ; GAL. <i>4, 31</i>.<p>•<i> Sup</i>. -έστατος, GAL. <i>2, 366</i>.<p><b>Étym</b>. ἀράχνη, εἶδος.`

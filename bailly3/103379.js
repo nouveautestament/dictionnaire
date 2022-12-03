@@ -1,1 +1,0 @@
-lar[103379]=`<b>ὑπο·κλονέομαι-οῦμαι :<br>      1</b> être pressé, poursuivi : τινι, IL. <i>21, 556,</i> fuir devant qqn.<br><b>      2</b> être ébranlé en dessous, Q. SM. <i>14, 572</i>.`

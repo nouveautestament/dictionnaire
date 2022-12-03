@@ -1,1 +1,0 @@
-lar[85167]=`<b>προσ·αναπείθω</b>, amener par la persuasion, persuader, DC. <i>44, 34, etc</i>.`

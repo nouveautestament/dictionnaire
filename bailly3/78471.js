@@ -1,1 +1,0 @@
-lar[78471]=`<b>περι·βρύχιος, α, ον</b> <font color="purple">[ῡ]</font> qui mugit tout autour <i>en parl. de la mer,</i> SOPH. <i>Ant. 336</i>.`

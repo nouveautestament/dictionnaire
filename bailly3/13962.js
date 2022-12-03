@@ -1,1 +1,0 @@
-lar[13962]=`<b>ἀ·πρόσκοπος, ος, ον :<br>      1 <i>intr</i></b>. qui ne se heurte pas, qui ne fait pas de faux pas, NT. <i>Ap. 24, 16</i>.<br><b>      2</b> qui ne fait pas faire de faux pas, <i>càd</i>. qui ne provoque pas de scandale, NT. <i>1Cor. 10, 32 ; Phil. 1, 10</i>.<p><b>Étym</b>. ἀ, προσκόπτω.`

@@ -1,1 +1,0 @@
-lar[106016]=`<b>φιλοπολεμέω-ῶ</b> <font color="purple">[ῐ]</font> aimer la guerre, NAZ. <i>67, 2</i>.<p><b>Étym</b>. φιλοπόλεμος.`

@@ -1,1 +1,0 @@
-lar[20177]=`<b>(ὁ)</b> Bomilcar, <i>général carthaginois,</i> DS. <i>Cf</i>. βοαμίλκας <i>et</i> βομίλχας.`

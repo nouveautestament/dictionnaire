@@ -1,1 +1,0 @@
-lar[7846]=`<b>ἀνα·φάλακρος, ος, ον</b> <font color="purple">[φᾰ]</font> chauve sur le devant de la tête, PROCL. <i>Ptol. p. 203</i>.<p><b>Étym</b>. ἀνά, φαλακρός.`

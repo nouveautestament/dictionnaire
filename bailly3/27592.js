@@ -1,1 +1,0 @@
-lar[27592]=`<b>δορί·ληπτος, ος, ον</b> <font color="purple">[ῐ]</font> conquis à la pointe de la lance, SOPH. <i>Aj. 146</i> ; MAN. <i>4, 258</i>.<p>➳ <i>Ion</i>. δουρίληπτος, ESCHL. <i>Sept. 278, conj.</i> ; SOPH. <i>Aj. 894</i>.<p><b>Étym</b>. δόρυ, λαμβάνω.`

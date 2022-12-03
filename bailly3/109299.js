@@ -1,1 +1,0 @@
-lar[109299]=`<b>χρυσο·χαίτης, ου</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. à la chevelure d’or, PD. <i>P. 2, 29</i> ; ANACR. <i>44, 12</i>.<p><b>Étym</b>. χρ. χαίτη.`

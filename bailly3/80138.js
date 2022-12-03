@@ -1,1 +1,0 @@
-lar[80138]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> πήρα, AR. <i>Nub. 923, fr. 410 Dind</i>.`

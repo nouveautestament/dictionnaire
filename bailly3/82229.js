@@ -1,1 +1,0 @@
-lar[82229]=`<b>πολυ·πένθιμος, ος, ον</b> <font color="purple">[ῠῐ]</font> très affligé, très triste, ANTH. <i>7, 475</i>.<p><b>Étym</b>. π. πένθος.`

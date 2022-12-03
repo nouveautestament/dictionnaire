@@ -1,1 +1,0 @@
-lar[25539]=`<b>δια·σκεπάζω</b> (<i>seul. ao. 3 sg</i>. διεσκέπασεν) abriter <i>ou</i> couvrir complètement, <i>acc</i>. DC. <i>60, 26</i>.`

@@ -1,1 +1,0 @@
-lar[80344]=`<b>πινακο·θήκη, ης (ἡ)</b> <font color="purple">[ῐᾰ]</font> dépôt de tableaux <i>ou</i> de cartes, STR. <i>637</i>.`

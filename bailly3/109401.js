@@ -1,1 +1,0 @@
-lar[109401]=`<b>εως (ἡ)</b> claudication, EPICT. <i>Ench. 9</i>.<p><b>Étym</b>. χωλαίνω.`

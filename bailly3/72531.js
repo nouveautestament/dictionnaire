@@ -1,1 +1,0 @@
-lar[72531]=`<b>ὀργανο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui fabrique des instruments, des mécanismes, mécanicien, DS. <i>17, 43</i>.<p><b>Étym</b>. ὄργ. ποιέω.`

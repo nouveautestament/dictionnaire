@@ -1,1 +1,0 @@
-lar[58144]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κρύψις, HERM. <i>Poem. 115, 1 ; adv</i>. κρυβῇ, <i>c</i>. κρύβδην, SPT. <i>Jos. 2, 1 ; 2Reg. 12, 12 (var</i>. κρύβδην).<p><b>Étym</b>. κρύπτω.`

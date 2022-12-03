@@ -1,1 +1,0 @@
-lar[59493]=`<b>λαθρο·δάκνης, ου</b>, <i>adj. m</i>. qui mord insidieusement, ANTH. <i>11, 322</i>.<p><b>Étym</b>. λάθρᾳ, δάκνω.`

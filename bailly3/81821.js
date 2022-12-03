@@ -1,1 +1,0 @@
-lar[81821]=`<b>πολυ·δαίδαλος, ος, ον</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> <i>pass</i>. travaillé avec beaucoup d’art, IL. <i>3, 358, etc.</i> ; OD. <i>6, 15, etc.</i> ; HÉS. <i>O. 64</i>.<br><b>      2</b> <i>act</i>. qui travaille avec beaucoup d’art, très industrieux, IL. <i>23, 743</i> ; A. PL. <i>80</i>.<p><b>Étym</b>. π. δαίδαλος.`

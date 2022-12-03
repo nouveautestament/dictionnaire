@@ -1,1 +1,0 @@
-lar[30920]=`(<i>seul. prés</i>.) entrer de force, APP. <i>Civ. 4, 78</i> ; BAS. <i>2, 1042d</i>.<p><b>Étym</b>. εἰσωθέω.`

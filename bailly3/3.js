@@ -1,1 +1,0 @@
-lar[3]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ἥ, <i>fém. de</i> ὅς¹.<br><font color="purple">[ᾰ]</font> <i>pl. neutre de</i> ὅς, <i>pron. rel. et poss</i>.`

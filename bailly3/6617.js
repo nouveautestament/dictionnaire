@@ -1,1 +1,0 @@
-lar[6617]=`<b>ας (ἡ)</b> <font color="purple">[ᾰνφᾰ]</font> régime forcé de nourriture pour les athlètes, ARSTT. <i>Pol. 8, 4</i>.<p><b>Étym</b>. <i>v</i>. ἀναγκοφαγέω.`

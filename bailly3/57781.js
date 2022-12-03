@@ -1,1 +1,0 @@
-lar[57781]=`<b>ῶν (οἱ)</b> les descendants du Thessalien Kréôn, THCR. <i>Idyl. 16, 39</i>.<p><b>Étym</b>. Κρέων.`

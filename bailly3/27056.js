@@ -1,1 +1,0 @@
-lar[27056]=`<b>δισ·σύλλαβος</b> <i>ou</i> <b>δι·σύλλαβος, ος, ον</b>, dissyllabique, DH. <i>Comp. 7, 62, 4 Reiske</i> ; LUC. <i>Gall. 29, Bis acc. 22 ; etc</i>.<p><b>Étym</b>. δίς, συλλαβή.`

@@ -1,1 +1,0 @@
-lar[53979]=`<b>οῦ (ὁ)</b> action d’endormir, PLUT. <i>M. 378e</i>.<p><b>Étym</b>. κατευνάζω.`

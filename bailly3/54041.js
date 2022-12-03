@@ -1,1 +1,0 @@
-lar[54041]=`<b>κατηφέω-ῶ</b>, être triste, honteux, confus, IL. <i>22, 293</i> ; OD. <i>16, 342</i> ; CALL. <i>Ep. 21</i> ; A.RH. <i>2, 443, 888</i> ; κ. ὄμμα, EUR. <i>Med. 1012, m. sign. ; en parl. d’animaux,</i> ARSTT. <i>H.A. 2, 24</i>.<p><b>Étym</b>. κατηφής.`

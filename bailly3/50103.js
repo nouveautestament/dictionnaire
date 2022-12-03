@@ -1,1 +1,0 @@
-lar[50103]=`<b>ἰχνο·πέδη, ης (ἡ)</b> entraves, fers aux pieds, ANTH. <i>6, 109, etc</i>.<p><b>Étym</b>. ἴ. πέδη.`

@@ -1,1 +1,0 @@
-lar[106450]=`<b>ας (ἡ)</b> <font color="purple">[ᾱρ]</font> Phlyaria, <i>f</i>. ANTH. <i>13, 31</i>.<p><b>Étym</b>. <i>v</i>. φλυαρία.`

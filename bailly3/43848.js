@@ -1,1 +1,0 @@
-lar[43848]=`<b>εὐ·ψυχής, ής, ές</b> <font color="purple">[ῡ]</font> d’une fraîcheur agréable, ANTYLL. (ORIB. <i>2, 307 B.-Dar</i>.).<p>•<i> Cp</i>. -έστερος, HDN <i>1, 12 ; 6, 6</i>.<p><b>Étym</b>. εὖ, ψύχω.`

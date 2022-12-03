@@ -1,1 +1,0 @@
-lar[63472]=`<b>ατος (τὸ)</b> <font color="purple">[γᾰ]</font> grandeur, SPT. <i>Jer. 31, 17</i>.<p><b>Étym</b>. μεγαλόω.`

@@ -1,1 +1,0 @@
-lar[22629]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Graphikos, <i>h</i>. ANTH. <i>12, 15</i>.`

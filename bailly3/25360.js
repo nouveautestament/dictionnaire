@@ -1,1 +1,0 @@
-lar[25360]=`<b>εως (ἡ)</b> <font color="purple">[ᾱσ]</font> vente complète, DH. <i>7, 29</i> ; PLUT. <i>Syll. 33</i> ; SPT. <i>Lev. 25, 33</i>.<p><b>Étym</b>. διαπιπράσκω.`

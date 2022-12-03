@@ -1,1 +1,0 @@
-lar[86657]=`<b>ου (τὸ)</b> Proskhion, <i>v. d’Étolie,</i> THC. <i>2, 102, 106</i>.`

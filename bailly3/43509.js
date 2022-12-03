@@ -1,1 +1,0 @@
-lar[43509]=`<b>εὐ·συμπερίφορος, ος, ον</b>, d’un commerce facile, conciliant, DL. <i>7, 13</i>.<p><b>Étym</b>. εὖ, συμπεριφέρω.`

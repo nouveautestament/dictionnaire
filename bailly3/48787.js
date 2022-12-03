@@ -1,1 +1,0 @@
-lar[48787]=`<b>ου (ἡ)</b> Ikaros :<br><b>      1</b> <i>une des Cyclades</i> (Icarie, <i>auj</i>. Ikaría, Nikariá) HH. <i>34, 1</i> ; HDT. <i>6, 95</i> ; ESCHL. <i>Pers. 890</i> ; THC. <i>3, 29, etc.</i><br><b>      2</b> <i>î. du golfe Persique,</i> ARR. <i>An. 7, 20, 9</i> ; EL. <i>N.A. 11, 9, etc</i>.`

@@ -1,1 +1,0 @@
-lar[38066]=`<b>ου (τὸ)</b> lit de repos, AR. <i>Eccl. 907</i>.<p><b>Étym</b>. ἐπικλίνω.`

@@ -1,1 +1,0 @@
-lar[29634]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de greffer, la greffe, COLUM. <i>3, 9, 6 ; 4, 29, 1</i> ; JUL. <i>Ep. 180</i>.<p><b>Étym</b>. ἐγκεντρίζω.`

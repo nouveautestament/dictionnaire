@@ -1,1 +1,0 @@
-lar[27609]=`<b>δορί·τολμος, ος, ον</b> <font color="purple">[ῐ]</font> audacieux avec la lance, A. PL. <i>4, 46</i>.<p><b>Étym</b>. δόρυ, τόλμα.`

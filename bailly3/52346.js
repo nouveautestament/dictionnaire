@@ -1,1 +1,0 @@
-lar[52346]=`<b>ῆς (ἡ) :<br>      1</b> réception, PLAT. <i>Leg. 867e.</i><br><b>      2</b> réceptacle, GAL. <i>14, 713</i>.<p><b>Étym</b>. καταδέχομαι.`

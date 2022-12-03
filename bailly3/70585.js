@@ -1,1 +1,0 @@
-lar[70585]=`<b>οἰνο·φαγία, ας (ἡ)</b> <font color="purple">[φᾰ]</font> action de manger du raisiné, LUC. <i>V.H. 1, 7</i>.<p><b>Étym</b>. οἶν. φαγεῖν.`

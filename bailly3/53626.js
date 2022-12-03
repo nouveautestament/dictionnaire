@@ -1,1 +1,0 @@
-lar[53626]=`<b>κατα·φαυλίζω</b>, rendre mauvais <i>ou</i> méprisable, déprécier, PLUT. <i>Alex. 28</i>.`

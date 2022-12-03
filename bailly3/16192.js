@@ -1,1 +1,0 @@
-lar[16192]=`<i>adv</i>., en tombant des astres, ARAT. <i>1013 (var</i>. οὐρανόθεν).<p><b>Étym</b>. ἀστήρ, -θεν.`

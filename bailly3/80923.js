@@ -1,1 +1,0 @@
-lar[80923]=`<b>ῶνος (ἡ) :<br>      1</b> Pleurôn (<i>auj</i>. ruines près de Mesókampos) <i>v. d’Étolie,</i> IL. <i>2, 639 ; 14, 116</i> ; SOPH. <i>Tr. 7</i> ; THC. <i>3, 102, etc.</i><br><b>      2</b> le territoire de Pleurôn, IL. <i>13, 217, etc</i>.`

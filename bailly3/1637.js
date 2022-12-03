@@ -1,1 +1,0 @@
-lar[1637]=`<b>ας (ἡ)</b> génération perpétuelle, JAMBL. (STOB. <i>Ecl. 1, 900</i>) ; JUL. <i>Or. 6, 185c</i>.<p><b>Étym</b>. ἀειγενής.`

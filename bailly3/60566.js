@@ -1,1 +1,0 @@
-lar[60566]=`<b>λευκό·θριξ</b>, <i>gén</i>. <b>-τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> à cheveux blancs, <i>d’où, p. anal.</i> :<br><b>      1</b> à crinière blanche, CALL. <i>Cer. 120</i>.<br><b>      2</b> à toison blanche, AR. <i>Av. 971</i> ; STR. <i>784</i>.`

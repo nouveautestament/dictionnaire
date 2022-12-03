@@ -1,1 +1,0 @@
-lar[243]=`<b>(ὁ)</b> <i>ion</i>. <b>-ίης</b> <font color="purple">[ᾰγᾰ]</font> Agathias, <i>poète et historien</i>.<p><b>Étym</b>. ἀγαθός.`

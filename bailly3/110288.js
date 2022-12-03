@@ -1,1 +1,0 @@
-lar[110288]=`<b>ὠμοτοκέω-ῶ :<br>      1</b> accoucher <i>ou</i> mettre bas avant terme, GEOP. <i>5, 48, 3</i> ; AÉT. <i>16, 46</i> ; MAN. <i>2, 288</i>.<br><b>      2</b> avorter, SPT. <i>Job 21, 10</i> ; DH. <i>9, 40</i>.<p><b>Étym</b>. ὠμοτόκος.`

@@ -1,1 +1,0 @@
-lar[84111]=`<b>προ·εκτίνω</b> <font color="purple">[ῑ]</font> payer <i>ou</i> acquitter auparavant, THÉM. <i>199c ;</i> LIB. <i>4, 85</i>.`

@@ -1,1 +1,0 @@
-lar[88116]=`<b>ας (ἡ)</b> élève (élevage) de jeunes chevaux, DIOTOG. (STOB. <i>Fl. 43, 95).</i><p><b>Étym</b>. πωλοτρόφος.`

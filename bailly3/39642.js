@@ -1,1 +1,0 @@
-lar[39642]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> joie qu’on éprouve du malheur d’autrui, ARSTT. <i>Nic. 2, 6, 18 ; 2, 7, 15</i>.`

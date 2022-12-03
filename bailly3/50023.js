@@ -1,1 +1,0 @@
-lar[50023]=`<b>ων (αἱ)</b> <font color="purple">[ῑῐᾰῐ]</font> sorte de chaussures <i>légères imaginées par</i> Iphikratès <i>et données par lui aux mercenaires,</i> DS. <i>15, 44</i> ; ALCIPHR. <i>3, 57</i>.<p><b>Étym</b>. Ἰφικράτης.`

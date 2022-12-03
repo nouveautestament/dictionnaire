@@ -1,1 +1,0 @@
-lar[7721]=`<b>ἀνα·σφάλλω</b> <font color="darkgreen">(<i>f</i>. -σφαλῶ, <i>ao</i>. ἀνέσφηλα)</font> se relever d’une chute, <i>avec le gén</i>. PLAT. <i>Ax. 364c ;</i> ἐκ νόσου, BABR. <i>75, 9 ; ou sans prép</i>. νόσου, BABR. <i>78, 3</i> ; ἐκ κακῶν, LUC. <i>Abd. 32,</i> se remettre d’une maladie, d’événements malheureux.`

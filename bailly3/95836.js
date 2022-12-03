@@ -1,1 +1,0 @@
-lar[95836]=`<b>συν·εφοδιάζω</b>, venir également en aide à, PTOL. <i>Tetr. 1, p. 47c</i>.`

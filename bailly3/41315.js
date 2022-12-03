@@ -1,1 +1,0 @@
-lar[41315]=`<font color="purple">[ῠ]</font> <i>adv.</i> :<br><b>      1</b> différemment, PROCL. <i>Plat. Crat. (Bkk. 1164</i>).<br><b>      2</b> en suivant une autre déclinaison <i>ou</i> conjugaison, HDN GR. (EUST. <i>Il. 113, 35</i>).`

@@ -1,1 +1,0 @@
-lar[73814]=`<b>ου</b>, <i>adj. m</i>. à la vue perçante, LYC. <i>148</i>.<p><b>Étym</b>. ὀφθαλμός.`

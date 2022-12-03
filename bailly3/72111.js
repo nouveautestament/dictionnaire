@@ -1,1 +1,0 @@
-lar[72111]=`<b>ὀξύ·κρατον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> mélange d’eau et de vinaigre, ORIB. <i>p. 55 Mai</i>.<p>➳ <i>Ion</i>. -κρητον, ARÉT. <i>p. 74, 52, etc</i>.<p><b>Étym</b>. ὀ. κρατός.`

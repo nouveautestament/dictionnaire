@@ -1,1 +1,0 @@
-lar[78674]=`<b>περι·ϊάχω</b> (<i>seul. 3 sg. impf. avec contr</i>. περίαχε <font color="purple">[ῑ]</font>) résonner tout autour, HÉS. <i>Th. 678</i>.`

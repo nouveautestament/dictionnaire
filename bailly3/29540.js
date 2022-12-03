@@ -1,1 +1,0 @@
-lar[29540]=`<b>ἐγ·καταλοχίζω</b>, répartir par classes, SPT. <i>2Par. 31, 18</i>.<p><b>Étym</b>. ἐν, κ.`

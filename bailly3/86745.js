@@ -1,1 +1,0 @@
-lar[86745]=`<b>εως (ἡ)</b> action de déterminer d’avance, PTOL. <i>Tetr. p. 7, 12</i>.<p><b>Étym</b>. προτελέω.`

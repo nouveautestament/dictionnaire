@@ -1,1 +1,0 @@
-lar[50300]=`<b>ῆρος (ὁ)</b> <font color="purple">[κᾰ]</font> <i>c</i>. καθαρτής, PLUT. <i>M. 302a ;</i> MAN. <i>4, 251</i>.`

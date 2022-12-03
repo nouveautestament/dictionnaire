@@ -1,1 +1,0 @@
-lar[34871]=`<b>ἔν·ορχος, ος, ον</b>, <i>c</i>. ἐνόρχης 1, <i>en parl. d’animaux,</i> IL. <i>23, 147</i> ; τὰ ἔνορχα, HPC. <i>358, 24,</i> les animaux entiers ; <i>en parl. d’arbres,</i> ARSTT. (ATH. <i>652a</i>).`

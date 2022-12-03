@@ -1,1 +1,0 @@
-lar[14211]=`<b>ου (ὁ)</b> Argæos, <i>n. d’h. macédonien,</i> HDT. <i>8, 139</i> ; DÉM. <i>660, 16, etc</i>.`

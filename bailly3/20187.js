@@ -1,1 +1,0 @@
-lar[20187]=`<b>βοο·κτασία, ας (ἡ)</b> <font color="purple">[τᾰ]</font> tuerie de bœufs, A.RH. <i>4, 1724</i>.<p><b>Étym</b>. βοῦς, κτείνω.`

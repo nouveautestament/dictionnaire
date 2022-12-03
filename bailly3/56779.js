@@ -1,1 +1,0 @@
-lar[56779]=`<b>ου (ὁ)</b> bandeau, ceinture, lien, APD. POL. <i>47</i>.`

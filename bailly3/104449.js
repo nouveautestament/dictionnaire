@@ -1,1 +1,0 @@
-lar[104449]=`<b>ὑψηλό·κρημνος, ος, ον</b>, aux escarpements élevés, ESCHL. <i>Pr. 5</i>.<p><b>Étym</b>. ὑ. κρημνός.`

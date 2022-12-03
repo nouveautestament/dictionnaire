@@ -1,1 +1,0 @@
-lar[103676]=`<b>ὑπο·πηδάω-ῶ</b>, bondir de dessous, s’élancer, EL. <i>N.A. 12, 15</i> ; JOS. <i>B.J. 4, 1, 9</i>.`

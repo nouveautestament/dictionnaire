@@ -1,1 +1,0 @@
-lar[22471]=`<b>α, ον</b>, de Gorgô (de Gorgone) IL. <i>5, 741</i> ; OD. <i>11, 634</i> ; τὸ Γόργειον (<i>s.-e</i>. πρόσωπον), CIC. <i>Att. 4, 16,</i> tête de Gorgone.<p><b>Étym</b>. Γοργώ.`

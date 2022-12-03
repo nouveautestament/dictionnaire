@@ -1,1 +1,0 @@
-lar[84413]=`<b>προ·καθαίρω</b>, purifier auparavant, CLÉM. <i>846 ; en parl. de vignes,</i> émonder auparavant, GEOP. <i>5, 29, 2</i>.`

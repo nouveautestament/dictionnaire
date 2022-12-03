@@ -1,1 +1,0 @@
-lar[26512]=`<b>δικασπολέω-ῶ</b> <font color="purple">[ῐ]</font> rendre la justice, DIOTOG. (STOB. <i>Fl. 48, 61).</i><p><b>Étym</b>. δικασπόλος.`

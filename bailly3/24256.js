@@ -1,1 +1,0 @@
-lar[24256]=`<b>ή, όν</b>, propre à capter la faveur du peuple, PLAT. <i>Phædr. 248e ;</i> περί τινα, M. ANT. <i>1, 16</i>, auprès de qqn.<p><b>Étym</b>. δημοκόπος.`

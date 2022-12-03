@@ -1,1 +1,0 @@
-lar[71136]=`<b>ου (τὸ)</b> gouvernail, SOPH. (POLL. <i>10, 134).</i><p><b>Étym</b>. ὁλκός.`

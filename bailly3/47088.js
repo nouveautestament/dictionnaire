@@ -1,1 +1,0 @@
-lar[47088]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> esclave thessalien, PHILOCR. (ATH. 264a).<p><b>Étym</b>. Θεσσαλός, οἰχέτης.`

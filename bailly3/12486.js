@@ -1,1 +1,0 @@
-lar[12486]=`<b>ἀπο·καθίζω</b> (<i>part. ao</i>. -καθίσας) :<br><b>      1</b> siéger à l’écart, POL. <i>31, 10, 3</i>.<br><b>      2</b> s’asseoir à terre, PLUT. <i>M. 649b</i>.`

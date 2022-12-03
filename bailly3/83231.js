@@ -1,1 +1,0 @@
-lar[83231]=`<b>Πραξ·αγόρα, ας (ἡ)</b> <font color="purple">[ᾰγ]</font> Praxagora, <i>f</i>. AR. <i>Eccl. 124, etc</i>.<p><b>Étym</b>. <i>v</i>. Πραξαγόρας.`

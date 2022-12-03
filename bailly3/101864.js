@@ -1,1 +1,0 @@
-lar[101864]=`<b>ὑπ·άγκαλος</b>, <i>ou mieux</i> <b>ὑπ·αγκάλιος, ος, ον</b> <font color="purple">[ῠκᾰ]</font> qu’on prend dans ses bras, qu’on embrasse, DH. <i>7, 67</i>.<p><b>Étym</b>. ὑ. ἀγκάλη.`

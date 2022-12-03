@@ -1,1 +1,0 @@
-lar[107663]=`<b>χαλκο·κνήμις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑδ]</font> aux bottines d’airain, IL. <i>7, 41</i>.<p><b>Étym</b>. χ. κνημίς.`

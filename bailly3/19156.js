@@ -1,1 +1,0 @@
-lar[19156]=`<b>βαρύ·κομπος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui mugit sourdement, PD. <i>P. 5, 56</i>.<p><b>Étym</b>. β. κόμπος.`

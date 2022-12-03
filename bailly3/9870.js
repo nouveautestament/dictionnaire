@@ -1,1 +1,0 @@
-lar[9870]=`<b>ἀντι·δωρεά, ᾶς (ἡ)</b> présent en retour d’un autre, ARSTT. <i>Nic. 4, 2, 15</i>.`

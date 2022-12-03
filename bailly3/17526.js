@@ -1,1 +1,0 @@
-lar[17526]=`<b>αὐτό·κλαδος, ος, ον</b> <font color="purple">[ᾰ]</font> avec les branches elles-mêmes, LUC. <i>V.H. 1, 40</i>.<p><b>Étym</b>. αὐ. κλάδος.`

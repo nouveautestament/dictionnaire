@@ -1,1 +1,0 @@
-lar[35427]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμ]</font> division en six parties, STOB. <i>Ecl. 2, 46</i>.<p><b>Étym</b>. ἑξαμερής.`

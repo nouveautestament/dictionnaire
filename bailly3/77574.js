@@ -1,1 +1,0 @@
-lar[77574]=`<b>ιος (ἡ)</b> sorte de champignon sans stipe, TH. <i>H.P. 1, 6, 5</i>.<p><b>Étym</b>. πεζός.`

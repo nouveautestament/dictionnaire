@@ -1,1 +1,0 @@
-lar[52064]=`<b>κασσιτερο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> ouvrier en étain, PROCL. <i>Ptol. p. 251</i>.<p><b>Étym</b>. κ. ποιέω.`

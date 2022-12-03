@@ -1,1 +1,0 @@
-lar[87878]=`<b>πυρι·κοίτης, ου</b> <font color="purple">[ῠῐ]</font> <i>adj. m</i>. qui recouvre et conserve le feu, ANTH. <i>6, 294</i>.<p><b>Étym</b>. π. κοίτη.`

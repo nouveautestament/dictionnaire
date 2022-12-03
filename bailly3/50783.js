@@ -1,1 +1,0 @@
-lar[50783]=`<b>κακο·μήχανος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui fabrique d’odieuses machinations, <i>d’où</i> fourbe, IL. <i>6, 344, etc.</i> ; OD. <i>16, 418</i>.<p>➳ <i>Dor</i>. κακομάχανος <font color="purple">[ᾰᾱᾰ]</font> BION <i>8, 7</i>.<p><b>Étym</b>. κ. μηχανή.`

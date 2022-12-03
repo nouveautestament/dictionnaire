@@ -1,1 +1,0 @@
-lar[28405]=`<b>δυσ·εξερεύνητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à découvrir <i>ou</i> à explorer, ARSTT. <i>Pol. 7, 11, 6</i>.<p><b>Étym</b>. δ. ἐξερευνάω.`

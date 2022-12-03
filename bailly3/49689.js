@@ -1,1 +1,0 @@
-lar[49689]=`<b>ἰσ·όμοιος, ος, ον</b> <font color="purple">[ῑ̆]</font> égal et semblable, ORIG. <i>1, 509 Migne</i>.<p><b>Étym</b>. ἴ. ὅμοιος.`

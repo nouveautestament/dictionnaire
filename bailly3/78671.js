@@ -1,1 +1,0 @@
-lar[78671]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec une grande irritation, HDT. <i>2, 162</i> ; ESCHL. <i>Ch. 40</i> ; PLAT. <i>Tim. 87e</i>.`

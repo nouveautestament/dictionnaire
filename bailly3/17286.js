@@ -1,1 +1,0 @@
-lar[17286]=`<b>ος, ον</b>, du lendemain, EUR. <i>Hipp. 1117</i>.`

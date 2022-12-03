@@ -1,1 +1,0 @@
-lar[49054]=`<b>ἰντυβο·λάχανον, ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> sorte de chicorée, GAL. <i>14, 321</i>.<p><b>Étym</b>. ἴντυβος, λάχανον.`

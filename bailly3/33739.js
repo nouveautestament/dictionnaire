@@ -1,1 +1,0 @@
-lar[33739]=`<font color="purple">[ῠ]</font> planter dans, greffer sur, <i>avec</i> ἐν <i>et le dat</i>. TH. <i>C.P. 1, 6, 1 ; 2, 14, 5</i> ; DS. <i>5, 16 ; fig. dat</i>. PLAT. <i>Tim. 70c ; p. ext</i>. introduire, établir, dans : μονάρχους τοῖς Ἕλλησι, POL. <i>2, 41, 10,</i> des monarques chez les Grecs.<p><b>Étym</b>. ἐν, φ.`

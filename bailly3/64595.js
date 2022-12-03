@@ -1,1 +1,0 @@
-lar[64595]=`<b>(ἡ)</b> Mespila (<i>auj</i>. Mossoul) <i>v</i>. d’Assyrie, XÉN. <i>An. 3, 4, 10</i>.`

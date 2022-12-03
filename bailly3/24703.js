@@ -1,1 +1,0 @@
-lar[24703]=`<b>ος, ον</b>, qui se décide au moyen d’arbitres, arbitral, IS. (POLL. <i>8, 64).</i><p><b>Étym</b>. διαιτάω.`

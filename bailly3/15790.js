@@ -1,1 +1,0 @@
-lar[15790]=`<b>ου (τὸ)</b> Asélènon, <i>mt de Locride,</i> NIC. <i>Th. 215</i>.<p><b>Étym</b>. <i>v</i>. ἀσέληνος.`

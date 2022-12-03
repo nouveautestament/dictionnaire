@@ -1,1 +1,0 @@
-lar[74927]=`<b>παν·δεχής, ής, ές</b>, qui contient tout, PLAT. <i>Tim. 51a ;</i> ARSTT. <i>Cæl. 3, 8, 3, etc</i>.<p><b>Étym</b>. π. δέχομαι.`

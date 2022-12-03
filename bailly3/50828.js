@@ -1,1 +1,0 @@
-lar[50828]=`<b>κακο·πραγέω-ῶ</b> <font color="purple">[ᾰᾱ]</font> être malheureux dans ses entreprises, <i>d’où</i> être malheureux, THC. <i>4, 55, etc</i>.<p><b>Étym</b>. κ. πράσσω.`

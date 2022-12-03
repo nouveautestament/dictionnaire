@@ -1,1 +1,0 @@
-lar[106292]=`<b>ων (τὰ)</b> <font color="purple">[ᾰκ]</font> <i>éol. c</i>. ψιττάκια, EUST. <i>1210, 42</i>.`

@@ -1,1 +1,0 @@
-lar[71417]=`<b>ήεσσα, ῆεν</b>, <i>ion</i>. brumeux, nébuleux, sombre, NONN. <i>D. 35, 276</i> ; P. SIL. <i>Ecphr. ag. Soph. 191</i>.<p><b>Étym</b>. ὁμίχλη.`

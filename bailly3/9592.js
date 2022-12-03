@@ -1,1 +1,0 @@
-lar[9592]=`<b>(ἡ)</b> = <i>lat</i>. Antemnæ, <i>v. des Sabins,</i> PLUT. <i>Rom. 17, Syll. 30</i>.`

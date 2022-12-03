@@ -1,1 +1,0 @@
-lar[48063]=`<b>θυρωρέω-ῶ</b> <font color="purple">[ῠ]</font> être portier, PLUT. <i>M. 830a ;</i> LUC. <i>V. auct. 7</i>.<p><b>Étym</b>. θυρωρός.`

@@ -1,1 +1,0 @@
-lar[2891]=`<b>αἰσχρο·διδάκτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui enseigne des choses honteuses, MAN. <i>4, 307</i>.<p><b>Étym</b>. αἰ. διδάσκω.`

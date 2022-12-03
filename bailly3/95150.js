@@ -1,1 +1,0 @@
-lar[95150]=`<b>συν·διασκοπέω-ῶ</b>, <i>c</i>. συνδιασκέπτομαι : τι μετά τινος, PLAT. <i>Prot. 361d ;</i> τί τινι, PLAT. <i>Rsp. 458b</i>, examiner qqe ch. avec qqn.`

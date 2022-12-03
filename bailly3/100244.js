@@ -1,1 +1,0 @@
-lar[100244]=`<b>τρι·κέφαλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à trois têtes, AR. <i>fr. 468</i> ; IS. <i>et</i> PHILOCH. <i>69</i> (HARP. <i>p. 178, 4 Bkk</i>.) ; LUC. <i>V.H. 1, 11, etc</i>.<p>➳ <font color="purple">[ᾱ]</font> AR. <i>Eq. 417</i>.<p><b>Étym</b>. τρ. κεφαλή.`

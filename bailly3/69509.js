@@ -1,1 +1,0 @@
-lar[69509]=`<b>ου (τὸ)</b> hôte de rien, méchant petit hôte, MÉN. <i>fr. 450</i>.<p><b>Étym</b>. <i>dim. de</i> ξένος.`

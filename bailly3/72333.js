@@ -1,1 +1,0 @@
-lar[72333]=`<b>      1</b> servir dans les hoplites, THC. <i>6, 91</i> ; XÉN. <i>An. 5, 8, 5, etc.</i><br><b>      2</b> commander des hoplites, THC. <i>8, 73</i>.<p><b>Étym</b>. ὁπλίτης.`

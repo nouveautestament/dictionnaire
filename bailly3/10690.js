@@ -1,1 +1,0 @@
-lar[10690]=`<b>ἀντ·ωνέομαι-οῦμαι :<br>      1</b> acheter à la place d’un autre, XÉN. <i>Œc. 20, 26</i> ; MÉN. (SUID. <i>v°</i> Ἅβρα).<br><b>      2</b> enchérir sur (qqn) AND. <i>17, 29</i> ; DÉM. <i>307, 6 ; dat</i>. LYS. <i>165, 5</i>.`

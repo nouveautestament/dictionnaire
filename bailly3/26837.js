@@ -1,1 +1,0 @@
-lar[26837]=`<b>εως (ἡ)</b> examen approfondi, CHRYS. <i>5, 41</i>.<p><b>Étym</b>. *διοπτρίζω <i>de</i> διόπτρα.`

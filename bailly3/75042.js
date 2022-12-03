@@ -1,1 +1,0 @@
-lar[75042]=`<b>Πάν·θειον, ου (τὸ)</b> <i>s.e</i>. ἱερόν, temple consacré à tous les dieux, ARSTT. (SCH.-AR. <i>Pl. 586) ; à Rome,</i> panthéon, DC. <i>53, 27</i>.<p><b>Étym</b>. <i>neutre de</i> πάνθειος.`

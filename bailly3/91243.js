@@ -1,1 +1,0 @@
-lar[91243]=`<b>ου (ὁ)</b> = <i>lat</i>. Scribōnius, <i>n. d’h. rom</i>. LUC. <i>Macr. 17, etc</i>.`

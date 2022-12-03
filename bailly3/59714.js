@@ -1,1 +1,0 @@
-lar[59714]=`<b>ιδος (ὁ)</b> Lampis, <i>h</i>. DÉM. <i>690 fin</i> ; LUC. <i>D. mort. 27, 7</i>.<p>➳ <i>Voc</i>. -ι, ANTH. <i>10, 102 ; acc</i>. -ιν, DÉM. <i>23, 211 Baiter-Sauppe</i> ; PLUT. <i>Apophth. lac. 45</i>.`

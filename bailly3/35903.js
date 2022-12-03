@@ -1,1 +1,0 @@
-lar[35903]=`<b>ἐξεχέ·γλουτος, ος, ον</b>, qui a les fesses saillantes, HPC. <i>Art. 823</i>.<p><b>Étym</b>. ἐξέχω, γλουτός.`

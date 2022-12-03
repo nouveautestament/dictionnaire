@@ -1,1 +1,0 @@
-lar[21126]=`<b>(ὁ)</b> <i>indécl</i>. (l’archange) Gabriel, NT. <i>Luc. 1, 19, etc</i>.<p><b>Étym</b>. <i>n. hébreu</i>.`

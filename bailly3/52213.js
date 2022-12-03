@@ -1,1 +1,0 @@
-lar[52213]=`<b>κατα·γεύομαι</b>, goûter à, <i>fig. càd</i>. essayer, <i>gén</i>. HLD. CHIR. (CHIR. <i>p. 94</i>).`

@@ -1,1 +1,0 @@
-lar[67838]=`<b>ναυτο·λόγος, ου (ὁ)</b> officier chargé de lever des matelots <i>ou</i> de réunir des passagers, STR. <i>375</i>.<p><b>Étym</b>. ναύτης, λέγω.`

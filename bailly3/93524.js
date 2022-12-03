@@ -1,1 +1,0 @@
-lar[93524]=`<b>συγκρατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> contenir ensemble <i>ou</i> solidement, PLUT. <i>Phoc. 12</i>.<br><b>      2</b> garder en soi-même, retenir (son souffle) DL. <i>6, 76 ; fig</i>. conserver en soi <i>ou</i> pour soi, PLUT. <i>M. 508d.</i><br><b>      3</b> gouverner, conserver, PLUT. <i>M. 876a</i>.`

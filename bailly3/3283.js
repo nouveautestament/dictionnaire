@@ -1,1 +1,0 @@
-lar[3283]=`<b>ἀ·κερσε·κόμης, ου (ὁ)</b> à la chevelure non tondue, à la longue chevelure, <i>càd</i>. dans la force de la jeunesse, <i>ép. d’Apollon,</i> IL. <i>20, 39</i> ; HH. <i>Ap. 134</i> ; PD. <i>P. 3, 14</i> ; COL. <i>40</i> ; ANTH. <i>App. 243</i>.<p><b>Étym</b>. ἀ, κείρω, κόμη.`

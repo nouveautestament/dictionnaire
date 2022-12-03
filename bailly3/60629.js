@@ -1,1 +1,0 @@
-lar[60629]=`<b>λευκο·φορινό·χροος, οος, οον</b> <font color="purple">[ῑ]</font> qui a la peau blanche, PHILOX. (ATH. <i>147d</i>).<p><b>Étym</b>. λ. φορίνη, χρόα.`

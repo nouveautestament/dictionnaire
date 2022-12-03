@@ -1,1 +1,0 @@
-lar[80774]=`<b>πλατύ·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰῠ]</font> aux larges pieds, DL. <i>1, 81</i>.<p><b>Étym</b>. πλ. πούς.`

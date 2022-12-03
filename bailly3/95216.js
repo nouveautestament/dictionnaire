@@ -1,1 +1,0 @@
-lar[95216]=`<b>συν·δουλεύω</b>, être compagnon d’esclavage de, <i>dat</i>. EUR. <i>Hec. 204 ; abs</i>. DIN. (POLL. <i>3, 81</i>).`

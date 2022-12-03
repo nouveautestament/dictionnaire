@@ -1,1 +1,0 @@
-lar[71502]=`<b>ὁμο·ήθης, ης, όηθες</b>, qui a les mêmes mœurs <i>ou</i> le même caractère, PLAT. <i>Gorg. 510c ;</i> ARSTT. <i>Nic. 8, 13</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Nic. 8, 14</i>.<p><b>Étym</b>. ὁμ. ἦθος.`

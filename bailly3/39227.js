@@ -1,1 +1,0 @@
-lar[39227]=`<b>ἐπι·συνάπτω</b>, joindre avec, adapter à : τί τινι, POL. <i>3, 2, 8,</i> une ch. à une autre ; μάχην τινί, DS. <i>14, 94,</i> engager un combat avec qqn ; <i>fig</i>. rattacher à : τι ἀπό τινος, DH. <i>1, 87,</i> faire dépendre une ch. d’une autre.`

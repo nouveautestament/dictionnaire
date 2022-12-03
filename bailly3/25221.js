@@ -1,1 +1,0 @@
-lar[25221]=`<b>δι·απειλέω-ῶ</b> <font color="purple">[ᾰ]</font> menacer fortement, HDT. <i>7, 15 ; avec</i> ὡς <i>et le fut. ind</i>. HDT. <i>2, 121 ; avec l’inf. fut</i>. PLUT. <i>Oth. 16</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. δ. τινι, ESCHN. <i>7, 1</i>, adresser de violentes menaces à qqn ; <i>avec l’inf</i>. POL. <i>1, 78, 15</i>.`

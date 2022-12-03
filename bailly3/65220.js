@@ -1,1 +1,0 @@
-lar[65220]=`<b>ή, όν</b>, qu’on peut <i>ou</i> qu’il faut mesurer, EUR. <i>Bacch. 1242</i> ; PLAT. <i>Leg. 119c, 820c, etc</i>.<p><b>Étym</b>. μετρέω.`

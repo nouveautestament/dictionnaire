@@ -1,1 +1,0 @@
-lar[96114]=`<b>εως (ἡ)</b> enflure simultanée, MNÉSITH. (MÉD. <i>p. 211 Matthäi</i>) ; SOR. <i>Obst. 273, 7 Dietz</i>.<p><b>Étym</b>. συνοιδάω.`

@@ -1,1 +1,0 @@
-lar[109715]=`<b>ῶν (τὰ)</b> <font color="purple">[ᾱνῐ]</font> fausse terreur panique, alarme simulée, POLYEN <i>3, 9, 32</i>.<p><b>Étym</b>. ψ. πανικός.`

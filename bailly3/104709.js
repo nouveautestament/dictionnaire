@@ -1,1 +1,0 @@
-lar[104709]=`<font color="purple">[φᾰ]</font> en ordre de bataille, en troupe rangée, IL. <i>15, 360</i> ; POL. <i>3, 115, 12, etc.</i> ; PLUT. <i>Oth. 12, etc</i>.<p><b>Étym</b>. φάλαγξ, -δον.`

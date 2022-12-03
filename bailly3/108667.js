@@ -1,1 +1,0 @@
-lar[108667]=`<b>χοινικο·μέτρης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui mesure avec le chénice, ATH. <i>272b</i>.<p><b>Étym</b>. χοῖνιξ, μετρέω.`

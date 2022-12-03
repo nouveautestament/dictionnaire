@@ -1,1 +1,0 @@
-lar[14960]=`<b>εως (ἡ) :<br>      1</b> action de nier, dénégation, ESCHL. <i>Eum. 588</i> ; SOPH. <i>O.R. 578, El. 527</i> ; PLAT. <i>Leg. 948d, etc.</i><br><b>      2</b> <i>t. de gr</i>. négation, D. THR. <i>642, 3</i> ; LESBON. GR. <i>187</i>.<p><b>Étym</b>. ἀρνέομαι.`

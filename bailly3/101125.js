@@ -1,1 +1,0 @@
-lar[101125]=`<b>ου (τὸ)</b> <font color="purple">[ῡῐδ]</font> <i>dim. de</i> τυρός, EPICH. (ATH. <i>366b</i>) ; DL. <i>6, 36 Cobet</i>.`

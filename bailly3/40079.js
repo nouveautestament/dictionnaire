@@ -1,1 +1,0 @@
-lar[40079]=`<b>ἐπ·ωλένιος, ος, ον</b>, qu’on porte <i>ou</i> qu’on appuie sur le bras, HH. <i>Merc. 433, 510</i> ; A.RH. <i>1, 557</i>.<p><b>Étym</b>. ἐπί, ὠλένη.`

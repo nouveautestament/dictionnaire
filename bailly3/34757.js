@@ -1,1 +1,0 @@
-lar[34757]=`<b>ἐν·νεόω-εῶ</b>, renouveler la terre, donner une façon, GEOP. <i>3, 1, 9</i>.`

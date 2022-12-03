@@ -1,1 +1,0 @@
-lar[7017]=`<i>vb. de</i> ἀνάγω :<br><b>      1</b> il faut reporter, <i>acc</i>. HPC. <i>268, 1</i>.<br><b>      2</b> il faut rapporter à : τι εἴς τι, ARSTT. <i>G.A. 5, 1, 4,</i> (la cause d’) une chose à qqe ch.`

@@ -1,1 +1,0 @@
-lar[11998]=`<b>ἀπιστό·κορος, ος, ον</b>, profondément incrédule, SIB. <i>1, 150, etc</i>.<p><b>Étym</b>. ἄπιστος, κόρος.`

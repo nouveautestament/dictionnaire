@@ -1,1 +1,0 @@
-lar[94512]=`<b>συμ·ψήχω</b>, frotter <i>ou</i> écraser l’un contre l’autre, DIOSC.`

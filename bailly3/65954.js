@@ -1,1 +1,0 @@
-lar[65954]=`<b>μισ·αλέξανδρος, ος, ον</b> <font color="purple">[ῑᾰλ]</font> ennemi d’Alexandre, ESCHN. <i>64, 13</i> ; PLUT. <i>M. 344b</i>.`

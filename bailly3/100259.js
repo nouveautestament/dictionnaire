@@ -1,1 +1,0 @@
-lar[100259]=`<b>τρί·κορυς, υθος (ὁ, ἡ)</b> <font color="purple">[ῐῠ]</font> au casque surmonté de trois cimiers, EUR. <i>Bacch. 123</i>.<p><b>Étym</b>. τρεῖς, κόρυς.`

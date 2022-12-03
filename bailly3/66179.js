@@ -1,1 +1,0 @@
-lar[66179]=`<b>ή, όν</b>, dont on se souvient, ARSTT. <i>Rhet. 1, 9 et 11, etc</i>.<p><b>Étym</b>. μνημονεύω.`

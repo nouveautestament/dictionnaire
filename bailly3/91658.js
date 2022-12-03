@@ -1,1 +1,0 @@
-lar[91658]=`<b>ου (ὁ)</b> Sophilos, <i>h</i>. PLUT. <i>X orat. Antiph. 1</i>.<p><b>Étym</b>. σοφός.`

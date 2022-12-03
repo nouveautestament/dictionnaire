@@ -1,1 +1,0 @@
-lar[11242]=`<b>εως (ἡ)</b> <font color="purple">[πᾰᾱ]</font> dépense en pure perte, DS. <i>1, 41</i>.<p><b>Étym</b>. ἀπαναλίσκω.`

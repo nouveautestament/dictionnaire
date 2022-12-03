@@ -1,1 +1,0 @@
-lar[5995]=`<b>ἀμφ·αραβέω-ῶ</b> <font color="purple">[ᾰρᾰ]</font> (<i>seul. ao. 3 sg</i>. ἀμφαράβησε) retentir alentour, IL. <i>21, 408</i>.`

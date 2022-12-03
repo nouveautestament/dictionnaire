@@ -1,1 +1,0 @@
-lar[37680]=`<b>ἐπι·δράω-ῶ</b>, faire ensuite <i>ou</i> en outre, PHILSTR. <i>234</i> ; NYSS. <i>2, 721</i>.`

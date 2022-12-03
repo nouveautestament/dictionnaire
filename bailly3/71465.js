@@ -1,1 +1,0 @@
-lar[71465]=`<b>ὁμό·διφρος, ος, ον</b> <font color="purple">[ῐ]</font> compagnon de char, NONN. <i>D. 21, 193</i>.<p><b>Étym</b>. ὁμ. δίφρος.`

@@ -1,1 +1,0 @@
-lar[28386]=`<b>δυσ·ένδοτος, ος, ον</b> <font color="purple">[ῠ]</font> qui cède avec peine, CHRYS. <i>1, 33</i>.<p><b>Étym</b>. δ. ἐνδίδωμι.`

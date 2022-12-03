@@ -1,1 +1,0 @@
-lar[40882]=`<b>ατος (τὸ) :<br>      1</b> question, interrogation, THC. <i>3, 54, 60, etc.</i> ; PLAT. <i>Prot. 336d.</i><br><b>      2</b> <i>particul. t. de dialect</i>. question posée à l’interlocuteur pour l’amener à une conclusion, ARSTT. <i>An. pr. 1, 75, 8, etc</i>.<p><b>Étym</b>. ἐρωτάω.`

@@ -1,1 +1,0 @@
-lar[36149]=`<b>οῦ (ὁ)</b> perte séminale pendant le sommeil, ARSTT. <i>H.A. 10, 6, 5 ; Probl. 4, 5</i> ; TH. <i>fr. 7, 16</i>.<p><b>Étym</b>. ἐξονειρώσσω.`

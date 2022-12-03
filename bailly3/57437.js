@@ -1,1 +1,0 @@
-lar[57437]=`<b>α, ον</b>, plus jeune, <i>d’où simpl</i>. jeune, IL. <i>4, 316</i> ; OD. <i>21, 310</i> ; HÉS. <i>O. 445</i> ; A.RH. <i>1, 408, etc</i>.<p><b>Étym</b>. <i>cp. dérivé de</i> κοῦρος.`

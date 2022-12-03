@@ -1,1 +1,0 @@
-lar[7054]=`<b>ἀνα·κωκύω</b> <font color="purple">[ῡ]</font> pousser des cris de douleur, ESCHL. <i>Pers. 468</i> ; SOPH. <i>Ant. 423, 1227</i> ; HPC. <i>1280, 13</i> ; LUC. <i>Cat. 3, etc</i>.`

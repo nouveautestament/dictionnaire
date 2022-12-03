@@ -1,1 +1,0 @@
-lar[64415]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. μεροπήϊος OPP. <i>C. 1, 23</i>.`

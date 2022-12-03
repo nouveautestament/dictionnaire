@@ -1,1 +1,0 @@
-lar[32139]=`<b>ἐκ·τεύχω</b>, façonner, produire, HPC. <i>1289, 54</i>.`

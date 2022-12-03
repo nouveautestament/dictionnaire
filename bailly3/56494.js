@@ -1,1 +1,0 @@
-lar[56494]=`<b>κοινό·τοκος, ος, ον</b>, né de parents communs, <i>d’où</i> qui concerne un frère, SOPH. <i>El. 854</i>.<p><b>Étym</b>. κοινός, τίκτω.`

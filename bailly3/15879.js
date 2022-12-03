@@ -1,1 +1,0 @@
-lar[15879]=`<b>ἀ·σιώπητος, ος, ον</b>, qu’on ne doit pas taire, EUN. <i>Exc. p. 90, 9</i>.<p><b>Étym</b>. ἀ, σιωπάω.`

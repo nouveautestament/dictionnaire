@@ -1,1 +1,0 @@
-lar[42435]=`<b>ας (ἡ)</b> Eukleia (<i>litt</i>. la glorieuse) :<br><b>      1</b> <i>n. d’Artémis à Thèbes et à Corinthe,</i> PAUS. <i>9, 17, 1</i>.<br><b>      2</b> <i>n. de f</i>. PLUT. <i>Arist. 20</i> ; ATH. <i>583e</i>.<p><b>Étym</b>. εὐκλεής.`

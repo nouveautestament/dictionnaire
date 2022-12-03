@@ -1,1 +1,0 @@
-lar[12323]=`<b>ᾶς (ἡ)</b> action d’écorcher, P. ÉG. <i>106 Briau</i>.<p><b>Étym</b>. ἀποδέρω.`

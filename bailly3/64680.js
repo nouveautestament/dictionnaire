@@ -1,1 +1,0 @@
-lar[64680]=`<b>ου (ὁ)</b> qui préside au mois Μεταγειτνιών <i>ou</i> aux fêtes Μεταγείτνια (Apollon) LYSIM. (HARP.).`

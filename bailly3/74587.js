@@ -1,1 +1,0 @@
-lar[74587]=`<b>παλι·νόστιμος, ος, ον</b> <font color="purple">[ᾰλῐ]</font> qui peut <i>ou</i> qui doit revenir, OPP. <i>H. 1, 616</i> ; NONN. <i>D. 11, 413</i>.<p><b>Étym</b>. π. νόστιμος.`

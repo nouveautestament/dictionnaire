@@ -1,1 +1,0 @@
-lar[106854]=`<b>φρενο·κλόπος, ος, ον</b>, qui trompe (<i>litt</i>. qui vole) l’esprit <i>ou</i> le cœur, A. PL. <i>198</i>.<p><b>Étym</b>. φρ. κλέπτω.`

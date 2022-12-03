@@ -1,1 +1,0 @@
-lar[61441]=`<font color="purple">[ῑ]</font> <i>adv</i>., simplement, sans apprêts, avec frugalité, ARTÉM. <i>1, 70</i>.<p>•<i> Sup</i>. λιτότατα, DL. <i>6, 105</i>.<p><b>Étym</b>. λιτός.`

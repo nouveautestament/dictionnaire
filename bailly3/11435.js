@@ -1,1 +1,0 @@
-lar[11435]=`<b>ἄ·παστος, ος, ον :<br>      1</b> qui n’a pas goûté de, qui est à jeun, IL. <i>19, 346 ; avec un gén</i>. OD. <i>4, 788</i> ; HH. <i>Cer. 200</i>.<br><b>      2</b> non mangé, intact, EL. <i>N.A. 11, 16</i>.<p><b>Étym</b>. ἀ, πατέω.`

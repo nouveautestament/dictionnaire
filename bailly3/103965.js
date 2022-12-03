@@ -1,1 +1,0 @@
-lar[103965]=`<b>εως (ἡ) :<br>      1</b> subordination, sujétion, DH. <i>1, 5</i> ; DL. <i>7, 122</i>.<br><b>      2</b> <i>t. de tact</i>. position en arrière, EL. TACT.<p><b>Étym</b>. ὑποτάσσω.`

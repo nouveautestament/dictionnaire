@@ -1,1 +1,0 @@
-lar[102684]=`<b>ὑπερ·οιδάω-ῶ</b>, se gonfler outre mesure <i>ou</i> extrêmement, LUC. <i>Am. 53</i>.`

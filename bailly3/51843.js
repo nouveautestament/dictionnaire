@@ -1,1 +1,0 @@
-lar[51843]=`<b>ων (οἱ)</b> les Carnutes, <i>pple gaulois,</i> PLUT. <i>Cæs. 25</i>.<p><b>Étym</b>. <i>lat</i>. Carnutes.`

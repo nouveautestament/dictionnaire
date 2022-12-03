@@ -1,1 +1,0 @@
-lar[94105]=`<b>συμ·παρατρέφω</b>, nourrir ensemble <i>ou</i> en même temps, XÉN. <i>Œc. 5, 5</i>.`

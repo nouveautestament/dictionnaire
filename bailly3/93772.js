@@ -1,1 +1,0 @@
-lar[93772]=`<b>συλ·λεσχηνεύω</b>, s’entretenir avec, <i>dat</i>. APP. <i>Civ. 2, 98</i>.`

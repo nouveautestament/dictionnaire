@@ -1,1 +1,0 @@
-lar[9792]=`<b>(ὁ)</b> Antigénidas, <i>célèbre joueur de flûte,</i> PLUT. <i>Demetr. 1</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀντιγένης.`

@@ -1,1 +1,0 @@
-lar[7452]=`<i>adv</i>., indissolublement, GAL. <i>13, 183</i>.`

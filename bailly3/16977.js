@@ -1,1 +1,0 @@
-lar[16977]=`<b>ῆς (ἡ)</b> Atropatène, <i>province de Médie sur la mer Caspienne,</i> STR.`

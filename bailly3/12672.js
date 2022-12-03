@@ -1,1 +1,0 @@
-lar[12672]=`<b>εως (ἡ)</b> déclin de la lune, A. APHR. <i>Probl. 1, 66</i> ; A. TR. <i>10, p. 592</i> ; CLÉM. <i>814, etc</i>.<p><b>Étym</b>. ἀποκρούω.`

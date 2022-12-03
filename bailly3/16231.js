@@ -1,1 +1,0 @@
-lar[16231]=`<b>ἄ·στοιχος, ος, ον</b>, non aligné, qui ne forme pas de rangées, TH. <i>H.P. 8, 4, 2</i>.<p><b>Étym</b>. ἀ, στοῖχος.`

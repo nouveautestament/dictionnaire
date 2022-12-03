@@ -1,1 +1,0 @@
-lar[99249]=`<b>Τιμό·λαος, ου (ὁ)</b> <font color="purple">[ῑᾱ]</font> Timolaos, <i>h</i>. XÉN. <i>Hell. 3, 5, 1, etc.</i> ; DÉM. <i>241, 26, etc</i>.<p>➳ <i>Dor</i>. Τιμόλας, DÉM. <i>324, 15</i>.<p><b>Étym</b>. τιμή, λαός.`

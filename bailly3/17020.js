@@ -1,1 +1,0 @@
-lar[17020]=`<b>ἀττελεβ·όφθαλμος, ος, ον</b>, aux yeux de sauterelle, <i>càd</i>. proéminents <i>ou</i> saillants, EUB. (ATH. <i>450a</i>).<p><b>Étym</b>. ἀ. ὀφθαλμός.`

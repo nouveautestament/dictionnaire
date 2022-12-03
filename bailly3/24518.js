@@ -1,1 +1,0 @@
-lar[24518]=`<b>δια·γυμνόω-ῶ</b> <font color="darkgreen">(<i>impf. 3 sg</i>. διεγύμνου)</font> mettre complètement à nu, <i>acc. fig</i>. EUN. <i>Exc. p. 84, 3 Nieb</i>.`

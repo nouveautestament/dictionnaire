@@ -1,1 +1,0 @@
-lar[14135]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une façon relâchée, à de rares intervalles, HPC. <i>243, 36</i> ; D. CHR. <i>Or. 18, v. 1, p. 483</i>.<p>•<i> Cp</i>. -ότερον, ARÉT. <i>67, 27</i>.<p><b>Étym</b>. ἀραιός.`

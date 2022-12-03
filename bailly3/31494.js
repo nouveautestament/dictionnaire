@@ -1,1 +1,0 @@
-lar[31494]=`<b>ἐκ·κράζω :<br>   I <i>intr.</i></b> s’écrier, <i>càd.</i> :<br><b>      1</b> acclamer, PLUT. <i>M. 79e.</i><br><b>      2</b> pousser les hauts cris, LUC. <i>Ind. 21</i> ; DC. <i>48, 37, etc.</i><br><b>   ΙΙ <i>tr.</i></b> crier : τι, DC. <i>66, 15 ; 72, 13,</i> pousser des cris.`

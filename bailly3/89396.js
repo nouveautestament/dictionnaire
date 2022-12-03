@@ -1,1 +1,0 @@
-lar[89396]=`<b>ή, όν</b> <font color="purple">[ᾱν]</font> de Sardes, EUR. <i>fr. 631</i> ; οἱ Σαρδιανοί, XÉN. <i>Cyr. 7, 2, 3,</i> les habitants de Sardes.<p>➳ <i>Ion</i>. -ηνός, HDT. <i>1, 22, 80</i>.<p><b>Étym</b>. Σάρδεις.`

@@ -1,1 +1,0 @@
-lar[532]=`<b>ἀ·γεωμέτρητος, ος, ον :<br>      1</b> ignorant de la géométrie, ARSTT. <i>An. post. 1, 12, 3</i>.<br><b>      2</b> non géométrique, ARSTT. <i>An. post. 1, 12, 4</i> ; STR. <i>5, 1, 2 Kram</i>.<p><b>Étym</b>. ἀ, γεωμετρέω.`

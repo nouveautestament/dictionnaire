@@ -1,1 +1,0 @@
-lar[62877]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> fenouil, <i>plante,</i> DIOSC. <i>3, 81</i>.<p><b>Étym</b>. <i>cf</i>. μάραθον <i>et</i> μάραθος.`

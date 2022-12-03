@@ -1,1 +1,0 @@
-lar[67419]=`(<i>seul. prés</i>.) moucher, HPC. <i>369, 13</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *mug-, *muk-, glaire, glisser ; <i>cf. lat</i>. e-mungō ; <i>autrement p.-ê. pré-grec ; cf</i>. μυκτήρ, μύξα.`

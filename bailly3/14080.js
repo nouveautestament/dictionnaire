@@ -1,1 +1,0 @@
-lar[14080]=`<b>ἀ·πώρωτος, ος, ον</b>, qui refuse de se souder, <i>en parl. d’un os,</i> DIOSC. <i>1, 89</i>.<p><b>Étym</b>. ἀ, πωρόω.`

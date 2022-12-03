@@ -1,1 +1,0 @@
-lar[15987]=`<b>οῦ (ὁ)</b> joie, accueil joyeux, PHIL. STOB.<p><b>Étym</b>. ἀσμενίζω.`

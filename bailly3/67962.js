@@ -1,1 +1,0 @@
-lar[67962]=`<b>Νειλό·ρυτος, ος, ον</b> <font color="purple">[ῠ]</font> arrosé par le Nil, ANTH. <i>9, 350</i>.<p><b>Étym</b>. Ν. ῥέω.`

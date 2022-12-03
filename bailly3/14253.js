@@ -1,1 +1,0 @@
-lar[14253]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> indolent, EUR. <i>fr. 793</i>.<p><b>Étym</b>. ἀργός².`

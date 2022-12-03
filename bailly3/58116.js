@@ -1,1 +1,0 @@
-lar[58116]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> κρούνισμα HÉRON <i>Spir. 162</i>.`

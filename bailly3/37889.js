@@ -1,1 +1,0 @@
-lar[37889]=`<b>ἐπι·καλλύνω</b> <font color="purple">[ῡ]</font> embellir par-dessus, farder, THÉM. <i>359b</i>.`

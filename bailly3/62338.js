@@ -1,1 +1,0 @@
-lar[62338]=`<i>voc</i>. <b>εῦ (ὁ)</b> <font color="purple">[ᾰ]</font> fils de Mæa, <i>càd</i>. Hermès, HIPPON. <i>fr. 16</i>.<p><b>Étym</b>. <i>patr. de</i> Μαῖα.`

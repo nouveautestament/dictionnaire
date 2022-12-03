@@ -1,1 +1,0 @@
-lar[48972]=`<b>ἱματιο·πώλης, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> marchand d’habits, CRITIAS <i>54</i> ; PTOL. <i>Tetr. 179</i>.<p><b>Étym</b>. ἱμάτιον, πωλέω.`

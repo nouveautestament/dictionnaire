@@ -1,1 +1,0 @@
-lar[71006]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> exiguïté de besoins, modération de goûts <i>ou</i> de désirs, PHIL. (EUS. <i>P.E. p. 380b, 381d</i>).<p><b>Étym</b>. ὀλιγοδεής.`

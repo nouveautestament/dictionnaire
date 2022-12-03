@@ -1,1 +1,0 @@
-lar[100562]=`<b>τριτο·στάτης, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui se tient au troisième rang après le coryphée dans les chœurs, ARSTT. <i>Metaph. 4, 11, 4</i>.<p><b>Étym</b>. τρ. ἵστημι.`

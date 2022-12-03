@@ -1,1 +1,0 @@
-lar[34390]=`<b>ἐν·έρυθρος, ος, ον</b> <font color="purple">[ῠ]</font> légèrement rouge, rouge, ARÉT. <i>Caus. m. diut. 1, 6</i>.<p><b>Étym</b>. ἐν, ἐρυθρός.`

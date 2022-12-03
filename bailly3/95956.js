@@ -1,1 +1,0 @@
-lar[95956]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> compagnon de chasse, XÉN. <i>Mem. 3, 11, 15</i>.<p><b>Étym</b>. συνθηράω.`

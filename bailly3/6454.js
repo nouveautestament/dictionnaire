@@ -1,1 +1,0 @@
-lar[6454]=`<b>ἀμφοτερό·βλεπτος, ος, ον</b>, circonspect, <i>litt</i>. qui regarde de côté et d’autre, TIMON (SEXT. <i>P. 1, 224).</i><p><b>Étym</b>. ἀ. βλέπω.`

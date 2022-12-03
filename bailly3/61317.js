@@ -1,1 +1,0 @@
-lar[61317]=`<b>λιπό·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui abandonne son époux, EUR. <i>Or. 1305</i>.<p><b>Étym</b>. λ. γάμος.`

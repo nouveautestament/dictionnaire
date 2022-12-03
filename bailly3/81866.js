@@ -1,1 +1,0 @@
-lar[81866]=`<b>πολύ·δωρος, ος, ον</b> <font color="purple">[ῠ]</font> qui a reçu de grands présents <i>ou</i> une riche dot, IL. <i>6, 394</i> ; OD. <i>24, 294, etc</i>.<p><b>Étym</b>. π. δῶρον.`

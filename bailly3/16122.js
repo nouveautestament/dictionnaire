@@ -1,1 +1,0 @@
-lar[16122]=`<b>ίδος</b> <font color="purple">[τᾰῐδ]</font> <i>adj. f. c</i>. Ἀστάκιος NONN. <i>D. 15, 379, etc. ; dat. pl. épq</i>. -ίδεσσιν, NONN. <i>D. 15, 170</i>.`

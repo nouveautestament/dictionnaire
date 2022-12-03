@@ -1,1 +1,0 @@
-lar[46260]=`<b>(ὁ)</b> Thambradas, <i>chef des Sakes,</i> XÉN. <i>Cyr. 5, 3, 28</i>.`

@@ -1,1 +1,0 @@
-lar[41290]=`<b>ἑτερογενέω-ῶ</b>, être d’un autre genre, NICOM. <i>Arithm. introd</i>.<p><b>Étym</b>. ἑτερογενής.`

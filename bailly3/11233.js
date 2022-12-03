@@ -1,1 +1,0 @@
-lar[11233]=`<b>ἀπ·αμφιέννυμι</b> (<i>part. pf. pass</i>. ἀπημφιεσμένος) dévêtir, XÉNARQ. <i>Com. fr. 3, 617 ; fig</i>. dégarnir, PLUT. <i>M. 516f</i>.`

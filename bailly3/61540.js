@@ -1,1 +1,0 @@
-lar[61540]=`<b>λογό·φιλος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à parler, à discourir, beau diseur, ZÉNON (STOB. <i>Fl. 36, 26).</i><p><b>Étym</b>. λ. φίλος.`

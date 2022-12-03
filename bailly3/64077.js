@@ -1,1 +1,0 @@
-lar[64077]=`<b>μελισσο·νόμος, ος, ον</b>, qui nourrit <i>ou</i> gouverne les abeilles, ESCHL. <i>fr. 84 ; cf</i>. AR. <i>Ran. 1273</i>.<p><b>Étym</b>. μ. νέμω.`

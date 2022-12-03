@@ -1,1 +1,0 @@
-lar[73433]=`<b>ου (ὁ)</b> = <i>lat</i>. Varus, <i>n. d’h. rom</i>. PLUT. <i>Oth. 12, etc</i>.`

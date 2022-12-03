@@ -1,1 +1,0 @@
-lar[10134]=`<b>ἀντι·ξύω</b>, gratter <i>ou</i> racler à son tour, SOPHR. (SUID.) ; ARSTD. <i>t. 1, 84</i>.`

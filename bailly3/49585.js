@@ -1,1 +1,0 @@
-lar[49585]=`<b>Ἰσί·δωρος, ου (ὁ)</b> Isidôros (Isidore) <i>h</i>. LUC. <i>Macr. 15</i>.<p><b>Étym</b>. Ἶσις, δῶρον.`

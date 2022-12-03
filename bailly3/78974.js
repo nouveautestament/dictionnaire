@@ -1,1 +1,0 @@
-lar[78974]=`<b>περι·νοτίζω</b>, mouiller tout autour, A. TR. <i>1, p. 74</i>.`

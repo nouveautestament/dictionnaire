@@ -1,1 +1,0 @@
-lar[30599]=`<b>ή, όν :<br>      1</b> qui concerne la paix, de paix, XÉN. <i>Œc. 6, 1</i> ; ISOCR. <i>82c ;</i> ARSTT. <i>Pol. 1, 6, 10</i>.<br><b>      2</b> pacifique, PLAT. <i>Leg. 829a</i>.<p>•<i> Cp</i>. -ώτερος, LUC. <i>Im. 1 ; • Sup</i>. -ώτατος, ISOCR. <i>82c</i>.<p><b>Étym</b>. εἰρήνη.`

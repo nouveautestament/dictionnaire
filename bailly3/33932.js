@@ -1,1 +1,0 @@
-lar[33932]=`<b>ἐν·αποδείκνυμαι</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> se distinguer parmi, <i>avec</i> ἐν <i>et le dat</i>. HDT. <i>9, 58</i>.<br><b>      2 <i>tr.</i></b> montrer ouvertement, <i>acc</i>. POL. <i>1, 82, 9, etc</i>.`

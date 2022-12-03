@@ -1,1 +1,0 @@
-lar[60311]=`<b>ης (ἡ)</b> Léontarnè, <i>lieu de Béotie,</i> LYC. <i>645</i>.`

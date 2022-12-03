@@ -1,1 +1,0 @@
-lar[55647]=`<b>κισσο·χαίτης, ου</b>, <i>adj. m</i>. à la chevelure couronnée de lierre, CRAT. (<i>Com. fr. 2, 194</i>) ; PRATIN. (ATH. <i>617f</i>).<p><b>Étym</b>. κισσός, χαίτη.`

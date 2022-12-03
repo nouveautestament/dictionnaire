@@ -1,1 +1,0 @@
-lar[77826]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰ]</font> remède pour le sabot des chevaux, HIPPIATR.`

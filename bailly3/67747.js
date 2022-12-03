@@ -1,1 +1,0 @@
-lar[67747]=`<b>ναυ·κράτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui domine sur mer, HDT. <i>6, 9</i> ; THC. <i>5, 97, 109</i>.<br><b>      2</b> qui gouverne un navire, SOPH. <i>Ph. 1072</i>.<p><b>Étym</b>. ναῦς, κρατέω.`

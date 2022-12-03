@@ -1,1 +1,0 @@
-lar[4372]=`<font color="darkgreen">(<i>seul. prés. et fut</i>. -εύσω)</font> <font color="purple">[ᾰ]</font> errer, <i>en parl. de mendiants ou de vagabonds,</i> OD. <i>17, 501 ; de chasseurs,</i> OD. <i>12, 330 ; d’Ulysse errant dans son palais,</i> OD. <i>22, 291, etc. ; d’exilés,</i> EUR. <i>Hipp. 1026, 1045 ; El. 1116 ; Her. 515</i>.<p><b>Étym</b>. ἀλήτης.`

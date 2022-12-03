@@ -1,1 +1,0 @@
-lar[80035]=`<b>ατος (τὸ) :<br>      1</b> bond, saut, ESCHL. <i>Pers. 95, 305</i> ; SOPH. <i>Aj. 833</i> ; EUR. <i>Andr. 1139, etc.</i><br><b>      2</b> <i>p. anal</i>. battement du cœur, pulsation, palpitation, EUR. <i>Bacch. 1289</i> ; PLUT. <i>M. 83b</i>.<p><b>Étym</b>. πηδάω.`

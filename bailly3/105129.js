@@ -1,1 +1,0 @@
-lar[105129]=`<b>φερέ·ζυγος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte le joug, IBYC. <i>2</i>.<p><b>Étym</b>. φ. ζυγόν.`

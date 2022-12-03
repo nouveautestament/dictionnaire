@@ -1,1 +1,0 @@
-lar[72259]=`<b>*ὄπις</b>, <i>adv</i>., en arrière, derrière, <i>seul. dans les cp. et sup. ὀπίστερος, ὀπίστατος, et dans les dérivés ou composés</i> ὄπισθεν, ὀπίσω, κατόπιν, <i>etc</i>.<p><b>Étym</b>. <i>vieux adv. et prép</i>. ὄπι, <i>indo-europ</i>. *h₁opi, de près, à, derrière ; <i>v</i>. ἔπι, <i>avec alternance vocalique, cf. lat</i>. ob.`

@@ -1,1 +1,0 @@
-lar[12003]=`<b>ἀπιστό·φιλος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime l’infidélité <i>ou</i> la perfidie, faux ami, SIB. <i>8, 186 (conj</i>. ἀπιστόφυλος) ; ORACL. (PHLÉG. TR. <i>Mir. 10, 36).</i><p><b>Étym</b>. ἄπιστος, φίλος.`

@@ -1,1 +1,0 @@
-lar[52928]=`<b>κατ·άνομαι</b> (<i>seul. prés</i>.) <font color="purple">[ᾰᾱ]</font> être consommé, épuisé, <i>en parl. de biens,</i> OD. <i>2, 58 ; 17, 537</i>.<p><b>Étym</b>. <i>cf</i>. κατανύω.`

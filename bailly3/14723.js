@@ -1,1 +1,0 @@
-lar[14723]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> d’Aristomakhos, ANTH. <i>13, 8</i>.<p><b>Étym</b>. Ἀριστόμαχος.`

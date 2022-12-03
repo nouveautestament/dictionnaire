@@ -1,1 +1,0 @@
-lar[82678]=`<i>adv</i>., en mauvais état ; π. ἔχειν, THC. <i>7, 83</i> ; XÉN. <i>Cyr. 7, 5, 75 ; ou</i> διακεῖσθαι, ISOCR. <i>386e ;</i> DÉM. <i>1364, 5</i> ; être en mauvais état ; π. ζῆν, <i>ou</i> πράττειν, SYN. être malheureux.<p><b>Étym</b>. πονηρός.`

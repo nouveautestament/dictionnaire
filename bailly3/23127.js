@@ -1,1 +1,0 @@
-lar[23127]=`<b>ή, όν</b>, de Damas : οἱ Δ. STR. <i>756</i> ; ATH. <i>49d, etc</i>. les habitants de Damas ; ἡ Δ. (<i>s.-e</i>. χώρα) la Damascène, STR. <i>755, etc.</i> ; SPT. <i>Judith 1, 12</i> ; ἡ δαμασκηνή (<i>s.-e</i>. κοκκυμηλέα) prunier de Damas, GEOP. <i>10, 39</i> ; τὸ δαμασκηνόν, ATH. <i>49d ;</i> GAL. <i>6, 153e ; 354e</i>, prune de Damas.<p><b>Étym</b>. Δαμασκός.`

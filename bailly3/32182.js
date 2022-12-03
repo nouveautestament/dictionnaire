@@ -1,1 +1,0 @@
-lar[32182]=`<b>ἐκ·τόλμως</b>, <i>adv</i>., audacieusement, MAN. <i>3, 331</i>.<p><b>Étym</b>. ἐκ, τολμή.`

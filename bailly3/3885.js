@@ -1,1 +1,0 @@
-lar[3885]=`<b>ης, ες</b>, qui a des verrues, DC. <i>fr. 16</i>.<p><b>Étym</b>. ἀκροχορδών.`

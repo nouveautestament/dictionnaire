@@ -1,1 +1,0 @@
-lar[29535]=`<b>εως (ἡ)</b> omission, oubli, CHRYS. <i>9, 455, 598 Migne</i>.<p><b>Étym</b>. ἐγκαταλείπω.`

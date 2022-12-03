@@ -1,1 +1,0 @@
-lar[105602]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> <i>c</i>. φιληδία, PLUT. <i>M. 21c, etc.</i> ; DL. <i>7, 115</i> ; LGN <i>44, 6</i>.<p><b>Étym</b>. φιλήδονος.`

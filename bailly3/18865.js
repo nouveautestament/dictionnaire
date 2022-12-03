@@ -1,1 +1,0 @@
-lar[18865]=`<b>ου (τὸ)</b> <i>transcript. du lat</i>. baculum, bâton, ES. <i>188 Halm. ; pl., avec le maintien de l’</i>u <i>lat.,</i> βάκυλα, <i>traduct. du lat</i>. fasces (<i>cf</i>. ῥάβδος), faisceaux (des licteurs), PLUT. <i>Rom. 26</i>.<p><b>Étym</b>. <i>Pour la suppression de l’</i>ῠ <i>pénult. lat. au sg., cf</i>. Λέντλος = Lentŭlus ; Πρόκλος = Procŭlus, <i>etc</i>.`

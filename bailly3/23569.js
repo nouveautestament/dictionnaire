@@ -1,1 +1,0 @@
-lar[23569]=`<b>ου</b>, <i>adj. m</i>. de Deinoménès, PD. <i>P. 2, 34 (voc</i>. -ειε, <i>en parl. d’Hiéron).</i><p><b>Étym</b>. Δεινομένης.`

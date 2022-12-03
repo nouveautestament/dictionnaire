@@ -1,1 +1,0 @@
-lar[78500]=`<i>vb. de</i> περιγράφω :<br><b>      1</b> il faut esquisser, PLAT. <i>Rsp. 365c.</i><br><b>      2</b> il faut effacer <i>ou</i> supprimer, ATH. <i>180b.</i><br><b>      3</b> il faut conclure, DYSC. <i>Synt. 23</i>.`

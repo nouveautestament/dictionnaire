@@ -1,1 +1,0 @@
-lar[31693]=`<b>ἐκ·μυζάω-ῶ</b>, sucer, IL. <i>4, 218</i> ; LUC. <i>Tim. 8 ; en parl. du soleil,</i> pomper, ARSTT. <i>Plant. 1, 5, 4</i>.`

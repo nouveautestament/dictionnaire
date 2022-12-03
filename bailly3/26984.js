@@ -1,1 +1,0 @@
-lar[26984]=`<b>δί·πορος, ος, ον</b> <font color="purple">[ῐ]</font> qui donne sur deux mers (isthme), EUR. <i>Tr. 1097</i>.<p><b>Étym</b>. δίς, πόρος.`

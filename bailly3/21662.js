@@ -1,1 +1,0 @@
-lar[21662]=`<b>*γενειάτης</b>, <i>seul. ion</i>. <b>γενειήτης, εω (ὁ)</b> CALL. <i>Dian. 90</i> ; LUC. <i>Bis acc. 28</i> ; ANTH. <i>11, 158, et dor. acc</i>. γενειήταν, THCR. <i>Idyl. 17, 33,</i> homme <i>ou</i> animal barbu.<p><b>Étym</b>. γενειάω.`

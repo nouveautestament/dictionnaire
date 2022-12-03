@@ -1,1 +1,0 @@
-lar[96068]=`<b>συν·νέω</b>, filer <i>ou</i> tisser ensemble, M. ANT. <i>4, 34</i>.`

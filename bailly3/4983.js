@@ -1,1 +1,0 @@
-lar[4983]=`<b>ων (οἱ)</b> balanciers de plomb pour les exercices gymnastiques, haltères, ARSTT. <i>Inc. an. 3, 3, 4 ; Probl. 5, 8</i> ; LUC. <i>Gymn. 27</i>.<p><b>Étym</b>. ἅλλομαι.`

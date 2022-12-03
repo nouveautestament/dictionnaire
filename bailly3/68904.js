@@ -1,1 +1,0 @@
-lar[68904]=`<b>ατος (τὸ)</b> troupeau paissant, ESCHL. <i>Ag. 1416</i>.<p><b>Étym</b>. νομεύω.`

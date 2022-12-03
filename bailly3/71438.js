@@ -1,1 +1,0 @@
-lar[71438]=`<b>ὁμο·γάλακτες, ων (οἱ)</b> qui ont sucé le même lait ; sœurs <i>ou</i> frères de lait ; <i>par ext</i>. proches, alliés, parents par le sang, ARSTT. <i>Pol. 1, 1, 7</i>.<p><b>Étym</b>. ὁμ. γάλα.`

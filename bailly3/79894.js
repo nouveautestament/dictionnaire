@@ -1,1 +1,0 @@
-lar[79894]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de pierre, qui est en pierre, SOPH. <i>Ph. 160, etc.</i><br><b>      2</b> rocailleux, HDT. <i>2, 8</i>.<p><b>Étym</b>. πέτρα.`

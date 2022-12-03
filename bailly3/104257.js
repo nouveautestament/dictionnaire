@@ -1,1 +1,0 @@
-lar[104257]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> d’Hyrcanie, XÉN. <i>Cyr. 5, 3, 20, etc.</i> ; Ὑρκανίη θαλάσση, DP. <i>50, etc.</i> ; ἡ Ὑρκανία (<i>s.-e</i>. θάλασσα) ARSTT. <i>Mund. 3, etc.</i> ; τὸ Ὑρκάνιον πέλαγος, PLUT. <i>Alex. 3,</i> la mer Caspienne ; οἱ Ὑρκάνιοι, HDT. <i>3, 117, etc.</i> ; XÉN. <i>An. 7, 8, 15, etc</i>. les Hyrcaniens.`

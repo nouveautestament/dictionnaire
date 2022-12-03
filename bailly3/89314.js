@@ -1,1 +1,0 @@
-lar[89314]=`<b>ή, όν</b> <font color="purple">[ᾰῐ]</font> garni <i>ou</i> couvert de planches, SPT. <i>Ex. 27, 8, etc</i>.<p><b>Étym</b>. <i>vb. de</i> σανιδόω.`

@@ -1,1 +1,0 @@
-lar[73204]=`<b>ητος (ἡ) :<br>      1</b> religion, culte des dieux, respect des dieux, PLUT. <i>Alc. 34</i>.<br><b>      2</b> piété, sainteté, vertu, XÉN. <i>Cyr. 6, 1, 24, etc.</i> ; PLAT. <i>Euthyphr. 14e, etc.</i> ; NT. <i>Eph. 4, 24, etc. ; postér. titre eccl</i>. « Sa Sainteté », BAS. <i>3, 155, etc</i>.<p><b>Étym</b>. ὅσιος.`

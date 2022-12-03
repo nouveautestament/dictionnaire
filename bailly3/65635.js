@@ -1,1 +1,0 @@
-lar[65635]=`<b>άδός (ὁ, ἡ)</b> <font color="purple">[ῐᾰδ]</font> mêlé, mélangé, réuni pêle-mêle avec, <i>dat</i>. A.RH. <i>4, 320 ; abs</i>. EUR. <i>Andr. 1143</i> ; ISOCR. <i>45c, etc</i>.<p><b>Étym</b>. μίγνυμι.`

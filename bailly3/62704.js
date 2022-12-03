@@ -1,1 +1,0 @@
-lar[62704]=`<i>acc</i>. <b>ιν (ἡ)</b> malandre, <i>maladie des chevaux et des ânes,</i> HIPPIATR. <i>p. 10, 12</i>.<p><b>Étym</b>. <i>cf. lat</i>. malleus.`

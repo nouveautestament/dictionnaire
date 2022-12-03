@@ -1,1 +1,0 @@
-lar[27130]=`<b>διφθερο·πώλης, ου (ὁ)</b> marchand de peaux, NICOPH. (ATH. <i>126e</i>).<p><b>Étym</b>. διφθέρα, πωλέω.`

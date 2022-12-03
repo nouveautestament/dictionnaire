@@ -1,1 +1,0 @@
-lar[26862]=`<b>δι·ορμίζω</b>, faire entrer dans le port, conduire au port, LGS <i>2, 25 ; fig</i>. HIÉROCL. (STOB. <i>Fl. 75, 14).</i><p><b>Étym</b>. διά, ὅρμος.`

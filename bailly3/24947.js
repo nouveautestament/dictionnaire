@@ -1,1 +1,0 @@
-lar[24947]=`<b>δια·λιχμάομαι-ῶμαι</b> (<i>seul. prés</i>.) pourlécher, JAMBL. (PHOT. <i>Bibl. 74, 4</i>).`

@@ -1,1 +1,0 @@
-lar[102753]=`<b>ὑπερ·πήγνυμι</b>, enfoncer au-dessus, HPC. <i>1175c</i>.`

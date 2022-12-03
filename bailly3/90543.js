@@ -1,1 +1,0 @@
-lar[90543]=`<b>σιτο·νόμος, ος, ον</b> <font color="purple">[ῑ]</font> qui procure (<i>litt</i>. qui distribue) du blé <i>ou</i> des aliments, <i>p. suite,</i> qui fait vivre, SOPH. <i>Ph. 1091</i>.<p><b>Étym</b>. σῖτος, νέμω.`

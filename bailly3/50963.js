@@ -1,1 +1,0 @@
-lar[50963]=`<b>ου (τὸ)</b> <font color="purple">[ᾰλᾰ]</font> <i>autre n. du poisson</i> τευθίς, GEOP.`

@@ -1,1 +1,0 @@
-lar[16279]=`<font color="purple">[ᾰπ]</font> <i>adv</i>., avec des éclairs, ARISTOB.<p><b>Étym</b>. ἀστραπή, -δον.`

@@ -1,1 +1,0 @@
-lar[63401]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. originaire <i>ou</i> habitant de Mégalopolis, Mégalopolitain, PLUT. <i>Cleom. 6, etc.</i> ; οἱ Μεγαλοπολῖται, XÉN. <i>Hell. 7, 5, 5, etc</i>. les Mégalopolitains.<p><b>Étym</b>. Μεγαλόπολις.`

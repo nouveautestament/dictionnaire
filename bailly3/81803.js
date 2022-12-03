@@ -1,1 +1,0 @@
-lar[81803]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grande fécondité, PLAT. <i>Prot. 321b ;</i> ARSTT. <i>H.A. 6, 37, 4, etc</i>.<p><b>Étym</b>. πολύγονος.`

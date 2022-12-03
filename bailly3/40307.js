@@ -1,1 +1,0 @@
-lar[40307]=`<b>ή, όν</b>, qui concerne l’art de ramer <i>ou</i> les rameurs, PLUT. <i>Pomp. 25</i> ; ἡ ἐρετική (<i>s.-e</i>. τέχνη) PLAT. <i>Leg. 707a</i>, l’art de ramer ; τὸ ἐρετικόν, APP. <i>Hann. 54,</i> les rameurs.<p><b>Étym</b>. ἐρέσσω.`

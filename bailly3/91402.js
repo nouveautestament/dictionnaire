@@ -1,1 +1,0 @@
-lar[91402]=`<b>σκωληκόω-ῶ</b>, remplir de vers, <i>au pass</i>. être infesté de vers, TH. <i>H.P. 4, 14, 2</i>.<p><b>Étym</b>. σκώληξ.`

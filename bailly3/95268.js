@@ -1,1 +1,0 @@
-lar[95268]=`<i>vb. de</i> συνεθίζω, PLAT. <i>Rsp. 520c ;</i> PLUT. <i>M. 522d</i>.`

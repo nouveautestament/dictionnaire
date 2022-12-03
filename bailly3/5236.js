@@ -1,1 +1,0 @@
-lar[5236]=`<b>ης (ἡ)</b> Amarakinè, <i>f</i>. ALCIPHR. <i>3, 37</i>.<p><b>Étym</b>. <i>fém. de</i> ἀμαράκινος.`

@@ -1,1 +1,0 @@
-lar[77939]=`<b>ος</b>, <i>ou</i> <b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de deuil, funèbre, lugubre, EUR. <i>Suppl. 579, etc.</i> ; τὰ πένθιμα, PLUT. <i>M. 114e</i>, vêtements de deuil.<br><b>      2</b> qui est dans le deuil, EUR. <i>Alc. 513, etc. ; d’où</i> triste, EUR. <i>Alc. 622, etc</i>.<p>➳ <i>Fém</i>. -η, DS. <i>11, 57</i>.<p><b>Étym</b>. πένθος.`

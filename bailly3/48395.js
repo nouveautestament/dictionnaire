@@ -1,1 +1,0 @@
-lar[48395]=`<b>ἰδιο·βουλεύω</b> <font color="purple">[ῐδ]</font> <i>c</i>. ἰδιοβουλέω HDT. <i>7, 8 dout</i>.`

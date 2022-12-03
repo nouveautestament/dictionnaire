@@ -1,1 +1,0 @@
-lar[25677]=`<b>εως (ἡ)</b> forte constriction, ARÉT. <i>Cur. m. acut. 2, 2</i> ; P. ÉG. <i>197, 28</i> ; ANTYLL. (ORIB. <i>2, 45 B.-Dar</i>.).<p><b>Étym</b>. διασφίγγω.`

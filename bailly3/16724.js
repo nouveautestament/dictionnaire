@@ -1,1 +1,0 @@
-lar[16724]=`<b>ἀτεκνέω-ῶ</b>, n’avoir pas d’enfants, HPC. <i>677, 32</i>.<p><b>Étym</b>. ἄτεκνος.`

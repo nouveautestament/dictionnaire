@@ -1,1 +1,0 @@
-lar[75962]=`<b>παρα·ναιετάω-ῶ</b> (<i>seul. prés</i>.) résider auprès de, <i>acc</i>. SOPH. <i>Tr. 635</i>.`

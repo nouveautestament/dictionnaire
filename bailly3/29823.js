@@ -1,1 +1,0 @@
-lar[29823]=`<b>ἐγ·κώμιος, ος, ον</b>, du même bourg, compatriote, HÉS. <i>O. 342</i>.<p><b>Étym</b>. ἐν, κώμη.`

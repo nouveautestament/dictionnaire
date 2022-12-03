@@ -1,1 +1,0 @@
-lar[104420]=`<b>εως (ἡ)</b> <font color="purple">[μῐ]</font> station de relâche, port, ANTH. <i>7, 699</i>.<p><b>Étym</b>. ὑφορμίζομαι.`

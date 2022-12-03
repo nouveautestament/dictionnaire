@@ -1,1 +1,0 @@
-lar[58321]=`<font color="purple">[ᾰ]</font> devenir nubile, <i>en parl. d’une jeune fille,</i> AR. <i>fr. 500</i>.<p><b>Étym</b>. κύαμος.`

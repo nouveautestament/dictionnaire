@@ -1,1 +1,0 @@
-lar[91952]=`éponger, <i>càd.</i> :<br><b>      1</b> nettoyer, laver avec une éponge, <i>acc</i>. AR. <i>Th. 247</i> ; DÉM. <i>313, 12</i> ; ATH. <i>351a.</i><br><b>      2</b> essuyer <i>ou</i> enlever avec une éponge, <i>acc</i>. PHÉRÉCR. (<i>Com. fr. 2, 276).</i><p><b>Étym</b>. σπόγγος.`

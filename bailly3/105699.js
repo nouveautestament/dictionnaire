@@ -1,1 +1,0 @@
-lar[105699]=`<b>φιλο·βασίλειος, ος, ον</b> <font color="purple">[ῐᾰῐ]</font> ami de la royauté, PLUT. <i>Æmil. 24</i>.<p><b>Étym</b>. φ. βασιλεία.`

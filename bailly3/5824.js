@@ -1,1 +1,0 @@
-lar[5824]=`<b>ἀμπελο·χελώνη, ης (ἡ)</b> <i>litt</i>. mantelet-tortue (<i>cf. lat</i>. vinea testudo) <i>machine de siège</i> (<i>v</i>. ἄμπελος) HÉRON.`

@@ -1,1 +1,0 @@
-lar[7543]=`<b>ἀνα·ρραίνω</b>, faire sourdre, ARSTT. <i>Mir. 114</i>.<p><b>Étym</b>. ἀνά, ῥαίνω.`

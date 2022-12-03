@@ -1,1 +1,0 @@
-lar[45990]=`<b>ή, όν</b>, <i>seul. compar</i>. ἡσυχικώτερος, paisible, PLOT. <i>Enn. 1, 339 Kirchh</i>.<p><b>Étym</b>. ἥσυχος.`

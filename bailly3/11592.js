@@ -1,1 +1,0 @@
-lar[11592]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., grossièrement, sottement, PLAT. <i>Phædr. 244c ;</i> LUC. <i>D. mer. 6, etc</i>.<p>•<i> Cp</i>. -ότερον, LUC. <i>Nigr. 25</i>.`

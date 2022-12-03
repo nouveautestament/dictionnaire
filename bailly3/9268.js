@@ -1,1 +1,0 @@
-lar[9268]=`<b>ἀν·ομοιοβαρής, ής, ές</b> <font color="purple">[βᾰ]</font> non de même poids, ARSTT. <i>Cæl. 1, 6, 8</i>.<p><b>Étym</b>. ἀν-, ὁ.`

@@ -1,1 +1,0 @@
-lar[985]=`<b>ή, όν</b>, vigilant, DS. <i>Exc. 32</i> ; PLUT. <i>Cam. 27</i>.`

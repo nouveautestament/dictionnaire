@@ -1,1 +1,0 @@
-lar[46376]=`<b>θαυματο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui fait voir des choses merveilleuses, LUC. <i>Somn. 14 ; subst</i>. ὁ θ. PLAT. <i>Rsp. 514b, Soph. 235b, etc.</i> ; DÉM. <i>22, 19,</i> jongleur, charlatan.<br><b>      2</b> qui accomplit des merveilles, MATR. (ATH. <i>137b</i>).<p><b>Étym</b>. θαῦμα, ποιέω.`

@@ -1,1 +1,0 @@
-lar[56968]=`<b>ου</b>, <i>adj. m. c</i>. Κόπρειος, DÉM. <i>18, 73 Baiter-Sauppe, etc</i>.`

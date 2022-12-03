@@ -1,1 +1,0 @@
-lar[76231]=`<b>ατος (τὸ)</b> violation de la foi jurée, POL. <i>2, 58, 4 ; 5, 67, 9, etc</i>.<p><b>Étym</b>. παρασπονδέω.`

@@ -1,1 +1,0 @@
-lar[10563]=`<b>ἀντι·φλέγω</b> <font color="darkgreen">(<i>ao</i>. ἀντέφλεξα)</font> faire briller à son tour, PD. <i>O. 3, 21</i>.`

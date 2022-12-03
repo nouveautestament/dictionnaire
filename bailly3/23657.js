@@ -1,1 +1,0 @@
-lar[23657]=`<b>δεκα·επτά</b>, <i>indécl</i>. = ἑπτακαίδεκα, dix-sept, SPT. <i>Gen. 47, 28</i> ; DS. <i>12, 36</i> ; JOS. <i>B.J. 5, 11, 4 ; etc</i>.<p>➳ <i>Écrit en deux mots dans diverses inscr. att</i>. CIA. <i>2, add. 834b, 2, 5 (329 av. J.-C.) ; v. Meisterh. p. 167, 14</i>.`

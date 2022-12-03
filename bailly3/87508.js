@@ -1,1 +1,0 @@
-lar[87508]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Pygmalion, <i>roi de Chypre,</i> NONN. <i>D. 32, 212</i> ; ANTH. <i>11, 347</i>.`

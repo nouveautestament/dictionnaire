@@ -1,1 +1,0 @@
-lar[55028]=`<b>κερχάω-ῶ</b>, avoir un son rauque, HPC. <i>1134g</i>.<p><b>Étym</b>. <i>cf</i>. κέρχνω.`

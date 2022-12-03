@@ -1,1 +1,0 @@
-lar[103665]=`<b>ὑπο·περικλάω-ῶ</b>, courber légèrement, DIOSC. <i>3, 79</i>.`

@@ -1,1 +1,0 @@
-lar[84946]=`<i>adv</i>., avec précipitation, pétulance <i>ou</i> témérité, ATT.<p>•<i> Cp</i>. προπετέστερον, POL. <i>3, 102, 11</i>.<p>➳ <i>Ion</i>. προπετέως, HPC. <i>1136f</i>.<p><b>Étym</b>. προπετής.`

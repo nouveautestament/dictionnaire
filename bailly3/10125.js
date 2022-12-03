@@ -1,1 +1,0 @@
-lar[10125]=`<b>ἀντι·νομοθετέω-ῶ</b>, instituer une loi <i>ou</i> des lois contre, PLUT. <i>M. 1044c</i>.`

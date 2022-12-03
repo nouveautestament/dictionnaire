@@ -1,1 +1,0 @@
-lar[28001]=`<b>δρυο·παγής, ής, ές</b> <font color="purple">[ῠᾰ]</font> formé de planches de chêne emboîtées, SOPH. <i>fr. 629</i>.<p><b>Étym</b>. δρῦς, πήγνυμι.`

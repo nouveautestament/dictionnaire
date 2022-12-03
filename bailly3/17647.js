@@ -1,1 +1,0 @@
-lar[17647]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> citoyen d’une ville libre, XÉN. <i>Hell. 5, 2, 14</i>.<p><b>Étym</b>. αὐτόπολις.`

@@ -1,1 +1,0 @@
-lar[48991]=`<b>ου (ὁ)</b> Himéræos, <i>h</i>. PLUT. <i>Dem. 28</i> ; LUC. <i>Dem. enc. 31</i>.`

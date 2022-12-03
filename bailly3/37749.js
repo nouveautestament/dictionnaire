@@ -1,1 +1,0 @@
-lar[37749]=`<b>ἐπιζήτησις, εως (ἡ)</b> action de rechercher, recherche, question, JOS. <i>A.J. 4, 8, 3 et 48 ; 5, 1, 12 ; 13, 6, 3</i> ; GAL. <i>19, 372, ao</i>.<p><b>Étym</b>. ἐπιζητέω.`

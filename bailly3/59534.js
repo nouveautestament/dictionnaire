@@ -1,1 +1,0 @@
-lar[59534]=`<i>att</i>. <b>-άττω</b> <font color="darkgreen">(<i>f</i>. -άξω)</font> être affamé, vorace, glouton, AR. <i>Eccl. 1178</i>.<p><b>Étym</b>. λαιμός.`

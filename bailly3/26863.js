@@ -1,1 +1,0 @@
-lar[26863]=`<b>δι·όρνυμαι</b>, s’élancer à travers, <i>avec</i> διά <i>et le gén</i>. ESCHL. <i>Suppl. 552</i>.`

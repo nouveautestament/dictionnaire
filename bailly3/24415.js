@@ -1,1 +1,0 @@
-lar[24415]=`<b>ή, όν :<br>      1</b> affirmatif, <i>t. de gr</i>. DYSC. <i>Synt. 243, 19</i> ; PTOL. SEXT. <i>etc.</i><br><b>      2</b> affirmé, confirmé, sûr (<i>p. opp. à</i> στοχαστικός, conjectural) PROCL. <i>Ptol. p. 10</i>.<p><b>Étym</b>. διαβεβαιόομαι.`

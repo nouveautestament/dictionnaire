@@ -1,1 +1,0 @@
-lar[51370]=`<b>καλω·στρόφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> cordier, PLUT. <i>Per. 12</i>.<p><b>Étym</b>. κάλως, στρέφω.`

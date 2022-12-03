@@ -1,1 +1,0 @@
-lar[13254]=`<b>ἀπο·ρρύπτω</b>, nettoyer, ORPH. <i>Arg. 1361</i> ; LUC. <i>Gall. 9</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>Syll. 36, etc</i>.<p><b>Étym</b>. ἀ. ῥύπτω.`

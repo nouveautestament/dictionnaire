@@ -1,1 +1,0 @@
-lar[96165]=`<b>συν·ομβρίζει</b>, <i>impers</i>. il pleut très fort, PLUT. <i>fr. 9, 7</i>.<p><b>Étym</b>. σύν, ὄμβρος.`

@@ -1,1 +1,0 @@
-lar[67831]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font><br><b>   I</b> <i>subst.</i> :<br><b>      1</b> marin, matelot, HDT. <i>2, 43</i> ; ESCHL. <i>Pr. 466</i> ; ATT. <i>en gén., etc.</i><br><b>      2</b> nautile, <i>sorte de polype,</i> ARSTT. <i>H.A. 4, 1, 28</i>.<br><b>   II</b> <i>adj</i>. de navire, ESCHL. <i>Ag. 1442</i>.<p><b>Étym</b>. ναύτης.`

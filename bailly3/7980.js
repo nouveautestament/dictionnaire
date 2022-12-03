@@ -1,1 +1,0 @@
-lar[7980]=`<b>ου (ὁ)</b> fils <i>ou</i> descendant d’Andræmôn, IL. <i>7, 168</i>.<p><b>Étym</b>. Ἀνδραίμων.`

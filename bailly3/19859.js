@@ -1,1 +1,0 @@
-lar[19859]=`<b>ατος (τὸ)</b> dommage, tort, CIC. <i>Fin. 4, 21</i> ; CHRYSIPP. (PLUT. <i>M. 1041d</i>).<p><b>Étym</b>. βλάπτω.`

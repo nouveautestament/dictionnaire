@@ -1,1 +1,0 @@
-lar[11452]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> trompeur, XÉN. <i>Hipp. 5, 12 et 15</i> ; PLAT. <i>Soph. 240d, 264d ;</i> ARSTT. <i>An. post. 1, 12</i>.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>Hipp. 5, 5</i>.`

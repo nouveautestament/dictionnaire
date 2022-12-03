@@ -1,1 +1,0 @@
-lar[103191]=`<font color="purple">[ᾰ]</font> <i>adv. seul. dans la locut</i>. ὑπόδρα ἰδών, IL. <i>1, 148, etc.</i> ; HÉS. <i>Sc. 445, etc</i>. regardant en dessous <i>ou</i> de côté, d’un regard irrité <i>ou</i> jaloux.<p><b>Étym</b>. ὑποδράω.`

@@ -1,1 +1,0 @@
-lar[29170]=`<b>ων (οἱ)</b> joueurs de flûte aussi habiles que Dôriôn, Ps.-PLUT. <i>Mus. 21</i>.<p><b>Étym</b>. Δωρίων.`

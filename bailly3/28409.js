@@ -1,1 +1,0 @@
-lar[28409]=`<b>δυσ·εξήνυστος, ος, ον</b> <font color="purple">[δῠ]</font> inextricable, EUR. <i>Hipp. 1237</i>.<p><b>Étym</b>. δ. ἐξανύτω.`

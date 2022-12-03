@@ -1,1 +1,0 @@
-lar[47807]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> petite fille, fillette, MACH. (ATH. <i>581c</i>) ; PLUT. <i>M. 179e, etc</i>.<p><b>Étym</b>. <i>dim. de</i> θυγάτηρ.`

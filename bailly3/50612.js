@@ -1,1 +1,0 @@
-lar[50612]=`<b>ου (ὁ)</b> = <i>lat</i>. Cæsernius, <i>n. d’h. rom</i>. PLUT. <i>Qu. conv. 7, 4, 2 ; 7, 6, 2</i>.`

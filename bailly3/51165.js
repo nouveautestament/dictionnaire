@@ -1,1 +1,0 @@
-lar[51165]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> beau, OD. <i>4, 130, etc.</i> ; ANTH. <i>8, 93, etc.</i><br><b>      2</b> <i>p. suite,</i> bon, favorable, <i>en parl. du vent,</i> OD. <i>11, 640</i>.<p><b>Étym</b>. καλός.`

@@ -1,1 +1,0 @@
-lar[42801]=`<b>ου (τὸ)</b> sorte de laitue, PLIN. <i>H.N. 19, 8</i>.<p><b>Étym</b>. εὐνοῦχος.`

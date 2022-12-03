@@ -1,1 +1,0 @@
-lar[11372]=`<font color="purple">[φᾰ]</font> <i>adv</i>., d’une manière indéfinie, <i>d’où</i> à l’infinitif, DYSC. <i>Synt. 1, p. 78 ; Pron. p. 101c</i>.`

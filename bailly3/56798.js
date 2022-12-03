@@ -1,1 +1,0 @@
-lar[56798]=`<b>ή, όν</b>, transporté, porté, JOS. <i>A.J. 17, 4, 1</i>.<p><b>Étym</b>. <i>vb. de</i> κομίζω.`

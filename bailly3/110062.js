@@ -1,1 +1,0 @@
-lar[110062]=`<b>ή, όν :<br>      1</b> qui concerne la gale <i>ou</i> les éruptions galeuses, PLUT. <i>M. 671a ;</i> τὰ ψωρικά, PLUT. <i>M. 732a</i>, affections cutanées.<br><b>      2</b> utile contre la gale, DIOSC. <i>5, 118</i> ; τὸ ψωρικόν, DIOSC. <i>5, 116</i> ; ORIB. <i>2, p. 520 B.-Dar</i>. remède contre la gale.<p><b>Étym</b>. ψώρα.`

@@ -1,1 +1,0 @@
-lar[25400]=`<b>δια·πυΐσκω</b> (<i>seul. prés</i>.) faire suppurer, ARÉT. <i>39, 12 ; au pass</i>. être amené à suppuration, suppurer, HPC. <i>272, 5</i> ; M. ANT. <i>4, 39</i>.`

@@ -1,1 +1,0 @@
-lar[82666]=`<b>ατος (τὸ)</b> travail pénible, œuvre difficile, EUR. <i>I.T. 165 ; en parl. d’un ouvrage,</i> ANTH. <i>4, 3, etc</i>.<p><b>Étym</b>. πονέω.`

@@ -1,1 +1,0 @@
-lar[43082]=`<i>adv.</i> :<br><b>      1</b> facilement, avec aisance, XÉN. <i>Cyr. 1, 6, 9</i> ; PLAT. <i>Conv. 204e.</i><br><b>      2</b> en abondance, THC. <i>8, 36</i> ; LUC. <i>Lex. 2</i>.<p>•<i> Cp</i>. -ώτερον, PLAT. <i>l. c</i>.`

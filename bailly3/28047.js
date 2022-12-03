@@ -1,1 +1,0 @@
-lar[28047]=`<i>adv</i>., deux fois, AR. <i>fr. 607</i>.<p><b>Étym</b>. δύο.`

@@ -1,1 +1,0 @@
-lar[654]=`<b>ἀγκυλό·κυκλος, ος, ον</b> <font color="purple">[ῠυ]</font> recourbé en cercle, arrondi, NONN. <i>D. 35, 217</i>.<p><b>Étym</b>. ἀ. κύκλος.`

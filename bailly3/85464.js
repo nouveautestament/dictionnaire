@@ -1,1 +1,0 @@
-lar[85464]=`<b>προσ·εγγελάω-ῶ</b>, se moquer en outre de, <i>dat</i>. ES. <i>330 Halm</i>.`

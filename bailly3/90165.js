@@ -1,1 +1,0 @@
-lar[90165]=`<b>σιδηρό·πλοκος, ος, ον</b> <font color="purple">[ῐ]</font> tressé en fer, HLD. <i>9, 15</i>.<p><b>Étym</b>. σ. πλέκω.`

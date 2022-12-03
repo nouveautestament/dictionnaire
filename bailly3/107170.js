@@ -1,1 +1,0 @@
-lar[107170]=`<b>φυλλόω-ῶ</b>, couvrir de feuilles, HPC. <i>de Nat. pueri c. 8</i>.<p><b>Étym</b>. φύλλον.`

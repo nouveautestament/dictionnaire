@@ -1,1 +1,0 @@
-lar[30334]=`<b>ή, όν :<br>      1</b> qui reproduit les traits, qui représente, CALLIX. (ATH. <i>205f</i>).<br><b>      2</b> contrefait, simulé, ANTH. <i>11, 233</i>.<p><b>Étym</b>. εἰκών.`

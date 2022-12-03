@@ -1,1 +1,0 @@
-lar[90836]=`<b>σκηνο·πηγέω-ῶ</b>, planter une tente, dresser à la hâte une baraque, <i>acc</i>. ATH. <i>442c ; particul. en parl. de la fête des Tabernacles chez les Juifs,</i> JOS. <i>A.J. 13, 11, 1</i>.<p><b>Étym</b>. σκηνή, πήγνυμι.`

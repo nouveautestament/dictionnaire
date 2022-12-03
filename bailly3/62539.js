@@ -1,1 +1,0 @@
-lar[62539]=`<b>μακρο·παράληκτος, ος, ον</b> <font color="purple">[ᾰρᾰ]</font> à pénultième longue, HDN GR. <i>1, 282, 15</i> ; SCH.-IL. <i>6, 268</i>.<p><b>Étym</b>. μ. παραλήγω.`

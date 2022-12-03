@@ -1,1 +1,0 @@
-lar[2960]=`<i>adv</i>., à l’accusatif, GRAMM.`

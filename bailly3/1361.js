@@ -1,1 +1,0 @@
-lar[1361]=`<b>ἀ·διάσπαστος, ος, ον</b>, non séparé, non interrompu, XÉN. <i>Ages. 1, 14</i> ; POL. <i>1, 34, 5</i>.<p><b>Étym</b>. ἀ, διασπάω.`

@@ -1,1 +1,0 @@
-lar[1398]=`<b>ἀ·διεξήγητος, ος, ον</b>, qu’on ne peut expliquer <i>ou</i> décrire, PHIL. <i>1, 407</i>.<p><b>Étym</b>. ἀ, διεξηγέομαι.`

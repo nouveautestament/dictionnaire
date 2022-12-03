@@ -1,1 +1,0 @@
-lar[36750]=`<b>ἐπ·αποθνῄσκω</b> <font color="darkgreen">(<i>impf</i>. ἐπαπέθνῃσκον, <i>ao.2</i> ἐπαπέθανον) :</font><br><b>      1</b> mourir tout de suite après, <i>dat</i>. PLAT. <i>Conv. 208d ;</i> JOS. <i>B.J. 5, 12, 3 ; abs</i>. PLUT. <i>Æmil. 35</i>.<br><b>      2</b> mourir sur <i>ou</i> pendant : ἐπ. λόγοις, JOS. <i>A.J. 13, 11, 3,</i> mourir en parlant encore.`

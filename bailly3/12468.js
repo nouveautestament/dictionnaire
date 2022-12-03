@@ -1,1 +1,0 @@
-lar[12468]=`<b>ἀ·ποίμαντος, ος, ον</b>, qu’on ne mène pas paître, <i>càd</i>. sans guide, sans chef, ANTH. <i>6, 239</i> ; NAZ. <i>Ep. 80, 2</i>.<p><b>Étym</b>. ἀ, ποιμαίνω.`

@@ -1,1 +1,0 @@
-lar[45632]=`<b>ονος (ὁ)</b> qui lance des javelots, IL. <i>23, 886</i>.<p><b>Étym</b>. ἵημι.`

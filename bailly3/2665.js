@@ -1,1 +1,0 @@
-lar[2665]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. αἰνιγματίας SPT. <i>Num. 21, 27</i>.`

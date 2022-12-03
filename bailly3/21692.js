@@ -1,1 +1,0 @@
-lar[21692]=`<b>ητος (ὁ)</b> Génète, <i>port, fl. et promont. du Pont,</i> SOPH. (E. BYZ.).`

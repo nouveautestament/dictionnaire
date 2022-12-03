@@ -1,1 +1,0 @@
-lar[59939]=`<b>ή, όν</b> <font color="purple">[ᾰῑν]</font> du Latium, des Latins, DC. <i>53, 18</i>.<p><b>Étym</b>. Λατῖνος.`

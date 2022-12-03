@@ -1,1 +1,0 @@
-lar[1281]=`<b>ἀ·δημοκράτητος, ος, ον</b> <font color="purple">[ᾰτ]</font> non démocratique, DC. <i>43, 45</i>.<p><b>Étym</b>. ἀ, δημοκρατέω.`

@@ -1,1 +1,0 @@
-lar[79537]=`<b>ος, ον</b>, qui tourne tout autour, <i>d’où</i> circulaire, rond, IL. <i>23, 455</i>.<p><b>Étym</b>. περιτρέχω.`

@@ -1,1 +1,0 @@
-lar[18108]=`<b>ἀ·φιλοξενίη, ης (ἡ)</b> <font color="purple">[φῐ]</font> manque d’hospitalité, SIB. <i>8, 304</i>.<p><b>Étym</b>. ἀ, φιλόξενος.`

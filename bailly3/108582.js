@@ -1,1 +1,0 @@
-lar[108582]=`(<i>seul. prés</i>.) <font color="purple">[ῑ]</font> être échauffé, <i>d’où</i> être sensuel, efféminé, <i>d’où</i> être dédaigneux, fier, orgueilleux, ESCHL. <i>Ch. 137, Suppl. 236</i>.<p><b>Étym</b>. χλιαίνω.`

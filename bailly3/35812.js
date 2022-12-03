@@ -1,1 +1,0 @@
-lar[35812]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾱ]</font> déjection, matière vomie, NT. <i>2Petr. 2, 22</i>.<p><b>Étym</b>. ἐξεράω.`

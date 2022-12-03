@@ -1,1 +1,0 @@
-lar[90888]=`<b>σκιαρό·κομος, ος, ον</b> <font color="purple">[ᾰ]</font> au feuillage ombreux, EUR. <i>Bacch. 876</i>.<p><b>Étym</b>. σκιαρός, κόμη.`

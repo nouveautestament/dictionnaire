@@ -1,1 +1,0 @@
-lar[101527]=`<b>ὑδρη·χόος, όος, όον</b>, qui verse un liquide, EUR. (ATH. <i>158e</i>) ; ὁ ὑδρ. PLUT. <i>M. 908c, c</i>. ὑδροχοεύς.`

@@ -1,1 +1,0 @@
-lar[8103]=`<b>Ἀνδρό·νικος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Andronikos, <i>h</i>. PLUT. <i>Syll. 26, etc</i>.<p>➳ Ἀνδρώνικος, ANTH. <i>App. 339</i>.<p><b>Étym</b>. ἀ. νίκη.`

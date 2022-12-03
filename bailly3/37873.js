@@ -1,1 +1,0 @@
-lar[37873]=`<b>ἐπι·καθιζάνω</b>, être assis <i>ou</i> posé sur, ἐπί <i>et l’acc</i>. ANTIPH. (ATH. <i>257f</i>).`

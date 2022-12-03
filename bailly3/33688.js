@@ -1,1 +1,0 @@
-lar[33688]=`<b>ἐμ·φιλοτεχνέω-ῶ</b> <font color="purple">[ῐ]</font> mettre tout son art à, <i>dat</i>. M. ANT. <i>7, 54</i>.<p><b>Étym</b>. ἐν, φ.`

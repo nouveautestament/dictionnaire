@@ -1,1 +1,0 @@
-lar[16034]=`<b>ἀ·σπερχές</b>, <i>adv</i>., avec ardeur, sans trêve, sans relâche, IL. <i>4, 32, etc.</i> ; OD. <i>1, 20</i> ; EUR. <i>fr. inc. 1117, 51 Nauck</i>.<p><b>Étym</b>. ἀ <i>cop</i>. σπέρχω.`

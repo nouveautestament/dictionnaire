@@ -1,1 +1,0 @@
-lar[21959]=`<b>*γηρυ·γόνη</b>, <i>seul. dor</i>. <b>γηρυγόνα, ας</b> <font color="purple">[ῠ]</font> <i>adj. f.,</i> qui fait entendre des sons, <i>en parl. de l’écho,</i> THCR. <i>Syr. 6</i>.<p><b>Étym</b>. γῆρυς, γίγνομαι.`

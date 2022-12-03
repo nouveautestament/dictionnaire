@@ -1,1 +1,0 @@
-lar[65499]=`<i>ou mieux</i> <b>μήρυμα, ατος (τὸ)</b> <font color="purple">[ῡ]</font> déroulement (des anneaux d’un serpent, NIC. <i>Th. 163, 265,</i> des fils d’une trame, CARYST. <i>dans</i> PLUT. <i>M. 434a, etc.) ; fig. en parl. du temps,</i> SYN. <i>330b</i>.<p><b>Étym</b>. μηρύω.`

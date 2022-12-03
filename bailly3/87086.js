@@ -1,1 +1,0 @@
-lar[87086]=`<b>ος, ον :<br>      1</b> qui retient la poupe, ANTH. <i>7, 374</i>.<br><b>      2</b> <i>p. ext</i>. qui retient les navires, EUR. <i>El. 1022</i>.<p><b>Étym</b>. πρύμνα, ἔχω.`

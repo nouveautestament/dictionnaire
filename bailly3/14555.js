@@ -1,1 +1,0 @@
-lar[14555]=`<font color="purple">[ᾰῐ]</font> <i>particule inséparable, marquant une idée de</i> force, <i>de</i> supériorité (<i>v</i>. ἀρίγνωτος, ἀρίδακρυς, ἀρίδηλος, <i>etc.) ; cf</i>. ἀρείων, ἄριστος.`

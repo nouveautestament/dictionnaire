@@ -1,1 +1,0 @@
-lar[94519]=`<b>συμ·ψύχω</b> <font color="purple">[ψῡ]</font> rafraîchir avec, HPC. <i>244, 15</i>.`

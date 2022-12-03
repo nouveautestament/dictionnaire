@@ -1,1 +1,0 @@
-lar[55436]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> petite monnaie supposée en usage aux enfers, PHÉRÉCR. (POLL. <i>9, 83</i>).`

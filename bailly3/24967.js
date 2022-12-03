@@ -1,1 +1,0 @@
-lar[24967]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη <i>ou</i> δύναμις, l’art <i>ou</i> la faculté de raisonner, PLUT. <i>M. 1004d</i>.<p><b>Étym</b>. διαλογίζομαι.`

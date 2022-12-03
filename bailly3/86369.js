@@ -1,1 +1,0 @@
-lar[86369]=`<b>ος, ον</b>, conspué, PLUT. <i>M. 565b</i>.<p><b>Étym</b>. <i>vb. de</i> προσπτύω.`

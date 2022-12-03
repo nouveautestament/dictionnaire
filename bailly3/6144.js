@@ -1,1 +1,0 @@
-lar[6144]=`<b>ἀμφ·ιζάνω</b> (<i>seul. impf. 3 sg</i>. -ίζανε) s’attacher à, <i>dat</i>. IL. <i>18, 25</i>.`

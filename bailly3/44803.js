@@ -1,1 +1,0 @@
-lar[44803]=`<b>ζώ·πυρον, ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> reste de feu prêt à se rallumer, <i>d’où fig., d’ord. au pl</i>., dernières étincelles, PLAT. <i>Leg. 677b ;</i> PLUT. <i>M. 240a ;</i> LUC. <i>Tim. 3</i>.<br><b>      2</b> soufflet pour allumer le feu, STR. <i>303</i>.<p><b>Étym</b>. ζωός, πῦρ.`

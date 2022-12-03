@@ -1,1 +1,0 @@
-lar[75225]=`<b>έων (οἱ)</b> <font color="purple">[ῐᾰ]</font> les habitants de Pantikapæon, ANTH. <i>App. 162</i>.<p><b>Étym</b>. <i>v</i>. Παντικάπαιον.`

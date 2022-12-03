@@ -1,1 +1,0 @@
-lar[89235]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰᾰκ]</font> natte de jonc, CHIONID. (<i>Com. fr. 2, 5</i>) ; HÉRON <i>1</i>.`

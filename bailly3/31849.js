@@ -1,1 +1,0 @@
-lar[31849]=`<b>ἐκ·πικραίνω</b>, rendre amer, aigrir, <i>d’où au pass</i>. s’aigrir ; <i>fig</i>. πρός τι, DH. <i>Exc. 17, 8</i> ; ATH. <i>351d</i>, au sujet de qqe ch.`

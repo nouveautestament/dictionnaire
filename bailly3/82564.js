@@ -1,1 +1,0 @@
-lar[82564]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> grande variété, TH. <i>H.P. 1, 14</i>.<br><b>      2</b> grande abondance, MAX. <i>π. κατ. 486</i> (πολυχοία <i>avec synérèse).</i><p><b>Étym</b>. πολύχοος.`

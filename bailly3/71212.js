@@ -1,1 +1,0 @@
-lar[71212]=`<b>οῦ (ὁ) :<br>      1</b> liquide trouble, ANTH. <i>15, 25</i>.<br><b>      2</b> humeur de la seiche, HPC. <i>486, 50</i>.<p><b>Étym</b>. <i>cf</i>. θολός.`

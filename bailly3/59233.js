@@ -1,1 +1,0 @@
-lar[59233]=`<b>ου (ὁ)</b> <font color="purple">[ῑνᾰ]</font> fils de Constantin, ANTH. <i>9, 195</i>.`

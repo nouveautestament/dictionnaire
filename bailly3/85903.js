@@ -1,1 +1,0 @@
-lar[85903]=`<b>προσ·καθαιρέω-ῶ</b> <font color="darkgreen">(<i>f</i>. ήσω, <i>ao.2</i> προσκαθεῖλον, <i>etc</i>.)</font> détruire en même temps, DC. <i>42, 26</i> ; HIPPIATR. <i>2, 21 ; 5, 34</i>.`

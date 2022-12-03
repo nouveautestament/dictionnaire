@@ -1,1 +1,0 @@
-lar[94680]=`<b>συν·αμφιάζω</b>, envelopper ensemble, CLÉARQ. (ATH. <i>256f</i>).`

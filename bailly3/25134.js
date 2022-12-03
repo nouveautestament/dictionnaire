@@ -1,1 +1,0 @@
-lar[25134]=`<b>δια·νεύω :<br>      1</b> faire des signes de tête de droite et de gauche, DS. <i>3, 18 ; d’où simpl</i>. faire des signes de tête : τινί, ALEX. (ATH. <i>60b</i>) ; LUC. <i>V.H. 2, 25</i>, à qqn.<br><b>      2</b> éviter en détournant la tête, esquiver par un mouvement de la tête, <i>acc</i>. POL. <i>1, 23, 8</i> ; PLUT. (STOB. <i>Fl. 20, 70</i>).`

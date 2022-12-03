@@ -1,1 +1,0 @@
-lar[38627]=`<b>ἐπι·παρεμβάλλω :<br>      1</b> ramener en arrière (une ligne de bataille) <i>acc</i>. POL. <i>12, 19, 6</i>.<br><b>      2 <i>intr.</i></b> reprendre ses rangs, POL. <i>3, 115, 10, etc</i>.`

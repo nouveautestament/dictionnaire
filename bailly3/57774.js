@@ -1,1 +1,0 @@
-lar[57774]=`<b>ιος (ἡ)</b> <i>autre n. de</i> Κρέουσα, <i>port de Béotie,</i> XÉN. <i>Hell. 4, 5, 10, etc</i>.<p>➳ <i>Gén</i>. -ιδος, <i>dat</i>. -ιδι, PAUS. <i>9, 32, 1 et 2</i>.`

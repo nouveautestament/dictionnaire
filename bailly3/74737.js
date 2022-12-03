@@ -1,1 +1,0 @@
-lar[74737]=`<b>παμ·πησία, ας (ἡ)</b> possession entière, pleine propriété, ESCHL. <i>Sept. 817</i> ; EUR. <i>Ion 1305</i> ; AR. <i>Eccl. 868</i>.<p><b>Étym</b>. πᾶν, *πάομαι.`

@@ -1,1 +1,0 @@
-lar[72915]=`<b>α, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> d’oiseau, AR. <i>Av. 865</i>.<br><b>      2</b> <i>particul</i>. de poule, de poulet, de volaille <i>en gén</i>. AR. <i>Av. 222</i> ; ATH. <i>341a ;</i> τὰ ὀρνίθεια, AR. <i>Av. 1590</i> ; XÉN. <i>An. 4, 5, 31,</i> viande de volaille.<p>➳ <i>Fém</i>. -ος, AR. <i>Av. 865</i>.<p><b>Étym</b>. ὄρνις.`

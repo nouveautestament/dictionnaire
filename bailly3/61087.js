@@ -1,1 +1,0 @@
-lar[61087]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> atelier <i>ou</i> chantier de tailleur de pierres, IS. <i>55, 27</i>.<p><b>Étym</b>. λιθουργός.`

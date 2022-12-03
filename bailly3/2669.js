@@ -1,1 +1,0 @@
-lar[2669]=`(<i>seul. prés</i>.) IL. <i>13, 374</i> ; OD. <i>8, 487 ; postér</i>. αἰνίζω, ANTH. <i>11, 341,</i> louer.<p><b>Étym</b>. αἶνος.`

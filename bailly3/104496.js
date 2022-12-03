@@ -1,1 +1,0 @@
-lar[104496]=`<b>*ὑψί·κερας</b>, <i>seul. au pl. n</i>. <b>ὑψικέρατα</b> <font color="purple">[ῐ]</font> aux arêtes (<i>litt</i>. aux cornes) élevées, PD. <i>fr. 285</i>.<p><b>Étym</b>. ὕ. κέρας ; <i>cf</i>. ὑψίκερως.`

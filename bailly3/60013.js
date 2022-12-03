@@ -1,1 +1,0 @@
-lar[60013]=`<b>έως (ὁ)</b> <font color="purple">[ᾰχᾰ]</font> jardinier d’un potager, PROCL. <i>Hes. O. p. 5 Gaisf</i>.<p><b>Étym</b>. λάχανον.`

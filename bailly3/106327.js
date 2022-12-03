@@ -1,1 +1,0 @@
-lar[106327]=`<b>ης (ἡ)</b> <i>c</i>. φλέψ, GAL. <i>Hipp. Hum. 1, 29</i> ; SOR. <i>Obst. 22</i> ; ORIB. <i>p. 44 et 45</i> ; HIPPIATR. <i>159, 24 ; 158, 18</i>.`

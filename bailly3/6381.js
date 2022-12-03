@@ -1,1 +1,0 @@
-lar[6381]=`<b>ἀμφι·σφάλλω</b>, faire mouvoir (<i>litt</i>. faire tourner) une articulation, HPC. <i>Art. 780 ; au pass</i>. se mouvoir, <i>en parl. d’une articulation,</i> HPC. <i>Mochl. 848</i>.`

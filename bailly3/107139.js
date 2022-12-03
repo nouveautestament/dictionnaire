@@ -1,1 +1,0 @@
-lar[107139]=`pousser en feuilles, GEOP. <i>5, 2, 12</i> ; ORIB. <i>84 Matthäi</i>.`

@@ -1,1 +1,0 @@
-lar[89171]=`<b>άδος</b> <font color="purple">[ᾰᾰῑνᾰδ]</font> <i>adj. f. c</i>. Σαλαμίνιος, ESCHL. <i>Pers. 964</i>.`

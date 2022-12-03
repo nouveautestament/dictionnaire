@@ -1,1 +1,0 @@
-lar[82246]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en errant de tous côtés, HPC. <i>277, 54</i>.<p><b>Étym</b>. πολυπλανής.`

@@ -1,1 +1,0 @@
-lar[94210]=`<i>adv</i>., également avec un accent circonflexe sur la dernière syllabe, DYSC. <i>Adv. 587, 13</i>.<p><b>Étym</b>. συμπερισπάω.`

@@ -1,1 +1,0 @@
-lar[51134]=`<b>καλλί·κερως</b>, <i>gén</i>. <b>ω</b>, <i>acc</i>. <b>ων (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux belles cornes, ANTH. <i>7, 744 ; 9, 603</i>.<p><b>Étym</b>. κ. κέρας.`

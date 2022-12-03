@@ -1,1 +1,0 @@
-lar[37013]=`<b>ἐπ·εισφρέω-ῶ</b>, introduire en outre <i>ou</i> ensuite dans, <i>dat</i>. EUR. <i>Alc. 1056, etc.</i><br><b><i>Moy.</i></b> introduire avec soi, XÉN. <i>Hell. 6, 5, 43, conj</i>.<p>➳ <i>Part. ao</i>. ἐπεισφρείς (<i>comme de</i> *ἐπεισπίφρημι) EUR. <i>fr. 781, 46 ; inf. ao. moy</i>. ἐπεισφρέσθαι, XÉN. <i>l. c. Anc. att</i>. ἐπεσφρῶ, EUR. <i>l. c</i>.`

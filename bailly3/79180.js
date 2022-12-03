@@ -1,1 +1,0 @@
-lar[79180]=`<b>περι·προχέω</b> (<i>part. ao</i>. -προχυθείς) se répandre dans l’âme, IL. <i>14, 316</i>.`

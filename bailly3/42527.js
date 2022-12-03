@@ -1,1 +1,0 @@
-lar[42527]=`<i>adv</i>., avec harmonie, SOPATER.<p><b>Étym</b>. <i>W. 8, 14</i>.`

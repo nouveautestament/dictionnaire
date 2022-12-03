@@ -1,1 +1,0 @@
-lar[100627]=`<b>τριχο·λάβιον, ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> petite pince pour épiler, AÉT.<p><b>Étym</b>. θρίξ, λαμβάνω.`

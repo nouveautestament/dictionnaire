@@ -1,1 +1,0 @@
-lar[63820]=`<b>Μελάμ·πους, -ποδος (ὁ)</b> Mélampous, <i>célèbre médecin et devin,</i> OD. <i>15, 225</i> ; HDT. <i>2, 49 ; 9, 34</i>.<p>➳ <i>Gén</i>. Μελάμποδος, LUC. <i>Im. 20, etc</i>.<p><b>Étym</b>. <i>v</i>. μελάμπους.`

@@ -1,1 +1,0 @@
-lar[81177]=`<font color="purple">[ᾰ]</font><br><b>      1</b> agiter <i>ou</i> éventer de son souffle, A. CAR. <i>151</i>.<br><b>      2</b> marquer de l’esprit doux <i>ou</i> rude, EUST. <i>524, 5, etc</i>.<p><b>Étym</b>. πνεῦμα.`

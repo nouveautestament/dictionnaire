@@ -1,1 +1,0 @@
-lar[80810]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πλέγμα ARSTT. <i>P.A. 4, 9, 13</i>.`

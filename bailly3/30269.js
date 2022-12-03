@@ -1,1 +1,0 @@
-lar[30269]=`savoir, PEMPEL. (STOB. <i>461, 9).</i><p><b>Étym</b>. *εἴδω.`

@@ -1,1 +1,0 @@
-lar[96893]=`<b>ῆρος (ὁ) :<br>      1</b> lien, bandage, bandeau, ANTH. <i>5, 206</i> ; NONN. <i>D. 16, 391</i>.<br><b>      2</b> muscle annulaire de l’anus, sphincter, ANTH. <i>12, 7</i> ; P. ÉG. <i>6, 78</i>.<p><b>Étym</b>. σφίγγω.`

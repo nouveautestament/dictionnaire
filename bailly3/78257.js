@@ -1,1 +1,0 @@
-lar[78257]=`<b>ή, όν :<br>      1</b> apte à digérer, ARSTT. <i>G.A. 4, 1, 37</i> ; DIOSC. <i>3, 38</i>.<br><b>      2</b> qui aide à la digestion, ARSTT. <i>P.A. 4, 3, 5</i>.<p>•<i> Sup</i>. -ώτατος, ARSTT. <i>G.A. 3, 1, 8</i>.<p><b>Étym</b>. πέπτω.`

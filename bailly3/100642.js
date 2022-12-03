@@ -1,1 +1,0 @@
-lar[100642]=`<font color="purple">[ῐ]</font> <i>adv</i>., en trois endroits, HDT. <i>7, 36</i>.<p><b>Étym</b>. *τριχός ; <i>cf</i>. τρίχα.`

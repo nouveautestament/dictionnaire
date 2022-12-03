@@ -1,1 +1,0 @@
-lar[32204]=`<b>ἐκ·τορέω-ῶ</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐξετόρησεν)</font> enlever en creusant, HH. <i>Merc. 42</i>.<p><b>Étym</b>. ἐκ, *τορέω.`

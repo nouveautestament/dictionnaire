@@ -1,1 +1,0 @@
-lar[100481]=`<b>τρισ·όλβιος, ος, ον</b>, trois fois heureux, bienheureux, SOPH. <i>fr. 719</i> ; AR. <i>Eccl. 1129</i> ; LUC. <i>Nigr. 1, Cat. 16</i> ; ANTH. <i>5, 94, etc</i>.`

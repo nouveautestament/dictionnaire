@@ -1,1 +1,0 @@
-lar[61003]=`<b>η, ον</b> <font color="purple">[ῐῑ]</font> de Ligurie : ἡ Λιγυστίνη, POL. <i>7, 9, 65,</i> la Ligurie ; οἱ Λιγυστῖνοι, LYC. <i>1356</i> ; POL. <i>1, 17, 4</i> ; PLUT. <i>Æmil. 6, etc</i>. les Ligures.<p><b>Étym</b>. Λίγυς.`

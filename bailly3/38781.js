@@ -1,1 +1,0 @@
-lar[38781]=`<b>ἐπι·πορπέομαι-οῦμαι</b>, s’agrafer un surtout sur l’épaule, <i>acc</i>. POL. <i>39, 1, 2</i> ; DS. <i>5, 30</i>.<p><b>Étym</b>. ἐπί, πόρπη.`

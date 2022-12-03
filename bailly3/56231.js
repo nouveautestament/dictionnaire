@@ -1,1 +1,0 @@
-lar[56231]=`<i>réc</i>. <b>γναφικός, ή, όν</b>, qui concerne les cardeurs, qui sert pour carder <i>ou</i> pour fouler, DIOSC. <i>4, 163</i>.`

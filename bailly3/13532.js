@@ -1,1 +1,0 @@
-lar[13532]=`<b>ἀπό·σχολος, ος, ον</b>, qui ne fréquente pas l’école, TIMON (DL. <i>9, 69).</i><p><b>Étym</b>. ἀ. σχολή.`

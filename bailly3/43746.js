@@ -1,1 +1,0 @@
-lar[43746]=`<b>ή, όν</b>, propre à charmer, <i>gén</i>. ATH. <i>608a</i>.<p><b>Étym</b>. εὐφραίνω.`

@@ -1,1 +1,0 @@
-lar[90474]=`<b>ου (ὁ)</b> <font color="purple">[ῑῠ]</font> Sisyphe, <i>fils d’Éole, roi de Corinthe, renommé pour sa fourberie,</i> IL. <i>6, 153</i> ; OD. <i>11, 593</i> ; AR. <i>Ach. 391 ; sobriquet de Derkyllidas,</i> XÉN. <i>Hell. 3, 1, 8, etc</i>.<p><b>Étym</b>. <i>pré-grec ; p.-ê. par redoublement de</i> σοφός <i>avec</i> υ <i>éol. pour</i> ο.`

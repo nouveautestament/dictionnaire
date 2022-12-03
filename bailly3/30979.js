@@ -1,1 +1,0 @@
-lar[30979]=`<i>dev. une voy</i>. <b>ἑκάτερθεν</b>, <i>adv</i>., de chaque côté, IL. <i>11, 37</i> ; OD. <i>1, 335 ; avec un gén</i>. IL. <i>3, 340, etc.</i> ; OD. <i>6, 263 ; particul. t. de mar</i>. à bâbord et à tribord, A.RH. <i>1, 563 ; en prose ion</i>. ARÉT. <i>Caus. m. diut. p. 52</i>.<p><b>Étym</b>. <i>cf</i>. ἑκατέρωθεν.`

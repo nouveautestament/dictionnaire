@@ -1,1 +1,0 @@
-lar[84540]=`<b>προ·κατορρωδέω-ῶ</b>, redouter d’avance, ONOS. <i>4</i>.`

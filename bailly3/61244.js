@@ -1,1 +1,0 @@
-lar[61244]=`<b>λιν·οπτάομαι-ῶμαι</b> <font color="purple">[ῐ]</font> avoir l’œil sur la ligne <i>ou</i> examiner le filet (pour voir s’il y a du poisson) AR. <i>Pax 1178</i>.<p><b>Étym</b>. λ. ὄψομαι.`

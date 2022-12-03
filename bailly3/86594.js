@@ -1,1 +1,0 @@
-lar[86594]=`<font color="purple">[ᾰ]</font> <i>adv</i>., récemment, nouvellement, MACH. (ATH. <i>581e</i>) ; POL. <i>3, 37, 11</i>.<p><b>Étym</b>. πρόσφατος.`

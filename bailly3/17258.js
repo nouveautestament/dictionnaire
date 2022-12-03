@@ -1,1 +1,0 @@
-lar[17258]=`<b>αὐξί·τροφος, ος, ον</b>, nourrissant, qui favorise la croissance, ORPH. <i>H. 9, 17 ; 50, 12</i>.<p><b>Étym</b>. αὔξω, τροφή.`

@@ -1,1 +1,0 @@
-lar[65395]=`<b>μηλο·κόμος, ος, ον</b>, qui soigne les brebis, HYMN. AD ISIM <i>74</i>.<p><b>Étym</b>. μῆλον¹, κομέω.`

@@ -1,1 +1,0 @@
-lar[30797]=`<b>εἰσ·κηρύττω</b>, <i>anc. att</i>. <b>ἐσ·κηρύττω</b>, appeler par la voix d’un héraut, SOPH. <i>El. 690 (ao</i>. εἰσεκήρυξαν) ; AR. <i>Ach. 135 (prés. pass</i>. -ύττεται) ; <i>ou</i> d’un régisseur de théâtre, DC. <i>61, 20</i>.<p><b>Étym</b>. <i>part. ao. pass</i>. ἐσκηρυχθείς.`

@@ -1,1 +1,0 @@
-lar[52770]=`<b>κατ·αλσής, ής, ές</b>, couvert de bois, de forêts, STR. <i>238</i>.<p><b>Étym</b>. κ. ἄλσος.`

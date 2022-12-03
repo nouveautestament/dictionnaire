@@ -1,1 +1,0 @@
-lar[89749]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> fils de Sélèpios, IL. <i>2, 693</i>.<p><b>Étym</b>. <i>patr. de</i> *Σελήπιος.`

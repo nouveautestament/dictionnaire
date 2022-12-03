@@ -1,1 +1,0 @@
-lar[57556]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> qui est en bois de cornouiller, HH. <i>Merc. 460</i> ; HDT. <i>7, 32</i> ; XÉN. <i>Cyr. 7, 1, 2 ; Hell. 3, 4, 14, etc</i>.<p><b>Étym</b>. κράνεια.`

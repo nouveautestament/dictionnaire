@@ -1,1 +1,0 @@
-lar[63321]=`<b>μεγαλ·επίβουλος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui accomplit de grandes choses, POL. <i>15, 37, 1</i> ; DS. <i>1, 19, etc</i>.<p><b>Étym</b>. μ. ἐπίβουλος.`

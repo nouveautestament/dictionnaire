@@ -1,1 +1,0 @@
-lar[58537]=`<b>άδος (ὁ, ἡ)</b> <font color="purple">[υᾰδ]</font> rond, circulaire, ANTH. <i>6, 299</i>.<p><b>Étym</b>. κύκλος.`

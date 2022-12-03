@@ -1,1 +1,0 @@
-lar[45733]=`<i>adv</i>., de la terre ferme, ARAT. <i>1094</i>.<p><b>Étym</b>. ἤπειρος, -θεν.`

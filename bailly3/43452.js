@@ -1,1 +1,0 @@
-lar[43452]=`<b>ας (ἡ)</b> <font color="purple">[ᾰθ]</font> fermeté, stabilité, consistance, équilibre du corps et de l’intelligence, PLUT. <i>M. 135c ; fig</i>. PLUT. <i>M. 342f</i>.<p>➳ <i>Ion</i>. εὐσταθίη, HPC. <i>24, 45</i> ; ANTH. <i>12, 199</i>.<p><b>Étym</b>. εὐσταθής.`

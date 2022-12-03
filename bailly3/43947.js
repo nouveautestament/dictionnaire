@@ -1,1 +1,0 @@
-lar[43947]=`<b>ἐφ·εκκαιδέκατος, η, ον</b> <font color="purple">[ᾰ]</font> qui comprend un entier et ¹⁄₁₆, PLUT. <i>M. 1021d ;</i> A. QUINT. <i>p. 114, 115</i>.<p><b>Étym</b>. ἐπί, ἑκκαιδέκατος ; <i>cf</i>. ἐφεξκαιδέκατος.`

@@ -1,1 +1,0 @@
-lar[9491]=`<b>ατος (τὸ)</b> ce qui revient en échange, récompense, SPT. <i>Gen. 50, 15 ; Tob. 14, 10 ; Sir. 12, 2 ; 14, 6, etc. ; ou</i> punition, NT. <i>Rom. 11, 9</i>.<p><b>Étym</b>. ἀνταποδίδωμι.`

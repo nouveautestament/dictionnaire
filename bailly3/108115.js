@@ -1,1 +1,0 @@
-lar[108115]=`<b>οῦ (ὁ)</b> celui qui manie, qui a en main, qui dirige, <i>gén</i>. POL. <i>3, 4, 13 ; 3, 98, 8, etc</i>.<p><b>Étym</b>. χειρίζω.`

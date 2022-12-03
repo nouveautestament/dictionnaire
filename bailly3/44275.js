@@ -1,1 +1,0 @@
-lar[44275]=`<b>ἐχιν·αλώπηξ, εκος (ὁ)</b> <font color="purple">[ῑᾰ]</font> animal qui tient du renard et du hérisson, E. BYZ. <i>v°</i> Ἀζανοί.<p><b>Étym</b>. ἐχῖνος, ἀλώπηξ.`

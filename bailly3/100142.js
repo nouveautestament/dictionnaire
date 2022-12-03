@@ -1,1 +1,0 @@
-lar[100142]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> troisième génération, STR. <i>73</i>.<br><b>      2</b> qualité d’un nom à trois genres, DYSC. <i>Pron. p. 13a.</i><br><b>      3</b> triple sorte, <i>t. stoïc.</i> : τριγένεια ἀγαθῶν, SEXT. <i>P. 3, 181,</i> les trois sortes de biens.<p><b>Étym</b>. τριγενής.`

@@ -1,1 +1,0 @@
-lar[93165]=`<i>mieux que</i> <b>συβίνη, ης (ἡ)</b> <font color="purple">[ῠῑ]</font> étui, carquois, AR. <i>Th. 1197, 1215</i> ; INSCR. <i>etc</i>.<p>➳ <i>Dans les inscr. att</i>. συβήνη, CIA. <i>1, 170, 19 (422/419 av. J.-C.) etc. ; v. Meisterh. p. 15, 7</i>.`

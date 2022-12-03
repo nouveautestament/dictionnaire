@@ -1,1 +1,0 @@
-lar[723]=`<b>Ἀγλαο·φῶν, ῶντος (ὁ)</b> Aglaophôn, <i>n. de deux peintres,</i> PLAT. <i>Gorg. 448b, etc</i>.<p><b>Étym</b>. ἀ. φάω.`

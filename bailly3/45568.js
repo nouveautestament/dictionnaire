@@ -1,1 +1,0 @@
-lar[45568]=`<b>ἡμί·στιχον, ου (τὸ)</b> <font color="purple">[τῐ]</font> <i>c</i>. ἡμιστίχιονDH. <i>5, 217 Reiske</i>.`

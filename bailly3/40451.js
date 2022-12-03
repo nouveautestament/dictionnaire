@@ -1,1 +1,0 @@
-lar[40451]=`<b>ἐρί·κλυτος, ος, ον</b> <font color="purple">[ῠ]</font> très renommé, ORPH. <i>Arg. 1028</i>.<p><b>Étym</b>. ἐρι-, κλυτός.`

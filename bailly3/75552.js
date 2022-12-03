@@ -1,1 +1,0 @@
-lar[75552]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> promenoir <i>ou</i> lieu d’exercices à couvert, VITR. <i>5, 11</i>.<p><b>Étym</b>. παραδρομή.`

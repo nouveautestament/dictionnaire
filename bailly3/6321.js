@@ -1,1 +1,0 @@
-lar[6321]=`<i>adv</i>., avec les jambes écartées, SOPH. <i>fr. 538</i>.<p><b>Étym</b>. ἀμφιπλίσσω.`

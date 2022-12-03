@@ -1,1 +1,0 @@
-lar[28294]=`<b>δυσ·διαίτητος, ος, ον</b>, difficile à trancher, à décider, PLUT. <i>Cor. 35, Cim. c. Luc. 3</i> ; PORPH. <i>Abst. 2, § 1</i>.<p><b>Étym</b>. δ. διαιτάω.`

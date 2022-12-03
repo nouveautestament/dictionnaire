@@ -1,1 +1,0 @@
-lar[50952]=`<b>καλαθο·ποιός, ός, όν</b> <font color="purple">[ᾰᾰ]</font> faiseur de corbeilles, DYSC. <i>602, 22 Bekker, Anecdota græca</i>.<p><b>Étym</b>. κ. ποιέω.`

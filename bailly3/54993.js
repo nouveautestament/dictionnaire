@@ -1,1 +1,0 @@
-lar[54993]=`<b>εος-ους (τὸ)</b> vase de terre avec des compartiments (κοτυλίσκοι) <i>où les Corybantes apportaient les fruits pour le sacrifice,</i> ATH. <i>476e</i>.<p><b>Étym</b>. <i>cf</i>. κερνοφορέω, κερνοφόρος.`

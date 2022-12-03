@@ -1,1 +1,0 @@
-lar[22651]=`<b>γριπηῒς τέχνη (ἡ)</b> <font color="purple">[ῑπ]</font> l’art de la pêche, ANTH. <i>6, 223</i>.<p><b>Étym</b>. γρῖπος.`

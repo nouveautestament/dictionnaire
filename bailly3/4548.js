@@ -1,1 +1,0 @@
-lar[4548]=`<b>ἁλι·ρραίστης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui dévaste la mer, NIC. <i>Th. 828</i>.<p><b>Étym</b>. ἅ. ῥαίω.`

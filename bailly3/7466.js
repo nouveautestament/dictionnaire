@@ -1,1 +1,0 @@
-lar[7466]=`<b>ή, όν</b>, qui absorbe, PTOL. <i>Tetr. 18</i>.<p><b>Étym</b>. ἀναπίνω.`

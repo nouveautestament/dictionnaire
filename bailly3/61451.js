@@ -1,1 +1,0 @@
-lar[61451]=`<b>      1</b> darder sa langue, HÉS. <i>Sc. 234</i> ; NIC. <i>Th. 229</i>.<br><b>      2</b> lécher, <i>acc</i>. OPP. <i>H. 2, 250</i> ; NONN. <i>D. 44, 111</i>.<p>➳ <i>Impf. 3 sg. poét</i>. λίχμαζεν, NONN. <i>D. l. c. ; 3 pl. poét</i>. λίχμαζον, HÉS. <i>l. c. ; impf. itér. 3 sg</i>. λιχμάζεσκε, MOSCH. <i>2, 94</i>.<p><b>Étym</b>. <i>cf</i>. λιχμάω.`

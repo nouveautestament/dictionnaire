@@ -1,1 +1,0 @@
-lar[10491]=`<b>ἀντι·τειχίζω</b>, élever un rempart contre, JOS. <i>B.J. 5, 8, 2, etc</i>.`

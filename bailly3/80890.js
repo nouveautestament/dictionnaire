@@ -1,1 +1,0 @@
-lar[80890]=`<i>adv.</i> :<br><b>      1</b> avec cupidité <i>ou</i> intérêt personnel, PLAT. <i>Phæd. 91b ;</i> DÉM. <i>610, 10, etc.</i><br><b>      2</b> avec supériorité, avec avantage, EN. TACT.`

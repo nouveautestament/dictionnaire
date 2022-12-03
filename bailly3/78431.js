@@ -1,1 +1,0 @@
-lar[78431]=`<b>οῦς (ἡ)</b> <font color="purple">[ᾰ]</font> la déesse aux jambes écartées, <i>surn. d’Aphrodite, à Argos,</i> CLÉM. <i>33</i>.<p><b>Étym</b>. περιβαίνω.`

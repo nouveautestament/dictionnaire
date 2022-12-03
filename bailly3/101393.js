@@ -1,1 +1,0 @@
-lar[101393]=`<b>ὑγρο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font> plongé dans l’eau, mouillé, trempé, NONN. <i>D. 8, 142 ; 23, 183</i>.<p><b>Étym</b>. ὑ. βάπτω.`

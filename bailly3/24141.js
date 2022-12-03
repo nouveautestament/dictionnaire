@@ -1,1 +1,0 @@
-lar[24141]=`<b>ατος (τὸ)</b> cause de ruine : τινος, pour qqn, ESCHL. <i>fr. 121, ou</i> pour qqe ch. (pour des navires, <i>en parl. des vents</i>) OD. <i>12, 286</i> ; τινι, HH. <i>Ap. 364,</i> pour qqn.<p><b>Étym</b>. δηλέομαι.`

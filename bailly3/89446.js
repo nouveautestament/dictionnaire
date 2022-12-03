@@ -1,1 +1,0 @@
-lar[89446]=`<b>σαρκο·λιπής, ής, ές</b> <font color="purple">[ῐ]</font> décharné, ANTH. <i>7, 383</i>.<p><b>Étym</b>. σ. λείπω.`

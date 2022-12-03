@@ -1,1 +1,0 @@
-lar[11246]=`<b>εως (ἡ)</b> action de s’éloigner de, DS. <i>25, 2</i>.`

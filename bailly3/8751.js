@@ -1,1 +1,0 @@
-lar[8751]=`<b>ἀν·ήφαιστος, ος, ον</b>, sans Hèphæstos, <i>càd</i>. (feu) auquel Hèphæstos est étranger, dont les flammes ne sont pas matérielles, EUR. <i>Or. 621</i>.<p><b>Étym</b>. ἀν-, Ἥφαιστος.`

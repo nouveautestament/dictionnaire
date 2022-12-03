@@ -1,1 +1,0 @@
-lar[36724]=`<b>ἐπ·αντιάζω</b> (<i>3 sg. opt. ao</i>. ἐπαντιάσειε) aller au-devant, HH. <i>Ap. 152</i>.`

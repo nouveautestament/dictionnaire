@@ -1,1 +1,0 @@
-lar[74084]=`<b>παγ·γενέτης, ου</b>, <i>adj. m</i>. père <i>ou</i> créateur de toutes choses, ORPH. <i>H. 19, 5</i>.<p><b>Étym</b>. π. γίγνομαι.`

@@ -1,1 +1,0 @@
-lar[77031]=`<b>ας (ἡ) :<br>      1</b> proverbe, ESCHL. <i>Ag. 264</i> ; SOPH. <i>Aj. 664</i> ; AR. <i>Th. 528</i> ; κατὰ τὴν παροιμίαν, PLAT. <i>Conv. 222b</i>, selon le proverbe.<br><b>      2</b> parabole, NT. <i>Joh. 10, 6</i>.<p><b>Étym</b>. π. οἴμη.`

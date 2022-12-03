@@ -1,1 +1,0 @@
-lar[32086]=`<b>α, ον :<br>      1</b> qui a lieu <i>ou</i> se fait le sixième jour, HPC. <i>Aph. 1250</i> ; XÉN. <i>An. 6, 6, 38</i> ; DS. <i>17, 65</i>.<br><b>      2</b> sixième, ANTH. <i>14, 119</i>.<p><b>Étym</b>. ἕκτος.`

@@ -1,1 +1,0 @@
-lar[10077]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾰ]</font> méridien opposé, SEXT. <i>M. 5, 12</i> ; PTOL. <i>Tetr. 201</i>.`

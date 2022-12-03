@@ -1,1 +1,0 @@
-lar[10824]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> absence de douleur, PROTAG. (PLUT. <i>M. 118e</i>) ; PLOT. <i>Enn. 1, 4, 6</i>.<p><b>Étym</b>. ἀνώδυνος.`

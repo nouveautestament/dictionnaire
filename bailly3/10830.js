@@ -1,1 +1,0 @@
-lar[10830]=`<b>ἀν·ώϊστος, ος, ον :<br>      1</b> inopiné, inattendu, IL. <i>21, 39</i>.<br><b>      2</b> inaperçu, HOM. <i>Ep. 5</i>.<p><b>Étym</b>. ἀν-, οἴομαι.`

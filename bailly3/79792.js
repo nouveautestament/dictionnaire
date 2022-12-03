@@ -1,1 +1,0 @@
-lar[79792]=`<b>ή, όν</b>, de Persée, <i>roi de Macédoine,</i> POL. <i>3, 3, 8</i>.<p><b>Étym</b>. Περσεύς.`

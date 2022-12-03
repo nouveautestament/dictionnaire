@@ -1,1 +1,0 @@
-lar[105065]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> cher petit Pheidippidès, AR. <i>Nub. 81</i>.<p><b>Étym</b>. <i>dim. de</i> Φειδιππίδης.`

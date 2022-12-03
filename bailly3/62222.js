@@ -1,1 +1,0 @@
-lar[62222]=`<b>ᾶς (ἡ)</b> masse de pâte, GAL.`

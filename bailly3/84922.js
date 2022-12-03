@@ -1,1 +1,0 @@
-lar[84922]=`<b>πρό·πεμπτος</b>, <i>seul. pl. neutre</i> πρόπεμπτα, cinq jours auparavant, DÉM. <i>1076, 21 (loi</i>) ; LYS. (HARP.) ; <i>cf</i>. πρότριτος.<p><b>Étym</b>. π. πέμπτος.`

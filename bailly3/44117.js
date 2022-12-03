@@ -1,1 +1,0 @@
-lar[44117]=`<b>ἐφομιλέω-ῶ</b> <font color="purple">[ῑ]</font> <font color="darkgreen">(<i>ao</i>. ἐφωμίλησα)</font> avoir commerce avec, <i>acc</i>. HERMÉSIAN. <i>5, 52 ; dat</i>. NONN. <i>D. 5, 410</i>.<p><b>Étym</b>. ἐπί, ὁ.`

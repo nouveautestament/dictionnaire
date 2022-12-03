@@ -1,1 +1,0 @@
-lar[37444]=`<b>ἐπι·γεμίζω</b>, mettre une nouvelle charge sur, <i>avec</i> ἐπί <i>et l’acc</i>. SPT. <i>Neh. 13, 15</i>.`

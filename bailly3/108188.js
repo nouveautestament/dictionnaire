@@ -1,1 +1,0 @@
-lar[108188]=`<b>ατος (τὸ) :<br>      1</b> travail manuel, PLAT. <i>Gorg. 450b.</i><br><b>      2</b> ouvrage fait de main d’homme, DH. <i>Pomp. 1, 7</i>.<p><b>Étym</b>. χειρουργέω.`

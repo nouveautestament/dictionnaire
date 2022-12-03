@@ -1,1 +1,0 @@
-lar[85624]=`<b>εως (ἡ)</b> attention, PLAT. <i>Rsp. 407b, Def. 413d</i>.<p><b>Étym</b>. προσέχω.`

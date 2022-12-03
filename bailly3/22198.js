@@ -1,1 +1,0 @@
-lar[22198]=`<b>εως (ἡ)</b> vin douceâtre, PHRYN. COM. (DL. <i>4, 20</i>) ; ATH. <i>31e</i>.`

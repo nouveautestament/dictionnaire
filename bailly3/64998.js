@@ -1,1 +1,0 @@
-lar[64998]=`<font color="purple">[μᾰ]</font> <i>vb. de</i> μετασχηματίζω, ANTYLL. (ORIB. <i>2, 50 B.-Dar</i>.).`

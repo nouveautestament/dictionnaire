@@ -1,1 +1,0 @@
-lar[34698]=`<b>ἐν·ναυαγέω-ῶ</b> <font color="purple">[ᾱγ]</font> faire naufrage dans, <i>dat</i>. NYSS. <i>1, 170c</i>.`

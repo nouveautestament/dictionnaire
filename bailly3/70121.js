@@ -1,1 +1,0 @@
-lar[70121]=`<i>adv</i>., comme un voyageur, PLUT. <i>Arat. 21</i>.`

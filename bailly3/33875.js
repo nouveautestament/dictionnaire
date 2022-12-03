@@ -1,1 +1,0 @@
-lar[33875]=`<b>ἐν·ανειλέω-ῶ</b> <font color="purple">[ᾰ]</font> rouler en arrière dans, tourner et retourner dans, <i>dat</i>. GAL. <i>6, 97</i>.`

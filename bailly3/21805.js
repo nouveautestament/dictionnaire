@@ -1,1 +1,0 @@
-lar[21805]=`<b>γεροντο·μανία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> folie de vieillard, <i>titre d’une comédie d’Anaxandride,</i> ARSTT. <i>Rhet. 3, 2, 3</i> ; ATH. <i>570d</i>.<p><b>Étym</b>. γέρων, μ.`

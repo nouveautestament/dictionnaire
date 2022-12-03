@@ -1,1 +1,0 @@
-lar[99386]=`<font color="darkgreen">(<i>f</i>. τρήσω, <i>ao</i>. ἔτρησα, <i>pf. inus. ; pass. fut. inus., ao</i>. ἐτρήθην, <i>pf</i>. τέτρημαι)</font> trouer, percer, HDT. <i>4, 158</i> ; AR. <i>Pax 21</i> ; XÉN. <i>Œc. 7, 40</i>.<p>➳ <i>Prés. réc</i>. DIOSC. <i>5, 77, etc</i>.<p><b>Étym</b>. τετραίνω.`

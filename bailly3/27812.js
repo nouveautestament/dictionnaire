@@ -1,1 +1,0 @@
-lar[27812]=`<b>δρακοντό·μαλλος, ος, ον</b> <font color="purple">[ᾰκ]</font> hérissé (<i>litt</i>. vêtu) de serpents, ESCHL. <i>Pr. 799</i>.<p><b>Étym</b>. δράκων, μαλλός.`

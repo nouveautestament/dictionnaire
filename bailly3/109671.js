@@ -1,1 +1,0 @@
-lar[109671]=`<b>ψευδο·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui dessine inexactement (une figure de géométrie) ARSTT. <i>Soph. el. 11, 6</i>.<p><b>Étym</b>. ψ. γράφω.`

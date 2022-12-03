@@ -1,1 +1,0 @@
-lar[20721]=`<b>βραχύ·ρριζος, ος, ον</b> <font color="purple">[ᾰ]</font> dont les racines sont courtes, TH. <i>C.P. 3, 7, 1</i>.<p><b>Étym</b>. βρ. ρίζα.`

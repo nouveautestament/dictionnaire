@@ -1,1 +1,0 @@
-lar[14006]=`<font color="purple">[φᾰ]</font> <i>adv.</i> :<br><b>      1</b> d’une manière imprévue, A.RH. <i>1, 1201, etc.</i><br><b>      2</b> <i>c</i>. ἀπροφασίστως, A.RH. <i>2, 68, etc</i>.`

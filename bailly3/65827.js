@@ -1,1 +1,0 @@
-lar[65827]=`<b>ου (τὸ)</b> <font color="purple">[ῐῠ]</font> arbouse, <i>fruit de l’arbousier,</i> THPP. COM. (ATH. <i>50e</i>) ; TH. <i>C.P. 2, 8, 2</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

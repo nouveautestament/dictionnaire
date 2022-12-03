@@ -1,1 +1,0 @@
-lar[96610]=`<b>συ·σκοτάζω :<br>      1 <i>intr.</i></b> être obscur, SPT. <i>3Reg. 18, 45 ; Joel 3, 15, etc. ; impers</i>. ξυνεσκόταζε ἤδη, THC. <i>1, 51 ; 7, 73,</i> il faisait déjà nuit.<br><b>      2 <i>tr.</i></b> couvrir de ténèbres, <i>acc</i>. SPT. <i>Ezech. 32, 7 ; Amos 5, 8</i>.`

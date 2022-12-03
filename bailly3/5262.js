@@ -1,1 +1,0 @@
-lar[5262]=`<b>ἁμαρτί·νοος, οος, οον</b> <font color="purple">[ᾰμῐ]</font> à l’esprit égaré, HÉS. <i>Th. 511</i> ; ESCHL. <i>Suppl. 542</i>.<p><b>Étym</b>. ἁμαρτάνω, νόος.`

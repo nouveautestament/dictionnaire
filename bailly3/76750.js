@@ -1,1 +1,0 @@
-lar[76750]=`<b>παρ·έοικα</b>, <i>au sens d’un présent,</i> avoir quelque ressemblance avec, <i>dat</i>. DIOSC. <i>2, 189</i>.`

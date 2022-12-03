@@ -1,1 +1,0 @@
-lar[10101]=`<b>ἀντι·μιμέομαι-οῦμαι</b> <font color="purple">[μῑ]</font> imiter à son tour, contrefaire, APP. <i>2, 766 Schweigh</i>.`

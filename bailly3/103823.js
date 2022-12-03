@@ -1,1 +1,0 @@
-lar[103823]=`<b>ὑπο·σκαλεύω</b> <font color="purple">[ᾰ]</font> remuer avec une pelle : πῦρ, AR. <i>Ach. 1014,</i> attiser du feu.`

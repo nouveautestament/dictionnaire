@@ -1,1 +1,0 @@
-lar[58962]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui emploie les mots dans le sens propre, CLÉM. <i>657</i>.<p><b>Étym</b>. κυριολογέω.`

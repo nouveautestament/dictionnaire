@@ -1,1 +1,0 @@
-lar[25616]=`<b>δια·στηρίζω</b> (<i>seul. ao. 3 sg</i>. διεστήριξεν) rendre solide, affermir, ANTH. <i>6, 203 ; au pass. (seul. part. prés</i>.) avoir la marche sûre <i>ou</i> ferme, HPC. <i>Ep. 1280</i>.`

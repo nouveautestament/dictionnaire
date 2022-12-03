@@ -1,1 +1,0 @@
-lar[52047]=`<b>ης (ἡ)</b> Kasménè, <i>v. de Sicile,</i> HDT. <i>7, 155 ; plur</i>. Κασμέναι, ῶν (αἱ) <i>m. sign</i>. THC. <i>6, 5</i>.`

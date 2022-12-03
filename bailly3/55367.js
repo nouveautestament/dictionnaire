@@ -1,1 +1,0 @@
-lar[55367]=`<b>Κηφισο·κράτης, ους (ὁ)</b> <font color="purple">[ῑᾰ]</font> Kèphisokratès, <i>h</i>. PLUT. <i>Adul. ab am. 22</i>.<p><b>Étym</b>. Κ. κράτος.`

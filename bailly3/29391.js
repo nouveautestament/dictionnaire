@@ -1,1 +1,0 @@
-lar[29391]=`<font color="purple">[ῠ]</font> auprès :<br><b>      1</b> <i>en parl. du lieu,</i> IL. <i>7, 341</i> ; HÉS. <i>O. 286</i> ; τινός, IL. <i>6, 317</i> ; HÉS. <i>O. 341, 386, 618</i> ; THCR. <i>Idyl. 21, 8 ; etc.</i> ; τινί, IL. <i>22, 300,</i> de qqn <i>ou</i> de qqe ch.<br><b>      2</b> <i>en parl. du temps,</i> proche, IL. <i>10, 251</i>.<p><b>Étym</b>. ἐγγύς, -θι.`

@@ -1,1 +1,0 @@
-lar[94418]=`<b>α, ον</b>, plus convenable, plus avantageux, ARSTT. <i>Top. 3, 3</i>.<p><b>Étym</b>. συμφέρω ; <i>cf</i>. σύμφορος.`

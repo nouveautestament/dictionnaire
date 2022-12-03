@@ -1,1 +1,0 @@
-lar[95062]=`<b>συν·δενδρόομαι-οῦμαι</b>, devenir arbre en même temps, LIB. <i>t. 4, p. 1020</i>.`

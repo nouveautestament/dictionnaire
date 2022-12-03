@@ -1,1 +1,0 @@
-lar[67325]=`<b>μυρο·πώλης, ου (ὁ)</b> <font color="purple">[ῠ]</font> marchand de parfums, parfumeur, XÉN. <i>Conv. 2, 4</i> ; LYS. (ATH. <i>612e</i>).<p><b>Étym</b>. μ. πωλέω.`

@@ -1,1 +1,0 @@
-lar[90639]=`<b>Σκαμανδρ·ώνυμος, ου (ὁ)</b> <font color="purple">[κᾰῠ]</font> Skamandrônymos, <i>père de Sappho,</i> HDT. <i>2, 136</i> ; EL. <i>V.H. 12, 19</i>.<p><b>Étym</b>. Σκάμανδρος, ὄνομα.`

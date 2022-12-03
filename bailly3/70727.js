@@ -1,1 +1,0 @@
-lar[70727]=`<b>*οἰσυπόω</b> <font color="purple">[ῠ]</font> (<i>part. prés. neutre</i>) suinter, être graisseux, <i>en parl. de laine,</i> HPC. <i>881h</i>.<p><b>Étym</b>. οἴσυπος.`

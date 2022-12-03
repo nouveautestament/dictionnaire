@@ -1,1 +1,0 @@
-lar[8815]=`<b>ἀνθηδονο·ειδής, ής, ές</b>, <i>litt</i>. semblable à une abeille, <i>en parl. d’une sorte de nèfle,</i> TH. <i>H.P. 3, 12, 5</i>.<p><b>Étym</b>. ἀνθηδών, εἶδος.`

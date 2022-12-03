@@ -1,1 +1,0 @@
-lar[58960]=`<b>κυριο·λογέω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> <i>c</i>. κυριολεκτέω, CLÉM. <i>657, etc.</i><br><b>      2</b> donner le titre de seigneur à, <i>acc</i>. BAS. <i>1, 753a Migne</i>.<p><b>Étym</b>. κύριος, λόγος.`

@@ -1,1 +1,0 @@
-lar[61398]=`<i>épithète qualifiant les garçons qui se prostituent ou les homosexuels, litt</i>. « aux fesses lisses », <i>càd. épilées, rasées, les poils aux fesses et aux jambes étant, chez les Grecs, un signe de virilité</i>.`

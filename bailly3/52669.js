@@ -1,1 +1,0 @@
-lar[52669]=`<b>κατα·κυματόω-ῶ</b> <font color="purple">[ῡᾰ]</font> agiter au moyen des flots, EUM. <i>p. 13</i>.`

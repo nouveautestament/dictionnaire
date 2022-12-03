@@ -1,1 +1,0 @@
-lar[56124]=`<b>ας (ἡ)</b> Clunia, <i>v. d’Espagne,</i> PLUT. <i>Galb. 6</i>.`

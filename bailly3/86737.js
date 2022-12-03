@@ -1,1 +1,0 @@
-lar[86737]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne une proposition (<i>v</i>. πρότασις) ARSTT. <i>Top. 8, 14, 9</i>.<p><b>Étym</b>. προτείνω.`

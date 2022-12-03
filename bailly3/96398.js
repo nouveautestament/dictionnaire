@@ -1,1 +1,0 @@
-lar[96398]=`<b>συν·υθλέω-ῶ</b>, bavarder avec, LUC. <i>Lex. 14</i>.`

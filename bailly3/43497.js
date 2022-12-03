@@ -1,1 +1,0 @@
-lar[43497]=`<b>ας (ἡ)</b> facilité à se tourner en tous sens, flexibilité, souplesse, CHRYSIPP. (ATH. <i>18b</i>) ; PLUT. <i>M. 510f</i>.<p><b>Étym</b>. εὔστροφος.`

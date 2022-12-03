@@ -1,1 +1,0 @@
-lar[62141]=`<b>λυχνο·ποιός, οῦ (ὁ)</b> fabricant de lampes, AR. <i>Pax 690</i> ; PHILÉT. (ATH. <i>474e</i>).<p><b>Étym</b>. λύχνος, ποιέω.`

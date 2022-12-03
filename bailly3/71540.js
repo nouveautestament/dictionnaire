@@ -1,1 +1,0 @@
-lar[71540]=`<b>ὁμοιο·πρεπής, ής, ές</b>, de semblable apparence, ESCHL. <i>Ag. 793</i>.<p><b>Étym</b>. ὅμ. πρέπω.`

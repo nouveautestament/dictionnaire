@@ -1,1 +1,0 @@
-lar[101506]=`<b>ὑδρ·άργυρος, ου (ὁ)</b> <font color="purple">[γῠ]</font> vif-argent, mercure, TH. <i>Lap. 60</i> ; DIOSC. <i>5, 110</i>.<p><b>Étym</b>. ὕδωρ, ἄργυρος.`

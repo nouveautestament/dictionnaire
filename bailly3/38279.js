@@ -1,1 +1,0 @@
-lar[38279]=`<b>ἐπι·λεύσσω</b> (<i>seul. prés</i>.) voir devant, IL. <i>3, 12</i>.`

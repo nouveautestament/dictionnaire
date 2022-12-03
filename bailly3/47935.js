@@ -1,1 +1,0 @@
-lar[47935]=`<b>θυμο·λιπής, ής, ές</b> <font color="purple">[ῡῐ]</font> qui a perdu courage, NONN. <i>D. 37, 540</i>.<p><b>Étym</b>. θ. λείπω.`

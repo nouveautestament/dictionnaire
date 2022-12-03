@@ -1,1 +1,0 @@
-lar[38438]=`<b>ἐπι·μηνυτής, οῦ (ὁ)</b> <font color="purple">[ῡ]</font> dénonciateur, ARR. <i>An. 3, 26, 3 dout</i>.`

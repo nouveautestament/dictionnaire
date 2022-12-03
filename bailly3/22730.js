@@ -1,1 +1,0 @@
-lar[22730]=`<b>γυιόω-ῶ</b>, <i>f</i>. ώσω :<br><b>   I</b> rendre boiteux, estropier, IL. <i>8, 402, 416 ; au pass</i>. γυιωθείς, estropié, HÉS. <i>Th. 857</i>.<br><b>   II</b> <i>p. ext.</i> :<br><b>      1</b> blesser, NIC. <i>Th. 731</i>.<br><b>      2</b> <i>en gén</i>. affaiblir, HPC. <i>Acut. 394, etc</i>.<p><b>Étym</b>. γυιός.`

@@ -1,1 +1,0 @@
-lar[9586]=`<b>ἀντ·εμβαίνω</b>, entrer l’un dans l’autre, s’emboîter dans, <i>dat</i>. GAL. <i>2, 737</i>.`

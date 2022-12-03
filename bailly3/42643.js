@@ -1,1 +1,0 @@
-lar[42643]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. εὐμάρεια, CALLISTR. <i>4 dout</i>.`

@@ -1,1 +1,0 @@
-lar[40122]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les collectes, DH. <i>Din. 12</i> ; ἐρανικὴ δίκη, ARSTT. <i>Ath. 52, 2,</i> action relative à un prêt d’amitié ; ἀκροάσεις ἐρανικαί, POSIDON. (ATH. <i>212d</i>) leçons rétribuées en commun.<p><b>Étym</b>. ἔρανος.`

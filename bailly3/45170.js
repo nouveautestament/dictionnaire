@@ -1,1 +1,0 @@
-lar[45170]=`<b>ος, ον :<br>      1</b> d’ambre, LUC. <i>V.H. 1, 20</i> ; HLD. <i>3, 3</i>.<br><b>      2</b> qui a la couleur <i>ou</i> la pureté de l’ambre, CALL. <i>Cer. 29</i> ; NYSS. <i>2, 466b</i>.<p>➳ <i>Dor</i>. ἀλέκτρινος <font color="purple">[ᾱ]</font> CALL. <i>l. c</i>.<p><b>Étym</b>. ἤλεκτρον.`

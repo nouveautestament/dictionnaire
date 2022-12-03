@@ -1,1 +1,0 @@
-lar[44688]=`<b>έως (ὁ)</b> pêcheur (<i>propr</i>. qui prend du poisson vivant) GAL. <i>4, 497</i>.<p><b>Étym</b>. ζωγρέω.`

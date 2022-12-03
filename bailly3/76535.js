@@ -1,1 +1,0 @@
-lar[76535]=`<b>παρ·εγείρω</b>, exciter à avancer, PLUT. <i>Eum. 11</i>.`

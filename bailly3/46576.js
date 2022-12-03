@@ -1,1 +1,0 @@
-lar[46576]=`<b>ας (ἡ)</b> action de rendre des oracles, de prédire, STR. <i>814</i>.<p><b>Étym</b>. θεμιστεύω.`

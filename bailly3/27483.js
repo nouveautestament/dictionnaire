@@ -1,1 +1,0 @@
-lar[27483]=`<b>ατος (τὸ)</b> piège, ruse, ESCHL. <i>Ch. 1003</i> ; EN. TACT. <i>Pol. 8</i>.<p><b>Étym</b>. δολόω.`

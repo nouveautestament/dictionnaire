@@ -1,1 +1,0 @@
-lar[102192]=`<b>ὑπ·εξ·ακρίζω</b>, conduire sur les hauteurs, EUR. <i>Bacch. 678</i>.<p><b>Étym</b>. ὑ. ἐξ, ἄκρος.`

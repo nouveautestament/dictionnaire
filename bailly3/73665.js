@@ -1,1 +1,0 @@
-lar[73665]=`<b>οὐρανό·παις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> enfant d’Ouranos <i>ou</i> du ciel, ORPH. <i>H. 26, 13, etc</i>.<p><b>Étym</b>. οὐρ. παῖς.`

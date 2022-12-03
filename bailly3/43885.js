@@ -1,1 +1,0 @@
-lar[43885]=`<b>ἐφ·αγιστεύω</b> <font color="purple">[ᾰ]</font> accomplir sur (un tombeau) les cérémonies saintes, SOPH. <i>Ant. 247</i>.<p><b>Étym</b>. ἐπί, ἁ.`

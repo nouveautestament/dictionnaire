@@ -1,1 +1,0 @@
-lar[59119]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Kôkytos (le Cocyte) <i>fl. des enfers,</i> OD. <i>10, 514</i> ; ESCHL. <i>Sept. 690, etc.</i> ; EUR. <i>Alc. 460</i>.<p><b>Étym</b>. κωκύω.`

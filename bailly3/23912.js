@@ -1,1 +1,0 @@
-lar[23912]=`<b>εως (ἡ)</b> action de recevoir, EUR. <i>I.A. 1182</i>.<p><b>Étym</b>. δέχομαι.`

@@ -1,1 +1,0 @@
-lar[24054]=`<b>α, ον :<br>      1</b> de qualité inférieure (vin) NICOPH. <i>(Bkk. 89, 28</i>).<br><b>      2</b> τὸ δευτέριον, P. ÉG. <i>6, 75</i> ; AQU. <i>Deut. 28, 57,</i> l’arrière-faix, <i>t. de méd</i>.<p><b>Étym</b>. δεύτερος.`

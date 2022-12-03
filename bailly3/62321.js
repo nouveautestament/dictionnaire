@@ -1,1 +1,0 @@
-lar[62321]=`<b>μαθηματο·πωλικός, ή, όν</b> <font color="purple">[ᾰᾰ]</font> qui vend sa science, PLAT. <i>Soph. 224b, etc.</i> ; ἡ μαθηματοπωλική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 224b</i>, l’art de tirer profit de sa science.<p><b>Étym</b>. μάθημα, πωλέω.`

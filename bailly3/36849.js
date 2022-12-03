@@ -1,1 +1,0 @@
-lar[36849]=`<b>ης (ἡ)</b> croissance, agrandissement, PLAT. <i>Leg. 815e</i>.<p><b>Étym</b>. ἐπαυξάνω.`

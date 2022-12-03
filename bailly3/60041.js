@@ -1,1 +1,0 @@
-lar[60041]=`<b>οῦ (ὁ)</b> sort, lot, TRIPHIOD. <i>97</i>.<p><b>Étym</b>. λαγχάνω.`

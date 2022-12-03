@@ -1,1 +1,0 @@
-lar[67732]=`<b>ας (ἡ) :<br>      1</b> profession de pilote, XÉN. <i>Mem. 1, 6, 8, etc.</i> ; PLAT. <i>Leg. 643e ; d’où</i> direction d’un navire, navigation, SOPH. <i>fr. 144 Nauck</i> ; EUR. <i>Hel. 1519, 1589</i>.<br><b>      2</b> navire frété, EUR. <i>Alc. 110</i>.<p><b>Étym</b>. ναύκληρος.`

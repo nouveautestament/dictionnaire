@@ -1,1 +1,0 @@
-lar[105230]=`<b>ηκος (ὁ)</b> figue qui paraît mûre sans l’être, SOPH. <i>fr. 792</i> ; AR. <i>Pax 1165</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

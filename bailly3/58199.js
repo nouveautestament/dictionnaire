@@ -1,1 +1,0 @@
-lar[58199]=`<b>κρυψι·μέτωπος, ος, ον</b> <font color="purple">[ῐ]</font> qui cache le visage, LUC. <i>Lex. 7</i>.<p><b>Étym</b>. κρύπτω, μέτωπον.`

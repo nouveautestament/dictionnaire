@@ -1,1 +1,0 @@
-lar[70517]=`<b>οἰνο·γευστέω-ῶ</b>, goûter du vin, ANTIPH. (ATH. <i>380f</i>) ; GEOP. <i>7, 7, 1</i>.<p><b>Étym</b>. οἶν. γευστός, <i>vb. de</i> γεύω.`

@@ -1,1 +1,0 @@
-lar[56130]=`<b>ιος (ἡ)</b> <font color="purple">[ῠᾰ]</font> pariétaire, <i>plante,</i> NIC. <i>Th. 537, cf</i>. ἑλξίνη.`

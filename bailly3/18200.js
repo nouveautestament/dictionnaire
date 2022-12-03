@@ -1,1 +1,0 @@
-lar[18200]=`<b>ἄφ·ορμος, ος, ον</b>, qui s’élance de, <i>d’où</i> qui s’éloigne de, <i>gén</i>. SOPH. <i>O.C. 234</i>.<p><b>Étym</b>. ἀπό, ὁρμή.`

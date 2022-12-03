@@ -1,1 +1,0 @@
-lar[79642]=`<b>ής, ές</b>, qui naît <i>ou</i> croît autour de, <i>particul</i>. autour du sol, qui s’élève peu de terre, DIOSC. <i>4, 104</i>.<p><b>Étym</b>. περιφύω.`

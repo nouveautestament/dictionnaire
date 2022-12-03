@@ -1,1 +1,0 @@
-lar[60740]=`<b>ή, όν</b>, léthargique, HPC. <i>137b ;</i> ANTH. <i>9, 147</i>.<p><b>Étym</b>. λήθαργος.`

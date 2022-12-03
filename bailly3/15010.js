@@ -1,1 +1,0 @@
-lar[15010]=`<b>ἀροτρο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à une charrue, DS. <i>3, 3</i>.<p><b>Étym</b>. ἄ. εἶδος.`

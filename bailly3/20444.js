@@ -1,1 +1,0 @@
-lar[20444]=`<b>ή, όν :<br>      1</b> délibéré, réfléchi, ESCHL. <i>Ch. 494</i>.<br><b>      2</b> que l’on peut mettre en délibération, ARSTT. <i>Nic. 3, 3, 17, etc</i>.<p><b>Étym</b>. <i>vb. de</i> βουλεύω.`

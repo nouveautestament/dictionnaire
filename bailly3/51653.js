@@ -1,1 +1,0 @@
-lar[51653]=`<font color="purple">[πᾰ]</font> être du parti des Cappadociens, APP. <i>Mithr. 15 ; d’où au pass</i>. se faire Cappadocien, prendre les mœurs des Cappadociens, ANTH. <i>11, 238</i>.<p><b>Étym</b>. Καππάδοξ.`

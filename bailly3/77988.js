@@ -1,1 +1,0 @@
-lar[77988]=`<b>πεντακοσι·άρχης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> commandant de 500 hommes, <i>exactement</i> 512, EL. TACT. <i>9, 5</i>.<p><b>Étym</b>. πεντακόσιοι, ἄρχω.`

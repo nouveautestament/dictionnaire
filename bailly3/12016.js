@@ -1,1 +1,0 @@
-lar[12016]=`<b>ἀπ·ιχθυόω-ῶ</b>, changer en poisson, HERM. (STOB. <i>Ecl. 1, 1098).</i><p><b>Étym</b>. ἀπό, ἰχθύς.`

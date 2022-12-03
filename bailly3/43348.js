@@ -1,1 +1,0 @@
-lar[43348]=`<b>Εὐρυ·φάεσσα, ης (ἡ)</b> <font color="purple">[ῠφᾰ]</font> Euryphaessa, <i>mère d’Hèlios,</i> HH. <i>31, 2, 4</i>.<p><b>Étym</b>. <i>cf</i>. εὐρυφαής.`

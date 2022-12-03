@@ -1,1 +1,0 @@
-lar[67604]=`<b>α, ον</b> <font color="purple">[ᾱᾰ]</font> d’eau courante, de source, ESCHN. <i>43, 15</i> ; TH. <i>H.P. 4, 3, etc</i>.<p><b>Étym</b>. νᾶμα.`

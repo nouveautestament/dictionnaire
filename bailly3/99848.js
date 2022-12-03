@@ -1,1 +1,0 @@
-lar[99848]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> d’une manière tragique, PLAT. <i>Rsp. 413b, 545e ;</i> PLUT. <i>Thes. 2, M. 568d, etc.</i><br><b>      2</b> avec ostentation, avec faste, PLUT. <i>Popl. 10</i>.<p>•<i> Cp</i>. -ώτερον, MÉN. (PLUT. <i>M. 103d</i>) ; PLUT. <i>l. c.</i> ; LUC. <i>Pisc. 39</i>.`

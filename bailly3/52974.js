@@ -1,1 +1,0 @@
-lar[52974]=`<b>εως (ἡ)</b> action de casser, ARSTT. <i>Meteor. 4, 9</i> ; TH. π. κόπ. <i>§ 18</i>.<p>➳ <i>Ion</i>. κάτηξις, HPC. <i>790</i>.<p><b>Étym</b>. κατάγνυμι.`

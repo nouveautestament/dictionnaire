@@ -1,1 +1,0 @@
-lar[108532]=`<b>ου (ὁ)</b> Khiônidès, <i>h</i>. DÉM. <i>59, 34 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Χίων.`

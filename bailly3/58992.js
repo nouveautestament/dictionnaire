@@ -1,1 +1,0 @@
-lar[58992]=`<b>ης (ἡ) :<br>      1</b> nasse de pêcheur, HDT. <i>1, 191</i> ; DS. <i>3, 19</i>.<br><b>      2</b> crible, tamis, NIC. <i>Al. 625</i>.<p><b>Étym</b>. <i>fém. de</i> κυρτός ; <i>cf</i>. κύρτος.`

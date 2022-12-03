@@ -1,1 +1,0 @@
-lar[12774]=`<b>ἀπο·λινόω-ῶ</b> <font color="purple">[ῐ]</font> bander avec de la toile, faire un bandage, P. ÉG. <i>94 Briau</i>.`

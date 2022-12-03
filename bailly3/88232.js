@@ -1,1 +1,0 @@
-lar[88232]=`<b>ῥαιβο·σκελής, ής, ές</b>, aux jambes tortues, cagneux, ANTH. <i>6, 196</i>.<p><b>Étym</b>. ῥαιβός, σκέλος.`

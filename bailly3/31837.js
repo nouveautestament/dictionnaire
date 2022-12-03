@@ -1,1 +1,0 @@
-lar[31837]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> qui a la propriété de condenser, de congeler, TH. <i>C.P. 5, 14, 7</i>.<p><b>Étym</b>. ἐκπήγνυμι.`

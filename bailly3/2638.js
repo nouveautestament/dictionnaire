@@ -1,1 +1,0 @@
-lar[2638]=`<b>ου (ὁ)</b> fils <i>ou</i> descendant d’Énée, PLUT. <i>Flam. 12, etc.</i> ; οἱ Αἰνεάδαι, ANTH. <i>App. 51,</i> les descendants d’Énée, les Romains.<p>➳ <i>Dor. nom. sg</i>. -ας, PLUT. <i>Flam. 12 ; gén. plur</i>. -ᾶν, EPIGR. (PLUT. <i>Flam. 12).</i><p><b>Étym</b>. Αἰνέας.`

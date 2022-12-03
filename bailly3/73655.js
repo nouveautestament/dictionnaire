@@ -1,1 +1,0 @@
-lar[73655]=`<b>οὐρανο·γνώμων</b>, <i>gén</i>. <b>ονος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui connaît le ciel, astronome, LUC. <i>Ic. 5</i>.<p><b>Étym</b>. οὐρ. γιγνώσκω.`

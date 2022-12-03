@@ -1,1 +1,0 @@
-lar[22821]=`<b>γυναικο·φίλης, ου (ὁ)</b> qui aime les femmes, POLYZ. (POLL. <i>6, 168).</i><p>➳ <i>Voc</i>. -φίλα <font color="purple">[ᾱ]</font> ANTH. <i>6, 78. Dor. nomin</i>. -φίλας <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 8, 60</i>.<p><b>Étym</b>. γ. φίλος.`

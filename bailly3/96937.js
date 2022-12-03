@@ -1,1 +1,0 @@
-lar[96937]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> gonflé de suc, de sève, <i>d’où</i> plein de force, HPC. (TIM. SOPH. <i>Lex. p. 244).</i><p><b>Étym</b>. σφριγάω.`

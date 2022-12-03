@@ -1,1 +1,0 @@
-lar[26920]=`<b>ας (ἡ)</b> Dipæa, <i>v. d’Arcadie,</i> ISOCR. <i>6, 99 Baiter-Sauppe</i> ; PAUS. <i>8, 27, 3</i>.`

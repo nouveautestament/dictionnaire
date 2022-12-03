@@ -1,1 +1,0 @@
-lar[88050]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui a la propriété de brûler, caustique, DIOSC. <i>2, 202, etc</i>.<p>•<i> Sup</i>. -ώτατος, DIOSC. <i>3, 78</i>.<p><b>Étym</b>. πυρωτός.`

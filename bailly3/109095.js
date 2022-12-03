@@ -1,1 +1,0 @@
-lar[109095]=`<b>Χρυσ·άωρ, άορος (ὁ)</b> <font color="purple">[ῡᾱ]</font> Khrysaor, <i>fils de Poséidon,</i> HÉS. <i>Th. 287</i>.<p><b>Étym</b>. <i>v</i>. χρυσάωρ.`

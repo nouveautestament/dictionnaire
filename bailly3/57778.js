@@ -1,1 +1,0 @@
-lar[57778]=`<b>κρεω·δοσία, ας (ἡ)</b> distribution de viande, PLUT. <i>Demetr. 11</i>.<p><b>Étym</b>. <i>cf</i>. κρεοδαισία.`

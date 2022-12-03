@@ -1,1 +1,0 @@
-lar[80008]=`<b>(ὁ)</b> Pègastagôn, <i>h</i>. ESCHL. <i>Pers. 35</i>.`

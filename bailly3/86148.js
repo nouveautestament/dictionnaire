@@ -1,1 +1,0 @@
-lar[86148]=`<i>adv</i>., d’une manière durable, ORIB. <i>329 Matthäi</i>.`

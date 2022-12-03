@@ -1,1 +1,0 @@
-lar[60527]=`<b>λευκ·άργιλλος</b> <i>ou mieux</i> <b>λευκάργιλος, ος, ον</b> <font color="purple">[ῑ]</font> en argile blanche, STR. <i>440</i>.`

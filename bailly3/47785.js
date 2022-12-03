@@ -1,1 +1,0 @@
-lar[47785]=`<b>ή, όν :<br>   I</b> <i>act</i>. propre à broyer, à briser, <i>gén</i>. GAL. <i>14, 573</i> ; DIOSC. <i>1, 174</i>.<br><b>   II</b> <i>pass.</i> :<br><b>      1</b> brisé, énervé, mou, efféminé, XÉN. <i>Cyr. 8, 8, 15 ; Mem. 1, 2, 5</i> ; DS. <i>51, 12</i>.<br><b>      2</b> dégoûté, qui fait le difficile, EL. <i>V.H. 3, 12</i>.<p><b>Étym</b>. θρύπτω.`

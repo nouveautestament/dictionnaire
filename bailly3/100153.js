@@ -1,1 +1,0 @@
-lar[100153]=`<b>ίτιδος</b> <font color="purple">[ῑτῐδ]</font> <i>adj. f</i>. semblable au mulet <i>ou</i> rouget : τρ. ἀφύη, DORION (ATH. <i>285a</i>) <i>sorte de poisson</i>.<p><b>Étym</b>. τρίγλα.`

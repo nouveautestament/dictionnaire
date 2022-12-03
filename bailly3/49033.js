@@ -1,1 +1,0 @@
-lar[49033]=`<b>ου (ὁ)</b> Indopatrès, <i>h</i>. LUC. <i>Cat. 21</i>.`

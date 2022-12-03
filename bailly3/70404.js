@@ -1,1 +1,0 @@
-lar[70404]=`<b>οἰκό·πεδον, ου (τὸ) :<br>      1</b> emplacement d’une maison, ESCHN. <i>26, 9</i> ; XÉN. <i>Vect. 2, 6</i> ; PLAT. <i>Leg. 541c.</i><br><b>      2</b> <i>p. suite,</i> construction <i>en gén.,</i> maison, THC. <i>4, 90</i> ; POL. <i>15, 23, 10</i>.<p><b>Étym</b>. οἶκ. -πεδον ; <i>cf</i>. γήπεδον, δάπεδον.`

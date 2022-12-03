@@ -1,1 +1,0 @@
-lar[51133]=`<b>καλλί·καρπος, ος, ον</b> <font color="purple">[ῐ]</font> qui produit de beaux fruits, ESCHL. <i>Pr. 369</i> ; EUR. <i>H.f. 464, etc.</i> ; PLUT. <i>Cor. 3, etc</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>H.P. 3, 8, 1 ; • Sup</i>. -ότατος, POL. <i>5, 19, 2</i>.<p><b>Étym</b>. κ. καρπός.`

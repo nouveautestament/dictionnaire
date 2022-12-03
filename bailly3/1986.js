@@ -1,1 +1,0 @@
-lar[1986]=`<b>ἀ·θεραπεία, ας (ἡ)</b> <font color="purple">[ρᾰ]</font> manque de soins médicaux, ANT. <i>127, 38</i>.`

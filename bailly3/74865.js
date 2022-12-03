@@ -1,1 +1,0 @@
-lar[74865]=`<b>παν·αοίδιμος, ος, ον</b> <font color="purple">[ᾰν]</font> célébré dans tous les chants, ANTH. <i>1, 9</i>.<p><b>Étym</b>. π. ἀοίδιμος.`

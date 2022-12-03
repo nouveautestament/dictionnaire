@@ -1,1 +1,0 @@
-lar[75787]=`<b>ος, ον</b>, qui a l’esprit frappé, fou, ESCHL. <i>Pr. 581</i> ; EUR. <i>Bacch. 33</i> ; AR. <i>Th. 668</i>.<p><b>Étym</b>. παρακόπτω.`

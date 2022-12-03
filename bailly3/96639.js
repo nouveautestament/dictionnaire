@@ -1,1 +1,0 @@
-lar[96639]=`<b>συσ·σημαίνω</b>, indiquer, marquer <i>ou</i> signifier en même temps, SEXT. <i>P. 1, 199</i>.<br><b><i>Moy.</i></b> imprimer également <i>ou</i> en même temps son sceau, sa marque, <i>etc</i>. DÉM. <i>928, 4 ; 1034 fin</i> ; LYCURG. (SUID.).`

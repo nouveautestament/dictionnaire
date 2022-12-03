@@ -1,1 +1,0 @@
-lar[12383]=`<b>ἀπο·θειάζω</b>, inspirer d’un souffle divin, THÉM. <i>239d</i>.`

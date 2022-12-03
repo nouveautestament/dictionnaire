@@ -1,1 +1,0 @@
-lar[46279]=`<b>οῦ (ὁ)</b> Thamous, <i>roi de Thèbes, en Égypte,</i> PLAT. <i>Phædr. 274d</i>.`

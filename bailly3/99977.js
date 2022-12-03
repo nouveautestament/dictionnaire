@@ -1,1 +1,0 @@
-lar[99977]=`<b>(ὁ)</b> Trakhios, <i>Cyclope,</i> NONN. <i>D. 14, 60 ; 28, 238</i>.`

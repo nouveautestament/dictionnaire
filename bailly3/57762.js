@@ -1,1 +1,0 @@
-lar[57762]=`<b>ας (ἡ)</b> dépècement de la chair, de la viande, LUC. <i>Salt. 54</i>.<p><b>Étym</b>. κρεουργός.`

@@ -1,1 +1,0 @@
-lar[101316]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰ]</font> œil-vairon, <i>sorte de maladie de l’œil chez les chevaux,</i> APSYRT. (HIPPIATR. <i>1, p. 43, 11).</i><p><b>Étym</b>. ὕαλος.`

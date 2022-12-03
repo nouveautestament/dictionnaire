@@ -1,1 +1,0 @@
-lar[107152]=`<b>φυλλό·κομος, ος, ον</b>, à la chevelure de feuillage, AR. <i>Av. 215, 742</i>.<p><b>Étym</b>. φ. κόμη.`

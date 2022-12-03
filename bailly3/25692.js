@@ -1,1 +1,0 @@
-lar[25692]=`<b>ή, όν</b>, qui a le pouvoir de sauver, de conserver, de maintenir, THEOL. <i>5</i> ; M. TYR. <i>20, 5</i>.<p><b>Étym</b>. διασῴζω.`

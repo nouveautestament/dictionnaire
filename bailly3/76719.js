@@ -1,1 +1,0 @@
-lar[76719]=`<b>παρ·εντάσσω</b>, ranger dans les intervalles, PLUT. <i>M. 1020a, 1022c</i>.`

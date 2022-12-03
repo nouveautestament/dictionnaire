@@ -1,1 +1,0 @@
-lar[36515]=`<b>ἐπ·άλλυδις</b> <font color="purple">[ῠ]</font> <i>adv</i>., dans une autre direction, SIB. <i>10, 97</i>.<p><b>Étym</b>. ἐπί, ἄλλυδις.`

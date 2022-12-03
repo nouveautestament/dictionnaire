@@ -1,1 +1,0 @@
-lar[106128]=`<b>φιλοτεκνέω-ῶ</b> <font color="purple">[ῐ]</font> aimer ses enfants, PHILSTR. <i>66</i>.<p><b>Étym</b>. φιλότεκνος.`

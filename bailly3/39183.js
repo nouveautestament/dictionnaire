@@ -1,1 +1,0 @@
-lar[39183]=`<b>ἐπι·στρογγύλλω</b> (<i>seul. prés. pass</i>.) arrondir, NIC. <i>Th. 514</i>.`

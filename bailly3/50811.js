@@ -1,1 +1,0 @@
-lar[50811]=`<b>κακο·πάρθενος, ου</b> <font color="purple">[κᾰ]</font> vierge funeste, <i>ép. de</i> Μοῖρα, ANTH. <i>7, 468</i>.<p><b>Étym</b>. κ. παρθένος.`

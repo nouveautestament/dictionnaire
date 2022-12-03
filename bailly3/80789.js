@@ -1,1 +1,0 @@
-lar[80789]=`<b>πλατύ·στομος, ος, ον</b> <font color="purple">[ᾰ]</font> à large orifice, <i>en parl. d’un vase,</i> GEOP. <i>9, 24, 1</i> ; DIOSC. <i>1, 32</i>.<p><b>Étym</b>. πλ. στόμα.`

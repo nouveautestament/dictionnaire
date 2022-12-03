@@ -1,1 +1,0 @@
-lar[29000]=`<b>δυσ·χάριστος, ος, ον</b> <font color="purple">[ᾰ]</font> ingrat, ESCHL. <i>fr. 121</i>.<p><b>Étym</b>. δ. χαρίζομαι.`

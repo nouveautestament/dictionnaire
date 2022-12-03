@@ -1,1 +1,0 @@
-lar[43068]=`<i>adv</i>., en habile soldat, DC. <i>78, 38</i>.`

@@ -1,1 +1,0 @@
-lar[65210]=`<b>μετ·οχλίζω</b>, déplacer avec un levier, <i>d’où, p. ext</i>., avec effort, <i>acc</i>. IL. <i>24, 567</i> ; OD. <i>23, 188</i> ; ANTH. <i>9, 81</i> ; LYC. <i>627</i>.`

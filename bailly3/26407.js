@@ -1,1 +1,0 @@
-lar[26407]=`<b>διθυραμβο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ῑῠῐᾰλ]</font> poète dithyrambique, <i>litt</i>. qui enseigne à réciter des dithyrambes, AR. <i>Pax 828</i>.<p><b>Étym</b>. δ. διδάσκαλος.`

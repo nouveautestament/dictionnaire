@@ -1,1 +1,0 @@
-lar[20541]=`<b>(ἡ)</b> sorte d’oiseau, ES. <i>85 Halm</i>.`

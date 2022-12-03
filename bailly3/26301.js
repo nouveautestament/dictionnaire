@@ -1,1 +1,0 @@
-lar[26301]=`<i>adv</i>., avec un soin scrupuleux, DH. <i>1, 18</i>.<p><b>Étym</b>. διασπουδάζω.`

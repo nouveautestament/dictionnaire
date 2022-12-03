@@ -1,1 +1,0 @@
-lar[84077]=`<b>προ·εκκενόω-ῶ</b>, vider complètement d’avance, JOS. <i>A.J. 3, 1, 2 ; fig</i>. épuiser d’avance un sujet, RHÉT. <i>4, 490 W</i>.`

@@ -1,1 +1,0 @@
-lar[27591]=`<b>δορί·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui résonne du bruit des lances, PD. <i>N. 3, 103 ; 7, 13</i>.<p><b>Étym</b>. δόρυ, κτυπέω.`

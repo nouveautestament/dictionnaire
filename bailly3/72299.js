@@ -1,1 +1,0 @@
-lar[72299]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par derrière, SPT. <i>Gen. 9, 23</i>.<p><b>Étym</b>. ὀπισθοφανής.`

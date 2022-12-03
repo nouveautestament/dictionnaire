@@ -1,1 +1,0 @@
-lar[10718]=`<b>ἄν·υδρος, ος, ον :<br>      1</b> sans eau, sec, HDT. <i>2, 7, etc.</i> ; HPC. <i>Aër. 280</i> ; τὸ ἄνυδρον, <i>autre n. de la plante</i> στρύχνον μανικόν, DIOSC. <i>4, 74</i>.<br><b>      2</b> qui n’a pas reçu l’eau lustrale, EUR. <i>Tr. 1085</i>.<p><b>Étym</b>. ἀν-, ὕδωρ ; <i>cf</i>. ἄϋδρος.`

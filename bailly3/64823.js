@@ -1,1 +1,0 @@
-lar[64823]=`<b>εως (ἡ)</b> changement, PLOT. <i>Enn. 6, 3, 11, p. 573, 1 Creuz</i>.<p><b>Étym</b>. μεταλλοιόω.`

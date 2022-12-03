@@ -1,1 +1,0 @@
-lar[92864]=`<b>στρατοπεδ·άρχης, ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> commandant d’une armée, JOS. <i>B.J. 2, 19, 4</i> ; LUC. <i>H. conscr. 22, etc.</i><br><b>      2</b> tribun d’une légion, DH. <i>10, 36</i>.<p><b>Étym</b>. στρατόπεδον, ἄρχω.`

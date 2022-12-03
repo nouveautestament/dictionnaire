@@ -1,1 +1,0 @@
-lar[87985]=`<font color="purple">[ῐχ]</font> danser la pyrrhique, ARSTT. <i>fr. 476</i> ; PLUT. <i>M. 554b ;</i> LUC. <i>D. deor. 8, 1</i>.<p><b>Étym</b>. πυρρίχη.`

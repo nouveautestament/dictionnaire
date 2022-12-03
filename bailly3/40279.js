@@ -1,1 +1,0 @@
-lar[40279]=`<b>εως (ἡ)</b> action d’appuyer, DH. <i>Comp. 20</i> ; ATH. <i>488e</i>.<p><b>Étym</b>. ἐρείδω.`

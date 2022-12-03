@@ -1,1 +1,0 @@
-lar[88003]=`<b>πυρρ·ούλας, ου (ὁ)</b> oiseau rouge, <i>p.-ê</i>. bouvreuil, ARSTT. <i>H.A. 8, 3, 5</i>.`

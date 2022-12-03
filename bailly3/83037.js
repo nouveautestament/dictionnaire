@@ -1,1 +1,0 @@
-lar[83037]=`<b>ή, όν</b>, qui vole : τὰ ποτητά, OD. <i>12, 62,</i> les volatiles, les oiseaux.<p><b>Étym</b>. ποτάομαι.`

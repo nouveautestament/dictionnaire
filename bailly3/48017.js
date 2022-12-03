@@ -1,1 +1,0 @@
-lar[48017]=`<b>θυρεοφορέω-ῶ</b> <font color="purple">[ῠ]</font> porter un bouclier long, POL. <i>10, 13, 2</i>.<p><b>Étym</b>. <i>v</i>. θυρεοφόρος.`

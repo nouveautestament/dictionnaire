@@ -1,1 +1,0 @@
-lar[24629]=`<b>δια·θαλασσεύω</b> <font color="purple">[θᾰ]</font> (<i>seul. pf. pass. part. fém</i>. διατεθαλασσευμένης) séparer par la mer, ALCIPHR. <i>2, 3</i>.`

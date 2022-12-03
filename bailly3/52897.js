@@ -1,1 +1,0 @@
-lar[52897]=`<b>κατα·νάσσω</b> <font color="darkgreen">(<i>ao</i>. κατέναξα)</font> fouler, HDT. <i>7, 36</i>.`

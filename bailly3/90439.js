@@ -1,1 +1,0 @@
-lar[90439]=`<b>σίραιος οἶνος (ὁ)</b> vin cuit, vin doux, DIOSC. <i>5, 9</i> ; ARÉT. <i>Cur. m. acut. 1, 1</i>.`

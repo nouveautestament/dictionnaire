@@ -1,1 +1,0 @@
-lar[4173]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne l’art de l’ἀλείπτης, PLUT. <i>M. 619a ;</i> ἡ ἀλειπτική (<i>s.-e</i>. τέχνη) T. LOCR. <i>104a ;</i> ARR. <i>Epict. 2, 12, 19, etc</i>. l’art de l’ἀλείπτης.<p><b>Étym</b>. ἀλείφω.`

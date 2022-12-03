@@ -1,1 +1,0 @@
-lar[65996]=`<b>μισθο·δότης, ου (ὁ)</b> celui qui donne un salaire, une solde, XÉN. <i>An. 1, 3, 9</i> ; PLAT. <i>Rsp. 463b ;</i> ESCHN. <i>85, 10, etc</i>.<p><b>Étym</b>. μισθός, δίδωμι.`

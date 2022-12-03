@@ -1,1 +1,0 @@
-lar[27254]=`<b>ή, όν :<br>      1</b> qui a soif, altéré, ARSTT. <i>P.A. 3, 8, 2</i>.<br><b>      2</b> qui donne soif, qui altère, DIOSC. <i>1, 183</i>.<p><b>Étym</b>. διψάω.`

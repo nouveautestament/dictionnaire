@@ -1,1 +1,0 @@
-lar[30767]=`<b>εἰσ·ήκω</b>, <i>anc. att</i>. <b>ἐσ·ήκω :<br>      1</b> être arrivé dans, AR. <i>Vesp. 606</i>.<br><b>      2</b> <i>au fut</i>. être sur le point d’arriver, ESCHL. <i>Ag. 1181</i> ; DC. <i>37, 32</i>.<p>➳ ἐσ. ESCHL. DC. <i>ll. cc</i>.`

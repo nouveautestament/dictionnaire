@@ -1,1 +1,0 @@
-lar[58812]=`<b>κυνο·λογέω-ῶ</b> <font color="purple">[ῠ]</font> parler des chiens <i>ou</i> de la canicule, ATH. <i>23a</i>.<p><b>Étym</b>. κ. λόγος.`

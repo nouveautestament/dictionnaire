@@ -1,1 +1,0 @@
-lar[91415]=`<b>ου (ὁ)</b> nain (<i>att</i>. στίλπων) <i>chez les Sybarites,</i> T. TAUR. (ATH. <i>518e</i>).`

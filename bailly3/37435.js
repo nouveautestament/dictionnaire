@@ -1,1 +1,0 @@
-lar[37435]=`(<i>seul. part. prés</i>.) être sur la terre, HERM. (STOB. <i>Ecl. phys. p. 1074).</i><p><b>Étym</b>. ἐπίγειος.`

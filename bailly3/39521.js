@@ -1,1 +1,0 @@
-lar[39521]=`<b>ἐπι·τροχάω-ῶ :<br>      1</b> courir sur, <i>dat</i>. A.RH. <i>4, 1266 ; gén</i>. ANTH. <i>9, 306 ; abs</i>. DP. <i>148</i>.<br><b>      2</b> courir auprès <i>ou</i> près de, <i>acc</i>. A.RH. <i>4, 1606</i>.<p><b>Étym</b>. ἐπίτροχος.`

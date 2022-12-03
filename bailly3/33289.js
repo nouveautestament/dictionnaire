@@ -1,1 +1,0 @@
-lar[33289]=`<b>ἔμ·μορφος, ος, ον</b>, revêtu d’une forme, corporel, PLUT. <i>Num. 8, M. 423f</i>.<p><b>Étym</b>. ἐν, μορφή.`

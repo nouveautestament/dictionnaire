@@ -1,1 +1,0 @@
-lar[105834]=`<b>φιλο·κηδεμών, όνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui aime ses enfants, ses proches, XÉN. <i>Ages. 11, 12</i>.`

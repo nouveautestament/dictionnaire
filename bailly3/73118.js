@@ -1,1 +1,0 @@
-lar[73118]=`<b>ὀρφανόω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. ὀρφανίζω, ANTH. <i>6, 101</i>.`

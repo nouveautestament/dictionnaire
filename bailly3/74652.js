@@ -1,1 +1,0 @@
-lar[74652]=`<b>Παλλατίδες πέτραι (αἱ)</b> les Roches Pallatides, <i>en Argolide,</i> CALL. <i>H. 5, 42</i>.`

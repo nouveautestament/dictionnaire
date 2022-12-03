@@ -1,1 +1,0 @@
-lar[13180]=`<b>ἀπο·πυΐσκω</b> <font color="purple">[ῡ]</font> faire suppurer, HPC. <i>470, 54</i>.<p><b>Étym</b>. <i>cf</i>. ἀποπυέω.`

@@ -1,1 +1,0 @@
-lar[43301]=`<b>εὐρυ·μέτωπος, ος, ον</b> <font color="purple">[ῠ]</font> au large front, IL. <i>10, 292</i> ; OD. <i>3, 382</i> ; HÉS. <i>Th. 291</i> ; STRATON (ATH. <i>382e</i>).<p><b>Étym</b>. εὐ. μέτωπον.`

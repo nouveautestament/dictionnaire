@@ -1,1 +1,0 @@
-lar[29955]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> diffusion des sucs à travers le corps, HPC. <i>2, 1037</i>.<p><b>Étym</b>. *ἐγχυμόω, <i>de</i> ἐν, χυμός.`

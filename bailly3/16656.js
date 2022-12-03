@@ -1,1 +1,0 @@
-lar[16656]=`<b>ου (τὸ)</b> Atabyrion, <i>mt de Rhodes, avec un temple à Zeus,</i> PD. <i>O. 7, 160</i>.`

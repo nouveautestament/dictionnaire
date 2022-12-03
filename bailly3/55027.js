@@ -1,1 +1,0 @@
-lar[55027]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> sec, rauque, HPC. <i>1211e, 1215d</i>.<p><b>Étym</b>. <i>cf</i>. κέρχνω.`

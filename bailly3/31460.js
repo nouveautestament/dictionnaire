@@ -1,1 +1,0 @@
-lar[31460]=`<b>ἐκ·κνάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐξέκνησε)</font> enlever en grattant, HDT. <i>7, 239</i>.`

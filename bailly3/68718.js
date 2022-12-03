@@ -1,1 +1,0 @@
-lar[68718]=`<b>Νίκ·αρχος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Nikarkhos, <i>h</i>. AR. <i>Ach. 908</i> ; XÉN. <i>An. 2, 5, 33</i>.<p><b>Étym</b>. νίκη, ἄρχω.`

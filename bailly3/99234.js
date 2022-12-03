@@ -1,1 +1,0 @@
-lar[99234]=`<b>τιμο·γραφέω-ῶ</b> <font color="purple">[ῑᾰ]</font> évaluer par écrit, SPT. <i>4Reg. 23, 35</i>.<p><b>Étym</b>. τιμή, γράφω.`

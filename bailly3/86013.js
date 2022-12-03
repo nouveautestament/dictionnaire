@@ -1,1 +1,0 @@
-lar[86013]=`<b>προσ·κηρυκεύομαι</b> <font color="purple">[ῠ]</font> envoyer un héraut vers qqn, THC. <i>4, 118</i>.`

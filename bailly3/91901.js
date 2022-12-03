@@ -1,1 +1,0 @@
-lar[91901]=`<b>ης, ες</b> <font color="purple">[ῐᾰ]</font> rocailleux, STR. <i>777</i>.<p><b>Étym</b>. σπιλάς, -ωδης.`

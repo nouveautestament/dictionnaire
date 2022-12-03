@@ -1,1 +1,0 @@
-lar[110291]=`<b>ὠμο·τομέω-ῶ</b>, inciser (un abcès, un ulcère) avant la maturité, P. ÉG. <i>6, 34</i>.<p><b>Étym</b>. ὠ. -τομος <i>de</i> τέμνω.`

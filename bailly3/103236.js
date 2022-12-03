@@ -1,1 +1,0 @@
-lar[103236]=`<b>ὑπό·ζυμος, ος, ον</b> <font color="purple">[ζῡ]</font> qui se gonfle en dessous, HPC.<p><b>Étym</b>. ὑ. ζύμη.`

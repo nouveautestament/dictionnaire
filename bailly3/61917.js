@@ -1,1 +1,0 @@
-lar[61917]=`<b>Λυκο·φόντης, ου (ὁ)</b> <font color="purple">[ῠ]</font> Lykophontès (<i>propr</i>. tueur de loups) :<br><b>      1</b> <i>Thébain,</i> IL. <i>4, 395</i>.<br><b>      2</b> <i>Troyen,</i> IL. <i>8, 275</i>.<p><b>Étym</b>. λ. πεφνεῖν.`

@@ -1,1 +1,0 @@
-lar[101957]=`<b>ὑπ·ανατρέφω</b> <font color="purple">[ῠᾰν]</font> nourrir et faire croître, ARÉT. <i>Cur. m. diut. 1, 3</i>.`

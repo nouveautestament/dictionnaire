@@ -1,1 +1,0 @@
-lar[17339]=`<b>αὔτ·αυτος, -αύτη, -αυτο :<br>      1</b> absolument le même, ANON. (STOB. <i>Fl. 1, 74 Gaisf</i>.).<br><b>      2</b> celui-là, celle-là, cela même, SOPHR. (DYSC. <i>Pron. p. 339</i>).`

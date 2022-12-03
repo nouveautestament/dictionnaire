@@ -1,1 +1,0 @@
-lar[38859]=`<b>ἐπι·ρραβδοφορέω-ῶ</b>, faire avancer <i>ou</i> galoper à coups de cravache XÉN. <i>Eq. 7, 11</i>.<p><b>Étym</b>. ἐπί, ῥαβδ.`

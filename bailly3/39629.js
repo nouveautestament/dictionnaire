@@ -1,1 +1,0 @@
-lar[39629]=`<b>ἐπι·φυτεύω</b> <font color="purple">[ῠ]</font> planter sur, AR. <i>Pax 168</i>.`

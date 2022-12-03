@@ -1,1 +1,0 @@
-lar[92865]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> charge de tribun d’une légion, DH. <i>10, 36</i>.<p><b>Étym</b>. στρατοπεδάρχης.`

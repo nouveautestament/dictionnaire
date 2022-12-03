@@ -1,1 +1,0 @@
-lar[42220]=`<b>εὐθυβολέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1 <i>tr.</i></b> lancer <i>ou</i> frapper en droite ligne, PLUT. <i>M. 906b.</i><br><b>      2 <i>intr.</i></b> partir en droite ligne, PLUT. <i>M. 907a ;</i> PHIL. <i>2, 176</i>.<p><b>Étym</b>. εὐθυβόλος.`

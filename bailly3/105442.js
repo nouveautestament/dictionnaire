@@ -1,1 +1,0 @@
-lar[105442]=`<b>ου (ὁ) :<br>      1</b> habitant <i>ou</i> originaire du dème Philaïdes, CIA. <i>1, 299, 9 (444/434 av. J.-C.)</i>.<br><b>      2</b> Philaïdès, <i>h</i>. PLAT. <i>Ep. 363c</i>.<p>➳ <i>Par contr. Φιλᾴδης, inscr. att. l.c. ; v. Meisterh. p. 50, § 21, 1</i>.<p><b>Étym</b>. φίλος.`

@@ -1,1 +1,0 @@
-lar[82095]=`<b>*πολυ·μέλαθρος</b>, <i>épq</i>. <b>πουλυ·μέλαθρος, ος, ον</b>, aux nombreux édifices (maisons, temples, <i>etc</i>.) CALL. <i>Dian. 225</i> ; NONN. <i>Jo. 14, 2</i>.<p><b>Étym</b>. π. μέλαθρον.`

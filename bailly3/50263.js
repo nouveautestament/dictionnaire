@@ -1,1 +1,0 @@
-lar[50263]=`<b>καθ·αλμής, ής, ές</b> <font color="purple">[κᾰ]</font> tout à fait salé, NIC. <i>Al. 514</i>.<p><b>Étym</b>. κατά, ἅλμη.`

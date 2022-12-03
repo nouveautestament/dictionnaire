@@ -1,1 +1,0 @@
-lar[9419]=`<b>ἀντακαῖος, ου (ὁ)</b> sorte d’esturgeon, HDT. <i>4, 53</i> ; EL. <i>N.A. 14, 23 ; adj</i>. ἀντακαῖον τάριχος, ANTIPH. (ATH. <i>118d</i>) salaison d’esturgeon.`

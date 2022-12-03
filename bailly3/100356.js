@@ -1,1 +1,0 @@
-lar[100356]=`<b>τρί·πλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ᾰκ]</font> triple, IL. <i>18, 480</i>.<p><b>Étym</b>. τρίς, πλέκω ; <i>cf. lat</i>. triplex.`

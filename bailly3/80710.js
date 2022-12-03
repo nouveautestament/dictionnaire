@@ -1,1 +1,0 @@
-lar[80710]=`<b>ᾶ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>dor</i>. PAUS. <i>3, 11, 2 ; 314, 8,</i> lieu planté de platanes <i>à Sparte</i>.<p><b>Étym</b>. πλάτανος.`

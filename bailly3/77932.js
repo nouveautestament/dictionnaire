@@ -1,1 +1,0 @@
-lar[77932]=`<b>α, ον</b>, qui concerne le deuil, de deuil, ESCHL. <i>Ch. 8</i>.<p><b>Étym</b>. πενθητήρ.`

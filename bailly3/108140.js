@@ -1,1 +1,0 @@
-lar[108140]=`<b>χειρο·κοπέω-ῶ :<br>      1</b> couper la main : τινα, DS. <i>Exc. 567, 16,</i> à qqn ; <i>au pass</i>. avoir la main coupée, STR. <i>710</i> ; PLUT. <i>M. 305c.</i><br><b>      2</b> secouer <i>ou</i> remuer avec la main, <i>acc</i>. ARTÉM. <i>1, 78</i>.<p><b>Étym</b>. χειροκόπος.`

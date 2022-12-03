@@ -1,1 +1,0 @@
-lar[107756]=`<b>χαμαί·δρυς, υος (ἡ)</b> <font color="purple">[ᾰ, ῡς, ῠο]</font> <i>litt</i>. « chêne nain », <i>n. de la</i> germandrée (<i>Teucrium lucidum</i> L.) <i>plante,</i> TH. <i>H.P. 9, 10, 5</i> ; DIOSC. <i>3, 112</i>.<p><b>Étym</b>. χ. δρῦς.`

@@ -1,1 +1,0 @@
-lar[47185]=`<b>θηλυ·κτόνος, ος, ον</b>, qui tue par la main d’une femme, ESCHL. <i>Pr. 860</i>.<p><b>Étym</b>. θ. κτείνω.`

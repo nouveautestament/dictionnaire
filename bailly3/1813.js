@@ -1,1 +1,0 @@
-lar[1813]=`<b>ἀερο·φόρητος, ος, ον</b> <font color="purple">[ᾱ]</font> emporté dans les airs <i>ou</i> par le vent, EUB. (ATH. <i>679b</i>).<p><b>Étym</b>. ἀ. φορέω.`

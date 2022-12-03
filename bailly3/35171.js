@@ -1,1 +1,0 @@
-lar[35171]=`<b>ἐνυγρο·θηρικός, ή, όν</b>, qui concerne l’industrie du pêcheur, PLAT. <i>Soph. 220a, 221b</i>.<p><b>Étym</b>. ἔνυγρος, θηρεύω.`

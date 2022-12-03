@@ -1,1 +1,0 @@
-lar[75298]=`<b>παντο·φόβος, ος, ον</b>, qui craint tout, C. AUR. <i>M. ac. 3, 12</i>.`

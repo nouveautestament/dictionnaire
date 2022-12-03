@@ -1,1 +1,0 @@
-lar[99560]=`<b>ιος, ι, ιν (ἡ)</b> Tomyris, <i>reine des Massagètes, pple scythe,</i> HDT. <i>1, 205, etc.</i> ; LUC. <i>Char. 13, etc</i>.`

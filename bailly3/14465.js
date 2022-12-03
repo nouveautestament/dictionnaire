@@ -1,1 +1,0 @@
-lar[14465]=`<b>ἀρετα·λόγος, ου (ὁ)</b> <font color="purple">[ᾰτᾱ]</font> interprète de choses surnaturelles, <i>d’où, postér</i>. conteur de choses merveilleuses (<i>et non, sel. l’interprétation commune,</i> bouffon qui amusait les convives en dissertant sur la morale) <i>à Rome,</i> SUÉT. <i>Aug. 74</i> ; JUV. <i>15, 16</i>.<p><b>Étym</b>. ἀρετή, λέγω.`

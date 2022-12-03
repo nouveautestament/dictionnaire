@@ -1,1 +1,0 @@
-lar[42658]=`<b>εὐ·μελής, ής, ές</b>, aux membres robustes, EL. (SUID. <i>v°</i> Ἀπίκιος).<p><b>Étym</b>. εὖ, μέλος Ι.2.`

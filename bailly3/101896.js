@@ -1,1 +1,0 @@
-lar[101896]=`<b>ὑπ·αινίττομαι</b> <font color="purple">[ῠ]</font> faire allusion à : τινα, DÉM. <i>348, 6, ou</i> εἴς τινα, DH. <i>Rhet. 9, 7,</i> à qqn ; τι, PLUT. <i>Rom. 8,</i> à qqe ch.`

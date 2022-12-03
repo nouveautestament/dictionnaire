@@ -1,1 +1,0 @@
-lar[11020]=`<b>ἄ·οκνος, ος, ον</b>, qui ne tarde pas, <i>d’où</i> :<br><b>      1</b> diligent, actif, HÉS. <i>O. 493</i> ; THC. <i>1, 70</i> ; XÉN. <i>Cyr. 2, 1, 31, etc. ; avec</i> πρός <i>et l’acc</i>. PLUT. <i>Pel. 3</i>.<br><b>      2</b> pressant, qui ne permet aucun retard, SOPH. <i>Tr. 841</i>.<p>•<i> Sup</i>. -ότατος, THC. <i>1, 74</i>.<p><b>Étym</b>. ἀ, ὄκνος.`

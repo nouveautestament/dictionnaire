@@ -1,1 +1,0 @@
-lar[15633]=`<b>ἀρχί·μιμος, ου (ὁ)</b> <font color="purple">[ῐῑ]</font> chef d’une troupe de mimes, PLUT. <i>Syll. 36</i>.`

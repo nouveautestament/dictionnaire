@@ -1,1 +1,0 @@
-lar[18509]=`<b>ῆς (ἡ)</b> Akhradinè, <i>quartier de Syracuse,</i> POL. DS. PLUT. <i>etc</i>.`

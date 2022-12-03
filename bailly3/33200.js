@@ -1,1 +1,0 @@
-lar[33200]=`donner un vomitif, HPC. <i>419, 40</i>.<p><b>Étym</b>. ἐμετήριος.`

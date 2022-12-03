@@ -1,1 +1,0 @@
-lar[50715]=`<b>κακο·δρομία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> course malheureuse, ANTH. <i>7, 699</i>.<p><b>Étym</b>. κ. δρόμος.`

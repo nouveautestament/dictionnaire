@@ -1,1 +1,0 @@
-lar[71933]=`<b>ή, όν</b>, d’âne ; ὀ. μύλος (= ὄνος), NT. <i>Matth. 18, 6 ; Luc. 17, 2,</i> meule à âne, pierre meulière.<p><b>Étym</b>. ὄνος.`

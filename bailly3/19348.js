@@ -1,1 +1,0 @@
-lar[19348]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font> Batieia, <i>colline isolée près de Troie devant les portes Scées, entre le Scamandre et le Simoïs,</i> IL. <i>2, 813</i>.`

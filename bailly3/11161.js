@@ -1,1 +1,0 @@
-lar[11161]=`<b>ἀ·πάλαμος, ος, ον</b> <font color="purple">[πᾰᾰ]</font> <i>litt</i>. sans mains pour agir <i>ou</i> se défendre, <i>d’où</i> :<br><b>      1</b> au bras indolent, HÉS. <i>O. 20</i>.<br><b>      2</b> <i>p. suite,</i> misérable, PD. <i>O. 1, 59</i>.<p>➳ <font color="purple">[ᾱπ]</font> HÉS. <i>l. c</i>.<p><b>Étym</b>. ἀ, παλάμη.`

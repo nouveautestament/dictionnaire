@@ -1,1 +1,0 @@
-lar[87218]=`<b>πρωτό·λειον, ου (τὸ)</b> LYC. <i>1228 ; d’ord. au plur</i>. τὰ πρωτόλεια, première part d’un butin, <i>d’où, en gén.,</i> prémices, LYC. <i>298</i> ; JOS. <i>A.J. 4, 8, 22 ; fig</i>. EUR. <i>Or. 382</i> ; DH. <i>4, 30</i>.<p><b>Étym</b>. πρ. λεία.`

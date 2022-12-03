@@ -1,1 +1,0 @@
-lar[7884]=`<b>ἀνα·φράγνυμι</b> <font color="darkgreen">(<i>impf. pass. 3 pl</i>. ἀνεφράγνυντο)</font> <i>c</i>. ἀναφράσσω, THÉM. <i>91d</i>.`

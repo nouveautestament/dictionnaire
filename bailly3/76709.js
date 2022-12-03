@@ -1,1 +1,0 @@
-lar[76709]=`<b>παρ·έν·θυρσος, ου (ὁ)</b> chaleur factice du style, THÉODOR. (LGN <i>3, 5).</i><p><b>Étym</b>. π. ἐν, θύρσος.`

@@ -1,1 +1,0 @@
-lar[13297]=`<b>ή, όν</b> <font color="purple">[σῑ]</font> qui ôte l’appétit, HPC. <i>75d</i>.<p><b>Étym</b>. ἀπόσιτος.`

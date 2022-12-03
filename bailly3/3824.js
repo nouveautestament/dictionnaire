@@ -1,1 +1,0 @@
-lar[3824]=`<b>ἀκρο·πόρος, ος, ον</b>, qui va dans les régions élevées, NONN. <i>D. 46, 136</i>.<p><b>Étym</b>. ἄ. πορεύομαι.`

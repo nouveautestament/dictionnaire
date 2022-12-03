@@ -1,1 +1,0 @@
-lar[42977]=`<b>εὐ·πέρατος, ος, ον</b> <font color="purple">[ᾱ]</font> facile à traverser, STR. <i>697 au cp</i>. -ότερος.<p><b>Étym</b>. εὖ, περάω.`

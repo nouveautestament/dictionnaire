@@ -1,1 +1,0 @@
-lar[101437]=`<b>ὑγρό·χυτος, ος, ον</b> <font color="purple">[χῠ]</font> qui se répand en eau, NONN. <i>D. 8, 275</i>.<p><b>Étym</b>. ὑ. χέω.`

@@ -1,1 +1,0 @@
-lar[93570]=`<b>συγ·κυνηγός, οῦ (ὁ, ἡ)</b> <font color="purple">[κῠ]</font> compagnon de chasse, PLUT. <i>M. 749e</i>.<p>➳ <i>Dor</i>. συγκυναγός, EUR. <i>I.T. 709, etc. ; au fém</i>. EUR. <i>Hipp. 1093</i>.`

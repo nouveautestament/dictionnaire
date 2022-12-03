@@ -1,1 +1,0 @@
-lar[51718]=`<b>ῶν (οἱ)</b> les Karbanes, <i>tribu phénicienne,</i> ARSTT. <i>Vent. 973b Bkk</i>.`

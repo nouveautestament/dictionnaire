@@ -1,1 +1,0 @@
-lar[26157]=`<b>εως (ἡ)</b> action de percer, perforation, GAL. <i>4, 536</i>.<p><b>Étym</b>. διεκτιτραίνω.`

@@ -1,1 +1,0 @@
-lar[53690]=`<b>κατα·φυλαδόν</b> <font color="purple">[ῡᾰ]</font> <i>adv</i>., par tribus, IL. <i>2, 668</i> ; OPP. <i>H. 3, 644</i>.<p><b>Étym</b>. κ. φυλή, -δον.`

@@ -1,1 +1,0 @@
-lar[54870]=`<b>κερατῖτις μήκων (ἡ)</b> <font color="purple">[ᾰ]</font> pavot cornu, <i>plante,</i> TH. <i>H.P. 9, 12, 3</i> ; DIOSC. <i>4, 66</i>.<p><b>Étym</b>. κέρας.`

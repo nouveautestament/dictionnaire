@@ -1,1 +1,0 @@
-lar[51792]=`<b>καριδόω-ῶ</b> <font color="purple">[ᾱῑ]</font> se recourber, se recoquiller comme une squille (<i>sorte de crustacé</i>), ANAXANDR. (ATH. <i>106a</i>).<p><b>Étym</b>. καρίς.`

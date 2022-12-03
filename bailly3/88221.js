@@ -1,1 +1,0 @@
-lar[88221]=`<font color="purple">[ᾰᾰ]</font> jaillir sur, éclabousser, OPP. <i>H. 5, 657</i> ; NONN. <i>D. 6, 256</i>.<p><b>Étym</b>. ῥαθάμιγξ.`

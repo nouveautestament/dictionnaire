@@ -1,1 +1,0 @@
-lar[15740]=`<i>adv</i>., non charnellement, CHRYS. <i>5, 843</i>.`

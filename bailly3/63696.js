@@ -1,1 +1,0 @@
-lar[63696]=`<b>η, ον</b> <font color="purple">[ῐ]</font> <i>épq. c</i>. μέλινος, IL. <i>5, 655, 666</i>.`

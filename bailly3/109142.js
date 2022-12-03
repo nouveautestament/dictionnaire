@@ -1,1 +1,0 @@
-lar[109142]=`<b>ου (τὸ)</b> <font color="purple">[ῡῐδ]</font><br><b>      1</b> petite quantité <i>ou</i> somme d’or, ISOCR. <i>291e</i>, PLUT. <i>Cleom. 38</i>.<br><b>      2</b> petits ornements d’or, IS. <i>2, 9</i> ; DÉM. <i>818, 13</i>.<p><b>Étym</b>. χρυσός.`

@@ -1,1 +1,0 @@
-lar[10323]=`<b>ἀντι·προβάλλομαι</b>, proposer à la place d’un autre, PLAT. <i>Leg. 755d</i>.`

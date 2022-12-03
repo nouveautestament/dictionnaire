@@ -1,1 +1,0 @@
-lar[93113]=`<b>ου (τὸ)</b> vin parfumé de résine στύραξ, ORIB. <i>1, 435 B.-Dar</i>.`

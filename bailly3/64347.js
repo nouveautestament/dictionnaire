@@ -1,1 +1,0 @@
-lar[64347]=`<b>ῆς (ἡ)</b> pensée, désir, A.RH. <i>1, 894</i> ; CALL. <i>Jov. 90</i> ; ANTH. <i>11, 350</i>.<p><b>Étym</b>. μένος.`

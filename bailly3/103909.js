@@ -1,1 +1,0 @@
-lar[103909]=`<b>ὑπο·στρόγγυλος, ος, ον</b> <font color="purple">[ῠλ]</font> légèrement arrondi, TH. <i>H.P. 8, 8, 5</i>.<p><b>Étym</b>. ὑ. στρογγύλος.`

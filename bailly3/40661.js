@@ -1,1 +1,0 @@
-lar[40661]=`<b>ἐρνόομαι-οῦμαι</b> (<i>seul. prés</i>.) germer, pousser, PHIL. <i>2, 402</i>.<p><b>Étym</b>. ἔρνος.`

@@ -1,1 +1,0 @@
-lar[104701]=`<b>ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. du pays des lentilles, <i>ethnique dérivé par jeu de mots de</i> φακός, <i>au lieu de</i> Πάφιος, ATH. <i>158d</i>.<p><b>Étym</b>. φακός.`

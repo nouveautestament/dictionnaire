@@ -1,1 +1,0 @@
-lar[62838]=`<b>ή, όν</b> <font color="purple">[ῐν]</font> de Mantinée, PLAT. <i>Conv. 201d, etc.</i> ; ἡ Μαντινική, THC. <i>5, 65</i> ; XÉN. <i>Hell. 6, 5, 15 et 17,</i> le territoire de Mantinée.<p><b>Étym</b>. Μαντίνεια.`

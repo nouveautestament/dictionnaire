@@ -1,1 +1,0 @@
-lar[37041]=`<b>ἐπ·εκτρέχω</b> <font color="darkgreen">(<i>ao.2</i> ἐπεξέδραμον)</font> courir sus à, <i>dat</i>. XÉN. <i>Hell. 4, 4, 17 ; acc</i>. PAUS. <i>1, 20 ; abs</i>. XÉN. <i>Hell. 6, 2, 17</i>.`

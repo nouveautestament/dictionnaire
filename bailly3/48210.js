@@ -1,1 +1,0 @@
-lar[48210]=`<b>ατος (τὸ)</b> <font color="purple">[ῑᾱ]</font><br><b>      1</b> remède, THC. <i>2, 51</i> ; PLAT. <i>Leg. 771c ; fig</i>. ESCHL. <i>fr. 382</i> ; PLAT. <i>Leg. 957c ;</i> PLUT. <i>M. 106c.</i><br><b>      2</b> guérison, NT. <i>1Cor. 12, 9</i>.<p>➳ <i>Ion</i>. ἴημα, HDT. <i>3, 130</i> ; HPC. <i>Acut. 384</i>.<p><b>Étym</b>. ἰάομαι.`

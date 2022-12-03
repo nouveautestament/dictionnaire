@@ -1,1 +1,0 @@
-lar[25742]=`<b>δια·τιτρώσκω</b>, blesser d’outre en outre, transpercer, HPC. <i>759e</i> (<i>part. prés</i>.) ; DC. <i>63, 3 (ao. 3 sg</i>. διέτρωσε) ; <i>au pass</i>. être transpercé, JOS. <i>B.J. 6, 3, 1</i>.<p><b>Étym</b>. <i>part. prés</i>.`

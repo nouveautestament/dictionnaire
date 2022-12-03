@@ -1,1 +1,0 @@
-lar[100809]=`<b>*τρυγηβόλιον</b>, <i>dor</i>. <b>τρυγα·βόλιον, ου (τὸ)</b> <font color="purple">[ῠᾱ]</font> jet du raisin dans la cuve, COM.<p><b>Étym</b>. τρύγη, βάλλω.`

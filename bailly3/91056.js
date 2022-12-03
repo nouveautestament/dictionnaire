@@ -1,1 +1,0 @@
-lar[91056]=`<b>ή, όν</b>, qui a la propriété de rendre dur, DIOSC. <i>1, 48</i> ; ORIG. <i>2, 263 Migne</i>.<p><b>Étym</b>. σκληρύνω.`

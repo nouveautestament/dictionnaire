@@ -1,1 +1,0 @@
-lar[71202]=`<b>όνος (ἡ)</b> Oloossôn (<i>auj</i>. Elassóna) <i>v. de Thessalie,</i> IL. <i>2, 739</i>.`

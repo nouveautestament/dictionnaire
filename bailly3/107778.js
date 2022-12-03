@@ -1,1 +1,0 @@
-lar[107778]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> de camomille, GAL. <i>2, 99, 46</i> ; DIOSC. <i>Parab. 1, 127</i>.<p><b>Étym</b>. χαμαίμηλον.`

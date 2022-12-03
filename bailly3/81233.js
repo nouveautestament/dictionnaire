@@ -1,1 +1,0 @@
-lar[81233]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πόα, TH. <i>H.P. 1, 7, 3, etc</i>.`

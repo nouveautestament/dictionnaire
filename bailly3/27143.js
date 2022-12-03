@@ -1,1 +1,0 @@
-lar[27143]=`<b>διφρ·ελάτειρα, ας (ἡ)</b> <font color="purple">[λᾰ]</font> conductrice d’un char, A. PL. <i>5, 359</i>.<p><b>Étym</b>. δίφρος, ἐλαύνω.`

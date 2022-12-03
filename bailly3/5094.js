@@ -1,1 +1,0 @@
-lar[5094]=`<b>ης (ἡ)</b> gardienne des granges (Dèmèter) ORPH. <i>H. 40, 5</i>.<p><b>Étym</b>. ἅλως.`

@@ -1,1 +1,0 @@
-lar[53757]=`<b>κατα·χρίω</b>, enduire, oindre de haut en bas <i>ou</i> complètement, ARSTT. <i>H.A. 9, 40</i> ; SPT. <i>Ex. 2, 3 ; Sap. 13, 14 ; fig</i>. THÉM. <i>357b.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. ARTÉM. <i>4, 43</i>.`

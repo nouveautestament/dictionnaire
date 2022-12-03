@@ -1,1 +1,0 @@
-lar[14778]=`<font color="purple">[ᾰῑ̆ᾰ]</font> <i>adv</i>., très clairement <i>ou</i> remarquablement, THCR. <i>Idyl. 25, 176</i>.<p><b>Étym</b>. ἀριφραδής.`

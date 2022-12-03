@@ -1,1 +1,0 @@
-lar[98372]=`<b>ατος (τὸ)</b> gazouillement d’oiseau, <i>d’où</i> :<br><b>      1</b> accords d’un instrument, ANTH. <i>7, 612 ; 11, 352, ou</i> chant fredonné, LUC. <i>Nigr. 15 ; d’où en gén</i>. vain son, musique agréable, <i>fig</i>. ARSTT. <i>An. post. 1, 22, 4</i>.<br><b>      2</b> babil, causerie, CLÉM. <i>300</i>.<p><b>Étym</b>. τερετίζω.`

@@ -1,1 +1,0 @@
-lar[63345]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> grandeur <i>ou</i> noblesse de sentiments, XÉN. <i>Ages. 8, 3</i>.<p><b>Étym</b>. μεγαλογνώμων.`

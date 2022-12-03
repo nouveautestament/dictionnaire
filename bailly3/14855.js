@@ -1,1 +1,0 @@
-lar[14855]=`<b>ἁρμ·άμαξα, ης (ἡ)</b> voiture couverte à l’usage des grands personnages orientaux (rois, HDT. <i>7, 41</i> ; ambassadeurs, AR. <i>Ach. 70) ou</i> des femmes de haut rang, XÉN. <i>Cyr. 3, 1, 40 ; 6, 4, 11</i>.<p><b>Étym</b>. ἅρμα, ἅμαξα.`

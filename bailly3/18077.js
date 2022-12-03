@@ -1,1 +1,0 @@
-lar[18077]=`<i>prés. pass. et moy. de</i> ἀφίημι.`

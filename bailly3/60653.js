@@ -1,1 +1,0 @@
-lar[60653]=`<b>ωνος (ὁ)</b> Leukôn :<br><b>      1</b> <i>roi du Bosphore,</i> DÉM. <i>466</i>.<br><b>      2</b> <i>lieu de Cyrénaïque,</i> HDT. <i>4, 160</i>.`

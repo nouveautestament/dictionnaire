@@ -1,1 +1,0 @@
-lar[82750]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> puant, LUC. <i>Lex. 10</i>.<p><b>Étym</b>. πορδή.`

@@ -1,1 +1,0 @@
-lar[42028]=`<b>εὐ·επιχείρητος, ος, ον :<br>      1</b> <i>pass</i>. facile à attaquer, à entreprendre, ARSTT. <i>An. pr. 1, 26, 1 ; Top. 2, 4</i>.<br><b>      2</b> <i>act</i>. dispos, actif, DL. <i>4, 30</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. εὖ, ἐπιχειρέω.`

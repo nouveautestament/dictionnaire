@@ -1,1 +1,0 @@
-lar[38337]=`<b>ἐπι·λυμαίνομαι</b> <font color="purple">[ῡ]</font> gâter, détruire, <i>acc</i>. PLUT. <i>M. 881d</i>.`

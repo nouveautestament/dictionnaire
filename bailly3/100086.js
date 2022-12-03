@@ -1,1 +1,0 @@
-lar[100086]=`<b>τριακοντ·αρχία, ας (ἡ)</b> <font color="purple">[ᾱκ]</font> gouvernement des trente tyrans à Athènes, XÉN. <i>Hell. 6, 3, 8</i>.<p><b>Étym</b>. τρ. ἄρχω.`

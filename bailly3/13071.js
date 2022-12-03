@@ -1,1 +1,0 @@
-lar[13071]=`<b>ἀπο·πιστεύω</b>, avoir une entière confiance en, <i>dat</i>. POL. <i>3, 71</i> ; PHIL. <i>1, 132</i> ; JOS. <i>A.J. 15, 7, 6</i>.`

@@ -1,1 +1,0 @@
-lar[100759]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> orbite circulaire, cercle, ARAT. <i>530</i>.<p><b>Étym</b>. τροχαλός.`

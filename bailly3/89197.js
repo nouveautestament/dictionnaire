@@ -1,1 +1,0 @@
-lar[89197]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰκῐδ]</font> courtisane, ANTH. <i>7, 222</i>.`

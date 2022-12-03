@@ -1,1 +1,0 @@
-lar[44831]=`<b>ου (τὸ)</b> petit animal, ATH. <i>210c ;</i> SEXT. <i>P. 1, 41</i>.<p><b>Étym</b>. <i>dim. de</i> ζῷον.`

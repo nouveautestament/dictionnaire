@@ -1,1 +1,0 @@
-lar[58000]=`<b>ου (ὁ)</b> Crésus, <i>roi de Lydie,</i> HDT. <i>1, 6</i> ; THC. <i>1, 16</i> ; XÉN. <i>Cyr. 1, 5, 3</i> ; PLAT. <i>Rsp. 566c ; au plur</i>. Κροῖσοι, des Crésus, LUC. <i>Tim. 23</i>.`

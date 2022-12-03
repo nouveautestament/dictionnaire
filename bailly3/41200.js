@@ -1,1 +1,0 @@
-lar[41200]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρ]</font> croûte d’une plaie, escarre, HIPPIATR. <i>p. 210, 211</i>.<p><b>Étym</b>. ἐσχαρόω.`

@@ -1,1 +1,0 @@
-lar[38598]=`<b>ἐπι·όσσομαι</b> (<i>seul. prés</i>.) :<br><b>      1</b> avoir devant les yeux, IL. <i>17, 381</i>.<br><b>      2</b> fixer les yeux sur, A.RH. <i>2, 28</i>.`

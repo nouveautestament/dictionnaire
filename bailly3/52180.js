@@ -1,1 +1,0 @@
-lar[52180]=`<b>κατα·βροχθίζω</b>, avaler, engloutir, HPC. <i>126b ;</i> AR. <i>Eq. 357, etc. ; fig</i>. ATH. <i>270b</i>.<p><b>Étym</b>. κ. βρόχθος.`

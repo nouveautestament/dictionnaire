@@ -1,1 +1,0 @@
-lar[101690]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ὑλακτητής NAZ. <i>Vit. 1031</i>.`

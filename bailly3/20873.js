@@ -1,1 +1,0 @@
-lar[20873]=`<b>βροτο·στυγής, ής, ές</b> <font color="purple">[ῠ]</font> odieux aux mortels, ESCHL. <i>Pr. 799 ; Ch. 51</i>.<p><b>Étym</b>. βρ. στυγέω.`

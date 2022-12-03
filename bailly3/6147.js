@@ -1,1 +1,0 @@
-lar[6147]=`<b>ἀμφί·ζωστος, ος, ον</b>, entouré d’une ceinture, NONN. <i>D. 32, 159</i>.<p><b>Étym</b>. ἀ. ζώννυμι.`

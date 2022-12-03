@@ -1,1 +1,0 @@
-lar[91607]=`<b>(ὁ)</b> Sosthanès, <i>Perse,</i> ESCHL. <i>Pers. 32</i>.`

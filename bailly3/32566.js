@@ -1,1 +1,0 @@
-lar[32566]=`<b>ἐλαφο·βόσκον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> panais sauvage, <i>plante,</i> DIOSC. <i>3, 80</i>.<p><b>Étym</b>. ἔλαφος, βόσκω.`

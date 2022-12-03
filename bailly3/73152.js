@@ -1,1 +1,0 @@
-lar[73152]=`<b>ῆρος (ὁ) :<br>      1</b> <i>c</i>. ὀρχηστής IL. <i>18, 494</i>.<br><b>      2</b> sorte de poisson de mer (<i>propr</i>. le sauteur, le bondissant) OPP. <i>C. 1, 61</i>.<p><b>Étym</b>. ὀρχέομαι.`

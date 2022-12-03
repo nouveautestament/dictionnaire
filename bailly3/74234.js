@@ -1,1 +1,0 @@
-lar[74234]=`<b>Παιδ·άρητος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Pædarètos, <i>h</i>. PLUT. <i>Lyc. 25</i>.<p><b>Étym</b>. παῖς, ἀρετή.`

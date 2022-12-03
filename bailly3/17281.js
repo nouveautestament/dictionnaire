@@ -1,1 +1,0 @@
-lar[17281]=`<b>ας (ἡ)</b> <i>transcr. du n. de f. rom</i>. Aurēlia, PLUT. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[84347]=`<b>προ·θεωρέω-ῶ</b>, examiner auparavant, <i>d’où</i> étudier <i>ou</i> méditer auparavant, HPC. <i>1283, 28</i> ; ARSTT. <i>H.A. 4, 11, 4</i>.`

@@ -1,1 +1,0 @@
-lar[12512]=`<b>εως (ἡ)</b> action de se laisser mourir de faim, QUINT. <i>8, 5</i>.<p><b>Étym</b>. <i>v</i>. ἀποκαρτερέω.`

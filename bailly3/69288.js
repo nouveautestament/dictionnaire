@@ -1,1 +1,0 @@
-lar[69288]=`<b>(ὁ)</b> <i>indécl</i>. Noé, <i>h</i>. SPT. <i>Gen. 5, 29</i> ; NT. <i>Matth. 24, 37, etc</i>.<p>➳ <i>Avec ω bref,</i> SIB. <i>1, 126, 241</i>.`

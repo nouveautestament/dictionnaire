@@ -1,1 +1,0 @@
-lar[61291]=`<b>λιπαρ·όμματος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> aux yeux brillants, ARSTT. <i>Physiogn. 3, 14</i> ; LICYMN. (SEXT. <i>p. 901).</i><p><b>Étym</b>. λ. ὄμμα.`

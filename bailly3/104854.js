@@ -1,1 +1,0 @@
-lar[104854]=`<b>ή, όν</b>, qu’on peut se représenter par l’imagination, qu’on peut se figurer, ARSTT. <i>Mem. 1, 9</i> ; PLUT. <i>M. 900e ;</i> τὸ φανταστόν, M. ANT. <i>3, 11,</i> imagination, vision.<p><b>Étym</b>. <i>vb. de</i> φαντάζω.`

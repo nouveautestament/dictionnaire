@@ -1,1 +1,0 @@
-lar[26331]=`<b>(ὁ)</b> Dieutykhidas, <i>h</i>. PLUT. <i>Lyc. 1</i>.<p><b>Étym</b>. <i>cf</i>. διευτυχέω.`

@@ -1,1 +1,0 @@
-lar[37093]=`<b>ἐπ·ενθύμημα, ατος (τὸ)</b> <font color="purple">[ῡ]</font> nouvel enthymème à l’appui d’un premier, ARSTT. <i>Rhet. Al. 33, 1</i> ; HERMOG. <i>Rhet. 126, 4</i>.<p><b>Étym</b>. ἐπί, ἐνθυμέομαι.`

@@ -1,1 +1,0 @@
-lar[58511]=`<b>ων (τὰ)</b> Kuindes, <i>v. de Sicile,</i> PLUT. <i>Demetr. 32</i>.`

@@ -1,1 +1,0 @@
-lar[50698]=`<font color="purple">[ᾰ]</font> regarder comme malheureux, STR. <i>11, 11, 8 Kram.</i> ; PHIL. <i>1, 219</i>.<p><b>Étym</b>. κακοδαίμων.`

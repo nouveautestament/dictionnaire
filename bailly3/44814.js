@@ -1,1 +1,0 @@
-lar[44814]=`<b>ης (ἡ)</b> Zosimè, <i>f</i>. PLUT. <i>Pomp. 45</i>.`

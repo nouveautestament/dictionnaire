@@ -1,1 +1,0 @@
-lar[95084]=`<b>συν·διαβάλλω :<br>      1</b> franchir ensemble, THC. <i>6, 44</i>.<br><b>      2</b> calomnier, décrier <i>ou</i> accuser avec <i>ou</i> en même temps, DÉM. <i>1404 fin ; au pass</i>. THC. <i>6, 61</i> ; DÉM. <i>1000, 1</i> ; LYS. <i>128, 40</i>.`

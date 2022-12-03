@@ -1,1 +1,0 @@
-lar[21867]=`<b>γεω·μιγής, ής, ές</b> <font color="purple">[ῐ]</font> mêlé de terre, STR. <i>571</i> ; PLUT. <i>M. 893b</i>.<p><b>Étym</b>. γῆ, μίγνυμι.`

@@ -1,1 +1,0 @@
-lar[50620]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> nouvelle fâcheuse, MAN. <i>4, 550</i>.<p>➳ <i>Ion</i>. -ίη, HPC. (GAL.).<p><b>Étym</b>. κακάγγελος.`

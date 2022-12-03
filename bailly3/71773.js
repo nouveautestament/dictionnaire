@@ -1,1 +1,0 @@
-lar[71773]=`<b>ὁμοψηφέω-ῶ</b>, être du même avis, voter ensemble <i>ou</i> de même, JOS. <i>A.J. 17, 11, 1</i>.<p><b>Étym</b>. ὁμόψηφος.`

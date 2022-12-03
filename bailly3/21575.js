@@ -1,1 +1,0 @@
-lar[21575]=`<b>ύος (ἡ)</b> <i>ion</i>. le rire, CALL. <i>Del. 329</i>.<p><b>Étym</b>. γελάω.`

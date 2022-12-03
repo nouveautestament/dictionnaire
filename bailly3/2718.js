@@ -1,1 +1,0 @@
-lar[2718]=`<b>Αἰνύρων χῶρος (ὁ)</b> territoire des Ænyres, <i>contrée de Thasos,</i> HDT. <i>6, 47</i>.`

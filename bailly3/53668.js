@@ -1,1 +1,0 @@
-lar[53668]=`<b>ης, ες</b>, profond, <i>en parl. du sommeil,</i> GAL. <i>14, 314</i>.<p><b>Étym</b>. καταφορά, -ωδης.`

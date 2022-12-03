@@ -1,1 +1,0 @@
-lar[51924]=`<b>ου (ὁ)</b> Karsos (<i>auj</i>. Makersi <i>ou</i> Merkès) <i>fl. de Cilicie,</i> XÉN. <i>An. 1, 4, 4</i> (<i>var</i>. Κέρσος).`

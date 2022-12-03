@@ -1,1 +1,0 @@
-lar[69380]=`<b>ξανθο·κάρηνος, ος, ον</b> <font color="purple">[ᾰ]</font> à la tête <i>ou</i> à la chevelure blonde, ANTH. <i>9, 524, 15</i>.<p><b>Étym</b>. ξ. κάρηνον.`

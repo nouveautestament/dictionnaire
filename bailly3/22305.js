@@ -1,1 +1,0 @@
-lar[22305]=`<font color="darkgreen">(<i>f</i>. εύσω)</font> <font color="purple">[ᾰ]</font> se faire une opinion sur, apprécier, juger : τι, PLAT. <i>Rsp. 516e</i>, qqe ch. ; τινί τι, THÉM. <i>36b</i>, une chose d’après une autre ; τινὰ εἰ, THÉM. <i>32c</i>, se rendre compte si qqn, <i>etc</i>.<p><b>Étym</b>. γνῶμα.`

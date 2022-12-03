@@ -1,1 +1,0 @@
-lar[39042]=`<b>ῆρος (ὁ) :<br>      1</b> anneau pour tirer et fermer une porte, HDT. <i>6, 91</i>.<br><b>      2</b> corde pour tirer un filet de chasseur, ANTH. <i>6, 109</i>.<p><b>Étym</b>. ἐπισπάω.`

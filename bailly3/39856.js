@@ -1,1 +1,0 @@
-lar[39856]=`<b>ἐπ·οπίζω</b>, ORPH. <i>Lith. 67, conj. ; d’ord</i>. ἐποπίζομαι, OD. <i>5, 146</i> ; HH. <i>Ven. 291</i> ; THGN. <i>1297,</i> révérer, craindre.`

@@ -1,1 +1,0 @@
-lar[42788]=`<b>ου (ὁ)</b> Eunomios, <i>h</i>. LUC. <i>D. mort. 11, 2</i>.<p><b>Étym</b>. εὔνομος.`

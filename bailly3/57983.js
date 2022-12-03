@@ -1,1 +1,0 @@
-lar[57983]=`<b>(ἡ)</b> Kritola, <i>f</i>. PLUT. <i>Mul. virt. 25</i>.<p><b>Étym</b>. <i>cf</i>. Κριτόλαος.`

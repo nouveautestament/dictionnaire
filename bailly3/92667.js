@@ -1,1 +1,0 @@
-lar[92667]=`<b>στλεγγιδο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῐδ]</font> fabricant de strigiles, <i>sortes de racloirs,</i> STR. <i>717</i>.<p><b>Étym</b>. στλεγγίς, ποιέω.`

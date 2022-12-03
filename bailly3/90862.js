@@ -1,1 +1,0 @@
-lar[90862]=`appuyer fortement, enfoncer, <i>avec</i> ἐν <i>et le dat</i>. A.RH. <i>2, 667</i>.<br><b><i>Moy.</i></b> s’appuyer sur, <i>dat</i>. PHIL. <i>2, 317 ; abs</i>. OD. <i>17, 196</i> ; χερσίν τε ποσίν τε, OD. <i>11, 595,</i> s’appuyer des pieds et des mains ; <i>avec</i> ἐν <i>et le dat</i>. NIC. <i>Th. 751</i> ; ἐπί <i>et le gén</i>. PHIL. <i>2, 274</i>.`

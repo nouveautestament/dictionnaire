@@ -1,1 +1,0 @@
-lar[68894]=`<b>α, ον</b>, qui concerne les troupeaux, de pâtre, de berger, ANTH. <i>6, 157</i> ; CALL. <i>fr. 310</i>.<p><b>Étym</b>. νομή.`

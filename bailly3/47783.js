@@ -1,1 +1,0 @@
-lar[47783]=`<b>οῦ (τὸ)</b> Thryon (près d’Agulinitza) <i>v. d’Élide,</i> THGN. <i>20, 25</i>.`

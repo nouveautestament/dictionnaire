@@ -1,1 +1,0 @@
-lar[618]=`<b>ου (τὸ)</b> <i>dim. de</i> ἄγκιστρον ; <i>avec crase au plur</i>. τἀγκίστρια, THCR. <i>Idyl. 21, 57</i>.`

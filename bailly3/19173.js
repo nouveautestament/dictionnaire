@@ -1,1 +1,0 @@
-lar[19173]=`<b>βαρύ·νουσος, ος, ον</b> <font color="purple">[ᾰῠ]</font> atteint d’une grave maladie, NONN. <i>Jo. 6, p. 71</i>.`

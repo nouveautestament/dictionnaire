@@ -1,1 +1,0 @@
-lar[61946]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῡ]</font> fléau, <i>en parl. de pers</i>. SOPH. <i>Aj. 573</i> ; EUR. <i>Hipp. 1068</i> ; ISOCR. <i>56e, 187b ; rar. en parl. de choses,</i> XÉN. <i>Hier. 6, 6</i>.<p><b>Étym</b>. λύμη.`

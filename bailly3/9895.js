@@ -1,1 +1,0 @@
-lar[9895]=`<b>ἀντι·θήγω</b>, aiguiser, <i>càd</i>. exciter contre <i>ou</i> à son tour, LUC. <i>Par. 51</i>.`

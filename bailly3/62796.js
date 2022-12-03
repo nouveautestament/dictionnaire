@@ -1,1 +1,0 @@
-lar[62796]=`<b>(ὁ)</b> Manis, <i>anc. roi de Phrygie,</i> PLUT. <i>Is. et Os. 24</i>.`

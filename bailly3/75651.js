@@ -1,1 +1,0 @@
-lar[75651]=`<b>ας (ἡ)</b> Parætonia (<i>auj</i>. Marsa Matruh) <i>v. et port de Marmarique,</i> LUC. <i>H. conscr. 62</i>.`

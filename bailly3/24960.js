@@ -1,1 +1,0 @@
-lar[24960]=`<b>δι·αλοάω-ῶ</b> (<i>seul. prés. 3 pl</i>. -αλοῶσι) battre comme on bat le grain dans l’aire, cribler de coups, EL. <i>N.A. 1, 9</i>.`

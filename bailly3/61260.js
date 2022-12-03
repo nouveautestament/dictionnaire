@@ -1,1 +1,0 @@
-lar[61260]=`<b>λινο·τειχής, ής, ές</b>, aux murs de lin, <i>càd</i>. de toile, DIONYS. (E. BYZ. <i>v° Γαζός).</i><p><b>Étym</b>. λ. τεῖχος.`

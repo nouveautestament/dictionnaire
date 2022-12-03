@@ -1,1 +1,0 @@
-lar[55009]=`<b>ος, ον :<br>      1</b> <i>c</i>. κερουχίς BABR. <i>45, 5</i>.<br><b>      2</b> ὁ κ. cordage servant à maintenir la vergue, et destiné à porter le dauphin, PHÉRÉCR. (SCH.-AR. <i>Eq. 762).</i><p><b>Étym</b>. κέρας, ἔχω.`

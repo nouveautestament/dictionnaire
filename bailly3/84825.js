@@ -1,1 +1,0 @@
-lar[84825]=`<b>ή, όν</b>, qui ouvre la voie, GAL. <i>14, 759</i>.<p><b>Étym</b>. προοδοποιέω.`

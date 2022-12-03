@@ -1,1 +1,0 @@
-lar[101569]=`<b>ας (ἡ)</b> habitude de ne boire que de l’eau, XÉN. <i>Cyr. 1, 5, 12</i> ; PLAT. <i>Leg. 674a, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>Acut. 389</i>.<p><b>Étym</b>. ὑδροπότης.`

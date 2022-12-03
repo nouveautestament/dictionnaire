@@ -1,1 +1,0 @@
-lar[33728]=`<b>ἔμ·φυλος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> de la même famille : ἔ. ἀνήρ, OD. <i>15, 273,</i> parent ; ἔ. αἷμα, SOPH. <i>O.C. 407,</i> meurtre d’un parent.<br><b>      2</b> du même peuple : ἔ. στάσις, HDT. <i>8, 3</i> ; SOL. <i>15, 19,</i> dissension civile.`

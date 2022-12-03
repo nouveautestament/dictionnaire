@@ -1,1 +1,0 @@
-lar[6585]=`<b>ἀν·αγείρω</b> <font color="purple">[ᾰγ]</font> rassembler, Q. SM. <i>2, 577</i>.<p><b>Étym</b>. ἀνά, ἀγ.`

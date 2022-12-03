@@ -1,1 +1,0 @@
-lar[39221]=`<b>ἐπι·συμφέρω</b>, apporter en outre avec, NICOM. <i>Theol. p. 32 Ast</i>.`

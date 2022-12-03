@@ -1,1 +1,0 @@
-lar[24919]=`<b>δι·αλειπτόν, οῦ (τὸ)</b> <font color="purple">[ᾰ]</font> liniment, HPC. <i>635, 17</i>.<p><b>Étym</b>. διαλείφω.`

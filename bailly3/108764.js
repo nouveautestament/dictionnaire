@@ -1,1 +1,0 @@
-lar[108764]=`<b>χοο·πότης, ου (ὁ)</b> qui boit un plein conge, ATH. <i>533e</i>.<p><b>Étym</b>. χόος, πίνω.`

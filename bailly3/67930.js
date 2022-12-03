@@ -1,1 +1,0 @@
-lar[67930]=`<b>νεη·θαλής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. νεοθαλής, EUR. <i>Ion 112</i>.`

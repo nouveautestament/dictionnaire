@@ -1,1 +1,0 @@
-lar[77292]=`<i>mot scythe,</i> tuer, HDT. <i>4, 110</i>.`

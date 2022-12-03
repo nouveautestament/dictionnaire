@@ -1,1 +1,0 @@
-lar[83805]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> problématique, ARSTT. <i>Somn. 2, 19</i>.<p><b>Étym</b>. πρόβλημα.`

@@ -1,1 +1,0 @@
-lar[13034]=`<b>ορος (ὁ)</b> celui qui fait cesser, <i>gén</i>. ORPH. <i>H. 39, 3</i>.<p><b>Étym</b>. ἀποπαύω.`

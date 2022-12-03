@@ -1,1 +1,0 @@
-lar[83267]=`<b>πρασινο·ειδής, ής, ές</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. πρασοειδής. OLYMPIOD. <i>vol. 1, p. 397 Johann Gottlob Schneider, Eclogæ physicæ historiam et interpretationem corporum et rerum naturalium continentes, 1801</i>.<p><b>Étym</b>. πράσινος, εἶδος.`

@@ -1,1 +1,0 @@
-lar[22542]=`<b>(ὁ)</b> Gouras, <i>h</i>. PLUT. <i>Luc. 32</i>.`

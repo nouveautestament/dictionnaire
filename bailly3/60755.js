@@ -1,1 +1,0 @@
-lar[60755]=`<b>ληϊ·βότειρα, ας</b> <font color="purple">[ῐ]</font> <i>adj. f</i>. qui ravage <i>ou</i> dévore les moissons, OD. <i>18, 29</i>.<p><b>Étym</b>. λήϊον, βόσκω.`

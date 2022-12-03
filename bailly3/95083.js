@@ -1,1 +1,0 @@
-lar[95083]=`<b>συν·διαβαίνω</b>, traverser en même temps <i>ou</i> avec, <i>dat</i>. PLUT. <i>Sert. 12 ; abs</i>. THC. <i>6, 101</i> ; XÉN. <i>An. 7, 1, 4</i>.`

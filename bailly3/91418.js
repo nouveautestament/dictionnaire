@@ -1,1 +1,0 @@
-lar[91418]=`<b>ατος (τὸ)</b> sorte de danse, ESCHL. <i>fr. 73 Dind</i>.<p><b>Étym</b>. σκώψ.`

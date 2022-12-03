@@ -1,1 +1,0 @@
-lar[18650]=`<font color="darkgreen">(<i>seul. impf. 3 sg</i>. ἄεν <font color="purple">[ᾰ]</font>)</font> souffler, A.RH. <i>1, 605 ; 2, 1228</i>.<p><b>Étym</b>. ἄημι.`

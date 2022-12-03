@@ -1,1 +1,0 @@
-lar[93308]=`<b>συγ·κατακαίω</b>, <i>att</i>. <b>-κάω</b> <font color="purple">[ᾱ]</font> brûler ensemble <i>ou</i> avec, <i>acc</i>. XÉN. <i>An. 3, 2, 27</i> ; PLUT. <i>Fab. 26, Cato mi. 11</i> ; LUC. <i>Philops. 27 ; avec double rég.</i> : τινά τινι, DS. <i>19, 33,</i> qqn avec qqn ; <i>au pass</i>. être brûlé avec, <i>dat</i>. HDT. <i>4, 69</i> ; DS. <i>2, 28</i>.`

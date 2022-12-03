@@ -1,1 +1,0 @@
-lar[28728]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> transport de colère, HPC. <i>49, 28</i>.<p><b>Étym</b>. δυσόργητος.`

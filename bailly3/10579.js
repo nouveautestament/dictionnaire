@@ -1,1 +1,0 @@
-lar[10579]=`<b>ἀντι·φρυάσσομαι</b>, rivaliser d’insolence, NAZ. <i>1, 524</i>.`

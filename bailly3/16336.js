@@ -1,1 +1,0 @@
-lar[16336]=`<b>ή, όν :<br>      1</b> qui concerne l’astronomie, PLAT. <i>Prot. 315c.</i><br><b>      2</b> versé dans l’astronomie, PLAT. <i>Rsp. 530a ; Tim. 27a</i> (<i>au</i> <i>• Sup</i>. -ώτατος).<p><b>Étym</b>. ἀστρονομία.`

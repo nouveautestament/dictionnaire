@@ -1,1 +1,0 @@
-lar[51296]=`<b>καλο·ήθης, ης, λόηθες</b> <font color="purple">[ᾰ]</font> qui a de bonnes mœurs, d’un caractère honnête, M. ANT. <i>1, 1</i>.<p><b>Étym</b>. κ. ἦθος.`

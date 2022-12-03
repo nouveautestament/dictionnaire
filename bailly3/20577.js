@@ -1,1 +1,0 @@
-lar[20577]=`<b>βο·ῶπις, ιδος</b>, <i>adj. f</i>. aux yeux de bœuf, <i>càd</i>. aux grands yeux, <i>signe de beauté, en parl. de femmes,</i> IL. <i>3, 144 ; 7, 10 ; 18, 40 ; part. en parl. d’Hèra,</i> IL. <i>1, 551, etc. ; d’Harmonia,</i> PD. <i>P. 3, 91 ; etc</i>.<p><b>Étym</b>. βοῦς, ὤψ.`

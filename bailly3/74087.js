@@ -1,1 +1,0 @@
-lar[74087]=`<b>πάγ·γεος, εος, εον</b>, qui embrasse toute la terre, ORPH. <i>H. 58, 8</i>.<p><b>Étym</b>. π. γέα.`

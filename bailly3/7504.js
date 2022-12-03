@@ -1,1 +1,0 @@
-lar[7504]=`<b>ἀνα·πυτίζω</b> <font color="purple">[ῡ]</font> faire jaillir, HÉRON <i>Spir. 181</i>.`

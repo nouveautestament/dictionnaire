@@ -1,1 +1,0 @@
-lar[92934]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> mèche tortillée, HPC. <i>884d</i>.<p><b>Étym</b>. <i>cf</i>. στρόβιλος.`

@@ -1,1 +1,0 @@
-lar[3801]=`<b>ἀκρο·λυτέω-ῶ</b> <font color="purple">[ῠ]</font> délier le bout, jouer avec le bout (d’une ceinture), ANTH. <i>5, 253</i>.<p><b>Étym</b>. ἄ. λυτός.`

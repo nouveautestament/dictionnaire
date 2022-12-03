@@ -1,1 +1,0 @@
-lar[43456]=`<b>ου (ὁ)</b> Eustathios (Eustathe) <i>h</i>. ANTH. <i>7, 602, particul. évêque de Thessalonique, commentateur d’Homère</i>.<p><b>Étym</b>. εὐσταθής.`

@@ -1,1 +1,0 @@
-lar[95020]=`<b>σύν·αυλος, ος, ον</b>, qui couche, habite <i>ou</i> vit avec, SOPH. <i>O.R. 1126 ; fig</i>. σ. θείᾳ μανίᾳ, SOPH. <i>Aj. 611,</i> frappé de folie par les dieux.<p><b>Étym</b>. σ. αὐλή.`

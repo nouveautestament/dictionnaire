@@ -1,1 +1,0 @@
-lar[55837]=`<b>ος, ον</b>, de Clinias, PLAT.<p><b>Étym</b>. <i>v</i>. Κλεινίας.`

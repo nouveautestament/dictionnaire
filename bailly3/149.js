@@ -1,1 +1,0 @@
-lar[149]=`<b>ἀ·βουκόλητος, ος, ον</b>, dont on ne prend pas soin, ESCHL. <i>Suppl. 907</i>.<p><b>Étym</b>. ἀ, βουκολέω.`

@@ -1,1 +1,0 @@
-lar[10181]=`<b>ἀντι·παράκειμαι :<br>      1</b> être situé en face de, <i>dat</i>. POL. <i>3, 37, 7</i>.<br><b>      2</b> correspondre à, <i>dat</i>. DYSC. <i>Adv. 625</i>.`

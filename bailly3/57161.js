@@ -1,1 +1,0 @@
-lar[57161]=`<b>ης (ἡ) :<br>      1</b> écoulement, rhume, HPC. <i>Progn. p. 41, 25</i> ; LUC. <i>D. mort. 6, 2</i>.<br><b>      2</b> <i>p. suite,</i> rhume qui émousse la sensibilité, <i>d’où</i> sottise, stupidité, LUC. <i>H. conscr. 31</i> ; LIB. <i>4, 630</i>.`

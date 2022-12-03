@@ -1,1 +1,0 @@
-lar[86124]=`<b>προσ·μάρτυς, υρος</b> (ὁ, ἡ, τὸ) <font color="purple">[ῠρ]</font> qui atteste, témoin, MAN. <i>4, 176 ; joint à un plur. neutre,</i> MAN. <i>4, 161</i>.`

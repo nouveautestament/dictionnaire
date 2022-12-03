@@ -1,1 +1,0 @@
-lar[62088]=`<b>λυσσό·δηκτος, ος, ον</b>, mordu par un animal enragé, GEOP. <i>12, 17, 14</i>.<p><b>Étym</b>. λύσσα, δάκνω.`

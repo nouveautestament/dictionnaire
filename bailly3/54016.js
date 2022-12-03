@@ -1,1 +1,0 @@
-lar[54016]=`<i>adv</i>., en subissant un reproche, en encourant une accusation, PHILOD. <i>De ira</i>.<p><b>Étym</b>. κατηγορέω.`

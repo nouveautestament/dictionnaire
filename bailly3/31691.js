@@ -1,1 +1,0 @@
-lar[31691]=`<b>ἐκ·μοχλεύω</b>, soulever avec un levier, HPC. <i>Art. 834</i> ; πύλας, AR. <i>Lys. 430,</i> forcer une porte ; <i>fig</i>. contraindre, forcer, PLUT. <i>M. 662c.</i><br><b><i>Moy.</i></b> <i>m. sign. au propre,</i> HPC. <i>Art. 837</i>.`

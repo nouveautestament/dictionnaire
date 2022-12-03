@@ -1,1 +1,0 @@
-lar[23088]=`<b>έων (οἱ)</b> les Dalmates, habitants de la Dalmatie, POL. <i>12, 5, etc</i>.`

@@ -1,1 +1,0 @@
-lar[97234]=`<b>ου (ὁ)</b> = <i>lat</i>. Sornatius, <i>n. d’h. rom</i>. PLUT. <i>Luc. 17, etc</i>.`

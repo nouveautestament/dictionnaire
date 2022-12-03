@@ -1,1 +1,0 @@
-lar[100473]=`<b>οῦ (ὁ)</b> petit bruit aigu, TH. <i>C.P. 5, 11, 5</i> ; PLUT. <i>Marc. 5, M. 654f</i>.<p><b>Étym</b>. τρίζω.`

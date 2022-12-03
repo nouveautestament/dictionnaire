@@ -1,1 +1,0 @@
-lar[109297]=`<b>χρυσοφυλακέω-ῶ</b> <font color="purple">[ῡῠᾰ]</font> être préposé à la garde de l’or, être gardien d’un trésor <i>ou</i> trésorier, CLÉM. <i>268</i>.<p><b>Étym</b>. χρυσοφύλαξ.`

@@ -1,1 +1,0 @@
-lar[20283]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> herbe à paître, <i>d’où</i> pâturage, IL. <i>13, 493</i> ; PLAT. <i>Rsp. 401c, etc.</i><br><b>      2</b> herbe, <i>en gén. p. opp. à</i> λάχανον, ARSTT. <i>Plant. 1, 4, 7</i>.<p>➳ <i>Dor</i>. βοτάνα, PD. <i>N. 5, 43</i> ; EUR. <i>fr. 775, 27</i> ; THCR. <i>Idyl. 25, 87</i>.<p><b>Étym</b>. βόσκω.`

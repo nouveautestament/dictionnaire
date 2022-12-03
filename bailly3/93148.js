@@ -1,1 +1,0 @@
-lar[93148]=`<b>ατος (τὸ)</b> <i>c</i>. στωμυλία, AR. <i>Ran. 943 ; en parl. de pers</i>. AR. <i>Ran. 92</i>.`

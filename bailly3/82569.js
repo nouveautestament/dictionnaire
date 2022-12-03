@@ -1,1 +1,0 @@
-lar[82569]=`<b>πολυχρηματέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir beaucoup de biens, être riche, STR. <i>414</i>.<p><b>Étym</b>. πολυχρήματος.`

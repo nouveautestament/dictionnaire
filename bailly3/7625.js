@@ -1,1 +1,0 @@
-lar[7625]=`<b>ας (ἡ)</b> défaut d’exercice, CLÉM. <i>460</i>.<p><b>Étym</b>. ἀνάσκητος.`

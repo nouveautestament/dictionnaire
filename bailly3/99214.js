@@ -1,1 +1,0 @@
-lar[99214]=`<b>Τιμησί·θεος, ου (ὁ)</b> <font color="purple">[ῑῐ]</font> Timèsithêos, <i>h</i>. HDT. <i>5, 72</i> ; XÉN. <i>An. 5, 4, 2, etc</i>.<p><b>Étym</b>. τιμάω, θεός.`

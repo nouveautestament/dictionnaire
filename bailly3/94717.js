@@ -1,1 +1,0 @@
-lar[94717]=`<b>συν·ανακομίζω</b> (<i>fut. moy. inf</i>. συνανακομιεῖσθαι) restaurer <i>ou</i> rétablir avec, aider à rétablir, POL. <i>4, 25, 8</i>.`

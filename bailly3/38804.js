@@ -1,1 +1,0 @@
-lar[38804]=`<b>ἐπι·προθέω</b> (<i>seul. prés</i>.) :<br><b>      1</b> courir en avant, A.RH. <i>1, 582</i>.<br><b>      2</b> jaillir, se produire au dehors, NIC. <i>Th. 382</i>.`

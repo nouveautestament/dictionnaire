@@ -1,1 +1,0 @@
-lar[6714]=`<b>ἀνα·δινεύω</b> <font color="purple">[ῑ]</font> faire tournoyer au-dessus, OPP. <i>H. 3, 296</i>.`

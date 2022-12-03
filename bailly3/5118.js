@@ -1,1 +1,0 @@
-lar[5118]=`<b>ἁλωνο·τριβέω-ῶ</b> <font color="purple">[ᾰῑ]</font> broyer dans l’aire, LGS <i>3, 29</i>.<p><b>Étym</b>. ἅλων, τρίβω.`

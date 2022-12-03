@@ -1,1 +1,0 @@
-lar[81112]=`<b>ος, ον</b>, imitateur <i>ou</i> disciple de Plutarque, SYN. <i>Ep. 135</i>.<p><b>Étym</b>. Πλούταρχος.`

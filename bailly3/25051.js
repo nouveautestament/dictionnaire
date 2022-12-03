@@ -1,1 +1,0 @@
-lar[25051]=`<b>δια·μηρύω</b> <font color="purple">[ῡ]</font> dévider, dérouler, HÉRON <i>Aut. 252, 255, 260</i>.`

@@ -1,1 +1,0 @@
-lar[23348]=`<b>α, ον</b>, de Daulis, HDT. <i>8, 35</i> ; Δαυλία κορώνη, AR. (EM.) la corneille de Daulis, <i>càd</i>. le rossignol ; ἡ Δαυλία (<i>s.-e</i>. χώρα), le territoire de Daulis, THC. <i>2, 29</i> ; SOPH. <i>O.R. 734</i>.`

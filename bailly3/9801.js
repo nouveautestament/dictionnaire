@@ -1,1 +1,0 @@
-lar[9801]=`<b>ή, όν</b>, d’Antigone, PLUT. <i>Arat. 54</i>.<p><b>Étym</b>. Ἀντίγονος.`

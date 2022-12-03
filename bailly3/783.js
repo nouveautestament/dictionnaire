@@ -1,1 +1,0 @@
-lar[783]=`<b>ητος (ἡ)</b> pureté, chasteté, NT. <i>2Cor. 6, 6</i>.<p><b>Étym</b>. ἁγνός.`

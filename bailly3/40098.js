@@ -1,1 +1,0 @@
-lar[40098]=`<b>ἐπωπάω-ῶ</b> (<i>seul. prés</i>.) :<br><b>      1</b> surveiller, observer, ESCHL. <i>Ch. 693, etc.</i><br><b>      2</b> diriger, ESCHL. <i>Eum. 971</i>.<p><b>Étym</b>. ἐπωπή.`

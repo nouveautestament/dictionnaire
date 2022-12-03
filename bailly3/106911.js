@@ -1,1 +1,0 @@
-lar[106911]=`<font color="purple">[ᾰ]</font> s’enorgueillir, ARSTT. <i>Pol. 2, 15, 5</i> ; ἐπί τινι, POL. <i>22, 8, 8,</i> de qqe ch. ; <i>part. pf</i>. πεφρονηματισμένος, ARSTT. <i>Pol. 3, 13, 19 ; 5, 7, 2, etc.</i> ; DS. <i>16, 89,</i> qui a l’esprit exalté, orgueilleux.<p><b>Étym</b>. φρόνημα.`

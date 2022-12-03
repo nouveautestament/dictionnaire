@@ -1,1 +1,0 @@
-lar[102654]=`<b>ὑπέρ·μετρος, ος, ον :<br>      1</b> qui passe la mesure, démesuré, excessif, XÉN. (STOB. <i>Fl. 5, 79</i>) ; PLAT. <i>Leg. 864d ;</i> PLUT. <i>M. 9b.</i><br><b>      2</b> qui dépasse la mesure d’un vers, LUC. <i>J. tr. 6</i>.<p><b>Étym</b>. ὑ. μέτρον.`

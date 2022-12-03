@@ -1,1 +1,0 @@
-lar[7700]=`<b>ἀνα·στοναχέω</b> <font color="darkgreen">(<i>ao. 3 pl</i>. ἀνεστονάχησαν)</font> <font color="purple">[ᾰχ]</font> gémir, ORPH. <i>Arg. 1294</i>.`

@@ -1,1 +1,0 @@
-lar[80769]=`<b>πλατύ·ουρος, ος, ον</b> <font color="purple">[ᾰ]</font> à large queue, OPP. <i>H. 1, 99</i>.<p><b>Étym</b>. πλ. οὐρά.`

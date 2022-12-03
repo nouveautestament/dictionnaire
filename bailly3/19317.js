@@ -1,1 +1,0 @@
-lar[19317]=`<b>ατος (τὸ)</b> charge, fardeau, EUR. <i>Suppl. 767</i> ; JOS. <i>A.J. 6, 9, 1 ; fig</i>. PLUT. <i>M. 59b ;</i> JOS. <i>A.J. 9, 19, 2</i>.<p><b>Étym</b>. βαστάζω.`

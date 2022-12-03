@@ -1,1 +1,0 @@
-lar[42539]=`<b>ος, ον</b>, qui concerne la prière : εὐκτήριος οἶκος, BAS. <i>4, 473b ;</i> NYSS. <i>3, 1081b Migne,</i> maison de prières.<p><b>Étym</b>. εὔχομαι.`

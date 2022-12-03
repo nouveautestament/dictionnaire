@@ -1,1 +1,0 @@
-lar[59131]=`<font color="purple">[ῐ]</font> souffrir de la colique, A. APHR. <i>Probl. 2, 73</i>.`

@@ -1,1 +1,0 @@
-lar[20339]=`<b>ιος (ἡ)</b> Boubastis :<br><b>      1</b> <i>divinité égyptienne,</i> HDT. <i>2, 137, 156</i>.<br><b>      2</b> <i>v. d’Égypte, appelée aussi</i> βούβαστος, HDT. <i>2, 59, etc</i>.<p>➳ <i>Gén</i>. βουβάστεως, JOS. <i>13, 3, 2. Dat. ion</i>. βουβάστι, HDT. <i>2, 137</i>.`

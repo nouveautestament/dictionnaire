@@ -1,1 +1,0 @@
-lar[47961]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡ]</font> le territoire de Thynis, <i>en Thrace,</i> A.RH. <i>2, 462</i>.`

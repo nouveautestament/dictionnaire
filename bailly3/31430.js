@@ -1,1 +1,0 @@
-lar[31430]=`<b>ἐκ·κλάω-ῶ</b>, écarter en brisant, briser, PLAT. <i>Rsp. 611d ;</i> ALCIPHR. <i>2, 4, 9</i> ; PAUS. <i>8, 40, 2 ; avec</i> ἀπό <i>et le gén</i>. SPT. <i>Lev. 1, 17 ; ou le gén. seul,</i> NT. <i>Rom. 11, 17 ; fig</i>. PLUT. <i>M. 671a, 762f</i>.`

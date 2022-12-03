@@ -1,1 +1,0 @@
-lar[83768]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font><br><b>      1</b> action de garder des brebis, profession de berger, PLUT. <i>Sol. 33, Popl. 11, etc.</i><br><b>      2</b> fortune consistant en troupeaux, en bétail, STR. <i>546</i> ; EL. <i>N.A. 4, 32, etc</i>.<p><b>Étym</b>. προβατεύω.`

@@ -1,1 +1,0 @@
-lar[108113]=`<b>Χειρί·σοφος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Kheirisophos, <i>général de Cyrus le Jeune,</i> XÉN. <i>An. 1, 4, 3, etc</i>.<p><b>Étym</b>. χείρ, σοφός.`

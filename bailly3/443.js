@@ -1,1 +1,0 @@
-lar[443]=`<b>ου (τὸ)</b> concombre, AÉT.`

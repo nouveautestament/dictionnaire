@@ -1,1 +1,0 @@
-lar[88073]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m. c</i>. πωγωνιήτης, HDN GR. <i>Epim. p. 112 Boissonade</i>.`

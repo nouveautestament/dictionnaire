@@ -1,1 +1,0 @@
-lar[34723]=`<b>ἐννεά·λινος, ος, ον</b> <font color="purple">[ῐ]</font> à neuf fils (<i>filet de chasse</i>) XÉN. <i>Cyn. 2, 4</i>.<p><b>Étym</b>. ἐ. λίνον.`

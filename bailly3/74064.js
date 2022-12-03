@@ -1,1 +1,0 @@
-lar[74064]=`<b>οῦ (ὁ) :<br>      1</b> approvisionnement de vivres, MÉN. <i>4, 313 Meineke</i>.<br><b>      2</b> <i>p. ext</i>. solde militaire, POL. <i>1, 66, 7, etc</i>.<p><b>Étym</b>. ὀψωνιάζω.`

@@ -1,1 +1,0 @@
-lar[46629]=`<b>θεο·δήλητος, ος, ον</b>, envoyé comme un fléau par les dieux, ANTH. <i>9, 157</i>.<p><b>Étym</b>. θ. δηλέω.`

@@ -1,1 +1,0 @@
-lar[86552]=`<b>προ·συντίθεμαι</b> <font color="darkgreen">(<i>f</i>. -συνθήσομαι, <i>ao</i>. -συνεθέμην, <i>etc</i>.)</font> faire auparavant une convention avec, <i>dat</i>. JOS. <i>B.J. 5, 13, 1</i> ; DC. <i>36, 28, etc</i>.`

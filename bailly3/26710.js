@@ -1,1 +1,0 @@
-lar[26710]=`<b>δι·οδεύω</b> <font color="darkgreen">(<i>impf</i>. διώδευον)</font> faire route à travers, traverser, parcourir, <i>acc</i>. POL. <i>2, 15, 2</i> ; PLUT. <i>Flam. 5, Ages. 17</i> ; X. ÉPH. <i>5, 2 ; au pass</i>. être parcouru, ANTH. <i>9, 708</i>.`

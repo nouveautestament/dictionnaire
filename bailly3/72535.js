@@ -1,1 +1,0 @@
-lar[72535]=`<b>ου (τὸ)</b> lieu où se célébraient les mystères, NIC. <i>Al. 8</i>.<p><b>Étym</b>. <i>p</i>. *ὀργιαστήριον, <i>de</i> ὀργιάζω.`

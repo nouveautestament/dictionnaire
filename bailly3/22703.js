@@ -1,1 +1,0 @@
-lar[22703]=`<b>ου (ἡ)</b> Gyaros (<i>auj</i>. Yiáros <i>ou</i> Yioúra) <i>Cyclade,</i> ARSTT. (EL. <i>N.A. 5, 14</i>) ; PLUT. LUC. <i>etc</i>.`

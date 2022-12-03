@@ -1,1 +1,0 @@
-lar[61667]=`<b>ων (τὰ)</b> fêtes de Lucullus, PLUT. <i>Luc. 23</i> ; APP. <i>Mithr. 76</i>.<p><b>Étym</b>. Λούκουλλος.`

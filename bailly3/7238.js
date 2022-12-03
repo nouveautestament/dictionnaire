@@ -1,1 +1,0 @@
-lar[7238]=`<b>ἀνα·νέμω</b> <font color="darkgreen">(<i>f</i>. -νεμῶ)</font> passer en revue, parcourir, lire, THCR. <i>Idyl. 18, 48</i>.<br><b><i>Moy.</i></b> (<i>fut. 3 sg. ion</i>. -νεμέεται) dénombrer, compter, HDT. <i>1, 173</i>.`

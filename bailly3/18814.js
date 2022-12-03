@@ -1,1 +1,0 @@
-lar[18814]=`<b>βαθυ·στολέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> porter une robe longue <i>ou</i> ample, STR. <i>530</i>.<p><b>Étym</b>. β. στολή.`

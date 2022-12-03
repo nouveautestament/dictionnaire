@@ -1,1 +1,0 @@
-lar[5196]=`<b>ἁμα·μηλίς, ίδος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> sorte de néflier, HPC. <i>608, 27</i>.<p><b>Étym</b>. ἅμα, μῆλον.`

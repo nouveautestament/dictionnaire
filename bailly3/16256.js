@@ -1,1 +1,0 @@
-lar[16256]=`<b>ἀστραβ·ηλάτης, ου (ὁ)</b> <font color="purple">[ᾰβᾰ]</font> ânier, muletier, LUC. <i>Lex. 2</i>.<p><b>Étym</b>. ἀστράβη, ἐλαύνω.`

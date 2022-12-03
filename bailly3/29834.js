@@ -1,1 +1,0 @@
-lar[29834]=`<b>ἐγρε·μάχας</b>, <i>seul. acc</i>. <b>-μάχαν (ὁ)</b> <font color="purple">[ᾰχᾱ]</font> qui excite au combat, SOPH. <i>O.C. 1054</i>.<p><b>Étym</b>. ἐγείρω, μάχη.`

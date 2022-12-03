@@ -1,1 +1,0 @@
-lar[77409]=`<b>ας (ἡ)</b> patronat, fonction <i>ou</i> devoirs de patron, DH. <i>2, 10</i>.<p><b>Étym</b>. πάτρων.`

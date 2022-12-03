@@ -1,1 +1,0 @@
-lar[17890]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> d’Apharée, THCR. <i>Idyl. 22, 206</i>.<p><b>Étym</b>. Ἀφαρεύς.`

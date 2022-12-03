@@ -1,1 +1,0 @@
-lar[43799]=`<b>εὔ·χειρ</b>, <i>gén</i>. <b>-χειρος (ὁ, ἡ)</b> dont la main est adroite, PD. <i>O. 9, 119</i> ; SOPH. <i>O.C. 472 ; p. anal. en parl. de l’intelligence,</i> qui a de la dextérité, souple, habile, HPC. <i>Art. 799</i>.<p><b>Étym</b>. εὖ, χείρ.`

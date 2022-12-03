@@ -1,1 +1,0 @@
-lar[26821]=`<i>p</i>. δι' ὅπερ, <i>conj.</i> :<br><b>      1</b> c’est pourquoi, THC. <i>1, 71 ; 8, 92, etc.</i> ; PLUT. <i>M. 115b, etc.</i> ; CIA. <i>2, 240b, 17 (307 av. J.-C.)</i>.<br><b>      2</b> parce que, XÉN. <i>Mem. 4, 8, 7</i> ; DÉM. <i>Ol. 3, 19</i>.`

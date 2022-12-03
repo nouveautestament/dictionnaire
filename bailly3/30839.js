@@ -1,1 +1,0 @@
-lar[30839]=`<b>εἰσ·όπιν</b>, <i>adv</i>., par la suite (<i>litt</i>. en vue) : εἰσ. χρόνου, ESCHL. <i>Suppl. 617,</i> dorénavant, désormais.<p><b>Étym</b>. εἰς, ὄπις.`

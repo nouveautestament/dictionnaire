@@ -1,1 +1,0 @@
-lar[108344]=`<b>ατος (τὸ)</b> coche de flèche, GAL. <i>Lex. Hipp. 19, 155</i> ; Ps.-ERATOSTH. <i>Cat. 29</i>.<p><b>Étym</b>. χηλόω.`

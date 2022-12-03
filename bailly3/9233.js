@@ -1,1 +1,0 @@
-lar[9233]=`<b>*ἀνοιστός</b>, <i>ion</i>. <b>ἀνώϊστος, η, ον</b>, au sujet de qui <i>ou</i> de quoi on en a référé à, HDT. <i>6, 66</i>.<p><b>Étym</b>. ἀνοίσω, <i>fut. de</i> ἀναφέρω.`

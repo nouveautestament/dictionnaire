@@ -1,1 +1,0 @@
-lar[46761]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> ordre des dieux, prédiction, oracle, IL. <i>1, 87, etc.</i> ; OD. <i>1, 415, etc</i>.<p><b>Étym</b>. θεοπρόπος.`

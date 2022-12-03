@@ -1,1 +1,0 @@
-lar[75218]=`<b>παν·τερπής, ής, ές</b>, tout à fait agréable <i>ou</i> qui charme tout le monde, POÈT. (PLUT. <i>M. 1104e</i>) ; OPP. <i>C. 3, 149</i>.<p><b>Étym</b>. π. τέρπω.`

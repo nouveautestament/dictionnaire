@@ -1,1 +1,0 @@
-lar[75480]=`<font color="purple">[ᾰγ]</font> <i>adv</i>., par dérivation, ATH. <i>480f ;</i> PLUT. <i>M. 316a</i>.`

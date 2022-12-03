@@ -1,1 +1,0 @@
-lar[24399]=`<b>διά·βαθρον, ου (τὸ)</b> sorte de chaussure mince et légère, ALEX. (ATH. <i>568b</i>) ; ALCIPHR. <i>3, 46</i>.`

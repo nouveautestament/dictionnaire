@@ -1,1 +1,0 @@
-lar[23128]=`<b>οῦ (ἡ)</b> Damas (<i>auj</i>. Damas <i>ou</i> Dimashq), <i>capitale de la Syrie,</i> TH. <i>H.P. 3, 15, 3</i> ; PLUT. <i>Alex. 20 ; etc</i>.`

@@ -1,1 +1,0 @@
-lar[103511]=`<b>ὑπό·μακρος, ος, ον</b>, un peu long, AR. <i>Pax 1243</i> ; ARSTT. <i>Physiogn. 3, 4, etc</i>.<p><b>Étym</b>. ὑ. μακρός.`

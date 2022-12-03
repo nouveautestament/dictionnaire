@@ -1,1 +1,0 @@
-lar[22659]=`<b>ου (ὁ) :<br>      1</b> poing, <i>d’où</i> coup de poing, PORPH.<br><b>      2</b> γ. παλαστιαῖος, paume, <i>mesure, c</i>. σπιθαμή, AQU. <i>Jud. 3, 16</i>.<br><b>      3</b> encoignure (pierre saillante d’un mur <i>ou</i> extrémité d’une poutre) APD. POL. <i>46</i>.`

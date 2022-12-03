@@ -1,1 +1,0 @@
-lar[66638]=`<b>μονο·στόρθυγξ, υγγος</b>, <i>adj. m</i>. taillé d’un seul bloc, ANTH. <i>6, 22</i>.`

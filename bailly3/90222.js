@@ -1,1 +1,0 @@
-lar[90222]=`<b>ου (ὁ)</b> = <i>lat</i>. sicarius, sicaire, assassin, JOS. <i>A.J. 20, 8, 10</i> ; NT. <i>Ap. 21, 38</i>.`

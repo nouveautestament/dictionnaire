@@ -1,1 +1,0 @@
-lar[60136]=`<b>λει·όστρακος, ος, ον</b> <font color="purple">[ᾰ]</font> à écailles lisses, ARSTT. <i>H.A. 4, 4, 6</i>.<p><b>Étym</b>. λεῖος, ὄστρακον.`

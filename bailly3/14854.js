@@ -1,1 +1,0 @@
-lar[14854]=`<b>ᾶς (ἡ)</b> <font color="purple">[μᾰ]</font> provisions, vivres, HÉS. <i>O. 558 ; 765</i> ; A.RH. <i>1, 393</i>.<p>➳ <i>Éol</i>. -ιή, THCR. <i>Idyl. 16, 35</i>.<p><b>Étym</b>. ἁρμός.`

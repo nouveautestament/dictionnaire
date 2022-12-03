@@ -1,1 +1,0 @@
-lar[16606]=`<i>adv</i>., sans figures de rhétorique, DH. <i>Rhet. 10, 11</i>.`

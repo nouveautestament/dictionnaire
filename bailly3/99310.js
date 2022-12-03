@@ -1,1 +1,0 @@
-lar[99310]=`<i>ou</i> <b>Τῖρυνς, υνθος (ἡ)</b> <font color="purple">[ῑ]</font> Tirynthe, <i>anc. v. d’Argolide,</i> IL. <i>2, 559</i> ; HÉS. <i>Sc. 81, etc.</i> ; HDT. <i>6, 77, etc.</i> ; SOPH. <i>Tr. 1152, etc</i>.`

@@ -1,1 +1,0 @@
-lar[60933]=`<b>οῦ (τὸ)</b> onguent pour les yeux, GAL. <i>13, 443</i> ; A. TR. <i>2, p. 139, 148</i>.<p><b>Étym</b>. Λιβία.`

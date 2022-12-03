@@ -1,1 +1,0 @@
-lar[38971]=`<b>ατος (τὸ)</b> <font color="purple">[ῑτ]</font> provision, approvisionnement, POLYEN <i>3, 10, 11</i>.<p><b>Étym</b>. ἐπισιτίζομαι.`

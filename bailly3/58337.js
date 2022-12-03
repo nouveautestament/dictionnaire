@@ -1,1 +1,0 @@
-lar[58337]=`<b>κυαν·έμβολος, ος, ον</b> <font color="purple">[ᾰ]</font> à l’éperon noir <i>ou</i> d’un bleu sombre, EUR. <i>El. 436</i> ; AR. <i>Eq. 554, Ran. 1318</i>.<p><b>Étym</b>. κυανός², ἔμβολος.`

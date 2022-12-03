@@ -1,1 +1,0 @@
-lar[87432]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite compresse, P. ÉG. <i>102 Briau</i>.<p><b>Étym</b>. <i>dim. de</i> πτύγμα.`

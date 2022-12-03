@@ -1,1 +1,0 @@
-lar[57625]=`<b>κρατερό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> au cœur ferme, courageux, IL. <i>10, 184, etc.</i> ; OD. <i>11, 299</i> ; HÉS. <i>O. 146 (var</i>. καρτερόφρων), <i>etc</i>.<p><b>Étym</b>. κρ. φρήν.`

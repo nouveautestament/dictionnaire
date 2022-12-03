@@ -1,1 +1,0 @@
-lar[21322]=`<b>γαμμο·ειδής, ής, ές</b>, semblable à un gamma, en forme de gamma, P. ÉG. <i>198, 46</i> ; ANTYLL. (ORIB. <i>p. 21 Mai).</i><p><b>Étym</b>. γάμμα, εἶδος.`

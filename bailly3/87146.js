@@ -1,1 +1,0 @@
-lar[87146]=`<font color="purple">[ᾱ]</font> être pilote en second, AR. <i>Eq. 543</i> ; DÉMAD. (PLUT. <i>Cleom. 27</i>) ; ALCIPHR. <i>2, 4 fin</i>.<p><b>Étym</b>. πρῳράτης.`

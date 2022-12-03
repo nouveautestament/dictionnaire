@@ -1,1 +1,0 @@
-lar[43274]=`<i>adv.</i> :<br><b>      1</b> d’une façon bien rythmée, ISOCR. <i>294b.</i><br><b>      2</b> <i>p. suite,</i> avec harmonie, avec grâce, EUR. <i>Cycl. 563</i> ; PLAT. COM. <i>5-1, 44 Mein.</i><br><b>      3</b> habilement, délicatement, <i>en parl. d’opérations chirurgicales,</i> HPC. <i>Off. 742</i>.`

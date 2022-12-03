@@ -1,1 +1,0 @@
-lar[85642]=`<b>προσ·επεῖπον</b>, <i>d’où inf</i>. προσεπειπεῖν, ajouter à ce qu’on a dit, POL. <i>4, 85, 2</i> ; PLUT. <i>Cæs. 14, etc</i>.`

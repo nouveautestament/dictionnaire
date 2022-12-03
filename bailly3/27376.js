@@ -1,1 +1,0 @@
-lar[27376]=`<b>δοκησί·σοφος, ος, ον</b> <font color="purple">[ῐ]</font> qui se croit sage <i>ou</i> habile, AR. <i>Pax 44</i> ; CLÉM. <i>Str. 1, 313, 314</i> ; PHIL. <i>1, 605, etc</i>.<p><b>Étym</b>. δόκησις, σοφός.`

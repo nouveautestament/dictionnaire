@@ -1,1 +1,0 @@
-lar[11954]=`<b>ἀ·πίεστος, ος, ον</b>, incompressible, ARSTT. <i>Meteor. 4, 8, 5, etc</i>.<p><b>Étym</b>. ἀ, πιέζω.`

@@ -1,1 +1,0 @@
-lar[69293]=`<i>au moy</i>. <b>νωθρεύομαι</b>, être engourdi, indolent, HPC. <i>118f ;</i> HYPÉR. (POLL. <i>9, 137) ; en parl. de tumeurs,</i> HPC. <i>125e</i>.<p><b>Étym</b>. νωθρός.`

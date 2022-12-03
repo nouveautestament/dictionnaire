@@ -1,1 +1,0 @@
-lar[97196]=`<b>σωματο·φυής, ής, ές</b> <font color="purple">[ᾰ]</font> de nature corporelle, GAL. <i>19, 238, 7</i>.<p><b>Étym</b>. σῶμα, φύω.`

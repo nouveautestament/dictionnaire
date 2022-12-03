@@ -1,1 +1,0 @@
-lar[96009]=`<b>εως (ἡ) :<br>      1</b> affaissement (de la terre, ARSTT. <i>Mund. 4, 30</i> ; de maisons, PLUT. <i>Crass. 2, etc</i>.).<br><b>      2</b> <i>t. de gr</i>. synizèse, <i>prononciation de deux voyelles en une seule syllabe, comme</i> εω <i>dans</i> Πηληϊάδεω, GRAMM.<p><b>Étym</b>. συνίζω.`

@@ -1,1 +1,0 @@
-lar[72068]=`<b>ὀξύ·γαλα, ακτος (τὸ)</b> <font color="purple">[ῠγᾰ]</font><br><b>      1</b> lait aigri, petit-lait, CTÉS. <i>Ind. § 22</i> ; PLUT. <i>Artax. 3</i>.<br><b>      2</b> fromage de lait caillé, STR. <i>311</i> ; GAL. π. τρ. δυν. <i>3, 16</i>.<p><b>Étym</b>. ὀ. γάλα.`

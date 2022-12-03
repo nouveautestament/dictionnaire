@@ -1,1 +1,0 @@
-lar[89899]=`<b>ας (ἡ)</b> = <i>lat</i>. Sĕvēra, <i>n. de f. rom., ANTH</i>. 15.4 et 8.`

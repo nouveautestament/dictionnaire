@@ -1,1 +1,0 @@
-lar[28779]=`<b>δυσ·πάτητος, ος, ον</b> <font color="purple">[ᾰ]</font> où l’on marche difficilement, difficile (route) LUC. <i>Trag. 226</i>.<p><b>Étym</b>. δ. πατέω.`

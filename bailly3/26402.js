@@ -1,1 +1,0 @@
-lar[26402]=`<b>διθυραμβέω-ῶ</b> <font color="purple">[ῑῠ]</font> chanter un dithyrambe, ATH. <i>628a</i>.<p><b>Étym</b>. διθύραμβος.`

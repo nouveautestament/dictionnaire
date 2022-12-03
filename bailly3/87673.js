@@ -1,1 +1,0 @@
-lar[87673]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Pylæos, <i>chef des Pélasges,</i> IL. <i>2, 842</i>.`

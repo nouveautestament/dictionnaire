@@ -1,1 +1,0 @@
-lar[109672]=`<b>ψευδό·δειπνον, ου (τὸ)</b> faux repas, repas pour tromper la faim, ESCHL. <i>fr. 251</i>.<p><b>Étym</b>. ψ. δεῖπνον.`

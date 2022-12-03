@@ -1,1 +1,0 @@
-lar[22228]=`<b>ου (τὸ) :<br>      1</b> boîte <i>ou</i> étui pour les anches de l’aulos, LYSIPP. (POLL. <i>10, 153, att</i>. γλωττο-).<br><b>      2</b> sorte de gaîne <i>ou</i> de fourreau pour maintenir les membres fracturés, GAL. <i>3, 573, etc.</i><br><b>      3</b> organes de la femme, EUB. (EM. <i>235, 46).</i><p><b>Étym</b>. γλωσσόκομον.`

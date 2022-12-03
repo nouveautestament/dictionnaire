@@ -1,1 +1,0 @@
-lar[54628]=`<b>ας (ἡ)</b> protectrice des routes <i>ou</i> des voyages, <i>ép. d’Athèna,</i> PAUS. <i>3, 12, 4</i>.<p><b>Étym</b>. κέλευθος.`

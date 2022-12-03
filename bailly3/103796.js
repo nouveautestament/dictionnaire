@@ -1,1 +1,0 @@
-lar[103796]=`<b>ὑπό·σαθρος, ος, ον</b> <font color="purple">[ᾰ]</font> pourri, vermoulu, LUC. <i>D. mort. 10, 1 ; d’où</i> flasque, mou, LUC. <i>Cal. 19, Fug. 32</i> ; POLÉM. <i>Physiogn. 1, 12</i>.<p><b>Étym</b>. ὑ. σαθρός.`

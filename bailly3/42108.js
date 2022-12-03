@@ -1,1 +1,0 @@
-lar[42108]=`<i>adv</i>., docilement, POL. <i>27, 6, 7</i> ; LUC. <i>Luct. 10</i>.`

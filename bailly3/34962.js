@@ -1,1 +1,0 @@
-lar[34962]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec esprit d’opposition, obstinément, opiniâtrement, HERMOG. <i>Rhet. 120, 18</i>.`

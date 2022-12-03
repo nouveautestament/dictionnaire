@@ -1,1 +1,0 @@
-lar[48383]=`<font color="purple">[ῐ]</font> de l’Ida, IL. <i>3, 276, etc.</i> ; Q. SM. <i>2, 489</i>.<p><b>Étym</b>. Ἴδη, -θεν.`

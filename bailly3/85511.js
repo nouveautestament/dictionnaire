@@ -1,1 +1,0 @@
-lar[85511]=`<b>προσ·εισφέρω</b> <font color="darkgreen">(<i>ao</i>. -εισήνεγκα, <i>etc</i>.)</font> contribuer en outre, ATH. <i>149f ;</i> LGN <i>15, 9</i>.`

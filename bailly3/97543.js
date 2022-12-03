@@ -1,1 +1,0 @@
-lar[97543]=`<b>τανυ·έθειρα, ας</b> <font color="purple">[τᾰ]</font> <i>adj. f</i>. à la longue chevelure, PD. <i>O. 2, 26</i>.<p><b>Étym</b>. τανυ-, ἔθειρα.`

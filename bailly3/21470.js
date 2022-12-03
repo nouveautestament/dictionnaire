@@ -1,1 +1,0 @@
-lar[21470]=`<b>ητος (ἡ)</b> fierté, orgueil, PLUT. <i>Marc. 6 ; en parl. d’un cheval,</i> PLUT. <i>Pel. 22</i>.<p><b>Étym</b>. γαῦρος.`

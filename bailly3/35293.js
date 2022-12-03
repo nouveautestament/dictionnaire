@@ -1,1 +1,0 @@
-lar[35293]=`<b>ἐξ·αερόω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> changer en air, en vapeur, vaporiser, ARSTT. <i>Probl. 25, 8, 5</i> ; TH. <i>C.P. 1, 22, 5</i> ; LUC. <i>Per. 30 ; d’où au pass</i>. s’évaporer, HPC. <i>244, 47</i> ; ARSTT. <i>Probl. 23, 16 ; 26, 31</i>.<br><b>      2</b> aérer, HPC. <i>244, 47</i> ; ARSTT. <i>Probl. 23, 16</i>.`

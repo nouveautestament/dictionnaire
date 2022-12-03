@@ -1,1 +1,0 @@
-lar[54675]=`<b>κέν·ανδρος, ος, ον</b>, privé d’hommes, dépeuplé, ESCHL. <i>Pers. 117</i> ; SOPH. <i>O.C. 917</i>.<p><b>Étym</b>. κενός, ἀνήρ.`

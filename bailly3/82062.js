@@ -1,1 +1,0 @@
-lar[82062]=`<b>πολύ·λαλος, ος, ον</b> <font color="purple">[ῠᾰ]</font> grand parleur, bavard, babillard, SYMM. <i>Job 11, 2</i>.<p><b>Étym</b>. π. λαλέω.`

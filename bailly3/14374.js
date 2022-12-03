@@ -1,1 +1,0 @@
-lar[14374]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> vase d’argent, COM. (ATH. <i>231a</i>) ; POL. <i>5, 2, 10, etc</i>.<p><b>Étym</b>. ἀργυρόω.`

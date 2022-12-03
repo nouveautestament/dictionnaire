@@ -1,1 +1,0 @@
-lar[89935]=`<b>ου</b>, <i>adj. m</i>. qui donne des signes, des présages, <i>ép. de Zeus,</i> PAUS. <i>1, 32, 2</i>.<p><b>Étym</b>. σῆμα.`

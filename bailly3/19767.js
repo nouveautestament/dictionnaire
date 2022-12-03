@@ -1,1 +1,0 @@
-lar[19767]=`<b>βιο·μήχανος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se procure des moyens d’existence, industrieux, ARSTT. <i>H.A. 9, 15, 3</i>.<p><b>Étym</b>. β. μηχανή.`

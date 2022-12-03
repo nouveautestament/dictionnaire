@@ -1,1 +1,0 @@
-lar[13788]=`<b>ἀπό·χειρος, ος, ον</b>, qui n’est pas sous la main, non préparé, POL. <i>23, 14, 8</i>.<p><b>Étym</b>. ἀ. χείρ.`

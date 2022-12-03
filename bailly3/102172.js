@@ -1,1 +1,0 @@
-lar[102172]=`<b>ὑπ·εμφαίνω</b>, indiquer à mots couverts, laisser entendre, GAL. <i>19, 556</i> ; SEXT. <i>M. 1, 4</i>.`

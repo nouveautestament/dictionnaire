@@ -1,1 +1,0 @@
-lar[58347]=`<b>κυανο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> d’un bleu sombre, noirâtre, EUR. <i>Hel. 179</i> ; ARSTT. <i>G.A. 5, 1</i>.<p><b>Étym</b>. κ. εἶδος.`

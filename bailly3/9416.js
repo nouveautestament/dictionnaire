@@ -1,1 +1,0 @@
-lar[9416]=`<b>ἀντ·αιτιάομαι-ῶμαι</b>, accuser à son tour, DC. <i>Exc. p. 72, etc</i>.`

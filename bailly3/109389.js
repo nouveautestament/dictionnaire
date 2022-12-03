@@ -1,1 +1,0 @@
-lar[109389]=`<b>χυτρο·ειδής, ής, ές</b>, qui ressemble à un vase de terre, SCH.-THCR. <i>5, 58</i>.<p><b>Étym</b>. χύτρα, εἶδος.`

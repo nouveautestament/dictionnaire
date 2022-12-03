@@ -1,1 +1,0 @@
-lar[64100]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> mélisse, <i>plante,</i> THCR. <i>Idyl. 4, 25</i>.<p><b>Étym</b>. μέλι.`

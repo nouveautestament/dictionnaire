@@ -1,1 +1,0 @@
-lar[21148]=`<b>Γαδειρίδες πύλαι (αἱ)</b> les portes de Gadeires, <i>càd</i>. les Colonnes d’Hercule, STR. <i>170, 172</i>.<p><b>Étym</b>. Γάδειρα.`

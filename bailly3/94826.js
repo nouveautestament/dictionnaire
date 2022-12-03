@@ -1,1 +1,0 @@
-lar[94826]=`<i>anc. att</i>. <b>ξυνάορος, ος, ον</b> <font color="purple">[ᾱ]</font> uni à, qui accompagne, <i>dat</i>. OD. <i>8, 99 (ion</i>. -ήορος) ; PD. <i>N. 4, 9 ; subst</i>. ὁ ξ. époux, EUR. <i>Or. 1136</i> ; ἡ ξ. épouse, EUR. <i>Or. 654, etc. ; avec le gén</i>. APOLLIN. <i>Ps. 118, 14</i>.<p><b>Étym</b>. συναείρω.`

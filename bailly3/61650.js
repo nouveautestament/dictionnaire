@@ -1,1 +1,0 @@
-lar[61650]=`<b>ου (τὸ)</b> = <i>lat</i>. Lugdunum (<i>auj</i>. Lyon) <i>v. de Gaule,</i> STR. <i>177, etc</i>.<p><b>Étym</b>. <i>cf</i>. Λούγδουνος.`

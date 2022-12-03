@@ -1,1 +1,0 @@
-lar[19502]=`<b>ίδος (ἡ)</b> petite aiguille, HERMIPP. (POLL. <i>10, 136).</i><p><b>Étym</b>. <i>dim. de</i> βελόνη.`

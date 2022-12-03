@@ -1,1 +1,0 @@
-lar[80002]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> rue, <i>plante à feuilles grasses,</i> AR. <i>Vesp. 480</i> ; TH. <i>H.P. 1, 3, 4</i> ; DIOSC. <i>3, 52, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

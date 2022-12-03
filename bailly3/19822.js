@@ -1,1 +1,0 @@
-lar[19822]=`<b>ωνος (ὁ)</b> Biton, <i>h</i>. HDT. <i>1, 31</i> ; XÉN. POL. PLUT. <i>Luc. etc</i>.`

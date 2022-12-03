@@ -1,1 +1,0 @@
-lar[13305]=`<b>*ἀπο·σκέλλω</b>, dessécher, <i>seul. au sens intr</i>. se dessécher, <i>aux temps suiv. (ao.2</i> ἀπέσκλην, AR. <i>Vesp. 160 ; pf</i>. ἀπέσκληκα, LUC. <i>D. mort. 27, 7, et fut. moy. 2 sg</i>. ἀποσκλήσῃ, ANTH. <i>11, 37</i>).`

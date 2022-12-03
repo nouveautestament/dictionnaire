@@ -1,1 +1,0 @@
-lar[32077]=`<b>ἐκ·σχεδιάζω</b>, esquisser, ébaucher, HIM. <i>11, p. 570 Dübn</i>.`

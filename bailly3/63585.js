@@ -1,1 +1,0 @@
-lar[63585]=`<b>μεθ·έορτος, ος, ον</b>, qui vient après la fête, ANT. (POLL. <i>1, 34</i>) ; PLUT. <i>M. 1095a</i>.<p><b>Étym</b>. μετά, ἑορτή.`

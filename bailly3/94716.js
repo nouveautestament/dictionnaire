@@ -1,1 +1,0 @@
-lar[94716]=`<b>συν·ανακοινολογέομαι-οῦμαι</b>, se consulter avec, délibérer ensemble, DIN. <i>93, 40 dout</i>.`

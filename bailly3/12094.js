@@ -1,1 +1,0 @@
-lar[12094]=`<b>ἄ·πλυτος, ος, ον</b> <font color="purple">[ῠ]</font> non lavé, COM. (ATH. <i>56e</i>) ; AR. <i>Vesp. 1035, Pax 757</i> ; ARSTT. <i>H.A. 5, 16, etc</i>.<p><b>Étym</b>. ἀ, πλύνω.`

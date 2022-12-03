@@ -1,1 +1,0 @@
-lar[49996]=`<i>interj. cri de douleur,</i> hélas! GRAMM.<p><b>Étym</b>. <i>Onomatopée</i>.`

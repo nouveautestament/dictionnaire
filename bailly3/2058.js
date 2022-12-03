@@ -1,1 +1,0 @@
-lar[2058]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui concerne les luttes <i>ou</i> les lutteurs, d’athlète, ARSTT. <i>Pol. 8, 8, 3</i> ; PLUT. <i>M. 724f</i>.`

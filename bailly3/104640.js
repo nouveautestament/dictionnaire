@@ -1,1 +1,0 @@
-lar[104640]=`<b>ου (ὁ)</b> Phædros (Phèdre) <i>h</i>. ESCHN. <i>6, 41, etc. ; particul. ami de Socrate et dont le nom sert de titre à un des dialogues de Platon</i>.<p><b>Étym</b>. <i>v</i>. φαιδρός.`

@@ -1,1 +1,0 @@
-lar[13486]=`<b>ἀπο·συνεργέω-ῶ</b>, ne pas coopérer, <i>d’où</i> s’opposer à, SEXT. <i>1, 212</i> ; PTOL. <i>Tetr. 1, p. 3</i>.`

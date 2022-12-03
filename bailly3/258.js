@@ -1,1 +1,0 @@
-lar[258]=`<b>ας (ἡ)</b> Agathokleia, <i>f</i>. PLUT. <i>Cleom. 33</i>.<p><b>Étym</b>. <i>v</i>. Ἀγαθοκλῆς.`

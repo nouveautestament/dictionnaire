@@ -1,1 +1,0 @@
-lar[29582]=`<b>ἐγ·κατατρίβω</b> <font color="purple">[ῑ]</font> (<i>pf. pass. part</i>. -τετριμμένον) user dans, <i>d’où au moy</i>. s’user à, s’exercer à, <i>dat</i>. SYN. <i>Ep. 121</i>.<p><b>Étym</b>. ἐν, κ.`

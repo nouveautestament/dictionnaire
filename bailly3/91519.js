@@ -1,1 +1,0 @@
-lar[91519]=`<i>surn. de Typhon,</i> PLUT. <i>Is. et Os. 62</i>.`

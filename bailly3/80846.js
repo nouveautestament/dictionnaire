@@ -1,1 +1,0 @@
-lar[80846]=`<b>Πλειστό·λας, α (ὁ)</b> <font color="purple">[ᾱ]</font> Pleistolas, <i>n. d’h</i>. THC. <i>5, 19, etc.</i> ; XÉN. <i>Hell. 2, 3, 10</i>.<p><b>Étym</b>. πλ. λαός.`

@@ -1,1 +1,0 @@
-lar[19554]=`dire des hâbleries impudentes à la façon du poète (comique Antiphane, originaire) de Bergè, E. BYZ.<p><b>Étym</b>. βέργη.`

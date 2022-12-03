@@ -1,1 +1,0 @@
-lar[33504]=`<b>εως (ἡ)</b> action de remplir, HÉRODOTUS (ORIB. <i>1, 428 B.-Dar</i>.).<p><b>Étym</b>. ἐν, πληρόω.`

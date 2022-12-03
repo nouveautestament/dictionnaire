@@ -1,1 +1,0 @@
-lar[92861]=`<b>Στρατο·νίκη, ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> Stratonikè (Stratonice) HÉS. <i>fr. 70 Göttling</i> ; THC. <i>2, 101</i> ; AR. <i>Th. 807</i> ; PLUT. <i>Demetr. 2, etc</i>.<p><b>Étym</b>. στρ. νίκη.`

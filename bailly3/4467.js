@@ -1,1 +1,0 @@
-lar[4467]=`<b>ἀ·λιθοκόλλητος, ος, ον</b> <font color="purple">[ῐ]</font> sans pierres jointes ensemble, ORIB. <i>p. 234 Matthäi</i>.`

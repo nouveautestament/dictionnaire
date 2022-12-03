@@ -1,1 +1,0 @@
-lar[64123]=`<b>μελιτόω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> enduire de miel, emmieller, THC. <i>4, 26</i>.<br><b>      2</b> remplir de miel, PLUT. <i>M. 628c</i>.<p><b>Étym</b>. μέλι.`

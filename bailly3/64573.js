@@ -1,1 +1,0 @@
-lar[64573]=`<b>μεσο·τείχιον, ου (τὸ)</b> espace entre le mur et les retranchements d’un camp, APP. <i>Hann. 7, 29, 37</i>.<p><b>Étym</b>. μ. τεῖχος.`

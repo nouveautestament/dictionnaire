@@ -1,1 +1,0 @@
-lar[48289]=`<b>ἰασπ·όνυξ, υχος (ὁ)</b> <font color="purple">[ῠχ]</font> onyx jaspé, <i>pierre précieuse,</i> PLIN. <i>H.N. 37, 9</i>.<p><b>Étym</b>. ἴασπις, ὄνυξ.`

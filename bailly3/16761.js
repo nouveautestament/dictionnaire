@@ -1,1 +1,0 @@
-lar[16761]=`<font color="purple">[ᾰ]</font> ou <font color="purple">[ᾱ]</font> <i>v</i>. ἕτερος <i>fin</i>.`

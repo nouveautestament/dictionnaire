@@ -1,1 +1,0 @@
-lar[18594]=`<b>ας (ἡ) :<br>      1</b> véracité, sincérité, PLAT. <i>Rsp. 485c.</i><br><b>      2</b> certitude, ARSTT. <i>Mund. 5, 9</i>.<p><b>Étym</b>. ἀψευδής.`

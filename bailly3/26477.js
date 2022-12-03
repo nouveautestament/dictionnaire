@@ -1,1 +1,0 @@
-lar[26477]=`oiseau <i>appelé</i> δίκαιρον, <i>par les Indiens,</i> EL. <i>N.A. 4, 41</i>.`

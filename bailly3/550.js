@@ -1,1 +1,0 @@
-lar[550]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> fils <i>ou</i> descendant d’Agènôr, A.RH. <i>2, 178, etc.</i> ; οἱ Ἀγηνορίδαι, les Thébains, EUR. <i>Ph. 217</i>.<p><b>Étym</b>. Ἀγήνωρ.`

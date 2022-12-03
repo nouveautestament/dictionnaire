@@ -1,1 +1,0 @@
-lar[36187]=`<b>ος, ον</b>, banni, DÉM. <i>548, 27</i> : ἐκ τῆς γῆς, POL. <i>2, 7, 10</i> ; πόλεως, DIN. <i>100, 11,</i> du territoire, de la ville.<p><b>Étym</b>. ἐξορίζω.`

@@ -1,1 +1,0 @@
-lar[76220]=`<b>παρ·ασπαίρω</b>, palpiter en outre, NAZ. <i>3, 1583 Migne</i>.`

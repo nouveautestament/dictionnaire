@@ -1,1 +1,0 @@
-lar[96710]=`<font color="darkgreen">(<i>seul. 3 pl. impf. épq</i>. συνεστρατόωντο)</font> <font color="purple">[ᾰ]</font> <i>c</i>. συστρατεύω, NONN. <i>D. 17, 138</i>.`

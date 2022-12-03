@@ -1,1 +1,0 @@
-lar[58422]=`<b>κυβο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> en forme de cube, STR. <i>738</i>.<p><b>Étym</b>. κύβος, εἶδος.`

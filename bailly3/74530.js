@@ -1,1 +1,0 @@
-lar[74530]=`<b>παλίμ·πισσα, ης (ἡ)</b> <font color="purple">[ᾰλ]</font> poix recuite, DIOSC. <i>1, 97</i>.<p><b>Étym</b>. π. πίσσα.`

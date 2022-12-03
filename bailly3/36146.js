@@ -1,1 +1,0 @@
-lar[36146]=`<b>ή, όν</b>, outrageant, injurieux, M. ANT. <i>1, 16</i>.<p><b>Étym</b>. ἐξονειδίζω.`

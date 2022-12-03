@@ -1,1 +1,0 @@
-lar[63901]=`<b>μελάν·ουρος, ος, ον</b> <font color="purple">[ᾰ]</font> à queue noire : ὁ μ. :<br><b>      1</b> sorte de bogue, <i>poisson de mer,</i> EPICH. <i>fr. 44 Ahrens</i> ; ARSTT. <i>H.A. 8, 2</i>.<br><b>      2</b> sorte de serpent venimeux, EL. <i>N.A. 6, 51</i>.`

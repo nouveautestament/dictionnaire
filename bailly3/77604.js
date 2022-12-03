@@ -1,1 +1,0 @@
-lar[77604]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> <i>pass</i>. obéissant, docile à, <i>dat</i>. ANTH. <i>2, 12 ; gén</i>. NONN. <i>Jo. 4, 15</i>.<br><b>      2</b> <i>act</i>. qui persuade, TRIPHIOD. <i>455</i>.<p><b>Étym</b>. πείθω.`

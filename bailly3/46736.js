@@ -1,1 +1,0 @@
-lar[46736]=`<b>θεο·πέρατος, ος, ον</b> <font color="purple">[ᾱ]</font> envoyé par les dieux, POÈT. (D. PHAL. <i>91</i>) (θ. περάω ; <i>sel. d’autres</i> θεοτέρατος, accompagné de prodiges divins).<p><b>Étym</b>. θ. τέρας.`

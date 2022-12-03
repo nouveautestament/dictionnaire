@@ -1,1 +1,0 @@
-lar[85346]=`<b>α, ον</b>, <i>vb. de</i> προσβλέπω JUL. <i>fragmentum epilolæ, 297a</i>.`

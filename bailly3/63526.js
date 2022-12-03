@@ -1,1 +1,0 @@
-lar[63526]=`<b>(ἡ)</b> Mégilla, <i>f</i>. LUC. <i>D. mer. 5</i>.`

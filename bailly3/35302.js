@@ -1,1 +1,0 @@
-lar[35302]=`<b>ἔξ·αθλος, ος, ον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> qui a fini son temps de campagne <i>ou</i> de service, LUC. <i>Lex. 11</i>.<br><b>      2</b> incapable de combattre davantage, CLÉM. <i>2, 645b Migne</i>.<p><b>Étym</b>. ἐξ, ἆθλον.`

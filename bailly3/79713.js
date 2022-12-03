@@ -1,1 +1,0 @@
-lar[79713]=`<b>περι·ωδυνής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. περιώδυνος, HÉRODOTUS (ORIB. <i>2, 388 B.-Dar</i>.).`

@@ -1,1 +1,0 @@
-lar[81167]=`<b>ῶν (αἱ)</b> les îles flottantes :<br><b>      1</b> <i>c</i>. Στροφάδες, A.RH. <i>2, 297, etc.</i><br><b>      2</b> <i>c</i>. Πλαγκταί, DP. <i>465, etc</i>.<p><b>Étym</b>. πλώω.`

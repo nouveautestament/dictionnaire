@@ -1,1 +1,0 @@
-lar[19242]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> pierre de touche, THÉM. <i>248a.</i><br><b>      2</b> chambre de torture, THPP. COM. (EM. <i>411, 36</i>) ; POLYEN <i>8, 62</i>.<p><b>Étym</b>. βασανίζω.`

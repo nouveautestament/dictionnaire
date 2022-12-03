@@ -1,1 +1,0 @@
-lar[83698]=`<b>προ·απόφημι</b>, nier auparavant <i>ou</i> d’abord, ARSTT. <i>Soph. el. 19, 2</i>.`

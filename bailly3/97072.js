@@ -1,1 +1,0 @@
-lar[97072]=`<b>έως (ὁ)</b> Skhœnée :<br><b>      1</b> <i>h</i>. NONN. <i>D. 9, 314</i>.<br><b>      2</b> <i>fl. de Béotie, près de Skhœnos,</i> NIC. <i>Th. 888</i>.<p><b>Étym</b>. <i>cf</i>. Σχοῖνος.`

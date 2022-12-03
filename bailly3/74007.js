@@ -1,1 +1,0 @@
-lar[74007]=`<b>ὀψί·κοιτος, ος, ον</b> <font color="purple">[ῐ]</font> qui s’endort tard, ESCHL. <i>Ag. 889</i>.<p><b>Étym</b>. ὀψέ, κοίτη.`

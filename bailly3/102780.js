@@ -1,1 +1,0 @@
-lar[102780]=`<b>ὑπερ·ποτάομαι-ῶμαι</b> <font color="darkgreen">(<i>seul. impf. poét. 3 sg</i>. ὑπερποτᾶτο)</font> <i>c</i>. ὑπερπέτομαι, LYC. <i>17</i>.`

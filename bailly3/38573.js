@@ -1,1 +1,0 @@
-lar[38573]=`<b>ἐπι·ξέω</b>, gratter à la surface, <i>fig</i>. polir, HPC. <i>V.C. 908</i> ; ARÉT. <i>Cur. m. diut. 1, 2</i>.`

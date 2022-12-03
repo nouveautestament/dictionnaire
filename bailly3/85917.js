@@ -1,1 +1,0 @@
-lar[85917]=`<b>πρόσ·καιρος, ος, ον :<br>      1</b> temporaire, momentané, DH. <i>Rhet. 7, 4 et 6</i> ; NT. <i>2Cor. 4, 18</i>.<br><b>      2</b> passager, rapide, court, PLUT. <i>Pel. 15</i> ; LUC. <i>Dem. enc. 31</i> ; DC. <i>Exc. p. 63, 10</i>.<p><b>Étym</b>. π. καιρός.`

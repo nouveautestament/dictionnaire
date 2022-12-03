@@ -1,1 +1,0 @@
-lar[105992]=`<b>φιλο·πενθής, ής, ές</b> <font color="purple">[ῐ]</font> qui se complaît dans sa douleur, qui s’attriste volontiers, GORG. <i>Hel. p. 95</i> ; PLUT. <i>M. 113a, etc.</i> ; τὸ φιλοπενθές, PLUT. <i>M. 822b</i>, penchant à la tristesse.<p><b>Étym</b>. φ. πένθος.`

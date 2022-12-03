@@ -1,1 +1,0 @@
-lar[102404]=`<b>ὑπερ·εγγυάω-ῶ</b>, exiger une énorme caution, PHIL. <i>2, 311</i>.`

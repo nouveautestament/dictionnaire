@@ -1,1 +1,0 @@
-lar[49731]=`<b>ή, όν</b> <font color="purple">[ῑ̆σ]</font> relatif à l’équilibre, ARCHIM. <i>p. 104, etc</i>.<p><b>Étym</b>. ἰσόρροπος.`

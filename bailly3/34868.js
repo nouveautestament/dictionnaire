@@ -1,1 +1,0 @@
-lar[34868]=`<b>ἐν·όρχης, ου</b>, <i>adj. m</i>. honoré par des danses (Bacchus) LYC. <i>212</i>.<p><b>Étym</b>. ἐνορχέομαι.`

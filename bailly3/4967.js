@@ -1,1 +1,0 @@
-lar[4967]=`<b>ιος (ὁ)</b> Alpis (<i>auj</i>. Inn) <i>affl. de l’Ister,</i> HDT. <i>4, 49</i>.`

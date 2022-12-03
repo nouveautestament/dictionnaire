@@ -1,1 +1,0 @@
-lar[35417]=`<b>ἐξ·αμβλύνω</b> <font color="purple">[ῡ]</font> émousser vivement, affaiblir, DIOSC. <i>1, 88 ; au pass</i>. être émoussé, PLUT. <i>Fab. 23</i>.`

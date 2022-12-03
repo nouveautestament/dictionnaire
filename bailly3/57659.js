@@ -1,1 +1,0 @@
-lar[57659]=`<b>ου (ὁ)</b> Kratistolos, <i>h</i>. PLAT. <i>Ep. 310c</i>.`

@@ -1,1 +1,0 @@
-lar[61658]=`<i>ou</i> <b>Λουκερνήνσης (οἱ)</b> les Lucernenses, <i>une des trois anc. tribus de Rome,</i> PLUT. <i>Rom. 21</i>.`

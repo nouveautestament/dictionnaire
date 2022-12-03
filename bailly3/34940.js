@@ -1,1 +1,0 @@
-lar[34940]=`<b>ἐν·σκοπέομαι-οῦμαι</b>, examiner attentivement : περί τινος, HLD. <i>8, 10,</i> qqe ch.`

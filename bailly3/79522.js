@@ -1,1 +1,0 @@
-lar[79522]=`<b>περι·τρίζω</b> (<i>seul. pf. au sens du prés</i>. περιτέτριγα <font color="purple">[ῑγ]</font>) pousser un cri aigu tout autour, Q. SM. <i>12, 431</i>.`

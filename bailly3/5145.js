@@ -1,1 +1,0 @@
-lar[5145]=`pour ἀν <i>(v. ce mot), de</i> ἀνά.`

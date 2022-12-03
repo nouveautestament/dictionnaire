@@ -1,1 +1,0 @@
-lar[853]=`<b>ας (ἡ)</b> Agra, <i>dème att. avec temple à Artémis</i> Ἀγραία, PLAT. <i>Phædr. 229c ;</i> PLUT. <i>Demetr. 26 ; postér. plur</i>. Ἄγραι, PLUT. <i>Herod. mal. 26</i>.<p>➳ <i>Dans les inscr. att. d’ord. au sg</i>. CIA. <i>1, 273, f. 23 (pas av. 420 av. J.-C.) ; 2, 315, 9 (282/280 av. J.-C.) ; plur. seul. sous l’empire,</i> CIA. <i>3, 319, v. Meisterh. p. 97, 22</i>.`

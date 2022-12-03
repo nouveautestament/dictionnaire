@@ -1,1 +1,0 @@
-lar[51629]=`<b>καπνιάω-ῶ :<br>      1 <i>tr.</i></b> enfumer, A.RH. <i>2, 131</i>.<br><b>      2 <i>intr.</i></b> exhaler de la fumée, fumer, PLUT. <i>M. 454</i>.<p><b>Étym</b>. καπνός.`

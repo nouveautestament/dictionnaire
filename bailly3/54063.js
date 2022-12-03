@@ -1,1 +1,0 @@
-lar[54063]=`<b>κατ·ικμαίνω</b>, humecter, mouiller, arroser, LYC. <i>1053</i> ; NONN. <i>D. 11, 508</i>.<br><b><i>Moy.</i></b> se baigner, POÈT. (SUID. <i>v°</i> τινθαλέοισι).`

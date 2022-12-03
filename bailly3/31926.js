@@ -1,1 +1,0 @@
-lar[31926]=`<b>ου (ὁ)</b> collecteur d’impôts, AQU. <i>Job 39, 7</i>.<p><b>Étym</b>. ἐκπράσσω.`

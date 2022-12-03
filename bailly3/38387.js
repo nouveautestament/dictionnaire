@@ -1,1 +1,0 @@
-lar[38387]=`<b>ἐπι·μέλας, αινα, αν</b> <font color="purple">[ᾱς, ᾰν]</font> noir en dessus <i>ou</i> noirâtre, TH. <i>H.P. 3, 8, 6</i>.`

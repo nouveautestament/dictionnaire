@@ -1,1 +1,0 @@
-lar[22885]=`<b>α, ον</b> d’angle, angulaire, DH. <i>3, 21</i> ; SPT. <i>Job 38, 6 ; fig</i>. PLAT. COM. <i>2-2, 639, 2 Mein</i>.<p><b>Étym</b>. γωνία.`

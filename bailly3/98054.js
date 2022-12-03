@@ -1,1 +1,0 @@
-lar[98054]=`<b>εως (ἡ)</b> preuve, témoignage, ARR. <i>An. 4, 7 ; 5, 4</i>.<p><b>Étym</b>. τεκμηριόω.`

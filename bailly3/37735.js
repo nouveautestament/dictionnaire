@@ -1,1 +1,0 @@
-lar[37735]=`<b>εως (ἡ) :<br>      1</b> action de lier, liaison, enchaînement, TH. <i>C.P. 2, 6, 1</i>.<br><b>      2</b> <i>t. de rhét</i>. liaison par la répétition d’un mot, HDN RH. <i>Schem. 603, 13</i> ; RHÉT. <i>8, 603 W</i>.<p><b>Étym</b>. ἐπιζεύγνυμι.`

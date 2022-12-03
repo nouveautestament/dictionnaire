@@ -1,1 +1,0 @@
-lar[91520]=`<b>ά, όν</b> <font color="purple">[ῠ]</font> misérable, A.RH. <i>2, 374, etc</i>.`

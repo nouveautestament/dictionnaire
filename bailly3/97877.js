@@ -1,1 +1,0 @@
-lar[97877]=`<b>ταχυ·βάμων</b>, <i>gén</i>. <b>ονος (ὁ, ἡ)</b> <font color="purple">[ᾰῠᾱ]</font> qui va vite, qui marche vite, ARSTT. <i>Physiogn. 6, 44</i>.<p><b>Étym</b>. τ. βαίνω.`

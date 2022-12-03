@@ -1,1 +1,0 @@
-lar[72901]=`<b>ῶν (αἱ)</b> Ornées, <i>capit. des Kynuriens dans l’Argolide,</i> THC. <i>6, 7</i> ; PLUT. <i>Thes. 32</i>.<p>➳ <i>Épq</i>. Ὀρνειαί, IL. <i>2, 571</i>.`

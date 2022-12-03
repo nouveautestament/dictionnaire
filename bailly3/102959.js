@@ -1,1 +1,0 @@
-lar[102959]=`<b>εως (ἡ)</b> action de servir, service, ARSTT. <i>Rhet. 2, 6, 13</i>.<p><b>Étym</b>. ὑπηρετέω.`

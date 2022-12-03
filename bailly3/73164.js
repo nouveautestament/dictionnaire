@@ -1,1 +1,0 @@
-lar[73164]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> petit testicule, GAL. <i>p. 488, 14</i>.<br><b>      2</b> <i>sorte de plante,</i> DIOSC. <i>4, 188</i>.<p><b>Étym</b>. <i>dim. de</i> ὄρχις.`

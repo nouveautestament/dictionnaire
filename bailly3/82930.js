@@ -1,1 +1,0 @@
-lar[82930]=`<i>adv</i>., (jouer) à combien (de fèves on a dans la main) XÉN. <i>Hipp. 5, 10 conj</i>.<p><b>Étym</b>. πόσος, -ινδα.`

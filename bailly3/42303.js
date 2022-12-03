@@ -1,1 +1,0 @@
-lar[42303]=`<b>οῦ (ὁ)</b> direction en ligne droite, PHIL. <i>1, 576</i>.<p><b>Étym</b>. εὐθύνω.`

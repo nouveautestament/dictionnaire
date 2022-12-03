@@ -1,1 +1,0 @@
-lar[3085]=`<b>ου (ὁ)</b> <font color="purple">[ᾰκᾰ]</font> de la tribu Akamantide, PLUT. <i>Per. 3</i>.<p><b>Étym</b>. Ἀκαμαντίς.`

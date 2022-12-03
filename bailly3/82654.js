@@ -1,1 +1,0 @@
-lar[82654]=`<b>πομφολυγο·πάφλασμα, ατος (τὸ)</b> <font color="purple">[ῠπᾰ]</font> bulle qui se gonfle avec bruit, AR. <i>Ran. 249</i>.<p><b>Étym</b>. πομφόλυξ, π.`

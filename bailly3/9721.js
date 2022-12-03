@@ -1,1 +1,0 @@
-lar[9721]=`<b>ἀντ·εφίστημι</b>, opposer (<i>litt</i>. dresser contre) ARSTD. <i>t. 1, 302</i>.`

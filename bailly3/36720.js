@@ -1,1 +1,0 @@
-lar[36720]=`<b>οῦ (ὁ)</b> qui redresse, corrige <i>ou</i> répare (un échec, une erreur, <i>etc</i>.) DH. <i>8, 67</i> ; DC. <i>54, 30</i>.<p><b>Étym</b>. ἐπανορθόω.`

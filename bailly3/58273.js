@@ -1,1 +1,0 @@
-lar[58273]=`<b>κτησί·βιος, ου (ὁ)</b> qui a de quoi vivre, P. ALEX. <i>Apot. 24, p. 56, l. 11 Boer</i>.<p><b>Étym</b>. κτῆσις, βίος.`

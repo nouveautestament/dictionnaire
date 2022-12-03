@@ -1,1 +1,0 @@
-lar[34106]=`<b>ου (ὁ)</b> plaignant, accusateur, demandeur, SPT. <i>2Macc. 4, 1</i> ; ŒNOM. (EUS. <i>3, 364 Migne</i>) ; PHILSTR. <i>621</i>.<p><b>Étym</b>. ἐνδείκνυμι.`

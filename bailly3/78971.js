@@ -1,1 +1,0 @@
-lar[78971]=`<b>ῆς (ἡ)</b> tour successif, alternance : ἐκ περινομῆς, DH. <i>10, 57,</i> à son tour, à la ronde.<p><b>Étym</b>. περινέμομαι.`

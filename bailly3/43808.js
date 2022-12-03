@@ -1,1 +1,0 @@
-lar[43808]=`<b>ου (ὁ)</b> Eukhidas, <i>h</i>. PLUT. <i>Arist. 20</i>.<p><b>Étym</b>. εὐχή.`

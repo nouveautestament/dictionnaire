@@ -1,1 +1,0 @@
-lar[82481]=`<b>πολύ·τροφος, ος, ον</b>, bien nourri, gras, PLUT. <i>Lyc. 17</i>.<p><b>Étym</b>. π. τρέφω.`

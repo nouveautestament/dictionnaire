@@ -1,1 +1,0 @@
-lar[84660]=`<b>ης, ες</b>, qui ressemble à un jabot d’oiseau, ARSTT. <i>P.A. 4, 5, 9</i>.<p><b>Étym</b>. πρόλοβος, -ωδης.`

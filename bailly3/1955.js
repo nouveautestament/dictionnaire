@@ -1,1 +1,0 @@
-lar[1955]=`<b>ας</b>, <i>att</i>. <b>ἀθάρη, ης (ἡ)</b> <font color="purple">[ᾰᾱ]</font> bouillie de farine <i>ou</i> de gruau, AR. <i>Pl. 673, etc</i>.<p><b>Étym</b>. <i>inconnue ; mot égypt. selon</i> PLIN. <i>H.N. 22, 121</i>.`

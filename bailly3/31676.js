@@ -1,1 +1,0 @@
-lar[31676]=`<b>ἕκ·μηνος, ος, ον</b>, de six mois, ARSTT. <i>H.A. 5, 33 ; 6, 4</i> ; τρεῖς ἕκμηνοι χρόνοι, SOPH. <i>O.R. 1136,</i> trois semestres ; <i>subst</i>. ὁ ἕ. (<i>s.-e</i>. χρόνος), PLAT. <i>Leg. 916b ;</i> DC. <i>59, 6,</i> un semestre ; ἡ ἕκμ. (<i>s.-e</i>. ἀρχή) POL. <i>6, 34, 3 ; 27, 6, 2,</i> magistrature de six mois.<p><b>Étym</b>. ἕξ, μήν.`

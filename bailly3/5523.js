@@ -1,1 +1,0 @@
-lar[5523]=`<i>adv</i>., immensément, démesurément, JOS. <i>A.J. 11, 6, 12</i> ; CHRYS. <i>5, 931</i>.`

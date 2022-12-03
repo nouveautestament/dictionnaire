@@ -1,1 +1,0 @@
-lar[16442]=`<b>ἀ·σύλωτος, ος, ον</b> <font color="purple">[ῡ]</font> où il n’y a rien à dépouiller, nu, CALL. <i>Dian. 213 dout</i>.<p><b>Étym</b>. ἀ, *συλόω <i>de</i> σῦλον.`

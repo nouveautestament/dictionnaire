@@ -1,1 +1,0 @@
-lar[33589]=`<b>ἐμ·πρήθω</b> <font color="darkgreen">(<i>impf</i>. ἐνέπρηθον, <i>f</i>. ἐμπρήσω, <i>ao</i>. ἐνέπρησα) :</font><br><b>      1</b> brûler, incendier, IL. <i>9, 589</i>.<br><b>      2</b> faire griller, <i>au pass</i>. AR. <i>Vesp. 36</i>.<p>➳ <i>Épq</i>. ἐνιπρήθω, IL. <i>15, 702</i>.<p><b>Étym</b>. ἐν, πρ.`

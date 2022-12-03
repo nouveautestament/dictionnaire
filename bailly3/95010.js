@@ -1,1 +1,0 @@
-lar[95010]=`<b>συν·ατυχέω-ῶ</b> <font color="purple">[ᾰῠ]</font> être malheureux ensemble <i>ou</i> avec : τινι, DS. <i>13, 52, etc. ; ou</i> μετά τινος, LYCURG. <i>166, 28,</i> avec qqn ; <i>abs</i>. PLUT. <i>M. 64c</i>.`

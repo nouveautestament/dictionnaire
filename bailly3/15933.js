@@ -1,1 +1,0 @@
-lar[15933]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. ἀσκίον AR. <i>Eccl. 307</i> ; POSIDON. (ATH. <i>692c</i>).`

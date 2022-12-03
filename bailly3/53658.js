@@ -1,1 +1,0 @@
-lar[53658]=`<b>*κατα·φοιτάω-ῶ</b>, <i>ion</i>. <b>κατα·φοιτέω</b>, descendre habituellement (des montagnes dans la plaine) HDT. <i>7, 125</i>.`

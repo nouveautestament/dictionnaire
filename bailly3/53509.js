@@ -1,1 +1,0 @@
-lar[53509]=`<b>εως (ἡ)</b> <font color="purple">[ᾰτχᾰ]</font> <i>c</i>. κατασχασμός, MOSCHION <i>Mul. pass. 25, p. 61, etc. Dewez</i>.`

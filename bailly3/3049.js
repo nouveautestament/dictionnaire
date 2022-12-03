@@ -1,1 +1,0 @@
-lar[3049]=`<b>η, ον</b>, <i>seul. prov</i>. <font color="blue">ὅ τι κεν ἐπ' ἀχαιρίμαν (<i>dor</i>.) γλῶσσαν ἔπος ἔλθῃ</font>, POÈT. (ATH. <i>217c</i>) ; DH. <i>Comp. p. 5</i>, toute parole qui vient à contre-temps sur la langue.<p><b>Étym</b>. ἄκαιρος.`

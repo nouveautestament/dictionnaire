@@ -1,1 +1,0 @@
-lar[24325]=`<b>ιδος (ἡ) :<br>      1</b> femme du peuple, <i>p. opp. à</i> βασίλισσα, POL. <i>23, 18, 7 ; à</i> αἱ εὐγενέσταται, DC. <i>62, 15</i>.<br><b>      2</b> femme du même dème, AR. <i>Lys. 333</i>.<p>➳ <i>Dor</i>. δαμό- <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 28, 22</i>.<p><b>Étym</b>. <i>fém. de</i> δημότης.`

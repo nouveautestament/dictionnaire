@@ -1,1 +1,0 @@
-lar[78129]=`<b>πεντηκοντα·πέλεθρος, ος, ον</b> <font color="purple">[ᾰ]</font> de cinquante arpents, <i>d’où</i> immense, NONN. <i>D. 25, 504</i>.<p><b>Étym</b>. π. πέλεθρον.`

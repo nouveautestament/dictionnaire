@@ -1,1 +1,0 @@
-lar[16206]=`<b>ἀστερο·φεγγής, ής, ές</b>, brillant d’étoiles, ORPH. <i>H. 3 et 4</i>.<p><b>Étym</b>. ἀ. φέγγος.`

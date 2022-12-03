@@ -1,1 +1,0 @@
-lar[47244]=`<b>θήρ·αρχος, ου (ὁ)</b> commandant, d’une couple <i>ou</i> demi-section d’éléphants de guerre, EL. TACT. <i>23</i>.<p><b>Étym</b>. θήρ, ἄρχω.`

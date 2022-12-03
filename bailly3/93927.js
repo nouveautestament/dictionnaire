@@ -1,1 +1,0 @@
-lar[93927]=`<b>συμ·μεθέλκω</b>, retirer <i>ou</i> ramener avec, <i>dat</i>. EUM. <i>p. 258</i>.<br><b><i>Moy.</i></b> se retirer en même temps <i>ou</i> ensemble, EUM. <i>p. 421</i>.`

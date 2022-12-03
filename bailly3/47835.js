@@ -1,1 +1,0 @@
-lar[47835]=`<b>ή, όν</b>, offert en sacrifice, ARÉT. <i>Cur. m. diut. 1, 4</i>.<p><b>Étym</b>. θύος.`

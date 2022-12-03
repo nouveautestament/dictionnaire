@@ -1,1 +1,0 @@
-lar[22867]=`<b>ῶνος</b> Gyrtôn :<br><b>      1 (ἡ)</b> <i>c</i>. Γυρτώνη A.RH. <i>1, 57</i> ; EUST. <i>ad Il. p. 527</i>.<br><b>      2 (ὁ)</b> fondateur de Gyrtôn, ORPH. <i>Arg. 146</i>.`

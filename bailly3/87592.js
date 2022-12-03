@@ -1,1 +1,0 @@
-lar[87592]=`<b>Πυθό·χρηστος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> prédit <i>ou</i> annoncé par la Pythie, ESCHL. <i>Ch. 901</i> ; EUR. <i>Ion 1218, etc.</i> ; ARSTT. <i>Pol. 7, 12, 2</i>.<br><b>      2</b> confirmé par la Pythie, XÉN. <i>Lac. 8, 5</i>.<p><b>Étym</b>. Πυθώ, χράω.`

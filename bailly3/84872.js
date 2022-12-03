@@ -1,1 +1,0 @@
-lar[84872]=`<b>πρό·οψις, εως (ἡ)</b> action de prévoir <i>ou</i> de pourvoir à : ἄνευ προόψεως, THC. <i>5, 8,</i> à l’improviste.<p><b>Étym</b>. π. ὄψομαι.`

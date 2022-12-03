@@ -1,1 +1,0 @@
-lar[94088]=`<b>συμ·παραπέμπω</b>, amener <i>ou</i> accompagner ensemble, ESCHN. <i>50, 34</i> ; PLUT. <i>Alex. 67</i> ; τὴν ὄψιν σ. τινί, PLUT. <i>Ages. 23,</i> suivre qqn du regard.`

@@ -1,1 +1,0 @@
-lar[103970]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de s’étendre au-dessous : πεδίων ὑποτάσεις, EUR. <i>Bacch. 749,</i> plaines qui s’étendent au-dessous.<br><b>      2</b> extension, HPC. <i>Fract. 764</i>.<p><b>Étym</b>. ὑποτείνω.`

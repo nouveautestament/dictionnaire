@@ -1,1 +1,0 @@
-lar[106009]=`<b>φιλό·πλουτος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les richesses, EUR. <i>I.T. 412</i> ; PLUT. <i>M. 140f ;</i> LUC. <i>Dom. 5</i> ; τὸ φιλόπλουτον, <i>c</i>. φιλοπλουτία, PLUT. <i>M. 793e</i>.<p><b>Étym</b>. φ. πλοῦτος.`

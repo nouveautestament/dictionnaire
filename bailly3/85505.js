@@ -1,1 +1,0 @@
-lar[85505]=`<b>προσ·εισάγω</b> <font color="purple">[ᾰ]</font> introduire en outre, DL. <i>9, 88</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. DÉM. <i>1128 fin</i>.<p><b>Étym</b>. <i>argum</i>.`

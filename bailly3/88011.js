@@ -1,1 +1,0 @@
-lar[88011]=`<b>πυρσ·αυγής, ής, ές</b>, qui brille comme le feu, ORPH. <i>H. 18, 1</i>.<p><b>Étym</b>. πυρσός, αὐγή.`

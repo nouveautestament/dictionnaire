@@ -1,1 +1,0 @@
-lar[56520]=`<i>gén</i>. <b>κόϊκος (ὁ) :<br>      1</b> palmier d’Égypte, TH. <i>H.P. 1, 10, 5</i>.<br><b>      2</b> objet (corbeille, panier, <i>etc</i>.) fabriqué avec les feuilles de ce palmier, EPICH. PHÉRÉCR. ANTIPH. (POLL. <i>10, 46).</i><p>➳ <i>Acc. att</i>. κόϊκα, PHÉRÉCR. <i>l. c. ; acc. dor</i>. κόϊν, EPICH.`

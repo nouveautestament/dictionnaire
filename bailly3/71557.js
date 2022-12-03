@@ -1,1 +1,0 @@
-lar[71557]=`<b>ὁμοιο·ταχῶς</b> <font color="purple">[ᾰ]</font> <i>adv</i>., avec la même vitesse, ARSTT. <i>Mund. 2, 7</i>.<p><b>Étym</b>. ὅμ. τάχος.`

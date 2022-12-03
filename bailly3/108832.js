@@ -1,1 +1,0 @@
-lar[108832]=`<b>χορο·ποιός, ός, όν :<br>      1</b> qui compose <i>ou</i> arrange un chœur de danse, SOPH. <i>Aj. 698</i> ; XÉN. <i>Ages. 2, 17</i>.<br><b>      2</b> qui conduit un chœur, une danse, SOPH. <i>Aj. 699</i> ; EUR. <i>Ph. 788</i> ; AR. <i>Ran. 353</i>.<p><b>Étym</b>. χ. ποιέω.`

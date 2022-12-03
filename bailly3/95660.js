@@ -1,1 +1,0 @@
-lar[95660]=`<b>συν·επινοέω-οῶ</b>, méditer <i>ou</i> songer en même temps, SEXT. <i>M. 8, 161 ; avec</i> πῶς, POL. <i>8, 17, 2</i>.`

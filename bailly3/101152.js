@@ -1,1 +1,0 @@
-lar[101152]=`ressembler à un Tyrrhénien, POLYEN <i>8, 8</i>.<p><b>Étym</b>. Τυρρηνός.`

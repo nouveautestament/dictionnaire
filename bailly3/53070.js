@@ -1,1 +1,0 @@
-lar[53070]=`<b>κατα·πίμπλημι</b>, <i>f</i>. καταπλήσω, remplir entièrement, combler, LYNC. (ATH. <i>132b</i>) ; τινός, PLAT. <i>Rsp. 496d ;</i> PLUT. <i>M. 171c, etc</i>. de qqe ch.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>Brut. 47</i>.`

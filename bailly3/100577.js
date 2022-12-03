@@ -1,1 +1,0 @@
-lar[100577]=`<b>Τριτωνο·μένδητες, ων (οἱ)</b> <font color="purple">[ῑ]</font> monstres moitié Tritons, moitié boucs, LUC. <i>V.H. 1, 35, 38, 39</i>.`

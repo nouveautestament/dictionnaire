@@ -1,1 +1,0 @@
-lar[518]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> rassemblement, HDT. <i>7, 5</i>.<p><b>Étym</b>. ἀγείρω.`

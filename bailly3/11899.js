@@ -1,1 +1,0 @@
-lar[11899]=`<b>ἀπ·ηλιαστής, οῦ (ὁ)</b> qui fuit les Héliastes, <i>càd</i>. les procès, <i>p. opp. à</i> φιληλιαστής, AR. <i>Av. 110</i>.<p><b>Étym</b>. ἀπό, ἡλιαστής.`

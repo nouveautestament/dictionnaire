@@ -1,1 +1,0 @@
-lar[50080]=`<b>ἰχθυσι·ληϊστήρ, ῆρος (ὁ)</b> <font color="purple">[ῠῐλ]</font> destructeur de poissons, ANTH. <i>7, 295</i> (ἰχθυο- <i>vulg</i>.).<p><b>Étym</b>. ἰ. ληΐζομαι.`

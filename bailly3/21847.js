@@ -1,1 +1,0 @@
-lar[21847]=`<b>γεφυρο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῡ]</font> = <i>lat</i>. pontifex, <i>primit</i>. constructeur de ponts, PLUT. <i>Num. 9</i>.<p><b>Étym</b>. γέφυρα, ποιέω.`

@@ -1,1 +1,0 @@
-lar[22033]=`(<i>seul. prés</i>.) faire retentir (un chant), PD. <i>fr. 64</i>.<p><b>Étym</b>. <i>Cf</i>. κλάζω.`

@@ -1,1 +1,0 @@
-lar[49272]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> propre aux courses de char, IL. <i>7, 340, 439</i>.<p><b>Étym</b>. ἱππήλατος.`

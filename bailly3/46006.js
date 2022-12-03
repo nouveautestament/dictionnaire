@@ -1,1 +1,0 @@
-lar[46006]=`<i>2 pl. impf., ou 2 pl. sbj. prés. de</i> εἰμί.`

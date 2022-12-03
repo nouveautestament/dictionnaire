@@ -1,1 +1,0 @@
-lar[2482]=`<b>αἰθρο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui s’avance dans les airs, PORPH. <i>V. Pyth. 60</i> ; JAMBL. <i>V. Pyth. 1, 28</i>.<br><b>      2</b> danseur de corde, MAN. <i>4, 278</i>.<p><b>Étym</b>. αἴθρα, βαίνω.`

@@ -1,1 +1,0 @@
-lar[48941]=`<b>ου (ὁ)</b> Ilos :<br><b>      1</b> <i>fils de Trôs et fondateur d’Ilion,</i> IL. <i>20, 232</i> ; PD. <i>N. 7, 44</i>.<br><b>      2</b> <i>fils de Dardanos,</i> IL. <i>11, 166, 372</i>.<br><b>      3</b> <i>fils de Merméros,</i> OD. <i>1, 259</i>.`

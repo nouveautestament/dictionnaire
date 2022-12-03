@@ -1,1 +1,0 @@
-lar[77806]=`<b>ατος (τὸ)</b> lividité, HPC. <i>181 fin ; 396, 31</i> ; ARSTT. <i>Probl. 9, 14</i>.<p><b>Étym</b>. πελιόω.`

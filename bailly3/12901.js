@@ -1,1 +1,0 @@
-lar[12901]=`<b>εως (ἡ)</b> action de rappeler, mention, ARSTT. <i>Top. 8, 14, 7</i> ; PLUT. <i>M. 44e</i>.<p><b>Étym</b>. ἀπομνημονεύω.`

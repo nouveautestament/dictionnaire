@@ -1,1 +1,0 @@
-lar[74978]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> sanctuaire de Pan, STR. <i>398, etc</i>.<p><b>Étym</b>. Πάν.`

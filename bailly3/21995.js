@@ -1,1 +1,0 @@
-lar[21995]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> semblable à un pépin de raisin, TH. <i>H.P. 3, 17, 6</i>.<p><b>Étym</b>. γίγαρτον, -ωδης.`

@@ -1,1 +1,0 @@
-lar[75109]=`<b>πανό·ληπτος, ος, ον</b> <font color="purple">[ᾱ]</font> pris par Pan, HERMIAS PLAT. <i>Phædr. p. 105, 7</i>.<p><b>Étym</b>. Πάν, ληπτός.`

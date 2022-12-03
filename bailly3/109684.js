@@ -1,1 +1,0 @@
-lar[109684]=`<b>ψευδο·κασία, ας (ἡ)</b> faux cannellier, <i>plante,</i> STR. <i>774</i> ; DIOSC. <i>1, 12</i>.`

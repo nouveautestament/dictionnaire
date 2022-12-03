@@ -1,1 +1,0 @@
-lar[67392]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Myrôn, <i>sculpteur célèbre,</i> ANTH. <i>9, 715, etc.</i> ; HDT. <i>6, 26</i> ; ARSTT. <i>Pol. 5, 10</i> ; PLUT. <i>Sol. 12</i>.<p>➳ <i>Dans les inscr. att. avec un seul</i> ρ : Μύρων CIA. <i>1, 411d</i> (<i>5<sup>e</sup> siècle av. J.-C.), v. Meisterh. p. 74, 11</i>.`

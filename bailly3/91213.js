@@ -1,1 +1,0 @@
-lar[91213]=`<b>σκοτο·δίνη, ης (ἡ)</b> <font color="purple">[ῐ]</font> vertige, étourdissement, ARÉT. <i>61, 55</i>.<p><b>Étym</b>. σκ. δίνη.`

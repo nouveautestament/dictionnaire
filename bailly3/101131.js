@@ -1,1 +1,0 @@
-lar[101131]=`<b>ης (ἡ)</b> Tyrodiza (<i>auj</i>. Şarköy) <i>v. de Thrace,</i> HDT. <i>7, 25</i>.`

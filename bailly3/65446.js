@@ -1,1 +1,0 @@
-lar[65446]=`<b>ιγγος (ἡ)</b> Mèninx (<i>auj</i>. Djerba, <i>avec une v</i>. Méninx) <i>î. sur la côte d’Afrique,</i> PLUT. <i>Mar. 40</i>.`

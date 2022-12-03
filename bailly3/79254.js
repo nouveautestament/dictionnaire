@@ -1,1 +1,0 @@
-lar[79254]=`<b>περι·σκάλλω</b>, sarcler autour, GEOP. <i>5, 42, 1</i>.`

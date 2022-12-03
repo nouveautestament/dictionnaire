@@ -1,1 +1,0 @@
-lar[14785]=`<i>ou</i> <b>Ἀρκαδίηθε</b> <font color="purple">[κᾰ]</font> <i>adv</i>., d’Arcadie, A.RH. <i>1, 161</i> (-θεν) ; ORPH. <i>Arg. 195</i> (-θε).<p><b>Étym</b>. Ἀρκαδίη, -θεν.`

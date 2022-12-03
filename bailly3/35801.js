@@ -1,1 +1,0 @@
-lar[35801]=`<b>ἐξ·επεύχομαι</b>, se glorifier, se vanter de, <i>inf</i>. SOPH. <i>Ph. 668</i>.`

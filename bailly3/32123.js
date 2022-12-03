@@ -1,1 +1,0 @@
-lar[32123]=`<b>ἐκ·τελείω</b> <font color="darkgreen">(<i>impf</i>. ἐξετέλειον)</font> <i>c</i>. ἐκτελέω, IL. <i>9, 493</i> ; OD. <i>4, 7</i>.`

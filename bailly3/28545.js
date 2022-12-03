@@ -1,1 +1,0 @@
-lar[28545]=`<b>δυσ·κατάθετος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> mal disposé pour, <i>avec</i> πρός <i>et l’acc</i>. JAMBL. <i>V. Pyth. p. 400</i>.<p><b>Étym</b>. δ. κατατίθημι.`

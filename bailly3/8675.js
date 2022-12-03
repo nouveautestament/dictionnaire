@@ -1,1 +1,0 @@
-lar[8675]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> aneth, faux-anis, AR. <i>Nub. 982</i> ; TH. <i>H.P. 7, 1, 2, etc.</i> ; GEOP. <i>12, 1, 2, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἄνησον <i>et</i> ἄνητον.`

@@ -1,1 +1,0 @@
-lar[96456]=`<i>anc. att</i>. <b>ξυνώμοτον ου (τὸ) :<br>      1</b> alliance jurée, confédération, ligue, THC. <i>2, 74</i>.<br><b>      2</b> conjuration, DH. <i>6, 34</i> ; DC. <i>37, 39</i>.<p><b>Étym</b>. συνόμνυμι.`

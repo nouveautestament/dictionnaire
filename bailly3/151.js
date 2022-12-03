@@ -1,1 +1,0 @@
-lar[151]=`<b>ἀ·βουλέω-ῶ</b>, ne vouloir pas, <i>inf</i>. PLAT. <i>Ep. 347a ; d’où</i> désapprouver, <i>acc</i>. DC. <i>55, 9 ; abs</i>. PLAT. <i>Rsp. 437c</i>.<p><b>Étym</b>. ἄβουλος.`

@@ -1,1 +1,0 @@
-lar[86530]=`<b>προ·συλλέγω</b>, recueillir <i>ou</i> rassembler auparavant, DC. <i>37, 33</i>.`

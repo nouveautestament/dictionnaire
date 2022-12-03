@@ -1,1 +1,0 @@
-lar[92399]=`<i>adv</i>., étroitement, SPT. ; <i>fig</i>. misérablement, DL. <i>8, 86</i>.<p><b>Étym</b>. στενός.`

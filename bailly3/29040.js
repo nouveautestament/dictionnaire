@@ -1,1 +1,0 @@
-lar[29040]=`<b>δυσ·ώλεθρος, ος, ον</b> <font color="purple">[ῠ]</font> qui meurt difficilement, vivace (plante), TH. <i>H.P. 3, 12, 5</i>.<p><b>Étym</b>. δ. ὄλεθρος.`

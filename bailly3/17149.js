@@ -1,1 +1,0 @@
-lar[17149]=`<i>adv</i>., avec autorité, d’une manière authentique, CIC. <i>Att. 9, 14 ; 10, 9</i> ; CHRYS. <i>etc</i>.`

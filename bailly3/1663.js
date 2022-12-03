@@ -1,1 +1,0 @@
-lar[1663]=`<b>η, ον</b>, inconvenant, honteux, misérable, <i>en parl. de choses, de paroles, d’actions,</i> OD. <i>9, 503 ; 14, 32, etc. ; rar. en parl. de pers</i>. IL. <i>14, 84</i> ; OD. <i>6, 242</i>.<p>➳ <i>Fém</i>. -ίῳ (κοίτῃ) OD. <i>19, 341 (var. neutre</i> -ίῳ κοίτει).<p><b>Étym</b>. ἀ, εἴκελος ; <i>cf</i>. αἰκέλιος.`

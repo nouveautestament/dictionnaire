@@ -1,1 +1,0 @@
-lar[31049]=`<b>ἑκατοντά·φυλλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à cent feuilles, TH. <i>H.P. 6, 6, 4</i>.<p><b>Étym</b>. ἑ. φύλλον.`

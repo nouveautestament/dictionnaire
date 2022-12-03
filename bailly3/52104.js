@@ -1,1 +1,0 @@
-lar[52104]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>fém. de</i> κασωρίτης E. BYZ. <i>v°</i> κασώριον.`

@@ -1,1 +1,0 @@
-lar[62660]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> Maléa :<br><b>      1</b> <i>cap de Laconie (auj</i>. Cap Malia <i>ou</i> Kávo Maliás) EUR. <i>Or. 362, etc.</i> ; THC. <i>4, 54</i>.<br><b>      2</b> <i>cap de Lesbos,</i> THC. <i>3, 4</i> ; XÉN. <i>Hell. 1, 6, 26</i>.<p>➳ <i>Ion</i>. Μαλέη, HDT. <i>4, 179. Épq</i>. Μάλεια, OD. <i>9, 80</i> ; HH. <i>Ap. 409</i>.`

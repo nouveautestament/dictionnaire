@@ -1,1 +1,0 @@
-lar[63970]=`<b>ης (ἡ)</b> sorte de vase à boire, ANAXIPP. (ATH. <i>486e</i>).`

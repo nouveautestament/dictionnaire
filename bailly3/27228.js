@@ -1,1 +1,0 @@
-lar[27228]=`<b>διχο·φωνία, ας (ἡ)</b> <font color="purple">[δῐ]</font> dissonance, désaccord, JAMBL. <i>V. Pyth. 7, 34</i>.<p><b>Étym</b>. δίχα, φωνή.`

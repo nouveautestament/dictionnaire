@@ -1,1 +1,0 @@
-lar[107487]=`<b>ας (ἡ)</b> Khærôneia (Chéronée, <i>auj</i>. Cherónia) <i>brg de Béotie,</i> THC. <i>4, 76</i> ; DÉM. <i>Or. 18, arg. 2 Baiter-Sauppe</i> ; ESCHN. <i>3, 187 Baiter-Sauppe</i> ; PLUT. <i>Cam. 19, Alex. 9, 12, etc</i>.`

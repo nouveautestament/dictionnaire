@@ -1,1 +1,0 @@
-lar[28926]=`<b>δυστοκέω-ῶ</b>, accoucher <i>ou</i> enfanter péniblement, PLAT. <i>Theæt. 149d ;</i> avoir du malheur avec ses enfants, AR. <i>Ran. 1423</i>.<p><b>Étym</b>. δύστοκος.`

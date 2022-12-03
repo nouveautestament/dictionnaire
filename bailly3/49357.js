@@ -1,1 +1,0 @@
-lar[49357]=`<b>ων (τὰ)</b> les Hippokraties = <i>lat</i>. Consulia, <i>fête chez les Arcadiens,</i> DH. <i>1, 33</i>.`

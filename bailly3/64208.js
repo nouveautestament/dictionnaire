@@ -1,1 +1,0 @@
-lar[64208]=`<i>adv</i>., longuement, RHÉT. <i>3, 564 W</i>.<p><b>Étym</b>. <i>pf. pass. de</i> μακρύνω.`

@@ -1,1 +1,0 @@
-lar[63222]=`<b>μαχαιροφορέω-ῶ</b> <font color="purple">[ᾰ]</font> porter un sabre, JOS. <i>A.J. 2, 4, 18</i>.<p><b>Étym</b>. μαχαιροφόρος.`

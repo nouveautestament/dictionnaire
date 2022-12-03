@@ -1,1 +1,0 @@
-lar[17770]=`<b>αὐτό·φως, ωτος (τὸ)</b> la lumière même, <i>càd</i>. la Divinité, NAZ.`

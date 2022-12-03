@@ -1,1 +1,0 @@
-lar[91599]=`<i>par contr</i>. <b>Σοῦς (ὁ)</b> Soos <i>ou</i> Sous, <i>h</i>. PLUT. <i>Lyc. 1, etc</i>.<p><b>Étym</b>. <i>cf</i>. σόος².`

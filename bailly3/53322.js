@@ -1,1 +1,0 @@
-lar[53322]=`<b>κατα·σιγάω-ῶ</b> <font color="purple">[ῑ]</font> se taire, PLAT. <i>Phæd. 107a</i>.`

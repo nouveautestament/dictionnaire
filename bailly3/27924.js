@@ -1,1 +1,0 @@
-lar[27924]=`<b>ακος</b>, <i>adj. m</i>. bon coureur (chameau) GEOP. <i>16, 22</i>.<p><b>Étym</b>. δρόμος.`

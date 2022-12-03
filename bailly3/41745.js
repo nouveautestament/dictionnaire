@@ -1,1 +1,0 @@
-lar[41745]=`<b>εὐγαμέω-ῶ</b> <font color="purple">[ᾰ]</font> faire un bon mariage, HÉPH. ASTR. <i>Apot. 1, 1</i>.<p><b>Étym</b>. εὔγαμος.`

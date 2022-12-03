@@ -1,1 +1,0 @@
-lar[34053]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> action de fixer les yeux sur, BAS. <i>1, 496 Migne</i> ; PROCL. <i>Plat. Parm. 3, 598 Stallb</i>.<p><b>Étym</b>. ἐνατενίζω.`

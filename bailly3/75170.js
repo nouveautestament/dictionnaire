@@ -1,1 +1,0 @@
-lar[75170]=`<b>πάν·συρτος, ος, ον</b>, <i>propr</i>. qui se compose d’un amas de choses balayées ensemble, SOPH. <i>El. 851</i>.<p><b>Étym</b>. π. σύρω.`

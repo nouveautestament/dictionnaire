@@ -1,1 +1,0 @@
-lar[88683]=`<b>η, ον</b> <font color="purple">[ῐ]</font> fait de roses, ANACR. <i>95</i> ; TH. <i>Od. 20, etc</i>.<p><b>Étym</b>. ῥόδον.`

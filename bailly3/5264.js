@@ -1,1 +1,0 @@
-lar[5264]=`<b>ἁμαρτο·επής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui s’égare dans ses discours, IL. <i>13, 824</i>.<br><b>      2</b> qui fait parler à tort et à travers, POÈT. (CLÉM. <i>183).</i><p><b>Étym</b>. ἁμαρτάνω, ἔπος.`

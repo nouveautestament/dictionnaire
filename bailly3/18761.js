@@ -1,1 +1,0 @@
-lar[18761]=`<b>βαθυ·κνήμις, ιδος (ὁ, ἡ)</b> <font color="purple">[ᾰῡῑδ]</font> aux larges jambières, Q. SM. <i>1, 54</i>.<p><b>Étym</b>. β. κνημίς.`

@@ -1,1 +1,0 @@
-lar[33181]=`<b>ἐμ·βύθιος, α</b> <i>ou</i> <b>ος, ον</b> <font color="purple">[ῠ]</font> qui est au fond de l’eau, ANTH. <i>7, 504, etc.</i> ; ATH. <i>94a ;</i> DH. <i>1, 32</i>.<p>➳ <i>Fém</i>. -ος, ANTH. <i>9, 227, 423</i>.<p><b>Étym</b>. ἐν, βύθος.`

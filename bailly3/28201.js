@@ -1,1 +1,0 @@
-lar[28201]=`<b>δυσ·αντίλεκτος, ος, ον</b> <font color="purple">[ῠῐ]</font><br><b>      1</b> difficile à contredire, DH. <i>5, 18 ; 7, 70</i>.<br><b>      2</b> difficile à contrarier, à qui <i>ou</i> à quoi l’on résiste difficilement, JOS. <i>A.J. 18, 9, 5</i>.<p><b>Étym</b>. δ. ἀντιλέγω.`

@@ -1,1 +1,0 @@
-lar[42920]=`<b>εὐ·παλής, ής, ές</b> <font color="purple">[ᾰ]</font> qui offre une lutte facile, A.RH. <i>2, 618</i>.<p><b>Étym</b>. εὖ, πάλη.`

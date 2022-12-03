@@ -1,1 +1,0 @@
-lar[36595]=`<b>ἐπ·ανακαλέω-ῶ</b> <font color="purple">[κᾰ]</font> rappeler, ARR. <i>An. 4, 27, 1</i> ; ARÉT. <i>71d</i>.`

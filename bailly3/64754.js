@@ -1,1 +1,0 @@
-lar[64754]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. μετακίνησις HPC. <i>102f</i>.`

@@ -1,1 +1,0 @@
-lar[45033]=`<b>ἡδυ·σώματος, ος, ον</b> <font color="purple">[ῠᾰ]</font> au corps charmant, XÉN. <i>Conv. 8, 30</i>.<p><b>Étym</b>. ἡ. σῶμα.`

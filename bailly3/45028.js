@@ -1,1 +1,0 @@
-lar[45028]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> sainfoin, <i>plante,</i> TH. <i>H.P. 8, 10</i> ; DIOSC. <i>3, 146</i>.`

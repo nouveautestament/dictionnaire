@@ -1,1 +1,0 @@
-lar[12045]=`<b>ίδος (ἡ)</b> <i>s.-e</i>. χλαῖνα, vêtement de dessus, pardessus, SOPH. <i>fr. 843</i>.<p><b>Étym</b>. <i>cf</i>. ἀπλοΐς.`

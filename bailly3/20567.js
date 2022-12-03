@@ -1,1 +1,0 @@
-lar[20567]=`<b>άδος (ἡ)</b> Bouphras, <i>lieu de Messénie,</i> THC. <i>4, 118</i>.`

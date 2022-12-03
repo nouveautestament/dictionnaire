@@ -1,1 +1,0 @@
-lar[107273]=`<b>φυσιόω-ῶ</b> <font color="purple">[ῠ]</font> rendre naturellement apte, disposer naturellement, <i>avec un inf</i>. SIMPL. <i>Epict. 219,</i> qqn à, <i>etc. ; au pass</i>. ARSTT. <i>Categ. 8, 3</i> ; CLÉM. <i>859</i>.<p><b>Étym</b>. φύσις.`

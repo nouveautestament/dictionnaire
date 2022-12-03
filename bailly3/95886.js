@@ -1,1 +1,0 @@
-lar[95886]=`<b>συν·ημερεύω :<br>      1</b> passer la journée ensemble, PLAT. <i>Conv. 217b, Phædr. 240c.</i><br><b>      2</b> <i>p. suite,</i> vivre avec : τινί, XÉN. <i>Mem. 1, 4, 1</i> ; ARSTT. <i>Nic. 8, 5, 2, etc.</i> ; μετά τινος, ARSTT. <i>Nic. 9, 4, 9,</i> avec qqn.<p><b>Étym</b>. σύν, ἡμέρα.`

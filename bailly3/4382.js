@@ -1,1 +1,0 @@
-lar[4382]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰ]</font> farine, RHINTHON (ATH. <i>500f</i>).<p><b>Étym</b>. <i>neutre de</i> ἀλητός.`

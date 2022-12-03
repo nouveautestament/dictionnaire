@@ -1,1 +1,0 @@
-lar[100531]=`<b>ή, όν</b> <font color="purple">[ῐτ]</font> qui concerne la fièvre tierce, DIOSC. <i>Parab. 2, 19</i>.<p><b>Étym</b>. τριταῖος.`

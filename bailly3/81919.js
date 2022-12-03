@@ -1,1 +1,0 @@
-lar[81919]=`<b>πολυ·θαμβής, ής, ές</b> <font color="purple">[ῠ]</font> frappé de stupeur, NONN. <i>D. 14, 418</i>.<p><b>Étym</b>. π. θάμβος.`

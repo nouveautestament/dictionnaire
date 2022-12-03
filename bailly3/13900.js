@@ -1,1 +1,0 @@
-lar[13900]=`<b>ἀ·προβούλως</b>, <i>adv</i>., sans défiance, ESCHL. <i>Ch. 620</i>.<p><b>Étym</b>. ἀ, πρόβουλος.`

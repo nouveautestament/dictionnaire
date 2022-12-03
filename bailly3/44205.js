@@ -1,1 +1,0 @@
-lar[44205]=`<b>ἐχέ·μυθος, ος, ον</b> <font color="purple">[ῡ]</font> silencieux, discret, réservé, SYN. <i>Ep. 137</i> ; NYSS. <i>2, 219</i>.<p><b>Étym</b>. ἔχω, μῦθος.`

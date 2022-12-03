@@ -1,1 +1,0 @@
-lar[69596]=`<b>ῶν (οἱ)</b> les descendants de Xouthos, LYC. <i>987</i>.<p><b>Étym</b>. Ξοῦθος.`

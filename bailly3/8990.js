@@ -1,1 +1,0 @@
-lar[8990]=`<b>ης (ἡ)</b> Anthylla, <i>v. d’Égypte,</i> HDT. <i>2, 97</i>.`

@@ -1,1 +1,0 @@
-lar[99183]=`<b>(ὁ)</b> <font color="purple">[τῑ]</font> fils de Timandros, EL. <i>V.H. 14, 32</i>.<p><b>Étym</b>. <i>patr. de</i> Τίμανδρος.`

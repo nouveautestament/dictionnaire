@@ -1,1 +1,0 @@
-lar[48007]=`<b>ῶν (οἱ)</b> Thyrgonides, <i>dème attique de la tribu Æantide, plus tard de la tribu Ptolémaïde,</i> IS. (HARP.).`

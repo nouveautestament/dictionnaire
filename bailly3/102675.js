@@ -1,1 +1,0 @@
-lar[102675]=`<b>ὑπέρ·ξενος, ος, ον</b>, tout à fait étranger <i>ou</i> étrange, J. DAMASC.`

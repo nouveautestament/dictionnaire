@@ -1,1 +1,0 @@
-lar[88535]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>autre n. de la plante</i> ἐρυθρόδανον, GEOP. <i>12, 1, 7</i>.<p><b>Étym</b>. <i>dim. de</i> ῥίζα.`

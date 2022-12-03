@@ -1,1 +1,0 @@
-lar[83114]=`<i>seul. pl</i>. <b>ποτνιάδες, ων (αἱ)</b> <font color="purple">[ᾰ]</font> les femmes <i>ou</i> les déesses augustes, <i>càd.</i> :<br><b>      1</b> les Bacchantes, EUR. <i>Bacch. 664</i>.<br><b>      2</b> les Euménides, EUR. <i>Or. 318</i>.<p><b>Étym</b>. πότνια.`

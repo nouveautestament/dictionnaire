@@ -1,1 +1,0 @@
-lar[61074]=`<b>λιθό·ρρινος, ος, ον</b> <font color="purple">[ῐῑ]</font> dont la peau est de pierre, dure comme la pierre, HH. <i>Merc. 48</i> ; EMPÉD. <i>221 Karsten</i>.<p><b>Étym</b>. λ. ῥινός.`

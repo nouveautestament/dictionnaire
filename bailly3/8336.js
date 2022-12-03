@@ -1,1 +1,0 @@
-lar[8336]=`<b>ἀν·έμφατος, ος, ον</b> <font color="purple">[φᾰ]</font> qui n’exprime pas <i>ou</i> n’indique pas, <i>gén</i>. PLUT. <i>M. 45c</i>.<p><b>Étym</b>. ἀν-, ἐμφαίνω.`

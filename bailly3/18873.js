@@ -1,1 +1,0 @@
-lar[18873]=`s’appuyer sur un bâton, SUID.<p><b>Étym</b>. βάκτρον.`

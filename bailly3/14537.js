@@ -1,1 +1,0 @@
-lar[14537]=`<b>οῦ (ὁ)</b> jonction, <i>d’où</i> union, <i>particul</i>. lien d’amitié, HH. <i>Merc. 524</i> ; ESCHL. <i>Pr. 191</i> ; CALL. <i>fr. 199</i>.<p><b>Étym</b>. ἀραρίσκω.`

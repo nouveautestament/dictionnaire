@@ -1,1 +1,0 @@
-lar[14639]=`<b>ἀρι·σκυδής, ής, ές</b> <font color="purple">[ᾰῡ]</font> tout à fait irrité, CALL. <i>fr. 108</i>.<p><b>Étym</b>. ἀρι-, σκύζομαι.`

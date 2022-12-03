@@ -1,1 +1,0 @@
-lar[47955]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> semblable au thym, TH. <i>H.P. 6, 7, 2</i>.<p><b>Étym</b>. θύμος, -ωδης.`

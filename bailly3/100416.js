@@ -1,1 +1,0 @@
-lar[100416]=`<b>τρί·πωλος, ος, ον</b> <font color="purple">[ῐ]</font> attelé de trois chevaux, EUR. <i>Andr. 277</i> ; DH. <i>7, 73</i>.<p><b>Étym</b>. τρ. πῶλος.`

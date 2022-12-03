@@ -1,1 +1,0 @@
-lar[62034]=`<b>ου (ὁ)</b> <font color="purple">[ῡῐᾰῐ]</font> Lysimakhidès, <i>h</i>. THC. <i>4, 91</i> ; DH. <i>Din. 9, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Λυσίμαχος.`

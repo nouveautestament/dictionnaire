@@ -1,1 +1,0 @@
-lar[48905]=`<b>ας (ἡ)</b> Ilia :<br><b>      1</b> <i>mère de Romulus et de Rémus,</i> PLUT. <i>Rom. 3 et 8</i>.<br><b>      2</b> <i>femme de Sylla,</i> PLUT. <i>Syll. 6</i>.`

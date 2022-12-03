@@ -1,1 +1,0 @@
-lar[30779]=`<b>*εἰσ·ίζομαι</b>, <i>ion</i>. <b>ἐσ·ίζομαι</b> (<i>sbj. 3 sg</i>. -ίζηται) s’asseoir, se poster (en embuscade) IL. <i>13, 285</i>.`

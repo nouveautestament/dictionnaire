@@ -1,1 +1,0 @@
-lar[105407]=`<b>φιλ·άβουλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui se plaît aux sottises, ANTH. <i>12, 80</i>.<p><b>Étym</b>. φίλος, ἄβουλος.`

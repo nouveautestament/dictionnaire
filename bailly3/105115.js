@@ -1,1 +1,0 @@
-lar[105115]=`<b>α, ον</b>, de Phères, SOPH. <i>fr. 758, 1</i> ; EUR. <i>Alc. 606 ; masc</i>. habitant <i>ou</i> originaire de Phères, THC. <i>2, 22</i> ; XÉN. <i>Hell. 2, 3, 4 ; 6, 4, 31, etc.</i> ; ἡ θεὰ Φεραίη, LYC. <i>1180</i> ; PAUS. <i>2, 10, 7 ; 2, 23, 5, ou simpl</i>. ἡ Φεραίη, CALL. <i>Dian. 259,</i> la déesse de Phères, <i>càd</i>. Artémis.<p><b>Étym</b>. Φεραί.`

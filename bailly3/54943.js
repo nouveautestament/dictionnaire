@@ -1,1 +1,0 @@
-lar[54943]=`<b>κερε·αλκής, ής, ές</b>, robuste par les cornes, A.RH. <i>4, 468</i> (<i>v</i>. κεραελκής) ; CALL. <i>Dian. 179</i> ; OPP. <i>C. 2, 103</i>.<p><b>Étym</b>. κέρας, ἀλκή.`

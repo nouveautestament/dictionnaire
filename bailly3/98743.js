@@ -1,1 +1,0 @@
-lar[98743]=`avoir une paye de quatre oboles, THPP. COM. (POLL. <i>9, 64).</i><p><b>Étym</b>. τετρώβολον.`

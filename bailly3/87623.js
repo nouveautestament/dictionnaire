@@ -1,1 +1,0 @@
-lar[87623]=`<b>πυκνο·γόνατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a un grand nombre de nœuds <i>ou</i> d’articulations, DIOSC. <i>1, 17, etc</i>.<p><b>Étym</b>. π. γόνυ.`

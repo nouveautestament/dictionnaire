@@ -1,1 +1,0 @@
-lar[23638]=`<b>δείσ·οζος, ου (ὁ)</b> rejeton de la fange, né de la fange, ANTH. <i>6, 305</i> (δεῖσα, fange, LEX., ὄζος ; <i>sel. Mein</i>. qui sent la fange, <i>de</i> δεῖσα, ὄζω).`

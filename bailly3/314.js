@@ -1,1 +1,0 @@
-lar[314]=`<b>ἀγαλματόω-ῶ</b> <font color="purple">[ᾰγμᾰ]</font> changer en statue, LYC. <i>845</i>.<p><b>Étym</b>. ἄγαλμα.`

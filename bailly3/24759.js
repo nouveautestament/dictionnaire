@@ -1,1 +1,0 @@
-lar[24759]=`<i>adv</i>., à vide, JOS. <i>A.J. 3, 7, 2</i> ; JAMBL. <i>Myst. 93, 15</i>.<p><b>Étym</b>. διάκενος.`

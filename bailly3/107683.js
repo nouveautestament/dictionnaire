@@ -1,1 +1,0 @@
-lar[107683]=`<b>χαλκο·πληθής, ής, ές</b>, plein d’airain, <i>càd</i>. recouvert d’une armure d’airain, EUR. <i>Suppl. 1215</i>.<p><b>Étym</b>. χ. πλῆθος.`

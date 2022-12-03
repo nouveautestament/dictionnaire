@@ -1,1 +1,0 @@
-lar[96880]=`<b>σφηνο·πώγων</b>, <i>gén</i>. <b>ονος</b>, <i>adj. m</i>. qui a la barbe en pointe, LUC. <i>Ep. sat. 24</i> ; ARTÉM. <i>2, 42</i>.<p><b>Étym</b>. σφήν, πώγων.`

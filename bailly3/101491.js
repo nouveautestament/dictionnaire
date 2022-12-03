@@ -1,1 +1,0 @@
-lar[101491]=`<b>ου (τὸ)</b> <i>sorte de tubercule, p.-ê</i>. truffe, TH. <i>H.P. 1, 1, 11 ; 1, 6, 5</i> ; ATH. <i>62a ;</i> PLUT. <i>M. 664b ;</i> DIOSC. <i>2, 175</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

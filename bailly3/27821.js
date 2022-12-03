@@ -1,1 +1,0 @@
-lar[27821]=`<b>οντος (ὁ)</b> Drakôn (Dracon) :<br><b>      1</b> <i>législateur d’Athènes,</i> PLAT. <i>Ax. 365d ;</i> ARSTT. <i>Pol. 2, 9, 9 ; etc.</i><br><b>      2</b> <i>autres,</i> XÉN. <i>Hell. 3, 2, 11</i> ; ISOCR. PLUT. <i>etc</i>.<p><b>Étym</b>. δράκων.`

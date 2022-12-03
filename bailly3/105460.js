@@ -1,1 +1,0 @@
-lar[105460]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., avec amour de la vérité, sincèrement, CIC. <i>Qu. fr. 2, 15</i> ; DS. <i>2, 32</i> ; CLÉM. <i>914, etc</i>.<p><b>Étym</b>. φιλαλήθης.`

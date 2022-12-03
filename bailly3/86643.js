@@ -1,1 +1,0 @@
-lar[86643]=`<b>εως (ἡ) :<br>      1</b> paroles <i>ou</i> discours qu’on adresse à qqn, DH. <i>Rhet. 5, 1</i> ; LGN <i>26</i>.<br><b>      2</b> <i>p. anal</i>. lettre, PARMÉNISC. (ATH. <i>156d</i>).<br><b>      3</b> dédicace, PLUT. <i>T. Gracch. 8</i>.<p><b>Étym</b>. προσφωνέω.`

@@ -1,1 +1,0 @@
-lar[42585]=`<b>εὐ·ληματέω-ῶ</b> <font color="purple">[ᾰ]</font> être très courageux, ESCHL. <i>fr. 104</i>.<p><b>Étym</b>. εὖ, λῆμα.`

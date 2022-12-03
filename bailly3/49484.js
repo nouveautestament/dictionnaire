@@ -1,1 +1,0 @@
-lar[49484]=`<b>ῆς (ἡ)</b> Hirè (<i>litt</i>. la ville sainte) :<br><b>      1</b> <i>v. de Messénie,</i> IL. <i>9, 150, 292</i>.<br><b>      2</b> <i>v. de Syrie,</i> LUC. <i>Syr. 1, 10</i>.<p><b>Étym</b>. <i>fém. ion. de</i> ἱερός.`

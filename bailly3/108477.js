@@ -1,1 +1,0 @@
-lar[108477]=`<b>ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font> Khimara, <i>lieu de Thessalie ou d’Épire,</i> ANTH. <i>7, 529</i>.`

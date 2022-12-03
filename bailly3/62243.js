@@ -1,1 +1,0 @@
-lar[62243]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> <i>dim. de</i> μαγίς, M. RUBR. <i>30</i>.`

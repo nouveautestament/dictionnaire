@@ -1,1 +1,0 @@
-lar[90515]=`<b>σιτο·βολεῖον, ου (τὸ)</b> <font color="purple">[ῑ]</font> grange à serrer le grain, MÉN. <i>4, 124 Meineke</i> : GEOP. <i>2, 27</i>.<p><b>Étym</b>. σῖτος, βάλλω.`

@@ -1,1 +1,0 @@
-lar[62313]=`<b>ων (οἱ)</b> fête où l’on servait des gâteaux, en l’honneur de Bacchus, <i>à Phigalia, en Arcadie,</i> HARMOD. (ATH. <i>149b</i>).<p><b>Étym</b>. μᾶζα.`

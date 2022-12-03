@@ -1,1 +1,0 @@
-lar[15097]=`<b>ἀ·ρραφής, ής, ές</b> <font color="purple">[ρᾰ]</font> <i>c</i>. ἄρραφος ARAT. (POLL. <i>2, 38</i>).`

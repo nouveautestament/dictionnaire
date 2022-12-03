@@ -1,1 +1,0 @@
-lar[52912]=`<b>ης (ἡ)</b> Katanè (Catane, <i>auj</i>. Catania) <i>v. de Sicile,</i> THC. <i>6, 3</i> ; XÉN. <i>Hell. 2, 3, 5</i>.<p>➳ <i>Dor</i>. Κατάνα, ANTH. <i>7, 75</i>.<p><b>Étym</b>. <i>v</i>. Καταναῖοι.`

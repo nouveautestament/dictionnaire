@@ -1,1 +1,0 @@
-lar[12855]=`<b>ου (τὸ)</b> linge pour s’essuyer en frottant, AR. <i>fr. 586</i>.<p><b>Étym</b>. ἀπομάσσω.`

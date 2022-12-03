@@ -1,1 +1,0 @@
-lar[64194]=`<b>ης (ἡ)</b> Melpomène, <i>propr</i>. « la Chanteuse », <i>Muse du chant,</i> LUC. <i>Im. 14, etc. ; postér. Muse de la Tragédie,</i> HÉS. <i>Th. 77</i> ; APD. <i>1, 3, 1</i> ; DS. <i>4, 7, etc</i>.<p><b>Étym</b>. μέλπω.`

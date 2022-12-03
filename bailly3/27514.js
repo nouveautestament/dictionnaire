@@ -1,1 +1,0 @@
-lar[27514]=`<b>ιδος</b> <font color="purple">[ᾰῑῐδ]</font><br><b>      1</b> <i>adj</i>. de roseau, ANTH. <i>6, 307 (acc</i>. -ιν).<br><b>      2</b> <i>subst</i>. ἡ δ. aubépine, <i>plante,</i> DIOSC. <i>2, 14</i>.<p><b>Étym</b>. δόναξ.`

@@ -1,1 +1,0 @@
-lar[107558]=`<font color="purple">[ᾰῑ]</font> (<i>seul. prés</i>.) mener une vie de coureuse, EPICH. (EUST. <i>1471, 3).</i><p><b>Étym</b>. χαλιμάς.`

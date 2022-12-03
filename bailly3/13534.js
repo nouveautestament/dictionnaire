@@ -1,1 +1,0 @@
-lar[13534]=`<b>ῆς (ἡ)</b> <font color="purple">[τᾰ]</font> renonciation au monde, BAS. <i>3, 632a, 940b Migne</i>.<p><b>Étym</b>. ἀποτάσσω.`

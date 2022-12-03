@@ -1,1 +1,0 @@
-lar[75752]=`<b>ου (ὁ)</b> celui qui couche près d’un autre, voisin de lit, de table, XÉN. <i>Cyr. 2, 2, 28</i>.<p><b>Étym</b>. παρακλίνω.`

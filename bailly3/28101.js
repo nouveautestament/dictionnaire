@@ -1,1 +1,0 @@
-lar[28101]=`<b>ά, όν</b> <font color="purple">[ῠ]</font> puissant, fort, BAS. <i>Hexæm. 45</i>.<p><b>Étym</b>. δύναμαι.`

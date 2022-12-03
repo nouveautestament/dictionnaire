@@ -1,1 +1,0 @@
-lar[68962]=`<b>νοο·ειδής, ής, ές</b>, doué d’intelligence, semblable à l’intelligence, PLOT. <i>Enn. 5, 1, 3, p. 484d ; 5, 3, 8, p. 504 fin</i>.`

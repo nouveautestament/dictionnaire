@@ -1,1 +1,0 @@
-lar[109079]=`<b>χρυσ·άμπυξ, υκος (ὁ, ἡ)</b> <font color="purple">[ῡῠκ]</font> au bandeau d’or, HH. <i>5, 5, 12</i> ; HÉS. <i>Th. 916</i> ; PD. <i>O. 7, 119 ; P. 3, 158, etc. ; en parl. d’un cheval,</i> au frontal d’or, IL. <i>5, 358, 363, etc</i>.`

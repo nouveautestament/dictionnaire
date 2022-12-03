@@ -1,1 +1,0 @@
-lar[32720]=`<b>ἐλευθεροστομέω-ῶ</b>, parler en toute liberté, parler franchement, ESCHL. <i>Pr. 180</i> ; EUR. <i>Andr. 153</i>.<p><b>Étym</b>. ἐλευθερόστομος.`

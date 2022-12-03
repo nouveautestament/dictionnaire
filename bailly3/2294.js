@@ -1,1 +1,0 @@
-lar[2294]=`<b>αἰγο·βόλος, ου (ὁ)</b> qui perce les chèvres <i>ou</i> les chamois, <i>ép. de Dionysos,</i> PAUS. <i>9, 8, 1</i>.<p><b>Étym</b>. αἴξ, βάλλω.`

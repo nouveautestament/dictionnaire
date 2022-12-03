@@ -1,1 +1,0 @@
-lar[106033]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> <i>c</i>. φιλοπονία, HPC. <i>de Morb. 2, 28</i>.`

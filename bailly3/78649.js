@@ -1,1 +1,0 @@
-lar[78649]=`<b>εως (ἡ)</b> action de placer autour, NT. <i>1Petr. 3, 3</i> ; SEXT. <i>P. 2, 15</i>.<p><b>Étym</b>. περιτίθημι.`

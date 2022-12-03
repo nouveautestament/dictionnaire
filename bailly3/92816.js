@@ -1,1 +1,0 @@
-lar[92816]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> propre au service militaire, XÉN. <i>Cyr. 1, 2, 4, etc.</i> ; DH. <i>3, 65</i> ; οἱ στρατεύσιμοι, POL. <i>6, 19, 6,</i> ceux qui sont en âge de servir.<p><b>Étym</b>. στράτευσις.`

@@ -1,1 +1,0 @@
-lar[95554]=`<b>συν·εξωθέω-ῶ :<br>      1</b> expulser ensemble <i>ou</i> en même temps, HPC. <i>364 fin</i>.<br><b>      2</b> repousser, précipiter, STR. <i>204</i>.<br><b>      3</b> transporter, PLUT. <i>M. 984f</i>.`

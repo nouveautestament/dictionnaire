@@ -1,1 +1,0 @@
-lar[47971]=`<b>ίδος (ἡ) :<br>      1</b> petit thon, ARSTT. <i>H.A. 5, 9, 6, etc.</i> ; ANTIPH. (ATH. <i>303b</i>).<br><b>      2</b> femelle du thon, ARCHESTR. <i>et</i> SOSTRAT. (ATH. <i>303e</i>).<p><b>Étym</b>. θύννος.`

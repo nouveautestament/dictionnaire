@@ -1,1 +1,0 @@
-lar[101953]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰντᾰ]</font> action de se lever par déférence <i>ou</i> pour faire place à qqn, ARSTT. <i>Nic. 9, 2, 9 ; au pl</i>. PLAT. <i>Rsp. 425b</i>.<p><b>Étym</b>. ὑπανίσταμαι.`

@@ -1,1 +1,0 @@
-lar[11139]=`<b>ἀπ·αΐσσω</b>, <i>par contr</i>. <b>ἀπᾴσσω</b>, <i>d’où att</i>. <b>ἀπᾴττω</b> <font color="darkgreen">(<i>ao</i>. ἀπῇξα)</font>, s’élancer, IL. <i>21, 234 (part. ao</i>. ἀπαΐξας <font color="purple">[πᾰ]</font>) ; SOPH. <i>Tr. 190 (ao</i>. ἀπῇξα), <i>Aj. 448 (ao. 3 pl</i>. ἀπῇξαν), <i>etc</i>.`

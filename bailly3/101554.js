@@ -1,1 +1,0 @@
-lar[101554]=`<b>ὑδρό·μαντις, εως (ὁ, ἡ)</b> devin <i>ou</i> devineresse qui prédit l’avenir au moyen de l’eau, STR. <i>762</i> ; MAN. <i>4, 212</i>.<p><b>Étym</b>. ὕδ. μάντις.`

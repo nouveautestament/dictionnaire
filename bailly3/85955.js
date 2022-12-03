@@ -1,1 +1,0 @@
-lar[85955]=`<b>προσ·καταλύω</b>, dissoudre <i>ou</i> délier en outre, DC. <i>47, 32</i>.`

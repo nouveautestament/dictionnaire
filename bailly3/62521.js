@@ -1,1 +1,0 @@
-lar[62521]=`<b>μακρο·κατάληκτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> dont le dernier demi-pied est long, DYSC. <i>Pron. 272a, 363c ;</i> HDN GR. <i>Epim. p. 258 Boissonade</i> (<i>v</i>. μακροκαταληκτέω).<p><b>Étym</b>. μακρός, καταλήγω.`

@@ -1,1 +1,0 @@
-lar[993]=`<b>ου (ὁ)</b> le campagnard, <i>pièce d’Épicharme,</i> ATH. <i>120c</i>.<p><b>Étym</b>. ἀγρώστης¹.`

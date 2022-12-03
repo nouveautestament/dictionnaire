@@ -1,1 +1,0 @@
-lar[10488]=`<b>ἀντι·ταφρεύω</b>, ouvrir une contre-tranchée, PHIL. BYZ. <i>Bel. 93</i>.`

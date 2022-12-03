@@ -1,1 +1,0 @@
-lar[57900]=`<b>ου (τὸ)</b> <font color="purple">[ῑῐδ]</font> petit grain d’orge, HPC. <i>580, 53</i> ; LUC. <i>As. 3, etc.</i> ; ATH. <i>214c</i>.<p><b>Étym</b>. κριθή.`

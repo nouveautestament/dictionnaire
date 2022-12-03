@@ -1,1 +1,0 @@
-lar[16048]=`<b>ἀσπιδο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> semblable à un bouclier, DS. <i>3, 48</i>.<p><b>Étym</b>. ἀ. εἶδος.`

@@ -1,1 +1,0 @@
-lar[94754]=`<b>συν·ανασπάω-ῶ</b>, retirer ensemble, LUC. <i>Cat. 18</i>.`

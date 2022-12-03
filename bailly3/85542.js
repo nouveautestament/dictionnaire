@@ -1,1 +1,0 @@
-lar[85542]=`<b>προσ·εκτραχηλίζω</b> <font color="purple">[ᾰ]</font> rompre en outre le cou, <i>acc</i>. ARR. <i>Epict. 3, 7, 16 ; au pass</i>. SEXT. <i>M. 11, 179</i>.`

@@ -1,1 +1,0 @@
-lar[62963]=`<b>ης (ἡ)</b> <font color="purple">[ᾰν <i>par nécessité prosod. p</i>. ᾱν]</font> = <i>lat</i>. Marciana, <i>n. de f. rom</i>. ANTH. <i>App. 247</i>.<p><b>Étym</b>. <i>cf</i>. Μαρκιανός.`

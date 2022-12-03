@@ -1,1 +1,0 @@
-lar[88015]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui a la couleur du feu, PHILSTR. <i>99</i>.<p><b>Étym</b>. πυρσός.`

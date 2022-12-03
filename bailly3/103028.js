@@ -1,1 +1,0 @@
-lar[103028]=`<b>ὑπο·βιβρώσκω</b>, ronger en dessous <i>ou</i> un peu, DS. <i>3, 44</i> ; Q. SM. <i>9, 382</i>.`

@@ -1,1 +1,0 @@
-lar[94013]=`<b>συμ·μογέω-ῶ</b>, travailler péniblement avec, <i>dat</i>. OPP. <i>H. 5, 567</i>.`

@@ -1,1 +1,0 @@
-lar[68961]=`<b>νοο·βλαβής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a l’esprit malade, insensé, NONN. <i>Jo. 12, 40</i>.<p><b>Étym</b>. νόος, βλάπτω.`

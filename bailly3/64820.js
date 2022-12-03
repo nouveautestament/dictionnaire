@@ -1,1 +1,0 @@
-lar[64820]=`<b>*μετάλλητος</b>, <i>seul. dor</i>. <b>μετάλλατος, α, ον</b> <font color="purple">[λᾱ]</font> dont on doit se préoccuper, PD. <i>P. 4, 164</i>.<p><b>Étym</b>. <i>vb. de</i> μεταλλάω.`

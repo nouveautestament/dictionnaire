@@ -1,1 +1,0 @@
-lar[80776]=`<b>πλατύ·πυγος, ος, ον</b> <font color="purple">[ᾰῠῡ]</font> à large carène, STR. <i>195</i>.<p><b>Étym</b>. πλ. πυγή.`

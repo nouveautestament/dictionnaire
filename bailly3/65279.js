@@ -1,1 +1,0 @@
-lar[65279]=`<b>μηδέ·πω</b>, <i>adv</i>., pas encore, pas une fois, ESCHL. <i>Pr. 741, Pers. 435, etc. ; en deux mots</i> μηδέ… πω, PLAT. <i>Phædr. 271d</i>.<p><b>Étym</b>. μηδέ, πω.`

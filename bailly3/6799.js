@@ -1,1 +1,0 @@
-lar[6799]=`<b>εως (ἡ)</b> mélange trouble. PLAT. <i>Leg. 824a</i>.`

@@ -1,1 +1,0 @@
-lar[93127]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font> âcre, astringent, NIC. <i>Al. 375</i>.<p><b>Étym</b>. στύφω.`

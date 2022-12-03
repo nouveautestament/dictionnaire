@@ -1,1 +1,0 @@
-lar[47890]=`<b>ου (τὸ)</b> Thymbrion, <i>v. de Phrygie,</i> XÉN. <i>An. 1, 2, 13</i>.`

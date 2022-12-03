@@ -1,1 +1,0 @@
-lar[21856]=`<font color="purple">[ᾰ]</font> <i>adv</i>., géographiquement, STR. <i>94</i>.`

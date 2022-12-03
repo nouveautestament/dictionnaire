@@ -1,1 +1,0 @@
-lar[57307]=`<font color="purple">[ῠ]</font> siffler comme un merle, HÉRON <i>Spir. p. 227</i>.<p><b>Étym</b>. κόσσυφος.`

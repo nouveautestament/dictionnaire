@@ -1,1 +1,0 @@
-lar[7071]=`<i>adv.</i> :<br><b>      1</b> sans être sensible à la douleur (d’autrui), d’une façon inhumaine, avec cruauté, SOPH. <i>Aj. 1333</i>.<br><b>      2</b> avec impassibilité, PLUT. <i>M. 46c</i>.`

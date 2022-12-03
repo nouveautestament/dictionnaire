@@ -1,1 +1,0 @@
-lar[52917]=`<b>κατα·νικάω-ῶ</b> <font color="purple">[ῑ]</font> vaincre, battre complètement, SOPH. <i>fr. 105</i>.`

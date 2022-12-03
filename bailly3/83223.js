@@ -1,1 +1,0 @@
-lar[83223]=`<b>ή, όν</b>, qui peut <i>ou</i> doit être fait, faisable, praticable, ARSTT. <i>Nic. 1, 2, 1, etc</i>.<p><b>Étym</b>. πράσσω.`

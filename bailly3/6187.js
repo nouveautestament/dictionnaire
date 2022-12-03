@@ -1,1 +1,0 @@
-lar[6187]=`<b>ἀμφι·κλάω-ῶ</b> (<i>seul. ao. 3 sg</i>. ἀμφέκλασε) briser tout autour <i>ou</i> entièrement, Q. SM. <i>8, 345, etc</i>.`

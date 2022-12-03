@@ -1,1 +1,0 @@
-lar[34540]=`<b>ἐν·θλάω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> enfoncer dans, graver dans <i>ou</i> sur, EL. <i>N.A. 6, 15</i>.<br><b>      2</b> briser en enfonçant, HPC. <i>556, 23 ; d’où</i> enfoncer, εἰς <i>et l’acc</i>. TH. <i>H.P. 5, 2, 4</i>.`

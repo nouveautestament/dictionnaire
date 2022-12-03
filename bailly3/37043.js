@@ -1,1 +1,0 @@
-lar[37043]=`<b>ἐπ·εκφώνησις, εως (ἡ)</b> exclamation, <i>fig. de rhét</i>. ANON. <i>Carm. de fig</i>.<p><b>Étym</b>. <i>Rhet. lat. min. p. 66, 79 Halm</i>.`

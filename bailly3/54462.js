@@ -1,1 +1,0 @@
-lar[54462]=`<b>κεδρίτης οἶνος (ὁ)</b> vin de genévrier, <i>sorte de liqueur,</i> DIOSC. <i>5, 47</i>.<p><b>Étym</b>. κέδρος.`

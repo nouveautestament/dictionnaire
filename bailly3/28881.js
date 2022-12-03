@@ -1,1 +1,0 @@
-lar[28881]=`<b>ή, όν</b>, qui expose à la ruine, ARR. <i>Epict. 4, 1, 58</i>.<p><b>Étym</b>. δυσροέω.`

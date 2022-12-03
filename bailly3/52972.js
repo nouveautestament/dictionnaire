@@ -1,1 +1,0 @@
-lar[52972]=`<b>κατ·άξιος, ος, ον</b>, tout à fait digne de, <i>gén</i>. SOPH. <i>Ph. 1109 ; abs</i>. EUR. <i>El. 46</i>.<p><b>Étym</b>. κ. ἄξιος.`

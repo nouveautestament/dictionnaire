@@ -1,1 +1,0 @@
-lar[86353]=`<b>προσ·πολέομαι-οῦμαι</b>, s’avancer avec un cortège, une escorte, SOPH. <i>O.C. 1098</i>.`

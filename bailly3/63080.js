@@ -1,1 +1,0 @@
-lar[63080]=`<b>ῆρος (ὁ) :<br>      1</b> qui cherche, qui recherche, <i>gén</i>. SOPH. <i>O.C. 456, Tr. 733</i> ; EUR. <i>Bacch. 986 ; en prose réc</i>. ALCIPHR. <i>1, 11</i>.<br><b>      2</b> <i>à Athènes,</i> magistrat chargé de rechercher et de confisquer les biens des proscrits, HYPÉR. (HARP.).<p><b>Étym</b>. *μάω.`

@@ -1,1 +1,0 @@
-lar[41812]=`<b>εὐ·γώνιος, ος, ον</b>, aux angles réguliers, EUR. <i>Ion 1037</i> ; XÉN. <i>Œc. 4, 21</i> ; ARSTT. <i>Probl. 15, 11, 1, etc</i>.<p><b>Étym</b>. εὖ, γωνία.`

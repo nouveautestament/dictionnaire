@@ -1,1 +1,0 @@
-lar[59141]=`<b>κωλυσ·ανέμας, ου</b> <font color="purple">[ῡᾰᾱ]</font> <i>adj. m</i>. qui arrête les vents, <i>surn. d’Empédocle,</i> DL. <i>8, 60</i> ; CLÉM. <i>754</i>.<p><b>Étym</b>. κωλύω, ἄνεμος.`

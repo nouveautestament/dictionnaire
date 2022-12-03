@@ -1,1 +1,0 @@
-lar[3787]=`<b>ἀκρό·κομος, ος, ον :<br>      1</b> qui relève ses cheveux sur le haut de la tête <i>ou</i> qui ne garde ses cheveux que sur le sommet de la tête, <i>en parl. des Thraces,</i> IL. <i>4, 533</i>.<br><b>      2</b> à la cime feuillue, EUR. <i>Ph. 1516</i> ; THCR. <i>Idyl. 22, 41</i> ; ANTH. <i>7, 213</i> ; DS. <i>2, 53</i>.<p><b>Étym</b>. ἄ. κόμη.`

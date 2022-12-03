@@ -1,1 +1,0 @@
-lar[8852]=`<b>ῆς (ἡ)</b> <font color="purple">[βᾰ]</font> <i>s.-e</i>. τέχνη, l’art de teindre en couleurs variées, PLUT. <i>fr. 15</i>.`

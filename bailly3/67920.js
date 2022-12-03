@@ -1,1 +1,0 @@
-lar[67920]=`<b>νεβρο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ressemble à un faon, NONN. <i>D. 5, 363</i>.<p><b>Étym</b>. ν. φαίνω.`

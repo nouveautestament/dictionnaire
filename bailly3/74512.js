@@ -1,1 +1,0 @@
-lar[74512]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰῑ]</font> les Palikes, <i>jumeaux, fils de Zeus, honorés en Sicile,</i> ESCHL. <i>fr. 5 Dind.</i> ; STR. <i>275</i> ; Παλικῶν λίμνη, ARSTT. <i>Mir. 57</i> ; DS. <i>11, 89,</i> lac des Palikes.`

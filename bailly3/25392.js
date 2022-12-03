@@ -1,1 +1,0 @@
-lar[25392]=`<b>δια·πτύω :<br>      1</b> rejeter en crachant, cracher sur, <i>gén</i>. EL. <i>N.A. 4, 22 ; fig</i>. conspuer, <i>acc</i>. DÉM. <i>318, 8</i> ; PLUT. <i>M. 101c, etc.</i><br><b>      2</b> couvrir de bave <i>ou</i> d’écume, <i>en parl. d’un cheval qui mord le frein,</i> PHILSTR. <i>816</i>.`

@@ -1,1 +1,0 @@
-lar[47626]=`<b>ου (ὁ</b> <i>ou</i> <b>ἡ)</b> aubier, arbre, TH. <i>H.P. 3, 6, 4 (masc.) ; H.P. 4, 1, 3</i>.<p><b>Étym</b>. <i>fém</i>.`

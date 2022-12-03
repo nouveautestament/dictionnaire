@@ -1,1 +1,0 @@
-lar[71856]=`<b>ῆρος</b>, <i>adj. m</i>. injurieux, outrageant, EUR. <i>H.f. 218</i>.<p><b>Étym</b>. ὀνειδίζω.`

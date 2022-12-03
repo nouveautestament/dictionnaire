@@ -1,1 +1,0 @@
-lar[15030]=`<b>ου (τὸ)</b> <font color="purple">[ᾰγ]</font> Harpagion, <i>litt</i>. « le Lieu du rapt », <i>lieu de Mysie, où fut enlevé Ganymède,</i> THC. <i>8, 107</i>.<p><b>Étym</b>. ἁρπάζω.`

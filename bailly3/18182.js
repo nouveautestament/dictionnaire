@@ -1,1 +1,0 @@
-lar[18182]=`<i>adv</i>., en assimilant <i>ou</i> en reproduisant une image, PROCL.`

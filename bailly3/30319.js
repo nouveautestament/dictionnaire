@@ -1,1 +1,0 @@
-lar[30319]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> représentation, image, XÉN. <i>Mem. 3, 10, 1</i>.<br><b>      2</b> assimilation, comparaison, PLUT. <i>Them. 29</i>.<br><b>      3</b> action de se représenter, conjecture, PLAT. <i>Rsp. 511e, 534a</i>.<p><b>Étym</b>. εἰκάζω.`

@@ -1,1 +1,0 @@
-lar[32348]=`<b>ή, όν</b>, descriptif : τὸ ἐκφραστικόν, DL. <i>5, 65,</i> la faculté de décrire.<p><b>Étym</b>. ἐκφράζω.`

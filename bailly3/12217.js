@@ -1,1 +1,0 @@
-lar[12217]=`<b>ἀπο·γυμνόω-ῶ :<br>      1</b> mettre à nu, OD. <i>10, 301</i> ; HÉS. <i>O. 728</i> ; LUC. <i>Tim. 27, etc.</i><br><b>      2</b> <i>fig</i>. révéler, découvrir, PAUS. <i>4, 22, 4, etc.</i><br><b><i>Moy.</i></b> se mettre à nu, XÉN. <i>Mem. 3, 4, 1</i> ; ἀπ. τὰ ἱμάτια, ARSTT. <i>Probl. 1, 55, 3,</i> se dépouiller de ses vêtements.`

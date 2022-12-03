@@ -1,1 +1,0 @@
-lar[18468]=`<b>ᾶ (ὁ)</b> Achillas, <i>général de Ptolémée XII d’Égypte,</i> PLUT. DC. APP.`

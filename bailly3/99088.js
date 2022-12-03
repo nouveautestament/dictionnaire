@@ -1,1 +1,0 @@
-lar[99088]=`<b>άδος</b> <font color="purple">[ῐᾰδ]</font> <i>adj. f.</i> : ὄρνις, ANTH. <i>9, 95,</i> oiseau privé.<p><b>Étym</b>. τιθή.`

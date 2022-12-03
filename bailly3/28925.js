@@ -1,1 +1,0 @@
-lar[28925]=`<b>δυσ·τοκεύς, έως (ὁ)</b> malheureux père, <i>au plur</i>. malheureux parents, ANTH. <i>App. 225</i>.<p><b>Étym</b>. δ. τοκεύς.`

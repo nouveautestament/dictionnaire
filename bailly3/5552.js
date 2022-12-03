@@ -1,1 +1,0 @@
-lar[5552]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν</b>, Amèstris :<br><b>      1 (ὁ)</b> <i>chef perse,</i> ESCHL. <i>Pers. 320</i>.<br><b>      2 (ἡ)</b> <i>femme de Xerxès,</i> HDT. <i>7, 61, etc.</i> ; PLAT. <i>1 Alc. 123c, etc</i>.`

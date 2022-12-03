@@ -1,1 +1,0 @@
-lar[52296]=`<b>ή, όν</b>, propre à recevoir, à recueillir, MACR. <i>Sat. 7, 4</i>.<p><b>Étym</b>. καταδέχομαι.`

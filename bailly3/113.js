@@ -1,1 +1,0 @@
-lar[113]=`<b>ἀβλαστέω-ῶ</b>, ne pas germer, mal germer, TH. <i>C.P. 1, 20, 5</i>.<p><b>Étym</b>. ἀβλαστής.`

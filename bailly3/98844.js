@@ -1,1 +1,0 @@
-lar[98844]=`<b>ή, όν</b>, fait avec art, ARSTT. <i>P.A. 1, 1, 11</i>.<p><b>Étym</b>. <i>vb. de</i> τεχνάζω.`

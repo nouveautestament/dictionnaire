@@ -1,1 +1,0 @@
-lar[74472]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> taupe (<i>propr</i>. l’industrieuse) A. TR. <i>11, 652</i>.<p><b>Étym</b>. παλάμη.`

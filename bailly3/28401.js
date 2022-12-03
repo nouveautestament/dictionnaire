@@ -1,1 +1,0 @@
-lar[28401]=`<b>δυσ·εξαρίθμητος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à énumérer, innombrable, POL. <i>3, 58, 6</i> ; PLUT. <i>M. 667e</i>.<p><b>Étym</b>. δ. ἐξαριθμέω.`

@@ -1,1 +1,0 @@
-lar[95214]=`<b>ή, όν</b>, propre à céder, HPC. <i>Art. 812</i> g <i>conj</i>.`

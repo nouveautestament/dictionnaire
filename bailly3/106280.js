@@ -1,1 +1,0 @@
-lar[106280]=`<b>(ὁ)</b> Phintias, <i>ami de Damon,</i> PLUT. <i>Amic. mult. 2</i>.`

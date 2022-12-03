@@ -1,1 +1,0 @@
-lar[39398]=`<b>ἐπι·τηγανίζω</b> <font color="purple">[ᾰ]</font> faire griller ensuite, DIOSC. <i>Par. 2, 49</i>.`

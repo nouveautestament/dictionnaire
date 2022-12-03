@@ -1,1 +1,0 @@
-lar[56115]=`<b>ή, όν</b>, de voleur, furtif, clandestin, PLAT. <i>Crat. 408a</i>.<p><b>Étym</b>. κλοπή.`

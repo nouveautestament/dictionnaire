@@ -1,1 +1,0 @@
-lar[91921]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> maigre, PROCL. <i>Ptol. p. 202</i>.`

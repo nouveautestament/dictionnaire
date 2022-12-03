@@ -1,1 +1,0 @@
-lar[48052]=`<b>ου (ὁ)</b> thyrse, <i>bâton des Bacchants et des Bacchantes entouré de lierre et de pampre, avec une pomme de pin au sommet,</i> EUR. <i>Bacch. 80, 188</i> ; PLUT. <i>Alex. 2</i> ; ATH. <i>631a, etc</i>.<p>➳ <i>Plur</i>. τὰ θύρσα, ANTH. <i>6, 158</i>.`

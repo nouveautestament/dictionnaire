@@ -1,1 +1,0 @@
-lar[26050]=`<b>διδυμό·ζυγος, ος, ον</b> <font color="purple">[ῐῠῠ]</font> à double attelage, double, NONN. <i>D. 15, 21</i>.<p><b>Étym</b>. δίδυμος, ζυγός.`

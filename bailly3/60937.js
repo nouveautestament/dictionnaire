@@ -1,1 +1,0 @@
-lar[60937]=`<b>λιβό·νοτος, ου (ὁ)</b> <font color="purple">[ῐ]</font> vent du sud-sud-ouest, ARSTT. <i>Mund. 4</i> ; GEOP. <i>1, 11, 5</i>.<p><b>Étym</b>. λίψ, νότος.`

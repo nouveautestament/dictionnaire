@@ -1,1 +1,0 @@
-lar[89079]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui concerne une seine de pêcheur, ANTH. <i>6, 23 et 192</i>.<p><b>Étym</b>. σαγήνη.`

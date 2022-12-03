@@ -1,1 +1,0 @@
-lar[43668]=`<b>(ὁ)</b> Eutykhiadès, <i>h</i>. PLAT. <i>Crat. 397b</i>.<p><b>Étym</b>. <i>patr. de</i> Εὐτύχιος.`

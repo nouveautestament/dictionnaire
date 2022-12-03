@@ -1,1 +1,0 @@
-lar[32890]=`<b>ή, όν</b>, propre à ulcérer, DIOSC. <i>1, 183 ; 2, 66 ; fig</i>. PLUT. <i>M. 854c</i>.<p><b>Étym</b>. ἑλκόω.`

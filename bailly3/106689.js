@@ -1,1 +1,0 @@
-lar[106689]=`<b>Φόρκυνος λιμήν (ὁ)</b> <font color="purple">[ῡ]</font> le port de Phorkys, <i>à Ithaque,</i> OD. <i>13, 345</i>.`

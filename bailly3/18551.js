@@ -1,1 +1,0 @@
-lar[18551]=`<b>ἀ·χρωμάτιστος, ος, ον</b> <font color="purple">[μᾰ]</font> non coloré, ARSTT. <i>Meteor. 3, 1, 6, etc.</i> ; TH. <i>Od. 31 ; etc</i>.<p><b>Étym</b>. ἀ, χρωματίζω.`

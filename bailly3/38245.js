@@ -1,1 +1,0 @@
-lar[38245]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de saisir, ESCHL. <i>Suppl. 432, au plur.</i><br><b>      2</b> anse, poignée, HPC. <i>Art. 814</i>.<p><b>Étym</b>. ἐπιλαμβάνω.`

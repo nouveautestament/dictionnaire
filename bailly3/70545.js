@@ -1,1 +1,0 @@
-lar[70545]=`<b>Οἰνο·πήκτης, ου (ὁ)</b> Plante-la-vigne, <i>n. de paras</i>. ALCIPHR. <i>3, 8</i>.<p><b>Étym</b>. οἶν. πήγνυμι.`

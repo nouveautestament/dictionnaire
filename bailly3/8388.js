@@ -1,1 +1,0 @@
-lar[8388]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., avec résignation, LUC. <i>As. 2</i>.`

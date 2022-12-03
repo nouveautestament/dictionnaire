@@ -1,1 +1,0 @@
-lar[20719]=`<b>βραχυ·ρρήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui s’exprime brièvement, concis, THÉM. <i>315a</i>.<p><b>Étym</b>. βρ. ῥῆμα.`

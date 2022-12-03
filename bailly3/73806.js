@@ -1,1 +1,0 @@
-lar[73806]=`<b>ου (ὁ)</b> Opheltès, <i>n. d’h. myth</i>. NONN. <i>D. 32, 186</i>.`

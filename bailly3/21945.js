@@ -1,1 +1,0 @@
-lar[21945]=`<b>ου (τὸ)</b> aigrette de certaines plantes défleuries (<i>lat</i>. pappus) ARAT. <i>921</i> ; NIC. <i>Al. 126</i>.`

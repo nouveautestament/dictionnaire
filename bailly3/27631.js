@@ -1,1 +1,0 @@
-lar[27631]=`<b>ας (ἡ)</b> le 1<sup>er</sup> jour de la fête des Apaturies, que l’on célébrait par un souper public dans chaque phratrie, HDT. <i>2, 48</i> ; PHILYLL. (ATH. <i>171d</i>).<p><b>Étym</b>. δόρπον.`

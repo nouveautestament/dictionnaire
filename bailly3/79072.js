@@ -1,1 +1,0 @@
-lar[79072]=`<b>περι·πέμπω</b>, envoyer tout autour <i>ou</i> de tous côtés, HDT. <i>8, 7</i> ; THC. <i>4, 96 ; au pass</i>. HDT. <i>1, 48</i> ; THC. <i>5, 3</i>.`

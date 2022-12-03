@@ -1,1 +1,0 @@
-lar[54393]=`<b>ης, ες</b> <font color="purple">[ᾱῠ]</font> qui ressemble à de l’orge grillée TH. <i>H.P. 3, 12, 8, etc</i>.<p><b>Étym</b>. κάχρυς, -ωδης.`

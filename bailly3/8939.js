@@ -1,1 +1,0 @@
-lar[8939]=`<b>ἀνθρωπό·γλωττος, ος, ον</b>, qui parle un langage d’homme, ARSTT. <i>H.A. 8, 12, 13</i>.<p><b>Étym</b>. ἄ. γλῶττα.`

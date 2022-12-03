@@ -1,1 +1,0 @@
-lar[74695]=`<b>παμ·μάκαρ</b>, <i>gén</i>. <b>αρος (ὁ, ἡ)</b> <font color="purple">[μᾰκᾰ]</font> tout à fait heureux, bienheureux, ORPH. <i>H. 18, 3</i>.<p><b>Étym</b>. π. μάκαρ.`

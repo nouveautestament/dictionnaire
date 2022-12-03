@@ -1,1 +1,0 @@
-lar[32604]=`avoir pitié de, <i>acc</i>. IL. <i>6, 407</i> ; OD. <i>10, 399, etc. ; verbe épq. employé en outre par</i> AR. <i>Eq. 793</i> ; LUC. <i>Trag. 305</i>.<p>➳ <i>Impf</i>. ἐλέαιρον, IL. <i>21, 147</i> ; OD. <i>1, 19</i> ; A.RH. <i>4, 1422. Impf. itér</i>. ἐλεαίρεσκον, IL. <i>24, 23. Ao. sans augm</i>. ἐλέηρα, A.RH. <i>4, 1308</i>.<p><b>Étym</b>. ἔλεος.`

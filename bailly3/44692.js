@@ -1,1 +1,0 @@
-lar[44692]=`<b>ου</b>, <i>adj. m</i>. que l’on prend vivant, DS. <i>Exc. 510, 54 et 62</i> ; MEMN. (PHOT. <i>Bibl. 238, 28).</i><p><b>Étym</b>. ζωγρέω.`

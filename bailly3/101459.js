@@ -1,1 +1,0 @@
-lar[101459]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> un peu d’eau, PLAT. <i>Phædr. 229a ; particul.</i> :<br><b>      1</b> goutte d’eau, ARSTT. <i>H.A. 8, 28, 12, etc.</i><br><b>      2</b> petite pluie, TH. <i>C.P. 2, 9, 9</i>.<p><b>Étym</b>. <i>dim. de</i> ὕδωρ.`

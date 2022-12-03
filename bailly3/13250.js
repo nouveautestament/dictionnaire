@@ -1,1 +1,0 @@
-lar[13250]=`<b>ας (ἡ) :<br>      1</b> écoulement, EMPÉD. <i>281 Stein</i> ; XÉN. <i>Hell. 5, 2, 5</i>.<br><b>      2</b> <i>p. anal</i>. émanation des choses sensibles (<i>rayonnement, odeur, etc</i>.) ARSTT. <i>Probl. 12, commenc.</i> ; ORPH. <i>Lith. 171</i>.<p><b>Étym</b>. ἀπόρροος.`

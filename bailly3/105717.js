@@ -1,1 +1,0 @@
-lar[105717]=`<b>ας (ἡ)</b> l’amour de la géométrie, STOB. <i>Ecl. 2, 128</i>.<p><b>Étym</b>. φιλογεωμέτρης.`

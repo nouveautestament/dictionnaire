@@ -1,1 +1,0 @@
-lar[93589]=`<b>συγ·ξύω :<br>      1</b> racler <i>ou</i> gratter de tous côtés, HPC. <i>893a.</i><br><b>      2</b> <i>p. ext</i>. mettre en pièces, DL. <i>4, 47</i>.`

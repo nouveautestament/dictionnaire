@@ -1,1 +1,0 @@
-lar[56698]=`<b>ος, ον :<br>      1</b> tronqué, écourté, IL. <i>16, 117</i>.<br><b>      2</b> <i>particul</i>. aux cornes écourtées <i>ou</i> sans cornes, HDT. <i>4, 29</i> ; THCR. <i>Idyl. 8, 49</i> ; NIC. <i>Th. 260</i>.`

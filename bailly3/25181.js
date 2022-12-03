@@ -1,1 +1,0 @@
-lar[25181]=`<b>δια·ξιφίζομαι</b> <font color="purple">[ξῐ]</font> <font color="darkgreen">(<i>ao. ind. 2 sg</i>. διεξιφίσω)</font> se battre l’épée à la main : τινι περί τινος, AR. <i>Eq. 781</i>, avec qqn pour qqe ch.`

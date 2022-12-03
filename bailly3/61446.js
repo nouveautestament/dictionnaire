@@ -1,1 +1,0 @@
-lar[61446]=`<b>λιχανὸς δάκτυλος</b>, HPC. <i>618, 41, etc.</i> ; ATH. <i>15d, ou simpl</i>. <b>λιχανός, οῦ</b> <font color="purple">[ῐᾰ]</font> l’index, le second doigt de la main (<i>propr</i>. le lécheur) LUC. <i>Tim. 54</i> ; DL. <i>6, 35</i>.<p><b>Étym</b>. λείχω.`

@@ -1,1 +1,0 @@
-lar[106014]=`<b>φιλο·ποίμνιος, ος, ον</b> <font color="purple">[φῐ]</font> ami des troupeaux, THCR. <i>Idyl. 5, 106</i>.<p><b>Étym</b>. φ. ποίμνιον.`

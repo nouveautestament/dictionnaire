@@ -1,1 +1,0 @@
-lar[42277]=`<b>οῦ (ὁ)</b> vérificateur des comptes, PLAT. <i>Leg. 945b</i>.<p><b>Étym</b>. <i>cf</i>. εὐθυντήρ <i>et</i> εὔθυνος.`

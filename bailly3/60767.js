@@ -1,1 +1,0 @@
-lar[60767]=`<b>ΐτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f.</i> :<br><b>      1</b> <i>act</i>. qui préside au pillage, <i>ép. de Pallas,</i> IL. <i>10, 460</i> ; PAUS. <i>5, 14, 5</i> ; LYC. <i>105</i>.<br><b>      2</b> <i>pass</i>. emmenée captive, A.RH. <i>1, 818</i>.<p><b>Étym</b>. ληΐη.`

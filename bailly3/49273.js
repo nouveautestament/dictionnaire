@@ -1,1 +1,0 @@
-lar[49273]=`<b>ἱππ·ηλάτα (ὁ)</b> <font color="purple">[ᾰᾰ]</font> (<i>seul. nom. épq</i>.) qui conduit un char, IL. <i>4, 387, etc.</i> ; OD. <i>3, 436 et 444</i>.<p><b>Étym</b>. <i>cf</i>. ἱππηλάτης.`

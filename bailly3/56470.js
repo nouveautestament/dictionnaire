@@ -1,1 +1,0 @@
-lar[56470]=`<b>κοινο·βωμία, ας (ἡ)</b> communauté d’autels, <i>càd</i>. culte de plusieurs divinités sur un même autel, ESCHL. <i>Suppl. 222</i>.<p><b>Étym</b>. κοινός, βωμός.`

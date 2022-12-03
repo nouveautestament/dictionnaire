@@ -1,1 +1,0 @@
-lar[1922]=`<b>ος, ον</b>, impétueux, terrible, IL. <i>21, 395</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ; cf</i>. αἴητος.`

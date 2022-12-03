@@ -1,1 +1,0 @@
-lar[99893]=`<b>(ἡ)</b> <i>gén</i>. <b>ιδος</b>, LYC. <i>97, 1299, ou</i> <b>ιος</b>, NIC. <i>Th. 268,</i> vaisseau.<p><b>Étym</b>. <i>cf. lat</i>. trabs.`

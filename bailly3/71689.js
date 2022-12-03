@@ -1,1 +1,0 @@
-lar[71689]=`<b>ὁμό·σκοτος, ος, ον</b>, qui est dans les mêmes ténèbres, NAZ. <i>3, 1270a Migne</i>.<p><b>Étym</b>. ὁμ. σκότος.`

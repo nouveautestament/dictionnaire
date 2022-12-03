@@ -1,1 +1,0 @@
-lar[38133]=`être disciple d’Épicure, ORIG. <i>c. Cels. 4, p. 213</i>.<p><b>Étym</b>. Ἐπίκουρος.`

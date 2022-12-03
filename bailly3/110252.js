@@ -1,1 +1,0 @@
-lar[110252]=`<b>ης (ἡ)</b> jeu consistant à jeter des noix <i>ou</i> des noyaux dans un rond, EUP. (POLL. <i>9, 103</i>).`

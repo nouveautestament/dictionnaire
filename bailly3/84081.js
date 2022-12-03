@@ -1,1 +1,0 @@
-lar[84081]=`<b>προ·εκκρίνω</b> <font color="purple">[ῑ]</font> séparer auparavant, HPC. <i>50, 31</i> ; DIOSC. <i>1, 59</i>.`

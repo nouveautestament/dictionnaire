@@ -1,1 +1,0 @@
-lar[102949]=`<b>ου</b>, <i>adj. m</i>. qui a de la barbe, barbu, <i>en parl. de l’homme,</i> IL. <i>24, 348</i> ; OD. <i>10, 279</i> ; PLAT. <i>Prot. 309b ;</i> LUC. <i>Sacr. 11 ; en parl. de Pan,</i> ANTH. <i>6, 32</i>.<p><b>Étym</b>. ὑπήνη.`

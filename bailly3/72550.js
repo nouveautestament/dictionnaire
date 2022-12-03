@@ -1,1 +1,0 @@
-lar[72550]=`<b>οῦ (ὁ) :<br>      1</b> qui célèbre des mystères, PLUT. <i>M. 1107f.</i><br><b>      2</b> <i>p. ext</i>. initié à, sectateur de, <i>gén</i>. PLUT. <i>M. 417b, 717d ;</i> APP. <i>Civ. 4, 47</i>.<p><b>Étym</b>. ὀργιάζω.`

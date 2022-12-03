@@ -1,1 +1,0 @@
-lar[6457]=`<b>ἀμφοτερό·πλουν, ου (τὸ)</b> <i>s.-e</i>. ἀργύριον <i>ou</i> δάνειον, somme <i>ou</i> marchandise assurée pour l’aller et le retour par mer, DÉM. <i>908, 20</i>.<p><b>Étym</b>. ἀ. πλοῦς.`

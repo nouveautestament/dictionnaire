@@ -1,1 +1,0 @@
-lar[19776]=`<b>ας (ἡ)</b> moyens d’existence, XÉN. <i>Œc. 6, 10</i> ; POL. <i>6, 7, 5</i>.<p><b>Étym</b>. βιοτεύω.`

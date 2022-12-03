@@ -1,1 +1,0 @@
-lar[46795]=`<b>θεο·στιβής, ής, ές</b> <font color="purple">[ῐ]</font> foulé par le pied de Dieu, PROCL. <i>H. 6, 6</i> ; NAZ. <i>2, 649 Migne</i>.<p><b>Étym</b>. θ. στείβω.`

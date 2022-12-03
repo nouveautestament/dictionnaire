@@ -1,1 +1,0 @@
-lar[69242]=`<font color="purple">[ῑ]</font> <i>adv. att. c</i>. νῦν ; <i>avec une particule intercalée,</i> νυνγαρί, <i>c</i>. νῦν γάρ, ATT. ; νυνδί, <i>c</i>. νῦν δέ, ATT. ; νυνμενί, <i>c</i>. νῦν μέν, ATT.`

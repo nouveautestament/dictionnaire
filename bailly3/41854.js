@@ -1,1 +1,0 @@
-lar[41854]=`rendre calme, faire jouir du calme, NYSS. <i>1, 508</i>.<br><b><i>Moy</i>. εὐδιάζομαι</b>, jouir du calme, vivre dans la tranquillité, PLAT. <i>Ax. 370c</i>.<p><b>Étym</b>. εὐδία.`

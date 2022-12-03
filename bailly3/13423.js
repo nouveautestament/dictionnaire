@@ -1,1 +1,0 @@
-lar[13423]=`<b>ἀπο·στένω</b> (<i>seul. prés</i>.) pousser un gémissement, ARISTÉN. <i>2, 18</i>.`

@@ -1,1 +1,0 @@
-lar[109872]=`<b>ῆς (ἡ)</b> la Psittakène, <i>contrée de Perse,</i> ARSTT. <i>Mir. 35</i>.`

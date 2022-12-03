@@ -1,1 +1,0 @@
-lar[54131]=`<b>κατ·ομφάλιος, ος, ον</b> <font color="purple">[ᾰ]</font> proche du nombril, NIC. <i>Th. 290</i>.<p><b>Étym</b>. κ. ὀμφαλός.`

@@ -1,1 +1,0 @@
-lar[37399]=`<b>ἐπι·βριμάομαι-ῶμαι</b> <font color="purple">[ρῑ]</font> frémir, gronder, CALL. <i>Del. 56 conj. ; v</i>. ἐπιβρωμάομαι.`

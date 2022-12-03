@@ -1,1 +1,0 @@
-lar[34128]=`<b>ἔνδεκτόν ἐστι</b>, il est admissible <i>ou</i> possible, DYSC. <i>Synt. 181, 10 ; 544, 1</i>.<p><b>Étym</b>. ἐνδέχομαι.`

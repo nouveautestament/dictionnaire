@@ -1,1 +1,0 @@
-lar[90503]=`<font color="purple">[ῑ]</font> approvisionner de vivres, ARSTT. <i>Œc. 2, 38</i>.<p><b>Étym</b>. σιτηρέσιον.`

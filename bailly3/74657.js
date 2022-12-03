@@ -1,1 +1,0 @@
-lar[74657]=`<b>ου (τὸ)</b> temple <i>ou</i> sanctuaire d’Athèna, AND. <i>1, 106 Baiter-Sauppe</i>.<p><b>Étym</b>. Παλλήνη.`

@@ -1,1 +1,0 @@
-lar[83393]=`<b>ατος (τὸ)</b> inflammation, tumeur, enflure, HPC. <i>517, 20, etc</i>.<p><b>Étym</b>. πίμπρημι.`

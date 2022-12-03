@@ -1,1 +1,0 @@
-lar[98782]=`<b>ας (ἡ) :<br>      1</b> Teuthrania, <i>anc. v. de Mysie,</i> XÉN. <i>An. 2, 1, 3 ; 7, 8, 17 ; Hell. 3, 1, 6</i>.<br><b>      2</b> la Teuthranie, <i>contrée de Mysie autour de Teuthrania,</i> HDT. <i>2, 10</i>.<p>➳ <i>Ion</i>. Τευθρανίη, HDT. <i>l. c</i>.<p><b>Étym</b>. Τεύθρας.`

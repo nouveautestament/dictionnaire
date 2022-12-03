@@ -1,1 +1,0 @@
-lar[56570]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> prunier, <i>arbre,</i> TH. <i>H.P. 4, 2, 10</i>.<p><b>Étym</b>. κοκκύμηλον.`

@@ -1,1 +1,0 @@
-lar[77906]=`<b>πενητο·κόμος, ος, ον</b>, qui prend soin des pauvres, ANTH. <i>8, 31</i>.<p><b>Étym</b>. πένης, κομέω.`

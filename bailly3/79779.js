@@ -1,1 +1,0 @@
-lar[79779]=`<b>έως (ὁ)</b> <i>sorte de poisson de la mer rouge,</i> EL. <i>N.A. 3, 28</i>.`

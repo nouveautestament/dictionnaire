@@ -1,1 +1,0 @@
-lar[100100]=`<b>α, ον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> qui vient <i>ou</i> se fait le trentième jour, HPC. <i>Progn. 42</i> ; STR. <i>836</i>.<br><b>      2</b> âgé de trente jours, PHYLARQ. (ATH. <i>606f</i>).<p><b>Étym</b>. τριάκοντα.`

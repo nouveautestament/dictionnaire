@@ -1,1 +1,0 @@
-lar[51041]=`<font color="purple">[ᾰ]</font> <i>éol. c</i>. καλέω, SAPPH. <i>1, 16</i>.`

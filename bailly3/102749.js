@@ -1,1 +1,0 @@
-lar[102749]=`<b>ὑπερ·πέσσω</b> (<i>seul. prés</i>.) faire trop cuire, <i>d’où</i> digérer trop <i>ou</i> trop vite, HPC. <i>422, 19</i>.`

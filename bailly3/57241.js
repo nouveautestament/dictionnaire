@@ -1,1 +1,0 @@
-lar[57241]=`<b>κοσκινο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> fabricant de cribles, PHILYLL. (POLL. <i>7, 110).</i><p><b>Étym</b>. κόσκινον, ποιέω.`

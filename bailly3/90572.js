@@ -1,1 +1,0 @@
-lar[90572]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font><br><b>      1</b> intendance des achats de blé, <i>à Athènes,</i> DÉM. <i>918, 27</i>.<br><b>      2</b> achat de blé, PHIL. <i>2, 64, etc</i>.<p><b>Étym</b>. σιτώνης.`

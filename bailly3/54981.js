@@ -1,1 +1,0 @@
-lar[54981]=`<b>εως (ἡ)</b> sorte de maladie, <i>propr</i>. excroissance en forme de queue, P. ÉG. <i>6, 70, etc</i>.<p><b>Étym</b>. κέρκος.`

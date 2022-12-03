@@ -1,1 +1,0 @@
-lar[83695]=`<b>προ·αποτίκτω</b>, mettre au monde auparavant, ARSTT. <i>H.A. 5, 27, 3</i>.`

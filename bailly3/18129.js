@@ -1,1 +1,0 @@
-lar[18129]=`<b>ἄφ·ιππος, ος, ον :<br>      1</b> qui ne sait pas monter à cheval, PLAT. <i>Rsp. 335c ; Prot. 350a ;</i> LUC.<br><b>      2</b> peu propre aux manœuvres de cavalerie (terrain, pays, <i>etc</i>.) XÉN. <i>Hell. 3, 4, 12</i> ; PLUT. <i>Ant. 47</i>.<br><b>      3</b> sans cavalerie, POLYEN <i>4, 6, 6</i>.<p><b>Étym</b>. ἀπό, ἵππος.`

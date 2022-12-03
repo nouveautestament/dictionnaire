@@ -1,1 +1,0 @@
-lar[27881]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite faux, SÉLEUC. (ATH. <i>155e</i>).<p><b>Étym</b>. δρέπανον.`

@@ -1,1 +1,0 @@
-lar[81115]=`<b>έως (ὁ)</b> Ploutée, <i>autre forme de</i> Πλούτων, LUC. <i>Trag. 13</i>.<p>➳ <i>Voc</i>. Πλουτεῦ, ANTH. <i>App. 187 ; gén. épq. et ion</i>. Πλουτῆος, ANTH. <i>7, 587</i> ; Πλουτέος, MOSCH. <i>3, 130 ; dat. épq. et ion</i>. Πλουτῆϊ, MOSCH. <i>3, 22, 130, ou</i> Πλουτέϊ, MOSCH. <i>3, 138 ; acc</i>. Πλουτέα, ANTH. <i>9, 137</i>.`

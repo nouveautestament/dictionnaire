@@ -1,1 +1,0 @@
-lar[78786]=`<font color="purple">[ῠ]</font> <i>adv</i>., en baignant tout autour <i>ou</i> de tous côtés, HPC. <i>352, 51</i>.<p><b>Étym</b>. περικλύζω, -δην.`

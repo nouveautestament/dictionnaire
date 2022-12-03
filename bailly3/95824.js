@@ -1,1 +1,0 @@
-lar[95824]=`<b>συν·εφάλλομαι</b>, <i>anc. att</i>. <b>ξυν·εφάλλομαι</b>, sauter ensemble <i>ou</i> en même temps sur, PHILSTR. <i>799</i>.`

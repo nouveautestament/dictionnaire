@@ -1,1 +1,0 @@
-lar[18370]=`<b>ἀ·χάλινος, ος, ον</b> <font color="purple">[χᾰῑ]</font> sans frein, <i>au pr. et au fig</i>. EUR. <i>H.f. 383</i> ; AR. <i>Ran. 838</i> ; PLAT. <i>Leg. 707c</i>.<p><b>Étym</b>. ἀ, χαλινός.`

@@ -1,1 +1,0 @@
-lar[78731]=`<b>περι·καταπίπτω</b> <font color="darkgreen">(<i>ao. 3 sg. poét</i>. περικάππεσε)</font> tomber autour de <i>ou</i> sur, <i>dat</i>. A.RH. <i>2, 831</i> ; TRIPHIOD. <i>576</i>.`

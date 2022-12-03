@@ -1,1 +1,0 @@
-lar[41810]=`<b>εὐ·γύαλος, ος, ον</b> <font color="purple">[ᾰ]</font> bien courbé <i>ou</i> arrondi, PLAT. <i>Theæt. 148a ;</i> NONN. <i>D. 13, 68</i>.<p><b>Étym</b>. εὖ, γύαλον.`

@@ -1,1 +1,0 @@
-lar[39590]=`<b>ἐπι·φλυκταινόομαι-οῦμαι</b>, se couvrir de pustules, HPC. <i>1127b</i>.`

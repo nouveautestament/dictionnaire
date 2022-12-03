@@ -1,1 +1,0 @@
-lar[68917]=`<b>ου (ὁ)</b> Nomios, <i>fils d’Apollon et de Kyrènè,</i> PD. <i>P. 9, 115</i>.<p><b>Étym</b>. νόμος.`

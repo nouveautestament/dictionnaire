@@ -1,1 +1,0 @@
-lar[50306]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> clair (œil, regard) HPC. <i>1162c</i>.<p><b>Étym</b>. καθαρός, -ωδης.`

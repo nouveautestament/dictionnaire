@@ -1,1 +1,0 @@
-lar[45916]=`<b>ΐδος :<br>   I</b> <i>adj. f</i>. de héros, A.RH. <i>1, 1048</i> ; ANTH. <i>9, 504</i>.<br><b>   II</b> <i>subst.</i> :<br><b>      1</b> <i>c</i>. ἡρωΐνη, PD. <i>P. 11, 13</i> ; CALL. <i>fr. 126</i>.<br><b>      2</b> <i>fête à Delphes tous les neuf ans,</i> PLUT. <i>M. 293b</i>.<p><b>Étym</b>. ἥρως.`

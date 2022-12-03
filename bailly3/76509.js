@@ -1,1 +1,0 @@
-lar[76509]=`<b>ου (τὸ)</b> <font color="purple">[δᾰ]</font> animal sauvage inconnu, ARSTT. <i>H.A. 2, 11 au pl</i>.`

@@ -1,1 +1,0 @@
-lar[99353]=`<b>ου (ἡ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> chaux, ARSTT. <i>Meteor. 4, 6, 11 ; 4, 11, 1</i> ; LUC. <i>H. conscr. 62, etc.</i><br><b>      2</b> plâtre, gypse, HÉS. <i>Sc. 141</i>.<br><b>      3</b> marbre, éclat de marbre, LUC. <i>Somn. 6</i>.`

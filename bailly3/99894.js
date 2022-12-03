@@ -1,1 +1,0 @@
-lar[99894]=`<b>ας (ἡ)</b> Trampya, <i>v. d’Épire,</i> LYC. <i>800</i>.`

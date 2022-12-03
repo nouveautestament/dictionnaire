@@ -1,1 +1,0 @@
-lar[20776]=`<b>ή, όν</b>, de l’enfance, enfantin, PHIL. <i>2, 84</i> ; NYSS. <i>2, 1185b Migne</i>.<p><b>Étym</b>. βρέφος.`

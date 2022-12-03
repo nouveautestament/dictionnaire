@@ -1,1 +1,0 @@
-lar[34011]=`<b>έων (οἱ)</b> les Énarées (= <i>grec</i> ἀνδρόγυνοι, <i>litt</i>. hommes-femmes, <i>càd</i>. efféminés) <i>pplade Scythe,</i> HDT. <i>1, 105 ; 4, 67</i>.`

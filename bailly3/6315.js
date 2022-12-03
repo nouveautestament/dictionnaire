@@ -1,1 +1,0 @@
-lar[6315]=`<b>ἀμφι·πλεκής, ής, ές</b>, qui s’enlace autour de, <i>dat</i>. ORPH. <i>Arg. 605</i>.<p><b>Étym</b>. ἀ. πλέκω.`

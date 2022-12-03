@@ -1,1 +1,0 @@
-lar[45338]=`<b>ἡμερο·θηρική, ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de chasser les animaux non sauvages, PLAT. <i>Soph. 222c</i>.<p><b>Étym</b>. ἥμερος, θήρα.`

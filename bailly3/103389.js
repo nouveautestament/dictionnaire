@@ -1,1 +1,0 @@
-lar[103389]=`<b>ὑπό·κοιλον, ου (τὸ)</b> la paupière inférieure, RUF. <i>p. 24</i> ; HPC. <i>V.C. 905</i>.<p><b>Étym</b>. ὑ. κοῖλος.`

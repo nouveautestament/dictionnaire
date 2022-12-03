@@ -1,1 +1,0 @@
-lar[70509]=`<font color="purple">[ᾰ]</font> <i>nom. sg. part. prés. épq. de</i> οἰνοβαρέω OD. <i>9, 374 ; 10, 555</i>.`

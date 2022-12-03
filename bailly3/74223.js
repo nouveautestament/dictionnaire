@@ -1,1 +1,0 @@
-lar[74223]=`<b>ος, ον</b>, qui se fait par jeu, ANTH. <i>12, 212</i>.<p><b>Étym</b>. παίγνιον.`

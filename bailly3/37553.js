@@ -1,1 +1,0 @@
-lar[37553]=`bander une plaie, ANTH. <i>11, 125</i>.<p><b>Étym</b>. ἐπίδεσμος.`

@@ -1,1 +1,0 @@
-lar[64601]=`<b>α</b> <i>et</i> <b>ου (ὁ)</b> = <i>lat</i>. Messala, <i>n. d’h. rom</i>. PLUT. <i>Brut. 45, etc</i>.<p>➳ <i>Voc</i>. Μεσσάλα, PLUT. <i>Brut. 40. Gén</i>. Μεσσάλα, PLUT. <i>Syll. 35, Brut. 41, etc.</i> ; Μεσσάλου, DC. <i>37, 46 ; 51, 7</i>.`

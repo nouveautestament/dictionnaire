@@ -1,1 +1,0 @@
-lar[101645]=`<b>ου (ὁ)</b> propos futile, baliverne, bavardage, PLAT. <i>Lys. 221d, etc.</i> ; DÉM. <i>931, 12 ; etc. ; au plur</i>. PLAT. <i>Rsp. 336d</i>.`

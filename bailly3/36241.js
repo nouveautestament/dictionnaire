@@ -1,1 +1,0 @@
-lar[36241]=`<b>ἐξ·οφέλλω</b> (<i>seul. impf. 3 sg</i>. ἐξώφελλεν) grossir encore, accroître encore, OD. <i>15, 18</i>.`

@@ -1,1 +1,0 @@
-lar[108703]=`<b>ης, ες</b>, semblable à un porc, de porc, CHRYS. <i>Gen. 159, etc</i>.<p><b>Étym</b>. χοῖρος, -ωδης.`

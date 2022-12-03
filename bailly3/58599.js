@@ -1,1 +1,0 @@
-lar[58599]=`<b>ου (ὁ)</b> Kyknos, <i>n. d’h. myth</i>. HÉS. <i>Sc. 57</i>.<p><b>Étym</b>. <i>v</i>. κύκνος.`

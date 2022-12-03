@@ -1,1 +1,0 @@
-lar[87715]=`être jaune comme du buis, XÉNOCR. <i>Al. 45</i>.<p><b>Étym</b>. πύξος.`

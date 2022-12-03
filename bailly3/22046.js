@@ -1,1 +1,0 @@
-lar[22046]=`<b>γλαυκή·πορος, ος, ον</b>, aux sillons bleus (<i>litt</i>. au chemin bleu), <i>en parl. des vagues,</i> Ps.-EMPÉD. <i>Sph. 143</i>.<p><b>Étym</b>. γλαυκός, πόρος.`

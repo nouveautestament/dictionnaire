@@ -1,1 +1,0 @@
-lar[91007]=`<i>adv</i>., dans l’ombre, NYSS.<p><b>Étym</b>. σκιώδης.`

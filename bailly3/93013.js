@@ -1,1 +1,0 @@
-lar[93013]=`<b>ιγγος (ὁ) :<br>      1</b> pivot, EUR. <i>Ph. 1126 ; particul</i>. gond d’une porte, TH. <i>H.P. 5, 5, 4</i> ; PLUT. <i>Rom. 23 ; fig. en parl. de la langue d’un bavard,</i> AR. <i>Ran. 893</i>.<br><b>      2</b> vertèbre, PHÉRÉCR. (<i>Com. fr. 2, 356</i>) ; PLAT. <i>Tim. 74a,b</i>.<p>➳ ἡ στρ. EM. <i>446, 31, etc</i>.<p><b>Étym</b>. στρέφω.`

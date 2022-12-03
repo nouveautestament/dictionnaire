@@ -1,1 +1,0 @@
-lar[56404]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> badaud (<i>propr</i>. qui ouvre des yeux stupides) EL. <i>V.H. 13, 15</i>.<p><b>Étym</b>. <i>v</i>. κοικύλλω.`

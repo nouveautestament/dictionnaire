@@ -1,1 +1,0 @@
-lar[94778]=`<b>συν·αναχρέμπτομαι</b>, cracher <i>ou</i> rejeter avec, LUC. <i>Gall. 10</i>.`

@@ -1,1 +1,0 @@
-lar[36766]=`<b>ᾶς (ἡ)</b> <font color="purple">[ᾱρ]</font> imprécation, IL. <i>9, 456</i> ; POÈT. (ATH. <i>466a</i>).<p><b>Étym</b>. ἐπί, ἀρά.`

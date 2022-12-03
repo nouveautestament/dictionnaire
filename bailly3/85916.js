@@ -1,1 +1,0 @@
-lar[85916]=`<b>προσ·καινουργέω-ῶ</b>, machiner en outre qqe ch. JOS. <i>A.J. 17, 3, 2</i>.`

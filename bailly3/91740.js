@@ -1,1 +1,0 @@
-lar[91740]=`<b>εως (ἡ)</b> <font color="purple">[ᾰρ]</font> <i>c</i>. σπαραγμός, A. APHR. <i>Probl. 68, 25</i>.`

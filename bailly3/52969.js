@@ -1,1 +1,0 @@
-lar[52969]=`<b>κατά·ξηρος, ος, ον</b>, tout à fait sec, entièrement desséché, ARSTT. <i>An. 2, 10</i> ; TH. <i>C.P. 6, 18, 3 ; fig</i>. PLUT. <i>M. 8c ;</i> τὸ κ. τῆς ἐπιθυμίας, ALCIPHR. <i>1, 22,</i> le désir qui dessèche le cœur.<p><b>Étym</b>. κ. ξηρός.`

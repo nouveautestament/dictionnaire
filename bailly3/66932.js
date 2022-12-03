@@ -1,1 +1,0 @@
-lar[66932]=`<b>μουσο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime les Muses, <i>càd</i>. les arts, la poésie, ANTH. <i>9, 411</i>.<p><b>Étym</b>. μ. χαίρω.`

@@ -1,1 +1,0 @@
-lar[57869]=`<i>adv</i>., comme un Crétois, AR. <i>Eccl. 1165</i> ; DS. <i>5, 46</i>.`

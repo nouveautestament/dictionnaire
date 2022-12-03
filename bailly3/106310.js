@@ -1,1 +1,0 @@
-lar[106310]=`<b>(ἡ)</b> prêtresse de Junon, <i>à Rome,</i> PLUT. <i>Qu. rom. 86</i>.<p><b>Étym</b>. φλάμιν.`

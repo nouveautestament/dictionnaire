@@ -1,1 +1,0 @@
-lar[77742]=`<b>ῶν (οἱ) :<br>      1</b> Pélasgiôtes, <i>pple de la Thessalie,</i> STR. <i>447</i>.<br><b>      2</b> les Grecs, <i>en gén</i>. EUR. <i>fr. 230 Nauck</i>.<p><b>Étym</b>. Πελασγός.`

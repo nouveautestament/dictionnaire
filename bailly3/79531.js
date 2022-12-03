@@ -1,1 +1,0 @@
-lar[79531]=`<b>ος, ον</b>, qui tourne autour, circulaire, PLUT. <i>Lys. 12 dout</i>.<p><b>Étym</b>. περιτρέπω.`

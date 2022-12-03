@@ -1,1 +1,0 @@
-lar[35129]=`<b>ατος (τὸ)</b> fard, PLUT. <i>Crass. 24</i> ; CLÉM. <i>1, 569 Migne</i> ; THÉM. <i>167</i>.<p><b>Étym</b>. ἐντρίβω.`

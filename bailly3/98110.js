@@ -1,1 +1,0 @@
-lar[98110]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> Telamôn, <i>fils d’Éaque, père d’Ajax,</i> IL. <i>13, 177 ; 16, 14 ; 17, 284, etc.</i> ; OD. <i>11, 553</i> ; PD. <i>P. 8, 100, etc</i>.`

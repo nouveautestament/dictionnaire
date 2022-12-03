@@ -1,1 +1,0 @@
-lar[1375]=`<b>ἀ·διάτρεπτος, ος, ον</b>, que rien ne détourne, audacieux, SPT. <i>Sir. 26, 10 ; 42, 11</i> ; CLÉM. <i>1, 565 Migne</i>.<p><b>Étym</b>. ἀ, διατρέπω.`

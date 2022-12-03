@@ -1,1 +1,0 @@
-lar[69390]=`<b>ξανθο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui a une écorce (<i>propr</i>. une robe) jaune, ANTH. <i>6, 102</i>.<p><b>Étym</b>. ξ. χιτών.`

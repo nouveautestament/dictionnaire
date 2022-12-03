@@ -1,1 +1,0 @@
-lar[92708]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> ridé, plissé, HPC. <i>Art. 826 au cp</i>. -έστερος.<p><b>Étym</b>. στολίς.`

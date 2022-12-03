@@ -1,1 +1,0 @@
-lar[86604]=`<b>ατος (τὸ) :<br>      1</b> parole adressée à qqn, <i>au plur</i>. ESCHL. <i>Ch. 876</i> ; EUR. <i>Ion 401 ; au sg</i>. SOPH. <i>Aj. 500, Ph. 235</i> ; EUR. <i>Her. 573</i>.<br><b>      2</b> appellation, nom, ESCHL. <i>Ag. 903 au plur</i>.<p><b>Étym</b>. προσφθέγγομαι.`

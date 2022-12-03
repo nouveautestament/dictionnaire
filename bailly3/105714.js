@@ -1,1 +1,0 @@
-lar[105714]=`<b>φιλό·γελως, ωτος</b> (ὁ, ἡ, τὸ) <font color="purple">[ῐ]</font> qui aime à rire, rieur, MÉN. <i>4, 282 Meineke</i> ; PLAT. <i>Rsp. 388e ;</i> τὸ φ. ARSTT. <i>Rhet. 2, 12, 16,</i> l’amour du rire, la gaieté.<p>➳ <i>Acc</i>. -ων, ATH. <i>261d ; neutre</i> φιλόγελω, PHILSTR. <i>518 ; acc. pl</i>. φιλόγελως, TH. (ATH. <i>261d</i>).`

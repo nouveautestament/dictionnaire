@@ -1,1 +1,0 @@
-lar[108118]=`<b>χειρο·βάλλιστρα</b>, <i>mieux que</i> <b>χειρο·βάλιστρα, ας (ἡ)</b> chirobaliste, <i>arme de jet portative lançant des flèches,</i> HÉRON.<p><b>Étym</b>. χ. βάλλω.`

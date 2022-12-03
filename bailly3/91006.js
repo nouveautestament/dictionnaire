@@ -1,1 +1,0 @@
-lar[91006]=`<b>ης, ες :<br>      1</b> ombreux, EUR. <i>Suppl. 759</i> ; TH. <i>H.P. 9, 18, 2</i>.<br><b>      2</b> <i>p. suite,</i> obscur, sombre, HPC. <i>Epid. 3, 1082</i> ; ARSTT. <i>Col. 3, 9</i>.<p><b>Étym</b>. σκιά, -ωδης.`

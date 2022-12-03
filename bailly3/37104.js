@@ -1,1 +1,0 @@
-lar[37104]=`<b>ἐπ·εντρώγω</b> (<i>inf. ao.2</i> ἐπεντραγεῖν) manger en outre pour finir le repas, PHIL. <i>2, 479</i>.`

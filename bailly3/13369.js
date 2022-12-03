@@ -1,1 +1,0 @@
-lar[13369]=`<b>άδος :<br>   I</b> <i>adj. f</i>. arrachée, NONN. <i>D. 34, 347</i>.<br><b>   II</b> <i>subst</i>. ἡ ἀπ. :<br><b>      1</b> branche, ANTH. <i>6, 300</i>.<br><b>      2</b> tige de plante, GEOP. <i>11, 9, etc</i>.<p><b>Étym</b>. ἀποσπάω.`

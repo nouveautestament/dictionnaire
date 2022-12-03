@@ -1,1 +1,0 @@
-lar[9247]=`<b>ἀν·ολοφύρομαι</b> <font color="darkgreen">(<i>ao</i>. ἀνωλοφυράμην)</font> se lamenter, THC. <i>8, 81</i> ; XÉN. <i>Cyr. 7, 3, 14 ; avec un part</i>. PLAT. <i>Prot. 327d</i>.<p><b>Étym</b>. ἀνά, ὀ.`

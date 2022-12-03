@@ -1,1 +1,0 @@
-lar[8877]=`<b>ἀνθο·νόμος, ος, ον</b>, qui se nourrit de fleurs, ESCHL. <i>Suppl. 539</i>.<p><b>Étym</b>. ἄνθος, νέμω.`

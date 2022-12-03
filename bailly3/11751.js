@@ -1,1 +1,0 @@
-lar[11751]=`<b>ἀ·περίβλητος, ος, ον</b>, non enveloppé, non étoffé (style) HERMOG. <i>3, 270 Walz</i>.<p><b>Étym</b>. ἀ, περιβάλλω ; <i>cf</i>. περιβολή.`

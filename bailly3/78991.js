@@ -1,1 +1,0 @@
-lar[78991]=`être périodique, STR. <i>293</i> ; PHIL. <i>2, 576</i> ; GAL. <i>19, 185</i>.<p><b>Étym</b>. περίοδος.`

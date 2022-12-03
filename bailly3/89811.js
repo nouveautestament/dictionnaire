@@ -1,1 +1,0 @@
-lar[89811]=`<b>σεμνόω-ῶ</b>, rendre imposant, <i>d’où</i> orner, embellir, HDT. <i>1, 95 ; 3, 16</i>.<p><b>Étym</b>. σεμνός.`

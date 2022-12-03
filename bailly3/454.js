@@ -1,1 +1,0 @@
-lar[454]=`<b>ἀ·γείτων, ων, ον</b>, sans voisin, solitaire, ESCHL. <i>Pr. 270 ; joint à</i> ἄφιλος, PLUT. <i>M. 423d ; avec un gén</i>. οἶκος φίλων ἀγ. EUR. <i>El. 1130,</i> maison sans voisins amis.<p><b>Étym</b>. ἀ, γείτων.`

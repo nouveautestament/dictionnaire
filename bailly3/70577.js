@@ -1,1 +1,0 @@
-lar[70577]=`<b>οἰνό·τροποι, ων (αἱ)</b> qui changent l’eau en vin, <i>ép. des filles d’Anios, roi de Dèlos,</i> SIM. <i>fr. 23</i> ; LYC. <i>560, 580</i>.<p><b>Étym</b>. οἶν. τρέπω.`

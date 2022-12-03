@@ -1,1 +1,0 @@
-lar[93073]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> pilastre, HÉRON.<p><b>Étym</b>. <i>Math. vet. 119a</i>.`

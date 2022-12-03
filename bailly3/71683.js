@@ -1,1 +1,0 @@
-lar[71683]=`<b>ὁμοσιτέω-ῶ</b> <font color="purple">[ῑ]</font> manger avec, <i>dat</i>. HDT. <i>1, 146</i>.<p><b>Étym</b>. ὁμόσιτος.`

@@ -1,1 +1,0 @@
-lar[17720]=`<b>ος, ον</b>, parfait en soi, PROCL.<p><b>Étym</b>. αὐτοτελής.`

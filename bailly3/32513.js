@@ -1,1 +1,0 @@
-lar[32513]=`<b>οῦ (ὁ) :<br>      1</b> lame métallique, DC. <i>46, 36 ; 57, 18</i>.<br><b>      2</b> course à cheval <i>ou</i> conduite d’un char, HIPPIATR. <i>p. 5, 13</i>.<p><b>Étym</b>. ἐλάω.`

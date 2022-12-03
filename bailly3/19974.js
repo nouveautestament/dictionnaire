@@ -1,1 +1,0 @@
-lar[19974]=`<b>ου (τὸ)</b> blette, <i>plante,</i> HPC. <i>699, 20</i> ; THPP. COM. (ATH. <i>649b</i>) ; TH. <i>H.P. 7, 1, 2, etc</i>.`

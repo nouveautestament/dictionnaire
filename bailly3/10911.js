@@ -1,1 +1,0 @@
-lar[10911]=`<b>ἀξιό·θεος, ος, ον</b>, digne de la divinité, ŒNOM. (EUS. <i>P.E. 230c</i>).<p><b>Étym</b>. ἄ. θεός.`

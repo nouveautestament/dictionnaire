@@ -1,1 +1,0 @@
-lar[66132]=`<b>α, ον</b> <font color="purple">[νᾱ]</font><br><b>      1</b> qui pèse une mine, XÉN. <i>Hipp. 1, 16, etc.</i> ; DS. <i>19, 45 et 109</i>.<br><b>      2</b> qui vaut une mine, AMIPS. (<i>Com. fr. 2, 709).</i><p><b>Étym</b>. μνᾶ.`

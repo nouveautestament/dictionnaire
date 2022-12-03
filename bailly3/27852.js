@@ -1,1 +1,0 @@
-lar[27852]=`<font color="purple">[ᾱ]</font> (<i>seul. prés</i>.) avoir envie d’agir, de faire, <i>acc</i>. SOPH. <i>Aj. 326</i> ; EUR. <i>Med. 93</i> ; AR. <i>Pax 62 ; Vesp. 168</i>.<p><b>Étym</b>. δράω.`

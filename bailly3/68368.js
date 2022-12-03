@@ -1,1 +1,0 @@
-lar[68368]=`<b>νευρο·ειδής, ής, ές</b>, semblable à des fibres : τὸ νευροειδές, DIOSC. <i>4, 16, sorte de plante</i>.<p><b>Étym</b>. νεῦρον, εἶδος.`

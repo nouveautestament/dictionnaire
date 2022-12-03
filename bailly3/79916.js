@@ -1,1 +1,0 @@
-lar[79916]=`<b>ης, ες :<br>      1</b> pierreux, rocailleux, HPC. <i>Aër. 280</i> ; PLAT. <i>Rsp. 612a ;</i> ARSTT. <i>H.A. 5, 17, 8</i>.<br><b>      2</b> de pierre, fait en pierres, SOPH. <i>Ant. 774, 948</i>.<p><b>Étym</b>. πέτρα <i>ou</i> πέτρος, -ωδης.`

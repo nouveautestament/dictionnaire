@@ -1,1 +1,0 @@
-lar[50198]=`<b>καγκελο·ειδῶς</b>, <i>adv</i>., en forme de grillage, HIPPIATR. <i>254</i>.<p><b>Étym</b>. κάγκελος, εἶδος.`

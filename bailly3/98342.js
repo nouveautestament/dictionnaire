@@ -1,1 +1,0 @@
-lar[98342]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> récit de choses extraordinaires, inventions mensongères, hâblerie, ISOCR. <i>Antid. § 304</i> ; STR. <i>271</i> ; LUC. <i>Philopatr. 2</i>.<p><b>Étym</b>. τερατολόγος.`

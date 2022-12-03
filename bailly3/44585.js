@@ -1,1 +1,0 @@
-lar[44585]=`<b>ου (τὸ)</b> ivraie (<i>Lolium temulentum</i> L.) <i>mauvaise herbe</i>, GEOP. <i>2, 43 ; au plur</i>. NT. <i>Matth. 13, 25</i> ; GEOP. <i>10, 87</i>.<p><b>Étym</b>. <i>emprunt à une langue orientale (sumérien)</i>.`

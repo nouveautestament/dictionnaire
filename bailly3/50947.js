@@ -1,1 +1,0 @@
-lar[50947]=`<b>καλαθη·φόρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui porte une corbeille <i>ou</i> un panier à provisions, DYSC. <i>602, 22 Bekker, Anecdota græca</i> ; οἱ καλαθηφόροι, les porteurs de corbeilles, <i>titre d’une comédie d’Eubule,</i> AMMON.Gr. <i>p. 50</i>.<p><b>Étym</b>. κάλαθος, φέρω.`

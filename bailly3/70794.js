@@ -1,1 +1,0 @@
-lar[70794]=`<i>vb. de</i> ὀκνέω, PLAT. <i>Leg. 891d ;</i> ISOCR. <i>55e ;</i> POL. <i>1, 14, 7, etc</i>.`

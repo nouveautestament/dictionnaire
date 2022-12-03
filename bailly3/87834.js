@@ -1,1 +1,0 @@
-lar[87834]=`<b>πυρη·φάτος, ος, ον</b> <font color="purple">[ῡᾰ]</font> qui fait périr, <i>càd</i>. qui écrase le blé, <i>ép. de la meule,</i> ANTH. <i>7, 394</i>.<p><b>Étym</b>. πυρός, πεφνεῖν.`

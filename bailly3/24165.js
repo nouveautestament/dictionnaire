@@ -1,1 +1,0 @@
-lar[24165]=`<i>vb. de</i> δηλόω, PLAT. <i>Tim. 48e ;</i> PHIL. <i>1, 15</i>.`

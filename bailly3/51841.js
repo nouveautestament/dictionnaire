@@ -1,1 +1,0 @@
-lar[51841]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. de Karnè, <i>en Phénicie,</i> LYC. <i>1291</i>.`

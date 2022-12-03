@@ -1,1 +1,0 @@
-lar[26529]=`<b>ου (ὁ)</b> <font color="purple">[δῐ]</font> qui travaille avec le hoyau, LUC. <i>Tim. 8</i>.<p><b>Étym</b>. δίκελλα.`

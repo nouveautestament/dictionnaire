@@ -1,1 +1,0 @@
-lar[46490]=`<b>Θειο·δάμας, αντος (ὁ)</b> <font color="purple">[δᾰ]</font><br><b>      1</b> Théiodamas, <i>roi des Dryopes,</i> A.RH. <i>1, 1213</i> ; CALL. <i>H. 3, 161, etc.</i><br><b>      2</b> <i>autres,</i> Q. SM. <i>1, 292, etc</i>.<p><b>Étym</b>. θεῖος¹, δαμάω.`

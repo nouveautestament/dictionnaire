@@ -1,1 +1,0 @@
-lar[107759]=`<b>χαμαι·εύνης, ου</b> <font color="purple">[ᾰ, αι bref]</font> <i>adj. m</i>. qui couche <i>ou</i> dort à terre, IL. <i>16, 235</i> ; EL. <i>N.A. 12, 7</i>.<p><b>Étym</b>. χ. εὐνή.`

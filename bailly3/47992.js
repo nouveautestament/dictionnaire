@@ -1,1 +1,0 @@
-lar[47992]=`<b>θυο·φόρος, ος, ον</b>, qui apporte, <i>càd</i>. qui offre de l’encens, des victimes, NAZ.<p><b>Étym</b>. θύος, φέρω.`

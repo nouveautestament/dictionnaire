@@ -1,1 +1,0 @@
-lar[20586]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. βραβεύς, EPIGR. (DÉM. <i>322, 11) dout</i>.`

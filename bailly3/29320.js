@@ -1,1 +1,0 @@
-lar[29320]=`<b>α, ον</b>, hébreu ; οἱ Ἑβραῖοι, les Hébreux, PAUS. <i>1, 5, 5</i> ; APP. <i>Civ. 2, 71 ; etc</i>.`

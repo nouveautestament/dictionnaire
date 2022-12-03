@@ -1,1 +1,0 @@
-lar[69516]=`<b>ου (ὁ)</b> Xerxès, <i>roi de Perse,</i> HDT. <i>6, 98</i>.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>4, 43, etc. ; dat. dor</i>. -ᾳ, ESCHL. <i>Pers. 923 ; acc. ion</i>. -εα, HDT. <i>4, 43, etc</i>.<p><b>Étym</b>. <i>persan</i> Khsarsyâ <i>ou</i> Khâshearsa, le belliqueux.`

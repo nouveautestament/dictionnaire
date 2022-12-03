@@ -1,1 +1,0 @@
-lar[22949]=`<b>εσσα, εν</b> <font color="purple">[ᾰ]</font> <i>c</i>. δαιδάλεος, Q. SM. <i>1, 141</i> ; ANTH. <i>9, 332</i>.`

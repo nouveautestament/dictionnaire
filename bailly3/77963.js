@@ -1,1 +1,0 @@
-lar[77963]=`<b>*πεντά·δωρον, ου (τὸ)</b> <i>seul. lat</i>. pentadoron, longueur de cinq palmes, VITR. <i>2, 3</i>.<p><b>Étym</b>. π. δῶρον.`

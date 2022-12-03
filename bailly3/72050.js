@@ -1,1 +1,0 @@
-lar[72050]=`<b>ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. aigre, sur :<br><b>      1</b> <i>au propre,</i> PLUT. <i>M. 913</i> b : οἶνος ; TH. <i>H.P. 9, 20, 4 ; ou subst</i>. ὁ ὀξίνης, TH. <i>H.P. 9, 11, 1,</i> vin aigri.<br><b>      2</b> <i>fig</i>. AR. <i>Vesp. 1082 ; subst</i>. ὁ ὀξίνης, AR. <i>Eq. 1304,</i> homme acerbe, caractère maussade.<p><b>Étym</b>. ὀξύς.`

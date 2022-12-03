@@ -1,1 +1,0 @@
-lar[54646]=`monter un cheval de selle, IL. <i>15, 679 ; fig</i>. AR. <i>Th. 153</i>.<p><b>Étym</b>. κέλης.`

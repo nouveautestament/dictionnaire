@@ -1,1 +1,0 @@
-lar[51919]=`<i>adv</i>., de qqe ch. de meilleur, DAMASC. (SUID. <i>v°</i> κάρρων).<p><b>Étym</b>. κάρρων, -θεν.`

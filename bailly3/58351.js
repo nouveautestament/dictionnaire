@@ -1,1 +1,0 @@
-lar[58351]=`<b>κυανό·πεπλος, ος, ον</b> <font color="purple">[ῡ <i>irrég.</i> ; ᾰ]</font> au voile sombre <i>ou</i> noir, HH. <i>Cer. 320, etc.</i> ; HÉS. <i>Th. 406</i>.<p><b>Étym</b>. κ. πέπλον.`

@@ -1,1 +1,0 @@
-lar[43035]=`<b>εὔ·πλευρος, ος, ον</b>, aux flancs robustes, ARSTT. <i>H.A. 7, 9, 3, etc</i>.<p><b>Étym</b>. εὖ, πλευρά.`

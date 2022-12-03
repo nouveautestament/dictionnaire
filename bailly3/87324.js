@@ -1,1 +1,0 @@
-lar[87324]=`<b>πτερνο·κοπίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> écornifleuse de jambons, MÉN. <i>4, 148 Meineke</i> ; AXION. (<i>Com. fr. 3, 534).</i><p><b>Étym</b>. πτ. κόπτω.`

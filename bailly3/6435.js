@@ -1,1 +1,0 @@
-lar[6435]=`<b>ἀμφι·χορεύω</b> (<i>prés. et impf</i>.) danser en chœur autour de, EUR. <i>fr. 596</i> ; ANTH. <i>9, 83</i>.`

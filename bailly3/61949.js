@@ -1,1 +1,0 @@
-lar[61949]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. λυμαντήρ, SIB. <i>3, 470</i>.`

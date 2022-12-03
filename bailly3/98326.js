@@ -1,1 +1,0 @@
-lar[98326]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> qualité d’un légume <i>ou</i> d’une chair tendre et qui cuit facilement, TH. <i>C.P. 4, 12, 10</i>.<p><b>Étym</b>. τεράμων.`

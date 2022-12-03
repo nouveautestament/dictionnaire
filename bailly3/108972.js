@@ -1,1 +1,0 @@
-lar[108972]=`<b>χρησμ·αγόρης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui prononce des oracles, prophète, ANTH. <i>9, 525</i>.<p><b>Étym</b>. χρησμός, ἀγορεύω.`

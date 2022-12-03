@@ -1,1 +1,0 @@
-lar[42196]=`<b>ας (ἡ)</b> bonne chasse, bonne pêche, EL. <i>N.A. 10, 48</i>.<p><b>Étym</b>. εὔθηρος.`

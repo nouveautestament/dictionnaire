@@ -1,1 +1,0 @@
-lar[48192]=`<b>ἰακχέω-ῶ</b>, pousser des cris, SOPH. <i>O.R. 1219,</i> EUR. <i>Her. 752, etc. ; cf</i>. ἰαχέω.<p><b>Étym</b>. ἰακχή.`

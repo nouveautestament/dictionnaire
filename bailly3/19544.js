@@ -1,1 +1,0 @@
-lar[19544]=`<b>ου (ὁ, ἡ)</b> de Vénétie, de Vénète, ANTH. <i>11, 344</i> ; οἱ βένετοι, ANTH. <i>15, 46, 49,</i> les Vénètes.`

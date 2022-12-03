@@ -1,1 +1,0 @@
-lar[90558]=`<b>σιτο·φάγος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui mange du pain, OD. <i>9, 191</i> ; HDT. <i>4, 109</i> ; NIC. <i>Th. 802, etc</i>.<p><b>Étym</b>. σ. φαγεῖν.`

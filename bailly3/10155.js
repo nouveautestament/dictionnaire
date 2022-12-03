@@ -1,1 +1,0 @@
-lar[10155]=`<font color="purple">[πᾰ]</font> <i>adv</i>., avec des propriétés contraires, GEOP. <i>5, 11</i>.`

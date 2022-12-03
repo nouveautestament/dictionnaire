@@ -1,1 +1,0 @@
-lar[31830]=`<b>εως (ἡ)</b> maturation, ARSTT. <i>Col. 5, 23</i>.<p><b>Étym</b>. ἐκπέπτω.`

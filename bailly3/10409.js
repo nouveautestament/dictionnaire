@@ -1,1 +1,0 @@
-lar[10409]=`<b>ας (ἡ)</b> action de s’empresser à son tour, ŒNOM. (EUS. <i>P.E. 217a</i>).<p><b>Étym</b>. ἀντισπεύδω.`

@@ -1,1 +1,0 @@
-lar[110466]=`<b>ου (ὁ)</b> Hôros, <i>dieu égyptien, fils d’Osiris et d’Isis,</i> PLUT. <i>Is. et Os. 18, 38, 40, etc</i>.<p>➳ <i>Ion</i>. Ὦρος, HDT. <i>2, 144</i> ; LUC. <i>Gall. 18, etc</i>.`

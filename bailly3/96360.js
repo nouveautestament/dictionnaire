@@ -1,1 +1,0 @@
-lar[96360]=`<b>συν·τορυνάω-ῶ</b> <font color="purple">[ρῡ]</font> mélanger avec une cuiller, PHILUMÈNE (MÉD. <i>p. 223 Matthäi</i>).`

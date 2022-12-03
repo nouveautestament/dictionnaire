@@ -1,1 +1,0 @@
-lar[39263]=`<b>ἐπί·συχνος, ος, ον</b>, assez fréquent ; <i>adv</i>., ἐπίσυχνον, HPC. <i>Prorrh. 79 (ms</i>. ἐπὶ συχνόν, <i>t. 5, p. 562 Littré</i>) assez souvent.`

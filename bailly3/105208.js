@@ -1,1 +1,0 @@
-lar[105208]=`<b>φευκτιάω-ῶ</b> (<i>seul. prés</i>.) avoir envie de fuir, ARSTT. <i>fr. 129</i>.<p><b>Étym</b>. <i>désidér. de</i> φεύγω.`

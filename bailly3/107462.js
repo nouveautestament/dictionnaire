@@ -1,1 +1,0 @@
-lar[107462]=`<b>χαιρε·κακία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> action d’aimer le mal, ARSTT. <i>M. mor. 1, 28, 1</i> ; ANDR. RHOD. περὶ παθῶν, <i>p. 744</i>.<p><b>Étym</b>. χ. κακός.`

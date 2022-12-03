@@ -1,1 +1,0 @@
-lar[59857]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰῐ]</font> les Lapithes, <i>pple sauvage de Thessalie aux temps héroïques,</i> IL. <i>12, 128, 181</i> ; OD. <i>21, 297</i> ; HÉS. <i>Sc. 178</i> ; PD. <i>P. 9, 14</i> ; EUR. <i>Andr. 791, etc</i>.`

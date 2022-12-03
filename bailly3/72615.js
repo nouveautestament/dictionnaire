@@ -1,1 +1,0 @@
-lar[72615]=`<b>ὀρειχάλκινος, η, ον</b> <font color="purple">[ῐ]</font> de laiton, PLAT. <i>Criti. 119c</i>.<p><b>Étym</b>. ὀρείχαλκος.`

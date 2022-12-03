@@ -1,1 +1,0 @@
-lar[78436]=`<b>περι·βλαστάνω</b>, croître autour, PLUT. <i>M. 829a</i>.`

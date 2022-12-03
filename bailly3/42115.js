@@ -1,1 +1,0 @@
-lar[42115]=`<b>εὐ·ημέρημα, ατος (τὸ)</b> heureuse journée, succès, POL. <i>3, 72, 2</i> ; CIC. <i>Att. 5, 21</i>.<p><b>Étym</b>. εὐημερέω.`

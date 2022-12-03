@@ -1,1 +1,0 @@
-lar[100845]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> vieux routier, vieux roué, AR. <i>Nub. 448</i>.<p><b>Étym</b>. τρύω.`

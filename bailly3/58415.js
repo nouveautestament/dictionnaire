@@ -1,1 +1,0 @@
-lar[58415]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> élévation d’un nombre au cube, THEOL. <i>p. 36, 21</i>.<p><b>Étym</b>. κυβίζω.`

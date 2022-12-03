@@ -1,1 +1,0 @@
-lar[92784]=`<b>ᾶς (ἡ)</b> <font color="purple">[γᾰ]</font> lacet, cordon pour étrangler, PROCL. <i>Ptol. p. 278 ; fig</i>. piège, SPT. <i>Esaï. 58, 6</i>.<p><b>Étym</b>. στραγγάλη.`

@@ -1,1 +1,0 @@
-lar[13370]=`<b>ατος (τὸ) :<br>      1</b> morceau détaché par fracture, fragment, HPC. <i>748d.</i><br><b>      2</b> <i>p. ext</i>. partie détachée d’un tout, PLAT. <i>Phæd. 113b ;</i> EPIC. (PLUT. <i>M. 905b</i>).<p><b>Étym</b>. ἀποσπάω.`

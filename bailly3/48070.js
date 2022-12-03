@@ -1,1 +1,0 @@
-lar[48070]=`<b>θυσανο·ειδής, ής, ές</b> <font color="purple">[ῠᾰ]</font> garni de franges, EUN. <i>Exc. hist. p. 50, 3</i>.<p><b>Étym</b>. θ. εἶδος.`

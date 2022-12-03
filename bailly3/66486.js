@@ -1,1 +1,0 @@
-lar[66486]=`<b>μοναχόω-ῶ</b> <font color="purple">[ᾰ]</font> rendre solitaire, AQU. <i>Ps. 85, 11</i>.<p><b>Étym</b>. μοναχός.`

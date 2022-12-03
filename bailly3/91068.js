@@ -1,1 +1,0 @@
-lar[91068]=`<b>ιπός (ὁ, ἡ)</b> <font color="purple">[ῐπ]</font> petit ver qui pique le bois, ARSTT. <i>H.A. 9, 9, 1 ; Sens. 5, 22, etc.</i> ; PHIL. <i>2, 97, 32 ; 98, 15</i> ; PLUT. <i>M. 636d ; proverb</i>. ὁ σκνὶψ ἐν χώρᾳ, STRATT. (ZÉNOB. <i>5, 35</i>) le ver est dans la place.<p><b>Étym</b>. <i>cf</i>. κνίψ.`

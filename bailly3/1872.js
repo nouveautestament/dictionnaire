@@ -1,1 +1,0 @@
-lar[1872]=`<b>ων (οἱ)</b> serviteurs, CLITARQ. (ATH. <i>267c</i>).<p><b>Étym</b>. <i>cf</i>. ἄοζος.`

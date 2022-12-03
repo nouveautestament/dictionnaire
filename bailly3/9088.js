@@ -1,1 +1,0 @@
-lar[9088]=`<b>ἀν·ίλεως, ως, ων</b> <font color="purple">[ῑ]</font> impitoyable, NT. <i>Jac. 2, 13</i>.<p><b>Étym</b>. ἀν-, ἵλεως.`

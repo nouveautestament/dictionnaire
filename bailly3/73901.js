@@ -1,1 +1,0 @@
-lar[73901]=`<b>ὀχετό·κρανον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> bouche d’eau, HYPÉR. (POLL. <i>10, 30).</i><p><b>Étym</b>. ὀχετός, κρᾶνον.`

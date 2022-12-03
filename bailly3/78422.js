@@ -1,1 +1,0 @@
-lar[78422]=`<b>περι·αφρίζω</b>, écumer tout autour, NYSS.`

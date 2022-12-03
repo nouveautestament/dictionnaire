@@ -1,1 +1,0 @@
-lar[88702]=`<b>ῥοδό·μηλον, ου (τὸ) :<br>      1</b> pomme-rose, <i>fig. càd</i>. joue vermeille <i>ou</i> fraîche comme une rose, THCR. <i>Idyl. 23, 8</i>.<br><b>      2</b> confiture de coings et de roses, A. TR. <i>1, 8</i>.<p>➳ Dor. ῥοδόμαλον <font color="purple">[ᾱ]</font> THCR. <i>l. c</i>.<p><b>Étym</b>. ῥ. μῆλον.`

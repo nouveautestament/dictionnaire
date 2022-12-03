@@ -1,1 +1,0 @@
-lar[22745]=`<b>ή, όν</b> <font color="purple">[ᾰσ]</font> de gymnasiarque, PLUT. <i>Ant. 33</i> ; JAMBL. <i>V. Pyth. 274</i>.`

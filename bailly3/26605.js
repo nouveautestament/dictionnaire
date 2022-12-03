@@ -1,1 +1,0 @@
-lar[26605]=`<b>οῦ (ὁ)</b> pêcheur au filet, JAMBL. <i>V. Pyth. p. 78</i> ; οἱ Δικτυουλκοί, les Pêcheurs au filet, <i>pièce d’Eschyle,</i> EL. <i>N.A. 7, 47</i>.<p><b>Étym</b>. δίκτυον, ἕλκω.`

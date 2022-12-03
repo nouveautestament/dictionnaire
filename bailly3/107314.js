@@ -1,1 +1,0 @@
-lar[107314]=`<b>ης (ἡ) :<br>      1</b> génération, race, espèce, PD. <i>O. 9, 81 ; p. 9, 59</i> ; ANTH. <i>15, 25</i> ; ORPH. <i>Arg. 428</i>.<br><b>      2</b> <i>postér. c</i>. φύσις, ANTH. <i>7, 744</i> ; DL. <i>8, 91, etc</i>.<p><b>Étym</b>. φύω.`

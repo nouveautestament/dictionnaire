@@ -1,1 +1,0 @@
-lar[372]=`<b>ἀγά·ρροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰγ]</font> au cours abondant <i>ou</i> impétueux, IL. <i>2, 845 ; 12, 30</i> ; HH. <i>Cer. 34, etc</i>.<p><b>Étym</b>. ἀγα-, ῥέω.`

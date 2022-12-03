@@ -1,1 +1,0 @@
-lar[53449]=`<b>κατα·στεφανόω-ῶ</b> <font color="purple">[φᾰ]</font> couronner, DS. <i>12, 9</i> ; ANTH. <i>12, 189</i>.`

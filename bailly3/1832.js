@@ -1,1 +1,0 @@
-lar[1832]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font><br><b>      1</b> de nature aérienne, aérien, ARSTT. <i>Mund. 4, 18 ; particul</i>. qui a la couleur de l’air, DIOSC. <i>5, 170</i>.<br><b>      2</b> brumeux, vaporeux, PLUT. <i>M. 888b</i>.<p><b>Étym</b>. ἀήρ, -ωδης ; <i>cf</i>. ἀεροειδής.`

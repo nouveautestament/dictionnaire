@@ -1,1 +1,0 @@
-lar[47686]=`<b>ος, ον</b>, qui observe les pratiques d’un culte religieux, NT. <i>Jac. 1, 26</i>.`

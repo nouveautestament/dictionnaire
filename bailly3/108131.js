@@ -1,1 +1,0 @@
-lar[108131]=`<b>χειρο·δράκων, οντος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. dont les mains <i>ou</i> les bras sont des serpents, <i>ép. d’une Furie,</i> EUR. <i>El. 1345</i>.<p><b>Étym</b>. χ. δράκων.`

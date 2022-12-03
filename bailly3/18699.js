@@ -1,1 +1,0 @@
-lar[18699]=`<b>ατος (τὸ)</b> parole ; <i>au plur</i>. discours, ESCHL. <i>Pers. 636</i>.<p><b>Étym</b>. βάζω.`

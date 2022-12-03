@@ -1,1 +1,0 @@
-lar[64887]=`<b>ῆς (ἡ)</b> cessation momentanée, interruption, IL. <i>19, 201</i>.<p><b>Étym</b>. μεταπαύομαι.`

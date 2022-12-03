@@ -1,1 +1,0 @@
-lar[50790]=`<b>κακονοέω-οῶ</b> <font color="purple">[ᾰ]</font> être mal disposé pour, <i>dat</i>. LYS. <i>182, 18</i>.<p><b>Étym</b>. κακόνοος.`

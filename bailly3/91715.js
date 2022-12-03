@@ -1,1 +1,0 @@
-lar[91715]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> <i>c</i>. σπανίς, EUR. <i>Rhes. 345</i> ; DS. <i>Exc. 507, 91, etc</i>.`

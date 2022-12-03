@@ -1,1 +1,0 @@
-lar[74851]=`<font color="purple">[ᾰᾰ]</font> très véritablement, ESCHL. <i>Suppl. 85</i>.<p><b>Étym</b>. παναληθής.`

@@ -1,1 +1,0 @@
-lar[92936]=`<b>η, ον</b> <font color="purple">[ῑῐ]</font> de pomme de pin, DIOSC. <i>1, 92</i>.<p><b>Étym</b>. στρόβιλος.`

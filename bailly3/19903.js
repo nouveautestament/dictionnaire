@@ -1,1 +1,0 @@
-lar[19903]=`<b>ης (ἡ)</b> morve <i>ou</i> pituite, HPC. <i>611, 5</i>.`

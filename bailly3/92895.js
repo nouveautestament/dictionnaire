@@ -1,1 +1,0 @@
-lar[92895]=`<b>στρεβλό·χειλος, ος, ον</b>, aux lèvres tortueuses, <i>càd</i>. fourbe, NAZ. <i>2, 204 Migne</i>.<p><b>Étym</b>. στρεβλός, χεῖλος.`

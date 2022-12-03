@@ -1,1 +1,0 @@
-lar[100850]=`<b>ης (ἡ)</b> <font color="purple">[ῡᾰ]</font> <i>c</i>. τρύπανον, HDN GR. <i>π. μ. λ. p. 18, 20</i>.`

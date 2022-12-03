@@ -1,1 +1,0 @@
-lar[13509]=`<b>ἀπο·σφηνόω-ῶ :<br>      1</b> amincir en forme de coin, P. ÉG. <i>6, 28</i>.<br><b>      2</b> caler, HÉRON <i>Bel. 123</i>.`

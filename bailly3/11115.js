@@ -1,1 +1,0 @@
-lar[11115]=`<b>ἀ·παιδαγώγητος, ος, ον</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> sans précepteur, sans guide, ARSTT. <i>Nic. 4, 1, 36</i>.<br><b>      2</b> <i>p. suite,</i> non instruit de, <i>gén</i>. ARSTT. <i>Pol. 8, 4, 6</i>.<p><b>Étym</b>. ἀ, παιδαγωγέω.`

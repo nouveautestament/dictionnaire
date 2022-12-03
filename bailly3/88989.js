@@ -1,1 +1,0 @@
-lar[88989]=`<i>adv</i>., en langue romaine, en latin, PLUT. <i>Crass. 27, M. 318d, etc.</i> ; APP. <i>Mithr. 2, etc</i>.<p><b>Étym</b>. ῥωμαΐζω.`

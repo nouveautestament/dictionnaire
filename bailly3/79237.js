@@ -1,1 +1,0 @@
-lar[79237]=`<b>περι·σαρκίζω</b>, faire une incision circulaire dans la chair, CHIRURG.<p><b>Étym</b>. π. σάρξ.`

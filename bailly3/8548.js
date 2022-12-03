@@ -1,1 +1,0 @@
-lar[8548]=`<b>ἀν·ερεύγω</b> <font color="darkgreen">(<i>ao.2</i> ἀνήρυγον <font color="purple">[ῠ]</font>)</font> rejeter avec un hoquet, <i>d’où</i> vomir, <i>fig</i>. NONN. <i>D. 1, 239, 485</i>.<br><b><i>Moy.</i></b> se décharger, <i>en parl. d’un fleuve,</i> ARSTT. <i>Mund. 3, 1</i> ; A.RH. <i>2, 744</i>.<p><b>Étym</b>. ἀνά, ἐ.`

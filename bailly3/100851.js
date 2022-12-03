@@ -1,1 +1,0 @@
-lar[100851]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡᾰ]</font> action de graver, AQU. <i>Esai. 54, 12</i> (τρυπανίζω, percer, HSCH. <i>de</i> τρύπανον).`

@@ -1,1 +1,0 @@
-lar[89755]=`<b>ιδος (ἡ)</b> <font color="purple">[ῑῑῐδ]</font> <i>autre n. de la plante</i> χαμαίκισσος, DIOSC. <i>4, 126</i>.<p><b>Étym</b>. <i>c</i>. σελινίτης.`

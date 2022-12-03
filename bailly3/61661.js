@@ -1,1 +1,0 @@
-lar[61661]=`<b>(ἡ)</b> = <i>lat</i>. Lucilla, <i>n. de f. rom</i>. ANTH. <i>App. 232, etc</i>.`

@@ -1,1 +1,0 @@
-lar[16419]=`<b>ἀ·συγκόμιστος, ος, ον</b>, non apporté ensemble, non recueilli, XÉN. <i>Cyr. 1, 5, 10</i>.<p><b>Étym</b>. ἀ, συγκομίζω.`

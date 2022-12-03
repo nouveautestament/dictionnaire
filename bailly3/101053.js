@@ -1,1 +1,0 @@
-lar[101053]=`<b>ους (ὁ)</b> Tyndarès, <i>h</i>. PLUT. <i>Qu. conv. 8, 1, 3, etc</i>.<p>➳ <i>Voc</i>. -η, PLUT. <i>Qu. conv. 8, 2, 2</i>.`

@@ -1,1 +1,0 @@
-lar[1087]=`<b>ἀγχι·φανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui se montre <i>ou</i> se voit de près, NONN. <i>D. 29, 29</i>.<p><b>Étym</b>. ἄ. φαίνω.`

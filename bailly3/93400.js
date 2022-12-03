@@ -1,1 +1,0 @@
-lar[93400]=`<b>συγ·κατεσθίω</b> <font color="darkgreen">(<i>f</i>. -κατέδομαι, <i>ao.2</i> -κατέφαγον, <i>pf</i>. -κατεδήδοκα)</font> manger ensemble <i>ou</i> avec, <i>dat</i>. PLUT. <i>Thes. 22</i> ; MNÉSITH. (ATH. <i>357e</i>), <i>etc.</i> ; τινί τι, JUL. <i>338c</i>, manger une chose avec une autre.`

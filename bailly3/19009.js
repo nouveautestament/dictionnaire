@@ -1,1 +1,0 @@
-lar[19009]=`(<i>mot hébreu</i>) lieu élevé, place élevée, SPT. <i>1Par. 16, 39 ; 21, 29</i> ; SYMM. <i>Ezech. 20, 29 ; avec l’art</i>. ἀβαμά, SYMM. <i>ibid</i>.`

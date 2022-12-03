@@ -1,1 +1,0 @@
-lar[9897]=`<b>ἀντι·θλίβω</b> <font color="purple">[ῑβ]</font> broyer <i>ou</i> écraser en retour, ARCHYT. (STOB. <i>Ecl. p. 742</i>) ; ARSTT. <i>G.A. 4, 3, 18</i>.`

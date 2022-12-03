@@ -1,1 +1,0 @@
-lar[18445]=`<b>ἄ·χηλος, ος, ον</b>, dont le sabot n’est pas fendu, GAL. <i>2, 431</i>.<p><b>Étym</b>. ἀ, χηλή.`

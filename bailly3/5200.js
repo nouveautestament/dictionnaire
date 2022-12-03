@@ -1,1 +1,0 @@
-lar[5200]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> l’Amanos (<i>auj</i>. mont Nur) <i>mt dépendant du Taurus entre la Cilicie et la Syrie,</i> PLUT. <i>Cic. 36, Demetr. 48, etc</i>.`

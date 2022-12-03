@@ -1,1 +1,0 @@
-lar[31078]=`<b>ων (τὰ)</b> <font color="purple">[βᾰᾰν]</font> Ekbatane (<i>auj</i>. Hamadan), <i>capitale de la Médie,</i> XÉN. <i>Cyr. 8, 6, 22 ; An. 2, 4, 25 ; 3, 5, 15</i> ; POL. <i>10, 27, 3 ; etc</i>.<p>➳ <i>Voc. avec crase</i> ὠκβάτανα, AR. <i>Ach. 64</i>.<p><b>Étym</b>. <i>cf</i>. Ἀγβάτανα.`

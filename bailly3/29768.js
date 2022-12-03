@@ -1,1 +1,0 @@
-lar[29768]=`<font color="darkgreen">(<i>f</i>. άσω)</font> <font color="purple">[ῠ]</font> se tenir caché (<i>avec jeu de mots par allus. à</i> ἐγκρυφίας) AR. <i>Eq. 822</i>.<p><b>Étym</b>. ἐγκρύφιος.`

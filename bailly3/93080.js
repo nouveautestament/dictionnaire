@@ -1,1 +1,0 @@
-lar[93080]=`<b>στυλο·πινάκιον, ου (τὸ)</b> <font color="purple">[ῡῐᾰ]</font> colonne ornée de peintures, ANTH. <i>3 titre</i>.<p><b>Étym</b>. στ. πίναξ.`

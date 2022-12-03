@@ -1,1 +1,0 @@
-lar[93115]=`<b>η, ον</b> <font color="purple">[ῠᾰῐ]</font><br><b>      1</b> de storax, DIOSC. <i>1, 79</i>.<br><b>      2</b> fait du bois de l’arbre στύραξ, STR. <i>570</i>.<p><b>Étym</b>. στύραξ².`

@@ -1,1 +1,0 @@
-lar[71666]=`<b>ος, ον</b>, protecteur des frontières, des limites (Zeus) POL. <i>2, 39, 6</i>.<p>➳ <i>Ion</i>. ὁμούριος.<p><b>Étym</b>. <i>cf</i>. ὅμορος.`

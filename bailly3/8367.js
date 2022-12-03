@@ -1,1 +1,0 @@
-lar[8367]=`<b>ἀν·εντρεχής, ής, ές</b>, non versé dans, malhabile, HIÉROCL. (STOB. <i>Fl. 39, 34).</i><p><b>Étym</b>. ἀν-, ἐντρεχής.`

@@ -1,1 +1,0 @@
-lar[13095]=`<b>οῦ (ὁ)</b> qui remplit complètement, qui accomplit, PLAT. <i>Rsp. 620e</i>.<p><b>Étym</b>. ἀποπληρόω.`

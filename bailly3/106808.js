@@ -1,1 +1,0 @@
-lar[106808]=`<b>φρατρί·αρχος</b>, <i>ou</i> (ὁ) <font color="purple">[ρᾱ]</font> chef <i>ou</i> président d’une phratrie, DÉM. <i>305, 22</i>.<p>➳ <i>Dans les inscr. att</i>. CIA. <i>2, 609, 5 (300 av. J.-C.) ; v. Meisterh. p. 97, § 47</i>.<p><b>Étym</b>. φρατρία, ἄρχω.`

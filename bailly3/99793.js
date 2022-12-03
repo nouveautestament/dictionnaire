@@ -1,1 +1,0 @@
-lar[99793]=`<b>ου (τὸ)</b> = <i>lat</i>. Tusculanum (oppidum), Tusculum (<i>auj</i>. ruines près de Frascati) <i>v. du Latium,</i> PLUT. <i>Pomp. 67, Cæs. 41</i>.`

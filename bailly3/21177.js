@@ -1,1 +1,0 @@
-lar[21177]=`<b>γαιόω-ῶ</b>, <i>f</i>. ώσω, changer en terre ; <i>au pass</i>. se changer en terre, SYN. <i>139a</i>.<p><b>Étym</b>. γαῖα.`

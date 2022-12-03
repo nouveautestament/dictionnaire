@@ -1,1 +1,0 @@
-lar[71373]=`<b>ας (ἡ)</b> <font color="purple">[ῐκ]</font><br><b>      1</b> égalité d’âge, IL. <i>13, 485, etc.</i><br><b>      2</b> <i>collectiv</i>. ceux du même âge, les contemporains, IL. <i>3, 175 ; p. ext. au sg</i>. contemporain de, <i>dat</i>. OD. <i>6, 23</i>.<p>➳ <i>Ion</i>. -ίη, HOM. <i>ll. cc.</i> ; THGN. <i>1011</i>.<p><b>Étym</b>. ὁμῆλιξ.`

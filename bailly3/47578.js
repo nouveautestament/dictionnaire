@@ -1,1 +1,0 @@
-lar[47578]=`<b>θρασυ·εργός, ός, όν</b> <font color="purple">[ᾰ]</font> qui agit hardiment, NONN. <i>D. 35, 365</i>.<p><b>Étym</b>. θρ. ἔργον.`

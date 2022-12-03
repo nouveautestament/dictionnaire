@@ -1,1 +1,0 @@
-lar[3726]=`<b>ἀκριτό·φυρτος, ος, ον</b> <font color="purple">[ῐ]</font> mêlé confusément, ESCHL. <i>Sept. 342</i>.<p><b>Étym</b>. ἄ. φύρω.`

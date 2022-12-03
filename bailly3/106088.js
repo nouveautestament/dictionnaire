@@ -1,1 +1,0 @@
-lar[106088]=`<b>φιλο·σμάραγος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> qui aime le tumulte, NONN. <i>D. 3, 77</i>.`

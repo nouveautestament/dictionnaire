@@ -1,1 +1,0 @@
-lar[15317]=`<b>ἀρτι·βαφής, ής, ές</b> <font color="purple">[ῐβᾰ]</font> nouvellement trempé, SYN. <i>183</i>.<p><b>Étym</b>. ἄρτι, βάπτω.`

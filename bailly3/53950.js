@@ -1,1 +1,0 @@
-lar[53950]=`<b>κατ·ερύω :<br>      1</b> tirer en bas : εἰς ἅλα, OD. <i>5, 261, etc</i>. mettre (des vaisseaux) à la mer ; οὔθατα, NIC. <i>Th. 552,</i> traire les mamelles ; τόξα, ANTH. <i>9, 16,</i> tendre un arc.<br><b>      2</b> amener jusqu’à : ἐς Σαλαμῖνα τὰ ναυήγια, HDT. <i>8, 96,</i> jusqu’à Salamine les épaves du naufrage.<p>➳ <i>Ion</i>. κατειρύω, HDT. <i>ll. cc</i>.`

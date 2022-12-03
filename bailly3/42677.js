@@ -1,1 +1,0 @@
-lar[42677]=`<b>εὐ·μετάδοτος, ος, ον</b>, qui partage volontiers ce qu’il a, NT. <i>1Tim. 6, 18</i> ; τὸ εὐμετάδοτον, M. ANT. <i>1, 14,</i> libéralité.<p><b>Étym</b>. εὖ, μεταδίδωμι.`

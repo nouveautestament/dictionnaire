@@ -1,1 +1,0 @@
-lar[38535]=`<i>vb. de</i> ἐπινοέω, NICOM. <i>Harm. p. 9</i>.`

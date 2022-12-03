@@ -1,1 +1,0 @@
-lar[38763]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’être <i>ou</i> de venir à la surface, HPC. <i>47, 35</i> ; ARSTT. <i>Sens. 3, 21</i>.<p><b>Étym</b>. ἐπιπολάζω.`

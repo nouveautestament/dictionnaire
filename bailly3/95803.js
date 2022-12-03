@@ -1,1 +1,0 @@
-lar[95803]=`<b>συν·ευημερέω-ῶ</b>, passer des jours heureux avec, PLUT. <i>Cor. 4</i>.`

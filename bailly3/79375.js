@@ -1,1 +1,0 @@
-lar[79375]=`<b>περι·στεναχίζομαι</b> <font color="purple">[ᾰ]</font> retentir tout autour, de tous côtés de, <i>dat</i>. OD. <i>10, 10, etc</i>.<p>➳ <i>Impf. 3 sg. poét</i>. περιστεναχίζετο, OD. <i>23, 146</i>.`

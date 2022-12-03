@@ -1,1 +1,0 @@
-lar[3477]=`<b>ἀ·κοίμητος, ος, ον</b>, qui ne sommeille pas, qui ne se repose pas, THCR. <i>Idyl. 13, 44 ; fig. en parl. de la mer,</i> ESCHL. <i>Pr. 139 ; d’un feu qui brûle toujours,</i> EL. <i>N.A. 11, 3</i> ; PLUT. <i>Cam. 20</i>.<p><b>Étym</b>. ἀ, κοιμάω.`

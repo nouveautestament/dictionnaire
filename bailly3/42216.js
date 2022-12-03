@@ -1,1 +1,0 @@
-lar[42216]=`<b>εὔ·θροος, οος, οον</b>, harmonieux <i>ou</i> sonore, ANTH. <i>6, 39</i>.<p>➳ <i>Épq</i>. ἐΰθροος, OPP. <i>C. 5, 285</i>.<p><b>Étym</b>. εὖ, θρέω.`

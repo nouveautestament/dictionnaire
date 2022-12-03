@@ -1,1 +1,0 @@
-lar[11591]=`<b>ἀπειρό·καλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui n’a pas le sentiment de ce qui est beau <i>ou</i> bien ; <i>p. suite,</i> qui n’a pas de goût, grossier, PLAT. <i>Leg. 775b ;</i> DÉM. <i>617, 7</i> ; PLUT. <i>M. 44d, etc.</i> ; τὸ ἀπ. XÉN. <i>Mem. 3, 10, 5, c</i>. ἀπειροκαλία.<p><b>Étym</b>. ἄ. καλός.`

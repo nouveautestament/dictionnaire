@@ -1,1 +1,0 @@
-lar[63143]=`<b>ματαιο·πόνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se donne une peine inutile, PHIL. <i>2, 500</i>.<p><b>Étym</b>. μ. πένομαι.`

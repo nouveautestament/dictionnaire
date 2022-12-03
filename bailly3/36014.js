@@ -1,1 +1,0 @@
-lar[36014]=`<b>ή, όν</b> <font color="purple">[ῑπ]</font> propre à faire sortir le pus, purgatif, GAL. <i>13, 686, etc</i>.<p><b>Étym</b>. ἐξιπόω.`

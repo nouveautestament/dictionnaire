@@ -1,1 +1,0 @@
-lar[16181]=`<b>α, ον</b>, étoilé, ARAT. <i>695</i> ; ἀστερία ἅμαξα, CALL. <i>fr. 146,</i> la constellation du Chariot ; ἀστέριος λίθος, DP. <i>328,</i> astérie, <i>pierre précieuse</i> ; ἀστέριον φαλάγγιον, NIC. <i>Th. 725,</i> sorte d’araignée ; τὸ ἀστέριον, sorte d’aster, DIOSC. <i>4, 118</i>.<p>➳ <i>Fém. ion</i>. -ίη, ANTH. <i>9, 208</i>.<p><b>Étym</b>. ἀστήρ.`

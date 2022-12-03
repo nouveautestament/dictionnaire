@@ -1,1 +1,0 @@
-lar[52110]=`<font color="purple">[βᾰ]</font> <i>adv</i>., en descendant, AR. <i>Ach. 400</i>.<p><b>Étym</b>. καταβαίνω.`

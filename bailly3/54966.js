@@ -1,1 +1,0 @@
-lar[54966]=`<b>κερκο·πίθηκος, ου (ὁ)</b> <font color="purple">[ῐ]</font> singe à grande queue, STR. <i>699</i>.<p><b>Étym</b>. κέρκος, πίθηκος.`

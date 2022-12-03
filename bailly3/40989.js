@@ -1,1 +1,0 @@
-lar[40989]=`<b>ἐσθλό·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> bien marié, NAZ. <i>2, 78</i>.<p><b>Étym</b>. ἐσθλός, γάμος.`

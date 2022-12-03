@@ -1,1 +1,0 @@
-lar[110131]=`<b>οῦ (ὁ)</b> action de se pousser, mêlée, tumulte, PLUT. <i>Arist. 9, Ages. 18 ; M. 646a, etc.</i> ; LUC. <i>Par. 40</i> ; HDT. <i>7, 225 ; 9, 62</i> ; THC. <i>4, 96</i> ; XÉN. <i>An. 5, 2, 17</i> ; POL. <i>4, 58, 9</i> ; ὠθ. λόγων, HDT. <i>8, 78 ; 9, 26</i> ; PLUT. <i>M. 72e ;</i> LUC. <i>Pisc. 29, etc</i>. mêlée de paroles, altercation.<p><b>Étym</b>. ὠθίζω.`

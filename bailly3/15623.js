@@ -1,1 +1,0 @@
-lar[15623]=`<i>adv</i>., dès le principe, SEXT. <i>M. 1, 46</i>.<p><b>Étym</b>. ἀρχικός.`

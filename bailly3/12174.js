@@ -1,1 +1,0 @@
-lar[12174]=`<font color="purple">[γᾰ]</font> <i>vb. de</i> ἀπογαλακτίζω, SOR. <i>Obst. p. 150, 199 Dietz</i>.`

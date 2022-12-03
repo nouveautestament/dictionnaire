@@ -1,1 +1,0 @@
-lar[12606]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font><br><b>      1</b> action d’incliner de côté, de décliner, <i>en parl. du soleil baissant sur l’horizon,</i> PLUT. <i>Æmil. 17, etc. ; fig</i>. déclin, PLUT. <i>M. 611a.</i><br><b>      2</b> descente, PLUT. <i>M. 970d</i>.<p><b>Étym</b>. ἀποκλίνω.`

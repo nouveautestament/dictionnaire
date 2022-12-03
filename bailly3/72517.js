@@ -1,1 +1,0 @@
-lar[72517]=`<b>ου (ὁ)</b> <font color="purple">[ῐκ]</font> = <i>lat</i>. Urbicius, <i>n. d’h. rom</i>. ANTH. <i>9, 210</i>.`

@@ -1,1 +1,0 @@
-lar[74175]=`<b>(ὁ)</b> Pagôndas, <i>h</i>. THC. <i>4, 91, etc</i>.`

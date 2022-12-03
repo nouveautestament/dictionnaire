@@ -1,1 +1,0 @@
-lar[104539]=`<b>ὑψι·τένων, οντος</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. de haute encolure, PHOCYL. <i>190</i>.<p><b>Étym</b>. ὕ. τένων.`

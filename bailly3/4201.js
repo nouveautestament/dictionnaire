@@ -1,1 +1,0 @@
-lar[4201]=`<b>ἄ·λεκτος, ος, ον</b>, qu’on ne peut <i>ou</i> qu’on ne doit pas dire, PHÉRÉCR. <i>(Bkk. 330</i>) ; POL. <i>30, 13, 12, etc</i>.<p><b>Étym</b>. ἀ, λέγω.`

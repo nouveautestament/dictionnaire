@@ -1,1 +1,0 @@
-lar[77398]=`<b>ος, ον</b>, qui hérite de tous les biens paternels, HDT. <i>6, 57 (conj</i>. παμοῦχος <i>Cobet).</i><p><b>Étym</b>. π. ἔχω.`

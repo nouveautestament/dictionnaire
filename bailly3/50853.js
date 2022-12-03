@@ -1,1 +1,0 @@
-lar[50853]=`<b>κακο·σκελής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a des jambes mauvaises, faibles, XÉN. <i>Mem. 3, 3, 4</i>.<p><b>Étym</b>. κ. σκέλος.`

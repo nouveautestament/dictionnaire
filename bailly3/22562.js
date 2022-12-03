@@ -1,1 +1,0 @@
-lar[22562]=`<b>ου (ὁ)</b> = <i>lat</i>. Gracinus, <i>h</i>. PLUT. <i>Sert. 26</i>.`

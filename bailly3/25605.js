@@ -1,1 +1,0 @@
-lar[25605]=`<font color="purple">[τᾰ]</font> <i>adv.</i> :<br><b>      1</b> en prononçant séparément, avec diérèse, DYSC. <i>Adv. 560, 6 Bkk.</i><br><b>      2</b> par parties, par fragments, PORPH. <i>Sent. p. 241, 9</i>.`

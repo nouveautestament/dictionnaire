@@ -1,1 +1,0 @@
-lar[104283]=`<i>adv</i>., dans la mêlée, <i>avec mouv</i>. IL. <i>2, 477</i>.<p><b>Étym</b>. ὑ. -δε.`

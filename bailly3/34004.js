@@ -1,1 +1,0 @@
-lar[34004]=`<b>*ἐν·αραρίσκω</b> (<i>seul. pf</i>. ἐνάρηρεν <font color="purple">[ᾰ]</font>) être attaché à, ARAT. <i>453 ; d’où part. neutre</i> ἐναρηρός, solidement attaché à, <i>dat</i>. OD. <i>5, 236</i>.`

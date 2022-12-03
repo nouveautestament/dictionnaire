@@ -1,1 +1,0 @@
-lar[9023]=`<b>ἀνθ·υποφέρω :<br>      1</b> reprendre à son tour, PLUT. <i>M. 76d, etc.</i><br><b>      2</b> répondre d’avance à une objection possible, DH. <i>Dem. 54</i>.`

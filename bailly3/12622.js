@@ -1,1 +1,0 @@
-lar[12622]=`<b>ἀπο·κοιμίζω</b>, mettre au lit, ALCIPHR. <i>1, 39, 2, d’où, au pass.,</i> s’endormir, SOCR. <i>Ep. 1</i>.`

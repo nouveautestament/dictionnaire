@@ -1,1 +1,0 @@
-lar[66827]=`<b>ιδος (ἡ)</b> Mouziris, <i>v. de l’Inde,</i> LUC. <i>H. conscr. 31</i>.`

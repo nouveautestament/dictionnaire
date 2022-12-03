@@ -1,1 +1,0 @@
-lar[61351]=`<b>λιπο·πωγωνία</b>, <i>mieux que</i> <b>λειπο·πωγωνία, ας (ἡ)</b> manque de barbe, CRATÈS <i>fr. 22</i>.<p><b>Étym</b>. λείπω, πώγων.`

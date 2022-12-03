@@ -1,1 +1,0 @@
-lar[33317]=`<b>ἐμ·παιδοτριβέομαι-οῦμαι</b> <font color="purple">[ῐ]</font> s’exercer à, <i>dat</i>. JOS. <i>B.J. 2, 8, 12</i> ; DC. <i>77, 21</i>.<p><b>Étym</b>. ἐν, π.`

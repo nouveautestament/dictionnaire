@@ -1,1 +1,0 @@
-lar[90407]=`<b>ων (οἱ)</b> les Sinties, <i>litt</i>. « les pillards <i>ou</i> pirates », <i>premiers habitants de Lemnos,</i> IL. <i>1, 594</i> ; OD. <i>8, 294</i>.<p><b>Étym</b>. σίντης.`

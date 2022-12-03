@@ -1,1 +1,0 @@
-lar[91468]=`<b>ιγγος (ἡ)</b> poil dur et hérissé, LYC. <i>37</i>.`

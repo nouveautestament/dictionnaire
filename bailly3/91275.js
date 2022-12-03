@@ -1,1 +1,0 @@
-lar[91275]=`<b>σκυθρωπο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> d’apparence sombre, ORIG. <i>3, 273 Migne</i>.<p><b>Étym</b>. σκυθρωπός, φαίνω.`

@@ -1,1 +1,0 @@
-lar[30382]=`<b>εἰκοσι·πεντα·έτις, ιδος</b> <font color="purple">[ῐ]</font> <i>adj. f</i>. de vingt-cinq ans, ANTH. <i>App. 209, 8</i>.<p><b>Étym</b>. εἴ. πέντε, ἔτος.`

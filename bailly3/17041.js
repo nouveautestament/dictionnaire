@@ -1,1 +1,0 @@
-lar[17041]=`(<i>seul. prés</i>.) ourdir une trame, HERMIPP. <i>(Bkk. 461, 26) ; cf</i>. διάζομαι.`

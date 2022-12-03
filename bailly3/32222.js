@@ -1,1 +1,0 @@
-lar[32222]=`<b>ἐκ·τράχηλος, ος, ον</b> <font color="purple">[ᾰ]</font> fier, arrogant, NAZ.<p><b>Étym</b>. ἐκ, τράχηλος.`

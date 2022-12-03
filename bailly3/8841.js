@@ -1,1 +1,0 @@
-lar[8841]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> fleuri, ORPH. <i>Lith. 729</i>.<p><b>Étym</b>. ἄνθος.`

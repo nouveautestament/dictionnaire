@@ -1,1 +1,0 @@
-lar[99235]=`<b>ῶν (οἱ)</b> <font color="purple">[ῑῐ]</font> les descendants de Timodamos, PD. <i>N. 2, 18</i>.<p><b>Étym</b>. <i>patr. de</i> Τιμόδαμος.`

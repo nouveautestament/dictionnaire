@@ -1,1 +1,0 @@
-lar[81615]=`<b>ας (ἡ)</b> <font color="purple">[ῑτ]</font> action de capter la faveur de ses concitoyens, COM. (<i>Com. Att. fr. 1, 794 Kock).</i><p><b>Étym</b>. <i>v</i>. πολιτοκοπέω.`

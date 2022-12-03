@@ -1,1 +1,0 @@
-lar[19512]=`<b>βελουλκέω-ῶ</b> (<i>seul. prés</i>.) extraire un trait d’une blessure, PLUT. <i>M. 977a</i>.<p><b>Étym</b>. βελουλκός.`

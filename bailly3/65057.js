@@ -1,1 +1,0 @@
-lar[65057]=`<b>μετά·χρονος, ος, ον</b>, postérieur, tardif, LUC. <i>Salt. 80</i>.<p><b>Étym</b>. μ. χρόνος.`

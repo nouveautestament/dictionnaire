@@ -1,1 +1,0 @@
-lar[103588]=`<b>ὑπο·νέμομαι :<br>      1</b> se repaître de <i>ou</i> dévorer de fond en comble, <i>en parl. du feu,</i> ANTH. <i>7, 444</i>.<br><b>      2</b> tromper, EPICH. (POLL. <i>9, 82</i>).`

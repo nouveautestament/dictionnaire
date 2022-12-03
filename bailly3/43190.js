@@ -1,1 +1,0 @@
-lar[43190]=`<b>*εὔ·ριζος, ος, ον</b>, qui a de fortes <i>ou</i> nombreuses racines, NIC. <i>fr. 2, 17</i> ; SPT. <i>Ps. 47, 2</i>.<p>➳ <i>Épq</i>. ἐΰρριζος, NIC. <i>l. c</i>.<p><b>Étym</b>. εὖ, ῥίζα.`

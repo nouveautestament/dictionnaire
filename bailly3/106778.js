@@ -1,1 +1,0 @@
-lar[106778]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> prudence, sagesse, <i>au dat. pl. épq</i>. φραδμοσύνῃσιν, HH. <i>Ap. 99</i> ; HÉS. <i>O. 243 ; Th. 626, etc. ; au sg</i>. A.RH. <i>2, 647</i>.<p>➳ <i>Dans une inscr. att</i>. φρασμοσύνη, CIA. <i>4, b, 373, 99 (6<sup>e</sup> siècle av. J.-C.) ; v. Meisterh. p. 68, 11</i>.<p><b>Étym</b>. φράδμων.`

@@ -1,1 +1,0 @@
-lar[51174]=`<b>καλλι·όπη, ης</b>, <i>seul. dor</i>. <b>καλλι·όπα, ας</b>, <i>adj. f.,</i> qui a une belle voix, qui résonne agréablement, THCR. <i>Syr. 19</i>.<p><b>Étym</b>. κ. ὄψ¹.`

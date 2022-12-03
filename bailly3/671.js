@@ -1,1 +1,0 @@
-lar[671]=`<font color="darkgreen">(<i>ao</i>. ἠγκύρισα)</font> <font color="purple">[ῡ]</font> donner un croc en jambe à, <i>acc</i>. AR. <i>Eq. 262</i>.<p><b>Étym</b>. ἄγκυρα.`

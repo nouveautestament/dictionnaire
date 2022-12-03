@@ -1,1 +1,0 @@
-lar[39284]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> celui qui appose un sceau, LUC. <i>Alex. 23</i>.<p><b>Étym</b>. ἐπισφραγίζω.`

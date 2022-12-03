@@ -1,1 +1,0 @@
-lar[2778]=`<b>εως (ἡ)</b> action de bassiner, HPC. <i>424, 37</i>.`

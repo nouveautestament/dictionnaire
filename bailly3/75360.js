@@ -1,1 +1,0 @@
-lar[75360]=`<font color="purple">[ᾰλ]</font> <i>c</i>. παπταίνω LYC. <i>1162</i>.`

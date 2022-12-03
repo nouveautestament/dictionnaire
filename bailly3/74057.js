@@ -1,1 +1,0 @@
-lar[74057]=`<b>ορος (ὁ)</b> = <i>lat</i>. opsonator, qui fait les provisions de bouche, ATH. <i>171a</i>.`

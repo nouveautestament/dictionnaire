@@ -1,1 +1,0 @@
-lar[66810]=`<b>μοσχο·ποιέω-ῶ</b>, fabriquer l’image d’un veau (pour l’adorer) NT. <i>Ap. 7, 41</i>.<p><b>Étym</b>. μόσχος, ποιέω.`

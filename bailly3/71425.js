@@ -1,1 +1,0 @@
-lar[71425]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit œil, ARSTT. <i>Physiogn. p. 46</i> ; ANTH. <i>5, 130, etc</i>.<p><b>Étym</b>. <i>dim. de</i> ὄμμα.`

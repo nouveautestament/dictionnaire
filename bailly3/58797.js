@@ -1,1 +1,0 @@
-lar[58797]=`<b>κυνο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> <i>au cp</i>. -έστερος, semblable à un chien, cynique, ARSTT. <i>H.A. 2, 8, 1</i>.<p><b>Étym</b>. κύων, εἶδος.`

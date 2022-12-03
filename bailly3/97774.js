@@ -1,1 +1,0 @@
-lar[97774]=`<b>ταυρο·βόλος, ος, ον</b>, où l’on immole (<i>litt</i>. où l’on frappe) un taureau, ANTH. <i>App. 164, 239</i>.<p><b>Étym</b>. τ. βάλλω.`

@@ -1,1 +1,0 @@
-lar[95600]=`<b>συν·επηχέω-ῶ :<br>      1</b> chanter tous ensemble en chœur, XÉN. <i>Cyr. 3, 3, 58 ; 7, 1, 25</i> ; ARSTT. <i>Mund. 6, 20</i> ; DC. <i>56, 35 ; avec un dat</i>. DC. <i>39, 19 ; particul</i>. approuver par des applaudissements unanimes, PLUT. <i>M. 44d.</i><br><b>      2</b> faire écho, résonner, LUC. <i>Dom. 3</i> ; DC. <i>66, 22, etc</i>.`

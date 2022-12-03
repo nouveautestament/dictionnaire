@@ -1,1 +1,0 @@
-lar[25334]=`<b>δια·πονηρεύομαι</b> (<i>prés. 3 sg</i>.) s’emporter (<i>litt</i>. faire le méchant) : πρός τινα, DH. <i>Is. 3</i>, contre qqn.`

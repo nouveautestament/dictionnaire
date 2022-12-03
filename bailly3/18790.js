@@ -1,1 +1,0 @@
-lar[18790]=`<b>βαθύ·πλοος, ος, ον</b> <font color="purple">[ᾰυ]</font> qui a un fort tirant (navire), DS. <i>3, 40</i>.<p><b>Étym</b>. β. πλέω.`

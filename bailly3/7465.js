@@ -1,1 +1,0 @@
-lar[7465]=`<i>adv. seul. compar</i>. ἀναποτευκτότερον, ARR. <i>Epict. 4, 6, 26,</i> de façon à obtenir moins.`

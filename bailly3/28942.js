@@ -1,1 +1,0 @@
-lar[28942]=`(<i>seul. prés. inf</i>.) avoir un caractère difficile. BAS. <i>3, 435</i>.<p><b>Étym</b>. δύστροπος.`

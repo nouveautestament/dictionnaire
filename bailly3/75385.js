@@ -1,1 +1,0 @@
-lar[75385]=`<font color="purple">[βᾰ]</font> <i>adv</i>., avec disposition à transgresser, ARR. <i>Epict. 2, 20, 14</i>.`

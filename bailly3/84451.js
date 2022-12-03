@@ -1,1 +1,0 @@
-lar[84451]=`<b>προ·καταγράφω</b> <font color="purple">[ᾰφ]</font> écrire auparavant en bas, SOR. <i>Obst. 1 Dietz</i>.`

@@ -1,1 +1,0 @@
-lar[32974]=`<b>ἐλ·λόγιμος, ος, ον</b> <font color="purple">[ῐ]</font> dont on fait grand cas, dont on tient compte, HDT. <i>2, 176</i> ; PLAT. <i>Prot. 327c, etc.</i> ; ἐπί τινι, PLAT. <i>Prot. 361e</i>, au sujet de qqe ch.<p>•<i> Sup</i>. -ώτατος, POL. <i>1, 2, 1</i> ; DL. <i>5, 58</i>.<p><b>Étym</b>. ἐν, λόγος.`

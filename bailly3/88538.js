@@ -1,1 +1,0 @@
-lar[88538]=`<i>adv</i>., comme une racine, HLD. <i>1, 29</i>.<p><b>Étym</b>. ῥίζα,-δον.`

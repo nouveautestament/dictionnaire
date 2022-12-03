@@ -1,1 +1,0 @@
-lar[85143]=`<b>προσ·ανακαλύπτω</b> <font color="purple">[κᾰ]</font> découvrir <i>ou</i> éclaircir en outre, STR. <i>686</i>.`

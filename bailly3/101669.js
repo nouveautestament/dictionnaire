@@ -1,1 +1,0 @@
-lar[101669]=`<i>ou</i> <b>ὕκκης, ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>n. dor. du poisson de mer</i> ἐρυθρῖνος, CALL. (ATH. <i>284c</i>) ; ANTIM. (ATH. <i>304f</i>) <i>etc. ; ou sel. d’autres, c</i>. ἰουλίς, ATH. <i>327c</i>.`

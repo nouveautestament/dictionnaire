@@ -1,1 +1,0 @@
-lar[105058]=`(<i>seul. prés. et impf</i>.) :<br><b>      1 <i>intr.</i></b> briller, A.RH. <i>4, 1714</i> ; JOS. <i>A.J. 3, 8, 3</i>.<br><b>      2 <i>tr.</i></b> faire briller, <i>d’où au pass</i>. briller, AR. <i>Ran. 344</i>.<p><b>Étym</b>. φέγγος.`

@@ -1,1 +1,0 @@
-lar[22811]=`<b>γυναικό·μορφος, ος, ον</b> <font color="purple">[ῠ]</font> qui a les traits <i>ou</i> l’extérieur d’une femme, EUR. <i>Bacch. 855</i> ; PHIL. <i>2, 280</i>.<p><b>Étym</b>. γ. μορφή.`

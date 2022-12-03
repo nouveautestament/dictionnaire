@@ -1,1 +1,0 @@
-lar[55506]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> mouvement, PD. <i>P. 4, 370</i>.<p><b>Étym</b>. κινέω.`

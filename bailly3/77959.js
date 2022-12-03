@@ -1,1 +1,0 @@
-lar[77959]=`<b>πεντα·δάκτυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à cinq doigts, ARSTT. <i>H.A. 2, 1, 5, etc.</i> ; τὸ π. DIOSC. <i>Noth. 4, 42 ; c</i>. πεντάφυλλον.`

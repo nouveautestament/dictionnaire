@@ -1,1 +1,0 @@
-lar[101635]=`<b>η, ον</b>, HDT. <i>2, 25,</i> très pluvieux.<p><b>Étym</b>. <i>sup. de</i> ὑετός.`

@@ -1,1 +1,0 @@
-lar[55472]=`<i>et</i> <b>κιννάβευμα, ατος (τὸ)</b> méfait de fripon, AR. (<i>Com. fr. 2, 1201, corr</i>. καννάβευμα <i>Schneid. ou</i> κανάβευμα <i>Kock</i>).`

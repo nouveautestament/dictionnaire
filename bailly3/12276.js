@@ -1,1 +1,0 @@
-lar[12276]=`<b>ή, όν :<br>      1</b> qui voyage à l’étranger, ARSTT. <i>Pol. 5, 8, 12</i>.<br><b>      2</b> qui émigre (de ce monde dans l’autre), mortel, ARR. <i>Epict. 3, 24, 4</i>.<p><b>Étym</b>. ἀποδημέω.`

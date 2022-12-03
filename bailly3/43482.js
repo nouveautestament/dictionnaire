@@ -1,1 +1,0 @@
-lar[43482]=`<i>adv.</i> :<br><b>      1</b> d’une voix agréable <i>ou</i> mélodieuse, EL. <i>N.A. 1, 43</i>.<br><b>      2</b> en un langage clair, EL. <i>N.A. 4, 42</i>.<p>•<i> Sup</i>. -ώτατα, EL. <i>N.A. 13, 18</i>.`

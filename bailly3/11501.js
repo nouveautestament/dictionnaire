@@ -1,1 +1,0 @@
-lar[11501]=`<font color="darkgreen">(<i>impf</i>. ἠπέδιζον)</font> niveler, CLITOD. <i>22</i>.<p><b>Étym</b>. ἄπεδος.`

@@ -1,1 +1,0 @@
-lar[9557]=`<b>ἀντ·εισβάλλω</b>, <i>att</i>. <b>ἀντ·εσβάλλω</b> <font color="darkgreen">(<i>ao.2</i> ἀντεσέβαλον)</font> faire une incursion en représaille, <i>avec</i> ἐς <i>et l’acc</i>. DC. <i>48, 21</i>.`

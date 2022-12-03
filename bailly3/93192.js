@@ -1,1 +1,0 @@
-lar[93192]=`<b>συγ·γέωργος, ου (ὁ)</b> qui travaille à la terre avec un autre, AR. <i>Pl. 223</i>.<p><b>Étym</b>. σ. γεωργός.`

@@ -1,1 +1,0 @@
-lar[46292]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> la Mort personnifiée, IL. <i>14, 231 ; 16, 672</i> ; HÉS. <i>Th. 759</i> ; ESCHL. <i>fr. 156</i> ; SOPH. <i>fr. 834</i>.<p><b>Étym</b>. <i>v</i>. θάνατος.`

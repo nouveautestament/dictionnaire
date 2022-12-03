@@ -1,1 +1,0 @@
-lar[34298]=`<i>opt. prés. de</i> ἔνειμι, <i>ou opt. ao.2 de</i> ἐνίημι.`

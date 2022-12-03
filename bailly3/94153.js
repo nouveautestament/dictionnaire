@@ -1,1 +1,0 @@
-lar[94153]=`<b>συμ·πελτάζομαι</b>, servir dans le corps des peltastes avec, <i>dat</i>. SYN. <i>p. 12c</i>.`

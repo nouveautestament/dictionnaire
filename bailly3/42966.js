@@ -1,1 +1,0 @@
-lar[42966]=`<i>adv</i>., docilement, PLUT. <i>M. 981a</i>.<p><b>Étym</b>. εὐπειθής.`

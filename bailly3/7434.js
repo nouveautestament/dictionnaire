@@ -1,1 +1,0 @@
-lar[7434]=`<b>οῦ (ὁ) :<br>   I <i>intr</i></b>. action de revenir sur ses pas, rétrogradation, ANON. BYZ. <i>76, 23, 20</i>.<br><b>   II</b> <i>tr.</i> :<br><b>      1</b> action de faire revenir sur ses pas, de ramener en arrière, SPT. <i>Sap. 2, 5</i>.<br><b>      2</b> action de questionner de nouveau, A. APHR.<p><b>Étym</b>. ἀναποδίζω.`

@@ -1,1 +1,0 @@
-lar[50107]=`<b>ης (ἡ)</b> Ikhnoussa, <i>anc. n. de la Sardaigne,</i> ARSTT. <i>Mir. 100</i>.`

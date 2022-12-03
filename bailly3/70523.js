@@ -1,1 +1,0 @@
-lar[70523]=`<b>οἰνο·δοχεῖον, ου (τὸ)</b> cellier pour le vin, HÉRON <i>Spir. 211</i>.`

@@ -1,1 +1,0 @@
-lar[59596]=`<b>λακιδόω-ῶ</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. λακίζω, DIOSC. <i>2, 12 Spreng</i>.`

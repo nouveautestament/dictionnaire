@@ -1,1 +1,0 @@
-lar[86797]=`<b>προ·τιτρώσκω</b>, blesser auparavant, GAL. <i>18, 86</i>.`

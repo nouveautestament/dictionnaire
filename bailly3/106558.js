@@ -1,1 +1,0 @@
-lar[106558]=`<b>φοινικό·βαπτος, ος, ον</b> <font color="purple">[ῑ]</font> teint en pourpre, ESCHL. <i>Eum. 1028</i>.<p><b>Étym</b>. φοῖνιξ, βάπτω.`

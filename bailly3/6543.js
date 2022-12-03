@@ -1,1 +1,0 @@
-lar[6543]=`<b>εως (ἡ)</b> action de remettre, de différer, délai, IL. <i>2, 380 ; 24, 655</i> ; CALL. <i>Ap. 45</i>.<p><b>Étym</b>. ἀναβάλλω.`

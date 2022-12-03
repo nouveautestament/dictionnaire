@@ -1,1 +1,0 @@
-lar[52564]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> couché, SPT. <i>Esaï. 3, 23</i>.<p><b>Étym</b>. κατακλίνω.`

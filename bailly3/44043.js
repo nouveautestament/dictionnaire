@@ -1,1 +1,0 @@
-lar[44043]=`<b>ἐφημερό·βιος, ος, ον</b>, qui ne vit qu’un jour, PTOL. <i>Tetr. 160</i>.<p><b>Étym</b>. ἐφ. βίος.`

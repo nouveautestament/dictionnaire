@@ -1,1 +1,0 @@
-lar[57442]=`<b>ου (ὁ)</b> = <i>lat</i>. Curtius, <i>n. d’h. rom</i>. PLUT. <i>Rom. 18, etc</i>.`

@@ -1,1 +1,0 @@
-lar[36063]=`<i>adv</i>., du commencement à la fin, DL. <i>9, 64</i>.<p><b>Étym</b>. ἔξοδος.`

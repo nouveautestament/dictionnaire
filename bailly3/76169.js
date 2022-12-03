@@ -1,1 +1,0 @@
-lar[76169]=`<b>παρα·σαλεύω</b> <font color="purple">[σᾰ]</font> ébranler jusqu’aux fondements, ARISTOB. (EUS. <i>3, 644 Migne</i>) PHIL. <i>2, 69</i> ; RHÉT. <i>1, 467 W</i>.`

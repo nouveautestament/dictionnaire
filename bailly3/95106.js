@@ -1,1 +1,0 @@
-lar[95106]=`<b>συν·διακινδυνεύω</b> <font color="purple">[δῡ]</font> s’exposer au danger avec, HDT. <i>7, 220</i> ; μετά τινος, PLAT. <i>Lach. 189b</i>, avec qqn.`

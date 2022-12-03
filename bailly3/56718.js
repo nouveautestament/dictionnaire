@@ -1,1 +1,0 @@
-lar[56718]=`<b>ῶνος (ἡ)</b> Kolophôn (<i>auj</i>. ruines près de Değirmender) <i>une des douze villes de la confédération ionienne, en Lydie,</i> HDT. <i>1, 142</i> ; THC. <i>3, 36, etc</i>.`

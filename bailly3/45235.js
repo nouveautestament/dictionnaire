@@ -1,1 +1,0 @@
-lar[45235]=`<b>ἡλιό·πεπτος, ος, ον</b>, cuit <i>ou</i> mûri par le soleil, HIPPIATR. <i>171a</i>.<p><b>Étym</b>. ἥ. πέπτω.`

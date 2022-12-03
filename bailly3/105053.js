@@ -1,1 +1,0 @@
-lar[105053]=`<b>ου :<br>      1 (ὁ)</b> = <i>lat</i>. Februarius, le mois de février, PLUT. <i>Rom. 21, Num. 18, 19, etc.</i><br><b>      2</b> <i>adj</i>. de février ; αἱ Φεβρουάριοι καλένδαι, PLUT. <i>Galb. 23,</i> les calendes de février ; Φ. εἰδοί, PLUT. <i>Cam. 30,</i> les ides de février.`

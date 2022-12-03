@@ -1,1 +1,0 @@
-lar[7604]=`<b>οῦ (ὁ)</b> soulèvement, sédition, DH. <i>6, 62</i>.<p><b>Étym</b>. ἀνασείω.`

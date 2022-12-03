@@ -1,1 +1,0 @@
-lar[9501]=`<b>ἀντ·αποκτείνω</b>, tuer par représailles, HDT. <i>7, 136</i> ; ESCHL. <i>Ch. 121, 274</i> ; EUR. <i>Hec. 262, etc.</i> ; XÉN. <i>Hell. 2, 4, 27</i>.`

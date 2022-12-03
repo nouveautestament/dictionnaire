@@ -1,1 +1,0 @@
-lar[78673]=`<b>περι·θυρέω-ῶ</b> <font color="purple">[ῠ]</font> se tenir autour <i>ou</i> près des portes, EL. <i>N.A. 1, 11, 14</i>.<p><b>Étym</b>. π. θύρα.`

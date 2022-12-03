@@ -1,1 +1,0 @@
-lar[96947]=`<b>σφυδάω-ῶ</b> <font color="purple">[ῠ]</font> (<i>part. prés.) c</i>. σφριγάω, ESCHL. <i>Pr. 380 conj</i>.`

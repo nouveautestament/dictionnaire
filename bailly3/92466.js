@@ -1,1 +1,0 @@
-lar[92466]=`<b>ητος (ἡ)</b> solidité, fermeté, ARSTT. <i>G.A. 2, 5</i> ; PLUT. <i>M. 968f, 1111a, 1116 c ; fig</i>. PLUT. <i>M. 446 f ; comme titre de respect</i> « votre Fermeté », BAS. <i>4, 468</i> ; NAZ. <i>3, 220 Migne</i>.<p><b>Étym</b>. στερρός.`

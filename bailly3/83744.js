@@ -1,1 +1,0 @@
-lar[83744]=`<b>προ·αφορίζω</b>, délimiter <i>ou</i> déterminer auparavant, ANON. BYZ. <i>98, 32, 12</i>.`

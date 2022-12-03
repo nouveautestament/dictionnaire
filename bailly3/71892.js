@@ -1,1 +1,0 @@
-lar[71892]=`<b>εως (ἡ)</b> rêve, songe, PLAT. <i>Tim. 52b</i>.<p><b>Étym</b>. ὀνειρώσσω.`

@@ -1,1 +1,0 @@
-lar[58474]=`<b>κυδωνίτης οἶνος (ὁ)</b> vin préparé avec des coings, DIOSC. <i>5, 28</i>.<p><b>Étym</b>. κυδώνιον.`

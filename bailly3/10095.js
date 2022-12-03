@@ -1,1 +1,0 @@
-lar[10095]=`<b>ἀντι·μετρέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀντεμέτρησα)</font> mesurer en échange, donner en compensation de, <i>dat</i>. LUC. <i>Am. 19</i> ; NT. <i>Matth. 7, 2 ; Luc. 6, 38</i>.`

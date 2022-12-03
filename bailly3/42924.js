@@ -1,1 +1,0 @@
-lar[42924]=`<b>εὐ·παράγωγος, ος, ον</b> <font color="purple">[ᾰγ]</font><br><b>   I</b> <i>pass.</i> :<br><b>      1</b> facile à remettre en place (os, membre, <i>etc</i>.) HPC. <i>Fract. 755</i>.<br><b>      2</b> facile à tromper, AR. <i>Eq. 1115</i> ; PLAT. <i>Tim. 69d.</i><br><b>   II</b> <i>act</i>. qui séduit, PHIL. <i>2, 481</i>.<p><b>Étym</b>. εὖ, παράγω.`

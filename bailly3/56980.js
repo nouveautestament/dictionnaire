@@ -1,1 +1,0 @@
-lar[56980]=`<b>κοπρο·φόρος, ος, ον</b>, qui sert à porter du fumier, XÉN. <i>Mem. 3, 8, 6</i>.<p><b>Étym</b>. κόπρος, φέρω.`

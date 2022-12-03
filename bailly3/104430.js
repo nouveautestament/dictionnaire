@@ -1,1 +1,0 @@
-lar[104430]=`<b>ὑψ·άντυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> surmonté de hautes voûtes, NONN. <i>Jo. 5, 5</i>.<p><b>Étym</b>. ὕ. ἄντυξ.`

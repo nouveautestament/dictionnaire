@@ -1,1 +1,0 @@
-lar[76199]=`<b>παρα·σκεπάστρα, ας (ἡ)</b> bonnet <i>ou</i> bandeau qui enveloppe toute la tête, GAL. <i>18, 1, p. 785</i>.<p><b>Étym</b>. π. σκεπάζω.`

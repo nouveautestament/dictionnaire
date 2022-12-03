@@ -1,1 +1,0 @@
-lar[97552]=`<b>τανύ·μετρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui s’étend au loin, P. SIL. <i>Ecphr. amb. 49</i>.<p><b>Étym</b>. τανυ-, μέτρον.`

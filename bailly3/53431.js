@@ -1,1 +1,0 @@
-lar[53431]=`<b>ή, όν</b> <font color="purple">[στᾰ]</font> qui a la vertu d’arrêter, de calmer, PLUT. <i>Lyc. 4</i>.<p><b>Étym</b>. καθίστημι.`

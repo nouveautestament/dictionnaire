@@ -1,1 +1,0 @@
-lar[37956]=`<b>ἐπι·καταφέρομαι</b> <font color="darkgreen">(<i>seul. fut</i>. -κατενεχθήσομαι, <i>et ao</i>. -κατηνέχθην) :</font><br><b>      1</b> se porter sur, tomber sur, se précipiter sur, JOS. <i>A.J. 12, 9, 4</i>.<br><b>      2</b> être amené <i>ou</i> venir à, ARSTD. <i>t. 2, 520</i>.`

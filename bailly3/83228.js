@@ -1,1 +1,0 @@
-lar[83228]=`<font color="purple">[ᾱ]</font> <i>adv. dor. c</i>. πρώην, THCR. <i>Idyl. 2, 115 ; 3, 28 ; 5, 81, etc</i>.`

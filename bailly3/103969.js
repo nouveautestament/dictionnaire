@@ -1,1 +1,0 @@
-lar[103969]=`<b>ὑπο·ταρτάριος, ος, ον</b> <font color="purple">[ᾰρι]</font> qui est dans le Tartare : οἱ ὑποταρτάριοι θεοί, IL. <i>14, 279</i> ; HÉS. <i>Th. 851 ; ou simpl</i>. οἱ ὑποταρτάριοι, LUC. <i>Herc. 1,</i> les dieux du Tartare.<p><b>Étym</b>. ὑ. Τάρταρος.`

@@ -1,1 +1,0 @@
-lar[18831]=`<b>βαθύ·χειλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux lèvres épaisses, SPT. <i>Ezech. 3, 5</i>.<p><b>Étym</b>. β. χεῖλος.`

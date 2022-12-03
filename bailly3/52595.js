@@ -1,1 +1,0 @@
-lar[52595]=`<b>κατα·κομψεύομαι</b>, parler avec élégance, BAS. <i>1, 13</i>.`

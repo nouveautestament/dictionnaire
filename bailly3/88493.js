@@ -1,1 +1,0 @@
-lar[88493]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> résineux, HPC. <i>Mochl. 858</i> ; DIPH. SIPHN. (ATH. <i>57c</i>).<p><b>Étym</b>. ῥητίνη, -ωδης.`

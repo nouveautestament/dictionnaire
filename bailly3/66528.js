@@ -1,1 +1,0 @@
-lar[66528]=`<b>μονο·δοξέω-ῶ</b>, avoir seulement de la gloire, de la réputation, SIMPL. <i>Epict. p. 326</i>.<p><b>Étym</b>. μ. δόξα.`

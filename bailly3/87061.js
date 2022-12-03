@@ -1,1 +1,0 @@
-lar[87061]=`<b>προ·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> auquel on donne un prénom, NONN. <i>D. 17, 397</i>.<p><b>Étym</b>. π. ὄνομα.`

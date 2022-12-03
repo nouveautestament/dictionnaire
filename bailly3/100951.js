@@ -1,1 +1,0 @@
-lar[100951]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qu’on peut manger cru, mangeable, HPC. <i>549, 36 ; 550, 55</i> ; THCR. <i>Idyl. 1, 49</i> ; LGS <i>2, 13, etc. ; particul</i>. τὰ τρώξιμα, AÉT. <i>9, 48, etc</i>. endive, <i>sorte de chicorée</i>.<p><b>Étym</b>. τρώγω.`

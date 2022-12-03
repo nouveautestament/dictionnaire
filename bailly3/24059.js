@@ -1,1 +1,0 @@
-lar[24059]=`<b>δευτερ·οδέομαι-οῦμαι</b> (<i>seul. part. prés</i>.) :<br><b>      1</b> venir une seconde fois, être répété, THEOL. <i>p. 23 et 35</i> ; JAMBL. <i>p. 124</i>.<br><b>      2</b> venir en second ordre : δευτεροδουμένη μονάς, NICOM. <i>Arithm. p. 98 Ast,</i> unité du second ordre, <i>càd</i>. dizaine.<p><b>Étym</b>. δεύτερος, ὁδός.`

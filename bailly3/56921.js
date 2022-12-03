@@ -1,1 +1,0 @@
-lar[56921]=`<b>ή, όν</b>, muni de perches, DS. <i>19, 22</i>.<p><b>Étym</b>. κοντός.`

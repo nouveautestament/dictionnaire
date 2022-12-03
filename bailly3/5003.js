@@ -1,1 +1,0 @@
-lar[5003]=`<b>ή, όν</b> <font color="purple">[ᾰῠ]</font> salé, HPC. <i>Acut. 390</i> ; AR. <i>Lys. 403</i> ; PLAT. <i>Tim. 65e ;</i> PLUT. <i>M. 913b</i>.<p>➳ <i>• Cp</i>. -ώτερος, ARSTT. <i>Probl. 13, 25</i>.<p><b>Étym</b>. ἅλς.`

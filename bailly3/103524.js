@@ -1,1 +1,0 @@
-lar[103524]=`<b>ὑπο·μείων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, de condition inférieure ; οἱ ὑπομείονες :<br><b>      1</b> les citoyens de la dernière classe, <i>à Sparte,</i> XÉN. <i>Hell. 3, 3, 6</i>.<br><b>      2</b> les officiers subalternes <i>ou</i> les sous-officiers, DC. <i>38, 35</i>.`

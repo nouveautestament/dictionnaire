@@ -1,1 +1,0 @@
-lar[108944]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne l’argent : χρηματικὴ ζημία, PLUT. <i>Dem. 27,</i> amende d’argent ; οἱ χρηματικοί, les hommes d’argent, <i>càd</i>. ceux qui possèdent, les riches, PLUT. <i>Sol. 14 ; ou</i> ceux qui ne cherchent qu’à acquérir, les hommes cupides, PLUT. <i>M. 1096</i>.<p><b>Étym</b>. χρῆμα.`

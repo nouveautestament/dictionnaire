@@ -1,1 +1,0 @@
-lar[66086]=`<b>μισό·χρηστος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait les gens de bien, XÉN. <i>Hell. 2, 3, 47</i> ; DH. <i>8, 6</i>.<p>•<i> Sup</i>. -ότατος, XÉN. <i>l. c</i>.<p><b>Étym</b>. μ. χρηστός.`

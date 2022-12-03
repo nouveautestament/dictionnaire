@@ -1,1 +1,0 @@
-lar[90197]=`<b>σιδον·υφής, ής, ές</b> <font color="purple">[ῑῠ]</font> tissé à Sidon, <i>càd</i>. teint en pourpre, PHILOX. (ATH. <i>409e conj. ; vulg</i>. σινδονυφής).<p><b>Étym</b>. Σιδών, ὑφαίνω.`

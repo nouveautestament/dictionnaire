@@ -1,1 +1,0 @@
-lar[4271]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> secours, remède, NIC. <i>Th. 805, Al. 4</i>.<p><b>Étym</b>. ἀλέξω.`

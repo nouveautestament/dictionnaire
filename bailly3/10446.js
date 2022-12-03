@@ -1,1 +1,0 @@
-lar[10446]=`<b>ἀντι·στρατιώτης, ου (ὁ)</b> <font color="purple">[ᾰτ]</font> soldat ennemi, <i>d’où</i> ennemi, adversaire, <i>en gén</i>. JOS. <i>A.J. 13, 14, 2 (var</i>. ἀντιστασιώτης) ; LIB. <i>4, 522</i> ; GAL. <i>5, 341</i>.`

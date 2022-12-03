@@ -1,1 +1,0 @@
-lar[97433]=`<b>α, ον</b>, <i>épq. et ion</i>. <b>ταλασήϊος, η, ον</b> <font color="purple">[ᾰᾰ]</font> qui concerne le travail de la laine <i>ou</i> le métier de fileuse, A.RH. <i>3, 292</i> ; NONN. <i>D. 6, 142</i>.<p><b>Étym</b>. <i>cf</i>. ταλάσιος.`

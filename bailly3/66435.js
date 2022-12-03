@@ -1,1 +1,0 @@
-lar[66435]=`<b>εως (ἡ)</b> action de salir, de souiller, tache, souillure, ARSTT. <i>G.A. 4, 7</i> ; TH. <i>C.P. 4, 9, 6, etc</i>.<p><b>Étym</b>. μολύνω.`

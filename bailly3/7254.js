@@ -1,1 +1,0 @@
-lar[7254]=`<b>ου (ὁ)</b> Ananios, <i>poète,</i> ATH. <i>78f, etc</i>.`

@@ -1,1 +1,0 @@
-lar[9507]=`<b>ἀντ·αποπέρδω</b> (<i>seul. inf. ao.2</i> -αποπαρδεῖν) répondre par un pet, AR. <i>Nub. 293</i>.`

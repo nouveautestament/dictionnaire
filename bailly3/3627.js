@@ -1,1 +1,0 @@
-lar[3627]=`<b>η, ον</b> <font color="purple">[ᾰγ]</font> d’Agrigente, HDT. <i>7, 165, 170</i> ; PD. <i>I. 2, 25</i> ; THC. <i>7, 32, etc.</i> ; ἡ Ἀκραγαντίνη, PLUT. <i>Dio. 49,</i> le territoire d’Agrigente.<p><b>Étym</b>. Ἀκράγας.`

@@ -1,1 +1,0 @@
-lar[33966]=`<b>ἐν·απομόργνυμι</b> <font color="purple">[ῡ]</font> laisser une empreinte sur, <i>avec</i> εἰς <i>et l’acc</i>. JAMBL. (STOB. <i>Fl. 41, 44</i>) ; PORPH. (STOB. <i>Ecl. 1, 1040</i>).`

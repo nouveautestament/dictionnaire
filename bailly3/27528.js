@@ -1,1 +1,0 @@
-lar[27528]=`<i>acc. de</i> δόξα ;<br><i>neutre de</i> δόξας, <i>part. ao. de</i> δοκέω.`

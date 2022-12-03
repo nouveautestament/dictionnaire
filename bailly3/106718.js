@@ -1,1 +1,0 @@
-lar[106718]=`<b>φορο·λόγος, ος, ον</b>, percepteur des impositions, PLUT. <i>Pyrrh. 23</i> ; SPT. <i>Job 3, 18, etc</i>.<p><b>Étym</b>. φόρος, λέγω.`

@@ -1,1 +1,0 @@
-lar[13640]=`<b>ἀπο·τραχηλίζω</b> <font color="purple">[ᾰχ]</font> serrer le cou, <i>d’où</i> étrangler, EUN. <i>p. 104, 17</i>.`

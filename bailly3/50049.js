@@ -1,1 +1,0 @@
-lar[50049]=`<b>ατος (τὸ)</b> <i>d’ord. au pl</i>. rognure, raclure, HPC. <i>880</i>.<p><b>Étym</b>. ἰχθύα.`

@@ -1,1 +1,0 @@
-lar[61786]=`<b>λυγο·ειδής, ής, ές</b>, qui ressemble à de l’osier, DIOSC. <i>4, 146</i>.<p><b>Étym</b>. λύγος, εἶδος.`

@@ -1,1 +1,0 @@
-lar[36707]=`<b>ἐπ·ανισόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐπανίσωσα <font color="purple">[ῑ]</font>)</font> égaliser complètement, rendre tout à fait égal : πρός τινα, THC. <i>8, 57</i> ; τινι, PLAT. <i>Leg. 745d</i>, à qqn.`

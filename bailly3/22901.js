@@ -1,1 +1,0 @@
-lar[22901]=`<b>Δ, δ</b> (δέλτα) delta, <i>4<sup>e</sup> lettre de l’alphabet grec.<br>Comme chiffre,</i> δʹ = <i>4 et</i> ͵δ = <i>4 000</i>.<p><b>Étym</b>. <i>R. sémit. ; hébr</i>. Daleth, ד ; <i>v</i>. δέλτα.`

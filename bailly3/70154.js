@@ -1,1 +1,0 @@
-lar[70154]=`<b>ῶν (οἱ)</b> <font color="purple">[ῠ]</font> les Odryses, <i>pple thrace, sur l’Hèbre,</i> HDT. <i>4, 92</i> ; THC. <i>2, 29</i> ; XÉN. <i>An. 7, 2, 18, etc</i>.<p>➳ <i>Gén. ion</i>. -έων, HDT. <i>4, 92</i>.`

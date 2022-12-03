@@ -1,1 +1,0 @@
-lar[3866]=`<b>ἀκρο·φυής, ής, ές</b>, <i>seul</i>. <i>• Sup</i>. -έστατος, d’une nature élevée, SYN. <i>Dion. 60d, Ep. 40, 180b</i>.<p><b>Étym</b>. ἄ. φύω.`

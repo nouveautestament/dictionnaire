@@ -1,1 +1,0 @@
-lar[109827]=`<b>α, ον</b> <font color="purple">[ψῐ]</font> <i>seul. dans les locut</i>. ψίθιος οἶνος, EUB. (ATH. <i>28f</i>) sorte de vin rouge, <i>appelé d’ord</i>. Πράμνιος ; ψιθία ἕλινος, NIC. <i>Al. 181,</i> vigne qui produit ce vin.`

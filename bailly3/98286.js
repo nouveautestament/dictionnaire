@@ -1,1 +1,0 @@
-lar[98286]=`<b>ας (ἡ)</b> Ténéa, <i>brg de Corinthie,</i> XÉN. <i>Hell. 4, 4, 19, etc</i>.`

@@ -1,1 +1,0 @@
-lar[37409]=`<b>ας (ἡ)</b> ce qui bouche, bouchon, LUC. <i>Lex. 1</i>.<p><b>Étym</b>. ἐπιβύω.`

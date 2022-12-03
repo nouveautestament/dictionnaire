@@ -1,1 +1,0 @@
-lar[95339]=`<b>ῆς (ἡ)</b> synecdoque, <i>figure de mots qui consiste à employer un terme en un sens plus compréhensif, p. ex., en prenant un singulier collectivement pour un pluriel,</i> Ps.-PLUT. <i>V. Hom. 22</i> ; CLÉM. <i>Str. 5, 9, 58</i> ; A. QUINT. <i>2, p. 84</i> ; RHÉT. <i>8, 691 W</i>.<p><b>Étym</b>. συνεκδέχομαι.`

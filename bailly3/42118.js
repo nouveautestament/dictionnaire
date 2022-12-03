@@ -1,1 +1,0 @@
-lar[42118]=`<b>εὐ·ήμερος, ος, ον</b>, tranquille, serein, doux, PLAT. <i>Tim. 71d</i>.<p><b>Étym</b>. εὖ, ἥμερος.`

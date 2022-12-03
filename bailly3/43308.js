@@ -1,1 +1,0 @@
-lar[43308]=`<b>εὐρυ·οδείη</b>, <i>adj. fém. ion., seul. gén</i>. <b>εὐρυοδείης</b> (la Terre) aux larges routes, vaste, spacieuse (<i>c</i>. εὐρύπορος, <i>en parl. de la mer</i>) IL. <i>16, 635</i> ; OD. <i>3, 453, etc</i>.<p><b>Étym</b>. εὐ. ὁδός.`

@@ -1,1 +1,0 @@
-lar[54508]=`<b>ου (ὁ)</b> Kékalos, <i>Mégarien,</i> THC. <i>4, 119</i>.`

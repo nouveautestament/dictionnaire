@@ -1,1 +1,0 @@
-lar[14840]=`<b>α, ον :<br>      1</b> d’ours, NONN. <i>D. 2, 44</i>.<br><b>      2</b> du nord, arctique (<i>litt</i>. de la Grande-Ourse) DP. <i>519</i> ; τὰ ἀρκτῷα, LUC. <i>Char. 5,</i> les régions arctiques.<p><b>Étym</b>. ἄρκτος.`

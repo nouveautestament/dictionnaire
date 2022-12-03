@@ -1,1 +1,0 @@
-lar[13979]=`<b>ἀ·πρόσπλοκος, ος, ον</b>, qu’on ne peut entrelacer <i>ou</i> unir, HÉRACLÉON (ORIG. <i>4, 380b</i>).`

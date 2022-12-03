@@ -1,1 +1,0 @@
-lar[26555]=`<b>δί·κολπος, ος, ον</b> <font color="purple">[ῐ]</font> à deux seins, GAL. <i>4, 277d</i>.<p><b>Étym</b>. δίς, κόλπος.`

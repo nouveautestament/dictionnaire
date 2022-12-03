@@ -1,1 +1,0 @@
-lar[16664]=`<font color="purple">[τᾰ]</font> <i>adv</i>., sans pouvoir supporter la fatigue, HPC. <i>Acut. 389</i>.`

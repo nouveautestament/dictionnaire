@@ -1,1 +1,0 @@
-lar[7905]=`<b>ατος (τὸ) :<br>      1</b> proclamation, acclamation, PLUT. <i>Pomp. 13</i>.<br><b>      2</b> exclamation, PLUT. <i>M. 416d</i>.`

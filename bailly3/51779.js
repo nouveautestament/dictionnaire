@@ -1,1 +1,0 @@
-lar[51779]=`<b>ας (ἡ)</b> <font color="purple">[ᾰβᾰ]</font><br><b>      1</b> lourdeur de tête, mal de tête, ARSTT. <i>Somn. 3</i>.<br><b>      2</b> tête massive d’un bâton, ANTH. <i>9, 249</i>.<p>➳ <i>Ion</i>. καρηβαρίη, HPC. <i>Acut. 389, etc</i>.<p><b>Étym</b>. καρηβαρής.`

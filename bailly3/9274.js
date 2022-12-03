@@ -1,1 +1,0 @@
-lar[9274]=`<b>ἀν·ομοιόπτωτος, ος, ον</b>, dont les cas ne sont pas semblables, EUST. <i>Il. p. 1228, 62 ; Od. p. 12, 27</i>.<p><b>Étym</b>. ἀν-, ὁ.`

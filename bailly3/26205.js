@@ -1,1 +1,0 @@
-lar[26205]=`<b>δι·εξαΐσσω</b> <font color="purple">[ᾱ]</font> <i>d’où</i> *διεξᾴσσω, <i>att</i>. διεξᾴττω <i>ou</i> διεξάττω, s’échapper avec impétuosité, s’élancer, THCR. <i>Idyl. 13, 23 (ao. 3 sg</i>. διεξάϊξε) ; <i>en parl. de vents,</i> ARSTT. <i>Mund. 4</i>.<p><b>Étym</b>. <i>part. prés</i>. διεξάττοντες <i>Bonitz</i>.`

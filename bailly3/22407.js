@@ -1,1 +1,0 @@
-lar[22407]=`(<i>seul. prés</i>.) :<br><b>      1</b> faire grincer <i>ou</i> claquer (ses dents), SPT. <i>Sir. 30, 10</i>.<br><b>      2</b> <i>en parl. des dents,</i> grincer, claquer, SPT. <i>Ezech. 18, 2</i>.<p><b>Étym</b>. γομφίος.`

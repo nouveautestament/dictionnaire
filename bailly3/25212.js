@@ -1,1 +1,0 @@
-lar[25212]=`<b>δι·απατάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> tromper complètement, PLAT. <i>Leg. 738e ; au pass</i>. ARSTT. <i>H.A. 1, 17, 7</i>.`

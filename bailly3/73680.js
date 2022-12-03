@@ -1,1 +1,0 @@
-lar[73680]=`<b>αγος (ἡ)</b> <font color="purple">[ᾰγ]</font> <i>autre n. de l’oiseau</i> τέτριξ, ARSTT. <i>H.A. 6, 1, 7</i>.`

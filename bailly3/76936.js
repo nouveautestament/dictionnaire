@@ -1,1 +1,0 @@
-lar[76936]=`<b>παρ·ιδρύω</b>, établir <i>ou</i> élever auprès de, <i>au pass</i>. PHIL. <i>2, 159</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ANTH. <i>9, 315</i>.`

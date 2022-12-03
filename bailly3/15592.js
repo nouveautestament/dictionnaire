@@ -1,1 +1,0 @@
-lar[15592]=`<b>Ἀρχι·δίκη, ης (ἡ)</b> <font color="purple">[ῐῐ]</font> Arkhidikè, <i>f</i>. HDT. <i>2, 135</i> ; DÉM. <i>1083, 6</i>.`

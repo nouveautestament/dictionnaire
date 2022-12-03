@@ -1,1 +1,0 @@
-lar[46248]=`<b>ων (οἱ)</b> les Thamanæes, <i>pple perse,</i> HDT. <i>3, 93</i>.`

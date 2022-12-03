@@ -1,1 +1,0 @@
-lar[48318]=`<b>ἰατρο·μαθηματικός, ή, όν</b> <font color="purple">[ῑᾱᾰᾰῐ]</font> formé d’un mélange de médecine et d’astrologie, PTOL. <i>Tetr. 16</i> ; οἱ ἰατρ. médecins qui recourent à l’astrologie, PROCL. <i>Ptol. 7, 24</i>.<p><b>Étym</b>. ἰατρός, μαθηματικός.`

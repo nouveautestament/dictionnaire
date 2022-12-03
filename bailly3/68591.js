@@ -1,1 +1,0 @@
-lar[68591]=`<b>νήπτης, ου</b>, <i>adj. m</i>. sobre, <i>particul</i>. sobre de boisson, POL. <i>10, 3, 1 ; 27, 10, 3</i> ; DS. <i>Exc. p. 578, 50 ; 597, 21</i>.<p><b>Étym</b>. νήφω.`

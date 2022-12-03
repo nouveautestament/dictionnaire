@@ -1,1 +1,0 @@
-lar[67463]=`<b>η, ον</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. μυχοίτατος, Ps.-PHOCYL. <i>164</i> ; A.RH. <i>1, 170</i> ; CALL. <i>Dian. 68</i> ; ANTH. <i>9, 632</i>.<p><b>Étym</b>. <i>sup. de</i> μυχός ; <i>cf</i>. μεσάτος <i>de</i> μέσος.`

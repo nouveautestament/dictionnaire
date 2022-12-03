@@ -1,1 +1,0 @@
-lar[66586]=`<b>μονο·μήτωρ</b>, <i>dor</i>. <b>μονο·μάτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> qui n’a plus sa mère, EUR. <i>Ph. 1517</i>.<p><b>Étym</b>. μ. μήτηρ.`

@@ -1,1 +1,0 @@
-lar[28293]=`<b>δυσ·διαίρετος, ος, ον</b>, difficile à diviser, à partager, ARSTT. <i>Probl. 21, 12</i> ; TH. <i>H.P. 7, 11, 3</i>.<p><b>Étym</b>. δ. διαιρέω.`

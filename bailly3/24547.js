@@ -1,1 +1,0 @@
-lar[24547]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> attaché à travers : δακτύλιος δ. τὸν κύκλον ἠλέκτρῳ, HLD. <i>5, 13</i>, anneau dont le cercle est orné d’un filet du métal ἤλεκτρον ; δ. ταινίαις τὰς κόμας, LIB. <i>4, 189</i>, qui a des bandelettes enlacées dans les cheveux.<p><b>Étym</b>. <i>vb. de</i> διαδέω.`

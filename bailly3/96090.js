@@ -1,1 +1,0 @@
-lar[96090]=`<b>σύν·νυμφος, ου (ἡ)</b> belle-sœur, AR. BYZ. <i>fr. p. 136 Nauck ; au pl. c</i>. εἰνατέρες, SPT. <i>Ruth 1, 15</i>.<p><b>Étym</b>. σύν, νύμφη.`

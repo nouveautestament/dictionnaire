@@ -1,1 +1,0 @@
-lar[25503]=`<b>διασαφηνέω-ῶ</b> <font color="purple">[σᾰ]</font> (<i>seul. part. prés</i>. -έοντος) <i>c</i>. διασαφέω HPC. <i>Ep. 1275, 29 dout</i>.<p><b>Étym</b>. διά, σαφηνής.`

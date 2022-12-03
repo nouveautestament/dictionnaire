@@ -1,1 +1,0 @@
-lar[53056]=`<b>κατα·πηδάω-ῶ</b>, sauter à bas, <i>avec</i> ἀπό <i>et le gén</i>. XÉN. <i>Cyr. 7, 1, 38</i> ; PLUT. <i>Cæs. 49, ou</i> ἐκ <i>et le gén</i>. CHARIT. <i>5, 3</i>.`

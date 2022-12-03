@@ -1,1 +1,0 @@
-lar[32845]=`<i>ou</i> <b>Ἐλισαβέτ (ἡ)</b> <i>indécl</i>. Élisabeth, <i>f</i>. NT. <i>Luc. 1, 5</i>.`

@@ -1,1 +1,0 @@
-lar[95548]=`<b>συν·εξορούω</b>, s’élancer avec, CLÉARQ. (ATH. <i>332d</i>).`

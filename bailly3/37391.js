@@ -1,1 +1,0 @@
-lar[37391]=`<b>ἐπι·βραδύνω</b> <font color="purple">[ᾰῡ]</font> tarder encore, LUC. <i>Tim. 46</i>.`

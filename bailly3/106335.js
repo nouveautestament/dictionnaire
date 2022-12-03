@@ -1,1 +1,0 @@
-lar[106335]=`<i>vb. de</i> φλεβοτομέω GAL. <i>14, 445</i> ; ORIB. (CHIRURG. <i>157 Cocch</i>.).`

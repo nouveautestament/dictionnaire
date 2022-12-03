@@ -1,1 +1,0 @@
-lar[15930]=`<b>ή, όν :<br>      1</b> actif, laborieux, PLAT. <i>Leg. 806a.</i><br><b>      2</b> habituel aux athlètes, AR. <i>Lys. 1085</i>.<p><b>Étym</b>. ἀσκέω.`

@@ -1,1 +1,0 @@
-lar[31406]=`<b>ἐκ·καυχάομαι-ῶμαι</b> <font color="darkgreen">(<i>impf</i>. ἐξεκαυχῶνθ')</font> se vanter, EUR. <i>Bacch. 31</i>.`

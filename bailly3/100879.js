@@ -1,1 +1,0 @@
-lar[100879]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> mollesse, sensualité, AQU.<br><b>      2</b> constitution délicate, SOR. <i>Obst. p. 78, 192</i> ; RUF. <i>fr. p. 225</i>.<p><b>Étym</b>. τρυφερός.`

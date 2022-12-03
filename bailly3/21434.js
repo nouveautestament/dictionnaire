@@ -1,1 +1,0 @@
-lar[21434]=`<b>γαστρο·μαντεύομαι</b> (<i>seul. prés</i>.) pratiquer la divination par le ventre, ALCIPHR. <i>2, 4</i>.<p><b>Étym</b>. γαστήρ, μ.`

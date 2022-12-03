@@ -1,1 +1,0 @@
-lar[103038]=`<b>ὑπο·βλίττω</b>, sucer <i>ou</i> soutirer doucement, <i>fig</i>. PHILSTR. <i>V. Ap. 6, 36</i>.`

@@ -1,1 +1,0 @@
-lar[37550]=`<b>ἐπι·δερμίς, ίδος (ἡ) :<br>      1</b> épiderme, pellicule qui recouvre la peau, HPC. <i>240, 33</i>.<br><b>      2</b> membrane qui recouvre les pieds des oiseaux aquatiques, ARSTT. (SCH.-IL. <i>2, 460).</i><p><b>Étym</b>. ἐπί, δέρμα.`

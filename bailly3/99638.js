@@ -1,1 +1,0 @@
-lar[99638]=`<b>ας (ἡ) :<br>      1</b> position d’un lieu, DS. <i>1, 42 ; 18, 5</i> ; PTOL. <i>1, 1, 4</i>.<br><b>      2</b> description de la position d’un lieu, CIC. <i>Att. 1, 13, 5</i>.<p><b>Étym</b>. τοποθετέω.`

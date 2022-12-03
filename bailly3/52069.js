@@ -1,1 +1,0 @@
-lar[52069]=`<b>ας (ἡ)</b> le territoire de Kassôpè, <i>dans le pays des Molosses,</i> DÉM. <i>84, 22</i>.`

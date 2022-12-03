@@ -1,1 +1,0 @@
-lar[3233]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui concerne un ἄκατος ; τὰ ἀκάτεια <i>ou</i> ἀκάτια, XÉN. <i>Hell. 6, 2, 27</i> ; LUC. <i>J. tr. 46,</i> petites voiles, <i>p. opp</i>. aux grandes.<p><b>Étym</b>. μέγα ἱστίον, ὀθόνη, <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[105766]=`<b>φιλό·δουπος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le bruit, ANTH. <i>6, 297</i>.<p><b>Étym</b>. φ. δοῦπος.`

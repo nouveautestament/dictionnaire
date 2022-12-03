@@ -1,1 +1,0 @@
-lar[81965]=`<b>πολυκαρπέω-ῶ</b> <font color="purple">[ῠ]</font> produire <i>ou</i> porter beaucoup de fruits, TH. <i>C.P. 1, 17, 10</i> ; ARSTT. <i>G.A. 3, 1, 15, etc</i>.<p><b>Étym</b>. πολύκαρπος.`

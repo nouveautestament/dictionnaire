@@ -1,1 +1,0 @@
-lar[63953]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de frêne, TH. <i>H.P. 5, 7, 8</i>.<p>➳ <i>Dans les inscr. att. à côté de</i> μελέϊνος, <i>on trouve la forme</i> μελίϊνος, CIA. <i>2, add. 834b, 2, 19 (329 av. J.-C.) ; v. Meisterh. p. 15, 4</i>.<p><b>Étym</b>. μελία.`

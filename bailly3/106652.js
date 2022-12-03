@@ -1,1 +1,0 @@
-lar[106652]=`<b>ου (ὁ)</b> Phoxos, <i>h</i>. ARSTT. <i>Pol. 5, 4</i>.<p><b>Étym</b>. <i>cf</i>. φοξός.`

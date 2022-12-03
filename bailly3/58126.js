@@ -1,1 +1,0 @@
-lar[58126]=`<b>κρουσι·δημέω-ῶ</b> <font color="purple">[ῐ]</font> tromper le peuple, AR. <i>Eq. 859</i>.<p><b>Étym</b>. κρούω, δῆμος.`

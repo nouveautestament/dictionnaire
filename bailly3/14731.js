@@ -1,1 +1,0 @@
-lar[14731]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ HOM., ᾱ ATT.]</font> déjeuner, repas du matin, IL. <i>24, 124</i> ; OD. <i>18, 2</i> ; ESCHL. <i>fr. 181 ; plus tard,</i> repas du milieu du jour, HDT. <i>3, 26 ; 6, 78</i> ; THC. <i>4, 90 ; 7, 81</i> ; ARSTT. <i>H.A. 9, 32, 7</i>.<p><b>Étym</b>. <i>indo-europ</i>. *h₂eier-, jour, matin <i>et</i> *h₁ed-, manger, <i>cf</i>. ἔδω.`

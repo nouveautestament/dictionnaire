@@ -1,1 +1,0 @@
-lar[104933]=`<b>(ὁ)</b> Pharnazathrès, <i>chef indien,</i> HDT. <i>7, 65</i>.`

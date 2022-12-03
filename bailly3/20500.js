@@ -1,1 +1,0 @@
-lar[20500]=`<b>βου·πλανό·κτιστος, ος, ον</b> <font color="purple">[ᾰ]</font> fondé au lieu marqué par une génisse errante, <i>ép. de Troie,</i> LYC. <i>29</i> ; APD. <i>3, 11</i>.<p><b>Étym</b>. βοῦς, πλάνη, κτίζω.`

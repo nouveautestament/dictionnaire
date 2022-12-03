@@ -1,1 +1,0 @@
-lar[70620]=`<i>épq. c</i>. οὗ, <i>gén. du pron. poss</i>. ὅς.`

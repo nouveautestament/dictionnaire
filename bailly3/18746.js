@@ -1,1 +1,0 @@
-lar[18746]=`<b>βαθυ·δείελος, ος, ον</b>, inondé de soleil du soir, BACCHYL. <i>1, 139</i>.<p><b>Étym</b>. β. δείελος.`

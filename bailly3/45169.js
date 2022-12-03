@@ -1,1 +1,0 @@
-lar[45169]=`<b>Ἤλεκτραι πύλαι (αἱ)</b> ESCHL. <i>Sept. 423 ; ou simpl</i>. <b>Ἤλεκτραι</b>, EUR. <i>Ph. 1136, Bacch. 779 ; ou simpl. dor</i>. <b>Ἄλεκτραι</b>, PD. <i>I. 3, 104,</i> la porte Électres, <i>à Thèbes</i>.<p>➳ <i>Gén. dor</i>. Ἀλεκτρᾶν <font color="purple">[ᾱλ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. Ἠλέκτρα 2, <i>cf</i>. ἠλέκτωρ.`

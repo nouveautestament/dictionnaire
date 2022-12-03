@@ -1,1 +1,0 @@
-lar[13119]=`<b>ἀπο·πολεμέω-ῶ</b>, combattre du haut de, PLAT. <i>Phædr. 260b</i>.`

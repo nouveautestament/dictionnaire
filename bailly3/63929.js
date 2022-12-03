@@ -1,1 +1,0 @@
-lar[63929]=`<b>μελά·ρρινος, ος, ον</b> <font color="purple">[ῑ]</font> au cuir noir, NONN. <i>D. 14, 395</i>.<p><b>Étym</b>. μ. ῥινός.`

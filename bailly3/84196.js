@@ -1,1 +1,0 @@
-lar[84196]=`<b>προ·εξελαύνω :<br>      1</b> s’élancer (à cheval) avant, <i>gén</i>. PLUT. <i>Phil. 7, etc.</i> ; LUC. <i>D. mer. 13, 1</i>.<br><b>      2</b> s’élancer (sur un navire) au-devant <i>ou</i> contre, <i>dat</i>. PLUT. <i>Nic. 24</i>.`

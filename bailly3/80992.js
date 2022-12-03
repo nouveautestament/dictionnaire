@@ -1,1 +1,0 @@
-lar[80992]=`<b>πλημο·χόη, ης (ἡ)</b> vase d’argile pour le dernier jour des mystères d’Éleusis, EUR. <i>fr. 595 ; d’où plur</i>. αἱ πλημοχόαι, PAMPHIL. (ATH. <i>496a</i>) le dernier jour des fêtes d’Éleusis.<p><b>Étym</b>. πλήμη, χέω.`

@@ -1,1 +1,0 @@
-lar[63707]=`<b>μειλιχό·δωρος, ος, ον</b> <font color="purple">[ῐ]</font> qui est un doux présent, PROCL. <i>H. Sol. 21</i> ; HERMIPP. (ATH. <i>29e</i>).<p><b>Étym</b>. μ. δῶρον.`

@@ -1,1 +1,0 @@
-lar[35595]=`<b>ἐξαρθρόω-ῶ :<br>      1</b> désarticuler, déboîter, JOS. <i>Macc. c. 10</i>.<br><b>      2</b> pourvoir d’articulations, ARSTT. <i>Physiogn. 6, 14</i>.`

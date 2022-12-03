@@ -1,1 +1,0 @@
-lar[81721]=`<b>πολυ·άργυρος, ος, ον</b> <font color="purple">[ῠρ]</font> qui possède <i>ou</i> contient beaucoup d’argent, HDT. <i>5, 49</i> ; DS. <i>5, 36</i> ; PLUT. <i>Lys. c. Syll. 3</i>.<p>•<i> Sup</i>. -ώτατος, HDT. <i>l. c</i>.<p><b>Étym</b>. π. ἄ.`

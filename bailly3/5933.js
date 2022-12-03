@@ -1,1 +1,0 @@
-lar[5933]=`<b>α, ον</b> <font color="purple">[ᾰῡ]</font> de la fontaine Amymônè, EUR. <i>Ph. 188</i>.<p><b>Étym</b>. <i>v</i>. Ἀμυμώνη.`

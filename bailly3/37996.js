@@ -1,1 +1,0 @@
-lar[37996]=`<b>ἐπι·κεράννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao. inf. épq</i>. ἐπικρῆσαι)</font> verser sur, mêler, <i>acc</i>. OD. <i>7, 164</i>.`

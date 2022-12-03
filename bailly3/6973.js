@@ -1,1 +1,0 @@
-lar[6973]=`<b>εως (ἡ) :<br>      1</b> action de coller, GAL. <i>6, 359</i>.<br><b>      2</b> moyen pour empêcher les cils de tomber, DIOSC. <i>1, 91</i>.<p><b>Étym</b>. ἀνακολλάω.`

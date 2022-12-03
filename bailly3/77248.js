@@ -1,1 +1,0 @@
-lar[77248]=`<b>*πασι·φάεις</b>, <i>seul. fém</i>. <b>πασιφάεσσα</b> <font color="purple">[ᾱῐ]</font> <i>adj. c</i>. πασιφαής, EPIGR. (ARSTT. <i>Mir. 133</i>).`

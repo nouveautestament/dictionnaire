@@ -1,1 +1,0 @@
-lar[64189]=`<b>μελο·τυπέω-ῶ</b> <font color="purple">[ῠ]</font> chanter en cadence, ESCHL. <i>Ag. 1153</i>.<p><b>Étym</b>. μέλος, τύπος.`

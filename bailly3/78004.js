@@ -1,1 +1,0 @@
-lar[78004]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui contient cinq parties, PROCL. <i>Hyp. 138, 23</i>.<p><b>Étym</b>. μ. μοῖρα.`

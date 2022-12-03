@@ -1,1 +1,0 @@
-lar[27027]=`<b>δισκο·ειδής, ής, ές</b>, qui a la forme d’un disque, PLUT. <i>M. 891c ;</i> DIOSC. <i>2, 186</i> ; DL. <i>8, 77 ; etc</i>.<p><b>Étym</b>. δίσκος, εἶδος.`

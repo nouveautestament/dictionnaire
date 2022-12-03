@@ -1,1 +1,0 @@
-lar[108969]=`<b>εως (ἡ)</b> réponse d’oracle, PD. <i>O. 13, 108</i>.<p>➳ <i>Dor. gén</i>. χρήσιος, PD. <i>l. c</i>.<p><b>Étym</b>. χράω².`

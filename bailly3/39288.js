@@ -1,1 +1,0 @@
-lar[39288]=`<b>ἐπι·σχεδιάζω</b>, dire <i>ou</i> faire sans préparation, improviser, PHILSTR. <i>485</i>.`

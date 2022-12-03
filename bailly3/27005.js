@@ -1,1 +1,0 @@
-lar[27005]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> double timon, ESCHL. <i>fr. 334</i>.<p><b>Étym</b>. δίρρυμος.`

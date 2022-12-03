@@ -1,1 +1,0 @@
-lar[110560]=`<b>ου (τὸ) :<br>      1</b> petite oreille, ANTH. <i>11, 81</i> ; SPT. <i>1Reg. 9, 15, etc.</i> ; NT. <i>Matth. 26, 51</i>.<br><b>      2</b> petite anse, HÉRON (MATH. <i>p. 163).</i><p><b>Étym</b>. <i>dim. de</i> οὖς.`

@@ -1,1 +1,0 @@
-lar[80396]=`<b>ητος (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> graisse, HPC. <i>Aër. 292</i> ; ARSTT. <i>H.A. 3, 17, 4, etc.</i> ; TH. <i>H.P. 9, 1, 3</i> ; LUC. <i>Am. 14</i>.<br><b>      2</b> <i>fig</i>. opulence, PHIL. <i>1, 299, etc</i>.<p><b>Étym</b>. πίων.`

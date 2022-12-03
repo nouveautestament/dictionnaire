@@ -1,1 +1,0 @@
-lar[23320]=`<b>δασυ·πώγων, ωνος (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> à barbe touffue, AR. <i>Th. 33</i>.<p><b>Étym</b>. δ. πώγων.`

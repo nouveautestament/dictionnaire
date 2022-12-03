@@ -1,1 +1,0 @@
-lar[9802]=`<b>ίδος (ἡ)</b> sorte de coupe <i>ou</i> de vase à boire (<i>cf</i>. Σελευκίς) PLUT. <i>Æmil. 33</i> ; POLÉM. (ATH. <i>497f</i>).<p><b>Étym</b>. Ἀντίγονος.`

@@ -1,1 +1,0 @@
-lar[47984]=`<b>όεσσα, όεν</b>, qui exhale un parfum, IL. <i>15, 153</i> ; HH. <i>Cer. 319</i> ; PD. <i>fr. 45, 3</i> ; EUR. <i>Tr. 1061</i>.<p><b>Étym</b>. θύος.`

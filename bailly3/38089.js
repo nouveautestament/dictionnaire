@@ -1,1 +1,0 @@
-lar[38089]=`<b>ἐπι·κοίμησις, εως (ἡ)</b> action de se coucher <i>ou</i> de dormir sur (une oreille) HPC. <i>Art. 805</i>.<p><b>Étym</b>. ἐπικοιμάομαι.`

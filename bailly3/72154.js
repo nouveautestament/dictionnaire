@@ -1,1 +1,0 @@
-lar[72154]=`<b>ὀξυ·ρεγμία</b>, <i>ou mieux</i> <b>ὀξυ·ρρεγμία, ας (ἡ) :<br>      1</b> aigreur d’estomac, rapport aigre, <i>p. suite,</i> d’une digestion pénible, HPC. <i>1256d.</i><br><b>      2</b> <i>p. suite,</i> humeur atrabilaire, AR. <i>fr. 398 Dind</i>.<p>➳ <i>Ion</i>. ὀξυρεγμίη, HPC. <i>l. c</i>.<p><b>Étym</b>. ὀ. ἐρευγμός.`

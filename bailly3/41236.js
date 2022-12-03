@@ -1,1 +1,0 @@
-lar[41236]=`<b>εως (ἡ)</b> prostitution, ESCHN. <i>2, 43</i> ; DÉM. <i>599, 24</i> ; DC. <i>45, 26, etc</i>.<p><b>Étym</b>. ἑταιρέω.`

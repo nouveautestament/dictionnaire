@@ -1,1 +1,0 @@
-lar[51856]=`<b>η, ον</b> <font color="purple">[πᾰ]</font> fait de gaze fine, STR. <i>294</i> ; DH. <i>1, 382 Reiske</i>.<p><b>Étym</b>. κάρπασος.`

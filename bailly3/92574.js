@@ -1,1 +1,0 @@
-lar[92574]=`<b>Στησί·χορος, ου (ὁ) :<br>      1</b> Stèsikhoros (Stésichore) <i>poète lyrique d’Himère,</i> PLAT. <i>Phædr. 243a, etc.</i><br><b>      2</b> coup de dés qui amène le nombre 8, POLL. <i>9, 100</i>.<p>➳ <i>Dor</i>. Στασίχορος <font color="purple">[ᾱ]</font> SIM. <i>fr. 53 Bgk</i>.<p><b>Étym</b>. ἵστημι, χορός.`

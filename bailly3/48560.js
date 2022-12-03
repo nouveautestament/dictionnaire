@@ -1,1 +1,0 @@
-lar[48560]=`<b>ιδος (ἡ)</b> suppliante, ESCHL. <i>fr. 87</i>.<p><b>Étym</b>. ἱερεύω.`

@@ -1,1 +1,0 @@
-lar[62489]=`<b>(ἡ)</b> = <i>lat</i>. Macrina, <i>f</i>. ANTH. <i>8, 163</i>.`

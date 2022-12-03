@@ -1,1 +1,0 @@
-lar[102447]=`<b>ὑπερ·εξαίρω</b>, élever outre mesure <i>ou</i> extrêmement, <i>au pass</i>. HPC. <i>1133d</i>.`

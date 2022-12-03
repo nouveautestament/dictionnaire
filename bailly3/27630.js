@@ -1,1 +1,0 @@
-lar[27630]=`<b>οῦ (ὁ)</b> heure du souper, <i>d’où</i> :<br><b>      1</b> le soir, HPC. <i>1149a ;</i> XÉN. <i>An. 1, 10, 17</i>.<br><b>      2</b> le souper, AR. <i>Vesp. 103</i> ; ATH. <i>11d</i>.<p><b>Étym</b>. δόρπον.`

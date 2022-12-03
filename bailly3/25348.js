@@ -1,1 +1,0 @@
-lar[25348]=`<b>δια·πορθέω-ῶ</b>, ruiner de fond en comble, saccager, détruire, IL. <i>2, 691</i> ; THC. <i>6, 102</i> ; DH. <i>8, 50 ; au pass</i>. être détruit de fond en comble, ESCHL. <i>Pers. 714</i> ; SOPH. <i>Aj. 896, etc.</i> ; PAUS. <i>7, 17, 1</i> ; DC. <i>47, 45</i>.`

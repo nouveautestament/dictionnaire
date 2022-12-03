@@ -1,1 +1,0 @@
-lar[49856]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art du tisserand, NAZ. <i>7, 672 Migne</i>.<p><b>Étym</b>. ἱστουργός.`

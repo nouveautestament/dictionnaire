@@ -1,1 +1,0 @@
-lar[34175]=`<b>ἐν·διαμένω</b>, séjourner <i>ou</i> continuer de demeurer dans, DH. <i>8, 62</i>.`

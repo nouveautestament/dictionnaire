@@ -1,1 +1,0 @@
-lar[39547]=`<b>ἐπι·φάνιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui apparaît, <i>d’où</i> τὰ ἐπιφάνια :<br><b>      1</b> la nativité de J.-C. CHRYS. <i>2, 458 ; 11, 29 Migne</i>.<br><b>      2</b> manifestation de J.-C. au monde, <i>d’où</i> la fête de l’Épiphanie, NAZ. <i>2, 561</i> ; CHRYS. <i>2, 459, Migne</i>.<p><b>Étym</b>. ἐπιφανής, <i>cf</i>. ἐπιφάνεια.`

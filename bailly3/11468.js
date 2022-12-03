@@ -1,1 +1,0 @@
-lar[11468]=`<b>ἀπ·αυθαδέω-ῶ</b> <font color="purple">[θᾱ]</font> <i>c</i>. ἀπαυθαδίζομαι, CELS. (ORIG. <i>1, 852 Migne).</i><p><b>Étym</b>. ἀ. αὐθάδης.`

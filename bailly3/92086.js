@@ -1,1 +1,0 @@
-lar[92086]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> forme <i>postér. de</i> σταθερός, DH. <i>Comp. p. 338</i>.`

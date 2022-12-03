@@ -1,1 +1,0 @@
-lar[84188]=`<b>προ·εξαπατάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> tromper auparavant, ARSTT. <i>Rhet. 3, 11, 6</i>.`

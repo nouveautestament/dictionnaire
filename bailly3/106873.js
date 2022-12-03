@@ -1,1 +1,0 @@
-lar[106873]=`<b>ου</b>, <i>épq</i>. <b>οιο (ὁ)</b> Phringos, <i>h</i>. NONN. <i>D. 26, 96, etc</i>.`

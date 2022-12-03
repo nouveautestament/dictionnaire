@@ -1,1 +1,0 @@
-lar[95747]=`<b>ή, όν</b> qui se soutient par le resserrement de ses parties, PLUT. <i>M. 946c, 954d</i>.<p><b>Étym</b>. συνερείδω.`

@@ -1,1 +1,0 @@
-lar[97899]=`<b>ταχυ·κίνητος, ος, ον</b> <font color="purple">[ᾰῠῑ]</font> qui se meut rapidement, POLÉM. <i>Physiogn. p. 284</i> ; PORPH. <i>Ptol. p. 240b</i>.<p><b>Étym</b>. τ. κινέω.`

@@ -1,1 +1,0 @@
-lar[73559]=`<b>οὐλο·μελής, ής, ές</b>, dont les membres sont entiers, qui a tous ses membres entiers, intacts, PARMÉN. (PLUT. <i>M. 1114c</i>).<p><b>Étym</b>. οὖλος¹, μέλος ; <i>cf</i>. ὁλομελής.`

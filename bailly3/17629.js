@@ -1,1 +1,0 @@
-lar[17629]=`<b>αὐτό·παις, -παιδος (ὁ)</b> le propre fils, <i>càd</i>. le véritable fils, le digne fils de, SOPH. <i>Tr. 826</i>.`

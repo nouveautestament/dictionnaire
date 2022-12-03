@@ -1,1 +1,0 @@
-lar[75640]=`<b>ατος (τὸ)</b> lisière comme les tisserands en ajoutaient aux étoffes et que le tailleur enlevait, POLL. <i>7, 64 ; d’où</i> bande, rognure qu’on ôte d’une pièce de drap, d’un vêtement (pour se pendre) THC. <i>4, 48</i>.<p><b>Étym</b>. παραιρέω.`

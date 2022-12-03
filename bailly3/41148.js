@@ -1,1 +1,0 @@
-lar[41148]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui concerne la nourriture, ANTIPAT. (STOB. <i>Fl. 70, 13).</i><p><b>Étym</b>. ἑστιάω.`

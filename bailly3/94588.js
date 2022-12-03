@@ -1,1 +1,0 @@
-lar[94588]=`<b>συν·αιθριάζω</b>, s’éclaircir en même temps, <i>en parl. du ciel,</i> XÉN. <i>An. 4, 4, 10 vulg</i>.`

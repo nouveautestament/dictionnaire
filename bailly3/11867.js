@@ -1,1 +1,0 @@
-lar[11867]=`<b>ής, ές :<br>      1</b> qui est un objet d’horreur, odieux, SOPH. <i>Ant. 50 ; avec un dat</i>. odieux à, haï de, ISOCR. <i>6b, etc.</i><br><b>      2</b> hostile, ennemi, THCR. <i>Idyl. 1, 101</i>.<p>•<i> Sup</i>. -έστατος, PHIL. <i>1, 604</i>.<p><b>Étym</b>. ἀπεχθάνομαι.`

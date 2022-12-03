@@ -1,1 +1,0 @@
-lar[27586]=`<b>δορι·θήρατος, ος, ον</b> <font color="purple">[ῐᾱ]</font> pris à la guerre, EUR. <i>Tr. 574 ; avec</i> πρός <i>et le gén</i>. EUR. <i>Hec. 105</i>.<p><b>Étym</b>. δόρυ, θηράομαι.`

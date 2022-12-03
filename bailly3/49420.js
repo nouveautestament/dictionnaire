@@ -1,1 +1,0 @@
-lar[49420]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> <i>épq. c</i>. ἱππότης, IL. <i>2, 336, etc.</i> ; OD. <i>3, 68, etc</i>.`

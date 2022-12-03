@@ -1,1 +1,0 @@
-lar[31157]=`<b>ας (ἡ)</b> insuffisance, déficit, THC. <i>1, 99</i> ; DÉM. <i>890, 14</i> (ἐκδεής, insuffisant, LEX. <i>de</i> ἐκ, δέω, manquer).`

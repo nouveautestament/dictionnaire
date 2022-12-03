@@ -1,1 +1,0 @@
-lar[81923]=`<b>πολύ·θεος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> aux nombreuses divinités, ESCHL. <i>Suppl. 424</i> ; LUC. <i>J. tr. 14</i>.<br><b>      2</b> qui adore plusieurs dieux, PHIL. <i>1, 41, etc</i>.<p><b>Étym</b>. π. θεός.`

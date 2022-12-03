@@ -1,1 +1,0 @@
-lar[2730]=`<b>αἰολάομαι-ῶμαι</b>, errer, flotter au hasard, HPC. <i>664, 8</i>.<p><b>Étym</b>. αἰόλος.`

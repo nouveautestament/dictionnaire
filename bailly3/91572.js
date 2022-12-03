@@ -1,1 +1,0 @@
-lar[91572]=`<b>(ὁ)</b> Sollax, <i>anc. n. du Tigre,</i> Ps.-PLUT. <i>Fluv. 24, 1</i>.`

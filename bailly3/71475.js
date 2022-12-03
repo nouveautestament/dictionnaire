@@ -1,1 +1,0 @@
-lar[71475]=`<b>ὁμοδρομέω-ῶ</b>, courir en même temps <i>ou</i> aussi vite, ALCID. <i>Soph. p. 80 ; fig</i>. PLUT. <i>M. 1143f ;</i> τινι, T. LOCR. <i>97a ;</i> MAX. <i>π. κατ. 232,</i> que qqn <i>ou</i> qqe ch.<p><b>Étym</b>. ὁμόδρομος.`

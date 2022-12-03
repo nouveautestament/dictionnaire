@@ -1,1 +1,0 @@
-lar[90915]=`<b>ης, ες</b>, qui ressemble à un oignon de scille, TH. <i>H.P. 9, 18, 3</i> ; HICÉS. (ATH. <i>87c</i>).<p>•<i> Cp</i>. -έστερος, DIPH. SIPHN. (ATH. <i>121a</i>).<p><b>Étym</b>. σκίλλα, -ωδης.`

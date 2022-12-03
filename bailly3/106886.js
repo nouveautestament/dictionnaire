@@ -1,1 +1,0 @@
-lar[106886]=`<i>adv</i>., d’une manière effrayante (<i>litt</i>. de manière à faire frissonner) SPT. <i>Sap. 6, 5</i>.`

@@ -1,1 +1,0 @@
-lar[89352]=`<b>σαπρό·πλουτος, ος, ον</b> <font color="purple">[ᾰ]</font> riche d’une manière sordide (<i>sel. d’autres,</i> σατραπόπλουτος, riche comme un satrape) ANTIPH. (<i>Com. fr. 3, 131).</i><p><b>Étym</b>. σαπρός, πλοῦτος.`

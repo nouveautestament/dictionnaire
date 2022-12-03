@@ -1,1 +1,0 @@
-lar[103650]=`<b>ὑπο·παύομαι</b>, cesser peu à peu, <i>gén</i>. ATH. <i>301c ; avec un part</i>. EL. <i>N.A. 13, 7</i>.`

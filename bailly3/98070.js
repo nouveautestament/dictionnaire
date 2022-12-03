@@ -1,1 +1,0 @@
-lar[98070]=`<b>ή, όν</b>, qui concerne la procréation d’enfants, ARSTT. <i>Pol. 1, 3, 2</i>.<p><b>Étym</b>. τεκνοποιέω.`

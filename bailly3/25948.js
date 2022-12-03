@@ -1,1 +1,0 @@
-lar[25948]=`<b>ατος (τὸ)</b> séparation, intervalle, LUC. <i>V.H. 2, 43</i>.<p><b>Étym</b>. διαχωρίζω.`

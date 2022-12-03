@@ -1,1 +1,0 @@
-lar[97576]=`<b>τανυ·σκόπελος, ος, ον</b> <font color="purple">[ᾰ]</font> dont les roches se prolongent au loin, NONN. <i>Jo. 4, 121</i>.<p><b>Étym</b>. τανυ-, σκόπελος.`

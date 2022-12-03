@@ -1,1 +1,0 @@
-lar[92005]=`<b>α, ον</b>, de semence ; τὰ σποραῖα, BABR. <i>13, 2,</i> les semences.<p><b>Étym</b>. σπορά.`

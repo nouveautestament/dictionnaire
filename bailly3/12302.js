@@ -1,1 +1,0 @@
-lar[12302]=`<b>ἀπο·δινέω-ῶ</b> <font color="purple">[ῑ]</font> triturer (du blé) HDT. <i>2, 14</i>.<p><b>Étym</b>. ἀπό, δῖνος.`

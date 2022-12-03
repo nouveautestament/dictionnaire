@@ -1,1 +1,0 @@
-lar[106141]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> l’Amitié, l’Amour, <i>particul</i>. l’union des sexes <i>personnifiée, enfant de la Nuit,</i> HÉS. <i>Th. 224</i>.<p><b>Étym</b>. <i>v</i>. φιλότης.`

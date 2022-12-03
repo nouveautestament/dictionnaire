@@ -1,1 +1,0 @@
-lar[57585]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> le dernier figurant d’un chœur, PLUT. <i>M. 678d</i>.<p><b>Étym</b>. κράσπεδον.`

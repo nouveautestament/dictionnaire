@@ -1,1 +1,0 @@
-lar[2636]=`<b>αἰν·αρέτης</b> (<i>seul. voc</i>. -έτη) <font color="purple">[ᾰ]</font> au courage terrible, IL. <i>16, 31</i>.<p><b>Étym</b>. αἰνός, ἀρετή.`

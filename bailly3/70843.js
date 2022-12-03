@@ -1,1 +1,0 @@
-lar[70843]=`<b>ὀκτα·μηνιαῖος, α, ον</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> qui se fait <i>ou</i> arrive le 8<sup>e</sup> mois, A. APHR. <i>Probl. 2, 47</i>.<br><b>      2</b> qui dure huit mois, de huit mois, DS. <i>14, 38</i> ; PLUT. <i>M. 908a</i>.<p><b>Étym</b>. ὀ. μήν.`

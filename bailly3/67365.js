@@ -1,1 +1,0 @@
-lar[67365]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font><br><b>      1</b> <i>c</i>. μυρτίδανον 2, GAL.<br><b>      2</b> <i>c</i>. μυρτίνη, NIC. <i>Th. 513</i>.`

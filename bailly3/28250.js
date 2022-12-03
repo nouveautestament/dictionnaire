@@ -1,1 +1,0 @@
-lar[28250]=`<b>δυσ·αφής, ής, ές</b> <font color="purple">[ῠᾰ]</font> désagréable au toucher, NYSS. <i>1, 227</i>.<p><b>Étym</b>. δ. ἅπτω¹.`

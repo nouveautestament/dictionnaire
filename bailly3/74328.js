@@ -1,1 +1,0 @@
-lar[74328]=`<b>παιδο·φίλης, ου (ὁ)</b> qui aime les enfants, THGN. <i>1357</i> ; TÉLÉCL. (<i>Com. fr. 2, 378).</i><p><b>Étym</b>. παιδοφιλέω.`

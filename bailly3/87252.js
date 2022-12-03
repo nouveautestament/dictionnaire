@@ -1,1 +1,0 @@
-lar[87252]=`<b>πρωτό·στακτος, ος, ον</b>, qui distille le premier <i>ou</i> pour la première fois ; πρ. κονία, P. ÉG. <i>7 ; ou subst</i>. τὸ πρωτόστακτον, A. TR. <i>2, 162,</i> première lessive.<p><b>Étym</b>. πρ. <i>vb. de</i> στάζω.`

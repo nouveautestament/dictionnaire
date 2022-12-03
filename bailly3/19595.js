@@ -1,1 +1,0 @@
-lar[19595]=`<b>ῆς (ἡ)</b> sorte de plante, DIOSC. <i>4, 2</i>.`

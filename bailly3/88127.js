@@ -1,1 +1,0 @@
-lar[88127]=`<b>ου (τὸ)</b> couvercle, SYN. <i>73a et 94d</i>.<p><b>Étym</b>. πωμάζω.`

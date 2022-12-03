@@ -1,1 +1,0 @@
-lar[34577]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> réflexion, pensée, THC. <i>5, 16</i> ; JAMBL. <i>V. Pyth. 20</i>.<p><b>Étym</b>. ἔνθυμος.`

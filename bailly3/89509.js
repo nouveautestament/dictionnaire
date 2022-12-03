@@ -1,1 +1,0 @@
-lar[89509]=`<b>ου (ὁ)</b> Satibarzanès, <i>Perse,</i> PLUT. <i>Artax. 12</i>.<p>➳ <i>Voc</i>. -η, PLUT. <i>Reg. apophth. Artax. 4</i>.`

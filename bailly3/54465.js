@@ -1,1 +1,0 @@
-lar[54465]=`<b>Κεδρό·πολις, ιος (ἡ)</b> Kédropolis, <i>propr</i>. la ville aux cèdres, <i>en Thrace,</i> ARSTT. <i>H.A. 9, 36</i>.<p><b>Étym</b>. κέδρος, πόλις.`

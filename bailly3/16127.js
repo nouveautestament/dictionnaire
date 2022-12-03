@@ -1,1 +1,0 @@
-lar[16127]=`<b>ἄ·στακτος, ος, ον</b>, qui coule abondamment (<i>litt</i>. non goutte à goutte) EUR. <i>I.T. 1242</i>.<p><b>Étym</b>. ἀ, στάζω.`

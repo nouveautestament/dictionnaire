@@ -1,1 +1,0 @@
-lar[2291]=`<b>ῶν (οἱ)</b> les Ægles, <i>pple Mède,</i> HDT. <i>3, 92</i>.`

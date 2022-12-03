@@ -1,1 +1,0 @@
-lar[81533]=`<b>ης (ἡ)</b> Polémousa, <i>propr</i>. « la Belliqueuse », <i>Amazone,</i> Q. SM. <i>1, 42, 531</i>.<p><b>Étym</b>. <i>part. prés. fém. de</i> πολεμόω.`

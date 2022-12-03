@@ -1,1 +1,0 @@
-lar[20936]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> rugissement, A. PL. <i>94</i> ; OPP. <i>C. 3, 36</i>.<br><b>      2</b> <i>en parl. de pers</i>. cri de fureur, hurlement de douleur, PLUT. <i>Mar. 20 ; Alex. 51</i>.<br><b>      3</b> <i>p. ext</i>. bêlement, ESCHL. <i>fr. 155</i>.<p><b>Étym</b>. βρυχάομαι.`

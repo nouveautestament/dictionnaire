@@ -1,1 +1,0 @@
-lar[63103]=`<b>(ἡ)</b> <i>dat</i>. <b>μάστι</b> <font color="purple">[ῑ]</font> IL. <i>23, 500 ; acc</i>. <b>μάστιν</b> <font color="purple">[ῐ]</font>, OD. <i>15, 182, ion. c</i>. μάστιξ.`

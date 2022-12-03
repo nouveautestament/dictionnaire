@@ -1,1 +1,0 @@
-lar[9879]=`<b>ἀντί·ζυγος, ος, ον</b> <font color="purple">[ῠ]</font> qui fait contrepoids <i>ou</i> pendant, correspondant, ARSTT. <i>P.A. 3, 4, 15</i> ; PLUT. <i>M. 723c</i>.<p><b>Étym</b>. ἀ. ζυγός.`

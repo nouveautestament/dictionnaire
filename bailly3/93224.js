@@ -1,1 +1,0 @@
-lar[93224]=`<b>οῦ (ὁ)</b> compagnon d’exercice, XÉN. <i>Lac. 9, 4</i> ; PLAT. <i>Soph. 218b, Leg. 830b, etc</i>.<p><b>Étym</b>. συγγυμνάζω.`

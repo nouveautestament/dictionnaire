@@ -1,1 +1,0 @@
-lar[106044]=`<b>*φιλο·προσηνῶς</b>, <i>seul. cp</i>. -ηνέστατα, <i>adv</i>., avec condescendance, avec douceur, CIC. <i>Att. 5, 9</i>.<p><b>Étym</b>. φ. προσηνής.`

@@ -1,1 +1,0 @@
-lar[58375]=`<font color="purple">[ᾰ]</font> <i>adv</i>., tête baissée, <i>d’où</i> avec le corps incliné, en se baissant, AR. <i>Eq. 365, Th. 489</i>.<p><b>Étym</b>. κύπτω.`

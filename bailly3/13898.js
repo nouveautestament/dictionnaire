@@ -1,1 +1,0 @@
-lar[13898]=`<i>adv</i>., sans dessein de, <i>gén.,</i> PLAT. <i>Leg. 866e, etc</i>.`

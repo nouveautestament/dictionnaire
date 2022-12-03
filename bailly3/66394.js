@@ -1,1 +1,0 @@
-lar[66394]=`<b>ης (ἡ)</b> <i>c</i>. μαλάχη, EPICH. <i>et</i> ANTIPH. (ATH. <i>58d</i>).`

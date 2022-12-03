@@ -1,1 +1,0 @@
-lar[58115]=`<b>ατος (τὸ)</b> eau jaillissante, A. PL. <i>12</i>.<p><b>Étym</b>. κρουνίζω.`

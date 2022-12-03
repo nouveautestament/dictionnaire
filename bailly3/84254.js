@@ -1,1 +1,0 @@
-lar[84254]=`<b>εως (ἡ)</b> agression volontaire, DH. <i>3, 4, etc</i>.<p><b>Étym</b>. προεπιχειρέω.`

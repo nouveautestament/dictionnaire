@@ -1,1 +1,0 @@
-lar[77167]=`<b>παρ·υπνόω-ῶ</b>, dormir auprès de, <i>dat</i>. Q. SM. <i>10, 128</i>.`

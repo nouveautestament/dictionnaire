@@ -1,1 +1,0 @@
-lar[14546]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> la maladie des articulations, la goutte, HPC. <i>524, 20</i>.<p><b>Étym</b>. ἄρθρον.`

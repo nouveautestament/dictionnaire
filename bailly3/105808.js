@@ -1,1 +1,0 @@
-lar[105808]=`<b>φιλ·οικτίρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> miséricordieux, EUR. <i>I.T. 345</i> ; PLAT. <i>Menex. 244e ;</i> τὸ φιλοίκτιρμον, PLUT. <i>M. 959f</i>, la compassion, la pitié.<p><b>Étym</b>. φ. οἶκτος.`

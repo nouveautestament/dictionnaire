@@ -1,1 +1,0 @@
-lar[86246]=`<b>προσ·οχυρόω-ῶ</b> <font color="purple">[ῠ]</font> fortifier en outre, SPT. <i>1Macc. 13, 48 et 52 ; 3Reg. 16, 32, etc</i>.`

@@ -1,1 +1,0 @@
-lar[59771]=`<b>ης (ἡ)</b> <font color="purple">[λᾱ]</font> Lanassa, <i>f</i>. PLUT. <i>Pyrrh. 10</i>.<p><b>Étym</b>. λαός, ἄνασσα.`

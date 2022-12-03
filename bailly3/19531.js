@@ -1,1 +1,0 @@
-lar[19531]=`<b>άδος (ἡ)</b> sorte d’anchois, COM. (ATH. <i>287, etc.). Cf</i>. μεμβράς.`

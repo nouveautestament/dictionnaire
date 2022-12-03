@@ -1,1 +1,0 @@
-lar[19404]=`<b>ας (ἡ)</b> <i>mot de Messapie, c</i>. οἰκία, EM.`

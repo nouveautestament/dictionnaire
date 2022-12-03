@@ -1,1 +1,0 @@
-lar[70228]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Otho, ōnis, <i>n. d’h. rom</i>. PLUT. <i>Cic. 13, Oth. 2, etc</i>.`

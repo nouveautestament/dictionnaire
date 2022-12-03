@@ -1,1 +1,0 @@
-lar[12058]=`<i>adv.</i> : ἀ. ἔχειν, PLAT. <i>Gorg. 493c, ou</i> διακεῖσθαι, XÉN. <i>Cyr. 4, 1, 14, etc</i>. être insatiable : ἀ. ἔχειν πρός τι, ISOCR. <i>343d, 412c ; ou</i> ἀ. διακεῖσθαι πρός τι, ISOCR. <i>109d, ou</i> περί τι, ISOCR. <i>Antid. § 311,</i> être insatiable de qqe ch.`

@@ -1,1 +1,0 @@
-lar[16356]=`<b>ου (ὁ)</b> <font color="purple">[ᾰλ]</font> Astyalos, <i>Troyen,</i> IL. <i>6, 29</i>.`

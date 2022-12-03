@@ -1,1 +1,0 @@
-lar[6426]=`<b>ἀμφι·φῶν, ῶντος (ὁ)</b> gâteau qu’on portait entouré de flambeaux au temple d’Artémis de Munychie, PHILÉM. (ATH. <i>645a</i>).<p><b>Étym</b>. <i>propr. part. prés. de</i> ἀμφιφάω.`

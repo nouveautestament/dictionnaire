@@ -1,1 +1,0 @@
-lar[56413]=`<b>Κοίλη Συρία (ἡ)</b> la Cœlé-Syrie (<i>propr</i>. la Syrie enfoncée) <i>entre le Liban et l’Antiliban,</i> POL. <i>1, 3, etc.</i> ; PLUT. <i>Ant. 36, 54</i>.`

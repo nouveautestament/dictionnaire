@@ -1,1 +1,0 @@
-lar[99697]=`<i>seul. poét</i>. <b>τοσσάτιος, α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. τόσος :<br><b>      1</b> aussi grand, aussi fort, ANTH. <i>9, 425, 652, 697</i> ; A. PL. <i>344 ; adv</i>. τοσσάτιον, DP. <i>363,</i> aussi grandement.<br><b>      2</b> <i>avec idée de temps,</i> aussi long, A.RH. <i>4, 962 ; au plur</i>. aussi nombreux, ANTH. <i>7, 56, etc</i>.`

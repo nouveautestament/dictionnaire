@@ -1,1 +1,0 @@
-lar[98003]=`<b>*τεῖρος (τὸ)</b> <i>seul. plur. nom. et acc</i>. τείρεα, IL. <i>18, 485 ; dat</i>. τείρεσιν, HH. <i>7, 7</i> ; ARAT. <i>692</i> ; A.RH. <i>3, 1362,</i> signes célestes, constellations.<p><b>Étym</b>. <i>cf</i>. τέρας.`

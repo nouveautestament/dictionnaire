@@ -1,1 +1,0 @@
-lar[46575]=`έου (ὁ) Thémistéas, <i>devin lacédémonien,</i> PLUT. <i>Apophth. lac. v°</i> Θεμιστέας.`

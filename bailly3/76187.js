@@ -1,1 +1,0 @@
-lar[76187]=`<i>adv.</i> :<br><b>      1</b> avec un accent faux, EM. <i>191, 34</i>.<br><b>      2</b> avec une épithète, TH. <i>H.P. 3, 12, 3</i>.`

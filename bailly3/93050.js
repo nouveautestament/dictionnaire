@@ -1,1 +1,0 @@
-lar[93050]=`<b>εως (ἡ)</b> action d’étendre, de joncher, de couvrir, ATH. <i>48d ; particul</i>. pavage d’une rue, d’une route, DH. <i>3, 67</i> ; JOS. <i>B.J. 7, 8, 3</i>.<p><b>Étym</b>. στρώννυμι.`

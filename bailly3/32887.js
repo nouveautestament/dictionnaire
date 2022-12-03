@@ -1,1 +1,0 @@
-lar[32887]=`<b>ατος (τὸ) :<br>      1</b> ulcère, HPC. <i>Epid. 3, 1085</i>.<br><b>      2</b> partie ulcérée, TH. <i>H.P. 9, 2, 1</i>.<p><b>Étym</b>. ἑλκόω.`

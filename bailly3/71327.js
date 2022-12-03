@@ -1,1 +1,0 @@
-lar[71327]=`<b>άδος (ἡ)</b> totalité : καθ' ὁμάδα, GEOP. <i>10, 2, 3,</i> en masse, en troupe, <i>p. opp. à</i> κατ' ἄνδρα.<p><b>Étym</b>. ὁμός.`

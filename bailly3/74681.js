@@ -1,1 +1,0 @@
-lar[74681]=`<b>παμ·βασιλεία, ας (ἡ)</b> <font color="purple">[βᾰῐ]</font> souveraineté absolue, ARSTT. <i>Pol. 3, 15, 1, etc</i>.<p><b>Étym</b>. πᾶν, βασιλεύω.`

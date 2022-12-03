@@ -1,1 +1,0 @@
-lar[12307]=`<b>ἀπο·διορίζω</b>, délimiter, <i>d’où</i> séparer, diviser, ARSTT. <i>Pol. 4, 4</i>.`

@@ -1,1 +1,0 @@
-lar[93432]=`<b>συγ·κερκίζω</b>, tisser avec, <i>dat</i>. PLAT. <i>Pol. 310e</i>.`

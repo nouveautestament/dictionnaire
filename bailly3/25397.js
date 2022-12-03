@@ -1,1 +1,0 @@
-lar[25397]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> suppuration, amas de pus, HPC. <i>39, 6</i>.<p><b>Étym</b>. διαπυέω.`

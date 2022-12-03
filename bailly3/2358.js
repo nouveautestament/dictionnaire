@@ -1,1 +1,0 @@
-lar[2358]=`<b>ος, ον</b>, honteux, confus, PTOL. <i>Tetr. 206</i>.<p><b>Étym</b>. αἰδέομαι.`

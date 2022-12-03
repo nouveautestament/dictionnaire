@@ -1,1 +1,0 @@
-lar[19522]=`<b>εως (ἡ)</b> amélioration, PLUT. <i>M. 702b ;</i> PHIL. SEXT.<p><b>Étym</b>. βελτιόω.`

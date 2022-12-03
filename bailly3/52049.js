@@ -1,1 +1,0 @@
-lar[52049]=`<b>ου (ἡ)</b> Kasos (<i>auj</i>. Kásos) <i>une des Cyclades,</i> IL. <i>2, 676</i>.`

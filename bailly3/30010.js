@@ -1,1 +1,0 @@
-lar[30010]=`<i>vb. de</i> ἔδω, PLAT. <i>Crit. 47b ; Prot. 314a</i>.`

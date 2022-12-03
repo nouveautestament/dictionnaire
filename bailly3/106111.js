@@ -1,1 +1,0 @@
-lar[106111]=`<b>φιλο·στρατιώτης, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui aime le soldat, XÉN. <i>An. 7, 6, 4 et 39</i> ; PLUT. <i>Phil. 3 ; joint à</i> δημοτικός, PLUT. <i>Pyrrh. 11 ; à</i> φιλοπολίτης, D. CHR. <i>1, 53</i>.`

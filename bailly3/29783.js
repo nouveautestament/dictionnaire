@@ -1,1 +1,0 @@
-lar[29783]=`<b>ἐγ·κυέομαι-οῦμαι</b>, être conçu dans le sein de la mère ; τὸ ἐγκυούμενον, THÉON <i>Prog. 69, 10,</i> fœtus.<p><b>Étym</b>. ἐν, κ.`

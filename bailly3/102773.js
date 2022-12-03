@@ -1,1 +1,0 @@
-lar[102773]=`<b>ὑπερ·ποθέω-ῶ</b>, désirer outre mesure, passionnément, ARSTD. <i>t. 1, 36</i>.`

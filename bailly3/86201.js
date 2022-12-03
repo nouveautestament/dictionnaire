@@ -1,1 +1,0 @@
-lar[86201]=`<b>προσ·ομαρτέω-ῶ</b>, marcher près de, accompagner, <i>dat</i>. THGN. <i>609</i>.`

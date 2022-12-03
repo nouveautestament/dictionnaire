@@ -1,1 +1,0 @@
-lar[76276]=`<b>παρα·συνάπτω</b> <font color="purple">[ῠ]</font> lier <i>ou</i> réunir au moyen d’une particule, établir un rapport de dépendance, DL. <i>7, 71</i> ; DYSC. <i>Synt. 8, etc</i>.`

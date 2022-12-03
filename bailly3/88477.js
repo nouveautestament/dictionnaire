@@ -1,1 +1,0 @@
-lar[88477]=`<b>ῥησι·κοπέω-ῶ</b> <font color="purple">[ῐ]</font> haranguer le peuple, POL. <i>Exc. p. 396</i>.<p><b>Étym</b>. ῥῆσις, κόπτω.`

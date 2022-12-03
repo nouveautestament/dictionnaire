@@ -1,1 +1,0 @@
-lar[12728]=`<b>εως (ἡ) :<br>      1</b> action de jouir de, THC. <i>2, 38 ; d’où</i> jouissance qu’on retire de qqe ch. ; <i>particul</i>. jouissance matérielle, plaisir des sens, XÉN. <i>Mem. 2, 1, 33, etc.</i> ; PLAT. <i>Tim. 83a, etc.</i> ; ARSTT. <i>H.A. 8, 8, etc.</i><br><b>      2</b> profit, HPC. <i>12, 26</i>.<p><b>Étym</b>. ἀπολαύω.`

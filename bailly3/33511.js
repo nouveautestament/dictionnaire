@@ -1,1 +1,0 @@
-lar[33511]=`<b>ῆς (ἡ) :<br>   I</b> <i>au propre</i> :<br><b>      1</b> action de tresser, STR. <i>828</i> ; NT. <i>1Petr. 3, 3</i>.<br><b>      2</b> tresse, CLÉM. <i>233</i>.<br><b>   II</b> <i>fig</i>. action d’en venir aux mains, POL. <i>18, 1, 11</i> ; PLUT. <i>M. 916d</i>.<p><b>Étym</b>. ἐμπλέκω.`

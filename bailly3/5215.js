@@ -1,1 +1,0 @@
-lar[5215]=`<b>ου (τὸ)</b> <font color="purple">[ᾰμ]</font> petit chariot, ARSTT. <i>Mot. an. 7, 7</i>.<p><b>Étym</b>. ἅμαξα.`

@@ -1,1 +1,0 @@
-lar[101613]=`<b>ωπος (ὁ) :<br>      1</b> hydropisie, HPC. <i>Aph. 1248, 1249</i>.<br><b>      2</b> amas d’eau qui s’écoule avant la sortie du fœtus, ARSTT. <i>H.A. 7, 9, 4</i>.<p><b>Étym</b>. ὕδωρ, -ωψ ; <i>cf</i>. αἱμάλωψ, θυμάλωψ, <i>etc</i>.`

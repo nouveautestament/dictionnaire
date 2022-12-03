@@ -1,1 +1,0 @@
-lar[11431]=`<b>ἀπ·ασπάζομαι</b> <font color="darkgreen">(<i>impf</i>. ἀπησπαζόμην)</font> embrasser en s’éloignant, prendre congé de, <i>acc</i>. HIM. <i>194</i>.`

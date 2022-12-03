@@ -1,1 +1,0 @@
-lar[10286]=`<b>ἀντι·πλήσσω</b>, frapper à son tour, ARSTT. <i>Plant. 2, 4, 10, etc</i>.`

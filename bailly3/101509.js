@@ -1,1 +1,0 @@
-lar[101509]=`<b>ὑδρ·αύλης, ου (ὁ)</b> joueur d’orgue hydraulique, ANON. MUS. <i>35, 2</i>.<p><b>Étym</b>. ὕδωρ, αὐλέω.`

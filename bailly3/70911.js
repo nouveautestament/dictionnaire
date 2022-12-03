@@ -1,1 +1,0 @@
-lar[70911]=`<b>ὀλβιό·πλουτος, ος, ον</b>, heureux de ses richesses, PHILOX. <i>fr. 3, 23 Bgk</i>.<p><b>Étym</b>. ὄ. πλοῦτος.`

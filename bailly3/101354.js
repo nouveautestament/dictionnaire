@@ -1,1 +1,0 @@
-lar[101354]=`<b>ας (ἡ)</b> <font color="purple">[ᾱ]</font> <i>forme postér. c</i>. ὑγίεια <i>et blâmée par les Atticistes,</i> POL. <i>34, 14, 12</i>.<p>➳ <i>Ion</i>. ὑγείη, PROCL. <i>H. Sol. 22</i> ; ANTH. <i>App. 153</i>.<p><b>Étym</b>. <i>cf</i>. ὑγίεια.`

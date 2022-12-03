@@ -1,1 +1,0 @@
-lar[45187]=`<b>ων (τὰ)</b> fêtes du soleil, <i>à Rhodes,</i> JUL. <i>Or. 4, 156e ;</i> ATH. <i>561e ;</i> ARSTD. <i>t. 1, 547</i>.<p>➳ <i>Dor</i>. Ἅλια <font color="purple">[ᾱλ]</font> ATH. <i>561e</i>.<p><b>Étym</b>. ἥλιος.`

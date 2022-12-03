@@ -1,1 +1,0 @@
-lar[56752]=`<b>οῦ (τὸ)</b> colchique, <i>plante vénéneuse,</i> DIOSC. <i>4, 84</i>.<p><b>Étym</b>. <i>neutre de</i> Κολχικός.`

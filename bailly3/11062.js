@@ -1,1 +1,0 @@
-lar[11062]=`<b>ἀοσσέω-ῶ</b> (<i>inf. ao</i>. ἀοσσῆσαι) venir au secours de, <i>dat</i>. MOSCH. <i>4, 110</i>.`

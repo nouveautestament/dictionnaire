@@ -1,1 +1,0 @@
-lar[40552]=`<b>ορος (ὁ)</b> qui fait, qui agit, ANTIM. <i>5 Bgk</i>.<p><b>Étym</b>. *ἔργω, <i>v</i>. ἔρδω.`

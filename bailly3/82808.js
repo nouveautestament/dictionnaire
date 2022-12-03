@@ -1,1 +1,0 @@
-lar[82808]=`<b>ή, όν</b>, de prostituée, ANTH. <i>12, 7</i> ; πορνικὸν τέλος, ESCHN. <i>16, 44,</i> impôt sur la prostitution.<p><b>Étym</b>. πόρνη.`

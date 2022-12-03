@@ -1,1 +1,0 @@
-lar[87339]=`<b>πτερο·φόρος, ος, ον</b>, qui porte des ailes, ailé, ESCHL. <i>Ag. 1147</i> ; EUR. <i>Or. 317</i> ; AR. <i>Av. 1757 ; fig. en parl. de la foudre,</i> AR. <i>Av. 1714</i> ; ὁ πτ. PLUT. <i>Oth. 4,</i> courrier impérial <i>chez les Romains</i>.<p><b>Étym</b>. πτ. φέρω.`

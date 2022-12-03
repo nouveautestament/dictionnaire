@@ -1,1 +1,0 @@
-lar[24360]=`<b>δηξί·θυμος, ος, ον</b> <font color="purple">[ῐῡ]</font><br><b>      1</b> qui ronge (<i>litt</i>. qui mord) le cœur, <i>en parl. de l’amour,</i> ESCHL. <i>Ag. 744</i>.<br><b>      2</b> <i>au propre, comiq</i>. qui dévore l’estomac, <i>en parl. de saumure,</i> SOPATR. (ATH. <i>101b</i>).<p><b>Étym</b>. δάκνω, θυμός.`

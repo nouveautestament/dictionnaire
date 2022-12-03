@@ -1,1 +1,0 @@
-lar[102476]=`<b>ὑπερ·ευτυχία, ας (ἡ)</b> <font color="purple">[τῠ]</font> bonheur excessif <i>ou</i> extrême, ANTH. <i>5, 47</i>.`

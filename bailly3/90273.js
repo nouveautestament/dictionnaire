@@ -1,1 +1,0 @@
-lar[90273]=`<b>ου (ὁ)</b> <i>sorte de pierre inconnue,</i> PLUT. <i>M. 1165a</i>.`

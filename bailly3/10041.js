@@ -1,1 +1,0 @@
-lar[10041]=`<b>ας (ἡ) :<br>      1</b> parole en réponse, réponse, réplique, THC. <i>4, 59</i>.<br><b>      2</b> <i>particul</i>. contradiction, contestation, HDT. <i>8, 77</i> ; THC. <i>1, 31</i> ; XÉN. <i>Hell. 6, 3, 20 ; joint à</i> λοιδορία, DÉM. <i>1018, 8, etc</i>.<p><b>Étym</b>. ἀντίλογος.`

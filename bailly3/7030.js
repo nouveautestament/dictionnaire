@@ -1,1 +1,0 @@
-lar[7030]=`<b>α, ον</b> <font color="purple">[ᾰν]</font><br><b>      1</b> du roi, royal, OD. <i>15, 397</i>.<br><b>      2</b> <i>subst</i>. ἡ ἀνακτόριος, <i>autre n. de la plante</i> ἀρτεμισία, DIOSC. <i>3, 127</i>.<p><b>Étym</b>. ἀνάκτωρ.`

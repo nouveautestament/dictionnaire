@@ -1,1 +1,0 @@
-lar[91503]=`<b>ου (τὸ)</b> <font color="purple">[μῑ]</font> petit bistouri, petit scalpel, PLUT. <i>M. 60a ;</i> LUC. <i>Gall. 26</i>.<p><b>Étym</b>. <i>dim. de</i> σμίλη.`

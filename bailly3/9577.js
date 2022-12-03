@@ -1,1 +1,0 @@
-lar[9577]=`<b>εως (ἡ)</b> <font color="purple">[τῐ]</font> expiation, PHIL. <i>2, 510</i>.<p><b>Étym</b>. ἀντεκτίνω.`

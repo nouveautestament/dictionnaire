@@ -1,1 +1,0 @@
-lar[38847]=`<b>ἐπί·πυρρος, ος, ον</b> qui tire sur le roux, ARSTT. <i>Physiogn. 13, 5</i> ; TH. <i>H.P. 4, 10, 4</i>.`

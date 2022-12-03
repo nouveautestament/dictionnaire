@@ -1,1 +1,0 @@
-lar[78387]=`<b>περι·αναγκάζω</b> <font color="purple">[ᾰν]</font> forcer de marcher autour, HPC. <i>Art. 827</i>.`

@@ -1,1 +1,0 @@
-lar[102957]=`<b>ατος (τὸ)</b> service, bon office, assistance, SOPH. <i>El. 1358</i> ; PLAT. <i>1 Alc. 106b, etc</i>.<p><b>Étym</b>. ὑπηρετέω.`

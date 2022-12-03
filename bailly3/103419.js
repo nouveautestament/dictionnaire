@@ -1,1 +1,0 @@
-lar[103419]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. ὑποκριτής HERMIAS (ATH. <i>563e</i>).`

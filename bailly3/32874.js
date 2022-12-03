@@ -1,1 +1,0 @@
-lar[32874]=`<b>ου (τὸ)</b> petite blessure, petit ulcère, HPC. <i>Art. 829</i> ; AR. <i>Eq. 907</i>.<p><b>Étym</b>. ἕλκος.`

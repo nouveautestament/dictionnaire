@@ -1,1 +1,0 @@
-lar[50474]=`<b>οῦ (ὁ)</b> <font color="purple">[κᾰ]</font> humidité, AÉT. <i>p. 93, 34</i>.<p><b>Étym</b>. καθυγραίνω.`

@@ -1,1 +1,0 @@
-lar[88547]=`<i>adv</i>., depuis la racine, NIC. <i>Al. 257, Th. 307</i> ; LUC. <i>Tyr. 13</i>.<p><b>Étym</b>. ῥίζα, -θεν.`

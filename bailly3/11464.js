@@ -1,1 +1,0 @@
-lar[11464]=`<b>οῦ (ὁ)</b> rayonnement, éclat d’une lumière, PLUT. <i>M. 83d, 934d</i>.<p><b>Étym</b>. ἀπαυγάζω.`

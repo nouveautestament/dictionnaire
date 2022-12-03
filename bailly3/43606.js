@@ -1,1 +1,0 @@
-lar[43606]=`<b>εὔ·τομος, ος, ον</b>, bien coupé, bien distribué, <i>en parl. d’une maison, d’une ville,</i> ARSTT. <i>Pol. 7, 11, 6</i>.<p><b>Étym</b>. εὖ, τέμνω.`

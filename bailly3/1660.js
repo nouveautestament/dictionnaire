@@ -1,1 +1,0 @@
-lar[1660]=`<b>ἀει·θεήρ (ὁ)</b> qui court <i>ou</i> circule sans cesse, <i>mot inventé par</i> PLAT. <i>Crat. 410b, pour expliquer</i> αἰθήρ.<p><b>Étym</b>. ἀ. θέω.`

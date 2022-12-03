@@ -1,1 +1,0 @@
-lar[84909]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec l’accent aigu sur l’antépénultième, GRAMM.`

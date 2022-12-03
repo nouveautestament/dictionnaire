@@ -1,1 +1,0 @@
-lar[53780]=`<b>κατα·ψεκάζω</b>, arroser goutte à goutte, ESCHL. <i>Ag. 561</i> ; PLUT. <i>Alex. 35</i>.`

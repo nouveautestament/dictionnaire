@@ -1,1 +1,0 @@
-lar[7939]=`<b>ἀνα·χωνεύω</b>, refondre, STR. <i>399</i> ; CHRYS. <i>2, 270, etc</i>.`

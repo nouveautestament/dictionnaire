@@ -1,1 +1,0 @@
-lar[19896]=`<b>βλαψί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> <i>pass</i>. dont la raison est atteinte, insensé, ESCHL. <i>Sept. 726</i>.<br><b>      2</b> <i>act</i>. qui trouble la raison, EUPH. <i>fr. 8</i> ; TRIPHIOD. <i>411, etc</i>.<p><b>Étym</b>. βλάπτω, φρήν.`

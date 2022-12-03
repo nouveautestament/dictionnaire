@@ -1,1 +1,0 @@
-lar[93928]=`<b>εως (ἡ)</b> participation en commun, ARSTT. <i>Eud. 7, 12, 20</i>.<p><b>Étym</b>. σύν, μετέχω.`

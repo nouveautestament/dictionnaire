@@ -1,1 +1,0 @@
-lar[63305]=`<b>ων (τὰ)</b> <font color="purple">[γᾰ]</font> <i>s.-e</i>. ἱερά, fête des Grands pains en l’honneur de Dèmèter, <i>à Dèlos,</i> SEMUS (ATH. <i>109b</i>).<p><b>Étym</b>. μεγάλαρτος.`

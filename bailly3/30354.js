@@ -1,1 +1,0 @@
-lar[30354]=`<b>εἰκοσά·μηνος, ος, ον</b> <font color="purple">[ᾰ]</font> de vingt mois, ANTH. <i>7, 662</i>.<p><b>Étym</b>. εἴ. μήν.`

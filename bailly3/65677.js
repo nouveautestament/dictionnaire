@@ -1,1 +1,0 @@
-lar[65677]=`<b>(ἡ)</b> Mikka, <i>f</i>. PLUT. <i>M. 250</i>.<p><b>Étym</b>. <i>fém. de</i> Μίκος.`

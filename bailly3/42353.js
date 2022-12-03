@@ -1,1 +1,0 @@
-lar[42353]=`<b>εὐ·καής, ής, ές</b> <font color="purple">[ᾰ]</font> qui brûle facilement, DIOSC. <i>4, 155</i>.<p><b>Étym</b>. εὖ, καίω.`

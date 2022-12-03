@@ -1,1 +1,0 @@
-lar[64384]=`<b>ας</b>, <i>adj. f</i>. qui se préoccupe <i>ou</i> s’inquiète de, <i>gén</i>. CHRYS. <i>6, 550</i>.<p><b>Étym</b>. μεριμνάω.`

@@ -1,1 +1,0 @@
-lar[28320]=`<b>δυσ·δοκίμαστος, ος, ον</b> <font color="purple">[ῐ]</font> difficile à éprouver, DIOSC. <i>3, 96</i>.<p><b>Étym</b>. δ. δοκιμάζω.`

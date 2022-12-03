@@ -1,1 +1,0 @@
-lar[100168]=`<b>ή, όν</b> <font color="purple">[ῐγ]</font> triangulaire, PTOL. <i>Tetr. p. 38a</i>.<p><b>Étym</b>. τρίγωνος.`

@@ -1,1 +1,0 @@
-lar[6265]=`<b>ἀμφι·μήτριος, ος, ον</b>, qui entoure <i>ou</i> concerne la matrice, HPC. <i>1201, 1 (vulg</i>. ἀμφίδμητον).<p><b>Étym</b>. ἀ. μήτρα.`

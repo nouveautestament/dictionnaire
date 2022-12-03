@@ -1,1 +1,0 @@
-lar[5736]=`<b>ου (ὁ)</b> = <i>lat</i>. Amulius, <i>n. d’h. rom</i>. ANTH. <i>3, 19</i>.`

@@ -1,1 +1,0 @@
-lar[25586]=`<b>δια·σπλεκόω-ῶ</b> (<i>part. pf. pass</i>. διεσπλεκωμένη) épuiser de débauche, AR. <i>Pl. 1082</i>.`

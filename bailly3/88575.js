@@ -1,1 +1,0 @@
-lar[88575]=`<b>ῥικνόομαι-οῦμαι :<br>      1</b> se contracter, se resserrer, ARSTT. <i>H.A. 5, 20, 5</i> ; OPP. <i>H. 5, 592</i>.<br><b>      2</b> danser en se courbant <i>ou</i> se tordant, SOPH. <i>fr. 297 Dind.</i> ; LUC. <i>Lex. 8</i>.<p><b>Étym</b>. ῥικνός.`

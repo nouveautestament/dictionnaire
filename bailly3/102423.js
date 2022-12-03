@@ -1,1 +1,0 @@
-lar[102423]=`<b>ὑπερ·εκπίπτω</b> <font color="darkgreen">(<i>f</i>. -εκπεσοῦμαι, <i>ao</i>. -εξέπεσον, <i>etc</i>.)</font> tomber au delà du but, <i>d’où fig</i>. dépasser le but, les limites <i>ou</i> la mesure, <i>avec le gén</i>. PLUT. <i>M. 877a ; abs</i>. LUC. <i>Herm. 67 ; avec</i> ὥστε, LUC. <i>Salt. 83</i> ; SEXT. <i>M. 6, 6</i>.`

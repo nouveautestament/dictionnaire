@@ -1,1 +1,0 @@
-lar[16615]=`<b>ἄ·σχιστος, ος, ον :<br>      1</b> non fendu, ARSTT. <i>Metaph. 6, 12, 8</i> ; non séparé, <i>en gén</i>. PLAT. <i>Tim. 6d ;</i> ARSTT. <i>H.A. 3, 12, 5, etc.</i><br><b>      2</b> indivisible, ARSTT. <i>Meteor. 4, 8, 5, etc</i>.<p><b>Étym</b>. ἀ, σχίζω.`

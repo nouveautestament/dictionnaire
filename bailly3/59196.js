@@ -1,1 +1,0 @@
-lar[59196]=`<b>υθος (ὁ, ἡ)</b> <font color="purple">[ῡθ]</font><br><b>      1</b> ἡ κ. botte de fourrage, CRAT. (<i>Com. fr. 2, 226</i>) ; THCR. <i>Idyl. 4, 18</i>.<br><b>      2</b> ὁ κ. lieu planté de roseaux, TH. <i>H.P. 4, 11, 1</i>.`

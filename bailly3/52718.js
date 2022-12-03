@@ -1,1 +1,0 @@
-lar[52718]=`<b>κατ·αλέω-ῶ</b> <font color="darkgreen">(<i>f</i>. έσω, <i>ao</i>. κατήλεσα)</font> <font color="purple">[ᾰλ]</font> moudre, HPC. <i>405, 38, etc.</i> ; HDT. <i>4, 172</i> ; STR. <i>260, etc</i>.`

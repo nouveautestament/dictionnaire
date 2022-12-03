@@ -1,1 +1,0 @@
-lar[106988]=`<b>φρυκτωρέω-ῶ :<br>      1</b> allumer des feux comme signaux, DIN. (HARP.).<br><b>      2</b> signaler au moyen de feux nocturnes, THC. <i>3, 80</i>.<p><b>Étym</b>. φρυκτωρός.`

@@ -1,1 +1,0 @@
-lar[35728]=`<i>adv</i>., avec un travail approfondi, avec soin, PLUT. <i>Alex. 1</i>.<p><b>Étym</b>. ἐξεργάζομαι.`

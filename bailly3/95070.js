@@ -1,1 +1,0 @@
-lar[95070]=`<b>συν·δεσμώτης, ου (ὁ)</b> compagnon de chaîne <i>ou</i> de captivité, THC. <i>6, 60</i> ; PLAT. <i>Rsp. 516c</i>.`

@@ -1,1 +1,0 @@
-lar[82598]=`<b>πολυ·ψήφις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> couvert de petits cailloux, ORACL. (HDT. <i>1, 55</i>) ; NAUMACH. <i>60</i>.<p>➳ <i>Poét</i>. πουλύψηφις, OPP. <i>C. 1, 292</i>.<p><b>Étym</b>. π. ψηφίς.`

@@ -1,1 +1,0 @@
-lar[53836]=`<b>κατ·ειλύω</b>, envelopper, recouvrir : ἔν τινι, A.RH. <i>3, 206,</i> dans qqe ch.`

@@ -1,1 +1,0 @@
-lar[7872]=`<b>ου</b>, <i>adj. m</i>. du dème Anaphlystos, DÉM. <i>50, 17 Baiter-Sauppe, etc., et, avec jeu de mots sur le sens de</i> ἀναφλάω, AR. <i>Ran. 427, Eccl. 979</i>.`

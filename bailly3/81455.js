@@ -1,1 +1,0 @@
-lar[81455]=`<b>ποινάω-ῶ</b>, se venger sur, <i>acc</i>.<p>➳ <i>Act. seul. prés</i>. THÉANO <i>Ep. p. 747 ; pass., seul. ao. pass. part</i>. ποιναθεῖσα <font color="purple">[νᾱ]</font> EUR. <i>Hel. 1509. Moy. seul. fut. 1 pl</i>. ποινασόμεσθα <font color="purple">[ᾱ]</font> EUR. <i>I.T. 1433</i>.<p><b>Étym</b>. ποινή.`

@@ -1,1 +1,0 @@
-lar[98290]=`<i>ou</i> <b>Τέννης (ὁ)</b> Ténès <i>ou</i> Tennès, <i>fils de Kyknos, roi de Ténédos,</i> PLUT. <i>Qu. gr. 28</i>.`

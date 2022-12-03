@@ -1,1 +1,0 @@
-lar[90729]=`<b>ή, όν</b>, desséché, <i>en parl. de pers</i>. PLAT. COM. <i>2-2, 679 Mein. ; en parl. d’une morsure,</i> NIC. <i>Th. 696</i> ; τὸ σκελετόν (<i>s.-e</i>. σῶμα) PLUT. <i>M. 736a</i>, momie ; ὁ σκελετός, ANTH. <i>11, 92, 392</i> ; PLUT. <i>Ant. 75</i> ; LUC. <i>Nec. 15,</i> squelette.<p><b>Étym</b>. σκέλλω.`

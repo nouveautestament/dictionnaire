@@ -1,1 +1,0 @@
-lar[1405]=`<b>ἀ·δικαίαρχος, ου (ὁ)</b> magistrat injuste, <i>jeu de mots sur l’historien</i> Δικαίαρχος, CIC. <i>Att. 2, 12</i>.`

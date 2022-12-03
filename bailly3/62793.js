@@ -1,1 +1,0 @@
-lar[62793]=`<b>μανιο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui rend fou, qui met en fureur, POLYEN <i>8, 43</i>.<p><b>Étym</b>. μανία, ποιέω.`

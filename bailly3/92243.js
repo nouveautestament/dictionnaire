@@ -1,1 +1,0 @@
-lar[92243]=`<b>σταχυο·πλόκαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux tresses d’épis, ORPH. <i>Lith. 240</i>.<p><b>Étym</b>. στ. πλόκαμος.`

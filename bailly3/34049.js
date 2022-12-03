@@ -1,1 +1,0 @@
-lar[34049]=`<b>ἐν·ασχημονέω-ῶ</b>, se tenir d’une manière indécente dans, <i>dat</i>. PLUT. <i>M. 336b ;</i> LUC. <i>Ic. 21 ; abs</i>. PLUT. <i>Sert. 27</i>.`

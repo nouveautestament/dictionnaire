@@ -1,1 +1,0 @@
-lar[77493]=`<b>παχύ·ρριζος, ος, ον</b> <font color="purple">[ᾰ]</font> aux racines épaisses, TH. <i>H.P. 3, 11, 4</i>.<p><b>Étym</b>. π. ῥίζα.`

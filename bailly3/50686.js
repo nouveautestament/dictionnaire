@@ -1,1 +1,0 @@
-lar[50686]=`<b>κακό·γαμβρος, ος, ον</b> <font color="purple">[κᾰ]</font> qui concerne un misérable beau-frère, EUR. <i>Rhes. 260</i>.<p><b>Étym</b>. κ. γαμβρός.`

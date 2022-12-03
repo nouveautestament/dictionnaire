@@ -1,1 +1,0 @@
-lar[44773]=`<b>ζωο·τόκος, ος, ον</b>, qui enfante des êtres vivants, vivipare, ARSTT. <i>H.A. 1, 5, 1</i> ; THCR. <i>Idyl. 25, 125</i>.<p><b>Étym</b>. ζωός, τίκτω.`

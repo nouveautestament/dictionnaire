@@ -1,1 +1,0 @@
-lar[108368]=`<b>χηνο·μεγέθης, ης, ες</b>, de la grosseur d’une oie, STR. <i>711</i>.<p><b>Étym</b>. χ. μέγεθος.`

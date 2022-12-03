@@ -1,1 +1,0 @@
-lar[20620]=`<b>βραδύ·καρπος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux fruits tardifs. TH. <i>C.P. 5, 17, 6</i>.<p><b>Étym</b>. βρ. καρπός.`

@@ -1,1 +1,0 @@
-lar[105610]=`<b>φιλ·ηλιάς, άδος</b> <font color="purple">[φῐ]</font> <i>adj. f</i>. qui aime le soleil, TÉLÉSILLA (ATH. <i>619b</i>).<p><b>Étym</b>. φ. ἥλιος.`

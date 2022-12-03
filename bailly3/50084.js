@@ -1,1 +1,0 @@
-lar[50084]=`<i>adv</i>., de la nature <i>ou</i> de la forme d’un poisson, ARSTT. <i>H.A. 4, 9, 10</i>.`

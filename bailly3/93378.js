@@ -1,1 +1,0 @@
-lar[93378]=`<b>συγ·κατατείνω</b>, tendre ensemble <i>ou</i> en même temps, HPC. <i>Art. 833h</i>.`

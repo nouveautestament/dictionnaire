@@ -1,1 +1,0 @@
-lar[7274]=`<b>ἀν·αντιφώνητος, ος, ον</b>, qui demeure sans réponse, CIC. <i>Att. 6, 1, 23</i>.<p><b>Étym</b>. ἀν-, ἀντιφωνέω.`

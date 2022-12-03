@@ -1,1 +1,0 @@
-lar[61186]=`<b>λιμνόω-ῶ</b>, convertir en étang, <i>d’où, au pass.,</i> être changé en marais, être inondé, TH. <i>C.P. 5, 14, 2</i>.<p><b>Étym</b>. λίμνη.`

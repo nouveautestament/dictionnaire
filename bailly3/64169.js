@@ -1,1 +1,0 @@
-lar[64169]=`<b>μελλό·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui est sur le point de se marier, SOPH. <i>Ant. 628</i> ; THCR. <i>Idyl. 22, 140</i>.<p><b>Étym</b>. μέλλω, γάμος.`

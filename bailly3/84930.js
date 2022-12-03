@@ -1,1 +1,0 @@
-lar[84930]=`<b>προ·περιπατέω-ῶ</b> <font color="purple">[ᾰ]</font> aller et venir <i>ou</i> se promener auparavant, GAL. <i>19, 519</i>.`

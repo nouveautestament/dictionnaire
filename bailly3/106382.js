@@ -1,1 +1,0 @@
-lar[106382]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> sot bavardage, <i>d’où</i> sottise, niaiserie, MÉN. <i>4, 213 Meineke</i> ; LUC. <i>Dem. enc. 35 ; au plur</i>. LUC. <i>Somn. 7, Pisc. 25, etc.</i><br><b>      2</b> sot bavard, MÉN. (STOB. <i>Ecl. phys. 1, 192</i>) ; SYN. <i>Ep. 3, 160c ;</i> ARSTD. <i>t. 2, 411</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

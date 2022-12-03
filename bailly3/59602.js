@@ -1,1 +1,0 @@
-lar[59602]=`<b>α, ον</b>, de citerne, ANAXIL. (ATH. <i>124f</i>) ; TH. <i>Char. 20</i>.<p><b>Étym</b>. λάκκος.`

@@ -1,1 +1,0 @@
-lar[28958]=`<font color="purple">[δῠ]</font> <i>adv</i>., avec un sommeil difficile, AGATHIN. (ORIB. <i>2, 402 B.-Dar</i>.).<p><b>Étym</b>. δυσυπνέω.`

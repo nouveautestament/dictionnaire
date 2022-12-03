@@ -1,1 +1,0 @@
-lar[55188]=`<b>κηλιδόω-ῶ</b> <font color="purple">[ῑ]</font> tacher, salir, souiller, ARSTT. <i>Insomn. 2</i> ; DC. <i>Exc. p. 61, 33 ; fig</i>. EUR. <i>H.f. 1318</i> ; ECPHANT. (STOB. <i>Fl. 48, 64</i>) ; DC. <i>72, 18</i>.<p>➳ <i>Dor</i>. καλιδόω <font color="purple">[ᾱ]</font> ECPHANT. <i>l. c</i>.<p><b>Étym</b>. κηλίς.`

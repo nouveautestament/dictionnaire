@@ -1,1 +1,0 @@
-lar[28426]=`<b>δυσ·επίκριτος, ος, ον</b> <font color="purple">[ῠρῑ]</font> difficile à décider, A. TYAN. <i>Ep. 19</i>.<p><b>Étym</b>. δ. ἐπικρίνω.`

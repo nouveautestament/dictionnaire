@@ -1,1 +1,0 @@
-lar[71594]=`<b>ὁμό·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> couché sur le même lit, HDT. <i>9, 16</i>.<p><b>Étym</b>. ὁμ. κλίνη.`

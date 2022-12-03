@@ -1,1 +1,0 @@
-lar[32295]=`<b>ου (ὁ)</b> Ekphantos, <i>h</i>. DÉM. <i>20, 59 et 61 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. ἔκφημι.`

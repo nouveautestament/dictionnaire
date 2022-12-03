@@ -1,1 +1,0 @@
-lar[76643]=`<b>παρ·εκχέω</b> <font color="darkgreen">(<i>ao</i>. παρεξέχεα, <i>ao. pass</i>. παρεξεχύθην)</font> épancher auprès, de côté <i>ou</i> au delà, SEXT. <i>M. 7, 90 ; au pass</i>. s’épancher auprès, déborder, <i>en parl. d’un fleuve,</i> STR. <i>760</i> ; DS. <i>5, 47</i>.`

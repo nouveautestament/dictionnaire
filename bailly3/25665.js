@@ -1,1 +1,0 @@
-lar[25665]=`<b>δι·ασφαλίζομαι</b> <font color="darkgreen">(<i>pf</i>. διησφάλισμαι <font color="purple">[φᾰ]</font>)</font> fortifier solidement, POL. <i>5, 69, 2</i> ; PHIL. PARADOX. <i>VII mir. 4</i>.`

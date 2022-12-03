@@ -1,1 +1,0 @@
-lar[73408]=`<b>ύος (ἡ)</b> <font color="purple">[τῡ, ῠο]</font> action de pousser, excitation, IL. <i>19, 234, 235</i>.<p><b>Étym</b>. ὀτρύνω.`

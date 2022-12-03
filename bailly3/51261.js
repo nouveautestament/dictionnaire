@@ -1,1 +1,0 @@
-lar[51261]=`<b>Καλλι·χόρη, ης (ἡ)</b> Kallikhorè, <i>nourrice de Dionysos,</i> NONN. <i>D. 14, 221</i>.<p><b>Étym</b>. <i>fém. ion. de</i> καλλίχορος.`

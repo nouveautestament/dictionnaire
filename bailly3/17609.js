@@ -1,1 +1,0 @@
-lar[17609]=`<b>αὐτονομέω-ῶ</b>, RHÉT. <i>1, 587 W. ; d’ord. moy</i>. <b>αὐτονομέομαι-οῦμαι</b>, se gouverner par ses propres lois, être indépendant, THC. <i>1, 144</i> ; DÉM. <i>41, 16</i>.<p>➳ <i>Part. ao. pass. fém</i>. αὐτονομηθεῖσα, STR. <i>545</i>.<p><b>Étym</b>. αὐτόνομος.`

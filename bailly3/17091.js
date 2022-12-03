@@ -1,1 +1,0 @@
-lar[17091]=`<b>αο (ὁ)</b> fils d’Augias, IL. <i>2, 624</i>.<p><b>Étym</b>. <i>épq. p</i>. *Αὐγειάδης, <i>patr. de</i> Αὐγείας.`

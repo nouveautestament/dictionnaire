@@ -1,1 +1,0 @@
-lar[16022]=`<font color="purple">[πᾰ]</font> <i>adv</i>., agréablement, avec joie, IL. <i>7, 118, etc.</i> ; OD. <i>4, 523</i> ; ESCHL. <i>Ag. 1555</i> ; HDT. <i>7, 152</i>.`

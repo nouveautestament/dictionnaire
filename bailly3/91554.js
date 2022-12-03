@@ -1,1 +1,0 @@
-lar[91554]=`<b>εως (ἡ)</b> allure précipitée, hâte, empressement, PLUT. <i>M. 286c, 671f</i>.<p><b>Étym</b>. σοβέω.`

@@ -1,1 +1,0 @@
-lar[84211]=`<b>προ·εξίστημι</b> (<i>seul. part. pf. intr</i>. προεξεστηκώς, υῖα, ός) être éminent, saillant, ARSTT. <i>Physiogn. 5, 7</i>.<p>➳ <i>Part. pf. dor</i>. προεξεστακώς <font color="purple">[ᾱ]</font> PYTHAG.`

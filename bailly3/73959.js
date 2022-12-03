@@ -1,1 +1,0 @@
-lar[73959]=`<b>ός, όν</b>, qui retient, qui tient, PHIL. PARADOX. <i>VII mir. 1</i>.<p><b>Étym</b>. ἔχω.`

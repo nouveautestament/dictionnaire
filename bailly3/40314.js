@@ -1,1 +1,0 @@
-lar[40314]=`<b>α, ον</b>, d’Érétrie, <i>en Eubée ; subst</i>. ἡ Ἐρετριαία, THC. <i>8, 95,</i> la contrée d’Érétrie, <i>en Eubée</i>.`

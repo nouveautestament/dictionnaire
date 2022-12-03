@@ -1,1 +1,0 @@
-lar[90412]=`<b>ωνος (ὁ)</b> <font color="purple">[ῐ]</font> Sinôn, <i>Grec devant Troie,</i> Q. SM. <i>12, 243, etc.</i> ; ARSTT. <i>Poet. 23</i>.`

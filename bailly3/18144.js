@@ -1,1 +1,0 @@
-lar[18144]=`<b>ἄ·φλογος, ος, ον</b>, sans flamme <i>ou</i> sans feu, LYC. <i>36</i>.<p><b>Étym</b>. ἀ, φλόξ.`

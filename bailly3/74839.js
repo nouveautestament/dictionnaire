@@ -1,1 +1,0 @@
-lar[74839]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. πανάκεια. A. PL. <i>273</i>.`

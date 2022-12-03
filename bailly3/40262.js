@@ -1,1 +1,0 @@
-lar[40262]=`<b>ή, όν :<br>      1</b> qui indique de l’irritation, HPC. <i>Acut. 392</i>.<br><b>      2</b> propre à exciter, à irriter, <i>gén</i>. DIPH. SIPHN. (ATH. <i>120e</i>) ; CLÉM. <i>1, 440 Migne</i>.<p><b>Étym</b>. ἐρεθίζω.`

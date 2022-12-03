@@ -1,1 +1,0 @@
-lar[35899]=`<b>ἐξ·έφηβος, ου (ὁ)</b> qui a dépassé l’âge des éphèbes, CENSOR.`

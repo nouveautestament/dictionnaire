@@ -1,1 +1,0 @@
-lar[97473]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font> <i>c</i>. ταμίας, DC.`

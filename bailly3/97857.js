@@ -1,1 +1,0 @@
-lar[97857]=`<b>ου (ἡ)</b> Taphros (<i>litt</i>. la Fosse) <i>lieu de Messénie,</i> PLUT. <i>Ser. num. vind. 2</i>.<p><b>Étym</b>. <i>v</i>. τάφρος.`

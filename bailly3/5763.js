@@ -1,1 +1,0 @@
-lar[5763]=`<i>adv</i>., sans forme, LUC.<p><b>Étym</b>. ἄμορφος.`

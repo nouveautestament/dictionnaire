@@ -1,1 +1,0 @@
-lar[56809]=`<b>(τὸ)</b> <font color="purple">[ῐ]</font> <i>tantôt indécl</i>. HDT. <i>2, 86</i> ; HPC. <i>343e, Art. 538</i> ; DIOSC. <i>1, 63</i> ; GAL. <i>11, 488, etc. ; tantôt gén</i>. κόμμεως, HPC. <i>Art. 358f ; dat</i>. κόμμει, DIOSC. <i>1, 79</i> ; GAL. <i>13, 428, ou</i> κόμμιδι, CROBYL. <i>fr. 3,</i> gomme.<p><b>Étym</b>. mot arabe.`

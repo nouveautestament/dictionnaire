@@ -1,1 +1,0 @@
-lar[76669]=`<b>παρ·εμπίπρημι</b>, enflammer par le frottement, STR. <i>709</i>.`

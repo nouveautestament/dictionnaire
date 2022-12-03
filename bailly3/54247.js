@@ -1,1 +1,0 @@
-lar[54247]=`<i>voc</i>. <b>ωρ</b>, <i>gén</i>. <b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> chef, guide, HH. <i>6, 55</i>.`

@@ -1,1 +1,0 @@
-lar[100698]=`<b>ος, ον :<br>      1</b> <i>act</i>. qui dresse des trophées, victorieux, ORPH. <i>H. 32, 4</i>.<br><b>      2</b> <i>pass</i>. à qui l’on consacre des trophées : τρ. Ζεύς, ARSTT. <i>Mund. 7, 3,</i> Zeus à qui l’on consacre des trophées ; <i>à Rome, traduct. de Jupiter Feretrius,</i> DH. <i>2, 34</i> ; PLUT. <i>M. 306 b et c</i>.<p><b>Étym</b>. τρόπαιον, ἔχω.`

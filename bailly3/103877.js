@@ -1,1 +1,0 @@
-lar[103877]=`<b>ὑπο·σταχύω</b>, A.RH. <i>1, 972 dout. moy</i>. ὑποσταχύομαι (<i>3 sg. opt. prés</i>. ὑποσταχύοιτο) <font color="purple">[ᾰ]</font> se multiplier comme des épis, OD. <i>20, 212</i>.<p><b>Étym</b>. ὑ. στάχυς.`

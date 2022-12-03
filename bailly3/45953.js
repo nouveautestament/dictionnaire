@@ -1,1 +1,0 @@
-lar[45953]=`<i>3 sg. sbj. poét. de</i> εἰμί, être.`

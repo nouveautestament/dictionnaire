@@ -1,1 +1,0 @@
-lar[96203]=`<b>συν·οργιάζω</b>, célébrer ensemble une fête religieuse, PLUT. <i>M. 944c ;</i> THÉM. <i>236c</i>.`

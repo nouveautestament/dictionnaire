@@ -1,1 +1,0 @@
-lar[5675]=`<b>άδος</b>, <i>adj. f</i>. d’Ammon, <i>càd</i>. de Libye, EUR. <i>Alc. 116</i>.<p><b>Étym</b>. Ἄμμων.`

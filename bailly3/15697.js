@@ -1,1 +1,0 @@
-lar[15697]=`<b>ἀρωματο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> marchand d’aromates, ARTÉM. <i>2, 22</i>.<p><b>Étym</b>. ἄρωμα¹, πωλέω.`

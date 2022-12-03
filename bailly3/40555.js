@@ -1,1 +1,0 @@
-lar[40555]=`<i>ou</i> <b>Ἕρκυνα (ἡ)</b> Herkynna <i>ou</i> Herkyna :<br><b>      1</b> <i>source près de l’antre de Trophônios, en Béotie,</i> PLUT. <i>Am. narr. 1</i>.<br><b>      2</b> <i>p. suite, nymphe de cette source,</i> PLUT. <i>ibid.</i><br><b>      3</b> <i>ép. de Dèmèter</i>. LYC. <i>153</i>.<p><b>Étym</b>. ἕρκος.`

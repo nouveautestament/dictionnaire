@@ -1,1 +1,0 @@
-lar[23315]=`qu’il faut marquer d’un esprit rude, ATH. <i>107f</i>.<p><b>Étym</b>. <i>vb. de</i> δασύνω.`

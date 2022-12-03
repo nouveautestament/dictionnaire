@@ -1,1 +1,0 @@
-lar[59359]=`<b>λαβρό·συτος, ος, ον</b> <font color="purple">[ῠ]</font> qui s’élance impétueusement, ESCHL. <i>Pr. 603</i>.`

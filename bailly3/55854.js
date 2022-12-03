@@ -1,1 +1,0 @@
-lar[55854]=`<b>εως (ἡ) :<br>      1</b> action de fermer, fermeture, THC. <i>2, 94 ; 7, 70</i>.<br><b>      2</b> <i>t. techn</i>. déclic, batterie (d’une machine de jet) HÉRON.<p>➳ <i>Att</i>. κλῇσις, THC. <i>l. c</i>.<p><b>Étym</b>. κλείω, κλῄω.`

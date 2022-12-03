@@ -1,1 +1,0 @@
-lar[70186]=`<b>όντος (ὁ)</b> <i>ion. c</i>. ὀδούς, dent, HDT. <i>6, 107</i>.<p><b>Étym</b>. <i>indo-europ</i>. *h₃d-(o)nt-, dent ; <i>cf. sscr</i>. dán, <i>lat</i>. dēns, <i>néerland</i>. tand ; <i>non apparenté à</i> ἔδω, R. *h₁ed-, <i>avec une autre laryngale</i>.`

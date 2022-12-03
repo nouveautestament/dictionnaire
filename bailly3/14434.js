@@ -1,1 +1,0 @@
-lar[14434]=`<i>épq. p</i>. <b>*ἄ·ρρεκτος, ος, ον</b>, non fait, non accompli, IL. <i>19, 150</i>.<p><b>Étym</b>. ἀ, ῥέζω.`

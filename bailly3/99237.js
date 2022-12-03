@@ -1,1 +1,0 @@
-lar[99237]=`<b>Τιμό·δημος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Timodèmos, <i>h</i>. DÉM. <i>953, 17, etc.</i> ; PLUT. <i>Tim. 3, etc</i>.<p>➳ <i>Dor</i>. Τιμόδαμος <font color="purple">[ᾱ]</font> PD. <i>N. 2, 14</i>.<p><b>Étym</b>. τιμή, δῆμος.`

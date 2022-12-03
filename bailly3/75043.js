@@ -1,1 +1,0 @@
-lar[75043]=`<b>πάν·θειος, α, ον</b>, commun à tous les dieux, ORPH. <i>H. 34, 7</i>.<p><b>Étym</b>. π. θεῖος.`

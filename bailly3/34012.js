@@ -1,1 +1,0 @@
-lar[34012]=`<b>ἐν·άρετος, ος, ον :<br>      1</b> vertueux, recommandable, DL. <i>7, 126</i> ; HDN <i>2, 8, 3</i>.<br><b>      2</b> vaillant, JOS. <i>B.J. 6, 1, 8</i>.<p><b>Étym</b>. ἐν, ἀρετή.`

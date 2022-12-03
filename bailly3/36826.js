@@ -1,1 +1,0 @@
-lar[36826]=`<b>ἐπ·ασπαίρω</b> (<i>part. prés</i>. -ουσα) palpiter sur, <i>dat</i>. OPP. <i>H. 5, 407</i>.`

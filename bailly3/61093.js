@@ -1,1 +1,0 @@
-lar[61093]=`<b>λιθο·φόρος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui porte des pierres, DS. <i>13, 78 et 79</i> ; CALLIX. (ATH. <i>208d</i>).<br><b>      2</b> ὁ λ. machine à lancer des pierres, POL. <i>4, 56, 3</i>.<p><b>Étym</b>. λ. φέρω.`

@@ -1,1 +1,0 @@
-lar[31160]=`<b>ἐκ·δειματόω-ῶ</b> <font color="purple">[ᾰ]</font> effrayer, PLAT. <i>Rsp. 381e</i> (<i>prés. impér</i>. -ούντων) DH. <i>Dem. c. 54</i>.<p><b>Étym</b>. <i>ao. impér. pass</i>. -ώθητι.`

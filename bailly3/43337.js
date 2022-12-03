@@ -1,1 +1,0 @@
-lar[43337]=`<b>εὐρυ·τενής, ής, ές</b> <font color="purple">[ῠ]</font> qui s’étend au large, NONN. <i>D. 21, 326</i>.<p><b>Étym</b>. εὐ. τείνω.`

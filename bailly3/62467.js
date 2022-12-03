@@ -1,1 +1,0 @@
-lar[62467]=`<b>όνος</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. Μακεδών, CALL. <i>H. 4, 167 ; en parl. d’Alexandre le Grand,</i> ANTH. <i>7, 240, 246</i>.`

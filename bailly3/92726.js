@@ -1,1 +1,0 @@
-lar[92726]=`<b>στομα·λίμνη, ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> lac <i>ou</i> étang formé par les eaux de la mer, STR. <i>184</i>.<br><b>      2</b> lac formé par un fleuve à son embouchure, STR. <i>595</i>.<p><b>Étym</b>. στ. λίμνη.`

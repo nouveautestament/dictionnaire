@@ -1,1 +1,0 @@
-lar[82021]=`<b>πολύ·κομος, ος, ον</b> <font color="purple">[ῠ]</font> à l’épaisse chevelure, DIOSC. <i>1, 6 ; 4, 165</i>.<p><b>Étym</b>. π. κόμη.`

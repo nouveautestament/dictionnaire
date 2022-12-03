@@ -1,1 +1,0 @@
-lar[15045]=`<b>α, ον</b> <font color="purple">[πᾰ]</font> d’Harpalos, DH. <i>Din. 10</i>.<p><b>Étym</b>. Ἅρπαλος.`

@@ -1,1 +1,0 @@
-lar[51872]=`<b>ιος (ὁ)</b> le Karpis, <i>fl. du nord de l’Italie, affluent de l’Ister,</i> HDT. <i>4, 49</i>.`

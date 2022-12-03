@@ -1,1 +1,0 @@
-lar[52461]=`<b>οῦ (ὁ)</b> humiliation, SYMM. <i>Ps. 43, 16</i> ; CLÉM. <i>587, etc</i>.<p><b>Étym</b>. καταισχύνω.`

@@ -1,1 +1,0 @@
-lar[22149]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Glykè, <i>f.,</i> AR. <i>Ran. 1343 ; Eccl. 43 ; etc</i>.<p><b>Étym</b>. γλυκύς.`

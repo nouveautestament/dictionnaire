@@ -1,1 +1,0 @@
-lar[62781]=`<b>ας (ἡ)</b> <font color="purple">[μᾱ]</font> Mania, <i>f</i>. AR. <i>Th. 754</i> ; XÉN. <i>Hell. 3, 1, 8</i>.<p><b>Étym</b>. <i>fém. de</i> Μάνης.`

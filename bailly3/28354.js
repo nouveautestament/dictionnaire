@@ -1,1 +1,0 @@
-lar[28354]=`<b>δυσ·εκπέρατος, ος, ον</b> <font color="purple">[ῠᾱ]</font> difficile à traverser, <i>d’où fig</i>. à subir jusqu’au bout, EUR. <i>Hipp. 678, 883</i>.<p><b>Étym</b>. δ. ἐκπεραίνω.`

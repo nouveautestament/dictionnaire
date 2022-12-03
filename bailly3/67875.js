@@ -1,1 +1,0 @@
-lar[67875]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱν]</font> action <i>ou</i> propos de jeune homme, trait d’audace, d’imprudence, PLAT. <i>Rsp. 390a ;</i> LUC. <i>Herm. 33</i>.<p><b>Étym</b>. νεανιεύομαι.`

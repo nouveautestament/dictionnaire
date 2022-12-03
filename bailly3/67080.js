@@ -1,1 +1,0 @@
-lar[67080]=`<b>ων (τὰ)</b> Mykalles, <i>lieu près de Crotone,</i> ARSTT. <i>Mir. 107</i>.`

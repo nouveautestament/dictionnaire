@@ -1,1 +1,0 @@
-lar[89086]=`<b>σαγηνο·βόλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui jette sa seine, son filet, ANTH. <i>6, 167 ; 10, 10</i>.<p><b>Étym</b>. σαγήνη, βάλλω.`

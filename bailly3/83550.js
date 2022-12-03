@@ -1,1 +1,0 @@
-lar[83550]=`<b>προ·ανακινέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1 <i>tr.</i></b> mettre auparavant en mouvement, PLUT. <i>Cato ma. 26 ; fig</i>. PLUT. <i>M. 948c.</i><br><b>      2</b> se détendre <i>ou</i> remuer le bras pour se préparer à la lutte, <i>fig</i>. préluder (à une discussion, <i>etc</i>.) ARSTT. <i>Rhet. 3, 14, 11</i>.`

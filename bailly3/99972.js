@@ -1,1 +1,0 @@
-lar[99972]=`<b>τραχηλο·δεσμότης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui lie le cou, ANTH. <i>6, 107</i>.<p><b>Étym</b>. τράχηλος, δεσμός.`

@@ -1,1 +1,0 @@
-lar[49820]=`<b>έως (ὁ)</b> habitant d’Histiæa, HDT. <i>8, 23</i> ; XÉN. <i>Hell. 2, 2, 3, etc</i>.<p><b>Étym</b>. Ἱστίαια.`

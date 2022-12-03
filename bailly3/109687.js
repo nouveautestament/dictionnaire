@@ -1,1 +1,0 @@
-lar[109687]=`<b>ψευδο·κῆρυξ, υκος (ὁ)</b> <font color="purple">[ῡκ]</font> messager de fausses nouvelles, SOPH. <i>Ph. 1307</i>.`

@@ -1,1 +1,0 @@
-lar[8460]=`<i>adv</i>., sans réflexion, PLAT. <i>Ax. 365d, 369e</i>.`

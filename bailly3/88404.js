@@ -1,1 +1,0 @@
-lar[88404]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> écoulement d’humeurs, <i>d’où</i> rhumatisme, DIOSC. <i>4, 65</i> ; GAL. <i>13, 953d</i>.<p><b>Étym</b>. ῥευματίζω.`

@@ -1,1 +1,0 @@
-lar[34224]=`<b>ατος (τὸ)</b> relâchement, abattement, GAL. <i>2, 244</i>.<p><b>Étym</b>. ἐνδίδωμι.`

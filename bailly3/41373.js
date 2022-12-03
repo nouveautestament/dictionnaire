@@ -1,1 +1,0 @@
-lar[41373]=`<b>ἑτερό·ρροπος, ος, ον :<br>      1</b> qui incline d’un côté, HPC. <i>Art. 808 ; p. suite,</i> qui se produit d’un côté, HPC. <i>Off. 748</i>.<br><b>      2</b> qui incline d’un côté comme de l’autre : θεῶν ἑ. δῶρα, RHIAN. (STOB. <i>Fl. 4, 34</i>) présents des dieux qui peuvent apporter le bien comme le mal.<p><b>Étym</b>. ἕ. ῥέπω.`

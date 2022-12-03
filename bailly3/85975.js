@@ -1,1 +1,0 @@
-lar[85975]=`<b>προσ·κατασύρω</b> <font color="purple">[ῡ]</font> tirer en outre de haut en bas, ANTH. <i>11, 174</i>.`

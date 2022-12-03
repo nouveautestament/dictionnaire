@@ -1,1 +1,0 @@
-lar[3768]=`<b>ἀκρο·έλικτος, ος, ον</b>, recourbé en haut, P. SIL. <i>Ecphr. amb. 178</i>.<p><b>Étym</b>. ἄ. ἑλίσσω.`

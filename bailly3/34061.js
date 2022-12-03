@@ -1,1 +1,0 @@
-lar[34061]=`<b>ατος (τὸ)</b> illumination, clarté, PHIL. <i>1, 88</i>.<p><b>Étym</b>. ἐναυγάζω.`

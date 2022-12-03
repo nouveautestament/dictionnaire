@@ -1,1 +1,0 @@
-lar[103957]=`<b>ὑπο·σωρεύω</b>, entasser par-dessous, SOR. <i>Obst. p. 26</i> ; LGS <i>2, 31</i>.`

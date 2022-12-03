@@ -1,1 +1,0 @@
-lar[7069]=`<b>ας (ἡ)</b> insensibilité pour la douleur, <i>d’où</i> insensibilité, <i>en gén</i>. DÉM. <i>18, 35 Baiter-Sauppe</i> ; ARSTT. <i>Nic. 1, 10, etc</i>.<p><b>Étym</b>. ἀνάλγητος.`

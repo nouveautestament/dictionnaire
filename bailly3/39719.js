@@ -1,1 +1,0 @@
-lar[39719]=`<b>ατος (τὸ)</b> ce qui sert à oindre, onguent, huile, DIOSC. <i>1, 90</i> ; GAL. <i>2, 247, 379</i>.<p><b>Étym</b>. ἐπιχρίω.`

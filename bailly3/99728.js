@@ -1,1 +1,0 @@
-lar[99728]=`<i>cri de douleur,</i> hélas ! ESCHL. <i>Pers. 551, 561</i>.`

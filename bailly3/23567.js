@@ -1,1 +1,0 @@
-lar[23567]=`<b>Δεινο·μάχη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Deinomakhè :<br><b>      1</b> <i>mère d’Alcibiade,</i> PLAT. <i>Alc. 105d, 123c ;</i> PLUT. <i>Alc. 1 ; etc.</i><br><b>      2</b> <i>autre,</i> LUC. <i>D. mer. 7, 2</i>.<p><b>Étym</b>. <i>fém. de</i> Δεινόμαχος.`

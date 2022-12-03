@@ -1,1 +1,0 @@
-lar[76990]=`<b>α, ον</b> <font color="purple">[νᾱ]</font> du Parnasse, PD. <i>P. 10, 42</i> ; SOPH. <i>Ant. 1144</i> ; EUR. <i>I.T. 1244, etc</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>l. c. ; dans une inscr. att</i>. Παρνήσσιος, CIA. <i>2, 609, 25 (324 av. J.-C.) ; v. Meisterh. p. 75, 12</i>.<p><b>Étym</b>. Παρνασός.`

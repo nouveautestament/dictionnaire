@@ -1,1 +1,0 @@
-lar[100197]=`<b>ας (ἡ)</b> durée de trois ans, TH. <i>C.P. 1, 20, 4</i> ; PLUT. <i>Demetr. c. Ant. 6</i> ; LUC. <i>Alex. 41, etc</i>.<p><b>Étym</b>. τριετής.`

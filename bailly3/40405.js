@@ -1,1 +1,0 @@
-lar[40405]=`<b>Ἐριβώτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> Éribôtès, <i>Argonaute,</i> A.RH. <i>1, 71, 73 ; 2, 1041</i>.`

@@ -1,1 +1,0 @@
-lar[31268]=`<b>ἐκ·ζῳόω-ῳῶ</b> (<i>prés. pass</i>. -ῳοῦται) remplir de vers (<i>litt</i>. d’animaux) TH. <i>C.P. 4, 8, 4</i>.<p><b>Étym</b>. ἐκ, ζῷον.`

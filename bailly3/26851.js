@@ -1,1 +1,0 @@
-lar[26851]=`<b>οῦ (ὁ) :<br>      1</b> réformateur, PLUT. <i>Sol. 16</i> ; ARR. <i>Epict. 3, 7, 1</i> ; SPT. <i>Sap. 7, 15</i>.<br><b>      2</b> éditeur critique d’un livre, DS. <i>15, 6 Dind.</i> ; GAL. <i>8, 100 ; 9, 239</i>.<p><b>Étym</b>. διορθόω.`

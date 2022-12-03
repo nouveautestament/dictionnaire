@@ -1,1 +1,0 @@
-lar[54566]=`<font color="purple">[ῐ]</font> <i>adv</i>., en connaissance de cause, PLUT. <i>M. 1142c</i>.<p><b>Étym</b>. κρίνω.`

@@ -1,1 +1,0 @@
-lar[35837]=`<b>ἐξ·ερίζω</b>, s’obstiner dans une dispute, PLUT. <i>Pomp. 56</i> ; APP. <i>Civ. 2, 151</i>.`

@@ -1,1 +1,0 @@
-lar[105852]=`<b>φιλό·κοπρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le fumier, <i>en parl. de plantes,</i> TH. <i>H.P. 2, 7, 1</i> ; GEOP. <i>12, 9, 2</i>.<p><b>Étym</b>. φ. κόπρος.`

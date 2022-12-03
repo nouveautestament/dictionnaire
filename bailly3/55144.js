@@ -1,1 +1,0 @@
-lar[55144]=`<b>εως (ἡ)</b> soins qu’on donne à un mort, funérailles, EL. <i>N.A. 10, 48</i> ; PLOT. <i>p. 718b</i>.<p><b>Étym</b>. κηδεύω.`

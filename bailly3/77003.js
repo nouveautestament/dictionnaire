@@ -1,1 +1,0 @@
-lar[77003]=`<b>παρ·ό</b>, <i>conj. p</i>. παρ' ὅ :<br><b>      1</b> c’est pourquoi, à cause de cela, ARSTT. <i>Col. 6, 11 ; Aud. 27, etc.</i><br><b>      2</b> <i>après un compar</i>. que, ARSTT. <i>Plant. 1, 4, 16, etc.</i> ; SEXT. <i>251, 6 Bkk</i>.`

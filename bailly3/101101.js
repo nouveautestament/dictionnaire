@@ -1,1 +1,0 @@
-lar[101101]=`<b>τυραννο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ῠῐκᾰ]</font> maître de tyrannie, de despotisme, PLAT. <i>Theag. 125a ;</i> DC. <i>59, 24 ; 61, 10</i>.<p><b>Étym</b>. τύραννος, διδάσκαλος.`

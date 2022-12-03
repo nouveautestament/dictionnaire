@@ -1,1 +1,0 @@
-lar[64676]=`<b>μετ·άγγελος, ου (ὁ, ἡ)</b> qui porte des nouvelles d’une personne à une autre, messager, intermédiaire, IL. <i>15, 144 ; 23, 199</i>.`

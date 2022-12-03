@@ -1,1 +1,0 @@
-lar[81661]=`<b>πολλοστη·μόριος, ος, ον</b>, qui n’est qu’une petite partie d’une chose, ARSTT. <i>Pol. 5, 8, 10, etc.</i> ; τὸ πολλοστημόριον, THC. <i>6, 86 vulg.</i> ; ARSTT. <i>Top. 4, 4, 10,</i> petite partie d’un tout.<p><b>Étym</b>. πολλοστός, μόριον.`

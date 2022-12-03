@@ -1,1 +1,0 @@
-lar[3014]=`<i>seul. impf</i>. ἄϊον <font color="purple">[ᾱ <i>à l’arsis</i>]</font> IL. <i>15, 252,</i> exhaler.<p><b>Étym</b>. <i>cf</i>. ἀΐσθων.`

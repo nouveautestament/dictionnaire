@@ -1,1 +1,0 @@
-lar[9554]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> substitution, BAS. <i>4, 1108 Migne</i>.<br><b>      2</b> allégation à l’encontre, <i>fig. de rhét. par laquelle une assertion d’un caractère général est contredite par un cas particulier, cf. lat</i>. compensatio, RHÉT. <i>8, 457 W</i>.<p><b>Étym</b>. ἀντεισάγω.`

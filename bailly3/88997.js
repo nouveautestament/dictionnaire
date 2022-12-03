@@ -1,1 +1,0 @@
-lar[88997]=`<b>Ῥωμινάλιος ἐρινεός (ὁ)</b> = <i>lat</i>. ficus Rūmĭnālis, le figuier du Ruminal, <i>à Rome,</i> PLUT. <i>Rom. 4</i>.`

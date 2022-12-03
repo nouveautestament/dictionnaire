@@ -1,1 +1,0 @@
-lar[19189]=`<b>βαρυ·πένθητος, ος, ον</b> <font color="purple">[ᾰῠ]</font> profondément affligé, ANTH. <i>7, 743</i>.<p><b>Étym</b>. β. πενθέω.`

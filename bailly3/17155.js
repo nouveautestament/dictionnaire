@@ -1,1 +1,0 @@
-lar[17155]=`<i>adv.</i><br><b>   I. 1</b> ici même, là même, <i>c</i>. αὐτόθι, IL. <i>1, 492, etc.</i> ; OD. <i>2, 369, etc.</i> ; SOPH. <i>fr. 468</i>.<br><b>      2</b> sur-le-champ, aussitôt, IL. <i>5, 296, etc.</i> ; OD. <i>18, 339</i>.<br><b>   II</b> <i>postér. c</i>. αὖθις, LYC. <i>732</i> ; CALL. <i>Jov. 94, etc.</i> ; ANTH. <i>9, 343</i>.`

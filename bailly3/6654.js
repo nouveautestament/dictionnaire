@@ -1,1 +1,0 @@
-lar[6654]=`<b>(ὁ)</b> Anagyrunte, <i>dème attique de la tribu Érekhthéide,</i> E. BYZ.<p><b>Étym</b>. <i>p. contr. p</i>. *ἀναγυρόεις « couvert d’anagyres » <i>de</i> ἀνάγυρος ; <i>cf</i>. Ῥαμνοῦς.`

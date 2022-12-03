@@ -1,1 +1,0 @@
-lar[98586]=`<font color="purple">[νᾱ]</font> <i>dor. c</i>. τετράκνημος.`

@@ -1,1 +1,0 @@
-lar[23144]=`<b>(ὁ)</b> Damindas, <i>Spartiate,</i> PLUT. <i>M. 219e</i> (<i>var</i>. Δαμίδας <i>et</i> Δαμώνδας).`

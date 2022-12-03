@@ -1,1 +1,0 @@
-lar[97561]=`<b>τανύ·πτερος, ος, ον</b> <font color="purple">[ᾰ]</font> aux longues ailes, aux ailes déployées <i>ou</i> aux ailes rapides, HH. <i>Cer. 89</i> ; HÉS. <i>Th. 523</i> ; PD. <i>P. 5, 149</i> ; IBYC. <i>3</i>.<p><b>Étym</b>. τανυ-, πτερόν.`

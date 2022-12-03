@@ -1,1 +1,0 @@
-lar[83561]=`<b>ατος (τὸ)</b> dépense faite auparavant, ARTÉM. <i>1, 70</i>.<p><b>Étym</b>. προαναλίσκω.`

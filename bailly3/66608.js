@@ -1,1 +1,0 @@
-lar[66608]=`<b>μονοπροσωπέω-ῶ</b>, n’avoir qu’une personne à chaque temps, être unipersonnel, DYSC. <i>Pron. 6a</i>.<p><b>Étym</b>. μονοπρόσωπος.`

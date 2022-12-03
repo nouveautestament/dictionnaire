@@ -1,1 +1,0 @@
-lar[13398]=`<b>εως (ἡ)</b> écoulement goutte à goutte, suintement, HPC. <i>171c, etc.</i> ; TH. <i>H.P. 9, 8, 3</i>.<p><b>Étym</b>. ἀποστάζω.`

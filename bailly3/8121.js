@@ -1,1 +1,0 @@
-lar[8121]=`<b>ἀνδρο·τυχής</b>, <i>adj. f</i>. <font color="purple">[ῠ]</font> qui trouve un époux, ESCHL. <i>Eum. 960</i>.<p><b>Étym</b>. ἀνήρ, τυγχάνω.`

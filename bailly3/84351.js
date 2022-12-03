@@ -1,1 +1,0 @@
-lar[84351]=`<b>προ·θηράω-ῶ</b>, chasser auparavant, AGATHARCH. (PHOT. <i>Bibl. 452, 5</i>).`

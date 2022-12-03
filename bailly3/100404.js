@@ -1,1 +1,0 @@
-lar[100404]=`<b>τρι·πρόσωπος, ος, ον</b> <font color="purple">[ᾰ]</font> à trois visages, <i>ép. d’Hékatè,</i> CHARICLID. (ATH. <i>325d</i>).<p><b>Étym</b>. τρ. πρόσωπον.`

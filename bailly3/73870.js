@@ -1,1 +1,0 @@
-lar[73870]=`<b>ὀφρυ·ανασπασίδης, ου</b> <font color="purple">[ᾰνᾰσῐ]</font> <i>adj. m</i>. qui hausse ses sourcils avec arrogance, ANTH. <i>App. 288</i>.<p><b>Étym</b>. ὀφρύς, ἀνασπάω.`

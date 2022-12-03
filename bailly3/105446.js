@@ -1,1 +1,0 @@
-lar[105446]=`<b>ου (ἡ)</b> Philænion, <i>f</i>. ANTH. <i>5, 121, etc</i>.<p><b>Étym</b>. <i>cf</i>. Φιλαινίς.`

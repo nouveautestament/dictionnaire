@@ -1,1 +1,0 @@
-lar[106312]=`<b>ων (οἱ)</b> les Flamines, PLUT. <i>Marc. 5</i>.<p><b>Étym</b>. <i>lat</i>. Flamines, <i>cf</i>. φλάμιν.`

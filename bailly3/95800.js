@@ -1,1 +1,0 @@
-lar[95800]=`<b>συν·ευδαιμονέω-ῶ</b>, être <i>ou</i> vivre heureux ensemble, LUC. <i>Herm. 10 ; abs</i>. XÉN. <i>Hell. 5, 1, 16</i>.`

@@ -1,1 +1,0 @@
-lar[73503]=`<b>ων (οἱ)</b> = <i>lat</i>. Veii, Veies, <i>v. d’Étrurie,</i> PLUT. <i>Rom. 25, etc</i>.`

@@ -1,1 +1,0 @@
-lar[47193]=`<b>θηλύ·μιτρις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. θηλυμίτρης LUC. <i>Bacch. 3</i>.`

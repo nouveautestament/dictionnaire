@@ -1,1 +1,0 @@
-lar[2651]=`<b>ης (ἡ)</b> louange, gloire, HDT. <i>3, 74, etc. ; cf</i>. αἶνος.`

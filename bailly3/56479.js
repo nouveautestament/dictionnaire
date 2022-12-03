@@ -1,1 +1,0 @@
-lar[56479]=`<b>κοινολεκτέω-ῶ</b>, parler la langue vulgaire, DYSC. <i>(Bkk. p. 580, 30).</i><p><b>Étym</b>. κοινόλεκτος.`

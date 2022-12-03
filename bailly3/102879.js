@@ -1,1 +1,0 @@
-lar[102879]=`<b>ὑπερ·φορέω-ῶ</b>, porter par-dessus, <i>avec</i> ὑπέρ <i>et le gén</i>. XÉN. <i>Cyn. 8, 4</i>.`

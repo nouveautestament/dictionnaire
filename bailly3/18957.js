@@ -1,1 +1,0 @@
-lar[18957]=`<b>βαλαντιοτομέω-ῶ</b> <font color="purple">[βᾰ]</font> couper des bourses, être coupe-bourses, XÉN. <i>Mem. 1, 2, 62</i> ; PLAT. <i>Rsp. 575b</i>.<p><b>Étym</b>. βαλαντιοτόμος.`

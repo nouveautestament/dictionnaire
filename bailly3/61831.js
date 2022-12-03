@@ -1,1 +1,0 @@
-lar[61831]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> Lykæon (le Lycée, <i>auj</i>. Lýkio) <i>mt. au S. O. de l’Arcadie, avec un temple à Zeus,</i> THC. <i>5, 16 et 54, etc</i>.<p><b>Étym</b>. <i>neutre de</i> Λυκαῖος.`

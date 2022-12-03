@@ -1,1 +1,0 @@
-lar[54780]=`<b>κεπφόω-ῶ</b>, troubler l’esprit ; <i>au pass</i>. se laisser troubler, agir comme un sot, CIC. <i>Att. 13, 40</i> ; SPT. <i>Prov. 7, 22</i>.<p><b>Étym</b>. κέπφος.`

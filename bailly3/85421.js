@@ -1,1 +1,0 @@
-lar[85421]=`<b>προσ·διαρκέω-ῶ</b>, continuer de durer, ARSTD. <i>t. 1, 441</i>.`

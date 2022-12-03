@@ -1,1 +1,0 @@
-lar[57396]=`<b>ου (ὁ)</b> Kouralios, <i>fl. de Béotie,</i> CALL. <i>L. Pall. 64</i>.<p>➳ <i>Dor. gén</i>. Κωραλίω, ALC. (STR. <i>411</i>).`

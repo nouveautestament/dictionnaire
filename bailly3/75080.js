@@ -1,1 +1,0 @@
-lar[75080]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> ἡ Π. θυσία, STR. <i>384,</i> fête de Poséidon célébrée par tous les Ioniens réunis.<p><b>Étym</b>. Πανίωνες.`

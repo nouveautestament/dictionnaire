@@ -1,1 +1,0 @@
-lar[85138]=`<b>προσ·αναδίδωμι</b> <font color="darkgreen">(<i>f</i>. -αναδώσω, <i>ao</i>. -ανέδωκα, <i>etc</i>.)</font> <font color="purple">[δῐ]</font><br><b>      1</b> présenter en outre, remettre, PLUT. <i>M. 241f.</i><br><b>      2</b> distribuer en outre, POL. <i>10, 14, 3</i>.`

@@ -1,1 +1,0 @@
-lar[58923]=`<font color="purple">[ῡ]</font> <i>adv</i>., à Chypre, <i>avec mouv</i>. IL. <i>11, 21</i>.<p><b>Étym</b>. Κύπρος, -δε.`

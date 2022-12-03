@@ -1,1 +1,0 @@
-lar[66241]=`<b>ας (ἡ)</b> Mnèstra, <i>f</i>. PLUT. <i>Cim. 4</i>.`

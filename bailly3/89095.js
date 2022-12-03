@@ -1,1 +1,0 @@
-lar[89095]=`<b>ου (ὁ)</b> Sadalas, <i>roi de Thrace,</i> PLUT. <i>Ant. 61</i>.`

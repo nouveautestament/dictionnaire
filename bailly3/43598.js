@@ -1,1 +1,0 @@
-lar[43598]=`<b>ας (ἡ)</b> enfantement heureux <i>ou</i> fécond, CALL. <i>Ep. 56</i> ; ANTH. <i>9, 268 et 349</i> ; PLUT. <i>M. 658f ; au plur</i>. PLUT. <i>M. 939f</i>.<p>➳ <i>Ion</i>. -ίη, CALL. <i>Ep. 57</i> ; ANTH. <i>9, 349, 4</i>.<p><b>Étym</b>. εὔτοκος.`

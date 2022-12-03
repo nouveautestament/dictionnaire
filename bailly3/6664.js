@@ -1,1 +1,0 @@
-lar[6664]=`<b>ος, ον</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> qui gagne le large : τὰ ἀναγώγια (<i>s.-e</i>. ἱερά) sacrifice pour obtenir une heureuse traversée, EL. <i>V.H. 1, 15 ; N.A. 4, 2, etc.</i><br><b>      2</b> <i>fig</i>. qui élève l’âme, PROCL. <i>H. Mus. 1, 1, etc</i>.<p><b>Étym</b>. ἀναγωγός.`

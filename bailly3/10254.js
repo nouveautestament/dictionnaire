@@ -1,1 +1,0 @@
-lar[10254]=`<b>ἀντι·περιλαμβάνω</b>, embrasser à son tour, XÉN. <i>Conv. 9, 4</i>.`

@@ -1,1 +1,0 @@
-lar[57934]=`<b>Κριν·αγόρας, ου (ὁ)</b> <font color="purple">[ῑᾰγ]</font> Krinagoras, <i>h</i>. ANTH. <i>4, 2</i>.<p>➳ <i>Ion</i>. Κριναγόρης, ANTH. <i>6, 227, etc. ; voc</i>. -η, ANTH. <i>5, 119</i>.<p><b>Étym</b>. κρίνω, ἀγορά.`

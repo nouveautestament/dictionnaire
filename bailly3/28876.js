@@ -1,1 +1,0 @@
-lar[28876]=`<b>δύσ·ρητος, ος, ον :<br>      1</b> indicible, D. PHAL. <i>§ 326</i>.<br><b>      2</b> difficile à prononcer, GAL. <i>8, 594, 595 ; 13, 359</i>.<p><b>Étym</b>. δ. *ἔρω.`

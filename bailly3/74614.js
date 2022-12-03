@@ -1,1 +1,0 @@
-lar[74614]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> fait d’épines, STR. <i>776</i>.<p><b>Étym</b>. παλίουρος.`

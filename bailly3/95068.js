@@ -1,1 +1,0 @@
-lar[95068]=`<b>συνδεσμο·ειδής, ής, ές</b>, qui ressemble à une conjonction, DYSC. <i>Conj. p. 480, 8 Bkk</i>.<p><b>Étym</b>. σύνδεσμος, εἶδος.`

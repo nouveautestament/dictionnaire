@@ -1,1 +1,0 @@
-lar[82162]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grande sagacité, grande intelligence. PLAT. <i>Leg. 641e ;</i> DC. <i>52, 41</i>.<p><b>Étym</b>. πολύνοος.`

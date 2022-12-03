@@ -1,1 +1,0 @@
-lar[28011]=`<b>ης (ἡ)</b> Dryoussa, <i>anc. n. de Samos,</i> ARSTT. <i>fr. 529</i>.<p><b>Étym</b>. <i>p</i>. δρυόεσσα, <i>fém. de</i> δρυόεις.`

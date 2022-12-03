@@ -1,1 +1,0 @@
-lar[29039]=`<b>δυσ·ώδινος, ος, ον</b> <font color="purple">[ῠῑ]</font> dont l’enfantement est pénible, ANTH. <i>6, 272</i>.<p><b>Étym</b>. δ. ὠδίς.`

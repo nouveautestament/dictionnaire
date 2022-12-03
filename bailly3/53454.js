@@ -1,1 +1,0 @@
-lar[53454]=`<b>κατα·στηλόω-ῶ</b>, garnir de bornes milliaires, POL. <i>34, 12, 3</i>.<p><b>Étym</b>. κ. στήλη.`

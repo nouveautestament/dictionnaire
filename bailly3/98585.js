@@ -1,1 +1,0 @@
-lar[98585]=`<b>τετρά·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> à quatre lits <i>ou</i> à quatre sièges, ATH. <i>47f ;</i> LUC. <i>Tox. 46</i>.<p><b>Étym</b>. τ. κλίνη.`

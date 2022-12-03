@@ -1,1 +1,0 @@
-lar[89520]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰπ]</font> satrapie, fonction <i>ou</i> gouvernement d’un satrape, XÉN. <i>Hell. 3, 1, 10</i> ; POL. <i>3, 6, 10</i>.<p>➳ <i>Ion</i>. σατραπηΐη, HDT. <i>1, 192 ; 3, 89</i>.<p><b>Étym</b>. σατραπεύω.`

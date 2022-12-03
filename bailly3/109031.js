@@ -1,1 +1,0 @@
-lar[109031]=`<b>Χριστό·δωρος, ου (ὁ)</b> Khristodôros (Christodore), <i>poète de l’Anthologie,</i> ANTH. <i>2, 1, etc</i>.<p><b>Étym</b>. Χρ. δῶρον.`

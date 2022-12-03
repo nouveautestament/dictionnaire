@@ -1,1 +1,0 @@
-lar[15363]=`<b>ητος (ἡ) :<br>      1</b> état d’une chose entière, intégralité, STOB. <i>Ecl. 1, 144</i>.<br><b>      2</b> qualité d’un nombre pair (<i>p. opp. à</i> περιττότης), ARSTT. <i>Metaph. 3, 2, 18</i>.<p><b>Étym</b>. ἄρτιος.`

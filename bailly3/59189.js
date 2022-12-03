@@ -1,1 +1,0 @@
-lar[59189]=`<b>κωμόομαι-οῦμαι</b>, être plongé dans un sommeil lourd et prolongé, GAL. <i>Lex. Hipp. 19, 111</i>.<p><b>Étym</b>. κῶμα.`

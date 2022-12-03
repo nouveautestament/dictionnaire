@@ -1,1 +1,0 @@
-lar[4577]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῐ]</font> coupable, IL. <i>24, 257, etc.</i> ; CALL. <i>Dian. 123</i>.<p><b>Étym</b>. ἀλιταίνω.`

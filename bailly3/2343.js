@@ -1,1 +1,0 @@
-lar[2343]=`<b>ος, ον</b>, respectable, vénérable, LUC. <i>Nigr. 26</i> ; M. ANT. <i>1, 9, etc. ; particul. au</i> <i>• Sup</i>. -ώτατος, <i>c. titre de respect,</i> très révérend, très respecté, JUL. <i>375</i> ; BAS. <i>4, 321, 408</i> ; NYSS. <i>3, 1000 Migne ; d’où</i> sacré, PAUS. <i>3, 5, 6</i>.<p><b>Étym</b>. αἰδέομαι.`

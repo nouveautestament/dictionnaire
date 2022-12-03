@@ -1,1 +1,0 @@
-lar[7451]=`<b>ἀν·απόλυτος, ος, ον</b> <font color="purple">[ῠ]</font> indissoluble, ARSTT. <i>H.A. 8, 13, 15</i>.`

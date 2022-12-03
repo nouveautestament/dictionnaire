@@ -1,1 +1,0 @@
-lar[55592]=`<i>mieux que</i> <b>κίσσηρις, εως (ἡ)</b> pierre ponce, AR. <i>fr. 309, 4</i> ; ALEX. (ATH. <i>383d</i>) ; ARSTT. <i>Nic. 3, 2, etc</i>.<p>➳ <font color="purple">[κῐ]</font> ANTH. <i>6, 295 ; gén</i>. -εως, LUC. <i>J. voc. 4, ou</i> -ιδος, TH. <i>Lap. 22</i>.`

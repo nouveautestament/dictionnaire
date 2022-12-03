@@ -1,1 +1,0 @@
-lar[56013]=`<b>ου (ὁ)</b> insecte qui ronge les ruches d’abeilles, ARSTT. <i>H.A. 8, 27, 2, etc</i>.`

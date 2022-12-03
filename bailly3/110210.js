@@ -1,1 +1,0 @@
-lar[110210]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> propre à hâter l’accouchement, DIOSC. <i>4, 14 ; 5, 173</i> ; τὸ ὠκυτόκιον, HPC. <i>623, 15 ; 681, 25</i> ; AR. <i>Th. 504</i> ; TH. <i>H.P. 9, 9, 3</i> ; PLUT. <i>M. 964c, etc</i>. remède pour hâter la délivrance.<p><b>Étym</b>. ὠκυτόκος.`

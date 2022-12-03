@@ -1,1 +1,0 @@
-lar[22333]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font><br><b>      1</b> action d’apprendre <i>ou</i> de connaître, PLAT. <i>Leg. 763b ; Soph. 219c.</i><br><b>      2</b> connaissance, relations d’amitié : τινος, PLAT. <i>Pol. init. ; joint à</i> οἰκειότης, PLAT. <i>Leg. 771d</i>.<p><b>Étym</b>. γνωρίζω.`

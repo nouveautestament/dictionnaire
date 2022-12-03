@@ -1,1 +1,0 @@
-lar[17227]=`<b>ή, όν</b>, qui concerne l’aulodie, PLUT. <i>M. 1132c, etc</i>.<p><b>Étym</b>. αὐλῳδία.`

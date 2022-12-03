@@ -1,1 +1,0 @@
-lar[99559]=`<b>ου (ὁ)</b> prêtre de Dodone, <i>d’où</i> prêtre <i>en gén</i>. LYC. <i>223</i>.`

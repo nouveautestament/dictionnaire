@@ -1,1 +1,0 @@
-lar[47065]=`<b>ου (ὁ)</b> le fils de Thestios, A.RH. <i>1, 201 ; au plur</i>. STR. <i>466</i>.`

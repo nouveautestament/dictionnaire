@@ -1,1 +1,0 @@
-lar[10140]=`<b>Ἀντι·όπη (ἡ)</b> Antiopè :<br><b>      1</b> <i>mère d’Amphion et de Zèthos,</i> OD. <i>11, 260</i>.<br><b>      2</b> <i>femme de Thésée,</i> PLUT. <i>Thes. 26, etc.</i><br><b>      3</b> <i>titre d’une comédie d’Eubule</i>.<p>➳ <i>Dor</i>. -όπα, ANTH. <i>3, 7</i>.`

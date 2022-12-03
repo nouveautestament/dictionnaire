@@ -1,1 +1,0 @@
-lar[94997]=`<b>συν·αστραγαλίζω</b> <font color="purple">[ᾰγᾰ]</font> jouer aux osselets avec, M. TYR. <i>9, 6</i>.<p><b>Étym</b>. σ. ἀστράγαλος.`

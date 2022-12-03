@@ -1,1 +1,0 @@
-lar[83031]=`<b>ποτηριο·κλέπτης, ου (ὁ)</b> voleur de coupes, <i>titre d’une pièce d’Euphorion</i>.<p><b>Étym</b>. ποτήριον, κλέπτω.`

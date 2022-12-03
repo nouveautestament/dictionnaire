@@ -1,1 +1,0 @@
-lar[61617]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> <i>propr</i>. « l’Oblique », <i>surn. d’Apollon à cause du sens équivoque de ses oracles, ou, sel. d’autres, à cause de la marche oblique du soleil,</i> HDT. <i>1, 91</i> ; ESCHL. <i>Eum. 19, etc.</i> ; SOPH. <i>O.R. 410</i> ; AR. <i>Pl. 8, etc</i>.<p>➳ <i>Gén. ion</i>. Λοξίεω, HDT. <i>l. c</i>.<p><b>Étym</b>. λοξός.`

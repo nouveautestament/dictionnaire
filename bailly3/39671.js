@@ -1,1 +1,0 @@
-lar[39671]=`<b>ἐπι·χέζω</b> <font color="darkgreen">(<i>f</i>. -χεσοῦμαι, <i>pf</i>. -κέχοδα)</font> embrener, AR. <i>Lys. 440, Eccl. 640, Av. 68</i>.`

@@ -1,1 +1,0 @@
-lar[26532]=`<b>δί·κερας, ατος (τὸ)</b> <font color="purple">[ῐ]</font> double corne d’abondance, CALLIX. (ATH. <i>202b</i>).<p><b>Étym</b>. δίς, κέρας.`

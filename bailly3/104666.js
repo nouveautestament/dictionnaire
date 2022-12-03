@@ -1,1 +1,0 @@
-lar[104666]=`<b>ου (ὁ)</b> sorte de casaque <i>ou</i> de manteau qui couvrait le haut du corps et les bras, RHINTHON (POLL. <i>7, 61</i>) ; ATH. <i>97e ;</i> ARTÉM. <i>2, 3</i> ; NT. <i>2Tim. 4, 13</i>.<p>➳ <i>Dor</i>. φαινόλας <font color="purple">[ᾱ]</font> RHINTHON <i>l.c</i>.<p><b>Étym</b>. <i>cf. lat</i>. pænula.`

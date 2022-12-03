@@ -1,1 +1,0 @@
-lar[8928]=`<font color="darkgreen">(<i>impf</i>. ἠνθρώπιζον) :</font><br><b>      1</b> vivre <i>ou</i> se conduire comme un homme, ARCHYT. (DL. <i>3, 22</i>) ; LUC. <i>Demon. 21</i>.<br><b>      2</b> être <i>ou</i> devenir homme, ANTH. <i>1, 105</i>.<br><b><i>Moy.</i></b> vivre en homme, AR. <i>fr. 100</i>.<p><b>Étym</b>. ἄνθρωπος.`

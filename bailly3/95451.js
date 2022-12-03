@@ -1,1 +1,0 @@
-lar[95451]=`<b>συν·ελίσσω</b>, <i>att</i>. <b>-ίττω :<br>      1 <i>tr.</i></b> rouler ensemble, enrouler, pelotonner, HPC. <i>Art. 785 ; au pass</i>. ARSTT. <i>P.A. 4, 6, 6</i> ; TH. <i>H.P. 4, 7, 5</i>.<br><b>      2</b> dérouler, <i>acc</i>. EUR. <i>Ion 1164</i>.<p>➳ <i>Ion. et poét</i>. συνειλίσσω, HPC. EUR. <i>ll. cc</i>.`

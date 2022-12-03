@@ -1,1 +1,0 @@
-lar[45473]=`<b>α, ον</b> <font color="purple">[μῐ]</font> d’une demi-livre, STR. <i>146</i>.<p><b>Étym</b>. ἡμιλίτριον.`

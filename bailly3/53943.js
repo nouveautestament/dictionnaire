@@ -1,1 +1,0 @@
-lar[53943]=`<b>κατ·ερητύω</b>, retenir, arrêter, IL. <i>9, 465</i> ; OD. <i>9, 31</i> ; SOPH. <i>Ph. 1416</i> ; ORPH. <i>Arg. 1168, 1175</i>.`

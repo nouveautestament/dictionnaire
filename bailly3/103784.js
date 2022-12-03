@@ -1,1 +1,0 @@
-lar[103784]=`<b>ὑπό·ρρυθμος, ος, ον</b>, dont la mesure est à peu près régulière, PTOL. <i>Tetr. p. 143, 7</i>.<p><b>Étym</b>. ὑ. ῥυθμός.`

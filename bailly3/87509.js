@@ -1,1 +1,0 @@
-lar[87509]=`<b>πυγμαχέω-ῶ</b> <font color="purple">[ᾰ]</font> lutter au pugilat, INSCR. (HDT. <i>5, 60</i>) ; A.RH. <i>2, 783</i> ; ANTH. <i>6, 7</i>.<p><b>Étym</b>. πυγμάχος.`

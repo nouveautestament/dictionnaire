@@ -1,1 +1,0 @@
-lar[60069]=`<b>ας</b>, <i>adj. f</i>. qui polit, ANTH. <i>6, 295</i>.<p><b>Étym</b>. <i>fém. de</i> λεαντήρ.`

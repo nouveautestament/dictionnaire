@@ -1,1 +1,0 @@
-lar[64468]=`<b>μεσ·ευθύς, έος (ὁ)</b> <i>s.-e</i>. ἀριθμός <i>ou</i> τὸ μεσευθύ, le nombre du milieu, <i>càd</i>. dans la philosophie pythagoricienne le nombre 6 moyen entre 2 et 10, CLÉM. <i>811</i>.<p><b>Étym</b>. μ. εὐθύς.`

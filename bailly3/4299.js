@@ -1,1 +1,0 @@
-lar[4299]=`<b>ου</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>adj</i>. ὄνος ἀ. XÉN. <i>An. 1, 5, 3,</i> pierre meulière.<br><b>      2</b> <i>subst</i>. ὁ ἀ. meunier, ATH. <i>618d</i>.<p><b>Étym</b>. ἀλέω.`

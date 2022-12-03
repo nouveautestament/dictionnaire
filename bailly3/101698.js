@@ -1,1 +1,0 @@
-lar[101698]=`<b>ου</b>, <i>épq</i>. <b>αο (ὁ)</b> <font color="purple">[ῡᾱᾱ]</font> habitant <i>ou</i> originaire d’Hylè, <i>v. de Chypre,</i> NONN. <i>D. 13, 144</i>.<p><b>Étym</b>. Ὕλη.`

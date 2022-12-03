@@ -1,1 +1,0 @@
-lar[58857]=`<b>α, ον</b>, <i>cp. dér. de</i> κύντερος ESCHL. <i>et</i> PHÉRÉCR. (PHOT. <i>288, 24</i>).`

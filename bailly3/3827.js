@@ -1,1 +1,0 @@
-lar[3827]=`<b>ἀκρο·πόρφυρος, ος, ον</b> <font color="purple">[ῠ]</font> quelque peu pourpre, DIOSC. <i>4, 119</i>.<p><b>Étym</b>. ἄ. πορφύρα.`

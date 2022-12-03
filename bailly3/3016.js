@@ -1,1 +1,0 @@
-lar[3016]=`<b>(ὁ)</b> Æôn, <i>fils de Kronos,</i> EUR. <i>Her. 900</i> ; Q. SM. <i>12, 194, etc</i>.<p><b>Étym</b>. <i>cf</i>. αἰών.`

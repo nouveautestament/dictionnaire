@@ -1,1 +1,0 @@
-lar[17576]=`<b>αὐτο·μανία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> pure folie, CHRYS.`

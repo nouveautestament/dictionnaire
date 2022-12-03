@@ -1,1 +1,0 @@
-lar[8120]=`<b>ἀνδρο·τομέω-ῶ</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἠνδροτόμησε)</font> châtrer, SEXT. <i>M. 1, 289</i>.<p><b>Étym</b>. ἀνήρ, τέμνω.`

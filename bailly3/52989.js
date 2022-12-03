@@ -1,1 +1,0 @@
-lar[52989]=`<b>κατα·πάλλω</b>, agiter violemment, <i>au pass</i>. EUM. <i>p. 89</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. 3 sg</i>. κατεπήλατο, NONN. <i>D. 18, 13 ; 3 sg. ao.2 avec sync. épq</i>. κατέπαλτο, IL. <i>19, 351</i>)</font> s’élancer : οὐρανοῦ ἐκ, IL. <i>19, 351,</i> du ciel ; ἑοῦ δίφρου, NONN. <i>D. 18, 13,</i> de son char.`

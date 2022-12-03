@@ -1,1 +1,0 @@
-lar[56161]=`<b>κλυτό·βουλος, ος, ον</b> <font color="purple">[ῠ]</font> renommé pour sa prudence, OPP. <i>H. 3, 26</i>.<p><b>Étym</b>. κλυτός, βουλή.`

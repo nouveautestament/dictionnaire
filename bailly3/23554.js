@@ -1,1 +1,0 @@
-lar[23554]=`<b>(ὁ)</b> Deiniadas, <i>Lacédémonien,</i> THC. <i>8, 22</i>.<p><b>Étym</b>. <i>patr. de</i> Δεινίας.`

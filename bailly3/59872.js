@@ -1,1 +1,0 @@
-lar[59872]=`<b>ου (ὁ)</b> <font color="purple">[ᾱῐ]</font> poisson de mer inconnu, OPP. <i>H. 3, 399</i>.`

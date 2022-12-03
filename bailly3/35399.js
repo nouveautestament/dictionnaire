@@ -1,1 +1,0 @@
-lar[35399]=`<b>ἔξ·αλλος, ος, ον :<br>   I</b> tout à fait différent, SPT. <i>Esth. 3, 8</i>.<br><b>   II</b> <i>p. suite</i> :<br><b>      1</b> choisi, recherché, superbe, POL. <i>6, 7, 7</i> ; SPT. <i>2Reg. 6, 14</i> ; PLUT. <i>M. 329b.</i><br><b>      2</b> étrange, extraordinaire, merveilleux, SPT. <i>Sap. 14, 23 ; Dan. 11, 36 ; 3 Macc. 4, 4</i>.<p><b>Étym</b>. ἐξ, ἄλλος.`

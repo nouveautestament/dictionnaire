@@ -1,1 +1,0 @@
-lar[80281]=`<b>πικρό·καρπος, ος, ον</b>, aux fruits amers, ESCHL. <i>Sept. 693</i>.<p><b>Étym</b>. π. καρπός.`

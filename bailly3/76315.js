@@ -1,1 +1,0 @@
-lar[76315]=`<b>ατος (τὸ)</b> mur <i>ou</i> retranchement élevé le long de, THC. <i>7, 11, 42, etc</i>.<p><b>Étym</b>. παρατειχίζω.`

@@ -1,1 +1,0 @@
-lar[76539]=`<b>παρ·εγκελεύομαι</b>, exhorter, encourager, PLUT. <i>M. 188e</i>.`

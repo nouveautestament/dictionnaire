@@ -1,1 +1,0 @@
-lar[105775]=`<b>φιλό·εργος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le travail, ANTH. <i>6, 48 ; 7, 423, etc</i>.<p>•<i> Sup</i>. -ότατος, ANTH. <i>6, 288</i>.<p><b>Étym</b>. φ. ἔργον.`

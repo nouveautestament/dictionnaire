@@ -1,1 +1,0 @@
-lar[19300]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. βασκανία, DIOSC. <i>Noth. 477, 478 ; Poet. de vir. herb. 51, 210</i>.`

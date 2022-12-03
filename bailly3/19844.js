@@ -1,1 +1,0 @@
-lar[19844]=`<b>εσσα, εν</b> <font color="purple">[ᾰ]</font> nuisible, funeste, NIC. <i>Al. 186</i>.`

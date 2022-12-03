@@ -1,1 +1,0 @@
-lar[108079]=`<b>ης (ἡ)</b> <i>ion</i>. froid de l’hiver, grand froid, HPC. (Gal.).<p><b>Étym</b>. χεῖμα.`

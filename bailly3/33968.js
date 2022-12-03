@@ -1,1 +1,0 @@
-lar[33968]=`<b>ἐν·απομύττομαι</b>, se moucher dans, <i>dat</i>. PLUT. <i>M. 1128b</i>.`

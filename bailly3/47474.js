@@ -1,1 +1,0 @@
-lar[47474]=`<b>ή, όν</b>, trouble, HSCH.<p>•<i> Cp</i>. -ώτερος, TH. <i>C.P. 4, 11, 3</i> ; ATH. <i>420d</i>.<p><b>Étym</b>. <i>cf</i>. θολός¹.`

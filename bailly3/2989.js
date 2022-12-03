@@ -1,1 +1,0 @@
-lar[2989]=`<i>adv</i>., subitement, EUR. <i>I.A. 1581</i>.<p><b>Étym</b>. <i>cf</i>. αἶψα.`

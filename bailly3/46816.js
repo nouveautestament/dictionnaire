@@ -1,1 +1,0 @@
-lar[46816]=`<b>θεο·τόκος, ου (ἡ)</b> mère de Dieu, <i>en parl. de la Vierge,</i> NAZ. <i>2, 80 ; 3, 177</i> ; NYSS. <i>3, 633</i>.<p><b>Étym</b>. θεός, τίκτω.`

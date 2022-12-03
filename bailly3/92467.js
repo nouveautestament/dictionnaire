@@ -1,1 +1,0 @@
-lar[92467]=`<b>στερρόω-ῶ</b>, consolider, BACCHYLIUS (EROT. <i>Gloss. p. 342).</i><p><b>Étym</b>. στερρός.`

@@ -1,1 +1,0 @@
-lar[64501]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f. c</i>. μεσίτης, LUC. <i>Am. 27, 54</i>.`

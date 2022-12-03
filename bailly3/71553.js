@@ -1,1 +1,0 @@
-lar[71553]=`<b>ὁμοιοσχημονέω-ῶ</b>, avoir un extérieur semblable, ARSTT. <i>Probl. 2, 5</i> ; TH. <i>fr. 1, 50 ; 9, 34</i>.<p><b>Étym</b>. ὁμοιοσχήμων.`

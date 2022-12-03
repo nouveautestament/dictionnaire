@@ -1,1 +1,0 @@
-lar[12807]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> petit Apollon, ATH. <i>636f</i>.`

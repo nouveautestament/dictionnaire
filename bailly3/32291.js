@@ -1,1 +1,0 @@
-lar[32291]=`<b>ου (ὁ)</b> Ekphantidès, <i>poète de l’ancienne comédie,</i> ARSTT. <i>Pol. 8, 8, 6</i> ; NIC. <i>4, 2, 20</i> ; ATH. <i>96c</i>.<p><b>Étym</b>. <i>patr. de</i> Ἔκφαντος.`

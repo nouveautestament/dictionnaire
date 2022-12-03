@@ -1,1 +1,0 @@
-lar[55293]=`<b>κηροχυτέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> fondre de la cire et la façonner, A. PL. <i>210</i>.<br><b>      2</b> modeler comme avec de la cire, AR. <i>Th. 56</i> ; HIPPODAM. (STOB. <i>Fl. 43, 93).</i><p><b>Étym</b>. κηρόχυτος.`

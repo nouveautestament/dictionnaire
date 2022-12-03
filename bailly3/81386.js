@@ -1,1 +1,0 @@
-lar[81386]=`<b>ποικιλό·γηρυς</b>, <i>dor</i>. <b>ποικιλό·γαρυς, υος (ὁ, ἡ)</b> <font color="purple">[ῐᾱ]</font> aux sons variés, PD. <i>O. 3, 13</i>.<p><b>Étym</b>. π. γῆρυς.`

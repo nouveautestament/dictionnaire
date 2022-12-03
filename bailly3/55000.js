@@ -1,1 +1,0 @@
-lar[55000]=`<b>όεσσα, όεν :<br>      1</b> qui a des cornes, cornu, SOPH. <i>fr. 110 et 510</i> ; EUR. <i>Ph. 835, El. 724</i>.<br><b>      2</b> attelé d’animaux à cornes, CALL. <i>Dian. 113</i>.<br><b>      3</b> fait de corne, ANTH. <i>7, 223</i>.<p>➳ <i>Fém. contr</i>. κεροῦσσα, SOPH. <i>ll. cc</i>.<p><b>Étym</b>. κέρας.`

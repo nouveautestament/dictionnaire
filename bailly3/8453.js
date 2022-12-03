@@ -1,1 +1,0 @@
-lar[8453]=`<b>ἀν·επικώλυτος, ος, ον</b> <font color="purple">[ῡ]</font> non empêché, JOS. <i>A.J. 18, 6, 4</i>.<p><b>Étym</b>. ἀν-, ἐπικωλύω.`

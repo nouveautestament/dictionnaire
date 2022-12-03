@@ -1,1 +1,0 @@
-lar[24253]=`<b>δημο·κοπέω-ῶ</b>, capter la faveur populaire par les plus vils moyens, <i>p. opp. à</i> δημαγωγέω, PLUT. <i>M. 802d, C. Gracch. 9</i> ; APP. <i>Civ. 1, 59</i> ; δ. τὸ πλῆθος, APP. <i>Civ. 4, 94, m. sign.</i> ; δ. ἔς τινα, APP. <i>Syr. 16</i>, se rendre populaire par la brigue auprès de qqn.<p><b>Étym</b>. δημοκόπος.`

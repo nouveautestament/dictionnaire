@@ -1,1 +1,0 @@
-lar[2462]=`<b>ης, ες</b>, semblable à des pustules, GAL.<p><b>Étym</b>. αἰθόλιξ, -ωδης.`

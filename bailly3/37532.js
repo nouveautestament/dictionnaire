@@ -1,1 +1,0 @@
-lar[37532]=`<b>ἐπι·δέκατος, η, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui contient un entier et un dixième, JAMBL. <i>Nicom. ar. p. 76</i>.<br><b>      2</b> qui est un dixième, XÉN. <i>Hell. 1, 7, 10</i> ; AND. <i>13, 7</i> ; ἐπ. τόκοι, ARSTT. <i>Rhet. 3, 10, 7,</i> intérêts à 10 pour 100.`

@@ -1,1 +1,0 @@
-lar[36773]=`<b>ἐπ·άργεμος, ος, ον</b>, atteint d’une tache blanche sur l’œil, ARSTT. <i>H.A. 9, 1, 22, etc. ; d’où fig</i>. obscur, ESCHL. <i>Pr. 499, Ag. 1113, Ch. 665, etc</i>.<p><b>Étym</b>. ἐπί, ἄργεμον.`

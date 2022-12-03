@@ -1,1 +1,0 @@
-lar[62773]=`<b>ῶνος (ὁ)</b>, <i>ou</i> <b>Μανεθώς, ώ (ὁ)</b> Manéthon, <i>historien égyptien, contemporain de Ptolémée Philadelphe</i>.`

@@ -1,1 +1,0 @@
-lar[33619]=`<b>ος, ον</b>, enclin à, <i>avec</i> εἰς <i>et l’acc</i>. M. ANT. <i>10, 7</i>.<p><b>Étym</b>. ἐμπίπτω.`

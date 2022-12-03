@@ -1,1 +1,0 @@
-lar[93919]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en allié, ISOCR. <i>62c</i>.`

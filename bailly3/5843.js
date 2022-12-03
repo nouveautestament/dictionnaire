@@ -1,1 +1,0 @@
-lar[5843]=`<b>ος, ον</b> <font color="purple">[ᾰκ]</font> égaré, coupable, ESCHL. <i>Ag. 345</i>.<p><b>Étym</b>. ἀμπλακίσκω.`

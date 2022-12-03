@@ -1,1 +1,0 @@
-lar[32672]=`<b>ἐλελισφακίτης οἶνος (ὁ)</b> <font color="purple">[ᾰκῑ]</font> vin préparé avec de la sauge, DIOSC. <i>5, 71</i>.<p><b>Étym</b>. ἐλελίσφακον.`

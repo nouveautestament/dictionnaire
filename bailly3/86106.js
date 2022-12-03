@@ -1,1 +1,0 @@
-lar[86106]=`<b>ατος (τὸ)</b> ce qu’on a a reçu <i>ou</i> pris en outre, NAZ. <i>2, 424 ; 3, 1074 Migne</i>.<p><b>Étym</b>. προσλαμβάνω.`

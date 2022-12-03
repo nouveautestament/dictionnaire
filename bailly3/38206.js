@@ -1,1 +1,0 @@
-lar[38206]=`<b>ἐπι·κυδής, ής, ές</b> <font color="purple">[ῡ]</font> (<i>seul. cp</i>. -έστερος, α, ον) glorieux, brillant, <i>en parl. de choses,</i> ISOCR. <i>69c ;</i> POL. <i>1, 39, 9 ; 16, 4, 3 ; en parl. de pers</i>. XÉN. <i>Hell. 5, 1, 36</i> ; POL. <i>5, 69, 11</i>.<p><b>Étym</b>. ἐπί, κῦδος.`

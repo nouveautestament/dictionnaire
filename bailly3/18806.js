@@ -1,1 +1,0 @@
-lar[18806]=`<b>βαθυ·σκαφής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> creusé profondément, SOPH. <i>El. 435</i>.<p><b>Étym</b>. β. σκάπτω.`

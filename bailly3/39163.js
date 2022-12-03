@@ -1,1 +1,0 @@
-lar[39163]=`<b>ἐπι·στοναχέω-ῶ</b> <font color="purple">[ᾰ]</font> gémir sur, IL. <i>24, 79</i>.<p><b>Étym</b>. ἐπί, στοναχή.`

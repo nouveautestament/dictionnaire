@@ -1,1 +1,0 @@
-lar[40684]=`<b>ης (ἡ)</b> sorte de ver, NUMÉN. (ATH. <i>305a</i>).<p><b>Étym</b>. ἕρπω, <i>cf</i>. ἕρπιλλα.`

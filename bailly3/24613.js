@@ -1,1 +1,0 @@
-lar[24613]=`<b>εως (ἡ)</b> moyen de vivre, ressources pour vivre, PORPH. (STOB. <i>Ecl. 2, 378).</i><p><b>Étym</b>. διαζάω.`

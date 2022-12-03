@@ -1,1 +1,0 @@
-lar[106186]=`<b>Φιλο·χάρης, ους (ὁ)</b> <font color="purple">[ῐᾰ]</font> Philokharès, <i>h., particul. frère d’Eschine,</i> DÉM. <i>Or. 19, 237 ; etc.</i> ; IS. <i>Or. 3, 32, etc</i>.<p>➳ <i>Voc</i>. Φιλόχαρες, DÉM. <i>l.c. ; acc</i>. Φιλοχάρη, IS. <i>l.c</i>.<p><b>Étym</b>. φ. χαίρω.`

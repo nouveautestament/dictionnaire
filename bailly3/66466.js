@@ -1,1 +1,0 @@
-lar[66466]=`<b>ου (ὁ)</b> <i>mot péonien, c</i>. βόνασος, ARSTT. <i>H.A. 9, 45, 1</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

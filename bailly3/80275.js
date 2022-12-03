@@ -1,1 +1,0 @@
-lar[80275]=`<b>ας (ἡ) :<br>   I</b> amertume, goût amer, ARSTT. <i>Plant. 2, 10, 1</i> ; TH. <i>H.P. 6, 10, 7</i> ; PLUT. <i>M. 897a, etc.</i><br><b>   II</b> <i>fig.</i> :<br><b>      1</b> aigreur, colère, POL. <i>15, 4, 11</i> ; PLUT. <i>Cor. 15</i>.<br><b>      2</b> dureté, DÉM. <i>580, 1, etc.</i> ; PLUT. <i>Lyc. 19</i>.<p><b>Étym</b>. πικρός.`

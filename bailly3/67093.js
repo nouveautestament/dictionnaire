@@ -1,1 +1,0 @@
-lar[67093]=`<b>ου (ὁ)</b> amandier <i>ou</i> noisetier, SÉLEUC. (ATH. <i>52e</i>) ; <i>cf. lacon</i>. μούκηρος.<p><b>Étym</b>. <i>pré-grec</i>.`

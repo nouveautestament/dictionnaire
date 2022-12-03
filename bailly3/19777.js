@@ -1,1 +1,0 @@
-lar[19777]=`<b>βιο·τέρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui marque le terme de la vie, MAN. <i>4, 77</i>.<p><b>Étym</b>. β. τέρμα.`

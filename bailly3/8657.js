@@ -1,1 +1,0 @@
-lar[8657]=`<b>α, ον</b>, d’une nouvelle jeunesse, de jeune homme, EUR. <i>Andr. 552</i>.<p><b>Étym</b>. ἀνηβάω.`

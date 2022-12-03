@@ -1,1 +1,0 @@
-lar[73215]=`<b>άδος (ἡ)</b> <i>autre n. de la plante</i> ὄνωνις, DIOSC. <i>3, 147</i>.`

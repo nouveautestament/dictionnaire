@@ -1,1 +1,0 @@
-lar[43751]=`<b>(ὁ)</b> Euphratas, <i>Perse,</i> XÉN. <i>Cyr. 6, 3, 28</i>.`

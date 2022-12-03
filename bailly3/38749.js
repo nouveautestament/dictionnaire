@@ -1,1 +1,0 @@
-lar[38749]=`<b>ἐπι·ποθέω-ῶ</b>, désirer en outre <i>ou</i> regretter vivement, <i>acc</i>. HDT. <i>5, 93</i> ; PLAT. <i>Prot. 329d, Leg. 855e ; gén</i>. SPT. <i>Ps. 118, 20</i>.`

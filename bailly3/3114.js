@@ -1,1 +1,0 @@
-lar[3114]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰκ]</font> hérisson, porc-épic, GAL. <i>12, 423</i>.`

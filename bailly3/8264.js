@@ -1,1 +1,0 @@
-lar[8264]=`<b>ἀν·εκφοίτητος, ος, ον</b>, inséparable, indivisible, PROCL. <i>Plat. Tim. 2</i>.<p><b>Étym</b>. ἀν-, ἐκφοιτάω.`

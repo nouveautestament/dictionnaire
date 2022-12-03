@@ -1,1 +1,0 @@
-lar[51502]=`<b>ου (ὁ)</b> mets lydien, composé de farine, de fromage et de lait, ALEX. (ATH. <i>516c</i>) ; PHILÉM. (<i>ibid.) etc</i>.<p><b>Étym</b>. <i>cf</i>. κάνδυλος.`

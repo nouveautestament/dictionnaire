@@ -1,1 +1,0 @@
-lar[56150]=`<b>οῦ (ὁ)</b> action de laver, <i>d’où</i> lotion <i>ou</i> lavement, RUF. <i>p. 213 Matthäi</i> ; HIPPIATR. <i>p. 106, 14</i>.<p><b>Étym</b>. κλύζω.`

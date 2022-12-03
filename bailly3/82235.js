@@ -1,1 +1,0 @@
-lar[82235]=`<b>πολύ·πηχυς, υος (ὁ, ἡ)</b> <font color="purple">[λῠ]</font> à plusieurs bras, NONN. <i>D. 1, 204</i>.<p><b>Étym</b>. π. πῆχυς.`

@@ -1,1 +1,0 @@
-lar[68443]=`<b>νεωκορέω-ῶ :<br>      1</b> prendre soin d’un temple, SYN. <i>178a ; d’où ironiq.,</i> ν. ἱερόν τι, PLAT. <i>Rsp. 574d</i>, soigner <i>ou</i> nettoyer un temple, <i>càd</i>. le piller de fond en comble.<br><b>      2</b> <i>p. ext</i>. prendre un soin religieux de, <i>acc</i>. LUC. <i>Am. 48</i>.<p><b>Étym</b>. νεωκόρος.`

@@ -1,1 +1,0 @@
-lar[57090]=`<b>ης (ἡ)</b> Korkynè, <i>nourrice d’Ariadnè,</i> PLUT. <i>Thes. 20</i>.`

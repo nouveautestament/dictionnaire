@@ -1,1 +1,0 @@
-lar[52072]=`<b>ίδος</b> <font color="purple">[τᾰ]</font> <i>adj. f. au pl</i>. Κασταλίδες νύμφαι, THCR. <i>Idyl. 7, 148,</i> les nymphes de Kastalia, <i>càd</i>. les Muses.<p><b>Étym</b>. Κασταλία.`

@@ -1,1 +1,0 @@
-lar[74474]=`<b>υδος (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Palamys, <i>h</i>. ESCHL. <i>fr. 437 Nauck</i>.`

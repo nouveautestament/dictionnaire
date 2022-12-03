@@ -1,1 +1,0 @@
-lar[71778]=`<b>ὁμόω-ῶ :<br>      1</b> unir, IL. <i>14, 209</i>.<br><b>      2</b> assimiler (<i>fut. moy. au sens pass</i>.) NIC. <i>Th. 334</i>.<p><b>Étym</b>. ὁμός.`

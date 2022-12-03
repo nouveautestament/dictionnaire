@@ -1,1 +1,0 @@
-lar[67553]=`<i>adv</i>., follement, sottement, XÉN. <i>An. 7, 6, 21</i>.<p><b>Étym</b>. μωρός.`

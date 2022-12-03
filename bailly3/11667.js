@@ -1,1 +1,0 @@
-lar[11667]=`<b>ἀπ·ελεύθερος, ου (ὁ)</b> un affranchi, <i>p. opp. à</i> ἐλεύθερος, PLAT. <i>Leg. 930d ; à</i> δοῦλος <i>et à</i> μέτοικος, XÉN. <i>Ath. 1, 10</i> ; ARSTT. <i>Pol. 3, 5, 2 ; avec un gén</i>. ἀπ. τινος, NT. <i>1Cor. 7, 22</i> ; ARR. <i>Epict. 1, 1, 20</i> ; PLUT. <i>M. 278e, 634b</i>, l’affranchi de qqn.<p><b>Étym</b>. ἀπό, ἐλεύθερος.`

@@ -1,1 +1,0 @@
-lar[28343]=`<b>δυσ·εκκάθαρτος, ος, ον</b> <font color="purple">[ῠκᾰ]</font> difficile à purifier, DH. <i>4, 24</i>.<p><b>Étym</b>. δ. ἐκκαθαίρω.`

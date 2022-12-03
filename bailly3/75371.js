@@ -1,1 +1,0 @@
-lar[75371]=`<b>παρά·βακχος, ος, ον</b>, transporté de fureur bachique, <i>ou en gén</i>. de fureur, PLUT. <i>Dem. 9</i>.<p><b>Étym</b>. π. βάκχος.`

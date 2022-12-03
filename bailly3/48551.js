@@ -1,1 +1,0 @@
-lar[48551]=`<font color="purple">[ᾱ]</font> être prêtre <i>ou</i> prêtresse, SPT. <i>Ex. 28, 1, etc.</i> ; NT. <i>Luc. 1, 8</i> ; θεῷ, HDN <i>5, 6, 6,</i> d’une divinité.<br><b><i>Moy.</i></b> <i>m. sign. avec le dat</i>. SYN. <i>Ep. 76</i>.<p><b>Étym</b>. ἰεράομαι.`

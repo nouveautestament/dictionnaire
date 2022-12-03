@@ -1,1 +1,0 @@
-lar[14635]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’Arisbè, IL. <i>2, 838 ; 14, 96</i>.<p><b>Étym</b>. Ἀρίσβη, -θεν.`

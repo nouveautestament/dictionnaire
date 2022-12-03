@@ -1,1 +1,0 @@
-lar[95594]=`<b>συν·επερίζω</b>, lutter contre, <i>dat</i>. ANTH. <i>9, 709</i>.`

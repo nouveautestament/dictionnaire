@@ -1,1 +1,0 @@
-lar[104215]=`<b>ος, ον :<br>      1</b> qu’on regarde en dessous, vu de mauvais œil, odieux : ἄλλων, IL. <i>3, 42</i> ; Q. SM. <i>13, 289,</i> aux autres.<br><b>      2</b> exposé aux regards, qu’on voit facilement, OPP. <i>H. 1, 30</i>.<p><b>Étym</b>. ὑπόψομαι.`

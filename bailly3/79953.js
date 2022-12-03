@@ -1,1 +1,0 @@
-lar[79953]=`<i>adv</i>., avec parcimonie, HPC. <i>1139f ;</i> EL. <i>N.A. 7, 45, etc. ; avec le gén</i>. EL. <i>N.A. 6, 24</i>.`

@@ -1,1 +1,0 @@
-lar[13332]=`<b>ἀπο·σκνιφόω-ῶ</b> <font color="purple">[ῑ]</font> obscurcir, EMPÉD. (PLUT. <i>M. 929c</i>).<p><b>Étym</b>. ἀ. κνίψ.`

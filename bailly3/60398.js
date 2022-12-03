@@ -1,1 +1,0 @@
-lar[60398]=`<b>λεπτό·γαστρος, ος, ον</b>, au ventre grêle <i>ou</i> mince, HPC. <i>1133c</i>.<p><b>Étym</b>. λ. γαστήρ.`

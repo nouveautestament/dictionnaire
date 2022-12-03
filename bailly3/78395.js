@@ -1,1 +1,0 @@
-lar[78395]=`<b>περι·απλόω-ῶ</b>, déployer autour, PLUT. <i>M. 809c</i>.`

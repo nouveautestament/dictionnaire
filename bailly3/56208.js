@@ -1,1 +1,0 @@
-lar[56208]=`<b>ή, όν</b>, filé, tordu, EUR. <i>Tr. 537</i> ; JOS. <i>A.J. 3, 7, 1</i>.<p><b>Étym</b>. <i>vb. de</i> κλώθω.`

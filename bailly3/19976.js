@@ -1,1 +1,0 @@
-lar[19976]=`<b>(τὸ)</b> <i>indécl., mot créé pour imiter</i> le son de la lyre, SEXT. <i>M. 8, 133</i> ; DL. <i>7, 57, etc</i>.`

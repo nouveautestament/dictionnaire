@@ -1,1 +1,0 @@
-lar[48260]=`<b>υγος (ὁ)</b> <font color="purple">[ᾱ]</font> Iapyx, <i>n. d’esclave,</i> ANTIPH. (ATH. <i>423d</i>).`

@@ -1,1 +1,0 @@
-lar[16403]=`<b>Ἀστύ·φιλος, ου (ὁ)</b> <font color="purple">[ῠῐ]</font> Astyphilos, <i>h</i>. IS. PLUT. <i>etc</i>.<p><b>Étym</b>. ἄστυ, φίλος.`

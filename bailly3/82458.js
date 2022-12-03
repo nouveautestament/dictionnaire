@@ -1,1 +1,0 @@
-lar[82458]=`<b>Πολυ·τίων, ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Polytiôn, <i>Athénien,</i> PLUT. <i>Alc. 19, etc</i>.<p><b>Étym</b>. π. τίω.`

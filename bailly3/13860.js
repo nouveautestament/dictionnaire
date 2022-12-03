@@ -1,1 +1,0 @@
-lar[13860]=`<b>οῦ (ὁ)</b> Appien, <i>historien romain</i>.<p><b>Étym</b>. <i>lat</i>. Appiānus.`

@@ -1,1 +1,0 @@
-lar[42340]=`<b>εὐ·ΐερος, ος</b> <i>ou</i> <b>α, ον</b>, conforme au rite, ANTH. <i>6, 231</i>.<p><b>Étym</b>. εὖ, ἱερός.`

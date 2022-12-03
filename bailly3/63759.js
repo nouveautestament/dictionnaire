@@ -1,1 +1,0 @@
-lar[63759]=`<b>μελάγ·κερως, ως, ων</b>, aux cornes noires, ESCHL. <i>Ag. 1127</i>.<p><b>Étym</b>. μ. κέρας.`

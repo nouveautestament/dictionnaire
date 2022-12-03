@@ -1,1 +1,0 @@
-lar[39090]=`<font color="purple">[ᾰ]</font> <i>adv</i>., habilement, avec art, IL. <i>10, 265</i> ; OD. <i>20, 161</i> ; HÉS. <i>O. 107</i> ; XÉN. <i>Cyr. 1, 1, 3</i>.<p><b>Étym</b>. ἐπιστάμενος, <i>v</i>. ἐπίσταμαι.`

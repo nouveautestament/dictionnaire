@@ -1,1 +1,0 @@
-lar[68037]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> aunée, <i>plante,</i> DIOSC. <i>1, 27 ; cf</i>. ἑλένιον.`

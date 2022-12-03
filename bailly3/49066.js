@@ -1,1 +1,0 @@
-lar[49066]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> bondissant, <i>ép. de la chèvre, du bouc,</i> IL. <i>4, 105</i> ; ANTH. <i>6, 32 ; 99, 113</i>.`

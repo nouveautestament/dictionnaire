@@ -1,1 +1,0 @@
-lar[45464]=`<b>ἡμικυκλιώδης, ης, ες</b> <font color="purple">[μῐ]</font> de forme à peu près demi-circulaire, STR. <i>597</i>.<p><b>Étym</b>. ἡμικύκλιος, -ωδης.`

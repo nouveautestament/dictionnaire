@@ -1,1 +1,0 @@
-lar[87600]=`<b>ακτος (ὁ)</b> <font color="purple">[ῡ]</font> Pythônax, <i>h</i>. SIM. <i>fr. 123 (179) Bgk</i> ; DÉM. <i>9, 42 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Πυθώ, ἄναξ.`

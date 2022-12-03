@@ -1,1 +1,0 @@
-lar[20282]=`<b>ων (τὰ)</b> pâturages, THC. <i>5, 53</i>.<p><b>Étym</b>. <i>sel. d’autres</i> παραποτάμια.`

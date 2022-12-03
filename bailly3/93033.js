@@ -1,1 +1,0 @@
-lar[93033]=`<b>όνος (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> le Strymon (<i>auj</i>. Strouma <i>ou</i> Strymónas) <i>fl. de Thrace,</i> HDT. <i>1, 64, etc.</i> ; ESCHL. <i>Ag. 192</i> ; THC. <i>1, 98, etc.</i><br><b>      2</b> Strymon, <i>dieu de ce fleuve,</i> HÉS. <i>Th. 339, etc</i>.`

@@ -1,1 +1,0 @@
-lar[12109]=`<b>ἀπο·αίνυμαι</b> (<i>seul. prés</i>. IL. <i>13, 262</i> ; OD. <i>17, 322, et impf. 3 sg</i>. ἀποαίνυτο, OD. <i>12, 419</i>) enlever, ôter (des armes) IL. <i>11, 582 ; fig</i>. ravir (de la gloire, <i>etc</i>.) IL. <i>15, 595, etc.</i> ; τί τινος, IL. <i>13, 262</i> ; OD. <i>17, 322,</i> enlever qqe ch. à qqn.<p><b>Étym</b>. <i>cf</i>. ἀπαίνυμαι.`

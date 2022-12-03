@@ -1,1 +1,0 @@
-lar[99482]=`<b>τοιουτό·χροος, οος, οον</b>, d’une pareille couleur, HPC. <i>1212g</i>.<p><b>Étym</b>. τ. χρόα.`

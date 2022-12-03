@@ -1,1 +1,0 @@
-lar[60564]=`<b>Λευκο·θέα, ας (ἡ)</b> Leukothéa, <i>divinité de la lumière du matin,</i> OD. <i>5, 334</i> ; PD. <i>P. 11, 2</i>.<p>➳ <i>Épq</i>. -θέη, OD. <i>l. c</i>.<p><b>Étym</b>. λ. θεά.`

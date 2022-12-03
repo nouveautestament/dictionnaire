@@ -1,1 +1,0 @@
-lar[62548]=`<b>μακρο·πρόσωπος, ος, ον</b>, qui a la figure allongée, M. RUBR. <i>62</i>.<p><b>Étym</b>. μ. πρόσωπον.`

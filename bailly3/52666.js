@@ -1,1 +1,0 @@
-lar[52666]=`<b>κατα·κυλινδέω-ῶ</b> <font color="purple">[ῠ]</font> faire rouler de haut en bas, JOS. <i>B.J. 4, 1, 10</i> ; DC. <i>56, 14</i>.`

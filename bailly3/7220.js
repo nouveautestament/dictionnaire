@@ -1,1 +1,0 @@
-lar[7220]=`<b>ἀν·αμφίβολος, ος, ον</b>, non douteux, non contestable, DH. <i>3, 57</i>.`

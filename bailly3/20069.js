@@ -1,1 +1,0 @@
-lar[20069]=`<b>βοθρόω-ῶ</b>, faire un trou, creuser, GAL. <i>8, 77f ; d’où au pass</i>. se creuser, GAL. <i>8, 614e ;</i> DIOSC. <i>p. 113, 34, éd. Cocch.</i> ; P. ÉG. <i>4, 144</i>.<p><b>Étym</b>. βόθρος.`

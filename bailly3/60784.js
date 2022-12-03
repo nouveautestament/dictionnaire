@@ -1,1 +1,0 @@
-lar[60784]=`<b>ληκυθο·ποιός, οῦ (ὁ)</b> fabricant de fioles à huile <i>ou</i> à parfums, STR. <i>717</i>.<p><b>Étym</b>. λήκυθος, ποιέω.`

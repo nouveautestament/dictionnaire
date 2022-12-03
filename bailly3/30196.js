@@ -1,1 +1,0 @@
-lar[30196]=`<i>adv</i>., par nations entières, JOS. <i>Macc. 2, 500</i>.<p><b>Étym</b>. ἔθνος, -δον.`

@@ -1,1 +1,0 @@
-lar[85244]=`<b>προσ·αποθλίβω</b> <font color="purple">[ῑ]</font> presser fortement <i>ou</i> serrer contre, <i>rég. ind. au dat</i>. JOS. <i>A.J. 9, 4, 4</i>.`

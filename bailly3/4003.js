@@ -1,1 +1,0 @@
-lar[4003]=`<font color="purple">[ῡ]</font> <i>adv</i>., sans empêchement, PLAT. <i>Crat. 415d</i>.`

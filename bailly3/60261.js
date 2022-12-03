@@ -1,1 +1,0 @@
-lar[60261]=`<b>λεκτρο·κλόπος, ος, ον</b>, adultère, <i>propr</i>. voleur de lit, SIB. <i>1, 178</i>.<p><b>Étym</b>. λέκτρον, κλέπτω.`

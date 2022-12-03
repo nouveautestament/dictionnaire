@@ -1,1 +1,0 @@
-lar[31770]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> luxation, HPC. <i>Fract. 777</i>.<p><b>Étym</b>. ἐκπαλέω.`

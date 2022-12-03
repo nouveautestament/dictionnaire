@@ -1,1 +1,0 @@
-lar[52335]=`<b>κατα·διώκω</b>, poursuivre, XÉN. <i>An. 4, 2, 5, etc.</i> ; ARSTT. <i>H.A. 9, 36 ; fig</i>. POL. <i>6, 42, 1</i> ; pousser, SPT. <i>Gen. 33, 13</i>.`

@@ -1,1 +1,0 @@
-lar[28066]=`<b>ῶν (οἱ)</b> les Dymanates, <i>ancêtres des Sicyoniens,</i> HDT. <i>5, 68</i>.`

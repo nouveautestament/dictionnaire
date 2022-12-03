@@ -1,1 +1,0 @@
-lar[51264]=`<b>Καλλί·χορος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Kallikhoros (<i>auj</i>. Oksina <i>ou</i> Kosch) <i>fl. de Paphlagonie,</i> A.RH. <i>2, 904</i>.<p><b>Étym</b>. <i>v</i>. καλλίχορος.`

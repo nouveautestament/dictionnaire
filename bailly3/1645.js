@@ -1,1 +1,0 @@
-lar[1645]=`<b>ἀ·ειδής, ής, ές :<br>      1</b> qui n’a pas de forme, immatériel, invisible, PLAT. <i>Phæd. 79a.</i><br><b>      2</b> qu’on ne peut reconnaître, PLAT. <i>Ax. 365c.</i><br><b>      3</b> dont on ne peut supporter la vue, difforme, laid, PHILÉT. (ATH. <i>587c</i>) ; DS. <i>2, 4</i> ; DL. <i>4, 34</i>.<p><b>Étym</b>. ἀ, εἶδος.`

@@ -1,1 +1,0 @@
-lar[102842]=`<b>ὑπερ·τρυφάω-ῶ</b> <font color="purple">[τρῠ]</font> vivre dans une mollesse <i>ou</i> une sensualité extrême, LUC. <i>J. tr. 48</i> ; DC. <i>62, 28</i>.`

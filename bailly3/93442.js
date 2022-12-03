@@ -1,1 +1,0 @@
-lar[93442]=`<b>συγ·κινδυνεύω</b> <font color="purple">[δῡ]</font><br><b>      1</b> s’exposer à un danger avec, <i>dat</i>. PLAT. <i>Leg. 969a ; abs</i>. XÉN. <i>Ages. 11, 13</i> ; PLAT. <i>Phil. 29a, etc.</i><br><b>      2</b> <i>particul</i>. être compagnon d’armes : τινί, THC. <i>8, 22</i> ; PLUT. <i>Sol. 20, Alex. 19, Demetr. 40</i> ; μετά τινος, POL. <i>2, 3, 5,</i> de qqn.`

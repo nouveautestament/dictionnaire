@@ -1,1 +1,0 @@
-lar[94983]=`<b>συν·αρωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui vient en aide, auxiliaire, HH. <i>7, 4</i> ; ANTH. <i>6, 259</i>.`

@@ -1,1 +1,0 @@
-lar[104087]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de montrer à moitié : ὀφθαλμῶν, HPC. <i>Progn. 37, Aph. 1258</i> ; ARÉT. <i>Caus. m. acut. 1, 5</i> ; GAL. <i>8, 599,</i> action d’entr’ouvrir les yeux, yeux qui ne sont qu’entr’ouverts à cause du sommeil.<p><b>Étym</b>. ὑποφαίνω.`

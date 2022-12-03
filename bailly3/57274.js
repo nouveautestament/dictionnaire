@@ -1,1 +1,0 @@
-lar[57274]=`<b>κοσμο·διοικητικός, ή, όν</b>, relatif au gouvernement du monde, STOB. <i>Ecl. 2, 66</i>.<p><b>Étym</b>. κ. διοικέω.`

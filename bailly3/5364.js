@@ -1,1 +1,0 @@
-lar[5364]=`<b>ἀμβο·ειδής, ής, ές</b>, bossu, saillant, ORIB. <i>p. 133 Mai</i>.<p><b>Étym</b>. ἄμβων, εἶδος.`

@@ -1,1 +1,0 @@
-lar[27402]=`<b>δοκόω-ῶ</b>, garnir d’une charpente, SEXT. <i>144, 458 Bkk</i>.<p><b>Étym</b>. δοκός.`

@@ -1,1 +1,0 @@
-lar[66152]=`<b>Μνασι·δίκα, ας (ἡ)</b> <font color="purple">[ᾱῐῐᾱ]</font> Mnasidika, <i>f</i>. SAPPH. (HÉPH. <i>p. 64, 5).</i><p><b>Étym</b>. μνάομαι, δίκη.`

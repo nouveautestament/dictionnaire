@@ -1,1 +1,0 @@
-lar[67901]=`<b>ης (ἡ)</b> <i>s.-e</i>. χορδή, PLAT. <i>Rsp. 443d ; par contract</i>. νήτη, ARSTT. <i>Phys. 5, 17, etc.</i> ; PLUT. <i>M. 1139d</i>, la dernière corde de la lyre, la corde au son le plus aigu.<p><b>Étym</b>. <i>fém. de</i> νέατος.`

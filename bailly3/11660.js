@@ -1,1 +1,0 @@
-lar[11660]=`<b>ἀ·πελέκητος, ος, ον :<br>      1</b> non dégrossi avec la hache, TH. <i>H.P. 3, 8, 7</i> ; SPT. <i>3Reg. 6, 2 ; 3, 10, 12</i>.<br><b>      2</b> <i>fig</i>. rude, grossier, CRANT. (DL. <i>4, 27).</i><p><b>Étym</b>. ἀ, πελεκάω.`

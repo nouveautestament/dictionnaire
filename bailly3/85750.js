@@ -1,1 +1,0 @@
-lar[85750]=`<b>προσ·επιφθέγγομαι :<br>      1</b> dire en outre, ajouter à ce qu’on a dit, POL. <i>10, 4, 7</i>.<br><b>      2</b> jeter un cri comme présage DC. <i>72, 24</i>.`

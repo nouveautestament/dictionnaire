@@ -1,1 +1,0 @@
-lar[49100]=`<b>α (ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. Juba, <i>roi de Maurétanie, auteur de plus. ouvrages grecs,</i> PLUT. <i>Cæs. 55</i>.`

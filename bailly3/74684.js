@@ -1,1 +1,0 @@
-lar[74684]=`<b>παμ·βέβηλος, ος, ον</b>, tout à fait impur, criminel, ANON. (SUID. <i>v°</i> Κωνσταντῖνος).<p><b>Étym</b>. π. βέβηλος.`

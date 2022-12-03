@@ -1,1 +1,0 @@
-lar[96443]=`<b>ας (ἡ)</b> accord, concert, PLAT. <i>Leg. 837e ;</i> ARSTD. <i>t. 1, 261</i>.<p><b>Étym</b>. συνῳδός.`

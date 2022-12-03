@@ -1,1 +1,0 @@
-lar[82022]=`<b>πολύ·κοπος, ος, ον</b> <font color="purple">[ῠ]</font> qui se frappe sans cesse en signe de deuil, ATH. <i>20e</i>.<p><b>Étym</b>. π. κόπτω.`

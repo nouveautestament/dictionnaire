@@ -1,1 +1,0 @@
-lar[47040]=`<b>ος, ον</b>, <i>c</i>. θεσπέσιος, HÉS. <i>fr. 54 Gaisford</i> ; ORACL. (AR. <i>Av. 977</i>).`

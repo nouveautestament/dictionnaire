@@ -1,1 +1,0 @@
-lar[63735]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de jeune homme, PLAT. <i>Rsp. 498b ;</i> τὸ μ. DH. <i>Isocr. 12,</i> la jeunesse, l’allure jeune du style.<br><b>      2</b> <i>en mauv. part,</i> puéril, PLAT. <i>Rsp. 466b ;</i> ARSTT. <i>Rhet. 3, 11, 16</i> ; τὸ μ. LGN <i>3, 4,</i> puérilité.<p><b>Étym</b>. μειράκιον, -ωδης.`

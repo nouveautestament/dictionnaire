@@ -1,1 +1,0 @@
-lar[78178]=`<font color="purple">[ᾰ]</font> <i>inf. ao.2 poét</i>. faire pénétrer, <i>d’où</i> faire voir, montrer, PD. <i>P. 2, 105</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *prh₃-, donner, procurer ; <i>cf</i>. *πόρω.`

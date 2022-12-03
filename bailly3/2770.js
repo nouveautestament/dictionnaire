@@ -1,1 +1,0 @@
-lar[2770]=`<b>αἰολο·σκόπος, ος, ον</b>, qui observe avec ruse, NAZ.<p><b>Étym</b>. αἰ. σκοπέω.`

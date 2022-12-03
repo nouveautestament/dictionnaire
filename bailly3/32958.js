@@ -1,1 +1,0 @@
-lar[32958]=`<b>ἐλ·λιμένιος, α, ον</b> <font color="purple">[λῐ]</font><br><b>      1</b> situé dans un port, STR. <i>60</i>.<br><b>      2</b> qui concerne le mouillage : τὸ ἐλλιμένιον, ARSTT. <i>Œc. 2, 23</i> ; POL. <i>31, 7, 12, c</i>. ἐλλιμενικόν.`

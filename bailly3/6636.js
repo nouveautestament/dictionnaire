@@ -1,1 +1,0 @@
-lar[6636]=`<b>ατος (τὸ) :<br>      1</b> sujet de lecture, DH. <i>1, 8</i> ; PLUT. <i>M. 328d.</i><br><b>      2</b> la lecture elle-même, LUC. <i>V.H. 1, 2</i>.<br><b>      3</b> leçon d’un texte, DYSC. <i>Pron. 313, 318</i>.`

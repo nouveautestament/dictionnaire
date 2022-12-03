@@ -1,1 +1,0 @@
-lar[31481]=`<b>ἐκ·κοπρίζω</b>, rendre des excréments, HPC. <i>3, 1100b ;</i> HIPPIATR. <i>106, 15</i>.`

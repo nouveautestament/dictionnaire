@@ -1,1 +1,0 @@
-lar[105813]=`<b>φιλοιστρο·μανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui aime passionnément les transports des fêtes de Bacchus <i>ou</i> de Cybèle, ORPH. <i>H. 13, 3, etc</i>.<p><b>Étym</b>. φ. μαίνομαι.`

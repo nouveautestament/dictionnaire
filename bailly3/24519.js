@@ -1,1 +1,0 @@
-lar[24519]=`<b>δι·άγχω</b> (<i>prés. sbj. 2 pl</i>. -άγχητε) étouffer, suffoquer, LUC. <i>Anach. 31</i>.`

@@ -1,1 +1,0 @@
-lar[71884]=`<b>ου (ὁ)</b> songe, rêve, IL. <i>2, 56, etc.</i> ; OD. <i>6, 49, etc.</i> ; ESCHL. <i>Ag. 274, etc.</i> ; EUR. <i>Hec. 74, etc.</i> ; PLAT. <i>Leg. 910, etc. ; fig</i>. rêverie, vaine chimère, OD. <i>11, 207, etc</i>.<p><b>Étym</b>. <i>cf</i>. ὄναρ.`

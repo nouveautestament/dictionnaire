@@ -1,1 +1,0 @@
-lar[4425]=`<b>ἁλι·βδύω</b> <font color="purple">[ᾰῡ]</font> (<i>seul. prés. et part. ao</i>.) :<br><b>      1</b> plonger dans la mer, CALL. <i>fr. 269 (prés</i>.).<br><b>      2</b> submerger, <i>en gén., d’où</i> couvrir, cacher, LYC. <i>351 (part. ao</i>. -ύσασα).<p><b>Étym</b>. ἅλς, βδύω.`

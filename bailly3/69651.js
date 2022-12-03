@@ -1,1 +1,0 @@
-lar[69651]=`(<i>seul. prés. et ao</i>. ἐξυλισάμην) <font color="purple">[ῠ]</font> ramasser du bois, XÉN. <i>An. 2, 4, 11</i> ; PLUT. <i>Artax. 25 ; fig</i>. ALCIPHR. <i>1, 1</i>.<p><b>Étym</b>. ξύλον.`

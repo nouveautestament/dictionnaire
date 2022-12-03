@@ -1,1 +1,0 @@
-lar[12839]=`<font color="purple">[ῠ]</font> <i>adv</i>., absolument, SEXT. <i>P. 1, 135, etc.</i> ; MÉN. RHÉT. <i>9, 316 W</i>.<p><b>Étym</b>. ἀπόλυτος.`

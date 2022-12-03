@@ -1,1 +1,0 @@
-lar[14758]=`<b>ἀριστό·τοκος, ος, ον</b> <font color="purple">[ᾰ]</font> né de la plus noble race, EUR. <i>Rhes. 909</i>.<p><b>Étym</b>. ἄ. τίκτω.`

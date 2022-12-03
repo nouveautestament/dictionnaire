@@ -1,1 +1,0 @@
-lar[16045]=`<b>ου (ὁ)</b> <font color="purple">[πῐ]</font> armé d’un bouclier, IL. <i>2, 554 ; 16, 167</i> ; THCR. <i>Idyl. 14, 67</i> ; POL. <i>10, 29 ; etc</i>.`

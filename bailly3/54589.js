@@ -1,1 +1,0 @@
-lar[54589]=`<b>ιδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. sonore, retentissante, PD. <i>N. 4, 140</i>.<p><b>Étym</b>. κελαδέω.`

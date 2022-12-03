@@ -1,1 +1,0 @@
-lar[30804]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de s’introduire, de s’insinuer, PLUT. <i>M. 901a, 906e</i> ; PHIL. <i>2, 481, etc</i>.<p><b>Étym</b>. εἰσκρίνω.`

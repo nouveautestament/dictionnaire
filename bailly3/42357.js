@@ -1,1 +1,0 @@
-lar[42357]=`<b>ατος (τὸ)</b> ce qu’on fait à propos, STOB. <i>Ecl. 2, 194</i>.<p><b>Étym</b>. εὐκαιρέω.`

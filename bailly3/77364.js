@@ -1,1 +1,0 @@
-lar[77364]=`<i>adv.</i> :<br><b>      1</b> selon la coutume des ancêtres, JOS. <i>B.J. 1, 24, 2</i>.<br><b>      2</b> dans la langue du pays, JOS. <i>B.J. 5, 2, 1</i>.<p><b>Étym</b>. πάτριος.`

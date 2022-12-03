@@ -1,1 +1,0 @@
-lar[101115]=`<b>α (ὁ)</b> Tyrbas, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. τύρβη.`

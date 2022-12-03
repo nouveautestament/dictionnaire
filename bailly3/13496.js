@@ -1,1 +1,0 @@
-lar[13496]=`<b>ἀπο·σφαιρίζω</b>, renvoyer comme une balle, ARSTT. <i>Probl. 24, 9</i>.`

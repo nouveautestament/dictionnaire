@@ -1,1 +1,0 @@
-lar[73004]=`<b>ου (τὸ)</b> <i>sorte de plante,</i> GAL. κ. τόπ. <i>9, 1</i>.`

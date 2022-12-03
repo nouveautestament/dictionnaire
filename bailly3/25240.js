@@ -1,1 +1,0 @@
-lar[25240]=`<b>δια·περιπατέω-ῶ</b> <font color="purple">[πᾰ]</font> (<i>seul. prés. part</i>. -πατῶν) aller et venir en se promenant, ATH. <i>157e, 539c</i>.`

@@ -1,1 +1,0 @@
-lar[30798]=`<b>εἰσ·κλάω-ῶ</b> (<i>part. prés. pass</i>. -ωμένας) briser dans, <i>d’où au pass</i>. se briser dans ; <i>p. suite,</i> se replier dans, DIOSC. <i>Par. 1, 53</i>.`

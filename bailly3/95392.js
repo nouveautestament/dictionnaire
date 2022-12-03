@@ -1,1 +1,0 @@
-lar[95392]=`<b>συν·εκπολεμέω-ῶ</b>, soumettre <i>ou</i> subjuguer également, DS. <i>15, 25 ; 16, 43</i>.`

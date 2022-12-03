@@ -1,1 +1,0 @@
-lar[24643]=`<b>ου (ὁ)</b> celui qui dispose, qui met en ordre, HDT. <i>7, 6</i>.<p><b>Étym</b>. διατίθημι.`

@@ -1,1 +1,0 @@
-lar[81905]=`<b>ας (ἡ)</b> vastes connaissances, grande instruction, OLYMPIOD. <i>V. Plat. init</i>.<p><b>Étym</b>. πολυήκοος.`

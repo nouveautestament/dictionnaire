@@ -1,1 +1,0 @@
-lar[10734]=`<i>adv</i>., sans passer par-dessus, <i>d’où</i> :<br><b>      1</b> d’une façon continue, NICOM. <i>Arithm. 2, 23</i>.<br><b>      2</b> immédiatement, GAL. <i>8, 906</i>.`

@@ -1,1 +1,0 @@
-lar[28085]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. δύναμις, PD. <i>P. 4, 424 ; 5, 158</i> ; SOPH. <i>Ant. 604</i> ; EUR. <i>Andr. 483</i>.`

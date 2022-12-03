@@ -1,1 +1,0 @@
-lar[56619]=`<b>(οἱ)</b> les Koliades, <i>pple d’Ithaque,</i> PLUT. <i>Qu. gr. 14</i>.`

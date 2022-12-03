@@ -1,1 +1,0 @@
-lar[110]=`<font color="purple">[λᾰ]</font> <i>adv</i>., sans faire de mal, sans causer de dommage, THC. <i>5, 18 et 47</i>.<p>•<i> Sup</i>. ἀβλαβέστατα, XÉN. <i>Eq. 6, 1</i>.<p>➳ <i>Ion</i>. ἀβλαβέως, HH. <i>Merc. 83</i>.<p><b>Étym</b>. ἀβλαβής.`

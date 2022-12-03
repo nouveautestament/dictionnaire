@@ -1,1 +1,0 @@
-lar[79590]=`<b>εως (ἡ)</b> <font color="purple">[φῑ]</font> rétrécissement du prépuce, P. ÉG. <i>6, 55</i>.<p><b>Étym</b>. περιφιμόω.`

@@ -1,1 +1,0 @@
-lar[70386]=`<b>ατος (τὸ)</b> bâtiment, construction, HDT. <i>2, 121, etc.</i> ; THC. <i>4, 90</i> ; XÉN. <i>Hell. 4, 5, 6, etc</i>.<p><b>Étym</b>. οἰκοδομέω.`

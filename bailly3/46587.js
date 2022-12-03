@@ -1,1 +1,0 @@
-lar[46587]=`<b>θεμιστο·πόλος, ος, ον</b>, qui administre la justice, HH. <i>Cer. 103</i>.<p><b>Étym</b>. θ. πολέω.`

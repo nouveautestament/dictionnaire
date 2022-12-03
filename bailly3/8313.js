@@ -1,1 +1,0 @@
-lar[8313]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> plein de vent, ARAR. <i>(Bkk. 81</i>) ; ATH. <i>57e, d’où</i> stérile, vain, <i>p. opp. à</i> γόνιμος, PLAT. <i>Theæt. 151e ; joint à</i> ψεῦδος, <i>ibid. ; 161a, etc</i>.<p><b>Étym</b>. ἀνεμία.`

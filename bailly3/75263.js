@@ -1,1 +1,0 @@
-lar[75263]=`<b>παντ·ολιγοχρόνιος, ος, ον</b> <font color="purple">[ῐγ]</font> d’une durée tout à fait courte, ANTH. <i>7, 167</i>.`

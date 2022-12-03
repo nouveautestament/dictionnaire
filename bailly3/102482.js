@@ -1,1 +1,0 @@
-lar[102482]=`<i>adv</i>., éminemment, supérieurement, JAMBL. <i>Protr. p. 136</i>.<p><b>Étym</b>. ὑπερέχω.`

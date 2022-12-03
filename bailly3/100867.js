@@ -1,1 +1,0 @@
-lar[100867]=`<b>οῦ (ὁ)</b> murmure, NAZ. <i>Carm. t. 3, 1271a</i>.<p><b>Étym</b>. τρύζω.`

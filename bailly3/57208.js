@@ -1,1 +1,0 @@
-lar[57208]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> qui s’élève en pointe, HPC. <i>Epid. 1165</i>.<p><b>Étym</b>. κορυφή, -ωδης.`

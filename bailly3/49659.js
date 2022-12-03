@@ -1,1 +1,0 @@
-lar[49659]=`<b>ἰσοκρατέω-ῶ</b> <font color="purple">[ῑ̆ᾰ]</font> avoir une puissance <i>ou</i> une force égale, SEXT. <i>M. 10, 81</i> ; GAL. <i>6, 528</i>.<p><b>Étym</b>. ἰσοκρατής.`

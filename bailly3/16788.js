@@ -1,1 +1,0 @@
-lar[16788]=`<b>ἀ·τημελής, ής, ές :<br>      1</b> négligent de, <i>gén</i>. SEXT. <i>M. 6, 28</i>.<br><b>      2</b> négligé, PLUT. <i>Ant. 18</i>.<p><b>Étym</b>. ἀ, τημελέω.`

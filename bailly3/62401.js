@@ -1,1 +1,0 @@
-lar[62401]=`<b>ονος (ὁ)</b> Mæôn :<br><b>      1</b> <i>fils d’Hæmôn,</i> IL. <i>2, 394, 398</i>.<br><b>      2</b> <i>père d’Homère,</i> LUC. <i>Dem. enc. 9</i>.<br><b>      3</b> <i>autre,</i> ANTH. <i>9, 645</i>.`

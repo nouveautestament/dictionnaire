@@ -1,1 +1,0 @@
-lar[77835]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> fils <i>ou</i> descendant de Pélops (Agamemnon, HDT. <i>7, 158</i> ; Thésée, PLUT. <i>Thes. 3, etc</i>.) ; οἱ Πελοπίδαι, ESCHL. <i>Ag. 1600, etc.</i> ; SOPH. <i>El. 10, etc.</i> ; THC. <i>1, 9</i> ; PLAT. <i>Leg. 685d</i>, les Pélopides <i>ou</i> descendants de Pélops.<p><b>Étym</b>. Πέλοψ.`

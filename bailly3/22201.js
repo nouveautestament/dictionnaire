@@ -1,1 +1,0 @@
-lar[22201]=`<b>ή, όν</b>, propre à graver, POLL. <i>7, 209</i>.<p><b>Étym</b>. γλύφω.`

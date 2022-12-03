@@ -1,1 +1,0 @@
-lar[66609]=`<b>μονο·πρόσωπος, ος, ον :<br>      1</b> d’une seule personne : μ. ποίησις, DL. <i>2, 112,</i> monologue.<br><b>      2</b> <i>t. de gr</i>. qui n’a qu’une personne <i>ou</i> ne sert que pour une personne, <i>c. le pron</i>. ἐκεῖνος, <i>p. opp. à</i> αὐτός, DYSC. <i>Pron. 20b, 41c, etc</i>.<p><b>Étym</b>. μ. πρόσωπον.`

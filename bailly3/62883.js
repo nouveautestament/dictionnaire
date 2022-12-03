@@ -1,1 +1,0 @@
-lar[62883]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> de Marathon, ESCHL. <i>fr. Ep. 4</i> ; PLUT. <i>Thes. 14, etc</i>.<p><b>Étym</b>. Μαραθών.`

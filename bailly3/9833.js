@@ -1,1 +1,0 @@
-lar[9833]=`<b>ἀντι·διαλλάττομαι :<br>      1</b> échanger : τινά τινος, DH. <i>Exc. 4,</i> qqn (un prisonnier) contre un autre.<br><b>      2</b> changer, intervertir, DH. <i>1, 84</i>.`

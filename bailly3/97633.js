@@ -1,1 +1,0 @@
-lar[97633]=`<b>ου (τὸ)</b> <font color="purple">[τᾰτῑνῐ]</font> vêtement d’un fin tissu <i>comme en portaient les femmes de Tarente,</i> LUC. <i>Cal. 16 ; D. mer. 7, 2</i>.<p><b>Étym</b>. Ταραντῖνος.`

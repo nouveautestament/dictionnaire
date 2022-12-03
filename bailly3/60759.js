@@ -1,1 +1,0 @@
-lar[60759]=`<b>ληϊ·νόμος, ος, ον</b> <font color="purple">[ῐ]</font> qui habite les guérets, les champs, A. PL. <i>4, 94</i>.<p><b>Étym</b>. λήϊον, νέμω.`

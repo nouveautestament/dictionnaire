@@ -1,1 +1,0 @@
-lar[27028]=`<b>δισ·κόραξ, ακος (ὁ)</b> double flatteur, <i>jeu de mots sur le nom du rhéteur</i> Κόραξ, LUC. <i>Pseud. 30</i>.<p><b>Étym</b>. δίς, κόραξ.`

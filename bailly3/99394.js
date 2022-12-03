@@ -1,1 +1,0 @@
-lar[99394]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> Tityos, <i>Géant,</i> OD. <i>11, 576</i> ; PD. <i>P. 4, 90</i> ; PLAT. <i>Gorg. 525e, Ax. 371e ;</i> LUC. <i>D. mort. 30, 1, etc</i>.<p>➳ <i>Gén. épq</i>. -οιο, NONN. <i>D. 20, 77, etc. ; plur</i>. Τιτυοί, PLUT. <i>De fac. in orb. Lun. 30</i>.`

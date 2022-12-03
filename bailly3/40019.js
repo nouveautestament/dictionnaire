@@ -1,1 +1,0 @@
-lar[40019]=`<b>ἑπτα·στάδιος, ος, ον</b> <font color="purple">[ᾰδ]</font> de sept stades, STR. <i>122, 124</i>.<p><b>Étym</b>. ἑ. στάδιον.`

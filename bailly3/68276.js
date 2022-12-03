@@ -1,1 +1,0 @@
-lar[68276]=`<b>*Νεο·τίμη</b>, <i>dor</i>. <b>Νευ·τίμα, ας (ἡ)</b> <font color="purple">[ῑ]</font> Neutima, <i>f</i>. ANTH. <i>7, 730</i>.<p><b>Étym</b>. ν. τιμή.`

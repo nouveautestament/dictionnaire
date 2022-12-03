@@ -1,1 +1,0 @@
-lar[55868]=`<b>ας (ἡ) :<br>      1</b> Kleitoria, <i>f</i>. PLUT. <i>Cim. 16</i>.<br><b>      2</b> <i>le territoire de Kleitôr, en Arcadie,</i> TH. <i>H.P. 9, 15, 6</i>.<p><b>Étym</b>. Κλείτωρ.`

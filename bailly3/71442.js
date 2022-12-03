@@ -1,1 +1,0 @@
-lar[71442]=`<b>ας (ἡ)</b> descendance commune, parenté par le sang, STR. <i>784</i>.<p><b>Étym</b>. ὁμογενής.`

@@ -1,1 +1,0 @@
-lar[71788]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> de raisin <i>ou en gén</i>. de fruits encore verts, HPC. <i>667</i> ; DIOSC. <i>1, 29</i> ; GEOP. <i>3, 13, 5, etc.</i> ; τὸ ὀμφάκινον <i>s.-e</i>. ἱμάτιον, POLL. <i>7, 56, probabl</i>. manteau de la couleur d’une figue encore verte.<p><b>Étym</b>. ὄμφαξ.`

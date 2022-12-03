@@ -1,1 +1,0 @@
-lar[24725]=`<b>εως (ἡ)</b> inflexion, courbure, NAZ.<p><b>Étym</b>. διακάμπτω.`

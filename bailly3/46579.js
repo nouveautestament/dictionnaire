@@ -1,1 +1,0 @@
-lar[46579]=`<b>ου</b>, <i>adj. m</i>. qui préside à la justice, <i>ép. de Zeus,</i> PLUT. <i>M. 1065e</i>.<p><b>Étym</b>. θεμίζω.`

@@ -1,1 +1,0 @@
-lar[86806]=`<b>προ·τραγῳδέω-ῶ</b> <font color="purple">[ᾰ]</font> commencer par déclamer tragiquement, NYSS.`

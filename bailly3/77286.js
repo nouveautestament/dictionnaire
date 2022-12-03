@@ -1,1 +1,0 @@
-lar[77286]=`<b>ου (τὸ) :<br>      1</b> chambre du prêtre dans le temple (de Jérusalem) SPT. <i>Jer. 42, 4, etc.</i><br><b>      2</b> trésor du temple, SPT. <i>1Par. 9, 26, etc</i>.<p><b>Étym</b>. παστοφόρος.`

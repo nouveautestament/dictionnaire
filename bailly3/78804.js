@@ -1,1 +1,0 @@
-lar[78804]=`<b>περι·κομίζω</b>, transporter autour, THC. <i>7, 9 ; au pass</i>. être transporté <i>ou</i> naviguer autour, THC. <i>3, 81</i>.<br><b><i>Moy.</i></b> se transporter autour, CLÉM. <i>Str. 3, 6, 53</i>.`

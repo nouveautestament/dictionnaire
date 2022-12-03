@@ -1,1 +1,0 @@
-lar[46362]=`<b>οῦ (ὁ)</b> étonnement, admiration, PLUT. <i>Æmil. 39</i> ; SEXT. <i>M. 9, 17</i>.<p><b>Étym</b>. θαυμάζω.`

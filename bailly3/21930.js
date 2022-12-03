@@ -1,1 +1,0 @@
-lar[21930]=`<b>*γη·πονέω-ῶ</b>, <i>seul. dor</i>. <b>γαπονέω-ῶ</b> <font color="purple">[ᾱ]</font> (<i>seul. prés</i>.) travailler la terre, cultiver, EUR. <i>Rhes. 75</i>.<p><b>Étym</b>. γηπόνος.`

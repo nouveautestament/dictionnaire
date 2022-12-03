@@ -1,1 +1,0 @@
-lar[88582]=`<b>ῥιμφ·άρματος, ος, ον</b> <font color="purple">[μᾰ]</font> au char rapide, PD. <i>O. 3, 67</i> ; SOPH. <i>O.C. 1063</i>.<p><b>Étym</b>. ῥίμφα, ἅρμα.`

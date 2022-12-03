@@ -1,1 +1,0 @@
-lar[32141]=`<b>εως (ἡ)</b> action de réduire en cendres, STR. <i>247</i>.<p><b>Étym</b>. ἐκτεφρόω.`

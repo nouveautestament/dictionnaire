@@ -1,1 +1,0 @@
-lar[77956]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à cinq angles, JAMBL. <i>Nicom. ar. p. 85</i>.`

@@ -1,1 +1,0 @@
-lar[74275]=`<b>ή, όν :<br>      1</b> d’enfant ; <i>subst</i>. ὁ παιδνός, OD. <i>21, 21 ; 24, 338,</i> jeune garçon ; ἡ παιδνή, CHRIST. <i>Ecphr. 413,</i> petite fille.<br><b>      2</b> enfantin, puéril, ESCHL. <i>Ag. 479</i>.<p>➳ <i>Fém</i>. -ος, ANTH. <i>6, 269</i>.<p><b>Étym</b>. <i>p</i>. *παιδινός ; <i>cf</i>. πυκνός, <i>p</i>. πυκινός, <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[10190]=`<b>ἀντι·παρασκευάζω</b> <font color="darkgreen">(<i>ao</i>. ἀντιπαρεσκεύασα)</font> préparer <i>ou</i> pousser contre, DC. <i>38, 14</i>.<br><b><i>Moy.</i></b> se préparer contre, <i>dat</i>. THC. <i>7, 3 ; abs</i>. THC. <i>1, 80</i> ; XÉN. <i>Cyr. 1, 5, 14 ; 6, 1, 26 ; etc</i>.`

@@ -1,1 +1,0 @@
-lar[1159]=`<b>ἀ·δαίτρευτος, ος, ον</b>, non découpé, qui ne doit pas être découpé, NONN. <i>D. 17, 51</i>.<p><b>Étym</b>. ἀ, δαιτρεύω.`

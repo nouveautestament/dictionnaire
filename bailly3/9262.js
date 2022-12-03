@@ -1,1 +1,0 @@
-lar[9262]=`<b>ἀν·όμιχλος, ος, ον</b>, sans brume, sans brouillards, ARSTT. <i>Mund. 4, 4</i>.<p><b>Étym</b>. ἀν-, ὀμίχλη.`

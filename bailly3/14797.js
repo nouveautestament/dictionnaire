@@ -1,1 +1,0 @@
-lar[14797]=`<b>αντος (ὁ)</b> Arkésas, <i>h</i>. DÉM. <i>53, 13 Baiter-Sauppe</i>.<p><b>Étym</b>. ἀρκέω.`

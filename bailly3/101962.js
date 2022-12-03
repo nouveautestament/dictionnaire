@@ -1,1 +1,0 @@
-lar[101962]=`<b>ὕπ·ανδρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> en pouvoir de mari, mariée, POL. <i>10, 26, 3</i> ; PLUT. <i>Pel. 9</i> ; ATH. <i>388c.</i><br><b>      2</b> de femme, efféminé, DS. <i>Exc. 520, 39</i>.<p><b>Étym</b>. ὑ. ἀνήρ.`

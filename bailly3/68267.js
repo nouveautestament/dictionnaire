@@ -1,1 +1,0 @@
-lar[68267]=`<b>νεο·σχιδής, ής, ές</b> <font color="purple">[ῐ]</font> nouvellement fendu <i>ou</i> déchiré, NONN. <i>D. 25, 307</i>.<p><b>Étym</b>. ν. σχίζω.`

@@ -1,1 +1,0 @@
-lar[4191]=`<b>ἀλειφό·βιος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui gagne sa vie en graissant les lutteurs, <i>p. suite,</i> en rendant de menus services dans les gymnases, AR. <i>fr. 578</i>.<br><b>      2</b> <i>p. ext</i>. pauvre, PHIL. <i>2, 537</i>.<p><b>Étym</b>. ἀλείφω, βίος.`

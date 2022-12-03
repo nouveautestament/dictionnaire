@@ -1,1 +1,0 @@
-lar[12219]=`<b>ἀπο·γυναίκωσις, εως (ἡ)</b> <font color="purple">[ῠ]</font> action d’efféminer, PLUT. <i>M. 987f</i>.<p><b>Étym</b>. ἀπό, γυναικόω.`

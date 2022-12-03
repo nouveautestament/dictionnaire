@@ -1,1 +1,0 @@
-lar[34841]=`<b>ἑνο·ποιός, ός, όν</b>, qui ramène à l’unité, ARSTT. <i>Metaph. 7, 6, 9</i> ; PORPH. <i>V. Pyth. 84</i> ; PROCL. <i>Plat. Parm. 541 Stallb</i>.<p><b>Étym</b>. εἷς, ποιέω.`

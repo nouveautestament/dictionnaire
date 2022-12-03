@@ -1,1 +1,0 @@
-lar[46713]=`<b>θεο·μήστωρ, ορος :<br>      1</b> d’une sagesse divine, qui donne des conseils divins, ESCHL. <i>Pers. 655</i>.<br><b>      2</b> créé par la sagesse divine, MAN. <i>4, 7 conj</i>.<p><b>Étym</b>. θ. μήδομαι.`

@@ -1,1 +1,0 @@
-lar[98177]=`<b>τελεσσί·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> qui accomplit son dessein, ORPH. <i>Arg. 1308</i>.<p><b>Étym</b>. <i>poét. p</i>. *τελεσίνοος <i>de</i> τελέω, νόος.`

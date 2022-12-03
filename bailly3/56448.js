@@ -1,1 +1,0 @@
-lar[56448]=`<b>κοιλ·ῶνυξ, υχος (ὁ, ἡ)</b> <font color="purple">[ῠχ]</font> aux ongles <i>ou</i> aux sabots creux, STÉSICH. (SCH.-IL. <i>6, 507).</i><p><b>Étym</b>. κοῖλος, ὄνυξ.`

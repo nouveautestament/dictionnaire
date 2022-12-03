@@ -1,1 +1,0 @@
-lar[24656]=`<b>δια·θολόω-ῶ</b> <font color="darkgreen">(<i>ao. pass. part. fém</i>. -θολωθείσης)</font> remuer la vase, <i>d’où</i> troubler profondément, <i>acc</i>. PLUT. <i>M. 978b ;</i> PHILSTR. <i>10</i>.`

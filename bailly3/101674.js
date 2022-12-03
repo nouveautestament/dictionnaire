@@ -1,1 +1,0 @@
-lar[101674]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> aboiement, EUR. <i>I.T. 293</i> ; OPP. <i>C. 2, 456 ; fig</i>. vocifération, ESCHL. <i>Ag. 1631 au plur</i>.<p><b>Étym</b>. ὑλάσσω.`

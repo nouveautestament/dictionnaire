@@ -1,1 +1,0 @@
-lar[102066]=`<b>ὑπ·αχλύνομαι</b> <font color="darkgreen">(<i>seul. ao. épq. 3 sg</i>. ὑπαχλύνθη)</font> <font color="purple">[ῠᾰῡ]</font> être plongé dans l’obscurité, Q. SM. <i>1, 67</i>.`

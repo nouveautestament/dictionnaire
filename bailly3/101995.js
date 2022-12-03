@@ -1,1 +1,0 @@
-lar[101995]=`<b>ὑπ·απολείπω</b> <font color="purple">[ῠᾰ]</font> laisser au fond, EL. <i>N.A. 10, 43</i>.`

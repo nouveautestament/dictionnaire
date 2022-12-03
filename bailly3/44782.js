@@ -1,1 +1,0 @@
-lar[44782]=`<b>ζῳ·όφθαλμον, ου (τὸ)</b> œil de bœuf (<i>litt</i>. d’animal) <i>ou</i> buphthalme, <i>plante</i>, DIOSC. <i>4, 89</i>.<p><b>Étym</b>. ζῷον, ὀφθαλμός.`

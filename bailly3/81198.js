@@ -1,1 +1,0 @@
-lar[81198]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. πνευμονικός GAL. <i>14, 471</i>.`

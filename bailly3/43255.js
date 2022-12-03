@@ -1,1 +1,0 @@
-lar[43255]=`<b>εὐρυ·βόας, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. dont les cris retentissent au loin, LIB. <i>4, 816</i>.<p><b>Étym</b>. εὐρύς, βοή.`

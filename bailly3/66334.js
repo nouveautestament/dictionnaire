@@ -1,1 +1,0 @@
-lar[66334]=`<b>μοιχο·κτόνος, ος, ον</b>, qui fait périr les adultères, NAZ. <i>2, 54</i>.<p><b>Étym</b>. μοιχός, κτείνω.`

@@ -1,1 +1,0 @@
-lar[72796]=`<b>ὀρίας ἄνεμος (ὁ)</b> <i>c</i>. ὀρεστίας, A. TAT. ASTR. <i>Isag. in Arat. 158a Petau</i>.`

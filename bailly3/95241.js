@@ -1,1 +1,0 @@
-lar[95241]=`<b>συν·εγγίζω</b>, s’approcher tout à fait de, <i>abs</i>. POL. <i>1, 23, 8 ; dat</i>. DS. <i>2, 51 ; 3, 72</i> ; POL. <i>3, 69, 13</i> ; PTOL. <i>3, 1, 44</i> ; DIOSC. <i>2, 98 ; 3, 95</i>.`

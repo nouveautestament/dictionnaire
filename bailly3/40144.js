@@ -1,1 +1,0 @@
-lar[40144]=`<b>ου (ὁ)</b> Érasmonidès (<i>litt</i>. fils de l’Amour) CRAT. (HÉPH. <i>p. 88, 10).</i><p><b>Étym</b>. <i>patr. de</i> *Ἐράσμων, <i>dér. de</i> ἐράω.`

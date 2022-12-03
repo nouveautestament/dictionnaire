@@ -1,1 +1,0 @@
-lar[62028]=`<b>Λυσι·κράτης, ους (ὁ)</b> <font color="purple">[ῡᾰ]</font> Lysikratès, <i>h</i>. AR. <i>Av. 513, Eccl. 630, 736, etc</i>.<p><b>Étym</b>. λ. κράτος.`

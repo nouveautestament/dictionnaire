@@ -1,1 +1,0 @@
-lar[45740]=`<b>ή, όν</b>, du continent, XÉN. <i>Hell. 6, 1, 4</i>.<p><b>Étym</b>. ἠπειρώτης.`

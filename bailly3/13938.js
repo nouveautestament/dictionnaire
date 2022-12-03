@@ -1,1 +1,0 @@
-lar[13938]=`<b>ἀ·πρόσδεικτος, ος, ον</b>, qu’on ne peut montrer (à cause de la hauteur) ESCHL. <i>Suppl. 794</i>.<p><b>Étym</b>. ἀ, προσδείκνυμι.`

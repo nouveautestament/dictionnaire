@@ -1,1 +1,0 @@
-lar[63464]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> voix haute <i>ou</i> forte, ARSTT. <i>G.A. 5, 7, 7</i> ; DS. <i>16, 92</i>.<br><b>      2</b> magnificence de langage, LUC. <i>H. conscr. 8, etc</i>.<p><b>Étym</b>. μεγαλόφωνος.`

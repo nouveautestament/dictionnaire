@@ -1,1 +1,0 @@
-lar[83838]=`<b>πρό·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> prêt à se marier, fiancé, TRIPHIOD. <i>341</i> ; οἱ Πρόγαμοι, les Fiancés, <i>titre d’une comédie de Ménandre</i>.<p><b>Étym</b>. π. γαμέω.`

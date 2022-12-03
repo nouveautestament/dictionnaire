@@ -1,1 +1,0 @@
-lar[99350]=`<b>τιτανο·μαχία, ας (ἡ)</b> <font color="purple">[ῑᾱμᾰ]</font> le combat des Titans contre les dieux, DS. <i>1, 97 ; titre d’un poème</i> d’Eumélos <i>ou</i> d’Arktinos, ATH. <i>277d</i>.<p><b>Étym</b>. Τ. μάχη.`

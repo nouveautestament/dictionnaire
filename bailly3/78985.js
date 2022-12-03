@@ -1,1 +1,0 @@
-lar[78985]=`<b>περι·ξύω :<br>      1</b> racler <i>ou</i> gratter tout autour, GAL. <i>Lex. Hipp. 19, 130</i>.<br><b>      2</b> ronger tout autour, <i>acc</i>. OPP. <i>H. 3, 525</i>.`

@@ -1,1 +1,0 @@
-lar[95361]=`<b>συν·εκκόπτω</b>, retrancher <i>ou</i> supprimer en même temps, XÉN. <i>An. 4, 8, 8 ; fig</i>. PLUT. <i>M. 1101c</i>.`

@@ -1,1 +1,0 @@
-lar[23817]=`<b>ίδος</b>, <i>adj. f</i>. de Delphes, PD. <i>P. 4, 107</i> ; SOPH. <i>O.R. 463</i> ; EUR. <i>Andr. 998, etc</i>.<p><b>Étym</b>. Δελφοί.`

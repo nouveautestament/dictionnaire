@@ -1,1 +1,0 @@
-lar[20427]=`<b>βουλαρχέω-ῶ</b>, <i>f</i>. ήσω, présider le conseil, ARSTT. <i>Pol. 4, 11, 5</i>.<p><b>Étym</b>. βούλαρχος.`

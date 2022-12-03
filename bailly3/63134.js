@@ -1,1 +1,0 @@
-lar[63134]=`<font color="purple">[μᾰ]</font> <i>c</i>. ματᾴζω JOS. <i>B.J. 6, 2, 10</i>.`

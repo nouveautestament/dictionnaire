@@ -1,1 +1,0 @@
-lar[66562]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> domination d’un seul, monarchie absolue, NAZ. <i>2, 165a</i>.<p><b>Étym</b>. μ. κράτος.`

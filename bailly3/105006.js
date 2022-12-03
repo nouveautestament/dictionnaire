@@ -1,1 +1,0 @@
-lar[105006]=`<b>ου (τὸ)</b> alvéole d’une dent, GAL.<p><b>Étym</b>. φάτνη.`

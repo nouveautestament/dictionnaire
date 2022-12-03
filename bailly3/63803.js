@@ -1,1 +1,0 @@
-lar[63803]=`<b>μελαμ·βαθής, ής, ές</b> <font color="purple">[βᾰ]</font> noir et profond, EUR. <i>Ph. 1010 ; en parl. du Tartare,</i> ESCHL. <i>Pr. 219 ; des bords de l’Achéron,</i> SOPH. <i>fr. 469</i>.<p><b>Étym</b>. μέλας, βάθος.`

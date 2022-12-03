@@ -1,1 +1,0 @@
-lar[37540]=`<b>ἐπι·δένδριος, ος, ον</b>, qui se trouve sur les arbres, JUL. <i>Ep. 24</i>.<p><b>Étym</b>. ἐπί, δένδρον.`

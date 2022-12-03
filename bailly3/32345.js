@@ -1,1 +1,0 @@
-lar[32345]=`<b>ή, όν</b>, propre à dégager, à désobstruer, GAL. <i>6, 369</i>.<p><b>Étym</b>. ἐκφράσσω.`

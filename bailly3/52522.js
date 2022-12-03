@@ -1,1 +1,0 @@
-lar[52522]=`<b>κατα·κερδαίνω</b>, tirer un gain, un profit de, <i>en mauv. part, gén</i>. XÉN. <i>Œc. 4, 7</i>.`

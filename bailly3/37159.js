@@ -1,1 +1,0 @@
-lar[37159]=`<b>ἐπ·ερύω :<br>      1</b> tirer à soi, OD. <i>1, 441 (ao. 3 sg. poét</i>. ἐπέρυσε).<br><b>      2</b> tirer <i>ou</i> amener sur, attirer, A.RH. <i>3, 149 (ao. part. fém. épq</i>. ἐπειρύσσασα).<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. part. ion</i>. ἐπειρυσάμενος)</font> tirer sur soi, ajuster sur soi, revêtir, <i>acc</i>. HDT. <i>4, 8</i>.`

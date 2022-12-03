@@ -1,1 +1,0 @@
-lar[2764]=`<b>αἰολό·πεπλος, ος, ον</b>, à la tunique de couleurs variées, NONN. <i>D. 7, 173</i>.<p><b>Étym</b>. αἰ. πέπλος.`

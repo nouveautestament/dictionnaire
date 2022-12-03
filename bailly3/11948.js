@@ -1,1 +1,0 @@
-lar[11948]=`<b>έως (ὁ)</b> <font color="purple">[ᾱῐᾰ]</font> <i>d’ord. au plur. poét</i>. οἱ Ἀπιδανῆες, A.RH. <i>4, 263</i> ; DP. <i>415,</i> les habitants de la terre d’Apis, <i>anc. n. des Lacédémoniens</i>.<p><b>Étym</b>. Ἆπις.`

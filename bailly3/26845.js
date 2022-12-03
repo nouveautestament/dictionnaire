@@ -1,1 +1,0 @@
-lar[26845]=`<b>δι·όργυιος, ος, ον</b>, long <i>ou</i> large de deux brasses, HDT. <i>4, 195</i> ; XÉN. <i>Cyn. 2, 5</i>.<p><b>Étym</b>. δίς, ὀργυιά.`

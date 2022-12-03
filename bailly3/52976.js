@@ -1,1 +1,0 @@
-lar[52976]=`<b>εως (ἡ)</b> action de juger digne, haute estime, POL. <i>1, 78, 1</i>.<p><b>Étym</b>. καταξιόω.`

@@ -1,1 +1,0 @@
-lar[19486]=`<b>ή, όν</b>, de Belgique, οἱ βελγικοί, DC. les Belges ; ἡ βελγική (<i>s.-e</i>. χώρα) DC. <i>etc</i>. la Belgique.<p><b>Étym</b>. βέλγαι.`

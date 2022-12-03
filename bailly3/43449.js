@@ -1,1 +1,0 @@
-lar[43449]=`<b>εὔ·σπορος, ος, ον :<br>      1</b> dont la semence est abondante <i>ou</i> féconde, A. PL. <i>4, 1, 36, etc.</i><br><b>      2</b> bien ensemencé, fertile, A. PL. <i>4, 295</i> ; AR. <i>Av. 230</i>.<br><b>      3</b> protecteur des semences, HERM. (STOB. <i>Ecl. 1, 176).</i><p><b>Étym</b>. εὖ, σπείρω.`

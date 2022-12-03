@@ -1,1 +1,0 @@
-lar[106089]=`<b>φιλό·σμηνος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la ruche, NONN. <i>D. 5, 252</i>.<p><b>Étym</b>. φ. σμῆνος.`

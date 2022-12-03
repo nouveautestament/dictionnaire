@@ -1,1 +1,0 @@
-lar[18254]=`<b>Ἀφροδίτης κᾶπος (ὁ)</b> <font color="purple">[αῐ]</font> le jardin <i>ou</i> la prairie d’Aphrodite, <i>càd</i>. le territoire de Cyrène, PD. <i>P. 5, 32</i> ; Ἀφροδίτης ὅρμος, le port d’Aphrodite, <i>autre n. de la v</i>. Θίσβη, NONN. <i>D. 13, 62, ou c</i>. Μυὸς ὅρμος, STR. DS. <i>etc</i>.`

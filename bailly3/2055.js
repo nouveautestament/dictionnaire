@@ -1,1 +1,0 @@
-lar[2055]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> lutte <i>ou</i> exercice d’athlète, POL. <i>5, 64, 6 ; 7, 10, 2</i> ; PLUT. <i>Thes. 19, etc.</i><br><b>      2</b> épreuve pénible, NT. <i>Hebr. 10, 32</i>.<p><b>Étym</b>. ἀθλέω.`

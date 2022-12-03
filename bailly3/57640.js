@@ -1,1 +1,0 @@
-lar[57640]=`<b>κρατησι·βίας</b> <font color="purple">[ᾰσῐᾱ]</font> <i>adj. m</i>. tout-puissant, <i>litt</i>. maître par la force, PD. <i>fr. 293</i>.<p><b>Étym</b>. κρατέω, βία.`

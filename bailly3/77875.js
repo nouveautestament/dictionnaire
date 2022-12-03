@@ -1,1 +1,0 @@
-lar[77875]=`<b>άδος (ἡ) :<br>      1</b> le nombre cinq, PLAT. <i>Rsp. 546c.</i><br><b>      2</b> groupe de cinq personnes <i>ou</i> de cinq choses, XÉN. <i>Cyr. 2, 1, 22 et 24</i>.<p><b>Étym</b>. πέμπε ; <i>cf</i>. πεντάς.`

@@ -1,1 +1,0 @@
-lar[92989]=`<b>α, ον</b>, de saponaire, ATH. <i>679b</i>.<p><b>Étym</b>. στρουθός.`

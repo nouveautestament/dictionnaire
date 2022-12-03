@@ -1,1 +1,0 @@
-lar[15320]=`<b>ἀρτι·βρεχής, ής, ές</b>, nouvellement mouillé, ANTH. <i>5, 175</i>.<p><b>Étym</b>. ἄ. βρέχω.`

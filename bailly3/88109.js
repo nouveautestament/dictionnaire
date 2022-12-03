@@ -1,1 +1,0 @@
-lar[88109]=`<b>πωλο·δάμνης, ου (ὁ) :<br>      1</b> qui dompte de jeunes chevaux, XÉN. <i>Eq. 2, 1 et 3</i>.<br><b>      2</b> <i>p. ext</i>. maître d’équitation, TÉLÈS (STOB. <i>Fl. 98, 72).</i><p><b>Étym</b>. πῶλος, δάμνημι.`

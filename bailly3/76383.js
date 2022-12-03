@@ -1,1 +1,0 @@
-lar[76383]=`<b>παρ·αύξω</b> (<i>seul. prés. et impf</i>.) :<br><b>      1 <i>tr.</i></b> augmenter, accroître, STR. <i>724</i> ; SEXT. <i>M. 6, 26</i>.<br><b>      2 <i>intr.</i></b> s’accroître, GÉM. <i>El. astr. 6, 39</i>.`

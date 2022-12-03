@@ -1,1 +1,0 @@
-lar[109842]=`<b>ψιλο·κιθαριστής, οῦ (ὁ)</b> <font color="purple">[ῑῐᾰ]</font> qui joue de la lyre sans accompagnement de voix, ATH. <i>452f ;</i> CHARÈS (ATH. <i>538e</i>) ; SUÉT. <i>Domit. 4 ; cf</i>. ψιλὸς κιθαριστής, ATH. <i>638a</i>.<p><b>Étym</b>. ψιλός, κ.`

@@ -1,1 +1,0 @@
-lar[33625]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> qui suppure, A. TR. <i>305</i>.`

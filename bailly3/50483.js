@@ -1,1 +1,0 @@
-lar[50483]=`<b>καθ·υπεμφαίνω</b>, montrer par certains indices, EUM. <i>p. 129, 130</i>.`

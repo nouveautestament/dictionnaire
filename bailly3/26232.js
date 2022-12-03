@@ -1,1 +1,0 @@
-lar[26232]=`<b>δι·εξιππάζομαι</b> <font color="darkgreen">(<i>ao. 3 sg</i>. διεξιππάσατο)</font> parcourir <i>ou</i> traverser à cheval, POLYEN <i>5, 16, 5</i>.`

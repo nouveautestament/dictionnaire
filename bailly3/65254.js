@@ -1,1 +1,0 @@
-lar[65254]=`<b>μετωπο·σκόπος, ου (ὁ)</b> qui lit sur le front, physionomiste, CLÉM. <i>261</i> ; SUÉT. <i>Tit. 2</i> ; PLIN. <i>H.N. 35, 11</i>.<p><b>Étym</b>. μέτωπον, σκοπέω.`

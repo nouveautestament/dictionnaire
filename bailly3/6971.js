@@ -1,1 +1,0 @@
-lar[6971]=`<b>ἀνα·κολλάω-ῶ</b>, coller pour empêcher de tomber, DIOSC. <i>2, 161</i>.`

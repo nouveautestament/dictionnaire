@@ -1,1 +1,0 @@
-lar[64366]=`<b>μερ·άρχης, ου (ὁ)</b> commandant d’une demi-brigade (2 048 hommes) EL. TACT. <i>9, 7</i> ; ASCLÉPIOD. <i>2, 10</i>.<p><b>Étym</b>. μέρος, ἄρχω.`

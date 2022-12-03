@@ -1,1 +1,0 @@
-lar[62039]=`<b>λυσι·μελής, ής, ές</b> <font color="purple">[ῡῐ]</font> qui relâche <i>ou</i> affaiblit les membres, <i>en parl. du sommeil,</i> OD. <i>20, 57 ; 23, 343 ; de l’amour,</i> HÉS. <i>Th. 120, 911</i> ; ARCHIL. (HÉPH. <i>p. 90, etc.) ; de la mort,</i> EUR. <i>Suppl. 448, etc</i>.<p><b>Étym</b>. λύω, μέλος.`

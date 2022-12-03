@@ -1,1 +1,0 @@
-lar[103315]=`<b>ὑπο·καλύπτω</b> <font color="purple">[ᾰ]</font> couvrir d’un voile, cacher, envelopper, SPT. <i>Jer. 3, 25</i> ; EUM. <i>p. 40</i>.`

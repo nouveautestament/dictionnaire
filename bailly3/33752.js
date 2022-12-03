@@ -1,1 +1,0 @@
-lar[33752]=`<b>ή, όν</b>, propre à rafraîchir, GAL. <i>13, 16</i>.<p><b>Étym</b>. ἐμψύχω.`

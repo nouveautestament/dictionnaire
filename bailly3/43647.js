@@ -1,1 +1,0 @@
-lar[43647]=`<b>ας (ἡ)</b> facilité à broyer, CASS. <i>164, 7</i>.<p><b>Étym</b>. εὔτριπτος.`

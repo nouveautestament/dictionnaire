@@ -1,1 +1,0 @@
-lar[1388]=`<i>adv</i>., sans distinction, confusément, DH. <i>Dem. 56</i>.`

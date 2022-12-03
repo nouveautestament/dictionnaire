@@ -1,1 +1,0 @@
-lar[79032]=`<b>περι·ορμέω-ῶ</b>, mouiller autour, bloquer par mer, THC. <i>4, 23, 26, etc.</i> ; PLUT. <i>Ant. 35</i>.`

@@ -1,1 +1,0 @@
-lar[10341]=`<b>ἀντι·προσέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> -προσῆλθον)</font> s’avancer contre, DC. <i>60, 6</i>.`

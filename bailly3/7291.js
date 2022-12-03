@@ -1,1 +1,0 @@
-lar[7291]=`<b>ας (ἡ) :<br>      1</b> pouvoir, charge, autorité, PD. <i>N. 8, 10</i>.<br><b>      2</b> royauté, ESCHL. <i>fr. 9</i>.<p><b>Étym</b>. ἀνάσσω.`

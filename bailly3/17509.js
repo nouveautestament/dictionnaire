@@ -1,1 +1,0 @@
-lar[17509]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Autokanè, <i>promont. d’Éolide, près de Phocée,</i> HH. <i>Ap. 35</i>.`

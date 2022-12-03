@@ -1,1 +1,0 @@
-lar[81931]=`<b>πολύ·θουρος, ος, ον</b> <font color="purple">[ῠ]</font> impétueux, OPP. <i>C. 3, 516</i>.<p><b>Étym</b>. π. θοῦρος.`

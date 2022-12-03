@@ -1,1 +1,0 @@
-lar[62237]=`<b>ατος (τὸ)</b> <font color="purple">[μᾰ]</font> charme magique, sortilège, <i>au plur</i>. EUR. <i>Suppl. 1110 ; fig</i>. PLUT. <i>M. 110c, 752c</i>.<p><b>Étym</b>. μαγεύω.`

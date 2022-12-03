@@ -1,1 +1,0 @@
-lar[85583]=`<b>προσ·έναγχος</b>, <i>adv</i>., tout récemment, LGN <i>44, 1</i>.`

@@ -1,1 +1,0 @@
-lar[4232]=`<b>ου (ὁ)</b> Alexandridès, <i>historien,</i> PLUT. <i>Lys. 18, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀλέξανδρος.`

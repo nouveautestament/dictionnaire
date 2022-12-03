@@ -1,1 +1,0 @@
-lar[52417]=`<b>κατα·θορυβέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> troubler, interrompre par des cris <i>ou</i> du tumulte, PLAT. <i>Prot. 319c.</i><br><b>      2</b> causer un grand trouble, troubler profondément, <i>acc</i>. NUMÉN. (EUS. <i>P.E. 14, 6</i>).`

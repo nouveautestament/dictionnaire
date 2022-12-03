@@ -1,1 +1,0 @@
-lar[82]=`<b>ἀβεβαιότης, ητος (ἡ)</b> instabilité, inconstance, POL. <i>Fr. gr. 6</i>.`

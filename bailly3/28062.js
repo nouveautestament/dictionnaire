@@ -1,1 +1,0 @@
-lar[28062]=`<b>α, ον</b> <font color="purple">[ῠ]</font> malheureux, ESCHL. <i>Suppl. 842 dout</i>.<p><b>Étym</b>. δύη.`

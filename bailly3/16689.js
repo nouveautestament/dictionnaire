@@ -1,1 +1,0 @@
-lar[16689]=`<b>ἀ·ταρβής, ής, ές</b>, intrépide, IL. <i>13, 299</i> ; PD. <i>P. 5, 51</i> ; ESCHL. <i>Pr. 849 (sel. d’autres, au sens act</i>. qui n’inspire pas de crainte) ; <i>avec le gén</i>. sans crainte de, SOPH. <i>Tr. 23</i>.<p><b>Étym</b>. ἀ, τάρβος.`

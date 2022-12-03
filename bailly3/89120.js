@@ -1,1 +1,0 @@
-lar[89120]=`<b>ων (οἱ)</b> les Sakaurakes, <i>pple scythe,</i> LUC. <i>Macr. 15</i>.`

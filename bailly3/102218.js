@@ -1,1 +1,0 @@
-lar[102218]=`<b>ὑπερ·αβέλτερος, ος</b> <i>ou</i> <b>α, ον</b> <font color="purple">[ᾰ]</font> sot à l’excès, DÉM. <i>1178 fin</i> ; ARSTT. <i>H.A. 5, 19</i>.<p>➳ <i>Fém</i>. -α, LIB. <i>4, 143</i>.`

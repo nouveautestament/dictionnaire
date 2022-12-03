@@ -1,1 +1,0 @@
-lar[30615]=`<b>ῆς (ἡ) :<br>      1</b> prison, HDT. <i>4, 146, 148</i> ; THC. <i>1, 131</i> ; XÉN. <i>Cyr. 3, 1, 19</i> ; PLUT. <i>Cam. 36, etc. ; plur</i>. EUR. <i>Bacch. 497, 550</i>.<br><b>      2</b> partie retirée et secrète d’une maison, XÉN. <i>Mem. 2, 1, 5</i>.<p><b>Étym</b>. εἵργω.`

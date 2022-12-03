@@ -1,1 +1,0 @@
-lar[16507]=`<b>ἀσυνετέω-ῶ</b>, être inintelligent, HPC. <i>Fract. 767</i>.<p><b>Étym</b>. ἀσύνετος.`

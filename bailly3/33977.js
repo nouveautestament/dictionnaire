@@ -1,1 +1,0 @@
-lar[33977]=`<b>ἐν·απορέω-ῶ</b> <font color="purple">[ᾰ]</font> être dans l’embarras, POL. <i>29, 11, 6</i>.`

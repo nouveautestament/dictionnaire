@@ -1,1 +1,0 @@
-lar[39492]=`<b>ατος (τὸ)</b> exercice de la charge de triérarque au delà du temps légal, DÉM. <i>1206, 11 ; 1219, 23, etc</i>.<p><b>Étym</b>. ἐπιτριηραρχέω.`

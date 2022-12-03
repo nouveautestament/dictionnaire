@@ -1,1 +1,0 @@
-lar[4334]=`PLUT. <i>M. 230b ; moy</i>. ἀληθίζομαι (<i>prés</i>. HDT. <i>1, 136 ; 3, 72 ; inf. ao</i>. ALCIPHR. <i>3, 59</i>) <font color="purple">[ᾰ]</font> dire la vérité.<p><b>Étym</b>. ἀληθής.`

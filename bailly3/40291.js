@@ -1,1 +1,0 @@
-lar[40291]=`<b>ου (ὁ)</b> = <i>lat</i>. Herennius, PLUT. <i>Cic. 48, etc.</i> ; οἱ Ἑρέννιοι, PLUT. <i>Mar. 5,</i> la famille des Hérennius.`

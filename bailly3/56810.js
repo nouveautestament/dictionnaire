@@ -1,1 +1,0 @@
-lar[56810]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> un peu de gomme, GAL. <i>14, 508</i>.<p><b>Étym</b>. <i>dim. de</i> κόμμι.`

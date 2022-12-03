@@ -1,1 +1,0 @@
-lar[24971]=`<b>δια·λοξεύω</b> (<i>seul. part. ao. fém</i>. -εύσασα) tourner de côté : ὀφθαλμόν, LIB. <i>4, 1072</i>, jeter un regard de côté.`

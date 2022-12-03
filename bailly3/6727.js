@@ -1,1 +1,0 @@
-lar[6727]=`<b>ἀνα·δουλόω-ῶ</b>, asservir de nouveau, APP. <i>Civ. 4, 29</i>.`

@@ -1,1 +1,0 @@
-lar[4196]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> le fils d’Alektôr (Korônos) ORPH. <i>Arg. 139</i>.<p><b>Étym</b>. Ἀλέκτωρ.`

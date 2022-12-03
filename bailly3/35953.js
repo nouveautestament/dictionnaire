@@ -1,1 +1,0 @@
-lar[35953]=`<i>adv</i>., à tort, par erreur, faussement, PLAT. <i>Leg. 891d</i>.<p><b>Étym</b>. ἐξαμαρτάνω.`

@@ -1,1 +1,0 @@
-lar[59220]=`<b>κωνίας οἶνος (ὁ)</b> vin déposé dans des jarres enduites de résine, vin résiné, GAL. <i>Lex. Hipp. 19, 116</i>.<p><b>Étym</b>. κῶνος.`

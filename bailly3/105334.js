@@ -1,1 +1,0 @@
-lar[105334]=`<b>φθισί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῑσ]</font> qui fait perdre la raison, OPP. <i>C. 2, 423</i>.<p><b>Étym</b>. φθίω, φρήν.`

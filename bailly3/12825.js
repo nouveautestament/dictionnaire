@@ -1,1 +1,0 @@
-lar[12825]=`<b>ἀπ·ολοφύρομαι</b> <font color="darkgreen">(<i>impf</i>. ἀπωλοφυρόμην, <i>f</i>. ἀπολοφυροῦμαι, <i>ao</i>. ἀπωλοφυράμην, <i>pf. inus</i>.)</font> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> se lamenter sur, déplorer, <i>acc</i>. THC. <i>2, 46</i> ; XÉN. <i>Hell. 1, 1, 27</i> ; AND. <i>21, 35</i>.`

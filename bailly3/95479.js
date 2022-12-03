@@ -1,1 +1,0 @@
-lar[95479]=`<b>εως (ἡ)</b> abandon de soi-même, affaissement, PLUT. <i>M. 680a</i>.<p><b>Étym</b>. συνενδίδωμι.`

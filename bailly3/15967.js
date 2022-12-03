@@ -1,1 +1,0 @@
-lar[15967]=`<b>ἄ·σκυλτος, ος, ον</b>, non tiraillé, non fatigué, <i>d’où</i> infatigable, SEXT. <i>P. 1, 71</i>.<p><b>Étym</b>. ἀ, σκύλλω.`

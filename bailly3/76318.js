@@ -1,1 +1,0 @@
-lar[76318]=`<b>παρα·τελευτάω-ῶ</b>, être pénultième <i>ou</i> appartenir à la syllabe pénultième, AMMON <i>120, etc</i>.`

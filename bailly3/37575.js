@@ -1,1 +1,0 @@
-lar[37575]=`<b>ἐπι·δημεύω</b>, passer sa vie parmi le peuple, vivre dans le monde, <i>p. opp. à</i> vivre aux champs, OD. <i>16, 28</i>.<p><b>Étym</b>. ἐπί, δῆμος.`

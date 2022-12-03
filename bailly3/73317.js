@@ -1,1 +1,0 @@
-lar[73317]=`<b>ὀστρακο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> potier, DS. <i>4, 7</i>.<p><b>Étym</b>. ὄ. ποιέω.`

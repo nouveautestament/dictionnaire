@@ -1,1 +1,0 @@
-lar[72307]=`<b>οῦ (ὁ)</b> extraction du suc des arbres et des plantes par incision, TH. <i>H.P. 9, 8</i> ; DIOSC. <i>3, 25</i>.<p><b>Étym</b>. ὀπίζω.`

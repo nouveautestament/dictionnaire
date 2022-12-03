@@ -1,1 +1,0 @@
-lar[35355]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de suivre, d’accompagner, CLÉM. <i>1, 1008a Migne</i>.<p><b>Étym</b>. ἐξακολουθέω.`

@@ -1,1 +1,0 @@
-lar[103255]=`<i>adv</i>., par supposition, par hypothèse, GAL. <i>4, 609</i> ; SEXT. <i>p. 311, 33, etc</i>.`

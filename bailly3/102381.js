@@ -1,1 +1,0 @@
-lar[102381]=`<b>ὑπερ·δεής, ής, ές</b> (<i>seul. acc. sg. masc. épq</i>. ὑπερδέα <font color="purple">[ᾰ]</font> <i>p</i>. ὑπερδεᾶ) qui est au-dessus de la crainte, intrépide, courageux, IL. <i>17, 330</i>.<p><b>Étym</b>. ὑ. δέος.`

@@ -1,1 +1,0 @@
-lar[67057]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action d’imaginer une fable, <i>d’où</i> fiction poétique, sujet fabuleux d’un poème, SEXT. <i>M. 9, 192</i>.<p><b>Étym</b>. μυθοποιέω.`

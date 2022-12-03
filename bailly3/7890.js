@@ -1,1 +1,0 @@
-lar[7890]=`<b>ἀνα·φρονέω-ῶ</b>, recouvrer son bon sens, XÉN. <i>An. 4, 8, 21</i>.`

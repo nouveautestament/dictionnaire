@@ -1,1 +1,0 @@
-lar[69545]=`<b>ξηρό·καρπος, ος, ον</b>, aux fruits secs <i>ou</i> desséchés, TH. <i>C.P. 2, 8, 1 au cp</i>. -ότερος.<p><b>Étym</b>. ξ. καρπός.`

@@ -1,1 +1,0 @@
-lar[90448]=`<b>ου (ὁ)</b> Sirrhas, <i>h</i>. ARSTT. <i>Pol. 5, 8, 11</i>.`

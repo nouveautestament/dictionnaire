@@ -1,1 +1,0 @@
-lar[11420]=`<b>(οἱ)</b> les Aparytes, <i>pple de Perse,</i> HDT. <i>3, 91</i>.`

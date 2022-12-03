@@ -1,1 +1,0 @@
-lar[103814]=`<b>εως (ἡ) :<br>      1</b> note placée en dessous, annotation, JAMBL. <i>V. Pyth. 103</i>.<br><b>      2</b> note prise d’après une lecture <i>ou</i> des souvenirs, DL. <i>2, 122</i>.<p><b>Étym</b>. ὑποσημειόω.`

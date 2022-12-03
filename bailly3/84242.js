@@ -1,1 +1,0 @@
-lar[84242]=`<b>προ·επινοέω-οῶ</b>, concevoir <i>ou</i> imaginer auparavant : τι, STR. <i>109</i> ; PLUT. <i>M. 1071f, etc.</i> ; qqe ch. ; τί τινος, SEXT. <i>11, 186,</i> une ch. avant une autre.`

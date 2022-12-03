@@ -1,1 +1,0 @@
-lar[90164]=`<b>*σιδηρό·πληκτος</b>, <i>dor</i>. <b>σιδαρόπλακτος, ος, ον</b> <font color="purple">[ῐᾱρ]</font> frappé par le fer, ESCHL. <i>Sept. 911</i>.<p><b>Étym</b>. σ. πλήσσω.`

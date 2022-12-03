@@ -1,1 +1,0 @@
-lar[6970]=`<b>ἀνα·κοιρανέω-ῶ</b> <font color="purple">[ρᾰ]</font> commander à <i>ou</i> dans, ANTH. <i>App. 67</i>.`

@@ -1,1 +1,0 @@
-lar[65500]=`<font color="purple">[ῡ]</font> <i>c</i>. μηρυκάομαι ARSTT. <i>H.A. 2, 17, 8, etc.</i> ; τὰ μηρυκάζοντα, ARSTT. <i>H.A. 3, 21, 7,</i> les ruminants.`

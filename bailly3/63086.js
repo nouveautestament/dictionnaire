@@ -1,1 +1,0 @@
-lar[63086]=`<b>μαστιγιάω-ῶ</b> <font color="purple">[ῑγ]</font> avoir envie d’être fouetté, EUP. <i>2-1, 574 Meineke</i>.<p><b>Étym</b>. μάστιξ.`

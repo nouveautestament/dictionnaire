@@ -1,1 +1,0 @@
-lar[254]=`<b>ἀγαθοεργέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> faire le bien <i>ou</i> du bien, NT. <i>1Tim. 6, 18 ; au pass</i>. CLÉM. <i>1, 200c Migne</i>.<p>➳ <i>Par contr</i>. ἀγαθουργέω-ῶ, NT. <i>Ap. 14, 17</i>.<p><b>Étym</b>. ἀγαθοεργός.`

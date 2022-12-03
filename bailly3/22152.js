@@ -1,1 +1,0 @@
-lar[22152]=`<b>(ὁ)</b> <font color="purple">[ῠ]</font> sorte de gâteau crétois fait de vin doux et d’huile, SÉLEUC. (ATH. 645d).<p><b>Étym</b>. γλυκύς.`

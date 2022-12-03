@@ -1,1 +1,0 @@
-lar[96978]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> pieu fourchu pour soutenir des filets de chasse, XÉN. <i>Cyn. 2, 8 ; 6, 7</i>.`

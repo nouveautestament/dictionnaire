@@ -1,1 +1,0 @@
-lar[9442]=`<b>ἀντ·αναγιγνώσκω</b> (<i>seul. inf. ao</i>. -αναγνῶναι) collationner un texte, CRAT. <i>(Bkk. 410</i>).`

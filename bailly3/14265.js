@@ -1,1 +1,0 @@
-lar[14265]=`<b>ἀργι·νεφής, ής, ές</b> <font color="purple">[ῐ]</font> semblable à un nuage blanc, SOPH. <i>fr. 479, dout</i>.<p><b>Étym</b>. ἀργός¹, νέφος.`

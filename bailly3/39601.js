@@ -1,1 +1,0 @@
-lar[39601]=`<b>ατος (τὸ) :<br>      1</b> second service, dessert, LUC. <i>Lex. 8 ; d’ord. au pl</i>. HDT. <i>1, 133</i> ; AR. <i>fr. 610</i> ; ATH. <i>640e.</i><br><b>      2</b> repas funèbre, JAMBL. <i>V. Pyth. 122</i>.<p><b>Étym</b>. ἐπιφορέω.`

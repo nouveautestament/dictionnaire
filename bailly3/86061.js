@@ -1,1 +1,0 @@
-lar[86061]=`<b>*πρόσ·κρανον</b>, <i>dor</i>. <b>ποτί·κρανον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> oreiller, THCR. <i>Idyl. 15, 3</i>.<p><b>Étym</b>. πρός, *κρᾶνον.`

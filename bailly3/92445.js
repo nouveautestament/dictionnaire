@@ -1,1 +1,0 @@
-lar[92445]=`<b>στερνο·κτυπέω-ῶ</b> <font color="purple">[ῠ]</font> <i>c</i>. στερνοτυπέω, ES. <i>159 de Furia dout</i>.`

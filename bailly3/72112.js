@@ -1,1 +1,0 @@
-lar[72112]=`<b>ὀξυ·κώκυτος, ος, ον</b> <font color="purple">[ῠῡ]</font> qui provoque des cris aigus, SOPH. <i>Ant. 131</i>.<p><b>Étym</b>. ὀ. κωκύω.`

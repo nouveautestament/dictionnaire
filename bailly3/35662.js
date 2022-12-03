@@ -1,1 +1,0 @@
-lar[35662]=`<b>ἐξ·αυχενισμός, οῦ (ὁ)</b> rébellion, <i>litt</i>. action d’ôter <i>ou</i> de faire effort pour ôter son cou du joug (<i>cf</i>. ἐκτραχηλίζω) AQU. <i>Nah. 3, 1</i>.<p><b>Étym</b>. ἐξ, αὐχήν.`

@@ -1,1 +1,0 @@
-lar[43694]=`<b>εὐ·φάρμακος, ος, ον</b> <font color="purple">[μᾰ]</font> qui produit des plantes médicinales, TH. <i>H.P. 9, 10, 3</i>.<p><b>Étym</b>. εὖ, φάρμακον.`

@@ -1,1 +1,0 @@
-lar[355]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγᾰ]</font> objet d’affection, délices, ANTH. <i>10, 104</i>.<p><b>Étym</b>. ἀγαπάω.`

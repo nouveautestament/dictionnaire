@@ -1,1 +1,0 @@
-lar[75115]=`<b>παν·ομφαῖος, ου (ὁ)</b> <font color="purple">[ᾰν]</font> de qui émanent tous les oracles, tous les présages, <i>ép. de Zeus,</i> IL. <i>8, 250</i> ; ANTH. <i>6, 52</i> ; Q. SM. <i>5, 626, etc</i>.<p><b>Étym</b>. π. ὀμφή.`

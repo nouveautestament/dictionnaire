@@ -1,1 +1,0 @@
-lar[18068]=`<b>ου (ὁ)</b> Aphidnos, <i>héros athénien,</i> PLUT.`

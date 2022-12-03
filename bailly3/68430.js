@@ -1,1 +1,0 @@
-lar[68430]=`<b>νεφρο·ειδής, ής, ές</b>, semblable aux reins, ARSTT. <i>H.A. 2, 17, 22</i>.<p><b>Étym</b>. νεφρός, εἶδος.`

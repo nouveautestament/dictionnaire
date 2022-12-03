@@ -1,1 +1,0 @@
-lar[37396]=`<b>ἐπι·βρέχω</b>, faire pleuvoir sur, arroser, TH. <i>H.P. 5, 3, 3</i> ; τι ἐπί τινα, SPT. <i>Ps. 10, 6,</i> verser sur qqn une pluie de, <i>etc. ; impers</i>. ἐπιβρέχει, SIMPL. <i>Epict. 347,</i> il pleut.`

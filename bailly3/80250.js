@@ -1,1 +1,0 @@
-lar[80250]=`<b>ου (ὁ)</b> <font color="purple">[πῐ]</font> <i>dim. de</i> πίθος, PLUT. <i>Cam. 20</i>.`

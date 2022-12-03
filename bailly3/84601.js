@@ -1,1 +1,0 @@
-lar[84601]=`<font color="purple">[ῐᾰ]</font> être puni préventivement, RHÉT. <i>7, 1123 W</i>.<p><b>Étym</b>. πρόκριμα.`

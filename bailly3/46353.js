@@ -1,1 +1,0 @@
-lar[46353]=`<i>épq</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ᾰκ]</font> Thaumakia, <i>v. de Magnésie,</i> IL. <i>2, 716</i>.`

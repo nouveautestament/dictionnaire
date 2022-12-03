@@ -1,1 +1,0 @@
-lar[80121]=`tisser, PHILYLL. (POLL. <i>7, 31).</i><p>➳ <i>3 sg. dor</i>. πανίσδεται <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 18, 32</i>.<p><b>Étym</b>. πήνη.`

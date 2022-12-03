@@ -1,1 +1,0 @@
-lar[79794]=`<i>adv</i>., à la façon des Perses, EL. <i>V.H. 12, 1</i>.<p><b>Étym</b>. Περσικός.`

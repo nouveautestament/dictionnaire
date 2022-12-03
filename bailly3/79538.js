@@ -1,1 +1,0 @@
-lar[79538]=`<b>περι·τρύζω</b>, grogner alentour, Q. SM. <i>14, 36</i>.`

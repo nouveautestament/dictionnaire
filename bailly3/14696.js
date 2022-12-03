@@ -1,1 +1,0 @@
-lar[14696]=`<b>ἀριστό·δειπνον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> déjeuner dînatoire, ALEX. (ATH. <i>47e</i>) ; MÉN. (POLL. <i>6, 102).</i><p><b>Étym</b>. ἄριστον, δεῖπνον.`

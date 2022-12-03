@@ -1,1 +1,0 @@
-lar[84626]=`<b>προ·κύων, -κυνος (ὁ)</b> <font color="purple">[ῠν]</font> chien qui se porte en avant, <i>d’où</i> :<br><b>      1</b> aboyeur, <i>fig</i>. ANTH. <i>11, 322</i>.<br><b>      2</b> chien couchant, flatteur <i>ou</i> parasite, POSIDIPP. (ATH. <i>414e</i>).`

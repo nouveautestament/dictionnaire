@@ -1,1 +1,0 @@
-lar[7946]=`<b>ή, όν</b>, disposé <i>ou</i> habitué à vivre dans la retraite, ARR. <i>Epict. 2, 1, 10</i>.`

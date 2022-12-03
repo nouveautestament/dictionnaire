@@ -1,1 +1,0 @@
-lar[90568]=`<b>οῦς (ἡ)</b> <font color="purple">[ῑ]</font> Sitô, <i>litt</i>. « la déesse du blé <i>ou</i> de l’alimentation, » <i>à Syracuse,</i> POLÉM. (ATH. <i>416b</i>) ; EL. <i>V.H. 1, 27</i>.<p><b>Étym</b>. σῖτος.`

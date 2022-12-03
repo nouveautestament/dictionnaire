@@ -1,1 +1,0 @@
-lar[98164]=`<b>ατος (τὸ)</b> achèvement, terme d’une entreprise, POL. <i>3, 4, 12</i>.<p><b>Étym</b>. τελεσιουργέω.`

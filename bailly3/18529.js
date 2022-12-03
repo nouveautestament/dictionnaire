@@ -1,1 +1,0 @@
-lar[18529]=`<b>ἀ·χρήματος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> sans argent, pauvre, ESCHL. <i>Pers. 167,</i> HDT. <i>1, 89</i> ; ARSTT. <i>Pol. 2, 9</i>.<br><b>      2</b> qui ne cause pas de dépenses : ἀ. δίαιτα, PLUT. <i>M. 354a</i>, genre de vie modeste.<p><b>Étym</b>. ἀ, χρῆμα.`

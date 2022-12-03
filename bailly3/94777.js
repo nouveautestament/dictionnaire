@@ -1,1 +1,0 @@
-lar[94777]=`<b>συν·αναχορεύω</b>, participer à un chœur, <i>fig</i>. ARSTT. <i>Mund. 2, 2</i>.`

@@ -1,1 +1,0 @@
-lar[58605]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐῐδ]</font> petit coffret à drogues, ATH. <i>480c</i>.<p><b>Étym</b>. κύλιξ.`

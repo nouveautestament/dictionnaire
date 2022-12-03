@@ -1,1 +1,0 @@
-lar[64549]=`<b>μεσο·πόντιος, ος, ον</b>, qui vit au milieu de la mer (Poséidon) E. BYZ. <i>v°</i> μεσοπόντιος.<p><b>Étym</b>. μ. πόντος.`

@@ -1,1 +1,0 @@
-lar[43921]=`<i>vb. de</i> ἐφαρμόζω, POL. <i>1, 14, 8</i> ; PLUT. <i>M. 34f ;</i> LUC. <i>H. conscr. 6</i>.`

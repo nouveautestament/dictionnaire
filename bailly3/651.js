@@ -1,1 +1,0 @@
-lar[651]=`<b>ἀγκυλό·δειρος, ος, ον</b> <font color="purple">[ῠ]</font> au cou recourbé, OPP. <i>H. 4, 630</i>.<p><b>Étym</b>. ἀ. δειρή.`

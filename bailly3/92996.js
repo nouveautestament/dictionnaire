@@ -1,1 +1,0 @@
-lar[92996]=`<b>στρουθο·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> à tête de moineau <i>ou</i> d’autruche, PLUT. <i>M. 520c</i>.<p><b>Étym</b>. στρ. κεφαλή.`

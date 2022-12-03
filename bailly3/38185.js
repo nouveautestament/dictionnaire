@@ -1,1 +1,0 @@
-lar[38185]=`<b>εως (ἡ)</b> action de choquer, heurt, GAL. <i>Ther. 14</i>.<p><b>Étym</b>. ἐπικρούω.`

@@ -1,1 +1,0 @@
-lar[42685]=`<b>εὐ·μετάστατος, ος, ον</b> <font color="purple">[ᾰτ]</font> instable, inconstant, PLUT. <i>M. 5d</i>.<p><b>Étym</b>. εὖ, μεθίστημι.`

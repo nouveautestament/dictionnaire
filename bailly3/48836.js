@@ -1,1 +1,0 @@
-lar[48836]=`<b>α, ον</b>, <i>c</i>. ἱκετικός, ESCHL. <i>Suppl. 385 vulg</i>.<p><b>Étym</b>. <i>conj</i>. ἴκτιος.`

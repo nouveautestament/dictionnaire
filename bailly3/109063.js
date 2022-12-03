@@ -1,1 +1,0 @@
-lar[109063]=`<i>adv</i>., après un long temps, ARSTT. <i>Gen. et corr. 1, 10, 13</i> ; TH. <i>fr. 9, 22</i>.<p>•<i> Cp</i>. -ώτερον, PD. <i>N. 4, 10 ; ou</i> -ωτέρως, HPC. <i>t. 1, p. 264 Kühn</i>.<p><b>Étym</b>. χρόνιος.`

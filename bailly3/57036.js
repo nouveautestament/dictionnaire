@@ -1,1 +1,0 @@
-lar[57036]=`<b>(ὁ)</b> Kordyès, <i>h</i>. Ps.-PLUT. <i>Fluv. 20, 1</i>.`

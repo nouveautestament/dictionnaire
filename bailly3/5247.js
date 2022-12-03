@@ -1,1 +1,0 @@
-lar[5247]=`(<i>seul. part. prés</i>.) <font color="purple">[ᾰᾰ]</font> couler par un conduit, ARISTÉN. <i>1, 17</i>.<p><b>Étym</b>. ἀμάρα.`

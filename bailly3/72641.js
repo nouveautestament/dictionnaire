@@ -1,1 +1,0 @@
-lar[72641]=`<b>ὀρεσσι·βάτης, ου</b> <font color="purple">[ῐᾰ]</font> <i>adj. m. c</i>. ὀρειβάτης, SOPH. <i>O.R. 1100, Ant. 350</i> ; ANTH. <i>7, 578</i>.<p>➳ <i>Gén. dor</i>. -βάτα <font color="purple">[τᾱ]</font> SOPH. <i>ll. cc</i>.`

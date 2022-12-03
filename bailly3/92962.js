@@ -1,1 +1,0 @@
-lar[92962]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> forme ronde, rondeur, PLAT. <i>Men. 73e, 74b ;</i> ARSTT. <i>Metaph. 6, p. 146, 26</i> ; TH. <i>H.P. 4, 12, 2</i>.<p><b>Étym</b>. στρογγύλος.`

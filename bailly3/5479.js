@@ -1,1 +1,0 @@
-lar[5479]=`<i>adv</i>., immédiatement, A. APHR. <i>Probl. 1, 53</i>.<p><b>Étym</b>. ἄμεσος.`

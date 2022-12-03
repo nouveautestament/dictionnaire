@@ -1,1 +1,0 @@
-lar[81012]=`<b>ας (ἡ)</b> pleine assurance, certitude, NT. <i>1Thess. 1, 5 ; Col. 2, 2 ; Hebr. 6, 11, etc</i>.<p><b>Étym</b>. *πληροφόρος, <i>v</i>. πληροφορέω.`

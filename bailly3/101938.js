@@ -1,1 +1,0 @@
-lar[101938]=`<b>ὑπ·αμφιέννυμι</b> <font color="purple">[ῠῡ]</font> revêtir en dessous, EL. <i>N.A. 16, 15</i>.`

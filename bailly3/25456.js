@@ -1,1 +1,0 @@
-lar[25456]=`<b>δια·ρρήδην</b>, <i>adv</i>., en termes précis, HH. <i>Merc. 313</i> ; DÉM. <i>342, 29</i> ; AND. <i>25, 20, etc</i>.<p><b>Étym</b>. διά, <i>th</i>. ϝρη- <i>de</i> ῥῆμα.`

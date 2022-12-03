@@ -1,1 +1,0 @@
-lar[44806]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de ranimer le feu, <i>d’où</i> action de ranimer, M. TYR. <i>9, 7</i>.<p><b>Étym</b>. *ζωπυρόω <i>de</i> ζώπυρος.`

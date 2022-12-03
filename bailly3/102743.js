@@ -1,1 +1,0 @@
-lar[102743]=`<b>ὑπερ·πέλομαι</b> <font color="darkgreen">(<i>seul. 3 sg. ao.2</i> ὑπερέπλετο)</font> être <i>ou</i> s’élever au-dessus de, <i>gén</i>. A.RH. <i>4, 1637</i>.`

@@ -1,1 +1,0 @@
-lar[9000]=`<b>ἀνθ·υπαντάω-ῶ</b>, venir au-devant de, LGN <i>18</i>.<p><b>Étym</b>. ἀντί, ὑ.`

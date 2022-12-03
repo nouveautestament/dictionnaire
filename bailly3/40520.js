@@ -1,1 +1,0 @@
-lar[40520]=`<b>ἐρί·τιμος, ος, ον</b> <font color="purple">[ῐῑ]</font><br><b>      1</b> d’un très haut prix, très précieux, IL. <i>2, 447, etc.</i> ; HH. <i>Ap. 443, etc. ; en parl. de pers</i>. très honoré, très célèbre, MAN. <i>3, 324</i> ; THÉM. <i>54d.</i><br><b>      2</b> <i>subst</i>. ἡ ἐρ. <i>sorte de sardine,</i> ATH. <i>328f, 355f</i>.<p><b>Étym</b>. ἐρι-, τιμή.`

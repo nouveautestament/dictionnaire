@@ -1,1 +1,0 @@
-lar[38148]=`<b>ἐπί·κρανον, ου (τὸ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> bandelette <i>ou</i> coiffure, EUR. <i>Hipp. 201</i>.<br><b>      2</b> casque, STR. <i>504</i>.<br><b>      3</b> chapiteau, PD. <i>fr. 58, 7</i> ; EUR. <i>I.T. 51</i>.<p><b>Étym</b>. ἐπί, κρανίον.`

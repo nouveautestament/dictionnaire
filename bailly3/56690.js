@@ -1,1 +1,0 @@
-lar[56690]=`<b>η, ον</b>, de citrouille, LUC. <i>V.H. 2, 37</i>.<p><b>Étym</b>. κολοκύνθη.`

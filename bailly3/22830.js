@@ -1,1 +1,0 @@
-lar[22830]=`<b>*γυναι·μανέω</b> (<i>seul. part. prés</i>. γυναιμανέων) <font color="purple">[ῠᾰ]</font> <i>c</i>. γυναικομανής, NONN. <i>D. 2, 125 ; 8, 235, etc.</i> ; Q. SM. <i>1, 735</i>.`

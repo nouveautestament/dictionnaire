@@ -1,1 +1,0 @@
-lar[59750]=`<b>ῶν (αἱ)</b> Lamptres, <i>n. de deux dèmes att. de la tribu Érekhthéide</i> (HARP.).`

@@ -1,1 +1,0 @@
-lar[42386]=`<b>εὐ·κατάλλακτος, ος, ον</b>, facile à apaiser, ARSTT. <i>Rhet. 2, 4, 17</i> ; SPT. <i>3Macc. 5, 13</i>.<p><b>Étym</b>. εὖ, καταλλάσσω.`

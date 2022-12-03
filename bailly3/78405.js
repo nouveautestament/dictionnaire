@@ -1,1 +1,0 @@
-lar[78405]=`<b>περι·αρτάω-ῶ</b>, suspendre autour, PLUT. <i>Per. 38</i>.<br><b><i>Moy.</i></b> suspendre autour de son cou <i>ou</i> de son corps, SEXT. <i>M. 2, 105</i>.`

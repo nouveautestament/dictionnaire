@@ -1,1 +1,0 @@
-lar[63677]=`<b>ου (ὁ)</b> Meidylidès, <i>h</i>. DÉM. <i>1083</i>.<p><b>Étym</b>. <i>patr. de</i> Μειδών.`

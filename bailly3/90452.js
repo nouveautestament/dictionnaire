@@ -1,1 +1,0 @@
-lar[90452]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> raiponce (<i>Sium sisarum</i> L.) <i>plante,</i> EPICH. (ATH. <i>120c</i>) ; DIOSC. <i>2, 139</i>.`

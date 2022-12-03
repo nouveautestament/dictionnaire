@@ -1,1 +1,0 @@
-lar[82228]=`<b>πολυ·πενθής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>act</i>. qui cause une grande douleur, <i>en parl. de pers</i>. IL. <i>9, 563</i> ; OD. <i>14, 386 ; de choses,</i> OD. <i>23, 15</i>.<br><b>      2</b> <i>pass</i>. lamentable, ESCHL. <i>Pers. 547</i>.<p>•<i> Sup</i>. -έστατος, PLUT. <i>M. 114f</i>.<p><b>Étym</b>. π. πένθος.`

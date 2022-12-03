@@ -1,1 +1,0 @@
-lar[88239]=`<b>ῥαιστηρο·κοπία, ας (ἡ)</b> coup de marteau, PHIL. PARADOX. <i>VII mir. 4</i>.<p><b>Étym</b>. ῥαιστήρ, κόπτω.`

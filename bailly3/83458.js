@@ -1,1 +1,0 @@
-lar[83458]=`<b>ου (ὁ)</b> scie, <i>poisson de mer,</i> ARSTT. <i>H.A. 6, 12</i>.<p><b>Étym</b>. πρίω.`

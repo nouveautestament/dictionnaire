@@ -1,1 +1,0 @@
-lar[16604]=`<i>adv</i>., irrésistiblement, PLAT. <i>Crat. 415d</i>.`

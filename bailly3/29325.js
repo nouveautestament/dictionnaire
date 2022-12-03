@@ -1,1 +1,0 @@
-lar[29325]=`<b>ου (ὁ)</b> l’Hèbre (<i>auj</i>. Marítsa <i>et</i> Évros) <i>fl. de Thrace, d’ord. avec l’article,</i> HDT. <i>4, 90</i> ; THC. <i>2, 96</i> ; EUR. <i>H.f. 386</i> ; THCR. <i>Idyl. 7, 112, etc</i>.`

@@ -1,1 +1,0 @@
-lar[76053]=`<b>παρά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b>, placé près du coude ; τὸ παράπηχυ (<i>s.-e</i>. ἱμάτιον) MACH. (ATH. <i>582d</i>) vêtement de femme blanc avec une bordure de pourpre sur les deux côtés.<p><b>Étym</b>. π. πῆχυς.`

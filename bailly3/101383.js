@@ -1,1 +1,0 @@
-lar[101383]=`être humide, être mouillé, HPC. <i>517, 53</i>.<p><b>Étym</b>. ὑγρός.`

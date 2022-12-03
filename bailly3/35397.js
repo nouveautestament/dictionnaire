@@ -1,1 +1,0 @@
-lar[35397]=`<b>ἐξ·αλλοιόω-ῶ</b>, changer entièrement, altérer, TH. <i>C.P. 2, 15, 2</i>.`

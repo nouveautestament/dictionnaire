@@ -1,1 +1,0 @@
-lar[52769]=`<b>οῦ (ὁ) :<br>      1</b> division par cohortes, PLUT. <i>Cic. 15</i>.<br><b>      2</b> répartition par troupe, LUC. <i>H. conscr. 29</i>.<p><b>Étym</b>. καταλοχίζω.`

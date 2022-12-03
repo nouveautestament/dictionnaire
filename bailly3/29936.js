@@ -1,1 +1,0 @@
-lar[29936]=`<b>*ἐγχρονία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> retard, prolongation, HPC. <i>28, 38</i>.<p><b>Étym</b>. ἔγχρονος.`

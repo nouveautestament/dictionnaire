@@ -1,1 +1,0 @@
-lar[4308]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰλ]</font> les Aleuades, descendants d’Aleuas, <i>famille noble de Thessalie,</i> HDT. <i>7, 172, etc.</i> ; PLAT. <i>Men. 70b, etc</i>.`

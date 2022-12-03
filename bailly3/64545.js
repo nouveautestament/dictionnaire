@@ -1,1 +1,0 @@
-lar[64545]=`<b>*μεσο·παλής</b>, <i>épq</i>. <b>μεσσο·παλής, ής, ές</b> <font color="purple">[ᾰ]</font> qu’on lance par le milieu, IL. <i>21, 172</i>.<p><b>Étym</b>. μέσος, πάλλω.`

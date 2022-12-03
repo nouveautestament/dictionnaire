@@ -1,1 +1,0 @@
-lar[1482]=`<i>adv</i>., sans fraude, loyalement, THC. <i>5, 23</i> ; XÉN. <i>Hell. 3, 4, 5, etc.</i> ; PLAT. <i>Gorg. 451a</i>.<p>•<i> Cp</i>. -ώτερον, ANT. <i>122, 2</i>.`

@@ -1,1 +1,0 @@
-lar[92958]=`<b>στρογγυλο·ναύτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui navigue sur un navire marchand, AR. <i>fr. 685 Dind</i>. (<i>v</i>. στρογγύλος).<p><b>Étym</b>. στρ. ναύτης.`

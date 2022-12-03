@@ -1,1 +1,0 @@
-lar[105797]=`<b>φιλο·θουκυδίδης, ου (ὁ)</b> <font color="purple">[ῐῡῐ ; <i>p. lic. poét</i>. ῠ]</font> partisan de Thucydide, A. PL. <i>315</i>.`

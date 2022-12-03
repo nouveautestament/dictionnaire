@@ -1,1 +1,0 @@
-lar[75255]=`<b>ας</b> <font color="purple">[ᾰτ]</font> <i>adj. f</i>. toute-puissante, ORPH. <i>H. 9, 4</i>.<p><b>Étym</b>. <i>cf</i>. παντοκράτωρ.`

@@ -1,1 +1,0 @@
-lar[49609]=`<b>ἰσο·βασιλεύς, έως (ὁ)</b> <font color="purple">[ῑ̆ᾰῐ]</font> égal <i>ou</i> semblable à un roi, PLUT. <i>Alex. 39</i>.<p><b>Étym</b>. ἴ. βασιλεύς.`

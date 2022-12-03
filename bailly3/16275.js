@@ -1,1 +1,0 @@
-lar[16275]=`<b>έως (ὁ)</b> <font color="purple">[ᾰπ]</font> qui lance des éclairs, ORPH. <i>H. 19, 5</i>.<p><b>Étym</b>. ἀστραπή.`

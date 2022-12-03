@@ -1,1 +1,0 @@
-lar[73312]=`<b>ὀστρακό·δερμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a une écaille en guise de peau, BATR. <i>297</i> ; ARSTT. <i>H.A. 5, 10, etc</i>.<p><b>Étym</b>. ὄστρακον, δέρμα.`

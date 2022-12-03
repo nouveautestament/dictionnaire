@@ -1,1 +1,0 @@
-lar[86960]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> l’Avance, <i>n. d’une fête à Clazomènes,</i> DS. <i>15, 18 vulg. ; conj</i>. προφθάσια.<p><b>Étym</b>. προφθάνω.`

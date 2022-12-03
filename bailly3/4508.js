@@ -1,1 +1,0 @@
-lar[4508]=`<b>ἁλι·νήκτειρα, ας (ἡ)</b> <font color="purple">[ᾰῑ <i>p</i>. ᾰῐ]</font> qui nage dans la saumure, ANTH. <i>6, 190</i>.<p><b>Étym</b>. ἅλς, νήχομαι.`

@@ -1,1 +1,0 @@
-lar[17195]=`<b>Αὐλιάδες νύμφαι (αἱ)</b> nymphes protectrices des bergeries, A. PL. <i>291</i>.<p><b>Étym</b>. αὔλιος.`

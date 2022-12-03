@@ -1,1 +1,0 @@
-lar[82469]=`<b>πολυ·τράχηλος, ος, ον</b> <font color="purple">[ᾰ]</font> au cou gros et fort, HÉRACLITE GRAMM. <i>All. Hom. 17, p. 432</i>.`

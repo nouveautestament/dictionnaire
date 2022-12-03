@@ -1,1 +1,0 @@
-lar[12400]=`<b>ῶν (οἱ)</b> « les Dépôts, » <i>lieu près de Sparte pour l’exposition des enfants mal conformés,</i> PLUT. <i>Lyc. 16</i>.<p><b>Étym</b>. ἀποτίθημι.`

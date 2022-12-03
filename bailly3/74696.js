@@ -1,1 +1,0 @@
-lar[74696]=`<b>παμ·μάταιος, ος, ον</b> <font color="purple">[ᾰτ]</font> entièrement vain, ESCHL. <i>Ag. 388 dout</i>.<p><b>Étym</b>. π. μάταιος.`

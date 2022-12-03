@@ -1,1 +1,0 @@
-lar[14083]=`<b>εως (ἡ)</b> action de repousser, THC. <i>7, 34 ; t. de phys</i>. répulsion, (<i>p. opp. à</i> ἕλξις, attraction) ARSTT. <i>Phys. 7, 2, 3</i>.<p><b>Étym</b>. ἀπωθέω.`

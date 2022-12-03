@@ -1,1 +1,0 @@
-lar[31664]=`<b>ἐκ·μείρομαι</b> <font color="darkgreen">(<i>seul. pf. 3 sg. au sens d’un prés</i>. ἐξέμμορε)</font> obtenir une part de, <i>gén</i>. OD. <i>5, 335</i>.`

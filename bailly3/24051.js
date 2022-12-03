@@ -1,1 +1,0 @@
-lar[24051]=`être le second, avoir le second rang, SPT. <i>Esth. 4, 8,</i> τινός, DIOSC. <i>3, 47 ; ou</i> τινί, SPT. <i>Par. 1, 16, 5,</i> après un autre ; τινί, PLUT. <i>Eum. 13,</i> jouer le second rôle, un rôle inférieur à celui d’un autre.<p><b>Étym</b>. δεύτερος.`

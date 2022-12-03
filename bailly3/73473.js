@@ -1,1 +1,0 @@
-lar[73473]=`<b>οὐδε·πώποτε</b>, <i>adv</i>., jamais jusqu’à présent, jamais encore, <i>avec un passé,</i> SOPH. <i>Ph. 250</i> ; PLAT. <i>Conv. 175b, etc. ; postér. avec un fut., une fois avec un prés</i>. D. CHR. <i>Or. 14, p. 436</i>.<p><b>Étym</b>. οὐδέ, πώποτε.`

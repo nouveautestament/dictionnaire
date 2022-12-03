@@ -1,1 +1,0 @@
-lar[16776]=`<b>ας (ἡ)</b> manque d’art, inhabileté, maladresse, PLAT. <i>Phæd. 90d, etc.</i> ; ARSTT. <i>Nic. 6, 4, 6</i> ; DH. PLUT. DL. <i>etc</i>.<p>➳ <i>Ion</i>. ἀτεχνίη, HPC. <i>2, 33 et 51, etc</i>.<p><b>Étym</b>. ἄτεχνος.`

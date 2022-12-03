@@ -1,1 +1,0 @@
-lar[39022]=`<b>ἐπι·σκυθίζω</b> <font color="purple">[ῠ]</font> boire comme un Scythe, <i>càd</i>. copieusement, HDT. <i>6, 84 ; cf</i>. ATH. <i>427b</i>.`

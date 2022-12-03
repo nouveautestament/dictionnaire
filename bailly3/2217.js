@@ -1,1 +1,0 @@
-lar[2217]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui se trouve <i>ou</i> réside au bord de la mer, ATH. (ORIB. <i>3, 185 B.-Dar</i>.).<p><b>Étym</b>. αἰγιαλός.`

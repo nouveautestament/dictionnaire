@@ -1,1 +1,0 @@
-lar[90329]=`<b>ου (ὁ)</b> Simmias, <i>h</i>. ANTH. <i>4, 1, gén. ion</i>. -εω, PLAT. <i>Phæd. 59c, etc</i>.<p>➳ <i>Voc</i>. -α, PLAT. <i>Phæd. 63b, etc</i>.`

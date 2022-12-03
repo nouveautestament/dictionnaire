@@ -1,1 +1,0 @@
-lar[20489]=`<b>οῦ (ὁ)</b> colline, hauteur, <i>mot cyrénéen selon</i> HDT. <i>4, 158, 199</i> ; ESCHL. PHILÉM. POL. STR. <i>etc</i>.`

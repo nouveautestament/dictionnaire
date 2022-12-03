@@ -1,1 +1,0 @@
-lar[81403]=`<b>ποικιλό·μορφος, ος, ον</b> <font color="purple">[ῐ]</font> aux broderies variées, AR. <i>Pl. 530</i>.<p><b>Étym</b>. π. μορφή.`

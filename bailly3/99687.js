@@ -1,1 +1,0 @@
-lar[99687]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> cuiller de bois, AR. <i>Eq. 984, Av. 78</i> ; PLAT. <i>Hipp. ma. 290d</i>.<p>➳ <font color="purple">[ῠ]</font> ANTH. <i>6, 305</i>.`

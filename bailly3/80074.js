@@ -1,1 +1,0 @@
-lar[80074]=`<b>ή, όν</b>, du Pélion, SOPH. <i>fr. 166 Dind</i>.`

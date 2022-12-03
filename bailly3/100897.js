@@ -1,1 +1,0 @@
-lar[100897]=`<b>ωνος (ὁ)</b> <font color="purple">[ῡ]</font> Tryphôn :<br><b>      1</b> <i>grammairien d’Alexandrie,</i> ATH. <i>53a, etc.</i><br><b>      2</b> <i>surn. de Ptolémée Philopator,</i> EL. <i>V.H. 14, 31</i>.<br><b>      3</b> <i>autres,</i> PLUT. <i>Qu. conv. 3, 2, 1</i> ; ANTH. <i>9, 488, 544</i>.<p>➳ <font color="purple">[ῠ]</font> ANTH. <i>9, 544</i>.`

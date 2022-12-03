@@ -1,1 +1,0 @@
-lar[2664]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font> qui parle par énigmes, DS. <i>5, 131</i>.<p><b>Étym</b>. αἴνιγμα.`

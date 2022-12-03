@@ -1,1 +1,0 @@
-lar[36033]=`<b>ος, ον</b> <font color="purple">[ῐτ]</font> <i>forme réc. c</i>. ἐξιτητήριος, qui concerne le départ <i>ou</i> les adieux, CIA. <i>3, 1184, 21 (217/225 après J.-C. ; v. Meisterh. p. 92, 15</i>) ; NAZ. <i>2, 529a, 600c Migne</i> ; τὸ ἐξιτήριον, NAZ. <i>3, 1024a Migne,</i> discours d’adieu.<p><b>Étym</b>. <i>cf</i>. ἐξιτητήριος.`

@@ -1,1 +1,0 @@
-lar[28081]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> (<i>s.-e</i>. ἀριθμός) nombre élevé au carré, DIOPH. <i>3, etc</i>.<p><b>Étym</b>. <i>vb. de</i> *δυναμόζω <i>de</i> δύναμις.`

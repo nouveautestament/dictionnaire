@@ -1,1 +1,0 @@
-lar[15862]=`<b>ου</b>, <i>ou</i> <b>Ἀσιναρός, οῦ (ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> l’Asinaros, <i>fl. de Sicile,</i> PLUT. PAUS.`

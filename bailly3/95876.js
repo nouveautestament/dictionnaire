@@ -1,1 +1,0 @@
-lar[95876]=`<b>οος, οον :<br>      1</b> qui entend <i>ou</i> écoute avec, <i>gén</i>. PLAT. <i>Leg. 711e ;</i> PLUT. <i>Num. 20, Pyrrh. 5</i>.<br><b>      2</b> qui prête l’oreille à, qui obéit à, <i>dat</i>. PLUT. <i>M. 678d</i>.<p><b>Étym</b>. συνακούω.`

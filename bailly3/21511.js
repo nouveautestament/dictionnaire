@@ -1,1 +1,0 @@
-lar[21511]=`<b>ας (ἡ)</b> Gédrosie (<i>auj</i>. le Mékran <i>dans le</i> Baloutchistan), <i>contrée d’Asie,</i> TH. <i>H.P. 4, 4, 13</i> ; PLUT. <i>Alex. 66, etc</i>.`

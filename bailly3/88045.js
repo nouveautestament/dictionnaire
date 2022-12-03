@@ -1,1 +1,0 @@
-lar[88045]=`<b>πυρ·ῶπις, ιδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f. c</i>. πυρώπης NONN. <i>D. 5, 221</i>.`

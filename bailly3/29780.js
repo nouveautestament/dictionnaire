@@ -1,1 +1,0 @@
-lar[29780]=`<b>ἐγ·κτίζω</b> <font color="darkgreen">(<i>ao. part</i>. -ίσας)</font> fonder dans, <i>dat</i>. PLUT. <i>M. 328e</i>.<p><b>Étym</b>. ἐν, κτ.`

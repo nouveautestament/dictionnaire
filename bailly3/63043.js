@@ -1,1 +1,0 @@
-lar[63043]=`<b>(ὁ)</b> Masistrès, <i>Perse,</i> ESCHL. <i>Pers. 30, 970</i>.`

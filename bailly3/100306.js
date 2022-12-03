@@ -1,1 +1,0 @@
-lar[100306]=`<b>ίδος</b> <font color="purple">[τρῑ]</font> <i>fém. c</i>. Τρινάκριος OPP. <i>H. 3, 627</i>.`

@@ -1,1 +1,0 @@
-lar[43239]=`<b>εὐρύ·αλος, ος, ον</b> <font color="purple">[ᾰ]</font> dont l’aire est large, <i>p. ext</i>. large, vaste, OPP. <i>H. 1, 62</i> ; ANTH. <i>7, 748 ; cf</i>. εὐρυάλως.`

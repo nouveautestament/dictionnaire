@@ -1,1 +1,0 @@
-lar[71350]=`<b>ὀμβρο·κτύπος, ος, ον</b> <font color="purple">[ῠ]</font> qui frappe avec la pluie, ESCHL. <i>Ag. 656</i>.<p><b>Étym</b>. ὄμβρος, κτυπέω.`

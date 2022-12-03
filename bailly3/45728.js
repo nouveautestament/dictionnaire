@@ -1,1 +1,0 @@
-lar[45728]=`<b>ἠπάω-ῶ</b>, réparer, recoudre, <i>d’où part. pf. pass</i>. ἠπημένος, raccommodé, ARSTD. <i>t. 2, 307</i>.<br><b><i>Moy.</i></b> <i>plus us. (seul. inf. ao</i>. ἠπήσασθαι) <i>c. l’act</i>. AR. <i>fr. 28</i> ; GAL. <i>5, 812</i>.`

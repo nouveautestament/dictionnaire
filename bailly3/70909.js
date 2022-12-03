@@ -1,1 +1,0 @@
-lar[70909]=`<b>ὀλβιό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> heureux au fond de l’âme, <i>ou</i> qui réjouit le cœur, ORPH. <i>18, 21</i>.<p><b>Étym</b>. ὄ. θυμός.`

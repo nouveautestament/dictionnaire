@@ -1,1 +1,0 @@
-lar[22210]=`<b>(ἡ)</b> <i>seul. plur</i>. γλῶχες, HÉS. <i>Sc. 398,</i> barbes d’épis ; <i>cf</i>. γλωχίς.<p><b>Étym</b>. <i>indo-europ</i>. *glōg<sup>h</sup>-s, pointe ; <i>cf</i>. γλῶσσα.`

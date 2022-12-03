@@ -1,1 +1,0 @@
-lar[96390]=`<b>συν·τυραννοκτονέω-ῶ</b> <font color="purple">[τῠ]</font> tuer ensemble un tyran <i>ou</i> les tyrans, LUC. <i>Tyr. 7</i>.`

@@ -1,1 +1,0 @@
-lar[90494]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> éleveur, PLUT. <i>M. 760</i>.<p><b>Étym</b>. σιτεύω.`

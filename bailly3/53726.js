@@ -1,1 +1,0 @@
-lar[53726]=`<b>κατα·χηρεύω</b> : τὸν βίον, DÉM. <i>852, 15,</i> passer sa vie dans le veuvage.`

@@ -1,1 +1,0 @@
-lar[75378]=`<b>παρα·βασιλεύς, έως (ὁ)</b> <font color="purple">[βᾰῐ]</font> vice-roi, <i>litt</i>. roi à côté d’un roi, EUN. <i>V. Soph. 53</i>.`

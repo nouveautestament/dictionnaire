@@ -1,1 +1,0 @@
-lar[42997]=`<b>εὐ·περίχυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui se répand facilement autour, PLUT. <i>M. 954d</i>.<p><b>Étym</b>. εὖ, περιχέω.`

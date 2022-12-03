@@ -1,1 +1,0 @@
-lar[23506]=`<b>ου (τὸ)</b> représentation, <i>d’où</i> :<br><b>      1</b> spectacle, <i>particul</i>. spectacle mimé, HDT. <i>2, 171</i>.<br><b>      2</b> image <i>ou</i> devise sur un bouclier, A.RH. <i>1, 746</i> ; LYC. <i>1179</i>.<p><b>Étym</b>. δείκνυμι.`

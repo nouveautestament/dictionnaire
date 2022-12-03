@@ -1,1 +1,0 @@
-lar[25992]=`<b>ας (ἡ)</b> seconde portée, ARSTT. <i>G.A. 1, 11, 7</i>.<p><b>Étym</b>. δίγονος.`

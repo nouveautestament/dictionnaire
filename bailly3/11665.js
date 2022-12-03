@@ -1,1 +1,0 @@
-lar[11665]=`<b>ή, όν</b>, d’affranchi, fils d’affranchi, PLUT. <i>Syll. 1</i>.`

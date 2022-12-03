@@ -1,1 +1,0 @@
-lar[42169]=`<b>εὐ·θεράπευτος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> facile à soigner, TH. <i>H.P. 9, 16, 6 ; particul</i>. facile à guérir, à secourir, DC. <i>38, 24</i>.<br><b>      2</b> qu’on gagne aisément par de bons soins, XÉN. <i>Cyr. 2, 2, 10</i>.<p><b>Étym</b>. εὖ, θεραπεύω.`

@@ -1,1 +1,0 @@
-lar[57790]=`<b>κρηδεμνό·κομος, ος, ον</b>, à la chevelure ceinte de bandelettes, AUS. <i>Ep. 12, 13</i>.<p><b>Étym</b>. κρήδεμνον, κόμη.`

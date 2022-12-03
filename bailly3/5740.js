@@ -1,1 +1,0 @@
-lar[5740]=`<b>Ἀμ·οπάων, ονος (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Amopaôn, <i>h</i>. IL. <i>8, 276</i>.<p><b>Étym</b>. ἅμα, ὀπάων.`

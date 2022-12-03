@@ -1,1 +1,0 @@
-lar[64328]=`<b>ή, όν</b>, qui demeure <i>ou</i> attend volontiers, patient, M. ANT. <i>1, 16</i>.<p><b>Étym</b>. μένω.`

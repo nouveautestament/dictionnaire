@@ -1,1 +1,0 @@
-lar[92539]=`<b>στηλο·κοπέω-ῶ</b>, graver sur une colonne, HYPÉR. (POLL. <i>8, 73</i>) ; DC. <i>43, 7</i>.<p><b>Étym</b>. στ. -κοπος <i>de</i> κόπτω.`

@@ -1,1 +1,0 @@
-lar[11087]=`<b>α, ον</b> <font color="purple">[ᾰγ]</font> <i>vb. de</i> ἀπαγορεύω, LUC. <i>Herm. 47</i> ; D. CHR. <i>1, 267 Reiske</i>.`

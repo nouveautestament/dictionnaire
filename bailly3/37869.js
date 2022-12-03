@@ -1,1 +1,0 @@
-lar[37869]=`<b>ἐπι·καθέζομαι :<br>      1</b> s’asseoir <i>ou</i> être assis sur, se laisser tomber sur, ἐπί <i>et le dat</i>. ARTÉM. <i>2, 20</i> ; AR. <i>Pl. 185</i>.<br><b>      2</b> <i>t. de méc</i>. être superposé, être appuyé sur, <i>en parl. d’une pièce d’un mécanisme,</i> HÉRON.`

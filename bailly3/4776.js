@@ -1,1 +1,0 @@
-lar[4776]=`<b>ἀλλο·δοξέω-ῶ</b>, prendre une chose pour une autre, se méprendre, PLAT. <i>Theæt. 189d, 190d</i>.<p><b>Étym</b>. ἄ. δόξα.`

@@ -1,1 +1,0 @@
-lar[24737]=`<b>δια·καυλέω-ῶ</b>, monter en tige, en arbre, TH. <i>C.P. 7, 2, 4</i>.<p><b>Étym</b>. διά, καυλός.`

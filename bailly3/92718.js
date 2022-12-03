@@ -1,1 +1,0 @@
-lar[92718]=`<b>οῦ (ὁ)</b> <i>litt</i>. préposé au vestiaire, à la garde-robe, <i>n. d’une classe de prêtres égyptiens,</i> SPT. <i>4Reg. 10, 22 ; au plur</i>. PLUT. <i>M. 366e ;</i> CLÉM. <i>758</i>.<p><b>Étym</b>. στολίζω.`

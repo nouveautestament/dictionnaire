@@ -1,1 +1,0 @@
-lar[39328]=`<b>ατος (τὸ)</b> <font color="purple">[τᾰ]</font> extension, PLUT. <i>M. 457b</i>.<p><b>Étym</b>. ἐπιτείνω.`

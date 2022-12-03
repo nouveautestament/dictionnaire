@@ -1,1 +1,0 @@
-lar[27847]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui concerne les esclaves fugitifs, PLUT. <i>Pomp. 31</i>.<p><b>Étym</b>. δραπέτης.`

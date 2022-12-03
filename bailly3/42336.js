@@ -1,1 +1,0 @@
-lar[42336]=`<b>εὐ·ΐατος, ος, ον</b> <font color="purple">[ῑᾱ]</font> facile à guérir, TH. <i>H.P. 5, 4, 5</i>.<p>•<i> Cp</i>. -ότερος (<i>fém. ion</i>. εὐϊητοτέρη) HPC. <i>790</i> ; XÉN. <i>Eq. 4, 2</i> ; ARSTT. <i>Nic. 7, 3 et 11</i>.<p>➳ <i>Ion</i>. εὐΐητος, <i>au cp. (v. ci-dessus).</i><p><b>Étym</b>. εὖ, ἰάομαι.`

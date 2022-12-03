@@ -1,1 +1,0 @@
-lar[12247]=`<b>ἀπο·δειροτομέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀπεδειροτόμησα)</font> couper le cou à, <i>acc</i>. IL. <i>18, 336 ; 23, 22</i> ; LUC. <i>D. mer. 13, 3 ; en parl. de troupeaux,</i> OD. <i>11, 35</i> ; κεφαλὴν ἀπ. HÉS. <i>Th. 280, m. sign</i>.`

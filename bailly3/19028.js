@@ -1,1 +1,0 @@
-lar[19028]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font> travail manuel, PLUT. <i>Marc. 14</i>.<p><b>Étym</b>. βαναυσουργός.`

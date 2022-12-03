@@ -1,1 +1,0 @@
-lar[100169]=`<b>οῦ (ὁ)</b> disposition de nombres en forme de triangle, NICOM. <i>Arithm. 2, 8</i>.<p><b>Étym</b>. τριγωνίζω.`

@@ -1,1 +1,0 @@
-lar[95311]=`<b>συν·εισευπορέω-ῶ</b>, contribuer à fournir, à procurer, ATH. <i>367b</i>.`

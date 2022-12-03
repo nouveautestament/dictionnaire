@@ -1,1 +1,0 @@
-lar[48571]=`<b>ίδος (ἡ)</b> prêtresse, PLUT. <i>M. 435b</i>.<p><b>Étym</b>. <i>fém. de</i> ἱερεύς.`

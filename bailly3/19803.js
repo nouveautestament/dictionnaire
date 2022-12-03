@@ -1,1 +1,0 @@
-lar[19803]=`<b>ων (οἱ)</b> les Bistones, <i>pple thrace,</i> HDT. <i>7, 110</i> ; EUR. <i>Alc. 484 ; etc</i>.`

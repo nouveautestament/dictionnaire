@@ -1,1 +1,0 @@
-lar[14702]=`<b>ἀριστό·καρπος, ος, ον</b>, qui produit d’excellents fruits, fertile, BACCHYL. <i>3, 1</i>.<p><b>Étym</b>. ἄ. καρπός.`

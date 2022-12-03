@@ -1,1 +1,0 @@
-lar[21205]=`<b>γαλακτο·τροφέω-ῶ</b> <font color="purple">[γᾰ]</font> nourrir de lait, SPT. <i>1Macc. 13, 20</i> ; PHIL. <i>2, 82, 10 ; etc</i>.<p><b>Étym</b>. γάλα, -τροφος <i>de</i> τρέφω.`

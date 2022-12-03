@@ -1,1 +1,0 @@
-lar[58075]=`<b>ης (ἡ)</b> le territoire de Krossa, <i>contrée macédonienne,</i> HDT. <i>7, 123</i>.`

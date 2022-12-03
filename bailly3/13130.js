@@ -1,1 +1,0 @@
-lar[13130]=`<b>ἀπο·πραΰνω</b> <font color="purple">[ᾱϋ]</font> adoucir, apaiser, PLUT. <i>Sert. 25</i>.`

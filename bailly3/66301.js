@@ -1,1 +1,0 @@
-lar[66301]=`<i>adv</i>., par parties, par degrés, SYN. <i>311b ;</i> PROCL. <i>Ptol. 3, 10, p. 178</i>.`

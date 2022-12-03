@@ -1,1 +1,0 @@
-lar[74944]=`<b>ας (ἡ)</b> métier d’aubergiste, PLAT. <i>Leg. 918d</i>.<p><b>Étym</b>. πάνδοκος.`

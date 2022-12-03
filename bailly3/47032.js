@@ -1,1 +1,0 @@
-lar[47032]=`<b>ῶν (αἱ)</b> Thespies (<i>auj</i>. ruines près de Thespiés) <i>v. de Béotie,</i> XÉN. <i>Hell. 5, 4, 15, etc.</i> ; DÉM. <i>5, 10 Baiter-Sauppe, etc</i>.<p>➳ <i>Sg</i>. Θέσπια <i>ou</i> Θεσπιά, COR. <i>fr. 23</i>.`

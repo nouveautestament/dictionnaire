@@ -1,1 +1,0 @@
-lar[88446]=`<b>ή, όν</b>, qui a la force de briser, HPC. <i>1175b</i>.<p><b>Étym</b>. ῥηκτός.`

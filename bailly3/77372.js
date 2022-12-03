@@ -1,1 +1,0 @@
-lar[77372]=`<b>πατρο·δώρητος, ος, ον</b>, donné en présent par le père, LUC. <i>Trag. 267</i>.<p><b>Étym</b>. π. δωρέω.`

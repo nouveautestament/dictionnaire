@@ -1,1 +1,0 @@
-lar[68841]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> neige qui tombe, IL. <i>10, 7</i> ; OD. <i>4, 566</i> ; PD. (DH. <i>Dem. 7</i>) ; HDT. <i>4, 50, 8, 98</i> ; ARSTT. <i>Mund. 4</i>.<br><b>      2</b> <i>p. ext</i>. pluie, NONN. <i>D. 6, 267, 324, 359 ; 8, 260</i>.<p><b>Étym</b>. νείφω.`

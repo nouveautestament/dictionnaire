@@ -1,1 +1,0 @@
-lar[29710]=`<b>ἐγ·κολπίας ἄνεμος (ὁ)</b> vent qui sort du fond d’un golfe, ARSTT. <i>Mund. 4</i>.<p><b>Étym</b>. ἐν, κόλπος.`

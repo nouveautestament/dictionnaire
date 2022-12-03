@@ -1,1 +1,0 @@
-lar[10227]=`<b>ας (ἡ)</b> Antipatra, <i>f</i>. ANTH. <i>11, 201</i>.<p><b>Étym</b>. <i>fém. de</i> Ἀντίπατρος.`

@@ -1,1 +1,0 @@
-lar[26639]=`<b>δί·μετρος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de deux mesures (de liquides <i>ou</i> de grains) SPT. <i>4Reg. 7, 1</i>.<br><b>      2</b> <i>t. de métr</i>. de deux mesures, DRAC. <i>134, 6 et 13</i> ; HÉPH. <i>5, 3</i>.<p><b>Étym</b>. δίς, μέτρον.`

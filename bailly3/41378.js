@@ -1,1 +1,0 @@
-lar[41378]=`<b>ἑτερό·σσυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui s’élance d’un côté, NONN. <i>D. 38, 244</i>.<p><b>Étym</b>. ἕ. σεύω.`

@@ -1,1 +1,0 @@
-lar[60716]=`<b>Λεω·τυχίδης, ου (ὁ)</b> Léôtykhidès, <i>n. de deux rois de Sparte,</i> THC. <i>1, 89</i> ; XÉN. <i>Hell. 3, 3, 1, etc</i>.<p>➳ <i>Gén</i>. <b>-ου</b>, XÉN. <i>l. c. ; ou</i> -α, XÉN. <i>Ages. 1, 5. Ion</i>. Λευτυχίδης, HDT. <i>6, 65, etc</i>.<p><b>Étym</b>. λ. τύχη.`

@@ -1,1 +1,0 @@
-lar[1008]=`<b>ου</b>, <i>adj. m</i>. d’Agylla (Ἄγυλλα) <i>v. d’Étrurie (postér</i>. Cære) HDT. <i>1, 167</i>.`

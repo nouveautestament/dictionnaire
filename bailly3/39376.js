@@ -1,1 +1,0 @@
-lar[39376]=`<i>adv</i>., agréablement, PLUT. <i>Num. 13</i>.<p><b>Étym</b>. ἐπιτερπής.`

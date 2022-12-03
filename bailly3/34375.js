@@ -1,1 +1,0 @@
-lar[34375]=`<b>ἐνεργο·λαβέω-ῶ</b> <font color="purple">[ᾰ]</font> faire un gain <i>ou</i> un profit avec, ESCHN. <i>75, 1</i>.`

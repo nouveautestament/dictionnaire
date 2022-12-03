@@ -1,1 +1,0 @@
-lar[13289]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[σῑ]</font> action de garder secret, silence, HPC. <i>22, 48</i>.<p><b>Étym</b>. ἀποσιγάω.`

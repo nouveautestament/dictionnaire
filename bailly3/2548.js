@@ -1,1 +1,0 @@
-lar[2548]=`<b>αἱματο·λοιχός, ός, όν</b> <font color="purple">[ᾰ]</font> qui lèche le sang, ESCHL. <i>Ag. 1457</i>.<p><b>Étym</b>. αἷμα, λείχω.`

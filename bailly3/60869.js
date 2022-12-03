@@ -1,1 +1,0 @@
-lar[60869]=`<b>(ἡ)</b> (<i>seul. nom. et acc. sg</i>.) oubli, SOPH. <i>O.C. 584</i> ; EUR. <i>Cycl. 171</i>.<p><b>Étym</b>. λανθάνω.`

@@ -1,1 +1,0 @@
-lar[22320]=`<i>adv</i>., au moyen d’un cadran solaire, STR. <i>87</i>.`

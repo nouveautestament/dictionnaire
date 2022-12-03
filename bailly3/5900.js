@@ -1,1 +1,0 @@
-lar[5900]=`<b>ἀμυδρόω-ῶ</b>, obscurcir, affaiblir, PROCL. <i>Inst. theol. 95, p. 140</i> ; PHIL. <i>1, 273</i>.<p><b>Étym</b>. ἀμυδρός.`

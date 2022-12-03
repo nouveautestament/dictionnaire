@@ -1,1 +1,0 @@
-lar[37655]=`<b>ἐπι·δοκέω-ῶ</b>, paraître en outre, AND. <i>32, 43, dout</i>.`

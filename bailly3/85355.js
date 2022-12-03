@@ -1,1 +1,0 @@
-lar[85355]=`<b>προσ·βόρειος, ος, ον</b>, tourné vers le nord, exposé au nord, ARSTT. <i>H.A. 5, 15, 7</i> ; TH. <i>H.P. 1, 9, 2, etc</i>.<p><b>Étym</b>. π. βορέας.`

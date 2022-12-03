@@ -1,1 +1,0 @@
-lar[65247]=`<font color="purple">[ᾰ]</font> <i>c</i>. μετωπηδόν, OPP. <i>C. 2, 65</i> ; NONN. <i>D. 5, 65</i>.`

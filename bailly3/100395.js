@@ -1,1 +1,0 @@
-lar[100395]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐῑῐ]</font> « écrit sur les Trois villes », <i>titre d’un ouvrage de Dicéarque,</i> ATH. <i>141a, et d’un autre de Théopompe</i> (<i>v</i>. τρικάρηνος).<p><b>Étym</b>. τρίπολις.`

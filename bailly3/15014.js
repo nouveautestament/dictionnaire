@@ -1,1 +1,0 @@
-lar[15014]=`<b>ἀροτρο·φορέω-ῶ</b> (<i>seul. inf. prés</i>.) <font color="purple">[ᾰ]</font> tirer (<i>litt</i>. transporter) la charrue, ANTH. <i>9, 347</i>.<p><b>Étym</b>. ἄ. -φορος <i>de</i> φέρω.`

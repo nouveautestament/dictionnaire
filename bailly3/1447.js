@@ -1,1 +1,0 @@
-lar[1447]=`<b>ας (ἡ)</b> indétermination, NICOM. (PHOT. <i>3, 596</i>).`

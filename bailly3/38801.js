@@ -1,1 +1,0 @@
-lar[38801]=`<b>ἐπι·προβάλλω</b>, jeter en avant sur, <i>avec</i> ἐπί <i>et l’acc</i>. SIMYL. (PLUT. <i>Rom. 17</i>).`

@@ -1,1 +1,0 @@
-lar[36670]=`<b>ἐπ·αναχωρέω-ῶ</b>, revenir sur ses pas, HDT. <i>9, 13</i> ; THC. <i>1, 131</i> ; AR. <i>Lys. 461</i> ; ἔς τι, THC. <i>1, 63</i> ; πρός τι, THC. <i>4, 44,</i> vers qqe ch. ; <i>fig</i>. ἐπὶ τὰ λεχθέντα, PLAT. <i>Leg. 781e</i>, revenir sur ce qui a été dit.`

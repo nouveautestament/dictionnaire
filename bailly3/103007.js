@@ -1,1 +1,0 @@
-lar[103007]=`(<i>seul. prés. et impf. itér</i>.) dormir, IL. <i>24, 344</i> ; OD. <i>5, 48 ; 24, 4, etc.</i> ; MOSCH. <i>2, 24 ; en parl. des constellations qui se couchent,</i> COL. <i>342</i>.<p>➳ <i>Prés</i>. IL. <i>ll. cc. ; impf. itér. 3 sg</i>. ὑπνώεσκε, Q. SM. <i>8, 503 ; 10, 191</i>.<p><b>Étym</b>. <i>épq. c</i>. ὑπνόω.`

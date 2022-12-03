@@ -1,1 +1,0 @@
-lar[3830]=`<b>ἀκρό·πους</b>, <i>gén</i>. <b>-ποδος (ὁ)</b> pointe du pied, HPC. <i>Fract. 285</i>.<p><b>Étym</b>. ἄ. πούς.`

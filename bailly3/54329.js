@@ -1,1 +1,0 @@
-lar[54329]=`<b>ά, όν</b>, brûlant, ardent, <i>ép. de Sirius,</i> OPP. <i>H. 2, 509</i>.<p><b>Étym</b>. καίω.`

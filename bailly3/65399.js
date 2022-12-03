@@ -1,1 +1,0 @@
-lar[65399]=`<b>μηλό·μελι, ιτος (τὸ)</b> <font color="purple">[ῐ]</font> mélange de jus de pomme <i>ou</i> de coing avec du miel, DIOSC. <i>5, 39</i>.<p><b>Étym</b>. μῆλον², μέλι.`

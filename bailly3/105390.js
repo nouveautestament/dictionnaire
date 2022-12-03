@@ -1,1 +1,0 @@
-lar[105390]=`<b>ης (ἡ)</b> agrafe, PALÆPH. <i>52, 7</i>.<p><b>Étym</b>. <i>lat</i>. fibula.`

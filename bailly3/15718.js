@@ -1,1 +1,0 @@
-lar[15718]=`<b>ἀσαλεύτως</b> <font color="purple">[σᾰ]</font> <i>adv</i>., sans agitation, avec calme, POL. <i>9, 9, 8</i>.`

@@ -1,1 +1,0 @@
-lar[66049]=`<b>μισο·παθές (τὸ)</b> <i>autre n. de la plante</i> ὠκιμοειδές, DIOSC. <i>Noth. p. 464 (4, 28)</i>.`

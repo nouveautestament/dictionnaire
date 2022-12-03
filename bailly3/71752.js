@@ -1,1 +1,0 @@
-lar[71752]=`<b>ας (ἡ)</b> identité de nature, NAZ. <i>2, 96a Migne</i>.<p><b>Étym</b>. ὁμοφυής.`

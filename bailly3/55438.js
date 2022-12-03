@@ -1,1 +1,0 @@
-lar[55438]=`<b>ων (οἱ)</b> <font color="purple">[ῐ]</font> les Kikones, <i>pple de Thrace,</i> IL. <i>2, 846</i> ; OD. <i>9, 39, etc.</i> ; HDT. <i>7, 59, etc</i>.<p>➳ <i>Dat. pl</i>. Κίκοσιν, DS. <i>5, 77 ; épq</i>. Κικόνεσσι, OD. <i>9, 39, 47</i>.`

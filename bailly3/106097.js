@@ -1,1 +1,0 @@
-lar[106097]=`<font color="purple">[ῐ]</font> <i>adv</i>., en savant, en sage, ISOCR. <i>Antid. § 296</i> ; PLAT. <i>Phæd. 91a, etc</i>.<p>•<i> Cp</i>. -ωτέρως, ARSTT. <i>Sens. 1, 4, ou</i> -ώτερον, CIC. <i>Att. 7, 8</i>.`

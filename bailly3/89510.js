@@ -1,1 +1,0 @@
-lar[89510]=`<b>ων (οἱ)</b> les Satilæes, <i>Béotiens de la famille des Héraclides,</i> PLUT. <i>Ser. num. vind. 13</i>.`

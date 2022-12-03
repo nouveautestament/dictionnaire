@@ -1,1 +1,0 @@
-lar[6902]=`<b>ἀν·άκανθος, ος, ον</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> sans épines, TH. <i>H.P. 3, 12, 9</i>.<br><b>      2</b> sans arête, HDT. <i>4, 53</i>.<p><b>Étym</b>. ἀν-, ἄκανθα.`

@@ -1,1 +1,0 @@
-lar[17559]=`<b>αὑτο·λαλητής, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui se parle à lui-même, TIMON (DL. <i>9, 69 ; var</i>. αὐτολάλητος).<p><b>Étym</b>. αὑτῷ, λαλέω.`

@@ -1,1 +1,0 @@
-lar[29108]=`<b>δωδεκά·στεγος, ος, ον</b>, à douze étages (tour) Ps.-CALLISTH. <i>2, 218</i>.<p><b>Étym</b>. δ. στέγη.`

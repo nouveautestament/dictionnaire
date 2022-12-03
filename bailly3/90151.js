@@ -1,1 +1,0 @@
-lar[90151]=`<b>σιδηρο·βριθής, ής, ές</b> <font color="purple">[ῐῑ]</font> au fer pesant, <i>en parl. d’une lance,</i> EUR. <i>fr. 535</i>.<p><b>Étym</b>. σίδηρος, βρίθω.`

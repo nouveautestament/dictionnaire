@@ -1,1 +1,0 @@
-lar[50397]=`<b>καθ·ημέριος, α, ον</b> <font color="purple">[κᾰ]</font><br><b>      1</b> de chaque jour, quotidien, EUR. <i>Ph. 229</i>.<br><b>      2</b> de ce jour-ci, d’aujourd’hui, SOPH. <i>El. 1414</i>.<p>➳ <i>Dor</i>. καθαμέριος <font color="purple">[θᾱ]</font> EUR. <i>l. c</i>.<p><b>Étym</b>. κ. ἡμέρα.`

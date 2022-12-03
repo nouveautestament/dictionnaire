@@ -1,1 +1,0 @@
-lar[66464]=`<b>μόν·ανδρος, ος, ον</b>, qui n’a <i>ou</i> n’a eu qu’un mari, ECCL.<p><b>Étym</b>. μόνος, ἀνήρ.`

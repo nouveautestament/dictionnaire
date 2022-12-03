@@ -1,1 +1,0 @@
-lar[24149]=`<b>άδος</b>, <i>adj. f</i>. de Dèlos, HH. <i>Ap. 157</i> ; EUR. <i>Hec. 462, Ion 167, etc. ; avec un subst. neutre,</i> EUR. <i>I.T. 1235</i>.<p><b>Étym</b>. Δῆλος.`

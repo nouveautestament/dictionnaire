@@ -1,1 +1,0 @@
-lar[49862]=`<b>α, ον</b>, voisin de l’Ister, PD. <i>O. 3, 46</i>.<p><b>Étym</b>. Ἴστρος¹.`

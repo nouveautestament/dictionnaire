@@ -1,1 +1,0 @@
-lar[75987]=`<b>παρα·νίσσομαι</b>, passer le long de, longer <i>ou</i> dépasser, <i>acc</i>. HH. <i>Ap. 430</i>.`

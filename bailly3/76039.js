@@ -1,1 +1,0 @@
-lar[76039]=`<b>εως (ἡ)</b> action de passer outre, DS. <i>Exc. 631, 12</i>.<p><b>Étym</b>. παραπέμπω.`

@@ -1,1 +1,0 @@
-lar[5437]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de traire, PD. <i>fr. 73</i>.<p><b>Étym</b>. ἀμέλγω.`

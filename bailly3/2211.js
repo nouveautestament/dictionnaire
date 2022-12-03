@@ -1,1 +1,0 @@
-lar[2211]=`<b>ου (ὁ)</b> Ægestès, <i>fondateur d’Égeste,</i> LYC. <i>968</i>.`

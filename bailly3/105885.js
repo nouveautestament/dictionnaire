@@ -1,1 +1,0 @@
-lar[105885]=`<b>φιλό·λαγνος, ος, ον</b> <font color="purple">[ῐ]</font> débauché, lascif, HPC. <i>479, 9</i>.<p><b>Étym</b>. φ. λάγνος.`

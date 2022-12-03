@@ -1,1 +1,0 @@
-lar[72225]=`<b>ατος (τὸ)</b> alène de cordonnier, HDT. <i>4, 70, au dat. éol</i>. ὑπέατι.<p><b>Étym</b>. ὀπή ; <i>cf</i>. ὕπεας.`

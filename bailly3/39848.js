@@ -1,1 +1,0 @@
-lar[39848]=`<b>ή, όν</b>, <i>au cp</i>. -ώτερος, déshonorant, infamant, CHRYS. <i>4, 41</i>.`

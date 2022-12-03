@@ -1,1 +1,0 @@
-lar[105366]=`<b>ος, ον</b>, propre à détruire, <i>particul</i>. à faire avorter, HPC. <i>Jusjur.</i> ; DIOSC. <i>5, 77</i> ; τὸ φθόριον (<i>s.-e</i>. φάρμακον) PLUT. <i>M. 134f</i>, drogue pour faire avorter.<p><b>Étym</b>. φθορά.`

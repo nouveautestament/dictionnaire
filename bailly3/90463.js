@@ -1,1 +1,0 @@
-lar[90463]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. σίσυρα, ESCHL. <i>fr. 108</i> ; HDT. <i>4, 109 ; 7, 67</i>.`

@@ -1,1 +1,0 @@
-lar[7495]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ἀνάπτυκτος, ARSTT. <i>H.A. 4, 4, 4</i>.`

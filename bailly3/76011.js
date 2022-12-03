@@ -1,1 +1,0 @@
-lar[76011]=`<b>παρα·ξηραίνω</b>, faire sécher légèrement, HIPPIATR. <i>37, 27</i>.`

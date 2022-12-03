@@ -1,1 +1,0 @@
-lar[32527]=`<b>ας (ἡ)</b> Élateia (Élatée) :<br><b>      1</b> <i>v. de Phocide (auj</i>. Elátia) HDT. <i>8, 33</i> ; DÉM. <i>6, 14, etc. Baiter-Sauppe</i>.<br><b>      2</b> <i>v. d’Épire,</i> DÉM. <i>7, 32 Baiter-Sauppe</i>.`

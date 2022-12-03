@@ -1,1 +1,0 @@
-lar[1228]=`<b>ἀδελφιδῆ, ῆς (ἡ)</b> <font color="purple">[ᾰῐ]</font> nièce, AR. <i>Nub. 47</i> ; LYS. <i>97, 2 ; de même dans une inscr. att. (369 av. J.-C.), v. Meisterh. p. 99, 9</i>.<p><b>Étym</b>. <i>v</i>. ἀδελφιδεός.`

@@ -1,1 +1,0 @@
-lar[66380]=`<b>ου (ὁ)</b> Molos, <i>fils de Deucalion,</i> IL. <i>10, 269 ; 13, 249</i>.`

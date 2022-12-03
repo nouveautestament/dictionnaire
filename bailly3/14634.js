@@ -1,1 +1,0 @@
-lar[14634]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Arisbè :<br><b>      1</b> <i>v. de Troade,</i> IL. <i>2, 836 ; 6, 13 ; 21, 43</i>.<br><b>      2</b> <i>f</i>. LYC. <i>1308</i>.`

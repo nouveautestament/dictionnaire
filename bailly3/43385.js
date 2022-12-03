@@ -1,1 +1,0 @@
-lar[43385]=`<b>εὐρωτιάω-ῶ</b>, se moisir <i>ou</i> être moisi, gâté, TH. <i>C.P. 1, 6, 8</i> ; LUC. <i>Nec. 15 ; fig</i>. AR. <i>Nub. 44</i>.<p><b>Étym</b>. εὐρώς.`

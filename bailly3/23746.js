@@ -1,1 +1,0 @@
-lar[23746]=`<b>ου (ὁ)</b> Dékélos, <i>héros de Décélie,</i> HDT. <i>9, 73</i>.`

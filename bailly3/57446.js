@@ -1,1 +1,0 @@
-lar[57446]=`<b>Κουφ·αγόρης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kouphagorès, <i>Athénien,</i> HDT. <i>6, 117</i>.<p><b>Étym</b>. κοῦφος, ἀγορεύω.`

@@ -1,1 +1,0 @@
-lar[89050]=`<b>ου (τὸ)</b> <font color="purple">[βᾰ]</font> endroit où l’on célèbre le sabbat, JOS. <i>A.J. 16, 6, 2</i>.<p><b>Étym</b>. σάββατον.`

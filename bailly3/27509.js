@@ -1,1 +1,0 @@
-lar[27509]=`<b>δομο·σφαλής, ής, ές</b> <font color="purple">[ᾰ]</font> qui fait écrouler les maisons, ESCHL. <i>Ag. 1533</i>.<p><b>Étym</b>. δόμος, σφάλλω.`

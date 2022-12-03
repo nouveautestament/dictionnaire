@@ -1,1 +1,0 @@
-lar[39517]=`<b>ἐπι·τροχάζω</b>, parcourir rapidement, traiter superficiellement et en courant, DH. <i>Thuc. 16</i>.`

@@ -1,1 +1,0 @@
-lar[69682]=`<b>ξυλό·σπογγος, ου (ὁ)</b> <font color="purple">[ῠ]</font> éponge fixée au bout d’un bâton, HIPPIATR. <i>p. 187</i>.<p><b>Étym</b>. ξ. σπόγγος.`

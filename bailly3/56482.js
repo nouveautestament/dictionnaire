@@ -1,1 +1,0 @@
-lar[56482]=`<b>κοινο·λεχής, ής, ές</b>, qui partage son lit avec un autre, <i>d’où</i> adultère, incestueux, SOPH. <i>El. 97</i>.<p><b>Étym</b>. κοινός, λέχος.`

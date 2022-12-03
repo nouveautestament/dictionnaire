@@ -1,1 +1,0 @@
-lar[17728]=`<b>αὐτο·τοιοῦτος, -αύτη, -οῦτον</b>, qui a en soi une telle forme, ORIG.`

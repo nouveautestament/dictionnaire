@@ -1,1 +1,0 @@
-lar[37149]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font><br><b>      1</b> action de cultiver le terrain d’autrui, <i>càd</i>. empiètement, THC. <i>1, 139</i> ; PLAT. <i>Leg. 843c.</i><br><b>      2</b> droit, pour deux voisins, de cultiver réciproquement le domaine l’un de l’autre, XÉN. <i>Cyr. 3, 2, 23</i>.<p><b>Étym</b>. ἐπεργάζομαι.`

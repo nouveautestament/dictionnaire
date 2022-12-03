@@ -1,1 +1,0 @@
-lar[65428]=`<b>εως (ἡ) :<br>      1</b> action de sonder, HPC. <i>772f.</i><br><b>      2</b> usage de la sonde, HPC. <i>902b</i>.<p><b>Étym</b>. μηλόω.`

@@ -1,1 +1,0 @@
-lar[104812]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> celui qui fait montre de qqe ch. NAZ. <i>Carm. iamb. 15, 84</i>.<p><b>Étym</b>. φαίνω.`

@@ -1,1 +1,0 @@
-lar[46839]=`<b>Θεό·φιλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Théophilos, <i>h</i>. DÉM. <i>37, 6 Baiter-Sauppe</i> ; PLUT. <i>Alex. 32, etc</i>.<p><b>Étym</b>. θ. φίλος.`

@@ -1,1 +1,0 @@
-lar[47415]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. θλάσπις DIOSC. <i>2, 186</i>.`

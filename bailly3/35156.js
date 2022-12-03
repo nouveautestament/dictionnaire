@@ -1,1 +1,0 @@
-lar[35156]=`<b>ἔν·τυπος, ος, ον</b> <font color="purple">[ῡ]</font> qui marque son empreinte, <i>d’où fig</i>. ferme, solide, SIB. <i>12, 148</i>.<p><b>Étym</b>. ἐν, τύπος.`

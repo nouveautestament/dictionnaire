@@ -1,1 +1,0 @@
-lar[16465]=`<b>ἀ·σύμπτωτος, ος, ον</b>, qui ne s’affaisse pas <i>ou</i> ne se réduit pas, HPC. <i>47, 42</i>.<p><b>Étym</b>. ἀ, συμπίπτω.`

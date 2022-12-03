@@ -1,1 +1,0 @@
-lar[45910]=`<b>άδος (ἡ)</b> Hérodiade, <i>femme d’Hérode Philippe, fils du roi juif Hérode,</i> JOS. <i>A.J. 18, 5, 1</i> ; NT. <i>Matth. 14, 3 ; Marc. 6, 17, 22</i>.`

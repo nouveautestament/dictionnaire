@@ -1,1 +1,0 @@
-lar[31365]=`<b>ἑκ·καί·δεκα</b> (οἱ, αἱ, τὰ) <i>indécl</i>. seize, HDT. <i>2, 13</i> ; ATT. <i>etc. ; pour marquer une quantité indéterminée,</i> LUC. <i>D. deor. 1</i>.`

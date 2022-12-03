@@ -1,1 +1,0 @@
-lar[107744]=`<font color="purple">[ᾰᾰ]</font> <i>adv. c</i>. χαμᾶζε IL. <i>6, 147 ; 7, 16, 190, etc.</i> ; ESCHL. <i>Sept. 358, etc.</i> ; CALL. <i>Cer. 26</i>.<p><b>Étym</b>. <i>th</i>. χαμα-, -δις.`

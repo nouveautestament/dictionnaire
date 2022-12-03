@@ -1,1 +1,0 @@
-lar[14622]=`<b>ου (ὁ)</b> Ariomardos, <i>Perse,</i> HDT. <i>7, 67, 78</i> ; ESCHL. <i>Pers. 38, 321</i>.`

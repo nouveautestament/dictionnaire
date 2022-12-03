@@ -1,1 +1,0 @@
-lar[52139]=`<i>adv</i>., d’une façon dégradée, ISOCR. <i>Antid. § 306</i>.<p><b>Étym</b>. καταβάλλω.`

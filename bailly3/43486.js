@@ -1,1 +1,0 @@
-lar[43486]=`<b>εὐστοχέω-ῶ</b>, bien viser, atteindre le but, LUC. <i>Cal. 14</i> ; POL. <i>1, 14, 7 ; d’où</i> atteindre, <i>en gén., avec le gén</i>. POL. <i>2, 45, 5 ; 28, 3, 6 ; 32, 7, 10</i> ; STR. <i>791 ; avec l’acc</i>. APD. <i>1, 7, 4 ; fig</i>. raisonner <i>ou</i> deviner juste, PLUT. <i>M. 617d</i>.<p><b>Étym</b>. εὔστοχος.`

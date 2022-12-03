@@ -1,1 +1,0 @@
-lar[45399]=`<b>ἡμί·γραφος, ος, ον</b> <font color="purple">[ᾰ]</font> à moitié écrit, MÉN. (POLL. <i>6, 161).</i><p><b>Étym</b>. ἡμι-, γράφω.`

@@ -1,1 +1,0 @@
-lar[83675]=`<b>προ·αποπνίγω</b> <font color="purple">[ῑ]</font> étouffer auparavant, ES. <i>144 Halm</i>.`

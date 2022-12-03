@@ -1,1 +1,0 @@
-lar[49737]=`<b>ἰσοσθενέω-ῶ</b> <font color="purple">[ῑ̆]</font> être égal en force, en puissance, DL. <i>9, 76</i>.<p><b>Étym</b>. ἰσοσθενής.`

@@ -1,1 +1,0 @@
-lar[68645]=`<b>νησο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien des îles, DS. <i>3, 39</i>.<p><b>Étym</b>. νῆσος, φύλαξ.`

@@ -1,1 +1,0 @@
-lar[52264]=`<b>κατά·γυνος, ος, ον</b> <font color="purple">[ῠ]</font> adonné aux femmes, ARSTT. <i>Mir. 88</i>.<p><b>Étym</b>. κ. γυνή.`

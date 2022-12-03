@@ -1,1 +1,0 @@
-lar[93158]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠβᾰ]</font> vie de Sybarite, vie sensuelle, PHRYN. COM. <i>2-1, 605 Mein</i>.<p><b>Étym</b>. Σύβαρις.`

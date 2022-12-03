@@ -1,1 +1,0 @@
-lar[48867]=`<b>*ἱλαρά</b>, <i>ion</i>. <b>-ή, ῆς (ἡ)</b> <i>propr</i>. la gaîté, <i>n. d’un remède,</i> ANDROM. (GAL.).<p><b>Étym</b>. <i>fém. de</i> ἱλαρός.`

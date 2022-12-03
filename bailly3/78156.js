@@ -1,1 +1,0 @@
-lar[78156]=`<b>πεντ·ήρης, ης, ες</b>, à cinq rangs ; ἡ π. (<i>s.-e</i>. ναῦς) HDT. <i>6, 87</i> ; POL. <i>8, 6, 2,</i> vaisseau à cinq rangs de rames, quinquérème.<p><b>Étym</b>. πέντε, ἐρέσσω.`

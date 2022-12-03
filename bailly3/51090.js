@@ -1,1 +1,0 @@
-lar[51090]=`<b>καλλί·βωλος, ος, ον</b> <font color="purple">[ῐ]</font> au sol fertile (<i>propr</i>. aux belles mottes de terre) EUR. <i>Or. 1382</i>.<p><b>Étym</b>. κ. βῶλος.`

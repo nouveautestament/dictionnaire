@@ -1,1 +1,0 @@
-lar[66702]=`<b>ου (ὁ)</b> qui vit seul, solitaire, ARSTT. <i>Nic. 1, 8, 16, etc.</i> ; D. PHAL. <i>144</i> ; M. TYR. <i>21, 7, p. 255</i>.<p><b>Étym</b>. μονόω.`

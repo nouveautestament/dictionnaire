@@ -1,1 +1,0 @@
-lar[96297]=`<b>εως (ἡ) :<br>      1</b> achèvement, accomplissement, CLÉM. <i>623</i>.<br><b>      2</b> action accomplie, <i>p. opp. à</i> παράτασις, DYSC. <i>Synt. p. 77, 13</i>.<p><b>Étym</b>. συντελειόω.`

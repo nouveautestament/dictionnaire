@@ -1,1 +1,0 @@
-lar[74022]=`<b>οῦ (ὁ)</b> nature tardive, retard, DH. <i>4, 46</i>.<p><b>Étym</b>. ὀψίζω.`

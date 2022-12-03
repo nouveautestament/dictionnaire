@@ -1,1 +1,0 @@
-lar[4950]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>s.-e</i>. ἐσθής, robe de pourpre, AR. <i>Eq. 967</i> ; DH. <i>3, 62</i> ; PLUT. <i>Rom. 14, etc</i>.<p><b>Étym</b>. <i>fém. de</i> ἁλουργής.`

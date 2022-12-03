@@ -1,1 +1,0 @@
-lar[27489]=`<b>εως (ἡ)</b> action de tromper, XÉN. <i>Cyr. 1, 6, 28</i>.<p><b>Étym</b>. δολόω.`

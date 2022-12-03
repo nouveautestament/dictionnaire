@@ -1,1 +1,0 @@
-lar[22557]=`<b>ή, όν</b>, grec, LYC. <i>605 ; subst</i>. οἱ Γραικοί, les Grecs, <i>nom qqf. employé après Aristote au lieu de</i> Ἕλληνες, CALL. <i>fr. 160</i> ; A. ÉTOL. <i>fr. 2 ; en mauv. part chez les Romains (cf. lat</i>. Græculus), PLUT. <i>Cato ma. 9 ; Cic. 5 ; etc</i>.`

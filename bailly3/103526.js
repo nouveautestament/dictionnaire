@@ -1,1 +1,0 @@
-lar[103526]=`<b>ὑπο·μελανδρυώδης, ης, ες</b>, qui ressemble un peu au thon mariné, EPICH. (ATH. <i>121b</i>).<p><b>Étym</b>. ὑ. μελάνδρυον, -ωδης.`

@@ -1,1 +1,0 @@
-lar[43602]=`<b>ας (ἡ)</b> hardiesse, assurance, courage, EUR. <i>Med. 469</i> ; ARSTT. <i>Rhet. Al. 3, 5 ; au pl</i>. DS. <i>17, 10</i>.<p><b>Étym</b>. εὔτολμος.`

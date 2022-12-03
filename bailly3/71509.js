@@ -1,1 +1,0 @@
-lar[71509]=`<b>ὁμό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> dont la chevelure <i>ou</i> le poil sont semblables, SOPHR. (D. PHAL. <i>§ 151).</i><p><b>Étym</b>. ὁμ. θρίξ.`

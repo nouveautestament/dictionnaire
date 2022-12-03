@@ -1,1 +1,0 @@
-lar[43177]=`<b>ιδος</b>, <i>adj. f</i>. inventrice, SOPH. <i>fr. 88</i>.<p>➳ <i>Acc</i>. -ιν, DS. <i>1, 25</i>.<p><b>Étym</b>. εὑρετής.`

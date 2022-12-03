@@ -1,1 +1,0 @@
-lar[11319]=`<b>ἀ·παράκλητος, ος, ον</b>, qui n’a pas reçu d’ordre, qui agit de son propre mouvement, THC. <i>2, 98</i> ; PLUT. <i>M. 403b</i>.<p><b>Étym</b>. ἀ, παρακαλέω.`

@@ -1,1 +1,0 @@
-lar[85090]=`<b>προσ·αδικέω-ῶ</b> <font color="purple">[ᾰῐ]</font> léser par une nouvelle injustice, infliger un nouvel outrage, JOS. <i>A.J. 13, 5, 4</i> ; HLD. <i>2, 5</i>.`

@@ -1,1 +1,0 @@
-lar[64204]=`<b>μελ·ῳδός, ός, όν :<br>      1</b> qui chante, EUR. <i>I.T. 1104, etc.</i> ; A. PL. <i>220, 5, etc.</i><br><b>      2</b> <i>subst</i>. ὁ μ. <i>poète lyrique,</i> PLAT. <i>Leg. 723d.</i><br><b>      3</b> mélodieux, EUR. <i>I.A. 1045</i>.<p><b>Étym</b>. μέλος, ᾄδω.`

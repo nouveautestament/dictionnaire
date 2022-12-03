@@ -1,1 +1,0 @@
-lar[24492]=`<b>δια·γλύφω :<br>      1</b> tailler en creux, graver <i>ou</i> ciseler en creux, DS. <i>1, 66</i> ; EL. <i>V.H. 3, 45</i>.<br><b>      2</b> <i>en gén</i>. ciseler, sculpter, <i>joint à</i> διατορεύω, EL. <i>V.H. 14, 7</i>.<p>➳ <i>Pf. pass. part</i>. διαγεγλυμμένος, DS. <i>l. c.</i> ; EL. <i>V.H. 3, 45 ; mais ind. 3 sg</i>. διέγλυπται, ANDROSTH. (ATH. <i>93c</i>).`

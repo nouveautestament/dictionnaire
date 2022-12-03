@@ -1,1 +1,0 @@
-lar[57990]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾱ]</font> Kritônianos, <i>h</i>. ANTH. <i>9, 70</i>.<p><b>Étym</b>. Κρίτων.`

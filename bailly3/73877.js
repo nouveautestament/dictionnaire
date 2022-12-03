@@ -1,1 +1,0 @@
-lar[73877]=`<b>ὀφρυόομαι-οῦμαι</b>, froncer le sourcil, prendre un airarrogant, TIMON <i>28, 1</i> ; SEXT. <i>P. 1, 273 ; part. pf</i>. ὠφρυωμένος, ALCIPHR. <i>3, 4</i> ; LUC. <i>Am. 2,</i> fier, hautain.<p><b>Étym</b>. ὀφρύς.`

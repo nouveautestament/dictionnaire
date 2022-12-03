@@ -1,1 +1,0 @@
-lar[62072]=`<b>λυσί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡ]</font> qui délivre l’esprit de soucis, <i>ép. de Bacchus,</i> ANACR. <i>50, 2</i>.<p><b>Étym</b>. λ. φρήν.`

@@ -1,1 +1,0 @@
-lar[64854]=`<b>μετ·αμύνω</b> <font color="purple">[ᾰ]</font> poursuivre pour tirer vengeance, Q. SM. <i>8, 451 ; 11, 286</i> ; LYS. <i>97, 43</i>.`

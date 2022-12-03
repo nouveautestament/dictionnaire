@@ -1,1 +1,0 @@
-lar[56780]=`<b>κομβόω-ῶ</b>, nouer, <i>d’où</i> ajuster solidement, CHRYS. <i>8, 920</i>.<p><b>Étym</b>. κόμβος.`

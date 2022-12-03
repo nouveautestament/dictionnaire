@@ -1,1 +1,0 @@
-lar[39486]=`<b>ἐπι·τριακοστό·πεμπτος λόγος (ὁ)</b> <font color="purple">[ᾱ]</font> proportion de ³⁶⁄₃₅, A. QUINT. <i>p. 115</i>.`

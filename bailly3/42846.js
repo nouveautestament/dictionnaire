@@ -1,1 +1,0 @@
-lar[42846]=`évoé, <i>cri des Bacchantes,</i> SOPH. <i>Tr. 219, etc</i>.`

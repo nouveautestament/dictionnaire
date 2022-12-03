@@ -1,1 +1,0 @@
-lar[34397]=`<b>ἐν·εστιάομαι-ῶμαι</b>, festiner dans <i>ou</i> sur, LUC. <i>Am. 12</i>.`

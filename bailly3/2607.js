@@ -1,1 +1,0 @@
-lar[2607]=`<b>αἱμό·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> dont le sang coule, ESCHL. <i>fr. 230</i>.<p>➳ <i>Poét</i>. αἱμόρυτος, ANTH. <i>App. 384</i>.<p><b>Étym</b>. αἷμα, ῥέω.`

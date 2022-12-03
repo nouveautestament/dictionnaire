@@ -1,1 +1,0 @@
-lar[13931]=`<b>ἀ·πρόρρητος, ος, ον</b>, non prédit <i>ou</i> qu’on ne peut prédire, PLAT. <i>Leg. 968e</i>.`

@@ -1,1 +1,0 @@
-lar[1101]=`<b>ἄγχ·ουρος, ος, ον</b>, limitrophe de, <i>gén</i>. LYC. <i>418 ; dat</i>. ORPH. <i>Arg. 122</i>.<p><b>Étym</b>. <i>ion. p</i>. *ἄγχορος, <i>de</i> ἄ. ὅρος.`

@@ -1,1 +1,0 @@
-lar[90404]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Σιντιακός, A.RH. <i>1, 608 ; 4, 1759</i>.`

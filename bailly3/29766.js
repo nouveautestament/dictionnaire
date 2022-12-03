@@ -1,1 +1,0 @@
-lar[29766]=`<i>vb. de</i> ἐγκρύπτω, HÉRODOTUS (ORIB. <i>2, 405, 7 B.-Dar</i>.).`

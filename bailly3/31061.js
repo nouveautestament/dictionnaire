@@ -1,1 +1,0 @@
-lar[31061]=`<b>ἑκατοστο·εικοστ·όγδοον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> un cent-vingt-huitième, NICOM. <i>Arithm. 11 Ast</i>.<p><b>Étym</b>. ἑκατοστός, εἰκοστός, ὄγδοος.`

@@ -1,1 +1,0 @@
-lar[75713]=`<b>ή, όν :<br>      1</b> qui prend parti pour, partisan, THC. <i>6, 13</i>.<br><b>      2</b> élu par brigue, <i>propr</i>. qui est un objet de menées et d’intrigues, DC. <i>39, 18</i>.<p><b>Étym</b>. <i>vb. de</i> παρακελεύω.`

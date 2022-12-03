@@ -1,1 +1,0 @@
-lar[14310]=`<b>ἀργυρ·ένδετος, ος, ον</b> <font color="purple">[ῠ]</font> monté en argent, <i>litt</i>. enchâssé dans de l’argent, CHRYS. <i>2, 404</i>.<p><b>Étym</b>. ἄ. ἐνδέω.`

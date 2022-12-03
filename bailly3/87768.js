@@ -1,1 +1,0 @@
-lar[87768]=`<b>ου (ἡ)</b> <font color="purple">[ῡᾰ]</font> Pyrasos, <i>v. de Thessalie,</i> IL. <i>2, 695</i>.`

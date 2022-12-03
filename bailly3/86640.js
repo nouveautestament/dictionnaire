@@ -1,1 +1,0 @@
-lar[86640]=`<b>*προσ·φωνήεις</b>, <i>épq</i>. <b>ποτι·φωνήεις, ήεσσα, ῆεν</b>, qui adresse la parole à, qui s’adresse à, capable de s’adresser à, OD. <i>9, 456</i>.<p><b>Étym</b>. π. φωνή.`

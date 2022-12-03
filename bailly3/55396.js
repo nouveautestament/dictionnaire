@@ -1,1 +1,0 @@
-lar[55396]=`<b>ας (ἡ)</b> <font color="purple">[ῑᾰλ]</font> Kidalia, <i>fontaine,</i> PD. <i>fr. 136</i>.`

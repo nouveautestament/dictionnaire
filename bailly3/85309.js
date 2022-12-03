@@ -1,1 +1,0 @@
-lar[85309]=`<b>προσ·ατιμόω-ῶ</b> <font color="purple">[ᾰῑ]</font> priver en outre de ses droits civils, DÉM. <i>981, 1 ; au pass</i>. DÉM. <i>834 fin ; 842, 16</i>.`

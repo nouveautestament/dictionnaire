@@ -1,1 +1,0 @@
-lar[73427]=`<b>ας (ἡ)</b> = <i>lat</i>. Valeria, <i>n. de f. rom</i>. PLUT. <i>Mul. virt. 14</i>.`

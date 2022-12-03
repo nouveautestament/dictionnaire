@@ -1,1 +1,0 @@
-lar[6407]=`<b>ἀμφι·τρομέω</b> (<i>prés</i>.) trembler pour, <i>gén</i>. OD. <i>4, 820</i>.`

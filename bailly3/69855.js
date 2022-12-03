@@ -1,1 +1,0 @@
-lar[69855]=`<b>ήονος</b>, <i>adj. m</i>. qui a en commun, qui participe à, qui partage, <i>gén</i>. HÉS. <i>Th. 595, 601</i>.<p>➳ <i>Dor</i>. ξυνάων <font color="purple">[ᾱ]</font> PD. <i>P. 3, 84 ; par contract</i>. ξυνάν, ᾶνος, PD. <i>N. 5, 50</i>.<p><b>Étym</b>. ξύν.`

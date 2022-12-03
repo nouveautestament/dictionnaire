@@ -1,1 +1,0 @@
-lar[44618]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> fonction de capitaine de cavalerie, ASCLÉPIOD. <i>Tact. 8</i>.<br><b>      2</b> commandement de deux chariots de guerre, EL. TACT. <i>22, 2</i>.<p><b>Étym</b>. ζυγάρχης.`

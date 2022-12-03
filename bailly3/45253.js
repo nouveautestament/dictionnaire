@@ -1,1 +1,0 @@
-lar[45253]=`<b>ου (ὁ)</b> petit clou, AR. <i>fr. 296</i>.<p><b>Étym</b>. <i>dim. de</i> ἧλος.`

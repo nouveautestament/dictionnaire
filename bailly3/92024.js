@@ -1,1 +1,0 @@
-lar[92024]=`<b>σπουδ·άρχης, ου (ὁ)</b> celui qui brigue une charge, XÉN. <i>Conv. 1, 4 dout</i>.<p><b>Étym</b>. σπουδή, ἀρχή.`

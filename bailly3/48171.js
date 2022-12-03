@@ -1,1 +1,0 @@
-lar[48171]=`<b>ή, όν</b>, admirable, HÉS. <i>Sc. 165 dout</i>.<p><b>Étym</b>. <i>cf</i>. θῶυμα.`

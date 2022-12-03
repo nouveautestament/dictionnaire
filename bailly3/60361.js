@@ -1,1 +1,0 @@
-lar[60361]=`<b>λεπιδο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> en forme d’écaille, GAL. <i>4, 188</i>.<p><b>Étym</b>. λεπίς, εἶδος.`

@@ -1,1 +1,0 @@
-lar[90042]=`<b>(ὁ)</b> Sthénélaïdas, <i>éphore lacédémonien,</i> THC. <i>1, 85 ; 8, 5</i> ; PLUT. <i>Præc. reip. ger. 6</i>.<p>➳ <i>Gén</i>. -ου, THC. <i>8, 5</i> ; -α, PLUT. <i>l. c</i>.<p><b>Étym</b>. <i>patr. de</i> Σθενέλαος.`

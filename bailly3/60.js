@@ -1,1 +1,0 @@
-lar[60]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰβ]</font> Abaskantis, <i>f</i>. ANTH. <i>App. 380</i>.`

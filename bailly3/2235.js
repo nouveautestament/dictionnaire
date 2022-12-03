@@ -1,1 +1,0 @@
-lar[2235]=`<b>ου</b> <font color="purple">[ῐ]</font> <i>ou</i> <b>αἰγιθαλός, οῦ (ὁ)</b> <font color="purple">[ῐᾱ]</font> mésange, <i>oiseau</i>, AR. <i>Av. 887</i> ; ARSTT. <i>H.A. 8, 3, 4 ; 9, 15, 2</i>.<p><b>Étym</b>. <i>cf</i>. αἴγιθος.`

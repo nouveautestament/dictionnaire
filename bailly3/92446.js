@@ -1,1 +1,0 @@
-lar[92446]=`<b>στερνό·μαντις, εως (ὁ, ἡ)</b> devin ventriloque, SOPH. <i>fr. 52 Dind</i>.<p><b>Étym</b>. στέρνον, μάντις.`

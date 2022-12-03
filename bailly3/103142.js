@@ -1,1 +1,0 @@
-lar[103142]=`<b>εως (ἡ) :<br>      1</b> action d’attacher en dessous, HPC. <i>Off. 743 ; particul</i>. action d’attacher ses sandales, ARSTT. <i>Pol. 1, 9, 2 ; Cæl. 1, 4, 6</i> ; LUC. <i>Gall. 26</i>.<br><b>      2</b> sandale, chaussure, XÉN. <i>Mem. 1, 2, 5</i> ; PLAT. <i>Charm. 173b ; au plur</i>. PLAT. <i>Prot. 322a, Rsp. 425b</i>.<p><b>Étym</b>. ὑποδέω.`

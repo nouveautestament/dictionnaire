@@ -1,1 +1,0 @@
-lar[9642]=`<b>ἀντ·επέξειμι</b> <font color="darkgreen">(<i>impf</i>. -επεξῇσαν)</font> sortir pour marcher contre, XÉN. <i>Cyr. 3, 3, 30, etc. ; avec</i> πρός <i>et l’acc</i>. THC. <i>7, 37</i>.`

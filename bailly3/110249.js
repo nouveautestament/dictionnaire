@@ -1,1 +1,0 @@
-lar[110249]=`<b>α, ον</b>, de l’épaule, huméral ; ἡ φλὲψ ὠμιαία, GAL. <i>18, 1, 386, ou subst</i>. ἡ ὠμιαία, ARSTT. <i>H.A. 3, 5, 4,</i> la veine humérale ; <i>sel. d’autres,</i> le muscle deltoïde ; τὰ ὠμιαῖα, HLD. <i>10, 27, p. 426,</i> la région des épaules.<p><b>Étym</b>. ὦμος.`

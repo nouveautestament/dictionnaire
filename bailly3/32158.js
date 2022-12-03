@@ -1,1 +1,0 @@
-lar[32158]=`<b>ἐκ·τιμάω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> honorer hautement, vénérer, SOPH. <i>El. 64</i> ; POL. <i>30, 17, 3</i>.<br><b>      2</b> estimer trop haut, surfaire, ARSTT. <i>Œc. 2, 34, 6</i> ; LGN <i>44, 7</i>.<br><b>      3</b> <i>p. ext</i>. estimer, PLAT. <i>347b</i>.`

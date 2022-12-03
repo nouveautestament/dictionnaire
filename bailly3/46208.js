@@ -1,1 +1,0 @@
-lar[46208]=`<b>ητος (ὁ)</b> <i>autre forme de</i> Θαλῆς ARSTT. <i>Pol. 2, 9</i> ; PLUT. <i>Sept. sap. conv. titre, et 1, 15</i> ; CALL. <i>fr. 96, etc</i>.`

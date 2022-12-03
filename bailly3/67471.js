@@ -1,1 +1,0 @@
-lar[67471]=`<b>η, ον</b> <font color="purple">[ῠ]</font> qui est tout au fond, OD. <i>21, 146</i>.<p><b>Étym</b>. μυχός <i>au locatif,</i> -τατος.`

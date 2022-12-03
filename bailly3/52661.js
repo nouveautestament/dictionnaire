@@ -1,1 +1,0 @@
-lar[52661]=`<b>κατα·κυβεύω</b> <font color="purple">[ῠ]</font> perdre au jeu de dés, <i>acc</i>. LYS. <i>142, 16</i> ; ESCHN. <i>13, 34</i> ; DC. <i>45, 28, etc</i>.`

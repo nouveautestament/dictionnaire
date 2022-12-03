@@ -1,1 +1,0 @@
-lar[57237]=`<font color="purple">[κῐ]</font> <i>c</i>. κοσκινεύω, DIOSC. <i>Par. 1, 154</i>.`

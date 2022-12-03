@@ -1,1 +1,0 @@
-lar[80747]=`<b>πλατύ·καρφος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux rameaux <i>ou</i> aux pousses larges, DIOSC. <i>4, 180 dout</i>.<p><b>Étym</b>. πλ. κάρφος.`

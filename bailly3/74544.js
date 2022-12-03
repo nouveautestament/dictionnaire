@@ -1,1 +1,0 @@
-lar[74544]=`<b>παλίμ·πους</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui revient sur ses pas, ANTH. <i>5, 163</i> ; LYC. <i>126 ; fig. càd</i>. inconstant, JOS. <i>B.J. 4, 1, 6</i>.<p><b>Étym</b>. π. πούς.`

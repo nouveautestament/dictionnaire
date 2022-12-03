@@ -1,1 +1,0 @@
-lar[57139]=`<b>κορυβαντιάω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> être agité d’un transport de Corybante, AR. <i>Vesp. 8</i> ; PLAT. <i>Conv. 215e, etc.</i> ; LUC. <i>Her. 7, etc.</i><br><b>      2</b> dormir les yeux ouverts, PLIN. <i>H.N. 11, 54</i>.<p><b>Étym</b>. Κορύβας.`

@@ -1,1 +1,0 @@
-lar[20950]=`<b>βρωμάομαι-ῶμαι</b>, répandre une odeur infecte, puer, ARSTT. <i>H.A. 6, 29, 6, en parl. de l’éléphant</i>.`

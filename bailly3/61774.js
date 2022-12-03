@@ -1,1 +1,0 @@
-lar[61774]=`<b>έως (ὁ)</b> collyre pour certaines maladies d’yeux, P. ÉG. <i>7, 16</i>.<p><b>Étym</b>. λύγξ².`

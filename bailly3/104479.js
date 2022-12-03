@@ -1,1 +1,0 @@
-lar[104479]=`<b>ὑψι·γένεθλος, ος, ον</b> <font color="purple">[ῐ]</font> de haute naissance, NONN. <i>Jo. 1, 5</i>.<p><b>Étym</b>. ὕ. γενέθλη.`

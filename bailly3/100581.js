@@ -1,1 +1,0 @@
-lar[100581]=`<b>τρι·φαλαγγία, ας (ἡ)</b> <font color="purple">[ῐφᾰ]</font> corps de troupes de trois phalanges, POL. <i>6, 40, 11</i>.<p><b>Étym</b>. τρ. φάλαγξ.`

@@ -1,1 +1,0 @@
-lar[72757]=`<b>ὀρθό·στατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se tient droit, debout, EUR. <i>Suppl. 497</i>.<p><b>Étym</b>. ὀ. ἵστημι.`

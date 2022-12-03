@@ -1,1 +1,0 @@
-lar[50749]=`<b>κακό·θυμος, ος, ον</b> <font color="purple">[ᾰῡ]</font> mal disposé, malveillant, POLÉM. <i>Physiogn. p. 251</i> ; MAN. <i>4, 564</i>.<p><b>Étym</b>. κ. θυμός.`

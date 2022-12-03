@@ -1,1 +1,0 @@
-lar[34738]=`<b>ἐννεά·φωνος, ος, ον</b> <font color="purple">[ᾰ]</font> à neuf voix, <i>en parl. d’une flûte champêtre faite de neuf roseaux,</i> THCR. <i>Idyl. 8, 18</i>.<p><b>Étym</b>. ἐ. φωνή.`

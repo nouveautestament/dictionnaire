@@ -1,1 +1,0 @@
-lar[36244]=`<b>ων (αἱ)</b> hémorroïdes externes, P. ÉG. <i>3, 59</i>.<p><b>Étym</b>. ἐξέχω.`

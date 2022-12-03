@@ -1,1 +1,0 @@
-lar[46263]=`<font color="purple">[ᾰ]</font> fréquemment, HPC. <i>262, 54</i> ; MAX. <i>π. κατ. 600</i>.<p><b>Étym</b>. <i>v</i>. θαμέες.`

@@ -1,1 +1,0 @@
-lar[69220]=`<i>adv</i>., comme de jeunes époux, A. TAT. <i>3, 7</i>.`

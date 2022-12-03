@@ -1,1 +1,0 @@
-lar[94177]=`<b>συμ·περιαιρετέον</b>, <i>vb. de</i> συμπεριαιρέω, il faut enlever tout autour, THÉON <i>Prog. 84, 12</i>.`

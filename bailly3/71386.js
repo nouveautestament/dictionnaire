@@ -1,1 +1,0 @@
-lar[71386]=`<b>ὁμ·ήρης, ης, ες</b>, qui est d’accord avec, <i>dat</i>. NIC. <i>Al. 70, 261</i>.<p><b>Étym</b>. ὁμός, *ἄρω.`

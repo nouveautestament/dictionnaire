@@ -1,1 +1,0 @@
-lar[72710]=`<b>ὀρθο·επέω-ῶ</b>, parler correctement, se servir du mot propre, DH. <i>1, 90</i>.<p><b>Étym</b>. ὁ. ἔπος.`

@@ -1,1 +1,0 @@
-lar[105463]=`<b>φιλ·άλυπος, ος, ον</b> <font color="purple">[ῐᾰῡ]</font> qui aime à vivre sans souci, ORPH. <i>H. 49, 7</i>.`

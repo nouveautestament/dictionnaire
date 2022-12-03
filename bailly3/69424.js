@@ -1,1 +1,0 @@
-lar[69424]=`<b>*ξεν·απάτης</b>, <i>dor</i>. <b>ξεν·απάτας</b> <font color="purple">[ᾰᾰᾱ]</font> <i>adj. m.</i> :<br><b>      1</b> qui trompe les étrangers, PD. <i>O. 11, 35</i>.<br><b>      2</b> qui trompe ses hôtes, EUR. <i>Med. 1392 (ion</i>. ξειναπάτης).<p><b>Étym</b>. ξένος, ἀπατάω.`

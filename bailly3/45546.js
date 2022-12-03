@@ -1,1 +1,0 @@
-lar[45546]=`<b>ἡμί·ρρυπος, ος, ον</b> <font color="purple">[ῠ]</font> à moitié salé, HPC. <i>672, 19</i>.<p><b>Étym</b>. ἡμι-, ῥύπος.`

@@ -1,1 +1,0 @@
-lar[73869]=`froncer le sourcil, prendre un air arrogant, AMIPS. (<i>Com. fr. 2, 712).</i><p><b>Étym</b>. ὀφρύς.`

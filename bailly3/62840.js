@@ -1,1 +1,0 @@
-lar[62840]=`<b>μαντιπολέω-ῶ</b> <font color="purple">[ῐ]</font> prédire l’avenir, ESCHL. <i>Ag. 979</i>.<p><b>Étym</b>. μαντιπόλος.`

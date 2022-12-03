@@ -1,1 +1,0 @@
-lar[74972]=`<b>παν·εθνί</b> <font color="purple">[ᾰ]</font> <i>adv. c</i>. πανεθνεί SPT. <i>Sap. 19, 8</i>.`

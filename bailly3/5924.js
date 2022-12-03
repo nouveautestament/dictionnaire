@@ -1,1 +1,0 @@
-lar[5924]=`<b>Ἀμυκο·φόνος, ου (ὁ)</b> <font color="purple">[ᾰῡ <i>par nécessité prosod. p</i>. ῠ]</font> le meurtrier d’Amykos, <i>càd</i>. Polydeukès, OPP. <i>C. 1, 363</i>.<p><b>Étym</b>. Ἄ. πεφνεῖν.`

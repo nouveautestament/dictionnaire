@@ -1,1 +1,0 @@
-lar[88552]=`<b>ῥιζοτομέω-ῶ :<br>      1</b> couper des racines, TH. <i>C.P. 1, 17, 10, etc. ; particul</i>. cueillir des plantes médicinales, HPC. <i>1278, 38</i>.<br><b>      2</b> déraciner, extirper, DS. <i>Exc. 590, 70</i>.<p><b>Étym</b>. ῥιζοτόμος.`

@@ -1,1 +1,0 @@
-lar[107556]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> <i>seul. cp</i>. χαλικρότερος, α, ον <font color="purple">[ᾰ]</font> <i>c</i>. χαλίκρατος, χαλίκραιος NIC. <i>Al. 59, 626</i>.`

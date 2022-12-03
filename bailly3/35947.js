@@ -1,1 +1,0 @@
-lar[35947]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> étiré sous le marteau, IL. <i>12, 295</i>.<p><b>Étym</b>. ἐξελαύνω.`

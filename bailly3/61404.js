@@ -1,1 +1,0 @@
-lar[61404]=`<b>ου (ὁ, ἡ)</b> Lissos (<i>auj</i>. Lezhë) <i>v. d’Illyrie,</i> PLUT. <i>Ant. 7</i>.<p>➳ ὁ Λ. POL. <i>2, 12, etc.</i> ; APP. <i>Ill. 7</i> ; ἡ Λ. DS. <i>15, 13, etc</i>.<p><b>Étym</b>. <i>v</i>. λισσός.`

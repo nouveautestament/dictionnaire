@@ -1,1 +1,0 @@
-lar[101843]=`<b>ὑννι·μάχος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui combat avec un soc de charrue, M. TYR. <i>306</i>.<p><b>Étym</b>. ὕννις, μάχομαι.`

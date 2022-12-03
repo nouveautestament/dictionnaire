@@ -1,1 +1,0 @@
-lar[8775]=`(<i>seul. prés</i>.) cueillir la fleur ; <i>fig</i>. γοεδνὰ ἀ. ESCHL. <i>Suppl. 73, litt</i>. cueillir la fleur des gémissements, <i>càd</i>. pousser des gémissements lamentables.<p><b>Étym</b>. ἀνθεμίς.`

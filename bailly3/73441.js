@@ -1,1 +1,0 @@
-lar[73441]=`<b>α, ον :<br>      1</b> qui est sur terre, terrestre, ORPH. <i>Arg. 392</i>.<br><b>      2</b> qui habite sous terre, souterrain, LYC. <i>49, 698</i> ; DP. <i>789</i>.<br><b>      3</b> qui sort de terre (source), NONN. <i>Jo. c. 4, 72</i>.<p><b>Étym</b>. οὖδας.`

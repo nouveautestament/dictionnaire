@@ -1,1 +1,0 @@
-lar[57080]=`<b>ου (τὸ)</b> jeune fille, LYS. <i>fr. 2</i> ; THCR. <i>Idyl. 11, 60</i>.<p><b>Étym</b>. κόρη.`

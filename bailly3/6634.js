@@ -1,1 +1,0 @@
-lar[6634]=`<i>adv</i>., d’une façon impure, SIB. <i>3, 596</i>.<p><b>Étym</b>. ἄναγνος.`

@@ -1,1 +1,0 @@
-lar[3514]=`<b>ἄ·κολπος, ος, ον</b>, sans baies <i>ou</i> golfes, EL. <i>N.A. 15, 16</i>.<p><b>Étym</b>. ἀ, κόλπος.`

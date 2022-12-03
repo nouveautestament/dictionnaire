@@ -1,1 +1,0 @@
-lar[8757]=`<i>vb. de</i> ἀνθαιρέομαι SYN. <i>De regn. 21, 1105a Migne</i>.`

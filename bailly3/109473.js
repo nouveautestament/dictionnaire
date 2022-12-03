@@ -1,1 +1,0 @@
-lar[109473]=`<b>χωρο·νομικός, ή, όν</b>, qui concerne le partage des terres ; νόμος, DH. <i>10, 36,</i> loi agraire.<p><b>Étym</b>. χώρα, νέμω.`

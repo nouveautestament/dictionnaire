@@ -1,1 +1,0 @@
-lar[5776]=`<b>ἀμουσο·λογία, ας (ἡ)</b> langage de mauvais goût, ATH. <i>164e</i>.<p><b>Étym</b>. ἄμουσος, λόγος.`

@@ -1,1 +1,0 @@
-lar[84319]=`<b>προ·ήγορος, ου (ὁ)</b> <i>propr</i>. qui parle pour qqn, <i>d’où</i> :<br><b>      1</b> défenseur, avocat, THÉM. <i>326a, etc.</i><br><b>      2</b> magistrat, <i>à Catane,</i> CIC. <i>Verr. 4, 23</i>.<p>➳ <i>Dor</i>. προάγορος <font color="purple">[ᾱ]</font> CIC. <i>l. c</i>.<p><b>Étym</b>. π. ἀγορεύω.`

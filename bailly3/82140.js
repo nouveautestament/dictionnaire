@@ -1,1 +1,0 @@
-lar[82140]=`<b>Πόλ·υμνις, ιδος</b>, <i>ou</i> <b>ιος (ὁ)</b> Polymnis :<br><b>      1</b> <i>frère d’Épaminondas,</i> EL. <i>V.H. 2, 43, etc.</i><br><b>      2</b> <i>frère de Plutarque,</i> PLUT. <i>Gen. Socr. 8</i>.<p>➳ <i>Voc</i>. Πολύμνι, PLUT. <i>Gen. Socr. 13 ; gén</i>. -ιος, PLUT. <i>Gen. Socr. 6, 12</i>.<p><b>Étym</b>. <i>cf</i>. Πολύμνιος.`

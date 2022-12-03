@@ -1,1 +1,0 @@
-lar[90227]=`<font color="purple">[σῑ]</font><br><b>      1</b> être de mauvaise foi comme les Siciliens, EPICH. (SUID. <i>v°</i> σικελίζω).<br><b>      2</b> danser comme les Siciliens, TH. (ATH. <i>22c</i>).<p><b>Étym</b>. Σικελός.`

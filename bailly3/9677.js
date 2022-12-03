@@ -1,1 +1,0 @@
-lar[9677]=`<b>ἀντ·επιφέρω</b>, infliger à son tour <i>ou</i> en retour, PHIL. <i>1, 191</i>.<br><b><i>Moy.</i></b> se porter à son tour sur, <i>avec</i> ἐς <i>et l’acc</i>. T. LOCR. <i>102a</i>.`

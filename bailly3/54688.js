@@ -1,1 +1,0 @@
-lar[54688]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> sondage dans une partie creuse, GAL. <i>2, 256</i> ; P. ÉG. <i>134 Briau</i>.<p><b>Étym</b>. κενεμβατέω.`

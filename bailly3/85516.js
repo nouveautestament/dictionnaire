@@ -1,1 +1,0 @@
-lar[85516]=`<b>προσ·εκδέρω</b>, écorcher en outre, POSIDIPP. (<i>Com. fr. 4, 521</i>).`

@@ -1,1 +1,0 @@
-lar[55721]=`<b>ου (ὁ)</b> Kladaos, <i>petit fl. d’Élide,</i> XÉN. <i>Hell. 7, 4, 49</i>.`

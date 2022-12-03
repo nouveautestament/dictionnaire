@@ -1,1 +1,0 @@
-lar[104818]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Phanion, <i>f</i>. ANTH. <i>12, 53, 82</i>.<p><b>Étym</b>. φαίνω.`

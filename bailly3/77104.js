@@ -1,1 +1,0 @@
-lar[77104]=`<b>παρ·ορμέω-ῶ</b>, être à l’ancre auprès, mouiller auprès de, DS. <i>14, 49, 50 ; avec le dat</i>. PLUT. <i>Ant. 32</i>.`

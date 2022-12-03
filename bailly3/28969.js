@@ -1,1 +1,0 @@
-lar[28969]=`<b>δυσ·φάνταστος, ος, ον</b>, qui se représente difficilement les objets, PLUT. <i>M. 432c</i>.<p><b>Étym</b>. δ. φαντάζομαι.`

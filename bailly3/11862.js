@@ -1,1 +1,0 @@
-lar[11862]=`<b>ἀπ·εχθαίρω</b> <font color="darkgreen">(<i>ao</i>. ἀπήχθηρα) :</font><br><b>      1</b> détester, haïr, <i>acc</i>. IL. <i>3, 415</i>.<br><b>      2</b> rendre odieux : τινί τι, OD. <i>4, 105,</i> qqe ch. à qqn.<br><b><i>Moy.</i></b> haïr, Q. SM. <i>13, 255</i>.<p>➳ <i>Ao. itér</i>. ἀπεχθαίρεσκον, APOLLIN. <i>Ps. 113, 404 ; 130, 40</i>.`

@@ -1,1 +1,0 @@
-lar[104845]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> vision, PLAT. <i>Tim. 72b</i>.<p><b>Étym</b>. φαντάζω.`

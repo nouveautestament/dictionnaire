@@ -1,1 +1,0 @@
-lar[85189]=`<b>προσ·αναφέρω</b> <font color="darkgreen">(<i>f</i>. -ανοίσω, <i>ao</i>. -ανήνεγκα, <i>etc</i>.)</font> rapporter à, adresser un rapport à : τῇ βουλῇ, DH. <i>6, 56,</i> au sénat ; τῇ συγκλήτῳ περί τινος, POL. <i>17, 9, 10,</i> au sénat sur qqe ch.`

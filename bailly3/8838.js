@@ -1,1 +1,0 @@
-lar[8838]=`<b>ἀνθ·ιερόω-ῶ</b>, consacrer en échange, EPIC. (PLUT. <i>M. 1117c</i>).<p><b>Étym</b>. ἀντί, ἱ.`

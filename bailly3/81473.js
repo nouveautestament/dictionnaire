@@ -1,1 +1,0 @@
-lar[81473]=`<i>gén. pl. part. prés. ou 3 pl. att. impér. prés. de</i> ποιέω.`

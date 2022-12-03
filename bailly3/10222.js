@@ -1,1 +1,0 @@
-lar[10222]=`<b>ἀντι·παρωνυμέω-ῶ</b> <font color="purple">[ῠ]</font> JAMBL. <i>Nicom. ar. 23a, d’ord</i>. <b>ἀντιπαρωνυμέομαι-οῦμαι</b>, NICOM. <i>Theol. 77,</i> prendre une dénomination opposée, <i>t. d’arithm</i>.<p><b>Étym</b>. ἀντιπαρώνυμος.`

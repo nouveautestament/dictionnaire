@@ -1,1 +1,0 @@
-lar[61609]=`<i>adv</i>., à la manière des Locriens, ATH. <i>625e</i>.<p><b>Étym</b>. Λοκρός.`

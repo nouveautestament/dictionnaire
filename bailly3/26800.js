@@ -1,1 +1,0 @@
-lar[26800]=`<font color="purple">[ῐῡ]</font> (<i>seul. prés. et impf</i>. ἐδιονυσίαζον) célébrer les Dionysies, LUC. <i>Dem. enc. 35 ; d’où</i> mener une vie extravagante, ATH. <i>445b ;</i> αἱ Διονυσιάζουσαι, les Femmes célébrant les Dionysies, <i>titre d’une comédie de Timoklès</i>.<p><b>Étym</b>. Διονυσία.`

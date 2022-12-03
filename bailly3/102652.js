@@ -1,1 +1,0 @@
-lar[102652]=`<b>ὑπέρ·μεστος, ος, ον</b>, plein jusqu’à déborder, débordant de, <i>gén</i>. PHIL. <i>2, 533</i>.`

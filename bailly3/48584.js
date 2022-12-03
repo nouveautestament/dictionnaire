@@ -1,1 +1,0 @@
-lar[48584]=`<b>ἱερό·δουλος, ου (ὁ, ἡ)</b> esclave attaché au service d’un temple, SPT. <i>1Esdr. 1, 3</i> ; PLUT. <i>M. 768 a <i>et</i> b</i> ; PHIL. <i>2, 420 ; au pl</i>. αἱ ἱερόδουλοι, STR. <i>272,</i> femmes esclaves attachées au service d’une divinité, <i>particul. à Corinthe</i>.<p><b>Étym</b>. ἱ. δοῦλος.`

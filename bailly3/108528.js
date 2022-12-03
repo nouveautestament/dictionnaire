@@ -1,1 +1,0 @@
-lar[108528]=`<b>ου (τὸ)</b> <font color="purple">[χῐᾰ]</font> <i>dim. de</i> χιτωνίσκος ÆL. DION. (EUST. <i>1166, 51</i>).`

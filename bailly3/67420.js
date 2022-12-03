@@ -1,1 +1,0 @@
-lar[67420]=`<b>μυστ·αγωγέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> initier aux mystères, PLUT. <i>M. 795e ;</i> LUC. <i>Philopatr. 22</i>.<br><b>      2</b> <i>p. ext</i>. servir d’initiateur, de guide, STR. <i>812</i>.<p><b>Étym</b>. μυσταγωγός.`

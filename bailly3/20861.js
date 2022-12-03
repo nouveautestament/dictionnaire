@@ -1,1 +1,0 @@
-lar[20861]=`<b>βροτό·γηρυς, υς, υ</b>, <i>gén</i>. <b>υος</b>, à voix d’homme (perroquet), ANTH. <i>9, 562</i>.<p><b>Étym</b>. βρ. γῆρυς.`

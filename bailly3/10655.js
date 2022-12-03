@@ -1,1 +1,0 @@
-lar[10655]=`<b>ἀντ·οργίζομαι</b>, s’irriter à son tour <i>ou</i> en retour, M. ANT. <i>6</i>.`

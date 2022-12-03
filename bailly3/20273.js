@@ -1,1 +1,0 @@
-lar[20273]=`<font color="purple">[ῠ]</font> <i>adv</i>., en forme de boucles, LUC. <i>H. conscr. 19</i>.<p><b>Étym</b>. βόστρυχος, -δον.`

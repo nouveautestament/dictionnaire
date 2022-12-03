@@ -1,1 +1,0 @@
-lar[72877]=`<b>ῆς (ἡ)</b> Hormè, <i>n. de chienne,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. ὁρμή.`

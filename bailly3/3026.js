@@ -1,1 +1,0 @@
-lar[3026]=`<b>ατος (τὸ) :<br>      1</b> objet suspendu, LYC. <i>1080</i>.<br><b>      2</b> ce qui sert à suspendre (corde, câble, <i>etc</i>.) EUR. <i>Hel. 353, etc</i>.<p><b>Étym</b>. αἰωρέω.`

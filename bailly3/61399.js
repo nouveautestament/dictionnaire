@@ -1,1 +1,0 @@
-lar[61399]=`<b>η, ον</b>, usé par le frottement, <i>d’où</i> affilé, aiguisé, AR. <i>Ran. 826</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

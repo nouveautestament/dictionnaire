@@ -1,1 +1,0 @@
-lar[97621]=`<b>ων (οἱ)</b> les Tapyres, <i>pple de Médie,</i> EL. <i>V.H. 3, 13, etc</i>.`

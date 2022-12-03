@@ -1,1 +1,0 @@
-lar[31972]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> abcès en suppuration, HPC. <i>Progn. 41, etc</i>.<p><b>Étym</b>. ἐκπυέω.`

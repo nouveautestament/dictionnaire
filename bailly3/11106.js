@@ -1,1 +1,0 @@
-lar[11106]=`<b>εως (ἡ)</b> <font color="purple">[ᾰθᾰᾰ]</font> divinisation, apothéose, DC. <i>60, 35</i>.<p><b>Étym</b>. ἀπαθανατίζω.`

@@ -1,1 +1,0 @@
-lar[84017]=`<b>προ·δύω</b> (<i>pf. intr</i>. προδέδυκα) se coucher avant (le soleil) <i>gén</i>. ARSTT. <i>Meteor. 1, 6, 13</i>.`

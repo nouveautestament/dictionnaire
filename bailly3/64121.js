@@ -1,1 +1,0 @@
-lar[64121]=`<b>ας (ἡ)</b> <font color="purple">[λῐ]</font> préparation du miel, ARSTT. <i>Pol. 1, 7</i>.<p><b>Étym</b>. *μελιτουργός, <i>de</i> μέλι, ἔργον.`

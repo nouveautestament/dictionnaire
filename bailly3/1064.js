@@ -1,1 +1,0 @@
-lar[1064]=`<b>ἀγχί·πλοος-ους, οος-ους, οον-ουν</b>, qui navigue dans le voisinage, de courte navigation, EUR. <i>I.T. 1325</i>.<p><b>Étym</b>. ἄ. πλέω.`

@@ -1,1 +1,0 @@
-lar[13682]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> impression, PLAT. <i>Theæt. 194b</i>.<p><b>Étym</b>. ἀποτυπόω.`

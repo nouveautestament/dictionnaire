@@ -1,1 +1,0 @@
-lar[102672]=`<b>Ὑπερ·νότιοι, ων (οἱ)</b> les peuples de l’extrême Sud, HDT. <i>4, 36</i>.<p><b>Étym</b>. <i>v</i>. ὑπερνότιος.`

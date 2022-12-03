@@ -1,1 +1,0 @@
-lar[100915]=`<b>ης (ἡ)</b> trou fait par un animal rongeur, BATR. <i>52</i> ; BABR. <i>31, 17</i> ; trou, <i>en gén</i>. BATR. <i>184</i> ; HPC. <i>251, 17</i> ; ARSTT. <i>H.A. 5, 20, 2</i>.<p><b>Étym</b>. τρώγω.`

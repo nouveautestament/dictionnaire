@@ -1,1 +1,0 @@
-lar[23696]=`<b>δεκά·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰ]</font> (long) de dix pieds, AR. <i>Eccl. 652</i>.<p>➳ <i>Jusqu’au 5<sup>e</sup> siècle av. J.-C. acc</i>. -ποδα ; <i>au 4<sup>e</sup> siècle on trouve l’acc</i>. -πουν, CIA. <i>2, 1054, 14, 24 (347 av. J.-C.)</i>.<p><b>Étym</b>. δ. πούς.`

@@ -1,1 +1,0 @@
-lar[42036]=`<b>ατος (τὸ)</b> bienfait, XÉN. <i>Cyr. 8, 2, 2</i> ; ISOCR. <i>47c, etc. ; au pl</i>. XÉN. <i>Cyr. 5, 5, 34</i>.<p><b>Étym</b>. εὐεργετέω.`

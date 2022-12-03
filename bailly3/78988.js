@@ -1,1 +1,0 @@
-lar[78988]=`<b>ή, όν :<br>      1</b> qui concerne les explorations médicales, DIOSC. <i>7 præf.</i><br><b>      2</b> qui embrasse <i>ou</i> comprend facilement, <i>gén</i>. PTOL. <i>Tetr. p. 57, 16</i>.<p><b>Étym</b>. περιοδεύω.`

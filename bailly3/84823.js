@@ -1,1 +1,0 @@
-lar[84823]=`<b>προ·οδοιπορέω-ῶ :<br>      1</b> marcher devant, montrer le chemin, guider, <i>dat</i>. LUC. <i>D. mar. 15, 2 ; abs</i>. LUC. <i>Herm. 27 ; au pass</i>. DL. <i>7, 176</i>.<br><b>      2</b> parcourir auparavant, JOS. <i>A.J. 3, 1, 1</i>.`

@@ -1,1 +1,0 @@
-lar[42445]=`<i>adv. épq</i>. glorieusement, IL. <i>22, 110</i> ; ANTH. <i>6, 332</i>.<p><b>Étym</b>. ἐϋκλειής.`

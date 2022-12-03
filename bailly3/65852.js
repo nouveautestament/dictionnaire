@@ -1,1 +1,0 @@
-lar[65852]=`<b>ή, όν</b> <font color="purple">[ῑμ]</font> qui concerne les mimes <i>ou</i> l’art des mimes, <i>d’où</i> bouffon, indécent, CIC. <i>de Or. 2, 59</i>.<p>•<i> Cp</i>. μιμικώτερος, D. PHAL. <i>151</i>.<p><b>Étym</b>. μῖμος.`

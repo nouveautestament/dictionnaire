@@ -1,1 +1,0 @@
-lar[623]=`<b>ἀγκιστρόω-ῶ</b> (<i>part. pf. pass</i>. ἠγκιστρωμένος) :<br><b>      1</b> recourber en forme d’hameçon <i>ou</i> de crochet, PLUT. <i>Crass. 25</i>.<br><b>      2</b> prendre à l’hameçon, SYN. <i>Ep. 4, 1340b Migne ; fig</i>. LYC. <i>67</i>.<p><b>Étym</b>. ἄγκιστρον.`

@@ -1,1 +1,0 @@
-lar[42453]=`<b>Εὐ·κλής, έους-οῦς (ὁ)</b> Euklès, <i>h</i>. XÉN. <i>Hell. 1, 2, 8</i>.<p>➳ <i>Voc</i>. Εὔκλεις, AND. <i>1, 112 Baiter-Sauppe ; gén. épq</i>. Εὐκλεέος, ANTH. <i>App. 372</i>.<p><b>Étym</b>. <i>contr. de</i> εὐκλεής.`

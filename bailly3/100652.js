@@ -1,1 +1,0 @@
-lar[100652]=`<b>τρί·χρονος, ος, ον</b>, à trois temps, CHARAX <i>in Hort. Ad. p. 226, 228</i>.<p><b>Étym</b>. τρ. χρόνος.`

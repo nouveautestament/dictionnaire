@@ -1,1 +1,0 @@
-lar[107870]=`<b>ή, όν</b> <font color="purple">[χᾰ]</font> <i>c</i>. χαρακτηριστικός, DH. <i>Dem. 39, etc</i>.<p>•<i> Sup</i>. χαρακτηρικώτατος, DH. <i>Pomp. 6, 7</i> ; THC. <i>24, 5</i>.`

@@ -1,1 +1,0 @@
-lar[32839]=`<b>εως (ἡ) :<br>      1</b> action d’enrouler (un bandage) HPC. <i>Off. 743</i>.<br><b>      2</b> circonvolution, enroulement, ARÉT. <i>Caus. m. acut. 2, 6</i>.<p><b>Étym</b>. ἑλίσσω.`

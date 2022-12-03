@@ -1,1 +1,0 @@
-lar[49847]=`<i>adv.</i> :<br><b>      1</b> au moyen de recherches, d’investigations, GAL. <i>14, 275</i>.<br><b>      2</b> à la manière des historiens, historiquement, ARSTT. <i>G.A. 3, 8</i> ; STR. <i>6</i>.`

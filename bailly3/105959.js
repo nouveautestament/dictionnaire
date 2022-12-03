@@ -1,1 +1,0 @@
-lar[105959]=`<b>Φιλό·νεικος, ου (ὁ)</b> Philoneikos, Athénien, DÉM. <i>Or. 19, 291</i> ; IS. <i>Or. 5, 29 Baiter-Sauppe</i> ; PLUT. <i>Alex. 6, etc</i>.<p><b>Étym</b>. <i>cf</i>. φιλόνεικος.`

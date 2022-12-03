@@ -1,1 +1,0 @@
-lar[44387]=`<b>ης (ἡ)</b> <i>ou</i> <b>ζακχός, οῦ (ὁ)</b> trésor du temple de Jérusalem, SPT. <i>1Par. 28, 11</i>.<p><b>Étym</b>. <i>mot hébreu</i>.`

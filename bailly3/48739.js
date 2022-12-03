@@ -1,1 +1,0 @@
-lar[48739]=`<b>ἰθυ·κρήδεμνος, ος, ον</b> <font color="purple">[ῑ]</font> <i>propr</i>. aux bandelettes droites, PAMPHOS (PAUS. <i>7, 21, 9).</i><p><b>Étym</b>. ἰ. κρήδεμνον.`

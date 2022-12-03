@@ -1,1 +1,0 @@
-lar[23283]=`<b>δά·σκιος, ος, ον :<br>      1</b> aux ombrages épais (forêt), IL. <i>15, 273</i> ; OD. <i>5, 470</i> ; HH. <i>Cer. 387 ; en parl. de montagnes,</i> EUR. <i>Bacch. 218</i>.<br><b>      2</b> <i>p. anal</i>. couvert de barbe, ESCHL. <i>Pers. 316</i> ; SOPH. <i>Tr. 13</i>.<p><b>Étym</b>. δα-, σκιά.`

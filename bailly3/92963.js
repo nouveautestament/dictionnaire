@@ -1,1 +1,0 @@
-lar[92963]=`<b>στρογγυλόω-ῶ</b> <font color="purple">[ῠ]</font> arrondir, <i>au pass.</i> :<br><b>      1</b> être rond, ANAXAG. (STOB. <i>Fl. App. p. 6 Gaisf</i>.).<br><b>      2</b> être rond en apparence, PLUT. <i>M. 1121a</i>.<p><b>Étym</b>. στρογγύλος.`

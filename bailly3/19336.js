@@ -1,1 +1,0 @@
-lar[19336]=`<b>βατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> saillir, couvrir (<i>seul. 3 pl. impf. dor</i>. ἐβάτευν, ANTH. <i>9, 317, et prés. pass. 3 pl</i>. βατεῦνται, THCR. <i>Idyl. 1, 87</i>).<br><b>      2</b> <i>mot delphien, c</i>. πατέω, PLUT. <i>M. 292f</i>.<p><b>Étym</b>. βατός.`

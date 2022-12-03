@@ -1,1 +1,0 @@
-lar[96923]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font> formé de vertèbres, MAN. <i>1, 318</i>.<p><b>Étym</b>. σφόνδυλος.`

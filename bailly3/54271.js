@@ -1,1 +1,0 @@
-lar[54271]=`<b>ων (τὰ)</b> Kaukases, <i>port de Chio,</i> HDT. <i>5, 33</i>.`

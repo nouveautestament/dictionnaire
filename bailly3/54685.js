@@ -1,1 +1,0 @@
-lar[54685]=`<b>ος, ον</b>, de bête morte, EL. <i>N.A. 6, 2</i> ; τὰ κενέβρεια, viande de bête morte, charogne, AR. <i>Av. 538</i>.<p><b>Étym</b>. <i>p.-ê. p</i>. *κενενέβριος, <i>de</i> κενός, νεβρός.`

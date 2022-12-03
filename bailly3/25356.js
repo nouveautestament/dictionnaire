@@ -1,1 +1,0 @@
-lar[25356]=`<b>δια·πραγματεύομαι</b> <font color="purple">[μᾰ]</font><br><b>      1</b> examiner à fond, <i>acc</i>. PLAT. <i>Phæd. 77d, 95e.</i><br><b>      2</b> faire effort pour accomplir, <i>acc</i>. DH. <i>3, 72</i>.<br><b>      3</b> gagner dans les affaires, <i>càd</i>. par le commerce, NT. <i>Luc. 19, 15</i>.`

@@ -1,1 +1,0 @@
-lar[23856]=`<b>δενδρο·λάχανα, ων (τὰ)</b> <font color="purple">[ᾰᾰν]</font> légumes qui poussent en arbres, TH. <i>H.P. 1, 3, 4</i>.<p><b>Étym</b>. δ. λάχανον.`

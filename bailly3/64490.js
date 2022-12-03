@@ -1,1 +1,0 @@
-lar[64490]=`<b>*Μεσηνίς</b>, <i>seul</i>. <b>Μεσσηνίς, ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Messénie, Messénienne, THC. <i>4, 41</i> ; ORACL. (DS. <i>Exc. Vat. p. 7).</i><p><b>Étym</b>. Μεσσήνη.`

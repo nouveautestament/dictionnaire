@@ -1,1 +1,0 @@
-lar[45770]=`<b>ἠπιό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, d’un caractère doux, bon, EMPÉD. <i>201 Mullach</i>.<p><b>Étym</b>. ἤ. φρήν.`

@@ -1,1 +1,0 @@
-lar[106900]=`<b>ή, όν</b>, qui se hérisse, hérissé, ARSTT. <i>Physiogn. 5, 8 ; 6, 41</i>.<p><b>Étym</b>. φρίσσω.`

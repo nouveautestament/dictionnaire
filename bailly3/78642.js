@@ -1,1 +1,0 @@
-lar[78642]=`<b>περι·θειόω-ῶ</b>, enduire de soufre tout autour, MÉN. (CLÉM. <i>844, var</i>. -θεόω).`

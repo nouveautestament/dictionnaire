@@ -1,1 +1,0 @@
-lar[76697]=`<b>παρ·ενδίδωμι</b> <font color="purple">[δῐ]</font> se laisser aller à l’indulgence, PLUT. <i>M. 813d, etc</i>.`

@@ -1,1 +1,0 @@
-lar[108955]=`<b>ης (ἡ)</b> besoin, demande, ARCHIL. <i>51</i> ; DÉMOCR. (STOB. <i>Fl. 76, 16, Mein</i>.) ; Ps.-HDT. <i>V. Hom. 13, 14</i>.<p><b>Étym</b>. χράομαι, <i>v</i>. χράω³.`

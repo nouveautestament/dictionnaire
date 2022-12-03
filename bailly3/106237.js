@@ -1,1 +1,0 @@
-lar[106237]=`<b>ου (ὁ)</b> Philyllios, <i>poète de l’ancienne comédie,</i> ATH. <i>31a, etc</i>.`

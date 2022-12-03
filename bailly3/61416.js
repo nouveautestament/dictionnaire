@@ -1,1 +1,0 @@
-lar[61416]=`<font color="purple">[ῐ]</font> prier, supplier, EUR. <i>El. 1215</i>.<p><b>Étym</b>. λιτή.`

@@ -1,1 +1,0 @@
-lar[66537]=`<b>μονό·ζυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> attelé seul, <i>d’où</i> seul, solitaire, ESCHL. <i>Pers. 139</i>.<p><b>Étym</b>. μ. ζεύγνυμι.`

@@ -1,1 +1,0 @@
-lar[2135]=`<b>άδος</b>, <i>adj. f</i>. de l’Athos, NONN. <i>D. 2, 399</i>.<p><b>Étym</b>. Ἄθως.`

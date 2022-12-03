@@ -1,1 +1,0 @@
-lar[22472]=`(<i>seul. prés</i>.) se hâter, SYMM. <i>Eccl. 10, 10</i>.<p><b>Étym</b>. γοργός.`

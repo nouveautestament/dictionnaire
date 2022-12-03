@@ -1,1 +1,0 @@
-lar[36835]=`<b>ἐπ·ατενίζω</b> (<i>sbj. prés</i>. -ωσι) <font color="purple">[ᾰ]</font> être attentif à, <i>avec</i> εἰς <i>et l’acc</i>. TH. <i>Vertig. 9</i>.`

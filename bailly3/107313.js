@@ -1,1 +1,0 @@
-lar[107313]=`<b>ος</b> <i>ou</i> <b>α, ον</b> <font color="purple">[ῠ]</font> qui engendre, créateur, <i>ép. de Zeus, d’Artémis, etc</i>. A. LIB. <i>17</i>.<p><b>Étym</b>. φύω.`

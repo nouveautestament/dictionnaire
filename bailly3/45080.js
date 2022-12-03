@@ -1,1 +1,0 @@
-lar[45080]=`<b>ας (ἡ)</b> Èétiôneia, <i>pointe N. du Pirée,</i> THC. <i>8, 90</i> ; DÉM. <i>1343, 8</i>.`

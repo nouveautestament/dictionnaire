@@ -1,1 +1,0 @@
-lar[49179]=`<b>ἰουλό·πεζος, ος, ον</b>, aux pieds de scolopendre, <i>càd</i>. garni de pieds nombreux, de rames, <i>ép. d’un navire,</i> LYC. <i>23</i>.<p><b>Étym</b>. ἴουλος, πέζα.`

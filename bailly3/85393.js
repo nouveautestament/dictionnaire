@@ -1,1 +1,0 @@
-lar[85393]=`<b>ος, ον</b>, attaché à, EUR. <i>Rhes. 307</i> ; A. PL. <i>147</i>.<p><b>Étym</b>. <i>vb. de</i> προσδέω¹.`

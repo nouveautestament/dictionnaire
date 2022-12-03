@@ -1,1 +1,0 @@
-lar[106950]=`<b>ίδος (ἡ)</b> <i>s.-e</i>. ναῦς, vaisseau en croisière, <i>ou</i> convoyeur, THC. <i>4, 13</i> ; XÉN. <i>Hell. 1, 3, 17</i> ; garde-côte, ARSTT. <i>Ath. 24, 3</i>.<p><b>Étym</b>. φρουρός.`

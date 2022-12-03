@@ -1,1 +1,0 @@
-lar[109159]=`<b>χρυσό·βωλος, ος, ον</b> <font color="purple">[ῡ]</font> aux mottes d’or, EUR. <i>Rhes. 921</i>.<p><b>Étym</b>. χρ. βῶλος.`

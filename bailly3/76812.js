@@ -1,1 +1,0 @@
-lar[76812]=`<b>παρ·ευδοκιμέω-ῶ</b> <font color="purple">[ῐ]</font> surpasser en renommée : τινα, PLUT. <i>Pomp. 37,</i> qqn ; τινι, DH. <i>Vet. script. cens. 3, 1,</i> en qqe ch.`

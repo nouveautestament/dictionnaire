@@ -1,1 +1,0 @@
-lar[58158]=`<b>      1 <i>tr.</i></b> cacher, EUR. <i>Bacch. 888</i>.<br><b>      2 <i>intr.</i></b> se tenir caché, en embuscade, XÉN. <i>Cyr. 4, 5, 5 ; d’où au pass</i>. être en butte à des embûches, EUR. <i>Hel. 541</i>.<p><b>Étym</b>. κρύπτω.`

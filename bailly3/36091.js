@@ -1,1 +1,0 @@
-lar[36091]=`<b>εως (ἡ)</b> achèvement d’une construction, JOS. <i>A.J. 19, 7, 2</i>.<p><b>Étym</b>. ἐξοικοδομέω.`

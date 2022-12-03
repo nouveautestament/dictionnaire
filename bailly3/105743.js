@@ -1,1 +1,0 @@
-lar[105743]=`<b>φιλο·δειπνιστής, οῦ (ὁ)</b> <font color="purple">[φῐ]</font> qui aime à traiter, DL. <i>3, 98</i>.<p><b>Étym</b>. φ. δειπνίζω.`

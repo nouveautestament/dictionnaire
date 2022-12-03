@@ -1,1 +1,0 @@
-lar[74496]=`<b>παλιγ·γενέσιος, ος, ον</b>, qui concerne la régénération, CLÉM. <i>219</i>.<p><b>Étym</b>. <i>v</i>. παλιγγενεσία.`

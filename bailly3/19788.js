@@ -1,1 +1,0 @@
-lar[19788]=`<b>βιο·φθόρος, ος, ον</b>, qui détruit la vie, Ps.-PHOCYL. <i>44</i>.<p><b>Étym</b>. βίος, φθείρω.`

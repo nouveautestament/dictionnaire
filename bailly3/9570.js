@@ -1,1 +1,0 @@
-lar[9570]=`<b>ἀντ·εκπλήσσω</b>, épouvanter de son côté, ARSTD. <i>t. 1, 130</i> ; EL. <i>N.A. 12, 15</i>.`

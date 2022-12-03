@@ -1,1 +1,0 @@
-lar[82634]=`<b>ας (ἡ)</b> = <i>lat</i>. Pompeia, <i>femme de César,</i> PLUT. <i>Cæs. 5, etc</i>.<p>➳ <i>Ion</i>. Πομπηΐη, ANTH. <i>7, 185</i>.`

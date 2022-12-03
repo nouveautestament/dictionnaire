@@ -1,1 +1,0 @@
-lar[38930]=`<b>ἐπί·σαλος, ος, ον</b> <font color="purple">[ᾰ]</font> où les flots sont agités (port) ARR. <i>Eux. 8</i>.<p><b>Étym</b>. ἐπί, σάλος.`

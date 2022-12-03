@@ -1,1 +1,0 @@
-lar[44385]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Zakynthos, HDT. <i>3, 59</i> ; AR. <i>Lys. 394, etc</i>.<p><b>Étym</b>. <i>v</i>. Ζάκυνθος.`

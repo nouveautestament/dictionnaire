@@ -1,1 +1,0 @@
-lar[1143]=`<b>ας, ᾳ (ἡ)</b> Ada, <i>reine de Carie,</i> PLUT. <i>Alex. 22, etc</i>.`

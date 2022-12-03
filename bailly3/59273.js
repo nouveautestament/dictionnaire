@@ -1,1 +1,0 @@
-lar[59273]=`<b>ου (ὁ)</b> le dieu du Parnasse, <i>ép. de Poséidon,</i> ORPH. <i>H. 28</i>.<p><b>Étym</b>. Κωρύκιος.`

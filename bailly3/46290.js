@@ -1,1 +1,0 @@
-lar[46290]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., à la mort, <i>avec mouv</i>. IL. <i>16, 693, etc</i>.<p><b>Étym</b>. θάνατος, -δε.`

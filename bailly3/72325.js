@@ -1,1 +1,0 @@
-lar[72325]=`<b>ατος (τὸ) :<br>      1</b> armement, armure, EUR. <i>Suppl. 714</i> ; PLAT. <i>Pol. 279d.</i><br><b>      2</b> troupe armée, armée toute prête, EUR. <i>I.A. 253</i>.<p><b>Étym</b>. ὁπλίζω.`

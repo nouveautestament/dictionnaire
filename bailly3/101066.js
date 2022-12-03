@@ -1,1 +1,0 @@
-lar[101066]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. τύμπανον, HH. <i>13, 3</i> ; ESCHL. <i>fr. 55, 10</i> ; EUR. <i>H.f. 888</i> ; DIOG. TRAG. (ATH. <i>636a</i>).`

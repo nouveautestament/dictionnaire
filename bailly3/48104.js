@@ -1,1 +1,0 @@
-lar[48104]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Thyônikhos <i>h</i>. THCR. <i>Idyl. 14, 1</i> ; A. PL. <i>51</i>.`

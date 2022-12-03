@@ -1,1 +1,0 @@
-lar[8271]=`<i>adv</i>., sans être amoindri, PROCL. <i>Inst. theol. § 27</i>.`

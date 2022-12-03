@@ -1,1 +1,0 @@
-lar[13591]=`<b>εως (ἡ)</b> échec, insuccès : PLAT. <i>Ax. 368c ;</i> PLUT. <i>Galb. 23</i>.<p><b>Étym</b>. ἀποτυγχάνω.`

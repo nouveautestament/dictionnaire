@@ -1,1 +1,0 @@
-lar[81214]=`<b>ατος (τὸ)</b> étouffement, suffocation, HPC. <i>1217d ;</i> CÉPHISODOT. (ARSTT. <i>Rhet. 3, 10, 7).</i><p><b>Étym</b>. πνίγω.`

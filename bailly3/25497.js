@@ -1,1 +1,0 @@
-lar[25497]=`<b>δια·σαίρω</b> (<i>seul. part. pf</i>. διασεσηρώς) <i>litt</i>. ouvrir largement la bouche ; <i>d’où</i> rire d’un rire amer <i>ou</i> sardonique, PLUT. <i>Mar. 12</i>.`

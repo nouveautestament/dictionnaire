@@ -1,1 +1,0 @@
-lar[89718]=`<b>σελάω-ῶ</b> (<i>seul. prés</i>.) :<br><b>      1 <i>intr.</i></b> briller, NIC. <i>Th. 691</i>.<br><b>      2 <i>tr.</i></b> éclairer, illuminer, NAZ. <i>Carm. 2, 72</i>.<p><b>Étym</b>. σέλας.`

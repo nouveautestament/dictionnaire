@@ -1,1 +1,0 @@
-lar[80913]=`<b>ή, όν</b>, des côtés, latéral, SCH.-AR. <i>Eq. 361</i>.<p><b>Étym</b>. πλευρά.`

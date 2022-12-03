@@ -1,1 +1,0 @@
-lar[72392]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., autant de fois que, aussi souvent que, XÉN. <i>Cyr. 2, 2, 30 ; 2, 3, 23</i>.<p><b>Étym</b>. ὁπόσος, -άκις.`

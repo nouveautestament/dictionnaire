@@ -1,1 +1,0 @@
-lar[70584]=`<b>εως (ὁ)</b> Œnouphis, <i>maître de Pythagore,</i> PLUT. <i>Is. et Os. 10</i>.`

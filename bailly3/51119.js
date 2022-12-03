@@ -1,1 +1,0 @@
-lar[51119]=`<b>καλλι·επής, ής, ές</b>, qui parle bien, à la parole agréable, disert, AR. <i>Th. 49</i> ; DH. <i>Comp. p. 115, 11</i>.<p><b>Étym</b>. κ. ἔπος.`

@@ -1,1 +1,0 @@
-lar[40619]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> atelier de statuaire, PLAT. <i>Conv. 215a</i>.<p><b>Étym</b>. ἑρμογλυφεύς.`

@@ -1,1 +1,0 @@
-lar[96235]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. συνουσιασμός PHIL. <i>2, 32 dout</i>.`

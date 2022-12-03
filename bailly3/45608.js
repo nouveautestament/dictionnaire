@@ -1,1 +1,0 @@
-lar[45608]=`<b>ἡμι·χολώδης, ης, ες</b> <font color="purple">[ῐ]</font> à moitié bilieux, HPC. <i>Epid. 7</i>.<p><b>Étym</b>. ἡμι-, χολώδης.`

@@ -1,1 +1,0 @@
-lar[41518]=`<b>εὔ·αγρος, ος, ον :<br>      1</b> qui fait une bonne chasse, une bonne pêche, SOPH. <i>O.C. 1089 ; cf</i>. ANTH. <i>6, 34</i>.<br><b>      2</b> qui procure une bonne chasse, une bonne pêche, ANTH. <i>9, 555</i>.<p><b>Étym</b>. εὖ, ἄγρα.`

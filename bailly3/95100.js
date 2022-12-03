@@ -1,1 +1,0 @@
-lar[95100]=`<b>εως (ἡ)</b> habitation <i>ou</i> vie commune, commerce familier, PLUT. <i>Æmil. 1, Dio. 16, etc.</i> ; μετά τινος, CLÉM. <i>297</i> ; εἴς τινα, ARR. <i>An. 4, 7,</i> avec qqn.<p><b>Étym</b>. συνδιαιτάω.`

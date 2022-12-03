@@ -1,1 +1,0 @@
-lar[4537]=`<b>ἁλι·πλεύμων, ονος (ὁ)</b> <font color="purple">[ᾰ]</font> poumon de mer, <i>zoophyte,</i> M. SID. <i>27 (Fabricii bibliotheca græca 1, p. 17)</i>.`

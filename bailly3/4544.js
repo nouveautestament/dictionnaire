@@ -1,1 +1,0 @@
-lar[4544]=`<b>ἁλι·πόρφυρος, ος, ον</b> <font color="purple">[ᾰῐῠ]</font><br><b>      1</b> teint avec le pourpre de mer, OD. <i>6, 53, 306 ; 13, 108</i>.<br><b>      2</b> qui a la couleur sombre de la mer, ARION <i>1, 22, etc</i>.<p><b>Étym</b>. ἅ. πορφύρα.`

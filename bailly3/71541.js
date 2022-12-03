@@ -1,1 +1,0 @@
-lar[71541]=`<b>ὁμοιό·πτερος, ος, ον</b>, aux ailes <i>ou</i> plumes semblables, homœoptère, ARSTT. <i>H.A. 1, 1, 21</i>.<p><b>Étym</b>. ὅμ. πτερόν.`

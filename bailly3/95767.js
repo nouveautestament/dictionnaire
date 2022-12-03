@@ -1,1 +1,0 @@
-lar[95767]=`<b>συν·εσθίω</b> <font color="darkgreen">(<i>f</i>. -έδομαι, <i>ao.2</i> συνέφαγον, <i>etc</i>.)</font> manger avec <i>ou</i> en même temps, <i>dat</i>. PLAT. <i>Leg. 881d ; abs</i>. ARSTT. <i>Eud. 7, 12, 9</i>.`

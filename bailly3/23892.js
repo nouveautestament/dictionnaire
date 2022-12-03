@@ -1,1 +1,0 @@
-lar[23892]=`<b>Δεξί·θεος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Dexithéos, <i>h</i>. AR. <i>Ach. 14</i> ; DÉM. PLUT. <i>etc</i>.<p><b>Étym</b>. δέχομαι, θεός.`

@@ -1,1 +1,0 @@
-lar[86385]=`<b>εως (ἡ) :<br>      1</b> facilité d’abord, EUR. <i>I.A. 341, etc.</i> ; parole adressée à qqn, salutation, XÉN. <i>Hier. 8, 3, etc.</i><br><b>      2</b> dénomination, nom, PLAT. <i>Pol. 258a, 306e, etc.</i><br><b>      3</b> qualification, attribut, ARSTT. <i>An. pr. 1, 2, 1</i>.<p><b>Étym</b>. *προσέρω.`

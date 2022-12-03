@@ -1,1 +1,0 @@
-lar[55866]=`<b>Κλειτο·μάχη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Kleitomakhè, <i>f</i>. DÉM. <i>1083, 18</i>.<p><b>Étym</b>. <i>cf</i>. Κλειτόμαχος.`

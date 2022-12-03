@@ -1,1 +1,0 @@
-lar[1647]=`<b>ἀει·δίνητος, ος, ον</b> <font color="purple">[ῑ]</font> qui tourne toujours, ANTH. <i>6, 289</i> ; NONN. <i>D. 6, 87 ; 196, etc</i>.<p><b>Étym</b>. ἀ. δινέω.`

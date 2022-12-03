@@ -1,1 +1,0 @@
-lar[16539]=`<b>ἀ·συρής, ής, ές</b> <font color="purple">[ῡ]</font> impur, vil, POL. <i>4, 4</i>.<p><b>Étym</b>. ἀ, σύρω.`

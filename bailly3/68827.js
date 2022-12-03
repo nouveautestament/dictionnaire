@@ -1,1 +1,0 @@
-lar[68827]=`<b>ιος (ἡ)</b> Nitètis, <i>fille d’Apriès, roi d’Égypte,</i> HDT. <i>3, 1</i>.`

@@ -1,1 +1,0 @@
-lar[40306]=`<b>ου (ὁ) :<br>      1</b> rameur, OD. <i>1, 280, etc. (seul. au pl</i>.) ; HDT. <i>6, 12</i> ; THC. <i>1, 31</i> ; XÉN. <i>Hell. 1, 6, 19 ; fig</i>. DIONYS. (ATH. <i>443d</i>).<br><b>      2</b> rame, ANTH. <i>6, 4, au plur</i>.<p><b>Étym</b>. ἐρέσσω.`

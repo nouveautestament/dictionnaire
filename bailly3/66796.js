@@ -1,1 +1,0 @@
-lar[66796]=`<b>μοσχέα-ῆ, έας-ῆς (ἡ)</b> <i>s.-e</i>. δορά, peau de veau, ANAXANDR. (<i>Com. fr. 3, 200).</i><p><b>Étym</b>. μόσχος.`

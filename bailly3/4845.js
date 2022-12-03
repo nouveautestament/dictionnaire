@@ -1,1 +1,0 @@
-lar[4845]=`<b>ας (ἡ)</b> langue étrangère, JOS. <i>A.J. 1, 4, 3</i>.<p><b>Étym</b>. ἀλλόφωνος.`

@@ -1,1 +1,0 @@
-lar[35533]=`<b>ἑξα·πέλεκυς, υς, υ</b>, <i>gén</i>. <b>εως</b> <font color="purple">[ᾰ]</font> à six haches ; ἑξ. ἀρχή, POL. <i>3, 40, 9,</i> la préture (<i>propr</i>. la magistrature aux six faisceaux de haches) ; ὁ ἑξ. ἡγεμών, POL. <i>3, 40, 14, etc. ; ou</i> στρατηγός, POL. <i>33, 5, etc</i>. le préteur.<p><b>Étym</b>. ἕξ, πέλεκυς.`

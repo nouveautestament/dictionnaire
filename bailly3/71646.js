@@ -1,1 +1,0 @@
-lar[71646]=`<b>ὁμοπλοέω-οῶ</b>, naviguer de conserve, POL. <i>1, 25, 1</i>.<p><b>Étym</b>. ὁμόπλοος.`

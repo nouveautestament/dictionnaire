@@ -1,1 +1,0 @@
-lar[39456]=`<i>adv</i>., avec concision, DYSC. <i>Pron. 261b, Synt. 215, 9</i>.`

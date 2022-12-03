@@ -1,1 +1,0 @@
-lar[74967]=`<b>Παν·δώρα, ας</b>, <i>ion</i>. <b>-η, ης (ἡ)</b> Pandôra (Pandore) <i>f</i>. HÉS. <i>O. 81, etc</i>.<p><b>Étym</b>. <i>v</i>. πανδώρα.`

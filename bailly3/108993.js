@@ -1,1 +1,0 @@
-lar[108993]=`<i>vb. de</i> χράομαι, HPC. <i>Art. 837</i> ; XÉN. <i>Mem. 3, 1, 11</i> ; PLAT. <i>Soph. 267e ;</i> ARSTT. <i>Rhet. 1, 15, 3, etc</i>.`

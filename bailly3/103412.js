@@ -1,1 +1,0 @@
-lar[103412]=`<b>ὑπο·κρέμαμαι</b>, suspendre en dessous, NAZ.`

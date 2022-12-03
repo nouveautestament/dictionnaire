@@ -1,1 +1,0 @@
-lar[79736]=`<b>ης (ἡ)</b> Perkôtè (<i>auj</i>. Gökçebayır <i>ou, sel. d’autres,</i> Kemiklialan) :<br><b>      1</b> <i>v. de Troade,</i> IL. <i>2, 835</i> ; HDT. <i>5, 117, etc.</i><br><b>      2</b> région autour de cette ville, IL. <i>11, 229 ; 15, 548</i> ; XÉN. <i>Hell. 5, 1, 25</i>.`

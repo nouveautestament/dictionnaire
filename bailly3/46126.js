@@ -1,1 +1,0 @@
-lar[46126]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰᾰμ]</font> lieu d’habitation retiré <i>ou</i> obscur, EUR. <i>Bacch. 120</i>.<p><b>Étym</b>. θαλαμεύω.`

@@ -1,1 +1,0 @@
-lar[53953]=`<i>adv</i>., encore une fois, SAPPH. <i>1, 5</i>.<p><b>Étym</b>. <i>crase de</i> καὶ ἐτέρωτα, <i>éol. p</i>. ἑτέρωθεν.`

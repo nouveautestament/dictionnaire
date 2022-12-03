@@ -1,1 +1,0 @@
-lar[100693]=`<b>ης, ες</b>, tremblant, HPC. <i>Acut. 391, Fract. 759, etc.</i> ; STR. <i>722</i> ; PLUT. <i>M. 689c</i>.<p><b>Étym</b>. τρόμος, -ωδης.`

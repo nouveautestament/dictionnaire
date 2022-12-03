@@ -1,1 +1,0 @@
-lar[5362]=`<b>ατος (τὸ)</b> <font color="purple">[οᾱ]</font> <i>c</i>. ἀναβόησις, ESCHL. <i>Ch. 34</i>.<p><b>Étym</b>. ἀμβοάω.`

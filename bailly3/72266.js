@@ -1,1 +1,0 @@
-lar[72266]=`<b>ος, ον</b>, de derrière, postérieur, HDT. <i>2, 103</i> ; XÉN. <i>Eq. 11, 2</i> ; ARSTT. <i>H.A. 8, 24, etc.</i> ; τὰ ὀπίσθια, ARSTT. <i>H.A. 2, 1, 12, ou</i> τὸ ὀπίσθιον, ARSTT. <i>Inc. an. 5, 2,</i> le train de derrière.<p><b>Étym</b>. ὄπισθε.`

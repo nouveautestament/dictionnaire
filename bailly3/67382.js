@@ -1,1 +1,0 @@
-lar[67382]=`<b>ου (ἡ) :<br>      1</b> myrte, <i>arbrisseau,</i> ALC. (ATH. <i>695b</i>) ; THCR. <i>Epigr. 4, 7</i>.<br><b>      2</b> branche de myrte, <i>au pl</i>. PD. <i>I. 3, 83</i> ; AR. <i>Ran. 329</i>.<br><b>      3</b> baie de myrte, GEOP. <i>11, 8</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. μύρτον.`

@@ -1,1 +1,0 @@
-lar[18587]=`<b>ἀ·ψάλακτος, ος, ον</b> <font color="purple">[ψᾰ]</font><br><b>      1</b> non touché, non tâté, SOPH. <i>fr. 495</i> ; CRAT. (SUID.).<br><b>      2</b> <i>p. suite,</i> indemne, qui n’a rien à payer, sans perte, sans dommage, AR. <i>Lys. 275</i>.<p><b>Étym</b>. ἀ, ψαλάσσω.`

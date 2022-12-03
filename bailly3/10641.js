@@ -1,1 +1,0 @@
-lar[10641]=`<b>ἀντ·οίομαι</b>, avoir une pensée <i>ou</i> une opinion contraire, PLAT. <i>Theæt. 178c</i>.<p><b>Étym</b>. ἀ. οἴομαι.`

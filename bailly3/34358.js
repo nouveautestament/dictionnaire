@@ -1,1 +1,0 @@
-lar[34358]=`<b>ἐν·επισκήπτομαι</b>, faire valoir ses droits hypothécaires sur, <i>avec</i> ἐν <i>et le dat</i>. DÉM. <i>1197, 1198</i>.`

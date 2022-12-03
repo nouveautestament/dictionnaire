@@ -1,1 +1,0 @@
-lar[82815]=`<b>ωνος (ὁ) :<br>      1</b> <i>éol. c</i>. Παρνοπίων, STR. <i>613</i>.<br><b>      2</b> Pornopiôn, <i>n. d’un mois chez les Éoliens d’Asie Mineure,</i> STR. <i>l. c</i>.`

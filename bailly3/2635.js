@@ -1,1 +1,0 @@
-lar[2635]=`<b>αἱμ·ωπός, ός, όν :<br>      1</b> au regard sanguinaire, ANTH. <i>6, 35</i>.<br><b>      2</b> rouge comme du sang, PHIL. <i>2, 585</i> ; SEXT. <i>12, 7 Bkk</i>.<p><b>Étym</b>. αἷμα, ὤψ.`

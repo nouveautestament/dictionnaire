@@ -1,1 +1,0 @@
-lar[4534]=`<b>ἁλι·πλανής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui erre sur mer, ANTH. <i>11, 390</i>.<p><b>Étym</b>. ἅ. πλανάω.`

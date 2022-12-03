@@ -1,1 +1,0 @@
-lar[92782]=`<b>στραγγαλάω-ῶ</b> <font color="purple">[γᾰ]</font> <i>c</i>. στραγγαλίζω, MÉN. <i>4, 313 Meineke ; au pass</i>. DS. <i>1, 68</i>.`

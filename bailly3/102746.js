@@ -1,1 +1,0 @@
-lar[102746]=`<b>ὑπερ·περίσσως</b>, <i>adv</i>., surabondamment, NT. <i>Marc. 7, 37</i>.<p><b>Étym</b>. ὑ. περισσός.`

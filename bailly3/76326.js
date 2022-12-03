@@ -1,1 +1,0 @@
-lar[76326]=`<b>ατος (τὸ)</b> observation, remarque, DH. <i>Dem. 13</i> ; HÉPH. <i>13, 5, etc</i>.<p><b>Étym</b>. παρατηρέω.`

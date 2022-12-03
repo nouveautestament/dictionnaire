@@ -1,1 +1,0 @@
-lar[22992]=`<b>δαϊό·φρων, ονος (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> d’une âme attristée (gémissement), <i>p. opp. à</i> φιλογαθής, ESCHL. <i>Sept. 918</i>.<p><b>Étym</b>. δάϊος, φρήν.`

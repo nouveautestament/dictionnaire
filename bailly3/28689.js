@@ -1,1 +1,0 @@
-lar[28689]=`<b>δυσνοέω-οῶ</b> (<i>seul. prés</i>.) être hostile à, en vouloir à, <i>dat</i>. PLUT. <i>Cic. 38</i> ; SPT. <i>3Macc. 3, 24</i>.<p><b>Étym</b>. δύσνοος.`

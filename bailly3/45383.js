@@ -1,1 +1,0 @@
-lar[45383]=`<b>ἡμι·ασσάριον, ου (τὸ)</b> <font color="purple">[σᾰ]</font> demi-as, POL. <i>2, 15, 6</i>.<p><b>Étym</b>. ἡμι-, ἀ.`

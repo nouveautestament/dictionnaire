@@ -1,1 +1,0 @@
-lar[54210]=`<b>έως (ὁ)</b> sorte de paon des Indes, STR. <i>718</i> ; EL. <i>N.A. 17, 32</i>.`

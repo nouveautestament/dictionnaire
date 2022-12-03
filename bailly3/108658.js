@@ -1,1 +1,0 @@
-lar[108658]=`<b>χοη·φόρος, ου (ὁ, ἡ)</b> choéphore, <i>càd</i>. qui porte des libations <i>ou</i> des offrandes funéraires : αἱ Χοηφόροι, les Choéphores, <i>titre d’une tragédie d’Eschyle</i>.<p><b>Étym</b>. χοή, φέρω.`

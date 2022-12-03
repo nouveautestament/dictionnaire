@@ -1,1 +1,0 @@
-lar[37242]=`<i>adv</i>., alternativement, HIÉROCL. <i>de Provid. p. 462 Bekker</i>.<p><b>Étym</b>. ἐπαλλάσσω.`

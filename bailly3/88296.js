@@ -1,1 +1,0 @@
-lar[88296]=`<b>υος (ἡ)</b> <font color="purple">[ᾰ]</font> rave, GLAUC. LOCR. (ATH. <i>369b</i>) ; <i>cf</i>. ῥάφανος.`

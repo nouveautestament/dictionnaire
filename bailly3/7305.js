@@ -1,1 +1,0 @@
-lar[7305]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> indignation que cause un traitement injuste, JOS. <i>A.J. 15, 2, 7</i>.<p><b>Étym</b>. <i>v</i>. ἀναξιοπαθέω.`

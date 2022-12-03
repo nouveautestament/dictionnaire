@@ -1,1 +1,0 @@
-lar[26247]=`<b>δι·επιφώσκω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. διεπέφωσκε)</font> commencer à luire, DH. <i>9, 63</i>.`

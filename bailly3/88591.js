@@ -1,1 +1,0 @@
-lar[88591]=`<b>ῥιν·εγχύτης, ου (ὁ)</b> <font color="purple">[ῑῠ]</font> seringue pour injections dans le nez, C. AUR. <i>Chron. 2, 4</i>.<p><b>Étym</b>. ῥίς, ἐγχέω.`

@@ -1,1 +1,0 @@
-lar[104851]=`<b>οῦ (ὁ)</b> qui aime l’étalage <i>ou</i> la parure, POLÉM. <i>Physiogn. 1, 6</i>.<p><b>Étym</b>. φαντάζω.`

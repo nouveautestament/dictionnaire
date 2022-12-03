@@ -1,1 +1,0 @@
-lar[66996]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font> <i>c</i>. μυδαλέος, NIC. <i>Th. 362</i>.`

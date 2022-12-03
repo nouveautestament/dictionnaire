@@ -1,1 +1,0 @@
-lar[5327]=`(seul <i>prés</i>.) faire avorter, PLAT. <i>Theæt. 149d</i>.<p><b>Étym</b>. ἀμβλύς.`

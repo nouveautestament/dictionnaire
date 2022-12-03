@@ -1,1 +1,0 @@
-lar[104772]=`<b>ων (οἱ)</b> Falisques, habitants de Faléries, <i>v. d’Étrurie,</i> POL. <i>1, 65, 2</i> ; PLUT. <i>Cam. 5, 9, 10, etc</i>.`

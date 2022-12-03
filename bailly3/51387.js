@@ -1,1 +1,0 @@
-lar[51387]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., laborieusement, péniblement, MAN. <i>4, 622</i>.<p><b>Étym</b>. κάματος, -δον.`

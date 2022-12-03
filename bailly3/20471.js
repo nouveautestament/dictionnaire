@@ -1,1 +1,0 @@
-lar[20471]=`<b>*βού·μαστος, ου (ὁ)</b> <i>seul. lat</i>. bumastus, sorte de gros raisin, VIRG. <i>Georg. 2, 102</i> ; COLUM. PLIN.<p><b>Étym</b>. βου-, μαστός.`

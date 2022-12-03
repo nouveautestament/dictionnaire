@@ -1,1 +1,0 @@
-lar[24563]=`<b>διαδικέω-ῶ</b> <font color="purple">[ᾰῐ]</font> (<i>seul. prés</i>.) :<br><b>      1</b> juger un procès, DC. <i>40, 55</i>.<br><b>      2</b> être en procès, PLUT. <i>M. 196b</i>.<p><b>Étym</b>. διάδικος.`

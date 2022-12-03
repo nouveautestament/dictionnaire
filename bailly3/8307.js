@@ -1,1 +1,0 @@
-lar[8307]=`<i>adv</i>., sans exciter l’envie, PLAT. <i>Leg. 684e</i>.`

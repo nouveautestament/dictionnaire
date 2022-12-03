@@ -1,1 +1,0 @@
-lar[160]=`<b>ας (ἡ)</b> Aura, <i>servante de Pompéia,</i> PLUT. <i>Cic. 28, 3</i>.`

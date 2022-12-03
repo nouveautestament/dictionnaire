@@ -1,1 +1,0 @@
-lar[62334]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> <i>ion.</i> :<br><b>      1</b> <i>c</i>. μάθησις, connaissance, science, expérience, AR. <i>fr. 645 ; p. opp. à</i> πάθος, ESCHL. <i>Ag. 177</i>.<br><b>      2</b> habitude, coutume, HPC. <i>592, 50 ; 642, 49</i>.<p><b>Étym</b>. μανθάνω.`

@@ -1,1 +1,0 @@
-lar[33339]=`<b>ἐμ·παρίστημι</b>, placer dans <i>ou</i> auprès, <i>au pf</i>. se trouver dans <i>ou</i> auprès, HLD. <i>7, 19</i>.<p><b>Étym</b>. ἐν, π.`

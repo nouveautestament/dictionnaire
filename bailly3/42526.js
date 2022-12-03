@@ -1,1 +1,0 @@
-lar[42526]=`<b>εὔ·κροτος, ος, ον</b>, sonore, harmonieux, ALCIPHR. <i>3, 43</i>.<p><b>Étym</b>. εὖ, κρότος.`

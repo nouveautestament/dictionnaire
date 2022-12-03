@@ -1,1 +1,0 @@
-lar[65656]=`<b>ου (ὁ)</b> <font color="purple">[ῑῠῐ]</font><br><b>      1</b> Midylidès, <i>h</i>. DÉM. <i>44, 9 Baiter-Sauppe</i>.<br><b>      2</b> <i>au pl</i>. Μιδυλίδαι, ῶν, <i>dor</i>. -ᾶν (οἱ) <font color="purple">[ῑῠῐ]</font> les descendants de Midylos, PD. <i>P. 8, 40</i>.<p><b>Étym</b>. <i>patr. de</i> Μιδύλος.`

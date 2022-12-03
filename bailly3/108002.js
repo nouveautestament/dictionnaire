@@ -1,1 +1,0 @@
-lar[108002]=`<b>ωνος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> gai, joyeux, <i>seul. en parl. de la couleur, particul. de la couleur fauve du lion,</i> EUPHOR. <i>47</i> ; LYC. <i>455 ; d’un chien d’Actéon,</i> ESCHL. <i>fr. 354 ; de l’aigle,</i> LYC. <i>260 ; des Cyclopes,</i> LYC. <i>660</i>.<p><b>Étym</b>. <i>forme abrégée de</i> χαροπός.`

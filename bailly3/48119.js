@@ -1,1 +1,0 @@
-lar[48119]=`<b>ιγγος (ὁ) :<br>      1</b> corde : στέφανος θώμιγγος, couronne de corde, HDT. <i>1, 199</i>.<br><b>      2</b> corde d’arc, ESCHL. <i>Pers. 461, Eum. 182</i>.<br><b>      3</b> fil de lin pour une ligne à pêche, OPP. <i>H. 3, 76</i>.<br><b>      4</b> câble, POLYEN <i>6, 50</i> ; EL. <i>V.H. 3, 26</i>.<p><b>Étym.</b> <i>pré-grec</i>.`

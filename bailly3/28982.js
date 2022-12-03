@@ -1,1 +1,0 @@
-lar[28982]=`<b>δυσ·φόρμιγξ, ιγγος (ὁ, ἡ)</b> non accompagné des accents de la lyre, <i>d’où</i> triste, lamentable, EUR. <i>I.T. 225</i>.<p><b>Étym</b>. δ. φόρμιγξ.`

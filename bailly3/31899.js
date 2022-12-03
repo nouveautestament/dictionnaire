@@ -1,1 +1,0 @@
-lar[31899]=`<b>εως (ἡ) :<br>      1</b> émission de la semence génitale, HDT. <i>3, 109</i>.<br><b>      2</b> cession d’un enfant à celui qui l’adopte, DC. <i>37, 51</i>.<br><b>      3</b> achèvement d’un ouvrage, DC. <i>37, 44</i>.<p><b>Étym</b>. ἐκποιέω.`

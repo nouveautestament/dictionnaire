@@ -1,1 +1,0 @@
-lar[38085]=`<b>ἐπι·κνίζω</b>, gratter à la surface, écorcher, TH. <i>H.P. 4, 2, 1</i> ; ANTH. <i>6, 238</i>.`

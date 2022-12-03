@@ -1,1 +1,0 @@
-lar[38327]=`<i>adv</i>., avec réflexion, GAL. <i>8, 591</i>.`

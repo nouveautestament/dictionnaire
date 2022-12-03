@@ -1,1 +1,0 @@
-lar[29178]=`<b>δωρο·δόκος, ος, ον :<br>      1</b> qui reçoit des présents, qui se laisse corrompre par des présents, PLAT. <i>Rsp. 390d ;</i> POL. <i>6, 9, 7</i>.<br><b>      2</b> qui fait des présents, libéral, généreux, ARÉT. <i>67, 31</i>.<p><b>Étym</b>. δῶρον, δέκομαι.`

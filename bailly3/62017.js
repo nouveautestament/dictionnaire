@@ -1,1 +1,0 @@
-lar[62017]=`<b>ου (ὁ)</b> Lysidônidès, <i>h</i>. PLUT. <i>X orat. Antiph. 12</i>.`

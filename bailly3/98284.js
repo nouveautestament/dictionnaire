@@ -1,1 +1,0 @@
-lar[98284]=`<b>οντος (ὁ)</b> Ténagôn, <i>Bactrien,</i> ESCHL. <i>Pers. 306</i>.`

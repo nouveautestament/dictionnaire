@@ -1,1 +1,0 @@
-lar[10291]=`<b>ἀντί·πνοος-ους, οος-ους, οον-ουν :<br>      1</b> causé par un vent contraire, ESCHL. <i>Ag. 149</i>.<br><b>      2</b> qui souffle en sens contraire, ESCHL. <i>Pr. 1087</i>.<p><b>Étym</b>. ἀντιπνέω.`

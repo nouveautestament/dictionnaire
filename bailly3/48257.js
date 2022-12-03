@@ -1,1 +1,0 @@
-lar[48257]=`<b>ων (οἱ)</b> <font color="purple">[ᾱῠ]</font> Iapyges, <i>pple du Sud de l’Italie,</i> ANTH. <i>6, 222</i> ; CALL. <i>fr. 444</i>.<p>➳ <i>Ion</i>. Ἰήπ. HDT. <i>7, 170</i> ; <font color="purple">[ῡ]</font> <i>par nécessité prosod</i>. ORACL. (STR. <i>279</i>) ; CALL. <i>fr. 444</i> ; DP. <i>5, 79</i> ; ANTH. <i>6, 222</i>.`

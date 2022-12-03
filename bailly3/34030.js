@@ -1,1 +1,0 @@
-lar[34030]=`<b>ἐναρο·κτάντας, α (ὁ)</b> <font color="purple">[ᾰρ]</font> qui dépouille <i>ou</i> qui tue, ESCHL. <i>fr. 144 (dor</i>.).<p><b>Étym</b>. ἐναίρω, κτείνω.`

@@ -1,1 +1,0 @@
-lar[99279]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> justicier, vengeur, SPT. <i>2Macc. 4, 16</i>.<p><b>Étym</b>. τιμωρέω.`

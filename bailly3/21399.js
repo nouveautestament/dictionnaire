@@ -1,1 +1,0 @@
-lar[21399]=`<b>γαρ·έλαιον, ου (τὸ)</b> mélange de saumure et d’huile, GAL. <i>6, 391f</i>.<p><b>Étym</b>. γάρος, ἔλαιον.`

@@ -1,1 +1,0 @@
-lar[100775]=`<b>ᾶς (ἡ) :<br>      1</b> trace de roue, ornière, SPT.<br><b>      2</b> cercle d’une roue, NIC. <i>Th. 816</i> ; ANTH. <i>7, 478 ; 9, 418</i>.<p><b>Étym</b>. τροχός.`

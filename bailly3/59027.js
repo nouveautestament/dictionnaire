@@ -1,1 +1,0 @@
-lar[59027]=`<b>ου (τὸ)</b> <font color="purple">[ῠτῑ]</font> Kytinion (<i>auj</i>. Paleochóri) <i>v. de Doride,</i> THC. <i>1, 107 ; 3, 95, etc</i>.`

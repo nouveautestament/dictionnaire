@@ -1,1 +1,0 @@
-lar[48144]=`<b>ου (ὁ)</b> <font color="purple">[ᾱῑ]</font> soldat cuirassé, POL. <i>10, 29, 6</i>.<p><b>Étym</b>. θώραξ.`

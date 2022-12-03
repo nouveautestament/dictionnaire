@@ -1,1 +1,0 @@
-lar[49218]=`<b>ἱππ·ακοντιστής, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> cavalier armé de javelot <i>ou</i> d’une lance, ARR. <i>Tact. 149, 189</i>.<p><b>Étym</b>. ἵππος, ἀ.`

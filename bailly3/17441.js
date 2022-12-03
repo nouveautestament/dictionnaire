@@ -1,1 +1,0 @@
-lar[17441]=`<b>αὐτό·δηλος, ος, ον</b>, évident de soi-même, ESCHL. <i>Sept. 848</i>.<p><b>Étym</b>. αὐ. δῆλος.`

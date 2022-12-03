@@ -1,1 +1,0 @@
-lar[88162]=`<i>adv. encl</i>. donc, certes, IL. <i>5, 209 ; renforcé par</i> ἦ : ἦ ῥα, ESCHL. <i>Pers. 633</i> ; SOPH. <i>Aj. 172 ; ou par</i> ἤ : ἤ ῥα, SOPH. <i>Aj. 177</i>.<p><b>Étym</b>. <i>poét. p</i>. ἄρα.`

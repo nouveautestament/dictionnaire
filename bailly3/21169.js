@@ -1,1 +1,0 @@
-lar[21169]=`<b>γαιη·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange de la terre, NUMÉN. (ATH. <i>305a</i>).<p><b>Étym</b>. γαίη, φαγεῖν.`

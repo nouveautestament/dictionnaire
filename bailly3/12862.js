@@ -1,1 +1,0 @@
-lar[12862]=`<b>ἀπο·μαντεύομαι</b> <font color="darkgreen">(<i>ao</i>. ἀπεμαντευσάμην)</font> conjecturer, PLAT. <i>Rsp. 505e, etc.</i> ; prédire, DC. <i>59, 5</i>.`

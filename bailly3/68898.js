@@ -1,1 +1,0 @@
-lar[68898]=`<b>ας (ἡ)</b> fonction de nomarque, gouvernement d’un nome, DS. <i>19, 85 conj</i>.<p><b>Étym</b>. νομάρχης.`

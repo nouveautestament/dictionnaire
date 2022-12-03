@@ -1,1 +1,0 @@
-lar[9527]=`<b>ἀντ·ασπάζομαι</b>, embrasser à son tour, accueillir à son tour amicalement, XÉN. <i>Cyr. 1, 3, 3 ; 5, 5, 35 et 42</i> ; PLUT. <i>Tim. 38, etc</i>.`

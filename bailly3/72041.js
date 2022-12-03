@@ -1,1 +1,0 @@
-lar[72041]=`<b>ὀξ·άλμη, ης (ἡ)</b> sauce au vinaigre et à la saumure, CRAT. (ATH. <i>385b</i>) ; AR. <i>Vesp. 331</i> ; ARSTT. <i>Meteor. 2, 3</i>.<p><b>Étym</b>. ὀξύς, ἅλμη.`

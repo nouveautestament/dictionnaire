@@ -1,1 +1,0 @@
-lar[47557]=`<b>ου (ὁ)</b> siège, banc, escabeau, AR. <i>Pl. 545</i> ; chaise percée, HPC. (GAL. <i>Lex. Hipp. 19, 104).</i><p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

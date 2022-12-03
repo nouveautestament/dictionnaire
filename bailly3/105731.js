@@ -1,1 +1,0 @@
-lar[105731]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> goût pour les exercices corporels, PLAT. <i>Conv. 182c, 205d</i>.<p><b>Étym</b>. φιλογυμναστής.`

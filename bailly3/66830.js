@@ -1,1 +1,0 @@
-lar[66830]=`<b>μουκηρο·βάκτας, α (ὁ)</b> casse-noisettes, <i>oiseau,</i> PAMPH. (ATH. <i>53b</i>) <i>conj</i>.<p><b>Étym</b>. μούκηρος, βάγνυμι, <i>lac. c</i>. *ϝάγνυμι, ἄγνυμι.`

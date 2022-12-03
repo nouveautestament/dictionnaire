@@ -1,1 +1,0 @@
-lar[54761]=`<b>κεντρο·μυρσίνη, ης (ἡ)</b> <font color="purple">[ῐ]</font> petit houx, <i>arbuste épineux,</i> TH. <i>H.P. 3, 17, 4</i> ; GEOP. <i>10, 3, 7</i>.<p><b>Étym</b>. κέντρον, μυρσίνη.`

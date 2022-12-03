@@ -1,1 +1,0 @@
-lar[32748]=`<b>ἐλεφαντιάω-ῶ</b>, être atteint de l’éléphantiasis, DIOSC. <i>1, 105 ; 2, 153</i> ; PTOL. <i>Tetr. 151</i> ; PROCL. <i>Ptol. p. 214</i>.<p><b>Étym</b>. ἐλέφας.`

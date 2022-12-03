@@ -1,1 +1,0 @@
-lar[26482]=`<b>δικαιό·πολις, εως (ὁ, ἡ)</b> <font color="purple">[δῐ]</font> dont les cités pratiquent la justice, <i>en parl. d’une île,</i> PD. <i>P. 8, 30</i>.<p><b>Étym</b>. δ. πόλις.`

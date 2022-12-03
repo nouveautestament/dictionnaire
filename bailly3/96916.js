@@ -1,1 +1,0 @@
-lar[96916]=`<i>adv</i>., avec véhémence, avec force, OD. <i>12, 124</i> ; XÉN. <i>Œc. 1, 21, etc.</i> ; PLAT. <i>Ap. 23e, etc</i>.<p>•<i> Cp</i>. -ότερον, TH. <i>C.P. 5, 10, 1 ; ou</i> -οτέρως, TH. <i>C.P. 5, 9, 13. • Sup</i>. -ότατον, XÉN. <i>Eq. 12, 13</i>.<p><b>Étym</b>. σφοδρός.`

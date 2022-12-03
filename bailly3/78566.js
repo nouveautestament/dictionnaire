@@ -1,1 +1,0 @@
-lar[78566]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> tournée <i>ou</i> course autour, HPC. <i>Aër. 292</i>.<br><b>      2</b> espace où l’on peut circuler à cheval, HDT. <i>1, 179</i>.<p><b>Étym</b>. περιελαύνω.`

@@ -1,1 +1,0 @@
-lar[54232]=`<b>κατω·κάρα</b> <font color="purple">[ᾰρᾱ]</font> <i>adv</i>., la tête en bas, AR. <i>Ach. 945, Pax 153</i>.<p><b>Étym</b>. κάτω, κάρα.`

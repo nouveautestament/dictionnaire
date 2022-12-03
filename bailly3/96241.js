@@ -1,1 +1,0 @@
-lar[96241]=`<b>εως (ἡ)</b> union en une seule substance, identification, HERMIAS <i>Plat. Phædr. p. 131</i>.<p><b>Étym</b>. συνουσιόω.`

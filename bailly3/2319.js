@@ -1,1 +1,0 @@
-lar[2319]=`<b>α, ον</b>, d’Ægys, <i>v. de Laconie,</i> LYC. <i>850</i> (Αἶγυς, STR.).`

@@ -1,1 +1,0 @@
-lar[98582]=`<b>τετρακισ·χίλιοι, αι, α</b> <font color="purple">[ᾰχῑ]</font> quatre mille, HDT. <i>2, 9, etc. ; écrit séparément,</i> τ. γὰρ χ. THC. <i>6, 31</i>.`

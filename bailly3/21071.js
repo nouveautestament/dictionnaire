@@ -1,1 +1,0 @@
-lar[21071]=`<b>ή, όν</b>, DH. <i>8, 18 ou</i> <b>βώλανος, η, ον</b>, PLUT. <i>Cor. 28,</i> habitant de βῶλα = <i>lat</i>. Volæ (<i>auj</i>. Poli), <i>v. des Èques</i>.`

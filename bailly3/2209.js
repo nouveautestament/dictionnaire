@@ -1,1 +1,0 @@
-lar[2209]=`<b>ης (ἡ)</b> Ægesta (Égeste, <i>auj</i>. Ségeste, <i>ruines près d’Alcamo) v. de Sicile,</i> PLUT. <i>Parall. min. 89</i>.`

@@ -1,1 +1,0 @@
-lar[6419]=`<b>ἀμφι·φανής, ής, ές</b> <font color="purple">[φᾰ]</font><br><b>      1</b> <i>c</i>. ἀμφιφαής, ARR. (STOB. <i>Ecl. 1, 588</i>).<br><b>      2</b> visible alentour, <i>càd</i>. éclatant, connu de tous, EUR. <i>Andr. 835</i>.<p><b>Étym</b>. ἀ. φαίνω.`

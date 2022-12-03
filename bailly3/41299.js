@@ -1,1 +1,0 @@
-lar[41299]=`<b>ἑτερο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui est d’un avis différent, SYN. <i>9a, etc</i>.<p><b>Étym</b>. ἕ. γνώμη.`

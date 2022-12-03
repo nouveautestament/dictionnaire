@@ -1,1 +1,0 @@
-lar[100662]=`<b>εως (ἡ)</b> <font color="purple">[ῐχ]</font><br><b>      1</b> croissance des cheveux, des poils, ARSTT. <i>H.A. 5, 14, 3, etc.</i><br><b>      2</b> <i>c</i>. τριχίασις, HPC. <i>406, 41</i>.<p><b>Étym</b>. τριχόω.`

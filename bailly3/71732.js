@@ -1,1 +1,0 @@
-lar[71732]=`<b>ὁμο·τρόφος, ος, ον</b>, qui fournit une nourriture commune <i>ou</i> semblable, AR. <i>Av. 329</i>.<p><b>Étym</b>. ὁμ. τρέφω.`

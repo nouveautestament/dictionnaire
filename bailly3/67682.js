@@ -1,1 +1,0 @@
-lar[67682]=`<b>ά, όν</b> <font color="purple">[ᾱ]</font> qui coule, qui s’épanche, ESCHL. <i>fr. 399</i> ; SOPH. <i>fr. 560</i>.<p><b>Étym</b>. νάω.`

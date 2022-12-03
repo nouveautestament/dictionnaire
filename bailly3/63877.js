@@ -1,1 +1,0 @@
-lar[63877]=`<b>μελανό·γραμμος, ος, ον</b> <font color="purple">[ᾰν]</font> marqué de raies <i>ou</i> de lignes noires, ARSTT. (ATH. <i>313d</i>).<p><b>Étym</b>. μέλας, γραμμή.`

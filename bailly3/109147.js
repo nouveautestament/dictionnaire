@@ -1,1 +1,0 @@
-lar[109147]=`<b>χρυσιο·πλύσιον, ου (τὸ)</b> lieu où l’on lave le minerai pour trier les pépites d’or, STR. <i>214</i>.<p><b>Étym</b>. χρυσίον, πλύνω.`

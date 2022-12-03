@@ -1,1 +1,0 @@
-lar[88467]=`<b>ῥηξι·κέλευθος, ος, ον</b> <font color="purple">[ῐ]</font> qui ouvre de force un chemin, ANTH. <i>9, 525, 18</i>.<p><b>Étym</b>. ῥήγνυμι, κ.`

@@ -1,1 +1,0 @@
-lar[43810]=`<b>εὐ·χίμαρος, ος, ον</b> <font color="purple">[ῐᾰ]</font> riche en chèvres, ANTH. <i>6, 108</i>.<p><b>Étym</b>. εὖ, χίμαρος.`

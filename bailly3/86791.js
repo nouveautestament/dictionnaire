@@ -1,1 +1,0 @@
-lar[86791]=`<b>πρό·τιμος, ος, ον</b> <font color="purple">[ῑ]</font> plus honoré, plus estimé que, <i>gén</i>. XÉNOPHAN. (ATH. <i>414b</i>) ; PLAT. <i>Eryx. 393d ; abs</i>. PLAT. <i>Leg. 947d ;</i> LUC. <i>J. tr. 7</i> ; EL. <i>N.A. 8, 4, etc</i>.<p>•<i> Cp</i>. προτιμότερος, PLAT. <i>Eryx. 393d</i>.<p><b>Étym</b>. π. τιμή.`

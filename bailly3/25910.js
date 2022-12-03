@@ -1,1 +1,0 @@
-lar[25910]=`<b>ατος (τὸ)</b> relâchement, rupture, DH. <i>Comp. p. 168, 1, Reiske</i>.<p><b>Étym</b>. διαχαλάω.`

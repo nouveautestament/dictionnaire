@@ -1,1 +1,0 @@
-lar[72376]=`<b>ης (ἡ)</b> Opœè, <i>femme du roi scythe Skylès,</i> HDT. <i>4, 78</i>.`

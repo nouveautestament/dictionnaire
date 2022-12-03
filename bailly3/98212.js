@@ -1,1 +1,0 @@
-lar[98212]=`<b>ου (ὁ)</b> Télètias, <i>h</i>. PLUT. <i>Ser. num. vind. 7</i>.`

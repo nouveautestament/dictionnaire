@@ -1,1 +1,0 @@
-lar[84501]=`<b>ή, όν</b>, qui peut préparer, CHRYS.<p><b>Étym</b>. προκατασκευάζω.`

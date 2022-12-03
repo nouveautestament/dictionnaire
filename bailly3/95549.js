@@ -1,1 +1,0 @@
-lar[95549]=`<b>συν·εξορχέομαι-οῦμαι</b>, insulter en même temps, SYN. <i>69a</i>.`

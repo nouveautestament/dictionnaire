@@ -1,1 +1,0 @@
-lar[88973]=`<b>(τὸ)</b> <i>indécl</i>. rhô, <i>nom grec de la lettre</i> ῥ, AR. <i>Th. 781</i> ; CALLIAS (ATH. <i>453d</i>).<p><b>Étym</b>. <i>v</i>. Ῥ.`

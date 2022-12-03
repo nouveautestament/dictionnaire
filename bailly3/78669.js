@@ -1,1 +1,0 @@
-lar[78669]=`<b>περι·θρύπτω</b>, briser tout autour, DS. <i>3, 51</i> ; PHIL. <i>1, 501, etc</i>.`

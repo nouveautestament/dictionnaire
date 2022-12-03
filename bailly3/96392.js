@@ -1,1 +1,0 @@
-lar[96392]=`<b>συν·τυρόω-ῶ</b> <font color="purple">[ῡ]</font> faire cailler ensemble comme un fromage, <i>fig</i>. AR. <i>Eq. 479</i>.`

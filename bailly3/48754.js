@@ -1,1 +1,0 @@
-lar[48754]=`<b>ἰθυ·πτίων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῑθ]</font> qui vole en droite ligne, IL. <i>21, 169</i>.<p><b>Étym</b>. ἰ. πέτομαι.`

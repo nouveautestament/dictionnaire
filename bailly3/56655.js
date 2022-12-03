@@ -1,1 +1,0 @@
-lar[56655]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡ]</font> <i>dim. de</i> κολλύρα, SPT. <i>2Reg. 6, 19</i>.`

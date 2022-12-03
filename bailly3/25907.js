@@ -1,1 +1,0 @@
-lar[25907]=`<b>δια·χάζω</b>, XÉN. <i>An. 4, 8, 18, et moy</i>. <b>διαχάζομαι</b> (<i>inf. ao</i>. -χάσασθαι) XÉN. <i>Cyr. 7, 1, 31,</i> se faire jour à travers.`

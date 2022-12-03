@@ -1,1 +1,0 @@
-lar[107129]=`<b>φυλλ·άκανθος, ος, ον</b> <font color="purple">[ᾰκ]</font> qui a des feuilles épineuses, TH. <i>H.P. 1, 10, 7, etc</i>.<p><b>Étym</b>. φύλλον, ἄκανθα.`

@@ -1,1 +1,0 @@
-lar[31411]=`<b>ἐκ·κείρω</b> (<i>part. pf. pass</i>. -κεκαρμένος) tondre <i>ou</i> raser complètement, SOPH. (ATH. <i>410c</i>).`

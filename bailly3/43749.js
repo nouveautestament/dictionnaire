@@ -1,1 +1,0 @@
-lar[43749]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> gaîté, joie, EPICT. (STOB. <i>Fl. 5, 9).</i><p><b>Étym</b>. εὐφραντός.`

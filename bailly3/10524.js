@@ -1,1 +1,0 @@
-lar[10524]=`<b>ἀντι·τυγχάνω</b>, rencontrer <i>ou</i> obtenir en échange, <i>gén</i>. PD. <i>N. 7, 42</i> ; THC. <i>6, 87, etc</i>.`

@@ -1,1 +1,0 @@
-lar[83481]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui sert, à prédire, ARTÉM. <i>1, 66, etc</i>.<p><b>Étym</b>. προαγορεύω.`

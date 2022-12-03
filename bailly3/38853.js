@@ -1,1 +1,0 @@
-lar[38853]=`<font color="purple">[ῡ]</font> <i>(seul. prés. pass.) c</i>. ἐπιπωμάζω HÉRON <i>Spir. 180</i>.`

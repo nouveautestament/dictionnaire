@@ -1,1 +1,0 @@
-lar[31692]=`<b>ἐκ·μυελίζω</b> <font color="purple">[ῡ]</font> sucer la moelle, épuiser, SPT. <i>Num. 24, 8</i>.<p><b>Étym</b>. ἐκ, μυελός.`

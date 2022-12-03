@@ -1,1 +1,0 @@
-lar[107320]=`<b>φυτο·κόμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. φυτηκόμος, GEOP. <i>Proœm. § 5, etc</i>.`

@@ -1,1 +1,0 @@
-lar[23707]=`<b>δεκα·σύλλαβος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> de dix syllabes (mètre alcaïque), HÉPH. <i>7, 10</i>.<p><b>Étym</b>. δ. συλλαβή.`

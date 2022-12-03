@@ -1,1 +1,0 @@
-lar[20472]=`<b>βου·μελία, ας (ἡ)</b> frêne de grande espèce (<i>Fraxinus excelsior</i> L.) TH. <i>H.P. 3, 11, 4</i>.<p><b>Étym</b>. βου-, μ.`

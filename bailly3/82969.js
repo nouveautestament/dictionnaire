@@ -1,1 +1,0 @@
-lar[82969]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>ion. et poét. c</i>. ποτάμιος, NONN. <i>D. 11, 309, etc</i>.`

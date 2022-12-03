@@ -1,1 +1,0 @@
-lar[97230]=`<b>ή, όν</b> <font color="purple">[ῑτ]</font> <i>c</i>. σωρειτικός, SEXT. <i>3, 80</i> ; GAL. <i>7, 183</i>.`

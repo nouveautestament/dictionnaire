@@ -1,1 +1,0 @@
-lar[63652]=`<b>ατος (τὸ)</b> boisson enivrante, PHIL. <i>1, 352</i> ; SPT. <i>1Reg. 1, 15 ; Jer. 13, 13</i>.<p><b>Étym</b>. μεθύσκω.`

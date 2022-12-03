@@ -1,1 +1,0 @@
-lar[31761]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec excès, passionnément, ATH. <i>443d</i>.<p><b>Étym</b>. ἐκπαθής.`

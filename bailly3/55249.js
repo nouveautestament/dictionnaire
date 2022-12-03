@@ -1,1 +1,0 @@
-lar[55249]=`être inquiet, soucieux, se préoccuper, EUR. <i>H.f. 518</i> ; τι, EUR. <i>Hipp. 223</i> ; ἐπί τινι, MAX. <i>π. κατ. 93,</i> de qqe ch. ; περί τι, PHIL. (EUS. <i>P.E. 347b</i>) se donner beaucoup de mal pour obtenir qqe ch.<p><b>Étym</b>. κῆρ.`

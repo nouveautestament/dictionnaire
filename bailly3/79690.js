@@ -1,1 +1,0 @@
-lar[79690]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> ce qui est répandu autour <i>ou</i> sur, DIOSC. <i>1, 116</i>.<br><b>      2</b> ablution, MARIN. <i>V. Procl. p. 21</i>.<p><b>Étym</b>. περιχέω.`

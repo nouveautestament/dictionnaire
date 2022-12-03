@@ -1,1 +1,0 @@
-lar[96102]=`<b>συν·οδοιπόρος, ου (ὁ, ἡ)</b> compagnon <i>ou</i> compagne de voyage, XÉN. <i>Mem. 2, 2, 12</i> ; LUC. <i>D. mort. 27, 7</i>.<p><b>Étym</b>. σύν, ὁδοιπόρος.`

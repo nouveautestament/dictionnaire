@@ -1,1 +1,0 @@
-lar[51685]=`<b>καπυρόω-ῶ</b> <font color="purple">[ᾰῠ]</font> dessécher, <i>d’où au pass</i>. être desséché, être sec, STR. <i>195</i>.<p><b>Étym</b>. καπυρός.`

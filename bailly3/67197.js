@@ -1,1 +1,0 @@
-lar[67197]=`<b>ας (ἡ)</b> <i>ou</i> <b>ων (τὰ)</b> Myra <i>ou</i> Myres, <i>v. de Lycie,</i> PLUT. <i>Sol. an. 23</i> ; SIB. <i>4, 109</i>.`

@@ -1,1 +1,0 @@
-lar[45925]=`<b>ἡρωο·λογέω-ῶ</b>, chanter un héros <i>ou</i> des héros, STR. <i>508</i>.<p><b>Étym</b>. ἥρως, λόγος.`

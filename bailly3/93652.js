@@ -1,1 +1,0 @@
-lar[93652]=`<b>εως (ἡ)</b> fouille, terrassement, ATHÉNÉE MÉC.<p><b>Étym</b>. συγχώννυμι.`

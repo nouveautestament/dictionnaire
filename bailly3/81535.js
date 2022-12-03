@@ -1,1 +1,0 @@
-lar[81535]=`<b>πολεμόω-ῶ</b>, faire ennemi, rendre hostile ; <i>acc</i>. JOS. <i>Macc. 4, 21 ; au pass</i>. être rendu ennemi, THC. <i>1, 36 et 57</i>.<br><b><i>Moy.</i></b> se faire un ennemi de, <i>acc</i>. THC. <i>5, 98</i>.<p><b>Étym</b>. πόλεμος.`

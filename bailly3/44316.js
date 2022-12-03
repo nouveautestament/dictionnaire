@@ -1,1 +1,0 @@
-lar[44316]=`<b>ῆρος (ὁ)</b> marmite (<i>litt</i>. qui cuit), ANTH. <i>6, 305</i>.<p><b>Étym</b>. ἑψέω.`

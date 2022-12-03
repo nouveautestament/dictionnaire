@@ -1,1 +1,0 @@
-lar[52235]=`<b>ατος (τὸ) :<br>      1</b> caresse avec la langue, AR. <i>Nub. 51</i>.<br><b>      2</b> <i>au pl</i>. emploi de mots recherchés <i>ou</i> inusités, SYN. <i>53</i>.<p><b>Étym</b>. καταγλωττίζω.`

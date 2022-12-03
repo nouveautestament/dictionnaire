@@ -1,1 +1,0 @@
-lar[15457]=`<b>αντος (ὁ)</b> <font color="purple">[ᾰῠ]</font> Arybas, <i>h</i>. OD. <i>15, 426</i>.`

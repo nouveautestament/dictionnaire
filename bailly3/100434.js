@@ -1,1 +1,0 @@
-lar[100434]=`<b>τρισ·δείλαιος, ος, ον</b>, trois fois, <i>càd</i>. tout à fait malheureux, ANTH. <i>7, 737</i>.`

@@ -1,1 +1,0 @@
-lar[63755]=`<b>μελάγ·γειος, ος, ον</b>, dont la terre est noire, <i>càd</i>. de bonne qualité, TH. <i>H.P. 8, 7, 2</i>.<p><b>Étym</b>. μ. γαῖα.`

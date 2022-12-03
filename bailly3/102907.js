@@ -1,1 +1,0 @@
-lar[102907]=`<b>ὑπερ·χρόνιος, ος, ον</b>, qui dépasse les limites ordinaires du temps, extrêmement vieux, ZÉNOB. <i>6, 30</i> ; DIOGÉN. <i>8, 63</i>.<p><b>Étym</b>. ὑ. χρόνος.`

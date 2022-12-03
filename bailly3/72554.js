@@ -1,1 +1,0 @@
-lar[72554]=`<b>η, ον</b> <font color="purple">[ῐ]</font> porté à la colère, irascible, HPC. <i>Epid. 1, 955</i> ; XÉN. <i>Eq. 9, 7</i> ; PLAT. <i>Rsp. 405c ;</i> ARSTT. <i>Rhet. 2, 2, 4</i>.<p>•<i> Cp</i>. -ώτερος, PLUT. <i>M. 457b ; sup</i>. -ώτατος, PLUT. <i>M. 457c</i>.<p><b>Étym</b>. ὀργή.`

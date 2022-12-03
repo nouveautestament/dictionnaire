@@ -1,1 +1,0 @@
-lar[103495]=`<b>οῦ (ὁ)</b> action de porter qqe ch. en compte, de prendre qqe ch. en considération, CHRYSIPP. (PLUT. <i>M. 1043d</i>) ; DH. <i>t. 2, p. XXXVII, l. 15 Fragmenta historicum græcorum, Müller</i>.<p><b>Étym</b>. ὑπολογίζομαι.`

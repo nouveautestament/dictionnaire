@@ -1,1 +1,0 @@
-lar[45119]=`<i>ion</i>. <b>-έη</b>, ης (ἡ) jeune fille, NIC. (ATH. <i>684c</i>).<p><b>Étym</b>. <i>fém. de</i> ἠΐθεος.`

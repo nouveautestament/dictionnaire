@@ -1,1 +1,0 @@
-lar[94896]=`<b>συν·απολύω</b>, relâcher en même temps, SEXT. <i>M. 11, 66</i>.`

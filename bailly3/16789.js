@@ -1,1 +1,0 @@
-lar[16789]=`<b>ἀ·τημέλητος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> négligé, XÉN. <i>Cyr. 5, 4, 18</i>.<br><b>      2</b> perdu, ruiné, ESCHL. <i>Ag. 891</i>.<br><b>   II</b> <i>act</i>. négligent, ALCIPHR. <i>3, 55</i>.<p><b>Étym</b>. ἀτημελέω.`

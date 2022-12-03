@@ -1,1 +1,0 @@
-lar[75599]=`<b>εως (ἡ)</b> excitation, NAZ. <i>2, 29 Migne</i>.<p><b>Étym</b>. παραθήγω.`

@@ -1,1 +1,0 @@
-lar[5647]=`<b>η, ον</b>, de sable, M. RUBR. <i>4</i>.<p><b>Étym</b>. ἄμμος.`

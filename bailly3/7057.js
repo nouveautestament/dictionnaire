@@ -1,1 +1,0 @@
-lar[7057]=`<b>ἀνα·κωμῳδέω-ῶ</b>, déclamer comme un comédien, PLUT. <i>M. 10c</i>.`

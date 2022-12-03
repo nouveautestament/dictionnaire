@@ -1,1 +1,0 @@
-lar[10305]=`<b>ἀντι·πολιτεύομαι</b> <font color="purple">[λῑ]</font> être d’un parti politique contraire, DIN. <i>102, 30</i> ; ARSTT. <i>Pol. 2, 12, 5</i> ; ἀ. τινι, PLUT. <i>Them. 19, etc</i>. suivre une politique opposée à celle de qqn.`

@@ -1,1 +1,0 @@
-lar[13104]=`<b>ἀπο·πλύνω</b>, laver, OD. <i>6, 95</i> ; PLAT. <i>Tim. 65d ;</i> LUC. <i>Anach. 29, etc</i>.`

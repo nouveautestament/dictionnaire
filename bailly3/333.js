@@ -1,1 +1,0 @@
-lar[333]=`<b>ή, όν</b> <font color="purple">[ᾰᾰν]</font> sensible, passionné, PLAT. <i>Rsp. 604e, 605a</i>.<p><b>Étym</b>. ἀγανακτητός.`

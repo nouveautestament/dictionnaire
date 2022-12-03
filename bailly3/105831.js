@@ -1,1 +1,0 @@
-lar[105831]=`<b>φιλο·κερδής, ής, ές</b> <font color="purple">[ῐ]</font> avide de gain, THGN. <i>199</i> ; PD. <i>I. 2, 9</i> ; AR. <i>Pl. 591 ; joint à</i> φιλοχρήματος, PLAT. <i>Rsp. 581a ;</i> τὸ φιλοκερδές, PLAT. <i>Rsp. 586d ;</i> LUC. <i>Tyr. 9,</i> l’amour du gain.<p>•<i> Sup</i>. φιλοκερδέστατος, PLUT. <i>Crass. 6</i>.<p><b>Étym</b>. φ. κέρδος.`

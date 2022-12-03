@@ -1,1 +1,0 @@
-lar[29506]=`<b>ἐγ·καταβιόω-ῶ</b>, passer sa vie dans, <i>dat</i>. PLUT. <i>M. 783d</i> (<i>ao.1 inf</i>. -βιῶσαι) ; <i>Agis 17 (inf. ao.2</i> -βιῶναι) ; LGN <i>44, 11 (prés</i>. -βιοῦμεν).<p><b>Étym</b>. ἐν, κ.`

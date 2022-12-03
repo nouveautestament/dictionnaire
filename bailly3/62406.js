@@ -1,1 +1,0 @@
-lar[62406]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> du Palus-Méotide, ESCHL. <i>Pr. 731</i>.`

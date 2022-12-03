@@ -1,1 +1,0 @@
-lar[35478]=`<b>ἐξ·αναφύομαι</b> <font color="darkgreen">(<i>ao.2</i> ἐξανέφυν <font color="purple">[ῡ]</font>)</font> croître hors de, sortir de, <i>gén</i>. ORPH. π. σεισμ. <i>36</i>.`

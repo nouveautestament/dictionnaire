@@ -1,1 +1,0 @@
-lar[77487]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῡ]</font> Pakhynos (<i>auj</i>. cap Passero) <i>promont. de Sicile,</i> PLUT. <i>Dio. 25, etc.</i> ; LYC. <i>1029, etc</i>.<p>➳ <i>Par exc</i>. <font color="purple">[ᾰῠ]</font> DP. <i>469, 471, etc</i>.`

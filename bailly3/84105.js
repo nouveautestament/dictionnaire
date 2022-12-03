@@ -1,1 +1,0 @@
-lar[84105]=`<b>προ·εκροφέω-ῶ</b>, avaler auparavant, EUM. <i>p. 58, 62</i>.`

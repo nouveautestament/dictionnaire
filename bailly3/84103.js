@@ -1,1 +1,0 @@
-lar[84103]=`<b>προ·εκρέω</b>, s’écouler auparavant ORIB. <i>36 Mai</i>.`

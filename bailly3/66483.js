@@ -1,1 +1,0 @@
-lar[66483]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> d’une seule manière, PLAT. <i>Leg. 720e.</i><br><b>      2</b> seulement, XÉN. <i>An. 4, 4, 18</i>.<p><b>Étym</b>. μοναχός.`

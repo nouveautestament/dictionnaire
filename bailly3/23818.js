@@ -1,1 +1,0 @@
-lar[23818]=`<b>ιδος (ὁ)</b> Delphis, <i>h</i>. THCR. <i>Idyl. 2, 21</i>.`

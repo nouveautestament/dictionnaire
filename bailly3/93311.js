@@ -1,1 +1,0 @@
-lar[93311]=`<b>συγ·κατάκειμαι</b>, <i>anc. att</i>. <b>ξυγκατάκειμαι</b>, être couché avec, <i>dat</i>. AR. <i>Eccl. 614 ; abs</i>. PLAT. <i>Conv. 191e, Phædr. 255e ; particul</i>. être couché avec qqn sur un lit de table : οἱ συγκατακείμενοι, PLUT. <i>M. 660a</i>, les convives.`

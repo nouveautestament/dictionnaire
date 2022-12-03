@@ -1,1 +1,0 @@
-lar[16839]=`<b>ἀ·τίω</b> <font color="purple">[ῐ]</font> (<i>seul. prés. 3 sg</i>. ἀτίει, THGN. <i>621 et 3 pl</i>. ἀτίουσι, ORPH. <i>Lith. 62</i>) ne pas honorer.<p><b>Étym</b>. ἀ, τίω ; <i>cf</i>. ἀτίζω.`

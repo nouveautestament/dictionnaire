@@ -1,1 +1,0 @@
-lar[7155]=`<b>ἀνα·μαντεύομαι</b>, détruire l’effet d’une prédiction, DC. <i>37, 25</i>.`

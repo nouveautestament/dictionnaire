@@ -1,1 +1,0 @@
-lar[32816]=`<b>ἑλικό·ρροος, οος, οον</b> <font color="purple">[ῐ]</font> au cours sinueux, ORACL. (PAUS. <i>4, 20, 1).</i><p><b>Étym</b>. ἐ. ῥέω.`

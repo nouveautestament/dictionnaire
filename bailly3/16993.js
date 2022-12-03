@@ -1,1 +1,0 @@
-lar[16993]=`<b>ἀ·τρύμων, ων, ον</b> <font color="purple">[αῡ]</font> infatigable artisan : κακῶν, ESCHL. <i>Sept. 875,</i> de maux.<p><b>Étym</b>. ἀ, τρύω.`

@@ -1,1 +1,0 @@
-lar[50147]=`<b>ᾶς (ἡ) :<br>      1</b> lieu rempli de violettes, AR. <i>Pax 577</i>.<br><b>      2</b> <i>d’où</i> plant de violettes, TH. <i>H.P. 1, 9, 4</i>.<br><b>      3</b> <i>c</i>. χαμαίπιτυς, APD. (ATH. <i>681d</i>).<p><b>Étym</b>. ἴον.`

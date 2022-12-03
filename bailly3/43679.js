@@ -1,1 +1,0 @@
-lar[43679]=`<b>εὐ·υπέρβατος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à surmonter, HPC. <i>754f</i>.<p><b>Étym</b>. εὖ, ὑπερβαίνω.`

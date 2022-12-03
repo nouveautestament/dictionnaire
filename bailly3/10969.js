@@ -1,1 +1,0 @@
-lar[10969]=`<b>ος, ον</b>, de l’axe <i>ou</i> de l’essieu, attaché à l’axe <i>ou</i> à l’essieu, ANTH. <i>9, 117</i>.<p><b>Étym</b>. ἄξων.`

@@ -1,1 +1,0 @@
-lar[44464]=`<b>ζευγ·ίππης, ου (ὁ)</b> qui combat sur un char attelé de deux chevaux, DS. <i>19, 106 dout. p. ζευγίτης</i>.<p><b>Étym</b>. ζεῦγος, ἵππος.`

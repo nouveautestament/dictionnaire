@@ -1,1 +1,0 @@
-lar[20764]=`<b>εως (ἡ)</b> action de mouiller, XÉN. <i>Eq. 5, 9</i>.<p><b>Étym</b>. βρέχω.`

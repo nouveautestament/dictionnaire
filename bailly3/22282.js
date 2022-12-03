@@ -1,1 +1,0 @@
-lar[22282]=`<b>γνησιο·δίδακτος, ος, ον</b> <font color="purple">[δῐ]</font> vraiment instruit, CHRYS. <i>8, 487</i>.<p><b>Étym</b>. γνήσιος, διδάσκω.`

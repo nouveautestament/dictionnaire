@@ -1,1 +1,0 @@
-lar[102795]=`<b>ὑπερ·σεμνύνομαι</b>, être excessivement fier, XÉN. <i>Conv. 3, 11</i>.`

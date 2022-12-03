@@ -1,1 +1,0 @@
-lar[31625]=`<b>ἐκ·λοχίζω</b> (<i>part. pf. pass</i>. ἐκλελοχισμένος) choisir dans une troupe, SPT. <i>Cant. 5, 10</i>.<p><b>Étym</b>. ἐκ, λόχος.`

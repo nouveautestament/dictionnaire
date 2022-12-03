@@ -1,1 +1,0 @@
-lar[2624]=`<b>αἱμυλο·πλόκος, ος, ον</b> <font color="purple">[ῠ]</font> qui ourdit des ruses, CRAT. <i>(Bkk. p. 363).</i><p><b>Étym</b>. αἱμ. πλέκω.`

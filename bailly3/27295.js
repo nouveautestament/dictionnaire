@@ -1,1 +1,0 @@
-lar[27295]=`<b>ου</b>, <i>adj. m</i>. de Dion (de Syracuse) PLAT. <i>Ep. 334c</i>.<p><b>Étym</b>. Δίων.`

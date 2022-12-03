@@ -1,1 +1,0 @@
-lar[31422]=`<b>ἐκ·κεραννύω</b> <font color="darkgreen">(<i>impf</i>. ἐξεκεράννυον)</font> mélanger en versant, ATH. <i>38a</i>.`

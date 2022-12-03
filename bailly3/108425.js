@@ -1,1 +1,0 @@
-lar[108425]=`<font color="purple">[ῑ]</font> disposer en forme de X, <i>càd</i>. en croix, DS. <i>2, 58 ; particul.</i> :<br><b>      1</b> <i>t. de rhét.</i> : χιαζομένη περίοδος, HERMOG. (<i>W. 3, 157, etc</i>.) période à membres croisés.<br><b>      2</b> <i>t. de méd</i>. faire une incision en croix, CHIRURG. <i>90</i>.<p><b>Étym</b>. χῖ.`

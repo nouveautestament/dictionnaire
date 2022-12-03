@@ -1,1 +1,0 @@
-lar[52323]=`<b>κατα·διαλλάσσω</b> <font color="darkgreen">(<i>ao. pass</i>. -διηλλάγην)</font> réconcilier, AR. <i>Vesp. 1183</i>.`

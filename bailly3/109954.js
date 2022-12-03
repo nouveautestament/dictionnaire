@@ -1,1 +1,0 @@
-lar[109954]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> lieu où l’on dépose l’eau pour la rafraîchir, SEMUS (ATH. <i>123d</i>).<p><b>Étym</b>. ψῦχος.`

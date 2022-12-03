@@ -1,1 +1,0 @@
-lar[73646]=`<b>Οὐράνιον ὄρος (τὸ)</b> le mt Ouranion, ARSTT. <i>Mir. 113</i>.<p><b>Étym</b>. <i>v</i>. οὐράνιος.`

@@ -1,1 +1,0 @@
-lar[7122]=`<b>ατος (τὸ)</b> rapprochement, comparaison, PLAT. <i>Theæt. 186c</i>.<p><b>Étym</b>. ἀναλογίζομαι.`

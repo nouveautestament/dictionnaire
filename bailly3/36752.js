@@ -1,1 +1,0 @@
-lar[36752]=`<b>ἐπ·αποκτείνω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐπαπέκτεινε)</font> tuer en outre, <i>avec</i> ἐπί <i>et le dat</i>. DC. <i>49, 23</i>.`

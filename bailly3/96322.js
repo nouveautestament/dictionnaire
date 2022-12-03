@@ -1,1 +1,0 @@
-lar[96322]=`<b>συν·τεχνάζω</b>, combiner <i>ou</i> machiner (un complot, une ruse, <i>etc</i>.) avec, <i>dat</i>. PLUT. <i>Marc. 11, etc. ; d’où abs</i>. aider à machiner : ἀπάτην, PLUT. <i>Tim. 10,</i> une fraude.`

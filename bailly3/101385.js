@@ -1,1 +1,0 @@
-lar[101385]=`<b>εως (ἡ)</b> action de mouiller, d’humecter, de rendre humide, A. APHR.<p><b>Étym</b>. ὑγραίνω.`

@@ -1,1 +1,0 @@
-lar[8327]=`<b>ἀνεμό·φθορος, ος, ον</b>, endommagé par le vent, SPT. <i>Hos. 8, 7</i> ; PHIL. <i>2, 431</i>.<p><b>Étym</b>. ἄ. φθείρω.`

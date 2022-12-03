@@ -1,1 +1,0 @@
-lar[13413]=`<b>ἀπο·στεγάζω :<br>      1</b> ôter le toit, découvrir, STR. <i>198</i> ; NT. ; <i>d’où</i> ouvrir, SOTAD. (ATH. <i>621b</i>).<br><b>      2</b> recouvrir, TH. <i>C.P. 5, 6, 5</i>.`

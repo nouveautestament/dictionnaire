@@ -1,1 +1,0 @@
-lar[60376]=`<b>ῶν (οἱ)</b> habitants de Lépréon, THC. <i>5, 31</i> ; XÉN. <i>Hell. 3, 2, 25, etc</i>.<p>➳ <i>Ion</i>. Λεπρεῆται, HDT. <i>9, 28</i>.<p><b>Étym</b>. Λέπρεον.`

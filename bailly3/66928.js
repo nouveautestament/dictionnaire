@@ -1,1 +1,0 @@
-lar[66928]=`<b>ός, όν</b>, qui cultive la musique, HPC. <i>236, 29</i> ; ὁ <i>ou</i> ἡ μ. chanteur, chanteuse, XÉN. <i>Cyr. 4, 6, 11 ; 5, 1, 1, etc. ; au fém</i>. PLUT. <i>M. 760c ;</i> ATH. <i>129a</i>.<p>➳ <i>Ion</i>. μουσοεργός, HPC. <i>l. c</i>.<p><b>Étym</b>. μοῦσα, ἔργον.`

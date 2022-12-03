@@ -1,1 +1,0 @@
-lar[35336]=`<b>ἐξ·αιτιολογέω-ῶ</b>, rechercher la cause de, DL. <i>10, 82</i>.`

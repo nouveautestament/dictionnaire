@@ -1,1 +1,0 @@
-lar[51719]=`<b>ος, ον</b> <font color="purple">[βᾱ]</font> qui parle une langue étrangère, <i>d’où</i> barbare, ESCHL. <i>Ag. 1061, etc.</i> ; LYC. <i>605</i>.`

@@ -1,1 +1,0 @@
-lar[16075]=`<b>ἀ·σπούδαστος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> non recherché, non courtisé, EUR. <i>fr. 503</i>.<br><b>      2</b> non digne d’empressement, méprisable, EUR. <i>Bacch. 913 ; I.T. 202</i>.<br><b>   II</b> <i>act</i>. négligent : τὸ ἀσπούδαστον, DH. <i>5, 72,</i> négligence.<p><b>Étym</b>. ἀ, σπουδάζω.`

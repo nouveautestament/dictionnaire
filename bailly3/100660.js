@@ -1,1 +1,0 @@
-lar[100660]=`<b>τρί·χωρος, ος, ον</b> <font color="purple">[ῐ]</font> <i>t. de botan</i>. à trois loges, triloculaire, DIOSC. <i>1, 133</i>.<p><b>Étym</b>. τρεῖς, χῶρος.`

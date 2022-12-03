@@ -1,1 +1,0 @@
-lar[105574]=`<b>φιλ·έταιρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime ses camarades <i>ou</i> ses amis, THC. <i>3, 82</i> ; XÉN. <i>Cyr. 8, 3, 49</i> ; PLAT. <i>Lys. 211e ;</i> ARSTT. <i>Rhet. 2, 12, 13</i> ; τὸ φιλέταιρον, PLUT. <i>Lys. 5</i> ; LUC. <i>Tox. 7, c</i>. φιλεταιρία.<p><b>Étym</b>. φ. ἑταῖρος.`

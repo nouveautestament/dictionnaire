@@ -1,1 +1,0 @@
-lar[19584]=`<b>(ἡ)</b> Béronikis, <i>v. d’Épire,</i> PLUT. <i>Pyrrh. 6</i>.<p><b>Étym</b>. <i>v</i>. βερονίκη.`

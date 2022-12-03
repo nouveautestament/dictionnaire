@@ -1,1 +1,0 @@
-lar[37703]=`<b>ας (ἡ)</b> Épieikia, <i>forteresse près de Sicyone,</i> XÉN. <i>Hell. 4, 2, 14 ; 4, 4, 13</i>.`

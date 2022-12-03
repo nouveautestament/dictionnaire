@@ -1,1 +1,0 @@
-lar[92735]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de l’estomac, ARÉT. <i>Cur. m. diut. 2, 6</i> ; PLUT. <i>M. 732a.</i><br><b>      2</b> malade de l’estomac, DIOSC. <i>1, 148 ; 4, 38</i> ; ARÉT. <i>Cur. m. diut. 2, 6</i>.<br><b>      3</b> bon pour l’estomac, stomachique, RUF. (ORIB. <i>2, 276 B.-Dar</i>.).<p><b>Étym</b>. στόμαχος.`

@@ -1,1 +1,0 @@
-lar[47202]=`<b>θηλυ·πτερίς, ίδος (ἡ)</b> fougère femelle, <i>plante,</i> TH. <i>H.P. 9, 18, 8</i> ; DIOSC. <i>4, 187</i>.<p><b>Étym</b>. θ. πτερίς.`

@@ -1,1 +1,0 @@
-lar[98270]=`<b>ων (οἱ)</b> les Temmikes, <i>anc. habitants de la Béotie, p. suite synon. de</i> βοιωτοί, LYC. <i>644</i>.<p>➳ <i>Dat. pl. épq</i>. Τεμίκεσσι, NONN. <i>D. 5, 39</i>.`

@@ -1,1 +1,0 @@
-lar[97894]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> promptitude à exécuter, diligence, XÉN. <i>Cyr. 7, 1, 19 ; en mauv. part,</i> précipitation, APP. <i>Lib. 33</i>.<p><b>Étym</b>. ταχυεργός.`

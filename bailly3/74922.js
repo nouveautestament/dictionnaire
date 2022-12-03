@@ -1,1 +1,0 @@
-lar[74922]=`<b>παν·δέκτης, ου</b>, qui comprend tout, <i>en parl. d’un titre de livre, sorte de dictionnaire universel ; au pl</i>. les Pandectes, <i>recueil de lois compilé par Justinien</i>.<p><b>Étym</b>. π. δέχομαι.`

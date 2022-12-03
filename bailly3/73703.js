@@ -1,1 +1,0 @@
-lar[73703]=`<b>οὐρητιάω-ῶ</b>, avoir envie d’uriner, AR. <i>Vesp. 807</i> ; ARSTT. <i>Probl. 4, 20</i>.<p><b>Étym</b>. οὐρέω¹.`

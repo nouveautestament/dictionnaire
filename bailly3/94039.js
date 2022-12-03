@@ -1,1 +1,0 @@
-lar[94039]=`<b>συμ·παιανίζω</b> <font color="purple">[ᾱ]</font><br><b>      1</b> chanter un péan avec, <i>dat</i>. DÉM. <i>380, 27</i>.<br><b>      2</b> <i>p. ext</i>. faire du bruit ensemble, POL. <i>2, 29, 6</i>.`

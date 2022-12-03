@@ -1,1 +1,0 @@
-lar[69360]=`<b>ξανάω-ῶ</b>, être fatigué de carder, <i>d’où p. ext</i>. être brisé de fatigue, SOPH. <i>fr. 450</i>.<p>➳ <i>3 sg. épq</i>. ξανάᾳ, NIC. <i>Th. 383</i>.<p><b>Étym</b>. ξαίνω.`

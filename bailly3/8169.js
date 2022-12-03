@@ -1,1 +1,0 @@
-lar[8169]=`<b>ἀν·έδραστος, ος, ον</b>, non fortement assis, sans assiette, DH. <i>Comp. 22</i> ; CLÉM. <i>789</i>.<p><b>Étym</b>. ἀν-, ἑδράζω.`

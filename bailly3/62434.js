@@ -1,1 +1,0 @@
-lar[62434]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> <i>c</i>. μακαριστός, ANTH. <i>7, 740</i>.`

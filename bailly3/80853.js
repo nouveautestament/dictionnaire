@@ -1,1 +1,0 @@
-lar[80853]=`<b>ορος (ὁ)</b> Pleistôr, <i>n. d’h</i>. DÉM. <i>37, 4 Baiter-Sauppe</i>.`

@@ -1,1 +1,0 @@
-lar[67182]=`<b>μυο·μαχία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat de rats, PLUT. <i>Ages. 15</i>.<p><b>Étym</b>. μ. μάχομαι.`

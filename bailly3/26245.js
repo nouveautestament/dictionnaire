@@ -1,1 +1,0 @@
-lar[26245]=`<b>δι·εορτάζω</b>, fêter jusqu’au bout, achever de fêter, <i>acc</i>. THC. <i>8, 9</i> ; PLUT. <i>Pyrrh. 20</i> ; DC. <i>48, 4 ; 51, 22</i>.`

@@ -1,1 +1,0 @@
-lar[21713]=`<i>ou</i> <b>-ρέθ (ἡ)</b> <i>avec ou sans</i> λίμνη, le lac de Gennèsaret <i>ou</i> Gennèsareth, <i>en Galilée,</i> NT. <i>Luc. 5, 1</i>.`

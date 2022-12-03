@@ -1,1 +1,0 @@
-lar[50074]=`<b>ἰχθυοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger du poisson, ARSTT. <i>H.A. 9, 14, 4</i>.<p><b>Étym</b>. ἰχθυοφάγος.`

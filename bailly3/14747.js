@@ -1,1 +1,0 @@
-lar[14747]=`<b>ου (ὁ)</b> Aristos, <i>h</i>. PLUT. <i>Brut. 2, etc</i>.<p><b>Étym</b>. ἄριστος.`

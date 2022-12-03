@@ -1,1 +1,0 @@
-lar[30831]=`<b>*εἰσ·οικοδομέω</b>, <i>anc. att</i>. <b>ἐσοικοδομέω-ῶ</b> <font color="darkgreen">(<i>impf. 3 pl</i>. ἐσῳκοδόμουν)</font> bâtir à l’intérieur, THC. <i>2, 75</i>.`

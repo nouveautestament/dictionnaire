@@ -1,1 +1,0 @@
-lar[66915]=`<b>μουσομανέω-ῶ</b> <font color="purple">[ᾰ]</font> être passionné pour les arts, la poésie, la musique, LUC. <i>Ner. 6</i> ; ATH. <i>183e</i>.<p><b>Étym</b>. μουσομανής.`

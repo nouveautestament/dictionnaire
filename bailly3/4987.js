@@ -1,1 +1,0 @@
-lar[4987]=`<b>ἁλτηρο·βολία, ας (ἡ)</b> maniement du balancier, JAMBL. <i>V. Pyth. 21</i>.<p><b>Étym</b>. ἁλτῆρες, -βόλος <i>de</i> βάλλω.`

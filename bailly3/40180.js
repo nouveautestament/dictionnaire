@@ -1,1 +1,0 @@
-lar[40180]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> paysan, AR. <i>Vesp. 1201</i>.<p><b>Étym</b>. ἐργάζομαι.`

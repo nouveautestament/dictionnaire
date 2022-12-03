@@ -1,1 +1,0 @@
-lar[24842]=`<b>δια·κράζω :<br>      1</b> crier continuellement, AR. <i>Av. 307 (part. pf. plur</i>. διακεκραγότες).<br><b>      2</b> crier à qui mieux mieux : τινί, AR. <i>Eq. 1403 (inf. pf</i>. διακεκραγέναι) avec qqn.`

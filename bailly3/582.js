@@ -1,1 +1,0 @@
-lar[582]=`<b>Ἀγίας</b> <i>ou</i> <b>Ἁγίας, ου (ὁ)</b> Agias <i>ou</i> Hagias, <i>h</i>. XÉN. <i>An. 2, 5, 31, etc</i>.`

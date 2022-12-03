@@ -1,1 +1,0 @@
-lar[47579]=`<b>θρασύ·θυμος, ος, ον</b> <font color="purple">[ᾰῠῡ]</font> d’un courage audacieux, MAN. <i>4, 529</i>.<p><b>Étym</b>. θρ. θυμός.`

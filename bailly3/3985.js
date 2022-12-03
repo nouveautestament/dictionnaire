@@ -1,1 +1,0 @@
-lar[3985]=`<b>ἄ·κυμος, ος, ον</b> <font color="purple">[ῡ]</font> sans vagues, calme, ARSTT. <i>Probl. 23, 4</i> ; PLUT. <i>M. 1090b ; fig. en parl. de la vie,</i> EUR. <i>H.f. 698</i>.<p><b>Étym</b>. ἀ, κῦμα.`

@@ -1,1 +1,0 @@
-lar[50012]=`<b>Ἰφι·γόνη, ης (ἡ)</b> <font color="purple">[ῑῐ]</font> <i>autre n. de</i> Ἰφιγένεια, <i>fille d’Agamemnon,</i> EUR. <i>El. 1023</i>.`

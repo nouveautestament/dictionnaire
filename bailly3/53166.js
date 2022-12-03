@@ -1,1 +1,0 @@
-lar[53166]=`<b>κατα·προτερέω-ῶ</b>, avoir de l’avance sur, l’emporter sur, <i>gén</i>. DS. <i>17, 33 ; d’où au pass</i>. être vaincu, POL. <i>1, 47, 9</i>.`

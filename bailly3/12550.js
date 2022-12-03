@@ -1,1 +1,0 @@
-lar[12550]=`<b>ἀπο·κεφαλίζω</b> <font color="purple">[φᾰ]</font> décapiter, ARR. <i>Epict. 1, 1, 24</i> ; ARTÉM. <i>1, 35</i> ; SPT. <i>Ps. 101, 7, etc</i>.<p><b>Étym</b>. ἀπό, κεφαλή.`

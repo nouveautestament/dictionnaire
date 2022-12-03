@@ -1,1 +1,0 @@
-lar[29182]=`<b>Δωρό·θεος, ου (ὁ)</b> Dôrothéos (Dorothée = <i>litt</i>. présent de Dieu ; <i>cf. franç</i>. Dieudonné) <i>h</i>. XÉN. <i>Hell. 1, 3, 13</i> ; IS. <i>40, 13</i>.<p><b>Étym</b>. δῶρον, θεός.`

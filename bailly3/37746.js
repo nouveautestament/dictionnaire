@@ -1,1 +1,0 @@
-lar[37746]=`<b>εως (ἡ)</b> condamnation à une amende, ARSTT. <i>Ath. 45, 1</i>.`

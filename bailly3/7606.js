@@ -1,1 +1,0 @@
-lar[7606]=`<b>ἀν·ασελγαίνω</b>, traiter insolemment, AR. <i>Vesp. 61</i>.<p><b>Étym</b>. ἀνά, ἀ.`

@@ -1,1 +1,0 @@
-lar[59803]=`<b>λαο·κατάρατος, ος, ον</b> <font color="purple">[ᾱᾰᾱᾱ]</font> maudit du peuple, SYMM. <i>Prov. 11, 26</i>.<p><b>Étym</b>. λ. καταράομαι.`

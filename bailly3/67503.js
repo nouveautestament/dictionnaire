@@ -1,1 +1,0 @@
-lar[67503]=`<b>ης (ἡ)</b> tête d’ail, HPC. <i>583, 8 ; 584, 16, etc</i>.<p><b>Étym</b>. <i>pré-grec, cf</i>. μῶλυ.`

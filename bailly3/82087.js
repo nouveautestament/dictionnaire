@@ -1,1 +1,0 @@
-lar[82087]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. πολύμηλος.`

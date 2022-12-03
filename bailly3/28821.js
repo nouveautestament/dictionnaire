@@ -1,1 +1,0 @@
-lar[28821]=`<b>δύσ·πλυτος, ος, ον</b> <font color="purple">[λῠ]</font> difficile à laver, HPC. <i>644, 40</i>.<p><b>Étym</b>. δ. πλύνω.`

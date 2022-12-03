@@ -1,1 +1,0 @@
-lar[62724]=`<b>εντος (ὁ)</b> <font color="purple">[ᾱ]</font> protecteur des troupeaux de moutons, <i>ép. d’Apollon à Lesbos,</i> THC. <i>3, 3</i>.<p><b>Étym</b>. μᾶλον¹.`

@@ -1,1 +1,0 @@
-lar[52168]=`<b>κατά·βορρος, ος, ον</b>, exposé au vent du nord (<i>p. opp. à</i> πρόσβορρος) PLAT. <i>Criti. 118b ;</i> ARSTT. <i>Œc. 1, 6</i> ; TH. <i>C.P. 2, 9, 7</i>.<p><b>Étym</b>. κ. βορρᾶς.`

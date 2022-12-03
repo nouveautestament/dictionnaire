@@ -1,1 +1,0 @@
-lar[1867]=`<b>ἀ·ζήτητος, ος, ον</b>, non cherché non examiné, ESCHN. <i>57, 3</i> ; SEXT. <i>7, 29 Bkk. etc</i>.<p><b>Étym</b>. ἀ, ζητέω.`

@@ -1,1 +1,0 @@
-lar[26093]=`<b>δι·ειλέω-ῶ</b> <font color="darkgreen">(<i>ao. inf</i>. -ῆσαι)</font> dérouler, PLUT. <i>M. 1039e</i>.`

@@ -1,1 +1,0 @@
-lar[54708]=`<b>κενο·παθέω-ῶ</b> <font color="purple">[ᾰ]</font> se passionner sans raison <i>ou</i> pour des choses frivoles, SEXT. <i>p. 78, 478</i>.<p><b>Étym</b>. κ. πάθος.`

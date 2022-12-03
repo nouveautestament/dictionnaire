@@ -1,1 +1,0 @@
-lar[87031]=`<b>προ·χράομαι-ῶμαι</b>, se servir auparavant, <i>dat</i>. XÉNOCR. <i>Al. 1, 8</i>.`

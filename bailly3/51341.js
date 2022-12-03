@@ -1,1 +1,0 @@
-lar[51341]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> Kalykè, <i>f</i>. AR. <i>Lys. 322</i>.<p><b>Étym</b>. κάλυξ.`

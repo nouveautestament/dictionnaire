@@ -1,1 +1,0 @@
-lar[84944]=`<b>προ·πέτομαι</b> (<i>seul. prés</i>.) voler en avant, ARR. <i>An. 3, 3, 6</i>.`

@@ -1,1 +1,0 @@
-lar[13169]=`<b>ἀπο·πτύσσω</b>, déployer, EN. TACT. <i>Pol. 31</i>.`

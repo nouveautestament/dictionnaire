@@ -1,1 +1,0 @@
-lar[16494]=`<b>ἀ·σύνδηλος, ος, ον</b>, tout à fait inconnu, PLUT. <i>Lyc. 28</i>.`

@@ -1,1 +1,0 @@
-lar[53317]=`<b>κατα·σήπω :<br>      1 <i>tr.</i></b> faire pourrir, XÉN. <i>Cyr. 8, 2, 22 ; au pass. (f. 2</i> κατασαπήσομαι, <i>ao.2</i> κατεσάπην) pourrir, être pourri, XÉN. <i>Cyr. 8, 2, 22</i> ; PLAT. <i>Phæd. 86c, etc.</i><br><b>      2</b> <i>intr. (au pf</i>. κατασέσηπα) être pourri, AR. <i>Pl. 1035</i>.`

@@ -1,1 +1,0 @@
-lar[109707]=`<b>ψευδο·μάρτυς, υρος (ὁ)</b> <font color="purple">[ῠρ]</font><br><b>      1</b> faux témoin, PLAT. <i>Gorg. 472b ;</i> ARSTT. <i>Pol. 2, 9, 8</i>.<br><b>      2</b> qui repose sur un faux témoignage, PLUT. <i>M. 821f</i>.`

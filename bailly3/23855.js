@@ -1,1 +1,0 @@
-lar[23855]=`<b>δενδρο·κοπέω-ῶ</b>, couper les arbres, XÉN. <i>Mem. 2, 1, 13 (part. pr</i>. -κοποῦντες) ; <i>d’où avec un acc</i>. δ. χώραν, DÉM. <i>236, 1 (décr.) (part. pr. ion</i>. -κοπέοντος), dévaster un pays en coupant les arbres.<p><b>Étym</b>. δ. -κοπος <i>de</i> κόπτω.`

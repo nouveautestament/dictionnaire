@@ -1,1 +1,0 @@
-lar[17719]=`<b>ας (ἡ) :<br>      1</b> la perfection en soi, OCELL. <i>p. 510</i>.<br><b>      2</b> <i>t. de gr</i>. ce qui en soi est achevé <i>ou</i> complet, <i>d’où</i> ce qui a un sens complet, <i>p. suite,</i> proposition, DYSC. <i>Pron. 268b ; Synt. 12, 4</i>.<p><b>Étym</b>. αὐτοτελής.`

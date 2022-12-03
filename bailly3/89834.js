@@ -1,1 +1,0 @@
-lar[89834]=`<b>ου (τὸ)</b> = <i>lat</i>. Septimontium, <i>n. d’une fête rom. pour les sept collines,</i> PLUT. <i>Qu. rom. 69</i>.`

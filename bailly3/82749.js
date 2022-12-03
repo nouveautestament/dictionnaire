@@ -1,1 +1,0 @@
-lar[82749]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de panthère, OPP. <i>C. 3, 467</i>.<p><b>Étym</b>. πόρδαλις.`

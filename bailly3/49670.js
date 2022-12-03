@@ -1,1 +1,0 @@
-lar[49670]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> égalité de rythme de mots polysyllabiques, RHÉT. <i>6, 328 W</i>.<p><b>Étym</b>. ἴ. λέγω.`

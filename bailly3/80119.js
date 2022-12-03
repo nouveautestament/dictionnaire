@@ -1,1 +1,0 @@
-lar[80119]=`<i>ou</i> <b>πηνίκη, ης (ἡ)</b> perruque, AR. (<i>Com. fr. 1, 1176</i>) ; LUC. <i>D. mer. 5, 3 ; 11, 4 ; 12, 5</i> (πηνήκη).<p><b>Étym</b>. πήνη ; <i>pour la format. cf</i>. φενάκη.`

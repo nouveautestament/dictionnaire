@@ -1,1 +1,0 @@
-lar[94425]=`<b>σύμ·φθογγος, ος, ον</b>, dont les voix résonnent d’accord, ESCHL. <i>Ag. 1187</i>.<p><b>Étym</b>. σ. φθέγγω.`

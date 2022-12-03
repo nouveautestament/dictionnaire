@@ -1,1 +1,0 @@
-lar[5158]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰᾰᾱ]</font> les Amathaonides, <i>anc. famille d’Hellade,</i> HÉS. <i>fr. 48 Gaisford</i>.`

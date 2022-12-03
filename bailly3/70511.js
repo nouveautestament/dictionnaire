@@ -1,1 +1,0 @@
-lar[70511]=`<b>οἰνο·βαρής, ής, ές</b> <font color="purple">[ᾰ]</font> alourdi par le vin, IL. <i>1, 225</i> ; ANTH. <i>7, 24</i> ; LUC. <i>Fug. 30, etc</i>.<p><b>Étym</b>. οἶν. βάρος.`

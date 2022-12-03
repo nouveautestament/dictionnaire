@@ -1,1 +1,0 @@
-lar[82573]=`<b>πολυ·χρήματος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a beaucoup de fortune, très riche, PHINTYS (STOB. <i>Fl. 70, 61).</i><p><b>Étym</b>. π. χρήματα.`

@@ -1,1 +1,0 @@
-lar[77391]=`<b>πατρο·πάτωρ, ορος (ὁ)</b> <font color="purple">[ᾰτω]</font> aïeul paternel, PD. <i>P. 9, 144 ; N. 6, 29</i> ; A.RH. <i>1, 170</i>.<p><b>Étym</b>. π. πατήρ.`

@@ -1,1 +1,0 @@
-lar[5046]=`<b>ἄ·λυσσος, ος, ον</b>, salutaire contre la rage : ἄ. βοτάνη, PLUT. <i>M. 648a, c</i>. ἄλυσσον ; ἄ. πηγή, PAUS. <i>8, 19, 3,</i> source réputée salutaire contre la rage, <i>en Arcadie</i>.<p><b>Étym</b>. ἀ, λύσσα.`

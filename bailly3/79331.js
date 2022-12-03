@@ -1,1 +1,0 @@
-lar[79331]=`<b>*περισσόν</b>, <i>seul. att</i>. <b>περιττόν, οῦ (τὸ)</b> sorte de solanum, <i>plante,</i> TH. <i>H.P. 9, 11, 6</i>.<p><b>Étym</b>. περισσός.`

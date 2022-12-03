@@ -1,1 +1,0 @@
-lar[72677]=`<b>ης (ἡ)</b> Orthè, <i>v. de Thessalie,</i> IL. <i>2, 739</i>.`

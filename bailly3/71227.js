@@ -1,1 +1,0 @@
-lar[71227]=`<i>adv</i>., en totalité, en bloc, en général, ISOCR. <i>109d ;</i> POL. <i>1, 10, 1, etc.</i> ; DIOSC. <i>2, 92, etc.</i> ; DIPH. <i>(Bkk. p. 110, 18).</i><p>•<i> Cp</i>. ὁλοσχερέστερον, POL. <i>1, 17, 3, etc</i>.<p><b>Étym</b>. ὁλοσχερής.`

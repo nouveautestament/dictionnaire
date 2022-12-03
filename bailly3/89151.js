@@ -1,1 +1,0 @@
-lar[89151]=`<b>σακχ·υφάντης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui tresse des poils de chèvre <i>ou</i> du crin, <i>d’où</i> fabricant de sacs, de tamis, de réseaux pour les cheveux, <i>etc</i>. DÉM. <i>1170, 27</i>.<p><b>Étym</b>. σάκκος, ὑφαίνω.`

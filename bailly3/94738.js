@@ -1,1 +1,0 @@
-lar[94738]=`<b>συν·αναπέμπω</b>, renvoyer <i>ou</i> exhaler ensemble, PLUT. <i>Rom. 28</i>.`

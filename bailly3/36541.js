@@ -1,1 +1,0 @@
-lar[36541]=`<b>ἐπ·αμπέχω</b>, jeter autour ; γῆν τινι, EUR. <i>Tr. 1148,</i> couvrir de terre le corps de qqn ; <i>fig</i>. couvrir, envelopper, PLUT. <i>Oth. 5</i>.<br><b><i>Moy.</i></b> s’envelopper, se revêtir de, <i>acc. fig</i>. PLUT. <i>M. 1102c</i>.<p>➳ <i>Ao.2 part</i>. ἐπαμπισχών, EUR. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[84055]=`<b>προ·εισευπορέω-ῶ</b> <font color="darkgreen">(<i>f</i>. ήσω, <i>ao</i>. προεισευπόρησα)</font> donner de préférence <i>ou</i> auparavant, <i>rég. ind. au gén</i>. DH. <i>Is. 5 ; cf</i>. IS. <i>fr. 2, 2 vulg</i>. προσ-.`

@@ -1,1 +1,0 @@
-lar[102568]=`<b>ὑπερ·ίσχυρος, ος, ον</b> <font color="purple">[ῡ]</font> extrêmement fort <i>ou</i> solide, XÉN. <i>Cyr. 5, 2, 2 ; en parl. de pers</i>. POL. <i>4, 11, 5</i>.<p><b>Étym</b>. ὑ. ἰσχυρός.`

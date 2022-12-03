@@ -1,1 +1,0 @@
-lar[10565]=`<b>ἀντι·φοβέω-ῶ</b>, effrayer à son tour <i>ou</i> en retour, EL. <i>N.A. 12, 15</i>.`

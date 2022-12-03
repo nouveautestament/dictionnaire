@@ -1,1 +1,0 @@
-lar[30311]=`<b>εἰκαιο·λόγος, ος, ον</b>, qui parle sans réfléchir, PHILOD. <i>V. Herc. 2, 10</i>.<p><b>Étym</b>. εἰκαῖος, λέγω.`

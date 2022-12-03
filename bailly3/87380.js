@@ -1,1 +1,0 @@
-lar[87380]=`<b>ή, όν</b>, qui peut voler, ARSTT. <i>H.A. 2, 12, 11 etc</i>.<p><b>Étym</b>. πέτομαι.`

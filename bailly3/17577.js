@@ -1,1 +1,0 @@
-lar[17577]=`<b>αὐτο·μαρτυρέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ῠ]</font> s’attester à soi-même, DL. <i>9, 110 (conj</i>. αὑτῷ μαρτυρεῖ).<p><b>Étym</b>. αὐτός, μ.`

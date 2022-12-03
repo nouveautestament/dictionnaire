@@ -1,1 +1,0 @@
-lar[68850]=`<b>*νίψ (ἡ)</b> <i>seul. à l’acc</i>. νίφα <font color="purple">[ῐ]</font> neige, HÉS. <i>O. 537</i>.<p><b>Étym</b>. <i>indo-europ</i>. *sneig<sup>wh</sup>-, neige ; <i>cf. lat</i>. nix, <i>p</i>. *sniks, <i>gén</i>. nivis, ningere, <i>gotique</i> snaiws, <i>sscr</i>. sníhyati « devenir humide, collant ».`

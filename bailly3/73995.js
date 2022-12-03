@@ -1,1 +1,0 @@
-lar[73995]=`<b>ὀψιβλαστέω-ῶ</b>, pousser tardivement, TH. <i>H.P. 1, 9, 6</i>.<p><b>Étym</b>. ὀψιβλαστής.`

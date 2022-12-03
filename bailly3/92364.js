@@ -1,1 +1,0 @@
-lar[92364]=`<b>στενο·πορθμίς, ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. στενόπορθμος ARCHESTR. (ATH. <i>92d</i>).`

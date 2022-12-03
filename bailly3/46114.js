@@ -1,1 +1,0 @@
-lar[46114]=`<b>οῦ (ὁ) :<br>      1</b> gond d’une porte, IL. <i>12, 459</i> ; Q. SM. <i>3, 27</i>.<br><b>      2</b> essieu d’une voiture, SOPH. <i>fr. 538</i>.<p><b>Étym</b>. <i>pour</i> *θαριός, <i>de</i> *θϝαριός, <i>cf</i>. θύρα.`

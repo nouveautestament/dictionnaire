@@ -1,1 +1,0 @@
-lar[59253]=`pousser à force de rames, <i>acc</i>. ANTH. <i>7, 365</i>.<p><b>Étym</b>. κώπη.`

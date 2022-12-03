@@ -1,1 +1,0 @@
-lar[8805]=`<b>έως (ὁ)</b> Anthée :<br><b>      1</b> <i>h</i>. LYC. <i>134</i>.<br><b>      2</b> <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p>➳ <i>Gén. poét</i>. -εος, NONN. <i>D. 35, 383</i>.<p><b>Étym</b>. ἄνθος.`

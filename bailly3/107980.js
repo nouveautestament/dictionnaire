@@ -1,1 +1,0 @@
-lar[107980]=`<b>ου</b>, <i>acc</i>. <b>-ην (ὁ)</b> Kharœadès, <i>h</i>. THC. <i>3, 86, 90</i> ; LUC. <i>D. mort. 6, 5</i>.`

@@ -1,1 +1,0 @@
-lar[27306]=`<b>(ὁ)</b> <font color="purple">[ῑ]</font> Diôrès :<br><b>      1</b> <i>chef des Épéens,</i> IL. <i>2, 622 ; 4, 517, etc.</i><br><b>      2</b> <i>père d’Automédôn,</i> IL. <i>17, 429</i>.<p>➳ <i>Gén</i>. -ου, ANTH. <i>App. 9 ; épq</i>. -εος, IL. <i>17, 429. Acc</i>. -ην, PAUS. <i>5, 3, 4 ; épq</i>. -εα, IL. <i>4, 517</i>.`

@@ -1,1 +1,0 @@
-lar[3133]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> tête épineuse de certaines plantes, TH. <i>H.P. 1, 10, 6, etc</i>.<p><b>Étym</b>. ἀκή.`

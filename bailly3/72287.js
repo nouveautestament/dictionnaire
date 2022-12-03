@@ -1,1 +1,0 @@
-lar[72287]=`<b>ὀπισθο·νυγής, ής, ές</b> <font color="purple">[ῠ]</font> qui pique par derrière, ANTH. <i>6, 104</i>.<p><b>Étym</b>. ὄπισθε, νύσσω.`

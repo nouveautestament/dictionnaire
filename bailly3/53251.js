@@ -1,1 +1,0 @@
-lar[53251]=`<b>εως (ἡ)</b> <i>litt</i>. rupture par en bas : κοιλίης κ. HPC. <i>157f, ou abs</i>. κ. HPC. <i>1131g</i>, flux de ventre violent, dysenterie.<p><b>Étym</b>. καταρρήγνυμι.`

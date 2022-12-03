@@ -1,1 +1,0 @@
-lar[100721]=`<b>τροπόω-ῶ</b> (<i>pf. pass</i>. τετρόπωμαι) fixer la rame avec la courroie d’attache, <i>au pass</i>. AR. <i>Ach. 553</i> ; LUC. <i>Cat. 1</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao</i>. ἐτροπωσάμην)</font> <i>m. sign</i>. ESCHL. <i>Pers. 376</i> ; EUB. <i>(Bkk. p. 114, 25).</i><p><b>Étym</b>. τροπός.`

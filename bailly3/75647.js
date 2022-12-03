@@ -1,1 +1,0 @@
-lar[75647]=`<b>οῦ</b>, <i>adj. m.</i> :<br><b>      1</b> qui demande grâce, qui prie, PHIL. <i>1, 598, etc.</i><br><b>      2</b> qui intercède pour un autre, PLUT. <i>Syll. 26</i>.<p><b>Étym</b>. παραιτέομαι.`

@@ -1,1 +1,0 @@
-lar[88216]=`<font color="purple">[ᾱ]</font> <i>adv. seul. cp</i>. ῥᾳδιουργότερον, avec mollesse <i>ou</i> relâchement, ARR. <i>An. 2, 54</i>.<p><b>Étym</b>. ῥᾳδιουργός.`

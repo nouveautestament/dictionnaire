@@ -1,1 +1,0 @@
-lar[44844]=`<i>1 et 3 sg. impf. de</i> εἰμί.<br><i>3 sg. impf. de</i> ἠμί.`

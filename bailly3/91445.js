@@ -1,1 +1,0 @@
-lar[91445]=`<b>ου</b>, <i>ion</i>. <b>εω (ὁ)</b> Smerdiès, <i>h</i>. ANACR. <i>5</i> ; SIM. <i>Epigr. 184 (171) Bgk</i> ; EL. <i>V.H. 9, 4</i>.`

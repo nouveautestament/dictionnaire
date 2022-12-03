@@ -1,1 +1,0 @@
-lar[14257]=`<b>ου (ὁ)</b> <font color="purple">[ῐῐ]</font> Argilipos, <i>Cyclope,</i> NONN. <i>D. 28, 174</i>.<p><b>Étym</b>. <i>cf</i>. ἀργιλιπής.`

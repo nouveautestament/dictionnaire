@@ -1,1 +1,0 @@
-lar[37592]=`<b>ἐπι·διακρίνω</b> <font color="purple">[ῑν]</font> décider comme surarbitre, comme tiers, PLAT. <i>Gorg. 524a ;</i> DC. <i>55, 27 ; 57, 20</i>.`

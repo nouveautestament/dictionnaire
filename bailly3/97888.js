@@ -1,1 +1,0 @@
-lar[97888]=`<b>ταχύ·δακρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ᾰχῠ]</font> prompt à pleurer, LUC. <i>Nav. 2</i>.<p><b>Étym</b>. τ. δάκρυ.`

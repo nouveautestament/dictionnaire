@@ -1,1 +1,0 @@
-lar[6008]=`<b>ἀμφ·έλκομαι</b> (<i>seul. prés</i>.) tirer, <i>d’où</i> étendre autour de soi, DP. <i>268</i>.`

@@ -1,1 +1,0 @@
-lar[90125]=`<b>ων (οἱ)</b> <font color="purple">[ῐ]</font> <i>c</i>. Σιγύνναι, A.RH. <i>4, 320</i>.`

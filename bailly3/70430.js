@@ -1,1 +1,0 @@
-lar[70430]=`<b>εως (ἡ)</b> compassion, pitié, CLÉM. <i>p. 149</i>.<p><b>Étym</b>. οἰκτείρω.`

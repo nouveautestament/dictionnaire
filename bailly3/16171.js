@@ -1,1 +1,0 @@
-lar[16171]=`<b>ἄ·στεπτος, ος, ον</b>, non paré de couronnes <i>ou</i> de guirlandes, <i>p. suite,</i> non honoré, EUR. <i>Her. 440</i>.<p><b>Étym</b>. ἀ, στέφω.`

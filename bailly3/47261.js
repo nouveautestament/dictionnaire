@@ -1,1 +1,0 @@
-lar[47261]=`<b>ατος (τὸ) :<br>      1</b> chasse, PLAT. <i>Leg. 823b au pl.</i><br><b>      2</b> butin de chasse, EUR. <i>I.A. 1162</i>.<p><b>Étym</b>. θηρεύω.`

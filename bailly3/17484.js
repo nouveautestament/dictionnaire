@@ -1,1 +1,0 @@
-lar[17484]=`<b>Αὐτο·θαΐς, ΐδος (ἡ)</b> <font color="purple">[ᾱ]</font> Thaïs en personne, LUC. <i>Rh. præc. 12</i>.`

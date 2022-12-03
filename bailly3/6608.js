@@ -1,1 +1,0 @@
-lar[6608]=`<font color="purple">[ᾰν]</font> <i>adv</i>., forcément, SEXT. <i>P. 1, 193</i>.`

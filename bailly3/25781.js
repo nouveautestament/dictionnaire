@@ -1,1 +1,0 @@
-lar[25781]=`<b>διά·τριχα</b> <font color="purple">[ῐχᾰ]</font> (<i>ou mieux</i> <b>διὰ τρίχα</b>) <i>adv</i>., en trois parties, en trois, IL. <i>2, 655,</i> HH. <i>Cer. 86</i> ; A.RH. <i>2, 997</i> ; CALL. <i>Jov. 61</i>.`

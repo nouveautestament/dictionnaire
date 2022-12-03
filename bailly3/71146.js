@@ -1,1 +1,0 @@
-lar[71146]=`<b>ὁλμο·ποιός, οῦ (ὁ)</b> fabricant de mortiers, ARSTT. <i>Pol. 3, 2, 2</i>.<p><b>Étym</b>. ὅλμος, ποιέω.`

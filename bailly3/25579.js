@@ -1,1 +1,0 @@
-lar[25579]=`<b>οῦ (ὁ) :<br>      1</b> déchirure, <i>joint à</i> ῥῆξις, NYSS. <i>1, 74b.</i><br><b>      2</b> <i>fig</i>. dispersion, <i>d’où</i> lacune, interruption, PLUT. <i>Alex. 27 ; p. suite,</i> désordre, PLUT. <i>Artax. 6</i>.<p><b>Étym</b>. διασπάω.`

@@ -1,1 +1,0 @@
-lar[53064]=`<b>κατα·πιθανεύομαι</b> <font color="purple">[ῐ]</font> parler d’une manière persuasive, SEXT. <i>519</i>.<p><b>Étym</b>. κ. πιθανός.`

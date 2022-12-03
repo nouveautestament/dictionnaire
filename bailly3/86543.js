@@ -1,1 +1,0 @@
-lar[86543]=`<b>προ·συναπάντησις, εως (ἡ)</b> <font color="purple">[ᾰπ]</font> correspondance entre plusieurs termes disposés géométriquement, <i>t. de rhét</i>. RHÉT. <i>8, 485 W</i>.<p><b>Étym</b>. π. συναπαντάω.`

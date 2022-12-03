@@ -1,1 +1,0 @@
-lar[23013]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> <font color="purple">[ῠ]</font> convive, NONN. <i>D. 2, 666</i>.<p><b>Étym</b>. δαιτυμών.`

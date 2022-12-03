@@ -1,1 +1,0 @@
-lar[101766]=`<b>ὑλ·ωρός, οῦ (ὁ)</b> conservateur des forêts de l’État, ARSTT. <i>Pol. 6, 8, 6</i>.<p><b>Étym</b>. ὕ. ὤρα.`

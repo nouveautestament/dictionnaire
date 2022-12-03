@@ -1,1 +1,0 @@
-lar[107592]=`<b>χαλκ·έμβολος, ος, ον</b>, armé d’un éperon d’airain, DS. <i>14, 59</i> ; POÈT. (DH. <i>Comp. 17</i>) ; PLUT. <i>Cim. 13 ; subst</i>. ἡ χ. (<i>s.-e</i>. ναῦς) PLUT. <i>Ant. 35,</i> navire armé d’un éperon d’airain.<p><b>Étym</b>. χαλκός, ἔμβολος.`

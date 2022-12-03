@@ -1,1 +1,0 @@
-lar[64373]=`<b>(ὁ)</b> <font color="purple">[ῐ]</font> l’Homme-à-la-portion, <i>n. de parasite,</i> ALCIPHR. <i>3, 61</i>.<p><b>Étym</b>. μερίς.`

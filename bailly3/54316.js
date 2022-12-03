@@ -1,1 +1,0 @@
-lar[54316]=`<b>(ὁ)</b> démon qui hante les bains, EUN. <i>V. soph. 10</i>.<p><b>Étym</b>. καῦσις.`

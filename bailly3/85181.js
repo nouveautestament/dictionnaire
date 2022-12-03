@@ -1,1 +1,0 @@
-lar[85181]=`<b>προσ·ανατάσσω</b>, remettre en ordre, ranger de nouveau, ARTÉM. <i>1, 1</i>.`

@@ -1,1 +1,0 @@
-lar[9463]=`<b>ἀντ·αναφέρω :<br>      1</b> rapporter en retour, PLUT. <i>M. 20c.</i><br><b>      2</b> <i>p. suite,</i> apporter une compensation, THÉM. <i>99c</i>.`

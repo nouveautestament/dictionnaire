@@ -1,1 +1,0 @@
-lar[35381]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à effacer, SEXT. <i>271, 14 Bkk</i>.<p><b>Étym</b>. ἐξαλείφω.`

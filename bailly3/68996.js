@@ -1,1 +1,0 @@
-lar[68996]=`<b>νοσο·γνωμονική, ῆς (ἡ)</b> <font color="purple">[ῐ]</font> diagnostic, PLAT. (DL. <i>3, 85).</i><p><b>Étym</b>. νόσος, γνώμων.`

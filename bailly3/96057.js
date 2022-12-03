@@ -1,1 +1,0 @@
-lar[96057]=`<b>εως (ἡ) :<br>      1</b> disposition de choses qui convergent vers une autre, STR. <i>199</i> ; PLUT. <i>M. 428a.</i><br><b>      2</b> tendance à s’unir, union, accord, POL. <i>2, 40, 5</i>.<p><b>Étym</b>. συννεύω.`

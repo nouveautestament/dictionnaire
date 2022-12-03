@@ -1,1 +1,0 @@
-lar[14258]=`<b>ιπος (ὁ, ἡ)</b> <font color="purple">[ῐῐπ]</font> <i>c</i>. ἀργιλιπής, NIC. <i>Th. 213</i>.`

@@ -1,1 +1,0 @@
-lar[25928]=`<b>διά·χλωρος, ος, ον</b>, mêlé de jaune, PHIL. PARADOX. <i>VII mir. p. 7</i>.<p><b>Étym</b>. διά, χλωρός.`

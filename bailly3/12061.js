@@ -1,1 +1,0 @@
-lar[12061]=`<b>ἁπλο·ειδής, ής, ές</b>, d’aspect simple, simple, THEOL. <i>p. 52, 32</i>.<p><b>Étym</b>. ἁπλόος, εἶδος.`

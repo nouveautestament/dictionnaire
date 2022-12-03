@@ -1,1 +1,0 @@
-lar[13565]=`<b>ἀπο·τεκνόω-ῶ</b>, priver de ses enfants, SPT. <i>Gen. 27, 45</i>.<p><b>Étym</b>. ἀ. τέκνον.`

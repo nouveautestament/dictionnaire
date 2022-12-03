@@ -1,1 +1,0 @@
-lar[102477]=`<b>ὑπερ·ευφραίνω</b>, se réjouir outre mesure <i>ou</i> extrêmement, LUC. <i>Am. 5</i> ; τι, LUC. <i>Ic. 2</i> ; ἐπί τινι, JOS. <i>B.J. 7, 1, 3,</i> de qqe ch.`

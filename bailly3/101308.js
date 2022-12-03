@@ -1,1 +1,0 @@
-lar[101308]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ, <i>p. exc</i>. ῡ <i>à l’arsis</i> ; ᾰ]</font> transparent comme du verre, ANTH. <i>5, 48</i>.<p><b>Étym</b>. ὕαλος.`

@@ -1,1 +1,0 @@
-lar[53342]=`<b>κατα·σκέπτομαι</b>, examiner avec soin, XÉN. <i>Cyr. 7, 1, 39</i> ; POL. <i>3, 95, 6, etc</i>.`

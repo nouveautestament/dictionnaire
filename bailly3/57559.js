@@ -1,1 +1,0 @@
-lar[57559]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> <i>c</i>. κράνεια, HPC. <i>Mochl. v. 3, p. 306</i> ; GAL. <i>12, 921, etc</i>.`

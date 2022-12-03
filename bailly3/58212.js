@@ -1,1 +1,0 @@
-lar[58212]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>vraisembl</i>. petit cochon de lait, ANTIPH. (ATH. <i>396d</i>).`

@@ -1,1 +1,0 @@
-lar[36583]=`<b>ἐπ·αναζώννυμαι</b> <font color="purple">[ῠ]</font> rattacher pour soi avec une ceinture <i>ou</i> à la ceinture, PHIL. <i>2, 479</i>.`

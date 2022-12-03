@@ -1,1 +1,0 @@
-lar[61099]=`<b>εως (ἡ)</b> <font color="purple">[λῐ]</font> l’art de changer en pierre, pétrification, PLUT. <i>M. 953e</i>.<p><b>Étym</b>. λιθόω.`

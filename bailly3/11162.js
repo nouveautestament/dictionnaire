@@ -1,1 +1,0 @@
-lar[11162]=`<b>ἀπ·αλάομαι-ῶμαι</b> <font color="purple">[ᾰλ]</font> s’égarer, HÉS. <i>Sc. 409</i>.`

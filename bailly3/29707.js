@@ -1,1 +1,0 @@
-lar[29707]=`<b>ἐγ·κοληβάζω</b> (<i>2 sg. ao</i>. ἐνεκολήβασας) avaler gloutonnement comme un gâteau κόλλαβος, AR. <i>Eq. 263</i>.`

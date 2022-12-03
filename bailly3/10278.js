@@ -1,1 +1,0 @@
-lar[10278]=`<b>ος, ον</b>, façonné <i>ou</i> formé sur un modèle, SOPH. <i>fr. 268</i>.<p><b>Étym</b>. ἀ. πλάσσω.`

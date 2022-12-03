@@ -1,1 +1,0 @@
-lar[53497]=`<b>κατα·συβωτέω-ῶ</b> <font color="purple">[ῠ]</font> engraisser comme un porc, PLUT. <i>M. 1096c</i>.`

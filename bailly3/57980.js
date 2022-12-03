@@ -1,1 +1,0 @@
-lar[57980]=`<b>ης (ἡ)</b> Kritoboulè, <i>f</i>. Ps.-PLUT. <i>Fluv. 3, 2</i>.<p><b>Étym</b>. <i>fém. de</i> Κριτόβουλος.`

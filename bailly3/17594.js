@@ -1,1 +1,0 @@
-lar[17594]=`<b>Αὐτο·μέλιννα (ἡ)</b> Mélinna en personne, ANTH. <i>6, 353</i>.`

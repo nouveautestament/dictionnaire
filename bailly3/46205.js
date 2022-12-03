@@ -1,1 +1,0 @@
-lar[46205]=`<b>*θαλερῶς</b> <font color="purple">[ᾰ]</font> <i>adv. seul. cp</i>. θαλερώτερον, abondamment (pleurer) THCR. <i>Idyl. 14, 32</i>.<p><b>Étym</b>. θαλερός.`

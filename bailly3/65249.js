@@ -1,1 +1,0 @@
-lar[65249]=`<i>adv</i>., de front, en ligne, HDT. <i>7, 100</i> ; THC. <i>2, 90</i> ; POL. <i>11, 22, 10</i> ; PLUT. <i>M. 967b, Lys. 10</i>.<p><b>Étym</b>. μέτωπον, -δόν.`

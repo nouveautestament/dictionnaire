@@ -1,1 +1,0 @@
-lar[43227]=`<b>ἐΰ·ρρην</b>, <i>gén</i>. <b>ηνος (ὁ, ἡ)</b> aux nombreux agneaux, A.RH. <i>1, 49</i>.<p><b>Étym</b>. εὖ, ῥήν.`

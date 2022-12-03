@@ -1,1 +1,0 @@
-lar[101651]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> fils du fils, petit-fils, XÉN. <i>An. 5, 6, 37</i> ; PLAT. <i>Leg. 925a ;</i> DÉM. <i>1075, 28, etc</i>.<p><b>Étym</b>. υἱός.`

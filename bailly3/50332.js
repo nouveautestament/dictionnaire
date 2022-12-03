@@ -1,1 +1,0 @@
-lar[50332]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> trappe d’un colombier, GEOP. <i>14, 6, 6</i>.<p><b>Étym</b>. κατέχω.`

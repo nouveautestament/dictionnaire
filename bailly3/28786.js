@@ -1,1 +1,0 @@
-lar[28786]=`<b>δύσ·πειστος, ος, ον</b>, difficile à persuader, ARSTT. <i>Nic. 7, 9, 2 ; p. suite,</i> indocile, XÉN. <i>Hipp. 1, 23</i> ; PLUT. <i>Cato mi. 1</i>.<p><b>Étym</b>. δ. πείθω.`

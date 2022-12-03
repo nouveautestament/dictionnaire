@@ -1,1 +1,0 @@
-lar[82366]=`<b>πολύ·σκηπτρος, ος, ον</b>, aux nombreux sceptres, <i>càd</i>. aux nombreuses provinces, <i>ou</i> dont le sceptre domine au loin, ANTH. <i>1, 10, 11 etc</i>.<p><b>Étym</b>. π. σκῆπτρον.`

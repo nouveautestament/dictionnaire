@@ -1,1 +1,0 @@
-lar[5013]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’échapper, <i>d’où</i> moyen de fuir, ESCHL. <i>Ag. 1299</i> ; Q. SM. <i>12, 212</i>.<p><b>Étym</b>. ἀλύσσω.`

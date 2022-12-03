@@ -1,1 +1,0 @@
-lar[72201]=`<b>ὀξυ·ωπής, ής, ές</b>, qui a la vue perçante.<p>•<i> Cp</i>. -έστερος, ATH. <i>75e, etc. ; • Sup</i>. -έστατος, ARSTT. <i>H.A. 1, 10, etc.</i> ; LUC. <i>14</i>.<p><b>Étym</b>. ὀ. ὤψ.`

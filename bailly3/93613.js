@@ -1,1 +1,0 @@
-lar[93613]=`<b>συγ·χορηγός, οῦ (ὁ)</b> <i>litt</i>. chorège avec un autre, <i>p. ext</i>. qui contribue à certains frais, DÉM. <i>853, 1</i>.`

@@ -1,1 +1,0 @@
-lar[9277]=`<b>ἀνομοιό·στροφος, ος, ον</b>, de strophes dissemblables, HÉPH. <i>9, 3</i>.<p><b>Étym</b>. ἀν. στροφή.`

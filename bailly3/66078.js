@@ -1,1 +1,0 @@
-lar[66078]=`<b>μισό·τεκνος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait ses enfants, ESCHN. <i>64, 11</i>.<p><b>Étym</b>. μισέω, τέκνον.`

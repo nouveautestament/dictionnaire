@@ -1,1 +1,0 @@
-lar[74313]=`<b>παιδο·τρίβης, ου (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> maître de gymnastique pour les enfants, AR. <i>Nub. 973</i> ; PLAT. <i>Prot. 312b.</i><br><b>      2</b> <i>c</i>. παιδεραστής, ANTH. <i>12, 34</i>.<p><b>Étym</b>. π. τρίβω.`

@@ -1,1 +1,0 @@
-lar[43009]=`<b>εὐ·πηγής, ής, ές</b>, bien ajusté, <i>d’où</i> bien bâti, solide, fort, OD. <i>21, 234</i> ; HPC. <i>609, 11</i> ; A.RH. <i>2, 1017 ; 3, 236 et 1235</i>.<p><b>Étym</b>. εὖ, πήγνυμι.`

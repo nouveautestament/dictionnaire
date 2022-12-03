@@ -1,1 +1,0 @@
-lar[71497]=`<b>ὁμο·ζωΐα, ας (ἡ)</b> vie commune, OLYMPIOD. <i>Plat. 1 Alc. sect. 27</i>.<p><b>Étym</b>. ὁμ. ζωή.`

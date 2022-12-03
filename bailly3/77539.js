@@ -1,1 +1,0 @@
-lar[77539]=`<b>ή, όν</b>, qui concerne le sol ; πεδικὴ μέτρησις, STR. <i>105 conj</i>. arpentage.<p><b>Étym</b>. πέδον.`

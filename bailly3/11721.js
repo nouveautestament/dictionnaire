@@ -1,1 +1,0 @@
-lar[11721]=`<i>adv.</i> :<br><b>      1</b> sans être digéré, HPC. <i>386, 6</i>.<br><b>      2</b> avec âcreté, HPC. <i>t. 2, p. 616 Littré</i>.`

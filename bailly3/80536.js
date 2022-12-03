@@ -1,1 +1,0 @@
-lar[80536]=`<b>(ὁ)</b> Pityas, <i>Spartiate,</i> XÉN. <i>Hell. 2, 3, 10</i>.`

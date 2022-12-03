@@ -1,1 +1,0 @@
-lar[93500]=`<b>συγ·κολυμβάω-ῶ</b>, plonger ensemble, ANTICLID. (ATH. <i>781c</i>) ; ANTISTH. (DL. <i>6, 6</i>).`

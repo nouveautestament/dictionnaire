@@ -1,1 +1,0 @@
-lar[109617]=`<b>οῦ (ὁ) :<br>      1</b> défaut de prononciation qui empêche d’articuler nettement certains sons, PLUT. <i>M. 650e, 1066d.</i><br><b>      2</b> <i>p. anal</i>. caractère indécis d’un mal à son début, PLUT. <i>Syll. 26</i>.<p><b>Étym</b>. ψελλίζω.`

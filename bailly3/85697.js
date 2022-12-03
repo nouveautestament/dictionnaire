@@ -1,1 +1,0 @@
-lar[85697]=`<b>προσ·επιμελέομαι-οῦμαι</b>, prendre soin en outre : τινὸς πρός τινι, PLAT. <i>Leg. 755b</i>, prendre soin d’une chose après <i>ou</i> avec une autre.`

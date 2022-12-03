@@ -1,1 +1,0 @@
-lar[98354]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> extraordinaire, prodigieux, <i>en parl. de pers</i>. PLAT. <i>Euthyd. 296e ; en parl. de choses,</i> XÉN. <i>Ep. 1, 8</i> ; AR. <i>Nub. 364 ; particul</i>. monstrueux, ARSTT. <i>G.A. 4, 4, 5, etc.</i> ; τὸ τερατῶδες, ARSTT. <i>Poet. 14, 4,</i> le merveilleux.<p>•<i> Sup</i>. -έστατος, PHIL.<p><b>Étym</b>. τέρας, -ωδης.`

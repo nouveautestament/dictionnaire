@@ -1,1 +1,0 @@
-lar[64723]=`<b>μετα·ζεύγνυμι</b>, atteler autrement, XÉN. <i>Cyr. 6, 3, 21</i>.`

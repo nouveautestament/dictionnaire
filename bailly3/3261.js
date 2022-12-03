@@ -1,1 +1,0 @@
-lar[3261]=`<b>ἀ·κέλυφος, ος, ον</b> <font color="purple">[ῠ]</font> sans enveloppe, sans écorce, sans pelure, TH. <i>C.P. 1, 17, 8</i>.<p><b>Étym</b>. ἀ, κέλυφος.`

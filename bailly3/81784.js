@@ -1,1 +1,0 @@
-lar[81784]=`<b>πολυ·γηθής, ής, ές</b> <font color="purple">[ῠ]</font> qui cause une grande joie, IL. <i>21, 450</i> ; HÉS. <i>O. 612, Th. 941</i> ; ANTH. <i>9, 189</i>.<p>➳ <i>Dor</i>. πολυγαθής <font color="purple">[ᾱ]</font> PD. <i>P. 2, 51, etc</i>.<p><b>Étym</b>. π. γηθέω.`

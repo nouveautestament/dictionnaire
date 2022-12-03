@@ -1,1 +1,0 @@
-lar[54952]=`<i>gén. ion</i>. <b>-εω (ὁ)</b> le Kerkétès, <i>mt. de Samos,</i> NIC. <i>Al. 152</i>.`

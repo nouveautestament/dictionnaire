@@ -1,1 +1,0 @@
-lar[59081]=`<b>ου (τὸ)</b> <font color="purple">[ῑ̆δ]</font> <i>dim. de</i> κωβιός ANAXANDR. <i>et</i> SOTAD. (ATH. <i>105f, 284f</i>).`

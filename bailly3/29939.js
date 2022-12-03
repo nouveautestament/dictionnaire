@@ -1,1 +1,0 @@
-lar[29939]=`<b>οῦ (ὁ)</b> long délai, ANTYLL. (ORIB. <i>2, 335 B.-Dar</i>.).<p><b>Étym</b>. ἐγχρονίζω.`

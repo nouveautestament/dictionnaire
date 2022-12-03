@@ -1,1 +1,0 @@
-lar[26621]=`<b>δι·λήκυθον, ου (τὸ)</b> <font color="purple">[ῐῠ]</font> double flacon, HIPPOLOCH. (ATH. <i>129c</i>).<p><b>Étym</b>. δίς, λήκυθος.`

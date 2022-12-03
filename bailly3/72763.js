@@ -1,1 +1,0 @@
-lar[72763]=`<b>ὀρθοτονέω-ῶ</b>, accentuer pleinement, DYSC. <i>Pron. 301c, etc</i>.<p><b>Étym</b>. ὀρθότονος.`

@@ -1,1 +1,0 @@
-lar[105490]=`<b>Φιλ·άνωρ, ορος (ὁ)</b> <font color="purple">[ῐᾱ]</font> Philanor, <i>h</i>. PD. <i>O. 12, 13, etc</i>.<p><b>Étym</b>. <i>v</i>. φιλάνωρ.`

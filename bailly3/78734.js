@@ -1,1 +1,0 @@
-lar[78734]=`<b>περι·καταστρέφω</b>, renverser sens dessus dessous, DIOSC. <i>2, 65 ; au pass</i>. STR. <i>754</i>.`

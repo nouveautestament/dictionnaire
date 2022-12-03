@@ -1,1 +1,0 @@
-lar[108438]=`<b>ή, όν</b>, qui concerne un chiliarque, DS. <i>19, 3</i>.<p><b>Étym</b>. χιλίαρχος.`

@@ -1,1 +1,0 @@
-lar[80429]=`<b>(ὁ)</b> Pisis, <i>Thespien,</i> PLUT. <i>Demetr. 39</i>.`

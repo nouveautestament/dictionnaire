@@ -1,1 +1,0 @@
-lar[5251]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> de canal <i>ou</i> d’égout, TH. <i>H.P. 2, 6, 5</i>.<p><b>Étym</b>. ἀμάρα.`

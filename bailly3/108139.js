@@ -1,1 +1,0 @@
-lar[108139]=`<b>χειρό·κνημις, ιδος (ἡ)</b> <font color="purple">[ῑδ]</font> gantelet <i>ou</i> brassard, ANON. <i>de Tact</i>.<p><b>Étym</b>. χ. κνημίς.`

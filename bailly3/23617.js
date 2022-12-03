@@ -1,1 +1,0 @@
-lar[23617]=`<b>ῶν (οἱ)</b> habitants du dème attique Deirades (Δειράδες), <i>de la tribu Léontide,</i> PLUT. <i>Alc. 25</i>.`

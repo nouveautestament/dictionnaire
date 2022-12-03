@@ -1,1 +1,0 @@
-lar[21611]=`<b>οῦ (ἡ)</b> Gélônos, <i>v. des Boudines,</i> HDT. <i>4, 108</i>.`

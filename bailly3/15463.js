@@ -1,1 +1,0 @@
-lar[15463]=`<b>(ὁ)</b> Arystas, <i>Arcadien,</i> XÉN. <i>An. 7, 3, 23 et 24</i>.`

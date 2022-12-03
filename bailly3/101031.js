@@ -1,1 +1,0 @@
-lar[101031]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m.</i> : τ. ὕδρωψ <i>ou</i> ὕδερος, ARÉT. <i>Caus. m. diut. 2, 1</i> ; GAL. <i>2, 264 ; ou simpl</i>. τυμπανίας, A. TR. <i>9, 2,</i> hydropisie où le ventre est tendu comme un tambour.<p><b>Étym</b>. τύμπανον.`

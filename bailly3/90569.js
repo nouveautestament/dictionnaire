@@ -1,1 +1,0 @@
-lar[90569]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> de la nature du blé, HPC. <i>339, 25</i> ; ARÉT. <i>Cur. m. acut. 1, 1</i> ; τὰ σιτώδη, TH. <i>H.P. 8, 1, 1,</i> les céréales.<p><b>Étym</b>. σῖτος, -ωδης.`

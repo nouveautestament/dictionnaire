@@ -1,1 +1,0 @@
-lar[54804]=`<b>ΐδος</b> <font color="purple">[ᾰ]</font> <i>adj. f. c</i>. κεραμήϊος M. SID. <i>60</i>.`

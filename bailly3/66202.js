@@ -1,1 +1,0 @@
-lar[66202]=`<b>Μνησί·βουλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Mnèsiboulos, <i>h</i>. DÉM. <i>1155, 14 ; 1480, 13 et 26</i>.<p><b>Étym</b>. μν. βουλή.`

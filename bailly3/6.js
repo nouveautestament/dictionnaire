@@ -1,1 +1,0 @@
-lar[6]=`<i>préfixe copulatif (cf</i>. ἀ- <i>2) : v</i>. ἅπας, ἁπλοῦς.<p>➳ <i>p. dissimil., psilose ou anal</i>. ἀ-.<p><b>Étym</b>. <i>R. indo-europ</i>. *sm-, un, ensemble ; <i>cf</i>. εἷς, ἅμα, ὁμός, <i>lat</i>. sem-per, sim-plex.`

@@ -1,1 +1,0 @@
-lar[42579]=`<b>εὔ·λεξις, ις, ι</b>, au beau langage, <i>mot forgé ironiq. par</i> LUC. <i>Lex. 1, Rh. pr. 17</i>.<p><b>Étym</b>. εὖ, λέξις.`

@@ -1,1 +1,0 @@
-lar[53765]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de verser dessus, GAL. <i>14, 738</i> ; GEOP. <i>13, 14, 11</i>.<p><b>Étym</b>. καταχέω.`

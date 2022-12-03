@@ -1,1 +1,0 @@
-lar[72363]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> arsenal, STR. <i>709</i>.<p><b>Étym</b>. ὁπλοφύλαξ.`

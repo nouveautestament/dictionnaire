@@ -1,1 +1,0 @@
-lar[16041]=`<b>ης (ἡ)</b> <font color="purple">[πῐ]</font> <i>c</i>. ἀσπίδιον SPT. <i>Ex. 39, 18, etc.</i> ; JOS. <i>B.J. 5, 5, 7, etc</i>.`

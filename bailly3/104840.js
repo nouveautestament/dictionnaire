@@ -1,1 +1,0 @@
-lar[104840]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> <i>c</i>. φανταστικός, PLUT. <i>M. 431b ;</i> τὸ φαντασιαστικόν, PLUT. <i>M. 432c</i>, l’imagination.`

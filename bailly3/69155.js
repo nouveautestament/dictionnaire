@@ -1,1 +1,0 @@
-lar[69155]=`<b>νυκτι·πόρος, ος, ον</b> <font color="purple">[ῐ]</font> qui va pendant la nuit, OPP. <i>C. 1, 441, etc</i>.<p><b>Étym</b>. ν. πορέω.`

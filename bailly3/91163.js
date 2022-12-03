@@ -1,1 +1,0 @@
-lar[91163]=`<b>Σκοροδο·μάχοι, ων (οἱ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. « qui combattent à coups de gousses d’ail », <i>n. d’un pple fabuleux,</i> LUC. <i>V.H. 1, 13</i>.<p><b>Étym</b>. σκόροδον, μάχομαι.`

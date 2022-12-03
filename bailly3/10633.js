@@ -1,1 +1,0 @@
-lar[10633]=`<b>ἀντ·οδύρομαι</b> <font color="purple">[ῡ]</font> répondre par des gémissements <i>ou</i> des lamentations, APP. <i>Civ. 1, 10</i>.`

@@ -1,1 +1,0 @@
-lar[51303]=`<b>Καλο·νίκη, ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> Kalonikè, <i>f</i>. AR. <i>Lys. 6</i>.<p><b>Étym</b>. καλός, νίκη.`

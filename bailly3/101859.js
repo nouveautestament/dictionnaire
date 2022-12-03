@@ -1,1 +1,0 @@
-lar[101859]=`<b>ὑπ·άγγελος, ος, ον</b> <font color="purple">[ῠ]</font> averti <i>ou</i> appelé par un messager, ESCHL. <i>Ch. 838</i>.`

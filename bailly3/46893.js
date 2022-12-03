@@ -1,1 +1,0 @@
-lar[46893]=`<b>θερει·γενής, ής, ές :<br>      1</b> qui pousse pendant la chaleur, d’été, NIC. <i>Th. 601</i>.<br><b>      2</b> chaud, NONN. <i>D. 26, 229</i>.<p><b>Étym</b>. θέρος, γίγνομαι.`

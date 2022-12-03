@@ -1,1 +1,0 @@
-lar[83672]=`<b>προ·αποπέμπω</b>, renvoyer auparavant, envoyer par avance, THC. <i>3, 25</i> ; DC. <i>60, 34</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. XÉN. <i>Cyr. 4, 2, 29</i>.`

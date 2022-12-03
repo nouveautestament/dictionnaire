@@ -1,1 +1,0 @@
-lar[55826]=`<i>att</i>. <b>κλῃδουχέω-ῶ :<br>      1</b> avoir les clefs (d’un temple), être surveillant <i>ou</i> prêtre d’un temple, EUR. <i>I.T. 1463 (att</i>. κλῃδ-) ; <i>au pass</i>. être surveillé, gardé, EUR. <i>H.f. 1288</i>.<br><b>      2</b> <i>en gén</i>. avoir les clefs, être porte-clefs, geôlier, CHRYS. <i>6, 935</i>.<p><b>Étym</b>. κλειδοῦχος.`

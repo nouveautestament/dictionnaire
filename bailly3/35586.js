@@ -1,1 +1,0 @@
-lar[35586]=`<b>ων (τὰ)</b> <font color="purple">[μᾰ]</font> extrémités du corps de la victime offertes comme prémices, A.RH. <i>4, 477</i>.<p><b>Étym</b>. ἐξάρχω.`

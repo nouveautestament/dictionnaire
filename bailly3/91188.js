@@ -1,1 +1,0 @@
-lar[91188]=`<b>ης, ες</b>, semblable à un scorpion, PHIL. <i>2, 576</i> ; τὸ σκορπιῶδες, ARSTT. <i>H.A. 4, 7, 7,</i> pseudoscorpion (<i>Chelifer cancroïdes</i> L.) <i>qui se trouve dans les livres</i>.<p><b>Étym</b>. σκ. -ωδης.`

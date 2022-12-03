@@ -1,1 +1,0 @@
-lar[7559]=`<b>ἀνά·ρρινον, ου (τὸ)</b> <font color="purple">[ῑ]</font> sorte de cresson, ARSTT. <i>Probl. 20, 22</i> ; GAL. <i>Lex. Hipp. 19, 79</i>.<p><b>Étym</b>. ἀνά, ῥίς.`

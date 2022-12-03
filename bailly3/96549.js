@@ -1,1 +1,0 @@
-lar[96549]=`<b>ατος (τὸ)</b> conflit, choc, PLUT. <i>M. 346e</i>.<p><b>Étym</b>. συρράσσω.`

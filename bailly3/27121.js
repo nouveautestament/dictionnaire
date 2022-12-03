@@ -1,1 +1,0 @@
-lar[27121]=`<b>δι·φαλαγγία, ας (ἡ)</b> <font color="purple">[ῐφᾰ]</font> double phalange (<i>un peu plus de 8 000 hommes</i>) POL. <i>2, 66, 9 ; 12, 20, 7</i> ; EL. TACT. <i>36, 4 ; 37, 2</i>.<p><b>Étym</b>. δίς, φάλαγξ.`

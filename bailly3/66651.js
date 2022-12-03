@@ -1,1 +1,0 @@
-lar[66651]=`<b>μονο·τόκος, ος, ον</b>, qui accouche d’un seul enfant, <i>ou</i> met bas un seul petit, ARSTT. <i>H.A. 6, 22, 3</i>.<p>➳ <i>Ion</i>. μουνοτόκος, CALL. <i>Ap. 54</i>.<p><b>Étym</b>. μ. τίκτω.`

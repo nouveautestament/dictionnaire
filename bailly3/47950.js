@@ -1,1 +1,0 @@
-lar[47950]=`<b>θυμοφθορέω-ῶ</b> <font color="purple">[ῡ]</font> avoir l’esprit torturé, SOPH. <i>Tr. 142</i>.<p><b>Étym</b>. θυμοφθόρος.`

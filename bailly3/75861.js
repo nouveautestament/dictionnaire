@@ -1,1 +1,0 @@
-lar[75861]=`<b>παρα·λιμπάνω</b> <i>(seul. prés.) c</i>. παραλείπω, ARSTT. <i>Probl. 29, 13, 4</i> ; CHRYSIPP. (ATH. <i>8d</i>).`

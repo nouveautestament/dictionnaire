@@ -1,1 +1,0 @@
-lar[56811]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> semblable à de la gomme, TH. <i>H.P. 5, 11, 1</i>.<p><b>Étym</b>. κόμμι, -ωδης.`

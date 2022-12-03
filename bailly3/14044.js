@@ -1,1 +1,0 @@
-lar[14044]=`<b>ἀ·πυνδάκωτος, ος, ον</b> <font color="purple">[δᾰ]</font> sans fond, SOPH. <i>fr. 541</i>.<p><b>Étym</b>. ἀ, *πυνδακόω <i>de</i> πύνδαξ.`

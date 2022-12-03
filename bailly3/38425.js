@@ -1,1 +1,0 @@
-lar[38425]=`<b>ἐπι·μηθέομαι-οῦμαι</b>, penser à qqe ch. après coup, CORN. <i>c. 18</i>.<p><b>Étym</b>. ἐπιμηθής.`

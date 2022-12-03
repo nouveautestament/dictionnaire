@@ -1,1 +1,0 @@
-lar[90775]=`<b>ή, όν</b>, abrité, ARCHIG. (<i>Chir. p. 118 Cocch</i>.).<p><b>Étym</b>. σκέπη.`

@@ -1,1 +1,0 @@
-lar[25070]=`<b>ῆς (ἡ)</b> permanence, durée prolongée, ARSTT. <i>Spir. 1, 1</i> ; TH. <i>H.P. 7, 5, 5</i>.<p><b>Étym</b>. διαμένω.`

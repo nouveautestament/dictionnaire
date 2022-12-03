@@ -1,1 +1,0 @@
-lar[26120]=`<b>ου (τὸ)</b> drogue <i>ou</i> moyen pour faire avorter, HPC. <i>634, 9</i>.<p><b>Étym</b>. διεκβάλλω.`

@@ -1,1 +1,0 @@
-lar[81915]=`<i>adv</i>., d’une voix retentissante, EL. <i>N.A. 12, 28</i>.`

@@ -1,1 +1,0 @@
-lar[1962]=`<b>ἀ·θεάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>. <font color="purple">[εᾰ]</font> inattentif, indifférent à, <i>gén</i>. MÉN. RHÉT. <i>9, 239, 3 W.</i> ; SYN. <i>Insomn. 147d</i>.<p><b>Étym</b>. ἀ, θεάομαι.`

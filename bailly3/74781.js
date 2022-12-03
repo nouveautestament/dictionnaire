@@ -1,1 +1,0 @@
-lar[74781]=`<b>πάμ·φορος, ος, ον</b>, qui produit tout, fertile en productions de toute sorte, ESCHL. <i>Pers. 618</i> ; HDT. <i>7, 8, 1</i> ; PLAT. <i>Leg. 704c ; p. suite,</i> bienfaisant, précieux, PD. <i>P. 7, 13</i> ; XÉN. <i>Mem. 2, 4, 7</i>.<p>•<i> Cp</i>. -ώτερος, HDT. <i>l.c. ; • Sup</i>. -ώτατος, XÉN. <i>l.c</i>.<p><b>Étym</b>. π. φέρω.`

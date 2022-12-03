@@ -1,1 +1,0 @@
-lar[32482]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> plantation d’oliviers, E. BYZ. <i>v°</i> φελλεύς.<p><b>Étym</b>. ἐλαιόφυτος.`

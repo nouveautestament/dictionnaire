@@ -1,1 +1,0 @@
-lar[104428]=`<b>ὑψ·αγόρας, ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. aux propos élevés, sublimes, LUC. <i>Ic. 5</i>.<p>➳ <i>Ion</i>. ὑψαγόρης, OD. <i>1, 385 ; 2, 85, etc</i>.<p><b>Étym</b>. ὕψι, ἀγορεύω.`

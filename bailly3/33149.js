@@ -1,1 +1,0 @@
-lar[33149]=`<font color="purple">[ῑ]</font> <i>adv.</i> :<br><b>   I</b> fermement, PLAT. <i>Phædr. 252c.</i><br><b>   II</b> <i>fig.</i> :<br><b>      1</b> gravement, DC. <i>69, 6</i>.<br><b>      2</b> d’un air morose, HDN <i>4, 3, 7</i>.<p>•<i> Cp</i>. ἐμβριθέστερον, PLAT. <i>l. c</i>.<p><b>Étym</b>. ἐμβριθής.`

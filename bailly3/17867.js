@@ -1,1 +1,0 @@
-lar[17867]=`<b>ἀφ·ανδάνω</b> (<i>seul. prés. et inf. ao.2 ion</i>. ἀπαδεῖν) déplaire, n’être pas agréable : τινι, OD. <i>16, 387</i> ; HDT. <i>2, 129 (inf. ao.2</i>) ; SOPH. <i>Ant. 501,</i> à qqn.<p><b>Étym</b>. ἀπό, ἁνδάνω.`

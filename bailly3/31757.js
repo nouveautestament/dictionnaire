@@ -1,1 +1,0 @@
-lar[31757]=`<i>adv</i>., d’une manière étonnante <i>ou</i> effrayante, IL. <i>1, 268 ; 2, 223 et 357, etc.</i> ; OD. <i>5, 340 ; 11, 437, etc</i>.`

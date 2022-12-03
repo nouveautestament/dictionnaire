@@ -1,1 +1,0 @@
-lar[41771]=`<b>ας (ἡ)</b> belle vieillesse, ARSTT. <i>Rhet. 1, 5, 15</i> ; PLUT. <i>M. 111b</i>.<p><b>Étym</b>. εὔγηρος.`

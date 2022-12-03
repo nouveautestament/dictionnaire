@@ -1,1 +1,0 @@
-lar[4073]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾰλα]</font> celle qui repousse l’ennemi, la déesse protectrice, <i>ép. d’Athèna,</i> IL. <i>4, 8</i>.<p><b>Étym</b>. ἀλαλκεῖν.`

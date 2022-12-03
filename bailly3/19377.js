@@ -1,1 +1,0 @@
-lar[19377]=`<i>mieux que</i> <b>βαταλίζομαι</b> <font color="purple">[τᾰ]</font> vivre en débauché, THÉANO <i>Ep. 1</i>.<p><b>Étym</b>. βάτταλος.`

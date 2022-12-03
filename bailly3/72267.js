@@ -1,1 +1,0 @@
-lar[72267]=`<i>adv</i>., par derrière, SPT. <i>1Reg. 4, 18</i>.`

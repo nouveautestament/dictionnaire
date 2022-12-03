@@ -1,1 +1,0 @@
-lar[88865]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> cours d’eau, ORPH. <i>H. 9, 22</i> ; PROCL. <i>H. Sol. 4</i>.<p><b>Étym</b>. ῥέω.`

@@ -1,1 +1,0 @@
-lar[62251]=`<b>ητος (ὁ)</b> Magnès, <i>poète de l’ancienne comédie,</i> AR. <i>Eq. 520</i> ; ARSTT. <i>Poet. 3, etc</i>.`

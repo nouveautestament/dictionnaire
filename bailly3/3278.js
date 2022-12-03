@@ -1,1 +1,0 @@
-lar[3278]=`<i>adv</i>., sans profit, ARSTT. <i>Pol. 5, 8, 19</i> ; PLUT. <i>M. 27d</i>.`

@@ -1,1 +1,0 @@
-lar[109065]=`<b>χρονο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> auteur d’un ouvrage d’histoire par ordre de temps, STR. <i>20</i> ; LUC. <i>Alex. 6</i>.<p><b>Étym</b>. χρόνος, γράφω.`

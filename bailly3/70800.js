@@ -1,1 +1,0 @@
-lar[70800]=`<b>οῦ (ὁ)</b> sauterelle, ESCHL. <i>fr. 250</i>.`

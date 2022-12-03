@@ -1,1 +1,0 @@
-lar[75248]=`<b>παντο·εργός, ός, όν</b>, qui accomplit tout, PHILOL. <i>B 11, p. 411, 10</i> (STOB. <i>Ecl. phys. 1, p. 8).</i><p><b>Étym</b>. π. ἔργον.`

@@ -1,1 +1,0 @@
-lar[72891]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. ὅρμινον POLÉM. (ATH. <i>478d au pl</i>.).`

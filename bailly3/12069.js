@@ -1,1 +1,0 @@
-lar[12069]=`<b>ἀ·πλόκαμος, ος, ον</b> <font color="purple">[κᾰ]</font> aux cheveux non bouclés, ANTH. <i>2, 331 ; 7, 146</i>.<p><b>Étym</b>. ἀ, πλόκαμος.`

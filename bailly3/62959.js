@@ -1,1 +1,0 @@
-lar[62959]=`<b>ης (ἡ)</b> <i>lat</i>. Marcella, <i>n. de f. rom</i>. ANTH. <i>App. 233</i>.`

@@ -1,1 +1,0 @@
-lar[56973]=`<b>κοπρο·θέσιον, ου (τὸ)</b> lieu où l’on dépose le fumier, GEOP. <i>2, 22, 3</i>.<p><b>Étym</b>. κόπρος, τίθημι.`

@@ -1,1 +1,0 @@
-lar[90230]=`<font color="purple">[σῐ]</font> <i>adv</i>., comme un Sicilien, EPHIPP. (ATH. <i>286c</i>).`

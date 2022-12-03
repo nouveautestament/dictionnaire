@@ -1,1 +1,0 @@
-lar[61828]=`<b>ου (ἡ)</b> <font color="purple">[ῠ]</font> Lykænion (<i>propr</i>. petite louve) <i>f</i>. ANTH. <i>7, 298</i> ; LGS <i>3, 15</i>.<p><b>Étym</b>. <i>v</i>. Λυκαίνη.`

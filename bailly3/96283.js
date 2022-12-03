@@ -1,1 +1,0 @@
-lar[96283]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui a la propriété de tendre fortement, GAL.<p><b>Étym</b>. συντείνω.`

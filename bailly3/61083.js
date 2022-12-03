@@ -1,1 +1,0 @@
-lar[61083]=`<b>λιθο·τόμον, ου (τὸ)</b> instrument de chirurgie pour la taille de la pierre, P. ÉG. <i>6, 60</i>.<p><b>Étym</b>. λ. τέμνω.`

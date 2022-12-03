@@ -1,1 +1,0 @@
-lar[24831]=`<b>αι, α</b> <font color="purple">[ᾱκ]</font> deux cents, HOM. ATT. <i>etc. ; au sg. avec un n. collect</i>. ἵππος δ. THC. <i>1, 62,</i> 200 chevaux, <i>càd</i>. 200 cavaliers.<p>➳ <i>Ion</i>. διηκόσιοι, IL. <i>8, 233 ; 9, 383</i> ; HDT. HPC. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[3148]=`<b>ᾶνος (ὁ)</b> <font color="purple">[ᾰκᾱν]</font><br><b>      1</b> Acarnan, <i>ancêtre des Acarnaniens,</i> THC. <i>2, 102, etc.</i><br><b>      2</b> Acarnanien, HDT. <i>1, 62</i> ; THC. <i>2, 68, etc</i>.`

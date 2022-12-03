@@ -1,1 +1,0 @@
-lar[106031]=`<b>φιλοποτέω-ῶ</b> <font color="purple">[ῐ]</font> aimer à boire, être ivrogne, ATH. <i>438c</i>.<p><b>Étym</b>. φιλοπότης.`

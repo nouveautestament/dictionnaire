@@ -1,1 +1,0 @@
-lar[27467]=`<b>δολο·ποιός, ός, όν</b>, qui fabrique des ruses, SOPH. <i>Tr. 832</i>.<p><b>Étym</b>. δόλος, ποιέω.`

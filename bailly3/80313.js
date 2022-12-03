@@ -1,1 +1,0 @@
-lar[80313]=`<b>πιλόω-ῶ</b> <font color="purple">[ῑ]</font> <i>c</i>. πιλέω, EUB. <i>3, 268 Meineke</i> ; TH. <i>C.P. 3, 23, 5, etc. ; au pass</i>. DÉMOCR. (PLUT. <i>M. 898a</i>).`

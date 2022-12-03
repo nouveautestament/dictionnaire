@@ -1,1 +1,0 @@
-lar[3967]=`<b>ἀ·κύθηρος, ος, ον</b> <font color="purple">[ῠ]</font> sans grâce, CIC. <i>Fam. 7, 32</i>.<p><b>Étym</b>. ἀ, Κυθήρη.`

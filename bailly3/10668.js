@@ -1,1 +1,0 @@
-lar[10668]=`<b>ου (ὁ)</b> habitant de cavernes, E. BYZ.<p><b>Étym</b>. ἄντρον.`

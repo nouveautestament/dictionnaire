@@ -1,1 +1,0 @@
-lar[58627]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> lieu où les chevaux se roulent dans la poussière <i>ou</i> sur l’herbe, XÉN. <i>Eq. 5, 3, etc</i>.<p><b>Étym</b>. κυλίνδω.`

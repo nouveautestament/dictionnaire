@@ -1,1 +1,0 @@
-lar[29111]=`<b>δωδεκατη·μόριος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>   I</b> <i>adj</i>. divisé en douze parts, MAN. <i>4, 167</i>.<br><b>   II</b> <i>subst</i>. τὸ δ. :<br><b>      1</b> un douzième, PLAT. <i>Leg. 848c.</i><br><b>      2</b> un des douze signes du zodiaque, PTOL. <i>Tetr. 93, etc</i>.<p><b>Étym</b>. δωδέκατος, μόριον.`

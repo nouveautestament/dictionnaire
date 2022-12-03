@@ -1,1 +1,0 @@
-lar[75449]=`<b>παρα·γναθίς, ίδος (ἡ)</b> <font color="purple">[νᾰῐδ]</font> partie du heaume <i>ou</i> de la tiare qui enveloppe les joues, STR. <i>733</i>.<p><b>Étym</b>. π. γνάθος.`

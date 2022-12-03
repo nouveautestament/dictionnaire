@@ -1,1 +1,0 @@
-lar[84696]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> rempart, abri, HDT. <i>1, 98, etc.</i> ; XÉN. <i>An. 7, 8, 13</i>.<p><b>Étym</b>. προμάχομαι.`

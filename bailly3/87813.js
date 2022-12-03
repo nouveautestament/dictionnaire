@@ -1,1 +1,0 @@
-lar[87813]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> de fièvre, fébrile, PTOL. <i>Tetr. 85</i>.<p><b>Étym</b>. πυρετός.`

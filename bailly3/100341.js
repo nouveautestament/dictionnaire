@@ -1,1 +1,0 @@
-lar[100341]=`<b>τρί·πατρος, ος, ον</b> <font color="purple">[ῐᾰ]</font> né de trois pères, LYC. <i>328</i>.<p><b>Étym</b>. τρ. πατήρ.`

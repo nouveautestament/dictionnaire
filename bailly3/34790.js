@@ -1,1 +1,0 @@
-lar[34790]=`<b>ἐν·νοσσο·ποιέομαι-οῦμαι</b>, faire son nid dans, JOS. <i>Macc. 14</i>.`

@@ -1,1 +1,0 @@
-lar[85621]=`<b>*προσ·εξηγέομαι-οῦμαι</b>, exposer <i>ou</i> expliquer en outre, SPT. <i>2Macc. 15, 11</i>.`

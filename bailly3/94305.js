@@ -1,1 +1,0 @@
-lar[94305]=`<b>συμ·ποίμην, ενος (ὁ)</b> pasteur avec un autre, NAZ. <i>1, 824 ; 2, 457 ; 3, 1176 Migne</i>.`

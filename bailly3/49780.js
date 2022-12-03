@@ -1,1 +1,0 @@
-lar[49780]=`<b>ἰσο·φέριστος, ος, ον</b> <font color="purple">[ῑσο]</font> égal au meilleur, également excellent, NAZ. <i>3, 401 Migne</i>.<p><b>Étym</b>. ἴ. φέριστος.`

@@ -1,1 +1,0 @@
-lar[42245]=`<b>εὐθύ·καυλος, ος, ον</b> <font color="purple">[ῠ]</font> à la tige droite, TH. <i>H.P. 7, 8, 2</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>H.P. 6, 4, 5</i>.<p><b>Étym</b>. εὐ. καυλός.`

@@ -1,1 +1,0 @@
-lar[39545]=`<b>ων (τὰ)</b> <font color="purple">[φᾰ]</font> les Épiphanéies, <i>n. d’une fête (litt</i>. fête de l’apparition) CARYST. (ATH. <i>542e</i>).<p><b>Étym</b>. ἐπιφανής.`

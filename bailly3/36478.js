@@ -1,1 +1,0 @@
-lar[36478]=`<b>Ἐπ·άκτιος, ου (ὁ)</b> le dieu qui réside au bord de la mer (Apollon), ORPH. <i>Arg. 1306</i> ; A.RH. <i>1, 403</i>.<p><b>Étym</b>. <i>v</i>. ἐπάκτιος.`

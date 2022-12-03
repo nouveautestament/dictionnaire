@@ -1,1 +1,0 @@
-lar[80654]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> errant, nomade, STR. <i>345</i>.<br><b>      2</b> instable, irrégulier, ARSTT. <i>Probl. 26, 2</i>.<p><b>Étym</b>. πλανάω.`

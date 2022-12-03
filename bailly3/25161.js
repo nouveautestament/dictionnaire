@@ -1,1 +1,0 @@
-lar[25161]=`<b>έως (ὁ)</b> qui partage, distributeur, PLUT. <i>Cim. 9</i> ; POLYEN <i>1, 34, 2</i>.<p><b>Étym</b>. διανέμω.`

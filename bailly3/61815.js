@@ -1,1 +1,0 @@
-lar[61815]=`<b>ου (ὁ)</b> sang mêlé de poussière, ANTH. <i>9, 323</i> ; PHIL. (GAL. <i>13, 608).</i><p><b>Étym</b>. <i>cf</i>. λύθρον.`

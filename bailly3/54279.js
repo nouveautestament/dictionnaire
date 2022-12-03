@@ -1,1 +1,0 @@
-lar[54279]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Kaykos, <i>fl. de Mysie,</i> A. PL. <i>110</i>.`

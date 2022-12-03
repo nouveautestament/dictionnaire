@@ -1,1 +1,0 @@
-lar[30885]=`<b>εἰσ·πτύω</b>, cracher sur, <i>dat</i>. ARSTT. <i>H.A. 9, 7, 5</i>.`

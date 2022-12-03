@@ -1,1 +1,0 @@
-lar[78039]=`<b>πεντά·σκαλμος, ος, ον</b>, à cinq bancs de rameurs de chaque côté, EPHIPP. (ATH. <i>347b</i>).<p><b>Étym</b>. π. σκαλμός.`

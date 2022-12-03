@@ -1,1 +1,0 @@
-lar[58093]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> κατανάγκη, DIOSC. <i>4, 134</i>.`

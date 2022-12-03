@@ -1,1 +1,0 @@
-lar[42389]=`<b>εὐ·κατανόητος, ος, ον</b>, facile à comprendre, POL. <i>18, 13, 11</i> ; PTOL. <i>Math. synt. 1 p. 37, 24 Halm</i>.<p><b>Étym</b>. εὖ, κατανοέω.`

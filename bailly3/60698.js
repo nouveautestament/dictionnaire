@@ -1,1 +1,0 @@
-lar[60698]=`<b>λεω·λογέω-ῶ</b>, faire le recensement de la population, PHŒN. COL. (ATH. <i>530e</i>).<p><b>Étym</b>. λ. λόγος.`

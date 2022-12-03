@@ -1,1 +1,0 @@
-lar[103350]=`<b>ὑπο·κείρω :<br>      1</b> tondre <i>ou</i> rogner en dessous, EL. <i>N.A. 6, 41, 17, 17</i>.<br><b>      2</b> ronger secrètement <i>ou</i> peu à peu, <i>acc</i>. PLUT. <i>M. 829a</i>.`

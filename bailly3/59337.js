@@ -1,1 +1,0 @@
-lar[59337]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Labienus, <i>n. d’h. rom</i>. PLUT. <i>Ant. 28, etc</i>.`

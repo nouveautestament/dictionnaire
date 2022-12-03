@@ -1,1 +1,0 @@
-lar[3146]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> très petit, DÉM. <i>1292, 4</i> ; ARSTT. <i>H.A. 8, 2, 11</i> ; DH. <i>8, 70</i>.<p><b>Étym</b>. ἀκαρής.`

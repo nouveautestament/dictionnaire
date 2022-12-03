@@ -1,1 +1,0 @@
-lar[58641]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Cyllène, ORPH. <i>Lith. 548</i>.<p><b>Étym</b>. Κυλλήνη.`

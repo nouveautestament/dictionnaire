@@ -1,1 +1,0 @@
-lar[50551]=`<b>καινο·λογία, ας (ἡ)</b> langage nouveau, nouvelle manière de s’exprimer, POL. <i>38, 1, 1</i> ; DH. <i>5, 458 Reiske</i> ; PLUT. <i>M. 1068d</i>.<p><b>Étym</b>. κ. λόγος.`

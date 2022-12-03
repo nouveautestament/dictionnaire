@@ -1,1 +1,0 @@
-lar[39345]=`<b>ος, ον</b>, mouillé à la surface, humecté, HPC. <i>Art. 830</i> ; GAL. <i>18, 712</i>.<p><b>Étym</b>. ἐπιτέγγω.`

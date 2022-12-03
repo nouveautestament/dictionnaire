@@ -1,1 +1,0 @@
-lar[108100]=`<b>ου (ὁ)</b> Kheirédios, <i>orateur athénien,</i> ANTH. <i>7, 573</i>.`

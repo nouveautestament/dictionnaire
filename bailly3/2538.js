@@ -1,1 +1,0 @@
-lar[2538]=`<b>αἱματη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui apporte du sang, sanglant, ESCHL. <i>Sept. 419</i>.<p><b>Étym</b>. αἷμα, φέρω.`

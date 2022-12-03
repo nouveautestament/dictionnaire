@@ -1,1 +1,0 @@
-lar[80988]=`<i>ou</i> <b>Πλημύριον, ου (τὸ)</b> <font color="purple">[ῡ]</font> Plèmmyrion <i>ou</i> Plèmyrion (<i>auj</i>. Plemmirio <i>ou</i> Capo Murro di Porco) <i>promont. de Sicile,</i> THC. <i>7, 4 et 36</i>.`

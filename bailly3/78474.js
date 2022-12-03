@@ -1,1 +1,0 @@
-lar[78474]=`<b>περι·βύω</b>, boucher <i>ou</i> bourrer tout autour, LUC. <i>Gall. 11</i>.`

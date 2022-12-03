@@ -1,1 +1,0 @@
-lar[28349]=`<b>δυσ·εκλήπτως</b> <font color="purple">[ῠ]</font> <i>adv</i>., de façon à être pris difficilement, GAL. <i>6, 527</i>.<p><b>Étym</b>. δ. ἐκλαμβάνω.`

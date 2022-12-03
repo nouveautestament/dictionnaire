@@ -1,1 +1,0 @@
-lar[22924]=`<b>εως (ἡ)</b> le fait de devenir résineux, TH. <i>C.P. 5, 11, 3</i>.<p><b>Étym</b>. δᾳδόω.`

@@ -1,1 +1,0 @@
-lar[93704]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡῐδ]</font> marcotte de figuier, AR. <i>Ach. 996, fr. 340 Dind</i>.<p><b>Étym</b>. συκῆ.`

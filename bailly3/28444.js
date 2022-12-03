@@ -1,1 +1,0 @@
-lar[28444]=`<i>adv</i>., paresseusement, péniblement, PLUT. <i>Demetr. 43</i>.`

@@ -1,1 +1,0 @@
-lar[46966]=`<b>ου (ὁ)</b> = <i>lat</i>. Thermus, <i>surn. des membres de la gens Minucia</i> (Μινύκιος Θέρμος) à Rome, PLUT. <i>Cato mi. 27</i>.`

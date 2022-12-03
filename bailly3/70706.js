@@ -1,1 +1,0 @@
-lar[70706]=`<b>οἰστρηλατέω-ῶ</b> <font color="purple">[ᾰ]</font> transporter de fureur, de désir, PLUT. <i>M. 1153</i>.<p><b>Étym</b>. οἰστρήλατος.`

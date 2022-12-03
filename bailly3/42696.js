@@ -1,1 +1,0 @@
-lar[42696]=`<b>Εὔ·μητις, ιδος</b>, <i>acc</i>. <b>-ιν (ἡ)</b> Eumètis, <i>f</i>. PLUT. <i>Sept. sap. conv. titre, etc</i>.<p><b>Étym</b>. <i>cf</i>. εὔμητις.`

@@ -1,1 +1,0 @@
-lar[61077]=`<b>λιθο·σπαδής, ής, ές</b> <font color="purple">[ῐᾰ]</font> fait en arrachant des pierres, SOPH. <i>Ant. 1216</i>.<p><b>Étym</b>. λ. σπάω.`

@@ -1,1 +1,0 @@
-lar[86392]=`<b>προσ·ρίπτω</b>, jeter <i>ou</i> lancer à, <i>rég. ind. au dat</i>. PLUT. <i>Cato mi. 24</i> ; ATH. <i>114a ; fig</i>. ὄνειδός τινι, POL. <i>17, 14, 1,</i> lancer un outrage à qqn ; τοὺς στρατηγοὺς τοῖς πολεμίοις γυμνούς, PLUT. <i>T. Gracch. 7,</i> lancer les généraux sans ressources (<i>litt</i>. nus) contre l’ennemi ; <i>au pass</i>. PLUT. <i>Pomp. 74, etc</i>.`

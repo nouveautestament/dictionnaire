@@ -1,1 +1,0 @@
-lar[64607]=`<b>α, ον</b>, de Messapie, <i>en Béotie,</i> THC. <i>7, 33</i> :<br><b>      1</b> οἱ Μεσσάπιοι, HDT. <i>7, 170,</i> les Messapies.<br><b>      2</b> οἱ Μεσσάπιοι, THC. <i>3, 101,</i> les Messapies, <i>pple de Locride</i>.<p><b>Étym</b>. <i>v</i>. Μεσσαπία, Μεσσάπιον.`

@@ -1,1 +1,0 @@
-lar[70109]=`<b>ήεσσα, ῆεν</b>, qui exhale une odeur, NIC. <i>Al. 437</i>.<p><b>Étym</b>. ὀδμή.`

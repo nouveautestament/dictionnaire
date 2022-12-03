@@ -1,1 +1,0 @@
-lar[29256]=`<b>ἐαρο·τρεφής, ής, ές</b> <font color="purple">[ᾰ]</font> nourri par le printemps, printanier, ORPH. <i>Lith. 610</i> ; MOSCH. <i>2, 67</i>.<p><b>Étym</b>. ἔαρ, τρέφω.`

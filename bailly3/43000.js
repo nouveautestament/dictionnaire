@@ -1,1 +1,0 @@
-lar[43000]=`<b>Εὐ·πετάλη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Eupétalè, <i>nourrice de Bacchus,</i> NONN. <i>D. 14, 221, 398, etc</i>.<p><b>Étym</b>. <i>cf</i>. εὐπέταλος.`

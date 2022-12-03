@@ -1,1 +1,0 @@
-lar[73068]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> poussin, poulet, STRATT. (ATH. <i>622a</i>) ; THCR. <i>Idyl. 13, 12</i>.<br><b>      2</b> <i>p. ext</i>. jeune oiseau, ESCHL. <i>Ag. 54</i> ; OPP. <i>H. 5, 579</i>.<br><b>      3</b> <i>p. ext</i>. jeune animal, SOPH. <i>fr. 962</i>.<p><b>Étym</b>. <i>cf</i>. ὀρταλίς.`

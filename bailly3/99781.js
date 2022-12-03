@@ -1,1 +1,0 @@
-lar[99781]=`<b>Τουρδο·σύναγος, ου (ὁ)</b> « Rassembleur de grives, » <i>n. d’h. fictif,</i> ALCIPHR. <i>3, 64</i>.<p><b>Étym</b>. <i>lat</i>. turdus, συνάγω.`

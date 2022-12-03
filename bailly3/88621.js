@@ -1,1 +1,0 @@
-lar[88621]=`<b>ος, ον</b> <font color="purple">[ῑ]</font> des monts Rhipées, ANTH. <i>9, 550</i> ; EL. <i>N.A. 11, 10</i> ; τὰ Ῥιπαῖα, les monts Rhipées <i>ou</i> Rhiphées, A.RH. <i>4, 287</i> ; STR. <i>299</i> ; PLUT. <i>Cam. 15, etc.</i> ; τὸ Ῥιπαῖον ὄρος, CALL. (SCH.-A.RH. <i>4, 284), etc. m. sign</i>.<p><b>Étym</b>. Ῥῖπαι.`

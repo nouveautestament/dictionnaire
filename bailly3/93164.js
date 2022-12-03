@@ -1,1 +1,0 @@
-lar[93164]=`<b>ίτιδος</b> <font color="purple">[ῠᾰῑῐδ]</font> <i>adj. f. c</i>. Συβαρίτης, AR. <i>Vesp. 1438, fr. 3</i> ; THCR. <i>Idyl. 5, 146</i>.`

@@ -1,1 +1,0 @@
-lar[65172]=`<b>ας (ἡ) :<br>      1</b> changement de résidence, émigration, ANTH. <i>7, 731</i>.<br><b>      2</b> déportation, transportation, SPT. <i>2Reg. 24, 16</i> ; NT. <i>Matth. 1, 11</i>.<p><b>Étym</b>. μετοικέω.`

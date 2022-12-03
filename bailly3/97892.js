@@ -1,1 +1,0 @@
-lar[97892]=`<b>ταχυ·δρόμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui court rapidement, ORPH. <i>H. 26, 3</i> ; ES. <i>157 Halm</i>.<p><b>Étym</b>. τ. δραμεῖν.`

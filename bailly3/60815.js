@@ -1,1 +1,0 @@
-lar[60815]=`<b>ῶν (αἱ)</b> les Bacchantes, DP. <i>702, 1155</i> ; STR. <i>468</i> ; ANTH. <i>9, 248</i>.<p><b>Étym</b>. <i>inconnue ; probabl. non apparenté à</i> ληνός.`

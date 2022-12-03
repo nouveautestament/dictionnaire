@@ -1,1 +1,0 @@
-lar[94052]=`<b>συμ·παλαίω</b> <font color="purple">[πᾰ]</font> lutter avec <i>ou</i> ensemble, PLUT. <i>Alc. 4, M. 52c ;</i> GAL. <i>6, 316</i>.`

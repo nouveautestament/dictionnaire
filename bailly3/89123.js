@@ -1,1 +1,0 @@
-lar[89123]=`<b>σακεσ·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> porteur d’un bouclier, SOPH. <i>Aj. 19</i> ; EUR. <i>Ph. 139</i>.<p><b>Étym</b>. σάκος¹, φέρω.`

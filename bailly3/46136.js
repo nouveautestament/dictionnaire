@@ -1,1 +1,0 @@
-lar[46136]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> femme de chambre, ANON.<p><b>Étym</b>. <i>Cram. 2, 376</i>.`

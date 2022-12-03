@@ -1,1 +1,0 @@
-lar[22759]=`<b>ας (ἡ) :<br>      1</b> nudité, CORN. <i>p. 162</i>.<br><b>      2</b> troupes légères, THC. <i>7, 37 (corr. p</i>. -τία).<p><b>Étym</b>. γυμνητεύω.`

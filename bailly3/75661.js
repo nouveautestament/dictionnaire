@@ -1,1 +1,0 @@
-lar[75661]=`<b>παρα·καθέζομαι</b>, s’asseoir <i>ou</i> se tenir assis à côté de, auprès de, <i>dat</i>. PLUT. <i>Artax. 26 ; postér. au pass. (ao</i>. παρακαθεσθείς) être invité <i>ou</i> contraint à s’asseoir auprès, JOS. <i>A.J. 6, 11, 9</i>.`

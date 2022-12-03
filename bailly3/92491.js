@@ -1,1 +1,0 @@
-lar[92491]=`<b>στεφανο·ποιός, οῦ (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui fait des couronnes, ARSTT. <i>M. mor. 2, 7, 30</i>.<p><b>Étym</b>. στέφανος, ποιέω.`

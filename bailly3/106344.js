@@ -1,1 +1,0 @@
-lar[106344]=`<b>φλεγμ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui entraîne les humeurs, GAL. <i>10, 463 ; 14, 326, 758</i> ; RUF. (ORIB. <i>2, 276</i>) ; A. TR. <i>11, 613</i>.<p><b>Étym</b>. φλέγμα, ἄγω.`

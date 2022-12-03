@@ -1,1 +1,0 @@
-lar[62269]=`<b>μαγ·ῳδός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> acteur bouffon, <i>qui jouait des rôles d’homme en habit de femme,</i> ATH. <i>620e, 624c</i>.<p><b>Étym</b>. μάγος, ᾠδή.`

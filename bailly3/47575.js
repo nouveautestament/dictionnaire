@@ -1,1 +1,0 @@
-lar[47575]=`<b>θρασύ·δειλος, ος, ον</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> poltron qui fait le brave, ARSTT. <i>Nic. 3, 7, 9</i>.<br><b>      2</b> <i>subst</i>. ὁ θρ. (<i>s.-e</i>. λίθος) sorte de pierre dans l’Eurotas, PLUT. <i>M. 1158b</i>.<p><b>Étym</b>. θρ. δειλός.`

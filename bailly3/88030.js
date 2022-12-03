@@ -1,1 +1,0 @@
-lar[88030]=`<b>ου (τὸ)</b> Pyrsophion, <i>lieu de Chalcis,</i> PLUT. <i>Qu. gr. 33</i>.`

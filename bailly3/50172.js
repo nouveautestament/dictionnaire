@@ -1,1 +1,0 @@
-lar[50172]=`<b>ων (οἱ)</b> Kabales, <i>pple de Libye,</i> HDT. <i>4, 171</i> (<i>var</i>. βάκαλες).`

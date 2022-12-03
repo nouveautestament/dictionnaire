@@ -1,1 +1,0 @@
-lar[65786]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> <i>c</i>. ἧλιξ, HERMIPP. <i>fr. 34 Mein</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. μέλλαξ.`

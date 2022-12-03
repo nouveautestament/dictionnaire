@@ -1,1 +1,0 @@
-lar[72751]=`<b>ὀρθο·στάδην</b> <font color="purple">[ᾰ]</font> <i>adv</i>., en se tenant droit, debout, ESCHL. <i>Pr. 32</i> ; EL. <i>N.A. 4, 31 ; particul. en parl. de malades qui ne gardent pas le lit, p. opp. à</i> κατακείμενος, HPC. <i>938e, etc</i>.<p><b>Étym</b>. ὀ. ἵστημι, -δην.`

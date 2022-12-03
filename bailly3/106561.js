@@ -1,1 +1,0 @@
-lar[106561]=`<b>φοινικο·γενής, ής, ές</b> <font color="purple">[ῑ]</font> né en Phénicie, phénicien, EUR. <i>fr. 2, 1</i>.<p><b>Étym</b>. Φοῖνιξ, γένος.`

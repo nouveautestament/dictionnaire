@@ -1,1 +1,0 @@
-lar[41744]=`<b>εὐ·γάληνος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait calme, LYC. <i>20</i>.<p><b>Étym</b>. εὖ, γαλήνη.`

@@ -1,1 +1,0 @@
-lar[63968]=`<b>ή, όν</b>, qu’on apprend par la pratique, PLAT. <i>Clit. 407b</i>.<p><b>Étym</b>. <i>vb. de</i> μελετάω.`

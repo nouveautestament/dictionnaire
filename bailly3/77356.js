@@ -1,1 +1,0 @@
-lar[77356]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> πατήρ, AR. <i>Vesp. 986</i> ; XÉNARQ. (<i>Com. fr. 3, 617) etc</i>.`

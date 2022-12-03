@@ -1,1 +1,0 @@
-lar[50775]=`<b>κακο·μηδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui médite le mal, fourbe, HH. <i>Merc. 389</i>.<p><b>Étym</b>. κ. μήδομαι.`

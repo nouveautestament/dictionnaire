@@ -1,1 +1,0 @@
-lar[10847]=`<b>ἀν·ωνόμαστος, ος, ον</b>, qu’on ne peut nommer <i>ou</i> décrire, EUR. <i>Hec. 714</i> ; AR. <i>Av. 1715 ; cf</i>. ἀνονόμαστος.`

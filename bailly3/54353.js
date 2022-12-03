@@ -1,1 +1,0 @@
-lar[54353]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. καυχήμων PTOL. <i>Tetr. 159</i>.<p><b>Étym</b>. καύχημα.`

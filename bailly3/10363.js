@@ -1,1 +1,0 @@
-lar[10363]=`<b>ἀντι·ρρέπω</b>, faire contrepoids, ESCHL. <i>Ag. 574</i>.<p><b>Étym</b>. ἀ. ῥέπω.`

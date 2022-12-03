@@ -1,1 +1,0 @@
-lar[48088]=`<b>άδος</b>, <i>adj. f</i>. relatif au sacrifice, ESCHL. <i>Sept. 269</i> ; SOPH. <i>Ant. 1019</i>.<p><b>Étym</b>. θύω¹.`

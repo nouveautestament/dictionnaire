@@ -1,1 +1,0 @@
-lar[12945]=`<i>adv.</i> :<br><b>      1</b> avec désespoir, XÉN. <i>Hell. 7, 2, 8</i> ; ISOCR. <i>131d ;</i> LUC. <i>D. mort. 19, 2, etc.</i><br><b>      2</b> avec une répugnance obstinée, HPC.<p><b>Étym</b>. ἀπονοέομαι.`

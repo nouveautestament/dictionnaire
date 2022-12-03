@@ -1,1 +1,0 @@
-lar[2499]=`<font color="darkgreen">(<i>seul. prés. et impf</i>. ᾔκαλλον)</font> caresser, flatter, <i>en parl. d’un esclave à l’égard de son maître, acc</i>. AR. <i>Eq. 48 ; fig</i>. AR. <i>Eq. 211, etc</i>. (αἴκαλος, flatteur, HSCH.).`

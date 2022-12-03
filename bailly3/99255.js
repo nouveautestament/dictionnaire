@@ -1,1 +1,0 @@
-lar[99255]=`<b>Τιμο·νόη, ης (ἡ)</b> <font color="purple">[ῑ]</font> Timonoè, <i>f</i>. ANTH. <i>7, 522</i>.<p><b>Étym</b>. <i>v</i>. Τιμόνοος.`

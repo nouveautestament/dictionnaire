@@ -1,1 +1,0 @@
-lar[90056]=`<b>οῦς (ἡ)</b> Sthénô, <i>une des Gorgones,</i> Ps.-PLUT. <i>Fluv. 18, 6</i>.<p><b>Étym</b>. σθένος.`

@@ -1,1 +1,0 @@
-lar[10866]=`<b>α, ον</b>, plus haut, supérieur, ARSTT. <i>H.A. 1, 17, 13</i> ; DH. <i>Rhet. 1 fin</i>.<p><b>Étym</b>. <i>cp. dérivé de</i> ἄνω².`

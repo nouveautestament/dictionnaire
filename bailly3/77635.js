@@ -1,1 +1,0 @@
-lar[77635]=`<b>ή, όν :</b> du Pirée, PLUT. <i>Thes. 27, Syll. 14</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 164, 33 (un peu après 334 ans av. J.-C.) ; v. Meisterh. p. 26, 8</i>.<p><b>Étym</b>. Πειραιεύς.`

@@ -1,1 +1,0 @@
-lar[4143]=`<font color="darkgreen">(<i>seul. part. prés</i>. ἀλδόμενος</font>) croître, Q. SM. <i>9, 475</i>.<p><b>Étym</b>. <i>cf</i>. ἀλδαίνω.`

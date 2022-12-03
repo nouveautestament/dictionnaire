@@ -1,1 +1,0 @@
-lar[21979]=`<b>ας (ἡ)</b> <font color="purple">[γῐ]</font> la guerre des Géants, PHILSTR. <i>518</i>.<p><b>Étym</b>. γίγας.`

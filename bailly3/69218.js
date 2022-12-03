@@ -1,1 +1,0 @@
-lar[69218]=`<b>ου (ὁ)</b> Nymphidius, <i>h</i>. PLUT. <i>Galb. 8</i>.<p><b>Étym</b>. <i>v</i>. νυμφίδιος.`

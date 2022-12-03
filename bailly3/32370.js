@@ -1,1 +1,0 @@
-lar[32370]=`<b>ἐκφυσιάω-ῶ</b> <font color="purple">[ῡ]</font> faire sortir en soufflant, exhaler, ESCHL. <i>Ag. 1389</i>.<p><b>Étym</b>. ἐκφυσάω.`

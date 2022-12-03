@@ -1,1 +1,0 @@
-lar[44466]=`<b>ίτιδος</b> <font color="purple">[ῑτ]</font> <i>fém. de</i> ζευγίτης, accouplée, CALL. <i>Ap. 47</i>.`

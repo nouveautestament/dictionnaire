@@ -1,1 +1,0 @@
-lar[45344]=`<b>ἡμερο·λογέω-ῶ</b>, compter jour par jour, <i>acc</i>. HDT. <i>1, 47</i>.<p><b>Étym</b>. ἡ. -λογος <i>de</i> λέγω.`

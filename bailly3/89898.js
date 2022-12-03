@@ -1,1 +1,0 @@
-lar[89898]=`<b>ῶν (οἱ)</b> sorte de démons, CORN. <i>N.D. 30</i>.`

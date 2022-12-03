@@ -1,1 +1,0 @@
-lar[58632]=`rendre tortu, difforme, SOPH. <i>fr. 619 Dind</i>.<p><b>Étym</b>. κυλλός.`

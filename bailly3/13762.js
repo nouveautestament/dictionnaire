@@ -1,1 +1,0 @@
-lar[13762]=`<b>ἀπο·φυάς, άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> appendice, dépendance, ramification, ARSTT. <i>H.A. 2, 17, 15, etc.</i> ; TH. <i>H.P. 7, 2, 5 ; particul</i>. ramification d’une veine, ARSTT. <i>P.A. 3, 5, 4 ; cf</i>. ἀπόφυσις.`

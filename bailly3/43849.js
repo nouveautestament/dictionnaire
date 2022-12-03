@@ -1,1 +1,0 @@
-lar[43849]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> bon courage, courage, assurance, ESCHL. <i>Pers. 326</i> ; THC. <i>1, 121, etc. ; p. opp. à</i> κακοψυχία, PLAT. <i>Leg. 791c ; joint à</i> ἀνδρεία, DÉM. <i>1408, 15 ; au plur</i>. POL. <i>2, 69, 5 ; 11, 24, 6</i>.<p><b>Étym</b>. εὔψυχος.`

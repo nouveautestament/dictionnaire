@@ -1,1 +1,0 @@
-lar[101725]=`<b>Ὑλλαϊκὸς λιμήν (ὁ)</b> le port Hyllaïkos <i>à Corcyre,</i> THC. <i>3, 72, 81</i>.<p><b>Étym</b>. <i>cf</i>. Ὑλλικός.`

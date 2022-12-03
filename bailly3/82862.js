@@ -1,1 +1,0 @@
-lar[82862]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> Porphyris, <i>f</i>. ANTH. <i>6, 172</i>.<p><b>Étym</b>. <i>v</i>. πορφυρίς.`

@@ -1,1 +1,0 @@
-lar[57571]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> casque, HDT. <i>7, 63</i> ; ESCHL. <i>Sept. 459</i> ; EUR. <i>El. 470</i> ; AR. <i>Ach. 584, etc.</i> ; XÉN. <i>An. 1, 2, 16</i> ; PLUT. <i>M. 789d.</i><br><b>      2</b> couverture (de lit) ARÉT. <i>Caus. m. diut. 2, 6</i>.<p><b>Étym</b>. <i>cf</i>. κάρα.`

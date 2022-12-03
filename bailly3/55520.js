@@ -1,1 +1,0 @@
-lar[55520]=`<font color="purple">[ᾰᾰ]</font> avoir la couleur du cinabre, DIOSC. <i>5, 87 et 121</i>.<p><b>Étym</b>. κιννάβαρις.`

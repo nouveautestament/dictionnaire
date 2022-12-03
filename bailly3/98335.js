@@ -1,1 +1,0 @@
-lar[98335]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾰ]</font> prestige, duperie, AR. <i>Lys. 762</i> ; DH. <i>2, 19, etc</i>.<p><b>Étym</b>. τερατεύομαι.`

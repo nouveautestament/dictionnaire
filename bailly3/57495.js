@@ -1,1 +1,0 @@
-lar[57495]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> criard, <i>en parl. du geai,</i> PD. <i>N. 3, 143</i> ; PHILSTR. <i>870</i>.<p><b>Étym</b>. κράζω.`

@@ -1,1 +1,0 @@
-lar[87884]=`<b>πυρι·μανέω-ῶ</b> <font color="purple">[ῠῐᾰ]</font> se répandre en flammes impétueuses, PLUT. <i>Alex. 35 dout</i>.<p><b>Étym</b>. π. μαίνομαι.`

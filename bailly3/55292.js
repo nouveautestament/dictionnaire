@@ -1,1 +1,0 @@
-lar[55292]=`<b>κηρό·χρως, ωτος (ὁ, ἡ)</b> qui a la couleur de la cire, CHÆRÉM. (ATH. <i>608d</i>).<p><b>Étym</b>. κηρός, χρώς.`

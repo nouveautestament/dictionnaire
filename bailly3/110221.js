@@ -1,1 +1,0 @@
-lar[110221]=`<b>α, ον</b>, placé près du coude : ὠλενία αἴξ, ARAT. <i>164,</i> la Chèvre, <i>constellation située près du coude du Cocher</i>.<p><b>Étym</b>. ὠλένη.`

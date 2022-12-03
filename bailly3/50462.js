@@ -1,1 +1,0 @@
-lar[50462]=`<b>καθ·ορμάω-ῶ</b> <font color="purple">[κᾰ]</font> s’élancer, ANTH. <i>App. 52</i>.<p><b>Étym</b>. κ. ὁρμάω.`

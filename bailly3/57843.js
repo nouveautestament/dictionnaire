@@ -1,1 +1,0 @@
-lar[57843]=`<b>κρησερίτης ἄρτος (ὁ)</b> pain de farine tamisée, DIPH. (ATH. <i>111e</i>).<p><b>Étym</b>. κρησέρα.`

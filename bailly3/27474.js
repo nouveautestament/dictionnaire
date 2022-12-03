@@ -1,1 +1,0 @@
-lar[27474]=`<b>εως (ἡ)</b> meurtre par ruse, assassinat par trahison, APP. <i>Syr. 69</i>.<p><b>Étym</b>. δολοφονέω.`

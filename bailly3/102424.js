@@ -1,1 +1,0 @@
-lar[102424]=`<b>ὑπερ·εκπλήσσω</b>, <i>att</i>. <b>ὑπερ·εκπλήττω</b>, étonner outre mesure, JOS. <i>A.J. 8, 6, 4 ; d’où au pass</i>. être frappé, au delà de toute expression, de surprise <i>ou</i> de stupeur : τι, LUC. <i>Rh. præc. 13, Dom. 3</i> ; ἐπί τινι, XÉN. <i>Cyr. 1, 4, 25,</i> devant qqe ch. ; τινα, DÉM. <i>19, 16,</i> devant qqn ; <i>abs</i>. PLUT. <i>M. 870b, etc</i>.`

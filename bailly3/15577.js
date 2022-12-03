@@ -1,1 +1,0 @@
-lar[15577]=`<b>Ἀρχί·βιος, ου (ὁ)</b> <font color="purple">[χῐ]</font> Arkhibios, <i>h</i>. LUC. <i>Gall. 10, etc</i>.<p><b>Étym</b>. ἄρχω, βίος.`

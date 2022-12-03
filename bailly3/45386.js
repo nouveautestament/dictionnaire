@@ -1,1 +1,0 @@
-lar[45386]=`<b>ἡμι·βαφής, ής, ές</b> <font color="purple">[ῐᾰ]</font> à demi trempé, NONN. <i>D. 1, 358</i>.<p><b>Étym</b>. ἡμι-, βάπτω.`

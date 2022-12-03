@@ -1,1 +1,0 @@
-lar[87742]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> <i>poét. c</i>. σπύραθος, NIC. <i>Th. 932</i>.`

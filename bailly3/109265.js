@@ -1,1 +1,0 @@
-lar[109265]=`<b>χρυσο·στέφανος, ος, ον</b> <font color="purple">[ῡᾰ]</font> à la couronne d’or, <i>d’où</i> :<br><b>      1</b> couronné d’or, HH. <i>5, 1</i> ; HÉS. <i>Th. 17, 136</i> ; PD. <i>O. 6, 57</i> ; EUR. <i>Ion 1085, etc.</i><br><b>      2</b> dont le prix est une couronne d’or, PD. <i>O. 8, 1</i>.<p><b>Étym</b>. χρ. στέφανος.`

@@ -1,1 +1,0 @@
-lar[11819]=`<b>ἀπ·έρωτος, ος</b>, qui n’est plus de l’amour, ESCHL. <i>Ch. 600</i>.<p><b>Étym</b>. ἀπό, ἔρως.`

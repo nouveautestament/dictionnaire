@@ -1,1 +1,0 @@
-lar[25784]=`<b>ος, ον</b>, changeant, mobile, EUR. <i>I.A. 560</i>.<p><b>Étym</b>. διατρέπω.`

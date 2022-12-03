@@ -1,1 +1,0 @@
-lar[83940]=`<b>προ·διαριθμέω-ῶ</b>, dénombrer auparavant, APOLL. <i>p. 9 Dietz</i>.`

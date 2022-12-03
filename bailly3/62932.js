@@ -1,1 +1,0 @@
-lar[62932]=`<b>ης (ἡ)</b> Martha :<br><b>      1</b> <i>prophétesse syrienne,</i> PLUT. <i>Mar. 17</i>.<br><b>      2</b> <i>n. de f. hébreu,</i> NT. <i>Luc. 19, 38</i> ; ANTH. <i>15, 40</i>.<p>➳ <i>Ion</i>. Μάρθη, ANTH. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[15136]=`<b>ας (ἡ)</b> air mâle <i>ou</i> viril, PLAT. <i>Conv. 192a</i>.<p><b>Étym</b>. ἀρρενωπός.`

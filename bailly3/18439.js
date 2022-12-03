@@ -1,1 +1,0 @@
-lar[18439]=`<b>οντος (ὁ)</b> <font color="purple">[ᾰ]</font> Akhérôn (Achéron) :<br><b>      1</b> <i>fl. des enfers,</i> OD. <i>10, 513</i> ; PLAT. <i>Ax. 371b, etc.</i><br><b>      2</b> <i>fl. de Thesprotie,</i> THC. <i>1, 46</i>.<br><b>      3</b> <i>autres,</i> ORPH. A.RH. <i>etc</i>.<p><b>Étym</b>. <i>incertaine</i>.`

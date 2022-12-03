@@ -1,1 +1,0 @@
-lar[15492]=`<b>ας (ἡ)</b> légende <i>ou</i> histoire de l’antiquité, PLAT. <i>Hipp. ma. 285d ;</i> DS. <i>2, 46, etc</i>.`

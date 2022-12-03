@@ -1,1 +1,0 @@
-lar[37002]=`<b>ἐπ·εισπηδάω-ῶ</b>, s’élancer dans pour tomber sur, XÉN. <i>Cyr. 3, 3, 64 ; abs</i>. AR. <i>Eq. 363</i> ; DÉM. <i>1156, 8 ; dat</i>. PHILSTR. <i>18</i>.`

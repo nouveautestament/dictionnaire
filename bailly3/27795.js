@@ -1,1 +1,0 @@
-lar[27795]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de dragon, ANTH. <i>12, 257</i> ; A. PL. <i>4, 90</i>.<br><b>      2</b> habité par des dragons, EUR. <i>Ph. 1320</i>.<p><b>Étym</b>. δράκων.`

@@ -1,1 +1,0 @@
-lar[21046]=`<b>η, ον</b>, fait du lin le plus fin (bandage, HDT. <i>2, 86, etc.</i> ; vêtement, ESCHL. <i>Pers. 125</i> ; SOPH. <i>fr. 342</i> ; ATH. <i>255c</i>).<p><b>Étym</b>. βύσσος.`

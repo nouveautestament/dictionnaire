@@ -1,1 +1,0 @@
-lar[52518]=`<b>εως (ἡ)</b> <font color="purple">[ρᾰ]</font> mélange, ARSTT. <i>G.A. 1, 18, 18</i>.<p><b>Étym</b>. κατακεράννυμι.`

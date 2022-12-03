@@ -1,1 +1,0 @@
-lar[109893]=`<b>ψολο·κομπία, ας (ἡ)</b> <i>litt</i>. « jactance enveloppée de fumée », vaine jactance, <i>par jeu de mots avec</i> ψολόεις κεραυνός, AR. <i>Eq. 696</i>.<p><b>Étym</b>. ψόλος, κόμπος.`

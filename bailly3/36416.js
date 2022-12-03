@@ -1,1 +1,0 @@
-lar[36416]=`<b>ή, όν :<br>      1</b> qui loue volontiers, porté à louer, ARSTT. <i>Nic. 4, 8, 31</i>.<br><b>      2</b> qui concerne l’éloge, laudatif, LUC. <i>Im. 19</i>.<p><b>Étym</b>. ἐπαινέω.`

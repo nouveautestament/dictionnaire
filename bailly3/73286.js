@@ -1,1 +1,0 @@
-lar[73286]=`<b>ὀστο·θήκη, ης (ἡ)</b> urne pour les ossements d’un mort, LYC. <i>367</i>.<p><b>Étym</b>. ὀστέον, θήκη.`

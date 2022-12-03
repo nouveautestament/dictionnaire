@@ -1,1 +1,0 @@
-lar[16813]=`<b>ός, όν</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. déshonoré, méprisé, MIMNERME <i>1, 9</i>.<p><b>Étym</b>. ἀτιμάζω.`

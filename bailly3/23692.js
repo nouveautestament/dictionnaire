@@ -1,1 +1,0 @@
-lar[23692]=`<b>δεκά·πληγος, ου (ὁ</b> <i>et</i> <b>ἡ)</b> les Dix plaies (d’Égypte), <i>au sens collect</i>. SIB. <i>11, 31 (masc</i>.) ; BAS. <i>2, 85c Migne (fém.) ; etc</i>.<p><b>Étym</b>. δ. πληγή.`

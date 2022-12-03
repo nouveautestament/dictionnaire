@@ -1,1 +1,0 @@
-lar[44865]=`<b>ή, όν</b>, d’adolescent, de jeune homme, XÉN. <i>Lac. 4, 7 ; Hell. 5, 3, 20</i>.<p><b>Étym</b>. ἡβάω.`

@@ -1,1 +1,0 @@
-lar[50472]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῠᾰ]</font> guérison, A. CAR. <i>187 conj</i>.<p><b>Étym</b>. κ. *ὑγιάζω.`

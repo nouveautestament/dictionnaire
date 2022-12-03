@@ -1,1 +1,0 @@
-lar[80177]=`<b>ης, ες</b> <font color="purple">[ῑᾰ]</font><br><b>      1</b> rempli de sources, PLUT. <i>Æmil. 14</i>.<br><b>      2</b> <i>p. suite,</i> fécond, fertile, PLUT. <i>M. 496a</i>.<p><b>Étym</b>. πῖδαξ, -ωδης.`

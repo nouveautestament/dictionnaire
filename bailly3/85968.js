@@ -1,1 +1,0 @@
-lar[85968]=`<b>προσ·καταριθμέω-ῶ</b> <font color="purple">[ᾰρ]</font> ajouter à un nombre, PLUT. <i>Marc. 30</i>.`

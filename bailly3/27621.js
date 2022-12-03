@@ -1,1 +1,0 @@
-lar[27621]=`<b>ου (ὁ)</b> chevreuil, DIOSC. <i>2, 85</i>.<p><b>Étym</b>. δόρξ.`

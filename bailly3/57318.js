@@ -1,1 +1,0 @@
-lar[57318]=`<i>(seul. prés.) c</i>. κοτέω, ESCHL. <i>Sept. 485</i>.`

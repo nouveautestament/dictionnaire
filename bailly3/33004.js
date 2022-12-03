@@ -1,1 +1,0 @@
-lar[33004]=`<b>ης, ες</b>, qui ressemble à un ver, ARSTT. <i>H.A. 4, 11, 4</i>.<p><b>Étym</b>. ἕλμινς, -ωδης.`

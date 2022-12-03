@@ -1,1 +1,0 @@
-lar[107753]=`<b>χαμαι·δάφνη, ης (ἡ)</b> <font color="purple">[χᾰ]</font> <i>litt</i>. « laurier nain », <i>n. de la lauréole ou, sel. d’autres, du fragon,</i> TH. <i>H.P. 3, 18, 3</i> ; DIOSC. <i>4, 149</i>.`

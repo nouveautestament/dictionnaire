@@ -1,1 +1,0 @@
-lar[17538]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> pouvoir absolu, souveraineté, DC. <i>67, 12</i>.`

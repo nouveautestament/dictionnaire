@@ -1,1 +1,0 @@
-lar[70715]=`<b>οἰστρο·πλήξ, ῆγος (ὁ, ἡ)</b> atteint de la piqûre d’un taon, <i>p. suite,</i> transporté de fureur <i>ou</i> de désir, ESCHL. <i>Pr. 682</i> ; SOPH. <i>El. 5</i> ; EUR. <i>Bacch. 1229</i>.<p><b>Étym</b>. οἶστρος, πλήσσω.`

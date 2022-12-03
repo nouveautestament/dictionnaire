@@ -1,1 +1,0 @@
-lar[85340]=`<b>οῦ (ὁ)</b> contrainte par la force, ORIB. <i>98 Matthäi</i>.<p><b>Étym</b>. προσβιάζομαι.`

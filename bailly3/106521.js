@@ -1,1 +1,0 @@
-lar[106521]=`<b>(ὁ)</b> Phœbidas, <i>général spartiate,</i> XÉN. <i>Hell. 5, 2, 24, etc.</i> ; PLUT. <i>Pel. 5, etc</i>.<p>➳ <i>Voc</i>. -α, XÉN. <i>Hell. 5, 2, 26 ; gén</i>. α, XÉN. ; ου, PLUT.<p><b>Étym</b>. <i>patr. dor. de</i> Φοῖβος.`

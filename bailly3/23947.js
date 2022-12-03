@@ -1,1 +1,0 @@
-lar[23947]=`<b>ου (ὁ)</b> Derkétæos, <i>h</i>. PLUT. <i>Ant. 78</i>.`

@@ -1,1 +1,0 @@
-lar[25498]=`<b>δια·σαλακωνίζω</b> <font color="purple">[σᾰᾰ]</font> (<i>seul. ao. impér</i>. -ώνισον) avoir une allure efféminée, AR. <i>Vesp. 1169</i>.`

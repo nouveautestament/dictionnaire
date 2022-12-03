@@ -1,1 +1,0 @@
-lar[35562]=`<b>ἐξ·απορρέω</b> <font color="darkgreen">(<i>ao</i>. -απερρύην)</font> s’écouler, EUM. <i>9, p. 349</i>.`

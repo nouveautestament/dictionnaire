@@ -1,1 +1,0 @@
-lar[83841]=`<b>προ·γαστρίδιος, ος, ον</b> <font color="purple">[ῐδ]</font> qui couvre le ventre : <i>subst</i>. τὸ προγαστρίδιον, LUC. <i>Salt. 27,</i> tablier de comédien.<p><b>Étym</b>. π. γαστήρ.`

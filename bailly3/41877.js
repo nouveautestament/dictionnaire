@@ -1,1 +1,0 @@
-lar[41877]=`<b>εὐ·διάσειστος, ος, ον</b>, facile à ébranler, à réfuter, DYSC. <i>Pron. 263b, 386a</i>.<p><b>Étym</b>. εὖ, διασείω.`

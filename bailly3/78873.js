@@ -1,1 +1,0 @@
-lar[78873]=`<b>περι·λείχω :<br>      1</b> lécher tout autour, <i>acc</i>. AR. <i>Pl. 736 ; Pax 231</i> ; LUC. <i>Gall. 14</i>.<br><b>      2</b> ôter <i>ou</i> nettoyer en léchant, <i>acc</i>. ARSTT. <i>H.A. 8, 24, 9</i> ; LUC. <i>Ic. 50</i>.`

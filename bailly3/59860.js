@@ -1,1 +1,0 @@
-lar[59860]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> vantard, fanfaron, SPT. <i>Sir. 20, 7</i>.<p><b>Étym</b>. λαπίζω.`

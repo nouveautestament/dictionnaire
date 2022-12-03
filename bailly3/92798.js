@@ -1,1 +1,0 @@
-lar[92798]=`<b>ή, όν</b>, exprimé goutte à goutte, qui coule lentement, lent, SOR. <i>p. 213 Dietz</i> ; RUF. (ORIB. <i>2, 212 B.-Dar.), etc</i>.<p>•<i> Cp</i>. -ότερος, CASS. <i>Probl. 14</i> ; SOR. <i>Obst. p. 26 Dietz</i>.<p><b>Étym</b>. στράγξ ; <i>cf</i>. στραγγεύω.`

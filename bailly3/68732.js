@@ -1,1 +1,0 @@
-lar[68732]=`<font color="purple">[νῑ]</font> (<i>seul. prés</i>. THCR. <i>Idyl. 7, 40,</i> ANTH. <i>7, 743, et impf. 3 sg</i>. νίκη, PD. <i>N. 5, 8</i> ; THCR. <i>Idyl. 6, 46 dor.) c</i>. νικάω.`

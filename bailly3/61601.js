@@ -1,1 +1,0 @@
-lar[61601]=`<b>ος, ον</b>, qui concerne le dernier arrivé, IL. <i>23, 785</i> ; τὰ λοισθήϊα, IL. <i>23, 751,</i> prix pour le dernier arrivé à la course.<p><b>Étym</b>. λοῖσθος.`

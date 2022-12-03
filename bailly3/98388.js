@@ -1,1 +1,0 @@
-lar[98388]=`<b>ου (τὸ) :<br>      1</b> τὸ Τ. κακόν, mal de Terméros, <i>càd</i>. mal qu’on s’attire soi-même (<i>v</i>. Τέρμερος) PLUT. <i>Thes. 11</i>.<br><b>      2</b> τὸ τ. ANTH. <i>11, 30,</i> le membre viril.<p><b>Étym</b>. Τέρμερος.`

@@ -1,1 +1,0 @@
-lar[9072]=`<b>οῦ (ὁ)</b> l’Anio, <i>affl. du Tibre (auj</i>. Aniene <i>ou</i> Teverone) PLUT. <i>Cæs. 28 (p.-ê</i>. Anienus, <i>n. d’h</i>.).<p><b>Étym</b>. <i>lat</i>. Anien <font color="purple">[ăĭē]</font>.`

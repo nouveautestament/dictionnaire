@@ -1,1 +1,0 @@
-lar[92928]=`<font color="purple">[ῐῐῐκ]</font> <i>dans la locut.</i> : οὐδ' ἂν στριβιλικίγξ, AR. <i>Ach. 1035,</i> pas même un rien.`

@@ -1,1 +1,0 @@
-lar[21021]=`<b>βυξεντῖνος οἶνος (ὁ)</b> vin de Buxentum (<i>auj</i>. Policastro Bussentino), <i>en Lucanie,</i> ATH. <i>27a</i>.`

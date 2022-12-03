@@ -1,1 +1,0 @@
-lar[40578]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. qui sert de lest, LYC. <i>618</i>.<p><b>Étym</b>. ἕρμα.`

@@ -1,1 +1,0 @@
-lar[78090]=`<b>πεντε·και·τεσσαρακονθ·ήμερος, ος, ον</b> <font color="purple">[ᾰρᾰ]</font> de quarante-cinq jours, HPC. <i>230, 43</i>.<p><b>Étym</b>. π. κ. τεσσαράκοντα, ἡμέρα.`

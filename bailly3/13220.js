@@ -1,1 +1,0 @@
-lar[13220]=`<b>ἀπο·ρράπτω</b>, recoudre, HDT. <i>1, 123 ; fig</i>. ἀ. τινὸς στόμα, ESCHN. <i>31, 5,</i> fermer la bouche à qqn.`

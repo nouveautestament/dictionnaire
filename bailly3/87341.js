@@ -1,1 +1,0 @@
-lar[87341]=`<b>πτερο·φυής, ής, ές</b>, à qui poussent des plumes, ailé, PLAT. <i>Pol. 266e</i>.<p><b>Étym</b>. πτερόν, φύω.`

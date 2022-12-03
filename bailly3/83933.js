@@ -1,1 +1,0 @@
-lar[83933]=`<b>προ·διανύω</b>, achever auparavant, DC. <i>79, 8</i> ; τὸ προδιηνυσμένον, NYSS. <i>ou</i> τὰ προδιηνυσμένα, CLÉM. <i>901,</i> sujet déjà traité à fond.`

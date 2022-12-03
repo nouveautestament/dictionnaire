@@ -1,1 +1,0 @@
-lar[9903]=`<b>ἀντί·θυρος, ος, ον</b> <font color="purple">[ῠ]</font> qui est devant la porte, OD. <i>16, 159</i> ; LUC. <i>Dom. 26</i> ; τὸ ἀντίθυρον, LUC. <i>Alex. 16, Conv. 8, ou</i> τὰ ἀντίθυρα, SOPH. <i>El. 1433,</i> vestibule.<p><b>Étym</b>. ἀ. θύρα.`

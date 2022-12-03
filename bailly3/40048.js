@@ -1,1 +1,0 @@
-lar[40048]=`<b>ἑπτ·ορόγυιος, ος, ον</b>, long de sept brasses, SAPPH. <i>98</i>.<p><b>Étym</b>. ἑ. ὀργυιά.`

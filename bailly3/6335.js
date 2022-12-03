@@ -1,1 +1,0 @@
-lar[6335]=`<b>ἀμφ·ιπποτοξόται, ῶν (οἱ)</b> archers à cheval pourvus d’un cheval de rechange, DS. <i>19, 29 dout.</i> ; PLUT. <i>M. 197c</i>.`

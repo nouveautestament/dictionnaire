@@ -1,1 +1,0 @@
-lar[41187]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> qui veille au foyer consacré (sur un navire) ; <i>sel. d’autres,</i> cuisinier du navire, THÉM. <i>195b</i>.<p><b>Étym</b>. ἐσχάρα.`

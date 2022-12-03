@@ -1,1 +1,0 @@
-lar[19118]=`<b>βαρυ·βόας</b> <font color="purple">[ᾰῠᾱ]</font> <i>adj. m</i>. qui crie fortement, PD. <i>fr. 107, 2</i>.<p><b>Étym</b>. β. βοάω.`

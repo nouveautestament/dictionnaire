@@ -1,1 +1,0 @@
-lar[109090]=`<b>χρυσ·αστράγαλος, ος, ον</b> <font color="purple">[ῡτρᾰᾰ]</font> <i>litt</i>. aux osselets d’or, <i>càd</i>. aux pieds d’or, <i>en parl. d’une coupe,</i> SAPPH. (POLL. <i>6, 98).</i><p><b>Étym</b>. χρ. ἀστράγαλος.`

@@ -1,1 +1,0 @@
-lar[108646]=`<i>adv</i>., en forme de duvet, GAL. <i>2, 3</i>.<p><b>Étym</b>. χνοώδης.`

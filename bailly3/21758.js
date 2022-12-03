@@ -1,1 +1,0 @@
-lar[21758]=`<b>ου (τὸ)</b> géranium, <i>plante,</i> DIOSC. <i>3, 131</i>.<p><b>Étym</b>. γέρανος.`

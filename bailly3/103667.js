@@ -1,1 +1,0 @@
-lar[103667]=`<b>ὑπο·περιψύχω</b> <font color="purple">[ψῡ]</font> frissonner légèrement, HPC. <i>Prorrh. 73</i>.`

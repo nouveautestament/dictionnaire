@@ -1,1 +1,0 @@
-lar[70536]=`<b>οἰνο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime le vin de passion, ATH. <i>464e</i>.<p><b>Étym</b>. οἶν. μαίνομαι.`

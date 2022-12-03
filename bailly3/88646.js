@@ -1,1 +1,0 @@
-lar[88646]=`<b>ῥίψ·ασπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῐδ]</font> lâche qui jette son bouclier pour s’enfuir, AR. <i>Nub. 353, Pax 1186</i> ; PLAT. <i>Leg. 944b</i>.<p><b>Étym</b>. ῥίπτω, ἀσπίς ; <i>cf</i>. σῶσπις.`

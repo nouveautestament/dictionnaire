@@ -1,1 +1,0 @@
-lar[10406]=`<b>ἀντι·σπόδιον, ου (τὸ)</b> succédanés de cendres (de zinc) en guise de scories métalliques, <i>pour nettoyer,</i> GAL. <i>13, 267</i> ; ORIB. <i>2, 720</i>.<p><b>Étym</b>. ἀντίσποδος.`

@@ -1,1 +1,0 @@
-lar[20203]=`<b>ου (ὁ)</b> datte enfermée dans son enveloppe, DIOSC. <i>1, 150</i>.`

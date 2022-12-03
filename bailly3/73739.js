@@ -1,1 +1,0 @@
-lar[73739]=`<b>ης</b>, <i>fém. de</i> ὤν, <i>part. prés. de</i> εἰμί, être.`

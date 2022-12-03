@@ -1,1 +1,0 @@
-lar[13872]=`<i>adv</i>., sans résultat, sans effet, THC. <i>6, 48</i>.<p>•<i> Cp</i>. -ότερον, SOCR. <i>Ep. p. 17, 3</i>.`

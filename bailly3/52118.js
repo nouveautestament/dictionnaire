@@ -1,1 +1,0 @@
-lar[52118]=`<b>καταβαρέω-ῶ</b> <font color="purple">[βᾰ]</font> surcharger, accabler sous le poids, LUC. <i>D. deor. 21, 1 ; fig</i>. POL. <i>18, 4, 4</i> ; DS. <i>19, 24</i> ; APP. <i>Civ. 5, 67</i>.<p><b>Étym</b>. καταβαρής.`

@@ -1,1 +1,0 @@
-lar[51176]=`<b>καλλ·ίουλος, ου (ὁ)</b> hymne en l’honneur de Dèmèter, SEMUS (ATH. <i>618e</i>).<p><b>Étym</b>. κ. ἴουλος.`

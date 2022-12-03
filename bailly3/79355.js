@@ -1,1 +1,0 @@
-lar[79355]=`<b>περι·στάζω</b>, faire tomber goutte à goutte tout autour, ANTH. <i>7, 36</i>.`

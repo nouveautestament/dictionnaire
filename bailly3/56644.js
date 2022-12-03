@@ -1,1 +1,0 @@
-lar[56644]=`<b>ου (τὸ)</b> emplâtre, collyre, HPC. <i>609, 44</i>.<p><b>Étym</b>. <i>cf</i>. κολλύριον.`

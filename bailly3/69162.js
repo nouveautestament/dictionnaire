@@ -1,1 +1,0 @@
-lar[69162]=`<b>νυκτι·φόρος, ος, ον</b> <font color="purple">[ῐ]</font> qui amène (<i>propr</i>. qui porte) la nuit, PHIL. <i>1, 335</i>.<p><b>Étym</b>. ν. φέρω.`

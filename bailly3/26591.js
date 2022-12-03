@@ -1,1 +1,0 @@
-lar[26591]=`<font color="purple">[ᾱ]</font> être dictateur, DC. <i>43, 1</i>.<p><b>Étym</b>. δικτάτωρ.`

@@ -1,1 +1,0 @@
-lar[82103]=`<b>πολύ·μετρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui est en grande quantité, abondant, EUR. (AR. <i>Ran. 1240</i>).<br><b>      2</b> qui se compose de plusieurs mètres, ATH. <i>608d</i>.<p><b>Étym</b>. π. μέτρον.`

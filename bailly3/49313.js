@@ -1,1 +1,0 @@
-lar[49313]=`<b>Ἱππό·δαμος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Hippodamos, <i>h</i>. AR. <i>Eq. 327 (dor. c</i>. *Ἱππόδημος, <i>cf</i>. Εὔδαμος, <i>etc</i>.).<p><b>Étym</b>. ἵ. δῆμος.`

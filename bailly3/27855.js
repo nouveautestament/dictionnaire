@@ -1,1 +1,0 @@
-lar[27855]=`<i>seul. prés. cité par</i> LYS. <i>117, 6,</i> tenter de s’enfuir.<p><b>Étym</b>. *διδράσκω.`

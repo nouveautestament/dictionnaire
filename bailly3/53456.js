@@ -1,1 +1,0 @@
-lar[53456]=`<b>ή, όν</b>, posé, calme, PLUT. <i>T. Gracch. 2 ; en parl. de choses,</i> EPIC. (DL. <i>2, 87 ; 10, 136</i>).`

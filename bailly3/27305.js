@@ -1,1 +1,0 @@
-lar[27305]=`<i>adv</i>., avec une grande colère, PHILOD. <i>V. Herc. 2, 19</i>.<p><b>Étym</b>. διοργίζω.`

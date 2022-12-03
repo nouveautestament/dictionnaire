@@ -1,1 +1,0 @@
-lar[43202]=`<b>ης, ες</b> <font color="purple">[ῑ]</font><br><b>      1</b> semblable à un détroit, <i>particul</i>. à l’Euripe, agité comme l’Euripe, ARSTT. <i>G.A. 5, 11, 32</i>.<br><b>      2</b> qui vit dans les bras de mer, ARSTT. <i>H.A. 9, 37, 17</i>.<p><b>Étym</b>. Εὔριπος, -ωδης.`

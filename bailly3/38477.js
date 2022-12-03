@@ -1,1 +1,0 @@
-lar[38477]=`<b>ἐπί·μοχθος, ος, ον</b>, laborieux, pénible, MAN. <i>4, 248 ; adv</i>. ἐπίμοχθον, SPT. <i>Sap. 15, 7,</i> laborieusement.<p><b>Étym</b>. ἐπί, μόχθος.`

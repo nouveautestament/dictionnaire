@@ -1,1 +1,0 @@
-lar[31461]=`<b>ἐκ·κοβαλικεύομαι</b> <font color="purple">[ᾱῐ]</font> (<i>prés</i>. -εται) mystifier, AR. <i>Eq. 271</i>.`

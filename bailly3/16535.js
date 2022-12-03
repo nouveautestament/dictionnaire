@@ -1,1 +1,0 @@
-lar[16535]=`<b>ἀ·σύντριπτος, ος, ον</b>, qu’on ne peut broyer, résistant, PHIL. BYZ. <i>Bel. 24</i>.<p><b>Étym</b>. ἀ, συντρίβω.`

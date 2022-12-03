@@ -1,1 +1,0 @@
-lar[81534]=`<b>πολεμο·φθόρος, ος, ον</b>, qui fait périr <i>ou</i> qui détruit par la guerre, ESCHL. <i>Pers. 652</i>.<p><b>Étym</b>. π. φθείρω.`

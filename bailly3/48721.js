@@ -1,1 +1,0 @@
-lar[48721]=`<b>α, ον</b> <font color="purple">[ῐᾰ]</font> d’Ithaque, IL. <i>2, 184</i> ; OD. <i>2, 24, 246</i> ; EUR. <i>Cycl. 276, etc</i>.<p><b>Étym</b>. Ἰθάκη.`

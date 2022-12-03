@@ -1,1 +1,0 @@
-lar[16699]=`<b>ου (ὁ)</b> Atarnès, <i>fl. de Thrace,</i> HDT.`

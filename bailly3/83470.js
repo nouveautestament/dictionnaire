@@ -1,1 +1,0 @@
-lar[83470]=`<b>προ·αγγέλλω</b>, annoncer d’avance, <i>acc</i>. XÉN. <i>Cyr. 5, 3, 12</i> ; POL. <i>3, 20, 8 ; avec une prop. inf</i>. XÉN. <i>Cyr. 3, 3, 34</i>.`

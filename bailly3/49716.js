@@ -1,1 +1,0 @@
-lar[49716]=`<b>ἰσό·πλευρος, ος, ον</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> équilatéral, PLAT. <i>Tim. 54e ;</i> POL. <i>6, 31, 10</i>.<br><b>      2</b> <i>en parl. de nombre,</i> carré, PLAT. <i>Theæt. 147e ;</i> ARSTT. <i>An. post. 1, 4, 3</i>.<p><b>Étym</b>. ἴ. πλευρά.`

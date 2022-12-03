@@ -1,1 +1,0 @@
-lar[89862]=`<b>ων (οἱ)</b> habitants de Sermylè, THC. <i>5, 18</i>.<p>➳ <i>Dans les inscr. att. seul</i>. Σερμυλιεύς, <i>d’où plur. nom</i>. Σερμυλιῆς, CIA. <i>1, 226, 9 (454 av. J.-C.) etc. ; rar</i>. Σερβυλιῆς, CIA. <i>1, 233, 29 (446 av. J.-C.) etc. ; v. Meisterh. p. 60, 5</i>.<p><b>Étym</b>. <i>v</i>. Σερμύλη.`

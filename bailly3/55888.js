@@ -1,1 +1,0 @@
-lar[55888]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Kléoboulinè, <i>f</i>. PLUT. <i>Conj. præc. 48, etc</i>.<p><b>Étym</b>. Κλεόβουλος.`

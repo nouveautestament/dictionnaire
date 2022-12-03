@@ -1,1 +1,0 @@
-lar[24266]=`<font color="purple">[ᾰ]</font> (<i>seul. part. prés. et impf</i>. ἐδημοκράτιζον) être partisan de la démocratie, APP. <i>Lib. 68 (impf.) et 70 (prés</i>.).<p><b>Étym</b>. δημοκρατία.`

@@ -1,1 +1,0 @@
-lar[13515]=`<b>ἀπο·σχάζω :<br>      1</b> faire une incision, ouvrir (une veine, <i>etc</i>.) HPC. ARSTT. <i>H.A. 3, 4, 3</i>.<br><b>      2</b> relâcher, laisser aller, HÉRON <i>Bel. 130</i> ; HÉRON <i>Aut. 263, 272</i>.`

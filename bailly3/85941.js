@@ -1,1 +1,0 @@
-lar[85941]=`<b>προσ·καταίρω</b>, aborder, <i>en parl. d’un navire,</i> DS. <i>11, 61</i>.`

@@ -1,1 +1,0 @@
-lar[2442]=`<b>αἰθερολογέω-ῶ</b>, parler <i>ou</i> s’occuper des régions célestes, DL. <i>2, 5 ; 8, 50</i>.`

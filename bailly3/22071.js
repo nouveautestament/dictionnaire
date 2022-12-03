@@ -1,1 +1,0 @@
-lar[22071]=`<b>ου (ὁ)</b> Glaukônidès, <i>h</i>. DÉM. DL.<p><b>Étym</b>. <i>patr. de</i> Γλαύκων.`

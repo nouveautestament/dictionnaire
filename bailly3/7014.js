@@ -1,1 +1,0 @@
-lar[7014]=`<b>ή, όν</b>, qui fait reculer, PLUT. <i>M. 936f</i>.`

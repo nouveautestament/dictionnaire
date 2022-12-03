@@ -1,1 +1,0 @@
-lar[22905]=`<b>(ὁ)</b> <i>indécl</i>. David, <i>roi et prophète d’Israël,</i> A. POLYH. <i>fr. 18 ; cf</i>. Δαυίδ.`

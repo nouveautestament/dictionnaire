@@ -1,1 +1,0 @@
-lar[79666]=`<b>περι·χαράσσω</b>, <i>att</i>. <b>περι·χαράττω</b> <font color="purple">[χᾰ]</font> faire une incision tout autour, gratter tout au tour, GAL. <i>10, 616 ; au pass</i>. être dentelé tout autour, <i>en parl. de feuilles,</i> TH. <i>H.P. 3, 12, 5</i>.`

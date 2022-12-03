@@ -1,1 +1,0 @@
-lar[73856]=`<b>ὀφιο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange des serpents, <i>d’où lat</i>. Ophiophagi, PLIN. <i>H.N. 6, 29, n. d’un pple d’Afrique</i>.`

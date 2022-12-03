@@ -1,1 +1,0 @@
-lar[40903]=`<b>ἐρωτο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> fou d’amour, ORPH. <i>H. 54, 14</i> ; ATH. <i>599e</i>.<p><b>Étym</b>. ἔ. μαίνομαι.`

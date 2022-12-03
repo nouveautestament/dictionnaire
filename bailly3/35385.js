@@ -1,1 +1,0 @@
-lar[35385]=`<b>ἐξ·αλέομαι</b> <font color="darkgreen">(<i>seul. ao.1 inf. épq</i>. ἐξαλέασθαι, HÉS. <i>O. 105, 756, 800</i> ; AR. <i>Eq. 1080 ; postér. prés. 3 pl</i>. ἐξαλέονται, Q. SM. <i>2, 385</i>)</font> se garder de, chercher à éviter, <i>acc</i>. HÉS. AR. <i>ll. cc., ou gén</i>. A.RH. <i>2, 319</i>.<p><b>Étym</b>. <i>cf</i>. ἐξαλεύομαι.`

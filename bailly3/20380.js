@@ -1,1 +1,0 @@
-lar[20380]=`<b>βού·θυτος, ος, ον :<br>      1</b> qui consiste en un sacrifice de bœufs, ESCHL. <i>Suppl. 706</i> ; EUR. <i>Ion 664</i>.<br><b>      2</b> sur lequel on immole des bœufs (autel, foyer), SOPH. <i>O.C. 1495</i> ; AR. <i>Av. 1232</i>.<br><b>      3</b> où l’on immole des bœufs (jour), ESCHL. <i>Ch. 261</i> ; EUR. <i>Hel. 1474</i>.<p><b>Étym</b>. βοῦς, θύω.`

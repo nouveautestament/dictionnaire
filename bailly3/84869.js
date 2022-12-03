@@ -1,1 +1,0 @@
-lar[84869]=`<b>προ·οχεύω</b>, saillir auparavant, ARSTT. <i>G.A. 3, 7, 5</i>.`

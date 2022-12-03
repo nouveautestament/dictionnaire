@@ -1,1 +1,0 @@
-lar[54437]=`<b>ίτιδος</b> <font color="purple">[ῑῐ]</font> κ. ἰσχάς, ANTH. <i>6, 231,</i> figue à peau chagrinée.<p><b>Étym</b>. <i>fém. de</i> κεγχρίτης.`

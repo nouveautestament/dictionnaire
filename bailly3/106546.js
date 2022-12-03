@@ -1,1 +1,0 @@
-lar[106546]=`<font color="purple">[νῑ]</font> <i>adv</i>., à la façon des Phéniciens, DL. <i>7, 25</i>.`

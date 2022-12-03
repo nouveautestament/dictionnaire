@@ -1,1 +1,0 @@
-lar[36933]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> échanson, <i>chez les peuples de l’Hellespont,</i> DÉM. SCEPS. (ATH. <i>425e</i>).<p><b>Étym</b>. <i>th</i>. ἐπεγχυ-, <i>de</i> ἐπεγχέω.`

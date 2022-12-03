@@ -1,1 +1,0 @@
-lar[24221]=`<b>ης (ἡ)</b> <i>ion</i>. travail <i>ou</i> activité pour le bien commun, PROCL. <i>H. Min. 20 (ms</i>. δημιεργ-).<p><b>Étym</b>. δημιοεργός.`

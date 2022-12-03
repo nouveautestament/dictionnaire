@@ -1,1 +1,0 @@
-lar[52273]=`<b>ός, όν</b> <font color="purple">[ᾰγ]</font> qui attire, JAMBL. <i>Myst. 2, 6, p. 48 ; p. suite,</i> qui charme, ANTH. <i>15, 12, 9</i>.<p><b>Étym</b>. κατάγω.`

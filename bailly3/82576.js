@@ -1,1 +1,0 @@
-lar[82576]=`<b>ας (ἡ)</b> usage très fréquent <i>ou</i> commode, TH. <i>H.P. 9, 20, 4</i>.<p><b>Étym</b>. πολύχρηστος.`

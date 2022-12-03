@@ -1,1 +1,0 @@
-lar[42360]=`<i>adv.</i> :<br><b>      1</b> à propos, HPC. <i>Ep. 1285</i> ; ISOCR. <i>111b, 223e ;</i> ARSTT. <i>H.A. 7, 1, 18</i> ; PLUT. <i>M. 1071e.</i><br><b>      2</b> à loisir : οὐκ εὐκ. ἔχειν, POL. <i>5, 26, 10,</i> n’avoir pas de loisir.<p>•<i> Cp</i>. -ότερον, PLAT. <i>Phæd. 78a ; sup</i>. -ότατα, POL. <i>5, 63, 13</i>.<p><b>Étym</b>. εὔκαιρος.`

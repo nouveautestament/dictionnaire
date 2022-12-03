@@ -1,1 +1,0 @@
-lar[83565]=`<b>προ·αναπηδάω-ῶ</b>, s’élancer d’abord <i>ou</i> auparavant, CASS. <i>Probl. 1, 332</i>.`

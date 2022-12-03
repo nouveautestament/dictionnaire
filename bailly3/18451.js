@@ -1,1 +1,0 @@
-lar[18451]=`<i>adv</i>., péniblement, XÉN. <i>Hell. 4, 8, 27</i>.`

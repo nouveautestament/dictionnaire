@@ -1,1 +1,0 @@
-lar[45780]=`<b>ου (ὁ)</b> <font color="purple">[ῠῐ]</font> fils d’Èpytos, <i>n. d’un héraut,</i> IL. <i>17, 324</i>.`

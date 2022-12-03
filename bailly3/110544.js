@@ -1,1 +1,0 @@
-lar[110544]=`<b>ὠτ·ακουστής, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui est aux écoutes, espion, ARSTT. <i>Pol. 5, 11, 7 ; Mund. 6, 9</i> ; POL. <i>16, 37, 1</i> ; PLUT. <i>M. 522f</i>.<p><b>Étym</b>. οὖς, ἀκούω.`

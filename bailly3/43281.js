@@ -1,1 +1,0 @@
-lar[43281]=`<b>Εὐρυ·κλῆς, έους</b>, <i>acc</i>. <b>-έα (ὁ)</b> Euryklès, <i>ventriloque et devin fameux,</i> PLAT. <i>Soph. 252c ;</i> AR. <i>Vesp. 1019 ; au plur. acc</i>. Εὐρυκλέας, PLUT. <i>Def. or. 9,</i> des Euryklès, <i>càd</i>. des ventriloques.<p><b>Étym</b>. εὐ. κλέος.`

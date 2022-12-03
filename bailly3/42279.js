@@ -1,1 +1,0 @@
-lar[42279]=`<b>ή, όν</b>, redressé, ARSTT. <i>Meteor. 4, 9, 5</i>.<p><b>Étym</b>. <i>vb. de</i> εὐθύνω.`

@@ -1,1 +1,0 @@
-lar[70808]=`<b>ὀκρί·βας, αντος (ὁ)</b> <font color="purple">[ῐ]</font> estrade, <i>particul.</i> :<br><b>      1</b> estrade <i>d’où</i> déclamaient les acteurs de tragédie, PLAT. <i>Conv. 194c ;</i> LUC. <i>Ner. 9</i>.<br><b>      2</b> <i>p. anal</i>. cothurne tragique, PHILSTR. <i>V. Ap. 1, 9, p. 195, etc.</i> ; THÉM. <i>316d</i>.<p><b>Étym</b>. ὄκρις, βαίνω.`

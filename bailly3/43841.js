@@ -1,1 +1,0 @@
-lar[43841]=`<b>α, ον</b> <font color="purple">[ῐ]</font> lié par un vœu, HDT. <i>2, 63 ; en parl. des</i> soldurii <i>ou</i> dévots Celtes, N. DAM. (ATH. <i>249d</i>) ; εὐχωλιμαῖαι θέαι, DC. <i>79, 9</i> = <i>lat</i>. ludi votivi, jeux votifs.<p><b>Étym</b>. εὐχωλή.`

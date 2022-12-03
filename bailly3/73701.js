@@ -1,1 +1,0 @@
-lar[73701]=`<b>εως (ἡ)</b> action d’uriner, pissement, HPC. <i>76d, etc.</i> ; ARSTT. <i>Meteor. 2, 8</i> ; MNÉSITH. (ATH. <i>121d</i>) <i>etc</i>.<p><b>Étym</b>. οὐρέω¹.`

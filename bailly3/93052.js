@@ -1,1 +1,0 @@
-lar[93052]=`<b>ου (ὁ)</b> préposé au service des lits, des couvertures de lits <i>ou</i> de tables, <i>etc</i>. HÉRACLIDE CUM. (ATH. <i>48d</i>) ; PLUT. <i>Pel. 30</i>.<p><b>Étym</b>. στρώννυμι.`

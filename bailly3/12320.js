@@ -1,1 +1,0 @@
-lar[12320]=`<b>ἀπο·δοκιμάω-ῶ</b> <font color="purple">[ῐ]</font> <i>c</i>. ἀποδοκιμάζω, HDT. <i>1, 199</i>.<p><b>Étym</b>. <i>sel. d’autres, fut. de</i> ἀποδοκιμάζω.`

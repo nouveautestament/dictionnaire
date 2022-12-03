@@ -1,1 +1,0 @@
-lar[35951]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ῠ]</font> <i>ion. c</i>. ἐξέλευσις, HDT. <i>5, 101, etc</i>.`

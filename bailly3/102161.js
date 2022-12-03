@@ -1,1 +1,0 @@
-lar[102161]=`<b>ή, όν</b>, qui fait évacuer par le bas, laxatif, HPC. <i>420, 52 ; 421, 3</i>.<p><b>Étym</b>. ὑπεκχωρέω.`

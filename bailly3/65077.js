@@ -1,1 +1,0 @@
-lar[65077]=`<b>μετ·εισδύνω</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao.2</i> μετεισέδυν)</font> pénétrer d’un lieu dans un autre, ARSTT. <i>H.A. 5, 16</i>.`

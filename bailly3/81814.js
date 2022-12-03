@@ -1,1 +1,0 @@
-lar[81814]=`<b>πολυ·γύμναστος, ος, ον</b> <font color="purple">[λῠ]</font> très exercé <i>ou</i> habile en beaucoup de choses, LUC. <i>Tox. 14</i>.<p><b>Étym</b>. π. γυμνάζω.`

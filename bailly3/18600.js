@@ -1,1 +1,0 @@
-lar[18600]=`<i>adv</i>., sans mentir, PHIL. <i>1, 19</i>.<p>•<i> Sup</i>. ἀψευδέστατα, PHIL. <i>1, 34</i>.<p>➳ <i>Ion</i>. ἀψευδέως, HDT. <i>9, 58</i>.<p><b>Étym</b>. ἀψευδής.`

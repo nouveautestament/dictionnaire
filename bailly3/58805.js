@@ -1,1 +1,0 @@
-lar[58805]=`<b>κυνοκεφαλο·ειδής, ής, ές</b> <font color="purple">[ῠᾰ]</font> qui ressemble à un singe κυνοκέφαλος, GAL. <i>2, 534</i>.<p><b>Étym</b>. κ. εἶδος.`

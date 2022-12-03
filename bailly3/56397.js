@@ -1,1 +1,0 @@
-lar[56397]=`<font color="purple">[ῑ]</font> <i>onomatopée pour imiter le grognement du porc,</i> AR. <i>Ach. 780</i>.`

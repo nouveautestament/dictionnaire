@@ -1,1 +1,0 @@
-lar[33494]=`<b>ἐμ·πληθύνω</b> (<i>part. ao. pass</i>. -υνθείς) remplir ; <i>d’où au pass</i>. être rempli de, <i>gén</i>. SPT. <i>3Macc. 5, 42</i>.`

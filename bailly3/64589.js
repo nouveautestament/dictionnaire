@@ -1,1 +1,0 @@
-lar[64589]=`<b>μεσό·χθων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, situé au milieu des terres, DH. <i>1, 49</i>.<p><b>Étym</b>. μ. χθών.`

@@ -1,1 +1,0 @@
-lar[22443]=`<b>γονο·ειδής, ής, ές</b>, semblable à de la semence génitale, HPC. <i>Coac. 148</i>.<p><b>Étym</b>. γόνος, εἶδος.`

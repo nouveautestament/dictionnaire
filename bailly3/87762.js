@@ -1,1 +1,0 @@
-lar[87762]=`<b>ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> Pyramos :<br><b>      1</b> <i>fl. de Cilicie (auj</i>. Ceyhan) XÉN. <i>An. 1, 4, 1, etc.</i><br><b>      2</b> <i>h</i>. NONN. <i>D. 6, 345, etc</i>.`

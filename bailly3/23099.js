@@ -1,1 +1,0 @@
-lar[23099]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> le Dompteur (Poséidon) PD. <i>O. 13, 6</i>.<p><b>Étym</b>. δαμάζω.`

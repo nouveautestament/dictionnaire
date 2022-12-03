@@ -1,1 +1,0 @@
-lar[13930]=`<i>adv</i>., sans précipitation, CHRYSIPP. (PLUT. <i>M. 1038c</i>).`

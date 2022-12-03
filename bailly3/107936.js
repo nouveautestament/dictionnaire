@@ -1,1 +1,0 @@
-lar[107936]=`<b>ατος (τὸ)</b> <font color="purple">[χᾰ]</font> grâce, faveur, bienfait, NT. <i>1Cor. 12, 4, etc. ; Rom. 16, 23 ; en parl. du baptême,</i> CLÉM. <i>113</i>.<p><b>Étym</b>. χαρίζομαι.`

@@ -1,1 +1,0 @@
-lar[61606]=`<b>ή, όν</b>, de Locride, PLUT. <i>Prov. 24</i>.<p><b>Étym</b>. Λοκρός.`

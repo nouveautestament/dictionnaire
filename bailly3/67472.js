@@ -1,1 +1,0 @@
-lar[67472]=`<b>*μυχόν, οῦ (τὸ)</b> <font color="purple">[ῠ]</font> <i>seul. pl</i>. τὰ μυχά, <i>c</i>. μυχός, DP. <i>117, etc.</i> ; CALL. <i>Del. 142</i>.`

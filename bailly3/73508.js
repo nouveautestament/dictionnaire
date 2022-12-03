@@ -1,1 +1,0 @@
-lar[73508]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> aux mamelles pleines, NIC. <i>Al. 90</i> ; ORPH. <i>Arg. 191</i>.<br><b>      2</b> <i>fig</i>. fécond, fertile, OPP. <i>C. 2, 148</i>.<p><b>Étym</b>. οὖθαρ.`

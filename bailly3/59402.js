@@ -1,1 +1,0 @@
-lar[59402]=`<b>ατος (τὸ) :<br>      1</b> commerce intime, <i>d’où</i> semence, HPC. <i>248, 12</i>.<br><b>      2</b> libertinage, CLÉM. <i>Pæd. 2, 10, 98</i>.<p><b>Étym</b>. λαγνεύω.`

@@ -1,1 +1,0 @@
-lar[90123]=`<b>ῶν (οἱ)</b> les Sigynnes, <i>pple scythique,</i> HDT. <i>5, 9</i>.`

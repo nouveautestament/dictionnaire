@@ -1,1 +1,0 @@
-lar[20692]=`<b>βραχυκαταληκτέω-ῶ</b> <font color="purple">[ᾰῠᾰᾰ]</font> se terminer par une syllabe brève, DRAC. <i>15, 21</i>.<p><b>Étym</b>. βραχυκατάληκτος.`

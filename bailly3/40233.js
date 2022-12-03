@@ -1,1 +1,0 @@
-lar[40233]=`<b>ἐργ·ωνία, ας (ἡ)</b> entreprise d’un travail à forfait, POL. <i>6, 17, 5</i>.<p><b>Étym</b>. ἔργον, ὠνέομαι.`

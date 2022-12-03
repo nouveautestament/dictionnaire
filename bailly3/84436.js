@@ -1,1 +1,0 @@
-lar[84436]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> couverture, <i>particul</i>. voile, tenture, ESCHL. <i>Ag. 691,</i> enveloppe, abri, T. LOCR. <i>100b ;</i> THC. <i>2, 75 ; fig</i>. prétexte, excuse, THC. <i>3, 67</i> ; LUC. <i>Pseud. 31</i>.<p><b>Étym</b>. προκαλύπτω.`

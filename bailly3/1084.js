@@ -1,1 +1,0 @@
-lar[1084]=`<b>ἀγχι·τελής, ής, ές</b> <font color="purple">[ῐ]</font> presque dans son plein (lune) NONN. <i>D. 40, 314</i>.<p><b>Étym</b>. ἄ. τέλος.`

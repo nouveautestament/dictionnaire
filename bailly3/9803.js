@@ -1,1 +1,0 @@
-lar[9803]=`<b>Ἀντί·γονος, ου (ὁ)</b> Antigonos (Antigone) :<br><b>      1</b> <i>général d’Alexandre le Grand,</i> PLUT. <i>Eum. 3, Sert. 1, etc.</i><br><b>      2</b> <i>n. de div. rois de Macédoine,</i> PLUT. <i>Æmil. 8, etc</i>.<p><b>Étym</b>. ἀ. γίγνομαι.`

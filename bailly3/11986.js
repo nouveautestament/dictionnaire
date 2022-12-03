@@ -1,1 +1,0 @@
-lar[11986]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> d’Apis, <i>càd</i>. du Péloponnèse, ESCHL. <i>Suppl. 117</i> ; ἡ Ἀπία γαῖα, ESCHL. <i>Ag. 257</i> ; SOPH. <i>O.C. 1303,</i> la terre d’Apis, le Péloponnèse.<p><b>Étym</b>. Ἄπις.`

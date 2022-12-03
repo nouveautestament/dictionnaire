@@ -1,1 +1,0 @@
-lar[19014]=`<b>ωνος (ὁ)</b> Bambaliôn, <i>surn. de M. Fulvius, père de Fulvie,</i> CIC. <i>Phil. 2, 36</i>.`

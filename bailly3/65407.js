@@ -1,1 +1,0 @@
-lar[65407]=`<b>*μηλο·πάρειος</b>, <i>éol</i>. <b>μαλοπάραυος, ος, ον</b> <font color="purple">[ᾱᾰ]</font> aux joues fraîches <i>ou</i> rouges comme une pomme, THCR. <i>Idyl. 26, 1</i>.<p><b>Étym</b>. μῆλον², παρειά.`

@@ -1,1 +1,0 @@
-lar[73314]=`<b>ὀστρακο·κονία, ας (ἡ)</b> <font color="purple">[ᾰκ]</font> plancher fait de morceaux de brique, GEOP. <i>2, 27</i>.<p><b>Étym</b>. ὄστρακον, κονία.`

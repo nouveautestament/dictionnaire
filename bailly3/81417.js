@@ -1,1 +1,0 @@
-lar[81417]=`<b>ποικιλο·φόρμιγξ, ιγγος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> accompagné des sons variés de la lyre, PD. <i>O. 4, 4</i>.`

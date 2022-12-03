@@ -1,1 +1,0 @@
-lar[65798]=`<b>μιλιο·δρομέω-ῶ</b>, courir un mille dans le cirque, CHRYS. <i>8, 88 Migne</i>.<p><b>Étym</b>. μ. δρόμος.`

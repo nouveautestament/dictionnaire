@@ -1,1 +1,0 @@
-lar[87480]=`<b>πτωχό·μουσος, ου</b>, <i>adj. m</i>. ingénieux pour mendier, GORG. (ARSTT. <i>Rhet. 3, 3, 1).</i><p><b>Étym</b>. πτωχός, μοῦσα.`

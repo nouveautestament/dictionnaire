@@ -1,1 +1,0 @@
-lar[99331]=`(<i>seul. part. prés</i>.) <font color="purple">[ῑ]</font> se venger de, <i>acc</i>. HÉS. <i>Th. 209</i>.<p><b>Étym</b>. *τιτός, <i>vb. de</i> τίω.`

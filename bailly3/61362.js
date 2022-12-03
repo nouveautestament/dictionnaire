@@ -1,1 +1,0 @@
-lar[61362]=`<b>λιπο·στρατίου</b>, <i>mieux que</i> <b>λειπο·στρατίου γραφή</b> <font color="purple">[ᾰ]</font> crime de désertion militaire, THC. <i>1, 99 ; 6, 76</i>.<p><b>Étym</b>. <i>v</i>. λιποστρατία.`

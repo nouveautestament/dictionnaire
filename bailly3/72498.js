@@ -1,1 +1,0 @@
-lar[72498]=`<b>ὁπωσ·τι·οῦν</b>, <i>adv</i>., de quelque manière, façon que ce soit, PLAT. <i>Phædr. 258c ;</i> οὐδ' ὁπωστιοῦν, PLAT. <i>Phædr. 61c, etc.</i> ; μηδ' ὁ. PLAT. <i>Theæt. 179b</i>, non certes, pas le moins du monde.<p><b>Étym</b>. ὅπως, τίς, οὖν.`

@@ -1,1 +1,0 @@
-lar[29886]=`<b>οῦ (ὁ)</b> qui entreprend, AR. <i>Av. 257</i>.<p><b>Étym</b>. ἐγχειρέω.`

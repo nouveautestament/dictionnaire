@@ -1,1 +1,0 @@
-lar[10184]=`<b>ἀντι·παραλαμβάνω</b>, comparer en opposant, GAL. <i>14, 221</i>.`

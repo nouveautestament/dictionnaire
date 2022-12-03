@@ -1,1 +1,0 @@
-lar[71561]=`<b>ας (ἡ)</b> ressemblance de mœurs, de caractère, de manière d’être, STR. <i>21</i>.<p><b>Étym</b>. ὁμοιότροπος.`

@@ -1,1 +1,0 @@
-lar[18634]=`<i>adv</i>., sans bruit, PLAT. <i>Theæt. 144b ;</i> DÉM. <i>797, 12</i> ; ARSTT. LUC. <i>etc</i>.<p><b>Étym</b>. ἀψόφητος.`

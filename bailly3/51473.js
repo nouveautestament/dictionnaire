@@ -1,1 +1,0 @@
-lar[51473]=`<b>καμψι·δίαυλος, ος, ον</b> <font color="purple">[ψῐ]</font> qui refait le tour de la carrière ; <i>d’où p. anal</i>. qui passe et repasse sur les cordes de la lyre, TÉLEST. (ATH. <i>637a</i>).<p><b>Étym</b>. κάμπτω, δίαυλος.`

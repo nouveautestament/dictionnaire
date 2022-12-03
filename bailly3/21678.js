@@ -1,1 +1,0 @@
-lar[21678]=`<b>ας (ἡ) :<br>      1</b> <i>act</i>. mère, PD. <i>N. 7, 2</i>.<br><b>      2</b> <i>pass</i>. fille, EUPH. <i>fr. 47</i>.<p><b>Étym</b>. <i>fém. de</i> γενετήρ.`

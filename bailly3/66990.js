@@ -1,1 +1,0 @@
-lar[66990]=`<font color="purple">[ῠ]</font> mouiller, humecter, A.RH. <i>3, 1041, 1247</i> ; LYC. <i>1008</i>.<p><b>Étym</b>. μύδος.`

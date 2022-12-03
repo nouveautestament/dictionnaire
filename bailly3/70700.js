@@ -1,1 +1,0 @@
-lar[70700]=`<i>att</i>. <b>οἰστός, οῦ (ὁ)</b> trait, flèche, IL. <i>5, 99, etc.</i> ; OD. <i>21, 12 ; fig</i>. PD. <i>O. 2, 99</i> ; THC. <i>2, 75</i> ; XÉN. <i>An. 2, 1</i> ; EUR. <i>Med. 634</i>.<p>➳ ἡ οἰστός, ZÉNON (ARSTT. <i>Phys. 6, 9</i>).`

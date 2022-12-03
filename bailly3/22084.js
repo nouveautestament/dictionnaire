@@ -1,1 +1,0 @@
-lar[22084]=`<font color="purple">[ᾰῠ]</font> <i>adv.</i> :<br><b>      1</b> finement, délicatement, PLUT. <i>M. 989c ; d’où</i> habilement, ARSTT. <i>Pol. 2, 10, 1 ; joint à</i> σοφῶς <i>et à</i> ποικίλως, ALEX. (ATH. <i>107a</i>).<br><b>      2</b> subtilement, ARSTT. <i>An. 1, 2, 15, au cp</i>. γλαφυρωτέρως.`

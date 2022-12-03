@@ -1,1 +1,0 @@
-lar[64410]=`<b>ωνος (ὁ)</b> Mermnôn, <i>chevrier,</i> THCR. <i>Idyl. 3, 35</i>.`

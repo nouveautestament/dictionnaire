@@ -1,1 +1,0 @@
-lar[30394]=`<b>εἰκοστο·λόγος, ου (ὁ)</b> qui perçoit le vingtième, AR. <i>Ran. 363</i>.<p><b>Étym</b>. εἰ. λέγω.`

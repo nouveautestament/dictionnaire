@@ -1,1 +1,0 @@
-lar[51295]=`<b>καλο·εργός, ός, όν</b> <font color="purple">[ᾰ]</font> qui fait le bien, vertueux, MAN. <i>1, 256</i>.<p><b>Étym</b>. κ. ἔργον.`

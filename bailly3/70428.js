@@ -1,1 +1,0 @@
-lar[70428]=`<b>οἰκο·φύλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῠᾰκ]</font> gardien, gardienne d’une maison, ESCHL. <i>Suppl. 27</i> ; ANTH. <i>9, 604</i>.<p><b>Étym</b>. οἶκ. φύλαξ.`

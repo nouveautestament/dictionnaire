@@ -1,1 +1,0 @@
-lar[57747]=`<b>ου (ὁ)</b> Krexos, <i>poète,</i> Ps.-PLUT. <i>Mus. 12, 28</i>.`

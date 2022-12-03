@@ -1,1 +1,0 @@
-lar[11261]=`<i>adv</i>., d’une manière inhumaine, PLUT. <i>M. 525c ;</i> LUC. <i>Tim. 35, etc</i>.`

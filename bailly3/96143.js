@@ -1,1 +1,0 @@
-lar[96143]=`<b>συν·οινοχοεύω</b>, verser le vin avec, EUM. <i>p. 377</i>.`

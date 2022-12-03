@@ -1,1 +1,0 @@
-lar[57822]=`<b>α, ον</b>, de source, de fontaine, OD. <i>17, 240</i> ; ESCHL. <i>fr. 159</i> ; SOPH. <i>Tr. 14, etc.</i> ; EUR. <i>Hipp. 225, etc.</i> ; αἱ Κρηναῖαι πύλαι, EUR. <i>Ph. 1123,</i> la porte de la fontaine, <i>une des sept portes de Thèbes, v</i>. Κρηνίδες.<p><b>Étym</b>. κρήνη.`

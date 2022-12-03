@@ -1,1 +1,0 @@
-lar[29520]=`<b>ἐγ·καταθνῄσκω</b> (<i>seul. ao.2 épq. 3 sg</i>. ἐνικάτθανε) mourir dans, <i>dat</i>. A.RH. <i>2, 834</i>.<p><b>Étym</b>. ἐν. κ.`

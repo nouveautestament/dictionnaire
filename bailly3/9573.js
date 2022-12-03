@@ -1,1 +1,0 @@
-lar[9573]=`<b>ἀντ·εκτάσσω</b>, lever une armée contre, APP. <i>Civ. 4, 108</i>.`

@@ -1,1 +1,0 @@
-lar[49142]=`<b>α, ον</b> <font color="purple">[ῑον]</font> d’Ionie, ionien, HDT. <i>7, 20, etc. ; subst</i>. ὁ Ἰ. (<i>s.-e</i>. πόρος <i>ou</i> πόντος) THC. <i>6, 30,</i> la mer Ionienne.`

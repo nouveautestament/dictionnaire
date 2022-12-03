@@ -1,1 +1,0 @@
-lar[55972]=`<i>adv</i>., nominativement, IL. <i>9, 11</i>.<p><b>Étym</b>. καλέω, -δην.`

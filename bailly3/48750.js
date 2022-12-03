@@ -1,1 +1,0 @@
-lar[48750]=`<b>ορος (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. ἰθυντήρ ORPH. <i>Arg. 120, 489, 1202</i> ; NONN. <i>Jo. 8, 173 ; 14, 57</i>.`

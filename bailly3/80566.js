@@ -1,1 +1,0 @@
-lar[80566]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> abondant en pins, STR. <i>380, 588</i> ; PLUT. <i>M. 676a ;</i> Πιτυώδεις νῆσοι, ALCM. <i>138</i>, les îles Pityusses ; <i>v</i>. πιτυόεις.<p><b>Étym</b>. πίτυς, -ωδης.`

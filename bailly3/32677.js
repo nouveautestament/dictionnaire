@@ -1,1 +1,0 @@
-lar[32677]=`<b>ἑλέ·ναυς (ἡ)</b> (<i>seul. nom</i>.) qui perd les vaisseaux, <i>jeu de mots sur le nom d’Hélène,</i> ESCHL. <i>Ag. 689</i>.<p><b>Étym</b>. ἑλεῖν, ναῦς, <i>cf</i>. Ἑλένη.`

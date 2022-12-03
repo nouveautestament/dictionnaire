@@ -1,1 +1,0 @@
-lar[49249]=`<b>οῦ (ὁ) :<br>      1</b> cavalier, LUC. <i>Am. 46</i>.<br><b>      2</b> ardent à la course, généreux, <i>en parl. d’un cheval,</i> XÉN. <i>Eq. 10, 17</i>.<p><b>Étym</b>. ἱππάζομαι.`

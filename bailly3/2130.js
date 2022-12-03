@@ -1,1 +1,0 @@
-lar[2130]=`<b>ἀθυρό·στομος, ος, ον</b> <font color="purple">[ῠ]</font> qui bavarde sans mesure, indiscret, SOPH. <i>Ph. 188</i>.<p><b>Étym</b>. ἄθυρος, στόμα.`

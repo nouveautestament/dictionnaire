@@ -1,1 +1,0 @@
-lar[31349]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> sacrifice expiatoire, ZOS. <i>2, 1, 6</i>.<p><b>Étym</b>. ἐκθύω.`

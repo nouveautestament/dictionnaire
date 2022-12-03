@@ -1,1 +1,0 @@
-lar[37866]=`<b>ἐπι·καθαίρω</b> <font color="purple">[κᾰ]</font> purger encore plus, RUF. (ORIB. <i>7, 26</i>).`

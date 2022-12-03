@@ -1,1 +1,0 @@
-lar[65364]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de Mèlos : Μ. γῆ, <i>ou simpl</i>. ἡ Μηλιάς, TH. <i>Lap. 62, 63,</i> terre de Mèlos, <i>employée en peinture</i>.<p><b>Étym</b>. Μῆλος.`

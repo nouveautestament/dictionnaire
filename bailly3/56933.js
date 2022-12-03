@@ -1,1 +1,0 @@
-lar[56933]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> lourde épée, ESCHL. <i>Ch. 860</i>.<p><b>Étym</b>. κόπτω.`

@@ -1,1 +1,0 @@
-lar[11828]=`<b>ἀ·πεσκής, ής, ές</b>, non recouvert, nu, SOPH. <i>fr. 552</i>.<p><b>Étym</b>. ἀ, πέσκος.`

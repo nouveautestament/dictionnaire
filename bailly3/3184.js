@@ -1,1 +1,0 @@
-lar[3184]=`<b>ἀκαταληπτέω-ῶ</b>, ne pouvoir comprendre, <i>gén</i>. SEXT. <i>45, 9 ; 671, 12 ; 736, 32 Bkk</i>.<p><b>Étym</b>. ἀκατάληπτος.`

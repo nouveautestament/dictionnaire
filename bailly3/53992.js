@@ -1,1 +1,0 @@
-lar[53992]=`<b>κατ·ευτρεπίζω</b>, mettre en ordre, arranger, AR. <i>Eccl. 510</i> ; XÉN. <i>Cyr. 8, 6, 8</i>.`

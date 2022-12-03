@@ -1,1 +1,0 @@
-lar[39850]=`<b>ἐπονειδίστως</b>, d’une manière blâmable <i>ou</i> honteuse, PLAT. <i>Leg. 633e ;</i> ISOCR. <i>53a, 261e</i>.`

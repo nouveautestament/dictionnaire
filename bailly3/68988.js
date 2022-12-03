@@ -1,1 +1,0 @@
-lar[68988]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> maladif, malade, ARSTT. <i>H.A. 3, 19 ; G.A. 1, 18, etc.</i> ; PLUT. <i>M. 245c, etc</i>.<p><b>Étym</b>. νόσημα.`

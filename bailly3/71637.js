@@ -1,1 +1,0 @@
-lar[71637]=`<b>ὁμοπαθέω-ῶ</b> <font color="purple">[ᾰ]</font> être affecté de même que, s’associer aux peines <i>ou</i> aux plaisirs de, <i>dat</i>. PLUT. <i>M. 72b</i>.<p><b>Étym</b>. ὁμοπαθής.`

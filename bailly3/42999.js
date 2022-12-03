@@ -1,1 +1,0 @@
-lar[42999]=`<b>ας</b> <font color="purple">[ᾰλ]</font> <i>adj. f. c</i>. εὐπέταλος, POÈT. <i>De vir. herb</i>.<p><b>Étym</b>. <i>Fabr. B. gr. 8, 26, p. 633</i>.`

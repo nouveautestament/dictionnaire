@@ -1,1 +1,0 @@
-lar[66050]=`<b>μισό·παις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui hait les enfants, LUC. <i>Abd. 18</i>.<p><b>Étym</b>. μ. παῖς.`

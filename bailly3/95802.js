@@ -1,1 +1,0 @@
-lar[95802]=`<b>συν·εύδω</b>, <i>anc. att</i>. <b>ξυν·εύδω</b> <font color="darkgreen">(<i>imp</i>. συνηῦδον)</font> dormir <i>ou</i> coucher avec, <i>dat</i>. HDT. <i>3, 69</i> ; SOPH. <i>El. 587</i> ; EUR. <i>Andr. 172, El. 1145 ; fig</i>. ὁ ξυνεύδων χρόνος, ESCHL. <i>Ag. 894,</i> le temps du sommeil.`

@@ -1,1 +1,0 @@
-lar[80060]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vers le fils de Pélée, <i>càd</i>. vers Achille, IL. <i>24, 338</i>.<p><b>Étym</b>. Π. 1, -δε.`

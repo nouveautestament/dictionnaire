@@ -1,1 +1,0 @@
-lar[85518]=`<b>προσ·εκθρῴσκω</b>, saillir en outre, <i>dat</i>. PLUT. <i>M. 1165b</i>.`

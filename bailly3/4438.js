@@ -1,1 +1,0 @@
-lar[4438]=`<b>ἁλί·δουπος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui retentit du bruit de la mer, ORPH. <i>H. 17, 4</i>.<p><b>Étym</b>. ἅ. δοῦπος.`

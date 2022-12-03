@@ -1,1 +1,0 @@
-lar[24784]=`<b>εως (ἡ)</b> tirage au sort, APP. <i>Civ. 1, 35</i> ; NYSS. <i>1, 364, etc.</i> ; PORPH. <i>Abst. 34b</i>.<p><b>Étym</b>. διακληρόω.`

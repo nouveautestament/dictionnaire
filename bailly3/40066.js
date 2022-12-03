@@ -1,1 +1,0 @@
-lar[40066]=`<i>adv</i>., comme l’épode dans le chœur, HÉPH. <i>1, 63, Scriptores metrici græci, Westphal</i>.`

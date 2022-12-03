@@ -1,1 +1,0 @@
-lar[51432]=`<i>ou</i> <b>κάμμορος, ου (ὁ)</b> <font color="purple">[μᾰ]</font> crevette, EPICH. <i>et</i> SOPHR. (ATH. <i>306c</i>).`

@@ -1,1 +1,0 @@
-lar[8195]=`<b>ἀν·ειλίσσω :<br>      1</b> dérouler <i>ou</i> ramener en arrière par un mouvement tournant : πόδα, EUR. <i>Or. 171,</i> ramener son pied en arrière.<br><b>      2</b> dérouler, <i>en gén</i>. NIC. <i>Al. 596</i>.`

@@ -1,1 +1,0 @@
-lar[15544]=`<b>ἀρχέ·πολις, ις, ι</b>, <i>acc</i>. <b>ιν</b>, qui gouverne la ville, PD. <i>P. 9, 9</i>.<p><b>Étym</b>. ἄρχω, πόλις.`

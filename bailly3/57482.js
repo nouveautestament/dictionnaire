@@ -1,1 +1,0 @@
-lar[57482]=`<b>ου (ὁ)</b> <i>att. c</i>. κόσσυφος, AR. <i>Av. 806</i> ; ARISTOPHON <i>et</i> ANAXIL. (ATH. <i>238d, 558d</i>).`

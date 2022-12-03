@@ -1,1 +1,0 @@
-lar[107279]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> gonflement de vanité, orgueil, CLÉM. <i>108 ; au plur</i>. NT. <i>2Cor. 12, 20</i>.<p><b>Étym</b>. φυσιόω².`

@@ -1,1 +1,0 @@
-lar[104456]=`<b>ὑψηλο·τάπεινος, ος, ον</b> <font color="purple">[ᾰ]</font> tour à tour élevé <i>ou</i> humble, PHIL. <i>2, 61</i>.<p><b>Étym</b>. ὑ. ταπεινός.`

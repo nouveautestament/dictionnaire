@@ -1,1 +1,0 @@
-lar[91601]=`<b>ης (ἡ)</b> vieux sarcophage, <i>sobriquet d’un vieillard décrépit,</i> AR. <i>fr. 211 Bgk</i>.<p><b>Étym</b>. σορός.`

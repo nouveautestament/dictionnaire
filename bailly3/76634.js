@@ -1,1 +1,0 @@
-lar[76634]=`<b>ή, όν</b>, qui procure, qui cause, SEXT. <i>235, 20 Bkk</i>.<p><b>Étym</b>. παρέχω.`

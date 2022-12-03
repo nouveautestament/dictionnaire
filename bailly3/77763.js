@@ -1,1 +1,0 @@
-lar[77763]=`<b>πελεκάω-ῶ :<br>      1</b> travailler <i>ou</i> tailler avec la hache, OD. <i>5, 244</i> ; HPC. <i>Art. 789</i> ; AR. <i>Av. 1157</i>.<br><b>      2</b> tailler, couper, <i>en gén</i>. PHIL. BYZ. <i>p. 82</i>.<p>➳ <i>Ao. 3 sg. épq</i>. πελέκκησεν, <i>p</i>. πελέκϝησεν (<i>v</i>. πέλεκυς) OD. <i>l. c</i>.<p><b>Étym</b>. πέλεκυς.`

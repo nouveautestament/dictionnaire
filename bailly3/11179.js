@@ -1,1 +1,0 @@
-lar[11179]=`<b>οῦ (ὁ)</b> qui affranchit, libérateur, M. TYR. <i>13, 5</i>.<p><b>Étym</b>. ἀπαλλάσσω.`

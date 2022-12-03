@@ -1,1 +1,0 @@
-lar[15669]=`<b>ἀρχι·φύλαρχος, ου (ὁ)</b> <font color="purple">[ῐῡ]</font> chef des chefs de tribus, grand-chef des tribus, ZOS. <i>157, 3</i>.`

@@ -1,1 +1,0 @@
-lar[73802]=`<b>οῦ (ὁ)</b> <i>mot sicyonien, c</i>. ὀβολός, ARSTT. (POLL. <i>9, 77</i>).`

@@ -1,1 +1,0 @@
-lar[86060]=`<b>εως (ἡ)</b> pression, ARSTT. <i>Mech. 11, 1</i>.<p><b>Étym</b>. προσκόπτω.`

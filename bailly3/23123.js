@@ -1,1 +1,0 @@
-lar[23123]=`<b>δαμάσ·ιππος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui dompte les chevaux, LAMPROCL. <i>fr. 1 Bgk</i>.<p><b>Étym</b>. δαμάζω, ἵππος.`

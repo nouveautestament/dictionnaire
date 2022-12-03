@@ -1,1 +1,0 @@
-lar[105206]=`<font color="darkgreen">(<i>seul. ao</i>. ἔφευξα)</font> se lamenter, <i>litt</i>. « dire φεῦ », ESCHL. <i>Ag. 1308</i>.<p><b>Étym</b>. <i>cf</i>. αἰάζω <i>de</i> αἰαῖ, οἴζω <i>de</i> οἴ, οἰμώζω <i>de</i> οἴμοι.`

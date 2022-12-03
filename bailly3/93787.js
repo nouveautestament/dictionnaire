@@ -1,1 +1,0 @@
-lar[93787]=`<b>συλ·λιπαίνω</b> <font color="purple">[ῐ]</font> faire fondre (<i>litt</i>. rendre onctueux) ensemble, STR. <i>223</i> ; PLUT. <i>M. 1011b</i>.`

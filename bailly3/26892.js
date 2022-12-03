@@ -1,1 +1,0 @@
-lar[26892]=`<b>ου (ὁ)</b> Dioskouridès, <i>h</i>. PLUT. <i>Ages. 35</i> ; DL. <i>9, 12, etc</i>.<p><i>cf</i>. Διοσκορίδης.`

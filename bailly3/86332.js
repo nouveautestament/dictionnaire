@@ -1,1 +1,0 @@
-lar[86332]=`<b>προσ·πλέω</b>, naviguer vers <i>ou</i> contre, THC. <i>1, 47</i> ; DÉM. <i>646, 10, etc. ; avec le dat</i>. THC. <i>2, 83 ; en parl. des navires eux-mêmes,</i> XÉN. <i>Hell. 6, 2, 33</i>.`

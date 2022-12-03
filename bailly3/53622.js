@@ -1,1 +1,0 @@
-lar[53622]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> affirmation, PLAT. <i>Def. 413c ;</i> ARSTT. <i>Nic. 6, 2</i>.<p><b>Étym</b>. κατάφημι.`

@@ -1,1 +1,0 @@
-lar[8870]=`<b>ας (ἡ) :<br>      1</b> action de cueillir des fleurs, LUC. <i>Pisc. 6</i>.<br><b>      2</b> <i>fig</i>. recueil de pièces de vers choisies, anthologie, <i>titre de divers recueils poétiques</i>.<p><b>Étym</b>. ἀνθολόγος.`

@@ -1,1 +1,0 @@
-lar[7624]=`<b>ῆς (ἡ) :<br>   I</b> destruction, suppression, ARR. <i>Epict. 4, 1, 175</i>.<br><b>   II</b> <i>p. suite</i> :<br><b>      1</b> <i>t. de rhét</i>. réfutation, SEXT. <i>M. 6, 4, etc.</i><br><b>      2</b> guérison, DIOSC. <i>3, 154</i>.<p><b>Étym</b>. <i>cf</i>. ἀνασκευάζω.`

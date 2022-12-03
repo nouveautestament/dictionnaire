@@ -1,1 +1,0 @@
-lar[97903]=`<b>ταχύ·μητις, ιος (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> aux résolutions promptes, NONN. <i>Jo. 1, 184</i>.<p><b>Étym</b>. τ. μῆτις.`

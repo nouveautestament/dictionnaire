@@ -1,1 +1,0 @@
-lar[36727]=`<b>εως (ἡ)</b> action de verser de l’eau sur, mouiller, HPC. <i>Acut. 395</i> ; DS. <i>2, 10 (var</i>. ὑπ-).<p><b>Étym</b>. ἐπαντλέω.`

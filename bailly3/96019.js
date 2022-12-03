@@ -1,1 +1,0 @@
-lar[96019]=`<b>συν·ιππεύς, έως (ὁ)</b> compagnon d’armes dans la cavalerie, DÉM. <i>558, 13</i>.`

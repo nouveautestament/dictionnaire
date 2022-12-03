@@ -1,1 +1,0 @@
-lar[40364]=`<b>ή, όν</b>, qui vit dans la solitude, solitaire, SPT. <i>Ps. 101, 7 ; 112, 4</i>.<p><b>Étym</b>. ἔρημος.`

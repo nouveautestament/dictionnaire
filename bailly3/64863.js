@@ -1,1 +1,0 @@
-lar[64863]=`<b>ος, ον</b> <font color="purple">[στᾰ]</font> changé <i>ou</i> renouvelé par des émigrations, OCELL. <i>3, 5</i>.<p><b>Étym</b>. μετανίστημι.`

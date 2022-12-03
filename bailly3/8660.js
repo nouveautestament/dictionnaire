@@ -1,1 +1,0 @@
-lar[8660]=`<b>ἀν·ηγέομαι-οῦμαι :<br>      1</b> passer en revue, énumérer, PD. <i>N. 10, 19, etc.</i> ; HDT. <i>5, 4 (var</i>. ἀπηγεόμενοι).<br><b>      2</b> s’avancer, PD. <i>O. 9, 81</i>.<p>➳ <i>Dor</i>. ἀναγ- <font color="purple">[ᾱγ]</font> PD. <i>ll. cc</i>.<p><b>Étym</b>. ἀνά, ἡγ.`

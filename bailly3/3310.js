@@ -1,1 +1,0 @@
-lar[3310]=`<b>*ἀκεστορία</b>, <i>seul. ion</i>. <b>ἀκεστορίη, ης (ἡ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> art de soigner <i>ou</i> de guérir, A.RH. <i>2, 512</i> ; ANTH. <i>9, 349 ; App. 360</i> ; A. PL. <i>4, 271, 272, etc.</i><br><b>      2</b> cure, guérison, MAX. <i>π. κατ. 314</i>.<p><b>Étym</b>. ἀκέστωρ.`

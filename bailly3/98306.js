@@ -1,1 +1,0 @@
-lar[98306]=`<b>ῶν (οἱ)</b> les Tentérites, <i>pple germain,</i> PLUT. <i>Cæs. 22</i>.`

@@ -1,1 +1,0 @@
-lar[45522]=`<b>ἡμι·πέπων, ων, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. ἡμίπεπτος ORIB. <i>1, 428 B.-Dar</i>.<p><b>Étym</b>. ἡμι-, π.`

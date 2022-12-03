@@ -1,1 +1,0 @@
-lar[100661]=`<font color="purple">[ῐ]</font> <i>adv</i>., de trois manières, triplement, ARSTT. <i>H.A. 8, 12, 13, etc</i>.<p><b>Étym</b>. τρίχα.`

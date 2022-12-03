@@ -1,1 +1,0 @@
-lar[103263]=`<b>υς, υ</b>, <i>au cp</i>. -ύτερος, qqe peu efféminé, AR. <i>fr. 552</i>.`

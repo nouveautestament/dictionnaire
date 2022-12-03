@@ -1,1 +1,0 @@
-lar[54201]=`<b>ου (τὸ)</b> <i>t. de méd</i>. rétention, DIOSC. <i>5, 161</i>.<p><b>Étym</b>. κάτοχος.`

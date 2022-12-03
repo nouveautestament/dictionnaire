@@ -1,1 +1,0 @@
-lar[53582]=`<b>ατος (τὸ)</b> action de déchirer, OLYMPIOD. <i>2, 424</i>.<p><b>Étym</b>. κατατρύω.`

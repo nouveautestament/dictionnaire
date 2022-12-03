@@ -1,1 +1,0 @@
-lar[20486]=`<b>βουνομέω-ῶ</b>, <i>f</i>. ήσω, mener paître des bœufs, STR. <i>586</i>.<p><b>Étym</b>. βουνόμος.`

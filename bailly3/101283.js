@@ -1,1 +1,0 @@
-lar[101283]=`<i>crase dor. avec élis. p</i>. τὸ αὐτό.`

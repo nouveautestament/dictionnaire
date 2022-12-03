@@ -1,1 +1,0 @@
-lar[3607]=`<b>Ἀκουσί·λαος, ου (ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> Akousilaos (Acusilaüs) <i>historien grec,</i> STR. <i>472, etc</i>.<p>➳ <i>Att</i>. Ἀκουσίλεως, PLAT. <i>Conv. 178b</i>.<p><b>Étym</b>. ἀκούω, λαός.`

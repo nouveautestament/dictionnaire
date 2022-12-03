@@ -1,1 +1,0 @@
-lar[65410]=`<b>ου (ἡ)</b> Mèlos (<i>auj</i>. Mílos) <i>Cyclade, avec une v. du m. nom,</i> THC. <i>2, 9, etc.</i> ; XÉN. <i>Hell. 4, 8, 7</i>.`

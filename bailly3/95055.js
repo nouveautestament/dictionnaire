@@ -1,1 +1,0 @@
-lar[95055]=`<b>συν·δαπανάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> dépenser avec, NYSS.`

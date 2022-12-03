@@ -1,1 +1,0 @@
-lar[60492]=`<b>ας (ἡ)</b> conversation, bavardage, PLAT. <i>Ax. 369d</i>.<p><b>Étym</b>. λεσχηνεύω.`

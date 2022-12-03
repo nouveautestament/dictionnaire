@@ -1,1 +1,0 @@
-lar[91672]=`<i>adv</i>., en sophiste, PLAT. <i>Theæt. 154d ;</i> ARSTT. <i>Rhet. 3, 18, 4</i>.`

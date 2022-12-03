@@ -1,1 +1,0 @@
-lar[81568]=`<b>πόλιν·δε</b>, <i>adv</i>., à la ville, vers la ville, <i>avec mouv</i>. IL. <i>6, 86</i> ; OD. <i>1, 189, etc</i>.<p><b>Étym</b>. πόλις, -δε.`

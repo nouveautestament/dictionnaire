@@ -1,1 +1,0 @@
-lar[76045]=`<b>παρα·πέτομαι</b> <font color="darkgreen">(<i>f</i>. -πτήσομαι, <i>ao.2</i> παρέπτην ; <i>ao.1 moy. part</i>. παραπτάμενος) :</font><br><b>      1</b> voler auprès <i>ou</i> le long de, ARSTT. <i>H.A. 6, 6, 6</i>.<br><b>      2</b> voler au delà de, AR. <i>Th. 1014 ; d’où</i> échapper à, ANTH. <i>6, 19</i>.<p><b>Étym</b>. <i>cf</i>. παραπέταμαι.`

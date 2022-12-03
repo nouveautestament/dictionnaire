@@ -1,1 +1,0 @@
-lar[77302]=`<b>ων (οἱ)</b> images de dieux peintes sur la poupe des navires phéniciens, HDT. <i>3, 37</i>.`

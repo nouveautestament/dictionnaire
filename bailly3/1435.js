@@ -1,1 +1,0 @@
-lar[1435]=`<b>ᾶνος (ὁ)</b> Adikran, <i>roi de Libye,</i> HDT. <i>4, 159</i>.`

@@ -1,1 +1,0 @@
-lar[34233]=`<b>οῦ (ὁ)</b> glorification, SYMM. <i>Ps. 45, 4 ; 46, 5</i>.<p><b>Étym</b>. ἐνδοξάζω.`

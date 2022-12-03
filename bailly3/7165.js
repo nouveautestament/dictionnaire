@@ -1,1 +1,0 @@
-lar[7165]=`<b>ἀνα·μασχαλιστήρ, ῆρος (ὁ)</b> <font color="purple">[χᾰ]</font> bracelet au haut du bras, près de l’aisselle, PHILIPPID. (POLL. <i>5, 100).</i><p><b>Étym</b>. ἀνά, μασχάλη.`

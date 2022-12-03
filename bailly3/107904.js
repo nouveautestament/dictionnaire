@@ -1,1 +1,0 @@
-lar[107904]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> trait d’esprit, plaisanterie, PLAT. <i>Theæt. 168d ; joint à</i> εὐτραπελία, PLAT. <i>Rsp. 563b ; p. opp. à</i> σπουδή, PLUT. <i>M. 11f, etc</i>.<p><b>Étym</b>. χαριεντίζομαι.`

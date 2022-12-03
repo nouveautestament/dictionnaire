@@ -1,1 +1,0 @@
-lar[89803]=`<i>adv</i>., d’un air grave et digne, HDN <i>2, 10, 4</i>.<p><b>Étym</b>. σεμνοπρεπής.`

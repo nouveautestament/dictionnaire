@@ -1,1 +1,0 @@
-lar[15420]=`<b>ἀρτ·όπτης, ου (ὁ)</b> = <i>lat</i>. artopta, four de campagne pour cuire le pain, PLIN. <i>H.N. 18, 11</i>.<p><b>Étym</b>. ἄρτος, ὀπτάω.`

@@ -1,1 +1,0 @@
-lar[36305]=`<b>ας (ἡ) :<br>      1</b> déclaration sous serment qu’on ne sait rien d’une affaire, AR. <i>Eccl. 1026</i> ; DÉM. <i>1119, 26</i>.<br><b>      2</b> action de décliner une charge, refus de service, DÉM. <i>381, 1</i>.<p><b>Étym</b>. ἐξόμνυμι.`

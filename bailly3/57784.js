@@ -1,1 +1,0 @@
-lar[57784]=`<b>ου (τὸ)</b> boucherie <i>ou</i> marché à la viande, PLUT. <i>M. 277d ;</i> DS. <i>12, 24</i>.<p><b>Étym</b>. κρεωπώλης, <i>cf</i>. κρεοπώλιον.`

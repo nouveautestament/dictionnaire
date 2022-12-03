@@ -1,1 +1,0 @@
-lar[95577]=`<b>συν·επαύξω</b>, accroître ensemble <i>ou</i> en même temps, DC. <i>39, 25</i>.`

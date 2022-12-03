@@ -1,1 +1,0 @@
-lar[21510]=`<b>ῶνος (ὁ)</b> JOS. <i>A.J. 5, 6, ou</i> Γεδεών (ὁ) <i>indécl</i>. NT. <i>Hebr. 11, 32,</i> Gédéon, <i>n. hébreu</i>.`

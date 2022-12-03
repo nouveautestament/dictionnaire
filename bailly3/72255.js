@@ -1,1 +1,0 @@
-lar[72255]=`<b>ὀπίουροι κατεαγότες (οἱ)</b> <i>p.-ê</i>. des rognures d’ongles, ARSTT. <i>Probl. 16, 8, 9</i>.`

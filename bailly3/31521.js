@@ -1,1 +1,0 @@
-lar[31521]=`<b>ἐκ·κυλίνδω</b> (<i>seul. prés</i>.) <font color="purple">[ῠ]</font> <i>c</i>. ἐκκυλίω ; SOPH. <i>O.R. 812</i> ; AR. <i>Pax 134</i>.`

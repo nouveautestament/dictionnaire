@@ -1,1 +1,0 @@
-lar[90881]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Skiathos (<i>auj</i>. Skiáthos) <i>î. au N. de l’Eubée,</i> SIM. (SCH.-A.RH. <i>1, 583</i>) ; HDT. <i>7, 176, etc.</i> ; DÉM. <i>4, 32, etc. Baiter-Sauppe</i> ; PLUT. <i>Them. 7, etc</i>.`

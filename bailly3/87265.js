@@ -1,1 +1,0 @@
-lar[87265]=`<b>πρωτο·τρόφος, ος, ον</b>, qui nourrit pour la première fois, qui nourrit un premier enfant, MAN. <i>3, 9</i> ; PROCL. <i>Ptol. p. 170</i>.<p><b>Étym</b>. πρ. τρέφω.`

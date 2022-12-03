@@ -1,1 +1,0 @@
-lar[50897]=`<i>adv</i>., méchamment, CHRYS. <i>2, 791</i>.<p>•<i> Sup</i>. -ότατα, ANT. <i>119, 25</i> ; DC. <i>64, 15</i>.`

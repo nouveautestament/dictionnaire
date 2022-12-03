@@ -1,1 +1,0 @@
-lar[11768]=`<font color="purple">[κᾰ]</font> <i>adv</i>., sans être enveloppé <i>ou</i> caché, PHILSTR. <i>Im. 2</i>.`

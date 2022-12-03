@@ -1,1 +1,0 @@
-lar[57507]=`<b>κραδη·φορία, ας (ἡ)</b> <font color="purple">[ᾰδ]</font> fête juive où l’on portait des branches de figuier, PLUT. <i>M. 671e</i>.<p><b>Étym</b>. κράδη, φέρω.`

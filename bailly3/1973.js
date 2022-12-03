@@ -1,1 +1,0 @@
-lar[1973]=`<b>ἀ·θελήτως</b>, <i>adv</i>., malgré la volonté, ASPAS. (ATH. <i>219d</i>).<p><b>Étym</b>. ἀ, θέλω.`

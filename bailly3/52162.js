@@ -1,1 +1,0 @@
-lar[52162]=`<b>εως (ἡ) :<br>      1</b> clameur, invective, PLUT. <i>Pomp. 67, etc.</i><br><b>      2</b> grand cri, ARTÉM. <i>1, 24 ; au pl</i>. acclamations, PHIL. <i>2, 537</i>.<p><b>Étym</b>. καταβοάω.`

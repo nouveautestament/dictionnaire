@@ -1,1 +1,0 @@
-lar[34809]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐνοικίδιος, ARÉT. <i>Cur. m. diut. 1, 4</i>.`

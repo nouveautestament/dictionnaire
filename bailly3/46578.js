@@ -1,1 +1,0 @@
-lar[46578]=`<b>      1</b> rendre la justice : τινί, OD. <i>11, 569,</i> à qqn ; <i>p. ext</i>. être juge <i>ou</i> chef de, gouverner, <i>gén</i>. OD. <i>9, 114</i>.<br><b>      2</b> rendre des oracles, EUR. <i>Ion 571</i> ; PLUT. <i>Alex. 14, etc.</i> ; τινί τι, HH. <i>Ap. 253,</i> annoncer <i>ou</i> ordonner par un oracle qqe ch. à qqn.<p><b>Étym</b>. θέμις.`

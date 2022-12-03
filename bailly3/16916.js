@@ -1,1 +1,0 @@
-lar[16916]=`<b>ακος</b>, Atrax :<br><b>      1 (ἡ)</b> <i>v. de Thessalie,</i> STR.<br><b>      2 (ὁ)</b> <i>affl. du Pénée,</i> STR.<p>➳ <i>Gén</i>. -αγος, EUP. (E. Byz.). <i>Cf.</i> Ἄτρακες.`

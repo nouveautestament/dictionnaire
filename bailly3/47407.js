@@ -1,1 +1,0 @@
-lar[47407]=`<b>εως (ἡ)</b> action de toucher, ARSTT. <i>G.A. 3, 1, 27 ; Phys. 3, 2, 4, etc</i>.<p><b>Étym</b>. θιγγάνω.`

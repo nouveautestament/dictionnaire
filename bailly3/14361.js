@@ -1,1 +1,0 @@
-lar[14361]=`<b>ἀργυρό·τοξος, ος, ον</b> <font color="purple">[ῠ]</font> à l’arc d’argent, <i>ép. d’Apollon</i> ; ὁ ἀ. IL. <i>1, 37,</i> le dieu à l’arc d’argent.<p><b>Étym</b>. ἄ. τόξον.`

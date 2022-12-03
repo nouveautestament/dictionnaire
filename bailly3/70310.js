@@ -1,1 +1,0 @@
-lar[70310]=`<b>ου (ὁ)</b> habitant d’un village, SOPH. <i>fr. 138 Dind</i>.<p><b>Étym</b>. οἴη 2.`

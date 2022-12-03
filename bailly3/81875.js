@@ -1,1 +1,0 @@
-lar[81875]=`<b>πολυ·είλητος, ος, ον</b>, tout à fait tordu, enroulé, RUF. <i>p. 61</i>.<p><b>Étym</b>. π. εἱλέω.`

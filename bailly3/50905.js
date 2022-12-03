@@ -1,1 +1,0 @@
-lar[50905]=`<b>κακο·φθόρος, ος, ον</b> <font color="purple">[ᾰ]</font> destructeur, funeste, NIC. <i>Th. 795, Al. 168</i>.<p><b>Étym</b>. κ. φθείρω.`

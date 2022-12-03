@@ -1,1 +1,0 @@
-lar[72173]=`<b>ὀξύ·στομος, ος, ον :<br>   I</b> (<i>au sens de aigu</i>) :<br><b>      1</b> au bec aigu, ESCHL. <i>Pr. 803, etc.</i><br><b>      2</b> à l’aiguillon acéré, AR. <i>Av. 244</i>.<br><b>   II</b> (<i>au sens de tranchant</i>) au tranchant aiguisé, EUR. <i>Suppl. 1206</i>.<p><b>Étym</b>. ὀ. στόμα.`

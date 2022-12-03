@@ -1,1 +1,0 @@
-lar[3870]=`<b>ἀκρο·χάλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ᾰῐκ]</font> légèrement ivre, A.RH. <i>4, 432</i> ; DP. <i>948</i>.<p><b>Étym</b>. ἄ. χ.`

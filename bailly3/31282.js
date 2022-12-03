@@ -1,1 +1,0 @@
-lar[31282]=`<b>ἐκ·θαμβέω-ῶ :<br>      1</b> être frappé d’étonnement <i>ou</i> de stupeur, ORPH. <i>Arg. 1217</i>.<br><b>      2</b> frapper de stupeur, SPT. <i>Sir. 30, 9 ; au pass</i>. être frappé de stupeur, NT. <i>Marc. 9, 15</i>.<p><b>Étym</b>. ἔκθαμβος.`

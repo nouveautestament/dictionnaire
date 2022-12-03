@@ -1,1 +1,0 @@
-lar[11762]=`<b>ἀ·περιέργως</b>, <i>adv</i>., sans recherche, simplement, EL. <i>V.H. 12, 1</i> ; SEXT. <i>P. 1, 240 ; joint à</i> ἁπλῶς, DH. <i>6, 978 Reiske</i>.`

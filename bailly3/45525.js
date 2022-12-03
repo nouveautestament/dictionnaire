@@ -1,1 +1,0 @@
-lar[45525]=`<b>ου (τὸ)</b> <font color="purple">[μῐ]</font> <i>c</i>. ἡμιπήχειον HIPPARQ. <i>1093d Migne</i>.`

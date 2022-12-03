@@ -1,1 +1,0 @@
-lar[50769]=`<b>κακο·μανέω-ῶ</b> <font color="purple">[κᾰ]</font> être en démence, délirer, PHIL. <i>2, 501</i>.<p><b>Étym</b>. κ. μαίνομαι.`

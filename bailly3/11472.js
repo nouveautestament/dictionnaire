@@ -1,1 +1,0 @@
-lar[11472]=`<b>ἀπ·αυθημερίζω</b>, faire un trajet en un jour, XÉN. <i>An. 5, 2, 1</i> ; EL. <i>V.H. 9, 2</i>.`

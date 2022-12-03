@@ -1,1 +1,0 @@
-lar[47052]=`<i>att</i>. <b>Θετταλικός, ή, όν</b> <font color="purple">[ᾰ]</font> de Thessalie, Thessalien, HDT. <i>7, 128</i> ; SOPH. <i>fr. 843, etc</i>.<p>➳ ATT. Θετταλικός, PLAT. <i>Pol. 264c ;</i> AR. <i>fr. 413, etc</i>.<p><b>Étym</b>. Θεσσαλία.`

@@ -1,1 +1,0 @@
-lar[31364]=`<b>ἐκ·καθεύδω</b> <font color="darkgreen">(<i>impf</i>. ἐξεκάθευδον)</font> <font color="purple">[ᾰ]</font> passer la nuit à veiller, XÉN. <i>Hell. 2, 4, 24</i>.`

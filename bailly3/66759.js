@@ -1,1 +1,0 @@
-lar[66759]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Morykhos, <i>mauvais poète tragique,</i> AR. <i>Ach. 887, Pax 1008, etc</i>.<p><b>Étym</b>. μορύσσω.`

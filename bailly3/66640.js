@@ -1,1 +1,0 @@
-lar[66640]=`<i>adv</i>., avec une seule strophe, HÉPH. <i>Poem. 3, 7</i>.`

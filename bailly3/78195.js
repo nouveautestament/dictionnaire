@@ -1,1 +1,0 @@
-lar[78195]=`<font color="purple">[νᾰ]</font> <i>adv</i>., un nombre de fois déterminé, ARSTT. <i>An. post. 1, 21, 5</i>.<p><b>Étym</b>. πεπερασμένος, -άκις.`

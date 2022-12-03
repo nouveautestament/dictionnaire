@@ -1,1 +1,0 @@
-lar[12033]=`<b>ἄ·πλαστος, ος, ον :<br>      1</b> non façonné, informe, PHIL. ; <i>fig</i>. naturel, simple, sincère, PLUT. <i>M. 16b, etc.</i> ; THÉM. <i>56c ;</i> DL. <i>7, 118</i>.<br><b>      2</b> qui ne peut être façonné, ARSTT. <i>Meteor. 4, 8, 5, etc</i>.<p><b>Étym</b>. ἀ, πλάσσω.`

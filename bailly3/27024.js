@@ -1,1 +1,0 @@
-lar[27024]=`<b>δί·σκηπτρος, ος, ον</b>, au double sceptre, ESCHL. <i>Ag. 48</i>.<p><b>Étym</b>. δίς, σκῆπτρον.`

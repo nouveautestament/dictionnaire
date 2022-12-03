@@ -1,1 +1,0 @@
-lar[57511]=`<b>ου (ὁ) :<br>      1</b> maladie propre à certains arbres (figuiers, peupliers, platanes) et qui les rend noirs et secs, TH. <i>H.P. 4, 14, 4</i>.<br><b>      2</b> branche atteinte de cette maladie, DIOSC. <i>1, 134</i>.`

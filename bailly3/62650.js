@@ -1,1 +1,0 @@
-lar[62650]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> qu’on peut amollir, ARSTT. <i>Meteor. 4, 9, 1</i>.<p><b>Étym</b>. <i>vb. de</i> μαλάσσω.`

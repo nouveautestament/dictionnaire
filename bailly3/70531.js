@@ -1,1 +1,0 @@
-lar[70531]=`<b>οἰνο·κάπηλος, ου (ὁ)</b> marchand de vin, cabaretier, SEXT. <i>Gramm. 141, p. 246</i>.<p><b>Étym</b>. οἶν. κάπηλος.`

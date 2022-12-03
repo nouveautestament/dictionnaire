@@ -1,1 +1,0 @@
-lar[107617]=`<b>ης (ἡ)</b> <i>sorte de fleur,</i> NIC. <i>fr. 2, 60</i>.`

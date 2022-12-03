@@ -1,1 +1,0 @@
-lar[110232]=`<b>ῆνος (ὁ)</b> Ôlène, <i>anc. poète grec de Lycie,</i> HDT. <i>4, 35</i> ; CALL. <i>Del. 4, 305</i>.`

@@ -1,1 +1,0 @@
-lar[105640]=`<b>ορος</b> (ὁ, <i>qqf</i>. ἡ) <font color="purple">[ῐ]</font> amant, amante, ESCHL. <i>Ag. 1446</i> ; STR. <i>484</i>.<p>➳ ἡ φ. NONN. <i>Jo. 18, 55</i>.<p><b>Étym</b>. φιλέω.`

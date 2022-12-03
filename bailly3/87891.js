@@ -1,1 +1,0 @@
-lar[87891]=`<b>πυρι·πληθής, ής, ές</b> <font color="purple">[ῠ]</font> rempli de feu, ORACL. (EUS. <i>P.E. 4, 9).</i><p><b>Étym</b>. π. πλήθω.`

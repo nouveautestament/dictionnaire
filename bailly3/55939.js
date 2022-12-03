@@ -1,1 +1,0 @@
-lar[55939]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. κλιτύς, LYC. <i>703</i> ; ANTH. <i>9, 665</i>.`

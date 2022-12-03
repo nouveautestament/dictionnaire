@@ -1,1 +1,0 @@
-lar[49461]=`<b>ἱππόω-ῶ</b>, <i>au moy</i>. avoir la notion du cheval en soi, <i>t. de phil</i>. PLUT. <i>M. 1120d, 1121a</i>.<p><b>Étym</b>. ἵππος.`

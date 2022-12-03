@@ -1,1 +1,0 @@
-lar[55417]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., en jouant de la cithare, PLUT. <i>M. 404f ;</i> SEXT. <i>M. p. 469</i>.`

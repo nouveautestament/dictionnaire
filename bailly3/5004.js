@@ -1,1 +1,0 @@
-lar[5004]=`<b>ἁλυκό·σμυρνα, ης (ἡ)</b> <font color="purple">[ᾰῠκ]</font> sorte de myrrhe, HIPPIATR. <i>2, p. 887</i>.<p><b>Étym</b>. ἁ. σμύρνα.`

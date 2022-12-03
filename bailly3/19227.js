@@ -1,1 +1,0 @@
-lar[19227]=`<b>βαρύ·φωνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à la voix grave <i>ou</i> forte, HPC. <i>283</i> ; ARSTT. <i>G.A. 5, 7, 9 ; etc</i>.<p><b>Étym</b>. β. φωνή.`

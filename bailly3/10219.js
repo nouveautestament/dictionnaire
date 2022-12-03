@@ -1,1 +1,0 @@
-lar[10219]=`<b>ἀντι·παροδεύω</b>, faire route parallèlement au-devant de, APP. <i>Lib. 107</i>.`

@@ -1,1 +1,0 @@
-lar[12994]=`<b>ἀπο·ξενολογέω-ῶ</b>, dissoudre un corps de mercenaires, JOS. <i>A.J. 13, 16, 2</i>.`

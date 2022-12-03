@@ -1,1 +1,0 @@
-lar[83785]=`<b>προ·βέβουλα</b>, <i>pf. de l’inus</i>. *προβούλομαι :<br><b>      1</b> préférer : τινά τινος, IL. <i>1, 113</i> ; ION <i>fr. 14</i> ; ANTH. <i>9, 445,</i> une personne à une autre.<br><b>      2</b> vouloir de préférence, vouloir, COL. <i>199, etc</i>.<p><b>Étym</b>. π. βούλομαι.`

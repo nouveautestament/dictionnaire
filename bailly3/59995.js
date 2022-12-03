@@ -1,1 +1,0 @@
-lar[59995]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> voracité, gloutonnerie, AR. <i>Nub. 52</i>.<p><b>Étym</b>. λαφύσσω.`

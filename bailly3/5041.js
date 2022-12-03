@@ -1,1 +1,0 @@
-lar[5041]=`<font color="darkgreen">(<i>seul. impf. 3 sg</i>. ἀλύσκανε)</font> <i>c</i>. ἀλυσκάζω OD. <i>22, 330</i>.`

@@ -1,1 +1,0 @@
-lar[8811]=`<b>ης (ἡ)</b> Anthè, <i>v. des Myrmidons,</i> HÉS. <i>Sc. 474</i>.`

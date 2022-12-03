@@ -1,1 +1,0 @@
-lar[100997]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Tylos, <i>h</i>. NONN. <i>D. 25, 454, etc</i>.<p><b>Étym</b>. <i>cf</i>. τύλος.`

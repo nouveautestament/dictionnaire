@@ -1,1 +1,0 @@
-lar[37316]=`<b>ἐπι·βαρύνω</b> <font color="purple">[ᾰῡ]</font><br><b>      1</b> surcharger, SPT. <i>Ex. 21, 30</i>.<br><b>      2</b> accabler (l’ennemi) APP. <i>Mithr. 25</i>.`

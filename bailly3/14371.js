@@ -1,1 +1,0 @@
-lar[14371]=`<b>ἀργυρό·χροος, ος, ον</b> <font color="purple">[ῠ]</font> qui a la couleur de l’argent, CHRYS. <i>7, 283</i>.<p><b>Étym</b>. ἄ. χρόα.`

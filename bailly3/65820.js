@@ -1,1 +1,0 @@
-lar[65820]=`<b>ης, ες</b>, de la nature <i>ou</i> de la couleur du vermillon, EUB. (ATH. <i>557f</i>) ; LUC. <i>Syr. 8</i>.<p><b>Étym</b>. μίλτος, -ωδης.`

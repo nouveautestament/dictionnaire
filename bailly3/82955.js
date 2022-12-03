@@ -1,1 +1,0 @@
-lar[82955]=`<i>par apocope dorienne p</i>. ποτί.`

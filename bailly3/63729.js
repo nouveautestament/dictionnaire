@@ -1,1 +1,0 @@
-lar[63729]=`<font color="darkgreen">(<i>ao. 3 pl</i>. ἐμειρακίσαντο)</font> <font color="purple">[ᾰ]</font> <i>c</i>. μειρακεύομαι, ARR. <i>An. 4, 13, 1 dout</i>.`

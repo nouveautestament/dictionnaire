@@ -1,1 +1,0 @@
-lar[103163]=`<b>ὑπο·διαλείπω</b>, avoir des intermittences, <i>en parl. du pouls,</i> GAL. <i>8, 12</i>.`

@@ -1,1 +1,0 @@
-lar[89366]=`<b>α, ον</b>, de Sappho, POSIDIPP. (ATH. <i>596d</i>).<p><b>Étym</b>. Σαπφώ.`

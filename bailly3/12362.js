@@ -1,1 +1,0 @@
-lar[12362]=`<b>ἀπο·εργάθω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἀποέργαθεν)</font> <font color="purple">[γᾰ]</font> tenir écarté, IL. <i>21, 599</i> ; OD. <i>21, 221</i>.<p><b>Étym</b>. <i>cf</i>. ἀποέργω.`

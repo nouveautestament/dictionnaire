@@ -1,1 +1,0 @@
-lar[81548]=`<b>ου</b>, <i>ion</i>. <b>-εω (ὁ)</b> <font color="purple">[ᾰ]</font> Poliadès, <i>h</i>. HDT. <i>9, 52</i>.<p><b>Étym</b>. <i>patr. de</i> πολιός.`

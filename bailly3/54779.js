@@ -1,1 +1,0 @@
-lar[54779]=`<b>ου (ὁ)</b> mouette, <i>oiseau de mer,</i> ARSTT. <i>H.A. 8, 3, 14, etc.</i> ; LYC. <i>76, 836, etc. ; fig</i>. homme simple, sot, niais, AR. <i>Pax 1067</i>.`

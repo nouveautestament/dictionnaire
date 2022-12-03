@@ -1,1 +1,0 @@
-lar[34256]=`<font color="purple">[ῠ]</font> <i>c</i>. ἐνδυκέως A.RH. <i>1, 883, conj.</i> ; NIC. <i>Th. 263, 283</i>.`

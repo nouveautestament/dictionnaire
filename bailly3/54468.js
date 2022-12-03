@@ -1,1 +1,0 @@
-lar[54468]=`<b>κεδρόω-ῶ</b>, oindre d’huile de cèdre, POSIDON. (STR. <i>198).</i><p><b>Étym</b>. κέδρος.`

@@ -1,1 +1,0 @@
-lar[75533]=`<b>παραδοξολογέω-ῶ</b>, dire des choses incroyables <i>ou</i> extraordinaires, STR. <i>626,</i> DS. <i>1, 69</i> ; ARR. <i>Epict. 2, 22, 12 ; au pass</i>. être dit, <i>en parl. de choses merveilleuses,</i> STR. <i>248</i> ; DS. <i>1, 42</i>.<p><b>Étym</b>. παραδοξολόγος.`

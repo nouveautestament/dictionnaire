@@ -1,1 +1,0 @@
-lar[4535]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>ion</i>. course errante en mer, ANTH. <i>6, 38</i>.`

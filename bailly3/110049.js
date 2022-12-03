@@ -1,1 +1,0 @@
-lar[110049]=`<b>ου (τὸ)</b> petit morceau, bouchée, DL. <i>6, 37</i> ; NT. <i>Joh. 13, 26</i>.<p><b>Étym</b>. <i>dim. de</i> ψωμός.`

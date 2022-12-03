@@ -1,1 +1,0 @@
-lar[59983]=`<b>ων (οἱ)</b> les habitants de Laurentum, <i>v. du Latium,</i> PLUT. <i>Rom. 23, 24</i>.`

@@ -1,1 +1,0 @@
-lar[100587]=`<b>τρι·φίλητος</b>, <i>dor</i>. <b>τρι·φίλατος, ος, ον</b> <font color="purple">[ῐῐᾱ]</font> trois fois aimé, bien-aimé, THCR. <i>Idyl. 15, 86</i>.<p><b>Étym</b>. τρ. φιλέω.`

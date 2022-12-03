@@ -1,1 +1,0 @@
-lar[105770]=`<b>Φιλο·δώρητος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philodôrètos, <i>h</i>. AR. <i>Eccl. 51</i>.<p><b>Étym</b>. φ. δωρέομαι.`

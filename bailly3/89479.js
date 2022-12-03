@@ -1,1 +1,0 @@
-lar[89479]=`<b>ου (ὁ)</b> = <i>lat</i>. Sarmentus, <i>favori d’Auguste,</i> PLUT. <i>Ant. 59</i>.`

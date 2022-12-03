@@ -1,1 +1,0 @@
-lar[35912]=`<b>εως (ἡ) :<br>      1</b> exposition de faits historiques, récit, THC. <i>1, 73</i> ; POL. <i>6, 3, 1</i>.<br><b>      2</b> explication, commentaire, PLAT. <i>Leg. 631d ; particul</i>. interprétation d’un songe, DS. <i>2, 29</i>.<br><b>      3</b> traduction, JOS. <i>A.J. proœm. 3</i>.<p><b>Étym</b>. ἐξηγέομαι.`

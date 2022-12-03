@@ -1,1 +1,0 @@
-lar[59401]=`<b>ας (ἡ) :<br>      1</b> commerce intime, HPC. <i>550, 34 ; en parl. d’animaux,</i> ARSTT. <i>H.A. 6, 21</i>.<br><b>      2</b> libertinage, XÉN. <i>Mem. 1, 6, 8</i> ; ANTH. <i>10, 45 ; au plur</i>. T. LOCR. <i>103a</i>.<p>➳ <i>Ion</i>. λαγνείη, HPC. <i>l. c. etc</i>.<p><b>Étym</b>. λαγνεύω.`

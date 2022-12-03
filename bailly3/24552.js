@@ -1,1 +1,0 @@
-lar[24552]=`<b>δια·δηλόω-ῶ</b> <font color="darkgreen">(<i>impf</i>. διεδήλουν) :</font><br><b>      1</b> signifier, <i>d’où</i> symboliser, PLUT. <i>Cæs. 6</i> ; rendre évident, DC. <i>40, 17</i>.<br><b>      2</b> signifier clairement, faire reconnaître, <i>acc</i>. DL. <i>4, 46</i>.`

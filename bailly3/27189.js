@@ -1,1 +1,0 @@
-lar[27189]=`<b>διχογνωμονέω-ῶ</b> <font color="purple">[ῐ]</font> être d’avis contraire, XÉN. <i>Mem. 2, 6, 21</i> ; DC. <i>44, 25</i> ; LIB. <i>4, 809</i>.<p><b>Étym</b>. διχογνώμων.`

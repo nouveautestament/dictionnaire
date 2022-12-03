@@ -1,1 +1,0 @@
-lar[85296]=`<b>ιος (ἡ)</b> action de porter à la bouche, de manger, HPC. <i>Acut. 388</i>.<p><b>Étym</b>. προσαίρω.`

@@ -1,1 +1,0 @@
-lar[23297]=`(<i>genre inconnu</i>) thlaspi, <i>plante,</i> DIOSC. <i>Noth. 2, 186</i>.`

@@ -1,1 +1,0 @@
-lar[91904]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> tache sur la peau, <i>d’où,</i> tache <i>en gén</i>. DORION (ATH. <i>297c</i>) ; JOS. <i>A.J. 13, 11, 3</i> ; PLUT. <i>M. 921f, etc. ; fig</i>. impureté, vice, LYSIS (JAMBL. <i>V. Pyth. 162) ; en parl. de pers</i>. DH. <i>4, 24</i> ; NT. <i>Eph. 5, 27</i>.`

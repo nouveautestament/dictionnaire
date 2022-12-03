@@ -1,1 +1,0 @@
-lar[46153]=`<b>θαλασσο·βαφέω-ῶ</b> <font color="purple">[θᾰβᾰ]</font> teindre avec la pourpre, PHIL. PARADOX. <i>VII mir. 2</i>.<p><b>Étym</b>. θ. βάπτω.`

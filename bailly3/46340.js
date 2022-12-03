@@ -1,1 +1,0 @@
-lar[46340]=`<b>ου (ὁ)</b> Thasos, <i>fondateur de la v. du même nom,</i> HDT. <i>6, 47</i>.<p><b>Étym</b>. <i>cf</i>. Θάσος.`

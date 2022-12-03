@@ -1,1 +1,0 @@
-lar[108429]=`<i>ou</i> <b>χίδρον, ου (τὸ)</b> <i>d’ord. au pl</i>. épis de froment qu’on grillait pour les manger, ALCM. (ATH. <i>648b</i>) ; AR. <i>Eq. 806, Pax 595</i> ; SPT. <i>Lev. 2, 14 ; 23, 14</i>.`

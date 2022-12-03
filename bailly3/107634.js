@@ -1,1 +1,0 @@
-lar[107634]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐδ]</font> <i>autre n. du lézard</i> χαλκίς, DORION (ATH. <i>328d</i>).`

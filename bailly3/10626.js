@@ -1,1 +1,0 @@
-lar[10626]=`<b>εως (ἡ)</b> action de puiser de l’eau, EL. <i>V.H. 1, 24</i>.<p><b>Étym</b>. ἀντλέω.`

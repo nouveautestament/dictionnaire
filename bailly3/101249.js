@@ -1,1 +1,0 @@
-lar[101249]=`<b>ή, όν</b>, moqueur, railleur, DH. <i>7, 72</i>.<p><b>Étym</b>. τωθάζω.`

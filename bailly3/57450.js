@@ -1,1 +1,0 @@
-lar[57450]=`<b>οῦ (ὁ) :<br>      1</b> <i>c</i>. κούφισμα ARÉT. <i>p. 73, 56</i> ; ORIB. <i>p. 76 Matthäi ; fig</i>. PLUT. <i>M. 79c.</i><br><b>      2</b> élision, EUST. <i>p. 1499, 14, etc</i>.<p><b>Étym</b>. κουφίζω.`

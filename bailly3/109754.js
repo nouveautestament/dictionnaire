@@ -1,1 +1,0 @@
-lar[109754]=`<b>ψευδ·ώμοτος, ος, ον</b>, déclaré avec un faux serment, LYC. <i>932</i>.<p><b>Étym</b>. ψ. ὄμνυμι.`

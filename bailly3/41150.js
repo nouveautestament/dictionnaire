@@ -1,1 +1,0 @@
-lar[41150]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> salle de festin, salle à manger, THPP. (ATH. <i>531f</i>) ; DH. <i>2, 23</i> ; PLUT. <i>M. 146c</i>.<p><b>Étym</b>. ἑστιάτωρ.`

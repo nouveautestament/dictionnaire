@@ -1,1 +1,0 @@
-lar[60192]=`<b>όεσσα, όεν :<br>      1</b> de lis, NIC. <i>Al. 406</i>.<br><b>      2</b> blanc <i>ou</i> beau comme un lis, IL. <i>13, 830</i> ; qui a la douceur du lis, <i>en parl. de la voix,</i> IL. <i>3, 152</i> ; HÉS. <i>Th. 41, etc</i>.<p><b>Étym</b>. λείριον.`

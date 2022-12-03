@@ -1,1 +1,0 @@
-lar[35359]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰκ]</font> trait lancé, SCH.-OD. <i>22, 19</i>.<p><b>Étym</b>. ἐξακοντίζω.`

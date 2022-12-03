@@ -1,1 +1,0 @@
-lar[97925]=`<b>ταχυ·χειλής, ής, ές</b> <font color="purple">[ᾰῠ]</font> que les lèvres parcourent rapidement, <i>en parl. d’une flûte,</i> ANTH. <i>5, 206</i>.<p><b>Étym</b>. τ. χεῖλος.`

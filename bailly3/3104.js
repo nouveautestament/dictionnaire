@@ -1,1 +1,0 @@
-lar[3104]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰκ]</font> buisson, broussailles, NAZ. <i>3, 25 Migne</i>.`

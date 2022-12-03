@@ -1,1 +1,0 @@
-lar[43662]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. εὐτυχία, SOPH. <i>fr. 882</i>.`

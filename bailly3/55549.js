@@ -1,1 +1,0 @@
-lar[55549]=`<b>ου (τὸ)</b> <font color="purple">[κῑ]</font><br><b>      1</b> petite colonne, HÉRON <i>Aut. 246, 30 ; 264, 6</i>.<br><b>      2</b> axe de révolution des coquillages, DIOSC. <i>2, 6</i>.<p><b>Étym</b>. κίων.`

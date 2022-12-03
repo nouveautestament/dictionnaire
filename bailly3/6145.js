@@ -1,1 +1,0 @@
-lar[6145]=`<b>ἀμφί·ζευκτος, ος, ον</b>, joint des deux côtés (par un pont) ESCHL. <i>Pers. 129</i>.<p><b>Étym</b>. ἀ. ζεύγνυμι.`

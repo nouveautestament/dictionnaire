@@ -1,1 +1,0 @@
-lar[70242]=`<b>οἷαι αἱ μεγάλαι ἢ οἷαι</b>, <i>titre d’un poème perdu d’Hésiode, où étaient énumérées les nymphes dont la mention commençait toujours par</i> ἢ οἵη.`

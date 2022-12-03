@@ -1,1 +1,0 @@
-lar[24228]=`<b>ατος (τὸ)</b> ouvrage manuel, DH. <i>Comp. 1</i> ; ATH. <i>497b ; d’où en gén</i>. ouvrage fait de main d’homme, ZALEUC. (STOB. <i>279, 20).</i><p><b>Étym</b>. δημιουργέω.`

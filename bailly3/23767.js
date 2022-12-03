@@ -1,1 +1,0 @@
-lar[23767]=`<b>ας</b>, <i>adj. f</i>. qui reçoit, ARCH. <i>18</i> ; ANTH. <i>11, 400 (fém. de</i> δεκτήρ, LEX., <i>de</i> δέχομαι).`

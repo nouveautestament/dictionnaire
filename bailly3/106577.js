@@ -1,1 +1,0 @@
-lar[106577]=`<b>φοινικο·στερόπας</b> <font color="purple">[ῑᾱ]</font> <i>adj. m</i>. aux éclairs rouges <i>ou</i> embrasés, PD. <i>O. 9, 10</i>.<p><b>Étym</b>. <i>dor. p</i>. *φοινικοστερόπης <i>de</i> φ. στεροπή.`

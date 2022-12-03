@@ -1,1 +1,0 @@
-lar[43275]=`<b>εὐρυ·κάρηνος, ος, ον</b> <font color="purple">[ῠᾰ]</font> à large tête, OPP. <i>C. 1, 152</i> ; NONN. <i>D. 20, 127</i>.<p><b>Étym</b>. εὐ. κάρηνον.`

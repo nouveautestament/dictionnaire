@@ -1,1 +1,0 @@
-lar[95032]=`<b>συν·αφίημι</b> <font color="purple">[ᾰ]</font> relâcher <i>ou</i> laisser aller ensemble, ARSTT. <i>Probl. 23, 38</i> ; POL. <i>11, 12, 7</i> ; PLUT. <i>M. 674c</i>.`

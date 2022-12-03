@@ -1,1 +1,0 @@
-lar[16373]=`<b>Ἀστύ·μαχος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> Astymakhos, <i>Platéen,</i> THC.<p><b>Étym</b>. ἄστυ, μάχομαι.`

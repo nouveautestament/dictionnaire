@@ -1,1 +1,0 @@
-lar[86554]=`<b>προσ·υπακούω</b> <font color="purple">[ᾰ]</font> sous-entendre, suppléer, PLAT. <i>Leg. 898d ;</i> ARSTT. <i>Metaph. 3</i> ; GAL. <i>16, 733, 740</i>.`

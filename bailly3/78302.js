@@ -1,1 +1,0 @@
-lar[78302]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. περάσιμος, PD. <i>N. 4, 114</i>.<p>➳ <i>Ion</i>. περητός, HDT. <i>1, 189, 193, etc</i>.<p><b>Étym</b>. <i>vb. de</i> περάω.`

@@ -1,1 +1,0 @@
-lar[70243]=`<font color="purple">[ᾱ]</font> <i>adv</i>., à la façon d’un gouvernail, DYSC. <i>Adv. p. 619, 9</i>.<p><b>Étym</b>. οἴαξ, -δόν.`

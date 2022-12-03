@@ -1,1 +1,0 @@
-lar[10079]=`<b>ἀντι·μεταβάλλω</b>, changer en sens contraire, HPC. <i>Acut. 388</i>.`

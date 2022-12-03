@@ -1,1 +1,0 @@
-lar[88985]=`<b>ή, όν</b>, qui concerne Rome <i>ou</i> les Romains, romain, <i>d’où p. ext</i>. latin, POL. <i>11, 20, 6, etc.</i> ; PLUT. <i>Luc. 11, etc.</i> ; LUC. <i>M. cond. 24, etc</i>.<p>•<i> Cp</i>. -ώτερος, ANON. (<i>Cram. 3, 190, 30) ; sup</i>. -ώτατος, ANTH. <i>9, 502</i>.<p><b>Étym</b>. Ῥώμη.`

@@ -1,1 +1,0 @@
-lar[90784]=`(<i>seul. prés. et impf.) c</i>. σκεπάζω, HPC. <i>Art. 789</i> ; POL. <i>16, 26, 13</i> ; LUC. <i>Tim. 21, etc.</i> ; HDN <i>3, 3, etc</i>.`

@@ -1,1 +1,0 @@
-lar[105750]=`<b>ή, όν</b> <font color="purple">[φῐ]</font> <i>au</i> <i>• Sup</i>. -ώτατος, <i>c</i>. φιλοδέσποτος CHRYS. <i>Serm. 13, 7, p. 277</i>.`

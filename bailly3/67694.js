@@ -1,1 +1,0 @@
-lar[67694]=`<b>οῦ (ὁ)</b> courant d’eau, source, ruisseau, EUR. <i>Hec. 154, Hipp. 225, 653, etc</i>.<p><b>Étym</b>. ναίω.`

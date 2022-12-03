@@ -1,1 +1,0 @@
-lar[66171]=`<b>μνηματίτης λόγος (ὁ)</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. oraison funèbre, EUST. <i>1673, 45</i>.<p><b>Étym</b>. μνῆμα.`

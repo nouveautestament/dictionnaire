@@ -1,1 +1,0 @@
-lar[58277]=`<b>ου (ὁ)</b> Ktèsios, <i>père d’Eumée,</i> OD. <i>15, 414</i>.<p><b>Étym</b>. <i>cf</i>. κτήσιος.`

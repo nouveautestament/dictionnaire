@@ -1,1 +1,0 @@
-lar[25264]=`<b>δια·πιδύω</b> <font color="purple">[πῑ]</font> (<i>seul. prés. part</i>. -ύουσα) s’épancher à travers, <i>avec</i> διά <i>et le gén</i>. ARSTT. <i>G.A. 2, 6, 19</i>.`

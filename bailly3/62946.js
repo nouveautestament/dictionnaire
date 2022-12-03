@@ -1,1 +1,0 @@
-lar[62946]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑᾰ]</font> Mariladès, <i>càd</i>. charbonnier, AR. <i>Ach. 609</i>.<p><b>Étym</b>. μαρίλη.`

@@ -1,1 +1,0 @@
-lar[70834]=`<b>ὀκτά·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> qui renferme <i>ou</i> peut contenir huit couches <i>ou</i> litières, ARSTT. <i>Mir. 1</i>.<p><b>Étym</b>. ὀ. κλίνη.`

@@ -1,1 +1,0 @@
-lar[56356]=`<b>κνωπό·μορφος, ος, ον</b>, qui ressemble à une bête féroce, LYC. <i>675</i>.<p><b>Étym</b>. κνώψ, μορφή.`

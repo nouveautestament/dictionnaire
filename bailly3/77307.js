@@ -1,1 +1,0 @@
-lar[77307]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> assiette, plat, SOPHR. <i>fr. 31 Ahrens</i>.<p><b>Étym</b>. <i>probabl. pré-grec ; p. le suff. cf</i>. λεκάνη.`

@@ -1,1 +1,0 @@
-lar[44845]=`<i>exclamation pour appeler l’attention</i> ; ἢ ἢ σιώπα, AR. <i>Nub. 105</i> (ἠή <i>Dind</i>.) hé! silence.`

@@ -1,1 +1,0 @@
-lar[29094]=`<b>ος, ον</b>, de douze mines : δ. πετροβόλος, PHIL. BYZ. <i>Bel</i>. baliste <i>ou</i> pierrier à boulet de douze mines (= <i>4,836 kg).</i><p><b>Étym</b>. δ. μνᾶ.`

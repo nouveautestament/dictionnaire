@@ -1,1 +1,0 @@
-lar[59498]=`<b>λαθροφαγέω-ῶ</b> <font color="purple">[φᾰ]</font> manger en cachette, MÉTAG. (POLL. <i>6, 40).</i><p><b>Étym</b>. λαθροφάγος.`

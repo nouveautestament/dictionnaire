@@ -1,1 +1,0 @@
-lar[75316]=`<b>παν·ώδυνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> tout à fait douloureux, APP. <i>Civ. 5, 67 dout</i>.<p><b>Étym</b>. π. ὀδύνη.`

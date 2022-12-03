@@ -1,1 +1,0 @@
-lar[80024]=`<b>πηδαλιουχέω-ῶ</b> <font color="purple">[ᾰ]</font> tenir le gouvernail, PHIL. <i>1, 131</i> ; JOS. <i>Macc. 7, etc</i>.<p><b>Étym</b>. πηδαλιοῦχος.`

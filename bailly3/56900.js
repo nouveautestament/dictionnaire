@@ -1,1 +1,0 @@
-lar[56900]=`<b>ου (ὁ)</b> sorte d’arbrisseau épineux et toujours vert, AGATHOCL. (ATH. <i>649f</i>).`

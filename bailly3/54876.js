@@ -1,1 +1,0 @@
-lar[54876]=`<b>κερατό·φωνος, ος, ον</b> <font color="purple">[ᾰ]</font> dont le son est produit par une trompe, TÉLEST. (ATH. <i>637a</i>).<p><b>Étym</b>. κέρας, φωνή.`

@@ -1,1 +1,0 @@
-lar[46407]=`<b>ῶν (οἱ)</b> descendants de Théandros, PD. <i>N. 4, 118</i>.<p><b>Étym</b>. <i>patr. de</i> *Θέανδρος.`

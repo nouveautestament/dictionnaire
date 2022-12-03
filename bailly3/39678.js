@@ -1,1 +1,0 @@
-lar[39678]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne l’argumentation, la dialectique, ARSTT. <i>Mem. 2, 1</i>.<p><b>Étym</b>. ἐπιχείρημα.`

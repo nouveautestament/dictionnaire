@@ -1,1 +1,0 @@
-lar[57224]=`quêter pour <i>ou</i> avec la corneille, <i>en parl. des bateleurs qui faisaient leur collecte une corneille sur le poing,</i> ATH. <i>359e</i>.<p><b>Étym</b>. κορώνη.`

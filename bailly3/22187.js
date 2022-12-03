@@ -1,1 +1,0 @@
-lar[22187]=`<b>γλυκυ·φαγία, ας (ἡ)</b> <font color="purple">[ῠῠφᾰ]</font> usage d’aliments doux, A. TR. <i>1, p. 71</i>.<p><b>Étym</b>. γλυκύς, φαγεῖν.`

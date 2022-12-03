@@ -1,1 +1,0 @@
-lar[58679]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petite cymbale, HÉRON <i>Aut. 258</i>.<br><b>      2</b> cotylet, <i>plante,</i> DIOSC. <i>4, 92</i>.<p><b>Étym</b>. κύμβαλον.`

@@ -1,1 +1,0 @@
-lar[15739]=`<b>ης, ες</b>, maigre d’aspect, ARÉT.<p><b>Étym</b>. ἄσαρκος, -ωδης.`

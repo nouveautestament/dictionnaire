@@ -1,1 +1,0 @@
-lar[86636]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> adhérence, XÉN. <i>Eq. 1, 11</i>.<br><b>      2</b> point d’attache, HPC. <i>Art. 810</i> ; ARSTT. <i>G.A. 2, 7, 1, etc</i>.<p><b>Étym</b>. προσφύω.`

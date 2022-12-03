@@ -1,1 +1,0 @@
-lar[98630]=`<b>τετρά·πεζος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a quatre pieds, ORPH. <i>Lith. 741</i>.<p><b>Étym</b>. τ. πέζα.`

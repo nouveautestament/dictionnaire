@@ -1,1 +1,0 @@
-lar[16674]=`<font color="purple">[τᾰ]</font> <i>adv</i>., sans économie, sans retenue, PLAT. <i>Leg. 867a</i>.`

@@ -1,1 +1,0 @@
-lar[14692]=`<b>ἀριστο·γένεθλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui donne d’excellents produits, ANTH. <i>9, 686</i>.<p><b>Étym</b>. ἄ. γένεθλον.`

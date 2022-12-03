@@ -1,1 +1,0 @@
-lar[86770]=`<b>προ·τεύχω</b>, faire <i>ou</i> fabriquer auparavant, <i>d’où à l’inf. pf. pass</i>. προτετύχθαι, IL. <i>16, 60 ; 18, 112 ; 19, 65,</i> être fait avant.<p><b>Étym</b>. π. τεύχω.`

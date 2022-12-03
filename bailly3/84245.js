@@ -1,1 +1,0 @@
-lar[84245]=`<b>προ·επιπλήσσω</b>, <i>att</i>. <b>-πλήττω</b>, prendre les devants pour réprimander : αὑτῷ, ARSTT. <i>Rhet. 3, 7, 9,</i> prévenir en se gourmandant soi-même les reproches d’autrui.`

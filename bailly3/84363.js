@@ -1,1 +1,0 @@
-lar[84363]=`<b>προ·θρῴσκω</b> (<i>seul. au part. ao.2</i> προθορών) s’élancer en avant, IL. <i>14, 363 ; 17, 522, etc.</i> ; A.RH. <i>4, 641</i>.`

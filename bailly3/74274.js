@@ -1,1 +1,0 @@
-lar[74274]=`<b>ης, ες</b>, d’enfant, puéril, DH. <i>Pomp. 6</i>.<p><b>Étym</b>. παιδίον, -ωδης.`

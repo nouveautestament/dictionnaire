@@ -1,1 +1,0 @@
-lar[110353]=`<b>ᾠο·ειδής, ής, ές</b>, semblable à un œuf, ovale, ARSTT. <i>H.A. 5, 1, 9 ; 5, 28, 2 ; G.A. 2, 1, 22, etc.</i> ; τὸ ᾠοειδές, PLUT. <i>M. 886c ;</i> GAL. <i>19, 358,</i> humeur <i>ou</i> sécrétion humide des yeux.<p><b>Étym</b>. ᾠ. εἶδος.`

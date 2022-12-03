@@ -1,1 +1,0 @@
-lar[26128]=`<b>δι·εκλάμπω</b> <font color="darkgreen">(<i>ao. inf</i>. -λάμψαι)</font> briller à travers, HLD. <i>2, 31</i>.`

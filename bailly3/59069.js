@@ -1,1 +1,0 @@
-lar[59069]=`<b>ῶν (οἱ)</b> descendants de Kypsélos, HDT. <i>6, 128</i> ; PLAT. <i>Phædr. 236b</i>.<p><b>Étym</b>. <i>patr. de</i> Κύψελος.`

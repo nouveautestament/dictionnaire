@@ -1,1 +1,0 @@
-lar[101116]=`<b>ης (ἡ) :<br>      1</b> désordre, confusion, tumulte, HPC. <i>766b ;</i> XÉN. <i>Cyr. 1, 2, 3</i> ; POL. <i>1, 67, 3</i> ; LUC. <i>Per. 32, Char. 15 ; joint à</i> ταραχαί, ISOCR. <i>Antid. § 130</i>.<br><b>      2</b> danse tumultueuse aux fêtes de Bacchus, PAUS. <i>2, 24, 6</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

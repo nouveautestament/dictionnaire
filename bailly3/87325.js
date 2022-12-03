@@ -1,1 +1,0 @@
-lar[87325]=`<b>Πτερνο·τρώκτης, ου (ὁ)</b> Ronge-jambons, <i>n. de rat,</i> BATR. <i>29</i>.<p><b>Étym</b>. πτ. τρώγω.`

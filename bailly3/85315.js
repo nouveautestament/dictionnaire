@@ -1,1 +1,0 @@
-lar[85315]=`<b>προσ·αυλέω-ῶ</b>, accompagner sur la flûte, <i>acc</i>. AR. <i>Eccl. 892 ; abs</i>. ARSTT. <i>Aud. 23 ; Probl. 19, 39, 4 ; d’où au pass</i>. se mettre à l’unisson avec, <i>dat</i>. PLUT. <i>M. 1140d</i>.`

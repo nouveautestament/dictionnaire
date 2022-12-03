@@ -1,1 +1,0 @@
-lar[75690]=`<b>παρα·καταλείπω</b>, laisser qqn auprès de, <i>dat</i>. THC. <i>6, 7</i> ; DC. <i>46, 37</i>.`

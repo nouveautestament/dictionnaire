@@ -1,1 +1,0 @@
-lar[25384]=`<b>δια·πτοέω-οῶ</b>, effrayer, épouvanter : τινα, OD. <i>18, 340,</i> qqn ; <i>particul</i>. frapper de frayeur panique ; <i>avec un suj. de chose,</i> EUR. <i>Bacch. 304</i> ; PLUT. <i>Cleom. 5</i> ; THÉM. <i>257b ; au pass</i>. PLAT. <i>Rsp. 336d ; en parl. de chevaux,</i> POL. <i>3, 51, 5</i>.<p>➳ <i>Épq. et ion. ao. 3 sg</i>. διεπτοίησε, OD. <i>l. c</i>.`

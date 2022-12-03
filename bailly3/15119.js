@@ -1,1 +1,0 @@
-lar[15119]=`<b>ας (ἡ)</b> commerce contre nature, SEXT. <i>P. 1, 152</i> ; CLÉM. <i>223</i>.<p><b>Étym</b>. *ἀρρενομίκτης.`

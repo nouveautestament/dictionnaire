@@ -1,1 +1,0 @@
-lar[12708]=`<b>ἀπό·κυνον, ου (τὸ)</b> <font color="purple">[ῠ]</font> cynanque <i>ou</i> apocin (<i>Cynanchus erectus L.) plante qui fait mourir les chiens,</i> DIOSC. <i>4, 81</i>.<p><b>Étym</b>. ἀπό, κύων.`

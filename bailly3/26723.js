@@ -1,1 +1,0 @@
-lar[26723]=`<b>δι·οίγω</b>, entr’ouvrir, ouvrir (une porte, la bouche, <i>etc</i>.) SOPH. <i>Aj. 346</i> ; HPC. <i>5, 446 Littré</i> ; PLAT. <i>Conv. 215b, etc</i>.<p>➳ <i>Prés</i>. SOPH. HPC. <i>ll. cc. Ao. sbj. 2 sg</i>. διοίξῃς, EUR. <i>Suppl. 1205. Ao. pass. part</i>. διοιχθέντες, PLAT. <i>l. c</i>.`

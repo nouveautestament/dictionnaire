@@ -1,1 +1,0 @@
-lar[45562]=`<b>ἡμί·σπαστος, ος, ον</b>, à demi arraché <i>ou</i> détruit, STR. <i>831</i> ; ANTH. <i>10, 21</i>.<p><b>Étym</b>. ἡμι-, σπάω.`

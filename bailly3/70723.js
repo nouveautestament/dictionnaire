@@ -1,1 +1,0 @@
-lar[70723]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>ion. c</i>. οἴσυπος HPC. <i>668, 43</i>.`

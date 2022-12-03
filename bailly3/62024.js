@@ -1,1 +1,0 @@
-lar[62024]=`<b>ου (ὁ)</b> Lysikleidès, <i>h</i>. PLAT. <i>Ep. 314c</i>.<p><b>Étym</b>. <i>patr. de</i> Λυσικλῆς.`

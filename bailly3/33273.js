@@ -1,1 +1,0 @@
-lar[33273]=`<b>ἐμ·μήνιος, ος, ον</b>, mensuel ; τὰ ἐμμήνια, HPC. <i>565, etc</i>. les menstrues.<p><b>Étym</b>. ἐν, μήν.`

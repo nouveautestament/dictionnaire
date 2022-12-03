@@ -1,1 +1,0 @@
-lar[67278]=`<b>μυριό·φυλος, ος, ον</b> <font color="purple">[ῡῡ]</font> d’espèces <i>ou</i> de genres innombrables, OPP. <i>H. 1, 626</i>.<p><b>Étym</b>. μ. φῦλον.`

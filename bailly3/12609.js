@@ -1,1 +1,0 @@
-lar[12609]=`<b>ἀπο·κλύζω</b>, effacer en lavant, AR. <i>Ran. 1340</i> ; TH. <i>C.P. 5, 9, 6</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLAT. <i>Phædr. 243d ;</i> DS. <i>4, 51</i>.`

@@ -1,1 +1,0 @@
-lar[71053]=`<b>ὀλιγό·σπερμος, ος, ον</b> <font color="purple">[ῐ]</font> dont la semence est peu abondante, ARSTT. <i>G.A. 1, 18</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>H.P. 7, 4</i>.<p><b>Étym</b>. ὀλ. σπέρμα.`

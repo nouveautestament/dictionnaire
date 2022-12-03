@@ -1,1 +1,0 @@
-lar[53595]=`<b>οῦ (ὁ)</b> éclat, vive lumière, PLUT. <i>Nic. 23</i>.<p><b>Étym</b>. καταυγάζω.`

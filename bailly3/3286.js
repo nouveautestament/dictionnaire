@@ -1,1 +1,0 @@
-lar[3286]=`<b>ἄ·κερως, ως, ων</b>, <i>gén</i>. <b>ω</b>, sans cornes, PLAT. <i>Pol. 265b</i>.<p>➳ <i>Pl. neutre</i> ἄκερα, ARSTT. <i>H.A. 2, 1, 31</i>.<p><b>Étym</b>. ἀ, κέρας.`

@@ -1,1 +1,0 @@
-lar[85444]=`<b>οῦ (ὁ)</b> spécification, restriction, DIOPH. <i>Arithm. p. 21</i>.<p><b>Étym</b>. προσδιορίζω.`

@@ -1,1 +1,0 @@
-lar[75030]=`<b>παν·ηγυριστής, οῦ (ὁ)</b> <font color="purple">[ᾰῠ]</font> qui se rend à une fête solennelle, LUC. <i>Pseud. 5, etc</i>.<p><b>Étym</b>. πανηγυρίζω.`

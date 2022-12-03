@@ -1,1 +1,0 @@
-lar[61216]=`<b>ου (ἡ)</b> Lindos (<i>auj</i>. Línđos) <i>v. de Rhodes,</i> IL. <i>2, 656</i> ; HDT. <i>1, 144</i> ; THC. <i>8, 44, etc</i>.`

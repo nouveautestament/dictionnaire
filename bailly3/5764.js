@@ -1,1 +1,0 @@
-lar[5764]=`<b>ἀ·μόρφωτος, ος, ον</b>, non formé, informe, T. LOCR. <i>94a ;</i> SOPH. <i>fr. 243</i>.<p><b>Étym</b>. ἀμορφόω.`

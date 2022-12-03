@@ -1,1 +1,0 @@
-lar[85549]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de s’avancer vers, PLUT. <i>M. 866c.</i><br><b>      2</b> action de s’élancer contre, choc, attaque, DC. <i>40, 22</i>.<p><b>Étym</b>. προσελαύνω.`

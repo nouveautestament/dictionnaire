@@ -1,1 +1,0 @@
-lar[23601]=`<b>δειπνο·θήρας, ου (ὁ)</b> <i>litt</i>. chasseur de souper, parasite, PHIL. <i>1, 665</i>.<p><b>Étym</b>. δεῖπνον, θηράω.`

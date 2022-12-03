@@ -1,1 +1,0 @@
-lar[41464]=`<b>ἐτυμηγορέω-ῶ</b> <font color="purple">[ῠ]</font> dire la vérité, PROCL. <i>Plat. Crat. (Bkk. p. 1376).</i><p><b>Étym</b>. ἐτυμηγόρος.`

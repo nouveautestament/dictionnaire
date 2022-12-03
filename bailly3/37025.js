@@ -1,1 +1,0 @@
-lar[37025]=`<b>εως (ἡ)</b> explication développée, BAS. <i>1, 37e</i>.<p><b>Étym</b>. ἐπεκδιηγέομαι.`

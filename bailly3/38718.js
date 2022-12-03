@@ -1,1 +1,0 @@
-lar[38718]=`<b>ἐπι·πλημμυρέω-ῶ</b> <font color="purple">[ῡ]</font> <i>c</i>. ἐπιπλημμύρω PHILSTR. <i>Im. 2, 17</i>.`

@@ -1,1 +1,0 @@
-lar[105901]=`<b>φιλο·λοίδορος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à injurier, insulteur, DÉM. <i>269, 11</i> ; ARSTT. <i>H.A. 9, 1, 7 ; Probl. 3, 27</i>.<p><b>Étym</b>. φ. λοιδορέω.`

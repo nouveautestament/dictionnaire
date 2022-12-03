@@ -1,1 +1,0 @@
-lar[34855]=`<b>οῦ (ὁ)</b> adjuration, SYN. <i>Ep. 67, 1413b Migne</i>.<p><b>Étym</b>. ἐνορκίζω.`

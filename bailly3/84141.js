@@ -1,1 +1,0 @@
-lar[84141]=`<b>προ·εμπίπρημι</b> <font color="darkgreen">(<i>f</i>. -εμπρήσω, <i>ao</i>. -ενέπρησα, <i>etc</i>.)</font> incendier auparavant, DC. <i>54, 5</i>.`

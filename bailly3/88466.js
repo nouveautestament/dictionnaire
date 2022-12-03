@@ -1,1 +1,0 @@
-lar[88466]=`<b>ῥηξί·θεμις (ἡ)</b> <font color="purple">[ξῐ]</font> emportement, violence, CIC. <i>Att. 14, 10 dout</i>.<p><b>Étym</b>. ῥήγνυμι, θέμις.`

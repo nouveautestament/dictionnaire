@@ -1,1 +1,0 @@
-lar[51576]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Canope, HDT. <i>2, 15</i>.<p><b>Étym</b>. Κάνωβος.`

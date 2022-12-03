@@ -1,1 +1,0 @@
-lar[35268]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>act</i>. qui sert à conduire au dehors, DH. <i>4, 44</i>.<br><b>      2</b> <i>pass</i>. qu’on peut conduire au dehors, exportable, LYCURG. <i>151, 18</i> ; ARSTT. <i>Œc. 2, 3</i>.<p><b>Étym</b>. ἐξάγω.`

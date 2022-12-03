@@ -1,1 +1,0 @@
-lar[67100]=`<b>ορος</b> <font color="purple">[ῡ]</font> <i>adj. m. c</i>. μυκητής, NONN. <i>D. 3, 237</i>.`

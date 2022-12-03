@@ -1,1 +1,0 @@
-lar[76717]=`<b>παρ·ενστάζω</b>, allonger dans qqe ch. auprès de, ORIB. <i>3, 119 B.-Dar</i>.`

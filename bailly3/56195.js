@@ -1,1 +1,0 @@
-lar[56195]=`<b>ου (τὸ)</b> <i>dim. de</i> κλών, TH. <i>H.P. 3, 13, 5, etc.</i> ; PLUT. <i>M. 641c ;</i> GEOP. <i>2, 27, 6, etc</i>.`

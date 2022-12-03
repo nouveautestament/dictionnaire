@@ -1,1 +1,0 @@
-lar[33136]=`<b>ἐμ·βομβέω-ῶ</b>, bourdonner dans, <i>dat</i>. SYN. <i>Ep. 123, 1504b Migne</i>.<p><b>Étym</b>. ἐν, β.`

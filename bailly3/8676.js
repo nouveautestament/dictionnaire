@@ -1,1 +1,0 @@
-lar[8676]=`<b>ἀν·ηθοποίητος, ος, ον :<br>      1</b> qui peint mal les mœurs, DH. <i>Lys. 8</i> ; LGN <i>34, 3</i>.<br><b>      2</b> dont le caractère n’est pas formé, grossier, CIC. <i>Att. 10, 10, 5</i>.<p><b>Étym</b>. ἀν-, ἡθοποιέω.`

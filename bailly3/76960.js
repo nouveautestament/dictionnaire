@@ -1,1 +1,0 @@
-lar[76960]=`<b>παρ·ιστίδιος, ος, ον</b> <font color="purple">[ῐδ]</font> placé près d’un métier (de tisserand, de brodeuse), ANTH. <i>7, 726</i>.<p><b>Étym</b>. π. ἱστός.`

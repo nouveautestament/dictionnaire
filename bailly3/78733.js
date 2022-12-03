@@ -1,1 +1,0 @@
-lar[78733]=`<b>περι·καταρρήγνυμι</b>, déchirer tout autour, entièrement, DH. <i>9, 39</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. XÉN. <i>Cyr. 5, 1, 6</i>.`

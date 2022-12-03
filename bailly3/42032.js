@@ -1,1 +1,0 @@
-lar[42032]=`<b>ας (ἡ) :<br>      1</b> maniement facile, ORIB. <i>51 Mai</i>.<br><b>      2</b> bienfaisance, ANTH. <i>15, 34</i>.<p><b>Étym</b>. εὐεργής.`

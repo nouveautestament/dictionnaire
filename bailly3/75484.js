@@ -1,1 +1,0 @@
-lar[75484]=`<b>παρα·δακρύω</b>, pleurer auprès de, <i>dat</i>. LUC. <i>Nav. 4</i>.`

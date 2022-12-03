@@ -1,1 +1,0 @@
-lar[95393]=`<b>συν·εκπολεμόω-ῶ</b>, exciter ensemble à se faire la guerre, PLUT. <i>M. 380b</i>.`

@@ -1,1 +1,0 @@
-lar[59309]=`<i>préfixe augmentatif : v</i>. Λάμαχος, Λακατάρατος, <i>etc</i>.`

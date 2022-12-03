@@ -1,1 +1,0 @@
-lar[40817]=`<b>ητος (ἡ)</b> position fortifiée <i>ou</i> situation infranchissable, XÉN. <i>Cyr. 6, 1, 23</i> ; ARSTT. <i>Pol. 7, 11, 9</i> ; POL. <i>3, 47, 9</i>.<p><b>Étym</b>. ἐρυμνός.`

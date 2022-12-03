@@ -1,1 +1,0 @@
-lar[42759]=`<b>ας :<br>      1</b> <i>subst</i>. (ἡ) épouse, ESCHL. <i>Pers. 157, etc.</i> ; ANTH. <i>15, 21</i>.<br><b>      2</b> <i>adj. f</i>. qui amène le repos, A.RH. <i>4, 1058</i>.<p>➳ <i>Dor</i>. εὐνάτ- <font color="purple">[ᾱ]</font> ESCHL. ANTH. <i>ll. cc</i>.<p><b>Étym</b>. <i>fém. de</i> εὐνητήρ.`

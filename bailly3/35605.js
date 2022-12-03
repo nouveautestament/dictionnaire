@@ -1,1 +1,0 @@
-lar[35605]=`<b>ατος (τὸ) :<br>      1</b> élévation, hauteur des astres, du pôle, <i>etc</i>. HIPPARQ. <i>1013c Migne</i> ; STR. <i>75</i> ; PLUT. <i>Mar. 11, M. 410e ;</i> PTOL. <i>Tetr. 76</i>.<br><b>      2</b> enflure, gonflement, HPC. <i>1133f</i>.<p><b>Étym</b>. ἐξαίρω.`

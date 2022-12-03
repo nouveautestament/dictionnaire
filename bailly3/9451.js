@@ -1,1 +1,0 @@
-lar[9451]=`<b>ῆς (ἡ)</b> répercussion, ARSTT. <i>Mund. 4, 33</i>.<p><b>Étym</b>. ἀντανακόπτω.`

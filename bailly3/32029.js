@@ -1,1 +1,0 @@
-lar[32029]=`<b>ατος (τὸ)</b> excroissance de chair, DIOSC. <i>5, 84</i>.<p><b>Étym</b>. ἐκσαρκόω.`

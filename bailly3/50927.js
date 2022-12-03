@@ -1,1 +1,0 @@
-lar[50927]=`<b>κακό·χυμος, ος, ον</b> <font color="purple">[ᾰῡ]</font> qui a <i>ou</i> produit un mauvais suc, cacochyme, GAL. <i>2, 279</i> ; SEXT. <i>13, 29</i>.<p>•<i> Sup</i>. -ότατος, ATH. <i>24f</i>.<p><b>Étym</b>. κ. χυμός.`

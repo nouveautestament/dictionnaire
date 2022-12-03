@@ -1,1 +1,0 @@
-lar[80622]=`<i>ion</i>. <b>Πλακιδίη, ης (ἡ)</b> <font color="purple">[ᾱῐδ]</font> = <i>lat</i>. Placidia, <i>n. de f. rom</i>. ANTH. <i>1, 12, etc</i>.`

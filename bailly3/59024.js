@@ -1,1 +1,0 @@
-lar[59024]=`<b>άδος</b> <font color="purple">[ῠ]</font> <i>adj. f. c</i>. Κυταῖος ORPH. <i>Arg. 904</i>.`

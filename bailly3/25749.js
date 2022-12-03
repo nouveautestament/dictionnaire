@@ -1,1 +1,0 @@
-lar[25749]=`<b>ου (τὸ)</b> pièce transversale dans une construction, CALLIX. (ATH. <i>205f</i>).<p><b>Étym</b>. διάτονος.`

@@ -1,1 +1,0 @@
-lar[106158]=`<b>φιλοτροφέω-ῶ</b> <font color="purple">[ῐ]</font> aimer à nourrir, à entretenir, <i>acc</i>. PLUT. <i>M. 684d ;</i> ARTÉM. <i>3, 5 ; au pass</i>. être bien nourri, SPT. <i>1Reg. 28, 24</i>.<p><b>Étym</b>. φιλότροφος.`

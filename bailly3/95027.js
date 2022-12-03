@@ -1,1 +1,0 @@
-lar[95027]=`<b>συν·αφανίζω</b> <font color="purple">[ᾰᾰ]</font> faire disparaître avec, <i>d’où au pass</i>. disparaître avec, <i>dat</i>. STR. <i>257, 578</i> ; DH. <i>1, 1 ; abs</i>. SEXT. <i>M. 5, 51</i>.`

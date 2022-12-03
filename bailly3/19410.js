@@ -1,1 +1,0 @@
-lar[19410]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne la teinture : ἡ βαφική (<i>s.-e</i>. τέχνη) PLUT. <i>M. 228b</i>, l’art de teindre.<br><b>      2</b> qui sert à teindre, LUC. <i>Alex. 12</i> ; DIOSC. <i>3, 160</i> ; D. CHR. <i>2, 413, 39 ; 418, 45</i>.<p><b>Étym</b>. βάπτω.`

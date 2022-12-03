@@ -1,1 +1,0 @@
-lar[12822]=`<b>εως (ἡ)</b> ablution, PLAT. <i>Crat. 405b</i>.<p><b>Étym</b>. ἀπολούω.`

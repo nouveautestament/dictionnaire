@@ -1,1 +1,0 @@
-lar[50234]=`<b>ων (οἱ)</b> jeunes garçons consacrés au service des dieux Kabires (<i>v</i>. Κάβειροι) DH. <i>2, 22</i>.`

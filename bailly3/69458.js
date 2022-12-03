@@ -1,1 +1,0 @@
-lar[69458]=`<b>ας (ἡ)</b> action de recevoir des hôtes, des étrangers, XÉN. <i>Œc. 9, 10</i>.<p><b>Étym</b>. ξενοδόκος.`

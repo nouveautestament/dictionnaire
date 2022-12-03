@@ -1,1 +1,0 @@
-lar[42709]=`<i>adv</i>., de manière à mieux se souvenir, XÉN. <i>Ages. 11, 1</i>.<p><b>Étym</b>. εὖ, μνήμων.`

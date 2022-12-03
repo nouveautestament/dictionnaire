@@ -1,1 +1,0 @@
-lar[12496]=`<b>ἀπο·κάλυμμα, ατος (τὸ)</b> <font color="purple">[κᾰ]</font> révélation, HERMAS (CLÉM. <i>426).</i><p><b>Étym</b>. ἀποκαλύπτω.`

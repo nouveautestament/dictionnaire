@@ -1,1 +1,0 @@
-lar[89646]=`<b>Σε·βῖνος, ου (ὁ)</b> Sébinos, <i>n. d’h. com. avec jeu de mots sur</i> Ἱπποβῖνος, AR. <i>Ran. 427, Eccl. 980</i>.<p><b>Étym</b>. σέ, βινεῖν.`

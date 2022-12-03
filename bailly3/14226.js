@@ -1,1 +1,0 @@
-lar[14226]=`<b>ἀργεί·λοφος, ος, ον</b>, aux blanches collines, PD. <i>fr. 214, en parl. du pays des Locriens Épizéphyriens ; cf</i>. ἀργής <i>et</i> ἀργινόεις.<p><b>Étym</b>. ἀργός, λόφος.`

@@ -1,1 +1,0 @@
-lar[43651]=`<b>εὐτροφέω-ῶ</b>, être bien nourri, devenir fort, ARSTT. <i>G.A. 4, 1, 29</i> ; TH. <i>H.P. 5, 2, 2</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. TH. <i>C.P. 4, 1, 4</i>.<p><b>Étym</b>. εὔτροφος.`

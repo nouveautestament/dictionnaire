@@ -1,1 +1,0 @@
-lar[41829]=`<b>(ὁ)</b> <font color="purple">[ᾱᾱ]</font> Eudamidas, <i>n. de plusieurs rois de Sparte,</i> XÉN. <i>Hell. 5, 2, 24</i> ; POL. <i>4, 35, 15</i> ; PLUT. <i>Agis 3</i>.<p>➳ <i>Gén</i>. -ου, XÉN. <i>Hell. 5, 2, 24, etc.</i> ; POL. <i>4, 35</i> ; -α, PLUT. <i>l. c.</i> ; LUC. <i>Tox. 22, 23</i>.<p><b>Étym</b>. <i>patr. de</i> Εὔδαμος.`

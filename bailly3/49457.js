@@ -1,1 +1,0 @@
-lar[49457]=`<b>ου (τὸ) :<br>      1</b> troupe de chevaux, HDT. <i>4, 110</i> ; XÉN. <i>Hell. 4, 6, 6</i>.<br><b>      2</b> haras, EUR. <i>El. 623</i> ; ARSTT. <i>H.A. 6, 22, 7</i> ; PLUT. <i>Eum. 8</i>.<p><b>Étym</b>. ἱπποφορβός.`

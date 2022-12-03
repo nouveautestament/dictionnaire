@@ -1,1 +1,0 @@
-lar[45328]=`<b>ή, όν</b> <font color="purple">[ῐ]</font><br><b>      1</b> du jour, qui se fait pendant le jour, XÉN. <i>Cyr. 8, 6, 18</i> ; PLAT. <i>Rsp. 508c ;</i> POL. <i>9, 14, 6 ; p. opp. à</i> νυκτερινός, HPC. <i>Epid. 1, 941</i>.<br><b>      2</b> quotidien, AR. <i>Pax 163</i>.<p><b>Étym</b>. ἡμέρα.`

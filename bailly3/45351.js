@@ -1,1 +1,0 @@
-lar[45351]=`<b>ἡμεροσκοπέω-ῶ</b>, faire le guet durant le jour, EN. TACT. <i>Pol. 6</i>.<p><b>Étym</b>. ἡμεροσκόπος.`

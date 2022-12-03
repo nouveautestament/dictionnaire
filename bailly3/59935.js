@@ -1,1 +1,0 @@
-lar[59935]=`<b>λαταγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> jeter le reste du vin au jeu du cottabe, <i>d’où</i> faire le bruit du vin qui tombe au jeu du cottabe, LUC. <i>Lex. 3</i>.<p><b>Étym</b>. λάταξ.`

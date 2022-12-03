@@ -1,1 +1,0 @@
-lar[90807]=`<b>σκευοφορέω-ῶ</b>, porter les bagages, <i>en parl. de valets d’armée ou de bêtes de somme,</i> XÉN. <i>An. 3, 2, 28, etc.</i><br><b><i>Moy.</i></b> faire porter ses bagages : καμήλοις, PLUT. <i>Crass. 21,</i> par des chameaux.<p><b>Étym</b>. σκευοφόρος.`

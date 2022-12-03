@@ -1,1 +1,0 @@
-lar[39906]=`<b>ης, ες :<br>      1</b> ajouté à l’essence, non essentiel, <i>t. de phil</i>. JAMBL. PORPH.<br><b>      2</b> attributif, DRAC. <i>12, 1</i>.<p><b>Étym</b>. ἐπί, οὐσία, -ωδης.`

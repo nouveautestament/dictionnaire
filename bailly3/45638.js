@@ -1,1 +1,0 @@
-lar[45638]=`<b>1</b> <i>acc. sg. fém. de</i> ὅς, ἥ, ὅ.<br><b>2</b> <i>poét. p</i>. ἑήν, <i>acc. sg. fém. de</i> ἑός.`

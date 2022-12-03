@@ -1,1 +1,0 @@
-lar[47482]=`<b>α, ον :<br>      1</b> qui concerne la semence génitale, séminal, NIC. <i>Th. 583</i>.<br><b>      2</b> ὁ θ. LYC. <i>352,</i> Apollon qui préside à la génération et à la croissance.<p><b>Étym</b>. θορός.`

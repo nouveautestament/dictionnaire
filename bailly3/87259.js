@@ -1,1 +1,0 @@
-lar[87259]=`<b>πρωτοτοκέω-ῶ</b>, enfanter pour la première fois, SPT. <i>1Reg. 6, 7, etc</i>.<p><b>Étym</b>. πρωτοτόκος.`

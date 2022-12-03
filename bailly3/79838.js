@@ -1,1 +1,0 @@
-lar[79838]=`<b>η, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> étendu et plat, ANTH. <i>9, 226</i>.<br><b>      2</b> <i>p. suite,</i> développé, déjà grand, <i>en parl. d’un jeune animal,</i> ATH. <i>376a.</i><br><b>      3</b> allongé (sur ses jambes) ARAT. <i>271</i>.<p>➳ <i>Ion</i>. πέτηλος, ANTH. <i>l. c</i>.<p><b>Étym</b>. πετάννυμι.`

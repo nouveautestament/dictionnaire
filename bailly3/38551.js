@@ -1,1 +1,0 @@
-lar[38551]=`<b>ἐπι·νύκτιος, ος, ον</b>, de nuit, pendant la nuit, ANTH. <i>6, 262</i>.<p><b>Étym</b>. ἐπί, νύξ.`

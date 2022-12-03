@@ -1,1 +1,0 @@
-lar[97264]=`<b>Σωσι·φάνης, ους (ὁ)</b> <font color="purple">[ῐᾰ]</font> Sôsiphanès, <i>poète,</i> ATH. <i>453a, etc</i>.<p><b>Étym</b>. σῴζω, φαίνω.`

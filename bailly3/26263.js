@@ -1,1 +1,0 @@
-lar[26263]=`<b>εως (ἡ)</b> investigation, CLÉM. <i>919</i> ; JAMBL. (STOB. <i>Fl. 81, 17).</i><p><b>Étym</b>. διερευνάω.`

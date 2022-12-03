@@ -1,1 +1,0 @@
-lar[19072]=`<b>βαρβαρόω-ῶ</b>, <i>f</i>. ώσω <font color="purple">[ᾰρο]</font> rendre barbare, <i>d’où au pass.</i> :<br><b>      1</b> devenir semblable à un barbare, EUR. <i>Or. 485</i>.<br><b>      2</b> être barbare, <i>càd</i>. inintelligible, <i>en parl. de cris d’oiseau,</i> SOPH. <i>Ant. 1002 (au part. pf</i>. βεβαρβαρωμένος).<p><b>Étym</b>. βάρβαρος.`

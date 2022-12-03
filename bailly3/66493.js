@@ -1,1 +1,0 @@
-lar[66493]=`<b>μον·ήλατος, ος, ον</b> <font color="purple">[ᾰ]</font> fait d’un seul morceau, HLD. <i>9, 15</i>.<p><b>Étym</b>. μόνος, ἐλαύνω.`

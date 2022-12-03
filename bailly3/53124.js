@@ -1,1 +1,0 @@
-lar[53124]=`<b>κατα·ποικίλλω :<br>      1</b> émailler, consteller, DS. <i>1, 47</i>.<br><b>      2</b> <i>p. ext</i>. peindre <i>ou</i> orner de couleurs variées, PLAT. <i>Tim. 85a, etc. ; en parl. du langage,</i> RHÉT. <i>9, 257 W</i>.`

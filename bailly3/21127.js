@@ -1,1 +1,0 @@
-lar[21127]=`<b>ου (ὁ)</b> Gabrièlios, <i>gouverneur de Byzance, poète de l’Anthologie,</i> A. PL. <i>32 et 208</i>.<p><b>Étym</b>. <i>dér. de</i> Γαβριήλ.`

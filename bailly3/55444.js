@@ -1,1 +1,0 @@
-lar[55444]=`<b>υος (ἡ)</b> <font color="purple">[ῑ]</font> force, énergie, OD. <i>11, 393</i> ; HH. <i>Ven. 238</i> ; ESCHL. <i>fr. 216</i>.`

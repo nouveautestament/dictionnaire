@@ -1,1 +1,0 @@
-lar[27782]=`(<i>seul. prés</i>. δραίνεις) vouloir faire une chose, IL. <i>10, 96</i>.<p><b>Étym</b>. δράω.`

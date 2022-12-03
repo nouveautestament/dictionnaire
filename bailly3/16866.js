@@ -1,1 +1,0 @@
-lar[16866]=`<i>adv</i>., comme une vapeur, GAL. <i>5, 33, etc</i>.`

@@ -1,1 +1,0 @@
-lar[99041]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> de l’année, de cette année, LUC. <i>Lex. 1</i>.<p><b>Étym</b>. τῆτες.`

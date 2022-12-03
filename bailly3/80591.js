@@ -1,1 +1,0 @@
-lar[80591]=`<b>ου (ὁ)</b> = Plancus, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 48, etc</i>.`

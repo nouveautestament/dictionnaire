@@ -1,1 +1,0 @@
-lar[60465]=`<i>adv. propr</i>. avec amincissement, <i>d’où</i> :<br><b>      1</b> petitement : λ. ζῆν, MÉN. vivre pauvrement.<br><b>      2</b> subtilement, PLAT. <i>Rsp. 607c.</i><br><b>      3</b> minutieusement, AMPHIS (ATH. <i>448a</i>).<p>•<i> Cp</i>. -οτέρως, ANAXANDR. (<i>Com. fr. 3, 180).</i><p><b>Étym</b>. λεπτός.`

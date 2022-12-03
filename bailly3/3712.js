@@ -1,1 +1,0 @@
-lar[3712]=`<b>ἀκριδοφαγέω-ῶ</b> <font color="purple">[ῐ]</font> se nourrir de sauterelles, BAS. <i>3, 128</i>.<p><b>Étym</b>. ἀκριδοφάγος.`

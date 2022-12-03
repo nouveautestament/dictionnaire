@@ -1,1 +1,0 @@
-lar[67650]=`<b>ναρδό·σταχυς, υος (ὁ)</b> <font color="purple">[τᾰ]</font> épi <i>ou</i> fleur de nard, GAL. <i>6, 148</i>.<p><b>Étym</b>. νάρδος, στάχυς.`

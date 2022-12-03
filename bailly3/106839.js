@@ -1,1 +1,0 @@
-lar[106839]=`<b>φρενιτιάω-ῶ</b> <font color="purple">[ῑτ]</font> avoir un transport, avoir le délire, être fou, PLUT. <i>Alex. 75</i>.<p><b>Étym</b>. φρενῖτις.`

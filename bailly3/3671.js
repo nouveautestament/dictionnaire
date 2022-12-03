@@ -1,1 +1,0 @@
-lar[3671]=`<font color="purple">[ᾰτ]</font> <i>adv</i>., sans se contenir : ἀ. ἔχειν πρός τι, PLAT. <i>Leg. 710a</i>, tendre à qqe ch. avec une passion immodérée.<p><b>Étym</b>. ἀκρατής.`

@@ -1,1 +1,0 @@
-lar[103130]=`<b>ου (ὁ)</b> receveur des deniers publics, CHRYS.<p><b>Étym</b>. ὑποδέχομαι.`

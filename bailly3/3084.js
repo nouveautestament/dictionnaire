@@ -1,1 +1,0 @@
-lar[3084]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰκᾰ]</font> descendants d’Akamas, DÉM. <i>60, 29 Baiter-Sauppe</i>.<p><b>Étym</b>. Ἀκάμας.`

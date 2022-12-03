@@ -1,1 +1,0 @@
-lar[16823]=`<font color="purple">[ῑ]</font> <i>adv</i>., impunément, PLAT. <i>Leg. 762d</i>.`

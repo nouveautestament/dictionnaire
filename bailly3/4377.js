@@ -1,1 +1,0 @@
-lar[4377]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de rencontre, de hasard, D. CHR. <i>Or. 7 commenc.</i> ; NYSS. <i>3, 238</i>.<p><b>Étym</b>. ἀλήτης.`

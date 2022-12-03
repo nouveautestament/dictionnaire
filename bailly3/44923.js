@@ -1,1 +1,0 @@
-lar[44923]=`<b>Ἡγησί·πολις, εως (ὁ)</b> <font color="purple">[σῐ]</font> Hègèsipolis (<i>litt</i>. qui dirige la ville <i>ou</i> l’État) DL. <i>2, 131</i>.<p><b>Étym</b>. ἡγέομαι, πόλις.`

@@ -1,1 +1,0 @@
-lar[103638]=`<b>ὑπο·ξύω :<br>      1</b> racler légèrement, DIOSC. <i>5, 159</i>.<br><b>      2</b> <i>fig</i>. effleurer, ANTH. <i>6, 669</i> ; DP. <i>61, 385</i>.`

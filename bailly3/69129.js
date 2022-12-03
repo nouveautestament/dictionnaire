@@ -1,1 +1,0 @@
-lar[69129]=`<b>νυκτ·ήγρετον, ου (τὸ)</b> sorte de plante dont les feuilles desséchées brillent la nuit, PLIN. <i>H.N. 21, 57</i>.<p><b>Étym</b>. νύξ, ἐγείρω.`

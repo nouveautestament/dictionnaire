@@ -1,1 +1,0 @@
-lar[95891]=`<b>συν·ήνεμος, ος, ον</b>, léger comme le vent, vain, <i>fig</i>. HÉRACLITE GRAMM. <i>All. Hom. p. 453</i>.<p><b>Étym</b>. σύν, ἄνεμος.`

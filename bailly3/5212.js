@@ -1,1 +1,0 @@
-lar[5212]=`<b>ἁμαξ·ήρης, ης, ες</b> <font color="purple">[ᾰμ]</font><br><b>      1</b> porté sur un char, ESCHL. <i>Ag. 1054</i>.<br><b>      2</b> fréquenté par les voitures, EUR. <i>Or. 1251</i>.<p><b>Étym</b>. ἅμαξα, ἀραρίσκω.`

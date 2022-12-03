@@ -1,1 +1,0 @@
-lar[103403]=`<b>ατος (τὸ) :<br>      1</b> petit nom caressant, terme de tendresse, ESCHN. <i>17 fin</i>.<br><b>      2</b> terme propre à atténuer une ch. blâmable, expression adoucie, ALEX. (ATH. <i>421d</i>) ; PLUT. <i>M. 807d ; joint à</i> παρακάλυμμα, PLUT. <i>Galb. 20</i>.<p><b>Étym</b>. ὑποκορίζομαι.`

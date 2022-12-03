@@ -1,1 +1,0 @@
-lar[37460]=`<b>ἐπι·γλισχραίνω</b>, rendre encore plus visqueux, HPC. <i>Acut. 386</i>.`

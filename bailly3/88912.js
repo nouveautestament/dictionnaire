@@ -1,1 +1,0 @@
-lar[88912]=`<b>ή, όν</b>, qui sert à nettoyer, à laver, PLAT. <i>Tim. 65d ;</i> PLUT. <i>M. 697a ; avec le gén. de l’objet qu’on nettoie,</i> ARSTT. <i>Probl. 11, 39 ; ou le gén. de l’objet qu’on enlève en nettoyant,</i> ARSTT. <i>Sens. 5, 1</i>.<p>•<i> Sup</i>. -ώτατος, PLUT. <i>l. c</i>.<p><b>Étym</b>. ῥύπτω.`

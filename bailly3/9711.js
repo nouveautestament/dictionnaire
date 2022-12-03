@@ -1,1 +1,0 @@
-lar[9711]=`<b>ἀντ·ευπάσχω</b>, <i>ou mieux séparément</i> ἀντ' εὖ πάσχω (<i>seul. fut. 3 sg</i>. ἀντ' εὖ πείσεται) recevoir un service <i>ou</i> un bienfait d’un obligé, PLAT. <i>Gorg. 520e</i>.<p><b>Étym</b>. <i>v</i>. *εὐπάσχω.`

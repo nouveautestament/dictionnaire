@@ -1,1 +1,0 @@
-lar[20854]=`<b>βροντο·ποιός, ός, όν</b>, qui produit le tonnerre, LUC. <i>Philopatr. 4, 24</i>.<p><b>Étym</b>. βροντή, ποιέω.`

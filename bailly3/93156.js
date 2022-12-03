@@ -1,1 +1,0 @@
-lar[93156]=`<b>ης, ες</b>, qui ressemble au sanglier, POL. <i>34, 3, 8</i>.<p><b>Étym</b>. σύαγρος², -ωδης.`

@@ -1,1 +1,0 @@
-lar[6348]=`<b>ἀμφί·ρυτος, ος, ον</b> <font color="purple">[ῠ]</font> <i>poét. c</i>. ἀμφίρρυτος, SOPH. <i>Aj. 134</i>.<p>➳ <i>Fém</i>. -ύτη, OD. <i>1, 50, etc</i>.`

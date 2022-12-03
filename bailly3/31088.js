@@ -1,1 +1,0 @@
-lar[31088]=`<b>ή, όν</b>, propre à arracher de force, qui arrache de force, PTOL. <i>Tetr. 155</i>.<p><b>Étym</b>. ἐκβιάζω.`

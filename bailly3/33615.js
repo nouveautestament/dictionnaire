@@ -1,1 +1,0 @@
-lar[33615]=`<b>ατος (τὸ)</b> crachat, SPT. <i>Esaï. 50, 6</i> ; NAZ. <i>2, 232 Migne</i>.<p><b>Étym</b>. ἐμπτύω.`

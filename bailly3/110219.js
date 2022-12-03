@@ -1,1 +1,0 @@
-lar[110219]=`<b>Ὠλενίη πέτρη (ἡ)</b> la roche d’Ôlénos, <i>chaîne de mt. entre l’Élide et l’Achaïe,</i> IL. <i>2, 617 ; 11, 757</i> ; HÉS. <i>fr. 12 Gaisford, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Ὠλένιος.`

@@ -1,1 +1,0 @@
-lar[96625]=`<b>συ·σπλαγχνεύω</b>, manger les entrailles des victimes avec qqn, AR. <i>Pax 1115</i>.`

@@ -1,1 +1,0 @@
-lar[80174]=`<b>ητος (ὁ)</b> Pigrès, <i>h</i>. HDT. <i>5, 12 ; 7, 98</i> ; XÉN. <i>An. 1, 2, 17, etc.</i> ; PLUT. <i>Eum. 6, etc</i>.<p>➳ <i>Dat</i>. Πίγρητι, <i>poét</i>. Πίγρῃ, ANTH. <i>6, 185</i>.`

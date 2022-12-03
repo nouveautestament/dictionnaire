@@ -1,1 +1,0 @@
-lar[14725]=`<b>ἀριστό·μαχος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> excellent guerrier, PD. <i>P. 10, 9</i>.<p><b>Étym</b>. ἄ. μάχομαι.`

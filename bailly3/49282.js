@@ -1,1 +1,0 @@
-lar[49282]=`<b>ἱππι·άναξ, ακτος (ὁ)</b> <font color="purple">[ᾰν]</font> commandant de la cavalerie, ESCHL. <i>Pers. 997</i>.<p><b>Étym</b>. ἵππιος, ἄναξ.`

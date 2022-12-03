@@ -1,1 +1,0 @@
-lar[102288]=`<b>ὑπερ·απολογέομαι-οῦμαι</b>, parler pour, prendre la défense de, <i>gén</i>. HDT. <i>6, 136</i> ; XÉN. <i>Hell. 1, 7, 16</i> ; ANT. <i>119, 26</i>.`

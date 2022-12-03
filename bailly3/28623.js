@@ -1,1 +1,0 @@
-lar[28623]=`<b>δύσ·λεκτος, ος, ον</b>, difficile à dire, indicible, ESCHL. <i>Pers. 702</i>.<p><b>Étym</b>. δ. λέγω.`

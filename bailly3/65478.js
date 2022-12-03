@@ -1,1 +1,0 @@
-lar[65478]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Méonie, Méonienne, IL. <i>4, 142</i>.<p><b>Étym</b>. Μῄονες.`

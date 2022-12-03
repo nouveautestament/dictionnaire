@@ -1,1 +1,0 @@
-lar[40267]=`<i>ou</i> <b>ἐρικίς, ίδος (ἡ)</b> orge égrugée, GAL. <i>au plur</i>.`

@@ -1,1 +1,0 @@
-lar[74985]=`<b>παν·ένδικος, ος, ον</b> <font color="purple">[ᾰῐ]</font> tout à fait juste, NAZ.`

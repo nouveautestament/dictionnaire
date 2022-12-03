@@ -1,1 +1,0 @@
-lar[106370]=`<b>όνος (ἡ)</b> bavardage, propos futiles <i>ou</i> déraisonnables, XÉNOPHAN. (ATH. <i>462f</i>) ; PLUT. <i>M. 420b</i>.<p><b>Étym</b>. <i>cf</i>. φλέδων.`

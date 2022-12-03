@@ -1,1 +1,0 @@
-lar[51811]=`<b>άδος (ἡ)</b> <font color="purple">[ῐ]</font> petit crabe, EL. <i>N.A. 7, 31</i> ; OPP. <i>C. 2, 286</i>.<p><b>Étym</b>. καρκίνος.`

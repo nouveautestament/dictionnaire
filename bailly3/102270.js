@@ -1,1 +1,0 @@
-lar[102270]=`<b>ὑπερ·ανέχω</b>, surpasser, l’emporter sur, <i>gén</i>. PROCL.`

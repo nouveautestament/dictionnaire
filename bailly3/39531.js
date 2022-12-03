@@ -1,1 +1,0 @@
-lar[39531]=`<b>ἐπι·τυμβίδιος, ος, ον</b> <font color="purple">[βῐ]</font> qui se fait sur un tombeau, ESCHL. <i>Ch. 342</i> ; ἐπιτυμβίδιοι κορυδαλλίδες, THCR. <i>Idyl. 7, 23,</i> les alouettes qui se plaisent sur les tombeaux, <i>ou, sel. d’autres,</i> munies d’une huppe sur la tête.<p><b>Étym</b>. ἐπί, τύμβος.`

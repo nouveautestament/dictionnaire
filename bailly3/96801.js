@@ -1,1 +1,0 @@
-lar[96801]=`<b>ῶνος (ὁ)</b> filet rond pour la pêche, OPP. <i>H. 3, 83</i>.<p><b>Étym</b>. σφαῖρα.`

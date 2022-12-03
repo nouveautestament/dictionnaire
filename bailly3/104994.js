@@ -1,1 +1,0 @@
-lar[104994]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> Phasyleia, <i>f</i>. NONN. <i>D. 20, 125 ; 21, 84</i>.`

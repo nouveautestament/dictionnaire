@@ -1,1 +1,0 @@
-lar[99965]=`<b>τραχηλ·άγχη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> nœud coulant <i>ou</i> lacet pour étrangler, EUN. <i>p. 64 Boiss</i>.<p><b>Étym</b>. τράχηλος, ἄγχω.`

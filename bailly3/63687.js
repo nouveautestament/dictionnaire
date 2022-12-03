@@ -1,1 +1,0 @@
-lar[63687]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. Μελανίων, MUS. <i>154</i> ; NONN. <i>D. 30, 318, etc</i>.`

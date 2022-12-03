@@ -1,1 +1,0 @@
-lar[82657]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> travaillé en forme de bulle : περόνη π. MATH. <i>p. 66,</i> pointe à tête ronde <i>ou</i> à tête de rivet.<p><b>Étym</b>. πομφολυγόω.`

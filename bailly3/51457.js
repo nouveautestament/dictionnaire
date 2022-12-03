@@ -1,1 +1,0 @@
-lar[51457]=`<b>ῆρος (ὁ) :<br>      1</b> courbure, courbe, inflexion, XÉN. <i>Cyr. 7, 1, 6,</i> STR. <i>655</i>.<br><b>      2</b> borne de l’hippodrome, autour de laquelle tournaient les chars, ARSTT. <i>Rhet. 3, 9, 2 ; fig</i>. terme, HÉROD. ATT. (STOB. <i>Fl. 116, 21</i>) ; ANTH. <i>12, 257</i>.<p><b>Étym</b>. κάμπτω.`

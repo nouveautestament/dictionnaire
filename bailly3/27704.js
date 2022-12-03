@@ -1,1 +1,0 @@
-lar[27704]=`<b>δουλο·κρατέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font><br><b>      1</b> être gouverné par des esclaves, DC. <i>60, 2 (ao</i>. ἐδουλοκρατήθη).<br><b>      2</b> être gouverné comme un esclave, LIB. <i>4, 807 (part. prés</i>. -κρατούμενος).<p><b>Étym</b>. δοῦλος, κρατέω.`

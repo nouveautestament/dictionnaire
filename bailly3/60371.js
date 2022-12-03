@@ -1,1 +1,0 @@
-lar[60371]=`<b>εος-ους (τὸ)</b> toute enveloppe qu’on pèle <i>ou</i> qu’on brise, <i>particul.</i> :<br><b>      1</b> cosse de fève, LUC. <i>Ic. 19</i>.<br><b>      2</b> peau de raisin, NIC. <i>Th. 943</i>.<p><b>Étym</b>. λέπω.`

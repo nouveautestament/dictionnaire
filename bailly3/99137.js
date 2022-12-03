@@ -1,1 +1,0 @@
-lar[99137]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐῠᾱ]</font>: παράλιος, HPC. <i>263, 38</i> ; DIOSC. <i>4, 165,</i> euphorbe marine, <i>plante</i>.`

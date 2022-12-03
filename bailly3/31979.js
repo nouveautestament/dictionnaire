@@ -1,1 +1,0 @@
-lar[31979]=`<b>ἐκπυριάω-ῶ</b> <font color="purple">[ῠ]</font> enflammer, HPC. <i>1255h</i>.`

@@ -1,1 +1,0 @@
-lar[80641]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> en forme de plaque, aplati, plat, flasque, TH. <i>H.P. 9, 4, 8</i> ; ATH. <i>323d.</i><br><b>      2</b> couvert de croûtes, DIOSC. <i>d’où</i> rugueux, rude, âpre, ARSTT. <i>H.A. 2, 17, 10, etc</i>.<p>•<i> Cp</i>. πλακωδέστερος, ARSTT. <i>H.A. 4, 2, 4, etc</i>.<p><b>Étym</b>. πλάξ, -ωδης.`

@@ -1,1 +1,0 @@
-lar[96940]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> plein de suc, de sève, <i>càd</i>. de force, MÉD. <i>p. 275 Matthäi</i>.<p><b>Étym</b>. σφρίγος, -ωδης.`

@@ -1,1 +1,0 @@
-lar[18010]=`<b>ατος (τὸ) :<br>      1</b> action de conduire, de guider, JOS. <i>Macc. 14, 6</i>.<br><b>      2</b> récit détaillé, récit, HDT. <i>2, 3</i> (<i>ion</i>. ἀπήγημα).<p><b>Étym</b>. ἀφηγέομαι.`

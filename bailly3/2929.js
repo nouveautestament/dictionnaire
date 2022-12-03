@@ -1,1 +1,0 @@
-lar[2929]=`<b>ά, όν</b> (<i>seul. cp</i>. -ότερος) timide, modeste, PLAT. <i>Gorg. 487b</i>.`

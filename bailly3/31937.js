@@ -1,1 +1,0 @@
-lar[31937]=`<i>adv.</i> :<br><b>      1</b> remarquablement, supérieurement, POL. <i>5, 59, 8</i>.<br><b>      2</b> avec inconvenance, THC. <i>1, 38</i>.<p>•<i> Cp</i>. -έστερον, DC. <i>44, 40. • Sup</i>. -έστατα, XÉN. <i>Conv. 8, 31</i> ; DC. <i>47, 20</i>.<p><b>Étym</b>. ἐκπρεπής.`

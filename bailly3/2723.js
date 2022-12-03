@@ -1,1 +1,0 @@
-lar[2723]=`<i>ou</i> <b>-ᾶς (ὁ)</b> <i>sorte de gâteau,</i> ATH. <i>647d</i>.`

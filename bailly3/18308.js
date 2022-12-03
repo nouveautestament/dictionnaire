@@ -1,1 +1,0 @@
-lar[18308]=`<b>ἀ·φυλλανθής, ής, ές</b>, qui fleurit sans avoir de feuilles, TH. <i>H.P. 7, 8, 3</i>.`

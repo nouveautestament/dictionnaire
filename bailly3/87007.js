@@ -1,1 +1,0 @@
-lar[87007]=`<b>προ·χειμάζω</b>, être orageux <i>ou</i> pluvieux avant le temps ordinaire, ARSTT. <i>Probl. 26, 8, 4</i>.`

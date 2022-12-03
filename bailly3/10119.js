@@ -1,1 +1,0 @@
-lar[10119]=`<b>ἀντι·νικάω-ῶ</b> <font color="purple">[νῑ]</font> vaincre à son tour, ESCHL. <i>Ch. 499</i>.`

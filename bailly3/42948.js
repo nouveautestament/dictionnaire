@@ -1,1 +1,0 @@
-lar[42948]=`<b>εὐ·παρόρμητος, ος, ον</b>, facile à exciter, à émouvoir, ARSTT. <i>Rhet. 2, 2, 10</i>.<p><b>Étym</b>. εὖ, παρορμάω.`

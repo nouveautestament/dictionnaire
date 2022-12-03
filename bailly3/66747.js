@@ -1,1 +1,0 @@
-lar[66747]=`<b>ου (ὁ)</b> terre argileuse qui servait à blanchir les vêtements, DIOSC. <i>5, 152</i>.<p><b>Étym</b>. μόροξος.`

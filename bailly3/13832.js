@@ -1,1 +1,0 @@
-lar[13832]=`<b>εως (ἡ)</b> levée, digue, fortification, PLUT. <i>Ant. 41</i>.<p><b>Étym</b>. ἀποχώννυμι.`

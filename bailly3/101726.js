@@ -1,1 +1,0 @@
-lar[101726]=`<b>(οἱ)</b> les Hyllées, <i>une des trois tribus doriennes de Sicyone,</i> HDT. <i>5, 68</i>.`

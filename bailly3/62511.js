@@ -1,1 +1,0 @@
-lar[62511]=`<b>μακρο·ήμερος, ος, ον</b>, qui vit de longs jours, SPT. <i>Deut. 4, 40</i>.<p><b>Étym</b>. μ. ἡμέρα.`

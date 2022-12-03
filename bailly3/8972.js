@@ -1,1 +1,0 @@
-lar[8972]=`<i>adv</i>., avec des sentiments <i>ou</i> des passions conformes à la nature humaine, HERMOG.<p><b>Étym</b>. <i>W. 3, 376</i>.`

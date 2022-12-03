@@ -1,1 +1,0 @@
-lar[43189]=`<b>ορος (ὁ)</b> inventeur, ANTH. <i>9, 505 dout</i>.<p><b>Étym</b>. εὑρίσκω.`

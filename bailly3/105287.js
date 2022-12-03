@@ -1,1 +1,0 @@
-lar[105287]=`<b>φθειρο·πύλη, ης (ἡ)</b> <i>litt</i>. « qui cherche ses poux à la porte », <i>surn. de l’hétaïre Phanostratè,</i> ATH. <i>586a</i>.<p><b>Étym</b>. φθ. πύλη.`

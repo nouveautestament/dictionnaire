@@ -1,1 +1,0 @@
-lar[54446]=`(<i>seul. prés. part. pass.) c</i>. κεδάννυμι NIC. <i>Al. 545</i> ; A.RH. <i>2, 626</i>.`

@@ -1,1 +1,0 @@
-lar[78598]=`<b>περι·έσχατος, η, ον</b> <font color="purple">[ᾰ]</font> extrême : τὰ π. HDT. <i>1, 86, etc</i>. les extrémités tout autour.`

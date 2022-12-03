@@ -1,1 +1,0 @@
-lar[98069]=`<b>τεκνοποιέω-ῶ</b>, enfanter, DS.<br><b><i>Moy.</i></b> engendrer, procréer, <i>en parl. de l’homme,</i> XÉN. <i>Mem. 2, 2, 4 ; en parl. de la femme,</i> DS. <i>1, 73 ; 4, 29 ; en parl. de l’homme et de la femme,</i> XÉN. <i>Mem. 4, 4, 22</i> ; ARSTT. <i>H.A. 7, 6, 1 ; en parl. d’oiseaux,</i> ARSTT. <i>H.A. 8, 12, 4</i>.<p><b>Étym</b>. τεκνοποιός.`

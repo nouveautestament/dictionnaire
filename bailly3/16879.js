@@ -1,1 +1,0 @@
-lar[16879]=`<b>ἀ·τόλμητος, ος, ον :<br>      1</b> intolérable, <i>c</i>. ἄτλατος, PD. <i>I. 7, 11</i>.<br><b>      2</b> contre qui l’on n’ose rien, irrésistible, ESCHL. <i>Ag. 375 (var</i>. -ήτως).<br><b>      3</b> qu’on n’ose entreprendre, DC. <i>37, 11</i> ; CHRYS. NYSS.<p>➳ <i>Dor</i>. ἀτόλματος <font color="purple">[μᾱ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. ἀ, τολμάω.`

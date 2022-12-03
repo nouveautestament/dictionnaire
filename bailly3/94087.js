@@ -1,1 +1,0 @@
-lar[94087]=`<b>συμ·παρανομέω-ῶ</b>, violer la loi, <i>càd</i>. commettre une faute de concert avec qqn, JOS. <i>B.J. 4, 6, 5</i>.`

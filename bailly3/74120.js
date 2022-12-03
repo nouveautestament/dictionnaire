@@ -1,1 +1,0 @@
-lar[74120]=`<b>πάγ·κλαυτος, ος, ον</b>, tout à fait lamentable, ESCHL. <i>Sept. 368 ; Pers. 822</i>.<p><b>Étym</b>. π. κλαίω.`

@@ -1,1 +1,0 @@
-lar[99016]=`<b>τῇ·περ</b>, <i>épq. et ion. c</i>. ᾗπερ, <i>dat. fém. de</i> ὅσπερ, <i>adv.</i> :<br><b>      1</b> par où, OD. <i>4, 565</i> ; HDT. <i>1, 30</i>.<br><b>      2</b> de la manière que, comme, HDT. <i>1, 86</i>.`

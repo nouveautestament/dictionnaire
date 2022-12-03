@@ -1,1 +1,0 @@
-lar[101923]=`<b>ὑπ·αλεύομαι</b> <font color="darkgreen">(<i>seul. ao. impér. 2 sg</i>. ὑπαλεύεο, HÉS. <i>O. 758, inf</i>. -εύασθαι, HÉS. <i>O. 555, et part</i>. -ευάμενος, OD. <i>15, 275</i>)</font> <font color="purple">[ῠᾰ]</font> éviter en se dérobant.`

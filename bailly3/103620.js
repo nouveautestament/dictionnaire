@@ -1,1 +1,0 @@
-lar[103620]=`<b>ὑπο·νουθετέω-ῶ</b>, avertir doucement, EL. <i>N.A. 7, 15</i>.`

@@ -1,1 +1,0 @@
-lar[38096]=`<b>ἐπι·κοίνως</b>, <i>adv</i>., du genre des mots épicènes (<i>v</i>. ἐπίκοινος) CLÉM. <i>1, 261 Migne</i>.`

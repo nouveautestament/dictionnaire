@@ -1,1 +1,0 @@
-lar[67089]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Mycène, IL. <i>15, 638, 643</i> ; HDT. <i>7, 202</i> ; THC. <i>1, 9</i> ; SOPH. <i>El. 161</i>.<p><b>Étym</b>. Μυκήνη.`

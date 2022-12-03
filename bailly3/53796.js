@@ -1,1 +1,0 @@
-lar[53796]=`<b>κατα·ψιθυρίζω</b> <font color="purple">[ῐθῠ]</font> tenir tout bas des propos : τινὸς πρός τινα, PLUT. <i>M. 483c</i>, contre une personne auprès d’une autre.`

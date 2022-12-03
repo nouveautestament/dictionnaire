@@ -1,1 +1,0 @@
-lar[54407]=`<b>ου (ὁ)</b> sorte de chardon, TH. <i>H.P. 4, 10, 6 dout</i>.`

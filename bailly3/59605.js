@@ -1,1 +1,0 @@
-lar[59605]=`<b>ας (ἡ)</b> débauche infâme, EUP. <i>2-1, 547 Meineke</i>.<p><b>Étym</b>. λακκόπρωκτος.`

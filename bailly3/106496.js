@@ -1,1 +1,0 @@
-lar[106496]=`<b>ατος (τὸ)</b> objet d’effroi, SOPH. <i>O.C. 699</i>.<p><b>Étym</b>. φοβέω.`

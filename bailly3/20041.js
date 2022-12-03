@@ -1,1 +1,0 @@
-lar[20041]=`<b>ος, ον</b>, qu’on peut secourir <i>ou</i> guérir, TH. <i>H.P. 9, 16, 7</i>.<p><b>Étym</b>. βοηθέω.`

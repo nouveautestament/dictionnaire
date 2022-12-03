@@ -1,1 +1,0 @@
-lar[89715]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui concerne le poisson σέλαχος, ARTÉM. <i>167 Reiff</i>.<p><b>Étym</b>. σέλαχος.`

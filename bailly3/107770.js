@@ -1,1 +1,0 @@
-lar[107770]=`<b>χαμαι·κυπάρισσος, ου (ἡ)</b> <font color="purple">[ᾰῠᾰ]</font> <i>litt</i>. « cyprès nain », <i>n. de la</i> santoline, <i>plante,</i> Anon. <i>de vir. herb. 106</i> ; PLIN. <i>H.N. 24, 15</i>.`

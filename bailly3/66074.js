@@ -1,1 +1,0 @@
-lar[66074]=`<b>μισό·σοφος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait la sagesse, <i>p. opp. à</i> φιλόσοφος, PLAT. <i>Rsp. 456a</i>.<p><b>Étym</b>. μισέω, σοφός.`

@@ -1,1 +1,0 @@
-lar[47882]=`<i>ion</i>. <b>-η, ης (ἡ)</b> Thymbra (<i>auj</i>. vallée de Thymbrek) <i>lieu de Troade</i>, IL. 10.430.`

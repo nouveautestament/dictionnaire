@@ -1,1 +1,0 @@
-lar[8223]=`<b>ἀν·εκάς</b> <font color="purple">[ᾰ]</font> <i>adv</i>., en haut, PD. <i>O. 2, 22</i> ; AR. <i>Vesp. 18</i> ; PLUT. <i>Thes. 33, etc</i>.<p><b>Étym</b>. ἀνά, ἑκάς.`

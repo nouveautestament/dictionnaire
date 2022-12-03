@@ -1,1 +1,0 @@
-lar[105062]=`<b>οῦ (ὁ)</b> économie, parcimonie, LIB. <i>4, 833 dout</i>.<p><b>Étym</b>. φείδομαι.`

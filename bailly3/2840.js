@@ -1,1 +1,0 @@
-lar[2840]=`<b>οῦ (ὁ)</b> qui perçoit par les sens, PLAT. <i>Theæt. 160d</i>.`

@@ -1,1 +1,0 @@
-lar[12541]=`<i>adv</i>., secrètement, THÉON <i>Prog. 81, 6</i>.<p><b>Étym</b>. ἀποκρύπτω.`

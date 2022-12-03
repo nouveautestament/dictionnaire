@@ -1,1 +1,0 @@
-lar[53040]=`<b>κατα·πέρδω</b> <font color="darkgreen">(<i>ao</i>. κατέπαρδον)</font> péter au nez de, <i>d’où</i> se moquer de, <i>gén</i>. AR. <i>Pl. 617, etc.</i> ; EPICRAT. (ATH. <i>59f</i>).`

@@ -1,1 +1,0 @@
-lar[22955]=`<b>δαιδαλόω-ῶ</b>, <i>f</i>. ώσω <font color="purple">[ᾰ]</font> parer, orner, <i>acc</i>. PD. <i>O. 1, 105 (inf. fut. poét</i>. -ωσέμεν) ; OPP. <i>C. 1, 351</i>.<p><b>Étym</b>. δαίδαλος.`

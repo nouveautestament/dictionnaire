@@ -1,1 +1,0 @@
-lar[99746]=`<i>crase att. et poét. p</i>. τὸ ἔλαιον, AR. <i>Ach. 1128</i>.`

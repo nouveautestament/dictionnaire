@@ -1,1 +1,0 @@
-lar[87363]=`<b>πτερ·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> qui reçoit son nom de ses ailes, PLAT. <i>Phædr. 252c</i>.<p><b>Étym</b>. πτερόν, ὄνομα.`

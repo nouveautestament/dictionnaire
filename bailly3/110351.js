@@ -1,1 +1,0 @@
-lar[110351]=`<b>ᾠο·γονέω-ῶ</b>, pondre (<i>litt</i>. engendrer) des œufs, GEOP. <i>14, 1, 4</i>.<p><b>Étym</b>. ᾠ. γόνος.`

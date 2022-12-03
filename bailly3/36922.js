@@ -1,1 +1,0 @@
-lar[36922]=`<b>ἐπ·εγκυκλέω-ῶ</b>, envelopper dans, enrouler dans, entremêler à, ARSTD. <i>t. 2, 514</i>.`

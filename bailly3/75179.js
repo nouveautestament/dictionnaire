@@ -1,1 +1,0 @@
-lar[75179]=`<b>ης (ἡ)</b> <i>sorte de plante,</i> TH. <i>H.P. 6, 5, 1 dout</i>.`

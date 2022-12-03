@@ -1,1 +1,0 @@
-lar[91308]=`<b>ου (τὸ)</b> sorte de chien de mer, ARSTT. <i>H.A. 6, 10, 10</i>.<p><b>Étym</b>. <i>cf</i>. σκύλαξ.`

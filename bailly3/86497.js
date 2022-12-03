@@ -1,1 +1,0 @@
-lar[86497]=`<b>προ·στόμιον, ου (τὸ)</b> embouchure, ESCHL. <i>Suppl. 3</i>.<p><b>Étym</b>. π. στόμα.`

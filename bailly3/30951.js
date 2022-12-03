@@ -1,1 +1,0 @@
-lar[30951]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> la petite vieille Hékalè, PLUT. <i>Thes. 14</i> ; CALL. <i>fr. 40</i>.<p><b>Étym</b>. Ἑκάλη.`

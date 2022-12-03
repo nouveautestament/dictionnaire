@@ -1,1 +1,0 @@
-lar[88390]=`<b>ους (ὁ)</b> Rhéomithrès, <i>Perse,</i> XÉN. <i>Cyr. 8, 8, 4, etc</i>.`

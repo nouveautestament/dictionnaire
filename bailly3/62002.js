@@ -1,1 +1,0 @@
-lar[62002]=`<b>(ὁ)</b> <font color="purple">[ῡ]</font> Lysandridas, <i>h</i>. PLUT. <i>Cleom. 24</i>.<p><b>Étym</b>. <i>patr. de</i> Λύσανδρος.`

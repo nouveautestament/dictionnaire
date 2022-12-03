@@ -1,1 +1,0 @@
-lar[46626]=`<b>ος, ον</b>, de Théodektès, ARSTT. <i>Rhet. 3, 9</i>.<p><b>Étym</b>. <i>v</i>. Θεοδέκτης.`

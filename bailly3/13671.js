@@ -1,1 +1,0 @@
-lar[13671]=`<b>ἀπο·τρύω</b>, fatiguer, épuiser : τινά τινι, PLUT. <i>Æmil. 13,</i> qqn par qqe ch. ; <i>fig</i>. ἐλπίδα, SOPH. <i>Tr. 124,</i> épuiser, <i>càd</i>. perdre l’espérance.<br><b><i>Moy.</i></b> fatiguer, épuiser, <i>acc</i>. SOPH. <i>Ant. 339</i>.`

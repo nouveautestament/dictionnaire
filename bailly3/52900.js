@@ -1,1 +1,0 @@
-lar[52900]=`<b>κατα·νείφω</b>, <i>mieux que</i> <b>κατα·νίφω</b> <font color="purple">[ῑ]</font><br><b>   I <i>tr</i>.<br>      1</b> couvrir de neige, <i>acc</i>. AR. <i>Ach. 138</i> ; PLUT. <i>Luc. 24</i>.<br><b>      2</b> couvrir comme de neige, <i>acc</i>. LUC. <i>Lex. 15 ; V.H. 2, 14</i>.<br><b>   II <i>impers</i></b>. il neige, AR. <i>Nub. 965</i>.`

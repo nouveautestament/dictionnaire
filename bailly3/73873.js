@@ -1,1 +1,0 @@
-lar[73873]=`<i>mieux que</i> <b>Ὀφρύνιον, ου (τὸ)</b> Ophryneion (<i>auj. p.-ê</i>. Erenköy) <i>v. de Troade,</i> HDT. <i>7, 43</i> ; XÉN. <i>An. 7, 8, 5</i> ; DÉM. <i>899, 1</i>.<p>➳ <i>Dans une inscr. att</i>. Ὀφρύνειον, CIA. <i>1, 274, 1, 11 (envir. 415 av. J.-C.) v. Meisterh. p. 40</i>.`

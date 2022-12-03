@@ -1,1 +1,0 @@
-lar[10799]=`<i>att</i>. <b>ἁνυτικός, ή, όν</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. ἀνυστικός, XÉN. <i>Œc. 2, 22, etc.</i> ; M. ANT. <i>4, 50</i>.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>Hipp. 2, 6</i> ; ARSTT. <i>P.A. 4, 6, 1, etc. • Sup</i>. -ώτατος, XÉN. <i>Œc. 20, 22</i> ; SEXT. <i>591</i> ; DIOSC. <i>Par. 2, 115, etc</i>.`

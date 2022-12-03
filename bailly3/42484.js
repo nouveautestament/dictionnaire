@@ -1,1 +1,0 @@
-lar[42484]=`<b>εὐ·κόρυθος, ος, ον</b> <font color="purple">[ῠ]</font> au beau casque, OPP. <i>C. 1, 363</i>.<p><b>Étym</b>. εὖ, κόρυς.`

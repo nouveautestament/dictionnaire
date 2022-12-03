@@ -1,1 +1,0 @@
-lar[36573]=`<b>ἐπ·αναγορεύω</b>, publier, proclamer hautement, AR. <i>Av. 1071</i>.`

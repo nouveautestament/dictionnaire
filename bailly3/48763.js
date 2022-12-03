@@ -1,1 +1,0 @@
-lar[48763]=`<b>ἰθυ·τμής, ῆτος (ὁ)</b> <font color="purple">[ῑ]</font> coupé en ligne droite, NONN. <i>D. 2, 452, etc</i>.<p><b>Étym</b>. ἰ. τέμνω.`

@@ -1,1 +1,0 @@
-lar[65819]=`<b>οῦς (ἡ)</b> Miltô, <i>propr</i>. « fardée de vermillon », <i>ép. d’Aspasie,</i> EL. <i>V.H. 12, 1</i> ; PLUT. <i>Per. 24</i>.<p><b>Étym</b>. μίλτος.`

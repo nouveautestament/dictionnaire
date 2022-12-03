@@ -1,1 +1,0 @@
-lar[46909]=`<b>οῦ (ὁ)</b> moissonneur, faucheur, XÉN. <i>Hier. 6, 10</i> ; DÉM. <i>242, 23</i> ; ARSTT. <i>H.A. 6, 37, 2</i>.<p><b>Étym</b>. θερίζω.`

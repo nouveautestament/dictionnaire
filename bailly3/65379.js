@@ -1,1 +1,0 @@
-lar[65379]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> pommier, IBYC. <i>1</i>.<p>➳ <i>Dor</i>. μαλίς <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 8, 79</i>.<p><b>Étym</b>. μῆλον².`

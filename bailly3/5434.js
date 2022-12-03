@@ -1,1 +1,0 @@
-lar[5434]=`<i>adv</i>., sans tarder, THÉM. <i>208c</i>.<p><b>Étym</b>. ἀμέλλητος.`

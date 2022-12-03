@@ -1,1 +1,0 @@
-lar[20095]=`<b>ας (ἡ)</b> Béotie, <i>contrée de la Grèce centrale,</i> THC. <i>1, 12, etc</i>.<p>➳ <i>Ion</i>. βοιωτίη, HÉS. (EUST. <i>Il. 2, p. 265</i>) ; HDT. <i>2, 49 ; 5, 57</i> ; ANTH. <i>3, 16</i>.`

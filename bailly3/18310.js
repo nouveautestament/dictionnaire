@@ -1,1 +1,0 @@
-lar[18310]=`<b>ἀ·φύλλωτος, ος, ον</b>, non garni de feuillage, SOPH. <i>fr. 281</i>.<p><b>Étym</b>. ἀ, φυλλόω.`

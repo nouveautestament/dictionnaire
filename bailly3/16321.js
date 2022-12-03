@@ -1,1 +1,0 @@
-lar[16321]=`<b>ἀστρο·θύτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui sacrifie aux astres, adorateur des astres, DL. <i>Proœm. 8</i>.<p><b>Étym</b>. ἄ. θύω.`

@@ -1,1 +1,0 @@
-lar[104973]=`<b>άδος</b> <font color="purple">[ᾱᾰδ]</font> <i>adj. f</i>. du Phase, <i>en Colchide,</i> ANTH. <i>4, 3 et 62</i>.<p><b>Étym</b>. Φᾶσις.`

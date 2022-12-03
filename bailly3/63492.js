@@ -1,1 +1,0 @@
-lar[63492]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Mégare, ANTH. <i>14, 115</i>.<p><b>Étym</b>. Μέγαρα.`

@@ -1,1 +1,0 @@
-lar[44058]=`<b>ἑφθ·ήμερος, ος, ον</b> qui dure sept jours, PLUT. <i>M. 223a</i>.<p><b>Étym</b>. ἑπτά, ἡμέρα.`

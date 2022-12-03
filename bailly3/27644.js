@@ -1,1 +1,0 @@
-lar[27644]=`<b>Δόρυ·κλος, ου (ὁ)</b> Doryklos :<br><b>      1</b> <i>fils de Priam,</i> IL. <i>11, 489</i>.<br><b>      2</b> <i>vainqueur olympique,</i> PD. <i>O. 10, 82</i>.<br><b>      3</b> <i>autre,</i> NONN. <i>D. 26, 97 ; 29, 263</i>.<p><b>Étym</b>. δόρυ, κλέος.`

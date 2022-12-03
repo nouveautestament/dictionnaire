@@ -1,1 +1,0 @@
-lar[59029]=`<b>ης, ες</b> <font color="purple">[ῠῐ]</font> qui ressemble à la fleur du grenadier, TH. <i>H.P. 4, 10, 3</i>.<p><b>Étym</b>. κύτινος, -ωδης.`

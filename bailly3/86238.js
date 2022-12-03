@@ -1,1 +1,0 @@
-lar[86238]=`<b>προσ·ουσία, ας (ἡ)</b> <i>c</i>. συνουσία, <i>titre d’une comédie d’Eubule</i> (ATH. <i>301a</i>).`

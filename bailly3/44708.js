@@ -1,1 +1,0 @@
-lar[44708]=`<b>ζω·θάλμιος, ος, ον</b>, qui fait vivre et fleurir, vivifiant, PD. <i>O. 7, 20</i>.<p><b>Étym</b>. ζάω, θάλλω.`

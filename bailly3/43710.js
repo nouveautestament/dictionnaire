@@ -1,1 +1,0 @@
-lar[43710]=`<i>adv.</i> :<br><b>      1</b> avec des paroles de bon augure, <i>càd</i>. saintes, pieuses, HH. <i>Ap. 171</i> ; ESCHL. <i>Eum. 287</i>.<br><b>      2</b> avec des paroles bienveillantes, favorables, PLAT. <i>Phædr. 261c</i>.<p>•<i> Cp</i>. -ότερον, ARISTÉN. <i>2, 9</i>.<p>➳ <i>Dor</i>. εὐφάμως <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 26, 8</i>.`

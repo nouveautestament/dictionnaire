@@ -1,1 +1,0 @@
-lar[17643]=`<b>αὐτο·ποίητος, ος, ον</b>, qui s’est fait de soi-même, SOPH. (POLL. <i>6, 60</i>).`

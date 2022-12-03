@@ -1,1 +1,0 @@
-lar[58637]=`<b>ου (ὁ)</b> sorte de crabe, ARSTT. <i>H.A. 4, 4</i>.<p><b>Étym</b>. <i>vulg</i>. σκύλλαρος.`

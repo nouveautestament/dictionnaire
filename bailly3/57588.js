@@ -1,1 +1,0 @@
-lar[57588]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Crassiānus, <i>n. d’h. rom</i>. PLUT. <i>Pomp. 71</i>.`

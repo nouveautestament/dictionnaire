@@ -1,1 +1,0 @@
-lar[14412]=`<b>*ἀρειά</b>, <i>seul. ion</i>. <b>ἀρειή, ῆς (ἡ)</b> imprécation, malédiction, IL. <i>17, 431 ; 20, 109 ; 21, 339, etc</i>.<p><b>Étym</b>. ἀρά.`

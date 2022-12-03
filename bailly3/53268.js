@@ -1,1 +1,0 @@
-lar[53268]=`avoir un catarrhe, un rhume, DIOSC. <i>1, 49 ; 3, 83</i> ; GAL. <i>6, 548</i>.<p><b>Étym</b>. κατάρροος.`

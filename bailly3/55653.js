@@ -1,1 +1,0 @@
-lar[55653]=`<b>ης, ες</b>, qui a des envies, <i>en parl. de femmes enceintes,</i> DIOSC. <i>5, 12</i>.<p><b>Étym</b>. κίσσα, -ωδης.`

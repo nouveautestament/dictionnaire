@@ -1,1 +1,0 @@
-lar[28060]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> du nombre deux : δυϊκὸς ἀριθμός, D. THR. <i>632, 17 ; 632, 29</i> ; τὸ δυϊκόν, DYSC. <i>Pron. 271, 308 ; Synt. 197,</i> le duel, <i>t. de gr</i>.<p><b>Étym</b>. δύο.`

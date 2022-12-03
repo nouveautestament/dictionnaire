@@ -1,1 +1,0 @@
-lar[78564]=`<b>περι·εκβαίνω</b>, dépasser tout à fait, PHIL. BYZ. <i>Bel. 16</i>.`

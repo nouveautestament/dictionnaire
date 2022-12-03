@@ -1,1 +1,0 @@
-lar[109777]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐ]</font> action de tâter, de palper, PLUT. <i>M. 125c ;</i> SPT. <i>Sap. 15, 15</i> ; PLUT. <i>Æmil. 14, 2</i>.<p><b>Étym</b>. ψηλαφάω.`

@@ -1,1 +1,0 @@
-lar[100709]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> carène d’un navire, CLÉM. <i>97</i>.<p><b>Étym</b>. τρόπις.`

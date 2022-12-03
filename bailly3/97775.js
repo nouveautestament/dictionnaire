@@ -1,1 +1,0 @@
-lar[97775]=`<b>ταυρο·βόρος, ος, ον</b>, qui dévore les taureaux, A. PL. <i>94</i>.<p><b>Étym</b>. τ. βιβρώσκω.`

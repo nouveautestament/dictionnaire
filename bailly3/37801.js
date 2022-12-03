@@ -1,1 +1,0 @@
-lar[37801]=`<i>adv</i>., au moyen d’épithètes <i>ou</i> d’adjectifs, STR. <i>86</i>.`

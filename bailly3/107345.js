@@ -1,1 +1,0 @@
-lar[107345]=`<b>(ἡ)</b> <i>éol. c</i>. Φωκαία, SAPPH. <i>fr. 14 Ahrens</i>.`

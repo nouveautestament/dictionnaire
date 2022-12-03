@@ -1,1 +1,0 @@
-lar[4819]=`<b>ἀλλοτριο·πραγέω-ῶ</b> <font color="purple">[ᾱγ]</font> travailler à rendre hostile, préparer une défection, POL. <i>5, 41, 8</i>.<p><b>Étym</b>. ἀ. <i>th</i>. πράγ- <i>de</i> πράσσω.`

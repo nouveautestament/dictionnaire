@@ -1,1 +1,0 @@
-lar[5718]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., alternativement, THCR. <i>Idyl. 1, 34</i> ; ἀ. ἀνέρος ἀνήρ, A.RH. <i>4, 199,</i> chaque homme l’un après l’autre.<p><b>Étym</b>. ἀμοιβάς.`

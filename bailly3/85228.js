@@ -1,1 +1,0 @@
-lar[85228]=`<b>προσ·απεκδύομαι</b> (<i>seul. prés</i>.) se dépouiller en outre de qqe ch. NAZ.`

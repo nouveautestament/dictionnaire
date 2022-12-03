@@ -1,1 +1,0 @@
-lar[26291]=`<b>δι·ερωτάω-ῶ :<br>      1</b> interroger en détail : τινα, PLAT. <i>Gorg. 458a, etc.</i> ; XÉN. <i>Cyr. 1, 3, 15,</i> qqn ; τινά τι, PLAT. <i>Prot. 315c</i>, qqn sur qqe ch.<br><b>      2</b> interroger avec persistance, ne cesser de questionner, DÉM. <i>34, 22</i>.`

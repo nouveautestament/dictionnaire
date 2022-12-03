@@ -1,1 +1,0 @@
-lar[20519]=`<b>ου (ὁ)</b> Bourikhos, <i>h</i>. DÈMOCH. (ATH. <i>253a</i>) ; DS.`

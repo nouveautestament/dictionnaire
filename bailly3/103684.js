@@ -1,1 +1,0 @@
-lar[103684]=`<b>ὑπο·πίμπρημι</b> <font color="darkgreen">(<i>f</i>. ὑποπρήσω, <i>ao</i>. ὑπέπρησα, <i>etc</i>.) :</font><br><b>      1</b> mettre le feu sous, <i>acc</i>. HDT. <i>2, 107 ; 4, 69</i> ; AR. <i>Lys. 348</i> ; PLUT. <i>Nic. 16, Dio. 44</i>.<br><b>      2</b> brûler peu à peu, <i>fig</i>. HDT. <i>2, 111 ; 3, 45</i>.`

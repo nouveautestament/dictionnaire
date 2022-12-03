@@ -1,1 +1,0 @@
-lar[25238]=`<b>δια·περδικίζω</b> <font color="purple">[ῑκ]</font> <font color="darkgreen">(<i>ao. inf</i>. -ικίσαι)</font> s’envoler comme une perdrix, COM. (<i>Com. fr. 4, 634</i>).`

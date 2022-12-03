@@ -1,1 +1,0 @@
-lar[37952]=`<b>ἐπι·κατασφάττω</b>, égorger sur, immoler sur, <i>dat</i>. PLUT. <i>M. 772c ; abs</i>. DH. <i>3, 20</i> ; PLUT. <i>Cleom. 37</i>.`

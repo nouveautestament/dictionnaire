@@ -1,1 +1,0 @@
-lar[108835]=`<b>ας (ἡ)</b> <font color="purple">[στᾰ]</font> formation de chœurs, <i>d’où</i> chœur, danse, ANTH. <i>7, 613 ; 9, 603 ; au plur</i>. CALL. <i>L. Pall. 66</i>.<p><b>Étym</b>. χοροστάτης.`

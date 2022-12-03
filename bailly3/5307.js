@@ -1,1 +1,0 @@
-lar[5307]=`<font color="purple">[μᾰ]</font> <i>adv.</i> :<br><b>      1</b> sans combat, THC. <i>1, 143, etc.</i> ; XÉN. <i>Cyr. 3, 2, 4 ; Hell. 7, 5, 18, etc.</i><br><b>      2</b> sans conteste, PLUT. <i>M. 433c</i>.<p><b>Étym</b>. ἄμαχος.`

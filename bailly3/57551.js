@@ -1,1 +1,0 @@
-lar[57551]=`<b>(ὁ)</b> Kranaspès, <i>Perse,</i> HDT. <i>3, 126</i>.`

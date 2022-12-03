@@ -1,1 +1,0 @@
-lar[35055]=`<b>ἐντερο·πονέω-ῶ</b>, souffrir des entrailles, HPC. <i>Antid. p. 613 Lind</i>.<p><b>Étym</b>. ἔντερον, π.`

@@ -1,1 +1,0 @@
-lar[82618]=`<b>πολφός, οῦ</b>, <i>ou</i> <b>πόλφος, ου (ὁ)</b> <i>d’ord. au pl</i>. boulettes de pâte cuites avec de la purée, AR. <i>fr. 548 Dind</i>.<p><b>Étym</b>. <i>cf. lat</i>. pulpa.`

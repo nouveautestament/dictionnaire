@@ -1,1 +1,0 @@
-lar[104947]=`<b>ίδος</b> <font color="purple">[σᾱῐδ]</font> <i>adj. f</i>. de Pharsale, ANTH. <i>7, 2</i>.<p><b>Étym</b>. Φάρσαλος.`

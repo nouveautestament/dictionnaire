@@ -1,1 +1,0 @@
-lar[45516]=`<b>ἡμι·παγής, ής, ές</b> <font color="purple">[ῐᾰ]</font> à demi compact, mal assemblé, PLAT. <i>Tim. 59e, 60d ;</i> ᾠά, HPC. <i>405, 39,</i> œufs à moitié durs ; <i>fig</i>. PHIL. <i>1, 322</i>.<p><b>Étym</b>. ἡμι-, πήγνυμι.`

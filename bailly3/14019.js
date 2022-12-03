@@ -1,1 +1,0 @@
-lar[14019]=`<b>ἀ·πτήν, ῆνος (ὁ, ἡ) :<br>      1</b> qui ne vole pas encore, IL. <i>9, 323</i>.<br><b>      2</b> qui ne vole pas, qui n’a pas d’ailes, AR. <i>Av. 687</i> ; PLAT. <i>Pol. 276a</i>.<p><b>Étym</b>. ἀ, ἵπταμαι.`

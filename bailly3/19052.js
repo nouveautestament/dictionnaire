@@ -1,1 +1,0 @@
-lar[19052]=`<b>ης, ες</b> <font color="purple">[ᾰα]</font><br><b>      1</b> semblable à un précipice, PLUT. <i>Lyc. 16</i>.<br><b>      2</b> rempli de bas-fonds <i>ou</i> d’abîmes, PHIL. <i>2, 514 ; fig</i>. β. βίος, PHIL. <i>1, 322,</i> vie remplie de bas-fonds et de turpitudes.<p><b>Étym</b>. βάραθρον, -ωδης.`

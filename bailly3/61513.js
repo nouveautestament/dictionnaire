@@ -1,1 +1,0 @@
-lar[61513]=`<b>ας (ἡ)</b> <font color="purple">[δᾰλ]</font> art délicat d’un discours, AUS. <i>Ep. 14, 26</i>.<p><b>Étym</b>. λογοδαίδαλος.`

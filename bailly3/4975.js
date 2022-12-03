@@ -1,1 +1,0 @@
-lar[4975]=`<b>ων (αἱ)</b> habitantes (<i>càd</i>. nymphes) des bois, A.RH. <i>1, 1066</i>.<p><b>Étym</b>. ἄλσος.`

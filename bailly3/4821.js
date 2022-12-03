@@ -1,1 +1,0 @@
-lar[4821]=`<b>ἀλλοτριο·πραγμονέω-ῶ</b>, s’ingérer dans les affaires d’autrui, SIMPL. <i>Epict. p. 419</i>.<p><b>Étym</b>. ἀ. πρᾶγμα.`

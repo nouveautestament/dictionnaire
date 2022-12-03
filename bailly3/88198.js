@@ -1,1 +1,0 @@
-lar[88198]=`<b>ῥαγο·λόγος, ος, ον</b> <font color="purple">[ᾱ]</font> qui cueille des grains <i>ou</i> des grappes de raisin, ANTH. <i>6, 45</i>.<p><b>Étym</b>. ῥάξ, λέγω.`

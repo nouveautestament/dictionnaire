@@ -1,1 +1,0 @@
-lar[1820]=`<b>ἀερσί·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font><br><b>      1</b> hautain, NONN. <i>Jo. 8, 44</i>.<br><b>      2</b> qui rend fier, ION (ATH. <i>35e</i>).<p><b>Étym</b>. ἀείρω, νόος.`

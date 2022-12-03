@@ -1,1 +1,0 @@
-lar[59828]=`<b>λαο·τόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui perce les pierres, P. SIL. <i>Ecphr. ag. Soph. 605</i>.<p><b>Étym</b>. λ. τείρω.`

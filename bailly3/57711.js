@@ -1,1 +1,0 @@
-lar[57711]=`<b>ου (τὸ)</b> petit morceau de viande, ALEX. (ATH. <i>655f</i>).<p><b>Étym</b>. κρέας.`

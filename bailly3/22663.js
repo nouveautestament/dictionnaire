@@ -1,1 +1,0 @@
-lar[22663]=`<b>γροσφο·φόρος, ου (ὁ)</b> <i>c</i>. γροσφομάχος, armé (<i>litt</i>. porteur) du javelot <i>pilum,</i> POL. <i>6, 21, 9</i>.<p><b>Étym</b>. γρόσφος, φέρω.`

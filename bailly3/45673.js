@@ -1,1 +1,0 @@
-lar[45673]=`<b>ης (ἡ)</b> Hèniokhè, <i>f</i>. HÉS. <i>Sc. 83</i> ; ANDR. (PLUT. <i>Thes. 25).</i><p><b>Étym</b>. <i>v</i>. ἡνιόχη.`

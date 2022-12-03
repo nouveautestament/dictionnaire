@@ -1,1 +1,0 @@
-lar[5707]=`<b>ίδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. d’Amnisos, A.RH. <i>3, 881</i> ; CALL. <i>Dian. 51</i>.<p><b>Étym</b>. Ἀμνισός.`

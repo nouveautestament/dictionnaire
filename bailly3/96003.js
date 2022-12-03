@@ -1,1 +1,0 @@
-lar[96003]=`<b>συν·ιερεύω</b>, être collègue en prêtrise, NAZ. <i>1, 481 Migne</i>.`

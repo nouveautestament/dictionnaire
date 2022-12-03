@@ -1,1 +1,0 @@
-lar[92674]=`entasser, LUC. <i>Cat. 5</i> ; SPT. <i>Lev. 1, 7 ; fig</i>. SYN. <i>42a</i>.<p><b>Étym</b>. στοιβή.`

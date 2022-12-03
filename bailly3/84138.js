@@ -1,1 +1,0 @@
-lar[84138]=`<b>προ·εμβιβάζω</b> <font color="purple">[ῐ]</font> faire entrer auparavant, <i>avec</i> εἰς <i>et l’acc</i>. POL. <i>2, 45, 4, etc</i>.`

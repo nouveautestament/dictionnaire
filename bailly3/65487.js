@@ -1,1 +1,0 @@
-lar[65487]=`<b>ου (ἡ) :<br>      1</b> corde, ficelle, fil, IL. <i>23, 854</i>.<br><b>      2</b> ligne à pêcher, AR. <i>Th. 935</i> ; ANTH. <i>7, 504</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

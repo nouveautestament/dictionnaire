@@ -1,1 +1,0 @@
-lar[51707]=`<b>ῆρος</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m. c</i>. καρανιστής ESCHL. <i>Eum. 186</i>.`

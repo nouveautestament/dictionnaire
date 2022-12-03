@@ -1,1 +1,0 @@
-lar[46935]=`faire des entrechats, danser la danse θερμαυστρίς, LUC. <i>Salt. 34</i>.<p><b>Étym</b>. <i>v</i>. θερμαυστρίς.`

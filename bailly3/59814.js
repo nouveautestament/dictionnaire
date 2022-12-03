@@ -1,1 +1,0 @@
-lar[59814]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> d’un tailleur de pierres, NYSS. <i>3, 1100 Migne</i>.<p><b>Étym</b>. λαοξόος.`

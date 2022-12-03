@@ -1,1 +1,0 @@
-lar[62814]=`<b>μανό·χροος, ος, ον</b> <font color="purple">[ᾱ]</font> qui a la peau lâche et molle, TH. <i>Sud. 19</i>.<p><b>Étym</b>. μανός, χρόα.`

@@ -1,1 +1,0 @@
-lar[42653]=`<b>εὐ·μειδής, ής, ές</b>, au doux sourire, bienveillant, favorable, A.RH. <i>4, 715</i> ; CALL. <i>Dian. 129</i>.<p><b>Étym</b>. εὖ, μειδιάω.`

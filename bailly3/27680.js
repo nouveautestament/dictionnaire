@@ -1,1 +1,0 @@
-lar[27680]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite esclave, AR. <i>Th. 537</i> ; MÉTAG. (POLL. <i>3, 76</i>) ; ARR. <i>Epict. 4, 1, 17, etc.</i> ; petit esclave, <i>blâmé en ce sens par</i> LUC. <i>Lex. 25</i>.<p><b>Étym</b>. δοῦλος.`

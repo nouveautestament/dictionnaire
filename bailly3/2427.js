@@ -1,1 +1,0 @@
-lar[2427]=`<b>αἰθαλόω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> réduire en suie <i>ou</i> en noir de fumée, DIOSC. <i>1, 96 ; au pass</i>. DIOSC. <i>5, 171</i>.<br><b>      2</b> donner une couleur de suie, noircir, EUR. <i>El. 1140</i>.<p><b>Étym</b>. αἴθαλος.`

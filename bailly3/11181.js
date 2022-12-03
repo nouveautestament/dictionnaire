@@ -1,1 +1,0 @@
-lar[11181]=`<b>ή, όν</b>, qui peut délivrer, qui délivre de, <i>gén</i>. ARSTT. <i>Probl. 31, 23</i> ; DIOSC. <i>3, 83</i>.<p><b>Étym</b>. ἀπαλλάσσω.`

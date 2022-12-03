@@ -1,1 +1,0 @@
-lar[88480]=`<b>(ἡ)</b> Rhèskynthis, <i>surn. d’Hèra,</i> NIC. <i>Th. 460</i>.`

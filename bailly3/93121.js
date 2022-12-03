@@ -1,1 +1,0 @@
-lar[93121]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> excitant, PHYLARQ. (ATH. <i>18e</i>).<p><b>Étym</b>. στύω.`

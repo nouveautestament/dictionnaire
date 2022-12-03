@@ -1,1 +1,0 @@
-lar[89161]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui remue les hanches en marchant, <i>d’où</i> qui se donne de grands airs, fastueux, fanfaron, ARSTT. <i>Rhet. 2, 16, 2 ; Eud. 2, 3, 9 ; 3, 6, 2</i>.<p><b>Étym</b>. σάλος.`

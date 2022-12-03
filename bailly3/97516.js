@@ -1,1 +1,0 @@
-lar[97516]=`<b>τανα·ῶπις, ιδος</b> <font color="purple">[ᾰᾰῐδ]</font> dont la vue s’étend <i>ou</i> porte au loin, EMPÉD. <i>122 Diels</i>.<p><b>Étym</b>. ταναός, ὤψ.`

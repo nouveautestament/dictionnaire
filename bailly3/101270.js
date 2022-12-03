@@ -1,1 +1,0 @@
-lar[101270]=`<i>crase p</i>. τῷ ἄρα, par conséquent, certes donc.`

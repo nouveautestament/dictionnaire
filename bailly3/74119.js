@@ -1,1 +1,0 @@
-lar[74119]=`<b>πάγ·κλαυστος, ος, ον :<br>      1</b> <i>pass</i>. tout à fait lamentable, SOPH. <i>El. 1086</i>.<br><b>      2</b> <i>act</i>. qui pleure sans cesse, SOPH. <i>Tr. 652 ; Ant. 831</i>.<p><b>Étym</b>. π. κλαίω.`

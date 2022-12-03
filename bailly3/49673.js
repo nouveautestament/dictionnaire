@@ -1,1 +1,0 @@
-lar[49673]=`<b>ἰσ·ολύμπιος, ος, ον</b> <font color="purple">[ῑ̆σ]</font> égal à l’Olympe, digne de l’Olympe, divin, PHIL. <i>2, 567</i>.<p><b>Étym</b>. ἴ. Ὄλυμπος.`

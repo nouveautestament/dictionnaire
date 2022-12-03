@@ -1,1 +1,0 @@
-lar[71995]=`<b>ὀνό·ρυγχος, ου (ὁ)</b> sorte de navet (<i>propr</i>. museau d’âne) LYSIPP. (DICÆARQ. <i>p. 10).</i><p><b>Étym</b>. ὄ. ῥύγχος.`

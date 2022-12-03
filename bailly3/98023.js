@@ -1,1 +1,0 @@
-lar[98023]=`<b>τειχο·δόμος, ος, ον</b>, qui construit un rempart, une forteresse, MAN. <i>4, 291</i>.<p><b>Étym</b>. τεῖχος, δέμω.`

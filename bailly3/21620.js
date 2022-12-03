@@ -1,1 +1,0 @@
-lar[21620]=`<b>(ἡ)</b> = <i>lat</i>. Gĕmella, <i>n. de f. rom</i>. ANTH. <i>5, 119</i>.`

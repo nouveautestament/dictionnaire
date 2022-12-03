@@ -1,1 +1,0 @@
-lar[13276]=`<b>εως (ἡ)</b> extinction, ARSTT. <i>An. post. 2, 8, 7 ; fig</i>. suppression, ARÉT. <i>p. 105, 14</i>.<p><b>Étym</b>. ἀποσβέννυμι.`

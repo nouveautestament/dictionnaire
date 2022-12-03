@@ -1,1 +1,0 @@
-lar[81482]=`être doué d’une qualité, ANTYLL. (ORIB. <i>2, 380 B.-Dar</i>.).<p><b>Étym</b>. ποιωτός.`

@@ -1,1 +1,0 @@
-lar[65969]=`<b>μισ·έρως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui hait l’amour, HDN GR. <i>Epim. p. 206 Boissonade</i>.<p><b>Étym</b>. μισέω, ἔρως.`

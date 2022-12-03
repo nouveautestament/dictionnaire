@@ -1,1 +1,0 @@
-lar[57947]=`<b>κριο·δόχη, ης (ἡ)</b> <font color="purple">[ῑ]</font> porte-bélier, appareil pour supporter le bélier de siège, ATHÉNÉE MÉC. <i>23, 8</i>.<p><b>Étym</b>. κριός, δέχομαι.`

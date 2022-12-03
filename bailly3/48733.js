@@ -1,1 +1,0 @@
-lar[48733]=`<b>ἰθυ·δίκης, ου</b> <font color="purple">[ῑῠῐ]</font> <i>adj. m</i>. qui juge droitement, équitablement, HÉS. <i>O. 228 ; p. opp. à</i> δωροφάγος, <i>O. 219</i> ; A. PL. <i>4, 35</i>.<p><b>Étym</b>. ἰ. δίκη.`

@@ -1,1 +1,0 @@
-lar[96450]=`<b>συν·ωμία, ας (ἡ) :<br>      1</b> point d’attache des deux épaules, POL. <i>12, 25, 3</i> ; GEOP. <i>19, 6, 3</i>.<br><b>      2</b> synomie, <i>maladie des chevaux qui s’épaulent,</i> HIPPIATR.<p><b>Étym</b>. σύν, ὦμος.`

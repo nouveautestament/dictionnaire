@@ -1,1 +1,0 @@
-lar[91111]=`<b>ου (ὁ)</b> maquereau, <i>sorte de thon,</i> AR. <i>Eq. 1008</i> ; ARSTT. <i>H.A. 6, 17, 12, etc</i>.<p><b>Étym</b>. <i>cf. lat</i>. scomber.`

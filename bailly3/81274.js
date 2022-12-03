@@ -1,1 +1,0 @@
-lar[81274]=`<b>ποδ·ήνεμος, ος, ον</b>, aux pieds agiles (<i>propr</i>. rapides comme le vent) IL. <i>2, 786, etc</i>.<p><b>Étym</b>. πούς, ἄνεμος.`

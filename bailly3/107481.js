@@ -1,1 +1,0 @@
-lar[107481]=`<b>Χαιρι·μένης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Khæriménès, <i>Athénien,</i> DÉM. <i>54, 31 Baiter-Sauppe</i>.<p><b>Étym</b>. χαίρω, μένος.`

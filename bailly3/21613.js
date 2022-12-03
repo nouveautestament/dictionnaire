@@ -1,1 +1,0 @@
-lar[21613]=`<i>ou</i> <b>Γελῶος (ὁ)</b> <i>adj. m. d’où plur</i>. Γελῷοι <i>ou</i> Γελῶοι (οἱ) les habitants de Géla, HDT. <i>7, 153, etc.</i> ; THC. <i>6, 4, etc</i>.<p>➳ Γελῶος, ANTH. <i>9, 96</i> ; POLYEN <i>5, 6</i>.<p><b>Étym</b>. Γέλα.`

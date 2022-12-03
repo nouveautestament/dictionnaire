@@ -1,1 +1,0 @@
-lar[61782]=`<b>ης, ες</b>, qui sanglote, HPC. <i>400, 44</i> ; DIOCL. <i>Ep. ad Ant. 3</i>.<p><b>Étym</b>. λυγμός, -ωδης.`

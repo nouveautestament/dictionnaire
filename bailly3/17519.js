@@ -1,1 +1,0 @@
-lar[17519]=`<b>αὐτο·κέραστος, ος, ον :<br>      1</b> qui est de lui-même (comme) mélangé, <i>càd</i>. qu’on emploie sans le mouiller, pur, <i>en parl. de certains vins légers,</i> PHRYN. <i>(Bkk. 3, 10</i>).<br><b>      2</b> <i>fig</i>. qui a un pouvoir sans mélange, <i>càd</i>. absolu, SIB. <i>8, 135</i>.<p><b>Étym</b>. αὐ. κεράννυμι ; <i>cf</i>. αὐτόκρατος.`

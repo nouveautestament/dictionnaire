@@ -1,1 +1,0 @@
-lar[30277]=`<b>ας (ἡ)</b> culte des idoles, idolâtrie, NT. <i>Gal. 5, 20 ; 1Cor. 10, 14</i> ; CLÉM. <i>2, 364a Migne, etc</i>.<p><b>Étym</b>. εἰδωλολάτρης.`

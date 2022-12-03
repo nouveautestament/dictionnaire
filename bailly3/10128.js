@@ -1,1 +1,0 @@
-lar[10128]=`<b>ἀντι·νουθετέω-ῶ</b>, admonester à son tour <i>ou</i> en retour, PLUT. <i>M. 72e</i>.`

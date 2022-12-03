@@ -1,1 +1,0 @@
-lar[82436]=`<b>πολυ·ταρβής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>pass</i>. rempli d’effroi, ANTH. <i>9, 816</i>.<br><b>      2</b> <i>act</i>. qui cause un grand effroi, terrible, NONN. <i>D. 43, 360</i>.<p><b>Étym</b>. π. τάρβος.`

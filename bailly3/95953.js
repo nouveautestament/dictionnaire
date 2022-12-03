@@ -1,1 +1,0 @@
-lar[95953]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> convenu d’avance, AR. <i>Th. 458</i> ; ATH. <i>680c</i>.<p><b>Étym</b>. σύνθημα.`

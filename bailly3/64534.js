@@ -1,1 +1,0 @@
-lar[64534]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> instrument de mathématiques pour mesurer les lignes moyennes proportionnelles, VITR. <i>9, 3</i>.<p><b>Étym</b>. μεσολαβέω.`

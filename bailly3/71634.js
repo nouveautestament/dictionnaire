@@ -1,1 +1,0 @@
-lar[71634]=`<b>ὁμο·ούσιος, ος, ον</b>, consubstantiel, PLOT. <i>Enn. 2, 865</i>.<p><b>Étym</b>. ὁμ. οὐσία.`

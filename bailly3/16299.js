@@ -1,1 +1,0 @@
-lar[16299]=`<font color="purple">[ῑ]</font> <i>adv</i>., sans se détourner, ANTH. <i>7, 436</i>.<p><b>Étym</b>. ἄστρεπτος.`

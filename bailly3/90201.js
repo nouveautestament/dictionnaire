@@ -1,1 +1,0 @@
-lar[90201]=`<b>ῶνος (ἡ)</b> <font color="purple">[ῑ]</font> Sidon (<i>auj</i>. Saïda) <i>v. de Phénicie,</i> OD. <i>15, 425</i> ; HDT. <i>2, 116, etc.</i> ; XÉN. <i>Ages. 2, 30, etc</i>.`

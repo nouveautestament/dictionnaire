@@ -1,1 +1,0 @@
-lar[104145]=`<b>ὑπο·χαράσσω</b>, <i>néo-att</i>. <b>ὑπο·χαράττω</b> <font color="purple">[χᾰ]</font> graver en dessous, PLUT. <i>Alex. 69</i> ; PHILSTR. <i>Gymn. 48</i>.`

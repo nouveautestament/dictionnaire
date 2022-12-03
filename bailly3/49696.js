@@ -1,1 +1,0 @@
-lar[49696]=`<b>ἰσό·νεκυς, υος (ὁ, ἡ)</b> <font color="purple">[ῑ̆]</font> semblable (<i>propr</i>. égal) à un mort, EUR. <i>Or. 200</i>.<p><b>Étym</b>. ἴ. νέκυς.`

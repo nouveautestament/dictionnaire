@@ -1,1 +1,0 @@
-lar[8030]=`<b>ἀνδριαντο·πλαστική, ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art de modeler des statues, SEXT. <i>M. 11, 188</i>.<p><b>Étym</b>. ἀ. πλάσσω.`

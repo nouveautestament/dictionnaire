@@ -1,1 +1,0 @@
-lar[105039]=`<b>ου (ὁ)</b> <font color="purple">[ῑνῐᾰ]</font> le fils de Faustinus, ANTH. <i>15, 48</i>.<p><b>Étym</b>. <i>patr. de</i> Φαυστίνος.`

@@ -1,1 +1,0 @@
-lar[52184]=`<b>κατα·βρυχάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> rugir, EUM. <i>p. 445</i>.<p><b>Étym</b>. κ. βρύχω.`

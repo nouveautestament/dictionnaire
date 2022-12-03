@@ -1,1 +1,0 @@
-lar[22110]=`(<i>seul. prés</i>.) être gluant <i>ou</i> tenace, <i>d’où fig. en mauv. part,</i> être avare, être chiche, être mesquin, M. ANT. <i>5, 5</i>.<p><b>Étym</b>. γλίσχρος.`

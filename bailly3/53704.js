@@ -1,1 +1,0 @@
-lar[53704]=`<b>κατα·φωνέω-ῶ</b>, faire retentir de sa voix, NAZ. <i>2, 86a</i>.`

@@ -1,1 +1,0 @@
-lar[43852]=`<b>εὕω</b> <i>ou</i> <b>εὔω :<br>      1</b> faire griller, passer au feu, IL. <i>9, 468, etc.</i> ; OD. <i>9, 389, etc. ; fig</i>. consumer (de chagrin, <i>etc</i>.) HÉS. <i>O. 703</i>.<br><b>      2</b> brûler au soleil, dessécher, LUC. <i>Lex. 11</i>.<p>➳ <i>Ao</i>. εὖσα, OD. <i>14, 75</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₁eus-, brûler, <i>cf. lat</i>. ūrō.`

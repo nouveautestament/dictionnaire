@@ -1,1 +1,0 @@
-lar[80521]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Pittalakos, <i>h</i>. DÉM. <i>19, 245 Baiter-Sauppe</i>.`

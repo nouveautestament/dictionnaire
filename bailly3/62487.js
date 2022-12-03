@@ -1,1 +1,0 @@
-lar[62487]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> de Makris, <i>anc. n. de Corcyre,</i> A.RH. <i>4, 1175</i>.<p><b>Étym</b>. Μάκρις.`

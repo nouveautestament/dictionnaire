@@ -1,1 +1,0 @@
-lar[32028]=`<b>ἐκ·σαρκόω-ῶ :<br>      1 <i>tr.</i></b> rendre trop charnu, <i>d’où au pass</i>. prendre trop de chair, <i>en parl. d’olives,</i> TH. <i>C.P. 1, 19, 5</i>.<br><b>      2</b> <i>intr. c. au pass</i>. DIOSC. <i>Par. 1, 79</i>.`

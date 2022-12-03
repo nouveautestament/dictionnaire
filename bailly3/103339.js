@@ -1,1 +1,0 @@
-lar[103339]=`<b>ὑπο·καταφρονέω-ῶ</b>, dédaigner <i>ou</i> négliger un peu, HPC. <i>1133e ; avec un gén</i>. ARISTOX. <i>p. 31</i>.`

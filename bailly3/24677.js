@@ -1,1 +1,0 @@
-lar[24677]=`<b>δι·αιθριάζω</b> (<i>seul. prés</i>.) devenir tout à fait clair <i>ou</i> serein, <i>en parl. du temps,</i> XÉN. <i>An. 4, 4, 10</i>.<p><b>Étym</b>. δίαιθρος.`

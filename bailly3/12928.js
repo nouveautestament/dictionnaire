@@ -1,1 +1,0 @@
-lar[12928]=`<b>ἀ·πομφολύγωτος, ος, ον</b> <font color="purple">[ῡ]</font> qui ne forme pas de bulles, DIOSC. <i>5, 116</i>.<p><b>Étym</b>. ἀ, πομφολυγόω.`

@@ -1,1 +1,0 @@
-lar[41665]=`<b>οῦ (ὁ)</b> cri des bacchantes, <i>d’où en gén</i>. cri de joie, HERMÉS. <i>5, 13 ; cf</i>. PLUT. <i>Marc. 22, Ant. 75</i>.<p><b>Étym</b>. εὐάζω.`

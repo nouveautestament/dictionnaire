@@ -1,1 +1,0 @@
-lar[64920]=`<b>ου (τὸ)</b> Métaponte, <i>v. de Lucanie,</i> HDT. <i>4, 15</i> ; THC. <i>7, 33</i>.`

@@ -1,1 +1,0 @@
-lar[39074]=`<b>ατος (τὸ)</b> remède que l’on emploie goutte à goutte, GAL. <i>2, 96</i>.<p><b>Étym</b>. ἐπιστάζω.`

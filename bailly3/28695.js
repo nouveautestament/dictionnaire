@@ -1,1 +1,0 @@
-lar[28695]=`<b>δύσ·νοστος νόστος (ὁ)</b> <i>litt</i>. retour qui n’en est pas un, <i>càd</i>. retour difficile <i>ou</i> funeste, EUR. <i>Tr. 75 (var</i>. δύστηνον).<p><b>Étym</b>. δ. νόστος.`

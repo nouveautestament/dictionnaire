@@ -1,1 +1,0 @@
-lar[34709]=`<b>ἐννεακαιδεκά·μηνος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> âgé de dix-neuf mois, ANTH. <i>App. 172</i>.<p><b>Étym</b>. ἐ. μήν.`

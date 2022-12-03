@@ -1,1 +1,0 @@
-lar[40054]=`<b>ου (τὸ) :<br>      1</b> petite pièce en vers épiques, ATH. <i>65a.</i><br><b>      2</b> petit vers, AR. <i>Ach. 398, Pax 522, Ran. 942</i>.<p><b>Étym</b>. <i>dim. de</i> ἔπος.`

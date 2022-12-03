@@ -1,1 +1,0 @@
-lar[32510]=`<b>ἐλασί·χθων, ονος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui ébranle la terre, PD. <i>fr. 281</i>.<p><b>Étym</b>. ἐλάω, χθών.`

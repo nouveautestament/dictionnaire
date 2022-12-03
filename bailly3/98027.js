@@ -1,1 +1,0 @@
-lar[98027]=`<b>τειχομαχέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> attaquer des ouvrages de défense, donner l’assaut, HDT. <i>9, 70</i> ; THC. <i>7, 79</i> ; XÉN. <i>Hell. 1, 1, 14</i> ; PLUT. <i>Alc. 28, etc.</i><br><b>      2</b> <i>particul</i>. préparer <i>ou</i> diriger une attaque contre des ouvrages de défense, THC. <i>1, 102</i>.<p><b>Étym</b>. τειχομάχος.`

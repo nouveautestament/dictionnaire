@@ -1,1 +1,0 @@
-lar[88031]=`<b>πυρσο·φόρος, ος, ον</b>, qui porte <i>ou</i> donne du feu, NONN. <i>D. 7, 340</i>.<p><b>Étym</b>. πυρσός¹, φέρω.`

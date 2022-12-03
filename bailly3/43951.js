@@ -1,1 +1,0 @@
-lar[43951]=`<b>ἔφ·εκτος, ος, ον</b>, qui contient un entier et un sixième, VITR. <i>3, 1, 12</i> ; τόκος ἔφ. DÉM. <i>914, 10,</i> intérêts à un sixième du capital, <i>càd</i>. à 16 ⅔ %.<p><b>Étym</b>. ἐπί, ἕκτος.`

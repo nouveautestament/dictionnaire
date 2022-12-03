@@ -1,1 +1,0 @@
-lar[23555]=`<b>άδος (ἡ)</b> soulier à la Deinias, chaussure d’homme, CLÉANTH. (ATH. <i>471b</i>).<p><b>Étym</b>. Δεινίας.`

@@ -1,1 +1,0 @@
-lar[73157]=`<b>ὀρχηστο·μανέω-ῶ</b>, avoir la passion de la danse <i>ou</i> de la pantomime, LUC. <i>Salt. 85</i>.<p><b>Étym</b>. ὀρχηστής, μαίνομαι.`

@@ -1,1 +1,0 @@
-lar[35845]=`<b>ἐξ·ερπύζω</b>, <i>c</i>. ἐξέρπω ARSTT. <i>H.A. 8, 14, 2</i>.<p><b>Étym</b>. <i>ao</i>. ἐξείρπυσα <font color="purple">[ῠ]</font>.`

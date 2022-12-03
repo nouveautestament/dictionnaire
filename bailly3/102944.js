@@ -1,1 +1,0 @@
-lar[102944]=`<b>ὑπ·ημάτιος, α</b>, <i>ion</i>. <b>-η, ον</b> <font color="purple">[μᾰ]</font> qui paraît <i>ou</i> se fait avec le jour, matinal, OPP. <i>H. 4, 640</i>.<p><b>Étym</b>. ὑ. ἦμαρ.`

@@ -1,1 +1,0 @@
-lar[86358]=`<b>προσ·πορίζω</b>, procurer <i>ou</i> fournir en outre, <i>acc</i>. XÉN. <i>Mem. 3, 6, 5</i> ; DÉM. <i>48, 9 ; particul. t. de dialect</i>. poser la mineure d’un raisonnement (<i>cf. lat</i>. assumere), ARSTT. <i>Meteor. 3, 5, 6</i>.`

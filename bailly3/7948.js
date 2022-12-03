@@ -1,1 +1,0 @@
-lar[7948]=`<b>ἀνα·χωρίζω</b>, faire retirer, ramener en arrière, XÉN. <i>Cyr. 7, 1, 41 ; 2, 2, 8 ; An. 5, 2, 10, etc</i>.`

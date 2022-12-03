@@ -1,1 +1,0 @@
-lar[35085]=`<b>ἐντιμόω-ῶ</b> <font color="purple">[ῑ]</font> honorer, SPT. <i>4Reg. 1, 13</i>.<p><b>Étym</b>. ἔντιμος.`

@@ -1,1 +1,0 @@
-lar[99148]=`<b>τιλάω-ῶ</b> <font color="purple">[ῑ]</font> avoir le flux de ventre, HIPPON. <i>fr. 55A</i>.`

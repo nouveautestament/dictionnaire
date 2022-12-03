@@ -1,1 +1,0 @@
-lar[96707]=`<b>συ·στρατηγός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> collègue dans le commandement d’une armée, EUR. <i>Ph. 745</i> ; THC. <i>2, 58</i> ; XÉN. <i>An. 2, 6, 16 ; Hell. 2, 4, 20 ; 5, 3, 17</i> ; PLAT. <i>Rsp. 556c, etc.</i><br><b>      2</b> collègue dans la préture, <i>à Rome,</i> PLUT.`

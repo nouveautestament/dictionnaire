@@ -1,1 +1,0 @@
-lar[21380]=`<font color="purple">[ᾰλ]</font><br><b>      1</b> chatouiller, PLAT. <i>Phil. 47a ;</i> ARSTT. <i>Probl. 35, 6 ; au pass</i>. ARSTT. <i>P.A. 3, 10, 8, etc.</i><br><b>      2</b> <i>p. ext</i>. exciter, irriter, <i>en gén</i>. PLAT. <i>Phædr. 251c</i>.<p><b>Étym</b>. γάργαλος.`

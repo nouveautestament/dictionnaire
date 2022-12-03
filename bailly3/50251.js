@@ -1,1 +1,0 @@
-lar[50251]=`<b>ή, όν</b> <font color="purple">[κᾰ]</font> ensanglanté, EUR. <i>Or. 1358</i>.<p><b>Étym</b>. <i>vb. de</i> καθαιμάσσω.`

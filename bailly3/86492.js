@@ -1,1 +1,0 @@
-lar[86492]=`<b>εως (ἡ)</b> <font color="purple">[τῑ]</font> action d’ajouter une peine arbitraire à une peine légale, EL. <i>V.H. 14, 7</i>.<p><b>Étym</b>. προστιμάω.`

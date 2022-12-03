@@ -1,1 +1,0 @@
-lar[85101]=`<b>προσ·αισθάνομαι</b>, s’apercevoir en outre, ARSTT. <i>Mem. 1, 8</i>.`

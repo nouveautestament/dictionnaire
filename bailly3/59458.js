@@ -1,1 +1,0 @@
-lar[59458]=`<b>ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> fils de Laërte, <i>càd</i>. Ulysse, IL. <i>3, 200</i> ; OD. <i>9, 19</i> ; EUR. <i>Hec. 133</i>.<p>➳ <i>Voc</i>. -άδη, IL. <i>9, 308, etc. ; gén. épq</i>. -εω, OD. <i>12, 378 ; 19, 336 ; et</i> -αο, Q. SM. <i>12, 73. Par contr. dor. nom</i>. Λαρτιάδας, EUR. <i>Rhes. 907</i>.<p><b>Étym</b>. <i>patr. de</i> Λαέρτης.`

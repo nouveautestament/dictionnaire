@@ -1,1 +1,0 @@
-lar[31154]=`<b>ἐκ·δακρύω :<br>      1</b> (<i>seul. ao</i>. ἐξεδάκρυσα, <i>inf</i>. ἐκδακρῦσαι) fondre en larmes, SOPH. <i>Ph. 278</i> ; EUR. <i>Or. 1122, Ph. 1344</i> ; PLUT. <i>M. 384b.</i><br><b>      2</b> (<i>part. prés</i>. -όντων) <i>p. anal</i>. laisser couler <i>ou</i> suinter, <i>en parl. de plantes,</i> PLUT. <i>M. 384b</i>.`

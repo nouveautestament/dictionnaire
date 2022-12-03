@@ -1,1 +1,0 @@
-lar[89975]=`<b>ας (ἡ)</b> seiche, <i>mollusque céphalopode qui jette une liqueur noire avec laquelle on prépare la sépia,</i> AR. <i>Ach. 351, etc.</i> ; ARSTT. <i>H.A. 4, 8, 21, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>266, 49</i>.`

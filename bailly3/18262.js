@@ -1,1 +1,0 @@
-lar[18262]=`<b>ἄ·φροντις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῐδ]</font> sans souci de, <i>gén</i>. EUR. <i>fr. 76</i> (PLUT. <i>M. 34b</i>) ; PLUT. <i>M. 45d ; abs</i>. PLUT. <i>M. 792b</i> (<i>acc</i>. ἄφροντιν) ; LUC. <i>D. deor. 24, 2</i>.<p><b>Étym</b>. ἀ, φροντίς.`

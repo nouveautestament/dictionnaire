@@ -1,1 +1,0 @@
-lar[109210]=`<b>χρυσο·μανής, ής, ές</b> <font color="purple">[ῡᾰ]</font> passionné pour l’or, ANTH. <i>5, 302</i>.<p><b>Étym</b>. χρ. μαίνομαι.`

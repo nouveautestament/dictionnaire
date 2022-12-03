@@ -1,1 +1,0 @@
-lar[50566]=`<b>καινό·ταφος, ος, ον</b> <font color="purple">[ᾰ]</font> tombeau d’une construction nouvelle <i>ou</i> originale, ANTH. <i>7, 686</i>.<p><b>Étym</b>. κ. τάφος.`

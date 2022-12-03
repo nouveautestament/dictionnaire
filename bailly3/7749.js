@@ -1,1 +1,0 @@
-lar[7749]=`<font color="purple">[τᾰ]</font> <i>adv</i>., d’un air menaçant, POL. <i>4, 4, 7 ; 22, 17, 6</i>.`

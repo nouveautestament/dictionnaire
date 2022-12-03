@@ -1,1 +1,0 @@
-lar[46787]=`<b>θεό·σημος, ος, ον</b>, qui manifeste la volonté divine, SIB. <i>8</i>.<p><b>Étym</b>. θ. σῆμα.`

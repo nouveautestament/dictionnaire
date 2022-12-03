@@ -1,1 +1,0 @@
-lar[6601]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰν]</font><br><b>      1</b> liens du sang (<i>lat</i>. necessitudo) POL. <i>18, 34, 10</i>.<br><b>      2</b> nécessité, SEXT. <i>P. 2, 205</i>.<p><b>Étym</b>. ἀναγκαῖος.`

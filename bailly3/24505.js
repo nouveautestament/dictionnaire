@@ -1,1 +1,0 @@
-lar[24505]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> prescription, ordre, PORPH. (STOB. <i>Ecl. 2, 384</i>) ; NYSS. <i>2, 879c</i>.<p><b>Étym</b>. διαγορεύω.`

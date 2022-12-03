@@ -1,1 +1,0 @@
-lar[22151]=`<i>ou</i> <b>γλυκίννας (ὁ)</b> <font color="purple">[ῠ]</font> sorte de gâteau crétois fait de vin doux et d’huile, SÉLEUC. (ATH. <i>645d</i>).<p><b>Étym</b>. γλυκύς.`

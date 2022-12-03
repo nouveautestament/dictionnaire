@@ -1,1 +1,0 @@
-lar[26860]=`<b>οῦ (ὁ)</b> affirmation par serment, POL. <i>16, 266</i>.<p><b>Étym</b>. *διορκίζω <i>de</i> διά, ὅρκος.`

@@ -1,1 +1,0 @@
-lar[72099]=`<b>ὀξύ·θυμος, ος, ον</b> <font color="purple">[ῠῡ]</font><br><b>      1</b> sévère, ESCHL. <i>Eum. 705</i>.<br><b>      2</b> irascible, EUR. <i>Med. 319, etc.</i> ; AR. <i>Vesp. 1104, etc.,</i> ARSTT. <i>Rhet. 1, 10, etc.</i> ; τοὐξύθυμον, EUR. <i>Bacch. 671,</i> accès de colère.<p><b>Étym</b>. ὀ. θυμός.`

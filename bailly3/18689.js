@@ -1,1 +1,0 @@
-lar[18689]=`<b>(ἡ)</b> Babyka, <i>n. d’un pont près de Sparte,</i> PLUT. <i>Lyc. 6, Pel. 17</i>.<p><b>Étym</b>. <i>v</i>. βαβύκα.`

@@ -1,1 +1,0 @@
-lar[62906]=`<b>μαργαριτο·φόρος, ος, ον</b> <font color="purple">[ᾰρῑ]</font> qui produit des perles, ORIG. <i>3, p. 450</i>.<p><b>Étym</b>. μαργαρίτης, φέρω.`

@@ -1,1 +1,0 @@
-lar[64225]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> μεμβράς, A. TR. <i>12, p. 766</i>.`

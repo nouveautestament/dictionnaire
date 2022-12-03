@@ -1,1 +1,0 @@
-lar[55563]=`<b>κιρκ·ήλατος, ος, ον</b> <font color="purple">[ᾰ]</font> poursuivi par un oiseau de proie, ESCHL. <i>Suppl. 62</i>.<p><b>Étym</b>. κίρκη, ἐλαύνω.`

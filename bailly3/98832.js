@@ -1,1 +1,0 @@
-lar[98832]=`<b>ου (τὸ)</b> collyre de couleur cendrée, CELS. <i>6, 6</i>.<p><b>Étym</b>. τέφρα.`

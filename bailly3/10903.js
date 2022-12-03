@@ -1,1 +1,0 @@
-lar[10903]=`<b>ἀξινο·μαντεία, ας (ἡ)</b> <font color="purple">[ῑ]</font> divination au moyen de haches, PLIN. <i>H.N. 36, 19</i>.`

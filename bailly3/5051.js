@@ -1,1 +1,0 @@
-lar[5051]=`<font color="purple">[ῠ]</font> <i>adv</i>., indissolublement, PLAT. <i>Tim. 60c</i>.`

@@ -1,1 +1,0 @@
-lar[94743]=`<b>συν·αναπλέκω :<br>      1 <i>tr.</i></b> entrelacer avec, LUC. <i>Gall. 13, Anach. 15 ; fig</i>. LGN <i>20, 1</i>.<br><b>      2 <i>intr.</i></b> s’enlacer à, <i>dat</i>. EUM. <i>9, p. 345</i>.`

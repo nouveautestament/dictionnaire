@@ -1,1 +1,0 @@
-lar[87786]=`<b>πυργομαχέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> attaquer <i>ou</i> défendre une tour, XÉN. <i>Cyr. 6, 4, 18, An. 7, 8, 13</i> ; PLUT. <i>M. 228d.</i><br><b>      2</b> combattre d’une tour, POL. <i>5, 84, 2</i>.<p><b>Étym</b>. πυργομάχος.`

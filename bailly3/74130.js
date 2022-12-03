@@ -1,1 +1,0 @@
-lar[74130]=`<b>παγ·κόνιτος, ος, ον</b> <font color="purple">[ῑ]</font> où l’on est couvert de poussière, <i>càd</i>. fatigant, pénible, <i>ép. d’un combat,</i> SOPH. <i>Tr. 505</i>.<p><b>Étym</b>. π. κονίω.`

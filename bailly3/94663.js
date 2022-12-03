@@ -1,1 +1,0 @@
-lar[94663]=`<b>σύν·αλμος, ος, ον</b>, rempli de saumure, MACH. (ATH. <i>580d</i>).<p><b>Étym</b>. σ. ἅλμη.`

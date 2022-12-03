@@ -1,1 +1,0 @@
-lar[104643]=`<b>οῦ (ὁ)</b> celui qui nettoie, qui entretient, qui a soin de, <i>au plur. en parl. des descendants de Phidias chargés d’entretenir la statue de Zeus à Olympie,</i> PAUS. <i>5, 14, 5</i>.<p>➳ <i>Dans les inscr. att. du temps de l’empire rom., affaibli en</i> φαιδυντής, <i>v. Meisterh. p. 63, 5</i>.<p><b>Étym</b>. φαιδρύνω.`

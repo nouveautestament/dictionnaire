@@ -1,1 +1,0 @@
-lar[97542]=`<b>τανύ·δρομος, ος, ον</b> <font color="purple">[ᾰ]</font> qui court vivement, agile, ESCHL. <i>Eum. 371</i>.<p><b>Étym</b>. τανυ-, δραμεῖν.`

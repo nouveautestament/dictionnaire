@@ -1,1 +1,0 @@
-lar[35501]=`<b>ἐξ·άνθρωπος, ος, ον</b>, qui enlève le caractère d’homme, qui rend furieux, ARÉT. <i>Caus. m. acut. 1, 6</i>.<p><b>Étym</b>. ἐξ, ἄνθρωπος.`

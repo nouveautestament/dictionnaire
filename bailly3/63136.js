@@ -1,1 +1,0 @@
-lar[63136]=`<b>ματαιολογέω-ῶ</b> <font color="purple">[ᾰ]</font> tenir de vains <i>ou de</i> sots discours, STR. <i>76</i>.<p><b>Étym</b>. ματαιολόγος.`

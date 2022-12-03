@@ -1,1 +1,0 @@
-lar[103867]=`<b>ὑπο·σπουδάζω</b>, traiter avec une faveur croissante, DC. <i>39, 25 dout</i>.`

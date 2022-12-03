@@ -1,1 +1,0 @@
-lar[1750]=`<b>ἀεξί·κακος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui accroît <i>ou</i> entretient le mal, NONN. <i>D. 20, 84</i>.<p><b>Étym</b>. ἀ. κακός.`

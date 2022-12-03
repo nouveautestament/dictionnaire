@@ -1,1 +1,0 @@
-lar[92792]=`<b>ου (τὸ)</b> instrument de chirurgie pour tirer le sang, A. APHR. <i>Probl. 2, 59</i>.<p><b>Étym</b>. στραγγεύομαι.`

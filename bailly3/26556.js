@@ -1,1 +1,0 @@
-lar[26556]=`<b>δικο·λύμης, ου (ὁ)</b> <font color="purple">[ῐῡ]</font> fléau de la justice, <i>càd</i>. mauvais chicaneur, COM. <i>(Bkk. p. 35, 28).</i><p><b>Étym</b>. δίκη, λύμη.`

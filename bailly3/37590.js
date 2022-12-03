@@ -1,1 +1,0 @@
-lar[37590]=`<b>ἐπι·διαίτησις, εως (ἡ)</b> diète après avoir pris médecine, DIOSC. <i>4, 148</i>.<p><b>Étym</b>. ἐπί, διαιτάω.`

@@ -1,1 +1,0 @@
-lar[61518]=`<b>λογο·ειδής, ής, ές :<br>      1</b> qui ressemble à la prose, prosaïque, PLUT. <i>Metr. 1, d’où</i> τὸ λ. DL. <i>7, 60,</i> prose.<br><b>      2</b> oratoire, éloquent, PHILSTR. <i>V. Ap. 1, 19</i>.<br><b>      3</b> qui ressemble à la raison, à l’intelligence, TH. <i>Metaph. p. 315, 9 Brandis.</i> ; THÉM. <i>p. 28</i>.<p><b>Étym</b>. λ. εἶδος.`

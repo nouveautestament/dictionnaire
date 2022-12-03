@@ -1,1 +1,0 @@
-lar[51005]=`<b>καλαμόω-ῶ</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> éclisser un membre fracturé, GAL.<br><b>      2</b> <i>au pass</i>. croître en chaume, TH. <i>H.P. 8, 2, 4</i>.<p><b>Étym</b>. κάλαμος.`

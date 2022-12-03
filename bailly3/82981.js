@@ -1,1 +1,0 @@
-lar[82981]=`<b>ποταμο·διάρτης, ου (ὁ)</b> <font color="purple">[τᾰ]</font> qui traverse un fleuve d’une rive à l’autre, ARTÉM. <i>4, 66</i>.<p><b>Étym</b>. π. διαίρω.`

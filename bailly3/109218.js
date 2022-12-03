@@ -1,1 +1,0 @@
-lar[109218]=`<b>χρυσό·μορφος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> représenté en or, SOPH. <i>fr. inc. 708</i>.<br><b>      2</b> qui a l’aspect de l’or, P. SIL. <i>Th. Pyth. 123</i>.<p><b>Étym</b>. χρ. μορφή.`

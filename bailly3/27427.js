@@ -1,1 +1,0 @@
-lar[27427]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Dolikhè :<br><b>      1</b> <i>Sporade,</i> CALL. <i>Dian. 187</i>.<br><b>      2</b> <i>v. de Perrhæbie,</i> POL. <i>28, 11, 1</i>.`

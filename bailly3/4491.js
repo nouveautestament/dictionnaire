@@ -1,1 +1,0 @@
-lar[4491]=`<b>ἁλι·μέδων, οντος (ὁ)</b> <font color="purple">[ᾰῐ]</font> roi de la mer, AR. <i>Th. 323</i>.<p><b>Étym</b>. ἅλς, μέδων.`

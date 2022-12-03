@@ -1,1 +1,0 @@
-lar[53935]=`<b>κατ·ερείκω</b> <font color="darkgreen">(<i>f</i>. -είξω ; <i>pf. pass</i>. κατήρειγμαι)</font> broyer, concasser, DÉMON (HARP. <i>p. 158, 17 Bkk.) ; fig</i>. θυμόν, AR. <i>Vesp. 647,</i> briser la colère.<br><b><i>Moy.</i></b> déchirer (ses vêtements en signe de douleur) ESCHL. <i>Pers. 538</i> ; POÈT. (HÉPH. <i>p. 34</i>) ; HDT. <i>3, 66</i>.`

@@ -1,1 +1,0 @@
-lar[60431]=`<b>λεπτό·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule en minces filets, HPC. <i>1279, 58</i>.<p><b>Étym</b>. λ. ῥέω.`

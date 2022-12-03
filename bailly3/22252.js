@@ -1,1 +1,0 @@
-lar[22252]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> muni d’une pointe <i>ou</i> de pointes, P. ÉG. <i>348</i>.<p><b>Étym</b>. *γλωχινόω <i>de</i> γλωχίς.`

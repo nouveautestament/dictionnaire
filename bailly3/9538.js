@@ -1,1 +1,0 @@
-lar[9538]=`<b>ἀντ·αφίημι</b> (<i>seul. ao</i>. -αφῆκα) laisser tomber à son tour : δάκρυ, EUR. <i>I.A. 478,</i> laisser couler ses larmes à son tour.`

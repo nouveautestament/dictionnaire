@@ -1,1 +1,0 @@
-lar[74697]=`<font color="purple">[μᾰῑ]</font> <i>adv</i>., dans une mêlée générale, DYSC. <i>Conj. 500, 30 Bkk</i>.<p><b>Étym</b>. παμμάχος.`

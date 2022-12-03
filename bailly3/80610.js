@@ -1,1 +1,0 @@
-lar[80610]=`<font color="purple">[ᾰᾰῑᾱ]</font> <i>adj. m</i>. πλ. ἄρτος <i>ou</i> πλακοῦς, PHILOX. (ATH. <i>643c, conj</i>.) pain <i>ou</i> gâteau fait sur un plateau. <i>V</i>. πλατανίτας.<p><b>Étym</b>. πλάθανον.`

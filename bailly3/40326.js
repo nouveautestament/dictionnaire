@@ -1,1 +1,0 @@
-lar[40326]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> rouge, NONN. <i>D. 12, 329 et 359</i>.<p><b>Étym</b>. ἐρεύθω.`

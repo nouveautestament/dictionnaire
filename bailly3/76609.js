@@ -1,1 +1,0 @@
-lar[76609]=`<font color="purple">[βᾰ]</font> <i>adv</i>., par manière de digression, BAS. <i>3, 345 Migne</i>.`

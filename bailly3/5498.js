@@ -1,1 +1,0 @@
-lar[5498]=`<b>ἀ·μετανόητος, ος, ον :<br>      1</b> qui ne cause pas de regret, LUC. <i>Abd. 11</i>.<br><b>      2</b> qui ne se repent pas, NT. <i>Rom. 2, 5</i> ; PHIL. <i>2, 410</i>.<p><b>Étym</b>. ἀ, μετανοέω.`

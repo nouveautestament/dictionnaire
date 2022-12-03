@@ -1,1 +1,0 @@
-lar[299]=`<b>εως (ἡ)</b> <font color="purple">[ᾰγιᾱ]</font> <i>c</i>. ἀγαλλίαμα, SPT. <i>Tob. 13, 1, etc.</i> ; NT. <i>Luc. 1, 14</i>.`

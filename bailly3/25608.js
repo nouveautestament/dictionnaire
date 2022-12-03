@@ -1,1 +1,0 @@
-lar[25608]=`<b>δια·στείβω</b> (<i>part. prés</i>. -στείβων) :<br><b>      1</b> s’avancer à travers (la mer) PD. <i>fr. 242, 4</i>.<br><b>      2</b> fouler aux pieds, <i>acc</i>. NONN. <i>D. 36, 239</i>.`

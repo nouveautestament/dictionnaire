@@ -1,1 +1,0 @@
-lar[78780]=`<b>ής, ές</b> <font color="purple">[ῐν]</font> qui penche tout autour, de tous côtés, PLUT. <i>Per. 13, Pel. 32, etc</i>.<p><b>Étym</b>. περικλίνω.`

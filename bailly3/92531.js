@@ -1,1 +1,0 @@
-lar[92531]=`<b>*στηλῆτις</b>, <i>seul. dor</i>. <b>σταλᾶτις, ιδος</b> <font color="purple">[ᾱᾱῐδ]</font> <i>adj. f</i>. de stèle, <i>d’où</i> de tombeau, ANTH. <i>7, 424</i>.<p><b>Étym</b>. στήλη.`

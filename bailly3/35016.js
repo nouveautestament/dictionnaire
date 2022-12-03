@@ -1,1 +1,0 @@
-lar[35016]=`<b>ἐνταφιο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> marchand d’objets funéraires, ARTÉM. <i>4, 56</i>.<p><b>Étym</b>. ἐντάφιος, πωλέω.`

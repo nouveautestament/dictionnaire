@@ -1,1 +1,0 @@
-lar[75737]=`<b>παρα·κλαυσί·θυρον, ου (τὸ)</b> <font color="purple">[ῐῠ]</font> <i>s.e</i>. μέλος, PLUT. <i>M. 753b</i>, lamentations devant une porte fermée.<p><b>Étym</b>. παρακλαίω, θύρα.`

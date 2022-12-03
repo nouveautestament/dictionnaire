@@ -1,1 +1,0 @@
-lar[54897]=`<b>κεραυνο·βόλος, ος, ον</b>, qui lance <i>ou</i> accompagne la foudre, LUC. <i>Philopatr. 24</i> ; ANTH. <i>12, 63</i>.<p><b>Étym</b>. κεραυνός, βάλλω.`

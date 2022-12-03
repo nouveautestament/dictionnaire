@@ -1,1 +1,0 @@
-lar[49572]=`<b>ἰσθμιο·νίκης, ου (ὁ)</b> <font color="purple">[νῑ]</font> qui chante les vainqueurs des jeux isthmiques, DL. <i>7, 2</i>.<p><b>Étym</b>. ἴσθμια, νικάω.`

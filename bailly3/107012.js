@@ -1,1 +1,0 @@
-lar[107012]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰδ]</font><br><b>      1</b> exil, bannissement, POL. <i>6, 14, 7</i>.<br><b>      2</b> <i>au plur</i>. les exilés, SPT. <i>Ezech. 17, 20</i>.<p><b>Étym</b>. φυγαδεύω.`

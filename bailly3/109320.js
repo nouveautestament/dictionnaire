@@ -1,1 +1,0 @@
-lar[109320]=`<b>ου (τὸ)</b> <font color="purple">[ῡῠ]</font> mine d’or creusée <i>ou</i> exploitée, STR. <i>146, 218</i>.<p><b>Étym</b>. χρυσωρυχέω.`

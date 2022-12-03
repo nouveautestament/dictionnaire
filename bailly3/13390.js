@@ -1,1 +1,0 @@
-lar[13390]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui s’élance au loin, qui échappe, OPP. <i>H. 2, 560</i>.<p><b>Étym</b>. ἀποσσεύω.`

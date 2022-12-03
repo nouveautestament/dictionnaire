@@ -1,1 +1,0 @@
-lar[39245]=`<b>ἐπι·συντάσσω</b>, combiner <i>ou</i> machiner contre, <i>dat</i>. HIPPARQ. <i>1016a ;</i> JOS. <i>B.J. 1, 28, 1</i>.`

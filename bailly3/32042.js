@@ -1,1 +1,0 @@
-lar[32042]=`<b>ἐκ·σκευάζω</b>, enlever le mobilier <i>ou</i> les instruments, <i>d’où pass</i>. être pillé, DÉM. <i>872, 11</i>.<br><b><i>Moy.</i></b> enlever et transporter avec soi (son mobilier, sa fortune, <i>etc</i>.) STR. <i>730</i>.`

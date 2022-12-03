@@ -1,1 +1,0 @@
-lar[33819]=`<i>adv</i>., convenablement, ESCHL. <i>Ag. 916</i> ; EUR. <i>Alc. 1077</i>.`

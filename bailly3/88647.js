@@ -1,1 +1,0 @@
-lar[88647]=`<b>ῥιψ·αύχην, χενος (ὁ, ἡ)</b> qui rejette le cou en arrière, fier, superbe, PD. <i>fr. 224</i>.<p><b>Étym</b>. ῥίπτω, αὐχήν.`

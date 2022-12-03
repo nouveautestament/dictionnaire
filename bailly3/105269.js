@@ -1,1 +1,0 @@
-lar[105269]=`<i>vb. de</i> φθάνω, ORIB. <i>131 Matthäi</i>.`

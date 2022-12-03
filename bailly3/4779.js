@@ -1,1 +1,0 @@
-lar[4779]=`<b>ας (ἡ)</b> différence de race, STR. <i>534</i>.<p><b>Étym</b>. ἀλλοεθνής.`

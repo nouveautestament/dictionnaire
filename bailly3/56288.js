@@ -1,1 +1,0 @@
-lar[56288]=`<b>ας (ἡ)</b> <font color="purple">[ῐδ]</font> le territoire de Cnide, STR. <i>488</i>.<p>➳ <i>Ion</i>. Κνιδίη, HDT. <i>1, 174</i> ; CALL. <i>Cer. 25</i>.<p><b>Étym</b>. Κνίδος.`

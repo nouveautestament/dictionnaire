@@ -1,1 +1,0 @@
-lar[100980]=`<i>mot perse,</i> achevé, accompli, somptueux, <i>en parl. d’un festin,</i> HDT. <i>9, 110</i>.`

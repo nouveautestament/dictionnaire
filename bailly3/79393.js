@@ -1,1 +1,0 @@
-lar[79393]=`<b>ής, ές :<br>      1</b> <i>pass</i>. couronné, SOPH. <i>El. 895 ; fig</i>. PLUT. <i>Fab. 6</i>.<br><b>      2</b> <i>act</i>. qui couronne, EUR. <i>Ph. 651</i>.<p><b>Étym</b>. περιστέφω.`

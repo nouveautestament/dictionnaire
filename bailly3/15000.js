@@ -1,1 +1,0 @@
-lar[15000]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> laboureur, THCR. <i>Idyl. 25, 1 et 51</i> ; ANTH. <i>7, 196, etc</i>.<p><b>Étym</b>. ἀροτρεύω.`

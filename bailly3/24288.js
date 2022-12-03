@@ -1,1 +1,0 @@
-lar[24288]=`<b>Δημο·πτόλεμος, ου (ὁ)</b> Dèmoptolémos, <i>un des prétendants de Pénélope,</i> OD. <i>22, 242, 266</i>.<p><b>Étym</b>. δ. πτόλεμος.`

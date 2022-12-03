@@ -1,1 +1,0 @@
-lar[49577]=`<i>adv</i>., sur l’isthme, ANTH. <i>6, 259</i>.<p><b>Étym</b>. ἰσθμός, -θι.`

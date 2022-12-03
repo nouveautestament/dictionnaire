@@ -1,1 +1,0 @@
-lar[24467]=`<b>δι·αγανακτέω-ῶ</b> <font color="purple">[ᾰγᾰ]</font><br><b>      1</b> être transporté d’indignation, DÉM. <i>833, 17 (var</i>. ἀγανακτεῖν) ; PLUT. <i>M. 74a, 471f.</i><br><b>      2</b> s’irriter, s’exacerber, <i>t. de méd</i>. ORIB. <i>1 Mai</i>.<p><b>Étym</b>. <i>fut</i>. -ήσει, <i>et ao. inf</i>. -ῆσαι.`

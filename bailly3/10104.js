@@ -1,1 +1,0 @@
-lar[10104]=`<b>ἀντι·μισέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἀντεμίσουν)</font> <font color="purple">[μῑ]</font> haïr en retour, AR. <i>Lys. 818</i>.`

@@ -1,1 +1,0 @@
-lar[1769]=`<font color="purple">[ᾱ]</font> être pur <i>ou</i> limpide comme l’air, DIOSC. <i>1, 83 ; 5, 100</i>.<p><b>Étym</b>. ἀήρ.`

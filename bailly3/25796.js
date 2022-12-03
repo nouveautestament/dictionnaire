@@ -1,1 +1,0 @@
-lar[25796]=`<b>δια·τυλίσσω</b> <font color="purple">[ῠ]</font> <font color="darkgreen">(<i>impf. 3 sg</i>. διετύλισσε)</font> dérouler, SEXT. <i>278</i>.`

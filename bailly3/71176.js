@@ -1,1 +1,0 @@
-lar[71176]=`<b>ὁλό·κνημος, ος, ον</b>, avec la cuisse entière (jambon) PHÉRÉCR. (<i>Com. fr. 2, 300).</i><p><b>Étym</b>. ὅλ. κνήμη.`

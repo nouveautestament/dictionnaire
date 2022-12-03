@@ -1,1 +1,0 @@
-lar[46978]=`<b>ης (ἡ)</b> Thermôdôsa, <i>Amazone,</i> Q. SM. <i>1, 46, 254</i>.<p><b>Étym</b>. <i>fém. de</i> Θερμώδων.`

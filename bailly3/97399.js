@@ -1,1 +1,0 @@
-lar[97399]=`<b>ων (οἱ)</b> sorte de côtelette, CRATÈS (POLL. <i>6, 53</i>).`

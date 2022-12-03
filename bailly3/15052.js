@@ -1,1 +1,0 @@
-lar[15052]=`<b>ης (ἡ)</b> <font color="purple">[πᾰῠ]</font> Harpalykè, <i>f</i>. NONN. <i>D. 12, 72</i>.<p><b>Étym</b>. <i>fém. de</i> Ἁρπάλυκος.`

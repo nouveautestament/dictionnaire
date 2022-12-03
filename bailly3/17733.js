@@ -1,1 +1,0 @@
-lar[17733]=`<b>αὐτό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui s’est gravé <i>ou</i> se grave de soi-même, OPP. <i>H. 2, 358</i>.<p><b>Étym</b>. αὐ. τύπτω.`

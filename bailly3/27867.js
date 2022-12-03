@@ -1,1 +1,0 @@
-lar[27867]=`<b>ή, όν</b>, <i>c</i>. δραστήριος ; <i>en parl. de pers</i>. PLUT. <i>Cor. 21 ; en parl. de choses,</i> PLAT. <i>Leg. 815a ;</i> GEOP. <i>13, 14, 5</i>.<p>•<i> Sup</i>. -ώτατος, DIOSC. <i>1, 18</i>.<p><b>Étym</b>. δράω.`

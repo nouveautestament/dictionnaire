@@ -1,1 +1,0 @@
-lar[18336]=`<b>ἀφωνέω-ῶ</b>, être sans voix, ne pouvoir pas parler, HPC. <i>990c</i>.<p><b>Étym</b>. ἄφωνος.`

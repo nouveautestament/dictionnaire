@@ -1,1 +1,0 @@
-lar[92209]=`<b>σταφυλ·άγρα, ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> pince pour saisir la luette, HPC. <i>21, 20</i> ; P. ÉG. <i>6, 31</i>.<p><b>Étym</b>. σταφυλή, ἄγρα.`

@@ -1,1 +1,0 @@
-lar[47668]=`<b>α, ον</b>, lamentable, APOLL. (STOB. <i>617, 55).</i><p><b>Étym</b>. <i>vb. de</i> θρηνέω.`

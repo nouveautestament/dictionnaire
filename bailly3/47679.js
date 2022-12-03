@@ -1,1 +1,0 @@
-lar[47679]=`<b>θρην·ῳδός, ός, όν</b>, qui chante un chant plaintif, <i>d’où subst</i>. (ὁ ; ἡ) ARSTT. <i>fr. 561</i> ; ALCIPHR. <i>1, 36,</i> pleureur, pleureuse à gages.<p><b>Étym</b>. θρῆνος, ᾠδή.`

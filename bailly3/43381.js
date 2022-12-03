@@ -1,1 +1,0 @@
-lar[43381]=`<b>ας (ἡ)</b> force, vigueur, ARSTT. <i>Mir. 1, 2</i> ; PLUT. <i>Cato mi. 44</i>.<p><b>Étym</b>. εὔρωστος.`

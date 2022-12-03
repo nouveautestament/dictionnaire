@@ -1,1 +1,0 @@
-lar[93759]=`<b>συλ·λανθάνω</b> <font color="darkgreen">(<i>ao.2</i> συνέλαθον, <i>etc</i>.)</font> être caché en même temps à, <i>acc</i>. GEOP. <i>11, 22, 1</i>.`

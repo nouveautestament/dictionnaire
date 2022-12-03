@@ -1,1 +1,0 @@
-lar[48454]=`<b>ή, όν</b> <font color="purple">[ῐδᾰ]</font> particulier, spécial, CLÉM. <i>80</i>.<p><b>Étym</b>. ἰδίωμα.`

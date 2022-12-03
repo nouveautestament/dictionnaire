@@ -1,1 +1,0 @@
-lar[22723]=`<b>γυιο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui engourdit (<i>litt</i>. qui immobilise) les membres, ANTH. <i>6, 219</i>.<p><b>Étym</b>. γυῖον, πήγνυμι.`

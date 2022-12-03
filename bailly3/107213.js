@@ -1,1 +1,0 @@
-lar[107213]=`<b>ου (ὁ)</b> Phyrkinos, <i>h</i>. LYCURG. <i>Leocr. 19</i>.`

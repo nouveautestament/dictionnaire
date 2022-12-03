@@ -1,1 +1,0 @@
-lar[105985]=`<b>φιλο·παράβολος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> qui aime à braver le danger, PLUT. <i>Phil. 9</i>.<p><b>Étym</b>. φ. παραβάλλομαι.`

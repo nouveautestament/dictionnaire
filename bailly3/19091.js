@@ -1,1 +1,0 @@
-lar[19091]=`<b>εως (ἡ)</b> accablement, oppression, JAMBL. <i>Protr. p. 326</i>.<p><b>Étym</b>. βαρέω.`

@@ -1,1 +1,0 @@
-lar[74098]=`<font color="purple">[ᾰῐ]</font> prendre dans des filets, dans des pièges, <i>au propre et au fig</i>. SPT. <i>1Reg. 28, 9</i> ; NT. <i>Matth. 22, 15</i>.<p><b>Étym</b>. παγίς.`

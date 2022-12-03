@@ -1,1 +1,0 @@
-lar[19015]=`<font color="darkgreen">(<i>f</i>. ύσω)</font> <i>c</i>. βαμβακύζω, ARSTT. <i>Probl. 27, 11</i>.`

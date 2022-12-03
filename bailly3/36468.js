@@ -1,1 +1,0 @@
-lar[36468]=`<b>ἐπ·ακρίζω</b>, combler la mesure de, <i>gén</i>. ESCHL. <i>Ch. 932</i>.<p><b>Étym</b>. ἐπί, ἄκρος.`

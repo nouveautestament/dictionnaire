@@ -1,1 +1,0 @@
-lar[898]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit champ, DS. <i>13, 84</i> ; ARR. <i>Epict. 1, 1, 10 ; 2, 2, 17</i>.<p><b>Étym</b>. ἀγρός.`

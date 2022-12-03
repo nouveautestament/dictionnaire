@@ -1,1 +1,0 @@
-lar[81523]=`<i>adv</i>., en ennemi, avec des dispositions hostiles, THC. <i>3, 65, 66 ; 4, 17</i> ; XÉN. <i>Cyn. 7, 11</i>.<p><b>Étym</b>. πολέμιος.`

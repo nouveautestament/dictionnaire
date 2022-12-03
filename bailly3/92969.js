@@ -1,1 +1,0 @@
-lar[92969]=`<i>adv</i>., en forme de tourbillon, A. PL. <i>300</i>.<p><b>Étym</b>. στρόμβος, -δον.`

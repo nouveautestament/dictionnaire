@@ -1,1 +1,0 @@
-lar[61162]=`<b>ου (ὁ)</b> Limnæos, <i>propr</i>. « des marais » :<br><b>      1</b> <i>surn. de Dionysos à Athènes</i> (<i>v</i>. Λίμναι) CALL. <i>fr. 280</i>.<br><b>      2</b> <i>n. d’h</i>. PLUT. <i>Alex. 63, etc. ; au plur</i>. Λιμναῖοι, des hommes comme Limnæos, PLUT. <i>Alex. fort. 2, 13</i>.<p><b>Étym</b>. λίμνη.`

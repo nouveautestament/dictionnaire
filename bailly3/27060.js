@@ -1,1 +1,0 @@
-lar[27060]=`<b>δι·στάδιος, ος, ον</b> <font color="purple">[ᾰ]</font> long de deux stades, APP. <i>Hann. 37</i>.<p><b>Étym</b>. δίς, στάδιον.`

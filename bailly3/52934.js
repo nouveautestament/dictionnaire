@@ -1,1 +1,0 @@
-lar[52934]=`<b>κάτ·αντα</b>, <i>adv</i>., en descendant, IL. <i>23, 116</i> ; ἄναντα καὶ κ. LUC. <i>M. cond. 26,</i> par monts et par vaux.<p><b>Étym</b>. κ. ἄντα, <i>cf</i>. κατάντης.`

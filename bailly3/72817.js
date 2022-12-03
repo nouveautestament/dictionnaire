@@ -1,1 +1,0 @@
-lar[72817]=`<b>ὀρί·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui résonne dans les montagnes, NONN. <i>D. 14, 29</i>.<p><b>Étym</b>. ὄρος, κτύπος.`

@@ -1,1 +1,0 @@
-lar[107429]=`<b>φωτ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui amène la lumière : <i>subst</i>. ἡ φ. (<i>s.-e</i>. θυρίς) LUC. <i>Conv. 20, Dom. 6, etc</i>. fenêtre.<p><b>Étym</b>. φῶς, ἄγω.`

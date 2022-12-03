@@ -1,1 +1,0 @@
-lar[4066]=`<b>ἀ·λάλητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> indicible, ANTH. <i>2, 4</i> ; NT. <i>Rom. 8, 26</i>.<p><b>Étym</b>. ἀ, λαλέω.`

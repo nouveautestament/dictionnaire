@@ -1,1 +1,0 @@
-lar[32902]=`<b>εως (ἡ)</b> action d’éclairer dans <i>ou</i> sur, <i>d’où</i> éclat, illumination, PLUT. <i>M. 893e ;</i> ORIG. <i>4, 388b Migne</i> ; PLOT. <i>Enn. 11, 13, 4 Creuz</i>.<p><b>Étym</b>. ἐλλάμπω.`

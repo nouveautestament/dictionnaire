@@ -1,1 +1,0 @@
-lar[26606]=`<b>δικτυόω-ῶ :<br>      1</b> faire en forme de filet, SPT. <i>3Reg. 7, 6</i>.<br><b>      2</b> prendre au filet, BABR. <i>107, 11</i>.<p><b>Étym</b>. δίκτυον.`

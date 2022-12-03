@@ -1,1 +1,0 @@
-lar[106178]=`<b>εως (ἡ)</b> <font color="purple">[φῐ]</font> dispositions amicales <i>ou</i> bienveillantes, bienveillance, bonté, PLUT. <i>M. 212f ;</i> JOS. <i>A.J. 16, 2, 2, etc. ; B.J. 1, 13, 4, etc</i>.<p><b>Étym</b>. φιλοφρονέομαι.`

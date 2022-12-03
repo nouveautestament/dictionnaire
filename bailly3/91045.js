@@ -1,1 +1,0 @@
-lar[91045]=`<b>σκληρο·σώματος, ος, ον</b> <font color="purple">[ᾰ]</font> au corps dur, A. APHR. <i>Probl. 1, 120</i>.<p><b>Étym</b>. σκλ. σῶμα.`

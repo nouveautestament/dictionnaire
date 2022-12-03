@@ -1,1 +1,0 @@
-lar[33917]=`<b>ἐν·απειροκαλέω-ῶ</b> <font color="purple">[ᾰ]</font> être sans goût <i>ou</i> grossier dans, SEXT. <i>115, 15 Bkk</i>.<p><b>Étym</b>. ἐν, ἀπειρόκαλος.`

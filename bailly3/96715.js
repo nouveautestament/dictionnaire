@@ -1,1 +1,0 @@
-lar[96715]=`<b>ή, όν</b>, qui pelotonne, qui condense, HPC. <i>1175c</i>.<p><b>Étym</b>. συστρέφω.`

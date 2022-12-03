@@ -1,1 +1,0 @@
-lar[12410]=`<b>ἀπο·θηλύνω</b> (<i>part. ao. pass</i>. ἀποθηλυνθείς) :<br><b>      1</b> efféminer, PLUT. <i>Ant. 53 ; au pass</i>. CLÉARQ. (ATH. <i>515f</i>).<br><b>      2</b> <i>p. suite,</i> affaiblir (du vin) PLUT. <i>M. 692d ; d’où</i> faire dégénérer (des plantes) TH. <i>H.P. 7, 4, 3, etc</i>.`

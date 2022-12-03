@@ -1,1 +1,0 @@
-lar[52179]=`<b>ῆς (ἡ)</b> action d’arroser, de tremper, GAL. <i>14, 448</i>.<p><b>Étym</b>. καταβρέχω.`

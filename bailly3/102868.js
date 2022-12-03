@@ -1,1 +1,0 @@
-lar[102868]=`<b>ὑπερ·φθίομαι</b> <font color="darkgreen">(<i>pl.q.pf. 3 sg</i>. ὑπερέφθιτο)</font> mourir pour, <i>gén</i>. PD. <i>P. 6, 29</i>.`

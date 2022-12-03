@@ -1,1 +1,0 @@
-lar[46976]=`<b>ης, ες</b>, chaud, tiède, ARÉT. <i>Cur. m. acut. 2, 3</i>.<p><b>Étym</b>. θερμός, -ωδης.`

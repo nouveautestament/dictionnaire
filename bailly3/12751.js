@@ -1,1 +1,0 @@
-lar[12751]=`<b>ἀπο·λεοντόω-ῶ</b>, changer en lion, HÉRACLITE PARADOX. <i>Incred. 12</i>.<p><b>Étym</b>. ἀπό, λέων.`

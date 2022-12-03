@@ -1,1 +1,0 @@
-lar[108357]=`<b>έως</b>, <i>adj. m</i>. originaire <i>ou</i> habitant de Khènè, <i>lieu de Laconie</i> ou <i>de l’Œta,</i> PLAT. <i>Prot. 343a, etc</i>.`

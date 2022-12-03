@@ -1,1 +1,0 @@
-lar[78689]=`<b>περι·καγχαλάω-ῶ</b> <font color="purple">[χᾰ]</font> rire tout autour <i>ou</i> de tous côtés, OPP. <i>H. 4, 326</i>.`

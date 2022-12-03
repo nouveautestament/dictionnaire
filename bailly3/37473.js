@@ -1,1 +1,0 @@
-lar[37473]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> qui décide de, juge, arbitre : τινός, PLAT. <i>Leg. 828b, etc.</i> ; DÉM. <i>978, 11</i> ; PLUT. <i>Cam. 18,</i> de qqe ch.<br><b>      2</b> instruit de, expert en : τινός, SEXT. <i>Log. 1, 56,</i> en qqe ch.<br><b>      3</b> qui pardonne : τινί, MOSCH. <i>4, 70,</i> à qqn.<p><b>Étym</b>. ἐπιγιγνώσκω.`

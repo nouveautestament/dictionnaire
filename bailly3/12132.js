@@ -1,1 +1,0 @@
-lar[12132]=`<b>ἀπο·βλάπτω</b>, ruiner de fond en comble, PLAT. <i>Leg. 795d ; au pass</i>. être privé de, <i>gén</i>. SOPH. <i>Aj. 941</i>.`

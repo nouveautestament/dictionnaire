@@ -1,1 +1,0 @@
-lar[96806]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> atteint d’une gangrène sèche, TH. <i>C.P. 5, 9, 6 conj</i>.<p><b>Étym</b>. σφάκελος.`

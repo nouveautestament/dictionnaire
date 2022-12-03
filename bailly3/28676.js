@@ -1,1 +1,0 @@
-lar[28676]=`<b>δυσ·μίσητος, ος, ον</b> <font color="purple">[ῑ]</font> tout à fait odieux, LYC. <i>841</i>.<p><b>Étym</b>. δ. μισέω.`

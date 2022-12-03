@@ -1,1 +1,0 @@
-lar[27854]=`<b>εως (ἡ) :<br>      1</b> efficacité, force, LUC. <i>Trag. 275</i>.<br><b>      2</b> l’action marquée par un verbe, DYSC. <i>Pron. 315 ; Synt. 283, 23 Bkk</i>.<p><b>Étym</b>. δράω.`

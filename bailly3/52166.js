@@ -1,1 +1,0 @@
-lar[52166]=`<b>καταβορβόρωσις, εως (ἡ)</b> action de couvrir de boue, PLUT. <i>M. 166a</i>.<p><b>Étym</b>. καταβορβορόω.`

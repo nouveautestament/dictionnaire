@@ -1,1 +1,0 @@
-lar[89814]=`<i>adv</i>., avec gravité, d’une manière imposante, ESCHL. <i>Suppl. 493</i> ; EUR. <i>Ion 1133</i> ; XÉN. <i>Cyr. 6, 1, 6, etc</i>.<p>•<i> Cp</i>. -ότερον, XÉN. <i>Mem. 3, 5, 20 ; • Sup</i>. -ότατα, POL. <i>15, 31, 7</i>.<p><b>Étym</b>. σεμνός.`

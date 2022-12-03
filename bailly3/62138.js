@@ -1,1 +1,0 @@
-lar[62138]=`<font color="darkgreen">(<i>part</i>. λυχνοκῶσα, <i>dor. c</i>. λυχνοκοοῦσα)</font> <i>c</i>. λυχνοκαυτέω, TÉLÉCL. (<i>Com. fr. 2, 377</i>).`

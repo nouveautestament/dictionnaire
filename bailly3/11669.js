@@ -1,1 +1,0 @@
-lar[11669]=`<b>εως (ἡ)</b> affranchissement, DÉM. <i>215, 25</i> ; PLUT. <i>Popl. 7, etc</i>.`

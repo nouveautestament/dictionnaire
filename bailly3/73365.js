@@ -1,1 +1,0 @@
-lar[73365]=`<b>ὀσχο·φόρος, ος, ον</b>, qui porte une branche de vigne aux oschophories, HYPÉR. <i>et</i> PHILOCH. <i>44</i> (HARP.) ; <i>v</i>. ὀσχοφόρια.<p><b>Étym</b>. ὄσχος, φέρω.`

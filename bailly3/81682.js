@@ -1,1 +1,0 @@
-lar[81682]=`<b>πολυαιμέω-ῶ</b>, avoir beaucoup de sang, ARSTT. <i>P.A. 2, 2, 6</i>.<p><b>Étym</b>. πολύαιμος.`

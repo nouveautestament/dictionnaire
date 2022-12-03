@@ -1,1 +1,0 @@
-lar[49710]=`<b>ἰσό·πεδος, ος, ον</b> <font color="purple">[ῑ̆]</font> qui est sur le même plan, de niveau avec <i>dat</i>. HDT. <i>4, 201</i> ; DS. <i>19, 94</i> ; PLUT. <i>Num. 10, etc. ; abs</i>. DS. <i>19, 94 ; subst</i>. τὸ ἰσόπεδον, IL. <i>13, 142</i> ; XÉN. <i>Cyr. 3, 1, 5, etc</i>. plaine unie.<p><b>Étym</b>. ἴ. πέδον.`

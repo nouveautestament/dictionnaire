@@ -1,1 +1,0 @@
-lar[84073]=`<b>προ·εκθρῴσκω</b> <font color="darkgreen">(<i>f</i>. -εκθοροῦμαι, <i>ao.2</i> -εξέθορον, <i>etc</i>.)</font> s’élancer en avant <i>ou</i> auparavant, SYN. <i>Insomn. p. 252c</i>.`

@@ -1,1 +1,0 @@
-lar[109966]=`<b>ψυχο·γονία, ας (ἡ)</b> <font color="purple">[ῡ]</font> génération, <i>càd</i>. origine de l’âme <i>ou</i> des âmes, PLUT. <i>M. 415e</i>.<p><b>Étym</b>. ψ. γίγνομαι.`

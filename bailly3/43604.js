@@ -1,1 +1,0 @@
-lar[43604]=`<b>εὔ·τολμος, ος, ον</b>, plein d’assurance, hardi, courageux, <i>touj. en b. part., p. opp. à</i> τολμηρός, <i>en parl. de choses,</i> ESCHL. <i>Ag. 1302 ; en parl. de pers</i>. XÉN. <i>An. 1, 7, 4 ; en parl. de chiens,</i> OPP. <i>C. 3, 383</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Rhet. Al. 3</i>.<p><b>Étym</b>. εὖ, τόλμα.`

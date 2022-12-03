@@ -1,1 +1,0 @@
-lar[94158]=`<b>σύμ·πεντε</b>, <i>adj. indécl</i>. cinq ensemble, HYPÉR. (HARP. <i>172, 12).</i><p><b>Étym</b>. σ. πέντε.`

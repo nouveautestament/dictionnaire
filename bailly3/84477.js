@@ -1,1 +1,0 @@
-lar[84477]=`<b>προ·καταμανθάνω</b> <font color="darkgreen">(<i>f</i>. -καταμαθήσομαι, <i>ao.2</i> -κατέμαθον, <i>etc</i>.)</font> apprendre <i>ou</i> savoir d’avance <i>ou</i> auparavant, HPC. <i>Acut. 383</i> ; DC. <i>52, 33, etc</i>.`

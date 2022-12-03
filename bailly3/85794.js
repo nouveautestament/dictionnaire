@@ -1,1 +1,0 @@
-lar[85794]=`<b>ατος (τὸ)</b> offrande votive, EUB. <i>3, 249 Meineke</i>.<p><b>Étym</b>. προσεύχομαι.`

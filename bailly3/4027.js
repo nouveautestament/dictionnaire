@@ -1,1 +1,0 @@
-lar[4027]=`<b>(ὁ)</b> sorte de poisson du Nil, STR. <i>823 ; cf</i>. ἀλλάβης.`

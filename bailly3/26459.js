@@ -1,1 +1,0 @@
-lar[26459]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> Dikæarkheia, <i>anc. n. de</i> Puteoli (<i>auj</i>. Pouzzoles, Pozzuoli) <i>v. d’Italie,</i> ANTH. <i>7, 379</i>.`

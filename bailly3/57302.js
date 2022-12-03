@@ -1,1 +1,0 @@
-lar[57302]=`<b>οῦς (ἡ)</b> Kosmô, <i>prêtresse de Pallas, à Athènes,</i> LYCURG. (HARP.).<p><b>Étym</b>. κόσμος.`

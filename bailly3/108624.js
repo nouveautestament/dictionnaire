@@ -1,1 +1,0 @@
-lar[108624]=`<b>ωνος (ὁ)</b> oiseau de couleur jaunâtre <i>ou</i> jaune, <i>p.-ê</i>. le loriot, ARSTT. <i>H.A. 9, 15, 3 ; 9, 22, 1</i> ; EL. <i>N.A. 4, 47</i>.<p><b>Étym</b>. χλωρός.`

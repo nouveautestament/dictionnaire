@@ -1,1 +1,0 @@
-lar[91593]=`<b>ος, ον</b>, de Solon, PLUT. <i>Ant. 36</i>.<p><b>Étym</b>. Σόλων.`

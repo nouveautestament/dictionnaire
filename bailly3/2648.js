@@ -1,1 +1,0 @@
-lar[2648]=`<b>ή, όν</b>, loué, louable, ARSTT. <i>Rhet. 2, 25, 7</i> ; ANTH. <i>7, 249</i>.<p><b>Étym</b>. αἰνέω.`

@@ -1,1 +1,0 @@
-lar[42874]=`<b>εὐ·όρεκτος, ος, ον</b>, qui excite l’appétit, DIOSC. <i>5, 21</i>.<p>•<i> Cp</i>. -ότερος, PLUT. <i>M. 663e</i>.<p><b>Étym</b>. εὖ, ὀρέγομαι.`

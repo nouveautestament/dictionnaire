@@ -1,1 +1,0 @@
-lar[97123]=`<b>ου (τὸ)</b> explication, commentaire, scholie, CIC. <i>Att. 16, 7, 3</i> ; ARR. <i>Epict. 3, 21, 6</i> ; LUC. <i>V. auct. 23</i>.<p><b>Étym</b>. σχολή.`

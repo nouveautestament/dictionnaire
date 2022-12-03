@@ -1,1 +1,0 @@
-lar[64653]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> changeant, inconstant, mobile, MÉLÉT. <i>3, 31 Cramer</i> ; HIPPODAM. (STOB. <i>Fl. 43, 93</i>).<br><b>      2</b> <i>t. de gr</i>. transitif, HDN GR. (<i>Cram. 3, 272</i>) ; DYSC. <i>Pron. 60b</i>.<p><b>Étym</b>. μεταβαίνω.`

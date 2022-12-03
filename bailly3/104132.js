@@ -1,1 +1,0 @@
-lar[104132]=`<b>ὑπο·φυτεύω</b> <font color="purple">[φῠ]</font><br><b>      1</b> planter sous : τινί τι, TH. <i>C.P. 3, 10, 5,</i> une ch. sous une autre.<br><b>      2</b> planter auprès, <i>avec</i> παρά <i>et l’acc</i>. GEOP. <i>10, 50</i>.`

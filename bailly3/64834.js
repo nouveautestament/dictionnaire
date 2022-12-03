@@ -1,1 +1,0 @@
-lar[64834]=`<b>μετα·μαίομαι</b> (<i>seul. part. prés</i>.) poursuivre, PD. <i>N. 3, 141</i>.`

@@ -1,1 +1,0 @@
-lar[23547]=`<b>δειματόω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>seul. prés., impf. et ao</i>.) frapper de frayeur, épouvanter, <i>acc</i>. HDT. <i>6, 3</i> ; AR. <i>Ran. 144 ; au pass. (seul. prés. et impf</i>.) être effrayé, ESCHL. <i>Ch. 845</i> ; SOPH. <i>fr. 147</i> ; EUR. <i>Andr. 42</i> ; PLAT. <i>Ax. 370a</i>.<p><b>Étym</b>. δεῖμα.`

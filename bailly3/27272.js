@@ -1,1 +1,0 @@
-lar[27272]=`<b>δι·ώδυνος, ος, ον</b> <font color="purple">[ῠ]</font> tout à fait douloureux, SOPH. <i>Tr. 777</i>.<p><b>Étym</b>. διά, ὀδύνη.`

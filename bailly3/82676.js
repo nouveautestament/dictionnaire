@@ -1,1 +1,0 @@
-lar[82676]=`<b>πονηρ·όφθαλμος, ος, ον</b>, qui regarde de mauvais œil, jaloux, SYMM. <i>Prov. 23, 6</i>.<p><b>Étym</b>. πονηρός, ὀφθαλμός.`

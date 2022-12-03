@@ -1,1 +1,0 @@
-lar[65760]=`<b>μικρό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui a un petit esprit <i>ou</i> un petit caractère, pusillanime, DC. <i>61, 5</i>.<p><b>Étym</b>. μ. φρήν.`

@@ -1,1 +1,0 @@
-lar[73786]=`<i>élis. poét. p</i>. ὄπ(α) <i>acc. de</i> ὄψ <i>dev. une voy. aspirée</i>.`

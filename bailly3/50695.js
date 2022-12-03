@@ -1,1 +1,0 @@
-lar[50695]=`<b>κακοδαιμονέω-ῶ</b> <font color="purple">[ᾰ]</font> être malheureux, XÉN. <i>Hier. 2, 4</i> ; PLUT. <i>M. 76a, etc</i>.<p><b>Étym</b>. κακοδαίμων.`

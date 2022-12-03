@@ -1,1 +1,0 @@
-lar[105915]=`<b>φιλο·μαντευτής, οῦ (ὁ)</b> qui consulte volontiers les devins, PLAT. <i>Leg. 813d</i>.<p><b>Étym</b>. φ. μαντεύω.`

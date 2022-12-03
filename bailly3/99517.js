@@ -1,1 +1,0 @@
-lar[99517]=`<font color="purple">[ᾱ]</font> <i>impér. prés. de</i> τολμάω.`

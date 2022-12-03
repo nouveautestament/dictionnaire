@@ -1,1 +1,0 @@
-lar[98262]=`<b>ή, όν</b>, consacré comme un τέμενος, E. BYZ. ; <i>titre d’un discours d’Isée,</i> IS. <i>fr. 42, 1, 2 B. Sauppe</i>.<p><b>Étym</b>. τέμενος.`

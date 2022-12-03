@@ -1,1 +1,0 @@
-lar[31115]=`<b>ἐκ·βόμβησις, εως (ἡ)</b> murmure d’approbation, THÉM. <i>282d</i>.<p><b>Étym</b>. ἐκ, βομβέω.`

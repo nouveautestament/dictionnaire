@@ -1,1 +1,0 @@
-lar[74451]=`<b>ας (ἡ)</b> <i>f</i>. Palæstra, <i>esclave,</i> LUC. <i>As. 2</i>.<p><b>Étym</b>. <i>v</i>. παλαίστρα.`

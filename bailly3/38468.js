@@ -1,1 +1,0 @@
-lar[38468]=`<i>adv.</i> :<br><b>      1</b> continuellement, PLAT. <i>Ax. 372a.</i><br><b>      2</b> avec persévérance, obstinément, GAL. <i>19, 220, 673</i>.`

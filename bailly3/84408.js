@@ -1,1 +1,0 @@
-lar[84408]=`<b>ου (ὁ)</b> Prœtos, <i>roi de Tirynthe,</i> IL. <i>6, 157, etc</i>.<p>➳ <i>Gén. épq</i>. -οιο, IL. <i>6, 177</i>.`

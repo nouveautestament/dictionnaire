@@ -1,1 +1,0 @@
-lar[11576]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> infini, immense, OD. <i>10, 195</i> ; HÉS. <i>Th. 109</i>.<p><b>Étym</b>. ἄπειρος².`

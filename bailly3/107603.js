@@ -1,1 +1,0 @@
-lar[107603]=`<b>χαλκέ·οπλος, ος, ον</b>, aux armes d’airain, à l’armure d’airain, EUR. <i>Hel. 693</i>.<p><b>Étym</b>. χ. ὅπλον.`

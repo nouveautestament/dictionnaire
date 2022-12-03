@@ -1,1 +1,0 @@
-lar[95525]=`<b>συν·εξερεύθω</b> (<i>seul. prés</i>.) rougir, <i>càd</i>. être enflammé à la fois, HPC. <i>Progn. 45, Coac. 175</i>.`

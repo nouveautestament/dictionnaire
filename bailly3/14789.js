@@ -1,1 +1,0 @@
-lar[14789]=`<b>άδος (ὁ)</b> Arkas, <i>roi d’Arcadie,</i> NONN. <i>D. 13, 295, etc</i>.<p><b>Étym</b>. <i>cf</i>. Ἀρκάς².`

@@ -1,1 +1,0 @@
-lar[67192]=`<b>μυο·φόνος, ος, ον</b>, qui tue les rats : τὸ μυοφόνον, TH. <i>H.P. 6, 2, 9,</i> aconit, <i>propr</i>. « mort-aux-rats », <i>plante</i>.<p><b>Étym</b>. μῦς, πεφνεῖν.`

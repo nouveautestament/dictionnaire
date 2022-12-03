@@ -1,1 +1,0 @@
-lar[106653]=`<b>ητος (ἡ)</b> forme aiguë <i>ou</i> pointue, GAL. <i>5, 445, 446</i>.<p><b>Étym</b>. φοξός.`

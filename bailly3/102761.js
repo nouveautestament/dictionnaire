@@ -1,1 +1,0 @@
-lar[102761]=`<b>ὑπερ·πλάζω</b> (<i>seul. prés</i>.) laisser errer sur, jeter au hasard sur, EUPHOR. <i>fr. 39</i> (STOB. <i>Fl. 59, 16</i>).`

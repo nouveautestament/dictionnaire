@@ -1,1 +1,0 @@
-lar[5576]=`<b>ἀ·μιγής, ής, ές</b> <font color="purple">[ῐ]</font> sans mélange, pur, ARSTT. <i>Nic. 10, 3, 2</i> ; ἀ. τινος, PLAT. <i>Menex. 245d ;</i> LUC. <i>Anach. 25, etc.</i> ; ἀ. τινι, ARÉT. <i>Caus. m. diut. 2, 3</i> ; πρός τι, PLAT. <i>Pol. 245d, etc</i>. qui ne se mélange pas à qqe ch.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Probl. 12, 4</i>.<p><b>Étym</b>. ἀ, μίγνυμι.`

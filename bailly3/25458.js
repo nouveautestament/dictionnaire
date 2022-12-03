@@ -1,1 +1,0 @@
-lar[25458]=`<b>διά·ρρησις, εως (ἡ)</b> explication en termes précis, définition précise, PLAT. <i>Leg. 932e</i>.<p><b>Étym</b>. <i>cf</i>. διαρρήδην.`

@@ -1,1 +1,0 @@
-lar[47923]=`<b>ου</b> <font color="purple">[ῠῑ]</font> <i>adj. m</i>. préparé avec du thym, AR. <i>Ach. 1066</i> ; θ. οἶνος, DIOSC. <i>5, 59,</i> vin aromatisé de thym.<p><b>Étym</b>. θύμος.`

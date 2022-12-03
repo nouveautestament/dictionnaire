@@ -1,1 +1,0 @@
-lar[107625]=`<b>ήεσσα, ῆεν</b>, d’airain, CHRISTOD. <i>Ecphr. 58</i>.`

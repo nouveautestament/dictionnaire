@@ -1,1 +1,0 @@
-lar[78071]=`<b>πεντεκαιδεκά·γωνον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> figure à quinze angles, PROCL. <i>Hyp. p. 139</i>.<p><b>Étym</b>. π. γωνία.`

@@ -1,1 +1,0 @@
-lar[87021]=`<b>πρό·χνυ</b> <font color="purple">[ῠ]</font> <i>adv.</i> :<br><b>      1</b> à genoux, sur les genoux, IL. <i>9, 570</i>.<br><b>      2</b> <i>p. suite,</i> de fond en comble, entièrement, IL. <i>21, 460</i> ; OD. <i>14, 69</i> ; A.RH. <i>1, 1118 ; 2, 249</i>.<p><b>Étym</b>. π. γόνυ.`

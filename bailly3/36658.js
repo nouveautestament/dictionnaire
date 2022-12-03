@@ -1,1 +1,0 @@
-lar[36658]=`<b>ἐπ·ανατρέφω</b> (<i>prés</i>.) fortifier par une bonne nourriture, HPC. <i>420, 15 ; 1244f</i>.`

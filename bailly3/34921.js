@@ -1,1 +1,0 @@
-lar[34921]=`<b>ἐν·σεμνύνομαι</b> <font color="purple">[ῡ]</font> se glorifier de, <i>dat</i>. ONOS. <i>1, 21</i>.`

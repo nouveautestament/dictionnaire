@@ -1,1 +1,0 @@
-lar[24101]=`<font color="purple">[ᾰ]</font> <i>adv</i>., longtemps, depuis longtemps, IL. <i>5, 104</i> ; OD. <i>1, 49 ; 3, 336</i> ; δ. μάλα, IL. <i>5, 587,</i> depuis très longtemps ; οὐ μετὰ δ. A.RH. <i>2, 651,</i> non depuis longtemps.<p>➳ <i>Par élis</i>. δήθ', IL. <i>2, 435</i>.<p><b>Étym</b>. <i>apparenté avec</i> δήν.`

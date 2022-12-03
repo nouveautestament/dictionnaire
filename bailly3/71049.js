@@ -1,1 +1,0 @@
-lar[71049]=`<b>ὀλιγό·σαρκος, ος, ον</b> <font color="purple">[ῐ]</font> qui a peu de chair, LUC. <i>Abd. 29</i>.<p><b>Étym</b>. ὀλ. σάρξ.`

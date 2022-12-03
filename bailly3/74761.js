@@ -1,1 +1,0 @@
-lar[74761]=`<b>πάμ·πρωτος, η, ον</b>, qui est tout à fait le premier <i>ou</i> le premier de tous, IL. <i>9, 93</i> ; PD. <i>P. 4, 196 ; adv. neutre</i> πάμπρωτον, OD. <i>4, 577</i> ; πάμπρωτα, IL. <i>4, 97 ; 17, 568</i> ; <i>• Sup</i>. παμπρώτιστα, A.RH. <i>4, 1693,</i> par-dessus tout, avant tout.<p><b>Étym</b>. π. πρῶτος.`

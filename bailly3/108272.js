@@ -1,1 +1,0 @@
-lar[108272]=`<b>ῆρος</b>, <i>adj. m</i>. qui lance des pierres : ῥινός, ANTH. <i>7, 172,</i> cuir propre à lancer des pierres, <i>càd</i>. fronde.<p><b>Étym</b>. χερμάς.`

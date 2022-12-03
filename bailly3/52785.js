@@ -1,1 +1,0 @@
-lar[52785]=`<b>κατα·μαγεύω</b> <font color="purple">[μᾰ]</font> ensorceler, <i>acc</i>. LUC. <i>Nec. 7</i>.`

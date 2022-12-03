@@ -1,1 +1,0 @@
-lar[23209]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. δάνεισμα PLAT. <i>Leg. 291c ;</i> ARSTT. <i>Nic. 5, 2, 13,</i> PLUT. <i>Crass. 7 ; fig</i>. intérêts d’une dette, EUR. <i>El. 858</i>.<p><b>Étym</b>. δανείζω.`

@@ -1,1 +1,0 @@
-lar[97906]=`<b>ταχυ·ναυτέω-ῶ</b> <font color="purple">[ᾰῠ]</font> naviguer <i>ou</i> s’embarquer <i>ou</i> mettre à la voile promptement, THC. <i>6, 31, 34</i> ; ESCHN. <i>67, 29</i> ; POL. <i>1, 25, 3</i>.<p><b>Étym</b>. τ. ναύτης.`

@@ -1,1 +1,0 @@
-lar[20044]=`<b>ή, όν</b>, secourable : τινι, ARSTT. <i>Rhet. 1, 13, 12</i> ; PLUT. <i>Sol. 29,</i> à qqn ; πρός τι, ARSTT. <i>Pol. 2, 7, 13,</i> contre qqe ch.<p><b>Étym</b>. βοηθέω.`

@@ -1,1 +1,0 @@
-lar[10121]=`<b>ἀντι·νομία, ας (ἡ) :<br>      1</b> contradiction dans les lois, PLUT. <i>M. 742a, Cæs. 13</i>.<br><b>      2</b> recours à des lois contradictoires que s’opposent les deux parties, HERMOG. <i>Rhet. 3, 15, 3 ; 3, 56, 4</i>.<p><b>Étym</b>. ἀ. νόμος.`

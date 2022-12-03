@@ -1,1 +1,0 @@
-lar[80446]=`<b>πισσό·κηρος, ου (ὁ)</b> propolis, sorte de résine dont les abeilles tapissent l’intérieur des ruches, ARSTT. <i>H.A. 9, 40, 10</i>.<p><b>Étym</b>. π. κηρός.`

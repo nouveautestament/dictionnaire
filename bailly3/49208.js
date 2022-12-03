@@ -1,1 +1,0 @@
-lar[49208]=`<b>ου (ὁ</b> <i>ou</i> <b>ἡ) :<br>      1</b> poids qui presse <i>ou</i> écrase, <i>d’où</i> presse à fouler les draps, atelier de foulon, ARCHIL. <i>159</i>.<br><b>      2</b> poids qui opprime : Αἴτνα ἶπος ἀνεμόεσσα Τυφῶνος, PD. <i>O. 4, 11,</i> le poids de l’orageux Etna, qui oppresse Typhon.`

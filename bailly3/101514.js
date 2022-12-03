@@ -1,1 +1,0 @@
-lar[101514]=`<i>ion</i>. <b>Ὑδρέη, ης (ἡ)</b> Hydréa (<i>auj</i>. Yđra), <i>î. de la mer de Myrtô,</i> HDT. <i>3, 59</i>.<p><b>Étym</b>. ὕδωρ.`

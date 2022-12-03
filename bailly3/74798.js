@@ -1,1 +1,0 @@
-lar[74798]=`<b>παμ·ψηφεί</b>, <i>adv</i>., avec tous les suffrages, ANTH. <i>11, 239</i>.<p><b>Étym</b>. π. ψῆφος.`

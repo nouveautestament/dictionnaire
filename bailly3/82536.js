@@ -1,1 +1,0 @@
-lar[82536]=`<b>ης (ἡ)</b> <font color="purple">[σῠ]</font> prudence, habileté, HDT. <i>2, 121, 6 ; au pl</i>. THGN. <i>712</i>.<p><b>Étym</b>. πολύφρων.`

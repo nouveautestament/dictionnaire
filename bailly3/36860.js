@@ -1,1 +1,0 @@
-lar[36860]=`<b>ἐπ·αυτίκα</b>, <i>adv</i>., tout de suite après, ORPH. <i>Lith. 329</i>.`

@@ -1,1 +1,0 @@
-lar[90117]=`<b>σιγμο·ειδής, ής, ές</b>, en forme de sigma, demi-circulaire, GAL. <i>4, 133</i>.<p><b>Étym</b>. σῖγμα, εἶδος.`

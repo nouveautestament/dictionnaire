@@ -1,1 +1,0 @@
-lar[61462]=`<b>λιχνο·φιλάργυρος, ος, ον</b> <font color="purple">[φῐῠ]</font> gourmand et avare, PHILYLL. <i>fr. 16</i>.`

@@ -1,1 +1,0 @@
-lar[46422]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> visible, SOPH. <i>Aj. 914</i>.<br><b>      2</b> digne d’être contemplé, PLAT. <i>Conv. 197d ; en parl. de la contemplation par l’intelligence,</i> PLAT. <i>Phædr. 247c</i>.<p><b>Étym</b>. <i>vb. de</i> θεάομαι.`

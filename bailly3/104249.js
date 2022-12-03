@@ -1,1 +1,0 @@
-lar[104249]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> souris, NIC. <i>Al. 37</i>.<p><b>Étym</b>. <i>pré-grec, cf. lat</i>. sōrex.`

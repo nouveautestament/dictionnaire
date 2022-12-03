@@ -1,1 +1,0 @@
-lar[48417]=`<b>ἰδιό·ξενος, ος, ον</b> <font color="purple">[ῐδ]</font> hôte privé, <i>p. opp. à</i> πρόξενος, DH. <i>1, 84</i> ; DS. <i>13, 5</i> ; LUC. <i>Phal. 2</i>.<p><b>Étym</b>. ἴδ. ξένος.`

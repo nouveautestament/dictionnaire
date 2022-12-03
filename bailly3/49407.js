@@ -1,1 +1,0 @@
-lar[49407]=`<b>ἱππο·σείρης, ου</b>, <i>adj. m</i>. qui attelle les chevaux, ANACR. <i>75, 6</i>.<p><b>Étym</b>. ἵ. σειρά.`

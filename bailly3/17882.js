@@ -1,1 +1,0 @@
-lar[17882]=`<i>adv</i>., sans imagination, PHIL. <i>7, 641</i>.`

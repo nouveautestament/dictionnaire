@@ -1,1 +1,0 @@
-lar[64277]=`<b>ας (ἡ)</b> <font color="purple">[ψῐ]</font> action de se plaindre de son sort, HPC. <i>1287, 9</i>. ARSTT. <i>Virt. et vit. 7, 6</i>.<p><b>Étym</b>. μεμψίμοιρος.`

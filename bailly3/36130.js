@@ -1,1 +1,0 @@
-lar[36130]=`<b>ἐξ·ομματόω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> ouvrir les yeux, faire voir clair, SOPH. (AR. <i>Pl. 635) ; d’où</i> rendre clair, faire briller, ESCHL. <i>Pr. 499</i>.<br><b>      2</b> priver de la vue, aveugler, EUR. <i>fr. 545</i>.<p><b>Étym</b>. ἐξ, ὄμμα.`

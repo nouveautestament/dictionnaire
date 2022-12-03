@@ -1,1 +1,0 @@
-lar[294]=`<b>ἁ·γάλαξ, ακτος (ὁ, ἡ)</b> <font color="purple">[ᾰγᾰ]</font> frère de lait, HSCH. v° ἁγάλακτες.<p><b>Étym</b>. ἁ-, γάλα.`

@@ -1,1 +1,0 @@
-lar[21973]=`<b>*γητομέω-ῶ</b>, <i>seul. dor</i>. γατομέω <font color="purple">[ᾱ]</font> fendre la terre (pour ouvrir une mine), A.RH. <i>2, 1006</i> ; LYC. <i>268, 1396</i>.<p><b>Étym</b>. *γητόμος.`

@@ -1,1 +1,0 @@
-lar[14772]=`<b>Ἀριστ·ώνυμος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Aristônymos, <i>h</i>. THC. <i>2, 33, etc.</i> ; XÉN. <i>An. 4, 1, 27, etc</i>.<p><b>Étym</b>. ἄ. ὄνομα.`

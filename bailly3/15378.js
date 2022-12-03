@@ -1,1 +1,0 @@
-lar[15378]=`<b>ἀρτι·τέλεστος, ος, ον</b> <font color="purple">[ῐ]</font> nouvellement accompli <i>ou</i> exécuté, NONN. <i>D. 5, 579</i>.<p><b>Étym</b>. ἄ. τελέω.`

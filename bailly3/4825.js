@@ -1,1 +1,0 @@
-lar[4825]=`<b>ἀλλοτριο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui vit aux dépens d’autrui, SOPH. <i>fr. 309</i>.<p><b>Étym</b>. ἀ. φαγεῖν.`

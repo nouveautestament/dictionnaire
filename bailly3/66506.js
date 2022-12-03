@@ -1,1 +1,0 @@
-lar[66506]=`<b>μόν·ιππος, ος, ον :<br>      1</b> qui n’a qu’un cheval, PLAT. <i>Leg. 834b.</i><br><b>      2</b> cheval attelé, <i>ou</i> monté seul : ὁ μ. XÉN. <i>Cyr. 6, 4, 1,</i> cheval de selle.`

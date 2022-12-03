@@ -1,1 +1,0 @@
-lar[39569]=`<b>ἐπι·φθίνω</b> <font color="purple">[ῑν]</font> dépérir sur, <i>dat</i>. NIC. <i>fr. 2, 70</i>.`

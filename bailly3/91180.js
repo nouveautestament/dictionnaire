@@ -1,1 +1,0 @@
-lar[91180]=`<b>σκορπιό·πληκτος, ος, ον</b>, mordu, <i>litt</i>. « frappé » par un scorpion, DIOSC. <i>4, 195</i>.<p><b>Étym</b>. σκ. πλήσσω.`

@@ -1,1 +1,0 @@
-lar[81063]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> briquetier, DL. <i>4, 36</i>.<p><b>Étym</b>. πλινθίον.`

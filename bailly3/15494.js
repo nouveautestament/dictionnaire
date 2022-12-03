@@ -1,1 +1,0 @@
-lar[15494]=`<b>ἀρχαιο·μελη·σιδωνο·φρυνιχ·ήρατος, ος, ον</b> <font color="purple">[ῑῡῐᾰ]</font> <i>composé comique dout</i>. aimable comme un vieux chant des Sidonniennes de Phrynikhos, AR. <i>Vesp. 220</i>.<p><b>Étym</b>. ἀρχαῖος, μέλος, Σιδών, Φρύνιχος, ἐρατός.`

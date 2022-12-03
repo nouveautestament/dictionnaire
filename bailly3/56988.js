@@ -1,1 +1,0 @@
-lar[56988]=`<b>ῆς (ἡ) :<br>      1</b> petit gâteau de sésame et de froment, SOPATR. (ATH. <i>649a</i>) ; ANTH. <i>12, 212</i>.<br><b>      2</b> drogue médicale en forme de gâteau, DIOSC. <i>2, 125</i> ; AÉT. <i>13, 12</i>.<br><b>      3</b> sorte de poireau, DIONYS. (ATH. <i>648e</i>).<p><b>Étym</b>. <i>fém. de</i> κοπτός.`

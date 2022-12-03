@@ -1,1 +1,0 @@
-lar[7510]=`<b>ἀν·αράομαι-ῶμαι</b> <font color="purple">[ᾱρ]</font> rétracter une imprécation <i>ou</i> un vœu, Ps.-CALLISTH. (SUID.).`

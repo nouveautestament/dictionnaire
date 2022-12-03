@@ -1,1 +1,0 @@
-lar[19036]=`<b>ου (ὁ)</b> celui qui plonge dans l’eau pour purifier ; οἱ βάπται, EUP. <i>1, 119 Meineke,</i> « les Immerseurs, <i>càd</i>. les Purificateurs », <i>prêtres de la déesse Kotyllo</i>.<p><b>Étym</b>. βάπτω.`

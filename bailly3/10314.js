@@ -1,1 +1,0 @@
-lar[10314]=`<b>ἀντί·πους, ους, ουν</b>, <i>gén</i>. -ποδος, qui a les pieds opposés aux nôtres, PLAT. <i>Tim. 63a ;</i> ARSTT. <i>Cæl. 4, 1, 4</i> ; οἱ ἀντίποδες, STR. <i>15</i> ; CIC. <i>Acad. 2, 39</i> ; PLUT. <i>M. 869c</i>, les antipodes.<p><b>Étym</b>. ἀ. πούς.`

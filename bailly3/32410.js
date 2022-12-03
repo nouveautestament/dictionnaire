@@ -1,1 +1,0 @@
-lar[32410]=`<b>ἐκ·χυμίζω</b> <font color="purple">[ῡ]</font> exprimer le suc, sucer, ARSTT. <i>H.A. 8, 4, 3</i>.`

@@ -1,1 +1,0 @@
-lar[83302]=`<b>πραΰ·λογος, ος, ον</b>. <font color="purple">[ᾱῠ]</font> au doux langage, SYN. <i>Hymn. 6, 33</i>.<p><b>Étym</b>. πρ. λόγος.`

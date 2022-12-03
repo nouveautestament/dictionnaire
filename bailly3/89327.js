@@ -1,1 +1,0 @@
-lar[89327]=`<b>η, ον</b> = <i>lat</i>. saxetanus, saxatilis, <i>c</i>. πετραῖος, GAL. <i>6, 402a</i>.`

@@ -1,1 +1,0 @@
-lar[35182]=`<font color="purple">[ῡ]</font> <i>adv</i>., matériellement, JAMBL. <i>Myst. 243, 6</i>.`

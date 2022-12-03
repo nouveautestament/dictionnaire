@@ -1,1 +1,0 @@
-lar[110268]=`<b>ὠμο·γέρων, οντος (ὁ, ἡ) :<br>      1</b> vieillard encore vert, IL. <i>23, 791</i> ; ANTH. <i>7, 363</i> ; GAL. <i>6, 379</i>.<br><b>      2</b> vieux avant l’âge, LUC. <i>M. cond. 20 (cf</i>. ὠμὸν γέρας, OD. <i>15, 357</i>) ; <i>p. anal. adj.</i> : ὠμογέρων βόστρυχος, ANTH. <i>5, 264,</i> grappe mûre avant le temps, précoce.`

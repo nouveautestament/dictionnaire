@@ -1,1 +1,0 @@
-lar[31397]=`<b>ἐκ·καρπόομαι-οῦμαι</b>, <i>f</i>. ώσομαι :<br><b>      1</b> produire des fruits ; <i>fig</i>. ἐκκ. παῖδας, EUR. <i>Ion 815,</i> avoir des enfants.<br><b>      2</b> tirer profit de, THC. <i>5, 28 ; en mauv. part,</i> ἐκ. τινα, DÉM. <i>700, 19</i> ; DC. <i>43, 9,</i> exploiter qqn, abuser de lui ; φιλίαν τινός, DC. <i>37, 56,</i> exploiter l’amitié de qqn.`

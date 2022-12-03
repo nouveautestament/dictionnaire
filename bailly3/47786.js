@@ -1,1 +1,0 @@
-lar[47786]=`<i>adv</i>., mollement, d’une manière relâchée, EL. <i>N.A. 2, 11</i>.`

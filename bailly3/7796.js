@@ -1,1 +1,0 @@
-lar[7796]=`<b>έως (ὁ)</b> destructeur, ANT. <i>116, 28 ; fig</i>. corrupteur, PLUT. <i>M. 5b</i>.<p><b>Étym</b>. ἀνατρέπω.`

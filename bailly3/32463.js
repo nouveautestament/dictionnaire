@@ -1,1 +1,0 @@
-lar[32463]=`<b>*ἐλαιο·λόγος</b>, <i>att</i>. <b>ἐλαο·λόγος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> qui cueille des olives, AR. <i>Vesp. 712</i>.<p><b>Étym</b>. ἐλαία, ἐλάα, λέγω.`

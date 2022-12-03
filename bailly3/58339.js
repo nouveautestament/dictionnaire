@@ -1,1 +1,0 @@
-lar[58339]=`<b>κυανέω-ῶ</b> <font color="purple">[ῡᾰ]</font> être d’un bleu sombre, DP. <i>1111</i>.<p><b>Étym</b>. κυανός².`

@@ -1,1 +1,0 @@
-lar[3191]=`<b>ἀ·κατάλληλος, ος, ον</b>, qui ne s’accorde pas, incohérent, ARSTT. <i>Mund. 6, 6</i> ; DH. <i>Dem. 27, etc</i>.`

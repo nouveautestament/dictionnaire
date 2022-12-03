@@ -1,1 +1,0 @@
-lar[102121]=`<b>ὑπ·εκκομίζω</b>, emporter secrètement, THC. <i>4, 123</i> ; PLUT. <i>Cam. 21, M. 942c ;</i> DC. <i>47, 10</i>.<br><b><i>Moy.</i></b> emporter secrètement avec soi, HDT. <i>9, 6</i> ; XÉN. <i>Cyr. 2, 4, 13</i>.`

@@ -1,1 +1,0 @@
-lar[72944]=`<b>ὀρνιθοσκοπέομαι-οῦμαι</b> <font color="purple">[ῑ]</font> observer le vol <i>ou</i> le cri des oiseaux, SPT. <i>Lev. 19, 26</i>.<p><b>Étym</b>. ὀρνιθοσκόπος.`

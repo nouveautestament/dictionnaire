@@ -1,1 +1,0 @@
-lar[71051]=`<b>ας (ἡ)</b> <font color="purple">[ῐσῑ]</font> sobriété, ARSTT. <i>Pol. 2, 10</i> ; TH. <i>fr. 7, 17, etc</i>.<p><b>Étym</b>. ὀλιγόσιτος.`

@@ -1,1 +1,0 @@
-lar[32528]=`<b>ας</b> <font color="purple">[λᾰ]</font> <i>adj. f. de</i> ἐλατήρ, PD. <i>fr. 59</i> ; NONN. <i>D. 11, 186</i>.`

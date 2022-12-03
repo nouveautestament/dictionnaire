@@ -1,1 +1,0 @@
-lar[76130]=`<b>παρα·πύθια, ων (τὰ)</b> <font color="purple">[ῡ]</font> obstacle <i>ou</i> contretemps qui empêche de remporter la victoire aux jeux pythiques, ANTH. <i>11, 129 ; cf</i>. παρίσθμια.`

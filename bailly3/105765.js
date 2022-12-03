@@ -1,1 +1,0 @@
-lar[105765]=`<b>φιλό·δουλος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les esclaves, JOS. <i>B.J. 4, 3, 10</i>.<p><b>Étym</b>. φ. δοῦλος.`

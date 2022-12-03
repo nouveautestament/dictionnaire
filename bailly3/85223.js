@@ -1,1 +1,0 @@
-lar[85223]=`<b>προσ·απαντάω-ῶ</b> <font color="purple">[ᾰπ]</font> aller au-devant de, PHILSTR. <i>143</i>.`

@@ -1,1 +1,0 @@
-lar[37408]=`<b>ἐπι·βρωμάομαι-ῶμαι</b>, gronder, s’irriter contre, <i>dat</i>. CALL. <i>Del. 56</i>.<p><b>Étym</b>. <i>cf</i>. ἐπιβριμάομαι.`

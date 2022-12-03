@@ -1,1 +1,0 @@
-lar[72938]=`<b>ὀρνιθο·μανής, ής, ές</b> <font color="purple">[ῑᾰ]</font> passionné pour les oiseaux, ATH. <i>464d</i>.<p><b>Étym</b>. ὄρνις, μαίνομαι.`

@@ -1,1 +1,0 @@
-lar[86052]=`<b>πρό·σκοπος, ος, ον :<br>      1</b> qui observe en avant, <i>d’où subst</i>. ὁ πρ. avant-poste, vedette, XÉN. <i>Lac. 12, 6 ; au pl</i>. éclaireurs, XÉN. <i>Cyr. 5, 2, 6</i> ; DC. <i>40, 10, etc.</i><br><b>      2</b> qui pourvoit, qui prend soin de, PD. <i>fr. 231 (255) Bgk</i>.<p><b>Étym</b>. π. σκοπός.`

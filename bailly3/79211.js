@@ -1,1 +1,0 @@
-lar[79211]=`<b>περι·ρρέπω</b>, s’incliner d’un côté, HPC. <i>Fract. 753c</i>.<p><b>Étym</b>. π. ῥέπω.`

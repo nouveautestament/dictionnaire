@@ -1,1 +1,0 @@
-lar[64802]=`<b>ῆρος</b>, <i>adj. m</i>. qui change, <i>gén</i>. ION (ATH. <i>318e</i>).<p><b>Étym</b>. μεταλλάσσω.`

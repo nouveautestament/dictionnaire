@@ -1,1 +1,0 @@
-lar[97593]=`<b>ου (ὁ)</b> Taxilès :<br><b>      1</b> <i>roi indien,</i> PLUT. <i>Alex. 59, 65, etc.</i><br><b>      2</b> <i>général de Mithridate,</i> PLUT. <i>Syll. 15, 19 ; Luc. 26, 27</i>.`

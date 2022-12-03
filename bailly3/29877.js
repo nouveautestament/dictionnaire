@@ -1,1 +1,0 @@
-lar[29877]=`<b>ἐγχει·βρόμος, ος, ον</b>, à la lance frémissante, <i>ép. d’Athèna,</i> PD. <i>O. 7, 78</i>.<p><b>Étym</b>. ἔγχος, βρέμω.`

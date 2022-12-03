@@ -1,1 +1,0 @@
-lar[35312]=`<b>ἐξ·αιματόω-ῶ</b> <font color="purple">[ᾰ]</font> convertir en sang, ARSTT. <i>Somn. 3, 3</i>.<p><b>Étym</b>. ἐξ, αἷμα.`

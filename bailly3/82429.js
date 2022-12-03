@@ -1,1 +1,0 @@
-lar[82429]=`<b>*πολυσχιδία</b>, <i>ion</i>. <b>πολυσχιδίη, ης (ἡ)</b> <font color="purple">[χῐ]</font> état d’une chose divisée en plusieurs parties, <i>d’où</i> multiplicité, HPC. <i>Acut. 383</i>.<p><b>Étym</b>. πολυσχιδής.`

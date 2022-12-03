@@ -1,1 +1,0 @@
-lar[20049]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font><br><b>      1</b> rapt de bœufs, <i>d’où</i> rapt de bétail, IL. <i>11, 672 (ion</i>. -ίη) ; PLUT. <i>Thes. 30</i>.<br><b>      2</b> pâturage pour les bœufs, ANTH. <i>7, 626</i>.<br><b>      3</b> lutte avec un taureau, HLD. <i>10, 31</i>.<p><b>Étym</b>. βοηλάτης.`

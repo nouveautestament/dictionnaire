@@ -1,1 +1,0 @@
-lar[37193]=`<b>ἐπετειο·φόρος, ος, ον</b>, qui porte des fruits tous les ans, TH. <i>C.P. 1, 20, 3</i>.<p><b>Étym</b>. ἐ. φέρω.`

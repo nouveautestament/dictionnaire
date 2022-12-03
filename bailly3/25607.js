@@ -1,1 +1,0 @@
-lar[25607]=`<b>δια·σταυρόω-ῶ</b> <font color="darkgreen">(<i>impf. 3 sg</i>. διεσταύρου)</font> munir de palissades, de retranchements, DC. <i>41, 50</i>.<br><b><i>Moy.</i></b> (<i>part. ao</i>. -ωσάμενος) <i>m. sign</i>. THC. <i>6, 97</i>.`

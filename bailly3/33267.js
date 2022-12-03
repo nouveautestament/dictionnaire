@@ -1,1 +1,0 @@
-lar[33267]=`<b>ἐμ·μετεωρίζω</b>, élever dans les airs, <i>dat</i>. PHILSTR. <i>V. Ap. 1, 5</i>.<p><b>Étym</b>. ἐν, μ.`

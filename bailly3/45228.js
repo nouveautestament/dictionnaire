@@ -1,1 +1,0 @@
-lar[45228]=`<b>ἡλιο·κάμινος, ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> étuve solaire, <i>sorte de four où l’on concentrait la chaleur du soleil,</i> PLIN. MIN. <i>Ep. 2, 17, 20</i>.<p><b>Étym</b>. ἥλιος, <i>lat</i>. caminus.`

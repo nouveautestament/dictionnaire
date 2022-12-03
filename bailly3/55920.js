@@ -1,1 +1,0 @@
-lar[55920]=`<b>Κλεό·φαντις, ιδος (ἡ)</b> <font color="purple">[ῐ]</font> Kléophantis, <i>f</i>. ANTH. <i>5, 279</i>.<p><b>Étym</b>. <i>cf</i>. Κλεόφαντος.`

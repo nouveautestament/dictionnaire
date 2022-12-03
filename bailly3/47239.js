@@ -1,1 +1,0 @@
-lar[47239]=`<i>ou</i> <b>Θήραιος, α, ον</b>, de Thèra, PD. <i>P. 4, 17</i> ; οἱ Θηραῖοι, HDT. <i>4, 150,</i> les habitants de Thèra.<p><b>Étym</b>. Θήρα.`

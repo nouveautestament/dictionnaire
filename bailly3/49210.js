@@ -1,1 +1,0 @@
-lar[49210]=`<b>ἱππ·αγρέται, ῶν (οἱ)</b> les trois commandants du corps de cavalerie attaché à la personne du roi de Sparte en temps de guerre, XÉN. <i>Hell. 3, 3, 9 ; Lac. 4, 3</i> ; ARCHYT. (STOB. <i>269, 4).</i><p><b>Étym</b>. ἵππος, ἀγείρω.`

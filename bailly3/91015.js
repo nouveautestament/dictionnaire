@@ -1,1 +1,0 @@
-lar[91015]=`<b>σκληρ·αγωγέω</b> <font color="purple">[ᾰ]</font> traiter durement, <i>acc.,</i> LUC. <i>D. mar. 16, 1 ; fig.</i> : τὴν λέξιν, DH. <i>Thuc. 30,</i> rendre son style dur et pénible.<p><b>Étym</b>. σκληρός, ἄγω.`

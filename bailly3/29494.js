@@ -1,1 +1,0 @@
-lar[29494]=`<b>ἔγ·καρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> cerveau, ANTH. <i>9, 519</i> ; LYC. <i>1104</i>.<p><b>Étym</b>. ἐν, κάρα.`

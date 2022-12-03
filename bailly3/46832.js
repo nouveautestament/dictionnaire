@@ -1,1 +1,0 @@
-lar[46832]=`<b>θέο·φημος, ος, ον</b>, qui annonce la volonté des dieux, MAN. <i>1, 293, etc</i>.<p><b>Étym</b>. θ. φήμη.`

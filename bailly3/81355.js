@@ -1,1 +1,0 @@
-lar[81355]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne un poème, poétique, PLUT. <i>M. 744e</i>.<p><b>Étym</b>. ποίημα.`

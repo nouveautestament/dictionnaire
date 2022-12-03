@@ -1,1 +1,0 @@
-lar[7052]=`<b>οῦς (ἡ)</b> Anakô, <i>f</i>. PLUT. <i>X orat. Isocr. 24, 48</i>.<p><b>Étym</b>. ἄναξ.`

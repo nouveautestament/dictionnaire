@@ -1,1 +1,0 @@
-lar[57626]=`<b>κρατερό·χειρ, ειρος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> aux mains robustes <i>ou</i> puissantes, ANTH. <i>9, 210</i>.<p><b>Étym</b>. κρ. χείρ.`

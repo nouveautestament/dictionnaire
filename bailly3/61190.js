@@ -1,1 +1,0 @@
-lar[61190]=`<b>λιμο·δοξία, ας (ἡ)</b> <font color="purple">[λῑ]</font> désir ardent de gloire, PHIL. <i>1, 290</i>.<p><b>Étym</b>. λιμός, δόξα.`

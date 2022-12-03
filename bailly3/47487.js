@@ -1,1 +1,0 @@
-lar[47487]=`<font color="purple">[ῐ]</font> <i>adv</i>., à Thorikos, <i>avec mouv</i>. HH. <i>Cer. 126</i>.<p><b>Étym</b>. Θορικός, -δε.`

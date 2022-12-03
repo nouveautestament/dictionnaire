@@ -1,1 +1,0 @@
-lar[90350]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> chanson à la Simos <i>ou</i> Simôn, <i>càd</i>. chanson joyeuse, STR. <i>648</i>.<p><b>Étym</b>. σιμῳδός.`

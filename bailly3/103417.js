@@ -1,1 +1,0 @@
-lar[103417]=`<b>ας (ἡ)</b> <font color="purple">[ῐσ]</font> forme <i>postér. c</i>. ὑπόκρισις A. PL. <i>289</i>.`

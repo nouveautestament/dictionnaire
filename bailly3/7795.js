@@ -1,1 +1,0 @@
-lar[7795]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> friction faite avec force, HPC. <i>Art. 785</i>.<p><b>Étym</b>. ἀνατρίβω.`

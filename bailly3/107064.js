@@ -1,1 +1,0 @@
-lar[107064]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡ]</font> la femelle du poisson φύκης, ARSTT. <i>H.A. 6, 13, 8</i> ; EPICH. (ATH. <i>319c</i>) ; ANTH. <i>6, 105 ; 7, 702</i> ; PLUT. <i>M. 981f</i>.`

@@ -1,1 +1,0 @@
-lar[83362]=`<b>πρεσβυτο·δόκος, ος, ον</b> <font color="purple">[ῠ]</font> qui sert d’asile aux vieillards, ESCHL. <i>Suppl. 666</i>.<p><b>Étym</b>. πρεσβύτης, δέκομαι.`

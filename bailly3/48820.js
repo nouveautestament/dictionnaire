@@ -1,1 +1,0 @@
-lar[48820]=`<b>α, ον</b> <font color="purple">[μᾰ]</font> humide, HPC. <i>593, 15</i> ; OPP. <i>H. 3, 595, etc</i>.<p><b>Étym</b>. ἰκμάς.`

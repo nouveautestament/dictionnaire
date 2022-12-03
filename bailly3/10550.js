@@ -1,1 +1,0 @@
-lar[10550]=`<b>ἀντί·φημι</b>, contredire, répliquer, PLAT. <i>Gorg. 501c ;</i> ARSTT. <i>Insomn. 2, etc</i>.`

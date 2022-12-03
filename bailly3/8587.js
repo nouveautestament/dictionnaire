@@ -1,1 +1,0 @@
-lar[8587]=`<b>ἀν·ετάζω</b> (<i>seul. prés</i>.) :<br><b>      1</b> chercher à savoir : ἀν. τινά τι, SPT. <i>Dan. 14,</i> demander qqe ch. à qqn.<br><b>      2</b> <i>abs</i>. questionner : τινά, NT. <i>Ap. 22, 29,</i> qqn ; <i>d’où</i> mettre à la question, NT. <i>Ap. 22, 24</i>.<p><b>Étym</b>. ἀνά, ἐ.`

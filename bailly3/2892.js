@@ -1,1 +1,0 @@
-lar[2892]=`<b>αἰσχρο·επέω-ῶ</b>, tenir des propos honteux, EPHIPP. (ATH. <i>571a</i>).<p><b>Étym</b>. αἰ. ἔπος.`

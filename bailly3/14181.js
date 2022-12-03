@@ -1,1 +1,0 @@
-lar[14181]=`<b>ήεσσα, ῆεν</b> <font color="purple">[ᾰα]</font> d’araignée, NIC. <i>Th. 733, Al. 492</i>.<p><b>Étym</b>. ἀράχνη.`

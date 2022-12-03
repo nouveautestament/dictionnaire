@@ -1,1 +1,0 @@
-lar[61174]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de marais, THCR. <i>Idyl. 2, 56</i> ; ἡ λ. GAL. <i>6, 434, c</i>. λίμνηστις.<p>➳ <i>Dor</i>. λιμνᾶτις, THCR. <i>Idyl. l. c</i>.`

@@ -1,1 +1,0 @@
-lar[73175]=`<b>ου (ὁ)</b> rangée d’arbres <i>ou</i> de ceps de vigne, allée plantée d’un verger <i>ou</i> d’un vignoble, OD. <i>7, 157</i> ; HÉS. <i>Sc. 294</i> ; AR. <i>Ach. 995</i> ; XÉN. <i>Œc. 20, 3</i> ; TH. <i>H.P. 4, 4, 8</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. ὀρχάς¹, ὄρχατος.`

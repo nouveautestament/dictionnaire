@@ -1,1 +1,0 @@
-lar[60630]=`<b>λευκο·φόρος, ος, ον :<br>      1</b> qui porte un vêtement blanc, A. PL. <i>20</i>.<br><b>      2</b> qui porte du raisin blanc, GEOP. <i>5, 2, 2</i>.<p><b>Étym</b>. λ. φέρω.`

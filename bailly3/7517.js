@@ -1,1 +1,0 @@
-lar[7517]=`<i>adv</i>., en sons inarticulés, confusément, PLUT. <i>M. 611b</i>.`

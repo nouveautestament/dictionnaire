@@ -1,1 +1,0 @@
-lar[104758]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de Phalère, PLAT. <i>Conv. 172a</i>.<p><b>Étym</b>. Φάληρον, -θεν.`

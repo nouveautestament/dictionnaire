@@ -1,1 +1,0 @@
-lar[23841]=`<b>εσσα, εν :<br>      1</b> rempli d’arbres, boisé, OD. <i>1, 51 ; 9, 200</i> ; THCR. <i>Idyl. 25, 30</i> ; ORPH. <i>Arg. 431</i>.<br><b>      2</b> qui concerne les arbres, OPP. <i>H. 4, 270</i>.<p><b>Étym</b>. δένδρον.`

@@ -1,1 +1,0 @@
-lar[48272]=`<b>ος, ον</b> <font color="purple">[ῑᾱ]</font><br><b>      1</b> guérissable, <i>en parl. de pers</i>. ESCHL. <i>Pr. 475</i> ; ANT. <i>126, 19, etc. ; en parl. de maladies, de blessures,</i> PLAT. <i>Leg. 878c ; fig</i>. PLAT. <i>Gorg. 526b, Leg. 731d.</i><br><b>      2</b> <i>fig</i>. dont il faut apaiser le courroux, EUR. <i>Or. 399</i>.<p><b>Étym</b>. ἰάομαι.`

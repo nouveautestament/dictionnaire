@@ -1,1 +1,0 @@
-lar[94723]=`<b>συν·ανακυλίομαι</b> <font color="purple">[ῠῑ]</font> se rouler avec, DIOGÈN.<p><b>Étym</b>. <i>Not. mss. 10, p. 245</i>.`

@@ -1,1 +1,0 @@
-lar[31501]=`<b>ἐκ·κρήμνημι</b> (<i>part</i>. ἐκκρημνάς) suspendre, JAMBL. <i>V. Pyth. 238</i>.<br><b><i>Moy</i>. ἐκκρήμναμαι</b> (<i>seul. prés</i>.) :<br><b>      1</b> se suspendre à, <i>gén</i>. EUR. <i>H.f. 520</i>.<br><b>      2</b> suspendre : τί τινος, EUR. <i>Ion 1612,</i> une chose à une autre.`

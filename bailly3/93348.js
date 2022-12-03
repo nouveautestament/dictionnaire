@@ -1,1 +1,0 @@
-lar[93348]=`<b>συγ·καταπίπτω</b>, succomber avec, <i>dat</i>. DH. <i>Isocr. 9</i>.`

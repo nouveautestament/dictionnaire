@@ -1,1 +1,0 @@
-lar[76526]=`<b>ος, ον</b> <font color="purple">[ᾰφ]</font> <i>c</i>. παρέγγραπτος ATH. <i>180f, 211f</i>.`

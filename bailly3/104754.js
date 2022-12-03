@@ -1,1 +1,0 @@
-lar[104754]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> habitant de Phalère, HDT. <i>5, 63, etc</i>.<p>➳ <i>Dans les inscr. att. (4<sup>e</sup> siècle av. J.-C.) acc. sg</i>. Φαληρέϳα, <i>v. Meisterh. p. 36, 1 ; au plur</i>. Φαληρέες (<i>p</i>. Φαληρέϳες), CIA. <i>2, 943 (325 av. J.-C.) ; v. Meisterh. p. 110, note 1009</i>.<p><b>Étym</b>. Φάληρον.`

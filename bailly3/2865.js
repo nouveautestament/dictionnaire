@@ -1,1 +1,0 @@
-lar[2865]=`<b>αἰσυλο·εργός, ός, όν</b> <font color="purple">[ῠ]</font> scélérat, IL. <i>5, 403</i>.<p><b>Étym</b>. αἴσ. ἔργον.`

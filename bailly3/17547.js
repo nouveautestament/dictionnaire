@@ -1,1 +1,0 @@
-lar[17547]=`<b>αὐτό·κτιστος, ος, ον</b>, fondé de soi-même, <i>càd</i>. naturel, SOPH. <i>fr. 306</i>.<p><b>Étym</b>. αὐ. κτίζω.`

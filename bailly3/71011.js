@@ -1,1 +1,0 @@
-lar[71011]=`<i>ion</i>. <b>ὀλιγοδρανίη, ης (ἡ)</b> <font color="purple">[ῐᾰν]</font> faiblesse, épuisement, ESCHL. <i>Pr. 548</i>.<p><b>Étym</b>. ὀλιγοδρανής.`

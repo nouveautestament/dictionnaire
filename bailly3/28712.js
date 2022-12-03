@@ -1,1 +1,0 @@
-lar[28712]=`<b>δυσ·οίκητος, ος, ον</b> <font color="purple">[ῠ]</font> inhabitable, XÉN. <i>Cyr. 8, 6, 21</i> ; STR. <i>164</i>.<p><b>Étym</b>. δ. οἰκέω.`

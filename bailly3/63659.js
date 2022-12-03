@@ -1,1 +1,0 @@
-lar[63659]=`<b>μεθυσφαλέω-ῶ</b> <font color="purple">[ᾰ]</font> chanceler par ivresse, OPP. <i>C. 4, 204</i>.<p><b>Étym</b>. μεθυσφαλής.`

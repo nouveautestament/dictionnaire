@@ -1,1 +1,0 @@
-lar[7410]=`<b>ῆς (ἡ) :<br>      1</b> entrelacement, PHILSTR. <i>240</i>.<br><b>      2</b> roulade de notes en montant, <i>p. opp. à</i> καταπλοκή, PTOL. <i>Harm. 2, 12</i>.<p><b>Étym</b>. ἀναπλέκω.`

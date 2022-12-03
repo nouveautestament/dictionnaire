@@ -1,1 +1,0 @@
-lar[16544]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> incohérence, défaut de cohésion, ARCHIG. (GAL. <i>8, 626).</i><p><b>Étym</b>. ἀσύστατος.`

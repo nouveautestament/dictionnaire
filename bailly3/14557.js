@@ -1,1 +1,0 @@
-lar[14557]=`<b>ας (ἡ)</b> sorte de chêne-liège d’Arcadie, TH. <i>H.P. 3, 16, 3 ; cf</i>. φελλόδρυς.`

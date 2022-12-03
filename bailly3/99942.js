@@ -1,1 +1,0 @@
-lar[99942]=`<b>ων (οἱ)</b> les Traspies, <i>pple scythe,</i> HDT. <i>4, 6</i>.`

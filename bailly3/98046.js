@@ -1,1 +1,0 @@
-lar[98046]=`<b>εως (ἡ) :<br>      1</b> conjecture, supposition, présomption, jugement par conjecture, HPC. <i>Acut. 383</i> ; DH. <i>7, 71, etc.</i><br><b>      2</b> indice, fondement d’une supposition, THC. <i>2, 87</i>.<br><b>      3</b> coup d’œil pénétrant pour deviner, DH. <i>1, 78</i>.<p><b>Étym</b>. τεκμαίρω.`

@@ -1,1 +1,0 @@
-lar[75205]=`<b>ας (ἡ) :<br>      1</b> achèvement, fin, POL. <i>1, 48, 9 ; d’où</i> le dernier terme de l’initiation aux mystères, PLUT. <i>M. 1061e ;</i> ἡ τριετηρικὴ παντέλεια, PLUT. <i>M. 671d</i>, l’accomplissement triennal des grands mystères.<br><b>      2</b> <i>particul. chez les Pythagoriciens,</i> le nombre dix, THEOL. <i>63</i>.<p><b>Étym</b>. παντελής.`

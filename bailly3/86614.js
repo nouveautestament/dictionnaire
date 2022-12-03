@@ -1,1 +1,0 @@
-lar[86614]=`<b>προσ·φιλοπονέω-ῶ</b> <font color="purple">[ῐ]</font> aimer à se donner de la peine pour, NAZ. <i>1, 596 ; 2, 292 Migne</i>.`

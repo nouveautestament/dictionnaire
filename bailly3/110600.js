@@ -1,1 +1,0 @@
-lar[110600]=`<i>3 pl. pl.q.pf. pass. ion. de</i> οἴγνυμι.`

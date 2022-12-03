@@ -1,1 +1,0 @@
-lar[29217]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> don, présent, IL. <i>9, 155</i> ; OD. <i>9, 268</i> ; HDT. <i>1, 61 ; adv</i>. δωτίνην, HDT. <i>1, 69</i> ; THÉM. <i>260d, 299a</i>, gratuitement, <i>d’où</i> en pure perte, en vain.<p><b>Étym</b>. δώτης.`

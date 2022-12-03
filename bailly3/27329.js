@@ -1,1 +1,0 @@
-lar[27329]=`<b>ίδος (ἡ)</b> <i>c</i>. δμῳή, ESCHL. <i>Suppl. 334</i> ; EUR. <i>Bacch. 514</i> ; LYC. <i>1123</i>.`

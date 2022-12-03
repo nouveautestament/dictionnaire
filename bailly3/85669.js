@@ -1,1 +1,0 @@
-lar[85669]=`<b>προσ·επιδιδάσκω</b> <font color="purple">[δῐ]</font> instruire en outre, CLÉM. <i>825</i>.`

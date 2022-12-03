@@ -1,1 +1,0 @@
-lar[53397]=`<b>κατα·σπαργανόω-ῶ</b> <font color="purple">[γᾰ]</font> envelopper de langes, PHIL. <i>2, 496</i>.`

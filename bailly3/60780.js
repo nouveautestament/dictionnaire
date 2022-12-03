@@ -1,1 +1,0 @@
-lar[60780]=`<b>α, ον</b> <font color="purple">[ῠ]</font> propre à la déclamation, <i>d’où</i> ληκύθιον μέτρον, SCH.-AR. <i>Ran. 1233,</i> vers lécythien, trochaïque de trois pieds et demi.<p><b>Étym</b>. λήκυθος.`

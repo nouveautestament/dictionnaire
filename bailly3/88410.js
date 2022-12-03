@@ -1,1 +1,0 @@
-lar[88410]=`<b>ή, όν</b>, qui coule, ARSTT. <i>fr. 201</i> ; SEXT. <i>P. 1, 217 ; fig</i>. fugitif, inconstant, PLUT. <i>M. 268d, 522a</i>.<p><b>Étym</b>. <i>vb. de</i> ῥέω.`

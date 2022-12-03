@@ -1,1 +1,0 @@
-lar[43609]=`donner de la force, A. TR. <i>8, p. 433</i>.<p><b>Étym</b>. εὔτονος.`

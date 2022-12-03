@@ -1,1 +1,0 @@
-lar[30998]=`<b>ἑκατογ·κρήπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ᾰῑδ]</font> à cent bases, JUL. <i>Ep. 24</i>.<p><b>Étym</b>. ἑ. κρηπίς.`

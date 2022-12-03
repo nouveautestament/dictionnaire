@@ -1,1 +1,0 @@
-lar[20966]=`<b>ος, ον</b>, qu’on peut manger, mangeable, ESCHL. <i>Pr. 479</i> ; DIPH. <i>(Bkk. 84, 25</i>) ; SPT. <i>Lev. 19, 23, etc.</i> ; NT. <i>Luc. 24, 41</i>.<p><b>Étym</b>. βιβρώσκω.`

@@ -1,1 +1,0 @@
-lar[697]=`<b>ἀγλαό·γυιος, ος, ον</b>, aux membres brillants de force, PD. <i>N. 7, 4</i>.<p><b>Étym</b>. ἀ. γυῖον.`

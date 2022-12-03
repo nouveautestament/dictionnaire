@@ -1,1 +1,0 @@
-lar[90034]=`<b>σηψι·δακής, ής, ές</b> <font color="purple">[ῐᾰ]</font> dont la morsure engendre la putréfaction, PLAT. (ARSTT. <i>Top. 6, 2, 4).</i><p><b>Étym</b>. σῆψις, δάκνω.`

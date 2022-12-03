@@ -1,1 +1,0 @@
-lar[94426]=`<b>συμ·φιλέω-ῶ</b> <font color="purple">[ῐ]</font> aimer ensemble <i>ou</i> mutuellement, SOPH. <i>Ant. 523</i>.`

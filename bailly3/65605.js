@@ -1,1 +1,0 @@
-lar[65605]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font> fabrication <i>ou</i> construction de machines, ATHÉNÉE MÉC.<p><b>Étym</b>. μηχανουργός.`

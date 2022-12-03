@@ -1,1 +1,0 @@
-lar[40178]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> sorte de myrrhe, DIOSC. <i>1, 77</i>.<p><b>Étym</b>. <i>fém. de</i> ἐργάσιμος.`

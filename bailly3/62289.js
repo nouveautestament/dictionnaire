@@ -1,1 +1,0 @@
-lar[62289]=`<b>ου (ὁ)</b> Madytos (<i>auj</i>. Eceabat) <i>port de la Chersonèse de Thrace,</i> HDT. <i>7, 33 ; 9, 120</i> ; XÉN. <i>Hell. 1, 1, 3, etc</i>.`

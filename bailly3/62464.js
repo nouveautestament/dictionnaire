@@ -1,1 +1,0 @@
-lar[62464]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. Μακεδονία, HERMÉSIAN. <i>5, 65</i> ; ANTH. <i>9, 288, etc</i>.`

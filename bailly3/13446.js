@@ -1,1 +1,0 @@
-lar[13446]=`<b>ἀπο·στίζω</b>, marquer avec des points <i>ou</i> des lignes, GAL. <i>9, 221</i>.`

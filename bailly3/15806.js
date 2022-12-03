@@ -1,1 +1,0 @@
-lar[15806]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, indistinct, obscur, SOPH. <i>O.C. 1668 ; cf</i>. ἄσημος.`

@@ -1,1 +1,0 @@
-lar[8672]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> d’aneth, THCR. <i>Idyl. 7, 63,</i> GAL. <i>6, 111</i>.<br><b>      2</b> parfumé d’aneth, DIOSC. <i>1, 61</i>.<p><b>Étym</b>. ἄνηθον.`

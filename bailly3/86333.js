@@ -1,1 +1,0 @@
-lar[86333]=`<b>προσ·πληρόω-ῶ :<br>      1</b> compléter, <i>acc</i>. XÉN. <i>Cyr. 5, 3, 24</i>.<br><b>      2</b> augmenter le nombre de, <i>acc</i>. THC. <i>6, 104 ; 7, 34</i>.<br><b><i>Moy.</i></b> ajouter pour compléter le nombre, <i>acc</i>. XÉN. <i>Hell. 5, 4, 66, etc</i>.`

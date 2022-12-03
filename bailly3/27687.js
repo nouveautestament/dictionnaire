@@ -1,1 +1,0 @@
-lar[27687]=`<b>ης (ἡ)</b> femme esclave, IL. <i>3, 409</i> ; OD. <i>4, 12</i> ; ESCHL. <i>Ag. 1326</i> ; XÉN. <i>Cyr. 5, 1, 4</i> ; PLAT. <i>Rsp. 395e, etc</i>.<p>➳ <i>Dor</i>. δούλα, EUR. <i>I.T. 132</i>.<p><b>Étym</b>. δοῦλος.`

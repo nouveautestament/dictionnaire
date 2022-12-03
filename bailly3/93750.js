@@ -1,1 +1,0 @@
-lar[93750]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les syllabes, DYSC. <i>Pron. 371 ; Synt. 7, 25</i> ; PORPH. (<i>Villois. Anecd. t. 2, p. 111</i>) ; σ. αὔξησις, DRAC. <i>155, 16,</i> augment syllabique ; σ. τόνος, PORPH. <i>Pros. 111,</i> accent syllabique, <i>càd</i>. accent grave.<p><b>Étym</b>. συλλαβή.`

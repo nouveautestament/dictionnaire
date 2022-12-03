@@ -1,1 +1,0 @@
-lar[36606]=`<b>ἐπ·ανακομίζω</b>, rapporter, <i>d’où au pass</i>. se reporter en arrière, retourner, JOS. <i>A.J. 18, 3, 1</i> ; DC. <i>40, 44</i>.`

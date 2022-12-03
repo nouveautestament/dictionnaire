@@ -1,1 +1,0 @@
-lar[81292]=`<b>ποδο·μερής, ής, ές</b>, dont chaque pied se compose d’un mot, DIOM. <i>p. 498</i>.<p><b>Étym</b>. π. μέρος.`

@@ -1,1 +1,0 @@
-lar[91646]=`<b>(ὁ)</b> Sousiskanès, <i>Égyptien,</i> ESCHL. <i>Pers. 34, 960</i>.`

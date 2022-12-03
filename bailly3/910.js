@@ -1,1 +1,0 @@
-lar[910]=`<b>ἀγριο·κάνναβις, εως (ἡ)</b> <font color="purple">[νᾰ]</font> chanvre sauvage, DIOSC. <i>Eup. 2, 31, p. 243</i>.`

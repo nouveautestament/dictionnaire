@@ -1,1 +1,0 @@
-lar[75748]=`<b>ορος (ὁ)</b> qui exhorte, <i>particul</i>. consolateur, SPT. <i>Job 16, 2</i>.<p><b>Étym</b>. παρακαλέω.`

@@ -1,1 +1,0 @@
-lar[101762]=`<b>ὑλο·φόρος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> qui porte du bois, ANTH. <i>9, 335</i>.<br><b>      2</b> qui produit du bois, boisé, POL. <i>3, 55, 9</i>.<p><b>Étym</b>. ὕ. φέρω.`

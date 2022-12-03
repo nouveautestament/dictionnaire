@@ -1,1 +1,0 @@
-lar[106177]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> acte d’amitié <i>ou</i> de bienveillance, bon office, ESCHN. <i>Ep. 5, 3, etc</i>.<p><b>Étym</b>. φιλοφρονέομαι.`

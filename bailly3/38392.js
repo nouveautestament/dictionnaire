@@ -1,1 +1,0 @@
-lar[38392]=`<b>ατος (τὸ)</b> objet de soin, affaire, occupation, XÉN. <i>Œc. 4, 4, etc</i>.<p><b>Étym</b>. ἐπιμελέομαι.`

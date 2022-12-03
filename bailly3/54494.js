@@ -1,1 +1,0 @@
-lar[54494]=`<b>ου (ὁ)</b> citoyen du dème Keiriades, DÉM. <i>59, 40 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. Κειρίαδαι.`

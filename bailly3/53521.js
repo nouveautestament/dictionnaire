@@ -1,1 +1,0 @@
-lar[53521]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> déchirure, GAL. <i>2, 851, etc</i>.<p><b>Étym</b>. κατασχίζω.`

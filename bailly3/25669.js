@@ -1,1 +1,0 @@
-lar[25669]=`<b>δια·σφάττω</b> <font color="darkgreen">(<i>impf. pass. 3 sg</i>. διεσφάττετο)</font> égorger, LIB. <i>4, 895</i>.`

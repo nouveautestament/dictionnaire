@@ -1,1 +1,0 @@
-lar[94999]=`<b>συν·αστρέω-ῶ</b>, être né sous la même constellation, Ps.-CALLISTH. <i>p. 4 n. 3 Didot</i>.<p><b>Étym</b>. σ. ἀστήρ.`

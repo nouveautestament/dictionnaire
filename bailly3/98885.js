@@ -1,1 +1,0 @@
-lar[98885]=`<b>      1</b> <i>dat. sg. fém. de l’art</i>. ὁ, ἡ, τό, <i>souv. employé adv</i>. (<i>v</i>. ὁ).<br><b>      2</b> <i>dat. sg. fém. poét. de</i> ὅς, ἥ, ὅ, <i>souv. employé adv</i>.<p><b>Étym</b>. <i>v</i>. ὅς.`

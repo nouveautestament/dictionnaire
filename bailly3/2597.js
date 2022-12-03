@@ -1,1 +1,0 @@
-lar[2597]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par suite d’hémorrhagie, GAL. <i>De loc. affect. 8, 304</i>.`

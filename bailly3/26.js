@@ -1,1 +1,0 @@
-lar[26]=`<font color="darkgreen">(<i>seul. 3 sg. prés. pass</i>. ἄαται)</font> <font color="brown">rassasier</font>, HÉS. <i>Sc. 101 dout</i>.`

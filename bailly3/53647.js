@@ -1,1 +1,0 @@
-lar[53647]=`<b>κατα·φιλοσοφέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> établir philosophiquement, ARR. <i>Epict. 4, 1, 167</i>.<br><b>      2</b> l’emporter dans une discussion philosophique : τινος, EL. <i>N.A. 6, 56,</i> sur qqn.<br><b>      3</b> expliquer théoriquement, EUM. <i>p. 148 et 154</i>.`

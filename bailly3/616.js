@@ -1,1 +1,0 @@
-lar[616]=`<b>ή, όν</b>, qui concerne la pêche à l’hameçon : τὸ ἀ. PLAT. <i>Soph. 220d, c</i>. ἀγκιστρεία.`

@@ -1,1 +1,0 @@
-lar[99213]=`<b>ου (ὁ)</b> <font color="purple">[τῑ]</font> Timèsias, <i>h</i>. EL. <i>V.H. 12, 9</i>.<p><b>Étym</b>. τιμάω.`

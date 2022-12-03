@@ -1,1 +1,0 @@
-lar[103880]=`<b>ὑπο·στέγω</b>, cacher en dessous, recouvrir, XÉN. <i>Cyn. 5, 10</i>.`

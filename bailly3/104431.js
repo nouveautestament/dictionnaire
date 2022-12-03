@@ -1,1 +1,0 @@
-lar[104431]=`<b>ου (ὁ)</b> Hypsarnos, <i>fl. de Béotie,</i> LYC. <i>647</i>.`

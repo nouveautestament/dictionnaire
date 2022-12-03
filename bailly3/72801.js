@@ -1,1 +1,0 @@
-lar[72801]=`<b>ὀριγανίτης οἶνος (ὁ)</b> <font color="purple">[ῑᾰῑ]</font> vin parfumé d’origan, DIOSC. <i>5, 61</i>.<p><b>Étym</b>. ὀρίγανος.`

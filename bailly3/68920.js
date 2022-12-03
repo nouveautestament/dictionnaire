@@ -1,1 +1,0 @@
-lar[68920]=`<b>νομισματο·πωλική, ῆς (ἡ)</b> <font color="purple">[ᾰῐ]</font> <i>s.-e</i>. τέχνη, métier de changeur, PLAT. <i>Soph. 223c</i>.<p><b>Étym</b>. νόμισμα, πωλέω.`

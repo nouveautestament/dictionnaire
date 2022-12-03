@@ -1,1 +1,0 @@
-lar[84092]=`<b>προ·εκπέμπω</b>, envoyer auparavant <i>ou</i> en avant, <i>gén</i>. PLUT. <i>Cam. 41, Alc. 34, etc</i>.`

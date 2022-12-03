@@ -1,1 +1,0 @@
-lar[60085]=`<b>ῶνος (ἡ)</b> = <i>lat</i>. legio, légion, PLUT. <i>Rom. 13</i> ; NT. <i>Matth. 26, 53</i>.`

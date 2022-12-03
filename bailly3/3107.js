@@ -1,1 +1,0 @@
-lar[3107]=`<b>ου (ὁ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> sorte de poisson (<i>p.-ê. acanthias vulgaris</i> ou <i>Squalus acanthias</i> L.) ARSTT. <i>H.A. 6, 10</i>.<br><b>      2</b> sorte de cigale, EL. <i>N.A. 10, 44</i>.`

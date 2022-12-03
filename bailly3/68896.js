@@ -1,1 +1,0 @@
-lar[68896]=`<b>ων (οἱ)</b> les Numantins, PLUT. <i>T. Gracch. 5</i>.<p><b>Étym</b>. Νομαντία.`

@@ -1,1 +1,0 @@
-lar[98981]=`<b>τημελέω-ῶ</b>, prendre soin de, s’occuper de : τινα, EUR. <i>I.A. 731</i> ; SEXT. <i>M. 7, 249,</i> de qqn ; τι, PLUT. <i>Artax. 18 ; ou</i> τινος, SIM. AM. <i>Iamb. fr. 18</i> ; EUR. <i>I.T. 311,</i> de qqe ch.`

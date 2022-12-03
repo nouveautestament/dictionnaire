@@ -1,1 +1,0 @@
-lar[3466]=`<b>ἄ·κμων, ονος (ὁ, ἡ)</b> infatigable : λόγχης ἄκμονες, ESCHL. <i>Pers. 51,</i> infatigables à lancer la javeline.<p><b>Étym</b>. ἀ, κάμνω.`

@@ -1,1 +1,0 @@
-lar[35674]=`<b>ἑξά·φοροι, ων (οἱ)</b> <font color="purple">[ᾰ]</font> porteurs au nombre de six, VITR. <i>10, 8</i>.<p><b>Étym</b>. ἕξ, φέρω.`

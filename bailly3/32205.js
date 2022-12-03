@@ -1,1 +1,0 @@
-lar[32205]=`<b>ου (ὁ)</b> fils d’Hector (Astyanax) IL. <i>6, 401</i>.<p><b>Étym</b>. Ἕκτωρ.`

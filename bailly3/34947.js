@@ -1,1 +1,0 @@
-lar[34947]=`<b>ἐν·σπειράω-ῶ</b>, enrouler dans, <i>dat</i>. SEXT. <i>280, 16 Migne</i>.`

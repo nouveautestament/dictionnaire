@@ -1,1 +1,0 @@
-lar[31214]=`<b>ᾶς (ἡ)</b> action d’écorcher, DIOSC.<p><b>Étym</b>. ἐκδέρω.`

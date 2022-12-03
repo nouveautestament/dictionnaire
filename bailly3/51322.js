@@ -1,1 +1,0 @@
-lar[51322]=`<b>ου (ὁ)</b> = <i>lat</i>. Calpus, <i>n. d’h. rom</i>. PLUT. <i>Num. 21</i>.`

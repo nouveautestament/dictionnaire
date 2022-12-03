@@ -1,1 +1,0 @@
-lar[88363]=`(<i>seul. prés</i>.) teindre, EPICH. (ORION <i>p. 139) ; cf</i>. PHOT. <i>485, 17</i> ; EM. <i>703, 28</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *sreg-, peindre ; <i>cf</i>. ῥέγος, ῥῆγος, <i>sscr</i>. rájyati, « se teindre, se colorer ».`

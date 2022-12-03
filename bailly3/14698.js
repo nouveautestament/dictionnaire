@@ -1,1 +1,0 @@
-lar[14698]=`<b>ης (ἡ)</b> <font color="purple">[ᾰδῐ]</font> Aristodikè, <i>f</i>. ANTH. <i>6, 281, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Ἀριστόδικος.`

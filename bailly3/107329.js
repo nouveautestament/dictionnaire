@@ -1,1 +1,0 @@
-lar[107329]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> entretien des plantes, GEOP. <i>9, 5, 11</i>.<p><b>Étym</b>. φυτοτρόφος.`

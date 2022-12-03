@@ -1,1 +1,0 @@
-lar[94796]=`<b>συν·ανθρωπέω-ῶ</b>, vivre au milieu des hommes, de la vie de tout le monde, PLUT. <i>M. 823b ;</i> PORPH. <i>Abst. 1, 14, 20 ; 3, 9</i>.`

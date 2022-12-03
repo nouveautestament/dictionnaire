@@ -1,1 +1,0 @@
-lar[104174]=`<b>ὑπο·χορεύω</b>, danser sous, <i>dat</i>. NICÉPH. <i>1, 522 W</i>.`

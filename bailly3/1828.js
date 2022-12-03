@@ -1,1 +1,0 @@
-lar[1828]=`<font color="darkgreen">(<i>seul. prés</i>. ANTH. <i>9, 674</i> ; CALL. <i>fr. 19, 211, etc. ; impf</i>. ἠέρταζον, A.RH. <i>1, 738, etc., et ao. opt. 3 sg. poét</i>. ἀερτάσσειε, NONN. <i>D. 43, 99</i>)</font> soulever.<p><b>Étym</b>. ἀείρω.`

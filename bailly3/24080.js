@@ -1,1 +1,0 @@
-lar[24080]=`amollir par l’attouchement, <i>d’où simpl</i>. pratiquer des attouchements sur, <i>acc</i>. EUB. <i>3, 262 Meineke</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. AR. <i>Eq. 24</i>.<p><b>Étym</b>. <i>cf</i>. δέψω.`

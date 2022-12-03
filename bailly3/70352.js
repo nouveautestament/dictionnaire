@@ -1,1 +1,0 @@
-lar[70352]=`<b>ή, όν</b>, qui a coutume d’habiter, qui réside volontiers, ARSTT. <i>H.A. 1, 1, 27</i>.<p><b>Étym</b>. οἰκέω.`

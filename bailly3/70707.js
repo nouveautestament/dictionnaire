@@ -1,1 +1,0 @@
-lar[70707]=`<b>οἰστρ·ήλατος, ος, ον</b> <font color="purple">[ᾰ]</font> tourmenté par la piqûre d’un taon, <i>d’où fig</i>. furieux, affolé, ESCHL. <i>Pr. 580</i>.<p><b>Étym</b>. οἶστρος, ἐλαύνω.`

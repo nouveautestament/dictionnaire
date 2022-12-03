@@ -1,1 +1,0 @@
-lar[21139]=`<i>adv</i>., avec gangrène, de nature gangréneuse, ORIB. <i>158</i>.`

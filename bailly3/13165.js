@@ -1,1 +1,0 @@
-lar[13165]=`<b>ἀπο·πτοέω-οῶ</b>, effrayer, effaroucher, POL. <i>3, 53, 10</i>.<p>➳ <i>Poét</i>. -πτοιέω, POÈT. (PLUT. <i>M. 1129e</i>).`

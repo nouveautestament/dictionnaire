@@ -1,1 +1,0 @@
-lar[87597]=`<b>ῶνος (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. Πυθώ, IL. <i>2, 519</i> ; HH. <i>Merc. 178</i> ; PD. <i>O. 6, 81</i> ; SOPH. <i>O.R. 152</i> ; AR. <i>Ran. 658, etc</i>.`

@@ -1,1 +1,0 @@
-lar[23884]=`<b>οῦ (ὁ)</b> Dexaménos, <i>h</i>. CALL. <i>Del. 4, 102</i> ; DH. <i>1, 50 ; etc</i>.`

@@ -1,1 +1,0 @@
-lar[105418]=`<b>ου (τὸ)</b> <font color="purple">[φῐ]</font> sorte de cataplasme, <i>inventé par Philagrios,</i> A. TR. <i>1, 14</i>.<p><b>Étym</b>. <i>v</i>. Φιλάγριος.`

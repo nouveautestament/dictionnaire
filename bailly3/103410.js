@@ -1,1 +1,0 @@
-lar[103410]=`<b>ου (τὸ)</b> <font color="purple">[ᾱρῐδ]</font> support d’un petit cratère, HDT. <i>1, 25</i> ; PHILSTR. <i>247</i>.<p>➳ <i>Ion</i>. ὑποκρητηρίδιον, HDT. <i>l. c</i>.`

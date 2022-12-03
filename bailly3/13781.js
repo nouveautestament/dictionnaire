@@ -1,1 +1,0 @@
-lar[13781]=`<b>ἀπο·χαλκίζω</b> <font color="darkgreen">(<i>ao</i>. ἀπεχάλκισα)</font> dépouiller de son argent, ANTH. <i>11, 283</i>.<p><b>Étym</b>. ἀ. χαλκός.`

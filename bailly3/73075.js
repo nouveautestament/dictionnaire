@@ -1,1 +1,0 @@
-lar[73075]=`<b>ὀρτυγοκοπέω-ῶ</b> <font color="purple">[ῠ]</font> abattre <i>ou</i> tuer des cailles, <i>amusement des jeunes désœuvrés, à Athènes,</i> PLUT. <i>M. 34d</i>.<p><b>Étym</b>. ὀρτυγοκόπος.`

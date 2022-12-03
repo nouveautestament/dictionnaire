@@ -1,1 +1,0 @@
-lar[57474]=`<b>ου (τὸ)</b> machine à épuisement pour vider la sentine d’un navire, ATH. <i>208f</i>.<p><b>Étym</b>. κόχλος.`

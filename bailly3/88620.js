@@ -1,1 +1,0 @@
-lar[88620]=`<b>ῶν (αἱ)</b> <font color="purple">[ῑ]</font> les monts Rhipes, Rhipées <i>ou</i> Rhiphées, <i>mt. fabuleuses de la région hyperboréenne, au N. de la Scythie,</i> ALCM. <i>58</i> ; ESCHL. <i>fr. 66</i> ; ARSTT. <i>Meteor. 1, 13, 19</i>.<p><b>Étym</b>. ῥιπή, <i>litt</i>. montagnes d’où s’échappent des ῥιπαὶ ἀνέμων.`

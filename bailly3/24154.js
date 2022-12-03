@@ -1,1 +1,0 @@
-lar[24154]=`<b>*Δηλο·γενής</b>, <i>seul. dor</i>. <b>Δαλο·γενής, ής, ές</b> <font color="purple">[ᾱ]</font> né à Dèlos, POÈT. (ARSTT. <i>Rhet. 3, 8).</i><p><b>Étym</b>. Δῆλος, γεν- <i>de</i> γίγνομαι.`

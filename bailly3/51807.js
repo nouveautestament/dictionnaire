@@ -1,1 +1,0 @@
-lar[51807]=`<font color="darkgreen">(<i>impf. 3 sg. poét</i>. κάρκαιρε)</font> résonner, retentir, IL. <i>20, 157</i>.`

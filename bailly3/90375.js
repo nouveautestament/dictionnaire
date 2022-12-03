@@ -1,1 +1,0 @@
-lar[90375]=`<b>ῶν (οἱ)</b> les Sindianes, <i>pple scythe,</i> LUC. <i>Tox. 55</i>.`

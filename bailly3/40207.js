@@ -1,1 +1,0 @@
-lar[40207]=`<b>ἐργοδοτέω-ῶ</b>, donner un travail à faire, APD. COM. <i>fr. 10</i>.<p><b>Étym</b>. ἐργοδότης.`

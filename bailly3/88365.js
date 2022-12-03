@@ -1,1 +1,0 @@
-lar[88365]=`<b>εος-ους (τὸ) :<br>   I</b> membre, <i>au pl</i>. IL. <i>16, 856 ; 22, 68, 362, etc.</i> ; THCR. <i>Idyl. 23, 39</i>.<br><b>   II</b> <i>p. ext.</i> :<br><b>      1</b> le corps entier, LYC. <i>173</i>.<br><b>      2</b> visage, air, aspect, SOPH. <i>Ant. 529</i> ; EUR. <i>H.f. 1204,</i> THCR. <i>Idyl. 29, 16</i>.`

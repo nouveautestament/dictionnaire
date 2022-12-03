@@ -1,1 +1,0 @@
-lar[95099]=`<b>συν·διαιτάω-ῶ</b>, régler un différend ensemble, THÉM. <i>146b.</i><br><b><i>Moy.</i></b> habiter <i>ou</i> vivre avec : τινι, PLUT. <i>Num. 4</i> ; μετά τινος, PLAT. <i>Tim. 18b</i>, avec qqn ; <i>abs</i>. THC. <i>2, 50</i> ; PLAT. <i>Leg. 929d ;</i> ISOCR. <i>Antid. § 87</i>.`

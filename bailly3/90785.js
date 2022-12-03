@@ -1,1 +1,0 @@
-lar[90785]=`injurier, outrager, AR. <i>Eq. 822</i>.<p><b>Étym</b>. σκέρβολος.`

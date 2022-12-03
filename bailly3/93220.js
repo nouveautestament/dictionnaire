@@ -1,1 +1,0 @@
-lar[93220]=`<font color="purple">[ᾰ]</font> en termes précis comme ceux d’un contrat, PLAT. <i>Phæd. 102d</i>.`

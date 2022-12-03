@@ -1,1 +1,0 @@
-lar[56284]=`<b>ης (ἡ)</b> démangeaison, SPT. <i>Deut. 28, 27</i>.<p><b>Étym</b>. κνάω.`

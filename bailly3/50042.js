@@ -1,1 +1,0 @@
-lar[50042]=`<b>ἰχθυ·βόλος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui harponne le poisson, ESCHL. <i>Sept. 133</i> ; ANTH. <i>6, 23 ; subst</i>. ὁ ἰχθ. pêcheur, ANTH. <i>7, 295, etc.</i><br><b>      2</b> harponné, péché, OPP. <i>H. 3, 18</i> ; ANTH. <i>6, 24</i>.<p><b>Étym</b>. ἰ. βάλλω.`

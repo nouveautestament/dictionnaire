@@ -1,1 +1,0 @@
-lar[16322]=`<b>ἀστρο·κυκλόεις, εσσα, εν</b>, où les astres se déroulent en cercle, MAN. <i>4, 167</i>.`

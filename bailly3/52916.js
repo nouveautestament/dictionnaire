@@ -1,1 +1,0 @@
-lar[52916]=`<b>κατα·νίζω</b> (<i>seul. prés</i>.) laver de fond en comble, HPC. <i>881g, etc.</i> ; PHÉRÉCR. (ATH. <i>484a</i>).`

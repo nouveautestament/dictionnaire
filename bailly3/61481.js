@@ -1,1 +1,0 @@
-lar[61481]=`<b>ου (ὁ) :<br>      1</b> Longos (Longus) <i>écrivain grec</i>.<br><b>      2</b> <i>autre,</i> ANTH. <i>6, 191</i>.`

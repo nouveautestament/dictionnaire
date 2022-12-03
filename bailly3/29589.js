@@ -1,1 +1,0 @@
-lar[29589]=`<b>ἐγ·καταχώννυμι</b>, amonceler sur, couvrir d’un monceau, <i>dat</i>. DH. <i>9, 21</i> ; M. ANT. <i>7, 10</i> ; GEOP. <i>4, 3, 3</i>.<p><b>Étym</b>. ἐν, κ.`

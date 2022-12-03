@@ -1,1 +1,0 @@
-lar[718]=`<b>ἀγλαο·φαρής, ής, ές</b> <font color="purple">[φᾱ]</font> au brillant vêtement, SIB. <i>3, 454</i>.<p><b>Étym</b>. ἀ. φᾶρος.`

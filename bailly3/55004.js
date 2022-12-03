@@ -1,1 +1,0 @@
-lar[55004]=`<b>κερο·τυπέω-ῶ</b> <font color="purple">[ῠ]</font> frapper comme avec des cornes, ESCHL. <i>Ag. 655</i>.<p><b>Étym</b>. κέρας, τύπτω.`

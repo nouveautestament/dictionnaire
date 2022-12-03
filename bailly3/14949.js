@@ -1,1 +1,0 @@
-lar[14949]=`<b>ἀρνεο·θοίνης, ου (ὁ)</b> qui festine avec de la viande d’agneau, A. PL. <i>235</i>.<p><b>Étym</b>. ἀρήν, θοίνη.`

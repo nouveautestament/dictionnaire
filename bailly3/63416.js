@@ -1,1 +1,0 @@
-lar[63416]=`<b>μεγαλό·πτωχος, ος, ον</b> <font color="purple">[ᾰ]</font> misérable, mendiant, STOB. <i>Fl. 53</i>.`

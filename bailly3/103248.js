@@ -1,1 +1,0 @@
-lar[103248]=`<b>ὑπο·θεραπεύω</b> <font color="purple">[ᾰ]</font> avoir quelque respect <i>ou</i> quelques égards pour, <i>acc</i>. PHILSTR. <i>V. Ap. 4, 40 ; 181</i> ; MEMN. <i>24</i>.`

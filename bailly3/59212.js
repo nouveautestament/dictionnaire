@@ -1,1 +1,0 @@
-lar[59212]=`<b>κωμῳδο·ποιός, οῦ (ὁ)</b> auteur comique, PLAT. <i>Ap. 18d, etc.</i> ; ARSTT. <i>Rhet. 3, 3 ; Poet. 4</i>.<p><b>Étym</b>. κωμῳδία, ποιέω.`

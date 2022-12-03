@@ -1,1 +1,0 @@
-lar[16891]=`<b>ἀ·τόξευτος, ος, ον</b>, hors de la portée des traits, PLUT. <i>M. 326e</i>.<p><b>Étym</b>. ἀ, τοξεύω.`

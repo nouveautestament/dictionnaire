@@ -1,1 +1,0 @@
-lar[50854]=`<b>κακο·σκηνής, ής, ές</b> <font color="purple">[ᾰ]</font> au corps difforme, laid, ANTH. <i>7, 401</i>.<p>➳ <i>Gén. épq</i>. κακοσκήνευς.<p><b>Étym</b>. κ. σκῆνος.`

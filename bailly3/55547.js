@@ -1,1 +1,0 @@
-lar[55547]=`<b>κιό·κρανον, ου (τὸ)</b> <font color="purple">[ῑᾱ]</font> <i>p. dissimil. p</i>. κιονόκρανον, XÉN. <i>Hell. 4, 4, 5</i> ; PLAT. COM. <i>2-2, 641 Mein</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>1, 322, a, I, 29 (409 av. J.-C.) ; v. Meisterh. p. 92, 15</i>.`

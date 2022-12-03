@@ -1,1 +1,0 @@
-lar[15209]=`<b>(ὁ)</b> Arsaménès, <i>Perse,</i> HDT. <i>7, 68</i>.`

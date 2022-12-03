@@ -1,1 +1,0 @@
-lar[20685]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰῠ]</font> courte existence, ARSTT. <i>Probl. 34, 10 ; en parl. de plantes,</i> TH. <i>H.P. 4, 13, 1</i>.<p><b>Étym</b>. βραχύβιος.`

@@ -1,1 +1,0 @@
-lar[65341]=`<b>ή, όν</b>, qui a l’habitude d’allonger (les voyelles) DYSC. <i>Adv. p. 577, 26</i>.<p><b>Étym</b>. μηκύνω.`

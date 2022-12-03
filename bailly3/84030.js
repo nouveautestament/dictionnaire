@@ -1,1 +1,0 @@
-lar[84030]=`<b>προ·εγχρίω</b> <font color="purple">[ῑ]</font> enduire auparavant, DIOSC. <i>Par. 2, 20</i>.`

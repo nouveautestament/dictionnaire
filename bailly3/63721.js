@@ -1,1 +1,0 @@
-lar[63721]=`<b>α, ον</b>, moindre, A.RH. <i>2, 368</i> ; ANTH. <i>14, 41</i> ; MAN. <i>2, 147, etc</i>.<p><b>Étym</b>. <i>cp. formé de</i> μείων.`

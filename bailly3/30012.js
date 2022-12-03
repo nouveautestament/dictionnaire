@@ -1,1 +1,0 @@
-lar[30012]=`<b>ή, όν :<br>      1</b> mangé, SOPH. <i>Ant. 206</i> ; consumé, SOPH. <i>Tr. 677</i>.<br><b>      2</b> mangeable, ARSTT. <i>Pol. 7, 2, 15</i> ; τὰ ἐδεστά, PLAT. <i>Tim. 72e</i>, les aliments solides.<p><b>Étym</b>. <i>vb. de</i> ἔδω.`

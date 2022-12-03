@@ -1,1 +1,0 @@
-lar[10660]=`<b>ἀντ·οφείλω</b>, devoir à son tour <i>ou</i> en retour, THC. <i>2, 40</i>.`

@@ -1,1 +1,0 @@
-lar[102228]=`<b>ὑπερ·αγορέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ὑπερηγόρουν)</font> <font color="purple">[ᾰ]</font> <i>c</i>. ὑπεραγορεύω SYN. <i>Provid. p. 43, 19</i>.`

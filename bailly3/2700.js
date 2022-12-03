@@ -1,1 +1,0 @@
-lar[2700]=`<b>αἰνό·μορος, ος, ον</b>, au funeste destin, IL. <i>22, 481</i> ; OD. <i>9, 53</i> ; ESCHL. <i>Sept. 904</i>.<p><b>Étym</b>. αἰν. μόρος.`

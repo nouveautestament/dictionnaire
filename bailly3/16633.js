@@ -1,1 +1,0 @@
-lar[16633]=`<b>ἀσωματόω-ῶ</b> <font color="purple">[μᾰ]</font> rendre incorporel, ZOS.<p><b>Étym</b>. ἀσώματος.`

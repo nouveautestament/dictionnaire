@@ -1,1 +1,0 @@
-lar[31300]=`<b>ἐκθεόω-εῶ :<br>      1</b> diviniser, EL. <i>N.A. 10, 23 et 28</i>.<br><b>      2</b> consacrer aux dieux, APP. <i>Civ. 3, 3</i>.<br><b><i>Moy.</i></b> se croire <i>ou</i> se déclarer dieu, EL. <i>V.H. 2, 19</i>.`

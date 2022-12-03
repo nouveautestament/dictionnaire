@@ -1,1 +1,0 @@
-lar[75448]=`<b>παρα·γλύφω</b> <font color="purple">[ῠ]</font><br><b>      1</b> creuser en grattant, HPC. <i>Fract. 773</i> ; GAL. <i>2, 461</i>.<br><b>      2</b> contrefaire un sceau, DS. <i>1, 78</i>.`

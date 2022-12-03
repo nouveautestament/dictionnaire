@@ -1,1 +1,0 @@
-lar[22105]=`<b>ης, ες</b>, gluant, visqueux, GEOP. <i>2, 6, 35 et 41 (ms</i>. γληνώδης) ; SCH.-NIC. <i>Th. 471</i> (γλίνη, matière gluante, SUID., -ωδης).`

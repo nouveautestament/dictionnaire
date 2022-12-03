@@ -1,1 +1,0 @@
-lar[18788]=`<b>βαθυ·πλόκαμος, ος, ον</b> <font color="purple">[ᾰυᾰ]</font> aux tresses épaisses, MOSCH. <i>2, 101</i> ; A.RH. <i>1, 742</i> ; ORPH. OPP.<p><b>Étym</b>. β. πλόκαμος.`

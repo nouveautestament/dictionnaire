@@ -1,1 +1,0 @@
-lar[73789]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. débitrice, EUR. <i>Rhes. 965</i>.<p><b>Étym</b>. <i>v</i>. ὀφειλέτης.`

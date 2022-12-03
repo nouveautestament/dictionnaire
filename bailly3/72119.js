@@ -1,1 +1,0 @@
-lar[72119]=`<b>ὀξυ·λίπαρον, ου (τὸ)</b> <font color="purple">[ῠῑᾰ]</font> sauce à la graisse et au vinaigre, TIMOCL. (ATH. <i>295b</i>).<p><b>Étym</b>. ὀ. λιπαρόν.`

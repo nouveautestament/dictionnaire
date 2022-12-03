@@ -1,1 +1,0 @@
-lar[57419]=`(<i>prés</i>.) étêter un arbre, TH. <i>H.P. 2, 2, 2</i>.<p><b>Étym</b>. κουρά.`

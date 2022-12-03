@@ -1,1 +1,0 @@
-lar[3169]=`<b>ἀ·κατάγνωστος, ος, ον :<br>      1</b> non condamné, acquitté, SPT. <i>2Macc. 4, 47</i>.<br><b>      2</b> non condamnable, NT. <i>Tit. 2, 8</i>.<p><b>Étym</b>. ἀ, καταγιγνώσκω.`

@@ -1,1 +1,0 @@
-lar[53257]=`<b>ατος (τὸ)</b> solidité d’une plante qui a pris racine, CHRYS. <i>5, 935</i>.<p><b>Étym</b>. καταρριζόω.`

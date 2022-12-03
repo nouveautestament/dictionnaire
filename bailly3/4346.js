@@ -1,1 +1,0 @@
-lar[4346]=`<b>Ἀλήϊον πεδίον (τὸ)</b> la plaine Alèion, <i>contrée de Lycie,</i> IL. <i>6, 201 ; de Cilicie,</i> HDT. <i>6, 95</i>.<p><b>Étym</b>. ἄλη <i>ou</i> ἀλήϊος.`

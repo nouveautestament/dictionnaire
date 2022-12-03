@@ -1,1 +1,0 @@
-lar[8322]=`<b>ἀνεμό·στροφος, ος, ον</b>, qui tournoie <i>ou</i> fait tournoyer au gré du vent, ANACR. <i>41, 14 conj</i>.<p><b>Étym</b>. ἄ. στρέφω.`

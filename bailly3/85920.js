@@ -1,1 +1,0 @@
-lar[85920]=`<b>προσ·κακοπαθέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> souffrir à l’occasion de, <i>dat</i>. NAZ.`

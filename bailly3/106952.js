@@ -1,1 +1,0 @@
-lar[106952]=`<b>οῦ (ὁ)</b> gardien, garde, EUR. <i>Ion 22, etc. ; au pl</i>. gardes, garnison, THC. <i>3, 6 ; 4, 25 ; 8, 108</i> ; XÉN. <i>Hell. 2, 3, 7, etc. ; joint à</i> φύλακες, PLAT. <i>Rsp. 560b ; mais différent de</i> φύλακες, ARSTT. <i>Pol. 2, 5, 20, etc</i>.<p><b>Étym</b>. <i>p</i>. *προhορός, <i>avec déplacement de l’aspiration ; v</i>. ὁράω.`

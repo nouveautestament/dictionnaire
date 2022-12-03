@@ -1,1 +1,0 @@
-lar[105147]=`<b>ας (ἡ)</b> constance à supporter la fatigue, APP. <i>Pr. 11 et 12, Celt. 3</i>.<p><b>Étym</b>. φερέπονος.`

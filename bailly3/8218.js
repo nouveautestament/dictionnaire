@@ -1,1 +1,0 @@
-lar[8218]=`<b>ἀν·είσοδος, ος, ον</b>, inaccessible, PLUT. <i>Dio. 7, Pyrrh. 29</i>.<p><b>Étym</b>. ἀν-, εἴσοδος.`

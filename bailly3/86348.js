@@ -1,1 +1,0 @@
-lar[86348]=`<b>ή, όν</b>, qui s’attribue, qui s’arroge, qui affecte, <i>gén</i>. PLAT. <i>Def. 416a ;</i> ARSTT. <i>Nic. 3, 7, 8</i>.<p><b>Étym</b>. προσποιέω.`

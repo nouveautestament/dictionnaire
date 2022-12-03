@@ -1,1 +1,0 @@
-lar[70452]=`<i>adv</i>., avec utilité pour une maison, une famille, DC. <i>56, 7</i>.<p><b>Étym</b>. οἰκωφελής.`

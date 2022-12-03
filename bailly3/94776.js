@@ -1,1 +1,0 @@
-lar[94776]=`<b>συν·αναχέω</b>, verser en même temps, HLD. <i>5, 16</i>.`

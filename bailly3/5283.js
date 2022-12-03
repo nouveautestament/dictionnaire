@@ -1,1 +1,0 @@
-lar[5283]=`<b>Ἀ·μάσητος, ου (ὁ)</b> À-jeun, <i>n. de parasite,</i> ALCIPHR. <i>3, 59</i>.<p><b>Étym</b>. <i>v</i>. ἀμάσητος.`

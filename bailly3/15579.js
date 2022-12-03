@@ -1,1 +1,0 @@
-lar[15579]=`<b>ἀρχί·βουλος, ου (ὁ)</b> chef du conseil, SUID.<p><b>Étym</b>. ἄ. βουλή.`

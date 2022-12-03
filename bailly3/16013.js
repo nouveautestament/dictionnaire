@@ -1,1 +1,0 @@
-lar[16013]=`<b>ἀ·σπάραγος</b>, <i>att</i>. <b>ἀσφάραγος, ου (ὁ)</b> <font color="purple">[πᾰᾰ]</font><br><b>      1</b> asperge, TH. PLUT. <i>etc.</i><br><b>      2</b> tige naissante, jeune pousse, NIC. <i>Th. 883</i> ; ANTH. <i>11, 325</i> ; GAL. TH. <i>etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

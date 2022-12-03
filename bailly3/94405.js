@@ -1,1 +1,0 @@
-lar[94405]=`<b>συμ·φαίνομαι</b>, paraître <i>ou</i> se montrer ensemble, EUN. <i>p. 18 Boiss</i>.`

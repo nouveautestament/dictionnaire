@@ -1,1 +1,0 @@
-lar[42258]=`<b>ή, όν</b>, qui se mesure en longueur, <i>t. de math</i>. NICOM. <i>Arithm. 44</i>.<p><b>Étym</b>. εὐθυμετρέω.`

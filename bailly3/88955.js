@@ -1,1 +1,0 @@
-lar[88955]=`<b>ου (τὸ)</b> <i>seul. lat</i>. rhytium, sorte de vase à boire, MART. <i>2, 35, 2</i>.<p><b>Étym</b>. <i>dim. de</i> ῥυτόν.`

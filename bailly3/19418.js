@@ -1,1 +1,0 @@
-lar[19418]=`<b>βδελλο·λάρυγξ, υγγος (ὁ)</b> <font color="purple">[λᾰ]</font> glouton insatiable, <i>litt</i>. gosier de sangsue, CRAT.<p><b>Étym</b>. βδέλλα, λ.`

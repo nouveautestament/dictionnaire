@@ -1,1 +1,0 @@
-lar[305]=`<b>ου</b> <font color="purple">[ᾰγμᾰ]</font> beau comme une statue, PHILSTR. <i>612</i>.<p><b>Étym</b>. ἄγαλμα.`

@@ -1,1 +1,0 @@
-lar[15830]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> qui respire avec peine, asthmatique, DIOSC. <i>1, 23</i> ; MAN. <i>4, 274</i>.<p><b>Étym</b>. ἆσθμα.`

@@ -1,1 +1,0 @@
-lar[30350]=`<b>ας (ἡ)</b> durée <i>ou</i> âge de vingt ans, PHIL. <i>2, 224</i> ; JOS. <i>A.J. 8, 5, 3</i>.<p><b>Étym</b>. εἰκοσαετής.`

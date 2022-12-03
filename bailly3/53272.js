@@ -1,1 +1,0 @@
-lar[53272]=`<b>ος, ον :<br>      1</b> qui penche, ORIB. <i>p. 236 Matthäi</i>.<br><b>      2</b> qui tend à baisser, HPC. <i>Epid. 1165b.</i><br><b>      3</b> <i>fig</i>. qui décroît, HPC. <i>48, 30 ; 49, 7</i>.<p><b>Étym</b>. καταρρέπω.`

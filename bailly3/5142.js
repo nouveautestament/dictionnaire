@@ -1,1 +1,0 @@
-lar[5142]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> facile à prendre <i>ou</i> à conquérir, THC. <i>6, 77</i>.<br><b>      2</b> facile à obtenir, SOPH. <i>O.R. 111</i>.<p>➳ <i>Fém</i>. -ός, PHIL.<p><b>Étym</b>. ἁλίσκομαι.`

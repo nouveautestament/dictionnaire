@@ -1,1 +1,0 @@
-lar[80759]=`<b>πλατυ·λίσγιον, ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> <i>dim. de</i> πλατυλίσγων HÉRON.`

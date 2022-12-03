@@ -1,1 +1,0 @@
-lar[45999]=`<font color="purple">[ᾰ]</font> <i>adv</i>., fermement, sûrement, NYSS. <i>2, 718</i>.<p><b>Étym</b>. ἀσφαλίζω.`

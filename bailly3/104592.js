@@ -1,1 +1,0 @@
-lar[104592]=`<b>φαγεσωρῖτις γαστήρ (ἡ)</b> ventre d’un glouton, ANON. (POLL. <i>6, 42).</i><p><b>Étym</b>. φαγέσωρος.`

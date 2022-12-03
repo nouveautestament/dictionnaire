@@ -1,1 +1,0 @@
-lar[80134]=`<b>ας (ἡ)</b> besace, sac de cuir, sac <i>ou</i> poche, <i>en gén</i>. OD. <i>13, 437 ; 17, 197, 357, 411, 466</i> ; AR. <i>Pl. 298, etc</i>.<p>➳ <i>Ion</i>. πήρη, OD. <i>ll. cc</i>.`

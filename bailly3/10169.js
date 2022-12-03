@@ -1,1 +1,0 @@
-lar[10169]=`<b>ας (ἡ)</b> compétition pour une charge, PLUT. <i>Arat. 35</i>.<p><b>Étym</b>. ἀντιπαραγγέλλω.`

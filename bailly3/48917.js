@@ -1,1 +1,0 @@
-lar[48917]=`<font color="purple">[ῑλ]</font> <i>adv</i>., à Ilion, IL. <i>8, 557, etc.</i> ; OD. <i>8, 581</i>.<p><b>Étym</b>. Ἴλιον, -θι.`

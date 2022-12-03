@@ -1,1 +1,0 @@
-lar[20652]=`<b>α (ὁ)</b> <font color="purple">[ᾰῐ]</font> Brasilas, <i>h</i>. THCR. <i>Idyl. 7, 11</i>.`

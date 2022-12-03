@@ -1,1 +1,0 @@
-lar[8107]=`<b>ἀνδρο·ποιός, ός, όν</b>, qui rend homme, qui forme les hommes, PLUT. <i>M. 334f</i>.<p><b>Étym</b>. ἀνήρ, ποιέω.`

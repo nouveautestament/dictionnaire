@@ -1,1 +1,0 @@
-lar[6111]=`<b>Ἀμφί·δοκος, ου (ὁ)</b> Amphidokos, <i>h</i>. HÉS. <i>fr. 77 Merkelbach-West</i>.<p><b>Étym</b>. ἀ. δέχομαι.`

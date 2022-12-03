@@ -1,1 +1,0 @@
-lar[15968]=`<i>adv</i>., sans déchirer, sans endommager, GAL. P. ÉG. <i>etc</i>.`

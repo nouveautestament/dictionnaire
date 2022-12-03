@@ -1,1 +1,0 @@
-lar[14879]=`<b>ἁρματο·τροχιά, ᾶς (ἡ)</b> <font color="purple">[μᾰ]</font> ornière, LUC. <i>Dem. enc. 23</i> ; EL. <i>N.A. 2, 37</i>.<p><b>Étym</b>. ἅρμα, τροχός.`

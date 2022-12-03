@@ -1,1 +1,0 @@
-lar[102556]=`<b>ὑπερ·ικταίνομαι</b> <font color="darkgreen">(<i>seul. impf. 3 pl</i>. ὑπερικταίνοντο)</font> aller en hâte <i>ou</i> vivement, s’empresser, OD. <i>23, 3</i>.<p><b>Étym</b>. ὑπέρ, ἱκνέομαι.`

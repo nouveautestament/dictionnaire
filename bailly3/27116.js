@@ -1,1 +1,0 @@
-lar[27116]=`<b>δι·υπνίζω :<br>      1</b> éveiller, EL. <i>N.A. 7, 45 ; 8, 22 ; 11, 22</i> ; ANTH. <i>9, 378</i>.<br><b>      2 <i>intr.</i></b> s’éveiller, LUC. <i>Oc. 108</i>.<br><b><i>Moy.</i></b> s’éveiller, DIOCL. (ORIB. <i>3, 168, 13 B.-Dar</i>.).<p><b>Étym</b>. διά, ὑ.`

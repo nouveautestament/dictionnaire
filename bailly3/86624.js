@@ -1,1 +1,0 @@
-lar[86624]=`<b>*προσφόριμος</b>, <i>dor</i>. <b>ποτιφόριμος, ος, ον</b>, avantageux, salutaire, EPICH. (ATH. <i>121b</i>).<p><b>Étym</b>. πρόσφορος.`

@@ -1,1 +1,0 @@
-lar[84734]=`<b>προ·μηνύω</b> <font color="purple">[ῡ]</font><br><b>      1</b> indiquer d’avance, PLUT. <i>Lys. 29</i>.<br><b>      2</b> dénoncer d’avance, SOPH. <i>Ant. 84</i> ; LUC. <i>M. cond. 3</i>.`

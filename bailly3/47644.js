@@ -1,1 +1,0 @@
-lar[47644]=`<b>α, ον</b>, <i>vb. de</i> τρέφω, PLAT. <i>Rsp. 403c ; au neutre,</i> XÉN. <i>Lac. 9, 5</i> ; PLAT. <i>Tim. 19a, etc</i>.`

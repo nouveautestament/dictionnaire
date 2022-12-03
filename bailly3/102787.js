@@ -1,1 +1,0 @@
-lar[102787]=`<b>ὑπερ·πώρωσις, εως (ἡ)</b> sorte de cal <i>ou</i> de grosseur qui se forme sur un membre après une fracture, P. ÉG. (CHIR. <i>p. 23 Cocch</i>.).<p><b>Étym</b>. ὑ. πωρόω.`

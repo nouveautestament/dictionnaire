@@ -1,1 +1,0 @@
-lar[32331]=`<b>ἔκ·φοβος, ος, ον</b>, épouvanté, ARSTT. <i>Physiogn. 6, 41</i> ; PLUT. <i>Fab. 6</i>.<p><b>Étym</b>. ἐκ, φόβος.`

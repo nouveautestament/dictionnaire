@@ -1,1 +1,0 @@
-lar[77864]=`<b>ίδος</b>, <i>adj. f.</i> : κόγχη, ATH. <i>4c ;</i> CLÉM. <i>164,</i> huître d’une grosseur énorme ; <i>subst</i>. ἡ πελωρίς, ALCIPHR. <i>1, 2, m. sign</i>.<p><b>Étym</b>. πέλωρ.`

@@ -1,1 +1,0 @@
-lar[44985]=`<b>ἡδύ·κωμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> sorte de danse (<i>propr</i>. qui égaie les festins) ATH. <i>618c</i>.<p><b>Étym</b>. ἡ. κῶμος.`

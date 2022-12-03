@@ -1,1 +1,0 @@
-lar[104354]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de tisser, CLÉM. <i>237</i>.<p><b>Étym</b>. ὑφαίνω.`

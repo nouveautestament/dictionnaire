@@ -1,1 +1,0 @@
-lar[37914]=`<b>ης (ἡ)</b> Épikastè, <i>autre n. de Iokastè (Jocaste), mère d’Œdipe,</i> OD. <i>11, 271</i> ; APD. <i>3, 5, 7</i> ; PAUS. <i>9, 5, 11 et 26, 3</i>.`

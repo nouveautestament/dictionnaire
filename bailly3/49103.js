@@ -1,1 +1,0 @@
-lar[49103]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. Jovianus, Jovien, <i>empereur romain,</i> ANTH. <i>App. 298</i>.`

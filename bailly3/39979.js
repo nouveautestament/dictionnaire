@@ -1,1 +1,0 @@
-lar[39979]=`<b>ἑπτακισ·μύριοι, αι, α</b> <font color="purple">[ᾰῡ]</font> soixante-dix mille, HDT. <i>4, 86</i> ; PLUT. <i>Demetr. 28</i>.`

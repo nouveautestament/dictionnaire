@@ -1,1 +1,0 @@
-lar[65018]=`<b>μετ·αυτίκα</b> <font color="purple">[ῐᾰ]</font> <i>adv</i>., aussitôt après, HDT. <i>2, 161 ; 5, 112</i>.`

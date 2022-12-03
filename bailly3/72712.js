@@ -1,1 +1,0 @@
-lar[72712]=`<b>ὀρθο·κάθεδρος, ος, ον</b> <font color="purple">[ᾰ]</font> assis droit sur son séant, P. ÉG. <i>6, 99</i>.<p><b>Étym</b>. ὀ. καθέδρα.`

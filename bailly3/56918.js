@@ -1,1 +1,0 @@
-lar[56918]=`<b>κοντό·χειρ, χειρος (ὁ, ἡ)</b> qui a la main petite, ANON. MED. <i>Physiogn. 25, 18</i>.<p><b>Étym</b>. κοντός², χείρ.`

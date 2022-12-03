@@ -1,1 +1,0 @@
-lar[59725]=`<b>(ὁ)</b> Lamprias, <i>h</i>. PLUT. <i>M. 385d, etc.</i> ; LUC. <i>D. mer. 3</i>.`

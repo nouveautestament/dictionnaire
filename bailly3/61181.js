@@ -1,1 +1,0 @@
-lar[61181]=`<b>λιμν·όστρεον, ου (τὸ)</b> huître comestible, <i>p. opp. à</i> ὄστρεον, crustacé bivalve, <i>en gén</i>. ARSTT. <i>H.A. 4, 6, 6 ; plur</i>. τὰ λ. ARSTT. <i>H.A. 5, 15 ; G.A. 3, 11,</i> parc <i>ou</i> banc d’huîtres, ARSTT. <i>H.A. 4, 4, 6</i>.<p><b>Étym</b>. λ. ὄστρεον.`

@@ -1,1 +1,0 @@
-lar[5908]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰῠᾱῐ]</font> les descendants d’Amythaôn, HÉS. <i>fr. 203, 2 Merkelbach-West, etc</i>.<p><b>Étym</b>. Ἀμυθάων.`

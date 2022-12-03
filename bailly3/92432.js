@@ -1,1 +1,0 @@
-lar[92432]=`<i>mauv. prononciation de</i> στέριφος <i>par un Scythe,</i> AR. <i>Th. 1185</i>.`

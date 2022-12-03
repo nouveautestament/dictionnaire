@@ -1,1 +1,0 @@
-lar[70434]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, compatissant, miséricordieux, THCR. <i>Idyl. 15, 75</i> ; ANTH. <i>7, 359, etc.</i> ; NT. <i>Luc. 6, 36 ; Jac. 5, 11</i>.<p><b>Étym</b>. οἰκτίρω.`

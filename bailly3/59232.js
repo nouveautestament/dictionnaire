@@ -1,1 +1,0 @@
-lar[59232]=`<b>(ὁ)</b> <i>c</i>. Κώνστας = <i>lat</i>. Constans, <i>n. d’h. rom</i>. PLUT. <i>Cic. 26</i>.`

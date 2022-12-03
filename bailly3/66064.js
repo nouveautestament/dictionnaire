@@ -1,1 +1,0 @@
-lar[66064]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font> aversion pour le travail, LUC. <i>Astr. 2</i>.<p><b>Étym</b>. μισόπονος.`

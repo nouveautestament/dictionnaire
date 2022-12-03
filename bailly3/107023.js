@@ -1,1 +1,0 @@
-lar[107023]=`<b>φυγ·ανθρωπεύω</b> <font color="purple">[ῠ]</font> fuir la société des hommes, ARÉT. <i>Caus. m. diut. 1, 6</i>.<p><b>Étym</b>. φ. ἄνθρωπος.`

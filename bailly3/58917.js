@@ -1,1 +1,0 @@
-lar[58917]=`<b>Κυπρο·γένεια, ας (ἡ) :<br>      1</b> <i>adj. f</i>. née à Chypre, <i>ép. d’Aphrodite,</i> AR. <i>Lys. 551</i> ; PANYAS. (ATH. <i>36d</i>).<br><b>      2</b> ἡ Κ. la déesse de Chypre, PLUT. <i>Artax. 28</i>.<p><b>Étym</b>. <i>fém. de</i> Κυπρογενής.`

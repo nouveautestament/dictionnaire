@@ -1,1 +1,0 @@
-lar[35116]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> intérieur, CLÉM. <i>1, 429 Migne</i> ; τὰ ἐντοσθίδια, HPC. <i>628, 41,</i> ARSTT. <i>P.A. 4, 9, 6,</i> les intestins, les entrailles.<p><b>Étym</b>. <i>cf</i>. ἐντόσθια.`

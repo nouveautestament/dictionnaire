@@ -1,1 +1,0 @@
-lar[95413]=`<b>συν·εκτελέω-ῶ</b>, achever <i>ou</i> accomplir avec <i>ou</i> en même temps, ARSTD. <i>t. 1, 442</i> ; amener à maturité, faire mûrir, TH. <i>C.P. 1, 13, 9</i>.`

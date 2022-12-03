@@ -1,1 +1,0 @@
-lar[93365]=`<b>συγ·κατασκευάζω</b>, aider à préparer, à établir, à se procurer, <i>acc</i>. THC. <i>1, 93</i> ; XÉN. <i>Lac. 8, 3 ; Vect. 4, 38</i> ; PLAT. <i>Pol. 274d, etc.</i> ; ISOCR. <i>27e, etc. ; avec double rég.</i> : τι σ. τινί, DÉM. <i>33, 4,</i> aider qqn à préparer qqe ch. ; <i>abs</i>. DÉM. <i>215, 27</i>.`

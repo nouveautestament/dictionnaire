@@ -1,1 +1,0 @@
-lar[37836]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> désir, IS. <i>26, 44</i>.<p><b>Étym</b>. ἐπιθυμέω.`

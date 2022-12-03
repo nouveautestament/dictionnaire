@@ -1,1 +1,0 @@
-lar[101299]=`<b>ίδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. d’Hyakinthos : Ὑ. ὁδός, ATH. <i>173f</i>, la route d’Hyakinthos, <i>qui traversait la Laconie</i> ; αἱ Ὑακινθίδες, les filles d’Hyakinthos <i>ou</i> d’Érekhthée, DÉM. <i>Or. 60, 27 Baiter-Sauppe</i>.<p><b>Étym</b>. Ὑάκινθος.`

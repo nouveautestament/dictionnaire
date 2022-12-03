@@ -1,1 +1,0 @@
-lar[10977]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> manque de bois, STR. <i>725</i>.<p><b>Étym</b>. ἄξυλος.`

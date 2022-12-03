@@ -1,1 +1,0 @@
-lar[84136]=`<b>προεμβατήριον γέρας (τὸ)</b> <font color="purple">[ᾰ]</font> récompense pour être monté le premier à l’abordage, HLD. <i>5, 31</i>.<p><b>Étym</b>. προεμβαίνω.`

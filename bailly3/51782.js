@@ -1,1 +1,0 @@
-lar[51782]=`<b>καρη·κομάω</b> <font color="purple">[κᾰ]</font> (<i>seul. part. prés. pl. épq</i>. καρηκομόωντες) à la tête chevelue, chevelus, <i>en parl. des Grecs,</i> IL. <i>2, 11, etc.</i> ; OD. <i>1, 90, etc.</i> ; κ. ἀκάνθαις, MATR. (ATH. <i>135a</i>) avoir des épines pour chevelure, <i>en parl. de hérissons</i>.<p><b>Étym</b>. κάρη, κομάω.`

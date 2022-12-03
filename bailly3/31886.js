@@ -1,1 +1,0 @@
-lar[31886]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de laver, NAZ. <i>2, 364a Migne</i>.<p><b>Étym</b>. ἐκπλύνω.`

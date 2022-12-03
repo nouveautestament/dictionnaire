@@ -1,1 +1,0 @@
-lar[89230]=`<b>ας (ἡ)</b> <font color="purple">[σᾰ]</font> navire de Samos, <i>sur les monnaies Samiennes,</i> PLUT. <i>Per. 20</i>.<p><b>Étym</b>. Σάμος.`

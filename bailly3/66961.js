@@ -1,1 +1,0 @@
-lar[66961]=`<b>ων (οἱ)</b> les Mopsopes, <i>anc. n. des Athéniens,</i> A. PL. <i>118, 8</i>.<p><b>Étym</b>. <i>v</i>. Μόψος.`

@@ -1,1 +1,0 @@
-lar[85161]=`<b>προσ·αναμένω</b>, attendre encore <i>ou</i> en outre, <i>acc</i>. DS. <i>15, 41 ; 16, 85</i>.`

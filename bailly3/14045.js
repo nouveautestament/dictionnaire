@@ -1,1 +1,0 @@
-lar[14045]=`<b>ἄ·πυργος, ος, ον</b>, sans tours, non fortifié de tours, EUR. <i>fr. 749</i>.<p><b>Étym</b>. ἀ, πύργος.`

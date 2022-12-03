@@ -1,1 +1,0 @@
-lar[65110]=`<b>μετ·εξέτεροι, αι, α</b>, <i>mot surtout ion</i>. quelques-uns, <i>propr</i>. « d’autres successivement », HDT. <i>1, 63, etc.</i> ; HPC. <i>759e, 817c, etc. ; sg. seul</i>. NIC. <i>Th. 588,</i> quelque autre.<p><b>Étym</b>. μ. ἐξ, ἕτερος.`

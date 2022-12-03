@@ -1,1 +1,0 @@
-lar[87812]=`<b>ου (ὁ)</b> Pyrétidès, <i>h</i>. IS. <i>3, 18 et 26 Baiter-Sauppe</i>.`

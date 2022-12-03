@@ -1,1 +1,0 @@
-lar[21742]=`<b>α (ὁ)</b> Géradatas, <i>Spartiate,</i> PLUT. <i>M. 228b</i>.`

@@ -1,1 +1,0 @@
-lar[50694]=`<b>κακοδαιμονάω-ῶ</b> <font color="purple">[κᾰ]</font> être inspiré par un mauvais génie, <i>d’où</i> être en démence, AR. <i>Pl. 372</i> ; XÉN. <i>Mem. 2, 1, 5</i> ; DIN. <i>101, 41, etc</i>.<p><b>Étym</b>. κακοδαίμων.`

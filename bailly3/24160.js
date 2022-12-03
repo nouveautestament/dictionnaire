@@ -1,1 +1,0 @@
-lar[24160]=`<b>ου (ἡ)</b> Dèlos (<i>auj</i>. Đílos) <i>une des Cyclades, avec un temple à Apollon,</i> OD. <i>9, 162</i> ; HH. <i>Ap. 16</i> ; HDT. <i>1, 64</i> ; THC. <i>1, 8 ; etc</i>.<p>➳ <i>Voc</i>. Δῆλε, CALL. <i>Hymn. 4, 260 ; mais</i> Δῆλος, HH. <i>Ap. 61</i>.`

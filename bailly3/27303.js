@@ -1,1 +1,0 @@
-lar[27303]=`<b>Διώξ·ιππος, ου (ὁ)</b> Diôxippos :<br><b>      1</b> <i>poète comique,</i> ATH. <i>100e, etc.</i><br><b>      2</b> <i>autres,</i> EL. <i>V.H. 10, 22 ; 12, 58</i> ; PLUT. <i>etc</i>.`

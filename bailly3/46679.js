@@ -1,1 +1,0 @@
-lar[46679]=`<b>θεο·κρασία, ας (ἡ)</b> <font color="purple">[ᾱσ]</font> union avec la divinité, JAMBL. <i>V. Pyth. 240</i>.<p><b>Étym</b>. θ. κεράννυμι.`

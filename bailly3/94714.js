@@ -1,1 +1,0 @@
-lar[94714]=`<b>συν·ανακίρνημι</b>, <i>c</i>. συνανακεράννυμι, SEXT. <i>P. 3, 59</i> ; HÉRON <i>Spir. p. 148d.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. NYSS. <i>8, 2, p. 19 Mai Coll. Vat</i>.`

@@ -1,1 +1,0 @@
-lar[31131]=`<b>ἐκ·γαμίζω</b> <font color="purple">[ᾰ]</font> (<i>prés. inf</i>.) donner en mariage, NT. <i>Matth. 22, 30 ; 24, 38</i>.<p><b>Étym</b>. ἐκ, γάμος.`

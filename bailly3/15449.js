@@ -1,1 +1,0 @@
-lar[15449]=`<b>ης (ἡ)</b> Artystônè, <i>femme de Darius, fils d’Hystaspe,</i> HDT. <i>3, 88 ; 7, 69</i>.`

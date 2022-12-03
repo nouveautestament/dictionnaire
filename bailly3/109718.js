@@ -1,1 +1,0 @@
-lar[109718]=`<b>ψευδο·πάτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> père mensonger <i>ou</i> supposé, CALL. <i>Cer. 99</i>.<p><b>Étym</b>. ψ. πατήρ.`

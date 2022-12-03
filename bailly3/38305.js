@@ -1,1 +1,0 @@
-lar[38305]=`<b>ος, ον</b>, répréhensible, LUC. <i>Rh. præc. 22</i> ; M. TYR. <i>98, 22</i> ; HERMOG. <i>Rhet. 182, 15</i>.<p><b>Étym</b>. ἐπίληπτος.`

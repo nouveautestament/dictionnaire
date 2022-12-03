@@ -1,1 +1,0 @@
-lar[87916]=`<b>πυρι·φλεγέθων</b> (<i>masc) et</i> <b>-ον</b> (<i>neutre), gén</i>. <b>οντος</b> <font color="purple">[ῠ]</font> aux flammes ardentes, AGÉSIANAX (PLUT. <i>M. 921b</i>).<p><b>Étym</b>. π. φλεγέθω.`

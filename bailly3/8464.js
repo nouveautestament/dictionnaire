@@ -1,1 +1,0 @@
-lar[8464]=`<b>ἀν·επίμονος, ος, ον</b>, qui ne persiste pas, PLUT. <i>M. 7b</i>.<p><b>Étym</b>. ἀν-, ἐπιμένω.`

@@ -1,1 +1,0 @@
-lar[9973]=`frapper sur l’os du devant de la jambe, SEXT. <i>M. 1, 217</i>.<p><b>Étym</b>. ἀντικνήμιον.`

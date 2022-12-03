@@ -1,1 +1,0 @@
-lar[39222]=`<b>ἐπι·συνάγω</b> <font color="purple">[ᾰ]</font> rassembler en outre, POL. <i>1, 75, 2 ; 5, 97, 3</i> ; SPT. <i>Gen. 6, 16 ; 38, 29 ; 2Par. 20, 26, etc.</i> ; NT. <i>Matth. 23, 37 ; au pass</i>. PLUT. <i>M. 894a</i>.`

@@ -1,1 +1,0 @@
-lar[101076]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de former, de modeler, RHÉT. <i>7, 1126 W</i>.`

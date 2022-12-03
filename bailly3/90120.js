@@ -1,1 +1,0 @@
-lar[90120]=`<b>ου (τὸ)</b> (<i>auj</i>. Segni) <i>v. du Latium,</i> PLUT. <i>Syll. 28</i>.`

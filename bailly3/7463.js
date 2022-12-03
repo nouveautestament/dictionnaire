@@ -1,1 +1,0 @@
-lar[7463]=`<b>ἀν·απόστρεπτος, ος, ον</b>, que l’on ne peut détourner <i>ou</i> retirer, SYMM. <i>Job 9, 13</i>.<p><b>Étym</b>. ἀν-, ἀποστρέφω.`

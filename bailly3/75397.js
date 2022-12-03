@@ -1,1 +1,0 @@
-lar[75397]=`<b>εως (ἡ)</b> abondance de pousses <i>ou</i> de rameaux, TH. <i>H.P. 5, 1, 8</i>.<p><b>Étym</b>. παραβλαστάνω.`

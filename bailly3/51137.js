@@ -1,1 +1,0 @@
-lar[51137]=`<b>καλλί·κοκκος, ος, ον</b> <font color="purple">[ῐ]</font> qui a de belles graines, TH. <i>C.P. 1, 9, 2</i>.<p><b>Étym</b>. κ. κόκκος.`

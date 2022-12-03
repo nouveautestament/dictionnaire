@@ -1,1 +1,0 @@
-lar[5799]=`<b>ος, ον :<br>      1</b> de vigne (feuille, cep, <i>etc</i>.) ARSTT. <i>P.A. 3, 5, 10</i> ; POL. <i>29, 11, 5, etc.</i> ; ἀ. οἶνος, HDT. <i>2, 37, etc</i>. vin de raisin (<i>p. opp. à</i> οἶν. κρίθινος).<br><b>      2</b> qui aime la vigne <i>ou</i> le vin, ANTH. <i>7, 384 (fém</i>. -ίνη).<p><b>Étym</b>. ἄμπελος.`

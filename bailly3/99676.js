@@ -1,1 +1,0 @@
-lar[99676]=`<b>      1</b> travailler au tour, tourner, EUR. <i>Cycl. 661</i> ; PLAT. <i>Theag. 124b ;</i> TH. <i>H.P. 4, 2, 7, etc. ; fig</i>. tourner (des vers) AR. <i>Th. 54</i>.<br><b>      2</b> tracer au compas, PLAT. <i>Criti. 113d, Ep. 342c, 343a.</i><br><b><i>Moy.</i></b> <i>c. à l’act</i>. 2, PLAT. <i>Tim. 33b</i>.<p><b>Étym</b>. τόρνος.`

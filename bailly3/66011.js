@@ -1,1 +1,0 @@
-lar[66011]=`<b>εως (ἡ) :<br>      1</b> action de prendre à gages <i>ou</i> à loyer, location, PLAT. <i>Soph. 219a, Leg. 759e ;</i> ISOCR. <i>146b.</i><br><b>      2</b> prix d’un loyer, DÉM. <i>960, 8, etc.</i> ; IS. <i>54, 27, etc</i>.<p><b>Étym</b>. μισθόω.`

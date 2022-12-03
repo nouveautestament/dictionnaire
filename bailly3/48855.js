@@ -1,1 +1,0 @@
-lar[48855]=`<b>ιδος</b>, <i>ou</i> <b>ἰκτίς, ίδος (ἡ)</b> fouine, <i>animal,</i> AR. <i>Ach. 880</i> ; ARSTT. <i>H.A. 9, 6, 11, etc</i>.`

@@ -1,1 +1,0 @@
-lar[61177]=`<b>λιμνό·βιος, ος, ον</b>, qui vit dans les étangs, EL. <i>N.A. 6, 10</i>.<p><b>Étym</b>. λίμνη, βίος.`

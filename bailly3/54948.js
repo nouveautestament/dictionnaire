@@ -1,1 +1,0 @@
-lar[54948]=`<b>ου (ἡ)</b> Kerkasôros, <i>v. d’Égypte,</i> HDT. <i>2, 15, 17, 97</i>.<p><b>Étym</b>. <i>touj. avec</i> πόλις.`

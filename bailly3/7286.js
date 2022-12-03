@@ -1,1 +1,0 @@
-lar[7286]=`<b>εως (ἡ)</b> action de dessécher, TH. <i>H.P. 3, 1, 2</i>.`

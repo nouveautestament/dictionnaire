@@ -1,1 +1,0 @@
-lar[94560]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui resserre, qui contracte, <i>en parl. de muscles,</i> HPC. <i>278, 35</i>.<br><b>      2</b> qui rassemble, LYS. <i>124, 13</i>.<br><b>      3</b> qui unit, qui concilie, PLAT. <i>Conv. 191d</i>.<p><b>Étym</b>. συνάγω.`

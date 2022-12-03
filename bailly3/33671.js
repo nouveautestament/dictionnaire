@@ -1,1 +1,0 @@
-lar[33671]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐμφαντικός, D. PHAL. <i>28, 11 ; avec un gén</i>. SEXT. <i>575 Bkk</i>.`

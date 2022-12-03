@@ -1,1 +1,0 @@
-lar[8023]=`<b>ἀνδρηλατέω-ῶ</b> <font color="purple">[λᾰ]</font> bannir un homme : ἐκ γῆς, ESCHL. <i>Ag. 1419,</i> de son pays ; <i>abs</i>. SOPH. <i>O.R. 100 ; au pass</i>. DC. <i>47, 19</i>.`

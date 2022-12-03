@@ -1,1 +1,0 @@
-lar[9126]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰῐ]</font> inégalité, PLAT. <i>Phæd. 74b, etc.</i> ; ARSTT. <i>Pol. 5, 1, 7, etc</i>.<p><b>Étym</b>. ἄνισος.`

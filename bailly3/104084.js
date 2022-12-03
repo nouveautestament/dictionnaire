@@ -1,1 +1,0 @@
-lar[104084]=`<b>ὑπο·φακώδης, ης, ες</b> <font color="purple">[ᾰ]</font> de la couleur d’une lentille, HPC. <i>1008h</i>.`

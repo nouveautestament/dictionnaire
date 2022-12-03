@@ -1,1 +1,0 @@
-lar[108801]=`<b>ίδος (ἡ)</b> celle qui conduit le chœur, <i>titre d’une comédie d’Alexis,</i> ATH. <i>287e</i>.<p><b>Étym</b>. <i>fém. de</i> χορηγός.`

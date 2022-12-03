@@ -1,1 +1,0 @@
-lar[84447]=`<b>προ·καταγελάω-ῶ</b>, se moquer auparavant, JUL. <i>182a</i>.`

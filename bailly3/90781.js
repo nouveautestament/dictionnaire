@@ -1,1 +1,0 @@
-lar[90781]=`<i>adv.</i> :<br><b>      1</b> avec réflexion, avec doute, PHIL. <i>1, 134</i> ; PLUT. <i>M. 990a, etc.</i><br><b>      2</b> à la façon des sceptiques, DL. <i>9, 71</i>.<p>•<i> Cp</i>. -ώτερον, SEXT. <i>M. 8, 295, etc</i>.`

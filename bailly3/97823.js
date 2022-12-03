@@ -1,1 +1,0 @@
-lar[97823]=`<i>crase att. p</i>. τὸ αὐτό, <i>neutre de</i> ὁ αὐτός.`

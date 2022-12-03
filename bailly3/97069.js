@@ -1,1 +1,0 @@
-lar[97069]=`<i>opt. ao.2 act. att. de</i> ἔχω.`

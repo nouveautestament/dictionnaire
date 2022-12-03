@@ -1,1 +1,0 @@
-lar[102636]=`<b>ὑπερ·μαίνομαι</b>, être par trop fou, AR. <i>Ran. 776</i>.`

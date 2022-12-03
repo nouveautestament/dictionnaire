@@ -1,1 +1,0 @@
-lar[96537]=`prendre un purgatif, se purger, HDT. <i>2, 77</i> ; EL. <i>N.A. 5, 46</i>.<p><b>Étym</b>. συρμαία.`

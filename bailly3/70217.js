@@ -1,1 +1,0 @@
-lar[70217]=`<b>ου (τὸ)</b> petit morceau de linge, TH. <i>H.P. 7, 3 ; p. suite</i> :<br><b>      1</b> bande de charpie, HPC. <i>680, 50</i> ; AR. <i>Ach. 1176</i>.<br><b>      2</b> voile, DÉM. <i>1145, 6</i> ; POL. <i>5, 89, 2</i>.<br><b>      3</b> tunique légère, LUC. <i>Philops. 34</i>.<p><b>Étym</b>. ὀθόνη.`

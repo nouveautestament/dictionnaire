@@ -1,1 +1,0 @@
-lar[32171]=`<b>ἐκ·τιτρώσκω</b> <font color="purple">[ῐ]</font><br><b>      1 <i>tr.</i></b> mettre au monde par avortement, DIOSC. <i>3, 64 ; 4, 2</i>.<br><b>      2 <i>intr.</i></b> avorter, HDT. <i>3, 32</i> ; HPC. <i>Aph. 1247</i> ; ARSTT. <i>H.A. 7, 4, 20</i>.`

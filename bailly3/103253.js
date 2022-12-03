@@ -1,1 +1,0 @@
-lar[103253]=`<b>ου (ὁ)</b> conseiller, instigateur, ANON. (SUID.).<p><b>Étym</b>. ὑποτίθημι.`

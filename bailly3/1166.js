@@ -1,1 +1,0 @@
-lar[1166]=`<b>ἀδαμαντό·δετος, ος, ον</b> <font color="purple">[ᾰδᾰ]</font> enfermé dans des liens d’acier, ESCHL. <i>Pr. 148, 426</i>.<p><b>Étym</b>. ἀδάμας, δέω¹.`

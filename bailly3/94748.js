@@ -1,1 +1,0 @@
-lar[94748]=`<b>συν·αναρριπτέω-ῶ</b>, lancer ensemble, LUC. <i>Zeux. 10</i>.`

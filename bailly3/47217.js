@@ -1,1 +1,0 @@
-lar[47217]=`<b>θηλυ·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῠῐ]</font> vêtu d’une robe de femme, ANTH. <i>6, 219</i> ; ORACL. (LUC. <i>Alex. 27).</i><p><b>Étym</b>. θ. χιτών.`

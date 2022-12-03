@@ -1,1 +1,0 @@
-lar[2160]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> temple d’Éaque, <i>à Égine,</i> PLUT. <i>Dem. 28, etc</i>.<p><b>Étym</b>. Αἴακος.`

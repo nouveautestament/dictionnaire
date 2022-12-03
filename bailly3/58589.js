@@ -1,1 +1,0 @@
-lar[58589]=`<b>κύκλ·ωψ, ωπος (ὁ, ἡ)</b> de forme (<i>litt</i>. d’apparence) ronde :<br><b>      1</b> κ. κούρη, EMPÉD. <i>227 Mullach,</i> la pupille de l’œil.<br><b>      2</b> au disque arrondi, PARMÉN. (CLÉM. <i>732).</i><p><b>Étym</b>. κύκλος, ὤψ.`

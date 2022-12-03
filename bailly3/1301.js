@@ -1,1 +1,0 @@
-lar[1301]=`<b>ἀ·δῄωτος, ος, ον</b>, non dévasté, non ravagé, XÉN. <i>Hell. 3, 1, 5</i>.<p><b>Étym</b>. ἀ, δῃόω.`

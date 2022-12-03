@@ -1,1 +1,0 @@
-lar[75423]=`<b>παρα·βόσκω</b>, nourrir en outre, EPHIPP. (<i>Com. fr. 3, 328</i>).`

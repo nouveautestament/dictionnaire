@@ -1,1 +1,0 @@
-lar[56796]=`<b>οῦ (ὁ) :<br>      1</b> qui prend soin de, EUR. <i>Suppl. 25</i>.<br><b>      2</b> qui porte, qui transporte, qui conduit, EUR. <i>Andr. 1268</i>.<p><b>Étym</b>. κομίζω.`

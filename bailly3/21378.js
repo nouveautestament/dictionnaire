@@ -1,1 +1,0 @@
-lar[21378]=`<font color="darkgreen">(<i>f</i>. αρῶ)</font> regorger de (<i>litt</i>. fourmiller <i>ou</i> grouiller de) <i>gén</i>. CRAT. AR. <i>et</i> SOPHR. (SCH.-AR. <i>Ach. 3).</i><p><b>Étym</b>. γάργαρα.`

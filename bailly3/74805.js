@@ -1,1 +1,0 @@
-lar[74805]=`<b>παν·άγαθος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> tout à fait bon, excellent, PLAT. <i>Ep. 354e</i>.<p>➳ <i>Fém</i>. -η, CRAT. (<i>Com. fr. 2, 212).</i><p><b>Étym</b>. π. ἀγαθός.`

@@ -1,1 +1,0 @@
-lar[31167]=`<b>ἐκ·δέρω</b> <font color="darkgreen">(<i>ao</i>. ἐξέδειρα) :</font><br><b>      1</b> enlever la peau, écorcher, EUR. <i>El. 824</i> ; XÉN. <i>An. 1, 2, 8</i> ; PLAT. <i>Euthyd. 301c.</i><br><b>      2</b> fouetter de manière à écorcher, HYPÉR. (POLL. <i>3, 79</i>) ; AR. <i>Vesp. 450 ; etc</i>.`

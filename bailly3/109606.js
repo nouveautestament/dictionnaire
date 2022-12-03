@@ -1,1 +1,0 @@
-lar[109606]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>forme postér. et moins bonne p</i>. ψακάς.`

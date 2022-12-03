@@ -1,1 +1,0 @@
-lar[106255]=`<b>φιλ·ῳδός, ός, όν</b> <font color="purple">[ῐ]</font> qui aime le chant, AR. <i>Vesp. 270, Ran. 241</i> ; PLUT. <i>M. 633a</i>.<p><b>Étym</b>. φίλος, ᾠδή.`

@@ -1,1 +1,0 @@
-lar[78824]=`<b>περι·κρεμάννυμι</b>, suspendre autour de <i>ou</i> à, <i>dat</i>. ANTH. <i>11, 66</i> ; NONN. <i>D. 26, 254</i>.`

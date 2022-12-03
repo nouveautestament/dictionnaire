@@ -1,1 +1,0 @@
-lar[18197]=`<b>ἀφορμιάω-ῶ</b> (<i>seul. prés</i>.) vouloir s’en aller, ARCHYT. (DL. <i>3, 22).</i><p><b>Étym</b>. ἀφορμή.`

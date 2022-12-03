@@ -1,1 +1,0 @@
-lar[23295]=`<b>δασμοφορέω-ῶ</b>, payer tribut, ESCHL. <i>Pers. 586 (prés</i>. -οῦσιν) ; <i>au pass</i>. être payé comme tribut, XÉN. <i>Cyr. 8, 6, 4 (prés</i>. -εῖται).<p><b>Étym</b>. δασμοφόρος.`

@@ -1,1 +1,0 @@
-lar[107167]=`<b>φυλλο·φόρος, ος, ον</b>, qui porte <i>ou</i> remporte des feuilles : φ. ἀγών, PD. <i>O. 8, 100, c</i>. φυλλίτης.<p><b>Étym</b>. φ. φέρω.`

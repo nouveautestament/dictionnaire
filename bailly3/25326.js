@@ -1,1 +1,0 @@
-lar[25326]=`<b>οῦ (ὁ)</b> <font color="purple">[λῑ]</font> adversaire politique, APP. <i>Iber. 8</i>.`

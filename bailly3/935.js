@@ -1,1 +1,0 @@
-lar[935]=`<b>ου (τὸ)</b> construction élevée par Hérode Agrippa, JOS. <i>B.J. 1, 21, 1</i>.`

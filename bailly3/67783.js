@@ -1,1 +1,0 @@
-lar[67783]=`<b>ναυσθλόω-ῶ</b>, transporter sur un navire, <i>acc</i>. EUR. <i>I.T. 1487</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> naviguer, faire une traversée, EUR. <i>Tr. 672, Hel. 1210</i>.<br><b>      2</b> monter sur un navire, s’embarquer, AR. <i>Pax 126</i>.<p><b>Étym</b>. ναῦς.`

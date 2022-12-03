@@ -1,1 +1,0 @@
-lar[69209]=`<b>α, ον</b>, qui concerne la fiancée <i>ou</i> le mariage, EUR. <i>Tr. 252</i>.<p><b>Étym</b>. νυμφευτήρ.`

@@ -1,1 +1,0 @@
-lar[60342]=`<b>λεοντο·τροφία, ας (ἡ)</b> action de nourrir des lions, EL. <i>N.A. 6, 8</i>.<p><b>Étym</b>. λ. τροφή.`

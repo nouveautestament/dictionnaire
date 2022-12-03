@@ -1,1 +1,0 @@
-lar[49261]=`<b>ἵππ·ερος, ου (ὁ)</b> folle passion pour les chevaux, AR. <i>Nub. 74</i>.<p>➳ <i>Formé c</i>. ἴκτερος, ὕδερος, <i>etc., avec jeu de mots sur</i> ἔρος, <i>c</i>. ἔρως.<p><b>Étym</b>. ἵ. ἔρως.`

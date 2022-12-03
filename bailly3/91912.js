@@ -1,1 +1,0 @@
-lar[91912]=`<b>ῆρος (ὁ) :<br>      1</b> étincelle, AR. <i>Pl. 1053</i> ; ARSTT. <i>Phys. 3, 5, 19, etc. ; fig</i>. AR. <i>Pax 609</i> ; POL. <i>18, 22, 2</i> ; ANTH. <i>12, 196</i>.<br><b>      2</b> scintillement d’étoile, IL. <i>4, 77 au pl</i>.<p><b>Étym</b>. <i>cf. lat</i>. scintilla.`

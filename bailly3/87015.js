@@ -1,1 +1,0 @@
-lar[87015]=`<b>προ·χειρουργέω-ῶ</b>, travailler <i>ou</i> préparer d’avance, JOS. <i>B.J. 4, 8, 3</i>.`

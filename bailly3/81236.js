@@ -1,1 +1,0 @@
-lar[81236]=`<b>ου (ὁ)</b> = <i>lat</i>. Pūblius, <i>n. d’h. rom</i>. ANTH. <i>App. 392</i>.`

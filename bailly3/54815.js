@@ -1,1 +1,0 @@
-lar[54815]=`<b>ου (τὸ)</b> marché à la poterie, DIN. (POLL. <i>7, 161).</i><p><b>Étym</b>. κεραμοπωλέω.`

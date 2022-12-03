@@ -1,1 +1,0 @@
-lar[20572]=`<b>βού·χιλος, ος, ον</b> <font color="purple">[ῑ]</font> nourrissant pour les bœufs, <i>ou, en gén.,</i> pour les troupeaux, ESCHL. <i>Suppl. 540</i> ; ANTH. <i>6, 108</i>.<p><b>Étym</b>. βοῦς, χιλός.`

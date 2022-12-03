@@ -1,1 +1,0 @@
-lar[47691]=`<b>ή, όν</b>, qui concerne le triomphe, PLUT. <i>Cato ma. 26</i>.<p><b>Étym</b>. θριαμβεύω.`

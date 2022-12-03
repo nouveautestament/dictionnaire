@@ -1,1 +1,0 @@
-lar[17309]=`<i>adv</i>., avec austérité, DH. <i>Dem. 55</i>.<p>•<i> Cp</i>. -ότερον, SPT. <i>2Macc. 14, 30</i>.`

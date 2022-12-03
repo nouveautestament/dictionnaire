@@ -1,1 +1,0 @@
-lar[92165]=`<b>στασιοποιέω-ῶ</b>, exciter une sédition, JOS. <i>A.J. 17, 5, 5</i>.<p><b>Étym</b>. στασιοποιός.`

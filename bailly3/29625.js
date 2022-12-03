@@ -1,1 +1,0 @@
-lar[29625]=`<b>εως (ἡ)</b> exhortation, STR. <i>13, 1, 35 Kram.</i> ; DYSC. <i>Synt. 258, 20</i> ; THÉM. <i>232b</i>.<p><b>Étym</b>. ἐγκελεύω.`

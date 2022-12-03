@@ -1,1 +1,0 @@
-lar[52531]=`<b>κατα·κηλιδόω-ῶ</b> <font color="purple">[ῑ]</font> salir, souiller, DC. <i>Exc. Vat. p. 168</i>.`

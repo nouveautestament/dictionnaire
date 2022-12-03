@@ -1,1 +1,0 @@
-lar[3431]=`<b>ἀ·κλήρωτος, ος, ον</b> :<br><b>      1</b> qui n’a pas sa part de, <i>gén</i>. PD. <i>O. 7, 59</i>.<br><b>      2</b> non distribué en lots, PLUT. <i>M. 231e.</i><br><b>      3</b> sans partage par le sort, DC. <i>fr. 62</i>.<p>➳ <i>Dor</i>. ἀκλάρωτος <font color="purple">[ᾱρ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. ἀ, κληρόω.`

@@ -1,1 +1,0 @@
-lar[92655]=`<font color="purple">[τῐ]</font> disposer par rangées, par vers, SPT. <i>Ezech. 42, 2</i>.<p><b>Étym</b>. στίχος.`

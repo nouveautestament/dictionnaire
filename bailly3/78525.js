@@ -1,1 +1,0 @@
-lar[78525]=`<b>περί·δημα, ατος (τὸ)</b> ce qu’on attache autour, bandeau, bandelette, D. CHR. <i>1, 628 Reiske</i>.<p><b>Étym</b>. περιδέω.`

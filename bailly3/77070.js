@@ -1,1 +1,0 @@
-lar[77070]=`<b>παρ·οξίζω</b>, avoir <i>ou</i> prendre un goût légèrement aigre, DIOSC. <i>1, 18</i>.`

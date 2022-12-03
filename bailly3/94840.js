@@ -1,1 +1,0 @@
-lar[94840]=`<b>συν·απελαύνω</b>, chasser <i>ou</i> faire disparaître ensemble, A. APHR. <i>Probl. 2, 35</i> ; ARÉT. <i>Cur. m. diut. 1, 5</i>.`

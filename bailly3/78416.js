@@ -1,1 +1,0 @@
-lar[78416]=`<b>περι·αυγής, ής, ές</b>, qui brille tout autour, de toutes parts, PHIL. <i>1, 631</i>.<p><b>Étym</b>. π. αὐγή.`

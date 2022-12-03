@@ -1,1 +1,0 @@
-lar[36778]=`<b>ἐπ·άρδω</b> (<i>prés</i>.) arroser, ARR. <i>An. 4, 6, 11 ; au pass</i>. T. LOCR. <i>102b ; fig</i>. LUC. <i>Anach. 26</i>.`

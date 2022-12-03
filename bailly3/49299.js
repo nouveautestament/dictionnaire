@@ -1,1 +1,0 @@
-lar[49299]=`<b>ἱππό·βινος, ου (ὁ)</b> <font color="purple">[ῑν]</font> <i>c</i>. ἱππόπορνος, <i>jeu de mots sur le nom</i> Ἱππόνικος, AR. <i>Ran. 429</i>.<p><b>Étym</b>. ἵ. βινέω.`

@@ -1,1 +1,0 @@
-lar[14418]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀρειμανής PLUT. <i>M. 321e ;</i> DL. <i>6, 61, etc</i>.`

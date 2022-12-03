@@ -1,1 +1,0 @@
-lar[63838]=`<b>ῶν (οἱ)</b> habitants du territoire de Mélandia, <i>en Thrace,</i> XÉN. <i>An. 7, 2, 32</i>.`

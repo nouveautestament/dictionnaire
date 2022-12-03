@@ -1,1 +1,0 @@
-lar[63762]=`<font color="purple">[ῠ]</font> chanter <i>ou</i> siffler comme la fauvette, HÉRON <i>Spir. p. 220</i>.<p><b>Étym</b>. μελαγκόρυφος.`

@@ -1,1 +1,0 @@
-lar[103856]=`<b>ὑπο·σπαίρω</b>, battre faiblement, <i>en parl. du pouls,</i> P. ÉG. <i>3, 71</i>.`

@@ -1,1 +1,0 @@
-lar[34410]=`<b>ἐν·εύδω</b>, dormir dans <i>ou</i> sur, <i>dat</i>. OD. <i>3, 350</i>.<p>➳ <i>Impf. poét. 3 sg</i>. ἐνεῦδεν, OD. <i>20, 95</i>.`

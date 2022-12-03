@@ -1,1 +1,0 @@
-lar[98669]=`<b>τετραρχέω-ῶ</b>, être tétrarque, NT. <i>Luc. 3, 1 ; au pass</i>. être gouverné par un tétrarque, HERMOG. <i>p. 268, 22</i>.<p><b>Étym</b>. τετράρχης.`

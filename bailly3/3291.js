@@ -1,1 +1,0 @@
-lar[3291]=`<b>Ἀκεσί·μβροτος, ου (ὁ)</b> Akésimbrotos, <i>médecin,</i> PLAT. <i>Crat. 394c</i>.`

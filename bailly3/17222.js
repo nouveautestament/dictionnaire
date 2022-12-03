@@ -1,1 +1,0 @@
-lar[17222]=`<b>ου (ὁ)</b> <i>transcr. du n. rom</i>. Aulus, POL. PLUT. <i>etc</i>.`

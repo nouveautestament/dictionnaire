@@ -1,1 +1,0 @@
-lar[63089]=`<b>μαστιγονομέομαι-οῦμαι</b> <font color="purple">[ῑ]</font> être sous l’autorité du μαστιγονόμος, DS. <i>Exc. Vat. p. 12</i>.`

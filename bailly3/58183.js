@@ -1,1 +1,0 @@
-lar[58183]=`<font color="purple">[ῠ]</font> <i>adv</i>., en cachette, en secret, ESCHL. <i>Pers. 370</i> ; SPT. <i>Jer. 37, 16, etc</i>.`

@@ -1,1 +1,0 @@
-lar[66978]=`<b>μυάω-ῶ</b> <font color="purple">[ῡ]</font> serrer les lèvres en signe de mécontentement, AR. <i>Lys. 126</i>.<p><b>Étym</b>. μύω.`

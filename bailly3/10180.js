@@ -1,1 +1,0 @@
-lar[10180]=`<b>ἀντι·παρακαλέω-ῶ</b> <font color="purple">[κᾰ]</font> conseiller en sens contraire, <i>avec</i> ἐπί <i>et l’acc</i>. THC. <i>6, 86</i> ; XÉN. <i>Cyr. 2, 2, 24</i> ; inviter à son tour, PLAT. <i>Gorg. 526e</i>.`

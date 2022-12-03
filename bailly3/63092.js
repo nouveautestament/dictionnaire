@@ -1,1 +1,0 @@
-lar[63092]=`<b>μαστιγο·φόρος, ος, ον</b> <font color="purple">[ῑ]</font> <i>propr</i>. qui porte un fouet :<br><b>      1</b> inspecteur de police armé d’un fouet pour écarter <i>ou</i> contenir la foule, THC. <i>4, 47</i> ; XÉN. <i>Cyr. 8, 3, 9, etc.</i><br><b>      2</b> Αἴας μ. Ajax porte-fouet, <i>titre d’une tragédie de Sophocle</i>.<p><b>Étym</b>. μάστιξ, φέρω.`

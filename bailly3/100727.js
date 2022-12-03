@@ -1,1 +1,0 @@
-lar[100727]=`<b>ου (ὁ)</b> dôme <i>ou</i> coupole, ANTH. <i>1, 110</i>.`

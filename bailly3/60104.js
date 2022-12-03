@@ -1,1 +1,0 @@
-lar[60104]=`<b>ου (τὸ)</b> canal, conduit d’eau, EUP. <i>428 Kock, vulg</i>. λίβηθρον.<p><b>Étym</b>. λείβω.`

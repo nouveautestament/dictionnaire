@@ -1,1 +1,0 @@
-lar[94018]=`<b>συμ·μονόομαι-οῦμαι</b>, rester seul avec, <i>dat</i>. JOS. <i>A.J. 3, 4, 1</i>.<p><b>Étym</b>. σ. μονόω.`

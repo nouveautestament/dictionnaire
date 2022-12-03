@@ -1,1 +1,0 @@
-lar[24912]=`<b>εως (ἡ)</b> action de briller au milieu de, <i>d’où</i> éclat, ARSTT. <i>Meteor. 2, 9, 19</i> ; P. ALEX. <i>Apot. 37, p. 99, l.8 Boer</i>.<p><b>Étym</b>. διαλάμπω.`

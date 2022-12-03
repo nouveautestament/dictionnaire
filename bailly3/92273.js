@@ -1,1 +1,0 @@
-lar[92273]=`<b>ου (τὸ) :<br>      1</b> couverture, ESCHL. <i>Ch. 984</i>.<br><b>      2</b> voiture couverte, fourgon, PLUT. <i>Crass. 3</i>.<br><b>      3</b> lieu <i>ou</i> meuble pour mettre en réserve, ANTIPH. (<i>Com. fr. 3, 27).</i><p><b>Étym</b>. στεγάζω.`

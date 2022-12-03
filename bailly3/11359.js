@@ -1,1 +1,0 @@
-lar[11359]=`<i>adv</i>., sans reculer, sans céder, POL. <i>5, 106, 5</i>.`

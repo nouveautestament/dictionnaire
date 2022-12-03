@@ -1,1 +1,0 @@
-lar[101401]=`<b>ὑγρο·κόμος, ος, ον</b>, à la chevelure humide, <i>càd</i>. aux eaux abondantes, <i>ép. du Phase,</i> SIB. <i>14, 139</i>.<p><b>Étym</b>. ὑ. κόμη.`

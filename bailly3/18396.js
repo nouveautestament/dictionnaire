@@ -1,1 +1,0 @@
-lar[18396]=`<font color="purple">[ᾰχ]</font> <i>adv</i>., d’Acharnes, ANAXANDR. (ATH. <i>131b</i>) ; ANTH. <i>6, 279</i>.`

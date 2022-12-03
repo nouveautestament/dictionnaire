@@ -1,1 +1,0 @@
-lar[14968]=`<b>ἀρνο·κόμης, ου (ὁ)</b> aux cheveux bouclés comme une toison d’agneau, MACR. <i>Sat. 1, 17</i>.<p><b>Étym</b>. ἀρήν, κόμη.`

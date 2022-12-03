@@ -1,1 +1,0 @@
-lar[87327]=`<b>πτερο·βάμων, ονος (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> qui glisse avec des ailes, <i>fig</i>. EMPÉD. <i>226 Sturz</i>.<p><b>Étym</b>. πτερόν, βαίνω.`

@@ -1,1 +1,0 @@
-lar[87955]=`<b>πυρο·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui lance du feu, PHIL. BYZ. <i>91</i>.<p><b>Étym</b>. πῦρ, φέρω.`

@@ -1,1 +1,0 @@
-lar[24564]=`<b>δι·αδικέω-ῶ</b> <font color="purple">[ᾰῐ]</font> (<i>part. prés</i>. -ούσης) commettre une grave injustice, DC. <i>58, 16</i>.<p><b>Étym</b>. διά, ἀδικέω.`

@@ -1,1 +1,0 @@
-lar[52457]=`<b>κατ·αισθάνομαι</b> <font color="darkgreen">(<i>ao.2 sbj. 3 sg</i>. καταίσθῃ)</font> s’apercevoir de, apprendre, <i>acc</i>. SOPH. <i>O.R. 422</i>.`

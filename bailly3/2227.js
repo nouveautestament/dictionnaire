@@ -1,1 +1,0 @@
-lar[2227]=`<b>ου (ὁ)</b> Ægias, <i>h</i>. PLUT. <i>Arat. 18 et 19</i>.`

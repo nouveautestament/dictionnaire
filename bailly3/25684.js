@@ -1,1 +1,0 @@
-lar[25684]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> déchirure, fente, HPC. <i>275, 1 ; 778d ;</i> GAL. <i>2, 371</i>.`

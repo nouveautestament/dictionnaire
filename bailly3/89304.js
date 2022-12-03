@@ -1,1 +1,0 @@
-lar[89304]=`<b>Σάνδιος λόφος (ὁ)</b> la Colline Sandios, <i>en Carie,</i> THC. <i>3, 19</i>.`

@@ -1,1 +1,0 @@
-lar[98343]=`<b>τερατο·λόγος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui raconte des histoires de choses extraordinaires, PHILSTR. <i>123</i>.<br><b>      2</b> au sujet de qui l’on raconte des choses prodigieuses, PLAT. <i>Phædr. 229e</i>.<p><b>Étym</b>. τέρας, λέγω.`

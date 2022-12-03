@@ -1,1 +1,0 @@
-lar[13314]=`<b>ατος (τὸ) :<br>      1</b> appui, point d’appui, ESCHL. <i>fr. 16</i>.<br><b>      2</b> abcès, GAL. <i>11, 116</i>.<p><b>Étym</b>. ἀποσκήπτω.`

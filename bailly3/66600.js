@@ -1,1 +1,0 @@
-lar[66600]=`<b>μονο·πείρας, ου</b>, <i>adj. m</i>. qui va seul à la recherche d’une proie, MÉN. (PHOT. <i>v°</i> μονοπείρας) ; ARSTT. <i>H.A. 8, 5</i>.<p><b>Étym</b>. μ. πειράω.`

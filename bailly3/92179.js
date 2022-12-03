@@ -1,1 +1,0 @@
-lar[92179]=`<b>ων (οἱ)</b> les Statales, NONN. <i>D. 13, 474</i>.`

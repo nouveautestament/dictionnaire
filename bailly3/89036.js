@@ -1,1 +1,0 @@
-lar[89036]=`<b>ου (ὁ)</b> <font color="purple">[σᾰ]</font> Sabazios, <i>divinité thraco-phrygienne, dont le nom fut donné plus tard à Bacchus,</i> AR. <i>Vesp. 9, Av. 875, Lys. 388</i> ; TH. <i>Char. 16, etc</i>.`

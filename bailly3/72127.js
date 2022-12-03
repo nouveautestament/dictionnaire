@@ -1,1 +1,0 @@
-lar[72127]=`<b>ὀξυ·μήνιτος, ος, ον</b> <font color="purple">[ῠῑ]</font> accompli dans un accès de fureur, ESCHL. <i>Eum. 472</i>.<p><b>Étym</b>. ὀ. μηνίω.`

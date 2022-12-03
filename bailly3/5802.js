@@ -1,1 +1,0 @@
-lar[5802]=`<b>ος, ον</b>, qui provient de la vigne, causé par le vin, <i>en parl. de l’ivresse,</i> PHIL. <i>1, 680</i>.<p><b>Étym</b>. ἄμπελος.`

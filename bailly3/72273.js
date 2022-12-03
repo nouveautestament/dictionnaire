@@ -1,1 +1,0 @@
-lar[72273]=`<b>ὀπισθο·βριθής, ής, ές</b> <font color="purple">[ρῑ]</font> pesant par derrière, ESCHL. <i>fr. 360</i>.<p><b>Étym</b>. ὄπισθε, βρίθω.`

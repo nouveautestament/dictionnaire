@@ -1,1 +1,0 @@
-lar[46668]=`<b>ου (ὁ)</b> Théokleidès, <i>h</i>. LYS. (POLL. <i>9, 39).</i><p>➳ <i>Par contr. att</i>. Θουκλείδης, <i>v. Meisterh. p. 57, § 26, 1</i>.<p><b>Étym</b>. <i>patr. de</i> Θεοκλῆς.`

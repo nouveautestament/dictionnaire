@@ -1,1 +1,0 @@
-lar[78402]=`<b>περι·αρμόζω :<br>      1</b> ajuster tout autour, PLAT. <i>Ax. 366a ;</i> τινί τι, PLUT. <i>Cam. 40,</i> une chose à une autre ; <i>au pass</i>. AR. <i>Eccl. 274</i>.<br><b>      2 <i>intr.</i></b> s’ajuster tout autour, ARSTT. <i>Mech. 21, 1</i>.`

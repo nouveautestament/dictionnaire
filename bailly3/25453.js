@@ -1,1 +1,0 @@
-lar[25453]=`<b>δια·ρρέπω</b> (<i>seul. prés</i>.) osciller, HPC. <i>Art. 822h</i>.`

@@ -1,1 +1,0 @@
-lar[84164]=`<b>εως (ἡ)</b> habitation antérieure, séjour antérieur, THC. <i>1, 25</i> ; DC. <i>53, 16</i>.<p><b>Étym</b>. προενοικέω.`

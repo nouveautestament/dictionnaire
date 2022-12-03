@@ -1,1 +1,0 @@
-lar[3673]=`<i>ion</i>. <b>ἀκρηχολίη, ης (ἡ)</b> irritation, emportement, HPC. <i>1212h</i>.<p><b>Étym</b>. ἀκράχολος ; <i>cf</i>. ἀκροχολία.`

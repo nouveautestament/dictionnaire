@@ -1,1 +1,0 @@
-lar[22225]=`<b>γλωσσο·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui explique les mots difficiles (d’une langue), ATH. <i>114b ;</i> GAL. <i>2, 92b</i>.<p><b>Étym</b>. γλῶσσα, γράφω.`

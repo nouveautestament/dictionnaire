@@ -1,1 +1,0 @@
-lar[19190]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> affliction profonde, PLUT. <i>M. 118b</i>.<p><b>Étym</b>. βαρυπενθής.`

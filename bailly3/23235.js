@@ -1,1 +1,0 @@
-lar[23235]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., avec prodigalité, SEXT. <i>P. 1, 230</i>.`

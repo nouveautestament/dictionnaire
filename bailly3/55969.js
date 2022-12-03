@@ -1,1 +1,0 @@
-lar[55969]=`<b>(οἱ)</b> <font color="purple">[ῠ]</font> fils <i>ou</i> descendants de Kléônymos, PD. <i>I. 4, 6</i>.<p><b>Étym</b>. <i>v</i>. Κλεώνυμος.`

@@ -1,1 +1,0 @@
-lar[72578]=`<b>άδος</b>, <i>adj. f</i>. de montagne, ANTH. <i>6, 219</i> ; NONN. <i>D. 19, 329, etc.</i> ; αἱ Ὀρειάδες, BION <i>1, 19,</i> nymphes des montagnes, Oréiades.<p><b>Étym</b>. ὄρος.`

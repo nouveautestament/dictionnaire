@@ -1,1 +1,0 @@
-lar[101743]=`<b>ὑλο·κουρός, οῦ (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> qui taille du bois, bûcheron, LYC. <i>1111</i>.<p><b>Étym</b>. ὕλη, κείρω.`

@@ -1,1 +1,0 @@
-lar[89991]=`<b>ου (τὸ)</b> Sèrangion, <i>endroit du Pirée où le roc était semé de crevasses,</i> AR. <i>fr. 173 Dind.</i> ; LYS. (HARP.) ; IS. <i>59, 30</i> ; ALCIPHR. <i>3, 40</i>.<p><b>Étym</b>. σῆραγξ.`

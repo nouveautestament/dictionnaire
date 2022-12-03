@@ -1,1 +1,0 @@
-lar[8916]=`<b>ου (τὸ)</b> nid de bourdons, AR. <i>Vesp. 1080, 1107 ; fig</i>. PHILSTR. <i>884</i>.<p><b>Étym</b>. ἀνθρήνη.`

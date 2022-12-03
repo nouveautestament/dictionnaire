@@ -1,1 +1,0 @@
-lar[15957]=`<b>ἄ·σκοπος, ος, ον</b>, qui n’atteint pas le but, DH. <i>8, 86</i> ; LUC. <i>Tox. 62</i>.<p><b>Étym</b>. ἀ, σκοπός.`

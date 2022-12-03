@@ -1,1 +1,0 @@
-lar[30423]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> le fils d’Élatos, <i>càd.</i> :<br><b>      1</b> Ægyptios, PD. <i>O. 6, 54</i>.<br><b>      2</b> Iskhys, PD. <i>P. 3, 55</i>.<br><b>      3</b> Polyphème, A.RH. <i>1, 41</i> ; ORPH. <i>Arg. 657</i>.<p>➳ <i>Dor</i>. -ας, α, PD. <i>ll. cc</i>.<p><b>Étym</b>. Ἔλατος.`

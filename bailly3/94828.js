@@ -1,1 +1,0 @@
-lar[94828]=`<b>συν·απαίρω</b>, lever la tente, <i>d’où</i> :<br><b>      1</b> partir avec, <i>dat</i>. LUC. <i>Bis acc. 27</i> ; EL. <i>V.H. 3, 36 ; abs</i>. DS. <i>5, 49, 59</i> ; LUC. <i>Tox. 18</i>.<br><b>      2</b> partir en même temps, ARSTT. <i>H.A. 8, 12, 11</i>.`

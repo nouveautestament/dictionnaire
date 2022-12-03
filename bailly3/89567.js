@@ -1,1 +1,0 @@
-lar[89567]=`<b>σαυρο·ειδής, ής, ές</b>, qui ressemble à un lézard, ARSTT. <i>H.A. 2, 11, 1</i>.<p><b>Étym</b>. σαύρα, εἶδος.`

@@ -1,1 +1,0 @@
-lar[99380]=`<b>ου (ὁ) :<br>      1</b> inscription, écriteau, NT. <i>Joh. 19, 20</i>.<br><b>      2</b> le supplice de la marque, RHÉT. <i>7, 1, p. 676, 18 W</i>.<p><b>Étym</b>. <i>lat</i>. titulus.`

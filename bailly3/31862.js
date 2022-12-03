@@ -1,1 +1,0 @@
-lar[31862]=`<b>ἐκ·πλεονάζω</b>, regorger, ARSTT. <i>Probl. 5, 14, 3</i>.`

@@ -1,1 +1,0 @@
-lar[35387]=`<b>ἐξ·αληθίζω</b> <font color="purple">[ᾰ]</font> dire la vérité, PROCL. (PHOT. <i>Bibl. p. 319, 26</i>).`

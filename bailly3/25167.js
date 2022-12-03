@@ -1,1 +1,0 @@
-lar[25167]=`<i>adv</i>., droit à travers, ANTYLL. (ORIB. <i>3, 618 B.-Dar</i>.).`

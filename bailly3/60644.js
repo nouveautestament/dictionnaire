@@ -1,1 +1,0 @@
-lar[60644]=`<b>λευκό·χρως, ωτος (ὁ, ἡ)</b> qui a la peau blanche, EUB. <i>3, 222 Meineke</i> ; ALEX. (<i>Com. fr. 3, 423</i>) ; THCR. <i>Idyl. 2, 1</i>.<p><b>Étym</b>. λ. χρώς.`

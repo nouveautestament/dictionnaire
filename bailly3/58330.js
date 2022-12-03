@@ -1,1 +1,0 @@
-lar[58330]=`<b>κυάν·αιγις, ιδος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> à la sombre égide (Pallas) PD. <i>O. 13, 100</i>.<p><b>Étym</b>. κυανός, αἰγίς.`

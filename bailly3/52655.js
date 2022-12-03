@@ -1,1 +1,0 @@
-lar[52655]=`<b>κατα·κτενίζω</b>, peigner avec soin, avec goût, DURIS (ATH. <i>525e</i>).`

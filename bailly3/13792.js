@@ -1,1 +1,0 @@
-lar[13792]=`<b>εως (ἡ)</b> action de détourner un cours d’eau, dérivation, PHIL. <i>1, 29</i>.<p><b>Étym</b>. ἀποχετεύω.`

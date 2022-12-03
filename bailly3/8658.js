@@ -1,1 +1,0 @@
-lar[8658]=`<b>ἄν·ηβος, ος, ον</b>, non encore dans l’âge de puberté, LYS. <i>142, 7</i> ; PLAT. <i>Leg. 833c ;</i> ARSTT. <i>H.A. 7, 1, etc</i>.<p>➳ <i>Dor</i>. ἄναβ- <font color="purple">[ᾱβ]</font> THCR. <i>Idyl. 5, 87</i>.<p><b>Étym</b>. ἀν-, ἥβη.`

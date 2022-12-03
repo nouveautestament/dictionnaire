@@ -1,1 +1,0 @@
-lar[88331]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite aiguille, poinçon, GAL. <i>Lex. Hipp. 19, 134 v°</i> ῥάφιον.<p><b>Étym</b>. ῥαφίς.`

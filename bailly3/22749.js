@@ -1,1 +1,0 @@
-lar[22749]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> propre à un gymnase, CIC. <i>Att. 1, 6</i>.<p><b>Étym</b>. γυμνάσιον, -ωδης.`

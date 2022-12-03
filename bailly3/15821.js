@@ -1,1 +1,0 @@
-lar[15821]=`<b>ἀσθενό·ρριζος, ος, ον</b>, aux racines faibles <i>ou</i> peu tenaces, TH. <i>C.P. 4, 14, 4</i>.<p><b>Étym</b>. ἀσθενής, ῥίζα.`

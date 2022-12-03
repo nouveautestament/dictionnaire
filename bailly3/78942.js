@@ -1,1 +1,0 @@
-lar[78942]=`<b>ου (ὁ)</b> qui habite alentour, IL. <i>24, 488</i> ; A.RH. <i>4, 470</i>.<p><b>Étym</b>. περιναίω.`

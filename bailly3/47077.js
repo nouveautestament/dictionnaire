@@ -1,1 +1,0 @@
-lar[47077]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> temple de Thétis, EUR. <i>Andr. 20</i>.<p><b>Étym</b>. Θέτις.`

@@ -1,1 +1,0 @@
-lar[64319]=`<b>έως (ὁ)</b> Ménesthée, <i>h</i>. IL. <i>2, 552, etc.</i> ; XÉN. <i>Cyn. 1, 2 ; etc</i>.<p>➳ <i>Formes épq. : gén</i>. ῆος, IL. <i>12, 373 ; 15, 331 ; dat</i>. ῆϊ, LYSIM. (SCH.-EUR. <i>Tr. 31) ; acc</i>. ῆα, IL. <i>5, 4, 327</i>.<p><b>Étym</b>. μένω, σθένος ; <i>pour la formation, cf</i>. Εὐρυσθεύς.`

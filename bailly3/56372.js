@@ -1,1 +1,0 @@
-lar[56372]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> κόγχη, DIOSC. <i>2, 9</i> ; ARÉT. <i>p. 106b</i>.`

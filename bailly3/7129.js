@@ -1,1 +1,0 @@
-lar[7129]=`<b>ἄν·αλος, ος, ον</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> sans sel, non salé, ARSTT. <i>Probl. 21, 5</i> ; PLUT. <i>M. 684f.</i><br><b>      2</b> qui ne sale pas, NT. <i>Marc. 9, 50</i>.<p><b>Étym</b>. ἀν-, ἅλς.`

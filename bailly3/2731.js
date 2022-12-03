@@ -1,1 +1,0 @@
-lar[2731]=`<b>(οἱ)</b> Éoliens, <i>une des 4 principales tribus helléniques</i>.<p>➳ <i>Nom. ion</i>. -έες, HDT. <i>1, 28 ; att</i>. -ῆς, THC. <i>7, 57 ; acc</i>. -έας, XÉN. <i>Cyr. 6, 2, 10 ; p. contr</i>. -εῖς, PAUS. <i>7, 5, 1 ; etc</i>.`

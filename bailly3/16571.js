@@ -1,1 +1,0 @@
-lar[16571]=`<b>ωνος (ὁ)</b> <font color="purple">[φᾰ]</font> Asphaliôn, <i>h</i>. OD. <i>4, 216</i> ; THCR. <i>etc</i>.`

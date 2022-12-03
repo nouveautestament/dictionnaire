@@ -1,1 +1,0 @@
-lar[94822]=`<b>συν·αξιόω-ῶ</b>, juger plusieurs personnes ensemble dignes de, <i>inf</i>. XÉN. <i>Cyr. 7, 1, 15</i>.`

@@ -1,1 +1,0 @@
-lar[34172]=`<b>ἐν·διακοσμέω-ῶ</b>, disposer avec ordre dans, <i>dat</i>. OCELL. <i>3, 1</i>.`

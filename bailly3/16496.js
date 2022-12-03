@@ -1,1 +1,0 @@
-lar[16496]=`<i>adv</i>., sans union, BAS.`

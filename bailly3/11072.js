@@ -1,1 +1,0 @@
-lar[11072]=`<b>έως (ὁ)</b> messager qui rapporte une réponse, MAN. <i>2, 263</i>.`

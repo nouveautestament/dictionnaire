@@ -1,1 +1,0 @@
-lar[84015]=`<b>προ·δυστυχέω-ῶ</b> <font color="purple">[τῠ]</font> être malheureux auparavant, ISOCR. <i>69e ;</i> DC. <i>48, 42</i>.`

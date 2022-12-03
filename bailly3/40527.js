@@ -1,1 +1,0 @@
-lar[40527]=`<b>ου (τὸ)</b> <font color="purple">[ρῐ]</font>, petit chevreau, ATHÉNION (ATH. <i>661b</i>) ; GAL. <i>7, 327</i> ; NT. <i>Matth. 25, 33</i>.<p><b>Étym</b>. <i>dim. de</i> ἔριφος.`

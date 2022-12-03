@@ -1,1 +1,0 @@
-lar[82130]=`<b>ος, ον</b>, de Polymnèstos : Πολυμνήστεια, CRAT. (<i>Com. fr. 2, 221</i>) ; AR. <i>Eq. 1287,</i> vers de Polymnèstos, <i>càd</i>. obscènes.<p><b>Étym</b>. Πολύμνηστος ; <i>cf</i>. *Πολυμνήστιος.`

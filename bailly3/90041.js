@@ -1,1 +1,0 @@
-lar[90041]=`<b>ων (τὰ)</b> sorte de lutte <i>chez les Argiens,</i> PLUT. <i>M. 1140c</i>.<p><b>Étym</b>. σθένος.`

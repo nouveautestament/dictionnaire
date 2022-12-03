@@ -1,1 +1,0 @@
-lar[107613]=`<b>ή, όν :<br>      1</b> qui concerne l’art de forger, XÉN. <i>Vect. 4, 6 ; subst</i>. ἡ χαλκευτική (<i>s.-e</i>. τέχνη) XÉN. <i>Œc. 1, 1</i> ; ARSTT. <i>P.A. 4, 6, 13 ; G.A. 5, 8, 12</i> ; DL. <i>3, 100,</i> l’art du forgeron.<br><b>      2</b> habile à forger, XÉN. <i>Mem. 1, 1, 7</i>.<p><b>Étym</b>. χαλκεύω.`

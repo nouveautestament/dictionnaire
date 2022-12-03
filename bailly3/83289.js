@@ -1,1 +1,0 @@
-lar[83289]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. πρατήρ, IS. <i>et</i> HYPÉR. <i>fr. 54 Blass</i>.`

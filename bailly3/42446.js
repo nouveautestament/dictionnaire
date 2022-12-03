@@ -1,1 +1,0 @@
-lar[42446]=`<i>adv</i>., glorieusement, ESCHL. <i>Pers. 328, Ag. 1304</i> ; EUR. <i>Alc. 292, etc.</i> ; XÉN. <i>An. 6, 3, 17, etc</i>.<p>•<i> Sup</i>. εὐκλεέστατα, XÉN. <i>Hipp. 1, 1</i>.<p><b>Étym</b>. εὐκλεής.`

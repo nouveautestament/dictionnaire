@@ -1,1 +1,0 @@
-lar[76331]=`<i>adv</i>., en observant, PROCL. <i>Ptol. 4, 105</i>.`

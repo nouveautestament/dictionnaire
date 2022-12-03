@@ -1,1 +1,0 @@
-lar[80444]=`<b>πισσίτης οἶνος (ὁ)</b> vin mêlé de poix <i>ou</i> de résine, DIOSC. <i>5, 48</i> ; STR. <i>202</i>.<p><b>Étym</b>. πίσσα.`

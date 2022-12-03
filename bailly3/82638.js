@@ -1,1 +1,0 @@
-lar[82638]=`<b>Πομπηϊου·πολίτης, ου (ὁ)</b> habitant de Pompéiopolis, <i>v. de Paphlagonie,</i> LUC. <i>H. conscr. 15</i>.`

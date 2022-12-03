@@ -1,1 +1,0 @@
-lar[101037]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> <i>fém. de</i> τυμπανιστής DÉM. <i>320, 15</i> ; LUC. <i>Somn. 12, etc</i>.`

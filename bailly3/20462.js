@@ -1,1 +1,0 @@
-lar[20462]=`<b>ος, ον</b> (<i>seul. cp</i>. -ώτερος) sérieux, grave, ESCHL. <i>Ch. 672</i>.<p><b>Étym</b>. βουλή.`

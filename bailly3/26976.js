@@ -1,1 +1,0 @@
-lar[26976]=`<font color="darkgreen">(<i>f</i>. άξω)</font> <font color="purple">[ῐπ]</font> danser la dipodie, AR. <i>Lys. 1243</i>.<p><b>Étym</b>. διποδία.`

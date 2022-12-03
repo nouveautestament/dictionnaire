@@ -1,1 +1,0 @@
-lar[56905]=`<b>ου (ὁ)</b> Konnos, <i>musicien, maître de Socrate,</i> PLAT. <i>Euthyd. 272c, et très pauvre, d’où le proverbe</i> Κόννου θρῖον <i>ou</i> ψῆφος, AR. <i>Vesp. 675,</i> suffrage de Konnos, <i>càd</i>. vote insignifiant, <i>d’où en gén</i>. chose de peu de valeur.`

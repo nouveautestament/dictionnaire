@@ -1,1 +1,0 @@
-lar[61306]=`<b>λιπάω-ῶ</b> (<i>seul. part. prés</i>.) <font color="purple">[ῐ]</font><br><b>      1</b> être gras, PLUT. <i>M. 206f.</i><br><b>      2</b> être onctueux <i>ou</i> brillant (<i>au part. prés. épq</i>. λιπόων) ANTH. <i>7, 413</i> ; CALL. (SCH.-SOPH. <i>O.R. 919</i>) ; NIC. <i>Al. 487</i>.<p><b>Étym</b>. λίπα.`

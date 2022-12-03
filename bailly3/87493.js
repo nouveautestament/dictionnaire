@@ -1,1 +1,0 @@
-lar[87493]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de fèves <i>ou</i> d’orge mondé, ALCM. <i>75 (28) Bgk</i>.<p><b>Étym</b>. πύανος.`

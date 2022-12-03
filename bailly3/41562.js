@@ -1,1 +1,0 @@
-lar[41562]=`<b>εὐ·αλθής, ής, ές :<br>      1</b> facile à soigner <i>ou</i> à guérir, HPC. <i>803h.</i><br><b>      2</b> qui guérit, NIC. <i>Al. 326</i>.<p>•<i> Cp</i>. -έστερος, HPC. <i>831e ;</i> ARÉT. <i>p. 51, 8</i>.<p><b>Étym</b>. εὖ, ἀλθαίνω.`

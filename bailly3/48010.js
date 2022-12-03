@@ -1,1 +1,0 @@
-lar[48010]=`<b>θυρέ·ασπις, ιδος (ἡ)</b> grand bouclier en forme de porte, ANTH. <i>6, 131</i>.<p><b>Étym</b>. θυρεός, ἀσπίς.`

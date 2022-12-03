@@ -1,1 +1,0 @@
-lar[88754]=`<b>ορος</b>, <i>adj. m</i>. sifflant, ORPH. <i>H. 5, 5 ; 7, 6</i>.<p><b>Étym</b>. ῥοιζέω.`

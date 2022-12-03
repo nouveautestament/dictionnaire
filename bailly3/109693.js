@@ -1,1 +1,0 @@
-lar[109693]=`<b>ψευδο·κύων</b>, <i>gén</i>. <b>-κυνος (ὁ)</b> faux cynique, PLUT. <i>Brut. 34</i>.`

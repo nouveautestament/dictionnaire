@@ -1,1 +1,0 @@
-lar[80702]=`<i>adv</i>., à Platée, <i>sans mouv</i>. THC. <i>1, 130</i> ; DÉM. <i>1377, 20, etc</i>.<p><b>Étym</b>. Πλάταια.`

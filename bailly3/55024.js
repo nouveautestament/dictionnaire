@@ -1,1 +1,0 @@
-lar[55024]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Kéryneia (<i>auj</i>. vers Mamousiá <i>ou</i> Kernítsa) <i>v. et mt. d’Achaïe,</i> EL. <i>N.A. 11, 19, etc</i>.`

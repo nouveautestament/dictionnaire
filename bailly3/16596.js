@@ -1,1 +1,0 @@
-lar[16596]=`<b>ἀσφυκτέω-ῶ</b>, avoir le pouls insensible, DIOSC.<p><b>Étym</b>. ἄσφυκτος.`

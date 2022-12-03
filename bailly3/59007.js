@@ -1,1 +1,0 @@
-lar[59007]=`<b>εως (ἡ)</b> action de courber, courbure, GAL. <i>13, 367</i>.<p><b>Étym</b>. κυρτόω.`

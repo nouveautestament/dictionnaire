@@ -1,1 +1,0 @@
-lar[91852]=`<b>σπερματόω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> ensemencer, TH. <i>C.P. 3, 2, 2</i>.<br><b>      2</b> faire venir en graines, ARSTT. <i>Plant. 6, 8, 2</i>.<p><b>Étym</b>. σπέρμα.`

@@ -1,1 +1,0 @@
-lar[68025]=`<b>νεκροφορέω-ῶ</b>, transporter un mort <i>ou</i> des morts pour la sépulture, PHIL. <i>2, 54</i>.<p><b>Étym</b>. νεκροφόρος.`

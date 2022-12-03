@@ -1,1 +1,0 @@
-lar[28458]=`<b>δυσ·ευπόριστος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à se procurer, A. TR. <i>1, 76</i>.<p><b>Étym</b>. δ. εὐπορίζω.`

@@ -1,1 +1,0 @@
-lar[102247]=`<b>ὑπέρ·ακμος, ος, ον</b>, qui a passé l’âge de la force, de la jeunesse, NT. <i>1Cor. 7, 36</i>.<p><b>Étym</b>. ὑ. ἀκμή.`

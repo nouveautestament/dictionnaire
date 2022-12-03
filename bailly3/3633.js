@@ -1,1 +1,0 @@
-lar[3633]=`<b>ἀκρ·αής, ής, ές</b> <font color="purple">[ρᾱ]</font> qui souffle fort, <i>en parl. du vent du Nord,</i> OD. <i>14, 253, etc.</i> ; HÉS. <i>O. 592</i> ; si ἀκραὲς erit, CIC. <i>Att. 10, 17,</i> si le vent est bon.<p><b>Étym</b>. ἄκρος, ἄημι.`

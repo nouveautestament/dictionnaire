@@ -1,1 +1,0 @@
-lar[97055]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de couper en menus morceaux, HPC. (GAL.).<p><b>Étym</b>. *σχινδυλέω, σχίζω.`

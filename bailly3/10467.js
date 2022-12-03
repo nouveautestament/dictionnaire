@@ -1,1 +1,0 @@
-lar[10467]=`<b>ἀντι·σφάττω</b> <font color="darkgreen">(<i>ao. pass</i>. ἀντεσφάγην)</font> égorger à son tour <i>ou</i> par représailles, DC. <i>45, 47</i>.`

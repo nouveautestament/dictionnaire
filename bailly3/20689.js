@@ -1,1 +1,0 @@
-lar[20689]=`<b>βραχυ·δάκτυλος, ος, ον</b> <font color="purple">[ᾰῠῠ]</font> aux doigts courts, POLÉM. <i>Physiogn. 2, 27</i>.`

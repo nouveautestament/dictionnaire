@@ -1,1 +1,0 @@
-lar[49773]=`<b>ἰσό·τυπος, ος, ον</b> <font color="purple">[ῑ̆ῠ]</font> de même type, de même forme, NONN. <i>D. 1, 448</i>.<p><b>Étym</b>. ἴ. τύπος.`

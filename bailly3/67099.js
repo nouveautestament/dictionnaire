@@ -1,1 +1,0 @@
-lar[67099]=`<b>η, ον</b> <font color="purple">[ῠῐ]</font> fait avec un champignon, LUC. <i>V.H. 1, 16</i>.<p><b>Étym</b>. μύκης.`

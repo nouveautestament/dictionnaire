@@ -1,1 +1,0 @@
-lar[75393]=`<b>παρα·βλάπτω</b>, léser, endommager, X. ÉPH. <i>4, 2</i> ; BAS. <i>1, 244 Migne</i> ; CHRYS. <i>9, 434 Migne</i>.`

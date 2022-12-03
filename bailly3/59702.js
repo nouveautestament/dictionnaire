@@ -1,1 +1,0 @@
-lar[59702]=`<b>λαμπετάω-ῶ</b>, briller.<p>➳ <i>Seul. part. prés. épq</i>. λαμπετόων, IL. <i>1, 104</i> ; HÉS. <i>Th. 310 ; Sc. 390</i> ; A.RH. <i>3, 1362 ; fém,</i> -όωσα, ORPH. <i>Lith. 89, 291</i>.`

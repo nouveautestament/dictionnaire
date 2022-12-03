@@ -1,1 +1,0 @@
-lar[23534]=`<b>δειλόω-ῶ</b>, effrayer ; <i>au pass. (seul. part. ao</i>. δειλωθείς) être effrayé, SPT. <i>1Macc. 4, 8 et 21 ; 16, 6</i> ; DS. <i>20, 78 (var</i>. δειλιάσας).<p><b>Étym</b>. δειλός.`

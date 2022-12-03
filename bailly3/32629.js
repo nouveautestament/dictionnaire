@@ -1,1 +1,0 @@
-lar[32629]=`<b>εως (ἡ) :<br>      1</b> action de convaincre de, NT. <i>2Petr. 2, 16</i>.<br><b>      2</b> réfutation, blâme, SPT. <i>Job 21, 4 ; 23, 2</i> ; PHILSTR. <i>74</i>.<p><b>Étym</b>. ἐλέγχω.`

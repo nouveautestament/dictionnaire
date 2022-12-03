@@ -1,1 +1,0 @@
-lar[97600]=`<b>ων (οἱ)</b> les Taokhes, <i>pple de montagnards du Pont (dans la région appelée auj</i>. Dschoroch <i>ou</i> Dschoruk) XÉN. <i>An. 4, 4, 18 ; 4, 6, 5, etc</i>.`

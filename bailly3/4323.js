@@ -1,1 +1,0 @@
-lar[4323]=`<i>adv</i>., en foule, HPC. <i>604, 49</i>.<p><b>Étym</b>. ἁλής.`

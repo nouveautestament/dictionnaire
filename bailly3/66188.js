@@ -1,1 +1,0 @@
-lar[66188]=`<b>ονος (ὁ)</b> Mnèmôn (Mnémon) <i>surn. d’Artaxerxès, roi des Perses,</i> PLUT. <i>Mar. 1</i>.<p><b>Étym</b>. <i>v</i>. μνήμων.`

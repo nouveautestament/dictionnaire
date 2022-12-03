@@ -1,1 +1,0 @@
-lar[46398]=`<b>ης (ἡ)</b> déesse, IL. <i>8, 5</i> ; OD. <i>8, 341</i> ; ANTIPH. (ATH. <i>423c</i>).<p><b>Étym</b>. θεός ; <i>pour la format. cf</i>. λύκαινα <i>et</i> λύκος.`

@@ -1,1 +1,0 @@
-lar[99132]=`<b>ας (ἡ)</b> Tithoréa (<i>auj</i>. Tithoréa, <i>anc</i>. Velítsa) <i>l’une des plus hautes cimes du Parnasse,</i> HDT. <i>8, 32</i>.`

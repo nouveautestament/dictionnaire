@@ -1,1 +1,0 @@
-lar[88766]=`<b>(ὁ)</b> Rhœsakès, <i>Perse,</i> PLUT. <i>Cim. 10, Alex. 16, etc</i>.`

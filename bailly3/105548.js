@@ -1,1 +1,0 @@
-lar[105548]=`<b>φιλ·ένδοξος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la célébrité, CIC. <i>Att. 13, 19, 3</i>.`

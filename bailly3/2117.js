@@ -1,1 +1,0 @@
-lar[2117]=`<b>ἄ·θυμος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> découragé, abattu, mal disposé, OD. <i>10, 463</i> ; HDT. <i>7, 11 ; p. opp. à</i> ἔνθυμος, ARSTT. <i>Pol. 7, 7, 2</i>.<br><b>      2</b> sans colère, sans passion, PLAT. <i>Rsp. 411b, etc</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>An. 1, 4, 9 ; Cyr. 5, 5, 13, etc</i>.<p><b>Étym</b>. ἀ, θυμός.`

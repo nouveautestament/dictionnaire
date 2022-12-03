@@ -1,1 +1,0 @@
-lar[47601]=`<b>θρασύ·μυθος, ος, ον</b> <font color="purple">[ᾰῠῡ]</font> au langage hardi, PD. <i>O. 13, 13</i>.<p><b>Étym</b>. θρ. μῦθος.`

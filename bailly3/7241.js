@@ -1,1 +1,0 @@
-lar[7241]=`<b>ἀν·άνετος, ος, ον</b>, qui ne se relâche pas, PORPH. <i>Isag. p. 19</i>.<p><b>Étym</b>. ἀν-, ἀνίημι.`

@@ -1,1 +1,0 @@
-lar[107776]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> préparation de camomille, ORIB. <i>85 Matthäi</i>.<p><b>Étym</b>. χαμαίμηλον.`

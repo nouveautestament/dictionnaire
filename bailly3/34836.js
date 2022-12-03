@@ -1,1 +1,0 @@
-lar[34836]=`<b>ἐν·οπλίζω</b>, adapter un instrument (une rame) à, LYC. <i>205</i>.<p><b>Étym</b>. ἐν, ὁπλίζω.`

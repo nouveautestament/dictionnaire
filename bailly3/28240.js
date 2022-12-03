@@ -1,1 +1,0 @@
-lar[28240]=`<b>δυσ·αρχία, ας (ἡ)</b> <font color="purple">[ῠ]</font> difficulté de se faire obéir, APP. <i>Civ. 5, 17</i>.<p><b>Étym</b>. δ. ἄρχω.`

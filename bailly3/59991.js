@@ -1,1 +1,0 @@
-lar[59991]=`<b>Λά·φιλος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Laphilos, <i>h</i>. THC. <i>5, 24 et 19</i>.<p><b>Étym</b>. λαός, φίλος ; <i>dor. c</i>. Λεώφιλος ; <i>cf</i>. Φιλόλαος.`

@@ -1,1 +1,0 @@
-lar[3620]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qu’on peut entendre, HH. <i>Merc. 512</i> ; XÉN. <i>Cyr. 1, 6, 2</i> ; ISOCR. <i>24c, etc.</i><br><b>      2</b> qu’on doit entendre, SOPH. <i>O.R. 1312</i> ; EUR. <i>Andr. 1084</i>.<p><b>Étym</b>. ἀκούω.`

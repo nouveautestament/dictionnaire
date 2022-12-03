@@ -1,1 +1,0 @@
-lar[85326]=`<b>προσ·αφίστημι</b> <font color="darkgreen">(<i>f</i>. προσαποστήσω, <i>ao.1</i> προσαπέστησα, <i>etc</i>.)</font> solliciter en outre à la défection, chercher à corrompre <i>ou</i> à soulever, THC. <i>4, 117</i>.`

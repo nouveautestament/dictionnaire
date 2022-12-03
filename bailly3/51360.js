@@ -1,1 +1,0 @@
-lar[51360]=`<b>αντος (ὁ)</b> Kalkhas (Calchas) <i>propr</i>. aux pensées profondes (<i>v</i>. καλχαίνω) <i>devin fameux,</i> IL. <i>1, 69, etc.</i> ; SOPH. <i>Aj. 746, etc</i>.<p>➳ <i>Voc</i>. -αν, IL. <i>1, 86</i>.<p><b>Étym</b>. κάλχη.`

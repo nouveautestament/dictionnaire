@@ -1,1 +1,0 @@
-lar[26514]=`<b>δικασ·πόλος, ος, ον</b> <font color="purple">[ῐ]</font> qui rend la justice, IL. <i>1, 238</i> ; OD. <i>11, 186 ; au fém</i>. ORPH. <i>H. 68, 11 ; au neutre,</i> A.RH. <i>4, 1178</i>.<p><b>Étym</b>. δίκη, πολέω.`

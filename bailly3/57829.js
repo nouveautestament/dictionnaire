@@ -1,1 +1,0 @@
-lar[57829]=`<i>dor</i>. <b>κρανίς, ίδος</b> <font color="purple">[ᾱ]</font> de source, de fontaine, MOSCH. <i>3, 29</i>.<p><b>Étym</b>. κρήνη ; <i>cf</i>. κρηναῖος <i>et</i> κρηνιάς.`

@@ -1,1 +1,0 @@
-lar[27018]=`<b>δί·σημος, ος, ον</b>, à deux temps, <i>t. de métr</i>. A. QUINT. <i>p. 34,</i> D. THR. <i>801</i>.<p><b>Étym</b>. δίς, σῆμα.`

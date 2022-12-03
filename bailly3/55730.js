@@ -1,1 +1,0 @@
-lar[55730]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> grosse branche, ORPH. <i>Arg. 923</i>.<p><b>Étym</b>. κλάδος.`

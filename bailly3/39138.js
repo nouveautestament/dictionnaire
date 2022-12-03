@@ -1,1 +1,0 @@
-lar[39138]=`<b>ἐπι·στίζω</b>, piquer sur, marquer de points à la surface, NIC. <i>Th. 332 ; au pass</i>. être marqué de points, être tacheté, TH. <i>H.P. 3, 7, 5</i> ; EL. <i>N.A. 11, 24</i>.`

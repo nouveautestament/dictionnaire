@@ -1,1 +1,0 @@
-lar[48303]=`<b>ή, όν</b> <font color="purple">[ῑᾱ]</font> guérissable, PLAT. <i>Leg. 862c ;</i> ARSTT. <i>H.A. 10, 4</i>.<p><b>Étym</b>. <i>vb. de</i> ἰάομαι.`

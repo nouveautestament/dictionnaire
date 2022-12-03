@@ -1,1 +1,0 @@
-lar[106831]=`Fregena, <i>v. d’Étrurie,</i> STR. <i>225</i>.<p><b>Étym</b>. <i>lat</i>. Fregenæ.`

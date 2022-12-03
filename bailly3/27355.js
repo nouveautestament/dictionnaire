@@ -1,1 +1,0 @@
-lar[27355]=`<b>οῦ (τὸ)</b> remède contre les furoncles, P. ÉG. <i>142, 48</i>.<p><b>Étym</b>. δοθιήν.`

@@ -1,1 +1,0 @@
-lar[48946]=`<b>εως (ἡ)</b> <font color="purple">[ῑᾰ]</font> action de se dérouler en anneaux, ARSTT. <i>Inc. an. 9, 9</i>.<p><b>Étym</b>. ἰλυσπάομαι.`

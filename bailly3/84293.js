@@ -1,1 +1,0 @@
-lar[84293]=`<b>προ·εφίστημι</b>, rendre d’avance attentif : τινὰ ἐπί τι, POL. <i>10, 2, 1,</i> qqn à qqe ch.`

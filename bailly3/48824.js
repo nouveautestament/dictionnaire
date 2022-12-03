@@ -1,1 +1,0 @@
-lar[48824]=`<i>seul. dans la loc</i>. ἴκμενος οὖρος, IL. <i>1, 479</i> ; OD. <i>2, 420, etc</i>. vent favorable.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *seik-, atteindre, saisir ; <i>cf</i>. ἴκω.`

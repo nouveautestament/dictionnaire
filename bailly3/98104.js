@@ -1,1 +1,0 @@
-lar[98104]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> ouvrage de charpente <i>ou</i> d’architecture, art de construire, OD. <i>5, 250 ; au pl</i>. EUR. <i>Andr. 1015 ; fig</i>. ANTH. <i>7, 159</i>.<p>➳ <i>Gén. pl. épq</i>. τεκτοσυνάων, OD. <i>l. c</i>.<p><b>Étym</b>. τέκτων.`

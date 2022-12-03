@@ -1,1 +1,0 @@
-lar[60827]=`<b>ληνο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui foule le raisin, HIM. <i>Or. 6, 3</i>.<p><b>Étym</b>. ληνός, βαίνω.`

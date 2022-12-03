@@ -1,1 +1,0 @@
-lar[18399]=`<b>ή, όν</b> <font color="purple">[ᾰχ]</font> d’Acharnes, AR. <i>Ach. 324, 329, etc. ; Th. 563</i>.`

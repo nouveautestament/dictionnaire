@@ -1,1 +1,0 @@
-lar[46312]=`<i>ion., anc. att. et de prose réc</i>. <b>θαρσαλεότης, ητος (ἡ)</b> <font color="purple">[ᾰλ]</font> confiance, hardiesse, PLUT. <i>Æmil. 36, M. 443d, etc</i>.<p>➳ θαρσ. THÉM. <i>Or. 2, 30b</i>.<p><b>Étym</b>. θαρραλέος.`

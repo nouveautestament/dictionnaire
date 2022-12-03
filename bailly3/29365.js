@@ -1,1 +1,0 @@
-lar[29365]=`<b>ἐγ·γλύσσω</b> (<i>seul. prés</i>.) avoir une saveur doucereuse, HDT. <i>2, 92</i>.<p><b>Étym</b>. ἐν, γλυκύς.`

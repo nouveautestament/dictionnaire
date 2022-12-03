@@ -1,1 +1,0 @@
-lar[46667]=`<b>θέ·οινος, ου (ὁ)</b> le dieu du vin (Bacchus) ESCHL. <i>fr. 350</i> ; LYC. <i>1247</i>.<p><b>Étym</b>. θ. οἶνος.`

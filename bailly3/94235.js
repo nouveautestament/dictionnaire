@@ -1,1 +1,0 @@
-lar[94235]=`<b>ος, ον</b>, fiché <i>ou</i> fixé ensemble, <i>d’où</i> :<br><b>      1</b> coagulé, PHILOX. (ATH. <i>147e</i>).<br><b>      2</b> solidement assemblé, solidement construit, HDT. <i>4, 190 ; d’où</i> compact, AR. <i>Ran. 800</i>.<p><b>Étym</b>. <i>vb. de</i> συμπήγνυμι.`

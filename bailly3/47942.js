@@ -1,1 +1,0 @@
-lar[47942]=`<b>θυμο·ραϊστής, οῦ</b>, <i>adj. m</i>. qui déchire le cœur, cruel, IL. <i>13, 544 ; 14, 414, etc</i>.<p><b>Étym</b>. θ. ῥαΐζω.`

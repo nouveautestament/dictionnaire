@@ -1,1 +1,0 @@
-lar[8385]=`<b>ἀνεξικακέω-ῶ</b> <font color="purple">[ᾰῐᾰ]</font> être résigné, CHRYS.<p><b>Étym</b>. ἀνεξίκακος.`

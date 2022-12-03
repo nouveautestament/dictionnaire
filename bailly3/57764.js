@@ -1,1 +1,0 @@
-lar[57764]=`<b>ης (ἡ)</b> Kréousa (Créüse) :<br><b>      1</b> <i>fille d’Érekhthée,</i> EUR. <i>Ion 11, etc.</i><br><b>      2</b> <i>nymphe, mère d’Hypsée,</i> PD. <i>P. 9, 30</i>.<p>➳ <i>Dor</i>. Κρείοισα, PD. <i>l. c</i>.<p><b>Étym</b>. <i>fém. de</i> Κρέων.`

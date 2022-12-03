@@ -1,1 +1,0 @@
-lar[61842]=`<i>gén. épq</i>. <b>-ίδαο (ὁ)</b> <font color="purple">[ῠᾱῐ]</font> fils de Lykaôn, THCR. <i>Idyl. 1, 126 ; 4, 121</i>.<p><b>Étym</b>. Λυκάων.`

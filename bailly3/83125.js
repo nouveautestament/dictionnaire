@@ -1,1 +1,0 @@
-lar[83125]=`<b>ου (ὁ)</b> action de boire, boisson, XÉN. <i>An. 7, 3, 26</i> ; PLAT. <i>Conv. 176a, etc. ; au pl</i>. PLAT. <i>Rsp. 329a ;</i> ISOCR. <i>9a, etc.</i> ; ἐν τῷ πότῳ, PLAT. <i>Prot. 347c ;</i> παρὰ πότον, XÉN. <i>An. 2, 3, 15, Conv. 8, 41, etc</i>. en buvant, pendant le repas.<p><b>Étym</b>. πίνω.`

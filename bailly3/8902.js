@@ -1,1 +1,0 @@
-lar[8902]=`<b>ου (τὸ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> petit morceau de charbon, TH. <i>Lap. 33</i>.<br><b>      2</b> escarboucle, ALEX. <i>fr. 134 Kock</i>.<p><b>Étym</b>. ἄνθραξ.`

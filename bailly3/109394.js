@@ -1,1 +1,0 @@
-lar[109394]=`<b>χυτρο·τομέω-ῶ</b>, railler, se moquer, AR. <i>Lys. Arg</i>.<p><b>Étym</b>. χύτρα, -τομος <i>de</i> τέμνω.`

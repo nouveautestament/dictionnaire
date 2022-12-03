@@ -1,1 +1,0 @@
-lar[24726]=`<b>*δια·κανάζω</b> <i>ou</i> <b>δια·κανάσσω</b> <font color="purple">[κᾰ]</font> (<i>seul. ao. 3 sg</i>. διεκάναξε) traverser avec bruit, <i>acc</i>. EUR. <i>Cycl. 157</i>.<p><b>Étym</b>. διά, <i>cf</i>. καναχέω <i>et</i> ἐγκανάσσω.`

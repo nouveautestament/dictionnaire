@@ -1,1 +1,0 @@
-lar[3165]=`ESCHL. <i>Ag. 985 ; mot inconnu, p.-ê</i>. ἀκτά.<p><b>Étym</b>. ψαμμὶς ἀκτά, <i>conj. d’Ahrens p</i>. ψαμμίας ἀκάτα.`

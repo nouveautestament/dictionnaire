@@ -1,1 +1,0 @@
-lar[27201]=`<b>διχό·μυθος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui tient deux langages, SOL. <i>et</i> PITTAC. (DL. <i>1, 61 et 78</i>) ; EUR. <i>Or. 890</i> ; A. LIB. <i>23</i>.<p><b>Étym</b>. δίχα, μῦθος.`

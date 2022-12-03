@@ -1,1 +1,0 @@
-lar[89472]=`<b>ης, ες :<br>      1</b> fait de chair, HDT. <i>3, 29</i> ; τὸ σαρκῶδες, ARSTT. <i>H.A. 2, 17, 29,</i> la partie charnue du corps.<br><b>      2</b> charnu, de chair épaisse, <i>p. opp. à</i> ἄσαρκος, HPC. <i>V. med. 18, etc. ; p. anal. en parl. d’une feuille,</i> TH. <i>H.P. 1, 10, 4, etc</i>.<p><b>Étym</b>. σάρξ, -ωδης.`

@@ -1,1 +1,0 @@
-lar[59590]=`<b>ῶν (οἱ)</b> les Lacétanes, <i>pple d’Espagne (auj</i>. la Catalogne) PLUT. <i>Cato ma. 11</i>.`

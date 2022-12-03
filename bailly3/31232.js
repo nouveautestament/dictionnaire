@@ -1,1 +1,0 @@
-lar[31232]=`<b>ου (ὁ)</b> qui court hors de : οἱ ἔκδρομοι, THC. <i>4, 125</i> ; XÉN. <i>Hell. 4, 5, 16,</i> soldats qui sortent des rangs pour harceler l’ennemi.<p><b>Étym</b>. ἐκδραμεῖν.`

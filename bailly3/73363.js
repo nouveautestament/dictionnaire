@@ -1,1 +1,0 @@
-lar[73363]=`<i>ou mieux</i> <b>ὠσχοφόρια, ων (τὰ)</b> oskhophories, <i>fête où l’on portait des branches de vigne chargées de raisins, à Athènes,</i> PLUT. <i>Thes. 22</i> ; ALCIPHR. <i>1, 4 ; 3, 1</i>.<p><b>Étym</b>. ὀσχροφόρος.`

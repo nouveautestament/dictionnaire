@@ -1,1 +1,0 @@
-lar[14179]=`<b>ης (ἡ)</b> Arakhnè, <i>f</i>. LUC. <i>Trag. 318</i>.`

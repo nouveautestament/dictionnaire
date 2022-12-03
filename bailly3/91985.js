@@ -1,1 +1,0 @@
-lar[91985]=`<b>σπονδ·αρχία, ας (ἡ)</b> droit de commencer les libations sacrées, HDT. <i>6, 37 au pl</i>.<p><b>Étym</b>. σπονδή, ἄρχω.`

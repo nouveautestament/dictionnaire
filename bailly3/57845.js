@@ -1,1 +1,0 @@
-lar[57845]=`<b>α, ον</b>, de Crète, crétois, SOPH. <i>Tr. 118</i> ; EUR. <i>Hipp. 759, etc</i>.<p><b>Étym</b>. Κρής.`

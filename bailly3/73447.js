@@ -1,1 +1,0 @@
-lar[73447]=`<font color="purple">[ᾰῐ]</font> <i>adv. ion. c</i>. οὐδαμοῦ, HDT. <i>3, 113, etc. ; avec un gén</i>. HDT. <i>7, 126</i>.`

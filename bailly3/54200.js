@@ -1,1 +1,0 @@
-lar[54200]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> possédé, occupé, IS. <i>2, 28 Baiter-Sauppe</i>.<br><b>      2</b> possédé d’un dieu, LUC. <i>J. tr. 30</i>.<p><b>Étym</b>. κάτοχος.`

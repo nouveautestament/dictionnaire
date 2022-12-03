@@ -1,1 +1,0 @@
-lar[976]=`<b>α, ον</b>, champêtre, rustique, <i>d’où</i> sauvage, <i>en parl. d’animaux,</i> IL. <i>2, 852</i> ; OD. <i>6, 133, etc. ; de plantes,</i> ANTH. <i>9, 384 ; en parl. de pers</i>. ὁ ἀγρ. ANTH. <i>9, 244,</i> homme des champs, paysan.<p><b>Étym</b>. ἀγρός.`

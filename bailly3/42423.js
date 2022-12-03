@@ -1,1 +1,0 @@
-lar[42423]=`<b>εὔ·κηλος, ος, ον</b>, qui brûle facilement, ION (PHOT. <i>v°</i> εὔκηλον).<p><b>Étym</b>. εὖ, καίω.`

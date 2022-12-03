@@ -1,1 +1,0 @@
-lar[39716]=`<b>ἐπι·χρησμῳδέω-ῶ</b>, prophétiser en outre, PHILSTR. <i>199, 489</i>.`

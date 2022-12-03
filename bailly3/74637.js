@@ -1,1 +1,0 @@
-lar[74637]=`<b>ῆς (ἡ)</b> <font color="purple">[λᾰ]</font> concubine, HDT. <i>1, 135, etc.</i> ; AR. <i>Vesp. 1353</i> ; ANT. <i>113, 5, etc</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

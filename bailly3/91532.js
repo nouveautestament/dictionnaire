@@ -1,1 +1,0 @@
-lar[91532]=`<b>α, ον</b>, de Smyrne <i>en Ionie,</i> PD. <i>fr. 218</i> ; οἱ Σμ. HDT. <i>1, 143, 150, etc</i>. les habitants de Smyrne.<p><b>Étym</b>. Σμύρνα.`

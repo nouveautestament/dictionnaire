@@ -1,1 +1,0 @@
-lar[34186]=`<i>vb. de</i> ἐνδιατρίβω LUC. <i>H. conscr. 6</i> ; ATH. (ORIB. <i>3, 185, 12 B.-Dar</i>.) ; CLÉM. <i>1, 620 ; 2, 309 Migne</i>.`

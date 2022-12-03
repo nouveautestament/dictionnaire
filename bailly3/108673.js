@@ -1,1 +1,0 @@
-lar[108673]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> plein de rochers, STR. <i>140</i>.<br><b>      2</b> scrofuleux, PLUT. <i>M. 664f</i>.<p><b>Étym</b>. χοιράς, -ωδης.`

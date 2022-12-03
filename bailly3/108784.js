@@ -1,1 +1,0 @@
-lar[108784]=`<b>χορδο·τόνος, ος, ον</b>, qui tend <i>ou</i> sert à tendre des cordes à boyau : ἡ χορδοτόνος (<i>s.-e</i>. σανίς) MUS. <i>p. 417 Bryenn. ; ou</i> τὸ χορδοτόνον, ARSTT. <i>Aud. 51</i> ; NICOM. <i>Harm. p. 13</i> ; JAMBL. <i>V. Pyth. p. 118,</i> chevalet pour tendre les cordes d’un instrument.<p><b>Étym</b>. χορδή, τείνω.`

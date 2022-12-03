@@ -1,1 +1,0 @@
-lar[24591]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> <i>seul. cp</i>. -ώτερος, pénétrable, TH. <i>C.P. 5, 14, 1</i>.<p><b>Étym</b>. διαδύω.`

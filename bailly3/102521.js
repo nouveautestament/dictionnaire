@@ -1,1 +1,0 @@
-lar[102521]=`<b>ὑπερ·θαρρέω-ῶ</b>, avoir un courage <i>ou</i> une confiance extraordinaire, PHILOD. π. ὑπ. <i>12</i>.`

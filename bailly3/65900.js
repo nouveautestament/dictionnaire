@@ -1,1 +1,0 @@
-lar[65900]=`<b>ου (ὁ)</b> = <i>lat</i>. Minucius, <i>n. d’h. rom</i>. PLUT. <i>Marc. 5, Cato mi. 27, etc</i>.`

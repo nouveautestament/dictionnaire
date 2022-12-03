@@ -1,1 +1,0 @@
-lar[109843]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη <font color="purple">[ῑῐᾰ]</font> art de jouer de la lyre sans accompagnement de voix, PHILOCH. <i>66</i> (ATH. <i>637f</i>).<p><b>Étym</b>. ψιλοκιθαριστής.`

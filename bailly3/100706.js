@@ -1,1 +1,0 @@
-lar[100706]=`<i>dor</i>. <b>τρόπαλις, ιδος (ἡ)</b> <font color="purple">[ᾱ]</font> botte (d’oignons) AR. <i>Ach. 813</i>.<p><b>Étym</b>. τρέπω.`

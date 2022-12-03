@@ -1,1 +1,0 @@
-lar[105647]=`<b>φιλιατρέω-ῶ</b> <font color="purple">[ῐῑ̆]</font> avoir du goût pour la médecine et les médicaments, DIOSC. <i>Alex. præf.</i> ; PLUT. <i>M. 58a, etc</i>.<p><b>Étym</b>. φιλίατρος.`

@@ -1,1 +1,0 @@
-lar[68713]=`<b>Νικ·άνωρ, ορος (ὁ)</b> <font color="purple">[ῑᾱ]</font> Nikanôr, <i>h</i>. THC. <i>2, 80</i> ; DIN. <i>57, 2 ; 70, 2</i>.<p><b>Étym</b>. νικάω, ἀνήρ.`

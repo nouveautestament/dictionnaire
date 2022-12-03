@@ -1,1 +1,0 @@
-lar[68327]=`<b>νεόω-ῶ</b> (<i>seul. ao</i>. ἐνέωσα) renouveler, ESCHL. <i>Suppl. 534</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao</i>. ἐνεωσάμην)</font> restaurer, ANTH. <i>App. 147</i>.<p><b>Étym</b>. νέος.`

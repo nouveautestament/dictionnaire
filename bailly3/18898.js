@@ -1,1 +1,0 @@
-lar[18898]=`<b>ή, όν</b>, enclin aux fureurs bachiques, ARSTT. <i>Pol. 8, 7, 14</i>.<p><b>Étym</b>. βακχεύω.`

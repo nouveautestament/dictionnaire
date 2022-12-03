@@ -1,1 +1,0 @@
-lar[37511]=`<b>ων (τὰ)</b> les Épidauries, <i>fête à Athènes,</i> PAUS. <i>2, 26, 8</i> ; PHILSTR. <i>V. Ap. 4, 18, p. 155</i>.`

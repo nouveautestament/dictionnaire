@@ -1,1 +1,0 @@
-lar[49131]=`<b>ἰο·λόχευτος, ος, ον</b> <font color="purple">[ῑ]</font> qui sort d’une source empoisonnée, PROCL. <i>H. Sol. 41</i>.<p><b>Étym</b>. ἰός², λοχεύω.`

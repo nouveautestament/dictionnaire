@@ -1,1 +1,0 @@
-lar[18227]=`<b>ἀφρέω-ῶ</b> (<i>seul. prés. et impf</i>.) :<br><b>      1</b> écumer, HPC. <i>305, 47</i>.<br><b>      2</b> être couvert d’écume, IL. <i>11, 282 (à l’impf. ἄφρεον, dissyll</i>.).<p><b>Étym</b>. ἀφρός.`

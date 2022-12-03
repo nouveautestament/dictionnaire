@@ -1,1 +1,0 @@
-lar[91449]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> Smertomara, <i>f</i>. ANTH. <i>App. 103</i>.`

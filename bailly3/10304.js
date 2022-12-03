@@ -1,1 +1,0 @@
-lar[10304]=`<b>ἀντι·πολιτεία, ας (ἡ)</b> <font color="purple">[λῑ]</font><br><b>      1</b> système politique contraire, POL. <i>20, 5, 5</i>.<br><b>      2</b> <i>au plur</i>. parti politique contraire, POL. <i>11, 25, 5</i>.`

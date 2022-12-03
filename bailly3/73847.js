@@ -1,1 +1,0 @@
-lar[73847]=`<b>ὀφιο·πλόκαμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a pour cheveux des serpents, ORPH. <i>H. 68, 12</i>.<p><b>Étym</b>. ὄφ. πλόκαμος.`

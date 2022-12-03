@@ -1,1 +1,0 @@
-lar[52773]=`<b>κατα·λυμαίνομαι</b> <font color="purple">[ῡ]</font> dévaster, détruire, ruiner, XÉN. <i>Œc. 2, 13, etc.</i> ; POL. <i>5, 9, 3</i>.`

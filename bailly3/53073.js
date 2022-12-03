@@ -1,1 +1,0 @@
-lar[53073]=`<b>κατα·πιπράσκω</b> <font color="darkgreen">(<i>ao. pass</i>. καταπραθείς <font color="purple">[ᾱ]</font>)</font> vendre, LUC. <i>Cron. 16</i>.`

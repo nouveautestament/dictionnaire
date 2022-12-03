@@ -1,1 +1,0 @@
-lar[80083]=`<b>πηλο·πατίδες, ων (αἱ)</b> <font color="purple">[ᾰῐ]</font> chaussures fortes pour marcher dans la boue, HPC. <i>Art. 828</i>.<p><b>Étym</b>. π. πατέω.`

@@ -1,1 +1,0 @@
-lar[103704]=`<b>ὑπο·πόδιον, ου (τὸ)</b> petit escabeau, marchepied, CHARÈS (ATH. <i>514f</i>) ; LUC. <i>H. conscr. 27</i> ; SPT. <i>Ps. 98, 5</i>.<p><b>Étym</b>. ὑ. πούς.`

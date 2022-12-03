@@ -1,1 +1,0 @@
-lar[38064]=`<b>ής, ές</b> <font color="purple">[ῐν]</font> qui penche vers, qui s’incline, qui se courbe, <i>en parl. d’un terrain,</i> THC. <i>6, 96 ; de collines,</i> PLUT. <i>Ant. 45 ; de moissons,</i> TH. <i>C.P. 3, 22, 1, etc</i>.<p><b>Étym</b>. ἐπικλίνω.`

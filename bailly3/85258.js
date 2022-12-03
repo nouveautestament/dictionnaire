@@ -1,1 +1,0 @@
-lar[85258]=`<b>προσ·αποπέμπω</b>, renvoyer en outre <i>ou</i> vers, <i>rég. ind. au dat</i>. AR. <i>Pl. 599</i>.`

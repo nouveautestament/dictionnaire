@@ -1,1 +1,0 @@
-lar[10270]=`<b>ἀντί·πετρος, ος, ον :<br>      1</b> semblable à un roc, de roc (<i>sel. d’autres,</i> adossé à un rocher) SOPH. <i>O.C. 192</i>.<br><b>      2</b> remplacé par une pierre, <i>en parl. de Zeus en bas âge,</i> THCR. <i>Syr. 2</i>.<p><b>Étym</b>. ἀ. πέτρα.`

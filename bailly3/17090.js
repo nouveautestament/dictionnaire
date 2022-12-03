@@ -1,1 +1,0 @@
-lar[17090]=`<b>εσσα, εν</b>, à la vue perçante, NIC. <i>Th. 34</i>.<p><b>Étym</b>. αὐγή.`

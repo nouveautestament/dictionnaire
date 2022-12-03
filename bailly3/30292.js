@@ -1,1 +1,0 @@
-lar[30292]=`<b>εἰδωλο·ποιός, ός, όν</b>, qui crée des images, PLAT. <i>Soph. 239d</i>.<p><b>Étym</b>. εἴδωλον, ποιέω.`

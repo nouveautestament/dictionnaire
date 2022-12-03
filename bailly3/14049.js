@@ -1,1 +1,0 @@
-lar[14049]=`<b>ἀ·πύρετος, ος, ον</b> <font color="purple">[ῠ]</font> sans fièvre, HPC. <i>54, 55, etc.</i> ; LUC. <i>Philops. 25</i> ; ANTIPH. (ATH. <i>60d</i>).<p><b>Étym</b>. ἀ, πυρετός.`

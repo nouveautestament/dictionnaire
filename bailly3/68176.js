@@ -1,1 +1,0 @@
-lar[68176]=`<b>νεό·κρατος, ος, ον</b> <font color="purple">[ᾱ]</font> <i>c</i>. νεοκράς, PLUT. <i>M. 667b</i>.`

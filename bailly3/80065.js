@@ -1,1 +1,0 @@
-lar[80065]=`<b>ων (οἱ)</b> Pèlèkes, <i>dème att. de la tribu Léontide,</i> E. BYZ. <i>v°</i> Πήληκες, <i>etc</i>.<p><b>Étym</b>. <i>v</i>. Πήληξ.`

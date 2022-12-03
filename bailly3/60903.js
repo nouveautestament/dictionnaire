@@ -1,1 +1,0 @@
-lar[60903]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> un peu d’eau, PLUT. <i>M. 913c.</i><br><b>      2</b> <i>p. ext</i>. petite source, STR. <i>389</i>.<p><b>Étym</b>. λιβάς.`

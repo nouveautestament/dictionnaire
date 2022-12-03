@@ -1,1 +1,0 @@
-lar[100463]=`<b>τρισ·κακοδαίμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> trois fois malheureux, tout à fait malheureux, AR. <i>Ach. 1024, Ran. 19, etc.</i> ; ESCHN. <i>Tim. § 59 Baiter-Sauppe</i>.`

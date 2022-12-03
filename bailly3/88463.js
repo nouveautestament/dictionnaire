@@ -1,1 +1,0 @@
-lar[88463]=`<b>*ῥηξηνορία</b>, <i>ion</i>. <b>ῥηξηνορίη, ης (ἡ)</b> valeur du guerrier qui rompt les rangs ennemis, OD. <i>14, 217</i>.<p><b>Étym</b>. ῥηξήνωρ.`

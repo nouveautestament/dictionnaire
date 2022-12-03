@@ -1,1 +1,0 @@
-lar[105294]=`<b>Φθειρῶν ὄρος (τὸ)</b> <i>litt</i>. « le mont des pommes de pin », <i>mt. de Carie,</i> IL. <i>2, 868</i>.<p><b>Étym</b>. <i>v</i>. φθείρ.`

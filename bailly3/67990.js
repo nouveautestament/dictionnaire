@@ -1,1 +1,0 @@
-lar[67990]=`<i>adv</i>., comme un mort, LUC. <i>Per. 33</i>.`

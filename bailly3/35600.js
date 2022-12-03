@@ -1,1 +1,0 @@
-lar[35600]=`<b>ἑξ·άριθμος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> sextuple, SCH.-PD. <i>O. 11, 29</i>.<br><b>      2</b> composé de six pieds (<i>litt</i>. de six nombres) SCH.-HÉPH. <i>7, 1, p. 40</i>.<p><b>Étym</b>. ἕξ, ἀριθμός.`

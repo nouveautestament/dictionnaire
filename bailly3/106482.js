@@ -1,1 +1,0 @@
-lar[106482]=`<b>οῦ (ὁ)</b> effroi, terreur, SPT. <i>Ps. 87, 16</i>.<p><b>Étym</b>. φοβερίζω.`

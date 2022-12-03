@@ -1,1 +1,0 @@
-lar[50544]=`<b>έως (ὁ)</b> Kænée, <i>roi des Lapithes,</i> IL. <i>1, 264</i> ; HÉS. <i>Sc. 179</i> ; PLAT. <i>Leg. 944d, etc</i>.<p><b>Étym</b>. <i>v</i>. Καινείδης.`

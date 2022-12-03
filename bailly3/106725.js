@@ -1,1 +1,0 @@
-lar[106725]=`<b>ας (ἡ)</b> transport de marchandises par mer, ARSTT. <i>Pol. 1, 11, 3</i>.<p><b>Étym</b>. φορτηγός.`

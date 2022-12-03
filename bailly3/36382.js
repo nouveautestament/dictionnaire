@@ -1,1 +1,0 @@
-lar[36382]=`<b>ης (ἡ)</b> <font color="purple">[ᾱῠ]</font> bonheur à la pêche, THCR. <i>Beren. 1</i>.<p><b>Étym</b>. ἔπαγρος.`

@@ -1,1 +1,0 @@
-lar[40699]=`<b>ου (ὁ)</b> serpolet (<i>Thymus serpyllum</i> L.) <i>plante,</i> AR. <i>Pax 168</i> ; TH. <i>C.P. 2, 18, 2</i> ; DIOSC. <i>3, 46, etc</i>.<p>➳ <i>Poét</i>. ἡ ἕρπ. THCR. <i>Epigr. 1</i> ; ANTH. <i>4, 1, 54</i> ; TH. (ATH. <i>681e</i>) <i>etc</i>.<p><b>Étym</b>. ἕρπω.`

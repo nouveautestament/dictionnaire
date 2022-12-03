@@ -1,1 +1,0 @@
-lar[5988]=`<i>adv</i>., alternativement, <i>Poét</i>. (ATH. <i>116c</i>) ; ANTH. <i>12, 238</i>.<p><b>Étym</b>. ἀμφαλλάσσω.`

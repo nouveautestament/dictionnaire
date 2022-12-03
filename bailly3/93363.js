@@ -1,1 +1,0 @@
-lar[93363]=`<b>συγ·κατασκάπτω</b>, ruiner ensemble <i>ou</i> de fond en comble, EUR. <i>Or. 835, Ph. 884, Rhes. 391</i> ; AND. <i>13, 38</i>.`

@@ -1,1 +1,0 @@
-lar[75963]=`<b>παρα·ναίομαι</b> <font color="darkgreen">(<i>seul. 3 sg. ao. poét</i>. παρενάσσατο) :</font><br><b>      1 <i>intr.</i></b> habiter auprès, CALL. <i>fr. 143, 2</i>.<br><b>      2 <i>tr.</i></b> faire habiter auprès de, <i>dat</i>. DP. <i>776</i>.`

@@ -1,1 +1,0 @@
-lar[9353]=`<b>ἀ·νουθέτητος, ος, ον :<br>      1</b> non blâmé, non averti, ISOCR. <i>15c.</i><br><b>      2</b> qui ne souffre pas d’avertissement <i>ou</i> de réprimande, DÉM. <i>1477, 14</i>.<p><b>Étym</b>. ἀ, νουθετέω.`

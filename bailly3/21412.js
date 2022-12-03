@@ -1,1 +1,0 @@
-lar[21412]=`<b>ας (ἡ) :<br>      1</b> panse d’un vase, DIOSC. <i>5, 103, 144</i> ; ATH. <i>199c ; etc.</i><br><b>      2</b> <i>p. ext</i>. vase pansu, marmite, bidon, EN. TACT.<p>➳ <i>Ion</i>. γάστρη, IL. <i>18, 348</i> ; OD. <i>8, 437</i>.<p><b>Étym</b>. γαστήρ.`

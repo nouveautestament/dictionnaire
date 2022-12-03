@@ -1,1 +1,0 @@
-lar[70753]=`<b>ατος (τὸ) :<br>      1</b> présage tiré du vol <i>ou</i> du cri des oiseaux, EUR. <i>Ph. 839 ; fig</i>. DC. <i>37, 24</i> ; HDN <i>1, 14, 3</i> ; THÉM. <i>82c.</i><br><b>      2</b> <i>c</i>. οἰωνός, CHION. <i>Ep. 17</i>.<p><b>Étym</b>. οἰωνός.`

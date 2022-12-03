@@ -1,1 +1,0 @@
-lar[21881]=`<b>ατος (τὸ)</b> terre cultivée, PLAT. <i>Leg. 674c, au plur</i>.<p><b>Étym</b>. γεωργέω.`

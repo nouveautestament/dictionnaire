@@ -1,1 +1,0 @@
-lar[1776]=`<b>ἀεροβατέω-ῶ</b> <font color="purple">[ᾱᾰ]</font> marcher dans les airs, se perdre dans les nuages.<p>➳ <i>Seul. prés</i>. AR. <i>Nub. 225, 1503</i> ; PLAT. <i>Ap. 19c, et ao. part</i>. LUC. <i>Philopatr. 12</i>.<p><b>Étym</b>. ἀεροβάτης.`

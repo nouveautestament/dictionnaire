@@ -1,1 +1,0 @@
-lar[110011]=`<b>ψυχρο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> plongé dans l’eau fraîche <i>ou</i> froide, LUC. <i>Lex. 5</i>.<br><b>      2</b> teint à froid, TH. <i>fr. 4, 22</i>.<p><b>Étym</b>. ψυχρός, βάπτω.`

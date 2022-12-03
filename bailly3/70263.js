@@ -1,1 +1,0 @@
-lar[70263]=`<font color="darkgreen">(<i>seul. prés. et impf. itér</i>. οἰδαίνεσκον)</font> se gonfler, HDT. <i>3, 127</i> ; ARAT. <i>909 ; fig</i>. A.RH. <i>3, 383</i>.`

@@ -1,1 +1,0 @@
-lar[93354]=`<b>συγ·καταριθμέω-ῶ</b> <font color="purple">[ᾰρ]</font> énumérer avec, joindre à une énumération, EL. <i>V.H. 2, 41, etc. ; au pass</i>. PLUT. <i>M. 120b ;</i> PHIL. <i>1, 83</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTT. <i>Categ. 8, 38</i>.`

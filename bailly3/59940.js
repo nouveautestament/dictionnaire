@@ -1,1 +1,0 @@
-lar[59940]=`<b>ίδος</b> <font color="purple">[ᾰῑῐδ]</font> <i>adj. f. c</i>. Λατινιάς, CHRIST. <i>Ecphr. 303</i> ; NONN. <i>Jo. 19, 102</i>.`

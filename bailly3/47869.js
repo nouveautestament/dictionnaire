@@ -1,1 +1,0 @@
-lar[47869]=`<font color="purple">[ῡ]</font> être irrité, HÉS. <i>Sc. 269</i> ; AR. <i>Nub. 609</i> ; τινί, AR. <i>Nub. 1478,</i> contre qqn.<p><b>Étym</b>. θυμός.`

@@ -1,1 +1,0 @@
-lar[88665]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> fil tissé, BATR. <i>183</i>.<p><b>Étym</b>. ῥοδανός.`

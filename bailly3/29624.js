@@ -1,1 +1,0 @@
-lar[29624]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Enkélados (Encélade) <i>géant aux cent bras,</i> BATR. <i>3284</i> ; EUR. <i>H.f. 908, etc</i>.`

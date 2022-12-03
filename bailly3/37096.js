@@ -1,1 +1,0 @@
-lar[37096]=`<b>ἐπ·ενίημι</b> <font color="darkgreen">(<i>ao.2 inf</i>. ἐπενεῖναι)</font> introduire en outre, GAL. <i>8, 142</i>.`

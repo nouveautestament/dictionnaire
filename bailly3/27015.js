@@ -1,1 +1,0 @@
-lar[27015]=`<b>δίσ·ευνος, ος, ον</b>, qui a deux couches, <i>càd</i>. deux épouses, ANTH. <i>15, 26</i>.<p><b>Étym</b>. δίς, εὐνή.`

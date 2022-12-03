@@ -1,1 +1,0 @@
-lar[78856]=`<b>περι·κωκύω</b> <font color="purple">[ῡ]</font> se lamenter autour de, <i>acc</i>. OPP. <i>H. 4, 259</i> ; Q. SM. <i>3, 742</i>.`

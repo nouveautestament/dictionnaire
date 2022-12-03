@@ -1,1 +1,0 @@
-lar[11021]=`<i>adv</i>., sans tarder, avec diligence, HPC. <i>803d ;</i> PLAT. <i>Leg. 649b, etc</i>.<p>•<i> Sup</i>. -ότατα, XÉN. <i>Cyr. 1, 4, 2</i>.`

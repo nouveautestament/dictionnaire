@@ -1,1 +1,0 @@
-lar[93260]=`<b>ῆς (ἡ)</b> pli, jointure, XÉN. <i>Eq. 1, 1 ; au pl</i>. POLYBOS (ARSTT. <i>H.A. 3, 3, 4).</i><p><b>Étym</b>. συγκάμπτω.`

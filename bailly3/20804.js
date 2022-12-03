@@ -1,1 +1,0 @@
-lar[20804]=`<b>βριθύς, εῖα, ύ</b> <font color="purple">[ῑ]</font> lourd, pesant, IL. <i>5, 746, etc</i>.<p>•<i> Cp</i>. βριθύτερος, ESCHL. <i>Ag. 200</i>.<p><b>Étym</b>. <i>cf</i>. βρίθω.`

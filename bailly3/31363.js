@@ -1,1 +1,0 @@
-lar[31363]=`<b>εως (ἡ)</b> <font color="purple">[κᾰ]</font> purification, HIÉROCL. <i>C. aur. p 451 Mullach</i> ; MUSON. <i>203</i>.<p><b>Étym</b>. ἐκκαθαίρω.`

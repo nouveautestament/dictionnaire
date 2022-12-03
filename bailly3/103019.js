@@ -1,1 +1,0 @@
-lar[103019]=`<b>ὑπο·βαστάζω</b>, porter, soutenir, CHARIT. <i>3, 6 ; 4, 1</i> ; GAL. <i>14, 717</i>.`

@@ -1,1 +1,0 @@
-lar[10797]=`<i>att</i>. <b>ἁνυστός, ή, όν</b> <font color="purple">[ᾰ]</font> qu’on peut accomplir : ὡς ἁνυστόν, XÉN. <i>An. 1, 8, 11</i> ; ARSTT. <i>fr. 40</i> ; PLUT. <i>Lyc. 29, etc.</i> ; ᾗ ἁνυστόν, XÉN. <i>Lac. 1, 3,</i> autant que possible.<p><b>Étym</b>. ἀνύω.`

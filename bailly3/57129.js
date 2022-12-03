@@ -1,1 +1,0 @@
-lar[57129]=`<b>ῶν (αἱ)</b> Korsies (<i>près de</i> Khosia) <i>v. de Béotie,</i> DÉM. <i>19, 141 Baiter-Sauppe</i>.`

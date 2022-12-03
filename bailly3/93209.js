@@ -1,1 +1,0 @@
-lar[93209]=`<b>εως (ἡ)</b> conscience de qqe ch., connaissance, CLÉM. <i>327</i>.<p><b>Étym</b>. συγγιγνώσκω.`

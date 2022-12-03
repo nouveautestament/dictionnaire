@@ -1,1 +1,0 @@
-lar[101815]=`<b>οῦ (ὁ)</b> qui célèbre par ses chants, panégyriste, PLAT. <i>Rsp. 568b</i>.<p><b>Étym</b>. ὑμνέω.`

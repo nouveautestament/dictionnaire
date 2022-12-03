@@ -1,1 +1,0 @@
-lar[9990]=`<b>ἀντι·κρίνω</b> <font color="purple">[ῑν]</font><br><b>      1</b> juger à son tour <i>ou</i> en retour, ARSTD. <i>t. 2, 410</i>.<br><b>      2</b> comparer : τί τινι, EL. <i>N.A. 17, 34, ou</i> τι πρός τι, EL. <i>N.A. 2, 43,</i> une chose à une autre.<br><b><i>Moy.</i></b> se défendre <i>ou</i> lutter contre, SPT. <i>Job 9, 32 ; 11, 3</i>.`

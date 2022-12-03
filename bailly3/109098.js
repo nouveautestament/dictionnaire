@@ -1,1 +1,0 @@
-lar[109098]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> mine d’or, POL. <i>34, 10, 10 ; d’ord. au pl</i>. XÉN. <i>Hell. 4, 8, 37</i> ; TH. <i>fr. 2, 26 et 51 ; 14, 8</i> ; POL. <i>3, 57, 3</i> ; DS. <i>1, 15</i> ; PLUT. <i>Cim. 14</i>.<br><b>      2</b> atelier d’orfèvre, STR. <i>146</i>.<p><b>Étym</b>. χρυσός.`

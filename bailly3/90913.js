@@ -1,1 +1,0 @@
-lar[90913]=`<b>οῦντος (ὁ)</b> Skillunte (Scillunte) <i>v. de Triphylie,</i> XÉN. <i>An. 5, 3, 7, etc</i>.<p><b>Étym</b>. <i>contr. de</i> *σκιλλόεις, όεντος, « fertile en scilles », <i>de</i> σκίλλα.`

@@ -1,1 +1,0 @@
-lar[106850]=`<b>φρενο·δινής, ής, ές</b> <font color="purple">[ῑ]</font> qui frappe l’esprit de vertige, NONN. <i>Jo. 12, 109</i>.<p><b>Étym</b>. φρήν, δινέω.`

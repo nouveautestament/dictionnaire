@@ -1,1 +1,0 @@
-lar[87908]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῠῑῐδ]</font><br><b>      1</b> <i>autre n. de la plante</i> πύρεθρον, NIC. <i>Th. 683, etc.</i><br><b>      2</b> πυρῖτις νάρδος, GAL. <i>13, 213, autre n. de la plante</i> θυλακῖτις.<p><b>Étym</b>. <i>fém. de</i> πυρίτης.`

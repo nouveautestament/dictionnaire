@@ -1,1 +1,0 @@
-lar[11002]=`<font color="darkgreen">(<i>seul. impér. ao</i>. ἀοίδησον)</font> SIM. <i>fr. 174, c</i>. ἀοιδιάω.`

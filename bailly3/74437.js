@@ -1,1 +1,0 @@
-lar[74437]=`<b>Παλαί·σκηψις, εως (ἡ)</b> Palæskepsis, <i>v. de Mysie,</i> PHÆNIAS (PLUT. <i>Them. 29), etc</i>.<p><b>Étym</b>. π. Σκῆψις.`

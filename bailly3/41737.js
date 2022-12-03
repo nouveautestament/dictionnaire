@@ -1,1 +1,0 @@
-lar[41737]=`<b>εὔ·βρωτος, ος, ον</b>, bon à manger, qui a bon goût, ATH. <i>113b</i>.<p><b>Étym</b>. εὖ, βιβρώσκω.`

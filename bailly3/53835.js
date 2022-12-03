@@ -1,1 +1,0 @@
-lar[53835]=`<b>κατ·ειλυσπάομαι-ῶμαι</b> (<i>seul. prés</i>.) se glisser en bas, AR. <i>Lys. 722</i>.`

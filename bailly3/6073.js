@@ -1,1 +1,0 @@
-lar[6073]=`<b>ἀμφί·βραχυς, εως (ὁ)</b> <font color="purple">[ᾰχ]</font> <i>s.-e</i>. πούς, amphibraque, pied d’une longue entre deux brèves, DH. <i>Comp. 17</i> ; DRAC. <i>129, 5</i> ; HÉPH. <i>3, 2</i> ; A. QUINT. <i>p. 53</i>.<p><b>Étym</b>. ἀ. βραχύς.`

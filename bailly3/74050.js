@@ -1,1 +1,0 @@
-lar[74050]=`<b>ὀψό·πωλις, ιδος (ἡ)</b> <i>s.-e</i>. ἀγορά, marché aux comestibles, <i>particul</i>. aux poissons, PLUT. <i>Tim. 14</i>.<p><b>Étym</b>. <i>cf</i>. ὀψοπωλία, ὀψοπώλιον.`

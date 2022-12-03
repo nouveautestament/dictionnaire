@@ -1,1 +1,0 @@
-lar[53351]=`<i>adv</i>., de manière à former, à produire, ARSTT. <i>An. pr. 1, 46, 12, particul</i>. de manière à produire un résultat, d’une manière décisive, convaincante, CHRYS. <i>10, 22</i>.`

@@ -1,1 +1,0 @@
-lar[64037]=`<b>ου (τὸ)</b> mélisse, <i>plante,</i> VARR. <i>R.R. 3, 16</i>.`

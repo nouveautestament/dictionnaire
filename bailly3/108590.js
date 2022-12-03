@@ -1,1 +1,0 @@
-lar[108590]=`<b>ά, όν</b>, <i>c</i>. χλωρός, EUR. <i>Bacch. 866, Ion 497, Suppl. 599, etc. fig</i>. THCR. <i>Idyl. 27, 66</i>.`

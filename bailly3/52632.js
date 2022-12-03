@@ -1,1 +1,0 @@
-lar[52632]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> <i>c</i>. κατάκριμα, NT. <i>2Cor. 3, 9 ; 7, 3</i>.`

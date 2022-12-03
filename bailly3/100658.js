@@ -1,1 +1,0 @@
-lar[100658]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> chevelure <i>ou</i> barbe épaisse, <i>en parl. des hommes</i> ; poil long et touffu, <i>en parl. des animaux,</i> HDT. <i>7, 70</i> ; XÉN. <i>Cyn. 5, 30</i> ; ARSTT. <i>H.A. 9, 45, 2, etc. ; en parl. de la barbe,</i> ESCHL. <i>Sept. 664</i>.<p><b>Étym</b>. τριχόω.`

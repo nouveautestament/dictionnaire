@@ -1,1 +1,0 @@
-lar[3183]=`<i>adv</i>., sans cesse, ARR. <i>Epict. 2, 23 ; 46</i> ; AGATHIN. (ORIB. <i>2, 402, 9 B.-Dar</i>.).`

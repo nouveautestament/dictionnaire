@@ -1,1 +1,0 @@
-lar[64771]=`<b>μετ·ακολουθέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀκολουθέω, JAMBL. <i>V. Pyth. 178</i>.`

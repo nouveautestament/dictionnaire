@@ -1,1 +1,0 @@
-lar[14424]=`<b>ου (ὁ)</b> Aréios, <i>athlète,</i> LUC. <i>V.H. 2, 22</i>.`

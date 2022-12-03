@@ -1,1 +1,0 @@
-lar[65343]=`<b>οῦ (ὁ)</b> allongement (d’une voyelle brève) EUST. <i>Il. p. 81, 6</i>.<p><b>Étym</b>. μηκύνω.`

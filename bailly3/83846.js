@@ -1,1 +1,0 @@
-lar[83846]=`<b>προ·γένειος, ος, ον</b>, au menton allongé et saillant, THCR. <i>Idyl. 3, 9</i>.<p><b>Étym</b>. π. γένειον.`

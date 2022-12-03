@@ -1,1 +1,0 @@
-lar[26339]=`<i>adv</i>., faussement, STR. <i>47</i> ; M. ANT. <i>2, 17</i>.<p><b>Étym</b>. διαψεύδω.`

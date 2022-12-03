@@ -1,1 +1,0 @@
-lar[991]=`<b>ου (ὁ)</b> campagnard, paysan, pâtre, EUR. <i>Rhes. 266, 287 ; H.f. 377</i>.<p><b>Étym</b>. ἀγρός.`

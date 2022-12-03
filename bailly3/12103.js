@@ -1,1 +1,0 @@
-lar[12103]=`retenir son souffle, ARSTT. <i>Probl. 33, 13, 1</i>.<p><b>Étym</b>. ἄπνευστος.`

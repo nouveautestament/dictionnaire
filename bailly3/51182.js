@@ -1,1 +1,0 @@
-lar[51182]=`<b>καλλι·πάρθενος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> aux belles jeunes filles, EUR. <i>Hel. 1</i>.<br><b>      2</b> d’une belle jeune fille, EUR. <i>I.A. 1574</i>.<p><b>Étym</b>. κ. παρθένος.`

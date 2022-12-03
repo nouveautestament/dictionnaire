@@ -1,1 +1,0 @@
-lar[6924]=`<b>ἀνα·κηκίω</b> (<i>seul. prés</i>.) :<br><b>      1</b> jaillir, suinter, IL. <i>7, 262 ; 13, 705</i> ; πέτρης, A.RH. <i>3, 227,</i> d’une roche ; <i>rare en prose,</i> PLAT. <i>Phædr. 251b.</i><br><b>      2 <i>tr.</i></b> exhaler, A.RH. <i>4, 600</i>.`

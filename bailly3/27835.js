@@ -1,1 +1,0 @@
-lar[27835]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰμ]</font> course, HDT. <i>8, 98</i> ; ESCHL. <i>Pers. 247</i> ; SOPH. <i>O.R. 193</i>.<p><b>Étym</b>. δραμεῖν, <i>cf</i>. δρόμημα.`

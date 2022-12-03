@@ -1,1 +1,0 @@
-lar[38513]=`<b>ἐπι·νεφής, ής, ές :<br>      1</b> nuageux, nébuleux, ARSTT. <i>Probl. 26, 8, 1</i> ; TH. <i>C.P. 5, 12, 2</i>.<br><b>      2</b> <i>act</i>. qui amène des nuages, TH. <i>Vent. 4</i>.<p><b>Étym</b>. ἐπί, νέφος.`

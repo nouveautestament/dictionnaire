@@ -1,1 +1,0 @@
-lar[56084]=`<b>άδος</b>, <i>adj. f. seul</i>. κλισιάδες θύραι, DH. <i>5, 39, ou subst</i>. αἱ κλισιάδες, grande porte :<br><b>      1</b> porte cochère, DH. <i>5, 39</i> ; PLUT. <i>Popl. 20 ; fig</i>. HDT. <i>9, 9</i>.<br><b>      2</b> porte d’écluse, DH. <i>1, 66</i>.<p><b>Étym</b>. κλίνω ; <i>souv. écrit</i> κλεισιάδες, <i>de</i> κλείω.`

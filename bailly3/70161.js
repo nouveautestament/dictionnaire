@@ -1,1 +1,0 @@
-lar[70161]=`<b>ά, όν</b> <font color="purple">[ῠ]</font> douloureux, <i>au phys. et au mor</i>. EUR. <i>Hipp. 189</i> ; AR. <i>Ach. 230</i> ; ARSTT. <i>Rhet. 2, 10, 3</i>.<p>•<i> Cp</i>. -ότερος, AR. <i>Pl. 526 ; • Sup</i>. -ότατος, PLAT. <i>Gorg. 525c ;</i> DÉM. <i>1471, 4</i>.<p>➳ <i>Dor</i>. ὀδυναρός <font color="purple">[ᾱ]</font> PD. <i>P. 2, 91</i>.<p><b>Étym</b>. ὀδύνη.`

@@ -1,1 +1,0 @@
-lar[70521]=`<b>οἰνοδοτέω-ῶ</b>, donner du vin à, <i>acc</i>. ATH. (ORIB. <i>p. 69 Matthäi).</i><p><b>Étym</b>. *οἰνοδότης.`

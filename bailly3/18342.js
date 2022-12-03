@@ -1,1 +1,0 @@
-lar[18342]=`<b>ἀ·φωράτως</b> <font color="purple">[ρᾱ]</font> <i>adv</i>., sans être pris sur le fait, PHIL. <i>2, 521</i>.<p><b>Étym</b>. ἀ, φωράω.`

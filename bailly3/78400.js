@@ -1,1 +1,0 @@
-lar[78400]=`<b>περι·άργυρος, ος, ον</b> <font color="purple">[ῠ]</font> argenté tout autour, recouvert d’argent, CHARÈS (ATH. <i>538d</i>).<p><b>Étym</b>. π. ἄργυρος.`

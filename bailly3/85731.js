@@ -1,1 +1,0 @@
-lar[85731]=`<b>προσ·επισχυρίζω</b> <font color="purple">[ῡ]</font> fortifier encore <i>ou</i> en outre, DC. <i>40, 39</i> ; DL. <i>9, 77</i>.<p><b>Étym</b>. π. ἐπισχυρίζομαι.`

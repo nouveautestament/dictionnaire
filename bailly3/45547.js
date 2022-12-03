@@ -1,1 +1,0 @@
-lar[45547]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., une demi-fois, JAMBL.<p><b>Étym</b>. ἥμισυς, -άκις.`

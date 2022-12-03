@@ -1,1 +1,0 @@
-lar[34289]=`<b>ἔν·εδρος, ος, ον</b>, qui réside <i>ou</i> séjourne dans, habitant, SOPH. <i>Ph. 153</i>.<p><b>Étym</b>. ἐν, ἕδρα.`

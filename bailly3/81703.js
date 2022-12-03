@@ -1,1 +1,0 @@
-lar[81703]=`<b>πολυανδρέω-ῶ :<br>      1 <i>intr.</i></b> être très populeux, THC. <i>6, 17</i> ; STR. <i>383</i>.<br><b>      2 <i>tr.</i></b> rendre populeux, <i>d’où au pass</i>. être populeux, EL. <i>N.A. 5, 13</i>.<p><b>Étym</b>. πολύανδρος.`

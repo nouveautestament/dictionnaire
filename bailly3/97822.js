@@ -1,1 +1,0 @@
-lar[97822]=`<font color="purple">[ῑ]</font> <i>att. p</i>. ταῦτα.`

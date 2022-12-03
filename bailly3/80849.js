@@ -1,1 +1,0 @@
-lar[80849]=`<b>οῦ (ὁ)</b> Pleistos (<i>auj</i>. Plístos <i>ou</i> Plistós) <i>fl. de Phocide,</i> ESCHL. <i>Eum. 27</i> ; CALL. <i>H. 4, 92, etc</i>.`

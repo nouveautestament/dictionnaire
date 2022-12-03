@@ -1,1 +1,0 @@
-lar[107913]=`<b>Χαρί·κενος, ου (ὁ)</b> Kharikénos, <i>h</i>. LUC. <i>Philopatr. 20</i>.<p><b>Étym</b>. χάρις, κενός.`

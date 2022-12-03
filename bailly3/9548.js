@@ -1,1 +1,0 @@
-lar[9548]=`<b>ἀντ·εικάζω</b> <font color="darkgreen">(<i>f</i>. -εικάσομαι, <i>ao</i>. ἀντῄκασα)</font> comparer les traits, PLAT. <i>Men. 80c ;</i> répondre en rapprochant <i>ou</i> en comparant à son tour, AR. <i>Vesp. 1311</i>.`

@@ -1,1 +1,0 @@
-lar[87230]=`<b>πρωτο·μύστης, ου (ὁ)</b> qui est initié le premier, A. TAT. <i>3, 22</i>.`

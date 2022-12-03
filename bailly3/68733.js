@@ -1,1 +1,0 @@
-lar[68733]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Nikèratos, <i>h</i>. THC. <i>3, 91</i>.<p><b>Étym</b>. νίκη, ἐρατός.`

@@ -1,1 +1,0 @@
-lar[59297]=`<b>ητος (ἡ) :<br>      1</b> surdité, HPC. <i>Epid. 3, 1103</i> ; PLAT. <i>1 Alc. 128b ;</i> affaiblissement de l’ouïe, PLUT. <i>M. 33b, etc.</i><br><b>      2</b> <i>p. ext</i>. hébétement, affaiblissement, ARSTT. <i>H.A. 10, 1, 9 ; fig</i>. sottise, stupidité, DÉM. <i>411, 26</i>.<p><b>Étym</b>. κωφός.`

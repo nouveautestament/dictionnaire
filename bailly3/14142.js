@@ -1,1 +1,0 @@
-lar[14142]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> semblable à la gesse, TH. <i>H.P. 1, 6, 12</i>.<p><b>Étym</b>. ἄρακος, -ωδης.`

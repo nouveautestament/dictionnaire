@@ -1,1 +1,0 @@
-lar[66213]=`<b>Μνησι·μάχη, ης (ἡ)</b> <font color="purple">[ῐᾰ]</font> Mnèsimakhè, <i>f</i>. DÉM. <i>1083, 11</i>.<p><b>Étym</b>. <i>fém. de</i> Μνησίμαχος.`

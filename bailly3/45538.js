@@ -1,1 +1,0 @@
-lar[45538]=`<b>ἡμί·πους</b>, <i>gén</i>. <b>-ποδος (ὁ)</b> <font color="purple">[ῐ]</font> demi-pied, APD. POL. <i>34</i>.<p><b>Étym</b>. ἡμι-, πούς.`

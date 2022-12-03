@@ -1,1 +1,0 @@
-lar[65134]=`<b>μετεωρό·θηρος, ος, ον</b>, qui poursuit sa proie dans les airs, ARSTT. <i>H.A. 9, 36</i>.<p><b>Étym</b>. μετέωρος, θηράω.`

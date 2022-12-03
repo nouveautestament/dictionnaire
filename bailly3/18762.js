@@ -1,1 +1,0 @@
-lar[18762]=`<b>βαθύ·κνημος, ος, ον</b> <font color="purple">[ᾰῡ]</font> aux profondes vallées, NONN. <i>D. 13, 70</i>.<p><b>Étym</b>. β. κνημός.`

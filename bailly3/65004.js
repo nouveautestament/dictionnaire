@@ -1,1 +1,0 @@
-lar[65004]=`<b>μετα·τρέφω</b>, nourrir <i>ou</i> élever parmi, <i>dat</i>. A.RH. <i>1, 198 ; 2, 1234</i>.`

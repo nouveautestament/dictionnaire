@@ -1,1 +1,0 @@
-lar[21791]=`<b>(τὸ)</b> Germanum (<i>postér</i>. Κερμαλόν), <i>lieu près d’Albe,</i> PLUT. <i>Rom. 3</i>.`

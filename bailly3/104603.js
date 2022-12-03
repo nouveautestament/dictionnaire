@@ -1,1 +1,0 @@
-lar[104603]=`(<i>prés. et fut</i>.) manger, <i>au prés</i>. SPT. <i>Sir. 36, 23 ; au fut</i>. SPT. <i>Ruth 2, 14</i> ; NT. <i>Luc. 14, 15 ; 2 sg</i>. φάγεσαι, NT. <i>Luc. 17, 8</i>.<p><b>Étym</b>. <i>formé d’après</i> φαγεῖν.`

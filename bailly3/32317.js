@@ -1,1 +1,0 @@
-lar[32317]=`<b>ἐκ·φιλέω-ῶ</b> <font color="purple">[ῐ]</font> baiser tendrement, ANTH. <i>12, 250</i>.`

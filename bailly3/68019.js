@@ -1,1 +1,0 @@
-lar[68019]=`<b>νεκρό·ταγος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> chef <i>ou</i> juge des morts, <i>en parl. de Minos,</i> LYC. <i>1398</i>.<p><b>Étym</b>. ν. ταγός.`

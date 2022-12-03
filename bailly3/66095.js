@@ -1,1 +1,0 @@
-lar[66095]=`<b>ου (ὁ) :<br>      1</b> pédicule <i>ou</i> queue des feuilles, des fruits, TH. <i>H.P. 3, 3, 4</i> ; ATH. <i>82c.</i><br><b>      2</b> sorte de houe pour creuser la terre, <i>en Thessalie,</i> TH. <i>C.P. 3, 20, 8</i>.`

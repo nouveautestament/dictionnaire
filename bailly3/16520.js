@@ -1,1 +1,0 @@
-lar[16520]=`<b>ἀ·σύνθετος</b>, <i>anc. att</i>. <b>ἀξύνθετος, ος, ον :<br>      1</b> non composé, simple, PLAT. <i>Phæd. 78c, etc.</i> ; ARSTT. <i>Pol. 1, 1, 3, etc.</i><br><b>      2</b> non ajusté, non ordonné, confus, DÉM. <i>383, 6 (au</i> <i>• Sup</i>. -ώτατος).<p><b>Étym</b>. ἀ, συντίθημι.`

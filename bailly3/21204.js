@@ -1,1 +1,0 @@
-lar[21204]=`<b>γαλακτο·πότης, ου (ὁ)</b> <font color="purple">[γᾰ]</font> buveur de lait, HDT. <i>4, 216 ; 4, 186</i> ; EUR. <i>El. 169</i>.`

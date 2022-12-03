@@ -1,1 +1,0 @@
-lar[15333]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit morceau de pain, DL. <i>7, 13</i>.<p><b>Étym</b>. ἄρτος.`

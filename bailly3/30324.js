@@ -1,1 +1,0 @@
-lar[30324]=`<b>ή, όν</b>, comparable à, <i>dat</i>. SOPH. <i>Tr. 699</i>.<p><b>Étym</b>. <i>vb. de</i> εἰκάζω.`

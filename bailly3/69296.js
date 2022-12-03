@@ -1,1 +1,0 @@
-lar[69296]=`<b>νωθρο·κάρδιος, ος, ον</b>, qui a l’esprit lent <i>ou</i> lourd, SPT. <i>Prov. 12, 8</i>.<p><b>Étym</b>. νωθρός, καρδία.`

@@ -1,1 +1,0 @@
-lar[98365]=`<b>ου (τὸ)</b> toit, <i>d’où</i> maison, demeure, EUR. <i>Ph. 333, Or. 1371, Hipp. 418, Tr. 1296</i> ; ORPH. <i>Arg. 1196</i> ; LUC. <i>Am. 34</i>.<p><b>Étym</b>. <i>cf</i>. τέραμνον.`

@@ -1,1 +1,0 @@
-lar[9585]=`<b>ἀντ·ελπίζω</b> (<i>part. ao</i>. ἀντελπίσας) espérer en échange, THC. <i>1, 70</i>.`

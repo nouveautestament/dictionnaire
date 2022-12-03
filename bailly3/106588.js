@@ -1,1 +1,0 @@
-lar[106588]=`<b>ους (ἡ)</b> <font color="purple">[ῑ]</font> <i>propr</i>. l’île aux palmiers, <i>î. de la côte nord de Sicile,</i> ARSTT. <i>Mir. 132</i>.<p><b>Étym</b>. φοῖνιξ, -ωδης.`

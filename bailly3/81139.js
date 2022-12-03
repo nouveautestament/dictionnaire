@@ -1,1 +1,0 @@
-lar[81139]=`<b>οῦς (ἡ)</b> Ploutô :<br><b>      1</b> <i>fille d’Okéanos,</i> HÉS. <i>Th. 355</i>.<br><b>      2</b> <i>autre,</i> HH. <i>Cer. 422</i>.<p><b>Étym</b>. <i>cf</i>. Πλούτων.`

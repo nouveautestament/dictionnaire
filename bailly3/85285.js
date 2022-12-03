@@ -1,1 +1,0 @@
-lar[85285]=`<b>προσ·άρδω</b>, arroser encore, JOS. <i>B.J. 3, 3, 4</i>.`

@@ -1,1 +1,0 @@
-lar[9129]=`<b>ἀνισό·τονος, ος, ον</b> <font color="purple">[ᾰῐ]</font> non à l’unisson, PTOL. <i>Porph. Comm. 259</i>.<p><b>Étym</b>. ἄν. τόνος.`

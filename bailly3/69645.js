@@ -1,1 +1,0 @@
-lar[69645]=`<font color="purple">[ῠ]</font> ramasser du bois, MÉN. <i>Monost. 123</i>.<p><b>Étym</b>. ξύλον.`

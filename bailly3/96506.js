@@ -1,1 +1,0 @@
-lar[96506]=`<b>ου</b> <font color="purple">[ῡ]</font> <i>adj. m.</i> : κάλαμος, TH. <i>H.P. 4, 11, 10</i> ; DIOSC. <i>1, 114,</i> roseau à tige fistuleuse.<p><b>Étym</b>. σῦριγξ.`

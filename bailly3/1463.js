@@ -1,1 +1,0 @@
-lar[1463]=`<b>Ἄ·δμητος, ου (ὁ)</b> Admètos (Admète) :<br><b>      1</b> <i>roi de Thessalie, époux d’Alceste,</i> IL. <i>2, 713</i> ; PLAT. <i>Conv. 208d, etc.</i><br><b>      2</b> <i>roi des Molosses,</i> THC. <i>1, 136</i> ; PLUT. <i>Them. 24</i>.<p>➳ <i>Dor</i>. Ἄδματος <font color="purple">[μᾱ]</font> PD. <i>P. 4, 126</i>.`

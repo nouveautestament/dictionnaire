@@ -1,1 +1,0 @@
-lar[64715]=`<i>vb. de</i> μεταδίδωμι, XÉN. <i>Cyr. 7, 5, 79</i> ; PLAT. <i>Lys. 211c, 1 Alc. 134b, etc</i>.`

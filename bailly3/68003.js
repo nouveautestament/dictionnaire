@@ -1,1 +1,0 @@
-lar[68003]=`<b>νεκρο·κορίνθια, ων (τὰ)</b> vases précieux déposés dans les tombeaux, <i>à Corinthe,</i> STR. <i>381</i>.<p><b>Étym</b>. ν. Κόρινθος.`

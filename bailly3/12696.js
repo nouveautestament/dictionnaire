@@ -1,1 +1,0 @@
-lar[12696]=`<b>ἀπο·κτυπέω-ῶ</b> <font color="purple">[ῠ]</font> retentir, PHILSTR. <i>537</i>.`

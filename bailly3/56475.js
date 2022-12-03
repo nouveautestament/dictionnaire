@@ -1,1 +1,0 @@
-lar[56475]=`<b>κοινο·δίκαιον, ου (τὸ)</b> <font color="purple">[ῐ]</font> tribunal commun à des villes diverses, POL. <i>23, 15, 4</i>.<p><b>Étym</b>. κοινός, δίκαιος.`

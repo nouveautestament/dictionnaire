@@ -1,1 +1,0 @@
-lar[74700]=`<b>παμ·μέγας</b> <font color="purple">[γᾱ]</font>, <b>-μεγάλη</b> <font color="purple">[γᾰ]</font>, <b>-μέγα</b> <font color="purple">[γᾰ]</font> tout à fait grand, PLAT. <i>Phædr. 273a, etc</i>.<p>•<i> Sup</i>. παμμέγιστος, EL. <i>V.H. 10, 2</i>.<p><b>Étym</b>. π. μέγας.`

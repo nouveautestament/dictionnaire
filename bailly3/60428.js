@@ -1,1 +1,0 @@
-lar[60428]=`<b>εως (ἡ)</b> action de concasser, de broyer, BAS. <i>3, 582</i>.<p><b>Étym</b>. λεπτοποιέω.`

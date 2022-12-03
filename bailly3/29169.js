@@ -1,1 +1,0 @@
-lar[29169]=`<b>ωνος (ὁ)</b> Dôriôn, <i>h</i>. ARISTOD. (ATH. <i>337b</i>) <i>etc</i>.<p>➳ <i>Voc</i>. -ων, LUC. <i>D. mer. 14</i>.<p><b>Étym</b>. δῶρον.`

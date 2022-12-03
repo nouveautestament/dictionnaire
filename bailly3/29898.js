@@ -1,1 +1,0 @@
-lar[29898]=`<b>ος, ον</b>, d’anguille : τὸ ἐγχέλειον, AR. (ATH. <i>104a</i>) ; ANTIPH. (ATH. <i>295d</i>) ; τὰ ἐγχέλεια, AR. <i>Ach. 1043</i> ; PHÉRÉCRAT. (POLL. <i>6, 59) ; etc</i>. morceau <i>ou</i> chair d’anguille.<p><b>Étym</b>. ἔγχελυς.`

@@ -1,1 +1,0 @@
-lar[103749]=`<b>ὑπο·πυθμήν, ένος (ὁ, ἡ)</b> <i>mauv. leç</i>. IL. <i>11, 633 expliquée par</i> ATH. <i>492a au sens de</i> ὑποπυθμένιος.`

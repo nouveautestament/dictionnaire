@@ -1,1 +1,0 @@
-lar[108234]=`<b>ῶνος (ὁ)</b> sorte de muge, <i>poisson de mer,</i> ARSTT. <i>H.A. 5, 11, 3 ; 1, 17, 3 ; 8, 2, 26 ; fr. 299</i> ; HICÉS. (ATH. <i>306e</i>), <i>etc</i>.`

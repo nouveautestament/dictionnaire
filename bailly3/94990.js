@@ -1,1 +1,0 @@
-lar[94990]=`<b>συν·ασοφέω-ῶ</b> <font color="purple">[ᾰ]</font> partager la folie de, <i>dat</i>. EUR. <i>Ph. 394</i>.`

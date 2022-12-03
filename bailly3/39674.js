@@ -1,1 +1,0 @@
-lar[39674]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> hiver tardif <i>ou</i> mauvais temps survenant ensuite, PLIN. <i>H.N. 18, 25, 57</i>.<p><b>Étym</b>. ἐπιχειμάζω.`

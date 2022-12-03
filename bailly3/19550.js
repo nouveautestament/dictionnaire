@@ -1,1 +1,0 @@
-lar[19550]=`<b>ας (ἡ)</b> = <i>lat</i>. Venusia, Venouse, <i>v. d’Apulie,</i> PLUT. <i>Marc. 29</i>.`

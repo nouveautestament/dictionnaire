@@ -1,1 +1,0 @@
-lar[101143]=`<b>τυρο·πώλης, ου (ὁ)</b> <font color="purple">[ῡ]</font> marchand de fromages, AR. <i>Eq. 854</i>.<p><b>Étym</b>. τυρός, πωλέω.`

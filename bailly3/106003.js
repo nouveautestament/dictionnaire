@@ -1,1 +1,0 @@
-lar[106003]=`<b>φιλο·πλόκαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime les tresses bouclées, EUPH. <i>fr. 93</i>.`

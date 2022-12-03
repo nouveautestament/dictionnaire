@@ -1,1 +1,0 @@
-lar[96744]=`<b>(τὸ)</b> <i>indécl.</i> :<br><b>   I</b> peau ridée, CALL. <i>fr. 49</i>.<br><b>   II</b> <i>particul. ou p. anal.</i> :<br><b>      1</b> vieille peau dont se dépouillent les reptiles, les insectes, LUC. <i>Herm. 79</i>.<br><b>      2</b> pellicule qui se forme sur le lait, HSCH.<br><b>      3</b> vieillard, vieille femme, LYC. <i>793</i>.`

@@ -1,1 +1,0 @@
-lar[106672]=`<b>έως (ὁ) :<br>      1</b> porteur, portefaix, IL. <i>18, 566</i> ; A.RH. <i>1, 132</i> ; NONN. <i>D. 7, 216, etc. ; particul</i>. porteur de litière, PLUT. <i>Artax. 22</i>.<br><b>      2</b> ἵππος φορεύς, PLUT. <i>Æmil. 19,</i> cheval de somme.<p><b>Étym</b>. φορέω.`

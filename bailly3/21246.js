@@ -1,1 +1,0 @@
-lar[21246]=`<b>γαλεό·βδολον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> ortie jaune, <i>plante,</i> DIOSC. <i>4, 95</i>.<p><b>Étym</b>. γαλέη, βδόλος ; <i>cf</i>. γαλίοψις.`

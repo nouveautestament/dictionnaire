@@ -1,1 +1,0 @@
-lar[68521]=`<b>ής, ές :<br>      1</b> <i>act</i>. impitoyable, IL. <i>9, 497, etc.</i> ; HÉS. <i>Th. 456, 765</i>.<br><b>      2</b> <i>pass</i>. qui n’inspire pas de pitié, qu’on ne pleure pas, SOPH. <i>Ant. 1197</i>.<p>➳ <i>Épq</i>. νηλειής, HH. <i>Ven. 245</i> ; HÉS. <i>Th. 770</i> ; A.RH. <i>4, 476, etc</i>.<p><b>Étym</b>. νη-, ἔλεος.`

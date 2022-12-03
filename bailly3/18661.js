@@ -1,1 +1,0 @@
-lar[18661]=`<b>ος, ον :<br>      1</b> hors de saison, TH. <i>C.P. 2, 2, 2</i>.<br><b>      2</b> <i>p. suite,</i> prématuré, ANTH. <i>7, 600</i>.<p>➳ <i>Avec aspiration intérieure dans l’anc. att</i>. ἀὥριον, CIA. <i>1, 481, 1 (av. 480 av. J.-C.)</i>.<p><b>Étym</b>. ἄωρος.`

@@ -1,1 +1,0 @@
-lar[28290]=`<b>δυσ·διάγνωστος, ος, ον</b>, difficile à discerner <i>ou</i> à reconnaître sûrement, DH. <i>2, 71</i>.<p><b>Étym</b>. δ. διαγιγνώσκω.`

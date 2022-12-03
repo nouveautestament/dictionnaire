@@ -1,1 +1,0 @@
-lar[82353]=`<b>πολυ·σημάντωρ, ορος</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. qui commande à un grand nombre d’êtres, HH. <i>Cer. 31, 84, 377</i>.<p><b>Étym</b>. π. σημαίνω.`

@@ -1,1 +1,0 @@
-lar[75134]=`<b>παν·όσμιος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>propr</i>. « tout odorant », <i>n. d’une fleur inconnue,</i> NIC. (ATH. <i>684c</i>).<p><b>Étym</b>. π. ὀσμή.`

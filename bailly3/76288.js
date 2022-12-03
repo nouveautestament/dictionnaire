@@ -1,1 +1,0 @@
-lar[76288]=`<b>παρα·σφίγγω</b>, serrer étroitement, étreindre fortement, <i>fig</i>. A. APHR. <i>Probl. 1, 43</i>.`

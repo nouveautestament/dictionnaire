@@ -1,1 +1,0 @@
-lar[18190]=`<b>ατος (τὸ)</b> objet mis à part, SPT. <i>Ex. 29, 24, 26 ; Lev. 14, 24, etc</i>.<p><b>Étym</b>. ἀφορίζω.`

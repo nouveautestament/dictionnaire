@@ -1,1 +1,0 @@
-lar[18127]=`<b>ἀφ·ιππεύω</b>, <i>f</i>. εύσω, s’éloigner à cheval, XÉN. <i>An. 1, 5, 12</i> ; DS. <i>2, 19</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HLD. <i>4, 18</i>.`

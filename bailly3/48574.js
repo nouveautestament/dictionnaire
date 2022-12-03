@@ -1,1 +1,0 @@
-lar[48574]=`<b>ἱερο·βοτάνη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> verveine (<i>propr</i>. plante sacrée), <i>propre aux purifications,</i> DIOSC. <i>4, 61</i>.<p><b>Étym</b>. ἱερός, βοτάνη.`

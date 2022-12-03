@@ -1,1 +1,0 @@
-lar[19792]=`<i>gén. poét</i>. <b>-ίοιο (ὁ)</b> = <i>lat</i>. Virgilius, Virgile, ANTH. <i>App. 158. Cf</i>. βεργίλιος.`

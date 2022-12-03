@@ -1,1 +1,0 @@
-lar[15358]=`<b>ἀρτιο·παγής, ής, ές</b> <font color="purple">[πᾰ]</font> fixé en nombre pair, NICOM. <i>Harm. 11, p. 257, l. 24 Jan, p. 22, 1 M</i>.<p><b>Étym</b>. ἄ. πήγνυμι.`

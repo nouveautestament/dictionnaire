@@ -1,1 +1,0 @@
-lar[56657]=`<b>ωνος (ὁ)</b> <font color="purple">[ῡ]</font> sorte d’oiseau de proie, ARSTT. <i>H.A. 9, 23, 2</i>.`

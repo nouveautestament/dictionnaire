@@ -1,1 +1,0 @@
-lar[57095]=`<i>adv</i>., comme une bûche, HLD. <i>9, 19</i>.<p><b>Étym</b>. κορμός, -δον.`

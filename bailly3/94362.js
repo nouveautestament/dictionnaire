@@ -1,1 +1,0 @@
-lar[94362]=`<b>συμ·προΐημι</b>, lancer en avant ensemble, ARSTT. <i>Mech. 4, 3</i>.`

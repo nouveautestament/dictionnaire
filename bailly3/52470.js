@@ -1,1 +1,0 @@
-lar[52470]=`<b>κατα·καγχάζω</b>, rire aux éclats de, <i>gén</i>. ANTH. <i>5, 216</i>.`

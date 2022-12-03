@@ -1,1 +1,0 @@
-lar[19951]=`<b>άδος</b>, <i>adj. f</i>. qui bêle, bêlant, OPP. <i>C. 1, 145</i>.<p><b>Étym</b>. βληχάομαι.`

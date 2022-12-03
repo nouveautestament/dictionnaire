@@ -1,1 +1,0 @@
-lar[69328]=`<b>ῶν (οἱ)</b> les Noriques, habitants du Norique, PLUT. <i>Mar. 15</i>.<p><b>Étym</b>. <i>v</i>. Νώρικον.`

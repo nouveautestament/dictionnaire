@@ -1,1 +1,0 @@
-lar[45272]=`<b>ἡλό·πληκτος, ος, ον</b>, blessé (<i>propr</i>. frappé) par un clou, HIPPIATR. <i>121, 16</i>.<p><b>Étym</b>. ἧλος, πλήσσω.`

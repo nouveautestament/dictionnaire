@@ -1,1 +1,0 @@
-lar[107302]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de planter, plantation, ARSTT. <i>Mund. 6, 25</i>.<p><b>Étym</b>. φυτεύω.`

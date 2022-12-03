@@ -1,1 +1,0 @@
-lar[105758]=`<b>φιλοδικέω-ῶ</b> <font color="purple">[ῐῐ]</font> aimer les procès, la chicane, THC. <i>1, 77</i> ; ARSTT. <i>Rhet. 1, 12, 35</i>.<p><b>Étym</b>. φιλόδικος.`

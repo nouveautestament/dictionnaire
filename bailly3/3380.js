@@ -1,1 +1,0 @@
-lar[3380]=`<b>ἀ·κίναγμα, ατος (τὸ)</b> <font color="purple">[ᾰῐ]</font> battement (de mains <i>ou</i> de pieds) POÈT. (EM. <i>48, 39</i>).`

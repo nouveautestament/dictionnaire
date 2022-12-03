@@ -1,1 +1,0 @@
-lar[1506]=`<b>ἀ·δούλωτος, ος, ον</b>, non asservi, libre, DS. <i>1, 53</i> ; PLUT. <i>M. 754b</i>.<p><b>Étym</b>. ἀ, δουλόω.`

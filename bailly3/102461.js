@@ -1,1 +1,0 @@
-lar[102461]=`<b>ὑπερ·εράομαι-ῶμαι</b> <font color="darkgreen">(<i>ao</i>. ὑπερηράσθην)</font> aimer passionnément, <i>gén</i>. EL. <i>V.H. 12, 1</i>.`

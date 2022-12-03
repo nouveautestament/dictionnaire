@@ -1,1 +1,0 @@
-lar[27382]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. δοκιμαστής, POL. <i>Exc. 25, 8, 5</i>.`

@@ -1,1 +1,0 @@
-lar[75922]=`<b>ή, όν</b>, propre à mettre en parallèle, à comparer, PHILOD. <i>Œc. 15</i>.<p><b>Étym</b>. παραμετρέω.`

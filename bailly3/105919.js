@@ -1,1 +1,0 @@
-lar[105919]=`<b>φιλό·μαχος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime à combattre, belliqueux, batailleur, PD. <i>fr. 142</i> ; ESCHL. <i>Sept. 129, Ag. 230</i>.<p><b>Étym</b>. φ. μάχη.`

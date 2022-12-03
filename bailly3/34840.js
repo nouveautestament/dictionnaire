@@ -1,1 +1,0 @@
-lar[34840]=`<b>ἑνοποιέω-ῶ</b>, rendre un, ramener à l’unité, ARSTT. <i>An. 1, 5, 15</i> ; POL. <i>8, 6, 11</i> ; CLÉM. <i>1, 756 ; 2, 469 Migne</i>.<p><b>Étym</b>. ἑνοποιός.`

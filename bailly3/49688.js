@@ -1,1 +1,0 @@
-lar[49688]=`<b>ἰσο·μιλήσιος, ος, ον</b> <font color="purple">[ῑ̆ῑλ]</font> semblable aux gens <i>ou</i> aux choses de Milet, DS. <i>12, 21</i>.<p><b>Étym</b>. ἴ. Μιλήσιος.`

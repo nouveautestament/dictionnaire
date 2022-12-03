@@ -1,1 +1,0 @@
-lar[6607]=`<b>ή, όν</b> <font color="purple">[ᾰν]</font> <i>c</i>. ἀναγκαστήριος PLAT. <i>Leg. 930b ;</i> ARSTT. <i>Nic. 10, 9, 12</i>.`

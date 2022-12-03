@@ -1,1 +1,0 @@
-lar[88328]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῐ]</font> tailleur <i>ou</i> brodeur, SPT. <i>Ex. 27, 16</i>.<p><b>Étym</b>. *ῥαφιδεύω <i>de</i> ῥαφίς.`

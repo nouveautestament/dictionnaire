@@ -1,1 +1,0 @@
-lar[71524]=`<b>ὁμοιοκαταληκτέω-ῶ</b>, avoir une terminaison semblable, DYSC. <i>Pron. 115a</i>.<p><b>Étym</b>. ὁμοιοκατάληκτος.`

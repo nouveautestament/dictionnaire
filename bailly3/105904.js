@@ -1,1 +1,0 @@
-lar[105904]=`<b>φιλό·λουτρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à se baigner, HPC. <i>Acut. 395</i> ; ARSTT. <i>H.A. 8, 24, 11</i> ; EL. <i>N.A. 5, 29</i>.<p><b>Étym</b>. φ. λουτρόν.`

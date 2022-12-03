@@ -1,1 +1,0 @@
-lar[90696]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de fouir, PROCL. <i>Hes. O. 569</i>.<br><b>      2</b> <i>c</i>. κατασκαφή, APP. <i>Lib. 136</i>.<p><b>Étym</b>. σκάπτω.`

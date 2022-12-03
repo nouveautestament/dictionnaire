@@ -1,1 +1,0 @@
-lar[72458]=`<i>c</i>. ὁράω, ARCHYT. (JAMBL. <i>Protr. 3, p. 48</i>).`

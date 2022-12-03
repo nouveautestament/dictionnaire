@@ -1,1 +1,0 @@
-lar[39105]=`<b>ἐπι·σταχύω</b> <font color="purple">[ᾰῠ]</font>(<i>seul. ao. itér</i>. ἐπισταχύεσκον) pousser comme des épis, <i>en parl. de la barbe,</i> A.RH. <i>1, 972</i>.<p><b>Étym</b>. ἐπί, στάχυς.`

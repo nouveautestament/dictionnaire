@@ -1,1 +1,0 @@
-lar[37812]=`<b>ἐπι·θήραρχος, ου (ὁ)</b> commandant d’ (une section de 4) éléphants, EL. TACT. <i>23</i>.`

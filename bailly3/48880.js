@@ -1,1 +1,0 @@
-lar[48880]=`<b>α (ὁ)</b> <font color="purple">[ῑᾰ]</font> <i>dor. c</i>. Ἰόλαος, PD. <i>O. 10, 21</i>.`

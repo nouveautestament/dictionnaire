@@ -1,1 +1,0 @@
-lar[41805]=`<b>εὐ·γραμματία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> éducation d’un lettré, bonne éducation, GAL. <i>2, 75a</i>.<p><b>Étym</b>. εὖ, γράμμα.`

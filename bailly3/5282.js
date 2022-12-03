@@ -1,1 +1,0 @@
-lar[5282]=`<b>ἀ·μάσητος, ος, ον</b> <font color="purple">[μᾱ]</font> non mâché, SPT. <i>Job 20, 18</i> ; DIOSC. <i>Iob. 2, p. 62</i> ; ARCHIG. (ORIB. <i>2, 272 B.-Dar</i>.).<p><b>Étym</b>. ἀ, μασάομαι.`

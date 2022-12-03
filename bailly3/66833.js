@@ -1,1 +1,0 @@
-lar[66833]=`οῦ (ὁ) = <i>lat</i>. Mucianus, <i>n. d’h. rom</i>. PLUT. <i>Oth. 4</i>.`

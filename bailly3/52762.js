@@ -1,1 +1,0 @@
-lar[52762]=`<b>κατα·λοιδορέω-ῶ</b>, accabler d’insultes, <i>gén</i>. EUM. <i>p. 166, 309 ; acc</i>. APP. <i>1, 729 Schweigh</i>.`

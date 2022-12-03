@@ -1,1 +1,0 @@
-lar[92256]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> plein de graisse <i>ou</i> de lard, ARSTT. <i>H.A. 3, 17 ; 2, etc. P.A. 2, 6, 3 et 9</i> ; DIOSC. <i>1, 91</i> ; ORIB. <i>33, 2 Mai</i>.<p>➳ <i>Par contr</i>. στητώδης, GAL. <i>Lex. Hipp. 19, 140</i>.<p><b>Étym</b>. στέαρ, -ωδης.`

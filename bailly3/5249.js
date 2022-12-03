@@ -1,1 +1,0 @@
-lar[5249]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> qui coule par un conduit, NONN. <i>D. 47, 182</i>.<p><b>Étym</b>. ἀμάρη.`

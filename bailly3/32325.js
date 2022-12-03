@@ -1,1 +1,0 @@
-lar[32325]=`<b>ἐκ·φλογόω-ῶ</b>, enflammer, <i>seul. au pass</i>. s’enflammer, ARSTT. <i>Mir. 36</i> ; TH. <i>fr. 3, 67</i>.<p><b>Étym</b>. ἐκ, φλόξ.`

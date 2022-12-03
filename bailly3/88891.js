@@ -1,1 +1,0 @@
-lar[88891]=`<b>ῥυπαρο·κέραμος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> d’un rouge sale de brique, A. MYND. (ATH. <i>395d</i>).`

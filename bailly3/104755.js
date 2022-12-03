@@ -1,1 +1,0 @@
-lar[104755]=`<b>φαληριάω-ῶ</b> <font color="purple">[φᾰ]</font> (<i>seul. parf. prés. épq. pl. neutre</i> φαληριόωντα, IL. <i>13, 799,</i> φαληριῶν, ῶσα, LYC. <i>188, 492</i>) être blanc d’écume, IL. LYC. <i>ll.cc., ou</i> comme l’écume, ANTH. <i>App. 66</i>.<p><b>Étym</b>. φαληρός.`

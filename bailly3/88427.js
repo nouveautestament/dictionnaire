@@ -1,1 +1,0 @@
-lar[88427]=`<i>ou</i> <b>ῥηγμίς, ῖνος (ἡ) :<br>      1</b> point où les vagues se brisent en se heurtant les unes contre les autres, ligne de brisants, IL. <i>20, 229</i> ; OD. <i>9, 169, etc. ; d’où au plur</i>. brisants, EUR. <i>I.T. 253</i> ; ARSTT. <i>Meteor. 2, 8, 25</i>.<br><b>      2</b> <i>fig</i>. terme de la vie, mort, EMPÉD. <i>186 Mullach</i>.<p><b>Étym</b>. ῥήγνυμι.`

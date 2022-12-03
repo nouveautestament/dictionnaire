@@ -1,1 +1,0 @@
-lar[15485]=`(<i>seul. prés</i>.) :<br><b>      1</b> imiter les anciens, se donner l’air d’un ancien, DH. <i>Rhet. 10, 5</i> ; PLUT. <i>M. 558a.</i><br><b>      2</b> placer parmi les anciens, représenter comme ancien, CLÉM. <i>43</i>.<p><b>Étym</b>. ἀρχαῖος.`

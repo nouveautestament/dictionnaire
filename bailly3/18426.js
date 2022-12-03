@@ -1,1 +1,0 @@
-lar[18426]=`<b>ἀ·χείρωτος, ος, ον :<br>      1</b> non soumis, non conquis, THC. <i>6, 10</i> ; DS. <i>5, 15 ; etc.</i><br><b>      2</b> non façonné <i>ou</i> planté par la main de l’homme, SOPH. <i>O.C. 698</i>.<p><b>Étym</b>. ἀ, χειρόω.`

@@ -1,1 +1,0 @@
-lar[9207]=`<i>adv</i>., non familièrement : ἀν. ἔχειν πρός τι, SYN. <i>200c</i>, n’être pas familiarisé avec qqe ch.<p><b>Étym</b>. ἀνοίκειος.`

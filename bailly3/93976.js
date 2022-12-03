@@ -1,1 +1,0 @@
-lar[93976]=`<b>συμ·μέτοχος, ος, ον</b>, qui participe à : τινί τινος, JOS. <i>B.J. 1, 24, 6,</i> qui participe à une ch. avec qqn ; <i>subst</i>. celui qui participe à, <i>gén</i>. ARSTT. <i>Plant. 1, 1, 22</i> ; NT. <i>Eph. 5, 7</i>.`

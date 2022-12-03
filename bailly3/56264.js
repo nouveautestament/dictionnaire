@@ -1,1 +1,0 @@
-lar[56264]=`<b>ωνος (ὁ)</b> Knèmôn, <i>h</i>. LUC. <i>D. mort. 8, etc</i>.`

@@ -1,1 +1,0 @@
-lar[107333]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> entretien <i>ou</i> culture de plantes, jardinage, TH. <i>C.P. 3, 7, 5</i> ; DS. <i>20, 8, etc</i>.<p><b>Étym</b>. φυτουργός.`

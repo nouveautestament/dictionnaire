@@ -1,1 +1,0 @@
-lar[65269]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> nulle part, PLAT. <i>Phæd. 68a, etc.</i> ; μ. τῶν ὄντων, PLAT. <i>Parm. 162c</i>, en aucun lieu du monde.<br><b>      2</b> en rien : μ. νομίζεσθαι, ESCHL. <i>Eum. 423,</i> n’être nullement connu ; μ. εἶναι, XÉN. <i>Mem. 1, 2, 52,</i> n’avoir aucune valeur, n’être point estimé.<p><b>Étym</b>. μηδαμός.`

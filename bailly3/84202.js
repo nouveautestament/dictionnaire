@@ -1,1 +1,0 @@
-lar[84202]=`<i>dor. par contr</i>. <b>προὐξερευνητάς (ὁ)</b> éclaireur (d’une armée) EUR. <i>Rhes. 296</i>.<p><b>Étym</b>. προεξερευνάω.`

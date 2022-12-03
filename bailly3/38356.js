@@ -1,1 +1,0 @@
-lar[38356]=`<b>ἐπι·μαιμάω-ῶ</b> (<i>seul. part. prés</i>.) être avide de, <i>gén</i>. LYC. <i>301</i>.`

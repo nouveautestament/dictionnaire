@@ -1,1 +1,0 @@
-lar[18859]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> eunuque consacré au service de Cybèle, LUC. <i>Eun. 8</i>.<br><b>      2</b> <i>p. ext</i>. homme efféminé, ANTIPH. (ATH. <i>134b</i>).`

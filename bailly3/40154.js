@@ -1,1 +1,0 @@
-lar[40154]=`<font color="purple">[ᾰ]</font> <i>c</i>. ἐράω, être avide de, <i>seul. dans la phrase</i> χρειῶν ἐρατίζων, avide de chairs, IL. <i>11, 551 ; 17, 660</i> ; HH. <i>Merc. 64, 287</i>.<p><b>Étym</b>. ἐρατός.`

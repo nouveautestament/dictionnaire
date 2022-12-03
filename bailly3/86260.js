@@ -1,1 +1,0 @@
-lar[86260]=`<b>ου</b>, <i>adj. m</i>. du dème Prospaltes (<i>auj</i>. près de Kalývia Thorikoú) <i>dans la tribu Akhamantide,</i> PLAT. <i>Crat. 396d</i>.`

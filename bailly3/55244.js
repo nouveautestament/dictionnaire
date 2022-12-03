@@ -1,1 +1,0 @@
-lar[55244]=`<b>κηπ·ουρός, οῦ (ὁ) :<br>      1</b> gardien d’un jardin, PLAT. <i>Min. 316e</i> (<i>var</i>. κηπωρός) ; EUPH. (PHOT. <i>Bibl. p. 532, 22</i>).<br><b>      2</b> jardinier, PHILSTR. <i>p. 16, 18</i>.<p><b>Étym</b>. κῆπος, οὖρος.`

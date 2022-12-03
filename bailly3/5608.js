@@ -1,1 +1,0 @@
-lar[5608]=`<b>οῦ (ὁ)</b> habitant d’Amisos, PLUT. <i>Luc. 19, etc</i>.<p><b>Étym</b>. Ἀμισός.`

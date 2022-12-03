@@ -1,1 +1,0 @@
-lar[54059]=`<b>κατ·ιθύνω</b> <font color="purple">[ῑῡ]</font> diriger, gouverner, MOSCHION <i>2, 121</i> ; LUC. <i>Trag. 56</i> ; ANTH. <i>6, 188</i>.`

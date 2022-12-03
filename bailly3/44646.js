@@ -1,1 +1,0 @@
-lar[44646]=`<b>ός, όν</b> <font color="purple">[ῠ]</font> qui tire sous le joug, MOSCHION TR. (STOB. <i>Ecl. phys. 244).</i><p><b>Étym</b>. ζυγόν, ἕλκω.`

@@ -1,1 +1,0 @@
-lar[43039]=`<b>εὐπλοέω-οῶ</b>, faire une bonne navigation, LUC. <i>D. mort. 10, 10, etc</i>.<p><b>Étym</b>. εὔπλοος.`

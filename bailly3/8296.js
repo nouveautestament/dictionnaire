@@ -1,1 +1,0 @@
-lar[8296]=`<b>ἀν·έλλην, ηνος (ὁ, ἡ)</b> non grec, barbare, ESCHL. <i>Suppl. 234</i>.<p><b>Étym</b>. ἀν-, Ἕλλην.`

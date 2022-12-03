@@ -1,1 +1,0 @@
-lar[67061]=`<b>μυθο·τόκος, ος, ον</b> <font color="purple">[ῡ]</font> fécond en paroles, NONN. <i>Jo. 16, 15</i>.<p><b>Étym</b>. μῦθος, τίκτω.`

@@ -1,1 +1,0 @@
-lar[100500]=`<b>τρι·στάδιος, ος, ον</b> <font color="purple">[ᾰ]</font> de trois stades, PLAT. <i>Criti. 115e ;</i> DH. <i>1, 34</i>.<p><b>Étym</b>. τρεῖς, στάδιον.`

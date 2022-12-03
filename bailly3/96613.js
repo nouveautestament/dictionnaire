@@ -1,1 +1,0 @@
-lar[96613]=`<b>συ·σκυθρωπάζω</b>, avoir l’air sombre et triste en même temps <i>ou</i> avec, <i>dat</i>. EUR. <i>fr. 901, 9 ; abs</i>. XÉN. <i>Cyr. 6, 2, 21</i>.`

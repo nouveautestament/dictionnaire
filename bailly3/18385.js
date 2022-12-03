@@ -1,1 +1,0 @@
-lar[18385]=`<b>ητος (ἡ)</b> <font color="purple">[χᾰ]</font> manque de grâce <i>ou</i> d’agrément, <i>avec jeu de mots sur le n. pr</i>. Χαριμόρτης, POL. <i>18, 38, 2</i>.<p><b>Étym</b>. ἄχαρις.`

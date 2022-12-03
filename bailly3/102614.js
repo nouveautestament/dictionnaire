@@ -1,1 +1,0 @@
-lar[102614]=`<b>ὑπερ·κρατέω-ῶ</b> <font color="purple">[ᾰ]</font> l’emporter sur, maîtriser, dominer, <i>acc</i>. SPT. <i>3Reg. 16, 22 ; gén</i>. JOS. <i>A.J. 11, 3, 3 ; abs</i>. prévaloir, JOS. <i>A.J. 6, 10, 2</i>.`

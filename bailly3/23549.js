@@ -1,1 +1,0 @@
-lar[23549]=`<b>ου (ὁ)</b> l’Épouvante <i>personnifiée,</i> IL. <i>4, 440 ; 11, 37 ; 15, 119</i> ; HÉS. <i>Th. 934</i>.<p><b>Étym</b>. δείδω, <i>cf</i>. δεῖμα.`

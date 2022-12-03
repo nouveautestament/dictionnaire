@@ -1,1 +1,0 @@
-lar[66085]=`<b>μισό·φροντις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑῐδ]</font> qui hait les préoccupations, SYN. <i>250a</i>.<p><b>Étym</b>. μ. φροντίς.`

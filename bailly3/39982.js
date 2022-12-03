@@ -1,1 +1,0 @@
-lar[39982]=`<b>αι, α</b> <font color="purple">[ᾰ]</font> sept cents, HDT. <i>2, 140</i> ; THC. <i>1, 115</i>.<p><b>Étym</b>. ἑπτά, -κοσιοι.`

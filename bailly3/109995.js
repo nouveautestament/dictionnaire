@@ -1,1 +1,0 @@
-lar[109995]=`<b>ψυχό·τροφον, ου (τὸ)</b> <font color="purple">[ῡ]</font> bétoine (<i>litt</i>. que la fraîcheur fait croître) <i>plante,</i> DIOSC. <i>4, 1</i>.<p><b>Étym</b>. ψῦχος, τρέφω.`

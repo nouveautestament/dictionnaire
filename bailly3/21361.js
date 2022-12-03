@@ -1,1 +1,0 @@
-lar[21361]=`<b>α, ον</b> <font color="purple">[ᾰῠ]</font> de Ganymède, ANTH. <i>App. 51, 39 (fém. ion</i>. -είη).<p><b>Étym</b>. Γανυμήδης.`

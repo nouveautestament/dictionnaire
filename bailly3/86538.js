@@ -1,1 +1,0 @@
-lar[86538]=`<b>προ·συμπλέκω</b>, enlacer <i>ou</i> nouer auparavant, THÉODOT. <i>Dan. 11, 10</i>.`

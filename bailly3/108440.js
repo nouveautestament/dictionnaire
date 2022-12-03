@@ -1,1 +1,0 @@
-lar[108440]=`<b>άδος (ἡ)</b> <font color="purple">[χῑᾰδ]</font><br><b>      1</b> le nombre mille, un millier, HDT. <i>2, 28</i> ; ESCHL. <i>Pers. 341</i> ; PLAT. <i>Phædr. 256e, etc. ; p. ext</i>. un gros chiffre, THCR. <i>Idyl. 16, 91</i> ; LUC. <i>Herm. 56</i>.<br><b>      2</b> période de mille ans, A. ÉTOL. <i>p. 225</i>.<p><b>Étym</b>. χίλιοι.`

@@ -1,1 +1,0 @@
-lar[96212]=`<b>συν·ορίνω</b> <font color="purple">[ῑ]</font> exciter ensemble, <i>au moy</i>. se mettre ensemble en mouvement, s’ébranler, IL. <i>4, 332</i> ; A.RH. <i>3, 56</i>.`

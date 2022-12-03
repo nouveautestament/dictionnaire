@@ -1,1 +1,0 @@
-lar[86382]=`<b>προσ·ρήγνυμι</b> <font color="darkgreen">(<i>ao</i>. προσέρρηξα) :</font><br><b>      1 <i>tr.</i></b> briser contre, <i>dat</i>. JOS. <i>A.J. 9, 4, 6</i>.<br><b>      2 <i>intr.</i></b> se briser contre, <i>dat</i>. NT. <i>Luc. 6, 48</i>.<p><b>Étym</b>. <i>cf</i>. προσρήσσω.`

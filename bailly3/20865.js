@@ -1,1 +1,0 @@
-lar[20865]=`<b>βροτο·κλώστειρα, ας</b>, <i>adj. f</i>. qui file la destinée des mortels (mouvement des astres), MAN. <i>4, 11</i>.<p><b>Étym</b>. βροτός, κλώθω.`

@@ -1,1 +1,0 @@
-lar[20039]=`<b>ατος (τὸ) :<br>      1</b> secours, assistance, ARSTT. <i>Nic. 1, 6, 16</i> ; POL. <i>1, 22, 3</i>.<br><b>      2</b> <i>part</i>. remède, médecine, HPC. <i>12, 56</i> ; DS. <i>1, 25</i>.<p><b>Étym</b>. βοηθέω.`

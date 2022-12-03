@@ -1,1 +1,0 @@
-lar[51745]=`<b>ιδος (ἡ)</b> <font color="purple">[ῐδ]</font> le nombre du cœur, <i>càd</i>. le nombre vital <i>ou</i> nombre cinq, <i>chez les Pythagoriciens,</i> THEOL. <i>p. 32</i>.<p><b>Étym</b>. καρδία.`

@@ -1,1 +1,0 @@
-lar[80111]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πημονή ESCHL. <i>Pr. 1058</i> ; EUR. <i>fr. 902, 3 Nauck</i>.`

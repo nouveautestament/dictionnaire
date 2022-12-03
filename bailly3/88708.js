@@ -1,1 +1,0 @@
-lar[88708]=`<b>ῥοδό·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b>, aux bras de rose, HH. <i>31, 6</i> ; HÉS. <i>Th. 247, 251</i> ; SAPPH. <i>fr. 65 Bgk, etc</i>.<p>➳ <i>Dor</i>. ῥοδόπαχυς <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 2, 148</i>.<p><b>Étym</b>. ῥ. πῆχυς.`

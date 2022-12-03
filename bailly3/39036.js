@@ -1,1 +1,0 @@
-lar[39036]=`<b>ἐπι·σοφίζομαι</b>, imaginer avec art, EROT. (HPC. <i>791</i>) ; JAMBL. <i>V. Pyth. 86, p. 184</i>.`

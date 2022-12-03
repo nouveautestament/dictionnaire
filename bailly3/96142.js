@@ -1,1 +1,0 @@
-lar[96142]=`<b>συν·οίμιος, ος, ον</b>, qui résonne d’accord avec, A.RH. <i>2, 161</i>.<p><b>Étym</b>. σύν, οἴμη.`

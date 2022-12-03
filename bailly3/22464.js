@@ -1,1 +1,0 @@
-lar[22464]=`<b>γονυ·πετής, ής, ές</b> <font color="purple">[ῠ]</font> qui tombe à genoux, EUR. <i>Ph. 300</i> ; SYN. <i>Ep. 57</i>.<p><b>Étym</b>. γόνυ, πετ- <i>de</i> πίπτω.`

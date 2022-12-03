@@ -1,1 +1,0 @@
-lar[61501]=`être intendant, administrer comme intendant, <i>acc</i>. PHILSTR. <i>512</i>.<p><b>Étym</b>. λογιστής.`

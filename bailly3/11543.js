@@ -1,1 +1,0 @@
-lar[11543]=`<b>ῆρος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui menace, IL. <i>7, 96</i> ; ANTH. <i>6, 95</i>.<p><b>Étym</b>. ἀπειλέω.`

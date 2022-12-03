@@ -1,1 +1,0 @@
-lar[92793]=`<b>ατος (τὸ)</b> hésitation, lenteur, PLUT. <i>Alex. 58 conj</i>.<p><b>Étym</b>. στραγγεύομαι.`

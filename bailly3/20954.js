@@ -1,1 +1,0 @@
-lar[20954]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> infect, puant, XÉNOCR. <i>Al. 20</i> ; DIOSC. <i>4, 147</i>.<p><b>Étym</b>. βρῶμα = βρῶμος², -ωδης ; <i>cf</i>. βρωμώδης.`

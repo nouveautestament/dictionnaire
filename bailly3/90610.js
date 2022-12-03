@@ -1,1 +1,0 @@
-lar[90610]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀσκαλαβώτης, HÉCAT. (EUS. <i>P.E. 200c</i>).`

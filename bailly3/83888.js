@@ -1,1 +1,0 @@
-lar[83888]=`<b>προ·δεινόω-ῶ</b>, préparer avec soin, <i>acc</i>. RHÉT. <i>6, 124 W</i>.`

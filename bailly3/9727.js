@@ -1,1 +1,0 @@
-lar[9727]=`<font color="darkgreen">(<i>impf</i>. ἤντεον)</font> <i>ion. c</i>. ἀντάω ; <i>v. ce mot</i>.`

@@ -1,1 +1,0 @@
-lar[76166]=`<b>παρ·αρτύω</b>, préparer des aliments, <i>particul</i>. assaisonner, PHIL. <i>1, 665 ; 2, 477</i>.<br><b><i>Moy.</i></b> garnir, équiper : τινός, PLUT. <i>Luc. 7,</i> de qqe ch.`

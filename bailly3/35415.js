@@ -1,1 +1,0 @@
-lar[35415]=`<b>ἐξ·αμβλίσκω</b> (<i>seul. prés</i>.) avorter, EL. (SUID.).`

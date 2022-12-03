@@ -1,1 +1,0 @@
-lar[9265]=`<b>ἀν·ομοειδής, ής, ές</b>, non de même espèce, JAMBL. <i>Myst. 19</i>.<p><b>Étym</b>. ἀν-, ὁ.`

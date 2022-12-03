@@ -1,1 +1,0 @@
-lar[85524]=`<b>προσ·εκλύω</b>, relâcher <i>ou</i> énerver encore plus, <i>acc</i>. PLUT. <i>M. 143c</i>.`

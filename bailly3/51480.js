@@ -1,1 +1,0 @@
-lar[51480]=`<i>par sync. et assimil. p</i>. κατά : κὰν νόμον, PD. <i>O. 8, 103, p</i>. κατὰ νόμον.<p><b>Étym</b>. <i>cf</i>. κάκ <i>et</i> κάμ.`

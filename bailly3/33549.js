@@ -1,1 +1,0 @@
-lar[33549]=`<b>ἐμ·πολεμέω-ῶ</b>, faire la guerre dans, AND. <i>26, 41</i> ; PLUT. <i>M. 252a</i>.<p><b>Étym</b>. ἐν, π.`

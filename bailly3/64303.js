@@ -1,1 +1,0 @@
-lar[64303]=`<b>α (ὁ)</b> Ménékleidas, <i>h</i>. PLUT. <i>Pel. 25</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Μενεκλῆς.`

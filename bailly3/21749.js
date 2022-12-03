@@ -1,1 +1,0 @@
-lar[21749]=`<b>α, ον</b>, de Géræstos (Géreste), EUR. <i>Or. 993</i> ; CALL. <i>Del. 199</i> ; Γ. Κρόνου παῖς, AR. <i>Eq. 561,</i> le fils de Kronos, honoré à Géræstos, <i>càd</i>. Poséidon.<p>➳ <i>Fém</i>. -ος, EUR. <i>Cycl. 295</i>.<p><b>Étym</b>. Γεραιστός.`

@@ -1,1 +1,0 @@
-lar[68403]=`<b>ή, όν</b>, apte à nager, PLAT. <i>Soph. 220a, etc.</i> ; ARSTT. <i>H.A. 1, 1, etc</i>.<p><b>Étym</b>. νέω².`

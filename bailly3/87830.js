@@ -1,1 +1,0 @@
-lar[87830]=`<b>πυρηνο·σμίλη, ης (ἡ)</b> <font color="purple">[ῡῑ]</font> instrument de chirurgien garni d’un bouton à l’extrémité, P. ÉG. <i>6, 21</i>.`

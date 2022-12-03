@@ -1,1 +1,0 @@
-lar[38126]=`<i>adv</i>., avec ressentiment, ESCHL. <i>Pr. 162</i>.`

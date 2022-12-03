@@ -1,1 +1,0 @@
-lar[32297]=`<b>ἐκ·φαραγγόω-ῶ</b> <font color="purple">[φᾰ]</font> tomber dans un précipice, NYSS. <i>1, 89b Migne</i>.<p><b>Étym</b>. ἐκ, φάραγξ.`

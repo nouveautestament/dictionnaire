@@ -1,1 +1,0 @@
-lar[59110]=`<b>οῦ (ὁ)</b> action de vider une coupe, ARSTT. <i>Probl. 5, 38</i> ; MNÉSITH. (ATH. <i>484).</i><p><b>Étym</b>. κωθωνίζομαι.`

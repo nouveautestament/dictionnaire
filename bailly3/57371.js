@@ -1,1 +1,0 @@
-lar[57371]=`<b>ων (τὰ)</b> Kotyôres, <i>v. du Pont,</i> XÉN. <i>An. 5, 5, 3</i>.`

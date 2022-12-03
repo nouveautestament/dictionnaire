@@ -1,1 +1,0 @@
-lar[35334]=`<b>εως (ἡ) :<br>      1</b> instance judiciaire, poursuite, réclamation, DÉM. <i>1200, 27</i>.<br><b>      2</b> intercession, DÉM. <i>1385, 9</i>.<p><b>Étym</b>. ἐξαιτέω.`

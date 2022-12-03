@@ -1,1 +1,0 @@
-lar[59397]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> levreau, XÉN. <i>Cyn. 5, 13</i>.<p><b>Étym</b>. λαγώς.`

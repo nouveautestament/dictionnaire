@@ -1,1 +1,0 @@
-lar[31026]=`<b>ἑκατοντα·και·εικοσάκις</b>, <i>adv</i>., cent vingt fois, PTOL. <i>Math. synt. 1, p. 371 Halma</i>.<p><b>Étym</b>. ἑ. κ. εἴκοσι, -άκις.`

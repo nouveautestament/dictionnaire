@@ -1,1 +1,0 @@
-lar[42409]=`<b>εὔ·καυστος, ος, ον</b>, qui brûle facilement, TH. <i>Ign. 72</i>.<p><b>Étym</b>. εὖ, καίω.`

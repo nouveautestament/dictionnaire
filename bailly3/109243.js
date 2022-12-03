@@ -1,1 +1,0 @@
-lar[109243]=`<b>χρυσό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ῡ]</font> muni de pieds <i>ou</i> de supports en or, POL. <i>31, 3, 18</i> ; HÉRACLIDE CUM. (ATH. <i>145c</i>).<p><b>Étym</b>. χρ. πούς.`

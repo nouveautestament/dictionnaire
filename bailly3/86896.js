@@ -1,1 +1,0 @@
-lar[86896]=`<b>προ·ϋποτοπέω-ῶ</b>, suspecter auparavant, DC. <i>46, 49</i>.`

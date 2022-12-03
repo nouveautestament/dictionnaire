@@ -1,1 +1,0 @@
-lar[27916]=`<b>δριμυ·φαγέω-ῶ</b> <font color="purple">[ῑῠᾰ]</font> manger des aliments aigres, P. ÉG. <i>4, 131</i>.<p><b>Étym</b>. δριμύς, φαγεῖν.`

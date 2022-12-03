@@ -1,1 +1,0 @@
-lar[87516]=`<b>πυγο·στόλος, ος, ον</b> <font color="purple">[ῡ]</font> dont la robe dessine la croupe, HÉS. <i>O. 371</i>.<p><b>Étym</b>. πυγή, στέλλω.`

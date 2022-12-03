@@ -1,1 +1,0 @@
-lar[37654]=`<b>ἐπι·δοιάζω</b>, rendre double, <i>d’où</i> examiner dans les deux sens contraires, <i>càd</i>. dans tous les sens, A.RH. <i>3, 21</i>.`

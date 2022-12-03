@@ -1,1 +1,0 @@
-lar[75643]=`<b>παρ·αΐσσω</b> <font color="purple">[ᾱϊ]</font> <font color="darkgreen">(<i>ao</i>. παρήϊξα, <i>p. contr</i>. -ῇξα)</font> passer d’un bond rapide, s’élancer d’un bond auprès de, <i>acc</i>. IL. <i>5, 690 ; 11, 615 ; ou avec</i> ἐπί <i>et l’acc</i>. IL. <i>8, 98 ; abs</i>. IL. <i>20, 414</i>.<p>➳ <i>Impf. itér</i>. παραΐσσεσκον, A.RH. <i>2, 276</i>.`

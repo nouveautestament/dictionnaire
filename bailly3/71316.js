@@ -1,1 +1,0 @@
-lar[71316]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action d’aplanir, d’unir, PLUT. <i>M. 688f.</i><br><b>      2</b> <i>t. de gr</i>. prononciation égale, uniforme, SCH.-ESCHL. <i>Ag. 946</i>.<p><b>Étym</b>. ὁμαλίζω.`

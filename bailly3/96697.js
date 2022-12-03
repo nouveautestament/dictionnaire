@@ -1,1 +1,0 @@
-lar[96697]=`<b>      1</b> réunir par des fils (de lin) <i>acc</i>. EUR. <i>Or. 1435</i>.<br><b>      2</b> unir, ANTH. <i>7, 419</i>.<p><b>Étym</b>. συστολή.`

@@ -1,1 +1,0 @@
-lar[82772]=`<b>οῦ (ὁ)</b> dévastateur, LYC. <i>524</i>.<p>➳ <i>Dor</i>. πορθήτας <font color="purple">[ᾱ]</font> EUR. <i>Tr. 213</i>.<p><b>Étym</b>. πορθέω.`

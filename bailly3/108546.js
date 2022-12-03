@@ -1,1 +1,0 @@
-lar[108546]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐ]</font> <i>dim. de</i> χλανίδιον ARISTÉN. <i>1, 11</i>.`

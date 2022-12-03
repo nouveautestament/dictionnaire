@@ -1,1 +1,0 @@
-lar[24237]=`<b>δημο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ῐκᾰ]</font> qui enseigne le peuple, prédicateur, sermonnaire, SYN. <i>Ep. 153, 1553b Migne</i>.<p><b>Étym</b>. δῆμος, δ.`

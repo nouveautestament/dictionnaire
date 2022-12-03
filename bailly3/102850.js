@@ -1,1 +1,0 @@
-lar[102850]=`<b>ὑπερ·ύπατος, ος, ον</b> <font color="purple">[ῠπᾰ]</font> des dernières cordes, <i>t. de mus</i>. A. QUINT. <i>p. 10</i>.`

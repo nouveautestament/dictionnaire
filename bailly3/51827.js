@@ -1,1 +1,0 @@
-lar[51827]=`<b>ας (ἡ)</b> la Carmanie (<i>auj</i>. Kerman) <i>région de Perse,</i> PLUT. <i>Alex. 67</i>.`

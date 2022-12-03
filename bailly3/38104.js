@@ -1,1 +1,0 @@
-lar[38104]=`<b>ατος (τὸ)</b> ce que l’on colle sur, soudure, TH. <i>C.P. 4, 3, 3</i>.<p><b>Étym</b>. ἐπικολλάω.`

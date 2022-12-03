@@ -1,1 +1,0 @@
-lar[86418]=`<b>προσ·συκοφαντέω-ῶ</b> <font color="purple">[ῡ]</font> accuser <i>ou</i> calomnier en outre, DÉM. <i>280, 2</i>.`

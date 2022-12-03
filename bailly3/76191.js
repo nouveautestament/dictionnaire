@@ -1,1 +1,0 @@
-lar[76191]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> métier <i>ou</i> habitudes de parasite, LUC. <i>Par. 4</i>.<p><b>Étym</b>. παράσιτος.`

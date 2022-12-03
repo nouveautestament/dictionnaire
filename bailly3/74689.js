@@ -1,1 +1,0 @@
-lar[74689]=`<b>παμ·βότανον, ου (τὸ)</b> toutes les productions végétales (d’un pays), SPT. <i>Job 5, 25</i>.<p><b>Étym</b>. π. βοτάνη.`

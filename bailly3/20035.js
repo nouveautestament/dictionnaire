@@ -1,1 +1,0 @@
-lar[20035]=`<b>βοη·δρόμος, ος, ον</b>, qui accourt à l’aide, <i>d’où</i> secourable, EUR. <i>Ph. 1432 ; Or. 1290</i>.<p>➳ <i>Dor</i>. βοαδρόμος <font color="purple">[ᾱ]</font>, ANTH. <i>7, 231</i>.<p><b>Étym</b>. βοή, δραμεῖν.`

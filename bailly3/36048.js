@@ -1,1 +1,0 @@
-lar[36048]=`<b>ἑξκαιδεκα·σύλλαβος, ος, ον</b> <font color="purple">[ᾰβ]</font> de seize syllabes, HÉPH. <i>10, 12</i>.<p><b>Étym</b>. ἑ. συλλαβή.`

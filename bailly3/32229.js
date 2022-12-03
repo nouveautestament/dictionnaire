@@ -1,1 +1,0 @@
-lar[32229]=`<b>ἐκ·τριαινόω-ῶ</b>, frapper d’un trident, ébranler, LUC. <i>Pseud. 29</i>.<p><b>Étym</b>. ἐκ, τρίαινα.`

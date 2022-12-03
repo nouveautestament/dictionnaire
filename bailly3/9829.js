@@ -1,1 +1,0 @@
-lar[9829]=`<b>ἀντι·διαιρέω-ῶ</b>, diviser en opposant, diviser, distinguer, ARSTT. <i>Categ. 15, 3, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. STR. <i>662</i>.`

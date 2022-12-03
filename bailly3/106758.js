@@ -1,1 +1,0 @@
-lar[106758]=`<i>béot. c</i>. φῦσα, <i>part. ao.2 de</i> φύω, CORINN. <i>21</i>.`

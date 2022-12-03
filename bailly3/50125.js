@@ -1,1 +1,0 @@
-lar[50125]=`<b>(ὁ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. Ἰωάννης ANTH. <i>15, 12</i>.`

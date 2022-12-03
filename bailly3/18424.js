@@ -1,1 +1,0 @@
-lar[18424]=`<b>ἀ·χειροποίητος, ος, ον</b>, non fait de main d’homme, NT. <i>Marc. 14, 58 ; 2Cor. 5, 1 ; etc</i>.`

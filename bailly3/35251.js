@@ -1,1 +1,0 @@
-lar[35251]=`<font color="purple">[ᾰῑ]</font> <i>ion. c</i>. ἐξάγω, HDT. <i>6, 128</i>.`

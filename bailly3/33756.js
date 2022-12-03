@@ -1,1 +1,0 @@
-lar[33756]=`<b>ἔμ·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> qui est froid intérieurement <i>ou</i> profondément, DÉMOCR. (TH. <i>Sens. 53).</i><p><b>Étym</b>. ἐν, ψῦχος.`

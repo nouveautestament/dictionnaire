@@ -1,1 +1,0 @@
-lar[8528]=`<i>adv</i>., sans exciter l’envie, d’une manière irréprochable, THC. <i>6, 54</i> ; XÉN. <i>Hier. 7, 11</i> ; PLUT. <i>Cam. 1</i>.<p>•<i> Sup</i>. -ώτατα, DC. <i>38, 11</i>.`

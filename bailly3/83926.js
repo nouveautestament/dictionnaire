@@ -1,1 +1,0 @@
-lar[83926]=`<b>εως (ἡ)</b> explication préalable, PTOL.<p><b>Étym</b>. προδιαλαμβάνω.`

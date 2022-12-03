@@ -1,1 +1,0 @@
-lar[98655]=`<b>τετρά·πολος, ος, ον</b> <font color="purple">[ᾰ]</font> façonné <i>ou</i> labouré quatre fois, THCR. <i>Idyl. 25, 26</i>.<p><b>Étym</b>. τ. πολέω.`

@@ -1,1 +1,0 @@
-lar[12832]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> propre à libérer, qui délivre, ANT. <i>129, 4</i>.<p><b>Étym</b>. ἀπολύω.`

@@ -1,1 +1,0 @@
-lar[99818]=`<i>dat. sg. masc. et neutre de</i> οὗτος.`

@@ -1,1 +1,0 @@
-lar[56316]=`<b>κνισο·λοιχός</b>, <i>mieux que</i> <b>κνισσο·λοιχός, οῦ (ὁ)</b> gourmand (<i>propr</i>. qui lèche le rôti) SOPHIL. <i>et</i> AMPHIS (ATH. <i>125b, 386f</i>).<p><b>Étym</b>. κνῖσα, λείχω.`

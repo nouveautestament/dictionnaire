@@ -1,1 +1,0 @@
-lar[39916]=`<b>ἐπ·οχεύω</b>, saillir, ARSTT. <i>G.A. 2, 5, 6</i>.<br><b><i>Moy.</i></b> s’unir à, EMPÉD. (MACR. <i>Sat. 7, 5</i>).`

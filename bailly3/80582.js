@@ -1,1 +1,0 @@
-lar[80582]=`<b>πλαγιό·καρπος, ος, ον</b> <font color="purple">[ᾰγ]</font> dont les fruits sont sur les côtés, <i>en parl. d’un arbre,</i> TH. <i>H.P. 1, 14, 2</i>.<p><b>Étym</b>. πλ. καρπός.`

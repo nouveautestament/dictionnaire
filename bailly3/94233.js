@@ -1,1 +1,0 @@
-lar[94233]=`<b>ατος (τὸ)</b> assemblage, construction, APD. POL. <i>28c</i>.<p><b>Étym</b>. συμπήγνυμι.`

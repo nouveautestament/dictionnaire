@@ -1,1 +1,0 @@
-lar[38380]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> alliance défensive (<i>p. opp. à</i> συμμαχία, alliance offensive et défensive) THC. <i>1, 44 ; 5, 48</i> ; DIOSC. <i>160, 14</i> ; ARSTT. <i>Pol. 3, 9, 11</i>.<p><b>Étym</b>. ἐπίμαχος.`

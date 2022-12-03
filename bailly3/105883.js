@@ -1,1 +1,0 @@
-lar[105883]=`<b>φιλο·κωθωνιστής, οῦ (ὁ)</b> <font color="purple">[φῐ]</font> qui aime à boire, ivrogne, ATH. <i>433b</i>.<p><b>Étym</b>. φ. κωθωνίζω.`

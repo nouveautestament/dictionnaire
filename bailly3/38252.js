@@ -1,1 +1,0 @@
-lar[38252]=`<b>ἐπι·λαλέω-ῶ</b> <font color="purple">[ᾰ]</font> parler au milieu de, interrompre, SYMM. <i>Ps. 122, 4 ; Dan. 8, 13</i>.`

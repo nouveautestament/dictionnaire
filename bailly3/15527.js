@@ -1,1 +1,0 @@
-lar[15527]=`<b>ἀρχέ·κακος, ος, ον</b> <font color="purple">[κᾰ]</font> principe de mal, source de mal, IL. <i>5, 63,</i> PLUT. <i>M. 861a, etc</i>.<p><b>Étym</b>. ἄρχω, κακός.`

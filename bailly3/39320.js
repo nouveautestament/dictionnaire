@@ -1,1 +1,0 @@
-lar[39320]=`<b>ου (ὁ) :<br>      1</b> <i>c</i>. ἐπιτακτήρ GEOP. <i>17, 2, 4</i>.<br><b>      2</b> l’Impérieux, <i>surn. de T. Manlius Torquatus,</i> PLUT. <i>M. 308e</i>.<p><b>Étym</b>. ἐπιτάσσω.`

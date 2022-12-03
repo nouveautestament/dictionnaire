@@ -1,1 +1,0 @@
-lar[1526]=`<b>ἄ·δραστος, ος, ον :<br>      1</b> qui ne cherche pas à fuir, HDT. <i>4, 142</i>.<br><b>      2</b> qu’on ne peut éviter, D. CHR. <i>Or. 37, p. 106</i>.<p>➳ <i>Ion</i>. ἀδρηστός, HDT. <i>l. c</i>.<p><b>Étym</b>. ἀ, δράσκω.`

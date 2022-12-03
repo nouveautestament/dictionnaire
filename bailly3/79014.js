@@ -1,1 +1,0 @@
-lar[79014]=`<b>περι·ολκή, ῆς (ἡ) :<br>      1</b> évacuation par le bas, ORIB. <i>152 Matthäi</i>.<br><b>      2</b> diversion, empêchement, JOS. <i>A.J. 15, 6, 6</i>.<p><b>Étym</b>. περιέλκω.`

@@ -1,1 +1,0 @@
-lar[19912]=`<i>vb. de</i> βλέπω, PLAT. <i>Leg. 965d ;</i> ARSTT. <i>An. pr. 28, 1</i>.`

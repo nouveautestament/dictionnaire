@@ -1,1 +1,0 @@
-lar[108998]=`<b>α</b> <i>ou</i> <b>ος, ον</b>, qui concerne les oracles, les prophéties, HDT. <i>6, 80</i> ; ESCHL. <i>Eum. 241, Sept. 26, Ag. 1270</i> ; EUR. <i>Ion 1320, Hel. 822</i>.<p>➳ <i>Fém</i>. -ος, ESCHL. <i>Eum. 241</i>.<p><b>Étym</b>. χράω².`

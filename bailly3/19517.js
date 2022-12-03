@@ -1,1 +1,0 @@
-lar[19517]=`<b>α, ον</b>, <i>compar. poét. de</i> ἀγαθός, meilleur, <i>seul. au masc</i>. Ps.-PHOCYL. <i>130, et, au neutre, dans</i> HOM. βέλτερόν (ἐστι) <i>avec l’inf</i>. IL. <i>15, 511, etc.</i> ; OD. <i>17, 18,</i> il est mieux de ; βέλτερον εἰ, OD. <i>6, 282,</i> elle a mieux fait de, <i>etc. ; et dans</i> ESCHL. <i>Sept. 337, etc</i>.<p><b>Étym</b>. <i>cf</i>. βελτίων.`

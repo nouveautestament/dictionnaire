@@ -1,1 +1,0 @@
-lar[18280]=`<b>ἀφρο·φυής, ής, ές</b>, d’une nature écumeuse, <i>càd</i>. laiteuse, <i>en parl. d’une sorte de laitue,</i> ANTH. <i>9, 412</i>.<p><b>Étym</b>. ἀφρός, φύω.`

@@ -1,1 +1,0 @@
-lar[49278]=`<b>ας (ἡ)</b> action de traire les cavales, SCYMN. <i>815</i>.<p><b>Étym</b>. ἱππημολγός.`

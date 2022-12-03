@@ -1,1 +1,0 @@
-lar[4137]=`<b>ῆρος (ὁ)</b> qui cause de la douleur, ORACL. (ZOS. <i>1, 57).</i><p><b>Étym</b>. ἀλγύνω.`

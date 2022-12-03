@@ -1,1 +1,0 @@
-lar[16254]=`<font color="darkgreen">(<i>f</i>. εύσω)</font> <font color="purple">[ᾰβ]</font> monter une bête de somme, PLAT. COM. (POLL. <i>7, 186).</i><p><b>Étym</b>. ἀστράβη.`

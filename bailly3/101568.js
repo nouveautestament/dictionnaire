@@ -1,1 +1,0 @@
-lar[101568]=`<b>ὑδρο·πόρος, ος, ον</b>, qui s’avance à travers les eaux, NONN. <i>D. 2, 438</i>.<p><b>Étym</b>. ὕδ. πορεύομαι.`

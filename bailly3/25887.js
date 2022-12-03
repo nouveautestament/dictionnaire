@@ -1,1 +1,0 @@
-lar[25887]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>vb. de</i> διαφυλάσσω, XÉN. <i>Cyr. 5, 3, 43</i> ; ARSTT. <i>Rhet. Al. c. 3</i>.`

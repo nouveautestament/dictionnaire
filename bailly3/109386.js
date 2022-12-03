@@ -1,1 +1,0 @@
-lar[109386]=`<b>ου (ὁ) :<br>      1</b> cavité, <i>particul</i>. endroit creux dans le lit d’un fleuve, trou d’où jaillit une source, M. RUBR. <i>44 (ion</i>. κυθρῖνος) ; A. CAR. <i>Mir. c. 176</i>.<br><b>      2</b> cavité pour un nid dans un colombier, GEOP. <i>14, 6, 3</i>.<p><b>Étym</b>. χύτρος.`

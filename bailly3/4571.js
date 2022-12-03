@@ -1,1 +1,0 @@
-lar[4571]=`<b>*ἀ·λιτάνευτος, ος, ον</b> <font color="purple">[ῐᾰ]</font> inexorable, ANTH. <i>7, 483 (poét</i>. ἀλλιτ-).<p><b>Étym</b>. ἀ, λιτανεύω.`

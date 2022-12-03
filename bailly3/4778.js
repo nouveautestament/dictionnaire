@@ -1,1 +1,0 @@
-lar[4778]=`<b>ἀλλο·εθνής, ής, ές</b>, qui concerne un peuple étranger, SPT. <i>3Macc. 4, 6</i> ; DS. <i>2, 37, etc.</i> ; DH. <i>5, 5</i> ; JOS. <i>A.J. 19, 7, 3</i>.<p><b>Étym</b>. ἄ. ἔθνος.`

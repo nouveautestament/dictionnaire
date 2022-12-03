@@ -1,1 +1,0 @@
-lar[39059]=`<b>ῆς (ἡ)</b> traité <i>ou</i> trêve conclus postérieurement, THC. <i>5, 32, au pl</i>.<p><b>Étym</b>. ἐπισπένδω.`

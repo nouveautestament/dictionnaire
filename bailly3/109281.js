@@ -1,1 +1,0 @@
-lar[109281]=`<b>χρυσ·ούατος, ος, ον</b> <font color="purple">[ῡᾰ]</font> aux oreilles, <i>càd</i>. aux anses d’or, HOM. <i>fr. 68</i>.<p><b>Étym</b>. χρ. οὖας.`

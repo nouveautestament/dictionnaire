@@ -1,1 +1,0 @@
-lar[109216]=`<b>χρυσο·μίτρη, ης</b> <font color="purple">[ῡ]</font> <i>adj. f. c</i>. χρυσομίτρης OPP. <i>C. 2, 2</i>.`

@@ -1,1 +1,0 @@
-lar[2842]=`<i>adv</i>., avec faculté de sentir, ARSTT. <i>Eud. 3, 2, 8</i> ; ARR. <i>Epict. 1, 14, 7</i> ; SEXT. <i>267, 12 Bkk.</i> : αἰ. ἔχειν ἑαυτοῦ, EL. <i>V.H. 14, 23,</i> avoir conscience de soi-même.<p>•<i> Cp</i>. -ώτερον, CHRYS.`

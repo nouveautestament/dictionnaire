@@ -1,1 +1,0 @@
-lar[109138]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Khrysès :<br><b>      1</b> <i>prêtre d’Apollon, père de Khrysèïs,</i> IL. <i>1, 11, 370, 442, 450</i> ; PLAT. <i>Rsp. 392c, etc.</i><br><b>      2</b> <i>autres,</i> ANTH. <i>11, 117, etc</i>.<p>➳ <i>Voc</i>. Χρύση, IL. <i>1, 442</i>.<p><b>Étym</b>. Χρυσός.`

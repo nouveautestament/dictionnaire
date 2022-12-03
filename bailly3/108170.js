@@ -1,1 +1,0 @@
-lar[108170]=`<b>χειρο·στρόφιον, ου (τὸ)</b> tord-mains <i>ou</i> tord-bras, instrument de torture, SYN. <i>201c</i>.<p><b>Étym</b>. χ. στρέφω.`

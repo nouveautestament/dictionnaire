@@ -1,1 +1,0 @@
-lar[33889]=`<b>ἐναντιο·λογία, ας (ἡ)</b> contradiction, PLAT. <i>Soph. 236e ;</i> ARSTT. <i>Gen. et corr. 1, 7, 3</i>.<p><b>Étym</b>. <i>cf</i>. ἐναντιολογέω.`

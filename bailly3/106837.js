@@ -1,1 +1,0 @@
-lar[106837]=`<b>φρεν·ήρης, ης, ες</b>, sensé, raisonnable, prudent, HDT. <i>3, 25, etc.</i> ; EUR. <i>Her. 150</i> ; LUC. <i>Cal. 3 ; joint à</i> συνετός, PLUT. <i>M. 323c</i>.<p><b>Étym</b>. φρήν, *ἄρω.`

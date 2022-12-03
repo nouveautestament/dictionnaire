@@ -1,1 +1,0 @@
-lar[40859]=`<i>adv</i>., du dème Erkhia (Ἐρχιά) <i>dème attique de la tribu Égéide,</i> DIN. (HARP.).`

@@ -1,1 +1,0 @@
-lar[86908]=`<b>προυσελέω-ῶ</b> (<i>seul. prés. act. et pass</i>.) insulter, outrager, <i>acc</i>. ESCHL. <i>Pr. 435</i> ; AR. <i>Ran. 730</i>.<p><b>Étym</b>. <i>p</i>. *προϝσελέω, <i>de</i> *προσϝελέω.`

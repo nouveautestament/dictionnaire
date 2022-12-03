@@ -1,1 +1,0 @@
-lar[58532]=`<b>έως (ὁ)</b> <font color="purple">[υ]</font> Kyklée, <i>h</i>. ANTH. <i>App. 105</i>.`

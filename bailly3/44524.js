@@ -1,1 +1,0 @@
-lar[44524]=`<b>ζηλό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> jaloux, AR. <i>Pl. 1016</i> ; ANTH. <i>5, 12</i>.<p><b>Étym</b>. ζῆλος, τύπτω.`

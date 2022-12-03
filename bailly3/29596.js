@@ -1,1 +1,0 @@
-lar[29596]=`<b>ἐγ·κατερείδω</b>, appuyer fortement sur, <i>dat</i>. PHILSTR. <i>Gymn. § 31</i>.<p><b>Étym</b>. ἐν, κ.`

@@ -1,1 +1,0 @@
-lar[30297]=`<i>interj.</i> :<br><b>      1</b> eh bien ! <i>chez les</i> ATT. (SOPH. <i>El. 534</i> ; EUR. <i>Med. 386, etc</i>.).<br><b>      2</b> pour exprimer l’impatience, allons ! AR. <i>Nub. 176</i>.<p>➳ εἶεν spondée dans εἶεν, ἀκούω, ESCHL. <i>Ch. 627</i> ; AR. <i>Pax 663 ; en dehors du vers dans</i> EUR. <i>l. c</i>.<p><b>Étym</b>. <i>onomatopée, cf</i>. εἶα.`

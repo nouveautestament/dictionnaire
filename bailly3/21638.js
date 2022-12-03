@@ -1,1 +1,0 @@
-lar[21638]=`<i>adv</i>., dès la naissance, ARAT. <i>260</i> ; ANTH. <i>7, 445</i>.<p><b>Étym</b>. γενεή, -θεν.`

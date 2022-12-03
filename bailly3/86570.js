@@ -1,1 +1,0 @@
-lar[86570]=`<b>προσ·υπομιμνῄσκω :<br>      1</b> faire souvenir : τινά τι, POL. <i>39, 2, 2,</i> qqn de qqe ch.<br><b>      2</b> mentionner en outre, STR. <i>824, vb</i>. προσυπομνηστέον.`

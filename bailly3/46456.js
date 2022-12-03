@@ -1,1 +1,0 @@
-lar[46456]=`<b>ῶνος (ὁ)</b> demeure de prêtres, PAUS. <i>5, 15, 8, mot éléen</i>.<p><b>Étym</b>. θεηκόλος.`

@@ -1,1 +1,0 @@
-lar[28961]=`<b>δυσ·ύποιστος, ος, ον</b> <font color="purple">[ῠῠ]</font> difficile à supporter, intolérable, ANTH. <i>5, 163</i> ; JOS. <i>A.J. 15, 7, 1</i>.<p><b>Étym</b>. δ. ὑποίσομαι, <i>fut. de</i> ὑποφέρω.`

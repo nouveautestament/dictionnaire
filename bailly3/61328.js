@@ -1,1 +1,0 @@
-lar[61328]=`<b>λιπό·θηλος</b>, <i>mieux que</i> <b>λειπό·θηλος, ος, ον</b>, privé de mamelles, GEOP. <i>19, 6, 8</i>.<p><b>Étym</b>. λ. θηλή.`

@@ -1,1 +1,0 @@
-lar[10422]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> adversaire, ESCHL. <i>Sept. 518</i> ; PLUT. <i>M. 1084b.</i><br><b>      2</b> montant de face, pied-droit de front (d’une machine de jet) HÉRON <i>Bel. 131</i>.<p><b>Étym</b>. ἀνθίστημι.`

@@ -1,1 +1,0 @@
-lar[71571]=`<b>ὁμοιό·χωρος, ος, ον</b>, qui occupe le même espace que, <i>dat</i>. HERM. (STOB. <i>Ecl. phys. p. 1102).</i><p><b>Étym</b>. ὅμ. χώρα.`

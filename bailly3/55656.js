@@ -1,1 +1,0 @@
-lar[55656]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> κίστη ARTÉM. <i>1, 2</i>.`

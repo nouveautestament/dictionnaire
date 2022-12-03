@@ -1,1 +1,0 @@
-lar[108521]=`<b>ής, ές</b> <font color="purple">[ῑ]</font> travaillé à la façon de Khios, CRITIAS (ATH. <i>486e</i>).<p><b>Étym</b>. Χίος, ἔργον.`

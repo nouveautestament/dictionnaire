@@ -1,1 +1,0 @@
-lar[81720]=`<b>Πολυ·άρατος, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Polyaratos, <i>h</i>. DÉM. <i>40, 6, 24</i> ; IS. <i>5, 5, Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. πολυάρατος.`

@@ -1,1 +1,0 @@
-lar[84104]=`<b>προ·εκρήγνυμαι</b> <font color="purple">[ῠ]</font> éclater auparavant <i>ou</i> avant le temps, HPC. <i>Epid. 1, 942, etc</i>.`

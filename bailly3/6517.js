@@ -1,1 +1,0 @@
-lar[6517]=`<b>εως (ἡ)</b> action de porter en l’air, GAL. <i>2, 84</i>.<p><b>Étym</b>. ἀναβαστάζω.`

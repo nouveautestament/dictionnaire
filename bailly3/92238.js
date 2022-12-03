@@ -1,1 +1,0 @@
-lar[92238]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. à épis, <i>ép. du</i> ποταμογείτων <i>et du</i> τριπόλιον, DIOSC. <i>4, 101, 135</i>.<p><b>Étym</b>. στάχυς.`

@@ -1,1 +1,0 @@
-lar[95196]=`<b>συν·διοικονομέω-ῶ</b>, régler en même temps, NYSS. <i>3, 965 Migne</i>.`

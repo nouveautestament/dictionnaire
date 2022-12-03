@@ -1,1 +1,0 @@
-lar[27810]=`<b>δρακοντό·κομος, ος, ον</b> <font color="purple">[ᾰ]</font> à la chevelure formée de serpents, NONN. <i>D. 1, 18</i>.<p><b>Étym</b>. δράκων, κόμη.`

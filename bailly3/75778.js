@@ -1,1 +1,0 @@
-lar[75778]=`<b>παρ·ακόλουθος, ος, ον</b> <font color="purple">[ᾰκ]</font> qui suit immédiatement, <i>dat</i>. RUF. (ORIB. <i>44, 7</i>).`

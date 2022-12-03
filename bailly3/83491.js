@@ -1,1 +1,0 @@
-lar[83491]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> séducteur, corrupteur, PTOL. <i>Tetr. p. 163</i>.<p><b>Étym</b>. προαγωγός.`

@@ -1,1 +1,0 @@
-lar[105558]=`<b>φιλ·εραστής, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> enclin à l’amour, PLAT. <i>Conv. 192b ;</i> ARSTT. <i>Rhet. 1, 11, 26</i>.`

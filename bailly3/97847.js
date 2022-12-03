@@ -1,1 +1,0 @@
-lar[97847]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> stupeur, OD. <i>21, 122 ; 23, 93 ; 24, 455, etc.</i> ; HH. <i>6, 37 (seul. au nom</i>.).<p><b>Étym</b>. τέθηπα.`

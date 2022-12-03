@@ -1,1 +1,0 @@
-lar[10439]=`<b>ἀντί·στομος, ος, ον</b>, aux fronts opposés, <i>en parl. d’armées,</i> ARR. <i>Tact. 29, 2</i>.<p><b>Étym</b>. ἀ. στόμα.`

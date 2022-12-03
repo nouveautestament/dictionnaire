@@ -1,1 +1,0 @@
-lar[94786]=`<b>συν·ανδρόομαι-οῦμαι</b> <font color="darkgreen">(<i>ao</i>. συνηνδρώθην)</font> croître <i>ou</i> prendre de la force en même temps qu’on devient homme, HPC. <i>Prorrh. 92</i> ; JOS. <i>B.J. 1, 23, 1</i>.`

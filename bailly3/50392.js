@@ -1,1 +1,0 @@
-lar[50392]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> <i>c</i>. κάθεμα, ANTIPH. (POLL. <i>5, 98</i>).`

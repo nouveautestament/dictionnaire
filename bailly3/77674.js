@@ -1,1 +1,0 @@
-lar[77674]=`<b>*πεῖσα</b>, <i>ion</i>. <b>πείση, ης (ἡ)</b> effet de la persuasion, <i>d’où</i> calme, repos, OD. <i>20, 23</i>.<p><b>Étym</b>. πείθω.`

@@ -1,1 +1,0 @@
-lar[98496]=`<i>adv</i>., quatrièmement, PLAT. <i>Tim. 86a</i>.`

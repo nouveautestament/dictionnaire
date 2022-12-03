@@ -1,1 +1,0 @@
-lar[21010]=`<b>ατος (τὸ)</b> <font color="purple">[ῠᾰν]</font> son du cor à bouquin, APP. <i>Lib. 21</i>.<p><b>Étym</b>. βυκανάω.`

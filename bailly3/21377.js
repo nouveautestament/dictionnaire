@@ -1,1 +1,0 @@
-lar[21377]=`<b>αντος (ὁ)</b> <font color="purple">[ᾰᾰμ]</font> Garamante, <i>personn. myth. d’où sont issus les Garamantes,</i> A.RH. <i>4, 1494 ; etc</i>.`

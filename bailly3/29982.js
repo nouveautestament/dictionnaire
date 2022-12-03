@@ -1,1 +1,0 @@
-lar[29982]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> mangeable, ESCHL. <i>Ag. 1407</i>.<p><b>Étym</b>. ἔδω.`

@@ -1,1 +1,0 @@
-lar[24055]=`<b>δευτερο·βόλος, ος, ον</b>, qui fait ses secondes dents, HIÉROCL. <i>Facet. 4</i>.<p><b>Étym</b>. δεύτερος, βάλλω.`

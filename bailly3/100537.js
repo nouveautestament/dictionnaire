@@ -1,1 +1,0 @@
-lar[100537]=`<b>α, ον</b> <font color="purple">[ῐτ]</font> <i>c</i>. τριτάλαντος PLUT. <i>Æmil. 33 ; subst</i>. ὁ τρ. (<i>s.-e</i>. πετροβόλος) PHIL. BYZ. <i>Bel. p. 51d</i>, baliste <i>ou</i> pierrier de trois talents = 180 mines.<p><b>Étym</b>. 78,534 kg.`

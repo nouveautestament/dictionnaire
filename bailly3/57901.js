@@ -1,1 +1,0 @@
-lar[57901]=`<font color="purple">[ῑθ]</font> nourrir d’orge, BABR. <i>76, 2</i>.<p><b>Étym</b>. κριθή.`

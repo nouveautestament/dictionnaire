@@ -1,1 +1,0 @@
-lar[106311]=`<b>ου (ὁ)</b> = <i>lat</i>. Flamininus, <i>n. d’h. rom</i>. PLUT. <i>Flam. 1</i>.`

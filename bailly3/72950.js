@@ -1,1 +1,0 @@
-lar[72950]=`<b>ὀρνιθο·φάγος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui mange des oiseaux, <i>particul</i>. des poules, ARSTT. <i>H.A. 9, 6, 11</i>.<p><b>Étym</b>. ὄρνις, φαγεῖν.`

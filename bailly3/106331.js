@@ -1,1 +1,0 @@
-lar[106331]=`<b>φλεβο·παλία, ας (ἡ)</b> <font color="purple">[πᾰ]</font> battement du pouls, pulsation, DÉMOCR. (EROT. <i>380).</i><p><b>Étym</b>. φλέψ, πάλλω.`

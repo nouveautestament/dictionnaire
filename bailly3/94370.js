@@ -1,1 +1,0 @@
-lar[94370]=`<b>συμ·προσάγω</b> <font color="purple">[ᾰγ]</font> amener en même temps <i>ou</i> ensemble, EN. TACT. <i>Pol. 10</i> ; GAL. <i>7, 211</i>.`

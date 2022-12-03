@@ -1,1 +1,0 @@
-lar[19694]=`<font color="purple">[βῐ]</font> <i>seul. parf. prés. nomin. masc</i>. βιβάς, IL. <i>7, 213, etc.</i> ; OD. <i>9, 450 ; fém</i>. βιβᾶσα (<i>correct. p</i>. βιβῶσα) OD. <i>11, 539, et acc. masc</i>. βιβάντα (<i>correct. p</i>. βιβῶντα) IL. <i>3, 22, c</i>. βιβάω.<p><b>Étym</b>. βαίνω, <i>cf. sscr</i>. jígāti, il va.`

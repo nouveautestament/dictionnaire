@@ -1,1 +1,0 @@
-lar[17853]=`<b>ιδος (ἡ)</b> celle qui enlève, <i>ép. des Parques,</i> ORPH. <i>H. 59, 18</i>.`

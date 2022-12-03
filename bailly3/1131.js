@@ -1,1 +1,0 @@
-lar[1131]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> lutte, combat, THC. <i>7, 70</i>.<p><b>Étym</b>. ἀγωνίζομαι.`

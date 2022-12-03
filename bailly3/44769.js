@@ -1,1 +1,0 @@
-lar[44769]=`<b>ζωό·σοφος, ος, ον</b>, qui rend la vie sage, ANTH. <i>1, 88</i>.<p><b>Étym</b>. ζωή, σοφός.`

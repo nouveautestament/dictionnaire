@@ -1,1 +1,0 @@
-lar[98619]=`<b>ή, όν</b>, quadruple, ARSTT. <i>Metaph. 12, 2, 7</i>.<p><b>Étym</b>. τέτταρες.`

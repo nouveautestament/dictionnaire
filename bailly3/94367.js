@@ -1,1 +1,0 @@
-lar[94367]=`<b>συμ·προπέμπω</b>, escorter ensemble, HDT. <i>9, 1</i> ; AR. <i>Ran. 403, 413, etc.</i> ; THC. <i>1, 27 ; particul. en parl. d’un cortège funèbre,</i> DH. <i>8, 59</i>.`

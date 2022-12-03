@@ -1,1 +1,0 @@
-lar[28534]=`<b>δυσ·καθαίρετος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à renverser, PHIL. <i>1, 61 ; 2, 82 ; fig</i>. difficile à vaincre, JOS. <i>B.J. 2, 17, 4</i>.<p><b>Étym</b>. δ. καθαιρέω.`

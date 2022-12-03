@@ -1,1 +1,0 @@
-lar[73807]=`<b>ῶν (οἱ)</b> les descendants d’Opheltas, PLUT. <i>Ser. num. vind. 13</i>.<p><b>Étym</b>. Ὀφέλτας.`

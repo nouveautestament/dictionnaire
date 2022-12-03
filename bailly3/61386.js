@@ -1,1 +1,0 @@
-lar[61386]=`<i>leç. incorr. p</i>. <b>λείρινος, η, ον</b>, de lis, GAL. <i>2, 96</i>.<p><b>Étym</b>. *λίριον, <i>cf. lat</i>. lilium ; <i>le mot grec class. est</i> κρίνινος.`

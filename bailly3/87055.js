@@ -1,1 +1,0 @@
-lar[87055]=`<b>προ·ψύχω</b>, commencer par rafraîchir, PLUT. <i>M. 690f</i>.`

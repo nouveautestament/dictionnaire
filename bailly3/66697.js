@@ -1,1 +1,0 @@
-lar[66697]=`<b>μον·ῶνυξ, υχος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> au pied non fourchu, solipède, GAL. <i>12, 307</i>.<p><b>Étym</b>. μ. ὄνυξ.`

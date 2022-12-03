@@ -1,1 +1,0 @@
-lar[32285]=`<i>adv</i>., manifestement, PHILSTR. <i>300</i>.<p><b>Étym</b>. ἐκφαίνω, -δην.`

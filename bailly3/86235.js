@@ -1,1 +1,0 @@
-lar[86235]=`<b>προσ·ουδίζω</b>, jeter par terre, briser contre terre, <i>acc</i>. HDT. <i>5, 92</i> ; EUR. <i>I.A. 1151, etc</i>.<p><b>Étym</b>. π. οὐδός.`

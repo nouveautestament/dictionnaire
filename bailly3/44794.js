@@ -1,1 +1,0 @@
-lar[44794]=`<b>ζώ·πισσα, ης (ἡ)</b> goudron raclé de vieux navires, poix vive (κηρὸς μετὰ ῥητίνης, HÉRON <i>Aut. 267</i> ; pix cum cera, PLIN. <i>H.N. 16, 12</i>) DIOSC. <i>1, 98</i>.<p><b>Étym</b>. ζωός, πίσσα.`

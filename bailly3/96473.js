@@ -1,1 +1,0 @@
-lar[96473]=`<b>συο·θήρας, ου (ὁ)</b> chasseur de sanglier, PHILSTR. <i>Im. 2, 17 ; au pl</i>. les Chasseurs de sanglier, <i>pièce de Stésichore,</i> ATH. <i>95d</i>.<p><b>Étym</b>. σῦς, θηράω.`

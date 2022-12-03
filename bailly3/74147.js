@@ -1,1 +1,0 @@
-lar[74147]=`<b>πάγ·κυφος, ος, ον</b> <font color="purple">[ῡ]</font> tout à fait courbé, <i>ép. d’un olivier sacré dans l’Acropole d’Athènes,</i> AR. <i>fr. 664 Dind</i>.<p><b>Étym</b>. π. κύπτω.`

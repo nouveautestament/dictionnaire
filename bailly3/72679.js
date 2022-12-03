@@ -1,1 +1,0 @@
-lar[72679]=`<b>ας (ἡ)</b> Orthia, <i>surn. d’Artémis à Lacédémone et en Arcadie,</i> XÉN. <i>Lac. 2, 9</i> ; PLUT. <i>M. 239c</i>.<p><b>Étym</b>. <i>p</i>. Ϝορθία, <i>p.-ê. de la R. indo-europ</i>. *uerd<sup>h</sup>-, croître, pousser, <i>ép. c. déesse de la fertilité ; cf</i>. Ὀρθωσία, <i>sscr</i>. várdh-.`

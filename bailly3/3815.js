@@ -1,1 +1,0 @@
-lar[3815]=`<b>ἀκρο·πενθής, ής, ές</b>, extrêmement affligé, ESCHL. <i>Pers. 135 (mais mieux</i> ἁβροπενθής).<p><b>Étym</b>. ἄ. πένθος.`

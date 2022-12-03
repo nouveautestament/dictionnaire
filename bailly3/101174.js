@@ -1,1 +1,0 @@
-lar[101174]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾱ]</font> vieil imbécile, AR. <i>Vesp. 1364</i>.<p><b>Étym</b>. τύφω.`

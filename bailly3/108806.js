@@ -1,1 +1,0 @@
-lar[108806]=`<i>adv</i>., en formant un chœur, EL. <i>N.A. 2, 11</i>.`

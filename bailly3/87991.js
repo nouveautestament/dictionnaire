@@ -1,1 +1,0 @@
-lar[87991]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Pyrrhikhos :<br><b>      1</b> <i>inventeur de la danse pyrrhique,</i> STR. <i>465</i> ; PAUS. <i>3, 25, 2</i>.<br><b>      2</b> <i>autres,</i> THC. <i>7, 39</i> ; NONN. <i>D. 13, 40, etc</i>.<p><b>Étym</b>. <i>v</i>. πύρριχος.`

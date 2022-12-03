@@ -1,1 +1,0 @@
-lar[63364]=`<b>μεγαλο·εργός, ός, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. μεγαλοεργής, PLUT. <i>Cæs. 58</i> ; LUC. <i>Alex. 4</i>.`

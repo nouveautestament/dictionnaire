@@ -1,1 +1,0 @@
-lar[7693]=`<b>ἀνα·στοιχειόω-ῶ</b>, ramener à ses éléments primitifs, <i>d’où</i> régénérer, PHIL. <i>1, 227, 477, etc</i>.`

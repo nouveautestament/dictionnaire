@@ -1,1 +1,0 @@
-lar[97408]=`<font color="purple">[ᾰ]</font> rendre malheureux, SYMM. <i>Esaï. 21, 2 ; 33, 1</i>.<p><b>Étym</b>. ταλαίπωρος.`

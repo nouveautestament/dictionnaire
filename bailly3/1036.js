@@ -1,1 +1,0 @@
-lar[1036]=`<b>ἀγχ·ήρης, ης, ες</b>, rapproché, voisin, SOPH. <i>fr. 6</i> ; ORPH. <i>Arg. 1081</i>.<p><b>Étym</b>. ἄγχι, ἀραρίσκω.`

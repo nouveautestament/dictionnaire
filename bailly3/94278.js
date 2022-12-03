@@ -1,1 +1,0 @@
-lar[94278]=`<b>συμ·πληθύνω</b> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font><br><b>      1</b> compléter, augmenter, multiplier, XÉN. <i>Œc. 18, 2</i> ; PLOT. <i>Enn. 1, 520</i>.<br><b>      2</b> prendre des formes au pluriel, DYSC. <i>Synt. p. 205, 1</i>.`

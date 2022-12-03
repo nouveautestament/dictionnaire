@@ -1,1 +1,0 @@
-lar[28457]=`<b>*δυσ·ευνήτωρ</b>, <i>seul. dor</i>. <b>δυσευνάτωρ, ορος</b> <font color="purple">[ῠᾱ]</font> <i>adj. m</i>. qui porte la ruine dans un nid, ESCHL. <i>Sept. 292</i>.<p><b>Étym</b>. δ. εὐνάω.`

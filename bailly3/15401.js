@@ -1,1 +1,0 @@
-lar[15401]=`<i>adv.</i> :<br><b>      1</b> justement, à l’instant, tout à l’heure, <i>en parl. du passé (avec l’impf</i>. SOPH. <i>Tr. 664, etc. ou l’ao</i>. SOPH. <i>O.R. 243, etc.) ou du prés</i>. SOPH. <i>Aj. 678, O.C. 892</i>.<br><b>      2</b> parfaitement, AMMON.Gr.<p><b>Étym</b>. ἄρτιος.`

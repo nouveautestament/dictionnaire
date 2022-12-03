@@ -1,1 +1,0 @@
-lar[8541]=`<b>ἄν·εργος, ος, ον</b>, qui est un acte criminel, EUR. <i>Hel. 363</i>.<p><b>Étym</b>. ἀν-, ἔργον.`

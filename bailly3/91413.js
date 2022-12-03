@@ -1,1 +1,0 @@
-lar[91413]=`<b>ή, όν</b>, moqueur, satirique, PROCL. <i>2, p. 108</i>.<p><b>Étym</b>. σκῶμμα.`

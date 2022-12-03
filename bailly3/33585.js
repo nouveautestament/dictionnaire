@@ -1,1 +1,0 @@
-lar[33585]=`<b>ος, ον :<br>      1</b> <i>pass</i>. qu’on peut exécuter <i>ou</i> accomplir, PD. <i>P. 3, 110</i>.<br><b>      2</b> <i>act</i>. actif, énergique, DS. <i>31, 70, etc.</i> ; τὸ ἔμπρακτον, LGN <i>11, 2,</i> force, vigueur, <i>en parl. du discours</i>.<p><b>Étym</b>. ἐμπράσσω.`

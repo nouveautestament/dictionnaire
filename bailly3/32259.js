@@ -1,1 +1,0 @@
-lar[32259]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> propre à faire durcir, ORIB. <i>20 Mai</i> ; P. ÉG. <i>4, 49</i>.<p><b>Étym</b>. ἐκτυλόω.`

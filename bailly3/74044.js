@@ -1,1 +1,0 @@
-lar[74044]=`<b>ας (ἡ)</b> l’art culinaire, XÉN. <i>Mem. 3, 14, 5</i> ; PLAT. <i>Gorg. 462d, etc</i>.<p><b>Étym</b>. ὀψοποιός.`

@@ -1,1 +1,0 @@
-lar[81300]=`<b>ποδ·οχέω-ῶ</b>, tenir le gouvernail, ANT. (POLL. <i>1, 98).</i><p><b>Étym</b>. π. -οχος <i>de</i> ἔχω.`

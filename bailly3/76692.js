@@ -1,1 +1,0 @@
-lar[76692]=`<b>παρ·εμφύομαι</b>, croître auprès de, LUC. <i>Fug. 10</i>.`

@@ -1,1 +1,0 @@
-lar[11010]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> chant, NAZ. <i>Carm. 26, 8</i>.<p><b>Étym</b>. ἀοιδός.`

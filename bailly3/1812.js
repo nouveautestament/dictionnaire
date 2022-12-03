@@ -1,1 +1,0 @@
-lar[1812]=`<b>ἀερό·φοιτος, ος, ον</b> <font color="purple">[ᾱ]</font> qui traverse les airs, AR. <i>Ran. 1292</i>.<p>➳ <i>Ion</i>. ἠερό- Ps.-PHOCYL. <i>125, 171</i> ; ORPH. <i>Arg. 47, etc</i>.<p><b>Étym</b>. ἀ. φοιτάω.`

@@ -1,1 +1,0 @@
-lar[45535]=`<b>α, ον</b> <font color="purple">[μῐ]</font> d’un demi-pied, APD. POL. <i>17, 106</i> ; BITON <i>Mach. 106, 2</i>.<p><b>Étym</b>. ἡμιπόδιον.`

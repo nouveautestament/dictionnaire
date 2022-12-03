@@ -1,1 +1,0 @@
-lar[20590]=`<b>βραγχάω-ῶ</b>, avoir la voix rauque, ARSTT. <i>H.A. 8, 21, 3</i>.<p><b>Étym</b>. βράγχος.`

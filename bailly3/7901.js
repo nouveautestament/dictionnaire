@@ -1,1 +1,0 @@
-lar[7901]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> nouvelle croissance, EL. <i>N.A. 12, 18</i>.<p><b>Étym</b>. ἀναφύω.`

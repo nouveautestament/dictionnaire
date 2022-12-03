@@ -1,1 +1,0 @@
-lar[30371]=`<b>εἰκοσι·εννέα</b>, vingt-neuf, SPT. <i>Par. 2, 25, 1 ; 1Esdr. 2, 12, etc.</i> ; ATH. <i>608a</i>.<p><b>Étym</b>. εἴ. ἐννέα.`

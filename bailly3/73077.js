@@ -1,1 +1,0 @@
-lar[73077]=`<b>ὀρτυγο·μανία, ας (ἡ)</b> <font color="purple">[ῠμᾰ]</font> passion pour les cailles, CHRYSIPP. (ATH. <i>464d</i>).<p><b>Étym</b>. ὄρτυξ, μανία.`

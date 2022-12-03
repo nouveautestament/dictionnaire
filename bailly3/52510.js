@@ -1,1 +1,0 @@
-lar[52510]=`<b>κατα·κελεύω :<br>      1</b> faire faire silence, AR. <i>Av. 1273, d’où</i> commander, <i>en gén. avec l’inf</i>. PLUT. <i>Oth. 18</i>.<br><b>      2</b> <i>particul</i>. marquer la mesure pour les rameurs, AR. <i>Ran. 208</i>.`

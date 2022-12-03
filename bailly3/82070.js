@@ -1,1 +1,0 @@
-lar[82070]=`<b>πολύ·λλιθος, ος, ον</b> <font color="purple">[ῐ]</font> aux nombreuses pierres, ANTH. <i>6, 3</i>.<p><b>Étym</b>. π. λίθος.`

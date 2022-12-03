@@ -1,1 +1,0 @@
-lar[66143]=`<b>ας (ἡ)</b> <font color="purple">[ᾱμ]</font> le Souvenir <i>personnifié</i>, AR. <i>Lys</i>. 1248.<p><b>Étym</b>. <i>laconien p</i>. Μναμοὕνα (= *Μναμοhύνα &lt; Μναμοσύνα).`

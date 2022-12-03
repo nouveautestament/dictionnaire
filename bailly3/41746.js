@@ -1,1 +1,0 @@
-lar[41746]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> heureux mariage, PROCL. <i>Ptol. 125, 29</i>.<p><b>Étym</b>. εὔγαμος.`

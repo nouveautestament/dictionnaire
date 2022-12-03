@@ -1,1 +1,0 @@
-lar[74655]=`<b>έως</b>, <i>adj. m</i>. originaire <i>ou</i> habitant du dème Pallènè, HDT. <i>8, 84, etc.</i> ; DÉM. <i>44, 10 Baiter-Sauppe, etc</i>.<p>➳ <i>Dans une inscr. att. plur</i>. Παλληνέες, CIA. <i>2, 943 (325 av. J.-C.) ; v. Meisterh. p. 110, 7</i>.<p><b>Étym</b>. Παλλήνη.`

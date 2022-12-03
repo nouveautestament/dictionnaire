@@ -1,1 +1,0 @@
-lar[108838]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de former un chœur, MÉN. RHÉT. <i>9, 196 W</i>.<p><b>Étym</b>. χοροστάτης.`

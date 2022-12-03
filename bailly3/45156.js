@@ -1,1 +1,0 @@
-lar[45156]=`<b>      1</b> errer çà et là, IL. <i>18, 281 ; avec un acc. de lieu,</i> HH. <i>Ap. 142</i>.<br><b>      2 <i>tr.</i></b> fuir, éviter, <i>acc</i>. OD. <i>9, 457</i>.<p>➳ <i>Seul. prés. ind. 3 sg</i>. -άζει, OD. <i>l. c. (var</i>. ἠλυσκάζει) ; <i>part</i>. -άζων, IL. <i>l. c., et impf. 2 sg</i>. ἠλάσκαζες, HH. <i>l. c</i>.<p><b>Étym</b>. ἠλάσκω.`

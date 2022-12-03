@@ -1,1 +1,0 @@
-lar[108694]=`<b>χοιρο·πίθηκος, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>litt</i>. singe-cochon, <i>sorte de singe à groin de cochon,</i> ARSTT. <i>H.A. 2, 11, 2</i>.`

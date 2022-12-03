@@ -1,1 +1,0 @@
-lar[91526]=`<b>ιδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> émeri, <i>terre sèche et poudreuse pour polir,</i> DIOSC. <i>5, 165</i>.`

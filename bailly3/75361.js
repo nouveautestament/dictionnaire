@@ -1,1 +1,0 @@
-lar[75361]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰῡ]</font> lieu couvert de papyrus, AQU. <i>Ex. 2, 3, 5</i>.<p><b>Étym</b>. πάπυρος.`

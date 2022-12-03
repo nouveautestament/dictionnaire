@@ -1,1 +1,0 @@
-lar[33153]=`<b>ου (τὸ)</b> lieu frappé de la foudre (<i>lat</i>. bidental), DS. <i>Exc. 549, 72</i>.<p><b>Étym</b>. ἐν, βροντή.`

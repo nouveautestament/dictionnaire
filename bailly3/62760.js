@@ -1,1 +1,0 @@
-lar[62760]=`<font color="purple">[ᾰγ]</font> faire boire de la mandragore, <i>d’où au pass</i>. boire de la mandragore, ALEX. (ATH. <i>340c</i>).<p><b>Étym</b>. μανδραγόρας.`

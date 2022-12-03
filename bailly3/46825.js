@@ -1,1 +1,0 @@
-lar[46825]=`<i>adv</i>., en usant de magie, XIPH. (<i>Anecdota græca, Matthäi vol. 2, p. 4, l. 14</i>) ; JAMBL. <i>Myst. 7, 4 ; 96, 9</i>.`

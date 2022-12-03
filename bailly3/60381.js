@@ -1,1 +1,0 @@
-lar[60381]=`<b>έως (ὁ)</b> Léprée, <i>fondateur de la v</i>. Λέπρεον, EL. <i>V.H. 1, 24</i>.`

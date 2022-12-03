@@ -1,1 +1,0 @@
-lar[35525]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> trompeur, HOM. <i>fr. 63</i>.<p><b>Étym</b>. ἐξαπατάω.`

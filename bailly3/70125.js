@@ -1,1 +1,0 @@
-lar[70125]=`<b>ων (οἱ)</b> les Odomantes, <i>pple thrace,</i> HDT. <i>5, 16 ; 7, 112</i> ; THC. <i>2, 101 ; 5, 6</i> ; AR. <i>Ach. 157</i>.`

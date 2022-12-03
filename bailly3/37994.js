@@ -1,1 +1,0 @@
-lar[37994]=`<b>ἐπι·κεντρίζω :<br>      1</b> aiguillonner, ANTH. <i>9, 777</i>.<br><b>      2</b> greffer, GEOP. <i>5, 17, 11</i>.`

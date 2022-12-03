@@ -1,1 +1,0 @@
-lar[72361]=`<b>ὁπλοφορέω-ῶ</b>, porter les armes, <i>d’où</i> :<br><b>      1</b> servir comme hoplite, XÉN. <i>Cyr. 4, 3, 18</i> ; ANTH. <i>9, 320</i>.<br><b>      2</b> servir comme garde du corps, <i>d’où au pass</i>. être accompagné par une garde, PLUT. <i>Æmil. 27</i>.<p><b>Étym</b>. ὁπλοφόρος.`

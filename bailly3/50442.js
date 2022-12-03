@@ -1,1 +1,0 @@
-lar[50442]=`<b>καθοδηγέω-ῶ</b> <font color="purple">[ᾰ]</font> guider, conduire, SPT. <i>Job 12, 23</i> ; PLUT. <i>Cato ma. 13, etc</i>.<p><b>Étym</b>. καθοδηγός.`

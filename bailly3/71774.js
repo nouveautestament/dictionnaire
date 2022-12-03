@@ -1,1 +1,0 @@
-lar[71774]=`<b>ὁμό·ψηφος, ος, ον :<br>      1</b> qui vote de même que, AND. <i>23, 16</i>.<br><b>      2</b> qui a un droit de vote égal : τινι, HDT. <i>6, 109,</i> à qqn ; μετά τινος, HDT. <i>7, 149,</i> qui partage avec qqn le droit de vote.<p><b>Étym</b>. ὁμ. ψῆφος.`

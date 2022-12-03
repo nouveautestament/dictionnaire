@@ -1,1 +1,0 @@
-lar[21200]=`<b>γαλακτόομαι-οῦμαι</b> <font color="purple">[γᾰ]</font> se transformer en lait, devenir laiteux, TH. <i>C.P. 1, 7, 3</i> ; PLUT. <i>M. 968a ; etc</i>.<p><b>Étym</b>. γάλα.`

@@ -1,1 +1,0 @@
-lar[89488]=`<b>όνος (ἡ)</b> Sarpèdon (<i>auj</i>. cap Daci <i>ou</i> Gremia) <i>promont. de Thrace,</i> SOPH. (HDN GR. <i>π. μ. λ. 9, 8</i>).`

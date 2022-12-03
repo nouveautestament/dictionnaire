@@ -1,1 +1,0 @@
-lar[28525]=`<b>δυσ·ίατος, ος, ον</b> <font color="purple">[ῠῑᾱ]</font> difficile à guérir, PLAT. <i>Leg. 854a, 916a ; fig</i>. ESCHL. <i>Ag. 1103</i> ; EUR. <i>Med. 520</i> ; PLAT. <i>Leg. 731b</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>M. mor. 2, 8</i> ; CASS. <i>Probl. p. 331, 20</i>.<p><b>Étym</b>. δ. ἰάομαι.`

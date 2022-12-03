@@ -1,1 +1,0 @@
-lar[84548]=`<b>προ·κήδομαι</b> (<i>seul. prés. et impf</i>.) prendre soin de, <i>gén</i>. ESCHL. <i>Pr. 629</i> ; SOPH. <i>Ant. 741, Tr. 966</i>.`

@@ -1,1 +1,0 @@
-lar[14408]=`<b>Ἀρέας πόρος</b>, le passage d’Aréa, <i>lieu de Sicile,</i> PD. <i>N. 9, 41</i>.`

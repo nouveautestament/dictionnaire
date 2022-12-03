@@ -1,1 +1,0 @@
-lar[39897]=`<b>ἐπ·ουραῖος, α, ον</b>, qui se trouve à la queue, ANTH. <i>9, 252</i>.<p><b>Étym</b>. ἐπί, οὐρά.`

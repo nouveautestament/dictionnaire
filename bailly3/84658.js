@@ -1,1 +1,0 @@
-lar[84658]=`<b>προ·λιπαίνω</b> <font color="purple">[ῐ]</font> oindre <i>ou</i> graisser auparavant, DIOSC. <i>Alex. proœm.</i> ; ORIB. <i>176 Matthäi</i>.`

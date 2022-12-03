@@ -1,1 +1,0 @@
-lar[99333]=`<b>ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. de Titaros, <i>ép. de Mopsos,</i> LYC. <i>881</i>.<p><b>Étym</b>. Τίταρος.`

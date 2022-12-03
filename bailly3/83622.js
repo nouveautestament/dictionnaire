@@ -1,1 +1,0 @@
-lar[83622]=`<b>προ·απαυδάω-ῶ</b>, se fatiguer <i>ou</i> se décourager d’avance, PLUT. <i>M. 783e ;</i> ARÉT. <i>Cur. m. acut. 2, 3</i>.`

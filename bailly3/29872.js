@@ -1,1 +1,0 @@
-lar[29872]=`<b>ἐγ·χαρίζομαι</b> <font color="purple">[χᾰ]</font> (<i>pl.q.pf. 3 sg</i>. ἐγκεχάριστο) accorder comme bienfait, <i>acc</i>. ANTH. <i>9, 114</i>.<p><b>Étym</b>. ἐν, χ.`

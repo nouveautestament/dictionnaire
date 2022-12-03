@@ -1,1 +1,0 @@
-lar[27647]=`<b>δορυ·κοίρανος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui règne par la lance, SIB. <i>14, 257</i>.<p><b>Étym</b>. δόρυ.`

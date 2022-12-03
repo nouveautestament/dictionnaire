@@ -1,1 +1,0 @@
-lar[48813]=`<font color="purple">[ῐκε]</font> <i>adv</i>., en suppliant, PHILSTR. <i>p. 545</i>.`

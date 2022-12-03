@@ -1,1 +1,0 @@
-lar[8859]=`<b>ἀνθο·δίαιτος, ος, ον</b>, qui vit sur les fleurs <i>ou</i> qui vit des fleurs, ANTH. <i>5, 163</i>.<p><b>Étym</b>. ἄνθος, δίαιτα.`

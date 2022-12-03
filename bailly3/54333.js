@@ -1,1 +1,0 @@
-lar[54333]=`<b>ας (ἡ)</b> lieu où l’on brûlait les morts, STR. <i>236</i>.<p><b>Étym</b>. καίω.`

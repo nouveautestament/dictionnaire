@@ -1,1 +1,0 @@
-lar[105703]=`<b>φιλο·βοιωτός, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> ami des Béotiens, PLUT. <i>Syll. 16</i> ; POLYEN <i>5, 16, 1</i>.<p><b>Étym</b>. φ. βοιωτοί.`

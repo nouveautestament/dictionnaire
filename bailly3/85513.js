@@ -1,1 +1,0 @@
-lar[85513]=`<b>προ·σείω</b>, agiter en avant : τι, EUR. <i>Bacch. 930 ; H.f. 1218,</i> qqe ch. (la main, une arme, <i>etc</i>.) ; <i>particul</i>. agiter un appât pour attirer un animal, PLAT. <i>Phædr. 230d, ou</i> un oiseau, EL. <i>N.A. 1, 29 ; ou au contr</i>. un épouvantail pour effrayer un animal, EL. <i>V.H. 12, 23 ; fig</i>. intimider, THC. <i>6, 86</i>.`

@@ -1,1 +1,0 @@
-lar[89539]=`<font color="purple">[ᾰῠ]</font> tourner en dérision comme dans les drames satyriques, CLÉM. <i>52</i>.<p><b>Étym</b>. σάτυρος.`

@@ -1,1 +1,0 @@
-lar[101494]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῡ <i>à l’arsis,</i> ῠ <i>à la thésis</i>]</font> <i>c</i>. ὕδωρ, HÉS. <i>O. 61</i> ; THGN. <i>961</i> ; ORPH. <i>Arg. 1137 (1130</i>) ; CALL. (CHŒROB. <i>in Theodos. p. 384, 3</i>).`

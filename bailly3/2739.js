@@ -1,1 +1,0 @@
-lar[2739]=`<font color="purple">[ῐ]</font> se servir du dialecte éolien, EUST. <i>1557, 48</i>.<p><b>Étym</b>. Αἰολικός.`

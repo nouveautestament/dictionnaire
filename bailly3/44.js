@@ -1,1 +1,0 @@
-lar[44]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰβ]</font> <i>c</i>. Ἀβαντίς, CALL. <i>Del. 20</i>.`

@@ -1,1 +1,0 @@
-lar[110450]=`<b>ου (ὁ)</b> qui marque l’heure natale, NAZ.<p><b>Étym</b>. ὡροθετέω.`

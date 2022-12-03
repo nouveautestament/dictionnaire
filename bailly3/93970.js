@@ -1,1 +1,0 @@
-lar[93970]=`<b>συμ·μετέχω</b> <font color="darkgreen">(<i>f</i>. συμμετασχήσω)</font> avoir <i>ou</i> prendre part : τινός, XÉN. <i>An. 7, 8, 17</i> ; ARSTT. <i>Pol. 7, 10, 12, etc</i>. à qqe ch. ; τινί τινος, EUR. <i>Bacch. 63</i> ; PLUT. <i>Pyrrh. 4, etc</i>. avec qqn à qqe ch. ; <i>abs</i>. PLAT. <i>Theæt. 181c</i>.`

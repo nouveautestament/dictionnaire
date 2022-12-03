@@ -1,1 +1,0 @@
-lar[36258]=`<b>ἔξ·υγρος, ος, ον</b> <font color="purple">[ῠ]</font> humide, aqueux, HPC. <i>396, 24</i>.<p><b>Étym</b>. ἐξ, ὑγρός.`

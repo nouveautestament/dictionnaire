@@ -1,1 +1,0 @@
-lar[93062]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> haï, exécré, ESCHL. <i>Pr. 592</i>.<br><b>      2</b> haïssable, odieux, NT. <i>Tit. 3, 3</i> ; HLD. <i>5, 29</i>.<p><b>Étym</b>. <i>vb. de</i> στυγέω.`

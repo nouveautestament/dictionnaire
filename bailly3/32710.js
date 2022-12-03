@@ -1,1 +1,0 @@
-lar[32710]=`<b>ἐλευθερό·γλωσσος, ος, ον</b>, à la langue <i>ou</i> au langage libre, ORIG. <i>p. 3087 Migne</i>.<p><b>Étym</b>. ἐλεύθερος, γλῶσσα.`

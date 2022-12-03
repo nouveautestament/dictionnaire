@@ -1,1 +1,0 @@
-lar[83781]=`<b>προβατο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> marchand de moutons, AR. <i>Eq. 132, 138</i>.<p><b>Étym</b>. πρ. πωλέω.`

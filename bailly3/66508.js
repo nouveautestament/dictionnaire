@@ -1,1 +1,0 @@
-lar[66508]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> monogamie, CLÉM. <i>1, 1104, 1181 Migne</i>.<p><b>Étym</b>. μονόγαμος.`

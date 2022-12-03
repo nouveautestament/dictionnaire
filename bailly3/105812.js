@@ -1,1 +1,0 @@
-lar[105812]=`<b>φίλ·οινος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le vin, ivrogne, PLAT. <i>Lys. 212b, Rsp. 475a ;</i> ARSTT. <i>Rhet. 1, 11, 17</i>.<p>•<i> Sup</i>. φιλοινότατος, PLUT. <i>Cic. 27, etc</i>.<p><b>Étym</b>. φ. οἶνος.`

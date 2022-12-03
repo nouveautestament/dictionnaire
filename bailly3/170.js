@@ -1,1 +1,0 @@
-lar[170]=`<b>ἁβρο·βάτης, ου</b> <font color="purple">[βᾰ]</font> <i>adj. m</i>. d’allure efféminée, ESCHL. <i>Pers. 1044</i>.<p><b>Étym</b>. ἁβρός, βαίνω.`

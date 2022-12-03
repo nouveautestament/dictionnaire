@@ -1,1 +1,0 @@
-lar[74560]=`<b>παλιν·αυξής, ής, ές</b> <font color="purple">[ᾰ]</font> qui croît de nouveau, qui renaît, A. PL. <i>221</i> ; NONN. <i>D. 25, 541</i>.<p><b>Étym</b>. π. αὔξω.`

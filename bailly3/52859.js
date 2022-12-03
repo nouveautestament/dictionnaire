@@ -1,1 +1,0 @@
-lar[52859]=`<b>ος, ον</b>, durable, qui se prolonge, POL. <i>17, 21, 1</i>.<p><b>Étym</b>. καταμένω.`

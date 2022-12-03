@@ -1,1 +1,0 @@
-lar[42227]=`<b>εὐθύ·γλωσσος, ος, ον</b>, au langage droit, franc, PD. <i>P. 2, 86</i>.<p><b>Étym</b>. εὐ. γλῶσσα.`

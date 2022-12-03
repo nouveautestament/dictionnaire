@@ -1,1 +1,0 @@
-lar[22669]=`<font color="purple">[ῡ]</font> grogner, <i>en parl. d’un porc,</i> AR. <i>Pl. 307</i> ; ARSTT. <i>H.A. 10, 11</i>.<p>➳ <i>Fut. dor. 2 pl</i>. -ιξεῖτε, AR. <i>Ach. 746</i>.<p><b>Étym</b>. γρῦλος.`

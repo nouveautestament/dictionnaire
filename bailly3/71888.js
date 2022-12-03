@@ -1,1 +1,0 @@
-lar[71888]=`<b>ὀνειρό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, instruit <i>ou</i> éclairé par un songe, EUR. <i>Hec. 708</i>.<p><b>Étym</b>. ὄ. φρήν.`

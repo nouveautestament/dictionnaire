@@ -1,1 +1,0 @@
-lar[46288]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> qui concerne la mort, DS. <i>Exc. 608, 39</i> ; θανατικὴ δίκη, PLUT. <i>Per. 10, etc</i>. procès capital, qui peut entraîner la mort ; θ. ζημία, JOS. <i>A.J. 15, 11, 5,</i> peine capitale ; θ. νόμοι, JOS. <i>B.J. 3, 5, 7,</i> lois édictant la peine de mort.<p><b>Étym</b>. θάνατος.`

@@ -1,1 +1,0 @@
-lar[35108]=`<b>ἔν·τορνος, ος, ον</b>, fait au tour, arrondi, PLAT. <i>Leg. 898a ;</i> ARSTT. <i>Cæl. 2, 4, 13</i>.<p><b>Étym</b>. ἐν, τόρνος.`

@@ -1,1 +1,0 @@
-lar[53720]=`<b>κατα·χείριος, ος, ον</b>, qui va bien à la main, d’un maniement facile, A.RH. <i>1, 1189</i>.<p><b>Étym</b>. κ. χείρ.`

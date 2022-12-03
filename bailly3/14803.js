@@ -1,1 +1,0 @@
-lar[14803]=`<b>ή, όν</b>, suffisant, CHRYSIPP. (ATH. <i>113b</i>) ; NT. <i>Matth. 6, 34, etc.</i> ; ANTH. <i>9, 749</i>.<p><b>Étym</b>. ἀρκέω.`

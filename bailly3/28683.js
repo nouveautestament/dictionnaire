@@ -1,1 +1,0 @@
-lar[28683]=`<i>adv</i>., malheureusement, ESCHL. <i>Sept. 837 conj</i>.<p><b>Étym</b>. δύσμορος.`

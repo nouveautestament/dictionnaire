@@ -1,1 +1,0 @@
-lar[52811]=`<b>κατα·μεθύσκω</b> <font color="darkgreen">(<i>impf</i>. κατεμέθυσκον, <i>ao</i>. κατεμέθυσα)</font> enivrer, HDT. <i>1, 106</i> ; PLAT. <i>Gorg. 471b, d’où au pass</i>. être enivré, être ivre, POL. <i>5, 39, 2</i> ; DS. <i>4, 84</i>.`

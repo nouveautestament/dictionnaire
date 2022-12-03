@@ -1,1 +1,0 @@
-lar[14196]=`<b>(ὁ)</b> Arbakas, <i>satrape de Médie,</i> XÉN. <i>An. 7, 8, 25</i>.`

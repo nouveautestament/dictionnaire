@@ -1,1 +1,0 @@
-lar[40313]=`<b>ας (ἡ)</b> Érétrie :<br><b>      1</b> <i>v. d’Eubée (auj</i>. Erétria) IL. <i>2, 537</i> ; HDT. <i>1, 61, etc.</i> ; THC. <i>8, 95, etc.</i><br><b>      2</b> <i>v. de Thessalie,</i> POL. <i>18, 3, 5</i> ; STR. <i>447</i>.<p>➳ <font color="purple">[ᾰ]</font> ANTH. <i>7, 256. Poét</i>. Εἰρέτρια, IL. <i>l. c</i>.<p><b>Étym</b>. ἐρέσσω.`

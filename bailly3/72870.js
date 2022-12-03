@@ -1,1 +1,0 @@
-lar[72870]=`<b>ου</b>, <i>adj</i>. d’Orménos, ANTH. <i>App. 25</i>.<p><b>Étym</b>. Ὄρμενος.`

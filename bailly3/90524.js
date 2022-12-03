@@ -1,1 +1,0 @@
-lar[90524]=`<b>ας (ἡ)</b> <font color="purple">[ῑτ]</font> distribution de blé, ANT. (POLL. <i>8, 103</i>) ; DH. <i>7, 45</i> ; SPT. <i>Gen. 42, 19, 33</i>.<p><b>Étym</b>. σιτοδότης.`

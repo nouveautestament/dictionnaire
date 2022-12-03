@@ -1,1 +1,0 @@
-lar[33637]=`<b>ἐμ·πυρεύω</b> <font color="purple">[ῠ]</font><br><b>      1</b> mettre sur le feu, AR. <i>Lys. 372 ; d’où</i> faire rôtir dans <i>ou</i> sur, AR. <i>Pax 1137</i>.<br><b>      2</b> enflammer, <i>fig</i>. ARSTT. <i>Pol. 8, 4, etc.</i><br><b><i>Moy.</i></b> faire du feu, consumer, TH. <i>H.P. 5, 9, 6</i> ; PHILSTR. <i>849</i>.<p><b>Étym</b>. ἐν, π.`

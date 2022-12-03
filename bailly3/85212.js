@@ -1,1 +1,0 @@
-lar[85212]=`<b>προσ·αντέχω</b> <font color="darkgreen">(<i>f</i>. -ανθέξω, <i>ao.2</i> -αντέσχον, <i>etc</i>.)</font> continuer de se maintenir contre, soutenir le choc de, <i>dat</i>. POL. <i>16, 30, 5 ; abs</i>. POL. <i>11, 21, 4 ; fig</i>. POL. <i>32, 23, 1</i>.`

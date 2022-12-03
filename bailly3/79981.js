@@ -1,1 +1,0 @@
-lar[79981]=`<i>adv</i>., confusément, M. ANT. <i>2, 11</i>.<p><b>Étym</b>. φύρω.`

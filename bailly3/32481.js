@@ -1,1 +1,0 @@
-lar[32481]=`<b>ἐλαιό·φυλλον, ου (τὸ)</b> sorte de vigne à feuille d’olivier, DIOSC. <i>3, 140</i>.<p><b>Étym</b>. ἐλαία, φύλλον.`

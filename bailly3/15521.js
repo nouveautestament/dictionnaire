@@ -1,1 +1,0 @@
-lar[15521]=`<b>Ἀρχε·δίκη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Arkhédikè, <i>f</i>. PLUT. <i>M. 492b</i>.<p><b>Étym</b>. ἄρχω, δίκη.`

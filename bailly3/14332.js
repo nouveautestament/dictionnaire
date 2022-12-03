@@ -1,1 +1,0 @@
-lar[14332]=`<b>ἀργυρο·δίνης, ου</b> <font color="purple">[ῠῑ]</font> <i>adj. m</i>. qui roule des flots d’argent, IL. <i>2, 753 ; 21, 8</i> ; HÉS. <i>Th. 340</i> ; CALL. <i>Cer. 13, etc</i>.<p><b>Étym</b>. ἄ, δινέω.`

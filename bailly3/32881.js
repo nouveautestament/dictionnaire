@@ -1,1 +1,0 @@
-lar[32881]=`<b>ῆρος (ὁ) :<br>      1</b> <i>subst</i>. forceps, <i>instrument de chirurgie,</i> HPC. <i>618, 16</i> ; GAL. <i>2, 89e.</i><br><b>      2</b> <i>adj</i>. ἑλκ. πόνος, OPP. <i>H. 5, 20,</i> le travail de la traction.<p><b>Étym</b>. ἑλκύω.`

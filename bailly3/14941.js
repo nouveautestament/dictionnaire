@@ -1,1 +1,0 @@
-lar[14941]=`<b>ου (ὁ)</b> Arnakès, <i>eunuque de Xerxès,</i> PLUT. <i>Them. 16, Arist. 9</i>.`

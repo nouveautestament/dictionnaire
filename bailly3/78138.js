@@ -1,1 +1,0 @@
-lar[78138]=`<b>πεντηκοντά·χοος-ους, οος-ους, οον-ουν</b>, qui produit cinquante pour un, TH. <i>H.P. 8, 7, 4</i>.<p><b>Étym</b>. π. χέω.`

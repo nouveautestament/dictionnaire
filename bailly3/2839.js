@@ -1,1 +1,0 @@
-lar[2839]=`<b>ου (τὸ)</b> organe de sensation, sens, HPC. <i>375, 44</i> ; PLAT. <i>Ax. 366a ;</i> ARSTT. <i>An. 2, 9, 12, etc. ; au pl</i>. τὰ αἰσθ. NT. <i>Hebr. 5, 14 ; par crase</i> τᾀσθητήρια, MACH. (ATH. <i>346a</i>) les sens <i>ou</i> les facultés.`

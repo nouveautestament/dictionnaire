@@ -1,1 +1,0 @@
-lar[61360]=`<b>λιπο·στέφανος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui se détache de la couronne, <i>en parl. d’une feuille,</i> ANTH. <i>6, 71</i>.<p><b>Étym</b>. λ. στ.`

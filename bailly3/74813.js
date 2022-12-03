@@ -1,1 +1,0 @@
-lar[74813]=`<b>πάν·αγρος, ος, ον</b>, qui peut saisir <i>ou</i> contenir toute espèce de proie, <i>en parl. de filet, de volière, etc</i>. IL. <i>5, 487</i>.<p><b>Étym</b>. π. ἄγρα.`

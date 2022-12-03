@@ -1,1 +1,0 @@
-lar[21029]=`<b>βυρσοδεψέω-ῶ</b>, préparer le cuir, être corroyeur <i>ou</i> tanneur, AR. <i>Pl. 167</i> ; ARTÉM. <i>1, 51</i>.<p><b>Étym</b>. βυρσοδέψης.`

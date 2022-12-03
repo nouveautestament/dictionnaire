@@ -1,1 +1,0 @@
-lar[28474]=`<b>δυσ·ήλιος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> mal éclairé par le soleil, sombre, ESCHL. <i>Eum. 396</i> ; EUR. <i>Rhes. 247</i> ; PLUT. <i>Mar. 11</i>.<br><b>      2</b> éclairé par un soleil trop ardent, PHRYN. <i>(Bkk. 36, 18).</i><p>➳ <i>Dor</i>. δυσάλιος <font color="purple">[ᾱ]</font> EUR. <i>l. c</i>.<p><b>Étym</b>. δ. ἥλιος.`

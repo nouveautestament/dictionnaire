@@ -1,1 +1,0 @@
-lar[13723]=`<b>εως (ἡ)</b> action d’échapper : δίκης, AR. <i>Nub. 874</i> ; ANT. <i>137, 13,</i> à une accusation, <i>càd</i>. acquittement.<p><b>Étym</b>. ἀποφεύγω.`

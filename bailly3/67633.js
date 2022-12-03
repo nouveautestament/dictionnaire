@@ -1,1 +1,0 @@
-lar[67633]=`<b>(ὁ)</b> Naparis, <i>affl. de l’Ister,</i> HDT. <i>4, 48</i>.`

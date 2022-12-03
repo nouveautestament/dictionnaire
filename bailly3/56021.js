@@ -1,1 +1,0 @@
-lar[56021]=`<b>εως (ἡ)</b> tirage au sort, PLAT. <i>Leg. 956d, Phædr. 249b ;</i> ISOCR. <i>144b ; fig</i>. EUR. <i>Andr. 384</i>.<p><b>Étym</b>. κληρόω.`

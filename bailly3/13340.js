@@ -1,1 +1,0 @@
-lar[13340]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰκ]</font> imprécation, SPT. <i>Esaï. 66, 15</i>.<p><b>Étym</b>. ἀποσκορακίζω.`

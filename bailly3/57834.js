@@ -1,1 +1,0 @@
-lar[57834]=`<b>κρηπιδο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῑ]</font> cordonnier, ATH. <i>568e</i>.<p><b>Étym</b>. κρηπίς, ποιέω.`

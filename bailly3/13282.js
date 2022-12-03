@@ -1,1 +1,0 @@
-lar[13282]=`<b>ἀπο·σήθω :<br>      1</b> filtrer, HPC. <i>285, 43</i>.<br><b>      2</b> <i>fig</i>. épuiser, ruiner, HÉRODICUS (ATH. <i>591c</i>).`

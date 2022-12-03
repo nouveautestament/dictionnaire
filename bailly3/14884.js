@@ -1,1 +1,0 @@
-lar[14884]=`<i>ou</i> <b>Ἀρμήνη, ης (ἡ)</b> Arménè <i>ou</i> Armène (<i>auj</i>. Akliman), <i>port de Sinope,</i> XÉN. <i>An. 1, 15, 17</i> (Ἀρμήνη) ; STR. <i>545</i>.<p><b>Étym</b>. Ἀρμένη.`

@@ -1,1 +1,0 @@
-lar[72116]=`<b>ὀξύ·λαλος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui bavarde vivement, AR. <i>Ran. 815</i>.<p><b>Étym</b>. ὀ. λαλέω.`

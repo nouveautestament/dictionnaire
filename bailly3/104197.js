@@ -1,1 +1,0 @@
-lar[104197]=`<b>ὑπο·ψαλάσσω</b> <font color="purple">[ψᾰ]</font> tâter légèrement, AR. <i>Lys. 84</i>.`

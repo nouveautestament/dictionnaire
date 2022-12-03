@@ -1,1 +1,0 @@
-lar[100522]=`<b>τρισχιλιο·φόρος, ος, ον</b> <font color="purple">[χῑ]</font> qui peut porter 3 000 amphores, <i>en parl. d’un navire,</i> DH. <i>3, 44</i>.<p><b>Étym</b>. τρ. φέρω.`

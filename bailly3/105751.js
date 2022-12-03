@@ -1,1 +1,0 @@
-lar[105751]=`<b>φιλο·δέσποτος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui aime à avoir un maître, qui aime à servir, THGN. <i>847</i>.<br><b>      2</b> qui aime son maître, HDT. <i>4, 142 ; en parl. de chiens,</i> PLUT. <i>M. 491c ;</i> τὸ φ. LUC. <i>Fug. 16,</i> l’amour pour un maître.<p><b>Étym</b>. φ. δεσπότης.`

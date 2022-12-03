@@ -1,1 +1,0 @@
-lar[100120]=`<b>άδος (ἡ)</b> <font color="purple">[ῐᾰδ]</font> tribade, <i>femme homosexuelle,</i> MAN. <i>4, 358</i>.<p><b>Étym</b>. τρίβω.`

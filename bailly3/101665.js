@@ -1,1 +1,0 @@
-lar[101665]=`<b>ῆς (ἡ)</b> fille du fils, petite-fille du côté du fils, JOS. <i>B.J. 1, 22, 1</i>.<p><b>Étym</b>. υἱός.`

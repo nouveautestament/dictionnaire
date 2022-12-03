@@ -1,1 +1,0 @@
-lar[16889]=`<b>ἀτονόω-ῶ</b> (<i>seul. impér. ao</i>. ἀτόνωσον) rendre faible, faire chanceler, AQU. <i>Ps. 68, 24</i>.`

@@ -1,1 +1,0 @@
-lar[75559]=`<b>παρα·δύω</b> <font color="darkgreen">(<i>seul. moy</i>. παραδύομαι, <i>f</i>. -ύσομαι, <i>ao.2</i> παρέδυν <font color="purple">[ῡ]</font>)</font> pénétrer en se glissant, se glisser, s’insinuer, IL. <i>23, 416</i> ; AR. <i>Eccl. 55</i> ; εἴς τι, PLAT. <i>Rsp. 421e, etc.</i> ; ἐπί τι, DÉM. <i>608, 3,</i> dans qqe ch.`

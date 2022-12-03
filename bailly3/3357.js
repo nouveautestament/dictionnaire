@@ -1,1 +1,0 @@
-lar[3357]=`<b>Ἀ·κήρατος, ου (ὁ)</b> Akèratos :<br><b>      1</b> <i>prêtre de Delphes,</i> HDT. <i>8, 37</i>.<br><b>      2</b> <i>poète de l’Anthologie,</i> ANTH. <i>7, 138</i>.<p><b>Étym</b>. <i>v</i>. ἀκήρατος.`

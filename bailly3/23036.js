@@ -1,1 +1,0 @@
-lar[23036]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> animal qui mord, bête dangereuse, ESCHL. <i>Pr. 583 ; cf. postér</i>. NIC. <i>Th. 335 ; en parl. du cheval de Troie,</i> ESCHL. <i>Ag. 824</i>.<br><b>      2</b> morsure, OPP. <i>H. 2, 454 ; 5, 30 ; fig</i>. PD. <i>P. 2, 53</i>.<p><b>Étym</b>. δάκνω.`

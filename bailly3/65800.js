@@ -1,1 +1,0 @@
-lar[65800]=`<b>ωνος (ὁ)</b> Milkôn, <i>titre d’une comédie d’Alexis,</i> ATH. <i>354d</i>.`

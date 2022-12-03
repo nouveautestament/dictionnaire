@@ -1,1 +1,0 @@
-lar[84752]=`<b>προ·μοσχεύω</b>, faire prendre racine à une jeune pousse, provigner, TH. <i>H.P. 6, 7, 3, etc</i>.`

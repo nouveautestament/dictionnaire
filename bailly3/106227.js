@@ -1,1 +1,0 @@
-lar[106227]=`<b>ου (ὁ)</b> Philtræos, <i>litt</i>. « l’ami du panais », <i>n. de rat,</i> BATR. <i>229</i>.<p><b>Étym</b>. φίλτρον.`

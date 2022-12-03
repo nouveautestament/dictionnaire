@@ -1,1 +1,0 @@
-lar[83731]=`<b>προ·αυλίζομαι</b>, camper devant, <i>gén</i>. APP. <i>Iber. 25</i>.`

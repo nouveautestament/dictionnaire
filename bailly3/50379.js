@@ -1,1 +1,0 @@
-lar[50379]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. καθηγητής MAN. <i>2, 300</i>.`

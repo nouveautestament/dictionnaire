@@ -1,1 +1,0 @@
-lar[42836]=`<b>ας (ἡ)</b> bonne route, bon voyage, ESCHL. <i>fr. 34, cité dans</i> AR. <i>Ran. 1528</i>.<p><b>Étym</b>. εὔοδος.`

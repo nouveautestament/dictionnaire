@@ -1,1 +1,0 @@
-lar[15090]=`<font color="darkgreen">(<i>part. pf</i>. ἠρραβωνισμένος)</font> <font color="purple">[ρᾰ]</font> donner un gage, CLÉM. <i>115</i>.<p><b>Étym</b>. ἀρραβών.`

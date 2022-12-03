@@ -1,1 +1,0 @@
-lar[38918]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐπιρροή, HPC. <i>416, 54</i> ; ARSTT. <i>P.A. 2, 7, 14 ; G.A. 2, 6, 51</i>.`

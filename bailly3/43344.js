@@ -1,1 +1,0 @@
-lar[43344]=`<b>εὔ·ρυτος, ος, ον</b> <font color="purple">[ῠ]</font> aux eaux agréables <i>ou</i> abondantes, EUR. <i>I.A. 420</i>.<p><b>Étym</b>. εὖ, ῥέω.`

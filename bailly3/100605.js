@@ -1,1 +1,0 @@
-lar[100605]=`<b>τρί·χαλκον, ου (τὸ)</b> <font color="purple">[ῐ]</font> monnaie de trois chalques, TH. <i>Char. 10</i>.<p><b>Étym</b>. τρ. χαλκοῦς.`

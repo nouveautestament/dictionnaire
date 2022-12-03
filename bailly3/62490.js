@@ -1,1 +1,0 @@
-lar[62490]=`<b>ου (ὁ)</b> = <i>lat</i>. Macrinus, Macrin, <i>empereur romain,</i> ANTH. <i>9, 110</i> ; HDN <i>4, 12, 1, etc</i>.`

@@ -1,1 +1,0 @@
-lar[55261]=`<b>ου (ὁ)</b> nourriture des abeilles, ARSTT. <i>H.A. 9, 40, 5, c</i>. ἐριθάκη.<p><b>Étym</b>. <i>cf</i>. κήρινθον.`

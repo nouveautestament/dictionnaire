@@ -1,1 +1,0 @@
-lar[22026]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Glabrio, -ōnis, Glabrion, <i>n. d’h. rom</i>. PLUT. <i>Syll. 33, Pomp. 30</i> ; ARSTD. <i>etc</i>.`

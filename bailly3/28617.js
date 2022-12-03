@@ -1,1 +1,0 @@
-lar[28617]=`<b>δυσ·κυβέω-ῶ</b> <font color="purple">[κῠ]</font> perdre au jeu de dés, ATH. <i>666d</i>.<p><b>Étym</b>. δ. κυβέω.`

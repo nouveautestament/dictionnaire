@@ -1,1 +1,0 @@
-lar[101203]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> de trombe, d’ouragan, NT. <i>Ap. 27, 14</i>.<p><b>Étym</b>. τυφῶν.`

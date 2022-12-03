@@ -1,1 +1,0 @@
-lar[82358]=`<b>πολυ·σινής, ής, ές</b> <font color="purple">[ῠῑ]</font> très malfaisant, très nuisible, ESCHL. <i>Ch. 446 (var</i>. -σινος).<p><b>Étym</b>. π. σίνομαι.`

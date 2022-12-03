@@ -1,1 +1,0 @@
-lar[8969]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> affection humaine, condition de la nature humaine, ALCIPHR. <i>2, 1</i>.<p><b>Étym</b>. ἀνθρωποπαθής.`

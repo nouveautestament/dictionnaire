@@ -1,1 +1,0 @@
-lar[100240]=`<b>Τρι·κάρανον, ου (τὸ)</b> <font color="purple">[ῐᾰᾱ]</font> Trikaranon :<br><b>      1</b> <i>mt de Phliasie à trois sommets,</i> XÉN. <i>Hell. 7, 2, 1, etc.</i><br><b>      2</b> <i>forteresse sur cette montagne,</i> DÉM. <i>Or. 16, 16 Baiter-Sauppe</i>.`

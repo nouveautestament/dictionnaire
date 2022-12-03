@@ -1,1 +1,0 @@
-lar[6495]=`<i>pour</i> <b>ἄνα</b> = ἀνέστη : ἂν δ' Ὀδυσεύς, IL. <i>3, 268,</i> alors Ulysse se leva ; <i>cf</i>. IL. <i>23, 837, etc</i>.<p>➳ ἄν <i>en ce sens pour l’indic.</i> ; ἄνα <i>pour l’impér</i>.<p><b>Étym</b>. <i>v</i>. ἄνα.`

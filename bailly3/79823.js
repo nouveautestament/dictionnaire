@@ -1,1 +1,0 @@
-lar[79823]=`<b>ίδος (ἡ)</b> la déesse de Pessinunte, <i>càd</i>. Cybèle, STR. <i>469</i>.`

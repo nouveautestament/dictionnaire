@@ -1,1 +1,0 @@
-lar[64829]=`<b>μεταλλό·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> riche en mines d’or, P. SIL. <i>Th. Pyth. 44</i>.<p><b>Étym</b>. μ. χρυσός.`

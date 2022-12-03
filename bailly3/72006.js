@@ -1,1 +1,0 @@
-lar[72006]=`injurier, traiter avec mépris, HH. <i>Merc. 30</i> ; HÉS. <i>O. 256</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ESCHL. <i>Suppl. 11</i>.<p><b>Étym</b>. ὀνοτός.`

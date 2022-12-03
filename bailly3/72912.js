@@ -1,1 +1,0 @@
-lar[72912]=`<b>ου (τὸ)</b> <font color="purple">[ῑθᾰ]</font> petit oiseau, NICOSTR. (ATH. <i>654b</i>) ; ARSTT. <i>Mir. 118</i>.<p><b>Étym</b>. ὄρνις.`

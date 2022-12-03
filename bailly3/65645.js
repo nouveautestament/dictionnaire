@@ -1,1 +1,0 @@
-lar[65645]=`<b>μιγματο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> pharmacien, droguiste, GAL. κ. τοπ. <i>7, 3</i>.<p><b>Étym</b>. μῖγμα, πωλέω.`

@@ -1,1 +1,0 @@
-lar[88222]=`<b>ῥαθα·πυγίζω</b> <font color="purple">[ᾰᾰῡ]</font> donner un coup de pied <i>ou</i> une tape sur le derrière, AR. <i>Eq. 796</i>.<p><b>Étym</b>. ῥάσσω, πυγή.`

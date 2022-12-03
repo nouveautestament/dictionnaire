@@ -1,1 +1,0 @@
-lar[109695]=`<b>ψευδό·λιτρος, ος, ον</b>, fait de mauvaise lessive, AR. <i>Ran. 712</i>.<p><b>Étym</b>. ψ. λίτρον.`

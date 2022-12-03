@@ -1,1 +1,0 @@
-lar[37625]=`<b>ας (ἡ)</b> <font color="purple">[ῐκᾰ]</font> action en pétition d’hérédité, <i>d’où</i> demande d’envoi en possession <i>et</i> adjudication de la succession par le tribunal, IS. <i>42, 8 ; 44, 12</i> ; DÉM. <i>1055, 1 (loi).</i><p><b>Étym</b>. ἐπιδικάζω.`

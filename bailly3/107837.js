@@ -1,1 +1,0 @@
-lar[107837]=`<b>α, ον</b> <font color="purple">[χᾱ]</font> de Khaonie, <i>p. ext</i>. d’Épire, ORPH. <i>Arg. 130, etc.</i> ; ἡ Χαονία (<i>s.-e</i>. γῆ <i>ou</i> χώρα) la Khaonie, ARSTT. <i>Meteor. 2, 3, etc</i>.<p><b>Étym</b>. Χάονες.`

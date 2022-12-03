@@ -1,1 +1,0 @@
-lar[90675]=`<font color="purple">[ᾰ]</font> bondir, s’agiter vivement, GEOP. <i>20, 7, 4</i>.<p><b>Étym</b>. σκαίρω.`

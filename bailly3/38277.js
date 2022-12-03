@@ -1,1 +1,0 @@
-lar[38277]=`<b>ας (ἡ)</b> plaques blanches sur la peau, sorte de lèpre, PLUT. <i>M. 670f</i>.<p><b>Étym</b>. ἐπίλευκος.`

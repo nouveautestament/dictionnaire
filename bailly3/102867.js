@@ -1,1 +1,0 @@
-lar[102867]=`<b>ὑπερ·φθέγγομαι :<br>      1</b> crier <i>ou</i> retentir plus fort que, <i>acc</i>. PLUT. <i>M. 396d ; fig</i>. LUC. <i>Tox. 35</i>.<br><b>      2</b> prononcer d’une voix sonore, <i>acc</i>. PLUT. <i>M. 160f</i>.`

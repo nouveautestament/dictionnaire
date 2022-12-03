@@ -1,1 +1,0 @@
-lar[28144]=`<b>δυσ·αιανής, ής, ές</b> <font color="purple">[ῠᾱν]</font> lamentable, ESCHL. <i>Pers. 281</i>.<p><b>Étym</b>. δ. αἰανής.`

@@ -1,1 +1,0 @@
-lar[25195]=`<b>δια·παννυχίζω</b> <font color="purple">[ῠ]</font> <font color="darkgreen">(<i>impf. 3 pl</i>. διεπαννύχιζον)</font> passer toute la nuit, PLUT. <i>M. 775d</i>.`

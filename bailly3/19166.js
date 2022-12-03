@@ -1,1 +1,0 @@
-lar[19166]=`<b>βαρύ·μαστος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux pesantes <i>ou</i> fortes mamelles, STR. <i>827</i>.<p><b>Étym</b>. β. μαστός.`

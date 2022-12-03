@@ -1,1 +1,0 @@
-lar[67216]=`<b>μυρι·αγωγός, ός, όν</b> <font color="purple">[ῡᾰ]</font> qui porte <i>ou</i> peut porter une cargaison de 10 000 amphores <i>ou</i> autres objets, PHIL. <i>1, 333</i> ; STR. <i>151</i>.<p><b>Étym</b>. μυρίος, ἄγω.`

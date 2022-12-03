@@ -1,1 +1,0 @@
-lar[39637]=`<b>ἐπι·φωράω-ῶ</b>, surprendre en flagrant délit, découvrir, SYN. <i>292</i>.`

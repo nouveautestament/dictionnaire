@@ -1,1 +1,0 @@
-lar[66351]=`<b>ίδος (ἡ)</b> masse de plomb, SOPH. (PLUT. <i>M. 75b</i>) ; PLUT. <i>M. 1096c</i>.<p><b>Étym</b>. μόλιβδος.`

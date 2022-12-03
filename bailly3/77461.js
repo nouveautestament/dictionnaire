@@ -1,1 +1,0 @@
-lar[77461]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en bloc, PLAT. <i>Pol. 294e ;</i> grossièrement, PHILSTR. <i>117</i>.<p>•<i> Cp</i>. παχυτέρως, PLAT. <i>Pol. 295a, ou</i> παχύτερον, PLAT. <i>Pol. 294e ;</i> HLD. <i>5, 18</i>.<p><b>Étym</b>. παχύς.`

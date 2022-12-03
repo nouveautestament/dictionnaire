@@ -1,1 +1,0 @@
-lar[31804]=`<b>ἐκ·περίϊξις, εως (ἡ)</b> action de contourner, circuit, SYN. <i>De regn. 21, 1104c Migne</i>.<p><b>Étym</b>. ἐκ, περιϊκνέομαι.`

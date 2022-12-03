@@ -1,1 +1,0 @@
-lar[11450]=`<b>ἀπατ·ήνωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font> qui trompe les hommes, fourbe, TRIPHIOD. <i>137</i>.<p><b>Étym</b>. ἀπατάω, ἀνήρ.`

@@ -1,1 +1,0 @@
-lar[3897]=`<b>ἀκρ·ώνυχος, ος, ον</b> <font color="purple">[ῠ]</font> fait avec le bout de l’ongle, <i>d’où</i> légèrement marqué avec le bout de la main <i>ou</i> du pied, PLUT. <i>M. 317e ;</i> ANTH. <i>12, 82</i>.<p><b>Étym</b>. ἄ. ὄνυξ.`

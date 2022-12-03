@@ -1,1 +1,0 @@
-lar[94452]=`<b>εως (ἡ)</b> rassemblement, foule, PLUT. <i>Per. 34, Oth. 14</i> ; PLOT. <i>Enn. 2, 1009</i>.<p><b>Étym</b>. συμφορέω.`

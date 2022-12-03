@@ -1,1 +1,0 @@
-lar[69109]=`<b>ή, όν</b>, propre à chasser la nuit, XÉN. <i>Mem. 3, 11, 8</i>.<p><b>Étym</b>. νυκτερεύω.`

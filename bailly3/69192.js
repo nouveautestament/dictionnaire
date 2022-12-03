@@ -1,1 +1,0 @@
-lar[69192]=`<b>νυμφα·γενής, ής, ές</b> <font color="purple">[ᾱ]</font> né d’une nymphe, TÉLEST. (ATH. <i>617e</i>).<p><b>Étym</b>. νύμφη, γένος.`

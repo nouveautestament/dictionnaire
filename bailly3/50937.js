@@ -1,1 +1,0 @@
-lar[50937]=`<b>κακ·ώδης, ης, ες</b> <font color="purple">[ᾰ]</font> qui sent mauvais, HPC. <i>671, 51</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Probl. 2, 13</i>.<p><b>Étym</b>. κακός, ὄζω ; <i>cf</i>. δυσώδης.`

@@ -1,1 +1,0 @@
-lar[79490]=`<b>περι·τίλλω :<br>      1</b> éplucher tout autour, <i>acc</i>. HDT. <i>3, 32, en parl. de feuilles de laitue</i>.<br><b>      2</b> <i>p. ext</i>. couper <i>ou</i> arracher tout autour, LUC. <i>Gall. 23</i>.`

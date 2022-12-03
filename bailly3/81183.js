@@ -1,1 +1,0 @@
-lar[81183]=`<b>πνευματο·εργός, ός, όν</b> <font color="purple">[ᾰ]</font> qui crée la vie, <i>en parl. de Dieu,</i> SYN. <i>Hymn. 3, 169</i>.<p><b>Étym</b>. π. ἔργον.`

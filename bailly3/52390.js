@@ -1,1 +1,0 @@
-lar[52390]=`<b>κατα·θεάομαι-θεῶμαι :<br>      1</b> regarder d’en haut, XÉN. <i>An. 6, 5, 30, etc.</i><br><b>      2</b> regarder attentivement, XÉN. <i>An. 1, 8, 14, etc.</i> ; PLUT. <i>M. 426d</i>.`

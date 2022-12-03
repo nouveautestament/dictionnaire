@@ -1,1 +1,0 @@
-lar[14239]=`<b>ου</b>, <i>ion</i>. <b>-εω (ὁ) :<br>      1</b> le vent d’est, HÉS. <i>Th. 379, 870</i>.<br><b>      2</b> le vent du nord-ouest, ARSTT. <i>Meteor. 2, 6, 12</i> ; TH. <i>Vent. 51, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀργεστής.`

@@ -1,1 +1,0 @@
-lar[58241]=`<b>ου (τὸ)</b> petit peigne, LUC. <i>3, 115 Reitz</i>.<p><b>Étym</b>. <i>dim. de</i> κτείς.`

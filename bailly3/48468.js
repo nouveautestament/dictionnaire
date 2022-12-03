@@ -1,1 +1,0 @@
-lar[48468]=`<b>ης (ἡ)</b> connaissance, science, A. PL. <i>4, 273 ; au pl</i>. HÉS. <i>Th. 377</i>.<p><b>Étym</b>. ἴδμων.`

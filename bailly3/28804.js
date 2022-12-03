@@ -1,1 +1,0 @@
-lar[28804]=`<b>δυσ·περίψυκτος, ος, ον</b>, à l’abri du refroidissement, DIOSC. <i>1, 30</i>.<p><b>Étym</b>. δ. περιψύχω.`

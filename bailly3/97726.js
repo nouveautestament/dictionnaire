@@ -1,1 +1,0 @@
-lar[97726]=`<b>α, ον</b> <font color="purple">[ᾰρει]</font> du Tartare, EUR. <i>H.f. 907</i> ; LUC. <i>Philops. 24</i>.<p><b>Étym</b>. Τάρταρος.`

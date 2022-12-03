@@ -1,1 +1,0 @@
-lar[62689]=`<b>ης, ες</b> <font color="purple">[ᾰκ]</font> semblable à de la cire molle, HPC. <i>Fract. 880 vulg. ; conj</i>. μαλθώδης.<p><b>Étym</b>. μαλθακός, -ωδης.`

@@ -1,1 +1,0 @@
-lar[38474]=`<b>ἐπι·μορφάζω</b> (<i>seul. prés</i>.) feindre, simuler, PHIL. <i>1, 340, etc.</i> ; CLÉM. <i>41</i>.`

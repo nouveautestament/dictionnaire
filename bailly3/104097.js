@@ -1,1 +1,0 @@
-lar[104097]=`être interprète de la parole <i>ou</i> de la volonté des dieux, LUC. <i>Philops. 6 ; avec un dat</i>. LUC. <i>Bis acc. 1</i>.<p><b>Étym</b>. ὑποφήτης.`

@@ -1,1 +1,0 @@
-lar[56036]=`<b>ας (ἡ)</b> Klètoria, <i>fille d’Achéloüs,</i> Ps.-PLUT. <i>Fluv. 22, 1</i>.`

@@ -1,1 +1,0 @@
-lar[28725]=`<b>δύσ·οπτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à voir, obscur, HPC. ; τὸ δύσοπτον, POL. <i>18, 4, 2,</i> obscurité.<p><b>Étym</b>. δ. ὄψομαι.`

@@ -1,1 +1,0 @@
-lar[94563]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> qui se fait par écot, ALEX. <i>et</i> EPHIPP. (<i>Com. fr. 3, 499, 326).</i><p><b>Étym</b>. συναγώγιον.`

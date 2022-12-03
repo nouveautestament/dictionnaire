@@ -1,1 +1,0 @@
-lar[6655]=`<b>ἀναγχ·ιππέω-ῶ</b>, servir malgré soi comme cavalier, EUP. (SUID.).<p><b>Étym</b>. ἀναγκή, ἱππεύς.`

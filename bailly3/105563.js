@@ -1,1 +1,0 @@
-lar[105563]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour du travail, XÉN. <i>Œc. 20, 26</i> ; DÉM. <i>945, 25</i> ; ARSTT. <i>Rhet. 1, 5, 6</i>.<p><b>Étym</b>. φιλεργός.`

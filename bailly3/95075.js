@@ -1,1 +1,0 @@
-lar[95075]=`<b>ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> qui a les pieds et les mains liés, SOPH. <i>Aj. 65, 296</i>.<br><b>      2</b> lié à, uni à, <i>dat</i>. PLAT. <i>Pol. 279e.</i><br><b>      3</b> <i>fig</i>. bien ajusté, harmonieux, ARSTT. <i>Physiogn. 3, 3</i>.<br><b>   II</b> <i>act</i>. τὸ σύνδετον, EUR. <i>Ion 1390,</i> lien.<p><b>Étym</b>. συνδέω.`

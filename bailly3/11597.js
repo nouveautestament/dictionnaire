@@ -1,1 +1,0 @@
-lar[11597]=`<b>ἀπειρο·μείζων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, infiniment plus grand, CLÉOM. <i>96</i>.<p><b>Étym</b>. ἄ. μείζων.`

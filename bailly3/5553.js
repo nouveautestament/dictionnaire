@@ -1,1 +1,0 @@
-lar[5553]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> moissonneur, IL. <i>11, 67 ; fig</i>. exterminateur, CHRIST. <i>Ecphr. 376</i>.<br><b>      2</b> <i>adj</i>. en forme de faucille, NONN. <i>D. 26, 302</i>.<p><b>Étym</b>. ἀμάω.`

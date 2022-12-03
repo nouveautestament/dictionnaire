@@ -1,1 +1,0 @@
-lar[90830]=`<b>σκηνοβατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1 <i>intr.</i></b> se produire sur la scène, STR. <i>233</i>.<br><b>      2</b> <i>tr. fig</i>. publier, HÉRACLITE GRAMM. <i>All. Hom. 30</i> ; PHIL. <i>2, 576, 597</i>.<p><b>Étym</b>. σκηνοβάτης.`

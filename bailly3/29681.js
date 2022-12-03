@@ -1,1 +1,0 @@
-lar[29681]=`<b>ή, όν</b> <font color="purple">[ῐτ]</font> <i>t. de gr</i>. enclitique, HDN GR. <i>1142b, etc.</i> ; DYSC. <i>Pron. 289, 293, etc</i>.<p>•<i> Cp</i>. ἐγκλιτικώτερος, DYSC. <i>Synt. 222, 22 Schneider-Uhlig</i>.<p><b>Étym</b>. ἐγκλίνω.`

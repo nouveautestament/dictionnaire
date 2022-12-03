@@ -1,1 +1,0 @@
-lar[13120]=`<b>ἀπό·πολις (ὁ, ἡ)</b> banni de la cité, exilé, ESCHL. <i>Ag. 1410</i>.<p><b>Étym</b>. ἀπό, πόλις.`

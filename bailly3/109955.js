@@ -1,1 +1,0 @@
-lar[109955]=`<b>ψυχ·εμπορική, ῆς (ἡ)</b> <font color="purple">[ῡ]</font> (<i>s.-e</i>. τέχνη) trafic des choses qui concernent l’âme, PLAT. <i>Soph. 224b</i>.<p><b>Étym</b>. ψυχή, ἔμπορος.`

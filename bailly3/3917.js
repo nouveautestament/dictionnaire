@@ -1,1 +1,0 @@
-lar[3917]=`<b>ἀ·κτέανος, ος, ον</b> <font color="purple">[ᾰν]</font> sans biens, pauvre, ANTH. <i>7, 353</i> ; MAN. <i>3, 118 ; 4, 114, etc</i>.<p><b>Étym</b>. ἀ, κτέανον.`

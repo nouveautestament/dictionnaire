@@ -1,1 +1,0 @@
-lar[92919]=`<b>στρέψις, εως (ἡ)</b> action de tourner, <i>d’où</i> évolution, changement, ARSTT. <i>P.A. 4, 13, 21</i>.<p><b>Étym</b>. στρέφω.`

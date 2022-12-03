@@ -1,1 +1,0 @@
-lar[64674]=`<b>μετα·βουλεύω</b>, se raviser, changer de détermination : ἀμφί τινι, OD. <i>5, 286,</i> au sujet de qqn.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Or. 1526</i> ; HDT. <i>8, 57</i> ; PLAT. <i>Epin. 982d ;</i> μ. τινος, ALCIPHR. <i>2, 4, 19,</i> renoncer à qqe dessein.`

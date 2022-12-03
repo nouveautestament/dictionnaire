@@ -1,1 +1,0 @@
-lar[48283]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> de Jason : Ἰασονία ἀκτή, XÉN. <i>An. 6, 2, 1,</i> le promontoire de Jason (<i>auj</i>. Yason Burnu) <i>dans le Pont</i>.<p>➳ <i>Ion</i>. Ἰησόνιος, THCR. <i>Idyl. 22, 31</i> ; A.RH. <i>1, 988, etc</i>.`

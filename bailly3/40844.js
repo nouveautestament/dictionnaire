@@ -1,1 +1,0 @@
-lar[40844]=`<b>ἐρυσί·σκηπτρον</b> <i>ou</i> <b>ἐρυσί·σκηπτον, ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>sorte d’arbrisseau épineux,</i> TH. <i>Od. 57</i> ; DIOSC. <i>1, 4 et 19</i>.<p><b>Étym</b>. ἐρυσίβη, σκῆπτρον.`

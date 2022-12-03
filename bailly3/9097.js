@@ -1,1 +1,0 @@
-lar[9097]=`<b>(ἡ)</b> Anippa, <i>f</i>. PLUT. <i>Parall. min. 38</i>.`

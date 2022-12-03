@@ -1,1 +1,0 @@
-lar[24551]=`<b>διά·δηλος, ος</b> <i>ou</i> <b>η, ον</b>, visible <i>ou</i> reconnaissable entre tous, THC. <i>4, 68</i> ; PLAT. <i>Rsp. 474b ;</i> POL. <i>6, 22, 3 ; 10, 41, 7</i>.<p>➳ <i>Fém</i>. -η, ARSTT. <i>H.A. 9, 7, 10</i>.`

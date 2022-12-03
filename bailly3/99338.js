@@ -1,1 +1,0 @@
-lar[99338]=`<i>ion</i>. <b>Τιτηνιάς, άδος (ἡ)</b> <font color="purple">[τῑτᾱ]</font> <i>c</i>. Τιτανίς, CALL. <i>fr. 471 Schneid</i>.`

@@ -1,1 +1,0 @@
-lar[65993]=`<b>α, ον :<br>      1</b> pris à gages, salarié, mercenaire, PLUT. <i>Lyc. 16</i>.<br><b>      2</b> qu’on fait moyennant salaire, ANTH. <i>6, 283</i>.<p><b>Étym</b>. μισθός.`

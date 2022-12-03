@@ -1,1 +1,0 @@
-lar[34848]=`<b>ἐν·όρειος, ος, ον</b>, de montagnard, SCYMN. <i>832 Müll</i>.<p><b>Étym</b>. ἐν, ὄρος.`

@@ -1,1 +1,0 @@
-lar[58512]=`<b>ου (ὁ)</b> = <i>lat</i>. Quintilis, <i>autre n. du mois</i> Julius (juillet) : Κ. νόνναι, PLUT. <i>Cam. 33</i> ; Κ. εἰδοί, PLUT. <i>Cam. 30,</i> les nones, les ides du mois Quintilis.`

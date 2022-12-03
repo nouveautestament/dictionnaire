@@ -1,1 +1,0 @@
-lar[25674]=`<b>εως (ἡ)</b> action de fendre avec un coin, SOR. <i>Obst. p. 216 Erm</i>.`

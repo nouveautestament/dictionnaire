@@ -1,1 +1,0 @@
-lar[6754]=`<b>εως (ἡ)</b> action de faire revivre, THEOL. <i>p. 40</i>.<p><b>Étym</b>. ἀναζάω.`

@@ -1,1 +1,0 @@
-lar[70160]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> sujet de douleur, HPC. <i>401, 49 au plur</i>.<p><b>Étym</b>. ὀδυνάω.`

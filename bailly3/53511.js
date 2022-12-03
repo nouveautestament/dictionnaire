@@ -1,1 +1,0 @@
-lar[53511]=`<b>οῦ (ὁ)</b> incision, scarification, GAL. <i>19, 714</i> ; ORIB. <i>p. 142, 143 Matthäi</i>.<p><b>Étym</b>. κατασχάζω.`

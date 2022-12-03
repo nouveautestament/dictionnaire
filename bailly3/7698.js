@@ -1,1 +1,0 @@
-lar[7698]=`<b>ος, ον</b>, propre à ouvrir, à déboucher, HPC. <i>587, 22</i>.`

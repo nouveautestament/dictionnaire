@@ -1,1 +1,0 @@
-lar[64162]=`<b>οῦ (ὁ)</b> qui diffère toujours, temporiseur, THC. <i>1, 70</i> ; ARSTT. <i>Nic. 4, 8, 27</i>.<p><b>Étym</b>. μέλλω.`

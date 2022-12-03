@@ -1,1 +1,0 @@
-lar[26145]=`<b>δι·εκπτύω</b> (<i>part. prés</i>.) rejeter en crachant, PHILSTR. <i>848</i>.`

@@ -1,1 +1,0 @@
-lar[41177]=`<i>adv</i>., d’une manière fautive <i>ou</i> erronée, ANTH. <i>15, 38</i>.<p><b>Étym</b>. ἔσφαλμαι.`

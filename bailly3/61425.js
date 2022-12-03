@@ -1,1 +1,0 @@
-lar[61425]=`<b>λιτό·βιος, ος, ον</b> <font color="purple">[λῑ]</font> qui vit simplement, STR. <i>701</i>.<p><b>Étym</b>. λιτός, βίος.`

@@ -1,1 +1,0 @@
-lar[291]=`<b>ἀγα·κτιμένη πόλις</b> <font color="purple">[ᾰγῐ]</font> ville bien bâtie, PD. <i>P. 5, 76</i>.<p><b>Étym</b>. ἀγα-, κτίμενος.`

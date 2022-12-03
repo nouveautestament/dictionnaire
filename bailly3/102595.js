@@ -1,1 +1,0 @@
-lar[102595]=`<b>ὑπερ·κηλέω-ῶ</b>, charmer, ravir, LUC. <i>Am. 1</i>.`

@@ -1,1 +1,0 @@
-lar[42622]=`<font color="purple">[ῠ]</font> <i>adv</i>., d’une manière dégagée, facilement, HPC. <i>190g ;</i> POL. <i>27, 9, 5</i> ; HÉRON <i>Bel. 128, 130</i> ; HÉRON <i>Aut. 261</i>.`

@@ -1,1 +1,0 @@
-lar[92180]=`<b>ας (ἡ)</b> Stateira, <i>n. de f. oriental,</i> PLUT. <i>Alex. 30, Artax. 5, Luc. 18</i>.`

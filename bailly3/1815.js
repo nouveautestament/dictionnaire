@@ -1,1 +1,0 @@
-lar[1815]=`<b>ἀερό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾱ]</font> qui a la couleur de l’air, azuré, DIOSC. <i>5, 85</i>.<p><b>Étym</b>. ἀ. χρόα.`

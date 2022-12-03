@@ -1,1 +1,0 @@
-lar[95768]=`<b>ου (ὁ)</b> <font color="purple">[ῠ, <i>par exc</i>. ῡ, A. PL. <i>38</i>]</font> Synésios, <i>écrivain</i>.`

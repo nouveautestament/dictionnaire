@@ -1,1 +1,0 @@
-lar[87378]=`<b>εως (ἡ)</b> vol des oiseaux, ESCHL. <i>Pr. 488</i> ; ARSTT. <i>P.A. 1, 1, 7, etc</i>.<p><b>Étym</b>. πέτομαι.`

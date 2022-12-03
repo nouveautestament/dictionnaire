@@ -1,1 +1,0 @@
-lar[76630]=`<font color="purple">[τᾰ]</font> <i>vb. de</i> παρεκτείνω, PLUT. <i>1, 88</i>.`

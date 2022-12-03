@@ -1,1 +1,0 @@
-lar[56267]=`<i>opt. ao. pass. de</i> κνάω <i>ou de</i> κνήθω.`

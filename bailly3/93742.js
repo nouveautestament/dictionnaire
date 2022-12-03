@@ -1,1 +1,0 @@
-lar[93742]=`<b>συλέω-ῶ</b> <font color="purple">[ῡ]</font> <i>c</i>. συλάω, XANTH. (DH. <i>1, 28</i>) ; Q. SM. <i>1, 717</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. THCR. <i>Idyl. 19, 2</i>.<p>➳ <i>Act. seul. prés</i>. XANTH. <i>l. c., et impf</i>. Q. SM. <i>2, 547. Moy. part. prés. dor</i>. συλεύμενος, THCR. <i>Idyl. 19, 2</i>.<p><b>Étym</b>. σύλη.`

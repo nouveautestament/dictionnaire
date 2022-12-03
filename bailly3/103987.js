@@ -1,1 +1,0 @@
-lar[103987]=`<b>ὑπο·τετραμερής, ής, ές</b> <font color="purple">[ᾰ]</font> plus petit de moitié plus un quart, comme 4 : 9, JAMBL. <i>Nicom. ar. p. 58b</i>.`

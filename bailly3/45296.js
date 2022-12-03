@@ -1,1 +1,0 @@
-lar[45296]=`<b>ων (οἱ)</b> <font color="purple">[ᾰ]</font> habitants de l’Émathie, <i>càd</i>. Macédoniens, ANTH. <i>2, 28</i>.<p><b>Étym</b>. <i>v</i>. Ἠμαθία.`

@@ -1,1 +1,0 @@
-lar[67558]=`Môphi, <i>mt. d’Égypte,</i> HDT. <i>2, 28</i>.`

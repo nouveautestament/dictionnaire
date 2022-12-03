@@ -1,1 +1,0 @@
-lar[69923]=`<b>ῶνος</b> <font color="purple">[ῡ]</font> <i>adj. m. c</i>. ξυνήων, SOPH. <i>fr. 916</i>.`

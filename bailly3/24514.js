@@ -1,1 +1,0 @@
-lar[24514]=`<b>δι·αγριαίνω</b> (<i>seul. prés</i>.) :<br><b>      1</b> rendre farouche <i>ou</i> cruel, PLUT. <i>Galb. 18</i>.<br><b>      2</b> exaspérer, irriter, PLUT. <i>Ant. 87 ; au pass</i>. PLUT. <i>M. 465c</i>.`

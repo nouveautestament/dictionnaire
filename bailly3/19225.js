@@ -1,1 +1,0 @@
-lar[19225]=`<b>βαρυφωνέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰῠ]</font> avoir la voix grave <i>ou</i> forte, ARSTT. <i>Probl. 11, 15</i>.<p><b>Étym</b>. βαρύφωνος.`

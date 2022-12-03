@@ -1,1 +1,0 @@
-lar[80263]=`<b>ου (τὸ)</b> beurre, HPC. <i>614, 10 ; mot phryg. sel</i>. EROT. <i>p. 312</i>.`

@@ -1,1 +1,0 @@
-lar[18105]=`<b>ἀ·φιλόλογος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’aime pas les lettres, PLUT. <i>M. 673a</i>.`

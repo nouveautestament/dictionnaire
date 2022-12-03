@@ -1,1 +1,0 @@
-lar[62757]=`<b>ας (ἡ) :<br>      1</b> lieu fermé par une cloison, <i>d’où</i> étable, écurie, SOPH. <i>fr. 587</i> ; THCR. <i>Idyl. 4, 61</i> ; PLUT. <i>M. 648a, etc.</i><br><b>      2</b> <i>p. anal</i>. chaton d’une bague, <i>propr</i>. cercle où est incrustée la pierre de l’anneau, ANTH. <i>9, 747</i>.<p>➳ <i>Ion</i>. μάνδρη, ANTH. <i>9, 747 ; 11, 326, etc</i>.`

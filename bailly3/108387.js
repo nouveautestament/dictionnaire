@@ -1,1 +1,0 @@
-lar[108387]=`<b>α, ον</b>, de veuf, de veuve, ANTH. <i>9, 192</i>.<p>➳ <i>Ion</i>. χηρήϊος, ANTIM. <i>99 Kinkel</i>.<p><b>Étym</b>. χῆρος.`

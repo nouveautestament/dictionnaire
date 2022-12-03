@@ -1,1 +1,0 @@
-lar[58123]=`<b>ων (τὰ)</b> <font color="purple">[πᾰ]</font> sabots <i>ou</i> sandales de bois, SOPH. <i>fr. 43</i>.`

@@ -1,1 +1,0 @@
-lar[25687]=`<b>δι·ασχολέω-ῶ</b> (<i>part. prés. pass</i>.) être entièrement occupé : πρός τι, HDN <i>7, 6, 15,</i> à qqe ch.`

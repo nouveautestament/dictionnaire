@@ -1,1 +1,0 @@
-lar[89179]=`<b>ης (ἡ)</b> agitation, TRIPHIOD. <i>428 conj</i>.<p><b>Étym</b>. σαλεύω.`

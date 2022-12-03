@@ -1,1 +1,0 @@
-lar[108089]=`<b>χειραγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> conduire par la main, diriger, <i>acc</i>. POSIDON. (ATH. <i>211f</i>) ; PLUT. <i>Cleom. 38</i> ; LUC. <i>Tim. 32 ; fig</i>. PLUT. <i>M. 48b ; au pass</i>. être dirigé, DS. <i>13, 20</i> ; ἐπί τι, HDN <i>7, 1,</i> vers qqe ch.<p><b>Étym</b>. χειραγωγός.`

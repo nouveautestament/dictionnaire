@@ -1,1 +1,0 @@
-lar[39998]=`<b>ἑπτά·μυχος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à sept enfoncements <i>ou</i> grottes, CALL. <i>Del. 65</i>.<p><b>Étym</b>. ἑ. μυχός.`

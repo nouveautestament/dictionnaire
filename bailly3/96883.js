@@ -1,1 +1,0 @@
-lar[96883]=`<b>ηκός (ὁ)</b> guêpe, IL. <i>12, 167 ; 16, 259, etc.</i> ; HDT. <i>2, 92</i> ; ATT. ; <i>au plur</i>. les Guêpes, <i>titre d’une comédie d’Aristophane</i>.<p>➳ <i>Dor</i>. σφάξ, ακός <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 5, 29</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

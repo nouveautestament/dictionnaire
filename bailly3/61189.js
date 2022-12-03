@@ -1,1 +1,0 @@
-lar[61189]=`<b>λιμο·δοξέω-ῶ</b> <font color="purple">[ῑ]</font> être affamé de renommée, de gloire, PHIL. <i>2, 273, etc</i>.<p><b>Étym</b>. λιμός, δόξα.`

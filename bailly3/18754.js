@@ -1,1 +1,0 @@
-lar[18754]=`<b>βαθύ·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰῐχ]</font><br><b>      1</b> aux cheveux touffus, OPP. <i>C. 1, 313</i>.<br><b>      2</b> à l’épaisse toison, HH. <i>Ap. 412</i>.<p><b>Étym</b>. β. θρίξ.`

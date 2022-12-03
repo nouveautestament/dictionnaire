@@ -1,1 +1,0 @@
-lar[51938]=`<b>ή, όν :<br>      1</b> ferme, patient, dur au mal, ISOCR. <i>23e, 181c ;</i> ARSTT. <i>Nic. 7, 7</i> ; κ. πρός τι, XÉN. <i>Mem. 1, 2, 1,</i> capable de supporter qqe ch.<br><b>      2</b> <i>p. suite,</i> persévérant, <i>en parl. de pers. et de choses,</i> PLAT. <i>Def. 412a</i>.<p>•<i> Sup</i>. -ώτατος, XÉN. <i>l. c</i>.<p><b>Étym</b>. καρτερός.`

@@ -1,1 +1,0 @@
-lar[32858]=`<b>ἑλκε·τρίβων, ωνος (ὁ)</b> <font color="purple">[ῐ]</font> qui traîne un manteau usé, PLAT. COM. <i>2-2, 656, 2 Mein</i>.<p><b>Étym</b>. ἕ. τρίβων.`

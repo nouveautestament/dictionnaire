@@ -1,1 +1,0 @@
-lar[92791]=`<b>ας (ἡ)</b> lenteur, tergiversation, M. ANT. <i>4, 51 conj</i>.<p><b>Étym</b>. στραγγεύομαι.`

@@ -1,1 +1,0 @@
-lar[42209]=`<b>εὐ·θνήσιμος, ος, ον</b>, qui amène une mort prompte, ESCHL. <i>Ag. 1293</i>.<p><b>Étym</b>. εὖ, θνῄσκω.`

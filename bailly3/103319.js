@@ -1,1 +1,0 @@
-lar[103319]=`<b>ατος (τὸ)</b> ce qui sert aux fumigations, <i>d’où</i> fumigation, A. TR. <i>5, 261</i>.<p><b>Étym</b>. ὑποκαπνίζω.`

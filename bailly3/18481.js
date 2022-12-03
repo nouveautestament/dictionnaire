@@ -1,1 +1,0 @@
-lar[18481]=`<b>ἀχλυη·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui apporte les ténèbres, CHRYS. <i>8, 40</i>.<p><b>Étym</b>. ἀχλύς, φέρω.`

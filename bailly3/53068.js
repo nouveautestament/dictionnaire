@@ -1,1 +1,0 @@
-lar[53068]=`<b>κατα·πιμελής, ής, ές</b> <font color="purple">[ῑ]</font> <i>c</i>. καταπίμελος ORIB. <i>p. 28 Matthäi</i>.<p>•<i> Sup</i>. -έστατος, XÉNOCR. <i>Al. 75</i>.`

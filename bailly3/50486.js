@@ -1,1 +1,0 @@
-lar[50486]=`<b>καθ·υπερηφανέω-ῶ</b> <font color="purple">[ᾰῠᾰ]</font> <i>c</i>. ὑπερηφανέω, PHILOD. π. κακιῶν, <i>4, 29 Sauppe</i> ; AR. <i>Ach. arg</i>.`

@@ -1,1 +1,0 @@
-lar[87763]=`<b>οῦντος (ὁ)</b> <font color="purple">[ῡᾰ]</font> gâteau de sésame <i>qu’on donnait comme prix de la danse,</i> ATH. <i>114b ; p. ext</i>. gâteau de sésame <i>en gén</i>. AR. <i>Th. 94, Eq. 277</i>.<p><b>Étym</b>. <i>contract. p</i>. *πυραμόεις, -όεντος, <i>de</i> πυραμός, <i>dér. de</i> πυρός ; <i>cf</i>. πυραμίς.`

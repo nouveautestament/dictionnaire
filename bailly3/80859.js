@@ -1,1 +1,0 @@
-lar[80859]=`<b>πλεκτανάω-ῶ</b> <font color="purple">[τᾰ]</font> enlacer, ESCHL. <i>Ch. 1049</i>.`

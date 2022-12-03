@@ -1,1 +1,0 @@
-lar[17781]=`<b>αὐτό·χθονος, ος, ον</b>, avec le pays même, ESCHL. <i>Ag. 536, dout</i>.<p><b>Étym</b>. <i>cf</i>. αὐτόχθων.`

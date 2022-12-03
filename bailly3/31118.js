@@ -1,1 +1,0 @@
-lar[31118]=`<b>ατος (τὸ)</b> ce qui s’échappe en bouillonnant, écume, DIOSC. <i>5, 107</i> ; RUF. (ORIB. <i>1, 212, 15 B.-Dar</i>.) ; CLÉM. <i>1, 540b Migne</i>.<p><b>Étym</b>. ἐκβράζω.`

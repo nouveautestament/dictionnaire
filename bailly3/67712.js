@@ -1,1 +1,0 @@
-lar[67712]=`<b>ναυ·αγός, ός, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> <i>pass</i>. qui fait <i>ou</i> qui a fait naufrage, naufragé, EUR. <i>Hel. 408</i> ; XÉN. <i>Hell. 1, 7, 4</i> ; ANTH. <i>7, 76</i>.<br><b>      2</b> <i>act</i>. qui cause un naufrage, ANTH. <i>9, 105</i>.<p>➳ <i>Ion</i>. ναυηγός, ANTH. <i>ll. cc</i>.<p><b>Étym</b>. ναῦς, ἄγνυμι.`

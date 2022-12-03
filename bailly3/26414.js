@@ -1,1 +1,0 @@
-lar[26414]=`<font color="purple">[ῑῠ]</font> <i>adv</i>., en termes dithyrambiques, SYN. <i>De regn. 11, 1080c Migne</i>.`

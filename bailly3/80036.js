@@ -1,1 +1,0 @@
-lar[80036]=`<b>εως (ἡ) :<br>      1</b> action de bondir, bond, ARSTT. <i>P.A. 3, 6, 5</i> ; PLUT. <i>Ant. 75</i>.<br><b>      2</b> <i>p. anal</i>. battement, pulsation, PLAT. <i>Tim. 70c, Leg. 791a</i>.<p><b>Étym</b>. πηδάω.`

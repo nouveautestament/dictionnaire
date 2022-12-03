@@ -1,1 +1,0 @@
-lar[3714]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> sauterelle, IL. <i>21, 12</i> ; AR. <i>Ach. 1116</i> ; THCR. <i>Idyl. 7, 41</i> ; NT. <i>Matth. 3, 4 ; Marc. 1, 6, etc</i>.`

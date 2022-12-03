@@ -1,1 +1,0 @@
-lar[108814]=`<b>χορο·ήθης, ης, όηθες</b>, <i>gén</i>. εος, qui a l’habitude des chœurs, des danses HH. <i>18, 3</i>.<p><b>Étym</b>. χ. ἦθος.`

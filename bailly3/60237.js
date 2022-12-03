@@ -1,1 +1,0 @@
-lar[60237]=`<b>λεκανό·μαντις, εως (ὁ)</b> <font color="purple">[κᾰ]</font> qui prédit l’avenir au moyen d’un bassin de métal, STR. <i>762</i>.<p><b>Étym</b>. λεκάνη, μάντις.`

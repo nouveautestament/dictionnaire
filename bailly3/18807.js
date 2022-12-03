@@ -1,1 +1,0 @@
-lar[18807]=`<b>βαθύ·σκιος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> couvert d’une ombre profonde <i>ou</i> épaisse, HH. <i>Merc. 229</i> ; THCR. <i>Idyl. 4, 19</i> ; PLUT. <i>M. 1005f ; etc.</i><br><b>      2</b> qui produit une ombre profonde, MUS. <i>111</i>.<p><b>Étym</b>. β. σκιά.`

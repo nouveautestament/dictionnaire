@@ -1,1 +1,0 @@
-lar[50898]=`<b>κακουχέω-ῶ</b> <font color="purple">[ᾰ]</font> maltraiter, tourmenter, <i>acc</i>. TÉLÈS (STOB. <i>Fl. 97, 31), d’où au pass</i>. être tourmenté, DS. <i>3, 23 ; 19, 11</i> ; PLUT. <i>M. 114e ;</i> DC. <i>35, 9</i>.<p><b>Étym</b>. κ. ἔχω.`

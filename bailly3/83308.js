@@ -1,1 +1,0 @@
-lar[83308]=`<b>ας (ἡ)</b> <font color="purple">[ᾱῠᾰ]</font> douceur de caractère, bonté, PHIL. <i>2, 31</i> ; NT. <i>1Tim. 6, 11</i>.<p><b>Étym</b>. πραϋπαθής.`

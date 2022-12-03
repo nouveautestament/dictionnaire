@@ -1,1 +1,0 @@
-lar[105398]=`<b>ῶν (οἱ)</b> les Fidénates, <i>habitants de Fidènes,</i> PLUT. <i>Popl. 22</i>.<p><b>Étym</b>. Φιδήνη.`

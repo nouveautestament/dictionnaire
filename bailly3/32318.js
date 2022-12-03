@@ -1,1 +1,0 @@
-lar[32318]=`<b>ἐκ·φλαίνω</b> (<i>inf. ao</i>. ἐκφλῆναι) jaillir par ébullition, EUR. (EM. <i>v°</i> φλήναφος).`

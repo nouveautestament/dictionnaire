@@ -1,1 +1,0 @@
-lar[79686]=`<b>περί·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> doré tout autour, couvert d’une couche d’or, HIPPOLOCH. <i>et</i> CHARÈS (ATH. <i>129b, 538d</i>) ; LUC. <i>Nec. 12</i>.<p><b>Étym</b>. π. χρυσός.`

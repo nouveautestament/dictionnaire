@@ -1,1 +1,0 @@
-lar[9157]=`<b>ἀν·ίωτος, ος, ον</b> <font color="purple">[ῑ]</font> qui ne se rouille pas, ARSTT. <i>Mir. 48, 2, fr. 248</i>.<p><b>Étym</b>. ἀν-, ἰόω.`

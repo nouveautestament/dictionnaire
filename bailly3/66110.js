@@ -1,1 +1,0 @@
-lar[66110]=`<b>(ὁ)</b> Mitrobatès, <i>Perse,</i> HDT. <i>3, 120, 126, 127</i> ; XÉN. <i>Hell. 1, 3, 12</i>.`

@@ -1,1 +1,0 @@
-lar[58335]=`<b>κυαν·αῦλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰκ]</font> aux mottes sombres <i>ou</i> noires, POÈT. (HLD. <i>2, 26).</i><p><b>Étym</b>. κ. αὖλαξ.`

@@ -1,1 +1,0 @@
-lar[51736]=`<b>ας (ἡ)</b> Kardia (<i>auj</i>. Kardiya, près de Bolayır) <i>v. de la Chersonèse de Thrace,</i> HDT. <i>6, 33, etc.</i> ; XÉN. <i>Hell. 1, 1, 11, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c. etc</i>.`

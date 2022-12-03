@@ -1,1 +1,0 @@
-lar[54400]=`<b>καψ·ιδρώτιον, ου (τὸ)</b> mouchoir pour la sueur, COM. (POLL. <i>3, 71).</i><p><b>Étym</b>. κάπτω, ἱδρώς.`

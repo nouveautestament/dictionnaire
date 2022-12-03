@@ -1,1 +1,0 @@
-lar[49438]=`<b>ας (ἡ)</b> action d’élever des chevaux, PD. <i>I. 2, 55</i> ; THC. <i>6, 12 ; particul. pour faire courir, comme faisaient les riches Athéniens,</i> XÉN. <i>Œc. 2, 6</i> ; PLAT. <i>Lys. 205c ;</i> ARSTT. <i>Pol. 6, 7, 1</i>.<p><b>Étym</b>. ἱπποτρόφος.`

@@ -1,1 +1,0 @@
-lar[38567]=`<b>ἐπι·ξεναγία, ας (ἡ)</b> <font color="purple">[ᾱγ]</font> corps de 4 ξεναγίαι (2 048 hommes), brigade, ARR. <i>Tact. 16, 3</i>.`

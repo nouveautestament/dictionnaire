@@ -1,1 +1,0 @@
-lar[42720]=`<b>Εὔ·μολπος, ου (ὁ)</b> Eumolpos :<br><b>      1</b> <i>Thrace qui institua les mystères d’Éleusis,</i> HH. <i>Cer. 154, 475</i> ; THC. <i>2, 15</i> ; PLAT. <i>Menex. 239b, etc.</i><br><b>      2</b> <i>autres,</i> THCR. <i>Idyl. 24, 109 ; etc</i>.<p><b>Étym</b>. <i>v</i>. εὔμολπος.`

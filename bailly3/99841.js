@@ -1,1 +1,0 @@
-lar[99841]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> friandises de dessert, régal, ARSTT. (ATH. <i>647e</i>).<p><b>Étym</b>. τραγηματίζω.`

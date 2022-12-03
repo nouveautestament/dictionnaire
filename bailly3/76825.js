@@ -1,1 +1,0 @@
-lar[76825]=`<b>παρ·ευτρεπίζω :<br>      1</b> bien ordonner, rendre facile, EUR. <i>I.T. 725</i>.<br><b>      2</b> <i>au pass</i>. être préparé, EUR. <i>Cycl. 594</i>.<br><b><i>Moy.</i></b> bien ordonner, rendre facile, POL. <i>5, 108, 4</i>.`

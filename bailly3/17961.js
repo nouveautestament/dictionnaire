@@ -1,1 +1,0 @@
-lar[17961]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> abstinence, ARÉT. <i>Cur. m. diut. 1, 2</i>.<p><b>Étym</b>. ἀπέχομαι.`

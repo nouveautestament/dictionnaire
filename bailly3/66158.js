@@ -1,1 +1,0 @@
-lar[66158]=`<b>(ὁ)</b> Mnaskirès, <i>roi des Parthes,</i> LUC. <i>Macr. 16</i>.`

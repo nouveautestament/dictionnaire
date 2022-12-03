@@ -1,1 +1,0 @@
-lar[23833]=`<b>ίδος (ὁ)</b> <i>seul. plur</i>. gâteau d’orge, NICOPH. (ATH. <i>645c</i>).`

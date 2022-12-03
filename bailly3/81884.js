@@ -1,1 +1,0 @@
-lar[81884]=`<b>πολυ·επής, ής, ές</b>, qui parle beaucoup, ESCHL. <i>Ag. 1134</i>.<p><b>Étym</b>. π. ἔπος.`

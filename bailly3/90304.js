@@ -1,1 +1,0 @@
-lar[90304]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Silvanus, <i>c</i>. Αἰγίπαν, ARIST. MIL. (PLUT. <i>Parall. min. 22</i>).`

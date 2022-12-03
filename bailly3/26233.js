@@ -1,1 +1,0 @@
-lar[26233]=`<font color="purple">[ῐτ]</font> <i>vb. de</i> διέξειμι, PLAT. <i>Epin. 974d ;</i> ARSTT. <i>Rhet. Al. 3, 170</i>.`

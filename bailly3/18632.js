@@ -1,1 +1,0 @@
-lar[18632]=`<b>εος-ους (τὸ) :<br>      1</b> attache d’un membre, articulation, OD. <i>4, 794 ; 18, 189</i>.<br><b>      2</b> jointure, nœud (d’un lien) OPP. <i>H. 3, 538</i>.<p><b>Étym</b>. ἅπτω¹.`

@@ -1,1 +1,0 @@
-lar[40517]=`<b>ἐρι·σφάραγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> au bruit retentissant, HH. <i>Merc. 187</i> ; PD. (EUST. <i>Op. p. 56, 13 ; Od. p. 1636, 9</i>) ; PLUT. <i>M. 698e</i>.`

@@ -1,1 +1,0 @@
-lar[47549]=`<font color="purple">[ᾱ]</font> <font color="darkgreen">(<i>f. moy. au sens pass</i>. θρανεύσομαι)</font> étendre sur un chevalet de tanneur, AR. <i>Eq. 369</i>.<p><b>Étym</b>. θρᾶνος.`

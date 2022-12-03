@@ -1,1 +1,0 @@
-lar[98444]=`<b>*τεσσαρακοντα·και·πεντακισ·χιλιοστός, ή, όν</b>, <i>att</i>. <b>τεττ-</b> <font color="purple">[ᾰᾰᾰᾰχῑ]</font> le quarante-cinq millième, PLAT. <i>Leg. 877c</i>.`

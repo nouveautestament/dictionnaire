@@ -1,1 +1,0 @@
-lar[71872]=`<b>ή, όν</b> <font color="purple">[ῐτ]</font><br><b>      1</b> qui concerne l’interprétation des songes ; τὰ ὀ. traité de l’interprétation des songes, <i>ouvrage d’Artémidore</i>.<br><b>      2</b> propre à l’interprétation des songes, PLUT. <i>Arist. 27</i>.<p><b>Étym</b>. ὀνειροκρίτης.`

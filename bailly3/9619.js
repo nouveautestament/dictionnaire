@@ -1,1 +1,0 @@
-lar[9619]=`<b>ἀντ·εξέρχομαι</b>, marcher contre, XÉN. <i>Hell. 7, 2, 12</i>.`

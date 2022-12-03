@@ -1,1 +1,0 @@
-lar[76517]=`<b>ου (τὸ)</b> sorte d’animal inconnu, <i>p.-ê</i>. girafe, ARSTT. <i>H.A. 2, 1, 20 ; cf</i>. ἱππάρδιον.`

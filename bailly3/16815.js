@@ -1,1 +1,0 @@
-lar[16815]=`<font color="purple">[ῑ]</font> <i>vb. de</i> ἀτιμάω, ISOCR. <i>Antid. 175</i>.<p><b>Étym</b>. <i>conj</i>. ἀτιμωτέον.`

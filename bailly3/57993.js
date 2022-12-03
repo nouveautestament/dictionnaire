@@ -1,1 +1,0 @@
-lar[57993]=`<i>adv</i>., du dème Kriôa, AR. <i>Av. 545</i>.`

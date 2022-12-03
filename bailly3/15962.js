@@ -1,1 +1,0 @@
-lar[15962]=`<b>ἀ·σκότιστος, ος, ον</b>, dégagé de l’obscurité, clair, NYSS.<p><b>Étym</b>. ἀ, σκοτίζω.`

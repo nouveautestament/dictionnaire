@@ -1,1 +1,0 @@
-lar[73719]=`<b>ατος (τὸ)</b> délimitation, <i>d’où</i> frontière, HDT. <i>2, 17 ; 4, 45</i>.<p><b>Étym</b>. <i>ion. c</i>. ὄρισμα.`

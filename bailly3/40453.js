@@ -1,1 +1,0 @@
-lar[40453]=`<b>ή, όν</b>, égrugé ; τὰ ἐρικτά, HPC. <i>642, 13</i> ; SPT. <i>Lev. 2, 14,</i> pain d’orge égrugée.<p><b>Étym</b>. <i>cf</i>. ἐρεικτός.`

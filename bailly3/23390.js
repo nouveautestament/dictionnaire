@@ -1,1 +1,0 @@
-lar[23390]=`<b>οῦντος (ἡ)</b> Daphnunte, <i>lieu près de Klazomènes, en Ionie,</i> THC. <i>8, 23, 31</i>.<p><b>Étym</b>. <i>p</i>. *δαφνόεις, όεντος, couvert de lauriers, <i>de</i> δάφνη.`

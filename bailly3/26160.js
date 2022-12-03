@@ -1,1 +1,0 @@
-lar[26160]=`<b>εως (ἡ) :<br>      1</b> action de s’enfoncer à travers, PLUT. <i>M. 659d.</i><br><b>      2</b> charge <i>ou</i> exercice de cavalerie, XÉN. <i>Hipp. 3, 4</i>.<p><b>Étym</b>. διελαύνω.`

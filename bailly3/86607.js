@@ -1,1 +1,0 @@
-lar[86607]=`<b>προσ·φθονέω-ῶ</b>, être en outre jaloux, envier en outre, PLUT. <i>Cam. 36, Alex. 33</i>.`

@@ -1,1 +1,0 @@
-lar[36135]=`<b>εως (ἡ) :<br>      1</b> assimilation, TH. <i>C.P. 4, 3, 1</i>.<br><b>      2</b> action de devenir semblable, PLUT. <i>Per. 2</i>.`

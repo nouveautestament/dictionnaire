@@ -1,1 +1,0 @@
-lar[59454]=`<b>ου (τὸ)</b> <i>sorte de plante,</i> GAL. <i>14, 72</i>.`

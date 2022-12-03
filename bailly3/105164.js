@@ -1,1 +1,0 @@
-lar[105164]=`<b>ων (τὰ)</b> fête en l’honneur de Perséphonè, PLUT. <i>Luc. 10</i>.<p><b>Étym</b>. <i>cf</i>. Φερρέφαττα.`

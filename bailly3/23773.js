@@ -1,1 +1,0 @@
-lar[23773]=`<b>δελε·άρπαξ, αγος (ὁ, ἡ)</b> <font color="purple">[ᾰγ]</font> qui saisit avidement l’appât, ANTH. <i>7, 504</i>.<p><b>Étym</b>. δέλεαρ, ἁρπάζω.`

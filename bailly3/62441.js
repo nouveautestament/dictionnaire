@@ -1,1 +1,0 @@
-lar[62441]=`<font color="purple">[ᾰ]</font> comme les Macédoniens, ARR. <i>An. 7, 12, 3</i> ; PLUT. <i>Cleom. 23</i> ; ATH. <i>560f</i>.`

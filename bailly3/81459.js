@@ -1,1 +1,0 @@
-lar[81459]=`<b>ῆρος</b>, <i>adj. m</i>. qui punit, vengeur, OPP. <i>H. 2, 421</i>.<p><b>Étym</b>. ποινάω.`

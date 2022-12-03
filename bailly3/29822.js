@@ -1,1 +1,0 @@
-lar[29822]=`<b>ἐγ·κώμιος, ος, ον</b>, qui se chante pour une fête <i>ou</i> un triomphe, PD. <i>N. 1, 7 ; O. 2, 52 ; P. 10, 53, etc</i>.<p><b>Étym</b>. ἐν, κῶμος.`

@@ -1,1 +1,0 @@
-lar[106324]=`<b>ός, όν</b>, mauvais artisan, SOPH. <i>Ph. 35</i>.<p><b>Étym</b>. φλαῦρος, ἔργον.`

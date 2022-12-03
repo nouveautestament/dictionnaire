@@ -1,1 +1,0 @@
-lar[21367]=`<b>ατος (τὸ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> éclat, brillant, PLUT. <i>M. 48c, 50a, etc.</i><br><b>      2</b> <i>fig</i>. joie, PHIL. <i>1, 335, 26 ; 628, 13</i>.<p><b>Étym</b>. γανόω.`

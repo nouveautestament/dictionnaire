@@ -1,1 +1,0 @@
-lar[22870]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de creuser une fosse circulaire pour une plantation, AQU. <i>Esai. 19, 17</i> ; GEOP. <i>2, 46, 4</i>.<p><b>Étym</b>. γυρόω.`

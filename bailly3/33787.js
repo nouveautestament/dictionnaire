@@ -1,1 +1,0 @@
-lar[33787]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> poursuite judiciaire, citation devant un tribunal, LIB. <i>4, 1127</i>.<p><b>Étym</b>. ἐνάγω.`

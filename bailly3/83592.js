@@ -1,1 +1,0 @@
-lar[83592]=`<b>προ·αναχαλάω-ῶ</b> <font color="purple">[χᾰ]</font> relâcher auparavant, ORIB. <i>332 Matthäi</i>.`

@@ -1,1 +1,0 @@
-lar[39834]=`<b>ἐπ·ολολύζω</b>, pousser un cri de joie (<i>litt</i>. un hurlement) AR. <i>Eq. 616</i> ; τινί, ESCHL. <i>Sept. 825,</i> en l’honneur de qqn ; τι, ESCHL. <i>Ch. 942,</i> en l’honneur de qqe ch.<br><b><i>Moy.</i></b> <i>m. sign</i>. ESCHL. <i>Ag. 1236</i>.`

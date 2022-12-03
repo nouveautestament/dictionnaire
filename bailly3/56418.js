@@ -1,1 +1,0 @@
-lar[56418]=`<b>κοιλιο·δαίμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui fait un dieu de son ventre, EUP. (ATH. <i>100b</i>) ; ATH. <i>97c ;</i> CLÉM. <i>174</i>.<p><b>Étym</b>. κοιλία, δαίμων.`

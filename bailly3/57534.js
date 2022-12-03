@@ -1,1 +1,0 @@
-lar[57534]=`<b>ης (ἡ) :<br>      1</b> chou, BATR. <i>163</i>.<br><b>      2</b> toute plante semblable au chou, EUDÈME ATH. (ATH. <i>369d</i>).<br><b>      3</b> <i>c</i>. ῥάφανος, ARSTT. <i>H.A. 5, 19, 5</i> ; ATH. <i>34d</i>.`

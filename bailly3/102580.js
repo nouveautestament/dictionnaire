@@ -1,1 +1,0 @@
-lar[102580]=`<b>ὑπερ·καίω</b>, enflammer <i>ou</i> brûler outre mesure, PHILSTR. <i>Gymn. p. 20 Kays. ; au pass</i>. A. APHR. <i>Probl. 2, 74 ; fig</i>. être enflammé (d’amour, <i>etc</i>.) RHÉT. <i>1, 519 W</i>.`

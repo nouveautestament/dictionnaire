@@ -1,1 +1,0 @@
-lar[45976]=`<i>adv</i>., de manière à réjouir, SEXT. <i>M. 10, 225</i>.`

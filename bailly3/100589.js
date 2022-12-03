@@ -1,1 +1,0 @@
-lar[100589]=`<b>τριφορέω-ῶ</b> <font color="purple">[ῐ]</font> donner trois récoltes par an, TH. <i>C.P. 2, 9, 13</i>.<p><b>Étym</b>. τριφόρος.`

@@ -1,1 +1,0 @@
-lar[106164]=`<b>φιλο·τώθαστος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à blâmer, à critiquer, HPC. <i>Ep. 1285</i>.<p><b>Étym</b>. φ. τωθάζω.`

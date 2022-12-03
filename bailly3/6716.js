@@ -1,1 +1,0 @@
-lar[6716]=`<b>ἀνα·διπλασιάζω</b>, redoubler (une lettre, une syllabe) THÉOD. <i>1012, 19</i>.`

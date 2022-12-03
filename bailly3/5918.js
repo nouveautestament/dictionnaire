@@ -1,1 +1,0 @@
-lar[5918]=`<b>έων (οἱ)</b> habitants d’Amyclées, XÉN. <i>Hell. 4, 5, 12</i>.<p><b>Étym</b>. Ἀμύκλαι.`

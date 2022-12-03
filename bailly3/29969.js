@@ -1,1 +1,0 @@
-lar[29969]=`<b>ος, ον</b>, propre à amonceler de la terre, à combler de terre, APP. <i>Civ. 5, 36</i>.<p><b>Étym</b>. ἐγχώννυμι.`

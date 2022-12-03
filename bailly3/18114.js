@@ -1,1 +1,0 @@
-lar[18114]=`<b>ἀ·φιλόσοφος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui n’a pas de goût pour la philosophie, PLAT. <i>Soph. 259e.</i><br><b>      2</b> <i>en parl. de choses,</i> qui ne convient pas à un philosophe <i>ou</i> pour l’étude de la philosophie, PLAT. <i>Phædr. 256b ; Tim. 73a</i>.`

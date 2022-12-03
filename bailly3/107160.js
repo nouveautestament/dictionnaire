@@ -1,1 +1,0 @@
-lar[107160]=`<b>φυλλο·σινής, ής, ές</b> <font color="purple">[ῐ]</font> qui endommage les feuilles, NIC. (ATH. <i>683f</i>).<p><b>Étym</b>. φ. σίνομαι.`

@@ -1,1 +1,0 @@
-lar[101979]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> rencontre, APP. <i>Civ. 4, 6</i>.<br><b>      2</b> opposition, SEXT. <i>M. 2, 278</i>.<p><b>Étym</b>. ὑπαντάω.`

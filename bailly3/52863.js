@@ -1,1 +1,0 @@
-lar[52863]=`<b>κατ·αμπέχω :<br>      1</b> envelopper, ANTIPH. <i>fr. 1 Kock</i>.<br><b>      2</b> couvrir, PLUT. <i>Crass. 11</i>.`

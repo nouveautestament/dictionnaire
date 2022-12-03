@@ -1,1 +1,0 @@
-lar[82979]=`<b>ιδος</b> <font color="purple">[ᾰῑδ]</font> <i>v</i>. ποταμηΐς.`

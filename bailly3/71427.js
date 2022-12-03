@@ -1,1 +1,0 @@
-lar[71427]=`<b>ὀμματο·λαμπής, ής, ές</b> <font color="purple">[ᾰ]</font> dont les yeux brillent, SYN. <i>Hymn. 3, 272</i>.<p><b>Étym</b>. ὄμμα, λάμπω.`

@@ -1,1 +1,0 @@
-lar[22868]=`<b>ης (ἡ)</b> Gyrtônè (<i>auj</i>. Ambelákia) <i>v. de Thessalie,</i> IL. <i>2, 738</i> ; STR. <i>443, etc</i>.<p><b>Étym</b>. <i>Cf</i>. Γυρτών.`

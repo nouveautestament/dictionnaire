@@ -1,1 +1,0 @@
-lar[22429]=`<b>γονατόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> former des nœuds (comme le roseau, <i>etc</i>.) TH. <i>H.P. 8, 2, 4</i> ; DIOSC. <i>3, 58</i>.<p><b>Étym</b>. γονατ- <i>rad. de</i> γόνυ.`

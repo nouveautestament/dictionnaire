@@ -1,1 +1,0 @@
-lar[80515]=`(<i>seul. impf</i>. ἔπιτνον) étendre : ἔπιτνον ἀλωήν, <i>ou, sel. d’autres,</i> ἀλωῇ (<i>s.-e</i>. στάχυας) HÉS. <i>Sc. 291 dout</i>. ils jonchaient l’aire d’épis <i>ou</i> ils répandaient les épis dans l’aire.<p><b>Étym</b>. πίτνημι.`

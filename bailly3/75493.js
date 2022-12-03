@@ -1,1 +1,0 @@
-lar[75493]=`<b>ης, ες</b> <font color="purple">[μᾰ]</font> qui peut servir d’exemple, ARSTT. <i>Rhet. 1, 2, 10</i>.<p><b>Étym</b>. παράδειγμα, -ωδης.`

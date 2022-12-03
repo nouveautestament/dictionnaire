@@ -1,1 +1,0 @@
-lar[16790]=`<i>adv</i>., avec négligence : ἀ. ἔχειν, XÉN. <i>Cyr. 8, 1, 15,</i> n’avoir aucun soin de, <i>gén</i>.`

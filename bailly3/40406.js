@@ -1,1 +1,0 @@
-lar[40406]=`<b>ἐρι·γάστωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> très gourmand, vorace (<i>litt</i>. au ventre puissant) NIC. <i>Al. 344</i>.<p><b>Étym</b>. ἐρι-, γαστήρ.`

@@ -1,1 +1,0 @@
-lar[54873]=`<b>κερατο·ποιέω-ῶ</b>, rendre aussi dur que la corne, CHRYS. <i>2, 32b</i>.<p><b>Étym</b>. κέρας, ποιέω.`

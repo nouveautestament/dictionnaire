@@ -1,1 +1,0 @@
-lar[27119]=`<b>δι·υφίημι</b> <font color="purple">[ῠ]</font> laisser aller, PHIL. <i>2, 319</i>.<p><b>Étym</b>. <i>part. pf. pass</i>. διυφειμένα.`

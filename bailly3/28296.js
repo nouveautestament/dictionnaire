@@ -1,1 +1,0 @@
-lar[28296]=`<b>δυσ·διάκριτος, ος, ον</b> <font color="purple">[ρῐ]</font><br><b>      1</b> difficile à discerner, à distinguer, CLYTUS (ATH. <i>655e</i>) ; STR. <i>628, etc.</i> ; PLUT. <i>M. 617d.</i><br><b>      2</b> difficile à passer au crible, XÉNOCR. <i>Al. 9</i>.<p><b>Étym</b>. δ. διακρίνω.`

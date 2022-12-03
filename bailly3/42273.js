@@ -1,1 +1,0 @@
-lar[42273]=`<i>vb. de</i> εὐθύνω, JAMBL. <i>Nicom. ar. 34d</i>.`

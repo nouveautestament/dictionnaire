@@ -1,1 +1,0 @@
-lar[108287]=`<i>gén. et dat. duel de</i> χείρ.`

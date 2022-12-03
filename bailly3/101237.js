@@ -1,1 +1,0 @@
-lar[101237]=`<i>dor. p</i>. τοῦ, <i>gén. masc. et neutre de</i> ὁ, ἡ, τό.`

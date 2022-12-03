@@ -1,1 +1,0 @@
-lar[15605]=`<b>ἀρχι·ζώγραφος, ου (ὁ)</b> <font color="purple">[ᾰφ]</font> maître-peintre, EUST. <i>Op. 307, 23</i>.`

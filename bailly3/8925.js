@@ -1,1 +1,0 @@
-lar[8925]=`<i>adv.</i> :<br><b>      1</b> par les moyens humains, THC. <i>5, 103</i>.<br><b>      2</b> comme il convient à un homme, AR. <i>Ran. 1058</i>.`

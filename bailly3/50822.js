@@ -1,1 +1,0 @@
-lar[50822]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> malfaisance, <i>d’où</i> méfait, ARSTT. <i>Rhet. Al. 16, 6 ; au pl</i>. ISOCR. <i>7c, 257e</i>.<p><b>Étym</b>. κακοποιός.`

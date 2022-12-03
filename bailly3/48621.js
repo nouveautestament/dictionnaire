@@ -1,1 +1,0 @@
-lar[48621]=`<b>ἱερ·όπτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui examine les entrailles des victimes, aruspice, DC. <i>52, 36 ; 64, 5</i>.<p><b>Étym</b>. ἱ. ὄψομαι.`

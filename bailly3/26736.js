@@ -1,1 +1,0 @@
-lar[26736]=`<b>οῦ (ὁ)</b> dispersion des habitants d’une ville, DH. <i>6, 81</i> ; PLUT. <i>Cam. 9</i>.<p><b>Étym</b>. διοικίζω.`

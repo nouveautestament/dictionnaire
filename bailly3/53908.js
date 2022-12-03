@@ -1,1 +1,0 @@
-lar[53908]=`<b>κατ·επίθυμος, ος, ον</b> <font color="purple">[ῡ]</font> possédé d’un désir, SPT. <i>Judith 12, 16</i>.<p><b>Étym</b>. κ. ἐπιθυμέω.`

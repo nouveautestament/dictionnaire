@@ -1,1 +1,0 @@
-lar[30333]=`représenter, figurer, PLUT. <i>M. 882d</i>.<p><b>Étym</b>. εἰκών.`

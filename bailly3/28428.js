@@ -1,1 +1,0 @@
-lar[28428]=`<b>δυσ·επίμικτος, ος, ον</b> <font color="purple">[ῠπῐ]</font> avec qui l’on se mêle difficilement, insociable, STR. <i>155</i> ; PLUT. <i>M. 917c, etc</i>.<p><b>Étym</b>. δ. ἐπιμίγνυμι.`

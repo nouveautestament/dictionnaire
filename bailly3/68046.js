@@ -1,1 +1,0 @@
-lar[68046]=`<b>νεκυη·πόλος, ος, ον</b>, qui prend soin des morts, MAN. <i>1, 330</i>.<p><b>Étym</b>. νέκυς, πολέω.`

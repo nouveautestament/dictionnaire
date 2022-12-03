@@ -1,1 +1,0 @@
-lar[59363]=`<b>υος (ἡ)</b> <i>mot carien et lydien,</i> hache, PLUT. <i>M. 302a</i>.`

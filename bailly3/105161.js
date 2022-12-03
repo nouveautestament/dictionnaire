@@ -1,1 +1,0 @@
-lar[105161]=`porter en pompe (<i>litt</i>. sur un brancard) PLUT. <i>Marc. 8</i>.<p><b>Étym</b>. φέρετρον.`

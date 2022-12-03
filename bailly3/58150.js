@@ -1,1 +1,0 @@
-lar[58150]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> glacé, HPC. <i>364, 29</i> ; DP. <i>780</i> ; ANTH. <i>9, 561</i>.<p>•<i> Cp</i>. -έστερος, THÉAGÈS <i>p. 694</i>.<p><b>Étym</b>. κρυμός, -ωδης.`

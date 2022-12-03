@@ -1,1 +1,0 @@
-lar[80935]=`<i>dat. sg. ou nom. pl. de</i> πλέως.`

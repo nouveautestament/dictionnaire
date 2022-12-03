@@ -1,1 +1,0 @@
-lar[55082]=`<b>ῆς (ἡ)</b> Képhalè, <i>dème attique de la tribu Akamantide,</i> HARP.`

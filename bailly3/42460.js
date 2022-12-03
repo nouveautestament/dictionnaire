@@ -1,1 +1,0 @@
-lar[42460]=`<b>Εὔ·κνισος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Bonne-graisse, <i>n. de parasite,</i> ALCIPHR. <i>3, 52</i>.<p><b>Étym</b>. εὖ, κνῖσα.`

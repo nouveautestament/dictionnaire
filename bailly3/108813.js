@@ -1,1 +1,0 @@
-lar[108813]=`<b>χορο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ῐκᾰ]</font> directeur des chœurs, <i>celui qui préside aux exercices et répétitions, soin que prenaient parfois les auteurs dramatiques eux-mêmes,</i> AR. <i>Eccl. 809</i> ; PLAT. <i>Leg. 655a, 812e ;</i> DÉM. <i>520, 8</i> ; ARSTT. <i>Pol. 3, 9</i>.<p><b>Étym</b>. χορός, δ.`

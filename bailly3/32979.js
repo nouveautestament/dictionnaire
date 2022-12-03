@@ -1,1 +1,0 @@
-lar[32979]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> Ellopia :<br><b>      1</b> <i>contrée autour de Dodone,</i> HÉS. <i>fr. 39, 1 Gaisford</i>.<br><b>      2</b> <i>contrée d’Eubée,</i> HDT. <i>8, 23</i>.`

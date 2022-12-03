@@ -1,1 +1,0 @@
-lar[87734]=`<b>πυόω-ῶ</b> <font color="purple">[ῡ]</font> faire venir à suppuration, ARSTT. <i>Respir. 20, 3</i>.<p><b>Étym</b>. πῦον.`

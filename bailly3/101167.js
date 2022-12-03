@@ -1,1 +1,0 @@
-lar[101167]=`<b>ου (ὁ)</b> Tyrtæos (Tyrtée) <i>poète élégiaque,</i> PLAT. <i>Leg. 667a, 858e, etc</i>.`

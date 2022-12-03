@@ -1,1 +1,0 @@
-lar[6160]=`<b>ἀμφι·θέω</b> (<i>seul. prés. non contracte</i>) :<br><b>      1</b> courir autour de, <i>acc</i>. OD. <i>10, 413</i>.<br><b>      2</b> <i>fig</i>. s’agiter dans, <i>dat</i>. MOSCH. <i>2, 207</i>.`

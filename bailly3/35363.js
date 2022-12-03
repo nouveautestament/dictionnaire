@@ -1,1 +1,0 @@
-lar[35363]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> six centième, SPT. <i>Gen. 7, 11 ; 8, 13</i>.<p><b>Étym</b>. ἑξακόσιοι.`

@@ -1,1 +1,0 @@
-lar[75806]=`<b>παρα·κροτέω-ῶ :<br>      1</b> frapper doucement avec la main : εἰς τὸν ὦμον, LUC. <i>Gymn. 1,</i> sur l’épaule.<br><b>      2</b> encourager par des applaudissements, JOS. <i>B.J. 1, 19, 5, etc</i>.`

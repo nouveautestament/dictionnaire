@@ -1,1 +1,0 @@
-lar[55571]=`<b>ας (ἡ)</b> Kirrha (Cirrha) <i>v. de Phocide, ainsi appelée d’une nymphe de ce nom,</i> PD. <i>P. 3, 134 ; 10, 24</i> ; PLUT. <i>Lyc. 31, etc</i>.<p>➳ <i>Dat. sg</i>. Κίρρῃ, PLUT. <i>Qu. gr. 13</i>.`

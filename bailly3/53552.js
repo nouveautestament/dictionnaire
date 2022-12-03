@@ -1,1 +1,0 @@
-lar[53552]=`<b>κατατεχνέω-ῶ</b>, fabriquer avec art, confectionner, <i>acc</i>. PHIL. <i>1, 608</i>.<p><b>Étym</b>. κατάτεχνος.`

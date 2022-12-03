@@ -1,1 +1,0 @@
-lar[76675]=`<b>ῆς (ἡ)</b> action d’entremêler, insertion, AGATHARCH. (PHOT. <i>Bibl. 449, 25).</i><p><b>Étym</b>. παρεμπλέκω.`

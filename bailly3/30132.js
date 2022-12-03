@@ -1,1 +1,0 @@
-lar[30132]=`(<i>seul. prés</i>.) :<br><b>      1</b> peigner, <i>fig</i>. ratisser, sarcler, IL. <i>21, 347 (3 sg. sbj</i>. ἐθείρῃ).<br><b>      2</b> <i>au pass</i>. être chevelu, <i>fig</i>. ORPH. <i>Arg. 932 (3 sg. ind. pass</i>. -εται).<p><b>Étym</b>. <i>inconnue</i>.`

@@ -1,1 +1,0 @@
-lar[75791]=`<b>παρα·κόσμως</b>, <i>adv</i>., contre le bon ordre <i>ou</i> la décence, JOS. <i>A.J. 1, 6, 3</i>.<p><b>Étym</b>. π. κόσμος.`

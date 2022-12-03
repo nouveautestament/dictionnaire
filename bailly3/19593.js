@@ -1,1 +1,0 @@
-lar[19593]=`<b>ῆς (ἡ)</b> = <i>lat</i>. betonica <i>ou</i> vettonica (<i>grec</i> κέστρον <i>ou</i> ψυχότροφον), DIOSC. <i>4, 1</i> ; GAL. <i>6, 148f ; 13, 189d</i>.`

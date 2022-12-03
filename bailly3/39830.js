@@ -1,1 +1,0 @@
-lar[39830]=`<b>ἐπ·οκτω·και·δέκατος, η, ον</b> <font color="purple">[ᾰ]</font> qui contient un entier plus ¹⁄₁₈<sup>e</sup>, THÉON SM. <i>87, 3</i>.`

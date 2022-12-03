@@ -1,1 +1,0 @@
-lar[64713]=`<b>μετα·δόρπιος, ος, ον</b>, qui agit <i>ou</i> se fait après le repas du soir, OD. <i>4, 194</i> ; ANTH. <i>12, 250</i> ; τὰ μεταδόρπια, PLAT. <i>Criti. 115b</i>, le repas du soir.`

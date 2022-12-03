@@ -1,1 +1,0 @@
-lar[84162]=`<b>προ·εννοέω-οῶ</b>, concevoir <i>ou</i> imaginer auparavant, PLUT. <i>M. 1072a ;</i> ARTÉM. <i>1, 3</i>.`

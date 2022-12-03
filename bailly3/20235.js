@@ -1,1 +1,0 @@
-lar[20235]=`<b>ΐδος</b>, <i>adj. f</i>. du nord, septentrional, <i>c</i>. βορεῆτις, NONN. <i>D. 33, 211</i>.<p><b>Étym</b>. βορέας.`

@@ -1,1 +1,0 @@
-lar[31902]=`<b>ἐκ·ποκίζω</b>, <i>f</i>. ιῶ, arracher les cheveux (<i>litt</i>. la toison) AR. <i>Th. 567</i>.<p><b>Étym</b>. ἐκ, πόκος.`

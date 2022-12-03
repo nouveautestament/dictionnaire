@@ -1,1 +1,0 @@
-lar[25471]=`<b>δια·ρροθέω-ῶ</b> (<i>seul. ao</i>.) inspirer par ses murmures <i>ou</i> ses clameurs, <i>acc</i>. ESCHL. <i>Sept. 192</i>.`

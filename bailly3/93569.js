@@ -1,1 +1,0 @@
-lar[93569]=`<b>συγκυνηγέω-ῶ</b> <font color="purple">[κῠ]</font> chasser ensemble, ARSTT. <i>Nic. 9, 12, 2</i> ; DS. <i>4, 34</i>.<p><b>Étym</b>. συγκυνηγός.`

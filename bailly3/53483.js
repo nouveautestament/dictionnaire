@@ -1,1 +1,0 @@
-lar[53483]=`<b>κατα·στρεβλόω-ῶ</b>, mettre à la torture, PLUT. <i>Artax. 19 ; au pass</i>. PLUT. <i>M. 105b</i>.`

@@ -1,1 +1,0 @@
-lar[1727]=`<b>ης (ἡ) :<br>      1</b> tempête de vent, ouragan, IL. <i>2, 293, etc.</i> ; OD. <i>5, 292, etc.</i><br><b>      2</b> mouvement impétueux, EUR. <i>Bacch. 873, etc</i>.<p>➳ <i>Ion. et épq</i>. ἀέλλη, IL. <i>13, 795, etc</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *h₂uel-, <i>cf</i>. ἄημι.`

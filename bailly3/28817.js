@@ -1,1 +1,0 @@
-lar[28817]=`<b>δύσ·πλανος, ος, ον</b> <font color="purple">[ᾰ]</font> qui erre misérablement, ESCHL. <i>Pr. 608, 900</i>.<p><b>Étym</b>. δ. πλάνη.`

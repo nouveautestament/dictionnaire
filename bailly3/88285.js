@@ -1,1 +1,0 @@
-lar[88285]=`<b>ῥαπατ·αύλης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> joueur de chalumeau, AMÉR. (ATH. <i>176d, conj. p</i>. ῥαπαύλης).<p><b>Étym</b>. ῥαπατή, chalumeau, HSCH., αὐλέω.`

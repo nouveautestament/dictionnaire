@@ -1,1 +1,0 @@
-lar[77258]=`<b>ου (ὁ)</b> <font color="purple">[ᾰλ]</font> <i>c</i>. κεγχραλέτης, GAL. <i>Lex. Hipp. 19, 128</i>.`

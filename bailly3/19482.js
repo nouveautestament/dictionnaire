@@ -1,1 +1,0 @@
-lar[19482]=`<b>βεκκε·σέληνος, ου (ὁ, ἡ)</b> primitif, <i>d’où</i> simple, niais, AR. <i>Nub. 398</i> ; PLUT. <i>M. 881a</i>.<p><b>Étym</b>. <i>inconnue</i> ; -σέληνος = σελήνη.`

@@ -1,1 +1,0 @@
-lar[56563]=`<b>κοκκό·δαφνον, ου (τὸ)</b> baie du laurier, ORNEOSOPH. I <i>p. 533, 19</i>.<p><b>Étym</b>. κόκκος, δάφνη.`

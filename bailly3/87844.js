@@ -1,1 +1,0 @@
-lar[87844]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾱ]</font> étuve, lieu chauffé pour provoquer la sueur, EUP. <i>2-1, 473 Meineke</i> ; ARSTT. <i>Probl. 2, 11, 29 et 32 ; particul</i>. partie d’un gymnase, PLUT. <i>Cim. 1</i>.<p>➳ <i>Ion</i>. πυριητήριον, HPC.<p><b>Étym</b>. πυριάω.`

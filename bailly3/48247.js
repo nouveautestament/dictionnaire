@@ -1,1 +1,0 @@
-lar[48247]=`<font color="purple">[ᾱο]</font> <i>mauv. prononc. du mot</i> Ἰᾶον, <i>voc. de</i> Ἰάων, AR. <i>Ach. 104</i>.`

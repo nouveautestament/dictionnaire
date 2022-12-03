@@ -1,1 +1,0 @@
-lar[57705]=`<b>ου (ὁ)</b> le fils de Kreiôn, IL. <i>19, 240</i>.<p><b>Étym</b>. <i>patr. de</i> Κρείων.`

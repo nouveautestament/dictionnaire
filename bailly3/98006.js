@@ -1,1 +1,0 @@
-lar[98006]=`<b>*τειχεσι·πλήτης (ὁ)</b> <i>seul. voc</i>. τειχεσιπλῆτα, qui s’approche des murailles pour les saper, destructeur de remparts, <i>ép. d’Arès,</i> IL. <i>5, 31, 455</i>.<p><b>Étym</b>. τεῖχος, πελάω.`

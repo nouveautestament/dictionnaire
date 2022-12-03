@@ -1,1 +1,0 @@
-lar[22451]=`<b>ή, όν</b>, sujet à des pertes séminales, AÉT. <i>16, 26</i> ; RUF. <i>134</i> ; P. ÉG. <i>3, 111 ; etc</i>.<p><b>Étym</b>. <i>v</i>. γονόρροια.`

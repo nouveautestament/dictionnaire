@@ -1,1 +1,0 @@
-lar[74285]=`<b>παιδο·κόμος, ος, ον</b>, qui prend soin des enfants, NONN. <i>D. 5, 378</i>.<p><b>Étym</b>. π. κομέω.`

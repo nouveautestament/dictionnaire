@@ -1,1 +1,0 @@
-lar[42692]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Eumèlidès, <i>h</i>. DÉM. <i>1187, 21</i>.<p><b>Étym</b>. εὔμηλος.`

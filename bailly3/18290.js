@@ -1,1 +1,0 @@
-lar[18290]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> retour à la santé, guérison, JAMBL. <i>V. Pyth. 64</i>.<p><b>Étym</b>. ἀφυγιάζω.`

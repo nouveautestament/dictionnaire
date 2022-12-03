@@ -1,1 +1,0 @@
-lar[27685]=`<i>vb. de</i> δουλεύω, EUR. <i>Bacch. 366, Ph. 398, H.f. 1357</i> ; ISOCR. <i>190b</i>.`

@@ -1,1 +1,0 @@
-lar[105144]=`<b>φερέ·οικος, ος, ον</b>, qui porte sa maison <i>ou</i> sa tente avec soi, nomade, HDT. <i>4, 46 ; subst</i>. ὁ φ. HÉS. <i>O. 569,</i> l’animal qui porte sa maison, le limaçon.<p><b>Étym</b>. φ. οἶκος ; <i>cf</i>. φέροικος.`

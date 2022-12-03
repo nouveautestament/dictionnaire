@@ -1,1 +1,0 @@
-lar[54978]=`<b>ης (ἡ)</b> sorte de cigale, AR. (<i>Com. fr. 3, 961).</i><p>➳ <i>Acc. dor</i>. -ώπαν, EL. <i>N.A. 10, 44</i>.<p><b>Étym</b>. κέρκος.`

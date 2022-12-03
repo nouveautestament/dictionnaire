@@ -1,1 +1,0 @@
-lar[455]=`<b>α (ὁ)</b> <font color="purple">[ᾰᾱᾱ]</font> Agéladas, <i>h</i>. A. PL. <i>4, 220</i>.`

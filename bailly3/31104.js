@@ -1,1 +1,0 @@
-lar[31104]=`<b>ἐκβοήθεια, ας (ἡ)</b> sortie pour porter secours, THC. <i>3, 18 ; au plur</i>. ARSTT. <i>Pol. 7, 5</i>.`

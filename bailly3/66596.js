@@ -1,1 +1,0 @@
-lar[66596]=`<b>μονο·πάθεια, ας (ἡ)</b> <font color="purple">[πᾰ]</font> affection qui n’atteint qu’une partie du corps, qu’un membre, A. APHR. <i>Probl. 1, 143</i>.<p><b>Étym</b>. μ. πάθος.`

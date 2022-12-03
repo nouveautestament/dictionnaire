@@ -1,1 +1,0 @@
-lar[107562]=`<b>χαλιν·αγωγός, οῦ (ὁ)</b> <font color="purple">[ᾰῑᾰ]</font> qui dirige avec le frein, CHRYS.<p><b>Étym</b>. χαλινός, ἄγω.`

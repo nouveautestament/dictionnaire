@@ -1,1 +1,0 @@
-lar[25527]=`<b>δια·σκανδικίζω</b> <font color="purple">[ῑκ]</font><br><b>      1</b> manger du cerfeuil, TÉLÉCL. (ATH. <i>56d</i>).<br><b>      2</b> vendre du cerfeuil, <i>p. allus. à Euripide, fils d’une marchande de légumes,</i> AR. <i>Eq. 19</i>.<p><b>Étym</b>. διά, σκάνδιξ.`

@@ -1,1 +1,0 @@
-lar[36053]=`<b>ἐξ·ογκέω-ῶ</b>, faire saillie hors de, <i>gén</i>. HPC. <i>Art. 787</i>.<p><b>Étym</b>. ἐξ, ὄγκος.`

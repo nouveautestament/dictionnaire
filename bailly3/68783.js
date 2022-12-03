@@ -1,1 +1,0 @@
-lar[68783]=`<b>νικο·ποιός, οῦ (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui produit la victoire, <i>d’où</i> vainqueur, AQU. <i>Ps. 4, 1</i>.<p><b>Étym</b>. νίκη, ποιέω.`

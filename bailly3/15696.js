@@ -1,1 +1,0 @@
-lar[15696]=`<b>ιδος</b> <font color="purple">[ᾰᾰῑῐδ]</font> <i>adj. f</i>. aromatique, STR. <i>294</i>.<p><b>Étym</b>. <i>v</i>. ἀρωματίτης.`

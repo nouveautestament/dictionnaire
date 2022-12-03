@@ -1,1 +1,0 @@
-lar[92440]=`<b>ή, όν</b>, digne d’être aimé, SOPH. <i>O.R. 1338</i>.<p><b>Étym</b>. <i>vb. de</i> στέργω.`

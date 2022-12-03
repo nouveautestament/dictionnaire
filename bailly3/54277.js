@@ -1,1 +1,0 @@
-lar[54277]=`<b>καυκῖνος οἶνος (ὁ)</b> sorte de vin d’Étolie, ATH. <i>27b</i>.`

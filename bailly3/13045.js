@@ -1,1 +1,0 @@
-lar[13045]=`<b>ἀπο·πεμπτόω-ῶ</b>, prélever le cinquième de, <i>acc</i>. SPT. <i>Gen. 41, 34 ; 47, 26, etc</i>.<p><b>Étym</b>. ἀπό, πέμπτος.`

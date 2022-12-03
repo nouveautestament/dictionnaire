@@ -1,1 +1,0 @@
-lar[101074]=`<b>τυπο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> qui reproduit une figure, un type, SIB. <i>3, 589</i>.<p><b>Étym</b>. τύπος, εἶδος.`

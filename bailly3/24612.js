@@ -1,1 +1,0 @@
-lar[24612]=`<b>δια·ζηλοτυπέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) être rival <i>ou</i> jaloux : πρός τινα, POL. <i>fr. 61</i> ; τινι, ATH. <i>588e</i>, de qqn.`

@@ -1,1 +1,0 @@
-lar[90442]=`<b>(ὁ)</b> Siris (<i>auj</i>. Sinni) <i>fl. de la Grande-Grèce,</i> ARCHIL. <i>21</i> ; PLUT. <i>Pyrrh. 76, etc</i>.`

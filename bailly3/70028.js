@@ -1,1 +1,0 @@
-lar[70028]=`<b>άδος (ἡ)</b> groupe de huit, huitaine, PLUT. <i>Thes. 36, M. 744b</i>.<p><b>Étym</b>. ὄγδοος.`

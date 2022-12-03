@@ -1,1 +1,0 @@
-lar[3923]=`<b>ῆς (ἡ) :<br>      1</b> farine de blé <i>ou</i> d’orge, IL. <i>13, 322, etc.</i> ; OD. <i>2, 355</i> ; EUR. <i>Hipp. 138</i>.<br><b>      2</b> le blé lui-même, HÉS. <i>Sc. 290 ; O. 32, 464, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

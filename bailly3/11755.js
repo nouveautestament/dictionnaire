@@ -1,1 +1,0 @@
-lar[11755]=`<font color="purple">[ᾰφ]</font> <i>adv</i>., sans être circonscrit, d’une manière indéfinie, PHIL. <i>1, 47, etc</i>.`

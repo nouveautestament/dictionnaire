@@ -1,1 +1,0 @@
-lar[62217]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> lieu où l’on pratique la magie, THÉM. <i>70b</i>.<p><b>Étym</b>. μαγγανεύω.`

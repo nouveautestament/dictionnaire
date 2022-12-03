@@ -1,1 +1,0 @@
-lar[24763]=`<b>δια·κερτομέω-ῶ</b>, déchirer par des railleries, DC. <i>43, 20</i>.`

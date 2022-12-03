@@ -1,1 +1,0 @@
-lar[16036]=`<b>ου (ὁ)</b> Aspétos, <i>nom d’Achille en Épire,</i> PLUT. <i>Pyrrh. 1</i>.`

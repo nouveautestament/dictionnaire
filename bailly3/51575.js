@@ -1,1 +1,0 @@
-lar[51575]=`<b>ου (τὸ)</b> = <i>lat</i>. Canusium (<i>auj</i>. Canosa) <i>v. d’Apulie,</i> PLUT. <i>Marc. 25, etc</i>.`

@@ -1,1 +1,0 @@
-lar[98876]=`<b>ου (τὸ)</b> art <i>ou</i> talent médiocre, PLAT. <i>Rsp. 475e ;</i> DÉMOCR. (CLÉM. <i>328).</i><p><b>Étym</b>. <i>dim. de</i> τέχνη.`

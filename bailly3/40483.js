@@ -1,1 +1,0 @@
-lar[40483]=`<b>ἐριο·πλύτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> laveur de laine, DIOSC. <i>2, 193</i>.<p><b>Étym</b>. ἔ. πλύνω.`

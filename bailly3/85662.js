@@ -1,1 +1,0 @@
-lar[85662]=`<b>προσ·επιγίγνομαι</b>, naître <i>ou</i> se produire en outre, survenir, HPC. <i>454, 15</i> ; POL. <i>4, 45, 10</i>.`

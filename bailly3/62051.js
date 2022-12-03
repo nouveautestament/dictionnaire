@@ -1,1 +1,0 @@
-lar[62051]=`<b>λυσί·πονος, ος, ον</b> <font color="purple">[ῡῐ]</font><br><b>      1</b> qui se relâche dans son travail, <i>en parl. de serviteurs,</i> PD. <i>P. 4, 41</i>.<br><b>      2</b> qui délivre des chagrins <i>ou</i> des soucis (mort, sommeil, <i>etc</i>.) POÈT. (PLUT. <i>M. 120d</i>) ; ANTH. <i>12, 127</i> ; NONN. <i>D. 27, 1</i>.<p><b>Étym</b>. λύω, πόνος.`

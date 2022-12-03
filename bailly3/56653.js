@@ -1,1 +1,0 @@
-lar[56653]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font><br><b>   I</b> <i>t. de méd.</i> :<br><b>      1</b> collyre, emplâtre, DIOSC.<br><b>      2</b> onguent pour les maux d’yeux, ARR. <i>Epict. 2, 21, 20, etc.</i><br><b>   II</b> pâte pour cacheter les lettres, LUC. <i>Alex. 21</i>.<p><b>Étym</b>. <i>dim. de</i> κολλύρα ; <i>cf</i>. κολλούριον.`

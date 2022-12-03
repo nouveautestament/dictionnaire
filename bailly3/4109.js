@@ -1,1 +1,0 @@
-lar[4109]=`<b>ἀ·λατόμητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> non taillé, <i>en parl. de pierres,</i> CLÉM. <i>452</i>.`

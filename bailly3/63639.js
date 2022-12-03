@@ -1,1 +1,0 @@
-lar[63639]=`<b>έων (οἱ)</b> les habitants de Méthydrion, XÉN. <i>An. 4, 1, 27, etc</i>.<p><b>Étym</b>. <i>v</i>. Μεθύδριον.`

@@ -1,1 +1,0 @@
-lar[15051]=`<b>ου (ὁ)</b> <font color="purple">[πᾰ]</font> Harpalos :<br><b>      1</b> <i>gouverneur de Babylone,</i> DÉM. <i>669, 10</i> ; PLUT. <i>Alex. 8, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Æmil. 15, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἁρπαλέος.`

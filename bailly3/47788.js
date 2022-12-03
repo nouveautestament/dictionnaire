@@ -1,1 +1,0 @@
-lar[47788]=`<b>εως (ἡ) :<br>      1</b> action de briser, ARSTT. <i>Gen. et corr. 1, 2, 20</i>.<br><b>      2</b> <i>fig</i>. action d’énerver, <i>d’où</i> mollesse, vie molle et efféminée, XÉN. <i>Cyr. 8, 8, 16</i> ; PLUT. <i>Lyc. 14</i> ; EL. <i>N.A. 5, 11 ; 6, 19, etc</i>.<p><b>Étym</b>. θρύπτω.`

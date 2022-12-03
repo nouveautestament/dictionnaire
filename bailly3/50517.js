@@ -1,1 +1,0 @@
-lar[50517]=`<b>καθ·υστερίζω</b> <font color="purple">[ᾰ]</font> <i>c</i>. καθυστερέω GEOP. <i>2, 13</i> ; SOPH. <i>O.C. arg</i>.`

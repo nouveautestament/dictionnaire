@@ -1,1 +1,0 @@
-lar[30273]=`<b>ου (τὸ)</b> temple d’idoles, SPT. <i>1Macc. 1, 47, etc.</i> ; NT. <i>1Cor. 8, 10</i>.<p><b>Étym</b>. εἴδωλον.`

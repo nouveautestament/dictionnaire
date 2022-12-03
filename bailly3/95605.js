@@ -1,1 +1,0 @@
-lar[95605]=`examiner en même temps, ANTIPAT. (STOB. <i>Fl. 67, 25</i>) ; GAL. <i>8, 320</i>.`

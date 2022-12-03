@@ -1,1 +1,0 @@
-lar[100729]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> τροφαλίς ALEX. (ATH. <i>516e</i>).`

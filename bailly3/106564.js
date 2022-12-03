@@ -1,1 +1,0 @@
-lar[106564]=`<b>φοινικο·είμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῑ]</font> au vêtement écarlate, EPICH. (ATH. <i>398d</i>).<p><b>Étym</b>. φ. εἷμα.`

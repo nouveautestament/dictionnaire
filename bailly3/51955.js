@@ -1,1 +1,0 @@
-lar[51955]=`<b>ή, όν</b>, coupé, rogné, tondu : κ. κρόμμυον, GAL. <i>Meth. 10, 815,</i> poireau, <i>légume, cf</i>. καρτόν.<p><b>Étym</b>. <i>vb. de</i> κείρω.`

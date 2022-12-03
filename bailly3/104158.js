@@ -1,1 +1,0 @@
-lar[104158]=`<b>ῆς (ἡ)</b> sorte de filet rond pour la pêche, OPP. <i>H. 3, 81</i> ; EL. <i>N.A. 13, 17</i> ; PLUT. <i>M. 977e</i>.<p><b>Étym</b>. ὑπέχω.`

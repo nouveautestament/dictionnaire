@@ -1,1 +1,0 @@
-lar[109973]=`<b>ψυχ·όλεθρος, ος, ον</b> <font color="purple">[ῡ]</font> qui perd l’âme <i>ou</i> les âmes, HDN GR. <i>Epim. p. 203 Boissonade</i>.<p><b>Étym</b>. ψ. ὄλεθρος.`

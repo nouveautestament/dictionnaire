@@ -1,1 +1,0 @@
-lar[36455]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰκ]</font> suite, conséquence, PLUT. <i>Nic. 4, M. 641d ;</i> CLÉM. <i>1, 717, 1064 ; 2, 320 Migne</i> ; SEXT. <i>197, 15 Bkk</i>.<p><b>Étym</b>. ἐπακολουθέω.`

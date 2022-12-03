@@ -1,1 +1,0 @@
-lar[105498]=`<b>φιλ·απλοϊκός, ή, όν</b> <font color="purple">[φῐ]</font> qui aime la simplicité, franc, loyal, LUC. <i>Pisc. 20</i>.`

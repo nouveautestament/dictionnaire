@@ -1,1 +1,0 @@
-lar[81981]=`<b>πολυ·κέφαλος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui a beaucoup de têtes, PLAT. <i>Rsp. 588c, etc.</i> ; ARSTT. <i>G.A. 4, 3, 33 ; en parl. d’une plante,</i> DIOSC. <i>2, 182</i> ; νόμος, PLUT. <i>M. 1133d</i>, sorte de rythme pour reproduire sur la flûte le sifflement des serpents de la Gorgone.<p><b>Étym</b>. π. κεφαλή.`

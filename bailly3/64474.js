@@ -1,1 +1,0 @@
-lar[64474]=`<b>μεσηγυ·δορπο·χέστης</b>, <i>seul</i>. <b>μεσσηγυ·δορπο·χέστης, ου (ὁ)</b> ignoble glouton, qui rend par en bas à mesure qu’il mange, HIPPON. <i>fr. 127</i>.<p><b>Étym</b>. μεσηγύ, δόρπον, χέζω.`

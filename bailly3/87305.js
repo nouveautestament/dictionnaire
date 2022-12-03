@@ -1,1 +1,0 @@
-lar[87305]=`<b>ης (ἡ)</b> Ptériè, <i>contrée et v. près de Sinope,</i> HDT. <i>1, 76</i>.`

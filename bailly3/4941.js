@@ -1,1 +1,0 @@
-lar[4941]=`<b>ἁλο·σύδνη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> fille de la mer, <i>ép. d’Amphitrite,</i> OD. <i>4, 404 ; de Thétis,</i> IL. <i>20, 207</i> ; ἁλοσύδναι, A.RH. <i>4, 1599</i> (les Néréides) filles de la mer.<p><b>Étym</b>. <i>p.-ê. indo-europ</i>. *seh₂-l-, sel <i>et</i> *ud-n-, eau, <i>litt</i>. « flot de la mer » ; <i>autrement pré-grec ; cf</i>. Ὑδατοσύδνη.`

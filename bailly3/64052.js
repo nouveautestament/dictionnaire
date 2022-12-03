@@ -1,1 +1,0 @@
-lar[64052]=`<b>(ὁ)</b> <i>barbarisme d’un Scythe, pour</i> μέλι, AR. <i>Th. 1192</i>.`

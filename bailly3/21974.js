@@ -1,1 +1,0 @@
-lar[21974]=`<b>*γη·τόμος</b>, <i>seul. dor</i>. <b>γατόμος, ος, ον</b> <font color="purple">[ᾱ]</font> qui fend la terre (pour le travail des champs), ESCHL. <i>fr. 184</i> ; ὁ γ. ANTH. <i>6, 95,</i> le cultivateur.<p><b>Étym</b>. γῆ, τέμνω.`

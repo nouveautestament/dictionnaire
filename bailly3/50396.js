@@ -1,1 +1,0 @@
-lar[50396]=`<b>καθ·ημερινός, ή, όν</b> <font color="purple">[ᾰ]</font> quotidien, journalier, PLUT. <i>M. 141b ;</i> SPT. <i>Judith 12, 15</i> ; NT. <i>Ap. 6, 1</i>.<p><b>Étym</b>. <i>cf</i>. καθημέριος.`

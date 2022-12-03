@@ -1,1 +1,0 @@
-lar[8857]=`<b>ἀνθο·βοσκός, ός, όν</b>, qui nourrit les fleurs, SOPH. <i>fr. 29</i>.<p><b>Étym</b>. ἄνθος, βόσκω.`

@@ -1,1 +1,0 @@
-lar[63577]=`<b>ή, όν</b>, qui peut participer à, <i>gén</i>. ARSTT. <i>Gen. et corr. 2, 9, 5</i>.<p><b>Étym</b>. μεθεκτός.`

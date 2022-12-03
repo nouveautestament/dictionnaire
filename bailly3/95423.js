@@ -1,1 +1,0 @@
-lar[95423]=`<b>συν·εκτοκίζω</b>, aider à enfanter, SYMM. <i>Esaï. 66, 9</i>.`

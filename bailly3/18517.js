@@ -1,1 +1,0 @@
-lar[18517]=`<b>ἀχρειό·γελως, ωτος (ὁ, ἡ)</b> qui rit sans motif, comme un sot, CRAT. (HÉPH. <i>15, 2).</i><p><b>Étym</b>. ἀχρεῖος, γελάω.`

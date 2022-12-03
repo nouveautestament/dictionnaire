@@ -1,1 +1,0 @@
-lar[48956]=`<b>ου (τὸ)</b> <font color="purple">[ῐμ]</font> <i>dim. de</i> ἱμάς, HPC. <i>Moschl. 868</i> ; ARÉT. <i>Caus. m. acut. 1, 8</i>.`

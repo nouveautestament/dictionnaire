@@ -1,1 +1,0 @@
-lar[39314]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> qu’on ajoute à un mot, explétif, <i>en parl. du pron</i>. αὐτός, <i>t. de gramm</i>. DYSC. <i>Pron. 306, 316, 339, 391, 407 ; Synt. 62, 21 ; 194, 8</i> ; ARC. <i>144, 7</i>.<p><b>Étym</b>. ἐπίταγμα.`

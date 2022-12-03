@@ -1,1 +1,0 @@
-lar[32344]=`<b>ἐκ·φράζω :<br>      1</b> expliquer tout au long, exposer en détail, ESCHL. <i>Pr. 950</i> ; EUR. <i>H.f. 1119 ; d’où</i> décrire, HERMOG. <i>Prog. 48</i>.<br><b>      2</b> désigner, PLUT. <i>M. 24a</i>.`

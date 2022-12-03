@@ -1,1 +1,0 @@
-lar[9298]=`<b>ἀν·οπαῖα</b>, <i>adv</i>., à perte de vue (<i>selon d’autres,</i> ἀν' ὀπαῖα, en haut par le trou du toit, de fumée), OD. <i>1, 320</i>.<p><b>Étym</b>. <i>hapax, dont le sens et l’accent. sont incert. ; p.-ê. mot grec récent, non d’origine indo-europ</i>.`

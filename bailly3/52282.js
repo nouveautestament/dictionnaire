@@ -1,1 +1,0 @@
-lar[52282]=`<b>κατα·δαμάζω</b> <font color="purple">[δᾰ]</font> dompter entièrement, fatiguer, épuiser, DC. <i>50, 10</i> ; SPT. <i>Jud. 14, 18</i> ; NYSS. <i>2, 183</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. THC. <i>7, 81</i>.`

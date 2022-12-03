@@ -1,1 +1,0 @@
-lar[103854]=`<b>ὑπο·σπαθισμός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> incision avec le scalpel pour enlever la peau du crâne, GAL. <i>2, 395</i> ; P. ÉG. <i>6, 6</i>.<p><b>Étym</b>. *ὑποσπαθίζω, <i>de</i> ὑ. *σπαθίζω, <i>de</i> σπάθη, <i>de</i> σπάω.`

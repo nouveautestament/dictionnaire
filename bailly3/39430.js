@@ -1,1 +1,0 @@
-lar[39430]=`<b>ή, όν</b> <font color="purple">[τῑμ]</font><br><b>      1</b> qui blâme, PLAT. <i>Def. 416 fin</i>.<br><b>      2</b> enclin à blâmer, LUC. <i>J. tr. 23</i>.<p>•<i> Sup</i>. -ώτατος, CLÉM. <i>p. 296</i>.<p><b>Étym</b>. ἐπιτιμάω.`

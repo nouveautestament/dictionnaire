@@ -1,1 +1,0 @@
-lar[62207]=`<font color="purple">[ᾰᾰ]</font><br><b>      1</b> jouer de la μάγαδις, THÉOPHILE COM. (ATH. <i>635a</i>).<br><b>      2</b> accompagner à l’octave, <i>t. de mus</i>. ARSTT. <i>Probl. 19, 18</i>.<p><b>Étym</b>. μάγαδις.`

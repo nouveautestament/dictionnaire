@@ -1,1 +1,0 @@
-lar[6301]=`<b>ἀμφι·περι·σκαίρω</b> (<i>prés. part</i>.) sauter tout autour, OPP. <i>H. 1, 1, 190</i>.`

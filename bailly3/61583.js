@@ -1,1 +1,0 @@
-lar[61583]=`<b>ή, όν</b>, injurieux, ARSTT. <i>Eud. 2, 3</i> ; JAMBL. <i>V. Pyth. 171, p. 145</i>.<p><b>Étym</b>. λοιδορέω.`

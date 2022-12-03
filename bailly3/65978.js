@@ -1,1 +1,0 @@
-lar[65978]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font><br><b>      1</b> avidité, AR. <i>Pl. 989</i>.<br><b>      2</b> <i>p. ext</i>. avarice, AR. <i>Av. 1620</i>.<p><b>Étym</b>. μισητός.`

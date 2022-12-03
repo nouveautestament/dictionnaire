@@ -1,1 +1,0 @@
-lar[101311]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la fabrication du verre : ἡ ὑαλουργική (<i>s.-e</i>. τέχνη) GEOP. <i>20, 7,</i> l’art de fabriquer le verre.<p><b>Étym</b>. ὑαλουργός.`

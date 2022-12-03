@@ -1,1 +1,0 @@
-lar[14389]=`<b>(τὰ) :<br>      1</b> <i>v. des Rutules, dans le Latium</i>, STR. 5.228, 232, 249, St.Byz.<br><b>      2</b> <i>v. de Perse au SW de Persépolis</i>, PTOL. 6.4.5, Amm.Marc. 23.6.`

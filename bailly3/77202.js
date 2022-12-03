@@ -1,1 +1,0 @@
-lar[77202]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. παρωνυμία JAMBL. (NICOM. <i>Arithm. p. 65).</i><p><b>Étym</b>. παρωνυμέω.`

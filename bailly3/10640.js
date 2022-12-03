@@ -1,1 +1,0 @@
-lar[10640]=`<b>ἀντ·οικτίρω</b>, déplorer <i>ou</i> plaindre en retour, EUR. <i>Ion 312</i>.`

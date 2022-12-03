@@ -1,1 +1,0 @@
-lar[50522]=`<b>καθ·ύω</b> <font color="purple">[ᾰ]</font> tremper de pluie, E. BYZ. <i>p. 646, 15 Mein</i>.`

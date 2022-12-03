@@ -1,1 +1,0 @@
-lar[61483]=`<b>ου (τὸ) :<br>      1</b> partie de la scène où se tenaient les acteurs pour parler, PLUT. <i>Thes. 16</i>.<br><b>      2</b> tribunal, SYN. <i>p. 78</i>.<br><b>      3</b> pectoral du grand-prêtre juif, SPT. <i>Ex. 28, 15, 23 ; Lev. 8, 8, etc</i>.<p><b>Étym</b>. λόγος.`

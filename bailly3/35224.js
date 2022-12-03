@@ -1,1 +1,0 @@
-lar[35224]=`<b>ἐν·ωραΐζομαι</b>, <i>f</i>. ΐσομαι <font color="purple">[ρᾰ]</font><br><b>      1</b> faire le beau devant, chercher à plaire à, <i>dat</i>. LUC. <i>Am. 9</i>.<br><b>      2</b> faire parade de, <i>dat</i>. NYSS. <i>1, 890</i>.`

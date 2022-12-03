@@ -1,1 +1,0 @@
-lar[38619]=`<b>ἐπί·παππος, ου (ὁ)</b> arrière-grand-père, CHRYS. <i>7, 14 ; 10, 174 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[38574]=`<b>ἐπί·ξηνον, ου (τὸ)</b> table de cuisine, ESCHL. <i>Ag. 1277 ; cf</i>. AR. <i>Ach. 318, etc</i>.<p><b>Étym</b>. ἐπί, ξέω.`

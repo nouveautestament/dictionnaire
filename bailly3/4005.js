@@ -1,1 +1,0 @@
-lar[4005]=`<b>ἀ·κωμῳδήτως</b>, <i>adv</i>., sans être raillé sur la scène, LUC. <i>V.H. 1, 2</i>.<p><b>Étym</b>. ἀ, κωμῳδέω.`

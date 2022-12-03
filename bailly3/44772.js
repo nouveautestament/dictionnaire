@@ -1,1 +1,0 @@
-lar[44772]=`<b>ας (ἡ)</b> enfantement d’êtres vivants, ARSTT. <i>G.A. 3, 3, 9</i>.<p><b>Étym</b>. ζωοτόκος.`

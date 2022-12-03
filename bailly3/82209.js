@@ -1,1 +1,0 @@
-lar[82209]=`<b>πολύ·οχλος, ος, ον :<br>      1</b> très peuplé, POL. <i>3, 49, 5</i>.<br><b>      2</b> très nombreux, ARSTT. <i>Pol. 4, 4, 21</i>.<p><b>Étym</b>. π. ὄχλος.`

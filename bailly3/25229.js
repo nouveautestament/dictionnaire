@@ -1,1 +1,0 @@
-lar[25229]=`<b>εως (ἡ)</b> transmission, THÉMISTOCLE <i>Ep. 16</i>.<p><b>Étym</b>. διαπέμπω.`

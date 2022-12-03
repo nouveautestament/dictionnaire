@@ -1,1 +1,0 @@
-lar[35577]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρ]</font> fracture, GAL. <i>Lex. Hipp. 19, 98</i>.<p><b>Étym</b>. ἐξαράσσω.`

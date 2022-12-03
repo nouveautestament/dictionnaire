@@ -1,1 +1,0 @@
-lar[13454]=`<b>ή, όν</b>, apostolique, BAS. <i>2, 120, etc</i>.<p><b>Étym</b>. ἀπόστολος.`

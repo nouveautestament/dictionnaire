@@ -1,1 +1,0 @@
-lar[49750]=`<b>ἰσοσυλλαβέω-ῶ</b> <font color="purple">[ῑ̆ᾰ]</font> avoir un même nombre de syllabes, DYSC. <i>Pron. 272, 274 Bkk</i>.<p><b>Étym</b>. ἰσοσύλλαβος.`

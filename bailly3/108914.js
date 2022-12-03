@@ -1,1 +1,0 @@
-lar[108914]=`<b>ωνος (ὁ)</b> Khrémôn, <i>l’un des trente tyrans, à Athènes,</i> XÉN. <i>Hell. 2, 3, 2</i> ; LYS. <i>30, 12, 14 Baiter-Sauppe</i>.`

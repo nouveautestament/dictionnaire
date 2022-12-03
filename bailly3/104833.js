@@ -1,1 +1,0 @@
-lar[104833]=`<b>ητος (ἡ)</b> <font color="purple">[ᾱ]</font> clarté, éclat, ARSTD. <i>1, 7</i>.<p><b>Étym</b>. φανός¹.`

@@ -1,1 +1,0 @@
-lar[76392]=`<b>παρ·αφανίζω</b> <font color="purple">[ᾰφ]</font> abolir, supprimer, détruire, NYSS.`

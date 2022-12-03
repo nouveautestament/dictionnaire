@@ -1,1 +1,0 @@
-lar[94758]=`<b>ῆς (ἡ) :<br>      1</b> retour simultané <i>ou</i> avec qqn, HIÉROCL. <i>p. 58, 18 Arnim</i>.<br><b>      2</b> relations, commerce, fréquentation, DS. <i>3, 18 ; 4, 4</i> ; ARR. <i>Epict. 1, 9, 5, etc</i>.<p><b>Étym</b>. συναναστρέφω.`

@@ -1,1 +1,0 @@
-lar[44603]=`<b>ζοφο·δορπίδας, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui se cache pour faire un maigre souper, ALC. (DL. <i>7, 81).</i><p><b>Étym</b>. ζόφος, δόρπον.`

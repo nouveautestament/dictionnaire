@@ -1,1 +1,0 @@
-lar[20868]=`<b>βροτο·λοιγός, ός, όν</b>, funeste aux mortels, <i>ép. d’Arès,</i> IL. <i>5, 31, etc.</i> ; OD. <i>8, 115</i> ; ESCHL. <i>Suppl. 665 ; d’Éros,</i> ANTH. <i>5, 180 ; 12, 37, etc</i>.<p><b>Étym</b>. βρ. λοιγός.`

@@ -1,1 +1,0 @@
-lar[104534]=`<b>ὑψί·πυλος, ος, ον</b> <font color="purple">[ῐῠ]</font> aux portes élevées, IL. <i>6, 416 ; 16, 698</i> ; EUR. <i>H.f. 1030, etc</i>.<p><b>Étym</b>. ὕ. πύλη.`

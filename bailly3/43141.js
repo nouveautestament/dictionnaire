@@ -1,1 +1,0 @@
-lar[43141]=`<b>εὔ·πτορθος, ος, ον</b>, aux belles <i>ou</i> nombreuses branches, A. PL. <i>4, 96</i>.<p><b>Étym</b>. εὖ, πτόρθος.`

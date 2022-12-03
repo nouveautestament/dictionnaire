@@ -1,1 +1,0 @@
-lar[64291]=`<b>ου</b>, <i>adj. m</i>. de Mendè, DÉM. <i>35, 120 et 35 Baiter-Sauppe</i> ; οἱ Μενδαῖοι, THC. <i>4, 7, etc.</i> ; ARSTT. <i>Œc. 2, etc</i>. les habitants de Mendè.<p><b>Étym</b>. Μένδη.`

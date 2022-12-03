@@ -1,1 +1,0 @@
-lar[65906]=`(<i>seul. prés</i>.) <font color="purple">[ῐῡ]</font> <i>c</i>. μινυρίζω, ESCHL. <i>Ag. 16</i> ; AR. <i>Eccl. 880 ; en parl. du rossignol,</i> SOPH. <i>O.C. 671</i>.<p>➳ <i>Impf. 2 sg. poét</i>. μινύρεο, CALL. <i>L. Pall. 119</i>.`

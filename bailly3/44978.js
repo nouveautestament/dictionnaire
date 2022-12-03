@@ -1,1 +1,0 @@
-lar[44978]=`<b>ἡδυ·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, à l’humeur (<i>propr</i>. à l’esprit) agréable, XÉN. <i>Conv. 8, 30</i>.<p><b>Étym</b>. ἡ. γνώμη.`

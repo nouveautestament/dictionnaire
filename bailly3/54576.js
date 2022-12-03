@@ -1,1 +1,0 @@
-lar[54576]=`<b>ας (ἡ)</b> Kékryphaleia, <i>petite î. du golfe Saronique,</i> THC. <i>1, 105</i>.`

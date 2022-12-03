@@ -1,1 +1,0 @@
-lar[38464]=`<b>ος, ον :<br>      1</b> <i>pass</i>. digne de blâme, blâmable, regrettable, ESCHL. <i>Ag. 553, Ch. 830</i>.<br><b>      2</b> <i>act</i>. enclin à blâmer, <i>dat</i>. EUR. <i>Rhes. 327</i>.<p><b>Étym</b>. ἐπιμέμφομαι.`

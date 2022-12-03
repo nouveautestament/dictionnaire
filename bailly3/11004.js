@@ -1,1 +1,0 @@
-lar[11004]=`<b>ἀοιδιάω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ᾰοι]</font> chanter, OD. <i>5, 61 ; 10, 227</i>.<p><b>Étym</b>. ἀοιδός.`

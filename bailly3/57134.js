@@ -1,1 +1,0 @@
-lar[57134]=`<b>ου (τὸ)</b> boutique de barbier, CHARON (ATH. <i>520e</i>).<p><b>Étym</b>. κορσωτήρ.`

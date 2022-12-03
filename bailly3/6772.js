@@ -1,1 +1,0 @@
-lar[6772]=`<b>ἀνα·θάλπω</b>, réchauffer, ANACR. <i>34, 21</i> ; PLUT. <i>M. 600b, etc</i>.`

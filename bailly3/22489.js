@@ -1,1 +1,0 @@
-lar[22489]=`<b>Γοργό·νωτος ἀσπίς (ἡ)</b> bouclier avec une tête de Gorgone sur le dos, AR. <i>Ach. 1124</i>.<p><b>Étym</b>. Γοργώ, νῶτος.`

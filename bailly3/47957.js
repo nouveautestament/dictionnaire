@@ -1,1 +1,0 @@
-lar[47957]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> mouvement de colère, colère, ESCHL. <i>Eum. 860 au plur</i>.<p><b>Étym</b>. θυμόω.`

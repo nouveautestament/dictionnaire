@@ -1,1 +1,0 @@
-lar[67803]=`<b>ναυσι·πέρατος, ος, ον</b> <font color="purple">[ῐᾱ]</font> traversé par des navires, ARSTT. <i>Meteor. 1, 13</i> ; DH. <i>3, 44</i>.<p>➳ <i>Ion</i>. νηυσιπέρητος, HDT. <i>1, 189, 193 ; 5, 52</i>.<p><b>Étym</b>. ν. πέρατος.`

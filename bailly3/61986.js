@@ -1,1 +1,0 @@
-lar[61986]=`<b>λυρο·εργός, ός, όν</b> <font color="purple">[ῠ]</font> qui joue de la lyre, ORPH. <i>Arg. 7</i>.<p><b>Étym</b>. λύρα, ἔργον.`

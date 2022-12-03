@@ -1,1 +1,0 @@
-lar[61059]=`<b>λιθό·κολλα, ας (ἡ)</b> <font color="purple">[ῐ]</font> ciment, DIOSC. <i>5, 164</i>.<p><b>Étym</b>. λ. κόλλα.`

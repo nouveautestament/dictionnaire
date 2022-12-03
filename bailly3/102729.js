@@ -1,1 +1,0 @@
-lar[102729]=`<b>ου (ὁ)</b> Hypérokhos, <i>historien originaire de Kymes,</i> PLUT. <i>Qu. gr. 13</i>.<p><b>Étym</b>. <i>v</i>. ὑπέροχος.`

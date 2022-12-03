@@ -1,1 +1,0 @@
-lar[87820]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui sert à faire du feu, à allumer du feu, TH. <i>H.P. 5, 1, 12</i>.<br><b>      2</b> qui se fait au moyen du feu : ἡ πυρευτική (<i>s.-e</i>. τέχνη <i>ou</i> ἄγρα) PLAT. <i>Soph. 220d</i>, pêche au falot.<p><b>Étym</b>. πυρεύω.`

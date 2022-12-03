@@ -1,1 +1,0 @@
-lar[80757]=`<b>Πλατύ·λαιμος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Large-gosier, <i>n. de parasite,</i> ALCIPHR. <i>1, 23</i>.<p><b>Étym</b>. πλ. λαιμός.`

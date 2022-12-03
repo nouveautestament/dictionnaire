@@ -1,1 +1,0 @@
-lar[55290]=`<b>ός, όν</b>, qui entraîne à la mort, LYC. <i>407</i>.<p><b>Étym</b>. κήρ, ἕλκω.`

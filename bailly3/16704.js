@@ -1,1 +1,0 @@
-lar[16704]=`<b>ἀτασθαλέω-ῶ</b> <font color="purple">[ᾰθᾰ]</font> <i>c</i>. ἀτασθάλλω, NONN. <i>Jo. 9, 16</i>.`

@@ -1,1 +1,0 @@
-lar[89425]=`<b>ή, όν :<br>      1</b> de chair, ARSTT. <i>H.A. 10, 2, 7</i>.<br><b>      2</b> qui concerne la chair, charnel, NT. <i>Rom. 7, 14, etc.</i> ; CLÉM. <i>1, 288 Migne</i>.<br><b>      3</b> adonné à la chair, charnel, ANTH. <i>1, 107</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. σάρξ.`

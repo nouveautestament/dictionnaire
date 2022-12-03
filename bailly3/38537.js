@@ -1,1 +1,0 @@
-lar[38537]=`<b>ή, όν</b>, propre à imaginer, inventif, LGN <i>4</i> ; ATH. <i>310f</i>.<p><b>Étym</b>. ἐπινοέω.`

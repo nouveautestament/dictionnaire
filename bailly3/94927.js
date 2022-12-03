@@ -1,1 +1,0 @@
-lar[94927]=`<b>συν·αποτρέπω</b>, détourner ensemble <i>ou</i> en même temps, SOCR. <i>Ep. p. 6 Orell</i>.`

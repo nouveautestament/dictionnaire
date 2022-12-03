@@ -1,1 +1,0 @@
-lar[87350]=`<b>πτερυγο·τόμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> instrument pour l’opération de la cataracte (<i>v</i>. πτερύγιον) P. ÉG. <i>6, 18</i>.<p><b>Étym</b>. πτέρυξ, τέμνω.`

@@ -1,1 +1,0 @@
-lar[56598]=`<b>ῆρος (ὁ)</b> ciseau pour entailler la pierre, PLUT. <i>M. 350d ;</i> LUC. <i>Somn. 13</i>.<p><b>Étym</b>. κολάπτω.`

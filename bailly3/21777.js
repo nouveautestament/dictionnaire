@@ -1,1 +1,0 @@
-lar[21777]=`<b>ιθος (ἡ)</b> <font color="purple">[ῑθ]</font> Gergis, <i>v. de Troade, près de Kymè,</i> XÉN. <i>Hell. 3, 1, 15 et 19</i>.`

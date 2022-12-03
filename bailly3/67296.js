@@ -1,1 +1,0 @@
-lar[67296]=`<b>ου (ὁ)</b> Myrmèkidès, <i>sculpteur,</i> EL. <i>V.H. 1, 17</i>.<p>➳ <i>Acc</i>. -η, PLUT. <i>M. 1083d</i>.<p><b>Étym</b>. <i>patr. de</i> Μύρμηξ.`

@@ -1,1 +1,0 @@
-lar[76070]=`<b>      1</b> tresser le long de, <i>particul</i>. tresser les cheveux le long de la tête : ἑαυτόν, PLUT. <i>M. 785e</i>, se faire des boucles.<br><b>      2</b> tisser avec, HPC. <i>345, 363 ; fig</i>. insérer dans, <i>en parl. de récits,</i> STR. <i>33, 43, etc. ; en gén</i>. PLUT. <i>M. 951d.</i><br><b><i>Moy.</i></b> se faire des boucles, EL. <i>N.A. 16, 11</i>.`

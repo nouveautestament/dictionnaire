@@ -1,1 +1,0 @@
-lar[52640]=`<b>οῦ (ὁ)</b> <i>au plur</i>. douche, SOR. <i>Obst. p. 226, 249, 255 éd. Erm</i>.<p><b>Étym</b>. κατακρουνίζω.`

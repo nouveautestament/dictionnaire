@@ -1,1 +1,0 @@
-lar[3789]=`<b>ἀκρο·κόρυμβος, ος, ον</b>, garni d’une touffe au sommet, Anon. <i>de vir. herb. 178</i>.`

@@ -1,1 +1,0 @@
-lar[41305]=`<b>ἑτερό·δοξος, ος, ον,<br>      1</b> qui pense autrement qu’un autre, <i>p. opp. à</i> ὁμόδοξος, LUC. <i>Eun. 2</i>.<br><b>      2</b> qui a une croyance autre qu’il ne convient, <i>càd</i>. fausse, ARR. <i>Epict. 2, 9, 19</i> ; JOS. <i>B.J. 2, 8, 5 ; d’où t. eccl</i>. hérétique, CLÉM. <i>1, 1176 ; 2, 457 Migne</i>.<p><b>Étym</b>. ἕ. δόξα.`

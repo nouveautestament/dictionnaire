@@ -1,1 +1,0 @@
-lar[9319]=`<b>ἀν·ορμίζω</b> <font color="darkgreen">(<i>ao</i>. ἀνώρμισα)</font> faire sortir du port, DC. <i>48, 48</i>.<br><b><i>Moy.</i></b> sortir du port, DC. <i>42, 7</i>.<p><b>Étym</b>. ἀνά, ὁ.`

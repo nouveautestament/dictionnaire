@@ -1,1 +1,0 @@
-lar[40166]=`<b>ἔρβουλος οἶνος (ὁ)</b> sorte de vin d’Italie (<i>p.-ê. helveolum vinum</i>, CAT. <i>R. R. c. 24, du lat</i>. helvus) ATH. <i>27c</i>.`

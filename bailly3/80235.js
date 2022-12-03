@@ -1,1 +1,0 @@
-lar[80235]=`<b>α, ον</b> <font color="purple">[ῐ]</font> de singe, GAL. <i>4, 98</i>.<p><b>Étym</b>. πίθηκος.`

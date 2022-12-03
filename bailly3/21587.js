@@ -1,1 +1,0 @@
-lar[21587]=`<b>ου (ὁ)</b> = <i>lat</i>. Gellius, <i>n. d’une famille samnite établie à Rome,</i> DH. <i>2, 72, etc.</i> ; PLUT. <i>Cic. 26, etc.</i> ; ANTH. <i>6, 86</i>.`

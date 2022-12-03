@@ -1,1 +1,0 @@
-lar[70543]=`<b>οἰνό·πεδος, ος, ον</b>, dont le sol est planté de vignes, OD. <i>1, 193 ; 11, 192</i> ; MOSCH. <i>4, 100</i>.<p><b>Étym</b>. οἶν. πέδον.`

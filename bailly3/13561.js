@@ -1,1 +1,0 @@
-lar[13561]=`<b>ατος (τὸ)</b> retranchement, ligne de défense, THC. <i>6, 99 ; 7, 79</i> ; XÉN. <i>Hell. 1, 3, 7</i>.<p><b>Étym</b>. ἀποτειχίζω.`

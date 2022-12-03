@@ -1,1 +1,0 @@
-lar[53877]=`<b>κατ·ενήνοθε</b>, <i>3 sg</i>. descendre sur, tomber sur, flotter sur, <i>acc</i>. HÉS. <i>Sc. 269</i> ; HH. <i>Cer. 208</i>.<p><b>Étym</b>. <i>cf</i>. ἐπενήνοθε <i>et</i> παρενήνοθε.`

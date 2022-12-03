@@ -1,1 +1,0 @@
-lar[617]=`pêcher à l’hameçon, <i>fig</i>. ARISTÉN. <i>1, 5</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PHIL. <i>2, 265, etc</i>.<p><b>Étym</b>. ἄγκιστρον.`

@@ -1,1 +1,0 @@
-lar[6467]=`<b>ων (οἱ)</b> <font color="purple">[ῡ]</font> les habitants d’Amphrysos, <i>v. de Phocide,</i> LYC. <i>900</i>.<p><b>Étym</b>. <i>v</i>. Ἄμφρυσος.`

@@ -1,1 +1,0 @@
-lar[43718]=`<b>εὐ·φιλόπαις, αιδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> cher aux enfants, ESCHL. <i>Ag. 721</i>.<p><b>Étym</b>. εὖ, φιλόπαις.`

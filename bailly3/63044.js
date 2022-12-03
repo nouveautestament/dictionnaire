@@ -1,1 +1,0 @@
-lar[63044]=`<b>ου</b>, <i>adj. m</i>. de Maskamès, HDT. <i>7, 106</i>.<p><b>Étym</b>. <i>v</i>. Μασκάμης.`

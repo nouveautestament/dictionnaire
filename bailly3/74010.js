@@ -1,1 +1,0 @@
-lar[74010]=`<b>ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font> instruction tardivement acquise, <i>d’où</i> demi-science, pédantisme, TH. <i>Char. 27</i> ; PLUT. <i>M. 334, 634c</i>.<p><b>Étym</b>. ὀψιμαθής.`

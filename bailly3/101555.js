@@ -1,1 +1,0 @@
-lar[101555]=`<b>ὑδρο·μαστευτική, ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art de découvrir des sources (<i>litt</i>. en tâtant le terrain) GEOP. <i>2, 6, 1</i>.<p><b>Étym</b>. ὕδ. μαστεύω.`

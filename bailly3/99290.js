@@ -1,1 +1,0 @@
-lar[99290]=`<i>tarent. c</i>. τίν, DYSC. <i>Pron. p. 365c</i>.`

@@ -1,1 +1,0 @@
-lar[98086]=`<b>τεκνο·φόρος</b>, <i>adj. f</i>. qui porte un enfant, grosse, J. DAMASC. <i>2, 854a</i>.<p><b>Étym</b>. τέκνον, φέρω.`

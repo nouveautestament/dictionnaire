@@ -1,1 +1,0 @@
-lar[109313]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> objet en or (ornement, vase, <i>etc</i>.) EUR. <i>Ion 1040, 1430</i> ; LYS. <i>fr. 50</i> ; POL. <i>31, 3, 16, etc</i>.<p><b>Étym</b>. χρυσόω.`

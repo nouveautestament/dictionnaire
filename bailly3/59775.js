@@ -1,1 +1,0 @@
-lar[59775]=`<b>(ὁ)</b> <font color="purple">[ᾱ]</font> <i>dor. c</i>. ληνός :<br><b>      1</b> pressoir, THCR. <i>Idyl. 14, 16 ; 25, 28</i>.<br><b>      2</b> vendange, THCR. <i>Idyl. 7, 25</i>.`

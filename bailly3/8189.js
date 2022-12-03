@@ -1,1 +1,0 @@
-lar[8189]=`<b>ἀν·εικόνιστος, ος, ον</b>, qu’on ne peut représenter par une image, CLÉM. <i>418</i>.<p><b>Étym</b>. ἀν-, εἰκονίζω.`

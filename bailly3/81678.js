@@ -1,1 +1,0 @@
-lar[81678]=`<b>πολυ·αής, ής, ές</b> <font color="purple">[ᾱ]</font> au souffle abondant, <i>càd</i>. puissant, Q. SM. <i>1, 253</i>.<p><b>Étym</b>. π. ἄημι.`

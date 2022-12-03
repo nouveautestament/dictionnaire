@@ -1,1 +1,0 @@
-lar[99103]=`<font color="purple">[ῐᾱ]</font> <i>adv</i>., d’une manière cultivée, polie, <i>p. suite,</i> avec douceur, PLAT. <i>Tim. 77a ;</i> ARSTT. <i>H.A. 9, 1, 11</i>.<p><b>Étym</b>. τιθασός.`

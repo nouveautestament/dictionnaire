@@ -1,1 +1,0 @@
-lar[54772]=`<i>adv</i>., à vide, PLUT. <i>M. 35e, etc</i>.<p><b>Étym</b>. κενός.`

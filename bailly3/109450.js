@@ -1,1 +1,0 @@
-lar[109450]=`mettre en place, placer, XÉN. <i>An. 6, 5, 11</i>.<p><b>Étym</b>. χώρα.`

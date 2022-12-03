@@ -1,1 +1,0 @@
-lar[89442]=`<b>σαρκο·κύων (ὁ)</b> chien qui dépèce de la chair, HIPPON. <i>fr. 133</i>.`

@@ -1,1 +1,0 @@
-lar[64444]=`<b>μεσ·άντιον, ου (τὸ)</b> ourdissoir, <i>partie d’un métier de tisserand,</i> SPT. <i>1Reg. 17, 7</i>.<p><b>Étym</b>. μέσος, ἀντίος.`

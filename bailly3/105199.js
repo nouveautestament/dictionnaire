@@ -1,1 +1,0 @@
-lar[105199]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec un nom significatif, ARSTT. <i>Mund. 6, 20</i> ; HÉRACLITE GRAMM. <i>All. Hom. 22</i>.`

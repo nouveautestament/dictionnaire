@@ -1,1 +1,0 @@
-lar[27386]=`<font color="purple">[κῐ]</font> <i>adv</i>., avec approbation, STOB. <i>Ecl. phys. 2, 204</i>.<p><b>Étym</b>. δοκιμάζω.`

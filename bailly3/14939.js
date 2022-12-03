@@ -1,1 +1,0 @@
-lar[14939]=`<b>ῶν (αἱ)</b> Arnæ, <i>v. de Chalcidique,</i> THC.`

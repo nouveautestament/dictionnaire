@@ -1,1 +1,0 @@
-lar[13753]=`<b>ἀπο·φράγνυμι</b>, enfermer, <i>d’où</i> obstruer, THC. <i>7, 74 ; fig</i>. κἀποφράγνυσαι κύκλῳ τὸ πρᾶγμα, SOPH. <i>Ant. 241,</i> et tu entoures d’avance de mille précautions le récit de l’événement ; <i>cf</i>. ἀποφράττω.`

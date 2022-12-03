@@ -1,1 +1,0 @@
-lar[51096]=`<b>Καλλι·γένεια, ων (τὰ)</b> <font color="purple">[ῐ]</font> fêtes de Kalligéneia, ALCIPHR. <i>3, 39</i>.<p><b>Étym</b>. <i>v</i>. καλλιγένεια.`

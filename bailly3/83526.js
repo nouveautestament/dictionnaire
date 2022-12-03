@@ -1,1 +1,0 @@
-lar[83526]=`<b>προ·αλείφω</b> <font color="purple">[ᾰ]</font> oindre auparavant, RUF. <i>p. 244</i>.<br><b><i>Moy.</i></b> se faire une onction auparavant, DIPH. SIPHN. (ATH. <i>90a</i>).`

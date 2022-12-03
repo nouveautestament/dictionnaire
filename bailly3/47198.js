@@ -1,1 +1,0 @@
-lar[47198]=`<b>θηλυ·ποιός, ός, όν</b>, qui produit des êtres femelles, <i>ép. du nombre 8,</i> NICOM. (PHOT. <i>Bibl. 144, 33).</i><p><b>Étym</b>. θ. ποιέω.`

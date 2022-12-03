@@ -1,1 +1,0 @@
-lar[99970]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de renverser qqn le cou en arrière, PLUT. <i>M. 526e ;</i> LUC. <i>Lex. 5</i> ; ATH. <i>14f</i>.<p><b>Étym</b>. τραχηλίζω.`

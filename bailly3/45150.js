@@ -1,1 +1,0 @@
-lar[45150]=`<font color="darkgreen">(<i>seul. prés. act. 3 pl. dor</i>. ἠλαίνοντι, THCR. <i>Idyl. 7, 23, et part</i>. ἠλαίνων, CALL. <i>Dian. 251</i>) :</font><br><b>      1</b> errer çà et là, THCR. <i>Idyl. l. c.</i><br><b>      2</b> <i>fig</i>. extravaguer, être fou, CALL. <i>l. c</i>.<p><b>Étym</b>. <i>ion. c</i>. ἀλαίνω, <i>cf</i>. ἀλάομαι.`

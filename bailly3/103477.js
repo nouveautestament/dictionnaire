@@ -1,1 +1,0 @@
-lar[103477]=`<b>ή, όν</b>, dont on peut se faire une idée, concevable, ARSTT. <i>An. pr. 1, 39</i> ; SIMPL. <i>Epict. 1, 1, p. 8, 44, 49 Dübn</i>.<p><b>Étym</b>. ὑπολαμβάνω.`

@@ -1,1 +1,0 @@
-lar[84655]=`<b>προ·λιμνάζω</b>, former un marais à sa source, <i>en parl. d’un fleuve,</i> PAUS. <i>8, 22, 3</i>.`

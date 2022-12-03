@@ -1,1 +1,0 @@
-lar[68934]=`<b>νομο·δίφας, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui cherche dans une loi, GAL.`

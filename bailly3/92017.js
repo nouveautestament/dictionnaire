@@ -1,1 +1,0 @@
-lar[92017]=`<b>σπουδαιολογέω-ῶ</b>, parler <i>ou</i> traiter sérieusement, XÉN. <i>Conv. 8, 41 dout. ; au pass</i>. XÉN. <i>Conv. 4, 50</i>.<br><b><i>Moy.</i></b> s’entretenir de choses sérieuses, XÉN. <i>An. 1, 9, 28</i> ; DL. <i>6, 27</i>.<p><b>Étym</b>. *σπουδαιολόγος, <i>de</i> σπουδαῖος, λέγω.`

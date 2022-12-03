@@ -1,1 +1,0 @@
-lar[96748]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> troupeau de porcs, ARSTT. <i>H.A. 6, 18</i> ; DH. <i>1, 79 et 81</i> ; ANTH. <i>11, 363</i>.<p><b>Étym</b>. συφορβός.`

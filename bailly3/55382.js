@@ -1,1 +1,0 @@
-lar[55382]=`<b>ου (τὸ)</b> <font color="purple">[ῐβ]</font><br><b>      1</b> fruit du nénuphar d’Égypte (κολοκασία) STR. <i>799, 823</i> ; DS. <i>1, 34</i> ; ATH. <i>73a.</i><br><b>      2</b> coupe faite de ce fruit <i>ou</i> en ayant la forme, DIDYM. (ATH. <i>477e</i>).`

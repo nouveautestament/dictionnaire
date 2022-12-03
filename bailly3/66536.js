@@ -1,1 +1,0 @@
-lar[66536]=`<b>μονο·ζυγής, ής, ές</b> <font color="purple">[ῠ]</font> attaché avec une seule courroie, A. PL. <i>308</i>.<p><b>Étym</b>. μ. ζεύγνυμι.`

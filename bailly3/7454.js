@@ -1,1 +1,0 @@
-lar[7454]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> renvoyé, LUC. <i>Luct. 10</i> ; DC. <i>62, 2</i>.<br><b>      2</b> déféré à une nouvelle juridiction (jugement) DS. <i>14, 96</i> ; LUC. <i>Eun. 12</i>.<p><b>Étym</b>. ἀναπέμπω.`

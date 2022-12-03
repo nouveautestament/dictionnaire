@@ -1,1 +1,0 @@
-lar[107783]=`<b>χαμαιπετέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>seul. part. prés. fém. dor</i>. χαμαιπετοῖσα, tomber à terre, <i>d’où</i> échouer, être vain, PD. <i>N. 4, 66</i>.<p><b>Étym</b>. χαμαιπετής.`

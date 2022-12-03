@@ -1,1 +1,0 @@
-lar[72937]=`<b>ὀρνιθομανέω-ῶ</b> <font color="purple">[ῑᾰ]</font> aimer les oiseaux à la folie, AR. <i>Av. 1273, 1344</i>.<p><b>Étym</b>. ὀρνιθομανής.`

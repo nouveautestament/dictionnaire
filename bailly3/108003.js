@@ -1,1 +1,0 @@
-lar[108003]=`<b>ου</b> <i>ou</i> <b>α (ὁ)</b> Kharôndas, <i>législateur de Catane,</i> PLAT. <i>Rsp. 599f ;</i> ARSTT. <i>Pol. 1, 2, 2, etc. ; au plur</i>. Χαρῶνδαι, EL. <i>N.A. 6, 41,</i> des législateurs comme Kharôndas.<p><b>Étym</b>. <i>patr. de</i> Χάρων.`

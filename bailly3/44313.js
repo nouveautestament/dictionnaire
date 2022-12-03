@@ -1,1 +1,0 @@
-lar[44313]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable a du moût cuit, DIOSC.<p><b>Étym</b>. ἕψημα, -ωδης.`

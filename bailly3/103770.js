@@ -1,1 +1,0 @@
-lar[103770]=`<b>ὑπο·ρράπτω :<br>   I</b> coudre en dessous, <i>d’où</i> :<br><b>      1</b> rapiécer, raccommoder un vêtement, JOS. <i>A.J. 17, 5, 7</i>.<br><b>      2</b> ressemeler des chaussures, THÉM. <i>237b.</i><br><b>   II</b> <i>fig</i>. arranger <i>ou</i> composer habilement : λόγον, EUR. <i>Alc. 537,</i> un discours.<p><b>Étym</b>. ὑ. ῥάπτω.`

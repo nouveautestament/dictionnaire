@@ -1,1 +1,0 @@
-lar[14026]=`<i>adv</i>., intrépidement, PHALAR. <i>Ep. 98, p. 284 Valckenaer</i>.`

@@ -1,1 +1,0 @@
-lar[34188]=`<b>ἐν·διαφθείρω</b>, détruire dans, HPC. <i>254, 6</i> ; PLUT. <i>M. 658c</i>.`

@@ -1,1 +1,0 @@
-lar[45198]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> fonction d’héliaste, DÉM. <i>747 (serment).</i><p><b>Étym</b>. ἡλιάζομαι.`

@@ -1,1 +1,0 @@
-lar[73154]=`<b>ή, όν :<br>      1</b> qui concerne la danse, PLAT. <i>Leg. 816a ; subst</i>. ἡ ὀρχηστική (<i>s.-e</i>. τέχνη) POL. <i>9, 20, 7</i> ; LUC. <i>Salt. 65, 71,</i> l’art de la danse.<br><b>      2</b> qui se livre à la danse, PLUT. <i>M. 27b, 67b</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Poet. 4</i>.<p><b>Étym</b>. ὀρχέομαι.`

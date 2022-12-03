@@ -1,1 +1,0 @@
-lar[42789]=`<b>εὔ·νομος, ος, ον :<br>      1</b> régi par de bonnes lois, bien gouverné, PD. <i>I. 4, 24 ; N. 9, 29</i> ; PLAT. <i>Leg. 815b.</i><br><b>      2</b> qui observe les lois, PLAT. <i>Rsp. 462b</i>.<p>•<i> Sup</i>. -ώτατος, PD. <i>O. 1, 37</i> ; PLAT. <i>Tim. 20a, 638b</i>.<p><b>Étym</b>. εὖ, νόμος.`

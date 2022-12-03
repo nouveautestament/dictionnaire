@@ -1,1 +1,0 @@
-lar[54024]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> action de descendre, de s’abattre sur, A.RH. <i>4, 886</i>.<p><b>Étym</b>. <i>cf</i>. κατήλυσις.`

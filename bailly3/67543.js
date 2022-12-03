@@ -1,1 +1,0 @@
-lar[67543]=`<b>ας (ἡ)</b> sottise de celui qui tient un langage insensé, ARSTT. <i>H.A. 1, 11</i> ; PLUT. <i>M. 504b</i>.<p><b>Étym</b>. μωρολόγος.`

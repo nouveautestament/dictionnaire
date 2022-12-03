@@ -1,1 +1,0 @@
-lar[17183]=`<b>ατος (τὸ)</b> air joué sur l’aulos, AR. <i>Ran. 1302</i> ; PLAT. <i>Conv. 216c, etc</i>.<p><b>Étym</b>. αὐλέω.`

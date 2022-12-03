@@ -1,1 +1,0 @@
-lar[86990]=`<b>προ·φυράω-ῶ</b> <font color="purple">[ῡ]</font> pétrir d’avance <i>ou</i> auparavant, HPC. <i>355, 26 ; fig</i>. AR. <i>Av. 462, Th. 75</i>.`

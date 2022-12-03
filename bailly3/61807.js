@@ -1,1 +1,0 @@
-lar[61807]=`<b>λυδο·παθής, ής, ές</b> <font color="purple">[ῡᾰ]</font> mou, sensuel comme un Lydien, ANACR. <i>100</i>.<p><b>Étym</b>. Λυδός, πάθος.`

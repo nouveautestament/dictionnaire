@@ -1,1 +1,0 @@
-lar[74283]=`<i>adv</i>., dès l’enfance, IBYC. <i>1, 8</i> ; THÉM. <i>375, 16</i>.<p><b>Étym</b>. παῖς, -θεν.`

@@ -1,1 +1,0 @@
-lar[64704]=`<b>μετα·διδάσκω</b> <font color="purple">[ῐ]</font> enseigner d’une autre manière <i>ou</i> autre chose, DS. <i>2, 494, 565 L. Dind.</i> ; PHIL. <i>1, 172</i>.<br><b><i>Moy.</i></b> désapprendre, PLUT. <i>M. 784b ;</i> PAUS. <i>4, 27, 5</i>.`

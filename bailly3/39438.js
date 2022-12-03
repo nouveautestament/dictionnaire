@@ -1,1 +1,0 @@
-lar[39438]=`<font color="purple">[τῑ]</font> <i>adv</i>., avec honneur, CLÉM. <i>507</i>.`

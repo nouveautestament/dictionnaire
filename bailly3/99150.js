@@ -1,1 +1,0 @@
-lar[99150]=`<b>ου (ὁ)</b> Tilliboros, <i>célèbre voleur de grand chemin,</i> LUC. <i>Alex. 2</i>.`

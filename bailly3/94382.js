@@ -1,1 +1,0 @@
-lar[94382]=`<b>συμ·προτρέπω</b>, exciter <i>ou</i> exhorter ensemble, DH. <i>Rhet. 7, 6</i>.`

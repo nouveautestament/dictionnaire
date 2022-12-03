@@ -1,1 +1,0 @@
-lar[43340]=`<b>ου (ὁ)</b> <font color="purple">[ῠῐ]</font> descendant d’Eurytos (Iphitos) OD. <i>21, 14</i> ; A.RH. <i>2, 1043</i>.<p><b>Étym</b>. Εὔρυτος.`

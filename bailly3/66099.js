@@ -1,1 +1,0 @@
-lar[66099]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> fil, IL. <i>23, 762 ; en parl. du fil des Parques,</i> LYC. <i>584</i> ; MAN. <i>1, 7 ; 5, 8 ; d’un fil d’araignée,</i> EUR. (STOB. <i>Fl. 55, 4, 1</i>) ; κατὰ μίτον, POL. <i>3, 32, 2</i> ; CIC. <i>Att. 14, 16, 3,</i> d’une affilée, sans interruption.<br><b>      2</b> corde de lyre, ANTH. <i>5, 222</i>.`

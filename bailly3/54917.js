@@ -1,1 +1,0 @@
-lar[54917]=`<b>Κερβήσιον μέλος (τὸ)</b> chant des Kerbèsies, <i>pple de Phrygie,</i> chant phrygien, ALCM. (STR. <i>580</i>).`

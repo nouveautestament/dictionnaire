@@ -1,1 +1,0 @@
-lar[101450]=`<b>ὑδασι·στεγής, ής, ές</b> <font color="purple">[ῡᾰ]</font> imperméable à l’eau, ANTH. <i>6, 90</i>.<p><b>Étym</b>. ὕδωρ, στέγω.`

@@ -1,1 +1,0 @@
-lar[15241]=`<b>ου (ὁ)</b> Artabanos (Artaban), <i>Perse,</i> HDT. <i>4, 83 ; 7, 10, etc</i>.`

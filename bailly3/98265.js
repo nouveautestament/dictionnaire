@@ -1,1 +1,0 @@
-lar[98265]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> <i>leç. abandonnée p</i>. Τημνίτης, XÉN. <i>An. 4, 4, 15</i>.<br><b>      2</b> Téménitès (<i>litt</i>. le quartier de l’enceinte sacrée), <i>quartier de Syracuse établi sur une colline, plus tard appelé Νεάπολις,</i> THC. <i>6, 75 et 100</i> ; CIC. <i>Verr. 4, 53</i>.<p><b>Étym</b>. τέμενος.`

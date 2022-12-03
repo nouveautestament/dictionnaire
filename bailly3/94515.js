@@ -1,1 +1,0 @@
-lar[94515]=`<b>συμ·ψοφέω-ῶ</b>, faire retentir en frappant avec, <i>dat</i>. POL. <i>1, 34, 2, etc.</i> ; σ. τοὺς θυρεοὺς ταῖς μαχαίραις, POL. <i>11, 30, 1,</i> frapper les boucliers avec les épées.`

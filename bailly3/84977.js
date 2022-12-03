@@ -1,1 +1,0 @@
-lar[84977]=`<b>προ·πόδιος, ος, ον</b>, qui se trouve devant les pieds, PTOL. <i>Math. synt. 2, 56</i>.<p><b>Étym</b>. π. πούς.`

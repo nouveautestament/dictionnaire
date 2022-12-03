@@ -1,1 +1,0 @@
-lar[106071]=`<b>φιλ·ορχηστής, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> qui aime la danse, A. QUINT. <i>p. 73</i> ; ADAM. <i>Physiogn. 2, 44</i> ; PROCL. <i>Ptol. 230</i>.<p><b>Étym</b>. φ. ὀρχέομαι.`

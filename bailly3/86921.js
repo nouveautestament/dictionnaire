@@ -1,1 +1,0 @@
-lar[86921]=`<b>προ·φαγεῖν</b> <font color="purple">[ᾰ]</font> <i>inf. ao.2 de</i> προεσθίω, THPP. <i>200</i> ; SEXT. <i>P. 1, 110, etc</i>.`

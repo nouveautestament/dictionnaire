@@ -1,1 +1,0 @@
-lar[86212]=`<b>ας (ἡ)</b> assentiment, consentement, DÉM. <i>1007, 7</i>.<p><b>Étym</b>. προσομολογέω.`

@@ -1,1 +1,0 @@
-lar[94702]=`<b>συν·αναζέω</b>, faire bouillir avec, DIOSC. <i>1, 33, etc</i>.`

@@ -1,1 +1,0 @@
-lar[7201]=`<b>ἀνα·μισθαρνέω-ῶ</b>, gagner la faveur (du peuple) avec de l’argent (<i>litt</i>. par une solde) PLUT. <i>Nic. 2</i>.`

@@ -1,1 +1,0 @@
-lar[105990]=`<b>Φιλο·πείθης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Philopeithès, <i>h</i>. HERMIPP. (PLUT. <i>X orat. Hyper. 13).</i><p><b>Étym</b>. φ. πείθω.`

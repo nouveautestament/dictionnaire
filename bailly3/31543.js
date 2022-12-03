@@ -1,1 +1,0 @@
-lar[31543]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à exprimer, à énoncer, DL. <i>7, 49</i>.<p><b>Étym</b>. ἐκλαλέω.`

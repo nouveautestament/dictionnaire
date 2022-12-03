@@ -1,1 +1,0 @@
-lar[100091]=`<b>τριακοντ·όργυιος</b>, <i>ou mieux</i> <b>τριακοντ·ώρυγος, ος, ον</b> <font color="purple">[ᾱῠγ]</font> de trente brasses, XÉN. <i>Cyn. 2, 5</i>.<p><b>Étym</b>. τρ. ὄργυια.`

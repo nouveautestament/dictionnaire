@@ -1,1 +1,0 @@
-lar[72825]=`<b>ος, ον</b>, qui concerne les limites, <i>particul</i>. protecteur des limites, des bornes, <i>en parl. de Zeus,</i> PLAT. <i>Leg. 842e ;</i> DÉM. <i>86, 16 ; des dieux en gén</i>. DH. <i>2, 74 ; du dieu Terme, à Rome,</i> PLUT. <i>Num. 16</i>.<p><b>Étym</b>. ὅρος.`

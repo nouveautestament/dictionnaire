@@ -1,1 +1,0 @@
-lar[55055]=`<b>κεστρίτης οἶνος (ὁ)</b> vin préparé avec la bétoine, DIOSC. <i>5, 54</i>.<p><b>Étym</b>. κέστρον.`

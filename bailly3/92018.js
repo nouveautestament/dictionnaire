@@ -1,1 +1,0 @@
-lar[92018]=`<i>adv</i>., en un langage sérieux, PHIL. <i>1, 218</i>.<p><b>Étym</b>. *σπουδαιολόγος, <i>de</i> σπουδαῖος, λέγω.`

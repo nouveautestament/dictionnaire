@@ -1,1 +1,0 @@
-lar[15576]=`<i>voc</i>. <b>-η (ὁ)</b> Arkhibiadès, <i>h</i>. PLUT. <i>Phoc. 10</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀρχίβιος.`

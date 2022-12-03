@@ -1,1 +1,0 @@
-lar[7469]=`<b>εως (ἡ)</b> action d’exiger, de se faire restituer (une dette) DH. <i>6, 1</i>.<p><b>Étym</b>. ἀναπράσσω.`

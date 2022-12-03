@@ -1,1 +1,0 @@
-lar[56303]=`<b>*κνίς</b>, <i>seul. acc</i>. κνίδα <font color="purple">[ῐ]</font> <i>c</i>. κνίδη, OPP. <i>H. 2, 429</i>.`

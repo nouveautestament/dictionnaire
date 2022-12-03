@@ -1,1 +1,0 @@
-lar[18341]=`<i>adv</i>., sans parler, SOPH. <i>O.C. 131</i>.`

@@ -1,1 +1,0 @@
-lar[82386]=`<b>πολυ·στάφυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> abondant en raisins, <i>d’où</i> en vignes, IL. <i>2, 507</i> ; HH. <i>25, 11</i> ; SOPH. <i>Ant. 1133</i>.<p><b>Étym</b>. π. σταφυλή.`

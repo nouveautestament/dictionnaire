@@ -1,1 +1,0 @@
-lar[43525]=`<b>εὐσυνθετέω-ῶ</b>, être fidèle à une convention, à un traité, CHRYSIPP. (STOB. <i>Fl. 28, 15, t. 1, p. 356, l. 12</i>) ; POL. <i>22, 25, 5</i> ; PLUT. <i>Rom. 5</i>.<p><b>Étym</b>. εὐσύνθετος.`

@@ -1,1 +1,0 @@
-lar[25407]=`<b>δια·πυριάω-ῶ</b> <font color="purple">[ῠ]</font> échauffer ; <i>d’où au pass. (ao. sbj. 3 sg</i>. -πυριηθῇ) être échauffé, HPC. <i>684, 54</i>.`

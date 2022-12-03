@@ -1,1 +1,0 @@
-lar[106106]=`<b>φιλοστοργέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> aimer tendrement, chérir, <i>particul</i>. les siens, PLAT. <i>Leg. 927b ;</i> DS. <i>1, 64 ; 4, 38</i>.<br><b>      2</b> aimer, <i>en gén</i>. POL. <i>5, 74, 5 ; en parl. de relations sexuelles,</i> ATH. <i>552d, etc</i>.<p><b>Étym</b>. φιλόστοργος.`

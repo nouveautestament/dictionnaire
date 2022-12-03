@@ -1,1 +1,0 @@
-lar[70106]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui exhale une odeur forte, HPC. <i>590, 39, etc</i>.<p><b>Étym</b>. ὀδμή.`

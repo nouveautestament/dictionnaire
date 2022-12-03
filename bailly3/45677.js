@@ -1,1 +1,0 @@
-lar[45677]=`<b>Ἡνί·οχος, ου (ὁ)</b> Hèniokhos, <i>poète de la moyenne comédie,</i> ATH. <i>271a</i>.<p><b>Étym</b>. <i>cf</i>. ἡνίοχος.`

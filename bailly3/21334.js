@@ -1,1 +1,0 @@
-lar[21334]=`<b>Γαμο·χαίρων (ὁ)</b> <font color="purple">[ᾰ]</font> Ami-des-noces, <i>n. de parasite,</i> ALCIPHR. <i>3, 66</i>.<p><b>Étym</b>. γάμος, χαίρω.`

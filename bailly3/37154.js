@@ -1,1 +1,0 @@
-lar[37154]=`<b>εως (ἡ) :<br>      1</b> coup, choc, DIOSC. <i>5, 88</i> ; M. TYR. <i>67, 21</i> ; SEXT. <i>P. 3, 51 ; fig</i>. CLÉM. <i>821</i>.<br><b>      2</b> pression, SOR. <i>250, 28</i>.<p><b>Étym</b>. ἐπερείδω.`

@@ -1,1 +1,0 @@
-lar[3581]=`<b>ἀ·κόρυφος, ος, ον</b> <font color="purple">[ῠ]</font> sans tête, sans commencement, <i>en parl. d’une période mal construite,</i> DH. <i>Comp. 198</i>.<p><b>Étym</b>. ἀ, κορυφή.`

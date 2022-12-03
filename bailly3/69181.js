@@ -1,1 +1,0 @@
-lar[69181]=`<b>ός, όν</b>, qui travaille la nuit, PLUT. <i>M. 376e</i>.<p><b>Étym</b>. ν. ἔργον.`

@@ -1,1 +1,0 @@
-lar[39282]=`<b>εως (ἡ)</b> <font color="purple">[ᾱῐσ]</font> apposition d’un sceau, <i>d’où</i> sanction, confirmation, RHÉT. <i>7, 319 W</i>.<p><b>Étym</b>. ἐπισφραγίζω.`

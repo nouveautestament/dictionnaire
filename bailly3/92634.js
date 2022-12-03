@@ -1,1 +1,0 @@
-lar[92634]=`<b>(ὁ)</b> Stilpôn, <i>philosophe de Mégare,</i> PLUT. <i>Demetr. 9, Educ. lib. 8, etc</i>.`

@@ -1,1 +1,0 @@
-lar[47698]=`<i>adv</i>., à Thria, XÉN. <i>Hell. 5, 4, 21</i> ; IS. <i>11, 42 Baiter-Sauppe</i>.<p><b>Étym</b>. Θρῖα.`

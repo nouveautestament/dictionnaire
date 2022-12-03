@@ -1,1 +1,0 @@
-lar[40614]=`<b>Ἕρμ·ιππος, ου (ὁ)</b> Hermippos :<br><b>      1</b> <i>poète de l’ancienne comédie,</i> AR. <i>Nub. 557</i> ; PLUT. <i>Per. 32, 33</i>.<br><b>      2</b> <i>historien,</i> PLUT. <i>Lyc. 5, 23 ; Sol. 2, etc.</i> ; EL. <i>N.A. 7, 40</i>.<br><b>      3</b> <i>autres,</i> HDT. <i>6, 4, etc</i>.<p><b>Étym</b>. Ἑρμῆς, ἵππος.`

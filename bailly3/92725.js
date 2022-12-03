@@ -1,1 +1,0 @@
-lar[92725]=`<b>στομα·κάκη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> maladie de la bouche, <i>sorte de scorbut,</i> STR. <i>781</i>.<p><b>Étym</b>. στόμα, κακός.`

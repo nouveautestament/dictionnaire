@@ -1,1 +1,0 @@
-lar[6051]=`<b>ἀμφ·ιάχω</b> (<i>seul. part. pf. fém</i>. -ιαχυῖα <font color="purple">[ιᾰχ]</font>) crier <i>ou</i> retentir alentour, IL. <i>2, 316</i>.`

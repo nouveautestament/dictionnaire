@@ -1,1 +1,0 @@
-lar[14727]=`<b>ου</b>, <i>adj. m</i>. d’Aristomène, POL. <i>4, 33</i>.<p><b>Étym</b>. Ἀριστομένης.`

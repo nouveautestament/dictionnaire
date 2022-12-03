@@ -1,1 +1,0 @@
-lar[63975]=`<b>ητος (ὁ)</b> Mélès :<br><b>      1</b> <i>n. d’h</i>. PLAT. <i>Gorg. 501e, 502a ; particul. père d’Homère,</i> Ps.-PLUT. <i>V. Hom. 1, 41</i>.<br><b>      2</b> <i>fl. d’Ionie,</i> HH. <i>Dian. 3</i> ; STR. <i>554, 646</i>.<p>➳ <i>Voc</i>. Μέλη, MOSCH. <i>3, 71</i>.`

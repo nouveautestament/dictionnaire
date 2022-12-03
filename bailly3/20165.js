@@ -1,1 +1,0 @@
-lar[20165]=`<b>ου (ὁ)</b> Bombros, <i>devin béotien,</i> PLUT.`

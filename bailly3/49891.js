@@ -1,1 +1,0 @@
-lar[49891]=`<b>άδος</b>, <i>adj. f.</i> :<br><b>      1</b> de la hanche ; <i>subst</i>. ἡ ἰ. (<i>s.-e</i>. νόσος) HPC. <i>524, 3, etc</i>. maladie de la hanche, goutte sciatique.<br><b>      2</b> <i>autre n. de l’</i>aubépine, GAL. <i>13, 202 ; v</i>. λευκάκανθα.<p><b>Étym</b>. ἰσχίον.`

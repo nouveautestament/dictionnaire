@@ -1,1 +1,0 @@
-lar[100137]=`<font color="purple">[ῐβ]</font> <i>adv</i>., en guise de surtout, AR. <i>Vesp. 1132</i>.<p><b>Étym</b>. τρίβων.`

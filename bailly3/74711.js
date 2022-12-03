@@ -1,1 +1,0 @@
-lar[74711]=`<b>πάμ·μηνις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. éclairée par la pleine lune, ARAT. <i>189</i>.<p><b>Étym</b>. π. μήνη.`

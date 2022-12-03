@@ -1,1 +1,0 @@
-lar[45405]=`<b>ἡμι·δάϊκτος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié déchiré, OPP. <i>C. 2, 281, etc</i>.<p><b>Étym</b>. ἡμι-, δαΐζω.`

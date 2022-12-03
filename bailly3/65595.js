@@ -1,1 +1,0 @@
-lar[65595]=`<b>ωνος (ὁ)</b> Mèkhaniôn, <i>h</i>. LYS. <i>30, 28 Baiter-Sauppe</i>.<p><b>Étym</b>. μηχανή.`

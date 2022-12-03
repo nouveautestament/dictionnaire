@@ -1,1 +1,0 @@
-lar[20466]=`<b>βου·λύσιος ὥρη (ἡ)</b> <font color="purple">[ῡ]</font> l’heure où l’on dételle les bœufs, ARAT. <i>825</i>.`

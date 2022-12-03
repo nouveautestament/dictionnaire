@@ -1,1 +1,0 @@
-lar[104349]=`<b>ὑφ·αλμυρίζω</b> <font color="purple">[μῠ]</font> être un peu salé, PLUT. <i>M. 669b ;</i> DIOSC. <i>5, 137</i>.<p><b>Étym</b>. ὑ. ἁλμυρός.`

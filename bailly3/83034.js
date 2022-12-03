@@ -1,1 +1,0 @@
-lar[83034]=`<b>ποτηριο·φόρος, ος, ον</b>, qui porte une coupe, <i>ép. de Dèmèter,</i> AUTOCR. (<i>Hist. fr. 4, 346 Müller).</i><p><b>Étym</b>. π. φέρω.`

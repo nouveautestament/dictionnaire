@@ -1,1 +1,0 @@
-lar[39421]=`<b>ἐπι·τίκτω</b>, enfanter une seconde fois <i>ou</i> ensuite, HPC. <i>260, 11, 18</i> ; ARSTT. <i>fr. 260</i>.`

@@ -1,1 +1,0 @@
-lar[90306]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> action de manger du poisson σίλουρος, DIPH. (<i>Com. fr. 4, 381</i>).`

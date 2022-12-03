@@ -1,1 +1,0 @@
-lar[20864]=`<b>βροτο·κέρτης, ου (ὁ)</b> <i>litt</i>. qui rase <i>ou</i> tond les mortels, <i>t. emphat. pour</i> barbier, ALEXARCH. (ATH. <i>98e</i>) <i>corr. p</i>. βροτοκέρης.<p><b>Étym</b>. βροτός, κείρω.`

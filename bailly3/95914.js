@@ -1,1 +1,0 @@
-lar[95914]=`<b>συνθακέω-ῶ</b> <font color="purple">[ᾱ]</font> siéger avec, prendre conseil de, EUR. <i>Her. 994</i> ; THÉM. <i>Or. 25, 310d</i>.<p><b>Étym</b>. σύνθακος.`

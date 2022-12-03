@@ -1,1 +1,0 @@
-lar[42767]=`<b>α (ὁ)</b> Eunikidas, <i>h</i>. ANTH. <i>7, 380</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Εὔνικος.`

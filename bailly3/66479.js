@@ -1,1 +1,0 @@
-lar[66479]=`<b>μον·αυλία, ας (ἡ)</b> vie solitaire, <i>particul</i>. veuvage, PLAT. <i>Leg. 721d</i>.<p><b>Étym</b>. μόνος, αὐλή.`

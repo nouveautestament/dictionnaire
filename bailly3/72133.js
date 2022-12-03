@@ -1,1 +1,0 @@
-lar[72133]=`<b>ῆρος (ὁ)</b> instrument pour tailler en pointe, ANTH. <i>6, 64</i>.<p><b>Étym</b>. ὀξύνω.`

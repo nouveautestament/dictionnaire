@@ -1,1 +1,0 @@
-lar[99358]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> Titarèsios (<i>auj</i>. Titarísios, <i>anc</i>. Xeriás) <i>fl. de Thessalie,</i> IL. <i>2, 751, etc.</i><br><b>      2</b> de Titaros, <i>ép. de Mopsos,</i> HÉS. <i>Sc. 181</i> ; A.RH. <i>1, 65</i>.<p><b>Étym</b>. <i>v</i>. Τίταρος.`

@@ -1,1 +1,0 @@
-lar[67797]=`<b>Ναυσι·μένης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Nausiménès, <i>h</i>. IS. <i>69, 27</i>.<p><b>Étym</b>. ν. μένω.`

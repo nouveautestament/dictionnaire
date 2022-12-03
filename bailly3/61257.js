@@ -1,1 +1,0 @@
-lar[61257]=`<b>ας (ἡ)</b> <font color="purple">[ῐν]</font> robe de lin, PLUT. <i>M. 352c ;</i> MAN. <i>4, 344</i>.<p><b>Étym</b>. λινόστολος.`

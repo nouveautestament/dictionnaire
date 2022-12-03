@@ -1,1 +1,0 @@
-lar[22601]=`<i>adv</i>., en forme de ligne, ARSTT. <i>Mund. 4, 20</i>.`

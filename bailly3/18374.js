@@ -1,1 +1,0 @@
-lar[18374]=`<b>ἀχαλκέω-ῶ</b> (<i>seul. prés</i>.) n’avoir pas le sou, ANTH. <i>11, 154</i>.<p><b>Étym</b>. ἄχαλκος.`

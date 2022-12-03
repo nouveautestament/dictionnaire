@@ -1,1 +1,0 @@
-lar[5176]=`<i>acc. sg</i>. navire, ESCHL. <i>fr. 212, Suppl. 842 conj.</i> ; ἀμαλάδε, <i>Suppl. 847 conj</i>. vers le navire.`

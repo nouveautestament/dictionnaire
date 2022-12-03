@@ -1,1 +1,0 @@
-lar[10582]=`<b>ἀντι·φυλάσσω</b>, <i>att</i>. <b>-άττω</b>, veiller de son côté, PLAT. <i>Leg. 705e.</i><br><b><i>Moy.</i></b> se mettre sur ses gardes chacun de son côté, se prémunir mutuellement contre, XÉN. <i>An. 2, 5, 3</i>.`

@@ -1,1 +1,0 @@
-lar[105856]=`<b>φιλό·κοσμος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la parure, l’éclat, PLUT. <i>M. 976f ;</i> EL. <i>V.H. 12, 1</i>.<p><b>Étym</b>. φ. κόσμος.`

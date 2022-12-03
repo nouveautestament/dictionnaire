@@ -1,1 +1,0 @@
-lar[59216]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kônaros, <i>h</i>. THCR. <i>Idyl. 5, 102</i>.<p><b>Étym</b>. <i>au voc</i>. Κώναρος.`

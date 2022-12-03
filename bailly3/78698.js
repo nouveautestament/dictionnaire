@@ -1,1 +1,0 @@
-lar[78698]=`<b>περι·καθέζομαι</b> <font color="darkgreen">(<i>ao</i>. -καθέσθην) :</font><br><b>      1</b> s’asseoir autour, SEXT. <i>186</i> ; περί τι, LUC. <i>V.H. 1, 23,</i> autour de qqe ch.<br><b>      2</b> investir, <i>acc</i>. DÉM. <i>1379, 23</i>.`

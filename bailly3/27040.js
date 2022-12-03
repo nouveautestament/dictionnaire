@@ -1,1 +1,0 @@
-lar[27040]=`<i>poét</i>. δισσάκι <font color="purple">[ᾰ]</font> <i>adv</i>., deux fois, ARAT. <i>968</i>.<p>➳ -άκι, ANTH. <i>7, 429</i> ; διττάκι, Q. SM. <i>2, 56</i>.<p><b>Étym</b>. δισσός.`

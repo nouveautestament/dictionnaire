@@ -1,1 +1,0 @@
-lar[44582]=`<b>ζιγγόω-ῶ</b>, boire, NICOSTR. (PHOT. <i>v° ζιγγοῦν).</i><p><b>Étym</b>. <i>mot cilicien ; cf</i>. ζιγόω.`

@@ -1,1 +1,0 @@
-lar[55529]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. κιναιδία GAL. <i>13, 190</i>.`

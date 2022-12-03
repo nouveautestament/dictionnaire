@@ -1,1 +1,0 @@
-lar[87528]=`<b>Πυθ·άγγελος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Pythangélos :<br><b>      1</b> <i>poète tragique,</i> AR. <i>Ran. 87</i>.<br><b>      2</b> <i>autres,</i> THC. <i>2, 2, etc</i>.<p><b>Étym</b>. Πυθώ, ἄγγελος.`

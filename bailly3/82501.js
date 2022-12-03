@@ -1,1 +1,0 @@
-lar[82501]=`<b>πολύ·φατος, ος, ον</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> dont on parle beaucoup, très renommé, PD. <i>P. 11, 71</i>.<br><b>      2</b> qui mérite qu’on en parle beaucoup, noble, excellent, PD. <i>O. 1, 13, etc</i>.<p><b>Étym</b>. π. φημί.`

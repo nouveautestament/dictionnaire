@@ -1,1 +1,0 @@
-lar[37428]=`<b>ἐπί·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> nubile, HDT. <i>1, 196</i> ; PLAT. <i>Ep. 361d ;</i> DÉM. <i>1009, 14</i>.`

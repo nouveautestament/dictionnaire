@@ -1,1 +1,0 @@
-lar[39842]=`<i>adv.</i> :<br><b>      1</b> en suivant, ensuite, ARSTT. <i>Metaph. 6, 4, 13</i>.<br><b>      2</b> par suite de, conséquemment à, <i>dat</i>. PLAT. <i>Leg. 844e ; cf</i>. ARSTT. <i>An. 1, 2, 14</i>.<p><b>Étym</b>. ἕπομαι.`

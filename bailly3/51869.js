@@ -1,1 +1,0 @@
-lar[51869]=`<b>ου (τὸ)</b> arbre odorant de l’Inde, CTÉS. (PHOT. <i>Bibl. 49, 33</i>).`

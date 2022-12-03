@@ -1,1 +1,0 @@
-lar[42395]=`<b>εὐ·κατάστατος, ος, ον</b> <font color="purple">[στᾰ]</font> bien établi, ferme, stable, A. APHR. <i>Probl. 1, 87</i> ; DYSC. <i>Adv. p. 567, 17</i>.`

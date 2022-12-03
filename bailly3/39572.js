@@ -1,1 +1,0 @@
-lar[39572]=`<i>adv.</i> :<br><b>      1</b> <i>pass</i>. en excitant <i>ou</i> de manière à exciter l’envie, THC. <i>1, 75</i> ; XÉN. <i>Cyr. 7, 5, 37</i>.<br><b>      2</b> <i>act</i>. avec des sentiments d’envie, XÉN. <i>Cyr. 3, 3, 10, etc</i>.<p>➳ <i>• Cp</i>. -ώτερον, ARSTT. <i>Eud. 1</i>.`

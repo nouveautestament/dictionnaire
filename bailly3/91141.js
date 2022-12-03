@@ -1,1 +1,0 @@
-lar[91141]=`<font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. ιῶ)</font> envoyer aux corbeaux, <i>càd</i>. envoyer promener, traiter avec mépris, LUC. <i>Rh. præc. 16, etc. ; au pass</i>. DÉM. <i>155, 15</i> ; PLUT. <i>Artax. 27, etc</i>.<p><b>Étym</b>. <i>pour</i> *ἐσκορακίζω, <i>de</i> ἐς κόρακας.`

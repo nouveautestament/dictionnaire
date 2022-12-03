@@ -1,1 +1,0 @@
-lar[94674]=`<b>συν·αμιλλάομαι-ῶμαι</b> <font color="purple">[ᾰμ]</font> lutter ensemble, PLUT. <i>M. 786e</i>.`

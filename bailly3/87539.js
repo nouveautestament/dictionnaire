@@ -1,1 +1,0 @@
-lar[87539]=`<font color="purple">[ῡᾰ]</font> <i>adv</i>., à la façon de Pythagore, DL. <i>8, 1</i>.<p><b>Étym</b>. πυθαγορίζω.`

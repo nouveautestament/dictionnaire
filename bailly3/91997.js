@@ -1,1 +1,0 @@
-lar[91997]=`<b>σπονδο·ποιέομαι-οῦμαι :<br>      1</b> offrir des libations, NIC. COLOPH. (ATH. <i>477b</i>).<br><b>      2</b> faire offrir aux convives les coupes pour les libations, ATH. <i>179c</i>.<p><b>Étym</b>. σπονδή, ποιέω.`

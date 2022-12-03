@@ -1,1 +1,0 @@
-lar[44175]=`<b>ἐφ·ύω</b> <font color="purple">[ῡ]</font><br><b>   I</b> mouiller de pluie, <i>d’où au pass. part. pf</i>. ἐφυσμένος, XÉN. <i>Cyn. 9, 4,</i> trempé de pluie.<br><b>   II</b> impers. ἐφύει :<br><b>      1</b> il pleut sur, TH. <i>H.P. 4, 14, 8</i>.<br><b>      2</b> il pleut ensuite, TH. <i>C.P. 6, 17, 7</i>.<p><b>Étym</b>. ἐπί, ὕω.`

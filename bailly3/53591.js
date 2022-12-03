@@ -1,1 +1,0 @@
-lar[53591]=`<b>κατά·τυρος, ος, ον</b> <font color="purple">[ῡ]</font> couvert de crème <i>ou</i> de fromage, ARCHESTR. (ATH. <i>399f</i>).<p><b>Étym</b>. κ. τυρός.`

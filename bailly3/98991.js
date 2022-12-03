@@ -1,1 +1,0 @@
-lar[98991]=`<b>ου</b>, <i>adj. m</i>. originaire de Τῆμνος, XÉN. <i>An. 4, 4, 15</i>.`

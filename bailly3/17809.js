@@ -1,1 +1,0 @@
-lar[17809]=`<b>α, ον :<br>      1</b> du cou, OD. <i>3, 450</i> ; OPP. <i>C. 3, 255</i>.<br><b>      2</b> <i>subst</i>. ὁ αὐ. <i>sorte de tunique</i> (serrée au cou) ANTIPH. (HSCH.).<p><b>Étym</b>. αὐχήν.`

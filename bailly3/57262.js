@@ -1,1 +1,0 @@
-lar[57262]=`<b>α, ον</b>, aussi grand que le monde, DÉMOCR. (STOB. <i>Ecl. 1, 348).</i><p><b>Étym</b>. κόσμος.`

@@ -1,1 +1,0 @@
-lar[18247]=`<b>άδος (ἡ)</b> Aphrodisias, <i>litt</i>. consacré à Aphrodite :<br><b>      1</b> <i>lieu de Cyrénaïque,</i> HDT.<br><b>      2</b> <i>v. sur la frontière de Phrygie et de Carie,</i> STR. APP.<br><b>      3</b> <i>promont. et port de Cilicie,</i> DS. <i>etc</i>.<p><b>Étym</b>. Ἀφροδίτη.`

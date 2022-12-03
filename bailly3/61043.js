@@ -1,1 +1,0 @@
-lar[61043]=`<b>λιθο·γλύφος, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> sculpteur, statuaire, LUC. <i>Somn. 18</i>.<p><b>Étym</b>. λ. γλύφω.`

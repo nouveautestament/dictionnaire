@@ -1,1 +1,0 @@
-lar[73560]=`<b>ης (ἡ)</b> état d’un corps entier <i>ou</i> intact, <i>d’où</i> intégrité, généralité, ensemble, HPC. <i>12, 314c, etc</i>.<p><b>Étym</b>. οὐλομελής.`

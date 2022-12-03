@@ -1,1 +1,0 @@
-lar[87860]=`<b>πυρι·γλώχιν, ινος (ὁ, ἡ)</b> <font color="purple">[ῠῑν]</font> à la pointe forgée <i>ou</i> aiguisée au feu, OPP. <i>C. 2, 166</i> ; NONN. <i>D. 1, 151</i>.<p><b>Étym</b>. π. γλωχίς.`

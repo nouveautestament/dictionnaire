@@ -1,1 +1,0 @@
-lar[98059]=`<b>τεκνογονέω-ῶ</b>, engendrer, enfanter, ANTH. <i>9, 22</i> ; NT. <i>1Tim. 5, 14</i>.<p><b>Étym</b>. τεκνογόνος.`

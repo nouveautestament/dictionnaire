@@ -1,1 +1,0 @@
-lar[3144]=`<b>εως (τὸ)</b> <font color="purple">[ᾰᾰ]</font> ciron, mite, ARSTT. <i>H.A. 5, 32, 2</i>.<p><b>Étym</b>. ἀκαρής.`

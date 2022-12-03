@@ -1,1 +1,0 @@
-lar[66659]=`<b>μονο·τροφέω-ῶ</b>, ne faire qu’un repas <i>ou</i> ne prendre qu’une sorte d’aliments, STR. <i>154</i>.<p><b>Étym</b>. μ. -τροφος <i>de</i> τρέφω.`

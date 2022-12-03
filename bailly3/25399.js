@@ -1,1 +1,0 @@
-lar[25399]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui provoque la suppuration, suppuratif, GAL.<p><b>Étym</b>. διαπυέω.`

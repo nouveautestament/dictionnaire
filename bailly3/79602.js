@@ -1,1 +1,0 @@
-lar[79602]=`<b>οῦ (ὁ)</b> action de peler tout autour, TH. <i>C.P. 5, 15, 1</i>.<p><b>Étym</b>. περιφλοΐζω.`

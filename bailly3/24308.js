@@ -1,1 +1,0 @@
-lar[24308]=`<b>δημοσιόω-ῶ</b>, rendre public, <i>d’où</i> :<br><b>      1</b> faire connaître publiquement, publier, PLAT. <i>Soph. 232d ;</i> PLUT. <i>M. 507f.</i><br><b>      2</b> déclarer propriété de l’État, THC. <i>3, 68 ; particul</i>. confisquer, DC.<br><b>      3</b> convertir en domaine public, DH. <i>8, 74</i>.<p><b>Étym</b>. δημόσιος.`

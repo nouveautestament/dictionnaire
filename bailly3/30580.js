@@ -1,1 +1,0 @@
-lar[30580]=`<b>ῶν (αἱ)</b> les Eirésides, <i>dème attique de la tribu Akamantide,</i> DL. <i>3, 30</i>.`

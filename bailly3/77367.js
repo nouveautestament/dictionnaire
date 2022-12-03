@@ -1,1 +1,0 @@
-lar[77367]=`<b>ώτιδος</b>, <i>adj. f</i>. qui concerne la patrie, de la patrie, du pays, EUR. <i>Her. 755</i> ; LUC. <i>Scyth. 3</i>.<p><b>Étym</b>. πάτριος.`

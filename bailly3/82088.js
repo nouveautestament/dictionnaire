@@ -1,1 +1,0 @@
-lar[82088]=`<b>*πολυ·μανής</b>, <i>ion</i>. <b>πουλυ·μανής, ής, ές</b> <font color="purple">[ῠᾰ]</font> tout à fait fou, ANTH. <i>12, 87</i>.<p><b>Étym</b>. π. μαίνομαι.`

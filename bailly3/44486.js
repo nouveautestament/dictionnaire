@@ -1,1 +1,0 @@
-lar[44486]=`<b>Ζευξί·δημος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Zeuxidèmos, <i>h</i>. HDT. <i>6, 71</i>.<p>➳ <i>Dor</i>. Ζευξίδαμος <font color="purple">[ᾱ]</font> THC. <i>2, 47</i>.<p><b>Étym</b>. ζεύγνυμι, δῆμος.`

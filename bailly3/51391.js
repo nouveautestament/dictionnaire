@@ -1,1 +1,0 @@
-lar[51391]=`<b>ου (τὸ)</b> <i>au plur</i>. cadres d’acier faisant partie des ressorts de la χειροβάλλιστρα, ressorts balistiques, HÉRON <i>117, etc</i>.<p><b>Étym</b>. <i>probabl. dérivé de</i> κάμπτω.`

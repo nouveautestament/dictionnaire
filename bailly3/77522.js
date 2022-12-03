@@ -1,1 +1,0 @@
-lar[77522]=`<b>πεδ·αρτάω-ῶ</b>, <i>éol. et dor. c</i>. *μεταρτάω, redresser, corriger, réprimander, DL. <i>8, 20</i>.<p><b>Étym</b>. πεδά, ἀρτάω.`

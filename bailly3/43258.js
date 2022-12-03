@@ -1,1 +1,0 @@
-lar[43258]=`<b>εὐρυ·γένειος, ος, ον</b> <font color="purple">[ῠ]</font> de plusieurs générations, NONN. <i>D. 18, 345</i>.<p><b>Étym</b>. εὐ. γενεά.`

@@ -1,1 +1,0 @@
-lar[47573]=`<b>θρασύ·γυιος, ος, ον</b> <font color="purple">[ᾰῠγ]</font> aux membres hardis (victoire), <i>càd</i>. obtenue par le courage, PD. <i>P. 8, 37</i>.<p><b>Étym</b>. θρ. γυῖον.`

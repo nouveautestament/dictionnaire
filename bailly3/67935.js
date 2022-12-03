@@ -1,1 +1,0 @@
-lar[67935]=`<b>νέ·ηλυς, υδος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> nouveau venu, IL. <i>10, 434</i> ; HDT. <i>1, 118</i> ; PLAT. <i>Leg. 879d, etc</i>.<p><b>Étym</b>. ν. ἐλεύσομαι.`

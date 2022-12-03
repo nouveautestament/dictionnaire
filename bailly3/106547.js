@@ -1,1 +1,0 @@
-lar[106547]=`<b>η, ον</b> <font color="purple">[νῑ]</font> de palmier : οἶνος, PLUT. <i>M. 648e ; ou simpl</i>. ὁ φοινίκινος, EPHIPP. (ATH. <i>29d</i>) vin de palmier <i>ou</i> de dattes.<p><b>Étym</b>. φοῖνιξ.`

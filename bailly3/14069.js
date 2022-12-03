@@ -1,1 +1,0 @@
-lar[14069]=`<b>ας (ἡ) :<br>      1</b> destruction, ARSTT. <i>Nic. 4, 1, 5, etc.</i><br><b>      2</b> perte, perdition, POL. <i>6, 59</i> ; NT. <i>Matth. 7, 13 ; Joh. 17, 12 ; Ap. 25, 16, etc</i>.<p>➳ <i>Ion</i>. -είη, HPC. <i>1284, 44</i>.<p><b>Étym</b>. ἀπόλλυμι.`

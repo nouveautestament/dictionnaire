@@ -1,1 +1,0 @@
-lar[22058]=`<b>γλαυκ·όμματος, ος, ον</b> <font color="purple">[ᾰ]</font> aux yeux bleus, PLAT. <i>Phædr. 253e ;</i> EPIGR. (PLUT. <i>Cato ma. 1</i>) ; ANTH. <i>App. 309</i>.<p><b>Étym</b>. γλαυκός, ὄμμα.`

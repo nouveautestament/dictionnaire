@@ -1,1 +1,0 @@
-lar[80843]=`<b>πλειστο·γονέω-ῶ</b>, mettre au monde plusieurs enfants à la fois, PTOL. <i>Tetr. p. 136</i>.<p><b>Étym</b>. πλειστόγονος.`

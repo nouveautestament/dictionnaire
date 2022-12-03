@@ -1,1 +1,0 @@
-lar[74693]=`<b>παμ·βώτωρ, ορος (ὁ, ἡ)</b> qui nourrit tous les hommes, STASIN. <i>Cypr. fr. 1</i> (SCH.-IL. <i>1, 5).</i><p><b>Étym</b>. π. βόσκω.`

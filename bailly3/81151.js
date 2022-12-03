@@ -1,1 +1,0 @@
-lar[81151]=`<b>ίδος</b> <font color="purple">[ῐδ]</font><br><b>      1</b> <i>adj. f</i>. propre à laver : γῆ, TH. <i>C.P. 2, 4, 3</i>, terre alcaline dont on se servait pour laver.<br><b>      2</b> lessiveuse, AR. <i>fr. 642</i>.<p><b>Étym</b>. πλύνω.`

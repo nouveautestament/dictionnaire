@@ -1,1 +1,0 @@
-lar[24903]=`<b>δια·λαιμοτομέω-ῶ</b> (<i>seul. prés</i>.) couper pour avaler par morceaux, MNÉSIM. (ATH. <i>403a</i>).`

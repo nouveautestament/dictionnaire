@@ -1,1 +1,0 @@
-lar[15365]=`<b>ἀρτί·πλουτος, ος, ον</b>, qui consiste en richesses récemment acquises, EUR. <i>Suppl. 742</i>.<p><b>Étym</b>. ἄ. πλοῦτος.`

@@ -1,1 +1,0 @@
-lar[8620]=`<b>ης, ες</b> <font color="purple">[μᾰ]</font> en forme de dilatation, AÉT. <i>15, 10</i>.<p><b>Étym</b>. ἀνεύρυσμα, -ωδης.`

@@ -1,1 +1,0 @@
-lar[59362]=`<b>λαβρόω-ῶ</b>, <i>au moy</i>. <b>λαβρόομαι</b> <font color="purple">[α]</font> se ruer, LYC. <i>705</i>.<p><b>Étym</b>. λάβρος.`

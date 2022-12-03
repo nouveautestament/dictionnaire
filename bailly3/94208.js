@@ -1,1 +1,0 @@
-lar[94208]=`<b>συμ·περιπτύσσομαι</b>, embrasser <i>ou</i> contenir ensemble, BAS.`

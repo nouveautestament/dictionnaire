@@ -1,1 +1,0 @@
-lar[94399]=`<b>συμ·πυνθάνομαι</b> <font color="purple">[ᾰ]</font> s’informer ensemble <i>ou</i> en même temps de, <i>acc</i>. EUR. <i>Hel. 328</i>.`

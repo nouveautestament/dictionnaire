@@ -1,1 +1,0 @@
-lar[64114]=`<b>ου</b> <font color="purple">[ῐῑ]</font> <i>adj. m.</i> :<br><b>      1</b> μ. οἶνος, DIOSC. <i>5, 15,</i> vin sucré de miel.<br><b>      2</b> μ. λίθος, DIOSC. <i>5, 151</i> ; PLIN. <i>H.N. 36, 33,</i> topaze, <i>pierre précieuse jaune</i>.<p><b>Étym</b>. μέλι.`

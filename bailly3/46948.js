@@ -1,1 +1,0 @@
-lar[46948]=`<b>θερμο·δότις, ιδος</b>, <i>adj. f</i>. qui donne une boisson chaude, ANTH. <i>9, 183</i>.<p><b>Étym</b>. θ. δίδωμι.`

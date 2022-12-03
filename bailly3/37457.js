@@ -1,1 +1,0 @@
-lar[37457]=`<b>ἐπι·γηράσκω</b>, vieillir dans <i>ou</i> sur, JUL. <i>Ep. 24</i>.`

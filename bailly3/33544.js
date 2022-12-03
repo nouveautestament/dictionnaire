@@ -1,1 +1,0 @@
-lar[33544]=`<b>ή, όν</b>, qui fait naître, ARSTT. <i>Metaph. 4, 29, 5</i> ; DYSC. <i>Pron. 379a ;</i> SEXT. <i>232 Bkk</i>.<p><b>Étym</b>. ἐμποιέω.`

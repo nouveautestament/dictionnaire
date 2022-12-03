@@ -1,1 +1,0 @@
-lar[62610]=`<b>ος, ον</b> <font color="purple">[ᾰλᾰῐ]</font> préparé avec le bétel, DIOSC. <i>1, 75</i>.<p><b>Étym</b>. μαλάβαθρον.`

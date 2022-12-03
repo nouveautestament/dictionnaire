@@ -1,1 +1,0 @@
-lar[35253]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qu’il faut repousser <i>ou</i> fuir comme impur, maudit, criminel, ESCHN. <i>69, 34</i> ; DÉM. <i>798, 6</i> ; PLUT. <i>Popl. 4</i> ; DH. <i>6, 89</i> ; ἃ δ' ἐξάγιστα μηδὲ κινεῖται λόγῳ, SOPH. <i>O.C. 1526,</i> secret fatal auquel il ne faut pas toucher par la parole.<p><b>Étym</b>. ἐξαγίζω.`

@@ -1,1 +1,0 @@
-lar[64271]=`<b>(ὁ)</b> Memphis, <i>h</i>. ESCHL. <i>Pers. 970</i>.`

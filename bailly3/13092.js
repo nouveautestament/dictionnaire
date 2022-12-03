@@ -1,1 +1,0 @@
-lar[13092]=`<b>ή, όν</b>, qui remplit complètement, qui accomplit pleinement, JAMBL. <i>Myst. p. 71, 22 (conj</i>. ἀποπληρωτικός).<p><b>Étym</b>. *ἀποπλήρωμα, <i>de</i> ἀποπληρόω.`

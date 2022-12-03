@@ -1,1 +1,0 @@
-lar[99126]=`<b>τιθηνοκομέω-ῶ</b> <font color="purple">[ῐ]</font> donner les soins d’une nourrice, nourrir, PHIL.<p><b>Étym</b>. τιθηνοκόμος.`

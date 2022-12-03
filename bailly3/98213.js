@@ -1,1 +1,0 @@
-lar[98213]=`<b>εος-ους (τὸ)</b> impôt, tribut, CALL. <i>L. Pall. 106, Cer. 77</i>.<p><b>Étym</b>. τέλος, <i>cf</i>. ἄχθος <i>et</i> ἄχος.`

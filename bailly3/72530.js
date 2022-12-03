@@ -1,1 +1,0 @@
-lar[72530]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la fabrication des machines de tir, PHIL. BYZ. <i>Bel. 49</i>.<p><b>Étym</b>. <i>v</i>. ὀργανοποιός.`

@@ -1,1 +1,0 @@
-lar[93661]=`<b>εως (ἡ)</b> état d’animaux attelés au même joug, <i>d’où</i> :<br><b>      1</b> union par mariage, PLAT. <i>Leg. 930b ;</i> ARSTT. <i>Pol. 1, 3, 2, etc.</i><br><b>      2</b> <i>p. ext. en parl. de choses,</i> union étroite, combinaison, HPC. <i>Art. 792</i> ; PLAT. <i>Rsp. 508a ;</i> ARSTT. <i>Pol. 4, 4, 8</i>.<p><b>Étym</b>. συζεύγνυμι.`

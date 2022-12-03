@@ -1,1 +1,0 @@
-lar[82193]=`<b>πολυ·όμφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>propr</i>. à plusieurs nombrils, <i>d’où, p. anal.</i> :<br><b>      1</b> couvert de saillies <i>ou</i> de bosses, <i>en parl. d’un gâteau,</i> CLÉM. <i>19</i>.<br><b>      2</b> couvert de saillies, de boucliers, OPP. <i>C. 1, 218</i>.<p><b>Étym</b>. π. ὀμφαλός.`

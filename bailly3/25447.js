@@ -1,1 +1,0 @@
-lar[25447]=`<b>δια·ρραίω</b>, mettre en pièces, détruire complètement, IL. <i>2, 473</i> ; OD. <i>2, 49 ; au pass</i>. IL. <i>24, 355</i> ; ESCHL. <i>Pr. 236</i>.<p>➳ <i>Fut. moy. inf</i>. διαρραίσεσθαι, <i>au sens pass</i>. IL. <i>24, 355</i>.`

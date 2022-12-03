@@ -1,1 +1,0 @@
-lar[45504]=`<i>adv</i>., dans le rapport de un et demi à un, de trois à deux, <i>etc</i>. NICOM. <i>Arithm. 136</i> ; PROCL. <i>Plat. Tim. p. 208</i>.`

@@ -1,1 +1,0 @@
-lar[68778]=`<b>Νικο·μένης, ους (ὁ)</b> <font color="purple">[ῑ]</font> Nikoménès, <i>h</i>. LYS. <i>131 fin</i>.<p><b>Étym</b>. νικάω, μένος.`

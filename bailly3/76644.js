@@ -1,1 +1,0 @@
-lar[76644]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> débordement d’un fleuve, POL. <i>34, 10, 4</i> ; STR. <i>173</i>.<br><b>      2</b> épanchement d’humeurs, GAL. <i>19, 124</i>.<p><b>Étym</b>. παρεκχέω.`

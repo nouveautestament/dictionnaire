@@ -1,1 +1,0 @@
-lar[76198]=`<b>παρα·σκέπασμα, ατος (τὸ)</b> couverture sur le côté, CLÉM. <i>1, 533 Migne</i>.<p><b>Étym</b>. π. σκεπάζω.`

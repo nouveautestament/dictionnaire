@@ -1,1 +1,0 @@
-lar[76054]=`<b>παρα·πιέζω</b>, presser de côté, <i>acc</i>. ARCHIG. (ORIB. <i>2, 151 B.-Dar</i>.) ; SEXT. <i>232 Bkk</i>.`

@@ -1,1 +1,0 @@
-lar[14347]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> perception d’une contribution, XÉN. <i>Hell. 1, 1, 8</i>.<p><b>Étym</b>. ἀργυρολόγος.`

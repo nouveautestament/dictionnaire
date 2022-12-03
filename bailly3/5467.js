@@ -1,1 +1,0 @@
-lar[5467]=`<b>ἀ·μέριστος, ος, ον :<br>      1</b> non partagé, PLAT. <i>Tim. 35a, etc.</i><br><b>      2</b> indivisible, indistinct, PLAT. <i>Theæt. 205c ;</i> DYSC. <i>Adv. 541, 16</i>.<p><b>Étym</b>. ἀ, μερίζω.`

@@ -1,1 +1,0 @@
-lar[24887]=`<b>δια·κυμβαλίζω</b> <font color="purple">[βᾰ]</font> faire résonner comme des cymbales, <i>acc</i>. NYSS. <i>2, 253a Migne</i>.`

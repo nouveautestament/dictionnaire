@@ -1,1 +1,0 @@
-lar[33436]=`<b>ου (ὁ)</b> afficheur, ARSTT. <i>Ath. 64, 2</i>.<p><b>Étym</b>. ἐμπήγνυμι.`

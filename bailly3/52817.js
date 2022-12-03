@@ -1,1 +1,0 @@
-lar[52817]=`<b>κατα·μελετάω-ῶ :<br>      1</b> exercer, apprendre par l’exercice <i>ou</i> la pratique, <i>acc</i>. PLAT. <i>Phil. 55e, etc.</i><br><b>      2</b> méditer, se préparer à, <i>acc</i>. PLAT. <i>Clit. 410</i>.`

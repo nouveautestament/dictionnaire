@@ -1,1 +1,0 @@
-lar[21927]=`<b>γη·πάτταλος, ου (ὁ)</b> <font color="purple">[τᾰ]</font> <i>litt</i>. clou <i>ou</i> cheville en terre, <i>n. com. d’une</i> sorte de raifort <i>ou</i> de rave, LUC. <i>Lex. 2</i>.<p><b>Étym</b>. γῆ, π.`

@@ -1,1 +1,0 @@
-lar[19260]=`<b>(ὁ)</b> Basilée, <i>litt</i>. « le roi » :<br><b>      1</b> <i>n. d’h</i>. A.RH. <i>1, 1043</i> ; NIC. <i>Th. 715</i>.<br><b>      2</b> <i>surn. de Zeus, à Lébadéa et à Paros,</i> XÉN. <i>An. 3, 1, 12</i> ; PAUS. <i>etc</i>.<p><b>Étym</b>. <i>v</i>. βασιλεύς.`

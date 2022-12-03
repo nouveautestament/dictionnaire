@@ -1,1 +1,0 @@
-lar[35091]=`<b>ατος (τὸ)</b> morceau coupé, entaille, incision, XÉN. <i>Cyn. 2, 7</i>.<p><b>Étym</b>. ἐντέμνω.`

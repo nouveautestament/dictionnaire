@@ -1,1 +1,0 @@
-lar[13416]=`<b>ἀπο·στεγνόω-ῶ :<br>      1</b> fermer hermétiquement, HÉRON <i>Spir. 177</i>.<br><b>      2</b> <i>p. suite,</i> constiper, EROT. <i>Gl. p. 330</i>.`

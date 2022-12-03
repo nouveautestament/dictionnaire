@@ -1,1 +1,0 @@
-lar[107410]=`<b>οῦ</b> (ὁ, <i>postér</i>. ἡ) <font color="purple">[ᾰ]</font> coffre pour serrer des vêtements, IL. <i>24, 228</i> ; OD. <i>15, 104</i> ; A.RH. <i>3, 802</i>.<p>➳ ἡ φ. A.RH. <i>l.c</i>.`

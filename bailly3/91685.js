@@ -1,1 +1,0 @@
-lar[91685]=`<b>Σοω·ναύτης (ὁ)</b> Soônautès, <i>n. réc. du fl</i>. Akhérôn <i>en Bithynie,</i> A.RH. <i>2, 748</i>.<p><b>Étym</b>. σόος, ναύτης.`

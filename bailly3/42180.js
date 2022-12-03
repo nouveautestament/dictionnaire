@@ -1,1 +1,0 @@
-lar[42180]=`<i>adv</i>., en bon état, HPC. <i>Fract. 766</i> ; εὐ. ἔχειν πρός τι, DS. <i>Exc. 593, 5,</i> être propre à qqe ch.`

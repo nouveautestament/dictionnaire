@@ -1,1 +1,0 @@
-lar[90678]=`<b>οῦ</b> <font color="purple">[ᾰρῑ]</font> action de gratter superficiellement, <i>d’où</i> esquisse superficielle, <i>p. suite,</i> futilité, puérilité, AR. <i>Ran. 1497</i> (σκάριφος, style pour écrire <i>ou</i> pour dessiner, LEX.).`

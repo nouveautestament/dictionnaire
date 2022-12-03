@@ -1,1 +1,0 @@
-lar[62194]=`<b>λωτο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se nourrit des fruits du lotus, <i>càd</i>. de jujube : οἱ Λωτοφάγοι, OD. <i>9, 84</i> ; HDT. <i>4, 177</i> ; XÉN. <i>An. 3, 2, 25</i> ; TH. <i>H.P. 4, 3, 1</i> ; POL. <i>1, 39, 2, etc</i>. les Lotophages, <i>pple de Cyrénaïque, sur la côte d’Afrique</i>.<p><b>Étym</b>. λωτός, φαγεῖν.`

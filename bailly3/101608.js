@@ -1,1 +1,0 @@
-lar[101608]=`<b>ὑδρωπιάω-ῶ</b>, être hydropique, HPC. <i>Aph. 1260</i> ; ARSTT. <i>G.A. 5, 8, 13</i> ; TH. <i>fr. 7, 5</i> ; DIOSC. <i>3, 123</i> ; PLUT. <i>M. 136b, 403c</i>.<p><b>Étym</b>. ὕδρωψ.`

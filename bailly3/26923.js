@@ -1,1 +1,0 @@
-lar[26923]=`<b>α, ον</b> <font color="purple">[ῐᾰλ]</font> <i>c</i>. διπάλαιστος GEOP. <i>9, 10, 2</i>.`

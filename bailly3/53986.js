@@ -1,1 +1,0 @@
-lar[53986]=`<b>κατ·ευορκέω-ῶ</b>, jurer la vérité, GORG. (ARSTT. <i>Rhet. 3, 3</i>).`

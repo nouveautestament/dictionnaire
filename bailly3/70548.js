@@ -1,1 +1,0 @@
-lar[70548]=`<b>α, ον</b>, d’Œnops : Οἰ. ῥίζα, GAL. <i>5, 447, sorte de plante</i>.<p><b>Étym</b>. Οἶνοψ.`

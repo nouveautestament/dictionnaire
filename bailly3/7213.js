@@ -1,1 +1,0 @@
-lar[7213]=`<b>ἀνα·μοχλεύω :<br>      1</b> soulever avec un levier, LUC. <i>Char. 4</i>.<br><b>      2</b> forcer (une porte) avec un levier, EUR. <i>Med. 1317 ; fig</i>. amener de force au grand jour, HLD. <i>1, 8, p. 13</i>.`

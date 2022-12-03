@@ -1,1 +1,0 @@
-lar[42126]=`<b>εὐ·ήνιος, ος, ον</b>, docile au frein, facile à conduire (char, cheval, <i>etc</i>.) PLAT. <i>Phædr. 247b, etc. ; en parl. de pers</i>. docile, doux, PLAT. <i>Leg. 730b ; fig</i>. facile à soigner, HPC. <i>562, 50</i>.<p>•<i> Sup</i>. -ώτατος, PLAT. <i>Rsp. 467e</i>.<p><b>Étym</b>. εὖ, ἡνία.`

@@ -1,1 +1,0 @@
-lar[43920]=`<b>εως (ἡ)</b> action d’adapter, d’ajuster, <i>d’où</i> convenance, harmonie, T. LOCR. <i>95c</i>.<p><b>Étym</b>. ἐφαρμόζω.`

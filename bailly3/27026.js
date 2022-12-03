@@ -1,1 +1,0 @@
-lar[27026]=`<b>δισκο·βόλος, ου (ὁ)</b> lanceur de disque, le Discobole, <i>statue célèbre du sculpteur Myron,</i> LUC. <i>Philops. 18</i>.<p><b>Étym</b>. δίσκος, βάλλω.`

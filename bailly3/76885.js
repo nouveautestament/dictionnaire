@@ -1,1 +1,0 @@
-lar[76885]=`<b>ας (ἡ)</b> virginité, EUR. <i>Tr. 980, etc</i>.<p><b>Étym</b>. παρθένος.`

@@ -1,1 +1,0 @@
-lar[44487]=`<b>ζευξί·λεως, ω (ὁ, ἡ)</b> qui maintient le peuple <i>ou</i> les peuples (sous le joug) SOPH. <i>fr. 133</i>.<p><b>Étym</b>. ζεύγνυμι, λεώς.`

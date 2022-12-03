@@ -1,1 +1,0 @@
-lar[62558]=`<b>(ὁ)</b> Macroseiris, <i>n. égypt</i>. PHLÉG. TR. <i>Mir. fr. 46, p. 622</i>.<p><b>Étym</b>. μάκαρ Ὄσειρις, <i>conj. Mein</i>.`

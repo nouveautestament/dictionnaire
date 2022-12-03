@@ -1,1 +1,0 @@
-lar[49943]=`<b>ου (ὁ)</b> Itabélios, <i>Perse,</i> XÉN. <i>An. 7, 8, 15</i>.`

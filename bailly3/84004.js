@@ -1,1 +1,0 @@
-lar[84004]=`<b>ου (ὁ) :<br>      1</b> traître, HDT. <i>8, 30, 144</i> ; τῶν ὅρκων, LYS. (DH. <i>Lys. 14</i>) traître à ses serments.<br><b>      2</b> <i>particul</i>. déserteur, XÉN. <i>An. 6, 6, 5 ; Hell. 7, 3, 7 ; en gén</i>. celui qui abandonne qqn dans le danger, ESCHL. <i>Pr. 1068, etc</i>.<p><b>Étym</b>. προδίδωμι.`

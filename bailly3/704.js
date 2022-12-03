@@ -1,1 +1,0 @@
-lar[704]=`<b>ἀγλαό·κρανος, ος, ον</b> <font color="purple">[ᾱν]</font> <i>dor</i>. à la belle source, PD. <i>N. 3, 56</i>.<p><b>Étym</b>. ἀ. κρήνη.`

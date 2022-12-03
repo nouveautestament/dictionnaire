@@ -1,1 +1,0 @@
-lar[101642]=`<b>ου (ὁ)</b> Hyèttos, <i>fondateur du village de ce n. en Béotie,</i> HÉS. <i>fr. 82, 1 Göttling</i>.`

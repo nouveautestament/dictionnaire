@@ -1,1 +1,0 @@
-lar[25305]=`<b>ατος (τὸ)</b> vent qui souffle à travers, HPC. <i>Aër. 291 dout</i>.<p><b>Étym</b>. διαπνέω.`

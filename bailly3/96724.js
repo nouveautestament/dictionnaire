@@ -1,1 +1,0 @@
-lar[96724]=`<b>συ·στύφω</b> <font color="purple">[τῡ]</font> contracter, resserrer, HPC. <i>369, 23</i>.`

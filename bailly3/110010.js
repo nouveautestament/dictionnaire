@@ -1,1 +1,0 @@
-lar[110010]=`<b>ή, όν</b>, refroidi ; <i>subst</i>. τὸ ψυχριστόν, A. TR. <i>5, p. 245 ; 11, p. 645,</i> sorte de remède.<p><b>Étym</b>. <i>vb. de</i> ψυχρίζω.`

@@ -1,1 +1,0 @@
-lar[57494]=`<b>όνος (ἡ)</b> sorte de crabe <i>ou</i> de crevette, ARSTT. <i>H.A. 4, 2, 12</i>.`

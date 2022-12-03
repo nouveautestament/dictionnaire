@@ -1,1 +1,0 @@
-lar[108526]=`<b>ας (ἡ)</b> <font color="purple">[χῐ]</font> vêtement, MÉLAMP. <i>Div. ex nævis p. 508 fr</i>.<p><b>Étym</b>. χιτών.`

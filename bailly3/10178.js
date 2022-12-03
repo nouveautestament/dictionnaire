@@ -1,1 +1,0 @@
-lar[10178]=`<b>ἀντι·παραθεωρέω-ῶ</b>, comparer en opposant, NYSS. <i>1, 873, etc</i>.`

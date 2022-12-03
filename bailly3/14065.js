@@ -1,1 +1,0 @@
-lar[14065]=`<b>ἀπ·ῳδός, ός, όν :<br>      1</b> qui détonne, discordant, EUR. <i>Cycl. 488 ; fig</i>. déraisonnable, absurde, LUC. <i>Pisc. 34</i>.<br><b>      2</b> qui ne chante plus, LUC. <i>Lex. 6</i>.<p><b>Étym</b>. ἀ. ᾠδή.`

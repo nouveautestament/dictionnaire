@@ -1,1 +1,0 @@
-lar[85188]=`<b>προσ·ανατρίβω</b> <font color="purple">[ῑ]</font> frotter contre, <i>rég. ind. au dat</i>. EL. <i>N.A. 6, 1</i>.<br><b><i>Moy.</i></b> se frotter contre, <i>d’où</i> s’exercer à lutter <i>ou</i> à discuter contre, PLAT. <i>Theæt. 169c ;</i> TH. <i>Char. 27</i> ; PLUT. <i>M. 751f</i>.`

@@ -1,1 +1,0 @@
-lar[72302]=`<b>ας (ἡ)</b> <font color="purple">[ῠλᾰ]</font> arrière-garde, XÉN. <i>An. 4, 6, 19</i>.<p><b>Étym</b>. ὀπισθοφύλαξ.`

@@ -1,1 +1,0 @@
-lar[75139]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰν]</font> trait de fourberie <i>ou</i> de méchanceté, SOPH. <i>El. 1387, etc</i>.<p><b>Étym</b>. πανουργέω.`

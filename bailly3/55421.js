@@ -1,1 +1,0 @@
-lar[55421]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> thorax <i>ou</i> partie supérieure de la poitrine, HPC. <i>409, 44 ; 412, 15, etc.</i><br><b>      2</b> poisson plat, sorte de sole, ARSTT. <i>H.A. 2, 17</i> ; ATH. <i>306</i> ; XÉNOCR. <i>Al. 27</i> ; GAL. <i>6, 394</i>.<p><b>Étym</b>. κιθάρα.`

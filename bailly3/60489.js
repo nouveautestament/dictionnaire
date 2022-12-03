@@ -1,1 +1,0 @@
-lar[60489]=`<i>c</i>. λεσχάζω PÉRICT. (STOB. <i>Fl. 89, 19</i>) ; CALL. <i>fr. 98b</i>.`

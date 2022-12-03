@@ -1,1 +1,0 @@
-lar[51319]=`<b>ου (τὸ)</b> petit vase, ATH. <i>475c</i>.<p><b>Étym</b>. <i>dim. de</i> κάλπη.`

@@ -1,1 +1,0 @@
-lar[60809]=`<b>ου (ἡ)</b> Lemnos (<i>auj</i>. Límnos, <i>anc</i>. Staliméni) <i>î. de la mer Égée,</i> IL. <i>1, 593, etc.</i> ; OD. <i>8, 283 ; cf</i>. ESCHL. <i>Pers. 884, etc.</i> ; SOPH. <i>Ph. 2, etc.</i> ; HDT. <i>4, 145, etc.</i> ; THC. <i>1, 115, etc.</i> ; XÉN. <i>Hell. 4, 8, 15, etc</i>.<p>➳ <i>Dor</i>. Λᾶμνος, PD. <i>fr. 182</i>.`

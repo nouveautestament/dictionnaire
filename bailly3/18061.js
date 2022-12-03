@@ -1,1 +1,0 @@
-lar[18061]=`<b>ας (ἡ)</b> sorte de plante sauvage, <i>p.-ê</i>. le tussilage, TH. <i>H.P. 7, 7, 3</i>.`

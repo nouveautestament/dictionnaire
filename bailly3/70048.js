@@ -1,1 +1,0 @@
-lar[70048]=`<b>ά, όν</b>, volumineux, gros, enflé, gonflé, HPC. <i>106d ;</i> ARSTT. <i>Probl. 24, 10 ; fig</i>. τὸ ὀγκ. ARSTT. <i>Nic. 4, 7,</i> l’enflure ; <i>en parl. du style,</i> D. PHAL. <i>§ 176</i>.<p>•<i> Cp</i>. -οτερος, ARSTT. <i>Probl. 10, 54</i>.<p><b>Étym</b>. ὄγκος.`

@@ -1,1 +1,0 @@
-lar[70232]=`<i>interj. c</i>. οἴ <i>par jeu de mots avec</i> ὄϊ, <i>dat. de</i> ὄϊς, AR. <i>Pax 741</i>.`

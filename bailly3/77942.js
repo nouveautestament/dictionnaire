@@ -1,1 +1,0 @@
-lar[77942]=`<b>ας (ἡ)</b> la Pauvreté <i>personnifiée,</i> PLAT. <i>Conv. 203b ;</i> PLUT. <i>Them. 21, etc</i>.<p>➳ <i>Ion</i>. Πενίη, HDT. <i>8, 111</i>.<p><b>Étym</b>. πένομαι.`

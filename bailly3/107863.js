@@ -1,1 +1,0 @@
-lar[107863]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰῑ]</font> qui se sert d’un roseau : βιβλιακός, TIMON (ATH. <i>22d</i>) pour écrire <i>ou</i> copier un livre, écrivain, copiste.<p><b>Étym</b>. χάραξ.`

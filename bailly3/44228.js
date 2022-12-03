@@ -1,1 +1,0 @@
-lar[44228]=`<b>ης (ἡ)</b> bon sens, sagesse, prudence, ANTH. <i>9, 767</i>.<p><b>Étym</b>. ἐχέφρων.`

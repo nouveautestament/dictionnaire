@@ -1,1 +1,0 @@
-lar[110326]=`(<i>seul. prés</i>.) avoir envie d’acheter, DC. <i>47, 14</i>.<p><b>Étym</b>. ὠνέομαι.`

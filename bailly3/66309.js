@@ -1,1 +1,0 @@
-lar[66309]=`<b>μοιρο·θεσία, ας (ἡ)</b> détermination des degrés, PROCL. <i>Ptol. p. 187</i>.<p><b>Étym</b>. μοῖρα, θετός.`

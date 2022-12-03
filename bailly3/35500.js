@@ -1,1 +1,0 @@
-lar[35500]=`<b>ἐξ·ανθρωπίζω :<br>      1</b> rendre humain, donner un caractère humain à, <i>acc</i>. PLUT. <i>M. 360a.</i><br><b>      2</b> mesurer d’après les besoins de la nature humaine, HPC. <i>259, 16</i>.<p><b>Étym</b>. ἐξ, ἄνθρωπος.`

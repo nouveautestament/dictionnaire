@@ -1,1 +1,0 @@
-lar[11067]=`<b>ἀ·όχλητος, ος, ον</b>, non troublé, tranquille, DH. <i>1, 8</i> ; LUC. <i>Par. 11, etc</i>.<p><b>Étym</b>. ἀ, ὀχλέω.`

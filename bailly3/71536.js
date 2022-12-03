@@ -1,1 +1,0 @@
-lar[71536]=`<b>ὁμοιοπαθέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> être affecté de même que, sympathiser avec, <i>dat</i>. ARSTT. <i>Nic. 1, 5, 3</i>.<br><b>      2</b> être homogène, STR. <i>6</i>.<p><b>Étym</b>. ὁμοιοπαθής.`

@@ -1,1 +1,0 @@
-lar[16139]=`<b>ἀστατέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[τᾰ]</font><br><b>      1</b> être agité, n’être jamais en repos, ANTH. <i>App. 39</i>.<br><b>      2</b> être errant, vagabond, NT. <i>1Cor. 4, 11</i>.<p><b>Étym</b>. ἄστατος.`

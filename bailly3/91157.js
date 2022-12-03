@@ -1,1 +1,0 @@
-lar[91157]=`<b>σκορδό·πρασον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> rocambole, <i>litt</i>. ail-poireau, <i>sorte d’ail moins âcre,</i> DIOSC. <i>2, 182</i>.<p><b>Étym</b>. σκόρδον, πράσον.`

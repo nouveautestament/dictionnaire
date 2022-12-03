@@ -1,1 +1,0 @@
-lar[83823]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> προβούλευμα LUC. <i>Par. 42</i> ; ALCIPHR. <i>3, 22</i>.`

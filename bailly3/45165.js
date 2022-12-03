@@ -1,1 +1,0 @@
-lar[45165]=`<b>ου (ὁ)</b> Èleios, <i>h</i>. IS. <i>2, 9 Baiter-Sauppe,</i> STÉSIMBR. (PLUT. <i>Cim. 16</i>).`

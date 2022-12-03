@@ -1,1 +1,0 @@
-lar[57451]=`<b>ῆρος (ὁ)</b> qui soulage, CHIR. <i>p. 102</i>.<p><b>Étym</b>. κουφίζω.`

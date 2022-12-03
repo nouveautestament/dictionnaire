@@ -1,1 +1,0 @@
-lar[13217]=`<b>ου (τὸ)</b> vase d’eau lustrale, EUR. <i>Ion 435</i>.<p><b>Étym</b>. ἀπορραίνω.`

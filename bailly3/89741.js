@@ -1,1 +1,0 @@
-lar[89741]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m.</i> :<br><b>      1</b> de la lune : λίθος, DIOSC. <i>5, 159,</i> sélénite, <i>minéral appelé aussi</i> ἀφροσέληνον.<br><b>      2</b> habitant de la lune, LUC. <i>V.H. 1, 18</i>.<p><b>Étym</b>. σελήνη.`

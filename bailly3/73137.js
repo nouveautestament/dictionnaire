@@ -1,1 +1,0 @@
-lar[73137]=`<b>ή, όν</b>, sombre, obscur, NIC. <i>Th. 656</i>.<p>•<i> Cp</i>. -ότερος, NIC. (ATH. <i>684e</i>).<p><b>Étym</b>. <i>cf</i>. ὄρφνη.`

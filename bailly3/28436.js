@@ -1,1 +1,0 @@
-lar[28436]=`<b>δυσ·επούλωτος, ος, ον</b> <font color="purple">[ῠ]</font> qui se cicatrise difficilement, GAL. <i>6, 418</i>.<p><b>Étym</b>. δ. ἐπουλόω.`

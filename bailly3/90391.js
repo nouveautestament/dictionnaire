@@ -1,1 +1,0 @@
-lar[90391]=`passer au crible, trier, NT. <i>Luc. 22, 31</i>.<p><b>Étym</b>. σινίον, crible, ECCL. <i>de</i> σίνος.`

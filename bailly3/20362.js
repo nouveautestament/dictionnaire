@@ -1,1 +1,0 @@
-lar[20362]=`<b>ου (τὸ)</b> Boudeion, <i>v. de Magnésie (sel. d’autres, de Phthiotide)</i> IL. <i>16, 572</i>.`

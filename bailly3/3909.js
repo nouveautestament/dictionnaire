@@ -1,1 +1,0 @@
-lar[3909]=`<b>ἀκταινόω-ῶ</b>, mouvoir vivement, <i>d’où</i> élever vivement, PLAT. <i>Leg. 672c</i>.<p><b>Étym</b>. ἀκτός.`

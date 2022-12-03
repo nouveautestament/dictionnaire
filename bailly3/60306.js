@@ -1,1 +1,0 @@
-lar[60306]=`<b>Λεξι·φάνης, ους (ὁ)</b> <font color="purple">[ῐᾰ]</font> Lexiphanès, <i>litt</i>. qui fait étalage de mots :<br><b>      1</b> <i>titre d’un ouvrage de Lucien</i>.<br><b>      2</b> <i>n. d’un poète comique,</i> ALCIPHR. <i>3, 11</i>.<p><b>Étym</b>. λέξις, φαίνω.`

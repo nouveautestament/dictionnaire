@@ -1,1 +1,0 @@
-lar[62934]=`<b>(ἡ)</b> <i>indécl. c</i>. Μαρία, NT. <i>Matth. 1, 20, etc.</i> ; ANTH. <i>8, 28</i>.`

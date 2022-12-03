@@ -1,1 +1,0 @@
-lar[11346]=`<i>adv</i>., sans préparation, sans apprêts, POL. <i>1, 45, 7 ; 14, 10, 7</i>.`

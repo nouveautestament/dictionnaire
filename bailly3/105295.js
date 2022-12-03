@@ -1,1 +1,0 @@
-lar[105295]=`<b>φθερσί·βροτος, ος, ον</b>, qui fait périr les mortels, EPIGR. (PAUS. <i>3, 8, 5</i>) ; ANTH. <i>6, 158</i>.<p><b>Étym</b>. φθείρω, βροτός.`

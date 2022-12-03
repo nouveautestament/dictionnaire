@@ -1,1 +1,0 @@
-lar[7139]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui peut être dissous, PLOT. <i>Enn. 457</i>.<p><b>Étym</b>. ἀναλύω.`

@@ -1,1 +1,0 @@
-lar[47357]=`<b>θησαυρο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien du trésor, trésorier, DS. <i>18, 58 ; 19, 18</i> ; POLYEN <i>4, 9, 4</i>.<p><b>Étym</b>. θ. φύλαξ.`

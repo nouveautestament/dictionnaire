@@ -1,1 +1,0 @@
-lar[508]=`<b>ἀ·γέραστος, ος, ον</b>, non récompensé, non honoré, IL. <i>1, 119</i> ; HÉS. <i>Th. 395</i> ; EUR. <i>Hec. 117, etc. ; avec un gén</i>. ἀγ. θυέων, A.RH. <i>3, 65,</i> non honoré par des sacrifices.<p><b>Étym</b>. ἀ, γέρας.`

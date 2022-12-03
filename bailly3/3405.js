@@ -1,1 +1,0 @@
-lar[3405]=`<b>οῦ (ὁ)</b> façons, simagrées, PHILÉM. (ATH. <i>569f</i>) ; LUC. <i>Am. 42</i>.<p><b>Étym</b>. ἀκκίζω.`

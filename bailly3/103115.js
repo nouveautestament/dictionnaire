@@ -1,1 +1,0 @@
-lar[103115]=`<b>ατος (τὸ) :<br>      1</b> signe, marque, indice, XÉN. <i>Eq. 2, 2</i>.<br><b>      2</b> modèle, exemple, POL. <i>3, 17, 8</i> ; ANTH. <i>6, 342</i>.<p><b>Étym</b>. ὑποδείκνυμι.`

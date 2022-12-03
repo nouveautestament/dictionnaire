@@ -1,1 +1,0 @@
-lar[17591]=`<b>αὐτο·μέγεθος, ους (τὸ)</b> la grandeur en soi, PROCL.`

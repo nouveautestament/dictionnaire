@@ -1,1 +1,0 @@
-lar[47709]=`<b>ης (ἡ)</b> <font color="purple">[ῐᾰῑ]</font><br><b>      1</b> laitue sauvage, TH. <i>H.P. 4, 7</i> ; CRAT. (<i>Com. fr. 2, 178</i>) ; EUB. <i>3, 210 Meineke</i> ; AMPH. (<i>Com. fr. 3, 308</i>).<br><b>      2</b> <i>sorte de gâteau,</i> ATH. <i>114f</i>.<p><b>Étym</b>. <i>fém. de</i> θριδάκινος.`

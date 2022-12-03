@@ -1,1 +1,0 @@
-lar[18123]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec des sentiments hostiles, ESCHL. <i>Ag. 805</i>.`

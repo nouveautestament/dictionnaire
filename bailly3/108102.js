@@ -1,1 +1,0 @@
-lar[108102]=`<b>χειρ·επιθεσία, ας (ἡ)</b> imposition des mains, CORNEL. (EUS. <i>H.E. 6, 43</i>).`

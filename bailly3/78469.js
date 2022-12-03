@@ -1,1 +1,0 @@
-lar[78469]=`<b>περι·βρυής, ής, ές</b>, qui croît tout alentour <i>ou</i> en abondance, NIC. <i>Th. 531, 841</i>.<p><b>Étym</b>. π. βρύω.`

@@ -1,1 +1,0 @@
-lar[47827]=`<b>ήεσσα, ῆεν :<br>      1</b> qui exhale le parfum de l’encens, IL. <i>8, 48 ; 23, 148</i> ; OD. <i>8, 363</i> ; HÉS. <i>Th. 557</i>.<br><b>      2</b> parfumé, HH. <i>Merc. 237</i>.<p><b>Étym</b>. θύος.`

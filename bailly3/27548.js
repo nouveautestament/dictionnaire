@@ -1,1 +1,0 @@
-lar[27548]=`<b>ας (ἡ)</b> ambition de la gloire <i>ou</i> des honneurs, PLUT. <i>Per. 5 (var</i>. -κομπία, arrogance), <i>M. 791b ;</i> LUC. <i>Per. 2 et 12</i> ; APP. <i>Hann. 9 et 17, Civ. 2, 44</i>.<p><b>Étym</b>. δοξοκόπος.`

@@ -1,1 +1,0 @@
-lar[63921]=`<b>μελαν·τραγής, ής, ές</b> <font color="purple">[ᾰγ]</font> noir et bon à manger, <i>en parl. de figues,</i> ANTH. <i>6, 299</i>.<p><b>Étym</b>. μέλας, τραγεῖν.`

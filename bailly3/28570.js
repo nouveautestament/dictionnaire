@@ -1,1 +1,0 @@
-lar[28570]=`<b>δύσ·καυστος, ος, ον</b>, qui brûle difficilement, APD. POL. <i>14</i>.<p><b>Étym</b>. δ. καίω.`

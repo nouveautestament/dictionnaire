@@ -1,1 +1,0 @@
-lar[25028]=`<b>οῦ (ὁ)</b> démembrement, PLUT. <i>M. 355b</i>.<p><b>Étym</b>. διαμελίζω.`

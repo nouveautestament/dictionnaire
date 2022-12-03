@@ -1,1 +1,0 @@
-lar[86704]=`<b>ίτιδος (ἡ)</b> l’î. Prosôpitis, <i>dans la Basse-Égypte, à l’embouchure du Nil,</i> HDT. <i>2, 41, 165</i> ; THC. <i>1, 109, etc</i>.`

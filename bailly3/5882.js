@@ -1,1 +1,0 @@
-lar[5882]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> d’amande <i>ou</i> d’amandier, ATH. <i>649d</i>.<p><b>Étym</b>. ἀμυγδάλη.`

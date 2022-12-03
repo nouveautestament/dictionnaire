@@ -1,1 +1,0 @@
-lar[80183]=`<font color="purple">[ῑῡ]</font> (<i>seul. prés. et impf</i>.) sourdre, jaillir, PLUT. <i>Æmil. 14</i> ; ANTH. <i>9, 322 ; 10, 13</i>.<br><b><i>Moy.</i></b> (<i>prés. 3 sg</i>. πιδύεται) <i>m. sign</i>. NIC. <i>Th. 302</i>.<p><b>Étym</b>. πῖδαξ.`

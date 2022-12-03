@@ -1,1 +1,0 @@
-lar[77970]=`<b>ας (ἡ)</b> durée de cinq ans, DH. <i>8, 75</i> ; PLUT. <i>Per. 13</i>.<p><b>Étym</b>. πενταετής.`

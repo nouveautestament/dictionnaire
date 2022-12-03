@@ -1,1 +1,0 @@
-lar[27580]=`<b>έως (ὁ)</b> coup de dés, EUB. <i>3, 233 Meineke</i>.<p><b>Étym</b>. δόρυ.`

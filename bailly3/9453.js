@@ -1,1 +1,0 @@
-lar[9453]=`<b>ἀντ·αναλίσκω</b> <font color="darkgreen">(<i>f</i>. -αλώσω)</font> <font color="purple">[ᾱλ]</font> faire périr en retour, EUR. <i>Or. 1165</i>.`

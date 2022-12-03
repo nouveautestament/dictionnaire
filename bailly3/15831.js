@@ -1,1 +1,0 @@
-lar[15831]=`<b>ης, ες</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἀσθματικός HPC. <i>1014g, etc</i>.<p><b>Étym</b>. ἆσθμα, -ωδης.`

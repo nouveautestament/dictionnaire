@@ -1,1 +1,0 @@
-lar[74390]=`<b>ου (ὁ)</b> = <i>lat</i>. Pacorus, <i>chef des Parthes,</i> PLUT. <i>Crass. 33, etc</i>.`

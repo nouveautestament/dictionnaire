@@ -1,1 +1,0 @@
-lar[30700]=`<b>*εἰσ·αυγάζω</b>, <i>ion</i>. <b>ἐσ·αυγάζω</b> (<i>part. prés</i>.) jeter les yeux sur, ANTH. <i>5, 106</i>.`

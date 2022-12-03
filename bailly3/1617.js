@@ -1,1 +1,0 @@
-lar[1617]=`<b>ἀ·δώτης, ου (ὁ)</b> qui ne donne pas volontiers, HÉS. <i>O. 353</i>.<p><b>Étym</b>. ἀ, δίδωμι.`

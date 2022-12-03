@@ -1,1 +1,0 @@
-lar[79718]=`<b>περί·ωνυμος, ος, ον</b> <font color="purple">[ῠ]</font> renommé alentour, ORPH. <i>Arg. 147</i> ; APP. <i>Civ. 2, 2, etc</i>.<p><b>Étym</b>. π. ὄνομα.`

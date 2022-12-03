@@ -1,1 +1,0 @@
-lar[37690]=`<b>ἐπι·δυσφημέω-ῶ</b>, donner un mauvais nom à, <i>dat</i>. ARSTT. <i>Nic. 7, 1, 3</i>.`

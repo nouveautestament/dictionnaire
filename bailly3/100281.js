@@ -1,1 +1,0 @@
-lar[100281]=`<b>τρι·μάκαιρα, ας</b> <font color="purple">[ῐμᾰ]</font> trois fois heureuse, bienheureuse, ANTH. <i>7, 614 ; 9, 396</i>.<p><b>Étym</b>. τρ. μάκαιρα.`

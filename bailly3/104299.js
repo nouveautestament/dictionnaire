@@ -1,1 +1,0 @@
-lar[104299]=`<b>ου (ὁ)</b> Hystækhmas, <i>Perse,</i> ESCHL. <i>Pers. 972</i>.`

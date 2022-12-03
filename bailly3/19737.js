@@ -1,1 +1,0 @@
-lar[19737]=`<b>υος (ὁ)</b> Bithys :<br><b>      1</b> <i>fils d’Arès, auquel on rattachait l’origine des Bithyniens,</i> APP.<br><b>      2</b> <i>autres,</i> PLUT. ATH. <i>etc</i>.`

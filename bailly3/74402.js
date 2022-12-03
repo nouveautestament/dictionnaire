@@ -1,1 +1,0 @@
-lar[74402]=`<b>οῦ (ὁ)</b> Paktôlos (le Pactole, <i>auj</i>. Sart Çayı) <i>fl. de Lydie,</i> HDT. <i>5, 101</i> ; XÉN. <i>Cyr. 6, 2, 11, etc.</i> ; SOPH. <i>Ph. 394, etc</i>.`

@@ -1,1 +1,0 @@
-lar[46894]=`<b>θερει·λεχής, ής, ές</b>, sous lequel on se couche pendant la chaleur, NIC. <i>Th. 385</i>.<p><b>Étym</b>. θέρος, λέχος.`

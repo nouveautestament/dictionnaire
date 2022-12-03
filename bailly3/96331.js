@@ -1,1 +1,0 @@
-lar[96331]=`<b>συν·τηρέω-ῶ :<br>   I</b> conserver :<br><b>      1</b> conserver <i>ou</i> préserver avec soin, <i>acc</i>. ARSTT. <i>Plant. 1, 1, 12,</i> NT. <i>Luc. 2, 19</i>.<br><b>      2</b> conserver un secret, POL. <i>31, 6, 5</i>.<br><b>   II</b> observer, surveiller (l’occasion) PLUT. <i>Marc. 12</i>.`

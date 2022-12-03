@@ -1,1 +1,0 @@
-lar[108740]=`<b>χολοι·βόρος, ος, ον</b>, qui ronge comme la bile, NIC. <i>Th. 593</i>.<p><b>Étym</b>. χόλος, βιβρώσκω.`

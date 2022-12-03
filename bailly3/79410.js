@@ -1,1 +1,0 @@
-lar[79410]=`<b>περι·στοιχίζω</b>, tendre des filets tout autour, <i>d’où</i> envelopper, POL. <i>8, 5, 2</i> ; JOS. <i>A.J. 17, 2, 4 ; au pass</i>. être enveloppé, entouré, DS. <i>39, 29, etc.</i> ; JOS. <i>A.J. 17, 8, 1, etc.</i> ; HLD. <i>7, 4, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. DÉM. <i>43, 1 ; 72, 13</i> ; DC. <i>39, 3</i>.<p><b>Étym</b>. περίστοιχος.`

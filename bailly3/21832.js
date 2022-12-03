@@ -1,1 +1,0 @@
-lar[21832]=`<b>εως (ἡ) :<br>      1</b> action de goûter à, dégustation, PLUT. <i>etc.</i><br><b>      2</b> le sens du goût, ARSTT. <i>Nic. 3, 10, 8, etc.</i><br><b>      3</b> goût (d’une chose), saveur, GEOP. <i>5, 7, 3 ; 7, 15, 4</i>.<br><b>      4</b> ce qu’on goûte, aliment, SPT. <i>Sap. 16, 2</i>.<p><b>Étym</b>. γεύω.`

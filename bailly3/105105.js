@@ -1,1 +1,0 @@
-lar[105105]=`<font color="purple">[ᾱ]</font> tromper : τινά, AR. <i>Pax 1087, Pl. 271</i> ; DÉM. <i>20, 5,</i> qqn ; τινά τι, DÉM. <i>363, 29,</i> qqn en qqe ch. ; <i>au pass</i>. DÉM. <i>73, 1</i> ; τι ὑπό τινος, AR. <i>Ran. 921,</i> être trompé en qqe ch. par qqn.<p><b>Étym</b>. φέναξ.`

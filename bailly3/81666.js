@@ -1,1 +1,0 @@
-lar[81666]=`<b>πολο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> description du ciel, <i>titre d’un ouvrage de Démocrite,</i> DL. <i>9, 48</i>.<p><b>Étym</b>. πόλος, γράφω.`

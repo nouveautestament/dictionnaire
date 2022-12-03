@@ -1,1 +1,0 @@
-lar[99886]=`<b>ατος (τὸ)</b> emplâtre de cire blanche <i>ou</i> vierge, HIPPIATR. (<i>v</i>. τρακτός.).`

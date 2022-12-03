@@ -1,1 +1,0 @@
-lar[86349]=`<b>ή, όν</b> <i>ou</i> <b>προσποίητος, ος, ον</b>, feint, simulé, PLAT. <i>Lys. 222a ;</i> DÉM. <i>1334 fin</i> ; ARSTT. <i>Virt. et vit. 7, 2 ; adv</i>. προσποιητά, BABR. <i>103, 5 ; 106, 17,</i> par feinte.<p>➳ προσποίητος, ος, ον, DIN. <i>110, 34</i>.<p><b>Étym</b>. <i>vb. de</i> προσποιέω.`

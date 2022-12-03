@@ -1,1 +1,0 @@
-lar[48591]=`<b>ἱερο·θύτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> sacrificateur, PAUS. <i>8, 42, 12</i>.<p><b>Étym</b>. ἱ. θύω.`

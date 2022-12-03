@@ -1,1 +1,0 @@
-lar[79623]=`<b>περι·φραδής, ής, ές</b> <font color="purple">[ᾰ]</font> très habile, prudent, HH. <i>Merc. 464</i> ; SOPH. <i>Ant. 348</i>.<p><b>Étym</b>. π. φράζομαι.`

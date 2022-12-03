@@ -1,1 +1,0 @@
-lar[31981]=`<b>ἐκ·πυρόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> consumer par le feu, brûler, incendier, EUR. <i>I.A. 1070, H.f. 421</i>.<br><b>      2</b> enflammer, ARSTT. <i>Meteor. 1, 3</i>.<br><b>      3</b> chauffer à blanc, POL. <i>12, 25, 2</i>.`

@@ -1,1 +1,0 @@
-lar[65685]=`<i>ou</i> <b>Μικκύλος, ου (ὁ)</b> Mikkylos, <i>h</i>. CRAT. (PLUT. <i>Vit. aer. al. 7).</i><p><b>Étym</b>. <i>cf</i>. μικκύλος.`

@@ -1,1 +1,0 @@
-lar[105554]=`<b>φιλ·έορτος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les fêtes, AR. <i>Th. 1147</i>.<p><b>Étym</b>. φ. ἑορτή.`

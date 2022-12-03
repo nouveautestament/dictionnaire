@@ -1,1 +1,0 @@
-lar[88765]=`<b>η, ον</b>, de grenadier, ANON. (<i>Cram. 3, 226).</i><p><b>Étym</b>. ῥοιά.`

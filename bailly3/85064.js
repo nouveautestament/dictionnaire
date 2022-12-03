@@ -1,1 +1,0 @@
-lar[85064]=`<b>προ·ρρυπόω-ῶ</b> <font color="purple">[ῠ]</font> souiller auparavant, BAS. <i>1, 304 Migne</i>.<p><b>Étym</b>. πρό, ῥυπόω.`

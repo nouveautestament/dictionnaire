@@ -1,1 +1,0 @@
-lar[49791]=`<b>ἰσό·χρονος, ος, ον</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> du même temps, contemporain, TH. <i>C.P. 1, 18, 3</i>.<br><b>      2</b> égal en durée, qui compte autant de mesures <i>ou</i> de temps, de même quantité, DRAC. <i>26, 13 ; 142, 24</i> ; DYSC. <i>Synt. 272</i>.<p><b>Étym</b>. ἴ. χρόνος.`

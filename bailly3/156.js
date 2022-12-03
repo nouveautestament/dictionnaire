@@ -1,1 +1,0 @@
-lar[156]=`<b>ου (ὁ)</b> Aboulitès, <i>Perse,</i> PLUT. <i>Alex. 68</i>.`

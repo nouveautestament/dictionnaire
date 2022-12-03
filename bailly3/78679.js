@@ -1,1 +1,0 @@
-lar[78679]=`<b>περι·ΐζομαι</b>, être assis autour de, <i>acc</i>. HDT. <i>5, 4 ; abs</i>. HDT. <i>1, 202 ; 6, 78</i>.<p><b>Étym</b>. π. ἵζω.`

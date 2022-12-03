@@ -1,1 +1,0 @@
-lar[68008]=`<b>νεκρο·πέρνας, ου (ὁ)</b> qui vend des cadavres, LYC. <i>276</i>.<p><b>Étym</b>. ν. πέρνημι.`

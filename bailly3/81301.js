@@ -1,1 +1,0 @@
-lar[81301]=`<b>ποδό·ψηστρον, ου (τὸ)</b> tapis, <i>litt</i>. objet pour essuyer les pieds, ESCHL. <i>Ag. 926</i>.<p><b>Étym</b>. π. ψάω.`

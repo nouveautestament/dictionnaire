@@ -1,1 +1,0 @@
-lar[30232]=`<b>ατος (τὸ)</b> nourriture, IL. <i>5, 369, etc.</i> ; OD. <i>1, 140, etc.</i> ; ORPH. <i>Lith. 729</i> ; THCR. <i>Idyl. 15, 115</i>.<p><b>Étym</b>. ἔδω.`

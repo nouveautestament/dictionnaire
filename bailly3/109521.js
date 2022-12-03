@@ -1,1 +1,0 @@
-lar[109521]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰῐ]</font> ouvrage en forme de voûte, STR. <i>738</i>.<p><b>Étym</b>. ψαλιδόω.`

@@ -1,1 +1,0 @@
-lar[17514]=`<b>αὐτο·κέλευθος, ος, ον</b>, qui va de soi-même, TRIPHIOD. <i>314</i> ; ANTH. <i>9, 362</i>.`

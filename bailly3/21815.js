@@ -1,1 +1,0 @@
-lar[21815]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. γυρῖνος, NIC. <i>Th. 620</i> ; AL. <i>576</i>.`

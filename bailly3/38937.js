@@ -1,1 +1,0 @@
-lar[38937]=`<b>ἐπι·σβέννυμι</b> <font color="purple">[ῡ]</font> (<i>inf. ao. pass</i>. ἐπισβεσθῆναι) éteindre après ; <i>au pass</i>. s’éteindre <i>ou</i> disparaître après, <i>dat</i>. LUC. <i>J. tr. 15</i>.`

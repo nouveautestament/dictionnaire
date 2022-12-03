@@ -1,1 +1,0 @@
-lar[13926]=`<font color="purple">[ρᾱ]</font> <i>adv</i>., à l’improviste, DL. <i>9, 62</i> ; A. TAT. <i>2, 6</i>.`

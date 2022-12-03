@@ -1,1 +1,0 @@
-lar[103313]=`<b>ὑπο·κακοήθης, ης, κόηθες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> un peu méchant, HPC. <i>605, 9</i>.<br><b>      2</b> qui fait du mal secrètement, PHIL. <i>2, 570</i>.`

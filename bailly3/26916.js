@@ -1,1 +1,0 @@
-lar[26916]=`<b>δι·οχλέω-ῶ</b>, troubler, causer du trouble : τινα, LYS. <i>103, 38</i> ; DÉM. <i>446, 24</i> ; τινι, PLUT. <i>Cim. 18</i> ; LGS <i>3, 20,</i> à qqn ; περί τινος, LUC. <i>Am. 50,</i> au sujet de qqe ch.<p>➳ <i>Pf. 3 sg</i>. διώχληκε, LYS. <i>l. c</i>.`

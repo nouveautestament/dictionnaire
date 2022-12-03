@@ -1,1 +1,0 @@
-lar[11064]=`<b>ου (ὁ)</b> = <i>lat</i>. Aventinus, le mt Aventin, <i>à Rome,</i> PLUT. <i>Rom. 20, 23</i>.`

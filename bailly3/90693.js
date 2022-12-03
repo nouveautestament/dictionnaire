@@ -1,1 +1,0 @@
-lar[90693]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui travaille à creuser la terre (laboureur, vigneron, <i>etc</i>.) ALCM. <i>59</i> ; EUR. <i>El. 252</i> ; ARCHIPP. (<i>Com. fr. 2, 727).</i><p><b>Étym</b>. σκάπτω.`

@@ -1,1 +1,0 @@
-lar[98408]=`<b>τερπι·κέραυνος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la foudre, <i>ép. de Zeus,</i> IL. <i>1, 419</i> ; HÉS. <i>O. 52</i>.<p><b>Étym</b>. τέρπω, κεραυνός.`

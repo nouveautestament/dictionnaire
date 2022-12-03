@@ -1,1 +1,0 @@
-lar[25427]=`<b>ή, όν</b>, propre à distinguer nettement, EPICT. <i>Ench. 52, 1</i>.<p><b>Étym</b>. διαρθρόω.`

@@ -1,1 +1,0 @@
-lar[92233]=`<b>σταχυη·κόμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui prend soin des épis <i>ou</i> les fait croître, NONN. <i>D. 1, 104</i>.<p><b>Étym</b>. στ. κομέω.`

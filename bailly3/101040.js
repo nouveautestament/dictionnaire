@@ -1,1 +1,0 @@
-lar[101040]=`<b>τυμπανο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ressemble à un tambour, ARSTT. <i>Cæl. 2, 13, 9</i> ; DL. <i>9, 30</i> ; PLUT. <i>M. 895d</i>.<p><b>Étym</b>. τύμπανον, εἶδος.`

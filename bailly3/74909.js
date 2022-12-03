@@ -1,1 +1,0 @@
-lar[74909]=`<b>παν·δαμάτειρα, ας</b> <font color="purple">[ᾰᾰτ]</font> <i>adj. f. de</i> πανδαμάτωρ ORPH. <i>H. 9, 26</i>.`

@@ -1,1 +1,0 @@
-lar[75823]=`<b>παρα·κύρω</b>, se trouver devant, se présenter à, s’offrir à, <i>dat</i>. Q. SM. <i>11, 423</i>.`

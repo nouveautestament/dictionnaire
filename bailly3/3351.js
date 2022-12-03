@@ -1,1 +1,0 @@
-lar[3351]=`<b>ἀ·κήπευτος, ος, ον</b>, non cultivé en jardin, POSIDON. (ATH. <i>369d</i>).<p><b>Étym</b>. ἀ, κηπεύω.`

@@ -1,1 +1,0 @@
-lar[72942]=`<b>ὀρνιθο·πέδη, ης (ἡ)</b> <font color="purple">[ῑ]</font> piège <i>ou</i> lacs pour prendre les oiseaux, ANTH. <i>9, 396</i>.<p><b>Étym</b>. ὄρνις, πέδη.`

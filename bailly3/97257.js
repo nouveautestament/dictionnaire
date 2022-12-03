@@ -1,1 +1,0 @@
-lar[97257]=`<b>Σωσί·πατρος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Sôsipatros :<br><b>      1</b> <i>poète de la nouvelle comédie,</i> ATH. <i>377f.</i><br><b>      2</b> <i>autre,</i> ANTH. <i>5, 52</i>.<p><b>Étym</b>. σῴζω, πατήρ.`

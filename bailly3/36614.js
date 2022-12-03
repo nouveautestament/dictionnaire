@@ -1,1 +1,0 @@
-lar[36614]=`<b>ἐπ·ανακύπτω</b>, se redresser en arrière, se relever, XÉN. <i>Eq. 12, 13</i> ; τινί, JOS. <i>B.J. 1, 31, 1,</i> contre qqn, lui tenir tête, lui résister ; <i>fig</i>. ἐπανέκυψε λόγος, PLUT. <i>M. 725b</i>, un nouvel argument vint à la rescousse.`

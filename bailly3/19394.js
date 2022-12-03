@@ -1,1 +1,0 @@
-lar[19394]=`<b>βαυκαλάω-ῶ</b> <font color="purple">[κᾰ]</font> endormir par des chants à la façon des nourrices, LUC. <i>Lex. 11</i> ; EL. <i>N.A. 14, 20</i> ; ORIG. ; <i>cf</i>. βαυβαλίζω.`

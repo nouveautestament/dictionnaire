@@ -1,1 +1,0 @@
-lar[87005]=`<b>προ·χαριστήρια, ων (τὰ)</b> <font color="purple">[χᾰ]</font> sacrifice à Athèna pour la remercier d’avance de ses bienfaits, LYCURG. (SUID. <i>et</i> HARP.).<p><b>Étym</b>. π. χαρίζομαι.`

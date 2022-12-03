@@ -1,1 +1,0 @@
-lar[82421]=`<b>πολύ·σφαλτος, ος, ον</b>, très glissant, PLUT. <i>Fragm. 707b</i>.<p><b>Étym</b>. π. σφάλλω.`

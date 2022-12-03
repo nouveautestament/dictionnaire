@@ -1,1 +1,0 @@
-lar[15331]=`<b>ἀρτί·δακρυς, υς, υ</b>, <i>gén</i>. υος <font color="purple">[ῐαῠ]</font> qui vient de pleurer <i>ou</i> prêt à pleurer, EUR. <i>Med. 873</i> ; LUC. <i>Lex. 4</i>.<p><b>Étym</b>. ἄ. δάκρυ.`

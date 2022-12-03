@@ -1,1 +1,0 @@
-lar[65273]=`<b>ας (ἡ)</b> Médée :<br><b>      1</b> <i>fille d’Æétès, femme de Jason,</i> HÉS. <i>Th. 961</i> ; PD. <i>O. 13, 51, etc.</i><br><b>      2</b> <i>femme d’un roi de Médie,</i> XÉN. <i>An. 3, 4, 11</i>.<p>➳ <i>Dans une inscr. att. réduit à Μηδέα (4<sup>e</sup> siècle av. J.-C.) ; v. Meisterh. p. 33, 1. Ion</i>. Μηδείη, HDT. <i>1, 2</i>.<p><b>Étym</b>. μήδω.`

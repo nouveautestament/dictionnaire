@@ -1,1 +1,0 @@
-lar[109013]=`<b>χρηστο·μαθής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a une bonne et solide instruction, CIC. <i>Att. 1, 6, 2</i> ; CLÉM. <i>342</i>.<p><b>Étym</b>. χα. μανθάνω.`

@@ -1,1 +1,0 @@
-lar[26908]=`<b>ή, όν</b>, qui fait uriner, diurétique, HPC. <i>Acut. 392</i> ; HIPPIATR. <i>101, 8 ; 114, 9, etc.</i> ; DIOCL. (GAL. <i>6, 301c</i>) ; <i>etc</i>.<p><b>Étym</b>. διουρέω.`

@@ -1,1 +1,0 @@
-lar[83036]=`<b>ου</b>, <i>adj. m</i>. grand buveur, <i>en parl. d’une lampe qui boit beaucoup d’huile,</i> AR. <i>Nub. 57, fig</i>.<p>•<i> Sup. irrég</i>. ποτίστατος, AR. <i>Av. 735</i>.<p><b>Étym</b>. πίνω.`

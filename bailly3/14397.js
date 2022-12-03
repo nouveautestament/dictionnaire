@@ -1,1 +1,0 @@
-lar[14397]=`<b>ή, όν</b>, arrosé, SOSITH. <i>Daphn. 17</i>.`

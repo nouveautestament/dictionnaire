@@ -1,1 +1,0 @@
-lar[105950]=`<b>φιλό·μυθος, ος, ον</b> <font color="purple">[ῐῡ]</font><br><b>      1</b> qui aime les récits, les contes, les fables, ARSTT. <i>Metaph. 1, 2, 10</i> ; τὸ φιλόμυθον, STR. <i>19, 9, 11,</i> l’amour des fables.<br><b>      2</b> qui aime à parler, à causer, bavard, ARSTT. <i>Nic. 3, 10, 2</i>.<p><b>Étym</b>. φ. μῦθος.`

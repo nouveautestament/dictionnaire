@@ -1,1 +1,0 @@
-lar[99671]=`<b>ου (τὸ)</b> instrument du tourneur, sorte de ciseau, TH. <i>H.P. 5, 6, 4</i>.<p><b>Étym</b>. τορνεύω.`

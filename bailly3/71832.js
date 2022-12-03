@@ -1,1 +1,0 @@
-lar[71832]=`<b>1</b> <i>acc. sg. m. de</i> ὅς, ἥ, ὅν.<br><b>2</b> <i>nom.-acc. neutre ou acc. masc. de l’adj. possessif</i> ὅς, <i>poét. p</i>. ἑός.`

@@ -1,1 +1,0 @@
-lar[92488]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> στέφανος, ANACR. <i>54</i> ; DIOSC. <i>1, 32</i>.`

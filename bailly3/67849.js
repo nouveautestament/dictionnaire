@@ -1,1 +1,0 @@
-lar[67849]=`<b>ης (ἡ)</b> naphte, <i>sorte de bitume,</i> DIOSC. <i>1, 101</i>.<p><b>Étym</b>. <i>Rac. persane</i>.`

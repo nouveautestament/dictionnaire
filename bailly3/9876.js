@@ -1,1 +1,0 @@
-lar[9876]=`<b>ἀντι·ζηλόω-ῶ</b>, <i>au moy</i>. être rival de, rivaliser avec, CLÉM. <i>319</i>.`

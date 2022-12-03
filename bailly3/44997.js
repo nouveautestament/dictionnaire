@@ -1,1 +1,0 @@
-lar[44997]=`<b>ἡδυ·μελής, ής, ές</b> <font color="purple">[ῠ]</font> aux chants agréables, SOPH. <i>fr. 228</i> ; ANTH. <i>5, 140</i>.<p>➳ <i>Dor</i>. ἁδυ- <font color="purple">[ᾱ]</font> PD. <i>N. 2, 40, etc</i>.<p><b>Étym</b>. ἡ. μέλος.`

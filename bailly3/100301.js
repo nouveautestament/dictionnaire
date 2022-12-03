@@ -1,1 +1,0 @@
-lar[100301]=`<b>τρί·μορφος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> à trois formes, <i>ép. d’Hékatè,</i> CHARICLID. (ATH. <i>325b</i>) ; CORN. <i>35, p. 208, 3 Osann</i>.<br><b>      2</b> triple, <i>en parl. des Parques,</i> ESCHL. <i>Pr. 516</i>.<p><b>Étym</b>. τρ. μορφή.`

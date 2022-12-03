@@ -1,1 +1,0 @@
-lar[85840]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> signe précurseur, présage, STR. <i>304</i> ; DS. <i>5, 7</i>.<p><b>Étym</b>. προσημαίνω.`

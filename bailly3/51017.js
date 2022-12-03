@@ -1,1 +1,0 @@
-lar[51017]=`<i>ou</i> <b>Καλαντίαι (οἱ)</b> les Kalaties <i>ou</i> Kalanties, <i>pple indien,</i> HDT. <i>3, 38</i>.`

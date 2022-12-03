@@ -1,1 +1,0 @@
-lar[24208]=`<b>ος, ον</b>, de Dèmèter, PLUT. <i>M. 876c ;</i> οἱ Δημήτρειοι, PLUT. <i>943b</i>, ceux qui reposent dans la terre, les morts ; τὸ Δημήτρειον, STR. <i>381</i>, le temple de Cérès, <i>à Rome</i>.<p><b>Étym</b>. Δημήτηρ.`

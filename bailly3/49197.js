@@ -1,1 +1,0 @@
-lar[49197]=`<b>ου</b> <font color="purple">[ῑτ]</font> <i>adj. m</i>. cuit au four, HPC. <i>356, 13</i> ; TIMOCL. (ATH. <i>109c</i>) ; ATH. <i>139b ;</i> ANTH. <i>6, 209</i>.<p><b>Étym</b>. ἰπνός.`

@@ -1,1 +1,0 @@
-lar[108517]=`<b>χιον·ωπός, ός, όν</b>, aux yeux brillants comme la neige, NONN. <i>D. 17, 43</i>.<p><b>Étym</b>. χ. ὤψ.`

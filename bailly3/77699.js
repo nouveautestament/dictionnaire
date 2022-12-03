@@ -1,1 +1,0 @@
-lar[77699]=`<i>vb. de</i> πείθω <i>ou de</i> πείθομαι, SOPH. <i>O.R. 1516</i> ; EUR. <i>Hipp. 1182</i> ; PLAT. <i>Rsp. 365e, 421c</i>.`

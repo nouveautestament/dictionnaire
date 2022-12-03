@@ -1,1 +1,0 @@
-lar[35894]=`<b>ἐξ·ευτονέω-ῶ</b>, avoir la force de, <i>inf</i>. ARR. <i>Epict. 4, 1, 147</i>.`

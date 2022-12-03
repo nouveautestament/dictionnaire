@@ -1,1 +1,0 @@
-lar[65052]=`<b>μετα·χέω</b>, transvaser, GEOP. <i>7, 4, 3 ; au pass</i>. GEOP. <i>2, 7, 4</i>.`

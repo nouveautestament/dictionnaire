@@ -1,1 +1,0 @@
-lar[39199]=`<b>ἐπι·στύφω</b> <font color="purple">[ῡ]</font><br><b>   I</b> resserrer par l’effet d’une nature astringente, NIC. <i>Al. 79, 277</i> ; ATH. <i>120c.</i><br><b>   II</b> <i>fig.</i> :<br><b>      1</b> gêner, blesser, DH. <i>Dem. 38</i>.<br><b>      2</b> contenir par des remontrances, ALCIPHR. <i>1, 3</i>.`

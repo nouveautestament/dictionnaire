@@ -1,1 +1,0 @@
-lar[56165]=`<b>κλυτό·μαντις, εως (ὁ)</b> <font color="purple">[ῠ]</font> devin célèbre, PD. <i>fr. 60</i>.`

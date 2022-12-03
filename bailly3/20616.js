@@ -1,1 +1,0 @@
-lar[20616]=`<b>βραδύ·γλωσσος, ος, ον</b> <font color="purple">[ᾰ]</font> à la parole lente, SPT. <i>Ex. 4, 10</i> ; LUC. <i>Philopatr. 13</i>.<p><b>Étym</b>. βρ. γλῶσσα.`

@@ -1,1 +1,0 @@
-lar[77110]=`<b>πάρ·ορνις, ιθος (ὁ, ἡ)</b> <font color="purple">[ῑθ]</font> de mauvais augure, ESCHL. <i>Eum. 770</i>.<p><b>Étym</b>. π. ὄρνις.`

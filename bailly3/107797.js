@@ -1,1 +1,0 @@
-lar[107797]=`<b>χαμαι·σχιδής, ής, ές</b>, <i>gén</i>. έος <font color="purple">[ᾰῐ]</font> fendu <i>ou</i> partagé, dès le sol, en plusieurs branches, TH. <i>C.P. 4, 14, 4</i>.<p><b>Étym</b>. χ. σχίζω.`

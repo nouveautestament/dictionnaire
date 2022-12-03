@@ -1,1 +1,0 @@
-lar[36013]=`<b>ἐξ·ίπταμαι</b> <font color="darkgreen">(<i>prés</i>. SCH.-AR. <i>Av. 769</i> ; ATH. <i>389b ;</i> PLUT. <i>M. 90c ;</i> SPT. <i>Prov. 7, 10 ; 3 sg. ao.1</i> ἐξέπτατο, EUR. <i>El. 944 ; 3 sg. ao.2</i> ἐξέπτη, HÉS. <i>O. 98</i>)</font> s’envoler.`

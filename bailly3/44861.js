@@ -1,1 +1,0 @@
-lar[44861]=`<i>adv</i>., dans l’âge de la jeunesse, dans l’âge où l’on porte les armes, HDT. <i>1, 172 ; 6, 21</i> ; DS. <i>3, 54</i> ; LUC. <i>V. auct. 14</i>.<p><b>Étym</b>. ἥβη, -δον.`

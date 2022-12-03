@@ -1,1 +1,0 @@
-lar[30322]=`<b>οῦ (ὁ)</b> qui conjecture, <i>gén</i>. THC. <i>1, 138</i>.<p><b>Étym</b>. εἰκάζω.`

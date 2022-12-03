@@ -1,1 +1,0 @@
-lar[3808]=`<b>ἀκρο·νύκτιος, ος, ον</b>, au commencement de la nuit, MAN. <i>5, 177</i>.<p><b>Étym</b>. ἄ. νύξ.`

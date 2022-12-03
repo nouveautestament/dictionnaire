@@ -1,1 +1,0 @@
-lar[84263]=`<b>προ·ερύω</b> <font color="darkgreen">(<i>f. épq</i>. -ερύσσω, IL. <i>9, 358, ao. épq</i>. -έρυσσα, IL. <i>1, 308</i>)</font> tirer en avant (du rivage à la mer <i>ou invers</i>. un navire).`

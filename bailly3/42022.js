@@ -1,1 +1,0 @@
-lar[42022]=`<b>εὐ·επίστρεπτος, ος, ον</b>, qu’on tourne facilement, ἐπί <i>et l’acc</i>. APP. <i>Lib. 50</i>.<p><b>Étym</b>. εὖ, ἐπιστρέφω.`

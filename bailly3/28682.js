@@ -1,1 +1,0 @@
-lar[28682]=`<b>δύσ·μορφος, ος, ον</b>, difforme, laid, EUR. <i>Hel. 1204</i> ; LYC. <i>692</i> ; POÈT. (PLUT. <i>M. 670a</i>).<p><b>Étym</b>. δ. μορφή.`

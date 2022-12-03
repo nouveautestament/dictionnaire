@@ -1,1 +1,0 @@
-lar[100636]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> à trois cordes, PLUT. <i>M. 1137b ;</i> τὸ τρίχορδον, ANAXIL. (ATH. <i>183b</i>) ; CLÉM. <i>Str. 1, p. 363,</i> instrument de musique à trois cordes.<p><b>Étym</b>. τρ. χορδή.`

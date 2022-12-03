@@ -1,1 +1,0 @@
-lar[3552]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> habile à lancer le javelot, XÉN. <i>Cyr. 7, 5, 63</i> ; PLAT. <i>Theag. 126b</i>.<p>•<i> Sup</i>. -ώτατος, XÉN. <i>Cyr. 6, 2, 4</i>.<p><b>Étym</b>. ἀκοντίζω.`

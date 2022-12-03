@@ -1,1 +1,0 @@
-lar[7187]=`<b>ἀνα·μηρύομαι</b>, amener à soi en pelotonnant, PLUT. <i>M. 978d</i>.`

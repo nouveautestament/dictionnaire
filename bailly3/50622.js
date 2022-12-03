@@ -1,1 +1,0 @@
-lar[50622]=`<b>κακ·άγγελτος, ος, ον</b> <font color="purple">[ᾰκ]</font> causé par une mauvaise nouvelle, SOPH. <i>Ant. 1286</i>.<p><b>Étym</b>. κ. ἀγγέλλω.`

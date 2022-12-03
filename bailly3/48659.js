@@ -1,1 +1,0 @@
-lar[48659]=`<b>ἱερό·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> à l’âme sainte, pieuse, JOS. <i>Macc. 17</i>.<p><b>Étym</b>. ἱ. ψυχή.`

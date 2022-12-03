@@ -1,1 +1,0 @@
-lar[105636]=`<b>ου (ὁ)</b> <font color="purple">[ῐῐ]</font> fils de Philètor, IL. <i>20, 457</i>.<p><b>Étym</b>. <i>patr. de</i> *Φιλήτωρ.`

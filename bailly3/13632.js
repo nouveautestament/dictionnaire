@@ -1,1 +1,0 @@
-lar[13632]=`<b>ας (ἡ)</b> caractère incisif <i>ou</i> tranchant, dureté, DS. <i>12, 16</i> ; PLUT. <i>M. 13d, etc</i>.<p><b>Étym</b>. ἀπότομος.`

@@ -1,1 +1,0 @@
-lar[14661]=`<font color="purple">[ᾰ]</font> être gaucher, SPT. <i>1Par. 12, 2</i>.<p><b>Étym</b>. ἀριστερός.`

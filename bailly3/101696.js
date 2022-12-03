@@ -1,1 +1,0 @@
-lar[101696]=`<font color="purple">[ῠ]</font> (<i>seul. prés</i>. ESCHL. <i>Suppl. 877, et ao</i>. ὕλαξα, DC. <i>63, 28</i> ; D. CHR. <i>9, 290) c</i>. ὑλακτέω.`

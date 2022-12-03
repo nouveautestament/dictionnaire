@@ -1,1 +1,0 @@
-lar[7695]=`<b>ῆς (ἡ) :<br>      1</b> action de relever (sa chevelure) PLUT. <i>Pomp. 2</i>.<br><b>      2</b> action de ramener en arrière <i>ou</i> de replier (les chairs autour d’une blessure) ORIB. <i>p. 90, 29 Cocch.</i><br><b>      3</b> action de réprimer, de maintenir, CLÉM. <i>507</i>.<p><b>Étym</b>. ἀναστέλλω.`

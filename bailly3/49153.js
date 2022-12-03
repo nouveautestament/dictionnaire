@@ -1,1 +1,0 @@
-lar[49153]=`<b>ἰο·στέφανος, ος, ον</b> <font color="purple">[ᾰ]</font> couronné de violettes, <i>ép. d’Aphrodite,</i> HH. <i>5, 18</i> ; SOL. <i>11, 4 ; des Muses,</i> THGN. <i>250 ; des Grâces,</i> ANTH. <i>8, 127, etc</i>.<p><b>Étym</b>. ἴον, στέφανος.`

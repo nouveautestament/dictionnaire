@@ -1,1 +1,0 @@
-lar[59]=`<b>ἀ·βάσκανος, ος, ον</b> <font color="purple">[κᾰ]</font><br><b>      1</b> exempt d’envie, TÉLÈS (STOB. <i>Fl. 108, 83, t. 4, p. 50, l. 14</i>).<br><b>      2</b> digne de foi, JOS. <i>B.J. 1, 9, 4</i>.<p><b>Étym</b>. ἀ, βασκαίνω.`

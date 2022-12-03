@@ -1,1 +1,0 @@
-lar[17450]=`<b>αὐτο·δικαιοσύνη, ης (ἡ)</b> <font color="purple">[ῐῠ]</font> la justice même, la justice absolue, CHRYS.`

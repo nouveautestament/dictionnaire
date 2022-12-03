@@ -1,1 +1,0 @@
-lar[39249]=`<b>ἐπι·συντρέχω</b>, accourir ensemble vers, NT. <i>Marc. 9, 25</i>.`

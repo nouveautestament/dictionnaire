@@ -1,1 +1,0 @@
-lar[30806]=`<b>εἰσ·κρύπτω</b> (<i>prés. pass. sbj</i>. -κρύπτηται) pénétrer en demeurant caché dans, <i>dat</i>. BAS. <i>2, 366d</i>.`

@@ -1,1 +1,0 @@
-lar[31258]=`<b>ἐκεχειρο·φόρος, ου (ὁ)</b> qui apporte une suspension d’armes, médiateur, M. TYR. <i>57, 6</i>.<p><b>Étym</b>. ἐκεχειρία, φέρω.`

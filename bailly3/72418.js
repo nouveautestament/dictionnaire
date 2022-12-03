@@ -1,1 +1,0 @@
-lar[72418]=`<b>ὁποτερωσ·οῦν</b>, <i>adv. indéf</i>. n’importe de laquelle des deux manières, ARSTT. <i>An. pr. 2, 9, 1</i>.<p><b>Étym</b>. ὁποτέρως, οὖν.`

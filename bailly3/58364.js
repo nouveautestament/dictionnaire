@@ -1,1 +1,0 @@
-lar[58364]=`<b>κυανο·χαῖτα</b> <font color="purple">[ῡᾰν]</font><br><b>      1</b> <i>nom. masc. épq. c</i>. κυανοχαίτης, IL. <i>13, 563 ; 14, 390</i>.<br><b>      2</b> <i>indécl. joint au dat</i>. Ποσειδάωνι, <i>c</i>. κυανοχαίτης ANTIM. <i>27 Kinkel</i>.<br><b>      3</b> <i>voc. de</i> κυανοχαίτης.`

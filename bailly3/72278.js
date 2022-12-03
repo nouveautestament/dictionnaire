@@ -1,1 +1,0 @@
-lar[72278]=`<b>ὀπισθό·δομος, ου (ὁ)</b> derrière d’une maison <i>ou</i> d’un temple, LUC. <i>Tim. 53</i> ; ANTH. <i>12, 223 ; à Athènes,</i> derrière du Parthénon où était le trésor public, AR. <i>Pl. 1193</i> ; DÉM. <i>170, 6, etc</i>.<p><b>Étym</b>. ὄπισθε, δόμος.`

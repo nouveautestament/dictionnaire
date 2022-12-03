@@ -1,1 +1,0 @@
-lar[77393]=`<b>πατρό·πολις, εως (ἡ)</b> ville des ancêtres, patrie, ATH. <i>100d</i>.<p><b>Étym</b>. π. πόλις.`

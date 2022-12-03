@@ -1,1 +1,0 @@
-lar[43236]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Euryadès, <i>h</i>. OD. <i>22, 267</i>.`

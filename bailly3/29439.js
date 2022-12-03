@@ -1,1 +1,0 @@
-lar[29439]=`<b>ἐγ·καθαρμόττω</b> <font color="darkgreen">(<i>inf. ao</i>. -όσαι)</font> introduire en ajustant, AR. <i>Lys. 684</i>.<p><b>Étym</b>. ἐν, κ.`

@@ -1,1 +1,0 @@
-lar[25760]=`<b>δια·τορνεύω</b>, fabriquer au tour, tourner, PLUT. <i>M. 1083f, dout.</i> ; LIB. <i>4, 1071</i>.`

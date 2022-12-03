@@ -1,1 +1,0 @@
-lar[46806]=`<b>θεό·ταυρος, ου (ὁ)</b> le dieu-taureau, <i>càd</i>. Zeus changé en taureau, MOSCH. <i>2, 131</i>.<p><b>Étym</b>. θ. ταῦρος.`

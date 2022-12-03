@@ -1,1 +1,0 @@
-lar[55238]=`<b>κηπο·κόμας, ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. coiffé comme d’un jardin, COM. (EUST. <i>907, 41).</i><p><b>Étym</b>. κῆπος, κόμη.`

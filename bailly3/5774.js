@@ -1,1 +1,0 @@
-lar[5774]=`<b>ός, όν</b>, qui écarte, qui protège contre, <i>gén</i>. EMPÉD. <i>222 Mullach</i>.`

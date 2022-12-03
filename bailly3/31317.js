@@ -1,1 +1,0 @@
-lar[31317]=`<b>ἐκ·θηλύνω</b> <font color="purple">[ῡ]</font><br><b>      1</b> affaiblir, HPC. <i>819h, 822f.</i><br><b>      2</b> <i>au mor</i>. amollir, efféminer, POL. <i>32, 2, 3 ; 37, 2, 2</i> ; DC. <i>50, 27 ; fig. en parl. de plantes,</i> TH. <i>C.P. 3, 1, 3 ; 4, 5, 3, etc.</i><br><b>      3</b> faire un féminin de, EM. <i>473, 35</i>.`

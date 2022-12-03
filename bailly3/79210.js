@@ -1,1 +1,0 @@
-lar[79210]=`<b>ής, ές</b>, qui penche d’un côté, HPC. <i>Art. 817</i>.<p><b>Étym</b>. περιρρέπω.`

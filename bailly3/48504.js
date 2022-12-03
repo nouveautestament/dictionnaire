@@ -1,1 +1,0 @@
-lar[48504]=`<b>ας (ἡ)</b> action de faire suer, ARSTT. <i>Probl. 2, 42</i>.<p><b>Étym</b>. ἱδρωτοποιός.`

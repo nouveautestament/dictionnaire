@@ -1,1 +1,0 @@
-lar[32369]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> émission du souffle, GAL. <i>2, 675</i>.<p><b>Étym</b>. ἐκφυσάω.`

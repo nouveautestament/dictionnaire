@@ -1,1 +1,0 @@
-lar[77002]=`<b>οπος (ὁ)</b> sorte de sauterelle, AR. <i>Ach. 150, Av. 588</i> ; EL. <i>N.A. 5, 19</i>.<p><b>Étym</b>. <i>pré-grec, cf.</i> κόρνοψ.`

@@ -1,1 +1,0 @@
-lar[34546]=`<b>ος, ον</b>, qui a été saillie (jument) NIC. <i>Th. 99</i>.<p><b>Étym</b>. ἐνθρῴσκω.`

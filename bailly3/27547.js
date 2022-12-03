@@ -1,1 +1,0 @@
-lar[27547]=`<b>δοξοκοπέω-ῶ</b>, prétendre à la gloire <i>ou</i> aux honneurs, POL. <i>Exc. Vat. p. 391</i> ; PLUT. <i>Per. 5 (var</i>. -κομπεῖν, être arrogant).<p><b>Étym</b>. δοξοκόπος.`

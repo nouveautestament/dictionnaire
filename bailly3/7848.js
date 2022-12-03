@@ -1,1 +1,0 @@
-lar[7848]=`<b>εως (ἡ)</b> <font color="purple">[φᾰᾰσ]</font> calvitie des sourcils <i>ou p.-ê.</i> du haut du front, ARSTT. <i>H.A. 3, 11, 8</i>.`

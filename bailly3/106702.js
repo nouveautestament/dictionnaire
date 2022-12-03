@@ -1,1 +1,0 @@
-lar[106702]=`<b>ου (ὁ)</b> Phormisios, <i>h</i>. AR. <i>Ran. 965, etc.</i> ; DIN. <i>Or. 1, 38 Baiter-Sauppe, etc</i>.`

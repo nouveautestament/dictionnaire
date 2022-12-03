@@ -1,1 +1,0 @@
-lar[91558]=`<b>ων (οἱ)</b> habitants de la Sogdiane, HDT. <i>3, 93 ; 7, 66</i>.`

@@ -1,1 +1,0 @@
-lar[70941]=`<b>ά, όν</b>, <i>att. c</i>. θολερός, trouble, bourbeux, HPC. <i>607, 30</i>.`

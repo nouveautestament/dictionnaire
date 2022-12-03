@@ -1,1 +1,0 @@
-lar[1870]=`<b>(ἡ)</b> <font color="purple">[ζῑ]</font> Azilis, <i>v. et fl. de Libye,</i> CALL. <i>Ap. 89 ; cf</i>. Ἄζιρις.`

@@ -1,1 +1,0 @@
-lar[73097]=`<b>ή, όν :<br>      1</b> creusé, IL. <i>9, 67, etc.</i> ; EUR. <i>Tr. 1153</i> ; XÉN. <i>An. 1, 7, 14, etc.</i><br><b>      2</b> tiré de la terre, minéral, fossile, ARSTT. <i>Nic. c. 13</i> ; POL. <i>34, 10, 10</i> ; ATH. <i>331c</i>.<p><b>Étym</b>. <i>vb. de</i> ὀρύσσω.`

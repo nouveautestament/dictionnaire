@@ -1,1 +1,0 @@
-lar[97413]=`<b>ταλα·κάρδιος, ος, ον</b> <font color="purple">[ᾰᾰκ]</font><br><b>      1</b> au cœur patient, courageux, HÉS. <i>Sc. 424</i>.<br><b>      2</b> dont l’âme supporte des infortunes, infortuné, SOPH. <i>O.C. 540</i>.<p><b>Étym</b>. τλῆναι, καρδία.`

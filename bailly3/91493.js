@@ -1,1 +1,0 @@
-lar[91493]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑῠ]</font> Smikythiôn, <i>h</i>. AR. <i>Vesp. 401, Eccl. 46</i> ; DÉM. <i>23, 169 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>dim. de</i> Σμίκυθος.`

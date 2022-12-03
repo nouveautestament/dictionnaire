@@ -1,1 +1,0 @@
-lar[88542]=`<b>ου (τὸ)</b> petite racine, AR. <i>Av. 654</i> ; ANTIPH. (<i>Com. fr. 3, 23</i>) ; NIC. <i>Al. 69, 610</i> ; TH. <i>H.P. 4, 2, 3, etc</i>.<p><b>Étym</b>. <i>dim. de</i> ῥίζα.`

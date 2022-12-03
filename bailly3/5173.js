@@ -1,1 +1,0 @@
-lar[5173]=`<b>ἀ·μαίευτος, ου</b>, <i>adj. f.</i> :<br><b>      1</b> qui n’a pas fait de couches, NONN. <i>D. 41, 133</i>.<br><b>      2</b> non aidée par une sage-femme, OPP. <i>C. 1, 40 (var</i>. -αίωτος).<p><b>Étym</b>. ἀ, μαιεύομαι.`

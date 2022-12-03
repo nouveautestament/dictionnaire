@@ -1,1 +1,0 @@
-lar[110283]=`<b>ὠμό·σιτος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui mange cru, <i>d’où</i> sauvage, féroce, ESCHL. <i>Sept. 541</i> ; EUR. <i>Ph. 1025,</i> BACCHYL. <i>338</i>.<br><b>      2</b> <i>pass</i>. mangé cru, LYC. <i>654</i>.<p><b>Étym</b>. ὠμός, σιτέομαι.`

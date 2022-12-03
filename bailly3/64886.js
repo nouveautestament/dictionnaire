@@ -1,1 +1,0 @@
-lar[64886]=`<b>μετα·παύομαι</b>, cesser par intervalles, se reposer de temps en temps, IL. <i>17, 373</i>.`

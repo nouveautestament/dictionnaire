@@ -1,1 +1,0 @@
-lar[19372]=`<b>(ὁ)</b> Batrakhiôn, <i>h</i>. LUC.<p><b>Étym</b>. βάτραχος.`

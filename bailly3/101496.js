@@ -1,1 +1,0 @@
-lar[101496]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> aqueduc, STR. <i>614</i>.<p><b>Étym</b>. ὑδραγωγός.`

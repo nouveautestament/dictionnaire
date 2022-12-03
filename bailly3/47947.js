@@ -1,1 +1,0 @@
-lar[47947]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> d’une nature raisonnable, intelligente, <i>au</i> <i>• Sup</i>. -ώτατος, AR. <i>Vesp. 1280</i>.<p><b>Étym</b>. θυμόσοφος.`

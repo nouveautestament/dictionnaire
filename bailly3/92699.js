@@ -1,1 +1,0 @@
-lar[92699]=`aligner, <i>particul</i>. tendre sur une ligne une toile <i>ou</i> un filet de chasse, XÉN. <i>Cyn. 6, 8 ; fig</i>. ranger, ordonner, ESCHL. <i>Pr. 484</i>.<p><b>Étym</b>. στοῖχος.`

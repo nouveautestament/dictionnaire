@@ -1,1 +1,0 @@
-lar[63878]=`<b>μελανο·δέρματος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à peau noire, ARSTT. <i>H.A. 3, 9, 2</i>.<p><b>Étym</b>. μ. δέρμα.`

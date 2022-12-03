@@ -1,1 +1,0 @@
-lar[1081]=`<b>ἀγχί·στροφος, ος, ον</b>, qui se retourne vite, THGN. <i>1261 ; fig</i>. ἀ. μεταβολή, THC. <i>2, 53,</i> changement soudain ; ἀγχίστροφα βουλεύεσθαι, HDT. <i>7, 13,</i> changer prestement d’avis.<p><b>Étym</b>. ἄ. στρέφω.`

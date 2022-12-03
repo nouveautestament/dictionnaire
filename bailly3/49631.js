@@ -1,1 +1,0 @@
-lar[49631]=`<b>ἰσο·ελκής, ής, ές</b> <font color="purple">[ῑ̆]</font> qui tire autant, <i>càd</i>. également lourd, NIC. <i>Th. 41, 44</i>.<p><b>Étym</b>. ἴ. ἕλκω.`

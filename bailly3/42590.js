@@ -1,1 +1,0 @@
-lar[42590]=`<b>εὔ·λιθος, ος, ον</b> <font color="purple">[ῐ]</font> formé de belles pierres, ORPH. <i>H. 58, 4</i> ; JOS. <i>B.J. 5, 5, 6</i>.<p><b>Étym</b>. εὖ, λίθος.`

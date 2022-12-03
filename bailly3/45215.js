@@ -1,1 +1,0 @@
-lar[45215]=`<b>ιδος</b> <font color="purple">[ῐκ]</font> <i>adj. f. de</i> ἡλικιώτης, <i>en parl. de pers</i>. PLUT. <i>M. 554a ;</i> LUC. <i>D. mar. 15, 2 ; en parl. de choses (action,</i> DS. <i>1, 58 ; histoire,</i> PLUT. <i>Per. 13, etc</i>.) ; ἡλ. τινι, DS. <i>1, 2, ou</i> τινος, THÉM. <i>18a</i>, contemporaine de qqn.`

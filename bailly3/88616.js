@@ -1,1 +1,0 @@
-lar[88616]=`<b>ωνος (ὁ)</b> Rhinôn, <i>l’un des dix chefs d’Athènes après le renversement des Quatre-Cents,</i> ISOCR. <i>18, 6 et 8 Baiter-Sauppe, etc</i>.`

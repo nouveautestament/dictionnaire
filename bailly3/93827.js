@@ -1,1 +1,0 @@
-lar[93827]=`<b>συμ·βαστάζω :<br>      1</b> porter avec, <i>dat</i>. APP. <i>Civ. 4, 27</i>.<br><b>      2</b> comparer, SPT. <i>Job 28, 19</i>.`

@@ -1,1 +1,0 @@
-lar[32581]=`<font color="purple">[ῡ]</font> alléger, BABR. <i>111, 6</i> ; RUF. (ORIB. <i>2, 275 B.-Dar</i>.) ; AQU. <i>Job 39, 34</i>.<p><b>Étym</b>. ἐλαφρός.`

@@ -1,1 +1,0 @@
-lar[101301]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Hyakinthos (Hyacinthe), <i>fils d’Amyklas et de Diomède, aimé d’Apollon,</i> EUR. <i>Hel. 1469</i> ; APD. <i>8, 10, 3, etc</i>.`

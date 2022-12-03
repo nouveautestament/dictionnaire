@@ -1,1 +1,0 @@
-lar[104837]=`<b>εως (ἡ)</b> action de se montrer, <i>en parl. d’un astre à son lever,</i> PORPH. (EUS. <i>P.E. 92c</i>).<p><b>Étym</b>. φαίνω.`

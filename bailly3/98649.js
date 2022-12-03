@@ -1,1 +1,0 @@
-lar[98649]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à quatre pattes, AR. <i>Pax 896</i>.<p><b>Étym</b>. τετράπους, -δον.`

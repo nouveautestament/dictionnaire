@@ -1,1 +1,0 @@
-lar[85594]=`<b>προσ·ενοχλέω-ῶ</b>, troubler <i>ou</i> accabler encore plus, HPC. <i>19, 41</i>.`

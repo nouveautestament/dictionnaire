@@ -1,1 +1,0 @@
-lar[44339]=`<b>οῦ (ὁ)</b> action de laisser se faisander <i>ou</i> se gâter, GAL. <i>8, 782</i>.<p><b>Étym</b>. ἑωλίζω.`

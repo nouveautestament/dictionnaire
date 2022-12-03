@@ -1,1 +1,0 @@
-lar[49972]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῑ]</font> lieu planté de saules, saussaie, GEOP. <i>3, 6, 6</i>.<p><b>Étym</b>. ἰτέα.`

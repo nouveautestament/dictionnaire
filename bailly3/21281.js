@@ -1,1 +1,0 @@
-lar[21281]=`<b>α, ον</b>, qui concerne les prêtres <i>et, p. suite,</i> le culte de Cybèle, ANTH. <i>6, 173</i>.<p><b>Étym</b>. Γάλλος.`

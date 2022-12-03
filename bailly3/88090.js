@@ -1,1 +1,0 @@
-lar[88090]=`<b>ή, όν</b>, habile à dresser de jeunes chevaux, EL. <i>N.A. 11, 3, 6</i>.<p><b>Étym</b>. πωλεύω.`

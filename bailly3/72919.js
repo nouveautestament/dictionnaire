@@ -1,1 +1,0 @@
-lar[72919]=`<font color="purple">[ῑ]</font> chasser aux oiseaux, XÉN. <i>Hell. 4, 1, 16</i>.<br><b><i>Moy.</i></b> observer le vol <i>ou</i> le cri des oiseaux, prendre les augures, DH. <i>4, 13</i> ; JOS. <i>c. Ap. 1, p. 457</i>.<p><b>Étym</b>. ὄρνις.`

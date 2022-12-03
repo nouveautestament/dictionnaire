@@ -1,1 +1,0 @@
-lar[55822]=`<b>Κλεί·δημος, ου (ὁ)</b> Kléidèmos, <i>h</i>. ARSTT. <i>Meteor. 2, 9</i> ; PLUT. <i>Thes. 19, etc</i>.<p>➳ <i>Dor</i>. Κλείδαμος <font color="purple">[ᾱ]</font> DIOCL. (PLUT. <i>Qu. gr. 40).</i><p><b>Étym</b>. κλ. δῆμος ; <i>cf</i>. Δημοκλῆς.`

@@ -1,1 +1,0 @@
-lar[88016]=`<b>πυρσοβολέω-ῶ</b>, lancer comme du feu : ἀκτῖνας, MAN. <i>4, 214,</i> lancer des rayons enflammés.<p><b>Étym</b>. πυρσοβόλος.`

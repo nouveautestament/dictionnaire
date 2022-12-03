@@ -1,1 +1,0 @@
-lar[62050]=`<b>ου (τὸ)</b> <font color="purple">[ῡῐπ]</font> sorte d’onguent calmant, GAL. <i>13, 446</i> ; A. TR. <i>1, p. 97, etc</i>.<p><b>Étym</b>. λυσίπονος.`

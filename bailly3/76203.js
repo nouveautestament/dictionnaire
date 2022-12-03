@@ -1,1 +1,0 @@
-lar[76203]=`<b>ατος (τὸ)</b> préparatif, exercice, XÉN. <i>Œc. 11, 19</i>.<p><b>Étym</b>. παρασκευάζω.`

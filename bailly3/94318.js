@@ -1,1 +1,0 @@
-lar[94318]=`<b>συμ·πορθέω-ῶ</b>, dévaster <i>ou</i> ruiner ensemble <i>ou</i> avec, EUR. <i>Or. 888</i>.`

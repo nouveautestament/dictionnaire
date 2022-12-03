@@ -1,1 +1,0 @@
-lar[53829]=`<b>κατ·εικάζω :<br>      1</b> conjecturer, <i>acc</i>. HDT. <i>6, 112 ; particul</i>. soupçonner, HDT. <i>9, 109</i>.<br><b>      2</b> conformer, rendre semblable : τί τινι, EUP. <i>345 Kock,</i> une chose à une autre : <i>d’où au pass</i>. être devenu conforme : τινι, SOPH. <i>O.C. 337,</i> à qqe ch.`

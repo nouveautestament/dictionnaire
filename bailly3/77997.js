@@ -1,1 +1,0 @@
-lar[77997]=`<b>πεντα·μερής, ής, ές</b> <font color="purple">[ᾰ]</font> composé de cinq parties, STR. <i>165</i>.<p><b>Étym</b>. π. μέρος.`

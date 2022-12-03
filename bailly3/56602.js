@@ -1,1 +1,0 @@
-lar[56602]=`<b>οῦ (ὁ) :<br>      1</b> <i>c</i>. κόλασμα PLUT. <i>Alc. 13, M. 450a.</i><br><b>      2</b> action de retenir, de modérer, PLUT. <i>M. 509d, etc</i>.`

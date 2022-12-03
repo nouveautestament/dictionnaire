@@ -1,1 +1,0 @@
-lar[12769]=`<b>ἀπο·λιγαίνω</b> <font color="darkgreen">(<i>f</i>. ανῶ, <i>ao.2</i> ἀπελίγανον)</font> <font color="purple">[ῐ]</font> faire un bruit perçant, AR. <i>Ach. 968 ; en parl. du son de la flûte,</i> PLUT. <i>M. 173a</i>.`

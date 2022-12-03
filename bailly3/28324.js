@@ -1,1 +1,0 @@
-lar[28324]=`<b>δυσ·εγχείρητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à saisir, à entreprendre, JOS. <i>A.J. 15, 11, 2</i>.<p><b>Étym</b>. δ. ἐγχειρέω.`

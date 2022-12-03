@@ -1,1 +1,0 @@
-lar[12776]=`<b>ἀ·πολιόρκητος, ος, ον</b>, inexpugnable, imprenable par un siège, STR. <i>556</i> ; PLUT. <i>M. 1057e</i>.<p><b>Étym</b>. ἀ, πολιορκέω.`

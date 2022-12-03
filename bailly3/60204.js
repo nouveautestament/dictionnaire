@@ -1,1 +1,0 @@
-lar[60204]=`<b>ή, όν</b>, propre au service du culte, SPT. <i>Ex. 31, 10 ; Num. 7, 5</i> ; NT. <i>Hebr. 1, 14</i>.<p><b>Étym</b>. λειτουργία.`

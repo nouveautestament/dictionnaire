@@ -1,1 +1,0 @@
-lar[82344]=`<b>(ὁ)</b> Polys, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

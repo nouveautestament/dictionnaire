@@ -1,1 +1,0 @@
-lar[73328]=`<b>ου (τὸ) :<br>      1</b> huître <i>ou en gén</i>. coquillage bivalve, COM. (ATH. <i>92b, etc</i>.) ; PLUT. <i>M. 967c, etc.</i><br><b>      2</b> teinture de pourpre, PLAT. <i>Crat. 424d</i>.<p><b>Étym</b>. <i>cf. lat</i>. ostrea.`

@@ -1,1 +1,0 @@
-lar[51122]=`<b>έως (ὁ)</b> habitant de Kallion, <i>v. d’Étolie,</i> THC. <i>3, 96 au plur. att</i>. Καλλιῆς.`

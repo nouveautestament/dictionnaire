@@ -1,1 +1,0 @@
-lar[54673]=`<b>ας (ἡ)</b> épuisement des vases, <i>d’où</i> famine, disette, AR. <i>(Bkk. p. 104</i>) ; PLAT. COM. (POLL. <i>6, 31 et Bkk. p. 104).</i><p><b>Étym</b>. κεναγγής.`

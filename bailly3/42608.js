@@ -1,1 +1,0 @@
-lar[42608]=`<b>εὐλογο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui paraît raisonnable, RHÉT. <i>2, 316 W</i>.<p><b>Étym</b>. εὔλογος, φαίνω.`

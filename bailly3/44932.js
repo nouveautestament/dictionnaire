@@ -1,1 +1,0 @@
-lar[44932]=`<b>ας (ἡ)</b> offrande de figues, <i>à la fête des</i> Πλυντήρια, <i>en souvenir de la découverte de ce fruit,</i> ATH. <i>74d</i>.<p><b>Étym</b>. ἡγητήρ.`

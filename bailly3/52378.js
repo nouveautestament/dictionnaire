@@ -1,1 +1,0 @@
-lar[52378]=`<b>κατα·ζητέω-ῶ</b>, rechercher, JAMBL. <i>V. Pyth. 334</i>.`

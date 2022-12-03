@@ -1,1 +1,0 @@
-lar[50951]=`<font color="purple">[ᾰᾰ]</font> en forme de corbeille, HÉRACLITE GRAMM. <i>All. Hom. p. 472</i>.<p><b>Étym</b>. καλαθοειδής.`

@@ -1,1 +1,0 @@
-lar[61020]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> celui qui lance des pierres, DYSC. <i>Adv. 545, 24</i>.<p><b>Étym</b>. λιθάζω.`

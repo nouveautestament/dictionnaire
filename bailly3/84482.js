@@ -1,1 +1,0 @@
-lar[84482]=`<b>προ·καταντλέω-ῶ</b>, arroser auparavant, GAL. <i>10, 263</i>.`

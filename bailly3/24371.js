@@ -1,1 +1,0 @@
-lar[24371]=`<b>ου (ὁ)</b> Dèrænos, <i>càd</i>. de Dèra, <i>surn. d’Apollon,</i> LYC. <i>440</i> (Δηρά, <i>v. d’Ibérie,</i> E. BYZ.).`

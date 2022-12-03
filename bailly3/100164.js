@@ -1,1 +1,0 @@
-lar[100164]=`<b>τρί·γονος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> engendré trois fois, <i>en parl. de Bacchus,</i> ORPH. <i>H. 29, 2</i>.<br><b>      2</b> <i>au pl</i>. engendré au nombre de trois, EUR. <i>H.f. 1023,</i> ION <i>496</i>.<p><b>Étym</b>. τρ. γίγνομαι.`

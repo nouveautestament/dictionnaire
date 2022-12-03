@@ -1,1 +1,0 @@
-lar[65959]=`<b>μισ·άνθρωπος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait les hommes, PLAT. <i>Phæd. 89d, Leg. 791d ;</i> LUC. <i>Tim. 1, 35, 44</i>.<p>•<i> Sup</i>. -ότατος, ATH.`

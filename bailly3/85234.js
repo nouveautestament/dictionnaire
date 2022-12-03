@@ -1,1 +1,0 @@
-lar[85234]=`<b>προσ·αποβλέπω</b>, tourner les yeux vers <i>ou</i> sur, <i>dat</i>. ATH. <i>180b</i>.`

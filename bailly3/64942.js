@@ -1,1 +1,0 @@
-lar[64942]=`<b>μετα·ρρίπτω :<br>      1</b> renverser, changer de fond en comble, SIM. (THÉOPH. ANT. <i>ad Autol. 2, 37</i>) ; DÉM. <i>797, 11</i>.<br><b>      2</b> faire passer d’un parti dans un autre, POL. <i>17, 13, 8 ; 30, 6, 8, etc</i>.`

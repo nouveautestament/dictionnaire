@@ -1,1 +1,0 @@
-lar[10275]=`<b>ἀντι·πιέζω</b>, presser à l’encontre, refouler, POL.`

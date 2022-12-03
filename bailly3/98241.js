@@ -1,1 +1,0 @@
-lar[98241]=`<i>ion</i>. <b>Τελφούση, ης (ἡ)</b> Telphousa, <i>fontaine de Béotie,</i> HH. <i>2, 66, 98, 199, 209</i>.`

@@ -1,1 +1,0 @@
-lar[32393]=`<b>ἐκ·χοιριλόω-ῶ</b> (<i>part. pf</i>. ἐκκεχοιριλωμένη) n’avoir en soi rien de Khœrilos, CRAT. (<i>Com. fr. 2, 199).</i><p><b>Étym</b>. ἐκ, Χοιρίλος.`

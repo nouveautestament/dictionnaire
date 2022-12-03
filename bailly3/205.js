@@ -1,1 +1,0 @@
-lar[205]=`<b>ἄ·βροχος, ος, ον :<br>      1</b> non mouillé, ESCHN. <i>31, 5</i> ; NIC. <i>Th. 339, etc.</i><br><b>      2</b> sans eau (de rivière <i>ou</i> de pluie), sec, aride, EUR. <i>Hel. 1484</i> ; CALL. <i>Jov. 19</i>.<p><b>Étym</b>. ἀ, βρέχω.`

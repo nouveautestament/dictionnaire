@@ -1,1 +1,0 @@
-lar[26953]=`<i>adv</i>. <font color="purple">[ῑ̆ᾰ]</font><br><b>      1</b> doublement, deux fois autant, THC. <i>8, 1</i> ; AR. <i>Av. 1578</i> ; ESCHN. <i>44, 20</i>.<br><b>      2</b> en deux, ANTH. <i>7, 611</i>.<p><b>Étym</b>. διπλάσιος.`

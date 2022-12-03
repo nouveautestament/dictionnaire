@@ -1,1 +1,0 @@
-lar[69329]=`<b>ου (τὸ)</b> le Norique, <i>contrée voisine du Danube,</i> Ps.-PLUT. <i>Fluv. 10, 2</i>.`

@@ -1,1 +1,0 @@
-lar[91078]=`<b>σκολιο·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui erre dans des voies obliques <i>ou</i> sinueuses, NIC. <i>Th. 319</i>.<p><b>Étym</b>. σκ. πλανάομαι.`

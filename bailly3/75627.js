@@ -1,1 +1,0 @@
-lar[75627]=`<b>εως (ἡ) :<br>      1</b> exhortation, encouragement, HDT. <i>9, 34</i> ; THC. <i>2, 45, etc.</i><br><b>      2</b> avis, conseil, HDT. <i>5, 11, etc.</i> ; τινος, THC. <i>4, 59,</i> sur qqe ch. ; <i>particul</i>. recommandation, THC. <i>1, 92</i>.<p><b>Étym</b>. παραινέω.`

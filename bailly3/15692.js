@@ -1,1 +1,0 @@
-lar[15692]=`<font color="purple">[ᾰᾰ]</font><br><b>      1</b> aromatiser, DIOSC. <i>2, 91</i>.<br><b>      2</b> avoir une odeur aromatique, DS. <i>2, 49</i> ; PLUT. <i>M. 623e</i>.<p><b>Étym</b>. ἄρωμα¹.`

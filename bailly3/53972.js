@@ -1,1 +1,0 @@
-lar[53972]=`<b>ῆρος (ὁ)</b> qui redresse <i>ou</i> corrige, CLÉM. <i>138</i>.<p><b>Étym</b>. κατευθύνω.`

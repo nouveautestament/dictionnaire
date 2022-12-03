@@ -1,1 +1,0 @@
-lar[13506]=`<b>ος, ον</b>, repoussé à coups de projectiles lancés par des frondes, PLUT. <i>M. 293b</i>.<p><b>Étym</b>. ἀποσφενδονάω.`

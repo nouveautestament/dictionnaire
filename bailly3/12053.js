@@ -1,1 +1,0 @@
-lar[12053]=`être insatiable, ne pouvoir se rassasier : τινος, HIPPARQ. (STOB. <i>Fl. 108, 81</i>) ; ἔν τινι, SPT. <i>Sir. 37, 32</i> ; περί τι, CHRYS. <i>5, 686,</i> de qqe ch.<p><b>Étym</b>. ἄπληστος.`

@@ -1,1 +1,0 @@
-lar[69420]=`<b>ξεν·αγός, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> guide des étrangers, PLUT. <i>M. 567a ;</i> HLD. <i>7, 14</i>.<br><b>      2</b> commandant d’une troupe étrangère, THC. <i>2, 75</i> ; XÉN. <i>Hell. 5, 1, 33 ; 5, 2, 7</i>.<br><b>      3</b> commandant d’une troupe de 256 hommes d’infanterie, EL. TACT.<p><b>Étym</b>. ξένος, ἡγέομαι.`

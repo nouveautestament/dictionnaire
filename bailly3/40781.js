@@ -1,1 +1,0 @@
-lar[40781]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> garance, <i>plante qui sert à teindre en rouge,</i> DIOSC. <i>3, 160</i>.<p><b>Étym</b>. ἐρυθρός.`

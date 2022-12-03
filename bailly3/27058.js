@@ -1,1 +1,0 @@
-lar[27058]=`<i>att</i>. <b>διττῶς</b>, <i>adv.</i> :<br><b>      1</b> deux fois, EUR. <i>Ph. 1342</i>.<br><b>      2</b> de deux manières, ARSTT. <i>Nic. 1, 4, 5, etc.</i><br><b>      3</b> d’une manière équivoque, ARSTT. <i>Soph. el. 24, 10</i>.<p><b>Étym</b>. δισσός.`

@@ -1,1 +1,0 @@
-lar[32736]=`<font color="purple">[ῑ]</font> <i>adv</i>., d’Éleusis, AND. <i>15, 4</i> ; LYS. <i>107, 12</i> ; PLUT. <i>Them. 15, Ages. 24</i>.<p><b>Étym</b>. Ἐλευσίς, -θεν.`

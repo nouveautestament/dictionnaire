@@ -1,1 +1,0 @@
-lar[18366]=`<font color="purple">[ᾰᾱ]</font> <i>adv</i>., en langue grecque, SIB. (PHLÉG. TR. <i>Mir. fr. 39, p. 620).</i><p><b>Étym</b>. Ἀχαιός.`

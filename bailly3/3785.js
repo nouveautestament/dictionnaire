@@ -1,1 +1,0 @@
-lar[3785]=`<b>ἀκρο·κνέφαιος, ος, ον</b>, qui agit <i>ou</i> se fait vers la fin de la nuit, HÉS. <i>O. 565</i>.<p><b>Étym</b>. ἄ. κνεφαῖος.`

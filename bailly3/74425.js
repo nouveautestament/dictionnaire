@@ -1,1 +1,0 @@
-lar[74425]=`<b>παλαιό·πλουτος, ος, ον</b> <font color="purple">[ᾰ]</font> riche depuis longtemps, THC. <i>8, 28</i>.<p><b>Étym</b>. π. πλοῦτος.`

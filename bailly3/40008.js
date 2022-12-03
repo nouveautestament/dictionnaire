@@ -1,1 +1,0 @@
-lar[40008]=`<b>ἑπτα·πόδης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. de sept pieds, IL. <i>15, 729</i> ; HÉS. <i>O. 422</i>.<p><b>Étym</b>. ἑ, πούς.`

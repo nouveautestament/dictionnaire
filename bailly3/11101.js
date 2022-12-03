@@ -1,1 +1,0 @@
-lar[11101]=`<i>adv</i>., d’une manière étrange (<i>litt</i>. discordante) PLOT. <i>p. 295e</i>.<p><b>Étym</b>. ἀπᾴδω.`

@@ -1,1 +1,0 @@
-lar[51156]=`<b>καλλι·λογία, ας (ἡ)</b> <font color="purple">[λῐ]</font> beau langage, style agréable, DH. <i>Comp. 16</i>.<p><b>Étym</b>. κ. λόγος.`

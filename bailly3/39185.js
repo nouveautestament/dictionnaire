@@ -1,1 +1,0 @@
-lar[39185]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en se tournant de tous côtés, <i>càd</i>. avec véhémence, IL. <i>10, 483, etc.</i> ; OD. <i>22, 308</i>.<br><b>      2</b> en allant et venant, HH. <i>Merc. 210</i>.<br><b>      3</b> <i>p. ext</i>. de tous côtés, OPP. <i>C. 1, 79</i>.<p><b>Étym</b>. ἐπίστροφος, -δην.`

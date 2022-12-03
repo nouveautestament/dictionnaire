@@ -1,1 +1,0 @@
-lar[34984]=`<b>ἐν·σφηνόω-ῶ</b>, enfoncer comme un coin, <i>d’où</i> boucher, DIOSC. <i>5, 29</i>.<p><b>Étym</b>. ἐν, σφήν.`

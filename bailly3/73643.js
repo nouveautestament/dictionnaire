@@ -1,1 +1,0 @@
-lar[73643]=`<font color="purple">[ᾰᾱ]</font> <i>dat. sg. fém. poét. c</i>. οὐρανίᾳ <i>de</i> οὐράνιος, ALCM. <i>59</i>.`

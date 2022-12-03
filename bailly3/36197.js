@@ -1,1 +1,0 @@
-lar[36197]=`<b>ῆς (ἡ)</b> départ pour une expédition, PLAT. <i>Theag. 129d</i>.<p><b>Étym</b>. ἐξορμάω.`

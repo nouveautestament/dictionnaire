@@ -1,1 +1,0 @@
-lar[72242]=`<b>ου (τὸ)</b> <i>dim. de</i> ὄπεας, NICOCH. (POLL. <i>7, 83, etc</i>.) ; HPC. <i>1153d</i>.`

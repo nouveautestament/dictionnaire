@@ -1,1 +1,0 @@
-lar[66014]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) profession <i>ou</i> métier de mercenaire, PLAT. <i>Rsp. 346a</i>.<p><b>Étym</b>. μισθόω.`

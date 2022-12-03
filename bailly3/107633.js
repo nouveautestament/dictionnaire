@@ -1,1 +1,0 @@
-lar[107633]=`<font color="purple">[ῐδ]</font> imiter les mauvaises mœurs des Chalcidiens, EUST. (DP. <i>764).</i><p><b>Étym</b>. Χαλκίς.`

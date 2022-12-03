@@ -1,1 +1,0 @@
-lar[99630]=`<b>ου (τὸ)</b> cordage, câble ; <i>d’ord. au pl</i>. cordages, agrès d’un navire, STRATT., ARCHIPP. <i>et</i> IS. (HARP. <i>v°</i> τοπεῖον) ; POLL. <i>7, 150 ; 10, 31, 130).</i><p>➳ <i>Ion</i>. τοπήϊον, CALL. <i>Del. 315</i>.`

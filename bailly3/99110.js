@@ -1,1 +1,0 @@
-lar[99110]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῐ]</font> nourricier, SIB.<p><b>Étym</b>. *τιθεύω.`

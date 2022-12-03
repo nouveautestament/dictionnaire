@@ -1,1 +1,0 @@
-lar[5896]=`<font color="purple">[ᾰῠῐ]</font> <i>adv. éol.</i> :<br><b>      1</b> au même endroit, ensemble, IL. <i>10, 300 ; 12, 385, etc.</i><br><b>      2</b> en même temps, OD. <i>12, 415</i>.<p><b>Étym</b>. ἄμα.`

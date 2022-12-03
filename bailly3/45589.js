@@ -1,1 +1,0 @@
-lar[45589]=`<b>ἡμι·τρίγωνος, ος, ον</b> <font color="purple">[ῐγ]</font> à moitié triangulaire, THEOL. <i>p. 63, 3</i>.<p>➳ <i>Dor</i>. ἁμι- <font color="purple">[ᾱ]</font> T. LOCR. <i>98b</i>.<p><b>Étym</b>. ἡμι-, τρ.`

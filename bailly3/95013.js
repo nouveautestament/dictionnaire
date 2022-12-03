@@ -1,1 +1,0 @@
-lar[95013]=`<b>ας (ἡ)</b> rencontre des rayons visuels avec les rayons lumineux de l’objet observé, ce qui était censé produire la vision, PLUT. <i>M. 901c ;</i> STOB. <i>Ecl. 1, 55, p. 1108</i>.`

@@ -1,1 +1,0 @@
-lar[80949]=`<b>Πληθ·αγόρας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Plèthagoras, <i>càd</i>. qui vient quand l’agora est pleine, <i>n. d’h. formé par jeu de mots avec</i> Πυθαγόρας, ATH. <i>270d</i>.<p><b>Étym</b>. πλῆθος, ἀγορά.`

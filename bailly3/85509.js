@@ -1,1 +1,0 @@
-lar[85509]=`<b>προσ·εισπράσσω</b>, <i>att</i>. <b>-άττω</b>, exiger en outre, PLUT. <i>Alc. 8</i>.`

@@ -1,1 +1,0 @@
-lar[107812]=`<b>χαμ·ευνάς, άδος</b> <font color="purple">[χᾰ]</font> <i>adj. f</i>. qui couche à terre, étendue à terre, LYC. <i>848 ; d’où subst.</i> :<br><b>      1</b> couche, NIC. <i>Th. 23</i>.<br><b>      2</b> <i>c</i>. χαμαιτύπη, LYC. <i>319</i>.<p><b>Étym</b>. χαμεύνη.`

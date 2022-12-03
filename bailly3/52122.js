@@ -1,1 +1,0 @@
-lar[52122]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font> <i>c</i>. κατάβασις, PLUT. <i>M. 555a</i>.`

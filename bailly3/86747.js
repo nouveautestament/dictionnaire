@@ -1,1 +1,0 @@
-lar[86747]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne une prédiction, PROCL. <i>Ptol. p. 48, 26</i>.<p><b>Étym</b>. προτέλεσμα.`

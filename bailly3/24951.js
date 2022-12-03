@@ -1,1 +1,0 @@
-lar[24951]=`<b>ος, ον</b>, propre à concilier, de conciliation, DH. <i>5, 31</i>.`

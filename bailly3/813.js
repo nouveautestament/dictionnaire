@@ -1,1 +1,0 @@
-lar[813]=`<b>ἀ·γόνατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> sans genou, ARSTT. <i>Inc. an. 9, 4</i>.<br><b>      2</b> sans jointures, sans articulations, sans nœuds, <i>en parl. de plantes,</i> TH. <i>H.P. 4, 8, 7</i>.<p><b>Étym</b>. ἀ, γόνυ.`

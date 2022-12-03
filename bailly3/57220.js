@@ -1,1 +1,0 @@
-lar[57220]=`<b>ης (ἡ)</b> Korônè, <i>f</i>. PLUT. <i>Def. or. 5</i>.<p><b>Étym</b>. <i>cf</i>. κορώνη.`

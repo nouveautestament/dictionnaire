@@ -1,1 +1,0 @@
-lar[93151]=`<b>ος, ον</b>, de sanglier, LYNC. (ATH. <i>402a</i>).<p><b>Étym</b>. σύαγρος².`

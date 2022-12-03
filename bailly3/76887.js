@@ -1,1 +1,0 @@
-lar[76887]=`<b>ατος (τὸ) :<br>      1</b> travail de jeune fille, EUR. <i>Ion 1425 ; au pl</i>. divertissements de jeune fille, EUR. <i>Ph. 1265</i>.<br><b>      2</b> condition de jeune fille, EUR. <i>Ion 1472</i>.<p><b>Étym</b>. παρθενεύω.`

@@ -1,1 +1,0 @@
-lar[62745]=`<b>ᾶ (ὁ)</b> Mamon, <i>personnification de la richesse,</i> NT. <i>Matth. 6, 24</i>.`

@@ -1,1 +1,0 @@
-lar[91775]=`<b>η, ον</b> <font color="purple">[ῐ]</font> fait de genêt : ἡ σπ. EL. <i>N.A. 12, 43, c</i>. σπάρτη.<p>➳ <i>Fém</i>. -ος, CRAT. (<i>Com. fr. 2, 84).</i><p><b>Étym</b>. σπαρτός.`

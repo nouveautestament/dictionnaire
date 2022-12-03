@@ -1,1 +1,0 @@
-lar[32570]=`<b>ἐλαφό·πους</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰ]</font> aux pieds de cerf, HIPPIATR. <i>p. 262, 10</i>.<p><b>Étym</b>. ἐ. πούς.`

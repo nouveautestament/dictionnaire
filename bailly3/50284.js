@@ -1,1 +1,0 @@
-lar[50284]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> propreté, pureté, HDT. <i>2, 37</i> ; XÉN. <i>Mem. 2, 1, 22</i> ; ARSTT. <i>Nic. 10, 5, 7 ; fig</i>. pureté du style, SEXT. <i>640 Bkk.</i><br><b>      2</b> <i>p. ext</i>. décence, mesure, PLUT. <i>Lyc. 21, M. 67e ;</i> ATH. <i>542c</i>.<p><b>Étym</b>. καθάριος.`

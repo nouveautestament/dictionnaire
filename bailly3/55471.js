@@ -1,1 +1,0 @@
-lar[55471]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> de Cimon, CRAT. (<i>Com. fr. 2, 104</i>) ; τὰ Κιμώνεια, PLUT. <i>Cim. 4,</i> les restes de Cimon, <i>près d’Athènes</i>.`

@@ -1,1 +1,0 @@
-lar[36841]=`<b>ἐπ·αυθαδίζομαι</b> (<i>part. ao</i>. -ισαμένους) <font color="purple">[θᾱ]</font> s’obstiner dans, ἐπί <i>et le dat</i>. JOS. <i>B.J. 3, 7, 11</i>.`

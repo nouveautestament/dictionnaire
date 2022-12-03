@@ -1,1 +1,0 @@
-lar[8492]=`<i>adv</i>., sans savoir, XÉN. <i>Cyn. 3, 11</i> ; PLAT. <i>Leg. 636e</i>.`

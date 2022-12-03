@@ -1,1 +1,0 @@
-lar[86213]=`<b>προσ·ομόργνυμι</b>, imprimer (une tache, une souillure, <i>etc</i>.) sur, <i>dat</i>. THÉM. <i>248d.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>Crass. 2</i>.`

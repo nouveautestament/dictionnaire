@@ -1,1 +1,0 @@
-lar[31150]=`<b>ἐκ·γράφω</b> <font color="purple">[ᾰ]</font> effacer d’une liste, rayer : ἐκγρ. τινὰ τῆς βουλῆς, DH. <i>18, 22,</i> rayer qqn de la liste du sénat, <i>au pass</i>. AND. <i>10, 36</i>.<br><b><i>Moy.</i></b> transcrire pour soi <i>ou</i> faire transcrire, AR. <i>Ran. 151, Av. 983</i> ; DÉM. <i>1180, 22 ; 1197, 6</i> ; ATH. <i>4c</i>.`

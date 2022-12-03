@@ -1,1 +1,0 @@
-lar[14073]=`<b>ή, όν</b>, propre à nier avec serment (<i>en parl. de la particule</i> μά), <i>p. opp. à</i> κατωμοτικός, D. THR. <i>642, 15</i>.<p><b>Étym</b>. ἀπώμοτος.`

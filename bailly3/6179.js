@@ -1,1 +1,0 @@
-lar[6179]=`<b>ἀμφι·κεάζω</b> (<i>seul. part. ao. épq</i>. -κεάσσας) fendre tout autour, <i>d’où</i> tailler, écorcer, OD. <i>14, 12</i>.`

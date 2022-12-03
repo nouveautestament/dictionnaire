@@ -1,1 +1,0 @@
-lar[43796]=`<b>εὐ·χάριτος, ος, ον</b> <font color="purple">[ᾰῐ]</font> agréable, ARSTT. <i>H.A. 8, 3</i>.<p>•<i> Cp</i>. -ιτώτερος, EL. <i>N.A. 1, 59 ; • Sup</i>. -ιτώτατος, APP. <i>Civ. 2, 26 (conj</i>. -ιστότατος).<p><b>Étym</b>. εὖ, χάρις.`

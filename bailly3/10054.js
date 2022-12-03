@@ -1,1 +1,0 @@
-lar[10054]=`<b>ἀντι·μαίνομαι</b>, être furieux contre <i>ou</i> en retour, A. PL. <i>30 (ao.2</i> ἀντεμάνην) ; LUC. <i>D. mer. 12, 2</i>.<p><b>Étym</b>. <i>part. pf</i>. ἀντιμεμηνώς.`

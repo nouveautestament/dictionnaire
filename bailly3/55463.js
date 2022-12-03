@@ -1,1 +1,0 @@
-lar[55463]=`<b>ή, όν</b>, des Cimbres, PLUT. <i>Cæs. 6, Luc. 38, etc</i>.<p><b>Étym</b>. Κίμβροι.`

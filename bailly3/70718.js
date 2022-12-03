@@ -1,1 +1,0 @@
-lar[70718]=`<b>ης, ες</b>, semblable à un animal piqué par un taon, <i>d’où</i> transporté de fureur, T. LOCR. <i>102e ;</i> PLAT. <i>Tim. 91b, etc.</i> ; PLUT. <i>M. 446d, etc</i>.<p><b>Étym</b>. οἶστρος, -ωδής.`

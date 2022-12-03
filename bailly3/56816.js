@@ -1,1 +1,0 @@
-lar[56816]=`<b>ατος (τὸ)</b> ornement recherché, parure, LUC. <i>H. conscr. 8</i>.<p><b>Étym</b>. κομμόω.`

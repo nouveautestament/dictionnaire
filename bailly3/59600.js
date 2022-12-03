@@ -1,1 +1,0 @@
-lar[59600]=`<b>ατος (τὸ)</b> <font color="purple">[λᾰ]</font> lambeau, morceau, EUR. <i>Tr. 497</i>.<p><b>Étym</b>. λακίζω.`

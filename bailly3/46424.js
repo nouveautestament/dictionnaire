@@ -1,1 +1,0 @@
-lar[46424]=`<b>      1</b> donner une représentation théâtrale, SUID. EM.<br><b>      2</b> porter sur la scène, <i>d’où</i> exposer aux risées de la foule, NYSS. <i>3, 1186 Migne ; au pass</i>. NT. <i>Hebr. 10, 33</i>.<p><b>Étym</b>. θέατρον.`

@@ -1,1 +1,0 @@
-lar[41690]=`<b>εὐ·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font> bien teint, HERMÉS. (STOB. <i>Ecl. 1, 942</i>) ; SABIN. (ORIB. <i>2, 315 B.-Dar</i>.).<p><b>Étym</b>. εὖ, βάπτω.`

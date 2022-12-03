@@ -1,1 +1,0 @@
-lar[21944]=`Gèreia, <i>v. de l’Inde,</i> NONN. <i>D. 26, 52</i>.`

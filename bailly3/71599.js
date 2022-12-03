@@ -1,1 +1,0 @@
-lar[71599]=`<b>ὁμό·κτιτος, ος, ον</b> <font color="purple">[ῐ]</font> bâti ensemble, OPP. <i>H. 4, 352</i>.<p><b>Étym</b>. ὁμ. κτίζω.`

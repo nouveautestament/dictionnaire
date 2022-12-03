@@ -1,1 +1,0 @@
-lar[16253]=`<b>ου (ὁ)</b> Astrabakos, <i>héros lacédémonien,</i> HDT.`

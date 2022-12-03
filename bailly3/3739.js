@@ -1,1 +1,0 @@
-lar[3739]=`<b>ἀκρο·βάμων, ων, ον</b>, <i>gén</i>. <b>-ονος</b> <font color="purple">[βᾱ]</font> qui marche sur la pointe des pieds, NAZ. <i>3, 24 Migne</i>.<p><b>Étym</b>. ἄκρος, βαίνω.`

@@ -1,1 +1,0 @@
-lar[992]=`<b>ου (ὁ) :<br>      1</b> chasseur A.RH. <i>4, 175</i>.<br><b>      2</b> sorte d’araignée, NIC. <i>Th. 734</i>.<p><b>Étym</b>. ἄγρα.`

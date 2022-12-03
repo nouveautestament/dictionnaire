@@ -1,1 +1,0 @@
-lar[76773]=`<b>παρ·επιφέρω</b> <font color="darkgreen">(<i>f</i>. -εποίσω, <i>ao</i>. -επήνεγκα)</font> apporter en outre, ajouter, compléter, accomplir, M. RUBR. <i>p. 33</i>.`

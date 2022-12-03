@@ -1,1 +1,0 @@
-lar[87386]=`<b>εως (ἡ)</b> <font color="purple">[ῐλ]</font><br><b>      1</b> action de garnir de plumes, <i>d’où</i> plumage, EL. <i>N.A. 16, 4</i>.<br><b>      2</b> chute des cils, <i>maladie des yeux,</i> GAL. <i>10, 338</i>.<p><b>Étym</b>. πτιλόω.`

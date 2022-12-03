@@ -1,1 +1,0 @@
-lar[63426]=`<b>μεγαλο·σθενής, ής, ές</b> <font color="purple">[ᾰ]</font> doué d’une grande force, HOM. <i>Ep. 6</i> ; PD. <i>P. 6, 21</i> ; CORINNE <i>2</i>.<p><b>Étym</b>. μ. σθένος.`

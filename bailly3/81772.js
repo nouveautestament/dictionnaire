@@ -1,1 +1,0 @@
-lar[81772]=`<b>πολύ·βυθος, ος, ον</b> <font color="purple">[ῠῠ]</font> tout à fait profond, PHIL. <i>1, 6</i>.<p><b>Étym</b>. π. βυθός.`

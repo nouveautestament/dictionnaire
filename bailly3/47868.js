@@ -1,1 +1,0 @@
-lar[47868]=`<b>θυμ·άγροικος, ου</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. aux mœurs rustiques, rustre, AR. <i>fr. 707</i>.<p><b>Étym</b>. θυμός, ἄγροικος.`

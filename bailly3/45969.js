@@ -1,1 +1,0 @@
-lar[45969]=`<i>adv</i>., moins que, moins, JOS. <i>A.J. 19, 1, 15</i>.<p><b>Étym</b>. ἥσσων.`

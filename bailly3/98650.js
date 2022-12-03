@@ -1,1 +1,0 @@
-lar[98650]=`<font color="purple">[ᾰ]</font> <i>adj. m. c</i>. τετράπους, MAN. <i>4, 26</i>.`

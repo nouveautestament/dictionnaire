@@ -1,1 +1,0 @@
-lar[106085]=`<b>φιλο·σκώμμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> qui aime à railler, moqueur, HDT. <i>2, 174</i> ; PLUT. <i>Syll. 2, Cato ma. 7, etc</i>.<p><b>Étym</b>. φ. σκώπτω.`

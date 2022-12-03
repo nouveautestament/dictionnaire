@@ -1,1 +1,0 @@
-lar[12436]=`<b>ἀπο·θύμιος, ος, ον</b> <font color="purple">[ῡ]</font>, désagréable, odieux, IL. <i>14, 261</i> ; HÉS. <i>O. 708</i> ; HDT. <i>7, 168</i>.<p>➳ <i>Fém</i>. -η, SIM. AM. <i>Iamb. fr. 6, 35</i>.<p><b>Étym</b>. ἀπό, θυμός.`

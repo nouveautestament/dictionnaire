@@ -1,1 +1,0 @@
-lar[93525]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> <i>c</i>. συγκραματικός, PTOL. <i>Tetr. 82</i>.`

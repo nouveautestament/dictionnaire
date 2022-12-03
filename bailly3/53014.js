@@ -1,1 +1,0 @@
-lar[53014]=`<b>κατα·πεδιλόω-ῶ</b> <font color="purple">[ῑ]</font> chausser, EUM. <i>p. 118</i>.<p><b>Étym</b>. κ. πέδιλον.`

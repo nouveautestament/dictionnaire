@@ -1,1 +1,0 @@
-lar[40020]=`<b>ἑπτ·άστερος, ος, ον</b>, de sept étoiles, CLÉM. <i>813</i> ; GAL. <i>8, 505</i> ; Ps.-ERATOSTH. <i>Cat. 14</i>.<p><b>Étym</b>. ἑ. ἀστήρ.`

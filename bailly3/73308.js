@@ -1,1 +1,0 @@
-lar[73308]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> petite écaille d’une pomme de pin, MNÉSITH. (ATH. <i>57b</i>).<p><b>Étym</b>. ὄστρακον.`

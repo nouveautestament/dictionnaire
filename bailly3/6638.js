@@ -1,1 +1,0 @@
-lar[6638]=`<b>ου (ὁ)</b> lecteur, CIC. <i>Att. 1, 12</i> ; PLUT. <i>Crass. 2</i> ; SPT. <i>1Esdr. 8, 8</i>.<p><b>Étym</b>. ἀναγιγνώσκω.`

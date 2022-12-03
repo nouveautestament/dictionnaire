@@ -1,1 +1,0 @@
-lar[31925]=`<b>ἕκ·πους, -ποδος (ὁ, ἡ)</b> de six pieds, <i>seul. au plur. et au duel,</i> CIA. <i>1, 322, a, 11, 54 (409 av. J.-C.) ; écrit aussi</i> ἕξπους : ἕξποδας, <i>EA. 1886, p. 205-6, 83-4 (commenc. du 4<sup>e</sup> siècle) ; v. Meisterh. p. 125, 4</i>.<p><b>Étym</b>. ἕξ, πούς.`

@@ -1,1 +1,0 @@
-lar[31076]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui préside au débarquement (Apollon) A.RH. <i>1, 966</i>.<p><b>Étym</b>. ἐκβαίνω, <i>cf</i>. ἐμβάσιος.`

@@ -1,1 +1,0 @@
-lar[108826]=`<b>χορο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> passionné pour les chœurs, AR. <i>Th. 961</i>.<p><b>Étym</b>. χ. μαίνομαι.`

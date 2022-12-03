@@ -1,1 +1,0 @@
-lar[45760]=`<b>ἠπιό·δωρος, ος, ον</b>, aux doux présents, IL. <i>6, 251 ; en parl. d’Asklèpios,</i> ORPH. <i>H. 67, 3 ; des Muses,</i> OPP. <i>H. 4, 7</i>.<p><b>Étym</b>. ἤπιος, δῶρον.`

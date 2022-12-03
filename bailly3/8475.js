@@ -1,1 +1,0 @@
-lar[8475]=`<b>ἀν·επίρρεκτος, ος, ον</b>, qui n’a pas encore servi aux sacrifices, HÉS. <i>O. 746</i>.<p><b>Étym</b>. ἀν-, ἐπιρρέζω.`

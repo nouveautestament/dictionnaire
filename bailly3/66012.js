@@ -1,1 +1,0 @@
-lar[66012]=`servir comme mercenaire, LYCURG. <i>fr. 86, p. 69 Baiter-Sauppe</i>.<p><b>Étym</b>. μισθωτής.`

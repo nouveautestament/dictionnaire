@@ -1,1 +1,0 @@
-lar[64766]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de courber autrement, de replier, JOS. <i>B.J. 6, 1, 7</i> ; ARÉT. <i>p. 49, 38</i>.<p><b>Étym</b>. μετακλίνω.`

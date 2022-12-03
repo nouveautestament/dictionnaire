@@ -1,1 +1,0 @@
-lar[1426]=`<b>ἀδικο·μήχανος, ος, ον</b> <font color="purple">[ᾰῐᾰ]</font> artisan d’injustice <i>ou</i> de méfaits, AR. <i>fr. 560</i>.<p><b>Étym</b>. ἄ. μηχανή.`

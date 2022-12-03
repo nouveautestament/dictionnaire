@@ -1,1 +1,0 @@
-lar[105687]=`<b>φίλ·ιχθυς, υος (ὁ, ἡ)</b> <font color="purple">[φῐ]</font> qui aime le poisson, ATH. <i>6d, 338d, 344d, 358d</i>.<p><b>Étym</b>. φίλος, ἰχθύς.`

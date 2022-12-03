@@ -1,1 +1,0 @@
-lar[108397]=`<i>crase dor. p</i>. καὶ ἥσετε, <i>2 pl. fut. de</i> ἵημι, AR. <i>Ach. 747</i>.`

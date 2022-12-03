@@ -1,1 +1,0 @@
-lar[59933]=`<b>ου</b>, <i>adj. m</i>. lascif, débauché, THPP. (ATH. <i>167b</i>) ; ANTH. <i>12, 41</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

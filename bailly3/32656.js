@@ -1,1 +1,0 @@
-lar[32656]=`<b>ἑλειο·βάτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui fréquente les marécages, ESCHL. <i>Pers. 39</i>.<p><b>Étym</b>. ἕλειος, βαίνω.`

@@ -1,1 +1,0 @@
-lar[55420]=`<b>ύος (ἡ)</b> <font color="purple">[ῐᾰ]</font> habileté à jouer de la cithare, IL. <i>2, 600</i> ; PHANOCL. (STOB. <i>Fl. 64, 14).</i><p><b>Étym</b>. κιθαρίζω.`

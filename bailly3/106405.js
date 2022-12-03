@@ -1,1 +1,0 @@
-lar[106405]=`<b>ου (τὸ) :<br>      1</b> petite flamme, LGN <i>35, 4</i>.<br><b>      2</b> violier, <i>plante,</i> TH. <i>H.P. 6, 7, 1</i>.<p><b>Étym</b>. <i>neutre de</i> φλόγιος.`

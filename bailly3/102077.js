@@ -1,1 +1,0 @@
-lar[102077]=`<i>vb. de</i> ὑπείκω, SOPH. <i>Aj. 668</i> ; PLAT. <i>Crit. 57b</i>.`

@@ -1,1 +1,0 @@
-lar[46239]=`<b>ῆς (ἡ)</b> chaleur douce ; <i>fig</i>. tout ce qui réchauffe le cœur (encouragement, consolation, espérance, <i>etc</i>.) IL. <i>6, 412</i> ; OD. <i>1, 167 ; au pl</i>. TRIPHIOD. <i>128</i>.<p><b>Étym</b>. θάλπω.`

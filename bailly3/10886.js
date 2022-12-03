@@ -1,1 +1,0 @@
-lar[10886]=`<b>ἄ·ξεστος, ος, ον</b>, non raclé, non poli, SOPH. <i>O.C. 19</i> ; ANTH. <i>7, 657</i>.<p><b>Étym</b>. ἀ, ξέω.`

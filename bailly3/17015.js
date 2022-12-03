@@ -1,1 +1,0 @@
-lar[17015]=`<b>ου (ὁ)</b> <font color="purple">[τᾰῑ]</font> <i>sorte de gâteau,</i> ATH. <i>645c, 647f ; cf</i>. τηγανίτης.`

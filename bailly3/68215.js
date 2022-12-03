@@ -1,1 +1,0 @@
-lar[68215]=`<b>νεό·ποκος, ος, ον</b>, fraîchement tondu, SOPH. <i>O.C. 475</i>.<p><b>Étym</b>. ν. πείκω.`

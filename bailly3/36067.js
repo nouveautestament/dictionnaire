@@ -1,1 +1,0 @@
-lar[36067]=`<b>ἔξ·οδος, ος, ον</b>, qui favorise le passage <i>ou</i> la sortie de, <i>gén</i>. ARÉT. <i>Cur. m. diut. 2, 4</i>.<p><b>Étym</b>. ἐξ, ὁδός.`

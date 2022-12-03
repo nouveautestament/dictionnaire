@@ -1,1 +1,0 @@
-lar[8299]=`<font color="purple">[ῐ]</font> <i>adv</i>., sans cesser, DYSC. <i>Synt. 212</i> ; SEXT. <i>M. 8, 439</i>.`

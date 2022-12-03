@@ -1,1 +1,0 @@
-lar[31813]=`<b>ἐκ·περισσῶς</b>, <i>adv</i>., d’une façon tout à fait excessive, NT. <i>Marc. 14, 31</i>.<p><b>Étym</b>. ἐκ, περισσός.`

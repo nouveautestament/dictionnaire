@@ -1,1 +1,0 @@
-lar[31832]=`<b>ἐκ·πηγνύω</b>, <i>c</i>. ἐκπήγνυμι, <i>d’où</i> rendre épais, lourd, PLUT. <i>M. 978c</i>.`

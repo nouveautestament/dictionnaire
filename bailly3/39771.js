@@ -1,1 +1,0 @@
-lar[39771]=`<b>ἐπ·ιωνικός, ή, όν</b>, qui contient un ionique mêlé à d’autres pieds, HÉPH. <i>14, 5 et 8 ; 16, 5</i> ; A. QUINT. <i>p. 56</i>.<p><b>Étym</b>. ἐπί, ἰωνικός.`

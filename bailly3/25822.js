@@ -1,1 +1,0 @@
-lar[25822]=`<b>δι·αυχέω-ῶ</b>, s’enorgueillir, se glorifier, CLÉM. <i>2, 253a Migne</i>.`

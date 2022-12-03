@@ -1,1 +1,0 @@
-lar[30538]=`<b>εἰνοσί·φυλλος, ος, ον</b> <font color="purple">[ῐ]</font> qui agite son feuillage, IL. <i>2, 632, 757</i> ; OD. <i>9, 22</i>.<p><b>Étym</b>. ἔνοσις, φύλλον.`

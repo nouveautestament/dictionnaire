@@ -1,1 +1,0 @@
-lar[85251]=`<b>προσ·απολαύω</b>, recueillir en outre, <i>acc</i>. PLAT. <i>2 Alc. 150c ; gén</i>. DH. <i>6, 58</i>.`

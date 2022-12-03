@@ -1,1 +1,0 @@
-lar[58506]=`<b>Κυθν·ώλης συμφορά (ἡ)</b> ruine semblable à celle de Kythnos, <i>càd</i>. complète, ARSTT. (ZÉNOB. <i>4, 83).</i><p><b>Étym</b>. Κύθνος, ὄλλυμι.`

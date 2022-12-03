@@ -1,1 +1,0 @@
-lar[10737]=`<b>ἀν·υπερηφάνως</b> <font color="purple">[φᾰ]</font> <i>adv</i>., sans hauteur, sans fierté, BAS. <i>3, 414</i>.<p><b>Étym</b>. ἀν-, ὑ.`

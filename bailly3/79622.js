@@ -1,1 +1,0 @@
-lar[79622]=`<font color="purple">[ᾰ]</font> <i>adv</i>., habilement, avec art, IL. <i>1, 466, etc.</i> ; ANTIM. (ATH. <i>468a</i>).<p><b>Étym</b>. περιφραδής.`

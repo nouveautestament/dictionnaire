@@ -1,1 +1,0 @@
-lar[63600]=`<b>μέθ·ημαι</b> (<i>seul. part</i>. μεθήμενος) être assis au milieu de, parmi, <i>dat</i>. OD. <i>1, 118</i>.<p><b>Étym</b>. μετά, ἧμαι.`

@@ -1,1 +1,0 @@
-lar[33796]=`<b>ἐν·αδολεσχέω-ῶ</b> <font color="purple">[ᾱ]</font> bavarder sur, <i>dat</i>. PHIL. <i>2, 59</i>.`

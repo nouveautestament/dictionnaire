@@ -1,1 +1,0 @@
-lar[41706]=`<b>εὐ·βοήθητος, ος, ον :<br>      1</b> facile à secourir <i>ou</i> à défendre, ARSTT. <i>Pol. 7, 5, 9</i>.<br><b>      2</b> facile à soigner <i>ou</i> à guérir, HPC. <i>397, 22</i> ; ARSTT. <i>Probl. 1, 25</i>.<p><b>Étym</b>. εὖ, βοηθέω.`

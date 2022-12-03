@@ -1,1 +1,0 @@
-lar[67689]=`<b>ᾶ</b> <i>et</i> <b>οῦ (ὁ)</b> = <i>lat</i>. Nasica, <i>n. d’h. rom</i>. PLUT. <i>T. Gracch. 13, etc</i>.<p>➳ <i>Gén</i>. -ᾶ, PLUT. <i>l.c.</i> ; -οῦ, DC. <i>40, 51</i>.`

@@ -1,1 +1,0 @@
-lar[25202]=`<b>δια·παρατριβή, ῆς (ἡ)</b> <font color="purple">[ῐ]</font> violente querelle, NT. <i>1Tim. 6, 5</i> ; CLÉM. <i>1, 736c Migne</i>.<p><b>Étym</b>. <i>vulg</i>. παραδιατριβαί.`

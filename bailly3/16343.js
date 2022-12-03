@@ -1,1 +1,0 @@
-lar[16343]=`<b>ἀ·στρούθιστος, ος, ον</b>, non travaillé par le foulon, DIOSC. <i>2, 84</i>.<p><b>Étym</b>. ἀ, στρουθίζω.`

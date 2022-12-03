@@ -1,1 +1,0 @@
-lar[15328]=`<b>ἀρτί·γονος, ος, ον</b> <font color="purple">[ῐ]</font> nouveau-né, ANTH. <i>6, 252</i> ; OPP. <i>C. 3, 9</i>.<p><b>Étym</b>. ἄ. γίγνομαι.`

@@ -1,1 +1,0 @@
-lar[79750]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. περόνη, SOPH. <i>Tr. 925</i>.`

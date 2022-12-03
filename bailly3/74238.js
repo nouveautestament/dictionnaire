@@ -1,1 +1,0 @@
-lar[74238]=`<i>adv</i>., à la manière des jeunes enfants, POL. <i>27, 2, 10</i>.`

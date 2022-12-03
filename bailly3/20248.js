@@ -1,1 +1,0 @@
-lar[20248]=`<b>ου (ὁ)</b> riverain du Borysthène, HDT. <i>4, 17, etc</i>.<p><b>Étym</b>. <i>gén. pl. ion</i>. -εϊτέων.`

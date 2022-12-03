@@ -1,1 +1,0 @@
-lar[22731]=`<b>γυλι·αύχην, -αύχενος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> au long cou, AR. <i>Pax 789</i>.<p><b>Étym</b>. γύλιος, αὐχήν.`

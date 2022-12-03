@@ -1,1 +1,0 @@
-lar[59149]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> qui empêche, THC. <i>3, 23</i> ; PLAT. <i>Criti. 109a</i>.<p><b>Étym</b>. κωλύω.`

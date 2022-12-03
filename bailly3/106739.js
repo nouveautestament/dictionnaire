@@ -1,1 +1,0 @@
-lar[106739]=`(<i>seul. pass. impf</i>. ἐφορυνόμην) <font color="purple">[ῡ]</font><br><b>      1</b> mêler, faire un mélange, OD. <i>22, 21</i> ; HPC. <i>V. med. 2</i>.<br><b>      2</b> <i>p. suite,</i> barbouiller, souiller, salir, Q. SM. <i>2, 356 ; 3, 604</i>.<p>➳ <i>Impf. 3 sg. poét</i>. φορύνετο, OD. <i>l.c</i>.<p><b>Étym</b>. <i>v</i>. φορύσσω.`

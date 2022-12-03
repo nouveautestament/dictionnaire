@@ -1,1 +1,0 @@
-lar[7505]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> jaillissement, HÉRON <i>Aut. 247</i>.`

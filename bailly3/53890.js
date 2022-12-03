@@ -1,1 +1,0 @@
-lar[53890]=`<b>κατ·εξεράω-ῶ</b>, vomir contre, <i>rég. ind. au gén</i>. ARR. <i>Epict. 3, 13, 23</i> ; CLÉM. <i>46</i>.`

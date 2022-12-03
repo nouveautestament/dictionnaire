@@ -1,1 +1,0 @@
-lar[14927]=`<i>vb. de</i> ἁρμόζω, DYSC. <i>Pron. p. 101b ;</i> CLÉM. <i>196</i>.`

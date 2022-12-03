@@ -1,1 +1,0 @@
-lar[42865]=`<b>εὐ·όνυξ</b>, <i>gén</i>. <b>υχος (ὁ, ἡ)</b> <font color="purple">[ῠχ]</font> aux belles <i>ou</i> fortes nageoires (<i>litt</i>. ongles) M. SID. <i>34</i>.<p><b>Étym</b>. εὖ, ὄνυξ.`

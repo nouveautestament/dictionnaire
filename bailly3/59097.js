@@ -1,1 +1,0 @@
-lar[59097]=`faire résonner un vase d’argile <i>ou</i> de métal, une monnaie, pour les éprouver, AR. <i>Ran. 78</i> ; ANAXANDR. (ATH. <i>638d</i>).<p><b>Étym</b>. κώδων.`

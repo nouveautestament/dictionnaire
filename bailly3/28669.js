@@ -1,1 +1,0 @@
-lar[28669]=`<b>*δυσ·μήτωρ</b>, <i>seul. dor</i>. <b>δυσ·μάτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> d’une mère dénaturée, ESCHL. <i>Suppl. 68</i>.<p><i>cf</i>. δυσμήτηρ.`

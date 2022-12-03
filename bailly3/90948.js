@@ -1,1 +1,0 @@
-lar[90948]=`<b>σκί·ουρος, ου (ὁ)</b> écureuil, <i>litt</i>. « qui se fait de l’ombre avec sa queue », OPP. <i>C. 2, 586</i>.<p>➳ σκι- <i>ne fait pas position</i>.<p><b>Étym</b>. σκιά, οὐρά.`

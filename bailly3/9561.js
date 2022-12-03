@@ -1,1 +1,0 @@
-lar[9561]=`<b>ἀντ·εισφέρω</b>, <i>att</i>. <b>ἀντ·εσφέρω :<br>      1</b> contribuer en retour, AR. <i>Lys. 654</i>.<br><b>      2</b> introduire à la place : νόμον, DÉM. <i>486, 24,</i> substituer une nouvelle loi à une ancienne.`

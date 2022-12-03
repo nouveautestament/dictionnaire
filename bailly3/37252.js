@@ -1,1 +1,0 @@
-lar[37252]=`<b>ἐπ·ημάτιος, α, ον</b> <font color="purple">[ᾰ]</font> qui dure un jour, pour un jour, A.RH. <i>3, 893</i> ; OPP. <i>H. 3, 229</i>.<p><b>Étym</b>. ἐπί, ἦμαρ.`

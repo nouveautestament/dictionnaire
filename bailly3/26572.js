@@ -1,1 +1,0 @@
-lar[26572]=`<b>δί·κραιρος, ος, ον :<br>      1</b> à deux cornes, <i>ép. de Pan,</i> ANTH. <i>6, 32</i>.<br><b>      2</b> fourchu, A.RH. <i>4, 1613</i>.<p><b>Étym</b>. δίς, κραῖρα.`

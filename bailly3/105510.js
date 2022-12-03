@@ -1,1 +1,0 @@
-lar[105510]=`<b>φιλ·αρσάκης, ου (ὁ)</b> <font color="purple">[ῐ]</font> ami d’Arsacès, STR. <i>749</i>.<p><b>Étym</b>. φ. Ἀρσάκης.`

@@ -1,1 +1,0 @@
-lar[65398]=`<b>μηλο·μαχία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat à coups de pommes, ATH. <i>277a</i>.<p><b>Étym</b>. μῆλον², μάχομαι.`

@@ -1,1 +1,0 @@
-lar[102786]=`<b>ὑπερ·πυρριάω-ῶ</b> <font color="purple">[ᾱ]</font> être <i>ou</i> devenir plus rouge que, <i>gén</i>. AR. <i>Ran. 308</i>.`

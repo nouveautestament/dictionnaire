@@ -1,1 +1,0 @@
-lar[7714]=`<b>ῆς (ἡ)</b> <i>mot créé par</i> PLAT. <i>Crat. 409c, pour expliquer le mot</i> ἀστραπή, « ὅτι τὰ ὦπα ἀναστρέφει ».`

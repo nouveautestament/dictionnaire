@@ -1,1 +1,0 @@
-lar[68731]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> victoire remportée, prix de la victoire, POL. <i>1, 87, 10, etc.</i> ; DS. <i>4, 33, etc.</i> ; PLUT. <i>Lyc. 22, etc</i>.<p><b>Étym</b>. νικάω.`

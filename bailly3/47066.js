@@ -1,1 +1,0 @@
-lar[47066]=`<b>άδος (ἡ)</b> la fille de Thestios, <i>càd.</i> :<br><b>      1</b> Althæa, ESCHL. <i>Ch. 606</i>.<br><b>      2</b> Lèda, EUR. <i>Hel. 133, I.A. 49</i> ; THCR. <i>Idyl. 22, 5</i> (Θέστιος, PAUS.).`

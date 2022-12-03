@@ -1,1 +1,0 @@
-lar[5742]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de pâtre, rustique, NIC. <i>Th. 28, 489</i>.<p><b>Étym</b>. ἀμορβός.`

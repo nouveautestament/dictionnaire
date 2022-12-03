@@ -1,1 +1,0 @@
-lar[106594]=`<b>ικος (ὁ)</b> <font color="purple">[ῑκ]</font> phénix, <i>oiseau fabuleux d’Égypte</i>, HÉS. fr. 50.4 ; HDT. 2.73 ; LUC. <i>Herm. 53</i>.<p><b>Étym</b>. <i>cf</i>. φοῖνιξ¹.`

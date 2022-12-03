@@ -1,1 +1,0 @@
-lar[89457]=`<b>σαρκο·τοκέομαι-οῦμαι</b>, naître sous forme d’une masse de chair, SEXT. <i>P. 1, 42</i>.<p><b>Étym</b>. σ. -τοκος <i>de</i> τίκτω.`

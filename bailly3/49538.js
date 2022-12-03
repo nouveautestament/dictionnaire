@@ -1,1 +1,0 @@
-lar[49538]=`<b>ἰσ·άρτητος, ος, ον</b> <font color="purple">[ῑ̆]</font> suspendu également, <i>càd</i>. en équilibre, PHIL. <i>1, 462</i>.<p><b>Étym</b>. ἴ. ἀρτάω.`

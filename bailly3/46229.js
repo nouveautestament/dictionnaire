@@ -1,1 +1,0 @@
-lar[46229]=`<b>(τὸ)</b> <font color="purple">[ᾰ]</font> (<i>seul. nom. et acc</i>.) jeune pousse, jeune rejeton, TH. <i>H.P. 2, 2, 12 dout. ; fig. en parl. de pers</i>. IL. <i>22, 86</i> ; OD. <i>6, 157</i> ; EUR. <i>El. 15, I.T. 232, etc</i>.<p><b>Étym</b>. θάλλω.`

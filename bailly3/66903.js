@@ -1,1 +1,0 @@
-lar[66903]=`<font color="purple">[ῐ]</font><br><b>      1</b> chanter, moduler, ATH. <i>510d.</i><br><b>      2</b> être connaisseur en musique, SEXT. <i>754, 14 Bkk</i>.<p><b>Étym</b>. μουσικός.`

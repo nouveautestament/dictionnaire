@@ -1,1 +1,0 @@
-lar[2551]=`<b>αἱματο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui fait couler le sang, HERM. <i>Iatr. 388, 6</i>.<p><b>Étym</b>. αἷ. ποιέω.`

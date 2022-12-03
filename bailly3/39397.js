@@ -1,1 +1,0 @@
-lar[39397]=`<b>ἐπι·τεχνολογέω-ῶ</b>, ajouter de nouveaux préceptes, A. APHR.`

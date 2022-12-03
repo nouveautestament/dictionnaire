@@ -1,1 +1,0 @@
-lar[88170]=`<b>ῥαβδο·ειδής, ής, ές</b>, en forme de baguette, GEOP. <i>12, 37</i> ; HIPPIATR. <i>228, 18</i>.<p><b>Étym</b>. ῥ. εἶδος.`

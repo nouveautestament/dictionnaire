@@ -1,1 +1,0 @@
-lar[51832]=`<b>(ἡ)</b> Karmina, <i>î. de la mer des Indes,</i> NONN. <i>D. 26, 219</i>.`

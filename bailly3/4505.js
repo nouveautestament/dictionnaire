@@ -1,1 +1,0 @@
-lar[4505]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> emplacement pour se rouler, <i>en parl. de chevaux,</i> AR. <i>Nub. 32 ; fig</i>. ἀ. ἐπῶν, AR. <i>Ran. 904,</i> mots qui se déroulent avec volubilité.<p><b>Étym</b>. ἀλινδέομαι.`

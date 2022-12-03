@@ -1,1 +1,0 @@
-lar[9409]=`<b>ἄντ·αθλος, ος, ον</b> <font color="purple">[ᾱθ]</font> rival, antagoniste, ANTH. <i>12, 68</i>.<p><b>Étym</b>. ἀντί, ἆθλον.`

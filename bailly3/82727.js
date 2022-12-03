@@ -1,1 +1,0 @@
-lar[82727]=`<b>ποοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. ποηφαγέω, ARSTT. <i>H.A. 8, 3, 9</i>.<p><b>Étym</b>. ποοφάγος.`

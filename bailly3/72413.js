@@ -1,1 +1,0 @@
-lar[72413]=`<i>adv. indéf</i>. duquel des deux côtés, de laquelle des deux parts que ce soit, ARSTT. <i>P.A. 4, 11, 13</i>.<p>➳ <i>Épq</i>. ὁπποτέρωθεν, IL. <i>14, 59</i>.<p><b>Étym</b>. ὁπότερος, -θεν.`

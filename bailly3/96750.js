@@ -1,1 +1,0 @@
-lar[96750]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. συφεός, LYC. <i>676</i>.`

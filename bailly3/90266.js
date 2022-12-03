@@ -1,1 +1,0 @@
-lar[90266]=`<b>ας (ἡ)</b> <font color="purple">[σῐ]</font> courge <i>ou</i> coloquinte, HPC. <i>424, 2, etc.</i> ; PLUT. <i>M. 154c</i>.<p><b>Étym</b>. σικύα.`

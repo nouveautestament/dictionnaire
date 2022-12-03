@@ -1,1 +1,0 @@
-lar[41939]=`<b>εὐ·δώρητος, ος, ον</b>, donné d’une main libérale, OPP. <i>H. 4, 359</i>.<p><b>Étym</b>. εὖ, δωρέω.`

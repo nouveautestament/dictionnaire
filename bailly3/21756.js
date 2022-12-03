@@ -1,1 +1,0 @@
-lar[21756]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> Géraneia, <i>chaîne de mt. de Mégaride,</i> THC. <i>1, 105, 108 ; 4, 70</i> ; PLUT. <i>Cleom. 20, etc</i>.<p>➳ <i>Ion</i>. Γερανείη, EUPHOR. (EM.), <i>mais</i> Γεράνεια, CALL. <i>Ep. 64</i>.`

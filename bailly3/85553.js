@@ -1,1 +1,0 @@
-lar[85553]=`<b>εως (ἡ)</b> action de s’avancer, de s’approcher, GEOP. <i>9, 4, 4</i>.<p><b>Étym</b>. προσελεύσομαι.`

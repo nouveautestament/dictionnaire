@@ -1,1 +1,0 @@
-lar[28037]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> épilatoire, GAL. <i>12, 103</i>.<p><b>Étym</b>. <i>vb. de</i> δρωπακίζω.`

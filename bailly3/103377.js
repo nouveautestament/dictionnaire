@@ -1,1 +1,0 @@
-lar[103377]=`<b>ὑπο·κλῄζω</b> (<i>seul. part. prés. pass</i>.) répandre secrètement un bruit, SOPH. <i>Aj. 225</i>.`

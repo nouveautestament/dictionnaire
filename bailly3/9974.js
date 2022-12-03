@@ -1,1 +1,0 @@
-lar[9974]=`<b>ἀντι·κνήμιον, ου (τὸ)</b> os du devant de la jambe, <i>d’où</i> jambe, HPC. <i>764d ;</i> AR. <i>Pl. 784, etc.</i> ; XÉN. <i>Cyr. 2, 3, 19</i> ; ARSTT. <i>H.A. 1, 15</i>.<p><b>Étym</b>. ἀ. κνήμη.`

@@ -1,1 +1,0 @@
-lar[109078]=`<b>χρυσ·αμοιβός, ός, όν</b> <font color="purple">[ῡᾰ]</font> qui échange l’or, <i>p. ext</i>. qui échange <i>ou</i> change : σωμάτων, ESCHL. <i>Ag. 436,</i> qui fait donner de l’or en échange des cadavres, <i>ép. d’Arès</i>.<p><b>Étym</b>. χρυσός, ἀμείβω.`

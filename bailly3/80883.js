@@ -1,1 +1,0 @@
-lar[80883]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> multiple, EPIC. (DL. <i>10, 87).</i><p><b>Étym</b>. πλέων.`

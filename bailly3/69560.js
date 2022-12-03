@@ -1,1 +1,0 @@
-lar[69560]=`<b>ας (ἡ)</b> <font color="purple">[ῐβ]</font> friction sèche, ARSTT. <i>Probl. 37, 5</i>.<p><b>Étym</b>. ξηροτριβέω.`

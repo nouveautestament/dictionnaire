@@ -1,1 +1,0 @@
-lar[11603]=`<font color="purple">[ᾰᾱ]</font> <i>adv</i>., infiniment plus, NYSS. <i>2, 818</i>.<p><b>Étym</b>. ἀπειροπλάσιος.`

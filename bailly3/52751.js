@@ -1,1 +1,0 @@
-lar[52751]=`<b>ητος (ἡ)</b> correspondance, <i>d’où</i> symétrie, proportion, mesure. DYSC. <i>Synt. p. 9, 13, etc</i>.<p><b>Étym</b>. κατάλληλος.`

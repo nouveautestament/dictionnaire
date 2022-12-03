@@ -1,1 +1,0 @@
-lar[10285]=`<b>ἀντι·πληρόω-ῶ :<br>      1</b> combler les vides (<i>litt</i>. remplir en échange) XÉN. <i>Cyr. 2, 2, 26</i>.<br><b>      2</b> équiper (un navire) contre, THC. <i>7, 69</i>.<br><b><i>Moy.</i></b> remplir à son tour, ARSTD. <i>t. 2, 115</i>.`

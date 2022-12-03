@@ -1,1 +1,0 @@
-lar[38291]=`être possédé de fureur, SPT. <i>1Reg. 21, 15</i>.<p><b>Étym</b>. ἐπίληπτος.`

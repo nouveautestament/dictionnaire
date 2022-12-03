@@ -1,1 +1,0 @@
-lar[86412]=`<b>προσ·στείχω</b> <font color="darkgreen">(<i>f</i>. -στείξω, <i>ao</i>. προσέστιχον)</font> s’avancer vers, <i>acc</i>. OD. <i>20, 73 ; avec un adv. de lieu,</i> SOPH. <i>O.R. 79 ; O.C. 30, 320</i>.`

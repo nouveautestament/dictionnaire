@@ -1,1 +1,0 @@
-lar[24283]=`<b>*Δημό·ξενος</b>, <i>seul. dor</i>. <b>Δαμόξενος, ου (ὁ)</b> Damoxènos, <i>h</i>. ANAXIL. (ATH. <i>403c</i>) ; LUC. <i>D. mort. 1, 3 ; etc</i>.<p><b>Étym</b>. δ. ξένος.`

@@ -1,1 +1,0 @@
-lar[102235]=`<b>ὑπερ·αθετέω-ῶ</b>, ne faire aucun cas de, AQU. <i>Ps. 88, 39</i>.`

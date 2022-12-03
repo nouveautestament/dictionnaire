@@ -1,1 +1,0 @@
-lar[57002]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. semblable au corbeau : κ. κολοιός, ARSTT. <i>H.A. 9, 24,</i> crave à bec rouge (<i>Pyrrhocorax pyrrhocorax</i> L.), <i>sorte de corbeau</i>.<p><b>Étym</b>. κόραξ.`

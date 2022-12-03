@@ -1,1 +1,0 @@
-lar[87879]=`<b>πυρί·κτιτος, ος, ον</b> <font color="purple">[ῠτῐ]</font> fondé sur le feu, <i>càd</i>. créé au moyen du feu, TIMOTH. <i>fr. 15 conj</i>.<p><b>Étym</b>. π. <i>vb. de</i> *κτίω.`

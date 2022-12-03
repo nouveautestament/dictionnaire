@@ -1,1 +1,0 @@
-lar[15518]=`<b>Ἀρχε·δάμας, αντος (ὁ)</b> <font color="purple">[δᾰ]</font> Arkhédamas, <i>Athénien,</i> DÉM. <i>927, 15</i>.<p><b>Étym</b>. ἄρχω, δαμάω.`

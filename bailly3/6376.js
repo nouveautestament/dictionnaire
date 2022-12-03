@@ -1,1 +1,0 @@
-lar[6376]=`<b>ἀμφι·στραφής, ής, ές</b> <font color="purple">[ᾰφ]</font> que l’on tourne facilement en tous sens, DIOTOG. (STOB. <i>Fl. 48, 62).</i><p><b>Étym</b>. ἀ. στρέφω.`

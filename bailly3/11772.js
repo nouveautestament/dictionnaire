@@ -1,1 +1,0 @@
-lar[11772]=`<b>ἀ·περίληπτος, ος, ον</b>, non circonscrit, <i>d’où</i> :<br><b>      1</b> sans limites (pouvoir) PLUT. <i>Pomp. 25</i>.<br><b>      2</b> indéfini, incompréhensible, PHIL. <i>2, 24, etc.</i><br><b>      3</b> innombrable, DYSC. <i>Synt. 5, 14</i>.<p><b>Étym</b>. ἀ, περιλαμβάνω.`

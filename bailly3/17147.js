@@ -1,1 +1,0 @@
-lar[17147]=`<b>ας (ἡ) :<br>      1</b> pouvoir absolu, SYN. CHRYS. <i>etc.</i><br><b>      2</b> meurtre accompli de la propre main de qqn, DC. <i>Exc. p. 49, 11</i>.<p><b>Étym</b>. αὐθέντης.`

@@ -1,1 +1,0 @@
-lar[9667]=`<b>ἀντ·επιστέλλω</b>, répondre par un message, <i>particul</i>. par un écrit, LUC. <i>Sat. 19</i> ; PAUS. <i>4, 22, 6</i>.`

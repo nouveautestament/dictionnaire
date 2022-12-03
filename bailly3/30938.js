@@ -1,1 +1,0 @@
-lar[30938]=`<b>ας (ἡ)</b> <i>autre forme du mot</i> Ἀκαδημία (<i>du héros</i> Ἑκάδημος) EUP. <i>et</i> TIMON. (DL. <i>3, 9</i>).`

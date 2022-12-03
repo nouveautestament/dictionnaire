@@ -1,1 +1,0 @@
-lar[24068]=`<b>δευτερο·στάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui se tient au second rang (d’une troupe), THÉM. <i>175b</i>.<p><b>Étym</b>. δεύτερος, στα- <i>de</i> ἵστημι.`

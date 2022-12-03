@@ -1,1 +1,0 @@
-lar[12474]=`<b>ἄ·ποιος, ος, ον</b>, sans qualité, sans propriété, PLUT. <i>M. 369a, 947b ;</i> ARÉT. <i>p. 20, 23, etc.</i> ; ὕδωρ ἀποιότατον, ATH. <i>33c</i>, eau très pure, sans caractère propre, <i>càd</i>. sans goût.<p>•<i> Cp</i>. -ότερος, MÉLÉT. <i>3, 104 Cramer ; • Sup</i>. -ότατος, ATH. <i>l. c.</i> ; GAL. <i>13, 43</i>.<p><b>Étym</b>. ἀ, ποῖος.`

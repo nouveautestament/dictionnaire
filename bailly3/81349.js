@@ -1,1 +1,0 @@
-lar[81349]=`<b>αντος (ὁ)</b> Pœante, <i>père de Philoctète,</i> PD. <i>P. 1, 103</i> ; SOPH. <i>Ph. 5, etc</i>.<p>➳ <font color="purple">[οι <i>bref</i>]</font> SOPH. <i>Ph. 263, 329, 1261</i>.`

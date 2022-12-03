@@ -1,1 +1,0 @@
-lar[33468]=`<b>ή, όν</b>, propre à se mouler, à servir d’emplâtre, DIOSC. <i>1, 144</i> ; GAL. <i>11, 318</i>.<p><b>Étym</b>. ἐμπλαστός.`

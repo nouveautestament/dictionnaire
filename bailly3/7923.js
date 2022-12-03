@@ -1,1 +1,0 @@
-lar[7923]=`<b>ἀνα·χλαινόω-ῶ</b>, revêtir d’un manteau, vêtir, <i>en gén</i>. NONN. <i>D. 11, 232</i>.<p><b>Étym</b>. ἀνά, χλαῖνα.`

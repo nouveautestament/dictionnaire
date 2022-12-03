@@ -1,1 +1,0 @@
-lar[98319]=`<b>      1</b> <i>gén. dε</i> τεός ;.<br><b>      2</b> <i>épq. et dor. c</i>. σοῦ, <i>gén. de</i> σύ, CALL. <i>Cer. 98</i> ; DYSC. <i>Pron. p. 356</i>.`

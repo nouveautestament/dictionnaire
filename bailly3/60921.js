@@ -1,1 +1,0 @@
-lar[60921]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐᾰῐδ]</font><br><b>   I</b> <i>n. de plante</i> :<br><b>      1</b> romarin, <i>arbuste dont les feuilles ont le parfum de l’encens,</i> TH. <i>H.P. 9, 11, 10</i> ; DIOSC. <i>3, 87</i>.<br><b>      2</b> libanôtis, <i>plante ombellifère,</i> NIC. <i>Th. 850</i>.<br><b>   II</b> <i>v</i>. λιβανωτρίς.<p><b>Étym</b>. λιβανωτός.`

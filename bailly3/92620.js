@@ -1,1 +1,0 @@
-lar[92620]=`<b>στιλβόω-ῶ</b>, faire briller, DIOSC. <i>5, 173</i> ; SPT. <i>Ps. 7, 13</i>.<p><b>Étym</b>. στιλβός.`

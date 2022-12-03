@@ -1,1 +1,0 @@
-lar[74760]=`<b>παμ·πρύτανις, εως (ὁ)</b> <font color="purple">[ῠτᾰ]</font> qui gouverne toute chose, PHIL. <i>1, 642</i>.<p><b>Étym</b>. π. πρύτανις.`

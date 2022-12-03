@@ -1,1 +1,0 @@
-lar[100079]=`<b>τριακοντα·μναῖος, α, ον</b> <font color="purple">[ᾱκ]</font> qui pèse <i>ou</i> vaut trente mines, POL. <i>9, 41, 8 ; subst</i>. ὁ τρ. (<i>s.-e</i>. πετροβόλος) PHIL. BYZ. baliste <i>ou</i> pierrier à boulet de 30 mines = 13,09 kg.<p><b>Étym</b>. τρ. μνᾶ.`

@@ -1,1 +1,0 @@
-lar[38215]=`<b>ἐπι·κύκλιος, ου (ὁ)</b> <i>s.-e</i>. πλακοῦς, sorte de gâteau rond syracusain, EPICH. (ATH. <i>645e</i>).<p><b>Étym</b>. ἐπί, κύκλος.`

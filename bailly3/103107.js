@@ -1,1 +1,0 @@
-lar[103107]=`<b>ὑπο·δακρύω :<br>      1</b> pleurer, LUC. <i>D. deor. 6, 2</i> ; SYN. <i>244c.</i><br><b>      2</b> verser goutte à goutte, distiller, ORIB. <i>149 Matthäi</i>.`

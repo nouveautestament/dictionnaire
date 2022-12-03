@@ -1,1 +1,0 @@
-lar[47481]=`<b>θοόω-θοῶ :<br>      1</b> aiguiser, OD. <i>9, 327 ; fig</i>. θ. ἰάμβους, CHRIST. <i>Ecphr. 359,</i> aiguiser des ïambes.<br><b>      2</b> <i>p. anal</i>. exciter, OPP. <i>H. 1, 557 ; 2, 525</i> ; NIC. <i>Th. 228</i>.<p>➳ <i>Part. pf. pass</i>. τεθοωμένος, OPP. NIC. <i>ll. cc</i>.<p><b>Étym</b>. θοός.`

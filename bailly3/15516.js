@@ -1,1 +1,0 @@
-lar[15516]=`<b>Ἀρχέ·βουλος, ου (ὁ)</b> Arkhéboulos (Archébule) <i>h</i>. ATH. <i>502d, etc</i>.<p><b>Étym</b>. ἄρχω, βουλή.`

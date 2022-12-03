@@ -1,1 +1,0 @@
-lar[110561]=`<b>ίδος (ἡ)</b> sorte de volatile, <i>p.-ê</i>. outarde (<i>lat</i>. otis tarda), XÉN. <i>An. 1, 5, 2, etc.</i> ; ARSTT. <i>H.A. 2, 17, 31 ; 2, 9, 33</i> ; EL. <i>N.A. 5, 24</i>.<p><b>Étym</b>. οὖς.`

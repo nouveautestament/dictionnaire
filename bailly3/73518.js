@@ -1,1 +1,0 @@
-lar[73518]=`<b>ου (ὁ)</b> = <i>lat</i>. Vindicius, <i>n. d’h. rom</i>. PLUT. <i>Popl. 4</i>.`

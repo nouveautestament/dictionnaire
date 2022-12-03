@@ -1,1 +1,0 @@
-lar[1141]=`<b>ἀγωνο·λογία, ας (ἡ)</b> controverse, discussion, GAL. <i>2, 290</i>.<p><b>Étym</b>. ἀγών, λόγος.`

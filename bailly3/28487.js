@@ -1,1 +1,0 @@
-lar[28487]=`<b>δύσ·ηρις, ις, ι</b> <font color="purple">[ῠ]</font> <i>poét. c</i>. δύσερις, PD. <i>O. 6, 33 ; et att. sel</i>. MŒR. <i>p. 126</i>.`

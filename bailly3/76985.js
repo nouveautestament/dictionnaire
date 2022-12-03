@@ -1,1 +1,0 @@
-lar[76985]=`<b>ῶν (οἱ)</b> les habitants de Parme (<i>auj</i>. Parma) <i>dans la Gaule Cisalpine,</i> PLUT. <i>Mar. 27</i>.`

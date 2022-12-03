@@ -1,1 +1,0 @@
-lar[30845]=`<b>*εἰσοπτρισμός</b>, <i>anc. att</i>. <b>ἐσοπτρισμός, οῦ (ὁ)</b> réflexion dans un miroir, PLUT. <i>M. 936f</i>.`

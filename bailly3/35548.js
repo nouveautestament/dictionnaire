@@ -1,1 +1,0 @@
-lar[35548]=`<b>εως (ἡ) :<br>      1</b> action de déployer, d’étendre, NICOM. <i>Arithm. 120</i> ; PHIL. <i>1, 385</i> ; ARÉT. <i>Caus. m. acut. 1, 8</i> ; SEXT. <i>200, 25 Bkk.</i><br><b>      2</b> projection de la sphère, SYN. <i>Astr. 1584 b et d Migne</i>.<br><b>      3</b> explication, EROT. <i>18</i>.<p><b>Étym</b>. ἐξαπλόω.`

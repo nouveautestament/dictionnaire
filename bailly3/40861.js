@@ -1,1 +1,0 @@
-lar[40861]=`<b>έως (ὁ)</b> citoyen du dème Erkhia, DÉM. <i>40, 16, etc</i>.`

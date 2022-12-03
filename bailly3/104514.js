@@ -1,1 +1,0 @@
-lar[104514]=`<b>ὑψι·νεφής, ής, ές</b> <font color="purple">[ῐ]</font> qui réside dans les nues au haut des airs, PD. <i>O. 5, 40</i> ; NONN. <i>Jo. 15, 34</i>.<p><b>Étym</b>. ὕ. νέφος.`

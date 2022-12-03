@@ -1,1 +1,0 @@
-lar[68086]=`<b>ορος (ὁ)</b> qui répartit, <i>particul</i>. qui distribue la justice, juge, ESCHL. <i>Sept. 489</i>.<p><b>Étym</b>. νέμω.`

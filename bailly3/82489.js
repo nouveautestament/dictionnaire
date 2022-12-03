@@ -1,1 +1,0 @@
-lar[82489]=`<b>πολυ·ΰμνητος, ος, ον</b>, célébré par beaucoup d’hymnes, très renommé, PD. <i>N. 2, 8</i> ; M. ANT. <i>7, 6, etc</i>.<p><b>Étym</b>. π. ὑμνέω.`

@@ -1,1 +1,0 @@
-lar[32588]=`<font color="purple">[ᾰ]</font> <i>seul. masc. c</i>. ἐλαχύς, CALL. <i>fr. 349</i>.`

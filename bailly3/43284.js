@@ -1,1 +1,0 @@
-lar[43284]=`<b>εὐρύ·κολπος, ος, ον</b> <font color="purple">[ῠ]</font> au vaste sein, PD. <i>N. 7, 33</i>.<p><b>Étym</b>. εὐ. κόλπος.`

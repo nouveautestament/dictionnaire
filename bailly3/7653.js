@@ -1,1 +1,0 @@
-lar[7653]=`<b>*ἀνα·στάζω</b>, <i>poét</i>. <b>ἀν·στάζω</b>, faire tomber goutte à goutte, SIB. <i>5, 240</i>.`

@@ -1,1 +1,0 @@
-lar[67261]=`<font color="purple">[ῡᾰ]</font> <i>adv</i>., un nombre de fois infini, SPT. <i>Sir. 23, 26</i> ; CLÉM. <i>229</i>.<p><b>Étym</b>. μυριοπλάσιος.`

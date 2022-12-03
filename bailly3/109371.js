@@ -1,1 +1,0 @@
-lar[109371]=`verser, répandre, <i>d’où p. anal</i>. étendre de tout son long, AR. <i>Vesp. 1213</i>.<p><b>Étym</b>. χύτλον.`

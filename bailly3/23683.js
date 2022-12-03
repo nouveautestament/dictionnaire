@@ -1,1 +1,0 @@
-lar[23683]=`<b>δεκα·οκτώ</b>, <i>indécl</i>. = ὀκτωκαίδεκα, dix-huit, SPT. <i>Jud. 3, 14, etc</i>.<p>➳ <i>Écrit en deux mots dans deux inscr. att</i>. CIA. <i>2, 1054, 47 (347 av. J.-C.) ; 836, 73</i>.<p><b>Étym</b>. <i>av. 295 av. J.-C</i>.`

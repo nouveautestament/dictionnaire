@@ -1,1 +1,0 @@
-lar[98302]=`<b>τενοντ·άγρα, ας (ἡ)</b> paralysie des muscles du cou, C. AUR. <i>M. chron. 5, 2</i>.<p><b>Étym</b>. τένων, ἀγρέω.`

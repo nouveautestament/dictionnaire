@@ -1,1 +1,0 @@
-lar[2552]=`<b>αἱματο·ποσία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> action de boire du sang, PORPH. (STOB. <i>Ecl. 1, 1024).</i><p><b>Étym</b>. αἷ. πίνω.`

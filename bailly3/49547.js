@@ -1,1 +1,0 @@
-lar[49547]=`<b>ἰσ·αύδης, ης, ες</b> <font color="purple">[ῑ̆]</font> qui résonne à l’unisson, THCR. <i>Syr. 9</i>.<p><b>Étym</b>. ἴσος, αὐδάω.`

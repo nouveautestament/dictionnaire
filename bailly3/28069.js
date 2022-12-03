@@ -1,1 +1,0 @@
-lar[28069]=`<b>αντος (ὁ)</b> <font color="purple">[ῠ]</font> Dymas :<br><b>      1</b> <i>père d’Hécube,</i> IL. <i>16, 718 ; etc.</i><br><b>      2</b> <i>autres,</i> OD. <i>6, 22</i> ; Q. SM. <i>7, 607</i>.`

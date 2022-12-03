@@ -1,1 +1,0 @@
-lar[60039]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> fosse, trou creusé, ESCHL. <i>Sept. 914</i>.<p><b>Étym</b>. <i>cf</i>. λαχαίνω.`

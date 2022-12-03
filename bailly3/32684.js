@@ -1,1 +1,0 @@
-lar[32684]=`<i>adv</i>., misérablement, HÉS. <i>O. 207</i>.<p><b>Étym</b>. ἔλεος.`

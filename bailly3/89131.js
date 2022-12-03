@@ -1,1 +1,0 @@
-lar[89131]=`<i>att</i>. <b>σάκιον</b> (<i>non σακίον</i>) <b>ου (τὸ) :<br>      1</b> petit sac, petite bourse, XÉN. <i>An. 4, 5, 36</i> ; AR. <i>fr. 305 Dind.</i><br><b>      2</b> <i>postér</i>. cilice, MÉN. <i>4, 102 Meineke</i>.<p><b>Étym</b>. <i>dim. de</i> σάκκος.`

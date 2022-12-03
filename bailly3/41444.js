@@ -1,1 +1,0 @@
-lar[41444]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1 <i>intr</i></b>. préparation, apprêt, SPT. <i>Ps. 9, 41, etc.</i><br><b>      2</b> diligence, promptitude, JOS. <i>A.J. 10, 1, 2</i> ; πρός τι, HPC. <i>24, 47,</i> en vue de qqe ch.<p><b>Étym</b>. ἑτοιμάζω.`

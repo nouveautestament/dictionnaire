@@ -1,1 +1,0 @@
-lar[53402]=`<b>κατα·σπαταλάω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[πᾰτᾰ]</font> vivre dans la mollesse, ANTH. <i>11, 402</i> ; SPT. <i>Amos 6, 4 ; Prov. 29, 21</i>.`

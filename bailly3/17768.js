@@ -1,1 +1,0 @@
-lar[17768]=`<b>αὐτο·φώρατος, ος, ον</b> <font color="purple">[ᾱ]</font> qui se laisse prendre sur le fait, <i>càd</i>. qui se comprend de soi-même, SEXT. <i>M. 8, 173</i>.<p><b>Étym</b>. αὐ. φωράω.`

@@ -1,1 +1,0 @@
-lar[5268]=`<b>ἀ·μάρτυρος, ος, ον</b> <font color="purple">[ῠ]</font> sans témoin, THC. <i>2, 41</i> ; DÉM. <i>502, 20, etc</i>.<p><b>Étym</b>. ἀ, μάρτυρ.`

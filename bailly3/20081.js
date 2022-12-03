@@ -1,1 +1,0 @@
-lar[20081]=`<i>adv</i>., comme un bœuf, PORPH. <i>Abst. 3, 3</i>.`

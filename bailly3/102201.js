@@ -1,1 +1,0 @@
-lar[102201]=`<b>ὑπ·εξαφύω</b> <font color="purple">[ᾰ]</font> épuiser peu à peu, <i>d’où au pass</i>. s’épuiser peu à peu, se perdre sous le sable, <i>en parl. d’un ruisseau,</i> A.RH. <i>2, 983</i>.`

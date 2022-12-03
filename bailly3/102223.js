@@ -1,1 +1,0 @@
-lar[102223]=`<b>ὑπερ·αγαπάω-ῶ</b> <font color="purple">[ᾰᾰπ]</font> chérir extrêmement <i>ou</i> à l’excès, <i>acc</i>. DÉM. <i>686, 9 ; cf. 172, 18</i> ; ARSTT. <i>Nic. 9, 3, 7</i> ; τινά τινος, JOS. <i>A.J. 12, 4, 6,</i> qqn pour qqe ch.`

@@ -1,1 +1,0 @@
-lar[102508]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Hypérèsiè, <i>postér</i>. Αἴγειρα, <i>v. d’Achaïe,</i> IL. <i>2, 573</i> ; Ὑπερησίηνδε, OD. <i>15, 254,</i> à Hypérèsiè, <i>avec mouv</i>.`

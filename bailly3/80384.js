@@ -1,1 +1,0 @@
-lar[80384]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> sale, crasseux, EUR. <i>Or. 225</i>.<p>•<i> Sup</i>. -έστατος, HPC. <i>666, 21</i>.<p><b>Étym</b>. πίνος, -ωδης.`

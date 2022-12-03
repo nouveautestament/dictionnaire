@@ -1,1 +1,0 @@
-lar[15263]=`<b>ων (τὰ)</b> Artaxate, <i>capitale de l’Arménie,</i> PLUT. <i>Luc. 31</i>.`

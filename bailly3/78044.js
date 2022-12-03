@@ -1,1 +1,0 @@
-lar[78044]=`<b>πεντά·στιχος, ος, ον</b> <font color="purple">[ῐ]</font> composé de cinq rangées, lignes <i>ou</i> vers, ANTH. <i>9, 173</i>.<p><b>Étym</b>. π. στίχος.`

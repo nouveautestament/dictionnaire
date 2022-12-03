@@ -1,1 +1,0 @@
-lar[3174]=`<b>ἀ·καταιτίατος, ος, ον</b> <font color="purple">[ιᾱ]</font> qu’on ne peut accuser, JOS. <i>B.J. 1, 24, 8</i>.<p><b>Étym</b>. ἀ, καταιτιάομαι.`

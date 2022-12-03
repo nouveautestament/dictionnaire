@@ -1,1 +1,0 @@
-lar[12318]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>vb. de</i> ἀποδοκιμάζω XÉN. <i>Eq. 3, 8</i> ; ARSTT. <i>Poet. 26</i> ; LUC. <i>Herm. 18, etc</i>.`

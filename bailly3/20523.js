@@ -1,1 +1,0 @@
-lar[20523]=`<b>ῶν (αἱ)</b> descendants de Bousélos, DÉM. <i>1055, 1056</i>.<p><b>Étym</b>. βούσελος.`

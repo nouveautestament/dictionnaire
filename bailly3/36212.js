@@ -1,1 +1,0 @@
-lar[36212]=`<b>ἐξ·οστρακίζω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> bannir par ostracisme, HDT. <i>8, 79</i> ; AND. <i>33, 24</i> ; LYS. <i>143, 27</i> ; PLAT. <i>Gorg. 516d.</i><br><b>      2</b> <i>p. ext</i>. bannir, <i>en gén.</i> : ἐκ τοῦ οὐρανοῦ, LUC. <i>Sacr. 4,</i> du ciel.`

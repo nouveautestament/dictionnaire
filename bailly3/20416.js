@@ -1,1 +1,0 @@
-lar[20416]=`<b>βουκο·πνίκτης (ὁ)</b> <i>litt</i>. Étrangleur de bouviers, <i>n. de parasite,</i> ALCIPHR.<p><b>Étym</b>. βοῦκος, πνίγω.`

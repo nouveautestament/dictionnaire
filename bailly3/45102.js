@@ -1,1 +1,0 @@
-lar[45102]=`<i>adv</i>., en forme de crible <i>ou</i> de passoire, RUF.<p><b>Étym</b>. ἠθμοειδής.`

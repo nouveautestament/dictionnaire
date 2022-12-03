@@ -1,1 +1,0 @@
-lar[64494]=`<b>ου (ὁ)</b> le Mésès, <i>vent du N.E. intermédiaire entre βορέας et Καικίας,</i> ARSTT. <i>Meteor. 2, 6, 9</i>.<p><b>Étym</b>. μέσος.`

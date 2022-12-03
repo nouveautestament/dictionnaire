@@ -1,1 +1,0 @@
-lar[109604]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>forme postér. et moins bonne p</i>. ψακάδιον, TH. <i>Vent. 24</i>.`

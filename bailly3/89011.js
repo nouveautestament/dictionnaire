@@ -1,1 +1,0 @@
-lar[89011]=`<b>ήεσσα, ῆεν</b>, couvert de broussailles, Q. SM. <i>7, 715</i>.<p><b>Étym</b>. ῥώψ.`

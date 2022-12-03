@@ -1,1 +1,0 @@
-lar[93763]=`<b>συλ·λαφύσσω</b> <font color="purple">[ᾰ]</font> engloutir <i>ou</i> dévorer ensemble, LYC. <i>1267</i>.`

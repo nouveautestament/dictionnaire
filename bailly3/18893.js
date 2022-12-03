@@ -1,1 +1,0 @@
-lar[18893]=`<b>ατος (τὸ)</b> <i>seul. plur</i>. fêtes <i>ou</i> mystères de Bacchus, EUR. <i>Bacch. 40, 317</i> ; PLUT. <i>T. Gracch. 10</i>.`

@@ -1,1 +1,0 @@
-lar[99008]=`<b>τήνα, τῆνο</b>, <i>pron. dém. dor. c</i>. ἐκεῖνος, EPICH. <i>fr. 19, 95 Ahrens</i> ; THCR. <i>Idyl. 1, 4, 5, etc. ; au sens de</i> ὅδε, THCR. <i>Idyl. 1, 1, 8, etc. ; en un sens emphat</i>. THCR. <i>Idyl. 1, 120, 126, etc. ; en correlat</i>. τῆνοι…, τῆνοι, EPICH. <i>fr. 124 Ahrens</i> ceux-ci…, ceux-là.`

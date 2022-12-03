@@ -1,1 +1,0 @@
-lar[87202]=`<b>πρωτό·ζυξ, -ζυγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> marié pour la première fois, ANTH. <i>9, 245</i>.<p><b>Étym</b>. πρ. ζεύγνυμι.`

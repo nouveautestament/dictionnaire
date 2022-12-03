@@ -1,1 +1,0 @@
-lar[32082]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en long, tout du long, EUR. <i>Ph. 1698</i> ; LUC. <i>D. mort. 7, 2</i>.<p><b>Étym</b>. ἐκτείνω.`

@@ -1,1 +1,0 @@
-lar[6533]=`<b>ἀνα·βιόω-ῶ</b> <font color="darkgreen">(<i>f</i>. ώσω, <i>ao.2</i> ἀνεβίων, <i>pf</i>. ἀναβεβίωκα, <i>ao.1 au sens trans</i>. ἀνεβίωσα) :</font><br><b>      1</b> revivre, AR. <i>Ran. 177</i> ; AND. <i>16, 27</i> ; PLAT. <i>Rsp. 614b.</i><br><b>      2</b> (<i>à l’ao.1</i>) faire revivre, ARSTT. <i>H.A. 7, 10, 3</i> ; TH. <i>H.P. 4, 14, 12</i>.`

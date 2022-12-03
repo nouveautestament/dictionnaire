@@ -1,1 +1,0 @@
-lar[81727]=`<b>πολυ·άρματος, ος, ον</b> <font color="purple">[μᾰ]</font> aux chars nombreux, SOPH. <i>Ant. 149</i>.<p><b>Étym</b>. π. ἅρμα.`

@@ -1,1 +1,0 @@
-lar[1771]=`<b>ἀερί·οικος, ος, ον</b> <font color="purple">[ᾱ]</font> qui vit en plein air, EUB. (ATH. <i>113f</i>).<p><b>Étym</b>. ἀήρ, οἰκέω.`

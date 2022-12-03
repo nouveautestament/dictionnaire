@@ -1,1 +1,0 @@
-lar[51030]=`<b>εως (ἡ)</b> tribu, classe, DH. <i>4, 18</i>.<p><b>Étym</b>. <i>traduct. du lat</i>. classis.`

@@ -1,1 +1,0 @@
-lar[41364]=`<b>ἑτερό·πορπος, ος, ον</b>, qui n’est agrafé que d’un côté, CALL. <i>fr. 225</i>.<p><b>Étym</b>. ἕ. πόρπη.`

@@ -1,1 +1,0 @@
-lar[65912]=`<b>ΐδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. de Minos, A.RH. <i>2, 299, etc.</i> ; Μινωΐδες νῆσοι, A.RH. <i>2, 518,</i> les î. de Minos (<i>p.-ê</i>. Amorgos <i>et</i> Siphnos).<p><b>Étym</b>. Μίνως.`

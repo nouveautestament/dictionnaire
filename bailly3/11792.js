@@ -1,1 +1,0 @@
-lar[11792]=`<i>att</i>. <b>-ιττότης, ητος (ἡ)</b> absence de superfluité, simplicité, SEXT. <i>293</i> ; CLÉM. <i>157</i>.<p><b>Étym</b>. ἀπέρισσος.`

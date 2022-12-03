@@ -1,1 +1,0 @@
-lar[88061]=`<b>ης (ἡ)</b> <font color="purple">[ῡῑ]</font> bouteille couverte d’osier, <i>titre d’une comédie de Cratinos</i>.<p><b>Étym</b>. <i>Com. att. fr. 1, 67 Kock</i>.`

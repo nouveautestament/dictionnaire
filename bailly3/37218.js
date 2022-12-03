@@ -1,1 +1,0 @@
-lar[37218]=`<b>ἐπ·ευφραίνομαι</b>, se réjouir de, BAS. <i>4, 280 Migne</i>.`

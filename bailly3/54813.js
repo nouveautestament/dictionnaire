@@ -1,1 +1,0 @@
-lar[54813]=`<b>ίτιδος</b> <font color="purple">[ᾰῑτ]</font> <i>adj. f</i>. d’argile : γῆ, HPC. <i>453, 23</i> ; PLUT. <i>M. 827d</i>, terre de potier.<p><b>Étym</b>. κέραμος.`

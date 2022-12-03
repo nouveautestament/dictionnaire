@@ -1,1 +1,0 @@
-lar[28558]=`<b>δυσ·καταπόνητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> dont on ne peut venir à bout à force de travail, M. ANT. <i>6, 19</i> ; ARR. <i>Epict. 3, 12, 8</i>.<p><b>Étym</b>. δ. καταπονέω.`

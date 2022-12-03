@@ -1,1 +1,0 @@
-lar[72206]=`<b>ή, όν</b>, vinaigré, AR. <i>fr. 180 Dind</i>.<p><b>Étym</b>. *ὀξόω <i>de</i> ὄξος.`

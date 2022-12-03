@@ -1,1 +1,0 @@
-lar[98604]=`<b>τετρα·μέτρητος, ος, ον</b> <font color="purple">[ᾰ]</font> qui contient quatre μετρηταί, CALLIX. (ATH. <i>199e</i>).<p><b>Étym</b>. τ. μετρέω.`

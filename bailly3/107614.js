@@ -1,1 +1,0 @@
-lar[107614]=`<b>ή, όν</b>, travaillé en airain <i>ou</i> en métal, <i>p. ext</i>. fait solidement, ANTH. <i>7, 409</i>.<p><b>Étym</b>. χαλκεύω.`

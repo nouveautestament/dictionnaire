@@ -1,1 +1,0 @@
-lar[7675]=`<b>ἀνα·στείβω</b> (<i>seul. prés</i>.) fouler aux pieds, ANTH. <i>7, 544</i>.`

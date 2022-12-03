@@ -1,1 +1,0 @@
-lar[92229]=`<b>σταφυλο·φόρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui porte <i>ou</i> contient la luette, ARSTT. <i>H.A. 1, 11, 12</i>.<p><b>Étym</b>. στ. φέρω.`

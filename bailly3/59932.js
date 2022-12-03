@@ -1,1 +1,0 @@
-lar[59932]=`<b>λασταυρο·κάκκαβον, ου (τὸ)</b> <font color="purple">[ᾰβ]</font> sorte de plat recherché, CHRYSIPP. (ATH. <i>9c</i>).<p><b>Étym</b>. λάσταυρος, κ.`

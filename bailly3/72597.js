@@ -1,1 +1,0 @@
-lar[72597]=`<b>ου (ὁ)</b> <i>autre n. de la</i> mésange, ARSTT. <i>H.A. 8, 3</i>.<p><b>Étym</b>. <i>cf</i>. αἰγίθαλλος.`

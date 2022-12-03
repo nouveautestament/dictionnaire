@@ -1,1 +1,0 @@
-lar[11167]=`<b>ἀπ·αλείφω</b> (<i>pf</i>. ἀπαλήλιφα) <font color="purple">[ᾰλ]</font> essuyer, effacer, DÉM. <i>1243, 29</i>.`

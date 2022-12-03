@@ -1,1 +1,0 @@
-lar[38690]=`<b>ἐπι·πλάζω :<br>      1 <i>tr.</i></b> faire errer sur, <i>d’où au pass</i>. être ballotté <i>ou</i> errer sur : πόντον, OD. <i>8, 14,</i> sur la mer.<br><b>      2 <i>intr.</i></b> être ballotté, errer çà et là, NIC. <i>Al. 127</i>.<br><b><i>Moy.</i></b> (<i>inf. fut</i>. ἐπιπλάγξεσθαι) <i>m. sign. intr</i>. A.RH. <i>3, 1066</i>.`

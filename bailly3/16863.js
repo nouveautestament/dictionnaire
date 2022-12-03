@@ -1,1 +1,0 @@
-lar[16863]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑδ]</font> vapeur humide, <i>p. opp. à</i> καπνός, ARSTT. <i>Meteor. 2, 4, 1, etc. ; d’où</i> vapeur <i>en gén</i>. HDT. <i>4, 75</i> ; PLAT. <i>Tim. 86e</i>.<p><b>Étym</b>. <i>cf</i>. ἀτμός.`

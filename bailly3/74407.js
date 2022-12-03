@@ -1,1 +1,0 @@
-lar[74407]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰᾰῐδ]</font> <i>c</i>. παλάθιον STR. <i>99</i>.`

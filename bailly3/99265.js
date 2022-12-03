@@ -1,1 +1,0 @@
-lar[99265]=`<b>Τιμο·χάρης, ους (ὁ)</b> <font color="purple">[ῑᾰ]</font> Timokharès, <i>h</i>. LYCURG. <i>Leocr. 23, 24</i>.<p><b>Étym</b>. τ. χαίρω.`

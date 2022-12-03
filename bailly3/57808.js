@@ -1,1 +1,0 @@
-lar[57808]=`(<i>seul. prés. et impf</i>.) suspendre.<p>➳ <i>Act. impér. 2 sg</i>. κρήμνη, EUR. <i>fr. 918 ; part. gén. pl</i>. κρημνάντων, PD. <i>P. 4, 25</i>.<p><b>Étym</b>. κρεμάννυμι.`

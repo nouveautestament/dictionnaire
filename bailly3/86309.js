@@ -1,1 +1,0 @@
-lar[86309]=`<b>προσ·πετάννυμι</b> <font color="darkgreen">(<i>ao. pass. inf</i>. -ασθῆναι)</font> déployer auprès, DH. <i>2, 795 Reiske</i>.`

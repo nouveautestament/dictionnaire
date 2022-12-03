@@ -1,1 +1,0 @@
-lar[94094]=`<b>συμ·παρασπείρω</b>, répandre en outre ensemble, BAS. <i>1, 120 Migne</i>.`

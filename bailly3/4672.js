@@ -1,1 +1,0 @@
-lar[4672]=`<b>ᾶνος (ὁ)</b> Alkman (Alcman) <i>n. d’h. dorien ; particul. poète lyrique,</i> ARSTT. <i>H.A. 5, 31</i> ; PLUT. <i>Lyc. 28, etc</i>.<p><b>Étym</b>. <i>contr. dor. p</i>. Ἀλκμάων.`

@@ -1,1 +1,0 @@
-lar[33527]=`<b>εως (ἡ)</b> inspiration, ECPHANT. (STOB. <i>Fl. 47, 22) c</i>. ἔμπνοια.`

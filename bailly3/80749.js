@@ -1,1 +1,0 @@
-lar[80749]=`<b>πλατύ·κερκος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à queue large, ARSTT. <i>H.A. 8, 10, 5</i>.<p><b>Étym</b>. πλ. κέρκος.`

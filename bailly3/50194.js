@@ -1,1 +1,0 @@
-lar[50194]=`<b>ου (τὸ)</b> résine d’un arbre d’Arabie, DIOSC. <i>1, 23</i>.`

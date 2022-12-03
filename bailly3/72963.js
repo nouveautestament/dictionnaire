@@ -1,1 +1,0 @@
-lar[72963]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Ornytos, <i>h</i>. A.RH. <i>1, 65, etc</i>.`

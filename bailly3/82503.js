@@ -1,1 +1,0 @@
-lar[82503]=`<b>Πολυ·φείδης, ους (ὁ)</b> <font color="purple">[ῠ]</font> Polypheidès (<i>propr</i>. très économe) <i>devin,</i> OD. <i>15, 249</i>.<p><b>Étym</b>. π. φείδομαι.`

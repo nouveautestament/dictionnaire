@@ -1,1 +1,0 @@
-lar[51130]=`<b>καλλι·θυτέω-ῶ</b> <font color="purple">[ῐῠ]</font> sacrifier sous d’heureux auspices, <i>acc</i>. ANTH. <i>6, 240</i>.<p><b>Étym</b>. κ. <i>vb. de</i> θύω.`

@@ -1,1 +1,0 @@
-lar[21854]=`<b>ης (ἡ)</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> description de la terre, DL.<br><b>      2</b> carte géographique, PLUT. <i>Thes. 1, au plur</i>.<p><b>Étym</b>. γεωγράφος.`

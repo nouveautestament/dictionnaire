@@ -1,1 +1,0 @@
-lar[109406]=`<b>χωλ·ίαμβος, ου (ὁ)</b> choliambe, <i>litt</i>. vers ïambique boiteux, <i>càd. terminé par un spondée,</i> D. PHAL. <i>§ 263</i>.<p><b>Étym</b>. χωλός, ἴ.`

@@ -1,1 +1,0 @@
-lar[60701]=`<b>α (ὁ)</b> <font color="purple">[ῐᾱ]</font> Léonidas, <i>roi de Sparte, tué aux Thermopyles,</i> AR. <i>Lys. 1254</i> ; PLUT. <i>Lyc. 14, etc</i>.<p>➳ <i>Ion</i>. -ίδης, HDT. <i>5, 41 ; gén</i>. εω, HDT. <i>7, 22, etc</i>.`

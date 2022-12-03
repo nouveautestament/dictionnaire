@@ -1,1 +1,0 @@
-lar[24588]=`<b>ος, ον :<br>      1</b> qui court dans tous les sens, ESCHL. <i>Sept. 191</i>.<br><b>      2</b> qui se disjoint, EUR. <i>Bacch. 592 ; d’où</i> disjoint, désuni, <i>càd. fig</i>. qui n’est pas légitimement uni, illégitime (union) EUR. <i>El. 1156</i>.<p><b>Étym</b>. διαδραμεῖν.`

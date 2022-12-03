@@ -1,1 +1,0 @@
-lar[57399]=`<b>ου (τὸ)</b> boutique de barbier, AR. <i>Pl. 338</i> ; LYS. <i>307, 4</i> ; DÉM. <i>786, 6, etc</i>.<p><b>Étym</b>. κουρεύς.`

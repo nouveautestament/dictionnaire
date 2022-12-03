@@ -1,1 +1,0 @@
-lar[100176]=`<b>τρί·δακνος, ος, ον</b>, qu’il faut mordre à trois reprises, dont on ne peut faire moins de trois bouchées, PLIN. <i>H.N. 32, 6, 21</i>.<p><b>Étym</b>. τρ. δάκνω.`

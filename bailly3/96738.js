@@ -1,1 +1,0 @@
-lar[96738]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> position respective des astres, SEXT. <i>M. 5, 30</i>.<p><b>Étym</b>. συσχηματίζω.`

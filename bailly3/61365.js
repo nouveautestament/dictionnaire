@@ -1,1 +1,0 @@
-lar[61365]=`<b>λιπο·τάκτης</b>, <i>mieux que</i> <b>λειπο·τάκτης, ου (ὁ)</b> qui abandonne son poste, DH. <i>8, 79</i>.<p><b>Étym</b>. λείπω, τάσσω.`

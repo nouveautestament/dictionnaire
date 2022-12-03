@@ -1,1 +1,0 @@
-lar[29684]=`<b>ἐγ·κλονέομαι-οῦμαι</b> <font color="darkgreen">(<i>part. prés. ion</i>. ἐγκλονεύμενος)</font> s’agiter avec force intérieurement, HPC. <i>550, 1</i>.<p><b>Étym</b>. ἐν, κλ.`

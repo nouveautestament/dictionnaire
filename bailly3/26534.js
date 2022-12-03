@@ -1,1 +1,0 @@
-lar[26534]=`<b>δί·κερως, ως, ων</b>, <i>gén</i>. <b>ωτος</b> <font color="purple">[ῐ]</font> à deux cornes, HH. <i>Ap. 18, 2</i> ; ANTH. <i>6, 32</i> ; ARSTT. <i>H.A. 2, 1, 32</i>.<p><b>Étym</b>. δίς, κέρας.`

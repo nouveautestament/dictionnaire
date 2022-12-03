@@ -1,1 +1,0 @@
-lar[8947]=`<i>adv</i>., à forme humaine, DL. <i>10, 139</i>.`

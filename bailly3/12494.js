@@ -1,1 +1,0 @@
-lar[12494]=`<b>ἀπο·κακέω-ῶ</b> <font color="purple">[κᾰ]</font> succomber à la fatigue, sous le poids du malheur, <i>etc</i>. SPT. <i>Jer. 15, 9</i>.<p><b>Étym</b>. ἀπό, κακός.`

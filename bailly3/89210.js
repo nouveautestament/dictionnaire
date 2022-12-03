@@ -1,1 +1,0 @@
-lar[89210]=`<b>ης (ἡ)</b> Salpè, <i>lac d’Italie,</i> LYC. <i>1129</i>.`

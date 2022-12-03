@@ -1,1 +1,0 @@
-lar[108726]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> bilieux, PLUT. <i>M. 101c</i>.<p><b>Étym</b>. χολή.`

@@ -1,1 +1,0 @@
-lar[86958]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en prenant les devants, NONN. <i>D. 16, 19</i>.<p><b>Étym</b>. προφθάνω.`

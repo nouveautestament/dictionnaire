@@ -1,1 +1,0 @@
-lar[43245]=`<b>εὐρυ·άνασσα, ης (ἡ)</b> <font color="purple">[ᾰ]</font> qui règne au loin, CALL. <i>Cer. 122</i>.<p><b>Étym</b>. <i>fém. de</i> εὐρυάναξ.`

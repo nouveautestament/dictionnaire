@@ -1,1 +1,0 @@
-lar[2011]=`<b>ἀ·θεώρητος, ος, ον :<br>      1</b> invisible, ARSTT. <i>Mund. 6, 26</i>.<br><b>      2</b> inconsidéré, PLUT. <i>M. 405a.</i><br><b>      3</b> ignorant de, <i>gén</i>. ARSTT. <i>Gen. et corr. 1, 2, 10</i>.<p><b>Étym</b>. ἀ, θεωρέω.`

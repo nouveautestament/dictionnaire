@@ -1,1 +1,0 @@
-lar[18476]=`<b>ἀ·χίτων, ων, ον</b>, <i>gén</i>. <b>ωνος</b> <font color="purple">[ῐ]</font> sans tunique, <i>càd</i>. qui ne porte que l’ἱμάτιον, XÉN. <i>Mem. 1, 6, 2</i> ; PLUT. <i>M. 210b ;</i> EL. <i>V.H. 7, 13, etc</i>.<p><b>Étym</b>. ἀ, χιτών.`

@@ -1,1 +1,0 @@
-lar[40244]=`<b>ου (ὁ) :<br>      1</b> pois chiche (<i>fruit et plante</i>) IL. <i>13, 589</i> ; AR. <i>Pax 1136</i> ; PLAT. <i>Rsp. 372c, etc.</i> ; DIOSC. <i>2, 126</i> ; GAL. <i>13, 174</i>.<br><b>      2</b> <i>p. anal. c</i>. ποσθή, AR. <i>Ach. 801, Ran. 545 ; cf</i>. κριθή.<p><b>Étym</b>. <i>cf</i>. ὄροβος, <i>lat</i>. ervum.`

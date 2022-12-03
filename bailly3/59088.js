@@ -1,1 +1,0 @@
-lar[59088]=`<b>ας (ἡ) :<br>      1</b> tête de pavot, AR. <i>fr. 166</i> ; TH. <i>H.P. 4, 8, 7, etc.</i><br><b>      2</b> ventre de la clepsydre, ARSTT. <i>Probl. 16, 8, 4</i>.<p>➳ <i>Dans les inscr. att. seul</i>. κωδύα.`

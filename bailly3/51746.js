@@ -1,1 +1,0 @@
-lar[51746]=`<b>καρδιάω-ῶ</b> (<i>part. prés. épq</i>. καρδιόων) avoir des maux d’estomac, NIC. <i>Al. 594</i>.<p><b>Étym</b>. καρδία.`

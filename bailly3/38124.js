@@ -1,1 +1,0 @@
-lar[38124]=`<b>εως (ἡ)</b> action de parer de nouveau, parure, NYSS. <i>2, 812, 1011</i>.<p><b>Étym</b>. ἐπικοσμέω.`

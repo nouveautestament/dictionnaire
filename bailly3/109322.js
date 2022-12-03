@@ -1,1 +1,0 @@
-lar[109322]=`<b>χρυσ·ωρύχος, ος, ον</b> <font color="purple">[ῡῠ]</font> qui creuse <i>ou</i> exploite une mine d’or, STR. <i>70</i>.<p><b>Étym</b>. χρ. ὀρύσσω.`

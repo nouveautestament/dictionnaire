@@ -1,1 +1,0 @@
-lar[67322]=`<b>μυρο·ποιός, οῦ (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui compose des parfums, des essences, ANACR. (POLL. <i>7, 177</i>) ; ATH. <i>608a</i>.<p><b>Étym</b>. μ. ποιέω.`

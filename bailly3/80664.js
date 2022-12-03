@@ -1,1 +1,0 @@
-lar[80664]=`<font color="purple">[ᾰ]</font> errer, AR. <i>Av. 3</i>.<p><b>Étym</b>. πλάνη.`

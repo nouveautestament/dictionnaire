@@ -1,1 +1,0 @@
-lar[86828]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> esquisse, ébauche, modèle, SIMPL. <i>Epict. p. 283b</i>.<p><b>Étym</b>. προτυπόω.`

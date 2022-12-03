@@ -1,1 +1,0 @@
-lar[30912]=`<b>εἰσ·φύρω</b> <font color="purple">[ῡ]</font> (<i>prés. pass</i>. -εται) mêler en pétrissant, M. TYR. <i>28, 6</i>.`

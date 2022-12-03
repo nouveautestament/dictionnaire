@@ -1,1 +1,0 @@
-lar[48092]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> sacrifice, EUR. <i>I.T. 243</i>.<br><b>      2</b> autel, constellation, ARAT. <i>402</i>.<p><b>Étym</b>. θύω¹.`

@@ -1,1 +1,0 @@
-lar[1818]=`<b>ἀερσι·κάρηνος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui relève la tête, P. SIL. <i>Ecphr. ag. Soph. 814</i>.<p><b>Étym</b>. ἀείρω, κάρηνον.`

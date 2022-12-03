@@ -1,1 +1,0 @@
-lar[12381]=`<b>ἀπο·θαυμάζω</b>, s’étonner de, admirer, <i>acc</i>. OD. <i>6, 49</i> ; HDT. <i>1, 11 ; abs</i>. HDT. <i>1, 68, etc.</i> ; XÉN. <i>Œc. 2, 17 ; avec</i> εἰ, ESCHN. <i>16, 42 ; rare chez les Trag</i>. ESCHL. <i>Ag. 318</i> ; SOPH. <i>O.C. 1586</i>.<p>➳ <i>Ion</i>. -θωυμάζω <i>ou</i> -θωμάζω, HDT. <i>l. c. etc</i>.`

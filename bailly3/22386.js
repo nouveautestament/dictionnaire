@@ -1,1 +1,0 @@
-lar[22386]=`<i>adv</i>., en gémissant, D. THR. <i>629, 21</i>.`

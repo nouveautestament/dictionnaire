@@ -1,1 +1,0 @@
-lar[107350]=`<b>ή, όν</b>, de Phocée, STR. <i>156</i>.<p>➳ <i>Dans les inscr. att</i>. Φωκαϊκός, <i>non</i> Φωκαιϊκός, CIA. <i>2, 652, 5 (398 av. J.-C.) ; v. Meisterh. p. 26, 8</i>.<p><b>Étym</b>. Φώκαια.`

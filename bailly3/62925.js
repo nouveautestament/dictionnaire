@@ -1,1 +1,0 @@
-lar[62925]=`<b>(ὁ)</b> Mardôn, <i>n. d’h</i>. ESCHL. <i>Pers. 51</i>.`

@@ -1,1 +1,0 @@
-lar[29854]=`<b>ος, ον</b>, qui fait veiller, PHÉRÉCR. (EM. <i>312, 19).</i><p><b>Étym</b>. ἐγρήγορα.`

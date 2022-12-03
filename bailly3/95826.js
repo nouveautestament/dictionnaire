@@ -1,1 +1,0 @@
-lar[95826]=`<b>συν·εφαρμόζω</b>, adapter ensemble, coordonner, PROCL. <i>Ptol. p. 284, 3</i>.`

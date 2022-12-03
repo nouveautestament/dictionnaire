@@ -1,1 +1,0 @@
-lar[24691]=`<i>adv</i>., séparément, distinctement, NAZ. <i>2, 28a Migne</i>.`

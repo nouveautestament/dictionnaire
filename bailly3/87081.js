@@ -1,1 +1,0 @@
-lar[87081]=`<b>α, ον</b>, de la poupe, EUR. <i>H.f. 479</i> ; τὰ πρυμνήσια (<i>s.-e</i>. σχοινία) amarres d’un navire, IL. <i>1, 436</i> ; OD. <i>2, 418 ; 9, 137 ; 15, 286, etc.</i> ; ESCHL. <i>Ag. 984</i> ; EUR. <i>I.T. 1352</i> ; PLUT. <i>Luc. 12 ; fig</i>. dernières ressources, ANTH. <i>12, 159</i> ; τὸ πρυμνήσιον, SYN. <i>228a</i>, amarre.<p><b>Étym</b>. πρύμνα.`

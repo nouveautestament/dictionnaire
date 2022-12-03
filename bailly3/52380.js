@@ -1,1 +1,0 @@
-lar[52380]=`<b>κατά·ζυμος, ος, ον</b> <font color="purple">[ῡ]</font> mêlé de levain, ORIB. <i>1, 285 B.-Dar</i>.<p><b>Étym</b>. κ. ζύμη.`

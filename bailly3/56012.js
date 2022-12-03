@@ -1,1 +1,0 @@
-lar[56012]=`<b>κληρο·παλής, ής, ές</b> <font color="purple">[ᾰ]</font> attribué par le sort, HH. <i>Merc. 129</i>.<p><b>Étym</b>. κλῆρος, πάλλω.`

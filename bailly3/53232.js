@@ -1,1 +1,0 @@
-lar[53232]=`<b>κατα·ρρακόω-ῶ</b> <font color="purple">[ᾰκ]</font> mettre en lambeaux, déchirer, SOPH. <i>Tr. 1103</i>.<p><b>Étym</b>. κ. ῥακόω.`

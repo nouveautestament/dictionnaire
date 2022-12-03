@@ -1,1 +1,0 @@
-lar[53063]=`<b>εως (ἡ)</b> action de comprimer, TH. <i>C.P. 2, 1, 4</i>.<p><b>Étym</b>. καταπιέζω.`

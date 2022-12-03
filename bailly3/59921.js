@@ -1,1 +1,0 @@
-lar[59921]=`<b>λασιό·στερνος, ος, ον</b> <font color="purple">[ᾰ]</font> à la poitrine velue, ANTH. <i>7, 578</i>.<p><b>Étym</b>. λάσιος, στέρνον.`

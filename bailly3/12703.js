@@ -1,1 +1,0 @@
-lar[12703]=`<b>ἀπο·κυΐσκω</b> (<i>seul. prés</i>.) :<br><b>      1</b> rendre grosse, PHILSTR. <i>Im. 1, 6</i>.<br><b>      2</b> mettre bas, EL. <i>N.A. 9, 3</i>.`

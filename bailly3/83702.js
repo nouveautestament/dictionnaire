@@ -1,1 +1,0 @@
-lar[83702]=`<b>προ·αποχωρέω-ῶ</b>, s’éloigner auparavant de, <i>avec</i> ἀπό <i>et le gén</i>. THC. <i>4, 90</i> ; DC. <i>fr. 165 Sturz, etc</i>.`

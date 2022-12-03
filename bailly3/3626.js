@@ -1,1 +1,0 @@
-lar[3626]=`<b>ῶν (οἱ)</b> les Akragallides, <i>pple de Phocide,</i> ESCHN. <i>3, 107 Baiter-Sauppe</i>.`

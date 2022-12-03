@@ -1,1 +1,0 @@
-lar[50241]=`<b>ου (ὁ)</b> sorte de plante grimpante, TH. <i>C.P. 2, 17, 3</i>.`

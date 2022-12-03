@@ -1,1 +1,0 @@
-lar[103448]=`<b>ής, ές</b>, qui jette une faible lueur, HÉS. <i>Sc. 142</i>.<p><b>Étym</b>. ὑπολάμπω.`

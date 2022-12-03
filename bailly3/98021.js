@@ -1,1 +1,0 @@
-lar[98021]=`<b>τειχοδομέω-ῶ</b>, construire un rempart, une forteresse, <i>etc</i>. A. PL. <i>279</i>.<p><b>Étym</b>. τειχοδόμος.`

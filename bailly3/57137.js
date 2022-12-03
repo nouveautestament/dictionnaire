@@ -1,1 +1,0 @@
-lar[57137]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Corybante, ANTH. <i>9, 165</i>.<p><b>Étym</b>. Κορύβας.`

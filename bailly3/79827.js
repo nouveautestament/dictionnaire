@@ -1,1 +1,0 @@
-lar[79827]=`<b>πεσσο·ποιέομαι-οῦμαι</b>, fabriquer un pessaire <i>ou</i> tampon de charpie, POÈT. <i>de Vir. herb. 103</i>.<p><b>Étym</b>. π. ποιέω.`

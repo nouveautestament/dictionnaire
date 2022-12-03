@@ -1,1 +1,0 @@
-lar[37201]=`<i>3 sg. ao</i>. PD. <i>P. 4, 43, et</i> ἐπιτόσσαις, <i>part. m. sg. ao</i>. PD. <i>P. 10, 52, formes dor</i>. parvenir à, toucher à, atteindre, πρός <i>et acc. ou acc. seul</i>.<p><b>Étym</b>. <i>cf</i>. τόσσαις².`

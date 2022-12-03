@@ -1,1 +1,0 @@
-lar[88447]=`<b>ή, όν</b>, qui peut être rompu, brisé, déchiré, IL. <i>13, 323</i>.<p><b>Étym</b>. <i>vb. de</i> ῥήγνυμι.`

@@ -1,1 +1,0 @@
-lar[104602]=`<b>Φαγο·δαίτης, ου (ὁ)</b> Mange-repas, <i>n. de parasite,</i> ALCIPHR. <i>3, 66</i>.<p><b>Étym</b>. φαγεῖν, δαίτης.`

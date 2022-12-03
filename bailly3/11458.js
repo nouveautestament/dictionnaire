@@ -1,1 +1,0 @@
-lar[11458]=`<b>ου (ὁ)</b> Apatourios, <i>h</i>. DÉM. <i>892, etc</i>.`

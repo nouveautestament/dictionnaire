@@ -1,1 +1,0 @@
-lar[65135]=`<b>μετεωρο·κοπέω-ῶ</b>, battre les airs, <i>càd</i>. se perdre dans les nuages, disserter à perte de vue, AR. <i>Pax 92</i>.<p><b>Étym</b>. μ. κόπτω.`

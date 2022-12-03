@@ -1,1 +1,0 @@
-lar[86547]=`<b>προ·συν·επισωρεύω</b>, entasser auparavant, JAMBL. (NICOM. <i>Arithm. p. 46d</i>).<p><b>Étym</b>. π. σ. ἐπισωρεύω.`

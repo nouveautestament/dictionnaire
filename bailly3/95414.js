@@ -1,1 +1,0 @@
-lar[95414]=`<b>συν·εκτέμνω</b>, retrancher avec, PLUT. <i>M. 159c</i>.`

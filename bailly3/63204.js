@@ -1,1 +1,0 @@
-lar[63204]=`<b>μαυρόω-ῶ</b>, obscurcir, <i>d’où</i> :<br><b>      1</b> détruire, PD. <i>P. 12, 24</i>.<br><b>      2</b> obscurcir ; <i>au pass</i>. s’obscurcir, THGN. <i>192</i> ; ESCHL. <i>Ag. 296 ; fig</i>. affaiblir, PD. <i>I. 4, 82</i>.<p><b>Étym</b>. μαῦρος, <i>cf</i>. ἀμαυρόω.`

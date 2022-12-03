@@ -1,1 +1,0 @@
-lar[12269]=`<b>ἀπο·δέω</b> <font color="darkgreen">(<i>f</i>. -δήσω) :</font><br><b>      1</b> lier fortement à, PLAT. <i>Conv. 190e ;</i> ARSTT. <i>H.A. 7, 10</i>.<br><b>      2</b> attacher <i>ou</i> coudre dans, PLAT. <i>Eryx. 400a</i>.`

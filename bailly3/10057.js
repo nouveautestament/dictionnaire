@@ -1,1 +1,0 @@
-lar[10057]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> témoignage contraire, PLUT. <i>M. 1121e ;</i> SEXT. <i>P. 2, 244</i>.`

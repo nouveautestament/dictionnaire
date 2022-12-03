@@ -1,1 +1,0 @@
-lar[106574]=`<b>φοινικό·ροδος, ος, ον</b> <font color="purple">[ῑ]</font> aux roses écarlates, PD. <i>fr. 106 Bgk</i>.<p><b>Étym</b>. φ. ῥόδον.`

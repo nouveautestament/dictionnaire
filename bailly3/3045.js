@@ -1,1 +1,0 @@
-lar[3045]=`<b>ἄκαινα, ης (ἡ)</b> <font color="purple">[ᾰκ]</font> aiguillon pour les bœufs, A.RH. <i>3, 1323</i>.<p><b>Étym</b>. ἀκή.`

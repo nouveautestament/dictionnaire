@@ -1,1 +1,0 @@
-lar[96835]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> violent, véhément, impétueux, ANTH. <i>6, 219</i> ; NIC. <i>Th. 642 ; • adv</i>. σφεδανόν, IL. <i>11, 165 ; 16, 372 ; 21, 542,</i> vivement.<p><b>Étym</b>. <i>inconnue ; cf</i>. σφοδρός.`

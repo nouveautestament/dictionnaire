@@ -1,1 +1,0 @@
-lar[76486]=`<b>ή, όν</b>, qui cède volontiers, accommodant, PLUT. <i>M. 485b ;</i> τὸ π. M. ANT. <i>1, 16,</i> complaisance.<p><b>Étym</b>. παραχωρέω.`

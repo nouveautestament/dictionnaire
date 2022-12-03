@@ -1,1 +1,0 @@
-lar[79627]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> périphrase, <i>t. de rhét</i>. DH. <i>Pomp. 2, 5, etc.</i> ; PLUT. <i>M. 406f</i>.<p><b>Étym</b>. περιφράζω.`

@@ -1,1 +1,0 @@
-lar[26389]=`<i>adv</i>., en articulant bien, THEOL. <i>49</i> ; GAL. <i>13, 673b</i>.<p><b>Étym</b>. διαρθρόω.`

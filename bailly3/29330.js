@@ -1,1 +1,0 @@
-lar[29330]=`<b>ἐγ·γαληνίζω</b> (<i>part. prés</i>.) <font color="purple">[ᾰ]</font> vivre tranquille, DL. <i>10, 37</i>.<p><b>Étym</b>. ἐν, γ.`

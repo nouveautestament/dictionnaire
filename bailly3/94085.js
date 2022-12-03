@@ -1,1 +1,0 @@
-lar[94085]=`<b>συμ·παρανέω-ῶ</b> (<i>seul. prés</i>.) nager au milieu de, <i>dat</i>. ARSTD. <i>t. 2, 423</i>.`

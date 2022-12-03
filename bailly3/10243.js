@@ -1,1 +1,0 @@
-lar[10243]=`<b>ἀντι·πέρας</b> <font color="purple">[ᾱς]</font><br><b>      1</b> <i>adv. c</i>. ἀντιπέραν THC. <i>1, 100, etc.</i><br><b>      2</b> <i>prép. avec le gén</i>. THC. <i>2, 66</i> ; XÉN. <i>An. 1, 1, 9</i> ; POL. <i>5, 48, 6</i>.`

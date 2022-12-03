@@ -1,1 +1,0 @@
-lar[44509]=`<b>ου (ὁ)</b> Zèthos, <i>fils de Zeus et d’Antiope, frère d’Amphion</i>, OD. <i>11, 262 ; 19, 523</i> ; EUR. <i>H.f. 30</i> ; PLAT. <i>Gorg. 485e, etc</i>.`

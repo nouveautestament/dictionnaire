@@ -1,1 +1,0 @@
-lar[61130]=`<b>λιμ·αγχέω-ῶ</b> <font color="purple">[ῑ]</font> épuiser par la diète, HPC. <i>86a, 785e</i>.<p><b>Étym</b>. λιμός, ἄγχω.`

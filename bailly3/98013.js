@@ -1,1 +1,0 @@
-lar[98013]=`<b>ου (τὸ)</b> mur de maison, de cour, OD. <i>16, 165, 343</i> ; THC. <i>6, 66 ; 7, 81, etc</i>.<p><b>Étym</b>. <i>dim. de</i> τεῖχος.`

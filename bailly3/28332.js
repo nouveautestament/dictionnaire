@@ -1,1 +1,0 @@
-lar[28332]=`<b>δυσ·είματος, ος, ον</b> <font color="purple">[ῠᾰ]</font> mal vêtu, EUR. <i>El. 1007, joint à</i> ἄλουτος.<p><b>Étym</b>. δ. εἷμα.`

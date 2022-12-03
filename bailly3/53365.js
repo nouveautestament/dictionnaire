@@ -1,1 +1,0 @@
-lar[53365]=`<b>κατα·σκίδναμαι</b> <font color="purple">[νᾰ]</font> se disperser, se dissiper, PLUT. <i>M. 776f</i>.`

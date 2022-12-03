@@ -1,1 +1,0 @@
-lar[11711]=`<b>ἀπ·εξεργάζομαι</b> <font color="darkgreen">(<i>pf. 2 pl</i>. ἀπεξείργασθε)</font> achever, accomplir, JUL. <i>253c</i>.`

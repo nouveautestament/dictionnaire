@@ -1,1 +1,0 @@
-lar[68106]=`<b>νεό·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> nouvellement marié, ESCHL. <i>Ag. 1179</i> ; EUR. <i>Med. 325</i> ; HDT. <i>1, 36, etc.</i> ; XÉN. <i>Cyr. 3, 1, 36, etc</i>.<p><b>Étym</b>. ν. γαμέω.`

@@ -1,1 +1,0 @@
-lar[98706]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en quatre parties, XÉN. <i>Hell. 5, 2, 7</i>.<br><b>      2</b> de quatre façons, LUC. <i>Nav. 16</i>.<p><b>Étym</b>. τετρα-, -χος.`

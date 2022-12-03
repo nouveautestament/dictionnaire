@@ -1,1 +1,0 @@
-lar[108423]=`<b>(τὸ)</b> <i>indécl</i>. la lettre X, HPC. <i>V.C. 895</i> ; PLUT. <i>M. 738</i>.`

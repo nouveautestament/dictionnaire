@@ -1,1 +1,0 @@
-lar[18394]=`<b>ου (ὁ)</b> sorte de poisson de mer, ARSTT. <i>H.A. 8, 19, 7 ; cf</i>. ἄχαρνος <i>et</i> ἀχαρνώς.`

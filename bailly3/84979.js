@@ -1,1 +1,0 @@
-lar[84979]=`<b>προ·ποιέω-ῶ :<br>      1</b> faire auparavant : χρηστὰ ἔς τινα, HDT. <i>1, 41,</i> du bien à qqn ; <i>abs</i>. prendre l’offensive, THC. <i>3, 13</i>.<br><b>      2</b> préparer, HDT. <i>7, 44</i> ; ISOCR. <i>302e</i>.`

@@ -1,1 +1,0 @@
-lar[48403]=`<b>ἰδιό·γραφος, ος, ον</b> <font color="purple">[ῐδᾰ]</font> écrit de la main même de qqn, autographe, A. GELL. <i>9, 14</i>.<p><b>Étym</b>. ἴδ. γράφω.`

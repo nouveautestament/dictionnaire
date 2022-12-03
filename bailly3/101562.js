@@ -1,1 +1,0 @@
-lar[101562]=`<b>ὑδρ·όμφαλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> amas d’humeurs au nombril, GAL. <i>Def. med. 19, 444</i>.<p><b>Étym</b>. ὕδ. ὀμφαλός.`

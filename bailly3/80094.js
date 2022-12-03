@@ -1,1 +1,0 @@
-lar[80094]=`<b>οῦ (ὁ)</b> potier, <i>propr</i>. qui travaille l’argile, LUC. <i>Prom. 2</i> ; SPT. <i>Sap. 15, 7</i>.<p><b>Étym</b>. πηλός, ἔργον.`

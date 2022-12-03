@@ -1,1 +1,0 @@
-lar[38919]=`<b>η, ον</b>, qui se répand sur <i>ou</i> dans : ἐπιρρυσμίη δόξις, DÉMOCR. (SEXT. <i>M. 7, 137</i>) opinion courante, répandue dans la foule.<p><b>Étym</b>. ἐπιρρύομαι.`

@@ -1,1 +1,0 @@
-lar[54023]=`<b>κάτ·ηλυς, υδος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui va en pente, NONN. <i>D. 37, 24, etc</i>.<p><b>Étym</b>. κ. ἐλεύσομαι.`

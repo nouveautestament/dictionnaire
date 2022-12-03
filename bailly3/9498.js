@@ -1,1 +1,0 @@
-lar[9498]=`<b>ἀντ·αποκατάστασις, εως (ἡ)</b> <font color="purple">[στᾰ]</font> destruction, HERM. <i>Poem. 86, 5</i>.<p><b>Étym</b>. ἀ. ἀποκαθίστημι.`

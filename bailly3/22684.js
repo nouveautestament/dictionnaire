@@ -1,1 +1,0 @@
-lar[22684]=`<b>γρυπ·αίετος, ου (ὁ)</b> <font color="purple">[ῡ]</font> aigle-griffon, <i>oiseau fabuleux,</i> AR. <i>Ran. 929 (conj</i>. -αέτους, <i>Boisson</i>.).<p><b>Étym</b>. γρύψ, αἰετός.`

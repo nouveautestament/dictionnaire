@@ -1,1 +1,0 @@
-lar[86056]=`<b>προ·σκοροδοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger de l’ail avant, DIOSC. <i>4, 186</i>.`

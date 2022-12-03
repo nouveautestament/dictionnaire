@@ -1,1 +1,0 @@
-lar[58620]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κυλίχνη, DH. <i>2, 23</i>.<p><b>Étym</b>. <i>dim. de</i> κύλιξ.`

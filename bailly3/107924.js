@@ -1,1 +1,0 @@
-lar[107924]=`<b>Χαρι·μένης, ους (ὁ)</b> <font color="purple">[ᾰῐ]</font> Khariménès, <i>h</i>. DÉM. <i>54, 31</i> ; PLUT. <i>Arat. 25</i>.<p><b>Étym</b>. χάρις, μένος.`

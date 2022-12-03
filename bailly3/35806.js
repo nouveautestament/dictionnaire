@@ -1,1 +1,0 @@
-lar[35806]=`<b>ἐξ·επίτηδες</b>, <i>adv</i>., à dessein, HPC. <i>Art. 813</i> ; AR. <i>Pl. 916</i> ; PLAT. <i>Gorg. 461c ; en mauv. part,</i> DÉM. <i>532, 25 ; 575, 10</i>.`

@@ -1,1 +1,0 @@
-lar[82061]=`<b>ας (ἡ)</b> <font color="purple">[ῠλᾰ]</font> bavardage, GAL. <i>16, 198</i>.<p><b>Étym</b>. πολύλαλος.`

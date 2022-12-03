@@ -1,1 +1,0 @@
-lar[52780]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> propre à dissoudre, ORIB. <i>p. 120 Matthäi</i>.<p><b>Étym</b>. καταλύω.`

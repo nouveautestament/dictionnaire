@@ -1,1 +1,0 @@
-lar[34537]=`<b>ἔν·θηρος, ος, ον :<br>      1</b> de bête sauvage, hirsute, ESCHL. <i>Ag. 562</i>.<br><b>      2</b> rempli de bêtes sauvages, EUR. <i>Rhes. 289</i>.<br><b>      3</b> exacerbé, SOPH. <i>Ph. 698 ; subst</i>. τὸ ἔνθηρον, EL. <i>N.A. 6, 63,</i> sauvagerie, nature sauvage.<p><b>Étym</b>. ἐν, θήρ.`

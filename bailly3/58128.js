@@ -1,1 +1,0 @@
-lar[58128]=`<b>κρουσι·λύρης, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> joueur de lyre, ORPH. <i>H. 30, 3</i>.<p><b>Étym</b>. κρούω, λύρα.`

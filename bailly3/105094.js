@@ -1,1 +1,0 @@
-lar[105094]=`<b>έως (ὁ)</b> terrain pierreux, IS. <i>73, 39</i> ; CRAT. (HARP. <i>v°</i> φελλεύς) ; ALCIPHR. <i>3, 21 et 70</i> ; EL. <i>Ep. rust. 2</i>.<p><b>Étym</b>. φελλός.`

@@ -1,1 +1,0 @@
-lar[3366]=`<b>ἀ·κήρωτος, ος, ον</b>, non enduit de cire, LUC. <i>Ic. 3</i> ; POLYEN <i>2, 20, 1</i>.<p><b>Étym</b>. ἀ, κηρόω.`

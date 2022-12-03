@@ -1,1 +1,0 @@
-lar[82120]=`<b>ας (ἡ)</b> <font color="purple">[ῠμῐ]</font> mélange de plusieurs choses, confusion, PLUT. <i>M. 661e ;</i> SEXT. <i>M. 9, 6</i>.<p><b>Étym</b>. πολυμιγής.`

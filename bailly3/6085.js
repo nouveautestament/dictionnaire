@@ -1,1 +1,0 @@
-lar[6085]=`<b>ἀμφι·γόητος, ος, ον</b>, entouré de gémissements, ANTH. <i>7, 700</i>.<p><b>Étym</b>. ἀ. γοάω.`

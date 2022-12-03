@@ -1,1 +1,0 @@
-lar[204]=`<b>ἁβρο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> à la molle tunique, ANTH. <i>9, 538</i>.<br><b>      2</b> à la molle couverture (lit) ESCHL. <i>Pers. 543</i>.<p><b>Étym</b>. ἁ. χιτών.`

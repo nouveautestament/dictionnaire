@@ -1,1 +1,0 @@
-lar[37276]=`<b>εως (ἡ)</b> repos sur <i>ou</i> après, BAS. <i>3, 29a ;</i> NYSS. <i>1, 319d</i>.<p><b>Étym</b>. ἐπηρεμέω.`

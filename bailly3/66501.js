@@ -1,1 +1,0 @@
-lar[66501]=`<b>ης (ἡ)</b> Monime, <i>femme de Mithridate,</i> PLUT. <i>Luc. 18, Pomp. 37</i>.`

@@ -1,1 +1,0 @@
-lar[66037]=`<b>μισο·καῖσαρ, αρος (ὁ, ἡ)</b> <font color="purple">[ῑᾰρ]</font> ennemi de César, PLUT. <i>Brut. 8, Cato mi. 65, etc</i>.`

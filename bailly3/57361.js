@@ -1,1 +1,0 @@
-lar[57361]=`<b>κοτυλο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à une écuelle, creux, HPC. <i>838</i>.<p><b>Étym</b>. κοτύλη, εἶδος.`

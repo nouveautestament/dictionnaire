@@ -1,1 +1,0 @@
-lar[83784]=`<b>προ·βεβαιόω-ῶ</b>, confirmer auparavant, SEXT. <i>M. 8, 181</i>.`

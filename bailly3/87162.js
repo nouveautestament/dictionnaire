@@ -1,1 +1,0 @@
-lar[87162]=`<b>ου (ὁ)</b> Prôtarkhidès, <i>h</i>. IS. <i>5, 26 et 27 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Πρώταρχος.`

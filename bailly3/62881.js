@@ -1,1 +1,0 @@
-lar[62881]=`<b>Μαραθῶνά·δε</b> <font color="purple">[ᾰᾰᾰ]</font> <i>adv</i>., à Marathon, <i>avec mouv</i>. DÉM. <i>1377, 3</i> ; AND. <i>14, 32</i>.<p><b>Étym</b>. Μαραθών, -δε.`

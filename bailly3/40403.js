@@ -1,1 +1,0 @@
-lar[40403]=`<b>ἐρι·βῶλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῐᾰκ]</font> aux mottes fertiles, au sol fécond, IL. <i>1, 155 ; une fois dans l’</i>OD. <i>13, 235</i>.<p><b>Étym</b>. ἐρι-, βῶλος.`

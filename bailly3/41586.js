@@ -1,1 +1,0 @@
-lar[41586]=`<b>εὐ·ανάπνευστος, ος, ον</b> <font color="purple">[ᾰν]</font> facile à prononcer dans la durée d’un souffle, qui ne fait pas perdre la respiration, ARSTT. <i>Rhet. 3, 9, 5</i>.<p><b>Étym</b>. εὖ, ἀναπνέω.`

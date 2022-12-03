@@ -1,1 +1,0 @@
-lar[12837]=`<b>ἀπολυτρόω-ῶ</b>, délivrer moyennant rançon, PLAT. <i>Leg. 919a ;</i> PHILIPP. (DÉM. <i>159, 15) etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. POLYEN <i>5, 40</i>.`

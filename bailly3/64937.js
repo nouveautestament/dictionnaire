@@ -1,1 +1,0 @@
-lar[64937]=`<b>μετ·αρδεύω</b>, faire venir l’eau pour arroser, HÉRACLITE GRAMM. <i>All. Hom. 18</i>.`

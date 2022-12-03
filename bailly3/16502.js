@@ -1,1 +1,0 @@
-lar[16502]=`<b>ἀ·συνέμπτωτος, ος, ον</b>, qui ne marque aucune idée de temps, DYSC. <i>Synt. 210, 14</i>.<p><b>Étym</b>. ἀ, συνεμπίπτω.`

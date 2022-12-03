@@ -1,1 +1,0 @@
-lar[81369]=`<b>ποικιλ·άνιος, ος, ον</b> <font color="purple">[ῐᾱ]</font> aux rênes de couleurs variées, PD. <i>P. 2, 14</i>.<p><b>Étym</b>. <i>dor. c</i>. *ποικιλήνιος, <i>de</i> π. ἡνία.`

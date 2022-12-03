@@ -1,1 +1,0 @@
-lar[29597]=`<b>ἐγ·κατέχω</b>, retenir dans, tenir enfermé dans, <i>dat</i>. PLUT. <i>M. 691f ;</i> P. ÉG. <i>6, 75</i>.<p><b>Étym</b>. ἐν, κ.`

@@ -1,1 +1,0 @@
-lar[90112]=`<b>ας (ἡ)</b> Sigliouria, <i>v. d’Italie,</i> PLUT. <i>Popl. 16</i>.`

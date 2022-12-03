@@ -1,1 +1,0 @@
-lar[109837]=`<b>ῆτος (ὁ)</b> <font color="purple">[ῑ]</font> soldat armé à la légère, ESCHL. <i>fr. 441</i>.<p><b>Étym</b>. ψιλός.`

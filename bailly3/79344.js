@@ -1,1 +1,0 @@
-lar[79344]=`<b>περισσο·τρύφητος, ος, ον</b> <font color="purple">[ῠ]</font> d’une mollesse excessive, TIMON (ATH. <i>160a</i>), <i>conj. de Valcken.</i> : ἀπερισσοτρύφητος.<p><b>Étym</b>. π. τρυφάω.`

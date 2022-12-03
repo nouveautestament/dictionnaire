@@ -1,1 +1,0 @@
-lar[63583]=`<i>dor. c</i>. ἐμέθεν <i>ou</i> ἐμοῦ, <i>gén. de</i> ἐγώ, SOPHR. (DYSC. <i>Pron. p. 83</i>).`

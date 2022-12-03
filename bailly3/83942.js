@@ -1,1 +1,0 @@
-lar[83942]=`<b>προ·διασαλεύω</b> <font color="purple">[σᾰ]</font> agiter auparavant, ORIB. <i>p. 288 Matthäi</i>.`

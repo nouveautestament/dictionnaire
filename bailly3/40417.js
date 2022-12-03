@@ -1,1 +1,0 @@
-lar[40417]=`<b>ἐρι·δινής, ής, ές</b> <font color="purple">[ῐῑ]</font> aux tourbillons violents, TRIPHIOD. <i>231</i>.<p><b>Étym</b>. ἐρι-, δῖνος.`

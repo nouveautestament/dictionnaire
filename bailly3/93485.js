@@ -1,1 +1,0 @@
-lar[93485]=`<b>εως (ἡ)</b> action de coucher avec, <i>gén</i>. PLAT. <i>Phædr. 255e ; avec</i> μετά <i>et le gén</i>. DC. <i>79, 13</i>.<p><b>Étym</b>. συγκοιμάομαι.`

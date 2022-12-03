@@ -1,1 +1,0 @@
-lar[12467]=`<b>ἀπ·οικτίζομαι</b> <font color="darkgreen">(<i>impf. 3 sg. ion</i>. ἀποικτίζετο)</font> déplorer, HDT. <i>1, 114</i>.`

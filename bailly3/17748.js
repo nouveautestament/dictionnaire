@@ -1,1 +1,0 @@
-lar[17748]=`<b>αὐτο·φθόρος, ος, ον</b>, qui se détruit de soi-même, DÉMOCR.<p><b>Étym</b>. αὐ. φθείρω.`

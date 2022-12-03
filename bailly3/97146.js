@@ -1,1 +1,0 @@
-lar[97146]=`<b>ου</b>, <i>adj. m</i>. fort, puissant, <i>ép. d’Hermès,</i> IL. <i>20, 72</i>.<p><b>Étym</b>. <i>inconnue</i>.`

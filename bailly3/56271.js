@@ -1,1 +1,0 @@
-lar[56271]=`<b>ατος (τὸ) :<br>      1</b> raclure, rognure, HPC. <i>238, 32</i> ; EL. <i>V.H. 13, 45</i>.<br><b>      2</b> action de gratter, ANTH. <i>6, 233 ; p. ext</i>. démangeaison, XÉN. <i>Conv. 4, 28 (var</i>. κνῆμα).<p><b>Étym</b>. κνάω.`

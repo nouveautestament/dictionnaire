@@ -1,1 +1,0 @@
-lar[21105]=`<b>έως (ὁ)</b> sorte de poisson, XÉNOCR. <i>Al. 76</i>.`

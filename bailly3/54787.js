@@ -1,1 +1,0 @@
-lar[54787]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> destruction, dévastation, DH. <i>16, 1</i>.<p><b>Étym</b>. κεραΐζω.`

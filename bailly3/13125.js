@@ -1,1 +1,0 @@
-lar[13125]=`<b>ας (ἡ)</b> retour en arrière, sortie (de scène) d’un théâtre automatique roulant, <i>p. opp. à</i> πορεία, l’aller, HÉRON <i>Aut. 247, 248</i>.<p><b>Étym</b>. ἀποπορεύομαι.`

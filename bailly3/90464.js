@@ -1,1 +1,0 @@
-lar[90464]=`<b>σισυρνο·δύτης, ου</b> <font color="purple">[ῐδῠ]</font> <i>adj. m</i>. enveloppé d’une fourrure épaisse et grossière, LYC. <i>634</i>.<p><b>Étym</b>. σίσυρνα, δύω.`

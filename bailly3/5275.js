@@ -1,1 +1,0 @@
-lar[5275]=`<b>έως (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Amarynkée, <i>h</i>. IL. <i>23, 630</i>.<p>➳ <i>Gén. épq</i>. -έος, Q. SM. <i>4, 316</i>.<p><b>Étym</b>. ἀμαρύσσω.`

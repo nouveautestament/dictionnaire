@@ -1,1 +1,0 @@
-lar[92103]=`<b>ου (ὁ) :<br>      1</b> officier préposé à un relais, POLYEN <i>7, 40, 1</i>.<br><b>      2</b> propriétaire <i>ou</i> locataire principal d’une maison, ESCHL. <i>fr. 207 Dind.</i> ; ANTIPH. (<i>Com. fr. 3, 93).</i><p><b>Étym</b>. σταθμός, ἔχω.`

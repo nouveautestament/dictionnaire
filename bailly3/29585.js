@@ -1,1 +1,0 @@
-lar[29585]=`<b>ἐγ·καταφυτεύω</b> (<i>part. ao</i>. -εύσαντας) <font color="purple">[φῠ]</font> planter dans, <i>dat</i>. CLÉM. <i>13</i>.<p><b>Étym</b>. ἐν, κ.`

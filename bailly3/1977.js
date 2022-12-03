@@ -1,1 +1,0 @@
-lar[1977]=`<b>ος, ον</b>, inique, OD. <i>18, 141</i> ; ἀθεμίστια εἰδώς, OD. <i>9, 428,</i> versé dans l’iniquité, dans le crime.<p><b>Étym</b>. <i>cf</i>. ἀθέμιστος.`

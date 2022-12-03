@@ -1,1 +1,0 @@
-lar[24077]=`<b>εως (ἡ) :<br>      1</b> second rang, SPT. <i>4Reg. 23, 4 ; 25, 18, etc.</i><br><b>      2</b> action de recommencer, NYSS. <i>2, 176c Migne</i>.<p><b>Étym</b>. δευτερόω.`

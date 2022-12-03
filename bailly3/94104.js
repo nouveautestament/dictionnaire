@@ -1,1 +1,0 @@
-lar[94104]=`<b>συμ·παρατίθημι</b> <font color="purple">[τῐ]</font> placer ensemble <i>ou</i> en même temps auprès, POL. <i>2, 66, 7</i>.`

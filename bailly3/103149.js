@@ -1,1 +1,0 @@
-lar[103149]=`<b>ὑπό·δηλος, ος, ον</b>, quelque peu clair <i>ou</i> apparent, JOS. <i>B.J. 7, 8, 6</i>.<p><b>Étym</b>. ὑ. δῆλος.`

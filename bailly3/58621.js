@@ -1,1 +1,0 @@
-lar[58621]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κυλίχνιον, AR. <i>Ach. 459</i>.`

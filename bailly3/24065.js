@@ -1,1 +1,0 @@
-lar[24065]=`<b>Δευτερο·νόμιον, ου (τὸ)</b> Deutéronome (<i>litt</i>. seconde loi ; <i>cf</i>. δεύτερος νόμος, NAZ. <i>3, 473a Migne) nom du 5<sup>e</sup> livre du Pentateuque,</i> SPT. <i>Deut. (titre) ; cf</i>. SPT. <i>Jos. 8, 32</i>.<p><b>Étym</b>. δ. νόμος.`

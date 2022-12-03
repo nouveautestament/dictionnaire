@@ -1,1 +1,0 @@
-lar[9808]=`<b>ος, ον</b> <font color="purple">[ᾰφ]</font> qui est la copie d’un écrit, DÉM. <i>468, 9 ; 1104, 23</i> ; DH. <i>3, 33 ; 8, 69</i> ; LUC. <i>Herm. 40, etc. ou</i> d’une peinture, LUC. <i>Zeux. 3</i>.<p><b>Étym</b>. ἀντιγράφω.`

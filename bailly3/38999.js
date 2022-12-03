@@ -1,1 +1,0 @@
-lar[38999]=`<b>ατος (τὸ)</b> ombrage, ombre, PTOL. <i>Tetr. 77</i> ; PROCL. <i>Ptol. p. 112</i>.<p><b>Étym</b>. ἐπισκιάζω.`

@@ -1,1 +1,0 @@
-lar[98901]=`<b>ων (τὰ)</b> ascidies, <i>sorte de mollusques,</i> ARSTT. <i>H.A. 4, 6, 1, etc. au pl</i>.`

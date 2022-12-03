@@ -1,1 +1,0 @@
-lar[84632]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’avance, ES. <i>347 Halm</i>.<p><b>Étym</b>. προλαβών, <i>part. ao.2 de</i> προλαμβάνω.`

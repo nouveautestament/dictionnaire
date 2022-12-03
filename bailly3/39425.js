@@ -1,1 +1,0 @@
-lar[39425]=`<b>ατος (τὸ)</b> <font color="purple">[τῑ]</font> blâme, censure, ARSTT. <i>Poet. 25, 32</i> ; PLUT. <i>M. 1110e</i>.<p><b>Étym</b>. ἐπιτιμάω.`

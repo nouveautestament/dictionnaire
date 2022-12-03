@@ -1,1 +1,0 @@
-lar[76109]=`<b>ός, όν :<br>      1</b> qui sert d’escorte, qui escorte, POL. <i>1, 52, 5, etc.</i><br><b>      2</b> qui transporte, POL. <i>18, 2, 6</i>.<p><b>Étym</b>. παραπέμπω.`

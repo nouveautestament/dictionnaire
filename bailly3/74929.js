@@ -1,1 +1,0 @@
-lar[74929]=`<i>adv</i>., avec le peuple entier, <i>càd</i>. en corps, en masse, HDT. <i>6, 63, etc.</i> ; ESCHL. <i>Sept. 296, etc.</i> ; THC. <i>1, 126, etc.</i> ; AND. <i>25, 36, etc</i>.<p>➳ <i>Dor</i>. πανδαμεί <font color="purple">[δᾱ]</font> ESCHL. <i>Sept. 296</i> (<i>var</i>. πανδημί <i>ou</i> πανδαμί).`

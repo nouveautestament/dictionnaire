@@ -1,1 +1,0 @@
-lar[43980]=`<b>ας (ἡ)</b> territoire d’Éphèse, XÉN. <i>Hell. 3, 2, 14</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>2, 106 ; 5, 100</i>.<p><b>Étym</b>. Ἐφέσιος.`

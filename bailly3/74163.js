@@ -1,1 +1,0 @@
-lar[74163]=`<b>πάγ·χορτος, ος, ον</b>, qui se compose de toute sorte d’aliments, SOPH. <i>fr. 579 Dind</i>.<p><b>Étym</b>. π. χόρτος.`

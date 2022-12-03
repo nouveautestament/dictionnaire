@@ -1,1 +1,0 @@
-lar[16063]=`<b>οῦ</b>, <i>adj. m</i>. armé d’un bouclier, <i>d’où</i> belliqueux, IL. <i>4, 90, 201, 221 ; 5, 577 (touj. au gén. pl</i>. ἀσπιστάων) ; EUR. <i>El. 443</i>.<p><b>Étym</b>. ἀσπίς.`

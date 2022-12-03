@@ -1,1 +1,0 @@
-lar[95224]=`<b>ας (ἡ)</b> <i>ion</i>. qui aide, A.RH. <i>3, 700 (tmèse).</i><p><b>Étym</b>. συνδράω.`

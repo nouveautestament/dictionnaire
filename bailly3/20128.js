@@ -1,1 +1,0 @@
-lar[20128]=`<b>βολβο·κάστανον, ου (τὸ)</b> plante à racine bulbeuse, A. TR. <i>7, 11</i>.<p><b>Étym</b>. βολβός, κ.`

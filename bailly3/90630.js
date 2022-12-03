@@ -1,1 +1,0 @@
-lar[90630]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ, <i>mais</i> ῑδ <i>par nécessité prosod</i>.]</font> <i>dim. de</i> σκάλμη AR. <i>fr. 714 Dind</i>.`

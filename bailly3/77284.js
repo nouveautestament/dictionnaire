@@ -1,1 +1,0 @@
-lar[77284]=`<b>ης (ἡ)</b> sauce mêlée de farine, AR. <i>fr. 547 Dind.</i> ; EUP. <i>2-1, 574 Meineke</i>.<p><b>Étym</b>. παστός.`

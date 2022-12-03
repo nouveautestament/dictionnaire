@@ -1,1 +1,0 @@
-lar[73565]=`<b>οὐλό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, offert avec les pieds entiers, <i>en parl. d’une victime,</i> HH. <i>Merc. 137</i>.<p><b>Étym</b>. οὖλος¹, πούς.`

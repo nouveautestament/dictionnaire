@@ -1,1 +1,0 @@
-lar[56471]=`<b>κοινο·γάμια, ων (τὰ)</b> <font color="purple">[γᾰ]</font> communauté des femmes (<i>propr</i>. des mariages) ATH. <i>555d</i>.<p><b>Étym</b>. κοινός, γάμος.`

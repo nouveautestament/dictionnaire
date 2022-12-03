@@ -1,1 +1,0 @@
-lar[55359]=`<font color="purple">[ῑῐᾱῐ]</font> <i>adv</i>., à Kèphisia, ESCHN. <i>14, 26</i>.<p><b>Étym</b>. Κηφισιά.`

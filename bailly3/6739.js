@@ -1,1 +1,0 @@
-lar[6739]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>   I</b> (ἀνά, en haut) action d’émerger (hors de l’eau) SPT. <i>Sap. 19, 7</i>.<br><b>   II</b> (ἀνά, en arrière) :<br><b>      1</b> action de se soustraire à, d’esquiver, PLUT. <i>Cim. 18</i>.<br><b>      2</b> <i>fig</i>. rétractation, PLAT. <i>Euthyd. 302e</i>.<p><b>Étym</b>. ἀναδύομαι.`

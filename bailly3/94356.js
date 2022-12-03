@@ -1,1 +1,0 @@
-lar[94356]=`<b>συμ·προγιγνώσκω</b>, prévoir avec, JAMBL. <i>Myst. 4, 6</i>.`

@@ -1,1 +1,0 @@
-lar[12311]=`<b>ἀπο·διωθέω-ῶ</b>, repousser, HICÉS. (ATH. <i>87d</i>).<br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTD. <i>t. 2, 482</i>.`

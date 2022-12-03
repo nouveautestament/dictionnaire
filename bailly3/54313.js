@@ -1,1 +1,0 @@
-lar[54313]=`<b>ου (ὁ)</b> Kaunos :<br><b>      1</b> <i>Milésien qui s’exila en Carie par désespoir d’amour et y fonda la ville de Kaunos,</i> CON. <i>2</i>.<br><b>      2</b> <i>autre,</i> NONN. <i>D. 12, 548, etc</i>.<p><b>Étym</b>. <i>v</i>. Καῦνος².`

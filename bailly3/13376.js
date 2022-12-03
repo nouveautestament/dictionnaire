@@ -1,1 +1,0 @@
-lar[13376]=`<b>ἀπο·σπένδω</b> <font color="darkgreen">(<i>ao</i>. ἀπέσπεισα)</font> faire une libation de, <i>acc</i>. EUR. <i>Ion 1198 ; abs</i>. OD. <i>3, 394 ; 14, 331</i> ; τινί, PLAT. <i>Phæd. 117b</i>, en l’honneur de qqn.<p>➳ <i>Ao. pass. 3 sg</i>. ἀπεσπείσθη, ANTH. <i>5, 55</i>.`

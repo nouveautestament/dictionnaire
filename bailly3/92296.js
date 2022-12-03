@@ -1,1 +1,0 @@
-lar[92296]=`<b>εος-ους (τὸ) :<br>      1</b> lieu étroit, resserré, IL. <i>8, 476, etc.</i> ; OD. <i>22, 460</i>.<br><b>      2</b> anxiété, angoisse, HH. <i>Ap. 533</i>.<p><b>Étym</b>. <i>ion. et épq. c</i>. στένος.`

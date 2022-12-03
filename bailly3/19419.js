@@ -1,1 +1,0 @@
-lar[19419]=`<b>ατος (τὸ)</b> objet d’horreur, cause d’abomination, SPT. <i>1Macc. 1, 54 ; Dan. 9, 27 ; etc. part</i>. culte des idoles, idoles <i>ou</i> idolâtrie, SPT. <i>Deut. 18, 9 ; 29, 17 ; 1Reg. 3, 11, 6, etc</i>.<p><b>Étym</b>. βδελύσσομαι.`

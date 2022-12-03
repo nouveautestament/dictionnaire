@@ -1,1 +1,0 @@
-lar[74993]=`<b>παν·επίσκοπος, ος, ον</b> <font color="purple">[ᾰ]</font> dont le regard s’étend sur tout, ANTH. <i>7, 245</i> ; SPT. <i>Sap. 7, 23</i> ; CLÉM. <i>1, 681, 1109</i> ; NAZ. <i>3, 517 Migne</i>.<p><b>Étym</b>. π. ἐπίσκοπος.`

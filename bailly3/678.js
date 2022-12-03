@@ -1,1 +1,0 @@
-lar[678]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> fixé au moyen d’une ancre, fixé solidement, PHIL. BYZ. (<i>Math. vet. 85d</i>).<p><b>Étym</b>. *ἀγκυρόω, <i>de</i> ἄγκυρα.`

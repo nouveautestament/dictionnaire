@@ -1,1 +1,0 @@
-lar[29928]=`<b>ἐγ·χρέμπτομαι</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐνεχρέμπτετο)</font> cracher sur, LUC. <i>Gall. 10</i>.<p><b>Étym</b>. ἐν, χρ.`

@@ -1,1 +1,0 @@
-lar[74667]=`<b>ου (ὁ)</b> = <i>lat</i>. parmularius, gladiateur armé d’un petit bouclier, M. ANT. <i>1, 5</i>.`

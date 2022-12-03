@@ -1,1 +1,0 @@
-lar[104540]=`<b>α, ον</b> <font color="purple">[ῐ]</font> plus haut, THCR. <i>Idyl. 8, 46</i>.<p><b>Étym</b>. cp. <i>de</i> ὕψι.`

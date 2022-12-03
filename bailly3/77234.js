@@ -1,1 +1,0 @@
-lar[77234]=`<b>Πασι·θέα, ας (ἡ)</b> <font color="purple">[ᾱῐ]</font> Pasithéa :<br><b>      1</b> <i>l’une des Grâces,</i> IL. <i>14, 276, etc.</i> ; PAUS. <i>9, 35, 4</i>.<br><b>      2</b> <i>fille de Nérée,</i> HÉS. <i>Th. 247</i>.<p>➳ <i>Ion</i>. -έη, IL. HÉS. <i>ll. cc</i>.<p><b>Étym</b>. <i>fém. de</i> Πασίθεος.`

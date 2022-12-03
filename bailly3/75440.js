@@ -1,1 +1,0 @@
-lar[75440]=`<b>παρα·γιγνώσκω</b>, <i>réc</i>. <b>παρα·γινώσκω</b> <font color="darkgreen">(<i>f</i>. παραγνώσομαι, <i>etc</i>.)</font> apprendre, savoir <i>ou</i> décider à côté : τοῦ δικαίου, PHILSTR. <i>616,</i> à côté de ce qui est juste, <i>càd</i>. décider à faux <i>ou</i> injustement, mal juger, <i>d’où abs</i>. XÉN. <i>Mem. 1, 1, 17 ; m. sign</i>.<p>➳ παραγινώσκω, DYSC.`

@@ -1,1 +1,0 @@
-lar[103821]=`<b>ὑπο·σκάζω</b>, boiter un peu, PLUT. <i>M. 4a ;</i> LUC. <i>Tim. 20</i>.`

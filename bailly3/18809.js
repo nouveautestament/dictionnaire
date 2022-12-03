@@ -1,1 +1,0 @@
-lar[18809]=`<b>ατος (τὸ)</b> <font color="purple">[βᾰ]</font> profondeur, TH. <i>H.P. 4, 11, 8</i>.<p><b>Étym</b>. βαθύνω.`

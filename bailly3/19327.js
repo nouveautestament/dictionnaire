@@ -1,1 +1,0 @@
-lar[19327]=`<b>ων (οἱ)</b> = <i>lat</i>. Batavi, les Bataves, <i>pple gaulois,</i> PLUT. <i>Oth. 12</i>.`

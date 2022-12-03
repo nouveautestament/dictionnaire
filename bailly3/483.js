@@ -1,1 +1,0 @@
-lar[483]=`<b>ἀ·γέλοιος, ος, ον</b>, non risible, désagréable, HÉNIOCH. (ATH. <i>108a</i>).<p><b>Étym</b>. ἀ, γελοῖος.`

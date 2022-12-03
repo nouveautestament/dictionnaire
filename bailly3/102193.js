@@ -1,1 +1,0 @@
-lar[102193]=`<b>ὑπ·εξαλέομαι</b> <font color="darkgreen">(<i>seul. inf. ao</i>. ὑπεξαλέασθαι)</font> <font color="purple">[ᾰ]</font> se soustraire à, esquiver, <i>acc</i>. IL. <i>15, 180</i>.`

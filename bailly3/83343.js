@@ -1,1 +1,0 @@
-lar[83343]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. qui convient aux vieillards, <i>d’où</i> qui marque le respect, HH. <i>29, 3</i>.<p><b>Étym</b>. πρέσβυς.`

@@ -1,1 +1,0 @@
-lar[97066]=`<b>οῦ (ὁ)</b> action de fendre, de déchirer, ESCHL. <i>Ag. 1149</i> ; PLUT. <i>M. 893e</i>.<p><b>Étym</b>. σχίζω.`

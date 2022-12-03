@@ -1,1 +1,0 @@
-lar[49958]=`<b>ους (ὁ)</b> Itamatès, <i>Perse,</i> THC. <i>3, 34</i>.`

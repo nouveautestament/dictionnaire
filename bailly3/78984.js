@@ -1,1 +1,0 @@
-lar[78984]=`<b>περι·ξυστήρ, ῆρος (ὁ)</b> instrument de chirurgie pour racler les os, HLD. CHIR. (ORIB. <i>p. 97 Cocch</i>.).<p><b>Étym</b>. περιξύω.`

@@ -1,1 +1,0 @@
-lar[7205]=`<b>εως (ἡ) :<br>      1</b> action de rappeler à la mémoire, <i>d’où</i> souvenir, PLAT. <i>Phæd. 72e, 73d, etc.</i> ; ARSTT. <i>Nic. 3, 10</i>.<br><b>      2</b> rappel, avertissement, LYS. <i>194, 22</i>.<p><b>Étym</b>. ἀναμιμνῄσκω.`

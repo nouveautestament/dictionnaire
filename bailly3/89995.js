@@ -1,1 +1,0 @@
-lar[89995]=`<b>ή, όν</b>, de soie, PLUT. <i>M. 396b ;</i> LUC. <i>Salt. 63</i> ; DC. <i>59, 26, etc.</i> ; τὸ σηρικόν, robe de soie, NT. <i>Apoc. 18, 12</i> ; M. RUBR. <i>49 ; au plur</i>. STR. <i>693</i>.<p><b>Étym</b>. Σήρ.`

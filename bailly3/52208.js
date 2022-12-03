@@ -1,1 +1,0 @@
-lar[52208]=`<i>adv</i>., ridiculement, ESCHN. <i>5, 13</i> ; XÉN. <i>Mem. 1, 7, 2</i> ; PLAT. <i>Leg. 781c, etc</i>.<p>•<i> Sup</i>. -ότατα, PLAT. <i>Soph. 252b</i>.`

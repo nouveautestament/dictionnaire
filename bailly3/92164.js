@@ -1,1 +1,0 @@
-lar[92164]=`<b>ου (ὁ)</b> <font color="purple">[ᾱῑ]</font> Stasinos, <i>poète cyclique de Chypre,</i> ATH. <i>334b, etc</i>.<p><b>Étym</b>. στάσις.`

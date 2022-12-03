@@ -1,1 +1,0 @@
-lar[92021]=`<b>ητος (ἡ) :<br>      1</b> <i>en parl. de pers</i>. soin, diligence, empressement, PLAT. <i>Def. 412e.</i><br><b>      2</b> <i>en parl. de choses,</i> bonne qualité, DS. <i>1, 93</i>.<p><b>Étym</b>. σπουδαῖος.`

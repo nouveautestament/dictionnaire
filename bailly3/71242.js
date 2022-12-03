@@ -1,1 +1,0 @@
-lar[71242]=`<b>ου (ἡ)</b> Olophyxos, <i>v. de Thrace,</i> HDT. <i>7, 22</i> ; THC. <i>4, 109</i>.`

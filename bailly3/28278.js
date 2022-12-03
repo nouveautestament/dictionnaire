@@ -1,1 +1,0 @@
-lar[28278]=`<b>δυσ·γράμματος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> difficile à écrire, ARSTD. <i>t. 2, 360</i>.<br><b>      2</b> illettré, PHILSTR. <i>558</i>.<p><b>Étym</b>. δ. γράμμα.`

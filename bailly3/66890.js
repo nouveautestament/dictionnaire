@@ -1,1 +1,0 @@
-lar[66890]=`<b>α, ον</b>, qui concerne les Muses, ANON. (<i>Cram. 3, 215).</i><p>➳ <i>Éol</i>. μοισαῖος, PD. <i>N. 8, 47 ; I. 5, 2 ; 7, 62</i>.<p><b>Étym</b>. μοῦσα.`

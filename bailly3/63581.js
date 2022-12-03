@@ -1,1 +1,0 @@
-lar[63581]=`<b>μεθ·έλκω</b>, tirer en arrière, ramener en tirant, retirer, PHIL. <i>1, 231, 387</i> ; A. PL. <i>384, 386</i>.<p><b>Étym</b>. μετά, ἕλκω.`

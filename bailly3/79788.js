@@ -1,1 +1,0 @@
-lar[79788]=`<b>ου (ὁ)</b> Persès :<br><b>   I</b> <i>n. myth.</i> :<br><b>      1</b> <i>fils de Krios et d’Eurybia, père d’Hékatè,</i> HÉS. <i>Th. 377</i>.<br><b>      2</b> <i>fils de Persée, ancêtre des rois de Perse,</i> HDT. <i>7, 61, etc.</i><br><b>   II</b> <i>frère d’Hésiode, etc</i>. HÉS. <i>O. 10, etc</i>.<p>➳ <i>Voc</i>. Πέρση, HÉS. <i>O. 27, 639, etc</i>.`

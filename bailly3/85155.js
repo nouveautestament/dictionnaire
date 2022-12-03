@@ -1,1 +1,0 @@
-lar[85155]=`<b>προσ·αναλέγομαι</b>, raconter <i>ou</i> mentionner en outre, SPT. <i>2Macc. 8, 19</i>.`

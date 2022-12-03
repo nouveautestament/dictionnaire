@@ -1,1 +1,0 @@
-lar[9858]=`<b>ἀντί·δορος, ος, ον</b>, recouvert comme d’une peau, ANTH. <i>6, 22</i>.<p><b>Étym</b>. ἀ. δορά.`

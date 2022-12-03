@@ -1,1 +1,0 @@
-lar[33649]=`<b>ἐμ·πυτιάζω</b> <font color="purple">[ῡ]</font> mettre de la présure dans (le lait), <i>d’où</i> faire cailler ; <i>au pass</i>. cailler, DIOSC. <i>6, 26</i>.<p><b>Étym</b>. ἐν, πυτία.`

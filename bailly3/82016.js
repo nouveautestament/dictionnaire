@@ -1,1 +1,0 @@
-lar[82016]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῠᾰν]</font><br><b>      1</b> gouvernement de plusieurs, IL. <i>2, 204</i>.<br><b>      2</b> autorité sur un grand nombre. RHIAN. (STOB. <i>Fl. 4, 34).</i><p><b>Étym</b>. πολυκοίρανος.`

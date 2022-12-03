@@ -1,1 +1,0 @@
-lar[6405]=`<b>Ἀμφι·τρίτη, ης (ἡ)</b> <font color="purple">[ῑ̆ῑ]</font> Amphitritè (Amphitrite) <i>Néréide, femme de Poséidon,</i> OD. <i>3, 91 ; 5, 422</i> ; HÉS. <i>Th. 243, etc</i>.<p>➳ <i>Dor</i>. -ίτα, PD. <i>O. 6, 179</i> ; THCR. <i>Idyl. 21, 55</i>.<p><b>Étym</b>. ἀ. Τρίτων.`

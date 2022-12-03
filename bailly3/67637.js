@@ -1,1 +1,0 @@
-lar[67637]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> vallon boisé, IL. <i>8, 558</i> ; PD. <i>P. 6, 9, etc.</i> ; HDT. <i>4, 157</i> ; SOPH. <i>O.R. 1398</i> ; PLUT. <i>Num. 15, etc</i>.`

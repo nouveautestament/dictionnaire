@@ -1,1 +1,0 @@
-lar[78042]=`<b>πεντα·στάδιος, ος, ον</b> <font color="purple">[ᾰδ]</font> de cinq stades, STR. <i>319, etc</i>.<p><b>Étym</b>. π. στάδιον.`

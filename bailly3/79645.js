@@ -1,1 +1,0 @@
-lar[79645]=`<b>περι·φύσητος, ος, ον</b> <font color="purple">[ῡ]</font> étouffé, suffoqué, AR. <i>Lys. 323</i>.<p><b>Étym</b>. π. φυσάω.`

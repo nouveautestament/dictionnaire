@@ -1,1 +1,0 @@
-lar[11631]=`<b>ἀπ·εκλέγομαι</b>, rejeter en choisissant, ANTIP. (CLÉM. <i>Str. 2, 129</i>) ; DIOSC. <i>1, 6 ; 3, 25</i> ; ARR. <i>Epict. 4, 7, 40</i>.`

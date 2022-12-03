@@ -1,1 +1,0 @@
-lar[60553]=`<b>λεύκ·ιππος, ος, ον :<br>      1</b> aux chevaux blancs, aux blancs coursiers, <i>ép. des Dioscures,</i> IBYC. <i>16 ; de Perséphonè,</i> PD. <i>O. 6, 160, etc.</i> ; SOPH. <i>El. 706, etc.</i><br><b>      2</b> rempli de chevaux blancs, PD. <i>P. 9, 146</i>.`

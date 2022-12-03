@@ -1,1 +1,0 @@
-lar[66079]=`<b>μισο·τύραννος, ος, ον</b> <font color="purple">[ῑῠ]</font> qui hait les tyrans <i>ou</i> la tyrannie, HDT. <i>6, 121, 123</i> ; ESCHN. <i>66, 41</i> ; PLUT. <i>M. 859c, etc</i>.`

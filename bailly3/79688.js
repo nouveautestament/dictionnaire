@@ -1,1 +1,0 @@
-lar[79688]=`<b>περι·χρώννυμι</b>, colorer <i>ou</i> teindre autour, NAZ.`

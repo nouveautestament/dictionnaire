@@ -1,1 +1,0 @@
-lar[24108]=`<b>δηϊ·άλωτος, ος, ον</b> <font color="purple">[ᾰ]</font> pris à la guerre, EUR. <i>Andr. 5</i>.<p>➳ <i>Par contr</i>. δῃάλωτος, ESCHL. <i>Sept. 72</i>.<p><b>Étym</b>. δήϊος, ἁλῶναι.`

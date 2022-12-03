@@ -1,1 +1,0 @@
-lar[10312]=`<b>ἀντι·πορνοβοσκός, οῦ (ὁ)</b> le Rival en débauche, <i>comédie de Dexippos,</i> ATH. <i>100e</i>.`

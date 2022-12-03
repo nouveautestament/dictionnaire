@@ -1,1 +1,0 @@
-lar[46664]=`<b>θεο·θρέμμων, ων, ον</b>, nourri, conservé par un dieu, ORACL. (PROCL. <i>Plat. 1 Alc. 1, p. 56).</i><p><b>Étym</b>. θ. τρέφω.`

@@ -1,1 +1,0 @@
-lar[62236]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> de cuisinier, EUN. <i>p. 63</i>.<p><b>Étym</b>. μάγειρος, -ωδης.`

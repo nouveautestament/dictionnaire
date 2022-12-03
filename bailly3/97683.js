@@ -1,1 +1,0 @@
-lar[97683]=`<b>ταριχοπωλέω-ῶ</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> vendre des salaisons, PLAT. <i>Charm. 163b.</i><br><b>      2</b> faire métier d’embaumer les corps, LUC. <i>Nec. 17</i>.<p><b>Étym</b>. ταριχοπώλης.`

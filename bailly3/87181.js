@@ -1,1 +1,0 @@
-lar[87181]=`<b>πρωτό·βαθρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui siège au premier rang, PHÉRÉCR. (<i>Com. fr. 2, 356).</i><p><b>Étym</b>. π. βάθρον.`

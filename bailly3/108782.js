@@ -1,1 +1,0 @@
-lar[108782]=`<b>ων (τὰ)</b> vis pour tendre les cordes d’un instrument, ATH. <i>637d</i>.<p><b>Étym</b>. χορδοτόνος.`

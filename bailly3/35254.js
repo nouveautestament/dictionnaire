@@ -1,1 +1,0 @@
-lar[35254]=`<b>ἐξ·αγκωνίζω :<br>      1</b> se mettre les poings sur les hanches, AR. <i>Eccl. 259</i>.<br><b>      2</b> lier les mains derrière le dos, DS. <i>13, 27 ; Exc. 527, 65 ; fig</i>. PHIL. <i>2, 128</i>.<p><b>Étym</b>. ἐξ, ἀγκών.`

@@ -1,1 +1,0 @@
-lar[75373]=`<b>παρα·βαπτιστής, οῦ (ὁ)</b> faux chrétien, imposteur, <i>propr</i>. qui baptise en dehors des règles, ARR. <i>Epict. 2, 9, 21</i>.<p><b>Étym</b>. π. βαπτίζω.`

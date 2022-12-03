@@ -1,1 +1,0 @@
-lar[36525]=`<b>ἐπ·αμαυρόω-ῶ</b> <font color="purple">[ᾰ]</font> obscurcir, couvrir de ténèbres, SPT.`

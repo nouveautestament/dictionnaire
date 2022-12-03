@@ -1,1 +1,0 @@
-lar[21788]=`<b>ων (οἱ)</b> les Germanies, <i>pple de Perse (postér</i>. Καρμανοί) HDT. <i>1, 125</i>.`

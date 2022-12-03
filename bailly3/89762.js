@@ -1,1 +1,0 @@
-lar[89762]=`<b>α, ον</b> <font color="purple">[ῑ]</font> de Sélinunte, <i>en Sicile,</i> HDT. <i>5, 46</i> ; XÉN. <i>Hell. 1, 2, 8</i> ; Σελινούσιος πυρός, TH. <i>C.P. 3, 21, 2,</i> blé de Sélinunte (<i>sel. d’autres, de</i> σελινούσιος) ; γῆ Σελινουσία, DIOSC. <i>5, 175,</i> terre de Sélinunte, <i>employée en peinture</i>.<p><b>Étym</b>. Σελινοῦς.`

@@ -1,1 +1,0 @@
-lar[33330]=`<b>ἐμ·πάλλω</b>, lancer dans, <i>seul. moy. (prés. poét</i>. ἐνιπάλλομαι, A.RH. <i>3, 756 ; 3 sg. ao.2</i> ἐνέπαλτο, Q. SM. <i>10, 467</i>) se lancer dans, <i>dat</i>.<p><b>Étym</b>. ἐν, π.`

@@ -1,1 +1,0 @@
-lar[81308]=`<b>ατος (τὸ)</b> plancher, APD. POL. <i>42</i>.<p><b>Étym</b>. πούς.`

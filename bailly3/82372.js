@@ -1,1 +1,0 @@
-lar[82372]=`<b>πολύ·σοφος, ος, ον</b> <font color="purple">[ῠ]</font> très sage, PHILSTR. <i>600</i>.<p><b>Étym</b>. π. σοφός.`

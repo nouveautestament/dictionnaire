@@ -1,1 +1,0 @@
-lar[58217]=`<i>mieux que</i> <b>Κρωπειά, ᾶς (ἡ)</b> Krôpia, dème attique de la tribu Léontide, THC. <i>2, 19</i>.<p>➳ <i>L’orthogr</i>. Κρωπιά <i>confirmée par le dér</i>. Κρωπίδης.<p><b>Étym</b>. <i>v</i>. Κρωπίδης.`

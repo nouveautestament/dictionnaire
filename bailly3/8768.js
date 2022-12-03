@@ -1,1 +1,0 @@
-lar[8768]=`<b>*ἀνθ·ελιγμός</b>, <i>seul. ion</i>. <b>ἀντ·ελιγμός, οῦ (ὁ)</b> tournoiement en sens contraire, PLUT. <i>M. 896c</i>.<p><b>Étym</b>. ἀντί, ἑλίσσω.`

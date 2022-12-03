@@ -1,1 +1,0 @@
-lar[55970]=`<b>Κλε·ώνυμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Kléônymos, <i>h</i>. PD. <i>I. 3, 24</i> ; XÉN. <i>Hell. 5, 4, 25, etc</i>.<p><b>Étym</b>. κλέος, ὄνομα.`

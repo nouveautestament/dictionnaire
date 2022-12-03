@@ -1,1 +1,0 @@
-lar[66460]=`<b>μον·άμπυκος, ος, ον</b> <font color="purple">[ῠ]</font> lié d’une simple corde, EUR. <i>Hel. 1567</i>.`

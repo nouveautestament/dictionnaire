@@ -1,1 +1,0 @@
-lar[86447]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> vestibule, ATH. <i>205a ;</i> VITR. <i>2, 8</i>.<p><b>Étym</b>. προΐστημι.`

@@ -1,1 +1,0 @@
-lar[91969]=`<b>      1</b> cuire <i>ou</i> rôtir sous la cendre, PLAT. <i>Rsp. 372c ;</i> AR. <i>Vesp. 329</i>.<br><b>      2</b> flamber des poils, du duvet, DS. <i>3, 25</i>.<br><b>      3</b> avoir la couleur de la cendre, être cendré, DIOSC. <i>5, 171</i>.<p><b>Étym</b>. σποδός.`

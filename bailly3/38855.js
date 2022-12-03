@@ -1,1 +1,0 @@
-lar[38855]=`<b>ἐπι·πωρόω-ῶ</b>, durcir à la surface <i>ou</i> à la suite, <i>d’où au pass.</i> :<br><b>      1</b> être <i>ou</i> devenir calleux à la surface, HPC. <i>Fract. 796</i>.<br><b>      2</b> être <i>ou</i> devenir calleux par derrière, HPC. <i>Fract. 776</i>.`

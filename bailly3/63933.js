@@ -1,1 +1,0 @@
-lar[63933]=`<b>οῦ (ὁ) :<br>      1</b> noircissement (des cheveux, <i>etc</i>.) HPC. <i>Aph. 1253</i> ; DIOSC. <i>1, 155</i>.<br><b>      2</b> tache noire, PLUT. <i>M. 921f</i>.<p><b>Étym</b>. μελαίνω.`

@@ -1,1 +1,0 @@
-lar[66185]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> mémoire, souvenir, IL. <i>8, 181</i>.<p>➳ <i>Dor</i>. μναμοσύνα <font color="purple">[ᾱᾱ]</font> PD. <i>O. 8, 74. Dat. pl. ion</i>. μνημοσύνῃσιν, ORPH. <i>H. 27, 12</i>.<p><b>Étym</b>. μνήμων.`

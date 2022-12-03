@@ -1,1 +1,0 @@
-lar[10966]=`<b>ἀ·ξόανος, ος, ον</b> <font color="purple">[ᾰν]</font> sans image sculptée, LUC. <i>Cyn. 3</i>.<p><b>Étym</b>. ἀ, ξόανον.`

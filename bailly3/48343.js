@@ -1,1 +1,0 @@
-lar[48343]=`<b>άδος (ἡ)</b> <i>s.-e</i>. χώρα, la région d’Ibérie, <i>près de la mer Noire,</i> ANTH. <i>9, 561</i>.<p><b>Étym</b>. <i>cf</i>. Ἰβηρία.`

@@ -1,1 +1,0 @@
-lar[49356]=`<b>(οἱ)</b> les Hippokoontides, PLUT. <i>Qu. rom. 90</i>.<p><b>Étym</b>. <i>patr. de</i> Ἱπποκόων.`

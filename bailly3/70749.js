@@ -1,1 +1,0 @@
-lar[70749]=`<font color="darkgreen">(<i>seul. aux fut. act. et moy</i>. οἴσω <i>et</i> οἴσομαι, <i>v</i>. φέρω)</font> porter.`

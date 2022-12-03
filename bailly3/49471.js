@@ -1,1 +1,0 @@
-lar[49471]=`<b>ου (τὸ)</b> Hippônion (<i>auj</i>. Vibo Valentia, <i>anc</i>. Monteleone di Calabria) <i>port du Bruttium,</i> PLUT. <i>Cic. 32</i>.`

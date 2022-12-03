@@ -1,1 +1,0 @@
-lar[23533]=`<b>δειλό·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> timoré, pusillanime, JOS. <i>Macc. 8, 16</i>.<p><b>Étym</b>. δ. ψυχή.`

@@ -1,1 +1,0 @@
-lar[73955]=`<i>et</i> <b>Ὄχνη, ης (ἡ)</b> Okhna <i>et</i> Okhnè, <i>f</i>. DIOCL. (PLUT. <i>Qu. gr. 40</i>).`

@@ -1,1 +1,0 @@
-lar[39981]=`<b>ἑπτά·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> à sept lits de table, XÉN. <i>Conv. 2, 18</i> ; CALLIX. (ATH. <i>205d</i>) ; ὁ ἑπτάκλινος <i>ou</i> τὸ ἑπτάκλινον, lit de table de sept places <i>ou</i> salle à manger de sept lits, EUB. <i>fr. 121 Kock ; terme de comparaison pour mesurer,</i> ARSTT. <i>H.A. 9, 45, 1</i>.<p><b>Étym</b>. ἑ. κλίνη.`

@@ -1,1 +1,0 @@
-lar[22893]=`<b>ος, ον</b>, angulaire, THEOL. <i>3</i>.<p><b>Étym</b>. γωνία.`

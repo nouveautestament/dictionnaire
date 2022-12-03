@@ -1,1 +1,0 @@
-lar[70287]=`<b>η, ον</b>, de brebis ; <i>subst</i>. ἡ οἰέη (<i>s.-e</i>. δορά) AR. BYZ. <i>p. 197, 198 Nauck,</i> peau de brebis.<p><b>Étym</b>. οἶς.`

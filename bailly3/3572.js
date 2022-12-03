@@ -1,1 +1,0 @@
-lar[3572]=`<b>ἀ·κορής, ής, ές :<br>      1</b> insatiable de, <i>gén</i>. THÉM. <i>90d.</i><br><b>      2</b> qui dépasse toute mesure, impudent, SOPH. <i>O.C. 120 (sup</i>. -έστατος).<p><b>Étym</b>. ἀ, κόρος.`

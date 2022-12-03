@@ -1,1 +1,0 @@
-lar[49152]=`<b>ου (ἡ)</b> Ios, <i>î. de la mer Égée (auj</i>. Íos, <i>anc</i>. Nio) PLUT. <i>Sert. 1, etc</i>.`

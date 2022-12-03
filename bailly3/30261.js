@@ -1,1 +1,0 @@
-lar[30261]=`<b>ας (ἡ) :<br>      1</b> art du dessin, PHIL. BYZ.<br><b>      2</b> nature spécifique d’une chose, STR. <i>11</i> ; LGN <i>18, 1, etc</i>.<p><b>Étym</b>. εἰδοποιός.`

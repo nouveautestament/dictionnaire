@@ -1,1 +1,0 @@
-lar[52396]=`<b>κατα·θέλγω :<br>      1</b> transformer par des sortilèges, OD. <i>10, 213</i>.<br><b>      2</b> <i>p. ext</i>. charmer, CHRYSIPP. (EUSTR. <i>p. 511, 20</i>) ; LUC. <i>Ind. 12</i>.`

@@ -1,1 +1,0 @@
-lar[48258]=`<b>ας (ἡ)</b> <font color="purple">[ᾱῠ]</font> Iapygie, <i>pays des Iapyges,</i> STR.<p>➳ <i>Ion</i>. Ἰηπυγίη, HDT. <i>3, 138 ; 4, 99 ; 7, 170</i>.<p><b>Étym</b>. <i>v</i>. Ἰάπυγες, <i>fém. de</i> Ἰαπύγιος.`

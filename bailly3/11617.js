@@ -1,1 +1,0 @@
-lar[11617]=`<b>ἀ·πείρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, sans expérience, ignorant, SOPH. <i>O.R. 1088 (var</i>. ἄπειρος).<p><b>Étym</b>. ἀ, πεῖρα ; <i>cf</i>. ἄπειρος¹.`

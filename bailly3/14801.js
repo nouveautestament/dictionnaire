@@ -1,1 +1,0 @@
-lar[14801]=`<b>εως (ἡ)</b> secours, utilité, SOPH. <i>O.C. 73</i>.<p><b>Étym</b>. ἀρκέω.`

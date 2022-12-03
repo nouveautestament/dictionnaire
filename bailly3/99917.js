@@ -1,1 +1,0 @@
-lar[99917]=`<b>Τραπεζο·λείχων, οντος (ὁ)</b> <font color="purple">[ᾰ]</font> Lèche-la-table, <i>n. de parasite,</i> ALCIPHR. <i>3, 45</i>.<p><b>Étym</b>. τρ. λείχω.`

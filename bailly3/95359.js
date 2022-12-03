@@ -1,1 +1,0 @@
-lar[95359]=`<b>συν·εκκολυμβάω-ῶ</b>, se sauver à la nage avec, GAL. <i>Protr. 5, p. 6a, 15c</i>.`

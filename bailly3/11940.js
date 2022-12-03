@@ -1,1 +1,0 @@
-lar[11940]=`<b>ατος (τὸ) :<br>      1</b> retentissement, écho, PLAT. <i>Ax. 366c ; p. ext</i>. retentissement d’une fracture dans la région voisine, SOR. <i>Fract. 249, 29, Id.</i><br><b>      2</b> parole, expression, LGN <i>9, 2</i>.<p><b>Étym</b>. ἀπηχέω.`

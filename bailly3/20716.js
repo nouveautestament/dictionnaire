@@ -1,1 +1,0 @@
-lar[20716]=`<b>βραχυ·προ·παραληκτέω-ῶ</b> <font color="purple">[ᾰχ]</font> avoir l’antépénultième brève, DRAC. <i>p. 22</i>.<p><b>Étym</b>. βρ. πρό, παραλήγω.`

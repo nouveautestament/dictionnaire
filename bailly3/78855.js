@@ -1,1 +1,0 @@
-lar[78855]=`<b>περι·κυρτόω-ῶ</b>, courber tout autour, PANTHÉN. (ATH. <i>783b</i>).`

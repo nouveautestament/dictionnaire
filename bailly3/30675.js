@@ -1,1 +1,0 @@
-lar[30675]=`<b>*εἰσ·αλείφω</b>, <i>ion</i>. <b>ἐσ·αλείφω</b> (<i>inf. prés</i>.) enduire à l’intérieur, HPC. <i>566, 14</i>.`

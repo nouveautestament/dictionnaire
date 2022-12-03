@@ -1,1 +1,0 @@
-lar[72549]=`<b>οῦ (ὁ)</b> célébration de mystères, d’orgies, STR. <i>469</i> ; PLUT. <i>Alex. 2, M. 417a</i>.<p><b>Étym</b>. ὀργιάζω.`

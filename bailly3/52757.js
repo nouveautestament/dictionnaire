@@ -1,1 +1,0 @@
-lar[52757]=`<b>ῆς (ἡ) :<br>      1</b> inscription sur les listes, enrôlement (de soldats), conscription, D. CHR. <i>Or. 43, 11</i>.<br><b>      2</b> égard, respect, POL. <i>Exc. Vat. 23, 12, 10</i>.<p><b>Étym</b>. καταλέγω.`

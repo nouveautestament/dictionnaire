@@ -1,1 +1,0 @@
-lar[3142]=`<b>ἀ·κάρηνος, ος, ον</b> <font color="purple">[κᾰ]</font> sans tête, A. PL. <i>116</i>.<p><b>Étym</b>. ἀ, κάρηνον.`

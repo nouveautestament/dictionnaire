@@ -1,1 +1,0 @@
-lar[8701]=`<i>adv</i>., sans pitié, AND. <i>34, 14</i> ; PLAT. <i>Leg. 697d</i>.<p><b>Étym</b>. ἀνηλεής.`

@@ -1,1 +1,0 @@
-lar[29334]=`<b>ἐγ·γαστρί·μυθος, ου (ὁ, ἡ)</b> <font color="purple">[ῐῡ]</font> ventriloque, <i>particul</i>. qui rend des oracles <i>ou</i> fait des prédictions en parlant du ventre, HPC. <i>1156g, 1217f ;</i> SPT. <i>1Reg. 28, 7 et 8 ; 2Par. 33, 6</i>.<p><b>Étym</b>. ἐν, γαστήρ, μῦθος.`

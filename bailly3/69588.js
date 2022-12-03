@@ -1,1 +1,0 @@
-lar[69588]=`<b>ου (τὸ)</b> <font color="purple">[ξῐ]</font> coquillage en forme d’épée, XÉNOCR. <i>Al. 59</i>.<p><b>Étym</b>. ξ. ὕδωρ.`

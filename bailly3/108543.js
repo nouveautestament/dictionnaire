@@ -1,1 +1,0 @@
-lar[108543]=`<b>χλαμυδόω-ῶ</b> <font color="purple">[ᾰῠ]</font> vêtir d’une chlamyde, NICOSTR. (ATH. <i>47e</i>).<p><b>Étym</b>. χλαμύς.`

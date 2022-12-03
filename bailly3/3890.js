@@ -1,1 +1,0 @@
-lar[3890]=`<b>ἀκρ·ωμία, ας (ἡ)</b> pointe de l’épaule, crête de l’omoplate, HPC. <i>Art. 791</i> ; garrot d’un cheval, XÉN. <i>Eq. 1, 11</i> ; ARSTT. <i>H.A. 2, 1, 11</i>.<p><b>Étym</b>. ἄ. ὦμος.`

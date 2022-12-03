@@ -1,1 +1,0 @@
-lar[34979]=`<b>ἐν·στύφω</b> <font color="purple">[ῡ]</font> (<i>seul. part. prés</i>.) resserrer, être astringent, NIC. <i>Al. 298, etc</i>.`

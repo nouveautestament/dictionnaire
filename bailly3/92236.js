@@ -1,1 +1,0 @@
-lar[92236]=`<b>σταχυη·τρόφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui nourrit les épis, ANTH. <i>7, 209</i>.<p><b>Étym</b>. στ. τρέφω.`

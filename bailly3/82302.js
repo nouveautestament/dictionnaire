@@ -1,1 +1,0 @@
-lar[82302]=`<b>πολύ·πρεμνος, ος, ον</b>, aux troncs nombreux, aux nombreuses tiges, A.RH. <i>4, 161</i>.<p><b>Étym</b>. π. πρέμνον.`

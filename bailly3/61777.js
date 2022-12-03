@@ -1,1 +1,0 @@
-lar[61777]=`<b>ου (τὸ)</b> petit lynx, CALLIX. (ATH. <i>201c</i>).<p><b>Étym</b>. λύγξ¹.`

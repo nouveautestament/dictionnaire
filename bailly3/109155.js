@@ -1,1 +1,0 @@
-lar[109155]=`<b>ίτιδος</b> <font color="purple">[ῡῑῐδ]</font> <i>adj. f.</i> :<br><b>      1</b> qui contient de l’or, HDT. <i>3, 102</i> ; STR. <i>146 ; subst</i>. ἡ χρ. PLUT. <i>M. 526a.</i><br><b>      2</b> <i>c</i>. χρυσοκόμη, ARSTT. <i>Plant. 2, 7, 1, etc</i>.<p><b>Étym</b>. χρυσός.`

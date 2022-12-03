@@ -1,1 +1,0 @@
-lar[6253]=`<b>ἀμφι·μάσχαλος, ος, ον</b> <font color="purple">[χᾰ]</font> à deux manches, AR. <i>Eq. 882</i> ; LUC. <i>Lex. 10</i>.<p><b>Étym</b>. ἀ. μασχάλη.`

@@ -1,1 +1,0 @@
-lar[110182]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Ôkynoè, <i>f</i>. NONN. <i>D. 14, 223</i>.<p><b>Étym</b>. <i>cf</i>. ὠκύνοος.`

@@ -1,1 +1,0 @@
-lar[22653]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> filet de pêche, ANTH. <i>6, 23</i> ; ARTÉM. <i>2, 14</i>.<br><b>      2</b> capture à la pêche, DL. <i>1, 32</i>.`

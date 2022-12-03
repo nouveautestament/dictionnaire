@@ -1,1 +1,0 @@
-lar[107798]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> mauvais lieu, LUC. <i>D. mort. 10, 11 ; Nigr. 22 ; Ic. 16</i>.<p><b>Étym</b>. χαμαιτύπη.`

@@ -1,1 +1,0 @@
-lar[14341]=`<b>ἀργυρο·κόπος, ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> monnayeur, PHRYN. COM. <i>2-1, 582, 5 Mein.</i><br><b>      2</b> batteur d’argent, PLUT. <i>M. 830e</i>.<p><b>Étym</b>. ἄ. κόπτω.`

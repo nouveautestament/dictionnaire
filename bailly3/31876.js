@@ -1,1 +1,0 @@
-lar[31876]=`<b>εως (ἡ)</b> action de remplir, de combler, SPT. <i>2Macc. 6, 14</i> ; NT. <i>Ap. 21, 26</i> ; DIOSC. <i>1, 69</i> ; PHIL. <i>1, 64 et 94 ; fig</i>. τῶν ἐπιθυμιῶν, DH. <i>6, 86,</i> satisfaction des désirs.`

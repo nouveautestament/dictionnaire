@@ -1,1 +1,0 @@
-lar[62988]=`<b>ου (τὸ)</b> marum, <i>sorte d’origan, plante,</i> TH. <i>Od. 33</i> ; DIOSC. <i>3, 49</i>.`

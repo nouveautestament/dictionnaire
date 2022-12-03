@@ -1,1 +1,0 @@
-lar[93585]=`<b>συγ·κωμῳδέω</b>, <i>anc. att</i>. <b>ξυγ·κωμῳδέω-ῶ</b>, jouer la comédie avec, LUC. <i>Pisc. 26</i>.`

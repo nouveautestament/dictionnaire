@@ -1,1 +1,0 @@
-lar[59494]=`<b>λαθρό·νυμφος, ου</b>, <i>adj. f</i>. mariée secrètement, LYC. <i>320</i>.<p><b>Étym</b>. λάθρᾳ, νύμφη.`

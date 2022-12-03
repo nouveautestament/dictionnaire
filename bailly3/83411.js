@@ -1,1 +1,0 @@
-lar[83411]=`<b>πριαμόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> être chauve, <i>parce que Priam était représenté ainsi,</i> COM. (<i>Com. fr. 4, 647</i>).`

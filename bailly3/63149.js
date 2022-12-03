@@ -1,1 +1,0 @@
-lar[63149]=`<b>ματαιο·φιλοτιμέομαι-οῦμαι</b> <font color="purple">[ᾰῐῑ]</font> être vain et présomptueux, CHRYS. <i>6, 525</i>.<p><b>Étym</b>. μ. φιλοτιμέομαι.`

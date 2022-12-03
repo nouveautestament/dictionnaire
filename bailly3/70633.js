@@ -1,1 +1,0 @@
-lar[70633]=`<b>Οἰό·λυκος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Œolykos, <i>h</i>. HDT. <i>4, 149</i>.<p><b>Étym</b>. οἶος, λύκος.`

@@ -1,1 +1,0 @@
-lar[37127]=`<b>ἐπ·εξέτασις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> nouvelle revue (de troupes) THC. <i>6, 42</i>.<p><b>Étym</b>. ἐπί, ἐξετάζω.`

@@ -1,1 +1,0 @@
-lar[3430]=`<i>adv</i>., sans attribution par le sort, sans partage, LYS. <i>147, 91</i> ; DC. <i>42, 20</i>.<p><b>Étym</b>. ἀκλήρωτος.`

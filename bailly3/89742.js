@@ -1,1 +1,0 @@
-lar[89742]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. qui vient de la lune, ATH. <i>57f</i>.<p><b>Étym</b>. <i>v</i>. σεληνίτης.`

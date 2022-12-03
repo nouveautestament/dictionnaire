@@ -1,1 +1,0 @@
-lar[11050]=`<b>ἄ·ορνος, ος, ον</b>, sans oiseaux, dont les oiseaux n’approchent pas, PLUT. <i>M. 327c ;</i> LUC. <i>Herm. 4</i>.<p><b>Étym</b>. ἀ, ὄρνις.`

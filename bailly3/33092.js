@@ -1,1 +1,0 @@
-lar[33092]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> chaussure :<br><b>      1</b> demi-botte de cavalier, XÉN. <i>Eq. 12, 10</i>.<br><b>      2</b> cothurne tragique, LUC. <i>J. tr. 41</i>.<p><b>Étym</b>. ἐμβαίνω.`

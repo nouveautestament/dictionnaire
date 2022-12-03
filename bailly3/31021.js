@@ -1,1 +1,0 @@
-lar[31021]=`<b>ἑκατοντα·ετηρίς, ίδος (ἡ)</b> <font color="purple">[κᾰ]</font> période de cent ans, PLAT. <i>Rsp. 615a</i>.<p><b>Étym</b>. ἑ. ἔτος.`

@@ -1,1 +1,0 @@
-lar[26113]=`<b>δι·εισδύνω</b> <font color="purple">[ῡ]</font> pénétrer dans, <i>acc</i>. A. APHR. <i>Probl. 2, 76</i>.`

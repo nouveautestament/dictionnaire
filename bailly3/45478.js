@@ -1,1 +1,0 @@
-lar[45478]=`<b>ου (ὁ)</b> <font color="purple">[μῐ]</font> commandant d’une demi-cohorte, EL. TACT. <i>5, 2</i>.<p><b>Étym</b>. ἡμιλόχιον.`

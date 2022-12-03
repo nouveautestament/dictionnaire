@@ -1,1 +1,0 @@
-lar[52583]=`<b>κατακολλάω-ῶ</b>, coller solidement, souder fortement, HPC. (GAL. <i>18, 339</i>) ; CALLIX. (ATH. <i>205b</i>) ; JOS. <i>A.J. 8, 3, 3</i>.<p><b>Étym</b>. κατάκολλος.`

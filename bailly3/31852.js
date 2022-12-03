@@ -1,1 +1,0 @@
-lar[31852]=`<b>εως (ἡ)</b> amertume excessive, GAL. <i>13, 376</i>.<p><b>Étym</b>. ἐκπικρόω.`

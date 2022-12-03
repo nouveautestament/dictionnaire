@@ -1,1 +1,0 @@
-lar[56892]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de se frotter de poussière pour la palestre, ARSTT. <i>Cæl. 2, 12</i>.<p><b>Étym</b>. κονίζω.`

@@ -1,1 +1,0 @@
-lar[8186]=`<b>ἀν·εικαιότης, ητος (ἡ)</b> prudence, circonspection, ARR. <i>Epict. 3, 2</i> ; DL. <i>7, 46</i>.<p><b>Étym</b>. ἀν-, εἰκαῖος.`

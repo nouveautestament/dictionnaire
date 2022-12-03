@@ -1,1 +1,0 @@
-lar[31932]=`<b>ας (ἡ)</b> excellence, supériorité, JAMBL. <i>V. Pyth. 56</i>.<p><b>Étym</b>. ἐκπρεπής.`

@@ -1,1 +1,0 @@
-lar[50843]=`<b>κακό·ρρογχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui ronfle d’une manière désagréable, ARR. <i>Epict. 3, 22, 7 (vulg</i>. κακόρρυγχος).<p><b>Étym</b>. κ. ῥέγχω.`

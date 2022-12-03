@@ -1,1 +1,0 @@
-lar[59693]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> action de tenir un flambeau, LYC. <i>1179 au pl</i>.<p><b>Étym</b>. λαμπαδοῦχος.`

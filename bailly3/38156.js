@@ -1,1 +1,0 @@
-lar[38156]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de l’emporter sur, victoire sur, <i>gén</i>. THC. <i>1, 41</i>.<br><b>      2</b> domination, prépondérance, DC. <i>47, 21</i>.<p><b>Étym</b>. ἐπικρατέω.`

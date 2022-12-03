@@ -1,1 +1,0 @@
-lar[83567]=`<b>προ·αναπλάττω</b>, façonner d’avance <i>ou</i> auparavant, HIPPARQ. (STOB. <i>Fl. 103, 81</i>).`

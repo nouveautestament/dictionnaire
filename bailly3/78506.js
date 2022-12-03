@@ -1,1 +1,0 @@
-lar[78506]=`<b>α, ον</b> <font color="purple">[ῐ]</font> situé autour du mont Ida, PD. <i>fr. 131 Bgk conj</i>.<p><b>Étym</b>. <i>dor. c</i>. *Περιϊδαῖος, <i>de</i> περί, Ἴδη.`

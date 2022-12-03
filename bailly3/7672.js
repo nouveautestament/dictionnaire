@@ -1,1 +1,0 @@
-lar[7672]=`<b>εως (ἡ)</b> supplice du pal, X. ÉPH. <i>4, 2</i>.`

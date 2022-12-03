@@ -1,1 +1,0 @@
-lar[86887]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> préexistence, DIOSC. <i>Iob. p. 55</i>.<p><b>Étym</b>. προϋφίστημι.`

@@ -1,1 +1,0 @@
-lar[41950]=`<b>εὔ·ειλος, ος, ον</b>, bien exposé à la chaleur du soleil, EUR. <i>Ph. 67, 4</i> ; ARSTT. <i>H.A. 8, 12, 9</i>.<p><b>Étym</b>. εὖ, εἵλη.`

@@ -1,1 +1,0 @@
-lar[71115]=`<b>ά, όν :<br>      1</b> <i>act</i>. glissant, propre à faire glisser, PD. <i>P. 2, 96</i> ; XÉN. <i>An. 4, 3, 6, etc.</i> ; PLAT. <i>Soph. 231a ;</i> PLUT. <i>Pyrrh. 29</i>.<br><b>      2</b> <i>pass</i>. qui glisse facilement, mobile, fugace, ANTH. <i>7, 398</i> ; LUC. <i>Tim. 29</i>.<p>•<i> Sup</i>. -ότατος, PLAT. <i>l. c</i>.<p><b>Étym</b>. ὀλισθάνω.`

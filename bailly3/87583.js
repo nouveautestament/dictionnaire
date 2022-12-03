@@ -1,1 +1,0 @@
-lar[87583]=`<b>Πυθό·μανδρος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Pythomandros, <i>h</i>. ANACR. <i>60</i>.<p><b>Étym</b>. Πυθώ, μάνδρα.`

@@ -1,1 +1,0 @@
-lar[96701]=`<b>συ·στορέννυμι</b>, étendre en même temps, DIPH. (POLL. <i>10, 38</i>).`

@@ -1,1 +1,0 @@
-lar[80918]=`<i>adv</i>., de côté, sur le côté, SOPH. <i>Tr. 940</i>.<p><b>Étym</b>. πλευρόν, -θεν.`

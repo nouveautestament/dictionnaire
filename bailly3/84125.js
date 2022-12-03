@@ -1,1 +1,0 @@
-lar[84125]=`<b>προ·εκχωρέω-ῶ</b>, se retirer auparavant, DS. <i>41, 41</i>.`

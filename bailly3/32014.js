@@ -1,1 +1,0 @@
-lar[32014]=`<b>ῆς (ἡ) :<br>      1</b> écoulement, PLAT. <i>Gorg. 494c.</i><br><b>      2</b> cours, courant (d’un fleuve) HPC. <i>1004h ;</i> PLAT. <i>Phæd. 112d</i>.<p><b>Étym</b>. ἐκρέω.`

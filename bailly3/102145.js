@@ -1,1 +1,0 @@
-lar[102145]=`<b>ὑπ·εκτανύω</b> <font color="purple">[ᾰ]</font> étendre par-dessous, P. SIL. <i>Ecphr. amb. 56</i>.`

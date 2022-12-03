@@ -1,1 +1,0 @@
-lar[101138]=`<b>τυρό·νωτος, ος, ον</b> <font color="purple">[ῡ]</font> recouvert de fromage (<i>litt</i>. au dos de fromage), <i>ép. d’un gâteau,</i> AR. <i>Ach. 1125</i>.<p><b>Étym</b>. τ. νῶτον.`

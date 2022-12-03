@@ -1,1 +1,0 @@
-lar[60904]=`<font color="purple">[ῐ]</font> épancher, verser goutte à goutte, <i>d’où, au pass.,</i> couler goutte à goutte, ANTH. <i>9, 258</i>.<p><b>Étym</b>. λιβάς.`

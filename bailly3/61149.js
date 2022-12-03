@@ -1,1 +1,0 @@
-lar[61149]=`<b>λιμεν·ορμίτης, ου (ὁ)</b> <font color="purple">[ῐῑ]</font> qui fait aborder au port, <i>ép. de Priape,</i> ANTH. <i>10, 5</i>.<p><b>Étym</b>. λ. ὅρμος.`

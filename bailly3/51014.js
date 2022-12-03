@@ -1,1 +1,0 @@
-lar[51014]=`<b>(ὁ)</b> oiseau ennemi du hibou, ARSTT. <i>H.A. 9, 2</i>.`

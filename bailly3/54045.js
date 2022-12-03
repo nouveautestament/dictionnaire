@@ -1,1 +1,0 @@
-lar[54045]=`<b>όνος</b>, <i>adj. m</i>. qui est un sujet de honte <i>ou</i> de tristesse, IL. <i>24, 253</i>.<p><b>Étym</b>. κατηφής.`

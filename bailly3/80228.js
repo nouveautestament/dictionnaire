@@ -1,1 +1,0 @@
-lar[80228]=`<b>*πιθ·αύλης, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>seul. lat</i>. pithaules, <i>joueur de musette ou de cornemuse,</i> SÉN. <i>Ep. 10, 77</i>.<p><b>Étym</b>. πίθος, αὐλός.`

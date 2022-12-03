@@ -1,1 +1,0 @@
-lar[106187]=`<b>α (ὁ)</b> <font color="purple">[ῐᾰᾱ]</font> Philokharidas, <i>Lacédémonien,</i> THC. <i>4, 119 ; 5, 19, 24, 44</i>.<p><b>Étym</b>. <i>patr. de</i> *φιλόχαρις, <i>de</i> φ. χάρις.`

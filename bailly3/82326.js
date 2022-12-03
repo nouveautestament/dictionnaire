@@ -1,1 +1,0 @@
-lar[82326]=`<b>πολυ·ρραθάμιγξ, ιγγος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font> qui tombe en gouttes abondantes, NONN. <i>D. 7, 174</i>.<p><b>Étym</b>. π. ῥαθάμιγξ.`

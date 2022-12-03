@@ -1,1 +1,0 @@
-lar[109768]=`<b>ψεφο·ειδής, ής, ές</b>, d’aspect sombre, obscur, GAL. <i>Lex. Hipp. 19, 156 v</i>° ψέφαρα.<p><b>Étym</b>. ψέφος, εἶδος.`

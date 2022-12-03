@@ -1,1 +1,0 @@
-lar[38025]=`<b>εως (ἡ)</b> annonce publique, proclamation, PHIL. BYZ. <i>Bel. 98</i>.<p><b>Étym</b>. ἐπικηρύσσω.`

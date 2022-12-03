@@ -1,1 +1,0 @@
-lar[4106]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> un peu de sel, ES. <i>322 b Halm</i>.<br><b>      2</b> mixture saline pour les yeux, A. TR. <i>3, p. 189</i>.<p><b>Étym</b>. ἅλας.`

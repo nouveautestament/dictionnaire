@@ -1,1 +1,0 @@
-lar[96182]=`<b>συν·ομορέω-ῶ</b>, être limitrophe de, <i>dat</i>. NT. <i>Ap. 18, 7</i>.<p><b>Étym</b>. σύν, ὅμορος.`

@@ -1,1 +1,0 @@
-lar[97343]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> ordre de bataille, AR. <i>Lys. 105</i>.<br><b>      2</b> le commandement, l’autorité (qui commande) ESCHL. <i>Ag. 110</i>.<br><b>      3</b> un commandement, une province, ARSTT. <i>Œc. 2, 1</i>.<p><b>Étym</b>. τάσσω.`

@@ -1,1 +1,0 @@
-lar[27507]=`<i>adv</i>., à la maison, vers la maison, <i>avec mouv.,</i> OD. <i>1, 83, etc</i>.<p><b>Étym</b>. δόμος, -δε.`

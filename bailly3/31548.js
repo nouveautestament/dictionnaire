@@ -1,1 +1,0 @@
-lar[31548]=`<b>εως (ἡ)</b> lumière éclatante, SPT. <i>Lev. 13, 26 ; 2 Macc. 5, 13</i>.<p><b>Étym</b>. ἐκλάμπω.`

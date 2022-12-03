@@ -1,1 +1,0 @@
-lar[36751]=`<b>ἐπ·αποικίζω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐπαπῴκισεν)</font> envoyer une nouvelle colonie dans, <i>acc</i>. DC. <i>52, 43</i>.`

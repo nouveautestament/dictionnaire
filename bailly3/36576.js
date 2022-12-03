@@ -1,1 +1,0 @@
-lar[36576]=`<b>ός, όν</b> <font color="purple">[ᾰγ]</font> qui ramène, DC. <i>54, 10</i>.<p><b>Étym</b>. ἐπανάγω.`

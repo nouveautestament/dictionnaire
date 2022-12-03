@@ -1,1 +1,0 @@
-lar[81410]=`<b>*ποικιλο·σάνδαλος</b>, <i>éol</i>. <b>ποικιλο·σάμβαλος, ος, ον</b> <font color="purple">[ῐᾰλ]</font> aux sandales tachetées <i>ou p.-ê</i>. brodées, ANACR. <i>14, 3</i>.<p><b>Étym</b>. π. σάνδαλον.`

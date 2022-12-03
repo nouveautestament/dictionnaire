@@ -1,1 +1,0 @@
-lar[72995]=`<b>ου (ὁ)</b> Orœtès, <i>Perse,</i> HDT. <i>3, 120, etc</i>.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>3, 121, etc. ; acc. ion</i>. -εα, HDT. <i>3, 121, etc</i>.`

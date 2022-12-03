@@ -1,1 +1,0 @@
-lar[25881]=`<b>δια·φρουρέω-ῶ</b>, garder son poste jusqu’à la fin ; <i>fig</i>. διαπεφρούρηται βίος, ESCHL. <i>fr. 263,</i> la garde de la vie est achevée.`

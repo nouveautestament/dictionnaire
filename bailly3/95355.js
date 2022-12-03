@@ -1,1 +1,0 @@
-lar[95355]=`<b>συν·εκκλέπτω :<br>      1</b> aider à dérober en même temps, EUR. <i>Tr. 1018, Hel. 1370</i>.<br><b>      2</b> éluder de concert avec, <i>acc</i>. EUR. <i>El. 364, etc</i>.`

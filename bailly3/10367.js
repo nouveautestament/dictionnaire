@@ -1,1 +1,0 @@
-lar[10367]=`<b>ή, όν</b>, qui contredit, qui réfute, SEXT. <i>7, 24 Bkk</i>.`

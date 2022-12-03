@@ -1,1 +1,0 @@
-lar[88617]=`<b>ου (τὸ)</b> Rhion, <i>n. de divers promont.</i> :<br><b>      1</b> <i>en Achaïe,</i> EUR. <i>Ion 1592</i> ; THC. <i>2, 84, 86, 92 ; 5, 52</i>.<br><b>      2</b> <i>en Étolie,</i> THC. <i>2, 84, 86</i> ; XÉN. <i>Hell. 4, 6, 14, etc</i>.<p><b>Étym</b>. <i>v</i>. ῥίον.`

@@ -1,1 +1,0 @@
-lar[110489]=`<i>crase ion. et dor. c</i>. ὁ ἀρχαῖος.`

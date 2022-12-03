@@ -1,1 +1,0 @@
-lar[61594]=`<b>ητος (ἡ)</b> état pestilentiel, SPT. <i>Esth. 16, 5</i>.<p><b>Étym</b>. λοιμός.`

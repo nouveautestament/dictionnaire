@@ -1,1 +1,0 @@
-lar[45394]=`<b>ἡμί·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à demi marié, PHILSTR. <i>516</i>.<p><b>Étym</b>. ἡμι-, γαμέω.`

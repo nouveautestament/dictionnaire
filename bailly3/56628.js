@@ -1,1 +1,0 @@
-lar[56628]=`<b>ατος (τὸ)</b> collage, soudure, ANTIPH. <i>fr. 161 Kock</i>.<p><b>Étym</b>. κολλάω.`

@@ -1,1 +1,0 @@
-lar[53133]=`<b>οῦ (ὁ)</b> action de jeter à la mer, de submerger, ISOCR. <i>257e ;</i> APP. <i>Mac. 16</i>.<p><b>Étym</b>. καταποντίζω.`

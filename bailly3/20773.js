@@ -1,1 +1,0 @@
-lar[20773]=`<b>ῶν (οἱ)</b> = <i>lat</i>. Britanni, les Bretons (habitants de la Grande-Bretagne), DS. <i>5, 21</i> ; STR. PLUT. <i>etc</i>.`

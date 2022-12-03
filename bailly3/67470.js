@@ -1,1 +1,0 @@
-lar[67470]=`<font color="purple">[ῠ]</font> <i>adv</i>., du fond, ESCHL. <i>Ag. 96 ; Ch. 35</i>.<p><b>Étym</b>. μυχός, -θεν.`

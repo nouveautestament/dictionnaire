@@ -1,1 +1,0 @@
-lar[87276]=`<b>πρωτό·χνοος-ους, οος-ους, οον-ουν</b>, couvert d’un premier duvet, LUC. <i>Am. 53</i>.<p><b>Étym</b>. πρ. χνόος.`

@@ -1,1 +1,0 @@
-lar[33087]=`<b>ἐμ·βαστάζω</b> (<i>pf. pass</i>. ἐμβεβάσταγμαι) porter dans <i>ou</i> sur, <i>dat</i>. LUC. <i>Oc. 14</i>.<p><b>Étym</b>. ἐν, β.`

@@ -1,1 +1,0 @@
-lar[41579]=`<b>εὐ·ανάδοτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> facile à distribuer, ATH. <i>26a.</i><br><b>      2</b> facile à digérer, DIPH. SIPHN. (ATH. <i>356b</i>).<p><b>Étym</b>. εὖ, ἀναδίδωμι.`

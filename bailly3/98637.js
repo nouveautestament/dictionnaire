@@ -1,1 +1,0 @@
-lar[98637]=`<b>τετραπλασι·επιτετραμερής, ής, ές</b>, quatre fois quatre cinquièmes aussi fort, comme 24 : 5, NICOM. <i>Arithm. 1, 23</i>.`

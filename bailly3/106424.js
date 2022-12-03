@@ -1,1 +1,0 @@
-lar[106424]=`<b>η, ον</b>, fait d’écorce (φλοιός) <i>ou</i> de l’espèce de roseau φλόος <i>ou</i> φλέως, HDT. <i>3, 98</i> ; EUR. <i>fr. 286</i>.`

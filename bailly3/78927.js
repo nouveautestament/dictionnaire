@@ -1,1 +1,0 @@
-lar[78927]=`<b>περι·μηρίδιον, ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite couverture autour des cuisses, ARR. <i>Tact. 4, 1</i>.<p><b>Étym</b>. π. μηρός ; <i>leçon fausse p</i>. παραμηρίδιον, <i>v</i>. παραμηρίδιος.`

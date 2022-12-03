@@ -1,1 +1,0 @@
-lar[71723]=`<i>adv</i>., avec une égale tension, PHIL. BYZ. <i>Bel. 26</i>.<p><b>Étym</b>. <i>part. prés. de</i> ὁμοτονέω.`

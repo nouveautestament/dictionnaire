@@ -1,1 +1,0 @@
-lar[79854]=`<b>ῆρος (ὁ)</b> danseur de corde, MAN. <i>4, 278</i>.<p><b>Étym</b>. πέταυρον.`

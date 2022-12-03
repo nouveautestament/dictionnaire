@@ -1,1 +1,0 @@
-lar[48884]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> action de rendre propice par une cérémonie expiatoire, expiation, PLUT. <i>Sol. 12</i> ; ORPH. <i>Arg. 39, 552</i> ; SPT. <i>2Macc. 3, 33 ; Ezech. 44, 27</i> ; NT. <i>1Joh. 2, 2 ; 4, 10</i>.<p><b>Étym</b>. ἱλάσκομαι.`

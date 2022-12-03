@@ -1,1 +1,0 @@
-lar[87869]=`<b>πυρι·ήκης, ης, ες</b> <font color="purple">[ῠ]</font> à la pointe rougie au feu, OD. <i>9, 387</i>.<p><b>Étym</b>. π. ἀκή.`

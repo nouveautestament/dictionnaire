@@ -1,1 +1,0 @@
-lar[11886]=`<b>*ἀπηγορία</b>, <i>seul. dor</i>. <b>ἀπαγορία, ας (ἡ)</b> <font color="purple">[ᾱγ]</font> <i>c</i>. ἀπηγόρημα PD. <i>fr. 87, 4 au plur</i>.`

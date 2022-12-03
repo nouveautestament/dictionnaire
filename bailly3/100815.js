@@ -1,1 +1,0 @@
-lar[100815]=`<b>τρυγη·φάγος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui mange les récoltes, PLUT. <i>M. 730b</i>.<p><b>Étym</b>. τρύγη, φαγεῖν.`

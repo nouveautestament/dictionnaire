@@ -1,1 +1,0 @@
-lar[56615]=`<b>κολεό·πτερος, ος, ον</b>, dont les ailes sont recouvertes d’une sorte de fourreau, coléoptère, ARSTT. <i>H.A. 1, 5, 12, etc</i>.<p><b>Étym</b>. κολεός, πτερόν.`

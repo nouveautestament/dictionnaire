@@ -1,1 +1,0 @@
-lar[57569]=`<b>κρανο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> fabricant de casques, AR. <i>Pax 1255</i>.<p><b>Étym</b>. κράνος, ποιέω.`

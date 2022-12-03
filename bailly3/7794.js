@@ -1,1 +1,0 @@
-lar[7794]=`<b>ἀνά·τριχος, ος, ον</b> <font color="purple">[ῐ]</font> aux cheveux relevés, PORPH. (EUS. <i>P.E. 3, 3).</i><p><b>Étym</b>. ἀνά, θρίξ.`

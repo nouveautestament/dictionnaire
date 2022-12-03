@@ -1,1 +1,0 @@
-lar[44783]=`<b>ας (ἡ)</b> commerce avec des animaux, NYSS. <i>2, 228 Migne</i>.<p><b>Étym</b>. ζῳοφθόρος.`

@@ -1,1 +1,0 @@
-lar[103629]=`<i>ion</i>. <b>ὑποξηρασίη, ης (ἡ)</b> <font color="purple">[ρᾰ]</font> sécheresse suffisante, HPC. <i>543, 12</i>.<p><b>Étym</b>. ὑποξηραίνω.`

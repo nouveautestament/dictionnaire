@@ -1,1 +1,0 @@
-lar[72374]=`<b>ὁ·πόθι</b>, <i>épq</i>. <b>ὁ·ππόθι</b> <font color="purple">[ῐ]</font> <i>adv. relat. corrél. de</i> πόθι, en quel endroit, IL. <i>9, 577</i> ; ESCHL. <i>Suppl. 124 conj</i>.<p>➳ <i>Par élis</i>. ὁππόθ', OD. <i>3, 89 ; sur le double</i> π <i>v</i>. ὁπότε.`

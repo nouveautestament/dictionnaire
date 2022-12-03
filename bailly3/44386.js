@@ -1,1 +1,0 @@
-lar[44386]=`<b>ου</b> (ἡ, <i>qqf</i>. ὁ) <font color="purple">[ᾰ]</font> Zakynthos (<i>auj</i>. Zante <i>ou</i> Zákynthos) <i>î. avec v. du même nom dans la mer Ionienne</i>, IL. <i>2, 634</i> ; OD. <i>9, 24</i> ; HDT. <i>6, 70, etc</i>.<p>➳ ἡ Ζ. OD. <i>l. c.</i> ; ὁ Ζ. OD. <i>1, 246 ; 16, 123, etc</i>.`

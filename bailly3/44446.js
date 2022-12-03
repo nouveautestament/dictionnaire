@@ -1,1 +1,0 @@
-lar[44446]=`<b>ατος (τὸ)</b> décoction, jus, DIOSC. <i>Alex. 7</i> ; GEOP. <i>8, 37, 3</i>.<p><b>Étym</b>. ζέω.`

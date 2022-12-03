@@ -1,1 +1,0 @@
-lar[34259]=`<b>ων (τὰ)</b> <font color="purple">[ῡᾰ]</font> <i>dim. de</i> ἔνδυμα PLUT. <i>M. 1134c</i>.`

@@ -1,1 +1,0 @@
-lar[75268]=`<b>παντό·μιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> pantomime, <i>comédien qui joue au moyen de gestes, sans le secours de la parole,</i> LUC. <i>Salt. 67</i>.<p><b>Étym</b>. π. μιμέομαι.`

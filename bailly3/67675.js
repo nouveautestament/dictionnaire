@@ -1,1 +1,0 @@
-lar[67675]=`<b>ναρκόω-ῶ</b>, engourdir, causer de la torpeur, HPC. <i>425, 9 ; 427, 11, etc</i>.<p><b>Étym</b>. νάρκη.`

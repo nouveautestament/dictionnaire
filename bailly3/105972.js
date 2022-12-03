@@ -1,1 +1,0 @@
-lar[105972]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> pratique de l’hospitalité, PLAT. <i>Leg. 955a ;</i> POL. <i>4, 20, 1</i> ; PLUT. <i>Thes. 14 et 23, etc</i>.<p>➳ <i>Ion</i>. φιλοξενίη, THGN. <i>1358</i>.<p><b>Étym</b>. φιλόξενος.`

@@ -1,1 +1,0 @@
-lar[29339]=`<b>ἔγ·γειος, ος, ον :<br>      1</b> qui provient de la terre <i>ou</i> appartient à la terre, terrestre, PLAT. <i>Rsp. 546a ; p. opp. à</i> ἐναέριος, THÉM. <i>168b.</i><br><b>      2</b> qui consiste en terre, foncier, DÉM. <i>914, 9, 10 et 15 ; 926 fin</i> ; POL. <i>32, 8, 4</i>.<p><b>Étym</b>. <i>cf</i>. ἔγγαιος.`

@@ -1,1 +1,0 @@
-lar[58830]=`<b>ους (τὸ)</b> Cynosarge, <i>place d’Athènes, consacrée à Hèraklès et où se trouvait un gymnase,</i> HDT. <i>5, 63 ; 6, 116</i> ; DÉM. <i>691, 18</i>.`

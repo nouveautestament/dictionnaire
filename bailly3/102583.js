@@ -1,1 +1,0 @@
-lar[102583]=`<b>ὑπερ·κάμνω</b> <font color="darkgreen">(<i>f</i>. -καμοῦμαι, <i>ao.2</i> -έκαμον, <i>etc</i>.)</font> travailler <i>ou</i> souffrir pour, <i>gén</i>. EUR. <i>Bacch. 963, I.A. 918</i>.`

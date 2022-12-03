@@ -1,1 +1,0 @@
-lar[19714]=`<b>βιβλιο·φόρος, ου (ὁ)</b> qui porte des lettres, secrétaire, tabellion, POL. <i>4, 22</i>.<p><b>Étym</b>. β. φέρω.`

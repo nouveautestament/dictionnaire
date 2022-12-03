@@ -1,1 +1,0 @@
-lar[32506]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>litt</i>. qui expulse (la maladie) ; οἱ Ἐλάσιοι, les Guérisseurs, <i>famille d’Argos qui guérissait de l’épilepsie,</i> PLUT. <i>M. 296f</i>.<p><b>Étym</b>. ἐλάω.`

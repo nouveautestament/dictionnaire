@@ -1,1 +1,0 @@
-lar[22454]=`<b>γονο·ρρυής, ής, ές</b>, qui éprouve des pertes séminales, SPT. <i>Lev. 15, 4 ; Num. 5, 2 ; 2Reg. 3, 29</i>.<p><b>Étym</b>. γόνος, ῥέω.`

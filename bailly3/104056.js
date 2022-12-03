@@ -1,1 +1,0 @@
-lar[104056]=`<b>ὑπο·τρύω</b>, s’épuiser peu à peu, NIC. <i>Al. 83</i>.`

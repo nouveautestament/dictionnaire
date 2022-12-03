@@ -1,1 +1,0 @@
-lar[42239]=`<b>εὐθυ·έντερος, ος, ον</b>, qui a les intestins droits, ARSTT. <i>H.A. 2, 17, 15</i>.<p><b>Étym</b>. εὐ. ἔντερον.`

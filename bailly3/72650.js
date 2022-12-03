@@ -1,1 +1,0 @@
-lar[72650]=`<b>ου (τὸ) :<br>      1</b> Oresteion, <i>autre n. de</i> Ὀρεσθάσιον, EUR. <i>Or. 1647</i>.<br><b>      2</b> <i>temple consacré à Oreste,</i> HDT. <i>9, 11</i> ; LUC. <i>Tox. 6</i>.<p><b>Étym</b>. Ὀρέστης.`

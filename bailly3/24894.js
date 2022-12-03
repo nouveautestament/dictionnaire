@@ -1,1 +1,0 @@
-lar[24894]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action d’empêcher, PLAT. <i>Rsp. 469e, Ep. 316b ;</i> ARSTT. <i>Rhet. Al. 2, 3</i>.<p><b>Étym</b>. διακωλύω.`

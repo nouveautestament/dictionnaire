@@ -1,1 +1,0 @@
-lar[67638]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. νάπη, PD. <i>P. 5, 38, etc.</i> ; SOPH. <i>O.C. 157, Tr. 436</i> ; EUR. <i>Andr. 283, I.A. 1283</i> ; XÉN. <i>Hell. 5, 4, 44</i>.`

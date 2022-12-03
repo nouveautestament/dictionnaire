@@ -1,1 +1,0 @@
-lar[34996]=`<b>ἐν·ταλαιπωρέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> vivre misérablement dans, <i>dat</i>. OLYMPIOD. <i>Plat. 1 Alc. § 7</i>.`

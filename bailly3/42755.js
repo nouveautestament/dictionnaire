@@ -1,1 +1,0 @@
-lar[42755]=`<i>adv</i>., en sortant du lit, OD. <i>20, 124</i> ; A.RH. <i>2, 197</i>.<p><b>Étym</b>. εὐνή, -θεν.`

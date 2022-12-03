@@ -1,1 +1,0 @@
-lar[25934]=`<b>ατος (τὸ)</b> tout ce qui sert à enduire, onguent, P. ÉG. <i>185, 18</i> ; GEOP. <i>6, 9</i>.<p><b>Étym</b>. διαχρίω.`

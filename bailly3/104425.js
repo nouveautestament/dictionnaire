@@ -1,1 +1,0 @@
-lar[104425]=`<b>ὕφ·υγρος, ος, ον :<br>      1</b> légèrement humide, ARSTT. <i>Probl. 2, 17, 1</i>.<br><b>      2</b> plein d’humeur, GAL. <i>19, 14</i>.<p><b>Étym</b>. ὑ. ὑγρός.`

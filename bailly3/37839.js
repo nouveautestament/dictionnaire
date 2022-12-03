@@ -1,1 +1,0 @@
-lar[37839]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> enclin à désirer, désireux de, <i>gén</i>. PLAT. <i>Leg. 475b ;</i> τὸ ἐπιθυμητικόν, PLAT. <i>Rsp. 439e ;</i> ARSTT. <i>Nic. 1, 13, 2</i> ; PLUT. <i>M. 429e</i>, la faculté de désirer.<p><b>Étym</b>. ἐπιθυμέω.`

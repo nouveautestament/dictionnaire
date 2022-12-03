@@ -1,1 +1,0 @@
-lar[11361]=`<b>ατος (τὸ)</b> <i>d’ord. au plur</i>. prémices, AR. <i>Pax 1056</i> ; LYC. <i>106</i>.<p><b>Étym</b>. ἀπάρχομαι.`

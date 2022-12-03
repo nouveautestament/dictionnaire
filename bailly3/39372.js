@@ -1,1 +1,0 @@
-lar[39372]=`<b>(ἡ)</b> (<i>seul. nom. et acc</i>. ἐπίτεκα) <i>adj. f. ion</i>. près d’accoucher <i>ou</i> de mettre bas, HDT. <i>1, 108 et 111</i> ; HPC. <i>603, 4</i> ; LUC. <i>M. cond. 34</i>.<p><b>Étym</b>. ἐπιτίκτω.`

@@ -1,1 +1,0 @@
-lar[62013]=`<b>ου (ὁ)</b> Lysias :<br><b>      1</b> <i>célèbre orateur athénien</i>.<br><b>      2</b> <i>général athénien,</i> XÉN. <i>Hell. 1, 6, 30, etc.</i><br><b>      3</b> <i>autres,</i> Ps.-PLUT. <i>Mus. 2, 3</i>.<p>➳ <i>Dès le 6<sup>e</sup> siècle av. J.-C. l’orthogr. att. flotte entre les formes</i> Λυσίας <i>et</i> Λυσέας, <i>v. Meisterh. p. 90</i>.`

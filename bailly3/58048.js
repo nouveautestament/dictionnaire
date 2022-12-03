@@ -1,1 +1,0 @@
-lar[58048]=`<b>κροκωτοφορέω-ῶ</b>, porter une tunique jaune, AR. <i>Lys. 219</i> ; ATH. <i>565b</i>.<p><b>Étym</b>. κροκωτοφόρος.`

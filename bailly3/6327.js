@@ -1,1 +1,0 @@
-lar[6327]=`<b>ας (ἡ)</b> ministère de prêtre, DS. <i>16, 10</i>.<p><b>Étym</b>. ἀμφίπολος.`

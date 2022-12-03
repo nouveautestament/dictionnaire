@@ -1,1 +1,0 @@
-lar[27202]=`<b>διχονοέω-οῶ</b> <font color="purple">[ῐ]</font> différer d’opinion, DS. <i>2, 29</i> ; CHRYS. <i>10, 15 Migne</i>.<p><b>Étym</b>. διχόνοος.`

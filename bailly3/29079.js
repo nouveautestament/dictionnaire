@@ -1,1 +1,0 @@
-lar[29079]=`<b>δωδεκά·δραχμος, ος, ον</b>, du prix de douze drachmes, DÉM. <i>1045, 5</i>.<p><b>Étym</b>. δ. δραχμή.`

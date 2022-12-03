@@ -1,1 +1,0 @@
-lar[87764]=`<b>Πύρ·ανδρος, ου (ὁ)</b> Pyrandros, <i>h</i>. LYS. <i>fr. p. 299 Baiter-Sauppe</i> ; PLUT. <i>Parall. min. 31</i>.<p><b>Étym</b>. πῦρ, ἀνήρ.`

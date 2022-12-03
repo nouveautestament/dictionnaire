@@ -1,1 +1,0 @@
-lar[108150]=`<b>χειρομαχέω-ῶ</b> <font color="purple">[ᾰ]</font> lutter avec les mains, ANTH. <i>12, 22</i>.<p><b>Étym</b>. χειρομάχος.`

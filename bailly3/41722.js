@@ -1,1 +1,0 @@
-lar[41722]=`<b>εὔ·βοτος, ος, ον :<br>      1</b> abondant en pâturages, OD. <i>15, 406</i> ; PLAT. <i>Criti. 111a ; cf</i>. PLUT. <i>Cam. 16</i>.<br><b>      2</b> bien nourri, gras, THCR. <i>Idyl. 5, 24</i>.<p>•<i> Sup</i>. -ώτατος, EUR. <i>fr. inc. 1068, 11</i>.<p><b>Étym</b>. εὖ, βόσκω.`

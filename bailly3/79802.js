@@ -1,1 +1,0 @@
-lar[79802]=`<b>Περσο·νόμος, ος, ον</b>, qui commande aux Perses, ESCHL. <i>Pers. 919</i>.<p><b>Étym</b>. Πέρσαι, νέμω.`

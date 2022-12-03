@@ -1,1 +1,0 @@
-lar[39987]=`<b>ἑπτά·λογχος, ος, ον</b> <font color="purple">[ᾰ]</font> aux sept chefs (<i>litt</i>. aux sept lances), SOPH. <i>O.C. 1305</i>.<p><b>Étym</b>. ἑ. λόγχη.`

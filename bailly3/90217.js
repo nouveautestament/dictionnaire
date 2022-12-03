@@ -1,1 +1,0 @@
-lar[90217]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> femme de Thrace, NONN. <i>D. 13, 336</i>.<p><b>Étym</b>. Σιθών.`

@@ -1,1 +1,0 @@
-lar[47836]=`<b>θυη·φάγος, ος, ον</b>, qui dévore la victime du sacrifice, ESCHL. <i>Ag. 597</i>.<p><b>Étym</b>. θύος, φαγεῖν.`

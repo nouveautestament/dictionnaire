@@ -1,1 +1,0 @@
-lar[75604]=`<b>παρα·θλίβω</b> <font color="purple">[ῑ]</font><br><b>      1</b> presser de côté, <i>acc</i>. SEXT. <i>P. 1, 47</i>.<br><b>      2</b> presser le long de, <i>acc</i>. SPT. <i>4Reg. 6, 32</i>.`

@@ -1,1 +1,0 @@
-lar[25819]=`<b>δι·αυλωνίζω :<br>      1</b> couler <i>ou</i> pénétrer par des conduits, s’infiltrer, <i>en parl. de la mer,</i> ARSTT. <i>Meteor. 2, 8, 8 ; Respir. 16, 4</i>.<br><b>      2</b> être traversé par un courant de vent, ATH. <i>189c</i>.<p><b>Étym</b>. διά, αὐλών.`

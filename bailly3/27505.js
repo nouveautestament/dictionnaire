@@ -1,1 +1,0 @@
-lar[27505]=`<b>(ἡ)</b> = <i>lat</i>. domina, maîtresse, OPP. <i>C. 1, 4</i>.`

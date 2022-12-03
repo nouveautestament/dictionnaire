@@ -1,1 +1,0 @@
-lar[24665]=`<b>δια·θροέω</b> -οῶ, répandre le bruit, divulguer, publier, THC. <i>6, 46</i> ; δ. ἐν ταῖς πόλεσιν ὅτι, XÉN. <i>Hell. 1, 6, 4</i>, répandre le bruit dans les villes que, <i>etc. ; au pass</i>. DC. <i>53, 19 ; 61, 8</i>.`

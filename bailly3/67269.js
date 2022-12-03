@@ -1,1 +1,0 @@
-lar[67269]=`<b>μυριο·τευχής, ής, ές</b> <font color="purple">[ῡ]</font> avec 10 000 hommes armés <i>ou</i> une multitude de gens armés, EUR. <i>I.T. 141</i>.<p><b>Étym</b>. μυρίος, τεῦχος.`

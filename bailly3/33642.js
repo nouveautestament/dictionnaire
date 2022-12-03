@@ -1,1 +1,0 @@
-lar[33642]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> incendiaire, JOS. <i>Macc. 7, p. 507</i>.<p><b>Étym</b>. ἐμπυρίζω.`

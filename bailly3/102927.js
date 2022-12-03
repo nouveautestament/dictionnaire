@@ -1,1 +1,0 @@
-lar[102927]=`<i>adv</i>., d’une manière resserrée, faiblement, HÉRACLITE GRAMM. <i>All. Hom. 29</i>.<p><b>Étym</b>. ὑποστέλλω.`

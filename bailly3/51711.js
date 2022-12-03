@@ -1,1 +1,0 @@
-lar[51711]=`<b>ου (ὁ)</b> Karanos, <i>h</i>. PLUT. <i>Alex. 2, etc</i>.<p>➳ <i>Ion</i>. Κάρηνος, HDT. <i>7, 173</i>.<p><b>Étym</b>. <i>v</i>. κάρανος.`

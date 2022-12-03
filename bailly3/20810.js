@@ -1,1 +1,0 @@
-lar[20810]=`<b>βριμάομαι-ῶμαι</b> <font color="darkgreen">(<i>ao. opt. 2 sg</i>. βριμήσαιο)</font> <font color="purple">[ῑ]</font> gronder de colère, AR. <i>Eq. 855</i>.<p><b>Étym</b>. βρίμη.`

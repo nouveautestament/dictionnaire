@@ -1,1 +1,0 @@
-lar[92275]=`<b>στεγ·ήρης, ης, ες</b>, muni d’un toit, couvert, MOSCHION TR. (STOB. <i>Ecl. 242).</i><p><b>Étym</b>. στέγη, *ἄρω.`

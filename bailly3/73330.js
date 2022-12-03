@@ -1,1 +1,0 @@
-lar[73330]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> étable, LYC. <i>94</i> ; ANTEMAQ. (PHOT. <i>v°</i> ὄστριμα).`

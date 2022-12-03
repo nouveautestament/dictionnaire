@@ -1,1 +1,0 @@
-lar[72755]=`<b>ὀρθοστατέω-ῶ</b> <font color="purple">[ᾰ]</font> se tenir droit <i>ou</i> debout, HPC. <i>1017d</i>.<p><b>Étym</b>. ὀρθοστάτης.`

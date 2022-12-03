@@ -1,1 +1,0 @@
-lar[89005]=`<b>ης (ἡ)</b> Rhoxane :<br><b>      1</b> <i>femme d’Alexandre le Grand,</i> PLUT. <i>Pyrrh. 4, Alex. 47, etc.</i><br><b>      2</b> <i>autre,</i> Ps.-PLUT. <i>Fluv. 20, 1</i>.<br><b>      3</b> <i>sœur de Mithridate,</i> PLUT. <i>Luc. 18</i>.`

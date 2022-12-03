@@ -1,1 +1,0 @@
-lar[67064]=`<b>ας (ἡ)</b> Myia, <i>propr</i>. « la Mouche », <i>f</i>. LUC. <i>Musc. enc. 11</i>.<p><b>Étym</b>. <i>cf</i>. μυῖα.`

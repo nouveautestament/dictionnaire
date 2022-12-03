@@ -1,1 +1,0 @@
-lar[110469]=`<b>ου (ὁ) :<br>      1</b> couleur jaune <i>ou</i> pâle, pâleur, IL. <i>3, 35</i> ; ALCIPHR. <i>3, 55, 4</i>.<br><b>      2</b> ers, <i>graine légumineuse (Lathyrus cicera</i> L.) ARSTT. <i>H.A. 9, 40, 58</i> ; TH. <i>H.P. 8, 3, 1 ; C.P. 4, 2, 2</i> ; DL. <i>2, 139</i>.`

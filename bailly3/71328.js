@@ -1,1 +1,0 @@
-lar[71328]=`<b>ὅμ·ασπις</b>, <i>gén</i>. <b>ιδος (ὁ, ἡ)</b> compagnon d’armes (<i>propr</i>. de bouclier) A. PL. <i>233</i>.<p><b>Étym</b>. ὁμός, ἀσπίς.`

@@ -1,1 +1,0 @@
-lar[19746]=`<i>ou</i> <b>βίλλαιος, ου (ὁ) :<br>      1</b> <i>h</i>. NONN.<br><b>      2</b> <i>fl. sur la frontière de Bithynie et de Paphlagonie,</i> A.RH. ARR. <i>etc</i>.`

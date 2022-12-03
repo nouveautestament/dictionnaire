@@ -1,1 +1,0 @@
-lar[28211]=`<b>δυσ·απόβλητος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à écarter <i>ou</i> à rejeter, BAS. <i>4, 248 Migne</i>.<p><b>Étym</b>. δ. ἀποβάλλω.`

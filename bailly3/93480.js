@@ -1,1 +1,0 @@
-lar[93480]=`<b>συγ·κλώθω</b>, filer ensemble, <i>d’où</i> joindre, unir, <i>acc</i>. CHÆRÉM. (ATH. <i>608b</i>) ; <i>fig</i>. M. ANT. <i>10, 5 ; au pass</i>. PLOT. <i>145e</i>.`

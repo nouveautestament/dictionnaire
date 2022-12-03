@@ -1,1 +1,0 @@
-lar[24811]=`<font color="purple">[ᾱ]</font> <i>adv</i>., avec la diligence d’un serviteur, MÉN. (ATH. <i>172c</i>).`

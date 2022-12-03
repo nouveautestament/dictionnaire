@@ -1,1 +1,0 @@
-lar[14748]=`<b>ἀριστο·σαλπιγκτής, οῦ (ὁ)</b> excellent trompette, MÉN. (POLL. <i>4, 87</i> ; λῃστοσαλπιγκτής <i>ou mieux</i> λῃστοσαλπικτής <i>sel. L. Dind</i>.).`

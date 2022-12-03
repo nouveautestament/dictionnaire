@@ -1,1 +1,0 @@
-lar[10708]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans insulte, sans outrage, ANACR. <i>61, 5</i>.<p><b>Étym</b>. ἀνύβριστος.`

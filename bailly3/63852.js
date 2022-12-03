@@ -1,1 +1,0 @@
-lar[63852]=`<b>μελανέω-ῶ</b> (<i>seul. prés. et impf</i>.) <font color="purple">[ᾰ]</font> devenir noir, se noircir, ARAT. <i>836</i> ; A.RH. <i>4, 1574</i>.<p>➳ <i>Impf. épq. 3 sg</i>. μελάνει ; <i>part. prés. nom. fém</i>. μελανεῦσα, ANTH. <i>5, 121</i> ; ARAT. <i>817 ; acc. m</i>. μελανεῦντα, CALL. <i>Ep. 55, 1</i>.<p><b>Étym</b>. μέλας.`

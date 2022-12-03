@@ -1,1 +1,0 @@
-lar[56708]=`(<i>genre et nombre inconnus</i>) Koloundes, <i>lieu de l’Inde,</i> EL. <i>N.A. 16, 21</i>.`

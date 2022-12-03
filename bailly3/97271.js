@@ -1,1 +1,0 @@
-lar[97271]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Sôstratidès, <i>h</i>. THC. <i>3, 115</i>.<p>➳ <i>Dor</i>. Σωστρατίδας, XÉN. <i>Hell. 2, 3, 10</i>.<p><b>Étym</b>. <i>patr. de</i> Σώστρατος.`

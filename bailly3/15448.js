@@ -1,1 +1,0 @@
-lar[15448]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> assaisonnement, DS. <i>2, 59</i> ; PLUT. <i>M. 99c.</i><br><b>      2</b> mélange de métaux en fusion, PLUT. <i>M. 395c</i>.<p><b>Étym</b>. ἀρτύω.`

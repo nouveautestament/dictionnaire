@@ -1,1 +1,0 @@
-lar[84224]=`<b>προ·επανασείω</b> <font color="purple">[ᾰᾰ]</font> effrayer (<i>propr</i>. ébranler) en montrant d’avance, THC. <i>5, 17</i>.`

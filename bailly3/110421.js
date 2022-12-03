@@ -1,1 +1,0 @@
-lar[110421]=`<b>ους (ὁ)</b> <font color="purple">[ῐ]</font> Origène :<br><b>      1</b> <i>philosophe néoplatonicien</i>.<br><b>      2</b> <i>écrivain ecclésiastique</i>.<br><b>      3</b> <i>autres,</i> ANTH. <i>9, 187 ; 11, 15</i>.`

@@ -1,1 +1,0 @@
-lar[108051]=`<b>χειλο·ποτέω-ῶ</b>, boire du bout des lèvres, déguster, ANTH. <i>7, 223</i>.<p><b>Étym</b>. χεῖλος, πίνω.`

@@ -1,1 +1,0 @@
-lar[21222]=`<b>ακος (ὁ)</b> <font color="purple">[γᾰᾰκ]</font> sorte de mollusque, ARSTT. <i>H.A. 4, 4, 6</i>.<p><b>Étym</b>. γάλα.`

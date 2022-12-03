@@ -1,1 +1,0 @@
-lar[11852]=`<b>ή, όν</b>, détestable, détesté, odieux, ESCHL. <i>Ag. 638, Suppl. 790</i> ; PLAT. <i>Leg. 628b, Ep. 353e ;</i> LUC. <i>Pseud. 12</i>.<p>•<i> Sup</i>. -ότατος, ANTH. <i>8, 11, 4</i>.<p><b>Étym</b>. ἀπεύχομαι.`

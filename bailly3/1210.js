@@ -1,1 +1,0 @@
-lar[1210]=`<b>*ἀδεισιδαιμονία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[σῐ]</font> absence de superstition, HPC. <i>23, 37</i>.`

@@ -1,1 +1,0 @@
-lar[58828]=`<b>ου (ἡ)</b> Kynos (<i>auj</i>. Livanátes) <i>port d’Opunte,</i> IL. <i>2, 531</i>.`

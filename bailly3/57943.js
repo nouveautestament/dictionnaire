@@ -1,1 +1,0 @@
-lar[57943]=`<b>κρινό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> qui a la couleur d’un lis, CHRYS. <i>6, 135, etc</i>.<p><b>Étym</b>. κρίνον, χρόα.`

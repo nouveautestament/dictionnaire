@@ -1,1 +1,0 @@
-lar[99892]=`<i>gén</i>. <b>εως</b>, <i>acc</i>. <b>ιν (ἡ)</b> <font color="purple">[ᾰῐ]</font> le périnée, ARCHIL. <i>195</i> ; AR. <i>Th. 246</i> ; LUC. <i>Lex. 2</i>.`

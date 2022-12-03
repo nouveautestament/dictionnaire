@@ -1,1 +1,0 @@
-lar[90394]=`<b>ιδος</b>, <i>acc</i>. <b>ιν (ὁ)</b> <font color="purple">[ῐῐδ]</font> Sinis, <i>brigand fameux,</i> XÉN. <i>Mem. 2, 1, 14</i> ; PLUT. <i>Thes. 25, etc</i>.`

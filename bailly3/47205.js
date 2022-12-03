@@ -1,1 +1,0 @@
-lar[47205]=`<b>θηλυ·στολέω-ῶ</b>, porter une robe <i>ou</i> des vêtements de femme, STR. <i>466, 526</i>.<p><b>Étym</b>. θ. στολή.`

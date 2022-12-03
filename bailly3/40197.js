@@ -1,1 +1,0 @@
-lar[40197]=`<b>ἐργ·επιστάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> surveillant de travaux publics, ARTÉM. <i>4, 31</i>.<p><b>Étym</b>. ἔργον, ἐπιστάτης.`

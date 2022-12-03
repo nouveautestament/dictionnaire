@@ -1,1 +1,0 @@
-lar[43961]=`<b>εως (ἡ)</b> action d’attirer, ARSTT. <i>Inc. an. 8, 6</i>.<p><b>Étym</b>. ἐφέλκω.`

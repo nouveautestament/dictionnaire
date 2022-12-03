@@ -1,1 +1,0 @@
-lar[35168]=`<b>ατος (τὸ)</b> outrage, insulte, mauvais traitement, PLUT. <i>M. 350c</i>.<p><b>Étym</b>. ἐνυβρίζω.`

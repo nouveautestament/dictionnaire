@@ -1,1 +1,0 @@
-lar[55464]=`<b>ων (οἱ)</b> les Cimbres, <i>pple germanique,</i> PLUT. <i>Cam. 19, Mar. 11, etc. ; sg</i>. Κίμβρος, un Cimbre, PLUT. <i>Mar. 39</i>.`

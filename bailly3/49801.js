@@ -1,1 +1,0 @@
-lar[49801]=`<b>ας (ἡ)</b> = <i>lat</i>. Hispania, l’Espagne, PLUT. <i>Cato ma. 10, etc</i>.`

@@ -1,1 +1,0 @@
-lar[32340]=`<b>ου (τὸ) :<br>      1</b> production du sol, ARSTT. <i>Plant. 2 proœm.</i> ; SPT. <i>Agg. 1, 10</i>.<br><b>      2</b> impôt sur les productions du sol, impôt foncier, HDT. <i>4, 198</i> ; ARSTT. <i>Œc. 2, 1, 6</i>.<p><b>Étym</b>. ἔκφορος.`

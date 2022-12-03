@@ -1,1 +1,0 @@
-lar[22908]=`<b>(ὁ)</b> <font color="purple">[ᾰᾰ]</font> Dadakès, <i>Perse,</i> ESCHL. <i>Pers. 304</i>.`

@@ -1,1 +1,0 @@
-lar[14307]=`<b>ἀργυρ·αμοιβός, οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> changeur d’argent, changeur, banquier, PLAT. <i>Pol. 289e ;</i> THCR. <i>Idyl. 12, 37</i>.<p><b>Étym</b>. ἄργυρος, ἀμείβω.`

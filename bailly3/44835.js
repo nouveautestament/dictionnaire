@@ -1,1 +1,0 @@
-lar[44835]=`<b>ης, ες</b>, de nature animale <i>ou</i> sensuelle, PLUT. <i>M. 8a</i>.<p><b>Étym</b>. ζῷον, -ωδης.`

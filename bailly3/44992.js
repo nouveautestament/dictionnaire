@@ -1,1 +1,0 @@
-lar[44992]=`<b>ἡδυ·λόγος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> au doux langage, au langage caressant <i>ou</i> persuasif, EUR. <i>Hec. 134</i> ; CRAT. <i>(Bkk. 335, 18</i>) ; ANTH. <i>5, 137 ; 7, 159</i>.<br><b>      2</b> ὁ ἡδ. ATH. <i>165b</i>, un plaisant.<p>➳ <i>Dor</i>. ἁδυ- <font color="purple">[ᾱ]</font> PD. <i>O. 6, 162</i>.`

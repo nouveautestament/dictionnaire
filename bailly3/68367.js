@@ -1,1 +1,0 @@
-lar[68367]=`<b>νευρίτης λίθος (ὁ)</b> <font color="purple">[ῑ]</font> sorte de pierre rayée, ORPH. <i>Lith. 742</i>.<p><b>Étym</b>. νευρά.`

@@ -1,1 +1,0 @@
-lar[4969]=`<b>ου (ὁ)</b> Alpistos, <i>h</i>. ESCHL. <i>Pers. 982</i>.`

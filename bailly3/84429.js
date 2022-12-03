@@ -1,1 +1,0 @@
-lar[84429]=`<b>προ·καίω</b> <font color="darkgreen">(<i>f</i>. -καύσω, <i>ao</i>. προέκηα, <i>etc</i>.)</font> mettre le feu auparavant, TH. <i>H.P. 2, 4 fin ; au pass</i>. XÉN. <i>An. 7, 2, 18</i>.`

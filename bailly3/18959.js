@@ -1,1 +1,0 @@
-lar[18959]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> semblable à un gland, TH. <i>C.P. 4, 3, 4</i>.<p><b>Étym</b>. βάλανος, -ωδης.`

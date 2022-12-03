@@ -1,1 +1,0 @@
-lar[49600]=`<b>α, ον</b>, du fleuve Ismènos, EUR. <i>Suppl. 655</i> ; NONN. <i>D. 26, 71, etc. ; subst</i>. ὁ Ἰσμήνιος, le dieu du fleuve Ismènos, <i>càd</i>. Apollon, HDT. <i>1, 52, etc.</i> ; τὸ Ἰ. PD. <i>P. 11, 10</i> ; ARSTT. <i>Mir. 133,</i> temple d’Apollon.<p><b>Étym</b>. Ἰσμηνός.`

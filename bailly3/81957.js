@@ -1,1 +1,0 @@
-lar[81957]=`<b>πολυ·καισαρίη, ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> gouvernement de plusieurs Césars <i>ou</i> empereurs à la fois, PLUT. <i>Ant. 81</i>.<p><b>Étym</b>. π. Καῖσαρ, <i>formé p. anal. avec</i> πολυκοιρανίη.`

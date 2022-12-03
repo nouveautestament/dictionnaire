@@ -1,1 +1,0 @@
-lar[12413]=`<b>ἀπο·θησαυρίζω</b>, mettre en réserve, DS. <i>3, 30 ; 5, 41 ; particul</i>. mettre en réserve de l’argent, des trésors, LUC. <i>Alex. 23</i>.`

@@ -1,1 +1,0 @@
-lar[45984]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> propre à calmer l’âme, A. QUINT. <i>p. 43</i>.`

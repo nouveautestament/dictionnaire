@@ -1,1 +1,0 @@
-lar[81787]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> extrême vieillesse, MÉLAMP. <i>Palpit. 470</i>.<p><b>Étym</b>. πολύγηρως.`

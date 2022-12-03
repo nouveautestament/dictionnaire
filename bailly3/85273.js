@@ -1,1 +1,0 @@
-lar[85273]=`<b>προσ·αποτρίβω</b> <font color="purple">[ῑ]</font> frotter contre, <i>rég. ind. au dat</i>. EL. <i>N.A. 9, 63</i>.`

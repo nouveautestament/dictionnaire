@@ -1,1 +1,0 @@
-lar[7242]=`<b>εως (ἡ) :<br>      1</b> mouvement pour élever, ATHÉNÉE MÉC. <i>26, 2</i>.<br><b>      2</b> misère, peines, tourments, SPT. <i>Ps. 72, 4</i>.<p><b>Étym</b>. ἀνανεύω.`

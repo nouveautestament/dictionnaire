@@ -1,1 +1,0 @@
-lar[62837]=`<b>έως</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. habitant de Mantinée, TH. <i>H.P. 9, 16, 8</i> ; PLUT. <i>Num. 13, etc.</i> ; οἱ Μαντινέες, HDT. <i>4, 161, etc.</i> ; οἱ Μαντινεῖς, XÉN. <i>An. 6, 1, 11, etc., anc. att</i>. Μαντινῆς, THC. <i>4, 134, etc</i>. les Mantinéens.<p><b>Étym</b>. Μαντίνεια.`

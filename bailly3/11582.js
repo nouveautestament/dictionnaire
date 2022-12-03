@@ -1,1 +1,0 @@
-lar[11582]=`<b>ἀπειρό·δροσος, ος, ον</b>, qui ne connaît pas la rosée, EUR. <i>El. 735</i>.<p><b>Étym</b>. ἄ. δρόσος.`

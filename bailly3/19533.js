@@ -1,1 +1,0 @@
-lar[19533]=`<b>ων (τὰ)</b> <font color="purple">[ῑ]</font> fête de Bendis, PLAT. <i>Rsp. 354b</i>.<p>➳ <i>Gén. plur. att</i>. βενδιδέων (<i>p</i>. -είων), CIA. <i>2, 741 (334/330 av. J.-C.)</i>.<p><b>Étym</b>. βενδῖς.`

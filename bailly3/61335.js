@@ -1,1 +1,0 @@
-lar[61335]=`<b>λιπο·κτέανος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui est sans biens, pauvre, indigent, P. SIL. <i>Ecphr. ag. Soph. 993</i>.<p><b>Étym</b>. λείπω, κτέανον.`

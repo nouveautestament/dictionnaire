@@ -1,1 +1,0 @@
-lar[73588]=`<i>adv. ion. c</i>. ὅλως, PEMPEL. (STOB. <i>Fl. 79, 52).</i><p><b>Étym</b>. οὖλος¹.`

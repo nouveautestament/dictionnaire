@@ -1,1 +1,0 @@
-lar[88203]=`<b>υος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Rhadamanthys (Rhadamanthe) <i>juge des Enfers,</i> IL. <i>14, 322</i> ; OD. <i>4, 564 ; 7, 323</i> ; PD. <i>P. 2, 133</i> ; PLAT. <i>Leg. 624b, 948b et c, Min. 318d, etc</i>.`

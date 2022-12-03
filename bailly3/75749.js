@@ -1,1 +1,0 @@
-lar[75749]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> en se détournant d’un autre côté, dans une autre direction, HH. <i>Ven. 183</i> ; A.RH. <i>1, 757</i>.<br><b>      2</b> <i>fig</i>. en s’écartant de la vérité, <i>propr</i>. du droit chemin, OD. <i>4, 348 ; 17, 139</i>.<p><b>Étym</b>. παρακλίνω, -δον.`

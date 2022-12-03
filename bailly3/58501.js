@@ -1,1 +1,0 @@
-lar[58501]=`<b>ίδος (ἡ)</b> Kythèris, <i>litt</i>. la Cythérienne, <i>f</i>. PLUT. <i>Ant. 9</i>.<p><b>Étym</b>. Κύθηρα.`

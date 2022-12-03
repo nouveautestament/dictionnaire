@@ -1,1 +1,0 @@
-lar[78781]=`<b>περί·κλινον, ου (τὸ)</b> <font color="purple">[ῑν]</font> lit autour d’une table, PHIL. <i>2, 478</i>.<p><b>Étym</b>. π. κλίνη.`

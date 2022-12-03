@@ -1,1 +1,0 @@
-lar[1884]=`<b>ἄ·ζως, ως, ων</b>, <i>c</i>. ἄζωος, PROCL. <i>Plat. Parm. 543 Stallb</i>.`

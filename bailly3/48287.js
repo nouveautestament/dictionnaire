@@ -1,1 +1,0 @@
-lar[48287]=`ressembler au jaspe, DIOSC. <i>5, 154</i>.<p><b>Étym</b>. ἴασπις.`

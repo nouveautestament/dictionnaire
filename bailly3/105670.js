@@ -1,1 +1,0 @@
-lar[105670]=`<b>Φίλ·ιππος, ου (ὁ)</b> Philippe :<br><b>      1</b> <i>roi de Macédoine,</i> DÉM. <i>Or. 1, 12, etc. Baiter-Sauppe</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>8, 139</i> ; THC. <i>1, 57, 59 ; 2, 95</i> ; XÉN. <i>Conv. 1, 11</i> ; PLAT. <i>Conv. 172b, etc</i>.<p><b>Étym</b>. <i>cf</i>. φίλιππος.`

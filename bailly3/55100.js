@@ -1,1 +1,0 @@
-lar[55100]=`<b>κεφαλό·θλαστον, ου (τὸ)</b> <font color="purple">[φᾰ]</font> contusion à la tête, TH. <i>H.P. 9, 20, 4</i>.<p><b>Étym</b>. κεφαλή, θλάω.`

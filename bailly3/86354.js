@@ -1,1 +1,0 @@
-lar[86354]=`<b>προσπολέω-ῶ</b>, être préposé aux soins de, servir, <i>dat</i>. EUR. <i>Tr. 264, etc</i>.<p><b>Étym</b>. πρόσπολος.`

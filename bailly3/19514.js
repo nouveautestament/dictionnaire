@@ -1,1 +1,0 @@
-lar[19514]=`<b>ή, όν</b>, qui concerne l’extraction des traits, P. ÉG. <i>6, 88</i>.<p><b>Étym</b>. βελουλκός.`

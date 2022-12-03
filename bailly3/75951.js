@@ -1,1 +1,0 @@
-lar[75951]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> propre à consoler, consolant, ARSTT. <i>Nic. 9, 11, 3</i> ; PLUT. <i>M. 101f ;</i> τὸ π. DH. <i>Rhet. 6, 4,</i> consolation.<p><b>Étym</b>. παραμυθέομαι.`

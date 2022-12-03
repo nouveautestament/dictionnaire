@@ -1,1 +1,0 @@
-lar[22176]=`<b>γλυκυ·πάρθενος, ου (ἡ)</b> <font color="purple">[ῠῠ]</font> douce jeune fille, <i>ép. des Heures,</i> ANTH. <i>9, 16</i>.<p><b>Étym</b>. γλ. παρθένος.`

@@ -1,1 +1,0 @@
-lar[9111]=`<b>ἀνισο·γώνιος, ος, ον</b> <font color="purple">[ᾰῐσ]</font> aux angles inégaux, JAMBL. <i>Nicom. ar. 131</i>.<p><b>Étym</b>. ἄνισος, γωνία.`

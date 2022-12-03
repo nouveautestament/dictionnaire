@@ -1,1 +1,0 @@
-lar[2314]=`<b>Αἰγὸς ποταμοί (οἱ)</b> Ægos Potamoi, <i>d’ord. au sg</i>. Ægos Potamos, <i>litt</i>. « fleuves de la chèvre », <i>fl. et v. de la Chersonèse de Thrace,</i> HDT. <i>9, 119</i> ; XÉN. <i>Hell. 2, 1, 21, etc.</i> ; Αἰγὸς ποταμός, SCYL. <i>67</i> ; DL. <i>2, 3, 10, m. sign</i>.`

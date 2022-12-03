@@ -1,1 +1,0 @@
-lar[50490]=`<b>καθυπερτερέω-ῶ</b> <font color="purple">[ᾰ]</font> être plus élevé que, <i>gén</i>. MAN. <i>6, 687,</i> que qqe ch.<p><b>Étym</b>. καθυπέρτερος.`

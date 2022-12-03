@@ -1,1 +1,0 @@
-lar[100359]=`<b>τριπλασι·επιδιμερής, ής, ές</b> <font color="purple">[ᾰπῐῐ]</font> trois fois deux tiers aussi grand, NICOM. <i>Arithm. 1, 23</i>.<p><b>Étym</b>. τριπλάσιος, ἐπιδιμερής.`

@@ -1,1 +1,0 @@
-lar[90843]=`<b>σκηνο·φύλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῠᾰκ]</font> gardien des tentes (d’un camp) XÉN. <i>Hell. 3, 2, 5</i> ; DH. <i>10, 44</i> ; PLUT. <i>Pomp. 72</i>.<p><b>Étym</b>. σκηνή, φ.`

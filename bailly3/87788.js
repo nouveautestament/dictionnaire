@@ -1,1 +1,0 @@
-lar[87788]=`<b>πυργο·ποιέω-ῶ</b>, construire une tour, ORIG. <i>3, 356d Migne</i>.`

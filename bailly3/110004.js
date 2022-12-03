@@ -1,1 +1,0 @@
-lar[110004]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> action de rafraîchir, refroidissement, EPIC. (DL. <i>10, 107).</i><p><b>Étym</b>. ψυχραίνω.`

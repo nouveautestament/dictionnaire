@@ -1,1 +1,0 @@
-lar[69144]=`<b>νυκτι·παται·πλάγιος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> qui s’égare en marchant, la nuit, à tâtons, ANTH. <i>App. 288</i>.<p><b>Étym</b>. ν. πατέω, πλάγιος.`

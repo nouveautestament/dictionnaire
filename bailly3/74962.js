@@ -1,1 +1,0 @@
-lar[74962]=`<b>έως (ὁ) :<br>      1</b> celui qui contient tout, THEOL. <i>6</i>.<br><b>      2</b> hôtelier, POL. <i>2, 15, 6</i> ; NT. <i>Luc. 10, 35</i>.<p><b>Étym</b>. πᾶν, δέχομαι.`

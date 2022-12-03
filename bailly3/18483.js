@@ -1,1 +1,0 @@
-lar[18483]=`<b>εσσα, εν</b> <font color="purple">[ᾱῠ]</font><br><b>      1</b> sombre, obscur, A.RH. <i>4, 927</i> ; ARAT. <i>908</i> ; OPP. <i>H. 3, 163</i> ; NONN. <i>D. 4, 195, etc. ; part</i>. noirci par le feu, noir, sombre, EPIGR. (HDT. <i>5, 77</i>).<br><b>      2</b> <i>fig</i>. caché, secret, MUS. <i>3</i>.<p><b>Étym</b>. ἀχλύς.`

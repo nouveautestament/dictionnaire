@@ -1,1 +1,0 @@
-lar[82613]=`<b>πολύ·ωρος, ος, ον</b>, vieux de plusieurs années, <i>en parl. de vin,</i> DIUS (STOB. <i>Fl. 65, 17).</i><p><b>Étym</b>. π. ὥρα.`

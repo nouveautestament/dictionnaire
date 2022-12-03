@@ -1,1 +1,0 @@
-lar[31606]=`<b>ἐκ·λιμώττω</b> <font color="purple">[ῑ]</font> être mourant de faim, AQU. <i>Deut. 28, 65</i>.`

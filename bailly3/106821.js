@@ -1,1 +1,0 @@
-lar[106821]=`<b>ων (οἱ)</b> Phréarrhes, <i>dème att. de la tribu Léontide,</i> PLUT. <i>Them. 1, etc</i>.`

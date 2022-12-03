@@ -1,1 +1,0 @@
-lar[61021]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> pierres pour bâtir, matériaux de construction, POL. <i>4, 52, 7</i> ; STR. <i>437</i> ; DS. <i>1, 46</i>.<br><b>      2</b> pierre précieuse, STR. <i>717</i> ; M. RUBR. <i>56, 61 (var</i>. λιθία).<p><b>Étym</b>. λίθος.`

@@ -1,1 +1,0 @@
-lar[81953]=`<b>πολυ·ΐχθυος, ος, ον</b>, abondant en poissons, HH. <i>Ap. 417</i>.<p><b>Étym</b>. π. ἰχθύς.`

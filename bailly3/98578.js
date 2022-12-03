@@ -1,1 +1,0 @@
-lar[98578]=`<font color="purple">[ᾰῐ]</font> <i>c</i>. τετράκις, PD. <i>N. 7, 153</i> ; CALL. <i>Epigr. 55, 2</i> ; MÉLÉAGR. <i>30, 4</i> ; (ANTH. <i>12, 52, 4</i>).`

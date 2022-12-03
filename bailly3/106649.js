@@ -1,1 +1,0 @@
-lar[106649]=`<i>ou</i> <b>φόξινος, ου (ὁ)</b> <i>ou</i> <b>φοξινός, οῦ (ὁ)</b> véron, <i>poisson de rivière,</i> ARSTT. <i>H.A. 6, 13, 3</i>.`

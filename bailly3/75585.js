@@ -1,1 +1,0 @@
-lar[75585]=`<b>παρα·θεμιστεύω</b>, léser par une violation de la loi, violer, <i>acc</i>. HERMÈS (STOB. <i>Ecl. phys. p. 984</i>).`

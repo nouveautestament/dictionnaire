@@ -1,1 +1,0 @@
-lar[63137]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> vain <i>ou</i> sot langage, PLUT. <i>M. 6f ;</i> PORPH. <i>Abst. 4, 16</i>.<p><b>Étym</b>. ματαιολόγος.`

@@ -1,1 +1,0 @@
-lar[18369]=`<b>ἀ·χαλέπως</b>, <i>adv</i>., sans difficulté, MATH. <i>92</i>.`

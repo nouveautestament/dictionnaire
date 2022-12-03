@@ -1,1 +1,0 @@
-lar[68183]=`<b>νεό·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui résonne nouvellement, NAZ. <i>4, 13 Migne</i>.<p><b>Étym</b>. ν. κτυπέω.`

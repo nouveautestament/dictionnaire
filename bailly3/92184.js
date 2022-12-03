@@ -1,1 +1,0 @@
-lar[92184]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Statianus, <i>n. d’h. rom</i>. PLUT. <i>Ant. 38</i>.`

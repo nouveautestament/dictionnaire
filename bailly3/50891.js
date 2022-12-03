@@ -1,1 +1,0 @@
-lar[50891]=`<b>κακο·τυχής, ής, ές</b> <font color="purple">[ᾰῠ]</font> malheureux, EUR. <i>Med. 1274, Hipp. 669</i>.<p>•<i> Sup</i>. -έστατος, HPC. <i>679</i>.<p><b>Étym</b>. κ. τύχη.`

@@ -1,1 +1,0 @@
-lar[42861]=`<b>εὐ·όμιλος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> d’un commerce agréable, affable, M. ANT. <i>1, 16</i>.<br><b>      2</b> où se réunit une compagnie agréable, HLD. <i>3, 10</i>.<p><b>Étym</b>. εὖ, ὁμιλέω.`

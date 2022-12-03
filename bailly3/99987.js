@@ -1,1 +1,0 @@
-lar[99987]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> propre à rendre le caractère âpre, à exaspérer, ARSTT. <i>Probl. 3, 13 ; avec le gén</i>. DIOSC. <i>3, 79</i>.<p><b>Étym</b>. τραχύνω.`

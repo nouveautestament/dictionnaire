@@ -1,1 +1,0 @@
-lar[85792]=`<b>προσεταιριστὸς ὁπλίτης (ὁ)</b> THC. <i>8, 100, ou subst</i>. ὁ προσεταιριστός, DC. <i>42, 51,</i> hoplite <i>ou</i> soldat volontairement engagé comme auxiliaire.<p><b>Étym</b>. <i>vb. de</i> προσεταιρίζομαι.`

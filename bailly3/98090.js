@@ -1,1 +1,0 @@
-lar[98090]=`<b>τεκο·κτόνος, ος, ον</b>, qui tue ses enfants, ORPH. <i>Lith. 10, 9</i>.<p><b>Étym</b>. τέκος, κτείνω.`

@@ -1,1 +1,0 @@
-lar[87780]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. habitant des tours, <i>ép. du moineau,</i> GAL. <i>6, 181</i>.<p><b>Étym</b>. πύργος.`

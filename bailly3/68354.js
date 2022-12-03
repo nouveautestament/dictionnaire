@@ -1,1 +1,0 @@
-lar[68354]=`<b>ου (τὸ)</b> huile d’amandes amères, HPC. 265.44 et 49, 266.54, <i>etc. ; cf</i>. μετώπιον.`

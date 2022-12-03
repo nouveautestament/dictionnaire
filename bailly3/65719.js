@@ -1,1 +1,0 @@
-lar[65719]=`<b>μικρο·μερής</b>, <i>att</i>. <b>σμικρο·μερής, ής, ές</b> <font color="purple">[ῑ]</font> formé de petites parties, ARSTT. <i>Cæl. 3, 5</i>.<p>•<i> Cp</i>. -έστερος, PLAT. <i>Tim. 60e ; sup</i>. -έστατος, PLAT. <i>Tim. 78a</i>.<p><b>Étym</b>. μ. μέρος.`

@@ -1,1 +1,0 @@
-lar[19434]=`(<i>seul. prés</i>.) lâcher un vent (de frayeur), <i>d’où</i> avoir une peur terrible de, <i>acc</i>. AR. <i>Eq. 224 ; Lys. 354</i>.<p><b>Étym</b>. <i>cf</i>. βδέω.`

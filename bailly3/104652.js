@@ -1,1 +1,0 @@
-lar[104652]=`<b>ου (ὁ)</b> Phædônidès, <i>autre n. de</i> Φαιδώνδης PLAT. <i>Phæd. 59c</i>.`

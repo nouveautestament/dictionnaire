@@ -1,1 +1,0 @@
-lar[44016]=`<b>ου (τὸ)</b> lieu de réunion <i>ou</i> d’exercice pour les jeunes gens, STR. <i>246 ; d’où</i> sorte de construction, VITR. <i>5, 11, 17</i>.<p><b>Étym</b>. ἔφηβος.`

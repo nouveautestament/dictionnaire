@@ -1,1 +1,0 @@
-lar[90764]=`<i>vb. de</i> σκεπάζω, GEOP. <i>9, 11, 3 ; au plur</i>. σκεπαστέα, MOSCHION <i>Mul. pass. 20, p. 60</i>.`

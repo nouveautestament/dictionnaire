@@ -1,1 +1,0 @@
-lar[18802]=`<b>βαθύ·ρρωχμος, ος, ον</b> <font color="purple">[ᾰ]</font> aux crevasses profondes, aux précipices profonds, Q. SM. <i>1, 687</i>.<p><b>Étym</b>. β. ῥωχμή.`

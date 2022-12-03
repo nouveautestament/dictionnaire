@@ -1,1 +1,0 @@
-lar[13041]=`<b>ἀπο·πελεκάω-ῶ</b>, tailler comme à coups de hache, AR. <i>Av. 1156</i>.`

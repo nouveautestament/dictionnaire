@@ -1,1 +1,0 @@
-lar[75824]=`<b>εως (ἡ)</b> action de se baisser en regardant de côté, MÉN. <i>4, 141 Meineke</i>.<p><b>Étym</b>. παρακύπτω.`

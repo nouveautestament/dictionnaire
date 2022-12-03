@@ -1,1 +1,0 @@
-lar[57460]=`<b>κουφό·πτερος, ος, ον</b>, aux ailes légères, <i>d’où</i> au vol léger, ORPH. <i>H. 80, 6</i>.<p><b>Étym</b>. κοῦφος, πτερόν.`

@@ -1,1 +1,0 @@
-lar[45911]=`<b>ἡρῳ·ελεγεῖον, ου (τὸ)</b> <i>distique consistant en un hexamètre et un pentamètre élégiaque,</i> DRAC. <i>161, 20</i>.<p><b>Étym</b>. ἡρῷος, ἐλεγεῖον.`

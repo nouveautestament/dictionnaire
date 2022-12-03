@@ -1,1 +1,0 @@
-lar[54297]=`<b>ης, ες</b>, qui a une grosse tige, TH. <i>C.P. 3, 6, 9</i>.<p><b>Étym</b>. καυλός, -ωδης.`

@@ -1,1 +1,0 @@
-lar[103321]=`<b>ή, όν</b>, qui sert aux fumigations, A. TR. <i>5, 262</i>.<p><b>Étym</b>. ὑποκαπνίζω.`

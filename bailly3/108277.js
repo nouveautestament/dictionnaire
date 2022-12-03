@@ -1,1 +1,0 @@
-lar[108277]=`<b>ή, όν</b>, qui concerne les pauvres : τὸ χερνητικόν, ARSTT. <i>Pol. 4, 4, 21,</i> la classe pauvre, <i>particul</i>. la classe ouvrière.<p><b>Étym</b>. χερνής.`

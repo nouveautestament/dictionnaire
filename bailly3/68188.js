@@ -1,1 +1,0 @@
-lar[68188]=`<b>νεό·ληπτος, ος, ον</b>, qui vient d’être pris, APP. <i>Civ. 2, 48</i>.<p><b>Étym</b>. ν. λαμβάνω.`

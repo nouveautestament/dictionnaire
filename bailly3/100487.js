@@ -1,1 +1,0 @@
-lar[100487]=`<b>α</b>, <i>ion</i>. <b>η, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. τρισσός, ANTH. <i>6, 12</i>.<p><b>Étym</b>. τρισσός, <i>pour la formation cf</i>. μεσσάτιος.`

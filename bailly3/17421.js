@@ -1,1 +1,0 @@
-lar[17421]=`<b>ας (ἡ)</b> connaissance absolue, RHÉT. <i>3, 476 W</i>.<p><b>Étym</b>. αὐτόγνωτος.`

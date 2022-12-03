@@ -1,1 +1,0 @@
-lar[20634]=`<b>βραδύ·πορος, ος, ον</b> <font color="purple">[ᾰῠ]</font> que l’on traverse lentement <i>ou</i> difficilement (mer) PLUT. <i>M. 941b</i>.<p><b>Étym</b>. βρ. πόρος.`

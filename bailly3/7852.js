@@ -1,1 +1,0 @@
-lar[7852]=`<i>adv. c</i>. ἀναφανδά IL. <i>16, 178</i> ; HDT. <i>2, 35 et 46</i> ; PLAT. <i>Prot. 348e</i>.<p>➳ Forme <i>contr</i>. ἀμφανδόν, PD. <i>P. 9, 42 ; cf</i>. ἀμφαδόν.`

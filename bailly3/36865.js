@@ -1,1 +1,0 @@
-lar[36865]=`<b>ἐπ·αυχέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐπηύχησα)</font> exulter de, <i>dat</i>. SOPH. <i>Ant. 483</i> ; AR. <i>Av. 628 ; avec l’inf</i>. avoir la confiance que, SOPH. <i>El. 65</i>.`

@@ -1,1 +1,0 @@
-lar[34676]=`<b>ἐννα·δέκατος, η, ον</b> <font color="purple">[ᾰᾰ]</font> dix-neuvième, HERM. <i>Iatr. 439, 35</i>.`

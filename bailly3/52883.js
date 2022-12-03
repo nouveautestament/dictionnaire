@@ -1,1 +1,0 @@
-lar[52883]=`<b>κατ·ανάγκη, ης (ἡ)</b> <font color="purple">[ᾰν]</font><br><b>      1</b> moyen de contrainte, HLD. <i>6, 14 (conj.) ; plur</i>. κατανάγκαι ἐρωτικαί, SYN. <i>257,</i> moyens de contraindre à aimer, philtres amoureux.<br><b>      2</b> catanance, <i>plante employée pour les philtres,</i> DIOSC. <i>4, 134</i>.<p><b>Étym</b>. κ. ἀνάγκη.`

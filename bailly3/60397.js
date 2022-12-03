@@ -1,1 +1,0 @@
-lar[60397]=`<b>λεπτό·βλαστος, ος, ον</b>, dont les rejetons <i>ou</i> les rameaux sont minces, frêles, TH. <i>C.P. 3, 7, 11</i>.<p><b>Étym</b>. λεπτός, βλαστάνω.`

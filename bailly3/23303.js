@@ -1,1 +1,0 @@
-lar[23303]=`<b>ῶν (οἱ)</b> les Dassarètes, <i>pple illyrien,</i> POL. <i>8, 38</i>.`

@@ -1,1 +1,0 @@
-lar[103660]=`<b>ὑπο·πέμπω :<br>      1</b> envoyer sous, <i>rég. ind. à l’acc</i>. EUR. <i>Hec. 208</i>.<br><b>      2</b> envoyer secrètement, aposter. THC. <i>4, 46</i> ; XÉN. <i>Cyr. 2, 4, 21 ; au pass</i>. LYS. <i>93, 8 ; particul</i>. envoyer comme espion, avec une fausse qualité, XÉN. <i>An. 2, 4, 22</i>.`

@@ -1,1 +1,0 @@
-lar[42917]=`<b>εὐ·πάλαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>act</i>. à la main habile, industrieux, ORPH. <i>H. 57, 4</i> ; ESCHL. <i>Ag. 1531</i> ; ANTH. <i>App. 55</i>.<br><b>      2</b> <i>pass</i>. fait par une main habile, CRAT. (AR. <i>Eq. 530</i>) ; NONN. <i>D. 17, 146,</i> PHIL. BYZ. <i>Bel. 60d</i>.<p><b>Étym</b>. εὖ, παλάμη.`

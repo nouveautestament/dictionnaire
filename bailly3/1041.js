@@ -1,1 +1,0 @@
-lar[1041]=`<b>ἀγχι·βαθής, ής, ές</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> profond près du rivage, OD. <i>5, 413</i> ; PLAT. <i>Criti. 111a ;</i> ARSTT. <i>Probl. 23, 31</i>.<br><b>      2</b> escarpé, ARSTT. <i>H.A. 5, 16, 8</i> ; STR. <i>222, 792</i>.<p><b>Étym</b>. ἄ. βάθος.`

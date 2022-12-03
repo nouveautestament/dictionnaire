@@ -1,1 +1,0 @@
-lar[104961]=`<b>οῦ (ὁ)</b> <font color="purple">[γᾰ]</font> fabricant de coutelas, armurier, ESCHL. <i>Ch. 647</i>.<p><b>Étym</b>. φάσγανον, ἔργον.`

@@ -1,1 +1,0 @@
-lar[107942]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kharistios, <i>h</i>. ANTH. <i>14, 2</i>.<p><b>Étym</b>. χαρίζομαι.`

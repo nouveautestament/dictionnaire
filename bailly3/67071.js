@@ -1,1 +1,0 @@
-lar[67071]=`<b>μυιο·σόβη, ης (ἡ)</b> chasse-mouches, moustiquaire, MÉN. (ATH. <i>484d</i>) ; EL. <i>N.A. 15, 14 ; fig. en parl. d’une longue barbe,</i> ANTH. <i>11, 156</i>.<p><b>Étym</b>. μυῖα, σοβέω.`

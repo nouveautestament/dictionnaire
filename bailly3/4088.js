@@ -1,1 +1,0 @@
-lar[4088]=`<b>ἀλαο·σκοπίη, ης (ἡ)</b> <font color="purple">[ᾰλ]</font> surveillance aveugle, <i>càd</i>. vaine, IL. <i>10, 515 ; 13, 10</i> ; OD. <i>8, 285</i> ; HÉS. <i>Th. 466</i>.<p><b>Étym</b>. ἀλαός, σκοπιά.`

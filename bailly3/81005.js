@@ -1,1 +1,0 @@
-lar[81005]=`<b>εως (ἡ)</b> action de frapper, coup, PLUT. <i>M. 902f, etc</i>.<p>➳ <i>Dor</i>. πλᾶξις, T. LOCR. <i>101a</i>.<p><b>Étym</b>. πλήσσω.`

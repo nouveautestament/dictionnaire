@@ -1,1 +1,0 @@
-lar[107706]=`<b>χαλκό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> fait (<i>litt</i>. frappé) par une arme d’airain, <i>en parl. d’une blessure,</i> IL. <i>19, 25</i>.<p><b>Étym</b>. χ. τύπτω.`

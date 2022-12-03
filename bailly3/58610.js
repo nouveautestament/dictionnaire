@@ -1,1 +1,0 @@
-lar[58610]=`<font color="purple">[ῠ]</font> <i>adv</i>., en forme de cylindre, PLUT. <i>M. 682d</i>.`

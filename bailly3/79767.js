@@ -1,1 +1,0 @@
-lar[79767]=`<b>ας (ἡ)</b> arbre à fruit égyptien, <i>dont l’espèce paraît perdue et dont le fruit était produit par la graine même, qqf. confondu à tort avec le pêcher,</i> HPC. <i>633, 30</i> ; TH. <i>H.P. 4, 2, 5</i> ; STR. <i>822, 823</i> ; PLUT. <i>M. 378c, etc</i>.`

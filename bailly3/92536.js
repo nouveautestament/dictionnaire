@@ -1,1 +1,0 @@
-lar[92536]=`<b>στηλο·γραφέω-ῶ</b> <font color="purple">[ᾰ]</font> inscrire sur une colonne, <i>d’où</i> :<br><b>      1</b> peindre, dessiner, ANTH. <i>1, 106</i>.<br><b>      2</b> publier, PHIL. <i>1, 477</i> ; EUM. <i>p. 442</i>.<p><b>Étym</b>. στήλη, -γραφος <i>de</i> γράφω.`

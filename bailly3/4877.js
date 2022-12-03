@@ -1,1 +1,0 @@
-lar[4877]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> d’apparence saline, HPC. <i>165f, 184f, 979e, etc.</i> ; TH. <i>C.P. 3, 17, 2 ; en parl. de la Mer morte,</i> JOS. <i>B.J. 4, 8, 2</i>.<p><b>Étym</b>. ἁ. -ωδης.`

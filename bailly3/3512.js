@@ -1,1 +1,0 @@
-lar[3512]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> d’accord avec : ἀ. τοῖς νόμοις, DÉM. <i>1100, 14,</i> conformément aux lois.<br><b>      2</b> d’une manière suivie, avec consistance, ARSTD. <i>t. 2, 142</i>.<br><b>      3</b> par suite, ANON. BYZ. <i>84, 27, 3</i>.`

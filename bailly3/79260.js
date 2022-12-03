@@ -1,1 +1,0 @@
-lar[79260]=`<b>περι·σκελής, ής, ές</b>, qui recouvre les jambes, SPT. <i>Ex. 28, 38, etc.</i> ; τὸ περισκελές, SPT. <i>Lev. 16, 4,</i> sorte de caleçon de femme ; τὰ περισκελῆ, PHIL. <i>2, 157, m. sign</i>.<p><b>Étym</b>. π. σκέλος.`

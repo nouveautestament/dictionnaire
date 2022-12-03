@@ -1,1 +1,0 @@
-lar[46693]=`<b>ή, όν</b>, qui concerne l’inspiration divine ; ἡ θεοληπτική (<i>s.-e</i>. τέχνη) SEXT. <i>M. 9, 132,</i> aptitude à être inspiré, l’inspiration.<p><b>Étym</b>. θεόληπτος.`

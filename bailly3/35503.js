@@ -1,1 +1,0 @@
-lar[35503]=`<b>ἐξ·ανιστάνω</b> (<i>seul. prés</i>.) causer un dérangement d’esprit, DIOSC. <i>4, 74</i>.`

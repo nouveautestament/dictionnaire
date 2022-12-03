@@ -1,1 +1,0 @@
-lar[40701]=`<b>ῆρος (ὁ) :<br>      1</b> reptile, OPP. <i>C. 3, 110</i>.<br><b>      2</b> <i>adj</i>. qui rampe, rampant, OPP. <i>C. 3, 411</i> ; ORPH. <i>Lith. 49</i>.<p><b>Étym</b>. ἑρπύζω.`

@@ -1,1 +1,0 @@
-lar[110000]=`<b>ψυχόω-ῶ</b> <font color="purple">[ῡ]</font> rafraîchir, refroidir, <i>au pass</i>. se rafraîchir, se refroidir, HPC. <i>675, 49</i>.<p><b>Étym</b>. ψῦχος.`

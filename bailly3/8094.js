@@ -1,1 +1,0 @@
-lar[8094]=`<b>Ἀνδρο·μέδα</b>, <i>ion. et épq</i>. <b>Ἀνδρο·μέδη, ης (ἡ)</b> Andromède, <i>femme de Persée,</i> HDT. <i>7, 61, 150</i>.<p>➳ <i>Gén</i>. -ας, JOS. <i>B.J. 3, 9, 3</i> ; ATH. <i>21c, etc. Ion</i>. Ἀνδρομέδη, ης, HDT. <i>ll. cc.</i> ; NONN. <i>D. 1, 192</i> ; ARAT. <i>199, etc</i>.<p><b>Étym</b>. ἀνήρ, μέδομαι.`

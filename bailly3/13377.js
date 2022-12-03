@@ -1,1 +1,0 @@
-lar[13377]=`<b>ἀπο·σπερμαίνω</b>, répandre une semence, APD. <i>3, 14, 6</i>.`

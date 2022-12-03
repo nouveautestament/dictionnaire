@@ -1,1 +1,0 @@
-lar[90157]=`<b>σιδηρο·κμής, ῆτος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> tué par le fer, SOPH. <i>Aj. 325</i>.<p><b>Étym</b>. σ. κάμνω.`

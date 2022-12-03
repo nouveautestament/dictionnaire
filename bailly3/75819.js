@@ -1,1 +1,0 @@
-lar[75819]=`<b>παρ·άκτιος, α, ον</b>, qui se trouve sur le bord de la mer, ESCHL. <i>Pr. 836</i> ; SOPH. <i>Aj. 654, etc</i>.<p>➳ <i>Fém</i>. -ος, ANTH. <i>6, 167</i>.<p><b>Étym</b>. π. ἀκτή.`

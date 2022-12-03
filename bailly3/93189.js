@@ -1,1 +1,0 @@
-lar[93189]=`<i>adv.</i> :<br><b>      1</b> en même temps que la naissance, dès la naissance, EUR. <i>H.f. 1293</i>.<br><b>      2</b> de la même façon : τινι, ALEX. (<i>Com. fr. 3, 382</i>) que qqn.<p><b>Étym</b>. συγγενής.`

@@ -1,1 +1,0 @@
-lar[31951]=`<b>ἐκ·προκαλέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font><br><b>      1</b> appeler à soi, faire venir : τινα μεγάρων, OD. <i>2, 400, ou</i> ἐκ μεγάροιο, HH. <i>Ap. 111,</i> qqn du palais.<br><b>      2</b> invoquer, ORPH. <i>H. 6, 1</i>.<p>➳ <i>Part. ao. épq</i>. -καλεσσαμένη, OD. <i>l. c</i>.`

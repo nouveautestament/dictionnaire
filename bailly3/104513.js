@@ -1,1 +1,0 @@
-lar[104513]=`<b>ὑψι·μέλαθρος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> à la voûte élevée, HH. <i>Merc. 103, 134, 399, etc.</i><br><b>      2</b> <i>p. ext. fig</i>. dominant, souverain, ORPH. <i>H. 4, 1</i>.<p><b>Étym</b>. ὕ. μέλαθρον.`

@@ -1,1 +1,0 @@
-lar[91513]=`<b>ου (ὁ)</b> rat, ESCHL. <i>fr. 226 Dind.</i> ; LYC. <i>1307</i> ; ANTH. <i>9, 410</i>.`

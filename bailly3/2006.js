@@ -1,1 +1,0 @@
-lar[2006]=`<b>εως (ἡ) :<br>      1</b> abolition, rejet, <i>en gén</i>. NT. <i>Hebr. 7, 18 ; 9, 26</i>.<br><b>      2</b> <i>t. de gr</i>. rejet d’une leçon vicieuse, DL. <i>3, 66</i> ; DYSC. <i>Synt. 5, 8 ; 163, 5</i>.<p><b>Étym</b>. ἀθετέω.`

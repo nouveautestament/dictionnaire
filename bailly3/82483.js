@@ -1,1 +1,0 @@
-lar[82483]=`<b>πολυ·τρόχαλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui court avec beaucoup d’agilité, ANTH. <i>2, 1, 15</i>.<p><b>Étym</b>. π. τροχαλός.`

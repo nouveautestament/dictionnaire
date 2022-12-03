@@ -1,1 +1,0 @@
-lar[32978]=`<b>ου (τὸ)</b> Elloménon, <i>port de Leukas,</i> THC. <i>3, 94</i>.`

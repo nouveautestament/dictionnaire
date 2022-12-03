@@ -1,1 +1,0 @@
-lar[106612]=`<b>οῦ (ὁ)</b> écolier, PLAT. <i>Rsp. 563a, Leg. 779d, etc</i>.<p><b>Étym</b>. φοιτάω.`

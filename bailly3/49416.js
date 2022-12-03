@@ -1,1 +1,0 @@
-lar[49416]=`<b>ἱππο·στάσιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἱππόστασις LYS. (POLL. <i>9, 50</i>) ; <i>au pl</i>. APP. <i>Lib. 95, etc</i>.`

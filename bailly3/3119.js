@@ -1,1 +1,0 @@
-lar[3119]=`<b>ἀκανθο·λόγος, ος, ον</b> <font color="purple">[ᾰκ]</font> qui recherche des arguties, <i>litt</i>. des épines, ANTH. <i>11, 20, 347</i>.<p><b>Étym</b>. ἄκανθα, λέγω.`

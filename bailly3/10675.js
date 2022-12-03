@@ -1,1 +1,0 @@
-lar[10675]=`<b>ης, ες</b>, rempli de cavernes, caverneux, XÉN. <i>An. 4, 3, 11</i> ; ARSTT. <i>Probl. 23, 5, 1</i>.<p><b>Étym</b>. ἄντρον, -ωδης.`

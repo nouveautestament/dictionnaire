@@ -1,1 +1,0 @@
-lar[59086]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite toison, CRAT. (<i>Com. fr. 2, 41</i>) ; AR. <i>Ran. 1203, etc</i>.<p><b>Étym</b>. κῴδιον.`

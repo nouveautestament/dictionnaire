@@ -1,1 +1,0 @@
-lar[4318]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à de la farine de froment, GAL. <i>13, 260</i>.<p><b>Étym</b>. ἄλευρον, -ωδης.`

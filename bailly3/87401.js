@@ -1,1 +1,0 @@
-lar[87401]=`<i>épq</i>. <b>πτοιαλέος, α, ον</b> <font color="purple">[ᾰ]</font> effrayé, craintif, OPP. <i>H. 3, 41</i>.<p><b>Étym</b>. πτόα.`

@@ -1,1 +1,0 @@
-lar[39904]=`<b>εως (ἡ)</b> <i>mot de sign. dout., p.-ê</i>. action de voguer au gré du vent, <i>d’où</i> succès, LICYMN. (ARSTT. <i>Rhet. 3, 13, 5).</i><p><b>Étym</b>. ἐπουρόω.`

@@ -1,1 +1,0 @@
-lar[87041]=`<b>ατος (τὸ)</b> chaussée <i>ou</i> terrasse élevée en avant, STR. <i>598, vulg. ; conj</i>. προσχ-.<p><b>Étym</b>. προχώννυμι.`

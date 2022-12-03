@@ -1,1 +1,0 @@
-lar[1987]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> manque de soin, négligence, PLAT. <i>Rsp. 443a ;</i> TH. <i>Char. 19</i>.<p><b>Étym</b>. ἀθεράπευτος.`

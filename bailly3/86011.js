@@ -1,1 +1,0 @@
-lar[86011]=`<b>προσ·κηδής, ής, ές :<br>      1</b> qui se préoccupe de, attentif, diligent, OD. <i>21, 35</i>.<br><b>      2</b> uni par la parenté à, <i>dat</i>. HDT. <i>8, 136 ; d’où</i> lié à, complice de, <i>dat</i>. A.RH. <i>3, 388</i> ; ANTH. <i>7, 444</i>.<p><b>Étym</b>. π. κῆδος.`

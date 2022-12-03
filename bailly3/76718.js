@@ -1,1 +1,0 @@
-lar[76718]=`<b>εως (ἡ)</b> intercalation, PLUT. <i>M. 1022d</i>.<p><b>Étym</b>. παρεντάσσω.`

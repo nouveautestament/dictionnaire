@@ -1,1 +1,0 @@
-lar[36797]=`<i>adv</i>., suffisamment, SPT. <i>1Macc. 11, 35</i>.<p><b>Étym</b>. ἐπαρκής.`

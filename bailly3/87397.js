@@ -1,1 +1,0 @@
-lar[87397]=`<b>οῦ (ὁ)</b> qui pile, qui monde du grain, ANTH. <i>11, 351</i>.<p><b>Étym</b>. πτίσσω.`

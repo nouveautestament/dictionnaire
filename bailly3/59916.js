@@ -1,1 +1,0 @@
-lar[59916]=`<b>λασι·αύχην, ενος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> au cou velu, HH. <i>Merc. 224, etc.</i> ; SOPH. <i>Ant. 357</i> ; AR. <i>Ran. 822</i> ; THCR. <i>Idyl. 25, 272 ; fig</i>. THCR. <i>Epigr. 5, 5</i>.<p>➳ <i>Gén. neutre</i> λασιαύχενος, THCR. <i>Epigr. 5, 5</i>.<p><b>Étym</b>. λάσιος, αὐχήν.`

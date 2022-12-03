@@ -1,1 +1,0 @@
-lar[60549]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de peuplier blanc, ARSTT. <i>Œc. 2, 42</i>.<p><b>Étym</b>. λεύκη.`

@@ -1,1 +1,0 @@
-lar[107648]=`<b>χαλκο·βαρής, ής, ές</b> <font color="purple">[ᾰ]</font> chargé <i>ou</i> garni d’airain, IL. <i>15, 465</i> ; OD. <i>11, 532 ; 21, 423</i> ; NONN. <i>D. 10, 292, 391</i> ; ANTH. <i>9, 603, 6</i>.<p><b>Étym</b>. χαλκός, βάρος.`

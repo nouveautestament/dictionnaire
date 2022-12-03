@@ -1,1 +1,0 @@
-lar[52926]=`<b>ή, όν</b>, intelligent, perspicace, NYSS. <i>1, 45c, etc</i>.<p><b>Étym</b>. κατανοέω.`

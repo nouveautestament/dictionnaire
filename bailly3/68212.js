@@ -1,1 +1,0 @@
-lar[68212]=`<b>νεό·πλυτος, ος, ον</b> <font color="purple">[ῠ]</font> récemment lavé <i>ou</i> nettoyé, OD. <i>6, 64</i> ; HDT. <i>2, 37, etc</i>.<p><b>Étym</b>. ν. πλύνω.`

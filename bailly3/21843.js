@@ -1,1 +1,0 @@
-lar[21843]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> petit pont, EL. <i>V.H. 8, 14</i>.<p><b>Étym</b>. γέφυρα.`

@@ -1,1 +1,0 @@
-lar[58423]=`<b>κυβό·κυβος, ου (ὁ)</b> <font color="purple">[ῠῠ]</font> nombre résultant de la multiplication de 2 cubes, <i>càd</i>. sixième puissance d’un nombre, DIOPH. <i>Arithm. p. 2</i>.<p><b>Étym</b>. κύβος redoublé.`

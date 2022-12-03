@@ -1,1 +1,0 @@
-lar[70573]=`<b>οἰνό·σπονδα, ων (τὰ)</b> <i>s.-e</i>. ἱερά, libations de vin, PORPH. <i>Abst. 2, 20</i>.<p><b>Étym</b>. οἰν. σπένδω.`

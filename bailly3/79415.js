@@ -1,1 +1,0 @@
-lar[79415]=`<b>περι·στομίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> compas d’épaisseur, outil en bois servant au montage des machines de jet, HÉRON <i>Bel. 28</i>.<p><b>Étym</b>. π. στόμα.`

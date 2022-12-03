@@ -1,1 +1,0 @@
-lar[38164]=`<b>ἐπι·κρεμάννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao</i>. ἐπεκρέμασα)</font> suspendre au-dessus de, <i>fig</i>. ἐπ. τινὶ ἄτην, THGN. <i>206</i> ; φόβον, DS. <i>16, 50</i> ; κίνδυνον, POL. <i>2, 31, 7,</i> tenir le malheur, la crainte, le danger en suspens sur qqn.`

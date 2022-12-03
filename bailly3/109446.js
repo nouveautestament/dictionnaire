@@ -1,1 +1,0 @@
-lar[109446]=`<b>ή, όν</b>, capable de contenir, <i>gén</i>. EL. <i>N.A. 2, 11</i> ; SEXT. <i>P. 3, 121</i>.<p><b>Étym</b>. χωρητός.`

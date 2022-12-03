@@ -1,1 +1,0 @@
-lar[106622]=`<b>οῦ (ὁ)</b> louche <i>ou plus probabl</i>. cagneux, <i>ép. de Thersite,</i> IL. <i>2, 217</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

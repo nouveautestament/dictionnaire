@@ -1,1 +1,0 @@
-lar[29378]=`<b>εως (ἡ)</b> anchois, <i>poisson,</i> EL. <i>N.A. 8, 18</i>.`

@@ -1,1 +1,0 @@
-lar[8531]=`<b>ἀν·επόπτευτος, ος, ον</b>, non initié aux mystères (d’Éleusis) HYPÉR. (HARP.).<p><b>Étym</b>. ἀν-, ἐποπτεύω.`

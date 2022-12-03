@@ -1,1 +1,0 @@
-lar[82261]=`<b>ας (ἡ)</b> <i>propr</i>. enchevêtrement, <i>d’où</i> ruse, fourberie, THGN. <i>67</i>.<p><b>Étym</b>. πολύπλοκος.`

@@ -1,1 +1,0 @@
-lar[54700]=`<b>κενό·δοξος, ος, ον</b>, épris de vaine gloire, POL. <i>21, 6, 12, etc</i>.<p><b>Étym</b>. κ. δόξα.`

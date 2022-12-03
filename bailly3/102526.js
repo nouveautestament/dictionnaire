@@ -1,1 +1,0 @@
-lar[102526]=`<b>ὑπέρ·θεος, ος, ον</b>, plus que dieu, plus que divin, PROCL.`

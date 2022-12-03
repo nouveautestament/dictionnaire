@@ -1,1 +1,0 @@
-lar[71424]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui naît d’un regard, SOPH. <i>fr. 729 Nauck</i>.<p><b>Étym</b>. ὄμμα.`

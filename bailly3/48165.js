@@ -1,1 +1,0 @@
-lar[48165]=`<b>ῆρος (ὁ)</b> qui crie, l’aboyeur (Cerbère) A. PL. <i>4, 91</i>.<p><b>Étym</b>. θωΰσσω.`

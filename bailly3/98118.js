@@ -1,1 +1,0 @@
-lar[98118]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Téléas, <i>h</i>. AR. <i>Pax 1008, Av. 168, 1025</i>.<p><b>Étym</b>. τελέω.`

@@ -1,1 +1,0 @@
-lar[82391]=`<b>πολυ·στέλεχος, ος, ον</b>, aux troncs nombreux, ANTH. <i>9, 312</i>.`

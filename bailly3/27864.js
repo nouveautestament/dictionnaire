@@ -1,1 +1,0 @@
-lar[27864]=`<i>adv.</i> :<br><b>      1</b> avec activité, PHIL. <i>1, 104</i>.<br><b>      2</b> avec efficacité, A. TR. <i>1, 31</i>.<br><b>      3</b> avec énergie, JUL. <i>Ep. p. 51, 17 Heyl</i>.`

@@ -1,1 +1,0 @@
-lar[85831]=`<b>προσ·ήλιος, ος, ον</b>, exposé au soleil, situé au midi, XÉN. <i>Cyn. 4, 6</i> ; TH. <i>Od. 40</i>.<p><b>Étym</b>. π. ἥλιος.`

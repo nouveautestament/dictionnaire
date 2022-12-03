@@ -1,1 +1,0 @@
-lar[23603]=`<b>ας (ἡ)</b> traité (<i>ou</i> poème) gastronomique, ARCHESTR. (ATH. <i>4e</i>).`

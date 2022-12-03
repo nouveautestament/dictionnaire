@@ -1,1 +1,0 @@
-lar[9957]=`<b>ἀντι·κέλευθος, ος, ον</b>, qui se trouve sur le chemin, qui vient au-devant de, NONN. <i>D. 8, 191</i>.`

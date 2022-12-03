@@ -1,1 +1,0 @@
-lar[55924]=`<b>Κλεο·χάρης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Kléokharès, <i>h</i>. ESCHN. <i>2, 120 Baiter-Sauppe</i>.<p><b>Étym</b>. κλ. χαίρω.`

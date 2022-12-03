@@ -1,1 +1,0 @@
-lar[82650]=`<b>ου (ὁ)</b> = <i>lat</i>. Pomponius, <i>n. d’h. rom</i>. PLUT. <i>Num. 3, etc. ; au plur</i>. Πομπώνιοι, la famille des Pomponius, PLUT. <i>Num. 21</i>.`

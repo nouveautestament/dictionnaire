@@ -1,1 +1,0 @@
-lar[26053]=`<b>διδυμό·κτυπος, ος, ον</b> <font color="purple">[ῐῠῠ]</font><br><b>      1</b> qui fait entendre un son double <i>ou</i> répété, <i>càd</i>. un roulement (tambour) NONN. <i>D. 20, 307</i>.<br><b>      2</b> qui redouble, <i>càd</i>. qui renvoie le son (l’écho) NONN. <i>D. 36, 12</i>.<p><b>Étym</b>. δίδυμος, κτυπέω.`

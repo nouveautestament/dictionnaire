@@ -1,1 +1,0 @@
-lar[110396]=`<i>adv</i>., dans la saison, en temps opportun, jusqu’à maturité : μὴ ὥρασ' ἵκοισθε, AR. <i>Lys. 1037</i> ; ALEX. (<i>Com. fr. 3, 507</i>) ; ALCM. <i>5</i> ; LUC. <i>D. mer. 10, 3 ; D. deor. 6, 4 ; Salt. 5,</i> puissiez-vous ne pas atteindre le moment opportun ! <i>càd</i>. allez au diable ! <i>(v. Carel Gabriel Cobet, Variæ lectiones p. 63).</i><p><b>Étym</b>. ὥρα.`

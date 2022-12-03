@@ -1,1 +1,0 @@
-lar[22383]=`<b>ή, όν</b>, enclin à murmurer, <i>d’où</i> qui murmure, qui gronde, NAZ.<p><b>Étym</b>. γογγύζω.`

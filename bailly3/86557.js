@@ -1,1 +1,0 @@
-lar[86557]=`<b>προσ·υπάρχω</b>, appartenir à, être donné à : προσυπάρχει τινί <i>avec l’inf</i>. DÉM. <i>549, 12,</i> il appartient à qqn de faire qqe ch.`

@@ -1,1 +1,0 @@
-lar[84705]=`<b>προ·μεθίημι</b> <font color="darkgreen">(<i>f</i>. -μεθήσω, <i>ao</i>. -μεθῆκα, <i>etc</i>.)</font> laisser aller <i>ou</i> envoyer auparavant, A.RH. <i>2, 329</i>.`

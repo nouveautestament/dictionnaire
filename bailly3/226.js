@@ -1,1 +1,0 @@
-lar[226]=`<b>(τὸ)</b> le « mur d’Abône » <i>petite ville de Paphlagonie,</i> LUC. <i>Alex. 9</i>.`

@@ -1,1 +1,0 @@
-lar[57333]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne le jeu du cottabe, HERMIPP. (<i>Com. fr. 2, 397, 403).</i><p><b>Étym</b>. κότταβος.`

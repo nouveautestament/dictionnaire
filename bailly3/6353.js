@@ -1,1 +1,0 @@
-lar[6353]=`<b>ἀμφίσ·βαινα, ης (ἡ)</b> amphisbène, <i>sorte de serpent qui s’avance ou recule à volonté,</i> ESCHL. <i>Ag. 1233</i> ; NIC. <i>Th. 372</i> ; NONN. <i>D. 5, 146</i> ; LUC. <i>Dips. 3</i>.<p><b>Étym</b>. ἀ. βαίνω.`

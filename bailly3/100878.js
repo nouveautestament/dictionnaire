@@ -1,1 +1,0 @@
-lar[100878]=`<font color="purple">[ῠ]</font> vivre dans la mollesse, SPT. <i>Esth. 45, 3</i>.<p><b>Étym</b>. τρυφερός.`

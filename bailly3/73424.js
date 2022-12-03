@@ -1,1 +1,0 @@
-lar[73424]=`<b>ου (ὁ)</b> Vagisès, <i>Parthe,</i> PLUT. <i>Crass. 18</i>.`

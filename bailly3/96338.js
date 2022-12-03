@@ -1,1 +1,0 @@
-lar[96338]=`<b>εως (ἡ)</b> <font color="purple">[τῑ]</font> évaluation, taux, SPT. <i>Lev. 27, 18 ; 4Reg. 12, 4</i>.<p><b>Étym</b>. συντιμάω.`

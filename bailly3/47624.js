@@ -1,1 +1,0 @@
-lar[47624]=`<b>*θραυλός, ή, όν</b>, <i>seul. cp</i>. -ότερος, fragile, ANON. (Suid.).<p><b>Étym</b>. θραύω.`

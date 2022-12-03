@@ -1,1 +1,0 @@
-lar[34553]=`<i>adv</i>., dans une sorte de transport, PLUT. <i>M. 433c</i>.`

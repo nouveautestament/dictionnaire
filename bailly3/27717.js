@@ -1,1 +1,0 @@
-lar[27717]=`<b>δουλό·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> à l’âme servile, PROCL. <i>Ptol. 98</i> ; PTOL. <i>Tetr. 66, 68</i>.<p><b>Étym</b>. δοῦλος, ψυχή.`

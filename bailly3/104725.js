@@ -1,1 +1,0 @@
-lar[104725]=`<b>ης (ἡ)</b> <font color="purple">[φᾰ]</font> phalène, <i>papillon de nuit,</i> NIC. <i>Th. 760</i> ; EL. <i>N.A. 1, 58</i> (φαλός, brillant, LEX.).`

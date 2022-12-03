@@ -1,1 +1,0 @@
-lar[12986]=`<b>ἀπο·νυκτερεύω</b>, passer la nuit hors de, <i>gén</i>. PLUT. <i>Fab. 20, M. 195f</i>.`

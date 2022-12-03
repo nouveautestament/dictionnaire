@@ -1,1 +1,0 @@
-lar[48445]=`<b>ἰδιο·φεγγής, ής, ές</b> <font color="purple">[ῐδ]</font> qui brille d’une lumière propre, ANT. (STOB. <i>Ecl. 1, 556).</i><p><b>Étym</b>. ἴδ. φέγγος.`

@@ -1,1 +1,0 @@
-lar[106139]=`<b>φιλο·τέχνως</b> <font color="purple">[ῐ]</font> <i>adv</i>., avec goût <i>ou</i> talent, CTÉS. (DS. <i>2, 8</i>) ; DH. <i>Comp. 18</i> ; PLUT. <i>M. 104b ;</i> JOS. <i>A.J. 7, 11, 7 ; 8, 7, 2 ; 12, 2, 9</i>.`

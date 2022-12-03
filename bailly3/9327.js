@@ -1,1 +1,0 @@
-lar[9327]=`<b>ἀν·ορχέομαι-οῦμαι</b>, danser de joie, EUR. <i>Suppl. 719</i>.<p><b>Étym</b>. ἀνά, ὀ.`

@@ -1,1 +1,0 @@
-lar[104628]=`<b>ων (οἱ)</b> <font color="purple">[ᾱ]</font> les Phéaciens, <i>pple myth. de l’î. de Σχερία,</i> OD. <i>5, 35 ; 6, 195, etc.</i> ; THC. <i>1, 25, etc</i>.<p>➳ <i>Ion</i>. Φαίηκες, OD. <i>ll. cc. ; dat</i>. Φαίηξιν, OD. <i>7, 62 ; épq</i>. Φαιήκεσσι, OD. <i>6, 241, 270 ; 7, 11 ; 8, 21, etc</i>.`

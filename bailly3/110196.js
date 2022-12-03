@@ -1,1 +1,0 @@
-lar[110196]=`<b>ὠκύ·πορος, ος, ον</b> <font color="purple">[ῠ]</font> qui s’avance rapidement, <i>en parl. de navires,</i> IL. <i>1, 421, 488, etc. ; de flèches,</i> ANTH. <i>5, 86 ; d’un courant,</i> ESCHL. <i>Ag. 1558 ; de flots,</i> PD. <i>P. 4, 345</i>.<p><b>Étym</b>. ὠ. πείρω ; <i>cf</i>. πόρος.`

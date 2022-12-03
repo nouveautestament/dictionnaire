@@ -1,1 +1,0 @@
-lar[914]=`<b>ἀγριο·κοκκυμηλέα, ας (ἡ)</b> prunellier sauvage, DIOSC. <i>1, 174</i>.`

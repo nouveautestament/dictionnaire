@@ -1,1 +1,0 @@
-lar[26549]=`<b>δί·κοκκος, ος, ον</b> <font color="purple">[ῐ]</font> à double noyau, DIOSC. <i>2, 111</i>.<p><b>Étym</b>. δίς, κόκκος.`

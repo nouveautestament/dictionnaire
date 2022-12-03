@@ -1,1 +1,0 @@
-lar[79482]=`<b>περι·τέρμων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> <i>act</i>. qui borne tout autour, de tous côtés, ORPH. <i>H. 82, 3</i>.<br><b>      2</b> <i>pass</i>. borné de tous côtés par, <i>dat</i>. ANTH. <i>9, 297</i>.<p><b>Étym</b>. π. τέρμα.`

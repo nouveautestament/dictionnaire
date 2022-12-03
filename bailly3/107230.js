@@ -1,1 +1,0 @@
-lar[107230]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> action de souffler (<i>p. opp. à</i> ἀασμός) ARSTT. <i>Probl. 34, 7, 2</i>.`

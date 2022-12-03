@@ -1,1 +1,0 @@
-lar[108054]=`<b>χειλόω-ῶ</b>, entourer d’un bord relevé, XÉN. <i>Eq. 4, 4</i>.<p><b>Étym</b>. χεῖλος.`

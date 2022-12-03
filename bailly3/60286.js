@@ -1,1 +1,0 @@
-lar[60286]=`<i>adv</i>., avec réflexion, en réfléchissant, HDT. <i>3, 104</i> ; par la raison, EUR. <i>I.A. 1021, etc</i>.<p><b>Étym</b>. λογίζομαι.`

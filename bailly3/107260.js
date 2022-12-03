@@ -1,1 +1,0 @@
-lar[107260]=`<b>φυσιογνωμονέω-ῶ</b> <font color="purple">[ῠ]</font> conjecturer la nature (d’une pers. <i>ou</i> d’une ch.) : ἔκ τινος, ARSTT. <i>Physiogn. 1, 4,</i> d’après qqe indice ; <i>particul</i>. juger qqn d’après sa mine, son air, sa physionomie, DÉM. <i>799, 21</i> ; ARSTT. <i>An. pr. 2, 27, 8, etc.</i> ; LIB. <i>4, 294, etc</i>.<p><b>Étym</b>. φυσιογνώμων.`

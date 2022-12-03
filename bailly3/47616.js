@@ -1,1 +1,0 @@
-lar[47616]=`<b>θρασύ·χειρ, -χειρος (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> à la main hardie, intrépide, ANTH. <i>7, 234</i>.<p><b>Étym</b>. θρ. χείρ.`

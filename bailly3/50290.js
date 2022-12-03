@@ -1,1 +1,0 @@
-lar[50290]=`<b>εως (ἡ)</b> adaptation, THEOL. <i>54</i>.<p><b>Étym</b>. καθαρμόζω.`

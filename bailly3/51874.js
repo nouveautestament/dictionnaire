@@ -1,1 +1,0 @@
-lar[51874]=`<b>οῦ (ὁ)</b> émancipation, affranchissement d’un esclave, <i>à Rome,</i> CLÉM. <i>679</i>.`

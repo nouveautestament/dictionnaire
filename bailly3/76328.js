@@ -1,1 +1,0 @@
-lar[76328]=`<i>vb. de</i> παρατηρέω, ARSTT. <i>An. pr. 2, 19, 1</i> ; ATH. <i>18f ;</i> CLÉM. <i>2, 288 Migne</i>.`

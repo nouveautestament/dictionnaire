@@ -1,1 +1,0 @@
-lar[105948]=`<b>φιλομυθέω-ῶ</b> <font color="purple">[ῐῡ]</font> aimer les récits, les contes, les fables, STR. <i>19, 422, 474</i> ; SYN. <i>Ep. 105</i>.<p><b>Étym</b>. φιλόμυθος.`

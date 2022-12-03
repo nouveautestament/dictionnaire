@@ -1,1 +1,0 @@
-lar[7722]=`<b>ἀνα·σφηνόω-ῶ</b>, maintenir à l’aide d’un coin, APD. POL. <i>24</i>.`

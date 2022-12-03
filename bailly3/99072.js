@@ -1,1 +1,0 @@
-lar[99072]=`<b>ητος (ὁ)</b> le Tigre, <i>fl. de Mésopotamie,</i> HDT. <i>1, 189, 193, etc.,</i> XÉN. <i>An. 1, 7, 15, etc</i>.`

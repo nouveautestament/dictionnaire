@@ -1,1 +1,0 @@
-lar[13202]=`<i>adv</i>., avec doute, avec scepticisme, SEXT. <i>376, etc</i>.<p>•<i> Cp</i>. -ώτερον, SEXT. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[101570]=`<b>ὑδροποτέω-ῶ</b>, ne boire que de l’eau, HDT. <i>1, 71</i> ; XÉN. <i>Cyr. 6, 2, 26</i> ; PLAT. <i>Rsp. 561c, etc</i>.<p><b>Étym</b>. ὑδροπότης.`

@@ -1,1 +1,0 @@
-lar[46741]=`<b>θεό·πλαστος, ος, ον</b>, façonné de la main de Dieu, SIB. <i>Proœm. 1</i> ; BAS. <i>1, 350</i>.<p><b>Étym</b>. θ. πλάσσω.`

@@ -1,1 +1,0 @@
-lar[91423]=`<b>σκωρ·αμίς, ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> vase de nuit, AR. <i>Eccl. 371</i>.<p><b>Étym</b>. σκώρ, ἀμίς.`

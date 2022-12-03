@@ -1,1 +1,0 @@
-lar[94848]=`<b>συν·αποβαίνω</b>, descendre <i>ou</i> débarquer avec, <i>dat</i>. HDT. <i>6, 92</i> ; PHILSTR. <i>105</i>.`

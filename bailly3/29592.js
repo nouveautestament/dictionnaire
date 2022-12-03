@@ -1,1 +1,0 @@
-lar[29592]=`<b>ἐγ·κατειλέω-ῶ</b>, faire rouler dans ; <i>au pass</i>. s’engouffrer dans, <i>dat</i>. ARSTT. <i>Mund. 4</i> ; PHIL. <i>2, 504</i>.<p><b>Étym</b>. ἐν, κ.`

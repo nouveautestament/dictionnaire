@@ -1,1 +1,0 @@
-lar[15769]=`<b>ας (ἡ)</b> Aséa, <i>brg d’Arcadie,</i> XÉN.`

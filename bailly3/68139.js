@@ -1,1 +1,0 @@
-lar[68139]=`<i>adv.</i> :<br><b>      1</b> nouvellement, récemment, SOPH. <i>O.C. 1448</i>.<br><b>      2</b> du fond, NIC. <i>Al. 211, 410</i>.<p><b>Étym</b>. νέος, -θεν.`

@@ -1,1 +1,0 @@
-lar[64587]=`<b>μεσ·όφθαλμος, ος, ον :<br>      1</b> qui a un œil au milieu, THÉODECT. (ATH. <i>454e conj</i>.).<br><b>      2</b> dont les yeux sont de moyenne grandeur, PROCL. <i>Ptol. 3, 16, p. 202</i>.<p><b>Étym</b>. μ. ὀφθαλμός.`

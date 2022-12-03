@@ -1,1 +1,0 @@
-lar[52786]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font> action de s’instruire, étude, PLOT. <i>p. 348b</i>.<p><b>Étym</b>. καταμανθάνω.`

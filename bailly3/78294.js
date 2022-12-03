@@ -1,1 +1,0 @@
-lar[78294]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qu’on peut traverser, guéable, EUR. <i>fr. 1034</i> ; PLUT. <i>Luc. 27</i> ; ARR. <i>An. 5, 9</i>.<p><b>Étym</b>. περάω.`

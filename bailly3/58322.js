@@ -1,1 +1,0 @@
-lar[58322]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> de fève, HÉNIOCH. (ATH. <i>408b</i>) ; GAL. <i>14, 351</i>.<p><b>Étym</b>. κύαμος.`

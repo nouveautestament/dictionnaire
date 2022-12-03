@@ -1,1 +1,0 @@
-lar[39758]=`<b>ἐπι·ψεύδομαι :<br>      1</b> mentir encore plus, XÉN. <i>Hier. 2, 16</i> ; LUC. <i>Im. 20</i>.<br><b>      2</b> falsifier un nombre, PLUT. <i>Flam. 9</i>.<br><b>      3</b> attribuer faussement : τί τινι, LUC. <i>Tox. 42,</i> qqe ch. à qqn ; <i>abs</i>. imaginer, A.RH. <i>3, 381</i>.`

@@ -1,1 +1,0 @@
-lar[55542]=`<b>ου</b> <font color="purple">[ῑῡ]</font> du Kinyps, LYC. <i>885</i>.<p><b>Étym</b>. <i>v</i>. Κῖνυψ.`

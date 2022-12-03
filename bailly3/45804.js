@@ -1,1 +1,0 @@
-lar[45804]=`être disciple <i>ou</i> partisan d’Héraclite, ARSTT. <i>Metaph. 3, 5, 18</i>.<p><b>Étym</b>. Ἡράκλειτος.`

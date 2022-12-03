@@ -1,1 +1,0 @@
-lar[61966]=`<b>ητος (ἡ)</b> maigreur du sol, STR. <i>130, 156, 163, etc</i>.<p><b>Étym</b>. λυπρός.`

@@ -1,1 +1,0 @@
-lar[6884]=`<b>εως (ἡ)</b> <font color="purple">[νῐ]</font> renouvellement, NAZ. <i>Or. 7, t. 1, p. 784b</i>.`

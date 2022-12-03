@@ -1,1 +1,0 @@
-lar[107325]=`<b>φυτο·σκάφος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui façonne la terre au pied des plantes, THCR. <i>Idyl. 24, 136, etc. ; subst</i>. ὁ φ. jardinier qui façonne la terre, ANTH. <i>6, 102</i> ; THÉM. <i>422, 22 ; 423, 19</i>.<p><b>Étym</b>. φυτόν, σκάπτω.`

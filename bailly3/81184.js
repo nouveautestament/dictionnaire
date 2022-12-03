@@ -1,1 +1,0 @@
-lar[81184]=`<b>πνευματο·κήλη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> pneumatocèle, fausse hernie, P. ÉG. <i>6, 64</i>.<p><b>Étym</b>. πν. κήλη.`

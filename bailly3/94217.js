@@ -1,1 +1,0 @@
-lar[94217]=`<b>συμ·περιτρέπω</b>, retourner <i>ou</i> bouleverser ensemble <i>ou</i> en même temps, SEXT. <i>P. 2, 188, etc</i>.`

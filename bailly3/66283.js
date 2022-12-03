@@ -1,1 +1,0 @@
-lar[66283]=`sucer, manger, HIPPON. <i>fr. 80</i>.<p><b>Étym</b>. μύω <i>avec redoubl</i>.`

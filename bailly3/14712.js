@@ -1,1 +1,0 @@
-lar[14712]=`<i>adv</i>., aristocratiquement, ARSTT. <i>Pol. 4, 15, 20, etc.</i> ; CIC. <i>Att. 1, 14 ; 2, 3</i> ; STR. <i>179, etc</i>.`

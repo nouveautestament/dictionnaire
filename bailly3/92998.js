@@ -1,1 +1,0 @@
-lar[92998]=`<b>Στρουθο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange des autruches, <i>n. d’un pple d’Éthiopie,</i> STR. <i>772</i> ; DS. <i>3, 28</i>.<p><b>Étym</b>. στρουθός, φαγεῖν.`

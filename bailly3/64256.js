@@ -1,1 +1,0 @@
-lar[64256]=`<b>ίδος</b> (<i>genre inconnu</i>) sorte d’oiseau, PAUS. <i>10, 31, 6, au pl</i>.<p><b>Étym</b>. <i>cf</i>. μέμνων.`

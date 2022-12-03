@@ -1,1 +1,0 @@
-lar[31943]=`<b>ατος (τὸ)</b> sciure, ARSTT. <i>Gen. et corr. 1, 2, 15</i>.<p><b>Étym</b>. ἐκπρίω.`

@@ -1,1 +1,0 @@
-lar[77052]=`<b>παρ·ολιγωρέω-ῶ</b> <font color="purple">[ῐ]</font> faire peu de cas de, mépriser, négliger, XÉN. <i>Hell. 7, 4, 13 ; au pass</i>. PLAT. <i>Epin. 991d ;</i> POL. <i>4, 46, 6, etc</i>.<p><b>Étym</b>. π. ὀλιγωρέω.`

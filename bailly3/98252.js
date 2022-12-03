@@ -1,1 +1,0 @@
-lar[98252]=`<font color="purple">[ᾰ]</font><br><b>      1</b> couper par tranches pour la salaison, XÉNOCR. <i>Al. 17</i>.<br><b>      2</b> <i>fig</i>. dépecer, morceler, PLUT. <i>M. 837d</i>.<p><b>Étym</b>. τέμαχος.`

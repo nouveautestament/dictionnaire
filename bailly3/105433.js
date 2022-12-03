@@ -1,1 +1,0 @@
-lar[105433]=`<b>φιλ·αθήναιος, ος, ον</b> <font color="purple">[ῐᾰ]</font> ami des Athéniens <i>ou</i> d’Athènes, AR. <i>Ach. 142, Vesp. 283</i> ; PLAT. <i>Tim. 21e</i>.<p>•<i> Sup</i>. -ότατος, DÉM. <i>439, 27</i>.<p><b>Étym</b>. φίλος, Ἀθηναῖος.`

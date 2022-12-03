@@ -1,1 +1,0 @@
-lar[19203]=`<b>βαρυσταθμέω-ῶ</b> <font color="purple">[βᾰ]</font> peser lourdement, DIOSC. <i>1, 25 (inf. ao</i>. -σταθμῆσαι).<p><b>Étym</b>. βαρύσταθμος.`

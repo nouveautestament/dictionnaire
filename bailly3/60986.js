@@ -1,1 +1,0 @@
-lar[60986]=`<b>*λιγυ·ηχής</b>, <i>dor</i>. <b>λιγυ·αχής, ής, ές</b> <font color="purple">[ῐᾱ]</font> au son perçant, clair, harmonieux, ANTH. <i>9, 308</i>.<p><b>Étym</b>. λ. ἦχος.`

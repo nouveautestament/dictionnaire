@@ -1,1 +1,0 @@
-lar[109461]=`<b>ή, όν</b> <font color="purple">[ῑτ]</font> de la campagne, campagnard, EL. <i>V.H. 9, 7</i> ; πλῆθος χωριτικόν, PLUT. <i>Per. 34,</i> foule des gens de campagne.<p><b>Étym</b>. χωρίτης.`

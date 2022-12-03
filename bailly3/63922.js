@@ -1,1 +1,0 @@
-lar[63922]=`<b>μελάν·υδρος, ος, ον</b> <font color="purple">[ᾰ]</font> aux eaux noires, sombres, IL. <i>9, 14</i> ; OD. <i>20, 158</i> ; THGN. <i>959</i>.<p><b>Étym</b>. μ. ὕδωρ.`

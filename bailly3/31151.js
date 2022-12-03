@@ -1,1 +1,0 @@
-lar[31151]=`<b>ἐκ·γυμνόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐξεγύμνωσα)</font> mettre entièrement à nu, BABR. <i>22, 16</i> ; EUM. <i>114</i>.`

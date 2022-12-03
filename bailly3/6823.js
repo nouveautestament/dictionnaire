@@ -1,1 +1,0 @@
-lar[6823]=`se conduire avec impudence, AR. <i>Eq. 397</i>.<p><b>Étym</b>. ἀναιδής.`

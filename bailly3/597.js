@@ -1,1 +1,0 @@
-lar[597]=`<font color="purple">[ᾰγ]</font> <i>adv</i>., très saintement, PHIL. <i>1, 675</i>.<p><b>Étym</b>. ἅγιος, -ωδης.`

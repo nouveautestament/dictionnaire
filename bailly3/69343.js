@@ -1,1 +1,0 @@
-lar[69343]=`<b>ατος (τὸ)</b> ce qu’on a sur le dos, EUR. (STOB. <i>Fl. 64, 31).</i><p><b>Étym</b>. νωτίζω.`

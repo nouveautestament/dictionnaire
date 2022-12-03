@@ -1,1 +1,0 @@
-lar[17712]=`<b>ή, όν</b>, fait sans préparation, improvisé, ARSTT. <i>Poet. 4, 14</i>.`

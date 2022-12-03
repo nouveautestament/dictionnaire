@@ -1,1 +1,0 @@
-lar[14495]=`<b>ἀρηΐ·θοος, ος, ον</b> <font color="purple">[ᾰῐ]</font> agile au combat, IL. <i>8, 298 ; 15, 315</i>.<p><b>Étym</b>. Ἄρης, θοός.`

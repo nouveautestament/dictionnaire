@@ -1,1 +1,0 @@
-lar[79238]=`<b>οῦ (ὁ)</b> incision circulaire dans la chair, DIOSC. <i>Th. proœm. 422a</i>.<p><b>Étym</b>. περισαρκίζω.`

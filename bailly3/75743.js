@@ -1,1 +1,0 @@
-lar[75743]=`<b>α, ον</b>, <i>vb. de</i> παρακαλέω, LUC. <i>Pseud. 4 ; au neutre,</i> PLAT. <i>Leg. 893b ;</i> ARSTT. <i>Nic. 9, 11, 5, etc</i>.`

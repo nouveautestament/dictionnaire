@@ -1,1 +1,0 @@
-lar[89418]=`<b>σαρισο·φόρος, ος, ον</b> <font color="purple">[ᾰῑ]</font> armé de la sarisse, POL. <i>12, 20, 2</i> ; ARR. <i>An. 1, 13, 1, etc</i>.<p><b>Étym</b>. σάρισα, φέρω.`

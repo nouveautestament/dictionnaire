@@ -1,1 +1,0 @@
-lar[24608]=`<b>ή, όν</b>, disjonctif : σύνδεσμος δ. DYSC. <i>Conj. 482, 9 ; Synt. 26, 6, 18</i> ; PLUT. <i>M. 1026b ;</i> D. THR. <i>642, 30</i> ; DL. <i>7, 72</i>, conjonction disjonctive.<p><b>Étym</b>. διαζεύγνυμι.`

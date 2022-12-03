@@ -1,1 +1,0 @@
-lar[83409]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> Πρίαμος, EPICH.<p><b>Étym</b>. <i>Cram. 2, 126 ; 4, 254</i>.`

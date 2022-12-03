@@ -1,1 +1,0 @@
-lar[59146]=`<font color="purple">[ῡ]</font> <i>vb. de</i> κωλύω, XÉN. <i>Hier. 8, 9 ; plur</i>. κωλυτέα, HPC. <i>47, 27</i>.`

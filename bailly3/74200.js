@@ -1,1 +1,0 @@
-lar[74200]=`<b>ας (ἡ)</b> <font color="purple">[ᾰθᾰτ]</font> <i>c</i>. παθοκράτεια, JOS. <i>Macc. 13, p. 513</i>.`

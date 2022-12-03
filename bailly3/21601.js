@@ -1,1 +1,0 @@
-lar[21601]=`<b>*γελο·ωμιλία</b>, <i>seul. ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[μῐ]</font> société pour rire, <i>p. opp. à</i> κλαιωμιλίη, ANTH. <i>9, 573</i>.<p><b>Étym</b>. γέλως, ὁμιλία.`

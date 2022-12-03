@@ -1,1 +1,0 @@
-lar[49628]=`<b>ἰσοδυναμέω-ῶ</b> <font color="purple">[ῑ̆ῠᾰ]</font><br><b>      1</b> avoir la même puissance, POL. <i>2, 56, 2</i>.<br><b>      2</b> <i>particul</i>. avoir la même signification que, être équivalent à, <i>dat</i>. EM. <i>418</i>.<p><b>Étym</b>. ἰσοδύναμος.`

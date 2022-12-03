@@ -1,1 +1,0 @@
-lar[107732]=`<b>χαλκ·ωρυχεῖον, ου (τὸ)</b> <font color="purple">[ῠ]</font> mine de cuivre, TH. <i>Lap. 25, etc.</i> ; STR. <i>821, etc</i>.<p><b>Étym</b>. χάλκος, ὀρύσσω.`

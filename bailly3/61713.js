@@ -1,1 +1,0 @@
-lar[61713]=`<b>όεσσα, όεν :<br>      1</b> empanaché, TRIPHIOD. <i>68</i>.<br><b>      2</b> couvert de collines <i>ou</i> de coteaux, NONN. <i>D. 2, 37</i>.<p><b>Étym</b>. λόφος.`

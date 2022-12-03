@@ -1,1 +1,0 @@
-lar[42748]=`<b>ης (ἡ) :<br>      1</b> Euneikè, <i>Néréïde,</i> HÉS. <i>Th. 247</i>.<br><b>      2</b> <i>f</i>. THCR. <i>Idyl. 13, 45 ; 20, 1, 42</i>.<p>➳ <i>Dor</i>. Εὐνείκα, THCR. <i>Idyl. ll. cc</i>.`

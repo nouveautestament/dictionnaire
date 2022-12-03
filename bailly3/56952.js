@@ -1,1 +1,0 @@
-lar[56952]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m.</i> : ἵππος, AR. <i>Nub. 23, 437,</i> cheval marqué d’un coppa sur la cuisse, <i>signe d’une victoire remportée aux courses</i>.<p><b>Étym</b>. κόππα.`

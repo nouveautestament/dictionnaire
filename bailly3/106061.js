@@ -1,1 +1,0 @@
-lar[106061]=`<b>φιλ·ορμίστειρα, ας</b> <font color="purple">[φῐ]</font> <i>adj. f</i>. qui aime à conduire au port, à faire aborder, ANTH. <i>10, 21</i>.<p><b>Étym</b>. φ. ὁρμίζω.`

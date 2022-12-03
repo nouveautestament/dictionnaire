@@ -1,1 +1,0 @@
-lar[11664]=`<b>   1</b> être émancipé, PHIL. <i>1, 21, etc.</i><br><b>   2</b> s’émanciper, PHIL. <i>2, 31, etc</i>.`

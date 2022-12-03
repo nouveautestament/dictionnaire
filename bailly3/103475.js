@@ -1,1 +1,0 @@
-lar[103475]=`<b>ή, όν</b>, qui concerne la faculté de penser, PLAT. <i>Def. 414c ;</i> M. ANT. <i>3, 9</i>.<p><b>Étym</b>. ὑπολαμβάνω.`

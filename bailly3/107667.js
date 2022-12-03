@@ -1,1 +1,0 @@
-lar[107667]=`<b>χαλκό·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui résonne du bruit de l’airain, DIOG. (ATH. <i>636a</i>).<p><b>Étym</b>. χ. κτύπος.`

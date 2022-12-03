@@ -1,1 +1,0 @@
-lar[110420]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui donne aux choses leur beauté <i>ou</i> leur forme, ORPH. <i>H. 9, 19</i>.<p><b>Étym</b>. ὥρα.`

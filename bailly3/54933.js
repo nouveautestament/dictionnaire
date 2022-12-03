@@ -1,1 +1,0 @@
-lar[54933]=`<b>ης (ἡ)</b> <i>seul. dat. adv</i>. avec ruse, avec fourberie, IL. <i>22, 247</i> ; OD. <i>4, 251 ; 14, 31</i>.<p><b>Étym</b>. κέρδος.`

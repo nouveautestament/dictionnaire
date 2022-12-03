@@ -1,1 +1,0 @@
-lar[81689]=`<b>πολύ·αινος, ος, ον</b>, digne de grands éloges, célèbre ; <i>sel. d’autres,</i> riche en bons conseils, IL. <i>9, 673, etc.</i> ; OD. <i>12, 184</i>.<p><b>Étym</b>. π. αἰνέω.`

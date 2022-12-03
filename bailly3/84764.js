@@ -1,1 +1,0 @@
-lar[84764]=`<b>προ·νέμω :<br>      1</b> assigner <i>ou</i> attribuer de préférence : τινί τι, PD. <i>I. 8, 37,</i> qqe ch. à qqn.<br><b>      2</b> tendre en avant, <i>acc</i>. ESCHL. <i>Eum. 313</i>.<br><b><i>Moy.</i></b> paître en s’avançant, <i>càd</i>. s’avancer à mesure qu’on paît, <i>d’où fig</i>. s’avancer, <i>en parl. d’Arès,</i> SOPH. <i>El. 1384</i>.`

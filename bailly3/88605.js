@@ -1,1 +1,0 @@
-lar[88605]=`<b>ῥινό·κερως, ωτος (ὁ)</b> <font color="purple">[ῑ]</font> rhinocéros, <i>animal avec une corne sur le nez,</i> STR. <i>774</i> ; EL. <i>N.A. 17, 44</i> ; CALLIX. (ATH. <i>201c</i>).<p><b>Étym</b>. ῥίς, κέρας.`

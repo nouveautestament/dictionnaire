@@ -1,1 +1,0 @@
-lar[100489]=`<b>      1</b> faire trois fois <i>ou</i> pour la troisième fois, SPT. <i>1Reg. 20, 20</i>.<br><b>      2</b> passer trois jours, SPT. <i>1Reg. 20, 19</i>.<p><b>Étym</b>. τρισσός.`

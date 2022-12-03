@@ -1,1 +1,0 @@
-lar[13564]=`<b>ἀπο·τεκμαίρομαι</b>, conjecturer d’après certains indices, A.RH. <i>4, 1538 conj</i>.`

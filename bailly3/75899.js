@@ -1,1 +1,0 @@
-lar[75899]=`<b>παρα·λυμαίνομαι</b> <font color="purple">[ῡ]</font> souiller, corrompre, <i>dat</i>. BAS. <i>1, 590b</i>.`

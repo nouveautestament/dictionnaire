@@ -1,1 +1,0 @@
-lar[24648]=`<b>δια·θηράω-ῶ</b> (<i>seul. prés. part</i>. -ῶντες) poursuivre à la chasse, chasser, PHILSTR. <i>p. 740 dout</i>.`

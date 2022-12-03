@@ -1,1 +1,0 @@
-lar[60044]=`<b>α, ον</b>, couvert de poil <i>ou</i> de duvet, ANTH. <i>9, 439</i>.<p><b>Étym</b>. λάχνη.`

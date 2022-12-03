@@ -1,1 +1,0 @@
-lar[106916]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> trait de sagesse, STOB. <i>Ecl. eth. p. 194</i>.`

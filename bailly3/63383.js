@@ -1,1 +1,0 @@
-lar[63383]=`<b>μεγαλό·μασθος, ος, ον</b> <font color="purple">[γᾰ]</font> aux grosses mamelles, GEOP. <i>19, 2, 4</i>.<p><b>Étym</b>. μ. μασθός.`

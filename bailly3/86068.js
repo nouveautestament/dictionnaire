@@ -1,1 +1,0 @@
-lar[86068]=`<b>εως (ἡ)</b> heurt, choc, PLUT. <i>M. 696a ; fig</i>. offense, PLUT. <i>Cic. 34, etc</i>.<p><b>Étym</b>. προσκρούω.`

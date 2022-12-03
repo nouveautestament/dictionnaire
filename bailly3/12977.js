@@ -1,1 +1,0 @@
-lar[12977]=`<b>ἀπο·νομίζω</b>, défendre par une loi, MNASÉAS (ATH. <i>346d</i>).`

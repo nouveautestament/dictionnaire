@@ -1,1 +1,0 @@
-lar[90312]=`<b>ου (τὸ)</b> silphium, <i>plante ombellifère de la Cyrénaïque, dont le suc était employé comme condiment et comme remède,</i> HDT. <i>4, 169, 192</i> ; HPC. <i>Acut. 387, etc.</i> ; SOPH. <i>fr. 945 Dind.</i> ; AR. <i>Av. 534, 1579, etc.</i> ; TH. <i>H.P. 6, 3, etc</i>.<p><b>Étym</b>. <i>cf. lat</i>. laserpitium.`

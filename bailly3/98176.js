@@ -1,1 +1,0 @@
-lar[98176]=`<b>τελεσσι·δώτειρα, ας (ἡ)</b> <font color="purple">[ῐ]</font> qui procure l’accomplissement, la réalisation, EUR. <i>Her. 899</i>.<p><b>Étym</b>. <i>poét. p</i>. *τελεσιδώτειρα <i>de</i> τελέω, δίδωμι.`

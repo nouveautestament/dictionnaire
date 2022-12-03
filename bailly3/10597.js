@@ -1,1 +1,0 @@
-lar[10597]=`<b>ἀντί·χαρις, ιτος (ἡ)</b> <font color="purple">[χᾰ]</font> reconnaissance, RHÉT. <i>1, 447 W</i>.<p><b>Étym</b>. ἀ. χάρις.`

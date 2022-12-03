@@ -1,1 +1,0 @@
-lar[55562]=`<b>ης (ἡ)</b> oiseau de proie, EL. <i>N.A. 4, 5, 58</i>.<p><b>Étym</b>. <i>p.-ê. apparenté à</i> κίρκος, <i>litt</i>. « le tournoyant ».`

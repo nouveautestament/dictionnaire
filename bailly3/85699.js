@@ -1,1 +1,0 @@
-lar[85699]=`<b>προσ·επιμηχανητέον</b> <font color="purple">[ᾰ]</font> il faut provoquer en outre, <i>acc</i>. P. ÉG. <i>2, 45</i>.<p><b>Étym</b>. πρ. <i>vb. de</i> ἐπιμηχανάομαι.`

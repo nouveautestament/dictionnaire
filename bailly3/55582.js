@@ -1,1 +1,0 @@
-lar[55582]=`<b>κιρσο·κήλη, ης (ἡ)</b> varicocèle, gonflement des veines, P. ÉG. <i>6, 64</i> ; CELS. <i>7, 18</i>.<p><b>Étym</b>. κιρσός, κήλη.`

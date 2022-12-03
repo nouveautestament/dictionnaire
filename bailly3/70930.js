@@ -1,1 +1,0 @@
-lar[70930]=`perdre, ruiner, SYMM. <i>Soph. 2, 5</i>.<p><b>Étym</b>. ὄλεθρος.`

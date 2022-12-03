@@ -1,1 +1,0 @@
-lar[106152]=`<b>φιλό·τμητος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à couper, qui a l’habitude de couper : φ. ἡμέρα, NONN. <i>Jo. 14, 16,</i> le jour de la circoncision.<p><b>Étym</b>. φ. τέμνω.`

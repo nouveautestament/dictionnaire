@@ -1,1 +1,0 @@
-lar[102181]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ὑπένδυμα STR. <i>734</i>.`

@@ -1,1 +1,0 @@
-lar[85994]=`<b>προσ·κατηγορέω-ῶ :<br>      1</b> accuser en outre : τινος, XÉN. <i>Mem. 2, 6, 34,</i> qqn ; ἐπίδειξίν τινὰ ἐπὶ χρήμασι, THC. <i>3, 42,</i> accuser qqn de vénalité.<br><b>      2</b> attribuer en outre, ARSTT. <i>Interpr. 10, 3</i>.`

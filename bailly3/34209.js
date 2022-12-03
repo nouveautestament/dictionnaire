@@ -1,1 +1,0 @@
-lar[34209]=`<b>εως (ἡ)</b> action de plier en double, GAL. <i>2, 12</i>.<p><b>Étym</b>. ἐνδιπλόω.`

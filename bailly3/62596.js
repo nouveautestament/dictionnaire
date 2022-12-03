@@ -1,1 +1,0 @@
-lar[62596]=`<b>ή, όν</b>, pétri, ANTYLL. (ORIB. <i>p. 251 Matthäi).</i><p><b>Étym</b>. <i>vb. de</i> μάσσω.`

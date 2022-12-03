@@ -1,1 +1,0 @@
-lar[54264]=`<b>ηκος (ὁ)</b> <i>ion</i>. sorte de mouette, <i>oiseau de mer,</i> EUPH. (EM. <i>493, 49</i>) ; LYC. <i>741, 789</i> ; ANTH. <i>7, 652, etc</i> (<i>cf</i>. καύης).`

@@ -1,1 +1,0 @@
-lar[20145]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>att. c</i>. βόλβιτον, fiente de bœuf <i>ou</i> de vache, bouse, AR. <i>Eq. 658 ; Ach. 1026</i>.`

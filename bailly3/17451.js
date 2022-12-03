@@ -1,1 +1,0 @@
-lar[17451]=`<b>αὐτο·δικέω-ῶ</b> <font color="purple">[ῐ]</font> avoir sa juridiction propre, DIN. (Harpocr.).<p><b>Étym</b>. αὐτόδικος.`

@@ -1,1 +1,0 @@
-lar[96022]=`<b>συν·ίπταμαι</b> <font color="darkgreen">(<i>f</i>. συμπτήσομαι, <i>etc</i>.)</font> s’envoler ensemble, SANCH. (EUS. <i>P.E. 39</i>).`

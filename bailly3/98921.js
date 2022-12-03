@@ -1,1 +1,0 @@
-lar[98921]=`<b>ῶν (οἱ)</b> les Tèléboes, <i>pple myth. d’Acarnanie et de Leucadie,</i> HÉS. <i>Sc. 19</i> ; HDT. <i>5, 59</i>.<p><b>Étym</b>. Τηλεβόας ; <i>cf</i>. Τάφιοι.`

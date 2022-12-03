@@ -1,1 +1,0 @@
-lar[41904]=`<b>εὐ·διόριστος, ος, ον</b>, facile à définir, à expliquer, ARSTT. <i>An. 2, 9, 1</i>.<p><b>Étym</b>. εὖ, διορίζω.`

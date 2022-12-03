@@ -1,1 +1,0 @@
-lar[71426]=`<b>ὀμματο·γράφος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui sert à teindre les paupières, ION (POLL. <i>5, 101).</i><p><b>Étym</b>. ὄμμα, γράφω.`

@@ -1,1 +1,0 @@
-lar[42375]=`<b>ας (ἡ)</b> abondance de fruits, fertilité, ARSTT. <i>fr. 240</i> ; TH. <i>C.P. 2, 1, 2</i>.<p><b>Étym</b>. εὔκαρπος.`

@@ -1,1 +1,0 @@
-lar[83708]=`<b>προ·αριστάω-ῶ</b> <font color="purple">[ᾱρ]</font> déjeuner <i>ou</i> dîner auparavant, HPC. <i>Acut. 388</i> ; DL. <i>2, 139</i>.`

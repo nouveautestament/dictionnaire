@@ -1,1 +1,0 @@
-lar[103730]=`<b>ὑπο·προτίθημι</b> <font color="purple">[τῐ]</font> placer en avant dessous, EN. TACT. <i>Pol. 36</i>.`

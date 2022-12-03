@@ -1,1 +1,0 @@
-lar[68343]=`<b>ου (ὁ)</b> Nessos (Nessus) :<br><b>      1</b> <i>Centaure,</i> SOPH. <i>Tr. 558, 1141</i>.<br><b>      2</b> <i>autre n. de</i> Νέστος, HÉS. <i>Th. 341</i>.<br><b>      3</b> <i>autres,</i> DL. <i>9, 58, etc</i>.`

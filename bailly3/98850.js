@@ -1,1 +1,0 @@
-lar[98850]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> <i>pass</i>. travaillé avec art, ANTH. <i>9, 504</i>.<br><b>      2</b> <i>act</i>. ingénieux, habile, OPP. <i>C. 1, 326</i>.<p><b>Étym</b>. τέχνη.`

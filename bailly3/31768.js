@@ -1,1 +1,0 @@
-lar[31768]=`<b>ἐκ·παλαίω</b> <font color="purple">[πᾰ]</font> lutter contre les règles, <i>càd</i>. en trichant, PHILSTR. <i>772</i>.`

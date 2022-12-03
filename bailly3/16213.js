@@ -1,1 +1,0 @@
-lar[16213]=`<b>ἀ·στεφάνωτος, ος, ον</b> <font color="purple">[φᾰ]</font> non couronné, <i>càd</i>. vaincu, sans succès, PLAT. <i>Rsp. 613c ;</i> DÉM. ESCHN.<p><b>Étym</b>. ἀ, στεφανόω.`

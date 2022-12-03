@@ -1,1 +1,0 @@
-lar[4133]=`<b>όεσσα, όεν</b> <font color="purple">[ῐ]</font> douloureux, HÉS. <i>Th. 214, 226</i>.<p><b>Étym</b>. ἄλγος.`

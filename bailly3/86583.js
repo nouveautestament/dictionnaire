@@ -1,1 +1,0 @@
-lar[86583]=`<b>προσ·υφαίνω</b>, tisser, broder <i>ou</i> entrelacer avec, <i>dat</i>. PLAT. <i>Tim. 41d ;</i> THÉM. <i>316a, etc</i>.`

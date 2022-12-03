@@ -1,1 +1,0 @@
-lar[55278]=`<b>κηρο·ειδής, ής, ές</b>, semblable à de la cire, <i>càd.</i> :<br><b>      1</b> mou comme de la cire, PLAT. <i>Tim. 61c ;</i> ATH. <i>281a ;</i> DIOSC. <i>1, 92 et 172 ; 2, 106 ; fig</i>. PHIL. <i>1, 64</i>.<br><b>      2</b> jaune comme de la cire, PHILSTR. <i>781</i>.<p><b>Étym</b>. κηρός, εἶδος.`

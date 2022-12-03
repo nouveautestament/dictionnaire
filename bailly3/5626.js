@@ -1,1 +1,0 @@
-lar[5626]=`<b>όεσσα, όεν</b> <font color="purple">[θᾰ]</font> obscurci par la fumée (des forges d’Hèphæstos) <i>ép. de Lemnos,</i> IL. <i>24, 753</i> ; HH. <i>Ap. 36</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. ἀμυγδάλη, <i>litt</i>. « riche en amandes » ; <i>sel. les anc. de</i> ὁμίχλη <i>ou de</i> ἀ, μίγνυμι, sans communication, inabordable.`

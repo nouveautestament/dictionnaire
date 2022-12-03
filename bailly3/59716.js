@@ -1,1 +1,0 @@
-lar[59716]=`<b>ου (ὁ)</b> Lampikhos, <i>tyran de Géla,</i> LUC. <i>D. mort. 10, 4 et 2</i>.`

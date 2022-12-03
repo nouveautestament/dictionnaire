@@ -1,1 +1,0 @@
-lar[2276]=`<b>αἰγί·πυρος, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> blé de chèvre (<i>Melampyrum arvense</i> L. ; <i>sel. d’autres, Eryngium maritimum</i> L.) <i>plante,</i> TH. <i>H.P. 2, 8, 3</i> ; THCR. <i>Idyl. 4, 25</i>.<p><b>Étym</b>. αἴξ, πυρός.`

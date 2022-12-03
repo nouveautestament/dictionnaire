@@ -1,1 +1,0 @@
-lar[105746]=`<b>φιλό·δενδρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les bois, A. PL. <i>233</i>.<p><b>Étym</b>. φ. δένδρον.`

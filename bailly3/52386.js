@@ -1,1 +1,0 @@
-lar[52386]=`<b>κατα·θαρρέω-ῶ :<br>      1</b> montrer de la hardiesse contre, résister hardiment ; τινος, POL. <i>1, 40, 3, etc.</i> ; DS. <i>15, 34,</i> à qqn <i>ou</i> à qqe ch.<br><b>      2</b> se confier à, s’en remettre à, <i>dat</i>. POL. <i>3, 86, 8</i>.<p><b>Étym</b>. <i>cf</i>. καταθαρσέω.`

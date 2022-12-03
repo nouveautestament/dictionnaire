@@ -1,1 +1,0 @@
-lar[45500]=`<b>ἡμι·όδιος, ου (ὁ, ἡ)</b> qui a fait la moitié du chemin, ARSTT. <i>Œc. 2, 34</i>.<p><b>Étym</b>. ἡμι-, ὁδός.`

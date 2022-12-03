@@ -1,1 +1,0 @@
-lar[27771]=`<b>δοχμόω-ῶ</b> (<i>seul. ao. 3 sg. poét</i>. δόχμωσε) placer en travers, obliquement, NONN. <i>D. 42, 182</i>.<br><b><i>Moy.</i></b> (<i>seul. ao. de forme pass. 3 pl</i>. ἐδοχμώθησαν, NONN. <i>D. 17, 348, et part</i>. δοχμωθείς, HH. <i>Merc. 146 ; postér. ao. moy. 3 sg. poét</i>. δοχμώσατο, NONN. <i>D. 37, 254) m. sign</i>.<p><b>Étym</b>. δοχμός.`

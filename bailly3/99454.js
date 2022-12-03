@@ -1,1 +1,0 @@
-lar[99454]=`<b>ου (ὁ)</b> Tmôlos (<i>auj</i>. Bozdağlar) <i>mt. de Lydie,</i> IL. <i>2, 866 ; 20, 385</i> ; HDT. <i>1, 84, 93, etc.</i> ; ESCHL. <i>Pers. 49</i> ; EUR. <i>Bacch. 65, etc.</i> ; ANTH. <i>9, 645, etc</i>.<p>➳ <i>Gén. épq</i>. -οιο, NONN. <i>D. 10, 257, etc</i>.`

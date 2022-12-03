@@ -1,1 +1,0 @@
-lar[108406]=`<b>χθαμαλοφρονέω-ῶ</b>, avoir des sentiments humbles <i>ou</i> bas, NAZ. <i>t. 2, p. 137</i>.`

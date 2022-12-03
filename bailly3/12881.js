@@ -1,1 +1,0 @@
-lar[12881]=`<b>ἀπο·μέμφομαι</b>, faire de grands reproches : τινι, ŒNOM. (EUS. <i>P.E. 210d</i>) à qqn ; τινα ἐπί τινι, PLUT. <i>M. 299b</i>, à qqn pour qqe ch.`

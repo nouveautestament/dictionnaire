@@ -1,1 +1,0 @@
-lar[3590]=`<i>adv.</i> :<br><b>      1</b> en désordre, HDT. <i>7, 220</i> ; ESCHL. <i>Pers. 374</i>.<br><b>      2</b> de façon à troubler l’ordre, d’un cœur rebelle, Sch.-Ar. <i>Ran. 38</i>.<br><b>      3</b> sans parure, NAZ. <i>Carm. 171a</i>.`

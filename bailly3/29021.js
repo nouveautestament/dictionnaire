@@ -1,1 +1,0 @@
-lar[29021]=`<b>δύσ·χορτος, ος, ον</b>, qui manque de fourrage, stérile, pauvre, EUR. <i>I.T. 219</i> (συγχόρτους <i>Weil).</i><p><b>Étym</b>. δ. χόρτος.`

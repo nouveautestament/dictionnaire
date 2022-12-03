@@ -1,1 +1,0 @@
-lar[59490]=`<b>ος, ον</b>, <i>c</i>. λαθραῖος, PLAT. COM. <i>2-2, 615 Mein.</i> ; MÉN. <i>4, 231 Meineke</i> ; BION <i>15, 6</i> ; CALL. <i>Ap. 104, etc.</i> ; ANTH. <i>9, 554, etc.</i> ; ἡ λαθρίη, <i>propr</i>. « celle qui se cache » (Aphrodite) <i>en parl. d’amours clandestines,</i> ANTH. <i>6, 300</i>.<p>➳ <i>Fém. ion</i>. -ίη, ANTH. <i>l. c.</i> ; MAN. <i>6, 207</i>.`

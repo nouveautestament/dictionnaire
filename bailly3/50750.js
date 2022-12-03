@@ -1,1 +1,0 @@
-lar[50750]=`<b>κακό·θυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui fait des sacrifices misérables <i>ou</i> impies, TH. (PORPH. <i>Abst. 2, 7).</i><p><b>Étym</b>. κ. θύω.`

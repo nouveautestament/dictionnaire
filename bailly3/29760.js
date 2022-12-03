@@ -1,1 +1,0 @@
-lar[29760]=`<font color="purple">[ῐ]</font><br><b>      1</b> il faut admettre après examen, PLAT. <i>Rsp. 413d, 537a ; p. opp. à</i> ἀποκριτέον, <i>ibid. 377b.</i><br><b>      2</b> il faut approuver, DIOSC. <i>3, 98</i>.<p><b>Étym</b>. <i>vb. de</i> ἐγκρίνω.`

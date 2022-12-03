@@ -1,1 +1,0 @@
-lar[48773]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Ithômè (Ithôme) :<br><b>      1</b> <i>lieu de Thessalie,</i> IL. <i>2, 729</i>.<br><b>      2</b> <i>mt et forteresse de Messénie,</i> HDT. <i>9, 35</i>.`

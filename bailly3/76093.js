@@ -1,1 +1,0 @@
-lar[76093]=`<b>παρά·πλοος-ους, όου-ου (ὁ) :<br>      1</b> trajet par mer, traversée, THC. <i>1, 36, 44, etc.</i><br><b>      2</b> côte, littoral, STR. <i>664, 669</i> ; DS. <i>3, 38</i>.<p><b>Étym</b>. παραπλέω.`

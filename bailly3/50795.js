@@ -1,1 +1,0 @@
-lar[50795]=`<b>κακό·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> malveillant, hostile, XÉN. <i>Cyr. 8, 2, 1</i> ; AR. <i>Pax 496</i> ; κ. τινι, THC. <i>6, 24, etc</i>. à qqn.<p>•<i> Sup</i>. -ούστατος, LYS. <i>110, 38</i> ; DÉM. <i>623, 4</i>.<p>➳ <i>Plur. att</i>. κακόνοι, XÉN. AR. <i>ll. cc</i>.<p><b>Étym</b>. κ. νόος.`

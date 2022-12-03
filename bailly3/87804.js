@@ -1,1 +1,0 @@
-lar[87804]=`<b>πυρ·δαής, ής, ές</b>, qui consume par le feu, ESCHL. <i>Ch. 606</i>.<p><b>Étym</b>. πῦρ, δαίω.`

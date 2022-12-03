@@ -1,1 +1,0 @@
-lar[34043]=`<b>ἐν·ασμενίζω</b>, se plaire à <i>ou</i> dans, <i>dat</i>. PHIL. <i>1, 36 ; 2, 259</i> ; CORN. <i>117</i>.`

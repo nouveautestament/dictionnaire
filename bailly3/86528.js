@@ -1,1 +1,0 @@
-lar[86528]=`<b>προσ·υλακτέω-ῶ</b> <font color="purple">[ῠ]</font> aboyer contre <i>ou</i> à, <i>dat. fig</i>. DH. <i>Thuc. 2</i> ; THÉM. <i>205d</i>.`

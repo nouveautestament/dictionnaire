@@ -1,1 +1,0 @@
-lar[48581]=`<b>ἱερό·δακρυς, υς, υ</b> <font color="purple">[ᾰ]</font> aux larmes saintes, <i>en parl. de l’encens,</i> MÉLANIPPIDÈS (ATH. <i>651f</i>).<p><b>Étym</b>. ἱ. δάκρυ.`

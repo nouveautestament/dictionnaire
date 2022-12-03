@@ -1,1 +1,0 @@
-lar[23373]=`<b>ή, όν</b>, du laurier ; τὰ Δαφνιακά, ANTH. <i>6, 80,</i> Chants du laurier, <i>recueil de poésies</i>.<p><b>Étym</b>. δάφνη.`

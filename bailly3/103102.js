@@ -1,1 +1,0 @@
-lar[103102]=`<b>ὑπο·γυμνάζω</b>, exercer peu à peu, HÉRACLITE GRAMM. <i>All. Hom. 103</i>.`

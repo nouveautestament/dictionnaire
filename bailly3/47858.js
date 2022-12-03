@@ -1,1 +1,0 @@
-lar[47858]=`<b>θυλακο·ειδής, ής, ές</b> <font color="purple">[ῡᾰ]</font> en forme de sac, de bourse, ARSTT. <i>H.A. 5, 11, 2</i>.<p><b>Étym</b>. θ. εἶδος.`

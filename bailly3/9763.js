@@ -1,1 +1,0 @@
-lar[9763]=`<b>ἀντι·βασιλεύς, έως (ὁ)</b> <font color="purple">[βᾰ]</font> interroi, <i>litt</i>. qui tient la place d’un roi, DH. <i>9, 69</i>.`

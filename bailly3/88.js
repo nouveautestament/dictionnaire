@@ -1,1 +1,0 @@
-lar[88]=`<b>ἀ·βέλτερος, α, ον</b> <font color="purple">[ᾰβ]</font> sot, stupide, AR. <i>Nub. 1201</i> ; PLAT. <i>Phil. 48c ;</i> DÉM. <i>449, 26</i>.<p>•<i> Sup</i>. -ώτατος, AR. <i>Ran. 989</i>.<p><b>Étym</b>. inconnue ; le rapport avec βέλτερος est improbable (Beekes).`

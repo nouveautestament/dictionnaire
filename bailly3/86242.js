@@ -1,1 +1,0 @@
-lar[86242]=`<b>ῆς (ἡ) :<br>      1</b> action d’aborder, d’atterrir, JAMBL. <i>V. Pyth. p. 46</i>.<br><b>      2</b> action de s’appliquer à, attention, DH. <i>6, 85</i> ; PLUT. <i>M. 514e ;</i> LUC. <i>H. conscr. 53, etc</i>.<p><b>Étym</b>. προσέχω.`

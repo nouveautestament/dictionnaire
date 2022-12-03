@@ -1,1 +1,0 @@
-lar[105803]=`<b>φιλο·θύτης, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> <i>c</i>. φιλόθυτος AR. <i>Vesp. 82</i> ; ANT. <i>117, 34</i> ; PLUT. <i>M. 631a, etc. ; titre d’une comédie de Métagène</i>.`

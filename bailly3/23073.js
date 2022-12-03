@@ -1,1 +1,0 @@
-lar[23073]=`<b>δακτυλό·δεικτος, ος, ον</b> <font color="purple">[ῠ]</font> que l’on montre du doigt, célèbre, ESCHL. <i>Ag. 1332 (ms</i>. -δεικτῶν ; <i>sel. d’autres, part. prés. de</i> -δεικτέω).<p><b>Étym</b>. δάκτυλος, <i>vb. de</i> δείκνυμι.`

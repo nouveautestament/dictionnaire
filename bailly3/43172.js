@@ -1,1 +1,0 @@
-lar[43172]=`<b>εὑρεσί·τεχνος, ος, ον</b> <font color="purple">[ῐ]</font> inventeur des arts, ORPH. <i>H. 31, 14</i>.<p><b>Étym</b>. εὑρίσκω, τέχνη.`

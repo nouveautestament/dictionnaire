@@ -1,1 +1,0 @@
-lar[10000]=`<b>ἀντικτυπέω-ῶ</b> <font color="darkgreen">(<i>ao.2</i> ἀντέκτυπον)</font> <font color="purple">[ῠ]</font> retentir de, renvoyer le bruit de, <i>dat</i>. ANTH. <i>14, 10</i> ; A. PL. <i>4, 221</i>.<p><b>Étym</b>. ἀντίκτυπος.`

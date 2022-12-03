@@ -1,1 +1,0 @@
-lar[62073]=`<b>λυσι·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῡῐῐ]</font> dont la tunique est dénouée <i>ou</i> flottante, NONN. <i>D. 5, 407</i>.<p><b>Étym</b>. λ. χιτών.`

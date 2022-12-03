@@ -1,1 +1,0 @@
-lar[61]=`<b>ἀ·βάσκαντον, ου (τὸ)</b> <font color="purple">[ᾰβ]</font> ce qui met à l’abri des maléfices, amulette, DIOSC. <i>3, 105</i>.<p><b>Étym</b>. ἀ, βασκαίνω.`

@@ -1,1 +1,0 @@
-lar[2438]=`<b>αἰθερο·βόσκας, ου (ὁ)</b> <font color="purple">[ᾱ]</font> qui trouve sa pâture <i>ou</i> vit dans les airs, DL. <i>6, 76</i>.<p><b>Étym</b>. αἰθ. βόσκω.`

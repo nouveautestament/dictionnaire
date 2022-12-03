@@ -1,1 +1,0 @@
-lar[2935]=`<b>ος, ον</b>, d’Ésope, ésopique, ARSTT. <i>Rhet. 2, 20, etc</i>.`

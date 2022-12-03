@@ -1,1 +1,0 @@
-lar[89938]=`<b>ῆρος (ὁ) :<br>   I</b> qui donne le signal <i>ou</i> les ordres, <i>d’où</i> :<br><b>      1</b> conducteur d’un troupeau, pâtre, A.RH. <i>1, 575</i>.<br><b>      2</b> maître, possesseur, A.RH. <i>3, 1403</i>.<br><b>   II</b> ce qui marque d’un signe, sceau, JOS. <i>A.J. 11, 6, 12, etc</i>.`

@@ -1,1 +1,0 @@
-lar[19969]=`<b>ίδος</b>, <i>adj. f</i>. qui enlève le miel de la ruche, ANTH. <i>9, 226</i>.<p><b>Étym</b>. βλίττω.`

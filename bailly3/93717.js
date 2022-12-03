@@ -1,1 +1,0 @@
-lar[93717]=`<b>συκο·τράγος, ος, ον</b> <font color="purple">[ῡᾰ]</font> qui mange des figues, EL. <i>N.A. 17, 31</i>.<p><b>Étym</b>. σῦκον, τρώγω.`

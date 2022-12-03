@@ -1,1 +1,0 @@
-lar[28249]=`<b>δυσ·αφαίρετος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à ôter, ARSTT. <i>H.A. 5, 31</i> ; NIC. <i>1, 5, 4</i>.<p><b>Étym</b>. δ. ἀφαιρέω.`

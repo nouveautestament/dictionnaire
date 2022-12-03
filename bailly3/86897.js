@@ -1,1 +1,0 @@
-lar[86897]=`<b>προ·ϋποτυπόω-ῶ</b> <font color="purple">[ῠ]</font> décrire <i>ou</i> représenter d’avance, PHIL. <i>1, 493, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. DS. <i>Exc. 586</i>.`

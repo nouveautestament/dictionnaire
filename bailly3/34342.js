@@ -1,1 +1,0 @@
-lar[34342]=`<b>ἐνεο·στασίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> mutisme, <i>d’où</i> stupeur, A.RH. <i>3, 76</i>.<p><b>Étym</b>. ἐνεός, στατός.`

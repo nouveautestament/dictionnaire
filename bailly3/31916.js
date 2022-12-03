@@ -1,1 +1,0 @@
-lar[31916]=`<b>ἐκ·πορεύω</b>, faire sortir, emmener : τινὰ δόμων, EUR. <i>Ph. 1068,</i> qqn d’une maison.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. pass</i>. ἐξεπορεύθην)</font> s’éloigner, sortir, XÉN. <i>An. 5, 1, 8 ; avec</i> ἐκ <i>et le gén</i>. POL. <i>6, 58, 4 ; avec l’acc</i>. ἐκπ. τὸ βουλευτήριον, POL. <i>11, 9, 8,</i> sortir de la salle du conseil.`

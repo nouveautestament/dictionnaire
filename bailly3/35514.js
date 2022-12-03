@@ -1,1 +1,0 @@
-lar[35514]=`<b>ἐξ·απαείρω</b> <font color="purple">[ᾰᾰ]</font> (<i>seul. impf. poét</i>. ἐξαπάειρον) enlever, emporter, PHILOX. (ATH. <i>147e</i>).<p><b>Étym</b>. ἐξ, ἀπαείρω.`

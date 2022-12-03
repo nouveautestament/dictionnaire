@@ -1,1 +1,0 @@
-lar[13950]=`<b>ἀ·προσήγορος, ος, ον :<br>      1</b> à qui l’on ne peut adresser la parole, SOPH. <i>O.C. 1277 ; d’où</i> terrible, SOPH. <i>Tr. 1093</i>.<br><b>      2</b> qui n’adresse la parole à personne, insociable, PLUT. <i>M. 679a</i>.`

@@ -1,1 +1,0 @@
-lar[70353]=`<b>ή, όν</b>, habité, SOPH. <i>O.C. 28, 39</i>.<p>➳ <i>Fém</i>. -ός, PHILSTR. <i>Im. 2, 28</i>.<p><b>Étym</b>. <i>vb. de</i> οἰκέω.`

@@ -1,1 +1,0 @@
-lar[33167]=`<b>ἐμβρυο·κτόνος, ος, ον</b>, qui fait mourir un fœtus dans le sein de la mère, BAS. <i>4, 677a Migne</i>.<p><b>Étym</b>. ἔμβρυον, κτείνω.`

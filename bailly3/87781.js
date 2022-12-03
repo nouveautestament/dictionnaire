@@ -1,1 +1,0 @@
-lar[87781]=`<b>πυργό·βαρις, εως (ἡ)</b> <font color="purple">[ᾱ]</font> ouvrages avancés garnis de tours, SPT. <i>Ps. 121, 7</i>.<p><b>Étym</b>. πύργος, βᾶρις.`

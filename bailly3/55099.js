@@ -1,1 +1,0 @@
-lar[55099]=`<b>κεφαλο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui apparaît avec une tête, HPC. <i>534, 41</i>.<br><b>      2</b> en forme de tête, ŒNOM. (EUS. <i>P.E. 5, p. 234b</i>).<p><b>Étym</b>. κεφαλή, εἶδος.`

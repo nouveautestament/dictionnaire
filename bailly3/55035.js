@@ -1,1 +1,0 @@
-lar[55035]=`<b>ου (ἡ)</b> grain de mil, millet, GAL.<p><b>Étym</b>. <i>ion. c</i>. κέγχρος.`

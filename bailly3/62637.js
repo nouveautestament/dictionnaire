@@ -1,1 +1,0 @@
-lar[62637]=`<b>μαλακο·πύρηνος, ος, ον</b> <font color="purple">[ᾰᾰῠ]</font> dont le pépin <i>ou</i> le noyau est mou, tendre, TH. <i>C.P. 2, 11, 7</i>.<p><b>Étym</b>. μ. πυρήν.`

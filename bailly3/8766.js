@@ -1,1 +1,0 @@
-lar[8766]=`PLAT. <i>Rsp. 424b ;</i> ARSTT. <i>Nic. 4, 11, 14, et</i> ἀνθεκτέα, THC. <i>1, 93, vb. de</i> ἀντέχω.`

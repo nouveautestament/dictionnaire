@@ -1,1 +1,0 @@
-lar[102785]=`<b>ὑπέρ·πυρος, ος, ον</b> <font color="purple">[πῠ]</font><br><b>      1</b> extrêmement enflammé <i>ou</i> ardent, ARSTT. <i>Respir. 14, 7</i> ; TH. <i>H.P. 1, 21, 5</i>.<br><b>      2</b> qu’on place sur le feu, qu’on brûle, DH. <i>2, 31 ; 6, 14</i>.<p><b>Étym</b>. ὑ. πῦρ.`

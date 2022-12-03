@@ -1,1 +1,0 @@
-lar[1445]=`<b>ἀ·διόρθωτος, ος, ον :<br>   I</b> non redressé, DÉM. <i>50, 18 ; en parl. de livres,</i> non corrigé, CIC. <i>Att. 13, 21</i>.<br><b>   II</b> que l’on ne peut redresser <i>ou</i> améliorer, <i>d’où</i> :<br><b>      1</b> incorrigible, EPICT. <i>fr. 106</i>.<br><b>      2</b> irrémédiable, DH. <i>6, 20</i> ; APP. <i>Civ. 3, 90</i>.<p><b>Étym</b>. ἀ, διορθόω.`

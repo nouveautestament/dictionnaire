@@ -1,1 +1,0 @@
-lar[79473]=`<b>ατος (τὸ)</b> enceinte de fortifications, THC. <i>3, 25 ; 5, 2</i> ; XÉN. <i>Hell. 1, 3, 5, etc</i>.<p><b>Étym</b>. περιτειχίζω.`

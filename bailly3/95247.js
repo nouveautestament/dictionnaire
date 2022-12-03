@@ -1,1 +1,0 @@
-lar[95247]=`<b>συν·εγείρω</b>, éveiller <i>ou</i> raviver en même temps, PHOCYL. <i>fr. 140 Bgk</i> ; NT. <i>Eph. 2, 6 ; fig</i>. PLUT. <i>M. 117c ; au pass</i>. SPT. <i>Esaï. 14, 9</i> ; NT. <i>Col. 2, 12 ; 3, 1</i>.`

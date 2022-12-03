@@ -1,1 +1,0 @@
-lar[39117]=`<b>ἐπιστεφανόω-ῶ</b> <font color="purple">[ᾰ]</font> couvrir d’une couronne, <i>acc</i>. PD. <i>O. 9 fin</i> ; ANTH. <i>App. 246 fin</i>.`

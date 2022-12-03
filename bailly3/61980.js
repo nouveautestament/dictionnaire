@@ -1,1 +1,0 @@
-lar[61980]=`<b>ου</b>, <i>adj. m</i>. de Lyrna, <i>autre n. de Lyrnèssos,</i> ESCHL. <i>Pers. 324</i>.<p><b>Étym</b>. <i>v</i>. Λυρνησσίς, Λυρνησσός.`

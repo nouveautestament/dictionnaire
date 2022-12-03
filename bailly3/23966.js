@@ -1,1 +1,0 @@
-lar[23966]=`<b>δερμό·πτερος, ος, ον</b>, qui a les ailes membraneuses (<i>litt</i>. de peau dure) ARSTT. <i>H.A. 1, 1, 20 ; 1, 5, 11</i>.<p><b>Étym</b>. δέρμα, πτερόν.`

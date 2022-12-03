@@ -1,1 +1,0 @@
-lar[67854]=`<b>νεα·γενής, ής, ές</b> <font color="purple">[ᾱ]</font> <i>dor. c</i>. νεηγενής, EUR. <i>I.A. 1623</i>.`

@@ -1,1 +1,0 @@
-lar[73993]=`<b>ὀψι·ανθής, ής, ές</b>, qui fleurit tardivement, TH. <i>H.P. 6, 4, 4</i>.<p><b>Étym</b>. ὀψέ, ἀνθέω.`

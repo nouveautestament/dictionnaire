@@ -1,1 +1,0 @@
-lar[55559]=`<b>(τὸ)</b> la plaine Kirkæon, <i>en Colchide,</i> A.RH. <i>2, 400</i>.`

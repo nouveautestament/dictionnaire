@@ -1,1 +1,0 @@
-lar[108704]=`<b>χολ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui fait couler (<i>litt</i>. qui entraîne) la bile, GAL. <i>Hipp. Aph. comm. 17-2, 158</i> ; A. TR. <i>1, p. 33</i>.<p><b>Étym</b>. χολή, ἄγω.`

@@ -1,1 +1,0 @@
-lar[18789]=`<b>βαθύ·πλοκος, ος, ον</b> <font color="purple">[ᾰυ]</font> <i>seul. cp</i>. -ώτερος, profondément enchevêtré, <i>d’où</i> équivoque, perplexe, EUN. <i>89, 5</i>.<p><b>Étym</b>. β. πλέκω.`

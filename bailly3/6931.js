@@ -1,1 +1,0 @@
-lar[6931]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> soulèvement, HPC. <i>364, 5</i>.`

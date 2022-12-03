@@ -1,1 +1,0 @@
-lar[39632]=`<b>ατος (τὸ) :<br>      1</b> exclamation, PLUT. <i>Alex. 3</i>.<br><b>      2</b> interjection, HSCH. <i>v°</i> κόγξ, <i>v°</i> σίττα, <i>v°</i> τορέλλη ; HÉPH. <i>p. 127, 4</i>.<br><b>      3</b> épiphonème, sentence finale, morale, DH. <i>Rhet. 10, 18</i> ; D. PHAL. <i>106, 109</i>.<p><b>Étym</b>. ἐπιφωνέω.`

@@ -1,1 +1,0 @@
-lar[32090]=`<b>ἐκ·ταλαντόω-ῶ</b> <font color="purple">[τᾰ]</font> dépouiller de son argent, SOPATR. (ATH. <i>230e</i>).<p><b>Étym</b>. ἐκ, τάλαντον.`

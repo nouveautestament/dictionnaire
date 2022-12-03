@@ -1,1 +1,0 @@
-lar[100239]=`<b>τρι·θάλαττος, ος, ον</b> <font color="purple">[ῐθᾰ]</font> entouré de trois mers, STR. <i>400, parl. de la Béotie</i>.<p><b>Étym</b>. τρεῖς, θάλαττα.`

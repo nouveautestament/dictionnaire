@@ -1,1 +1,0 @@
-lar[6036]=`<b>ἀμφ·ήρης, ης, ες :<br>      1</b> à deux rames : ἀ. δόρυ, EUR. <i>Cycl. 15,</i> la nef mue des deux côtés par les avirons.<br><b>      2</b> ajusté tout autour, <i>en parl. du bois d’un bûcher funéraire, d’une tente,</i> EUR. <i>H.f. 243, Ion 1128</i>.<p><b>Étym</b>. ἀ. <i>et, p. le sens</i> 1, ἐρέσσω ; <i>p. le sens</i> 2, ἀραρίσκω.`

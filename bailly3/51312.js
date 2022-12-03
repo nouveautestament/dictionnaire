@@ -1,1 +1,0 @@
-lar[51312]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> beauté, CHRYSIPP. (PLUT. <i>M. 441b</i>).<p><b>Étym</b>. καλός.`

@@ -1,1 +1,0 @@
-lar[20643]=`(<i>seul. prés., confond ses autres temps avec ceux de</i> βράσσω) gronder, murmurer, <i>d’où</i> :<br><b>      1</b> bouillir, bouillonner, jeter de l’écume, CALLIAS (MACR. <i>Sat. 5, 19</i>) ; HLD. <i>5, 16</i>.<br><b>      2</b> gronder, grogner, <i>en parl. de l’ours,</i> JUBA (POLL. <i>5, 88</i>).`

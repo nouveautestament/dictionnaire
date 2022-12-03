@@ -1,1 +1,0 @@
-lar[101448]=`<b>ὑδαρ·ώδης, ης, ες</b> <font color="purple">[ῠᾰ]</font> aqueux, rempli <i>ou</i> imprégné d’eau, ARSTT. <i>Plant. 2, 6, 3</i> ; A. TR. <i>8, p. 429</i>.<p><b>Étym</b>. ὑδαρής, -ωδης.`

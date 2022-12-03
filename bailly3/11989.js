@@ -1,1 +1,0 @@
-lar[11989]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾱ]</font> <i>s.-e</i>. γῆ, la terre d’Apis, <i>roi d’Argos, càd</i>. le Péloponnèse, THCR. <i>Idyl. 25, 183</i>.<p><b>Étym</b>. Ἆπις.`

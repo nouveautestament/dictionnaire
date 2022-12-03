@@ -1,1 +1,0 @@
-lar[105728]=`<b>φιλο·γραφέω-ῶ</b> <font color="purple">[ῐᾰ]</font> aimer la peinture, PLUT. <i>M. 1093d</i>.<p><b>Étym</b>. φ. γραφή.`

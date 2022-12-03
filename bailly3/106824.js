@@ -1,1 +1,0 @@
-lar[106824]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> <i>c</i>. φρεατιαῖος GEOP. <i>2, 6, 33</i>.`

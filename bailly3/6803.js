@@ -1,1 +1,0 @@
-lar[6803]=`<b>ἀνα·θορυβέω-ῶ</b> <font color="purple">[ῠ]</font> acclamer bruyamment, applaudir, XÉN. <i>An. 5, 1, 3, etc.</i> ; PLAT. <i>Prot. 334c, etc. ; avec l’acc</i>. PLAT. <i>Conv. 198a</i>.`

@@ -1,1 +1,0 @@
-lar[62299]=`<b>ου (ὁ)</b> cabillaud, <i>poisson,</i> TH. <i>fr. 12, 2</i>.`

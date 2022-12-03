@@ -1,1 +1,0 @@
-lar[100446]=`<b>τρισ·θανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui mérite trois fois la mort, ANTH. <i>8, 170</i>.<p><b>Étym</b>. τρ. θνῄσκω.`

@@ -1,1 +1,0 @@
-lar[8232]=`<i>adv</i>., sans pouvoir chauffer <i>ou</i> réchauffer, ANTYLL. <i>256</i>.`

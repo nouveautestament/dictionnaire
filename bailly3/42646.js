@@ -1,1 +1,0 @@
-lar[42646]=`<b>εὔ·μαχος, ος, ον</b> <font color="purple">[ᾰ]</font> bon <i>ou</i> facile à combattre, M. TYR. <i>26, 2, au</i> <i>• Sup</i>. -ώτατος.<p><b>Étym</b>. εὖ, μάχομαι.`

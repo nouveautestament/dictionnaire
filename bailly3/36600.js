@@ -1,1 +1,0 @@
-lar[36600]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> récapitulation, APSIN.<p><b>Étym</b>. <i>v</i>. ἐπανακεφαλαιόομαι.`

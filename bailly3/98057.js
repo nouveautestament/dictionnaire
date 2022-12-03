@@ -1,1 +1,0 @@
-lar[98057]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. τεκνίον AR. <i>Lys. 889</i>.`

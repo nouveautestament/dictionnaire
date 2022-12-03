@@ -1,1 +1,0 @@
-lar[49143]=`<b>ἰο·πάρειος, ος, ον</b> <font color="purple">[ῑᾰ]</font> aux joues de violette, <i>càd</i>. d’un rouge violacé, <i>ou, sel. d’autres,</i> tendres, délicates, J. GÉOM. <i>H. in Virg. 867 Migne</i>.<p><b>Étym</b>. ἴον, παρειά.`

@@ -1,1 +1,0 @@
-lar[59574]=`<b>λαιψηρο·δρόμος, ος, ον</b>, qui court légèrement, rapidement, EUR. <i>I.A. 207</i>.<p><b>Étym</b>. λαιψηρός, δραμεῖν.`

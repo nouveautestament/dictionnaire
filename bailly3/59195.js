@@ -1,1 +1,0 @@
-lar[59195]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Kômyros, <i>surn. de Zeus,</i> LYC. <i>459</i>.`

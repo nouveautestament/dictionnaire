@@ -1,1 +1,0 @@
-lar[91378]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> de cordonnier, AR. <i>Eccl. 432</i> ; ὁ σκ. PLAT. <i>Rsp. 443c</i>, cordonnier ; ἡ σκυτοτομικὴ τέχνη, ESCHN. <i>14, 1 ; ou subst</i>. ἡ σκυτοτομική (<i>s.-e</i>. τέχνη), PLAT. <i>Rsp. 333a</i>, art du cordonnier.<p><b>Étym</b>. σκυτοτόμος.`

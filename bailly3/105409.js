@@ -1,1 +1,0 @@
-lar[105409]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰᾰ]</font> amour du bien, PHIL. <i>2, 136</i> ; CLÉM. <i>139, etc</i>.<p><b>Étym</b>. φιλάγαθος.`

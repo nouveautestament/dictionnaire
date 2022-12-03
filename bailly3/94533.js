@@ -1,1 +1,0 @@
-lar[94533]=`<b>ή, όν</b> <font color="purple">[ᾰγ]</font> qui se rassemble d’ordinaire en troupeau <i>ou</i> en troupe, <i>en parl. de poissons,</i> ARSTT. <i>fr. 302</i> ; PORPH. <i>Abst. 3, 11 ; de pers</i>. PLUT. <i>Lyc. c. Num. 4</i> ; HIÉROCL. (STOB. <i>Fl. 67, 22</i>) ; τὸ σ. ARTÉM. <i>2, 20,</i> l’habitude de vivre en troupe.<p><b>Étym</b>. συναγελάζω.`

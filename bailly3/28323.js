@@ -1,1 +1,0 @@
-lar[28323]=`<b>δυσ·εγκαρτέρητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à supporter, SEXT. <i>M. 9, 152</i>.<p><b>Étym</b>. δ. ἐγκαρτερέω.`

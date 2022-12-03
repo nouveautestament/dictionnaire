@@ -1,1 +1,0 @@
-lar[48755]=`<b>ἰθύ·ρροπος, ος, ον</b> <font color="purple">[ῑ]</font> qui penche en ligne droite, HPC. <i>Art. 809</i>.<p><b>Étym</b>. ἰ. ῥέπω.`

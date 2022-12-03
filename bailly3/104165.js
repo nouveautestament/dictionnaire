@@ -1,1 +1,0 @@
-lar[104165]=`<b>ὑπό·χλωρος, ος, ον :<br>      1</b> verdâtre, HPC. <i>40, 15 ; 1120e, 1136f.</i><br><b>      2</b> un peu pâle, un peu blême, HPC. <i>Progn. 401, Fract. 760</i> ; ARSTT. <i>H.A. 9, 14, 1</i>.<p><b>Étym</b>. ὑ. χλωρός.`

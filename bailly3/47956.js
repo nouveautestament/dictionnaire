@@ -1,1 +1,0 @@
-lar[47956]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Thymôdès, <i>h</i>. ANTH. <i>7, 497</i>.<p><b>Étym</b>. <i>v</i>. θυμώδης¹.`

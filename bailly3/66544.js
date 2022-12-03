@@ -1,1 +1,0 @@
-lar[66544]=`<b>μονό·θυρος, ος, ον</b> <font color="purple">[ῠ]</font> qui n’a qu’une porte, <i>d’où</i> univalve, <i>t. de zool</i>. ARSTT. <i>H.A. 4, 4, 3</i>.<p><b>Étym</b>. μ. θύρα.`

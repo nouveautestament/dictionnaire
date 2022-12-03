@@ -1,1 +1,0 @@
-lar[80677]=`<b>ης, ες</b> <font color="purple">[μᾰ]</font> feint, fictif, imaginaire, ARSTT. <i>G.A. 4, 1, 12</i> ; PLUT. <i>Rom. 8, etc</i>.<p><b>Étym</b>. πλάσμα, -ωδης.`

@@ -1,1 +1,0 @@
-lar[14886]=`<b>ή, όν</b>, d’Arménie, STR. <i>530</i> ; DIOSC. <i>4, 48, etc.</i> ; PLUT. <i>Pomp. 31, etc</i>.<p><b>Étym</b>. Ἀρμενία.`

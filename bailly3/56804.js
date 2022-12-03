@@ -1,1 +1,0 @@
-lar[56804]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font> écrivain d’un style haché, coupé, PHILSTR. <i>V. soph. 2, 29</i>.<p><b>Étym</b>. κόμμα.`

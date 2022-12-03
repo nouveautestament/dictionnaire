@@ -1,1 +1,0 @@
-lar[76558]=`<font color="darkgreen">(<i>part. prés. épq</i>. παρεδριόων)</font> <i>c</i>. παρεδρεύω, A.RH. <i>2, 1040</i>.`

@@ -1,1 +1,0 @@
-lar[27497]=`<b>ου (ὁ)</b> = Dŏmĭtĭus, <i>n. d’h. romain,</i> POL. <i>30, 10</i> ; PLUT. <i>Sert. 12, Pomp. 67 et 69, Ant. 87 ; cf</i>. Δομίτιος.`

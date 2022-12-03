@@ -1,1 +1,0 @@
-lar[23131]=`<b>α, ον</b> <font color="purple">[δᾰ]</font> qu’il faut dompter, GEOP. <i>16, 1, 11</i>.<p><b>Étym</b>. <i>vb. de</i> δαμάζω.`

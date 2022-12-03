@@ -1,1 +1,0 @@
-lar[108310]=`<b>χερσο·ειδής, ής, ές</b>, semblable à la terre ferme, DH. <i>2, 63</i>.<p><b>Étym</b>. χέρσος, εἶδος.`

@@ -1,1 +1,0 @@
-lar[24443]=`<b>δια·βόρειος, ος, ον</b>, situé <i>ou</i> exposé au nord, STR. <i>86 dout</i>.<p><b>Étym</b>. διά, βορέας.`

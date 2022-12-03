@@ -1,1 +1,0 @@
-lar[57157]=`<b>ου (ὁ)</b> Korydos, <i>parasite,</i> ATH. <i>241a, etc</i>.`

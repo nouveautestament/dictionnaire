@@ -1,1 +1,0 @@
-lar[48002]=`<font color="purple">[ῠᾱ]</font> <i>adv.</i> :<br><b>      1</b> à la porte, dehors, EUR. <i>El. 1074</i> ; AR. <i>Vesp. 891, etc.</i><br><b>      2</b> au dehors, à l’étranger. SOPH. <i>O.C. 401</i>.<p><b>Étym</b>. θύρα.`

@@ -1,1 +1,0 @@
-lar[449]=`<font color="purple">[ᾰ]</font> <i>poét. c</i>. ἤγε, <i>v</i>. ἄγω.`

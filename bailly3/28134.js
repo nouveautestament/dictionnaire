@@ -1,1 +1,0 @@
-lar[28134]=`<b>δυσαγρέω-ῶ</b> (<i>part. prés</i>. -ῶν) <font color="purple">[ῠ]</font> être malheureux à la chasse <i>ou</i> à la pêche, PLUT. <i>Ant. 29</i>.<p><b>Étym</b>. δυσαγρής.`

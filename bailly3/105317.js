@@ -1,1 +1,0 @@
-lar[105317]=`<b>φθιν·οπωρίς, ίδος</b> <font color="purple">[ῐῐδ]</font> <i>adj. f. c</i>. φθινοπωρινός PD. <i>P. 5, 161 ; subst</i>. ἡ φθ. (<i>s.-e</i>. ἐλαία) CALL. <i>fr. 50,</i> sorte d’olive, <i>c</i>. κολυμβάς.`

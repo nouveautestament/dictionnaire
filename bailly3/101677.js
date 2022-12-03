@@ -1,1 +1,0 @@
-lar[101677]=`<b>ὑλάδια σῦκα (τὰ)</b> sorte de figues, ATH. <i>78a</i>.`

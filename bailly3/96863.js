@@ -1,1 +1,0 @@
-lar[96863]=`<b>ου (ὁ) :<br>      1</b> pieu, AR. <i>Pl. 301</i>.<br><b>      2</b> <i>p. suite,</i> linteau de porte, ARSTT. <i>Ath. 65, 2</i> ; palissade, POL. <i>5, 89, 6 ; p. anal</i>. corps <i>ou</i> nombre dont les parties sont inégalement distantes les unes des autres, NICOM. <i>Arithm. 2, 6, p. 128 Ast</i>.<p><b>Étym</b>. σφήξ.`

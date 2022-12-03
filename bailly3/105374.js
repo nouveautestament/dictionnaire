@@ -1,1 +1,0 @@
-lar[105374]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. Φιγαλεύς, ANTH. <i>App. 116</i> ; CIA. <i>2, 332, 25, 39 (271/265 av. J.-C.) ; v. Meisterh. p. 59, 5</i>.`

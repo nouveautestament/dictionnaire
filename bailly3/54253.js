@@ -1,1 +1,0 @@
-lar[54253]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui purge par le bas, HPC. <i>1147e, etc</i>.<p><b>Étym</b>. κατώτερος.`

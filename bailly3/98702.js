@@ -1,1 +1,0 @@
-lar[98702]=`<b>τετρά·φοροι, ων (οἱ)</b> = <i>lat</i>. tetraphori, qui portent un fardeau à quatre, VITR.<p><b>Étym</b>. τ. φέρω.`

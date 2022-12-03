@@ -1,1 +1,0 @@
-lar[78442]=`<b>ατος (τὸ) :<br>      1</b> rempart, PLAT. <i>Pol. 288b.</i><br><b>      2</b> vêtement, DÉMOCR. (ATH. <i>525d</i>).<p><b>Étym</b>. περιβάλλω.`

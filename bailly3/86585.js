@@ -1,1 +1,0 @@
-lar[86585]=`<b>προσ·υψόω-ῶ</b>, élever encore, exhausser, SPT. <i>1Macc. 13, 26</i> ; JOS. <i>B.J. 3, 7, 30, etc</i>.`

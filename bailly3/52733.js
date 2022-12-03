@@ -1,1 +1,0 @@
-lar[52733]=`<b>ος, ον</b>, sujet à condamnation, ANT. <i>129, 4</i>.<p><b>Étym</b>. καταλαμβάνω.`

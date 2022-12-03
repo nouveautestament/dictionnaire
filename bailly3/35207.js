@@ -1,1 +1,0 @@
-lar[35207]=`<b>όος-οῦς (ἡ)</b> <font color="purple">[ῡ]</font> Ényô :<br><b>      1</b> déesse de la guerre, IL. <i>5, 333, 592</i> ; ESCHL. <i>Sept. 45, etc.</i><br><b>      2</b> l’une des Grées (<i>v</i>. Γραῖαι) HÉS. <i>Th. 273</i>.`

@@ -1,1 +1,0 @@
-lar[10204]=`<b>ἀντι·παρ·εκδύομαι</b>, se montrer par contraste, SYN. <i>17b</i>.<p><b>Étym</b>. ἀ. παρά, ἐκδ.`

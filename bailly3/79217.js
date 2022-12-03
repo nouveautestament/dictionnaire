@@ -1,1 +1,0 @@
-lar[79217]=`<b>περι·ρρηδής, ής, ές :<br>      1</b> qui glisse <i>ou</i> tombe des deux côtés, HPC. <i>659, 50 ; Art. 792</i> ; GAL. <i>12, 328</i>.<br><b>      2</b> qui glisse <i>ou</i> tombe sur, <i>dat</i>. OD. <i>22, 84</i>.<p><b>Étym</b>. π. <i>p.-ê</i>. ῥαδινός.`

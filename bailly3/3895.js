@@ -1,1 +1,0 @@
-lar[3895]=`<b>ας (ἡ)</b> le supplice de l’amputation des extrémités (<i>cf</i>. ἀκρωτηριασμός) ESCHL. <i>Eum. 187</i>.<p><b>Étym</b>. ἄκρος.`

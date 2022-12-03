@@ -1,1 +1,0 @@
-lar[105825]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., avec le goût des belles choses, avec élégance, GAL. <i>14, 218</i> ; JOS. <i>A.J. 12, 2, 1</i>.<p>•<i> Cp</i>. -ώτερον, GEOP. <i>5, 26, 10, etc</i>.`

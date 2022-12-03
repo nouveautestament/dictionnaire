@@ -1,1 +1,0 @@
-lar[105017]=`<b>ου (ὁ)</b> <i>masc. de</i> φάττα, <i>forgé par</i> LUC. <i>Pseud. 7, comme un exemple de mauvais mot</i>.`

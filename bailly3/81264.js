@@ -1,1 +1,0 @@
-lar[81264]=`<b>ποδ·ένδυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui tombe jusque sur les pieds, ESCHL. <i>Ch. 998</i>.<p><b>Étym</b>. πούς, ἐνδύω.`

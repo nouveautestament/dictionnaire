@@ -1,1 +1,0 @@
-lar[74142]=`<b>πάγ·κρεας, ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> pancréas, ARSTT. <i>H.A. 3, 4, 5 ; fig. sobriquet de Pyrrhon,</i> DL. <i>4, 33</i>.<p><b>Étym</b>. π. κρέας.`

@@ -1,1 +1,0 @@
-lar[69272]=`<font color="purple">[ῠ]</font> veiller, passer la nuit en veillant, EUR. <i>Rhes. 520</i> ; ν. νύμφαις, NIC. (ATH. <i>683b</i>) avec les nymphes.<p><b>Étym</b>. νύξ.`

@@ -1,1 +1,0 @@
-lar[75483]=`<b>παρά·δακρυ (τὸ)</b> autre n. de la <i>plante</i> βούνιον, DIOSC. <i>Noth. 4, 124</i>.`

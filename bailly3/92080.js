@@ -1,1 +1,0 @@
-lar[92080]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> stabilité, fixité, EUSTR. <i>Nic. 98, 34</i>.<p><b>Étym</b>. σταθερός.`

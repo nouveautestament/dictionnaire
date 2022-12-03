@@ -1,1 +1,0 @@
-lar[19314]=`<b>ῶν (οἱ)</b> les Bassides <i>ou</i> descendants de Bassos, <i>famille d’Égine,</i> PD. <i>N. 6, 53</i>.<p><b>Étym</b>. βάσσος.`

@@ -1,1 +1,0 @@
-lar[86397]=`<b>προσ·σημαίνω</b>, signifier en outre, ARSTT. <i>Interpr. 3, 1 ; Rhet. 1, 13, 10 ; Poet. 20, 9</i>.`

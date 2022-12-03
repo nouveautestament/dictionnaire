@@ -1,1 +1,0 @@
-lar[87937]=`<b>πυρο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à du feu, PLAT. <i>Leg. 895c ;</i> ARSTT. <i>Gen. et corr. 2, 3, 5</i>.<p><b>Étym</b>. π. εἶδος.`

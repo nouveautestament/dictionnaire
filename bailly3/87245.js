@@ -1,1 +1,0 @@
-lar[87245]=`<b>πρωτο·πραξία, ας (ἡ)</b> privilège d’un créancier remboursable le premier, PLIN. MIN. <i>Ep. 10, 109</i>.<p><b>Étym</b>. πρ. πράσσω.`

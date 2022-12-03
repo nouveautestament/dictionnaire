@@ -1,1 +1,0 @@
-lar[52846]=`<b>κατα·μιμνῄσκομαι</b> <font color="darkgreen">(<i>ao</i>. κατεμνήσθην)</font> se rappeler, <i>acc</i>. JOS. <i>Macc. 13, 2</i>.`

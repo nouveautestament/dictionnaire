@@ -1,1 +1,0 @@
-lar[2001]=`<b>ἄ·θεσμος, ος, ον</b>, illicite, inique, criminel, PLUT. <i>Cæs. 10</i>.<p><b>Étym</b>. ἀ, θεσμός.`

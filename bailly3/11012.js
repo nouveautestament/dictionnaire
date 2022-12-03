@@ -1,1 +1,0 @@
-lar[11012]=`<b>ἀ·οίκητος, ος, ον :<br>      1</b> inhabité, inhabitable, HDT. <i>2, 34, etc.</i> ; PLAT. <i>Leg. 778b ;</i> ISOCR. <i>71d, etc.</i><br><b>      2</b> sans maison, DÉM. <i>1123, 2</i> ; LUC. <i>Gall. 17</i>.<p><b>Étym</b>. ἀ, οἰκέω ; <i>cf</i>. ἀνοίκητος.`

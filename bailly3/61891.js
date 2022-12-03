@@ -1,1 +1,0 @@
-lar[61891]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> de Lycomède, ANTH. <i>6, 276</i>.<p><b>Étym</b>. Λυκομήδης.`

@@ -1,1 +1,0 @@
-lar[61401]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. escarpée, ESCHL. <i>Suppl. 794</i> ; EUR. <i>H.f. 1148, etc.</i> ; PLUT. <i>M. 90d ;</i> lisse, THCR. <i>Idyl. 22, 37</i> ; ἡ λ. roche unie, lisse, OPP. <i>H. 2, 320</i> ; PLUT. <i>Mar. 23, etc</i>.<p><b>Étym</b>. λισσός.`

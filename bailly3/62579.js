@@ -1,1 +1,0 @@
-lar[62579]=`<b>μακρό·φυλλος, ος, ον</b>, aux longues feuilles, DIOSC. <i>3, 31</i>.<p><b>Étym</b>. μ. φύλλον.`

@@ -1,1 +1,0 @@
-lar[65701]=`<b>μικρο·καμπής, ής, ές</b> <font color="purple">[ῑ]</font> un peu recourbé, P. ÉG. <i>6, 18</i> ; ORIB. <i>p. 50 Mai</i>.<p><b>Étym</b>. μ. κάμπτω.`

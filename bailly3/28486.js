@@ -1,1 +1,0 @@
-lar[28486]=`<b>Δύσ·ηρις</b>, <i>gén</i>. <b>ιδος (ἡ)</b> <font color="purple">[ῠ]</font> Dysèris, <i>f</i>. ANACR. <i>109, 1</i> ; HPC. <i>1149c</i>.<p><b>Étym</b>. δύσηρις.`

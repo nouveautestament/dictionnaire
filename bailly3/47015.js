@@ -1,1 +1,0 @@
-lar[47015]=`<b>θεσμο·τόκος, ος, ον</b>, qui crée (<i>litt</i>. qui enfante) des lois, NONN. <i>Jo. 9, 146</i>.<p><b>Étym</b>. θ. τίκτω.`

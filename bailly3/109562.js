@@ -1,1 +1,0 @@
-lar[109562]=`<b>η, ον</b> <font color="purple">[ῠ]</font> de sable, HDT. <i>2, 99</i> ; PHILSTR. <i>699</i>.<p><b>Étym</b>. ψάμμος.`

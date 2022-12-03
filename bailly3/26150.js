@@ -1,1 +1,0 @@
-lar[26150]=`<b>δι·εκτείνω</b> (<i>seul. prés</i>.) étendre à travers, allonger, HPC. <i>863f ;</i> HÉRON <i>Bel. 135a</i>.`

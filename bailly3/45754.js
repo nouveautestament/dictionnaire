@@ -1,1 +1,0 @@
-lar[45754]=`<b>ἠπιαλέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir la fièvre, AR. <i>Ach. 1165</i> ; ARSTT. <i>Probl. 27, 2</i>.<p><b>Étym</b>. ἠπίαλος.`

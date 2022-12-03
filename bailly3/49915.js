@@ -1,1 +1,0 @@
-lar[49915]=`<b>ἰσχ·ουρία, ας (ἡ)</b> rétention d’urine, HÉRODOTUS (ORIB. <i>2, 465 B.-Dar</i>.) ; GAL. <i>2, 265</i>.<p><b>Étym</b>. ἴσχω, οὖρον.`

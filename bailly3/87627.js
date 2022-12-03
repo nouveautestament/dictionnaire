@@ -1,1 +1,0 @@
-lar[87627]=`<b>πυκν·ομματέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir beaucoup d’yeux <i>ou</i> d’ouvertures, SOPH. <i>fr. 33</i>.<p><b>Étym</b>. π. ὄμμα.`

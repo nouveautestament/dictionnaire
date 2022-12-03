@@ -1,1 +1,0 @@
-lar[61455]=`(<i>seul. part. prés. pl</i>. λιχμώοντες, Q. SM. <i>5, 40 ; 6, 200 ; plutôt part. épq. de</i> λιχμάω) lécher.<p><b>Étym</b>. <i>cf</i>. λιχμάω.`

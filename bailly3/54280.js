@@ -1,1 +1,0 @@
-lar[54280]=`<b>ων (οἱ)</b> les Kaukônes, <i>pple de Bithynie,</i> IL. <i>10, 429 ; 18, 329</i> ; OD. <i>3, 366</i> ; HDT. <i>1, 147, etc</i>.`

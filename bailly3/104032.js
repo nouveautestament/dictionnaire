@@ -1,1 +1,0 @@
-lar[104032]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ὑπότριμμα TÉLÉCL. (ATH. <i>628c</i>).`

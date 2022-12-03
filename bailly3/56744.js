@@ -1,1 +1,0 @@
-lar[56744]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 220a</i>, l’art de plonger.<p><b>Étym</b>. κολυμβάω.`

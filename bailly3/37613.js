@@ -1,1 +1,0 @@
-lar[37613]=`<b>ἐπι·διαφέρω</b> (<i>seul. part. prés. pass</i>.) transporter ensuite, THC. <i>8, 8</i>.`

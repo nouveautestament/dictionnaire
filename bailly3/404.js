@@ -1,1 +1,0 @@
-lar[404]=`<b>ων (οἱ)</b> les Angæses, <i>pple d’Italie,</i> LYC. <i>1058</i>.`

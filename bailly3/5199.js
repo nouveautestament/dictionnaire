@@ -1,1 +1,0 @@
-lar[5199]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> sorte de champignon, NIC. (ATH. <i>61a</i>) ; GAL. <i>6, 370</i> ; ORIB. <i>1, 204 B.-Dar</i>.`

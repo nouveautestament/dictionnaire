@@ -1,1 +1,0 @@
-lar[89313]=`<b>εως</b> <font color="purple">[ᾰῐδ]</font> cloisonnage <i>ou</i> platelage (en planches), blindage, BITON.<p><b>Étym</b>. σανιδόω.`

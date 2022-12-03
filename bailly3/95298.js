@@ -1,1 +1,0 @@
-lar[95298]=`<b>οῦ (ὁ)</b> liaison, enchaînement de mots, D. PHAL. <i>§ 180</i>.<p><b>Étym</b>. συνείρω.`

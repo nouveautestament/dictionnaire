@@ -1,1 +1,0 @@
-lar[100794]=`<b>τροχο·κουράς, άδος (ὁ, ἡ)</b> qui a les cheveux coupés en rond, tonsuré, CHOERIL. <i>4</i>.<p><b>Étym</b>. τροχός, κουρά.`

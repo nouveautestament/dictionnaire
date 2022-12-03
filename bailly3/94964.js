@@ -1,1 +1,0 @@
-lar[94964]=`<b>ος, ον</b>, qui s’ajuste <i>ou</i> s’accorde avec, PHIL. BYZ. <i>Bel. 64b, etc</i>.<p><b>Étym</b>. συνάρω.`

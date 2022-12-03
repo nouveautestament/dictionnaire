@@ -1,1 +1,0 @@
-lar[51961]=`<font color="purple">[ᾰᾱ]</font> danser la danse consacrée pour la fête d’Artémis de Karyes, LUC. <i>Salt. 10</i>.<p><b>Étym</b>. Καρυᾶτις.`

@@ -1,1 +1,0 @@
-lar[73699]=`<b>ας (ἡ)</b> urètre, <i>conduit de l’urine,</i> HPC. <i>539, 39, etc.</i> ; ARSTT. <i>H.A. 1, 14</i>.<p>➳ <i>Ion</i>. -η, HPC. <i>l. c</i>.<p><b>Étym</b>. οὐρέω¹.`

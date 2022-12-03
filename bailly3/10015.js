@@ -1,1 +1,0 @@
-lar[10015]=`<b>ἀντι·λάζομαι</b> (<i>seul. impér. prés</i>. -λάζου) se saisir de, <i>gén</i>. EUR. <i>I.A. 1227</i>.`

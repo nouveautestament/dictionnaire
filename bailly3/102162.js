@@ -1,1 +1,0 @@
-lar[102162]=`<b>ὑπ·ελαύνω</b>, pousser <i>ou</i> faire avancer son cheval vers <i>ou</i> auprès, XÉN. <i>An. 1, 8, 15</i>.`

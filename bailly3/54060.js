@@ -1,1 +1,0 @@
-lar[54060]=`<b>κατ·ιθύς</b> <font color="purple">[ῑῠ]</font> <i>adv</i>., droit, en face de, <i>gén</i>. Q. SM. <i>7, 136</i>.<p><b>Étym</b>. κ. ἰθύς.`

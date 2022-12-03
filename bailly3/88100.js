@@ -1,1 +1,0 @@
-lar[88100]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ <i>par nécessité prosodique</i>]</font> <i>c</i>. Πωλλιανός, ANTH. <i>11, 228, etc</i>.`

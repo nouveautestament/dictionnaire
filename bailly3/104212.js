@@ -1,1 +1,0 @@
-lar[104212]=`<b>ὑπο·ψιθυρίζω</b> <font color="purple">[ῐθῠ]</font> murmurer tout bas <i>ou</i> secrètement, EUM. <i>1, 8</i>.`

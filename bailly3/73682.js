@@ -1,1 +1,0 @@
-lar[73682]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> extrémité pointue, pointe, HPC. <i>269, 5 ; au pl. c</i>. ἀθέρες, EL. <i>N.A. 6, 43</i>.`

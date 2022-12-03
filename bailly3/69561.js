@@ -1,1 +1,0 @@
-lar[69561]=`<b>ξηρο·τροφικός, ή, όν</b>, qui concerne l’élevage des animaux de terre ferme, PLAT. <i>Pol. 264d, e</i>.<p><b>Étym</b>. ξ. τρέφω.`

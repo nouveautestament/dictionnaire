@@ -1,1 +1,0 @@
-lar[46287]=`<b>θανατιάω-ῶ</b> <font color="purple">[ᾰνᾰ]</font> avoir envie de mourir, LUC. <i>Per. 32</i> ; SEXT. <i>424, 16 Bkk</i>.<p><b>Étym</b>. θάνατος.`

@@ -1,1 +1,0 @@
-lar[57652]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> qui commande, maître, ALEXARCH. (ATH. <i>98e</i>).<p><b>Étym</b>. κρατέω.`

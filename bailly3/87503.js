@@ -1,1 +1,0 @@
-lar[87503]=`<font color="purple">[ῡ]</font> <i>adv</i>., par le derrière, ARSTT. <i>P.A. 2, 16, 6 ; H.A. 5, 2, 2</i>.<p><b>Étym</b>. πυγή, -δον.`

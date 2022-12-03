@@ -1,1 +1,0 @@
-lar[58346]=`<b>κυανο·βλέφαρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux paupières garnies de cils noirs, <i>ou p.-ê</i>. aux yeux noirs, ANTH. <i>5, 61</i>.<p><b>Étym</b>. κ. βλέφαρον.`

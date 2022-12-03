@@ -1,1 +1,0 @@
-lar[56557]=`ôter les graines <i>ou</i> les pépins de, <i>acc</i>. AR. (<i>Com. fr. 2, 1184).</i><p><b>Étym</b>. κόκκος.`

@@ -1,1 +1,0 @@
-lar[47396]=`<b>ης (ἡ)</b> corbeille tressée, SPT. <i>Ex. 2, 3</i>.<p><b>Étym</b>. <i>cf. hébr</i>. thèbah.`

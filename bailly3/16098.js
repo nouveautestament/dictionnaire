@@ -1,1 +1,0 @@
-lar[16098]=`<i>adv</i>., plus près, <i>avec mouv</i>. IL. <i>1, 335, 567, etc.</i> ; OD. <i>9, 380, etc. ; sans mouv</i>. IL. <i>23, 97 ; avec un gén</i>. IL. <i>22, 4</i> ; OD. <i>11, 89</i> ; HDT. <i>4, 3</i> ; SOPH. <i>O.C. 312, etc. ; avec un double compar</i>. μᾶλλον ἆσσον, SOPH. <i>Ant. 1210</i>.<p><b>Étym</b>. <i>cp. de</i> ἄγχι ; <i>cf</i>. ἀσσότερος, ἀσσότατος.`

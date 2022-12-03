@@ -1,1 +1,0 @@
-lar[29953]=`<b>ἔγ·χυμος, ος, ον</b> <font color="purple">[ῡ]</font> humide de suc, juteux, succulent, HPC. <i>744c ;</i> PLAT. <i>Tim. 74d ;</i> ARSTT. <i>Sens. 5, 1</i> ; TH. <i>C.P. 5, 4, 3</i>.<p><b>Étym</b>. ἐν, χυμός.`

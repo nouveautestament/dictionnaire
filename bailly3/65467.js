@@ -1,1 +1,0 @@
-lar[65467]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action d’indiquer, de signifier, PLAT. <i>Leg. 932d ;</i> AND. <i>3, 5</i> ; PLUT. <i>M. 576b, 596a</i>.<p><b>Étym</b>. μηνύω.`

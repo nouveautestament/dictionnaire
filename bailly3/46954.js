@@ -1,1 +1,0 @@
-lar[46954]=`<b>θερμο·λούτης, ου (ὁ)</b> qui prend un bain chaud, AGATHIN. (ORIB. <i>2, 395 B.-Dar</i>.).<p><b>Étym</b>. θ. λούω.`

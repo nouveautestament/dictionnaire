@@ -1,1 +1,0 @@
-lar[4344]=`<font color="darkgreen">(<i>seul. prés</i>. TH. <i>C.P. 4, 12, 13</i> ; ANTH. <i>11, 154, et impf</i>. ἤληθον, BABR. <i>131, 5</i> ; NT. <i>Matth. 24, 41</i>)</font> moudre.<p><b>Étym</b>. ἀλέω.`

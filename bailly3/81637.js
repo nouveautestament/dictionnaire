@@ -1,1 +1,0 @@
-lar[81637]=`<b>πολλαπλασι·επιμόριος, ος, ον</b> <font color="purple">[ᾰσ]</font> égal à un multiple plus une fraction ½, ⅓, ¼, <i>etc. ; par ex</i>. ¹⁰⁄₃ = 3 + ¹⁄₃, NICOM. <i>Arithm. p. 101</i>.`

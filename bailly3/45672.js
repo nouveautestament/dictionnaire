@@ -1,1 +1,0 @@
-lar[45672]=`<b>ης (ἡ)</b> conductrice de chars (Hèra) PAUS. <i>9, 39, 5</i>.<p><b>Étym</b>. <i>cf</i>. ἡνίοχος.`

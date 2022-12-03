@@ -1,1 +1,0 @@
-lar[78482]=`<b>περι·γελάω-ῶ</b>, se rire de, <i>acc</i>. DYSC. <i>Synt. 281</i>.`

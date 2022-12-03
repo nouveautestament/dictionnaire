@@ -1,1 +1,0 @@
-lar[12511]=`<b>ἀπο·καρτερέω-ῶ</b>, cesser de résister, <i>d’où</i> se laisser mourir (de faim) HPC. <i>Acut. 393</i> ; CIC. <i>Tusc. 1, 34</i> ; LUC. <i>Macr. 19, etc</i>.`

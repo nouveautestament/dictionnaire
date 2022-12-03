@@ -1,1 +1,0 @@
-lar[46047]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de son propre mouvement, volontairement, PROCL. <i>5, p. 78 Cousin</i>.<p><b>Étym</b>. αὐτοματίζω.`

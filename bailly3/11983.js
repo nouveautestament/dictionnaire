@@ -1,1 +1,0 @@
-lar[11983]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> poire, PLAT. <i>Leg. 845b ;</i> THCR. <i>Idyl. 7, 120</i>.<p><b>Étym</b>. <i>cf</i>. ἄπιος¹.`

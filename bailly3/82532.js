@@ -1,1 +1,0 @@
-lar[82532]=`<b>πολυ·φράδμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, <i>c</i>. πολυφραδής, A.RH. <i>1, 1311</i> ; OPP. <i>H. 4, 28</i> ; ANTH. <i>9, 816</i>.<p>➳ <i>Dans les inscr. att</i>. Πολυφράσμων, <i>n. pr</i>. CIA. <i>2, 977, a, 3 (du 3<sup>e</sup> au 2<sup>e</sup> siècle av. J.-C.) ; v. Meisterh. p. 68, 11</i>.`

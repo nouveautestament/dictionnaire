@@ -1,1 +1,0 @@
-lar[62046]=`<b>ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> qui délie, libérateur, <i>ép. de certains dieux,</i> PLAT. <i>Rsp. 366a.</i><br><b>      2</b> qui relâche <i>ou</i> affaiblit les membres, <i>ép. de Bacchus,</i> ORPH. <i>H. 49, 2 et 8</i> ; PLUT. <i>M. 613c, etc</i>.<p><b>Étym</b>. λύω.`

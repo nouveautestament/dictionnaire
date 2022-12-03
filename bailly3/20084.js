@@ -1,1 +1,0 @@
-lar[20084]=`<b>ου (ὁ)</b> Bœos, <i>anc. poète grec,</i> ATH. <i>393e</i>.`

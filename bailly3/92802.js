@@ -1,1 +1,0 @@
-lar[92802]=`<b>ή, όν</b>, qui concerne la strangurie, HPC. <i>543, 23</i> ; PLUT. <i>M. 1089e ;</i> τὰ στραγγουρικά, HPC. <i>Coac. 190, c</i>. στραγγουρία.`

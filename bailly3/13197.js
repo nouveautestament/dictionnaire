@@ -1,1 +1,0 @@
-lar[13197]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font><br><b>      1</b> <i>en parl. de pers</i>. qui doute, GAL. <i>2, 127</i>.<br><b>      2</b> <i>en parl. de choses,</i> qui marque le doute, dubitatif, <i>t. de gr</i>. EM. <i>414, 55 ; en parl. des particules interrog</i>. ἆρα, μῶν, <i>etc</i>. D. THR. <i>642, 26</i>.<p><b>Étym</b>. ἀπόρημα.`

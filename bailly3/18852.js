@@ -1,1 +1,0 @@
-lar[18852]=`<b>ου (ὁ)</b> Bætylos, <i>h</i>. CHION. <i>Ep. 4</i>.`

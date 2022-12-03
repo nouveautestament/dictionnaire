@@ -1,1 +1,0 @@
-lar[89579]=`<i>acc</i>. <b>άν (ἡ)</b> Sapha, <i>lieu de Mésopotamie,</i> PLUT. <i>Luc. 22</i>.`

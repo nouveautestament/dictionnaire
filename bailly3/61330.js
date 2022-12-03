@@ -1,1 +1,0 @@
-lar[61330]=`<b>λιπό·θροος, ος, ον</b> <font color="purple">[ῐ]</font> qui a perdu la voix, muet, NONN. <i>D. 4, 327</i>.<p><b>Étym</b>. λείπω, θρόος.`

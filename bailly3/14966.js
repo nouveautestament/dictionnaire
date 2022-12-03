@@ -1,1 +1,0 @@
-lar[14966]=`<b>ης (ἡ)</b> Arnissa, <i>v. de Macédoine (près de la v. moderne de</i> Ostrowa) THC. <i>4, 128</i>.`

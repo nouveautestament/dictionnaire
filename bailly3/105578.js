@@ -1,1 +1,0 @@
-lar[105578]=`<b>φιλ·εύ·λειχος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la bonne chère, ANTH. <i>6, 305 conj</i>.<p><b>Étym</b>. φ. εὖ, λείχω.`

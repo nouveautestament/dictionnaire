@@ -1,1 +1,0 @@
-lar[76552]=`<b>ῶν (αἱ)</b> <font color="purple">[ῠ]</font> <i>c</i>. παρέγχυσις MAN. <i>4, 254</i>.`

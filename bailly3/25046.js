@@ -1,1 +1,0 @@
-lar[25046]=`<b>δια·μηκίζω</b> (<i>seul. prés</i>.) être diamétralement opposé en longueur à, PROCL. <i>Ptol. 178</i>.`

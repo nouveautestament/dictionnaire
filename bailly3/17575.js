@@ -1,1 +1,0 @@
-lar[17575]=`<b>αὐτο·μακαριότης, ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> la béatitude <i>ou</i> le bonheur même, CHRYS.`

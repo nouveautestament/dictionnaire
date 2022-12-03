@@ -1,1 +1,0 @@
-lar[103944]=`<b>ὑπο·σφίγγω</b>, serrer en dessous <i>ou</i> un peu, NONN. <i>D. 26, 262</i> ; ANTH. <i>2, 81</i>.`

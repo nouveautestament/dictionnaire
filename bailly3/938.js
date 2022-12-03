@@ -1,1 +1,0 @@
-lar[938]=`<b>(ἡ)</b> Agriska, <i>ép. d’Athèna,</i> LYC. <i>1152</i>.`

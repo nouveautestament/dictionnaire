@@ -1,1 +1,0 @@
-lar[79212]=`<b>εως (ἡ)</b> inclinaison d’un côté, HPC. <i>Off. 745c</i>.<p><b>Étym</b>. περιρρέπω.`

@@ -1,1 +1,0 @@
-lar[62914]=`<b>μαργιτο·μανής, οῦ (ὁ)</b> <font color="purple">[ῑᾰ]</font> extravagant à la façon de Margitès, PHILOD. <i>De sup. 21</i>.<p><b>Étym</b>. Μαργίτης, μαίνομαι.`

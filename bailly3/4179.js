@@ -1,1 +1,0 @@
-lar[4179]=`<b>ου (τὸ)</b> Aleision, <i>brg d’Élide,</i> IL. <i>2, 617</i>.`

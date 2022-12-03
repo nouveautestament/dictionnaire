@@ -1,1 +1,0 @@
-lar[15423]=`<b>ου (τὸ)</b> boulangerie, AR. <i>Ran. 112, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀρτόπωλις.`

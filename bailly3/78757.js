@@ -1,1 +1,0 @@
-lar[78757]=`<b>περι·κίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[κῑ]</font> entouré de colonnes, EUR. <i>fr. 370, 7 ; I.T. 405</i>.`

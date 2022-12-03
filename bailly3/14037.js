@@ -1,1 +1,0 @@
-lar[14037]=`<i>adv</i>., infailliblement, sûrement, SEXT. <i>M. 8, 187</i>.`

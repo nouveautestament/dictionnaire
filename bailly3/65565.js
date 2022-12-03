@@ -1,1 +1,0 @@
-lar[65565]=`<b>μητρο·πόλος</b>, <i>dor</i>. <b>ματρο·πόλος, ος, ον</b> <font color="purple">[ᾱ]</font> qui prend soin des mères (Heileithyia) PD. <i>P. 3, 9</i>.<p><b>Étym</b>. μ. -πολος ; <i>cf</i>. αἰπόλος, <i>etc</i>.`

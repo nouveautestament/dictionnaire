@@ -1,1 +1,0 @@
-lar[104565]=`<b>ης, ες :<br>      1</b> qui ressemble à un porc, grossier, CLÉM. <i>Protr. 10, 92 ; Str. 1, 12, 55</i>.<br><b>      2</b> de porc, PLUT. <i>M. 535f ;</i> CLÉM. <i>348</i>.<p><b>Étym</b>. ὗς, -ωδης.`

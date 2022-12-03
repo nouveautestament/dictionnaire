@@ -1,1 +1,0 @@
-lar[90080]=`<font color="purple">[ῐ]</font> prédire comme une sibylle, DS. <i>4, 66 et 67</i>.<p><b>Étym</b>. σίβυλλα.`

@@ -1,1 +1,0 @@
-lar[26675]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> qu’on fait tournoyer, ANTH. <i>7, 394</i>.<p><b>Étym</b>. <i>vb. de</i> δινέω.`

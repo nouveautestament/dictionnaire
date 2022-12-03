@@ -1,1 +1,0 @@
-lar[58372]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> couleur <i>ou</i> teinture d’un bleu sombre, PLUT. <i>M. 879d</i>.<p><b>Étym</b>. κυανός².`

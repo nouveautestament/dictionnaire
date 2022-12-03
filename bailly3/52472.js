@@ -1,1 +1,0 @@
-lar[52472]=`<b>κατα·καίνυμαι</b> <font color="darkgreen">(<i>pf</i>. κατακέκασμαι)</font> être orné de, <i>dat</i>. RHÉT. <i>1, 639 W</i>.`

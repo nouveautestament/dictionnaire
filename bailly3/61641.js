@@ -1,1 +1,0 @@
-lar[61641]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> écorce, écaille, AR. <i>Vesp. 790</i> ; NIC. <i>Al. 467</i>.<br><b>      2</b> <i>t. techn</i>. coulisse (en fer) EN. TACT.<p><b>Étym</b>. λέπω.`

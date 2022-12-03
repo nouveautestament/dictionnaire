@@ -1,1 +1,0 @@
-lar[87735]=`(<i>seul. prés</i>.) siffler les chevaux pour les exciter <i>ou</i> les flatter, CRAT. (<i>Com. fr. 2, 48).</i><p><b>Étym</b>. πύππαξ.`

@@ -1,1 +1,0 @@
-lar[89107]=`<b>σαινί-δωρος, ος, ον</b> <font color="purple">[ῐ]</font> qui cherche à séduire par des présents, EPIC. (DL. <i>10, 8).</i><p><b>Étym</b>. σαίνω, δῶρον.`

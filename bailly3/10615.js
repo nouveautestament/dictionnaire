@@ -1,1 +1,0 @@
-lar[10615]=`<b>ἀντι·ψάλλω :<br>      1</b> toucher (la lyre) en accord avec, <i>càd</i>. accompagner avec la lyre. <i>dat</i>. AR. <i>Av. 217</i>.<br><b>      2</b> chanter en se répondant l’un à l’autre <i>ou</i> les uns aux <i>autres,</i> BAS. <i>4, 764 Migne</i>.`

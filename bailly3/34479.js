@@ -1,1 +1,0 @@
-lar[34479]=`<b>ἐν·ήρης, ης, ες</b>, garni de rameurs <i>ou en gén</i>. gréé, équipé, PLUT. <i>Brut. 28, etc</i>.<p><b>Étym</b>. ἐν, ἐρέσσω.`

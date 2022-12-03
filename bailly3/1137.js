@@ -1,1 +1,0 @@
-lar[1137]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> fonction d’agônothète, PLUT. <i>Ages. 21</i>.<p><b>Étym</b>. ἀγωνοθέτης.`

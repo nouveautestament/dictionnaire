@@ -1,1 +1,0 @@
-lar[76041]=`<b>παρα·περιπατέω-ῶ</b> <font color="purple">[ᾰτ]</font> circuler auprès, JOS. <i>A.J. 18, 6, 6</i>.`

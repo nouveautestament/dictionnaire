@@ -1,1 +1,0 @@
-lar[58215]=`<b>ου (ὁ</b> <i>ou</i> <b>ἡ)</b> Krômnos :<br><b>      1</b> <i>place forte d’Arcadie,</i> XÉN. <i>Hell. 7, 4, 21</i>.<br><b>      2</b> <i>v. d’Argolide,</i> PLUT. <i>Vit. pud. 16</i>.<p>➳ ὁ Κρ. XÉN. <i>Hell. 7, 4, 21</i> ; ἡ Κρ. ATH. <i>452b</i>.`

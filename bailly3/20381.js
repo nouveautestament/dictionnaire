@@ -1,1 +1,0 @@
-lar[20381]=`<b>ου (ὁ)</b> Boukæos, <i>litt</i>. « bouvier », <i>n. de pâtre,</i> THCR. <i>Idyl. 10, 1, 57</i>.<p><b>Étym</b>. <i>v</i>. βουκαῖος <i>et cf</i>. βοῦκος.`

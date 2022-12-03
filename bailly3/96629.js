@@ -1,1 +1,0 @@
-lar[96629]=`<b>συσ·σαίνομαι</b>, flatter ensemble <i>ou</i> en même temps, <i>au pass</i>. être également flatté de, <i>dat</i>. POL. <i>1, 80, 6</i>.`

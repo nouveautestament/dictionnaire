@@ -1,1 +1,0 @@
-lar[101094]=`<b>ας (ἡ)</b> <font color="purple">[ῠῑ <i>par nécess. prosod</i>.]</font> <i>c</i>. τυραννίς, XÉNOPHAN. (ATH. <i>526b</i>).`

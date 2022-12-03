@@ -1,1 +1,0 @@
-lar[39752]=`<b>οῦ (ὁ)</b> action de préluder, prélude, PTOL. <i>Harm. 2, 12</i>.<p><b>Étym</b>. ἐπιψάλλω.`

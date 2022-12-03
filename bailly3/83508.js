@@ -1,1 +1,0 @@
-lar[83508]=`<i>adv</i>., par un choix spontané, volontairement, PHIL. <i>1, 342</i> ; CLÉM. <i>2, 460, 1100 Migne</i>.`

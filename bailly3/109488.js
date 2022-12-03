@@ -1,1 +1,0 @@
-lar[109488]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. qui sert pour les terrassements : χελώνη, POL. <i>9, 41, 1</i> ; PHIL. (MATH. <i>p. 97, ou subst</i>. ἡ χωστρίς, POL. <i>DS. 20, 91</i> ; DH. <i>9, 68,</i> tortue (<i>v</i>. χελώνη) pour protéger les travailleurs dans un siège.<p><b>Étym</b>. χώννυμι.`

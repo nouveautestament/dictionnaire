@@ -1,1 +1,0 @@
-lar[43495]=`<b>εὐ·στροφάλιγξ, ιγγος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> bien enroulé, ANTH. <i>6, 219, 18</i>.<p><b>Étym</b>. εὖ, στρ.`

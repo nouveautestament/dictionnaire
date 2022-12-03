@@ -1,1 +1,0 @@
-lar[71753]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> identité de race, de nation, STR. <i>41</i> ; PLUT. <i>M. 975e</i>.<p><b>Étym</b>. ὁμόφυλος.`

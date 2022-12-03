@@ -1,1 +1,0 @@
-lar[43633]=`<b>εὔ·τρεπτος, ος, ον :<br>      1</b> qu’on fait tourner facilement, versatile, changeant, ARSTT. <i>Mund. 6, 32</i> ; PLUT. <i>Mar. 21</i> ; τὸ εὔτρεπτον, PLUT. <i>M. 912b</i>, caractère mobile <i>ou</i> inconstant.<br><b>      2</b> enclin : πρός τι, PLUT. <i>M. 978b</i>, à qqe ch.<p><b>Étym</b>. εὖ, τρέπω.`

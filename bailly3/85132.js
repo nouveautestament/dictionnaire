@@ -1,1 +1,0 @@
-lar[85132]=`<b>προσ·αναγκαστέον</b> <font color="purple">[ᾰν]</font> <i>vb. de</i> προσαναγκάζω PLAT. <i>Pol. 284b</i>.`

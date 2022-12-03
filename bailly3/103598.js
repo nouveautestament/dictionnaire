@@ -1,1 +1,0 @@
-lar[103598]=`<b>ὑπο·νίζω</b> <i>ou</i> <b>ὑπο·νίπτω</b>, laver en dessous <i>ou</i> laver un peu, HIÉROCL. (STOB. <i>462, 54</i>) ; ATH. <i>583f</i>.`

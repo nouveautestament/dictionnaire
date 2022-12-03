@@ -1,1 +1,0 @@
-lar[79347]=`<b>*περίσσωμα</b>, <i>att</i>. <b>περίττωμα, ατος (τὸ)</b> résidu de la nourriture, sécrétion, excrément, ARSTT. <i>G.A. 1, 18, 40, etc. ; fig</i>. rebut de la populace, PLUT. <i>Cor. 12</i>.<p><b>Étym</b>. περισσός.`

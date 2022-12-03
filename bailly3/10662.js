@@ -1,1 +1,0 @@
-lar[10662]=`<b>ἀντ·οχέομαι-οῦμαι</b>, se porter en voiture <i>ou</i> à cheval contre, MOSCH. <i>2, 119 dout</i>.`

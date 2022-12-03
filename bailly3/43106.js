@@ -1,1 +1,0 @@
-lar[43106]=`<b>εὐ·πρήων, ωνος (ὁ, ἡ)</b> aux beaux promontoires, P. SIL. <i>Ecphr. amb. 247</i>.<p><b>Étym</b>. εὖ, πρηών.`

@@ -1,1 +1,0 @@
-lar[84038]=`<b>προ·εέργω</b> (<i>3 sg. impf</i>. προέεργε) empêcher : τινὰ ὁδεύειν, IL. <i>11, 569,</i> qqn de s’avancer.`

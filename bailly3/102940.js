@@ -1,1 +1,0 @@
-lar[102940]=`<b>όου (τὸ)</b> <i>sorte de plante narcotique (Hypecöum procumbens</i> L.) DIOSC. <i>4, 68</i> ; GAL. <i>13, 238</i>.<p><b>Étym</b>. <i>cf</i>. ὑπήκοος.`

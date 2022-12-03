@@ -1,1 +1,0 @@
-lar[22483]=`<b>*Γοργο·λόφης</b>, <i>seul. dor</i>. <b>-λόφας (ὁ)</b> <font color="purple">[ᾱ]</font> qui a sur son casque une tête de Gorgone, <i>ép. iron. de Lamakhos,</i> AR. <i>Ach. 567</i>.<p><b>Étym</b>. Γοργώ, λόφος.`

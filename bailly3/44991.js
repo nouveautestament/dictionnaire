@@ -1,1 +1,0 @@
-lar[44991]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> agrément de parole, ATH. <i>164f</i>.<p><b>Étym</b>. ἡδυλόγος.`

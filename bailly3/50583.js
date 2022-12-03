@@ -1,1 +1,0 @@
-lar[50583]=`<b>εως (ἡ) :<br>      1</b> renouvellement, PHIL. <i>2, 45</i>.<br><b>      2</b> innovation, JOS. <i>A.J. 18, 6, 10</i>.<p><b>Étym</b>. καινόω.`

@@ -1,1 +1,0 @@
-lar[106323]=`<b>ητος (ἡ)</b> qualité de ce qui est mauvais, vain, frivole, PLUT. <i>M. 962a</i>.<p><b>Étym</b>. φλαῦρος.`

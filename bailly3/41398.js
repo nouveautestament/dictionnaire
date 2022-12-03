@@ -1,1 +1,0 @@
-lar[41398]=`<b>ἑτερό·φωνος, ος, ον</b>, de son différent, <i>càd</i>. qui parle une autre langue, ESCHL. <i>Sept. 170</i>.<p><b>Étym</b>. ἕ. φωνή.`

@@ -1,1 +1,0 @@
-lar[26566]=`<b>δικο·τέχνης, ου (ὁ)</b> <font color="purple">[ῐ]</font> jurisconsulte, CHRYS. <i>1, 124</i>.<p><b>Étym</b>. δίκη, τέχνη.`

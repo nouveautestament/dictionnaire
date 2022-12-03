@@ -1,1 +1,0 @@
-lar[43199]=`<b>εὐ·ρίπιστος, ος, ον</b> <font color="purple">[ρῐ]</font> facile à agiter, instable, CIC. <i>Att. 14, 5</i>.<p><b>Étym</b>. εὖ, ῥιπίζω.`

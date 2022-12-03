@@ -1,1 +1,0 @@
-lar[81404]=`<b>ποικιλό·μυθος, ος, ον</b> <font color="purple">[ῐῡ]</font> aux paroles variées, éloquent, ORPH. <i>H. 13, etc.</i> ; ANTH. <i>5, 56</i>.<p><b>Étym</b>. π. μῦθος.`

@@ -1,1 +1,0 @@
-lar[89360]=`<i>mot dor. c</i>. σαίνω, RHINTHON (HSCH.).`

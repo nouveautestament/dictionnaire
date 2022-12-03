@@ -1,1 +1,0 @@
-lar[77650]=`<b>ή, όν</b>, propre à éprouver, à tenter, à rechercher, ARSTT. <i>Metaph. 3, 2, 20</i> ; THRASYLL. (DL. <i>3, 58) ; subst</i>. ἡ πειραστική (<i>s.-e</i>. τέχνη) ARSTT. <i>Soph. el. 8, 2, etc</i>. l’art de tâter, de sonder, <i>en dialectique</i>.<p><b>Étym</b>. πειράζω.`

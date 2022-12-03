@@ -1,1 +1,0 @@
-lar[5992]=`<b>ας (ἡ)</b> Amphanæa, <i>v. de Doride,</i> EUR. <i>H.f. 392</i>.`

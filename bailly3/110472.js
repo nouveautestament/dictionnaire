@@ -1,1 +1,0 @@
-lar[110472]=`<b>εως (ἡ)</b> observation de l’heure natale, horoscope, SEXT. <i>M. 5, 99</i>.<p><b>Étym</b>. ὡροσκοπέω.`

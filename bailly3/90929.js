@@ -1,1 +1,0 @@
-lar[90929]=`<b>οῦ (ὁ)</b> petit éclat de bois, <i>d’où</i> subtilité, DIOSC. <i>1, 17</i> ; ALCIPHR. <i>3, 64</i>.<p><b>Étym</b>. <i>cf</i>. σκινδάλαμος.`

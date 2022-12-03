@@ -1,1 +1,0 @@
-lar[81463]=`<b>ῶν (οἱ)</b> = <i>lat</i>. Pœni, les Carthaginois, PLUT. <i>Parall. min. 4</i>.`

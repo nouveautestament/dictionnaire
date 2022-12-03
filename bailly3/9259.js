@@ -1,1 +1,0 @@
-lar[9259]=`<b>ατος (τὸ)</b> violation de la loi, illégalité, faute, DS. <i>17, 5</i> ; SPT. <i>Lev. 20, 14 ; Sap. 1, 9 ; 3, 14</i>.<p><b>Étym</b>. ἀνομέω.`

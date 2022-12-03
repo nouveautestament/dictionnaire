@@ -1,1 +1,0 @@
-lar[20615]=`<b>βραδύ·γαμος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> qui se marie tard, PROCL. <i>Ptol. 183</i>.<p><b>Étym</b>. βρ. γάμος.`

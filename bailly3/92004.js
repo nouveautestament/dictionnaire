@@ -1,1 +1,0 @@
-lar[92004]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> dispersé : ζῷα σποραδικά, ARSTT. <i>Pol. 1, 8, 5, etc</i>. animaux qui vivent solitaires et errants (<i>p. opp. à</i> ἀγελαῖα) ; σποραδικὸν νόσημα, GAL. maladie sporadique.<p><b>Étym</b>. σποράς.`

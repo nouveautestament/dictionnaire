@@ -1,1 +1,0 @@
-lar[14596]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰι]</font> calculateur, PLAT. <i>Just. 373b</i>.<p><b>Étym</b>. ἀριθμέω.`

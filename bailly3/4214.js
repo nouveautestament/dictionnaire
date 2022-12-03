@@ -1,1 +1,0 @@
-lar[4214]=`<b>όνος (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> coq, THGN. <i>864</i> ; PLAT. <i>Conv. 223c, Lys. 211e, etc.</i> ; ARSTT. <i>H.A. 4, 9, 14, etc.</i><br><b>      2</b> ἡ ἀ. poule, AR. <i>Nub. 663, fr. 237</i> ; THPP. COM. (ATH. <i>373, 374) etc</i>.<p><b>Étym</b>. ἀλέκτωρ.`

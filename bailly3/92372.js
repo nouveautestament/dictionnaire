@@ -1,1 +1,0 @@
-lar[92372]=`<b>στενό·σημος, ος, ον</b>, à bordure étroite ; <i>subst</i>. ἡ στ. (<i>s.-e</i>. ἐσθής) ARR. <i>Epict. 1, 24,</i> la toge angusticlave, <i>à bordure moins large que le laticlave</i>.<p><b>Étym</b>. στ. σῆμα.`

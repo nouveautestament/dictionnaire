@@ -1,1 +1,0 @@
-lar[20417]=`<b>βου·κόρυζα, ης (ἡ)</b> fort rhume de cerveau, MÉN. (SUID.).<p><b>Étym</b>. βου-, κ.`

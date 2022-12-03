@@ -1,1 +1,0 @@
-lar[77845]=`servir comme peltaste, <i>càd</i>. dans l’infanterie légère, XÉN. <i>An. 5, 8, 5 ; Vect. 4, 52</i> ; APP. <i>Civ. 2, 70</i>.<p><b>Étym</b>. πέλτη.`

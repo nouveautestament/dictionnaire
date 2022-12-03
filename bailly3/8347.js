@@ -1,1 +1,0 @@
-lar[8347]=`<b>ἀν·ένδεκτος, ος, ον</b>, inadmissible, impossible, NT. <i>Luc. 17, 1</i> ; ARTÉM. <i>2, 70</i>.<p><b>Étym</b>. ἀν-, ἐνδέχομαι.`

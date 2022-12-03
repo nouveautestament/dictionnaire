@@ -1,1 +1,0 @@
-lar[10357]=`<b>ἀντί·πυγος, ος, ον</b> <font color="purple">[ῡ]</font> qui tourne le derrière, ARSTT. <i>H.A. 5, 2</i>.<p><b>Étym</b>. ἀ. πυγή.`

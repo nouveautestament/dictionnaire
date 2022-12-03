@@ -1,1 +1,0 @@
-lar[34083]=`<b>ἐν·αφ·έψω</b>, faire bouillir dans, <i>dat</i>. HPC. <i>662, 19</i> ; GAL. <i>6, 291, etc</i>.<p><b>Étym</b>. ἐν, ἀπό, ἕψω.`

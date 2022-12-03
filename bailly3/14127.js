@@ -1,1 +1,0 @@
-lar[14127]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> manque de densité, porosité, HPC. <i>382, 7, etc.</i> ; ARSTT. <i>Probl. 2, 32, 2</i> ; PLUT. <i>M. 902b</i>.<p><b>Étym</b>. ἀραιός.`

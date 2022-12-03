@@ -1,1 +1,0 @@
-lar[73267]=`<b>ὀστεο·λογία, ας (ἡ)</b> science des os, ostéologie, GAL.<p><b>Étym</b>. ὀστέον, λόγος.`

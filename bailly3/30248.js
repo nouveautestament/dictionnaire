@@ -1,1 +1,0 @@
-lar[30248]=`<b>ή, όν :<br>      1</b> qui concerne l’espèce, <i>p. opp. à</i> γενικός <i>et à</i> καθολικός, D. THR. <i>636, 14</i> ; SEXT. <i>607, 7 Bkk.</i><br><b>      2</b> spécifique, <i>p. opp. à</i> γενικός, PLUT. <i>M. 876e</i>.<p><b>Étym</b>. εἶδος.`

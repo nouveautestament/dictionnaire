@@ -1,1 +1,0 @@
-lar[103554]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ὑπόμνημα, M. ANT. <i>3, 14</i>.`

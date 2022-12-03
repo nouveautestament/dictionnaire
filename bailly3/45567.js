@@ -1,1 +1,0 @@
-lar[45567]=`<b>ἡμι·στίχιον, ου (τὸ)</b> <font color="purple">[τῐ]</font> hémistiche, moitié d’un vers, SEXT. <i>306, 21 Bkk</i>.<p><b>Étym</b>. ἡμι-, στίχος.`

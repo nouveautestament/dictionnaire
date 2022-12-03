@@ -1,1 +1,0 @@
-lar[100147]=`<b>τρι·γίγας, αντος (ὁ)</b> <font color="purple">[ῐῐ]</font> triple géant, <i>càd</i>. géant énorme, ORPH. <i>Arg. 1348</i>.<p><b>Étym</b>. τρ. γίγας.`

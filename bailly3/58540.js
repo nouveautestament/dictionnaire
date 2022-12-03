@@ -1,1 +1,0 @@
-lar[58540]=`<i>adv</i>., en rond, circulairement, ARSTT. <i>Cæl. 1, 5, 16</i>.`

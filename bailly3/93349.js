@@ -1,1 +1,0 @@
-lar[93349]=`<b>συγ·καταπλέκω</b>, entrelacer, ARSTT. <i>H.A. 9, 7, 2</i> ; DH. <i>Pomp. 1</i> ; PLUT. <i>Sol. 3, etc. ; au pass</i>. PLUT. <i>M. 648b</i>.`

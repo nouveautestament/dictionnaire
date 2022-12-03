@@ -1,1 +1,0 @@
-lar[39440]=`<b>ἐπι·τίτθιος, ος, ον</b>, qui est encore à la mamelle, THCR. <i>Idyl. 24, 53</i> ; ANTH. <i>11, 243</i>.<p><b>Étym</b>. ἐπί, τίτθη.`

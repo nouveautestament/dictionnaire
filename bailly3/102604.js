@@ -1,1 +1,0 @@
-lar[102604]=`<b>ὑπερ·κόπτω</b>, l’emporter sur, surpasser, <i>acc</i>. THÉM.`

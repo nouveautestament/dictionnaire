@@ -1,1 +1,0 @@
-lar[41695]=`<b>εὔ·βλαπτος, ος, ον :<br>      1</b> <i>pass</i>. facile à endommager, ARSTT. <i>G.A. 1, 12</i>.<br><b>      2</b> <i>act</i>. qui cause facilement du dommage, nuisible, GEOP. <i>9, 9, 10</i>.<p><b>Étym</b>. εὖ, βλάπτω.`

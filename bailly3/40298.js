@@ -1,1 +1,0 @@
-lar[40298]=`<b>ων (οἱ)</b> habitants d’Érésos, THC. <i>8, 23</i>.<p><b>Étym</b>. Ἔρεσος.`

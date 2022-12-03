@@ -1,1 +1,0 @@
-lar[11305]=`<b>ἀ·παράγραπτος, ος, ον</b>, qu’on ne peut rayer <i>ou</i> écarter (<i>loi</i>) RHÉT. <i>7, 212 W</i>.<p><b>Étym</b>. ἀ, παραγράφω.`

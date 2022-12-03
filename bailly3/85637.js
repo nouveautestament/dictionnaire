@@ -1,1 +1,0 @@
-lar[85637]=`<b>προσ·επαράομαι-ῶμαι</b> <font color="purple">[ᾱρ]</font> ajouter des imprécations à d’autres : τί τινι, DC. <i>4138,</i> souhaiter en outre encore plus de mal à qqn.`

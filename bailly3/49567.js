@@ -1,1 +1,0 @@
-lar[49567]=`<b>ή, όν</b>, isthmique : τὸ Ἰσθμιακόν, AR. <i>fr. 414,</i> sorte de couronne.<p><b>Étym</b>. ἰσθμός.`

@@ -1,1 +1,0 @@
-lar[79719]=`<b>περιωπέω-ῶ</b>, regarder tout autour <i>ou</i> au loin, PHILSTR. <i>fr. p. 914</i>.<p><b>Étym</b>. περιωπή.`

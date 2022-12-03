@@ -1,1 +1,0 @@
-lar[103327]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> un peu endormi, assoupi, HPC. <i>Prorrh. 81a</i>.<p><b>Étym</b>. ὑποκαρόω, -ωδης.`

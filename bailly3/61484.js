@@ -1,1 +1,0 @@
-lar[61484]=`<b>λογ·έμπορος, ος, ον</b>, marchand de paroles, <i>en parl. des sophistes,</i> ARTÉM. <i>2, 75</i>.<p><b>Étym</b>. λόγος, ἔμπορος.`

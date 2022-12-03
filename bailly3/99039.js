@@ -1,1 +1,0 @@
-lar[99039]=`<i>adv.</i> :<br><b>      1</b> cette année, AR. <i>Ach. 15, etc.</i> ; PLUT. <i>Cæs. 41, Pomp. 67</i> ; τὸ τῆτες, ALCIPHR. <i>m. sign.</i><br><b>      2</b> aujourd’hui : ἡ τῆτες ἡμέρα, POMPEIAN. (ATH. <i>98b</i>) ce jour même.<p><b>Étym</b>. τὸ ἔτος ; <i>cf</i>. τήμερον <i>de</i> τῇ ἡμέρᾳ.`

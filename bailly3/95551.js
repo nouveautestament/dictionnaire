@@ -1,1 +1,0 @@
-lar[95551]=`<b>συν·εξουρέω-ῶ</b>, rendre avec les urines, HPC. <i>Aph. 1252 au pass</i>.`

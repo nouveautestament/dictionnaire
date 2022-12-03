@@ -1,1 +1,0 @@
-lar[70557]=`<b>ας (ἡ)</b> préparation du vin, TH. <i>fr. 4, 67</i> ; ATH. <i>26b ;</i> DS. <i>3, 63, etc</i>.<p><b>Étym</b>. οἰνοποιός.`

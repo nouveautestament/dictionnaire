@@ -1,1 +1,0 @@
-lar[32647]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, compatissant, miséricordieux, OD. <i>5, 191</i> ; DÉM. <i>547, 15 ; avec le gén</i>. AR. <i>Pax 425</i>.<p>•<i> Cp</i>. -ονέστερος, ARSTT. <i>H.A. 9, 1, 7. • Sup</i>. -ονέστατος, LYS. <i>168, 39</i>.<p><b>Étym</b>. ἐλεέω.`

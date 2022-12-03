@@ -1,1 +1,0 @@
-lar[7743]=`<b>*ἀνα·τανύω</b> (<i>part. ao. fém. sync</i>. ἀντανύσασα <font color="purple">[τᾰῠ]</font>) étendre, CALL. <i>Jov. 30</i>.<p><b>Étym</b>. <i>cf</i>. ἀνατείνω.`

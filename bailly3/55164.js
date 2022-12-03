@@ -1,1 +1,0 @@
-lar[55164]=`<b>ου (ὁ)</b> Kèkeidès, <i>poète dithyrambique,</i> AR. <i>Nub. 981</i>.`

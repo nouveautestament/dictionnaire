@@ -1,1 +1,0 @@
-lar[69501]=`<b>ας (ἡ)</b> meurtre d’étrangers, ISOCR. <i>228c</i>.<p><b>Étym</b>. ξενοφόνος.`

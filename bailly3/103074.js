@@ -1,1 +1,0 @@
-lar[103074]=`<b>ὑπο·γίγνομαι</b> <font color="darkgreen">(<i>f</i>. ὑπογενήσομαι, <i>ao.2</i> ὑπεγενόμην, <i>etc</i>.)</font> naître ensuite <i>ou</i> peu à peu, HPC. <i>Art. 803</i> ; HDT. <i>3, 159</i> ; T. LOCR. <i>104a ;</i> POL. <i>2, 44, 1 ; 6, 6, 7, etc</i>.<p>➳ <i>Ion</i>. ὑπογίνομαι, HDT. <i>l. c</i>.`

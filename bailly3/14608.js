@@ -1,1 +1,0 @@
-lar[14608]=`<b>ἀρί·μηλον, ου (τὸ)</b> sorte de pomme, A. CAR. (ATH. <i>82b</i>).`

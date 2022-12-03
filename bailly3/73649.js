@@ -1,1 +1,0 @@
-lar[73649]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Ouranios, <i>h</i>. ANTH. <i>15, 49, etc</i>.<p><b>Étym</b>. <i>v</i>. οὐράνιος.`

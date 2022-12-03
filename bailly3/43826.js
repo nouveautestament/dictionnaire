@@ -1,1 +1,0 @@
-lar[43826]=`<b>εὐχροέω-οῶ</b>, avoir de belles couleurs, un beau teint, AR. <i>Lys. 80</i>.<p><b>Étym</b>. εὔχροος.`

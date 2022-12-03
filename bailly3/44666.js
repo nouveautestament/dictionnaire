@@ -1,1 +1,0 @@
-lar[44666]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> fermenté, SPT. <i>Ex. 12, 19, 20 ; 13, 7, etc</i>.<p><b>Étym</b>. <i>vb. de</i> ζυμόω.`

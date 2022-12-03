@@ -1,1 +1,0 @@
-lar[56648]=`<b>οῦ (ὁ)</b> changeur, banquier, LYS. (POLL. <i>7, 33</i>) ; NT. <i>Joh. 2, 15 ; Matth. 21, 12 ; Marc. 11, 15</i>.<p><b>Étym</b>. κόλλυβος.`

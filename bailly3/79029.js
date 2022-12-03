@@ -1,1 +1,0 @@
-lar[79029]=`<b>περι·ορίζω :<br>      1</b> circonscrire, PLUT. <i>Cæs. 58</i> ; LUC. <i>Salt. 37, etc. ; fig</i>. PLUT. <i>M. 226c, 719e ; p. suite,</i> définir avec soin, préciser, PLUT. <i>M. 735e.</i><br><b>      2</b> reléguer, déporter, bannir, ARSTT.`

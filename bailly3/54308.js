@@ -1,1 +1,0 @@
-lar[54308]=`<b>ου (ὁ)</b> vent qui souffle de Kaunos vers Rhodes, ARSTT. <i>Vent. 1</i>.<p><b>Étym</b>. Καῦνος².`

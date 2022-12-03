@@ -1,1 +1,0 @@
-lar[87881]=`<b>πυρι·λαμπής, ής, ές</b> <font color="purple">[ῠῐ]</font> qui brille comme du feu, ARAT. <i>1040</i> ; OPP. <i>C. 3, 72</i> ; ANTH. <i>5, 16, etc.</i> ; PLUT. <i>Crass. 24</i>.<p><b>Étym</b>. π. λάμπω.`

@@ -1,1 +1,0 @@
-lar[56728]=`<b>κολπο·φακῆ, ῆς (ἡ)</b> <i>jeu de mots par allitération avec</i> βολβοφακῆ, ATH. <i>584d</i>.<p><b>Étym</b>. κόλπος, φακῆ.`

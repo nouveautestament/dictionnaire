@@ -1,1 +1,0 @@
-lar[60368]=`<b>ατος (τὸ)</b> écorce <i>ou</i> écaille enlevée, SPT. <i>Gen. 30, 37</i> ; DIOSC. <i>1, 22</i>.<p><b>Étym</b>. λεπίζω.`

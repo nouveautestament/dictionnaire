@@ -1,1 +1,0 @@
-lar[43592]=`<b>εὐ·τιμώρητος, ος, ον</b> <font color="purple">[ῑ]</font> facilement puni, PTOL. <i>Tetr. 157</i>.<p><b>Étym</b>. εὖ, τιμωρέω.`

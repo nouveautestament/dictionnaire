@@ -1,1 +1,0 @@
-lar[22002]=`<b>γιγγλυμόω-ῶ</b>, emboîter comme une charnière, <i>d’où au pass</i>. s’emboîter comme une charnière, HPC. <i>Art. 810a</i>.<p><b>Étym</b>. γίγγλυμος.`

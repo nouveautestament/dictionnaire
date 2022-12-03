@@ -1,1 +1,0 @@
-lar[110088]=`<i>dor</i>. <b>ὠβά, ᾶς (ἡ)</b> section de tribu lacédémonienne, <i>correspondant à la phratrie</i> (<i>v</i>. φρατρία) <i>athénienne,</i> ATH. <i>141e ;</i> PLUT. <i>Lyc. 6</i>.`

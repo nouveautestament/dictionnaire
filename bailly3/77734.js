@@ -1,1 +1,0 @@
-lar[77734]=`<b>πελαργό·χρως, ωτος (ὁ, ἡ)</b> à couleur de cigogne, <i>càd</i>. blanc et noir, LYC. <i>24</i>.<p><b>Étym</b>. πελαργός, χρώς.`

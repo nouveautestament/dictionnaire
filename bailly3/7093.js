@@ -1,1 +1,0 @@
-lar[7093]=`<i>adv</i>., de manière à rendre les forces, GAL.`

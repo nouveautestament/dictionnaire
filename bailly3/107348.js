@@ -1,1 +1,0 @@
-lar[107348]=`<b>έως (ὁ)</b> habitant de Phocée, HDT. <i>1, 152 ; 6, 11, 17, etc</i>.<p>➳ <i>Plur. nom. ion</i>. Φωκαιέες, HDT. <i>1, 163, etc</i>.<p><b>Étym</b>. Φώκαια.`

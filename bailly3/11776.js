@@ -1,1 +1,0 @@
-lar[11776]=`<i>adv.</i> :<br><b>      1</b> sans qu’on y puisse songer, à l’improviste, POL. <i>4, 57, 10</i>.<br><b>      2</b> sans qu’on s’en aperçoive, imperceptiblement, SEXT. <i>154, 32 Bkk</i>.`

@@ -1,1 +1,0 @@
-lar[66526]=`<b>μονο·δέρκτης, ου</b>, <i>adj. m</i>. qui n’a qu’un œil, EUR. <i>Cycl. 78</i>.<p><b>Étym</b>. μ. δέρκομαι.`

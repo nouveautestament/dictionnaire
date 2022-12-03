@@ -1,1 +1,0 @@
-lar[104914]=`<b>φαρμακο·ποτέω-ῶ</b> <font color="purple">[μᾰ]</font> boire une potion, TH. <i>H.P. 9, 15, 4</i>.<p><b>Étym</b>. φ. πότος.`

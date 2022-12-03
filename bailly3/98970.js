@@ -1,1 +1,0 @@
-lar[98970]=`<i>sup. de</i> τηλοῦ, OD. <i>7, 322</i> ; ANTIPHIL. <i>Ep. 36</i>.`

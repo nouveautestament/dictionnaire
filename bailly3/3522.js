@@ -1,1 +1,0 @@
-lar[3522]=`<b>ἀ·κόμψευτος, ος, ον</b>, sans parure, sans recherche, <i>en parl. du style,</i> DH. <i>Comp. 150, etc</i>.<p><b>Étym</b>. ἀ, κομψεύω.`

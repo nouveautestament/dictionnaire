@@ -1,1 +1,0 @@
-lar[19383]=`<b>βαττολογέω-ῶ</b>, <i>f</i>. -ήσω, bredouiller, dire toujours la même chose, <i>d’où</i> bavarder, NT. <i>Matth. 6, 7</i> (βαττολόγος, qui bredouille, ECCL. <i>de</i> βάττος, λέγω).`

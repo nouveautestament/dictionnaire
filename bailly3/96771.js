@@ -1,1 +1,0 @@
-lar[96771]=`<b>οῦ (ὁ)</b> <font color="purple">[φᾰ]</font> convulsion, violente agitation, PLAT. <i>Rsp. 579e</i>.<p><b>Étym</b>. σφαδᾴζω.`

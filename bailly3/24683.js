@@ -1,1 +1,0 @@
-lar[24683]=`<b>(ὁ)</b> Diæxis, <i>Perse,</i> ESCHL. <i>Pers. 996</i>.`

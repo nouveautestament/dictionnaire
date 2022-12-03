@@ -1,1 +1,0 @@
-lar[9790]=`<b>(ὁ)</b> Antigéneidès, <i>h</i>. ANTH. <i>5, 206 (gén. poét</i>. -εω).<p><b>Étym</b>. <i>patr. de</i> Ἀντιγένης.`

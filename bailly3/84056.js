@@ -1,1 +1,0 @@
-lar[84056]=`<b>προ·εισκρίνομαι</b> <font color="purple">[ῑ]</font> introduire d’avance, CLÉM. <i>808</i>.`

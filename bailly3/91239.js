@@ -1,1 +1,0 @@
-lar[91239]=`<b>εως (ἡ)</b> action de tisser légèrement, <i>d’où</i> trame légère, HÉRON.<p><b>Étym</b>. <i>cf</i>. σκουτουλᾶτος.`

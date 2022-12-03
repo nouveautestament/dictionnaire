@@ -1,1 +1,0 @@
-lar[45248]=`<b>ἡλιό·φρων, ονος (ὁ, ἡ)</b> qui pense comme les Orientaux, qui a adopté les croyances des Orientaux, NAZ. <i>3, 1155 Migne</i>.<p><b>Étym</b>. ἥλιος, φρήν.`

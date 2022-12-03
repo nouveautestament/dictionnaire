@@ -1,1 +1,0 @@
-lar[30418]=`<b>οῦ (ὁ)</b> qui prépare <i>ou</i> qui donne un festin, MAN. <i>4, 300</i>.<p><b>Étym</b>. εἰλαπίνη, ἔργον.`

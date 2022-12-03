@@ -1,1 +1,0 @@
-lar[99259]=`<b>Τιμό·ξενος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Timoxénos, <i>h</i>. THC. <i>2, 33</i> ; DÉM. <i>934, 28, etc</i>.<p>➳ <i>Ion</i>. Τιμόξεινος, HDT. <i>8, 128</i>.<p><b>Étym</b>. τιμή, ξένος.`

@@ -1,1 +1,0 @@
-lar[15913]=`<b>ας (ἡ)</b> sorte de pantoufle fourrée, HIPPON. <i>fr. 19</i> ; LYC. <i>855, 1322</i>.`

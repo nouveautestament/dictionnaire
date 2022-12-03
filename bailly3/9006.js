@@ -1,1 +1,0 @@
-lar[9006]=`<b>ἀνθ·υπείκω</b>, céder à son tour, PLUT. <i>Cor. 18</i>.<p><b>Étym</b>. ἀντί, ὑ.`

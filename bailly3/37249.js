@@ -1,1 +1,0 @@
-lar[37249]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> choc, attaque, OPP. <i>H. 4, 228</i> ; ANTH. <i>5, 268</i>.<p><b>Étym</b>. ἐπελεύσομαι.`

@@ -1,1 +1,0 @@
-lar[16506]=`<b>ας (ἡ)</b> défaut d’intelligence, sottise <i>ou</i> imprudence, EUR. <i>Ph. 1727</i> ; XÉN. ARSTT.<p>➳ <i>Anc. att</i>. ἀξυν- THC. <i>1, 122 ; ion</i>. ἀξυνεσίη, HPC. <i>28, 9</i>.<p><b>Étym</b>. ἀσύνετος.`

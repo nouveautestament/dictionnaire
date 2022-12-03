@@ -1,1 +1,0 @@
-lar[62857]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action de raréfier, de rendre moins dense, ARSTT. <i>Phys. 4, 5, 1, etc.</i> ; TH. <i>C.P. 4, 14, 2, etc.</i> ; PLUT. <i>M. 876d</i>.<p><b>Étym</b>. μανόω.`

@@ -1,1 +1,0 @@
-lar[92590]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> qui suit une piste, OPP. <i>C. 1, 462</i>.<p><b>Étym</b>. στίβος.`

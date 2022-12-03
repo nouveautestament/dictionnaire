@@ -1,1 +1,0 @@
-lar[70248]=`<b>οἰακοστροφέω-ῶ</b> <font color="purple">[ᾱ]</font> diriger (<i>propr</i>. faire tourner) le gouvernail, ESCHL. <i>Pers. 767</i>.<p><b>Étym</b>. οἰακοστρόφος.`

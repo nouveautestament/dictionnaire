@@ -1,1 +1,0 @@
-lar[89634]=`<b>ή, όν</b>, saisi d’une crainte respectueuse, JAMBL. <i>Protr. p. 324</i>.<p><b>Étym</b>. σεβαστός.`

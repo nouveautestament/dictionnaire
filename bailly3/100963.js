@@ -1,1 +1,0 @@
-lar[100963]=`<b>ου (τὸ)</b> Trôtilon, <i>forteresse de Sicile,</i> THC. <i>6, 4</i>.`

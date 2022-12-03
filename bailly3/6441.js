@@ -1,1 +1,0 @@
-lar[6441]=`<b>ή, όν</b>, qui conduit autour, de circuit, MAN. <i>4, 252</i>.<p><b>Étym</b>. ἄμφοδος.`

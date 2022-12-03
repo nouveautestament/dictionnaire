@@ -1,1 +1,0 @@
-lar[62042]=`<b>ος, ον</b> <font color="purple">[ῠῐ]</font><br><b>      1</b> qui délie, ESCHL. <i>Suppl. 811</i>.<br><b>      2</b> qu’on peut délier <i>ou</i> délivrer, PLAT. <i>Leg. 820a.</i><br><b>      3</b> <i>en parl. d’un problème,</i> facile à résoudre, ARSTT. <i>An. pr. 2, 27, 5</i>.<p><b>Étym</b>. λύω.`

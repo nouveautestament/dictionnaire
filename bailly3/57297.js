@@ -1,1 +1,0 @@
-lar[57297]=`<b>κοσμο·τρόφος, ος, ον</b>, qui nourrit le monde entier, MAN. <i>1, 2</i>.<p><b>Étym</b>. κ. τρέφω.`

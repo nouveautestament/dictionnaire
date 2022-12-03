@@ -1,1 +1,0 @@
-lar[25690]=`<b>οῦ (ὁ)</b> action d’échapper à, AQU. <i>Ps. 54, 9</i>.<p><b>Étym</b>. διασῴζω.`

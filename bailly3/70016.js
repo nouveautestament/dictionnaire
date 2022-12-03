@@ -1,1 +1,0 @@
-lar[70016]=`<b>ὀβολο·στάτις, ιδος (ἡ)</b> <font color="purple">[ᾰ]</font> usurière, PLAT. <i>Ax. 367b</i>.<p><b>Étym</b>. <i>fém. de</i> ὀβολοστάτης.`

@@ -1,1 +1,0 @@
-lar[2172]=`<b>ου (ὁ)</b> Æantidès (<i>litt</i>. descendant d’Ajax) :<br><b>      1</b> <i>tyran de Lampsaque,</i> THC. <i>6, 59</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>42, 28 et 29 Baiter-Sauppe</i>.<p><b>Étym</b>. Αἴας.`

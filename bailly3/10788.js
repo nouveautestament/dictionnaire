@@ -1,1 +1,0 @@
-lar[10788]=`<i>att</i>. <b>ἁνυσίμως</b> <font color="purple">[ᾰῠ]</font> <i>adv</i>., efficacement, PLAT. <i>Theæt. 144b</i>.<p>•<i> Sup</i>. -ώτατα, PLAT. <i>Rsp. 518d</i>.`

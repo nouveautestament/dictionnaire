@@ -1,1 +1,0 @@
-lar[10032]=`<b>εως (ἡ)</b> action reconventionnelle, DÉM. <i>1006, 14</i>.<p><b>Étym</b>. ἀντιλαγχάνω.`

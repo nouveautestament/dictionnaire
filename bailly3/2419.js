@@ -1,1 +1,0 @@
-lar[2419]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ᾰλ]</font> l’î. d’Elbe, A.RH. <i>4, 652</i>.`

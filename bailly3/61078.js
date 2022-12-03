@@ -1,1 +1,0 @@
-lar[61078]=`<b>λιθό·σπερμον, ου (τὸ)</b> <font color="purple">[ῐ]</font> lithosperme, <i>plante,</i> DIOSC. <i>3, 158</i> ; GAL. <i>10, 544</i>.<p><b>Étym</b>. λ. σπέρμα.`

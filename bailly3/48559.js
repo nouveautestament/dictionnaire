@@ -1,1 +1,0 @@
-lar[48559]=`<i>att</i>. <b>Ἱερῆς, έων (οἱ)</b> les Hiérées <i>ou</i> Hiéres, <i>pple de Thessalie,</i> THC. <i>3, 92</i>.`

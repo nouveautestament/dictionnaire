@@ -1,1 +1,0 @@
-lar[72670]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ὄρθιος, P. SIL. <i>Ecphr. amb. 54</i>.`

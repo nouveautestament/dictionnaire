@@ -1,1 +1,0 @@
-lar[3332]=`<b>ῆς (ἡ)</b> silence MOSCH. 2.18.<p><b>Étym</b>. DÉLG <i>les dérivés, archaïques et rares, expriment plus l’idée de « douceur » que l’idée de « silence » ; à rattacher pê à</i> ἦκα. <i>Cf</i>. ἀκέω².`

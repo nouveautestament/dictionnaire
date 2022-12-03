@@ -1,1 +1,0 @@
-lar[93884]=`<b>ατος (τὸ)</b> conseil, avertissement, XÉN. <i>Ap. 13, etc.</i> ; ARSTT. <i>Pol. 5, 10, 13</i>.<p><b>Étym</b>. συμβουλεύω.`

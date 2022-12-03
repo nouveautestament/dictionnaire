@@ -1,1 +1,0 @@
-lar[16327]=`<b>ή, όν</b>, qui concerne l’astronomie, ARSTT. <i>An. post. 1, 13, 7</i> ; ἡ ἀστρολογική (<i>s.-e</i>. τέχνη) <i>ibid., ou</i> τὰ ἀστρολογικά, ARSTT. <i>Cæl. 2, 11, 3,</i> l’astronomie.<p><b>Étym</b>. ἀστρολόγος.`

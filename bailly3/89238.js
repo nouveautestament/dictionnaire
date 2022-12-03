@@ -1,1 +1,0 @@
-lar[89238]=`<b>ας (ἡ)</b> Samarie, <i>v. de Judée,</i> POL. <i>5, 71, 11, etc</i>.`

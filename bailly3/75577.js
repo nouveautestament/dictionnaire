@@ -1,1 +1,0 @@
-lar[75577]=`<i>att</i>. <b>παραθαλάττιος, α, ον</b> <font color="purple">[θᾰ]</font> qui est sur le bord de la mer, maritime, HDT. <i>7, 109, etc.</i> ; ἡ παραθαλαττία (<i>s.e</i>. γῆ) XÉN. <i>Hell. 4, 8, 7,</i> contrée maritime ; τὰ παρ. HDT. <i>3, 135, etc</i>. le littoral.<p>➳ <i>Fém</i>. -ος, DC. <i>48, 49</i>.<p><b>Étym</b>. π. θάλασσα.`

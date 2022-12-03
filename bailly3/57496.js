@@ -1,1 +1,0 @@
-lar[57496]=`<font color="purple">[ᾰ]</font> <i>adv. seul. dans la locut</i>. κρ. κεκράξεται, AR. <i>Eq. 487,</i> il poussera de grands cris, <i>ou sel. d’autres, acc. de</i> κραγός, cri.`

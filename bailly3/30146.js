@@ -1,1 +1,0 @@
-lar[30146]=`<b>ἐθελό·δουλος, ος, ον</b>, esclave volontaire, PLAT. <i>Rsp. 562d</i>.<p><b>Étym</b>. ἐθέλω, δοῦλος.`

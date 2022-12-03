@@ -1,1 +1,0 @@
-lar[24486]=`<b>οῦ (ὁ)</b> action de s’appuyer sur le coude, PLUT. <i>M. 644a</i>.<p><b>Étym</b>. διά, *ἀγκωνίζομαι, <i>de</i> ἀγκών.`

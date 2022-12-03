@@ -1,1 +1,0 @@
-lar[61790]=`<b>λυγόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> plier, courber, ANTH. <i>5, 217</i>.<br><b>      2</b> lier, ANTH. <i>9, 150</i> ; A. PL. <i>1, 15</i>.<p><b>Étym</b>. λύγος.`

@@ -1,1 +1,0 @@
-lar[23333]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui partage, qui distribue, <i>gén</i>. ESCHL. <i>Sept. 711</i>.<p><b>Étym</b>. δατέομαι.`

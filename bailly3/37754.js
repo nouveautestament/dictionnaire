@@ -1,1 +1,0 @@
-lar[37754]=`<b>ἐπι·ζυγόω-ῶ</b> <font color="purple">[ῠ]</font> verrouiller <i>ou</i> fermer (une porte) ARTÉM. <i>1, 4</i> ; SYN. <i>Ep. 29, 1357c Migne</i>.`

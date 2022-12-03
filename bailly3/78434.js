@@ -1,1 +1,0 @@
-lar[78434]=`<b>περι·βιβρώσκω</b>, ronger <i>ou</i> manger tout autour, DS. <i>2, 4</i>.`

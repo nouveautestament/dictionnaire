@@ -1,1 +1,0 @@
-lar[74112]=`<b>πάγ·καρπος, ου (ὁ)</b> sorte de safran (<i>Chamæleon niger</i> L.) DIOSC. <i>Noth. 3, 11</i>.<p><b>Étym</b>. π. καρπός.`

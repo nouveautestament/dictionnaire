@@ -1,1 +1,0 @@
-lar[72971]=`<b>(ἡ)</b> pivoine, <i>plante,</i> DIOSC. <i>3, 147</i>.`

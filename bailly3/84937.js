@@ -1,1 +1,0 @@
-lar[84937]=`<b>προ·πετάννυμι</b>, déployer en avant : τινός τι, AR. <i>fr. 159 Dind</i>. déployer une chose devant une autre ; ἑαυτόν τινος, XÉN. <i>Cyr. 4, 2, 23,</i> se déployer devant qqn pour le protéger, <i>en parl. d’une troupe ; fig</i>. τι πρό τινος, DC. <i>52, 7,</i> déployer une chose devant une autre.`

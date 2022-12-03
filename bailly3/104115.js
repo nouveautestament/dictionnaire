@@ -1,1 +1,0 @@
-lar[104115]=`<b>ὑπο·φλέγω :<br>   I <i>tr.</i> :<br>      1</b> allumer <i>ou</i> enflammer en dessous, ANTH. <i>9, 626</i>.<br><b>      2</b> <i>fig</i>. brûler intérieurement, NICÉPH. <i>1, 502 W.</i><br><b>   II <i>intr.</i></b> être brûlé intérieurement, NAZ.`

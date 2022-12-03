@@ -1,1 +1,0 @@
-lar[49685]=`<b>ἰσο·μέτωπος, ος, ον</b> <font color="purple">[ῑ̆]</font>, qui a un front égal, XÉN. <i>Hell. 4, 5, 16</i>.<p><b>Étym</b>. ἴ. μέτωπον.`

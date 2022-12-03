@@ -1,1 +1,0 @@
-lar[10680]=`<b>ου (ὁ)</b> Antyllos, <i>h</i>. PLUT. <i>Ant. 71</i>.`

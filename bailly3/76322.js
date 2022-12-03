@@ -1,1 +1,0 @@
-lar[76322]=`<i>adv</i>., en ordre, JAMBL. <i>V. Pyth. p. 438 ; fig</i>. PLAT. <i>Rsp. 399b</i>.<p><b>Étym</b>. παρατάσσω.`

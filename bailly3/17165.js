@@ -1,1 +1,0 @@
-lar[17165]=`<b>ος, ον</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> (ἀ <i>cop</i>.) qui crie tout d’une voix, qui pousse des cris retentissants, IL. <i>13, 41</i>.<br><b>      2</b> (ἀ <i>nég</i>.) sans voix, Q. SM. <i>13, 70</i>.<p><b>Étym</b>. <i>éol. p</i>. *ἀϝίαχος, <i>de</i> ἀ, *ϝιαχή, <i>v</i>. ἰαχή.`

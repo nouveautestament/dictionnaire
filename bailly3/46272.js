@@ -1,1 +1,0 @@
-lar[46272]=`<b>ου (ὁ)</b> <i>dim. de</i> θάμνος, ARR. <i>An. 7, 20, 2</i> ; ORIB. <i>167 Matthäi</i>.`

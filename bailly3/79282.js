@@ -1,1 +1,0 @@
-lar[79282]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> opération pour enlever la peau de la tête, GAL. <i>2, 394, 395</i>.<p><b>Étym</b>. περισκυθίζω.`

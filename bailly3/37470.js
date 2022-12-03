@@ -1,1 +1,0 @@
-lar[37470]=`<b>ἐπι·γνάμπτω</b>, courber, plier, fléchir, IL. <i>21, 178 ; au pass</i>. A.RH. <i>2, 591 ; fig</i>. faire fléchir la résolution, la volonté (de qqn) IL. <i>1, 569 ; 2, 14, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. NIC. <i>Al. 363</i>.`

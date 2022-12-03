@@ -1,1 +1,0 @@
-lar[64734]=`<b>ου (ὁ)</b> mendiant, LUC. <i>Men. 15</i> ; ARTÉM. <i>3, 53</i>.<p><b>Étym</b>. μεταιτέω.`

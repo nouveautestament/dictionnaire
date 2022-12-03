@@ -1,1 +1,0 @@
-lar[109783]=`<b>      1</b> mettre en scène des moucherons, <i>en parl. du poète comique Magnès,</i> AR. <i>Eq. 523</i>.<br><b>      2</b> user par le frottement, SYN. <i>244a</i>.<p><b>Étym</b>. ψήν.`

@@ -1,1 +1,0 @@
-lar[98341]=`<b>τερατολογέω-ῶ</b> <font color="purple">[ᾰ]</font> disserter sur les monstres, les prodiges <i>ou</i> les présages, ARSTT. <i>Meteor. 2, 8, 4</i> ; DS. <i>1, 63</i> ; LUC. <i>Philops. 37 ; au pass</i>. SEXT. <i>P. 2, 70 ; 3, 31</i> ; LUC. <i>Philopatr. 10</i>.<p><b>Étym</b>. τερατολόγος.`

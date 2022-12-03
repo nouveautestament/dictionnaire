@@ -1,1 +1,0 @@
-lar[69553]=`<b>ξηρο·πυρίτης ἄρτος (ὁ)</b> <font color="purple">[ῡῑ]</font> pain de pur froment, ATH. <i>114c</i>.<p><b>Étym</b>. ξ. πυρός.`

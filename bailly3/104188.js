@@ -1,1 +1,0 @@
-lar[104188]=`<b>εως (ἡ)</b> <font color="purple">[χῠ]</font> obscurcissement des yeux par l’humidité qui s’y répand, <i>sel. d’autres,</i> la cataracte, EL. <i>N.A. 7, 14</i> ; DIOSC. <i>1, 101 ; 214</i>.<p><b>Étym</b>. ὑποχέω.`

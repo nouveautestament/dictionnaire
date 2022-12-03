@@ -1,1 +1,0 @@
-lar[98157]=`<b>τελεσικαρπέω-ῶ</b> <font color="purple">[ῐ]</font> amener ses fruits à maturité, STR. <i>831</i>.<p><b>Étym</b>. τελεσίκαρπος.`

@@ -1,1 +1,0 @@
-lar[97401]=`<b>Ταλαι·μένης, ους</b>, <i>épq</i>. <b>εος (ὁ)</b> <font color="purple">[ᾰ]</font> Talæménès, <i>chef des Méoniens,</i> IL. <i>2, 865</i>.<p><b>Étym</b>. τλῆναι, μένος.`

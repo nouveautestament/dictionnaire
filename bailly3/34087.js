@@ -1,1 +1,0 @@
-lar[34087]=`<b>ἐν·δᾳδόομαι-οῦμαι</b> <font color="purple">[ᾱ]</font> devenir résineux, TH. <i>H.P. 9, 2, 7</i>.<p><b>Étym</b>. ἔνδᾳδος.`

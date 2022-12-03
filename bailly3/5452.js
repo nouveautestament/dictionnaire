@@ -1,1 +1,0 @@
-lar[5452]=`<i>acc</i>. <b>-ην (ὁ)</b> Amenthès, <i>lieu où vont les âmes après la mort, selon la croyance égyptienne,</i> PLUT. <i>M. 362e</i>.`

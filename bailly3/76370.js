@@ -1,1 +1,0 @@
-lar[76370]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui reproduit grossièrement une image, SEXT. <i>M. 8, 67</i>.<p><b>Étym</b>. παρατυπόω.`

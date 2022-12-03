@@ -1,1 +1,0 @@
-lar[68372]=`<b>νευρο·κοπέω-ῶ</b>, estropier en coupant les nerfs, énerver, <i>acc</i>. POL. <i>31, 12, 11</i> ; STR. <i>772</i> ; DS. <i>3, 25</i>.<p><b>Étym</b>. ν. κόπτω.`

@@ -1,1 +1,0 @@
-lar[71560]=`<b>ὁμοιό·τονος, ος, ον</b>, qui a le même accent, <i>t. de gramm</i>. DH. <i>Comp. 12</i>.<p><b>Étym</b>. ὅμ. τόνος.`

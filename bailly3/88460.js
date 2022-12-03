@@ -1,1 +1,0 @@
-lar[88460]=`<b>Ῥηνιο·εργής, ής, ές</b>, fabriqué par Rhènios, CRITIAS (ATH. <i>486e</i>).<p><b>Étym</b>. *Ῥήνιος, ἔργον.`

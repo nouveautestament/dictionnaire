@@ -1,1 +1,0 @@
-lar[93754]=`<b>συλ·λαλέω-ῶ</b> <font color="purple">[ᾰ]</font> parler ensemble <i>ou</i> avec : τινι, POL. <i>4, 22, 8</i> ; πρός τινα, NT. <i>Luc. 4, 36</i> ; μετά τινος, NT. <i>Matth. 17, 3, etc</i>. avec qqn.`

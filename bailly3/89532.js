@@ -1,1 +1,0 @@
-lar[89532]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> Satyra, <i>f</i>. IDOM. (ATH. <i>576c</i>).<p>➳ <i>Ion</i>. -ύρη, ANTH. <i>5, 206 ; 6, 39 ; 7, 462</i>.`

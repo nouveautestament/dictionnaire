@@ -1,1 +1,0 @@
-lar[9281]=`<b>ης, ες</b>, dissemblable, THEOL. <i>203</i>.<p><b>Étym</b>. ἀνόμοιος, -ωδης.`

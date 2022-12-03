@@ -1,1 +1,0 @@
-lar[91059]=`<b>οῦ (ὁ)</b> durcissement, HPC. <i>Prorrh. 68, etc</i>.<p><b>Étym</b>. σκληρύνω.`

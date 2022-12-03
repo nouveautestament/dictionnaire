@@ -1,1 +1,0 @@
-lar[32742]=`<b>ἐλεφαντ·άρχης, ου (ὁ)</b> commandant d’une troupe de seize éléphants de guerre, SPT. <i>2Macc. 14, 12 ; 3, 5, 4</i> ; PLUT. <i>Demetr. 25</i>.<p><b>Étym</b>. ἐλέφας, ἄρχω.`

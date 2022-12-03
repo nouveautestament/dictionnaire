@@ -1,1 +1,0 @@
-lar[91698]=`<b>*σπαθιάς</b>, <i>ion</i>. <b>σπαθίης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. formé par les côtes : κτείς, OPP. <i>C. 1, 296,</i> la carcasse, <i>litt</i>. le peigne formé par les côtes.<p><b>Étym</b>. σπάθη.`

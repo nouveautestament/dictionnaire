@@ -1,1 +1,0 @@
-lar[83527]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui est en pente (terrain) IL. <i>21, 262 ; p. suite,</i> qui se précipite (eau) A.RH. <i>3, 73</i>.<br><b>      2</b> <i>fig</i>. qui se jette en avant, <i>d’où</i> résolu, SPT. <i>Sir. 30, 8</i> ; téméraire, entreprenant, LYSIS (JAMBL. <i>V. Pyth. 77).</i><p><b>Étym</b>. προάλλομαι.`

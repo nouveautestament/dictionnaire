@@ -1,1 +1,0 @@
-lar[70026]=`<b>ή, όν</b>, qui concerne le nombre huit, CLÉM. <i>668</i>.<p><b>Étym</b>. ὀγδοάς.`

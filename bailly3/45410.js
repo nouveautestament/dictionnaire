@@ -1,1 +1,0 @@
-lar[45410]=`<b>ἡμι·δαρεικόν, οῦ (τὸ)</b> <font color="purple">[ῐᾱ]</font> demi-darique, <i>monnaie,</i> XÉN. <i>An. 1, 3, 21</i>.<p><b>Étym</b>. ἡμι-, δαρεικός.`

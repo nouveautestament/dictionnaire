@@ -1,1 +1,0 @@
-lar[52945]=`<b>κατ·αντίον</b>, <i>adv</i>., en face, SOPH. <i>Ant. 512</i> ; en face de, <i>gén</i>. HDT. <i>6, 103, 118, ou dat</i>. HDT. <i>7, 33</i>.<p><b>Étym</b>. κ. ἀντίος, <i>cf</i>. καταντία².`

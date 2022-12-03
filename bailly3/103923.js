@@ -1,1 +1,0 @@
-lar[103923]=`<b>εως (ἡ)</b> action d’épaissir, TH. <i>Od. 22</i>.<p><b>Étym</b>. ὑποστύφω.`

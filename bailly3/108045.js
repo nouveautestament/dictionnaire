@@ -1,1 +1,0 @@
-lar[108045]=`<b>ης (ἡ)</b> <i>au dat. plur</i>. χεείαις, NIC. <i>Th. 79, par allong. métr. p</i>. χείη.`

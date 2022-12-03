@@ -1,1 +1,0 @@
-lar[92433]=`(<i>seul. prés</i>.) priver, spolier, THC. <i>2, 43</i> ; ARTÉM. <i>1, 44 ; 2, 3, d’où, au pass. (seul. prés.)</i> être privé de, <i>gén</i>. HDT. <i>4, 159 ; 7, 162</i> ; THC. <i>1, 73 ; 2, 49</i> ; EUR. <i>Suppl. 1093</i> ; AGATHON (ARSTT. <i>Nic. 6, 2, 6).</i><p><b>Étym</b>. στερέω.`

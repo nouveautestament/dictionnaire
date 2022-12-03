@@ -1,1 +1,0 @@
-lar[28132]=`<b>δυσ·άγκριτος, ος, ον</b> <font color="purple">[ῠῐ]</font> difficile à discerner, ESCHL. <i>Suppl. 110</i>.<p><b>Étym</b>. δ. *ἄγκριτος, <i>p. sync. p</i>. ἀνάκριτος, <i>de</i> ἀνακρίνω.`

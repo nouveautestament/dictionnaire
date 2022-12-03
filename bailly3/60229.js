@@ -1,1 +1,0 @@
-lar[60229]=`<i>adv</i>., en glissant doucement, PLAT. <i>Theæt. 144b ; joint à</i> ἀπταίστως, PLUT. <i>Marc. 14 ; à</i> προσηνῶς, PLUT. <i>M. 384a</i>.<p><b>Étym</b>. λεῖος.`

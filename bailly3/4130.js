@@ -1,1 +1,0 @@
-lar[4130]=`<b>ατος (τὸ)</b> douleur, HPC. <i>V. med. 10</i> ; SOPH. <i>Ph. 340, 1170</i> ; PLUT. <i>Syll. 26, etc</i>.<p><b>Étym</b>. ἀλγέω.`

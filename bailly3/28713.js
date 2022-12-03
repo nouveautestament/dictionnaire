@@ -1,1 +1,0 @@
-lar[28713]=`<b>δυσ·οικονόμητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à digérer, DIPH. SIPHN. (ATH. <i>74c</i>) ; XÉNOCR. <i>Al. 73</i>.<p><b>Étym</b>. δ. οἰκονομέω.`

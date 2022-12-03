@@ -1,1 +1,0 @@
-lar[40459]=`<b>ἐρι·μηκάς, άδος</b> <font color="purple">[ῐᾰδ]</font> <i>adj. f</i>. au bêlement sonore, CALL. <i>Ap. 51, conj</i>.<p><b>Étym</b>. ἐρι-, μηκάομαι.`

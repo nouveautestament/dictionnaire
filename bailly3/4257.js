@@ -1,1 +1,0 @@
-lar[4257]=`<b>ἀλεξί·γαμος, ος, ον</b> <font color="purple">[ᾰῐᾰ]</font> qui repousse le mariage, NONN. <i>D. 40, 541</i>.<p><b>Étym</b>. ἀλέξω, γάμος.`

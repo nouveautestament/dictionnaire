@@ -1,1 +1,0 @@
-lar[99589]=`<b>τόξ·αρχος, ου (ὁ)</b> chef des archers, ESCHL. <i>Pers. 556</i> ; THC. <i>3, 98</i>.<p>➳ <i>Dans les inscr. att</i>. τόξαρχος, <i>non</i> τοξάρχης, CIA. <i>1, 79, 6 (av. 403 av. J.-C.) ; v. Meisterh. p. 97, § 47</i>.<p><b>Étym</b>. τόξον, ἄρχω.`

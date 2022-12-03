@@ -1,1 +1,0 @@
-lar[108500]=`<b>χιονό·βατος, ος, ον</b> <font color="purple">[ᾰ]</font> où l’on marche dans la neige, ARR. <i>Ind. 6 (conj</i>. χιονόβολος).<p><b>Étym</b>. χιών, βαίνω.`

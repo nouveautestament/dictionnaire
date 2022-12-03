@@ -1,1 +1,0 @@
-lar[62678]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰκ]</font> Malthakè, <i>propr</i>. « la molle, la sensuelle », <i>n. de f</i>. LUC. <i>Rh. præc. 12</i>.<p><b>Étym</b>. μαλθακός.`

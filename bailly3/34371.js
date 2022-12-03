@@ -1,1 +1,0 @@
-lar[34371]=`<b>ή, όν :<br>      1</b> propre à agir, ARSTT. <i>Phys. 3, 3, 1, etc.</i><br><b>      2</b> actif, efficace, POL. <i>12, 28, 6</i>.<br><b>      3</b> <i>t. de gramm</i>. qui marque l’action, actif (verbe) <i>p. opp. à</i> παθητικός, DH. <i>Thuc. 7</i> ; DYSC. <i>Conj. 481</i>.<p><b>Étym</b>. ἐνεργέω.`

@@ -1,1 +1,0 @@
-lar[22436]=`<b>ή, όν</b>, qui concerne la semence génitale, séminal, ARSTT. <i>Probl. 4, 26, 6</i>.<p><b>Étym</b>. γόνος.`

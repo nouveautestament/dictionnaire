@@ -1,1 +1,0 @@
-lar[84854]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action de prévoir, faculté de prévoir, THÉM. <i>146b</i>.<p><b>Étym</b>. προοράω.`

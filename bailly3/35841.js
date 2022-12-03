@@ -1,1 +1,0 @@
-lar[35841]=`<b>οῦ (ὁ)</b> disputeur, chicaneur, EUR. <i>Suppl. 894</i>.<p><b>Étym</b>. ἐξερίζω.`

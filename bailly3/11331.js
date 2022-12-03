@@ -1,1 +1,0 @@
-lar[11331]=`<b>ἀ·παραμύθητος, ος, ον</b> <font color="purple">[ῡ]</font> que l’on ne peut fléchir par la parole, <i>d’où</i> :<br><b>      1</b> inexorable, PLAT. <i>Epin. 980d ;</i> PLUT. <i>M. 629a.</i><br><b>      2</b> inconsolable, PLUT. <i>Crass. 22</i> ; HLD. <i>1, 14</i>.<p><b>Étym</b>. ἀ, παραμυθέομαι.`

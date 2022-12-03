@@ -1,1 +1,0 @@
-lar[41379]=`<b>ἑτερό·στομος, ος, ον :<br>      1</b> qui n’est tranchant que d’un côté, SYN. <i>Ep. 108, 1489c Migne</i>.<br><b>      2</b> <i>t. de tact</i>. ἑ. φάλαγξ, troupe en ligne dont les officiers sont placés à droite et à gauche, ARR. <i>Tact. 29, 3 ; ou</i> troupe à deux fronts, <i>càd</i>. dont un côté forme un autre front, ANON. BYZ. <i>94, 31, 8 ; 96, 31, 51</i>.`

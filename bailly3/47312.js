@@ -1,1 +1,0 @@
-lar[47312]=`<b>Θηρο·γόνος</b> <i>ou</i> <b>Θηρό·γονος, ου (ὁ)</b> Thèrogonos, mt. près de l’Hydaspe dans l’Inde, CHRYSERM. (Ps.-PLUT. <i>Fluv. 1, 5</i>).`

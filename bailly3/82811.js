@@ -1,1 +1,0 @@
-lar[82811]=`<b>πορνο·βοσκός, οῦ (ὁ, ἡ)</b> qui tient une maison de prostitution, DÉM. <i>1354, 22</i> ; ESCHN. <i>89, 4</i> ; DIPH. (<i>Com. fr. 4, 415).</i><p><b>Étym</b>. πόρνη, βόσκω.`

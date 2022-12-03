@@ -1,1 +1,0 @@
-lar[1933]=`<i>adv</i>., sans chaleur, HPC. <i>Acut. 388</i>.<p><b>Étym</b>. ἀθαλπής.`

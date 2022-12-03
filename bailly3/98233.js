@@ -1,1 +1,0 @@
-lar[98233]=`<b>οῦ (ὁ)</b> Telmèssos, <i>fl. de Sicile,</i> EL. <i>V.H. 2, 33</i>.`

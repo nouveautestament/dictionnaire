@@ -1,1 +1,0 @@
-lar[35772]=`<b>ἐξ·έλκω</b> (<i>seul. prés. ; pour les autres temps on emploie les temps correspondants de</i> ἐξελκύω) tirer de : τινός, OD. <i>5, 422,</i> d’un lieu ; φάσγανον κολεοῦ, EUR. <i>Hec. 544,</i> tirer un glaive du fourreau ; <i>fig</i>. Ἑλλάδα δουλείας, PD. <i>P. 1, 146,</i> arracher la Grèce à la servitude ; traîner, SOPH. <i>Ph. 291</i>.`

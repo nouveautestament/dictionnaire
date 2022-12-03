@@ -1,1 +1,0 @@
-lar[89888]=`<i>adv</i>., prudemment, sagement, ESCHL. <i>Suppl. 724</i>.<p><b>Étym</b>. σωφρονίζω.`

@@ -1,1 +1,0 @@
-lar[79911]=`<b>πετροσελινίτης οἶνος (ὁ)</b> <font color="purple">[ῑ ῑ]</font> vin parfumé de persil sauvage, GEOP. <i>8, 12</i>.<p><b>Étym</b>. πετροσέλινον.`

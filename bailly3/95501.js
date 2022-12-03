@@ -1,1 +1,0 @@
-lar[95501]=`<b>συν·εξαναλίσκω</b> <font color="purple">[ᾰᾱ]</font> dépenser <i>ou</i> épuiser avec, DH. <i>4, 23</i>.`

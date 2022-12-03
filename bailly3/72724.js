@@ -1,1 +1,0 @@
-lar[72724]=`<b>ὀρθο·λογέω-ῶ</b>, parler correctement <i>ou</i> avec propriété, PLUT. <i>M. 570e</i>.<p><b>Étym</b>. ὀ. λόγος.`

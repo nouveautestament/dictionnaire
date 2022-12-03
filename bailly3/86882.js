@@ -1,1 +1,0 @@
-lar[86882]=`<i>vb. de</i> προϋποτίθημι, JAMBL. <i>V. Pyth. 2, p. 295 Kiessl</i>.`

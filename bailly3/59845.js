@@ -1,1 +1,0 @@
-lar[59845]=`<b>εως (ἡ)</b> <font color="purple">[λᾰ]</font> évacuation d’humeurs, de matières, ARSTT. <i>Probl. 23 fin</i> ; ARÉT. <i>p. 112, 12</i>.<p><b>Étym</b>. λαπάζω.`

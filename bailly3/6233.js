@@ -1,1 +1,0 @@
-lar[6233]=`<i>adv</i>., d’une manière douteuse ; ESCHL. <i>Sept. 809</i>.`

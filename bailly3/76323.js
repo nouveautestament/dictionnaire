@@ -1,1 +1,0 @@
-lar[76323]=`<i>adv</i>., avec soin, PHIL. <i>1, 115, etc</i>.<p><b>Étym</b>. παρατηρέω.`

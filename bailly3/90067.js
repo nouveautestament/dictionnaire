@@ -1,1 +1,0 @@
-lar[90067]=`<b>*σιαλιστήριον</b>, <i>ion</i>. <b>σιελιστήριον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> partie du frein que les chevaux mouillent de leur écume, GEOP. <i>16, 1, 12</i>.<p><b>Étym</b>. σιαλίζω.`

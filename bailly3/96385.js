@@ -1,1 +1,0 @@
-lar[96385]=`<b>συν·τρυφάω-ῶ</b> <font color="purple">[ῠφ]</font> vivre d’une vie efféminée avec, <i>dat</i>. DC. <i>48, 27</i>.`

@@ -1,1 +1,0 @@
-lar[99888]=`<b>έων (οἱ)</b> les Tralles, <i>pple d’Illyrie,</i> PLUT. <i>Ages. 16, etc</i>.`

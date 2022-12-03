@@ -1,1 +1,0 @@
-lar[84010]=`<b>προ·δουλόω-ῶ</b>, asservir auparavant, ONOS. <i>14, 2</i>.`

@@ -1,1 +1,0 @@
-lar[13266]=`<b>εως (ἡ)</b> <font color="purple">[σᾰ]</font> éloignement, PROCL. PLAT. <i>Rsp. 6</i>.<p><b>Étym</b>. ἀποσαλεύω.`

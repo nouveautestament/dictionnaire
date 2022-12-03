@@ -1,1 +1,0 @@
-lar[79850]=`<b>πετασ·ώδης, ης, ες</b> <font color="purple">[ᾰ]</font> en forme de parasol, PHÆNIAS (ATH. <i>371d</i>).<p><b>Étym</b>. πέτασος, -ωδης.`

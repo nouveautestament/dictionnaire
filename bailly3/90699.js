@@ -1,1 +1,0 @@
-lar[90699]=`<b>σκαφηφορέω-ῶ</b> <font color="purple">[ᾰ]</font> être scaphéphore, EL. <i>V.H. 6, 1</i>.<p><b>Étym</b>. <i>v</i>. σκαφηφόρος.`

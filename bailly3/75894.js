@@ -1,1 +1,0 @@
-lar[75894]=`<b>παρα·λούομαι-οῦμαι</b>, se baigner ensemble <i>ou</i> en même temps, AR. <i>fr. 150, 436 Dind</i>.`

@@ -1,1 +1,0 @@
-lar[61508]=`<b>λογογραφέω-ῶ</b> <font color="purple">[ᾰ]</font> écrire des discours pour autrui, PLUT. <i>Dem. 6, Dem. c. Cic. 3</i>.<p><b>Étym</b>. λογογραφεύς.`

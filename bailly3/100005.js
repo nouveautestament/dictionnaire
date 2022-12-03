@@ -1,1 +1,0 @@
-lar[100005]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> sol rocailleux, DH. <i>17, 5</i> ; LUC. <i>Tox. 49</i>.<br><b>      2</b> aspérité, <i>en gén</i>. LUC. <i>V.H. 2, 30</i>.<p><b>Étym</b>. τραχύς.`

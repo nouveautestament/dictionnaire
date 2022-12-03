@@ -1,1 +1,0 @@
-lar[110039]=`<b>ψυχ·ωφελής, ής, ές</b> <font color="purple">[ῡ]</font> utile à l’âme, NYSS.<p><b>Étym</b>. ψυχή, ὠφελέω.`

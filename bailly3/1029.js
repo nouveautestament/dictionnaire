@@ -1,1 +1,0 @@
-lar[1029]=`<b>(ὁ)</b> <i>seul. acc</i>. -άρην <font color="purple">[ᾱρ]</font> Ankharès, <i>Perse,</i> ESCHL. <i>Pers. 995</i>.`

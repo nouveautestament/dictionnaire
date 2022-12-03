@@ -1,1 +1,0 @@
-lar[68123]=`<b>νεό·δμητος, ος, ον</b>, récemment bâti, ANTH. <i>App. 120</i>.<p>➳ <i>Dor</i>. νεόδματος <font color="purple">[ᾱ]</font> PD. <i>I. 3, 80</i>.<p><b>Étym</b>. ν. δέμω.`

@@ -1,1 +1,0 @@
-lar[3922]=`<b>ἀ·κτέριστος, ος, ον</b>, qui n’a pas reçu les honneurs funèbres, SOPH. <i>Ant. 1071</i> ; LYC. <i>907, etc</i>.<p><b>Étym</b>. ἀ, κτερίζω.`

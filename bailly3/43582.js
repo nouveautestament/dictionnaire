@@ -1,1 +1,0 @@
-lar[43582]=`<b>οῦ (ὁ)</b> celui qui déprécie <i>ou</i> amoindrit, PHILOD. <i>De sup. 24, 6 Sauppe</i>.<p><b>Étym</b>. εὐτελίζω.`

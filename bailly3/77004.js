@@ -1,1 +1,0 @@
-lar[77004]=`<b>εως (ἡ)</b> action de passer auprès, PROCL. <i>Ptol. 200</i>.`

@@ -1,1 +1,0 @@
-lar[59646]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> babillarde, ANTH. <i>5, 237</i>.<p><b>Étym</b>. λαλέω.`

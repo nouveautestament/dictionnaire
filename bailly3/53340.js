@@ -1,1 +1,0 @@
-lar[53340]=`<b>κατα·σκεπάζω</b>, couvrir, revêtir, JOS. <i>A.J. 8, 4, 1 ; au pass</i>. ARTÉM. <i>2, 32</i>.`

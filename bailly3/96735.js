@@ -1,1 +1,0 @@
-lar[96735]=`<b>ου (τὸ)</b> clôture (cage, prison, <i>etc</i>.) HERMÈS (STOB. <i>Ecl. phys. p. 1072).</i><p><b>Étym</b>. συνέχω.`

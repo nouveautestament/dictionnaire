@@ -1,1 +1,0 @@
-lar[13348]=`<b>ἀπο·σκυθίζω</b> <font color="purple">[ῠ]</font><br><b>      1</b> scalper comme les Scythes, <i>càd</i>. enlever avec les cheveux la peau de la tête, ATH. <i>524f.</i><br><b>      2</b> <i>p. ext</i>. raser la tête, EUR. <i>Tr. 1026</i>.<p><b>Étym</b>. ἀ. Σκύθης.`

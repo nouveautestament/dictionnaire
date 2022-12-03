@@ -1,1 +1,0 @@
-lar[86634]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. προσφύσησις NYSS. <i>2, 1185 Migne</i>.`

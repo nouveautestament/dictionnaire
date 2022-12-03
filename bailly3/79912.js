@@ -1,1 +1,0 @@
-lar[79912]=`<b>πετρο·σέλινον, ου (τὸ)</b> <font color="purple">[ῑ]</font> persil sauvage, DIOSC. <i>3, 77</i>.<p><b>Étym</b>. πέτρα, σέλινον.`

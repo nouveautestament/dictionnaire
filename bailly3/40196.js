@@ -1,1 +1,0 @@
-lar[40196]=`<b>ἐργατο·κυλίνδριος τόπος (ὁ)</b> <font color="purple">[ᾰῠ]</font> atelier <i>ou</i> loge des cabestans, BITON (<i>Math. p. 109).</i><p><b>Étym</b>. ἐργάτης, κύλινδρος.`

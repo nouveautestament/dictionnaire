@@ -1,1 +1,0 @@
-lar[55324]=`<b>ή, όν</b>, mêlé de cire, <i>d’où subst</i>. ἡ κηρωτή :<br><b>      1</b> mélange de cire avec de l’huile, de la gomme, <i>etc.,</i> cérat, HPC. <i>587, 4 ; 753a ;</i> AR. <i>Ach. 1176, etc.</i><br><b>      2</b> céruse, <i>sorte de fard,</i> AR. <i>fr. 309, 1</i>.<p><b>Étym</b>. κηρόω.`

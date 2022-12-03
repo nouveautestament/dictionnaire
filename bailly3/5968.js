@@ -1,1 +1,0 @@
-lar[5968]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> égratignure, déchirure, DÉM. <i>1157, 5</i> ; PLUT. <i>Pyrrh. 3, etc.</i> ; LUC. <i>Conv. 20, etc.</i><br><b>      2</b> action de déchirer, lacération, meurtrissure, PLUT. <i>Sol. 21</i>.<p><b>Étym</b>. ἀμύσσω.`

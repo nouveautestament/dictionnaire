@@ -1,1 +1,0 @@
-lar[59956]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾱῐδ]</font> outil pour tailler les pierres, AGATHARCH. (PHOT. <i>p. 449, 4).</i><p><b>Étym</b>. λατόμος.`

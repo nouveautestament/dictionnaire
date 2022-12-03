@@ -1,1 +1,0 @@
-lar[41926]=`<b>εὔ·δουλος, ος, ον</b>, bon pour ses esclaves, PHÉRÉCR. (POL. <i>3, 80</i>) ; ACHÆ. (ATH. <i>267d</i>).<p><b>Étym</b>. εὖ, δοῦλος.`

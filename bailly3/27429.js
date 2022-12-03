@@ -1,1 +1,0 @@
-lar[27429]=`<b>δολιχ·ήρετμος, ος, ον</b> <font color="purple">[ῐ]</font> aux longues rames, <i>ép. d’un navire, des Phéaciens,</i> OD. <i>4, 499, etc. ; p. suite,</i> puissant par ses rames, <i>càd</i>. sur mer, PD. <i>O. 8, 27</i>.<p><b>Étym</b>. δολιχός, ἐρετμός.`

@@ -1,1 +1,0 @@
-lar[36277]=`<b>ἐξ·υπεροπτάω-ῶ</b> <font color="purple">[ῠ]</font> faire trop cuire, brûler, GAL. <i>10, 528d</i>.`

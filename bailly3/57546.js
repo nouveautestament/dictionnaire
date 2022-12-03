@@ -1,1 +1,0 @@
-lar[57546]=`<b>κραναή·πεδος, ος, ον</b> <font color="purple">[ᾰν]</font> au sol dur <i>ou</i> rocailleux, HH. <i>Ap. 72</i>.<p><b>Étym</b>. κραναός, πέδον.`

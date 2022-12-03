@@ -1,1 +1,0 @@
-lar[18767]=`<b>βαθυ·κρύσταλλος, ος, ον</b> <font color="purple">[ᾰῡκρ]</font> à la glace profonde <i>ou</i> épaisse, P. SIL. <i>Ecphr. ag. Soph. 637</i>.`

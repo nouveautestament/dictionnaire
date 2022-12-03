@@ -1,1 +1,0 @@
-lar[109116]=`<b>χρυσεο·πήνητος, ος, ον</b> <font color="purple">[ῡ]</font> tramé <i>ou</i> tissé en or, à la trame <i>ou</i> au tissu d’or, EUR. <i>Or. 840</i> ; ANTH. <i>5, 276</i>.<p><b>Étym</b>. χρ. πήνη.`

@@ -1,1 +1,0 @@
-lar[53693]=`<b>κατα·φυλλοροέω-οῶ</b>, perdre ses feuilles, s’effeuiller, <i>fig</i>. se flétrir, PD. <i>O. 12, 22</i>.`

@@ -1,1 +1,0 @@
-lar[20896]=`<b>ου (ὁ)</b> le dieu du plaisir (Pan), ORPH. (STOB. <i>Ecl. 1, 68).</i><p><b>Étym</b>. βρυάζω.`

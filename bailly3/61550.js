@@ -1,1 +1,0 @@
-lar[61550]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> lonchite, <i>sorte de fougère,</i> DIOSC. <i>3, 161</i>.<p><b>Étym</b>. λόγχη.`

@@ -1,1 +1,0 @@
-lar[105711]=`<b>φιλο·γαστορίδης, ου (ὁ)</b> <font color="purple">[ῐῐ]</font> qui aime son ventre, gourmand, ANTH. <i>8, 169 (var</i>. φιλογαστριδίας).<p><b>Étym</b>. φ. γαστήρ.`

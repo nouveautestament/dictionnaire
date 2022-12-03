@@ -1,1 +1,0 @@
-lar[45347]=`<b>ἡμερο·μαχία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat de jour, ARSTD. <i>t. 2, 314</i>.<p><b>Étym</b>. ἡ. μάχομαι.`

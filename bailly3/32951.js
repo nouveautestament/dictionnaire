@@ -1,1 +1,0 @@
-lar[32951]=`<b>άδος</b>, <i>adj. f</i>. Ἑ. θάλασσα, ARCHESTR. (ATH. <i>278d</i>) la mer de l’Hellespont.<p><b>Étym</b>. Ἑλλήσποντος.`

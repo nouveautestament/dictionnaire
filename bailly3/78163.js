@@ -1,1 +1,0 @@
-lar[78163]=`<b>πεντ·ώνυχος, ος, ον</b> <font color="purple">[ῠ]</font> à cinq ongles, PHILSTR. <i>V. Ap. 2, 13</i>.<p><b>Étym</b>. π. ὄνυξ.`

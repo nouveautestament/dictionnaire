@@ -1,1 +1,0 @@
-lar[45954]=`<i>dat. pl. fém. ion. de</i> ὅς.`

@@ -1,1 +1,0 @@
-lar[77264]=`<b>ου (ὁ)</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> <i>c</i>. πασσάλιον HPC. <i>671, 6</i>.<br><b>      2</b> <i>particul</i>. petite cheville pour tendre les cordes d’un instrument de musique, SCH.-AR. <i>Vesp. 574</i> ; HÉRON <i>245, etc</i>.<p><b>Étym</b>. <i>dim. de</i> πάσσαλος.`

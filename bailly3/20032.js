@@ -1,1 +1,0 @@
-lar[20032]=`<b>ης (ἡ)</b> action de courir au secours, MAX. <i>π. κατ. 381</i>.<p><b>Étym</b>. βοηδρόμος.`

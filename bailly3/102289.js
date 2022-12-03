@@ -1,1 +1,0 @@
-lar[102289]=`<b>ὑπερ·αποφατικός, ή, όν</b>, qui énonce au delà du nécessaire <i>ou</i> doublement énonciatif, DL. <i>7, 69</i>.<p><b>Étym</b>. ὑ. ἀποφαίνω.`

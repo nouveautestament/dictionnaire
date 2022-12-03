@@ -1,1 +1,0 @@
-lar[4758]=`<i>adv.</i> :<br><b>      1</b> d’un autre côté : ἄ. καὶ ἄ. de côté et d’autre, PLAT. <i>Euthyd. 273b.</i><br><b>      2</b> çà et là, de temps à autre, EN. TACT.<p><b>Étym</b>. <i>acc. fém. sg. de</i> ἄλλος.`

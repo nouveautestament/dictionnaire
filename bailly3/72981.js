@@ -1,1 +1,0 @@
-lar[72981]=`<b>ου (ὁ)</b> ers <i>ou</i> vesce, <i>sorte de lentille</i> :<br><b>      1</b> graine de vesce, HPC. <i>V. med. 11</i> ; DÉM. <i>598, 4</i> ; ARSTT. <i>H.A. 3, 21, etc.</i><br><b>      2</b> plante qui produit cette graine, TH. <i>H.P. 2, 4, 2</i>.<p><b>Étym</b>. <i>cf</i>. ἐρέπτω, <i>lat</i>. ervum.`

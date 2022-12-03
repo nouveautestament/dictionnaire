@@ -1,1 +1,0 @@
-lar[2447]=`<b>ης (ἡ)</b> Æthè, <i>litt</i>. de feu <i>ou</i> bai-brun, <i>cheval d’Agamemnon,</i> IL. <i>23, 295</i>.<p><b>Étym</b>. αἴθω.`

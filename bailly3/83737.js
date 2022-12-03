@@ -1,1 +1,0 @@
-lar[83737]=`<b>προ·αφανίζω</b> <font color="purple">[ᾰᾰ]</font> perdre <i>ou</i> détruire d’avance <i>ou</i> auparavant, DS. <i>1, 29</i> ; HLD. <i>10, 36</i>.`

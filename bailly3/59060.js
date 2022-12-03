@@ -1,1 +1,0 @@
-lar[59060]=`<b>ωνος (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> manche de charrue, THGN. <i>1201</i>.<br><b>      2</b> carcan, AR. <i>Pl. 476, 606</i> ; ARSTT. <i>Pol. 5, 6, 15 ; d’où</i> coquin, misérable (<i>lat</i>. furcifer) LUC. <i>Pseud. 17</i>.<br><b>      3</b> vêtement de femme, POSIDIPP. <i>4, 528 Mein</i>.`

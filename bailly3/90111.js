@@ -1,1 +1,0 @@
-lar[90111]=`<b>άδος</b> <font color="purple">[σῑᾰδ]</font> <i>adj. f</i>. de Sigée, Q. SM. <i>7, 402</i>.<p><b>Étym</b>. Σίγειον.`

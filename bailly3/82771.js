@@ -1,1 +1,0 @@
-lar[82771]=`<b>εως (ἡ)</b> action de dévaster, dévastation, ruine, DÉM. <i>248, 5</i> ; PLUT. <i>Syll. 33, etc</i>.<p><b>Étym</b>. πορθέω.`

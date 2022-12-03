@@ -1,1 +1,0 @@
-lar[8689]=`<i>adv</i>., sans avoir entendu, dans l’ignorance de, <i>gén</i>. PLUT. <i>M. 145c ;</i> PAUS. <i>10, 17, 13</i>.<p><b>Étym</b>. ἀνήκοος.`

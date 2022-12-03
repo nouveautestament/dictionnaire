@@ -1,1 +1,0 @@
-lar[31379]=`<b>ἔκ·καιρος, ος, ον</b>, hors de saison, suranné, ANTH. <i>11, 417</i>.<p><b>Étym</b>. ἐκ, καιρός.`

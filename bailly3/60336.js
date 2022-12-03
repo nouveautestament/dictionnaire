@@ -1,1 +1,0 @@
-lar[60336]=`<b>λεοντο·ειδής, ής, ές</b>, semblable à un lion, EL. <i>N.A. 12, 7</i>.<p>➳ <i>Dans une inscr. att. nom. plur. non-contracte</i> λεοντοειδέες, CIA. <i>2, 678, b, 46 (378/366 av. J.-C.) ; v. Meisterh. p. 118, 11</i>.<p><b>Étym</b>. λ. εἶδος.`

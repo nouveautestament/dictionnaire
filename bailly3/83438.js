@@ -1,1 +1,0 @@
-lar[83438]=`<b>πρινο·ειδῶς</b> <font color="purple">[ῑ]</font> <i>adv</i>., comme une yeuse, DIOSC. <i>1, 147</i>.<p><b>Étym</b>. πρῖνος, εἶδος.`

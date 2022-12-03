@@ -1,1 +1,0 @@
-lar[87113]=`<b>πρωϊβλαστέω-ῶ</b>, pousser de bonne heure, être précoce, TH. <i>H.P. 1, 9, 6</i>.<p><b>Étym</b>. πρωϊβλαστής.`

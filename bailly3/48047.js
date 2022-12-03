@@ -1,1 +1,0 @@
-lar[48047]=`<b>ου (ὁ)</b> <i>autre n. de la plante</i> ὤκιμον, DIOSC. <i>Noth. 4, 28</i>.`

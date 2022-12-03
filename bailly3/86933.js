@@ -1,1 +1,0 @@
-lar[86933]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui sert de prétexte <i>ou</i> d’excuse, SPT. <i>Deut. 22, 14</i>.<p><b>Étym</b>. προφασίζομαι.`

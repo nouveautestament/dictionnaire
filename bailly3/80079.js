@@ -1,1 +1,0 @@
-lar[80079]=`<b>πηλοδομέω-ῶ</b>, construire avec du limon, ANTH. <i>10, 4</i>.<p><b>Étym</b>. πηλόδομος.`

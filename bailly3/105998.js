@@ -1,1 +1,0 @@
-lar[105998]=`<b>φιλό·πικρος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime l’amertume, ARSTT. <i>Eud. 2, 10</i>.<p><b>Étym</b>. φ. πικρός.`

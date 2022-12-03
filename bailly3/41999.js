@@ -1,1 +1,0 @@
-lar[41999]=`<b>εὐ·έξοδος, ος, ον :<br>      1</b> <i>pass</i>. d’où il est facile de sortir, ESCHL. <i>Pers. 688</i> ; ARSTT. <i>Pol. 7, 5, 3</i>.<br><b>      2</b> <i>act</i>. qui sort facilement, ARSTT. <i>Probl. 3, 22</i>.<p><b>Étym</b>. εὖ, ἔξοδος.`

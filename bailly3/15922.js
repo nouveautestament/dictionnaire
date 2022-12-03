@@ -1,1 +1,0 @@
-lar[15922]=`<b>ής, ές</b>, non endommagé, sain et sauf, <i>en parl. de personnes,</i> IL. <i>10, 212 ; 16, 247</i> ; OD. <i>9, 279, etc. ; postér. en parl. de choses,</i> ANTIM. <i>16, 2 Kinkel</i> ; A.RH. <i>2, 960</i>.<p>➳ <i>Plur. épq</i>. ἀσκηθέες, <i>trisyll</i>. OD. <i>14, 255</i>.`

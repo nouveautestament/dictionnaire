@@ -1,1 +1,0 @@
-lar[1156]=`<i>ou</i> <b>ἄδαιος, ος, ον</b> <font color="purple">[ᾰ]</font> abondant, SOPHR. (HSCH.).<p><b>Étym</b>. ἄδην.`

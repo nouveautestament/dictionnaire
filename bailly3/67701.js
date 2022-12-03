@@ -1,1 +1,0 @@
-lar[67701]=`<b>ου (ὁ)</b> petit gâteau, PHÉRÉCR. (ATH. <i>269d</i>).<p><b>Étym</b>. ναστός.`

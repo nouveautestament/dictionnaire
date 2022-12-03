@@ -1,1 +1,0 @@
-lar[78874]=`<b>εως (ἡ)</b> circonlocution, langage verbeux, AR. <i>Nub. 318</i>.<p><b>Étym</b>. περιλέγω.`

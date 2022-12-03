@@ -1,1 +1,0 @@
-lar[74661]=`<b>παλ·λώβητος, ος, ον</b>, tout à fait souillé, infâme, LUC. <i>Tox. 24</i>.<p><b>Étym</b>. πᾶν, λωβάω.`

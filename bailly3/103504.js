@@ -1,1 +1,0 @@
-lar[103504]=`<b>ὑπο·λύδιος, ος, ον</b> <font color="purple">[λῡ]</font> hypolydien, <i>sorte de mode de musique,</i> PLUT. <i>M. 1, 141b</i>.`

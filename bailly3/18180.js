@@ -1,1 +1,0 @@
-lar[18180]=`<b>εως (ἡ)</b> assimilation, ressemblance, PLUT. <i>M. 988d</i>.<p><b>Étym</b>. ἀφομοιόω.`

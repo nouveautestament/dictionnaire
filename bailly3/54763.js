@@ -1,1 +1,0 @@
-lar[54763]=`<b>κεντρο·τυπής, ής, ές</b> <font color="purple">[ῠ]</font> frappé de l’aiguillon, ANTH. <i>9, 543</i>.<p><b>Étym</b>. κέντρον, τύπτω.`

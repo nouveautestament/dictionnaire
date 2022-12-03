@@ -1,1 +1,0 @@
-lar[57384]=`<b>(τὸ)</b> <i>indécl</i>. palmier doum d’Égypte (<i>hyphæne thebaica</i> (L.) Mart.), <i>et</i> coco, fruit de cet arbre, TH. <i>H.P. 4, 2, 7 conj</i>.`

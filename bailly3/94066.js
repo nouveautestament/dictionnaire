@@ -1,1 +1,0 @@
-lar[94066]=`<b>συμ·παρακαθέζομαι</b>, s’asseoir auprès avec : μετά τινος, PLAT. <i>Lys. 207b</i>, avec qqn.`

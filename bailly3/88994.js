@@ -1,1 +1,0 @@
-lar[88994]=`<b>οῦ (ὁ)</b> Rhômanos :<br><b>      1</b> <i>fils d’Ulysse et de Circé,</i> PLUT. <i>Rom. 2</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Parall. min. 28, etc</i>.`

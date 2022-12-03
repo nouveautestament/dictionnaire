@@ -1,1 +1,0 @@
-lar[46844]=`<b>εως (ἡ)</b> inspiration divine, DH. <i>2, 19</i> ; PLUT. <i>M. 278c</i>.<p><b>Étym</b>. θεοφορέω.`

@@ -1,1 +1,0 @@
-lar[16675]=`<b>ας (ἡ) :<br>      1</b> abandon de son rang <i>ou</i> de son poste, HDT. <i>6, 11 (ion</i>. -ίη) ; THC. <i>2, 92</i> ; XÉN. <i>Hell. 3, 1, 9, etc.</i><br><b>      2</b> désordre, confusion <i>en gén</i>. XÉN. <i>Ath. 1, 5</i> ; PLAT. <i>Crit. 53d, etc. ; au plur</i>. PLAT. <i>Leg. 653e</i>.<p><b>Étym</b>. ἄτακτος.`

@@ -1,1 +1,0 @@
-lar[91755]=`<font color="darkgreen">(<i>ao. 3 pl. poét</i>. σπάρξαν)</font> <i>c</i>. σπαργανόω, HH. <i>Ap. 121</i>.<p><b>Étym</b>. <i>cf</i>. σπάρτον, σπεῖρα.`

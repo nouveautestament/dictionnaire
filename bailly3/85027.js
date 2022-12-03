@@ -1,1 +1,0 @@
-lar[85027]=`<b>προ·πταίω</b> <font color="darkgreen">(<i>f</i>. -πταίσω, <i>pf</i>. προέπταικα)</font> se heurter auparavant, <i>d’où</i> :<br><b>      1</b> éprouver un échec, <i>avec</i> εἰς <i>et l’acc</i>. PHALAR. <i>Ep. p. 234</i>.<br><b>      2</b> tomber en disgrâce auparavant, LUC. <i>Ner. 5</i>.`

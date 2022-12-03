@@ -1,1 +1,0 @@
-lar[55288]=`<b>κηρο·τρόφος, ος, ον</b>, funeste (<i>propr</i>. qui nourrit la mort) NIC. <i>Th. 192</i>.<p><b>Étym</b>. κήρ, τρέφω.`

@@ -1,1 +1,0 @@
-lar[24729]=`<b>δια·καπνίζω</b>, enfumer, <i>d’où</i> suffoquer par la fumée, CHRYS. <i>6, 99 ; 7, 559</i>.`

@@ -1,1 +1,0 @@
-lar[60984]=`<b>Λιγυ·ᾳστάδης (ὁ)</b> <i>au voc</i>. <b>-η</b>, <i>litt</i>. fils du chantre harmonieux, <i>en parl. de Mimnerme,</i> SOL. <i>fr. 21</i>.<p><b>Étym</b>. λιγύς, *ἀστός <i>de</i> ᾄδω, -αδης.`

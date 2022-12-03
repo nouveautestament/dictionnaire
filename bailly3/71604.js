@@ -1,1 +1,0 @@
-lar[71604]=`<b>ατος (τὸ) :<br>      1</b> objet d’une convention, PLAT. <i>Phæd. 93d, etc.</i><br><b>      2</b> convention, ARSTT. <i>Rhet. Al. 2, 7, etc</i>.<p><b>Étym</b>. ὁμολογέω.`

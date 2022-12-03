@@ -1,1 +1,0 @@
-lar[67003]=`<b>Μυεκφορίτης νομός (ὁ)</b> le nome Myekphoritès, <i>propr</i>. « protecteur des rats », <i>en Égypte,</i> HDT. <i>2, 166</i>.<p><b>Étym</b>. μῦς, ἐκφορέω.`

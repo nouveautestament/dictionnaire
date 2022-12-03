@@ -1,1 +1,0 @@
-lar[92804]=`<i>adv</i>., difficilement, péniblement, SOR. <i>Obst. p. 26, 27, 39 Dietz</i> ; MÉNÉMACH. (ORIB. <i>2, 73 B.-Dar</i>.).<p><b>Étym</b>. στραγγός.`

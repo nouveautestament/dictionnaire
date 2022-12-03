@@ -1,1 +1,0 @@
-lar[72713]=`<b>ὀρθο·κάλαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à tige droite, DIOSC. <i>Noth. p. 461</i>.<p><b>Étym</b>. ὀ. κάλαμος.`

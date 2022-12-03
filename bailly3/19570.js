@@ -1,1 +1,0 @@
-lar[19570]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑκ]</font> Bérénikis, <i>v. d’Épire,</i> PLUT.`

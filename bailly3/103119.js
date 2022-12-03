@@ -1,1 +1,0 @@
-lar[103119]=`<b>ὑπο·δείελος, ος, ον</b>, qui a lieu <i>ou</i> vient vers le soir, ARAT. <i>826</i>.`

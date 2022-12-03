@@ -1,1 +1,0 @@
-lar[39353]=`<b>ἐπι·τεκμαίρομαι</b>, conjecturer, appliquer son esprit à, <i>dat</i>. ARAT. <i>229 gén</i>. ARAT. <i>457, etc</i>.`

@@ -1,1 +1,0 @@
-lar[7027]=`<b>ας (ἡ)</b> le territoire d’Anaktorion, THC. <i>1, 29</i>.<p><b>Étym</b>. Ἀνακτόριον.`

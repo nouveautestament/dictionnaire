@@ -1,1 +1,0 @@
-lar[6668]=`<b>ἀν·αγώνιστος, ος, ον</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> qui n’engage pas de lutte, THC. <i>4, 92</i> (ἀνανταγώνιστοι <i>Bœhme</i>).<br><b>      2</b> qui n’a jamais disputé le prix, XÉN. <i>Cyr. 1, 5, 10</i>.<p><b>Étym</b>. ἀν-, ἀγωνίζομαι.`

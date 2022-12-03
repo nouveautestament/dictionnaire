@@ -1,1 +1,0 @@
-lar[30799]=`<b>εἰσ·κλύζω</b> (<i>part. prés. pass</i>. -όμενον) inonder, STR. <i>213</i>.`

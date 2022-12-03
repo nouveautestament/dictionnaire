@@ -1,1 +1,0 @@
-lar[22319]=`<b>ή, όν :<br>      1</b> qui connaît, habile à, expert en, PLAT. <i>Rsp. 467c ; abs</i>. XÉN. <i>Mem. 4, 2, 10</i>.<br><b>      2</b> qui concerne les cadrans solaires, ANTH. <i>14, 139</i> ; ἡ γνωμονική (<i>s.-e</i>. τέχνη) VITR. <i>1, 3,</i> la gnomonique, <i>càd</i>. l’art de construire les cadrans solaires.<p><b>Étym</b>. γνώμων.`

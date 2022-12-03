@@ -1,1 +1,0 @@
-lar[29322]=`<i>adv</i>., en hébreu, SPT. <i>Sir. prol.</i> ; NT. <i>Joh. 5, 2 ; 19, 13</i>.<p><b>Étym</b>. Ἑβραῖος.`

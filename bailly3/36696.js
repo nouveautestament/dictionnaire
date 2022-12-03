@@ -1,1 +1,0 @@
-lar[36696]=`<b>εως (ἡ)</b> floraison, PLOT. <i>Enn. 4, 3, 13</i>.<p><b>Étym</b>. ἐπανθέω.`

@@ -1,1 +1,0 @@
-lar[52697]=`<b>ατος (τὸ)</b> chant funèbre, SYMM. <i>Ezech. 2, 10, etc.</i> ; CHRYS. <i>4, 631, etc</i>.<p><b>Étym</b>. καταλέγω².`

@@ -1,1 +1,0 @@
-lar[1498]=`<b>ἀ·δορύληπτος</b> <i>ou</i> <b>ἀ·δορίληπτος, ος, ον</b> <font color="purple">[ῠ <i>ou</i> ῐ]</font> qui n’est pas <i>ou</i> ne peut pas être pris à la pointe de la lance, invincible, PHILSTR. <i>p. 747</i>.`

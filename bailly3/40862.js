@@ -1,1 +1,0 @@
-lar[40862]=`<b>ου (ὁ)</b> Erkhios, <i>h</i>. CALL. <i>fr. 107 ; cf</i>. LUC. <i>Am. 49</i>.`

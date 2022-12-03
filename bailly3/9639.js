@@ -1,1 +1,0 @@
-lar[9639]=`<b>ἀντ·επεισφέρομαι</b>, s’introduire à son tour <i>ou</i> à la place de, PLUT. <i>M. 903e</i>.`

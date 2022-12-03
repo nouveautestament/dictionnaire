@@ -1,1 +1,0 @@
-lar[21197]=`<b>γαλακτο·δοτέω-ῶ</b> <font color="purple">[γᾰ]</font> donner du lait, ORIG. <i>2, 1253c</i>.<p><b>Étym</b>. γάλα, -δοτος <i>de</i> δίδωμι.`

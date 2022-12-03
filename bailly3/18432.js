@@ -1,1 +1,0 @@
-lar[18432]=`<b>ου</b> (ἡ, <i>rar</i>. ὁ) :<br><b>      1</b> arbuste épineux, OD. <i>14, 10 ; d’où</i> aubépine, THCR. <i>Idyl. 24, 88</i> (ὁ ἄχ.).<br><b>      2</b> poirier sauvage, SOPH. <i>O.C. 1596</i> ; PHÉRÉCR. <i>(Bkk. 475, 10</i>).`

@@ -1,1 +1,0 @@
-lar[43952]=`<b>ή, όν</b>, sur quoi l’on suspend son jugement, SEXT. <i>50, 4 ; 133, 16 Bkk</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπέχω.`

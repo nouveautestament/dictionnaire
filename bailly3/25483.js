@@ -1,1 +1,0 @@
-lar[25483]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> écoulement, HÉRON <i>Spir. p. 164</i>.<p><b>Étym</b>. διαρρέω.`

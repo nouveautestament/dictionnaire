@@ -1,1 +1,0 @@
-lar[59622]=`<b>ατος (τὸ)</b> coup de talon, ruade, LYC. <i>835</i> ; DS. <i>4, 59 ; fig</i>. outrage, ESCHL. <i>Ag. 1601</i>.<p><b>Étym</b>. λακτίζω.`

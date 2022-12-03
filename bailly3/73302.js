@@ -1,1 +1,0 @@
-lar[73302]=`<b>ά, όν</b> <font color="purple">[ᾰκ]</font> de la couleur d’un vase en terre cuite : ζῷα ὀστρακηρά, ARSTT. <i>H.A. 4, 4, 18, etc</i>. animaux testacés.<p><b>Étym</b>. ὄστρακον.`

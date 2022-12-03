@@ -1,1 +1,0 @@
-lar[15515]=`<b>Ἀρχεβούλειον μέτρον (τὸ)</b> le mètre d’Arkhéboulos (Archébule) (quatre anapestes et un amphibraque) DIOM. <i>514, 1</i>.<p><b>Étym</b>. <i>v</i>. Ἀρχέβουλος.`

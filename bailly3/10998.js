@@ -1,1 +1,0 @@
-lar[10998]=`<b>ἀοζέω-ῶ</b>, être serviteur dans un sacrifice, ESCHL. <i>fr. 50</i>.<p><b>Étym</b>. ἄοζος¹.`

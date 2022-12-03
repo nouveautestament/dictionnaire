@@ -1,1 +1,0 @@
-lar[46911]=`<b>οῦ (τὸ)</b> <i>sorte de baume,</i> DIOSC. <i>1, 18</i>.`

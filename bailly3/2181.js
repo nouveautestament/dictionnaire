@@ -1,1 +1,0 @@
-lar[2181]=`<b>ῶν (αἱ)</b> Æges, <i>v. 1</i> :<br><b>      1</b> <i>sur la côte d’Eubée, ou p.-ê. î. entre Ténos et Chios,</i> IL. <i>8, 203 ; 13, 21</i>.<br><b>      2</b> <i>en Achaïe,</i> OD. <i>5, 381</i>.<br><b>      3</b> <i>en Mysie (cf</i>. Αἰγαῖαι) XÉN. <i>Hell. 4, 8, 5</i>.<p><b>Étym</b>. αἴξ.`

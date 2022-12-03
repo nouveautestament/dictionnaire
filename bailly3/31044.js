@@ -1,1 +1,0 @@
-lar[31044]=`<b>ἑκατοντ·άρχης, ου (ὁ)</b> <font color="purple">[κᾰ]</font> chef de cent hommes, ESCHL. (ATH. <i>11e</i>) ; <i>à Rome,</i> centurion, DH. <i>2, 13 et 14</i> ; PLUT. <i>Pomp. 78, etc.</i> ; NT. <i>Ap. 10, 1 et 22</i>.<p><b>Étym</b>. <i>cf</i>. ἑκατόνταρχος.`

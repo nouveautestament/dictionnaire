@@ -1,1 +1,0 @@
-lar[44482]=`<b>α, ον</b>, qui sert à joindre, à unir, <i>gén</i>. ESCHL. <i>Pers. 736</i>.<p><b>Étym</b>. ζεύγνυμι.`

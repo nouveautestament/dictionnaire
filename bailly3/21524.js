@@ -1,1 +1,0 @@
-lar[21524]=`<i>adv</i>., de terre, CALL. <i>fr. 509</i> ; DYSC. <i>Adv. 601, 28</i>.<p><b>Étym</b>. <i>cf</i>. γαίηθεν, γῆθεν.`

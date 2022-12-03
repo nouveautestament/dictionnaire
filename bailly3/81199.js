@@ -1,1 +1,0 @@
-lar[81199]=`<i>att</i>. <b>πλευμονικός, ή, όν :<br>      1</b> qui concerne le poumon, pulmonaire, ARSTT. <i>Probl. 33, 14</i>.<br><b>      2</b> atteint d’une maladie de poumon, PROCL. <i>Ptol. p. 214</i>.<p><b>Étym</b>. πνεύμων.`

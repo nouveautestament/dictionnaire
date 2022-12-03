@@ -1,1 +1,0 @@
-lar[64597]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> nèfle, ARCHIL. (POLL. <i>6, 79</i>) ; TH. <i>C.P. 2, 8, 2</i>.<p>➳ <font color="purple">[ῑ]</font> EUB. <i>3, 241 Meineke</i>.<p><b>Étym</b>. <i>v</i>. μεσπίλη.`

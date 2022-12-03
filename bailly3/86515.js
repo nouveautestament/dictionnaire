@@ -1,1 +1,0 @@
-lar[86515]=`<b>πρό·στυλος, ος, ον</b> <font color="purple">[ῡ]</font> garni de colonnes par devant : ὁ πρ. (<i>s.-e</i>. δόμος) VITR. <i>3, 2, 1,</i> prostyle <i>ou</i> portique formé par des colonnes.<p><b>Étym</b>. π. στῦλος.`

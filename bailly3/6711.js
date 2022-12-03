@@ -1,1 +1,0 @@
-lar[6711]=`<b>ἀνα·δικάζω</b> <font color="purple">[ῐ]</font> juger en appel, PHIL. <i>1, 299</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. inf</i>. -άσασθαι)</font> faire juger en appel, IS. (HARP. <i>et</i> POLL. <i>8, 23</i>).`

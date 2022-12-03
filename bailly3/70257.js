@@ -1,1 +1,0 @@
-lar[70257]=`<b>Οἰᾶτις νομός (ὁ)</b> les pâturages d’Œa, SOPH. <i>O.C. 1061</i>.`

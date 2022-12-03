@@ -1,1 +1,0 @@
-lar[5195]=`<b>ἁμ·άμαξυς, υος</b> <i>ou</i> <b>υδος (ἡ)</b> <font color="purple">[ᾰμᾰμ]</font> vigne soutenue par deux échalas, MATR. (ATH. <i>137b</i>).<p>➳ <i>Gén</i>. -υος, EPICH. (EM.) ; -υδος, SAPPH. (EM.).<p><b>Étym</b>. ἅμα, ἅμαξα.`

@@ -1,1 +1,0 @@
-lar[51384]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> voussure, <i>particul</i>. fracture du crâne en forme de cintre, GAL. <i>2, 268, etc</i>.<p><b>Étym</b>. *καμαρόω <i>de</i> καμάρα.`

@@ -1,1 +1,0 @@
-lar[80298]=`<b>εως (ἡ)</b> <font color="purple">[πῑ]</font><br><b>      1</b> action de fouler la laine, PLAT. <i>Leg. 849c.</i><br><b>      2</b> <i>p. ext</i>. action de fouler, de condenser, PLAT. <i>Tim. 76c ;</i> TH. <i>C.P. 5, 8, 3 (vulg</i>. πιλώσει).<br><b>      3</b> contraction par l’effet du froid, PLAT. <i>Tim. 58b</i>.<p><b>Étym</b>. πιλέω.`

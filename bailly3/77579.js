@@ -1,1 +1,0 @@
-lar[77579]=`<b>πεζο·θηρία, ας (ἡ)</b> chasse sur terre <i>ou</i> d’animaux terrestres, PLAT. <i>Soph. 223b</i>.<p><b>Étym</b>. π. θήρα.`

@@ -1,1 +1,0 @@
-lar[85120]=`<b>προσ·αμαρτάνω</b> <font color="purple">[ᾰμ]</font> commettre une faute à l’égard de, <i>acc</i>. PLUT. <i>M. 834d dout</i>.`

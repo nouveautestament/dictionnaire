@@ -1,1 +1,0 @@
-lar[75310]=`<b>πάν·υγρος, ος, ον</b> <font color="purple">[ᾰ]</font> tout humide, PLUT. <i>M. 355f ;</i> MAN. <i>1, 87, etc</i>.<p><b>Étym</b>. π. ὑγρός.`

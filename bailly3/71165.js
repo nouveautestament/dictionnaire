@@ -1,1 +1,0 @@
-lar[71165]=`<b>ὁλο·καρπόω-ῶ</b>, faire une offrande toute de fruits, <i>p. ext</i>. d’animaux, SPT. <i>Sir. 45, 14</i> ; SIB. <i>3, 565</i>.<p><b>Étym</b>. ὅλος, καρπός.`

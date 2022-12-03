@@ -1,1 +1,0 @@
-lar[63183]=`<i>ou</i> <b>ματρυλλεῖον, ου (τὸ)</b> <font color="purple">[ᾱῠ]</font> mauvais lieu, DIN. (HARP.) ; PLUT. <i>M. 1093f</i>.`

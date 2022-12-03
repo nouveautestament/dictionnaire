@@ -1,1 +1,0 @@
-lar[77788]=`<b>ων (οἱ)</b> = <i>lat</i>. Peligni, les Pélignes, <i>pple des Apennins en Italie,</i> PLUT. <i>Æmil. 20</i>.`

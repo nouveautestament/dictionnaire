@@ -1,1 +1,0 @@
-lar[12339]=`<b>ἀπο·δρέπω</b>, cueillir, HÉS. <i>O. 608 ; fig</i>. PD. <i>P. 4, 114</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ANTH. <i>6, 303</i> ; PLUT. <i>M. 79d</i>.`

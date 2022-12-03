@@ -1,1 +1,0 @@
-lar[46937]=`<b>ης (ἡ) :<br>      1</b> chaleur, HPC. <i>V. med. 16 ; particul</i>. chaleur de fièvre, THC. <i>2, 49</i> ; PLAT. <i>Theæt. 178c ;</i> ARSTT. <i>Probl. 1, 23</i>.<br><b>      2</b> sueur, ARR. <i>An. 2, 27</i>.<p><b>Étym</b>. θερμός.`

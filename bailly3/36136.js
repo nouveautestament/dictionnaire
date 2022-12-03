@@ -1,1 +1,0 @@
-lar[36136]=`<b>ή, όν</b>, propre à faire ressembler exactement, CLÉM. <i>1, 749c Migne</i>.<p><b>Étym</b>. ἐξομοιόω.`

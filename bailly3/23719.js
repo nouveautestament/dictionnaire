@@ -1,1 +1,0 @@
-lar[23719]=`<b>δεκατη·μόριον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> la 10<sup>e</sup> partie, la dîme, PLAT. <i>Leg. 924a</i>.<p><b>Étym</b>. δέκατος, μόριον.`

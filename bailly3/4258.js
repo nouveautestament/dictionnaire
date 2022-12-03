@@ -1,1 +1,0 @@
-lar[4258]=`<b>(ἡ)</b> Alexida, <i>fille d’Amphiaraos,</i> PLUT. <i>Qu. gr. 23</i>.`

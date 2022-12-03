@@ -1,1 +1,0 @@
-lar[53372]=`<b>ῆς (ἡ)</b> observation, ATT. ; <i>au pl</i>. THC. <i>6, 34</i> ; πέμπειν εἰς κατασκοπήν, SOPH. <i>Ph. 45</i> ; EUR. <i>Bacch. 836</i> ; ἐπὶ κατασκοπῇ, XÉN. <i>Cyr. 6, 2, 9</i> ; ἐπὶ τὴν κατασκοπήν, POL. <i>3, 95, 8</i> ; κατασκοπῆς ἕνεκα, XÉN. <i>An. 7, 4, 13,</i> envoyer pour observer <i>ou</i> reconnaître.<p><b>Étym</b>. κατασκέπτομαι.`

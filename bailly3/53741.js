@@ -1,1 +1,0 @@
-lar[53741]=`<b>κατα·χράομαι-ῶμαι</b> <font color="darkgreen">(<i>ao</i>. κατεχρησάμην)</font> emprunter, <i>acc</i>. DÉM. <i>1154, 16 ; 1186, 3</i>.`

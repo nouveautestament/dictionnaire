@@ -1,1 +1,0 @@
-lar[101693]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui aboie facilement, ARSTT. <i>Physiogn. 2, 15</i> ; LUC. <i>Bis acc. 33</i>.<p><b>Étym</b>. ὑλάσσω.`

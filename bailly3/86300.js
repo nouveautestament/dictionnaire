@@ -1,1 +1,0 @@
-lar[86300]=`<b>προσ·περιγίγνομαι</b>, rester en outre, être de reste, DÉM. <i>467, 18</i> ; PLUT. <i>Ages. 32</i>.`

@@ -1,1 +1,0 @@
-lar[47583]=`<b>Θρασύ·λαος, ου (ὁ)</b> <font color="purple">[ᾰῠᾱ]</font> Thrasylaos, <i>h</i>. DÉM. <i>324, 9</i>.<p>➳ <i>Ion</i>. -λεως, HDT. <i>6, 114</i>.<p><b>Étym</b>. θρ. λαός.`

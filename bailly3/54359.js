@@ -1,1 +1,0 @@
-lar[54359]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Kaphèrée, ANTH. <i>9, 429</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Tr. 89 ; fém. ion</i>. -η, ANTH. <i>l. c</i>.<p><b>Étym</b>. <i>v</i>. Καφηρεύς.`

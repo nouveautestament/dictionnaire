@@ -1,1 +1,0 @@
-lar[2280]=`<b>ου (τὸ)</b> Ægition, <i>brg d’Étolie,</i> THC. <i>3, 97</i>.`

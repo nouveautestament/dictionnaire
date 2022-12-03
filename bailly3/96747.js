@@ -1,1 +1,0 @@
-lar[96747]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> étable à porcs, OD. <i>10, 238 ; 14, 13 et 73</i> ; PARTH. <i>12, 2</i>.<p><b>Étym</b>. σῦς.`

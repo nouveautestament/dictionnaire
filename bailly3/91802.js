@@ -1,1 +1,0 @@
-lar[91802]=`<b>ου (ὁ)</b> Spatinos, <i>Mède,</i> LUC. <i>Ic. 15</i>.`

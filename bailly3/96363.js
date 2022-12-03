@@ -1,1 +1,0 @@
-lar[96363]=`<b>συν·τράπεζος, ος, ον</b> <font color="purple">[ᾰ]</font> compagnon de table, commensal, XÉN. <i>An. 1, 9, 31</i> ; BABR. <i>74, 7</i> ; qui se passe à la même table, EUR. <i>Andr. 658</i>.<p><b>Étym</b>. σύν, τράπεζα.`

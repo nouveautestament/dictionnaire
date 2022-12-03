@@ -1,1 +1,0 @@
-lar[20007]=`<b>ου (ὁ)</b> Bomilcar, <i>général carthaginois,</i> POL. ; <i>cf</i>. βουμίλκας.`

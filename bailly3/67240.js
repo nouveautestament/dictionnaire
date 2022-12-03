@@ -1,1 +1,0 @@
-lar[67240]=`<b>μυριό·βοιος, ος, ον</b> <font color="purple">[ῡ]</font> qui renferme des milliers de bœufs, ANTH. <i>9, 237</i>.<p><b>Étym</b>. μυρίοι, βοῦς.`

@@ -1,1 +1,0 @@
-lar[46858]=`<b>Θεο·χάρης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Théokharès, <i>h</i>. PLUT. <i>An seni resp. ger. sit 8</i>.<p><b>Étym</b>. θ. χαίρω.`

@@ -1,1 +1,0 @@
-lar[14553]=`<i>adv</i>., par articulation, GAL. <i>4, 10</i>.<p><b>Étym</b>. ἀρθρώδης.`

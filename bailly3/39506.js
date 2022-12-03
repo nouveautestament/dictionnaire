@@ -1,1 +1,0 @@
-lar[39506]=`<b>ας (ἡ)</b> tutelle, intendance, PLAT. <i>Phædr. 239e ;</i> ARSTT. <i>Pol. 2, 10, 1</i> ; DH. <i>11, 36</i>.<p><b>Étym</b>. ἐπιτροπεύω.`

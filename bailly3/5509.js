@@ -1,1 +1,0 @@
-lar[5509]=`<b>ἀ·μετάστατος, ος, ον</b> <font color="purple">[στᾰ]</font> qu’on ne peut déplacer, stable, PLAT. <i>Rsp. 361e ;</i> τὸ ἀμετάστατον, PLUT. <i>M. 135b</i>, la stabilité, l’uniformité.`

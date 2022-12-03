@@ -1,1 +1,0 @@
-lar[53522]=`<b>ος, ον</b>, déchiré, PHILOD. <i>De ira p. 50</i>.<p><b>Étym</b>. κατασχίζω.`

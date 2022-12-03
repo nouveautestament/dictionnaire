@@ -1,1 +1,0 @@
-lar[33709]=`<b>ατος (τὸ)</b> ce qui obstrue, obstacle, HPC. <i>258, 39</i> ; PLUT. <i>M. 745e ; fig</i>. ISOCR. <i>148a</i>.<p><b>Étym</b>. ἐμφράσσω.`

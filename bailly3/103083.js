@@ -1,1 +1,0 @@
-lar[103083]=`<b>ὑπο·γλωσσίς</b>, <i>att</i>. <b>ὑπο·γλωττίς, ίδος (ἡ) :<br>      1</b> tumeur sous la langue (<i>v</i>. ὑπογλώσσιος) HPC. <i>464, 28 ; 471, 22</i>.<br><b>      2</b> sorte de remède, GAL. <i>13, 539</i>.<br><b>      3</b> sorte de couronne, <i>vraisemblablement faite de</i> ὑπόγλωσσον, PLAT. COM. (ATH. <i>677a</i>).<p><b>Étym</b>. ὑ. γλῶσσα.`

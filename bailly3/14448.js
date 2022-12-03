@@ -1,1 +1,0 @@
-lar[14448]=`<b>ας (ἡ)</b> <font color="purple">[ᾰρ]</font> soins pour plaire, <i>d’ord</i>. complaisance excessive, obséquiosité, ARSTT. <i>Eud. 2, 3, 7, etc.</i> ; TH. <i>Char. 5</i> ; POL. <i>6, 2, 12, etc. ; en b. part,</i> prévenances, bonne grâce, PHIL. <i>1, 34, etc</i>.<p><b>Étym</b>. ἀρεσκεύομαι.`

@@ -1,1 +1,0 @@
-lar[19202]=`<b>βαρύ·σπλαγχνος, ος, ον</b> <font color="purple">[ᾰ]</font> au cœur vindicatif, PHIL. <i>2, 269</i>.<p><b>Étym</b>. β. σπλάγχνον.`

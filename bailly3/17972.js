@@ -1,1 +1,0 @@
-lar[17972]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> qui laisse libre : ἀ. ἡμέρα, ARSTT. <i>fr. 395</i> ; ARSTD. <i>t. 1, 344,</i> jour férié.<p><b>Étym</b>. ἀφίημι.`

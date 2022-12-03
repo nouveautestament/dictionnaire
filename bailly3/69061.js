@@ -1,1 +1,0 @@
-lar[69061]=`<b>ας (ἡ)</b> = <i>lat</i>. Nuceria :<br><b>      1</b> <i>v. de Campanie (auj</i>. Nocera) STR. <i>247, etc.</i> ; PLUT. <i>Fort. Rom. 4, etc.</i><br><b>      2</b> <i>n. de f</i>. DOSITH. (PLUT. <i>Parall. min. 33</i>).`

@@ -1,1 +1,0 @@
-lar[32925]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>seul. pl</i>. lien pour les gerbes, lien <i>en gén</i>. IL. <i>18, 553</i> ; HH. <i>Cer. 456</i> ; HÉS. <i>Sc. 291</i>.<p><b>Étym</b>. εἴλω.`

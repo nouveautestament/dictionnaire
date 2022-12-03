@@ -1,1 +1,0 @@
-lar[2247]=`<b>ας (ἡ)</b> Ægileia, <i>petite î. près de l’Eubée,</i> HDT. <i>6, 107</i>.`

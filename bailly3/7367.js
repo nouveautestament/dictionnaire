@@ -1,1 +1,0 @@
-lar[7367]=`<b>ἀναπήδησις, εως (ἡ) :<br>      1</b> saut, bond, HPC. <i>303, 15</i>.<br><b>      2</b> palpitation (du cœur) ARSTT. <i>Respir. 20, 7</i>.`

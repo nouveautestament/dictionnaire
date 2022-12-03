@@ -1,1 +1,0 @@
-lar[28556]=`<b>δυσ·κατάπληκτος, ος, ον</b> <font color="purple">[κᾰ]</font> difficile à effrayer, à abattre, POL. <i>1, 67, 4</i>.<p><b>Étym</b>. δ. καταπλήσσω.`

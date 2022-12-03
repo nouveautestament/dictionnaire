@@ -1,1 +1,0 @@
-lar[17880]=`<b>ος, ον</b> <font color="purple">[τᾰ]</font> sans imagination, PLUT. <i>M. 960d</i>.<p><b>Étym</b>. ἀ, φαντασιόομαι.`

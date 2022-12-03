@@ -1,1 +1,0 @@
-lar[81032]=`<b>πλησιό·θεος, ος, ον</b>, qui approche de Dieu, NYSS.<p><b>Étym</b>. πλησίος, θεός.`

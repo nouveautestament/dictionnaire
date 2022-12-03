@@ -1,1 +1,0 @@
-lar[3597]=`<b>οῦ (ὁ)</b> Akouménos :<br><b>      1</b> <i>médecin,</i> XÉN. <i>Mem. 3, 13, 2</i> ; PLAT. <i>Phædr. 227a.</i><br><b>      2</b> <i>autre,</i> AND. <i>1, 18 Baiter-Sauppe</i>.<p><b>Étym</b>. ἀκέομαι.`

@@ -1,1 +1,0 @@
-lar[104932]=`<b>ου (ὁ)</b> Pharnabaze, <i>Perse,</i> THC. <i>2, 67 ; 8, 6 ; 8, 39, etc.</i> ; XÉN. <i>Hell. 1, 1, 6, 14, etc</i>.`

@@ -1,1 +1,0 @@
-lar[45355]=`<b>ἡμερο·τοκέω-ῶ</b>, produire des fruits doux, <i>càd</i>. non sauvages, PHIL. <i>1, 402, 455</i>.<p><b>Étym</b>. ἥμερος, -τόκος <i>de</i> τίκτω.`

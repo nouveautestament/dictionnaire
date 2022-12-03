@@ -1,1 +1,0 @@
-lar[94933]=`<b>συν·αποφύομαι</b> (<i>seul. prés</i>.) naître ensemble <i>ou</i> en même temps, GAL. <i>4, 530</i>.`

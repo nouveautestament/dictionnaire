@@ -1,1 +1,0 @@
-lar[82580]=`<font color="darkgreen">(<i>f. att</i>. ιῶ)</font> durer longtemps, SPT. <i>Deut. 4, 26</i>.<p><b>Étym</b>. π. πολυχρόνιος.`

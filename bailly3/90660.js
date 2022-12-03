@@ -1,1 +1,0 @@
-lar[90660]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> hoyau, pioche, THCR. <i>Idyl. 4, 10</i> ; ANTH. <i>5, 240, etc.</i><br><b>      2</b> action de creuser, TH. <i>H.P. 2, 7, 1</i> ; ANTH. <i>9, 644</i>.<p><b>Étym</b>. σκάπτω.`

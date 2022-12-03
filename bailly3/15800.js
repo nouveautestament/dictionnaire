@@ -1,1 +1,0 @@
-lar[15800]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> satiété, <i>d’où</i> dégoût, nausée, HPC. <i>Aph. 1255 ; fig</i>. dégoût, HDT. <i>1, 136</i> ; EUR. PLAT. <i>etc. ; au plur</i>. SAPPH. <i>1</i> ; PLAT. <i>Tim. 71c</i>.<p><b>Étym</b>. <i>p.-ê. de</i> ἄω³.`

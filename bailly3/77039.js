@@ -1,1 +1,0 @@
-lar[77039]=`<b>ας (ἡ)</b> excès auxquels on se porte dans l’ivresse, insulte d’un homme pris de vin, XÉN. <i>Conv. 6, 1</i> ; ESCHN. <i>9, 19, etc</i>.<p><b>Étym</b>. πάροινος.`

@@ -1,1 +1,0 @@
-lar[94722]=`<b>συν·ανακυκλέω-ῶ</b>, faire tourner en sens inverse avec, PLAT. <i>Pol. 271b</i>.`

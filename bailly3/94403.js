@@ -1,1 +1,0 @@
-lar[94403]=`<font color="purple">[ᾰ]</font> <i>inf. ao.2 de</i> συνεσθίω, PLAT. <i>Leg. 881d</i>.`

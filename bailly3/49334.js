@@ -1,1 +1,0 @@
-lar[49334]=`<b>ἱππο·θυτέω-ῶ</b> <font color="purple">[ῠ]</font> immoler des chevaux pour un sacrifice, STR. <i>513</i>.<p><b>Étym</b>. ἵ. θύω.`

@@ -1,1 +1,0 @@
-lar[5728]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui est <i>ou</i> se fait en échange <i>ou</i> en retour de, <i>gén</i>. SOPH. <i>Ant. 1067</i> ; οἱ ἀ. IL. <i>13, 793,</i> combattants qui en remplacent d’autres.<p><b>Étym</b>. ἀμείβω.`

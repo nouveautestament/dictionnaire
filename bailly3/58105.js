@@ -1,1 +1,0 @@
-lar[58105]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> fils de Krotôpos (Linos) CALL. <i>fr. 315</i> (Κρότωπος, PAUS. <i>1, 43, 7, etc</i>.).`

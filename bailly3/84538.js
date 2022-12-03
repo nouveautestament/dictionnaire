@@ -1,1 +1,0 @@
-lar[84538]=`<b>προ·κατοπτεύω</b>, observer d’avance, HLD. <i>9, 1</i>.`

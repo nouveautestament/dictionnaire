@@ -1,1 +1,0 @@
-lar[5959]=`<b>ἄ·μυρος, ος, ον</b> <font color="purple">[ῠ]</font> sans parfums, SIB. <i>5, 128</i>.<p><b>Étym</b>. ἀ, μύρον.`

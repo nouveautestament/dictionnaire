@@ -1,1 +1,0 @@
-lar[5163]=`<b>ιδος</b> <font color="purple">[ᾰᾰῑῐδ]</font> <i>adj. f</i>. qui aime le sable (coquillage) EPICH. (ATH. <i>85d</i>).<p><b>Étym</b>. ἄμαθος.`

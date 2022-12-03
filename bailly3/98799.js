@@ -1,1 +1,0 @@
-lar[98799]=`<b>εως (ἡ) :<br>      1</b> action d’obtenir, d’acquérir, acquisition, PLUT. <i>M. 1071e.</i><br><b>      2</b> action de rencontrer, rencontre, ANTH. <i>15, 25, 23</i> ; ARR. <i>Epict. 2, 5, etc</i>.<p><b>Étym</b>. τυγχάνω.`

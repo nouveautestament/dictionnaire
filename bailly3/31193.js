@@ -1,1 +1,0 @@
-lar[31193]=`<b>ἐκ·διδύσκω</b> <font color="darkgreen">(<i>impf</i>. ἐξεδίδυσκον)</font> piller, JOS. <i>B.J. 2, 14, 2</i> ; SPT. <i>2Sam. 23, 10 ; Neh. 4, 23 ; Hos. 7, 1</i>.`

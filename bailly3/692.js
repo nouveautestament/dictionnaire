@@ -1,1 +1,0 @@
-lar[692]=`<b>οῦ (ὁ)</b> parure, ornement, PLAT. <i>Ax. 369d</i>.<p><b>Étym</b>. ἀγλαΐζω.`

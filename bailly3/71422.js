@@ -1,1 +1,0 @@
-lar[71422]=`<font color="darkgreen">(<i>ao</i>. ὤμιξα)</font> <i>c</i>. ὀμιχέω, HIPPON. <i>fr. 55A</i>.`

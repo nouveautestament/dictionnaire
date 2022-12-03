@@ -1,1 +1,0 @@
-lar[11082]=`<b>ἀπ·αγλαΐζω</b>, déparer : κούρην κομάων, ANTH. <i>5, 220,</i> enlever à une jeune fille la parure de ses cheveux.`

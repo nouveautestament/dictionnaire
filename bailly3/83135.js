@@ -1,1 +1,0 @@
-lar[83135]=`<b>εντος (ὁ)</b> = <i>lat</i>. Pudens, <i>n. d’h. rom</i>. ANTH. <i>App. 160, etc</i>.`

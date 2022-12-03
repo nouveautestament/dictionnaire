@@ -1,1 +1,0 @@
-lar[108358]=`<b>α (ὁ)</b> <font color="purple">[ᾱ]</font> Khènidas, <i>h</i>. LUC. <i>D. mer. 13</i>.`

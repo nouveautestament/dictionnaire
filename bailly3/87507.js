@@ -1,1 +1,0 @@
-lar[87507]=`<b>α, ον</b>, haut d’une coudée, PHILSTR. <i>512 ; en parl. d’hommes,</i> nain, HDT. <i>3, 37</i> ; ARSTT. <i>Probl. 10, 12 ; n. pr</i>. οἱ Πυγμαῖοι, IL. <i>3, 6</i> ; ARSTT. <i>H.A. 8, 12, 3,</i> les Pygmées, <i>pple myth. de nains sur les bords du Nil</i>.<p><b>Étym</b>. πυγμή.`

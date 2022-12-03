@@ -1,1 +1,0 @@
-lar[53376]=`<b>κατα·σκορπίζω :<br>      1</b> disperser, DS. <i>Exc. p. 507, 5</i> ; EUM. <i>p. 102</i>.<br><b>      2</b> distribuer, EUM. <i>p. 122, 342</i>.`

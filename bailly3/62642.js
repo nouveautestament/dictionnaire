@@ -1,1 +1,0 @@
-lar[62642]=`<b>μαλακό·φλοιος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à écorce molle, TH. <i>C.P. 1, 6, 4</i> ; PHILOX. <i>fr. 3, 21 Bgk</i>.<p><b>Étym</b>. μ. φλοιός.`

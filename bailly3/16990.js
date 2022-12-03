@@ -1,1 +1,0 @@
-lar[16990]=`<b>ἀ·τρυγής, ής, ές</b> <font color="purple">[αῠ]</font> non vendangé, non recolté (miel) ANTH. <i>7, 622</i>.<p><b>Étym</b>. ἀ, τρυγάω.`

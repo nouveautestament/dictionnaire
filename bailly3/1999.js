@@ -1,1 +1,0 @@
-lar[1999]=`<b>ἀθεσμό·βιος, ος, ον</b>, qui vit sans règles ni lois, HPC. <i>1282, 32</i>.<p><b>Étym</b>. ἄθ. βίος.`

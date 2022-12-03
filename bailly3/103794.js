@@ -1,1 +1,0 @@
-lar[103794]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les pantomimes avec accompagnement de musique <i>ou</i> de chant, DH. <i>Dem. 43</i> ; ATH. <i>630d</i>.<p><b>Étym</b>. ὑπόρχημα.`

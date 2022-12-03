@@ -1,1 +1,0 @@
-lar[7970]=`<b>ου (ὁ)</b> bâton pour tendre un trébuchet, CALL. <i>fr. 233</i>.<p><b>Étym</b>. ἀναδικεῖν.`

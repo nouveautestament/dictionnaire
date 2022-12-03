@@ -1,1 +1,0 @@
-lar[25009]=`<b>δια·μασχαλίζω</b> <font color="purple">[χᾰ]</font> (<i>part. ao</i>.) prendre sous son bras, <i>acc</i>. AR. <i>fr. 249</i>.`

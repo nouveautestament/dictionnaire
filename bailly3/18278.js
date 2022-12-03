@@ -1,1 +1,0 @@
-lar[18278]=`<b>ἄ·φρουρος, ος, ον :<br>      1</b> sans gardien, PLAT. <i>Phædr. 256c ; part</i>. sans garde du corps, PLUT. <i>Demetr. 32</i>.<br><b>      2</b> exempt du service de garde, ARSTT. <i>Pol. 2, 9, 18</i>.<p><b>Étym</b>. ἀ, φρουρά.`

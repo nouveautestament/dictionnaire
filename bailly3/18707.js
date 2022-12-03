@@ -1,1 +1,0 @@
-lar[18707]=`<b>ου (ὁ)</b> <font color="purple">[ᾰμᾰ]</font> grand marcheur, CRAT. (POLL. <i>3, 92).</i><p><b>Étym</b>. βάδισμα.`

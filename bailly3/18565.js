@@ -1,1 +1,0 @@
-lar[18565]=`<i>ion</i>. <b>ἀχυρμιή, ῆς (ἡ)</b> <font color="purple">[ᾰχ]</font> monceau de paille, IL. <i>5, 502</i> ; ANTH. <i>9, 384</i>.<p><b>Étym</b>. ἄχυρον.`

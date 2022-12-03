@@ -1,1 +1,0 @@
-lar[74217]=`<b>ας (ἡ) :<br>      1</b> jeu, amusement, HDT. <i>1, 94 ; 2, 173</i>.<br><b>      2</b> fête, AR. <i>Lys. 700</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>1 ; 94, etc</i>.<p><b>Étym</b>. παίζω.`

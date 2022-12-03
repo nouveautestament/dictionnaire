@@ -1,1 +1,0 @@
-lar[52893]=`<b>α, ον</b> <font color="purple">[ᾰνᾱ]</font> qu’on peut <i>ou</i> qu’il faut dépenser, ARSTT. <i>Rhet. Al. 1, 8</i>.<p><b>Étym</b>. <i>vb. de</i> καταναλίσκω.`

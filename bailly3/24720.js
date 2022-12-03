@@ -1,1 +1,0 @@
-lar[24720]=`<b>δια·καθίζω</b> (<i>part. ao</i>. διακαθίσας) :<br><b>      1</b> faire siéger à part, XÉN. <i>Œc. 6, 6</i>.<br><b>      2 <i>intr.</i></b> aller à la selle, SPT. <i>2Reg. 11, 1</i>.<br><b><i>Moy.</i></b> <i>m. sign. intr</i>. JOS. <i>B.J. 1, 15, 6</i>.`

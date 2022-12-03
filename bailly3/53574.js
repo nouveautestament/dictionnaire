@@ -1,1 +1,0 @@
-lar[53574]=`<b>κατα·τριακοντουτίζω</b> (<i>inf. ao</i>. -ῖσαι <font color="purple">[ῐᾱ]</font> avoir commerce avec les trêves de 30 ans (courtisanes), AR. <i>Eq. 1391</i>.<p><b>Étym</b>. κ. τριακοντοῦτις.`

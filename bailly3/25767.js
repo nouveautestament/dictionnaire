@@ -1,1 +1,0 @@
-lar[25767]=`<b>δι·ατρεμέω-ῶ</b> <font color="darkgreen">(<i>ao. inf</i>. -ῆσαι)</font> être immobile, <i>en parl. de la mer,</i> ARR. <i>Eux. 6, 1</i>.`

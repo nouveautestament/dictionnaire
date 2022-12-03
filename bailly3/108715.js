@@ -1,1 +1,0 @@
-lar[108715]=`<b>χολεριάω-ῶ</b>, être atteint du choléra, DIOSC. <i>1, 160</i> ; PLUT. <i>M. 974b ;</i> GAL. τῶν κατὰ τόπ. <i>7, 5</i>.<p><b>Étym</b>. χολέρα.`

@@ -1,1 +1,0 @@
-lar[81980]=`<b>πολυ·κευθής, ής, ές</b> <font color="purple">[ῠ]</font> qui dissimule bien, spécieux, <i>en parl. d’un discours,</i> CLÉM. <i>886</i>.<p><b>Étym</b>. π. κεύθω.`

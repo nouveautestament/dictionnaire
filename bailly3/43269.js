@@ -1,1 +1,0 @@
-lar[43269]=`<b>εὐρυ·θέμεθλος, ος, ον</b> <font color="purple">[ῠ]</font> aux larges fondements, NAZ. <i>2, 167</i>.<p><b>Étym</b>. εὐ. θέμεθλον.`

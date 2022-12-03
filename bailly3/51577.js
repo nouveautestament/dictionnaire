@@ -1,1 +1,0 @@
-lar[51577]=`<b>ίδος</b> <font color="purple">[ᾰ]</font> <i>adj. f. c</i>. Κανωβικός PLUT. <i>Sol. 26</i>.`

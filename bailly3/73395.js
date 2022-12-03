@@ -1,1 +1,0 @@
-lar[73395]=`<font color="purple">[ᾰ]</font> <i>adv</i>., rapidement, vivement, IL. <i>3, 260 ; 19, 100</i> ; HÉS. <i>Sc. 410</i>.<p><b>Étym</b>. <i>cf</i>. ὀτρύνω.`

@@ -1,1 +1,0 @@
-lar[10231]=`<b>ἀντι·πελαργέω-ῶ</b>, témoigner de la piété filiale en retour, comme fait, dit-on, la cigogne pour ses parents, ARISTÉN. <i>1, 25</i>.<p><b>Étym</b>. ἀ. πελαργός.`

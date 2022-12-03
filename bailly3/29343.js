@@ -1,1 +1,0 @@
-lar[29343]=`<b>οῦ (ὁ)</b> railleur, EUR. <i>Hipp. 1000</i>.<p><b>Étym</b>. ἐγγελάω.`

@@ -1,1 +1,0 @@
-lar[17563]=`<b>αὐτό·λιθος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> fait d’une seule pierre, SOPH. <i>fr. 133, conj.</i><br><b>      2</b> <i>fig</i>. tout de pierre, dur comme la pierre, CHRYS.`

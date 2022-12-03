@@ -1,1 +1,0 @@
-lar[44194]=`<b>Ἐχεκρατίδης, ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Ekhékratidès, <i>h</i>. THC. <i>1, 111</i> ; ANTH. <i>6, 142</i>.<p>➳ <i>Dor</i>. -ίδας, ANTH. <i>6, 142 ; gén</i>. -α, ANTH. <i>6, 123</i>.<p><b>Étym</b>. <i>patr. de</i> Ἐχεκράτης.`

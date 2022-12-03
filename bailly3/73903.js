@@ -1,1 +1,0 @@
-lar[73903]=`<b>ατος (τὸ)</b> saillie, fécondation, ARSTT. <i>H.A. 6, 23</i>.<p><b>Étym</b>. ὀχεύω.`

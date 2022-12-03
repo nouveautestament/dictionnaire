@@ -1,1 +1,0 @@
-lar[39450]=`<b>ἐπι·τολμάω-ῶ</b>, s’enhardir, oser, <i>avec l’inf.</i> : ἀκούειν, OD. <i>1, 353,</i> avoir le courage d’écouter ; <i>abs</i>. se résigner, OD. <i>17, 238 ; avec un dat</i>. montrer du courage contre, <i>d’où</i> affronter (une traversée, une entreprise, <i>etc</i>.) PLUT. <i>Phil. 10, Ant. 69</i>.`

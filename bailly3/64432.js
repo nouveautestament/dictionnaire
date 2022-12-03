@@ -1,1 +1,0 @@
-lar[64432]=`<b>α, ον</b>, qui est au milieu : τὸ μεσαῖον, ANTIPH. (ATH. <i>95a</i>) le milieu.<p><b>Étym</b>. μέσος.`

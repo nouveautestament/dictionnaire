@@ -1,1 +1,0 @@
-lar[18232]=`<font color="darkgreen">(<i>f</i>. ίσω)</font> écumer, SOPH. <i>El. 719</i> ; HPC. <i>645, 2 ; en parl. d’une coupe de vin,</i> ANTIPH. <i>et</i> ALEX. (ATH. <i>471c et 472a</i>) ; TH. DS.<p><b>Étym</b>. ἀφρός.`

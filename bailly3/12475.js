@@ -1,1 +1,0 @@
-lar[12475]=`<b>ἀπ·οϊστεύω</b>, abattre à coups de flèches, ANTH. <i>7, 743</i>.`

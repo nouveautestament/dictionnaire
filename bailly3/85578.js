@@ -1,1 +1,0 @@
-lar[85578]=`<i>adv</i>., avec quelque ressemblance, DS. <i>Exc. p. 565, 21</i>.<p><b>Étym</b>. προσεμφερής.`

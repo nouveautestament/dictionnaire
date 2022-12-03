@@ -1,1 +1,0 @@
-lar[38538]=`<b>ή, όν</b>, imaginé, inventé, SEXT. <i>M. 8, 38</i>.<p><b>Étym</b>. ἐπινοέω.`

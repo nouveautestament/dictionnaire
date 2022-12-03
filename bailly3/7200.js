@@ -1,1 +1,0 @@
-lar[7200]=`<b>ἀνα·μίσγω</b> (<i>seul. prés. et impf</i>.) :<br><b>      1</b> mêler : τινί τι, OD. <i>10, 235,</i> une chose à une autre.<br><b>      2</b> avoir des relations avec, <i>dat</i>. HDT. <i>1, 199</i>.<p>➳ <i>Poét</i>. ἀμμίσγω, EMPÉD. <i>47 Sturz</i>.`

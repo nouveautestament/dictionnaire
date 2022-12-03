@@ -1,1 +1,0 @@
-lar[37360]=`<b>ἐπι·βλύξ</b>, <i>adv</i>., en jaillissant, <i>d’où</i> abondamment, PHÉRÉCR. (ATH. <i>269d</i>).<p><b>Étym</b>. ἐπιβλύζω.`

@@ -1,1 +1,0 @@
-lar[89964]=`<b>ου (τὸ)</b> = <i>lat</i>. semi-cinctium, sorte de tablier <i>ou</i> de fichu, NT. <i>Ap. 19, 12</i>.`

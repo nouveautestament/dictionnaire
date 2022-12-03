@@ -1,1 +1,0 @@
-lar[88432]=`<b>εος-ους (τὸ)</b> étoffe teinte, <i>d’où</i> :<br><b>      1</b> tapis <i>ou</i> couverture, IL. <i>9, 661</i> ; OD. <i>13, 73, 118 ; d’ord. au plur</i>. IL. <i>24, 644</i> ; OD. <i>3, 349, etc.</i><br><b>      2</b> vêtement, OD. <i>6, 38</i>.<p><b>Étym</b>. ῥέζω, teindre.`

@@ -1,1 +1,0 @@
-lar[26812]=`<b>Διονυσό·δωρος, ου (ὁ)</b> <font color="purple">[ῐῡ]</font> Dionysodôros, <i>h</i>. XÉN. <i>Mem. 3, 1</i> ; PLAT. <i>Euthyd. 273a, etc</i>.<p><b>Étym</b>. Διόνυσος, δῶρον.`

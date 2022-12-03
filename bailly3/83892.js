@@ -1,1 +1,0 @@
-lar[83892]=`<b>προ·δέμω</b> (<i>pl.q.pf. pass. 3 pl</i>. προὐδεδόμηντο) construire auparavant, JOS. <i>B.J. 1, 21, 6</i>.`

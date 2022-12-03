@@ -1,1 +1,0 @@
-lar[102262]=`<b>ὑπερ·άλπειος, ος, ον</b>, qui est au delà des Alpes, STR. <i>193, 212, 218, etc</i>.<p><b>Étym</b>. ὑ. Ἄλπεις.`

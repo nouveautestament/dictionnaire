@@ -1,1 +1,0 @@
-lar[91138]=`<b>σκοπιωρέομαι-οῦμαι :<br>      1</b> observer d’en haut, PHILSTR. <i>784</i>.<br><b>      2</b> observer, épier, <i>en gén</i>. AR. <i>Vesp. 361</i> ; XÉN. <i>Cyn. 9, 2</i>.<p><b>Étym</b>. σκοπιωρός.`

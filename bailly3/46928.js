@@ -1,1 +1,0 @@
-lar[46928]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> chaleur, HPC. <i>Aph. 1255</i> ; XÉN. <i>An. 5, 8, 15</i> ; ARSTT. <i>Probl. 1, 9, 2</i>.<p>➳ <i>Les Att. emploient de préfér</i>. θερμότης.<p><b>Étym</b>. θερμαίνω.`

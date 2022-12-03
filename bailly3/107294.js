@@ -1,1 +1,0 @@
-lar[107294]=`<b>ος, ον</b> <font color="purple">[ῠᾰ ; <i>chez les Épq. ῡ p. nécessité métr</i>.]</font> <i>c</i>. φυτάλμιος ORPH. <i>H. 14, 9</i>.`

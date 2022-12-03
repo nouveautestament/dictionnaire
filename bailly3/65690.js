@@ -1,1 +1,0 @@
-lar[65690]=`<b>μικρ·έμπορος, ου (ὁ)</b> <font color="purple">[ῑ]</font> petit marchand, BABR. <i>111, 1</i>.`

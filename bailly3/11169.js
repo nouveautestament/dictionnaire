@@ -1,1 +1,0 @@
-lar[11169]=`<b>ἀπαλεξί·κακος, ος, ον</b> <font color="purple">[ᾰλῐᾰ]</font> qui repousse un malheur, ORPH. <i>H. 67</i>.<p><b>Étym</b>. ἀπαλέξω, κακόν.`

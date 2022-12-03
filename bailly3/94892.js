@@ -1,1 +1,0 @@
-lar[94892]=`<b>συν·απολείπω :<br>      1 <i>tr.</i></b> abandonner avec, DS. <i>19, 69</i>.<br><b>      2 <i>intr.</i></b> faire défaut, TH. <i>C.P. 2, 19, 3</i>.`

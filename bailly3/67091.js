@@ -1,1 +1,0 @@
-lar[67091]=`<font color="purple">[ῠ]</font> <i>adv</i>., de Mycène, IL. <i>9, 44</i>.<p><b>Étym</b>. Μυκήνη, -θεν.`

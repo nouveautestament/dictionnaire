@@ -1,1 +1,0 @@
-lar[52408]=`<b>ης (ἡ)</b> objet déposé, dépôt, ISOCR. <i>364b ;</i> NICIAS (CLÉM. <i>748).</i><p><b>Étym</b>. κατατίθημι.`

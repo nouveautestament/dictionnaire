@@ -1,1 +1,0 @@
-lar[60462]=`<b>ή, όν</b>, propre à amincir, à diviser en menues parcelles, <i>gén</i>. DIPH. SIPHN. (ATH. <i>356d</i>) ; <i>abs</i>. DIOSC. <i>5, 89</i>.<p>•<i> Cp</i>. -ώτερος, ATH. <i>59b</i>.<p><b>Étym</b>. λεπτύνω.`

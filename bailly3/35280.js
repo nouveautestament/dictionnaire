@@ -1,1 +1,0 @@
-lar[35280]=`<b>ἑξάδ·αρχος, ου (ὁ)</b> <font color="purple">[ᾰδ]</font> commandant de six hommes, XÉN. <i>Cyr. 3, 3, 11</i>.<p><b>Étym</b>. ἑξάς, ἄρχω.`

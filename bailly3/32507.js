@@ -1,1 +1,0 @@
-lar[32507]=`<b>ἐλάσ·ιππος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui lance les chevaux, PD. <i>P. 5, 114</i>.<br><b>      2</b> qui conduit des chevaux, ORPH. <i>H. 8, 18</i>.<p><b>Étym</b>. ἐλάω, ἵππος.`

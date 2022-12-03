@@ -1,1 +1,0 @@
-lar[77295]=`<b>ῆς</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. πάταγος, LGS <i>1, 22</i> ; DP. <i>574</i>.`

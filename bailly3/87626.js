@@ -1,1 +1,0 @@
-lar[87626]=`<b>πυκνό·κομον, ου (τὸ)</b> sorte de scabieuse, DIOSC. <i>4, 176</i>.<p><b>Étym</b>. π. κόμη.`

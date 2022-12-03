@@ -1,1 +1,0 @@
-lar[10161]=`<b>ἀντι·πάλαισμα, ατος (τὸ)</b> <font color="purple">[πᾰ]</font> lutte contre, NYSS. <i>1, 336</i>.<p><b>Étym</b>. ἀντιπαλαίω.`

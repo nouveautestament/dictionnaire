@@ -1,1 +1,0 @@
-lar[10297]=`<b>ἀντί·ποινος, ος, ον</b>, qui est le châtiment, <i>d’où, p. ext</i>., le paiement de : τὰ ἀντίποινα, ESCHL. <i>Pers. 476, etc</i>. rémunération, salaire ; τῆς θυγατρὸς ἀντίποινα λαμβάνειν, SOPH. <i>El. 592,</i> venger la mort de sa fille.<p><b>Étym</b>. ἀ. ποινή.`

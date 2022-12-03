@@ -1,1 +1,0 @@
-lar[81179]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en esprit, selon l’Esprit, par l’inspiration divine, NT. <i>1Cor. 2, 14, etc</i>.`

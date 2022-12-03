@@ -1,1 +1,0 @@
-lar[61046]=`<b>λιθο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> connaisseur en pierres précieuses, JUL. <i>91b</i>.<p><b>Étym</b>. λ. γνώμων.`

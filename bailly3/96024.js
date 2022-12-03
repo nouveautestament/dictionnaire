@@ -1,1 +1,0 @@
-lar[96024]=`<b>συν·ισθμίζω</b>, être réuni <i>ou</i> communiquer par un isthme, SCYMN. <i>370</i>.`

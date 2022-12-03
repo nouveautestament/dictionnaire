@@ -1,1 +1,0 @@
-lar[29553]=`<b>ἐγ·καταπίπτω</b> <font color="darkgreen">(<i>f</i>. -πεσοῦμαι, <i>etc. v. ci-dessous</i>)</font> tomber dans <i>ou</i> sur, <i>dat</i>. A.RH. <i>3, 655 (ao. poét. 3 sg</i>. ἐνικάππεσεν) ; NYSS. <i>2, 820a</i> (-καταπίπτουσαι).<p><b>Étym</b>. ἐν, κ.`

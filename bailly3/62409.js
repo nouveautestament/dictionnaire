@@ -1,1 +1,0 @@
-lar[62409]=`<i>adv</i>., à la manière des Scythes, <i>voisins du Palus-Méotide,</i> THCR. <i>Idyl. 13, 56</i>.<p><b>Étym</b>. Μαιώτης.`

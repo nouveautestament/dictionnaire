@@ -1,1 +1,0 @@
-lar[103906]=`<b>ὑπο·στράτηγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> commandant en second, XÉN. <i>An. 3, 1, 32 ; à Rome,</i> lieutenant (legatus) DH. <i>Exc. t. 4, p. 2349, 9</i>.`

@@ -1,1 +1,0 @@
-lar[28775]=`<b>δυσ·πάρθενος, ου (ἡ)</b> <i>au voc</i>. -ενε, malheureuse jeune fille, CHRISTOD. <i>Ecphr. 197</i>.<p><b>Étym</b>. δ. παρθένος.`

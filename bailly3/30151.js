@@ -1,1 +1,0 @@
-lar[30151]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de se faire battre volontairement, POL. <i>3, 68, 10 ; 5, 5, 10</i>.<br><b>      2</b> abandon volontaire, défection, POL. <i>27, 13, 13</i>.<p><b>Étym</b>. ἐθελοκακέω.`

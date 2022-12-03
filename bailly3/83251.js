@@ -1,1 +1,0 @@
-lar[83251]=`<b>πρᾳο·παθέω-ῶ</b> <font color="purple">[πᾰ]</font> être d’un caractère doux, PHIL. <i>1, 547</i>.`

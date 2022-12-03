@@ -1,1 +1,0 @@
-lar[36769]=`<b>ος, ον</b> <font color="purple">[ᾰᾱ]</font> exécrable, Ps.-PHOCYL. <i>18</i>.<p><b>Étym</b>. ἐπαράομαι.`

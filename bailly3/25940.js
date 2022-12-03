@@ -1,1 +1,0 @@
-lar[25940]=`<b>ή, όν</b> <font color="purple">[ῠτ]</font> qui a la propriété de se dissoudre, de se dissiper, <i>gén</i>. PLAT. <i>Tim. 60b ;</i> TH. π. αἰσθ. <i>84, p. 683</i>.<p><b>Étym</b>. διαχέω.`

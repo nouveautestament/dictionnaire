@@ -1,1 +1,0 @@
-lar[72574]=`<b>ας (ἡ)</b> Oreia, <i>mt. d’Étolie,</i> NIC. (ATH. <i>297a</i>).`

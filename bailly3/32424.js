@@ -1,1 +1,0 @@
-lar[32424]=`<b>εως (ἡ)</b> rafraîchissement, ARÉT. <i>Caus. m. acut. 2, 2</i>.<p><b>Étym</b>. ἐκψύχω.`

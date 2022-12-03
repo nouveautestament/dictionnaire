@@ -1,1 +1,0 @@
-lar[50842]=`<b>κακο·ρρήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui annonce des malheurs, ESCHL. <i>Ag. 1155</i>.<p><b>Étym</b>. κ. ῥῆμα.`

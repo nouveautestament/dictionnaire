@@ -1,1 +1,0 @@
-lar[31466]=`<b>ἐκ·κοιτία, ας (ἡ)</b> garde de nuit, PHIL. BYZ. <i>Bel. 93, 5</i> ; EN. TACT. <i>Pol. c. 13, p. 41</i>.<p><b>Étym</b>. ἐκ, κοίτη.`

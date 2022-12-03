@@ -1,1 +1,0 @@
-lar[67239]=`<i>ou</i> <b>Μύρινος, ου (ὁ)</b> Myrinos, <i>poète de l’Anthologie,</i> ANTH. <i>6, 108</i>.`
