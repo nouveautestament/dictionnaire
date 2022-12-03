@@ -1,1 +1,0 @@
-lar[15397]=`<b>ἀρτι·χόρευτος, ος, ον</b> <font color="purple">[ῐ]</font> que l’on vient de fêter par des chœurs, NONN. <i>D. 7, 46</i>.<p><b>Étym</b>. ἄ. χορεύω.`

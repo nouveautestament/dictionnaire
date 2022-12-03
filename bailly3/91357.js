@@ -1,1 +1,0 @@
-lar[91357]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> métier de cordonnier, HPC. <i>820d</i>.<p><b>Étym</b>. σκυτεύς.`

@@ -1,1 +1,0 @@
-lar[101797]=`<b>ῶν</b>, <i>dor</i>. <b>ᾶν (οἱ)</b> les enfants <i>ou</i> les filles de l’Hymette, ANTH. <i>15, 25</i>.<p><b>Étym</b>. <i>patr. de</i> Ὑμηττός.`

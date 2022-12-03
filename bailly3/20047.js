@@ -1,1 +1,0 @@
-lar[20047]=`<b>ός, όν</b>, qui vient au secours de, HDT. <i>5, 77, 97</i> ; THC. <i>1, 45</i> ; ὁ β. auxiliaire de, défenseur de, <i>dat</i>. XÉN. <i>Cyr. 5, 3, 19</i> ; ANT. <i>111, 40</i>.<p><b>Étym</b>. <i>cf</i>. βοηθόος.`

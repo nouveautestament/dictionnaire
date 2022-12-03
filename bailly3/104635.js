@@ -1,1 +1,0 @@
-lar[104635]=`<b>ας (ἡ)</b> Phædra (Phèdre) <i>fille de Minos, femme de Thésée,</i> OD. <i>11, 321</i> ; EUR. <i>Hipp. 27, etc</i>.<p>➳ <i>Ion</i>. Φαίδρη, OD. <i>l.c.</i> ; ANTH. <i>9, 68, 132, etc</i>.`

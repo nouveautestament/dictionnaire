@@ -1,1 +1,0 @@
-lar[45730]=`<i>adv</i>., avec urgence, BAS. <i>1, 108 ; 3, 240 Migne</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> ἐπείγω.`

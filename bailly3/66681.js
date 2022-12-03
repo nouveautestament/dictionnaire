@@ -1,1 +1,0 @@
-lar[66681]=`<b>μονο·χορδίζω</b>, jouer du monocorde, A. QUINT. <i>3, p. 116</i>.<p><b>Étym</b>. μονόχορδος.`

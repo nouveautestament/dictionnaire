@@ -1,1 +1,0 @@
-lar[107435]=`<b>ου (ὁ)</b> Photius, <i>écrivain grec ; cf</i>. ANTH. <i>9, 203</i>.`

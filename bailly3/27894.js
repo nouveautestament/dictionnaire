@@ -1,1 +1,0 @@
-lar[27894]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> accomplissement du ministère sacré, HH. <i>Cer. 476</i>.<p><b>Étym</b>. δρησμός.`

@@ -1,1 +1,0 @@
-lar[8659]=`<b>ἀν·ηγεμόνευτος, ος, ον</b>, sans guide, sans maître, LUC. <i>J. tr. 46, Ic. 9</i> ; M. ANT. <i>12, 14</i>.<p><b>Étym</b>. ἀν-, ἡγεμονεύω.`

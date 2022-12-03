@@ -1,1 +1,0 @@
-lar[36196]=`<b>ἐξορμέω-ῶ :<br>      1</b> sortir du port, gagner le large, LYCURG. <i>149, 44</i> ; AND. <i>2, 31</i> ; IS. <i>59, 7, etc.</i><br><b>      2</b> <i>p. ext</i>. sortir, <i>en gén.</i> : ἐκ τῆς πόλεως, ESCHN. <i>84, 4,</i> de la ville ; <i>fig</i>. ἐκ τοῦ νοῦ, PAUS. <i>3, 4, 1,</i> sortir de son bon sens.<p><b>Étym</b>. ἔξορμος.`

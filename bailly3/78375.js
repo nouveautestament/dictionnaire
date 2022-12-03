@@ -1,1 +1,0 @@
-lar[78375]=`<b>ου (ὁ)</b> Périallos, <i>h</i>. EPICH. (ATH. <i>139c, etc</i>.).`

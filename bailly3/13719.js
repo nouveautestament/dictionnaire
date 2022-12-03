@@ -1,1 +1,0 @@
-lar[13719]=`<b>ἀπο·φέρβομαι</b> (<i>seul. prés</i>.) se repaître de, <i>acc</i>. EUR. <i>Med. 826</i>.`

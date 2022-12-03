@@ -1,1 +1,0 @@
-lar[107844]=`<b>οῦ (ὁ)</b> <font color="purple">[χᾰ]</font> incision, <i>particul</i>. dentelure d’une feuille, TH. <i>H.P. 3, 11, 3</i>.<p><b>Étym</b>. χαράσσω.`

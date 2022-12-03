@@ -1,1 +1,0 @@
-lar[94816]=`<b>συν·αντιβάλλω</b>, mettre en parallèle, comparer, CLÉM. <i>410 au pass</i>.`

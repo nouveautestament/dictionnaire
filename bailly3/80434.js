@@ -1,1 +1,0 @@
-lar[80434]=`<b>πισσ·αλοιφέω-ῶ</b> <font color="purple">[ᾰ]</font> enduire de poix <i>ou</i> de goudron, EN. TACT. <i>Pol. 11</i>.<p><b>Étym</b>. πίσσα, ἀλοιφή <i>de</i> ἀλείφω.`

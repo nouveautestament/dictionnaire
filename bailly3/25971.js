@@ -1,1 +1,0 @@
-lar[25971]=`<b>δί·βαμος, ος, ον</b> <font color="purple">[ῐᾱ]</font> à deux pieds, bipède, EUR. <i>Rhes. 215</i>.<p><b>Étym</b>. δίς, βῆμα.`

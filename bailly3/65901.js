@@ -1,1 +1,0 @@
-lar[65901]=`<font color="purple">[ῐᾰ]</font> <i>adv.</i> :<br><b>      1</b> peu <i>ou</i> un peu, IL. <i>4, 466</i> ; OD. <i>8, 315, etc.</i><br><b>      2</b> pour peu de temps, IL. <i>1, 416, etc.</i> ; OD. <i>15, 493, etc</i>.<p><b>Étym</b>. μινύθω.`

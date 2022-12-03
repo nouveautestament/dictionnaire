@@ -1,1 +1,0 @@
-lar[14343]=`<b>ἀργυρό·κυκλος, ος, ον</b> <font color="purple">[ῠυ]</font> aux cercles <i>ou</i> aux roues d’argent, NONN. <i>D. 18, 10</i>.<p><b>Étym</b>. ἄ. κύκλος.`

@@ -1,1 +1,0 @@
-lar[58560]=`<b>κυκλο·πορέω-ῶ</b>, faire des circuits, STR. <i>292</i>.<p><b>Étym</b>. κ. πορέομαι.`

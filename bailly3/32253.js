@@ -1,1 +1,0 @@
-lar[32253]=`<b>εως (ἡ)</b> avortement, HPC. <i>644, 50</i> ; ARSTT. <i>Probl. 1, 9, 2</i>.<p><b>Étym</b>. ἐκτιτρώσκω.`

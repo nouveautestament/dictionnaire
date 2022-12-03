@@ -1,1 +1,0 @@
-lar[94460]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> resserrement des mots, concision, J. ALEX. <i>π. τόν. παραγγ. p. 3, 28 ; 6, 7</i>.<p><b>Étym</b>. συμφράζω.`

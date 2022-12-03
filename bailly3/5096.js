@@ -1,1 +1,0 @@
-lar[5096]=`<b>ἀ·λώβητος, ος, ον</b>, exempt de dommage, THÉM. <i>43c</i>.<p><b>Étym</b>. ἀ, λωβάω.`

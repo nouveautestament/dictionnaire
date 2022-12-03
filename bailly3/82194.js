@@ -1,1 +1,0 @@
-lar[82194]=`<b>πολυ·όνειρος, ος, ον</b>, qui a beaucoup de songes, PLUT. <i>M. 437f</i>.<p><b>Étym</b>. π. ὄνειρος.`

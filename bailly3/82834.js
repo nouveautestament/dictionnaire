@@ -1,1 +1,0 @@
-lar[82834]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> très éloigné, GAL. <i>13, 245</i>.<p><b>Étym</b>. <i>sup. dérivé de</i> πόρρω.`

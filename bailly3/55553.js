@@ -1,1 +1,0 @@
-lar[55553]=`<b>κιονό·κρανον, ου (τὸ)</b> <font color="purple">[ῑᾱ]</font> tête de colonne, chapiteau, STR. <i>198</i> ; DS. <i>5, 47 ; 18, 26, etc</i>.<p><b>Étym</b>. κίων, κρανίον ; <i>cf</i>. κιόκρανον.`

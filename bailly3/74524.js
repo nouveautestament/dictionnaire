@@ -1,1 +1,0 @@
-lar[74524]=`<b>παλιμ·βουλία, ας (ἡ)</b> <font color="purple">[ᾰλ]</font> changement de résolution <i>ou</i> de sentiment, POLÉM. <i>Physiogn. 250</i>.<p><b>Étym</b>. π. βουλή.`

@@ -1,1 +1,0 @@
-lar[108456]=`<b>χιλιο·πλασίως</b> <font color="purple">[χῑᾰ]</font> mille fois autant, SPT. <i>Deut. 1, 11</i>.<p><b>Étym</b>. χιλιοπλάσιος.`

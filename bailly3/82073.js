@@ -1,1 +1,0 @@
-lar[82073]=`<b>ου (ὁ)</b> Polyllos, <i>h</i>. ANTH. <i>App. 150</i>.`

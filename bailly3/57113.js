@@ -1,1 +1,0 @@
-lar[57113]=`<b>κορο·πλάθος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> fabricant de poupées <i>ou</i> de figurines <i>en cire, en plâtre, en terre, etc</i>. ISOCR. <i>310b ;</i> LUC. <i>Lex. 22</i>.<p><b>Étym</b>. κόρη, πλάσσω.`

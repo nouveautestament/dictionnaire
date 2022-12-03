@@ -1,1 +1,0 @@
-lar[65594]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f., propr</i>. « l’industrieuse », <i>ép. d’Athèna,</i> PAUS. <i>8, 36, 5</i>.<p><b>Étym</b>. μηχανή.`

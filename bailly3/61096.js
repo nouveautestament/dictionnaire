@@ -1,1 +1,0 @@
-lar[61096]=`<b>ης, ες</b> <font color="purple">[ῐ]</font><br><b>      1</b> pierreux, HDT. <i>4, 23</i> ; XÉN. <i>Eq. 4, 4,</i> ARSTT. <i>H.A. 8, 2</i>.<br><b>      2</b> semblable à de la pierre, dur comme la pierre, <i>fig</i>. PLAT. <i>Theæt. 194c</i>.<p>•<i> Cp</i>. -έστερος, TH. <i>Lap. 65</i>.<p><b>Étym</b>. λ. -ωδης.`

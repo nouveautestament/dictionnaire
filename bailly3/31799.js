@@ -1,1 +1,0 @@
-lar[31799]=`<b>ἐκ·περδικίζω</b> <font color="purple">[δῑ]</font> s’échapper comme une perdrix, <i>càd</i>. adroitement, AR. <i>Av. 768</i>.<p><b>Étym</b>. ἐκ, πέρδιξ.`

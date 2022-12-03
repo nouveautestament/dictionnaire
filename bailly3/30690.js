@@ -1,1 +1,0 @@
-lar[30690]=`<b>εἰσ·άπαξ</b>, <i>adv.</i> :<br><b>      1</b> une fois pour toutes, HDT. <i>6, 125</i> ; ESCHL. <i>Pr. 750</i> ; THC. <i>5, 85, etc.</i><br><b>      2</b> une seule fois, SOPH. <i>Ph. 443</i> ; LUC. <i>Tim. 45</i>.<p><b>Étym</b>. εἰς, ἅπαξ.`

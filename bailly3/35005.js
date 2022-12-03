@@ -1,1 +1,0 @@
-lar[35005]=`<b>ἐν·τάσσω</b>, <i>att</i>. <b>-τάττω :<br>      1</b> mettre dans les rangs : τῷ σφενδονᾶν ἐντεταγμένῳ ἐθέλοντι, XÉN. <i>An. 3, 3, 18,</i> à tout homme qui s’était mis volontairement dans les rangs pour lancer la fronde ; <i>fig</i>. ranger dans <i>ou</i> parmi, <i>dat</i>. ATH. <i>5b.</i><br><b>      2</b> disposer contre, <i>dat</i>. EUR. <i>Rhes. 492</i>.`

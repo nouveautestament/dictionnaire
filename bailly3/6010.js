@@ -1,1 +1,0 @@
-lar[6010]=`<b>εως (ἡ)</b> action d’envelopper comme d’un fourreau, LYC. <i>845</i>.<p><b>Étym</b>. ἀμφελυτρόω.`

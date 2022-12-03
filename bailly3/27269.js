@@ -1,1 +1,0 @@
-lar[27269]=`<b>δι·ώβολον, ου (τὸ)</b> pièce de deux oboles qu’on donnait aux citoyens d’Athènes (<i>v</i>. διωβολία) AR. <i>fr. 111</i> ; ALEX. (ATH. <i>117d</i>).<p><b>Étym</b>. δίς, ὀβολός.`

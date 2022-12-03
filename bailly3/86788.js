@@ -1,1 +1,0 @@
-lar[86788]=`<b>α, ον</b> <font color="purple">[ῑ]</font> <i>vb. de</i> προτιμάω, PLAT. <i>Leg. 726a ; au neutre,</i> PLAT. <i>Criti. 109a</i>.`

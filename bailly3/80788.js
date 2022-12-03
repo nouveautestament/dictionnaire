@@ -1,1 +1,0 @@
-lar[80788]=`<b>πλατύ·στερνος, ος, ον</b> <font color="purple">[ᾰ]</font> à large poitrine, GEOP. <i>19, 2, 1</i>.<p><b>Étym</b>. πλ. στέρνον.`

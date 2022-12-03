@@ -1,1 +1,0 @@
-lar[45443]=`<b>ἡμι·κάδιον, ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> demi-muid, PHILOCH. <i>155a</i> (POLL. <i>10, 71).</i><p><b>Étym</b>. ἡμι-, κάδος.`

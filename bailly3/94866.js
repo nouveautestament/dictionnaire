@@ -1,1 +1,0 @@
-lar[94866]=`<b>συν·αποθεόω-εῶ</b>, déifier en même temps, NYSS.`

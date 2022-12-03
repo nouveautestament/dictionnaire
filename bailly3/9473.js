@@ -1,1 +1,0 @@
-lar[9473]=`<b>ἀντ·ανίστημι :<br>   I <i>tr.</i></b> lever en retour <i>ou</i> lever contre, PLUT. <i>M. 40e ;</i> DC. <i>42, 48</i>.<br><b>   II</b> <i>intr. (ao.2 et moy</i>.) :<br><b>      1</b> se lever en face <i>ou</i> contre, résister à, <i>dat</i>. SOPH. <i>Tr. 441</i> ; PLUT. <i>Syll. 7</i>.<br><b>      2</b> lutter l’un contre l’autre, PLUT. <i>M. 723b</i>.`

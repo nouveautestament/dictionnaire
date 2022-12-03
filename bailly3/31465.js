@@ -1,1 +1,0 @@
-lar[31465]=`<b>ἐκ·κοιτέω-ῶ</b> (<i>part. prés</i>. -ούντων) veiller pour la garde de nuit, JOS. <i>B.J. 6, 2, 6</i>.<p><b>Étym</b>. ἐκ, κοίτη.`

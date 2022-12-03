@@ -1,1 +1,0 @@
-lar[42236]=`<b>Εὐθύ·δικος, ου (ὁ)</b> <font color="purple">[ῠῐ]</font> Euthydikos, <i>h</i>. DÉM. <i>1018, 10</i> ; ESCHN. <i>6, 16</i> ; LUC. <i>Tox. 19</i>.<p><b>Étym</b>. <i>cf</i>. εὐθύδικος.`

@@ -1,1 +1,0 @@
-lar[33145]=`<b>ἔμ·βρεφος, ος, ον</b>, qui a l’âge d’un petit enfant, ANTH. <i>14, 111</i>.<p><b>Étym</b>. ἐν, βρέφος.`

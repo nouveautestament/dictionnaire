@@ -1,1 +1,0 @@
-lar[56894]=`<b>ου (τὸ)</b> endroit où les lutteurs se frottaient de poussière, VITR. <i>5, 11</i>.<p><b>Étym</b>. κονίζω.`

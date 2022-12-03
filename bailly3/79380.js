@@ -1,1 +1,0 @@
-lar[79380]=`<b>ῶνος (ὁ) :<br>      1</b> colombier, pigeonnier, PLAT. <i>Theæt. 197c, etc.</i><br><b>      2</b> verveine, <i>plante,</i> DIOSC. <i>4, 60</i>.<p><b>Étym</b>. περιστερά.`

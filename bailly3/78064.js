@@ -1,1 +1,0 @@
-lar[78064]=`<b>πεντ·εγκέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la moelle se divise en cinq tiges, TH. <i>H.P. 2, 6, 9</i>.`

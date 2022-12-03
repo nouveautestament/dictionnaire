@@ -1,1 +1,0 @@
-lar[7462]=`<b>ἀν·απόστατος, ος, ον</b> <font color="purple">[τᾰ]</font> de qui <i>ou</i> de quoi l’on ne peut se dégager, PLUT. <i>M. 166e</i>.<p><b>Étym</b>. ἀν-, ἀφίστημι.`

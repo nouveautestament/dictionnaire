@@ -1,1 +1,0 @@
-lar[83204]=`<b>ου</b>, <i>adj. m</i>. de Préneste, PLUT. <i>Cam. 37, etc</i>.<p><b>Étym</b>. Πραίνεστος.`

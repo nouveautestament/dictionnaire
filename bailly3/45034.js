@@ -1,1 +1,0 @@
-lar[45034]=`<b>ἡδυ·τόκος, ος, ον</b> <font color="purple">[ῠ]</font> qui enfante de douces choses, NONN. <i>D. 3, 150</i>.<p><b>Étym</b>. ἡ. τίκτω.`

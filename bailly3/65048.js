@@ -1,1 +1,0 @@
-lar[65048]=`<b>εως (ἡ)</b> <font color="purple">[ρῐ]</font><br><b>      1</b> action de manier, maniement, DH. <i>Rhet. 4, 1</i>.<br><b>      2</b> traitement médical, GAL. <i>de Fract. 18-2, 407</i>.<p><b>Étym</b>. μεταχειρίζω.`

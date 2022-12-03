@@ -1,1 +1,0 @@
-lar[59703]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> le fils de Lampétos, IL. <i>15, 526</i>.`

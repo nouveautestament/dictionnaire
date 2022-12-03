@@ -1,1 +1,0 @@
-lar[43704]=`accueillir par des acclamations, HDN <i>2, 3, 35</i>.<br><b><i>Moy.</i></b> parler par euphémisme, DYSC. <i>Pron. 11b</i>.<p><b>Étym</b>. εὔφημος.`

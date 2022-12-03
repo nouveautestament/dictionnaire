@@ -1,1 +1,0 @@
-lar[48286]=`<b>ἰασπ·αχάτης, ου (ὁ)</b> <font color="purple">[ᾰχᾱτ]</font> agate jaspée, <i>pierre précieuse,</i> AÉT. <i>1, 2, 37</i> ; PLIN. <i>H.N. 37, 54</i>.<p><b>Étym</b>. ἴασπις, ἀχάτη.`

@@ -1,1 +1,0 @@
-lar[27174]=`<b>άδος (ἡ)</b> <font color="purple">[ῐᾰδ]</font> moitié, ARAT. <i>807</i>.<p><b>Étym</b>. δίχα.`

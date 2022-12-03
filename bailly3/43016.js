@@ -1,1 +1,0 @@
-lar[43016]=`<b>εὔ·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b>, aux beaux bras, EUR. <i>Hipp. 200</i> ; RHIAN. <i>1, 14</i>.<p><b>Étym</b>. εὖ, πῆχυς.`

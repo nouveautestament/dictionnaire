@@ -1,1 +1,0 @@
-lar[85079]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> προσαγορεύω, PLAT. <i>Phæd. 104a ; au neutre,</i> ARSTT. <i>Poet. 1, 12</i>.`

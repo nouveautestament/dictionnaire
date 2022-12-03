@@ -1,1 +1,0 @@
-lar[109800]=`<b>ψηφισματο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui propose (<i>litt</i>. qui rédige) un décret, AR. <i>Vesp. Arg</i>.<p><b>Étym</b>. ψήφισμα, γράφω.`

@@ -1,1 +1,0 @@
-lar[34735]=`<b>ἐννεα·σύλλαβος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> de neuf syllabes, HÉPH. <i>10, 5</i>.<p><b>Étym</b>. ἐ. συλλαβή.`

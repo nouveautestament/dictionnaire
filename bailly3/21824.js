@@ -1,1 +1,0 @@
-lar[21824]=`<b>ας (ἡ)</b> = <i>lat</i>. Getania, <i>n. de f. rom</i>. PLUT. <i>Lyc. c. Num. 3, etc</i>.`

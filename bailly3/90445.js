@@ -1,1 +1,0 @@
-lar[90445]=`<b>εω (ὁ)</b> Siromitrès, <i>Perse,</i> HDT. <i>7, 68, 79</i>.`

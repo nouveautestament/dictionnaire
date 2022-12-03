@@ -1,1 +1,0 @@
-lar[22022]=`<b>ου (ὁ) :<br>      1</b> mulet mal venu <i>ou</i> né d’une jument malade, ARSTT. <i>H.A. 7, 24, 2 ; G.A. 2, 8, 24, etc.</i><br><b>      2</b> cheval rabougri, rosse, STR.<p>➳ <i>Var</i>. γῖνος, γιννός, ἵννος, ἶννος, ἴννος, ἰννός, ὕννος.<p><b>Étym</b>. <i>probabl. pré-grec</i>.`

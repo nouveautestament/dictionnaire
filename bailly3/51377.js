@@ -1,1 +1,0 @@
-lar[51377]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> arrondi en voûte, voûté, ATHÉNÉE MÉC. <i>36, 5</i> ; τὰ καμαρικά, traité des voûtes <i>ou</i> des cintres, <i>ouvrage d’Héron d’Alexandrie</i>.<p><b>Étym</b>. καμάρα.`

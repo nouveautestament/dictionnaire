@@ -1,1 +1,0 @@
-lar[36868]=`<b>εως (ἡ)</b> <font color="purple">[ᾰφ]</font> action de retrancher encore, ARÉT. <i>Cur. m. acut. 1, 1</i>.<p><b>Étym</b>. ἐπαφαιρέω.`

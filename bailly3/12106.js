@@ -1,1 +1,0 @@
-lar[12106]=`<b>ἄ·πνοια, ας (ἡ)</b> absence de vent, calme, HPC. <i>Epid. 3, 1081</i> ; ARSTT. <i>G.A. 5, 5, 6, etc.</i> ; TH. <i>C.P. 2, 7, 5 ; 5, 10, 3</i> ; POL. <i>34, 11, 19</i>.<p><b>Étym</b>. ἄπνοος.`

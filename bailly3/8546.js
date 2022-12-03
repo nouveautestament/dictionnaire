@@ -1,1 +1,0 @@
-lar[8546]=`<b>ἀν·ερέπτω</b>, soulever : στόμαχος ἀνερεπτόμενος, NIC. <i>Al. 256,</i> estomac soulevé.<p><b>Étym</b>. ἀνά, ἐ.`

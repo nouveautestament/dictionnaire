@@ -1,1 +1,0 @@
-lar[79413]=`<b>ῆς (ἡ)</b> action d’entourer, <i>d’où</i> :<br><b>      1</b> action d’envelopper, PLUT. <i>M. 652d.</i><br><b>      2</b> action de vêtir, HPC. <i>24, 42 ; particul</i>. action d’ensevelir, DH. <i>3, 21</i>.<br><b>      3</b> compression (du ventre), GAL. <i>2, 243</i>.<p><b>Étym</b>. περιστέλλω.`

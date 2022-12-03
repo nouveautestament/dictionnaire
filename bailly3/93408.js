@@ -1,1 +1,0 @@
-lar[93408]=`<b>συγ·κατοικέω-ῶ</b>, habiter avec, <i>dat</i>. PLUT. <i>Per. 20 ; fig</i>. SOPH. <i>O.C. 1259</i>.`

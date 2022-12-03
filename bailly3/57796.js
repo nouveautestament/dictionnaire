@@ -1,1 +1,0 @@
-lar[57796]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῐδ]</font> la fille de Krèthée, <i>càd</i>. Hippolytè, PD. <i>N. 5, 49</i>.<p><b>Étym</b>. Κρηθεύς.`

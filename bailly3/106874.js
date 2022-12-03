@@ -1,1 +1,0 @@
-lar[106874]=`<font color="purple">[ῑ]</font> avoir le frisson, Anon. <i>de vir. herb. 5, 71</i>.<p><b>Étym</b>. φρίκη.`

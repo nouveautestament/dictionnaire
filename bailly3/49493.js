@@ -1,1 +1,0 @@
-lar[49493]=`<b>ιος</b>, <i>acc</i>. <b>ιν (ὁ)</b> Iris (<i>auj</i>. Yeşilırmak) <i>fl. de Paphlagonie,</i> XÉN. <i>An. 5, 6, 9, etc</i>.`

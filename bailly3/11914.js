@@ -1,1 +1,0 @@
-lar[11914]=`<b>ας (ἡ)</b> dureté, cruauté, TH. <i>Char. 15 ; au plur</i>. A.RH. <i>2, 1202</i>.<p><b>Étym</b>. ἀπηνής.`

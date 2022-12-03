@@ -1,1 +1,0 @@
-lar[65943]=`<b>μιξο·φρύγιος, ος, ον</b> <font color="purple">[ῠ]</font> à moitié phrygien, <i>t. de musique,</i> STR. <i>572</i>.<p><b>Étym</b>. μ. Φρυγία.`

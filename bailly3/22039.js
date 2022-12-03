@@ -1,1 +1,0 @@
-lar[22039]=`<b>ου (ὁ)</b> hyène (<i>Hyæna hyæna</i>), ARSTT. <i>H.A. 8, 5, 2 ; cf</i>. ὕαινα.`

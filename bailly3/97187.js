@@ -1,1 +1,0 @@
-lar[97187]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> formation d’un corps <i>ou</i> de corps, HERMÈS (STOB. <i>Ecl. 1, p. 730</i>) ; PTOL. <i>Tetr. 3, 105</i>.<p><b>Étym</b>. σωματοποιέω.`

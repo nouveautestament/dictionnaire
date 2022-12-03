@@ -1,1 +1,0 @@
-lar[101380]=`<font color="purple">[ῠ]</font> <i>adv</i>., sainement, PLAT. <i>Rsp. 409a, 619d ;</i> DÉM. <i>325, 17</i>.<p><b>Étym</b>. ὑγιής.`

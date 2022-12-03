@@ -1,1 +1,0 @@
-lar[57975]=`imiter Kritias, PHILSTR. <i>502</i>.<p><b>Étym</b>. Κριτίας.`

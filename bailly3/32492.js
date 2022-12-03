@@ -1,1 +1,0 @@
-lar[32492]=`<b>ῶν (οἱ)</b> les Élamites, <i>pple du sud de la Médie,</i> NT. <i>Ap. 2, 9</i>.`

@@ -1,1 +1,0 @@
-lar[54786]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾱῐδ]</font> corneille, <i>oiseau,</i> LYC. <i>1317</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *ḱerh₂-u-, corne ; <i>orig. fém. de</i> κεραός.`

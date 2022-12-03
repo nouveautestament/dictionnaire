@@ -1,1 +1,0 @@
-lar[75006]=`<b>παν·ετήτυμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> tout à fait vrai, tout à fait certain, ORPH. <i>Arg. 538</i> ; NONN. <i>Jo. 8, 98</i>.<p><b>Étym</b>. π. ἐτήτυμος.`

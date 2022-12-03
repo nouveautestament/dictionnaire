@@ -1,1 +1,0 @@
-lar[8150]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui s’éveille, qui se lève, ANTH. <i>9, 558</i>.`

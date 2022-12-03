@@ -1,1 +1,0 @@
-lar[86852]=`<b>ου (ὁ) :<br>      1</b> portefaix, DL. <i>4, 6</i>.<br><b>      2</b> <i>adj</i>. προὔνεικος, ος, ον, lascif (attouchement) ANTH. <i>12, 209</i>.<p><b>Étym</b>. προενεγκεῖν.`

@@ -1,1 +1,0 @@
-lar[9342]=`<b>ἀ·νόστιμος, ος, ον :<br>      1</b> qui ne peut revenir, OD. <i>4, 182</i>.<br><b>      2</b> d’où l’on ne revient pas, EUR. <i>H.f. 431</i>.<br><b>      3</b> qui ne rapporte rien, stérile, TH. <i>C.P. 3, 211 au</i> <i>• Sup</i>. -ώτατος.<p><b>Étym</b>. ἀ, νόστος.`

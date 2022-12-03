@@ -1,1 +1,0 @@
-lar[27785]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> Drakanon, <i>v. et promont. de l’île Icarie,</i> THCR. <i>Idyl. 26, 33</i> ; POÈT. (DS. <i>3, 65</i>).`

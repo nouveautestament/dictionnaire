@@ -1,1 +1,0 @@
-lar[42057]=`<b>ης, ες</b>, qui pousse bien, DIOSC. <i>1, 13</i>.<p><b>Étym</b>. εὐερνής, -ωδης.`

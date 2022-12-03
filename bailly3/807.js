@@ -1,1 +1,0 @@
-lar[807]=`<b>ἄ·γνωτος, ος, ον</b>, inconnu de, <i>dat</i>. SOPH. <i>O.R. 58</i> ; AR. <i>Ran. 926</i>.<p><b>Étym</b>. ἀ, γιγνώσκω.`

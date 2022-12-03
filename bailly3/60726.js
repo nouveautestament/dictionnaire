@@ -1,1 +1,0 @@
-lar[60726]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> ladanum, <i>gomme aromatique de l’Orient,</i> HDT. <i>3, 112</i> ; GAL. <i>2, 160</i>.<p><b>Étym</b>. <i>cf</i>. λάδανον.`

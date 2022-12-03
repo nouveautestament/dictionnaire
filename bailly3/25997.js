@@ -1,1 +1,0 @@
-lar[25997]=`<b>ου (τὸ)</b> <font color="purple">[δῐ]</font> indication, enseignement, HPC. <i>Acut. 390</i>.<p><b>Étym</b>. διδάσκω.`

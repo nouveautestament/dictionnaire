@@ -1,1 +1,0 @@
-lar[46213]=`<font color="purple">[θᾰ]</font> célébrer une fête, un banquet, PLUT. <i>M. 712f, 746e ; avec un acc</i>. θ. ἑορτήν, POLYEN <i>4, 15,</i> chômer une fête.<p><b>Étym</b>. θαλία.`

@@ -1,1 +1,0 @@
-lar[86275]=`<b>προσ·παραμυθητέον</b> <font color="purple">[ῡ]</font> il faut en outre exhorter <i>ou</i> conseiller, PTOL. <i>de Jud. fac. p. 7</i>.<p><b>Étym</b>. π. <i>vb. de</i> παραμυθέομαι.`

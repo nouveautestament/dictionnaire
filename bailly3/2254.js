@@ -1,1 +1,0 @@
-lar[2254]=`<b>ου (ὁ)</b> Ægilos :<br><b>      1</b> <i>héros du dème Ægilia,</i> PHILÉM. GR. (ATH. <i>652e</i>).<br><b>      2</b> <i>autre n. de ce dème,</i> THCR. <i>Idyl. 1, 147</i>.<br><b>      3</b> Αἰγίλου ἄκρα (ἡ) le promont. d’Ægilos, <i>dans le Péloponnèse,</i> LYC. <i>108</i>.<p>➳ <i>Gén. dor</i>. Αἰγίλω, THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. <i>cf</i>. Αἰγιλιά.`

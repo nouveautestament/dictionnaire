@@ -1,1 +1,0 @@
-lar[71869]=`<b>ὀνειρο·δότις, ιδος</b>, <i>adj. f</i>. qui donne des rêves, Anon. <i>de vir. herb. 42</i>.<p><b>Étym</b>. ὄν. δίδωμι.`

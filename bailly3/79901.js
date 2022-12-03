@@ -1,1 +1,0 @@
-lar[79901]=`<b>πετρό·κοιτος, ος, ον</b>, qui vit (<i>propr</i>. qui couche) au milieu des rochers, ANTH. <i>15, 27</i>.<p><b>Étym</b>. πέτρα, κοίτη.`

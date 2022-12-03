@@ -1,1 +1,0 @@
-lar[74268]=`<b>ου (τὸ)</b> jeune fille, MÉN. <i>4, 169 Meineke</i> ; LUC. <i>D. mort. 27, 7, etc</i>.<p><b>Étym</b>. <i>dim. de</i> παιδίσκη.`

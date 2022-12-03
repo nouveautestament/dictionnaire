@@ -1,1 +1,0 @@
-lar[5376]=`<b>Ἀμβρόσιαι πέτραι (αἱ)</b> les Roches divines, <i>n. de deux roches marines flottantes,</i> NONN. <i>D. 40, 469</i>.`

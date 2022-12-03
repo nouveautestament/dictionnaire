@@ -1,1 +1,0 @@
-lar[93679]=`<b>συη·βόλος, ος, ον</b>, qui frappe les sangliers de ses traits, OPP. <i>C. 2, 27</i>.<p><b>Étym</b>. σῦς, βάλλω.`

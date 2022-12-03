@@ -1,1 +1,0 @@
-lar[44245]=`<b>ή, όν :<br>      1</b> hostile à, <i>dat</i>. SOPH. <i>Aj. 932</i>.<br><b>      2</b> odieux à, <i>dat</i>. SOPH. <i>Ph. 1136</i> ; PLAT. <i>Leg. 810d ;</i> ὄμμασιν, A.RH. <i>4, 1670,</i> à la vue.<p>➳ En prose <i>seul</i>. PLAT. <i>l. c</i>.<p><b>Étym</b>. ἔχθος, <i>suff</i>. -δοπος, <i>cf</i>. ἀλλοδαπός.`

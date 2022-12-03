@@ -1,1 +1,0 @@
-lar[34853]=`<b>ἐν·ορκίζω</b>, affirmer par serment : τινὰ τὸν Κύριον, <i>avec une prop. inf</i>. NT. <i>1Thess. 5, 27,</i> affirmer par serment à qqn, au nom du Seigneur, que, <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[12583]=`<b>ἀπο·κλάω-ῶ</b>, briser, AR. <i>fr. 163</i> ; EL. <i>V.H. 1, 34, etc. ; au pass</i>. THCR. <i>Idyl. 22, 14</i> ; PLUT. <i>Nic. 3</i> ; LUC. <i>Pisc. 48</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ANTH. <i>7, 506</i>.`

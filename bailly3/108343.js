@@ -1,1 +1,0 @@
-lar[108343]=`<b>χηλόω-ῶ</b>, fendre en forme de pince, rendre fourchu, PHIL. BYZ. <i>Bel. 77</i> ; HÉRON <i>Bel. 141</i>.<p><b>Étym</b>. χηλή.`

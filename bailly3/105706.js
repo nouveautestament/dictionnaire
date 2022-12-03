@@ -1,1 +1,0 @@
-lar[105706]=`<b>φιλο·βούπαις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui aime les grands garçons, ANTH. <i>12, 255</i>.`

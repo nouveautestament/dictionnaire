@@ -1,1 +1,0 @@
-lar[40660]=`<b>ἐρνεσί·πεπλος, ος, ον</b>, revêtu de jeunes pousses, de jeunes branches, ORPH. <i>H. 29, 5</i>.<p><b>Étym</b>. ἔρνος, πέπλος.`

@@ -1,1 +1,0 @@
-lar[72073]=`<b>ὀξύ·γλυκυς, εια, υ</b> <font color="purple">[ῠκ]</font> à la fois acide et doux, ESCHL. <i>fr. 328</i> ; ποτόν, HPC. <i>840h</i>, boisson faite de vinaigre et de miel ; τὸ ὀξύγλυκυ, HPC. <i>652, 23, etc. m. sign</i>.<p><b>Étym</b>. ὀ. γλυκύς.`

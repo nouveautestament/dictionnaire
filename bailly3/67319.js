@@ -1,1 +1,0 @@
-lar[67319]=`<b>μυρο·πισσό·κηρος, ου (ὁ)</b> <font color="purple">[ῠ]</font> essence composée d’huile parfumée, de poix et de cire, SOR. (GAL.).<p><b>Étym</b>. μύρον, πίσσα, κηρός.`

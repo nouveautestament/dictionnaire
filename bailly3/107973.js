@@ -1,1 +1,0 @@
-lar[107973]=`<b>ή, όν</b>, joyeux, PROCL. <i>Ptol. 274</i>.<p><b>Étym</b>. χαρμονή.`

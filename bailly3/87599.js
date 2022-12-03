@@ -1,1 +1,0 @@
-lar[87599]=`<b>Πυθῶνά·δε</b> <font color="purple">[ῡᾰ]</font> <i>adv</i>., à Python, <i>avec mouv</i>. PD. <i>O. 9, 18</i>.<p><b>Étym</b>. Πυθών, -δε.`

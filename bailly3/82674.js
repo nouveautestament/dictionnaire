@@ -1,1 +1,0 @@
-lar[82674]=`<b>πονηρό·πολις, εως (ἡ)</b> ville des méchants, PLUT. <i>M. 520b, etc</i>.<p><b>Étym</b>. π. πόλις.`

@@ -1,1 +1,0 @@
-lar[7918]=`<b>(ὁ)</b> Anacharsis, <i>Scythe de famille royale</i>.<p>➳ <i>Voc</i>. -ι, LUC. <i>Anach. 6. Gén</i>. -ιος, HDT. <i>4, 46</i> ; PLAT. <i>Rsp. 600a, etc.</i> ; -εως, PLUT. <i>Sol. 5</i> ; -ιδος, DL. <i>1, 9. Dat</i>. -ι, HDT. <i>4, 76 ; ou</i> -ιδι, LUC. <i>Scyth. 3, 9, 10. Acc</i>. -ιν.`

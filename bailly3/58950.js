@@ -1,1 +1,0 @@
-lar[58950]=`<b>ή, όν</b> <font color="purple">[ῡᾰ]</font> qui concerne le Seigneur, le Christ ; <i>subst</i>. ἡ κυριακή (<i>s.-e</i>. ἡμέρα) NT. <i>Apoc. 1, 10,</i> le jour du Seigneur, le Dimanche.<p><b>Étym</b>. κύριος.`

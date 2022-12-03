@@ -1,1 +1,0 @@
-lar[95556]=`<b>συν·εορταστής, οῦ (ὁ)</b> qui célèbre une fête en commun, PLAT. <i>Leg. 653d</i>.<p><b>Étym</b>. συνεορτάζω.`

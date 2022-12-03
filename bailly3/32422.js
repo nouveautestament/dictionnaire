@@ -1,1 +1,0 @@
-lar[32422]=`<b>εως (ἡ)</b> sortie, départ, PLUT. <i>M. 903d</i>.<p><b>Étym</b>. ἐκχωρέω.`

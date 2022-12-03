@@ -1,1 +1,0 @@
-lar[74937]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> tout à fait juste, SOPH. <i>Tr. 294</i>.<p><b>Étym</b>. π. δίκη.`

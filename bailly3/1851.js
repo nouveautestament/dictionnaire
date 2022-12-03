@@ -1,1 +1,0 @@
-lar[1851]=`<b>ᾶνος</b>, <i>adj</i>. d’Azanie, <i>contrée d’Arcadie,</i> STR. <i>336, 388 ; au plur</i>. les Azanes, EUR. <i>Or. 1647</i>.<p>➳ <i>Ion</i>. Ἀζήν, ῆνος, HDT. <i>6, 127</i>.`

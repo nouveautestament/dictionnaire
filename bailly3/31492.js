@@ -1,1 +1,0 @@
-lar[31492]=`<b>εως (ἡ)</b> ornement, parure, DIOSC. <i>5, 109</i>.<p><b>Étym</b>. ἐκκοσμέω.`

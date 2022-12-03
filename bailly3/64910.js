@@ -1,1 +1,0 @@
-lar[64910]=`<b>μετα·πλώω</b>, changer de route en naviguant, OPP. <i>H. 3, 427</i>.`

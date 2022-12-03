@@ -1,1 +1,0 @@
-lar[90478]=`<b>ας (ἡ)</b> <font color="purple">[ῑᾰγ]</font> transport <i>ou</i> convoi de blé, LUC. <i>3, 257 Reitz</i> ; APP. <i>2, 95 Schweigh</i>.<p><b>Étym</b>. σιταγωγός.`

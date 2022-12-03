@@ -1,1 +1,0 @@
-lar[93415]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> rapiécetage, CLÉM. <i>852</i>.<p><b>Étym</b>. συγκαττύω.`

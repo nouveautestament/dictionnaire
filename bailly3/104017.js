@@ -1,1 +1,0 @@
-lar[104017]=`<b>ὑπο·τραχύνω</b> <font color="purple">[ᾱ]</font> blesser (l’oreille) par des sons rudes, DH. <i>Comp. 22</i>.`

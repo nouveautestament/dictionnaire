@@ -1,1 +1,0 @@
-lar[94311]=`<b>συμ·πολίτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> concitoyen, EUR. <i>Her. 826</i> ; EL. <i>V.H. 3, 24</i> ; NT. <i>Eph. 2, 19</i>.`

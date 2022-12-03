@@ -1,1 +1,0 @@
-lar[50858]=`<b>κακο·σπορία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[κᾰ]</font> mauvaise semence, ANTH. <i>7, 175</i>.<p><b>Étym</b>. κ. σπόρος.`

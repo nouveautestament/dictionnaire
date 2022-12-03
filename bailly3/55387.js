@@ -1,1 +1,0 @@
-lar[55387]=`<b>Κιγγώνιος, ου (ὁ)</b> = <i>lat</i>. Cingonius, <i>n. d’h. rom</i>. PLUT. <i>Galb. 14 et 15</i>.`

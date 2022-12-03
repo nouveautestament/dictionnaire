@@ -1,1 +1,0 @@
-lar[62901]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire de Marganes, <i>v. d’Asie Mineure,</i> XÉN. <i>Hell. 3, 2, 25, etc</i>.<p>➳ <i>Acc. pl</i>. Μαργανέας, XÉN. <i>Hell. 7, 4, 14 et 26 ; ou</i> Μαργανεῖς, XÉN. <i>Hell. 3, 2, 30 ; 6, 5, 2</i>.`

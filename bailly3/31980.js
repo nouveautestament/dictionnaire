@@ -1,1 +1,0 @@
-lar[31980]=`<b>ἔκ·πυρος, ος, ον</b> <font color="purple">[ῠ]</font> brûlant, ardent, enflammé, STR. <i>697 ; adv</i>. ἔκπυρα, ANTH. <i>5, 82,</i> chaudement.<p>•<i> Cp</i>. -ώτερος, TH. <i>C.P. 2, 19, 4</i>.<p><b>Étym</b>. ἐκ, πῦρ.`

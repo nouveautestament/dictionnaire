@@ -1,1 +1,0 @@
-lar[75723]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> audace excessive, témérité, THC. <i>5, 100</i>.<p><b>Étym</b>. παρακινδυνεύω.`

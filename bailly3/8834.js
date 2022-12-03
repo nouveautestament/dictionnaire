@@ -1,1 +1,0 @@
-lar[8834]=`<b>ἀνθ·ησυχάζω</b> <font color="purple">[ῠ]</font> se tenir tranquille à son tour, APP. <i>Civ. 2, 93</i>.<p><b>Étym</b>. ἀντί, ἡ.`

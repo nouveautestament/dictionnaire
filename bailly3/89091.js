@@ -1,1 +1,0 @@
-lar[89091]=`<b>ης (ἡ)</b> <font color="purple">[μᾰ]</font> <i>sorte d’étoffe indienne,</i> M. RUBR. <i>p. 5</i>.`

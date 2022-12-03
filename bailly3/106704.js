@@ -1,1 +1,0 @@
-lar[106704]=`<b>ωνος (ὁ)</b> Phormion, <i>h</i>. THC. <i>1, 64, etc.</i> ; AR. <i>Eq. 562, etc.</i> ; ISOCR. <i>Or. 16, 29 Baiter-Sauppe, etc</i>.`

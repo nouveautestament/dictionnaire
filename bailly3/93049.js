@@ -1,1 +1,0 @@
-lar[93049]=`<i>(seul. prés</i>. ARSTD. <i>14, 216</i> ; GEOP. <i>19, 2 ; et impf</i>. ἐστρώννυον, NT. <i>Matth. 21, 8) c</i>. στρώννυμι.`

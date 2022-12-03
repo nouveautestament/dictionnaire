@@ -1,1 +1,0 @@
-lar[21675]=`<b>ός, όν</b>, qui engendre, qui crée, SPT. <i>Sap. 13, 5, etc. ; subst</i>. ὁ γ. auteur de l’existence, créateur, STOB. <i>Ecl. 2, 962</i> ; JAMBL. <i>V. Pyth. § 228, etc</i>.<p><b>Étym</b>. γένεσις, ἔργον.`

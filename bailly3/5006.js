@@ -1,1 +1,0 @@
-lar[5006]=`<b>ά, όν</b> (<i>seul. cp</i>. -ότερος) <font color="purple">[ᾰυ]</font> tiède, NIC. <i>Al. 386</i>.`

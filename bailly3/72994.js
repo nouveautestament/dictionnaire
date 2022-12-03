@@ -1,1 +1,0 @@
-lar[72994]=`<b>ου (ὁ)</b> Orœdos, roi des <i>Parauæes,</i> THC. <i>2, 80</i>.`

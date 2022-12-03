@@ -1,1 +1,0 @@
-lar[94402]=`<b>συμ·πωρόω-ῶ</b>, rendre calleux, <i>d’où au pass</i>. devenir calleux, HPC. <i>539, 45</i>.`

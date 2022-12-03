@@ -1,1 +1,0 @@
-lar[108308]=`<b>ιος (ὁ)</b> Khersis :<br><b>      1</b> <i>roi de Chypre,</i> HDT. <i>5, 104</i>.<br><b>      2</b> <i>autre,</i> HDT. <i>7, 98 ; 8, 11</i>.`

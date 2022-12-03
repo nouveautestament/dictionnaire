@@ -1,1 +1,0 @@
-lar[97791]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> habitant de Tauroménium, PLUT. <i>Tim. 11, etc</i>.<p><b>Étym</b>. <i>v</i>. Ταυρομένιον.`

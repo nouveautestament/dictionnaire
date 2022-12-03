@@ -1,1 +1,0 @@
-lar[41602]=`<b>εὐανθέω-ῶ :<br>      1</b> avoir de belles fleurs, être fleuri, LUC. <i>V.H. 2, 6</i>.<br><b>      2</b> <i>fig</i>. avoir une croissance excessive, HPC. <i>565, 42 ; 653, 29</i>.<p><b>Étym</b>. εὐανθής.`

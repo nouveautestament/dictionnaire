@@ -1,1 +1,0 @@
-lar[5485]=`<b>ἀ·μετάδοτος, ος, ον</b>, qui ne partage pas avec autrui, BAS. <i>3, 208</i>.<p><b>Étym</b>. ἀ, μεταδίδωμι.`

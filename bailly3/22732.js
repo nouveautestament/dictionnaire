@@ -1,1 +1,0 @@
-lar[22732]=`<b>ου</b> <i>ou</i> <b>γυλιός, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> sac long et étroit où les soldats serraient certaines provisions de bouche, AR. <i>Pax 527, Ach. 1097</i> ; COM. (ATH. <i>231a, 473d, 483b</i>).`

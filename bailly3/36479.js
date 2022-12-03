@@ -1,1 +1,0 @@
-lar[36479]=`<b>ος</b> <i>ou</i> <b>α, ον</b>, qui se trouve <i>ou</i> qui réside au bord de la mer, SOPH. <i>Aj. 413, Tr. 1151</i> ; EUR. <i>Andr. 853</i> ; A.RH. <i>2, 178, etc</i>.<p>➳ <i>Fém</i>. -ία, SOPH. <i>Tr. 1151 ; fr. 493</i> ; EUR. <i>Andr. 853</i> ; LYC. <i>118</i>.<p><b>Étym</b>. ἐπί, ἀκτή.`

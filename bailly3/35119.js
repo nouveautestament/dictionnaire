@@ -1,1 +1,0 @@
-lar[35119]=`<b>ή, όν :<br>      1</b> propre à faire rentrer en soi-même, à rendre honteux, à faire rougir, EL. <i>N.A. 3, 1</i>.<br><b>      2</b> qui rentre en soi-même, timide, craintif, ARR. <i>Epict. 1, 5, 3</i> ; MOSCHION <i>Mul. pass. 144, p. 92</i>.<p><b>Étym</b>. ἐντρέπω.`

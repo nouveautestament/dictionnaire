@@ -1,1 +1,0 @@
-lar[87502]=`<b>ῆς (ἡ)</b> <font color="purple">[ῡ]</font> fesse, AR. <i>Eq. 365, etc. ; au pl</i>. derrière, LUC. <i>Per. 17</i>.<p><b>Étym</b>. <i>cf</i>. *πύξ².`

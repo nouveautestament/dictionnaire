@@ -1,1 +1,0 @@
-lar[57430]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Curio, Curion, <i>n. d’h. rom</i>. PLUT. <i>Syll. 14, Pomp. 58, etc</i>.`

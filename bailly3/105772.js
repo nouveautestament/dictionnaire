@@ -1,1 +1,0 @@
-lar[105772]=`<b>φιλό·δωρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à donner, <i>gén</i>. PLAT. <i>Conv. 197d ; abs</i>. généreux, libéral, XÉN. <i>Mem. 3, 1, 6 ; en parl. de choses,</i> DÉM. <i>264, 5</i> ; τὸ φιλόδωρον, PLUT. <i>Ant. 43,</i> la générosité, la munificence.<p>•<i> Sup</i>. -ότατος, SYN. <i>239b</i>.<p><b>Étym</b>. φ. δῶρον.`

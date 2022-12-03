@@ -1,1 +1,0 @@
-lar[25708]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> urgent, POL. <i>Fr. gr. 38</i>.<p><b>Étym</b>. *διατατός, <i>vb. de</i> διατείνω.`

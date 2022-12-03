@@ -1,1 +1,0 @@
-lar[37774]=`<b>ἐπι·θαμβέω-ῶ</b>, s’étonner, admirer, NONN. <i>Jo. 7, 15</i>.`

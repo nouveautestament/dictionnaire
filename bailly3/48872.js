@@ -1,1 +1,0 @@
-lar[48872]=`<b>ἱλαρόω-ῶ</b> <font color="purple">[ῐᾰ]</font> réjouir, égayer, SPT. <i>Sir. 7, 24 ; 32, 11 ; 43, 22</i>.<p><b>Étym</b>. ἱλαρός.`

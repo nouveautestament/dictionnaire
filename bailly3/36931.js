@@ -1,1 +1,0 @@
-lar[36931]=`<b>ἐπ·εγχυματίζω</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> verser ensuite dans, HIPPIATR. <i>p. 74, 19</i>.<br><b>      2</b> verser ensuite par-dessus, DIOSC. <i>5, 237</i>.<p><b>Étym</b>. ἐπί, ἔγχυμα.`

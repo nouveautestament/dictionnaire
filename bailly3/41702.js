@@ -1,1 +1,0 @@
-lar[41702]=`<b>εὔ·βλητος, ος, ον</b>, exposé aux traits, APP. <i>Civ. 2, 79 ; Syr. 35</i>.<p><b>Étym</b>. εὖ, βάλλω.`

@@ -1,1 +1,0 @@
-lar[76741]=`<b>παρ·εξηγέομαι-οῦμαι</b>, mal interpréter, CELS. (ORIG. <i>1, 1077 Migne</i>) etc.`

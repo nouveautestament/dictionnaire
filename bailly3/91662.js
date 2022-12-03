@@ -1,1 +1,0 @@
-lar[91662]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> sophistique, captieux, ARSTT. <i>Top. 8, 3, 1</i>.<p><b>Étym</b>. σόφισμα, -ωδης.`

@@ -1,1 +1,0 @@
-lar[37776]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., ἐ. ἔχειν, EL. <i>V.H. 13, 27,</i> être sur le point de mourir.`

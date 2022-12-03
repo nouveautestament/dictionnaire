@@ -1,1 +1,0 @@
-lar[43833]=`<b>εὔ·χυλος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> dont le suc est abondant, TH. <i>C.P. 6, 11, 15</i>.<br><b>      2</b> d’une saveur exquise, DIPH. SIPHN. <i>et</i> HICÉS. (ATH. <i>62c, 282d</i>).<p><b>Étym</b>. εὖ, χυλός.`

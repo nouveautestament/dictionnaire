@@ -1,1 +1,0 @@
-lar[14028]=`<b>ἀ·πτολέμιστος, ος, ον</b>, impropre à la guerre, non belliqueux, ORACL. (ATH. <i>524b</i>).<p><b>Étym</b>. ἀ, πτολεμίζω.`

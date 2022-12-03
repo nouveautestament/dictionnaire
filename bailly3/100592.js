@@ -1,1 +1,0 @@
-lar[100592]=`<b>ας (ἡ)</b> <font color="purple">[ῐῡ]</font> la Triphylie, <i>partie S. de l’Élide,</i> DÉM. <i>Or. 11, 16 Baiter-Sauppe</i>.<p><b>Étym</b>. τρίφυλος.`

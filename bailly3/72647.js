@@ -1,1 +1,0 @@
-lar[72647]=`<b>ὀρεσσί·χυτος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui s’épanche des montagnes, NONN. <i>D. 20, 337</i>.<p><b>Étym</b>. ὄρος, χέω.`

@@ -1,1 +1,0 @@
-lar[51638]=`<b>καπνο·βάτης, ου (ὁ)</b> <font color="purple">[βᾰ]</font> qui marche dans la fumée, <i>mot comique,</i> STR. <i>296</i>.<p><b>Étym</b>. καπνός, βαίνω.`

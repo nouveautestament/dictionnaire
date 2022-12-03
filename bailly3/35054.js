@@ -1,1 +1,0 @@
-lar[35054]=`<b>ας (ἡ)</b> <i>synon. comiq. de</i> τὰ ἐγκοίλια, intérieur d’un vaisseau, cale, <i>lat</i>. interamenta, AR. <i>Eq. 1185</i>.<p><b>Étym</b>. ἔντερον.`

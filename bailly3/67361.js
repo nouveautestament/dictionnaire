@@ -1,1 +1,0 @@
-lar[67361]=`<b>ου (ὁ)</b> corbeille à deux anses, POÈT. (EM. <i>595, 34</i>).`

@@ -1,1 +1,0 @@
-lar[102042]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> traitement par des fumigations, fumigation, DIOSC. <i>3, 26</i>.<p><b>Étym</b>. ὑπατμίζω.`

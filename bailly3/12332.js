@@ -1,1 +1,0 @@
-lar[12332]=`<b>έως (ὁ)</b> receveur, percepteur, JOS. <i>A.J. 16, 6, 2</i> ; THÉM. <i>192c</i>.<p><b>Étym</b>. ἀποδέχομαι.`

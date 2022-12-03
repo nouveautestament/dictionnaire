@@ -1,1 +1,0 @@
-lar[29654]=`<b>ἐγ·κίρνημι :<br>      1</b> mêler : ἐγκιρνᾶντι (<i>dor</i>.) τινί τι, LYSIS (JAMBL. <i>V. Pyth. c. 17</i>) ils mêlent une chose à une autre.<br><b>      2</b> mêler dans, PD. <i>N. 9, 70 (impér. prés. 3 sg</i>. ἐγκιρνάτω).<p><b>Étym</b>. ἐν, κ.`

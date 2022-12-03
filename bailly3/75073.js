@@ -1,1 +1,0 @@
-lar[75073]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> <i>dim. de</i> Πάν, CLÉM. <i>53</i>.`

@@ -1,1 +1,0 @@
-lar[51762]=`<b>ου (τὸ)</b> couvercle de huche ; <i>p. anal</i>. muselière qu’on mettait aux esclaves qui faisaient le pain, AR. <i>fr. 286 ; cf</i>. παυσικάπη.<p><b>Étym</b>. κάρδοπος.`

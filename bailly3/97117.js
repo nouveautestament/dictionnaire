@@ -1,1 +1,0 @@
-lar[97117]=`<b>οῦ (ὁ)</b> oisif, désœuvré, PLUT. <i>Brut. 3 ; M. 57c ;</i> ANTIPAT. (STOB. <i>Fl. 67, 25, p. 419</i>) ; SPT. <i>Ex. 5, 17 ; adj.</i> : σχ. βίος, PLUT. <i>Cic. 3, M. 135b</i>, vie oisive.<p><b>Étym</b>. σχολάζω.`

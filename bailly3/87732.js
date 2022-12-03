@@ -1,1 +1,0 @@
-lar[87732]=`<b>ου</b> <i>ou</i> <b>πυός, οῦ (ὁ)</b> <font color="purple">[ῡ]</font> premier lait après l’accouchement, colostrum, AR. <i>Vesp. 710, Pax 1150, etc.</i> ; PHÉRÉCR. (<i>Com. fr. 2, 300).</i><p><b>Étym</b>. <i>cf</i>. πύον <i>ou</i> πῦον.`

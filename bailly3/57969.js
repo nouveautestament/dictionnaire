@@ -1,1 +1,0 @@
-lar[57969]=`<b>ωνος (ὁ)</b> Krisôn, <i>h</i>. PLAT. <i>Prot. 335e, etc</i>.`

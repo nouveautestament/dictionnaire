@@ -1,1 +1,0 @@
-lar[15242]=`<i>ou</i> <b>Ἀρταβάτης (ὁ)</b> Artabatas <i>ou</i> Artabatès, <i>Perse,</i> HDT. <i>7, 65</i> (-της) ; XÉN. <i>Cyr. 8, 3, 18 ; 8, 6, 7</i> (-τας).`

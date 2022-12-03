@@ -1,1 +1,0 @@
-lar[108577]=`<b>εως (ἡ)</b> ornementation, PLUT. <i>M. 145a au plur. (var</i>. χλίδωσιν).<p><b>Étym</b>. χλιδάω.`

@@ -1,1 +1,0 @@
-lar[99288]=`<b>ορος (ὁ)</b> <font color="purple">[ῐ]</font> qui secoue, qui ébranle, <i>gén</i>. SOPH. <i>Tr. 502</i>.<p><b>Étym</b>. τινάσσω.`

@@ -1,1 +1,0 @@
-lar[96942]=`<b>ή, όν</b>, qui concerne le mouvement du pouls, NÉMÉS. <i>N.H. 24, 26 ; subst</i>. τὸ σφ. NÉMÉS. <i>N.H. 22,</i> mouvement du pouls.<p><b>Étym</b>. σφυγμός.`

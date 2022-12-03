@@ -1,1 +1,0 @@
-lar[81639]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰσ]</font> qualité de multiple, <i>t. d’arithm</i>. JAMBL. <i>Nicom. ar. 52</i>.<p><b>Étym</b>. πολλαπλάσιος.`

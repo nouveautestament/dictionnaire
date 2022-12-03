@@ -1,1 +1,0 @@
-lar[35002]=`<b>ἐν·ταράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[τᾰ]</font><br><b>      1</b> troubler, bouleverser, <i>acc</i>. PHILSTR. <i>V. Ap. 3, 20</i>.<br><b>      2</b> secouer, <i>acc</i>. ARISTÉN. <i>2, 22</i>.`

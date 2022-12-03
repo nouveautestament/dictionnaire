@@ -1,1 +1,0 @@
-lar[4366]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> mouture, GEOP. <i>9, 19</i>.<p><b>Étym</b>. ἀλέω.`

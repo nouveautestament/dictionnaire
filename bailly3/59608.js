@@ -1,1 +1,0 @@
-lar[59608]=`<b>λακκ·οσχέας, ου</b>, <i>adj. m</i>. aux bourses flasques, LUC. <i>Lex. 12</i>.<p><b>Étym</b>. λάκκος, ὀσχέα.`

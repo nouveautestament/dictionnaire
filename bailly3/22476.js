@@ -1,1 +1,0 @@
-lar[22476]=`<b>ου (ὁ)</b> Gorgidas, <i>h</i>. PLUT. <i>Pel. 12, etc</i>.`

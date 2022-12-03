@@ -1,1 +1,0 @@
-lar[51184]=`<b>καλλί·πεπλος, ος, ον</b> <font color="purple">[ῐ]</font> au beau voile, PD. <i>P. 3, 43</i> ; EUR. <i>Tr. 338</i>.<p><b>Étym</b>. κ. πέπλος.`

@@ -1,1 +1,0 @@
-lar[37737]=`<b>ἐπι·ζέφυρος, ος, ον</b> <font color="purple">[ῠ]</font> situé au couchant, EUPH. <i>68</i>.`

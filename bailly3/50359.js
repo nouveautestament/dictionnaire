@@ -1,1 +1,0 @@
-lar[50359]=`<b>οῦ (ὁ)</b> action de sonder, sondage, P. ÉG. <i>6, 29</i>.<p><b>Étym</b>. καθετήρ.`

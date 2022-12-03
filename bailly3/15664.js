@@ -1,1 +1,0 @@
-lar[15664]=`<b>Ἀρχι·τέλης, ους</b>, <i>acc</i>. <b>ην (ὁ)</b> Arkhitélès, <i>h</i>. PLUT. <i>Them. 7</i> ; LUC. <i>Scyth. 2, etc</i>.<p><b>Étym</b>. ἄρχω, τέλος.`

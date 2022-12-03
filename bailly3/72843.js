@@ -1,1 +1,0 @@
-lar[72843]=`<b>ὁρκιητομέω-ῶ</b>, conclure un traité avec serment, TIMOCR. (PLUT. <i>Them. 21).</i><p><b>Étym</b>. ὁρκιητόμος.`

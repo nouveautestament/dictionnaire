@@ -1,1 +1,0 @@
-lar[75884]=`<b>οῦ (ὁ) :<br>      1</b> qui raisonne mal, qui trompe par de faux raisonnements, ARSTT. <i>Eud. 3, 4, 5</i> ; M. ANT. <i>6, 13</i>.<br><b>      2</b> trompeur, ARTÉM. <i>4, 57</i>.<p><b>Étym</b>. παραλογίζομαι.`

@@ -1,1 +1,0 @@
-lar[66420]=`<b>μολυβδό·χροος-ους, οος-ους, οον-ουν</b>, qui a la couleur du plomb, plombé, DIOSC. <i>5, 100</i>.<p><b>Étym</b>. μ. χρόα.`

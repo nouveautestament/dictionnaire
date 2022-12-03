@@ -1,1 +1,0 @@
-lar[55018]=`<b>εως (ἡ)</b> action d’injurier, injure, SOPH. <i>Ph. 1236</i>.<p><b>Étym</b>. κερτομέω.`

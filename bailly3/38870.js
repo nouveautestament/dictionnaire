@@ -1,1 +1,0 @@
-lar[38870]=`<b>ἐπι·ρράφω</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐπιρράπτω, NONN. <i>D. 9, 3</i>.`

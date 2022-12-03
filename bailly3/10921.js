@@ -1,1 +1,0 @@
-lar[10921]=`<b>ἀξιο·μακάριστος, ος, ον</b> <font color="purple">[μᾰᾰ]</font> (<i>seul</i>. <i>• Sup</i>. -ότατος) digne d’être regardé comme heureux, XÉN. <i>Ap. 34</i>.<p><b>Étym</b>. ἄ. μακαρίζω.`

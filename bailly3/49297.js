@@ -1,1 +1,0 @@
-lar[49297]=`<b>ἱππο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui va à cheval, cavalier, ESCHL. <i>Pers. 26</i>.<br><b>      2</b> étalon, HIPPIATR.<p><b>Étym</b>. ἵ. βαίνω.`

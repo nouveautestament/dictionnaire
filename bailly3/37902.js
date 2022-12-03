@@ -1,1 +1,0 @@
-lar[37902]=`<b>ἐπι·κάμπτω :<br>      1</b> courber, plier, HPC. <i>276, 35</i> ; ARSTT. <i>P.A. 3, 9, 8 ; t. de tact</i>. courber en fer à cheval, XÉN. <i>Cyr. 7, 1, 5, etc.</i><br><b>      2 <i>intr.</i></b> se courber, ARSTT. <i>H.A. 4, 4, 18</i>.`

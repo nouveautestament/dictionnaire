@@ -1,1 +1,0 @@
-lar[103284]=`<b>ίδος (ἡ)</b> <font color="purple">[θῠ]</font> sorte d’oiseau, AR. <i>Av. 304</i>.`

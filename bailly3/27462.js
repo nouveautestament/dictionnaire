@@ -1,1 +1,0 @@
-lar[27462]=`<i>gén</i>. <b>-αο (ὁ)</b> <font color="purple">[πῑ]</font> le fils de Dolopiôn, <i>càd</i>. Philoctète, EUPH. (STOB. <i>Fl. 59, 16).</i><p><b>Étym</b>. <i>patr. de</i> Δολοπίων.`

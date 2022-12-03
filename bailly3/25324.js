@@ -1,1 +1,0 @@
-lar[25324]=`<b>ας (ἡ)</b> <font color="purple">[λῑ]</font> divergence d’opinions entre deux partis politiques, CIC. <i>Att. 9, 4, 2</i> ; PLUT. <i>M. 510c</i>.`

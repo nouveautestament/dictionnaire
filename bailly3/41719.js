@@ -1,1 +1,0 @@
-lar[41719]=`<b>ας (ἡ) :<br>      1</b> bon pâturage, ARSTT. <i>H.A. 3, 21, 3</i>.<br><b>      2</b> abondance <i>ou</i> bonne qualité, <i>en gén</i>. ARSTT. <i>G.A. 1, 18, 59 ; 4, 6, 5</i> ; ANTH. <i>11, 199</i>.`

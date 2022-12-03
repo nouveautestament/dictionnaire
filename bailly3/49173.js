@@ -1,1 +1,0 @@
-lar[49173]=`se couvrir de duvet, TRIPHIOD. <i>53</i>.<p><b>Étym</b>. ἴουλος.`

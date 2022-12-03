@@ -1,1 +1,0 @@
-lar[74669]=`<b>υος (ὁ)</b> roi, HIPPON. <i>fr. 1 ; fr. 15</i> <font color="purple">[ῡ]</font> ; LYC. <i>691</i> <font color="purple">[ῠ]</font>.`

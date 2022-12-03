@@ -1,1 +1,0 @@
-lar[9921]=`<b>ἀντι·καταθνῄσκω</b> <font color="darkgreen">(<i>ao.2 inf. poét</i>. ἀντικατθανεῖν)</font> mourir à son tour (<i>v</i>. ἀντικατακτείνω).`

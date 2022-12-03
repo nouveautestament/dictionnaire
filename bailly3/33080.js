@@ -1,1 +1,0 @@
-lar[33080]=`<b>ἐμβασι·κοίτας, ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> sorte de coupe, ATH. <i>469a</i>.<p><b>Étym</b>. ἔμβασις, κοίτη.`

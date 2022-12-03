@@ -1,1 +1,0 @@
-lar[80319]=`<b>ής, ές</b> <font color="purple">[ῑ]</font> gras, LUC. <i>Tim. 15</i> ; BABR. <i>99, 1, etc</i>.<p>•<i> Cp</i>. -έστερος, LUC. <i>Conv. 43</i>.<p><b>Étym</b>. πιμελή.`

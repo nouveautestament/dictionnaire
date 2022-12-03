@@ -1,1 +1,0 @@
-lar[98362]=`<b>ης, ες</b>, couvert de térébinthes, ANTH. <i>9, 413</i>.<p><b>Étym</b>. τερέβινθος, -ωδης.`

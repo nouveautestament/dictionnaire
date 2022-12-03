@@ -1,1 +1,0 @@
-lar[98696]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφᾰ]</font> réunion de quatre phalanges, <i>càd</i>. de 16 384 hommes, POL. <i>12, 20, 7</i> ; EL. TACT. <i>40</i>.<p><b>Étym</b>. τ. φάλαγξ.`

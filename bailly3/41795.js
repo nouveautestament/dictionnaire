@@ -1,1 +1,0 @@
-lar[41795]=`<i>adv.</i> :<br><b>      1</b> avec de nobles sentiments, avec générosité, DS. <i>19, 9</i> ; LUC. <i>V.H. 1, 4</i>.<br><b>      2</b> avec prudence, XÉN. <i>Ages. 2, 25</i>.<p><b>Étym</b>. εὐγνώμων.`

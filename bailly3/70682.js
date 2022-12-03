@@ -1,1 +1,0 @@
-lar[70682]=`<b>ης (ἡ)</b> laine de brebis graisseuse, HDT. <i>4, 187</i>.`

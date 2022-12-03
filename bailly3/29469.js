@@ -1,1 +1,0 @@
-lar[29469]=`<i>adv</i>., en temps opportun, à propos, ARISTÉN. <i>1, 15</i> ; ARÉT. <i>Cur. m. diut. 1, 4</i>.`

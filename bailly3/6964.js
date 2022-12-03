@@ -1,1 +1,0 @@
-lar[6964]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> gargarisme, ATH. <i>187a</i>.`

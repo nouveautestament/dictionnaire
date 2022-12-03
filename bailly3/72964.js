@@ -1,1 +1,0 @@
-lar[72964]=`<b>ου (τὸ)</b> petit oiseau, <i>particul</i>. poussin, EL. <i>N.A. 4, 415, etc. (vulg</i>. ὀρνίφιον).<p><b>Étym</b>. ὄρνις.`

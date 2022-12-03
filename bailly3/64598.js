@@ -1,1 +1,0 @@
-lar[64598]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> qui ressemble à une nèfle <i>ou</i> à un néflier, TH. <i>H.P. 3, 15, 6</i>.<p><b>Étym</b>. μεσπίλη, -ωδης.`

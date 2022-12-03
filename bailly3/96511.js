@@ -1,1 +1,0 @@
-lar[96511]=`<b>συριγγό·φωνος, ος, ον</b> <font color="purple">[ῡ]</font> qui résonne comme une flûte champêtre, CÆSAR. <i>Quæst. 78</i>.<p><b>Étym</b>. σ. φωνή.`

@@ -1,1 +1,0 @@
-lar[85572]=`<b>προσ·εμπίπτω</b> <font color="darkgreen">(<i>ao.2</i> -ενέπεσον, <i>etc</i>.)</font> tomber sur <i>ou</i> contre, <i>dat</i>. ARSTD. <i>t. 1, 544</i>.`

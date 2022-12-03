@@ -1,1 +1,0 @@
-lar[83285]=`<b>(ὁ)</b> <font color="purple">[ᾱᾰῐᾱ]</font> Pratalidas, <i>h</i>. ANTH. <i>7, 448, 449</i>.`

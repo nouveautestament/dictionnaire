@@ -1,1 +1,0 @@
-lar[45790]=`<b>έως (ὁ)</b> d’Hèræa : οἱ Ἡραιῆς, THC. <i>5, 67 ; ou</i> οἱ Ἡραιεῖς, XÉN. <i>Hell. 6, 5, 11,</i> les habitants d’Hèræa.<p><b>Étym</b>. Ἡραία.`

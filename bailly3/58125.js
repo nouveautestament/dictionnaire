@@ -1,1 +1,0 @@
-lar[58125]=`<b>κρουπεζο·φόρος, ου (ὁ, ἡ)</b> qui porte des sabots <i>ou</i> sandales de bois, CRAT. (<i>Com. fr. 2, 225).</i><p><b>Étym</b>. κρούπεζαι, φέρω.`

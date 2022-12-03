@@ -1,1 +1,0 @@
-lar[90673]=`<font color="purple">[δᾰ]</font> cligner de l’œil, EUR. <i>Cycl. 626</i> ; HPC. <i>Coac. 128, 555, 54</i> ; XÉN. <i>Cyr. 1, 4, 28 ; Conv. 4, 24, etc. ; en parl. des yeux eux-mêmes,</i> ARSTT. <i>Physiogn. 3, 2 et 6</i>.<p>➳ <i>Att</i>. σκαρδαμύττω, ARSTT. <i>ll. cc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

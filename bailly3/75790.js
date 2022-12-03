@@ -1,1 +1,0 @@
-lar[75790]=`<b>παρα·κορέω-ῶ</b>, balayer, PHILYLL. <i>et</i> PLAT. COM. (ATH. <i>408e, 665b</i>).`

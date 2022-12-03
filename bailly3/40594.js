@@ -1,1 +1,0 @@
-lar[40594]=`<b>οῦ (ὁ)</b> interprète, PLAT. <i>Pol. 290c</i>.<p><b>Étym</b>. ἑρμηνεύω.`

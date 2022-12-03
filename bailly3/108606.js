@@ -1,1 +1,0 @@
-lar[108606]=`<b>χλόος-οῦς, όου-οῦ (ὁ)</b> couleur d’un vert tendre <i>ou</i> jaunâtre, NIC. <i>Al. 583, 592</i> ; A.RH. <i>2, 1216 ; 3, 298</i>.<p><b>Étym</b>. χλόη.`

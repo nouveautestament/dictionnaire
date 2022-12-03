@@ -1,1 +1,0 @@
-lar[12213]=`<b>ος, ον</b> <font color="purple">[ᾰφ]</font> transcrit, copié, DH. <i>Is. 11</i> ; DL. <i>6, 84</i> ; τὸ ἀπόγραφον, CIC. <i>Att. 12, 52, 3,</i> copie.`

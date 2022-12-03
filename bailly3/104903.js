@@ -1,1 +1,0 @@
-lar[104903]=`<b>ίδος</b> <font color="purple">[μᾰ]</font> <i>adj. f.</i> :<br><b>      1</b> qui manie du poison, <i>d’où subst</i>. magicienne, sorcière, AR. <i>Nub. 749</i> ; DÉM. <i>793, 27</i> ; ARSTT. <i>H.A. 6, 22, 8</i> ; LUC. <i>D. deor. 20, 10 ; Bis acc. 21 ; D. mer. 1, 2 ; 4, 4, etc.</i><br><b>      2</b> venimeuse, NIC. <i>Al. 551</i>.<p><b>Étym</b>. φάρμακον.`

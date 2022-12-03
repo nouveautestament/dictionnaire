@@ -1,1 +1,0 @@
-lar[14139]=`<b>ίδος (ἡ) :<br>      1</b> sorte de tasse, <i>mot éol</i>. ATH. <i>502b.</i><br><b>      2</b> <i>au pl. c</i>. ἄρακος, TH.`

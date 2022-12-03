@@ -1,1 +1,0 @@
-lar[24871]=`<b>εως (ἡ) :<br>      1</b> action de repousser, <i>d’où</i> prorogation, remise (d’un procès) DÉM. <i>1265, 14</i>.<br><b>      2</b> action de se soustraire à, d’échapper à (un danger) PLUT. <i>Cor. 19</i>.<p><b>Étym</b>. διακρούω.`

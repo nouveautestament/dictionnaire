@@ -1,1 +1,0 @@
-lar[101005]=`<b>ατος (τὸ) :<br>      1</b> tombeau, sépulture, SOPH. <i>Ant. 1220</i>.<br><b>      2</b> corps enseveli <i>ou</i> à ensevelir, EUR. <i>Ion 933</i>.<p><b>Étym</b>. τυμβεύω.`

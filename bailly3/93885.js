@@ -1,1 +1,0 @@
-lar[93885]=`<b>εως (ἡ)</b> action de conseiller, conseil, PLAT. <i>Def. 413c</i>.<p><b>Étym</b>. συμβουλεύω.`

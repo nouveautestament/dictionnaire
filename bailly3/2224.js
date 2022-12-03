@@ -1,1 +1,0 @@
-lar[2224]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> bord de la mer, rivage, grève, IL. <i>4, 422</i> ; OD. <i>22, 385</i> ; THC. <i>1, 7</i> ; XÉN. <i>An. 6, 4, 4 ; distingué de</i> ἀκτή, ARSTT. <i>H.A. 5, 15, 6</i>.<p><b>Étym</b>. αἶγες, vagues, <i>v</i>. αἴξ II, 4, <i>et</i> ἅλς.`

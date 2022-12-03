@@ -1,1 +1,0 @@
-lar[76745]=`<b>παρ·εξισάζω</b> <font color="purple">[ῐ]</font> égaliser, CHRYS.`

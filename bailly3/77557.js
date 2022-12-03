@@ -1,1 +1,0 @@
-lar[77557]=`<b>πεδο·στρεφής, ής, ές</b>, qui se nourrit des fruits de la terre, NONN. <i>Jo. 4, 12</i>.<p><b>Étym</b>. π. στρέφω.`

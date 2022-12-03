@@ -1,1 +1,0 @@
-lar[4413]=`<b>ου (ὁ)</b> <font color="purple">[ᾰλ]</font> Haliartos (<i>auj</i>. Alíartos) <i>v. de Béotie,</i> IL. <i>2, 503</i> ; XÉN. <i>Hell. 3, 5, 17, etc</i>.<p>➳ ἡ Ἁ. NONN. <i>D. 13, 73, etc</i>.`

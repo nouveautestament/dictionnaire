@@ -1,1 +1,0 @@
-lar[13846]=`<b>εως (ἡ)</b> <font color="purple">[ψῑ]</font> action de dénuder, TH. <i>C.P. 5, 9, 11</i>.<p><b>Étym</b>. ἀποψιλόω.`

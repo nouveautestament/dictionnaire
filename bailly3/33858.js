@@ -1,1 +1,0 @@
-lar[33858]=`<b>Ἔν·αλος, ου (ὁ)</b> Énalos :<br><b>      1</b> <i>fondateur de Lesbos,</i> MYRT. (PLUT. <i>Sol. an. 36), etc.</i><br><b>      2</b> <i>rocher sacré à Lesbos,</i> PLUT. <i>Sept. sap. conv. 20</i>.<p><b>Étym</b>. <i>cf</i>. ἔναλος.`

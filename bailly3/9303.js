@@ -1,1 +1,0 @@
-lar[9303]=`<b>ἀν·όργανος, ος, ον</b> <font color="purple">[γᾰ]</font><br><b>      1</b> sans organes, PLUT. <i>M. 381a.</i><br><b>      2</b> <i>p. suite,</i> qui ne se sert pas de ses organes, qui n’a pas de besoins matériels, PLUT. <i>Per. 16</i> ; PORPH. <i>Abst. 1, 6</i>.<p><b>Étym</b>. ἀν-, ὄργανον.`

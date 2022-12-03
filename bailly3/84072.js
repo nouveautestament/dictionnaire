@@ -1,1 +1,0 @@
-lar[84072]=`<b>προ·εκθέω :<br>      1</b> s’élancer en avant, THC. <i>7, 30</i> ; ARR. <i>An. 1, 1, 12, etc.</i><br><b>      2</b> <i>fig</i>. devancer : λογισμοῦ, PLUT. <i>M. 446e</i>, un raisonnement ; <i>abs</i>. EL. <i>N.A. 13, 11</i>.`

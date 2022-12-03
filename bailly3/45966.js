@@ -1,1 +1,0 @@
-lar[45966]=`<i>vb. de</i> ἡσσάω, SOPH. <i>Ant. 678 ; cf</i>. AR. <i>Lys. 450</i>.`

@@ -1,1 +1,0 @@
-lar[40334]=`<b>ἐρευθιάω-ῶ</b> (<i>seul. prés</i>.) :<br><b>      1</b> devenir rouge, rougir, HPC. <i>638, 51</i>.<br><b>      2</b> être rouge, OPP. <i>H. 3, 25</i>.<p><b>Étym</b>. ἐρεύθω.`

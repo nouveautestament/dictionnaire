@@ -1,1 +1,0 @@
-lar[62754]=`<b>ης (ἡ)</b> Mandane, <i>fille d’Astyage, mère de Cyrus,</i> HDT. <i>1, 107, etc.</i> ; XÉN. <i>Cyr. 1, 2, 1</i>.`

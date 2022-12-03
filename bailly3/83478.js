@@ -1,1 +1,0 @@
-lar[83478]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> prédiction, CHION <i>Epist. 4</i>.<p><b>Étym</b>. προαγορεύω.`

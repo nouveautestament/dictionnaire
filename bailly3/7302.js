@@ -1,1 +1,0 @@
-lar[7302]=`<b>Ἀναξι·μένης, ους</b>, <i>acc</i>. <b>-ην (ὁ)</b> Anaximénès (Anaximène) <i>philosophe,</i> ARSTT. <i>Meteor. 2, 7, etc</i>.<p>➳ <i>Acc</i>. -η, SEXT. <i>M. 4, 313</i>.<p><b>Étym</b>. ἄναξ, μένος.`

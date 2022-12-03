@@ -1,1 +1,0 @@
-lar[58229]=`<i>inf. ao.2 moy. poét. de</i> κτῆμι.`

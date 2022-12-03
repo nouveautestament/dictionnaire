@@ -1,1 +1,0 @@
-lar[42652]=`<b>εὐ·μέθυστος, ος, ον</b>, qui s’enivre facilement, GEOP. <i>7, 342</i>.<p><b>Étym</b>. εὖ, μεθύω.`

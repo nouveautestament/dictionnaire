@@ -1,1 +1,0 @@
-lar[34666]=`<b>ἐν·ίσχω</b> (<i>seul. prés</i>.) arrêter, <i>au pass</i>. être arrêté, entravé, HDT. <i>4, 43</i> ; τινί, A.RH. <i>1, 11, ou</i> ἔν τινι, XÉN. <i>An. 7, 4, 17,</i> par qqe ch.<br><b><i>Moy.</i></b> contenir, modérer : τὴν φωνήν, PLUT. <i>Cic. 35,</i> sa voix.`

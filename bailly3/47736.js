@@ -1,1 +1,0 @@
-lar[47736]=`<b>εως (ἡ)</b> trouble, effroi, NYSS. <i>1, 639, 640</i>.<p><b>Étym</b>. θροέω.`

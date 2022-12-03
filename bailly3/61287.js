@@ -1,1 +1,0 @@
-lar[61287]=`<b>ας (ἡ)</b> <font color="purple">[ῐπᾰ]</font> graisse, DIOSC. <i>1, 49</i>.<p><b>Étym</b>. λιπαρός.`

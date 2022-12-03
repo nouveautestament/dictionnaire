@@ -1,1 +1,0 @@
-lar[22641]=`<b>ου (ὁ)</b> Grégoire, <i>h. ; particul. n. de divers écriv. eccl</i>. Gr. de Nazianze, Gr. de Nysse, <i>etc</i>.<p><b>Étym</b>. γρήγορος.`

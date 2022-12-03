@@ -1,1 +1,0 @@
-lar[84177]=`<b>προ·εξαδυνατέω-ῶ</b> <font color="purple">[ᾰῠᾰ]</font> être déjà très affaibli <i>ou</i> impuissant, HPC. <i>Prorrh. 67</i>.`

@@ -1,1 +1,0 @@
-lar[7022]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> régénération, CLÉM. <i>632</i>.`

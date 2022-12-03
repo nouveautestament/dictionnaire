@@ -1,1 +1,0 @@
-lar[61185]=`<b>λιμνο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se plaît dans les marécages, BATR. <i>12, 226</i>.<p><b>Étym</b>. λ. χαίρω.`

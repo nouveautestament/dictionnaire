@@ -1,1 +1,0 @@
-lar[16306]=`<b>Ἀστρο·άρχη, ης (ἡ)</b> Astroarkhè, <i>litt</i>. la Reine des astres, <i>n. phénicien de la lune, c</i>. Ἀστάρτη, HDN <i>5, 6, 4</i>.<p><b>Étym</b>. ἄστρον, ἄρχω.`

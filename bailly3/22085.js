@@ -1,1 +1,0 @@
-lar[22085]=`<font color="purple">[ᾰ]</font> (<i>seul. prés. 3 sg</i>. γλάφει) creuser (le sol du pied), <i>en parl. d’un lion,</i> HÉS. <i>Sc. 431</i>.<p><b>Étym</b>. <i>inconnue ; cf</i>. γλαφυρός.`

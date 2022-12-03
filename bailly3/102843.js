@@ -1,1 +1,0 @@
-lar[102843]=`<b>ὑπερ·υβρίζω</b>, traiter d’une manière extrêmement outrageante, DC. <i>59, 4</i>.`

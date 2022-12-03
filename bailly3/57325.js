@@ -1,1 +1,0 @@
-lar[57325]=`<b>άδος (ἡ)</b> <font color="purple">[ῐᾰδ]</font><br><b>      1</b> olivier greffé sur un olivier sauvage, PHÉRÉCRAT. (POLL. <i>6, 45</i>).<br><b>      2</b> baie d’olivier sauvage, HPC. <i>495, 14</i>.`

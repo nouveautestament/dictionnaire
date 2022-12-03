@@ -1,1 +1,0 @@
-lar[28544]=`<b>δυσ·καταγώνιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à combattre, POL. <i>15, 15, 8</i> ; DH. <i>3, 7 ; 6, 24 ; particul. t. de rhét</i>. difficile à réfuter, DH. <i>Rhet. 8, 3</i>.<p><b>Étym</b>. δ. καταγωνίζομαι.`

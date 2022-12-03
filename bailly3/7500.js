@@ -1,1 +1,0 @@
-lar[7500]=`<b>ἀνα·πυνθάνομαι</b> <font color="darkgreen">(<i>f</i>. -πεύσομαι, <i>ao.2</i> ἀνεπυθόμην)</font> s’informer de : τι, HDT. <i>6, 128 ; ou</i> περί τινος, PLAT. <i>Hipp. mi. 363b</i>, de qqe ch. ; τινός τι, AR. <i>Pax 693,</i> de qqe ch. auprès de qqn ; <i>avec un part</i>. ἀν. τὸν ποιήσαντα, HDT. <i>8, 90,</i> s’informer de celui qui a fait, <i>etc</i>.`

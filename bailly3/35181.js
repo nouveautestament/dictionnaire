@@ -1,1 +1,0 @@
-lar[35181]=`<b>ἔν·υλος, ος, ον</b> <font color="purple">[ῡ]</font> matériel, ARSTT. <i>An. 1, 1, 15</i>.<p><b>Étym</b>. ἐν, ὕλη.`

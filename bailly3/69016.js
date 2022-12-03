@@ -1,1 +1,0 @@
-lar[69016]=`<b>ίδος (ἡ)</b> Nossis, <i>femme poète de l’Anthologie,</i> ANTH. <i>9, 332</i>.<p><b>Étym</b>. <i>v</i>. νοσσίς.`

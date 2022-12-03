@@ -1,1 +1,0 @@
-lar[36323]=`<b>ἐξω·φόρος, ος, ον</b>, porté au dehors, d’où divulgué, JAMBL. <i>V. Pyth. 247</i>.<p><b>Étym</b>. ἔξω, φέρω.`

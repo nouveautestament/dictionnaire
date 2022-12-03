@@ -1,1 +1,0 @@
-lar[89568]=`<b>σαυρο·κτόνος, ου (ὁ)</b> le tueur de lézards, <i>statue d’Apollon,</i> PLIN. <i>H.N. 39, 19, 10</i>.<p><b>Étym</b>. σαύρα, κτείνω.`

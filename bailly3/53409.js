@@ -1,1 +1,0 @@
-lar[53409]=`<b>κατά·σπιλος, ος, ον</b> <font color="purple">[ῑ]</font> taché, souillé, PORPH. <i>Abst. 4, 7, p. 315</i>.<p><b>Étym</b>. κ. σπίλος.`

@@ -1,1 +1,0 @@
-lar[23272]=`<font color="darkgreen">(<i>seul. ao.2, 3 sg</i>. ἔδραθε <font color="purple">[ᾰ]</font>, <i>p. métath. p</i>. *ἔδαρθε)</font> dormir, OD. <i>20, 143</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *der-, dormir ; <i>cf. lat</i>. dormiō.`

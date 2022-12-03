@@ -1,1 +1,0 @@
-lar[67917]=`<b>οῦ (ὁ, ἡ)</b> <i>au masc</i>. faon, jeune cerf, IL. <i>8, 248</i> ; OD. <i>4, 336</i> ; XÉN. <i>Cyn. 9, 3, etc. ; au fém</i>. jeune biche, EUR. <i>Bacch. 867</i> ; TRAG. <i>fr. adesp. 348 Nauck</i> ; PLUT. <i>Sert. 11</i>.<p><b>Étym</b>. <i>inconnue</i>.`

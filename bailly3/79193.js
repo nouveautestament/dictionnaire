@@ -1,1 +1,0 @@
-lar[79193]=`<b>περι·πτώσσω</b>, craindre vivement, A. PL. <i>110</i>.`

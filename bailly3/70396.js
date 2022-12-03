@@ -1,1 +1,0 @@
-lar[70396]=`<i>adv. sans mouvem.</i> :<br><b>      1</b> à la maison, IL. <i>24, 240</i> ; HÉS. <i>O. 3, 63</i> ; SOPH. <i>O.R. 1123</i> ; XÉN. <i>Cyr. 6, 1, 10</i> ; PLAT. <i>Rsp. 371a, etc.</i><br><b>      2</b> dans son propre pays, SOPH. <i>O.C. 759</i> ; ISOCR. <i>414e</i>.<p><b>Étym</b>. <i>locat. de</i> οἶκος.`

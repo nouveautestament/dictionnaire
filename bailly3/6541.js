@@ -1,1 +1,0 @@
-lar[6541]=`<b>εως (ἡ) :<br>      1</b> action de regarder en haut, ARSTT. <i>Phys. 7, 3, 13</i>.<br><b>      2</b> action de recouvrer la vue, SPT. <i>Esaï. 61, 1</i> ; NT. <i>Luc. 4, 19</i>.<p><b>Étym</b>. ἀναβλέπω.`

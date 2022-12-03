@@ -1,1 +1,0 @@
-lar[68108]=`<b>νεο·γιλός, ή, όν</b> <font color="purple">[ῑ]</font><br><b>      1</b> nouveau-né, tout jeune, OD. <i>12, 86</i> ; THCR. <i>Idyl. 17, 58</i> ; ν. ὀδούς, OPP. <i>C. 1, 199,</i> dent de lait.<br><b>      2</b> de courte durée, LUC. <i>Halc. 3</i>.`

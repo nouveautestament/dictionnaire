@@ -1,1 +1,0 @@
-lar[56625]=`<b>ου (ὁ)</b> = <i>lat</i>. Collātīnus, <i>n. d’h. rom</i>. PLUT. <i>Popl. 1, etc</i>.`

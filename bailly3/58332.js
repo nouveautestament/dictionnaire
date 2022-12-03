@@ -1,1 +1,0 @@
-lar[58332]=`<b>κυαν·άντυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ᾰῠγ]</font> à la circonférence d’un bleu sombre, SYN. <i>Hymn. 9, 45</i>.<p><b>Étym</b>. κ. ἄντυξ.`

@@ -1,1 +1,0 @@
-lar[2069]=`<b>ἀθλοθετία, ας (ἡ)</b> fonction d’athlothète, AR. <i>fr. 585</i>.<p><b>Étym</b>. ἀθλοθέτης.`

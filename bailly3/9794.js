@@ -1,1 +1,0 @@
-lar[9794]=`<b>ἀντι·γεννάω-ῶ :<br>      1</b> engendrer à son tour, PHIL. <i>1, 89</i>.<br><b>      2</b> engendrer à l’encontre de, LYNC. (ATH. <i>285f</i>).`

@@ -1,1 +1,0 @@
-lar[101945]=`<b>ὑπ·ανακινέω-ῶ</b> <font color="purple">[ῠᾰᾰῑ]</font> se lever et partir, AR. <i>Eccl. 1165</i>.`

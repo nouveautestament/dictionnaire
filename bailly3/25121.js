@@ -1,1 +1,0 @@
-lar[25121]=`<b>δια·νάω</b> (<i>prés. non contr</i>. -νάει) sourdre, jaillir, PLUT. <i>Æmil. 14</i>.`

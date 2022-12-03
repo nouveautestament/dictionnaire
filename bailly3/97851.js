@@ -1,1 +1,0 @@
-lar[97851]=`<b>ατος (τὸ)</b> fosse creusée, PLAT. <i>Leg. 761b</i>.<p><b>Étym</b>. ταφρεύω.`

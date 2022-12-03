@@ -1,1 +1,0 @@
-lar[65562]=`<b>Μητρό·πολις, εως (ἡ)</b> Mètropolis :<br><b>      1</b> <i>v. d’Acarnanie,</i> THC. <i>3, 107</i>.<br><b>      2</b> <i>v. de Lydie,</i> EL. <i>N.A. 16, 38</i>.<p><b>Étym</b>. <i>v</i>. μητρόπολις.`

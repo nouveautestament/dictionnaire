@@ -1,1 +1,0 @@
-lar[101708]=`<b>ὑλη·κοίτης, ου (ὁ)</b> <font color="purple">[ῡ]</font> qui couche, <i>càd</i>. qui habite dans les bois, HÉS. <i>O. 527</i>.<p><b>Étym</b>. ὕλη, κοίτη.`

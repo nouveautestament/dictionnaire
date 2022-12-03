@@ -1,1 +1,0 @@
-lar[74288]=`<b>ας (ἡ)</b> meurtre d’enfants, PHIL. <i>2, 27</i>.<p><b>Étym</b>. παιδοκτόνος.`

@@ -1,1 +1,0 @@
-lar[32278]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> beau-père, père de l’époux, IL. <i>3, 172 ; 24, 770</i>.<p>➳ <font color="purple">[ῠ]</font> ANTH. <i>14, 9 ; en prose, d’ord</i>. πενθερός.<p><b>Étym</b>. <i>pour</i> *σϝεκυρός = <i>lat</i>. sŏcer, <i>sscr</i>. svaçuras.`

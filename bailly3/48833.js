@@ -1,1 +1,0 @@
-lar[48833]=`<b>ου (τὸ)</b> <font color="purple">[ῐκ]</font> Ikonion (<i>auj</i>. Konya) <i>v. de Lykaonie ou de Phrygie,</i> XÉN. <i>An. 1, 2, 19, etc.</i> ; MÉN. (CHŒROB. <i>Cram. 2, p. 206</i>).`

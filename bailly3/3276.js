@@ -1,1 +1,0 @@
-lar[3276]=`<b>ας (ἡ)</b> manque de gain, dommage, PD. <i>O. 1, 53</i> ; ARTÉM. <i>1, 70</i>.<p><b>Étym</b>. ἀκερδής.`

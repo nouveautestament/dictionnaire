@@ -1,1 +1,0 @@
-lar[67000]=`<b>μυδρο·κτύπος, ου</b> <font color="purple">[τῠ]</font> de celui qui bat le fer rouge, du forgeron, EUR. <i>H.f. 992</i>.<p><b>Étym</b>. μύδρος, κτύπος.`

@@ -1,1 +1,0 @@
-lar[66981]=`<b>ας (ἡ)</b> la Mygdonie, <i>contrée du N.O. de la Macédoine,</i> HDT. <i>7, 123</i> ; THC. <i>1, 58 ; 2, 99, 100</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c</i>.`

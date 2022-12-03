@@ -1,1 +1,0 @@
-lar[57376]=`<b>ων (οἱ)</b> = <i>lat</i>. Quadi, les Quades, <i>pple de Germanie,</i> LUC. <i>Alex. 48</i>.`

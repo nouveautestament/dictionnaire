@@ -1,1 +1,0 @@
-lar[81562]=`<b>έως (ὁ)</b> gardien de la cité, <i>ép. de Zeus,</i> ARSTT. <i>Mund. 7, 3</i> ; PAUS. <i>1, 24, 4, etc</i>.`

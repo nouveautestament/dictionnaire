@@ -1,1 +1,0 @@
-lar[26219]=`<b>δι·εξερευνάομαι-ῶμαι</b>, explorer avec soin : χώραν, PLAT. <i>Leg. 763a</i> (<i>part. prés</i>.) un pays ; <i>fig</i>. τι, PLAT. <i>Phil. 58d</i> (<i>part. ao</i>. -ησάμενοι) qqe ch.`

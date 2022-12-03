@@ -1,1 +1,0 @@
-lar[82943]=`<b>α, ον</b>, en combien de jours ? depuis combien de jours ? XÉN. <i>Cyr. 5, 3, 28</i> ; DL. <i>6, 39</i>.<p><b>Étym</b>. πόστος ; <i>cf</i>. δευτεραῖος, τριταῖος, <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[31894]=`<b>ῆς (ἡ) :<br>      1</b> expiration, <i>p. opp. à</i> ἀναπνοή, PLAT. <i>Tim. 78e ;</i> ARSTT. <i>Sens. 1, 3 ; ou à</i> εἰσπνοή, ARSTT. <i>Respir. 2, 3 ; particul</i>. action de rendre le souffle, d’expirer, EUR. <i>Hipp. 1438 (au pl</i>.).<br><b>      2</b> exhalaison, ARSTT. <i>Mund. 4, 10</i>.<p><b>Étym</b>. ἐκπνέω.`

@@ -1,1 +1,0 @@
-lar[44995]=`<b>ἡδυ·μανής, ής, ές</b> <font color="purple">[ῠᾰ]</font> atteint d’une douce folie, NONN. <i>D. 7, 269</i>.<p><b>Étym</b>. ἡ. μαίνομαι.`

@@ -1,1 +1,0 @@
-lar[33396]=`<b>ἐμ·πέμπω</b> (<i>inf. ao</i>. -πέμψαι) faire entrer dans, <i>avec</i> εἰς <i>et l’acc</i>. SPT. <i>Neh. 2, 5</i>.<p><b>Étym</b>. ἐν, π.`

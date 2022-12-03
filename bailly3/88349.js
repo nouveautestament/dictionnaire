@@ -1,1 +1,0 @@
-lar[88349]=`<font color="purple">[ᾰ]</font> <i>adv</i>., facilement, sans peine, IL. <i>5, 304 ; 8, 179, etc</i>.<p>➳ <i>Monosyll. par synizèse,</i> IL. <i>12, 381 ; 13, 144</i> ; HÉS. <i>O. 5</i>.<p><b>Étym</b>. <i>cf</i>. ῥεῖα.`

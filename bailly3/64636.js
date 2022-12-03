@@ -1,1 +1,0 @@
-lar[64636]=`<b>ου (ὁ)</b> = <i>lat</i>. Mestrius, <i>n. d’h. rom</i>. PLUT. <i>Oth. 14</i>.`

@@ -1,1 +1,0 @@
-lar[65957]=`<b>μισανθρωπέω-ῶ</b> <font color="purple">[ῑ]</font> haïr les hommes, être misanthrope, DL. <i>1, 107 ; 9, 3</i>.<p><b>Étym</b>. μισάνθρωπος.`

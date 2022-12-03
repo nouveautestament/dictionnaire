@@ -1,1 +1,0 @@
-lar[48995]=`<b>ἱμερο·δερκής, ής, ές</b> <font color="purple">[ῑ]</font> au doux regard, P. SIL. <i>Ecphr. amb. 275</i>.<p><b>Étym</b>. ἵμερος, δέρκομαι.`

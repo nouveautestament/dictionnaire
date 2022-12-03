@@ -1,1 +1,0 @@
-lar[95894]=`<b>συν·ηπειρώτης, ου (ὁ)</b> compatriote d’Épire, VARR. <i>R.R. 2, 5</i>.`

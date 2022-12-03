@@ -1,1 +1,0 @@
-lar[4461]=`<b>ἁλι·ήρης, ης, ες</b> <font color="purple">[ᾰ]</font> qui fend la mer (rame) EUR. <i>Hec. 451</i>.<p><b>Étym</b>. ἅλς, ἐρέσσω.`

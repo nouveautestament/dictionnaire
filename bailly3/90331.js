@@ -1,1 +1,0 @@
-lar[90331]=`<b>σιμο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> qui a l’air camus, EL. <i>N.A. 12, 27</i>.<p><b>Étym</b>. σιμός, εἶδος.`

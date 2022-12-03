@@ -1,1 +1,0 @@
-lar[21368]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de rendre brillant, PLUT. <i>M. 287b ; part</i>. action d’étamer, SYMM. <i>Amos 7, 7</i>.<p><b>Étym</b>. γανόω.`

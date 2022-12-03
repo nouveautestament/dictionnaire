@@ -1,1 +1,0 @@
-lar[99456]=`<b>      1</b> <i>neutre de l’art</i>. ὁ, ἡ, τό.<br><b>      2</b> <i>poét. neutre du pron. relat</i>. ὅς, ἥ, ὅ.<br><b>      3</b> <i>équivalent du neutre démonstr</i>. τοῦτο (<i>v</i>. οὗτος).`

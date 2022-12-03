@@ -1,1 +1,0 @@
-lar[47565]=`<i>ou</i> Θρᾶσις, <b>ιδος (ὁ)</b> Thrasis, <i>h</i>. ANTH. <i>App. 86</i>.<p>➳ Θρᾶσις, ANTH. <i>7, 506, etc</i>.`

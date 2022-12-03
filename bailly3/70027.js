@@ -1,1 +1,0 @@
-lar[70027]=`<b>α, ον</b>, qui vient <i>ou</i> se fait le 8<sup>e</sup> jour, POL. <i>5, 52, 3, etc.</i> ; PLUT. <i>Cæs. 17</i>.<p><b>Étym</b>. ὄγδοος.`

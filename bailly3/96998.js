@@ -1,1 +1,0 @@
-lar[96998]=`<b>ου (ὁ)</b> Skhédios :<br><b>      1</b> <i>chef phocéen,</i> IL. <i>2, 517 ; 17, 306</i>.<br><b>      2</b> <i>autre chef phocéen,</i> IL. <i>15, 515</i>.<br><b>      3</b> <i>autre,</i> Q. SM. <i>10, 87</i>.`

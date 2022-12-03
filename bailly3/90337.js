@@ -1,1 +1,0 @@
-lar[90337]=`<b>σιμο·πρόσωπος, ος, ον</b> <font color="purple">[ῑ]</font> au visage camard, PLAT. <i>Phædr. 253e</i>.<p><b>Étym</b>. σιμός, πρόσωπον.`

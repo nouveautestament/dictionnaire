@@ -1,1 +1,0 @@
-lar[79479]=`<b>ας (ἡ)</b> tension tout autour <i>ou</i> forte tension, CASS. <i>Probl. 43</i>.<p><b>Étym</b>. περιτενής.`

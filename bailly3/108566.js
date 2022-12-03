@@ -1,1 +1,0 @@
-lar[108566]=`<b>ατος (τὸ)</b> remède topique tiède, fomentation, HPC. <i>402, 27 ; 604, 1, etc</i>.<p><b>Étym</b>. χλιαίνω.`

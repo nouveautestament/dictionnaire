@@ -1,1 +1,0 @@
-lar[82341]=`<b>πολύ·ρροιζος, ος, ον</b>, très sonore, retentissant, NIC. <i>Th. 792</i>.<p><b>Étym</b>. π. ῥοῖζος.`

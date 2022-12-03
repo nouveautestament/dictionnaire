@@ -1,1 +1,0 @@
-lar[68657]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de filer, PLAT. <i>Pol. 282a ;</i> ORIG. <i>c. Cels. 4, p. 560e</i>.<p><b>Étym</b>. νήθω.`

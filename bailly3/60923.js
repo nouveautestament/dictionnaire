@@ -1,1 +1,0 @@
-lar[60923]=`<b>λιβανωτο·πώλης, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> marchand d’encens, CRAT. (ATH. <i>661e</i>).<p><b>Étym</b>. λιβανωτός, πωλέω.`

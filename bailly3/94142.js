@@ -1,1 +1,0 @@
-lar[94142]=`<b>συμ·πάσχω</b>, <i>anc. att</i>. <b>ξυμ·πάσχω :<br>      1</b> éprouver les mêmes sentiments, PLAT. <i>Charm. 169c.</i><br><b>      2</b> sympathiser avec, compatir à, <i>dat</i>. PLAT. <i>Rsp. 605d ;</i> ANTIPH. (<i>Com. fr. 3, 46) ; t. de physiol</i>. sympathiser, <i>en parl. des organes,</i> ARSTT. <i>Physiogn. 1, 2</i> ; GAL. <i>Hipp. Aph. comm. 18-1, 25</i>.`

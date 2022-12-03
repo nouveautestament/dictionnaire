@@ -1,1 +1,0 @@
-lar[65936]=`<b>μιξο·λύδιος, ος, ον</b> <font color="purple">[ῡ]</font> à moitié lydien, <i>t. de mus</i>. STR. <i>572</i> ; PTOL. <i>Harm. p. 71d, etc</i>.<p><b>Étym</b>. μ. Λυδία.`

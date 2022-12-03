@@ -1,1 +1,0 @@
-lar[83281]=`<b>Πρασσο·φάγος, ου (ὁ)</b> <font color="purple">[φᾰ]</font> Prassophagos, <i>propr</i>. « mangeuse d’algues », <i>n. de grenouille,</i> BATR. <i>229, 235</i>.<p><b>Étym</b>. πράσον, φαγεῖν.`

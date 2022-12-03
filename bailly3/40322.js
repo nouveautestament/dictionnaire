@@ -1,1 +1,0 @@
-lar[40322]=`<b>οῦ (ὁ)</b> rot, HPC. <i>Coac. 138</i> ; ARSTT. <i>Probl. 10, 44</i>.<p><b>Étym</b>. ἐρεύγομαι.`

@@ -1,1 +1,0 @@
-lar[60067]=`<b>Λέ·ανδρος, ου (ὁ)</b> Léandros (Léandre) <i>h</i>. PLUT. <i>M. 256, etc. ; héros d’un poème de Musée</i>.<p>➳ <i>Épq. et ion</i>. Λείανδρος, MUS. <i>828, 86, etc</i>.<p><b>Étym</b>. λεώς, ἀνήρ.`

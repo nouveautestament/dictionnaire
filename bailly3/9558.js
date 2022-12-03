@@ -1,1 +1,0 @@
-lar[9558]=`<b>ἀντ·είσειμι</b> (<i>seul. part. prés</i>. -εισίων) entrer à son tour, SYN. <i>Calv. 2, 1169a Migne</i>.`

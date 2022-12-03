@@ -1,1 +1,0 @@
-lar[31199]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> vengeance, DH. <i>5, 50, dout</i>.<p><b>Étym</b>. ἐκδικέω.`

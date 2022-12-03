@@ -1,1 +1,0 @@
-lar[107096]=`<b>α, ον</b>, <i>vb. de</i> φυλάσσω, SOPH. <i>O.C. 1180</i> ; EUR. <i>Andr. 63 ; au neutre,</i> EUR. <i>I.T. 620</i> ; XÉN. <i>Œc. 7, 36</i> ; PLAT. <i>Rsp. 416a, etc</i>.`

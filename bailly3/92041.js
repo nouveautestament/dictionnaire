@@ -1,1 +1,0 @@
-lar[92041]=`<b>ης, ες</b> <font color="purple">[ῠᾰ]</font> semblable à des crottes de chèvre <i>ou</i> de brebis, HPC. <i>Prorrh. 70, etc</i>.<p><b>Étym</b>. σπύραθος, -ωδης.`

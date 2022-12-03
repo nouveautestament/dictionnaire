@@ -1,1 +1,0 @@
-lar[16207]=`<b>ἀστερό·φοιτος, ος, ον</b>, qui s’avance à travers les astres, NONN. <i>D. 2, 262</i>.<p><b>Étym</b>. ἀ. φοιτάω.`

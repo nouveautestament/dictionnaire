@@ -1,1 +1,0 @@
-lar[161]=`<b>ας (ἡ)</b> jeune servante favorite de sa maîtresse, MÉN. <i>4, 87, 201, 224 Meineke</i> ; SPT. <i>Gen. 24, 61, etc</i>.<p><b>Étym</b>. ἁβρός.`

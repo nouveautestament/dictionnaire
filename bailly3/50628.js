@@ -1,1 +1,0 @@
-lar[50628]=`<b>κακανέω-ῶ</b>, <i>mot lacéd. p.-ê. p</i>. κατακονάω, aiguiser, <i>fig</i>. exciter, animer, PLUT. <i>M. 235f</i>.<p><b>Étym</b>. κατά, ἀκονάω.`

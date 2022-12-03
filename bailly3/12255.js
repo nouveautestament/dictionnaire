@@ -1,1 +1,0 @@
-lar[12255]=`<b>ἀπο·δενδρόομαι-οῦμαι :<br>      1</b> devenir arbre, TH. <i>H.P. 3, 17, 2</i>.<br><b>      2</b> être changé en arbre, LUC. <i>V.H. 1, 8</i>.<p><b>Étym</b>. ἀπό, δένδρον.`

@@ -1,1 +1,0 @@
-lar[68526]=`<i>adv</i>., sans pitié, A.RH. <i>1, 610, etc</i>.<p><b>Étym</b>. νηλειής ; <i>cf</i>. νηλεῶς.`

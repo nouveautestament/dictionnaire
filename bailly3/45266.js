@@ -1,1 +1,0 @@
-lar[45266]=`<b>ου</b>, <i>adj. m</i>. solaire : οἱ Ἡλιῶται, LUC. <i>V.H. 1, 17,</i> les habitants imaginaires du soleil.<p><b>Étym</b>. ἥλιος.`

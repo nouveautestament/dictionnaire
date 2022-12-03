@@ -1,1 +1,0 @@
-lar[43817]=`<b>εὔ·χρεως, ως, ων</b>, <i>seul. dat</i>. εὔχρεῳ, commode, ANTIM. (ATH. <i>469f dout</i>.).<p><b>Étym</b>. εὖ, χράομαι.`

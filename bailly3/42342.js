@@ -1,1 +1,0 @@
-lar[42342]=`<b>εὐ·ίλατος, ος, ον</b> <font color="purple">[ῑᾱ]</font> tout à fait propice, SPT. <i>Ps. 98, 8</i>.<p><b>Étym</b>. εὖ, ἱλάομαι.`

@@ -1,1 +1,0 @@
-lar[81484]=`<b>ή, όν</b>, doué d’une qualité, <i>p. opp. à</i> ἄποιος, ANTYLL. (ORIB. <i>2, 380 B.-Dar</i>.).<p><b>Étym</b>. <i>vb. de</i> ποιόω.`

@@ -1,1 +1,0 @@
-lar[21195]=`<b>οῦ (ὁ)</b> <font color="purple">[γᾰ]</font> allaitement, ORIB. <i>3, 133</i>.<p><b>Étym</b>. γαλακτίζω.`

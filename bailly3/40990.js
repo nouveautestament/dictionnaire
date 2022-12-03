@@ -1,1 +1,0 @@
-lar[40990]=`<b>ἐσθλο·δότης, ου</b>, <i>adj. m</i>. dispensateur de biens, SYN. <i>Hymn. 4, 270</i> ; MAN. <i>2, 142</i>.<p><b>Étym</b>. ἐσθλός, δίδωμι.`

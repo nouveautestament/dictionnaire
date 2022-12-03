@@ -1,1 +1,0 @@
-lar[84197]=`<b>προ·εξελκόω-ῶ</b>, ulcérer auparavant, PHILUMÈNE (ORIB. <i>70 Mai</i>).`

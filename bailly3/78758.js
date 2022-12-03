@@ -1,1 +1,0 @@
-lar[78758]=`<b>περι·κλαδεύω</b> <font color="purple">[ᾰ]</font> ébrancher <i>ou</i> émonder tout autour, CHRYS.`

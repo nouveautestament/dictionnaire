@@ -1,1 +1,0 @@
-lar[26557]=`<b>(ὁ)</b> Dikomès, <i>roi des Gètes,</i> PLUT. <i>Ant. 63</i>.`

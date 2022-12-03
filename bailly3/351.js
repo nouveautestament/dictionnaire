@@ -1,1 +1,0 @@
-lar[351]=`<b>ου (ὁ)</b> Agapæos, <i>tyran d’Oréos en Eubée,</i> DÉM. <i>126</i>.`

@@ -1,1 +1,0 @@
-lar[66471]=`<i>adv</i>., en monarque, en maître absolu, PLUT. <i>Num. 2, au cp</i>. -ώτερον.`

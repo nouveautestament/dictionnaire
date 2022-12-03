@@ -1,1 +1,0 @@
-lar[39289]=`<b>ἐπι·σχεδόν</b>, <i>adv</i>., tout près, HH. <i>Ap. 3</i> ; τινος, A.RH. <i>2, 604</i> ; τινι, A.RH. <i>4, 948,</i> de qqn <i>ou</i> de qqe ch.`

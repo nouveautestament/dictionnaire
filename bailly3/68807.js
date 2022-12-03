@@ -1,1 +1,0 @@
-lar[68807]=`<b>ου (ἡ)</b> Ninos :<br><b>      1</b> <i>autre n. de Ninive, anc. capitale de l’Assyrie,</i> HDT. <i>1, 103</i> ; ARSTT. <i>H.A. 8, 19, etc.</i><br><b>      2</b> <i>f</i>. DÉM. <i>995, 10</i>.`

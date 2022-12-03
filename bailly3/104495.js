@@ -1,1 +1,0 @@
-lar[104495]=`<b>ὑψι·κέλευθος, ος, ον</b> <font color="purple">[ῐ]</font> qui s’avance sur les hauteurs, ANTH. <i>9, 207</i>.<p><b>Étym</b>. ὕ. κέλευθος.`

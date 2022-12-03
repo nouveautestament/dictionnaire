@@ -1,1 +1,0 @@
-lar[25008]=`<b>δια·μαστροπεύω</b> (<i>seul. part. prés. pass</i>.) prostituer, PLUT. <i>Cæs. 14</i>.`

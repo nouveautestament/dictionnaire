@@ -1,1 +1,0 @@
-lar[68107]=`<b>νεο·γενής, ής, ές</b>, nouveau-né <i>ou</i> né depuis peu, ESCHL. <i>Ch. 530</i> ; PLAT. <i>Theæt. 160e, etc</i>.<p><b>Étym</b>. ν. γένος.`

@@ -1,1 +1,0 @@
-lar[70518]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art de déguster le vin, SEXT. <i>M. 6, 33, p. 363</i>.<p><b>Étym</b>. <i>c</i>. οἰνογευστέω.`

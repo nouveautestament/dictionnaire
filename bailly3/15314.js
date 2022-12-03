@@ -1,1 +1,0 @@
-lar[15314]=`<i>adv</i>., par un nombre pair (quantité désignée), NICOM. <i>Theol. 78</i>.<p><b>Étym</b>. ἄρτιος.`

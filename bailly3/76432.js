@@ -1,1 +1,0 @@
-lar[76432]=`<b>παρα·φρύγω</b>, brûler, consumer (d’inquiétude) EUN. <i>p. 115</i>.`

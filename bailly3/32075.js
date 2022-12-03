@@ -1,1 +1,0 @@
-lar[32075]=`<b>ἐκ·σφονδυλίζω</b> <font color="purple">[ῡ]</font> briser les vertèbres, JOS. <i>Macc. 11</i>.<p><b>Étym</b>. ἐκ, σφόνδυλος.`

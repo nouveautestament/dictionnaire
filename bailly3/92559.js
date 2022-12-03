@@ -1,1 +1,0 @@
-lar[92559]=`<b>οῦ (ὁ)</b> fixité, <i>particul.</i> :<br><b>      1</b> station des planètes, DS. <i>1, 81</i> ; PLUT. <i>M. 76d.</i><br><b>      2</b> fermeté, constance, NT. <i>2Petr. 3, 17</i>.<br><b>      3</b> <i>t. de rhét</i>. appui de la voix sur certaines syllabes, DH. <i>Comp. 20 ; cf</i>. LGN <i>40, 4</i>.<p><b>Étym</b>. στηρίζω.`

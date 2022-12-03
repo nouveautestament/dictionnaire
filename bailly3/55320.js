@@ -1,1 +1,0 @@
-lar[55320]=`<b>εως (ἡ)</b> action d’enduire de cire, ARSTT. <i>H.A. 5, 22, 5</i>.<p><b>Étym</b>. κηρόω.`

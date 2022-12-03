@@ -1,1 +1,0 @@
-lar[2925]=`<b>ας (ἡ)</b> pudeur, modestie, PLUT. <i>M. 66c</i>.`

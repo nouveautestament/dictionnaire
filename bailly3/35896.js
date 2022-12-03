@@ -1,1 +1,0 @@
-lar[35896]=`<b>ἐξ·ευφραίνομαι</b>, faire éclater sa joie, SPT. <i>Ezech. 23, 41 (var</i>.) ; HERM. <i>Poem. 67, 9</i>.`

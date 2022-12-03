@@ -1,1 +1,0 @@
-lar[107113]=`<b>αντος (ὁ)</b> <font color="purple">[ῡ]</font> Phylante, <i>h</i>. IL. <i>16, 181, 191</i> ; SOPH. <i>Tr. arg. 1, etc</i>.`

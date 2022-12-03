@@ -1,1 +1,0 @@
-lar[13757]=`<b>ἀπο·φράσσω</b>, <i>att</i>. <b>ἀπο·φράττω</b> <font color="darkgreen">(<i>f</i>. -φράξω) :</font><br><b>      1</b> obstruer, boucher, HPC. <i>253, 35</i> ; PLAT. <i>Tim. 91c ;</i> DÉM. <i>1276, 10</i>.<br><b>      2</b> dégager de tout obstacle, déboucher, DIOSC. <i>1, 68</i>.<br><b><i>Moy.</i></b> ἀπ. τινά, THC. <i>8, 104,</i> intercepter la route à qqn.`

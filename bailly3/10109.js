@@ -1,1 +1,0 @@
-lar[10109]=`<b>ἀντι·μοιρία, ας (ἡ)</b> part égale <i>ou</i> analogue, DÉM. <i>946, 28 dout</i>.<p><b>Étym</b>. ἀ. μοῖρα.`

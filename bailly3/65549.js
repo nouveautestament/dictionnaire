@@ -1,1 +1,0 @@
-lar[65549]=`<b>μητρο·ήθης, ης, όηθες</b>, qui a le caractère d’une mère, ANTH. <i>1, 124</i>.<p><b>Étym</b>. μ. ἦθος.`

@@ -1,1 +1,0 @@
-lar[87104]=`<b>πρωθ·ευρετής, οῦ (ὁ)</b> premier inventeur, NICOM. <i>Harm. p. 30 Meib</i>.<p><b>Étym</b>. πρῶτος, εὑρετής.`

@@ -1,1 +1,0 @@
-lar[74405]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> gâteau de fruits desséchés (noix, figues, <i>etc</i>.) pressés et alignés les uns contre les autres, HDT. <i>4, 23</i> ; LUC. <i>Pisc. 41, etc.</i> ; TH. <i>H.P. 4, 3, 1</i>.<p><b>Étym</b>. παλάσσω.`

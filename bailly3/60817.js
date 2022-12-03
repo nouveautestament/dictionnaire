@@ -1,1 +1,0 @@
-lar[60817]=`<font color="purple">[ᾰ]</font> célébrer les fêtes du pressoir, <i>particul</i>. concourir pour le prix de poésie aux fêtes du pressoir, CLÉM. <i>Protr. p. 3</i>.<p><b>Étym</b>. Λήναια.`

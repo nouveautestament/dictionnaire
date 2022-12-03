@@ -1,1 +1,0 @@
-lar[36602]=`<b>ἐπ·ανακλαγγάνω</b>, aboyer sans cesse contre, XÉN. <i>Cyn. 4, 5</i>.<p><b>Étym</b>. ἐπί, ἀνακλάζω.`

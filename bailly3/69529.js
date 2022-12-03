@@ -1,1 +1,0 @@
-lar[69529]=`<b>ξηρ·αλοιφέω-ῶ</b> <font color="purple">[ᾰ]</font> se frotter d’huile à sec (<i>càd</i>. sans s’être baigné) <i>comme les athlètes, p. opp. à</i> χυτλόομαι, SOPH. <i>fr. 437</i> ; ESCHN. <i>19, 25</i> ; PLUT. <i>Sol. 1, M. 247c</i>.<p><b>Étym</b>. ξηρός, ἀλοιφή.`

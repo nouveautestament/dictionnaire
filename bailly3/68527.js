@@ -1,1 +1,0 @@
-lar[68527]=`<b>νηλεό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> dont le cœur est sans pitié, APOLLIN. <i>Metaphr. p. 183</i>.<p><b>Étym</b>. νηλεής, θυμός.`

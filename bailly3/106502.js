@@ -1,1 +1,0 @@
-lar[106502]=`<b>φοβο·ειδής, ής, ές</b>, d’aspect effrayant, terrible, PEMPEL. (STOB. <i>Fl. 79, 52).</i><p><b>Étym</b>. φόβος, εἶδος.`

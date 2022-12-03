@@ -1,1 +1,0 @@
-lar[22515]=`<b>ου (ὁ)</b> <font color="purple">[ρῑ]</font> Gordioprilarios, <i>h</i>. ANTH. <i>6, 85</i>.`

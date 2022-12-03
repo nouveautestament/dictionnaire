@@ -1,1 +1,0 @@
-lar[74482]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰᾰ]</font> ce qui est attribué par le sort, NIC. <i>Th. 449</i>.<p><b>Étym</b>. παλάσσω.`

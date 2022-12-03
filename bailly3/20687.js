@@ -1,1 +1,0 @@
-lar[20687]=`<b>βραχύ·βωλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux petites mottes de terre, <i>càd</i>. au sol maigre, ANTH. <i>6, 238</i>.<p><b>Étym</b>. βρ. βῶλος.`

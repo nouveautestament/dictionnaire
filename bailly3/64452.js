@@ -1,1 +1,0 @@
-lar[64452]=`<b>μεσ·αυλικὸν κροῦμα (τὸ)</b> air de flûte entre deux morceaux chantés, A. QUINT. <i>p. 26</i>.<p><b>Étym</b>. μ. αὐλός.`

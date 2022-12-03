@@ -1,1 +1,0 @@
-lar[71635]=`<b>ὁμό·παγος, ος, ον</b> <font color="purple">[ᾱ]</font> du même canton, DH. <i>4, 15</i>.<p><b>Étym</b>. ὁμ. πάγος.`

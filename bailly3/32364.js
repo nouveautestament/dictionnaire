@@ -1,1 +1,0 @@
-lar[32364]=`<b>ἔκ·φυλος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> d’une tribu étrangère, <i>p. opp. à</i> ἔμφυλος, <i>d’où</i> étranger <i>en gén</i>. STR. <i>197</i> ; LUC. <i>Lex. 24</i>.<br><b>      2</b> <i>p. suite,</i> étrange, extraordinaire, PLUT. <i>Brut. 36, etc</i>.<p><b>Étym</b>. ἐκ, φυλή.`

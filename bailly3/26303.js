@@ -1,1 +1,0 @@
-lar[26303]=`<i>adv</i>., tout de travers, HLD. <i>2, 19</i> ; CHRYS. <i>5, 171</i> ; CLÉM. <i>524</i>.<p><b>Étym</b>. διαστρέφω.`

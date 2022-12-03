@@ -1,1 +1,0 @@
-lar[96682]=`<b>συ·στενάζω</b>, gémir avec, <i>dat</i>. EUR. <i>Ion 935 ; abs</i>. NT. <i>Rom. 8, 22</i>.`

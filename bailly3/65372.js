@@ -1,1 +1,0 @@
-lar[65372]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de pommier, SAPPH. <i>4</i>.<br><b>      2</b> fait de jus de pomme <i>ou</i> de jus de coing, TH. <i>Od. 26</i>.<br><b>      3</b> de couleur vert pomme, DS. <i>2, 53</i> ; HIPPIAS (ATH. <i>539e</i>).<p>➳ <i>Dor</i>. μάλινος <font color="purple">[ᾱ]</font> SAPPH. <i>l. c</i>.<p><b>Étym</b>. μῆλον.`

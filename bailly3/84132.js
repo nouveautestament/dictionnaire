@@ -1,1 +1,0 @@
-lar[84132]=`<b>προ·έλκω</b>, tirer en avant, attirer, JOS. <i>A.J. 15, 3, 3</i>.`

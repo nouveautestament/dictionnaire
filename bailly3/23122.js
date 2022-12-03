@@ -1,1 +1,0 @@
-lar[23122]=`<b>Δαμασ·ίππη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Damasippè, <i>f</i>. Ps.-PLUT. <i>Fluv. 3, 1</i>.<p><b>Étym</b>. <i>cf</i>. δαμάσιππος.`

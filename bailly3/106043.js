@@ -1,1 +1,0 @@
-lar[106043]=`<b>φιλο·προσήγορος, ος, ον</b> <font color="purple">[ῐ]</font> d’un abord aimable, affable, ISOCR. <i>6a ;</i> PLUT. <i>M. 10a ;</i> DC. <i>44, 19</i>.`

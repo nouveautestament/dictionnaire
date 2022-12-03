@@ -1,1 +1,0 @@
-lar[33539]=`<b>ἐμποδο·στάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui barre le chemin, qui fait obstacle, SPT. <i>1Par. 2, 7</i>.<p><b>Étym</b>. ἐμποδών, ἵστημι.`

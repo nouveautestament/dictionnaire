@@ -1,1 +1,0 @@
-lar[70894]=`<b>ου (ὁ)</b> voiture, char, PD. <i>O. 6, 40</i>.<p><b>Étym</b>. <i>cf</i>. ὄχος.`

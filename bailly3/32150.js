@@ -1,1 +1,0 @@
-lar[32150]=`<b>εως (ἡ)</b> dissolution, exténuation, HPC. <i>Aër. 287</i>.<p><b>Étym</b>. ἐκτήκω.`

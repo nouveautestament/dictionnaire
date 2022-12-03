@@ -1,1 +1,0 @@
-lar[58714]=`<font color="purple">[νᾱ]</font> <i>dor. c</i>. κυνηγία.`

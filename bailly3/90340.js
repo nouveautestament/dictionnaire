@@ -1,1 +1,0 @@
-lar[90340]=`<b>ου (ὁ)</b> Simos, <i>h</i>. THC. <i>6, 5</i> ; DÉM. <i>18, 48 et 164 Baiter-Sauppe, etc.</i> ; THCR. <i>Idyl. 14, 53</i>.<p><b>Étym</b>. <i>v</i>. σιμός, σῖμος.`

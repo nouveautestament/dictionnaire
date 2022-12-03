@@ -1,1 +1,0 @@
-lar[102735]=`<b>ὑπερπαθέω-ῶ</b> <font color="purple">[ᾰ]</font> être extrêmement affecté, EUR. <i>Ph. 1456</i> ; JOS. <i>A.J. 7, 2, 1, etc</i>.<p><b>Étym</b>. ὑπερπαθής.`

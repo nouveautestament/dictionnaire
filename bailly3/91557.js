@@ -1,1 +1,0 @@
-lar[91557]=`<b>ῶν (οἱ)</b> habitants de la Sogdiane, PLUT. <i>Alex. fort. 1, 5</i>.<p><b>Étym</b>. <i>v</i>. Σογδιανή.`

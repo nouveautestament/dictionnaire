@@ -1,1 +1,0 @@
-lar[8971]=`<b>ἀνθρωπο·παθής, ής, ές</b> <font color="purple">[πᾰ]</font> qui a des sentiments <i>ou</i> des passions conformes à la nature humaine, PHIL. <i>1, 182</i> ; CLÉM. <i>719, 841</i>.<p><b>Étym</b>. ἄ. πάθος.`

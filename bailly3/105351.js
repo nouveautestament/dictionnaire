@@ -1,1 +1,0 @@
-lar[105351]=`<b>ας (ἡ)</b> disposition à la jalousie, ARSTT. <i>M. mor. 1, 28, 1</i> ; DL. <i>7, 115</i>.<p><b>Étym</b>. φθονερός.`

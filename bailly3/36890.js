@@ -1,1 +1,0 @@
-lar[36890]=`<b>ἐπ·αχθέω-ῶ</b>, charger, TRIPHIOD. <i>690</i>.`

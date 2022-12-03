@@ -1,1 +1,0 @@
-lar[1316]=`<b>ἀ·διάζευκτος, ος, ον</b>, qu’on ne peut disjoindre, CORN. <i>14</i> ; PROCL. <i>Plat. Parm. 603 Stallb</i>.<p><b>Étym</b>. ἀ, διαζεύγνυμι.`

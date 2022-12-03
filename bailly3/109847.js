@@ -1,1 +1,0 @@
-lar[109847]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>dor. c</i>. πτίλον, PAUS. <i>3, 19, 6</i>.`

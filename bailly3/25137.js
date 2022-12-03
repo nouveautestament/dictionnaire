@@ -1,1 +1,0 @@
-lar[25137]=`<b>εως (ἡ)</b> action de traverser à la nage, HERM. (STOB. <i>Ecl. 1, 944).</i><p><b>Étym</b>. διανήχομαι.`

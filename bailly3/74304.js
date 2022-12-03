@@ -1,1 +1,0 @@
-lar[74304]=`<b>ας (ἡ)</b> procréation d’enfants, PLAT. <i>Rsp. 423e ; au plur</i>. PLAT. <i>Rsp. 459a, etc. ; en parl. d’animaux,</i> procréation de petits, GEOP. <i>16, 21, 2</i>.<p><b>Étym</b>. παιδοποιέω.`

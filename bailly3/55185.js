@@ -1,1 +1,0 @@
-lar[55185]=`<b>οῦ (ὁ)</b> enchanteur, séducteur, TIMON (DL. <i>8, 67).</i><p><b>Étym</b>. κηλέω.`

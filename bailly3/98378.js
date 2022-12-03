@@ -1,1 +1,0 @@
-lar[98378]=`<b>όνος (ἡ)</b> Térèdôn :<br><b>      1</b> <i>v. de Babylonie,</i> DP. <i>982, etc.</i> ; EL. <i>N.A. 5, 14 ; 17, 17</i>.<br><b>      2</b> <i>joueuse de flûte,</i> AR. <i>Th. 1175</i>.`

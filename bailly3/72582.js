@@ -1,1 +1,0 @@
-lar[72582]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Oreibasios, <i>h</i>. ANTH. <i>5, 274</i>.<p><b>Étym</b>. <i>v</i>. ὀρειβάσια.`

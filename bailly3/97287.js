@@ -1,1 +1,0 @@
-lar[97287]=`<b>ου (ὁ)</b> Sôtèrikhos, <i>h</i>. LUC. <i>Oc. 78</i> ; ANTH. <i>11, 331</i>.`

@@ -1,1 +1,0 @@
-lar[91247]=`<b>ατος (τὸ)</b> <font color="purple">[ῠᾰλ]</font> <i>c</i>. σκύβαλον, PHOCYL. <i>144</i>.`

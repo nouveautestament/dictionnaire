@@ -1,1 +1,0 @@
-lar[83912]=`<b>προ·διαγωγή, ῆς (ἡ)</b> long conduit d’eau, PLUT. <i>M. 913c</i>.`

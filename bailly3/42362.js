@@ -1,1 +1,0 @@
-lar[42362]=`<b>εὐ·κάματος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui se fait <i>ou</i> s’obtient au prix d’un grand travail, NONN. <i>D. 5, 483, etc.</i><br><b>      2</b> d’un beau travail, ANTH. <i>1, 10, 15</i>.<br><b>      3</b> aisé, d’un travail facile, EUR. <i>Bacch. 66</i> ; PLUT. <i>M. 794b</i>.<p><b>Étym</b>. εὖ, κάματος.`

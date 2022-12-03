@@ -1,1 +1,0 @@
-lar[25898]=`<b>δια·φυτεύω</b>, <i>f</i>. εύσω <font color="purple">[ῡ]</font><br><b>      1</b> planter, TH. <i>H.P. 4, 4, 3</i> ; AR. <i>fr. 162</i>.<br><b>      2</b> couvrir de plantations : νῆσον δένδρεσι, PHILSTR. <i>304,</i> faire une plantation d’arbres dans une île.`

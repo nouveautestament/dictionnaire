@@ -1,1 +1,0 @@
-lar[56467]=`<b>κοινο·βουλευτικός, ή, όν</b>, qui concerne les délibérations communes, HIPPODAM. (STOB. <i>Fl. 43, 93).</i><p><b>Étym</b>. κοινός, βουλεύω.`

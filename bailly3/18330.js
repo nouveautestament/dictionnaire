@@ -1,1 +1,0 @@
-lar[18330]=`<b>*ἀφύω</b> (<i>seul. en compos</i>. ἐξαφύω, ὑπεξαφύομαι) <i>verbe auquel on rattache qqf. le fut</i>. ἀφύσω <i>ou</i> ἀφύσσω <i>et l’ao</i>. ἤφυσα, <i>d’ord. attribués à</i> ἀφύσσω.`

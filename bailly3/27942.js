@@ -1,1 +1,0 @@
-lar[27942]=`<b>ίδος (ἡ)</b> sorte de vigne, GEOP. <i>5, 17, 3</i>.<p><b>Étym</b>. δρόσος.`

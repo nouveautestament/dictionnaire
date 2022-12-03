@@ -1,1 +1,0 @@
-lar[72514]=`<b>ὁρ·αυγέομαι-οῦμαι</b>, examiner, observer, ARÉTAS (STOB. <i>Ecl. phys. p. 854).</i><p><b>Étym</b>. ὁράω, αὐγή.`

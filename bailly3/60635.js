@@ -1,1 +1,0 @@
-lar[60635]=`<b>λευκο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> à tunique blanche, BATR. <i>37</i>.<p><b>Étym</b>. λ. χιτών.`

@@ -1,1 +1,0 @@
-lar[84230]=`<b>προ·επιβρέχω</b>, humecter auparavant, GAL. <i>13, 647</i>.`

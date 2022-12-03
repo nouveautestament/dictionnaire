@@ -1,1 +1,0 @@
-lar[101515]=`<b>ας (ἡ) :<br>      1</b> action de puiser de l’eau, THC. <i>7, 13</i> ; PLAT. <i>Leg. 844b.</i><br><b>      2</b> action d’arroser, PLAT. <i>Leg. 761c ;</i> TH. <i>H.P. 2, 6, 3 ; fig</i>. PLAT. <i>Tim. 78b, etc.</i><br><b>      3</b> eau d’irrigation, DS. <i>3, 21</i>.<br><b>      4</b> lieu où l’on puise de l’eau, PLUT. <i>Them. 9</i>.<p><b>Étym</b>. ὑδρεύω.`

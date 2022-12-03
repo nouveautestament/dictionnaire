@@ -1,1 +1,0 @@
-lar[9722]=`<b>ἀντ·εφοδιάζω</b>, approvisionner pour la route contre, <i>d’où au pass</i>. être approvisionné <i>ou</i> équipé de manière à pouvoir résister, <i>fig</i>. JOS. <i>A.J. 15, 9, 1</i>.`

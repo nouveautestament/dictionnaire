@@ -1,1 +1,0 @@
-lar[66361]=`<b>ου (τὸ)</b> <font color="purple">[ῐβῐδ]</font> petite quantité de plomb, HÉRON <i>Aut. p. 273d</i>.<p><b>Étym</b>. μόλιβος.`

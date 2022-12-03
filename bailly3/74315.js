@@ -1,1 +1,0 @@
-lar[74315]=`<b>ή, όν</b> <font color="purple">[ῐβ]</font> qui concerne l’art du maître de gymnastique : ἡ παιδοτριβική (<i>s.e</i>. τέχνη) art du maître de gymnastique, ISOCR. <i>Antid. § 194</i> ; ARSTT. <i>Pol. 8, 3, 13</i>.<p><b>Étym</b>. παιδοτρίβης.`

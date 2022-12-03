@@ -1,1 +1,0 @@
-lar[56669]=`<b>κολοβό·σταχυς, υος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> aux épis courts et tronqués, DIOSC.<p><b>Étym</b>. κολοβός, στάχυς.`

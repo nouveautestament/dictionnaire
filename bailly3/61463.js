@@ -1,1 +1,0 @@
-lar[61463]=`<i>adv</i>., avec gourmandise, ORIG. <i>c. Cels. p. 466a ;</i> BAS. <i>1, 403a, etc</i>.<p><b>Étym</b>. λίχνος.`

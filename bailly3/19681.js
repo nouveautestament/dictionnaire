@@ -1,1 +1,0 @@
-lar[19681]=`<b>βι·άνωρ, ορος (ὁ)</b> <font color="purple">[ῐᾱ]</font> Bianor :<br><b>      1</b> <i>Troyen,</i> IL. <i>11, 92, etc.</i><br><b>      2</b> <i>poète de l’Anthologie,</i> ANTH. <i>4, 2 ; 7, 396, etc.</i><br><b>      3</b> <i>autres,</i> DÉM. ANTH.<p>➳ <i>Épq</i>. βιήνωρ, IL. <i>l. c</i>.<p><b>Étym</b>. βία, ἀνήρ.`

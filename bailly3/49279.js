@@ -1,1 +1,0 @@
-lar[49279]=`<b>ἱππ·ημολγός, ός, όν</b>, qui trait les cavales, qui se nourrit du lait des cavales, IL. <i>13, 5</i> ; HÉS. <i>fr. 122 Gottling</i> ; CALL. <i>Dian. 252</i> ; STR. <i>296</i>.<p><b>Étym</b>. ἵ. ἀμέλγω.`

@@ -1,1 +1,0 @@
-lar[57185]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> germination de touffes de fleurs, PHÆNIAS (ATH. <i>61f</i>) ; TH. <i>H.P. 3, 5, 1</i>.<p><b>Étym</b>. κορυνάω.`

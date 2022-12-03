@@ -1,1 +1,0 @@
-lar[18897]=`<b>οῦ (ὁ) :<br>      1</b> qui se livre à des transports bachiques, ORPH. <i>H. 10, 21 ; 46, 6</i> ; A. PL. <i>4, 290</i> ; ATH.<br><b>      2</b> <i>adj. m</i>. de bacchant, bachique, ANTH. <i>11, 64</i>.<p><b>Étym</b>. βακχεύω.`

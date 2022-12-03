@@ -1,1 +1,0 @@
-lar[63771]=`<b>μελαγ·χαίτης, ου</b>, <i>adj. m</i>. à la chevelure noire, HÉS. <i>Sc. 186</i> ; SOPH. <i>Tr. 837</i> ; EUR. <i>Alc. 439</i>.<p><b>Étym</b>. μ. χαίτη.`

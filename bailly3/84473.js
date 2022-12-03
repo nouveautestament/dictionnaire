@@ -1,1 +1,0 @@
-lar[84473]=`<b>εως (ἡ) :<br>      1</b> préoccupation <i>ou</i> anticipation, <i>t. de rhét</i>. ARSTT. <i>Rhet. Al. 7, 3, etc.</i><br><b>      2</b> action de saisir <i>ou</i> de comprendre d’avance, PLUT. <i>M. 968a</i>.<p><b>Étym</b>. προκαταλαμβάνω.`

@@ -1,1 +1,0 @@
-lar[67310]=`<b>μυρο·βόστρυχος, ος, ον</b> <font color="purple">[ῠῠ]</font> aux boucles parfumées, ANTH. <i>5, 147</i>.`

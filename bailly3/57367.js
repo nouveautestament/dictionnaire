@@ -1,1 +1,0 @@
-lar[57367]=`<b>υος (ὁ)</b> Kotys :<br><b>      1</b> <i>roi thrace,</i> DÉM. <i>623, 655, 658, etc.</i><br><b>      2</b> <i>autres,</i> HDT. <i>4, 45</i> ; XÉN. <i>Ages. 2, 26, etc</i>.<p>➳ <i>Voc</i>. Κότυ, A. PL. <i>75</i>.`

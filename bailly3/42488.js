@@ -1,1 +1,0 @@
-lar[42488]=`<b>ας (ἡ)</b> bon ordre, <i>p. opp. à</i> τύρβη, XÉN. <i>Cyr. 1, 2, 3 ; d’où</i> conduite réglée, décence, EUR. <i>Bacch. 693 ; joint à</i> αἰδώς, XÉN. <i>Cyr. 8, 133 ; au pl</i>. PLAT. <i>Prot. 325d ; cf</i>. ARSTT. <i>Pol. 4, 15, 9</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>1280, 3</i>.<p><b>Étym</b>. εὔκοσμος.`

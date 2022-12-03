@@ -1,1 +1,0 @@
-lar[26307]=`<b>ος, ον</b>, qui dure toute l’année, <i>au plur. en parl. de jeux et de sacrifices,</i> qui se succèdent sans interruption d’un bout à l’autre de l’année, THC. <i>2, 38</i> ; DH. <i>1, 32</i>.<p><b>Étym</b>. διά, ἔτος.`

@@ -1,1 +1,0 @@
-lar[16134]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> instabilité, MÉN. RHÉT. <i>9, 275 W. ; etc</i>.<p>➳ <i>Ion</i>. -ίη, MAN. <i>1, 19 ; dat. pl</i>. -ίῃσι, SIB. <i>8, 185</i>.<p><b>Étym</b>. ἄστατος.`

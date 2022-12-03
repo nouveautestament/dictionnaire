@@ -1,1 +1,0 @@
-lar[97841]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui concerne la sépulture, funéraire, OD. <i>2, 99 ; 19, 144, etc.</i> ; A.RH. <i>2, 840</i>.<p><b>Étym</b>. <i>ion. c</i>. *ταφεῖος, <i>de</i> ταφή.`

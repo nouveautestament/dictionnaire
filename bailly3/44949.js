@@ -1,1 +1,0 @@
-lar[44949]=`<b>ας (ἡ)</b> Hèdeia, <i>f</i>. PLUT. <i>M. 1129b</i>.<p>➳ <i>Dans des inscr. att</i>. Ἡδεῖα, CIA. <i>2, 386, c-k, 15 (3<sup>e</sup> siècle av. J.-C.) ; et</i> Ἡδέα, CIA. <i>3, 2324, 3186 (époque impériale) v. Meisterh. p. 32 ; postér</i>. Ἡδῆα, CIA. <i>3, 2836, 1, v. Meisterh. p. 37, 20</i>.<p><b>Étym</b>. <i>v</i>. ἡδεῖα.`

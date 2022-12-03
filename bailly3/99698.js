@@ -1,1 +1,0 @@
-lar[99698]=`<font color="purple">[ᾰ]</font> <i>adv</i>., autant de fois, XÉN. <i>Cyr. 8, 8, 12</i> ; PLAT. <i>Rsp. 546c, etc</i>.<p><b>Étym</b>. τοσοῦτος, -άκις.`

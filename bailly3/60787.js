@@ -1,1 +1,0 @@
-lar[60787]=`<b>άδος (ἡ)</b> la fille de Lèlantos (Aura) NONN. <i>D. 48, 245, etc</i>.<p><b>Étym</b>. Λήλαντος.`

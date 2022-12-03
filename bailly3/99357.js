@@ -1,1 +1,0 @@
-lar[99357]=`<font color="purple">[ῑ̆ᾰ]</font> <i>adv</i>., de Titaros, ORPH. <i>Arg. 126</i>.<p><b>Étym</b>. Τίταρος, -θεν.`

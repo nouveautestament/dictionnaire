@@ -1,1 +1,0 @@
-lar[68501]=`<b>(ἡ)</b> <i>indécl</i>. Nèith, <i>n. égyptien d’Athèna,</i> PLAT. <i>Tim. 21b</i>.`

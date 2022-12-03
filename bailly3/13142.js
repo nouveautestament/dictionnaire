@@ -1,1 +1,0 @@
-lar[13142]=`<b>ἀπο·προβάλλω</b>, lancer au loin en avant, A.RH. <i>3, 1311</i>.`

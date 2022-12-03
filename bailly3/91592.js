@@ -1,1 +1,0 @@
-lar[91592]=`<b>ωνος (ὁ)</b> Solon :<br><b>      1</b> <i>poète élégiaque et législateur athénien,</i> HDT. <i>1, 86, etc.</i><br><b>      2</b> <i>autres,</i> DÉM. <i>45, 64 Baiter-Sauppe, etc</i>.`

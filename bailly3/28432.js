@@ -1,1 +1,0 @@
-lar[28432]=`<b>δυσ·επίσχετος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à arrêter (hémorragie, <i>etc</i>.) GAL. <i>10, 110</i> ; ARÉT. <i>107, 18</i> ; P. ÉG. <i>154, 20</i>.<p><b>Étym</b>. δ. ἐπέχω.`

@@ -1,1 +1,0 @@
-lar[72233]=`<b>*ὀπήδησις</b>, <i>dor</i>. <b>ὀπάδησις, ιος (ἡ)</b> <font color="purple">[ᾱ]</font> CRITON (STOB. <i>Ecl. eth. p. 350</i>).`

@@ -1,1 +1,0 @@
-lar[76550]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> parenchyme, <i>substance des poumons, du foie, des reins et de la rate formée, selon Érasistrate, par le sang des veines de ces organes, p. opp. à</i> σάρξ, chair musculaire, GAL. <i>13, 295, etc</i>.<p><b>Étym</b>. παρεγχέω.`

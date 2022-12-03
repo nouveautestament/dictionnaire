@@ -1,1 +1,0 @@
-lar[41663]=`<b>άδος (ἡ) :<br>      1</b> bacchante (<i>litt</i>. qui crie εὐαί) ORPH. <i>H. 48, 1</i> ; PHILSTR. <i>Im. p. 793</i>.<br><b>      2</b> <i>adj</i>. de bacchante, NONN. <i>D. 19, 108</i>.<p><b>Étym</b>. εὐαί.`

@@ -1,1 +1,0 @@
-lar[48288]=`<b>ιδος (ὁ, ἡ)</b> jaspe, <i>pierre précieuse,</i> PLAT. <i>Phæd. 110d ;</i> TH. <i>Lap. 23, etc. ; masc. seul</i>. ANTH. <i>9, 750</i>.<p><b>Étym</b>. <i>emprunt sémitique, cf. hébr</i>. jāšpe.`

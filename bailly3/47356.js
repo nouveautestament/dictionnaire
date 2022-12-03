@@ -1,1 +1,0 @@
-lar[47356]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> chambre du trésor, ARTÉM. <i>1, 74</i> ; THÉM. <i>Or. 7, 91d</i>.<p><b>Étym</b>. θησαυροφύλαξ.`

@@ -1,1 +1,0 @@
-lar[87576]=`<b>Πυθό·δωρος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Pythodôros :<br><b>      1</b> <i>n. de deux archontes athéniens,</i> THC. <i>2, 2</i> ; XÉN. <i>Hell. 2, 3, 1, etc.</i><br><b>      2</b> <i>autres,</i> THC. <i>3, 115, etc.</i> ; PLAT. <i>1 Alc. 119a, etc.</i> ; ISOCR. <i>14, 7</i> ; DÉM. <i>19, 225 ; 54, 7 Baiter-Sauppe, etc</i>.`

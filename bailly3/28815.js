@@ -1,1 +1,0 @@
-lar[28815]=`<b>δύσ·πιστος, ος, ον :<br>      1</b> difficile à croire, PALÆPH. <i>31, 2</i>.<br><b>      2</b> infidèle, D. CHR. <i>1, 411 au cp</i>. δυσπιστότερος.<p><b>Étym</b>. δ. πίστις.`

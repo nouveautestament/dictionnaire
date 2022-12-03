@@ -1,1 +1,0 @@
-lar[101096]=`<font color="purple">[ῠ]</font> (<i>seul. prés</i>.) être partisan de la tyrannie, DÉM. <i>213, 15</i>.<p><b>Étym</b>. τυραννίς.`

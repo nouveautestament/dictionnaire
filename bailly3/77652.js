@@ -1,1 +1,0 @@
-lar[77652]=`<font color="purple">[ᾱ]</font> <i>vb. de</i> πειράω, PLAT. <i>Rsp. 453d, etc. ; et</i> <b>πειρατέα</b>, PLAT. <i>Leg. 770b</i>.`

@@ -1,1 +1,0 @@
-lar[57684]=`<b>ητος (ἡ)</b> sécheresse, friabilité, TH. <i>H.P. 1, 5, 4</i>.<p><b>Étym</b>. κραῦρος.`

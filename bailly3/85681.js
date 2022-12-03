@@ -1,1 +1,0 @@
-lar[85681]=`<b>προσ·επικαλέω-ῶ</b> <font color="purple">[ᾰ]</font> reprocher en outre : τινά τι, DC. <i>42, 49,</i> qqe ch. à qqn.<br><b><i>Moy.</i></b> invoquer en outre, <i>acc</i>. DC. <i>62, 6</i>.`

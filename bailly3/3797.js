@@ -1,1 +1,0 @@
-lar[3797]=`<b>ἀκρο·λόγος, ος, ον</b>, qui cueille (le suc) à la surface (des fleurs) EPINIC. (ATH. <i>432c</i>).<p><b>Étym</b>. ἄ. λέγω.`

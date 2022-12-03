@@ -1,1 +1,0 @@
-lar[72948]=`<b>ας (ἡ)</b> <font color="purple">[ῑθ]</font> élève <font color="purple">[<i>càd</i>. élevage]</font> d’oiseaux, <i>particul</i>. de poules, PLUT. <i>Per. 75</i>.<p><b>Étym</b>. ὀρνιθοτρόφος.`

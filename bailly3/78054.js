@@ -1,1 +1,0 @@
-lar[78054]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., en cinq parties, IL. <i>12, 87</i>.<p><b>Étym</b>. π. -χα.`

@@ -1,1 +1,0 @@
-lar[72632]=`<b>ίδος (ἡ)</b> territoire d’Orestheion, THC. <i>4, 134</i>.<p><b>Étym</b>. Ὀρέσθειον.`

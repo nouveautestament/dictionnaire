@@ -1,1 +1,0 @@
-lar[15042]=`<b>ή, όν :<br>      1</b> ravi, violé, HÉS. <i>O. 318</i>.<br><b>      2</b> qu’on peut saisir par hasard, hasardeux, HÉS. <i>O. 680</i>.<p><b>Étym</b>. ἁρπάζω.`

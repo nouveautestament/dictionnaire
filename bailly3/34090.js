@@ -1,1 +1,0 @@
-lar[34090]=`<b>ἔν·δαις</b>, <i>gén</i>. <b>-δαιδος (ὁ, ἡ)</b> accompagné de flambeaux, ESCHL. <i>Eum. 1044</i>.<p><b>Étym</b>. ἐν, δαΐς.`

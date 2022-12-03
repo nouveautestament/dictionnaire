@@ -1,1 +1,0 @@
-lar[102224]=`<b>ὑπερ·αγιότης, ητος (ἡ)</b> sainteté accomplie, NYSS.`

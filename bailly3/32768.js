@@ -1,1 +1,0 @@
-lar[32768]=`<b>ης, ες</b>, semblable à (des oreilles) d’éléphant, ARÉT. <i>Caus. m. diut. 2, 13</i>.<p><b>Étym</b>. ἐ. -ωδης.`

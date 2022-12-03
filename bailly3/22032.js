@@ -1,1 +1,0 @@
-lar[22032]=`<b>γλαγό·τροφος, ος, ον</b> <font color="purple">[ᾰ]</font> nourri de lait, LYC. <i>1260</i>.<p><b>Étym</b>. γλάγος, τρέφω.`

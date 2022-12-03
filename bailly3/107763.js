@@ -1,1 +1,0 @@
-lar[107763]=`<b>χαμαί·καυλος, ος, ον</b> <font color="purple">[ᾰ]</font> à tige basse <i>ou</i> rampante, TH. <i>H.P. 6, 5, 2</i>.<p><b>Étym</b>. χ. καυλός.`

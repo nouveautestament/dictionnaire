@@ -1,1 +1,0 @@
-lar[34021]=`<b>ἐν·αριθμέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> compter dans <i>ou</i> parmi, <i>dat</i>. ARSTT. <i>Soph. el. 8, 4 ; M. mor. 2, 7, 1</i>.<br><b>      2</b> compter : μηδέν, SOPH. <i>O.R. 1188,</i> pour rien.<br><b><i>Moy.</i></b> tenir compte de, <i>acc</i>. EUR. <i>Or. 623</i>.`

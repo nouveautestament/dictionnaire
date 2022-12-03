@@ -1,1 +1,0 @@
-lar[30983]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à chacun des deux côtés, des deux côtés, <i>sans mouv</i>. PD. <i>O. 2, 76</i> ; PLUT. <i>M. 415a, etc</i>.<p><b>Étym</b>. ἑκάτερος, -θι.`

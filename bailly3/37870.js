@@ -1,1 +1,0 @@
-lar[37870]=`<b>ἐπι·καθεύδω</b> <font color="purple">[ᾰ]</font> dormir sur, <i>dat</i>. ARSTT. <i>H.A. 5, 9, 1</i> ; LUC. <i>Ind. 4</i>.`

@@ -1,1 +1,0 @@
-lar[85582]=`<b>προσ·εμφύομαι</b> <font color="darkgreen">(<i>ao.2</i> -ενέφον, <i>etc</i>.)</font> s’attacher en outre <i>ou</i> encore plus, DS. <i>Exc. 558, 69</i>.`

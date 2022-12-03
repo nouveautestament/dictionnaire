@@ -1,1 +1,0 @@
-lar[109814]=`<b>ψηφοφορέω-ῶ :<br>      1</b> apporter son suffrage (<i>litt</i>. son caillou) voter, DH. <i>4, 20</i> ; LUC. <i>Tim. 36, etc.</i><br><b>      2</b> désigner par son suffrage, élire, <i>acc</i>. DH. <i>10, 56</i>.<p><b>Étym</b>. ψηφοφόρος ; <i>cf</i>. ψηφηφορέω.`

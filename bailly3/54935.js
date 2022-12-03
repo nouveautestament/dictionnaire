@@ -1,1 +1,0 @@
-lar[54935]=`<b>ου (ὁ)</b> Kerdylas, <i>ép. de Zeus,</i> LYC. <i>1092</i>.`

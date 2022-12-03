@@ -1,1 +1,0 @@
-lar[5743]=`<b>άδος</b> <font color="purple">[ᾰμᾰδ]</font> <i>adj. f. c</i>. ἀμορβαῖος A.RH. <i>3, 881</i>.`

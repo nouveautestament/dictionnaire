@@ -1,1 +1,0 @@
-lar[59071]=`<b>ου (τὸ)</b> petite cellule d’abeille, ARSTT. <i>H.A. 9, 40</i>.<p><b>Étym</b>. κυψέλη.`

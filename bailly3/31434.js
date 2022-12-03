@@ -1,1 +1,0 @@
-lar[31434]=`<b>ἐκκληματόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> pousser des sarments, TH. <i>C.P. 3, 15, 4</i> ; GEOP. <i>5, 40</i>.`

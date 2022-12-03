@@ -1,1 +1,0 @@
-lar[23891]=`<b>Δεξι·θέα, ας (ἡ)</b> <font color="purple">[ῐ]</font> Dexithéa, <i>f</i>. MACH. (ATH. <i>580b</i>) ; PLUT. <i>Rom. 2</i>.<p><b>Étym</b>. <i>fém. de</i> Δεξίθεος.`

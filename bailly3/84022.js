@@ -1,1 +1,0 @@
-lar[84022]=`<b>      1</b> éveiller auparavant, <i>acc</i>. ARSTT. <i>Nic. 7, 7, 8</i>.<br><b>      2</b> <i>intr. au pf.2 (part</i>. προεγρηγορώς, υῖα, ός) être éveillé auparavant, ARSTT. <i>Probl. 18, 1</i>.`

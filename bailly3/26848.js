@@ -1,1 +1,0 @@
-lar[26848]=`<b>ατος (τὸ) :<br>   I</b> redressement :<br><b>      1</b> <i>au pr</i>. HPC. <i>Art. 1799</i>.<br><b>      2</b> <i>fig</i>. réforme, amélioration, ARSTT. <i>Pol. 3, 13</i> ; PLUT. <i>Num. 17</i>.<br><b>   II</b> instrument <i>ou</i> moyen pour redresser, HPC. <i>Art. 802</i>.<p><b>Étym</b>. διορθόω.`

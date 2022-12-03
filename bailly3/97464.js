@@ -1,1 +1,0 @@
-lar[97464]=`<i>forme récente p</i>. ταμιεῖον, PLUT. <i>M. 9e ;</i> BABR. <i>108, 2</i>.`

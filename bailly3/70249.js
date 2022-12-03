@@ -1,1 +1,0 @@
-lar[70249]=`<b>οἰακο·στρόφος, ος, ον</b> <font color="purple">[ᾱ]</font> qui dirige (<i>propr</i>. qui fait tourner) le gouvernail, PD. <i>I. 3, 89</i> ; ESCHL. <i>Sept. 62</i> ; EUR. <i>Med. 523</i>.<p><b>Étym</b>. οἴαξ, στρέφω.`

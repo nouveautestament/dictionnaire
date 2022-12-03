@@ -1,1 +1,0 @@
-lar[34449]=`<b>ἐν·ζωγραφέω-ῶ</b> <font color="purple">[ᾰ]</font> peindre dans, PLAT. <i>Phil. 40a</i>.`

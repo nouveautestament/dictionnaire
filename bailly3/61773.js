@@ -1,1 +1,0 @@
-lar[61773]=`<b>α, ον</b>, de lynx, ANTH. <i>App. 66</i>.<p><b>Étym</b>. λύγξ¹.`

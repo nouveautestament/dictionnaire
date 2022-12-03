@@ -1,1 +1,0 @@
-lar[31592]=`<b>ἔκ·λευκος, ος, ον</b>, d’une blancheur éclatante, HPC. <i>37, 33 ; 71e, etc.</i> ; ARSTT. <i>H.A. 9, 19</i> ; PLUT. <i>M. 292c</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>H.A. 8, 3, 2</i>.`

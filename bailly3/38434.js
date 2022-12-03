@@ -1,1 +1,0 @@
-lar[38434]=`<b>ἐπι·μήλιος, ου (ὁ)</b> protecteur des troupeaux, <i>ép. d’Apollon,</i> MACR. <i>Sat. 1, 17 ; ou d’Hermès,</i> PAUS. <i>9, 34, 3</i>.<p><b>Étym</b>. ἐπί, μῆλον.`

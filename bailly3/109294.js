@@ -1,1 +1,0 @@
-lar[109294]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> action de porter des vêtements <i>ou</i> des parures d’or, STR. <i>828</i> ; D. CHR. <i>p. 29b</i>.<p><b>Étym</b>. χρυσοφόρος.`

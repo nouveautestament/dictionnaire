@@ -1,1 +1,0 @@
-lar[20278]=`<b>βοστρυχόω-ῶ</b>, <i>f</i>. ώσω <font color="purple">[ῠ]</font> arranger en boucles, boucler, friser, A. TAT. <i>1, 19 ; p. anal. en parl. de la vigne,</i> EUM. <i>1, p. 5 ; ou du feuillage de certains arbres,</i> RHÉT. <i>1, 524 W</i>.<p><b>Étym</b>. βόστρυχος.`

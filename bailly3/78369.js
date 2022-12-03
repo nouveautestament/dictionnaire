@@ -1,1 +1,0 @@
-lar[78369]=`<i>adv</i>., avec une vive douleur, DC. <i>78, 24</i>.<p><b>Étym</b>. περιαλγής.`

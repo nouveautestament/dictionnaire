@@ -1,1 +1,0 @@
-lar[39766]=`<b>ἐπι·ψοφέω-ῶ</b> :<br><b>      1</b> retentir, CALL. <i>Dian. 247</i>.<br><b>      2</b> <i>p. suite,</i> applaudir, ŒNOM. (EUS. <i>P.E. 228e</i>).<p>➳ <i>Impf. 3 pl. poét</i>. ἐπεψόφεον, CALL. <i>l. c</i>.`

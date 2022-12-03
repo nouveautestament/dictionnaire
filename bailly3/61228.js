@@ -1,1 +1,0 @@
-lar[61228]=`<b>λινο·ερκής, ής, ές</b> <font color="purple">[ῐ]</font> pris <i>ou</i> enfermé dans un filet, NONN. <i>D. 26, 55</i>.<p><b>Étym</b>. λ. ἕρκος.`

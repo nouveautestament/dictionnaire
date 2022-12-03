@@ -1,1 +1,0 @@
-lar[40764]=`<b>ου (ὁ)</b> Érythos, <i>n. de lieu en Libye et n. d’h</i>. EPIGR. (ARSTT. <i>Mir. 133</i>).`

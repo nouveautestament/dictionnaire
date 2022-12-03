@@ -1,1 +1,0 @@
-lar[97429]=`<b>ταλα·πενθής, ής, ές</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui supporte une affliction, qui est dans le deuil, OD. <i>5, 222</i>.<br><b>      2</b> douloureux, pénible, PANYAS. (STOB. <i>Fl. 18, 22).</i><p><b>Étym</b>. *τλάω, πένθος.`

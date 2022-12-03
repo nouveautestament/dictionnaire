@@ -1,1 +1,0 @@
-lar[60658]=`<b>εως (ἡ)</b> leucôme <i>ou</i> cataracte, <i>maladie des yeux,</i> DIOSC. <i>5, 152</i>.<p><b>Étym</b>. λευκόω.`

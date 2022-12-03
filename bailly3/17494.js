@@ -1,1 +1,0 @@
-lar[17494]=`<b>αὐτο·θερμότης, ητος (ἡ)</b> chaleur naturelle, BAS.`

@@ -1,1 +1,0 @@
-lar[83439]=`<b>ου (τὸ)</b> fruit de l’yeuse, gland, GAL. <i>6, 357</i>.<p><b>Étym</b>. πρῖνος.`

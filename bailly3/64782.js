@@ -1,1 +1,0 @@
-lar[64782]=`<b>μετα·κυκλέομαι-οῦμαι</b>, déplacer son orbite, <i>en parl. d’un astre,</i> PLAT. <i>Epin. 982d</i>.<p><b>Étym</b>. μ. κύκλος.`

@@ -1,1 +1,0 @@
-lar[68105]=`<b>νεο·βρώς, ῶτος (ὁ, ἡ)</b> qui vient de manger, HPC. <i>De affect. c. 16</i>.<p><b>Étym</b>. ν. βιβρώσκω.`

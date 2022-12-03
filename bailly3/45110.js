@@ -1,1 +1,0 @@
-lar[45110]=`<b>Ἠθο·νόη, ης (ἡ)</b> Èthonoè, <i>propr</i>. nature intelligente, <i>mot créé par Platon pour expliquer l’étymologie d’Athèna,</i> PLAT. <i>Crat. 407b</i>.<p><b>Étym</b>. ἦθος, νοῦς.`

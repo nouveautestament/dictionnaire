@@ -1,1 +1,0 @@
-lar[21803]=`<b>γεροντο·γρᾴδιο</b> <font color="purple">[ᾱ]</font> <i>mauv. prononciat. par un Scythe de</i> *γεροντογρᾴδιον, petite vieille, AR. <i>Th. 1199 (sel. Dind</i>. γέροντο γρᾴδιο).<p><b>Étym</b>. γέρων, <i>dim. de</i> γραῦς.`

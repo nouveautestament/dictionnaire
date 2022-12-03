@@ -1,1 +1,0 @@
-lar[100009]=`<b>ου (ὁ)</b> = <i>lat</i>. Trebonius, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 43, Pomp. 52, etc</i>.`

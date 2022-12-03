@@ -1,1 +1,0 @@
-lar[31915]=`<i>adv</i>., en procédant de, NAZ. <i>2, 348b Migne</i>.`

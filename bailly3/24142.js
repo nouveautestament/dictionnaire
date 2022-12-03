@@ -1,1 +1,0 @@
-lar[24142]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui fait du mal, nuisible, funeste à, <i>gén</i>. OD. <i>18, 85 et 116 ; 21, 308</i> ; HDT. <i>2, 74 ; abs</i>. IL. <i>24, 33</i>.<p><b>Étym</b>. δηλέομαι.`

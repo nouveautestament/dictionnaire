@@ -1,1 +1,0 @@
-lar[56975]=`<b>κοπρο·λόγος, ου</b>, <i>adj. m.</i> :<br><b>      1</b> qui ramasse du fumier, AR. <i>Pax 9</i>.<br><b>      2</b> <i>p. ext. en gén</i>. vidangeur, AR. <i>Vesp. 1184</i> ; ARSTT. <i>fr. 408</i>.<p><b>Étym</b>. κόπρος, λέγω.`

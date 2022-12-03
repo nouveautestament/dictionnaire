@@ -1,1 +1,0 @@
-lar[63826]=`<b>μελάμ·φυλλος, ος, ον</b>, au feuillage sombre, PD. <i>P. 1, 53</i> ; SOPH. <i>O.C. 482</i> ; AR. <i>Th. 997</i> ; τὸ μελάμφυλλον, DIOSC. <i>Noth. 3, 19,</i> sorte d’acanthe.<p><b>Étym</b>. μ. φύλλον.`

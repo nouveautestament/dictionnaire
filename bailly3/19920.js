@@ -1,1 +1,0 @@
-lar[19920]=`<b>ιδος</b> <font color="purple">[ᾰῑῐδ]</font> <i>adj. f</i>. βλ. τρίχες, P. ÉG. <i>7, 225,</i> poils des paupières, cils.<p><b>Étym</b>. βλέφαρον.`

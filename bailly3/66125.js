@@ -1,1 +1,0 @@
-lar[66125]=`<b>ου (ὁ)</b> Mikhaèlios, <i>poète,</i> A. PL. <i>316</i>.`

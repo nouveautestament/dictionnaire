@@ -1,1 +1,0 @@
-lar[9772]=`<b>ἀντι·βλάπτω</b>, nuire à son tour <i>ou</i> par contre, ARSTT. <i>Nic. 5, 11, 2</i>.`

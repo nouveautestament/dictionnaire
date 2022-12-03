@@ -1,1 +1,0 @@
-lar[2522]=`<b>αἱμ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui attire le sang, DIOSC. <i>3, 137</i> ; RUF. (ORIB. <i>2, 214, 6 B.-Dar</i>.).<br><b>      2</b> <i>subst. c</i>. παιωνία, DIOSC. <i>3, 157</i>.<p><b>Étym</b>. αἷμα, ἄγω.`

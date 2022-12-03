@@ -1,1 +1,0 @@
-lar[60872]=`<b>λῃστο·σαλπιγκταί, ῶν (οἱ)</b> pirates <i>ou</i> brigands joueurs de trompettes, <i>càd</i>. les Tyrrhéniens, inventeurs de la trompette, MÉN. <i>fr. 926 Mein</i>.<p><b>Étym</b>. λῃστής, σ.`

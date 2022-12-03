@@ -1,1 +1,0 @@
-lar[85998]=`<b>προσ·κατορθόω-ῶ :<br>      1</b> ériger <i>ou</i> instituer en outre, HLD. <i>6, 13</i>.<br><b>      2</b> réussir en outre, DC. <i>49, 23</i>.`

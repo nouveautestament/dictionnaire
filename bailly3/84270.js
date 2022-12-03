@@ -1,1 +1,0 @@
-lar[84270]=`<b>εως (ἡ) :<br>      1</b> action de laisser aller, de lâcher, ARSTT. <i>H.A. 10, 2, 3, etc.</i><br><b>      2</b> profusion, prodigalité, ARSTT. <i>Nic. 2, 7, 4</i>.<p><b>Étym</b>. προΐημι.`

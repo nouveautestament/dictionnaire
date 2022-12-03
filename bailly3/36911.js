@@ -1,1 +1,0 @@
-lar[36911]=`<b>ἐπ·εγκαλέω-ῶ</b> <font color="purple">[ᾰ]</font> adresser un reproche, <i>rég. ind. au dat</i>. LYS. <i>112, 17</i>.`

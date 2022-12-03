@@ -1,1 +1,0 @@
-lar[109810]=`<b>ψηφο·παίκτης, ου (ὁ)</b> escamoteur, prestidigitateur, EUDOXE COM. <i>4, 508 Meineke</i> ; ALCIPHR. <i>3, 20</i> ; SEXT. <i>p. 116, 29 ; 682, 24</i>.<p><b>Étym</b>. ψῆφος, παίζω.`

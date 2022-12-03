@@ -1,1 +1,0 @@
-lar[57123]=`<b>ου (τὸ)</b> tempe, NIC. <i>Al. 135 au plur</i>.<p><b>Étym</b>. <i>cf</i>. κόρρη.`

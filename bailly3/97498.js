@@ -1,1 +1,0 @@
-lar[97498]=`<b>ῆς (ἡ)</b> le territoire de Tanagra, PLUT. <i>Per. 10</i>.<p><b>Étym</b>. Τάναγρα.`

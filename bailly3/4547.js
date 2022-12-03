@@ -1,1 +1,0 @@
-lar[4547]=`<b>ἁλι·ρραγής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> où se brise la mer, ANTH. <i>7, 383</i>.<p><b>Étym</b>. ἅ. ῥήγνυμι, <i>p</i>. *Ϝρήγνυμι.`

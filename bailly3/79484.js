@@ -1,1 +1,0 @@
-lar[79484]=`<b>περι·τεχνάομαι-ῶμαι</b>, s’ingénier à imaginer, à inventer, ANON. (SUID.).`

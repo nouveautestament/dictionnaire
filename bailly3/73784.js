@@ -1,1 +1,0 @@
-lar[73784]=`<i>crase att. p</i>. ὁ ἐχῖνος, AR. <i>Vesp. 1437</i>.`

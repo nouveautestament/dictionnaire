@@ -1,1 +1,0 @@
-lar[42808]=`<b>εὐ·νώμας, ου</b>, <i>adj. m</i>. qui se meut régulièrement, bien réglé, bien distribué, régulier, <i>en parl. du temps,</i> SOPH. <i>Aj. 604 (vulg</i>. εὐνόμας).<p>➳ <i>Sel. Bgk</i> εὐνῶμαι, <i>pass. de</i> εὐνάω.<p><b>Étym</b>. εὖ, νωμάω.`

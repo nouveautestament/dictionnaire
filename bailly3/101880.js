@@ -1,1 +1,0 @@
-lar[101880]=`<b>ὑπ·αγωνιάω-ῶ</b> <font color="purple">[ῠᾰγ]</font> être inquiet, être tourmenté, avoir peur, PHLÉG. TR. <i>Mir. c. 3, p. 127, 11 Westerm</i>.`

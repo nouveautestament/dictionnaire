@@ -1,1 +1,0 @@
-lar[86126]=`<b>*προσ·μαστιγόω-ῶ</b> <font color="purple">[ῐ]</font> fouetter en outre, BAS. <i>Hom. mor. p. 295</i>.`

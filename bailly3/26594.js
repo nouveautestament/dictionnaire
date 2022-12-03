@@ -1,1 +1,0 @@
-lar[26594]=`<b>δικτυ·άλωτος, ος, ον</b> <font color="purple">[ᾰ]</font> pris dans un filet, SYN. <i>Insomn. 9, 1308d Migne</i>.<p><b>Étym</b>. δίκτυον, ἁλίσκομαι.`

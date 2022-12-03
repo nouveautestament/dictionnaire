@@ -1,1 +1,0 @@
-lar[25644]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> colonne intermédiaire d’un portique, BITON <i>Mach. p. 109</i>.<p><b>Étym</b>. διάστυλος.`

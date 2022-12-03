@@ -1,1 +1,0 @@
-lar[90095]=`<b>α, ον</b> <font color="purple">[ῑᾰ]</font> silencieux, ANTH. <i>7, 597</i> ; ORPH. <i>Arg. 1001</i> ; APOLLIN. <i>Ps. 76, 9</i>.<p><b>Étym</b>. σιγή.`

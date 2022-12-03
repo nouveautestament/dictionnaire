@@ -1,1 +1,0 @@
-lar[107649]=`<b>χαλκο·βατής, ής, ές</b> <font color="purple">[βᾰ]</font> au sol, <i>càd</i>. au plancher d’airain, <i>ép. du palais de Zeus et du palais d’Alkinoos,</i> IL. <i>1, 426 ; 14, 173, etc.</i> ; OD. <i>8, 321 ; 13, 4</i>.<p><b>Étym</b>. χ. βαίνω.`

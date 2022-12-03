@@ -1,1 +1,0 @@
-lar[83955]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de former <i>ou</i> de façonner auparavant, CLÉM. <i>113</i>.<p><b>Étym</b>. προδιατυπόω.`

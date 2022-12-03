@@ -1,1 +1,0 @@
-lar[109088]=`<b>χρυσ·άρματος, ος, ον</b> <font color="purple">[ῡμᾰ]</font> au char d’or, PD. <i>O. 3, 35, etc</i>.<p><b>Étym</b>. χρ. ἅρμα.`

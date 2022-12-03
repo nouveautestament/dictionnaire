@@ -1,1 +1,0 @@
-lar[57695]=`<b>οῦ (ὁ)</b> bruit du plectre sur un instrument à cordes, <i>d’où</i> son de cet instrument, EPICH. (ATH. <i>183c</i>).<p><b>Étym</b>. κρέκω.`

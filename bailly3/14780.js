@@ -1,1 +1,0 @@
-lar[14780]=`<b>Ἀρι·φράδης (ὁ)</b> Ariphradès, <i>h</i>. AR. <i>Pax 883</i> ; LUC. <i>Pseud. 3, etc</i>.<p>➳ <i>Voc</i>. Ἀρίφραδες, AR. <i>Eccl. 129</i>.<p><b>Étym</b>. <i>v</i>. ἀριφραδής.`

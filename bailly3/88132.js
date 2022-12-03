@@ -1,1 +1,0 @@
-lar[88132]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> = <i>lat</i>. Popilia, <i>n. de f. rom</i>. ANTH. <i>App. 310</i>.`

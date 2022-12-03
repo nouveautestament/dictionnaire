@@ -1,1 +1,0 @@
-lar[86502]=`<b>προ·στρατοπεδεύομαι</b> <font color="purple">[ᾰ]</font> camper devant, DS. <i>14, 17</i>.`

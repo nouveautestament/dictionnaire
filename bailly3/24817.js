@@ -1,1 +1,0 @@
-lar[24817]=`<b>ῆς (ἡ) :<br>      1</b> coupure <i>ou</i> blessure profonde, HPC. <i>V.C. 900</i> ; PLUT. <i>Mar. 19, Brut. 20</i> ; GAL. <i>9, 258</i>.<br><b>      2</b> passage étroit, SPT. <i>Job 28, 4, etc. ; particul</i>. canal, POL. <i>10, 10, 13 ; ou</i> isthme, STR. <i>1, 3, 18 Kram</i>.<p><b>Étym</b>. διακόπτω.`

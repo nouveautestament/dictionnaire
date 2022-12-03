@@ -1,1 +1,0 @@
-lar[4543]=`<b>ἁλί·πορος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui voyage par mer, LUC. <i>Trag. 24</i>.<p><b>Étym</b>. ἅ. πείρω.`

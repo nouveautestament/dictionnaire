@@ -1,1 +1,0 @@
-lar[82156]=`<b>πολυ·νεφέλας, α</b> <font color="purple">[ῠᾱ]</font> <i>adj. m</i>. couvert de nuages, PD. <i>N. 3, 16</i>.<p><b>Étym</b>. π. νεφέλη.`

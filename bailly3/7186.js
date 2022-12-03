@@ -1,1 +1,0 @@
-lar[7186]=`<b>ἀνα·μηρυκάομαι-ῶμαι</b> <font color="purple">[ῠ]</font> ALEX. MYND. (ATH. <i>390f</i>) ; LUC. <i>Gall. 8,</i> ruminer.`

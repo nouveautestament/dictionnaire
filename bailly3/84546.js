@@ -1,1 +1,0 @@
-lar[84546]=`<b>προ·κενόω-ῶ</b>, vider auparavant, JOS. <i>B.J. 6, 7, 2 ; au pass</i>. LUC. <i>Alex. 13</i> ; HDN <i>2, 7</i>.`

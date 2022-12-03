@@ -1,1 +1,0 @@
-lar[104861]=`<font color="purple">[ᾱ]</font> <i>adv</i>., clairement, NAZ.<p>•<i> Sup</i>. φανότατα, LUC. <i>H. conscr. 44</i>.<p><b>Étym</b>. φανός¹.`

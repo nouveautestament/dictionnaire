@@ -1,1 +1,0 @@
-lar[57256]=`<b>ου (τὸ)</b> salle de dépôt pour les sculptures, <i>à Sicyone,</i> PAUS. <i>2, 7, 5</i>.<p><b>Étym</b>. κοσμέω.`

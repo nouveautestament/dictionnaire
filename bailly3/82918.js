@@ -1,1 +1,0 @@
-lar[82918]=`<b>ης (ἡ) :<br>      1</b> membre viril, AR. <i>Nub. 1014</i>.<br><b>      2</b> prépuce, DIOSC. <i>4, 157</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. ἀκρόβυστος.`

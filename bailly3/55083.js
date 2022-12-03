@@ -1,1 +1,0 @@
-lar[55083]=`<b>κεφαλ·ηγερέτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui exhausse (<i>propr</i>. qui amoncelle) sa tête, <i>surn. de Périclès, à cause de sa tête allongée, par jeu de mots avec</i> νεφεληγερέτης, CRAT. (PLUT. <i>Per. 3).</i><p><b>Étym</b>. κεφαλή, ἀγείρω.`

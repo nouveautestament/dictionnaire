@@ -1,1 +1,0 @@
-lar[3306]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> médecin, LYC. <i>1052</i>.<br><b>      2</b> qui raccommode <i>ou</i> répare, ALCIPHR. <i>3, 27</i>.<p><b>Étym</b>. ἀκέομαι.`

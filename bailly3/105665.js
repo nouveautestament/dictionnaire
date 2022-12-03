@@ -1,1 +1,0 @@
-lar[105665]=`<b>φιλ·ιππιδόομαι-οῦμαι</b> <font color="purple">[φῐπῐ]</font> être maigre et allongé comme Philippidès, ALEX. (ATH. <i>552f</i>) ; EL. <i>V.H. 10, 6</i>.<p><b>Étym</b>. <i>v</i>. Φιλιππίδης.`

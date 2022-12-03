@@ -1,1 +1,0 @@
-lar[9729]=`<b>*ἀντήεις</b>, <i>seul. dor</i>. <b>ἀντάεις, άεσσα, ᾶεν</b> <font color="purple">[τᾱ]</font> hostile, ennemi, PD. <i>P. 9, 96</i>.<p><b>Étym</b>. ἄντα.`

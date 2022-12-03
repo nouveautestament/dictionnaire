@@ -1,1 +1,0 @@
-lar[41301]=`<b>ἑτερο·δίδακτος, ος, ον</b> <font color="purple">[ῐ]</font> enseigné par un autre, <i>p. opp. à</i> αὐτοφυής, OLYMPIOD. <i>Plat. 1 Alc. p. 11</i>.<p><b>Étym</b>. ἕ. διδάσκω.`

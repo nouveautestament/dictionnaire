@@ -1,1 +1,0 @@
-lar[13366]=`<b>ἀπο·σπαράσσω</b>, <i>att</i>. <b>-σπαράττω</b> <font color="darkgreen">(<i>ao</i>. ἀπεσπάραξα)</font> <font color="purple">[πᾰ]</font> arracher un lambeau de, <i>acc</i>. EUR. <i>Bacch. 1127</i>.`

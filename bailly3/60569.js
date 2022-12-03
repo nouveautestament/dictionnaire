@@ -1,1 +1,0 @@
-lar[60569]=`<b>λευκό·ϊον, ου (τὸ) :<br>      1</b> giroflée blanche, quarantaine, <i>plante,</i> THCR. <i>Idyl. 7, 64</i>.<br><b>      2</b> boule-de-neige, <i>plante,</i> HPC. <i>570, 48, etc.</i> ; TH. <i>H.P. 6, 8, 1</i> ; PLUT. <i>M. 45f.</i><br><b>      3</b> essence de giroflée blanche, TH. <i>Od. 27</i>.<p><b>Étym</b>. λ. ἴον.`

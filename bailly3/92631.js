@@ -1,1 +1,0 @@
-lar[92631]=`<b>στιλπνόω-ῶ</b>, faire briller, GAL. <i>13, 255</i> ; ARR. <i>Epict. 2, 8, 2</i>.<p><b>Étym</b>. στιλπνός.`

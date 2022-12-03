@@ -1,1 +1,0 @@
-lar[31546]=`<b>ἐκ·λαμπρύνω</b> <font color="purple">[ῡ]</font> faire briller, JOS. <i>B.J. 7, 3, 3 ; au pass</i>. briller, DH. <i>2, 3</i>.`

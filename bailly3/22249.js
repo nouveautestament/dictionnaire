@@ -1,1 +1,0 @@
-lar[22249]=`<b>γλωττο·ποιέω-ῶ</b>, travailler de la langue, AR. <i>Vesp. 1283</i>.<p><b>Étym</b>. γλῶττα, ποιέω.`

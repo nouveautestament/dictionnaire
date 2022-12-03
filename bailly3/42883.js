@@ -1,1 +1,0 @@
-lar[42883]=`<b>ας (ἡ)</b> <font color="purple">[ῑθ]</font> bon augure, SOPH. <i>fr. 881</i>.<p><b>Étym</b>. εὔορνις.`

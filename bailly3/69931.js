@@ -1,1 +1,0 @@
-lar[69931]=`<b>α, ον</b> <font color="purple">[ῠ]</font> rasé <i>ou</i> tondu, SYN. <i>71a</i>.<p><b>Étym</b>. ξυρόν.`

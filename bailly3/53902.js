@@ -1,1 +1,0 @@
-lar[53902]=`<b>κατ·επερωτάω-ῶ</b>, interroger, ES. <i>22 de Furia</i>.`

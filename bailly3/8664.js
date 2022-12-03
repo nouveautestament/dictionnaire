@@ -1,1 +1,0 @@
-lar[8664]=`<b>ἀν·ήδομαι</b>, ne plus jouir de, <i>acc</i>. HERMIPP. <i>(Bkk. 25, 19).</i><p><b>Étym</b>. ἀνά, ἥ.`

@@ -1,1 +1,0 @@
-lar[1958]=`<i>adv</i>., lâchement, PLUT. <i>Pomp. 50</i>.`

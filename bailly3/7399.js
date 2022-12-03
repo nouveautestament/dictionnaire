@@ -1,1 +1,0 @@
-lar[7399]=`<b>ἀνα·πλήθω</b> (<i>seul. prés. et impf. ; les autres temps se rattachent à</i> ἀναπίμπλημι) :<br><b>      1</b> remplir, Q. SM. <i>11, 312</i>.<br><b>      2</b> être plein de, <i>dat</i>. Q. SM. <i>13, 22</i>.`

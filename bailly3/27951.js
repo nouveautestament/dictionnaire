@@ -1,1 +1,0 @@
-lar[27951]=`<b>δροσοβολέω-ῶ</b>, répandre de la rosée, humecter de rosée, PLUT. <i>M. 659b</i>.<p><b>Étym</b>. δροσοβόλος.`

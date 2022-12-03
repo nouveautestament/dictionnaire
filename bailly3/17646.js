@@ -1,1 +1,0 @@
-lar[17646]=`<b>αὐτό·πολις, εως (ἡ)</b> ville libre se régissant par elle-même, THC. <i>5, 79</i>.`

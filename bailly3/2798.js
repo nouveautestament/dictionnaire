@@ -1,1 +1,0 @@
-lar[2798]=`<b>αἰπύ·νωτος, ος, ον</b> <font color="purple">[ῠ]</font> sur le dos <i>ou</i> le plateau d’une montagne, ESCHL. <i>Pr. 832</i>.<p><b>Étym</b>. αἰπ. νῶτον.`

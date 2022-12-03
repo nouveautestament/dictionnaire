@@ -1,1 +1,0 @@
-lar[58592]=`<b>ος, ον</b>, de cygne, SOPH. <i>fr. 700</i> ; ANTH. <i>7, 12</i> ; τὸ κύκνειον (<i>s.-e</i>. ᾆσμα <i>ou</i> μέλος) ᾄδειν, CHRYSIPP. (ATH. <i>616b</i>) chanter le chant du cygne ; τὸ κ. ἐξηχεῖν, POL. <i>30, 4, 7, m. sign. prov. pour</i> « faire un appel désespéré ».<p><b>Étym</b>. κύκνος.`

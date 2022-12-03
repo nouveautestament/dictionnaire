@@ -1,1 +1,0 @@
-lar[3457]=`<b>ος, ον</b>, à jeun, IL. <i>19, 207, 346</i> ; ἄ. πόσιος καὶ ἐδητύος, IL. <i>19, 320,</i> qui n’a pris ni boisson ni aliment solide (<i>éol</i>. ἄκμη, jeûne, SCH.-IL. <i>19, 163</i>).`

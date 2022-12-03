@@ -1,1 +1,0 @@
-lar[5397]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> d’améthyste, LUC. <i>V.H. 2, 11</i>.<p><b>Étym</b>. ἀμέθυστος.`

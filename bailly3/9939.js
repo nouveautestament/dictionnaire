@@ -1,1 +1,0 @@
-lar[9939]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ᾰσ]</font> extension, HPC. <i>Art. 834</i>.<p><b>Étym</b>. ἀντικατατείνω.`

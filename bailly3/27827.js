@@ -1,1 +1,0 @@
-lar[27827]=`<b>ου (τὸ)</b> <font color="purple">[ᾱᾰ]</font> petite pièce de théâtre, PLUT. <i>Dem. 4</i>.<p><b>Étym</b>. δρᾶμα.`

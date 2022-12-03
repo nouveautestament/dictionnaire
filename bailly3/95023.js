@@ -1,1 +1,0 @@
-lar[95023]=`<b>συναυξο·μειόομαι-οῦμαι</b>, croître et décroître en même temps que, <i>dat</i>. STR. <i>p. 1314 Almelov</i>.<p><b>Étym</b>. συναύξω, μειόω.`

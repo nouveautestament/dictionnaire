@@ -1,1 +1,0 @@
-lar[108130]=`<b>χειρο·δοτέω-ῶ</b>, donner de la main à la main, PHIL. <i>1, 640, 29 dout</i>.<p><b>Étym</b>. χ. -δοτος <i>de</i> δίδωμι.`

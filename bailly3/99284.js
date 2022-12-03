@@ -1,1 +1,0 @@
-lar[99284]=`<b>      1</b> <i>dor. c</i>. σοί, <i>dat. de</i> σύ, PD. <i>O. 11, 113</i> ; THCR. <i>Idyl. 2, 11</i>.<br><b>      2</b> <i>dor. c</i>. σέ, <i>acc. de</i> σύ, THCR. <i>Idyl. 11, 39 ; 55, 68</i>.`

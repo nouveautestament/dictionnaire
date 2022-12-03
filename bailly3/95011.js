@@ -1,1 +1,0 @@
-lar[95011]=`<b>συν·αυαίνω</b>, faire sécher ensemble <i>ou</i> en même temps, <i>acc</i>. HPC. <i>Aër. 286</i> ; EUR. <i>Cycl. 463 ; au pass</i>. sécher en même temps, HPC. <i>420, 36</i> ; PLAT. <i>Phædr. 251d</i>.`

@@ -1,1 +1,0 @@
-lar[90085]=`<b>ης (ἡ)</b> <font color="purple">[ῐῡ]</font> épieu de chasseur, javelot, ALEX. (<i>Com. fr. 3, 442</i>) ; HIPPOLOCH. <i>et</i> EPHIPP. HIST. (ATH. <i>130b, 537e</i>) ; DS. <i>18, 27 ; 20, 33</i>.<p><b>Étym</b>. <i>emprunt ; cf</i>. ζιβύνη ; <i>non apparenté à</i> σιγύνης.`

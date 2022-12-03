@@ -1,1 +1,0 @@
-lar[107470]=`<b>Χαιρε·φάνης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Khæréphanès, <i>h</i>. PLUT. <i>Aud. poet. 3</i>.<p><b>Étym</b>. χαίρω, φαίνω.`

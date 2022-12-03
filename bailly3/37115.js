@@ -1,1 +1,0 @@
-lar[37115]=`<b>ἐπ·εξαπατάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> (<i>prés. impér. 2 sg</i>. ἐπεξαπάτα) tromper encore, MNÉSIM. (ATH. <i>359c</i>).`

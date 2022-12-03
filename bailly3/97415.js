@@ -1,1 +1,0 @@
-lar[97415]=`<font color="purple">[ᾰᾰ]</font> appeler malheureux <i>ou</i> regarder comme malheureux, ES. <i>113 ; 328 Halm</i> ; ORIG. <i>c. Cels. 6</i>.<p><b>Étym</b>. τάλας.`

@@ -1,1 +1,0 @@
-lar[11787]=`<i>adv</i>., inconsidérément, THC. <i>4, 10 ; 6, 57</i>.<p>•<i> Cp</i>. -ότερον, THC. <i>6, 65</i>.`

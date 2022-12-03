@@ -1,1 +1,0 @@
-lar[54963]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, PLAT. <i>Pol. 282b</i>, l’art du tissage avec la navette.<p><b>Étym</b>. κερκίζω.`

@@ -1,1 +1,0 @@
-lar[75857]=`<b>εως (ἡ) :<br>      1</b> action de prendre en main, de recueillir, <i>gén</i>. POL. <i>2, 3, 1</i> ; DS. <i>15, 95</i> ; ATH. <i>218c.</i><br><b>      2</b> prise d’une ville, POL. <i>2, 46, 2</i>.<br><b>      3</b> enseignement, doctrine, leçon, ARR. <i>Epict. 2, 11, 2, etc</i>.<p><b>Étym</b>. παραλαμβάνω.`

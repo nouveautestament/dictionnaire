@@ -1,1 +1,0 @@
-lar[33699]=`<b>ἔμ·φοβος, ος, ον :<br>      1</b> <i>act</i>. qui inspire la crainte, terrible, SOPH. <i>O.C. 39</i>.<br><b>      2</b> <i>pass</i>. épouvanté, craintif, SPT. <i>Sir. 19, 24</i>.<p><b>Étym</b>. ἐν, φέβομαι.`

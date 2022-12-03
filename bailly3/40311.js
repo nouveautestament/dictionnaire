@@ -1,1 +1,0 @@
-lar[40311]=`<b>οῦ (ὁ)</b> action de ramer, HDN GR. <i>Epim. p. 36 Boissonade</i>.<p><b>Étym</b>. ἐρέσσω.`

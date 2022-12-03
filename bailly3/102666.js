@@ -1,1 +1,0 @@
-lar[102666]=`<b>ὑπερ·νικάω-ῶ</b> <font color="purple">[ῑ]</font> vaincre tout à fait, triompher de, <i>acc</i>. NT. <i>Rom. 8, 37</i>.`

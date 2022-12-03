@@ -1,1 +1,0 @@
-lar[84446]=`<b>προ·καταγγέλλω</b>, annoncer <i>ou</i> déclarer d’avance, NT. <i>Ap. 3, 18, 2, 2Cor. 9, 5</i> ; JOS. <i>A.J. 2, 5, 2</i>.`

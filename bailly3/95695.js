@@ -1,1 +1,0 @@
-lar[95695]=`<b>συν·επιτρέπω</b>, confier en même temps le soin de, JOS. <i>A.J. 16, 6, 7</i>.`

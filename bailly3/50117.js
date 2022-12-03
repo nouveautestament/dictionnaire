@@ -1,1 +1,0 @@
-lar[50117]=`<b>ου</b> ou <b>Ἰψός, οῦ (ἡ)</b> Ipsos, <i>v. de Phrygie,</i> PLUT. <i>Pyrrh. 4</i>.`

@@ -1,1 +1,0 @@
-lar[58017]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font> teinture de safran, PHILSTR. <i>V. Ap. 4, p. 159</i>.<p><b>Étym</b>. κροκοβαφής.`

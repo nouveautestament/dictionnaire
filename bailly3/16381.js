@@ -1,1 +1,0 @@
-lar[16381]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> lieu de séance des astynomes, PLAT. <i>Leg. 918a</i>.<p><b>Étym</b>. ἀστυνόμος.`

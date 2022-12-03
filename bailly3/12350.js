@@ -1,1 +1,0 @@
-lar[12350]=`<b>ἀπο·δυσπετέω-ῶ</b>, se désister, se décourager, se dégoûter, ARSTT. <i>Top. 8, 14, 4</i> ; περί τι, PLUT. <i>M. 502e ;</i> πρός τι, LUC. <i>Rh. præc. 3</i> ; ἐπί τινι, CLÉM. <i>556,</i> de qqe ch.`

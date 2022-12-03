@@ -1,1 +1,0 @@
-lar[100072]=`<b>ας (ἡ)</b> <font color="purple">[ᾱκ]</font> durée de trente ans, DH. <i>2, 67</i>.<p><b>Étym</b>. τριακονταέτης.`

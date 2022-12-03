@@ -1,1 +1,0 @@
-lar[87506]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> obscénité, THCR. <i>Idyl. 5, 43</i>.<p><b>Étym</b>. πυγίζω.`

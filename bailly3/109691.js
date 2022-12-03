@@ -1,1 +1,0 @@
-lar[109691]=`<b>ψευδο·κλητήρ, ῆρος (ὁ)</b> celui qui déclare faussement avoir assigné qqn en justice, ATH. <i>254c</i>.<p><b>Étym</b>. ψ. καλέω.`

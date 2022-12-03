@@ -1,1 +1,0 @@
-lar[63133]=`<font color="purple">[μᾰ]</font> <i>c</i>. ματᾴζω EPIC. (DL. <i>10, 67</i>) ; LUC. <i>Luct. 16</i>.<p><b>Étym</b>. μάταιος.`

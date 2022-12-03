@@ -1,1 +1,0 @@
-lar[103458]=`<b>ή, όν</b>, qui tend à rester derrière, THÉON SM. <i>147, 7</i>.<p><b>Étym</b>. ὑπολείπω.`

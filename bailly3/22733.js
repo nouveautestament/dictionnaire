@@ -1,1 +1,0 @@
-lar[22733]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Gylippos :<br><b>      1</b> <i>général lacédémonien,</i> THC. <i>6, 93</i> ; PLUT. <i>Nic. 18, etc.</i> ; ANTH. <i>7, 435 ; etc.</i><br><b>      2</b> <i>autre,</i> PLUT. <i>Cleom. 1</i>.`

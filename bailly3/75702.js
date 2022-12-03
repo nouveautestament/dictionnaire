@@ -1,1 +1,0 @@
-lar[75702]=`<b>παρα·καττύομαι</b>, coudre côte à côte : στιβάδα, AR. <i>Pl. 663,</i> s’arranger un lit de feuillage.`

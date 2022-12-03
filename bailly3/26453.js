@@ -1,1 +1,0 @@
-lar[26453]=`<b>Διϊ·τρέφης, ους (ὁ)</b> <font color="purple">[ῐῑ]</font> Diitréphès (<i>litt</i>. nourrisson de Zeus) <i>n. d’h</i>. THC. <i>3, 75, etc.</i> ; AR. <i>Av. 798, 1442</i>.<p><b>Étym</b>. Διΐ <i>dat. de</i> Ζεύς, τρέφω.`

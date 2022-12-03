@@ -1,1 +1,0 @@
-lar[65146]=`<b>μετεωροπορέω-ῶ</b>, aller à travers les airs, PLAT. <i>Phædr. 246c ;</i> PHILSTR. <i>V. Ap. 3, 15</i> ; EL. <i>N.A. 3, 45, etc</i>.<p><b>Étym</b>. μετεωροπόρος.`

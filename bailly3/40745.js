@@ -1,1 +1,0 @@
-lar[40745]=`<b>ἐρυγάω-ῶ</b> <font color="purple">[ῠ]</font> <i>(seul. prés.) c</i>. ἐρυγγάνω GEOP. <i>17, 17, 1</i>.`

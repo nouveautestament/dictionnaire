@@ -1,1 +1,0 @@
-lar[17058]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> absence d’orgueil, modestie, MÉN. <i>(Bkk. 462, 6</i>) ; PLUT. <i>M. 582b</i>.<p><b>Étym</b>. ἄτυφος.`

@@ -1,1 +1,0 @@
-lar[102647]=`<b>ὑπερ·μεθύσκομαι</b> <font color="darkgreen">(<i>inf. ao</i>. ὑπερμεθυσθῆναι)</font> s’enivrer au delà de toute mesure, HDT. <i>2, 121</i> ; HÉRACLIDE CUM. (ATH. <i>145d</i>).`

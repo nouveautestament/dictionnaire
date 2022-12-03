@@ -1,1 +1,0 @@
-lar[106339]=`<b>ης, ες</b>, plein de veines, veineux, SIM. <i>fr. 3, 17</i> ; ARSTT. <i>H.A. 1, 15, 5 ; 7, 1, 15, etc</i>.<p>•<i> Sup</i>. -έστατος, ARSTT. <i>Respir. 5, 11</i>.<p><b>Étym</b>. φλέψ, -ωδης.`

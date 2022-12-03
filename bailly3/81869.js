@@ -1,1 +1,0 @@
-lar[81869]=`<b>πολυ·εθνής, ής, ές</b>, très populeux, <i>p. ext</i>. très nombreux, ORPH. <i>H. 78, 11</i>.<p><b>Étym</b>. π. ἔθνος.`

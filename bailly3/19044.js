@@ -1,1 +1,0 @@
-lar[19044]=`<b>ας (ἡ)</b> femme qui teint, teinturière, EUP. (POLL. <i>7, 169).</i><p><b>Étym</b>. βάπτω.`

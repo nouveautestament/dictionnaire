@@ -1,1 +1,0 @@
-lar[39464]=`<b>ἐπι·τραγηματίζω</b> <font color="purple">[ᾰᾰ]</font> (<i>seul. prés</i>.) servir comme un dessert de luxe, <i>càd</i>. superflu, JUL. <i>Ep. 24</i>.<p><b>Étym</b>. ἐπί, τραγάω.`

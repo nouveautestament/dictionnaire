@@ -1,1 +1,0 @@
-lar[50954]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰλ]</font> Kalæthis, <i>f</i>. THCR. <i>5, 15</i>.`

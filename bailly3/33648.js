@@ -1,1 +1,0 @@
-lar[33648]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action d’embraser, ARSTT. <i>Respir. 16, 1</i>.<p><b>Étym</b>. ἐμπυρόω.`

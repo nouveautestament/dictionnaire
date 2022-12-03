@@ -1,1 +1,0 @@
-lar[79359]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> entouré d’un nombreux auditoire, T. TAUR. (ATH. <i>163f</i>).<p><b>Étym</b>. περιΐστημι.`

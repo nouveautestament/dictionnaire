@@ -1,1 +1,0 @@
-lar[59900]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> cri rauque, <i>particul</i>. croassement, PLUT. <i>M. 129a</i>.<p><b>Étym</b>. λαρυγγίζω.`

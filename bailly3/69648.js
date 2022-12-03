@@ -1,1 +1,0 @@
-lar[69648]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de charrier du bois, NAZ. <i>3, 29 Migne</i>.<p><b>Étym</b>. <i>v</i>. ξυληγέω.`

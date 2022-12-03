@@ -1,1 +1,0 @@
-lar[107134]=`<b>έως</b>, <i>poét</i>. <b>έος (ὁ)</b> habitant <i>ou</i> originaire de Phyllos, <i>v. de Thessalie,</i> ANTH. <i>6, 234</i>.<p><b>Étym</b>. Φύλλος.`

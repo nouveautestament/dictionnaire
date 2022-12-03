@@ -1,1 +1,0 @@
-lar[106686]=`<b>ή, όν</b>, qui blanchit <i>ou</i> grisonne, LYC. <i>477</i>.`

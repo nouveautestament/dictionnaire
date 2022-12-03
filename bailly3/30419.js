@@ -1,1 +1,0 @@
-lar[30419]=`<b>(τὸ)</b> <font color="purple">[ᾰ]</font> <i>seul. nom. et acc. sg</i>. enveloppe, <i>d’où</i> abri : νηῶν, IL. <i>7, 338,</i> abri pour les vaisseaux ; κύματος, OD. <i>5, 257,</i> abri contre les flots.<p><b>Étym</b>. εἴλω.`

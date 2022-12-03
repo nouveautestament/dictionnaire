@@ -1,1 +1,0 @@
-lar[60498]=`<b>ου (ὁ)</b> Leskhès, <i>poète cyclique de Lesbos, auteur de la Petite Iliade</i>.`

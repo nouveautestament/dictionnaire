@@ -1,1 +1,0 @@
-lar[107762]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. χαμᾶθεν, PLUT. <i>M. 296</i>.<p><b>Étym</b>. χαμαί, -θεν.`

@@ -1,1 +1,0 @@
-lar[82502]=`<b>πολυ·φεγγής, ής, ές</b> <font color="purple">[ῠ]</font> très brillant, éclatant, MAN. <i>2, 347</i> ; NONN. <i>Jo. 12, 43</i>.<p><b>Étym</b>. π. φέγγος.`

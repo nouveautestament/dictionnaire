@@ -1,1 +1,0 @@
-lar[70917]=`<b>ὀλβιό·χειρος, ος, ον</b>, dont les mains procurent le bonheur, ORPH. <i>H. 23, 8 dout</i>.<p><b>Étym</b>. ὄ. χείρ.`

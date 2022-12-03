@@ -1,1 +1,0 @@
-lar[84556]=`<b>προ·κιρνάω-ῶ</b>, mêler auparavant, EUM. <i>p. 217</i>.`

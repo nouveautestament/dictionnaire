@@ -1,1 +1,0 @@
-lar[107527]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., d’une manière relâchée, mollement, HPC. <i>Fract. 763</i> ; POL. <i>34, 3, 5</i> ; GEOP. <i>5, 8, 4</i>.<p><b>Étym</b>. χαλαρός.`

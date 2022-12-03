@@ -1,1 +1,0 @@
-lar[39208]=`<b>ής, ές</b> <font color="purple">[ζῠ]</font> joint à, <i>dat</i>. JAMBL. <i>Nicom. ar. 121</i>.<p><b>Étym</b>. ἐπισυζεύγνυμι.`

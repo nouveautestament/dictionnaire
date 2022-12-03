@@ -1,1 +1,0 @@
-lar[58292]=`(<i>seul. prés. pass</i>.) <font color="purple">[ῐ]</font> adoucir, apprivoiser, PD. <i>fr. 223 Bgk</i>.<p><b>Étym</b>. κτίλος.`

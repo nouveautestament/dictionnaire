@@ -1,1 +1,0 @@
-lar[52667]=`<b>κατα·κυλίνδω</b> <i>ou mieux</i> <b>κατα·κυλίω</b> <font color="darkgreen">(<i>ao. pass</i>. κατεκυλίσθην, <i>part. pf. pass</i>. κατακεκυλισμένος)</font> <font color="purple">[ῠ]</font> <i>c</i>. κατακυλινδέω HDT. <i>5, 16</i> ; XÉN. <i>Cyr. 5, 3, 1</i> ; DH. <i>4, 26</i> ; SPT. <i>Jer. 51, 25, etc</i>.`

@@ -1,1 +1,0 @@
-lar[43500]=`<i>adv</i>., avec souplesse, adroitement, A. PL. <i>385</i>.`

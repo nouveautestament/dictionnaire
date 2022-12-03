@@ -1,1 +1,0 @@
-lar[81150]=`<b>ή, όν</b>, qui concerne le lavage, ARSTT. <i>Sens. 5, 1</i> ; ἡ πλυντική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 282a</i>, l’art de lessiver.<p><b>Étym</b>. πλύνω.`

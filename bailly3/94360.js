@@ -1,1 +1,0 @@
-lar[94360]=`<b>συμ·προέρχομαι</b>, s’avancer avec <i>ou</i> ensemble, SATYR. (ATH. <i>248f</i>) ; GAL. <i>4, 136, etc</i>.`

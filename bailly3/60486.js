@@ -1,1 +1,0 @@
-lar[60486]=`<b>ου (ἡ)</b> Lesbos (<i>auj</i>. Lésvos) <i>î. de la mer Égée,</i> IL. <i>24, 544 ; 2, 129, etc.</i> ; OD. <i>3, 169, etc.</i> ; XÉN. <i>Hell. 1, 2, 11, etc</i>.<p>➳ Λέσσβος <i>dans une inscr. att</i>. CIA. <i>2, add. 52, c, 32 (368 av. J.-C.) v. Meisterh. p. 69, 14</i>.`

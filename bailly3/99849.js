@@ -1,1 +1,0 @@
-lar[99849]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> de bouc, ANTH. <i>9, 558</i>.<p><b>Étym</b>. τράγος.`

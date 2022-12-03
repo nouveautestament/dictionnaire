@@ -1,1 +1,0 @@
-lar[77405]=`imiter son père, ALCIPHR. <i>3, 14</i> ; HDN <i>1, 7, 2</i> ; THÉM. <i>71b ;</i> τι, PHILSTR. <i>253,</i> en qqe ch.<p><b>Étym</b>. πατρῷος.`

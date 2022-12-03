@@ -1,1 +1,0 @@
-lar[85922]=`<b>προσ·κακόω-ῶ</b> <font color="purple">[ᾰ]</font> endommager en outre, <i>acc</i>. HPC. <i>47, 44</i>.`

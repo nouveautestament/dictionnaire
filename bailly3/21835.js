@@ -1,1 +1,0 @@
-lar[21835]=`<b>ου (τὸ)</b> petite tasse à déguster, AR. <i>fr. 285</i> ; PHÉRÉCR. (ATH. <i>481c</i>).<p><b>Étym</b>. γεύω.`

@@ -1,1 +1,0 @@
-lar[24711]=`<i>adv</i>., éternellement, PROCL. <i>328</i>.`

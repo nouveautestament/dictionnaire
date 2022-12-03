@@ -1,1 +1,0 @@
-lar[86431]=`<b>προσ·σφάττω</b>, égorger <i>ou</i> immoler auprès de, <i>rég. ind. au dat</i>. PLUT. <i>Brut. 28</i>.`

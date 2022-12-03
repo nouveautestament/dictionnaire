@@ -1,1 +1,0 @@
-lar[51510]=`<b>ης (ἡ)</b> Kanè (<i>auj</i>. Kara-dagh) <i>promont. d’Éolide,</i> HDT. <i>7, 42</i>.`

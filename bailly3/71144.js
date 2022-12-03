@@ -1,1 +1,0 @@
-lar[71144]=`<b>ου (ὁ) :<br>      1</b> petit gond de porte, SEXT. <i>M. 10, 54</i>.<br><b>      2</b> <i>au plur</i>. cavités des dents molaires, RUF.<p><b>Étym</b>. ὅλμος.`

@@ -1,1 +1,0 @@
-lar[81712]=`<b>Πολύ·ανθος, ου (ὁ)</b> Polyanthos :<br><b>      1</b> <i>fl. de Chaonie,</i> LYC. <i>1046</i>.<br><b>      2</b> <i>n. d’h</i>. ANTH. <i>7, 739</i>.<p><b>Étym</b>. π. ἄνθος.`

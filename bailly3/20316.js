@@ -1,1 +1,0 @@
-lar[20316]=`<b>βοτρυο·σταγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui dégoutte de la grappe, ARCHESTR. (ATH. <i>29c</i>).<p><b>Étym</b>. β. στάζω.`

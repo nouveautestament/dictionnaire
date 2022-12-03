@@ -1,1 +1,0 @@
-lar[96985]=`<b>ου (τὸ)</b> ce qui sert à ouvrir, <i>et, p. suite,</i> à fermer, <i>d’où</i> :<br><b>      1</b> verrou, gâchette, détente dans les machines de jet, HÉRON, PHIL. BYZ.<br><b>      2</b> barre de calage, verrou d’une porte, EN. TACT.<br><b>      3</b> lancette, bistouri, HIPPIATR.<p><b>Étym</b>. σχάζω.`

@@ -1,1 +1,0 @@
-lar[50629]=`<b>κακ·ανθήεις, ήεσσα, ῆεν</b> <font color="purple">[ᾰκ]</font> qui produit des fleurs malfaisantes, NIC. <i>Al. 420</i>.<p><b>Étym</b>. κ. ἄνθος.`

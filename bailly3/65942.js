@@ -1,1 +1,0 @@
-lar[65942]=`<b>μιξό·πυος, ος, ον</b> <font color="purple">[ῡ]</font> mêlé de pus, HPC. <i>948a</i>.<p><b>Étym</b>. μ. πῦον.`

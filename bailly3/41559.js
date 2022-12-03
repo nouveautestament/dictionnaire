@@ -1,1 +1,0 @@
-lar[41559]=`<i>adv</i>., avec une vigoureuse croissance, HPC. <i>2, 19</i>.<p><b>Étym</b>. εὐαλδής.`

@@ -1,1 +1,0 @@
-lar[62924]=`<b>ου (ὁ)</b> Mardos, <i>Perse,</i> ESCHL. <i>Pers. 774</i>.`

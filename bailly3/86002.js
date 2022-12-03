@@ -1,1 +1,0 @@
-lar[86002]=`<b>ή, όν</b>, qui a coutume de faire brûler la cuisine, POSIDIPP. (<i>Com. fr. 4, 513).</i><p><b>Étym</b>. προσκαίω.`

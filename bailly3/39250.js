@@ -1,1 +1,0 @@
-lar[39250]=`<b>ἐπι·συνωθέω-ῶ</b>, repousser, refouler, EPIC. (DL. <i>10, 104</i>).`

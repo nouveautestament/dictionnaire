@@ -1,1 +1,0 @@
-lar[73929]=`<font color="darkgreen">(<i>ao</i>. ὤχλασα)</font> s’agiter, <i>en parl. d’une foule,</i> AQU. <i>Ps. 58, 7, 15 ; 82, 3 ; Prov. 7, 11, etc</i>.<p><b>Étym</b>. ὄχλος.`

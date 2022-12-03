@@ -1,1 +1,0 @@
-lar[101150]=`<b>(ὁ)</b> Tyrrhakèos, <i>h</i>. ALC. <i>94</i>.`

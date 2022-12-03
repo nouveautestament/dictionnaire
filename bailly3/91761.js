@@ -1,1 +1,0 @@
-lar[91761]=`<b>ή, όν</b>, clairsemé, rare, étroit, ESCHL. <i>Ag. 556</i> ; CALL. <i>Dian. 19</i>.<p><b>Étym</b>. σπείρω.`

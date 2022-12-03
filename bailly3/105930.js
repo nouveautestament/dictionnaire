@@ -1,1 +1,0 @@
-lar[105930]=`<b>φιλο·μετάβολος, ος, ον</b> <font color="purple">[φῐᾰ]</font> qui aime le changement, inconstant, SEXT. <i>M. 1, 82</i>.<p><b>Étym</b>. φ. μεταβάλλω.`

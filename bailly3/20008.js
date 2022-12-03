@@ -1,1 +1,0 @@
-lar[20008]=`<b>βο·άνθεμον, ου (τὸ)</b> buphthalme <i>ou p.-ê</i>. chrysanthème, <i>plante,</i> HPC. (GAL.) ; NIC. (ATH. <i>683c</i>).<p><b>Étym</b>. βοῦς, ἄνθεμον.`

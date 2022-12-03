@@ -1,1 +1,0 @@
-lar[78953]=`<b>περι·νεύω :<br>      1</b> être incliné, <i>fig. en parl. d’une contrée,</i> STR. <i>358</i>.<br><b>      2</b> se pencher pour regarder tout autour, APP. <i>Civ. 4, 46</i>.`

@@ -1,1 +1,0 @@
-lar[85875]=`<b>εως (ἡ)</b> action d’écraser, AQU. <i>Ps. 42, 2</i>.<p><b>Étym</b>. προσθλίβω.`

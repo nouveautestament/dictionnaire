@@ -1,1 +1,0 @@
-lar[25446]=`<b>δια·ρραίνω</b> (<i>pf</i>. διέρραγκα) :<br><b>      1</b> faire jaillir de côté et d’autre, <i>d’où au pass</i>. jaillir de tous côtés, SOPH. <i>Tr. 14</i>.<br><b>      2</b> arroser, SPT. <i>Prov. 7, 17</i>.<p><b>Étym</b>. <i>au pf</i>. διέρραγκα.`

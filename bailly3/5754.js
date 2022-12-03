@@ -1,1 +1,0 @@
-lar[5754]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. de lin fin <i>ou</i> de pourpre, AR. <i>Lys. 736</i>.<p><b>Étym</b>. <i>cf</i>. ἀμόργινος.`

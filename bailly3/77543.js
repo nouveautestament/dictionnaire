@@ -1,1 +1,0 @@
-lar[77543]=`<i>adv</i>., dans la plaine, <i>avec mouv</i>. IL. <i>11, 492</i> ; OD. <i>15, 183</i>.<p><b>Étym</b>. πεδίον, -δε.`

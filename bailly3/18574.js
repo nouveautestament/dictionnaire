@@ -1,1 +1,0 @@
-lar[18574]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰῠ]</font> <i>v</i>. ἀχυρμός.`

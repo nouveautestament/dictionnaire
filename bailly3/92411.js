@@ -1,1 +1,0 @@
-lar[92411]=`<i>adv</i>., solidement, fortement, HPC. <i>380, 50</i>.<p><b>Étym</b>. στερέμνιος.`

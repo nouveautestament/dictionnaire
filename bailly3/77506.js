@@ -1,1 +1,0 @@
-lar[77506]=`<b>παχύ·φωνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> <i>au cp</i>. -ότερος, au son épais, A. QUINT. <i>p. 46</i>.<p><b>Étym</b>. π. φωνή.`

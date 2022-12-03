@@ -1,1 +1,0 @@
-lar[57620]=`<b>ου (τὸ)</b> <font color="purple">[ᾱᾰ]</font> sorte de coupe, POLÉM. (ATH. <i>479f</i>).`

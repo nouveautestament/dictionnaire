@@ -1,1 +1,0 @@
-lar[65179]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> <i>c</i>. μετοικισμός DS. <i>14 fin</i>.<p><b>Étym</b>. <i>argum</i>.`

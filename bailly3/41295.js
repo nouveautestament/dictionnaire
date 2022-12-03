@@ -1,1 +1,0 @@
-lar[41295]=`<i>adv</i>., dans une autre langue, CHRYS. <i>4, 234</i>.`

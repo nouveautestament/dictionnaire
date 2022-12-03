@@ -1,1 +1,0 @@
-lar[55226]=`<b>(ὁ)</b> Kèpée, <i>Centaure,</i> NONN. <i>D. 14, 188</i>.`

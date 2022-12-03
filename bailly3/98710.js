@@ -1,1 +1,0 @@
-lar[98710]=`<font color="purple">[ᾰῐ]</font> <i>adv. c</i>. τέτραχα, HPC.`

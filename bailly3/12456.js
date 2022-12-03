@@ -1,1 +1,0 @@
-lar[12456]=`<b>ἀ·ποίκιλτος, ος, ον</b>, non peint de couleurs variées, CLÉM. <i>286</i>.<p><b>Étym</b>. ἀ, ποικίλλω.`

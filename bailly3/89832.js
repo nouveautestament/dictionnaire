@@ -1,1 +1,0 @@
-lar[89832]=`<b>ου (τὸ)</b> <i>litt</i>. « la vénération », <i>n. d’une fête d’Apollon, à Delphes, appelée aussi</i> ἐνναετηρίς, PLUT. <i>M. 293b</i>.<p><b>Étym</b>. σέβω.`

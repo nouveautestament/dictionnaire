@@ -1,1 +1,0 @@
-lar[83950]=`<b>προ·διασύρω</b> <font color="purple">[ῡ]</font> décrier le premier, ARSTT. <i>Rhet. 3, 17, 14, etc</i>.`

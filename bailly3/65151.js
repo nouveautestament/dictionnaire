@@ -1,1 +1,0 @@
-lar[65151]=`<b>ου (τὸ)</b> instrument pour déterminer la hauteur des astres, PTOL. <i>Geogr. 1, 3</i>.<p><b>Étym</b>. μετεωροσκόπος.`

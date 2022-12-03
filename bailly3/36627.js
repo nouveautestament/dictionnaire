@@ -1,1 +1,0 @@
-lar[36627]=`<b>ἐπ·αναπέμπω</b> (<i>prés. inf</i>.) ramener, faire revenir, HPC. <i>648, 7</i>.`

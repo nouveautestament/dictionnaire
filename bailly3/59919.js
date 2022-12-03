@@ -1,1 +1,0 @@
-lar[59919]=`<b>λασιό·κωφος, ος, ον</b> <font color="purple">[ᾰ]</font> rendu sourd par les poils qui poussent dans ses oreilles, PLAT. <i>Phædr. 253e ; cf</i>. SYN. <i>67d</i>.<p><b>Étym</b>. λ. κωφός.`

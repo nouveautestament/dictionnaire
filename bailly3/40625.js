@@ -1,1 +1,0 @@
-lar[40625]=`<b>ἑρμο·δάκτυλον, ου (τὸ)</b> <font color="purple">[ῠ]</font> sorte de plante (<i>Colchicum autumnale L., sel. d’autres, Iris tuberosa L</i>.) DIOSC. <i>Noth. 4, 42</i>.<p><b>Étym</b>. Ἑ. δάκτυλος.`

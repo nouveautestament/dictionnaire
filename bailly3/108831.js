@@ -1,1 +1,0 @@
-lar[108831]=`<b>χορο·πλεκής, ής, ές</b>, qui entrelace les évolutions du chœur, NONN. <i>D. 6, 49 ; 14, 33, etc</i>.<p><b>Étym</b>. χ. πλέκω.`

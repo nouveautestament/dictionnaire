@@ -1,1 +1,0 @@
-lar[12455]=`<b>ἀ·ποίκιλος, ος, ον</b> <font color="purple">[ῐ]</font> sans variété, PHIL. <i>1, 369, etc</i>.<p><b>Étym</b>. ἀ, ποικίλος.`

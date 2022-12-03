@@ -1,1 +1,0 @@
-lar[80722]=`<font color="purple">[ᾰτ]</font><br><b>      1</b> ouvrir une large bouche, <i>d’où</i> aimer les sons ouverts, comme les Doriens, THCR. <i>Idyl. 15, 88</i>.<br><b>      2</b> frapper du plat de la main, PHÉRÉCR. (<i>Com. fr. 2, 352, corr. p</i>. πλατιάζω).<p>➳ <i>Dor</i>. πλατειάσδω, THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. πλατύς.`

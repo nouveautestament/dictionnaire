@@ -1,1 +1,0 @@
-lar[65250]=`<b>α, ον</b>, placé sur le front, GAL. <i>12, 476, etc.</i> ; ORIB. <i>p. 93 Mai, etc</i>.<p><b>Étym</b>. μέτωπον.`

@@ -1,1 +1,0 @@
-lar[64081]=`<b>ου (ὁ)</b> Mélissos, <i>h</i>. PD. <i>I. 3, 9</i> ; PLAT. <i>Theæt. 186e, etc</i>.`

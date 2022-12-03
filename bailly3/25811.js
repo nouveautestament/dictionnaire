@@ -1,1 +1,0 @@
-lar[25811]=`<i>adv</i>., clairement, PHIL. <i>1, 646</i>.<p><b>Étym</b>. διαυγής.`

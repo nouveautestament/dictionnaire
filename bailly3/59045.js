@@ -1,1 +1,0 @@
-lar[59045]=`<b>κυφ·αγωγὸς ἵππος (ὁ)</b> <font color="purple">[ῠᾰ]</font> cheval qui penche le cou de côté, XÉN. <i>Eq. 7, 10</i>.<p><b>Étym</b>. κυφός, ἄγω.`

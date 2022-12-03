@@ -1,1 +1,0 @@
-lar[50438]=`<i>vb. de</i> καθίζω, SOR. <i>Obst. p. 103 Erm</i>.`

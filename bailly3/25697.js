@@ -1,1 +1,0 @@
-lar[25697]=`<b>ου (ὁ)</b> celui qui dirige, qui ordonne, HERM. (STOB. <i>Ecl. 1, 1084).</i><p><b>Étym</b>. διατάσσω.`

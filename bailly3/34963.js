@@ -1,1 +1,0 @@
-lar[34963]=`presser dans, entasser dans, Q. SM. <i>9, 179</i>.`

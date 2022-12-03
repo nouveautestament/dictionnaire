@@ -1,1 +1,0 @@
-lar[33608]=`<b>ἐμπροσθ·ουρητικός, ή, όν</b>, qui urine par devant, ARSTT. <i>H.A. 3, 1, 3</i>.<p><b>Étym</b>. ἔ. οὐρέω.`

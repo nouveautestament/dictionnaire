@@ -1,1 +1,0 @@
-lar[100761]=`<font color="purple">[ᾰ]</font> rouler, tournoyer, PHÉRÉC. (SCH.-A.RH. <i>4, 1091).</i><p><b>Étym</b>. τροχαλός.`

@@ -1,1 +1,0 @@
-lar[43777]=`<b>εὐ·χαίτης, ου</b>, <i>adj. m.</i> :<br><b>      1</b> à la belle <i>ou</i> épaisse chevelure, CALL. <i>Ep. 56</i> ; ANTH. <i>9, 524, etc.</i> ; DS. <i>20, 54</i>.<br><b>      2</b> au feuillage touffu, ANTH. <i>4, 1, 51 ; d’où</i> boisé, NONN. <i>D. 13, 63</i>.<p><b>Étym</b>. εὖ, χαίτη.`

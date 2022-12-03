@@ -1,1 +1,0 @@
-lar[105288]=`<b>φθειρο·τραγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger des poux, HDT. <i>4, 109</i>.<p><b>Étym</b>. φθ. τρώγω.`

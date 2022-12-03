@@ -1,1 +1,0 @@
-lar[36173]=`<b>ἐξ·οργάω-ῶ</b>, être transporté de désir, PLUT. <i>M. 652d</i>.`

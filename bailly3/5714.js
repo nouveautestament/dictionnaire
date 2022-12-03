@@ -1,1 +1,0 @@
-lar[5714]=`<b>ἀ·μοθεί</b>, <i>adv</i>., sans querelle, sans dissension, THC. <i>5, 77 (var</i>. ἀμόθι).<p><b>Étym</b>. ἀ, μόθος.`

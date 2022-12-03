@@ -1,1 +1,0 @@
-lar[105666]=`<font color="purple">[φῐ]</font> être du parti de Philippe, DÉM. <i>287, 1</i> ; ESCHN. <i>72, 14</i> ; PLUT. <i>M. 844f</i>.<p><b>Étym</b>. Φίλιππος.`

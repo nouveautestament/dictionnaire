@@ -1,1 +1,0 @@
-lar[13013]=`<b>ἀπο·ξύω</b>, racler, gratter, <i>acc</i>. TH. <i>H.P. 9, 4, 4 ; fig</i>. ἀπ. γῆρας, IL. <i>9, 446,</i> faire disparaître la vieillesse ; τὸ ἐρυθριᾶν ἀπ. τοῦ προσώπου, LUC. <i>V. auct. 10,</i> effacer la rougeur du visage ; <i>cf</i>. ἀποξέω.`

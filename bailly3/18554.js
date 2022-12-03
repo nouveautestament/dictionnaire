@@ -1,1 +1,0 @@
-lar[18554]=`<b>ἄ·χρωμος, ος, ον</b>, dont le visage ne se colore pas, qui ne rougit pas, sans pudeur, HPC. <i>1240d ;</i> ARTÉM.<p><b>Étym</b>. ἀ, χρῶμα.`

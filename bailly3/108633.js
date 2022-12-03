@@ -1,1 +1,0 @@
-lar[108633]=`<b>ατος (τὸ)</b> friandise, <i>litt</i>. morceau à croquer, COM. (POLL. <i>6, 22).</i><p><b>Étym</b>. χναύω.`

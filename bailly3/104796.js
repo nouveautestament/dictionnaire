@@ -1,1 +1,0 @@
-lar[104796]=`<b>Φαν·αγόρης, εω (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Phanagoras, <i>h</i>. HDT. <i>7, 214</i>.<p><b>Étym</b>. φαίνω, ἀγορά.`

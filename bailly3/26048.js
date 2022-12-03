@@ -1,1 +1,0 @@
-lar[26048]=`<b>διδυμο·γενής, ής, ές</b> <font color="purple">[ῐῠ]</font> jumeau, EUR. <i>Hel. 206</i>.<p><b>Étym</b>. δίδυμος, γίγνομαι.`

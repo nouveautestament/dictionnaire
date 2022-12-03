@@ -1,1 +1,0 @@
-lar[105971]=`<b>Φιλο·ξένη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Philoxénè, <i>f</i>. ESCHN. <i>Tim. 115 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>fém. de</i> Φιλόξενος.`

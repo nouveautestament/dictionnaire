@@ -1,1 +1,0 @@
-lar[56093]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> climat, région, ANTH. <i>7, 699</i>.<br><b>      2</b> pente, penchant, LYC. <i>600, 737</i> ; SPT. <i>Ezech. 47, 1 etc</i>.<p><b>Étym</b>. κλίνω.`

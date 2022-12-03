@@ -1,1 +1,0 @@
-lar[28611]=`<b>δύσ·κρατος, ος, ον</b> <font color="purple">[ᾱ]</font> mal tempéré, mal équilibré, <i>en parl. de la température,</i> STR. <i>96</i> ; GAL. <i>2, 81</i>.<p><b>Étym</b>. δ. κεράννυμι.`

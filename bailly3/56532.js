@@ -1,1 +1,0 @@
-lar[56532]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> fils de roi, prince, SOPH. <i>Ant. 940</i>.<p><b>Étym</b>. κοίρανος.`

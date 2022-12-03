@@ -1,1 +1,0 @@
-lar[62244]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de magicien, PLUT. <i>Them. 29</i>.<br><b>      2</b> de magie, Ps.-PHOCYL. <i>149</i>.<p><b>Étym</b>. μάγος.`

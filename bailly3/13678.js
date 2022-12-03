@@ -1,1 +1,0 @@
-lar[13678]=`<b>οῦ (ὁ)</b> <font color="purple">[πᾰ]</font> bastonnade, CHRYS. <i>4, 567</i>.<p><b>Étym</b>. <i>v</i>. ἀποτυμπανίζω.`

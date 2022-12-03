@@ -1,1 +1,0 @@
-lar[73949]=`<b>ὀχλο·ποιέω-ῶ</b>, faire des rassemblements, NT. <i>Ap. 17, 5</i>.<p><b>Étym</b>. ὄ. ποιέω.`

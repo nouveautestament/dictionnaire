@@ -1,1 +1,0 @@
-lar[3610]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’entendre, ARSTT. <i>An. 3, 2</i>.<p><b>Étym</b>. ἀκούω.`

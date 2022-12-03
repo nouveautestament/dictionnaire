@@ -1,1 +1,0 @@
-lar[66939]=`<b>ατος (τὸ) :<br>      1</b> travail, ESCHL. <i>Pr. 463</i> ; EUR. <i>Ion 1129</i>.<br><b>      2</b> souffrance, SOPH. <i>O.C. 1616, etc</i>.<p><b>Étym</b>. μοχθέω.`

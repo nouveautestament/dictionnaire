@@ -1,1 +1,0 @@
-lar[48878]=`<b>ἱλαρ·ῳδός, οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui compose <i>ou</i> chante des chants joyeux, ARISTOCL. (ATH. <i>621c</i>).<p><b>Étym</b>. ἱλαρός, ᾠδή.`

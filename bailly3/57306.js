@@ -1,1 +1,0 @@
-lar[57306]=`<b>ου (ὁ)</b> = <i>lat</i>. Cossus, <i>n. d’h. rom</i>. PLUT. <i>Marc. 8, etc</i>.`

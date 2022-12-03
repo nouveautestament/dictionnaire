@@ -1,1 +1,0 @@
-lar[46049]=`<b>Ἥφαιον ὄρος (τὸ)</b> le mt Héphæum, <i>en Campanie,</i> PLUT. <i>Syll. 27</i>.`

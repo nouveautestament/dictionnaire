@@ -1,1 +1,0 @@
-lar[100802]=`<b>ου (τὸ)</b> <i>non</i> τρυβλίον <font color="purple">[ῡ]</font> bol, plat, assiette, AR. <i>Eq. 648, etc.</i> ; HPC. <i>683, 47 ; fig</i>. AR. <i>Ach. 278, Eq. 905 ; t. de méd</i>. bol d’une certaine contenance, <i>c</i>. κοτύλη, HPC. <i>531, 51, etc. (dim. seul. de forme, v</i>. ARCAD. <i>119, 19).</i>`

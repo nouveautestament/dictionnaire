@@ -1,1 +1,0 @@
-lar[28900]=`<b>δυσ·σύμφυτος, ος, ον</b> <font color="purple">[φῠ]</font> qui s’agglutine difficilement, GAL. <i>10, 113</i>.<p><b>Étym</b>. δ. συμφύω.`

@@ -1,1 +1,0 @@
-lar[82007]=`<b>πολυ·κλόπος, ος, ον</b>, qui commet des vols nombreux, OPP. <i>C. 3, 267</i>.<p><b>Étym</b>. π. κλέπτω.`

@@ -1,1 +1,0 @@
-lar[90291]=`<b>εως (ἡ)</b> <font color="purple">[σῐ]</font> fleur de la farine du froment, GAL. <i>6, 483</i>.<p><b>Étym</b>. <i>cf. lat</i>. siligo.`

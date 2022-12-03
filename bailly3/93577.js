@@ -1,1 +1,0 @@
-lar[93577]=`<b>συγ·κυρκανάω-ῶ</b> <font color="purple">[κᾰ]</font> <i>c</i>. συγκυκάω, EPINIC. (ATH. <i>432c</i>).`

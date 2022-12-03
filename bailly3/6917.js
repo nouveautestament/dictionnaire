@@ -1,1 +1,0 @@
-lar[6917]=`<b>ἀν·ακέομαι-οῦμαι</b> <font color="purple">[ᾰκ]</font> remettre en bon état, réparer, EL. <i>N.A. 5, 19</i>.`

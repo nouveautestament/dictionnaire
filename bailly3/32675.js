@@ -1,1 +1,0 @@
-lar[32675]=`<b>ἐλελί·χθων, ων, ον</b>, <i>gén</i>. <b>-ονος</b>, qui ébranle la terre, <i>ép. de Poséidon,</i> PD. <i>P. 6, 50, et de Bacchus, à cause des danses bachiques,</i> SOPH. <i>Ant. 153</i>.<p>➳ <i>Voc</i>. -ιχθον, PD. <i>l. c. (var</i>. ἐλάσιχθον).<p><b>Étym</b>. ἐλελίζω¹, χθών.`

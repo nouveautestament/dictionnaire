@@ -1,1 +1,0 @@
-lar[58080]=`<b>ων (τὰ)</b> <i>seul. lat</i>. crotalia, pendant d’oreilles, PLIN. <i>H.N. 9, 56</i>.<p><b>Étym</b>. κρόταλον.`

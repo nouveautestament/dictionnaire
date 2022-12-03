@@ -1,1 +1,0 @@
-lar[36856]=`<b>ἐπ·αυρίζω</b>, souffler, <i>en parl. du vent,</i> JOS. <i>B.J. 1, 21, 5</i>.<p><b>Étym</b>. ἐπί, αὔρα.`

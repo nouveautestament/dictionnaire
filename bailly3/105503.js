@@ -1,1 +1,0 @@
-lar[105503]=`<b>φιλ·άργυρος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime l’argent, avare, SOPH. <i>Ant. 1055</i> ; τὸ φιλάργυρον, PLAT. <i>Rsp. 347b</i>, l’amour de l’argent.<p>•<i> Sup</i>. -ώτατος, XÉN. <i>Mem. 3, 1, 10 ; 3, 13, 4</i>.`

@@ -1,1 +1,0 @@
-lar[103761]=`<b>ὑπό·πωλος, ος, ον</b>, qui allaite <i>ou</i> élève un poulain, <i>en parl. d’une jument,</i> STR. <i>351</i> ; HIPPIATR. <i>p. 260, 29</i>.<p><b>Étym</b>. ὑ. πῶλος ; <i>cf</i>. ὑπόπορτις.`

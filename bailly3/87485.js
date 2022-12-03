@@ -1,1 +1,0 @@
-lar[87485]=`<b>ας (ἡ)</b> action de nourrir les mendiants, les pauvres, BAS. <i>4, 592</i> ; NAZ. <i>2, 505, etc. Migne</i>.<p><b>Étym</b>. πτωχοτρόφος.`

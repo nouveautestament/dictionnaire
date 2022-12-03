@@ -1,1 +1,0 @@
-lar[83652]=`<b>προ·αποκληρόω-ῶ</b>, tirer d’avance au sort, LUC. <i>Bis acc. 14</i>.`

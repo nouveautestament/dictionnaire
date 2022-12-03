@@ -1,1 +1,0 @@
-lar[24190]=`<b>ή, όν</b>, de tribun du peuple, <i>à Rome,</i> DS. <i>Exc. Vat. 115, 30</i> ; PLUT. <i>Cato mi. 40</i> ; δ. ἐξουσία, DC. <i>54, 28</i>, pouvoir de tribun.<p><b>Étym</b>. δήμαρχος.`

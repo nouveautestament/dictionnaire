@@ -1,1 +1,0 @@
-lar[67562]=`<b>ων (οἱ)</b> <font color="purple">[ᾰᾰ]</font> les Nabatéens, <i>pple d’Arabie,</i> PLUT. <i>Pomp. 67, Ant. 36, etc</i>.`

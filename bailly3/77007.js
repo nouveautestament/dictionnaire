@@ -1,1 +1,0 @@
-lar[77007]=`<i>adv</i>., en passant, NYSS.`

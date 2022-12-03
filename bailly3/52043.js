@@ -1,1 +1,0 @@
-lar[52043]=`<b>κασιό·πνους, ους, ουν</b>, <i>gén</i>. <b>ου</b> <font color="purple">[ᾰ]</font> qui exhale l’odeur de la cannelle, ANTIPH. (ATH. <i>449d</i>).<p><b>Étym</b>. κασία, πνέω.`

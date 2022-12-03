@@ -1,1 +1,0 @@
-lar[103701]=`<b>ὑπό·πλουτος, ος, ον</b>, riche en produits souterrains (métaux, minerai, <i>etc</i>.) POSIDON. (STR. <i>147).</i><p><b>Étym</b>. ὑ. πλοῦτος.`

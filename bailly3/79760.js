@@ -1,1 +1,0 @@
-lar[79760]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Perrhæbie, STR. <i>439</i> ; NONN. <i>D. 7, 125</i>.<p><b>Étym</b>. <i>v</i>. Περραιβία.`

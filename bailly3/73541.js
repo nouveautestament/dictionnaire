@@ -1,1 +1,0 @@
-lar[73541]=`<i>seul. pl</i>. <b>αἱ οὐλαί</b>, <i>att</i>. <b>ὀλαί</b>, grains d’orge entiers <i>ou</i> grossièrement moulus que l’on faisait griller, et qu’on répandait sur la tête de la victime et sur l’autel, OD. <i>3, 441</i> ; HDT. <i>1, 132, 160</i> ; AR. <i>Pax 948, 960</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

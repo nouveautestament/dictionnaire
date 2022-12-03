@@ -1,1 +1,0 @@
-lar[107014]=`<b>α, ον</b> <font color="purple">[ῠᾰ]</font> <i>vb. de</i> φυγαδεύω, JAMBL. <i>V. Pyth. 34 ; au neutre,</i> PORPH. <i>V. Pyth. 22</i>.`

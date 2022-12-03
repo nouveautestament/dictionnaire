@@ -1,1 +1,0 @@
-lar[105461]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> affection mutuelle, NICOM. <i>Arithm. 2, 19, p. 134</i>.<p><b>Étym</b>. φιλάλληλος.`

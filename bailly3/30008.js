@@ -1,1 +1,0 @@
-lar[30008]=`<b>ης (ἡ)</b> Édessa :<br><b>      1</b> <i>v. de Macédoine (auj</i>. Édessa) PLUT. <i>Pyrrh. 10 et 12, Demetr. 43, etc.</i><br><b>      2</b> <i>v. de Mésopotamie,</i> LUC. <i>H. conscr. 22</i>.`

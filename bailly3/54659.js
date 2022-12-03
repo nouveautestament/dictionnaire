@@ -1,1 +1,0 @@
-lar[54659]=`<b>οῦ</b>, <i>adj. m.</i> :<br><b>      1</b> Celte, LUC. <i>Herc. 4 ; au pl</i>. οἱ Κελτοί, HDT. <i>2, 33, etc.</i> ; ARSTT. <i>G.A. 2, 8,</i> les Celtes, <i>c</i>. Κέλται.<br><b>      2</b> Celtique, CALL. <i>Del. 173</i>.<p><b>Étym</b>. <i>cf</i>. Κέλται.`

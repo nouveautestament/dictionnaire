@@ -1,1 +1,0 @@
-lar[29155]=`<b>έως (ὁ)</b> Dôriée (<i>litt</i>. le Dorien) <i>h</i>. HDT. <i>5, 41</i> ; THC. <i>3, 8, etc.</i> ; XÉN. <i>Hell. 1, 1, 4, etc</i>.<p>➳ <i>Acc</i>. Δωριέα, XÉN. <i>Hell. 1, 5, 19, etc</i>.<p><b>Étym</b>. Δωριεύς.`

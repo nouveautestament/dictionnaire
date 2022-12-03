@@ -1,1 +1,0 @@
-lar[95632]=`<b>συν·επικλάω</b>, briser <i>ou</i> faire fléchir en même temps, PLUT. <i>Phil. 9</i>.`

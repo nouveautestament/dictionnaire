@@ -1,1 +1,0 @@
-lar[64197]=`<b>ου (τὸ) :<br>      1</b> petit membre, M. ANT. <i>7, 28</i>.<br><b>      2</b> petite chanson, AR. <i>Eccl. 883</i> ; BION <i>5, 2</i> ; THCR. <i>Idyl. 7, 51</i>.<p><b>Étym</b>. μέλος.`

@@ -1,1 +1,0 @@
-lar[78820]=`<b>περί·κρανον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> bonnet de peau, STR. <i>502</i>.<p><b>Étym</b>. π. κράνος.`

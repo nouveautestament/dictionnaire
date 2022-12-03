@@ -1,1 +1,0 @@
-lar[21082]=`<b>βωλοκοπέω-ῶ</b>, <i>f</i>. ήσω, fendre des mottes, AR. <i>fr. 600</i> ; EL. <i>Ep. rust. 19</i>.<p><b>Étym</b>. βωλοκόπος.`

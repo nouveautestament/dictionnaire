@@ -1,1 +1,0 @@
-lar[37536]=`<b>ορος</b>, <i>adj. m</i>. qui reçoit, ARÉSAS (STOB. <i>Ecl. phys. p. 850).</i><p><b>Étym</b>. ἐπιδέχομαι.`

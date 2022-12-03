@@ -1,1 +1,0 @@
-lar[21893]=`<b>γε·ώρυχος, ος, ον</b> <font color="purple">[ῠ]</font> qui creuse la terre, STR. <i>144</i>.<p><b>Étym</b>. γῆ, ὀρύσσω.`

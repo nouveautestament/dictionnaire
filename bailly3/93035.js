@@ -1,1 +1,0 @@
-lar[93035]=`<b>ητος (ἡ) :<br>   I</b> saveur âcre, acerbe, ARSTT. <i>Categ. 8, 8 ; Probl. 1, 42, 4</i> ; PLUT. <i>M. 732b.</i><br><b>   II</b> <i>fig.</i> :<br><b>      1</b> caractère âpre, morose, PLUT. <i>Mar. 2</i>.<br><b>      2</b> <i>en parl. du style,</i> dureté, rudesse, DH. <i>Dem. 34</i>.<p><b>Étym</b>. στρυφνός.`

@@ -1,1 +1,0 @@
-lar[88319]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰῑδ]</font> <i>subst. de</i> ῥαφανιδόω, ALCIPHR.`

@@ -1,1 +1,0 @@
-lar[74487]=`<b>παλέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. παλαίω, HDT. <i>8, 21</i>.`

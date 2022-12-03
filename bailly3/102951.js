@@ -1,1 +1,0 @@
-lar[102951]=`<b>ὑπ·ηοῖος, α, ον</b>, qui se fait au point du jour, matinal, IL. <i>8, 530 ; 18, 277</i> ; OD. <i>4, 656 ; 17, 25</i>.<p><b>Étym</b>. ὑπό, ἠώς.`

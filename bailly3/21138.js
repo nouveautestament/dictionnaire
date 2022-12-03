@@ -1,1 +1,0 @@
-lar[21138]=`<b>ή, όν</b>, gangréneux (mal), DIOSC. <i>2, 129 ; 4, 94</i>.`

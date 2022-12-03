@@ -1,1 +1,0 @@
-lar[84161]=`<b>προ·εννέπω</b>, <i>par contr</i>. <b>προὐννέπω</b> (<i>seul. prés. et impf</i>. προέννεπον) dire d’avance, déclarer, annoncer, <i>acc</i>. EUR. <i>Med. 351 ; avec une prop. inf</i>. SOPH. <i>Tr. 227</i> ; EUR. <i>Hipp. 1085 ; avec</i> ὅτι, ESCHL. <i>Eum. 98</i>.`

@@ -1,1 +1,0 @@
-lar[68328]=`<b>ίδος (ἡ)</b> Népounis, <i>surn. de l’Amazone Hippolytè,</i> LYC. <i>1332</i>.`

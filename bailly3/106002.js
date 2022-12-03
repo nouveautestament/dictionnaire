@@ -1,1 +1,0 @@
-lar[106002]=`<b>φιλό·πλεκτος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à se rouler en boucles, <i>en parl. de la chevelure,</i> ANTH. <i>6, 206</i>.<p><b>Étym</b>. φ. πλέκω.`

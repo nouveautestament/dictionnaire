@@ -1,1 +1,0 @@
-lar[24839]=`<b>δια·κουφίζω</b>, s’alléger <i>ou</i> s’améliorer pour un peu de temps, HPC. <i>1093g ;</i> ORIB. <i>p. 79 Mai</i>.`

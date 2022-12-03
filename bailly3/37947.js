@@ -1,1 +1,0 @@
-lar[37947]=`<b>ἐπι·κατασκευάζω</b>, construire sur, ἐπί <i>et le dat</i>. DC. <i>50, 23</i>.`

@@ -1,1 +1,0 @@
-lar[93816]=`<b>σύμ·βακχος, ου (ὁ, ἡ) :<br>      1</b> dont le délire prophétique s’accorde avec (la volonté des dieux) EUR. <i>Tr. 500</i>.<br><b>      2</b> qui célèbre les bacchanales avec un autre, PHILOD. (ATH. <i>445b</i>).<p><b>Étym</b>. σ. βάκχος.`

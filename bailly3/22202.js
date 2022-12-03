@@ -1,1 +1,0 @@
-lar[22202]=`<b>ή, όν :<br>      1</b> gravé, ANTH. <i>5, 194</i> ; SPT. <i>Deut. 4, 25</i> ; τὸ γλυπτόν (<i>s.-e</i>. ὁμοίωμα) image gravée, SPT. <i>Ex. 34, 13 ; Lev. 26, 1 ; Deut. 4, 16 ; 7, 5, etc.</i><br><b>      2</b> sur quoi l’on peut graver, TH. <i>Lap. 5</i>.<p><b>Étym</b>. <i>vb. de</i> γλύφω.`

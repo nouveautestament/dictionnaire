@@ -1,1 +1,0 @@
-lar[81101]=`<b>ου (ὁ)</b> molène <i>ou</i> bouillon blanc, <i>plante,</i> ARSTT. <i>H.A. 8, 20, 3</i>.`

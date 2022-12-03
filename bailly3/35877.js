@@ -1,1 +1,0 @@
-lar[35877]=`<b>ἐξ·ευδιάζω</b>, rasséréner complètement, apaiser complètement (une tempête) <i>acc</i>. PHIL. <i>2, 345</i>.`

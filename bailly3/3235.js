@@ -1,1 +1,0 @@
-lar[3235]=`<b>ἀ·κατηγόρητος, ος, ον :<br>      1</b> non accusé, DS. <i>11, 46</i>.<br><b>      2</b> irréprochable, PHALAR. <i>Ep. 55, p. 182 Valckenaer</i>.<p><b>Étym</b>. ἀ, κατηγορέω.`

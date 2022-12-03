@@ -1,1 +1,0 @@
-lar[27220]=`<b>διχό·τομος, ος, ον</b> <font color="purple">[ῐ]</font> coupé en deux, ARSTT. <i>H.A. 1, 11, 8</i> ; σελήνη, ARSTT. <i>Probl. 15, 7, 1,</i> moitié de la lune, <i>càd</i>. premier <i>ou</i> dernier quartier.<p><b>Étym</b>. δίχα, τέμνω.`

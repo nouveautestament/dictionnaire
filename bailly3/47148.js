@@ -1,1 +1,0 @@
-lar[47148]=`<i>adv</i>., à Thèbes (en Béotie) PLAT. COM. (PHOT. <i>p. 590, 22</i>) ; ARSTT. <i>Rhet. 2, 23, 11</i>.<p><b>Étym</b>. Θῆβαι.`

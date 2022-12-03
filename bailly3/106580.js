@@ -1,1 +1,0 @@
-lar[106580]=`<b>φοινίκ·ουρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> le rouge-queue, <i>oiseau,</i> ARSTT. <i>H.A. 9, 49, 4</i> ; GEOP. <i>15, 22</i>.<p><b>Étym</b>. φ. οὐρά.`

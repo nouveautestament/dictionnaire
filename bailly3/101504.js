@@ -1,1 +1,0 @@
-lar[101504]=`<b>ὑδρ·άλμη, ης (ἡ)</b> eau provenant de sel fondu, <i>ou simpl</i>. eau salée, ORIB. <i>53 Matthäi</i>.<p><b>Étym</b>. ὕδωρ, ἅλμη.`

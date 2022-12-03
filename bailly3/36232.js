@@ -1,1 +1,0 @@
-lar[36232]=`<b>εως (ἡ)</b> évacuation par les urines, AÉT.<p><b>Étym</b>. ἐξουρέω.`

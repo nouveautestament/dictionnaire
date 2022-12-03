@@ -1,1 +1,0 @@
-lar[61464]=`<b>*λίψ (ἡ) :<br>   I</b> roche d’où l’eau dégoutte, ANTH. <i>9, 142</i>.<br><b>   II.1</b> goutte, A.RH. <i>4, 1454</i> (λίβα).<br><b>      2</b> larme, ESCHL. <i>Eum. 54</i> (λίβα).<br><b>      3</b> libation, ESCHL. <i>Ch. 292</i> (λιβός).<p><b>Étym</b>. λείβω.`

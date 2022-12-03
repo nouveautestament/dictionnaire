@@ -1,1 +1,0 @@
-lar[104045]=`<b>ή, όν</b>, qui se manifeste par des retours périodiques, par des accès, HPC. <i>Coac. 128</i>.<p><b>Étym</b>. ὑπότροπος.`

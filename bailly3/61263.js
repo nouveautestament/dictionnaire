@@ -1,1 +1,0 @@
-lar[61263]=`<b>ας (ἡ)</b> <font color="purple">[λῐ]</font> action de travailler le lin, STR. <i>498</i>.<p><b>Étym</b>. λινουργός.`

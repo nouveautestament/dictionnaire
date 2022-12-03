@@ -1,1 +1,0 @@
-lar[107737]=`<b>ων (οἱ)</b> <font color="purple">[ᾰῠ]</font> les Khalybes, <i>pple du Pont, renommé pour son habileté à travailler le fer et inventeur de l’acier,</i> HDT. <i>1, 28</i> ; ESCHL. <i>Pr. 715</i> ; XÉN. <i>An. 5, 5, 1</i>.<p><b>Étym</b>. <i>cf</i>. χάλυψ.`

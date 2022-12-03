@@ -1,1 +1,0 @@
-lar[91398]=`<b>σκωληκο·ειδής, ής, ές</b>, qui ressemble à un ver, ARSTT. <i>H.A. 5, 20, 3</i> ; GAL. <i>2, 730</i>.<p><b>Étym</b>. σκ. εἶδος.`

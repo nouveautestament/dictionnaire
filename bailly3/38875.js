@@ -1,1 +1,0 @@
-lar[38875]=`<b>ής, ές</b>, qui penche vers, enclin à, porté à : πρός τινα, HDN <i>5, 8, 2,</i> favorable à qqn ; πρός τι, LUC. <i>H. conscr. 60</i> ; ATH. <i>576f ;</i> εἴς τι, HDN <i>6, 9, 7,</i> enclin à qqe ch.<p>•<i> Cp</i>. ἐπιρρεπέστερος, POL. <i>1, 55, 1</i> ; LUC. <i>H. conscr. 60</i> ; ATH. <i>576f</i>.<p><b>Étym</b>. ἐπιρρέπω.`

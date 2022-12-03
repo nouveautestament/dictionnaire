@@ -1,1 +1,0 @@
-lar[38476]=`<b>ἐπι·μορφόω-ῶ</b>, former, façonner, PHIL. <i>2, 520</i> ; NYSS. <i>1, 491</i>.`

@@ -1,1 +1,0 @@
-lar[26304]=`<i>adv</i>., à tort, d’une manière fautive, ARR. <i>Epict. 3, 23, 3</i>.<p><b>Étym</b>. διασφάλλω.`

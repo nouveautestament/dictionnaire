@@ -1,1 +1,0 @@
-lar[84118]=`<b>προ·εκφλογόω-ῶ</b>, enflammer auparavant, OLYMPIOD. <i>Arstt. Meteor. 1, 159 J. L. Ideler, Aristotelis Meteorologicum libri 4 cum commentariis, 1834</i>.`

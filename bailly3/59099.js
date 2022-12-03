@@ -1,1 +1,0 @@
-lar[59099]=`<b>κωδωνό·κροτος, ος, ον</b>, qui fait un bruit de cloche <i>ou</i> de grelots, EUR. <i>Rhes. 384</i>.<p><b>Étym</b>. κροτέω.`

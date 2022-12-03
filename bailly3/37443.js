@@ -1,1 +1,0 @@
-lar[37443]=`<b>ἐπι·γελάω-ῶ :<br>      1</b> rire, sourire, <i>abs</i>. XÉN. <i>Ap. 28</i> ; PLAT. <i>Phæd. 62a ; fig. en parl. du bruit des vagues,</i> ARSTT. <i>Probl. 23, 24 ; de paroles agréables,</i> PLUT. <i>M. 27f.</i><br><b>      2</b> rire de, se moquer de, <i>dat</i>. CHIL. (STOB. <i>Fl. 1, 111</i>) ; LUC. <i>Bis acc. 5</i> ; ARR. <i>An. 4, 12, 3</i>.`

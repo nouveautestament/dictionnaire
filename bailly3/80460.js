@@ -1,1 +1,0 @@
-lar[80460]=`<b>εως (ἡ)</b> action d’enduire de poix <i>ou</i> de goudron, GAL. <i>6, 329</i>.<p><b>Étym</b>. πισσόω.`

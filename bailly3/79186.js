@@ -1,1 +1,0 @@
-lar[79186]=`<b>εως (ἡ)</b> action d’embrasser, PLUT. <i>Cato mi. 11</i> ; PLOT. (EUS. <i>P.E. 832a</i>).<p><b>Étym</b>. περιπτύσσω.`

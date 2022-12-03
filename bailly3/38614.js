@@ -1,1 +1,0 @@
-lar[38614]=`<b>ίδος (ἡ)</b> elléborine, <i>plante orchidée,</i> TH. <i>H.P. 9, 11</i> ; DIOSC. <i>4, 109</i>.`

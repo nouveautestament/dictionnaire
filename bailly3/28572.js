@@ -1,1 +1,0 @@
-lar[28572]=`<b>Δυσ·κέλαδος, ου (ἡ)</b> <font color="purple">[ᾰ]</font> Dyskélados, <i>î. de la mer Adriatique,</i> A.RH. <i>4, 563</i>.<p><b>Étym</b>. <i>v</i>. δυσκέλαδος.`

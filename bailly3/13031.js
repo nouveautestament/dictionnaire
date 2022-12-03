@@ -1,1 +1,0 @@
-lar[13031]=`<b>ου (ὁ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> excrément, HPC. <i>86b, etc. ; en parl. d’animaux,</i> PLUT. <i>M. 727d ;</i> LUC. <i>Trag. 168</i>.<br><b>      2</b> lieu d’aisances, AR. <i>Ach. 81</i>.<p><b>Étym</b>. ἀποπατέω.`

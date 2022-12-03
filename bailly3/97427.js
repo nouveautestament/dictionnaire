@@ -1,1 +1,0 @@
-lar[97427]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Talaos, <i>Argien,</i> HDT. <i>5, 67</i> ; PD. <i>N. 9, 14</i> ; SOPH. <i>O.C. 1318</i> ; EUR. <i>I.A. 245</i>.<p>➳ <i>Gén. dor</i>. <b>-ω</b>, ANTIM. (PAUS. <i>8, 25, 9</i>).`

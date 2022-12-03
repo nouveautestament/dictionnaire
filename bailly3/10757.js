@@ -1,1 +1,0 @@
-lar[10757]=`<i>adv</i>., non par supposition, PLUT. <i>M. 399b</i>.`

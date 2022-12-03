@@ -1,1 +1,0 @@
-lar[40096]=`<b>Ἐπ·ώνυμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Épônymos, <i>h</i>. IS. <i>2, 3, etc</i>.<p><b>Étym</b>. <i>v</i>. ἐπώνυμος.`

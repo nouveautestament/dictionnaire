@@ -1,1 +1,0 @@
-lar[82849]=`<b>πορφυρ·ανθής, ής, ές</b> <font color="purple">[ῠ]</font> aux fleurs de pourpre, TH. (ATH. <i>681b</i>) ; τὸ πορφυρανθές, DIOSC. <i>5, 137, autre n. de l’</i>ἡμεροκαλλίς.<p><b>Étym</b>. πορφύρα, ἄνθος.`

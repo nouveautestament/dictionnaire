@@ -1,1 +1,0 @@
-lar[52270]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰγ]</font> descente dans une hôtellerie, NYSS. <i>3, 421d Migne</i>.<p><b>Étym</b>. <i>cf</i>. καταγωγή.`

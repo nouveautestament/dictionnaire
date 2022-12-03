@@ -1,1 +1,0 @@
-lar[71367]=`<b>ὁμ·ηγυρής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. ὁμηγερής NONN. <i>Jo. 18, 40, etc</i>.<p>➳ <i>Dor</i>. ὁμαγυρής <font color="purple">[ᾱ]</font> PD. <i>P. 11, 8</i>.<p><b>Étym</b>. ὁμός, ἀγορά.`

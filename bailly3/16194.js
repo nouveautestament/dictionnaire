@@ -1,1 +1,0 @@
-lar[16194]=`<b>ἀστερο·όμματος, ος, ον</b> <font color="purple">[μᾰ]</font> dont les yeux sont des étoiles, <i>ép. de la Nuit,</i> ORPH. <i>H. 34, 13</i>.<p><b>Étym</b>. ἀστήρ, ὄμμα.`

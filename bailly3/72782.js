@@ -1,1 +1,0 @@
-lar[72782]=`<b>ὀρθρο·βόας</b>, <i>ion</i>. <b>-οης, ου</b> <font color="purple">[ᾱ]</font> qui crie dès le point du jour (le coq) ALEXARQ. (ATH. <i>98e</i>) ; ANTH. <i>12, 137</i>.<p><b>Étym</b>. ὄρθρος, βοάω.`

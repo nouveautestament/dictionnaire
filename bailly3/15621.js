@@ -1,1 +1,0 @@
-lar[15621]=`<b>ἀρχι·κυβερνήτης, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> pilote-chef, chef général de la timonerie <i>ou</i> ingénieur du bord, STR. <i>698</i> ; PLUT. <i>Alex. 66</i>.`

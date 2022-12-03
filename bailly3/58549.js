@@ -1,1 +1,0 @@
-lar[58549]=`<b>κυκλο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> poète cyclique, PROCL. <i>Hés. p. 7 Gaisf</i>.<p><b>Étym</b>. κύκλος, γράφω.`

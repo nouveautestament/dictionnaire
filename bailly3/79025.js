@@ -1,1 +1,0 @@
-lar[79025]=`<b>περι·οργίζομαι</b>, s’irriter fortement, POL. <i>4, 4, 7</i>.`

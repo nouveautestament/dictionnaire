@@ -1,1 +1,0 @@
-lar[41560]=`<b>εὐ·αλδής, ής, ές :<br>      1 <i>intr</i></b>. qui pousse bien, qui croît vigoureusement, ANTH. <i>9, 325</i>.<br><b>      2 <i>tr</i></b>. nourrissant, fécondant, NIC. <i>Al. 543</i> ; ARAT. <i>217</i> ; PLUT. <i>M. 664d</i>.<p><b>Étym</b>. εὖ, ἀλδέω.`

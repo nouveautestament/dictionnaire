@@ -1,1 +1,0 @@
-lar[30275]=`<b>ή, όν</b>, qui concerne les idoles, idolâtre, CLÉM. <i>1, 77a Migne</i> ; BAS. <i>2, 821c</i>.<p><b>Étym</b>. εἴδωλον.`

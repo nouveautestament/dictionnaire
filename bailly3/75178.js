@@ -1,1 +1,0 @@
-lar[75178]=`<b>παντ·άδικος, ος, ον</b> <font color="purple">[ᾰδῐ]</font> tout à fait injuste, PHIL. <i>2, 362</i>.<p><b>Étym</b>. π. ἄδικος.`

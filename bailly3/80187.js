@@ -1,1 +1,0 @@
-lar[80187]=`<b>πιεζέω-ῶ</b>, <i>c</i>. πιέζω, <i>seul. aux formes suiv. : part. prés. act. gén</i>. πιεζοῦντος, PLUT. <i>Alc. 2, part. prés. pass</i>. πιεζούμενος, PLUT. <i>Thes. 1, et impf. act. dor</i>. ἐπιέζευν, THCR. <i>Idyl. 25, 268 ; ou</i> πιέζευν, OD. <i>12, 174, 196</i>.`

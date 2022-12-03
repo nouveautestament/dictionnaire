@@ -1,1 +1,0 @@
-lar[11810]=`<b>ἀπ·ερυγγάνω</b> <font color="darkgreen">(<i>ao.2</i> ἀπήρυγον)</font> vomir, NIC. <i>Th. 253</i>.<p>➳ <i>Ao.2</i> ἀπήρυγον <font color="purple">[ῠ]</font> DL. <i>5, 77</i> ; NIC. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[84912]=`<b>προ·πατορικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les aïeux, des aïeux, NYSS.<p><b>Étym</b>. προπάτωρ.`

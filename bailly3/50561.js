@@ -1,1 +1,0 @@
-lar[50561]=`<b>καινο·πραγία, ας (ἡ)</b> <font color="purple">[ᾱγ]</font><br><b>      1</b> innovation, DS. <i>15, 8</i>.<br><b>      2</b> <i>en mauv. part,</i> intrigue, POL. <i>9, 22, 5</i>.<p><b>Étym</b>. κ. πράσσω.`

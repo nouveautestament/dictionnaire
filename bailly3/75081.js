@@ -1,1 +1,0 @@
-lar[75081]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> Paniônion, <i>bois sacré près de Mycales (auj</i>. Otomatik Tepe, près de Güzelçamlı) <i>où se rassemblaient tous les Ioniens pour la fête nationale de Poséidon,</i> HDT. <i>1, 141, 142, 148, 170</i>.<p><b>Étym</b>. Πανίωνες.`

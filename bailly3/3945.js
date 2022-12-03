@@ -1,1 +1,0 @@
-lar[3945]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> <i>c</i>. ἀκτινοειδής, PHILSTR. <i>133</i>.`

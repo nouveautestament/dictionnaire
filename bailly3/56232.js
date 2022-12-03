@@ -1,1 +1,0 @@
-lar[56232]=`<i>réc</i>. <b>γνάφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> chardon dont se servent les cardeurs, ALC. COM. <i>2, 833</i>.<br><b>      2</b> instrument de torture muni de pointes, HDT. <i>1, 92</i> ; γνάφος, PLUT. <i>M. 858e</i>.`

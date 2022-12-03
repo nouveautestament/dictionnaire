@@ -1,1 +1,0 @@
-lar[3378]=`<b>ῶν (αἱ)</b> Acilæ, <i>v. de Sicile,</i> PLUT. <i>Marc. 18</i>.`

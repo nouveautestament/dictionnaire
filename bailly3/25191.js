@@ -1,1 +1,0 @@
-lar[25191]=`<b>δια·παλαίω</b> <font color="purple">[πᾰ]</font><br><b>      1</b> lutter jusqu’au bout, AR. <i>Eq. 573</i> ; JOS. <i>A.J. 1, 20, 2</i> ; πρός τινα, A. TAT. <i>4, 19</i>, contre qqn.<br><b>      2</b> lutter énergiquement contre, résister énergiquement, PHIL. <i>2, 544</i>.`

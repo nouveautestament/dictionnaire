@@ -1,1 +1,0 @@
-lar[2896]=`<b>αἰσχρο·κέρδεια, ας (ἡ)</b> recherche honteuse du gain, cupidité, avarice, SOPH. <i>Ant. 1056</i> ; LYS. <i>121, 43</i> ; XÉN. <i>Cyr. 8, 8, 13</i> ; PLAT. <i>Leg. 754e</i>.`

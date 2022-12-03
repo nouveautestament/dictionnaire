@@ -1,1 +1,0 @@
-lar[80833]=`<b>πλειστ·αρχία, ας (ἡ)</b> domination du plus grand nombre, de la foule, NAZ. <i>Carm. p. 28</i>.<p><b>Étym</b>. πλ. ἄρχω.`

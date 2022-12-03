@@ -1,1 +1,0 @@
-lar[10056]=`<b>ἀντι·μαρτυρέω-ῶ</b> <font color="purple">[ῠ]</font> témoigner contre, AR. <i>fr. 382</i> ; PLUT. <i>Alc. 21 ; gén</i>. PLUT. <i>M. 418a ;</i> πρός <i>et l’acc</i>. PLUT. <i>M. 471c</i>.`

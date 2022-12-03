@@ -1,1 +1,0 @@
-lar[48682]=`<b>ἰή·κοπος, ος, ον</b> <font color="purple">[ῐ]</font> qui apaise les gémissements, <i>ou</i> qui guérit les maux, AR. <i>Ran. 1265 (conj</i>. ἰὴ κόπον).<p><b>Étym</b>. ἰή, κόπος <i>ou</i> κόπτω.`

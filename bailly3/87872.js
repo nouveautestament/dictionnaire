@@ -1,1 +1,0 @@
-lar[87872]=`<b>πυρι·θαλπής, ής, ές</b> <font color="purple">[ῠῐ]</font> chauffé au feu, A.RH. <i>4, 926</i> ; NIC. <i>Th. 40</i> ; ANTH. <i>7, 742, etc</i>.<p><b>Étym</b>. πῦρ, θάλπω.`

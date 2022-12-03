@@ -1,1 +1,0 @@
-lar[108825]=`<b>χορο·λέκτης, ου (ὁ)</b> celui qui choisit et ordonne les figurants d’un chœur, EL. <i>N.A. 11, 1 ; 15, 5, etc</i>.<p><b>Étym</b>. χ. λέγω.`

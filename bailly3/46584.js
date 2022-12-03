@@ -1,1 +1,0 @@
-lar[46584]=`<b>Θεμιστόκλειος, ος, ον</b>, de Thémistocle, PLUT. <i>Ages. c. Pomp. 4</i> ; τὸ Θεμιστόκλειον, tombeau de Thémistocle, ARSTT. <i>H.A. 6, 15</i>.<p><b>Étym</b>. Θεμιστοκλῆς.`

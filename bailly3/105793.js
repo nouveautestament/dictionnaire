@@ -1,1 +1,0 @@
-lar[105793]=`<b>φιλό·θηρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la chasse, XÉN. <i>Cyn. 5, 25</i> ; PLAT. <i>Rsp. 535d, 549a</i>.<p>•<i> Sup</i>. -ότατος, XÉN. <i>An. 1, 9, 6</i>.`

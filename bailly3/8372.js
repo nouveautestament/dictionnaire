@@ -1,1 +1,0 @@
-lar[8372]=`<b>ἀν·εξαπάτητος, ος, ον</b> <font color="purple">[ξᾰᾰ]</font> qu’on ne peut tromper, ARSTT. <i>Top. 5, 4, 2, etc</i>.<p><b>Étym</b>. ἀν-, ἐξαπατάω.`

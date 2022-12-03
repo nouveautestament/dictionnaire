@@ -1,1 +1,0 @@
-lar[48881]=`<b>ος, ον</b>, propitiatoire, M. ANT. <i>12, 14</i>.<p><b>Étym</b>. ἱλάσκομαι.`

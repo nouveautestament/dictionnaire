@@ -1,1 +1,0 @@
-lar[7816]=`<b>ἀ·ναυάγητος, ος, ον</b> <font color="purple">[ᾱγ]</font> non naufragé, CHRYS. <i>5, 656</i>.<p><b>Étym</b>. ἀ, ναυαγέω.`

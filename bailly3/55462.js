@@ -1,1 +1,0 @@
-lar[55462]=`<b>ικος (ὁ)</b> <font color="purple">[ῐκ]</font><br><b>      1</b> avare, ladre, pingre, ARSTT. <i>M. mor. 1, 21</i> ; PLUT. <i>M. 632c, etc.</i><br><b>      2</b> <i>fig. joint à</i> αἰσχροκερδής, SIM. (ATH. <i>656d</i>) homme pointilleux, vétilleux, ATH. <i>303e</i>.`

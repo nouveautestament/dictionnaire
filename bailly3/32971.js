@@ -1,1 +1,0 @@
-lar[32971]=`<b>ης, ες</b>, de l’espèce des plantes à cosse, <i>càd</i>. légumineuses, TH. <i>H.P. 8, 2, 5</i>.<p><b>Étym</b>. ἔλλοβος, -ωδης.`

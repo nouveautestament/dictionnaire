@@ -1,1 +1,0 @@
-lar[100378]=`<b>τρι·ποδήϊος, ος, ον</b> <font color="purple">[ῐπ]</font> à trois pieds, CALL. <i>Del. 90</i>.<p><b>Étym</b>. <i>ion. c</i>. *τριπόδειος, <i>de</i> τρεῖς, πούς.`

@@ -1,1 +1,0 @@
-lar[109178]=`<b>χρυσό·θρονος, ος, ον</b> <font color="purple">[ῡ]</font> au siège <i>ou</i> au trône d’or, IL. <i>1, 611, etc.</i> ; PD. <i>P. 4, 464</i> ; AR. <i>Av. 950 ; en prose postér. seul</i>. JUL. <i>307d</i>.<p><b>Étym</b>. χρ. θρόνος.`

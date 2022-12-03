@@ -1,1 +1,0 @@
-lar[28902]=`<b>δυσ·συνάλλακτος, ος, ον</b> <font color="purple">[σῠ]</font> intraitable, insociable, BAS. <i>3, 1020a Migne</i>.<p><b>Étym</b>. δ. συναλλάσσω.`

@@ -1,1 +1,0 @@
-lar[80556]=`<b>ίδος</b> <i>ou</i> <b>πίτυρις, ιος (ἡ)</b> <font color="purple">[ῐῡ]</font> <i>s.-e</i>. ἐλαία, PHILÉM. (ATH. <i>56c</i>) petite olive qui a la couleur du son.<p>➳ <font color="purple">[ῠ]</font> CALL. <i>fr. 50</i>.<p><b>Étym</b>. πίτυρον.`

@@ -1,1 +1,0 @@
-lar[90280]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑᾱ]</font> Silaniôn, <i>h</i>. PLUT. <i>Thes. 4, etc</i>.<p>➳ <i>Dans une inscr. att</i>. Σιλανίων (<i>non</i> Σειλανίων) CIA. <i>2, 987, a, 10, 8 ; b, 6 (après 350 av. J.-C.) ; v. Meisterh. p. 43</i>.`

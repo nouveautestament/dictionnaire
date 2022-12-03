@@ -1,1 +1,0 @@
-lar[9114]=`<b>ἀνισο·κρατέω-ῶ</b> <font color="purple">[ᾰῐ]</font> être de force inégale, SEXT. <i>M. 10, 82</i>.<p><b>Étym</b>. ἄν. κρατέω.`

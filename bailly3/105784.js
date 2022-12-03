@@ -1,1 +1,0 @@
-lar[105784]=`<b>φιλο·θεάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐᾱ]</font> qui aime les spectacles, PLAT. <i>Rsp. 475d, 476a et b ; avec le gén</i>. LUC. <i>Her. 8 ; fig. avec le gén</i>. PLAT. <i>Rsp. 475e ;</i> τὸ φιλοθεάμον, PLUT. <i>M. 704e</i>, l’amour des spectacles.<p><b>Étym</b>. φ. θεάομαι.`

@@ -1,1 +1,0 @@
-lar[54994]=`<b>κερνοφορέω-ῶ</b>, porter les vases sacrés, CLÉM. <i>14</i>.<p><b>Étym</b>. κερνοφόρος.`

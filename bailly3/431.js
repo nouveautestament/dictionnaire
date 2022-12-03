@@ -1,1 +1,0 @@
-lar[431]=`<b>ἀγγελο·θεσία, ας (ἡ)</b> condition d’ange, CLÉM. <i>2, 413 Migne</i>.<p><b>Étym</b>. ἄγγ. τίθημι.`

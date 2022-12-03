@@ -1,1 +1,0 @@
-lar[95635]=`<b>συν·επικοσμέω-ῶ</b>, orner ensemble <i>ou</i> en même temps, XÉN. <i>Hier. 8, 6</i> ; ARSTT. <i>Top. 8, 1, 18</i> ; NIC. <i>1, 10, 12</i>.`

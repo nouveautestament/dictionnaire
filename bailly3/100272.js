@@ -1,1 +1,0 @@
-lar[100272]=`<b>τρι·λάγυνος, ος, ον</b> <font color="purple">[ῐᾰῡ]</font> qui contient trois flacons, STÉSICH. (ATH. <i>499b</i>).<p><b>Étym</b>. τρεῖς, λάγυνος.`

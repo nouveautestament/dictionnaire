@@ -1,1 +1,0 @@
-lar[69236]=`<b>νυμφο·τροφέω-ῶ</b>, élever des jeunes filles qui deviendront des épouses, THÉM. <i>Or. 34, 467d</i>.<p><b>Étym</b>. ν. -τροφος <i>de</i> τρέφω.`

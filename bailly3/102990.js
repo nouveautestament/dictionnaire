@@ -1,1 +1,0 @@
-lar[102990]=`<b>ὑπνο·μαχέω-ῶ</b> <font color="purple">[ᾰ]</font> combattre le sommeil, lutter contre le sommeil, XÉN. <i>Cyr. 2, 4, 26</i> ; DC. <i>72, 8</i>.<p><b>Étym</b>. ὕ. μάχομαι.`

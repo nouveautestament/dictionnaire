@@ -1,1 +1,0 @@
-lar[93286]=`<b>συγ·καταδιώκω</b>, <i>anc. att</i>. <b>ξυγ·καταδιώκω</b>, poursuivre ensemble <i>ou</i> en même temps, THC. <i>8, 28</i>.`

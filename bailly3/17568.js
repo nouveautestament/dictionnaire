@@ -1,1 +1,0 @@
-lar[17568]=`<b>Αὐτό·λυκος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Autolykos :<br><b>      1</b> <i>grand-père d’Ulysse,</i> IL. <i>10, 267</i> ; OD. <i>19, 394</i>.<br><b>      2</b> <i>autres,</i> XÉN. ESCHN. A.RH. <i>etc</i>.<p>➳ <i>Gén. épq</i>. -οιο, OD. <i>21, 220</i>.<p><b>Étym</b>. αὐ. λύκος.`

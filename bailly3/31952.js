@@ -1,1 +1,0 @@
-lar[31952]=`<b>ἐκ·προκρίνω</b> <font color="purple">[ῑ]</font> choisir dans, <i>gén</i>. EUR. <i>Ph. 214</i>.`

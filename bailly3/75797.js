@@ -1,1 +1,0 @@
-lar[75797]=`<b>παρα·κρατέω-ῶ</b> <font color="purple">[κρᾰ]</font><br><b>      1</b> contenir, retenir, <i>acc</i>. APP. <i>Iber. 35 ; fig</i>. ARR. <i>Epict. 3, 7, 28</i>.<br><b>      2</b> tenir devant, présenter, ARR. <i>Epict. 1, 2, 8</i>.`

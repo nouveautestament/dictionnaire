@@ -1,1 +1,0 @@
-lar[86119]=`<b>πρόσ·λοιπος, ος, ον</b>, qui reste encore, JAMBL. <i>V. Pyth. 16</i>.<p><b>Étym</b>. π. λοιπός.`

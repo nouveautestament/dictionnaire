@@ -1,1 +1,0 @@
-lar[63191]=`<b>ης (ἡ)</b> sorte de ragoût de volailles et de viandes assaisonnées de plantes diverses, <i>mets d’origine macédonienne,</i> COM. (ATH. <i>640d, 663f</i>).<p><b>Étym</b>. <i>pré-grec</i>.`

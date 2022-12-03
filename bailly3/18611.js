@@ -1,1 +1,0 @@
-lar[18611]=`<b>ἁψι·κάρδιος, ος, ον</b> <font color="purple">[ψῑ]</font> qui touche le cœur, émouvant, M. ANT. <i>9, 3</i>.<p><b>Étym</b>. ἅπτω¹, καρδία.`

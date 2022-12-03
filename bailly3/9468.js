@@ -1,1 +1,0 @@
-lar[9468]=`<b>Ἄντ·ανδρος, ου (ἡ)</b> Antandros (<i>auj</i>. ruines près de Avcılar et Altınoluk) <i>v. de Troade,</i> HDT. <i>5, 26 ; 7, 42</i> ; THC. <i>4, 52, 75, etc</i>.<p><b>Étym</b>. <i>v</i>. ἄντανδρος.`

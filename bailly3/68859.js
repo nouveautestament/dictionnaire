@@ -1,1 +1,0 @@
-lar[68859]=`<b>νοερο·τόκος, ος, ον</b>, qui produit l’intelligence, SYN. <i>Hymn. 3, 167, p. 1596</i>.<p><b>Étym</b>. νοερός, τίκτω.`

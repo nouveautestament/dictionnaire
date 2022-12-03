@@ -1,1 +1,0 @@
-lar[86117]=`<b>προσ·λογοποιέω-ῶ</b>, ajouter des détails imaginaires, JOS. <i>B.J. 1, 19, 3</i>.`

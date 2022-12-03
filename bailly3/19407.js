@@ -1,1 +1,0 @@
-lar[19407]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> atelier de teinture, STR. <i>757</i>.<p><b>Étym</b>. βαφεύς.`

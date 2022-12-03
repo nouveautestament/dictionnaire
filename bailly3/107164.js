@@ -1,1 +1,0 @@
-lar[107164]=`<b>φυλλο·τόκος, ος, ον</b>, qui engendre des feuilles, OPP. <i>C. 1, 116</i>.<p><b>Étym</b>. φ. τίκτω.`

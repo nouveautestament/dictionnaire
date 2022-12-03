@@ -1,1 +1,0 @@
-lar[85555]=`<b>προ·σέληνος, ος, ον :<br>      1</b> qui précède la lune : προσέληνοι ἡμέραι, GEOP. <i>1, 6, 2,</i> jours qui précèdent la nouvelle lune.<br><b>      2</b> qui a précédé la lune, plus ancien que la lune, <i>épith. que s’attribuaient les Arcadiens,</i> PLUT. <i>M. 282a, etc</i>.<p><b>Étym</b>. π. σελήνη.`

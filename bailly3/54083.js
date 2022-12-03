@@ -1,1 +1,0 @@
-lar[54083]=`<b>κατ·οδύρομαι</b> <font color="purple">[ῡ]</font> déplorer, se lamenter vivement : τι, PLAT. <i>Ax. 367d ;</i> DS. <i>13, 58</i> ; περί τινος, DS. <i>20, 40,</i> sur qqe ch.`

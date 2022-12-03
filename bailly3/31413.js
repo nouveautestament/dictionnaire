@@ -1,1 +1,0 @@
-lar[31413]=`<i>adv</i>., avec fracture, GAL. <i>2, 102a</i>.<p><b>Étym</b>. ἐκκλάω.`

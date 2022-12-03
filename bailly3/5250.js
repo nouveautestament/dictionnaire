@@ -1,1 +1,0 @@
-lar[5250]=`<b>ἀμαρη·σκαπτήρ, ῆρος (ὁ)</b> <font color="purple">[ᾰμᾰ]</font> qui creuse un canal <i>ou</i> un conduit, MAN. <i>4, 252</i>.<p><b>Étym</b>. ἀμάρη, σκάπτω.`

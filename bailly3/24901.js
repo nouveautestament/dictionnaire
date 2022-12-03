@@ -1,1 +1,0 @@
-lar[24901]=`<b>ῆς (ἡ)</b> <font color="purple">[λᾰ]</font> action de prendre par le milieu, DH. <i>19, 12</i>.<p><b>Étym</b>. διαλαμβάνω.`

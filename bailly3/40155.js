@@ -1,1 +1,0 @@
-lar[40155]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Ératokleidès, <i>h</i>. THC. <i>1, 24</i>.<p><b>Étym</b>. <i>patr. de</i> Ἐρατοκλῆς, <i>de</i> ἐρατός, κλέος.`

@@ -1,1 +1,0 @@
-lar[5571]=`<b>ιος</b> <i>ou</i> <b>εως (τὸ)</b> sorte de plante ombellifère, DIOSC. 3.70, <i>etc.</i> ; ATH. (ORIB. 3.183 B.-Dar.) ; GAL. 13.922, <i>etc.</i><br>➳ <i>Dat</i>. ἄμμει, DIOSC. 3.77.`

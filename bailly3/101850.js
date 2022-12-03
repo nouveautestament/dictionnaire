@@ -1,1 +1,0 @@
-lar[101850]=`<b>ὑό·πρῳρος, ος, ον</b>, à la proue en forme de groin de porc, PLUT. <i>Per. 26 (cf</i>. HDT. <i>3, 59).</i><p><b>Étym</b>. ὗς, πρῷρα.`

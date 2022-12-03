@@ -1,1 +1,0 @@
-lar[103618]=`<b>εως (ἡ) :<br>      1</b> action de retourner sur ses pas, GAL. <i>19, 344</i>.<br><b>      2</b> action de se perdre sous terre, <i>en parl. de l’eau,</i> PLUT. <i>Ant. 3 ; de l’air qui se répand sous terre,</i> ANAXAG. (DL. <i>2, 9).</i><p><b>Étym</b>. ὑπονοστέω.`

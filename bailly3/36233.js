@@ -1,1 +1,0 @@
-lar[36233]=`<b>ἐξ·ουρισμός, οῦ (ὁ)</b> action de provoquer l’urine, DIOSC. <i>Eup. 2, 109</i>.<p><b>Étym</b>. ἐξ, οὐρίζω.`

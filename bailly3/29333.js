@@ -1,1 +1,0 @@
-lar[29333]=`<b>ἐγ·γαστρι·μάχαιρα, ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font> qui a un couteau dans le ventre, <i>sobriquet d’une femme gloutonne,</i> HIPPON. (ATH. <i>698c</i>).<p><b>Étym</b>. ἐν, γαστήρ, μάχαιρα.`

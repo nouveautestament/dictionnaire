@@ -1,1 +1,0 @@
-lar[58820]=`<b>κυνό·πληκτος, ος, ον</b> <font color="purple">[ῠ]</font> frappé, <i>càd</i>. mordu par un chien, DIOSC.<p><b>Étym</b>. κ. πλήσσω.`

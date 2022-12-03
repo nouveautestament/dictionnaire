@@ -1,1 +1,0 @@
-lar[99399]=`<b>ου (ὁ)</b> <font color="purple">[ῑῠ]</font> Tityros :<br><b>      1</b> <i>dor. c</i>. Σάτυρος, EL. <i>V.H. 3, 40</i>.<br><b>      2</b> pâtre, THCR. <i>Idyl. 3, 2, etc</i>.`

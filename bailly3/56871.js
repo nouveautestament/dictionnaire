@@ -1,1 +1,0 @@
-lar[56871]=`<b>α, ον</b>, de Konion, <i>v. de Phrygie,</i> HDT. <i>5, 63</i>.`

@@ -1,1 +1,0 @@
-lar[56759]=`<b>ῶν (οἱ)</b> portefaix du Kolônos, HYPÉR. (HARP.).<p><b>Étym</b>. Κολωνός.`

@@ -1,1 +1,0 @@
-lar[15591]=`<b>ἀρχι·δικαστής, οῦ (ὁ)</b> <font color="purple">[ῐδῐ]</font> chef de la justice, <i>à Alexandrie,</i> STR. <i>353</i> ; DS. <i>1, 75</i> ; PLUT. <i>M. 355a</i>.`

@@ -1,1 +1,0 @@
-lar[103751]=`<b>ὑπο·πυΐσκω</b> (<i>seul. prés</i>.) <font color="purple">[πῡ]</font> faire suppurer un peu, A. TR. <i>8, p. 498 ; au pass</i>. commencer à suppurer, HPC. <i>V.C. 910</i>.`

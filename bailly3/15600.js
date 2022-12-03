@@ -1,1 +1,0 @@
-lar[15600]=`<font color="darkgreen">(<i>ao. moy. 3 sg</i>. ἠρχιερεύσατο)</font> <i>c</i>. ἀρχιερατεύω, GAL. <i>13, 600</i>.`

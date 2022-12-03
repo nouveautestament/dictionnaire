@@ -1,1 +1,0 @@
-lar[104824]=`<b>Φανο·κλῆς, έους (ὁ)</b> <font color="purple">[ᾰ]</font> Phanoklès, <i>poète élégiaque,</i> PLUT. <i>Qu. conv. 4, 5, 3</i>.<p><b>Étym</b>. φ. κλέος.`

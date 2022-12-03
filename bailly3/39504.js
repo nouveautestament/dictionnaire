@@ -1,1 +1,0 @@
-lar[39504]=`<b>ἐπιτρομέω-ῶ</b> (<i>prés. 3 pl. épq</i>. -έουσι) trembler au sujet de, craindre, <i>acc</i>. Q. SM. <i>2, 474</i>.`

@@ -1,1 +1,0 @@
-lar[100437]=`<b>τρι·σέληνος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> égal à la largeur de trois lunes, PLUT. <i>M. 923b.</i><br><b>      2</b> qui dure trois lunes, <i>càd</i>. trois nuits, A. PL. <i>102 ; particul</i>. engendré la troisième nuit, <i>ép. d’Hèraklès,</i> ANTH. <i>9, 441</i>.<p><b>Étym</b>. τρ. σελήνη.`

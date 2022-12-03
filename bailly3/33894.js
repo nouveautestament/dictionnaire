@@ -1,1 +1,0 @@
-lar[33894]=`<font color="purple">[πᾰ]</font> <i>adv</i>., avec des propriétés contraires, NICOM. <i>Harm. p. 19</i>.<p><b>Étym</b>. <i>v</i>. ἐναντιοπαθέω.`

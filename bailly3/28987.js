@@ -1,1 +1,0 @@
-lar[28987]=`<font color="darkgreen">(<i>seul. part. prés. poét</i>. δυσφρονέων)</font> être affligé, HÉS. <i>Th. 102 (sel. G. Dind. gén. ion. de</i> *δυσφρόνη).<p><b>Étym</b>. δύσφρων.`

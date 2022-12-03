@@ -1,1 +1,0 @@
-lar[91967]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> fait avec la scorie des métaux, P. ÉG.<p><b>Étym</b>. σπόδιον.`

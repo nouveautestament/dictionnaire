@@ -1,1 +1,0 @@
-lar[46123]=`<b>ας (ἡ)</b> Thalæa, <i>f</i>. PLUT. <i>Lyc. c. Num. 3</i>.`

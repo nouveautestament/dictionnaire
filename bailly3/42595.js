@@ -1,1 +1,0 @@
-lar[42595]=`<b>εὔ·λινος, ος, ον</b> <font color="purple">[ῐ]</font> qui file bien, OLEN (PAUS. <i>8, 21).</i><p><b>Étym</b>. εὖ, λίνον.`

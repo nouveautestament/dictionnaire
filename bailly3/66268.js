@@ -1,1 +1,0 @@
-lar[66268]=`<b>μογισ·αψ·εδάφα</b>, <i>ion</i>. <b>μογισαψεδάφη</b>, ης <font color="purple">[ῐᾰφ]</font> <i>adj. f</i>. qui ne touche le sol qu’en souffrant, LUC. <i>Trag. 200</i>.<p><b>Étym</b>. μόγις, ἅπτω, ἔδαφος.`

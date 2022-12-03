@@ -1,1 +1,0 @@
-lar[102450]=`<b>ὑπερ·εξάπτω</b>, enflammer outre mesure, EL. <i>N.A. 9, 20</i>.`

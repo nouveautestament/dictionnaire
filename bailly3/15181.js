@@ -1,1 +1,0 @@
-lar[15181]=`<b>ας (ἡ)</b> défaut de rythme <i>ou</i> de proportion, PLAT. <i>Rsp. 401a, etc.</i> ; LUC. <i>Salt. 27</i>.<p><b>Étym</b>. ἄρρυθμος.`

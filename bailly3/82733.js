@@ -1,1 +1,0 @@
-lar[82733]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. πόπανον, ANTH. <i>6, 232</i>.`

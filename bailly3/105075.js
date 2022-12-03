@@ -1,1 +1,0 @@
-lar[105075]=`<b>ή, όν</b>, parcimonieux, avare, ANON. (<i>Com. fr. 4, 626).</i><p>•<i> Cp</i>. -ότερος, DÉMOCR. (STOB. <i>Fl. 83, 25 ; Cobet</i> φειδωλότερος).<p><b>Étym</b>. φείδομαι.`

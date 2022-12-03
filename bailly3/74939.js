@@ -1,1 +1,0 @@
-lar[74939]=`<b>ου (ὁ)</b> <font color="purple">[δῑ]</font> fils <i>ou</i> descendant de Pandion, <i>càd.</i> :<br><b>      1</b> Égée, DP. <i>1024</i>.<br><b>      2</b> Périclès, CRAT. (POLL. <i>9, 98</i>).<br><b>      3</b> membre de la tribu Pandionide, <i>à Athènes,</i> DÉM. <i>60, 28 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Πανδίων.`

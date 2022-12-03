@@ -1,1 +1,0 @@
-lar[104278]=`<b>ου (ὁ)</b> courroie de sandales, THGNST. <i>p. 24, l. 7</i>.`

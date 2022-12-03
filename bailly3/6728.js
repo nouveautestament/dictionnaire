@@ -1,1 +1,0 @@
-lar[6728]=`<b>ῆς (ἡ) :<br>      1</b> action de prendre sur soi, de se charger de, SOPH. <i>Tr. 825</i>.<br><b>      2</b> caution, gage, POL. <i>5, 27, 4</i>.<p>➳ <i>Dor</i>. ἀναδοχά, SOPH. <i>l. c</i>.`

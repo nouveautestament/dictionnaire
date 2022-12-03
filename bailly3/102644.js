@@ -1,1 +1,0 @@
-lar[102644]=`<b>ὑπέρ·μεγας, -μεγάλη, -μεγα</b>, démesurément <i>ou</i> extrêmement grand, AR. <i>Eq. 158</i> ; EL. <i>N.A. 6, 63</i>.`

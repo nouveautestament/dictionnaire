@@ -1,1 +1,0 @@
-lar[35013]=`<b>οῦ (ὁ)</b> <font color="purple">[τᾰ]</font> ensevelissement, NT. <i>Marc. 14, 8 ; Joh. 12, 7</i>.<p><b>Étym</b>. ἐνταφιάζω.`

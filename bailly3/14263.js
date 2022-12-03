@@ -1,1 +1,0 @@
-lar[14263]=`<b>ου (ὁ)</b> Argilos, <i>v. de Bisaltie, à l’embouchure du Strymon,</i> HDT. <i>7, 115</i>.`

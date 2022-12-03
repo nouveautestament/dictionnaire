@@ -1,1 +1,0 @@
-lar[7811]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> figure, représentation, DL. <i>7, 61</i>.<p><b>Étym</b>. ἀνατυπόω.`

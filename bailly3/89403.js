@@ -1,1 +1,0 @@
-lar[89403]=`<b>ῶν (οἱ)</b> les Sardes (de Sardaigne) DS. <i>Exc. 491, 10</i>.<p><b>Étym</b>. Σαρδώ.`

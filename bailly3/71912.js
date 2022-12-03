@@ -1,1 +1,0 @@
-lar[71912]=`<b>ου (ὁ)</b> Onèsimos, <i>h</i>. ANTH. <i>11, 74, etc</i>.<p>➳ <i>Dor</i>. Ὀνάσιμος <font color="purple">[ᾱ]</font> THC. <i>4, 119</i>.<p><b>Étym</b>. <i>cf</i>. ὀνήσιμος.`

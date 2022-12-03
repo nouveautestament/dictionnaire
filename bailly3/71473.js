@@ -1,1 +1,0 @@
-lar[71473]=`<b>ὁμό·δουλος, ος, ον</b>, compagnon d’esclavage, EUR. <i>Hec. 60</i> ; PLAT. <i>Theæt. 172d, etc.</i> ; τινος, PLAT. <i>Phæd. 85b, etc. ; ou</i> τινι, XÉN. <i>Hell. 4, 1, 36,</i> avec qqn ; <i>fig</i>. ANTH. <i>12, 81</i>.<p><b>Étym</b>. ὁμ. δοῦλος.`

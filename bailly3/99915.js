@@ -1,1 +1,0 @@
-lar[99915]=`<b>τραπεζο·κόμος, ος, ον</b> <font color="purple">[ᾰ]</font> chargé de l’entretien de la table, THPP. (LGN <i>43, 4</i>) ; DL. <i>9, 80</i> ; PLUT. <i>M. 616a, etc</i>.<p><b>Étym</b>. τρ. κομέω.`

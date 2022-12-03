@@ -1,1 +1,0 @@
-lar[78326]=`<b>περδικο·τρόφος, ος, ον</b> <font color="purple">[ῑ]</font> qui nourrit <i>ou</i> élève des perdrix, STR. <i>652</i>.<p><b>Étym</b>. π. τρέφω.`

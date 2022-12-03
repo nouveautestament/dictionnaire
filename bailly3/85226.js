@@ -1,1 +1,0 @@
-lar[85226]=`<b>προσ·απειλέω-ῶ</b> <font color="purple">[ᾰ]</font> menacer encore <i>ou</i> en outre, DÉM. <i>544, 26</i>.`

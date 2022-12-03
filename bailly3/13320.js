@@ -1,1 +1,0 @@
-lar[13320]=`<b>ἀπο·σκιάζω :<br>      1</b> projeter de l’ombre, DC. <i>36, 32</i> ; σκιαὶ ἀποσκιαζόμεναι, PLAT. <i>Rsp. 532c</i>, ombres projetées.<br><b>      2</b> <i>p. suite,</i> obscurcir en couvrant d’ombre, LGN <i>17, 9</i>.`

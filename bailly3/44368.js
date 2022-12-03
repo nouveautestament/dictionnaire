@@ -1,1 +1,0 @@
-lar[44368]=`<i>préfixe augmentatif</i>, très, fort, <i>v</i>. ζαής, ζάθεος, <i>etc</i>.<p><b>Étym</b>. <i>v</i>. ζά.`

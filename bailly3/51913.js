@@ -1,1 +1,0 @@
-lar[51913]=`<b>εως (ἡ) :<br>      1</b> jouissance, possession, XÉN. <i>Cyr. 4, 5, 16</i>.<br><b>      2</b> offrande de fruits sur l’autel, sacrifice, SPT. <i>Lev. 4, 10 ; Job 42, 8, etc</i>.<p><b>Étym</b>. καρπόω.`

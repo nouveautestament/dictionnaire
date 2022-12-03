@@ -1,1 +1,0 @@
-lar[34382]=`<b>ἐν·ερευθής, ής, ές</b>, légèrement rouge, POL. <i>32, 9, 8</i> ; CIC. <i>Att. 12, 4</i> ; STR. <i>3, 1, 5 Kram. etc.</i> ; τὸ ἐνερευθές, LUC. <i>Im. 7,</i> rougeur légère.<p><b>Étym</b>. ἐν, ἔρευθος.`

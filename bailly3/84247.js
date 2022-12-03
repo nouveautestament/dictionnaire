@@ -1,1 +1,0 @@
-lar[84247]=`<b>προ·επισκέπτομαι</b> <font color="darkgreen">(<i>pf. pass</i>. προεπέσκεμμαι)</font> considérer d’avance, PTOL. <i>1, 6, 3 ; au pass</i>. STR. <i>349</i>.`

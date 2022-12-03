@@ -1,1 +1,0 @@
-lar[66457]=`<b>(ὁ)</b> Monæsès, <i>Parthe,</i> PLUT. <i>Ant. 37, 46</i>.`

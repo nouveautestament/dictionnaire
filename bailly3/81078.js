@@ -1,1 +1,0 @@
-lar[81078]=`<b>ή, όν</b>, fait en forme de brique <i>ou</i> de carré oblong, P. ÉG. <i>6, 66</i>.<p><b>Étym</b>. πλινθόω.`

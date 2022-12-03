@@ -1,1 +1,0 @@
-lar[53071]=`<b>κατα·πίμπρημι</b>, <i>f</i>. καταπρήσω, brûler entièrement, ANTH. <i>11, 131</i> ; PLUT. <i>M. 651a ; au pass</i>. POL. <i>14, 4, 10</i> ; LUC. <i>Par. 57</i>.`

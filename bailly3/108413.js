@@ -1,1 +1,0 @@
-lar[108413]=`<b>ή, όν</b> <font color="purple">[ζῐ]</font> d’hier, <i>en parl. de choses,</i> AR. <i>Ran. 987 ; en parl. de pers</i>. AR. <i>Vesp. 282</i>.<p><b>Étym</b>. χθιζός.`

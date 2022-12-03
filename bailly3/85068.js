@@ -1,1 +1,0 @@
-lar[85068]=`<b>προσ·αγανακτέω-ῶ</b> <font color="purple">[ᾰγᾰν]</font> être encore plus indigné <i>ou</i> irrité : τινι, APP. <i>Civ. 1, 46,</i> de qqe ch. ; <i>abs</i>. HPC. <i>1285, 22</i> ; DH. <i>10, 24</i>.`

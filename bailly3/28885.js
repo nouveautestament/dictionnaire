@@ -1,1 +1,0 @@
-lar[28885]=`<b>ας (ἡ) :<br>      1</b> impiété, ESCHL. <i>Ch. 704</i> ; SOPH. <i>El. 1383</i> ; EUR. <i>Cycl. 310, Hel. 1027</i>.<br><b>      2</b> réputation d’impiété, SOPH. <i>Ant. 924</i>.<p><b>Étym</b>. δυσσεβής.`

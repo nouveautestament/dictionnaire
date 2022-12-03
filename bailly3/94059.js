@@ -1,1 +1,0 @@
-lar[94059]=`<b>συμ·παραγίγνομαι :<br>      1</b> se présenter <i>ou</i> apparaître en même temps, HDT. <i>4, 199</i>.<br><b>      2</b> se tenir auprès de, <i>dat</i>. DÉM. <i>1369, 17 ; d’où</i> assister, <i>dat</i>. THC. <i>2, 82 ; 6, 92</i>.`

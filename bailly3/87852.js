@@ -1,1 +1,0 @@
-lar[87852]=`<b>πυρι·βρεμέτης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. qui pétille dans le feu, TIMACH. (HSCH.) ; ORPH. <i>H. 48, 3</i> (ἐριβρεμέτης <i>Gottfried Hermann, 1805).</i><p><b>Étym</b>. π. βρέμω.`

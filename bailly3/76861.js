@@ -1,1 +1,0 @@
-lar[76861]=`<b>παρ·ῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font> qui n’est plus dans la force de l’âge, qui est sur son déclin, PLUT. <i>Alex. 32, M. 626c, etc. ; avec un n. neutre,</i> ANTH. <i>12, 228</i>.<p><b>Étym</b>. π. ἧλιξ.`

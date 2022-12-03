@@ -1,1 +1,0 @@
-lar[31220]=`<b>ου (τὸ)</b> réservoir, récipient, <i>d’où</i> :<br><b>      1</b> citerne, JOS. <i>B.J. 1, 15, 1</i>.<br><b>      2</b> <i>c</i>. ἀμίς, CLÉM. <i>1, 437c Migne</i>.<p><b>Étym</b>. ἐκδοχή.`

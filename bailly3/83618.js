@@ -1,1 +1,0 @@
-lar[83618]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰπ]</font> <i>c</i>. προαπάντησις OLYMPIOD. <i>(Bkk. p. 1413</i>).`

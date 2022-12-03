@@ -1,1 +1,0 @@
-lar[82214]=`<b>Πολυ·παΐδης (ὁ)</b> <font color="purple">[ῠᾱῐ]</font> <i>seul. voc</i>. -παΐδη, Polypaïdès, <i>ami de Théognis,</i> THGN. <i>25, 1197, etc</i>.<p><b>Étym</b>. <i>patr. de</i> πολύπαις.`

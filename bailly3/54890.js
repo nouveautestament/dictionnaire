@@ -1,1 +1,0 @@
-lar[54890]=`<b>α, ον</b>, voisin des mts Cérauniens, A.RH. <i>4, 981</i>.<p><b>Étym</b>. Κεραύνια ὄρη.`

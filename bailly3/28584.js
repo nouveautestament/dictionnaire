@@ -1,1 +1,0 @@
-lar[28584]=`<b>ας (ἡ) :<br>      1</b> gloire peu brillante, DÉM. <i>1396, 18</i>.<br><b>      2</b> mauvaise réputation, SOPH. <i>fr. 196 ; d’où</i> ignominie, EUR. <i>Med. 218</i> ; PLAT. <i>Leg. 663a ;</i> PLUT. <i>Cato mi. 73</i>.<br><b>      3</b> mauvais bruit, SOPH. <i>Aj. 143</i>.<p><b>Étym</b>. δυσκλεής.`

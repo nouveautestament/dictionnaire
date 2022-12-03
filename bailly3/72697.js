@@ -1,1 +1,0 @@
-lar[72697]=`<b>ας (ἡ)</b> angle droit, ARCHYT. (STOB. <i>Ecl. phys. p. 784 dout</i>.).`

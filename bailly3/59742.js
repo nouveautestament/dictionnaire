@@ -1,1 +1,0 @@
-lar[59742]=`<b>ή, όν</b>, qui rend brillant, DIOSC. <i>2, 164</i>.<p><b>Étym</b>. λαμπρύνω.`

@@ -1,1 +1,0 @@
-lar[95161]=`<b>συν·διατίθημι</b> <font color="purple">[τῐ]</font><br><b>      1</b> disposer, arranger avec : τινί τι, ARSTT. <i>fr. 490</i> ; PLUT. <i>Tim. 24,</i> qqe ch. avec qqn.<br><b>      2</b> aider à mettre dans telle <i>ou</i> telle disposition, LGN <i>7, 3 ; au pass</i>. être disposé <i>ou</i> affecté ensemble, PLUT. <i>M. 443b ;</i> SEXT. <i>M. 9, 80, etc</i>.`

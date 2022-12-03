@@ -1,1 +1,0 @@
-lar[65743]=`<b>μικρό·σπλαγχνος, ος, ον</b>, qui a les entrailles petites, GAL. <i>5, 121</i>.<p><b>Étym</b>. μ. σπλάγχνον.`

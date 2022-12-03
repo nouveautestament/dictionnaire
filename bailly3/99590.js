@@ -1,1 +1,0 @@
-lar[99590]=`<b>ας (ἡ) :<br>      1</b> action de tirer de l’arc <i>ou</i> de lancer des flèches, DS. <i>3, 8 ; 5, 74</i>.<br><b>      2</b> <i>collect</i>. troupe d’archers, PHILSTR. <i>p. 328</i>.<p><b>Étym</b>. τοξεύω.`

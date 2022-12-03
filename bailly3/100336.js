@@ -1,1 +1,0 @@
-lar[100336]=`<b>τρι·πάλαιστος, ος, ον</b> <font color="purple">[ῐᾰ]</font> long, large, <i>etc</i>. de trois palmes, HDT. <i>1, 50</i>.<p><b>Étym</b>. τρ. παλαιστή.`

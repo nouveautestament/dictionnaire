@@ -1,1 +1,0 @@
-lar[30669]=`<b>εἰσ·αΐω</b> (<i>seul. prés</i>.) entendre, écouter, <i>abs</i>. RHIAN. (SCH.-A.RH. <i>3, 1) ; gén</i>. τινός, THCR. <i>Idyl. 7, 88</i> ; A.RH. <i>1, 764, etc. ; acc</i>. τι, ANTH. <i>9, 189, 6</i> ; A.RH. <i>2, 194, etc.</i> ; OPP. <i>C. 1, 212</i> ; NIC. <i>219, etc</i>. qqe ch.`

@@ -1,1 +1,0 @@
-lar[94227]=`<b>συμ·πέσσω</b>, <i>att</i>. <b>-πέττω :<br>      1</b> faire cuire ensemble, ARSTT. <i>Meteor. 4, 3, 17, etc.</i> ; NÉMÉS. <i>N.H. p. 239, 257 ; d’où</i> couver des œufs, ARSTT. <i>H.A. 5, 17, 7, etc.</i><br><b>      2</b> digérer, ARSTT. <i>Meteor. 4, 2, 3</i>.`

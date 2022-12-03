@@ -1,1 +1,0 @@
-lar[90276]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font> dégoût, aversion, MOSCHION <i>Mul. pass. 28</i>.<p><b>Étym</b>. σικχαίνω.`

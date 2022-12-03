@@ -1,1 +1,0 @@
-lar[51867]=`<b>      1</b> recueillir les fruits, récolter, DIOSC. <i>3, 37</i>.<br><b>      2</b> fertiliser, féconder, EUR. <i>Bacch. 406, Hel. 1328</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> recueillir les fruits de, jouir de, <i>acc</i>. THPP. (ATH. <i>261a</i>).<br><b>      2</b> épuiser à force de produire, TH. <i>H.P. 8, 9, 1, etc</i>.<p><b>Étym</b>. καρπός.`

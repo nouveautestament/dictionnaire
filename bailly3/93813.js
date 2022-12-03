@@ -1,1 +1,0 @@
-lar[93813]=`<b>συμ·βαδίζω</b> <font color="purple">[ᾰ]</font> marcher avec, <i>dat</i>. JOS. <i>A.J. 1, 20, 3</i> ; EL. <i>N.A. 7, 41</i> ; DC. <i>77, 13</i> ; THÉM. <i>Or. 1, 17d ; 21, 263d</i>.`

@@ -1,1 +1,0 @@
-lar[110013]=`<b>ψυχρο·καυτήρ, ῆρος (ὁ)</b> instrument de chirurgie pour cautériser à froid, P. ÉG. <i>6, 58</i>.`

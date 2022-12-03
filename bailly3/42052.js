@@ -1,1 +1,0 @@
-lar[42052]=`<b>εὐ·ερκής, ής, ές :<br>      1</b> <i>pass</i>. bien clos, bien fortifié, bien défendu, <i>en parl. d’une cour,</i> IL. <i>9, 472</i> ; OD. <i>21, 389 ; d’une ville,</i> ESCHL. <i>Suppl. 955 ; d’un pays,</i> PLAT. <i>Leg. 760e.</i><br><b>      2</b> <i>act</i>. qui enferme bien, OPP. <i>H. 4, 655</i>.<p><b>Étym</b>. εὖ, ἕρκος.`

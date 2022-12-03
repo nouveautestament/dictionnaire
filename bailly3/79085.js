@@ -1,1 +1,0 @@
-lar[79085]=`<b>ής, ές</b>, durci autour de, <i>dat</i>. NIC. <i>Al. 107</i>.<p><b>Étym</b>. περιπήγνυμι.`

@@ -1,1 +1,0 @@
-lar[18818]=`<b>βαθύ·σχοινος, ος, ον</b> <font color="purple">[ᾰ]</font> aux joncs épais, aux hautes herbes, IL. <i>4, 383</i> ; HH. <i>9, 3</i> ; NONN. <i>D. 7, 171</i>.<p><b>Étym</b>. β. σχοῖνος.`

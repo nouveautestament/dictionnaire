@@ -1,1 +1,0 @@
-lar[27684]=`<b>ατος (τὸ) :<br>      1</b> esclavage, condition servile, EUR. <i>Or. 221</i>.<br><b>      2</b> esclave, SOPH. <i>Ant. 756 ; collect. au sg</i>. les esclaves, EUR. <i>Ion 748</i>.<p><b>Étym</b>. δουλεύω.`

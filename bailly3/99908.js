@@ -1,1 +1,0 @@
-lar[99908]=`<b>ήεσσα, ῆεν</b> <font color="purple">[ᾰ]</font> <i>c</i>. τραπεζεύς NIC. <i>Th. 526</i>.<p><b>Étym</b>. τράπεζα.`

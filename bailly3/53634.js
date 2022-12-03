@@ -1,1 +1,0 @@
-lar[53634]=`<b>κατά·φημι</b>, dire oui, affirmer, SOPH. <i>O.R. 507</i> ; ARSTT. <i>Metaph. 3, 6</i>.`

@@ -1,1 +1,0 @@
-lar[43995]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> ἐφεστρίς LUC. <i>M. cond. 37</i>.`

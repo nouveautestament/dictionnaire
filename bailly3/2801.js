@@ -1,1 +1,0 @@
-lar[2801]=`<b>α, ον</b> <font color="purple">[ῠ]</font> d’Æpytos, IL. <i>2, 604</i>.<p><b>Étym</b>. Αἴπυτος.`

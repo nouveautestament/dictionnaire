@@ -1,1 +1,0 @@
-lar[109204]=`<b>χρυσό·λοβος, ου (ὁ)</b> <font color="purple">[ῡ]</font> aux pendants d’oreille en or, JUBA (ATH. <i>343f</i>).<p><b>Étym</b>. χρ. λοβός.`

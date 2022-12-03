@@ -1,1 +1,0 @@
-lar[14774]=`<b>ἀρι·σφαλής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> où il est très facile de tomber, très glissant, OD. <i>17, 196</i>.<p><b>Étym</b>. ἀρι-, σφάλλω.`

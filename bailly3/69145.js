@@ -1,1 +1,0 @@
-lar[69145]=`<b>νυκτί·πλαγκτος, ος, ον :<br>      1</b> qui fait errer <i>ou</i> sur quoi l’on s’agite pendant la nuit, ESCHL. <i>Ag. 330, etc.</i><br><b>      2</b> <i>act</i>. qui erre <i>ou</i> s’agite pendant la nuit, ESCHL. <i>Ag. 12</i>.<p><b>Étym</b>. ν. πλάζω.`

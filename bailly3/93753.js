@@ -1,1 +1,0 @@
-lar[93753]=`<b>συλ·λαγχάνω</b> <font color="darkgreen">(<i>f</i>. -λήξομαι, <i>ao.2</i> συνέλαχον, <i>etc</i>.) :</font><br><b>      1</b> obtenir ensemble par le sort, éprouver le même sort que, <i>dat</i>. PLAT. <i>Pol. 266c, e, Tim. 18e.</i><br><b>      2</b> se trouver en même temps que, <i>dat</i>. PLUT. <i>Num. 7</i>.`

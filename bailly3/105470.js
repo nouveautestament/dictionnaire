@@ -1,1 +1,0 @@
-lar[105470]=`<b>ωνος (ὁ)</b> <font color="purple">[ῐ]</font> Philammôn :<br><b>      1</b> <i>père de Thamyris et d’Eumolpos,</i> EUR. <i>Rhes. 916</i>.<br><b>      2</b> <i>lutteur au pugilat,</i> DÉM. <i>Or. 18, 319</i> ; ESCHN. <i>Ctes. 189 Baiter-Sauppe, etc</i>.<p>➳ <i>Gén</i>. -ονος, EUR. <i>l.c</i>.`

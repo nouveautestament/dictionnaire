@@ -1,1 +1,0 @@
-lar[14830]=`<b>ου (ὁ)</b> Arktinos, <i>poète épique,</i> ATH. <i>22c, etc</i>.<p><b>Étym</b>. ἄρκτος.`

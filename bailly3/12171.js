@@ -1,1 +1,0 @@
-lar[12171]=`<b>ἀπο·γαιόω-ῶ</b>, changer en terre <i>ou</i> en une masse, GAL. <i>10, 536</i> ; NICÉPH. <i>1, 488 W., etc</i>.<p><b>Étym</b>. ἀπό, γαῖα.`

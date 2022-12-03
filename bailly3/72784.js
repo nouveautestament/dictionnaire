@@ -1,1 +1,0 @@
-lar[72784]=`<b>ὀρθρο·γόη, ης</b>, <i>adj. f</i>. qui gémit dès le jour naissant, HÉS. <i>O. 566</i>.<p><b>Étym</b>. ὄρθρος, γοάω.`

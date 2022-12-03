@@ -1,1 +1,0 @@
-lar[98116]=`<b>ας (ἡ) :<br>      1</b> troupe de 2 048 hommes, commandement de cette troupe, EL. TACT. <i>9</i>.<br><b>      2</b> charge du τελέαρχος, PLUT. <i>M. 811b</i>.<p><b>Étym</b>. τελέαρχος.`

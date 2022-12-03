@@ -1,1 +1,0 @@
-lar[105010]=`<b>εως (ἡ)</b> action de lambrisser, SPT. <i>1Reg. 6, 13</i>.<p><b>Étym</b>. φατνόω.`

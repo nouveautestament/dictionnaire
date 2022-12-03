@@ -1,1 +1,0 @@
-lar[20979]=`<b>η, ον</b> <font color="purple">[ῐ]</font> fait avec des fibres <i>ou</i> des lamelles de papyrus, <i>en parl. de cordages,</i> OD. <i>21, 391</i> ; HDT. <i>7, 25 ; de voiles de navire,</i> HDT. <i>2, 96 ; de chaussures,</i> HDT. <i>2, 37</i>.<p><b>Étym</b>. βύβλος.`

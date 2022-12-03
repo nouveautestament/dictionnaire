@@ -1,1 +1,0 @@
-lar[108441]=`<b>(ἡ)</b> <font color="purple">[ῑᾰ]</font> Khilias, <i>f</i>. ANTH. <i>7, 429</i>.<p><b>Étym</b>. <i>v</i>. χιλιάς.`

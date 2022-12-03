@@ -1,1 +1,0 @@
-lar[94465]=`<b>εως (ἡ)</b> consentement, accord, POL. <i>2, 37, 8</i> ; JOS. <i>A.J. 19, 8, 1</i>.<p>➳ <i>Dor</i>. συμφρόνασις <font color="purple">[ᾱ]</font> PHILOL. <i>B 10, p. 410, 22</i> (NICOM. <i>Arithm. 2, 19).</i><p><b>Étym</b>. συμφρονέω.`

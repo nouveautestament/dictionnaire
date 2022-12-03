@@ -1,1 +1,0 @@
-lar[14277]=`<b>Ἀργ·ιππαῖοι, ων (οἱ)</b> les Argippæes, <i>càd</i>. les cavaliers aux chevaux agiles, <i>ou p.-ê</i>. aux chevaux blancs, <i>pple scythe,</i> HDT. <i>4, 23</i>.<p><b>Étym</b>. ἀργός¹ <i>ΙΙ ou Ι.2,</i> ἵππος.`

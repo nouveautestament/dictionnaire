@@ -1,1 +1,0 @@
-lar[19425]=`<font color="darkgreen">(<i>seul. f</i>. εύσομαι)</font> <font color="purple">[ῠ]</font> se conduire d’une façon odieuse, DÉM. <i>214, 25</i>.<p><b>Étym</b>. βδελυρός.`

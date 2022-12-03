@@ -1,1 +1,0 @@
-lar[90021]=`<b>α, ον</b>, de Sestos, DÉM. <i>23, 160 Baiter-Sauppe</i> ; PLUT. <i>Lys. 14</i>.<p><b>Étym</b>. Σηστός.`

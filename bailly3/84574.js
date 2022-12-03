@@ -1,1 +1,0 @@
-lar[84574]=`<b>ίδος (ἡ)</b> figue sèche, PAMPH. (ATH. <i>653b</i>).`

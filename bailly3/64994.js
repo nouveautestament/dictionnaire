@@ -1,1 +1,0 @@
-lar[64994]=`<b>εως (ἡ)</b> action de prendre part à, participation, PLAT. <i>Phæd. 101c</i>.<p><b>Étym</b>. μετέχω.`

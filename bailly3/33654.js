@@ -1,1 +1,0 @@
-lar[33654]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> action d’apparaître, apparition, TH. <i>Ign. 2</i> ; JOS. <i>A.J. 6, 45</i>.<p><b>Étym</b>. ἐμφανής.`

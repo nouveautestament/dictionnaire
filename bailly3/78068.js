@@ -1,1 +1,0 @@
-lar[78068]=`<b>πεντέ·δραχμος</b>, <i>mieux que</i> <b>πεντά·δραχμος, ος, ον</b>, qui pèse <i>ou</i> vaut cinq drachmes, HDT. <i>6, 89</i> ; ARSTT. <i>Pol. 4, 16, 4, etc</i>.<p>➳ <i>Dans une inscr. att</i>. πεντέδραχμος (<i>inscr. de 330 av. J.-C.) ; v. Meisterh. p. 125, 3, note 1117</i>.<p><b>Étym</b>. π. δραχμή.`

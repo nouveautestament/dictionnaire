@@ -1,1 +1,0 @@
-lar[26059]=`<b>διδυμο·τόκος, ος, ον</b>, qui met au monde des jumeaux, ARSTT. <i>H.A. 6, 19, 3</i>.<p><b>Étym</b>. δίδυμος, τίκτω.`

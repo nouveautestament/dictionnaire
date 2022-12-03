@@ -1,1 +1,0 @@
-lar[64376]=`<b>ή, όν</b>, partiel, ARISTIPP. (DL. <i>2, 87).</i><p>•<i> Cp</i>. -ώτερος, DYSC. <i>(Bkk. p. 533, 9).</i><p><b>Étym</b>. μέρος.`

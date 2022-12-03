@@ -1,1 +1,0 @@
-lar[23914]=`<b>ατος (τὸ) :<br>      1</b> ce qu’on accueille avec bienveillance, objet d’affection, EUR. (ATH. <i>159b</i>).<br><b>      2</b> <i>c</i>. δεξίωσις 1, SOPH. <i>O.C. 619</i> ; DC. <i>58, 5</i>.<p><b>Étym</b>. δεξιόομαι.`

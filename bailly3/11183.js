@@ -1,1 +1,0 @@
-lar[11183]=`<i>adv</i>., alternativement, XÉN. <i>Eq. 1, 7</i>.<p><b>Étym</b>. ἀπαλλάσσω.`

@@ -1,1 +1,0 @@
-lar[18872]=`<b>ατος (τὸ)</b> bâton, soutien, support, EUR. <i>Ph. 1539, au plur</i>.<p><b>Étym</b>. βακτρεύω.`

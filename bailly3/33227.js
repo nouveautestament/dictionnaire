@@ -1,1 +1,0 @@
-lar[33227]=`<b>(ὁ)</b> Emmanuel, <i>n. d’h. hébreu,</i> SPT. <i>Esaï. 7, 14</i> ; NT. <i>Matth. 1, 23</i>.`

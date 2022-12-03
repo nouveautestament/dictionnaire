@@ -1,1 +1,0 @@
-lar[7078]=`<b>ἀν·άλειφος, ος, ον</b> <font color="purple">[ᾰλ]</font> qui n’a pas le corps frotté d’huile, THÉM. <i>235</i>.<p><b>Étym</b>. ἀν-, ἀλείφω.`

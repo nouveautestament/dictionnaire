@@ -1,1 +1,0 @@
-lar[56882]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> sarriette, <i>plante,</i> NIC. <i>Th. 626</i> ; DIOSC. <i>3, 34 et 56</i>.`

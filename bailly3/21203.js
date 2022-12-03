@@ -1,1 +1,0 @@
-lar[21203]=`<b>γαλακτοποτέω-ῶ</b> <font color="purple">[γᾰ]</font> boire du lait, HPC. <i>479, 26 ; 540, 39</i> ; TH. <i>H.P. 9, 15, 4</i>.<p><b>Étym</b>. γαλακτοπότης.`

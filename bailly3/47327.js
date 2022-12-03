@@ -1,1 +1,0 @@
-lar[47327]=`<b>θηρο·τόκος, ος, ον</b>, qui enfante des animaux sauvages, ANTH. <i>6, 186</i>.<p><b>Étym</b>. θ. τίκτω.`

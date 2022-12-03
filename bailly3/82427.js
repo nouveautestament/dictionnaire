@@ -1,1 +1,0 @@
-lar[82427]=`<b>πολυ·σχήμων, ονος (ὁ, ἡ)</b> qui se présente sous plusieurs aspects, ARTÉM. <i>1, 2</i>.<p>•<i> Sup</i>. -έστατος, STR. <i>121</i>.<p><b>Étym</b>. π. σχῆμα.`

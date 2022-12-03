@@ -1,1 +1,0 @@
-lar[66580]=`<b>μονο·μαχικός, ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui convient pour un combat singulier, POL. <i>1, 45, 9</i>.<br><b>      2</b> <i>à Rome,</i> de gladiateur, DC. <i>72, 19</i>.<p><b>Étym</b>. μονομάχος.`

@@ -1,1 +1,0 @@
-lar[85981]=`<b>προσ·καταφεύγω</b>, s’enfuir, <i>ou</i> se réfugier vers, ANON. (SUID. <i>v°</i> καθοσίωσις).`

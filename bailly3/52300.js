@@ -1,1 +1,0 @@
-lar[52300]=`<b>κατα·δέομαι</b> <font color="darkgreen">(<i>ao</i>. κατεδεήθην)</font> supplier, <i>gén</i>. PLAT. <i>Ap. 33e ;</i> SPT. <i>Gen. 42, 21, etc</i>.`

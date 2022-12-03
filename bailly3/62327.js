@@ -1,1 +1,0 @@
-lar[62327]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> disciple, AR. <i>Nub. 140, 142, etc.</i><br><b>      2</b> qui apprend, étudiant, <i>en gén</i>. PLAT. <i>Rsp. 599, 618</i>.<p><b>Étym</b>. μανθάνω.`

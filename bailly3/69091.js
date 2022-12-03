@@ -1,1 +1,0 @@
-lar[69091]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme en piquant, comme une piqûre, GAL. <i>19, p. 7, 10</i>.`

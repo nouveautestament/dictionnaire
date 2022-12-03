@@ -1,1 +1,0 @@
-lar[97224]=`<b>ή, όν</b>, entassé, amoncelé, ALEX. (ATH. <i>294a</i>).<p><b>Étym</b>. σωρεύω.`

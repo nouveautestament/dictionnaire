@@ -1,1 +1,0 @@
-lar[62873]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰθ]</font> Marathoussa, <i>î. près de Clazomènes,</i> THC. <i>8, 31</i>.<p><b>Étym</b>. <i>fém. de</i> *μαραθόεις, rempli de fenouil, <i>de</i> μάραθον.`

@@ -1,1 +1,0 @@
-lar[80903]=`<b>ης, ες</b>, qui ressemble à un poumon, ARSTT. <i>H.A. 5, 16, 10</i>.<p><b>Étym</b>. πλεύμων, -ωδης.`

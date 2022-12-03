@@ -1,1 +1,0 @@
-lar[10495]=`<i>adv</i>., en opposition, PLOT. <i>Enn. 5, 3, 15</i>.<p><b>Étym</b>. ἀντιτάσσω.`

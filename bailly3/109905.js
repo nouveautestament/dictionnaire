@@ -1,1 +1,0 @@
-lar[109905]=`<b>ας (ἡ)</b> <i>c</i>. ψόα.<p>➳ <font color="purple">[ῠ]</font> EUPHRON (ATH. <i>399c</i>) ; <font color="purple">[ῡ]</font> ANON. (ATH. <i>399a</i>) <i>Ion</i>. ψύη, HPC. <i>De nat. oss. 10, 7</i>.`

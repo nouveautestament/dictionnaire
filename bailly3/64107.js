@@ -1,1 +1,0 @@
-lar[64107]=`<b>α, ον</b> <font color="purple">[λῐ]</font> de l’î. de Mélitè (Malte) A.RH. <i>1, 1148</i>.<p><b>Étym</b>. <i>v</i>. Μελίτη.`

@@ -1,1 +1,0 @@
-lar[57176]=`<b>ου (ὁ)</b> lierre chargé de grappes, TH. <i>H.P. 3, 18, 6</i>.<p><b>Étym</b>. κόρυμβος.`

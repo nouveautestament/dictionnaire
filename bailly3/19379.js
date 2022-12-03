@@ -1,1 +1,0 @@
-lar[19379]=`<i>mieux que</i> <b>βάταλος, ου (ὁ) :<br>      1</b> le derrière, EUP. <i>82 Kock</i>.<br><b>      2</b> débauché, CLÉM. <i>266 ; sobriquet de Démosthène (par jeu de mots avec</i> βατταρίζω, <i>parce qu’étant jeune il prononçait le</i> ρ <i>comme un</i> λ) ESCHN. <i>41, 14</i> ; DÉM. <i>288, 17</i> ; PLUT. <i>etc</i>.<p><b>Étym</b>. βάτταλος.`

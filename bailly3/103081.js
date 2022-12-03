@@ -1,1 +1,0 @@
-lar[103081]=`<b>ὑπο·γλύφω</b> <font color="purple">[ῠφ]</font> (<i>seul. moy</i>.) creuser en dessous, RHÉT. <i>1, 435 W</i>.`

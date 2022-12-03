@@ -1,1 +1,0 @@
-lar[76540]=`<b>παρ·εγκεφαλίς, ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> cervelet, <i>partie du cerveau,</i> ARSTT. <i>H.A. 1, 16, 3</i>.<p><b>Étym</b>. π. ἐγκέφαλος.`

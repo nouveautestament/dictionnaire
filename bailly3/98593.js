@@ -1,1 +1,0 @@
-lar[98593]=`<b>α, ον</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. τετρακότυλος SEXT. <i>P. 3, 94</i>.`

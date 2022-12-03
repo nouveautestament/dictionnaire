@@ -1,1 +1,0 @@
-lar[80794]=`<b>πλατυ·χαίτας (ὁ)</b> <font color="purple">[ᾰῠᾱ]</font> voisin, PLUT. <i>M. 292d dout. Corr. béot</i>. πλατωχέτας.`

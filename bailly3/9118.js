@@ -1,1 +1,0 @@
-lar[9118]=`<b>ἀνισο·παχής, ής, ές</b> <font color="purple">[ᾰῐᾰ]</font> d’épaisseur inégale, GAL. <i>13, 699</i>.<p><b>Étym</b>. ἄν. πάχος.`

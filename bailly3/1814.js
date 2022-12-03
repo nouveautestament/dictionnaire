@@ -1,1 +1,0 @@
-lar[1814]=`<b>*ἀερό·φωνος</b>, <i>seul. ion</i>. <b>ἠερό·φωνος, ος, ον</b>, qui résonne dans les airs, sonore, IL. <i>18, 505</i> ; OPP. <i>H. 1, 621</i>.<p><b>Étym</b>. ἀήρ, φωνή.`

@@ -1,1 +1,0 @@
-lar[79611]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en décrivant une courbe comme les bœufs en marchant, HPC. <i>Art. 819b ;</i> GAL. <i>12, 400, etc</i>.<p><b>Étym</b>. περίφορος, -δην.`

@@ -1,1 +1,0 @@
-lar[77995]=`<b>πεντά·λεκτρος, ος, ον</b> <font color="purple">[ᾰ]</font> à cinq lits, <i>càd</i>. à cinq maris, LYC. <i>142</i>.<p><b>Étym</b>. π. λέκτρον.`

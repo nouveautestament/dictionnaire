@@ -1,1 +1,0 @@
-lar[94112]=`<b>συμ·παραχωρέω-ῶ</b>, céder en totalité, PHIL. (EUS. <i>P.E. 360d</i>).`

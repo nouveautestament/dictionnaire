@@ -1,1 +1,0 @@
-lar[26123]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de s’échapper, fuite, évasion, PLUT. <i>Sert. 13</i>.<br><b>      2</b> moyen de fuite, ATH. <i>98d</i>.<p><b>Étym</b>. διεκδύω.`

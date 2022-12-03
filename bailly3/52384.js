@@ -1,1 +1,0 @@
-lar[52384]=`<b>κατα·θαμβέομαι-οῦμαι</b>, voir avec frayeur, redouter, <i>acc</i>. PLUT. <i>Num. 15, etc</i>.`

@@ -1,1 +1,0 @@
-lar[92009]=`<b>ή, όν</b>, semé, ensemencé, TH. <i>C.P. 3, 20, 6</i>.<p><b>Étym</b>. <i>vb. de</i> *σπορεύω <i>de</i> σπόρος.`

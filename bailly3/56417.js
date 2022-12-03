@@ -1,1 +1,0 @@
-lar[56417]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> κοιλία, STR. <i>675</i>.`

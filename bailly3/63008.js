@@ -1,1 +1,0 @@
-lar[63008]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> témoignage, EUR. <i>Suppl. 1204</i>.<p><b>Étym</b>. μαρτυρέω.`

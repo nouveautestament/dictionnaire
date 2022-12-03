@@ -1,1 +1,0 @@
-lar[57578]=`<b>ορος (ὁ) :<br>      1</b> qui accomplit, EPIGR. (PAUS. <i>8, 52, 3</i>).<br><b>      2</b> chef, roi, EUR. <i>Andr. 508</i> ; ANTH. <i>6, 118</i>.<p><b>Étym</b>. κραίνω.`

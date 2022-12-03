@@ -1,1 +1,0 @@
-lar[39662]=`<font color="purple">[ᾰ]</font> <i>adv. béot</i>. agréablement, gracieusement, AR. <i>Ach. 867</i>.<p><b>Étym</b>. <i>béot. c</i>. ἐπιχαρίτως.`

@@ -1,1 +1,0 @@
-lar[53244]=`<b>κατα·ρρεμβεύω</b>, faire tourner dans tous les sens, <i>d’où</i> égarer, SPT. <i>Num. 32, 13</i>.`

@@ -1,1 +1,0 @@
-lar[92570]=`<b>Στησί·μβροτος, ου (ὁ)</b> Stèsimbrotos, <i>h</i>. XÉN. <i>Conv. 3, 6</i> ; PLAT. <i>Ion 350d, etc</i>.<p><b>Étym</b>. ἵστημι, βροτός.`

@@ -1,1 +1,0 @@
-lar[59386]=`<b>ωνος</b> (<i>genre inconnu</i>) Langôn, <i>lieu d’Élide,</i> PLUT. <i>Cleom. 14</i>.`

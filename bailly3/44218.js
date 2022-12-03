@@ -1,1 +1,0 @@
-lar[44218]=`<b>α (ὁ)</b> <font color="purple">[ῑῐᾱ]</font> Ekhétimidas, <i>h</i>. THC. <i>4, 119 (patr. de</i> Ἐχίτιμος, <i>n. d’h</i>. PAUS.).`

@@ -1,1 +1,0 @@
-lar[32063]=`<b>ἐκ·στραγγίζω</b>, faire distiller goutte à goutte, SPT. <i>Ezech. 23, 34</i> ; DIOSC. <i>4, 155</i>.`

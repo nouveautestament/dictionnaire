@@ -1,1 +1,0 @@
-lar[3776]=`<font color="darkgreen">(<i>seul. prés. et impf</i>. ἠκροθινιαζόμην</font>) <font color="purple">[θῑ]</font><br><b>      1</b> choisir comme prémices, <i>acc</i>. EUR. <i>H.f. 476</i>.<br><b>      2</b> offrir comme prémices, sacrifier, ATH. <i>401f</i>.<p><b>Étym</b>. ἀκροθίνια.`

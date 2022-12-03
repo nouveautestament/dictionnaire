@@ -1,1 +1,0 @@
-lar[108872]=`<b>ήεσσα, ῆεν</b>, secourable, utile, NIC. <i>Th. 576</i>.<p><b>Étym</b>. χραίσμη.`

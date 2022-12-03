@@ -1,1 +1,0 @@
-lar[58263]=`<b>ου (τὸ)</b> lieu où l’on élève du bétail, GEOP. <i>15, 8</i>.<p><b>Étym</b>. κτηνοτρόφος.`

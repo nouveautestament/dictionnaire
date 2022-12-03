@@ -1,1 +1,0 @@
-lar[3954]=`<b>Ἀκτίτης λίθος (ὁ)</b> <font color="purple">[ῑτ]</font> marbre de l’Attique, <i>particul</i>. du Pentélique, SOPH. <i>fr. 72</i>.<p><b>Étym</b>. Ἀκτή.`

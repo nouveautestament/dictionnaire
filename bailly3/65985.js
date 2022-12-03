@@ -1,1 +1,0 @@
-lar[65985]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> modique salaire, petite récompense, AR. <i>Vesp. 300</i> ; ANTH. <i>11, 154</i>.<p><b>Étym</b>. <i>dim. de</i> μισθός.`

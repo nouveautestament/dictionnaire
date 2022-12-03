@@ -1,1 +1,0 @@
-lar[45420]=`<b>ἡμί·ειλος, ος, ον</b>, qui ne reçoit le soleil que d’un côté, TH. <i>H.P. 3, 23, 1</i>.<p><b>Étym</b>. ἡμι-, εἵλη.`

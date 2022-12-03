@@ -1,1 +1,0 @@
-lar[14350]=`<b>ἀργυρό·παστος, ος, ον</b> <font color="purple">[ῠ]</font> brodé d’argent, POLYEN <i>4, 16 conj</i>.<p><b>Étym</b>. ἄ. πάσσω.`

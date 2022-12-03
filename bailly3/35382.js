@@ -1,1 +1,0 @@
-lar[35382]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> boîte à onguents <i>ou</i> à parfums, AR. <i>Ach. 1063</i> ; ANTIPH. (POLL. <i>4, 183).</i><p><b>Étym</b>. ἐξαλείφω.`

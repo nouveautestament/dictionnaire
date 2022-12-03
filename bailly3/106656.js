@@ -1,1 +1,0 @@
-lar[106656]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui porte, <i>càd</i>. féconde. TH. <i>H.P. 4, 16, 2</i>.<p><b>Étym</b>. φέρω.`

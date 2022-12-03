@@ -1,1 +1,0 @@
-lar[67042]=`<b>μυθο·γράφος, ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> qui écrit des récits fabuleux, POL. <i>4, 40, 2</i> ; DH. <i>1, 35, 15 Reiske</i> ; PLUT. <i>Thes. 1</i>.<p><b>Étym</b>. μῦθος, γράφω.`

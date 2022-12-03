@@ -1,1 +1,0 @@
-lar[63512]=`<b>Μεγά·τιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Mégatimos, <i>h</i>. ANTH. <i>7, 441</i>.`

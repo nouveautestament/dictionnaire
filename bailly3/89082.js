@@ -1,1 +1,0 @@
-lar[89082]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σαγηνευτής ANTH. <i>6, 211</i>.`

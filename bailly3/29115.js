@@ -1,1 +1,0 @@
-lar[29115]=`<b>δωδεκά·φυλος, ος, ον</b> <font color="purple">[ᾰῡ]</font> de douze tribus, SIB. <i>2, 171</i> ; τὸ δ. NT. <i>Ap. 26, 7,</i> les douze tribus d’Israël.<p><b>Étym</b>. δ. φυλή.`

@@ -1,1 +1,0 @@
-lar[42380]=`<b>εὐ·καταγώνιστος, ος, ον</b> <font color="purple">[ᾰγ]</font> facile à vaincre <i>ou</i> à conquérir, POL. <i>4, 4, 8 ; 29, 2, 8</i> ; LUC. <i>Tyr. 22, etc</i>.<p><b>Étym</b>. εὖ, καταγωνίζομαι.`

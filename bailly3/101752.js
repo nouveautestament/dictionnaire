@@ -1,1 +1,0 @@
-lar[101752]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> marché où l’on vend les coupes de bois, STR. <i>606</i>.<p><b>Étym</b>. ὑλοτόμος.`

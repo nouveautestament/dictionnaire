@@ -1,1 +1,0 @@
-lar[105943]=`<b>φιλομουσέω-ῶ</b> <font color="purple">[ῐ]</font> aimer les Muses, <i>càd</i>. les lettres, les arts, DÉMÉTR. (ATH. <i>633b</i>) ; PHILOD. <i>V. Herc</i>.<p><b>Étym</b>. φιλόμουσος.`

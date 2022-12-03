@@ -1,1 +1,0 @@
-lar[68852]=`<b>ων (οἱ)</b> les Nipsæes, <i>pple thrace,</i> HDT. <i>4, 93</i>.<p><b>Étym</b>. νίψ.`

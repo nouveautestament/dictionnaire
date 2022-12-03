@@ -1,1 +1,0 @@
-lar[5560]=`<font color="darkgreen">(<i>seul. part. épq</i>. -χανόων)</font> <i>c</i>. ἀμηχανέω ANTH. <i>9, 591</i> ; OPP. <i>H. 3, 328</i>.`

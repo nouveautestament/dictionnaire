@@ -1,1 +1,0 @@
-lar[104327]=`<b>ὑστερο·φημία, ας (ἡ)</b> renom auprès de la postérité, PLUT. <i>M. 85</i> ; M. ANT. <i>2, 17</i> ; LGN <i>14, 3</i>.<p><b>Étym</b>. ὕ. φήμη.`

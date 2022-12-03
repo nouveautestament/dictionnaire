@@ -1,1 +1,0 @@
-lar[94899]=`<b>συν·απομαραίνω</b> <font color="purple">[μᾰ]</font> flétrir avec, <i>d’où au pass</i>. se flétrir <i>ou</i> dépérir avec, <i>dat</i>. XÉN. <i>Conv. 8, 14</i> ; PLUT. <i>Phil. 18</i>.`

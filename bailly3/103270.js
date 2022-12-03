@@ -1,1 +1,0 @@
-lar[103270]=`<b>ὑπο·θλίβω</b> <font color="purple">[ῑ]</font> presser doucement, NIC. <i>Th. 296, Al. 30</i> ; LUC. <i>V.H. 2, 14</i>.`

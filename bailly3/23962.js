@@ -1,1 +1,0 @@
-lar[23962]=`<b>δερματο·φαγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> (<i>seul. prés. inf</i>.) manger la chair avec la peau, STR. <i>776</i>.<p><b>Étym</b>. δέρμα, φαγεῖν.`

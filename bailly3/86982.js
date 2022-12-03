@@ -1,1 +1,0 @@
-lar[86982]=`<b>ίδος</b> <font color="purple">[ῠᾰῐδ]</font> <i>adj. f.</i> : ναῦς, THC. <i>1, 117,</i> vaisseau placé en vedette.<p><b>Étym</b>. προφυλάσσω.`

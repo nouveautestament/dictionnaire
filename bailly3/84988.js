@@ -1,1 +1,0 @@
-lar[84988]=`<b>πρό·πολις, εως (ἡ)</b> abords <i>ou</i> enceinte d’une ville ; <i>fig</i>. propolis, matière résineuse avec laquelle les abeilles bouchent l’entrée des ruches, DIOSC. <i>2, 106</i>.<p><b>Étym</b>. π. πόλις.`

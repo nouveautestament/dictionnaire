@@ -1,1 +1,0 @@
-lar[76283]=`<b>παρα·συρίζω</b> <font color="purple">[ῡ]</font> jouer du chalumeau près de, <i>dat</i>. NONN. <i>D. 1, 521</i>.`

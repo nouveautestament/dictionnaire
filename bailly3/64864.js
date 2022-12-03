@@ -1,1 +1,0 @@
-lar[64864]=`<b>      1 <i>intr.</i></b> changer de résidence, émigrer, SPT. <i>Ps. 61, 7</i> ; SYN. <i>Ep. 124</i>.<br><b>      2 <i>tr.</i></b> faire changer de résidence, éloigner, SPT. <i>Ps. 51, 7</i>.<br><b><i>Moy.</i></b> changer de résidence, SPT. <i>Ps. 10, 1</i>.`

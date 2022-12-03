@@ -1,1 +1,0 @@
-lar[33886]=`<b>ἐναντιο·δύναμος, ος, ον</b> <font color="purple">[ῠᾰ]</font> de pouvoir contraire, <i>en parl. de nombres pairs ou impairs ; par ex. dans 5 + 5 = 10, les deux facteurs 5 sont de pouvoir contraire au total 10,</i> NICOM. <i>Arithm. p. 78</i>.<p><b>Étym</b>. ἐν. δύναμις.`

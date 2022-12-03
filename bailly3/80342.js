@@ -1,1 +1,0 @@
-lar[80342]=`<b>πινακο·γράφος, ου (ὁ)</b> <font color="purple">[ῐᾰᾰ]</font> rédacteur de tables <i>ou</i> de cartes, E. BYZ. <i>v° Ἄβδηρα</i>.<p><b>Étym</b>. πίναξ, γράφω.`

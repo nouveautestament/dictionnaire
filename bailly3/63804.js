@@ -1,1 +1,0 @@
-lar[63804]=`<b>μελαμ·βόρειος, ου (ὁ)</b> le funeste vent du Nord, STR. <i>182</i>.<p><b>Étym</b>. μέλας, βορέας.`

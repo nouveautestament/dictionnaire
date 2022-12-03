@@ -1,1 +1,0 @@
-lar[103234]=`<b>ὑπο·ζυγόω-ῶ</b> <font color="purple">[ῠγ]</font> attacher en dessous, attacher, HPC. <i>Art. 797</i>.<br><b><i>Moy.</i></b> soumettre au joug, subjuguer, <i>acc</i>. LUC. <i>Am. 28</i>.`

@@ -1,1 +1,0 @@
-lar[38821]=`<b>ἐπι·προσφθέγγομαι</b>, crier vers, acclamer, HIM. <i>p. 664</i>.`

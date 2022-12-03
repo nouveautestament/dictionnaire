@@ -1,1 +1,0 @@
-lar[34323]=`<b>ατος (τὸ)</b> injection, <i>particul</i>. lavement, DIOSC. <i>2, 144 ; 3, 6</i> ; EUP. <i>2-1, 53</i>.<p><b>Étym</b>. ἐνίημι.`

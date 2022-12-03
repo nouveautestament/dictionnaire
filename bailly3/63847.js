@@ -1,1 +1,0 @@
-lar[63847]=`<b>μελανειμονέω-ῶ</b> <font color="purple">[ᾰ]</font> être vêtu de noir, ARSTT. <i>Mir. 109, 1</i> ; STR. <i>520</i>.<p><b>Étym</b>. μελανείμων.`

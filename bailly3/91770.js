@@ -1,1 +1,0 @@
-lar[91770]=`<i>adv</i>., à Sparte, <i>avec mouv</i>. vers Sparte, OD. <i>1, 285</i>.<p><b>Étym</b>. Σπάρτη, -δε.`

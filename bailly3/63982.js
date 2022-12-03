@@ -1,1 +1,0 @@
-lar[63982]=`<b>ου (ὁ)</b> Mélèsippidas, <i>h</i>. PLUT. <i>Ages. 1</i>.<p><b>Étym</b>. <i>patr. de</i> Μελήσιππος.`

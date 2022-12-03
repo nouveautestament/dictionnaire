@@ -1,1 +1,0 @@
-lar[73266]=`<b>ὀστεο·λογέω-ῶ</b>, disserter sur les os, traiter de la science des os, GAL. <i>2, 365</i>.<p><b>Étym</b>. ὀστέον, λόγος.`

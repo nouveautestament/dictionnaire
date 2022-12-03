@@ -1,1 +1,0 @@
-lar[96093]=`<b>συν·ογκόομαι-οῦμαι</b>, se gonfler <i>ou</i> grossir ensemble, SOR. <i>Obst. p. 78 Dietz</i> ; LIB. <i>4, 1092</i>.`

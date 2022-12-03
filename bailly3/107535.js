@@ -1,1 +1,0 @@
-lar[107535]=`<i>ou</i> <b>Χαλεστραῖος, α, ον</b>, de Khalastra : Χαλαστραῖον νίτρον, ALCIPHR. <i>3, 61 ; ou</i> Χαλεστραῖον ῥύμμα, PLAT. <i>Rsp. 430a ; cf</i>. PLUT. <i>M. 134c</i>, sorte de natron <i>ou</i> d’alcali solide qu’on recueillait à Khalastra, et qui servait de savon.<p><b>Étym</b>. Χαλάστρα.`

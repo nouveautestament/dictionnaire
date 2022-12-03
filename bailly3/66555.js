@@ -1,1 +1,0 @@
-lar[66555]=`<b>μονό·κλινον, ου (τὸ)</b> <font color="purple">[ῑ]</font> couche solitaire, tombeau, ANTH. <i>9, 570</i>.<p><b>Étym</b>. μ. κλίνη.`

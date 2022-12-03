@@ -1,1 +1,0 @@
-lar[29310]=`<b>ου (ἡ)</b> mauve sauvage, GAL. <i>13, 170</i>.<p><b>Étym</b>. <i>cf</i>. ἰβίσκος.`

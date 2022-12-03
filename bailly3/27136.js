@@ -1,1 +1,0 @@
-lar[27136]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐ]</font> Diphilos (Diphile) :<br><b>      1</b> <i>poète de la nouvelle comédie,</i> PLUT. <i>Nic. 1</i> ; ATH. <i>35c, etc.</i> ; ANTH. <i>11, 439 ; etc.</i><br><b>      2</b> <i>autres,</i> DÉM. ESCHN. PLUT. <i>etc</i>.<p><b>Étym</b>. <i>contract. de</i> *Διΐφιλος, <i>litt</i>. cher à Zeus.`

@@ -1,1 +1,0 @@
-lar[7450]=`<b>ἀν·απολόγητος, ος, ον :<br>      1</b> sans excuse, POL. <i>12, 21, 10 ; 29, 4, 5</i>.<br><b>      2</b> sans s’être défendu (en justice) DH. <i>7, 46</i>.<p><b>Étym</b>. ἀν-, ἀπολογέομαι.`

@@ -1,1 +1,0 @@
-lar[28640]=`<b>δυσμαχέω-ῶ</b> <font color="purple">[ᾰ]</font> soutenir une lutte impie <i>ou</i> désespérée : τινι, SOPH. <i>Tr. 492,</i> contre qqn <i>ou</i> qqe ch. ; πρός τι, PLUT. <i>M. 661c</i>, contre qqe ch.<p><b>Étym</b>. δύσμαχος.`

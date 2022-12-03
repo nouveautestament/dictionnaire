@@ -1,1 +1,0 @@
-lar[34288]=`<b>ου (τὸ)</b> embuscade, SPT. <i>Num. 35, 20 ; Jos. 8, 2, 12 ; 1 Macc. 1, 36 ; 10, 80 ; etc.</i> ; NT. <i>Ap. 23, 16</i>.<p><b>Étym</b>. ἐνέδρα.`

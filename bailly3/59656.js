@@ -1,1 +1,0 @@
-lar[59656]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Lalos, <i>h</i>. Q. SM. <i>11, 90</i>.<p><b>Étym</b>. <i>v</i>. λάλος.`

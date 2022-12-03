@@ -1,1 +1,0 @@
-lar[101788]=`<font color="purple">[ῡ]</font> <i>adv</i>., dans votre maison, chez vous, <i>avec mouv</i>. IL. <i>23, 86</i>.<p><b>Étym</b>. ὑμέτερος, -δε.`

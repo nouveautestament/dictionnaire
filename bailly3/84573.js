@@ -1,1 +1,0 @@
-lar[84573]=`<b>προ·κνημίς, ῖδος (ἡ)</b> <font color="purple">[ῑδ]</font> armure pour le devant de la jambe, POL. <i>6, 23, 8</i> ; POLYEN <i>6, 4, 2</i>.<p><b>Étym</b>. π. κνήμη.`

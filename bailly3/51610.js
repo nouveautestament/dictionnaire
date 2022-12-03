@@ -1,1 +1,0 @@
-lar[51610]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. de Capène, <i>v. d’Étrurie,</i> PLUT. <i>Cam. 2, 5, 17</i>.<p><b>Étym</b>. <i>v</i>. Καπίννα.`

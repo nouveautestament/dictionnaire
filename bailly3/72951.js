@@ -1,1 +1,0 @@
-lar[72951]=`<b>ὀρνιθο·φυής, ής, ές</b> <font color="purple">[ῑ]</font> qui est de la nature <i>ou</i> qui a la forme d’un oiseau, ATH. <i>491d</i>.<p><b>Étym</b>. ὄρνις, φύω.`

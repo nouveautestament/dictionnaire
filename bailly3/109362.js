@@ -1,1 +1,0 @@
-lar[109362]=`<i>dor., crase poét. p</i>. καὶ ὑμεῖς, ESCHL. <i>Eum. 1003</i> ; THCR. <i>Idyl. 5, 111</i>.`

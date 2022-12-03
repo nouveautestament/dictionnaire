@@ -1,1 +1,0 @@
-lar[54869]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui heurte de ses cornes, SPT. <i>Ex. 21, 29 et 36</i>.<p><b>Étym</b>. κερατίζω.`

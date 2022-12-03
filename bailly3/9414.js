@@ -1,1 +1,0 @@
-lar[9414]=`<b>ἀντ·αισχύνομαι</b> <font color="darkgreen">(<i>impf</i>. ἀντῃσχυνόμην)</font> rougir à son tour, A. TAT. <i>4, 8</i>.`

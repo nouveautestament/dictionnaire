@@ -1,1 +1,0 @@
-lar[50637]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> fourberie, méchanceté, POL. <i>4, 87, 4</i>.<p><b>Étym</b>. κακεντρεχής.`

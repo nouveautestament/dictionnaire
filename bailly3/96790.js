@@ -1,1 +1,0 @@
-lar[96790]=`<i>adv</i>., en forme de sphère, DL. <i>7, 158</i>.<p><b>Étym</b>. σφαιροειδής.`

@@ -1,1 +1,0 @@
-lar[9975]=`<b>ἀντί·κοιλον, ου (τὸ)</b> la partie convexe de la plante du pied, POLÉM. <i>Physiogn. 2, 27</i>.<p><b>Étym</b>. ἀ. κοῖλος.`

@@ -1,1 +1,0 @@
-lar[2345]=`<b>εως (ἡ) :<br>      1</b> pitié, compassion, DÉM. <i>528, 8</i>.<br><b>      2</b> respect, PHIL.<p><b>Étym</b>. αἰδέομαι.`

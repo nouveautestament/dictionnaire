@@ -1,1 +1,0 @@
-lar[49562]=`<b>ἰσ·ήρετμος, ος, ον</b> <font color="purple">[ῑ̆]</font> garni d’autant de rames, EUR. <i>I.A. 242</i>.<p><b>Étym</b>. ἴ. ἐρετμός.`

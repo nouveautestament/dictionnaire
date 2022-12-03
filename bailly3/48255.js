@@ -1,1 +1,0 @@
-lar[48255]=`<font color="purple">[πᾰ]</font> <i>interj</i>. oh! oh! <i>pour marquer l’étonnement,</i> AR. <i>Th. 945</i>.`

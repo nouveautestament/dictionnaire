@@ -1,1 +1,0 @@
-lar[19389]=`<b>ωνος (ὁ)</b> Batôn :<br><b>      1</b> <i>historien,</i> STR. ATH.<br><b>      2</b> <i>poète comique,</i> ATH. <i>etc</i>.`

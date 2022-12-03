@@ -1,1 +1,0 @@
-lar[61427]=`<font color="purple">[ῐ]</font> <i>c</i>. λίσσομαι, HH. <i>15, 5 ; 18, 48</i> ; AR. <i>Th. 313</i> ; ANTH. <i>5, 165</i>.<p>➳ <i>Seul. prés</i>. HH. <i>16, 5 ; 19, 48</i> ; AR. <i>l. c.</i> ; ANTH. <i>l. c. etc. ; part. dor</i>. λιτομέναν, AR. <i>Th. 1040 ; ao.2</i> ἐλιτόμην, <i>d’où opt</i>. λιτοίμην, OD. <i>14, 406, et inf</i>. λιτέσθαι, IL. <i>16, 47</i>.`

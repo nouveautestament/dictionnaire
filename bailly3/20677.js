@@ -1,1 +1,0 @@
-lar[20677]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰῑο]</font> bracelet, PLUT. <i>Rom. 17</i>.<p><b>Étym</b>. *βραχιονίζω, <i>de</i> βραχίων.`

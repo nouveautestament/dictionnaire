@@ -1,1 +1,0 @@
-lar[70914]=`<b>ὀλβιό·τυφος, ος, ον</b> <font color="purple">[ῡ]</font> heureux dans son orgueil <i>ou</i> sa vanité, BION (DL. <i>4, 52).</i><p><b>Étym</b>. ὄ. τῦφος.`

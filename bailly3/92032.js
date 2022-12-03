@@ -1,1 +1,0 @@
-lar[92032]=`<i>adv</i>., sérieusement, PLUT. <i>M. 613a</i>.`

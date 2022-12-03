@@ -1,1 +1,0 @@
-lar[5070]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> meunier, BABR. <i>29, 4</i>.<p><b>Étym</b>. ἄλφιτον.`

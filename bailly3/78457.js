@@ -1,1 +1,0 @@
-lar[78457]=`<b>ου (τὸ)</b> <i>propr</i>. enveloppe, <i>d’où</i> :<br><b>      1</b> vêtement, manteau, EUR. <i>H.f. 549, en parl. de la chair qui recouvre le corps,</i> EUR. <i>H.f. 1269</i>.<br><b>      2</b> couverture pour les pieds, PLUT. <i>Arat. 43</i> ; couverture d’un char, d’une voiture, PLUT. <i>Alex. 67</i>.<p><b>Étym</b>. περιβολή.`

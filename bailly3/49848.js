@@ -1,1 +1,0 @@
-lar[49848]=`<b>ἱστοριογραφέω-ῶ</b> <font color="purple">[ᾰ]</font> écrire l’histoire, DH. <i>Thuc. 42</i>.<p><b>Étym</b>. ἱστοριογράφος.`

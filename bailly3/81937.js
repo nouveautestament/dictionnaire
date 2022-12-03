@@ -1,1 +1,0 @@
-lar[81937]=`<b>πολυ·θρίδαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> abondant en laitues, DIOM. <i>326, 17</i>.`

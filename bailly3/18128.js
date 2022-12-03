@@ -1,1 +1,0 @@
-lar[18128]=`<b>ας (ἡ)</b> ignorance de l’équitation, XÉN. <i>Hipp. 8, 13</i>.<p><b>Étym</b>. ἄφιππος.`

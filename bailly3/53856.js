@@ -1,1 +1,0 @@
-lar[53856]=`<b>κατ·ελέγχω :<br>      1</b> démentir, réfuter, <i>acc</i>. HÉS. <i>O. 712</i>.<br><b>      2</b> déshonorer, <i>acc</i>. PD. <i>O. 8, 25, etc</i>.`

@@ -1,1 +1,0 @@
-lar[65147]=`<b>μετεωρο·πόρος, ος, ον</b>, qui s’élance dans les régions élevées, <i>fig</i>. NYSS. <i>1, 2</i>.<p><b>Étym</b>. μ. πορέω.`

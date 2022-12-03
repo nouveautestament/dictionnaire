@@ -1,1 +1,0 @@
-lar[26476]=`<b>δικαιό·μετρος, ος, ον</b> <font color="purple">[ῐ]</font> d’une juste mesure, HÉRON <i>Spir. 195</i>.<p><b>Étym</b>. δ. μέτρον.`

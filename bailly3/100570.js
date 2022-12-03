@@ -1,1 +1,0 @@
-lar[100570]=`<b>ου (ὁ)</b> Tritymallos, <i>h</i>. PLUT. <i>Cleom. 19</i>.`

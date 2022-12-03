@@ -1,1 +1,0 @@
-lar[7622]=`<b>ή, όν :<br>      1</b> propre à renverser, à détruire, <i>gén</i>. SEXT. <i>M. 8, 196 ; p. suite,</i> propre à réfuter, ARSTT. <i>Top. 7, 2</i>.<br><b>      2</b> propre à guérir, DIOSC. <i>1, 39</i>.<p><b>Étym</b>. ἀνασκευάζω.`

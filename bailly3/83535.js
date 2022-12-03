@@ -1,1 +1,0 @@
-lar[83535]=`<b>προ·αμύνομαι</b> <font color="purple">[ᾰῡ]</font> se mettre d’avance en garde contre, THC. <i>3, 12</i> ; τινά τινος, THC. <i>6, 38,</i> se mettre à l’égard de qqn en défense contre qqe ch.`

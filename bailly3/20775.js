@@ -1,1 +1,0 @@
-lar[20775]=`<b>α, ον</b>, du Bruttium, <i>en parl. de pers</i>. PLUT. <i>Fab. 21</i> ; POLYEN <i>8, 14, 3</i> ; ANTH. <i>6, 132 ; en parl. de choses,</i> AR. <i>fr. 719</i> ; οἱ βρέττιοι, les habitants du Bruttium, POL. <i>10, 1</i> ; DH. <i>1, 89</i> ; DS. <i>etc. d’où p. ext</i>., la région du Bruttium, PLUT. <i>Tim. 19. Cf</i>. βρύττιοι.`

@@ -1,1 +1,0 @@
-lar[82076]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> abondance de paroles, <i>en b. et en mauv. part</i> : XÉN. <i>Cyr. 1, 4, 3</i> ; PLAT. <i>Leg. 641e ;</i> ARSTT. <i>Pol. 4, 10, 1</i>.<p><b>Étym</b>. πολυλόγος.`

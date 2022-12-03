@@ -1,1 +1,0 @@
-lar[62170]=`<b>ατος (τὸ)</b> frange <i>ou</i> bordure d’un vêtement, SPT. <i>Ex. 29, 30 ; 39, 31</i>.`

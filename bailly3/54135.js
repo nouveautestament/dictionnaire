@@ -1,1 +1,0 @@
-lar[54135]=`<b>κατ·ονομάζω :<br>      1</b> nommer, dénommer, <i>acc</i>. ARSTT. <i>Eud. 2, 3, 12</i> ; TH. <i>Od. 2</i> ; τι ἀπό τινος, STR. <i>604,</i> une chose d’après une autre.<br><b>      2</b> promettre, accorder : τινὰ γυναῖκά τινι, POL. <i>5, 43, 1,</i> une jeune fille comme femme à qqn.<br><b>      3</b> consacrer, dédier, dévouer, PHALAR. <i>Ep. 110, p. 318</i>.`

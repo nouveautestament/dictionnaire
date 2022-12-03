@@ -1,1 +1,0 @@
-lar[51602]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> commerce de détail, <i>particul</i>. petit commerce de vin et d’épicerie, PLAT. <i>Leg. 849d ;</i> DL. <i>1, 104</i>.<p><b>Étym</b>. καπηλεύω.`

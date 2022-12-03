@@ -1,1 +1,0 @@
-lar[94555]=`<b>συν·άγχη, ης (ἡ)</b> angine, DÉMAD. (POLL. <i>7, 104</i>) ; PLUT. <i>Dem. 25</i> ; LUC. <i>Pseud. 27, etc</i>.<p><b>Étym</b>. σ. ἄγχω.`

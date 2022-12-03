@@ -1,1 +1,0 @@
-lar[39617]=`<b>ἐπί·φρουρος, ος, ον</b>, qui veille sur <i>ou</i> auprès de, <i>dat</i>. EUR. <i>Or. 1575</i>.<p><b>Étym</b>. ἐπί, φρουρά.`

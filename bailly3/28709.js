@@ -1,1 +1,0 @@
-lar[28709]=`<b>δυσοδο·παίπαλος, ος, ον</b> <font color="purple">[ῠᾰ]</font> aux roches impraticables, ESCHL. <i>Eum. 387</i>.<p><b>Étym</b>. δύσοδος, παίπαλα.`

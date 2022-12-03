@@ -1,1 +1,0 @@
-lar[93593]=`<b>συγ·χαλκεύω</b>, souder avec, <i>dat</i>. ATH. <i>488f</i>.`

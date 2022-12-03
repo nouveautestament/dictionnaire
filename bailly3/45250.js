@@ -1,1 +1,0 @@
-lar[45250]=`<b>ἡλιό·φυτον, ου (τὸ)</b> <font color="purple">[ῠ]</font> smilax, <i>plante,</i> DIOSC. <i>4, 144</i>.<p><b>Étym</b>. ἥ. φυτόν.`

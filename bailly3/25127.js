@@ -1,1 +1,0 @@
-lar[25127]=`<b>ή, όν :<br>      1</b> <i>act</i>. qui répartit, qui distribue, <i>gén</i>. PLAT. <i>Tim. 55a ;</i> ARSTT. <i>Nic. 5, 4, 2, etc.</i><br><b>      2</b> <i>pass</i>. que l’on peut partager, divisible, PLUT. <i>M. 1033c</i>.<p><b>Étym</b>. διανέμω.`

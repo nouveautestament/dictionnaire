@@ -1,1 +1,0 @@
-lar[110482]=`<font color="purple">[ῡ]</font> <i>adv</i>., en hurlant, NIC. <i>Al. 222</i>.<p><b>Étym</b>. ὠρύω, -δον.`

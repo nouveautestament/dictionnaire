@@ -1,1 +1,0 @@
-lar[57558]=`<b>α, ον</b> <font color="purple">[ᾰν]</font> <i>c</i>. κρανέϊνος, EL. <i>N.A. 1, 23</i>.`

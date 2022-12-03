@@ -1,1 +1,0 @@
-lar[21151]=`<b>ου (ὁ)</b> <i>autre n. du poisson</i> ὄνος, DORION (ATH. <i>315f</i>).`

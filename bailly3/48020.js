@@ -1,1 +1,0 @@
-lar[48020]=`<b>θυρ·επανοίκτης, ου</b> <font color="purple">[ῠᾰ]</font> <i>adj. m</i>. qui ouvre les portes, <i>ép. du philosophe Kratès qui s’introduisait indiscrètement partout,</i> PLUT. <i>M. 632e ;</i> DL. <i>6, 86</i>.<p><b>Étym</b>. θύρα, ἐπανοίγω.`

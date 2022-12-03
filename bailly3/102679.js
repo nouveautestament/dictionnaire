@@ -1,1 +1,0 @@
-lar[102679]=`<b>ὑπερογκέω-ῶ</b>, être plus enflé <i>ou</i> plus gros que, <i>gén</i>. HPC. <i>Art. 819</i>.<p><b>Étym</b>. ὑπέρογκος.`

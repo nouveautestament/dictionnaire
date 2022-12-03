@@ -1,1 +1,0 @@
-lar[18662]=`<b>ἀωρο·θάνατος, ος, ον</b> <font color="purple">[θᾰᾰ]</font> mort <i>ou</i> qui meurt prématurément, ARSTT. <i>fr. 592</i>.<p><b>Étym</b>. ἄωρος, θάνατος.`

@@ -1,1 +1,0 @@
-lar[14586]=`<i>adv</i>., distinctement, clairement, OD. <i>12, 453</i>.<p><b>Étym</b>. ἀρίζηλος.`

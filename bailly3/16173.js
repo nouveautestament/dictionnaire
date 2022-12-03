@@ -1,1 +1,0 @@
-lar[16173]=`<b>ἀ·στεργής, ής, ές :<br>      1</b> haineux, implacable, SOPH. <i>Aj. 776</i>.<br><b>      2</b> non aimable, pénible, intolérable, SOPH. <i>O.R. 229</i>.<p><b>Étym</b>. ἀ, στέργω.`

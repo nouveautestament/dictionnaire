@@ -1,1 +1,0 @@
-lar[60821]=`<b>ου (ὁ)</b> le dieu du pressoir, <i>càd</i>. Dionysos, ORPH. <i>H. 50</i> ; DS. <i>4, 5</i> ; ANTH. <i>9, 519, etc</i>.<p><b>Étym</b>. Λῆναι ; <i>cf</i>. Λήναια.`

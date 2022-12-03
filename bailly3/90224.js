@@ -1,1 +1,0 @@
-lar[90224]=`<b>ας (ἡ)</b> <font color="purple">[σῐ, <i>v. ci-dessous</i>]</font> Sicile, <i>î. voisine de l’Italie,</i> THC. <i>1, 12, etc.</i> ; XÉN. <i>Hell. 1, 1, 37, etc. ; au plur</i>. Σικελίαι, PLUT. <i>Tim. 20,</i> des pays comme la Sicile.<p>➳ <font color="purple">[σῑ]</font> PD. <i>O. 1, 20, etc.</i> ; ESCHL. <i>Pr. 369, etc. ; ion</i>. Σικελίη, HDT. <i>1, 24, etc</i>.`

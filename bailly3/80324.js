@@ -1,1 +1,0 @@
-lar[80324]=`<b>ας (ἡ)</b> Pimpleia, <i>mt. et source de Piérie, en Macédoine, consacrée aux Muses,</i> STR. <i>330, 410</i> ; CALL. <i>Del. 7, etc</i>.`

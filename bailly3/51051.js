@@ -1,1 +1,0 @@
-lar[51051]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> maisonnette, PLUT. <i>M. 418a.</i><br><b>      2</b> chapelle, DH. <i>3, 70</i> ; PLUT. <i>Cam. 32 ; joint à</i> ναός, PLUT. <i>Num. 8</i>.<p><b>Étym</b>. <i>cf</i>. καλιά.`

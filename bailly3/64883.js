@@ -1,1 +1,0 @@
-lar[64883]=`<b>μετα·παιδεύω</b>, élever d’une autre manière, LUC. <i>Anach. 17</i>.`

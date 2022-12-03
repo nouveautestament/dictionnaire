@@ -1,1 +1,0 @@
-lar[52566]=`<b>κατα·κλυδωνίζω</b> <font color="purple">[ῠ]</font> inonder, EUM. <i>p. 246</i>.`

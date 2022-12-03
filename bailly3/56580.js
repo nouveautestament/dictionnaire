@@ -1,1 +1,0 @@
-lar[56580]=`<b>ῶν (οἱ)</b> les Kokylites, <i>tribu éolienne,</i> XÉN. <i>Hell. 3, 1, 16</i>.`

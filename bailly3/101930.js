@@ -1,1 +1,0 @@
-lar[101930]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰ]</font> action d’échapper à, d’éviter, IL. <i>22, 270</i> ; OD. <i>23, 287</i> ; A.RH. <i>4, 1261</i>.<p><b>Étym</b>. ὑπαλύσκω.`

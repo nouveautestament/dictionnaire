@@ -1,1 +1,0 @@
-lar[58287]=`<i>adv</i>., au possessif, DYSC. <i>Synt. p. 79, 7, etc</i>.`

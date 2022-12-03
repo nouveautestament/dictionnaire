@@ -1,1 +1,0 @@
-lar[89339]=`<b>ων (οἱ)</b> les Sapæes, <i>pple thrace,</i> HDT. <i>7, 110</i>.`

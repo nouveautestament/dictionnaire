@@ -1,1 +1,0 @@
-lar[56387]=`<b>ῶν (οἱ)</b> les descendants de Kodros, ARSTT. <i>Ath. 3, 3</i> ; EL. <i>V.H. 5, 13</i>.<p><b>Étym</b>. <i>v</i>. Κόδρος.`

@@ -1,1 +1,0 @@
-lar[81393]=`<b>ποικιλό·διφρος, ος, ον</b> <font color="purple">[ῐ]</font> au char <i>ou</i> à l’attelage orné de diverses couleurs, ORACL. (POLL. <i>7, 112</i>) ; ATH. <i>568d, etc</i>.<p><b>Étym</b>. π. δίφρος.`

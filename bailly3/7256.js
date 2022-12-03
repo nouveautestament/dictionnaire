@@ -1,1 +1,0 @@
-lar[7256]=`<b>ἀνα·νοέω-οῶ</b>, réfléchir, méditer, X. ÉPH. <i>1, 11 dout</i>.`

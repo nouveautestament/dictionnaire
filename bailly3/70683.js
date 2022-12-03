@@ -1,1 +1,0 @@
-lar[70683]=`et <b>οἰσπώτη, ης (ἡ)</b> suint, graisse de la laine de brebis, AR. <i>Lys. 575</i> ; DC. <i>46, 5</i>.`

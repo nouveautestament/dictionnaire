@@ -1,1 +1,0 @@
-lar[72923]=`<b>ὀρνιθο·βοσκεῖον, ου (τὸ)</b> <font color="purple">[ῑθ]</font> basse-cour, poulailler, VARR. <i>R.R. 3, 9, 2</i>.<p><b>Étym</b>. ὄρνις, βόσκω.`

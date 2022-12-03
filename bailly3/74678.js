@@ -1,1 +1,0 @@
-lar[74678]=`<b>(τὸ)</b> Palôdes, <i>lieu près de</i> Παξοί, PLUT. <i>Def. or. 17</i>.`

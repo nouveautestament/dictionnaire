@@ -1,1 +1,0 @@
-lar[83332]=`<b>ας</b>, <i>adj. f. c</i>. πρέσβα, HH. <i>Ven. 32</i> ; EUR. <i>I.T. 963 ; p. opp. à</i> νεᾶνις, AR. <i>Lys. 86 ; fig</i>. AR. <i>Ach. 883</i>.`

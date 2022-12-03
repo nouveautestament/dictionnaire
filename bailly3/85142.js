@@ -1,1 +1,0 @@
-lar[85142]=`<b>προσ·ανακαίω</b>, brûler en outre, <i>acc</i>. PHIL. <i>1, 428</i>.`

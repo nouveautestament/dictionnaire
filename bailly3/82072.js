@@ -1,1 +1,0 @@
-lar[82072]=`<b>πολύ·λλιτος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. πολύλλιστος CALL. <i>Del. 316 ; Ap. 80, etc.</i> ; MAN. <i>6, 741</i>.`

@@ -1,1 +1,0 @@
-lar[72306]=`<b>ατος (τὸ)</b> suc extrait par incision des arbres et des plantes, DIOSC. <i>3, 25</i>.<p><b>Étym</b>. ὀπίζω.`

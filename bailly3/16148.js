@@ -1,1 +1,0 @@
-lar[16148]=`<b>ἄ·στεγος, ος, ον</b>, sans toit, non couvert, Ps.-PHOCYL. <i>24</i> ; SPT. <i>Esaï. 58, 7 ; fig</i>. ἄ. χείλεσι, SPT. <i>Prov. 10, 8,</i> dont les lèvres ne savent pas rester fermées, <i>càd</i>. garder un secret.<p><b>Étym</b>. ἀ, στέγω.`

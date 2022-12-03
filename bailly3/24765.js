@@ -1,1 +1,0 @@
-lar[24765]=`<font color="purple">[ῡ]</font> envoyer un héraut, <i>càd</i>. un parlementaire : πρός τινα, THC. <i>4, 38</i>, à qqn.`

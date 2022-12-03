@@ -1,1 +1,0 @@
-lar[64530]=`<b>μεσο·κύνιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> pâturon d’un cheval, HIPPIATR.<p><b>Étym</b>. μ. κύων.`

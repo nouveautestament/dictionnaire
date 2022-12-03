@@ -1,1 +1,0 @@
-lar[31909]=`<b>ἐκ·πομπεύω :<br>      1</b> s’avancer d’un air superbe, LUC. <i>Dom. 11</i>.<br><b>      2 <i>tr.</i></b> livrer à la risée publique, DC. <i>77, 5</i> ; CHRYS. <i>6, 359</i> ; BAS. <i>3, 615</i>.`

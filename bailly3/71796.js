@@ -1,1 +1,0 @@
-lar[71796]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à du verjus, acide, sur, HPC. <i>95</i> ; TH. <i>H.P. 3, 13, 6</i> ; GEOP. <i>4, 15, 4</i>.<p><b>Étym</b>. ὄμφαξ, -ωδης.`

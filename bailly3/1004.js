@@ -1,1 +1,0 @@
-lar[1004]=`<b>ἀγυιο·πλαστέω-ῶ</b>, façonner des nids à compartiments comme des rues, LYC. <i>601</i>.<p><b>Étym</b>. ἀγυιά, πλάσσω.`

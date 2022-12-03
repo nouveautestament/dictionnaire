@@ -1,1 +1,0 @@
-lar[77743]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. pélasgique <i>ou</i> grec, HDT. <i>2, 171, etc</i>.<p><b>Étym</b>. Πελασγοί.`

@@ -1,1 +1,0 @@
-lar[9030]=`<b>ἀνθ·ωραΐζομαι</b> <font color="darkgreen">(<i>imp</i>. ἀνθωραϊζόμην)</font> <font color="purple">[ρᾱ]</font> rivaliser d’éclat <i>ou</i> de beauté, NAZ.`

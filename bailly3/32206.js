@@ -1,1 +1,0 @@
-lar[32206]=`<b>ἐκ·τορμέω-ῶ</b>, s’écarter du droit chemin, PAUS. (EUST. <i>598, 26).</i><p><b>Étym</b>. ἐκ, τόρμος.`

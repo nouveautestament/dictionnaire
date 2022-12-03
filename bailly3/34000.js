@@ -1,1 +1,0 @@
-lar[34000]=`<b>ἐν·αποψύχω</b> <font color="purple">[ῡ]</font><br><b>      1</b> se soulager le ventre, HÉS. <i>O. 757</i>.<br><b>      2</b> <i>postér</i>. rendre l’âme entre (les mains de qqn) NAZ. <i>3, 297 ; d’où</i> rendre l’âme, expirer, ANTH. <i>9, 1</i>.`

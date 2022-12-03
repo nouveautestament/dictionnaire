@@ -1,1 +1,0 @@
-lar[25320]=`<b>δι·αποκρίνω</b> <font color="purple">[ῑν]</font> décider, PHILOD. <i>Œc. 15</i>.`

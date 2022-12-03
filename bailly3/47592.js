@@ -1,1 +1,0 @@
-lar[47592]=`<b>θρασύ·μαχος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> hardi dans le combat, ARSTT. <i>Rhet. 2, 23, 29</i>.<p><b>Étym</b>. θ. μάχη.`

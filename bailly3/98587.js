@@ -1,1 +1,0 @@
-lar[98587]=`<b>τετρά·κνημος</b>, <i>dor</i>. <b>τετρά·κναμος, ος, ον</b> <font color="purple">[νᾱ]</font> à quatre rayons, PD. <i>P. 2, 73 ; 4, 382</i>.<p><b>Étym</b>. τ. κνήμη.`

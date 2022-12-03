@@ -1,1 +1,0 @@
-lar[18875]=`<b>ή, όν</b>, de Bactres <i>ou</i> de Bactriane, ARSTT. PLUT. <i>etc.</i> ; οἱ βακτριανοί, HDT. XÉN. les Bactriens, habitants de la Bactriane.<p><b>Étym</b>. βάκτρα.`

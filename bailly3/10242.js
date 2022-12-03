@@ -1,1 +1,0 @@
-lar[10242]=`<b>ἀντι·πέραν</b> <font color="purple">[ρᾱ]</font> <i>adv</i>., de l’autre côté, en face de : ἡ ἀ. ἤπειρος, XÉN. <i>Hell. 6, 2, 9,</i> le continent opposé : Ἀσιάδ' ἀντιπέρην (<i>ion</i>.) τε, MOSCH. <i>1, 9,</i> l’Asie et le continent opposé.<p>➳ <i>Ion</i>. -ην, MOSCH. <i>l. c.</i> ; A.RH. <i>2, 177, etc.</i> ; ARAT. <i>273, etc</i>.<p><b>Étym</b>. ἀ. πέραν.`

@@ -1,1 +1,0 @@
-lar[74247]=`<b>ή, όν</b>, qui concerne l’amour pour les jeunes garçons, LUC. <i>Dom. 4</i>.<p><b>Étym</b>. παιδεραστής.`

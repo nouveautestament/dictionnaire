@@ -1,1 +1,0 @@
-lar[12700]=`<b>ἀπο·κυέω-ῶ</b>, mettre au monde, enfanter, DH. <i>1, 70</i> ; PLUT. <i>Syll. 37</i> ; LUC. <i>D. mar. 10, 1, etc. ; fig. en parl. du péché qui enfante la mort,</i> NT. <i>Jac. 1, 15</i>.`

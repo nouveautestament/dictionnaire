@@ -1,1 +1,0 @@
-lar[41446]=`<b>ἑτοιμο·θάνατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> prêt à la mort, STR. <i>713</i>.<p><b>Étym</b>. ἕτοιμος, θάνατος.`

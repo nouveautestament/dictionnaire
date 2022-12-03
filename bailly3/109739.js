@@ -1,1 +1,0 @@
-lar[109739]=`<b>ψευδο·στομέω-ῶ</b>, avoir le mensonge à la bouche, parler faussement, SOPH. <i>O.C. 1127</i> ; LUC. <i>Oc. 8</i>.<p><b>Étym</b>. ψ. στόμα.`

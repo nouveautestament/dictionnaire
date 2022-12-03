@@ -1,1 +1,0 @@
-lar[33093]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> THC. <i>3, 29, ou</i> <b>Ἔμβατα, ων (τὰ)</b> POLYEN <i>3, 9, 29,</i> le Détroit (<i>litt</i>. passage) <i>entre Érythrée et Khios</i>.<p><b>Étym</b>. ἐμβατός.`

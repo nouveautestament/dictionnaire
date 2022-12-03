@@ -1,1 +1,0 @@
-lar[11385]=`<b>ἀπ·αριθμέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -ήσω, <i>ao</i>. ἀπηρίθμησα, <i>pf</i>. ἀπηρίθμηκα)</font> <font color="purple">[ᾰρ]</font><br><b>      1</b> compter avec soin, XÉN. <i>Œc. 9, 10</i>.<br><b>      2</b> compter en retour, restituer, payer une dette, XÉN. <i>Cyr. 3, 1, 19</i>.<br><b>      3</b> raconter, ARSTT. <i>Poet. 13, 7</i>.`

@@ -1,1 +1,0 @@
-lar[108087]=`<b>χειμωνο·τύπος, ος, ον</b> <font color="purple">[ῠ]</font> qui fouette avec le vent <i>ou</i> la pluie d’orage, ESCHL. <i>Suppl. 34</i>.<p><b>Étym</b>. χειμών, τύπτω.`

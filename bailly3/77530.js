@@ -1,1 +1,0 @@
-lar[77530]=`<b>οῦ (ὁ)</b> qui entrave, qui lie, ANTH. <i>9, 756</i>.<p><b>Étym</b>. πεδάω.`

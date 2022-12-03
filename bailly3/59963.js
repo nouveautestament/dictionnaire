@@ -1,1 +1,0 @@
-lar[59963]=`<b>ή, όν</b>, mercenaire, servile, SPT. <i>Ex. 12, 16 ; Num. 29, 7</i>.<p><b>Étym</b>. <i>vb. de</i> λατρεύω.`

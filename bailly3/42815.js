@@ -1,1 +1,0 @@
-lar[42815]=`<b>ου (ὁ)</b> Euxénidas, <i>h</i>. ANTH. <i>App. 316</i>.<p><b>Étym</b>. <i>patr. de</i> Εὔξενος.`

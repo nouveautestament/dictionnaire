@@ -1,1 +1,0 @@
-lar[106213]=`<b>φίλ·οψος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la bonne chère, gourmand, PLUT. <i>M. 665d, 667f, etc.</i> ; D. CHR. <i>2, 349</i>.<p>•<i> Sup</i>. -ότατος, PLUT. <i>M. 668c</i>.<p><b>Étym</b>. φ. ὄψον.`

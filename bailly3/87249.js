@@ -1,1 +1,0 @@
-lar[87249]=`<b>ου (ὁ)</b> Prôtos, <i>h</i>. DÉM. <i>32, 15 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. πρῶτος.`

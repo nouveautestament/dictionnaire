@@ -1,1 +1,0 @@
-lar[82578]=`<b>πολύ·χροια, ας (ἡ)</b> grande variété de couleurs, ARSTT. <i>Probl. 34, 4, 2</i>.<p><b>Étym</b>. π. χρόα.`

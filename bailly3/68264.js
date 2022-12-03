@@ -1,1 +1,0 @@
-lar[68264]=`<b>νεο·σφαγής, ής, ές</b> <font color="purple">[ᾰ]</font> récemment égorgé, SOPH. <i>Aj. 546, 898</i> ; EUR. <i>Hec. 894, etc.</i> ; PLUT. <i>Cam. 31</i>.<p><b>Étym</b>. ν. σφάζω.`

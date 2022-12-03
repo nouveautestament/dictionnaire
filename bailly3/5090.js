@@ -1,1 +1,0 @@
-lar[5090]=`<i>gén. et acc. sg. de</i> ἅλως.`

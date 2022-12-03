@@ -1,1 +1,0 @@
-lar[84296]=`<b>προ·εφοράω-ῶ</b> <font color="darkgreen">(<i>f</i>. προεπόψομαι, <i>ao.2</i> προεπεῖδον, <i>etc</i>.)</font> examiner auparavant, M. ANT. <i>7, 49</i>.`

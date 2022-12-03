@@ -1,1 +1,0 @@
-lar[76434]=`<b>παρα·φρυκτωρέω-ῶ</b>, correspondre avec l’ennemi au moyen de signaux, DIN. (HARP.).`

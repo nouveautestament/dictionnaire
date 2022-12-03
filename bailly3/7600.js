@@ -1,1 +1,0 @@
-lar[7600]=`<b>ἀνα·σβέννυμι</b>, éteindre, amortir, PLUT. <i>M. 917d dout</i>.`

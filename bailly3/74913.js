@@ -1,1 +1,0 @@
-lar[74913]=`<font color="purple">[δᾱ]</font> <i>dor. c</i>. πάνδημος.`

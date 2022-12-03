@@ -1,1 +1,0 @@
-lar[75985]=`<b>παρ·ανίημι</b> <font color="purple">[ᾰν]</font> relâcher, détendre, PLUT. <i>M. 1145d</i>.`

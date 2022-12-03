@@ -1,1 +1,0 @@
-lar[52354]=`<b>κατά·δρυμος, ος, ον</b> <font color="purple">[ῠ]</font> couvert de forêts, de broussailles, STR. <i>199</i>.<p><b>Étym</b>. κ. δρυμός.`

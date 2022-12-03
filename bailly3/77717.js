@@ -1,1 +1,0 @@
-lar[77717]=`<b>πελαγο·λιμήν, ένος (ὁ, ἡ)</b> <font color="purple">[ᾰῐ]</font> port en pleine mer, <i>càd</i>. formé par des jetées, POLYEN <i>3, 9, 38</i>.`

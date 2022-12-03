@@ -1,1 +1,0 @@
-lar[48285]=`<b>ου (ἡ)</b> Iasos, <i>v. de Carie,</i> THC. <i>8, 28</i>.`

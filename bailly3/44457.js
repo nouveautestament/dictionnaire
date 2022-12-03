@@ -1,1 +1,0 @@
-lar[44457]=`<b>ητος (ἡ)</b> chaleur d’un liquide bouillant, PAUS. <i>10, 11, 4</i>.<p><b>Étym</b>. ζεστός.`

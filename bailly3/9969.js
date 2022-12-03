@@ -1,1 +1,0 @@
-lar[9969]=`<b>ἀντί·κλεις, ειδος (ἡ)</b> seconde clef <i>ou</i> fausse clef, CLÉM. <i>897</i>.<p><b>Étym</b>. ἀ. κλείς.`

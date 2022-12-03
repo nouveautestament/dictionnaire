@@ -1,1 +1,0 @@
-lar[101065]=`<font color="purple">[ῠ]</font> <i>c</i>. τυπόω, OPP. <i>C. 1, 458</i>.`

@@ -1,1 +1,0 @@
-lar[91595]=`<b>ή, όν :<br>      1</b> spongieux, poreux, HPC. <i>408, 42</i> ; ARSTT. <i>H.A. 1, 11, 12 ; en parl. de la chair de certains poissons,</i> ARCHESTR. (ATH. <i>316a</i>).<br><b>      2</b> creux, sourd, <i>en parl. du son ou de la voix,</i> HPC. <i>471, 43</i>.`

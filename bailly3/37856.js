@@ -1,1 +1,0 @@
-lar[37856]=`<b>ἐπι·θωρακίζομαι</b> <font color="purple">[ᾱ]</font> endosser une cuirasse, XÉN. <i>Cyr. 3, 3, 27</i>.`

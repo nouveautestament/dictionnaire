@@ -1,1 +1,0 @@
-lar[99032]=`<b>ου (ὁ)</b> Tèridatès, <i>Perse,</i> EL. <i>V.H. 12, 1</i>.`

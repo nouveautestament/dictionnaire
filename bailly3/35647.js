@@ -1,1 +1,0 @@
-lar[35647]=`<b>ἐξ·αττάω-ῶ</b> (<i>seul. part. pf. pass</i>. ἐξηττημένη) passer au crible avec soin, ANTIPH. <i>fr. 34 Kock ; cf</i>. διαττάω.`

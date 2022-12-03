@@ -1,1 +1,0 @@
-lar[33529]=`<b>ἐμποδέω-ῶ</b>, empêcher, entraver, DYSC. <i>Adv. 583, 598</i>.<p><b>Étym</b>. ἐν, πούς.`

@@ -1,1 +1,0 @@
-lar[91452]=`<b>ή, όν</b>, qui a la propriété de nettoyer, DIPHIL. (ATH. <i>55b, 64b</i>) ; DIOSC. <i>2, 4</i> ; GEOP. <i>12, 5, 2</i> ; LUC. <i>Am. 39</i>.<p><b>Étym</b>. σμήχω.`

@@ -1,1 +1,0 @@
-lar[33082]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰῐ]</font> royauté, NAZ. <i>3, 423d</i>.<p><b>Étym</b>. ἐμβασιλεύω.`

@@ -1,1 +1,0 @@
-lar[78097]=`<i>adv</i>., dans le dème Pentélè <i>(sans mouv.)</i>, PLUT. <i>Popl. 15</i>.`

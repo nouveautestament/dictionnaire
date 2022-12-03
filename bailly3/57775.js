@@ -1,1 +1,0 @@
-lar[57775]=`<b>κρεω·δαισία, ας (ἡ)</b> <i>réc. p</i>. κρεοδαισία, partage <i>ou</i> distribution de viande, PLUT. <i>M. 643a ;</i> DÉM. SCEPS. (ATH. <i>425c</i>), <i>etc</i>.`

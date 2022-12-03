@@ -1,1 +1,0 @@
-lar[74514]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> récapitulation, ARSTT. <i>Rhet. Al. 1, 21</i>.<br><b>      2</b> rétractation, TH. <i>Char. 2</i>.<p><b>Étym</b>. παλίλλογος.`

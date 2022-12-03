@@ -1,1 +1,0 @@
-lar[58648]=`<b>κυλλόω-ῶ</b>, rendre tortu, déformer, estropier, HPC. <i>827e</i>.<p><b>Étym</b>. κυλλός.`

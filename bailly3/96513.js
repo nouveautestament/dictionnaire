@@ -1,1 +1,0 @@
-lar[96513]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> en forme de fistule, ORIB. <i>p. 196, 5 ; particul</i>. creusé par la carie en forme de fistule, HPC. <i>1153a, 1210c, 1222d</i>.<p><b>Étym</b>. σῦριγξ, -ωδης.`

@@ -1,1 +1,0 @@
-lar[90624]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> sarclage, TH. <i>C.P. 3, 20, 6, etc</i>.<p><b>Étym</b>. σκαλίζω.`

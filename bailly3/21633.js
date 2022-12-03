@@ -1,1 +1,0 @@
-lar[21633]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> généalogique, POL. <i>9, 1, 4</i> ; SEXT. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[31649]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec passion, avec transport, ATH. <i>603a</i>.<p><b>Étym</b>. ἐκμανής.`

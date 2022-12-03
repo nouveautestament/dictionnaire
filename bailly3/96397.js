@@ -1,1 +1,0 @@
-lar[96397]=`<b>συν·υγραίνομαι</b> <font color="purple">[ῠγ]</font> devenir humide avec <i>ou</i> en même temps, GAL. <i>2, 19b, 1 Ald</i>.`

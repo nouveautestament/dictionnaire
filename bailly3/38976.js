@@ -1,1 +1,0 @@
-lar[38976]=`<b>ἐπισκάπτω :<br>      1</b> creuser la terre à la surface, bêcher, ANTH. <i>9, 52</i>.<br><b>      2</b> façonner les mottes de terre avec le hoyau, GEOP. <i>2, 24, 1</i>.`

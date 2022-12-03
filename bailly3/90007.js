@@ -1,1 +1,0 @@
-lar[90007]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> préparé avec du sésame, de sésame, HPC. <i>527, 53</i> ; ὁ σησαμόεις, <i>p. contr</i>. σησαμοῦς, AR. <i>Ach. 1092, Th. 570,</i> pain <i>ou</i> gâteau de sésame ; τὰ σησαμόεντα, HPC. <i>527, 53,</i> pâtisseries au sésame.<p><b>Étym</b>. σήσαμον.`

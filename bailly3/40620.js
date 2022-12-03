@@ -1,1 +1,0 @@
-lar[40620]=`<b>ἑρμο·γλυφεύς, έως (ὁ)</b> <font color="purple">[ῠ]</font> sculpteur d’hermès, <i>d’où</i> statuaire, <i>en gén</i>. LUC. <i>Somn. 2</i>.<p><b>Étym</b>. Ἑ. γλύφω.`

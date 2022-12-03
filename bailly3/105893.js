@@ -1,1 +1,0 @@
-lar[105893]=`<b>φιλό·λιθος, ος, ον</b> <font color="purple">[ῐῐ]</font> amateur de pierres précieuses, PLUT. <i>M. 462c ;</i> CLÉM. <i>257</i>.<p><b>Étym</b>. φ. λίθος.`

@@ -1,1 +1,0 @@
-lar[13517]=`<b>εως (ἡ)</b> <font color="purple">[χᾰ]</font><br><b>      1</b> incision, ouverture (d’une veine) HPC.<br><b>      2</b> action de relâcher, de laisser aller, PHIL. BYZ. <i>Bel. 74</i>.<p><b>Étym</b>. ἀποσχάζω.`

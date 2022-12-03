@@ -1,1 +1,0 @@
-lar[42111]=`<b>εὐ·ῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font> de bonne taille, POLÉM. <i>181</i>.<p><b>Étym</b>. εὖ, ἧλιξ.`

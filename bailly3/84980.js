@@ -1,1 +1,0 @@
-lar[84980]=`<b>προ·πολεμέω-ῶ</b>, combattre pour, <i>gén</i>. POL. <i>2, 48, 1, etc. ; avec</i> ὑπέρ <i>et le gén</i>. PLAT. <i>Rsp. 429b ; abs</i>. οἱ προπολεμοῦντες, PLAT. <i>Rsp. 423a ; ou</i> τὸ προπολεμοῦν, PLAT. <i>Rsp. 442b, etc</i>. les défenseurs d’un pays ; <i>fig</i>. PLAT. <i>Rsp. 429b ;</i> DH. <i>6, 49</i> ; APP. <i>Civ. 4, 118</i>.`

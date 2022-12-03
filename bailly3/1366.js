@@ -1,1 +1,0 @@
-lar[1366]=`<b>ἀ·διάστικτος, ος, ον</b>, non distinct, continu, PHIL. <i>2, 297</i>.<p><b>Étym</b>. ἀ, διαστίζω.`

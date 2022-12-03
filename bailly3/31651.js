@@ -1,1 +1,0 @@
-lar[31651]=`<b>ἐκ·μαραίνω</b> <font color="purple">[μᾰ]</font> faire se faner, faire se flétrir, TH. <i>Ign. 11</i> ; ANTH. <i>12, 234, 4 (ao</i>. ἐξεμάρανε) ; <i>au pass</i>. se faner, se flétrir, THCR. <i>Idyl. 3, 30</i>.<p><b>Étym</b>. <i>ao. pass</i>. ἐξεμαράνθη.`

@@ -1,1 +1,0 @@
-lar[72407]=`<b>ὁ·πόστος, η, ον</b>, à quel rang, le quantième, XÉN. <i>Ages. 1, 2</i> ; PLAT. <i>Rsp. 617e ;</i> ARSTT. <i>Pol. 2, 3</i>.<p><b>Étym</b>. ὁ, <i>thème du pron. relat</i>. ὅς <i>et</i> πόστος.`

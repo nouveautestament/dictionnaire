@@ -1,1 +1,0 @@
-lar[98484]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> fard pour rendre la peau lisse et luisante, DIOSC. <i>3, 102</i>.<p><b>Étym</b>. τετανόω.`

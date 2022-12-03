@@ -1,1 +1,0 @@
-lar[81003]=`<b>πλήξ·ιππος, ος, ον</b>, qui dompte (<i>propr</i>. qui frappe) les chevaux, habile cavalier, IL. <i>2, 104 ; 4, 327 ; 5, 705 ; 11, 93 ; en parl. d’un fouet,</i> NONN. <i>D. 20, 227</i>.<p>➳ <i>Dor</i>. πλάξιππος, PD. <i>O. 6, 145</i>.<p><b>Étym</b>. πλήσσω, ἵππος.`

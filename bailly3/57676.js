@@ -1,1 +1,0 @@
-lar[57676]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Kraugasidès, <i>propr</i>. « le fils du criard », <i>n. de grenouille,</i> BATR. <i>246</i>.<p><b>Étym</b>. κραυγή.`

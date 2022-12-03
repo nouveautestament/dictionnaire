@@ -1,1 +1,0 @@
-lar[54286]=`(<i>seul. impf. pass</i>.) munir d’une hampe, AR. <i>fr. 357</i>.<p><b>Étym</b>. καυλός.`

@@ -1,1 +1,0 @@
-lar[56587]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰκ]</font> marque de flatterie, XÉN. <i>Œc. 13, 12</i> ; PLUT. <i>Demetr. 17</i>.<p><b>Étym</b>. κολακεύω.`

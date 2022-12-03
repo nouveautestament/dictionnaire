@@ -1,1 +1,0 @@
-lar[22682]=`<b>(ὁ)</b> <font color="purple">[ῡ]</font> Grynée, <i>h</i>. ANTH. <i>7, 294</i>.`

@@ -1,1 +1,0 @@
-lar[57163]=`<b>κορυζάω-ῶ :<br>      1</b> avoir un rhume de cerveau, ARSTT. <i>Probl. 1, 16 ; 10, 47</i> ; LUC. <i>D. mort. 9, 2</i>.<br><b>      2</b> <i>p. suite,</i> être morveux, PLAT. <i>Rsp. 343a ;</i> être sot, stupide, POL. <i>38, 4, 5</i>.<p><b>Étym</b>. κόρυζα.`

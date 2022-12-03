@@ -1,1 +1,0 @@
-lar[59456]=`<b>Λα·έρτης, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Laërte, <i>père d’Ulysse,</i> OD. <i>1, 189, etc.</i> ; SOPH. <i>Aj. 1393, etc</i>.<p>➳ <i>Gén. épq</i>. -αο, OD. <i>8, 18, etc. ; ou</i> -εω, OD. <i>4, 555, etc. Dor</i>. Λαέρτας, α, EUR. <i>I.A. 204</i>.<p><b>Étym</b>. λαός, εἴρω, « qui rassemble le peuple ».`

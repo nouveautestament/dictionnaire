@@ -1,1 +1,0 @@
-lar[104413]=`<b>ὑφ·όλμιον, ου (τὸ) :<br>      1</b> base d’un mortier à piler, AR. <i>fr. 155</i>.<br><b>      2</b> bec de l’embouchure d’une flûte, PHÉRÉCR. (PHOT. <i>p. 635, 6).</i><p><b>Étym</b>. ὑ. ὅλμος.`

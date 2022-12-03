@@ -1,1 +1,0 @@
-lar[17818]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> malpropre, sale, CHOERIL. (JOS. <i>c. Ap. 1, 22).</i><p><b>Étym</b>. αὐχμός.`

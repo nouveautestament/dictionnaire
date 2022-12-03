@@ -1,1 +1,0 @@
-lar[106925]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Phrontis, <i>f</i>. IL. <i>17, 40, etc</i>.<p>➳ <i>Voc</i>. Φρόντι, PHILISC. <i>fr. 1</i>.<p><b>Étym</b>. <i>cf</i>. φροντίς.`

@@ -1,1 +1,0 @@
-lar[56354]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> axe, pivot, pointe d’un essieu, SEXT. <i>388d ;</i> GAL. <i>14, 720</i> ; HÉRON <i>Aut. 247, Spir. 197</i>.`

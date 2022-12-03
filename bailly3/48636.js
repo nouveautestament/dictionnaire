@@ -1,1 +1,0 @@
-lar[48636]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> pillage d’un temple, XÉN. <i>Ap. 25</i> ; PLAT. <i>Rsp. 443a</i>.<p><b>Étym</b>. ἱερόσυλος.`

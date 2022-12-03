@@ -1,1 +1,0 @@
-lar[36985]=`<b>ἐπ·εισηγέομαι-οῦμαι</b>, introduire en outre, ajouter, DS. <i>5, 7</i>.`

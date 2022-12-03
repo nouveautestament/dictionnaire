@@ -1,1 +1,0 @@
-lar[94995]=`<b>συν·ασταχύω</b> (<i>seul. prés</i>.) <font color="purple">[τᾰ]</font> être couvert d’épis, ARAT. <i>1050</i>.<p><b>Étym</b>. σύν, ἄσταχυς.`

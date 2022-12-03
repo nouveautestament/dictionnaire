@@ -1,1 +1,0 @@
-lar[49052]=`<b>ου (ὁ)</b> = <i>lat</i>. Insteius, <i>n. d’h. rom</i>. PLUT. <i>Ant. 65</i>.`

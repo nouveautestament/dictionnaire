@@ -1,1 +1,0 @@
-lar[81887]=`<b>πολύ·εργος, ος, ον :<br>      1</b> très laborieux, très diligent, THCR. <i>Idyl. 25, 27</i>.<br><b>      2</b> qui donne beaucoup de peine, PHIL. <i>1, 665</i>.<p><b>Étym</b>. π. ἔργον.`

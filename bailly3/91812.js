@@ -1,1 +1,0 @@
-lar[91812]=`<i>adv.</i> :<br><b>      1</b> en spirales, OPP. <i>H. 1, 516</i> ; ANTH. <i>9, 301</i>.<br><b>      2</b> par compagnies <i>ou</i> manipules, SPT. <i>2Macc. 5, 2</i> ; POL. <i>5, 4, 9, etc.</i> ; STR. <i>155</i>.<p><b>Étym</b>. σπεῖρα, -δον.`

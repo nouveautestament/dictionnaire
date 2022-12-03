@@ -1,1 +1,0 @@
-lar[78823]=`<b>περι·κρέμαμαι</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> être suspendu autour de, <i>dat</i>. ANTH. <i>9, 78</i>.`

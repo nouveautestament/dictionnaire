@@ -1,1 +1,0 @@
-lar[51864]=`<b>ας (ἡ)</b> sorte de plante vénéneuse, P. ÉG. <i>5, 44</i>.<p><b>Étym</b>. <i>cf</i>. κάρπασον <i>et</i> κάρπασος.`

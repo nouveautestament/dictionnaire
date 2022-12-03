@@ -1,1 +1,0 @@
-lar[44400]=`<b>ζα·μενής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> violent, impétueux, HH. <i>Merc. 307</i> ; PD. <i>P. 9, 64, etc.</i> ; OPP. <i>C. 3, 448</i> ; ἐπὶ ζαμενές, NIC. <i>Th. 181</i>, avec violence.<br><b>      2</b> hostile, ennemi, SOPH. <i>Aj. 137</i>.<p>•<i> Sup. voc</i>. -έστατε, HH. <i>l. c</i>.<p><b>Étym</b>. ζα-, μένος.`

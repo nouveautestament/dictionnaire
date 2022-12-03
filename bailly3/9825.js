@@ -1,1 +1,0 @@
-lar[9825]=`<b>ἀντι·διαβαίνω</b> (<i>inf. ao</i>. -διαβῆναι) traverser (la mer) à son tour : ἐπί τινα, XÉN. <i>Ages. 1, 8,</i> pour marcher contre qqn.`

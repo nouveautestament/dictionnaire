@@ -1,1 +1,0 @@
-lar[54015]=`<b>κατ·ήγορος, ου (ὁ) :<br>      1</b> accusateur, HDT. <i>3, 71 ; 8, 88</i> ; SOPH. <i>Tr. 814</i> ; PLAT. <i>Ap. 18b, etc.</i><br><b>      2</b> <i>adj</i>. (ὁ, ἡ) qui trahit, qui révèle, ESCHL. <i>Sept. 439</i> ; XÉN. <i>Œc. 20, 15</i>.<p><b>Étym</b>. κ. ἀγορεύω.`

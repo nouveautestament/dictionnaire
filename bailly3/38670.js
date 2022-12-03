@@ -1,1 +1,0 @@
-lar[38670]=`<b>ἐπίπηγμα, ατος (τὸ)</b> assemblage de planches, <i>particul</i>. dessus d’une table, PHIL. BYZ. <i>Bel. 54, 5</i>.<p><b>Étym</b>. ἐπιπήγνυμι.`

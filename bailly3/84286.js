@@ -1,1 +1,0 @@
-lar[84286]=`<b>προ·ευπορέω-ῶ</b>, procurer auparavant, DÉM. <i>731, 3</i> ; ARSTT. <i>Phys. 4, 1, 2</i>.`

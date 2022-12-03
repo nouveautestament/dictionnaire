@@ -1,1 +1,0 @@
-lar[1797]=`<b>ἀερο·νομέω-ῶ</b> <font color="purple">[ᾱ]</font> se diriger dans les airs, HLD. <i>10, 30</i>.<p><b>Étym</b>. ἀ. νόμος.`

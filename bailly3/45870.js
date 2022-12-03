@@ -1,1 +1,0 @@
-lar[45870]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> du printemps, PD. <i>P. 9, 82</i> ; EUR. <i>Suppl. 448</i> ; AR. <i>Av. 683 ; neutre adv</i>. ἠρινόν, EUR. <i>fr. 318, 3</i> ; ἠρινά, AR. <i>Pax 800,</i> au printemps.<p><b>Étym</b>. <i>contr. de</i> ἐαρινός.`

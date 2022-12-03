@@ -1,1 +1,0 @@
-lar[30431]=`<b>ου (τὸ)</b> Eilésion, <i>lieu de Béotie,</i> IL. <i>2, 499</i>.`

@@ -1,1 +1,0 @@
-lar[33554]=`<b>ή, όν</b>, vendu à <i>ou</i> acheté par, <i>dat.,</i> SOPH. <i>Ph. 417</i>.`

@@ -1,1 +1,0 @@
-lar[92610]=`<b>ῶνος</b> <i>ou</i> <b>στίγων, ωνος (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. στιγματίας, AR. <i>fr. 46 Dind</i>.`

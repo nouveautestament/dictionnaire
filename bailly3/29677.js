@@ -1,1 +1,0 @@
-lar[29677]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> enclitique, <i>p. opp. à</i> ὀρθοτονούμενος, HDN GR. <i>1144</i>.<p><b>Étym</b>. ἔγκλιμα.`

@@ -1,1 +1,0 @@
-lar[4836]=`<b>ἀλλό·φατος, ος, ον</b> <font color="purple">[φᾰ]</font> qui a une autre apparence, NIC. <i>Th. 148</i>.<p><b>Étym</b>. ἄ. φαίνω.`

@@ -1,1 +1,0 @@
-lar[32788]=`<i>vb. de l’ao.2</i> ἦλθον, il faut venir, <i>c</i>. ἐλευστέον, HÉRODOTUS (ORIB. <i>2, 386</i>) ; ORIG. <i>1, 441 Migne</i>.`

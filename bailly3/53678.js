@@ -1,1 +1,0 @@
-lar[53678]=`<b>οῦ (ὁ)</b> qui méprise, contempteur de, <i>gén</i>. PLUT. <i>Brut. 12</i> ; JOS. <i>B.J. 2, 8, 3</i>.<p><b>Étym</b>. καταφρονέω.`

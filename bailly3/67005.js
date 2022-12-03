@@ -1,1 +1,0 @@
-lar[67005]=`<b>όεσσα, όεν</b> <font color="purple">[ῡ]</font><br><b>      1</b> plein de moelle, OD. <i>9, 293</i>.<br><b>      2</b> moelleux, tendre, MATR. (ATH. <i>64c, 135a</i>) ; NIC. <i>Al. 59</i>.<p><b>Étym</b>. μυελός.`

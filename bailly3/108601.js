@@ -1,1 +1,0 @@
-lar[108601]=`<b>χλοη·φόρος, ος, ον</b>, qui produit de jeunes pousses, qui se couvre de verdure, EUR. <i>Ph. 647, 653</i> ; PHIL. <i>2, 494</i>.<p><b>Étym</b>. χλόη, φέρω.`

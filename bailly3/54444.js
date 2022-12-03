@@ -1,1 +1,0 @@
-lar[54444]=`<b>ονος (ὁ)</b> vent qui souffle sur le Phase, HPC. <i>Aër. 290</i>.`

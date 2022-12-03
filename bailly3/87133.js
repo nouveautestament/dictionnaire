@@ -1,1 +1,0 @@
-lar[87133]=`<b>πρωκτό·σοφος, ου (ὁ, ἡ)</b> expert en débauche contre nature, ARISTÉN.<p><b>Étym</b>. πρωκτός, σοφός.`

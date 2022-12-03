@@ -1,1 +1,0 @@
-lar[106804]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. protecteur des phratries <i>ou</i> d’une phratrie, <i>ép. de Zeus,</i> CRAT. (ATH. <i>460f</i>).<p><b>Étym</b>. φράτωρ.`

@@ -1,1 +1,0 @@
-lar[6317]=`<b>ἀμφι·πλέκω</b>, enlacer tout autour : τινί τι, EUR. <i>fr. 370</i> ; ANTH. <i>5, 281,</i> ceindre <i>ou</i> entourer une chose d’une autre ; <i>fig</i>. TÉLEST. (ATH. <i>617b</i>) ; <i>au pass</i>. s’enlacer autour de, <i>d’où</i> embrasser, <i>acc</i>. ORPH. <i>Arg. 884</i>.`

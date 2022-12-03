@@ -1,1 +1,0 @@
-lar[37503]=`<b>ἐπι·δακρύω</b> <font color="purple">[ᾰῠ]</font> pleurer sur, <i>dat</i>. PLUT. <i>M. 583c ; abs</i>. AR. <i>Vesp. 882</i> ; ESCHN. <i>39, 22</i>.`

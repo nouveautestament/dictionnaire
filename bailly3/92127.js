@@ -1,1 +1,0 @@
-lar[92127]=`<b>ίδος</b> <font color="purple">[τᾰῐδ]</font> <i>adj. f</i>. qui coule goutte à goutte, DIOSC. <i>5, 114</i>.<p><b>Étym</b>. σταλάσσω.`

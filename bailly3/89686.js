@@ -1,1 +1,0 @@
-lar[89686]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m.</i> :<br><b>      1</b> qui cause un tremblement de terre, DL. <i>7, 154</i>.<br><b>      2</b> produit par un tremblement de terre, PLUT. <i>Cim. 16</i>.<p><b>Étym</b>. σεῖσμα.`

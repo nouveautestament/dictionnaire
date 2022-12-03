@@ -1,1 +1,0 @@
-lar[57475]=`<b>ίδος</b>, <i>voc</i>. <b>-ί (ἡ)</b> Kokhlis, <i>f</i>. LUC. <i>D. mer. 15</i>.<p><b>Étym</b>. <i>v</i>. κοχλίς.`

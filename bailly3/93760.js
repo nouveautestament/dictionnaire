@@ -1,1 +1,0 @@
-lar[93760]=`<b>ου</b>, <i>fém</i>. <b>-ία, ας</b>, Syllanios <i>et</i> Syllania (<i>sign. inconnue) ép. de Zeus et d’Artémis,</i> PLUT. <i>Lyc. 6</i>.`

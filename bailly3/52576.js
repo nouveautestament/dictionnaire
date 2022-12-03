@@ -1,1 +1,0 @@
-lar[52576]=`<b>κατα·κνίζω</b> (<i>pf. pass</i>. κατακέκνισμαι) :<br><b>      1</b> déchirer de manière à causer une démangeaison, une cuisson, AR. <i>Pl. 973</i>.<br><b>      2</b> <i>p. ext</i>. déchiqueter, déchirer, couper en petits morceaux, ATH. <i>376b ; fig</i>. ISOCR. <i>236c ;</i> LUC. <i>Hes. 4</i>.`

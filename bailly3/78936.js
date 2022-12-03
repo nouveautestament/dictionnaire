@@ -1,1 +1,0 @@
-lar[78936]=`<b>(ἡ)</b> Périmoula, <i>v. de l’Inde,</i> EL. <i>N.A. 15, 8</i>.`

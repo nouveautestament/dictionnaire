@@ -1,1 +1,0 @@
-lar[82141]=`<b>πολύ·μολπος, ος, ον</b> <font color="purple">[ῠ]</font> aux chants nombreux, POÈT.<p><b>Étym</b>. <i>Cram. 4, p. 349</i>.`

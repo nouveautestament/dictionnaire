@@ -1,1 +1,0 @@
-lar[65032]=`<b>μετα·φρίσσω</b> <font color="darkgreen">(<i>ao. part</i>. μεταφρίξαντες)</font> frissonner ensuite, HPC. <i>133b</i>.`

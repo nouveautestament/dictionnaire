@@ -1,1 +1,0 @@
-lar[17696]=`<b>αὐτό·σσυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui s’élance <i>ou</i> vient de soi-même, ESCHL. <i>Eum. 170</i> ; SOPH. <i>fr. 503, etc</i>.<p><b>Étym</b>. αὐ. σεύω.`

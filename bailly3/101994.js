@@ -1,1 +1,0 @@
-lar[101994]=`<b>ὑπ·αποκρύπτω</b> <font color="purple">[ῠᾰ]</font> cacher sous, <i>rég. ind. au dat</i>. EL. <i>N.A. 5, 40</i>.`

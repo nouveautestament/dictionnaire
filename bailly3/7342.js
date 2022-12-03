@@ -1,1 +1,0 @@
-lar[7342]=`<b>ας (ἡ)</b> levier de pointage (d’une machine de jet) HÉRON <i>Bel. 13</i>.`

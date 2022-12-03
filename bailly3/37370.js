@@ -1,1 +1,0 @@
-lar[37370]=`<b>ος, ον</b>, qui fait grand bruit, fameux, <i>particul. en mauv. part,</i> THC. <i>6, 16</i> ; ἀνθρώποις, ÆSCHR. (ATH. <i>335c</i>) parmi les hommes.<p>➳ <i>Ion</i>. ἐπίβωτος, ANACR. <i>61</i> ; ÆSCHR. <i>l. c</i>.<p><b>Étym</b>. ἐπιβοάω.`

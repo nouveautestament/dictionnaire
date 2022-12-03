@@ -1,1 +1,0 @@
-lar[31019]=`<b>ἑκατοντα·δόχος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui comprend une centaine, JUL. <i>Ep. 180</i>.<p><b>Étym</b>. ἑκατοντάς, δέχομαι.`

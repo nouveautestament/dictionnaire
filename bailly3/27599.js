@@ -1,1 +1,0 @@
-lar[27599]=`<b>δορι·πετής, ής, ές</b> <font color="purple">[ῐ]</font> qui tombe frappé de la lance, EUR. <i>Andr. 653, Tr. 1003</i>.<p><b>Étym</b>. δόρυ, πίπτω.`

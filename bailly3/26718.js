@@ -1,1 +1,0 @@
-lar[26718]=`(<i>seul. prés</i>.) se partager en deux branches, HPC. <i>240, 11</i>.<p><b>Étym</b>. δίοζος.`

@@ -1,1 +1,0 @@
-lar[74649]=`<b>ακος</b>, <i>ion</i>. <b>πάλληξ, ηκος (ὁ, ἡ)</b> <font color="purple">[ᾰκ]</font> jeune homme, jeune fille, CORN. <i>20</i>.<p><b>Étym</b>. παλλακή.`

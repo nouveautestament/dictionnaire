@@ -1,1 +1,0 @@
-lar[99585]=`<b>τοξ·αλκής, ής, ές</b>, puissant par son arc <i>ou</i> par ses flèches, ORPH. <i>H. 57, 2</i>.<p><b>Étym</b>. τόξον, ἀλκή.`

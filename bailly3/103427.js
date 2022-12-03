@@ -1,1 +1,0 @@
-lar[103427]=`<b>εως (ἡ)</b> action de cacher, de dissimuler, NYSS.<p><b>Étym</b>. ὑποκρύπτω.`

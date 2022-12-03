@@ -1,1 +1,0 @@
-lar[61745]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui fait partie d’une troupe, soldat, ESCHL. <i>Ag. 1650</i> ; SOPH. <i>O.R. 751 ; particul</i>. d’une compagnie, XÉN. <i>Cyr. 2, 2, 7, etc.</i><br><b>      2</b> qui se tient en embuscade, EUST. <i>Op. p. 104, 75</i>.<p><b>Étym</b>. λόχος.`

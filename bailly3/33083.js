@@ -1,1 +1,0 @@
-lar[33083]=`<b>ἐμ·βασιλεύω</b> <font color="purple">[ᾰῐ]</font> régner dans <i>ou</i> sur, <i>dat. du pays,</i> OD. <i>15, 413</i> ; HÉS. <i>Th. 71</i> ; PD. <i>N. 7, 38 ; dat. de pers</i>. (sur un peuple) A.RH. <i>1, 173 ; gén. de pers</i>. THCR. <i>Idyl. 17, 85 ; abs</i>. IL. <i>2, 572</i>.`

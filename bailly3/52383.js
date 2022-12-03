@@ -1,1 +1,0 @@
-lar[52383]=`<b>κατα·θάλπω</b>, échauffer fortement, PLUT. <i>M. 367d ;</i> DL. <i>7, 1, 152</i>.`

@@ -1,1 +1,0 @@
-lar[7326]=`<b>ἀναπαλιν·δρομέω-ῶ</b>, se reporter (<i>litt</i>. courir) en arrière, HPC. <i>Fract. 754</i>.`

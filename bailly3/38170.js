@@ -1,1 +1,0 @@
-lar[38170]=`<b>ἐπί·κρημνος, ος, ον</b>, escarpé, abrupt, PHÉRÉC. (SCH.-OD. <i>21, 23</i>) ; DICÉARQ. <i>2, 142 Gail, Geographi græci minores</i>.`

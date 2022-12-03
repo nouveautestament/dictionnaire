@@ -1,1 +1,0 @@
-lar[51049]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> Kalètôr, <i>h</i>. IL. <i>15, 419</i>.<p><b>Étym</b>. <i>v</i>. καλήτωρ.`

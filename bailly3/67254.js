@@ -1,1 +1,0 @@
-lar[67254]=`<b>ή, όν</b>, qui se multiplie par 10 000 : μυριονταδικὸν διπλοῦν, THÉON 2 <i>Ptol. p. 23,</i> 10 000 fois 10 000 <i>ou</i> cent millions.<p><b>Étym</b>. *μυριοντάς, <i>de</i> μυρίοι.`

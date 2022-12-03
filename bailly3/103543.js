@@ -1,1 +1,0 @@
-lar[103543]=`<b>ὑπο·μήτριος, ος, ον</b>, qui est dans le sein maternel, MAX. <i>π. κατ. p. 186</i>.<p><b>Étym</b>. ὑ. μήτρα.`

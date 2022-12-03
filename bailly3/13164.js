@@ -1,1 +1,0 @@
-lar[13164]=`<b>ἀπο·πτίσσω</b>, briser en pilant, piler, DIEUCH. (ORIB. <i>1, 283</i>).`

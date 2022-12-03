@@ -1,1 +1,0 @@
-lar[41392]=`<b>ἑτερό·φθογγος, ος, ον</b>, qui rend un son différent, qui parle autrement, SYN. <i>Hymn. 3, 337</i>.<p><b>Étym</b>. ἕ. φθέγγομαι.`

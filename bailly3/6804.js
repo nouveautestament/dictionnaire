@@ -1,1 +1,0 @@
-lar[6804]=`<b>ατος (τὸ)</b> nourrisson, THCR. <i>Idyl. 23, 19</i>.<p><b>Étym</b>. ἀνατρέφω.`

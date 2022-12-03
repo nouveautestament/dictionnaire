@@ -1,1 +1,0 @@
-lar[34082]=`<b>ατος (τὸ)</b> décoction, ARÉT. <i>Cur. m. acut</i>.<p><b>Étym</b>. ἐναφέψω.`

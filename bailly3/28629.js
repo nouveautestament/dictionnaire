@@ -1,1 +1,0 @@
-lar[28629]=`<b>δύσ·λυτος, ος, ον</b> <font color="purple">[λῠ]</font> difficile <i>ou</i> impossible à délier, indissoluble (lien) ESCHL. <i>Pr. 19 ; fig. en parl. de chagrins,</i> EUR. <i>Andr. 121</i>.<p><b>Étym</b>. δ. λύω.`

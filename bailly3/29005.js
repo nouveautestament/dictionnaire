@@ -1,1 +1,0 @@
-lar[29005]=`<b>δυσ·χείρωμα, ατος (τὸ)</b> entreprise difficile, SOPH. <i>Ant. 126</i>.<p><b>Étym</b>. δ. χειρόω.`

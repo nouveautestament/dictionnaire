@@ -1,1 +1,0 @@
-lar[72881]=`<b>ατος (τὸ) :<br>      1</b> élan, entraînement, ardeur, IL. <i>2, 356, 590 dout.</i><br><b>      2</b> objet vers lequel on se porte avec ardeur, PLUT. <i>M. 452</i>.<p><b>Étym</b>. ὁρμάω.`

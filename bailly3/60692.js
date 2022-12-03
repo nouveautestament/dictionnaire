@@ -1,1 +1,0 @@
-lar[60692]=`<b>Λεώ·δαμος, ου (ὁ)</b> Léôdamos, <i>autre n. de</i> Λεωδάμας PLUT. <i>X orat. Isocr. 11</i>.`

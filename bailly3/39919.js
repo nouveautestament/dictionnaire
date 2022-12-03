@@ -1,1 +1,0 @@
-lar[39919]=`<b>ἐπ·οχθίδιος, α, ον</b> <font color="purple">[ῐδ]</font> qui habite sur les hauteurs, sur les collines, <i>ép. des Nymphes,</i> ANTH. <i>9, 556</i>.<p><b>Étym</b>. ἐπί, ὄχθη.`

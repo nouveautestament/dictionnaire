@@ -1,1 +1,0 @@
-lar[67065]=`<b>ας (ἡ) :<br>      1</b> mouche, IL. <i>2, 469 ; 4, 131, etc.</i> ; AR. <i>Vesp. 596</i> ; XÉN. <i>Mem. 3, 11, 5</i> ; ARSTT. <i>Pol. 7, 1</i> ; LUC. <i>Musc. enc. 1</i>.<br><b>      2</b> abeille, EUST. <i>Il. p. 194, 51</i>.<p>➳ <i>Ion</i>. μυίη, IL. <i>ll. cc</i>.<p><b>Étym</b>. <i>p</i>. *μύσ-ϳα, <i>de indo-europ</i>. *mus-ih₂-, <i>cf. lat</i>. musca.`

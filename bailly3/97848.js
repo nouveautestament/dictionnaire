@@ -1,1 +1,0 @@
-lar[97848]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Taphos (<i>auj</i>. Meganísi) <i>î. de la côte Acarnanienne,</i> OD. <i>1, 417</i>.`

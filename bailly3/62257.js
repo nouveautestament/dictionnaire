@@ -1,1 +1,0 @@
-lar[62257]=`<b>ου</b>, <i>adj. m</i>. de Magnésie, ANTH. <i>6, 182</i> ; Μ. λίθος, DIOSC. <i>5, 148,</i> aimant.<p><b>Étym</b>. <i>v</i>. Μάγνης.`

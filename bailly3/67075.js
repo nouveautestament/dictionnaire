@@ -1,1 +1,0 @@
-lar[67075]=`<b>ου (ὁ)</b> petite moule, M. SID. <i>38 Schneid</i>.<p><b>Étym</b>. μῦς.`

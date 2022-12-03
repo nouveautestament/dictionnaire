@@ -1,1 +1,0 @@
-lar[2338]=`<b>αἰγ·ωπός, ός, όν</b>, aux yeux de chèvre, ARSTT. <i>G.A. 5, 1, 17</i>.<p><b>Étym</b>. αἴξ, ὤψ.`

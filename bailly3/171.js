@@ -1,1 +1,0 @@
-lar[171]=`<b>ἁβρό·βιος, ος, ον</b>, de vie molle, efféminé, PLUT. <i>Demetr. 2</i> ; DP. <i>968</i>.<p><b>Étym</b>. ἁ. βίος.`

@@ -1,1 +1,0 @@
-lar[82742]=`<b>ας (ἡ)</b> = <i>lat</i>. Poppæa, Poppée, <i>n. de f. rom</i>. PLUT. <i>Galb. 9, etc</i>.`

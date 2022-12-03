@@ -1,1 +1,0 @@
-lar[25376]=`<b>δια·πρό</b> <i>ou</i> <b>διὰ πρό</b>, <i>adv</i>., de part en part, d’outre en outre, IL. <i>5, 66, etc.</i> ; A.RH. <i>4, 313</i> ; DP. <i>5 ; avec un gén</i>. IL. <i>4, 138</i> ; THCR. <i>Idyl. 22, 201, etc</i>.`

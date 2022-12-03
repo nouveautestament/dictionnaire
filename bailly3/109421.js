@@ -1,1 +1,0 @@
-lar[109421]=`<b>ατος (τὸ)</b> ouvrage en métal fondu, PHIL. PARADOX. <i>VII mir. c. 4</i> ; SPT. <i>Deut. 9, 22, etc</i>.<p><b>Étym</b>. χωνεύω.`

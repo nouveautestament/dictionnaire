@@ -1,1 +1,0 @@
-lar[12201]=`<b>ἀπο·γλυκαίνω</b> (<i>part. pf. pass</i>. ἀπεγλυκασμένος) <font color="purple">[ῠ]</font> édulcorer, adoucir, DIPH. (ATH. <i>55e</i>) ; DS. <i>1, 40</i>.`

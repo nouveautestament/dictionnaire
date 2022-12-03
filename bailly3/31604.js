@@ -1,1 +1,0 @@
-lar[31604]=`<b>ἔκ·λιμος, ος, ον</b> <font color="purple">[ῑ]</font> mourant de faim, TH. <i>C.P. 2, 4, 6</i>.<p><b>Étym</b>. ἐκ, λιμός.`

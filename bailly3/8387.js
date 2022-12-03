@@ -1,1 +1,0 @@
-lar[8387]=`<b>ἀνεξί·κακος, ος, ον</b> <font color="purple">[ῐᾰ]</font> résigné, LUC. <i>J. voc. 9</i>.<p>•<i> Cp</i>. -ώτερος, ARÉT. <i>19, 23 ; • Sup</i>. -ώτατος, THÉM. <i>271b</i>.<p><b>Étym</b>. ἀνέχω, κακόν.`

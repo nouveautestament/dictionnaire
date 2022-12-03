@@ -1,1 +1,0 @@
-lar[12176]=`<b>ἀπο·γαλακτόω-ῶ</b> (<i>part. ao. pass</i>. -γαλακτωθείς) <font color="purple">[γᾰ]</font> changer en lait, ANTYLL. <i>52, 22</i>.<p><b>Étym</b>. ἀπό, γάλα.`

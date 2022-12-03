@@ -1,1 +1,0 @@
-lar[106844]=`<b>ας (ἡ)</b> <font color="purple">[ᾰβ]</font> atteinte à l’intelligence, folie, démence, DH. <i>5, 9</i> ; LUC. <i>Syr. 18</i>.<p><b>Étym</b>. φρενοβλαβής.`

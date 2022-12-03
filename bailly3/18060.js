@@ -1,1 +1,0 @@
-lar[18060]=`<b>ης, ες</b>, qui a des aphthes, HPC. <i>202c, 204g, etc</i>.<p><b>Étym</b>. ἄφθα, -ωδης.`

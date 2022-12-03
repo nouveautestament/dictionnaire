@@ -1,1 +1,0 @@
-lar[46926]=`<b>ή, όν</b>, propre à chauffer <i>ou</i> à échauffer, PLAT. <i>Tim. 60a ;</i> ARSTT. <i>Interpr. 13, 11 ; Metaph. 4, 15, 6</i>.<p>•<i> Sup</i>. -ώτατος, ARSTT. <i>Mund. 3, 8 ; Probl. 3, 5</i> ; DIOSC. <i>1, 18</i>.<p><b>Étym</b>. θερμαίνω.`

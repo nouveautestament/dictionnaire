@@ -1,1 +1,0 @@
-lar[89538]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠῐδ]</font> petit satyre, STRATT. (<i>Com. fr. 2, 787).</i><p><b>Étym</b>. <i>dim. de</i> σάτυρος.`

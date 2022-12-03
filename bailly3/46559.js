@@ -1,1 +1,0 @@
-lar[46559]=`<b>εως (ἡ)</b> action de poser sur des fondements, SPT. <i>2Esdr. 3, 11</i>.<p><b>Étym</b>. θεμελιόω.`

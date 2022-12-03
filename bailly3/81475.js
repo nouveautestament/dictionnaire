@@ -1,1 +1,0 @@
-lar[81475]=`<b>ποιόω-ῶ</b>, donner telle <i>ou</i> telle qualité à, qualifier de telle <i>ou</i> telle manière, TH. <i>C.P. 2, 1, 5</i> ; SEXT. <i>M. 1, 108</i>.<p><b>Étym</b>. ποιός.`

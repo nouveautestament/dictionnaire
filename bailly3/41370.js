@@ -1,1 +1,0 @@
-lar[41370]=`<b>ἑτερό·πτωτος, ος, ον</b>, qui se décline irrégulièrement, <i>comme</i> ὕδωρ, ὕδατος, DYSC. <i>Pron. 271c, 274c</i>.<p><b>Étym</b>. ἕ. πτωτός, <i>cf</i>. πτῶσις.`

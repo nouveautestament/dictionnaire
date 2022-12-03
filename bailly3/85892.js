@@ -1,1 +1,0 @@
-lar[85892]=`<b>προσ·ιππεύω :<br>      1</b> aller à cheval auprès de, <i>dat</i>. PLUT. <i>Pyrrh. 16, Mar. 25, etc. ; abs</i>. THC. <i>2, 79</i>.<br><b>      2</b> s’avancer auprès, <i>en parl. de chevaux,</i> DS. <i>2, 19</i>.`

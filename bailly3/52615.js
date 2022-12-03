@@ -1,1 +1,0 @@
-lar[52615]=`<b>εως (ἡ)</b> <font color="purple">[ᾱσ]</font> mélange, PLUT. <i>M. 688c</i>.<p><b>Étym</b>. κατακεράννυμι.`

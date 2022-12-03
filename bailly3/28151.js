@@ -1,1 +1,0 @@
-lar[28151]=`<b>δυσ·αιτιολόγητος, ος, ον</b> <font color="purple">[ῠ]</font> dont on ne peut expliquer la cause, PHIL. <i>2, 644</i>.<p><b>Étym</b>. δ. αἰτιολογέω.`

@@ -1,1 +1,0 @@
-lar[51294]=`<b>καλο·έργατις, ιδος</b> <font color="purple">[ᾰᾰῐ]</font> <i>adj. f</i>. bienfaisante, bienfaitrice, PORPH. <i>Antr. nymph. 27</i>.<p><b>Étym</b>. κ. ἔργον.`

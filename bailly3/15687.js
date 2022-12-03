@@ -1,1 +1,0 @@
-lar[15687]=`<b>ἀρωγο·ναύτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. secourable aux marins, ANTH. <i>9, 290</i>.<p><b>Étym</b>. ἀρωγός, ν.`

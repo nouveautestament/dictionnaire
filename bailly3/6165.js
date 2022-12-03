@@ -1,1 +1,0 @@
-lar[6165]=`<b>ἀμφι·θοάζω</b>, courir tout autour, <i>acc</i>. MAN. <i>4, 84</i>.`

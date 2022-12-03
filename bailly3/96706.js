@@ -1,1 +1,0 @@
-lar[96706]=`<b>συστρατηγέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> commander une armée avec un autre, être le lieutenant général de, <i>gén</i>. DÉM. <i>401, 2</i>.<br><b>      2</b> préparer ensemble par des ruses et des intrigues, <i>acc</i>. STR. <i>259</i>.<p><b>Étym</b>. συστρατηγός.`

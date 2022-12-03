@@ -1,1 +1,0 @@
-lar[88490]=`<font color="purple">[τῑ]</font> être résineux, DIOSC. <i>3, 87</i>.<p><b>Étym</b>. ῥητίνη.`

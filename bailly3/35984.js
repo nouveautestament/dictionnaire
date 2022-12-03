@@ -1,1 +1,0 @@
-lar[35984]=`<b>εως (ἡ)</b> transpiration abondante, PLUT. <i>M. 949e</i>.<p><b>Étym</b>. ἐξιδρόω.`

@@ -1,1 +1,0 @@
-lar[66395]=`<b>η, ον</b> <font color="purple">[ῐ]</font> qui est de couleur mauve, M. RUBR. <i>5</i>.<p><b>Étym</b>. μολόχη.`

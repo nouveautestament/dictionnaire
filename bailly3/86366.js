@@ -1,1 +1,0 @@
-lar[86366]=`<b>*προσ·πτήσσω</b>, <i>épq</i>. <b>ποτι·πτήσσω</b> (<i>part. pf. fém. pl</i>. ποτιπεπτηυῖαι) s’appuyer contre, <i>càd</i>. couvrir, protéger, <i>en parl. des pointes de terre à l’extrémité d’un port,</i> OD. <i>13, 98</i>.`

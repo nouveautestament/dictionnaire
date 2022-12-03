@@ -1,1 +1,0 @@
-lar[42592]=`<b>εὐ·λίμενος, ος, ον</b> <font color="purple">[ῐ]</font> qui offre <i>ou</i> possède un bon port, ARCHESTR. (ATH. <i>327d</i>).<p>•<i> Cp</i>. -ώτερος, PLAT. <i>Leg. 704b</i>.<p><b>Étym</b>. εὖ, λιμήν.`

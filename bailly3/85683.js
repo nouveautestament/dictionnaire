@@ -1,1 +1,0 @@
-lar[85683]=`<b>προσ·επικατατείνω</b> <font color="darkgreen">(<i>f</i>. -κατατενῶ, <i>ao</i>. -κατέτεινα, <i>etc</i>.)</font> tendre encore plus fortement, JOS. <i>Macc. 9</i>.`

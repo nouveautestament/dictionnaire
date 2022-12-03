@@ -1,1 +1,0 @@
-lar[51421]=`<font color="purple">[ᾰῑ]</font> travailler à un fourneau <i>ou</i> à une forge ; faire brûler au feu d’un fourneau <i>ou</i> d’une forge, <i>acc</i>. ARSTT. <i>Mir. 48, etc.</i> ; TH. <i>Lap. 69</i> ; STR. <i>610</i>.<p><b>Étym</b>. κάμινος.`

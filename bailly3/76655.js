@@ -1,1 +1,0 @@
-lar[76655]=`<b>παρ·έλλειψις, εως (ἡ)</b> <i>t. de gr</i>. parellipse, omission d’une consonne redoublée dans l’intérieur d’un mot, DRAC. <i>159, 23</i>.<p><b>Étym</b>. π. ἐλλείπω.`

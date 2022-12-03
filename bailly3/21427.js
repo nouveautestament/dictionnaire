@@ -1,1 +1,0 @@
-lar[21427]=`<b>γαστρο·βαρής, ής, ές</b> <font color="purple">[βᾰ]</font> au ventre lourd, ANTH. <i>5, 54</i>.<p><b>Étym</b>. γαστήρ, βάρος.`

@@ -1,1 +1,0 @@
-lar[65171]=`<b>μετ·οιακίζω</b> <font color="purple">[ᾱ]</font> faire virer de bord, <i>fig</i>. PLUT. <i>M. 34a</i>.<p><b>Étym</b>. μ. οἴαξ.`

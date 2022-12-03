@@ -1,1 +1,0 @@
-lar[82155]=`<b>πολύ·νευρον, ου (τὸ)</b> <font color="purple">[ῠ]</font> plantain, <i>herbe à fibres saillantes,</i> DIOSC. <i>2, 153</i>.<p><b>Étym</b>. π. νεῦρον.`

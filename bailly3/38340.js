@@ -1,1 +1,0 @@
-lar[38340]=`<b>ἐπί·λυπος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> <i>pass</i>. affligé, triste, ARÉT. <i>p. 25</i> ; PLUT. <i>M. 13a.</i><br><b>      2</b> <i>act</i>. affligeant, ARSTT. <i>Nic. 3, 2, 5</i>.<p><b>Étym</b>. ἐπί, λύπη.`

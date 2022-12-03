@@ -1,1 +1,0 @@
-lar[879]=`<b>ονος (ὁ)</b> lance <i>ou</i> épieu, ESCHL. <i>fr. 138</i>.<p><b>Étym</b>. ἀγρέω.`

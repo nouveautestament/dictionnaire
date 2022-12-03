@@ -1,1 +1,0 @@
-lar[20138]=`<font color="darkgreen">(<i>seul. part. ao. plur</i>. βολίσαντες)</font> jeter la sonde, NT. <i>Ap. 27, 28 ; au pass. (seul. prés</i>.) s’enfoncer, <i>en parl. d’une sonde <i>ou</i> d’objets analogues,</i> GEOP. <i>6, 17</i>.<p><b>Étym</b>. βολίς.`

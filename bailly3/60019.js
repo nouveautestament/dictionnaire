@@ -1,1 +1,0 @@
-lar[60019]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> λάχανον, DL. <i>2, 134</i>.`

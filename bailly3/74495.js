@@ -1,1 +1,0 @@
-lar[74495]=`<b>παλιγ·γενεσία, ας (ἡ)</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> renaissance, PLUT. <i>M. 998c ;</i> PHIL. <i>2, 501 ; particul</i>. résurrection, NT. <i>Matth. 19, 28</i>.<br><b>      2</b> régénération, PHIL. <i>1, 159</i> ; M. ANT. <i>11, 1 ; particul</i>. régénération par le baptême, NT. <i>Tit. 3, 5</i>.<p><b>Étym</b>. π. γένεσις.`

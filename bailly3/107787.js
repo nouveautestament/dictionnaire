@@ -1,1 +1,0 @@
-lar[107787]=`<b>χαμαιπιτύϊνος οἶνος (ὁ)</b> vin aromatisé avec de l’ivette, DIOSC. <i>5, 80</i>.<p><b>Étym</b>. <i>v</i>. χαμαίπιτυς.`

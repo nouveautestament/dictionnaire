@@ -1,1 +1,0 @@
-lar[43193]=`<b>εὔ·ρινος, ος, ον</b> <font color="purple">[ῑ]</font> fait de bon cuir, ANTH. <i>14, 55</i>.<p>➳ <i>Épq</i>. ἐΰρρινος, A.RH. <i>3, 1299</i>.<p><b>Étym</b>. εὖ, ῥινός.`

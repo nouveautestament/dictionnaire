@@ -1,1 +1,0 @@
-lar[66732]=`effrayer au moyen d’un épouvantail ; <i>au pass</i>. être effrayé, s’effrayer de, <i>acc</i>. PLAT. <i>Ax. commenc.</i><br><b><i>Moy.</i></b> <i>plus us. (seul. prés., impf. et ao</i>.) effrayer : τινα, AR. <i>Av. 1245</i> ; PLAT. <i>Gorg. 473d, Crit. 46e</i>, qqn ; τινα ἀπό τινος, XÉN. <i>Conv. 4, 27,</i> qqn pour le détourner de qqe ch.<p><b>Étym</b>. μορμώ.`

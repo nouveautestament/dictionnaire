@@ -1,1 +1,0 @@
-lar[59970]=`<b>λατυπέω-ῶ</b> <font color="purple">[ᾱῠ]</font> tailler des pierres, <i>d’où</i> bâtir, LYC. <i>523</i>.<p><b>Étym</b>. λατύπος.`

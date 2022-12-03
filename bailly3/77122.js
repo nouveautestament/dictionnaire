@@ -1,1 +1,0 @@
-lar[77122]=`<b>παρ·ουλότριχος, ος, ον</b> <font color="purple">[ῐ]</font> à la laine légèrement crépue, <i>en parl. de brebis,</i> GEOP. <i>18, 1, 6</i>.`

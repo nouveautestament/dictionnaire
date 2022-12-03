@@ -1,1 +1,0 @@
-lar[48557]=`<b>ας (ἡ)</b> sacrifice, fête religieuse, SPT. <i>4Reg. 10, 20</i>.<p><b>Étym</b>. ἱερεύω.`

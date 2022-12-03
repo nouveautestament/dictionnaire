@@ -1,1 +1,0 @@
-lar[11985]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> lointain, étranger, IL. <i>1, 270, etc.</i> ; OD. <i>16, 18</i> ; SOPH. <i>O.C. 1685</i>.<p><b>Étym</b>. ἀπό ; <i>cf</i>. ἀντίος <i>de</i> ἀντί.`

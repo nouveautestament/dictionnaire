@@ -1,1 +1,0 @@
-lar[104093]=`<b>ὑπο·φείδομαι</b>, être assez économe, ménager un peu, XÉN. <i>An. 4, 1, 8</i> ; PLUT. <i>Alex. 28, M. 620f ;</i> τινος, PLUT. <i>M. 707c</i>, qqe ch. ; <i>p. suite,</i> s’abstenir <i>ou</i> éviter de, <i>avec</i> μή <i>et l’inf</i>. LUC. <i>Per. 6</i>.`

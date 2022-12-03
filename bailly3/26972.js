@@ -1,1 +1,0 @@
-lar[26972]=`<b>εως (ἡ)</b> réunion de deux ou plusieurs mots ensemble, formation de composés, ARSTT. <i>Rhet. 3, 3, 1</i>.<p><b>Étym</b>. διπλόω.`

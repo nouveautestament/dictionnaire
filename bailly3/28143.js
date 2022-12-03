@@ -1,1 +1,0 @@
-lar[28143]=`<b>δυσ·αίακτος, ος, ον</b> <font color="purple">[ῠ]</font> tout à fait déplorable, lamentable, SPT. <i>3Macc. 6, 31</i>.<p><b>Étym</b>. δ. αἰάζω.`

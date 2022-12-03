@@ -1,1 +1,0 @@
-lar[101567]=`<b>ὑδρο·ποιός, ός, όν</b>, qui produit <i>ou</i> amène de l’eau, PLUT. <i>M. 939e</i>.<p><b>Étym</b>. ὕδ. ποιέω.`

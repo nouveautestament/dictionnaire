@@ -1,1 +1,0 @@
-lar[82047]=`<b>πολύ·κτιτος, ος, ον</b> <font color="purple">[ῐ]</font> qui crée (<i>propr</i>. qui fonde) beaucoup de choses, ORPH. <i>H. 9, 20</i>.<p><b>Étym</b>. π. κτίζω.`

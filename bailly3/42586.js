@@ -1,1 +1,0 @@
-lar[42586]=`<b>εὔ·ληπτος, ος, ον :<br>      1</b> facile à prendre, JAMBL. <i>Protr. p. 42 ; particul</i>. facile à enlever (habitants d’îles) THC. <i>6, 85 ; ou</i> à piller (ville) DH. <i>3, 43</i>.<br><b>      2</b> <i>fig</i>. facile à obtenir, LUC. <i>M. cond. 10</i>.<p>•<i> Cp</i>. -ότερος, DH. <i>3, 43</i>.<p><b>Étym</b>. εὖ, λαμβάνω.`

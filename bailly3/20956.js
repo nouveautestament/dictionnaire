@@ -1,1 +1,0 @@
-lar[20956]=`<b>εσσα, εν</b>, qui brait ; ὁ βρ. NIC. <i>Al. 409,</i> âne : ἡ βρ. NIC. <i>Al. 485,</i> ânesse.<p><b>Étym</b>. βρωμάομαι¹.`

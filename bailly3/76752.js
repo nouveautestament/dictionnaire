@@ -1,1 +1,0 @@
-lar[76752]=`<b>παρ·έπαινος, ου (ὁ)</b> éloge indirect (<i>propr</i>. fait en passant) PLAT. <i>Phædr. 267a</i>.<p><b>Étym</b>. π. ἔπαινος.`

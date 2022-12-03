@@ -1,1 +1,0 @@
-lar[1912]=`<b>ου (ὁ)</b> = <i>lat</i>. Ahēnŏbarbus, <i>n. d’h. rom</i>. PLUT. <i>Æmil. 25</i>.`

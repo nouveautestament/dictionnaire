@@ -1,1 +1,0 @@
-lar[68886]=`<b>α, ον</b> <font color="purple">[μᾰ]</font> qui vit comme les peuples nomades, M. RUBR. <i>20</i>.<p><b>Étym</b>. νομάς.`

@@ -1,1 +1,0 @@
-lar[104889]=`<b>φαρμακάω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[μᾰ]</font><br><b>      1</b> avoir l’esprit troublé par un breuvage empoisonné, <i>abs</i>. avoir l’esprit troublé, DÉM. <i>1133, 26</i> ; TH. <i>fr. 105</i> ; PLUT. <i>M. 1016e, etc.</i><br><b>      2</b> avoir besoin de remèdes, LUC. <i>Lex. 4</i>.<p><b>Étym</b>. φάρμακον.`

@@ -1,1 +1,0 @@
-lar[22494]=`<b>γοργο·τομία, ας (ἡ)</b> amputation de la tête de la Gorgone, STR. <i>379</i>.<p><b>Étym</b>. Γοργώ, -τομος <i>de</i> τέμνω.`

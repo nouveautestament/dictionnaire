@@ -1,1 +1,0 @@
-lar[37303]=`<b>ἐπ·ιάχω</b> <font color="purple">[ῐᾰ]</font> <font color="darkgreen">(<i>impf</i>. ἐπίαχον <font color="purple">[ῑᾰ]</font>) :</font><br><b>      1</b> pousser des acclamations après (un discours) IL. <i>7, 403 ; 9, 50</i>.<br><b>      2</b> pousser de grands cris (au sujet de qqe ch.) IL. <i>5, 860 ; 14, 148</i>.`

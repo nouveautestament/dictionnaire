@@ -1,1 +1,0 @@
-lar[38458]=`<b>ἐπι·μοιράομαι-ῶμαι</b>, réserver une part de : τί τινι, Ps.-PHOCYL. <i>99</i> ; MOSCHION TR. (STOB. <i>2, 244</i>) de qqe ch. pour qqn.<p><b>Étym</b>. ἐπί, μοῖρα.`

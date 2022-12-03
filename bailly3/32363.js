@@ -1,1 +1,0 @@
-lar[32363]=`<b>ἐκ·φυλλο·φορέω-ῶ</b>, exclure (du nombre des sénateurs <i>ou</i> des citoyens) en écrivant son suffrage sur une feuille (d’olivier), <i>à Athènes,</i> ESCHN. <i>15, 43</i>.<p><b>Étym</b>. ἐκ, φύλλον, φορέω.`

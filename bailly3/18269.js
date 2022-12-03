@@ -1,1 +1,0 @@
-lar[18269]=`<i>adv</i>., sans raison, follement, SOPH. <i>Aj. 766</i> ; XÉN. <i>Cyr. 1, 6, 40, etc.</i> ; ISOCR. <i>83e ; etc</i>.<p>•<i> Cp</i>. ἀφρονεστέρως, PLAT. <i>Lach. 193c</i>.<p><b>Étym</b>. ἄφρων.`

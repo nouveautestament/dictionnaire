@@ -1,1 +1,0 @@
-lar[78948]=`<b>περι·νέμομαι</b>, dévorer tout autour, <i>en parl. du feu,</i> PLUT. <i>Dio. 46</i>.`

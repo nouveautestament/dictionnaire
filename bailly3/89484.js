@@ -1,1 +1,0 @@
-lar[89484]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> balai, PYTHAG. (PLUT. <i>M. 727c</i>) ; ANTH. <i>11, 207</i>.<br><b>      2</b> balayure, CALL. <i>Del. 225</i>.<p><b>Étym</b>. σαίρω², <i>cf</i>. σάρον.`

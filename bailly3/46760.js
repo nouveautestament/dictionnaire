@@ -1,1 +1,0 @@
-lar[46760]=`(<i>seul. part. prés</i>. θεοπροπέων) annoncer la volonté des dieux, rendre des oracles, IL. <i>1, 109 ; 2, 322</i> ; OD. <i>2, 184</i> ; PD. <i>P. 4, 339</i> ; A.RH. <i>2, 922</i>.<p><b>Étym</b>. θεοπρόπος.`

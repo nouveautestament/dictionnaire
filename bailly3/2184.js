@@ -1,1 +1,0 @@
-lar[2184]=`<b>ωνος (ὁ)</b> Ægæôn (Ægéon) :<br><b>      1</b> <i>autre n. de Briarée,</i> IL. <i>1, 404, etc.</i><br><b>      2</b> <i>surn. de Poséidon,</i> PHILSTR. <i>V. Ap. 4, 6</i>.`

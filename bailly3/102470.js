@@ -1,1 +1,0 @@
-lar[102470]=`<b>ὑπερ·ευδαίμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, trop heureux <i>ou</i> très heureux, LUC. <i>Gall. 20</i>.`

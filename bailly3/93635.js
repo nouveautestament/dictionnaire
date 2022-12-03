@@ -1,1 +1,0 @@
-lar[93635]=`<b>συγ·χρωτίζομαι</b>, avoir commerce avec, <i>dat</i>. ZÉNON (DL. <i>7, 2).</i><p><b>Étym</b>. σ. χρώς.`

@@ -1,1 +1,0 @@
-lar[15626]=`<b>Ἀρχί·λοχος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Arkhilokhos (Archiloque) :<br><b>      1</b> <i>poète ïambique de Paros</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>1061, 18, etc</i>.<p><b>Étym</b>. ἄρχω, λόχος.`

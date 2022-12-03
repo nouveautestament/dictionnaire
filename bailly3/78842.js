@@ -1,1 +1,0 @@
-lar[78842]=`<b>περι·κυδής, ής, ές</b> <font color="purple">[ῡ]</font> célèbre alentour, en tous lieux, illustre, NIC. <i>Th. 345</i> ; Q. SM. <i>9, 65</i>.<p><b>Étym</b>. π. κῦδος.`

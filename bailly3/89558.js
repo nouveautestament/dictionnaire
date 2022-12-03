@@ -1,1 +1,0 @@
-lar[89558]=`<b>ου (τὸ) :<br>      1</b> javelot, MÉN. (<i>Com. fr. 4, 219</i>) ; STR. <i>717, 734</i> ; DS. <i>14, 27, etc.</i><br><b>      2</b> verge, CRAT. (<i>Com. fr. 2, 213</i>).`

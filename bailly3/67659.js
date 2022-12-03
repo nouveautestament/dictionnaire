@@ -1,1 +1,0 @@
-lar[67659]=`<b>ναρθηκο·ειδής, ής, ές</b>, qui ressemble à la férule, DIOSC. <i>3, 95</i>.<p><b>Étym</b>. νάρθηξ, εἶδος.`

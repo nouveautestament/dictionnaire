@@ -1,1 +1,0 @@
-lar[16514]=`<b>ας (ἡ) :<br>      1</b> défaut d’habitude, ARSTT. <i>Metaph. 1, 3, 1</i> ; TH. <i>H.P. 9, 17, 2</i>.<br><b>      2</b> <i>p. suite,</i> ignorance de, <i>gén</i>. ARSTT. <i>Rhet. 1, 9, 38</i> ; POL. <i>15, 32</i>.<p><b>Étym</b>. ἀσυνήθης.`

@@ -1,1 +1,0 @@
-lar[29874]=`<b>ἐγ·χαυνόω-ῶ</b>, enfler de vent, <i>càd</i>. d’orgueil, NYSS.<p><b>Étym</b>. ἐν, χ.`

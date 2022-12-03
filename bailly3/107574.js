@@ -1,1 +1,0 @@
-lar[107574]=`<b>χαλιφρονέω-ῶ</b> <font color="purple">[ᾰ]</font> être léger d’esprit, être irréfléchi, OD. <i>23, 13</i>.<p><b>Étym</b>. χαλίφρων.`

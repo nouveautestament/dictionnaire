@@ -1,1 +1,0 @@
-lar[77096]=`<b>παρ·ορίζω :<br>      1</b> imiter, circonscrire, LGN <i>2, 2 ; 10, 6</i>.<br><b>      2</b> dépasser les limites, empiéter sur le terrain d’autrui, ANTH. <i>11, 209</i>.<br><b>      3</b> repousser hors des limites, PLUT. <i>M. 353e</i>.`

@@ -1,1 +1,0 @@
-lar[63397]=`<b>μεγαλο·ποιέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> faire de grandes choses, SPT. <i>Sir. 50, 24</i>.<br><b>      2</b> rendre grand, agrandir, amplifier, HIÉROCL. (STOB. <i>Fl. 84, 20</i>).`

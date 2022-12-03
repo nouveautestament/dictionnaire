@@ -1,1 +1,0 @@
-lar[98014]=`<b>ου (τὸ)</b> Teikhion, <i>petite v. d’Étolie,</i> THC. <i>3, 96</i>.<p><b>Étym</b>. <i>cf</i>. τειχίον.`

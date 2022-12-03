@@ -1,1 +1,0 @@
-lar[31471]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font> transport au dehors, <i>particul</i>. action d’emporter un corps, convoi funéraire, HDT. <i>8, 44</i> ; DH. <i>4, 8</i> ; ANTH. <i>11, 92, 2</i>.<p><b>Étym</b>. ἐκκομίζω.`

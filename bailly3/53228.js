@@ -1,1 +1,0 @@
-lar[53228]=`<b>κατ·αρόω-ῶ</b> <font color="purple">[ᾰρ]</font> labourer entièrement, AR. <i>Av. 582</i>.`

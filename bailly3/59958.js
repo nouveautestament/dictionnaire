@@ -1,1 +1,0 @@
-lar[59958]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> variole, <i>poisson du Nil,</i> ARCHESTR. (ATH. <i>311e</i>).`

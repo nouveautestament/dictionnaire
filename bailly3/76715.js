@@ -1,1 +1,0 @@
-lar[76715]=`<b>παρ·ενσαλεύω</b> <font color="purple">[σᾰ]</font> agiter les pieds, battre le sol du pied (pour une danse) AR. <i>Pl. 291</i> ; PHILSTR. <i>64</i>.`

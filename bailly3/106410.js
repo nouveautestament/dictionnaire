@@ -1,1 +1,0 @@
-lar[106410]=`<b>ου (ὁ)</b> <i>seul. lat</i>. phlogites, sorte de pierre précieuse, SOLIN <i>37, 50</i>.<p><b>Étym</b>. φλόξ.`

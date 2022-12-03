@@ -1,1 +1,0 @@
-lar[31755]=`<b>ἐκ·παγλέομαι</b> (<i>seul. part. prés</i>. ἐκπαγλεό-ούμενος, <i>etc</i>.) :<br><b>      1</b> être stupéfait, <i>abs</i>. HDT. <i>7, 181, ou avec</i> ὡς, HDT. <i>9, 48,</i> de ce que.<br><b>      2 <i>tr.</i></b> regarder avec admiration, <i>acc</i>. EUR. <i>Or. 890, Tr. 929 ; en prose,</i> DH. <i>1, 40</i>.<p><b>Étym</b>. ἔκπαγλος.`

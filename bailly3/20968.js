@@ -1,1 +1,0 @@
-lar[20968]=`<b>α, ον</b>, mangeable, LUC. <i>Par. 9</i>.<p><b>Étym</b>. <i>vb. de</i> βιβρώσκω.`

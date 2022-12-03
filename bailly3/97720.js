@@ -1,1 +1,0 @@
-lar[97720]=`<b>οῦ</b> Tarsos (Tarse) :<br><b>      1 (ὁ)</b> <i>fl. de Cilicie,</i> NONN. <i>D. 1, 260</i>.<br><b>      2 (ἡ)</b> <i>capitale de la Cilicie (auj</i>. Tarsus) PLUT. <i>Demetr. 47, etc</i>.`

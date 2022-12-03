@@ -1,1 +1,0 @@
-lar[55885]=`<b>Κλέο·βις, ιος (ὁ)</b> Kléobis, <i>frère de Biton,</i> HDT. <i>1, 31</i> ; LUC. <i>Char. 10</i>.<p><b>Étym</b>. κλ. βίος.`

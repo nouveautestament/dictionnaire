@@ -1,1 +1,0 @@
-lar[17255]=`<b>ου (τὸ)</b> Auximum (<i>auj</i>. Osimo), <i>v. du Picenum, en Italie,</i> PLUT.`

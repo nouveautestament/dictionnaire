@@ -1,1 +1,0 @@
-lar[7149]=`<b>ή, όν</b> <font color="purple">[ᾰᾱ]</font> coûteux, PLAT. <i>Rsp. 555a, 558d, 559c</i>.`

@@ -1,1 +1,0 @@
-lar[92591]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> qui suit une piste, SOSTRAT. (STOB. <i>Fl. 64, 34).</i><p><b>Étym</b>. στιβεύω.`

@@ -1,1 +1,0 @@
-lar[1641]=`<b>ἀει·γεννήτης, ου (ὁ)</b> qui engendre toujours, MACR. <i>Sat. 1, 17</i>.<p><b>Étym</b>. ἀ. γεννάω.`

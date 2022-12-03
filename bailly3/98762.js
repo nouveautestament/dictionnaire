@@ -1,1 +1,0 @@
-lar[98762]=`<b>τεττιγο·φόρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui porte des cigales d’or dans ses cheveux, <i>surn. des riches Athéniens,</i> AR. <i>Eq. 1331</i>.<p><b>Étym</b>. τέττιξ, φέρω.`

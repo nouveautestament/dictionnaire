@@ -1,1 +1,0 @@
-lar[36685]=`<b>ἐπ·ανερεύγομαι</b> (<i>part. prés</i>.) rejeter en rotant, vomir, HPC. <i>Acut. 395</i>.`

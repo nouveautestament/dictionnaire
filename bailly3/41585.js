@@ -1,1 +1,0 @@
-lar[41585]=`<b>εὐ·ανάμνηστος, ος, ον</b> <font color="purple">[ᾰν]</font> qui se rappelle facilement, HIÉROCL. <i>C. aur. 432 Mullach</i>.<p><b>Étym</b>. εὖ, ἀναμιμνῄσκομαι.`

@@ -1,1 +1,0 @@
-lar[21450]=`<b>ου (ἡ)</b> Gaudos, <i>î. de Calypso,</i> CALL. (STR. <i>44, 277, 299</i>).`

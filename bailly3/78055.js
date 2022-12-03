@@ -1,1 +1,0 @@
-lar[78055]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. πένταχα ARSTT. <i>H.A. 4, 2, 17</i> ; PLUT. <i>M. 429f</i>.<p><b>Étym</b>. π. -χη.`

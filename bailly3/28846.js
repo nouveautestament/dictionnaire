@@ -1,1 +1,0 @@
-lar[28846]=`<i>adv</i>., misérablement, ESCHL. <i>Pers. 272</i>.<p>•<i> Sup</i>. -ώτατα, PLUT. <i>Fab. 18</i>.`

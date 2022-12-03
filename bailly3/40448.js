@@ -1,1 +1,0 @@
-lar[40448]=`<b>ἐρι·κλάγκτης, ου</b>, <i>adj. m</i>. qui retentit fortement, PD. <i>P. 12, 21</i>.<p><b>Étym</b>. ἐρι-, κλάζω.`

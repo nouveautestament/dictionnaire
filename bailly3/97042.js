@@ -1,1 +1,0 @@
-lar[97042]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., en copeaux, <i>d’où</i> en éclats, DIOSC. <i>5, 125</i>.<p><b>Étym</b>. σχίδαξ, -δον.`

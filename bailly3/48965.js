@@ -1,1 +1,0 @@
-lar[48965]=`<b>ἱματ·ηγός, ός, όν</b> <font color="purple">[ῑᾰ]</font> qui transporte des vêtements, TH. <i>Lap. 68</i>.<p><b>Étym</b>. ἷμα, ἄγω.`

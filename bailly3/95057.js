@@ -1,1 +1,0 @@
-lar[95057]=`<b>συν·δειπνέω-ῶ</b>, souper <i>ou</i> manger avec : τινι, XÉN. <i>Hell. 4, 1, 6</i> ; LYS. <i>93, 43 ; ou</i> μετά τινος, IS. <i>39, 26</i> ; DÉM. <i>554, 19,</i> avec qqn ; <i>abs</i>. XÉN. <i>Cyr. 4, 5, 9, etc.</i> ; PLAT. <i>Conv. 174e, etc</i>.`

@@ -1,1 +1,0 @@
-lar[91198]=`<b>σκοτεινο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se plaît dans les ténèbres, BAS. <i>3, 640 Migne</i>.<p><b>Étym</b>. σκοτεινός, χαίρω.`

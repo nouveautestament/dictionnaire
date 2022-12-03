@@ -1,1 +1,0 @@
-lar[7106]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> <i>ion. c</i>. ἀναλκεία, THGN. <i>891</i>.`

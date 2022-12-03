@@ -1,1 +1,0 @@
-lar[82123]=`<b>πολυ·μισής, ής, ές</b> <font color="purple">[ῠῑ]</font> tout à fait odieux, LUC. <i>Pisc. 20</i>.<p><b>Étym</b>. π. μῖσος.`

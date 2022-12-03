@@ -1,1 +1,0 @@
-lar[50689]=`<b>κακο·γενής, ής, ές</b> <font color="purple">[ᾰ]</font> d’une naissance obscure <i>ou</i> honteuse, DC. <i>44, 37</i>.<p><b>Étym</b>. κ. γένος.`

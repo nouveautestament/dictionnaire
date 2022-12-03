@@ -1,1 +1,0 @@
-lar[56422]=`<b>ου (ὁ)</b> = <i>lat</i>. Cœlius, <i>n. d’h. rom</i>. PLUT. <i>Ant. 65</i>.`

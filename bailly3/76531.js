@@ -1,1 +1,0 @@
-lar[76531]=`<b>ατος (τὸ) :<br>      1</b> ordre militaire, A. QUINT. <i>p. 71</i>.<br><b>      2</b> instruction, exhortation, ŒNOM. (EUS. <i>P.E. 223).</i><p><b>Étym</b>. παρεγγυάω.`

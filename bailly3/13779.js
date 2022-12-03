@@ -1,1 +1,0 @@
-lar[13779]=`<b>ἀπο·χαλινόω-ῶ</b> <font color="purple">[χᾰῑ]</font> ôter le mors, débrider, XÉN. <i>Eq. 11, 7 ; fig</i>. PLUT. <i>M. 794c</i>.`

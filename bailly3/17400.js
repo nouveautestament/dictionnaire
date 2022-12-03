@@ -1,1 +1,0 @@
-lar[17400]=`<b>Αὐτο·βορέας, ου (ὁ)</b> Borée en personne, LUC. <i>Tim. 54</i>.`

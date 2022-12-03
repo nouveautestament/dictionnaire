@@ -1,1 +1,0 @@
-lar[79171]=`<b>περι·πορπάομαι-ῶμαι</b>, agrafer tout autour, APP. <i>Iber. 42</i>.`

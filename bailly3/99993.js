@@ -1,1 +1,0 @@
-lar[99993]=`<i>ion</i>. <b>τρηχυσμός, οῦ (ὁ)</b> rudesse, dureté, HPC. <i>Acut. 394</i>.<p><b>Étym</b>. τραχύνω.`

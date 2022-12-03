@@ -1,1 +1,0 @@
-lar[35246]=`<b>ή, όν :<br>      1</b> qui envoie <i>ou</i> colporte des informations, ARSTT. <i>Probl. 11, 33, 4</i>.<br><b>      2</b> enclin à bavarder, ARSTT. <i>Rhet. 2, 6, 20</i>.<p><b>Étym</b>. ἐξαγγέλλω.`

@@ -1,1 +1,0 @@
-lar[33357]=`<b>Ἐμπεδο·κλῆς, έους (ὁ)</b> Empédocle, <i>philosophe pythagoricien,</i> PLAT. <i>Theæt. 152e ;</i> ARSTT. <i>Cæl. 2, 13, etc</i>.<p>➳ <i>Voc</i>. Ἐμπεδόκλεις, DL. <i>8, 2 ; acc</i>. Ἐμπεδοκλέα, <i>poét</i>. -ῆα, ANTH. <i>7, 124</i>.<p><b>Étym</b>. ἔμπεδος¹, κλέος.`

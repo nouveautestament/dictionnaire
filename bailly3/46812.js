@@ -1,1 +1,0 @@
-lar[46812]=`<b>ητος (ἡ)</b> divinité (nature divine, sagesse divine) PLUT. <i>M. 415c ;</i> LUC. <i>Ic. 9</i> ; NT. <i>Col. 2, 9</i>.<p><b>Étym</b>. θεός.`

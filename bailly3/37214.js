@@ -1,1 +1,0 @@
-lar[37214]=`<b>ἐπ·εύνακτοι, ων (οἱ)</b> <i>litt</i>. admis dans la couche à la suite <i>ou</i> à la place de, <i>càd</i>. hilotes qui furent adoptés par les femmes de Sparte à la place de leurs époux morts durant les deux guerres de Messénie et qui furent faits hommes libres, THPP. (ATH. <i>271c</i>).<p><b>Étym</b>. ἐπί, εὐνάζω.`

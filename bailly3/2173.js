@@ -1,1 +1,0 @@
-lar[2173]=`<b>ου</b>, <i>adj. m</i>. de la tribu Æantide, DÉM. <i>60, 31 Baiter-Sauppe</i> ; PLUT. <i>Arist. 19</i>.<p><b>Étym</b>. Αἰαντίς.`

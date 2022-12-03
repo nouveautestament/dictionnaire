@@ -1,1 +1,0 @@
-lar[18320]=`<b>ἀ·φύσητος, ος, ον</b> <font color="purple">[ῡ]</font> non gonflé, HPC. <i>Art. 814, 837</i>.<p><b>Étym</b>. ἀ, φυσάω.`

@@ -1,1 +1,0 @@
-lar[54118]=`<b>ῆς (ἡ)</b> possession divine, PLAT. <i>Ion 536c, Phædr. 245a</i>.<p><b>Étym</b>. κατέχω <i>avec redoubl. att</i>.`

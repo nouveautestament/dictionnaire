@@ -1,1 +1,0 @@
-lar[26642]=`<b>δί·μηνος, ος, ον</b> <font color="purple">[ῐ]</font> qui dure deux mois, DH. <i>9, 17 et 36</i> ; DS. <i>17, 69</i> ; ἡ δίμηνος, POL. <i>6, 34, 3</i> ; τὸ δίμηνον, DS. <i>17, 48</i> ; PLUT. <i>M. 909b</i>, durée de deux mois.<p><b>Étym</b>. δίς, μήν.`

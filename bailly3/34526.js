@@ -1,1 +1,0 @@
-lar[34526]=`<b>ἔν·θεσμος, ος, ον</b>, conforme à la loi, légal, PLUT. <i>Nic. 6</i> ; SPT. <i>3Macc. 2, 21</i>.<p><b>Étym</b>. ἐν, θεσμός.`

@@ -1,1 +1,0 @@
-lar[101649]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit cochon, XÉN. <i>Mem. 1, 2, 30</i>.<p><b>Étym</b>. ὗς.`

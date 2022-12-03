@@ -1,1 +1,0 @@
-lar[63232]=`<b>ους</b>, <i>acc</i>. <b>ην (ὁ)</b> Makharès, <i>fils de Mithridate,</i> PLUT. <i>Luc. 24</i>.`

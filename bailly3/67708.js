@@ -1,1 +1,0 @@
-lar[67708]=`<b>ναυαγέω-ῶ</b> <font color="purple">[ᾱ]</font> faire naufrage, DÉM. <i>933, 11</i> ; POL. <i>6, 44, 7 ; fig. en parl. de chars dans le stade,</i> DÉM. <i>1410, 10</i>.<p>➳ <i>Ion</i>. ναυηγέω, HDT. <i>7, 236</i>.<p><b>Étym</b>. ναυαγός.`

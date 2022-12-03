@@ -1,1 +1,0 @@
-lar[16418]=`<b>ἀ·σύγκλωστος, ος, ον</b>, qu’on ne peut tresser ensemble, <i>càd</i>. incompatible, CIC. <i>Att. 6, 1</i> ; SYN.<p><b>Étym</b>. ἀ, συγκλώθω.`

@@ -1,1 +1,0 @@
-lar[11382]=`<b>ἀ·πάρθενος, ος, ον :<br>      1</b> qui n’est plus jeune fille, THCR. <i>Idyl. 2, 41</i>.<br><b>      2</b> παρθένος ἀ. EUR. <i>Hec. 612,</i> vierge qui n’est plus vierge, <i>en parl. de Polyxène mariée à l’ombre d’Achille et dès lors</i> ἀπάρθενος, <i>mais</i> παρθένος, <i>puisque c’est à une ombre qu’elle est mariée</i>.<p><b>Étym</b>. ἀ, παρθένος.`

@@ -1,1 +1,0 @@
-lar[60120]=`<b>α, ον</b>, de prairie, ESCHL. <i>Ag. 560</i> ; SOPH. <i>Aj. 601</i> ; ARSTT. <i>H.A. 5, 27</i> ; TH. <i>H.P. 6, 3, 1, etc</i>.<p><b>Étym</b>. λειμών.`

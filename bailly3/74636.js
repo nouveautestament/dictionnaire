@@ -1,1 +1,0 @@
-lar[74636]=`<font color="purple">[λᾰ]</font> vivre en concubinage, <i>avec un n. de f. pour suj</i>. STR. <i>625 ; au pass</i>. être prise comme concubine, vivre en concubinage, PLUT. <i>Them. 26</i> ; τινι, PLUT. <i>Fab. 21, etc</i>. avec qqn.<br><b><i>Moy.</i></b> prendre pour concubine, <i>acc</i>. HDT. <i>4, 155</i>.<p><b>Étym</b>. πάλλαξ.`

@@ -1,1 +1,0 @@
-lar[70709]=`<b>οἰστρο·βολέω-ῶ</b>, piquer de l’aiguillon du désir <i>ou</i> de la fureur, ANTH. <i>9, 16, 2</i>.<p><b>Étym</b>. οἶστρος, -βολος <i>de</i> βάλλω.`

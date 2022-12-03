@@ -1,1 +1,0 @@
-lar[67530]=`<b>υχος (ὁ, ἡ)</b> <font color="purple">[ῠχ]</font> dont le sabot est un, qui n’a pas la corne du pied fendue, solipède, SOL. <i>13</i> ; EUR. <i>Ph. 7, 93</i> ; PLAT. <i>Pol. 265d</i>.<p><b>Étym</b>. <i>p. dissimil. p</i>. *μονῶνυξ, <i>de</i> μόνος, ὄνυξ.`

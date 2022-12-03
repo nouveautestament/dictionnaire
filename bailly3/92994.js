@@ -1,1 +1,0 @@
-lar[92994]=`<b>Στρουθο·βάλανοι, ων (οἱ)</b> <font color="purple">[ᾰᾰ]</font> les Glands de Moineau, <i>n. d’un pple imaginaire,</i> LUC. <i>V.H. 1, 13</i>.<p><b>Étym</b>. στρουθός, βάλανος.`

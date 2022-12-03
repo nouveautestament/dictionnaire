@@ -1,1 +1,0 @@
-lar[106579]=`<b>φοινικο·τρόφος, ος, ον</b> <font color="purple">[ῑ]</font> qui produit (<i>litt</i>. qui nourrit) des palmiers, STR. <i>838</i>.<p><b>Étym</b>. φ. τρέφω.`

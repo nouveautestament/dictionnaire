@@ -1,1 +1,0 @@
-lar[76439]=`<i>poét</i>. <b>παρφυκτός, ός, όν</b>, qu’il faut <i>ou</i> qu’on peut éviter, PD. <i>P. 12, 30</i>.<p><b>Étym</b>. παραφεύγω.`

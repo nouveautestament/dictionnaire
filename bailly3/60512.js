@@ -1,1 +1,0 @@
-lar[60512]=`<b>λευκ·άλφιτος, ος, ον</b> <font color="purple">[ῐ]</font> dont la farine est blanche, SOPATR. (ATH. <i>160b</i>).<p><b>Étym</b>. λ. ἄλφιτον.`

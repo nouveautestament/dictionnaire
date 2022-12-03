@@ -1,1 +1,0 @@
-lar[79302]=`<b>περι·σπεύδω :<br>      1 <i>tr.</i></b> presser de tous côtés <i>ou</i> vivement, <i>acc</i>. JOS. <i>A.J. 17, 1, 1</i>.<br><b>      2 <i>intr.</i></b> poursuivre avec empressement, <i>dat</i>. ARAT. <i>1122</i>.`

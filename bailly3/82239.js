@@ -1,1 +1,0 @@
-lar[82239]=`<b>πολύ·πικρος, ος, ον</b> <font color="purple">[ῠ]</font> très amer, <i>fig</i>. OD. <i>16, 255</i>.<p><b>Étym</b>. π. πικρός.`

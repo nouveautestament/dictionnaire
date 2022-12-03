@@ -1,1 +1,0 @@
-lar[93247]=`<b>συγ·κακοπαθέω-ῶ</b> <font color="purple">[ᾰᾰ]</font>, souffrir avec, <i>dat</i>. NT. <i>2Tim. 1, 8</i>.`

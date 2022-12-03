@@ -1,1 +1,0 @@
-lar[25003]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font> mastication, DIOSC. <i>1, 17 ; 5, 84</i>.<p><b>Étym</b>. διαμασάω.`

@@ -1,1 +1,0 @@
-lar[36390]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui attire, qui séduit, DH. <i>5, 26 Reiske</i>.<br><b>      2</b> qui procède par induction, SEXT. <i>102, 25 ; 412, 31 Bkk</i>.<p><b>Étym</b>. ἐπαγωγός.`

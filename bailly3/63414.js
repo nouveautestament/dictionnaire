@@ -1,1 +1,0 @@
-lar[63414]=`<b>μεγαλο·πτέρυγος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux grandes ailes, SPT. <i>Ezech. 17, 3, et 7</i>.<p><b>Étym</b>. μ. πτέρυξ.`

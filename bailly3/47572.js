@@ -1,1 +1,0 @@
-lar[47572]=`<b>θρασυ·γλωσσής, ής, ές</b> <font color="purple">[ᾰ]</font> au langage hardi, MAN. <i>4, 184</i>.<p><b>Étym</b>. θρ. γλῶσσα.`

@@ -1,1 +1,0 @@
-lar[103235]=`<b>ὑπο·ζυμόομαι-οῦμαι</b> <font color="purple">[ζῡ]</font> fermenter un peu, ORIB. <i>37 Matthäi</i>.`

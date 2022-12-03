@@ -1,1 +1,0 @@
-lar[40199]=`<b>ου (ὁ)</b> Erginos, <i>h</i>. HH. <i>Ap. 297</i> ; PLUT. <i>Arat. A. 18 et 33</i>.`

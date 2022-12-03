@@ -1,1 +1,0 @@
-lar[98048]=`<b>ή, όν</b>, qui permet, motive <i>ou</i> provoque une conjecture, CRAT. (HÉPH. <i>p. 18, 4).</i><p><b>Étym</b>. τεκμαίρω.`

@@ -1,1 +1,0 @@
-lar[68251]=`<b>*νεοσσο·ποιέω</b>, <i>seul</i>. <b>νεοττο·ποιέω-ῶ</b>, faire des petits, pondre, <i>d’où</i> couver, LGN <i>44</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ES. <i>5 Halm</i>.`

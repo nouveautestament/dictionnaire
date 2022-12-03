@@ -1,1 +1,0 @@
-lar[21790]=`<b>Γερμαν·ολέτις, ιδος (ἡ)</b> <font color="purple">[ᾱ]</font> destructrice des Germains, SIB. <i>12, 45</i>.<p><b>Étym</b>. Γερμανοί, ὀλε-, <i>v</i>. ὄλλυμι.`

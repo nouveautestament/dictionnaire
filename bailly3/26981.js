@@ -1,1 +1,0 @@
-lar[26981]=`<b>δί·πολις, εως (ὁ, ἡ)</b> <font color="purple">[δῐ]</font> qui renferme <i>ou</i> qui forme deux villes, STR. <i>160, 656</i>.<p><b>Étym</b>. δίς, πόλις.`

@@ -1,1 +1,0 @@
-lar[15630]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> d’Archimède, CIC. <i>Att. 12, 4 ; 13, 28</i> ; SEXT. <i>M. 9, 115</i>.`

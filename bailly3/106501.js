@@ -1,1 +1,0 @@
-lar[106501]=`<b>φοβό·διψος, ος, ον</b>, <i>litt</i>. « qui craint la soif », hydrophobe, C. AUR. <i>M. ac. 3, 9</i>.<p><b>Étym</b>. φόβος, δίψα.`

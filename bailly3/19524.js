@@ -1,1 +1,0 @@
-lar[19524]=`<b>βεμβικιάω-ῶ</b> <font color="purple">[ῑκ]</font> tourner comme une toupie, pirouetter, AR. <i>Av. 1465</i>.<p><b>Étym</b>. βέμβιξ.`

@@ -1,1 +1,0 @@
-lar[9947]=`<b>ἀντι·κατηγορία, ας (ἡ)</b> contre-accusation, QUINT. <i>3, 10, 4</i>.`

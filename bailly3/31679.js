@@ -1,1 +1,0 @@
-lar[31679]=`<b>ἐκ·μηχανάομαι-ῶμαι</b> <font color="purple">[χᾰ]</font> imaginer habilement, JOS. <i>A.J. 8, 3, 4</i>.`

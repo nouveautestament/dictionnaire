@@ -1,1 +1,0 @@
-lar[5942]=`<b>ῆρος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui repousse ; οἱ ἀμυντῆρες, ARSTT. <i>H.A. 9, 5, 6,</i> défenses <i>ou</i> andouillers du bois d’un cerf.<p><b>Étym</b>. ἀμύνω.`

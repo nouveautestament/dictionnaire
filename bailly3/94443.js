@@ -1,1 +1,0 @@
-lar[94443]=`<b>οῦ (ὁ)</b> condisciple, XÉN. <i>Hell. 2, 4, 20</i> ; PLAT. <i>Euthyd. 272d, etc.</i> ; ARSTT. <i>Nic. 8, 12, 8</i>.<p><b>Étym</b>. συμφοιτάω.`

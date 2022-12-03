@@ -1,1 +1,0 @@
-lar[31966]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> crachement, A. TR. <i>7, p. 79</i>.<p><b>Étym</b>. ἐκπτύω.`

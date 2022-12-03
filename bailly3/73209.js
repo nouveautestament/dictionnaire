@@ -1,1 +1,0 @@
-lar[73209]=`<i>adv</i>., avec pureté <i>ou</i> sainteté, XÉN. <i>Cyr. 8, 5, 26, etc</i>.<p>•<i> Cp</i>. -ώτερον, EUR. <i>I.T. 1194</i> ; THC. <i>3, 67, etc. ; • Sup</i>. -ώτατα, PLAT. <i>Leg. 767d, etc</i>.<p><b>Étym</b>. ὅσιος.`

@@ -1,1 +1,0 @@
-lar[96674]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui fonde qqe ch. avec un autre, GAL. <i>2, 23</i>.<br><b>      2</b> couple d’arbalétriers <i>ou</i> de chevrons formant chaque ferme d’un toit, ATHÉNÉE MÉC.<p><b>Étym</b>. συνίστημι.`

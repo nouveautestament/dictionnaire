@@ -1,1 +1,0 @@
-lar[105742]=`<b>φιλό·δαφνος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le laurier, EUR. <i>fr. 480</i>.<p><b>Étym</b>. φ. δάφνη.`

@@ -1,1 +1,0 @@
-lar[106273]=`<font color="purple">[ῑ]</font> <i>lac. c</i>. σφίν, σφίσιν, CALL. <i>Dian. 125, 213, fr. 183</i> ; NIC. <i>Th. 725, etc</i>.`

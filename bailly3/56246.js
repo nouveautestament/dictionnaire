@@ -1,1 +1,0 @@
-lar[56246]=`<b>ίδος (ἡ)</b> nuage jaunâtre, <i>d’où</i> orage, ouragan, POÈT. (SUID.) ; PLUT. <i>M. 581f</i>.<p><b>Étym</b>. κνηκός.`

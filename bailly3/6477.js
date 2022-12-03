@@ -1,1 +1,0 @@
-lar[6477]=`<b>ἀμφ·ωτίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> oreillère des lutteurs, PLUT. <i>M. 38a, 706d.</i><br><b>      2</b> pendant d’oreilles, COM. (POLL. <i>10, 175</i>).<br><b>      3</b> vase à deux anses pour traire, PHILÉT. (ATH. <i>783d</i>).<p><b>Étym</b>. ἀ. οὖς.`

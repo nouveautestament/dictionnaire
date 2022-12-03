@@ -1,1 +1,0 @@
-lar[17245]=`<b>ας (ἡ)</b> la déesse de la croissance, PAUS. <i>2, 30, 4 ; 2, 32, 2</i> ; THÉM.<p>➳ <i>Ion</i>. -ίη, HDT. <i>5, 82 et 83</i>.<p><b>Étym</b>. αὐξάνω.`

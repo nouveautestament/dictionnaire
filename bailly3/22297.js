@@ -1,1 +1,0 @@
-lar[22297]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῠ]</font> lieu profond, creux, caverne, LYC. <i>485</i>.`

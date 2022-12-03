@@ -1,1 +1,0 @@
-lar[80401]=`<font color="darkgreen">(<i>seul. part</i>. πιπλάς)</font> <i>c</i>. πίμπλημι, ESCHL. <i>Ch. 360</i>.`

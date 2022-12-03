@@ -1,1 +1,0 @@
-lar[47927]=`<b>θυμο·δακής, ής, ές</b> <font color="purple">[ῡᾰ]</font> qui mord le cœur, OD. <i>8, 185</i> ; ANTH. <i>9, 77, etc</i>.<p><b>Étym</b>. θ. δάκνω.`

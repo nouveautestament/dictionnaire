@@ -1,1 +1,0 @@
-lar[57835]=`<b>κρηπιδο·πώλης, ου (ὁ)</b> <font color="purple">[ῑ]</font> marchand de chaussures, SYN. <i>Ep. 52</i>.<p><b>Étym</b>. κρηπίς, πωλέω.`

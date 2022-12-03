@@ -1,1 +1,0 @@
-lar[18971]=`<b>ου (ὁ)</b> = <i>lat</i>. Valerius, PLUT. <i>Parall. min. 13</i>.`

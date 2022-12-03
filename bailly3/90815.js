@@ -1,1 +1,0 @@
-lar[90815]=`<b>ατος (τὸ)</b> machination, intrigue, DÉM. <i>955, 3 ; 1035, 14</i>.<p><b>Étym</b>. σκευωρέω.`

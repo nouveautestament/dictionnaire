@@ -1,1 +1,0 @@
-lar[35153]=`<b>ἐν·τυμβεύω</b>, mettre dans la tombe, ensevelir dans, <i>fig. dat</i>. PHIL. <i>1, 65</i>.`

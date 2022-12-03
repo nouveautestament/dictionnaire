@@ -1,1 +1,0 @@
-lar[41309]=`<b>ας (ἡ)</b> apparence différente, THEOL. <i>p. 8</i>.<p><b>Étym</b>. ἑτεροειδής.`

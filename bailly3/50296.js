@@ -1,1 +1,0 @@
-lar[50296]=`<b>καθ·αρπάζω</b> <font color="purple">[κᾰ]</font><br><b>      1</b> dépendre <i>ou</i> décrocher vivement, <i>p. ext</i>. saisir vivement, EUR. <i>Andr. 813, 1122</i>.<br><b>      2</b> piller, STR. <i>761</i>.`

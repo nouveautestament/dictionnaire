@@ -1,1 +1,0 @@
-lar[66738]=`<b>όος-οῦς (ἡ) :<br>      1</b> figure grimaçante de femme, <i>sorte de monstre dont on se servait comme d’épouvantail pour les enfants,</i> LUC. <i>Philops. 2</i> ; THCR. <i>Idyl. 15, 40</i>.<br><b>      2</b> <i>interj</i>. horreur ! oh ! grands dieux ! AR. <i>Eq. 693</i>.`

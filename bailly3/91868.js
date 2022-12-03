@@ -1,1 +1,0 @@
-lar[91868]=`<b>σπερμο·φυής, ής, ές</b>, qui vient de semence <i>ou</i> de graine, TH. <i>H.P. 7, 10, 1</i>.<p><b>Étym</b>. σπέρμα, φύω.`

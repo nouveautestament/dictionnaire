@@ -1,1 +1,0 @@
-lar[30782]=`<b>εἰσ·ικνέομαι</b>, <i>ion. et anc. att</i>. <b>ἐσ·ικνέομαι-οῦμαι</b>, aller <i>ou</i> venir dans, <i>acc</i>. HERMÉSIAN. (ATH. <i>597d ; inf. ao.2</i> ἐσικέσθαι) ; <i>p. suite,</i> pénétrer, HDT. <i>3, 108</i> (<i>3 sg</i>. ἐσικνέεται).`

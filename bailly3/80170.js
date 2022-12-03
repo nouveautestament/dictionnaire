@@ -1,1 +1,0 @@
-lar[80170]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> engrais, ESCHL. <i>Pers. 806</i>.<p><b>Étym</b>. πιαίνω.`

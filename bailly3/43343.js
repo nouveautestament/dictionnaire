@@ -1,1 +1,0 @@
-lar[43343]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Eurytiôn, <i>h</i>. OD. <i>21, 295</i> ; ARSTT. <i>Pol. 5, 6</i>.<p><b>Étym</b>. Εὔρυτος.`

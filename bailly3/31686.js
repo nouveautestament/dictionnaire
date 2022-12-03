@@ -1,1 +1,0 @@
-lar[31686]=`<b>ἐκ·μολύνω</b> <font color="purple">[ῡ]</font> souiller complètement, BAS. <i>1, 236a Migne</i>.`

@@ -1,1 +1,0 @@
-lar[22886]=`<i>adv</i>., en forme d’angle, PROCL. <i>Plat. Tim. p. 206, éd. Bas</i>.<p><b>Étym</b>. γωνία.`

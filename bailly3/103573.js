@@ -1,1 +1,0 @@
-lar[103573]=`<b>ὑπο·μόχλιον, ου (τὸ)</b> talon <i>ou</i> bras le plus court d’un levier, ARSTT. <i>Mech. 4, 1 ; Probl. 4, 24</i>.<p><b>Étym</b>. ὑ. μοχλός.`

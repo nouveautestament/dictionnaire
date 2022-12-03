@@ -1,1 +1,0 @@
-lar[91393]=`ressembler à un ver, <i>particul</i>. se mouvoir lentement comme un ver, <i>en parl. du pouls,</i> GAL. <i>8, 34</i>.<p><b>Étym</b>. σκώληξ.`

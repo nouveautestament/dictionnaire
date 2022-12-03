@@ -1,1 +1,0 @@
-lar[48992]=`<b>α, ον</b>, d’Himéra, ARSTT. <i>Rhet. 2, 20</i> ; PLUT. <i>Pomp. 10, etc</i>.<p><b>Étym</b>. Ἱμέρα.`

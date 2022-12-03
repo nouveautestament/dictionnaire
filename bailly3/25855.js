@@ -1,1 +1,0 @@
-lar[25855]=`<b>δια·φλύω</b> <i>ou</i> <b>διαφλύζω</b> <font color="darkgreen">(<i>ao. pass. part. fém</i>. -φλυχθεῖσα)</font> répandre un liquide sur, mouiller, GAL. <i>Lex. Hipp. 19, 92</i>.`

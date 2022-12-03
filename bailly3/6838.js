@@ -1,1 +1,0 @@
-lar[6838]=`<b>ας (ἡ)</b> manque de sang, ARSTT. <i>P.A. 2, 7, 8</i>.<p><b>Étym</b>. ἄναιμος.`

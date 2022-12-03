@@ -1,1 +1,0 @@
-lar[37651]=`<b>οῦ (ὁ)</b> poursuite prolongée, POL. <i>11, 18, 7</i>.<p><b>Étym</b>. ἐπιδιώκω.`

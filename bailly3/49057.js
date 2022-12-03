@@ -1,1 +1,0 @@
-lar[49057]=`<b>ῶν (οἱ)</b> les habitants d’Inykos, PLAT. <i>Hipp. ma. 283c</i>.<p><b>Étym</b>. Ἴνυκος.`

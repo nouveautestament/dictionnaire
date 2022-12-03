@@ -1,1 +1,0 @@
-lar[106477]=`<b>ου (ὁ)</b> = <i>lat</i>. Florus, <i>n. d’h. rom</i>. ANTH. <i>11, 128</i>.`

@@ -1,1 +1,0 @@
-lar[1136]=`<i>adv.</i> :<br><b>      1</b> avec ardeur pour la lutte : ἀγ. ἔχειν, PLUT. <i>Syll. 16,</i> être disposé à la lutte.<br><b>      2</b> vigoureusement, A. TR. <i>p. 242</i>.`

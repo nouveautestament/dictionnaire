@@ -1,1 +1,0 @@
-lar[83600]=`<b>προ·ανέχω</b> <font color="darkgreen">(<i>f</i>. -ανέξω, <i>ao.2</i> -ανέσχον, <i>etc</i>.) :</font><br><b>      1 <i>tr.</i></b> élever en avant, faire saillir, JOS. <i>B.J. 5, 5, 6</i>.<br><b>      2 <i>intr.</i></b> s’avancer en saillie, JOS. <i>B.J. 5, 4, 4 ; fig</i>. exceller : ἔν τινι, CLÉM. <i>345,</i> en qqe ch.`

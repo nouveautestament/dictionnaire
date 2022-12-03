@@ -1,1 +1,0 @@
-lar[54592]=`<font color="purple">[ᾰ]</font> (<i>seul. prés. ind. et part.) c</i>. κελαδέω, SAPPH. <i>4 ; part</i>. κελάδων, οντος, sonore, retentissant (<i>fleuve,</i> IL. <i>18, 576, etc. ; mer,</i> AR. <i>Nub. 284, cours d’eau,</i> IL. <i>21, 16 ; vent,</i> OD. <i>2, 421</i>.`

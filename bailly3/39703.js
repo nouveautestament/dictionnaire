@@ -1,1 +1,0 @@
-lar[39703]=`<b>ἐπί·χολος, ος, ον :<br>      1</b> bilieux, HPC. <i>Fract. 775 ; d’où</i> irascible, PLUT. <i>M. 129c ;</i> PHILSTR. <i>580</i>.<br><b>      2</b> <i>act</i>. qui produit de la bile, HDT. <i>4, 58</i>.<p>•<i> Sup</i>. -ώτατος, HDT. <i>l. c.</i> ; PHILSTR. <i>578</i>.<p><b>Étym</b>. ἐπί, χολή.`

@@ -1,1 +1,0 @@
-lar[60605]=`<b>λευκό·πωλος, ος, ον</b>, traîné <i>ou</i> porté par un cheval blanc <i>ou</i> des chevaux blancs, PD. <i>P. 1, 66</i> ; SOPH. <i>Aj. 673</i> ; EUR. <i>H.f. 29, etc.</i> ; PLUT. <i>Cam. 7</i>.<p><b>Étym</b>. λ. πῶλος.`

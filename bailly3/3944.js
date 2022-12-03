@@ -1,1 +1,0 @@
-lar[3944]=`<b>ἀκτινο·φόρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> sorte de coquillage à raies, XÉNOCR. <i>Al. 49</i>.<p><b>Étym</b>. ἀκτίς, φέρω.`

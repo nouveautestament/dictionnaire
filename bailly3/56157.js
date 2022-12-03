@@ -1,1 +1,0 @@
-lar[56157]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. Κλυτίδης HDT. <i>9, 33</i>.`

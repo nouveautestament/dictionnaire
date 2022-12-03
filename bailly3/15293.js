@@ -1,1 +1,0 @@
-lar[15293]=`<b>ων (τὰ)</b> fête d’Artémis, HÉGÉSANDRE (ATH. <i>325c</i>). <i>Cf</i>. Ἀρτεμίτια.`

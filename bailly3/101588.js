@@ -1,1 +1,0 @@
-lar[101588]=`<b>ὑδρο·στόλος, ος, ον</b>, qui procure de l’eau aux navires, ANON. <i>Peripl. Eux. 29</i>.<p><b>Étym</b>. ὕδ. στέλλω.`

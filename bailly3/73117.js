@@ -1,1 +1,0 @@
-lar[73117]=`<b>ὀρφανο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ᾰῠᾰκ]</font> tuteur d’un orphelin <i>ou</i> d’orphelins, XÉN. <i>Vect. 2, 7</i>.<p><b>Étym</b>. ὀρφανός, φύλαξ.`

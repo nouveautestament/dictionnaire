@@ -1,1 +1,0 @@
-lar[95113]=`<b>συν·διακυβερνάω-ῶ</b> <font color="purple">[κῠ]</font> gouverner avec <i>ou</i> en même temps, PLAT. <i>Pol. 304a</i>.`

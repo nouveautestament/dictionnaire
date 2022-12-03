@@ -1,1 +1,0 @@
-lar[17490]=`<b>αὐτο·θέμεθλος, ος, ον</b>, qui a son fondement en soi, NONN. <i>Jo. 14, 23</i>.<p><b>Étym</b>. αὐ. θέμεθλον.`

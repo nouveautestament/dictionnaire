@@ -1,1 +1,0 @@
-lar[88118]=`<b>πωλο·τρόφος, ος, ον :<br>      1</b> qui nourrit de jeunes chevaux, ANTH. <i>9, 21</i>.<br><b>      2</b> qui élève de jeunes animaux, EL. <i>N.A. 16, 36</i>.<p><b>Étym</b>. πῶλος, τρέφω.`

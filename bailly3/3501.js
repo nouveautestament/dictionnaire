@@ -1,1 +1,0 @@
-lar[3501]=`<i>adv</i>., sans cohésion, HERM. (STOB. <i>Ecl. 1, 1078).</i><p><b>Étym</b>. ἀκόλλητος.`

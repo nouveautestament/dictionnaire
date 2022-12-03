@@ -1,1 +1,0 @@
-lar[107491]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Χαιρωνικός NONN. <i>D. 4, 344</i>.`

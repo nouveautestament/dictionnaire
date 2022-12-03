@@ -1,1 +1,0 @@
-lar[77728]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> petit de la cigogne, AR. <i>Av. 1356</i> ; PLUT. <i>M. 992b</i>.<p><b>Étym</b>. πελαργός.`

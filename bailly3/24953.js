@@ -1,1 +1,0 @@
-lar[24953]=`<b>ή, όν</b>, porté à la conciliation, DH. <i>7, 34</i>.`

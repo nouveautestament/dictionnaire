@@ -1,1 +1,0 @@
-lar[89226]=`<b>ης (ἡ)</b> <i>sorte de médecine,</i> GAL. <i>13, 686</i>.`

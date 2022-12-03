@@ -1,1 +1,0 @@
-lar[5948]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰ]</font> les fils <i>ou</i> descendants d’Amyntôr, PD. <i>O. 7, 23</i>.<p><b>Étym</b>. Ἀμύντωρ.`

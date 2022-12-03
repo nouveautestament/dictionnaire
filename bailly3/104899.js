@@ -1,1 +1,0 @@
-lar[104899]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> la Magicienne, <i>titre de la 2<sup>e</sup> idylle de Théocrite et de la 8<sup>e</sup> églogue de Virgile</i>.<p><b>Étym</b>. <i>cf</i>. φαρμακευτής.`

@@ -1,1 +1,0 @@
-lar[726]=`<b>ἀγλαό·χαρτος, ος, ον</b>, radieux de plaisir, ANTH. <i>15, 11</i>.<p><b>Étym</b>. ἀ. χαίρω.`

@@ -1,1 +1,0 @@
-lar[98318]=`<b>ή, όν</b>, <i>épq. et ion. c</i>. σός, σή, σόν, ton, ta, le tien, la tienne, IL. <i>1, 138</i> ; ESCHL. <i>Pr. 162, Sept. 105, 108</i> ; SOPH. <i>O.C. 534, El. 1091</i> ; EUR. <i>Her. 911</i>.`

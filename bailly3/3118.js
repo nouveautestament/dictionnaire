@@ -1,1 +1,0 @@
-lar[3118]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> recherche d’arguties, <i>litt</i>. d’épines, NYSS.`

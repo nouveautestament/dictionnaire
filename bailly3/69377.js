@@ -1,1 +1,0 @@
-lar[69377]=`<b>ατος (τὸ)</b> teinture jaune, EUR. <i>fr. 324</i> ; ANTH. <i>5, 260</i>.<p><b>Étym</b>. ξανθίζω.`

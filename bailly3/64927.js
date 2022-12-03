@@ -1,1 +1,0 @@
-lar[64927]=`<b>ής, ές</b>, remarquable parmi, <i>dat</i>. IL. <i>18, 370</i>.<p><b>Étym</b>. μεταπρέπω.`

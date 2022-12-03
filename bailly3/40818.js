@@ -1,1 +1,0 @@
-lar[40818]=`<b>*ἐρυμνῶς</b> (<i>seul. cp</i>. ἐρυμνοτέρως) <i>adv</i>., dans une situation plus forte, ARSTT. <i>Pol. 7, 12, 3</i>.<p><b>Étym</b>. ἐρυμνός.`

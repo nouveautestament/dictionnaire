@@ -1,1 +1,0 @@
-lar[95277]=`<b>συν·ειλαπινάζω</b> <font color="purple">[ᾰῐ]</font> se régaler ensemble, festoyer ensemble, NONN. <i>D. 11, 76</i>.`

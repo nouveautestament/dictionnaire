@@ -1,1 +1,0 @@
-lar[99]=`<b>ων (οἱ)</b> <font color="purple">[ᾰ]</font> les Abies, <i>Scythes nomades,</i> IL. <i>13, 6</i>.`

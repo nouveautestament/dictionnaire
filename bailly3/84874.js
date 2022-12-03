@@ -1,1 +1,0 @@
-lar[84874]=`<b>προ·πάθεια, ας (ἡ)</b> <font color="purple">[πᾰ]</font> première conscience qu’on a d’un mal <i>ou</i> pressentiment d’un mal, PLUT. <i>M. 127d</i>.<p><b>Étym</b>. π. πάθος.`

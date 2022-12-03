@@ -1,1 +1,0 @@
-lar[62275]=`<b>μαδαρόω-ῶ</b> <font color="purple">[ᾰᾰ]</font> rendre chauve, SPT. <i>Neh. 13, 25</i>.<p><b>Étym</b>. μαδαρός.`

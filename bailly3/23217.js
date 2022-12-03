@@ -1,1 +1,0 @@
-lar[23217]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> bon à brûler, <i>d’où</i> sec (bois), OD. <i>15, 322</i>.<p>•<i> Sup</i>. δανότατος, AR. <i>Pax 1134</i>.<p><b>Étym</b>. <i>p</i>. *δαϝεσνός, <i>cf</i>. δαίω.`

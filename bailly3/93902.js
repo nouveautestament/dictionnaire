@@ -1,1 +1,0 @@
-lar[93902]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Symè (<i>auj</i>. Sými) <i>petite î. sur la côte de Carie,</i> HDT. <i>1, 174</i> ; THC. <i>8, 41, etc</i>.`

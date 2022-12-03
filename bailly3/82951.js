@@ -1,1 +1,0 @@
-lar[82951]=`<i>adv. interr</i>. en quelle quantité ? de quelle grandeur ? HDN GR. <i>π. μ. λ. p. 19, 18</i>.<p><b>Étym</b>. πόσος.`

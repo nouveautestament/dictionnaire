@@ -1,1 +1,0 @@
-lar[16713]=`<b>ου (ὁ)</b> Atéas, <i>roi scythe,</i> PLUT. LUC. <i>etc</i>.`

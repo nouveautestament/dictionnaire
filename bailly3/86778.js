@@ -1,1 +1,0 @@
-lar[86778]=`<b>ονος (ὁ)</b> <font color="purple">[ᾱ]</font> Protiaôn, <i>Troyen,</i> IL. <i>15, 455</i>.`

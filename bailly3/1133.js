@@ -1,1 +1,0 @@
-lar[1133]=`<b>α, ον</b> <font color="purple">[ᾰγ]</font> qui sert pour la lutte, ANAXIPP. (ATH. <i>169c</i>) ; τὸ ἀγ. ARSTD. <i>t. 1, 108,</i> emplacement pour le combat.<p><b>Étym</b>. ἀγωνίζομαι.`

@@ -1,1 +1,0 @@
-lar[6944]=`<b>ατος (τὸ)</b> avertissement du coryphée pour rappeler (les chanteurs) à l’intonation juste, JUL. <i>Ep. 41, 421b</i>.<p><b>Étym</b>. ἀνακαλέω.`

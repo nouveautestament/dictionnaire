@@ -1,1 +1,0 @@
-lar[16450]=`<i>adv</i>., sans payer son écot, CTÉSIB. (ATH. <i>162f</i>).`

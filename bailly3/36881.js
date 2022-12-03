@@ -1,1 +1,0 @@
-lar[36881]=`<b>ἐπ·αφριάω</b> <font color="purple">[ᾰφ]</font> (<i>seul. part. prés. épq</i>. -ιόωσα) se couvrir d’écume, NONN. <i>D. 43, 318</i>.<p><b>Étym</b>. ἔπαφρος.`

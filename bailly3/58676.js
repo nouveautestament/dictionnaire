@@ -1,1 +1,0 @@
-lar[58676]=`<b>εως (ἡ)</b> <font color="purple">[ῡᾰ]</font> soulèvement des flots, STR. <i>53</i>.<p><b>Étym</b>. κυματόω.`

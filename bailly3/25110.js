@@ -1,1 +1,0 @@
-lar[25110]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> repos à intervalles, ARSTT. <i>Spir. 8, 4</i>.<p><b>Étym</b>. διαναπαύω.`

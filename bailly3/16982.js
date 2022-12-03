@@ -1,1 +1,0 @@
-lar[16982]=`<i>seul. ion</i>. <b>ἀτροπίη, ης (ἡ)</b> inflexibilité, <i>d’où</i> :<br><b>      1</b> raideur, obstination, THGN. <i>218</i> ; A.RH. <i>4, 1006</i>.<br><b>      2</b> folie, A.RH. <i>4, 387</i>.<p><b>Étym</b>. ἄτροπος.`

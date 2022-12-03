@@ -1,1 +1,0 @@
-lar[88235]=`<b>ου (ἡ)</b> Rhækèlos, <i>v. de Macédoine,</i> LYC. <i>1236</i>.`

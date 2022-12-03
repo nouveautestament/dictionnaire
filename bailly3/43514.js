@@ -1,1 +1,0 @@
-lar[43514]=`<i>adv</i>., d’un commerce facile, SPT. <i>Prov. 25, 10</i>.`

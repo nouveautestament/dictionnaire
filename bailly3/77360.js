@@ -1,1 +1,0 @@
-lar[77360]=`<i>adv</i>., en père, paternellement, ARSTT. <i>Pol. 5, 11, 9</i> ; PLUT. <i>M. 117d</i>.`

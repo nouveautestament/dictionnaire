@@ -1,1 +1,0 @@
-lar[43532]=`<b>εὐ·συστροφία, ας (ἡ)</b> habileté à se retourner, fourberie, SPT. <i>Prov. 14, 35</i>.<p><b>Étym</b>. εὖ, συστρέφω.`

@@ -1,1 +1,0 @@
-lar[22912]=`<b>ίδος (ἡ)</b> <i>s.-e</i>. ἡμέρα, jour des torches, <i>càd</i>. fête aux flambeaux, LUC. <i>Alex. 39</i>.<p><b>Étym</b>. δᾴς.`

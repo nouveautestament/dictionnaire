@@ -1,1 +1,0 @@
-lar[110618]=`<b>ὠχρο·μέλας, αινα, αν</b> <font color="purple">[ᾱς, ᾰν]</font> d’un noir jaunâtre, brun, GAL. <i>5, 483</i>.`

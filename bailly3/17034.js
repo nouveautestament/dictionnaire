@@ -1,1 +1,0 @@
-lar[17034]=`<b>οῦ (ὁ) :<br>      1</b> Attikos, <i>h</i>. PLUT. LUC. <i>etc.</i><br><b>      2</b> <i>à Rome,</i> Atticus (Titus Pomponius), <i>chevalier romain, ami de Cicéron,</i> PLUT. <i>Cic. 45, etc</i>.`

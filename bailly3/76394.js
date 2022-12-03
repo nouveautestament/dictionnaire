@@ -1,1 +1,0 @@
-lar[76394]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> image réfléchie, CHALCID. <i>336</i>.<p><b>Étym</b>. παραφαίνω.`

@@ -1,1 +1,0 @@
-lar[33124]=`<i>adv</i>., comme des boutures <i>ou</i> des pousses, HH. <i>Merc. 411</i>.<p><b>Étym</b>. ἐμβάλλω.`

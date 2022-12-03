@@ -1,1 +1,0 @@
-lar[33912]=`<b>ἐν·αξονίζω</b>, garnir d’un axe <i>ou</i> d’un essieu, PLUT. <i>M. 896 a conj. Reiske</i>.<p><b>Étym</b>. ἐν, ἄξων.`

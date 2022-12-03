@@ -1,1 +1,0 @@
-lar[81026]=`<b>πλησί·αλος, ος, ον</b> <font color="purple">[ᾰ]</font> voisin de la mer ; τὸ πλησίαλον, POSIDON. (ATH. <i>333c</i>) le bord de la mer.<p><b>Étym</b>. πλησίος, ἅλς.`

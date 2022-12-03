@@ -1,1 +1,0 @@
-lar[109646]=`<b>ψευδ·ενέδρα, ας (ἡ)</b> fausse embuscade, XÉN. <i>An. 5, 2, 28 ; Hipp. 5, 8</i>.`

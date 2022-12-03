@@ -1,1 +1,0 @@
-lar[57355]=`<font color="purple">[ῠ]</font><br><b>      1</b> vendre par cotyles, <i>càd</i>. au détail, ARSTT. <i>Œc. 2, 8</i>.<br><b>      2</b> donner par petites portions, AR. <i>fr. 555</i> ; PHÉRÉCR. (<i>Com. fr. 2, 357).</i><p><b>Étym</b>. κοτύλη.`

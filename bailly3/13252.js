@@ -1,1 +1,0 @@
-lar[13252]=`<b>ἀπόρροος-ους, οος-ους, οον-ουν</b>, qui découle, qui émane de, <i>gén</i>. ANTIPH. (ATH. <i>440c</i>) : ὁ ἀπ. ARSTD. <i>t. 2, 351, etc</i>. embranchement d’un cours d’eau.<p><b>Étym</b>. ἀπορρέω.`

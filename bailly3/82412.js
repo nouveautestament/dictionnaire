@@ -1,1 +1,0 @@
-lar[82412]=`<b>πολυ·στροφάλιγξ, ιγγος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> aux tourbillons impétueux, MUS. <i>293</i> ; NONN. <i>D. 23, 263</i>.`

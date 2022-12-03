@@ -1,1 +1,0 @@
-lar[68871]=`<i>adv</i>., de manière à être perçu par l’intelligence, SPT. <i>Prov. 23, 1</i>.<p><b>Étym</b>. νοητός.`

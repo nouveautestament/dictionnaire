@@ -1,1 +1,0 @@
-lar[65583]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> l’inventeur, l’ingénieux, <i>ép. de Zeus,</i> PAUS. <i>2, 22, 2</i>.<p><b>Étym</b>. μηχανεύω.`

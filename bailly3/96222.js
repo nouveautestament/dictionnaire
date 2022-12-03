@@ -1,1 +1,0 @@
-lar[96222]=`<b>σύν·ορος, ος, ον :<br>      1</b> limitrophe de, <i>dat</i>. PLUT. <i>Lys. 29 ; gén</i>. PLUT. <i>Dem. 17, etc.</i><br><b>      2</b> <i>fig</i>. qui a de l’affinité avec, analogue à, <i>gén</i>. ESCHL. <i>Ag. 495 ; abs</i>. ARSTT. <i>Nic. 8, 10, 3 ; Respir. 21, 7</i>.<p>➳ <i>Ion</i>. ξύνουρος, ESCHL. <i>Ag. 495</i>.<p><b>Étym</b>. σύν, ὅρος.`

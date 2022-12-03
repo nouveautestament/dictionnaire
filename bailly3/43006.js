@@ -1,1 +1,0 @@
-lar[43006]=`<b>εὔ·πετρος, ος, ον</b>, fait de belle <i>ou</i> de bonne pierre, ANTH. <i>6, 306</i>.<p><b>Étym</b>. εὖ, πέτρα.`

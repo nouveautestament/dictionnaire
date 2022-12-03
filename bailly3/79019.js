@@ -1,1 +1,0 @@
-lar[79019]=`<b>ος, ον :<br>      1</b> qu’on voit de tous les côtés, PLUT. <i>Arat. 53, etc.</i> ; ATH. <i>148b ;</i> ἐκ περίοπτου, DH. <i>Comp. 23,</i> d’un lieu visible à tous.<br><b>      2</b> <i>fig</i>. remarquable, DS. <i>14, 1</i> ; PLUT. <i>Cæs. 16</i> ; ANTH. <i>5, 27, etc</i>.<p><b>Étym</b>. περιόψομαι, <i>v</i>. περιοράω.`

@@ -1,1 +1,0 @@
-lar[69334]=`<b>νωταγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> porter sur son dos, ATH. <i>258b</i>.<p><b>Étym</b>. νωταγωγός.`

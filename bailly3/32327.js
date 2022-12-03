@@ -1,1 +1,0 @@
-lar[32327]=`<b>ἐκ·φλύζω</b> (<i>seul. inf. ao</i>. ἐκφλύξαι) faire sortir en bouillonnant, A.RH. <i>1, 275, fig</i>.`

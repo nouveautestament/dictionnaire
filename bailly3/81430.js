@@ -1,1 +1,0 @@
-lar[81430]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> avec variété, de différentes sortes, XÉN. <i>Mem. 2, 6, 21 ; cf</i>. PLAT. <i>Ax. 365c.</i><br><b>      2</b> avec souplesse, habileté <i>ou</i> ruse, SOPH. <i>Ph. 130</i> ; EUR. <i>Bacch. 886</i> ; POL. <i>4, 30, 7</i> ; DS. <i>19, 5</i>.<p><b>Étym</b>. ποικίλος.`

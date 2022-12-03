@@ -1,1 +1,0 @@
-lar[8303]=`<i>adv.</i> :<br><b>   I</b> d’une manière inattendue <i>ou</i> inespérée, DÉM. <i>289, 17 (décr</i>.).<br><b>   II</b> sans espoir :<br><b>      1</b> ἀν. ἔχειν, PLAT. <i>Phil. 36b</i>, n’avoir aucun espoir.<br><b>      2</b> de manière à ne laisser aucun espoir, ARÉT. <i>Cur. m. acut. 2, 5</i>.`

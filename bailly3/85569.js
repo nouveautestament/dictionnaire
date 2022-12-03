@@ -1,1 +1,0 @@
-lar[85569]=`<b>προσ·εμπικραίνομαι</b> <font color="darkgreen">(<i>f. ion</i>. -ανέομαι)</font> <font color="purple">[πῐ]</font> s’aigrir <i>ou</i> s’irriter encore plus contre, <i>dat</i>. HDT. <i>3, 146</i>.`

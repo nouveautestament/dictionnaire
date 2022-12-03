@@ -1,1 +1,0 @@
-lar[3523]=`<b>ἄ·κομψος, ος, ον</b>, sans parure :<br><b>      1</b> simple, naturel, DL. <i>3, 63</i>.<br><b>      2</b> rude, <i>d’où</i> inhabile, EUR. <i>Hipp. 986 ; cf</i>. PLUT. <i>M. 6b</i>.<p><b>Étym</b>. ἀ, κομψός.`

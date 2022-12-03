@@ -1,1 +1,0 @@
-lar[67030]=`<b>οῦ (ὁ)</b> qui tient des propos séditieux ; <i>sel. d’autres,</i> orateur, chef du peuple, ANACR. <i>16</i> (μυθίτης, <i>conj. Bgk ; sel. d’autres,</i> μυθιητής).<p><b>Étym</b>. μυθέομαι.`

@@ -1,1 +1,0 @@
-lar[23671]=`<b>δεκα·μία, ᾶς (ἡ)</b> <i>s.-e</i>. ἡμέρα, le onzième jour, PLUT. <i>Num. 3</i>.<p><b>Étym</b>. δ. μία.`

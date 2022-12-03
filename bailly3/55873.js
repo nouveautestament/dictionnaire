@@ -1,1 +1,0 @@
-lar[55873]=`<b>ου (ὁ)</b> Kleitos (Clitus) <i>h.</i> :<br><b>      1</b> <i>Grec,</i> IL. <i>15, 545</i> ; OD. <i>15, 249</i>.<br><b>      2</b> <i>général d’Alexandre le Grand</i> ; PLUT. <i>Alex. 13, etc.</i> ; LUC. <i>D. mort. 13, 6, etc.</i> ; ARR. <i>An. 1, 15, 12</i>.<p><b>Étym</b>. κλειτός.`

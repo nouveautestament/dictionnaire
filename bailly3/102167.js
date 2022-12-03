@@ -1,1 +1,0 @@
-lar[102167]=`<b>ὑπ·εμβρυόω-ῶ</b>, rendre enceinte, SOPH. <i>fr. 709</i>.<p><b>Étym</b>. ὑ. ἔμβρυον.`

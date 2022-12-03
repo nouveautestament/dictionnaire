@@ -1,1 +1,0 @@
-lar[97179]=`<font color="purple">[ᾰμ]</font> <i>adv</i>., corporellement, PLUT. <i>M. 424d ;</i> NT. <i>Col. 2, 9</i>.<p>•<i> Cp</i>. -ώτερον, SEXT. <i>P. 1, 7</i>.`

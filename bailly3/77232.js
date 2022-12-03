@@ -1,1 +1,0 @@
-lar[77232]=`<b>πασι·άναξ, -άνακτος (ὁ)</b> <font color="purple">[πᾱᾰν]</font> qui règne sur tout, ORACL. (PHLÉG. TR. <i>p. 144).</i><p><b>Étym</b>. πᾶς, ἄναξ.`

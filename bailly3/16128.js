@@ -1,1 +1,0 @@
-lar[16128]=`<b>ἀ·στάλακτος, ος, ον</b> <font color="purple">[τᾰ]</font> qui ne dégoutte pas, PLUT. <i>Crass. 4</i>.<p><b>Étym</b>. ἀ, σταλάζω.`

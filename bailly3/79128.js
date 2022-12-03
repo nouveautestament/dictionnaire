@@ -1,1 +1,0 @@
-lar[79128]=`<b>περι·πλήθω</b> (<i>seul. prés</i>.) être tout plein de, <i>gén</i>. Q. SM. <i>11, 160</i> ; TRIPHIOD. <i>595 ; dat</i>. OPP. <i>H. 5, 591</i>.<br><b><i>Moy.</i></b> <i>abs</i>. OPP. <i>H. 5, 678</i>.`

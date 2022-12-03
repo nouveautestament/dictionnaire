@@ -1,1 +1,0 @@
-lar[62815]=`<b>μανόω-ῶ</b> <font color="purple">[ᾱ]</font> rendre flasque, TH. <i>H.P. 9, 13, 3 ; C.P. 3, 6, 1, etc</i>.<p><b>Étym</b>. μανός.`

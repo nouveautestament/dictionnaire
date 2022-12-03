@@ -1,1 +1,0 @@
-lar[85571]=`<b>προσ·εμπίπρημι</b>, faire brûler en outre, SPT. <i>Ex. 22, 6</i> ; JOS. <i>B.J. 3, 7, 36</i>.`

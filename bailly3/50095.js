@@ -1,1 +1,0 @@
-lar[50095]=`<b>ή, όν</b>, propre à suivre la piste, ARR. <i>Epict. 1, 2, 34</i> ; PHIL. <i>2, 38</i>.<p><b>Étym</b>. ἰχνεύω.`

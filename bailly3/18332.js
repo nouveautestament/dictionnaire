@@ -1,1 +1,0 @@
-lar[18332]=`<b>ης, ες</b>, de la couleur d’une sardine, <i>càd</i>. blanchâtre, HPC. <i>638, 20 ; 641, 12</i>.<p><b>Étym</b>. ἀφύη, -ωδης.`

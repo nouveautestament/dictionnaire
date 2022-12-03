@@ -1,1 +1,0 @@
-lar[100731]=`<b>ου (τὸ)</b> <i>seul. au pl.</i> :<br><b>      1</b> frais de nourriture <i>ou</i> d’éducation, ESCHL. <i>Sept. 477</i>., <i>etc. ; en prose,</i> PLAT. <i>Rsp. 520b ;</i> LYS. <i>107, 32, etc.</i><br><b>      2</b> ce qui procure de la nourriture, ce qui fait vivre, nourriture, subsistance, SOPH. <i>O.C. 341</i> ; EUR. <i>Ion 1493</i>.<p><b>Étym</b>. τροφεύω.`

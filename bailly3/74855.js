@@ -1,1 +1,0 @@
-lar[74855]=`<b>παν·αλουργής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> teint tout en pourpre, XÉNOPHAN. (ATH. <i>526b</i>).<p><b>Étym</b>. π. ἁλουργής.`

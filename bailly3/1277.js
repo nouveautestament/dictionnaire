@@ -1,1 +1,0 @@
-lar[1277]=`<b>ἀδηλό·φλεβος, ος, ον</b>, aux veines non apparentes, ARSTT. <i>P.A. 3, 4</i>.<p><b>Étym</b>. ἄδ. φλέψ.`

@@ -1,1 +1,0 @@
-lar[48451]=`<b>εως (ἡ)</b> <font color="purple">[ῑ ῑσ]</font> action de suer, sueur, ARSTT. <i>Probl. 35, 4</i>.<p><b>Étym</b>. ἰδίω.`

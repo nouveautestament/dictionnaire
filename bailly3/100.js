@@ -1,1 +1,0 @@
-lar[100]=`<b>ἄ·βιος, ος, ον :<br>      1</b> qui n’est pas la vie : ἄβ. βίος, ANTH. <i>7, 715,</i> vie qui n’en est pas une ; <i>d’où</i> intolérable, PLAT. <i>Leg. 873c.</i><br><b>      2</b> sans ressources pour vivre, indigent, LUC. <i>D. mort. 15, 3</i>.<p><b>Étym</b>. ἀ, βίος.`

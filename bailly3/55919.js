@@ -1,1 +1,0 @@
-lar[55919]=`<b>Κλεο·φάνης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Kléophanès, <i>h</i>. ARSTT. (GAL. <i>2, 52</i>) ; PLUT. <i>Phoc. 13</i>.<p><b>Étym</b>. κλ. φαίνω, <i>cf</i>. Φανοκλῆς.`

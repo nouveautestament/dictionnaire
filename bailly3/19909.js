@@ -1,1 +1,0 @@
-lar[19909]=`<b>βλεπε·δαίμων, ονος (ὁ, ἡ)</b> au regard inspiré, <i>d’où</i> mystique, superstitieux, PAUS. (EUST. <i>206, 27).</i><p><b>Étym</b>. βλέπω, δ.`

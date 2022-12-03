@@ -1,1 +1,0 @@
-lar[56097]=`<b>α, ον</b>, de Clœlia <i>ou</i> de Clœlius, PLUT. <i>Cor. 30</i>.<p><b>Étym</b>. <i>v</i>. Κλοιλία, Κλοίλιος.`

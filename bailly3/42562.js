@@ -1,1 +1,0 @@
-lar[42562]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> circonspect, prudent, PLAT. <i>Def. 412a</i>.<p><b>Étym</b>. εὐλαβέομαι.`

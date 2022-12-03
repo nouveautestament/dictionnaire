@@ -1,1 +1,0 @@
-lar[35443]=`<b>ἐξ·αμυστίζω</b> <font color="purple">[ᾰ]</font> avaler d’un trait, PLAT. COM. <i>2-2, 684, 9, 4 Mein</i>.<p><b>Étym</b>. ἐξ, ἀμυστί.`

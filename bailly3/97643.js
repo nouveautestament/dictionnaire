@@ -1,1 +1,0 @@
-lar[97643]=`<b>αντος (ὁ)</b> <font color="purple">[τᾰᾱς]</font> Tarente (<i>auj</i>. Tarento) <i>v. de la Grande-Grèce,</i> HDT. <i>1, 24 ; 3, 136, etc.</i> ; THC. <i>6, 34, 44, 104, etc</i>.<p>➳ ἡ Τ. DS. <i>22, 16</i> ; EUST. <i>1390, 59</i>.`

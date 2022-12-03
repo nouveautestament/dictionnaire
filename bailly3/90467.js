@@ -1,1 +1,0 @@
-lar[90467]=`<b>σισυρο·φόρος, ος, ον</b> <font color="purple">[ῐῠ]</font> couvert d’une fourrure épaisse et grossière, SYN. <i>23c</i>.<p><b>Étym</b>. σισύρα, φέρω.`

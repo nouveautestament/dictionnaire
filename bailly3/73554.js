@@ -1,1 +1,0 @@
-lar[73554]=`<b>οὐλό·κερως, ως, ων</b>, <i>gén</i>. <b>ω</b>, dont les cornes sont recourbées <i>ou</i> tronquées, STR. <i>96</i>.<p><b>Étym</b>. οὖλος², κέρας.`

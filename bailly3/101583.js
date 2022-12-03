@@ -1,1 +1,0 @@
-lar[101583]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de découvrir les sources souterraines, GEOP. <i>2, 6, 47</i>.<p><b>Étym</b>. <i>v</i>. ὑδροσκοπέομαι.`

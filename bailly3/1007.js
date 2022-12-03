@@ -1,1 +1,0 @@
-lar[1007]=`<i>v. d’Étrurie</i> (<i>postér</i>. Cære) cf. HDT. 1.167.`

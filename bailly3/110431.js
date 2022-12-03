@@ -1,1 +1,0 @@
-lar[110431]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. ὡραῖος, NICOM. COM. (ATH. <i>291b</i>) ; ANTH. <i>9, 316</i> ; DS. <i>17, 67</i> ; GEOP. <i>9, 9, 7</i>.<p>•<i> Cp</i>. -ώτερος, ANON. MED. <i>de Cibis 20, 12 ; • Sup</i>. -ώτατος, GEOP. <i>l. c</i>.`

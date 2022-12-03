@@ -1,1 +1,0 @@
-lar[83298]=`<b>ου (τὸ)</b> = <i>lat</i>. prætōrium, prétoire, palais du prince, NT. <i>Phil</i>. 1.13 ; <i>ou</i> du gouverneur, NT. <i>Matth</i>. 27.27 ; <i>Marc</i>. 15.16 ; <i>Ap</i>. 23.25, <i>etc</i>.`

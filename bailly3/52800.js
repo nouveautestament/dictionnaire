@@ -1,1 +1,0 @@
-lar[52800]=`<b>κατα·μασάομαι-ῶμαι</b> <font color="purple">[μᾰ]</font> mâcher avidement, HPC. <i>1155b, etc. ; fig</i>. dévorer, ALEX. <i>fr. 105 Kock</i>.`

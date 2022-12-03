@@ -1,1 +1,0 @@
-lar[56198]=`voler, enlever par surprise, XÉN. <i>An. 6, 1, 1 ; Lac. 2, 8</i>.<p><b>Étym</b>. κλώψ.`

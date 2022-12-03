@@ -1,1 +1,0 @@
-lar[43062]=`<b>εὐ·ποίκιλος, ος, ον</b> <font color="purple">[κῐ]</font> fortement tacheté, ANTH. <i>6, 154</i>.<p><b>Étym</b>. εὖ, ποικίλος.`

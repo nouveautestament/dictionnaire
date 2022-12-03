@@ -1,1 +1,0 @@
-lar[2706]=`<b>αἰνο·ποιέω-ῶ</b>, chanter les louanges de Dieu, AQU. <i>Ps. 31, 11</i>.<p><b>Étym</b>. αἶνος, π.`

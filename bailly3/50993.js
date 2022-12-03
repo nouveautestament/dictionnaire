@@ -1,1 +1,0 @@
-lar[50993]=`<b>καλαμο·δύτης, ου (ὁ)</b> <font color="purple">[ᾰᾰῡ]</font> <i>propr</i>. « qui se plonge dans les roseaux », <i>sorte d’oiseau aquatique,</i> EL. <i>N.A. 6, 46</i>.<p><b>Étym</b>. κάλαμος, δύω.`

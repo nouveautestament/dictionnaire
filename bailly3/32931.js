@@ -1,1 +1,0 @@
-lar[32931]=`<i>adv</i>., par ellipse, EUST. <i>Il. 768, 15 ; Od. 1080, 17</i>.`

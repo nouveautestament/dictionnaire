@@ -1,1 +1,0 @@
-lar[109857]=`<b>εως (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> action de dégarnir de cheveux, CLÉARQ. (ATH. <i>522d</i>), <i>ou</i> de chair, HPC. <i>Aph. 1259, ou</i> de feuilles, PLUT. <i>M. 646d.</i><br><b>      2</b> action d’écrire <i>ou</i> de prononcer avec une consonne non aspirée (douce <i>ou</i> ténue) EUST. <i>515, 38</i>.<p><b>Étym</b>. ψιλόω.`

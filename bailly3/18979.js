@@ -1,1 +1,0 @@
-lar[18979]=`<b>ων (αἱ)</b> <i>s.-e</i>. νῆσοι, les î. Baléares, STR. DS.`

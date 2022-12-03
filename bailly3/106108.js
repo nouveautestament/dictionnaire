@@ -1,1 +1,0 @@
-lar[106108]=`<b>ου (ὁ)</b> <font color="purple">[φῐ]</font> Philostorgios, <i>écrivain ecclésiastique,</i> ANTH. <i>9, 193, etc</i>.<p><b>Étym</b>. φιλόστοργος.`

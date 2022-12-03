@@ -1,1 +1,0 @@
-lar[62284]=`<b>εως (ἡ)</b> <font color="purple">[ᾰδῐ]</font> chute des feuilles, TH. <i>C.P. 5, 9, 9</i>.<p><b>Étym</b>. μαδίζω.`

@@ -1,1 +1,0 @@
-lar[4034]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰᾱζ]</font> fanfaronnade, AR. <i>Ach. 87</i> ; ESCHN. <i>25, 23</i>.<p><b>Étym</b>. ἀλαζονεύομαι.`

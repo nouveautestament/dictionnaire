@@ -1,1 +1,0 @@
-lar[66374]=`<b>μολοβρίτης ὗς (ὁ)</b> <font color="purple">[ῑ]</font> jeune sanglier, marcassin, EL. <i>N.A. 7, 47</i>.`

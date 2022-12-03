@@ -1,1 +1,0 @@
-lar[43727]=`<b>εὐ·φόρητος, ος, ον</b>, facile à supporter, ESCHL. <i>Ch. 353</i>.<p><b>Étym</b>. εὖ, φορέω.`

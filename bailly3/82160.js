@@ -1,1 +1,0 @@
-lar[82160]=`<b>Πολύ·νικος, ου (ὁ)</b> <font color="purple">[ῠῑ]</font> Polynikos (Polynice) <i>h</i>. XÉN. <i>Hell. 7, 6, 1, etc.</i> ; ANTH. <i>7, 540</i>.<p><b>Étym</b>. π. νίκη.`

@@ -1,1 +1,0 @@
-lar[1695]=`<b>ἀεί·ρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule toujours, SOPH. <i>O.C. 470</i>.<p><b>Étym</b>. ἀ. ῥέω.`

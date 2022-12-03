@@ -1,1 +1,0 @@
-lar[80829]=`<b>ῶν (οἱ)</b> les descendants de Pleisthénès, ESCHL. <i>Ag. 1569</i>.<p><b>Étym</b>. <i>v</i>. Πλεισθένης.`

@@ -1,1 +1,0 @@
-lar[78165]=`<b>πέεος-πέους (τὸ)</b> membre viril, verge, AR. <i>Ach. 158, etc</i>.<p><b>Étym</b>. <i>p</i>. *πέσος, <i>cf</i>. πόσθη, <i>lat</i>. pēnis <i>p</i>. *pesnis.`

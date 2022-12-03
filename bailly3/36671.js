@@ -1,1 +1,0 @@
-lar[36671]=`<b>εως (ἡ)</b> action de revenir, <i>d’où</i> :<br><b>      1</b> retraite, DS. <i>Exc. 510, 31</i>.<br><b>      2</b> reflux des vagues, THC. <i>3, 89</i>.`

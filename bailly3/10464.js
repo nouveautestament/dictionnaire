@@ -1,1 +1,0 @@
-lar[10464]=`<b>ἀντι·συναλείφω</b> <font color="purple">[ᾰλ]</font> se frotter mutuellement d’huile (au bain <i>ou</i> au gymnase) (<i>sel. d’autres, mais à tort,</i> confondre tour à tour) PHILOD. <i>De sup. 13</i>.`

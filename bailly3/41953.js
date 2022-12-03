@@ -1,1 +1,0 @@
-lar[41953]=`<b>εὐ·είμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, richement vêtu, ESCHL. <i>Pers. 181</i>.<p><b>Étym</b>. εὖ, εἷμα.`

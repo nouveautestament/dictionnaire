@@ -1,1 +1,0 @@
-lar[74408]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> semblable à un panier de fruits desséchés, <i>d’où</i> foulé, pressé, DIOSC. <i>1, 80</i>.<p><b>Étym</b>. παλάθη, -ωδης.`

@@ -1,1 +1,0 @@
-lar[56054]=`<b>κλιμακο·φόρος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui porte une échelle <i>ou</i> un marchepied, POL. <i>10, 12, 1</i> ; DS. <i>18, 33</i> ; APP. <i>Mithr. 26</i>.<p><b>Étym</b>. κλῖμαξ, φέρω.`

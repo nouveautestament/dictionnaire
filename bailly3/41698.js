@@ -1,1 +1,0 @@
-lar[41698]=`<b>εὐ·βλαστής, ής, ές :<br>      1 <i>intr</i></b>. qui pousse vigoureusement, TH. <i>C.P. 3, 24, 2</i>.<br><b>      2 <i>tr</i></b>. qui produit une végétation vigoureuse, TH. <i>C.P. 2, 3, 3</i>.<p><b>Étym</b>. εὖ, βλαστάνω.`

@@ -1,1 +1,0 @@
-lar[90911]=`<b>ή, όν</b> <font color="purple">[ῑτ]</font> préparé avec du jus de scille, DIOSC. <i>2, 202</i> ; ORIB. <i>31 Mai, etc</i>.<p><b>Étym</b>. σκιλλίτης.`

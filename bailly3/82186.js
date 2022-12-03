@@ -1,1 +1,0 @@
-lar[82186]=`<b>πολυοινέω-ῶ</b>, abonder en vin, HH. <i>Merc. 91 conj</i>.<p><b>Étym</b>. πολύοινος.`

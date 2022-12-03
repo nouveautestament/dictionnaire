@@ -1,1 +1,0 @@
-lar[66209]=`<b>ας (ἡ)</b> <font color="purple">[ῐκᾰ]</font> ressentiment, rancune, PLUT. <i>M. 860a</i>.<p><b>Étym</b>. μνησίκακος.`

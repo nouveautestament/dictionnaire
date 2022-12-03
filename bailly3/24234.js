@@ -1,1 +1,0 @@
-lar[24234]=`<b>δημο·βόρος, ος, ον</b>, qui dévore le peuple, qui s’engraisse aux dépens du peuple, IL. <i>1, 231 ; en parl. de Caligula,</i> PHIL. <i>2, 561</i>.<p><b>Étym</b>. δῆμος, βορ- <i>de</i> βιβρώσκω.`

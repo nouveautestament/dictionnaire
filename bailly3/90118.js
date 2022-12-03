@@ -1,1 +1,0 @@
-lar[90118]=`<i>adv</i>., en forme de sigma, ORIB. <i>p. 131 Mai</i>.<p><b>Étym</b>. σιγμοειδής.`

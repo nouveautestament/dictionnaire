@@ -1,1 +1,0 @@
-lar[106078]=`<b>φιλό·σκεπος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à être couvert <i>ou</i> abrité, TH. <i>C.P. 2, 7, 3</i>.<p><b>Étym</b>. φ. σκέπη.`

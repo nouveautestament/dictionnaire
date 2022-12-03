@@ -1,1 +1,0 @@
-lar[52765]=`<b>κατα·λοφάδεια</b> <i>ou</i> <b>κατα·λοφάδια</b> <font color="purple">[ᾰᾱᾰδ]</font> <i>adv</i>., sur le cou, sur la nuque, OD. <i>10, 169 (sel. d’autres,</i> καταλλοφάδεια ; <i>cf</i>. ἄλλοφον pour *ἄνλοφον <i>de</i> ἀνά, λόφον).<p><b>Étym</b>. κ. λόφος.`

@@ -1,1 +1,0 @@
-lar[72824]=`<b>ου (τὸ)</b> borne, limite, frontière, HPC. <i>1190f ; au pl</i>. THC. <i>2, 12</i> ; XÉN. <i>Cyr. 1, 4, 18, etc.</i> ; PLAT. <i>Leg. 842e, etc</i>.<p><b>Étym</b>. ὅρος.`

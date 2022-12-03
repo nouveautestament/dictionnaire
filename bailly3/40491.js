@@ -1,1 +1,0 @@
-lar[40491]=`<b>ἐρι·ουργός, ός, όν</b>, qui travaille la laine, DC. <i>79, 7</i>.<p><b>Étym</b>. ἔριον, ἔργον.`

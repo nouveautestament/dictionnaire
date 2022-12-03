@@ -1,1 +1,0 @@
-lar[65454]=`<b>ου (ὁ)</b> Mèniskos, <i>acteur tragique ; au plur</i>. Μηνίσκοι, PLUT. <i>Glor. Ath. 6,</i> des acteurs comme Mèniskos.<p><b>Étym</b>. <i>cf</i>. μηνίσκος.`

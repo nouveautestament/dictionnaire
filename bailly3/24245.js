@@ -1,1 +1,0 @@
-lar[24245]=`<b>δημό·θροος-ους, οος-ους, οον-ουν :<br>      1</b> que le peuple répète à grands cris, ESCHL. <i>Ag. 938, 1409, 1413</i>.<br><b>      2</b> accompagné des cris de la foule, tumultueux, ESCHL. <i>Ag. 883</i>.<p><b>Étym</b>. δ. θρέω.`

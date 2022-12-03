@@ -1,1 +1,0 @@
-lar[25671]=`<b>δια·σφετερίζομαι</b> (<i>inf. ao</i>. -ίσασθαι) s’approprier complètement, PHIL. <i>2, 130</i>.`

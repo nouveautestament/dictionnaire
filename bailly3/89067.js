@@ -1,1 +1,0 @@
-lar[89067]=`<b>έως (ὁ)</b> habitant de Sagalassos, <i>v. de Pisidie,</i> LUC. <i>H. conscr. 32</i>.`

@@ -1,1 +1,0 @@
-lar[90523]=`<b>σιτο·δόκος, ος, ον</b> <font color="purple">[ῑ]</font> qui reçoit <i>ou</i> contient du blé <i>ou</i> des aliments, ANTH. <i>6, 95</i>.<p><b>Étym</b>. σῖτος, δέκομαι.`

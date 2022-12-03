@@ -1,1 +1,0 @@
-lar[81978]=`<b>πολύ·κερως, ως, ων</b>, <i>gén</i>. <b>ω</b>, <i>dat</i>. <b>ῳ</b>, <i>acc</i>. <b>ων</b> <font color="purple">[ῠ]</font> de beaucoup de cornes ; φόνος, SOPH. <i>Aj. 55,</i> massacre d’une foule de bêtes à cornes.<p><b>Étym</b>. π. κέρας.`

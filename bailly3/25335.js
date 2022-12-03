@@ -1,1 +1,0 @@
-lar[25335]=`<b>εως (ἡ) :<br>      1</b> préparation laborieuse de, <i>gén</i>. PLUT. <i>M. 693d.</i><br><b>      2</b> travail opiniâtre, exercice pénible, CLÉM. <i>283</i>.`

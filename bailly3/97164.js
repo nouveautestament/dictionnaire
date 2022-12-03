@@ -1,1 +1,0 @@
-lar[97164]=`creuser en forme de tuyau, rainer, canneler, HÉRON <i>115b ;</i> ORIB. <i>p. 158, 168 Mai</i>.<p><b>Étym</b>. σωλήν.`

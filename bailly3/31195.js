@@ -1,1 +1,0 @@
-lar[31195]=`<b>ἐκ·διηγέομαι-οῦμαι</b>, raconter <i>ou</i> exposer en détail, JOS. <i>B.J. 5, 13, 7 ; A.J. 5, 8, 3</i> ; PHIL. <i>2, 89</i> ; GAL. <i>6, 58</i>.<p>➳ <i>Prés. 3 pl. ion</i>. ἐκδιηγεῦνται, ARÉT. <i>Caus. m. acut. p. 2. Impf. 3 pl</i>. ἐκδιηγοῦντο, PHIL. <i>l. c</i>.`

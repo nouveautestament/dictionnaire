@@ -1,1 +1,0 @@
-lar[52929]=`<b>κατα·νομιστεύω</b>, changer en or <i>ou</i> en argent monnayé, <i>acc</i>. JOS. <i>B.J. 1, 18, 4</i>.`

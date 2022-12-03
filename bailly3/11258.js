@@ -1,1 +1,0 @@
-lar[11258]=`<b>ἀπ·ανθρωπία, ας (ἡ) :<br>      1</b> misanthropie, LUC. <i>Tim. 44, Nigr. 21</i> ; JOS. <i>B.J. 2, 17, 3</i>.<br><b>      2</b> inhumanité, dureté, HPC. <i>26, 55 ; au plur</i>. HPC. <i>194g</i>.<p><b>Étym</b>. ἀπάνθρωπος.`

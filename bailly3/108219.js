@@ -1,1 +1,0 @@
-lar[108219]=`<b>Χελιδόνιαι νῆσοι (αἱ)</b> les î. des hirondelles, <i>n. de cinq petites îles sur la côte de Lycie,</i> DÉM. <i>19, 273 Baiter-Sauppe</i> ; PLUT. <i>Cim. 12, 13, etc</i>.<p><b>Étym</b>. <i>fém. de</i> χελιδόνιος.`

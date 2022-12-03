@@ -1,1 +1,0 @@
-lar[21097]=`faire le bouffon, le mauvais plaisant, AR. <i>Nub. 970 (ao. opt. 3 sg</i>. βωμολοχεύσαιτο) ; ISOCR. <i>149d</i> (<i>prés</i>.).<p><b>Étym</b>. βωμολόχος.`

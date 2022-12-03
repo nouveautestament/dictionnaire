@@ -1,1 +1,0 @@
-lar[78858]=`<b>περι·κωνέω-ῶ</b>, enduire de poix <i>ou</i> de cirage, <i>acc</i>. AR. <i>Vesp. 600</i>.<p><b>Étym</b>. π. κῶνος.`

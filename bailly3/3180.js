@@ -1,1 +1,0 @@
-lar[3180]=`<b>ἀ·κάτακτος, ος, ον</b>, qu’on ne peut briser, ARSTT. <i>Meteor. 4, 8, 5</i>.<p><b>Étym</b>. ἀ, κατάγνυμι.`

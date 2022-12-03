@@ -1,1 +1,0 @@
-lar[3426]=`<b>ἀκληρέω-ῶ</b>, n’avoir pas d’héritage, être pauvre <i>ou</i> malheureux, POL. <i>1, 7, 4, etc.</i> ; DS. <i>3, 13</i>.<p><b>Étym</b>. ἄκληρος.`

@@ -1,1 +1,0 @@
-lar[57131]=`<b>κορσο·ειδής, ής, ές</b>, semblable à une chevelure : τὸ κορσοειδές, PLIN. <i>H.N. 37, 56,</i> sorte de pierre précieuse.<p><b>Étym</b>. κόρση, εἶδος.`

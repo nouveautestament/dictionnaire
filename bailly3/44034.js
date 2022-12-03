@@ -1,1 +1,0 @@
-lar[44034]=`<b>ἐφ·ηλόω-ῶ</b>, clouer, ESCHL. <i>Suppl. 944</i>.<p><b>Étym</b>. ἐπί, ἡ.`

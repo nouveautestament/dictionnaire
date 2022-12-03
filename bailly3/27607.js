@@ -1,1 +1,0 @@
-lar[27607]=`<b>δορι·τίνακτος, ος, ον</b> <font color="purple">[ῐῐ]</font> ébranlé par les lances : δοριτίνακτα δ' αἰθὴρ ἐπιμαίνεται, ESCHL. <i>Sept. 155 dout</i>. l’air y répond par le sifflement furieux des lances qui l’ébranlent.<p><b>Étym</b>. δόρυ, τινάσσω.`

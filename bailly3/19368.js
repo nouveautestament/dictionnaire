@@ -1,1 +1,0 @@
-lar[19368]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰᾰ]</font> le tribunal vert, <i>à Athènes (cf</i>. φοινικιοῦν) PAUS. <i>1, 28, 8 ; cf</i>. βατραχειοῦς.`

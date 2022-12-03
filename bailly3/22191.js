@@ -1,1 +1,0 @@
-lar[22191]=`<b>γλυκύ·χυλος, ος, ον</b> <font color="purple">[ῠῠῡ]</font> qui donne un jus doux, HPC. <i>1278, 44</i> ; XÉNOCR. <i>Al. 24, 30 et 63</i>.<p><b>Étym</b>. γλ. χυλός.`

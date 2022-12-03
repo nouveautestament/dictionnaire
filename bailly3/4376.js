@@ -1,1 +1,0 @@
-lar[4376]=`<b>ῶν (οἱ)</b> les descendants d’Alètès, <i>càd</i>. les Corinthiens. CALL. <i>fr. 73</i>.<p><b>Étym</b>. Ἀλήτης.`

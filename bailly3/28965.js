@@ -1,1 +1,0 @@
-lar[28965]=`<b>δυσ·υπόστατος, ος, ον</b> <font color="purple">[ῠῠᾰ]</font> dont il est difficile de soutenir le choc, irrésistible, DS. <i>17, 11</i> ; PLUT. <i>Cor. 8</i>.<p><b>Étym</b>. δ. ὑφίστημι.`

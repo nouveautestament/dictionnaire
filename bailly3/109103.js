@@ -1,1 +1,0 @@
-lar[109103]=`<b>χρυσ·ένδετος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> plaqué d’or, PHILÉM. (POLL. <i>10, 145</i>).<br><b>      2</b> enchâssé dans l’or, PLUT. <i>Luc. 3</i>.<p><b>Étym</b>. χρ. ἐνδέω.`

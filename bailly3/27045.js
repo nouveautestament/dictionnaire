@@ -1,1 +1,0 @@
-lar[27045]=`<b>δισσο·γονέω-ῶ</b>, enfanter doublement <i>ou</i> de deux manières (être à la fois vivipare et ovipare) ARSTT. <i>G.A. 1, 11, 4</i>.<p><b>Étym</b>. δισσός, -γονός.`

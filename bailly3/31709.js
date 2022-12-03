@@ -1,1 +1,0 @@
-lar[31709]=`<b>ἐκ·νευρίζω</b>, couper les nerfs, énerver, PLUT. <i>M. 451d ; au pass</i>. ἐκνενευρισμένος, DÉM. <i>37, 3,</i> qui n’a plus de nerf, énervé, brisé.<p><b>Étym</b>. ἐκ, νεῦρον.`

@@ -1,1 +1,0 @@
-lar[105146]=`<b>φερέ·πολις, ιος (ὁ, ἡ)</b> qui soutient <i>ou</i> conserve la cité, PD. <i>fr. 14</i>.<p><b>Étym</b>. φ. πόλις.`

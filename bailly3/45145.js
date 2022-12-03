@@ -1,1 +1,0 @@
-lar[45145]=`<b>η, ον</b>, très lent, le plus lent : ἐλαυνέμεν, IL. <i>23, 531,</i> à conduire un char.<p><b>Étym</b>. ἦκα.`

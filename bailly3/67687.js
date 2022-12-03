@@ -1,1 +1,0 @@
-lar[67687]=`<b>ίδος</b> <font color="purple">[ᾰᾰῐδ]</font>, <i>adj. f. de</i> Νασαμῶνες ANTH. <i>7, 626</i>.`

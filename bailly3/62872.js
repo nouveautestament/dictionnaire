@@ -1,1 +1,0 @@
-lar[62872]=`<b>ου (ὁ)</b> Marathos, <i>h</i>. PLUT. <i>Thes. 32</i>.`

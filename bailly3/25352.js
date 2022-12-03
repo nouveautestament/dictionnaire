@@ -1,1 +1,0 @@
-lar[25352]=`<b>δια·πόρφυρος, ος, ον</b> <font color="purple">[ῠ]</font> mêlé de pourpre, DIOSC. <i>1, 10</i>.<p><b>Étym</b>. διά, πορφύρα.`

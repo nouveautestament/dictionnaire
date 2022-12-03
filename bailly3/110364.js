@@ -1,1 +1,0 @@
-lar[110364]=`<b>ᾠο·τόκος, ος, ον</b>, qui pond, ovipare, ARSTT. <i>G.A. 1, 11, 4, etc.</i> ; ANTH. <i>9, 286 ; en parl. de poissons,</i> ARSTT. <i>H.A. 5, 1, 4, etc. ; de serpents,</i> NIC. <i>Th. 36</i> ; τὰ ᾠοτόκα, ARSTT. <i>H.A. 1, 5, 1,</i> les animaux ovipares.<p><b>Étym</b>. ᾠόν, τίκτω.`

@@ -1,1 +1,0 @@
-lar[84220]=`<b>προ·επαγγέλλω :<br>      1</b> annoncer auparavant, DC. <i>38, 13 ; 40, 32</i>.<br><b>      2</b> briguer auparavant, DC. <i>39, 31</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 1, DC. <i>42, 32 ; 46, 40</i>.`

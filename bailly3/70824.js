@@ -1,1 +1,0 @@
-lar[70824]=`<b>ίδος (ἡ)</b> période de huit années, PLUT. <i>M. 892c</i>.<p><b>Étym</b>. ὀκταέτης.`

@@ -1,1 +1,0 @@
-lar[49518]=`<font color="purple">[ῑ̆]</font> (<i>seul. prés</i>.) être semblable à, <i>dat</i>. NIC. <i>Al. 399</i> ; ARAT. <i>235, 513</i>.<p><b>Étym</b>. ἴσος.`

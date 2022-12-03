@@ -1,1 +1,0 @@
-lar[21073]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite motte de terre, STR. <i>777</i> ; M. ANT. <i>4, 15 ; 6, 36 ; 12, 32</i>.<p><b>Étym</b>. βῶλος.`

@@ -1,1 +1,0 @@
-lar[20977]=`<b>άδος</b>, <i>adj. f</i>. de Byblos, <i>en Phénicie, ép. d’Artémis,</i> NONN. <i>D. 29, 344 ; dat. pl</i>. -ιάδεσσιν, NONN. <i>D. 3, 108</i>.<p><b>Étym</b>. βίβλος 1.`

@@ -1,1 +1,0 @@
-lar[79684]=`<b>περι·χρίω</b> <font color="purple">[χρῑ]</font><br><b>      1</b> enduire tout autour, <i>acc</i>. LUC. <i>Luct. 21</i> ; CLÉM. <i>800</i>.<br><b>      2</b> appliquer comme enduit, <i>acc</i>. JOS. <i>A.J. 7, 14, 5</i>.`

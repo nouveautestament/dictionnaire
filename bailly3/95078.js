@@ -1,1 +1,0 @@
-lar[95078]=`<b>σύν·δηλος, ος, ον</b>, tout à fait évident, ARSTT. <i>Poet. 7, 12</i> ; PLUT. <i>Pyrrh. 34</i>.<p><b>Étym</b>. σ. δῆλος.`

@@ -1,1 +1,0 @@
-lar[17036]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> travaillé à la mode attique, MÉN. <i>(Bkk. 461, 30).</i><p><b>Étym</b>. ἀττικός, ἔργον.`

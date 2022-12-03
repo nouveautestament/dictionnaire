@@ -1,1 +1,0 @@
-lar[17215]=`<b>αὐλο·θετέω-ῶ</b> (<i>seul. prés</i>.) fabriquer des aulos, ANTH. <i>6, 120</i>.<p><b>Étym</b>. αὐλός, θετός.`

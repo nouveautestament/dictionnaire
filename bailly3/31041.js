@@ -1,1 +1,0 @@
-lar[31041]=`<b>ἑκατοντά·πλεθρος, ος, ον</b> <font color="purple">[κᾰ]</font> de cent arpents, JUL. <i>Ep. 24</i>.<p><b>Étym</b>. ἑ. πλέθρον.`

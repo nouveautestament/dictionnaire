@@ -1,1 +1,0 @@
-lar[47846]=`<b>η, ον :<br>      1</b> de thuia <i>ou</i> de citrus, STR. <i>202</i> ; DIOSC. <i>1, 21</i>.<br><b>      2</b> fait de thuia <i>ou</i> de citrus, CALLIX. (ATH. <i>305b</i>).<p><b>Étym</b>. θυία.`

@@ -1,1 +1,0 @@
-lar[103937]=`<b>ὑπο·συρίττω</b> (<i>seul. prés. et impf</i>.) <font color="purple">[σῡ]</font> <i>c</i>. ὑποσυρίζω ARISTÉN. <i>2, 4</i>.`

@@ -1,1 +1,0 @@
-lar[67282]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> odorant, AÉT. <i>1, p. 9b, 89</i>.<p><b>Étym</b>. μυρίζω.`

@@ -1,1 +1,0 @@
-lar[17838]=`<b>ἀφ·άβρωμα, ατος (τὸ)</b> vêtement de femme, <i>à Mégare,</i> PLUT. <i>M. 295a</i> (ἀπό, ἅβρωμα, <i>m. sign</i>. HSCH. ; <i>v</i>. ἁβρός).`

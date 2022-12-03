@@ -1,1 +1,0 @@
-lar[90834]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne un décor de peinture, STR. <i>236</i>.<br><b>      2</b> <i>fig</i>. qui se déroule en décor de peinture, HLD. <i>7, 7</i>.<p><b>Étym</b>. σκηνογράφος.`

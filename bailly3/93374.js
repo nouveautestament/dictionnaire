@@ -1,1 +1,0 @@
-lar[93374]=`<b>συγ·κατασχηματίζω</b> <font color="purple">[μᾰ]</font> donner une même forme, <i>d’où au pass</i>. être conforme, se conformer à, <i>dat</i>. PLUT. <i>M. 442</i>.`

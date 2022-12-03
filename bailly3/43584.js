@@ -1,1 +1,0 @@
-lar[43584]=`<b>Εὐ·τέρπη, ης (ἡ)</b> Euterpè (Euterpe) :<br><b>      1</b> <i>Muse de la danse,</i> HÉS. <i>Th. 77, etc.</i><br><b>      2</b> <i>mère de Thémistocle,</i> PHÆNIAS (PLUT. <i>Them. 1</i>).<br><b>      3</b> <i>autre,</i> ANTH. <i>7, 457</i>.<p><b>Étym</b>. <i>cf</i>. εὐτερπής.`

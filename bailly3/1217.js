@@ -1,1 +1,0 @@
-lar[1217]=`<b>ἀ·δεκάτευτος, ος, ον</b> <font color="purple">[κᾰ]</font> qui ne paye pas la dîme, AR. <i>Eq. 301</i>.<p><b>Étym</b>. ἀ, δεκατεύω.`

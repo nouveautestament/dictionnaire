@@ -1,1 +1,0 @@
-lar[46592]=`<i>adv</i>., justement, ESCHL. <i>Ch. 645</i>.<p><b>Étym</b>. θεμιστός.`

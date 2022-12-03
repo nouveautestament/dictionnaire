@@ -1,1 +1,0 @@
-lar[97537]=`<i>crase p</i>. τὰ ἐντός, PLAT. <i>Tim. 79d</i>.`

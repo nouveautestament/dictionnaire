@@ -1,1 +1,0 @@
-lar[39195]=`<b>ἐπι·στυγνάζω</b> (<i>seul. prés</i>.) s’attrister <i>ou</i> s’indigner de, <i>dat</i>. BAS. <i>1, 485 ; 3, 225, 257</i> ; NAZ. <i>1, 941, Migne</i>.`

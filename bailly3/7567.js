@@ -1,1 +1,0 @@
-lar[7567]=`<b>ἀνα·ρροθιάζω</b>, heurter de ses vagues, <i>en parl. de la mer,</i> EUP. (POLL. <i>2, 89 conj</i>.).<p><b>Étym</b>. ἀνά, ῥοθιάζω.`

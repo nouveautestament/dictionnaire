@@ -1,1 +1,0 @@
-lar[38445]=`<b>ἐπι·μήχανος, ος, ον</b> <font color="purple">[ᾰ]</font> inventeur de, artisan de, ORACL. (HDT. <i>6, 19).</i><p><b>Étym</b>. ἐπί, μηχανή.`

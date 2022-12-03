@@ -1,1 +1,0 @@
-lar[47741]=`<b>θρομβόω-ῶ</b>, faire coaguler, <i>d’où au pass</i>. se coaguler, <i>en parl. du sang,</i> NIC. <i>Al. 315</i> ; GAL. <i>14, 22</i>.<p><b>Étym</b>. θρόμβος.`

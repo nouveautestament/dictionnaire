@@ -1,1 +1,0 @@
-lar[3078]=`<b>ἀ·καλλώπιστος, ος, ον</b>, sans parure, sans coquetterie, PLUT. <i>M. 397a ;</i> LUC. <i>Pisc. 12</i>.<p><b>Étym</b>. ἀ, καλλωπίζω.`

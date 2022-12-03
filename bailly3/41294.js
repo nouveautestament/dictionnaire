@@ -1,1 +1,0 @@
-lar[41294]=`<b>ἑτερό·γλωσσος</b>, <i>att</i>. <b>-ωττος, ος, ον</b>, qui parle une autre langue, POL. <i>24, 9, 5</i> ; STR. <i>333</i> ; NT. <i>1Cor. 14, 21</i>.<p><b>Étym</b>. ἕ. γλῶσσα.`

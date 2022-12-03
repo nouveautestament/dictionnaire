@@ -1,1 +1,0 @@
-lar[102007]=`<b>ὑπ·αριθμέω-ῶ</b> <font color="purple">[ῠᾰ]</font> compter à la suite <i>ou</i> en outre, NAZ.`

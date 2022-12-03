@@ -1,1 +1,0 @@
-lar[74095]=`<b>οῦ</b> <font color="purple">[ᾰ]</font> (ὁ) gelée, glace, PD. <i>fr. 74, 10</i> ; HPC. <i>Aër. 283</i> ; XÉN. <i>Cyn. 5, 1</i>.<p><b>Étym</b>. πήγνυμι.`

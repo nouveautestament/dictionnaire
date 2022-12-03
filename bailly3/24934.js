@@ -1,1 +1,0 @@
-lar[24934]=`<b>δια·λεπτουργέω-ῶ</b> (<i>seul. prés</i>.) traiter minutieusement de, <i>acc</i>. NYSS. <i>2, 351c</i>.`

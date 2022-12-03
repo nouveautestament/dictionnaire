@@ -1,1 +1,0 @@
-lar[67824]=`<b>ας (ἡ)</b> mal de mer, <i>d’où</i> nausée, envie de vomir, PLUT. <i>M. 504b, etc. ; au plur</i>. ARSTT. <i>P.A. 3, 3 ; fig</i>. SIM. AM. <i>Iamb. fr. 7, 54 Bgk</i>.<p>➳ <i>Ion</i>. -ίη, ARÉT. <i>p. 1, 16, etc</i>.<p><b>Étym</b>. ναύτης.`

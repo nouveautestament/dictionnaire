@@ -1,1 +1,0 @@
-lar[80838]=`vendre le plus cher possible, surfaire, LYS. <i>fr. 4</i> ; PLAT. COM. <i>2-2, 619 Mein.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. NÉMÉS. <i>N.H. p. 107</i>.<p><b>Étym</b>. πλειστήρης.`

@@ -1,1 +1,0 @@
-lar[23755]=`<b>ου (ὁ)</b> = <i>lat</i>. Dĕcĭmus, <i>n. romain,</i> PLUT. <i>Cæs. 64</i> ; ANTH. <i>App. 388 ; etc. ; cf</i>. Δέκμος.`

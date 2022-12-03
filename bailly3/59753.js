@@ -1,1 +1,0 @@
-lar[59753]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> ver luisant, ARSTT. <i>P.A. 1, 3, 3</i>.<p><b>Étym</b>. λάμπω.`

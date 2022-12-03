@@ -1,1 +1,0 @@
-lar[60302]=`<b>λεξι·θηρία, ας (ἡ)</b> <font color="purple">[ξῐ]</font> poursuite des mots rares, CLÉM. <i>Pæd. p. 125</i>.<p><b>Étym</b>. λ. θήρα.`

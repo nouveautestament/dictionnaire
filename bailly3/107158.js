@@ -1,1 +1,0 @@
-lar[107158]=`<b>ας (ἡ)</b> chute <i>ou</i> perte des feuilles, TH. <i>C.P. 2, 19, 2</i>.<p><b>Étym</b>. φυλλόρροος.`

@@ -1,1 +1,0 @@
-lar[2954]=`<font color="darkgreen">(<i>seul. prés. et impf</i>. ᾐτιαζόμην)</font> être accusé de, <i>acc</i>. XÉN. <i>Hell. 1, 6, 5 et 12 ; gén</i>. DC. <i>38, 10</i>.<p><b>Étym</b>. αἰτία.`

@@ -1,1 +1,0 @@
-lar[23239]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> tapis, XÉN. <i>8, 8, 16</i> ; AR. <i>Pl. 528</i> ; COM. <i>etc</i>.`

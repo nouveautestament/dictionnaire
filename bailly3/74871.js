@@ -1,1 +1,0 @@
-lar[74871]=`<b>παν·απενθής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> tout à fait exempt de chagrin, A. PL. <i>265 dout</i>.<p><b>Étym</b>. π. ἀπενθής.`

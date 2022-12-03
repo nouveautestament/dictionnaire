@@ -1,1 +1,0 @@
-lar[39627]=`<b>ἐπι·φυλλό·καρπος, ος, ον</b>, dont les fruits portent sur les feuilles, TH. <i>H.P. 1, 10, 8</i>.<p><b>Étym</b>. ἐπί, φύλλον, καρπός.`

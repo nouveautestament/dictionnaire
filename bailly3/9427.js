@@ -1,1 +1,0 @@
-lar[9427]=`<b>ἀντ·αλαλάζω</b> <font color="purple">[ᾰλᾰλ]</font> répondre par un cri <i>ou</i> par des cris, <i>en parl. d’armées,</i> PLUT. <i>Pyrrh. 32 ; en parl. de l’écho,</i> ESCHL. <i>Pers. 390</i>.`

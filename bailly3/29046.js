@@ -1,1 +1,0 @@
-lar[29046]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> propre à inspirer de la confusion, à troubler, à émouvoir, BAS. <i>2, 342</i> ; ORIG. <i>1, 396e, etc</i>.<p><b>Étym</b>. δυσωπέω.`

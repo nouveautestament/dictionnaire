@@ -1,1 +1,0 @@
-lar[108473]=`<b>ίδος (ἡ)</b> chevreau, ALCIPHR. <i>fr. 6, 10</i>.`

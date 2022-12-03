@@ -1,1 +1,0 @@
-lar[76420]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> paraphrase, QUINT. <i>1, 9, 2</i>.<p><b>Étym</b>. παραφράζω.`

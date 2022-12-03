@@ -1,1 +1,0 @@
-lar[42871]=`<b>ας (ἡ)</b> bonté naturelle, EUR. <i>Hipp. 1039, Bacch. 641</i>.<p><b>Étym</b>. εὐόργητος.`

@@ -1,1 +1,0 @@
-lar[60479]=`faire la débauche comme les Lesbiennes, AR. <i>Ran. 1308</i> ; LUC. <i>Pseud. 28</i>.<p><b>Étym</b>. Λέσβιος.`

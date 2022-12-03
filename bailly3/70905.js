@@ -1,1 +1,0 @@
-lar[70905]=`<b>ὀλβιό·δωρος, ος, ον</b>, qui donne le bonheur, EUR. <i>Hipp. 750</i> ; ANTH. <i>11, 60</i>.<p><b>Étym</b>. ὄ. δῶρον.`

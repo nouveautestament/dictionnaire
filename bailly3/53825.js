@@ -1,1 +1,0 @@
-lar[53825]=`<b>κατ·εθίζω</b> <font color="darkgreen">(<i>ao</i>. κατείθισα)</font> rendre habituel, POL. <i>4, 21, 3</i>.`

@@ -1,1 +1,0 @@
-lar[9676]=`<b>ἀντ·επιτρέχω</b>, courir à son tour contre, PHIL. <i>2, 354</i>.`

@@ -1,1 +1,0 @@
-lar[95974]=`<b>συνθρηνέω-ῶ</b>, se lamenter ensemble, DC. <i>fr. 18 ; 10</i> ; BAS. <i>3, 257</i> ; NAZ. <i>1, 745</i>.<p><b>Étym</b>. σύνθρηνος.`

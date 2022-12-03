@@ -1,1 +1,0 @@
-lar[88860]=`(<i>seul. prés</i>.) avoir un flux de ventre, HLD. <i>2, 19</i>.<p><b>Étym</b>. ῥέω.`

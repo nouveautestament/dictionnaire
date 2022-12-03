@@ -1,1 +1,0 @@
-lar[103830]=`<b>ατος (τὸ)</b> chute produite par un croc-en-jambe, chute, SPT. <i>Prov. 24, 17</i>.<p><b>Étym</b>. ὑποσκελίζω.`

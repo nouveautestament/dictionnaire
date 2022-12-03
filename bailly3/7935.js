@@ -1,1 +1,0 @@
-lar[7935]=`<b>ἀν·αχύρωτος, ος, ον</b> <font color="purple">[ᾰχῠ]</font> non garni de paille, AR. <i>fr. 152</i>.<p><b>Étym</b>. ἀν-, ἀχυρόω.`

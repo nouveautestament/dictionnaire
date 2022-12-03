@@ -1,1 +1,0 @@
-lar[70813]=`<b>ίδος</b>, <i>adj. f</i>. âpre, raboteux, ESCHL. <i>Pr. 1016</i>.<p><b>Étym</b>. <i>cf</i>. ὄκρις.`

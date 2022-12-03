@@ -1,1 +1,0 @@
-lar[27587]=`<b>δορι·κανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> tué par la lance, ESCHL. <i>Suppl. 987, conj</i>.<p><b>Étym</b>. δόρυ, καίνω.`

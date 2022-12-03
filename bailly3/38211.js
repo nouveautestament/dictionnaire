@@ -1,1 +1,0 @@
-lar[38211]=`<b>ατος (τὸ)</b> nouveau fœtus pendant une grossesse, HPC. <i>260, 10</i> ; ARSTT. <i>G.A. 4, 5, 2</i>.<p><b>Étym</b>. ἐπικυέω.`

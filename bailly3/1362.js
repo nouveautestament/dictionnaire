@@ -1,1 +1,0 @@
-lar[1362]=`<i>adv</i>., sans interruption, CHRYS. <i>2, 516</i>.`

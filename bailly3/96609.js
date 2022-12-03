@@ -1,1 +1,0 @@
-lar[96609]=`<b>συ·σκοπέω-ῶ</b> (<i>seul. prés. et impf</i>.) considérer ensemble <i>ou</i> en même temps, PLAT. <i>Phæd. 89a, Lach. 197e</i>.`

@@ -1,1 +1,0 @@
-lar[19289]=`<b>(ἡ)</b> <font color="purple">[ᾰῐ]</font> Basilô, <i>f</i>. CALL. <i>Ep. 21</i> (ANTH. <i>7, 517</i>).`

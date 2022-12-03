@@ -1,1 +1,0 @@
-lar[34645]=`<b>ἐν·ιππάζομαι</b>, aller à cheval dans, ARR. <i>An. 2, 6, 4</i> ; PLUT. <i>Mar. 25</i>.`

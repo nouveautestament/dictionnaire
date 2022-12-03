@@ -1,1 +1,0 @@
-lar[108126]=`<b>χειρό·γραφος, ος, ον</b> <font color="purple">[ᾰ]</font> écrit à la main : τὸ χειρόγραφον, manuscrit, POL. <i>30, 8, 4</i> ; DH. <i>5, 8 ; particul</i>. obligation <i>ou</i> caution par écrit, PLUT. <i>M. 859a</i>.<p><b>Étym</b>. χ. γράφω.`

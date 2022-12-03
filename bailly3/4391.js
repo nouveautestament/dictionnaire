@@ -1,1 +1,0 @@
-lar[4391]=`<b>*ἀλθέσσω</b> (<i>seul. fut</i>. ἀλθέξομαι) guérir, ARÉT. <i>Caus. m. diut. 2, 8</i>.<p><b>Étym</b>. ἄλθομαι.`

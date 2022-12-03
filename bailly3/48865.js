@@ -1,1 +1,0 @@
-lar[48865]=`<font color="purple">[ῐ]</font> <i>(seul. prés.) épq. c</i>. ἱλάσκομαι, IL. <i>2, 550</i> ; A.RH. <i>2, 847</i>.`

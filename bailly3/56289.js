@@ -1,1 +1,0 @@
-lar[56289]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> de Cnide : οἱ Kvίδιοι, HDT. <i>1, 174 ; 3, 138,</i> les habitants de Cnide ; ἡ Κνιδίη χώρη, HDT. <i>1, 174, ou abs</i>. ἡ Κνιδίη, CALL. <i>H. 6, 25,</i> le territoire de Cnide ; ἡ Κνιδία, LUC. <i>Am. 11,</i> la déesse de Cnide (Aphrodite).<p><b>Étym</b>. Κνίδος.`

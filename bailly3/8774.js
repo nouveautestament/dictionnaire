@@ -1,1 +1,0 @@
-lar[8774]=`<b>ου</b> <font color="purple">[ῐ]</font> le fils d’Anthémiôn, IL. <i>4, 488</i>.<p><b>Étym</b>. Ἀνθεμίων.`

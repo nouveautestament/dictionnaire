@@ -1,1 +1,0 @@
-lar[12570]=`<b>ἀπο·κιρσόομαι-οῦμαι</b>, se dilater en forme de varice, P. ÉG. <i>272 Briau</i> ; GAL. <i>7, 409, 410</i> ; ARCHIG. (GAL. <i>7, 413</i>).`

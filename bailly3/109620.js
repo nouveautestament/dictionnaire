@@ -1,1 +1,0 @@
-lar[109620]=`<b>ητος (ἡ)</b> défaut de celui qui prononce mal certains sons (<i>différ. de</i> τραυλότης, bégaiement), ARSTT. <i>Probl. 11, 30</i> ; PLUT. <i>M. 963c, etc</i>.<p><b>Étym</b>. ψελλός.`

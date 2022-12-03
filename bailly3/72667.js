@@ -1,1 +1,0 @@
-lar[72667]=`<b>Ὀρθ·αγόρας, ου (ὁ)</b> <font color="purple">[ᾰγ]</font> Orthagoras, <i>h</i>. PLAT. <i>Prot. 318c ;</i> ARSTT. <i>Pol. 5, 12, etc</i>.<p><b>Étym</b>. ὀρθός, ἀγορεύω.`

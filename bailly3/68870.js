@@ -1,1 +1,0 @@
-lar[68870]=`<b>ή, όν :<br>      1</b> <i>pass</i>. qu’on peut percevoir par l’intelligence, intellectuel, PLAT. <i>Tim. 37a, Rsp. 509d ;</i> PLUT. <i>M. 765a, 948c.</i><br><b>      2</b> <i>act</i>. doué d’intelligence, ORACL. (LYD. <i>de Mens. 81, 8).</i><p><b>Étym</b>. νοέω.`

@@ -1,1 +1,0 @@
-lar[360]=`<font color="purple">[ᾰᾰ]</font> <i>vb. de</i> ἀγαπάω, PLAT. <i>Rsp. 358a</i>.`

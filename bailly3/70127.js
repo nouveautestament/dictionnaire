@@ -1,1 +1,0 @@
-lar[70127]=`<b>ὀδοντ·άγρα, ας (ἡ)</b> davier (<i>propr</i>. arrache-dents) <i>instr. de dentiste,</i> ARSTT. <i>Mech. 21</i> ; PLUT. <i>M. 468c</i>.<p>➳ <i>Ion</i>. ὀδοντάγρη, HPC. <i>p. 21, 19</i>.<p><b>Étym</b>. ὀδούς, ἄγρα.`

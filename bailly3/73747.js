@@ -1,1 +1,0 @@
-lar[73747]=`<b>εως (ἡ)</b> action d’appeler à l’existence, BAS. <i>1, 340 ; 4, 264</i> ; CHRYS. <i>10, 36 Migne</i>.<p><b>Étym</b>. οὐσιόω.`

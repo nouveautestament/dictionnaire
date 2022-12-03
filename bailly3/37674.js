@@ -1,1 +1,0 @@
-lar[37674]=`<b>ἐπι·δουλεύω</b>, être toujours esclave, JUL. <i>409a</i>.`

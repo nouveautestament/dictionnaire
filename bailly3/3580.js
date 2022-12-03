@@ -1,1 +1,0 @@
-lar[3580]=`<b>ος, ον</b>, insatiable, infatigable, PD. <i>P. 4, 360</i>.<p><b>Étym</b>. ἀ, κόρος.`

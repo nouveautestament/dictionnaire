@@ -1,1 +1,0 @@
-lar[109354]=`<b>χυλο·ειδής, ής, ές</b> <font color="purple">[ῡ]</font> semblable à du suc, SEXT. <i>M. 7, 119</i>.<p><b>Étym</b>. χυλός, εἶδος.`

@@ -1,1 +1,0 @@
-lar[61819]=`<b>ίδος</b> <font color="purple">[ῠᾰῐδ]</font> <i>adj. f</i>. annuel, ANTH. <i>5, 13</i>.<p><b>Étym</b>. λυκάβας.`

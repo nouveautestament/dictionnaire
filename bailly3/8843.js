@@ -1,1 +1,0 @@
-lar[8843]=`<b>ου (τὸ)</b> petite fleur, DIOSC. <i>4, 153</i>.<p><b>Étym</b>. ἄνθος.`

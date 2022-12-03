@@ -1,1 +1,0 @@
-lar[38828]=`<b>ἐπι·πρωϊαίτερον</b>, <i>adv</i>., encore plus tôt, HPC. <i>998c dout</i>.`

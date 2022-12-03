@@ -1,1 +1,0 @@
-lar[12417]=`<b>ἀπο·θλίβω :<br>      1</b> faire sortir en pressant, exprimer, ARSTT. <i>H.A. 7, 10, etc.</i> ; LUC. <i>V.H. 2, 3 ; en parl. de raisin qu’on presse,</i> DS. <i>3, 62 ; p. suite,</i> expulser de, <i>gén</i>. LUC. <i>J. voc. 2</i>.<br><b>      2</b> serrer fortement, DIPH. (ATH. <i>292c</i>) ; SPT. <i>Num. 22, 25</i> ; NT. <i>Luc. 8, 45</i>.`

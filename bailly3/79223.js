@@ -1,1 +1,0 @@
-lar[79223]=`<b>περι·ρρομβέω-ῶ</b>, faire tournoyer, PLUT. <i>Ant. 67</i>.<p><b>Étym</b>. π. ῥομβέω.`

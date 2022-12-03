@@ -1,1 +1,0 @@
-lar[46666]=`<b>ων (τὰ)</b> fêtes de Dionysos, à Athènes, DÉM. <i>1371, 24</i> ; LYCURG. (Harp.).<p><b>Étym</b>. θέοινος.`

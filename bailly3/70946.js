@@ -1,1 +1,0 @@
-lar[70946]=`<b>ὀλεσί·μβροτος, ος, ον</b>, funeste aux mortels, ORPH. <i>Lith. 444</i>.<p><b>Étym</b>. ὄλλυμι, βροτός.`

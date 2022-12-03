@@ -1,1 +1,0 @@
-lar[24626]=`<b>ή, όν</b>, qui consiste à soutenir la vie, PROCL. <i>Plat. Parm. p. 576 Stallb</i>.`

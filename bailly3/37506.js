@@ -1,1 +1,0 @@
-lar[37506]=`<b>ου (ὁ)</b> Épidamnos (Épidamne) <i>v. d’Illyrie,</i> THC. <i>1, 24, etc</i>.`

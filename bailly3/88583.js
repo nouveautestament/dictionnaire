@@ -1,1 +1,0 @@
-lar[88583]=`<b>(ἡ)</b> <i>forme postér. c</i>. ῥίς, ARÉT. <i>Cur. m. acut. 1, 2</i> ; JAMBL. <i>Protr. p. 374</i>.`

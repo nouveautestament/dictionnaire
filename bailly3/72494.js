@@ -1,1 +1,0 @@
-lar[72494]=`<b>ὁπωσ·δή</b>, <i>adv</i>., de qqe manière que ce soit, d’une manière quelconque, PLAT. <i>Hipparch. 232b</i>.<p><b>Étym</b>. ὅπως, δή.`

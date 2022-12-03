@@ -1,1 +1,0 @@
-lar[86883]=`<b>προ·ϋπόκειμαι :<br>      1</b> servir auparavant de fondement, LGN <i>1, 8</i> ; τί τινι, PLUT. <i>M. 678f</i>, en qqe ch. à qqe ch.<br><b>      2</b> préexister, SEXT. <i>P. 3, 94</i>.<br><b>      3</b> être hypothéqué auparavant, PLUT. <i>Sol. 15</i>.`

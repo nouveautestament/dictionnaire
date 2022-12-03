@@ -1,1 +1,0 @@
-lar[100476]=`<b>τρισμυριο·πλασίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡᾰ]</font> 30 000 fois aussi grand, ARCHIM. <i>Aren. 285, p. 519c</i>.<p><b>Étym</b>. τρ. -πλασίων.`

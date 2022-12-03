@@ -1,1 +1,0 @@
-lar[39528]=`<b>ἐπι·τρωπάω-ῶ</b>, <i>c</i>. ἐπιτρέπω :<br><b>      1</b> confier, remettre, OPP. <i>H. 2, 223 ; 5, 188</i>.<br><b>      2</b> commander : τινι <i>avec l’inf</i>. A.RH. <i>1, 351,</i> commander à qqn de, <i>etc</i>.`

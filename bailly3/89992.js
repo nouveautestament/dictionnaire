@@ -1,1 +1,0 @@
-lar[89992]=`<b>σηραγγόω-ῶ</b>, creuser, <i>d’où au pass</i>. se creuser, HLD. <i>1, 28</i> ; DIOSC. <i>5, 138</i>.<p><b>Étym</b>. σῆραγξ.`

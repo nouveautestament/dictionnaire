@@ -1,1 +1,0 @@
-lar[93212]=`<b>συγ·γογγυλίζω</b>, <i>anc. att</i>. <b>ξυγ·γογγυλίζω</b> <font color="purple">[ῠ]</font> arrondir ensemble, AR. <i>Th. 61 ; Lys. 975</i>.`

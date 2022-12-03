@@ -1,1 +1,0 @@
-lar[32484]=`<b>ἐλαιο·χριστία, ας (ἡ)</b> onction avec de l’huile, DL. <i>5, 71 conj. p</i>. -χρηστία.<p><b>Étym</b>. ἔ. χριστός.`

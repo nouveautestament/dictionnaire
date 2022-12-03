@@ -1,1 +1,0 @@
-lar[96321]=`<b>εως (ἡ)</b> rencontre, <i>d’où</i> entretien, M. ANT. <i>3, 11</i>.<p><b>Étym</b>. συντεύξομαι, <i>fut. de</i> συντυγχάνω.`

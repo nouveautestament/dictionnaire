@@ -1,1 +1,0 @@
-lar[28172]=`<b>δυσ·ανάκρατος, ος, ον</b> <font color="purple">[ῠᾰνρᾱ]</font> qui se mêle difficilement, PLUT. <i>M. 1024d, 1032b</i>.<p><b>Étym</b>. δ. ἀνακεράννυμι.`

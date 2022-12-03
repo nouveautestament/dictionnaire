@@ -1,1 +1,0 @@
-lar[10102]=`<b>εως (ἡ)</b> <font color="purple">[μῑ]</font> contrefaçon, THC. <i>7, 67</i>.<p><b>Étym</b>. ἀντιμιμέομαι.`

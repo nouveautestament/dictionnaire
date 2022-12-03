@@ -1,1 +1,0 @@
-lar[45720]=`<b>ἡπατοσκοπέω-ῶ</b> <font color="purple">[ᾰ]</font> examiner le foie d’une victime, SPT. <i>Ezech. 21, 21</i>.<p><b>Étym</b>. ἡπατοσκόπος.`

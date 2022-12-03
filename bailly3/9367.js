@@ -1,1 +1,0 @@
-lar[9367]=`<i>adv</i>., en soulevant, SEXT. <i>M. 10, 83</i>.<p><b>Étym</b>. ἀνοχλέω.`

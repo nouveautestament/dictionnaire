@@ -1,1 +1,0 @@
-lar[25748]=`<b>διά·τομος, ος, ον</b>, coupé en deux, séparé par le milieu, M. CAP.`

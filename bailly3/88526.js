@@ -1,1 +1,0 @@
-lar[88526]=`<b>Ῥιγό·μαχος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Rhigomakhos, <i>h</i>. ALCIPHR. <i>3, 65</i>.<p><b>Étym</b>. <i>cf</i>. ῥιγομάχης.`

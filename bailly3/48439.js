@@ -1,1 +1,0 @@
-lar[48439]=`<b>ας (ἡ)</b> <font color="purple">[ῐδ]</font> façon d’être particulière, CLÉOM. <i>2, p. 104</i>.<p><b>Étym</b>. ἰδιότροπος.`

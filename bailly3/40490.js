@@ -1,1 +1,0 @@
-lar[40490]=`<b>ἐριουργέω-ῶ</b>, travailler la laine, XÉN. <i>Hell. 5, 4, 7 ; Lac. 1, 3</i> ; DC. <i>79, 14</i>.<p><b>Étym</b>. ἐριουργός.`

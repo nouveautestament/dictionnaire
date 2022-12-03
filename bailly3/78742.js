@@ -1,1 +1,0 @@
-lar[78742]=`<b>*περικαῶς</b>, <i>adv</i>., ardemment, PLUT. <i>Ages. 11</i>.<p><b>Étym</b>. περικαής.`

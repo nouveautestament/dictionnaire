@@ -1,1 +1,0 @@
-lar[31590]=`<b>ἐκ·λέπω</b>, ôter l’enveloppe, <i>d’où</i> faire éclore en brisant la coque, HDT. <i>2, 68</i> ; ARSTT. <i>H.A. 5, 19</i> ; PLUT. <i>M. 381c ; au pass</i>. ARSTT. <i>H.A. 5, 33 et 34</i>.`

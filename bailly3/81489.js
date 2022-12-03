@@ -1,1 +1,0 @@
-lar[81489]=`<b>*πόκη (ἡ)</b> <i>seul. dans la locut</i>. εἰς ὄνου πόκας, AR. <i>Ran. 186</i>, pour la toison d’un âne, <i>càd</i>. pour rien.<p><b>Étym</b>. πέκω.`

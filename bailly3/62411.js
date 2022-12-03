@@ -1,1 +1,0 @@
-lar[62411]=`<b>ῶν (οἱ)</b> les Makes, <i>pple de Libye,</i> HDT. <i>4, 175, 176 ; 5, 42 (sur le golfe Persique, sel</i>. STR. <i>765, 766 ; entre la Caramanie et l’Arabie, sel</i>. E. BYZ. <i>v°</i> Μάκαι).`

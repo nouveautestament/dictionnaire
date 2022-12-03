@@ -1,1 +1,0 @@
-lar[49430]=`<b>ἱππό·τιλος, ου (ὁ)</b> <font color="purple">[ῑλ]</font> diarrhée des chevaux, HIPPIATR. <i>p. 169</i>.<p><b>Étym</b>. ἵ. τιλάω.`

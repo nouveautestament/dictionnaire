@@ -1,1 +1,0 @@
-lar[98380]=`<b>ας (ἡ) :<br>      1</b> tour de charlatan, hâblerie, jonglerie, ISOCR. <i>209a ;</i> DH. <i>2, 19</i> ; PLUT. <i>M. 42e.</i><br><b>      2</b> <i>particul</i>. argutie, subtilité, DL.<p><b>Étym</b>. τερθρεύω.`

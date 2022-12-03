@@ -1,1 +1,0 @@
-lar[89990]=`<b>σηρός (ὁ) :<br>      1</b> ver à soie, PAUS. <i>6, 26, 6</i>.<br><b>      2</b> fil de soie, étoffe de soie, <i>au plur</i>. CLÉM. <i>234</i>.<p><b>Étym</b>. <i>v</i>. Σήρ.`

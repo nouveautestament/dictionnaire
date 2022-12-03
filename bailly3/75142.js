@@ -1,1 +1,0 @@
-lar[75142]=`<b>Πανουργ·ιππαρχίδας, ου (ὁ)</b> <font color="purple">[ᾰν]</font> coquin d’Hipparchidas, AR. <i>Ach. 603</i>.<p><b>Étym</b>. πανοῦργος, Ἱ.`

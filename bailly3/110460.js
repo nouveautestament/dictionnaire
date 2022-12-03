@@ -1,1 +1,0 @@
-lar[110460]=`<b>ου (τὸ)</b> appareil pour le partage des heures, horloge, A. APHR. <i>Probl. 1, 95</i> ; HLD. <i>9, 22</i>.<p><b>Étym</b>. ὡρονόμος.`

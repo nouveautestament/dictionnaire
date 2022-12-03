@@ -1,1 +1,0 @@
-lar[8456]=`<b>ἀν·επίληπτος, ος, ον :<br>      1</b> non exposé à être attaqué, THC. <i>5, 17 : fig</i>. irréprochable, EUR. <i>Or. 922</i> ; XÉN. <i>Cyr. 1, 2, 15</i> ; PLAT. <i>Phil. 43c.</i><br><b>      2</b> non contrôlé, DP. <i>2, 14</i> ; PHIL. <i>1, 15</i>.<p>•<i> Cp</i>. -ότερος, PLAT. <i>l. c</i>.<p><b>Étym</b>. ἀν-, ἐπιλαμβάνω.`

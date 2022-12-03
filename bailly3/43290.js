@@ -1,1 +1,0 @@
-lar[43290]=`<b>εὐρυ·λείμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> aux vastes prairies, PD. <i>P. 9, 57</i>.<p><b>Étym</b>. εὐ. λειμών.`

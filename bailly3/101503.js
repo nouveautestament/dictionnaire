@@ -1,1 +1,0 @@
-lar[101503]=`<b>ὑδρ·αλέτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> moulin à eau, STR. <i>556</i>.<p><b>Étym</b>. ὕδωρ, ἀλέω.`

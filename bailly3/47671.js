@@ -1,1 +1,0 @@
-lar[47671]=`<b>ή, όν :<br>      1</b> porté à se lamenter, ARSTT. <i>Nic. 9, 11, 4</i>.<br><b>      2</b> propre aux lamentations : τὸ θρηνητικόν, PLUT. <i>M. 623a</i>, chant plaintif.<p><b>Étym</b>. θρηνέω.`

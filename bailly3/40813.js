@@ -1,1 +1,0 @@
-lar[40813]=`<b>αντος (ὁ)</b> <font color="purple">[ῠ]</font> Érymante, <i>h</i>. IL. <i>16, 345, 415</i>.`

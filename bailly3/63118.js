@@ -1,1 +1,0 @@
-lar[63118]=`prostituer, XÉN. <i>Conv. 4, 57</i> ; LUC. <i>Tim. 16 ; fig</i>. PHIL. <i>1, 40</i> (<i>var</i>. μαστροπέω).`

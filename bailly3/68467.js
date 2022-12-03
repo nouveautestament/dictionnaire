@@ -1,1 +1,0 @@
-lar[68467]=`<b>ή, όν</b>, de jeune homme, <i>d’où</i> imprudent, téméraire, inconsidéré, POL. <i>10, 24, 7</i>.<p><b>Étym</b>. νεώτερος.`

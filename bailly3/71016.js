@@ -1,1 +1,0 @@
-lar[71016]=`<b>ὀλίγ·οζος, ος, ον</b> <font color="purple">[ῐ]</font> qui a peu de pousses <i>ou</i> de branches, TH. <i>H.P. 1, 8, 2</i>.<p><b>Étym</b>. ὀλ. ὄζος.`

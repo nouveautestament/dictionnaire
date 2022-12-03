@@ -1,1 +1,0 @@
-lar[46223]=`<b>ης (ἡ)</b> Thallousa, <i>f</i>. ANTH. <i>App. 208</i>.<p><b>Étym</b>. θάλλω.`

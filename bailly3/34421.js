@@ -1,1 +1,0 @@
-lar[34421]=`<b>ἐν·ευσχολέω-ῶ</b>, bien employer ses loisirs à, <i>dat</i>. LUC. <i>Am. 35</i>.`

@@ -1,1 +1,0 @@
-lar[63257]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> lubricité, impudicité, IL. <i>24, 30</i> ; HDT. <i>4, 154, etc</i>.<p><b>Étym</b>. μάχλος.`

@@ -1,1 +1,0 @@
-lar[71923]=`<b>ορος (ὁ)</b> Onètôr :<br><b>      1</b> <i>prêtre de Zeus,</i> IL. <i>16, 604</i>.<br><b>      2</b> <i>autre,</i> DÉM. <i>864</i>.<p><b>Étym</b>. <i>v</i>. ὀνήτωρ.`

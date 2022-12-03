@@ -1,1 +1,0 @@
-lar[26372]=`<b>δι·ηλιόω-ῶ</b>, faire chauffer au soleil. TH. <i>C.P. 4, 12, 12</i>.`

@@ -1,1 +1,0 @@
-lar[49061]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> <i>c</i>. ἰνοειδής, <i>en parl. d’animaux,</i> XÉN. <i>Cyn. 4, 1</i> ; ARSTT. <i>H.A. 1, 2, 17 ; de végétaux,</i> TH. <i>H.P. 3, 12, 1 et 5</i>.<p>•<i> Sup</i>. ἰνωδέστατος, ARSTT. <i>P.A. 2, 4, 6</i>.`

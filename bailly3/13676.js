@@ -1,1 +1,0 @@
-lar[13676]=`<b>ἀπο·τυλόω-ῶ</b> <font color="purple">[ῠ]</font> rendre dur et calleux, PHÉRÉCR. (POLL. <i>2, 176</i>).`

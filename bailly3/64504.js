@@ -1,1 +1,0 @@
-lar[64504]=`<b>μεσο·βασιλεύς, έως (ὁ)</b> <font color="purple">[ᾰῐ]</font> roi par intérim, interroi (<i>lat</i>. interrex) DH. <i>2, 58, etc.</i> ; PLUT. <i>Num. 7</i>.<p><b>Étym</b>. μέσος, βασιλεύς.`

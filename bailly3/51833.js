@@ -1,1 +1,0 @@
-lar[51833]=`<b>(οἱ)</b> les habitants de l’î. Karmina, NONN. <i>D. 36, 280</i>.<p><b>Étym</b>. <i>v</i>. Κάρμινα.`

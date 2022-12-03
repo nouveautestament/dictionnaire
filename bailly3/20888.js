@@ -1,1 +1,0 @@
-lar[20888]=`<b>ου (ὁ) :<br>      1</b> gosier, gorge, goulot, THCR. <i>Idyl. 3, 54, etc.</i><br><b>      2</b> gorgée, HPC. <i>485, 30 ; 487, 22</i>.`

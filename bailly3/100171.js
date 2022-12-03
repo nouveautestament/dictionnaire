@@ -1,1 +1,0 @@
-lar[100171]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> joueuse de harpe, LUC. <i>Lex. 8</i>.<p><b>Étym</b>. τριγωνίζω.`

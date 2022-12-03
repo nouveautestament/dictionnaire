@@ -1,1 +1,0 @@
-lar[38844]=`<b>ἐπι·πυρέσσω</b> <font color="purple">[ῠ]</font> avoir un nouvel accès de fièvre, HPC. <i>Prorrh. 68</i>.`

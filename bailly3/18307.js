@@ -1,1 +1,0 @@
-lar[18307]=`<b>ἀ·φυλλάκανθος, ος, ον</b> <font color="purple">[ᾰκ]</font> dont les feuilles ne sont pas épineuses, TH. <i>H.P. 6, 4, 8</i>.`

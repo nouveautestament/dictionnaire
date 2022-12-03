@@ -1,1 +1,0 @@
-lar[22063]=`<b>ου (ὁ)</b> sorte de poisson de mer d’un gris bleuâtre, COM. (ATH. <i>295</i>) ; ARSTT. <i>H.A. 8, 30, 5</i>.<p><b>Étym</b>. γλαυκός.`

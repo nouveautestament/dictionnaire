@@ -1,1 +1,0 @@
-lar[92933]=`<b>ή, όν</b>, entraîné par un mouvement tournant, LUC. <i>Trag. 12</i>.<p><b>Étym</b>. <i>vb. de</i> στροβέω.`

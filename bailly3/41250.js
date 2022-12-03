@@ -1,1 +1,0 @@
-lar[41250]=`<b>ἑταιρο·τρόφος, ου (ὁ)</b> maître d’une maison de prostituées, MAN. <i>4, 313</i>.<p><b>Étym</b>. ἑταίρα, τρέφω.`

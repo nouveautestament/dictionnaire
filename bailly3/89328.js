@@ -1,1 +1,0 @@
-lar[89328]=`<b>εως (ἡ)</b> action de remplir, de charger, ARSTT. <i>Probl. 25, 8, 4</i>.<p><b>Étym</b>. σάττω.`

@@ -1,1 +1,0 @@
-lar[14788]=`<b>ης</b> <font color="purple">[κᾰ]</font> <i>adj. f</i>. Arcadienne, JAMBL. <i>V. Pyth. 36</i>.<p><b>Étym</b>. Ἀρκάς.`

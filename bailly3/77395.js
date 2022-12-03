@@ -1,1 +1,0 @@
-lar[77395]=`<b>ητος (ἡ)</b> paternité, BAS. <i>1, 637 Migne</i>.<p><b>Étym</b>. πατήρ.`

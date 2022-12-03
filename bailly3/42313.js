@@ -1,1 +1,0 @@
-lar[42313]=`<b>εὐθυ·τράχηλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a le cou droit, SOR. <i>Obst. 260, 24 Id</i>.`

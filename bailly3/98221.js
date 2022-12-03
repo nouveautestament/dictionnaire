@@ -1,1 +1,0 @@
-lar[98221]=`<i>ou</i> <b>τελλίνη, ης (ἡ)</b> <font color="purple">[ῑ]</font> sorte de coquillage en forme d’épée, <i>appelé aussi</i> ξιφύδριον, HPC. <i>de Vict. rat. l. 2, t. 1, p. 682</i> k, <i>358f ;</i> EPICH. <i>fr. 78 Ahrens</i> ; SOPATR. (ATH. <i>86a</i>), <i>etc</i>.`

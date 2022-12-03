@@ -1,1 +1,0 @@
-lar[8249]=`<b>ἀν·έκπλυτος, ος, ον</b>, qu’on ne peut enlever en lavant, ineffaçable, PLAT. <i>Tim. 26c ;</i> SYN. <i>183a</i>.<p><b>Étym</b>. ἀν-, ἐκπλύνω.`

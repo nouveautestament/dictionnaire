@@ -1,1 +1,0 @@
-lar[44147]=`<b>ος, ον :<br>      1</b> insolent, HDN <i>6, 1, 5 ; 2, 4, 3 ; 2, 7, 5</i>.<br><b>      2</b> ignominieux, méprisable, SPT. <i>Sap. 17, 7</i> ; CLÉM. <i>1, 448, 1029 Migne</i> ; CHRYS. <i>1, 353 Migne</i>.<p><b>Étym</b>. ἐφυβρίζω.`

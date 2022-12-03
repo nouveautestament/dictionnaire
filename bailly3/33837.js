@@ -1,1 +1,0 @@
-lar[33837]=`<b>ἐν·αλήθης, ης, ες</b> <font color="purple">[ᾰ]</font> vraisemblable, vrai, LGN <i>15, 8</i>.`

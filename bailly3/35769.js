@@ -1,1 +1,0 @@
-lar[35769]=`<b>ἐξ·ελκόω-ῶ :<br>      1</b> ulcérer, ARSTT. <i>Probl. 5, 27</i> ; JOS. <i>A.J. 2, 14, 4 ; au pass</i>. s’ulcérer, HPC. <i>V. med. 15</i>.<br><b>      2</b> meurtrir, déchirer, DS. <i>14, 88</i>.`

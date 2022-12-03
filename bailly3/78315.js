@@ -1,1 +1,0 @@
-lar[78315]=`<font color="purple">[ᾰ]</font> <i>adv</i>., dans le dème Pergasè, AR. <i>Eq. 321</i>.<p><b>Étym</b>. Περγασή.`

@@ -1,1 +1,0 @@
-lar[70285]=`<b>οἰ·έανος, ος, ον</b> <font color="purple">[ᾰ]</font> qui n’a qu’un vêtement, A.RH. <i>3, 646</i>.<p><b>Étym</b>. οἶος, ἑανός.`

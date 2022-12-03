@@ -1,1 +1,0 @@
-lar[89105]=`<b>ης (ἡ)</b> Sædènè, <i>mt d’Asie Mineure, près de Kymè,</i> HOM. <i>Ep. 1, 3</i>.`

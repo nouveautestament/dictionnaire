@@ -1,1 +1,0 @@
-lar[25290]=`<b>οῦ (ὁ)</b> action d’en venir aux coups, dispute violente, PLUT. <i>M. 710c</i>.`

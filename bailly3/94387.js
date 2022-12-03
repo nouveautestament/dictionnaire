@@ -1,1 +1,0 @@
-lar[94387]=`<b>συμ·πτερόομαι-οῦμαι</b>, prendre des ailes ensemble <i>ou</i> s’envoler avec, LGN <i>15, 4</i>.<p><b>Étym</b>. σ. πτερόω.`

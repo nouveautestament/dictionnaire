@@ -1,1 +1,0 @@
-lar[19397]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> vase à col long et étroit où l’on faisait rafraîchir l’eau <i>ou</i> le vin (<i>cf</i>. ψυκτήρ) ANTH. <i>11, 244</i> ; ATH. <i>784b</i>.`

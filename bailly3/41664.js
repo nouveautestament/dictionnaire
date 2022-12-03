@@ -1,1 +1,0 @@
-lar[41664]=`<b>ατος (τὸ)</b> cri des bacchantes, EUR. <i>Bacch. 129, 151</i> ; ORPH. <i>H. 53, 8</i>.<p><b>Étym</b>. εὐάζω.`

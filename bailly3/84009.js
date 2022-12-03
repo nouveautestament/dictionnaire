@@ -1,1 +1,0 @@
-lar[84009]=`<b>πρό·δουλος, ος, ον</b>, qui fait office de serviteur, ESCHL. <i>Ag. 945</i>.<p><b>Étym</b>. π. δοῦλος.`

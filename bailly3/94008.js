@@ -1,1 +1,0 @@
-lar[94008]=`<b>συμ·μίσγω</b> (<i>seul. prés. et impf.) c</i>. συμμίγνυμι, HH. <i>Merc. 81</i> ; HDT. <i>1, 123 ; 4, 127, 151 ; 6, 14</i> ; THC. <i>7, 6</i> ; PLAT. <i>Leg. 678c, etc</i>.`

@@ -1,1 +1,0 @@
-lar[97212]=`se taire, <i>en parl. d’un chien,</i> XÉN. (HSCH.) <i>dout</i>.`

@@ -1,1 +1,0 @@
-lar[48228]=`<b>ἰαμβο·φανής, ής, ές</b> <font color="purple">[φᾰ]</font> semblable à des ïambes, RHÉT. <i>5, 472 W</i>.<p><b>Étym</b>. ἰ. φαίνω.`

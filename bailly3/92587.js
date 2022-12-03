@@ -1,1 +1,0 @@
-lar[92587]=`<font color="purple">[ῐᾰ]</font> <i>adv.</i> :<br><b>      1</b> fortement, IL. <i>12, 454</i>.<br><b>      2</b> <i>fig</i>. avec fermeté <i>ou</i> gravité, M. ANT. <i>2, 5</i>.`

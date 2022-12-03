@@ -1,1 +1,0 @@
-lar[15520]=`<b>Ἀρχέ·δημος, ου (ὁ)</b> Arkhédèmos, <i>h</i>. XÉN. <i>Hell. 1, 7, 2</i> ; AR. <i>Ran. 417, 588, etc</i>.<p>➳ <i>Dor</i>. Ἀρχέδαμος <font color="purple">[δᾱ]</font> POL. <i>18, 4, 5</i> ; PLUT. <i>M. 605b, etc</i>.<p><b>Étym</b>. ἄρχω, δῆμος.`

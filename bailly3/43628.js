@@ -1,1 +1,0 @@
-lar[43628]=`<b>εὐ·τράχηλος, ος, ον</b> <font color="purple">[ᾰ]</font> dont le cou est beau <i>ou</i> fort, HIPPIATR. <i>p. 261</i>.<p><b>Étym</b>. εὖ, τράχηλος.`

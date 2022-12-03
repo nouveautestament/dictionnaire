@@ -1,1 +1,0 @@
-lar[45209]=`<b>ης, ες</b> <font color="purple">[ῐθ]</font> de sot, PHILSTR. <i>558</i>.<p><b>Étym</b>. ἠλίθιος, -ωδης.`

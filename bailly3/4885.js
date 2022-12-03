@@ -1,1 +1,0 @@
-lar[4885]=`<b>ἄ·λοβος, ος, ον</b>, sans lobes, <i>en parl. des entrailles de victimes, d’où</i> sinistre, de mauvais augure, XÉN. <i>Hell. 3, 4, 15</i> ; PLUT. <i>Ages. 9, Pyrrh. 30, Alex. 73</i> ; ARR. <i>An. 7, 18, 5</i>.<p><b>Étym</b>. ἀ, λοβός.`

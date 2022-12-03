@@ -1,1 +1,0 @@
-lar[10730]=`<b>ας (ἡ)</b> non-existence, néant, SEXT. <i>P. 1, 21, etc.</i> ; GAL. <i>2, 25</i> ; SÉN. <i>Ep. 87, 40</i>.<p><b>Étym</b>. ἀνύπαρκτος.`

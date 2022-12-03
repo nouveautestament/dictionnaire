@@ -1,1 +1,0 @@
-lar[92093]=`<b>ή, όν</b>, qui sert pour peser, SEXT. <i>M. 7, 442</i>.<p><b>Étym</b>. σταθμάω.`

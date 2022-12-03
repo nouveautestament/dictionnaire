@@ -1,1 +1,0 @@
-lar[15974]=`<b>ἄσκωμα, ατος (τὸ) :<br>      1</b> manchon, gaine de cuir adaptée par son extrémité la plus large au sabord du navire, et percée d’une fente à l’autre bout pour laisser passer la hampe de l’aviron, AR. <i>Ach. 97 ; Ran. 364</i>.<br><b>      2</b> soufflet de forge en forme d’outre, APD. POL. <i>21</i>.<p><b>Étym</b>. ἀσκόω.`

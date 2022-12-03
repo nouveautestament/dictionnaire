@@ -1,1 +1,0 @@
-lar[67013]=`<b>ου (ὁ)</b> sorte d’insecte nuisible à la végétation, SYMM. <i>Ps. 77, 46</i>.<p><b>Étym</b>. μυζάω.`

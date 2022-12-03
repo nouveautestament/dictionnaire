@@ -1,1 +1,0 @@
-lar[5401]=`<b>ἀ·μειδής, ής, ές</b>, qui ne sourit pas, PLUT. <i>M. 477e ;</i> ORPH. <i>Arg. 1086</i> ; OPP. <i>C. 2, 322, 459</i>.<p><b>Étym</b>. ἀ, μειδάω.`

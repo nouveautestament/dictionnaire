@@ -1,1 +1,0 @@
-lar[26843]=`<b>εως (ἡ)</b> état d’un corps complètement pourvu d’organes, JAMBL. <i>V. Pyth. 67</i>.<p><b>Étym</b>. διοργανόω.`

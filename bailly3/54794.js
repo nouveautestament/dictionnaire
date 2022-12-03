@@ -1,1 +1,0 @@
-lar[54794]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> atelier de poterie, ESCHN. <i>70, 22</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 814, a, b, 33 (374 av. J.-C.), v. Meisterh. p. 40, note 327a</i>.<p><b>Étym</b>. κεραμεύς.`

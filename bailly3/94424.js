@@ -1,1 +1,0 @@
-lar[94424]=`<b>συμ·φθίνω</b> <font color="purple">[ῑ]</font> se consumer avec, dépérir avec, <i>dat</i>. ARSTT. <i>G.A. 2, 6, 49</i> ; EL. <i>N.A. 12, 13</i>.<p>➳ <i>Ao.2 pass</i>. συνέφθιτο <font color="purple">[ῐ]</font> ANTH. <i>8, 135</i>.`

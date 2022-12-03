@@ -1,1 +1,0 @@
-lar[59890]=`<b>λαρνακο·φθόρος, ος, ον</b> <font color="purple">[νᾰ]</font> qui fait périr dans un coffre, LYC. <i>235</i>.<p><b>Étym</b>. λάρναξ, φθείρω.`

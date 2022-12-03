@@ -1,1 +1,0 @@
-lar[102581]=`<b>ὑπερ·καλλής, ής, ές</b>, d’une beauté extraordinaire, XÉN. <i>Cyr. 5, 1, 18</i> ; DC. <i>53, 28</i>.<p><b>Étym</b>. ὑ. κάλλος.`

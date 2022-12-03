@@ -1,1 +1,0 @@
-lar[99307]=`<b>(ὁ)</b> Tiridatas, <i>h</i>. LUC. <i>D. mer. 9, 2</i>.`

@@ -1,1 +1,0 @@
-lar[81217]=`<b>όεσσα, όεν</b> <font color="purple">[ῑ]</font> <i>c</i>. πνιγμώδης NIC. <i>Th. 425</i> ; ANTH. <i>7, 536</i>.`

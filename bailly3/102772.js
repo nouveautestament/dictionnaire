@@ -1,1 +1,0 @@
-lar[102772]=`<b>ὑπερ·πνιγής, ής, ές</b> <font color="purple">[ῐ]</font> tout essoufflé, ANON. (SUID. <i>v°</i> ὑπερπνιγής).<p><b>Étym</b>. ὑ. πνίγω.`

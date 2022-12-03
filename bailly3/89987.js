@@ -1,1 +1,0 @@
-lar[89987]=`<b>ή, όν :<br>      1</b> pourri, ARSTT. <i>G.A. 3, 11, 15</i>.<br><b>      2</b> qui engendre la putréfaction, DIOSC. <i>2, 67, etc. ; subst</i>. ἡ σηπτή (<i>s.-e</i>. ἔμπλαστος) DIOSC. <i>4, 151,</i> emplâtre pour faire pourrir les chairs.<p><b>Étym</b>. <i>vb. de</i> σήπω.`

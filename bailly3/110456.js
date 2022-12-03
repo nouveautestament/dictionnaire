@@ -1,1 +1,0 @@
-lar[110456]=`<b>ὡρό·μαντις, εως (ὁ)</b> qui annonce les heures, <i>ép. du coq,</i> BABR. <i>124, 15</i>.<p><b>Étym</b>. ὥρα, μάντις.`

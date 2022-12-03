@@ -1,1 +1,0 @@
-lar[35565]=`<b>ἐξ·αποτίνω</b> (<i>prés. opt</i>. -οις) <font color="purple">[ῑ]</font> donner entière satisfaction à, <i>acc</i>. IL. <i>21, 412</i>.`

@@ -1,1 +1,0 @@
-lar[83918]=`<b>εως (ἡ)</b> action de se préparer par la diète, LUC. <i>Nec. 7</i>.<p><b>Étym</b>. προδιαιτάω.`

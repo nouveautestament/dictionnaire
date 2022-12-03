@@ -1,1 +1,0 @@
-lar[82623]=`<b>ου (ὁ)</b> = <i>lat</i>. Pompædius, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 2</i>.`

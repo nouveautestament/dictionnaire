@@ -1,1 +1,0 @@
-lar[56228]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art du foulon, PLAT. <i>Pol. 282a, etc</i>.`

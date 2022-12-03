@@ -1,1 +1,0 @@
-lar[55643]=`<b>*κισσο·φάγος</b>, <i>att</i>. <b>κιττο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange le lierre, LGS <i>3, 5</i>.<p><b>Étym</b>. κιττός, φαγεῖν.`

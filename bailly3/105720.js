@@ -1,1 +1,0 @@
-lar[105720]=`<b>φιλο·γηθής</b>, <i>seul. dor</i>. <b>φιλο·γαθής, ής, ές</b> <font color="purple">[ῐᾱ]</font> qui aime la joie, ESCHL. <i>Sept. 918</i>.<p><b>Étym</b>. φ. γῆθος.`

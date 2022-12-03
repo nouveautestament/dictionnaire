@@ -1,1 +1,0 @@
-lar[58996]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> petit tamis, NIC. <i>Al. 493</i> ; DIOSC. <i>4, 157</i>.<br><b>      2</b> petit filet, OPP. <i>H. 5, 600</i>.<p><b>Étym</b>. <i>cf</i>. κύρτη <i>et</i> κύρτος.`

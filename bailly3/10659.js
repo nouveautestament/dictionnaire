@@ -1,1 +1,0 @@
-lar[10659]=`<b>ἀντ·ορχέομαι-οῦμαι</b>, imiter <i>ou</i> contrefaire une danse, ARSTT. <i>H.A. 8, 12, 12</i> ; ATH. <i>391d</i>.`

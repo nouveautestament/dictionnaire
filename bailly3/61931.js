@@ -1,1 +1,0 @@
-lar[61931]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Lykôn, <i>h</i>. IL. <i>16, 335, 337</i> ; AR. <i>Lys. 270, Vesp. 1301</i> ; XÉN. <i>Conv. 2, 5, etc</i>.<p><b>Étym</b>. λύκος.`

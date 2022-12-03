@@ -1,1 +1,0 @@
-lar[25520]=`<b>δια·σιλλαίνω</b> <font color="darkgreen">(<i>impf</i>. διεσίλλαινον)</font> se moquer de, railler, <i>acc</i>. LUC. <i>Lex. 24</i> ; ALCIPHR. <i>3, 62</i> ; JAMBL. <i>Protr. p. 368</i>.`

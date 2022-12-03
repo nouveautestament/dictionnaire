@@ -1,1 +1,0 @@
-lar[35118]=`<b>ἔν·τραχυς, εια, υ</b> <font color="purple">[ᾱ]</font> un peu rude, SEXT. <i>758, 14 Bkk.</i> ; DIOSC. <i>5, 180</i>.`

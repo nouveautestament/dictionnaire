@@ -1,1 +1,0 @@
-lar[47729]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> <i>au</i> <i>• Sup</i>. θριπωδέστατος, TH. <i>H.P. 3, 8, 5 (vulg.) corrigé en</i> θριπηδέστατος.<p><b>Étym</b>. θρίψ, -ωδης.`

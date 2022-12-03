@@ -1,1 +1,0 @@
-lar[7830]=`<b>ἀν·αυξής, ής, ές :<br>      1</b> non favorable à la croissance, TH. <i>C.P. 4, 6, 3</i>.<br><b>      2</b> qui ne croît pas, ARSTT. <i>H.A. 6, 15, 4</i>.<p>•<i> Cp</i>. -έστερος, TH.<p><b>Étym</b>. ἀν-, αὔξω.`

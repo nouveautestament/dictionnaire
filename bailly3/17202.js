@@ -1,1 +1,0 @@
-lar[17202]=`<b>α, ον :<br>      1</b> qui concerne l’étable, la bergerie <i>ou</i> les bergers ; ἀστὴρ αὔ. A.RH. <i>4, 1630,</i> l’étoile du soir <i>ou</i> du berger ; <i>p. ext</i>. rustique, EUR. <i>Ion 500 (sel. d’autres,</i> qui résonne du son de l’aulos, <i>de</i> αὐλός).<br><b>      2</b> <i>c</i>. αὔλειος, MÉN. (STOB. <i>Fl. 74, 11) au fém</i>. -ιος.<p><b>Étym</b>. αὐλή.`

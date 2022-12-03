@@ -1,1 +1,0 @@
-lar[64958]=`<b>μετα·σκευή, ῆς (ἡ)</b> changement (d’un mot) DH. <i>Comp. 6</i>.<p><b>Étym</b>. μ. σκευή.`

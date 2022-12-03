@@ -1,1 +1,0 @@
-lar[41650]=`<b>εὔ·αρκτος, ος, ον</b>, facile à gouverner, ESCHL. <i>Pers. 193</i>.<p><b>Étym</b>. εὖ, ἄρχω.`

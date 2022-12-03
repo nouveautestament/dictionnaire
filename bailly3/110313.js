@@ -1,1 +1,0 @@
-lar[110313]=`<i>sel. d’autres</i> <b>ὦ 'ναξ</b>, <i>crase ou élis. poét. et ion. p</i>. ὦ ἄναξ.`

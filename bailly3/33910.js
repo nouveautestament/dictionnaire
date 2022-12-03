@@ -1,1 +1,0 @@
-lar[33910]=`<b>ἐν·αντλέω-ῶ</b>, puiser dans, <i>d’où au pass</i>. être rempli de choses puisées dans, <i>dat</i>. PHIL. <i>1, 574</i>.`

@@ -1,1 +1,0 @@
-lar[106121]=`<b>ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font> amour de sa personne, soin qu’on prend de son corps, CLÉM. <i>739</i>.<p><b>Étym</b>. φιλοσώματος.`

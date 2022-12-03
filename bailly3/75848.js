@@ -1,1 +1,0 @@
-lar[75848]=`<b>εως (ἡ)</b> la syllabe <i>ou</i> la voyelle pénultième, HDN GR. <i>π. μ. λ. 43</i>.<p><b>Étym</b>. παραλήγω.`

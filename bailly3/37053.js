@@ -1,1 +1,0 @@
-lar[37053]=`<b>ἐπ·ελευθεριάζω</b>, se donner pleine licence, PHIL. <i>2, 328</i>.`

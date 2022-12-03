@@ -1,1 +1,0 @@
-lar[91330]=`<b>σκυλο·χαρής, ής, ές</b> <font color="purple">[ῡᾰ]</font> qui aime les dépouilles, A. PL. <i>214</i>.<p><b>Étym</b>. σκῦλον, χαίρω.`

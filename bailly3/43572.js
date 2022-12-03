@@ -1,1 +1,0 @@
-lar[43572]=`<b>εὐτεκνέω-ῶ</b>, être heureux en enfants, EUR. <i>fr. 524</i> ; PLUT. <i>M. 278b</i>.<p><b>Étym</b>. εὔτεκνος.`

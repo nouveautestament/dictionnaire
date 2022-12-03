@@ -1,1 +1,0 @@
-lar[49202]=`<b>ἰπνο·πλάθης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui construit des fours, PLAT. <i>Theæt. 147a</i>.<p><b>Étym</b>. ἰπνός, πλάσσω.`

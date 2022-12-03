@@ -1,1 +1,0 @@
-lar[14267]=`<b>ου (τὸ)</b> Argînon, <i>promont. d’Ionie,</i> THC. <i>8, 34</i>.`

@@ -1,1 +1,0 @@
-lar[53648]=`<b>κατα·φλέγω</b>, brûler, consumer, <i>acc</i>. IL. <i>22, 512</i> ; HÉS. <i>Sc. 18</i> ; PLUT. <i>Cæs. 68, etc. ; fig</i>. ANTH. <i>5, 10</i>.<p>➳ <i>Pass. inf. ao</i>. -φλεχθῆναι, DS. <i>Exc. p. 549, 67</i> ; PHILSTR. <i>Her. p. 140, 3 Boiss. ; ao.2</i> -φλεγῆναι, D. CHR. <i>Or. 46, p. 518c</i>.`

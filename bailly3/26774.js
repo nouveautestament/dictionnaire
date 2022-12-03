@@ -1,1 +1,0 @@
-lar[26774]=`<b>Διο·μέδων, οντος (ὁ)</b> Diomédôn :<br><b>      1</b> <i>général athénien,</i> THC. <i>8, 19, 24, 54</i> ; XÉN. <i>Hell. 1, 5, 16 ; 1, 6, 23</i>.<br><b>      2</b> <i>autres</i> : ARSTT. <i>Rhet. 2, 23 ; etc</i>.<p><b>Étym</b>. Διός, μέδομαι.`

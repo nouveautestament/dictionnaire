@@ -1,1 +1,0 @@
-lar[74072]=`<b>ῶν (αἱ)</b> <font color="purple">[ᾰγᾰ]</font> Pagases, <i>port de Phères, en Thessalie,</i> HDT. <i>7, 193</i> ; XÉN. <i>Hell. 5, 4, 56, etc</i>.`

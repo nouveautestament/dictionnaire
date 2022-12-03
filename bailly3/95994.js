@@ -1,1 +1,0 @@
-lar[95994]=`<i>2 sg. impér. prés. ou 3 sg. impf. de</i> συνίημι.`

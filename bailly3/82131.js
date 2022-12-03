@@ -1,1 +1,0 @@
-lar[82131]=`<b>πολυ·μνήστευτος, ος, ον</b>, recherché par beaucoup de prétendants, PLUT. <i>M. 766d, C. Gracch. 4</i>.<p><b>Étym</b>. π. μνηστεύω.`

@@ -1,1 +1,0 @@
-lar[21313]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> Gamèliôn, <i>litt</i>. le mois des mariages, <i>7<sup>e</sup> mois attique (fin de janvier et commencement de février</i>), ARSTT. <i>Meteor. 1, 6, 11</i> ; TH. <i>H.P. 7, 1, 2</i>.<p><b>Étym</b>. γαμήλιος.`

@@ -1,1 +1,0 @@
-lar[87262]=`<b>πρωτό·τοκος, ος, ον</b>, premier-né, ANTH. <i>9, 213</i> ; SPT. <i>2Reg. 19, 43, etc.</i> ; NT. <i>Luc. 2, 7 ; fig</i>. le premier, le chef, SPT. <i>Ps. 88, 28</i> ; NT. <i>Col. 1, 15, etc</i>.<p><b>Étym</b>. πρ. τεκεῖν.`

@@ -1,1 +1,0 @@
-lar[21394]=`<b>ας (ἡ)</b> Gargaphia, <i>source au pied du Cithéron, en Béotie,</i> PAUS. <i>9, 4, 3</i> ; ALCIPHR. <i>3, 1</i>.<p>➳ <i>Ion</i>. Γαργαφίη, HDT. <i>9, 25, etc</i>.`

@@ -1,1 +1,0 @@
-lar[67542]=`<b>ατος (τὸ)</b> langage insensé, EPIC. (PLUT. <i>M. 1087a</i>).<p><b>Étym</b>. μωρολογέω.`

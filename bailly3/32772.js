@@ -1,1 +1,0 @@
-lar[32772]=`<b>ιτίδος (ἡ)</b> <i>sorte de poisson,</i> HPC. <i>337, 45</i>.`

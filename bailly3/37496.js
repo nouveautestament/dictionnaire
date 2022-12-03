@@ -1,1 +1,0 @@
-lar[37496]=`<b>ἐπί·γυον, ου (τὸ)</b> croupière, <i>sorte d’amarre qui retient un vaisseau par l’arrière,</i> POL. <i>3, 46, 3</i>.<p><b>Étym</b>. ἐ. γύον.`

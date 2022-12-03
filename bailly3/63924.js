@@ -1,1 +1,0 @@
-lar[63924]=`<b>ατος (τὸ)</b> <font color="purple">[λᾰ]</font> couleur noire, EUM. <i>p. 13</i>.<p><b>Étym</b>. μελανόω.`

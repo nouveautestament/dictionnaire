@@ -1,1 +1,0 @@
-lar[97442]=`<b>ταλασί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰᾰ]</font> à l’âme courageuse, IL. <i>4, 421 ; 11, 466</i> ; OD. <i>1, 87, 129 ; 3, 84, etc.</i> ; HÉS. <i>Th. 1012</i> ; THCR. <i>Idyl. 24, 50</i>.<p><b>Étym</b>. *τλάω, φρήν.`

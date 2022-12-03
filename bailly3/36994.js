@@ -1,1 +1,0 @@
-lar[36994]=`<b>ἐπ·εισοδιάζω</b>, introduire sous forme de digression <i>ou</i> d’épisode, PHIL. <i>1, 134, 592</i>.<p><b>Étym</b>. ἐπεισόδιος.`

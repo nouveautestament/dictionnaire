@@ -1,1 +1,0 @@
-lar[82166]=`<b>Πόλυ·νος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Polynos, <i>h</i>. Q. SM. <i>8, 86</i>.<p><b>Étym</b>. <i>cf</i>. πολύνοος.`

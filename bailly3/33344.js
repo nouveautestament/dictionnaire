@@ -1,1 +1,0 @@
-lar[33344]=`<b>ατος (τὸ)</b> ce qu’on répand en saupoudrant sur, ORIB. <i>2, 171, 8 B.-Dar</i>.<p><b>Étym</b>. ἐμπάσσω.`

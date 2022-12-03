@@ -1,1 +1,0 @@
-lar[89157]=`<b>ωνος (ὁ)</b> <font color="purple">[σᾰ]</font> Salangon, <i>fl. d’Illyrie,</i> A.RH. <i>4, 337</i>.`

@@ -1,1 +1,0 @@
-lar[14018]=`<b>ἀπτέρως</b>, <i>adv</i>., à tire d’ailes, LYC. <i>627</i>.<p><b>Étym</b>. ἀ <i>cop</i>. πτερόν.`

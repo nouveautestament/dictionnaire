@@ -1,1 +1,0 @@
-lar[4238]=`<b>ἀλέξ·ανδρος, ος, ον</b>, qui protège les hommes, INSCR. (DS. <i>11, 14).</i><p><b>Étym</b>. ἀλέξω, ἀνήρ.`

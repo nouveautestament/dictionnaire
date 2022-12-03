@@ -1,1 +1,0 @@
-lar[91187]=`<b>(ὁ)</b> <i>seul. lat</i>. scorpitis lapis, PLIN. <i>H.N. 37, 11, 72, sorte de pierre précieuse</i>.<p><b>Étym</b>. σκορπίος.`

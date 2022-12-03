@@ -1,1 +1,0 @@
-lar[77339]=`<b>πατρ·αγαθία, ας (ἡ)</b> <font color="purple">[ᾰγᾰ]</font> vertu <i>ou</i> mérite du père <i>ou</i> des ancêtres, PLUT. <i>M. 183d, 534c</i>.<p><b>Étym</b>. πατήρ, ἀγαθός.`

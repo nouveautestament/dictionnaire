@@ -1,1 +1,0 @@
-lar[51734]=`<b>καρδ·άμωμον, ου (τὸ)</b> <font color="purple">[δᾰ]</font> cardamome, <i>aromate,</i> TH. <i>H.P. 9, 72</i>.<p><b>Étym</b>. κάρδαμον, ἄμωμον.`

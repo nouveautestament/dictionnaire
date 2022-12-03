@@ -1,1 +1,0 @@
-lar[15847]=`<b>ἀ·σίγητος, ος, ον</b> <font color="purple">[ῑ]</font> qui ne se tait pas <i>ou</i> qui ne peut se taire, CALL. <i>Del. 286</i> ; NONN. <i>etc</i>.<p><b>Étym</b>. ἀ, σιγάω.`

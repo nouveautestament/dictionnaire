@@ -1,1 +1,0 @@
-lar[90795]=`<b>ατος (τὸ)</b> équipement, SPT. <i>Judith 15, 11 au plur</i>.<p><b>Étym</b>. σκευάζω.`

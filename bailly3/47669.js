@@ -1,1 +1,0 @@
-lar[47669]=`<b>ῆρος (ὁ)</b> qui se lamente, ESCHL. <i>Pers. 937</i>.<p><b>Étym</b>. θρηνέω.`

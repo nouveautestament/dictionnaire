@@ -1,1 +1,0 @@
-lar[44674]=`<b>ζῴ·αρχος, ου (ὁ)</b> qui commande à un éléphant (<i>propr</i>. à un animal) EL. TACT. <i>23, 1</i>.<p><b>Étym</b>. ζῷον, ἄρχω.`

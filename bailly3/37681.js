@@ -1,1 +1,0 @@
-lar[37681]=`<b>ἐπι·δρέπομαι</b>, recueillir en outre pour soi, <i>acc</i>. CLÉM. <i>35</i>.`

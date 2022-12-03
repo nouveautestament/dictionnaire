@@ -1,1 +1,0 @@
-lar[107832]=`<b>ης (ἡ)</b> serran, <i>poisson de mer vorace, litt</i>. qui a la bouche béante, ARSTT. <i>H.A. 4, 11, 8 ; 8, 2, 24</i> ; EL. <i>N.A. 4, 5</i>.`

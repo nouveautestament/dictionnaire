@@ -1,1 +1,0 @@
-lar[85906]=`<b>προσ·καθέλκω</b> <font color="darkgreen">(<i>f</i>. -καθέλξω, <i>ao</i>. -καθείλκυσα, <i>etc</i>.)</font> tirer en bas en outre, <i>particul. en parl. de navires,</i> mettre à la mer avec d’autres, PLUT. <i>Cam. 8</i>.`

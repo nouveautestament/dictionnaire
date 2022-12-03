@@ -1,1 +1,0 @@
-lar[77836]=`<b>α, ον</b>, de Pélops, EUR. <i>Suppl. 184, etc. ; subst</i>. τὸ Πελόπιον, PAUS. <i>5, 13, 1,</i> temple de Pélops.<p><b>Étym</b>. Πέλοψ.`

@@ -1,1 +1,0 @@
-lar[27335]=`<b>ης, ες</b>, sombre, obscur, HPC. <i>308, 22</i> ; EUR. <i>Tr. 79</i>.<p>➳ <i>Postér</i>. γνοφώδης, PLUT. <i>M. 949a</i>, GEOP. <i>1, 12, 18 et 25</i>.<p><b>Étym</b>. δνόφος <i>et</i> γνόφος, -ωδης.`

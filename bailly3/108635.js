@@ -1,1 +1,0 @@
-lar[108635]=`<b>ά, όν</b>, friand, délicat, MNÉSIM. (ATH. <i>403a</i>).<p>➳ <i>• Sup</i>. χναυρότατος, PHÉRÉCR. (ATH. <i>269a</i>).<p><b>Étym</b>. χναύω.`

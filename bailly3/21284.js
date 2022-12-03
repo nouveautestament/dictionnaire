@@ -1,1 +1,0 @@
-lar[21284]=`<b>ας (ἡ)</b> = <i>lat</i>. Gallia, la Gaule, PTOL., E. BYZ. <i>etc.</i> ; αἱ Γαλλίαι, PTOL. <i>8, 5, 1, etc</i>. les Gaules (transalpine et cisalpine).<p><b>Étym</b>. <i>Cf</i>. Γαλατία, <i>nom grec usuel de la Gaule</i>.`

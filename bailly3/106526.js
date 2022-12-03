@@ -1,1 +1,0 @@
-lar[106526]=`<b>φοιβο·νομέομαι-οῦμαι</b>, vivre sous les lois de Phœbus, PLUT. <i>M. 393c</i>.<p><b>Étym</b>. Φ. νόμος.`

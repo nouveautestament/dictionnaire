@@ -1,1 +1,0 @@
-lar[36919]=`<b>ἐπ·εγκολάπτω</b>, graver dans <i>ou</i> sur, <i>dat</i>. LYC. <i>782</i>.`

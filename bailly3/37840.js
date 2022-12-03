@@ -1,1 +1,0 @@
-lar[37840]=`<font color="purple">[ῡ]</font> <i>adv</i>., ἐπ. ἔχειν τινός, PLAT. <i>Phæd. 108a, Rsp. 516d ;</i> DL. <i>8, 1,</i> être désireux de qqe ch.`

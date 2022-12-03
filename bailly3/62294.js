@@ -1,1 +1,0 @@
-lar[62294]=`<b>ου (ὁ)</b> Mazæos, <i>Perse,</i> PLUT. <i>Alex. 32, etc</i>.`

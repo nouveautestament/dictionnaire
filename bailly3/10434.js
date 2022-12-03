@@ -1,1 +1,0 @@
-lar[10434]=`<b>ου (ὁ)</b> = <i>lat</i>. Antistius, <i>n. d’h. rom</i>. PLUT. <i>Brut. 25</i>.`

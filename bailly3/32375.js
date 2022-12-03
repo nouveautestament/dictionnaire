@@ -1,1 +1,0 @@
-lar[32375]=`<b>ἐκ·φωνέω-ῶ :<br>      1</b> s’écrier, PLUT. <i>Cæs. 66</i>.<br><b>      2</b> prononcer distinctement, DH. <i>5, 78, 13 Reiske</i> ; PLUT. <i>M. 1010a ;</i> D. THR. <i>810</i>.`

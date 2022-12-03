@@ -1,1 +1,0 @@
-lar[37449]=`<b>ἐπι·γεννάω-ῶ</b>, produire ensuite <i>ou</i> en outre, THEOL. <i>p. 64 ; au pass</i>. croître ensuite, ATH. <i>653d</i>.`

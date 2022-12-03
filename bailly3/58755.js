@@ -1,1 +1,0 @@
-lar[58755]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> chasseur, MAN. <i>4, 337</i>.<p><b>Étym</b>. κυνηγέω.`

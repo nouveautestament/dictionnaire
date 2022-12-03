@@ -1,1 +1,0 @@
-lar[59844]=`<b>ή, όν</b> <font color="purple">[λᾰ]</font>, laxatif, XÉNOCR. <i>Al. 8</i> ; GAL. <i>2, 18, etc</i>.<p><b>Étym</b>. λαπάζω.`

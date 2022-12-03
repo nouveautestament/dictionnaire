@@ -1,1 +1,0 @@
-lar[65326]=`<font color="purple">[ῐ]</font> <i>adv</i>., ne… plus, HÉS. <i>O. 172</i> ; PD. <i>O. 1, 5 et 114</i> ; ESCHL. <i>Ch. 805</i>.<p><b>Étym</b>. μή, ἔτι ; <i>le κ p. anal. avec</i> οὐκέτι.`

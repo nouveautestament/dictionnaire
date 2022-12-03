@@ -1,1 +1,0 @@
-lar[91278]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰκ]</font> éducation de jeunes chiens, PLUT. <i>Cato ma. 5</i> ; JAMBL. <i>V. Pyth. 426</i>.<p><b>Étym</b>. σκυλακεύω.`

@@ -1,1 +1,0 @@
-lar[10419]=`<b>ης, ες</b> <font color="purple">[τᾰ]</font> qui fait opposition, CLÉM. <i>430</i>.`

@@ -1,1 +1,0 @@
-lar[68344]=`<b>ων (οἱ)</b> les Nestæes, <i>pple d’Illyrie,</i> A.RH. <i>4, 1215</i>.`

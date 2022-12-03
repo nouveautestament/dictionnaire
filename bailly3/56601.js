@@ -1,1 +1,0 @@
-lar[56601]=`<b>ατος (τὸ) :<br>      1</b> châtiment, peine, AR. <i>(Bkk. p. 105, 2</i>) ; XÉN. <i>Cyr. 3, 1, 19</i> ; PLUT. <i>M. 17b, Crass. 10, etc.</i><br><b>      2</b> excitation, attouchement, ALCIPHR. <i>1, 38</i>.<p><b>Étym</b>. κολάζω.`

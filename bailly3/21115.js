@@ -1,1 +1,0 @@
-lar[21115]=`<b>Γ, γ</b> (γάμμα) gamma, <i>3<sup>e</sup> lettre de l’alphabet grec. Comme chiffre γʹ = 3, ͵γ = 3 000</i>.`

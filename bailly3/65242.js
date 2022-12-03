@@ -1,1 +1,0 @@
-lar[65242]=`<b>ωνος (ὁ)</b> Métôn :<br><b>      1</b> <i>astronome athénien,</i> AR. <i>Av. 997</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Pyrrh. 13, etc</i>.`

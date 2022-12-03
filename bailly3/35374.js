@@ -1,1 +1,0 @@
-lar[35374]=`<b>ἐξ·αλαόω-αῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> rendre tout à fait aveugle, <i>acc</i>. OD. <i>11, 103, etc.</i><br><b>      2</b> <i>p. ext</i>. mutiler, OPP. <i>C. 3, 228</i>.<p>➳ <i>Ao. poét. 2 sg</i>. ἐξαλάωσας, OPP. <i>l. c. ; 3 sg</i>. ἐξαλάωσε, OD. <i>9, 453 ; inf</i>. ἐξαλαῶσαι, OD. <i>9, 504</i>.<p><b>Étym</b>. ἐξ, ἀλαός.`

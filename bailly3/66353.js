@@ -1,1 +1,0 @@
-lar[66353]=`<b>ου (ὁ)</b> <i>c</i>. μόλυβδος, THGN. <i>417</i> ; ARSTT. <i>Meteor. 1, 12</i> ; PLUT. <i>M. 695d, etc</i>.<p><b>Étym</b>. <i>v</i>. μόλυβδος.`

@@ -1,1 +1,0 @@
-lar[77293]=`<b>ου (τὸ)</b> = <i>lat</i>. Patavium (<i>auj</i>. Padova, Padoue) <i>v. de Vénétie,</i> PLUT. <i>Cæs. 47, etc</i>.`

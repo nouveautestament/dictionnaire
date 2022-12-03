@@ -1,1 +1,0 @@
-lar[49993]=`<b>Ἰτώνιαι πύλαι (αἱ)</b> porte d’Itôn, <i>à Athènes,</i> PLAT. <i>Ax. 364d</i>.<p><b>Étym</b>. Ἴτων.`

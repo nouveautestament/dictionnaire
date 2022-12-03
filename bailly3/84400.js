@@ -1,1 +1,0 @@
-lar[84400]=`(<i>seul. prés</i>.) demander l’aumône, mendier, ARCHIL. <i>130</i>.<p><b>Étym</b>. *προΐξ.`

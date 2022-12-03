@@ -1,1 +1,0 @@
-lar[19229]=`<b>βαρύ·χορδος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux sons (<i>litt</i>. aux cordes) graves, ANTH. <i>12, 187</i>.<p><b>Étym</b>. β. χορδή.`

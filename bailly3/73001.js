@@ -1,1 +1,0 @@
-lar[73001]=`<b>ου (τὸ)</b> pièce de bois pour écraser les olives, <i>sorte de pressoir,</i> ESCHL. <i>fr. 98 Dind.</i> ; MÉN. (<i>Com. fr. 4, 118).</i><p><b>Étym</b>. <i>cf</i>. εἴρω.`

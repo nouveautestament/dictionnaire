@@ -1,1 +1,0 @@
-lar[75478]=`<b>ος, ον</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> qu’on masse pour le replacer <i>ou</i> le déplacer, <i>en parl. d’un os,</i> HPC. <i>Fract. 763</i>.<br><b>      2</b> <i>t. de gr</i>. dérivé, DYSC. <i>Synt. 192, 8</i> ; EUST. <i>p. 1553, 35</i>.<p><b>Étym</b>. παράγω.`

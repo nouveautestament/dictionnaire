@@ -1,1 +1,0 @@
-lar[10053]=`il faut délivrer moyennant rançon, ARSTT. <i>Nic. 9, 2, 4</i>.<p><b>Étym</b>. *ἀντιλυτρόω, <i>de</i> ἀντίλυτρον.`

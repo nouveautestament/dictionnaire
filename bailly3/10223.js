@@ -1,1 +1,0 @@
-lar[10223]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> dénomination opposée, <i>t. d’arithm</i>. JAMBL. <i>Nicom. ar. 15d</i>.<p><b>Étym</b>. ἀντιπαρώνυμος.`

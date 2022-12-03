@@ -1,1 +1,0 @@
-lar[57104]=`<b>οπος (ὁ)</b> sauterelle, <i>mot thessal. d’Œta, c</i>. πάρνοψ, STR. 613.`

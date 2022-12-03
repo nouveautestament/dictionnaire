@@ -1,1 +1,0 @@
-lar[71180]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>mot du Pont, n. de la plante</i> χαμαίπιτυς, APD. (ATH. <i>681d</i>) ; DIOSC. <i>3, 175</i>.`

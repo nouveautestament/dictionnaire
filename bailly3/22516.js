@@ -1,1 +1,0 @@
-lar[22516]=`<b>ου (ὁ)</b> Gordios, <i>h</i>. PLUT. <i>Syll. 5</i> ; APP. DC. <i>etc</i>.`

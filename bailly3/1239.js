@@ -1,1 +1,0 @@
-lar[1239]=`<b>ἀδελφο·κτόνος, ος, ον</b> <font color="purple">[ᾰ]</font> meurtrier d’un frère <i>ou</i> d’une sœur, fratricide, PLUT. <i>M. 256f ;</i> SPT. <i>Sap. 10, 3, etc. ; cf</i>. ἀδελφεοκτόνος.<p><b>Étym</b>. ἀδ. κτείνω.`

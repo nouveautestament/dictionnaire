@@ -1,1 +1,0 @@
-lar[8790]=`<b>ῶνος (ὁ) :<br>      1</b> dessous du menton, menton, IL. <i>1, 501 ; 5, 293</i> ; HPC. <i>280, 1</i> ; NIC. <i>Th. 444 ; d’où</i> cou, gorge, EUPH. (STOB. <i>Fl. 78, 5</i>).<br><b>      2</b> bouche, NONN. <i>D. 3, 247</i>.`

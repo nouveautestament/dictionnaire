@@ -1,1 +1,0 @@
-lar[77902]=`<b>ή, όν</b>, de domestique, de mercenaire, PLAT. <i>Leg. 776d</i>.<p><b>Étym</b>. πενέστης.`

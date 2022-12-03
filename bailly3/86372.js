@@ -1,1 +1,0 @@
-lar[86372]=`<b>προσ·πυνθάνομαι</b> <font color="darkgreen">(<i>f</i>. προσπεύσομαι, <i>ao.2</i> προσεπυθόμην, <i>etc</i>.)</font> interroger en outre, ARSTT. <i>Soph. el. 13, 3</i> ; POL. <i>15, 16, 3</i> ; PLUT. <i>Alex. 60</i> ; MACH. (ATH. <i>349a</i>), <i>etc</i>.`

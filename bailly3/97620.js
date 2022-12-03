@@ -1,1 +1,0 @@
-lar[97620]=`<b>ης (ἡ)</b> <font color="purple">[βά]</font> Taprobanè (<i>auj</i>. Sri Lanka) <i>î. de la mer des Indes,</i> STR. <i>72, 690</i> ; EL. <i>N.A. 16, 18, etc</i>.`

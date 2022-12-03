@@ -1,1 +1,0 @@
-lar[37092]=`<b>ἐπ·ενθρῴσκω</b> (<i>part. ao.2</i> ἐπενθορών) s’élancer sur <i>ou</i> contre, <i>dat</i>. ESCHL. <i>Pers. 359</i> ; ἐπί <i>et acc</i>. SOPH. <i>O.R. 469</i>.`

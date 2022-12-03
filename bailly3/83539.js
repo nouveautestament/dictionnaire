@@ -1,1 +1,0 @@
-lar[83539]=`<b>προ·αναγγέλλω</b>, proclamer auparavant, CHRYS.`

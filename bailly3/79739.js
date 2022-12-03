@@ -1,1 +1,0 @@
-lar[79739]=`<b>ης (ἡ)</b> = <i>lat</i>. perna, jambon, STR. <i>162</i> ; ATH. <i>657e</i>.`

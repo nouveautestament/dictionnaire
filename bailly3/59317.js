@@ -1,1 +1,0 @@
-lar[59317]=`<b>(ἡ)</b> Labda, <i>fille d’Amphion, mère de Kypsélos,</i> HDT. <i>5, 92</i>.`

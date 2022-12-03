@@ -1,1 +1,0 @@
-lar[3129]=`<b>ης, ες</b> <font color="purple">[ᾰκ]</font><br><b>   I</b> <i>au pr.</i> :<br><b>      1</b> couvert d’épines, de ronces, HDT. <i>1, 126</i>.<br><b>      2</b> couvert de piquants, ARSTT. <i>H.A. 2, 10, 2 ; etc.</i><br><b>   II</b> <i>fig</i>. épineux, LUC. <i>D. mort. 10, 8</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>H.A. 3, 7</i>.<p><b>Étym</b>. ἄκ. -ωδης.`

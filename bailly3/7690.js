@@ -1,1 +1,0 @@
-lar[7690]=`<b>εως (ἡ)</b> érection sur une colonne, PTOL. (PHOT. <i>Bibl. 190</i>).`

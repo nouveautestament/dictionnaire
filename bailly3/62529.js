@@ -1,1 +1,0 @@
-lar[62529]=`<b>μακρό·κωλος, ος, ον</b>, aux membres longs, <i>particul</i>. aux longues jambes, GEOP. <i>19, 2, 1 ; fig. en parl. d’une fronde à longue corde ou à longue portée,</i> STR. <i>168 ; en parl. des membres d’une période,</i> ARSTT. <i>Rhet. 3, 9, 6</i>.<p><b>Étym</b>. μ. κῶλον.`

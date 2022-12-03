@@ -1,1 +1,0 @@
-lar[48954]=`<b>ἱμαντ·ελίκτης, ου (ὁ)</b> <font color="purple">[ῐμ]</font> qui enroule des cordes, <i>càd</i>. qui fait des raisonnements embrouillés, DÉMOCR. (PLUT. <i>614e</i>) ; CLÉM. <i>328</i>.<p><b>Étym</b>. ἱμάς, ἑλίσσω.`

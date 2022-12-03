@@ -1,1 +1,0 @@
-lar[57052]=`<i>mieux que</i> <b>Κορησσός, οῦ (ὁ)</b> Korèsos, <i>mt. près d’Éphèse,</i> HDT. <i>5, 100</i> ; XÉN. <i>Hell. 1, 2, 7</i>.<p>➳ Κορησός (<i>non</i> Κορησσός) <i>d’après le dérivé</i> Κορήσιοι, CIA. <i>1, 229, 9b</i> (<i>451 av. J.-C.) etc. ; v. Meisterh. p. 75, 12</i>.`

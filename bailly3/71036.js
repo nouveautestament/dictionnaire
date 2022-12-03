@@ -1,1 +1,0 @@
-lar[71036]=`<b>ὀλιγο·ποιέω-ῶ</b> <font color="purple">[ῐ]</font> réduire à un petit nombre, SPT. <i>Sir. 48, 2</i>.<p><b>Étym</b>. ὀλ. ποιέω.`

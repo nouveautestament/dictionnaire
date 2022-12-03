@@ -1,1 +1,0 @@
-lar[67102]=`<b>ων (οἱ)</b> les Mykes, <i>pple de Perse,</i> HDT. <i>3, 93 ; 7, 68</i>.`

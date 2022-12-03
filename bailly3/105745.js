@@ -1,1 +1,0 @@
-lar[105745]=`<b>φιλο·δέμνιος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime les plaisirs du lit, <i>càd</i>. du mariage, OPP. <i>C. 1, 161</i>.<p><b>Étym</b>. φ. δέμνιον.`

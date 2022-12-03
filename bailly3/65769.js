@@ -1,1 +1,0 @@
-lar[65769]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> petitesse d’âme <i>ou</i> de caractère, bassesse de sentiments, ISOCR. <i>133c ;</i> DÉM. <i>319, 5 ; 401, 18</i> ; ARSTT. <i>Rhet. 1, 9, 2 ; 2, 15, 1, etc</i>.<p><b>Étym</b>. μικρόψυχος.`

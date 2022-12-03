@@ -1,1 +1,0 @@
-lar[104752]=`<b>ης (ἡ)</b> <font color="purple">[ᾱ]</font> baleine, LYC. <i>84, 394 ; cf</i>. φάλαινα.`

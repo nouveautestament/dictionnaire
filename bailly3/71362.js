@@ -1,1 +1,0 @@
-lar[71362]=`<b>ὅμ·ευνος, ος, ον</b>, qui partage sa couche avec un autre, époux, épouse, NIC. <i>Th. 131</i> ; ANTH. <i>7, 735</i> ; MAN. <i>3, 148, etc</i>.<p><b>Étym</b>. ὁμός, εὐνή.`

@@ -1,1 +1,0 @@
-lar[94295]=`<b>συμ·πνέω</b>, souffler <i>ou</i> respirer avec, <i>dat</i>. ANTH. <i>7, 595</i> ; M. ANT. <i>8, 54 ; d’où fig</i>. être animé des mêmes sentiments, être d’accord avec, <i>dat</i>. ESCHL. <i>Ag. 187</i> ; PLAT. <i>Leg. 708d ; abs</i>. DÉM. <i>284, 17</i> ; ARSTT. <i>Pol. 5, 3, 11</i> ; εἴς τι, EL. <i>N.A. 3, 44,</i> unir ses efforts, conspirer vers un même but.`

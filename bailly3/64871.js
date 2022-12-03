@@ -1,1 +1,0 @@
-lar[64871]=`<b>μετ·ανθέω-ῶ</b>, perdre sa fraîcheur, se faner, PHILSTR. <i>779</i> ; ARISTÉN. <i>1, 11</i>.`

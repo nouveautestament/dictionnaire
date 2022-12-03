@@ -1,1 +1,0 @@
-lar[79428]=`<b>ου (ὁ)</b> coulisse <i>ou</i> tirant d’un filet, XÉN. <i>Cyn. 2, 6</i>.<p><b>Étym</b>. περιστρέφω ; <i>cf</i>. περίδρομος.`

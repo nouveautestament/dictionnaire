@@ -1,1 +1,0 @@
-lar[17960]=`<b>(τὸ)</b> <font color="purple">[ᾰ]</font> (<i>seul. nom. et acc. sg. dans Hom</i>.) richesse, biens, abondance, IL. <i>23, 299</i> ; OD. <i>14, 99 ; joint à</i> πλοῦτος, IL. <i>1, 171</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *h₂b<sup>h</sup>en-, riche ; <i>v</i>. ἄφενος² <i>et</i> ἄφνος, ἀφνειός, ἀφνεός.`

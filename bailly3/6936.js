@@ -1,1 +1,0 @@
-lar[6936]=`<b>ἀνα·κλαίω</b>, <i>att</i>. <b>-κλάω</b> <font color="purple">[ᾱ]</font> <font color="darkgreen">(<i>ao</i>. ἀνέκλαυσα)</font> éclater en sanglots, HDT. <i>3, 14</i>.<br><b><i>Moy.</i></b> ἀν. τινί τι, SOPH. <i>Ph. 939, ou</i> τι πρός τινα, ANT. <i>119, 24,</i> exhaler auprès de qqn sa douleur de qqe ch.`

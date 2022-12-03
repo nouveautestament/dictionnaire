@@ -1,1 +1,0 @@
-lar[1205]=`<b>ἀ·δείμαντος, ος, ον :<br>      1</b> qui ne s’effraie pas, intrépide, PD. <i>I. 1, 12 ; N. 10, 17</i> ; ἀδ. ἐμαυτῆς, ESCHL. <i>Pers. 162,</i> sans crainte pour moi-même.<br><b>      2</b> où il n’y a rien à craindre, LUC. <i>Philops. 31</i>.<p><b>Étym</b>. ἀ, δειμαίνω.`

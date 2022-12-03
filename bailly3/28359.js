@@ -1,1 +1,0 @@
-lar[28359]=`<b>δυσ·εκπόρευτος, ος, ον</b> <font color="purple">[ῠ]</font> d’où l’on sort difficilement, JOS. <i>A.J. 13, 2, 4</i> ; PHIL. BYZ. <i>Bel. 79, 25</i>.<p><b>Étym</b>. δ. ἐκπορεύω.`

@@ -1,1 +1,0 @@
-lar[26836]=`<b>ου (τὸ)</b> petite sonde <i>ou</i> dioptre, ANTYLL. (ORIB. <i>3, 631 B.-Dar</i>.).<p><b>Étym</b>. <i>dim. de</i> διόπτρα.`

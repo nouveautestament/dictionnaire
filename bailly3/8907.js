@@ -1,1 +1,0 @@
-lar[8907]=`<b>ἀνθρακο·ποιΐα, ας (ἡ)</b> <font color="purple">[ᾰκ]</font> préparation du charbon, NYSS. <i>3, 937 Migne</i>.<p><b>Étym</b>. ἄνθραξ, ποιέω.`

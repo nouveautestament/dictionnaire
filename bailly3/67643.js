@@ -1,1 +1,0 @@
-lar[67643]=`<b>ῶνος (ἡ)</b> Narbôn (<i>auj</i>. Narbonne) <i>v. de Gaule,</i> PLUT. <i>Galb. 11, etc</i>.`

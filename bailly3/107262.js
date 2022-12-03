@@ -1,1 +1,0 @@
-lar[107262]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne l’art de la physiognomonie, SEXT. <i>P. 1, 85</i> ; ὁ Φ. livre sur la Physiognomonie, <i>ouvrage d’Antisthénès,</i> ATH. <i>656f ;</i> τὰ Φ. traité sur la Physiognomonie, <i>ouvrages d’Aristote et d’Adamantios</i>.<p><b>Étym</b>. φυσιογνώμων.`

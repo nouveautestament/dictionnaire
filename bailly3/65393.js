@@ -1,1 +1,0 @@
-lar[65393]=`<b>μηλό·καρπον, ου (τὸ)</b> sorte d’aristoloche, dont la fleur ressemble à une poire, DIOSC. <i>Noth. 3, 5</i>.<p><b>Étym</b>. μ. καρπός.`

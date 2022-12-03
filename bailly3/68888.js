@@ -1,1 +1,0 @@
-lar[68888]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les peuples nomades, de nomade, ARSTT. <i>Pol. 1, 8</i> ; POL. <i>8, 31, 7</i>.<p><b>Étym</b>. νομάς.`

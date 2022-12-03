@@ -1,1 +1,0 @@
-lar[97592]=`<b>ῶν (ὁ)</b> sorte de gros éléphants, EL. <i>N.A. 13, 8</i>.`

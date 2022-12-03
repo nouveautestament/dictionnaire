@@ -1,1 +1,0 @@
-lar[68788]=`<b>Νικό·στρατος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Nikostratos, <i>h</i>. THC. <i>3, 75</i> ; XÉN. <i>Hell. 2, 4, 6</i> ; PLAT. <i>Ap. 33e, etc</i>.<p><b>Étym</b>. νίκη, στρατός.`

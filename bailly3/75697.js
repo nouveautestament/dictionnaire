@@ -1,1 +1,0 @@
-lar[75697]=`<b>παρα·κατέχω</b> <font color="darkgreen">(<i>f</i>. -καθέξω, <i>ao.2</i> -κατέσχον, <i>etc</i>.)</font> retenir, arrêter, THC. <i>8, 93</i> ; POL. <i>1, 66, 5, etc. ; fig</i>. τὰς ὠδῖνας, DS. <i>4, 9,</i> calmer la douleur.`

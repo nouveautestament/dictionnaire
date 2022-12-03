@@ -1,1 +1,0 @@
-lar[11920]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> rude, dur, cruel, <i>en parl. de pers</i>. IL. <i>1, 340, etc.</i> ; OD. <i>18, 381, etc. ; en parl. de choses,</i> PLAT. <i>Phædr. 257b.</i><br><b>      2</b> indécent, obscène, AR. <i>Nub. 974</i>.<p>•<i> Cp</i>. ἀπηνέστερος, ADAM. <i>Physiogn. 2, 31. • Sup</i>. ἀπηνέστατος, EL. <i>N.A. 3, 26, etc</i>.`

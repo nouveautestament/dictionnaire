@@ -1,1 +1,0 @@
-lar[73768]=`<i>ou mieux</i> <b>οὔ τί πη</b>, en aucune manière, HÉS. <i>O. 105</i>.<p>➳ <i>Dor</i>. οὔτι πᾳ, <i>ou mieux</i> οὔ τί πᾳ, THCR. <i>Idyl. 1, 63</i> ; οὐδέ τί πᾳ, THCR. <i>Idyl. 11, 28</i>.`

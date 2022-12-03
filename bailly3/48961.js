@@ -1,1 +1,0 @@
-lar[48961]=`<b>εως (ἡ)</b> <font color="purple">[ῐμ]</font><br><b>      1</b> action de relier, au moyen de charpentes, les parties d’une maçonnerie, SPT. <i>Sir. 22, 16</i>.<br><b>      2</b> affection de la luette (<i>v</i>. ἱμάς) AÉT. <i>8, 43</i>.<p><b>Étym</b>. ἱμαντόω.`

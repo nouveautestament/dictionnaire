@@ -1,1 +1,0 @@
-lar[24773]=`<b>δια·κιρνάω-ῶ</b>, mêler avec soin : τί τινι, HPC. <i>361, 1</i> ; τι ἔν τινι, HPC. <i>557, 9</i> ; une chose dans une autre.`

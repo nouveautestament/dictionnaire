@@ -1,1 +1,0 @@
-lar[56753]=`<b>ή, όν</b>, de Colchide, HDT. <i>2, 105</i> ; ἡ Κ. (<i>s.-e</i>. χώρα) PLUT. <i>Pomp. 34,</i> la Colchide ; <i>v</i>. Κολχίς.<p><b>Étym</b>. Κόλχος.`

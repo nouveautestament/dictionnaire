@@ -1,1 +1,0 @@
-lar[81526]=`<b>πολεμό·κραντος, ος, ον</b>, qui termine la guerre, ESCHL. <i>Sept. 161</i>.<p><b>Étym</b>. π. κραίνω.`

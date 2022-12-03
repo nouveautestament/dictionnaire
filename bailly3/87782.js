@@ -1,1 +1,0 @@
-lar[87782]=`<b>πυργο·δάϊκτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui détruit les tours, ESCHL. <i>Pers. 105</i>.<p><b>Étym</b>. π. δαΐζω.`

@@ -1,1 +1,0 @@
-lar[10754]=`<b>ἀν·υπόδητος, ος, ον</b>, qui va pieds nus, AR. <i>Nub. 103</i> ; XÉN. <i>Mem. 1, 6, 2, etc.</i> ; PLAT. <i>Prot. 321c, etc</i>.<p>➳ <i>Dor</i>. ἀνυπόδατος <font color="purple">[δᾱ]</font> THCR. <i>Idyl. 14, 6</i>.<p><b>Étym</b>. ἀν-, ὑποδέω.`

@@ -1,1 +1,0 @@
-lar[90637]=`<b>ος, ον</b> <font color="purple">[κᾰ]</font> du Scamandre, IL. <i>2, 465 ; 7, 5</i> ; SOPH. <i>Aj. 419, etc</i>.<p><b>Étym</b>. Σκάμανδρος.`

@@ -1,1 +1,0 @@
-lar[95215]=`<b>συν·δουλαγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> emmener ensemble <i>ou</i> en même temps en esclavage, EUM. <i>4, p. 134</i>.`

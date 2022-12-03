@@ -1,1 +1,0 @@
-lar[91872]=`<b>ή, όν :<br>      1</b> rapide, impétueux, HÉS. <i>Sc. 454</i> ; ESCHL. <i>Sept. 285</i>.<br><b>      2</b> violent, <i>en parl. de souffrances,</i> HPC. <i>483, 48, etc</i>.<p><b>Étym</b>. σπέρχω.`

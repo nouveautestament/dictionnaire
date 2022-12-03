@@ -1,1 +1,0 @@
-lar[72187]=`<b>ὀξύ·φαγρος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> sorte de poisson de mer, OPP. <i>H. 1, 140</i>.<p><b>Étym</b>. ὀ. φάγρος.`

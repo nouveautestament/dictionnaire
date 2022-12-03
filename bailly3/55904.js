@@ -1,1 +1,0 @@
-lar[55904]=`<b>Κλεο·μένης, ους (ὁ)</b> Kléoménès, <i>n. de plus. rois de Sparte,</i> HDT. <i>3, 148, etc</i>.<p>➳ <i>Voc</i>. -μενες, HDT. <i>5, 49, etc. ; gén. ion</i>. -μένεος, HDT. <i>5, 49 ; dat. ion</i>. -εϊ, HDT. <i>3, 148 ; acc</i>. -η, PLUT. <i>Cleom. 2, 39, etc. ; ou</i> -ην, PLUT. <i>Cleom. 35, etc. ; ion</i>. -εα, HDT. <i>5, 41</i>.<p><b>Étym</b>. κλ. μένος.`

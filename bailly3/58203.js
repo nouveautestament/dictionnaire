@@ -1,1 +1,0 @@
-lar[58203]=`<b>κρύψ·ορχις, εως</b>, <i>adj. m</i>. dont les testicules sont restés cachés, GAL. <i>2, 276</i>.<p><b>Étym</b>. κρύπτω, ὄρχις.`

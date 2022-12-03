@@ -1,1 +1,0 @@
-lar[24813]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> sorte de gâteau, PHÉRÉCR. (ATH. <i>645a</i>).`

@@ -1,1 +1,0 @@
-lar[51441]=`<b>κάμ·μορος, ος, ον</b>, malheureux, OD. <i>11, 216, etc</i>.<p><b>Étym</b>. <i>par sync. et assimil. p</i>. κατάμορος.`

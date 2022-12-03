@@ -1,1 +1,0 @@
-lar[58037]=`<font color="purple">[ῠ]</font> arracher des brins de fil <i>ou</i> des flocons de laine d’un tissu, d’une couverture, <i>comme font souvent les mourants,</i> PHILYLL. (POLL. <i>7, 29</i>) ; ARÉT. <i>p. 73, 5</i>.<p><b>Étym</b>. κροκύς.`

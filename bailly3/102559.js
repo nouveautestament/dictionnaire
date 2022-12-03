@@ -1,1 +1,0 @@
-lar[102559]=`<b>εως (ἡ)</b> <font color="purple">[ρῐ]</font> purgation excessive, HPC. <i>424, 10</i>.<p><b>Étym</b>. ὑπερινάω.`

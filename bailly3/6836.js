@@ -1,1 +1,0 @@
-lar[6836]=`<b>ἀν·αίμακτος, ος, ον :<br>      1</b> non sanglant, EUR. <i>Rhes. 222, etc.</i><br><b>      2</b> qui n’est pas le châtiment d’un meurtre, ESCHL. <i>Suppl. 196</i>.<br><b>      3</b> non sanguinolent, ARÉT. <i>p. 115, 24</i>.<p><b>Étym</b>. ἀν-, αἱμάσσω.`

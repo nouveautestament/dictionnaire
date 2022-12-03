@@ -1,1 +1,0 @@
-lar[8371]=`<b>ας (ἡ)</b> <font color="purple">[ξᾰπᾰ]</font> infaillibilité, ARR. <i>Epict. 3, 2, 2</i>.`

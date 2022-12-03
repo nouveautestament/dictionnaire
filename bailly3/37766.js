@@ -1,1 +1,0 @@
-lar[37766]=`<b>ἐπι·θαλάμιος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> nuptial, LUC. <i>Salt. 44</i> ; ἐπ. ᾠδή, DH. <i>Rhet. 4, 1,</i> chant nuptial ; <i>subst</i>. ὁ ἐπ. (<i>s.-e</i>. ὕμνος) THCR. <i>Idyl. 18</i> ; LUC. <i>Conv. 40</i> ; HIM. <i>Or. 1</i> ; τὸ ἐπιθαλάμιον, LUC. <i>2, 294 ; 3, 445 Reitz,</i> chant nuptial, épithalame.<p><b>Étym</b>. ἐπί, θάλαμος.`

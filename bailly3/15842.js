@@ -1,1 +1,0 @@
-lar[15842]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Asiatique, E. BYZ.<p>➳ <i>Acc. ion</i>. Ἀσιήταν, EUR. <i>I.T. 180</i>.<p><b>Étym</b>. Ἀσία.`

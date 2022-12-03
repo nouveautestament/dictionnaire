@@ -1,1 +1,0 @@
-lar[109717]=`<b>ψευδό·πατρις, ιδος (ὁ, ἡ)</b> qui se prétend faussement originaire d’un pays, SIB. <i>3, 420</i>.<p><b>Étym</b>. ψ. πατρίς.`

@@ -1,1 +1,0 @@
-lar[102452]=`<b>ὑπέρεξις, εως (ἡ)</b> excès (de longueur, de largeur, <i>etc</i>.) PLAT. <i>Tim. 78e</i>.<p><b>Étym</b>. ὑπερέχω.`

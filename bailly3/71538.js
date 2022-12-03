@@ -1,1 +1,0 @@
-lar[71538]=`<b>ὁμοιο·πλατής, ής, ές</b> <font color="purple">[ᾰ]</font> de même largeur, ORIB. <i>p. 112 Mai</i>.<p><b>Étym</b>. ὅμ. πλάτος.`

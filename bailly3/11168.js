@@ -1,1 +1,0 @@
-lar[11168]=`<b>εως (ἡ)</b> action de repousser, de se défendre, CLÉM. <i>234, 1</i>.<p><b>Étym</b>. ἀπαλέξω.`

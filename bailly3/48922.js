@@ -1,1 +1,0 @@
-lar[48922]=`<b>ου (ἡ)</b> <font color="purple">[ῑλ]</font> Ilios <i>ou</i> Ilion, <i>anc. n. de Troie,</i> IL. <i>4, 46, etc.</i> ; OD. <i>17, 290</i> ; EUR. <i>Andr. 103, etc.</i> ; DH. <i>1, 63</i> ; LUC. <i>D. deor. 20, 16, etc</i>.<p><b>Étym</b>. <i>emprunt à une langue anatolienne, cf. hittite</i> Wiluša, <i>toponyme ; cf</i>. Ἴλιον.`

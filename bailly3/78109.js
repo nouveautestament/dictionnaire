@@ -1,1 +1,0 @@
-lar[78109]=`<b>πεντε·τάλαντος, ος, ον</b> <font color="purple">[τᾰ]</font> <i>c</i>. πεντατάλαντος, DÉM. <i>329, 16, etc.</i> ; π. δίκη, AR. <i>Nub. 758, 774,</i> procès en recouvrement de cinq talents.`

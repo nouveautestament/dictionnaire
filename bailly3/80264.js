@@ -1,1 +1,0 @@
-lar[80264]=`<b>ίδος (ἡ)</b> <i>s.-e</i>. χώρα, PLUT. <i>Marc. 4 ; Crass. 10, Pomp. 6,</i> le Picenum, <i>contrée d’Italie</i>.<p><b>Étym</b>. <i>lat</i>. Picenum.`

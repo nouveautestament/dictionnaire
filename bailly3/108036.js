@@ -1,1 +1,0 @@
-lar[108036]=`<i>adv</i>., d’une manière lâche, sans être serré, HDN <i>4, 15, 9</i>.<p><b>Étym</b>. χαῦνος.`

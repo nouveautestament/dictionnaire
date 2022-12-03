@@ -1,1 +1,0 @@
-lar[78374]=`<b>περιαλλό·καυλος, ος, ον</b>, qui enroule sa tige autour des plantes voisines, TH. <i>H.P. 7, 8, 1</i>.<p><b>Étym</b>. περίαλλος, καυλός.`

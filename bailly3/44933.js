@@ -1,1 +1,0 @@
-lar[44933]=`<b>οῦ (ὁ)</b> conducteur, ESCHL. <i>Suppl. 239</i>.<p><b>Étym</b>. ἡγέομαι.`

@@ -1,1 +1,0 @@
-lar[35379]=`<b>ἐξαλειπτέον</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> ἐξαλείφω, LYS. <i>104, 4</i>.`

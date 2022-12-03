@@ -1,1 +1,0 @@
-lar[68971]=`rendre malade, <i>d’où, au pass</i>. devenir malade, ARSTT. <i>Phys. 5, 5, 5</i>.<p><b>Étym</b>. νόσος.`

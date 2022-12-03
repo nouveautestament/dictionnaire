@@ -1,1 +1,0 @@
-lar[17251]=`<b>ός, όν</b>, qui peut s’accroître, ARSTT. <i>Cæl. 4, 3, 2, etc</i>.<p><b>Étym</b>. αὐξάνω.`

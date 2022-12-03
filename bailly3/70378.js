@@ -1,1 +1,0 @@
-lar[70378]=`<i>ou mieux</i> <b>οἰκοδεσποτία, ας (ἡ)</b> <i>t. d’astrol</i>. influence dominante d’un astre, PROCL. <i>Ptol. p. 57, etc</i>.<p><b>Étym</b>. οἰκοδεσπότης.`

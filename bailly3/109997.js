@@ -1,1 +1,0 @@
-lar[109997]=`<b>ψυχουλκέομαι-οῦμαι</b>, être à son dernier soupir (<i>litt</i>. tirer péniblement son souffle) SPT. <i>3Macc. 5:25</i>.<p><b>Étym</b>. ψ. ἕλκω.`

@@ -1,1 +1,0 @@
-lar[102496]=`<b>ὑπερ·ῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font> qui a passé l’âge de la jeunesse, LUC. <i>Am. 10</i> ; APP. <i>Lib. 114</i>.<p>•<i> Cp</i>. ὑπερηλικέστερος, OCELL. <i>p. 533</i>.<p><b>Étym</b>. ὑ. ἧλιξ.`

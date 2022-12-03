@@ -1,1 +1,0 @@
-lar[100618]=`<b>η, ον</b> <font color="purple">[ῐῐ]</font> fait de crin <i>ou</i> de poils, XÉN. <i>An. 4, 8, 3</i> ; PLAT. <i>Pol. 279e</i>.<p><b>Étym</b>. θρίξ.`

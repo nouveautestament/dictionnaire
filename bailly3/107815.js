@@ -1,1 +1,0 @@
-lar[107815]=`<b>χαμ·εύνης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m. c</i>. χάμευνος, STR. <i>227</i> ; M. TYR. <i>8</i>.`

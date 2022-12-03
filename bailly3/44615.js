@@ -1,1 +1,0 @@
-lar[44615]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> marteau, <i>poisson,</i> ARSTT. <i>H.A. 2, 16</i>.`

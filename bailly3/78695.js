@@ -1,1 +1,0 @@
-lar[78695]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> purification, expiation, SPT. <i>Prov. 21, 18</i>.<br><b>      2</b> objet de purification, NT. <i>1Cor. 4, 13 ; d’où</i> homme <i>ou</i> être impur, ARR. <i>Epict. 3, 22, 78</i>.<p><b>Étym</b>. περικαθαίρω.`

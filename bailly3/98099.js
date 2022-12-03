@@ -1,1 +1,0 @@
-lar[98099]=`<b>ας (ἡ)</b> art du charpentier <i>ou</i> du menuisier, TH. <i>H.P. 5, 7, 6</i> ; ANTH. <i>15, 14</i>.<p>➳ <i>Ion</i>. -ίη, ANTH. <i>l. c</i>.<p><b>Étym</b>. τέκτων.`

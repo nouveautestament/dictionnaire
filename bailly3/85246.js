@@ -1,1 +1,0 @@
-lar[85246]=`<b>προσ·αποκρίνομαι</b> <font color="purple">[ῑ]</font> répondre en outre <i>ou</i> au delà (de ce qu’on demande) PLAT. <i>Euthyd. 296a ;</i> ARSTT. <i>Soph. el. 17, 4</i>.`

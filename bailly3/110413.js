@@ -1,1 +1,0 @@
-lar[110413]=`avoir <i>ou</i> prendre soin de, protéger, <i>acc</i>. HÉS. <i>Th. 903 ; au pass</i>. CORN. <i>N.D. 29</i>.<p><b>Étym</b>. ὤρα.`

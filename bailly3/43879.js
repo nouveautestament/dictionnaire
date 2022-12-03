@@ -1,1 +1,0 @@
-lar[43879]=`<b>εὐ·ώψ</b>, <i>gén</i>. <b>ῶπος (ὁ, ἡ) :<br>      1</b> agréable à voir, SOPH. <i>Ant. 530</i> ; LYC. <i>23</i>.<br><b>      2</b> <i>p. ext</i>. agréable <i>en gén</i>. SOPH. <i>O.R. 189</i>.<p><b>Étym</b>. εὖ, ὤψ.`

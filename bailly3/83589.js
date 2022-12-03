@@ -1,1 +1,0 @@
-lar[83589]=`<b>προ·αναφυσάω-ῶ</b> <font color="purple">[ῡ]</font> préluder sur la flûte, PLAT. COM. (ATH. <i>665c, conj</i>.).`

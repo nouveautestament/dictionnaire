@@ -1,1 +1,0 @@
-lar[109787]=`<b>ης (ἡ)</b> plie <i>ou</i> barbue, <i>sorte de poisson plat,</i> AR. <i>Lys. 115, 131</i> ; PLAT. <i>Conv. 191d ;</i> AMIPS. (ATH. <i>271a</i>) ; ARSTT. <i>H.A. 4, 11 ; 5, 9</i> ; ψ. χονδροφυής, MATR. (ATH. <i>135b</i>) ; <i>fig</i>. sot, niais, PLAT. COM. (SCH.-AR. <i>Nub. 108</i>).`

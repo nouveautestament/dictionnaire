@@ -1,1 +1,0 @@
-lar[32419]=`<b>ἐκ·χωνεύω</b>, fondre une monnaie, <i>etc</i>. DC. <i>68, 15</i>.`

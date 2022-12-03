@@ -1,1 +1,0 @@
-lar[35106]=`<b>ας (ἡ)</b> emboîtement (à tenons et mortaises) HÉRON <i>Bel. 20</i>.<p><b>Étym</b>. ἐν, τόρμος.`

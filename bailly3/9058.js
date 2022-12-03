@@ -1,1 +1,0 @@
-lar[9058]=`<font color="purple">[ᾰῑῑ]</font> <i>adv</i>., sans sueur, HPC. <i>Prorrh. 72</i> ; XÉN. <i>Cyr. 2, 1, 29 ; d’où</i> sans peine, IL. <i>15, 228</i> ; XÉN. <i>Cyr. 2, 2, 30 ; Œc. 21, 3</i>.<p><b>Étym</b>. ἀνίδρωτος.`

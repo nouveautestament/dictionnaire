@@ -1,1 +1,0 @@
-lar[101470]=`<b>ὑδατοπωτέω-ῶ</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. ὑδατοποτέω, CRAT. (POLL. <i>4, 184</i>).`

@@ -1,1 +1,0 @@
-lar[48232]=`<b>ῶν (οἱ)</b> <font color="purple">[ῑᾰῐ]</font> les Iamides, descendants d’Iamos, PD. <i>O. 6, 120</i> ; HDT. <i>5, 44 ; 9, 33</i>.`

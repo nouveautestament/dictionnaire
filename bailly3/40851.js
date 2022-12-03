@@ -1,1 +1,0 @@
-lar[40851]=`<b>ῆρος</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. qui tire, NIC. <i>Al. 363</i>.<p><b>Étym</b>. ἐρύω.`

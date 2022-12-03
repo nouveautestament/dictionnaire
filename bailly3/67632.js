@@ -1,1 +1,0 @@
-lar[67632]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> rempli de vallons, boisé, SOPH. <i>O.R. 1026</i> ; EUR. <i>H.f. 958</i>.<br><b>      2</b> qui réside dans les vallons boisés, EL. <i>N.A. 6, 42, etc</i>.<p><b>Étym</b>. νάπη.`

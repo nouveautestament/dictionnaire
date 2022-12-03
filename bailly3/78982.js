@@ -1,1 +1,0 @@
-lar[78982]=`<b>περί·ξηρος, ος, ον</b>, desséché, tout à fait sec, TH. <i>Ign. 41</i> ; GEOP. <i>2, 13</i> ; τὸ π. ARSTT. <i>G.A. 2, 3, 19,</i> croûte.<p><b>Étym</b>. π. ξηρός.`

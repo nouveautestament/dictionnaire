@@ -1,1 +1,0 @@
-lar[32070]=`<b>ἐκ·συρίζω</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao</i>. ἐξεσύρισα)</font> siffler avec force, <i>en parl. d’un serpent,</i> DC. <i>51, 17</i>.`

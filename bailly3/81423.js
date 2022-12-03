@@ -1,1 +1,0 @@
-lar[81423]=`<b>εως (ἡ)</b> action de varier, de diversifier, PLAT. <i>Leg. 747a</i>.<p><b>Étym</b>. ποικίλλω.`

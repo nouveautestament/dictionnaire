@@ -1,1 +1,0 @@
-lar[5445]=`<b>ἀ·μεμψίμοιρος, ος, ον</b> <font color="purple">[ῐ]</font> qui ne se plaint pas de son sort, TÉLÈS (STOB. <i>Fl. 108, 83</i>) ; M. ANT. <i>5, 5</i>.`

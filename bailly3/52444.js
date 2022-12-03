@@ -1,1 +1,0 @@
-lar[52444]=`<b>κατ·αιθαλόω-ῶ</b> <font color="purple">[θᾰ]</font><br><b>      1</b> noircir de fumée, de suie, <i>acc</i>. LUC. <i>D. deor. 5, 4</i>.<br><b>      2</b> réduire en fumée, en cendres, <i>acc</i>. ESCHL. (AR. <i>Av. 1248</i>) ; EUR. <i>Suppl. 640</i>.`

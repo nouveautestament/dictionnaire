@@ -1,1 +1,0 @@
-lar[24143]=`<b>εως (ἡ)</b> dommage, mal causé par des malfaiteurs, HDT. <i>1, 41 ; en gén</i>. HDT. <i>4, 112</i> ; TH. <i>H.P. 7, 13, 4</i>.<p><b>Étym</b>. δηλέομαι.`

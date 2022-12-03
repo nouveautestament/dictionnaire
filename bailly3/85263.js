@@ -1,1 +1,0 @@
-lar[85263]=`<b>προσ·απορραίνω</b>, arroser, <i>d’où</i> saillir en outre, <i>gén</i>. EL. <i>N.A. 9, 63</i>.`

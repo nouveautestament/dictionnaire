@@ -1,1 +1,0 @@
-lar[52158]=`<b>κατα·βληχάομαι-ῶμαι</b>, bêler fortement, THCR. <i>Idyl. 5, 42</i>.`

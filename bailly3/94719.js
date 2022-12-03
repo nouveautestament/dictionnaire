@@ -1,1 +1,0 @@
-lar[94719]=`<b>συν·ανακουφίζω</b>, aider en allégeant, RHÉT. <i>1, 470 W</i>.`

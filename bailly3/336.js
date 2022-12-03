@@ -1,1 +1,0 @@
-lar[336]=`<font color="purple">[ᾰᾰν]</font> <i>adv</i>., avec irritation, M. ANT. <i>11, 13</i>.`

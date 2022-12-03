@@ -1,1 +1,0 @@
-lar[12854]=`<b>ου (ὁ)</b> qui essuie en frottant, SOPH. <i>fr. 32</i>.<p><b>Étym</b>. ἀπομάσσω.`

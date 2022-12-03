@@ -1,1 +1,0 @@
-lar[91365]=`<b>η, ον</b> <font color="purple">[ῡῐ]</font> fait de cuir, (vêtement, casque, barque, <i>etc</i>.) HDT. <i>7, 71 ; 4, 189, etc.</i> ; XÉN. <i>An. 5, 4, 13</i> ; AR. <i>Nub. 880, etc.</i> ; σκυτίνη ἐπικουρία, AR. <i>Lys. 110, c</i>. ὄλισβος ; <i>fig</i>. desséché, maigre, ANTIPH. (ATH. <i>565f</i>) ; ANTH. <i>11, 361</i>.<p><b>Étym</b>. σκῦτος.`

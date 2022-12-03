@@ -1,1 +1,0 @@
-lar[16039]=`<b>ἀσπιδη·φόρος, ος, ον</b> <font color="purple">[ῐ]</font> qui porte un bouclier, ESCHL. <i>Sept. 19</i> ; EUR. <i>Suppl. 390</i>.<p><b>Étym</b>. ἀσπίς, φέρω.`

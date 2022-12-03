@@ -1,1 +1,0 @@
-lar[57138]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> transport <i>ou</i> délire de Corybante, DH. <i>2, 19</i> ; LGN <i>39, 2</i>.<br><b>      2</b> <i>p. ext</i>. transport, délire, ARÉT.<p><b>Étym</b>. κορυβαντιάω.`

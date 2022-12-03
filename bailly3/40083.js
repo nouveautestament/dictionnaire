@@ -1,1 +1,0 @@
-lar[40083]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> ἐπωμίς, APP. <i>1, 819 Schweigh</i>.`

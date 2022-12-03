@@ -1,1 +1,0 @@
-lar[102914]=`<b>ας (ἡ)</b> <font color="purple">[δῠ]</font> douleur excessive <i>ou</i> très vive, ANON. (SUID. <i>v°</i> ἀκληρούντων).<p><b>Étym</b>. <i>cf</i>. ὑπερωδυνέω.`

@@ -1,1 +1,0 @@
-lar[16290]=`<b>ἀ·στρατεία, ας (ἡ)</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> dispense du service militaire, AR. <i>Pax 526</i>.<br><b>      2</b> abandon du service militaire, désertion, AR. <i>Eq. 443</i> ; PLAT. <i>Leg. 943d ;</i> DÉM. <i>999, 6 ; etc</i>.<p><b>Étym</b>. ἀ, στρατεία.`

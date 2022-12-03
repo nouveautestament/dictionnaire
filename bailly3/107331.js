@@ -1,1 +1,0 @@
-lar[107331]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> pépinière, DS. <i>2, 10</i>.<p><b>Étym</b>. φυτουργός.`

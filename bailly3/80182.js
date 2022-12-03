@@ -1,1 +1,0 @@
-lar[80182]=`<b>(ὁ)</b> <font color="purple">[ῑῡ]</font> Pidytès, <i>Troyen,</i> IL. <i>6, 30</i>.<p><b>Étym</b>. πιδύω.`

@@ -1,1 +1,0 @@
-lar[85664]=`<b>προσ·επιδαψιλεύομαι</b> <font color="purple">[ψῐ]</font> ajouter encore à sa libéralité : τι, PHIL. <i>2, 286</i> ; LIB. <i>4, 609, 24,</i> qqe ch. ; τινί, CHRYS. en faveur de qqn.`

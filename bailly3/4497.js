@@ -1,1 +1,0 @@
-lar[4497]=`<b>ἄ·λιμος, ος, ον</b> <font color="purple">[ᾰῑ]</font> qui apaise la faim, PLUT. <i>M. 157 d et f</i>.<p><b>Étym</b>. ἀ, λιμός.`

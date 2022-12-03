@@ -1,1 +1,0 @@
-lar[89216]=`<b>σαλπιγγο·λογχ·υπηνάδαι, ῶν (οἱ)</b> hommes à grandes barbes munis de trompettes et de lances, AR. <i>Ran. 966</i>.<p><b>Étym</b>. σάλπιγξ, λόγχη, ὑπήνη.`

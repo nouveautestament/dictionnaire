@@ -1,1 +1,0 @@
-lar[96727]=`<b>οῦ (ὁ)</b> qui joue à la balle avec un autre, PLAT. <i>Ep. 363d ;</i> ATH. <i>19a</i>.<p><b>Étym</b>. συσφαιρίζω.`

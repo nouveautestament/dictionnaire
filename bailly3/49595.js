@@ -1,1 +1,0 @@
-lar[49595]=`<b>ου (ἡ)</b> Ismaros, <i>v. de Thrace,</i> OD. <i>9, 40, 199</i>.`

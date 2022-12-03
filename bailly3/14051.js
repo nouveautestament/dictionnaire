@@ -1,1 +1,0 @@
-lar[14051]=`<b>ἀ·πύρηνος, ος, ον</b> <font color="purple">[ῡ]</font> sans noyau ferme, AR. (ATH. <i>650e</i>) ; TH. <i>H.P. 4, 13, 2</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Probl. 20, 24</i>.<p><b>Étym</b>. ἀ, πυρήν.`

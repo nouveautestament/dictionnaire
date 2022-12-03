@@ -1,1 +1,0 @@
-lar[50881]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> méchamment, par esprit d’intrigue, CHRYS. <i>6, 805, etc.</i><br><b>      2</b> sans art, grossièrement, PHIL. <i>1, 195</i>.`

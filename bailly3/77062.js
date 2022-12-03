@@ -1,1 +1,0 @@
-lar[77062]=`<i>adv</i>., presque semblablement, ARSTT. <i>Pol. 17, 2</i>.<p><b>Étym</b>. παρόμοιος.`

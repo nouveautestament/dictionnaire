@@ -1,1 +1,0 @@
-lar[16060]=`<b>ίδος (ἡ)</b> Aspis :<br><b>      1</b> <i>emplacement fortifié à Argos,</i> PLUT.<br><b>      2</b> <i>v. carthaginoise (lat</i>. Clypea) POL. STR. <i>etc</i>.`

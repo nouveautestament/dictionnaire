@@ -1,1 +1,0 @@
-lar[84388]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> qui fait partie de la dot, PHIL. <i>2, 443</i>.<p><b>Étym</b>. *προΐξ.`

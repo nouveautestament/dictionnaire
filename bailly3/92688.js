@@ -1,1 +1,0 @@
-lar[92688]=`<b>ης, ες</b>, élémentaire, ARSTT. <i>Gen. et corr. 1, 1, 15</i> ; DH. <i>Thuc. 22</i>.<p>•<i> Cp</i>. -έστερος, PLUT. <i>M. 1004a ; sup</i>. -έστατος, ARSTT. <i>Metaph. 1, 8, 3</i>.<p><b>Étym</b>. στοιχεῖον, -ωδης.`

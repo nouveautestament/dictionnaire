@@ -1,1 +1,0 @@
-lar[26343]=`<b>οῦ (ὁ)</b> Dizèros, <i>fl. d’Illyrie,</i> LYC. <i>1026</i>.`

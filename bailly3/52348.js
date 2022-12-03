@@ -1,1 +1,0 @@
-lar[52348]=`<b>κατα·δράσσομαι</b>, <i>att</i>. <b>-άττομαι</b>, s’emparer de, saisir, <i>acc</i>. DIOSC. <i>Ther. præf. p. 44</i> ; PROCL. <i>Plat. Tim. p. 269</i>.`

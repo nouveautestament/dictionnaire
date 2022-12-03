@@ -1,1 +1,0 @@
-lar[106411]=`<b>ίτιδος (ἡ)</b> <i>seul. lat</i>. phlogitis, <i>c</i>. φλογίτης PLIN. <i>H.N. 37, 11</i>.`

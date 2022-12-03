@@ -1,1 +1,0 @@
-lar[33706]=`<b>εως (ἡ)</b> action de se gorger de, usage immodéré, jouissance jusqu’à satiété, PLUT. <i>M. 472b</i>, ATH. <i>10b ; etc</i>.<p><b>Étym</b>. ἐμφορέω.`

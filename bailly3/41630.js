@@ -1,1 +1,0 @@
-lar[41630]=`<b>εὐ·απόπλυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> facile à laver, BAS. <i>1, 414</i>.<p><b>Étym</b>. εὖ, ἀποπλύνω.`

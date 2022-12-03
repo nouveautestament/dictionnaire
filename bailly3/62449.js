@@ -1,1 +1,0 @@
-lar[62449]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. μάκελλα, HÉS. <i>O. 468</i> ; THCR. <i>Idyl. 16, 32</i> ; A.RH. <i>4, 1533, etc</i>.`

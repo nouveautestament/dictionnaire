@@ -1,1 +1,0 @@
-lar[44676]=`<b>ου (ὁ)</b> esclave que l’on revêtait d’habits royaux à la fête Σακαῖα chez les Babyloniens, et qui devenait, pendant ce temps, le maître de la maison, BÉROS. (ATH. <i>639c</i>).`

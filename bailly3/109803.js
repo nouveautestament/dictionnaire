@@ -1,1 +1,0 @@
-lar[109803]=`<b>ψηφο·ειδής, ής, ές</b>, qui ressemble à un caillou, TH. <i>Lap. 47</i>.<p><b>Étym</b>. ψῆφος, εἶδος.`

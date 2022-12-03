@@ -1,1 +1,0 @@
-lar[15618]=`<b>ἀρχί·κλωψ, ωπος (ὁ)</b> chef de voleurs, PLUT. <i>Arat. 6</i>.<p><b>Étym</b>. <i>cf</i>. ἀρχιφώρ <i>et</i> ἀρχιλῃστής.`

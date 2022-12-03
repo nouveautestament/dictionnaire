@@ -1,1 +1,0 @@
-lar[53510]=`<b>ατος (τὸ)</b> incision, coupure, DIOSC. <i>Ther. præf</i>.<p><b>Étym</b>. κατασχάζω.`

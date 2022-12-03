@@ -1,1 +1,0 @@
-lar[39497]=`<b>ος, ον</b>, usé par le frottement, <i>d’où fig.</i> :<br><b>      1</b> rebattu, banal, SEXT. <i>M. 6, 14</i>.<br><b>      2</b> rompu au métier, <i>d’où</i> rusé, <i>en parl. du renard par allusion à Ulysse,</i> SOPH. <i>Aj. 103 ; en parl. de pers</i>. roué, coquin, AR. <i>Pl. 275, Ach. 557</i>.<p><b>Étym</b>. ἐπιτρίβω.`

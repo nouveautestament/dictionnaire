@@ -1,1 +1,0 @@
-lar[49718]=`<b>ἰσο·πληθής, ής, ές</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> égal en nombre à, THC. <i>6, 37 ; abs</i>. HPC. <i>462, 49</i> ; XÉN. <i>Ages. 2, 9</i>.<br><b>      2</b> égal en grandeur, EUCL.<p><b>Étym</b>. ἴ. πλῆθος.`

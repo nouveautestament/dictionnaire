@@ -1,1 +1,0 @@
-lar[98553]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰ]</font> jeunes gens qui se réunissaient à un banquet le quatre de chaque mois, ALEX. (ATH. <i>287f</i>).<p><b>Étym</b>. τετράς.`

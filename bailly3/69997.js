@@ -1,1 +1,0 @@
-lar[69997]=`<b>ου (ὁ)</b> Oaros, <i>fl. de Scythie,</i> HDT. <i>4, 123</i>.`

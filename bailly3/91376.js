@@ -1,1 +1,0 @@
-lar[91376]=`<b>σκυτοτομέω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1 <i>intr.</i></b> être cordonnier, AR. <i>Pl. 162, 514</i> ; PLAT. <i>Rsp. 454c, etc.</i><br><b>      2 <i>tr.</i></b> tailler dans le cuir, confectionner avec du cuir, <i>acc</i>. PLAT. <i>Charm. 161e</i>.<p><b>Étym</b>. σκυτοτόμος.`

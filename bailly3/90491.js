@@ -1,1 +1,0 @@
-lar[90491]=`<b>σίτ·αρχος, ου (ὁ)</b> <font color="purple">[ῑ]</font> préposé aux vivres, intendant, HARMOD. (ATH. <i>148f</i>).<p><b>Étym</b>. σῖτος, ἄρχω.`

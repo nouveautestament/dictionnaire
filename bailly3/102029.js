@@ -1,1 +1,0 @@
-lar[102029]=`<b>ὑπ·ασώδης, ης, ες</b> <font color="purple">[ῠᾰ]</font> qui éprouve qqe dégoût, accompagné d’un peu de dégoût, HPC.`

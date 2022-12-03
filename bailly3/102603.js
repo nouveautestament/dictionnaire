@@ -1,1 +1,0 @@
-lar[102603]=`<b>ὑπέρ·κοπος, ος, ον :<br>      1</b> qui se fatigue outre mesure, épuisé de fatigue, ARSTT. <i>Mir. 6</i>.<br><b>      2</b> qui dépasse le but, <i>ou p.-ê</i>. trop tranchant, <i>d’où</i> orgueilleux, arrogant, présomptueux, ESCHL. <i>Sept. 455</i> ; SOPH. <i>Aj. 127</i>.<p><b>Étym</b>. ὑ. κόπτω.`

@@ -1,1 +1,0 @@
-lar[16315]=`<b>ἀστρο·ειδής, ής, ές</b>, semblable à l’éclat <i>ou</i> à l’évolution des astres, STR. <i>173</i>.<p>•<i> Sup</i>. -έστατος, PHIL. <i>1, 485</i>.<p><b>Étym</b>. ἄ. εἶδος.`

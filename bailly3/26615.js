@@ -1,1 +1,0 @@
-lar[26615]=`<b>ας (ἡ)</b> période <i>ou</i> strophe de deux membres, M. VICT. <i>6-1, p. 182, 6, 29 Gramm. lat. Keil</i>.<p><b>Étym</b>. δίκωλος.`

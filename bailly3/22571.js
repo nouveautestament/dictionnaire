@@ -1,1 +1,0 @@
-lar[22571]=`<b>γραμματειδιο·ποιός, οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> fabricant de tablettes à écrire, COM. (<i>Com. fr. 1, 460 ; 4, 441).</i><p><b>Étym</b>. γραμματείδιον, ποιέω ; <i>cf</i>. γραμματιδιοποιός.`

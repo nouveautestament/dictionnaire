@@ -1,1 +1,0 @@
-lar[40399]=`<b>ἐρι·βριθής, ής, ές</b> <font color="purple">[ῑθ]</font> très lourd, OPP. <i>H. 5, 636</i>.<p><b>Étym</b>. ἐρι-, βρίθω.`

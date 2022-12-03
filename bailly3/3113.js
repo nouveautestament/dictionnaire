@@ -1,1 +1,0 @@
-lar[3113]=`<b>ίδος</b> <font color="purple">[ᾰκ]</font><br><b>   I</b> <i>adj. f</i>. épineuse, ANTH. <i>6, 304</i>.<br><b>   II</b> <i>subst</i>. ἡ ἀκ. :<br><b>      1</b> chardonneret, ARSTT. <i>H.A. 9, 17, 2</i> ; THCR. <i>Idyl. 7, 141</i>.<br><b>      2</b> seneçon, <i>plante,</i> CALL. (PLIN. <i>H.N. 25, 106).</i><p><b>Étym</b>. ἄκανθα.`

@@ -1,1 +1,0 @@
-lar[108152]=`<b>χειρο·μύλη, ης (ἡ)</b> <font color="purple">[ῠ]</font> moulin à bras, XÉN. <i>Cyr. 6, 2, 31</i>.`

@@ -1,1 +1,0 @@
-lar[24333]=`<b>δημο·φθόρος, ος, ον</b>, qui ruine le peuple, CALLISTR. <i>Stat. 14</i>.<p><b>Étym</b>. δ. φθείρω.`

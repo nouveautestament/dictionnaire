@@ -1,1 +1,0 @@
-lar[89041]=`<b>ου (ὁ)</b> <font color="purple">[σᾰ]</font> <i>litt</i>. « le briseur », <i>divinité malfaisante qui brisait les vases d’argile des potiers,</i> HOM. <i>Ep. 14, 9</i> (σαβάζω, briser, LEX.).`

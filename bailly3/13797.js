@@ -1,1 +1,0 @@
-lar[13797]=`<b>ἀπο·χηρόω-ῶ</b> (<i>part. ao. pass</i>. -ωθείς) priver de, AR. <i>Pax 1013</i>.<p><b>Étym</b>. <i>vulg</i>. ἀποχειρωθείς.`

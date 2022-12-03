@@ -1,1 +1,0 @@
-lar[46945]=`<b>θερμό·βλυστος, ος, ον</b>, dont les eaux jaillissent chaudes, P. SIL. <i>Th. Pyth. 33</i>.<p><b>Étym</b>. θ. βλύω.`

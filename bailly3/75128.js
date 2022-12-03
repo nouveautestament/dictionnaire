@@ -1,1 +1,0 @@
-lar[75128]=`<b>παν·ορκία, ας (ἡ)</b> <font color="purple">[ᾰν]</font> facilité à faire toute sorte de serments, NAZ.<p><b>Étym</b>. π. ὅρκος.`

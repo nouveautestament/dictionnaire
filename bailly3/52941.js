@@ -1,1 +1,0 @@
-lar[52941]=`<i>adv</i>., en face, vis-à-vis, OPP. <i>H. 2, 555</i> ; AGÉSIANAX (PLUT. <i>M. 921b</i>).<p><b>Étym</b>. καταντίος, <i>sel. d’autres,</i> κατ' ἀντία.`

@@ -1,1 +1,0 @@
-lar[1740]=`<b>ἀελπτέω-ῶ</b> (<i>seul. part. prés. épq. et ion</i>.) ne point espérer, ne pas s’attendre à, <i>inf</i>. IL. <i>7, 310</i> (ἀελπτέοντες, <i>quadrisyll. par syniz</i>.) ; HDT. <i>7, 168</i>.<p><b>Étym</b>. ἄελπτος.`

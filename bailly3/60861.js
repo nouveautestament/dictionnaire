@@ -1,1 +1,0 @@
-lar[60861]=`<b>ας (ἡ)</b> brigandage, piraterie, THC. <i>1, 5 ; 8, 40</i> ; XÉN. <i>Hell. 6, 2, 1 ; An. 7, 7, 9</i> ; PLAT. <i>Leg. 823e, etc</i>.<p><b>Étym</b>. λῃστεύω.`

@@ -1,1 +1,0 @@
-lar[2737]=`<b>   1</b> parler éolien, STR. <i>333</i> ; PLUT. <i>Cim. 1</i>.<br><b>   2</b> chanter sur le mode éolien, PRATIN. (ATH. <i>624f</i>).<p><b>Étym</b>. Αἰολεῖς.`

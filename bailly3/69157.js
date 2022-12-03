@@ -1,1 +1,0 @@
-lar[69157]=`<b>νυκτί·σεμνος, ος, ον</b> <font color="purple">[ῐ]</font> pieusement offert la nuit, ESCHL. <i>Eum. 108</i>.<p><b>Étym</b>. ν. σεμνός.`

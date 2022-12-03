@@ -1,1 +1,0 @@
-lar[9511]=`<b>ἀντ·αποταφρεύω</b>, faire un contre-retranchement, APP. <i>Civ. 2</i>.`

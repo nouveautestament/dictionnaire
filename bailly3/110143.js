@@ -1,1 +1,0 @@
-lar[110143]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰᾰδ]</font> <i>adj. f. épq</i>. de l’Océan, NONN. <i>D. 32, 53</i>.<p><b>Étym</b>. Ὠκεανός.`

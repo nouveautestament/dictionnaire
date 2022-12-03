@@ -1,1 +1,0 @@
-lar[7003]=`<b>ἀνα·κρέκομαι</b> (<i>seul. prés</i>.) commencer à frapper les cordes d’une lyre, commencer à chanter : εἴς τινα, ANTH. <i>9, 562,</i> en l’honneur de qqn.`

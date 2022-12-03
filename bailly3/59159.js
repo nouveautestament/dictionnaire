@@ -1,1 +1,0 @@
-lar[59159]=`<b>α, ον</b>, de village, E. BYZ. <i>v°</i> κώμη ; <i>surn. d’Apollon,</i> ATH. <i>149d</i>.`

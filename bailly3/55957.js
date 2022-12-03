@@ -1,1 +1,0 @@
-lar[55957]=`<b>Κλεψ·ύδρα, ας (ἡ)</b> Klepsydra (Clepsydre) <i>fontaine près de l’Acropole,</i> AR. <i>Av. 1695</i>.<p><b>Étym</b>. <i>v</i>. κλεψύδρα.`

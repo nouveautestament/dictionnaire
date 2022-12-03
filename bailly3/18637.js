@@ -1,1 +1,0 @@
-lar[18637]=`<b>ἄ·ψοφος, ος, ον</b>, sans bruit, HPC. <i>344, 51</i> ; SOPH. <i>Tr. 967</i> ; EUR. <i>Tr. 887</i> ; PLUT. NONN. <i>etc</i>.<p><b>Étym</b>. ἀ, ψόφος.`

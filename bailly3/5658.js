@@ -1,1 +1,0 @@
-lar[5658]=`<b>ἀμμο·δύτης, ου (ὁ)</b> sorte de serpent qui se plonge dans le sable, STR. <i>803</i>.<p><b>Étym</b>. ἄμμος, δύω.`

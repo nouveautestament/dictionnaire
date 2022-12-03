@@ -1,1 +1,0 @@
-lar[10256]=`<b>ἀντι·περιπλέω</b>, naviguer autour en sens contraire, STR. <i>5</i>.`

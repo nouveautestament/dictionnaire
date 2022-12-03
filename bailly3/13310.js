@@ -1,1 +1,0 @@
-lar[13310]=`<b>*ἀπο·σκέπτομαι</b> <font color="darkgreen">(<i>seul. fut</i>. ἀποσκέψομαι)</font> observer de loin <i>ou</i> d’en haut, <i>d’où</i> observer, examiner ; <i>acc</i>. PLUT. <i>M. 582c ; avec</i> ἐς <i>et l’acc</i>. HPC. <i>595, 28</i>.`

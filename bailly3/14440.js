@@ -1,1 +1,0 @@
-lar[14440]=`<b>Ἀρεοπαγῖτις βουλή (ἡ)</b> <font color="purple">[ᾰᾰ]</font> le Conseil de l’Aréopage, ALCIPHR. <i>2, 3, 6</i>.`

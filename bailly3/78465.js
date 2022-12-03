@@ -1,1 +1,0 @@
-lar[78465]=`<b>περι·βρέμω</b> (<i>seul. prés</i>.) frémir tout autour, A.RH. <i>2, 323</i>.<br><b><i>Moy.</i></b> frémir autour de, <i>dat</i>. DP. <i>131</i> ; OPP. <i>C. 2, 67</i>.`

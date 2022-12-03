@@ -1,1 +1,0 @@
-lar[71124]=`<b>ὁλκαδο·πιττώτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui goudronne les vaisseaux de transport, calfat, POÈT. <i>(Bkk. p. 1089).</i><p><b>Étym</b>. ὁλκάς, πιττόω.`

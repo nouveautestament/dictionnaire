@@ -1,1 +1,0 @@
-lar[32374]=`<i>adv</i>., extraordinairement, APP. <i>Ill. 25</i>.<p><b>Étym</b>. ἐκφυής.`

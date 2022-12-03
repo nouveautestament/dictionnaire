@@ -1,1 +1,0 @@
-lar[66819]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>dim. de</i> μοτοφύλαξ P. ÉG. <i>6, 62</i>.<p><b>Étym</b>. μοτοφύλαξ.`

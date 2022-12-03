@@ -1,1 +1,0 @@
-lar[86772]=`<b>ατος (τὸ)</b> introduction <i>ou</i> initiation à un art, à une science, E. BYZ. <i>v°</i> Αἰθίοψ.<p><b>Étym</b>. προτεχνολογέω.`

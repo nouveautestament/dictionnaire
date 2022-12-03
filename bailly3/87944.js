@@ -1,1 +1,0 @@
-lar[87944]=`<b>πυρό·μαντις, εως (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui prédit l’avenir au moyen du feu, ARTÉM. <i>2, 69 var. p</i>. τυρόμαντις.<p><b>Étym</b>. πῦρ, μάντις.`

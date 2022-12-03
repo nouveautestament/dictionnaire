@@ -1,1 +1,0 @@
-lar[7723]=`<b>ἀνα·σφίγγω</b>, contenir par la bride, NONN. <i>D. 42, 51</i>.`

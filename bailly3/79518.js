@@ -1,1 +1,0 @@
-lar[79518]=`<b>ος, ον</b>, à pourtour entaillé (pièce) : τὸ π. HÉRON <i>134,</i> table du bâti d’une machine de jet.<p><b>Étym</b>. περιτιτραίνω.`

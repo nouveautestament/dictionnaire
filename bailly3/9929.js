@@ -1,1 +1,0 @@
-lar[9929]=`<b>εως (ἡ)</b> profit qu’on retire de qqe ch. DL. <i>7, 99</i>.`

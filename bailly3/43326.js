@@ -1,1 +1,0 @@
-lar[43326]=`<b>ῶν (οἱ)</b> les Eurysthéides <i>ou</i> les descendants d’Eurysthée, POLYEN <i>1, 10</i>.<p><b>Étym</b>. Εὐρυσθεύς.`

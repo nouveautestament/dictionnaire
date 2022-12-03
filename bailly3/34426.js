@@ -1,1 +1,0 @@
-lar[34426]=`<b>ἐν·εφάλλομαι</b> <font color="darkgreen">(<i>seul. ao.2 poét</i>. ἐνέπαλτο)</font> s’élancer et sauter dans, <i>dat</i>. Q. SM. <i>10, 467</i>.`

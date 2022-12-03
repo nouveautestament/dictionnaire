@@ -1,1 +1,0 @@
-lar[77261]=`<b>ή, όν</b> <font color="purple">[ᾰλ]</font> fixé avec un clou, cloué, ESCHL. <i>Pr. 113 dout</i>.<p><b>Étym</b>. <i>vb. de</i> πασσαλεύω.`

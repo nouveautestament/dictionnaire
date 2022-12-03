@@ -1,1 +1,0 @@
-lar[67479]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῡ]</font> point d’attache où se réunissent plusieurs muscles, IL. <i>16, 315, 324</i> ; THCR. <i>Idyl. 25, 149</i> ; A.RH. <i>4, 1520</i>.<p><b>Étym</b>. μῦς.`

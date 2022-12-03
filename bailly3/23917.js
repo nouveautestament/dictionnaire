@@ -1,1 +1,0 @@
-lar[23917]=`<b>εως (ἡ)</b> <i>litt</i>. action de tendre la main droite, <i>d’où</i> :<br><b>      1</b> affabilité, accueil aimable, PLUT. <i>Alex. 9, Pomp. 79</i>.<br><b>      2</b> <i>en mauv. part,</i> brigue, intrigue, PLUT. <i>Pomp. 67</i>.<p><b>Étym</b>. δεξιόομαι.`

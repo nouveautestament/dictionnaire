@@ -1,1 +1,0 @@
-lar[55280]=`<b>κηρο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> collé avec de la cire, ANTH. <i>6, 239</i> ; MAN. <i>1, 242</i>.<p><b>Étym</b>. κηρός, πήγνυμι.`

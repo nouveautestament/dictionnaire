@@ -1,1 +1,0 @@
-lar[2396]=`<b>αἰέν·υπνος, ος, ον</b>, qui endort pour toujours, SOPH. <i>O.C. 1578 conj</i>.<p><b>Étym</b>. αἰέν, ὕπνος.`

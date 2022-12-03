@@ -1,1 +1,0 @@
-lar[38101]=`<b>ας</b>, <i>adj. f</i>. qui répète, en se moquant, ce que l’on dit, <i>ép. de l’écho,</i> AR. <i>Th. 1059 ; sel. d’autres,</i> ἐπικοκκύστρια, qui imite le cri du coucou.<p><b>Étym</b>. ἐπικοκκάζω <i>ou</i> *ἐπικοκκύζω.`

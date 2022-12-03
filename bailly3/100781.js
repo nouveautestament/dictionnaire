@@ -1,1 +1,0 @@
-lar[100781]=`<b>ου (τὸ)</b> <font color="purple">[χῐ]</font> <i>seul. au pl. c</i>. τροχιλία PLAT. <i>Rsp. 397a ;</i> MOSCHION HIST. (ATH. <i>208e</i>).`

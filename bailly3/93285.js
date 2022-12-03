@@ -1,1 +1,0 @@
-lar[93285]=`<b>συγ·καταδικάζω</b> <font color="purple">[ῐ]</font> condamner ensemble, BAS. <i>1, 172, 304 Migne</i>.`

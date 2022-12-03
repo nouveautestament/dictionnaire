@@ -1,1 +1,0 @@
-lar[89332]=`<b>σαό·πτολις, ιος (ὁ, ἡ)</b> protecteur <i>ou</i> sauveur de villes, COL. <i>140</i> ; NONN. <i>D. 41, 395</i>.<p><b>Étym</b>. σάος, πτόλις.`

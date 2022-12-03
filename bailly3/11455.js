@@ -1,1 +1,0 @@
-lar[11455]=`<b>ἀπ·ατιμάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀπητίμησα)</font> <font color="purple">[ῑ]</font> <i>c</i>. ἀπατιμάζω IL. <i>13, 113</i>.`

@@ -1,1 +1,0 @@
-lar[103275]=`<b>ὑπο·θρηνέω-ῶ</b>, se lamenter un peu <i>ou</i> à voix basse, POSIDON. (ATH. <i>152e</i>).`

@@ -1,1 +1,0 @@
-lar[71506]=`<i>adv.</i> :<br><b>      1</b> du même endroit, OD. <i>5, 477 ; fig</i>. du même point de départ, de la même origine, HH. <i>Ven. 135</i> ; HÉS. <i>O. 108</i> ; EUR. <i>I.A. 501, etc.</i> ; XÉN. <i>Cyr. 8, 7, 14 ; avec le dat</i>. SOPH. <i>El. 156</i>.<br><b>      2</b> de près, XÉN. <i>Cyr. 1, 4, 23 ; 2, 3, 20 ; 8, 8, 22 ; Cyn. 7, 8</i>.<p><b>Étym</b>. ὁμός, -θεν.`

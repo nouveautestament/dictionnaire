@@ -1,1 +1,0 @@
-lar[11127]=`<b>ἀπ·αίνυμαι</b> <font color="darkgreen">(<i>seul. part. prés</i>. ἀπαινύμενος. IL. <i>11, 582, et impf. 3 sg. poét</i>. ἀπαίνυτο, MOSCH. <i>2, 66</i>)</font> <i>c</i>. ἀποαίνυμαι.`

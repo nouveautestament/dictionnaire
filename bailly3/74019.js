@@ -1,1 +1,0 @@
-lar[74019]=`<b>ὀψι·πέδων, ωνος (ὁ)</b> <font color="purple">[ῐ]</font> qui a vécu longtemps dans les fers, <i>en parl. d’un vieil esclave,</i> MÉN. <i>fr. inc. 376 Meineke</i>.<p><b>Étym</b>. ὀψέ, πέδη.`

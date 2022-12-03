@@ -1,1 +1,0 @@
-lar[65100]=`<b>μετ·ενδύνω</b> <font color="purple">[ῡ]</font> <i>(seul. prés.) c</i>. μετενδύομαι, THÉM. <i>178d</i>.`

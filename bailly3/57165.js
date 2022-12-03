@@ -1,1 +1,0 @@
-lar[57165]=`<b>κορυθ·άϊξ, άϊκος</b> <font color="purple">[ᾰῑκ]</font> qui agite la crinière de son casque, <i>càd</i>. guerrier impétueux, IL. <i>22, 132</i>.<p><b>Étym</b>. κόρυς, ἀΐσσω.`

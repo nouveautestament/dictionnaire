@@ -1,1 +1,0 @@
-lar[57733]=`<b>ῆς (ἡ)</b> Krémastè, <i>lieu près d’Abydos,</i> XÉN. <i>Hell. 4, 8, 37</i>.<p><b>Étym</b>. <i>fém. de</i> κρεμαστός.`

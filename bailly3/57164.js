@@ -1,1 +1,0 @@
-lar[57164]=`<b>ης, ες</b>, malade d’un rhume de cerveau, HPC. <i>Epid. 6, 2, 32 ; 6, 3, 6</i>.<p><b>Étym</b>. κόρυζα, -ωδης.`

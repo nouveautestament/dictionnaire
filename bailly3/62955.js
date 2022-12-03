@@ -1,1 +1,0 @@
-lar[62955]=`<b>ου (ὁ)</b> = <i>lat</i>. Marius, <i>n. d’h. rom</i>. PLUT. <i>Mar. 1, Syll. 27, etc. ; plur</i>. Μάριοι, les Marius, <i>càd</i>. les membres de la famille de Marius, PLUT. <i>Brut. 29, Pomp. 8 ; ou</i> des hommes comme Marius, PLUT. <i>Cæs. 1</i>.`

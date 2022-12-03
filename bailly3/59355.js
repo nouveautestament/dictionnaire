@@ -1,1 +1,0 @@
-lar[59355]=`<b>λαβρο·ποτέω-ῶ</b> <font color="purple">[α]</font> boire avidement <i>ou</i> avec excès, ANTH. <i>5, 110, etc</i>.<p><b>Étym</b>. λάβρος, -ποτος <i>de</i> πίνω.`

@@ -1,1 +1,0 @@
-lar[71597]=`<b>ὁμό·κοιτος, ος, ον</b>, qui partage la couche, époux, épouse, HLD. <i>6, 8</i>.<p><b>Étym</b>. ὁμ. κοίτη.`

@@ -1,1 +1,0 @@
-lar[69356]=`<i>ion</i>. <b>νωχελίη, ης (ἡ)</b> lenteur, nonchalance, IL. <i>19, 411</i>.<p><b>Étym</b>. νωχελής.`

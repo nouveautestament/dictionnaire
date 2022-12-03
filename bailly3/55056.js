@@ -1,1 +1,0 @@
-lar[55056]=`<b>ου (τὸ)</b> bétoine, <i>plante,</i> DIOSC. <i>4, 173</i> ; GAL. <i>13, 189</i>.`

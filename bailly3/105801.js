@@ -1,1 +1,0 @@
-lar[105801]=`<b>φιλό·θρησκος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les cérémonies religieuses, dévot, PTOL.<p><b>Étym</b>. φ. θρῆσκος.`

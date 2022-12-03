@@ -1,1 +1,0 @@
-lar[65628]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec impureté <i>ou</i> scélératesse, criminellement, AR. <i>Eq. 800</i>.<p><b>Étym</b>. μιαρός.`

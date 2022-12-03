@@ -1,1 +1,0 @@
-lar[503]=`<i>adv</i>., sans avoir été <i>ou</i> sans être engendré, PLUT. <i>M. 1015a</i>.`

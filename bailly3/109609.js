@@ -1,1 +1,0 @@
-lar[109609]=`<b>ή, όν</b>, enclin à blâmer, ARSTT. <i>Rhet. Al. 4, 1</i>.<p><b>Étym</b>. ψέγω.`

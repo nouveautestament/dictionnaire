@@ -1,1 +1,0 @@
-lar[98643]=`<b>τετρά·πλεθρος, ος, ον</b>, (d’une superficie) de quatre arpents, POL. <i>6, 27, 2</i>.<p><b>Étym</b>. τ. πλέθρον.`

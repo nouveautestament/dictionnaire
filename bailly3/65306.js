@@ -1,1 +1,0 @@
-lar[65306]=`<b>εος-ους (τὸ)</b> parties de l’homme, OD. <i>6, 129 ; 18, 67, 87 ; 22, 476 ; d’où</i> urine, OPP. <i>C. 4, 441</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

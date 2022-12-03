@@ -1,1 +1,0 @@
-lar[74656]=`<b>ης (ἡ)</b> Pallènè :<br><b>   I</b> <i>n. de f</i>. NONN. <i>D. 43, 434</i>.<br><b>   II</b> <i>n. géogr.</i> :<br><b>      1</b> <i>péninsule de Macédoine (auj</i>. Kassánđra) HDT. <i>7, 123</i> ; THC. <i>1, 56, etc.</i><br><b>      2</b> <i>dème att. de la tribu Antiokhide,</i> DIN. (HARP.).`

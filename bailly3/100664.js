@@ -1,1 +1,0 @@
-lar[100664]=`<b>τριψημερέω-ῶ</b>, perdre ses journées <i>ou</i> son temps, AR. <i>Vesp. 849</i>.<p><b>Étym</b>. τρίβω, ἡμέρα.`

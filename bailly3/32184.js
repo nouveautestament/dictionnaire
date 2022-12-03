@@ -1,1 +1,0 @@
-lar[32184]=`<b>άδος (ἡ)</b> <i>avec ou sans</i> πυλίς, guichet, EN. TACT. <i>Pol. 28, 2, etc</i>.<p><b>Étym</b>. ἐκτέμνω.`

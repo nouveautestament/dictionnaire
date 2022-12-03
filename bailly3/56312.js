@@ -1,1 +1,0 @@
-lar[56312]=`<b>Κνισο·διώκτης</b>, <i>mieux que</i> <b>Κνισσο·διώκτης, ου (ὁ)</b> <font color="purple">[ῑῐ]</font> Court-après-la-fumée <i>ou</i> le-fumet-des-viandes, <i>n. d’un rat,</i> BATR. <i>235</i>.<p><b>Étym</b>. κνῖσα, διώκω.`

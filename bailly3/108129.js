@@ -1,1 +1,0 @@
-lar[108129]=`<b>χειρο·δίκης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. dont le droit est le droit des mains, <i>càd</i>. de la force, HÉS. <i>O. 187</i>.<p><b>Étym</b>. χ. δίκη.`

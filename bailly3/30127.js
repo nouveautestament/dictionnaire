@@ -1,1 +1,0 @@
-lar[30127]=`<i>par élis. p</i>. ἔτι, <i>dev. un esprit rude</i>.`

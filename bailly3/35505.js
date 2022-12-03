@@ -1,1 +1,0 @@
-lar[35505]=`<b>ἐξ·ανοίγω</b> <font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>impf</i>. ἐξήνοιγον)</font> ouvrir entièrement, AR. <i>Ach. 391</i> ; DS. <i>1, 33</i>.`

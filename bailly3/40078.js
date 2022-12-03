@@ -1,1 +1,0 @@
-lar[40078]=`<b>ἐπ·ωκύνω</b> <font color="purple">[ῡ]</font> (<i>seul. prés</i>.) aiguiser, exciter, HPC. <i>248b ;</i> GAL. <i>6, 100</i>.`

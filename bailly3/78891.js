@@ -1,1 +1,0 @@
-lar[78891]=`<b>εως (ἡ)</b> action de lécher tout autour, THÉON 2 <i>Sch.-Arat. 1115</i>.<p><b>Étym</b>. περιλιχμάω.`

@@ -1,1 +1,0 @@
-lar[107332]=`<b>φυτουργέω-ῶ</b> <font color="purple">[ῠ]</font> travailler à la culture des plantes, LUC. <i>Bis acc. 1</i>.<p><b>Étym</b>. φυτουργός.`

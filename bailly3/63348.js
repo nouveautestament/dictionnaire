@@ -1,1 +1,0 @@
-lar[63348]=`<b>μεγαλο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> peinture de grands sujets, peinture historique, VITR. <i>7, 4</i>.<p><b>Étym</b>. μ. -γραφος <i>de</i> γράφω.`

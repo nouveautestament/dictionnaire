@@ -1,1 +1,0 @@
-lar[27172]=`<b>δί·χαλκον, ου (τὸ)</b> <font color="purple">[ῐ]</font> double χαλκός, <i>càd</i>. un quart d’obole :<br><b>      1</b> <i>c. monnaie,</i> ANTH. <i>11, 165</i>.<br><b>      2</b> <i>c. poids,</i> DIOSC. <i>4, 155</i>.<p><b>Étym</b>. δίς, χαλκός.`

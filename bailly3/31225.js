@@ -1,1 +1,0 @@
-lar[31225]=`<b>ἐκ·δρακοντόω-ῶ</b> (<i>part. ao. pass</i>. -ωθείς) <font color="purple">[ᾰ]</font> changer en dragon, ESCHL. <i>Ch. 549</i>.<p><b>Étym</b>. ἐκ, δράκων.`

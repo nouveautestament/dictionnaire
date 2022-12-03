@@ -1,1 +1,0 @@
-lar[77897]=`<b>εως (ἡ) :<br>      1</b> envoi, HDT. <i>5, 54</i> ; THC. <i>7, 17</i> ; ARSTT. <i>Poet. 11, 8</i>.<br><b>      2</b> cortège, DC. <i>44, 41</i>.<p><b>Étym</b>. πέμπω.`

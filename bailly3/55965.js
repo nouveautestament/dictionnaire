@@ -1,1 +1,0 @@
-lar[55965]=`<b>ας (ἡ)</b> <i>autre n. de la plante</i> ἑλένιον, DIOSC. <i>1 App. 27</i>.`

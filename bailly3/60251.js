@@ -1,1 +1,0 @@
-lar[60251]=`<b>εος-ους (τὸ)</b> assiette, écuelle, HIPPON. <i>fr. 58</i>.`

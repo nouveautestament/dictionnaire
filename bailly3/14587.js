@@ -1,1 +1,0 @@
-lar[14587]=`<b>ἀρι·ζήλωτος, ος, ον</b>, tout à fait digne d’envie, fortuné, AR. <i>Eq. 1329</i>.<p><b>Étym</b>. ἀρι-, ζηλόω.`

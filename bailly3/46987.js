@@ -1,1 +1,0 @@
-lar[46987]=`<font color="darkgreen">(<i>seul. part. prés</i>. θέρσεισ’)</font> <i>éol. c</i>. θαρσέω, THCR. <i>Idyl. 28, 3</i>.<p><b>Étym</b>. θερσεῖσ’ Bgk.`

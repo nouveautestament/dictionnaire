@@ -1,1 +1,0 @@
-lar[20197]=`<b>βοο·σφαγία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ᾰγ]</font> égorgement de bœufs, A. PL. <i>101</i>.<p><b>Étym</b>. βοῦς, σφάζω ; <i>cf</i>. βουσφαγέω.`

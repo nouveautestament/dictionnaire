@@ -1,1 +1,0 @@
-lar[98840]=`<b>εως (ὁ)</b> Tekhnaktis, <i>roi d’Égypte,</i> PLUT. <i>Is. et Os. 8</i>.`

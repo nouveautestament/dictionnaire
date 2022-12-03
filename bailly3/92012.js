@@ -1,1 +1,0 @@
-lar[92012]=`<b>ου (ὁ)</b> = <i>lat</i>. Spurius, <i>n. d’h. rom</i>. PLUT. <i>T. Gracch. 8, etc</i>.`

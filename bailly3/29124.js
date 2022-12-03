@@ -1,1 +1,0 @@
-lar[29124]=`<b>*Δωδών</b> (<i>seul. aux cas-régimes</i> <b>Δωδῶνος, -ι, -α</b>) (ἡ) <i>c</i>. Δωδώνη, EUPH. (E. BYZ.) ; SOPH. <i>Tr. 172</i> ; CALL. <i>fr. 107</i>.`

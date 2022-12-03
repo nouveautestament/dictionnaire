@@ -1,1 +1,0 @@
-lar[105059]=`<b>ης, ες</b>, lumineux, resplendissant, NAZ.<p><b>Étym</b>. φέγγος, -ωδης.`

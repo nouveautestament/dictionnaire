@@ -1,1 +1,0 @@
-lar[79330]=`<b>περισσό·μυθος, ος, ον</b> <font color="purple">[ῡ]</font> aux paroles superflues, EUR. <i>fr. 53</i>.<p><b>Étym</b>. π. μῦθος.`

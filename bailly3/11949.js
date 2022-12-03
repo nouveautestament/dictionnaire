@@ -1,1 +1,0 @@
-lar[11949]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῐᾰ]</font> Apidanos, <i>fl. de Thessalie,</i> THC. <i>4, 78</i> ; EUR. <i>Hec. 451, I.A. 713</i>.<p>➳ <i>Ion</i>. Ἠπιδ-, HDT. <i>7, 196</i>.`

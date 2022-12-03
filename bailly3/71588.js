@@ -1,1 +1,0 @@
-lar[71588]=`<b>ὁμο·κλῆς</b>, <i>acc</i>. <b>-κλέα (ὁ, ἡ)</b> qui a le même nom que, <i>dat</i>. PD. <i>fr. 70</i>.<p><b>Étym</b>. ὁμ. καλέω.`

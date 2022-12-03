@@ -1,1 +1,0 @@
-lar[85017]=`<b>προ·πρηνής, ής, ές :<br>      1</b> penché en avant, qui tombe en avant, IL. <i>24, 18</i>.<br><b>      2</b> qui se précipite en avant, OD. <i>22, 98 ; neutre adv</i>. προπρηνές, IL. <i>3, 218,</i> en avant.`

@@ -1,1 +1,0 @@
-lar[36917]=`<b>ατος (τὸ)</b> accusation, SOPATER (<i>W. 5, 269).</i><p><b>Étym</b>. ἐπεγκαλέω.`

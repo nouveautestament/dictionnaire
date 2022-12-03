@@ -1,1 +1,0 @@
-lar[13343]=`<b>ἀπο·σκοτέω-ῶ</b> <font color="darkgreen">(<i>ao. impér</i>. -ησον)</font> faire ombre à distance de, <i>gén</i>. DL. <i>6, 38</i>.<p><b>Étym</b>. ἀ. σκότος.`

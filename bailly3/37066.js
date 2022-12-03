@@ -1,1 +1,0 @@
-lar[37066]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> mouvement d’attaque, charge, DH. <i>3, 19</i>.<p><b>Étym</b>. ἐπεμβαίνω.`

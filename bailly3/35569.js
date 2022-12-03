@@ -1,1 +1,0 @@
-lar[35569]=`<b>ἑξά·πρυμνος, ος, ον</b>, à six proues, <i>càd</i>. à six vaisseaux, LYC. <i>1347</i>.<p><b>Étym</b>. ἕξ, πρύμνα.`

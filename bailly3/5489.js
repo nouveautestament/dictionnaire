@@ -1,1 +1,0 @@
-lar[5489]=`<b>ἀ·μετακίνητος, ος, ον</b> <font color="purple">[ῑ]</font> immuable, immobile, PLAT. <i>Ep. 343a ;</i> ARSTT. <i>Phys. 4, 4, 18</i> ; DH. <i>8, 74, etc</i>.`

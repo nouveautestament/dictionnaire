@@ -1,1 +1,0 @@
-lar[55550]=`<b>ίδος (ἡ)</b> <font color="purple">[κῑ]</font> luette du gosier, ARÉT. <i>p. 6d ;</i> GAL. <i>13, 509</i>.<p><b>Étym</b>. <i>dim. de</i> κίων.`

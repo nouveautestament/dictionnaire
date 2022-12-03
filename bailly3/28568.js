@@ -1,1 +1,0 @@
-lar[28568]=`<b>δυσ·κατόρθωτος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à digérer, à redresser <i>ou</i> à obtenir, D. PHAL. <i>127</i> ; HIPPIATR. <i>253</i>.<p>•<i> Cp</i>. -ότερος, CHION. <i>Ep. 15</i>.<p><b>Étym</b>. δ. κατορθόω.`

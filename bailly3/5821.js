@@ -1,1 +1,0 @@
-lar[5821]=`<b>ἀμπελο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui dévore la vigne, STR. <i>613</i>.<p><b>Étym</b>. ἄ. φαγεῖν.`

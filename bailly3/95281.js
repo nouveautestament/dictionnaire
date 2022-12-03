@@ -1,1 +1,0 @@
-lar[95281]=`<i>adv. du part. pf. pass. de</i> συλλαμβάνω, RHÉT.`

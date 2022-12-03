@@ -1,1 +1,0 @@
-lar[89551]=`<b>ου (ὁ)</b> Saulios, <i>roi des Scythes,</i> HDT. <i>4, 76</i>.`

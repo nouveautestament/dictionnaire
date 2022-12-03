@@ -1,1 +1,0 @@
-lar[12711]=`<b>ἀπο·κωκύω</b>, se lamenter sur, <i>acc</i>. ESCHL. <i>Ag. 1544</i>.`

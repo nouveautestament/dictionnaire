@@ -1,1 +1,0 @@
-lar[93627]=`<b>συγχρονέω-ῶ :<br>      1</b> être contemporain de, <i>dat</i>. CLÉM. <i>382 ; abs</i>. ATH. <i>599c.</i><br><b>      2</b> employer au même temps, <i>t. de gr</i>. DYSC. <i>Synt. 205, 1</i>.<p><b>Étym</b>. σύγχρονος.`

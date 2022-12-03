@@ -1,1 +1,0 @@
-lar[51229]=`<b>καλλι·στρούθιος, ος, ον</b>, qui plaît aux autruches : σῦκον, ATH. <i>75e</i>, sorte de figue.<p><b>Étym</b>. κ. στρουθός.`

@@ -1,1 +1,0 @@
-lar[109721]=`<b>ψευδο·ποιΐα, ας (ἡ)</b> falsification, altération mensongère, CLÉM. <i>258</i>.<p><b>Étym</b>. <i>cf</i>. ψευδοποιέω.`

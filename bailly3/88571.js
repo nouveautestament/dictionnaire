@@ -1,1 +1,0 @@
-lar[88571]=`<b>εως (ἡ)</b> action de pousser des racines, de prendre racine, TH. <i>C.P. 2, 12, 5</i> ; PLUT. <i>M. 227d ; fig</i>. PLUT. <i>Lyc. 14, etc</i>.<p><b>Étym</b>. ῥιζόω.`

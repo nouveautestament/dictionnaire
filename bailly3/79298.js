@@ -1,1 +1,0 @@
-lar[79298]=`<b>περι·σπειράω-ῶ</b>, rouler <i>ou</i> entortiller autour : τί τινι, PLUT. <i>Cam. 25,</i> une chose autour d’une autre ; <i>au pass</i>. se rouler autour de, entourer de ses replis, <i>dat</i>. LUC. <i>H. conscr. 29 ; fig</i>. PLUT. <i>Cic. 22</i>.<br><b><i>Moy.</i></b> s’enrouler autour de, entourer, <i>dat</i>. PLUT. <i>Ages. 31</i>.`

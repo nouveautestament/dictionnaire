@@ -1,1 +1,0 @@
-lar[83506]=`<i>vb. de</i> προαιρέω, XÉN. <i>Mem. 2, 7, 10</i> ; PLAT. <i>Rsp. 535a, etc</i>.`

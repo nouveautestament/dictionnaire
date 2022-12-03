@@ -1,1 +1,0 @@
-lar[30904]=`<b>εἰσ·φθείρομαι</b> <font color="darkgreen">(<i>ao</i>. εἰσεφθάρην)</font> s’introduire pour la ruine dans, NYSS. <i>2, 433d, 580d</i>.`

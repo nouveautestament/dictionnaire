@@ -1,1 +1,0 @@
-lar[10784]=`<b>ἀνυσί·εργος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui achève sa tâche, laborieux, THCR. <i>Idyl. 28, 14</i>.<p><b>Étym</b>. ἀνύω, ἔργον.`

@@ -1,1 +1,0 @@
-lar[43312]=`<b>εὐρύ·πεδος, ος, ον</b> <font color="purple">[ῠ]</font> au vaste sol, OPP. <i>H. 1, 192</i> ; ANTH. <i>7, 748</i>.<p><b>Étym</b>. εὐ. πέδον.`

@@ -1,1 +1,0 @@
-lar[28619]=`<b>δυσκωφέω-ῶ</b> (<i>prés. impér</i>. -ει) être très sourd, ANTH. <i>7, 731</i>.<p><b>Étym</b>. δύσκωφος.`

@@ -1,1 +1,0 @@
-lar[102974]=`<b>ὑπ·ιλλωπέω-ῶ</b>, cligner légèrement les yeux, HÉRACLITE GRAMM. <i>All. Hom. 70 conj</i>.`

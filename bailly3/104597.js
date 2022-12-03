@@ -1,1 +1,0 @@
-lar[104597]=`<b>ων (τὰ)</b> <font color="purple">[φᾰ]</font> fêtes où l’on mange, CLÉARQ. (ATH. <i>275b</i>).<p><b>Étym</b>. φαγεῖν.`

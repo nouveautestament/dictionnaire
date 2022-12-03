@@ -1,1 +1,0 @@
-lar[65564]=`<b>ιδος</b> <font color="purple">[ῑῐδ]</font> de la métropole, métropolitain, SYN. <i>Ep. 67, 1417a Migne</i>.<p><b>Étym</b>. <i>fém. de</i> μητροπολίτης.`

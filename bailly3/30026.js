@@ -1,1 +1,0 @@
-lar[30026]=`<b>ἑδνο·φόρος, ου (ὁ)</b> qui apporte des présents de fiançailles, NYSS. <i>1, 772c Migne</i>.<p><b>Étym</b>. ἕδνον, φέρω.`

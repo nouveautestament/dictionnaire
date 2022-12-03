@@ -1,1 +1,0 @@
-lar[86342]=`<b>προσ·ποθέω</b>, désirer connaître encore, PLAT. <i>Charm. 174a</i>.`

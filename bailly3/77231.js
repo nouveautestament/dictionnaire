@@ -1,1 +1,0 @@
-lar[77231]=`<b>ου (ὁ)</b> Pasiadès, <i>h</i>. PLUT. <i>Alex. fort. 2, 5, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Πασίας.`

@@ -1,1 +1,0 @@
-lar[18610]=`<b>ἁψιδόω-ῶ</b> (<i>part. pf. pass</i>. ἡψιδωμένος) fixer à une voûte, <i>ou en gén.,</i> à un objet arrondi, ANTH. <i>6, 90</i>.<p><b>Étym</b>. ἁψίς.`

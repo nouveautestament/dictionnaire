@@ -1,1 +1,0 @@
-lar[3385]=`<b>ἀ·κινδύνως</b> <font color="purple">[ῡ]</font> <i>adv</i>., sans danger, THC. <i>1, 124, etc</i>.<p>•<i> Cp</i>. -ότερον, PLAT. <i>Phæd. 85d, Phil. 64d</i>.<p>•<i> Sup</i>. -ότατα, XÉN. <i>Mem. 2, 8, 6</i> ; DC. <i>52, 39</i>.`

@@ -1,1 +1,0 @@
-lar[56812]=`offrir l’aspect de la gomme, DIOSC. <i>1, 78</i>.<p><b>Étym</b>. κόμμι.`

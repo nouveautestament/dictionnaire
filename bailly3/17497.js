@@ -1,1 +1,0 @@
-lar[17497]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> là même, ici même, IL. <i>5, 487</i> ; HDT. <i>1, 93, etc. ; Att</i>. παρ' αὐ. IL. <i>23, 147</i> ; Q. SM. <i>6, 440 ; 7, 437, m. sign.</i><br><b>      2</b> ainsi, de même, LUC. <i>Cal. 24</i>.<p><b>Étym</b>. αὐτός, -θι.`

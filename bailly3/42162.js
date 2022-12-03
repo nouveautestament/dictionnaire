@@ -1,1 +1,0 @@
-lar[42162]=`<b>εὐθαρσέω-ῶ</b>, avoir bon courage, ESCHL. <i>Sept. 34, Suppl. 1015</i> ; AND. <i>21, 38</i>.<p><b>Étym</b>. εὐθαρσής.`

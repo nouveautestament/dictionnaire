@@ -1,1 +1,0 @@
-lar[72737]=`<b>ή, όν :<br>      1</b> sujet à l’asthme *ὀρθόπνοια, RUF. <i>p. 106</i>.<br><b>      2</b> qui consiste en une crise d’asthme *ὀρθόπνοια, HPC. <i>185h, 206h</i>.<p><b>Étym</b>. *ὀρθόπνοια.`

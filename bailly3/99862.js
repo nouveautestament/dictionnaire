@@ -1,1 +1,0 @@
-lar[99862]=`<b>τραγοριγανίτης οἶνος (ὁ)</b> <font color="purple">[ᾰρῑᾰ]</font> vin parfumé de thym, DIOSC. <i>5, 55</i>.<p><b>Étym</b>. <i>v</i>. τραγορίγανον, τραγορίγανος.`

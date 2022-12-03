@@ -1,1 +1,0 @@
-lar[59778]=`<b>ου (τὸ)</b> outil pour tailler la pierre, SPT. <i>Ps. 73, 7</i>.<p><b>Étym</b>. λαξεύω.`

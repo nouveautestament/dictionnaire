@@ -1,1 +1,0 @@
-lar[63884]=`<b>μελανό·κολπος, ος, ον</b> <font color="purple">[ᾰ]</font> au sein noir, BACCHYL. <i>fr. 40 Bgk</i>.<p><b>Étym</b>. μ. κόλπος.`

@@ -1,1 +1,0 @@
-lar[90978]=`<b>ατος (τὸ)</b> induration, DIOSC. <i>1, 1</i>.<p><b>Étym</b>. σκιρρόω.`

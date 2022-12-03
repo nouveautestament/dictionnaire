@@ -1,1 +1,0 @@
-lar[74806]=`<b>παν·αγής, ής, ές</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> tout à fait saint, sacré, DH. <i>6, 89, etc.</i> ; PLUT. <i>Cam. 20</i>.<br><b>      2</b> tout à fait souillé, exécrable, PHILONID. (<i>Com. fr. 2, 421).</i><p>•<i> Sup</i>. -έστατος, EL. (SUID. <i>v°</i> βδελυρός).<p><b>Étym</b>. π. ἄγος.`

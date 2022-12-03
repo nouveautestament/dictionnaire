@@ -1,1 +1,0 @@
-lar[33473]=`<b>ἐμπλαστρόω-ῶ</b>, appliquer comme un emplâtre, DIOSC. <i>Eup. 2, 20</i>.<p><b>Étym</b>. ἔμπλαστρον.`

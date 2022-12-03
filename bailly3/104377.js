@@ -1,1 +1,0 @@
-lar[104377]=`<i>vb. de</i> ὑπέχω, XÉN. <i>Lac. 9, 5</i> ; PLAT. <i>Rsp. 457e ;</i> ARSTT. <i>An. post. 1, 12, 2</i>.`

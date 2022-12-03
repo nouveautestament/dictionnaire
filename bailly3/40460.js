@@ -1,1 +1,0 @@
-lar[40460]=`<b>ἐρι·μύκης, ου</b> <font color="purple">[ῐῡ]</font> <i>adj. m. c</i>. ἐρίμυκος CALL. <i>fr. 442</i>.`

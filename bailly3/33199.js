@@ -1,1 +1,0 @@
-lar[33199]=`<b>ατος (τὸ)</b> matière vomie, HPC. <i>Progn. 41</i>.<p><b>Étym</b>. ἐμέω.`

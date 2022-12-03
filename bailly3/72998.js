@@ -1,1 +1,0 @@
-lar[72998]=`<font color="darkgreen">(<i>d’où pl.q.pf. 3 sg</i>. ὀρώρει)</font> veiller, faire bonne garde, <i>ou sel. d’autres,</i> s’élancer, IL. <i>23, 112</i>.<p><b>Étym</b>. ὁράω.`

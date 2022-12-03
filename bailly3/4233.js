@@ -1,1 +1,0 @@
-lar[4233]=`imiter Alexandre, APOLLOPH. (ATH. <i>251d</i>).<p><b>Étym</b>. Ἀλέξανδρος.`

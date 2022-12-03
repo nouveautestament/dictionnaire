@@ -1,1 +1,0 @@
-lar[37993]=`<b>ἐπι·κέλομαι :<br>      1</b> appeler à soi, invoquer, <i>acc</i>. IL. <i>9, 454</i> ; ESCHL. <i>Suppl. 41</i>.<br><b>      2</b> encourager, <i>dat</i>. A.RH. <i>3, 85</i>.<p>➳ <i>Ao.2 avec redoubl. poét. 3 sg</i>. ἐπεκέκλετο, IL. <i>9, 454 ; part</i>. ἐπικεκλόμεναι, ESCHL. <i>l. c</i>.`

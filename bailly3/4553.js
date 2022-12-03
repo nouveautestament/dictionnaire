@@ -1,1 +1,0 @@
-lar[4553]=`<b>ἁλί·ρροθος, ος, ον</b> <font color="purple">[ᾰ]</font> qui résonne du bruit de la mer, ESCHL. <i>Pers. 367</i> ; EUR. <i>Hipp. 1205</i>.<p><b>Étym</b>. ἅλς, ῥόθος.`

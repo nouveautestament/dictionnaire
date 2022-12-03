@@ -1,1 +1,0 @@
-lar[61272]=`<b>λιπ·ανδρέω</b>, <i>mieux que</i> <b>λειπ·ανδρέω-ῶ</b>, manquer d’hommes, STR. <i>259, 272, etc</i>.<p><b>Étym</b>. λείπω, ἀνήρ.`

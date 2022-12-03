@@ -1,1 +1,0 @@
-lar[85369]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> inscrit en outre <i>ou</i> avec d’autres, ajouté à une liste, DH. <i>2, 56</i> ; τὸ πρόσγραφον, PLUT. <i>M. 832a</i>, note, déclaration.<p><b>Étym</b>. προσγράφω.`

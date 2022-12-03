@@ -1,1 +1,0 @@
-lar[35607]=`<b>ἐξ·αρμόνιος, ος, ον</b>, qui rompt l’harmonie, discordant, PHÉRÉCR. (PLUT. <i>M. 114e</i>) ; PLUT. <i>M. 1142a</i>.<p><b>Étym</b>. ἐξ, ἁρμονία.`

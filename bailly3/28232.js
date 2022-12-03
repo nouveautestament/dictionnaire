@@ -1,1 +1,0 @@
-lar[28232]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> chagrin, morose, HÉRODOTUS (ORIB. <i>1, 501 B.-Dar</i>.).<p><b>Étym</b>. δυσάρεστος.`

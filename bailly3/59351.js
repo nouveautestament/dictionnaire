@@ -1,1 +1,0 @@
-lar[59351]=`<b>ακος (ὁ)</b> <font color="purple">[αᾱ]</font> loup de mer, <i>poisson,</i> AR. <i>Eq. 361</i> ; COM. (ATH. <i>310e</i>) ; ARSTT. <i>H.A. 8, 2</i>.<p><b>Étym</b>. λάβρος.`

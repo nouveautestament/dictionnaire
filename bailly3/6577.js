@@ -1,1 +1,0 @@
-lar[6577]=`<b>ή, όν</b>, corrosif, A. APHR. <i>Probl. 1, p. 278</i>.<p><b>Étym</b>. ἀναβιβρώσκω.`

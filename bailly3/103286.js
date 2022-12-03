@@ -1,1 +1,0 @@
-lar[103286]=`<b>εως (ἡ)</b> action d’allumer, d’enflammer, <i>fig</i>. POL. <i>6, 59, 4</i>.<p><b>Étym</b>. ὑποτύφω.`

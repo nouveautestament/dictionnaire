@@ -1,1 +1,0 @@
-lar[107554]=`<b>χαλί·κρατος</b> <font color="purple">[ᾰᾱ]</font>, <i>ion</i>. <b>χαλί·κρητος, ος, ον</b> <font color="purple">[ᾰ]</font> non mélangé, pur, <i>en parl. du vin,</i> ESCHL. <i>fr. 388</i> ; ARCHIL. <i>64</i> ; A.RH. <i>1, 473</i> ; ANTH. <i>5, 294</i>.<p><b>Étym</b>. χάλις, κεράννυμι.`

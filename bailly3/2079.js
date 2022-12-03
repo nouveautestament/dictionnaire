@@ -1,1 +1,0 @@
-lar[2079]=`<b>ἄ·θορος, ου</b>, <i>adj. m</i>. qui n’a pas encore sailli, A. LIB. <i>13</i>.<p><b>Étym</b>. ἀ, θορεῖν.`

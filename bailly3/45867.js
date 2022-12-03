@@ -1,1 +1,0 @@
-lar[45867]=`<b>Ἠρι·καπαῖος, ου (ὁ)</b> <font color="purple">[κᾰ]</font> dieu du printemps, <i>ép. de Bacchus ou de Priape,</i> ORPH. <i>H. 6, 4</i>.<p><b>Étym</b>. ἦρ, καπ-, <i>cf</i>. κεφαλή.`

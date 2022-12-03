@@ -1,1 +1,0 @@
-lar[15007]=`<b>ἀροτριόω-ῶ</b> (<i>seul. fut. pass</i>. -ωθήσεται, et <i>part. pf. pass</i>. ἠροτριωμένην) <font color="purple">[ᾰ]</font> labourer, PLUT. <i>M. 1161c</i> (<i>part. pf. pass</i>.) ; SPT. <i>Esaï. 7, 25 (fut. pass</i>.).<p><b>Étym</b>. ἀρότριος.`

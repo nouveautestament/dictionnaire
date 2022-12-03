@@ -1,1 +1,0 @@
-lar[4669]=`<b>(ὁ)</b> Alkmæonidès, <i>h</i>. AND. <i>1, 16 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀλκμαίων.`

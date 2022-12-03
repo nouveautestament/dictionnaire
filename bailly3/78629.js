@@ -1,1 +1,0 @@
-lar[78629]=`<font color="purple">[ῠ]</font> aller de côté et d’autre, circuler, SPT. <i>Jer. 49, 3</i>.<p><b>Étym</b>. περιελεύσομαι.`

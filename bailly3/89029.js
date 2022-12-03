@@ -1,1 +1,0 @@
-lar[89029]=`<b>*ῥώψ (ἡ)</b> <i>seul. pl</i>. ῥῶπες, ῶν (αἱ) buisson, broussailles, OD. <i>10, 166 ; 14, 49 ; 16, 47</i>.<p><b>Étym</b>. <i>cf</i>. ῥίψ.`

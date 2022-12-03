@@ -1,1 +1,0 @@
-lar[101943]=`<b>ὑπ·αναδύομαι</b> <font color="darkgreen">(<i>f</i>. -αναδύσομαι, <i>ao.2</i> -ανέδυν, <i>etc</i>.)</font> <font color="purple">[ῠᾰᾰ]</font> se soustraire à, esquiver, <i>acc</i>. DH. <i>7, 13</i>.`

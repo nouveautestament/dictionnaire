@@ -1,1 +1,0 @@
-lar[6992]=`<b>ἀνα·κουφίζω</b>, soulever légèrement, SOPH. <i>fr. 24</i> ; EUR. <i>Or. 218</i> ; ἑαυτὸν εἰς ἀνάβασιν, XÉN. <i>Eq. 7, 2,</i> se soulever pour monter à cheval, <i>au pass</i>. être <i>ou</i> se sentir soulagé, EUR. <i>Hipp. 1391 ; fig</i>. être transporté d’espérance, XÉN. <i>Hell. 5, 2, 28</i>.`

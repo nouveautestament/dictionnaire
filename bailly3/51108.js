@@ -1,1 +1,0 @@
-lar[51108]=`<b>Καλλ·ίδης (ὁ)</b> Kallidès, <i>h</i>. AND. <i>1, 127 Baiter-Sauppe</i> ; LUC. <i>D. mer. 8, 3</i>.<p><b>Étym</b>. κάλλος, ἰδεῖν.`

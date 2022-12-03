@@ -1,1 +1,0 @@
-lar[98547]=`<font color="purple">[ᾰ]</font> <i>adv</i>., quadrangulairement, PHILSTR. <i>321</i>.`

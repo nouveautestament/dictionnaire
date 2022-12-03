@@ -1,1 +1,0 @@
-lar[28082]=`<b>δυναμόω-ῶ</b> <font color="purple">[ῠᾰ]</font> fortifier, rendre puissant, SPT. <i>Ps. 67, 29 ; Eccl. 10, 10 ; Dan. 2, 27</i> ; AQU. <i>Job 36, 9</i> ; NYSS. <i>3, 1109a Migne</i>.<p><b>Étym</b>. δύναμις.`

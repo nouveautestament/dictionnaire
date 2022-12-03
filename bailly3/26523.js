@@ -1,1 +1,0 @@
-lar[26523]=`<b>ας (ἡ)</b> <font color="purple">[ῐκ]</font> femme-juge, LUC. <i>Pisc. 9</i>.`

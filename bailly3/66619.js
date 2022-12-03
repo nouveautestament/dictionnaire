@@ -1,1 +1,0 @@
-lar[66619]=`<b>μονό·ρρυθμος, ος, ον</b>, ajusté <i>ou</i> arrangé par un seul, <i>ou</i> dont l’ordonnance est simple, ESCHL. <i>Suppl. 961</i>.<p><b>Étym</b>. μ. ῥυθμός.`

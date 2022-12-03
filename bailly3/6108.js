@@ -1,1 +1,0 @@
-lar[6108]=`<b>ἀμφι·δινέω-ῶ</b> (<i>seul. pf. pass. 3 sg</i>. -δεδίνηται) <font color="purple">[δῑ]</font> faire tournoyer autour, <i>d’où, au pass.,</i> tournoyer <i>ou</i> rouler autour, IL. <i>23, 562</i> ; OD. <i>8, 405</i>.`

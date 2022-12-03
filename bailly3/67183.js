@@ -1,1 +1,0 @@
-lar[67183]=`<b>έων</b>, <i>acc</i>. <b>έας (οἱ)</b> les habitants de Myonia, THC. <i>3, 101</i>.`

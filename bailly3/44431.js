@@ -1,1 +1,0 @@
-lar[44431]=`<b>ζά·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> rempli d’or, EUR. <i>Alc. 498</i>.<p><b>Étym</b>. ζα-, χρυσός.`

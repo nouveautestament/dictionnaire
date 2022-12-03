@@ -1,1 +1,0 @@
-lar[99398]=`<b>ου (ὁ)</b> <font color="purple">[ῑῠ]</font><br><b>      1</b> singe (<i>ou</i> oiseau rare ?), TH. <i>Char. 5</i>.<br><b>      2</b> mouton avec une sonnette au cou qui conduit le troupeau, SERV. <i>Virg. Ecl. 1, 1</i>.`

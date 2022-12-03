@@ -1,1 +1,0 @@
-lar[82034]=`<b>Πολυ·κρίτης, ου</b>, <i>ion</i>. <b>εω (ὁ)</b> <font color="purple">[ῐ]</font> Polykritès, <i>h</i>. ANTH. <i>9, 319</i>.<p><b>Étym</b>. <i>v</i>. πολύκριτος.`

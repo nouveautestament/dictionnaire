@@ -1,1 +1,0 @@
-lar[74809]=`<b>παν·αγρεύς, έως (ὁ)</b> <font color="purple">[ᾰν]</font> <i>c</i>. παναγρής PHOCYL. <i>fr. 202 Bgk</i>.`

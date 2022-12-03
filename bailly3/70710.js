@@ -1,1 +1,0 @@
-lar[70710]=`<b>οἰστρο·δίνητος, ος, ον</b> <font color="purple">[ῑ]</font> rendu furieux par l’aiguillon (d’un taon) ESCHL. <i>Pr. 589</i>.<p><b>Étym</b>. οἶστρος, δινέω.`

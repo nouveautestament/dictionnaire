@@ -1,1 +1,0 @@
-lar[55272]=`<b>κηρο·γραφέω-ῶ</b> <font color="purple">[ᾰ]</font> peindre à la cire, ATH. <i>200a</i>.<p><b>Étym</b>. κηρός, γράφω.`

@@ -1,1 +1,0 @@
-lar[16339]=`<b>ἀστρό·πληγος, ος, ον</b>, brûlé (<i>litt</i>. frappé) par le soleil, GEOP. <i>5, 36</i>.<p><b>Étym</b>. ἄστρον, πλήσσω.`

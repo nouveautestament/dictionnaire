@@ -1,1 +1,0 @@
-lar[58456]=`<b>ων (τὰ)</b> Kydrares (<i>auj</i>. Carura) <i>v. de Phrygie,</i> HDT. <i>7, 30</i>.`

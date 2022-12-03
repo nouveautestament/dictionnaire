@@ -1,1 +1,0 @@
-lar[12348]=`<b>ἀπ·οδύρομαι</b>, se lamenter, PLAT. <i>Rsp. 606a ;</i> τινα <i>ou</i> τι, ESCHL. <i>Pr. 637</i> ; SOPH. <i>El. 1122,</i> sur qqn <i>ou</i> qqe ch. ; πρός τινα, HDT. <i>2, 141</i> ; DÉM. <i>118 fin, etc.</i> ; τινι, APD. <i>1, 9, 8,</i> auprès de qqn.`

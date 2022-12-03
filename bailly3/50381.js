@@ -1,1 +1,0 @@
-lar[50381]=`<b>ή, όν</b>, propre à conduire, à guider, GAL. <i>2, 27</i>.<p><b>Étym</b>. καθηγέομαι.`

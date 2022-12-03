@@ -1,1 +1,0 @@
-lar[10935]=`<b>ἀξιό·πιστος, ος, ον</b>, digne de foi <i>ou</i> de confiance, qui offre des garanties, PLAT. <i>1 Alc. 123b ;</i> DÉM. <i>10, 4 ; 413, 15</i> ; PLUT. <i>M. 178f ;</i> εἴς τι, XÉN. <i>Mem. 1, 5, 2,</i> pour qqe ch.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Mem. 4, 4, 17, etc.</i> ; PLAT. <i>Ep. 323a ;</i> ANTH. <i>5, 130, 6</i>.<p><b>Étym</b>. ἄ. πίστις.`

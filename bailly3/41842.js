@@ -1,1 +1,0 @@
-lar[41842]=`<b>εὔ·δηλος, ος, ον</b>, tout à fait visible, ESCHL. <i>Pers. 1009</i> ; εὔδηλόν (ἐστιν) ὅτι, PLAT. <i>Pol. 308d</i>, il est bien visible que, <i>etc. ; avec un part</i>. εὔδηλός (ἐστι) ποιῶν, AR. <i>Ach. 1130,</i> tout le monde peut le voir faire, <i>etc</i>.<p><b>Étym</b>. εὖ, δῆλος.`

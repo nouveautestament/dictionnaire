@@ -1,1 +1,0 @@
-lar[85044]=`<b>πρό·ραχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> brisants, récifs, M. RUBR. <i>p. 10</i>.<p><b>Étym</b>. π. ῥαχός.`

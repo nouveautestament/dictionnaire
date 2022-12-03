@@ -1,1 +1,0 @@
-lar[85249]=`<b>προσ·αποκτείνω</b>, tuer encore <i>ou</i> en outre, XÉN. <i>Cyr. 5, 3, 6</i> ; PLUT. <i>Dio. 58</i>.`

@@ -1,1 +1,0 @@
-lar[71886]=`<b>ὀνειρο·φαντασία, ας (ἡ)</b> <font color="purple">[τᾰ]</font> vision dans un songe, ARTÉM. <i>4, 63</i>.<p><b>Étym</b>. ὄ. φαντασία.`

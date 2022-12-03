@@ -1,1 +1,0 @@
-lar[3307]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à remettre en état : ἡ ἀκ. (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 281b ;</i> PLUT. <i>M. 974a</i>, métier de ravaudeur, de tailleur.<p><b>Étym</b>. ἀκέομαι.`

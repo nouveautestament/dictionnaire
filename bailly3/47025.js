@@ -1,1 +1,0 @@
-lar[47025]=`<b>*θεσπεσία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> expression de la volonté divine, IL. <i>2, 367</i>.<p><b>Étym</b>. <i>fém. de</i> θεσπέσιος.`

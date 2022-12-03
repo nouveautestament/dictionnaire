@@ -1,1 +1,0 @@
-lar[90148]=`<b>ου</b> <font color="purple">[ῐῑ]</font> <i>adj. m</i>. de fer : λίθος, ORPH. <i>Lith. 355, 384, 413,</i> pierre de fer, aimant ; <i>fig. en parl. de guerre,</i> PD. <i>N. 5, 35</i>.<p>➳ <i>Dor</i>. σιδαρίτας <font color="purple">[ᾱᾱ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. σίδηρος.`

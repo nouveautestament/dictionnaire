@@ -1,1 +1,0 @@
-lar[2575]=`<b>αἱμο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font> teint de sang, sanglant, SOPH. <i>Aj. 219</i>.<p><b>Étym</b>. αἷ. βάπτω.`

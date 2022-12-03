@@ -1,1 +1,0 @@
-lar[17800]=`<b>αὐτ·ώρης, ης, ες</b>, qui agit <i>ou</i> parle de soi-même, CALL. <i>fr. 264</i>.<p><b>Étym</b>. αὐ. -ωρης ; <i>cf</i>. νεώρης, ὑληώρης.`

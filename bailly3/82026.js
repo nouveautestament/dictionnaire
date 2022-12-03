@@ -1,1 +1,0 @@
-lar[82026]=`<b>πολυ·κρατής, ής, ές</b> <font color="purple">[ᾰ]</font> très puissant, tout-puissant, ESCHL. <i>Ch. 406</i>.<p><b>Étym</b>. π. κράτος.`

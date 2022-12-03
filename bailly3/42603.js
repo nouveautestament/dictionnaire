@@ -1,1 +1,0 @@
-lar[42603]=`<b>εὐλογιστέω-ῶ</b>, agir avec prudence, PLUT. <i>Oth. 13, M. 1072c ;</i> DL. <i>7, 88</i>.<p><b>Étym</b>. εὐλόγιστος.`

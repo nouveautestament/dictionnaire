@@ -1,1 +1,0 @@
-lar[54910]=`<b>κεράω-ῶ :<br>      1 <i>tr.</i></b> représenter avec des cornes <i>ou</i> un croissant, <i>acc</i>. ARAT. <i>780</i>.<br><b>      2 <i>intr.</i></b> se tenir à l’aile de l’armée, POL. <i>18, 7</i>.<p>➳ <i>Prés. 3 pl. épq</i>. κερόωσι, ARAT. <i>l. c</i>.<p><b>Étym</b>. κέρας.`

@@ -1,1 +1,0 @@
-lar[60126]=`<b>λειό·γλωσσος, ος, ον</b>, à langue doucereuse (<i>propr</i>. lisse, polie) SYMM. <i>Prov. 6, 24</i>.<p><b>Étym</b>. λεῖος, γλῶσσα.`

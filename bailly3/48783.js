@@ -1,1 +1,0 @@
-lar[48783]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Ikarios, <i>père de Pénélope,</i> OD. <i>1, 276, 329</i>.`

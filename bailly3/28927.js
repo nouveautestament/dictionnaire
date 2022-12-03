@@ -1,1 +1,0 @@
-lar[28927]=`<b>ας (ἡ)</b> accouchement <i>ou</i> enfantement difficile, ARSTT. <i>H.A. 7, 10, 1</i> ; TH. <i>H.P. 9, 16, 1</i> ; CALL. <i>Del. 242</i>.<p><b>Étym</b>. δύστοκος.`

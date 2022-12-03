@@ -1,1 +1,0 @@
-lar[75994]=`<b>παρ·ανοίγω</b> <font color="purple">[ᾰν]</font> <i>c</i>. παρανοίγνυμι PLUT. <i>M. 903d ; fig</i>. DH. <i>Rhet. 13</i>.`

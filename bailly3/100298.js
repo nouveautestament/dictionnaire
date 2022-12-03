@@ -1,1 +1,0 @@
-lar[100298]=`<b>ου (ὁ)</b> <font color="purple">[ῐῑ]</font> qui contient trois parts, LUC. <i>J. tr. 48</i>.<p><b>Étym</b>. τρίμοιρος.`

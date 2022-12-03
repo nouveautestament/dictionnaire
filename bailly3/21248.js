@@ -1,1 +1,0 @@
-lar[21248]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> squale, <i>poisson de mer,</i> ARSTT. <i>H.A. 1, 5, 2, etc.</i><br><b>      2</b> belette, <i>c</i>. γαλέη, DIOSC. <i>2, 27</i>.<br><b>      3</b> γ. ἀστερίας, PHILYLL. (E. BYZ. <i>v</i>° Γαλεῶται), sorte de lézard.`

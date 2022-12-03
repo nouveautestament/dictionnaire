@@ -1,1 +1,0 @@
-lar[86953]=`<i>adv</i>., en prophète, CLÉM. <i>1, 64, 485, 1113 Migne</i> ; ORIG. <i>429, 820 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[63245]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de combat : ἡ μαχητική, PLAT. <i>Soph. 225a, ou</i> τὸ μαχητικόν, PLAT. <i>Soph. 225a</i>, l’art de combattre.<br><b>      2</b> enclin à combattre, batailleur, ARSTT. <i>Rhet. 2, 14, 12 ; en parl. de chevaux rétifs,</i> PLAT. <i>Rsp. 467e</i>.<p><b>Étym</b>. μαχητός.`

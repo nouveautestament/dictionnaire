@@ -1,1 +1,0 @@
-lar[101898]=`<b>ὑπ·αίρω</b> <font color="purple">[ῠ]</font><br><b>      1</b> lever doucement <i>ou</i> peu à peu, <i>acc</i>. AR. <i>fr. 479</i>.<br><b>      2</b> soulever, lever, CHRYS.`

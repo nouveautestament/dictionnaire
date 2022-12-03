@@ -1,1 +1,0 @@
-lar[49549]=`<b>Ἰσαυρο·φόνος, ος, ον</b> <font color="purple">[ῐ]</font> qui massacre les Isauriens, ANTH. <i>9, 566</i>.<p><b>Étym</b>. Ἰσαυρεῖς, πεφνεῖν.`

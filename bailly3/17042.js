@@ -1,1 +1,0 @@
-lar[17042]=`(<i>souv. écrit ἄττω dans les mss.) att. c</i>. ᾄσσω, <i>p</i>. ἀΐσσω.`

@@ -1,1 +1,0 @@
-lar[3226]=`<i>adv</i>., sans pouvoir être contenu, DS. <i>17, 34</i> ; PLUT. <i>Cam. 37</i>.`

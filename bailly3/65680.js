@@ -1,1 +1,0 @@
-lar[65680]=`<b>ωνος (ὁ)</b> Mikkiôn, <i>peintre, élève de Zeuxis,</i> LUC. <i>Zeux. 7</i>.`

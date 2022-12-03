@@ -1,1 +1,0 @@
-lar[98909]=`<b>ή, όν</b>, capable de dissoudre, dissolvant, ARSTT. <i>P.A. 2, 2, 15</i> ; SEXT. <i>M. 8, 198, 199</i>.<p><b>Étym</b>. τήκω.`

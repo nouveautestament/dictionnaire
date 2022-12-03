@@ -1,1 +1,0 @@
-lar[3373]=`<b>ης (ἡ)</b> Akidousa, <i>font. de Béotie,</i> PLUT. <i>Qu. gr. 41</i>.`

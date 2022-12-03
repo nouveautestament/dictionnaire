@@ -1,1 +1,0 @@
-lar[55448]=`<b>οῦ (ὁ)</b> <font color="purple">[κῐῐκ]</font> meurtre à la cilicienne, <i>càd</i>. dans une orgie, THPP. <i>3</i>.<p><b>Étym</b>. Κίλιξ.`

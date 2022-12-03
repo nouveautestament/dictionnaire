@@ -1,1 +1,0 @@
-lar[102175]=`<b>ητος (ἡ)</b> opposition, contraste, EPIC. (DL. <i>10, 77</i>) ; STR. <i>454</i>.<p><b>Étym</b>. ὑπεναντίος.`

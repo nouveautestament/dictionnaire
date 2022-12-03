@@ -1,1 +1,0 @@
-lar[80726]=`<font color="purple">[ᾰ]</font> <i>adv</i>., largement, explicitement, DH. <i>Dem. 19</i>.<p>•<i> Cp</i>. πλατύτερον, HDN <i>2, 15</i>.<p><b>Étym</b>. πλατύς.`

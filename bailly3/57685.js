@@ -1,1 +1,0 @@
-lar[57685]=`<b>κραυρόω-ῶ</b>, dessécher, rendre cassant, friable, DC. <i>66, 21</i> ; PHIL. <i>2, 174</i>.<p><b>Étym</b>. κραῦρος.`

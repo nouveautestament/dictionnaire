@@ -1,1 +1,0 @@
-lar[81580]=`<b>ητος (ἡ)</b> blancheur des cheveux qui grisonnent, ARSTT. <i>G.A. 5, 1, 33, etc</i>.<p><b>Étym</b>. πολιός.`

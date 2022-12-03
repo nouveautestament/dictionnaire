@@ -1,1 +1,0 @@
-lar[97213]=`<b>Σώ·πολις, ιδος (ὁ)</b> Sôpolis, <i>h</i>. ISOCR. <i>19, 9 Baiter-Sauppe</i> ; LUC. <i>Lex. 18</i>.<p><b>Étym</b>. σῶς, πόλις.`

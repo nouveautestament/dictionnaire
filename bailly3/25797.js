@@ -1,1 +1,0 @@
-lar[25797]=`<b>διά·τυλος, ος, ον</b> <font color="purple">[ῠ]</font> raboteux, ORIB. <i>p. 28 Mai</i>.<p><b>Étym</b>. διά, τύλος.`

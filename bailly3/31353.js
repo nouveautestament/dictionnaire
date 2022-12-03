@@ -1,1 +1,0 @@
-lar[31353]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> sacrifice expiatoire, PLUT. <i>Marc. 28</i>.<p><b>Étym</b>. ἐκθύω.`

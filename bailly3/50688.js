@@ -1,1 +1,0 @@
-lar[50688]=`<b>κακο·γείτων</b>, <i>gén</i>. <b>ονος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> voisin du mal, porté au mal, CALL. <i>Cer. 117</i>.<br><b>      2</b> voisin du malheur, qui est proche du malheur, SOPH. <i>Ph. 692</i>.<p><b>Étym</b>. κ. γείτων.`

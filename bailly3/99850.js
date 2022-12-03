@@ -1,1 +1,0 @@
-lar[99850]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> sorte de plante à odeur de bouc, ARSTT. <i>Plant. 1, 7, 1</i> ; DIOSC. <i>4, 49, 50</i>.<p><b>Étym</b>. τράγος.`

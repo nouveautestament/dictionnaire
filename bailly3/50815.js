@@ -1,1 +1,0 @@
-lar[50815]=`<b>κακο·πινής, ής, ές</b> <font color="purple">[ᾰῐ]</font> sale, malpropre, impur, ATH. <i>565e</i>.<p>•<i> Sup</i>. -έστατος, SOPH. <i>Aj. 381</i>.<p><b>Étym</b>. κ. πίνος.`

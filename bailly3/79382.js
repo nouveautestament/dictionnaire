@@ -1,1 +1,0 @@
-lar[79382]=`<b>ου (τὸ) :<br>      1</b> jeune pigeon, jeune colombe, PHÉRÉCR. (<i>Com. fr. 2, 232</i>) ; PHRYN. COM. <i>2-1, 599 Mein.</i><br><b>      2</b> verveine, <i>plante,</i> DIOSC. <i>4, 60</i>.<p><b>Étym</b>. περιστερά.`

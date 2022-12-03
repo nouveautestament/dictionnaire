@@ -1,1 +1,0 @@
-lar[12712]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> empêchement, XÉN. <i>Eq. 3, 11</i>.<p><b>Étym</b>. ἀποκωλύω.`

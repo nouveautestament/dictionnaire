@@ -1,1 +1,0 @@
-lar[85270]=`<b>προσ·αποτίθημι</b> <font color="darkgreen">(<i>f</i>. -αποθήσω, <i>ao</i>. -απέθηκα, <i>etc</i>.)</font> <font color="purple">[τῐ]</font> déposer sur, <i>rég. ind. au dat</i>. POL. <i>13, 2, 5</i>.<br><b><i>Moy.</i></b> déposer en outre, CLÉM. <i>881</i>.`

@@ -1,1 +1,0 @@
-lar[101785]=`<b>ὑμενόω-ῶ</b> <font color="purple">[ῠ]</font> changer de membrane <i>ou</i> envelopper d’une membrane, <i>au pass</i>. HPC. <i>236, 14</i> ; GAL. <i>4, 526, 527, 625</i>.<p><b>Étym</b>. ὑμήν.`

@@ -1,1 +1,0 @@
-lar[1475]=`<b>ἀδο·λέσχης, ου (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> bavard, grand parleur, diseur de riens, PLAT. <i>Pol. 299b, Theæt. 195b, etc.</i><br><b>      2</b> <i>en b. part</i>. raisonneur ingénieux <i>ou</i> fin, PLAT. <i>Crat. 401</i>.<p><b>Étym</b>. <i>incert</i>.`

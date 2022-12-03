@@ -1,1 +1,0 @@
-lar[48208]=`<b>οῦ (ἡ)</b> <font color="purple">[ᾱῡ]</font> Ialysos, <i>v. de Rhodes (auj. brg</i> Ialiso <i>ou</i> Uxilica) IL. <i>2, 656</i> ; HDT. <i>1, 144</i> ; THC. <i>8, 44</i> ; STR. <i>655</i>.<p>➳ <font color="purple">[ῠ]</font> PD. <i>O. 7, 136</i> ; <font color="purple">[ῑᾰῠ]</font> ANTH. <i>7, 716. — Épq. et ion</i>. Ἰηλυσός, IL. HDT. <i>ll. cc</i>.`

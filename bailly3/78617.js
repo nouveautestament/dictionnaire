@@ -1,1 +1,0 @@
-lar[78617]=`<b>περι·ηγέομαι-οῦμαι :<br>      1</b> <i>dép</i>. mener autour : τινί τι, HDT. <i>7, 214,</i> faire faire à qqn le tour de qqe ch. ; <i>fig</i>. faire voir en détail, <i>acc</i>. LUC. <i>D. mort. 20, 1, etc.</i><br><b>      2</b> <i>pass</i>. être esquissé : τὸ περιηγηθέν, PLAT. <i>Leg. 770b</i>, ébauche, esquisse.`

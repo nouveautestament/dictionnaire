@@ -1,1 +1,0 @@
-lar[91888]=`<b>υγγος (ἡ)</b> caverne, antre, grotte, ARSTT. <i>H.A. 9, 17, 2</i> ; THCR. <i>Idyl. 16, 53</i> ; A.RH. <i>2, 568</i>.<p><b>Étym</b>. σπήλαιον, <i>cf. lat</i>. spēlunca.`

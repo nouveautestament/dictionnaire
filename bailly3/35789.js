@@ -1,1 +1,0 @@
-lar[35789]=`<b>ἐξ·ενεχυριάζω</b> <font color="purple">[ῠ]</font> prendre en gage, DL. <i>6, 99</i>.`

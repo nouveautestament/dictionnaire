@@ -1,1 +1,0 @@
-lar[65792]=`<b>ας (ἡ)</b> Milètia, <i>f</i>. PLUT. <i>Am. narr. 3, 1</i>.`

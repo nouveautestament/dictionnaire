@@ -1,1 +1,0 @@
-lar[86993]=`<b>προ·φυτεύω</b> <font color="purple">[ῠ]</font> planter <i>ou</i> semer auparavant, GEOP. <i>5, 11, 4 ; fig</i>. engendrer, SOPH. <i>El. 199</i>.`

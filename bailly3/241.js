@@ -1,1 +1,0 @@
-lar[241]=`<b>ος, ον</b> <font color="purple">[ᾱᾰ]</font> d’Agathias, ANTH. <i>6, 80</i>.<p><b>Étym</b>. Ἀγαθίας.`

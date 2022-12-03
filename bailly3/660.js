@@ -1,1 +1,0 @@
-lar[660]=`<b>ἀγκυλο·τόμον, ου (τὸ)</b> <font color="purple">[ῠ]</font> bistouri recourbé, P. ÉG. <i>156 Briau</i>.<p><b>Étym</b>. ἀγκύλος, τέμνω.`

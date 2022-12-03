@@ -1,1 +1,0 @@
-lar[102291]=`<b>ὑπερ·αρρωδέω-ῶ</b>, trembler fortement pour, <i>dat</i>. HDT. <i>8, 72</i>.<p><b>Étym</b>. <i>ion. p</i>. *ὑπερορρωδέω.`

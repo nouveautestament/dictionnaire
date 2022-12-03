@@ -1,1 +1,0 @@
-lar[100564]=`<b>τριτόω-ῶ</b> <font color="purple">[ῐ]</font> partager en trois, PORPH. <i>ad Marcell. 32</i>.<p><b>Étym</b>. τρίτος.`

@@ -1,1 +1,0 @@
-lar[46171]=`<b>θαλασσό·πληκτος, ος, ον</b> <font color="purple">[θᾰ]</font> battu de la mer, ESCHL. <i>Pers. 307</i>.<p><b>Étym</b>. θ. πλήσσω.`

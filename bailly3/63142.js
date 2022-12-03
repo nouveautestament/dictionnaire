@@ -1,1 +1,0 @@
-lar[63142]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> action de se donner une peine inutile, STR. <i>806</i> ; PLUT. <i>M. 119d, etc</i>.<p><b>Étym</b>. ματαιοπόνος.`

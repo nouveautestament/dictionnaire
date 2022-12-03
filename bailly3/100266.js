@@ -1,1 +1,0 @@
-lar[100266]=`<b>τρί·κροτος, ος, ον</b>, dont les rames frappent l’eau sur trois rangs, <i>d’où</i> à trois rangs de rames, ARSTD. <i>t. 1, 539</i>.<p><b>Étym</b>. τρεῖς, κροτέω.`

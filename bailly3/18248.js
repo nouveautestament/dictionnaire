@@ -1,1 +1,0 @@
-lar[18248]=`<b>οῦ (ὁ)</b> <font color="purple">[αῑσ]</font> action de se livrer aux plaisirs de l’amour, HPC. <i>Aph. 1257</i> ; ARSTT. <i>G.A. 1, 18, 54, etc</i>.<p><b>Étym</b>. ἀφροδισιάζω.`

@@ -1,1 +1,0 @@
-lar[46273]=`<b>ίτιδος</b> <font color="purple">[ῐῑδ]</font> <i>adj. f</i>. d’arbrisseau, NIC. <i>Th. 883</i>.<p><b>Étym</b>. θάμνος.`

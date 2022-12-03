@@ -1,1 +1,0 @@
-lar[4390]=`<b>ιος (ἡ)</b> <i>ion</i>. guérison, HPC. <i>Fract. 758</i> ; ARÉT. <i>Cur. m. acut. 2, 2</i>.<p><b>Étym</b>. *ἀλθέσσω.`

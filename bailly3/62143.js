@@ -1,1 +1,0 @@
-lar[62143]=`<b>λυχνο·πώλης, ου (ὁ)</b> marchand de lampes, AR. <i>Eq. 739</i>.<p><b>Étym</b>. λ. πωλέω.`

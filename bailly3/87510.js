@@ -1,1 +1,0 @@
-lar[87510]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> pugilat, PD. <i>O. 11, 12, etc. ; au plur</i>. PRATIN. <i>fr. 1, 8 Bgk</i>.<p>➳ <i>Ion</i>. -ίη, IL. <i>23, 653, 665</i>.<p><b>Étym</b>. πυγμάχος.`

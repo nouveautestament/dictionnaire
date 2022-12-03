@@ -1,1 +1,0 @@
-lar[14693]=`<b>Ἀριστο·γένης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Aristogénès, <i>h</i>. XÉN. <i>Hell. 1, 2, 8, etc</i>.<p>➳ <i>Acc</i>. -η ; <i>qqf</i>. -ην, XÉN. <i>Hell. 1, 5, 16 ; 6, 31 ; 7, 1</i> ; DS. <i>13, 74</i>.<p><b>Étym</b>. ἄ. γένος.`

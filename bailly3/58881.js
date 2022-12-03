@@ -1,1 +1,0 @@
-lar[58881]=`<b>κυπαρισσ·όροφος, ος, ον</b> <font color="purple">[ῠᾰ]</font> au toit de cyprès, MNÉSIM. (ATH. <i>402f</i>).<p><b>Étym</b>. κ. ὄροφος.`

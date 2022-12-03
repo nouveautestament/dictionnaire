@@ -1,1 +1,0 @@
-lar[56193]=`<b>ου (ἡ)</b> Klônarion, <i>f</i>. LUC. <i>D. mer. 5</i>.<p><b>Étym</b>. <i>v</i>. κλωνάριον.`

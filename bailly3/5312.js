@@ -1,1 +1,0 @@
-lar[5312]=`<font color="purple">[μᾰ]</font> <i>adv</i>., sans conteste, LUC. <i>M. cond. 3</i> ; SEXT. <i>M. 8, 266</i>.`

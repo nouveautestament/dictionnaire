@@ -1,1 +1,0 @@
-lar[28361]=`<b>δυσ·έκρυπτος, ος, ον</b> <font color="purple">[ῠσ]</font> difficile à nettoyer, indélébile, XÉNOCR. <i>Al. 58 (var</i>. -έκνιπτος).<p><b>Étym</b>. δ. ἐκρύπτω.`

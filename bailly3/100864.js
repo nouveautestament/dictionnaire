@@ -1,1 +1,0 @@
-lar[100864]=`<b>τρυσί·βιος, ος, ον</b> <font color="purple">[ῡσῐ]</font> fait aux privations, AR. <i>Nub. 421</i>.<p><b>Étym</b>. τρύω, βίος.`

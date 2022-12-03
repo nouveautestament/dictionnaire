@@ -1,1 +1,0 @@
-lar[11982]=`<b>ἀπιο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à une poire, TH. <i>H.P. 3, 10, 3</i>.<p><b>Étym</b>. ἄπιον, εἶδος.`

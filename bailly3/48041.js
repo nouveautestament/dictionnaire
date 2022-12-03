@@ -1,1 +1,0 @@
-lar[48041]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit thyrse, PLUT. <i>M. 614a</i>.<p><b>Étym</b>. θύρσος.`

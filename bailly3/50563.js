@@ -1,1 +1,0 @@
-lar[50563]=`<i>adv</i>., d’une manière neuve, originale.<p>•<i> Cp</i>. -πρεπεστέρως, ARSTT. <i>Metaph. 1, 8, 11 ; • Sup</i>. -πρεπέστατα, DC. <i>79, 11</i>.`

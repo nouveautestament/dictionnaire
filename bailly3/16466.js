@@ -1,1 +1,0 @@
-lar[16466]=`<b>ἀ·συμπώρωτος, ος, ον</b>, qui ne se soude pas (os fracturé) DIOSC. <i>1, 155</i> ; P. ÉG.<p><b>Étym</b>. ἀ, συμπωρόω.`

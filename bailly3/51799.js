@@ -1,1 +1,0 @@
-lar[51799]=`<b>ης (ἡ)</b> <font color="purple">[ᾱῐ]</font> femme de Carie, Carienne, PHÆNIAS (PLUT. <i>Them. 1</i>) ; PLUT. <i>M. 246e</i>.<p><b>Étym</b>. Κάρ.`

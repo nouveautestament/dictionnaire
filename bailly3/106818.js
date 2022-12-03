@@ -1,1 +1,0 @@
-lar[106818]=`<b>φρε·άντλης, ου (ὁ)</b> qui tire de l’eau d’un puits, <i>jeu de mots sur le nom</i> Κλεάνθης, DL. <i>7, 168</i>.<p><b>Étym</b>. φρέαρ, ἀντλέω.`

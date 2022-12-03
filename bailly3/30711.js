@@ -1,1 +1,0 @@
-lar[30711]=`<i>anc. att</i>. <b>ἔσβασις, εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action d’entrer, EUR. <i>I.T. 101 au pl.</i><br><b>      2</b> action de s’embarquer, THC. <i>7, 30</i> ; DC. <i>41, 42</i>.<p>➳ ἔσβ. THC. DC. <i>ll. cc</i>.<p><b>Étym</b>. εἰσβαίνω.`

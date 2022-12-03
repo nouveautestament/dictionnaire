@@ -1,1 +1,0 @@
-lar[79258]=`<b>ας (ἡ)</b> âpreté, <i>fig</i>. ARSTT. <i>fr. 24</i> ; PORPH. <i>ad Marcell. 2</i>.<p><b>Étym</b>. περισκελής.`

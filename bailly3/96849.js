@@ -1,1 +1,0 @@
-lar[96849]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de lancer la fronde, PLAT. <i>Lach. 193b</i>.<p><b>Étym</b>. σφενδονάω.`

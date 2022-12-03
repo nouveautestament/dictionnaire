@@ -1,1 +1,0 @@
-lar[99264]=`<b>Τιμο·φάνης, ους (ὁ)</b> <font color="purple">[ῑᾰ]</font> Timophanès, <i>h</i>. ARSTT. <i>Pol. 5, 3, 3 ; 5, 5, 9</i> ; PLUT. <i>Tim. 3, 4</i>.<p><b>Étym</b>. τ. φαίνω.`

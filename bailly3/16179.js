@@ -1,1 +1,0 @@
-lar[16179]=`<b>ων (οἱ)</b> Astéries, <i>anc. n. des habitants de Kolkhos,</i> NONN.`

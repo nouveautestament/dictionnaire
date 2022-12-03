@@ -1,1 +1,0 @@
-lar[65842]=`<b>εως (ἡ)</b> <font color="purple">[μῑ]</font><br><b>      1</b> action d’imiter, imitation, THC. <i>1, 95</i> ; PLAT. <i>Leg. 705c, etc.</i> ; AR. <i>Th. 156</i>.<br><b>      2</b> représentation, image, portrait, HDT. <i>3, 37</i>.<br><b>      3</b> action de reproduire, de figurer, ARSTT. <i>Poet. 6, 12</i>.<p><b>Étym</b>. μιμέομαι.`

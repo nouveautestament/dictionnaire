@@ -1,1 +1,0 @@
-lar[42711]=`<b>εὔ·μνηστος, ος, ον</b>, qui se souvient fidèlement de, <i>gén</i>. SOPH. <i>Tr. 109</i> ; POÈT. (PAUS. <i>10, 5, 8).</i><p>➳ <i>Dor</i>. εὔμναστος, SOPH. <i>l. c</i>.<p><b>Étym</b>. εὖ, μιμνῄσκομαι.`

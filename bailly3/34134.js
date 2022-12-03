@@ -1,1 +1,0 @@
-lar[34134]=`<i>adv</i>., continuellement, XÉN. <i>Cyn. 7, 2</i> ; PLAT. <i>Rsp. 539d ; Tim. 43d, 58c</i>.<p><b>Étym</b>. ἐνδελεχής.`

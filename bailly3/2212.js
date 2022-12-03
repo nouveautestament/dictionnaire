@@ -1,1 +1,0 @@
-lar[2212]=`<b>έως (ὁ)</b> Ægée (Égée) <i>roi d’Athènes, père de Thésée,</i> ESCHL. <i>Eum. 683</i> ; SOPH. <i>O.C. 69</i>.<p>➳ <i>Gén. ion</i>. -έος, HDT. <i>1, 173 ; acc. att</i>. -έα, AR. (SUID.).`

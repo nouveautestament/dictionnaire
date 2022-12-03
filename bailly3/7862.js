@@ -1,1 +1,0 @@
-lar[7862]=`<b>εως (ἡ)</b> appel à haute voix, PHIL. <i>1, 597</i>.<p><b>Étym</b>. ἀναφθέγγομαι.`

@@ -1,1 +1,0 @@
-lar[18694]=`<b>ίδος</b> <font color="purple">[ᾰῠῐδ]</font> <i>adj. f</i>. de Babylone <i>ou</i> de Babylonie, NONN. <i>D. 40, 303</i>.`

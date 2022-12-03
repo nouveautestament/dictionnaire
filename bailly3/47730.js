@@ -1,1 +1,0 @@
-lar[47730]=`<i>att</i>. <b>θρίττα, ης (ἡ)</b> alose, <i>poisson rempli d’arêtes très fines,</i> ANAXANDR. (<i>Com. fr. 3, 184</i>) ; EPHIPP. (<i>Com. fr. 3, 330</i>) ; ARSTT. <i>H.A. 9, 37, 10</i>.<p><b>Étym</b>. θρίξ.`

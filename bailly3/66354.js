@@ -1,1 +1,0 @@
-lar[66354]=`<b>ός, όν</b>, qui travaille le plomb, APD. POL. <i>21</i>.<p><b>Étym</b>. μόλιβδος, ἔργον.`

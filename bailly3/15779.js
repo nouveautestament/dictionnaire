@@ -1,1 +1,0 @@
-lar[15779]=`<i>adv</i>., sans être ébranlé, EPIC. (DL. <i>10, 87</i>) ; ARR. <i>Epict. 2, 17, 33 ; etc</i>.`

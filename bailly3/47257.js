@@ -1,1 +1,0 @@
-lar[47257]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> petit insecte, DAMOCR. (GAL. <i>13, 892).</i><p><b>Étym</b>. <i>dim. de</i> θηρίον.`

@@ -1,1 +1,0 @@
-lar[101477]=`<b>ὑδατόω-ῶ</b> <font color="purple">[ῠᾰ]</font> rendre aqueux, <i>d’où au pass.</i> :<br><b>      1</b> se changer <i>ou</i> se résoudre en eau, <i>particul</i>. devenir hydropique, HPC. <i>1195a ;</i> RUF. <i>p. 97 Matthäi</i>.<br><b>      2</b> être liquide, ANTH. <i>9, 709</i>.<p><b>Étym</b>. ὕδωρ.`

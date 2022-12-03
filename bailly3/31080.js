@@ -1,1 +1,0 @@
-lar[31080]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui en arrive à passer, à s’effectuer, GAL. <i>2, 235d</i>.<p><b>Étym</b>. <i>vb. de</i> ἐκβαίνω.`

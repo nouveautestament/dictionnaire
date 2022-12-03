@@ -1,1 +1,0 @@
-lar[50189]=`<b>ου (ὁ)</b> mesure de froment <i>correspondant au</i> χοῖνιξ, SPT. <i>4Reg. 6, 25</i>.`

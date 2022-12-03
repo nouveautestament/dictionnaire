@@ -1,1 +1,0 @@
-lar[76914]=`<b>παρθενό·χρως, ωτος (ὁ, ἡ)</b> qui a le teint d’une jeune fille, ANTH. <i>4, 1, 12</i>.<p><b>Étym</b>. π. χρώς.`

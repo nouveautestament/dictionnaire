@@ -1,1 +1,0 @@
-lar[53082]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ᾰσ]</font> application d’un cataplasme, HPC. <i>49, 39</i>.<p><b>Étym</b>. καταπλάσσω.`

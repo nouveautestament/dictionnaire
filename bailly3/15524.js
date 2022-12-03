@@ -1,1 +1,0 @@
-lar[15524]=`<b>(ἡ)</b> sorte de vigne-blanche, DIOSC. <i>4, 84</i>.`

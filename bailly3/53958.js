@@ -1,1 +1,0 @@
-lar[53958]=`<i>adv</i>., en toute hâte, PLUT. <i>M. 522d ;</i> DIOSC. <i>Ther. præf. p. 422e</i>.<p><b>Étym</b>. κατασπεύδω.`

@@ -1,1 +1,0 @@
-lar[66381]=`<i>att</i>. <b>Μολοττία, ας (ἡ)</b> la Molossie, <i>contrée d’Épire,</i> PD. <i>N. 7, 38</i> ; EUR. <i>Andr. 1248</i> ; ARSTT. <i>H.A. 9, 1</i>.`

@@ -1,1 +1,0 @@
-lar[66822]=`<b>ης (ἡ)</b> Motyè, <i>port dans une î. du même nom près de la Sicile,</i> THC. <i>6, 2</i>.`

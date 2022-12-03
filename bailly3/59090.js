@@ -1,1 +1,0 @@
-lar[59090]=`<b>ου (τὸ)</b> petite toison de brebis, petite peau de brebis, AR. <i>Pl. 166, etc.</i> ; PLAT. <i>Prot. 315d ;</i> ARSTT. <i>H.A. 8, 10 ; particul</i>. la toison d’or, LUC. <i>Gall. 1</i>.<p><b>Étym</b>. *κωίδιον, <i>dim. de</i> κῶας.`

@@ -1,1 +1,0 @@
-lar[49559]=`<b>ή, όν</b> <font color="purple">[ῑ̆σ]</font> équinoxial, ARSTT. <i>Meteor. 2, 6, 3, etc.</i> ; TH. <i>C.P. 4, 11, 4</i> ; STR. <i>71</i> ; ὁ ἰσημερινὸς κύκλος, PLUT. <i>M. 429f, ou simpl</i>. ὁ ἰσ. STR. <i>1, 21, Kram</i>. l’équateur ; οἱ ἰσημερινοὶ χρόνοι, PTOL. <i>Geogr. p. 15, 9 Halm</i>. les degrés de l’équateur.<p><b>Étym</b>. ἰσημερία.`

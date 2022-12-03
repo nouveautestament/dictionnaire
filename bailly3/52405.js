@@ -1,1 +1,0 @@
-lar[52405]=`<b>εως (ἡ)</b> contemplation, APD. POL. <i>14, 23</i>.<p><b>Étym</b>. καταθεωρέω.`

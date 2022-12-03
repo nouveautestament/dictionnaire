@@ -1,1 +1,0 @@
-lar[20280]=`<font color="purple">[ῠ]</font> <i>adv</i>., en forme de boucles, GAL. <i>4, 278</i>.`

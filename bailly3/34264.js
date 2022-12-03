@@ -1,1 +1,0 @@
-lar[34264]=`<b>ἐν·δυναστεύω</b> <font color="purple">[ῠ]</font> être puissant sur <i>ou</i> parmi : παρά τινι, PLAT. <i>Rsp. 516d</i>, auprès de qqn ; τινί, ESCHL. <i>Pers. 691,</i> régner sur qqn ; <i>avec</i> ὥστε <i>et l’inf</i>. XÉN. <i>Hell. 7, 1, 42,</i> obtenir par son crédit que.`

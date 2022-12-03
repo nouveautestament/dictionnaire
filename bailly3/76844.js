@@ -1,1 +1,0 @@
-lar[76844]=`<b>ή, όν</b>, qui console, qui adoucit, qui calme, GAL. <i>14, 335 au</i> <i>• Sup</i>. -ώτατος.<p><b>Étym</b>. παρηγορητός.`

@@ -1,1 +1,0 @@
-lar[72700]=`<b>ὀρθο·δίκαιος, ος, ον</b> <font color="purple">[ῐκ]</font> qui observe une exacte (<i>propr</i>. une droite) justice, ESCHL. <i>Eum. 994</i>.<p><b>Étym</b>. ὀ. δίκαιος.`

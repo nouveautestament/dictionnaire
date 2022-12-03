@@ -1,1 +1,0 @@
-lar[97902]=`<b>ταχύ·μηνις, ιος (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> promptement irritable, ANTH. <i>9, 524, 20</i>.<p><b>Étym</b>. τ. μῆνις.`

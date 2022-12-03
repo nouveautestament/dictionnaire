@@ -1,1 +1,0 @@
-lar[105892]=`<b>φιλο·λήϊος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime le butin, pillard, HH. <i>Merc. 335</i>.<p><b>Étym</b>. φ. ληΐη.`

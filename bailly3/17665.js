@@ -1,1 +1,0 @@
-lar[17665]=`<b>αὐτ·οπτέω-ῶ</b>, <i>f</i>. ήσω, voir de ses propres yeux, PAUS. <i>4, 31, 5</i> ; HLD. <i>3, 1 etc</i>.<p><b>Étym</b>. αὐτόπτης.`

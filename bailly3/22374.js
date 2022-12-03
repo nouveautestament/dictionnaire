@@ -1,1 +1,0 @@
-lar[22374]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐδ]</font> pilule, GAL. <i>Lex. Hipp. 19, 91</i>.<p><b>Étym</b>. <i>dim. de</i> γογγυλίς.`

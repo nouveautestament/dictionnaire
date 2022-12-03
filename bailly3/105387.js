@@ -1,1 +1,0 @@
-lar[105387]=`<b>ω (ἡ)</b> <font color="purple">[ῐᾰ]</font> figue de Phibalis, AR. <i>Ach. 802</i> ; COM. (ATH. <i>75c</i>).<p><b>Étym</b>. Φίβαλις.`

@@ -1,1 +1,0 @@
-lar[53695]=`<b>ος, ον</b>, où l’on peut trouver un refuge, PLUT. <i>M. 290c</i>.<p><b>Étym</b>. καταφεύγω.`

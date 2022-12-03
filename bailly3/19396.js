@@ -1,1 +1,0 @@
-lar[19396]=`<b>εως (ἡ)</b> action d’endormir un enfant avec des chants, RUF. (ORIB. <i>3, 160, 10).</i><p><b>Étym</b>. βαυκαλάω.`

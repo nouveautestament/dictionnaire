@@ -1,1 +1,0 @@
-lar[90865]=`<b>εως (ἡ)</b> Skèpsis, <i>v. de Mysie,</i> XÉN. <i>Hell. 3, 1, 15, etc.</i> ; DÉM. <i>23, 154 Baiter-Sauppe, etc</i>.`

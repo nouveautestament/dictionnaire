@@ -1,1 +1,0 @@
-lar[9872]=`<b>(ὁ)</b> Antidôridès, <i>h</i>. DÉM. <i>1386, 10</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀντίδωρος.`

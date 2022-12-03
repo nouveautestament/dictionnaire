@@ -1,1 +1,0 @@
-lar[8992]=`<b>ίδος (ἡ)</b> anthyllis <i>ou</i> cresse, <i>plante marine,</i> DIOSC. <i>3, 153</i>.<p><b>Étym</b>. ἄνθος.`

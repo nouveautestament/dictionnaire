@@ -1,1 +1,0 @@
-lar[105224]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de chêne, IL. <i>5, 838</i> ; ANTH. <i>6, 351, etc</i>.<p><b>Étym</b>. φηγός.`

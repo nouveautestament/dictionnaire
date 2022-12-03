@@ -1,1 +1,0 @@
-lar[101971]=`<b>ιος (ὁ)</b> Hypanis (<i>auj</i>. Boug) <i>fl. de la Sarmatie d’Europe,</i> HDT. <i>4, 17, 18, etc</i>.<p>➳ <i>Dat</i>. Ὑπάνιδι, D. CHR. <i>Or. 36, 47</i>.`

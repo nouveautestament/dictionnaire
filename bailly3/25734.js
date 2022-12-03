@@ -1,1 +1,0 @@
-lar[25734]=`<b>ατος (τὸ)</b> poil arraché, <i>d’où</i> rognure, ANTH. <i>6, 71</i>.<p><b>Étym</b>. διατίλλω.`

@@ -1,1 +1,0 @@
-lar[15376]=`<b>ἀρτι·σύλληπτος, ος, ον</b> <font color="purple">[ῐ]</font> nouvellement conçu, DIOSC. <i>Par. 2, 77</i>.`

@@ -1,1 +1,0 @@
-lar[27394]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> bonne qualité d’une chose, CHRYS. <i>4, 752</i>.<p><b>Étym</b>. δόκιμος.`

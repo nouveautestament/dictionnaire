@@ -1,1 +1,0 @@
-lar[59014]=`<i>poét. c</i>. κύσαι, <i>inf. ao. de</i> κυνέω, <i>ou pour</i> κῦσαι, <i>inf. ao. de</i> κύω.`

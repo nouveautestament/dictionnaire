@@ -1,1 +1,0 @@
-lar[85967]=`<b>προσ·καταπυκνόω-ῶ</b>, condenser en outre <i>ou</i> encore plus, <i>fig. acc</i>. PLUT. <i>M. 491a</i>.`

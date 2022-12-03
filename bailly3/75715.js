@@ -1,1 +1,0 @@
-lar[75715]=`<b>παρα·κελητίζω</b> <font color="darkgreen">(<i>f. att</i>. ιῶ)</font> chevaucher le long de, <i>acc</i>. AR. <i>Pax 900</i>.`

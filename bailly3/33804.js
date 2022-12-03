@@ -1,1 +1,0 @@
-lar[33804]=`<b>ἐν·αθύρω</b> <font color="purple">[ᾰῡ]</font> se jouer dans, HIM. <i>Or. 24, 2</i>.`

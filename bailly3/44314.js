@@ -1,1 +1,0 @@
-lar[44314]=`<b>εως (ἡ) :<br>      1</b> action de cuire, cuisson, HDT. <i>4, 61</i> ; PLAT. <i>Pol. 303e ;</i> ARSTT. <i>H.A. 10, 7</i>.<br><b>      2</b> action de fondre, TH. <i>H.P. 5, 9, 1</i>.<p><b>Étym</b>. ἑψέω.`

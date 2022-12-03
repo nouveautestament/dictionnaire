@@ -1,1 +1,0 @@
-lar[32362]=`<b>ἐκ·φυλάσσω</b> <font color="purple">[ῠ]</font> garder avec soin, veiller attentivement, SOPH. <i>O.C. 285</i> ; EUR. <i>Or. 1259 ; avec un relat</i>. ἐκφρ. ὅπου, EUR. <i>Ion 741,</i> veiller avec soin où, <i>etc</i>.`

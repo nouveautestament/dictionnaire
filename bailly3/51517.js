@@ -1,1 +1,0 @@
-lar[51517]=`<b>κανη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte une corbeille, <i>particul. à Athènes,</i> αἱ κανηφόροι, AR. <i>Ach. 242, 260 ; Av. 1551,</i> les Canéphores, <i>jeunes filles qui portaient sur leur tête les corbeilles contenant les objets pour le sacrifice</i>.<p><b>Étym</b>. κάνεον, φέρω.`

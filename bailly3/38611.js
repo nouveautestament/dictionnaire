@@ -1,1 +1,0 @@
-lar[38611]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> chant de victoire, STR. <i>421 conj</i>.<p><b>Étym</b>. ἐπιπαιανίζω.`

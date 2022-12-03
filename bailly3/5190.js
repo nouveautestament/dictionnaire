@@ -1,1 +1,0 @@
-lar[5190]=`<b>ἀμαλλο·τόκος, ος, ον</b> <font color="purple">[ᾰμ]</font> qui enfante des gerbes, NONN. <i>D. 7, 84</i>.<p><b>Étym</b>. ἄμαλλα, τίκτω.`

@@ -1,1 +1,0 @@
-lar[95979]=`<b>σύν·θροος, οος, οον</b>, qui résonne avec, <i>dat</i>. ANTH. <i>9, 308 ; abs. en parl. de l’écho,</i> NONN. <i>D. 16, 335</i>.<p><b>Étym</b>. σύν, θρόος.`

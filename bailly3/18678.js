@@ -1,1 +1,0 @@
-lar[18678]=`<i>p.-ê. par réduction de</i> βασιλεῦ, ô roi ! ESCHL. <i>Suppl. 892</i>.<p><b>Étym</b>. <i>cf</i>. δῶ = δῶμα, κρῖ = κριθή, μᾶ = μᾶτερ.`

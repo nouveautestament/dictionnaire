@@ -1,1 +1,0 @@
-lar[32641]=`<b>ἐλεεινο·λογέομαι-οῦμαι</b>, chercher à exciter la pitié par ses discours, HERMOG. <i>2, 294 Sturm</i>.<p><b>Étym</b>. ἐλεεινός, λόγος.`

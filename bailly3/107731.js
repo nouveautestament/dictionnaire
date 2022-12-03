@@ -1,1 +1,0 @@
-lar[107731]=`<b>ωνος (ὁ)</b> Khalkôn, <i>h</i>. IL. <i>16, 595</i> ; THCR. <i>Idyl. 7, 6, etc</i>.<p><b>Étym</b>. χαλκός.`

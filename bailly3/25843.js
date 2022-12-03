@@ -1,1 +1,0 @@
-lar[25843]=`<b>δια·φημίζω</b> <font color="darkgreen">(<i>impf</i>. διεφήμιζον, <i>ao</i>. διεφήμισα)</font> faire connaître partout, divulguer, ARAT. <i>221</i> ; DH. <i>11, 46</i> ; NT. <i>Marc. 1, 45</i>.<br><b><i>Moy.</i></b> <font color="darkgreen"><i>(ao. 3 pl</i>. διεφημίξαντο, DP. <i>26)</font> m. sign</i>.<p><b>Étym</b>. διά, φήμη.`

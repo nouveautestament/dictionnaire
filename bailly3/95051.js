@@ -1,1 +1,0 @@
-lar[95051]=`<b>συν·δάκνω</b>, mordre <i>ou</i> ronger avec, XÉN. <i>Eq. 6, 9</i> ; ARSTT. <i>H.A. 9, 6, 6, etc. ; fig. au pass</i>. SPT. <i>Tob. 11, 12</i>.`

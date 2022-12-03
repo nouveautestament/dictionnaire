@@ -1,1 +1,0 @@
-lar[17864]=`<b>ἀφ·αμαρτοεπής, ής, ές</b> <font color="purple">[ᾰμ]</font> qui s’égare dans ses discours, IL. <i>3, 215</i>.<p><b>Étym</b>. <i>Cf</i>. ἁμαρτοεπής.`

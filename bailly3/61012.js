@@ -1,1 +1,0 @@
-lar[61012]=`<b>λιθ·αργύρινος, η, ον</b> <font color="purple">[ῐῠῐ]</font> fait de litharge <i>ou</i> d’étain, ARSTT. <i>Soph. el. 1, 1</i>.<p><b>Étym</b>. λιθάργυρος.`

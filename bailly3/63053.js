@@ -1,1 +1,0 @@
-lar[63053]=`<b>ιδος</b> <font color="purple">[σᾰῐδ]</font> <i>adj. f. c</i>. Μασσαγέτης LUC. <i>Char. 13</i>.`

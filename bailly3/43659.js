@@ -1,1 +1,0 @@
-lar[43659]=`<b>εὔ·τυκτος, ος, ον</b>, bien travaillé, bien préparé (casque, courroie, lit, <i>etc</i>.) IL. <i>3, 336 ; 8, 44, etc.</i> ; OD. <i>4, 123</i> ; A.RH. <i>1, 287 ; 4, 219</i> ; OPP. <i>H. 5, 307</i>.<p>➳ <i>Épq</i>. ἐΰτυκτος, HOM. <i>ll. cc</i>.<p><b>Étym</b>. εὖ, τεύχω.`

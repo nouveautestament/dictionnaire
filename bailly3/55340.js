@@ -1,1 +1,0 @@
-lar[55340]=`<b>ης, ες :<br>      1</b> de la forme <i>ou</i> de la grosseur d’un cétacé, ARSTT. <i>H.A. 8, 2, 4, etc.</i><br><b>      2</b> <i>p. ext</i>. d’une grosseur énorme, DS. <i>2, 54</i>.<p><b>Étym</b>. κῆτος, -ωδης.`

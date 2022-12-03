@@ -1,1 +1,0 @@
-lar[22517]=`<b>ῆς (ἡ)</b> la Gordyène, <i>contrée d’Arménie,</i> PLUT. <i>Luc. 21, Pomp. 36 ; etc</i>.`

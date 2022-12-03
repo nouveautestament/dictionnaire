@@ -1,1 +1,0 @@
-lar[90931]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> renard femelle, EL. <i>N.A. 7, 47</i>.`

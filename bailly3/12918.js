@@ -1,1 +1,0 @@
-lar[12918]=`<b>ἀπό·μυιος, ος, ον</b>, qui chasse les mouches, <i>ép. de Zeus et d’Hèraklès,</i> PAUS. <i>5, 14, 1</i> ; EL. <i>N.A. 5, 17 ; 11, 8</i>.<p><b>Étym</b>. ἀπό, μυῖα.`

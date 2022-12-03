@@ -1,1 +1,0 @@
-lar[39164]=`<b>ἐπι·στοναχίζω</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐπιστοναχέω BATR. <i>73</i> ; HÉS. <i>Th. 843 dout</i>.<p><b>Étym</b>. ἐπί, στοναχή.`

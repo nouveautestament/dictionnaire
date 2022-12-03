@@ -1,1 +1,0 @@
-lar[1304]=`<b>(ἡ)</b> Adiabène, <i>contrée d’Assyrie</i>.`

@@ -1,1 +1,0 @@
-lar[79143]=`<b>περι·πνίγω</b> <font color="purple">[νῑ]</font> serrer tout autour, étouffer, GEOP. <i>6, 1, 2</i>.`

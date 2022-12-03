@@ -1,1 +1,0 @@
-lar[58671]=`<b>κυματο·τρόφος, ος, ον</b> <font color="purple">[ῡᾰ]</font> qui nourrit les flots, RHÉT. (<i>W. 3, 528).</i><p><b>Étym</b>. κ. τρέφω.`

@@ -1,1 +1,0 @@
-lar[21821]=`<b>ωνος (ὁ)</b> Giskôn, <i>Carthaginois,</i> POL. <i>1, 66, etc.</i> ; PLUT. <i>Tim. 30, 34, etc</i>.`

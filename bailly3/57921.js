@@ -1,1 +1,0 @@
-lar[57921]=`<b>κρικόω-ῶ</b> <font color="purple">[ῐ]</font> fermer <i>ou</i> traverser au moyen d’un anneau, STR. <i>822</i>.<p><b>Étym</b>. κρίκος.`

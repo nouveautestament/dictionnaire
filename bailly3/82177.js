@@ -1,1 +1,0 @@
-lar[82177]=`<b>Πολύ·ξενος, ου (ὁ)</b> Polyxénos :<br><b>      1</b> <i>chef des Épéens devant Troie,</i> IL. <i>2, 623</i>.<br><b>      2</b> <i>autres,</i> HH. <i>Cer. 154</i> ; XÉN. <i>Hell. 5, 1, 26, etc</i>.<p>➳ <i>Épq. et ion</i>. Πολύξεινος, IL. HH. <i>ll. cc</i>.<p><b>Étym</b>. <i>v</i>. πολύξενος.`

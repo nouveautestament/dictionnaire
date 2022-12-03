@@ -1,1 +1,0 @@
-lar[110527]=`<b>ή, όν</b>, enclin à pousser, <i>d’où</i> véhément, violent, ARSTT. <i>Mot. an. 10, 4</i> ; ARR. <i>Epict. 4, 1, 84</i>.<p><b>Étym</b>. ὠστός.`

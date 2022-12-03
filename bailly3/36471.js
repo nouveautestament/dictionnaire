@@ -1,1 +1,0 @@
-lar[36471]=`<b>εως (ἡ)</b> <font color="purple">[ᾱσ]</font> action d’exaucer, SPT. <i>1Reg. 15, 22</i>.<p><b>Étym</b>. ἐπακροάομαι.`

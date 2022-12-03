@@ -1,1 +1,0 @@
-lar[17006]=`<b>ῆνος (ὁ)</b> <font color="purple">[τᾰ]</font> sorte d’oiseau inconnu, <i>p.-ê</i>. le francolin (<i>Tetrao bonasia</i> L.) PHŒNICIDE (ATH. <i>652e</i>) ; ARSTT. <i>H.A. 9, 26</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

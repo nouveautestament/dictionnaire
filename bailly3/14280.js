@@ -1,1 +1,0 @@
-lar[14280]=`<b>ἀργι·τρόφημα, ατος (τὸ)</b> mets préparé avec du lait (<i>cf. franç</i>. blanc-manger), GAL. <i>6, 438</i>.<p><b>Étym</b>. ἀργός, τροφή.`

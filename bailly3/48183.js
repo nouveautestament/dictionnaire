@@ -1,1 +1,0 @@
-lar[48183]=`<i>interj</i>. ah ! :<br><b>      1</b> <i>cri de joie,</i> AR. <i>Lys. 1292</i> ; ἰαί, ἰαί, AR. <i>Eccl. 1179</i>.<br><b>      2</b> <i>cri de douleur des barbares,</i> SOPH. <i>fr. 54</i>.`

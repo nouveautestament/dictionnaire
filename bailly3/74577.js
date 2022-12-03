@@ -1,1 +1,0 @@
-lar[74577]=`<b>παλιν·ίδρυσις, εως (ἡ)</b> <font color="purple">[ᾰῐνῡ]</font> assiette nouvelle <i>ou</i> rétablissement, HPC. <i>47, 27</i>.<p><b>Étym</b>. π. ἵδρυσις.`

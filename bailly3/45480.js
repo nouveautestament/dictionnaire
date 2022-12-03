@@ -1,1 +1,0 @@
-lar[45480]=`<b>ἡμι·μανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> à moitié fou, ESCHN. <i>24, 25</i> ; LUC. <i>C. deor. 4</i>.<p><b>Étym</b>. ἡμι-, μαίνομαι.`

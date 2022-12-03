@@ -1,1 +1,0 @@
-lar[26610]=`<b>ή, όν :<br>      1</b> fait en forme de filet, DS. <i>18, 26</i> ; SPT. <i>Ex. 27, 4 ; Jud. 5, 28</i>.<br><b>      2</b> <i>p. suite,</i> garni d’un grillage, POL. <i>15, 30, 8</i> ; τὸ δικτυωτόν, SPT. <i>4Reg. 1, 2,</i> grillage, fenêtre grillée.<p><b>Étym</b>. <i>vb. de</i> δικτυόω.`

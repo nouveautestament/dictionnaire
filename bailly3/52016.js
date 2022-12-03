@@ -1,1 +1,0 @@
-lar[52016]=`<b>ων (οἱ) :<br>      1</b> cordages de la hune, GAL. <i>12, 304</i>.<br><b>      2</b> bandage formé de deux ligaments égaux, GAL. <i>12, 304</i>.<p><b>Étym</b>. <i>cf</i>. καρχήσιον.`

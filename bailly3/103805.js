@@ -1,1 +1,0 @@
-lar[103805]=`<b>ὑπο·σαρκίδιος, ος, ον</b> <font color="purple">[ῐδ]</font> qui se trouve sous la chair, sous la peau, HPC. <i>405, 15 ; 447, 14</i>.<p><b>Étym</b>. ὑ. σάρξ.`

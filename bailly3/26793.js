@@ -1,1 +1,0 @@
-lar[26793]=`<b>ου (ὁ)</b> Diomos :<br><b>      1</b> <i>héros athénien,</i> SCH.-AR. <i>Ran. 663</i> (<i>v</i>. Διόμεια).<br><b>      2</b> <i>inventeur des chants bucoliques</i> (βουκολιασμός) EPICH. (ATH. <i>619a</i>).`

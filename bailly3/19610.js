@@ -1,1 +1,0 @@
-lar[19610]=`<b>ᾶς (ἡ)</b> JOS. NT. <i>ou</i> βηθσαϊδά, <i>indécl</i>. NT. Bèthsaïda, <i>v. de Galilée</i>.`

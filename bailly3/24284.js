@@ -1,1 +1,0 @@
-lar[24284]=`<b>δημο·πίθηκος, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui amuse le peuple par des singeries, charlatan, AR. <i>Ran. 1085</i>.<p><b>Étym</b>. δ. πίθηκος.`

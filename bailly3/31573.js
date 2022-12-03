@@ -1,1 +1,0 @@
-lar[31573]=`<b>ἐκ·λείχω :<br>      1</b> lécher, SPT. <i>Num. 22, 4 ; Judith 7, 4</i>.<br><b>      2</b> avaler sous forme d’électuaire, DIOSC. <i>1, 95 ; 3, 44</i>.`

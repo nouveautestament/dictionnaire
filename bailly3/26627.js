@@ -1,1 +1,0 @@
-lar[26627]=`<b>δί·λογος, ος, ον</b> <font color="purple">[ῐ]</font> à deux langages, fourbe, NT. <i>1Tim. 3, 8</i>.<p><b>Étym</b>. δίς, λέγω.`

@@ -1,1 +1,0 @@
-lar[37021]=`<b>ἐπ·εκβοάω-ῶ</b> (<i>inf. prés. pass</i>. -βοᾶσθαι) crier contre, se récrier, DC. <i>43, 24</i>.`

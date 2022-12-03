@@ -1,1 +1,0 @@
-lar[106651]=`<b>ή, όν</b>, aigu : τὴν κεφαλήν, IL. <i>2, 219,</i> qui a la tête pointue.<p><b>Étym</b>. <i>orig. inconnue</i>.`

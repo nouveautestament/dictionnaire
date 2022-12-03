@@ -1,1 +1,0 @@
-lar[40115]=`<font color="purple">[ᾰ]</font> <i>3 pl. pl.q.pf. pass. épq. de</i> ἐπέχω, <i>d’un pf</i>. *ἔπωχα (<i>cf</i>. συνόχωκα <i>de</i> συνέχω), <i>pf. pass</i>. *ἐπῶγμαι, fermer, assujettir, IL. <i>12, 340</i>.<p><b>Étym</b>. <i>sel. d’autres,</i> ἐπῴχατο, <i>de</i> ἐποίγω.`

@@ -1,1 +1,0 @@
-lar[103443]=`<b>ὑπο·λαΐς, ΐδος (ἡ)</b> pouillot, <i>oiseau qui couve les œufs que le coucou vient déposer dans son nid,</i> ARSTT. <i>H.A. 6, 7, 5</i> ; TH. <i>C.P. 2, 17, 9</i>.<p><b>Étym</b>. ὑ. λᾶς.`

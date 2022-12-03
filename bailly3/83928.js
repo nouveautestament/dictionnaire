@@ -1,1 +1,0 @@
-lar[83928]=`<b>προ·διαλύω :<br>      1</b> dissoudre d’abord, POL. <i>11, 16, 2 ; au pass</i>. se dissoudre auparavant, ARSTT. <i>Probl. 23, 28</i>.<br><b>      2</b> écarter <i>ou</i> entr’ouvrir auparavant, <i>acc</i>. PLUT. <i>M. 640e</i>.`

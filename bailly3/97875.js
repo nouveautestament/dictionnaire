@@ -1,1 +1,0 @@
-lar[97875]=`<b>ταχυ·άλωτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> dont on peut vite <i>ou</i> facilement s’emparer, HDT. <i>7, 130</i>.<p><b>Étym</b>. ταχύ, <i>vb. de</i> ἀλίσκομαι.`

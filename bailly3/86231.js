@@ -1,1 +1,0 @@
-lar[86231]=`<b>πρόσ·ορμος, ου (ὁ)</b> lieu pour aborder, mouillage, STR. <i>666</i>.<p><b>Étym</b>. π. ὅρμος.`

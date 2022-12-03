@@ -1,1 +1,0 @@
-lar[77586]=`<b>πεζο·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui combat à pied, LUC. <i>Macr. 17</i>.<br><b>      2</b> qui combat sur terre, <i>p. opp. à</i> ναυμάχος, PLUT. <i>Alex. 38, etc</i>.<p><b>Étym</b>. π. μάχομαι.`

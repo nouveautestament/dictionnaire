@@ -1,1 +1,0 @@
-lar[105283]=`<b>ος, ον</b>, dévoré par les poux, HSCH. <i>mil. p. 40</i>.<p><b>Étym</b>. φθείρ, βιβρώσκω.`

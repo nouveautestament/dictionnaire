@@ -1,1 +1,0 @@
-lar[42284]=`<b>ας (ἡ)</b> navigation directe, STR. <i>151</i>.<p><b>Étym</b>. εὐθύπλοος.`

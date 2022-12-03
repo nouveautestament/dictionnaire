@@ -1,1 +1,0 @@
-lar[73650]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f. c</i>. οὐράνιος, ANTH. <i>15, 5, 4</i>.`

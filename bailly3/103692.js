@@ -1,1 +1,0 @@
-lar[103692]=`<b>ὑπό·πλατυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰ]</font><br><b>      1</b> un peu large, un peu plat, HPC. <i>Coac. 185</i> ; DIOSC. <i>3, 105</i>.<br><b>      2</b> un peu salé, DICÉARQ. <i>V. gr. 27</i>.<p><b>Étym</b>. ὑ. πλατύς.`

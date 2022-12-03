@@ -1,1 +1,0 @@
-lar[42034]=`<b>ῶν (οἱ)</b> les Bienfaiteurs, <i>surn. des Arimaspes, pple d’Asie, à cause d’un service rendu à Cyrus,</i> ARR. <i>An. 3, 27, 4</i> ; DS. <i>17, 81</i>.<p><b>Étym</b>. εὐεργέτης.`

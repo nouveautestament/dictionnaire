@@ -1,1 +1,0 @@
-lar[20161]=`<b>εως (ἡ)</b> bourdonnement, grondement (d’une foule), SPT. <i>Bar. 2, 29</i> ; NAZ. <i>2, 464c</i>.<p><b>Étym</b>. βομβέω.`

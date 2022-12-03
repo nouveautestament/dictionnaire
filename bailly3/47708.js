@@ -1,1 +1,0 @@
-lar[47708]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰκ]</font> sorte de mandragore, DIOSC. <i>4, 76</i>.<p><b>Étym</b>. θρίδαξ.`

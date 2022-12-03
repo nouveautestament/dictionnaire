@@ -1,1 +1,0 @@
-lar[81356]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit poème, PLUT. <i>Cic. 2</i> ; LGN <i>33, 5, etc</i>.<p><b>Étym</b>. <i>dim. de</i> ποίημα.`

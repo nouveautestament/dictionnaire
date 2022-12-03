@@ -1,1 +1,0 @@
-lar[95176]=`<b>συν·διαχέω</b>, verser et mêler dans, PLUT. <i>M. 953d</i>.`

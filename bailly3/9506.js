@@ -1,1 +1,0 @@
-lar[9506]=`<b>ἀντ·απόπαλσις, εως (ἡ)</b> action de faire rebondir, répercussion, CASS. <i>Probl. 26</i>.<p><b>Étym</b>. ἀντί, ἀποπάλλω.`

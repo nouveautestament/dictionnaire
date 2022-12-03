@@ -1,1 +1,0 @@
-lar[36107]=`<b>ἐξ·οίχομαι</b>, sortir, IL. <i>6, 379, 384</i> ; SOPH. <i>O.C. 867 ; etc. ; fig</i>. ἐκ τῆς γνώμης ἐξ. ANT. (STOB. <i>422, 31</i>) changer d’avis.`

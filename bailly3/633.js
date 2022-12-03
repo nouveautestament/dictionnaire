@@ -1,1 +1,0 @@
-lar[633]=`<b>ου (ὁ)</b> = <i>lat</i>. Ancus, <i>n. d’h. romain,</i> PLUT. <i>etc</i>.`

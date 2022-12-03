@@ -1,1 +1,0 @@
-lar[54584]=`<i>adv</i>., avec défense, CHRYS. <i>4, 917</i>.<p><b>Étym</b>. κωλύω.`

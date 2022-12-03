@@ -1,1 +1,0 @@
-lar[63165]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. μαστήρ, ESCHL. <i>Ag. 1231</i>.<p><b>Étym</b>. <i>conj. Gottfried Hermann, Æschyli Tragœdiae, 1852</i>.`

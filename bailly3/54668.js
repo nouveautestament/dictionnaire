@@ -1,1 +1,0 @@
-lar[54668]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰ]</font> faon, jeune biche, IL. <i>10, 361</i> ; CALL. <i>Dian. 112</i> ; A.RH. <i>3, 879</i> ; EL. <i>N.A. 14, 14</i>.`

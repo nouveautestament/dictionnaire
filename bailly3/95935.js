@@ -1,1 +1,0 @@
-lar[95935]=`<i>ion</i>. <b>συνθεσίη, ης (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> convention, pacte, IL. <i>2, 339, au pl. ; cf</i>. A.RH. <i>1, 340 ; 4, 378, 1042 ; au sg</i>. A.RH. <i>4, 340</i> ; POSIDIPP. (ATH. <i>412e</i>).<br><b>      2</b> instructions, ordres, IL. <i>5, 319 au pl</i>.<p><b>Étym</b>. συντίθημι.`

@@ -1,1 +1,0 @@
-lar[6759]=`<b>ἀνα·ζυγόω-ῶ</b> <font color="purple">[ῠ]</font> ouvrir (une porte), <i>litt</i>. ôter la barre <i>ou</i> le verrou, AR. <i>fr. 581</i>.`

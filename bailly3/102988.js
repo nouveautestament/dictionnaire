@@ -1,1 +1,0 @@
-lar[102988]=`<b>*ὑπνο·δότης</b>, <i>dor</i>. <b>ὑπνο·δότας, α</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. qui donne le sommeil, ESCHL. <i>Pr. 572</i>.<p><b>Étym</b>. ὕπνος, δίδωμι.`

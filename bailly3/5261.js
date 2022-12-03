@@ -1,1 +1,0 @@
-lar[5261]=`<b>ἁμαρτί·γαμος, ος, ον</b> <font color="purple">[ᾰμῐᾰ]</font> sans noces, NONN. <i>D. 48, 94</i>.<p><b>Étym</b>. ἁμαρτάνω, γάμος.`

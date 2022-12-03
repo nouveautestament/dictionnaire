@@ -1,1 +1,0 @@
-lar[101310]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> atelier de verrier, verrerie, DIOSC. <i>5, 182</i>.<p><b>Étym</b>. ὑαλουργός.`

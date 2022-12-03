@@ -1,1 +1,0 @@
-lar[83242]=`<b>Πραξίλλειον μέτρον (τὸ)</b> le mètre de Praxilla, <i>formé de trois dactyles et de deux trochées</i> (‒⏑⏑ ‒⏑⏑ ‒⏑⏑ ‒⏑ ‒⏑) <i>ou</i> de (‒ ‒ ⏑⏑ ‒⏑ ‒⏑ ‒ ‒) HÉPH. <i>p. 47 Gaisf</i>.<p><b>Étym</b>. Πράξιλλα.`

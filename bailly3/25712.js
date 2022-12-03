@@ -1,1 +1,0 @@
-lar[25712]=`<i>adv</i>., avec mollesse, d’une manière efféminée, PLAT. <i>Leg. 922c</i>.<p><b>Étym</b>. διαθρύπτω.`

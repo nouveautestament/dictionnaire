@@ -1,1 +1,0 @@
-lar[59653]=`<b>λαλο·βαρυ·παρα·μελο·ρυθμο·βάτας, ου</b> <font color="purple">[βᾰᾰᾰᾰᾱ]</font> <i>adj. m</i>. qui bavarde lourdement à tort et à travers sans suivre ni l’air ni la mesure, PRATIN. (ATH. <i>617e</i>).<p><b>Étym</b>. λάλος, βαρύς, παρά, μέλος, ῥυθμός, βαίνω.`

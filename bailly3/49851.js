@@ -1,1 +1,0 @@
-lar[49851]=`<b>ου (τὸ)</b> indice, témoignage, HPC. <i>239, 32, etc</i>.<p><b>Étym</b>. ἵστωρ.`

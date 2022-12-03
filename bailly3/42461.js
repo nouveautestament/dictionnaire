@@ -1,1 +1,0 @@
-lar[42461]=`<b>εὔ·κνιστος, ος, ον</b>, facile à piquer, <i>fig</i>. chatouilleux, MAN. <i>5, 337</i>.<p><b>Étym</b>. εὖ, κνίζω.`

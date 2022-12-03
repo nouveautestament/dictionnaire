@@ -1,1 +1,0 @@
-lar[85260]=`<b>προσ·αποπλύνω</b> <font color="purple">[ῡ]</font> laver en outre, PHIL. <i>2, 333</i>.`

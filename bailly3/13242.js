@@ -1,1 +1,0 @@
-lar[13242]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> limaille, DAPHITAS (STR. <i>307).</i><p><b>Étym</b>. ἀπορρινάω.`

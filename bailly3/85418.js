@@ -1,1 +1,0 @@
-lar[85418]=`<b>προσ·διαπορέω-ῶ</b>, douter encore <i>ou</i> de nouveau, PLUT. <i>M. 42f, 48a, 669f</i>.`

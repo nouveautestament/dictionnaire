@@ -1,1 +1,0 @@
-lar[32610]=`<b>ας (ἡ) :<br>      1</b> <i>s.-e</i>. ᾠδή, chant élégiaque, élégie (<i>càd</i>. pièce en distiques) STR. <i>604</i> ; PLUT. <i>Sol. 8</i>.<br><b>      2</b> le mètre élégiaque, HÉPH. <i>15, 16</i>.<p><b>Étym</b>. <i>fém. de</i> ἐλεγεῖος.`

@@ -1,1 +1,0 @@
-lar[75541]=`<b>ητος (ἡ)</b> caractère étrange, extraordinaire, THÉM. <i>344c</i>.<p><b>Étym</b>. παράδοξος.`

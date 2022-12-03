@@ -1,1 +1,0 @@
-lar[60910]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῐᾰῑῐδ]</font> Aphrodite du Liban, LUC. <i>Ind. 3</i>.<p><b>Étym</b>. Λίβανος.`

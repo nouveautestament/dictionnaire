@@ -1,1 +1,0 @@
-lar[29458]=`<b>ἐγ·καθοράω-ῶ</b> <font color="darkgreen">(<i>f</i>. -κατόψομαι, <i>ao.2</i> ἐγκατεῖδον)</font> fixer ses yeux sur, <i>dat</i>. PLUT. <i>Demetr. 38 ; abs</i>. PLAT. <i>Epin. 990e ;</i> ἐ. τινί τι, PLUT. <i>Brut. 16,</i> remarquer qqe ch. en qqn.<p><b>Étym</b>. ἐν, κ.`

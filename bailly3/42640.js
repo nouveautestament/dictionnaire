@@ -1,1 +1,0 @@
-lar[42640]=`<font color="purple">[ᾰ]</font> faciliter, CHRYS. <i>3, 194</i>.<p><b>Étym</b>. εὐμαρής.`

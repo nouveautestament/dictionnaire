@@ -1,1 +1,0 @@
-lar[53872]=`<b>κατ·εναντία</b>, <i>adv. c</i>. κατεναντίον <i>abs</i>. DP. <i>114 ; avec le gén</i>. A.RH. <i>4, 1686 ; avec le dat</i>. MAN. <i>6, 157</i>.`

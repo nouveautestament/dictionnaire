@@ -1,1 +1,0 @@
-lar[72648]=`<b>ῶν (οἱ)</b> les Orestes, <i>pple Molosse,</i> THC. <i>2, 80</i>.<p><b>Étym</b>. <i>v</i>. Ὀρέστης.`

@@ -1,1 +1,0 @@
-lar[7084]=`<b>ος, ον</b>, recueilli, SOCR. <i>Ep. 9</i>.<p><b>Étym</b>. ἀναλέγω.`

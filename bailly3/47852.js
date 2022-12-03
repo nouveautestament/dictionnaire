@@ -1,1 +1,0 @@
-lar[47852]=`<font color="purple">[ῐ]</font> s’élancer impétueusement, <i>d’où</i> être saisi d’un transport prophétique.<p>➳ <i>Seul. prés. sbj. 3 pl</i>. θυΐωσι, HH. <i>Merc. 560, et impf. 3 sg</i>. ἔθυιεν (trisyll.) A.RH. <i>3, 755</i>.<p><b>Étym</b>. θύω.`

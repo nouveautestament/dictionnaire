@@ -1,1 +1,0 @@
-lar[68098]=`<b>νεο·άλωτος, ος, ον</b> <font color="purple">[ᾰ]</font> nouvellement pris, HDT. <i>9, 120</i>.<p><b>Étym</b>. ν. ἁλωτός.`

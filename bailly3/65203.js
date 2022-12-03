@@ -1,1 +1,0 @@
-lar[65203]=`<b>ας (ἡ) :<br>      1</b> participation, communauté, AR. <i>Ran. 442, Th. 152 ; au pl</i>. DÉM. <i>555, 17</i>.<br><b>      2</b> <i>p. suite,</i> possession, <i>d’où</i> domination, XÉN. <i>Cyr. 8, 5, 23</i> ; DÉM. <i>199, 15</i>.`

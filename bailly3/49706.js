@@ -1,1 +1,0 @@
-lar[49706]=`<b>ἰσο·παλής, ής, ές</b> <font color="purple">[ῑ̆ᾰ]</font><br><b>      1</b> d’égale force à la lutte, HDT. <i>1, 82 ; 5, 49</i>.<br><b>      2</b> <i>p. ext</i>. équivalent, égal, pareil, THC. <i>2, 39</i> ; PLAT. <i>Soph. 244e ; avec le dat</i>. ORPH. <i>Arg. 1014</i>.<p><b>Étym</b>. ἴ. πάλη.`

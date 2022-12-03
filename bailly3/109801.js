@@ -1,1 +1,0 @@
-lar[109801]=`<b>ψηφισματο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> marchand de décrets, AR. <i>Av. 1038</i>.<p><b>Étym</b>. ψ. πωλέω.`

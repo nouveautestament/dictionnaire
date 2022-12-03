@@ -1,1 +1,0 @@
-lar[98456]=`<b>τεσσαρεσ·καί·δεκα</b> (οἱ, αἱ, τὰ) <i>indécl</i>. <font color="purple">[ᾰᾰ]</font> quatorze, LUC.<p>➳ <i>Ion</i>. τεσσερεσκαίδεκα, HDT. <i>1, 86</i>.`

@@ -1,1 +1,0 @@
-lar[20349]=`<b>ῶνος (ὁ) :<br>      1</b> aine, IL. <i>4, 492</i> ; ARSTT. <i>H.A. 1, 14, 2 ; etc. ; au plur</i>. ganglions, LUC. <i>Tim. 56 ; M. cond. 31 ; p. ext</i>. membre viril, MÉN.<br><b>      2</b> tumeur dans l’aine, HPC. <i>1136d ;</i> ARSTT. <i>Probl. 5, 26 ; d’où</i> tumeur, pustule, bouton, <i>en gén</i>. HPC. <i>127h, 1025b, 1139g</i>.`

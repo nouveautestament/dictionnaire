@@ -1,1 +1,0 @@
-lar[71544]=`<b>ὁμοιό·ρροπος, ος, ον</b>, d’un mouvement semblable, GAL. <i>6, 86f</i>.<p><b>Étym</b>. ὅμ. ῥέπω.`

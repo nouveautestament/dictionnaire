@@ -1,1 +1,0 @@
-lar[76652]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de traîner en longueur, retard, SPT. <i>Job 25, 3</i>.<p><b>Étym</b>. παρελκύω, <i>c</i>. παρέλκω.`

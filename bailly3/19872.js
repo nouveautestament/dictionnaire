@@ -1,1 +1,0 @@
-lar[19872]=`<b>οῦ (ὁ) :<br>      1</b> germe, pousse, <i>d’où</i> rejeton, ESCHL. <i>Suppl. 317</i>.<br><b>      2</b> <i>fig</i>. floraison, ESCHL. <i>Sept. 12</i>.<p><b>Étym</b>. βλαστάνω.`

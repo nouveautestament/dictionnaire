@@ -1,1 +1,0 @@
-lar[40265]=`<i>ou mieux</i> <b>ἐρίκη, ης (ἡ)</b> <font color="purple">[ῑ]</font> sorte de bruyère qui pousse en arbrisseau (<i>Erīca arborea</i> L.) ESCHL. <i>Ag. 295</i> ; THCR. <i>Idyl. 5, 64</i>.<p>➳ ἐρίκη <i>sans ex. dans les inscr. att., mais des n. propres dérivés s’y rencontrent en</i> -ι-, <i>non en</i> -ει- : Ἐρίκεια, Ἐρικειεύς <i>(v. Meisterh. p. 42).</i>`

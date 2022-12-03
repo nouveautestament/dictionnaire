@@ -1,1 +1,0 @@
-lar[39604]=`<b>ἐπι·φορτίζω</b>, charger en outre d’un fardeau, JOS. <i>c. Ap. 2, 9</i> ; GEOP. <i>9, 14, 6</i>.<br><b><i>Moy.</i></b> se charger de, X. ÉPH. <i>5, 2</i>.`

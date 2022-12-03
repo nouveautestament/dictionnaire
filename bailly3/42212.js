@@ -1,1 +1,0 @@
-lar[42212]=`<b>εὔ·θραυστος, ος, ον</b>, facile à briser, fragile, ARSTT. <i>G.A. 4, 6, 9</i> ; PLUT. <i>M. 174d</i>.<p><b>Étym</b>. εὖ, θραύω.`

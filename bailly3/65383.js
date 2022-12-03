@@ -1,1 +1,0 @@
-lar[65383]=`<b>μηλο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font> teint en jaune coing, PHIL. PARADOX. <i>VII mir. c. 2, p. 10</i>.<p><b>Étym</b>. μῆλον², βάπτω.`

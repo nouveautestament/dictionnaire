@@ -1,1 +1,0 @@
-lar[78484]=`<b>περι·γηθής, ής, ές :<br>      1</b> <i>pass</i>. rempli de joie, A.RH. <i>3, 814, etc.</i><br><b>      2</b> <i>act</i>. qui remplit de joie, EMPÉD. <i>60 Karsten</i>.<p><b>Étym</b>. π. γῆθος.`

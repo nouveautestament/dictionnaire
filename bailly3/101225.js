@@ -1,1 +1,0 @@
-lar[101225]=`<font color="purple">[ῠ]</font> <i>adv</i>., par hasard, fortuitement, POL. <i>28, 7, 1</i> ; DS. <i>2, 19 ; 16, 35</i> ; PLUT. <i>M. 906d, etc</i>.`

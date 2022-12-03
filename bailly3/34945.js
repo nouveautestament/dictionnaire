@@ -1,1 +1,0 @@
-lar[34945]=`<b>ἐν·σπαθάω-ῶ</b> <font color="purple">[πᾰ]</font> s’épanouir <i>ou</i> se complaire dans, <i>d’où</i> abuser de, <i>dat</i>. PHIL. <i>2, 372</i>.`

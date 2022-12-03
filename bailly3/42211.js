@@ -1,1 +1,0 @@
-lar[42211]=`<b>εὐ·θορύβητος, ος, ον</b> <font color="purple">[ῠ]</font> qui se trouble facilement : πρός τινα, PLUT. <i>Nic. 2,</i> devant qqn.<p><b>Étym</b>. εὖ, θορυβέω.`

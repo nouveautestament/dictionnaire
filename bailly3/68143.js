@@ -1,1 +1,0 @@
-lar[68143]=`<b>νεο·θηλής, ής, ές</b>, jeune, frais, IL. <i>14, 347</i> ; HH. <i>Merc. 82</i> ; HÉS. <i>Th. 576</i> ; ANACR. (EL. <i>N.A. 7, 39).</i><p>➳ <i>Dor</i>. νεοθαλής <font color="purple">[ᾱ]</font> PD. <i>N. 9, 48</i> ; EUR. <i>I.A. 188, etc</i>.<p><b>Étym</b>. ν. θάλλω.`

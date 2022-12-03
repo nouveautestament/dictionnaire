@@ -1,1 +1,0 @@
-lar[13067]=`<b>ἀπο·πίμπρημι</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἀπέπρησε)</font> incendier, ARCHIL. <i>99</i>.`

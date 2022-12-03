@@ -1,1 +1,0 @@
-lar[79733]=`<b>ή, όν :<br>   I</b> <i>adj</i>. noirâtre, bleuâtre, HPC. <i>V.C. 911</i>.<br><b>   II</b> <i>subst</i>. ὁ περκνός :<br><b>      1</b> sorte d’aigle, IL. <i>24, 316</i>.<br><b>      2</b> sorte de faucon, ARSTT. <i>Mir. 60</i>.<br><b>      3</b> sorte de serpent, NIC. <i>Th. 129</i> ; ARSTT. <i>Mir. 165</i>.<p><b>Étym</b>. πέρκος.`

@@ -1,1 +1,0 @@
-lar[29791]=`<i>adv</i>., en rond, circulairement, ARSTT. <i>Meteor. 1, 2</i> ; HÉRON <i>Aut. 254</i>.`

@@ -1,1 +1,0 @@
-lar[48782]=`<b>έως</b>, <i>adj. m</i>. d’Ikaria ou d’Ikarios, IS. (HARP.).`

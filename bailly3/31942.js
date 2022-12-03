@@ -1,1 +1,0 @@
-lar[31942]=`<b>εως (ἡ)</b> <font color="purple">[ρῑ]</font> action de scier, P. ÉG. <i>6, 84</i>.<p><b>Étym</b>. ἐκπρίω.`

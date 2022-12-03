@@ -1,1 +1,0 @@
-lar[61556]=`<b>ή, όν :<br>      1</b> garni d’un fer de lance, EUR. <i>Bacch. 761</i> ; ANTH. <i>6, 172</i>.<br><b>      2</b> τὸ λογχωτόν, DIOSC. <i>5, 114,</i> sorte de cirage.<p><b>Étym</b>. <i>vb. de</i> λογχόω.`

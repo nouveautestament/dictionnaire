@@ -1,1 +1,0 @@
-lar[36199]=`<b>ἐξ·ορμίζω :<br>      1</b> conduire un vaisseau hors du port, le mener au large, DÉM. <i>895, 8</i>.<br><b>      2</b> jeter dans la mer, EUR. <i>Hel. 1247</i>.<br><b><i>Moy.</i></b> :<br><b>      1 <i>tr.</i></b> mener au large, pousser en avant : πόδα, EUR. <i>Ph. 846,</i> ses pas.<br><b>      2 <i>intr.</i></b> gagner le large, SOPHR. (D. PHAL. <i>151</i>).`

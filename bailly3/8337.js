@@ -1,1 +1,0 @@
-lar[8337]=`<font color="purple">[φᾰ]</font> <i>adv</i>., sans indiquer, <i>gén</i>. HERMOG.<p><b>Étym</b>. <i>W. 3, 369</i>.`

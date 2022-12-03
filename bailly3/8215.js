@@ -1,1 +1,0 @@
-lar[8215]=`<b>ἀν·είσακτος, ος, ον</b>, non introduit, non initié, JAMBL. <i>V. Pyth. 17</i>.<p><b>Étym</b>. ἀν-, εἰσάγω.`

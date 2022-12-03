@@ -1,1 +1,0 @@
-lar[90611]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰᾰ]</font> petit tour d’enfant, <i>càd</i>. subtilité puérile, babiole, bagatelle, AR. <i>Nub. 630</i>.<p><b>Étym</b>. σκαλαθύρω.`

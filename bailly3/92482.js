@@ -1,1 +1,0 @@
-lar[92482]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de porter une couronne, PD. <i>O. 8, 13</i> ; EUR. <i>El. 862</i>.<br><b>      2</b> droit de porter une couronne, DÉM. <i>525, 2</i> ; ESCHN. <i>4, 1 (loi</i>) ; PLUT. <i>M. 558b</i>.<p>➳ <i>Dor</i>. στεφαναφορία <font color="purple">[νᾰ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. στεφανηφόρος.`

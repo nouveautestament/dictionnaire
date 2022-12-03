@@ -1,1 +1,0 @@
-lar[109172]=`<b>χρυσο·ειδής, ής, ές</b> <font color="purple">[ῡ]</font> qui ressemble à de l’or, XÉN. <i>Cyr. 7, 1, 2</i> ; PLAT. <i>Phæd. 110c ;</i> ARSTT. <i>H.A. 9, 40, 48</i> ; PLUT. <i>M. 771b, etc</i>.<p><b>Étym</b>. χρ. εἶδος.`

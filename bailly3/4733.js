@@ -1,1 +1,0 @@
-lar[4733]=`avoir commerce l’un avec l’autre, CLÉM. <i>222</i>.<p><b>Étym</b>. ἀλλήλων.`

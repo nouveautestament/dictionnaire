@@ -1,1 +1,0 @@
-lar[15096]=`<b>ἄ·ρρατος, ος, ον</b>, qu’on ne peut briser, solide, PLAT. <i>Crat. 407d, Rsp. 535c</i>.<p><b>Étym</b>. ἀ, ῥαίω.`

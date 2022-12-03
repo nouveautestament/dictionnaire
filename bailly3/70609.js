@@ -1,1 +1,0 @@
-lar[70609]=`<b>ης, ες</b>, vineux, <i>càd.</i> :<br><b>      1</b> qui a la couleur du vin, PANCR. (ATH. <i>305c</i>) ; LUC. <i>Syr. 31</i>.<br><b>      2</b> qui a le goût du vin, PLUT. <i>M. 652f ;</i> οἶνος οἰν. HPC. <i>610, 6,</i> vin plus ou moins vineux.<p><b>Étym</b>. οἶν. -ωδης.`

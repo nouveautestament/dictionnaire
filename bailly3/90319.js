@@ -1,1 +1,0 @@
-lar[90319]=`recueillir <i>ou</i> amasser dans une ruche, ANTH. <i>6, 236</i>.<p><b>Étym</b>. σίμβλος.`

@@ -1,1 +1,0 @@
-lar[38669]=`<b>ἐπι·πηγάζω</b>, faire jaillir d’une source, CLÉM. <i>323</i>.`

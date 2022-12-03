@@ -1,1 +1,0 @@
-lar[107657]=`<b>χαλκο·δρυσταί, ῶν (αἱ)</b> <i>n. mystique des nourrices de Bacchus,</i> PLUT. <i>M. 672a dout</i>.`

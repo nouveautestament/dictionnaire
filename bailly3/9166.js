@@ -1,1 +1,0 @@
-lar[9166]=`être partisan d’Hannibal, PLUT. <i>Marc. 10</i>.<p><b>Étym</b>. Ἀννίβας.`

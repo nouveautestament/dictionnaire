@@ -1,1 +1,0 @@
-lar[10386]=`<b>ἀντι·σιωπάω-ῶ</b>, se taire à son tour, AR. <i>Lys. 528</i>.`

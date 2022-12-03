@@ -1,1 +1,0 @@
-lar[6090]=`<b>ἀμφι·δάκρυτος, ος, ον</b> <font color="purple">[ῡ]</font> tout en larmes, EUR. <i>Ph. 332</i>.<p><b>Étym</b>. ἀ. δακρύω.`

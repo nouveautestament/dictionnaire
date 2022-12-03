@@ -1,1 +1,0 @@
-lar[9121]=`<b>ἀνισό·ρροπος, ος, ον</b> <font color="purple">[ᾰῐ]</font> non impartial, PLUT. <i>M. 932</i>.<p><b>Étym</b>. ἄν. ῥέπω.`

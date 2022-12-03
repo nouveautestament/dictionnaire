@@ -1,1 +1,0 @@
-lar[18860]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) prophétiser comme le devin Bakis, AR. <i>Pax 1072</i>.<p><b>Étym</b>. βάκις.`

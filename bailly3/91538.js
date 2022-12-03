@@ -1,1 +1,0 @@
-lar[91538]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de myrrhe, SPT. <i>Esth. 2, 12</i>.<p><b>Étym</b>. σμύρνα.`

@@ -1,1 +1,0 @@
-lar[11788]=`<b>ἀ·περίσπαστος, ος, ον :<br>      1</b> non tiré de côté et d’autre, non distrait, POL. <i>2, 67, 7 ; 4, 32, 6 ; 29, 8, 10</i>.<br><b>      2</b> ininterrompu, continu, DH. <i>Thuc. 9</i> ; PLUT. <i>Arist. 5</i>.<p><b>Étym</b>. ἀ, περισπάω.`

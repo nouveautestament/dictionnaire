@@ -1,1 +1,0 @@
-lar[65206]=`<b>μετ·οχετεύω</b>, dériver d’un lieu vers un autre, <i>fig</i>. HDN <i>1, 3, 4</i>.`

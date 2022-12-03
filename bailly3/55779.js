@@ -1,1 +1,0 @@
-lar[55779]=`<b>ατος (τὸ)</b> <i>seul. plur.</i> :<br><b>      1</b> pleurs, larmes, lamentations, ESCHL. <i>Pers. 705, etc.</i> ; SOPH. <i>Ant. 932, etc.</i> ; XÉN. <i>Cyr. 2, 2, 14</i>.<br><b>      2</b> sujet de pleurs, AR. <i>Pax 249</i>.<p><b>Étym</b>. κλαίω.`

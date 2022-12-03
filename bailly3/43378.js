@@ -1,1 +1,0 @@
-lar[43378]=`<b>Εὐρ·ωπός</b> <i>ou</i> <b>Εὔρ·ωπος, ου (ἡ)</b> Eurôpos :<br><b>      1</b> <i>v. de Macédoine,</i> THC. <i>2, 100</i>.<br><b>      2</b> <i>v. de Syrie,</i> LUC. <i>H. conscr. 20, 24, 28</i>.<p><b>Étym</b>. <i>cf</i>. εὐρωπός.`

@@ -1,1 +1,0 @@
-lar[50262]=`<b>καθ·άλλομαι</b> <font color="purple">[κᾰ]</font> <font color="darkgreen">(<i>ao</i>. -ηλάμην)</font> sauter de haut en bas, <i>avec</i> ἀπό <i>et le gén</i>. XÉN. <i>Hell. 4, 5, 7, etc. ; fig</i>. s’abattre sur, IL. <i>11, 298</i>.`

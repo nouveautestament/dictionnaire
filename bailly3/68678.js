@@ -1,1 +1,0 @@
-lar[68678]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. νηφάλιος, PHIL. <i>1, 103</i>.`

@@ -1,1 +1,0 @@
-lar[87217]=`<b>πρωτο·κύων (ὁ)</b> le chef des cyniques, ANTH. <i>11, 154</i>.<p><b>Étym</b>. πρ. κύων.`

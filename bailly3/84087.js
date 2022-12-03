@@ -1,1 +1,0 @@
-lar[84087]=`<b>προ·εκλογίζομαι</b>, calculer d’avance, MITHRID. <i>Proœm. epist. Brut. p. 178, l. 5 Hercher</i> ; HIÉROCL. <i>C. aur. p. 447 Mullach</i>.`

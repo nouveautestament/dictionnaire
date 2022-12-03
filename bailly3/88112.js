@@ -1,1 +1,0 @@
-lar[88112]=`<b>πωλο·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui combat d’un char attelé de jeunes chevaux, ANTH. <i>15, 50, 6</i>.<p><b>Étym</b>. π. μάχομαι.`

@@ -1,1 +1,0 @@
-lar[28188]=`<b>δυσ·ανδρία, ας (ἡ)</b> <font color="purple">[ῠ]</font> manque d’hommes, APP. <i>Civ. 1, 7</i>.<p><b>Étym</b>. δ. ἀνήρ.`

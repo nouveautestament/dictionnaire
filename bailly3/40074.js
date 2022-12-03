@@ -1,1 +1,0 @@
-lar[40074]=`<b>ἐπ·ῴζω :<br>      1</b> couver, EPICH. <i>fr. 96 Ahrens</i> ; CRAT. (ATH. <i>373e</i>).<br><b>      2</b> glousser en couvant, AR. <i>Av. 266</i>.<p><b>Étym</b>. <i>contr. p</i>. ἐπῳάζω.`

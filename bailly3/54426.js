@@ -1,1 +1,0 @@
-lar[54426]=`<b>ας (ἡ)</b> Kenkhréia, <i>source près de Lerna,</i> ESCHL. <i>Pr. 676</i> (<i>var. p</i>. Κερχνεία).`

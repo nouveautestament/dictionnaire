@@ -1,1 +1,0 @@
-lar[81834]=`<b>πολυ·δειράς, άδος (ὁ, ἡ)</b> <font color="purple">[ῠᾰδ]</font><br><b>      1</b> aux nombreux cous, <i>ép. de l’hydre de Lerne,</i> Q. SM. <i>6, 212</i>.<br><b>      2</b> aux nombreuses cimes, IL. <i>1, 499 ; 5, 754</i>.<p><b>Étym</b>. π. δειράς.`

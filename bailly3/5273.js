@@ -1,1 +1,0 @@
-lar[5273]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰᾰῠ, <i>épq</i>. ῡ]</font><br><b>      1</b> éclair, rayon lumineux, HH. <i>Merc. 45</i> ; A.RH. <i>2, 42</i>.<br><b>      2</b> <i>fig</i>. course rapide comme un éclair, AR. <i>Av. 925</i>.<p><b>Étym</b>. ἀμαρύσσω.`

@@ -1,1 +1,0 @@
-lar[13007]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> ras, nu, LUC. <i>Prom. 4, etc</i>.<p><b>Étym</b>. ἀποξύρω.`

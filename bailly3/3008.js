@@ -1,1 +1,0 @@
-lar[3008]=`<b>αἰχμό·δετος, ος, ον</b>, captif de guerre, SOPH. <i>fr. 41</i>.<p><b>Étym</b>. αἰχμή, δέω.`

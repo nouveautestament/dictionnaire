@@ -1,1 +1,0 @@
-lar[1090]=`<i>adv</i>., en venant d’un lieu voisin, HDT. <i>4, 31</i> ; LUC. <i>Syr. 28</i>.<p><b>Étym</b>. <i>th</i>. ἀγχο-, <i>cf</i>. ἀγχοῦ, -θεν.`

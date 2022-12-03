@@ -1,1 +1,0 @@
-lar[31334]=`<b>εως (ἡ)</b> action d’élever, éducation, EL. <i>N.A. 3, 8</i> ; CLÉM. <i>779</i>.<p><b>Étym</b>. ἐκτρέφω.`

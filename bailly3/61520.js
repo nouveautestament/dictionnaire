@@ -1,1 +1,0 @@
-lar[61520]=`<b>λογο·θετέω-ῶ</b>, faire rendre compte : τινα, ES. <i>406 Halm,</i> à qqn.<p><b>Étym</b>. <i>cf</i>. λογοθεσία.`

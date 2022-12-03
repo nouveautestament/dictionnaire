@@ -1,1 +1,0 @@
-lar[91439]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Smaragos, <i>litt</i>. « le grondant » <i>ou</i> « le bruyant », <i>n. d’une divinité inférieure,</i> HOM. <i>Epigr. 14, 9</i>.<p><b>Étym</b>. <i>Formé par onomatopée, cf</i>. σμαραγέω.`

@@ -1,1 +1,0 @@
-lar[89045]=`<b>(ὁ)</b> Sabaris, <i>Arménien,</i> XÉN. <i>Cyr. 3, 1, 2</i>.`

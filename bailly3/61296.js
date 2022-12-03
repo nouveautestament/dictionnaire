@@ -1,1 +1,0 @@
-lar[61296]=`<b>λιπαρό·χροος-ους, οος-ους, οον-ουν</b>, <i>voc</i>. <b>οε</b> <font color="purple">[ῐᾰ]</font> de couleur brillante <i>ou</i> à la peau luisante, THCR. <i>Idyl. 2, 165</i>.<p><b>Étym</b>. λ. χρόα.`

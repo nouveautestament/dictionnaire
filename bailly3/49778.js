@@ -1,1 +1,0 @@
-lar[49778]=`<b>ἰσο·φανής, ής, ές</b> <font color="purple">[ῑ̆ᾰ]</font> de même apparence, NONN. <i>D. 9, 233</i>.<p><b>Étym</b>. ἴ. φαίνω.`

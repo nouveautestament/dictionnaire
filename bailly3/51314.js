@@ -1,1 +1,0 @@
-lar[51314]=`<b>καλο·φόρος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> qui porte du bois, serviteur, DOSIAD. (ATH. <i>143b</i>).<p><b>Étym</b>. κᾶλον, φέρω.`

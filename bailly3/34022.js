@@ -1,1 +1,0 @@
-lar[34022]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui complète un nombre, OD. <i>12, 65 ; d’où</i> qui compte dans <i>ou</i> parmi, <i>dat</i>. THCR. <i>Idyl. 7, 86</i> ; A.RH. <i>1, 647</i>.<br><b>      2</b> <i>fig</i>. dont on fait cas, IL. <i>2, 202</i>.<p><b>Étym</b>. ἐνάριθμος.`

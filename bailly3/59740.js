@@ -1,1 +1,0 @@
-lar[59740]=`<b>λαμπρό·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> qui a une belle âme, ARAR. <i>(Bkk. p. 106, 6).</i><p><b>Étym</b>. λαμπρός, ψυχή.`

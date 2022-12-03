@@ -1,1 +1,0 @@
-lar[106076]=`<b>φιλό·σκαρθμος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à bondir, à danser, NONN. <i>D. 5, 115 ; 10, 222</i>.<p><b>Étym</b>. φ. σκαρθμός.`

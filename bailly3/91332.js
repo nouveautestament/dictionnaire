@@ -1,1 +1,0 @@
-lar[91332]=`élever ses petits, PHILSTR. <i>Im. 2, 11</i>.<p><b>Étym</b>. σκύμνος.`

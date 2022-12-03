@@ -1,1 +1,0 @@
-lar[85732]=`<b>προσ·επισωρεύω</b>, amonceler en outre <i>ou</i> encore, ARTÉM. <i>1, 16</i> ; ARR. <i>Epict. 1, 2, 24 ; 2, 16, 21</i>.`

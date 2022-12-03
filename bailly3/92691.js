@@ -1,1 +1,0 @@
-lar[92691]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les signes du zodiaque ; οἱ στοιχειωματικοί, PTOL. <i>Tetr. 214,</i> les faiseurs d’horoscopes, les astrologues.<p><b>Étym</b>. στοιχείωμα.`

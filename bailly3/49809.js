@@ -1,1 +1,0 @@
-lar[49809]=`<b>οῦ (ἡ)</b> Issos (<i>auj</i>. près de Dörtyol) <i>v. de Cilicie,</i> PLUT. <i>Alex. 24, etc</i>.`

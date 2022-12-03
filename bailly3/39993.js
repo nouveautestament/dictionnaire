@@ -1,1 +1,0 @@
-lar[39993]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἑπταμηνιαῖος NICOM. <i>Arithm. 48</i>.`

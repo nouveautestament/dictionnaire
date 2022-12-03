@@ -1,1 +1,0 @@
-lar[56963]=`<b>ας (ἡ) :<br>      1</b> tas de fumier, SIM. AM. <i>fr. 7, 6</i> ; ARSTT. <i>Mir. 141</i> ; STR. <i>316</i> ; SPT. <i>Job 2, 8, etc.</i><br><b>      2</b> fumier, PHIL. <i>2, 525</i>.<p>➳ <i>Dat. pl. ion</i>. κοπρίῃσιν, SIM. <i>l. c</i>.<p><b>Étym</b>. κόπρος.`

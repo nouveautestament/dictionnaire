@@ -1,1 +1,0 @@
-lar[67521]=`<b>ή, όν</b>, blâmable, ESCHL. <i>Sept. 508</i> ; SPT. <i>Deut. 32, 5</i>.<p><b>Étym</b>. μωμάομαι.`

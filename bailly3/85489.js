@@ -1,1 +1,0 @@
-lar[85489]=`<b>ής, ές</b>, qui ressemble à, <i>dat</i>. NIC. <i>fr. 2</i>.<p><b>Étym</b>. *προσείδω.`

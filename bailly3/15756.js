@@ -1,1 +1,0 @@
-lar[15756]=`<b>ου (ὁ)</b> Asbétos, <i>n. d’une divinité,</i> HOM. <i>Ep. 14, 9</i>.`

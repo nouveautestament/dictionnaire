@@ -1,1 +1,0 @@
-lar[35200]=`<b>ἐν·υπτιάζω</b>, se coucher à la renverse sur, <i>dat</i>. PHILSTR. <i>834</i>.<p><b>Étym</b>. ἐν, ὕπτιος.`

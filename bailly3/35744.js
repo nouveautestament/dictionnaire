@@ -1,1 +1,0 @@
-lar[35744]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>   I <i>tr</i></b>. expulsion, HDT. <i>5, 76</i>.<br><b>   II <i>intr.</i> :<br>      1</b> marche au dehors, expédition, HDT. <i>7, 183</i> ; XÉN. <i>Cyr. 8, 3, 1, etc.</i><br><b>      2</b> charge de cavalerie, PLUT. <i>Artax. 16</i>.<p><b>Étym</b>. ἐξελαύνω.`

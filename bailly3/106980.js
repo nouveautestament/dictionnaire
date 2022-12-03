@@ -1,1 +1,0 @@
-lar[106980]=`<b>ου (ὁ)</b> <font color="purple">[ῠῐ]</font> <i>sorte d’oiseau inconnu,</i> AR. <i>Av. 763, 875</i>.<p><b>Étym</b>. <i>cf. lat</i>. fringilla.`

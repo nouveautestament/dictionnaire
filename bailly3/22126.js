@@ -1,1 +1,0 @@
-lar[22126]=`<b>ης, ες</b>, gluant, visqueux, HPC. <i>1207f ;</i> DIOSC. <i>2, 202</i> ; M. ANT. <i>8, 24</i> ; τὸ γλοιῶδες, TH. <i>H.P. 5, 4, 1,</i> humeur visqueuse.<p><b>Étym</b>. γλοιός, -ωδης.`

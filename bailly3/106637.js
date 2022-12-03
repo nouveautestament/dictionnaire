@@ -1,1 +1,0 @@
-lar[106637]=`<i>adv</i>., d’une manière sanguinaire, avec cruauté, NAZ.<p><b>Étym</b>. φονικός.`

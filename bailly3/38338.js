@@ -1,1 +1,0 @@
-lar[38338]=`<b>ἐπι·λυπέω-ῶ</b> <font color="purple">[ῡ]</font> affliger encore plus, HDT. <i>9, 50</i> ; SPT. <i>2Macc. 4, 37 et 8, 32</i> ; SEXT. <i>M. 11, 127</i>.`

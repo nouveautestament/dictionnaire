@@ -1,1 +1,0 @@
-lar[51371]=`<i>par apoc. et assimil. pour</i> κατ(ά) <i>devant un</i> μ : κὰμ μέν, OD. <i>20, 2</i> ; κὰμ μέσον, IL. <i>11, 172</i>.`

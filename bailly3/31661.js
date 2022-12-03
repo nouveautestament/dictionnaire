@@ -1,1 +1,0 @@
-lar[31661]=`<b>ἐκ·μεθύσκω</b>, enivrer, <i>fig</i>. imbiber <i>ou</i> arroser à l’excès, TH. <i>C.P. 5, 15, 3</i> ; τί τινος, ANTH. <i>5, 4,</i> remplir à l’excès une chose (une lampe) d’une autre (d’huile).`

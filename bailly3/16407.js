@@ -1,1 +1,0 @@
-lar[16407]=`<b>ἀ·συγγνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui ne pardonne pas, inexorable, DÉM. <i>547, 8</i> ; PLUT. <i>M. 59d</i>.<p>•<i> Sup</i>. ἀσυγγνωμονέστατος (<i>sel. d’autres, irrég</i>. ἀσυγγνωμότατος, <i>c. de</i> *ἀσύγγνωμος) PHYNT. (STOB. <i>Fl. 74, 61</i>).`

@@ -1,1 +1,0 @@
-lar[98665]=`<b>τετρά·πτυχος, ος, ον</b> <font color="purple">[ῠ]</font> à quatre replis, qui se replie quatre fois sur soi-même, HPC. <i>Off. 745</i>.<p><b>Étym</b>. τ. πτύσσω.`

@@ -1,1 +1,0 @@
-lar[52469]=`<b>κατ·αιωρέομαι-οῦμαι</b>, être pendant, flotter, HÉS. <i>Sc. 225</i> ; JOS. <i>B.J. 3, 7, 19</i>.<p>➳ <i>Impf. 3 pl. épq</i>. κατῃωρεῦντο, HÉS. <i>l. c</i>.`

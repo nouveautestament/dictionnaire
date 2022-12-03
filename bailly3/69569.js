@@ -1,1 +1,0 @@
-lar[69569]=`<b>ξιφ·ήρης, ης, ες</b> <font color="purple">[ῐ]</font> armé d’une épée, EUR. <i>Ph. 366</i>.<p><b>Étym</b>. ξίφος, *ἄρω.`

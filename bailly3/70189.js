@@ -1,1 +1,0 @@
-lar[70189]=`<b>ης (ἡ) :<br>      1</b> ozène <i>ou</i> polype fétide, <i>maladie du nez,</i> GAL. κ. τόπ. <i>5</i>.<br><b>      2</b> polype de mer, <i>qui exhale une odeur forte,</i> ATH. <i>329a</i>.<p><b>Étym</b>. ὄζω.`

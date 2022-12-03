@@ -1,1 +1,0 @@
-lar[60680]=`<font color="purple">[ῐ]</font> <i>adv</i>., de côté, obliquement, A.RH. <i>1, 1235, etc</i>.<p><b>Étym</b>. <i>cf</i>. λέχριος.`

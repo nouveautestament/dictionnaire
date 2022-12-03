@@ -1,1 +1,0 @@
-lar[95720]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> contribution, collecte, cotisation, PLUT. <i>M. 992a</i>.<p><b>Étym</b>. συνερανίζω.`

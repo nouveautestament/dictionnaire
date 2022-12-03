@@ -1,1 +1,0 @@
-lar[49149]=`<b>ἰοῦ (ὁ)</b> <font color="purple">[ῑ]</font> trait, javelot, IL. <i>1, 48, etc. ; p. opp. à</i> ἔγχος, IL. <i>8, 514 ; cf</i>. HÉS. <i>Sc. 409</i> ; ESCHL. <i>Pers. 461</i> ; SOPH. <i>Tr. 567</i>.<p>➳ <i>Plur. irrég</i>. ἰά, IL. <i>20, 67</i>.<p><b>Étym</b>. <i>indo-europ</i>. *(H)isu-, flèche ; <i>cf. sscr</i>. íṣu-.`

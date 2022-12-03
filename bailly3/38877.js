@@ -1,1 +1,0 @@
-lar[38877]=`<i>adv</i>., avec penchant vers, <i>avec</i> πρός <i>et l’acc</i>. ARR. <i>Epict. 3, 22, 1</i>.<p>•<i> Cp</i>. ἐπιρρεπέστερον, SEXT. <i>664, 2 Bkk</i>.<p><b>Étym</b>. ἐπιρρεπής.`

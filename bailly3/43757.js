@@ -1,1 +1,0 @@
-lar[43757]=`<i>adv.</i> :<br><b>      1</b> avec joie, joyeusement, PD. <i>P. 10, 40</i>.<br><b>      2</b> avec bienveillance, ESCHL. <i>Ag. 351, 849 ; Pers. 837</i> ; EUR. <i>Hipp. 793</i>.<p>•<i> Cp</i>. εὐφρονέστερον, PHOT.<p><b>Étym</b>. εὔφρων.`

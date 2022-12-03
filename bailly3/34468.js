@@ -1,1 +1,0 @@
-lar[34468]=`<b>εως (ἡ)</b> garniture de clous, CALLIX. (ATH. <i>205b</i>).<p><b>Étym</b>. ἐνηλόω.`

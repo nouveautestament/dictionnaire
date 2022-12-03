@@ -1,1 +1,0 @@
-lar[93665]=`<b>εως (ἡ) :<br>      1</b> recherche en commun, CIC. <i>Fam. 16, 21, 4</i>.<br><b>      2</b> discussion, NT. <i>Ap. 15, 7 ; 28, 29</i>.<p><b>Étym</b>. συζητέω.`

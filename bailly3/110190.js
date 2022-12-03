@@ -1,1 +1,0 @@
-lar[110190]=`<b>ὠκύ·πλοος, ος, ον</b>, qui navigue rapidement, ANTH.`

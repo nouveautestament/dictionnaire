@@ -1,1 +1,0 @@
-lar[60965]=`<b>(ὁ)</b> Lingée, <i>fl. de Toscane, en Italie,</i> LYC. <i>1240</i>.`

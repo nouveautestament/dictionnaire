@@ -1,1 +1,0 @@
-lar[54817]=`<b>κεραμο·πώλης, ου (ὁ)</b> marchand de poterie, DIN. (POLL. <i>7, 161).</i><p><b>Étym</b>. κέραμος, πωλέω.`

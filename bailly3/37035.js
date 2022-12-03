@@ -1,1 +1,0 @@
-lar[37035]=`<b>ἐπ·εκπίνω</b> <font color="purple">[ῑ]</font> boire en outre jusqu’au bout, EUR. <i>Cycl. 327</i>.`

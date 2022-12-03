@@ -1,1 +1,0 @@
-lar[33853]=`<b>εως (ἡ)</b> échange, PTOL. <i>Tetr. 93, etc</i>.<p><b>Étym</b>. ἐναλλοιόω.`

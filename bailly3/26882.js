@@ -1,1 +1,0 @@
-lar[26882]=`<b>διο·σημεία, ας (ἡ)</b> <i>propr</i>. signe de Zeus, <i>càd</i>. présage, signe céleste, tonnerre <i>ou</i> éclair, PLUT. <i>M. 419e</i>.<p><b>Étym</b>. Διός, σημεῖον.`

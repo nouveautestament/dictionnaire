@@ -1,1 +1,0 @@
-lar[9138]=`<i>adv</i>., sans renseignements sur, sans connaissance de, <i>gén</i>. PLUT. <i>Demetr. 1</i>.`

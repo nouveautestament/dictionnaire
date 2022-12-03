@@ -1,1 +1,0 @@
-lar[55303]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> proclamation du héraut, ESCHL. <i>Sept. 651</i>.<p><b>Étym</b>. κηρυκεύω.`

@@ -1,1 +1,0 @@
-lar[99999]=`<b>ας (ἡ)</b> <font color="purple">[ᾱῠ]</font> voix <i>ou</i> langage rude, ARSTT. <i>G.A. 5, 7, 25</i>.<p><b>Étym</b>. τραχύφωνος.`

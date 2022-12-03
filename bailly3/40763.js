@@ -1,1 +1,0 @@
-lar[40763]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐρυθρῖνος, AMIPS. (ATH. <i>271a</i>) ; OPP. <i>H. 1, 97</i>.`

@@ -1,1 +1,0 @@
-lar[103845]=`<b>ὑπο·σμήχω</b>, essuyer légèrement, THÉM. <i>235b ;</i> A. TR. <i>12, p. 110</i>.`

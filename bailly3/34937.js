@@ -1,1 +1,0 @@
-lar[34937]=`<b>ἐν·σκιρτάω-ῶ</b>, sauter de joie à cause de, <i>dat</i>. BAS. <i>3, 484a Migne</i>.`

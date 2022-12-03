@@ -1,1 +1,0 @@
-lar[20816]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> grondant, terrible, HERM. (STOB. <i>Ecl. 1, 986).</i><p><b>Étym</b>. βρίμη, -ωδης.`

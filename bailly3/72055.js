@@ -1,1 +1,0 @@
-lar[72055]=`<b>ὀξυ·άκανθα, ης (ἡ)</b> <font color="purple">[ᾰκ]</font> sorte d’aubépine, <i>arbrisseau,</i> DIOSC. <i>1, 122</i>.<p><b>Étym</b>. ὀ. ἄκανθα.`

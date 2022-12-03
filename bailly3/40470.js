@@ -1,1 +1,0 @@
-lar[40470]=`<i>ion</i>. <b>εἰρίνεος, η, ον</b> <font color="purple">[ῑ]</font> de laine, HDT. <i>1, 195 ; 2, 81 ; 4, 73</i> ; HPC. <i>Art. 837, Fract. 763</i>.<p><b>Étym</b>. ἔριον.`

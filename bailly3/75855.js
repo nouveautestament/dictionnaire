@@ -1,1 +1,0 @@
-lar[75855]=`<b>εως (ἡ)</b> action de radoter, de bavarder à tort et à travers, HPC. <i>1210g</i>.<p><b>Étym</b>. παραληρέω.`

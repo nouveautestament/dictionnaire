@@ -1,1 +1,0 @@
-lar[14320]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> pièce d’argent, XÉN. <i>Œc. 19, 16</i> ; PLAT. <i>Leg. 742d, etc. ; d’où en gén</i>. argent monnayé, HDT. <i>3, 13</i> ; THC. <i>2, 70</i> ; XÉN. <i>Cyr. 3, 1, 33, etc</i>.<p><b>Étym</b>. ἄργυρος.`

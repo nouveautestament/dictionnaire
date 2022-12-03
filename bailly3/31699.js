@@ -1,1 +1,0 @@
-lar[31699]=`<b>ἐκ·μυκάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> pousser des mugissements, PHALAR. <i>Ep. 122, 2</i>.`

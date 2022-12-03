@@ -1,1 +1,0 @@
-lar[17134]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱδ]</font> trait de présomption <i>ou</i> d’arrogance, ESCHL. <i>Pr. 964</i>.<p><b>Étym</b>. αὐθαδίζομαι.`

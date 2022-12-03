@@ -1,1 +1,0 @@
-lar[53253]=`<b>κατα·ρρητορεύω :<br>      1</b> exposer avec éloquence, <i>acc</i>. EUM. <i>p. 161</i>.<br><b>      2</b> vaincre par son éloquence, <i>acc</i>. PLUT. <i>M. 801f ;</i> LUC. <i>Gymn. 19</i>.`

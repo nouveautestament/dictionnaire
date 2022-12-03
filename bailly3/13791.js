@@ -1,1 +1,0 @@
-lar[13791]=`<b>ἀπο·χερσόω-ῶ</b>, rendre désert, dévaster, NYSS. <i>3, 925 Migne</i>.`

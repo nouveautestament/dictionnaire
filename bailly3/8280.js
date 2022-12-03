@@ -1,1 +1,0 @@
-lar[8280]=`<b>ας (ἡ) :<br>      1</b> sentiments indignes d’un homme libre, bassesse, grossièreté, <i>joint à</i> κολακεία, PLAT. <i>Rsp. 590b, Conv. 183b ; à</i> ὑπερηφανία, PLAT. <i>Criti. 112c ; à</i> ἀγροικία, PLAT. <i>Leg. 747c.</i><br><b>      2</b> parcimonie, avarice, XÉN. <i>Cyr. 8, 4, 32, etc</i>.<p><b>Étym</b>. ἀνελεύθερος.`

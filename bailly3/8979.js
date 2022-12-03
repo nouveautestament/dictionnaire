@@ -1,1 +1,0 @@
-lar[8979]=`<b>ἀνθρωπο·σφαγέω-ῶ</b> <font color="purple">[φᾰ]</font> égorger des hommes, EUR. <i>Hec. 260</i>.<p><b>Étym</b>. ἄ. σφάζω.`

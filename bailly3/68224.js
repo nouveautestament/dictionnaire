@@ -1,1 +1,0 @@
-lar[68224]=`<b>νεό·πτολις (ἡ)</b> <i>seul. acc</i>. <b>-ιν</b>, nouvelle ville, ESCHL. <i>Eum. 687</i>.<p><b>Étym</b>. ν. πτόλις.`

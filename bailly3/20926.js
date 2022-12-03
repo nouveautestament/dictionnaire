@@ -1,1 +1,0 @@
-lar[20926]=`<b>η, ον</b> <font color="purple">[ῡ]</font> de bière, CRAT. (HSCH.).<p><b>Étym</b>. βρῦτον.`

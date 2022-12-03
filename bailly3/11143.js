@@ -1,1 +1,0 @@
-lar[11143]=`<b>ατος (τὸ)</b> réclamation, demande instante, ARR. <i>Epict. 4, 6, 35</i> ; M. ANT. <i>5, 15</i>.`

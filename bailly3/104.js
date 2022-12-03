@@ -1,1 +1,0 @@
-lar[104]=`<i>adv.</i> :<br><b>      1</b> de façon à ne pouvoir supporter la vie, PLUT. <i>Sol. 7</i>.<br><b>      2</b> sans espérance de vie, PLUT. <i>Dio. 6</i>.`

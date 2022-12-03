@@ -1,1 +1,0 @@
-lar[12047]=`<i>adv</i>., sans multiplication, PORPH. <i>Sent. p. 241, 242</i>.`

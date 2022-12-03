@@ -1,1 +1,0 @@
-lar[17012]=`<b>ου</b>, <i>ion</i>. <b>-εω (ὁ)</b> Attalès, <i>fils de Sadyattès, roi de Lydie,</i> HIPPON. <i>fr. 15</i>.`

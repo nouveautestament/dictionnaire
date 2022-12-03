@@ -1,1 +1,0 @@
-lar[67439]=`<font color="purple">[ῐ]</font> célébrer des mystères, ORPH. <i>H. 41, 6</i> ; MUS. <i>142</i> ; NONN. <i>Jo. 2, 23</i>.<p><b>Étym</b>. μυστιπόλος.`

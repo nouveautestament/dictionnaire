@@ -1,1 +1,0 @@
-lar[32299]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> <font color="purple">[ᾰ]</font> déclaration, HDT. <i>6, 129</i>.<p><b>Étym</b>. ἔκφημι.`

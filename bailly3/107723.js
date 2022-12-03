@@ -1,1 +1,0 @@
-lar[107723]=`<b>χαλκό·χυτος, ος, ον</b> <font color="purple">[ῠ]</font> fondu <i>ou</i> coulé en airain, ANTH. <i>9, 739</i>.<p><b>Étym</b>. χ. χέω.`

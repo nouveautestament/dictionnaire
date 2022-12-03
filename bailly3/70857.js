@@ -1,1 +1,0 @@
-lar[70857]=`<b>άδος (ἡ)</b> huitaine, le nombre huit, ARSTT. <i>Metaph. 12, 7, 22</i>.<p><b>Étym</b>. ὀκτώ.`

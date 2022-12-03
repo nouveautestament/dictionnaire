@@ -1,1 +1,0 @@
-lar[31913]=`<b>εως (ἡ)</b> action de procéder de, NAZ. <i>2, 141b Migne</i>.<p><b>Étym</b>. ἐκπορεύω.`

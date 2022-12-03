@@ -1,1 +1,0 @@
-lar[101171]=`<b>α, ον</b> <font color="purple">[ῠᾱ]</font> de Typhôn, A.RH. <i>2, 1210</i> ; NONN. <i>D. 2, 43, etc. ; subst</i>. τὸ Τυφαόνιον, la montagne de Typhôn, <i>en Béotie,</i> HÉS. <i>Sc. 32</i>.<p>➳ <i>Gén. épq</i>. Τυφαονίοιο, NONN. <i>D. 1, 223 ; dat. pl. fém. ion</i>. Τυφαονίῃσιν, NONN. <i>D. 2, 215, etc</i>.<p><b>Étym</b>. Τυφάων.`

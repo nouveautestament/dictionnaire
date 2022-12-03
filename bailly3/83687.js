@@ -1,1 +1,0 @@
-lar[83687]=`<b>προ·αποσφάζω</b>, égorger auparavant, LUC. <i>H. conscr. 26</i> ; DC. <i>65, 10</i>.`

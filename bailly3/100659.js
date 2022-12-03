@@ -1,1 +1,0 @@
-lar[100659]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>dim. de</i> τρίχωμα ARSTT. <i>Physiogn. 3, 2</i> ; CLÉARQ. (ATH. <i>257b</i>).`

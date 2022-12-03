@@ -1,1 +1,0 @@
-lar[28937]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> difficulté à tourner <i>ou</i> à mouvoir qqe ch., difficulté <i>en gén</i>. DS. <i>4, 11 ; 18, 82</i>.`

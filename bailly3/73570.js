@@ -1,1 +1,0 @@
-lar[73570]=`<b>ητος (ἡ)</b> état d’un corps laineux <i>ou</i> crépu, frisure, ARSTT. <i>G.A. 5, 3</i> ; TH. <i>H.P. 5, 2, 3, etc</i>.<p><b>Étym</b>. οὖλος².`

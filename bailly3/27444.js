@@ -1,1 +1,0 @@
-lar[27444]=`<i>adv</i>., avec fourberie, perfidement, BATR. <i>93</i> ; SPT. <i>Jer. 9, 4</i> ; JOS. <i>A.J. 14, 13, 6</i> ; DL. <i>9, 35</i>.<p><b>Étym</b>. δόλιος.`

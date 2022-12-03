@@ -1,1 +1,0 @@
-lar[58724]=`<b>έως (ὁ)</b> habitant de Kynætha, LYC. <i>400</i>.`

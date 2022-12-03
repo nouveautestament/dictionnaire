@@ -1,1 +1,0 @@
-lar[107287]=`<b>φυσόομαι-οῦμαι</b> <font color="purple">[ῡ]</font> être enflé, DIOSC. <i>4, 69</i>.<p><b>Étym</b>. φῦσα.`

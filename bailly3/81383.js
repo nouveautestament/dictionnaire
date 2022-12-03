@@ -1,1 +1,0 @@
-lar[81383]=`<b>ποικιλό·βοτρυς, υος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux raisins de couleurs variées, NONN. <i>D. 5, 279</i>.<p><b>Étym</b>. ποικίλος, βότρυς.`

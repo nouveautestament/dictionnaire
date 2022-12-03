@@ -1,1 +1,0 @@
-lar[76311]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> qui marque la durée d’une action : π. χρόνος, D. THR. <i>638, 24 ; ou simpl</i>. ὁ παρατατικός, DYSC. <i>Synt. p. 10, etc</i>. le temps imparfait, <i>propr</i>. le temps qui marque une durée de l’action.<p><b>Étym</b>. παρατείνω.`

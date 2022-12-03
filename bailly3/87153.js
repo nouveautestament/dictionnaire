@@ -1,1 +1,0 @@
-lar[87153]=`<b>πρωτ·άγγελος, ος, ον</b>, qui annonce le premier qqe ch. ; ANTH. <i>9, 383,</i> NONN. <i>Jo. 1, 46</i>.<p><b>Étym</b>. πρῶτος, ἀγγέλλω.`

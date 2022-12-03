@@ -1,1 +1,0 @@
-lar[50046]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> petit poisson, CHRYSIPP. (ATH. <i>89d, etc</i>.) ; ARSTT. <i>H.A. 2, 14</i> ; PLUT. <i>M. 978d</i>.<p>➳ <font color="purple">[ῡ]</font> AR. <i>fr. 344, 8 ; mais</i> <font color="purple">[ῠ]</font> ARCHESTR. (ATH. <i>311c</i>) ; ANTH. <i>11, 405</i>.<p><b>Étym</b>. <i>dim. de</i> ἰχθύς.`

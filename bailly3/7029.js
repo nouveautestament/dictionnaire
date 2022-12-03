@@ -1,1 +1,0 @@
-lar[7029]=`<b>ου (τὸ)</b> Anaktorion, <i>promont. et v. d’Acarnanie,</i> THC. <i>1, 55 ; 4, 49, etc</i>.`

@@ -1,1 +1,0 @@
-lar[56435]=`<b>κοιλο·στομία, ας (ἡ)</b> voix <i>ou</i> prononciation sourde (<i>propr</i>. creuse) QUINT. <i>1, 5, 32</i>.<p><b>Étym</b>. κοῖλος, στόμα.`

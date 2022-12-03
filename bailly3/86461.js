@@ -1,1 +1,0 @@
-lar[86461]=`<b>προ·σταυρόω-ῶ</b>, munir d’une palissade par devant, THC. <i>6, 75</i> ; APP. <i>Civ. 4, 79</i>.`

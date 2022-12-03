@@ -1,1 +1,0 @@
-lar[87185]=`<b>πρωτό·γαλα, -γάλακτος (τὸ)</b> <font color="purple">[γᾰ]</font> <i>seul. au plur</i>. colostrum, premier lait des femmes après leurs couches, GAL. <i>2, 99</i>.<p><b>Étym</b>. πρ. γάλα.`

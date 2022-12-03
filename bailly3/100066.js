@@ -1,1 +1,0 @@
-lar[100066]=`<font color="purple">[θᾱ]</font> <i>dor. c</i>. τριακονθήμερος.`

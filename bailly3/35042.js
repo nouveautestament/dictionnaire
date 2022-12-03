@@ -1,1 +1,0 @@
-lar[35042]=`<b>ής, ές</b>, tendu, <i>d’où adv</i>. ἐντενές, A.RH. <i>2, 933,</i> avec force <i>ou</i> intensité.<p><b>Étym</b>. ἐντείνω.`

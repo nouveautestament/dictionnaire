@@ -1,1 +1,0 @@
-lar[26856]=`<b>ατος (τὸ)</b> principe, PORPH. <i>Abst. 1, 7</i>.<p><b>Étym</b>. διορίζω.`

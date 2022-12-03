@@ -1,1 +1,0 @@
-lar[85130]=`<b>προσ·αναγιγνώσκω</b> <font color="darkgreen">(<i>f</i>. -αναγνώσομαι, <i>ao.2</i> -ανέγνων, <i>etc</i>.)</font> lire en outre, continuer de lire, <i>acc</i>. ESCHN. <i>40, 17</i> ; JOS. <i>B.J. 2, 2, 4</i>.`

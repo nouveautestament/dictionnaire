@@ -1,1 +1,0 @@
-lar[51237]=`<b>καλλι·τέχνης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui fabrique de belles choses, habile ouvrier, ANACR. <i>4, 1</i>.<p><b>Étym</b>. κ. τέχνη.`

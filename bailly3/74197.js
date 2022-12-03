@@ -1,1 +1,0 @@
-lar[74197]=`<b>παθο·γνωμονικός</b>, <i>mieux que</i> <b>παθο·γνωμικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui fait reconnaître une maladie, GAL. <i>2, 186d</i>.<p><b>Étym</b>. πάθος, γνώμων.`

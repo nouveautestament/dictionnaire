@@ -1,1 +1,0 @@
-lar[60015]=`<b>λαχανη·λόγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui récolte des légumes, ANTH. <i>9, 318</i>.<p><b>Étym</b>. λάχανον, λέγω.`

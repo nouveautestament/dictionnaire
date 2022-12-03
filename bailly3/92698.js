@@ -1,1 +1,0 @@
-lar[92698]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> στοῖχος, PLUT. <i>M. 347 e et f</i>.`

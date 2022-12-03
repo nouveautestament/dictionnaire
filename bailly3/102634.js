@@ -1,1 +1,0 @@
-lar[102634]=`<b>ὑπερ·μαζάω-ῶ</b>, avoir de trop grosses mamelles, SYN. <i>Ep. 4</i>.<p><b>Étym</b>. ὑ. μαζός.`

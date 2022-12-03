@@ -1,1 +1,0 @@
-lar[71430]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ὀμματοποιός, JAMBL. <i>Protr. p. 328</i>.<p><b>Étym</b>. ὄμμα, ἔργον.`

@@ -1,1 +1,0 @@
-lar[39379]=`<b>ἐπι·τέταρτος, ος, ον</b>, composé d’un entier et un quart, NICOM. <i>Arithm. 95, 101</i>.`

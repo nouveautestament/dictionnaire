@@ -1,1 +1,0 @@
-lar[1997]=`<b>ας (ἡ)</b> manquement à la foi jurée, POL. <i>2, 32, 8 ; 3, 17, 2, etc.</i> ; DS. <i>18, 32</i> ; SPT. <i>Jer. 20, 8, etc</i>.<p><b>Étym</b>. ἄθετος.`

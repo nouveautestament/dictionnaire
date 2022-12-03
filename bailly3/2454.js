@@ -1,1 +1,0 @@
-lar[2454]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> Éthiopien, IL. <i>1, 423</i> ; THCR. <i>Idyl. 17, 87, etc</i>.<p><b>Étym</b>. Αἰθίοψ.`

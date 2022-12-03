@@ -1,1 +1,0 @@
-lar[45492]=`<b>ἡμι·μόχθηρος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié mauvais, PLAT. <i>Rsp. 352c ;</i> GAL. <i>6, 57, etc</i>.<p><b>Étym</b>. ἡμι-, μ.`

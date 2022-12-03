@@ -1,1 +1,0 @@
-lar[91033]=`<b>σκληρο·κοιτέω-ῶ</b>, coucher sur un lit dur, HPC. <i>338, 23</i>.<p><b>Étym</b>. σκλ. κοίτη.`

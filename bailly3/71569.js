@@ -1,1 +1,0 @@
-lar[71569]=`<b>ὁμοιό·χροος, οος, οον</b>, de même couleur <i>ou</i> de couleur semblable, PLOT. <i>Enn. 1, 345</i>.<p><b>Étym</b>. ὅμ. χρόα.`

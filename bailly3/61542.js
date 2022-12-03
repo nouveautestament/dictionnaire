@@ -1,1 +1,0 @@
-lar[61542]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite lance, POSIDON. (ATH. <i>176b</i>).<p><b>Étym</b>. λόγχη.`

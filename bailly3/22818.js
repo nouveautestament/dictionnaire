@@ -1,1 +1,0 @@
-lar[22818]=`<b>γυναικο·πρεπής, ής, ές</b> <font color="purple">[ῠ]</font> qui sied à une femme, PLUT. <i>M. 102d</i>.<p>•<i> Cp</i>. -έστερος, PROCL. <i>Ptol. 203</i>.<p><b>Étym</b>. γ. πρέπω.`

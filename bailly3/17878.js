@@ -1,1 +1,0 @@
-lar[17878]=`<b>ἀ·φαντασίαστος, ος, ον</b> <font color="purple">[τᾰ]</font><br><b>      1</b> qui ne se montre pas, qui ne se manifeste pas, HERM. <i>Poem. 41, 14</i>.<br><b>      2</b> qui n’a pas de visions, CHRYS. <i>3, 533</i>.<p><b>Étym</b>. ἀ, φαντασιάζομαι.`

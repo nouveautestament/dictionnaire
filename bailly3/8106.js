@@ -1,1 +1,0 @@
-lar[8106]=`<b>ἀνδρο·πλήθεια, ας (ἡ)</b> multitude d’hommes, ESCHL. <i>Pers. 235</i>.<p><b>Étym</b>. ἀνήρ, πλῆθος.`

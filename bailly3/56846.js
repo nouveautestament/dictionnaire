@@ -1,1 +1,0 @@
-lar[56846]=`<b>κομψο·λόγος, ος, ον</b>, qui parle avec finesse <i>ou</i> habileté, ES. <i>168 Halm</i>.<p><b>Étym</b>. κομψός, λέγω.`

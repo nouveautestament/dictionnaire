@@ -1,1 +1,0 @@
-lar[99909]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. τραπεζεύς, IBYC. <i>fr. 60 Bgk</i>.<p><b>Étym</b>. <i>gén. pl. dor</i>. -ᾶν.`

@@ -1,1 +1,0 @@
-lar[94121]=`<b>συμ·παρεκτείνω</b>, exposer l’un auprès de l’autre, rapprocher, comparer, M. ANT. <i>7, 30 ; au pass</i>. GAL. <i>4, 605</i>.`

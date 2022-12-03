@@ -1,1 +1,0 @@
-lar[28299]=`<b>δυσ·διάπνευστος, ος, ον :<br>      1</b> qui transpire difficilement, ORIB. <i>68 Matthäi</i>.<br><b>      2</b> qui s’évapore difficilement, TH. <i>C.P. 1, 2, 4</i> ; DIOSC. <i>5, 9</i>.<p><b>Étym</b>. δ. διαπνέω.`

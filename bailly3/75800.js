@@ -1,1 +1,0 @@
-lar[75800]=`<b>παρα·κρεμάννυμι</b> <font color="darkgreen">(<i>ao. part</i>. παρακρεμάσας)</font> laisser pendre auprès <i>ou</i> à côté, IL. <i>13, 597</i>.`

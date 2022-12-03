@@ -1,1 +1,0 @@
-lar[105311]=`<b>άδος</b> <font color="purple">[ῐ]</font> <i>adj. f.</i> :<br><b>      1 <i>intr</i></b>. qui touche à sa fin <i>ou</i> à son déclin, EUR. <i>Her. 779</i>.<br><b>      2 <i>tr</i></b>. qui fait dépérir, qui consume, SOPH. <i>Ant. 819</i> ; HPC. <i>273, 9, etc</i>.<p><b>Étym</b>. φθίνω.`

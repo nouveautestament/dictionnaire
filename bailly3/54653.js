@@ -1,1 +1,0 @@
-lar[54653]=`<b>ῶν (οἱ)</b> les Celtes, <i>pple de l’ancienne Gaule,</i> PLUT. <i>Mul. virt. 6</i>.<p><b>Étym</b>. <i>cf</i>. Κελτός.`

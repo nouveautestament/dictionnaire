@@ -1,1 +1,0 @@
-lar[82685]=`<b>πονο·παίκτωρ, ορος</b>, <i>adj. m</i>. qui se joue de la fatigue <i>ou</i> du danger, MAN. <i>4, 276</i>.<p><b>Étym</b>. πόνος, παίζω.`

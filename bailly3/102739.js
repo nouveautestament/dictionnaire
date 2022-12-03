@@ -1,1 +1,0 @@
-lar[102739]=`<b>ὑπερ·πάσχω</b> <font color="darkgreen">(<i>f</i>. ὑπερπείσομαι, <i>ao.2</i> ὑπερέπαθον, <i>etc</i>.)</font> souffrir pour qqn, PTOL. <i>Tetr. p. 188, 7</i> ; EUM. <i>6, 16</i>.`

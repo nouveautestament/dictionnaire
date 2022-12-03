@@ -1,1 +1,0 @@
-lar[3735]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱτ]</font><br><b>      1</b> auditeur, THC. <i>3, 38 ; d’où</i> disciple, ARSTT. <i>Pol. 2, 12, etc.</i><br><b>      2</b> lecteur, PLUT. <i>Lys. 12, etc</i>.<p><b>Étym</b>. ἀκροάομαι.`

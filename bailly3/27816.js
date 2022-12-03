@@ -1,1 +1,0 @@
-lar[27816]=`<b>δρακοντο·φόνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui tue les serpents, ORPH. <i>Lith. 156 (duel</i> -φόνω).<p><b>Étym</b>. δράκων, πεφνεῖν.`

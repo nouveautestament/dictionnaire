@@ -1,1 +1,0 @@
-lar[79267]=`<b>περι·σκεπής, ής, ές :<br>      1</b> <i>pass</i>. couvert tout autour, de tous côtés, CALL. <i>Jov. 11</i>.<br><b>      2</b> <i>act</i>. qui couvre tout autour, qui abrite, qui protège, CALL. <i>Del. 23</i>.<p><b>Étym</b>. π. σκέπω.`

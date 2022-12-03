@@ -1,1 +1,0 @@
-lar[86877]=`<b>προ·ϋπισχνέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. -ϋποσχήσομαι, <i>ao.2</i> -ϋπεσχόμην, <i>etc</i>.)</font> promettre auparavant, POL. <i>32, 9, 2</i> ; DC. <i>60, 25, etc</i>.`

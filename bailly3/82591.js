@@ -1,1 +1,0 @@
-lar[82591]=`<b>πολυ·χώρητος, ος, ον</b> <font color="purple">[ῠ]</font> qui contient beaucoup, PROCL. <i>Plat. Tim. p. 160, 50 au cp</i>. -ότερος.<p><b>Étym</b>. π. χωρέω.`

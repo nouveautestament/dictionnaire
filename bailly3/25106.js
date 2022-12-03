@@ -1,1 +1,0 @@
-lar[25106]=`<b>δι·ανακαθίζω</b> <font color="purple">[ᾰᾰᾰ]</font> (<i>seul. prés</i>.) faire asseoir, HPC. <i>670, 8</i>.`

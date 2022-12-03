@@ -1,1 +1,0 @@
-lar[14613]=`<b>ου (ὁ)</b> <i>mot tyrrhénien, c</i>. πίθηκος, singe, STR. <i>81</i>.`

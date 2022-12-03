@@ -1,1 +1,0 @@
-lar[6974]=`<b>ή, όν</b>, propre à coller, DIOSC. <i>2, 161</i>.`

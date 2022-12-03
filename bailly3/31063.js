@@ -1,1 +1,0 @@
-lar[31063]=`<b>ἑκατό·στομος, ος, ον</b> <font color="purple">[ᾰ]</font> à cent bouches <i>ou</i> embouchures, EUR. <i>Bacch. 404</i>.<p><b>Étym</b>. ἑ. στόμα.`

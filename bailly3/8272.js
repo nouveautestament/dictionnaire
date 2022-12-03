@@ -1,1 +1,0 @@
-lar[8272]=`<b>ἀν·έλεγκτος, ος, ον :<br>   I.1</b> non réfuté, THC. <i>5, 85</i> ; PLAT. <i>Gorg. 467a, etc.</i><br><b>      2</b> non convaincu (d’une faute) THC. <i>6, 53</i>.<br><b>   II</b> irréfutable, PLAT. <i>Ap. 22a ;</i> DÉM. <i>1471, 10</i>.<p><b>Étym</b>. ἀν-, ἐλέγχω.`

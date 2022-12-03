@@ -1,1 +1,0 @@
-lar[68033]=`<b>ή, όν</b>, qui fait mourir, qui mortifie, CHRYS. <i>7, 301</i>.<p><b>Étym</b>. νεκρόω.`

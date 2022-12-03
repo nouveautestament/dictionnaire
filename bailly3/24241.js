@@ -1,1 +1,0 @@
-lar[24241]=`<b>Δημό·δοκος, ου (ὁ)</b> Dèmodokos :<br><b>      1</b> <i>chantre phéacien,</i> OD. <i>8, 44, etc.</i> ; LUC. <i>Dom. 8 ; etc.</i><br><b>      2</b> <i>autres,</i> THC. <i>4, 75</i> ; PLAT. <i>Ap. 33e ;</i> ARSTT. <i>Nic. 7, 9</i> ; ANTH. <i>11, 235 ; etc</i>.<p><b>Étym</b>. δ. δέκομαι.`

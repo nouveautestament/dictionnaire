@@ -1,1 +1,0 @@
-lar[59223]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. de pomme de pin, ANTH. <i>App. 72</i>.<p><b>Étym</b>. κῶνος.`

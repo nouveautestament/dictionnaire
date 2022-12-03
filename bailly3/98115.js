@@ -1,1 +1,0 @@
-lar[98115]=`<b>τελ·άρχης, ου (ὁ)</b> commandant d’une division de 2 048 hommes, EL. TACT. <i>9, 7</i>.<p><b>Étym</b>. τέλος, ἄρχω.`

@@ -1,1 +1,0 @@
-lar[47544]=`<b>ή, όν</b>, de Thrace, PLUT. <i>Parall. min. 18</i> ; LUC. <i>J. tr. 21</i>.<p><b>Étym</b>. Θρᾷξ.`

@@ -1,1 +1,0 @@
-lar[52248]=`<b>ος, ον</b>, chargé, surchargé de, <i>gén</i>. APP. <i>Syr. 21 ; abs</i>. POL. <i>9, 43, 6</i> ; DS. <i>5, 35, etc</i>.<p><b>Étym</b>. καταγέμω.`

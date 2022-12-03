@@ -1,1 +1,0 @@
-lar[27261]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> incertitude, indécision, ORIG. <i>1, 353 Migne</i>.`

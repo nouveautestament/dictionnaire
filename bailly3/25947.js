@@ -1,1 +1,0 @@
-lar[25947]=`<b>εως (ἡ)</b> <font color="purple">[ρῐ]</font> action de séparer, séparation, ARSTT. <i>G.A. 1, 18, 26</i>.<p><b>Étym</b>. διαχωρίζω.`

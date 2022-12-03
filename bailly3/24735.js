@@ -1,1 +1,0 @@
-lar[24735]=`<b>δια·κατελέγχομαι</b>, réfuter victorieusement : τινι, NT. <i>Ap. 18, 28</i>, qqn.`

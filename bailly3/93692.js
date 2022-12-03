@@ -1,1 +1,0 @@
-lar[93692]=`<b>ου</b> (ἡ <i>ou</i> ὁ) <font color="purple">[ῡᾰῑ]</font> mûrier, AMPHIS (<i>Com. fr. 3, 318</i>) ; TH. <i>C.P. 6, 6, 4, etc</i>.<p>➳ ἡ σ. TH. <i>l. c.</i> ; ὁ σ. AMPHIS <i>l. c</i>.<p><b>Étym</b>. συκῆ.`

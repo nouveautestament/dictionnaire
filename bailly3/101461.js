@@ -1,1 +1,0 @@
-lar[101461]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> bruit de l’eau dans le corps d’un hydropique, C. AUR. <i>Chron. 5, 8</i>.<p><b>Étym</b>. *ὑδατίζω, <i>de</i> ὕδωρ.`

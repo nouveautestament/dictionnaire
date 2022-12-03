@@ -1,1 +1,0 @@
-lar[61756]=`<b>ας (ἡ)</b> <font color="purple">[ᾱ]</font> division, dissension, discorde, querelle, PD. <i>N. 9, 34</i>.<p><b>Étym</b>. <i>dor. c</i>. *λύη, <i>v</i>. λύω.`

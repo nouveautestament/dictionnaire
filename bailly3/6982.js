@@ -1,1 +1,0 @@
-lar[6982]=`<b>ἀνα·κομάω-ῶ</b>, redevenir chevelu, LUC. <i>D. mer. 12, 5</i>.`

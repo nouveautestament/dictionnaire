@@ -1,1 +1,0 @@
-lar[17486]=`<b>αὐτο·θάνατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui se donne lui-même la mort, suicide, PLUT. <i>M. 293e</i>.<p><b>Étym</b>. αὐ. θάνατος.`

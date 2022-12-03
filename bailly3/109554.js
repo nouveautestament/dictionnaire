@@ -1,1 +1,0 @@
-lar[109554]=`<b>οῦντος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Psamathunte, <i>litt</i>. « le sablonneux <i>ou</i> l’ensablé », <i>port de Laconie,</i> ESCHN. <i>Ep. 1, 3 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>contr. p</i>. *ψαμαθόεις, <i>de</i> ψάμαθος.`

@@ -1,1 +1,0 @@
-lar[103176]=`<b>ὑπο·διήγησις, εως (ἡ)</b> narration postérieure, RHÉT. <i>3, 454 W</i>.`

@@ -1,1 +1,0 @@
-lar[68925]=`<b>ωνος</b> (<i>genre inconnu</i>) Nomistrôn (<i>auj</i>. Nusco) <i>v. de Lucanie,</i> PLUT. <i>Marc. 24</i>.`

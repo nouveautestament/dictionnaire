@@ -1,1 +1,0 @@
-lar[64896]=`<b>μετα·περισπάω-ῶ</b>, attirer d’un autre côté, détourner de, <i>gén</i>. CLÉM. <i>454</i>.`

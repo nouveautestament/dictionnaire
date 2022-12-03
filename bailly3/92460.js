@@ -1,1 +1,0 @@
-lar[92460]=`<b>οπος (ὁ, ἡ)</b> brillant comme un éclair, SOPH. <i>Ant. 1127</i>.<p><b>Étym</b>. <i>cf</i>. στεροπή.`

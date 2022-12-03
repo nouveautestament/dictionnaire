@@ -1,1 +1,0 @@
-lar[16708]=`<b>ἀ·ταύρωτος, ου</b>, <i>adj. f</i>. dont le taureau n’a pas approché, <i>d’où</i> :<br><b>      1</b> vierge, ESCHL. <i>Ag. 244</i>.<br><b>      2</b> chaste, AR. <i>Lys. 217 (fém</i>. ἀταυρώτη).<p><b>Étym</b>. ἀ, ταυρόω.`

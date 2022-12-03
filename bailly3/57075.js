@@ -1,1 +1,0 @@
-lar[57075]=`<b>(ἡ)</b> Korinna (Corinne) :<br><b>      1</b> <i>poétesse de Tanagra,</i> PLUT. <i>Glor. Ath. 4, etc.</i><br><b>      2</b> <i>autres,</i> LUC. <i>D. mer. 6, etc</i>.`

@@ -1,1 +1,0 @@
-lar[43779]=`<b>εὐ·χάλινος, ος, ον</b> <font color="purple">[ᾰῑ]</font> au beau frein <i>ou</i> au frein solide, SEXT. <i>M. 1, 169</i>.<p><b>Étym</b>. εὖ, χαλινός.`

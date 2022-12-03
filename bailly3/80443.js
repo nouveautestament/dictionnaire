@@ -1,1 +1,0 @@
-lar[80443]=`<i>att</i>. <b>πίττινος, η, ον</b> <font color="purple">[ῐν]</font><br><b>      1</b> enduit de poix, AR. <i>fr. 262 Dind.</i><br><b>      2</b> épais <i>ou</i> noir comme de la poix, LUC. <i>V.H. 2, 29</i>.<p><b>Étym</b>. πίσσα.`

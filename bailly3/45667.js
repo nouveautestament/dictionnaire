@@ -1,1 +1,0 @@
-lar[45667]=`<b>ἡνιο·στρόφος, ος, ον</b>, qui tient les rênes, qui dirige ; <i>subst</i>. ὁ ἡν. SOPH. <i>El. 731,</i> conducteur de char.<p><b>Étym</b>. ἡνία, στρέφω.`

@@ -1,1 +1,0 @@
-lar[11300]=`<b>ἀ·παράβατος, ος, ον</b> <font color="purple">[βᾰ]</font><br><b>      1</b> qu’on ne doit pas transgresser, inviolable, PLUT. <i>M. 410f, 745d.</i><br><b>      2</b> qui ne passe pas de l’un à l’autre, immuable, constant, NT. <i>Hebr. 7, 14</i>.<br><b>      3</b> qui ne transgresse pas la loi, JOS. <i>A.J. 18, 8, 2</i>.<p><b>Étym</b>. ἀ, παραβαίνω.`

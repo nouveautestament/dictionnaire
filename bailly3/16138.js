@@ -1,1 +1,0 @@
-lar[16138]=`<font color="purple">[ᾰτ]</font> <i>c</i>. ἀστατέω GAL. <i>3, 152e</i>.`

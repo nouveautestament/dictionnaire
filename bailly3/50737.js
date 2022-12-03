@@ -1,1 +1,0 @@
-lar[50737]=`<b>κακο·ήτωρ</b>, <i>gén</i>. <b>ορος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui a mauvais cœur, SIB. <i>1, 174</i>.<p><b>Étym</b>. κ. ἦτορ.`

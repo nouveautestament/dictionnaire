@@ -1,1 +1,0 @@
-lar[90943]=`<b>σκιό·θηρον, ου (τὸ)</b> cadran solaire, PLUT. <i>Marc. 19</i> ; DL. <i>2, 1</i>.<p><b>Étym</b>. <i>cf</i>. σκιαθήρας.`

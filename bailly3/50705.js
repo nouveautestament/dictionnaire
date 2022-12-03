@@ -1,1 +1,0 @@
-lar[50705]=`<b>κακο·διαιτησία, ας (ἡ)</b> mauvais régime, SOR. <i>Obst. p. 143 Erm</i>.<p><b>Étym</b>. κ. διαιτάω.`

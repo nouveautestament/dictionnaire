@@ -1,1 +1,0 @@
-lar[38622]=`<b>ἐπι·παραδέχομαι</b>, recevoir en outre, DYSC. <i>Synt. 170, 13</i>.`

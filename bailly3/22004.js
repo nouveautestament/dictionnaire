@@ -1,1 +1,0 @@
-lar[22004]=`<b>ή, όν</b>, emboîté à l’aide de gonds <i>ou</i> de charnières, PHIL. BYZ. <i>94</i>.<p><b>Étym</b>. γιγγλυμόω.`

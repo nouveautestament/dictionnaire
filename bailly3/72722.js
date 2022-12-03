@@ -1,1 +1,0 @@
-lar[72722]=`<b>ὀρθό·κυλλος, ος, ον</b>, courbaturé (<i>propr</i>. raide et courbé) GAL.<p><b>Étym</b>. ὀ. κυλλός.`

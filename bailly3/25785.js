@@ -1,1 +1,0 @@
-lar[25785]=`<b>ῆς (ἡ)</b> nourriture, subsistance, XÉN. <i>Vect. 4, 49</i> ; MÉN. (STOB. <i>Fl. 61, 1</i>) ; DS. <i>19, 32</i> ; NT. <i>1Tim. 6, 8</i>.<p><b>Étym</b>. διατρέφω.`

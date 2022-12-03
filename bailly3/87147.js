@@ -1,1 +1,0 @@
-lar[87147]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> pilote en second, <i>litt</i>. « qui se tient à la proue », XÉN. <i>Ath. 1, 2 ; fig</i>. SOPH. <i>fr. 470 Dind</i>.<p><b>Étym</b>. πρῷρα.`

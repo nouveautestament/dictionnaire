@@ -1,1 +1,0 @@
-lar[10780]=`<b>ἀν·ύπουλος, ος, ον</b>, qui ne cache pas de blessure, <i>d’où</i> non dissimulé, PHIL. <i>2, 435, 469</i>.<p><b>Étym</b>. ἀν-, ὕπουλος.`

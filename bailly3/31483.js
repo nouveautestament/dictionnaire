@@ -1,1 +1,0 @@
-lar[31483]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> évacuation d’excréments, HPC. <i>41, 38</i>.<p><b>Étym</b>. ἐκκοπρόω.`

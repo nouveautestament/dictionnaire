@@ -1,1 +1,0 @@
-lar[81540]=`<b>      1 <i>tr.</i></b> tourner, retourner (la terre avec la charrue) <i>acc</i>. SOPH. <i>Ant. 340</i> ; RHÉT. <i>1, 498 W.</i><br><b>      2 <i>intr.</i></b> se mouvoir : κατὰ ἄστυ, OD. <i>22, 223,</i> à travers une ville, <i>càd</i>. y vivre.<p><b>Étym</b>. πόλος.`

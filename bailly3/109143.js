@@ -1,1 +1,0 @@
-lar[109143]=`<font color="purple">[ῡ]</font> être d’un jaune d’or, ARSTT. <i>Mir. 45</i> ; ATH. <i>322a ;</i> HDN <i>5, 6 ; subst</i>. τὸ χρυσίζον τοῦ ᾠοῦ, GEOP. <i>14, 7, 5,</i> jaune d’œuf.<p><b>Étym</b>. χρυσός.`

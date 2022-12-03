@@ -1,1 +1,0 @@
-lar[46572]=`<b>α</b> <i>ou</i> <b>ος, ον</b> <font color="purple">[ῡ]</font> de Thémiskyra, A.RH. <i>2, 997</i>.<p>➳ <i>Fém</i>. -ος, A.RH. <i>2, 371</i>.<p><b>Étym</b>. <i>v</i>. Θεμίσκυρα.`

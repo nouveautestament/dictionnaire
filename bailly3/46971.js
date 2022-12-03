@@ -1,1 +1,0 @@
-lar[46971]=`<b>ας (ἡ)</b> acte hardi, APP. <i>Mithr. 108</i>.<p><b>Étym</b>. θερμουργός.`

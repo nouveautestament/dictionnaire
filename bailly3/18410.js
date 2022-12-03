@@ -1,1 +1,0 @@
-lar[18410]=`<b>ἀ·χείμαντος, ος, ον</b>, non troublé par les orages, ALC. (EUST. <i>Il. 705, 61</i>) ; BACCHYL. <i>fr. 30, 1</i> (ATH. <i>20d</i>) ; TH. <i>C.P. 2, 17, 12</i>.<p><b>Étym</b>. ἀ, χειμαίνω.`

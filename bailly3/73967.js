@@ -1,1 +1,0 @@
-lar[73967]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>vb. de</i> ὀχυρόω, PLUT. <i>Mar. 18</i>.`

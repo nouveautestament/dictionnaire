@@ -1,1 +1,0 @@
-lar[83461]=`<b>ή, όν :<br>      1</b> scié, OD. <i>18, 196 ; 19, 564</i> ; EUR. <i>Tel. fr. 725 Nauck</i> ; ANTH. <i>6, 233</i>.<br><b>      2</b> qu’on peut scier, JOS. <i>A.J. 8, 5, 2</i>.<p><b>Étym</b>. <i>vb. de</i> πρίω.`

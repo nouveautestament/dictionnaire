@@ -1,1 +1,0 @@
-lar[82636]=`<b>ων (οἱ)</b> = <i>lat</i>. Pompeï, <i>v. de Campanie,</i> PLUT. <i>Cic. 8</i>.`

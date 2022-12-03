@@ -1,1 +1,0 @@
-lar[103925]=`<b>ὑπο·συγχρίω</b>, oindre en dessous, GAL. <i>6, 113</i>.`

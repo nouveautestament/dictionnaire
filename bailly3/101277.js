@@ -1,1 +1,0 @@
-lar[101277]=`<i>crase dor. ou poét. p</i>. τὰ ὀστέα.`

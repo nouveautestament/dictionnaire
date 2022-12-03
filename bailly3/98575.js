@@ -1,1 +1,0 @@
-lar[98575]=`<b>τετρα·και·δεκα·έτης, ου</b> <font color="purple">[τρᾰ]</font> <i>adj. m</i>. de quatorze ans, DH. <i>6, 21</i>.<p><b>Étym</b>. τ. κ. δέκα, ἔτος.`

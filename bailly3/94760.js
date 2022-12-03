@@ -1,1 +1,0 @@
-lar[94760]=`<b>συν·ανατέλλω</b>, <i>poét</i>. <b>συν·αντέλλω</b>, se lever <i>ou</i> paraître avec <i>ou</i> en même temps que, <i>dat</i>. EL. <i>V.H. 13, 1</i> ; NONN. <i>D. 1, 175 ; 3, 431</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PTOL. <i>Appar. commenc</i>.`

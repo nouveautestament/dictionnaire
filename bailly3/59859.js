@@ -1,1 +1,0 @@
-lar[59859]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰπ]</font> vantardise, fanfaronnade, CIC. <i>Att. 9, 13, 4</i>.<p><b>Étym</b>. λαπίζω.`

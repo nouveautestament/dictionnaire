@@ -1,1 +1,0 @@
-lar[46980]=`<b>ωνος (ὁ)</b> Thermôn, <i>Spartiate,</i> THC. <i>8, 11</i>.`

@@ -1,1 +1,0 @@
-lar[70807]=`<b>ὀκριάω-ῶ</b>, exciter, irriter, <i>d’où pass</i>. <b>ὀκριάομαι-ῶμαι</b> <font color="darkgreen">(<i>impf. épq. 3 pl</i>. ὀκριόωντο, OD. <i>18, 33 ; part. pf</i>. ὠκριωμένος, LYC. <i>545</i>)</font> être irrité, exaspéré.<p><b>Étym</b>. ὄκρις.`

@@ -1,1 +1,0 @@
-lar[99251]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> tombeau de Timoléon, PLUT. <i>Tim. 39</i>.<p><b>Étym</b>. Τιμολέων.`

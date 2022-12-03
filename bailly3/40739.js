@@ -1,1 +1,0 @@
-lar[40739]=`<b>ήεσσα, ῆεν</b>, IL. <i>14, 348 ; 24, 757, et</i> <b>ἐερσήεις</b>, IL. <i>24, 419,</i> couvert de rosée, baigné de rosée.<p><b>Étym</b>. ἕρση <i>et</i> ἐέρση.`

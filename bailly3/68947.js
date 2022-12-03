@@ -1,1 +1,0 @@
-lar[68947]=`<b>νομόν·δε</b>, <i>adv</i>., au pâturage, <i>avec mouv</i>. IL. <i>18, 575</i> ; OD. <i>9, 438</i>.<p><b>Étym</b>. νόμος, -δε.`

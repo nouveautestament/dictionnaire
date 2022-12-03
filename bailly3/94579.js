@@ -1,1 +1,0 @@
-lar[94579]=`<b>συν·αθλέω-ῶ :<br>      1</b> lutter d’un commun effort : τινι, avec qqn, NT. <i>Phil. 4, 3 ; ou</i> pour qqe ch. NT. <i>Phil. 1, 27</i>.<br><b>      2</b> saisir par un effort continu, DS. <i>3, 4 au pass</i>.`

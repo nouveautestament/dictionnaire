@@ -1,1 +1,0 @@
-lar[49370]=`<b>ἱππο·λεχής, ής, ές</b>, qui a enfanté un cheval, ORACL. (PAUS. <i>8, 42, 4).</i><p><b>Étym</b>. ἵ. λέχος.`

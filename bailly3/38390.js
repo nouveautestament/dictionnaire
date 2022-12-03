@@ -1,1 +1,0 @@
-lar[38390]=`<b>ἐπι·μελετάω-ῶ</b>, exercer encore, PHILOD. <i>Rhet</i>.`

@@ -1,1 +1,0 @@
-lar[52840]=`<b>κατα·μηνύω :<br>      1</b> indiquer, signaler, expliquer, ESCHL. <i>Pr. 175</i> ; HDT. <i>7, 30</i> ; PLUT. <i>Them. 23</i>.<br><b>      2</b> dénoncer, accuser, XÉN. <i>Hell. 3, 3, 2</i> ; DÉM. <i>719, 27</i> ; τινός, LYS. <i>134, 17,</i> qqn.`

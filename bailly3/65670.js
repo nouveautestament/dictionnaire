@@ -1,1 +1,0 @@
-lar[65670]=`<b>(ὁ)</b> Mithrobarzanès, <i>h</i>. PLUT. <i>Luc. 25</i> ; LUC. <i>Nec. 6</i>.`

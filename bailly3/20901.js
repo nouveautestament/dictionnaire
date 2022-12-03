@@ -1,1 +1,0 @@
-lar[20901]=`<i>adv</i>., en mordant, <i>d’où</i> en suçant (avec ses tentacules), <i>en parl. d’un poulpe,</i> ANTH. <i>9, 74</i>.<p><b>Étym</b>. βρύκω.`

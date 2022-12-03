@@ -1,1 +1,0 @@
-lar[107488]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire de Chéronée, A. PL. <i>331 ; au plur</i>. οἱ Χαιρωνεῖς, PLUT. <i>Syll. 16, etc</i>. les habitants de Chéronée.<p><b>Étym</b>. <i>v</i>. Χαιρώνεια.`

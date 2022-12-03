@@ -1,1 +1,0 @@
-lar[9625]=`<b>εως (ἡ)</b> observation critique, ATH. <i>634e</i>.<p><b>Étym</b>. ἀντεξηγέομαι.`

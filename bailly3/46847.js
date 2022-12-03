@@ -1,1 +1,0 @@
-lar[46847]=`<b>ας (ἡ)</b> inspiration divine, STR. <i>557, 761</i>.<p>➳ <i>Poét</i>. θευφορίη, ANTH. <i>6, 220</i>.<p><b>Étym</b>. θεοφόρος.`

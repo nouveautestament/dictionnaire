@@ -1,1 +1,0 @@
-lar[24670]=`<b>εως (ἡ)</b> manières affectées, affectation, CHRYS. <i>6, 44</i>.<p><b>Étym</b>. διαθρύπτω.`

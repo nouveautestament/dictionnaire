@@ -1,1 +1,0 @@
-lar[82067]=`<b>πολύ·λιμος, ου (ὁ)</b> <font color="purple">[ῠῑ]</font> grand appétit, voracité, PLUT. <i>M. 694a</i>.<p><b>Étym</b>. π. λιμός.`

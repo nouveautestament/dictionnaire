@@ -1,1 +1,0 @@
-lar[76303]=`<b>παρα·σχολέω-ῶ</b>, s’arrêter, se reposer, NYSS.`

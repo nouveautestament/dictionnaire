@@ -1,1 +1,0 @@
-lar[71622]=`<b>ου (τὸ)</b> temple de la Concorde, <i>à Rome,</i> DC. <i>49, 18</i>.<p><b>Étym</b>. ὁμόνοια.`

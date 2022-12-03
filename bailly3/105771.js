@@ -1,1 +1,0 @@
-lar[105771]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> habitudes de générosité, de munificence, LUC. <i>V. auct. 18</i> ; EL. <i>V.H. 9, 1</i>.<p><b>Étym</b>. φιλόδωρος.`

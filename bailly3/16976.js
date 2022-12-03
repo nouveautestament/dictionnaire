@@ -1,1 +1,0 @@
-lar[16976]=`<i>adv</i>., sans trembler, PLUT. <i>M. 474d, 475f</i>.`

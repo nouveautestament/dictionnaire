@@ -1,1 +1,0 @@
-lar[30294]=`<b>εἰδωλο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui apparaît comme une image, semblable à une image, PLUT. <i>M. 908e</i>.<p><b>Étym</b>. εἴδωλον, φαίνω.`

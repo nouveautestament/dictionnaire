@@ -1,1 +1,0 @@
-lar[42902]=`<b>*εὐπαγῶς</b>, <i>seul. ion</i>. <b>εὐπαγέως</b> <font color="purple">[ᾰ]</font> <i>adv</i>., avec un bon assemblage, <i>càd</i>. fermement, OPP. <i>H. 3, 401</i>.<p><b>Étym</b>. εὐπαγής.`

@@ -1,1 +1,0 @@
-lar[90339]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> sorte de thon, OPP. <i>H. 1, 170</i> ; ARTÉM. <i>2, 14</i> ; ATH. <i>312b</i>.<p><b>Étym</b>. <i>v</i>. σιμός.`

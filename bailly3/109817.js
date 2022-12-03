@@ -1,1 +1,0 @@
-lar[109817]=`<b>ψηφόω-ῶ</b>, travailler en mosaïque, CHRYS. <i>t. 5, p. 730</i>.`

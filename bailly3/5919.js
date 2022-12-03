@@ -1,1 +1,0 @@
-lar[5919]=`(<i>seul. prés</i>.) <font color="purple">[ᾰῡᾱ]</font> parler le dialecte d’Amyclées, THCR. <i>Idyl. 12, 13</i>.<p><b>Étym</b>. Ἀμύκλαι.`

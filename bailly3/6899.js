@@ -1,1 +1,0 @@
-lar[6899]=`<b>ἀνακαμψ·έρως, ωτος (ὁ)</b> <i>plante</i> dont on se servait dans les philtres pour fléchir et ramener les amants infidèles, PLUT. <i>M. 939d</i>.<p><b>Étym</b>. ἀνακάμπτω, ἔρως.`

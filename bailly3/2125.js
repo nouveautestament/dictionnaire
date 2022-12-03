@@ -1,1 +1,0 @@
-lar[2125]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> ἄθυρμα PHILOX. (ATH. <i>643c</i>) ; LUC. <i>D. mar. 1, 5</i>.`

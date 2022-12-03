@@ -1,1 +1,0 @@
-lar[185]=`<b>ἁβρο·πέδιλος, ος, ον</b> <font color="purple">[ῑ]</font> délicatement chaussé, ANTH. <i>12, 158</i>.<p><b>Étym</b>. ἁβρός, πέδιλον.`

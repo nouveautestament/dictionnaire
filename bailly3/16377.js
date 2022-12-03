@@ -1,1 +1,0 @@
-lar[16377]=`<b>ἀστυνομέω-ῶ</b> <font color="purple">[ῠ]</font> être astynome, DÉM. <i>1461, 11 ; à Rome,</i> être préteur, DC. <i>42, 22</i>.<p><b>Étym</b>. ἀστυνόμος.`

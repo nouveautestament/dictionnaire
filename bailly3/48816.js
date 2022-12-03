@@ -1,1 +1,0 @@
-lar[48816]=`<b>ου (ὁ)</b> Ikkos, <i>h</i>. PLAT. <i>Prot. 316d, Leg. 839e, etc</i>.`

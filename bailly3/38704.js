@@ -1,1 +1,0 @@
-lar[38704]=`<b>ἐπι·πλατύς, ύς, ύ</b>, <i>gén</i>. <b>έος</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐπιπλατής, ARCHIM. <i>Con. et sph. in proœm</i>.`

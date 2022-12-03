@@ -1,1 +1,0 @@
-lar[3948]=`<b>ου (τὸ)</b> rivage, EL. <i>N.A. 13, 28</i>.<p><b>Étym</b>. <i>neutre de</i> ἄκτιος.`

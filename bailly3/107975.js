@@ -1,1 +1,0 @@
-lar[107975]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. χαρμονή, ORPH. <i>H. 59, 4</i> ; PLUT. <i>M. 1202a ;</i> SPT. <i>1Reg. 18, 6 ; Jer. 33, 10</i>.`

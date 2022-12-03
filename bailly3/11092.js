@@ -1,1 +1,0 @@
-lar[11092]=`<b>εως (ἡ)</b> <font color="purple">[ᾰγ]</font> action de rendre sauvage, TH. <i>H.P. 4, 5, 6</i>.<p><b>Étym</b>. ἀπαγριόω.`

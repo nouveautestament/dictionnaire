@@ -1,1 +1,0 @@
-lar[7169]=`<b>ἀν·άμβατος, ος, ον</b> <font color="purple">[βᾰ]</font> qu’on ne peut monter (cheval) XÉN. <i>Cyr. 4, 5, 46</i>.`

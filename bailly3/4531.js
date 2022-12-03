@@ -1,1 +1,0 @@
-lar[4531]=`<b>ἀ·λιπής, ής, ές</b> <font color="purple">[ῐ]</font> qui ne cesse pas, POÈT. (PORPH. <i>Antr. nymph. 8).</i><p><b>Étym</b>. ἀ, λείπω.`

@@ -1,1 +1,0 @@
-lar[17970]=`<b>ἄ·φερτος, ος, ον</b>, insupportable, intolérable, ESCHL. <i>Ag. 386, 395, etc. ; Eum. 146</i>.<p><b>Étym</b>. ἀ, φέρω.`

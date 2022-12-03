@@ -1,1 +1,0 @@
-lar[41333]=`<b>ἑτερό·κλιτος, ος, ον</b> <font color="purple">[ῐ]</font> dont la déclinaison procède de thèmes différents, hétéroclite, DRAC. <i>37, 19</i> ; DYSC. <i>Pron. 274c ; Synt. 102, 12</i>.<p><b>Étym</b>. ἕ. κλίνω.`

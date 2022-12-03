@@ -1,1 +1,0 @@
-lar[68929]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> action de donner des lois écrites, STR. <i>260</i>.<p><b>Étym</b>. νομογράφος.`

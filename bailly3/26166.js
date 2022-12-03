@@ -1,1 +1,0 @@
-lar[26166]=`<b>δι·ελευθερόω-ῶ</b> <font color="darkgreen">(<i>ao. inf</i>. -ῶσαι)</font> délivrer entièrement, PORPH. <i>V. Pyth. 201</i>.`

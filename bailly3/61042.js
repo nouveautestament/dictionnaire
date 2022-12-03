@@ -1,1 +1,0 @@
-lar[61042]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font> action de tailler la pierre, sculpture, statuaire, MAN. <i>4, 130</i>.<p><b>Étym</b>. λιθογλύφος.`

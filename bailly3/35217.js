@@ -1,1 +1,0 @@
-lar[35217]=`<i>adv</i>., sous serment, PLUT. <i>Cæs. 47</i>.`

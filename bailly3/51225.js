@@ -1,1 +1,0 @@
-lar[51225]=`<b>Καλλιστο·μάχη, ης (ἡ)</b> <font color="purple">[μᾰ]</font> Kallistomakhè, <i>f</i>. PLUT. <i>X orat. Lyc. 28</i>.<p><b>Étym</b>. κάλλιστος, μάχομαι.`

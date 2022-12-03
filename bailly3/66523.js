@@ -1,1 +1,0 @@
-lar[66523]=`<b>μονο·γράμματος, ος, ον</b> <font color="purple">[μᾰ]</font> qui n’a qu’une lettre, DH. <i>Comp. 15</i> ; DRAC. <i>1, 9</i> ; DYSC. <i>Adv. 531, 19</i>.<p><b>Étym</b>. μ. γράμμα.`

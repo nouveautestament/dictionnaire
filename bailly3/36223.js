@@ -1,1 +1,0 @@
-lar[36223]=`<b>εως (ἡ)</b> action de mépriser, mépris, SPT. <i>Ps. 106, 40 ; 122, 3 et 4</i>.<p><b>Étym</b>. ἐξουδενόω.`

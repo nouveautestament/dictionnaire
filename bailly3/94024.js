@@ -1,1 +1,0 @@
-lar[94024]=`<b>συμμορφόω-ῶ</b>, rendre semblable, NT. <i>Phil. 3, 10</i>.<p><b>Étym</b>. σύμμορφος.`

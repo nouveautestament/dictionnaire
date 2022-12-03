@@ -1,1 +1,0 @@
-lar[33166]=`<b>ἐμ·βρύ·οικος, ος, ον</b>, qui séjourne dans les algues (ancre) ANTH. <i>6, 90</i>.<p><b>Étym</b>. ἐν, βρύον, οἰκέω.`

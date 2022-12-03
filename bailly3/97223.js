@@ -1,1 +1,0 @@
-lar[97223]=`<b>εως (ἡ)</b> entassement, accumulation, ARSTT. <i>Metaph. 12, 2, 7</i>.<p><b>Étym</b>. σωρεύω.`

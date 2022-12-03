@@ -1,1 +1,0 @@
-lar[10570]=`<b>Ἄντιφος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Antiphos, <i>h</i>. IL. <i>4, 489</i> ; OD. <i>2, 19, etc</i>.`

@@ -1,1 +1,0 @@
-lar[2806]=`<b>αἱρεσι·άρχης, ου (ὁ) :<br>      1</b> chef d’école, SEXT. <i>179, 6 Bkk.</i><br><b>      2</b> chef d’une secte religieuse, hérésiarque, EUS. <i>2, 168 Migne, etc</i>.<p><b>Étym</b>. αἵρεσις, ἄρχω.`

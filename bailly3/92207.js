@@ -1,1 +1,0 @@
-lar[92207]=`<b>σταφιδόω-ῶ</b> <font color="purple">[ᾰῐ]</font> faire sécher des raisins, DIOSC. <i>5, 27 ; au pass</i>. GEOP. <i>5, 45, 4</i>.<p><b>Étym</b>. σταφίς.`

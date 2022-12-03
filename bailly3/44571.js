@@ -1,1 +1,0 @@
-lar[44571]=`<b>οῦ (ὁ) :<br>      1</b> qui recherche, qui examine, PLAT. <i>Rsp. 618c.</i><br><b>      2</b> <i>à Athènes</i>, zètète, magistrat chargé de rechercher les débiteurs de l’État et de recouvrer les créances arriérées, DÉM. <i>696, 9 ; 703, 11</i> ; LYS. <i>163, 6</i> ; AND. <i>3, 6, etc</i>.<p><b>Étym</b>. ζητέω.`

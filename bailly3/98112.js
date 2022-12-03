@@ -1,1 +1,0 @@
-lar[98112]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> petit bandeau pour une blessure, ORIB. <i>c. 27, etc</i>.<p><b>Étym</b>. τελαμών.`

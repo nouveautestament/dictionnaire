@@ -1,1 +1,0 @@
-lar[8486]=`<b>ἀν·επιστάθμευτος, ος, ον</b>, dispensé de recevoir une garnison <i>ou</i> des garnisaires, POL. <i>15, 24, 2</i>.<p><b>Étym</b>. ἀν-, ἐπισταθμεύω.`

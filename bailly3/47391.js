@@ -1,1 +1,0 @@
-lar[47391]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à un thiase, NONN. <i>D. 45, 270 ; p. suite,</i> de fête, NONN. <i>Jo. 4, 205</i>.<p><b>Étym</b>. θίασος, -ωδης.`

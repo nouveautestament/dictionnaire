@@ -1,1 +1,0 @@
-lar[106251]=`<b>(ὁ)</b> <font color="purple">[ῑῠῐ]</font> le fils de Philyrè, <i>càd</i>. Kheirôn (Chiron) HÉS. <i>Th. 1002</i> ; A.RH. <i>1, 554</i>.<p>➳ <i>Dor</i>. Φιλυρίδας <font color="purple">[ᾱ]</font> PD. <i>P. 3, 1 ; voc</i>. Φιλυρίδα <font color="purple">[ᾱ]</font> PD. <i>P. 9, 30</i>.<p><b>Étym</b>. Φιλύρη.`

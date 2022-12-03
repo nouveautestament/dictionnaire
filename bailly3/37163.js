@@ -1,1 +1,0 @@
-lar[37163]=`<b>εως (ἡ)</b> action d’interroger, de consulter, HDT. <i>6, 67 ; 9, 44 ; au pl</i>. THC. <i>4, 38</i>.<p>➳ <i>Ion</i>. ἐπειρ. HDT. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[28752]=`<b>δυσ·πάλαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> irrésistible, ESCHL. <i>Eum. 846</i>.<p><b>Étym</b>. δ. παλάμη.`

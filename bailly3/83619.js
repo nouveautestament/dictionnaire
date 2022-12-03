@@ -1,1 +1,0 @@
-lar[83619]=`<b>εως (ἡ)</b> <font color="purple">[ᾰπ]</font><br><b>      1</b> action d’aller le premier au-devant de, action de devancer, PHAVOR. <i>p. 1560, 30</i>.<br><b>      2</b> <i>t. de rhét</i>. renversement de l’ordre des propositions, RHÉT. <i>8, 689, 712 W</i>.<p><b>Étym</b>. προαπαντάω.`

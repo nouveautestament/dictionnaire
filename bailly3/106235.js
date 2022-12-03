@@ -1,1 +1,0 @@
-lar[106235]=`<b>φίλ·υδρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime l’eau, ARSTT. <i>H.A. 8, 24, 11</i> ; TH. <i>H.P. 7, 5, 1</i>.<p><b>Étym</b>. φ. ὕδωρ.`

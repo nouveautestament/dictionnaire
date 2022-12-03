@@ -1,1 +1,0 @@
-lar[46711]=`<i>1 pl. de</i> θέω, courir, <i>ou 1 pl. sbj. ao.2 poét. de</i> τίθημι.`

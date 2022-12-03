@@ -1,1 +1,0 @@
-lar[95955]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en caractères de convention, POL. <i>8, 19, 4</i>.<p><b>Étym</b>. <i>v</i>. συνθηματικός.`

@@ -1,1 +1,0 @@
-lar[12183]=`<b>ατος (τὸ)</b> rebord d’un toit, saillie, ARSTT. <i>P.A. 2, 15, 1</i>.`

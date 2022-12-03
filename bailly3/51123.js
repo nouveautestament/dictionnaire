@@ -1,1 +1,0 @@
-lar[51123]=`<b>καλλι·ζυγής, ής, ές</b> <font color="purple">[ῠ]</font> au bel attelage, EUR. <i>Andr. 278</i>.<p><b>Étym</b>. κ. ζυγός.`

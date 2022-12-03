@@ -1,1 +1,0 @@
-lar[75691]=`<b>παρα·καταλογή, ῆς (ἡ)</b> changement de ton <i>ou</i> de rythme dans un récitatif, ARSTT. <i>Probl. 19, 6</i> ; PLUT. <i>M. 1140f</i>.<p><b>Étym</b>. π. καταλέγω.`

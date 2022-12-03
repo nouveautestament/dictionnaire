@@ -1,1 +1,0 @@
-lar[46489]=`<b>θειο·γραφικός, ή, όν</b> <font color="purple">[ᾰ]</font> des livres sacrés, des livres saints, JOS. RHAC. <i>(W. 3, 541).</i><p><b>Étym</b>. θεῖος¹, γράφω.`

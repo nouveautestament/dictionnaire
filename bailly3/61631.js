@@ -1,1 +1,0 @@
-lar[61631]=`<b>λοπαδ·άγχης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>propr</i>. qui étreint les plats, goinfre, EUB. (ATH. <i>113f, conj. p</i>. λοπαδάγχνης).<p><b>Étym</b>. λοπάς, ἄγχω.`

@@ -1,1 +1,0 @@
-lar[87942]=`<b>πυρο·κλοπία, ας (ἡ)</b> <font color="purple">[ῠ]</font> action de dérober le feu du ciel, ANTH. <i>6, 100</i>.<p><b>Étym</b>. πῦρ, κλέπτω.`

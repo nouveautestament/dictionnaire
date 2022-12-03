@@ -1,1 +1,0 @@
-lar[72644]=`<b>ὀρεσσί·νομος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. ὀρεινόμος, HÉS. <i>Sc. 407</i> ; NONN. <i>Jo. 4, 59, etc</i>.`

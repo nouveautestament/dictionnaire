@@ -1,1 +1,0 @@
-lar[37639]=`<b>ἐπι·διπλασιάζω</b> <font color="purple">[ᾰσ]</font> doubler, redoubler, HDN <i>6, 8, 17</i>.`

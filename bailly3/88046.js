@@ -1,1 +1,0 @@
-lar[88046]=`<b>πυρ·ωπός, ός, όν</b> <font color="purple">[ῠ]</font> <i>c</i>. πυρώπης ESCHL. <i>Pr. 667 ; fr. 304 Dind.</i> ; PLUT. <i>M. 648a ;</i> τὸ π. couleur d’un rouge de feu, PLUT. <i>M. 404d</i>.`

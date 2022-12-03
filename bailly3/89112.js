@@ -1,1 +1,0 @@
-lar[89112]=`<font color="darkgreen">(<i>f</i>. σαρῶ <font color="purple">[ᾰ]</font>, <i>ao</i>. ἔσηρα)</font> balayer, <i>càd.</i> :<br><b>      1</b> nettoyer en balayant, <i>acc</i>. EUR. <i>Hec. 363, Cycl. 29, etc.</i><br><b>      2</b> enlever en balayant (la poussière) <i>acc</i>. SOPH. <i>Ant. 409</i>.<p><b>Étym</b>. <i>cf</i>. σύρω.`

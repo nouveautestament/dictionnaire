@@ -1,1 +1,0 @@
-lar[10945]=`<b>ου (ὁ)</b> Axios, <i>h</i>. PLUT. <i>Cic. 25</i>.`

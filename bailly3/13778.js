@@ -1,1 +1,0 @@
-lar[13778]=`<b>ἀπο·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font> relâcher, AR. <i>Nub. 762</i> ; PLUT. <i>M. 655b</i>.`

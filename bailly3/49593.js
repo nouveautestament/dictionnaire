@@ -1,1 +1,0 @@
-lar[49593]=`<b>ατος (τὸ)</b> monument élevé, tombeau, LYC. <i>731</i>.<p><b>Étym</b>. ἵζω.`

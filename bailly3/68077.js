@@ -1,1 +1,0 @@
-lar[68077]=`<b>ή, όν</b>, qui s’indigne d’un bonheur immérité, ARSTT. <i>Rhet. 2, 9, 12, etc</i>.<p><b>Étym</b>. νεμεσάω.`

@@ -1,1 +1,0 @@
-lar[272]=`<b>ἀγαθό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰᾰ]</font> qui a un bon esprit <i>ou</i> de bonnes dispositions, PTOL. <i>Tetr. 163</i>.<p><b>Étym</b>. ἀγ. φρήν.`

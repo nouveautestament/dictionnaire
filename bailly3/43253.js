@@ -1,1 +1,0 @@
-lar[43253]=`<b>εὐρυ·βίης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. très fort, puissant, HH. <i>Cer. 295</i> ; HÉS. <i>Th. 931</i>.<p>➳ <i>Dor</i>. -ίας <font color="purple">[ᾱ]</font> PD. <i>O. 6, 58 ; P. 2, 12 ; 4, 175 ; 9, 13 ; I. 5, 51</i>.<p><b>Étym</b>. εὐρύς, βία.`

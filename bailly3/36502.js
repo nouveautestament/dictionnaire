@@ -1,1 +1,0 @@
-lar[36502]=`<b>ἐπ·αλινδέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> (<i>pl.q.pf. 3 sg</i>. ἐπηλίνδητ') rouler sur, A.RH. <i>4, 1463</i>.`

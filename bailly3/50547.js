@@ -1,1 +1,0 @@
-lar[50547]=`<b>καινο·γραφής, ής, ές</b> <font color="purple">[ᾰ]</font> qui écrit d’un nouveau style, PHILIC. (HÉPH. <i>p. 31, 2 Consbruch).</i><p><b>Étym</b>. καινός, γράφω.`

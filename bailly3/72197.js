@@ -1,1 +1,0 @@
-lar[72197]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> promptitude demain, habileté, savoir-faire, ALEX. (<i>Com. fr. 3, 523</i>) ; SEXT. <i>297</i>.<p><b>Étym</b>. ὀξύχειρ.`

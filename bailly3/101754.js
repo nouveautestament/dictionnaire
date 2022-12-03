@@ -1,1 +1,0 @@
-lar[101754]=`<b>ὑλο·τόμος, ος, ον</b> <font color="purple">[ῡ]</font> qui coupe le bois, IL. <i>23, 114 ; subst</i>. ὁ ὑλ. IL. <i>23, 123</i> ; HÉS. <i>O. 805</i> ; SOPH. <i>El. 98</i> ; TH. <i>H.P. 3, 9, 3</i> ; DS. <i>19, 58</i> ; STR. <i>708</i> ; PLUT. <i>Luc. 26,</i> bûcheron ; <i>ou</i> charpentier, SPT. <i>Sap. 13, 11</i>.<p><b>Étym</b>. ὕ. τέμνω.`

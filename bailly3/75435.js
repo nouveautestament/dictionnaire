@@ -1,1 +1,0 @@
-lar[75435]=`<b>ος, ον</b>, voisin de la terre, ARSTT. <i>H.A. 8, 19, 18</i>.<p><b>Étym</b>. π. γῆ.`

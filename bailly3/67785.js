@@ -1,1 +1,0 @@
-lar[67785]=`<b>οῦ (ὁ)</b> mal de mer, nausée, CHRYS. <i>6, 975</i>.<p><b>Étym</b>. *ναυσιάζω, <i>de</i> ναυσία.`

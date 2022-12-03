@@ -1,1 +1,0 @@
-lar[98672]=`<b>ή, όν</b>, qui concerne un tétrarque <i>ou</i> une tétrarchie, STR. <i>560</i>.<p><b>Étym</b>. τετράρχης.`

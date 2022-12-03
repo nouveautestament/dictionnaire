@@ -1,1 +1,0 @@
-lar[44681]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> art de peindre, XÉN. <i>Mem. 1, 4, 3</i>.<br><b>      2</b> tableau, PLAT. <i>Phædr. 275d</i>.<p><b>Étym</b>. ζωγράφος.`

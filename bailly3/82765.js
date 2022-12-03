@@ -1,1 +1,0 @@
-lar[82765]=`<b>ή, όν :<br>      1</b> favorable à la marche, praticable pour la marche, POL. <i>1, 37, 10 ; 1, 42, 3, etc.</i><br><b>      2</b> qui s’avance, ESCHL. <i>Ag. 287</i>.<p>➳ <i>Fém</i>. -ός, ESCHL. <i>l. c</i>.<p><b>Étym</b>. πορεύω.`

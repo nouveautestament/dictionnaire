@@ -1,1 +1,0 @@
-lar[80966]=`<i>adv</i>., avec pléthore, GAL. <i>6, 130</i>.`

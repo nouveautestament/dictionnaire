@@ -1,1 +1,0 @@
-lar[95961]=`<b>συν·θιασεύω</b> <font color="purple">[ᾰ]</font> célébrer ensemble les fêtes de Bacchus, STR. <i>471</i>.`

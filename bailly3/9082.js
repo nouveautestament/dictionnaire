@@ -1,1 +1,0 @@
-lar[9082]=`<b>ἀ·νικί</b> <font color="purple">[νῑ]</font> <i>adv</i>., sans victoire, DC. <i>61, 21</i>.<p><b>Étym</b>. ἀ, νίκη.`

@@ -1,1 +1,0 @@
-lar[13960]=`<b>ἀ·προσκλίτως</b> <font color="purple">[ῐ]</font> <i>adv</i>., sans pencher, fermement, BAS. <i>2, 381</i>.<p><b>Étym</b>. ἀ, προσκλίνω.`

@@ -1,1 +1,0 @@
-lar[32289]=`<b>εως (ἡ)</b> action de mettre au jour, divulgation, publication, ARISTOB. (EUS. <i>3, 640b Migne</i>) ; HIÉROCL. <i>C. aur. p. 475 Mullach</i>.<p><b>Étym</b>. ἐκφαίνω.`

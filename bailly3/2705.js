@@ -1,1 +1,0 @@
-lar[2705]=`<b>αἰνο·πλήξ, ῆγος (ὁ, ἡ)</b> qui frappe de terribles coups, NIC. <i>Th. 517</i>.<p><b>Étym</b>. αἰν. πλήσσω.`

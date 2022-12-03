@@ -1,1 +1,0 @@
-lar[31382]=`<b>ἐκ·καλαμάομαι-ῶμαι</b> (<i>prés</i>.) <font color="purple">[ᾰλᾰ]</font> pêcher comme à la ligne, <i>fig</i>. AR. <i>Vesp. 609</i>.<p><b>Étym</b>. ἐκ, κάλαμος.`

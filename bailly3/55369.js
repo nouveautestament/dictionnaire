@@ -1,1 +1,0 @@
-lar[55369]=`<b>Κηφισο·φῶν, ῶντος (ὁ)</b> <font color="purple">[ῑ]</font> Kèphisophôn, <i>h</i>. AR. <i>Ran. 944</i> ; XÉN. <i>Hell. 2, 4, 36, etc.</i> ; CIA. <i>1, 448, 1, 21 (5<sup>e</sup> siècle av. J.-C.) ; v. Meisterh. p. 75, 12</i>.<p><b>Étym</b>. Κ. *φάω.`

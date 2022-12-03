@@ -1,1 +1,0 @@
-lar[100143]=`<b>τρι·γενής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> de trois périodes (<i>dans la vie de certains insectes</i>) ARSTT. <i>G.A. 3, 9, 11</i>.<br><b>      2</b> de trois genres, DYSC.<p><b>Étym</b>. τρεῖς, γένος.`

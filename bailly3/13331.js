@@ -1,1 +1,0 @@
-lar[13331]=`<b>εως (ἡ)</b> dessiccation, durcissement, CORN. <i>33</i>.<p><b>Étym</b>. ἀποσκέλλω.`

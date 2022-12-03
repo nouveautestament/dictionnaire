@@ -1,1 +1,0 @@
-lar[19718]=`<b>ου (ὁ) :<br>      1</b> Biblos, <i>î. de l’Inde,</i> PHILSTR.<br><b>      2</b> <i>transcr. du n. d’h. rom</i>. Bibulus, PLUT. <i>Marc. 13</i>.`

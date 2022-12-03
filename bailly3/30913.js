@@ -1,1 +1,0 @@
-lar[30913]=`<b>εἰσ·χειρίζω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. εἰσεχείρισεν)</font> mettre dans les mains : τινί τι εἰσχ. SOPH. <i>O.R. 384,</i> mettre qqe ch. dans les mains de qqn.`

@@ -1,1 +1,0 @@
-lar[68522]=`<b>ου</b>, <i>épq</i>. <b>-αο</b> <font color="purple">[ᾱ]</font> (ὁ) le fils de Nèlée, <i>càd.</i> :<br><b>      1</b> Nestor, IL. <i>23, 652</i> ; HDT. <i>5, 65, etc.</i><br><b>      2</b> <i>autre,</i> A.RH. <i>1, 959</i>.<p><b>Étym</b>. Νηλεύς.`

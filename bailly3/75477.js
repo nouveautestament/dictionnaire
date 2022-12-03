@@ -1,1 +1,0 @@
-lar[75477]=`<b>παρ·αγωγίς, ίδος (ἡ)</b> <font color="purple">[ᾰγῐδ]</font> machine pour mouvoir une catapulte, PHIL. BYZ. <i>Bel. 58</i>.<p><b>Étym</b>. παραγωγή.`

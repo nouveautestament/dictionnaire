@@ -1,1 +1,0 @@
-lar[9920]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> coucher en opposition avec, <i>d’où</i> situation en opposition avec, <i>en parl. d’astres dont l’un se couche lorsque l’autre se lève,</i> HIPPARQ. <i>1068a Migne</i>.<p><b>Étym</b>. ἀντικαταδύομαι.`

@@ -1,1 +1,0 @@
-lar[54079]=`<b>κατ·ιχνηλατέω-ῶ</b> <font color="purple">[ᾰ]</font> suivre à la piste, EUM. <i>p. 334</i>.`

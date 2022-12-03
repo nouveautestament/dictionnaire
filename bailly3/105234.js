@@ -1,1 +1,0 @@
-lar[105234]=`<b>ή, όν</b> <i>ou</i> <b>φῆλος, η, ον</b>, trompeur, filou, MÉN. (SCH.-AR. <i>Pax 1165).</i><p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

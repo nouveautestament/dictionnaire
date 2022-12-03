@@ -1,1 +1,0 @@
-lar[79071]=`<b>ος, ον</b>, qui s’accomplit par suite d’ordres envoyés partout, ESCHL. <i>Ag. 87</i>.<p><b>Étym</b>. περιπέμπω.`

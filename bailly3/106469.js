@@ -1,1 +1,0 @@
-lar[106469]=`<b>φλυκταινόομαι-οῦμαι</b>, se soulever en pustules, HPC. <i>Coac. 195</i> ; DIOSC. <i>1, 134</i>.<p><b>Étym</b>. φλύκταινα.`

@@ -1,1 +1,0 @@
-lar[100499]=`<i>att</i>. <b>τριττῶς</b>, <i>adv</i>., triplement, ANTH. <i>12, 113</i> ; τριττῶς, DH. <i>Lys. 14</i>.<p><b>Étym</b>. τρισσός.`

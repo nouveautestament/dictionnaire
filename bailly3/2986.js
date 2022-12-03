@@ -1,1 +1,0 @@
-lar[2986]=`<b>οῦ (ὁ)</b> partisan des Étoliens, E. BYZ.<p><b>Étym</b>. αἰτωλίζω.`

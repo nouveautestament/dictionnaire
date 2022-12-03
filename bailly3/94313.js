@@ -1,1 +1,0 @@
-lar[94313]=`<b>σύμ·πολλοι, αι, α</b>, plusieurs ensemble, PLAT. <i>1 Alc. 114b, Pol. 261e, etc</i>.<p><b>Étym</b>. σ. πολύς.`

@@ -1,1 +1,0 @@
-lar[19852]=`<b>εως (ἡ) :<br>      1</b> <i>c</i>. βλαισότης 1 GAL. <i>4, 353</i>.<br><b>      2</b> action de rétorquer les termes d’un dilemme en opposant des termes contraires, ARSTT. <i>Rhet. 2, 23, 15</i>.<p><b>Étym</b>. βλαισόομαι.`

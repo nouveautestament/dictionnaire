@@ -1,1 +1,0 @@
-lar[65782]=`<b>ου (ὁ)</b> Mikylos, <i>h</i>. CRAT. <i>fr. 6</i> ; ANTH. <i>7, 460</i>.`

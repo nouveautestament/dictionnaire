@@ -1,1 +1,0 @@
-lar[28019]=`<b>ας (ἡ)</b> = <i>lat</i>. druppa, olive trop mûre, ANTH. <i>6, 299</i> ; ATH. <i>56a</i>.`

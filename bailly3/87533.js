@@ -1,1 +1,0 @@
-lar[87533]=`<b>ή, όν</b> <font color="purple">[ῡᾰ]</font> de Pythagore, pythagoricien, ARSTT. <i>An. 1, 3, etc.</i> ; ὁ Π. PLUT. <i>Num. 11, etc</i>. disciple de Pythagore.<p><b>Étym</b>. Πυθαγόρας.`

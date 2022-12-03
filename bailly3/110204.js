@@ -1,1 +1,0 @@
-lar[110204]=`<b>ὠκύ·ροος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule rapidement, au cours rapide, IL. <i>5, 598 ; 7, 133</i>.<p><b>Étym</b>. ὠ. ῥέω.`

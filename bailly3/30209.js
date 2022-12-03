@@ -1,1 +1,0 @@
-lar[30209]=`<i>2 sg. de</i> εἰμί, être.<br><i>2 sg. prés. ind. ou impér. poét. de</i> εἶμι, aller.`

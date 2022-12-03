@@ -1,1 +1,0 @@
-lar[99198]=`<b>άδος (ἡ)</b> Timas, <i>f</i>. SAPPH. <i>119 Bgk</i>.<p><b>Étym</b>. τιμή.`

@@ -1,1 +1,0 @@
-lar[11048]=`<i>adv</i>., d’une manière indéterminée, PLAT. <i>Leg. 916d</i>.`

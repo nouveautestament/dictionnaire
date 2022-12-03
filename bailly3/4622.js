@@ -1,1 +1,0 @@
-lar[4622]=`<b>(τὸ)</b> <i>seul. nom. et acc</i>. secours, appui : τινί, IL. <i>5, 644</i> ; τινός, IL. <i>11, 823,</i> pour qqn ; γήραος ἄ. HH. <i>Ap. 193,</i> secours contre la vieillesse.<p><b>Étym</b>. ἀλκή.`

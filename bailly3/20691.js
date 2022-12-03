@@ -1,1 +1,0 @@
-lar[20691]=`<b>βραχυ·έπεια, ας (ἡ)</b> <font color="purple">[ᾰχ]</font> <i>lat</i>. brachyepia, laconisme, R. LUP. <i>2, 8</i>.<p><b>Étym</b>. βρ. ἔπος.`

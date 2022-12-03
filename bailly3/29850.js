@@ -1,1 +1,0 @@
-lar[29850]=`<b>ή, όν :<br>      1</b> que l’on fait en veillant, propre à l’état de veille, ARSTT. <i>Somn. 2, 19</i>.<br><b>      2</b> <i>postér</i>. vigilant, BAS. <i>4, 309a Migne</i>.<p><b>Étym</b>. ἐγρήγορα.`

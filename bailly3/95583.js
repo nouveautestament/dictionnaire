@@ -1,1 +1,0 @@
-lar[95583]=`<b>συν·έπειμι</b>, <i>anc. att</i>. <b>ξυν·έπειμι</b>, marcher ensemble sur, attaquer ensemble, <i>dat</i>. THC. <i>3, 63</i>.`

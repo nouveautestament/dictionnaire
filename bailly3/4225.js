@@ -1,1 +1,0 @@
-lar[4225]=`<b>ἀλεξ·αίθριος, ος, ον</b>, qui préserve de la fraîcheur, SOPH. <i>fr. 120</i>.<p><b>Étym</b>. ἀλέξω, αἰθρία.`

@@ -1,1 +1,0 @@
-lar[89405]=`<b>ου (τὸ)</b> corde soutenant le bord supérieur d’un filet de chasse, XÉN. <i>Cyn. 6, 9 au plur</i>.`

@@ -1,1 +1,0 @@
-lar[33857]=`<b>ἔν·αλος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>c</i>. ἐνάλιος, EUR. <i>Hel. 1130, El. 1348</i>.<br><b>      2</b> qui se trouve près de la mer (ville) HH. <i>Ap. 180</i>.<p><b>Étym</b>. ἐν, ἅλς.`

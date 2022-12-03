@@ -1,1 +1,0 @@
-lar[332]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰν]</font><br><b>      1</b> irritation, agacement (des dents, des gencives, <i>etc</i>.) PLAT. <i>Phædr. 251c.</i><br><b>      2</b> sujet d’irritation, d’indignation, THC. <i>2, 41</i>.<p><b>Étym</b>. ἀγανακτέω.`

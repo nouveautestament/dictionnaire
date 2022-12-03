@@ -1,1 +1,0 @@
-lar[54606]=`<b>κελαινο·φαής, ής, ές</b>, noir, sombre (<i>propr</i>. à l’éclat sombre) AR. <i>Ran. 1331</i>.<p><b>Étym</b>. κ. φάος.`

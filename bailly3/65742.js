@@ -1,1 +1,0 @@
-lar[65742]=`<b>μικρό·σπερμος, ος, ον</b>, qui a de petites graines <i>ou</i> peu de graines, TH. <i>H.P. 8, 2, 5, au cp</i>. -ότερος.<p><b>Étym</b>. μ. σπέρμα.`

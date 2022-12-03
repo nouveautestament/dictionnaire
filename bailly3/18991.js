@@ -1,1 +1,0 @@
-lar[18991]=`<b>βαλληναῖον ὄρος</b> <i>ou</i> <b>βαληναῖον ὄρος (τὸ)</b> le mt Ballènæon, <i>en Phrygie, litt</i>. la montagne du roi (<i>cf. all</i>. Königsberg) PLUT. <i>M. 1155</i>.<p><b>Étym</b>. βαλλήν.`

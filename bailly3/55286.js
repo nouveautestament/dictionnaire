@@ -1,1 +1,0 @@
-lar[55286]=`<b>οῦ (ὁ) :<br>      1</b> cire, OD. <i>12, 48, etc.</i> ; PLAT. <i>Rsp. 588d, etc. ; employée comme cosmétique,</i> PHILSTR. <i>Ep. 22 ; p. ext</i>. figure en cire, THCR. <i>Idyl. 2, 28</i>.<br><b>      2</b> <i>au plur</i>. flambeaux de cire, cierges, HLD. <i>9, 11</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ; cf. lat</i>. cēra.`

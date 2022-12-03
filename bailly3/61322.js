@@ -1,1 +1,0 @@
-lar[61322]=`<b>λιπό·γυιος, ος, ον</b> <font color="purple">[λῐ]</font> qui n’a pas l’usage de ses membres, ANTH. <i>9, 13</i>.<p><b>Étym</b>. λ. γυῖον.`

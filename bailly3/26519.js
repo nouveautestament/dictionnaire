@@ -1,1 +1,0 @@
-lar[26519]=`<b>ου (τὸ)</b> <font color="purple">[ῐκ]</font><br><b>      1</b> tribunal, endroit où l’on juge, HDT. <i>6, 72, 104</i> ; PLAT. <i>Phædr. 273b ;</i> ANT. <i>143, 42</i> ; AND. <i>3, 27, etc.</i><br><b>      2</b> <i>p. ext</i>. le tribunal, <i>càd</i>. les juges eux-mêmes, AR. <i>Vesp. 624</i> ; PLAT. <i>Leg. 880d ;</i> DÉM. <i>585, 9</i>.<p><b>Étym</b>. δικάζω.`

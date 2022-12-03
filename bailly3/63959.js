@@ -1,1 +1,0 @@
-lar[63959]=`<b>μελεσί-πτερος, ος, ον</b>, aux ailes sonores <i>ou</i> harmonieuses, <i>ép. de la cigale,</i> ANTH. <i>7, 194</i>.<p><b>Étym</b>. μέλος, πτερόν.`

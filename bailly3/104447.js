@@ -1,1 +1,0 @@
-lar[104447]=`<b>ὑψηλο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui a une haute opinion de soi, orgueilleux, THÉM. <i>190d</i>.<p><b>Étym</b>. ὑ. γνώμη.`

@@ -1,1 +1,0 @@
-lar[33177]=`<b>ἔμ·βρωμα, ατος (τὸ) :<br>      1</b> déjeuner, ATH. <i>11c.</i><br><b>      2</b> érosion, corrosion (d’une dent) DIOSC. <i>1, 105</i>.<p><b>Étym</b>. ἐν, βιβρώσκω.`

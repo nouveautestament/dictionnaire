@@ -1,1 +1,0 @@
-lar[52658]=`<b>ή, όν</b>, qu’on peut abaisser, AR. <i>Pax 1244</i>.<p><b>Étym</b>. κατάγω.`

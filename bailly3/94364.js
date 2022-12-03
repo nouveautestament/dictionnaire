@@ -1,1 +1,0 @@
-lar[94364]=`<b>συμ·προκύπτω</b>, avancer la tête ensemble <i>ou</i> en même temps, SYN. <i>17c</i>.`

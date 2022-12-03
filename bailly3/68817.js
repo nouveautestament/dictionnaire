@@ -1,1 +1,0 @@
-lar[68817]=`<b>α, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> de Nisæa, <i>port de Mégaride,</i> THCR. <i>Idyl. 12, 27</i>.<br><b>      2</b> <i>au neutre,</i> Νισαῖον πεδίον, HDT. <i>7, 40,</i> plaine de Nisæon, <i>en Médie, d’où</i> Νισαῖοι ἵπποι, HDT. <i>3, 106,</i> chevaux de Nisæon.<p><b>Étym</b>. Νῖσα.`

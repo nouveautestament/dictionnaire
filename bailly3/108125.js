@@ -1,1 +1,0 @@
-lar[108125]=`<b>χειρογραφέω-ῶ</b> <font color="purple">[ᾰ]</font> écrire de sa main, DYSC. <i>Synt. p. 322, 5 Bekker</i>.<p><b>Étym</b>. χειρόγραφος.`

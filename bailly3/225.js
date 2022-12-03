@@ -1,1 +1,0 @@
-lar[225]=`<b>ἄ·βυσσος, ος, ον</b>, sans fond, d’une profondeur immense, HDT. <i>2, 28</i> ; ESCHL. <i>Suppl. 470 ; fig. en parl. de richesses, etc</i>. ESCHL. <i>Sept. 950</i> ; AR. <i>Lys. 174, etc.</i> ; ἡ ἄβ. abîme sans fond, NT. <i>Luc. 8, 31, etc. ; particul</i>. abîme de la mer, SPT. <i>Esaï. 44, 27</i>.<p><b>Étym</b>. ἀ, βυσσός.`

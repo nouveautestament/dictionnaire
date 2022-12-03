@@ -1,1 +1,0 @@
-lar[97369]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Ténare, A.RH. <i>1, 102</i> ; λίθος, STR. <i>367,</i> marbre de Ténare.<p><b>Étym</b>. Ταίναρον.`

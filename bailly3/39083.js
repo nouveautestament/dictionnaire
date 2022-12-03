@@ -1,1 +1,0 @@
-lar[39083]=`<b>ου (ὁ)</b> chausse pour filtrer, ORIB. (CHIR. <i>p. 102, 25).</i><p><b>Étym</b>. ἐπιστάζω.`

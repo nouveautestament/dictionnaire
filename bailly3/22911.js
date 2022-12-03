@@ -1,1 +1,0 @@
-lar[22911]=`<i>ou</i> <b>δᾴδιον, ου (τὸ) :<br>      1</b> petite torche, petit flambeau, LUC. <i>Nec. 7</i>.<br><b>      2</b> application de résine, HPC. <i>597, 17 ; 647, 52, etc</i>.<p><b>Étym</b>. <i>dim. de</i> δᾴς.`

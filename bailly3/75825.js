@@ -1,1 +1,0 @@
-lar[75825]=`<b>παρα·κωμῳδέω-ῶ</b>, tourner en ridicule incidemment dans une comédie, ATH. <i>525a</i>.`

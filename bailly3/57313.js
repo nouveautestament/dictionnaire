@@ -1,1 +1,0 @@
-lar[57313]=`<b>ου (ὁ)</b> costus, <i>plante aromatique de l’Inde,</i> TH. <i>H.P. 9, 7, 3</i> ; DIOSC. <i>1, 15</i> ; DS. <i>2, 49</i>.`

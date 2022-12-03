@@ -1,1 +1,0 @@
-lar[24715]=`<b>δια·καθαρίζω</b>, <font color="darkgreen"><i>f</i>. ιῶ</font> <font color="purple">[κᾰᾰ]</font> <i>c</i>. διακαθαίρω NT. <i>Matth. 3, 12 ; Luc. 3, 17</i>.`

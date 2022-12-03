@@ -1,1 +1,0 @@
-lar[98382]=`EL. <i>N.A. 10, 24 ; d’ord. moy</i>. <b>τερθρεύομαι</b>, agir <i>ou</i> parler en charlatan, mentir, DÉM. <i>1405, 27</i> ; ARSTT. <i>Top. 8, 1, 17</i> ; PLUT. <i>M. 43a</i>.<p><b>Étym</b>. <i>cf</i>. τερθρεία, τέρθρευμα.`

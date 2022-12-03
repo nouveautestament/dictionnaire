@@ -1,1 +1,0 @@
-lar[26929]=`<b>δί·πηχυς, υς, υ</b> <font color="purple">[ῐ]</font> de deux coudées, HDT. <i>2, 78 et 96</i> ; PLAT. <i>Phæd. 96e, etc</i>.<p><b>Étym</b>. δίς, πῆχυς.`

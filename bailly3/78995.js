@@ -1,1 +1,0 @@
-lar[78995]=`<b>περι·οδοιπορέω-ῶ</b>, faire un tour, se promener, HPC. <i>Prorrh. 85</i>.`

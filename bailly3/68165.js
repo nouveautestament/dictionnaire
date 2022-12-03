@@ -1,1 +1,0 @@
-lar[68165]=`<b>νεο·κληρόνομος, ος, ον</b>, qui vient d’hériter <i>ou</i> qui hérite encore jeune, ANTH. <i>8, 18</i>.`

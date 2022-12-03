@@ -1,1 +1,0 @@
-lar[33003]=`<b>ἑλμινθο·βότανον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> plante contre les vers, A. TR. <i>2, 595, 25 Puschmann</i>.<p><b>Étym</b>. ἕλμινς, βοτάνη.`

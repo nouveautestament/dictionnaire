@@ -1,1 +1,0 @@
-lar[51410]=`<b>ου</b> <font color="purple">[ᾰ]</font><br><b>      1 (ὁ</b> <i>et</i> <b>ἡ)</b> chameau, chamelle, HDT. <i>3, 105</i> ; ESCHL. <i>Suppl. 285</i> ; AR. <i>Av. 1559</i> ; κ. δρομάς, PLUT. <i>Alex. 31,</i> dromadaire.<br><b>      2 (ἡ)</b> troupe de chameaux dans une armée, HDT. <i>1, 80</i>.<p><b>Étym</b>. <i>emprunt sémitique, cf. hébr</i>. gāmāl, γάμμα.`

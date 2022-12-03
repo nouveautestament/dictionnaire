@@ -1,1 +1,0 @@
-lar[8410]=`<b>ἀν·επαφρόδιτος, ος, ον</b> <font color="purple">[πᾰῑ]</font> sans grâce, ALCIPHR. <i>3, 60</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Conv. 8, 15</i>.<p><b>Étym</b>. ἀν-, ἐπ.`

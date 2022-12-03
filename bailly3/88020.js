@@ -1,1 +1,0 @@
-lar[88020]=`<b>πυρσό·κομος, ος, ον</b>, aux cheveux rouges <i>ou</i> blonds, P. SIL. <i>Ecphr. ag. Soph. 881</i>.<p><b>Étym</b>. π. κόμη.`

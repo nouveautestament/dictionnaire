@@ -1,1 +1,0 @@
-lar[31901]=`<b>ἐκ·ποικίλλω</b>, varier <i>ou</i> orner avec art, M. TYR. <i>36, 2 Dübn</i>.`

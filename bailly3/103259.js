@@ -1,1 +1,0 @@
-lar[103259]=`<b>εως (ἡ)</b> action de regarder de dessous, PTOL. <i>Tetr. p. 193, 5</i>.<p><b>Étym</b>. ὑποθεωρέω.`

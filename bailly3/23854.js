@@ -1,1 +1,0 @@
-lar[23854]=`<b>δενδρό·κομος, ος, ον</b>, couvert (<i>litt</i>. chevelu) d’arbres, EUR. <i>Hel. 1107</i> ; AR. <i>Nub. 280</i>.<p><b>Étym</b>. δ. κόμη.`

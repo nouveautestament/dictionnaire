@@ -1,1 +1,0 @@
-lar[59129]=`<b>ηπος (ἡ) :<br>      1</b> articulation, creux du genou, IL. <i>23, 726</i>.<br><b>      2</b> cheville du pied, NIC. <i>Th. 424</i>.<p><b>Étym</b>. <i>cf</i>. κῶλον, κωλῆ.`

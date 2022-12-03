@@ -1,1 +1,0 @@
-lar[364]=`<font color="purple">[ᾰᾰ]</font> <i>adv.</i> :<br><b>      1</b> de manière à être satisfait, PLAT. <i>Leg. 735d ;</i> DÉM. <i>409, 7, etc.</i><br><b>      2</b> juste assez pour être satisfait, d’une manière à peine suffisante, tout juste, à peine, <i>en prose att</i>. ἀγαπητῶς σωθῆναι, LYS. <i>107, 16,</i> avoir été tout juste sauvé.`

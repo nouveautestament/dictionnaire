@@ -1,1 +1,0 @@
-lar[102]=`<b>(ὁ)</b> Abisarès, <i>chef indien,</i> EL. <i>N.A. 16, 39, etc</i>.`

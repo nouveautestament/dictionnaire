@@ -1,1 +1,0 @@
-lar[16352]=`<b>ας (ἡ)</b> action de coucher sur la dure (<i>litt</i>. sans tapis ni couverture) PLAT. <i>Leg. 633c, au plur</i>.<p><b>Étym</b>. ἄστρωτος.`

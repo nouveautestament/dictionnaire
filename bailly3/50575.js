@@ -1,1 +1,0 @@
-lar[50575]=`<b>ας (ἡ)</b> innovation, <i>particul</i>. innovation politique, révolution, ISOCR. <i>125c ;</i> DH. <i>Isocr. 9</i>.<p><b>Étym</b>. καινουργός.`

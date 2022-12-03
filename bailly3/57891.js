@@ -1,1 +1,0 @@
-lar[57891]=`<b>κριθανίας πυρός (ὁ)</b> froment semblable à de l’orge, TH. <i>H.P. 8, 2, 3</i>.<p><b>Étym</b>. κριθή.`

@@ -1,1 +1,0 @@
-lar[73139]=`<b>ου (ὁ)</b> orphe, <i>poisson de mer qui se cache dans les trous des rochers,</i> ARSTT. <i>H.A. 5, 10, etc</i>.<p><b>Étym</b>. <i>incert</i>.`

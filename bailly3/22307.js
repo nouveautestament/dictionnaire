@@ -1,1 +1,0 @@
-lar[22307]=`<b>ης (ἡ)</b> Gnômè :<br><b>      1</b> <i>n. de f</i>. ATH. <i>245d.</i><br><b>      2</b> <i>n. de chienne,</i> XÉN. <i>Cyn. 7, 5</i>.`

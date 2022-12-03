@@ -1,1 +1,0 @@
-lar[75156]=`<b>παν·σκαφεία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> action de bêcher complètement, <i>càd</i>. de retourner le sol en bêchant, GEOP. <i>5, 9, 11</i>.<p><b>Étym</b>. π. σκαφεύω.`

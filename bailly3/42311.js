@@ -1,1 +1,0 @@
-lar[42311]=`<b>εὐθύ·τονος, ος, ον</b> <font color="purple">[ῠ]</font> tendu en droite ligne, ATH. MACH. <i>p. 5, 13</i> ; τὰ εὐθύτονα, HÉRON <i>Bel. 122,</i> sorte de machines de jet à battement direct (catapulte, oxybèle, <i>etc.) (p. opp. à</i> παλίντονα).<p><b>Étym</b>. εὐ. τείνω.`

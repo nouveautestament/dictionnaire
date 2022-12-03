@@ -1,1 +1,0 @@
-lar[17546]=`<b>αὐτό·κριτος, ος, ον</b> <font color="purple">[ῐ]</font> qui s’interprète de soi-même, <i>en parl. d’un songe,</i> ARTÉM. <i>4, 72</i>.<p><b>Étym</b>. αὐ. κρίνω.`

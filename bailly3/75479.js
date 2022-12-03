@@ -1,1 +1,0 @@
-lar[75479]=`<b>παρ·αγωγός, ός, όν</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> qui amène, qui introduit, initiateur, CHARIT. <i>1, 1</i>.<br><b>      2</b> qui égare, qui séduit, trompeur, POÈT. (SUID. <i>v°</i> μύραινα).<p><b>Étym</b>. παράγω.`

@@ -1,1 +1,0 @@
-lar[36184]=`<b>οῦ (ὁ) :<br>      1</b> transport au delà des frontières, PLUT. <i>M. 549a.</i><br><b>      2</b> bannissement, DH. <i>5, 12</i>.<p><b>Étym</b>. ἐξορίζω.`

@@ -1,1 +1,0 @@
-lar[16478]=`<i>adv</i>., de façon à être en désaccord, d’une manière absurde, PLAT. <i>Leg. 860c ;</i> DH.`

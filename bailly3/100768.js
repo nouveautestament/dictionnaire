@@ -1,1 +1,0 @@
-lar[100768]=`<b>τροχάω-ῶ</b> (<i>seul. prés. et impf</i>.) :<br><b>      1</b> courir, ARAT. <i>1105</i> ; ANACR. <i>32, 6</i>.<br><b>      2</b> avoir la forme d’une roue, être rond, NIC. <i>Th. 166, au part. épq</i>. τροχόωσα.<p><b>Étym</b>. τροχός.`

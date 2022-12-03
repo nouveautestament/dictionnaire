@@ -1,1 +1,0 @@
-lar[32893]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Helladiè, <i>f</i>. A. PL. <i>284, 286, 287</i>.<p><b>Étym</b>. Ἑλλάς.`

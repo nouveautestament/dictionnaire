@@ -1,1 +1,0 @@
-lar[106081]=`<b>φιλό·σκιος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime l’ombre <i>ou</i> les ombrages, TH. <i>C.P. 3, 7, 1</i> ; OPP. <i>H. 4, 422</i>.<p><b>Étym</b>. φ. σκιά.`

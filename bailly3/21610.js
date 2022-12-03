@@ -1,1 +1,0 @@
-lar[21610]=`<b>οῦ (ὁ)</b> Gélônos, <i>fondateur de la race des Gélônes,</i> HDT. <i>4, 10</i>.`

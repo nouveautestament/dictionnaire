@@ -1,1 +1,0 @@
-lar[50711]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> mauvaise réputation, XÉN. <i>Ap. 31</i> ; PLAT. <i>Rsp. 361c, etc.</i><br><b>      2</b> opinion fausse <i>ou</i> condamnable (en matière religieuse) <i>p. opp. à</i> ὀρθοδοξία, CLÉM. <i>2, 424 Migne</i>.<p><b>Étym</b>. κακόδοξος.`

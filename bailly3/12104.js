@@ -1,1 +1,0 @@
-lar[12104]=`<b>ἄ·πνευστος, ος, ον :<br>      1</b> qui ne respire pas, sans souffle, OD. <i>5, 456</i> ; THCR. <i>Idyl. 25, 271</i>.<br><b>      2</b> à l’abri du vent, TH. <i>C.P. 5, 12 (au</i> <i>• Sup</i>. -ότατος).<p><b>Étym</b>. ἀ, πνέω.`

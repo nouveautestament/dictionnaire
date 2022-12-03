@@ -1,1 +1,0 @@
-lar[9076]=`<b>ἀν·ίκανος, ος, ον</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> insuffisant, incapable, BABR. <i>92</i> ; HLD. <i>2, 30</i>.<br><b>      2</b> insatiable, ARR. <i>Epict. 4, 1, 106</i>.<p><b>Étym</b>. ἀν-, ἱκανός.`

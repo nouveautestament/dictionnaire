@@ -1,1 +1,0 @@
-lar[81690]=`<b>Πολύ·αινος, ου (ὁ)</b> Polyænos (Polyen) :<br><b>      1</b> <i>écrivain militaire grec</i>.<br><b>      2</b> <i>autres,</i> LYS. <i>9, 5 Baiter-Sauppe</i> ; PLUT. <i>adv. Epic. 5, etc. ; adv. Col. 6 ; Phil. 10, etc.</i> ; ANTH. <i>6, 34 ; 7, 475</i>.<p><b>Étym</b>. <i>cf</i>. πολύαινος.`

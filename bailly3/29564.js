@@ -1,1 +1,0 @@
-lar[29564]=`<b>ἐγ·κατάσκευος, ος, ον</b>, disposé avec art, travaillé avec soin, SPT. <i>Ezech. 27, 24 ; en parl. du style,</i> DH. <i>Comp. 18 ; Thuc. 23 ; p. suite,</i> opulent, ARTÉM. <i>4, 17</i>.<p><b>Étym</b>. ἐν, κ.`

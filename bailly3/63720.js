@@ -1,1 +1,0 @@
-lar[63720]=`<i>adv</i>., moins, au-dessous de, SOPH. <i>O.C. 104</i>.<p><b>Étym</b>. μείων.`

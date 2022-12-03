@@ -1,1 +1,0 @@
-lar[53679]=`<b>ή, όν</b>, méprisant, dédaigneux, ARSTT. <i>Nic. 4, 3</i> ; PLUT. <i>M. 40f</i>.<p><b>Étym</b>. καταφρονέω.`

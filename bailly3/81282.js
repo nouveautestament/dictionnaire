@@ -1,1 +1,0 @@
-lar[81282]=`<b>ποδί·κροτος, ος, ον</b>, qui résonne autour des pieds, A. PL. <i>15</i>.<p><b>Étym</b>. πούς, κροτέω.`

@@ -1,1 +1,0 @@
-lar[69]=`<b>ἀβατόω-ῶ</b> <font color="purple">[βᾰ]</font> rendre désert, SPT. <i>Jer. 29, 20</i>.<p><b>Étym</b>. ἄβατος.`

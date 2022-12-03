@@ -1,1 +1,0 @@
-lar[84033]=`<b>ας (ἡ)</b> présidence, préséance, POL. <i>2, 56, 15, vulg</i>. προεδρία.<p><b>Étym</b>. προεδρεύω.`

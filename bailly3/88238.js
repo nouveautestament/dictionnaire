@@ -1,1 +1,0 @@
-lar[88238]=`<b>α, ον :<br>      1</b> de marteau <i>ou</i> de forgeron ; ἱδρώς, OPP. <i>H. 2, 28,</i> sueur des forgerons ; τὰ ῥαιστήρια, OPP. <i>H. 5, 153,</i> les marteaux.<br><b>      2</b> destructeur, A.RH. <i>3, 803</i> ; LYC. <i>525 ; avec le gén</i>. A.RH. <i>3, 790 ; 4, 921</i>.<p><b>Étym</b>. ῥαιστήρ.`

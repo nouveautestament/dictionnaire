@@ -1,1 +1,0 @@
-lar[40159]=`<b>ἐρατόχροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> aux couleurs aimables, au teint charmant, ANTH. <i>5, 76</i>.<p><b>Étym</b>. ἐρατός, χρόα.`

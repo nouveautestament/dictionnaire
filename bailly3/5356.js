@@ -1,1 +1,0 @@
-lar[5356]=`<b>εως (ἡ) :<br>      1</b> avortement, LYS. (POLL. <i>2, 7</i>) ; ARSTT. <i>Pol. 7, 16, 15, etc.</i><br><b>      2</b> coulure des yeux de la vigne, TH. <i>C.P. 5, 9, 13</i>.<p><b>Étym</b>. ἀμβλόω.`

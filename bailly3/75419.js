@@ -1,1 +1,0 @@
-lar[75419]=`<i>adv</i>., de manière à servir de terme de comparaison, CLÉM. <i>2, 625 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[6999]=`<b>εως (ἡ)</b> <font color="purple">[ᾱσ]</font> mélange, rapprochement avec, PLUT. <i>Alex. 47</i>.<p><b>Étym</b>. ἀνακεράννυμι.`

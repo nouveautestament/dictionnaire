@@ -1,1 +1,0 @@
-lar[69121]=`<b>ος, ον</b>, de nuit, nocturne, ESCHL. <i>Pr. 796, Sept. 367, etc.</i> : SOPH. <i>Aj. 217,</i> EL. <i>410</i> ; EUR. <i>Rhes. 53, etc.</i> ; AR. <i>Ran. 342</i>.<p><b>Étym</b>. νύξ.`

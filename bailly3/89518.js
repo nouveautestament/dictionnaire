@@ -1,1 +1,0 @@
-lar[89518]=`(<i>genre inconnu) indécl</i>. or, AR. <i>Ach. 100</i>.<p><b>Étym</b>. <i>anc. persan parodié</i>.`

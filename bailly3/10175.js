@@ -1,1 +1,0 @@
-lar[10175]=`<b>ἀντι·παραδίδωμι</b>, livrer à son tour <i>ou</i> en échange, JOS. <i>A.J. 15, 3, 1</i>.`

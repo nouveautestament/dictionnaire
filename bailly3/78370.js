@@ -1,1 +1,0 @@
-lar[78370]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> couche d’un enduit, JOS. <i>A.J. 15, 9, 3</i>.<p><b>Étym</b>. περιαλείφω.`

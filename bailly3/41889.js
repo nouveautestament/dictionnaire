@@ -1,1 +1,0 @@
-lar[41889]=`<b>ή, όν</b>, calme, tranquille, serein, PLAT. <i>Leg. 919a ;</i> ARSTT. <i>H.A. 5, 8, 9 ; particul</i>. à l’abri du vent <i>ou</i> du mauvais temps, <i>d’où</i> abrité, <i>p. suite,</i> tiède, chaud, XÉN. <i>Cyn. 5, 9</i> ; ARSTT. <i>H.A. 5, 16, 7</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Meteor. 1, 10</i>.<p><b>Étym</b>. εὐδία.`

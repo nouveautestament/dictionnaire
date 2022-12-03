@@ -1,1 +1,0 @@
-lar[28934]=`<b>δυ·στόχαστος</b>, <i>ou mieux</i> <b>δυσ·στόχαστος, ος, ον</b>, difficile à viser, à atteindre, <i>càd</i>. à conjecturer, PLUT. <i>Ant. 28</i> ; DIOSC. <i>2, 47 Spreng</i>.<p><b>Étym</b>. δ. στοχάζομαι.`

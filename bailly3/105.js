@@ -1,1 +1,0 @@
-lar[105]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font><br><b>      1</b> <i>act</i>. innocuité, innocence, CIC. <i>Tusc. 3, 8</i>.<br><b>      2</b> <i>pass</i>. absence de dommage <i>ou</i> de danger, tranquillité, PLUT. <i>M. 1090b</i>.<p>➳ <i>Ion</i>. ἀβλαβίη, HH. <i>Merc. 393</i>.<p><b>Étym</b>. ἀβλαβής.`

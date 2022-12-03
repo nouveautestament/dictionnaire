@@ -1,1 +1,0 @@
-lar[73897]=`<b>ὀχετηγέω-ῶ</b>, amener de l’eau par un conduit, PHILSTR. <i>663</i>.<p><b>Étym</b>. ὀχετηγός.`

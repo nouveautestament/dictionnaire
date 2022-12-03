@@ -1,1 +1,0 @@
-lar[101666]=`<b>οῦ (ὁ)</b> fils du fils, petit-fils, IL. <i>2, 666</i> ; OD. <i>24, 514</i> ; A.RH. <i>2, 1165</i> ; PLUT. <i>Popl. 14, M. 563a</i>.<p><b>Étym</b>. υἱός.`

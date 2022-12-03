@@ -1,1 +1,0 @@
-lar[63360]=`<b>*μεγαλοέργημα</b>, <i>p. contr</i>. <b>μεγαλούργημα, ατος (τὸ)</b> <font color="purple">[γᾰ]</font> grande action, PHIL.<p><b>Étym</b>. μεγαλοεργέω.`

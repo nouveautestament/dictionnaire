@@ -1,1 +1,0 @@
-lar[26704]=`<b>εως (ἡ)</b> enflure, gonflement, PLUT. <i>M. 771b ;</i> GAL. <i>2, 325 ; 7, 154</i>.<p><b>Étym</b>. διογκόω.`

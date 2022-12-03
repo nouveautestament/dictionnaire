@@ -1,1 +1,0 @@
-lar[77697]=`<b>ῆς (ἡ)</b> persuasion, <i>d’où</i> confiance, NT. <i>Gal. 5, 7</i>.<p><b>Étym</b>. πείθω.`

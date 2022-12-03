@@ -1,1 +1,0 @@
-lar[70606]=`<b>οἶν·οψ, οπος (ὁ, ἡ)</b> de la couleur du vin, <i>càd</i>. d’un rouge foncé, <i>en parl. de la mer,</i> IL. <i>1, 350</i> ; OD. <i>1, 183 (aux cas autres que le nom. sg.) ; de taureaux,</i> IL. <i>13, 703 ; du vin,</i> ANTH. <i>6, 44, etc</i>.<p><b>Étym</b>. οἶν. ὤψ.`

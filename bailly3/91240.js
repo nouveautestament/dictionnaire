@@ -1,1 +1,0 @@
-lar[91240]=`<b>ος, ον</b> = <i>lat</i>. scutulatus, d’une trame légère, <i>en parl. de vêtements,</i> M. RUBR. <i>p. 13</i>.`

@@ -1,1 +1,0 @@
-lar[101212]=`<font color="purple">[ῠ]</font> <i>c</i>. στοχάζομαι <i>ou</i> τυγχάνω, HPC. (EROT. <i>362).</i><p><b>Étym</b>. τύχη.`

@@ -1,1 +1,0 @@
-lar[94627]=`<b>ῆρος (ὁ)</b> sorte de caleçon, JOS. <i>A.J. 3, 7, 1</i>.<p><b>Étym</b>. συνάγω.`

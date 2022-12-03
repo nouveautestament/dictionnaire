@@ -1,1 +1,0 @@
-lar[90174]=`<b>σιδηρο·τρύπανον, ου (τὸ)</b> <font color="purple">[ῐῡᾰ]</font> tarière pour percer le fer, DÆMACH. (E. BYZ. <i>v°</i> Λακεδαίμων).`

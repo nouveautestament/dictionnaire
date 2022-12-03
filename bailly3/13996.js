@@ -1,1 +1,0 @@
-lar[13996]=`<i>adv</i>., sans acception de personnes, NT. <i>1Petr. 1, 17</i>.`

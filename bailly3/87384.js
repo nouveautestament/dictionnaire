@@ -1,1 +1,0 @@
-lar[87384]=`<b>η, ον</b> <font color="purple">[ῐ]</font> qui a perdu ses cils, GAL. <i>10, 432</i> ; SPT. <i>Lev. 21, 20 ; en parl. des paupières elles-mêmes,</i> DIOSC. <i>1, 86</i>.`

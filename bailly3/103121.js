@@ -1,1 +1,0 @@
-lar[103121]=`<b>ὑπο·δεικνύω</b> (<i>seul. prés. et impf</i>.) :<br><b>      1</b> montrer, donner la preuve de, <i>acc</i>. NICOM. COM. (ATH. <i>290f</i>).<br><b>      2</b> faire voir, faire connaître sa volonté, XÉN. <i>Mem. 4, 3, 13</i>.<br><b>      3</b> montrer par un exemple, fournir un exemple, XÉN. <i>Œc. 12, 18</i> ; ARSTT. <i>Œc. 1, 6, 5</i>.`

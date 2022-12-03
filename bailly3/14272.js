@@ -1,1 +1,0 @@
-lar[14272]=`<b>ου (τὸ)</b> Argion, <i>mt et anc. n. de Mycènes,</i> PLUT. <i>M. 1034</i>.`

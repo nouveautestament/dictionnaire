@@ -1,1 +1,0 @@
-lar[79962]=`<i>adv</i>., en troupe serrée, JOS. <i>B.J. 7, 6, 4</i>.<p><b>Étym</b>. φράσσω.`

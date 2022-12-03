@@ -1,1 +1,0 @@
-lar[19007]=`<b>ου (ὁ)</b> Baltasar, <i>roi de Babylone,</i> JOS.`

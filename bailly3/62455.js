@@ -1,1 +1,0 @@
-lar[62455]=`<b>ου (ὁ)</b> = <i>lat</i>. Macellus, <i>n. d’h. rom</i>. PLUT. <i>Qu. rom. 54</i>.`

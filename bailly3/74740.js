@@ -1,1 +1,0 @@
-lar[74740]=`<b>παμ·πληθεί</b>, <i>adv</i>., avec toute la multitude, en foule, NT. <i>Luc. 23, 18</i> ; DC. <i>75, 9, etc</i>.<p><b>Étym</b>. παμπληθής.`

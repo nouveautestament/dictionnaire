@@ -1,1 +1,0 @@
-lar[32382]=`<b>ἐκ·χαράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[χᾰ]</font> gratter, effacer en raclant, PLUT. <i>M. 873d ;</i> D. CHR. <i>1, 612</i>.`

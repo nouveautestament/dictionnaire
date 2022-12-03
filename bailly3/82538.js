@@ -1,1 +1,0 @@
-lar[82538]=`<b>πολύ·φρων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> très prudent, <i>en parl. d’Ulysse,</i> IL. <i>18, 108</i>.<br><b>      2</b> très ingénieux, industrieux, inventif, <i>en parl. d’Hèphæstos,</i> IL. <i>21, 367</i> ; OD. <i>8, 297</i>.<p><b>Étym</b>. π. φρήν.`

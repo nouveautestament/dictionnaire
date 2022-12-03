@@ -1,1 +1,0 @@
-lar[33337]=`<b>ἐμ·παρέχω</b> <font color="darkgreen">(<i>ao.2</i> ἐμπαρέσχον) :</font><br><b>      1</b> fournir, procurer, PLUT. <i>Galb. 29</i> ; LUC. <i>Conv. 28</i> ; APP. <i>Civ. 5, 68</i>.<br><b>      2</b> fournir l’occasion de, permettre de, <i>inf</i>. THC. <i>6, 12 ; 7, 56</i>.<p><b>Étym</b>. ἐν, π.`

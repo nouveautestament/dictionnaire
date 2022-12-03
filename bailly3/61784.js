@@ -1,1 +1,0 @@
-lar[61784]=`<b>γγός (ἡ)</b> hoquet, HPC. <i>Aph. 1255</i> ; THC. <i>2, 49</i> ; PLAT. <i>Conv. 185d, etc</i>.<p>➳ ὁ λ. GAL. <i>2, 213</i>.<p><b>Étym</b>. λύζω.`

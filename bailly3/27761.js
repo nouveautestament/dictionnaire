@@ -1,1 +1,0 @@
-lar[27761]=`<b>α, ον</b>, qui contient, qui peut contenir, NIC. <i>Th. 618, etc</i>.<p><b>Étym</b>. δοχή.`

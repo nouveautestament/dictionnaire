@@ -1,1 +1,0 @@
-lar[82606]=`<b>πολυ·ώνυχος, ος, ον</b> <font color="purple">[νῠ]</font> qui a beaucoup d’ongles, de serres <i>ou</i> de griffes, ARSTT. <i>H.A. 2, 12, 3</i>.<p><b>Étym</b>. π. ὄνυξ.`

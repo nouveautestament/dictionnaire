@@ -1,1 +1,0 @@
-lar[33921]=`<b>εως</b> <font color="purple">[ᾰ]</font> action de marquer une empreinte, PLOT. <i>Enn. 2, 740 Creuz</i>.<p><b>Étym</b>. ἐναπερείδω.`

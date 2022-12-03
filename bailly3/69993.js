@@ -1,1 +1,0 @@
-lar[69993]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> conversation intime, entretien familier ; <i>au pl</i>. HÉS. <i>O. 789</i> ; CALL. <i>fr. 118</i> ; Q. SM. <i>7, 316</i>.<p><b>Étym</b>. ὀαρίζω.`

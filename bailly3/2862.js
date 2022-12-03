@@ -1,1 +1,0 @@
-lar[2862]=`<b>ἀ·ΐστωρ, ωρ, ορ</b>, <i>gén</i>. <b>ορος</b>, qui ne sait pas, <i>gén</i>. EUR. <i>Andr. 682 ; abs</i>. PLAT. <i>Leg. 845b</i>.<p><b>Étym</b>. ἀ, ἵστωρ.`

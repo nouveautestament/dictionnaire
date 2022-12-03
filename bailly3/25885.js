@@ -1,1 +1,0 @@
-lar[25885]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠγ]</font> moyen d’échapper par la fuite, PLAT. <i>Leg. 836b, Prot. 321a ;</i> PLUT. <i>Alc. 25</i>.<p><b>Étym</b>. διαφεύγω.`

@@ -1,1 +1,0 @@
-lar[51268]=`<b>ῆς (ἡ)</b> beauté, HDT. <i>3, 106</i> ; EUR. <i>Tr. 977, etc.</i> ; PLAT. <i>Conv. 206d, etc. ; en parl. des agréments de la vie,</i> HPC. <i>22, 26</i>.<p><b>Étym</b>. κάλλος.`

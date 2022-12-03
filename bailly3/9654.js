@@ -1,1 +1,0 @@
-lar[9654]=`<b>ἀντ·επικαλέω-ῶ</b> <font color="purple">[τᾰ]</font> invoquer à la place d’un autre, APP. <i>Civ. 5, 59</i>.`

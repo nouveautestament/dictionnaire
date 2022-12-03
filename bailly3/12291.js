@@ -1,1 +1,0 @@
-lar[12291]=`<b>ἀπο·διατρίβω</b>, user complètement : τὸν χρόνον, ESCHN. <i>34, 29,</i> perdre complètement le temps ; τινά, DC. <i>54, 17,</i> faire perdre à qqn son temps.`

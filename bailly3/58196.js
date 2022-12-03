@@ -1,1 +1,0 @@
-lar[58196]=`<b>κρυψί·γονος, ος, ον</b> <font color="purple">[ῐ]</font> d’une naissance cachée, inconnue, ORPH. <i>H. 49, 3</i>.<p><b>Étym</b>. κρύπτω, γένος.`

@@ -1,1 +1,0 @@
-lar[16481]=`<b>ἀ·συνακόλουθος</b>, <i>anc. att</i>. <b>ἀξυνακόλουθος, ος, ον</b> <font color="purple">[ᾰκ]</font> sans suivants, sans suite, ANTIPH. <i>fr. 16 Kock</i>.`

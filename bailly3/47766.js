@@ -1,1 +1,0 @@
-lar[47766]=`<b>ατος (ὁ)</b> <font color="purple">[ῡ]</font> fragment, morceau brisé, LYC. <i>830</i>.<p><b>Étym</b>. θρυλίζω².`

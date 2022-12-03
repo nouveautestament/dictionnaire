@@ -1,1 +1,0 @@
-lar[53592]=`<b>κατα·τωθάζω</b>, se railler de, <i>gén</i>. HLD. <i>6, 2 ; abs</i>. LIB. <i>4, 1054</i>.`

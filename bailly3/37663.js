@@ -1,1 +1,0 @@
-lar[37663]=`<i>adv</i>., glorieusement, SPT. <i>1Esdr. 9, 45</i> ; ARTÉM. <i>2, 30, p. 125, 19</i>.<p><b>Étym</b>. ἐπίδοξος.`

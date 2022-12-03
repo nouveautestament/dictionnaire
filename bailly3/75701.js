@@ -1,1 +1,0 @@
-lar[75701]=`<b>παρα·κατορύσσω</b>, enfouir <i>ou</i> enterrer auprès, HPC. <i>Art. 813</i>.`

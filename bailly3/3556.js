@@ -1,1 +1,0 @@
-lar[3556]=`<b>ἀκοντο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte un javelot, NONN. <i>D. 20, 148</i>.<p><b>Étym</b>. ἄκων¹, φέρω.`

@@ -1,1 +1,0 @@
-lar[83240]=`<b>πραξι·κοπέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> prendre par surprise <i>ou</i> par ruse, <i>acc</i>. POL. <i>8, 60, 1</i>.<br><b>      2</b> travailler par de sourdes menées, chercher à tromper <i>ou</i> à surprendre par des intrigues, <i>acc</i>. POL. <i>2, 46, 2</i>.<p><b>Étym</b>. πρ. κόπτω.`

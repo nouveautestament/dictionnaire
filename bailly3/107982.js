@@ -1,1 +1,0 @@
-lar[107982]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Kharopè, <i>Bacchante,</i> NONN. <i>D. 36, 274</i>.<p><b>Étym</b>. <i>fém. de</i> Χάροπος.`

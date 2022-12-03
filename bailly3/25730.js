@@ -1,1 +1,0 @@
-lar[25730]=`<b>ή, όν</b>, propre à conserver, <i>gén</i>. M. ANT. <i>1, 16</i>.<p><b>Étym</b>. διατηρέω.`

@@ -1,1 +1,0 @@
-lar[104997]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> qu’on peut dire, <i>seul. dans la locut. négat</i>. οὔτι φατειός, indicible, <i>d’où</i> terrible, HÉS. <i>Th. 310 ; Sc. 144, 161</i> ; MÉNOPH. <i>6</i> (STOB. <i>Fl. 65, 7).</i><p><b>Étym</b>. <i>vb. poét. de</i> φημί.`

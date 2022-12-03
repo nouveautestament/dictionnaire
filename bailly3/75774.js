@@ -1,1 +1,0 @@
-lar[75774]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰκ]</font> suite immédiate, conséquence directe, PLUT. <i>M. 885c</i>.<p><b>Étym</b>. παρακολουθέω.`

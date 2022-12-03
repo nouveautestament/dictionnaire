@@ -1,1 +1,0 @@
-lar[68918]=`<b>εως (ἡ)</b> <font color="purple">[μῐ]</font> action de croire, croyance, <i>particul</i>. croyance religieuse, THC. <i>5, 105</i>.<p><b>Étym</b>. νομίζω.`

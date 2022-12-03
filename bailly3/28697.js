@@ -1,1 +1,0 @@
-lar[28697]=`<b>δυσ·νύμφευτος, ος, ον</b>, dont l’union est malheureuse, ANTH. <i>7, 401</i>.<p><b>Étym</b>. δ. νυμφεύω.`

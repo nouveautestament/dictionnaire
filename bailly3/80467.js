@@ -1,1 +1,0 @@
-lar[80467]=`<b>εως (ἡ)</b> action de confier, JOS. <i>A.J. 17, 3, 3</i>.<p><b>Étym</b>. πιστεύω.`

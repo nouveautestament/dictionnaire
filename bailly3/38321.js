@@ -1,1 +1,0 @@
-lar[38321]=`<b>ή, όν</b>, qui concerne la péroraison, HERMOG. <i>Rhet. 364, 23</i> ; ATH. <i>590e</i>.<p><b>Étym</b>. ἐπίλογος.`

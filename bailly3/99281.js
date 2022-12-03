@@ -1,1 +1,0 @@
-lar[99281]=`<font color="purple">[τῑμ]</font> <i>adv</i>., avec disposition à se venger, CHRYSIPP. (GAL. <i>1, 283 Bas</i>.).`

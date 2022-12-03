@@ -1,1 +1,0 @@
-lar[39942]=`<b>ἑπτα·βόειος, ος, ον</b> <font color="purple">[ᾰ]</font> garni de sept peaux de bœuf, IL. <i>7, 220, etc.</i> ; AR. <i>Ran. 1017</i>.<p><b>Étym</b>. ἑ. βοῦς.`

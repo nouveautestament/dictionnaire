@@ -1,1 +1,0 @@
-lar[68397]=`<b>εως (ἡ)</b> action de nager, de naviguer, ARSTT. <i>P.A. 1, 1, 7, etc</i>.<p><b>Étym</b>. νέω.`

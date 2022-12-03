@@ -1,1 +1,0 @@
-lar[60216]=`<b>λειψανη·λόγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui recueille les restes, ANTH. <i>6, 92</i>.<p><b>Étym</b>. λείψανον, λέγω².`

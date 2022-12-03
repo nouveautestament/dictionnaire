@@ -1,1 +1,0 @@
-lar[11456]=`<b>ἀπ·ατμίζω :<br>      1</b> exhaler une odeur, une vapeur, <i>acc</i>. ARSTT. <i>P.A. 2, 7, 18</i>.<br><b>      2</b> s’exhaler, s’évaporer, ARSTT. <i>Meteor. 2, 3, 37</i>.`

@@ -1,1 +1,0 @@
-lar[80318]=`<b>ῆς (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> graisse, HDT. <i>2, 40, 47</i> ; HPC. <i>Aër. 292</i> ; SOPH. <i>Ant. 1011</i> ; ARSTT. <i>H.A. 3, 17, 1, etc.</i><br><b>      2</b> <i>particul</i>. crème du lait, PHILSTR. <i>809</i>.<p><b>Étym</b>. πίων.`

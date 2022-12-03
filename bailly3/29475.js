@@ -1,1 +1,0 @@
-lar[29475]=`<b>ἐγ·καλλωπίζομαι :<br>      1</b> faire le beau devant, se faire remarquer de : τινι, PLUT. <i>M. 85c ;</i> EL. <i>V.H. 9, 35,</i> de qqn.<br><b>      2</b> se parer de, tirer vanité <i>ou</i> se glorifier de, <i>dat</i>. ἐγκ. τοῖς αἰσχροῖς, PLUT. <i>Ant. 36,</i> se glorifier d’actes honteux.<p><b>Étym</b>. ἐν, κ.`

@@ -1,1 +1,0 @@
-lar[41902]=`<b>εὐ·δίοπτος, ος, ον</b>, transparent, ARSTT. <i>P.A. 2, 13, 12</i> ; TH. <i>Sens. 80, 81</i> ; τὸ εὐδίοπτον, ARSTT. <i>G.A. 5, 1, 23,</i> transparence.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Probl. 21, 8</i>.<p><b>Étym</b>. εὖ, διόψομαι.`

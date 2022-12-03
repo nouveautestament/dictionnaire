@@ -1,1 +1,0 @@
-lar[36276]=`<b>ἐξ·ύπερθε</b> <font color="purple">[ῠ]</font> <i>adv</i>., au-dessus, SOPH. <i>Ph. 29</i>.<p><b>Étym</b>. ἐξ, ὕπερθε.`

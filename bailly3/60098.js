@@ -1,1 +1,0 @@
-lar[60098]=`<i>poét. et ion. c</i>. λεαίνω.<p>➳ <i>Prés</i>. SOL. <i>4, 35 ; f. épq</i>. λειανέω, IL. <i>15, 261 ; ao</i>. ἐλείηνα <i>ou</i> λείηνα, IL. <i>4, 111</i> ; OD. <i>8, 260</i> ; HPC. <i>8, 360. — Pass. ao. sbj. 3 pl</i>. λειανθέωσι, HPC. <i>8, 346 ; part</i>. λειανθείς, GEOP. <i>11, 13. — Moy. opt. ao. 2 sg</i>. λειήναιο, NIC. <i>Th. 646</i>.`

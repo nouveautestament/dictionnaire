@@ -1,1 +1,0 @@
-lar[21862]=`<b>γεωμετρέω-ῶ</b>, <i>f</i>. ήσω :<br><b>      1</b> mesurer la terre, être arpenteur <i>ou</i> géomètre, PLAT. <i>Theæt. 162e, Men. 85e ;</i> ARSTT. <i>etc.</i><br><b>      2</b> mesurer, <i>en gén</i>. PD. (PLAT. <i>Theæt. 173e</i>) ; XÉN. <i>Conv. 6, 8</i> ; POL. <i>9, 20, etc</i>.<p><b>Étym</b>. γεωμέτρης.`

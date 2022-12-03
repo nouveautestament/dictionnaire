@@ -1,1 +1,0 @@
-lar[80102]=`<b>πηλόω-ῶ</b>, couvrir de boue, <i>au pass</i>. se couvrir <i>ou</i> se salir de boue, PLUT. <i>M. 831a, 980c</i>.<p><b>Étym</b>. πηλός.`

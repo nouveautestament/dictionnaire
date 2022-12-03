@@ -1,1 +1,0 @@
-lar[92029]=`<b>α, ον</b>, qu’il faut rechercher, XÉN. <i>Lac. 7, 3 ; au neutre,</i> EUR. <i>I.A. 902</i> ; PLAT. <i>Rsp. 608a ;</i> ISOCR. <i>135a ; avec</i> ὅπως, ARSTT. <i>Nic. 1, 7, 21</i>.<p><b>Étym</b>. <i>vb. de</i> σπουδάζω.`

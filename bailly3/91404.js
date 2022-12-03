@@ -1,1 +1,0 @@
-lar[91404]=`<b>εως (ἡ)</b> production de vers, TH. <i>H.P. 7, 5, 6 conj</i>.<p><b>Étym</b>. σκωληκόω.`

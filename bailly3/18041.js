@@ -1,1 +1,0 @@
-lar[18041]=`<b>ἄ·φθαρτος, ος, ον :<br>      1</b> non corrompu, non gâté, non endommagé, PHIL. BYZ. <i>Bel. 67d.</i><br><b>      2</b> incorruptible, ARSTT. <i>An. pr. 2, 22, 3 ; An. post. 1, 24, 5 ; etc. ; d’où</i> immortel, DH. <i>8, 62</i> ; LUC. <i>J. tr. 20, etc</i>.<p><b>Étym</b>. ἀ, φθείρω.`

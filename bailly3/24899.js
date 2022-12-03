@@ -1,1 +1,0 @@
-lar[24899]=`<b>δια·κωμῳδέω-ῶ</b>, tourner en ridicule, bafouer, PLAT. <i>Gorg. 462e ;</i> ARSTT. <i>Poet. 22, 9</i>.`

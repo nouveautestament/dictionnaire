@@ -1,1 +1,0 @@
-lar[12878]=`<b>ἀπο·μείρομαι</b> (<i>seul. prés</i>.) :<br><b>      1</b> distribuer, partager, HÉS. <i>O. 576</i>.<br><b>      2</b> être séparé de, <i>gén</i>. HÉS. <i>Th. 801 dout</i>.`

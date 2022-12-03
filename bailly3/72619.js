@@ -1,1 +1,0 @@
-lar[72619]=`<b>ή, όν</b>, qui a la propriété de tendre vers, <i>d’où</i> :<br><b>      1</b> qui concerne le désir : τὸ ὀρεκτικόν, ARSTT. <i>Nic. 1, 13,</i> le désir, la convoitise.<br><b>      2</b> qui excite le désir, PLUT. <i>M. 688b</i>.<p><b>Étym</b>. ὀρεκτός.`

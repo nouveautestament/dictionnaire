@@ -1,1 +1,0 @@
-lar[71004]=`<b>ὀλιγό·γονος, ος, ον</b> <font color="purple">[ῐ]</font> qui produit peu, peu fécond, HDT. <i>3, 108</i> ; ARSTT. <i>H.A. 6, 1</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>H.A. 6, 17, 9</i>.<p><b>Étym</b>. ὀλ. γίγνομαι.`

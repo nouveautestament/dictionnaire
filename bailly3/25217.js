@@ -1,1 +1,0 @@
-lar[25217]=`<b>εως (ἡ)</b> cessation, ARSTT. <i>Probl. 10, 31</i>.<p><b>Étym</b>. διαπαύω.`

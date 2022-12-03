@@ -1,1 +1,0 @@
-lar[95692]=`<b>συν·επιτελέω-ῶ :<br>      1</b> exécuter ensemble : παιᾶνα, XÉN. <i>Ages. 2, 17,</i> un péan.<br><b>      2</b> aider à accomplir, PLUT. <i>Per. 13 ; au pass</i>. ARSTT. <i>Meteor. 4, 2, 3</i>.`

@@ -1,1 +1,0 @@
-lar[76113]=`<b>παρα·ποτάμιος, ος, ον</b> <font color="purple">[ιᾰ]</font><br><b>      1</b> situé près d’un fleuve, HDT. <i>2, 60</i> ; EUR. <i>Bacch. 872</i>.<br><b>      2</b> qui vit <i>ou</i> séjourne près des fleuves, HDT. <i>8, 34</i> ; ARSTT. <i>H.A. 9, 46, 2</i> ; DS. <i>3, 8</i>.<p><b>Étym</b>. π. ποταμός.`

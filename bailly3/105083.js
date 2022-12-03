@@ -1,1 +1,0 @@
-lar[105083]=`<b>ωνος (ὁ)</b> Pheidôn :<br><b>      1</b> <i>roi des Thesprôtes,</i> OD. <i>14, 316 ; 19, 287</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>6, 127</i> ; ARSTT. <i>Pol. 5, 10, etc</i>.<p><b>Étym</b>. <i>cf</i>. φείδων.`

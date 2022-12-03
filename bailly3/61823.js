@@ -1,1 +1,0 @@
-lar[61823]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Lykæa, <i>lieu près d’Adamantia, en Épire,</i> PLAT. <i>Min. 315c</i>.`

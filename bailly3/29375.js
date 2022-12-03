@@ -1,1 +1,0 @@
-lar[29375]=`<b>ἐγ·γράμματος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> figuré par lettres, écrit, <i>p. opp. à</i> parlé, PLAT. <i>Def. 414d ;</i> SEXT. <i>M. 1, 100</i> ; ARR. <i>Epict. 1, 20, 4</i> ; DL. <i>3, 107, etc.</i><br><b>      2</b> qui décrit <i>ou</i> retrace des caractères d’écriture, ATH. <i>454b</i>.<p><b>Étym</b>. ἐν, γράμμα.`

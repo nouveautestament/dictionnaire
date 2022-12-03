@@ -1,1 +1,0 @@
-lar[90253]=`<b>ου (τὸ)</b> <font color="purple">[ῐῡ]</font> <i>dim. de</i> σίκυος, PHRYN. COM. <i>2-1, 590 Mein</i>.`

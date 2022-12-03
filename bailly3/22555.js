@@ -1,1 +1,0 @@
-lar[22555]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. Γραικός, LYC. <i>605</i>.`

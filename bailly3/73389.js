@@ -1,1 +1,0 @@
-lar[73389]=`(<i>non</i> ὀττοτοῖ) ESCHL. <i>Pers. 918</i> ; EUR. <i>Or. 1390, etc. ; joint à</i> αἰαῖ, LUC. <i>Char. 1</i> ; ὀτοτοτοῖ, ESCHL. <i>Pers. 268, 274, etc. ; ou</i> ὀτοτοῖ τοτοῖ, SOPH. <i>El. 1245, ou</i> ὀτοτοτοτοτοτοῖ, EUR. <i>Tr. 1287, 1294, etc. interj., cri de douleur,</i> hélas ! hélas ! hélas !.`

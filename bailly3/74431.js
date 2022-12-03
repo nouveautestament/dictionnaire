@@ -1,1 +1,0 @@
-lar[74431]=`<b>παλαιο·φανής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui a un air de vétusté, d’antiquité, GEOP. <i>7, 24, 1</i>.<p><b>Étym</b>. π. φαίνω.`

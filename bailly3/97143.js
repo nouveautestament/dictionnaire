@@ -1,1 +1,0 @@
-lar[97143]=`<b>(ὁ)</b> Sôkleidès, <i>h</i>. XÉN. <i>Hell. 7, 4, 19</i>.<p>➳ <i>Dor</i>. Σωκλείδας, PD. <i>N. 6, 35</i>.<p><b>Étym</b>. <i>patr. de</i> Σωκλῆς.`

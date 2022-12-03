@@ -1,1 +1,0 @@
-lar[75160]=`<b>πάν·σοφος, ος, ον</b>, tout à fait sage, ESCHL. <i>Suppl. 319</i> ; SOPH. <i>fr. 784 Dind.</i> ; EUR. <i>H.f. 188, etc</i>.<p><b>Étym</b>. π. σοφός.`

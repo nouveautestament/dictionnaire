@@ -1,1 +1,0 @@
-lar[56160]=`<b>ου</b>, <i>épq</i>. <b>οιο (ὁ)</b> <font color="purple">[ῠ]</font> Klytios, <i>h</i>. IL. <i>3, 147, etc.</i> ; OD. <i>16, 327, etc</i>.`

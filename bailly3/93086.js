@@ -1,1 +1,0 @@
-lar[93086]=`<b>ατος (τὸ)</b> astringent pour fixer la teinture <i>ou</i> pour la préparation des essences et des parfums, DIOSC. <i>1, 76, etc. ; fig</i>. CLÉM. <i>144</i>.<p><b>Étym</b>. στύφω.`

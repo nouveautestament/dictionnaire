@@ -1,1 +1,0 @@
-lar[49608]=`<font color="purple">[ῑ̆ᾰ]</font> <i>adv</i>., d’un poids égal, HÉRON <i>p. 227 Wescher, Poliorcétique des Grecs</i>.`

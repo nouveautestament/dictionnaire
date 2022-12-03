@@ -1,1 +1,0 @@
-lar[103204]=`<b>ος, ον :<br>      1</b> qui court sous, qui aborde à, <i>dat</i>. ORPH. <i>Arg. 800</i>.<br><b>      2</b> qui se rencontre sous, <i>gén</i>. EUR. <i>Ph. 1391</i>.<p><b>Étym</b>. ὑποδραμεῖν.`

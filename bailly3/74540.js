@@ -1,1 +1,0 @@
-lar[74540]=`<b>παλίμ·πνοος, οος, οον</b> <font color="purple">[ᾰ]</font> qui repousse sa respiration, NONN. <i>D. 37, 295</i>.<p><b>Étym</b>. π. πνέω.`

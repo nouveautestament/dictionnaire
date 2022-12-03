@@ -1,1 +1,0 @@
-lar[33421]=`<b>ἐμ·περιστέγω</b>, couvrir autour à l’intérieur, SOR. <i>Obst. p. 93 Erm</i>.`

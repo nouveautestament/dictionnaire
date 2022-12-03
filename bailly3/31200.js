@@ -1,1 +1,0 @@
-lar[31200]=`<b>εως (ἡ)</b> <font color="purple">[δῐ]</font> vengeance, punition, POL. <i>3, 8, 10</i> ; SPT. <i>Ex. 7, 4 ; 12, 12 ; Deut. 32, 35, etc.</i> ; NT. <i>Ap. 7, 24</i>.<p><b>Étym</b>. ἐκδικέω.`

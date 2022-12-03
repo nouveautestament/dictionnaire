@@ -1,1 +1,0 @@
-lar[39170]=`<b>ἐπι·στράτηγος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> général <i>ou</i> commandant en chef, <i>titre des généraux romains en Égypte,</i> STR. <i>798</i>.`

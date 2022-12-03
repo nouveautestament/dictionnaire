@@ -1,1 +1,0 @@
-lar[67012]=`sucer, OPP. <i>H. 2, 407 ; d’où</i> téter, P. ÉG. <i>6, 41</i>.<p><b>Étym</b>. μύζω.`

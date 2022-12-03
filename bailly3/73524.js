@@ -1,1 +1,0 @@
-lar[73524]=`<b>ου (ὁ)</b> = <i>lat</i>. vitulus, petit veau, HELLANIC. (DH. <i>1, 35</i>).`

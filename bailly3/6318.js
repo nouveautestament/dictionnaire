@@ -1,1 +1,0 @@
-lar[6318]=`<b>ἀμφί·πλευροι θύραι (αἱ)</b> portières <i>ou</i> embrasures maintenues des deux côtés par des traverses, PHIL. BYZ. <i>Bel. 81c</i>.<p><b>Étym</b>. ἀ. πλευρά.`

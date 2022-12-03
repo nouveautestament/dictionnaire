@@ -1,1 +1,0 @@
-lar[63443]=`<b>μεγαλό·τολμος, ος, ον</b> <font color="purple">[ᾰ]</font> d’une grande hardiesse, audacieux, JOS. <i>A.J. 5, 1, 29</i> ; LUC. <i>Alex. 8</i>.<p><b>Étym</b>. μ. τόλμα.`

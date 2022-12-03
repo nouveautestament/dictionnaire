@@ -1,1 +1,0 @@
-lar[4840]=`<b>ἀλλο·φυής, ής, ές</b>, d’une autre nature, NONN. <i>D. 2, 148</i>.<p><b>Étym</b>. ἄ. φύω.`

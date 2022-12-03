@@ -1,1 +1,0 @@
-lar[108903]=`hennir.<p>➳ <i>Seul. prés</i>. PLAT. <i>Rsp. 396b, Phædr. 254d ; impf. poét</i>. χρεμέτιζον, IL. <i>12, 51 ; ao</i>. ἐχρεμέτισα, HDT. <i>3, 86, 87</i> ; EL. <i>V.H. 12, 46</i>.`

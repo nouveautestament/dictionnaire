@@ -1,1 +1,0 @@
-lar[85294]=`<b>ατος (τὸ)</b> ce qu’on porte à sa bouche, nourriture, <i>au pl</i>. HPC. <i>Aph. 1243</i>.<p><b>Étym</b>. προσαίρω.`

@@ -1,1 +1,0 @@
-lar[89965]=`<b>*σημό·θετος</b>, <i>dor</i>. <b>σαμό·θετος, ος, ον</b> <font color="purple">[ᾱ]</font> qui a une marque <i>ou</i> un signe apposé, ANTH. <i>6, 295</i>.<p><b>Étym</b>. σῆμα, τίθημι.`

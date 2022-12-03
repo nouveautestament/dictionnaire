@@ -1,1 +1,0 @@
-lar[87013]=`<b>προ·χειροτονέω-ῶ :<br>      1</b> élire auparavant à main levée, <i>d’où</i> élire auparavant, <i>en gén</i>. PLAT. <i>Leg. 765 b et c</i> ; ESCHN. <i>4, 11</i> ; NT. <i>Ap. 10, 41</i> ; DC. <i>50, 4</i>.<br><b>      2</b> voter préalablement, voter sur la prise en considération (d’une proposition) DÉM. <i>703, 18</i>.`

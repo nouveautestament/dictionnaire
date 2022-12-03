@@ -1,1 +1,0 @@
-lar[92215]=`<b>σταφυλη·τόμος, ος, ον</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> qui coupe les raisins, NONN. <i>D. 7, 165 dout.</i><br><b>      2</b> qui sert à enlever les tumeurs sur la luette, P. ÉG. (<i>vulg</i>. σταφυλο-).<p><b>Étym</b>. στ. τέμνω.`

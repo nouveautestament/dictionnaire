@@ -1,1 +1,0 @@
-lar[80725]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> planchette où était écrit le mot de guet, POL. <i>6, 34, 8 ; 10, 45, 8</i>.<p><b>Étym</b>. πλατύς.`

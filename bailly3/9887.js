@@ -1,1 +1,0 @@
-lar[9887]=`chauffer à son tour, A. APHR. <i>Probl. 1, 115</i>.`

@@ -1,1 +1,0 @@
-lar[72954]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῑ]</font> volière <i>ou</i> poulailler, VARR. <i>R.R. 3, 3</i>.<p><b>Étym</b>. ὄρνις.`

@@ -1,1 +1,0 @@
-lar[16765]=`<b>ος, ον</b>, éveillé, qui veille, IBYC. <i>fr. 51 Bgk</i>.`

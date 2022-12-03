@@ -1,1 +1,0 @@
-lar[38878]=`<b>ἐπι·ρρευματίζομαι</b> <font color="purple">[ᾰ]</font> être atteint d’un nouveau rhumatisme, A. TR. <i>10, p. 607</i> ; GAL. <i>19, 664</i>.<p><b>Étym</b>. ἐπί, ῥευμ.`

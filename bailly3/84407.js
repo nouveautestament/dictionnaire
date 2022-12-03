@@ -1,1 +1,0 @@
-lar[84407]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> fille de Prœtos, APD. <i>2, 2, 2</i>.<br><b>      2</b> Προιτίδες πύλαι, ESCHL. <i>Sept. 377</i> ; EUR. <i>Ph. 1109, etc</i>. Portes de Prœtos, <i>à Thèbes</i>.<p><b>Étym</b>. Προῖτος.`

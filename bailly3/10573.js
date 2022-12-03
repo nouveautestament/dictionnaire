@@ -1,1 +1,0 @@
-lar[10573]=`<b>εως (ἡ)</b> barrière, <i>d’où</i> interposition d’un corps devant un autre, ARSTT. <i>An. post. 2, 2, 3, etc.</i> ; PLUT. <i>M. 169a, 367e</i>.<p><b>Étym</b>. ἀντιφράσσω.`

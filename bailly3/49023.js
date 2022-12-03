@@ -1,1 +1,0 @@
-lar[49023]=`<b>ατος (τὸ)</b> image, forme, apparence, EL. <i>N.A. 17, 35</i> ; ANTH. <i>5, 251</i>.<p><b>Étym</b>. ἰνδάλλομαι.`

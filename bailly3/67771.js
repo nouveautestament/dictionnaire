@@ -1,1 +1,0 @@
-lar[67771]=`<b>ή, όν</b>, qui concerne la construction des navires, ARSTT. <i>Nic. 1, 1</i> ; LUC. <i>D. mort. 10, 9</i> ; τὸ ναυπηγικόν, PLUT. <i>M. 571e</i>, l’art de construire des navires.<p><b>Étym</b>. ναυπηγός.`

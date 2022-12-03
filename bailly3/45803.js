@@ -1,1 +1,0 @@
-lar[45803]=`<b>ος, ον</b>, d’Héraclite, PLAT. <i>Rsp. 498a ;</i> οἱ Ἡρακλείτειοι, disciples <i>ou</i> partisans d’Héraclite, PLAT. <i>Theæt. 179e ;</i> DL. <i>9, 6</i>.<p><b>Étym</b>. Ἡράκλειτος.`

@@ -1,1 +1,0 @@
-lar[5026]=`<b>υος (ὁ)</b> vie errante et désœuvrée, HPC. <i>Ep. 1271</i> ; PLUT. <i>Pyrrh. 13, Eum. 11, M. 274c, etc</i>.<p><b>Étym</b>. ἀλύω.`

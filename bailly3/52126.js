@@ -1,1 +1,0 @@
-lar[52126]=`<b>κατα·βασκαίνω</b> <font color="darkgreen">(<i>f</i>. -ανῶ, <i>ao</i>. κατεβάσκηνα)</font> fasciner, ensorceler, PLUT. <i>M. 680c, etc.</i> ; HLD. <i>3, 8, etc</i>.`

@@ -1,1 +1,0 @@
-lar[98725]=`<b>τετρά·ωτος, ος, ον</b>, à quatre oreilles, <i>càd</i>. à quatre anses, SIMARIST. (ATH. <i>483a</i>).<p><b>Étym</b>. τ. οὖς.`

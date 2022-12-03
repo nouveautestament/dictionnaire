@@ -1,1 +1,0 @@
-lar[109314]=`<b>χρυσωματο·θήκη, ης (ἡ)</b> <font color="purple">[ῡᾰ]</font> armoire pour la vaisselle d’or, POL. (ATH. <i>199f</i>).<p><b>Étym</b>. χρύσωμα, θήκη.`

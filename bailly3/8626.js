@@ -1,1 +1,0 @@
-lar[8626]=`<b>ἀν·εφάλλομαι</b> <font color="darkgreen">(<i>seul. part. ao</i>. ἀνεπάλμενος)</font> sauter sur, se précipiter sur, A.RH. <i>2, 825</i>.<p><b>Étym</b>. ἀνά, ἐφ.`

@@ -1,1 +1,0 @@
-lar[51367]=`<b>ωος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>seul. pl. aux cas suiv. : nom</i>. κάλωες, ORPH. <i>Arg. 621</i> ; A.RH. <i>2, 725 ; dat</i>. κάλωσι, ORPH. <i>Arg. 237 ; acc</i>. κάλωας, ORPH. <i>Arg. 253 ; c</i>. κάλως.`

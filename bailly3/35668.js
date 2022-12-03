@@ -1,1 +1,0 @@
-lar[35668]=`<b>ἐξ·αφανίζω</b> <font color="purple">[ᾰν]</font> détruire de fond en comble, anéantir, PLAT. <i>Pol. 270e ;</i> SIB. <i>8, 103</i>.`

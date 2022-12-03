@@ -1,1 +1,0 @@
-lar[14974]=`<b>ἀρνο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui mange des agneaux, MAN. <i>4, 255</i>.<p><b>Étym</b>. ἀρήν, φαγεῖν.`

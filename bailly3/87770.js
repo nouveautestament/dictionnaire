@@ -1,1 +1,0 @@
-lar[87770]=`<b>πυρ·αυγής, ής, ές</b> <font color="purple">[ῠ]</font> qui a l’éclat du feu, HH. <i>8, 6</i> ; ANTH. <i>12, 41</i>.<p><b>Étym</b>. πῦρ, αὐγή.`

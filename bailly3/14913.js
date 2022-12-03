@@ -1,1 +1,0 @@
-lar[14913]=`<b>ου (ὁ)</b> Harmonidès :<br><b>      1</b> <i>artiste troyen,</i> IL. <i>5, 60</i>.<br><b>      2</b> <i>joueur de flûte,</i> LUC. <i>Harm. 2</i>.<p>➳ <i>Voc</i>. -η, LUC. <i>l. c. ; gén. épq</i>. -εω, IL. <i>l. c</i>.<p><b>Étym</b>. <i>patr. de</i> Ἅρμων.`

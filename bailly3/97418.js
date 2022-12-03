@@ -1,1 +1,0 @@
-lar[97418]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> action de peser, PLAT. <i>Crat. 395e dout</i>.<p><b>Étym</b>. ταλαντεύω.`

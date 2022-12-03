@@ -1,1 +1,0 @@
-lar[72920]=`<b>ου</b> <font color="purple">[ῑθᾱ]</font> <i>adj. m.</i> :<br><b>      1</b> qui concerne les oiseaux : ἄνεμος, HPC. <i>1236b ;</i> ARSTT. <i>Mund. 4,</i> vent du Nord, qui amène les oiseaux de passage ; χειμών, AR. <i>Ach. 877,</i> tempête qui chasse les oiseaux.<br><b>      2</b> oiseleur, LIB. <i>Dem. 19, 334, 6</i>.<p><b>Étym</b>. ὄρνις.`

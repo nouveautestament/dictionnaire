@@ -1,1 +1,0 @@
-lar[100333]=`<b>τρί·παις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui a trois enfants, PLUT. <i>Num. 10</i>.<br><b>      2</b> qui concerne le nombre de trois enfants : τρίπαιδες τιμαί, PLUT. <i>M. 493e</i>, privilège des citoyens qui avaient trois enfants, <i>à Rome (lat</i>. jus trium liberorum).<p><b>Étym</b>. τρ. παῖς.`

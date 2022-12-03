@@ -1,1 +1,0 @@
-lar[88918]=`<font color="purple">[ῡ]</font><br><b>      1</b> enlever de force, arracher, ESCHL. <i>fr. 251 Dind.</i> ; EUR. <i>Ion 523 ; au pass</i>. ESCHL. <i>Suppl. 424 ; p. ext</i>. piller (une ville) DS. <i>Exc. 548, 59</i>.<br><b>      2</b> prendre et retenir en gage, <i>au pass</i>. être pris comme gage, PLUT. <i>Cor. 5</i>.<p><b>Étym</b>. ῥύσιον.`

@@ -1,1 +1,0 @@
-lar[28520]=`<b>ή, όν</b> <font color="purple">[θῡ]</font> porté à la tristesse, ARSTT. <i>Physiogn. 6, 50</i>.<p><b>Étym</b>. δύσθυμος.`

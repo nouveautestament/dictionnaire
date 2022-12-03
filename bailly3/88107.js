@@ -1,1 +1,0 @@
-lar[88107]=`<b>ῆς (ἡ)</b> <font color="purple">[δᾰ]</font> <i>c</i>. πωλοδαμνική, E. BYZ. <i>v°</i> Ἄχναι.`

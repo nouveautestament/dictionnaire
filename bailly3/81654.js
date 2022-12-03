@@ -1,1 +1,0 @@
-lar[81654]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat. Pollianus, n. d’h. rom</i>. PLUT. <i>Conj. præc. 48</i> ; A. PL. <i>150</i>.`

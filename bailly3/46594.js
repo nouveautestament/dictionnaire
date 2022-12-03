@@ -1,1 +1,0 @@
-lar[46594]=`<font color="purple">[ῐ]</font> célébrer selon le rite <i>ou</i> les lois, <i>acc</i>. EUR. <i>Bacch. 79 conj</i>.<p><b>Étym</b>. θεμιτός.`

@@ -1,1 +1,0 @@
-lar[26885]=`<b>δι·οσκέω-ῶ</b> (<i>seul. prés</i>.) chercher des yeux, <i>acc</i>. ANACR. <i>3</i>.<p><b>Étym</b>. διά, ὄσσομαι.`

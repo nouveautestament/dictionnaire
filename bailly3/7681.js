@@ -1,1 +1,0 @@
-lar[7681]=`<b>ἀνα·στενάζω</b>, pousser des gémissements, HDT. <i>1, 86</i> ; XÉN. <i>Conv. 1, 15</i> ; τοῖα ἀν. ἐχθοδοπά, SOPH. <i>Aj. 930,</i> laisser échapper avec ses gémissements de telles paroles de haine ; ἀν. τινά, ESCHL. <i>Ch. 335</i> ; EUR. <i>H.f. 118,</i> gémir sur qqn.`

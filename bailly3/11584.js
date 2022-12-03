@@ -1,1 +1,0 @@
-lar[11584]=`<b>ἀπειρο·δύναμος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> à la puissance infinie, PORPH. (STOB. <i>Ecl. 1, 822).</i><p><b>Étym</b>. ἄ. δύναμις.`

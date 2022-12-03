@@ -1,1 +1,0 @@
-lar[18783]=`<b>βαθύ·πεπλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à la robe longue <i>ou</i> ample, Q. SM. <i>13, 552</i> ; NONN. <i>D. 48, 418</i>.<p><b>Étym</b>. β. πέπλος.`

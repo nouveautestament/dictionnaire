@@ -1,1 +1,0 @@
-lar[57984]=`<b>α (ὁ)</b> <font color="purple">[ῐᾱᾱ]</font> Kritolaïdas, <i>h</i>. PLUT. <i>Sol. 10</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Κριτόλαος.`

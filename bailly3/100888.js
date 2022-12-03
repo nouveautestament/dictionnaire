@@ -1,1 +1,0 @@
-lar[100888]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> <i>c</i>. τρυφερός, ANTH. <i>7, 48</i>.<p>•<i> Cp</i>. -ότερος, PARŒM. <i>t. 1, p. 449 Gott</i>.`

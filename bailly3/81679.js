@@ -1,1 +1,0 @@
-lar[81679]=`<b>πολύ·αθλος, ος, ον</b> <font color="purple">[ᾱ]</font> vainqueur en un grand nombre de combats, LUC. <i>D. deor. 10, 1</i>.<p><b>Étym</b>. π. ἆθλος.`

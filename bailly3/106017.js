@@ -1,1 +1,0 @@
-lar[106017]=`<b>φιλο·πόλεμος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la guerre, belliqueux, XÉN. <i>An. 6, 6, 6</i> ; PLAT. <i>Tim. 24a ; en mauv. part,</i> batailleur, PLUT. <i>Sert. c. Eum. 2, etc</i>.<p><b>Étym</b>. φ. πόλεμος.`

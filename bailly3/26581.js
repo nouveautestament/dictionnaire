@@ -1,1 +1,0 @@
-lar[26581]=`<b>η</b> (<i>ion</i>.), <b>ον</b>, de Diktè, CALL. <i>H. 3, 199</i> ; DH. <i>2, 61, etc.</i> ; τὸ Δικταῖον, STR. <i>479,</i> le temple de Zeus de Diktè.<p><b>Étym</b>. Δίκτη.`

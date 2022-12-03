@@ -1,1 +1,0 @@
-lar[12768]=`<b>ἀπο·λιβάζω</b> <font color="purple">[ῐ]</font><br><b>      1 <i>intr.</i></b> faire ses paquets pour déguerpir, déguerpir, EUP. <i>206 Kock</i> ; AR. <i>Av. 1467</i>.<br><b>      2 <i>tr.</i></b> faire déguerpir, PHÉRÉCR. <i>(Bkk. 431, 7</i>).`

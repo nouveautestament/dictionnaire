@@ -1,1 +1,0 @@
-lar[101297]=`<b>η, ον</b> <font color="purple">[ᾰθῐ]</font> de couleur jacinthe, <i>càd</i>. violet <i>ou</i> bleu foncé, OD. <i>6, 231 ; 23, 158</i> ; SAPPH. <i>62 (30) Bgk</i> ; THCR. <i>Idyl. 11, 26</i> ; LUC. <i>Im. 5, etc</i>.<p><b>Étym</b>. ὑάκινθος.`

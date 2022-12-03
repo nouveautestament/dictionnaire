@@ -1,1 +1,0 @@
-lar[83165]=`<b>ωνος (ὁ)</b> Poulytiôn, <i>h</i>. PLAT. <i>Eryx. 394c, 400b, etc</i>.`

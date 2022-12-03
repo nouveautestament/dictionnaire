@@ -1,1 +1,0 @@
-lar[84596]=`<b>προ·κρατέω-ῶ</b> <font color="purple">[ᾰ]</font> s’emparer auparavant de, <i>acc</i>. DC. <i>40, 35</i>.`

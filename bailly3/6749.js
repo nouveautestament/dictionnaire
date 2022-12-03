@@ -1,1 +1,0 @@
-lar[6749]=`<b>εως (ἡ)</b> bouillonnement, ARSTT. <i>Mir. 40</i>.<p><b>Étym</b>. ἀναζέω.`

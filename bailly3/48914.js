@@ -1,1 +1,0 @@
-lar[48914]=`<b>έως</b> <font color="purple">[ῑλ]</font> <i>adj. m</i>. d’Ilion, LYC. <i>1167 ; subst</i>. habitant d’Ilion, XÉN. <i>Hell. 3, 1, 16</i> ; PLUT. <i>Luc. 10, etc.</i> ; LUC. <i>Pisc. 38, etc</i>.<p><b>Étym</b>. Ἴλιον.`

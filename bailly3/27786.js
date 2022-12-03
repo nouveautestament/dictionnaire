@@ -1,1 +1,0 @@
-lar[27786]=`<b>ου (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. Δράκανον ANTH. <i>7, 651</i>.`

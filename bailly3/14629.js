@@ -1,1 +1,0 @@
-lar[14629]=`<i>ou</i> <b>ἄριν, ινος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> sans nez, <i>càd</i>. sans flair, XÉN. <i>Cyn. 3, 2</i>.<p><b>Étym</b>. <i>pour</i> ἄ·ρρις <i>ou</i> ἄ·ρριν <i>de</i> ἀ, ῥίς.`

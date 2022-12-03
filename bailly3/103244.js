@@ -1,1 +1,0 @@
-lar[103244]=`<b>ὑπο·θαρρέω-ῶ</b>, avoir qqe confiance, EL. <i>N.A. 16, 11</i>.`

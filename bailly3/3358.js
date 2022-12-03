@@ -1,1 +1,0 @@
-lar[3358]=`<b>ἀ·κήριος, ος, ον :<br>      1</b> <i>pass</i>. non atteint par le génie de la mort, <i>d’où</i> qui demeure sauf, OD. <i>12, 98, etc.</i> ; ψυχαὶ ἀ. Ps.-PHOCYL. <i>105,</i> âmes immortelles.<br><b>      2</b> <i>act</i>. inoffensif, HH. <i>Merc. 530</i> ; HÉS. <i>O. 821</i>.<p><b>Étym</b>. ἀ, κήρ.`

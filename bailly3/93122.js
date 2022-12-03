@@ -1,1 +1,0 @@
-lar[93122]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> mauvais traitement, AR. <i>Eq. 537</i>.<p><b>Étym</b>. στυφελίζω.`

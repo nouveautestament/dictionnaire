@@ -1,1 +1,0 @@
-lar[7072]=`<b>ἀν·αλδαίνω</b>, faire croître, NONN. <i>Jo. 15, 18</i>.`

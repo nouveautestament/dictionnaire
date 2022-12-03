@@ -1,1 +1,0 @@
-lar[86268]=`<b>προσ·παρακαλέω-ῶ</b> <font color="purple">[κᾰ]</font><br><b>      1</b> appeler <i>ou</i> inviter en outre, THC. <i>1, 67, etc.</i><br><b>      2</b> exhorter en outre : τινα <i>avec l’inf</i>. POL. <i>3, 64, 11</i> ; LUC. <i>Pseud. 2,</i> qqn à, <i>etc</i>.`

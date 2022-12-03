@@ -1,1 +1,0 @@
-lar[101156]=`<b>Τυρρην·ολέτης, ου (ὁ)</b> destructeur des Tyrrhéniens, <i>ép. de Bacchus,</i> ANTH. <i>9, 524, 20</i>.<p><b>Étym</b>. Τυρρηνός, ὄλλυμι.`

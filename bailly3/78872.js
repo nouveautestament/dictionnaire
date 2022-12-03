@@ -1,1 +1,0 @@
-lar[78872]=`<b>περι·λείπομαι</b> (<i>seul. prés</i>.) être de reste, survivre, HDT. <i>1, 82</i> ; EUR. <i>Hel. 426</i> ; AR. <i>Nub. 725</i> ; PLAT. <i>Tim. 23d</i>.`

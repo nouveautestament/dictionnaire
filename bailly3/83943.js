@@ -1,1 +1,0 @@
-lar[83943]=`<b>προ·διασαφέω-ῶ</b> <font color="purple">[σᾰ]</font> expliquer auparavant, JOS. <i>B.J. 7, 5, 3</i>.`

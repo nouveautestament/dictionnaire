@@ -1,1 +1,0 @@
-lar[62392]=`<b>ου (ὁ) :<br>      1</b> = <i>lat</i>. maius, mai, <i>n. de mois romain,</i> DH. <i>1, 38 ; 10, 59</i> ; PLUT. <i>Num. 19, M. 272b, etc.</i><br><b>      2</b> <i>adj</i>. Μάϊαι καλανδαί, PLUT. <i>Rom. 12,</i> les calendes de mai.`

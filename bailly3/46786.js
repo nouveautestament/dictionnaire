@@ -1,1 +1,0 @@
-lar[46786]=`<b>θεοσ·εχθρία, ας (ἡ)</b> haine pour les dieux, AR. <i>Vesp. 418</i> ; ARCHIPP. (SCH.-AR. <i>Vesp. 418).</i><p><b>Étym</b>. θ. ἐχθρός.`

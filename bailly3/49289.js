@@ -1,1 +1,0 @@
-lar[49289]=`<i>adv</i>., comme un bon cavalier, XÉN. <i>Œc. 21, 7, au</i> <i>• Sup</i>. -ώτατα.`

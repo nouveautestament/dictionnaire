@@ -1,1 +1,0 @@
-lar[106700]=`<b>ου (τὸ) :<br>      1</b> petite corbeille, HIPPON. <i>fr. 129</i> ; DL. <i>4, 3</i>.<br><b>      2</b> <i>plante, p.-ê. l’</i> ὅρμινον, GAL.<p><b>Étym</b>. φορμός.`

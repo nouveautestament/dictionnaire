@@ -1,1 +1,0 @@
-lar[58567]=`<b>ή, όν</b>, qui se meut circulairement, PLUT. <i>M. 1004c ;</i> GAL. <i>2, 30</i>.<p><b>Étym</b>. κυκλοφορέομαι.`

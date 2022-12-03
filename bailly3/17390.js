@@ -1,1 +1,0 @@
-lar[17390]=`<b>αὐτο·απολύτρωσις, εως (ἡ)</b> l’absolution en soi, ORIG.`

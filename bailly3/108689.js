@@ -1,1 +1,0 @@
-lar[108689]=`<b>Χοιρο·βοσκός, οῦ (ὁ)</b> Khœroboskos (Chérobosque), <i>litt</i>. Porcher, <i>grammairien grec</i>.<p><b>Étym</b>. χοῖρος, βόσκω.`

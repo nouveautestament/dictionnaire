@@ -1,1 +1,0 @@
-lar[32969]=`<b>ἔλ·λοβος, ος, ον</b>, enfermé dans une gousse, une cosse, TH. <i>H.P. 4, 2, 4</i> ; τὰ ἔλλοβα, TH. <i>H.P. 4, 2, 4,</i> les plantes à cosse, <i>càd</i>. légumineuses.<p><b>Étym</b>. ἐν, λοβός.`

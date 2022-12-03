@@ -1,1 +1,0 @@
-lar[99930]=`<font color="purple">[ᾰ]</font> <i>sbj. ao.2 pass. épq. de</i> τέρπω, <i>ou sbj. ao.2 pass. de</i> τρέπω.`

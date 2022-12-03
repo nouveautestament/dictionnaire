@@ -1,1 +1,0 @@
-lar[16185]=`<b>οῦ (ὁ) :<br>      1</b> constellations représentées sur une sphère, PTOL. <i>Geogr. 1, 22, 4</i>.<br><b>      2</b> bijou étoilé, <i>parure de femme,</i> DS. <i>19, 34 dout</i>.<p><b>Étym</b>. ἀστήρ.`

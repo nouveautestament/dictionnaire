@@ -1,1 +1,0 @@
-lar[73300]=`<b>α, ον</b> <font color="purple">[ᾰκ]</font> <i>c</i>. ὀστράκινος, NIC. <i>fr. 6</i> ; ORPH. <i>Arg. 320</i>.`

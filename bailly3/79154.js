@@ -1,1 +1,0 @@
-lar[79154]=`<b>περι·ποιπνύω</b>, entourer <i>ou</i> poursuivre vivement, Q. SM. <i>4, 210</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. OPP. <i>H. 2, 615</i>.`

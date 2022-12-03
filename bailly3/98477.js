@@ -1,1 +1,0 @@
-lar[98477]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> atteint du tétanos, DIOSC. <i>5, 84</i> ; C. AUR. <i>M. ac. 3, 6</i>.<p><b>Étym</b>. τέτανος.`

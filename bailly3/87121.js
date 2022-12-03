@@ -1,1 +1,0 @@
-lar[87121]=`<b>πρωΐ·καρπος, ος, ον</b> <font color="purple">[ῐ]</font> aux fruits précoces, TH. <i>H.P. 1, 14, 3, etc</i>.<p><b>Étym</b>. πρωΐ, καρπός.`

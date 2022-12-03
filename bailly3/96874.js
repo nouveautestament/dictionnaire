@@ -1,1 +1,0 @@
-lar[96874]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> σφήν ORIB. <i>p. 10 Mai</i>.`

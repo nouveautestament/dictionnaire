@@ -1,1 +1,0 @@
-lar[103488]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> qui reste, restant, TH. <i>H.P. 3, 12, 2</i> ; CLÉARQ. (ATH. <i>256d</i>) ; THPP. (PHOT. <i>Bibl. 120, 22).</i><p><b>Étym</b>. ὑπολείπω.`

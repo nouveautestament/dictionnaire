@@ -1,1 +1,0 @@
-lar[50626]=`<b>ου (τὸ)</b> <i>seul. pl</i>. τὰ κάκαλα, mur, rempart, ESCHL. <i>fr. 161</i>.`

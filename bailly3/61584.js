@@ -1,1 +1,0 @@
-lar[61584]=`<b>ας (ἡ)</b> reproche blessant, injure, THC. <i>2, 84</i> ; XÉN. <i>Hier. 1, 14</i> ; AR. <i>Nub. 934, etc.</i> ; DÉM. <i>151, 20 ; 229, 9, etc. ; au pl</i>. LYS. <i>162, 15</i>.<p><b>Étym</b>. λοίδορος.`

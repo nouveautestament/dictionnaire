@@ -1,1 +1,0 @@
-lar[84317]=`<b>προηγορέω-ῶ</b>, parler le premier, XÉN. <i>An. 5, 5, 7, Hell. 1, 1, 27</i> ; au nom de, <i>gén</i>. XÉN. <i>Hell. 2, 2, 22</i> ; pour, <i>dat</i>. PLUT. <i>Brut. 6</i>.<p><b>Étym</b>. προήγορος.`

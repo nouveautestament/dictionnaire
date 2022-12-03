@@ -1,1 +1,0 @@
-lar[36664]=`<b>ἐπ·αναφύω</b> <font color="darkgreen">(<i>ao</i>. ἐπανέφυσα)</font> faire croître en hauteur, EL. <i>N.A. 10, 13</i>.`

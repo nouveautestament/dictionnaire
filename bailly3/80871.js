@@ -1,1 +1,0 @@
-lar[80871]=`<i>nom. acc. neutre de</i> πλέος.`

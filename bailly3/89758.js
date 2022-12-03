@@ -1,1 +1,0 @@
-lar[89758]=`<b>σελινό·σπερμον, ου (τὸ)</b> <font color="purple">[ῑ]</font> graine de persil, GEOP. <i>8, 30</i> ; A. TR. <i>10, p. 571</i>.<p><b>Étym</b>. σέλινον, σπέρμα.`

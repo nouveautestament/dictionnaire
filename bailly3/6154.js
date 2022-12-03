@@ -1,1 +1,0 @@
-lar[6154]=`<b>ἀμφι·θέατρον, ου (τὸ)</b> <font color="purple">[εᾱ]</font> amphithéâtre, DC. <i>43, 22</i> ; HDN <i>1, 8, 12 ; 15, 5, 15</i>.`

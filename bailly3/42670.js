@@ -1,1 +1,0 @@
-lar[42670]=`<font color="darkgreen">(<i>impf</i>. εὐμενιζόμην)</font> se rendre favorable, se concilier, XÉN. <i>Cyr. 3, 3, 22 ; acc</i>. APP. <i>Civ. 4</i> ; EL. <i>N.A. 7, 44</i>.<p><b>Étym</b>. εὐμενής.`

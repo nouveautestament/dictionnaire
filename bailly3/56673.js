@@ -1,1 +1,0 @@
-lar[56673]=`<b>κολοβόω-ῶ :<br>      1</b> mutiler, tronquer, ARSTT. <i>P.A. 3, 8</i> ; POL. <i>1, 80, 13</i>.<br><b>      2</b> <i>p. suite,</i> raccourcir, ARSTT. <i>H.A. 1, 1, 20, etc. ; en parl. du temps,</i> NT. <i>Marc. 13, 20 ; au pass</i>. NT. <i>Matth. 24, 22</i>.<p><b>Étym</b>. κολοβός.`

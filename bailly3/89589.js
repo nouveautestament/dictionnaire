@@ -1,1 +1,0 @@
-lar[89589]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui fait connaître clairement, ORIG. <i>2, 1453 ; 4, 77 Migne</i>.<p><b>Étym</b>. σαφηνίζω.`

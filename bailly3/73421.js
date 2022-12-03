@@ -1,1 +1,0 @@
-lar[73421]=`<b>(τὸ)</b> <i>indécl</i>. la lettre omicron, CALLIAS (ATH. <i>453d</i>).`

@@ -1,1 +1,0 @@
-lar[514]=`(<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> <i>forme réc. c</i>. ἀγείρομαι, A.RH. <i>3, 895</i> ; OPP. <i>H. 3, 378</i>.`

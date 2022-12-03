@@ -1,1 +1,0 @@
-lar[81985]=`<b>πολυ·κίνδυνος, ος, ον</b> <font color="purple">[ῠῡ]</font> tout à fait dangereux, D. PHAL. <i>§ 23</i>.`

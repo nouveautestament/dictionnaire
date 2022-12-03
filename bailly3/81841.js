@@ -1,1 +1,0 @@
-lar[81841]=`<b>πολύ·δεσμος, ος, ον</b> <font color="purple">[ῠ]</font> aux clous (<i>propr</i>. aux liens) nombreux, <i>ép. d’un navire,</i> OD. <i>5, 33, 338</i>.<p><b>Étym</b>. π. δεσμός.`

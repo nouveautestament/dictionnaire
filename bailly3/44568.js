@@ -1,1 +1,0 @@
-lar[44568]=`<b>ος, ον</b>, que l’on peut chercher, XÉN. <i>Cyn. 6, 6</i>.<p><b>Étym</b>. ζητέω.`

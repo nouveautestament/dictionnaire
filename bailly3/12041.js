@@ -1,1 +1,0 @@
-lar[12041]=`<b>ἄ·πλευρος, ος, ον</b>, non pourvu de côtes, <i>d’où</i> sans appui, TÉLÈS (STOB. <i>Fl. 108, 83, vol. 4, p. 49, l. 31 Mein</i>.).<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Physiogn. 5 ; • Sup</i>. -ότατος, ORIB. <i>3, p. 24</i>.<p><b>Étym</b>. ἀ, πλευρά.`

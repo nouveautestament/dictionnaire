@@ -1,1 +1,0 @@
-lar[56314]=`<b>Κνισο·κόλαξ</b>, <i>mieux que</i> <b>Κνισσο·κόλαξ, ακος (ὁ)</b> <font color="purple">[ᾰ]</font> Flatte-le-rôti, <i>n. d’un parasite,</i> ASIUS (ATH. <i>125d</i>).<p><b>Étym</b>. κνῖσα, κόλαξ.`

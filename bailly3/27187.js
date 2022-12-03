@@ -1,1 +1,0 @@
-lar[27187]=`<b>δι·χίτωνος, ος, ον</b> <font color="purple">[ῐῐ]</font> couvert d’une double tunique, d’un double vêtement, GAL. <i>2, 240</i>.<p><b>Étym</b>. δίς, χιτών.`

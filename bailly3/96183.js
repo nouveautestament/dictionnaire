@@ -1,1 +1,0 @@
-lar[96183]=`<b>συν·ομοταγέω-ῶ</b> <font color="purple">[ᾰ]</font> aider à rendre la santé, SOR. <i>Obst. p. 25 Dietz</i>.`

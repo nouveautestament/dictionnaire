@@ -1,1 +1,0 @@
-lar[22324]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> prompt <i>ou</i> habile à forger des sentences, AR. <i>Eq. 1379</i>.<p><b>Étym</b>. γνωμοτύπος.`

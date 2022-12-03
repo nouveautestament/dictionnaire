@@ -1,1 +1,0 @@
-lar[23995]=`<b>δεσμόω-ῶ</b>, lier, <i>d’où</i> emprisonner, LUC. <i>J. tr. 20</i>.<p><b>Étym</b>. δεσμός.`

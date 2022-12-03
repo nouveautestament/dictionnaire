@@ -1,1 +1,0 @@
-lar[16457]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> manque de sympathie, insensibilité, SEXT.<p><b>Étym</b>. ἀσυμπαθής.`

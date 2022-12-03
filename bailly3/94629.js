@@ -1,1 +1,0 @@
-lar[94629]=`<i>adv</i>., de manière à forcer, à contraindre, <i>fig</i>. SEXT. <i>P. 2, 170</i>.`

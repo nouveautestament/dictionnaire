@@ -1,1 +1,0 @@
-lar[54111]=`<b>κατ·οινόω-ῶ</b> (<i>part. pf. pass</i>. κατῳνωμένος) enivrer, PLAT. <i>Leg. 815c</i>.<p><b>Étym</b>. κάτοινος.`

@@ -1,1 +1,0 @@
-lar[87076]=`<b>α, ον</b>, de la poupe, A.RH. <i>4, 208</i> ; OPP. <i>H. 1, 191</i> ; ANTH. <i>10, 16, etc</i>.<p><b>Étym</b>. πρύμνα.`

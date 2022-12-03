@@ -1,1 +1,0 @@
-lar[51269]=`<b>καλλο·ποιός, ός, όν</b>, qui produit la beauté, auteur du beau, PLOT. <i>Enn. p. 723</i> ; PROCL. <i>Theol. Plat. 1, 24, p. 59</i>.<p><b>Étym</b>. κ. ποιέω.`

@@ -1,1 +1,0 @@
-lar[45636]=`<i>interj</i>. voici! voilà! tenez! AR. <i>Eq. 26, etc.</i> ; ἢν ἰδού, EUR. <i>H.f. 867</i> ; AR. <i>Ran. 1390</i> ; LUC. <i>D. mort. 10, 10, m. sign. ; avec un verbe au plur</i>. AR. <i>Pl. 75 ; cf</i>. ἠνίδε.<p><b>Étym</b>. <i>cf. lat</i>. ēn.`

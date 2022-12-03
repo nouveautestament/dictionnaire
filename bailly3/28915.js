@@ -1,1 +1,0 @@
-lar[28915]=`<b>δύσ·τεκνος, ου (ὁ, ἡ)</b> malheureux par les enfants, SOPH. <i>O.R. 1248</i>.<p><b>Étym</b>. δ. τέκνον.`

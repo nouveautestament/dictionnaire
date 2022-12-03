@@ -1,1 +1,0 @@
-lar[99220]=`<b>α, ον</b> <font color="purple">[ῑ]</font> <i>vb. de</i> τιμάω, EUR. <i>Or. 484</i> ; PLAT. <i>Rsp. 561c, etc. ; au neutre,</i> XÉN. <i>Mem. 1, 4, 10</i> ; PLAT. <i>Rsp. 509a, etc</i>.`

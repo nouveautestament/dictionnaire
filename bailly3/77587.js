@@ -1,1 +1,0 @@
-lar[77587]=`<b>πεζο·νομικός, ή, όν</b>, qui concerne l’entretien des animaux qui marchent, PLAT. <i>Pol. 267b ;</i> ἡ πεζονομική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 265c</i>, l’art d’élever les animaux qui marchent.<p><b>Étym</b>. π. νέμω.`

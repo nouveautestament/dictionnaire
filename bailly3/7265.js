@@ -1,1 +1,0 @@
-lar[7265]=`<b>ἀν·αντίθετος, ος, ον</b>, que l’on ne peut contredire, SIMPL. <i>Epict. p. 12, 13</i>.<p><b>Étym</b>. ἀν-, ἀντιτίθημι.`

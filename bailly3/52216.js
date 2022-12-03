@@ -1,1 +1,0 @@
-lar[52216]=`<b>κατα·γηράσκω</b>, vieillir, devenir très vieux, OD. <i>19, 360, etc.</i> ; HÉS. <i>O. 93</i> ; EUR. <i>Med. 124, etc. ; fig. en parl. de coutumes,</i> DÉMÉTR. (ATH. <i>633).</i><p>➳ <i>Fut</i>. -άσομαι, AR. <i>Eq. 1308, ou</i> -άσω, PLAT. <i>Conv. 216a, Leg. 949c ; ao.1</i> κατεγήρασα, PLAT. <i>Theæt. 202d ; pf</i>. καταγεγήρακα, ISOCR. <i>208a</i>.`

@@ -1,1 +1,0 @@
-lar[44113]=`<b>ου (τὸ) :<br>      1</b> chaloupe qu’un gros navire traîne après soi, MOSCHION HIST. (ATH. <i>208f</i>) ; PLUT. <i>Pomp. 73</i>.<br><b>      2</b> <i>p. ext</i>. toute chose que l’on traîne après soi, bagage, <i>d’où</i> embarras, ANTH. <i>7, 67</i>.<p><b>Étym</b>. ἐφολκός.`

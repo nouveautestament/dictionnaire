@@ -1,1 +1,0 @@
-lar[57502]=`<b>κραδάω-ῶ</b> (<i>seul. part. prés</i>.) <font color="purple">[ᾰδ]</font> <i>c</i>. κραδαίνω, OD. <i>19, 438</i>.`

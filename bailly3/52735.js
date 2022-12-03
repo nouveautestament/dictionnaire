@@ -1,1 +1,0 @@
-lar[52735]=`<b>κατα·λιθάζω</b> <font color="purple">[ῐ]</font> lapider, NT. <i>Luc. 20, 6</i> ; CHRYS. <i>6, 754</i> ; NYSS. <i>1, 833, etc</i>.`

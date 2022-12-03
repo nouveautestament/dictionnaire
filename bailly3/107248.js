@@ -1,1 +1,0 @@
-lar[107248]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. φυσίαμα ARSTT. <i>Probl. 11, 41</i>.`

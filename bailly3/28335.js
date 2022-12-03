@@ -1,1 +1,0 @@
-lar[28335]=`<b>δυσ·είσπλοος, οος, οον</b> <font color="purple">[ῠ]</font> qu’il est difficile d’aborder par eau, STR. <i>183 (plur. neutre</i> -οα).<p><b>Étym</b>. δ. εἰσπλέω.`

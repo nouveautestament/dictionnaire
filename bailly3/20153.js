@@ -1,1 +1,0 @@
-lar[20153]=`<b>ου (ὁ)</b> = <i>lat</i>. Volumnius, <i>n. d’h</i>. PLUT. <i>Brut. 45, 48</i>.`

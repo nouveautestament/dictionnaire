@@ -1,1 +1,0 @@
-lar[23346]=`<b>άδος (ἡ)</b> la Daulienne, <i>càd</i>. Philomèle, reine de Daulis, <i>changée en rossignol,</i> THC. <i>2, 29</i>.<p><b>Étym</b>. Δαυλίς.`

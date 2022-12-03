@@ -1,1 +1,0 @@
-lar[59436]=`<b>λαγώ·πυρος, ου (ὁ)</b> <font color="purple">[ᾰῡ]</font> blé de lièvre, <i>plante,</i> HPC. <i>878c</i>.<p><b>Étym</b>. λαγώς, πυρός.`

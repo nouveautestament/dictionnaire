@@ -1,1 +1,0 @@
-lar[57518]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> lourdeur de tête produite par l’ivresse, <i>d’où</i> ivresse, ivrognerie, AR. <i>Ach. 277</i> ; HPC. <i>Aër. 281</i> ; PLUT. <i>M. 127f</i>.<p><b>Étym</b>. <i>cf</i>. κραιπνός.`

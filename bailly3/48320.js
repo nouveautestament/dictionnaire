@@ -1,1 +1,0 @@
-lar[48320]=`<b>ἰατρο·νίκας (ὁ)</b> <font color="purple">[ῑᾱῑᾱ]</font> vainqueur (<i>càd</i>. roi) des médecins, INSCR. (PLIN. <i>H.N. 29, 5).</i><p><b>Étym</b>. ἰ. νικάω.`

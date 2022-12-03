@@ -1,1 +1,0 @@
-lar[102627]=`<b>ὑπερ·λαμπρύνομαι</b> <font color="purple">[ῡ]</font><br><b>      1 <i>intr.</i></b> s’enorgueillir <i>ou</i> se vanter outre mesure : ἐπί τινι, XÉN. <i>Cyn. 3, 7</i> ; τινί, JOS. <i>B.J. 2, 8, 7,</i> de qqe ch.<br><b>      2 <i>tr.</i></b> surpasser en éclat, en magnificence, <i>acc</i>. PORPH.<p><b>Étym</b>. ὑ. λαμπρύνω.`

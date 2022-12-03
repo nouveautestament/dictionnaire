@@ -1,1 +1,0 @@
-lar[75103]=`<b>παν·οικί</b> <font color="purple">[ᾰῑ]</font> <i>adv. c</i>. πανοικεί, πανοικεσίᾳ PLAT. <i>Eryx. 392c dout.</i> ; SPT. <i>Ex. 1, 1 ; 3 Macc. 3, 27, etc</i>.`

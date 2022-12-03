@@ -1,1 +1,0 @@
-lar[18241]=`<b>ας (ἡ)</b> <font color="purple">[αφ]</font> la déesse née de l’écume (de la mer), <i>càd</i>. Aphrodite, BION <i>9, 1</i> ; MOSCH. <i>2, 71, etc</i>.<p>➳ <i>Ion</i>. -είη, NONN. <i>D. 6, 353, etc.</i> ; PROCL. <i>H. Ven. 4, 1</i> ; ANTH. <i>5, 240</i>.<p><b>Étym</b>. <i>cf</i>. ἀφρογενής.`

@@ -1,1 +1,0 @@
-lar[61268]=`<b>ου (ὁ)</b> = <i>lat</i>. Livius, <i>n. d’h. rom</i>. PLUT. <i>Cam. 6, Luc. 28, etc</i>.`

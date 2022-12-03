@@ -1,1 +1,0 @@
-lar[25026]=`<b>δια·μελίζομαι</b> (<i>seul. part. prés</i>.) disputer le prix du chant, PLUT. <i>M. 973b</i>.`

@@ -1,1 +1,0 @@
-lar[99562]=`<b>      1</b> <i>acc. masc. de l’art</i>. ὁ, ἡ, τό.<br><b>      2</b> <i>poét. p</i>. ὅν, <i>acc. masc. du pron. relat</i>. ὅς, ἥ, ὅ.<br><b>      3</b> <i>qqf. c</i>. τοῦτον, <i>acc. masc. de l’adj. démonstr</i>. οὗτος, αὕτη, τοῦτο.`

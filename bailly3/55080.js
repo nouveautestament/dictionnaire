@@ -1,1 +1,0 @@
-lar[55080]=`<b>ας (ἡ)</b> <i>par dissimil. p</i>. κεφαλαλγία, LUC. <i>J. voc. 4</i>.`

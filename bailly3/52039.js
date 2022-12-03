@@ -1,1 +1,0 @@
-lar[52039]=`<b>κασι·γνήτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> sœur, IL. <i>4, 441</i> ; OD. <i>4, 810 ; fig</i>. HIPPON. (ATH. <i>78c</i>) ; ANTH. <i>6, 248</i>.<p><b>Étym</b>. <i>fém. de</i> κασίγνητος.`

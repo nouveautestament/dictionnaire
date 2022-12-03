@@ -1,1 +1,0 @@
-lar[33528]=`<b>ἔμπνοος-ους, οος-ους, οον-ουν</b>, qui respire encore, qui a encore un souffle de vie, HDT. <i>7, 181</i> ; THC. <i>1, 134</i> ; EUR. <i>Ph. 1442</i> ; ANT. <i>116, 6</i>.<p><b>Étym</b>. ἐμπνέω.`

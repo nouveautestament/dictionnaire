@@ -1,1 +1,0 @@
-lar[50204]=`AQU. <i>Job 41, 22</i> ; ATH. <i>438f</i> (<i>vulg.) corrigé en</i> καγχάζω.`

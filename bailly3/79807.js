@@ -1,1 +1,0 @@
-lar[79807]=`<b>έων (οἱ)</b> nom des cinq députés qui accompagnèrent à Dèlos les jeunes Hyperboréennes, HDT. <i>4, 33</i>.`

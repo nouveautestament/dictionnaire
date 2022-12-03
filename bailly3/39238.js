@@ -1,1 +1,0 @@
-lar[39238]=`<i>adv</i>., par composition, SEXT. <i>M. 3, 40</i>.`

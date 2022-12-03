@@ -1,1 +1,0 @@
-lar[106883]=`<b>φρικο·ποιός, ός, όν</b> <font color="purple">[ῑ]</font> qui fait frissonner, DIPH. (ATH. <i>74c</i>).<p><b>Étym</b>. φρίξ, ποιέω.`

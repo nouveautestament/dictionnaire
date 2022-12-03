@@ -1,1 +1,0 @@
-lar[38620]=`<b>ἐπι·παραγίγνομαι :<br>      1</b> survenir aussi à, <i>dat</i>. JUNC. (STOB. <i>581, 41</i>).<br><b>      2</b> venir ensuite, <i>particul</i>. succéder dans un commandement, POL. <i>1, 31, 4</i>.`

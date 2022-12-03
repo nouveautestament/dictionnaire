@@ -1,1 +1,0 @@
-lar[67754]=`<b>ναυλόω-ῶ</b>, donner à fret, fréter un navire, PLUT. <i>M. 707c.</i><br><b><i>Moy.</i></b> prendre à fret, fréter, <i>acc</i>. POL. <i>31, 20, 11</i> ; ATH. <i>521a</i>.<p><b>Étym</b>. ναῦλον.`

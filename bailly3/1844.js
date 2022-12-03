@@ -1,1 +1,0 @@
-lar[1844]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱε]</font> faîte d’une maison, fronton d’un édifice, HPC. <i>Art. 808</i> ; CIA. <i>2, 613, 6 (298 av. J.-C.)</i>.<p><b>Étym</b>. ἀετός.`

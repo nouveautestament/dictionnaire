@@ -1,1 +1,0 @@
-lar[18548]=`<b>ἄ·χροος-ους, οος-ους, οον-ουν :<br>      1</b> sans couleur, incolore, HPC. ARSTT. <i>An. 2, 7, 7</i> ; NIC. <i>Th. 236</i>.<br><b>      2</b> décoloré, pâle, <i>p. opp. à</i> εὔχροος, HPC. ARSTT. <i>Probl. 38, 3</i>.<p>•<i> Cp</i>. ἀχρούστερος, HPC. <i>Prorrh. 86</i> ; ARSTT. <i>H.A. 7, 4, 3, ou</i> ἀχροώτερος, HPC. <i>363, 47</i>.<p><b>Étym</b>. ἀ, χρόα.`

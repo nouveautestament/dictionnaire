@@ -1,1 +1,0 @@
-lar[97789]=`<b>ταυρο·κτόνος, ος, ον</b>, qui tue les taureaux, SOPH. <i>Ph. 400</i>.<p><b>Étym</b>. τ. κτείνω.`

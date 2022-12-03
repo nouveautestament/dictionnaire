@@ -1,1 +1,0 @@
-lar[89261]=`<b>α, ον</b> <font color="purple">[ᾰᾱ]</font> de Samothrace, PLUT. <i>Cam. 20, Pomp. 24, etc</i>.<p>➳ <i>Ion</i>. Σαμοθρηΐκιος, HDT. <i>7, 59, 108, etc</i>.<p><b>Étym</b>. Σαμοθρᾴκη.`

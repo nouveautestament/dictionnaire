@@ -1,1 +1,0 @@
-lar[69194]=`<b>νυμφαγωγέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> conduire la fiancée, POL. <i>26, 7, 10</i> ; DH. <i>11, 41</i>.<br><b>      2</b> <i>p. ext</i>. conclure un mariage, PLUT. <i>Sol. 20</i>.<p><b>Étym</b>. νυμφαγωγός.`

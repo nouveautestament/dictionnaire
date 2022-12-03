@@ -1,1 +1,0 @@
-lar[49522]=`<font color="purple">[ῑ̆ᾰ]</font> <i>adv</i>., un nombre de fois égal, PLAT. <i>Rsp. 546c, Theæt. 147e, 148a ;</i> EUCL. <i>Elem. 7, def. 21</i> ; STR. <i>174, etc</i>.<p><b>Étym</b>. ἴσος, -άκις.`

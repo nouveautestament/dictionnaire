@@ -1,1 +1,0 @@
-lar[37682]=`<font color="purple">[ᾰ]</font> en courant, précipitamment, NIC. <i>Th. 481</i> ; ORPH. <i>Arg. 559</i>.<p><b>Étym</b>. ἐπίδρομος, -δην.`

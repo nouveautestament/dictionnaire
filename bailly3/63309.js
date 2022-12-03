@@ -1,1 +1,0 @@
-lar[63309]=`<b>ατος (τὸ)</b> <font color="purple">[γᾰ]</font> sujet d’orgueil, PHIL. <i>2, 434</i>.<p><b>Étym</b>. μεγαλαυχέω.`

@@ -1,1 +1,0 @@
-lar[25025]=`<b>δια·μελετάω-ῶ</b>, s’exercer avec soin à, pratiquer avec soin, <i>acc</i>. PLAT. <i>Parm. 126c, Leg. 830b</i>.`

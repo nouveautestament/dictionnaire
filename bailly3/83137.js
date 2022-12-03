@@ -1,1 +1,0 @@
-lar[83137]=`<b>α, ον</b>, très serré, très fréquent, ANTH. <i>15, 27, 20</i>.<p><b>Étym</b>. <i>dor. c</i>. *πυκώτατος, <i>sup. de</i> πυκός, <i>c</i>. πυκνός.`

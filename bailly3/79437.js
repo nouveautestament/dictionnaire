@@ -1,1 +1,0 @@
-lar[79437]=`<b>οῦ (ὁ)</b> action de traîner autour <i>ou</i> d’un autre côté, TH. <i>Ign. 53</i>.<p><b>Étym</b>. περισύρω.`

@@ -1,1 +1,0 @@
-lar[97924]=`<b>ταχύ·φωνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui parle vite <i>ou</i> brièvement, POLÉM. <i>Physiogn. 2, 13</i> ; ADAM. <i>Physiogn. 43</i>.<p><b>Étym</b>. τ. φωνή.`

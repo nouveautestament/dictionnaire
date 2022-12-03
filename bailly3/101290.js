@@ -1,1 +1,0 @@
-lar[101290]=`<b>ων (αἱ)</b> <font color="purple">[ῠᾰ]</font> les Hyades, <i>litt</i>. « les pluvieuses » <i>constellation de sept étoiles à la tête du Taureau,</i> IL. <i>18, 486</i> ; HÉS. <i>O. 613, etc</i>.<p>➳ <font color="purple">[ῡ]</font> EUR. <i>Ion 1156, El. 468</i>.<p><b>Étym</b>. ὕω, <i>p.-ê. étym. populaire ; selon d’autres de</i> ὗς.`

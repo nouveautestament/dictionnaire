@@ -1,1 +1,0 @@
-lar[82485]=`<b>πολύ·τυρος, ος, ον</b> <font color="purple">[ῠῡ]</font> qui abonde en fromage, en beurre, PHÉRÉCR. (<i>Com. fr. 2, 316).</i><p><b>Étym</b>. π. τυρός.`

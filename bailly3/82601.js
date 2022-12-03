@@ -1,1 +1,0 @@
-lar[82601]=`<b>πολύ·ψοφος, ος, ον</b>, qui résonne fortement, P. SIL. <i>Th. Pyth. 51</i>.<p><b>Étym</b>. π. ψόφος.`

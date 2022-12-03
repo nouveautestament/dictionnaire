@@ -1,1 +1,0 @@
-lar[88158]=`<b>Ῥ, ῥ (ῥῶ)</b> rhô, <i>17<sup>e</sup> lettre de l’alphabet grec. Comme chiffre</i> ρʹ = 100 ; ͵ρ = 100 000.`

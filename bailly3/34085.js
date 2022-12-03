@@ -1,1 +1,0 @@
-lar[34085]=`<b>ἐν·αφροδισιάζω</b> <font color="purple">[ῐσ]</font> jouir de, <i>dat</i>. ARISTÉN. <i>1, 15</i>.`

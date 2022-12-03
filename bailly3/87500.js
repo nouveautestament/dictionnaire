@@ -1,1 +1,0 @@
-lar[87500]=`<b>ων (τὰ)</b> Pygèles, <i>v. d’Ionie,</i> XÉN. <i>Hell. 1, 2, 2, etc</i>.`

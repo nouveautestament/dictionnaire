@@ -1,1 +1,0 @@
-lar[14794]=`<b>αο (ὁ)</b> <font color="purple">[ᾰδ]</font> le fils d’Arkeisios (Laërte) OD. <i>4, 755 ; 24, 270</i>.<p><b>Étym</b>. Ἀρκείσιος.`

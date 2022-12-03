@@ -1,1 +1,0 @@
-lar[10091]=`<b>ἀντι·μετατάσσω</b>, <i>att</i>. <b>-τάττω</b>, changer ses positions <i>ou</i> son ordre de bataille, DC.<br><b><i>Moy.</i></b> <i>m. sign</i>. DH. <i>3, 25</i>.`

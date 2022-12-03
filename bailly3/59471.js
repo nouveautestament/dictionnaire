@@ -1,1 +1,0 @@
-lar[59471]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui se cache volontiers, qui aime à se cacher, ARSTT. <i>Rhet. 1, 12, 5</i>.<p><b>Étym</b>. λανθάνω.`

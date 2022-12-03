@@ -1,1 +1,0 @@
-lar[13011]=`<b>οῦ (ὁ)</b> passage à l’acidité, à l’aigreur, AÉT. <i>9, 10</i>.<p><b>Étym</b>. ἀποξύνω.`

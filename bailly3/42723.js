@@ -1,1 +1,0 @@
-lar[42723]=`<b>ας (ἡ) :<br>      1</b> connaissance dans les arts <i>ou</i> les lettres, EUR. <i>fr. 188</i> ; DL. <i>2, 136</i>.<br><b>      2</b> <i>p. ext</i>. instruction, PLAT. <i>Gorg. 486c ; p. opp. à</i> ἀμουσία, PLUT. <i>M. 903a.</i><br><b>      3</b> habileté à chanter, THCR. <i>Idyl. 5 arg</i>.<p><b>Étym</b>. εὔμουσος.`

@@ -1,1 +1,0 @@
-lar[15582]=`<b>ἀρχι·γραμματεύς, έως (ὁ)</b> <font color="purple">[ῐμᾰ]</font> greffier-chef, POL. <i>5, 54, 12</i> ; PLUT. <i>Eum. 1</i>.<p><b>Étym</b>. ἄ. γρ.`

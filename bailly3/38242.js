@@ -1,1 +1,0 @@
-lar[38242]=`<b>ἐπί·κωμος, ος, ον</b>, qui va en partie de débauche, PLUT. <i>M. 128d ;</i> ALCIPHR. <i>1, 37</i>.`

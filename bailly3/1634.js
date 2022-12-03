@@ -1,1 +1,0 @@
-lar[1634]=`<b>εως (ἡ)</b> germination continuelle, TH. <i>C.P. 1, 11, 6</i>.<p><b>Étym</b>. <i>v</i>. ἀειβλαστής.`

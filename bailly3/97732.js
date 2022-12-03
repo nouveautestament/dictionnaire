@@ -1,1 +1,0 @@
-lar[97732]=`<b>ταρτη·μόριον, ου (τὸ)</b> <i>c</i>. δίχαλκον, MACH. (ATH. <i>582c</i>).<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 741, b, c, 13 (330 av. J.-C.) ; v. Meisterh. p. 92, § 45, 15</i>.<p><b>Étym</b>. <i>par aphérèse et dissimilat. p</i>. *τεταρτημόριον <i>de</i> τέταρτος, μόριον ; <i>pour la format. cf</i>. τράπεζα <i>p</i>. *τετράπεζα.`

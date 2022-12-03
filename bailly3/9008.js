@@ -1,1 +1,0 @@
-lar[9008]=`<b>ἀνθ·υπ·εκκαίω</b> <font color="darkgreen">(<i>ao</i>. ἀνθυπεξέκαυσα)</font> enflammer à son tour, RHÉT. <i>1, 497 W</i>.<p><b>Étym</b>. ἀντί, ὑπό, ἐ.`

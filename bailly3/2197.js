@@ -1,1 +1,0 @@
-lar[2197]=`<b>ας (ἡ)</b> Ægeira (Égire, Égira, <i>auj</i>. Éyira) <i>v. d’Achaïe,</i> HDT. <i>1, 145, etc</i>.`

@@ -1,1 +1,0 @@
-lar[17715]=`<i>adv</i>., sur-le-champ, à la hâte, à l’improviste, PAUS. <i>6, 24, 3</i> ; SPT.<p><b>Étym</b>. αὐτοσχέδιος.`

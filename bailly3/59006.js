@@ -1,1 +1,0 @@
-lar[59006]=`<b>ῶνος (ὁ)</b> Kyrtôn, <i>propr</i>. pêcheur à la nasse, ALCIPHR. <i>1, 2</i>.<p><b>Étym</b>. κύρτος.`

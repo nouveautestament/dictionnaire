@@ -1,1 +1,0 @@
-lar[64325]=`<b>Μενέ·στρατος, ου (ὁ)</b> Ménestratos, <i>h</i>. DÉM. <i>661, 10, etc</i>.<p>➳ Μενέσστρατος <i>dans une inscr. att</i>. CIA. <i>3, 2523, 1 (époque impériale) v. Meisterh. p. 69,c</i>.<p><b>Étym</b>. μένω, στρατός.`

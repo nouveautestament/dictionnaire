@@ -1,1 +1,0 @@
-lar[24973]=`<i>adv</i>., tout à fait obliquement, HÉRON BYZ. <i>p. 237 Wescher, Poliorcétique des Grecs</i>.`

@@ -1,1 +1,0 @@
-lar[56485]=`<b>κοινο·νοημοσύνη, ης (ἡ)</b> <font color="purple">[ῠ]</font> sentiment de l’égalité, <i>d’où</i> affabilité, bonté, M. ANT. <i>1, 16</i>.<p><b>Étym</b>. κοινός, νοέω.`

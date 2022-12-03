@@ -1,1 +1,0 @@
-lar[58849]=`<b>κυνο·φαγέω-ῶ</b> <font color="purple">[ῠᾰ]</font> manger du chien, SEXT. <i>p. 184</i>.<p><b>Étym</b>. κ. φαγεῖν.`

@@ -1,1 +1,0 @@
-lar[48582]=`<b>ἱερο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[δῐκᾰ]</font> qui enseigne les choses sacrées, DH. <i>2, 73</i>.<p><b>Étym</b>. ἱ. διδάσκαλος.`

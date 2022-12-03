@@ -1,1 +1,0 @@
-lar[39323]=`<b>ος, ον :<br>      1</b> commandé, imposé, PD. <i>P. 4, 236</i> ; EUR. (STOB. <i>Fl. 3, p. 108</i>).<br><b>      2</b> rangé en arrière de manière à former une réserve, PLUT. <i>Syll. 18</i> ; οἱ ἐπίτακτοι, THC. <i>6, 67,</i> corps de réserve.<p><b>Étym</b>. ἐπιτάσσω.`

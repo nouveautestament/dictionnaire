@@ -1,1 +1,0 @@
-lar[49960]=`<b>ας (ἡ)</b> <font color="purple">[ῐτᾰ]</font> <i>c</i>. ἰταμότης, SPT. <i>Jer. 24, 17 ; 30, 4</i>.`

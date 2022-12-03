@@ -1,1 +1,0 @@
-lar[66312]=`<b>μοιρο·νόμος, ος, ον</b>, qui règle la destinée, ARSTD. <i>t. 1, 298</i>.<p><b>Étym</b>. μ. νέμω.`

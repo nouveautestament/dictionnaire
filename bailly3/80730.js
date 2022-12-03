@@ -1,1 +1,0 @@
-lar[80730]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Platthis, <i>f</i>. ANTH. <i>7, 726</i>.`

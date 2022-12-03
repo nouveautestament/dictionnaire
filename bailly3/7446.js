@@ -1,1 +1,0 @@
-lar[7446]=`<b>ἀνα·πολέω-ῶ :<br>      1</b> tourner et retourner dans son esprit, PD. <i>N. 7, 104</i> ; PLAT. <i>Phil. 34b ;</i> PLUT. <i>M. 556b, etc.</i><br><b>      2</b> redire, répéter, SOPH. <i>Ph. 1238</i>.<p>➳ <i>Prés. inf. poét</i>. ἀμπολεῖν, PD. <i>l. c</i>.`

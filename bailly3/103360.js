@@ -1,1 +1,0 @@
-lar[103360]=`<b>ὑπό·κηρος, ος, ον</b>, mêlé de cire, <i>en parl. du miel, d’où</i> impur, HPC. <i>303, 30</i>.`

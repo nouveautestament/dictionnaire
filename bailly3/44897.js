@@ -1,1 +1,0 @@
-lar[44897]=`<b>ίδος</b>, <i>adj. f. de</i> ἡγεμών STR. <i>372</i> ; APP. <i>Civ. 2, 65 ; subst</i>. PHIL. <i>1, 146</i>.`

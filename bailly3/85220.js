@@ -1,1 +1,0 @@
-lar[85220]=`<b>προσ·απαγγέλλω</b>, annoncer en outre, XÉN. <i>Hell. 4, 3, 2</i> ; DS. <i>11, 4</i>.`

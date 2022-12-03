@@ -1,1 +1,0 @@
-lar[48899]=`<font color="purple">[ῑ]</font> <i>adv</i>., par escadron, en troupe, Q. SM. <i>1, 7, etc</i>.<p><b>Étym</b>. ἴλη, -δον.`

@@ -1,1 +1,0 @@
-lar[75338]=`<i>onomatopée pour imiter le bruit d’un vent,</i> AR. <i>Nub. 390</i>.`

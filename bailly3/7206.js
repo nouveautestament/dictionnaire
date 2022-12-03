@@ -1,1 +1,0 @@
-lar[7206]=`<b>ή, όν</b>, qui a la mémoire prompte (mais non tenace, <i>p. opp. à</i> μνημονικός) ARSTT. <i>Mem. 1, 1</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Mem. 2, 24</i>.<p><b>Étym</b>. ἀναμιμνῄσκω.`

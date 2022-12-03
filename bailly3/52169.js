@@ -1,1 +1,0 @@
-lar[52169]=`<b>εως (ἡ)</b> action de paître, de dévaster, SYMM. <i>Es. 6, 13</i>.<p><b>Étym</b>. καταβόσκω.`

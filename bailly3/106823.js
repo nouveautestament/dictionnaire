@@ -1,1 +1,0 @@
-lar[106823]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> de puits, TH. <i>C.P. 2, 6, 3</i> ; HERMIPP. (<i>Com. fr. 2, 394</i>) ; ATH. <i>123f ; p. opp. à</i> ναματιαῖον, TH. <i>C.P. 2, 6, 3 ; à</i> ῥυτόν, PLUT. <i>M. 954c</i>.<p><b>Étym</b>. φρέαρ.`

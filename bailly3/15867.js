@@ -1,1 +1,0 @@
-lar[15867]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰῐ]</font> innocence, EUN. <i>p. 62</i>.<p><b>Étym</b>. ἀσινής.`

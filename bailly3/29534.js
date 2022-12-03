@@ -1,1 +1,0 @@
-lar[29534]=`<b>ἐγ·καταλείφω</b> (<i>seul. prés</i>.) <font color="purple">[ᾰᾰ]</font> oindre sur toute la surface, HPC. <i>402, 28</i>.<p><b>Étym</b>. ἐν, κ.`

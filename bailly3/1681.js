@@ -1,1 +1,0 @@
-lar[1681]=`<b>ἀει·μνήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui se souvient toujours, ARSTT. <i>Physiogn. 3, 14</i>.`

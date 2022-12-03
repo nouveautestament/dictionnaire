@@ -1,1 +1,0 @@
-lar[49533]=`<font color="purple">[ῑ̆σ]</font> <i>adv</i>., d’une manière également digne, JAMBL. <i>Myst. 282</i>.`

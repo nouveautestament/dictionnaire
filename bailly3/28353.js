@@ -1,1 +1,0 @@
-lar[28353]=`<b>δυσ·έκνιπτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à effacer (en lavant) PLAT. <i>Rsp. 378d ;</i> EL. <i>N.A. 1, 32</i> ; THÉM. <i>249</i> ; A. TAT. <i>6, 11</i>.<p>➳ <i>Gén. dor</i>. δυσεκνίπτω, CERCID. (STOB. <i>Fl. 4, 43</i>).`

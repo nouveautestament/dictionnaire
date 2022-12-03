@@ -1,1 +1,0 @@
-lar[29292]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., soixante-dix fois, SPT. <i>Gen. 4, 24</i> ; NT. <i>Matth. 18, 22</i>.<p><b>Étym</b>. ἑβδομήκοντα.`

@@ -1,1 +1,0 @@
-lar[103922]=`<b>ὑπο·στύφω</b> <font color="purple">[ῡφ]</font><br><b>      1 <i>intr.</i></b> être un peu astringent <i>ou</i> âpre, NIC. <i>Al. 17</i> ; DIOSC. <i>1, 170 ; fig</i>. PLUT. <i>Ant. 24</i>.<br><b>      2 <i>tr.</i></b> épaissir, condenser, TH. <i>Od. 17</i> ; HIPPIATR. <i>p. 256, 27</i>.`

@@ -1,1 +1,0 @@
-lar[41555]=`<b>εὐ·ακέως</b> <font color="purple">[ᾰ]</font> <i>adv</i>., d’une guérison facile, ARÉT. <i>p. 99, 49</i>.<p><b>Étym</b>. εὖ, ἀκέομαι.`

@@ -1,1 +1,0 @@
-lar[6675]=`<b>ατος (τὸ)</b> sorte de collier à l’usage des crieurs publics, ANTH. <i>App. 372</i>.<p><b>Étym</b>. ἀναδείκνυμι.`

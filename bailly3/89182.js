@@ -1,1 +1,0 @@
-lar[89182]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> agité, chancelant, ANTH. <i>5, 175</i>.<p><b>Étym</b>. <i>vb. de</i> σαλεύω.`

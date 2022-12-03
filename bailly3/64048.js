@@ -1,1 +1,0 @@
-lar[64048]=`<b>μελί·πτορθος, ος, ον</b>, dont la tige est douce comme le miel, ANDROM. (GAL. <i>13, 877).</i><p><b>Étym</b>. μ. πτόρθος.`

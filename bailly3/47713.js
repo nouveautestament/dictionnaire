@@ -1,1 +1,0 @@
-lar[47713]=`<b>ης (ἡ)</b> <font color="purple">[ῐᾰ]</font> sorte de gâteau, ALCM. (ATH. <i>114f</i>).<p><b>Étym</b>. θρίδαξ.`

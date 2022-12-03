@@ -1,1 +1,0 @@
-lar[71514]=`<b>ος, ον</b>, <i>c</i>. ὅμοιος, IL. <i>4, 315, 444,</i> ESCHL. <i>Suppl. 436, conj</i>.<p>➳ <font color="purple">[ϊ <i>bref, mais long dev. une finale longue,</i> IL. <i>9, 440 ; 13, 356, 635</i>]</font>.`

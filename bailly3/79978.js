@@ -1,1 +1,0 @@
-lar[79978]=`<font color="purple">[ῡ]</font> <i>adv</i>., par une aptitude naturelle, naturellement, ARSTT. <i>Rhet. 3, 2, 4</i>.<p><b>Étym</b>. φύω.`

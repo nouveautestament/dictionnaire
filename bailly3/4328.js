@@ -1,1 +1,0 @@
-lar[4328]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui dit la vérité, franc, M. TYR. <i>85, 22 Dübn</i>.`

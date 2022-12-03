@@ -1,1 +1,0 @@
-lar[90525]=`<b>σιτοδοτέω-ῶ</b> <font color="purple">[ῑ]</font> distribuer du blé à, <i>acc</i>. THÉM. <i>292b ; au pass</i>. recevoir une distribution de blé, THC. <i>4, 39 ; particul. à Rome,</i> DC. <i>43, 21 ; 55, 10</i>.<p><b>Étym</b>. σιτοδότης.`

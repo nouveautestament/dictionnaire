@@ -1,1 +1,0 @@
-lar[16176]=`<b>ου</b>, <i>adj. m</i>. étoilé, en forme d’étoile ; ἀ. ἐρῳδιός, ARSTT. <i>H.A. 9, 1, 23,</i> héron, <i>oiseau</i> ; ἀ. ἱέραξ, ARSTT. <i>H.A. 9, 36, 1,</i> autour <i>ou</i> faucon ; ἀ. γαλέος, PHILYLL. (E. BYZ. <i>v°</i> Γαλεῶται) ; ARSTT. <i>H.A. 5, 10, 1,</i> sorte de chien de mer, <i>poisson</i>.`

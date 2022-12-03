@@ -1,1 +1,0 @@
-lar[27885]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> fabricant de faux, AR. <i>Pax 548</i> ; PHÉRÉCR. (ATH. <i>269c</i>).<p><b>Étym</b>. δρέπανον, ἔργον.`

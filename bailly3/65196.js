@@ -1,1 +1,0 @@
-lar[65196]=`<b>μετ·όπισθε</b>, <i>et dev. une voy. ou, par posit., dev. une cons.,</i> <b>μετόπισθεν</b>, <i>adv. et prép.</i> :<br><b>      1</b> derrière, en arrière, IL. <i>6, 68 ; avec le gén</i>. IL. <i>9, 504</i> ; OD. <i>9, 539</i>.<br><b>      2</b> ensuite, plus tard, IL. <i>17, 261, etc.</i> ; HÉS. <i>O. 282</i>.<p><b>Étym</b>. μ. ὄπισθε.`

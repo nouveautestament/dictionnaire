@@ -1,1 +1,0 @@
-lar[87408]=`<b>ή, όν</b>, effrayé, épouvanté, NIC. <i>Al. 243</i> ; MAX. <i>π. κατ. 164</i>.<p><b>Étym</b>. <i>vb. de</i> πτοιέω.`

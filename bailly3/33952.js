@@ -1,1 +1,0 @@
-lar[33952]=`<b>ἐν·αποκυβεύω</b> <font color="purple">[ῠ]</font> risquer le coup sur, <i>dat</i>. DS. <i>16, 78</i>.`

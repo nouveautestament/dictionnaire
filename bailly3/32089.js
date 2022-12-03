@@ -1,1 +1,0 @@
-lar[32089]=`<b>ων (οἱ)</b> soldats hors rangs (<i>trompette, porte-drapeau, etc</i>.) ASCLÉPIOD. EL. TACT.<p><b>Étym</b>. ἐκτάσσω.`

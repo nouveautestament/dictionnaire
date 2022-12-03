@@ -1,1 +1,0 @@
-lar[96217]=`<b>συν·ορμάω-ῶ :<br>      1 <i>tr.</i></b> pousser <i>ou</i> exciter ensemble, PLUT. <i>M. 1129e.</i><br><b>      2 <i>intr.</i></b> s’élancer ensemble, PHALAR. <i>Ep. 15</i>.`

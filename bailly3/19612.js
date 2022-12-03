@@ -1,1 +1,0 @@
-lar[19612]=`<b>ων (οἱ)</b> = <i>lat</i>. Veii, Véies, <i>v. d’Étrurie,</i> PLUT. <i>Cam. 2, etc</i>.<p><b>Étym</b>. <i>Cf</i>. Οὐήϊοι.`

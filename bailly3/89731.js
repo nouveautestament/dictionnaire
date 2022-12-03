@@ -1,1 +1,0 @@
-lar[89731]=`<b>ης (ἡ)</b> Sélènè <i>ou</i> la Lune, <i>divinité,</i> OD. <i>9, 144</i> ; HH. <i>Merc. 99</i> ; HÉS. <i>Th. 371, etc</i>.<p>➳ <i>Dor</i>. Σελάνα <font color="purple">[ᾱᾱ]</font> ALCM. <i>48, etc</i>.<p><b>Étym</b>. <i>v</i>. σελήνη.`

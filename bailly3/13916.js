@@ -1,1 +1,0 @@
-lar[13916]=`<b>ἀ·προμηθής, ής, ές</b>, non prévoyant, sans prévoyance, JOS. <i>A.J. 18, 6, 5</i>.`

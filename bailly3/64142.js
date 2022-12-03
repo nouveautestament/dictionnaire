@@ -1,1 +1,0 @@
-lar[64142]=`<b>μελί·φυρτος, ος, ον</b> <font color="purple">[ῐ]</font> pétri avec du miel, ANTH. <i>5, 270</i>.<p><b>Étym</b>. μ. φύρω.`

@@ -1,1 +1,0 @@
-lar[6921]=`<b>ἀνα·κεφαλαιόω-ῶ</b> <font color="purple">[φᾰ]</font><br><b>      1</b> récapituler, DH. <i>Lys. 9</i>.<br><b>      2</b> prendre en bloc, rassembler, NT. <i>Rom. 13, 9</i>.<br><b><i>Moy.</i></b> récapituler, ARSTT. <i>fr. 123</i>.`

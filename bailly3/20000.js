@@ -1,1 +1,0 @@
-lar[20000]=`<b>βο·αγίδης, ου (ὁ)</b> qui emmène les bœufs (de Géryon), <i>ép. d’Hèraklès,</i> LYC. <i>652</i>.<p><b>Étym</b>. βοῦς, ἄγω.`

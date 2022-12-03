@@ -1,1 +1,0 @@
-lar[74670]=`<b>ης, ες :<br>      1</b> qui cause des palpitations, HPC. <i>Prorrh. 70</i> ; DS. <i>3, 50, etc.</i><br><b>      2</b> qui consiste en palpitations, PHIL. <i>1, 166</i>.<p><b>Étym</b>. παλμός, -ωδης.`

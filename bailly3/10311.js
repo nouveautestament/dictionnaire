@@ -1,1 +1,0 @@
-lar[10311]=`<b>ἀντί·πορθμος, ος, ον</b>, situé du côté opposé du détroit, EUR. <i>Ion 1585 ; avec le dat</i>. STR. <i>379</i>.<p><b>Étym</b>. ἀ. πορθμός.`

@@ -1,1 +1,0 @@
-lar[8904]=`<b>ου (ὁ)</b> <font color="purple">[ᾰκ]</font> anthracite, <i>pierre précieuse,</i> PLIN. <i>H.N. 36, 38</i>.<p><b>Étym</b>. ἄνθραξ.`

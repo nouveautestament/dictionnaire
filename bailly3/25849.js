@@ -1,1 +1,0 @@
-lar[25849]=`<b>δι·αφίημι</b> <font color="darkgreen">(<i>f</i>. διαφήσω, <i>ao</i>. διαφῆκα, <i>etc</i>.)</font> laisser aller, congédier, <i>acc</i>. (une armée) XÉN. <i>Hell. 3, 2, 24 ; 4, 4, 13</i> ; POL. <i>2, 54, 14</i> ; LIB. <i>1, 544</i> ; (une assemblée) POL. <i>3, 109, 13</i>.`

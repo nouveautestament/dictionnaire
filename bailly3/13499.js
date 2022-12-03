@@ -1,1 +1,0 @@
-lar[13499]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[φᾰ]</font> gangrène sèche, HPC. <i>831g</i>.<p><b>Étym</b>. ἀποσφακελίζω.`

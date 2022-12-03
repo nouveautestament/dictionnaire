@@ -1,1 +1,0 @@
-lar[19871]=`<b>ατος (τὸ) :<br>      1</b> germe, bourgeon, <i>d’où</i> feuillage, TH. <i>H.P. 1, 1, 9</i>.<br><b>      2</b> <i>fig</i>. rejeton, enfant, ESCHL. <i>Sept. 533</i> ; EUR. <i>Med. 1099, etc. ; en parl. d’animaux,</i> EUR. <i>Cycl. 206</i>.<br><b>      3</b> blastème, substances épanchées dans <i>ou</i> sur les tissus, ARÉT.<p><b>Étym</b>. βλαστάνω.`

@@ -1,1 +1,0 @@
-lar[6773]=`<b>εως (ἡ)</b> action de réchauffer, AGATHIN. (ORIB. <i>2, 399 B.-Dar</i>.).<p><b>Étym</b>. ἀναθάλπω.`

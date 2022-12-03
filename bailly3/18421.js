@@ -1,1 +1,0 @@
-lar[18421]=`<b>ἀ·χειρίδωτος, ος, ον</b> <font color="purple">[ῐ]</font> sans manches, SEXT. CLÉM.`

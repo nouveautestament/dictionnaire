@@ -1,1 +1,0 @@
-lar[21041]=`<b>ης, ες</b> (<i>seul. cp</i>. -έστερος), semblable à du cuir, GAL.<p><b>Étym</b>. βύρσα, -ωδης.`

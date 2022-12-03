@@ -1,1 +1,0 @@
-lar[39251]=`<b>ἐπι·συρίζω</b> <font color="purple">[ῡ]</font> <i>c</i>. ἐπισυρίσσω EL. <i>N.A. 2, 7</i> ; NONN. <i>D. 1, 71</i>.`

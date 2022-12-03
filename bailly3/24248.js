@@ -1,1 +1,0 @@
-lar[24248]=`<b>ου (ὁ)</b> Dèmokleidès :<br><b>      1</b> <i>orateur,</i> DH. <i>Din. 11</i>.<br><b>      2</b> <i>autre,</i> PLUT. <i>Pel. 8, 11, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Δημοκλῆς.`

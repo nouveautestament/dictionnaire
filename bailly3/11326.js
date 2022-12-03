@@ -1,1 +1,0 @@
-lar[11326]=`<b>ας (ἡ) :<br>      1</b> immutabilité, PLUT. <i>M. 1077c.</i><br><b>      2</b> ressemblance exacte, SEXT. <i>M. 7, 108, 403, etc</i>.<p><b>Étym</b>. ἀπαράλλακτος.`

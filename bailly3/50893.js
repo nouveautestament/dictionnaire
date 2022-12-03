@@ -1,1 +1,0 @@
-lar[50893]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> mauvaise action, méfait, ANT. <i>130, 22</i> ; PLAT. <i>Rsp. 426e, etc.</i> ; DÉM. <i>727, 27</i>.<p><b>Étym</b>. κακουργέω.`

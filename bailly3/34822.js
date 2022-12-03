@@ -1,1 +1,0 @@
-lar[34822]=`<b>ἐν·οινο·φλύω</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) bavarder dans le vin, LUC. <i>Lex. 14</i>.<p><b>Étym</b>. ἐν, οἶνος, φλύω.`

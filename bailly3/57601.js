@@ -1,1 +1,0 @@
-lar[57601]=`<b>κραται·γύαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux membres robustes, <i>en parl. d’une cuirasse, càd</i>. aux pièces fortement assujetties, IL. <i>19, 361</i>.<p><b>Étym</b>. κράτος, γύαλον.`

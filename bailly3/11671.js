@@ -1,1 +1,0 @@
-lar[11671]=`<i>mot lacéd. c</i>. ἐκκλησιάζω, haranguer sur la place publique, PLUT. <i>Lyc. 6</i> (ἀπελλαί, assemblées du peuple, <i>à Sparte,</i> HSCH. <i>de</i> ἀπό, εἴλλω).`

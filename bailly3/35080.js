@@ -1,1 +1,0 @@
-lar[35080]=`<b>ἔν·τιλτος, ου (ὁ)</b> sorte de pâtisserie, CLÉARQ. (ATH. <i>649a</i>).<p><b>Étym</b>. ἐν, τίλλω.`

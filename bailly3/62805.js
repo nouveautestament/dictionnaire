@@ -1,1 +1,0 @@
-lar[62805]=`<b>μαννο·φόρος, ος, ον</b>, qui porte un collier, THCR. <i>Idyl. 11, 41</i> (μάννος, collier, LEX. φέρω).`

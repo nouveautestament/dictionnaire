@@ -1,1 +1,0 @@
-lar[32023]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> écoulement, POL. <i>4, 39, 8</i>.<br><b>      2</b> <i>t. de méd</i>. écoulement, <i>d’où</i> le délivre, HPC. <i>257, 19</i> ; ARSTT. <i>G.A. 3, 9, 3</i>.<br><b>      3</b> chute (d’une chose qui tombe d’elle-même) : ἔκρ. τριχῶν, TH. <i>H.P. 7, 14, 1,</i> chute des cheveux.<p><b>Étym</b>. ἐκρέω.`

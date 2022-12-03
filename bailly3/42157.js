@@ -1,1 +1,0 @@
-lar[42157]=`<b>ας (ἡ)</b> <font color="purple">[ᾰνᾰ]</font> mort douce et facile, POSIDIPP. <i>fr. 16</i> ; CIC. <i>Att. 16, 7</i> ; AUG. (SUÉT. <i>Oct. 99).</i><p><b>Étym</b>. εὐθάνατος.`

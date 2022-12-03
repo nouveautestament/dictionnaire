@@ -1,1 +1,0 @@
-lar[54902]=`<b>οῦ (ὁ)</b> Kéraunos, <i>n. d’un fils de Cléarque, général d’Alexandre le Grand,</i> PLUT. <i>Alex. fort. 2, 5</i>.<p><b>Étym</b>. <i>v</i>. κεραυνός.`

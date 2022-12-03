@@ -1,1 +1,0 @@
-lar[19842]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière nuisible, PLAT. <i>Phædr. 243c ; Charm. 164b, etc.</i> ; PLUT. <i>M. 599b</i>.`

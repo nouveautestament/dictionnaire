@@ -1,1 +1,0 @@
-lar[58879]=`<i>att</i>. <b>-ίττινος, η, ον</b> <font color="purple">[ῠᾰῑν]</font> de cyprès, OD. <i>17, 340</i> ; THC. <i>2, 34</i> ; κυπαρίττιναι μνῆμαι, PLAT. <i>Leg. 741c</i>, souvenirs gravés sur des boîtes de cyprès.<p>➳ κυπαρίττινος, PLAT. <i>l. c.</i> ; POL. <i>10, 27, 10</i>.<p><b>Étym</b>. κυπάρισσος.`

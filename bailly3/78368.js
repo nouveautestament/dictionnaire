@@ -1,1 +1,0 @@
-lar[78368]=`<b>περι·αλγής, ής, ές</b>, tout à fait affligé, PLAT. <i>Rsp. 462b ;</i> PLUT. <i>Fab. 6</i>.<p><b>Étym</b>. π. ἄλγος.`

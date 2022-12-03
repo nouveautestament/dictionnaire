@@ -1,1 +1,0 @@
-lar[20548]=`<b>ου (ὁ)</b> Boutès, <i>h</i>. DS. <i>etc</i>.<p>➳ <i>Dor</i>. βούτας, α, α, PLUT. <i>Rom. 21 ; etc.</i> ; DC. <i>etc</i>.<p><b>Étym</b>. <i>Cf</i>. βούτης.`

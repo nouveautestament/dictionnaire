@@ -1,1 +1,0 @@
-lar[105684]=`<b>φιλ·ίστωρ, ορος (ὁ, ἡ)</b> <font color="purple">[φῐ]</font> qui aime à s’instruire, HIÉROCL. (E. BYZ.).<p><b>Étym</b>. φίλος, ἵστωρ.`

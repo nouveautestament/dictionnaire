@@ -1,1 +1,0 @@
-lar[58877]=`<b>εντος (ὁ)</b> <font color="purple">[ῠᾰ]</font> Kyparissèente (<i>litt</i>. abondant en cyprès) <i>v. de Triphylie,</i> IL. <i>2, 593</i>.<p><b>Étym</b>. κυπάρισσος.`

@@ -1,1 +1,0 @@
-lar[53241]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰφ]</font> suture à la paupière inférieure, <i>t. de chirurg</i>. P. ÉG. <i>6, 8</i>.<p><b>Étym</b>. καταρράπτω.`

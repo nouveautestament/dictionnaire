@@ -1,1 +1,0 @@
-lar[55277]=`<b>κηρο·δομέω-ῶ</b>, construire des maisons de cire, des cellules, Ps.-PHOCYL. <i>174</i>.<p><b>Étym</b>. κηρός, δόμος.`

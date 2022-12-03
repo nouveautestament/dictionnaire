@@ -1,1 +1,0 @@
-lar[26802]=`<font color="purple">[ῐῡ]</font> <i>adv</i>., comme aux fêtes de Dionysos, DAMASC. <i>Plat. Phil. 230, 9</i>.`

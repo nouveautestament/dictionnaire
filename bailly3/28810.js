@@ -1,1 +1,0 @@
-lar[28810]=`<b>δυσ·πήμαντος, ος, ον</b>, qui cause un grand mal, désastreux, ESCHL. <i>Eum. 481</i>.<p><b>Étym</b>. δ. πημαίνω.`

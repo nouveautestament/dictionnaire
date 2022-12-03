@@ -1,1 +1,0 @@
-lar[43880]=`<i>par élis. p</i>. ἐπί <i>dev. une aspirée</i>.`

@@ -1,1 +1,0 @@
-lar[18493]=`<b>ας (ἡ)</b> absence de bile, <i>càd</i>. caractère doux, PLUT. <i>M. 608d</i>.<p><b>Étym</b>. ἄχολος.`

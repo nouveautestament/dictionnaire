@@ -1,1 +1,0 @@
-lar[61036]=`<b>ή, όν</b> <font color="purple">[ῐθ]</font> qui concerne les machines à lancer des pierres ; τὰ λιθοβολικά, PHIL. BYZ. matériel de balistes <i>ou</i> de pierriers.<p><b>Étym</b>. λιθοβόλος.`

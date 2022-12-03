@@ -1,1 +1,0 @@
-lar[41629]=`<b>εὐ·απόλυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> facile à délier <i>ou</i> à dissoudre, HPC. <i>Mochl. 842, Art. 792</i> ; ARSTT. <i>H.A. 4, 4, 30</i>.<br><b>      2</b> facile à résoudre, <i>fig</i>. DYSC. <i>Pron. 18c, 37b, 40a</i>.<p><b>Étym</b>. εὖ, ἀπολύω.`

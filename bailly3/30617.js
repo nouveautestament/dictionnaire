@@ -1,1 +1,0 @@
-lar[30617]=`<b>εἱρκτο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> geôlier, JOS. <i>A.J. 17, 7</i> ; PHIL. <i>1, 289, etc</i>.<p><b>Étym</b>. εἰρκτή, φύλαξ.`

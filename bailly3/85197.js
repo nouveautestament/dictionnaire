@@ -1,1 +1,0 @@
-lar[85197]=`<b>προσ·ανέρπω</b>, monter en rampant, se glisser peu à peu jusqu’à, <i>dat</i>. PLUT. <i>Them. 26</i>.`

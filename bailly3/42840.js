@@ -1,1 +1,0 @@
-lar[42840]=`<b>ας (ἡ)</b> odeur agréable, TH. <i>Od. 51</i>.<p><b>Étym</b>. εὔοδμος.`

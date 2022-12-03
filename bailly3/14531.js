@@ -1,1 +1,0 @@
-lar[14531]=`<i>inf. ao. pass. de</i> αἴρω, lever <i>ou de</i> ἀραρίσκω.`

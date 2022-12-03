@@ -1,1 +1,0 @@
-lar[62440]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Macédoine, HDT. <i>7, 131</i> ; XÉN. <i>Hell. 5, 2, 43</i> ; PLUT. <i>Pyrrh. 2, etc</i>.<p><b>Étym</b>. Μακεδών.`

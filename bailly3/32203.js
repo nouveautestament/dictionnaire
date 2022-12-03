@@ -1,1 +1,0 @@
-lar[32203]=`<b>ἐκ·τορεύω</b>, ciseler avec art, NYSS. <i>1, 680</i> ; CHRYS. <i>4, 309</i>.`

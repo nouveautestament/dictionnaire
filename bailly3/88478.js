@@ -1,1 +1,0 @@
-lar[88478]=`<b>ῥησι·μετρέω-ῶ</b> <font color="purple">[ῐ]</font> mesurer ses paroles, LUC. <i>Lex. 9, etc</i>.<p><b>Étym</b>. ῥῆσις, μετρέω.`

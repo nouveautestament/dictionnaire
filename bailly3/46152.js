@@ -1,1 +1,0 @@
-lar[46152]=`<b>ου</b> <font color="purple">[θᾰ]</font> <i>adj. m.</i> : θ. οἶνος, vin conservé dans l’eau de mer, PLIN. <i>H.N. 14, 10</i>.<p><b>Étym</b>. θάλασσα.`

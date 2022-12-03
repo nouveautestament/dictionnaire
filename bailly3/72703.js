@@ -1,1 +1,0 @@
-lar[72703]=`<b>ή, όν</b>, conforme à une opinion saine, PROCL. <i>Plat. 1 Alc. p. 76 Creuz</i>.<p><b>Étym</b>. ὀρθοδοξαστής.`

@@ -1,1 +1,0 @@
-lar[76603]=`<b>παρ·είσφρησις, εως (ἡ)</b> action de glisser de côté, RHÉT. <i>4, 486 W</i>.`

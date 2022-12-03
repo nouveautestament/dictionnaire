@@ -1,1 +1,0 @@
-lar[74172]=`<b>ων (οἱ)</b> les habitants de l’î. Pankhôn, PLUT. <i>Is. et Os. 23</i>.<p><b>Étym</b>. Πάγχων.`

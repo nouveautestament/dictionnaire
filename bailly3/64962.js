@@ -1,1 +1,0 @@
-lar[64962]=`<b>μετα·σπάω-ῶ</b>, tirer d’un autre côté, SOPH. <i>O.C. 774</i>.`

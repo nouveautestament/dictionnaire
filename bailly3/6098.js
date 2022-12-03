@@ -1,1 +1,0 @@
-lar[6098]=`<i>adv.</i> :<br><b>      1</b> très adroitement, POLÉM. (ATH. <i>698d</i>).<br><b>      2</b> ἀ. ἔχει, ESCHL. <i>fr. 257,</i> cela est indifférent.<p><b>Étym</b>. <i>litt</i>. double, aussi bien d’un côté que de l’autre.`

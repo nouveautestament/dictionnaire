@@ -1,1 +1,0 @@
-lar[61342]=`<b>λιπο·ναύτης</b>, <i>dor</i>. <b>λιπο·ναύτας, α</b> <font color="purple">[ῐᾱ]</font> <i>adj. m</i>. qui abandonne des matelots <i>ou</i> un navire, THCR. <i>Idyl. 13, 73</i>.<p><b>Étym</b>. λ. ναύτης.`

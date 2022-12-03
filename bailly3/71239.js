@@ -1,1 +1,0 @@
-lar[71239]=`<b>ή, όν</b>, plaintif, lamentable, IL. <i>5, 683 ; 23, 102</i> ; OD. <i>19, 362 ; adv</i>. ὀλοφυδνά, ANTH. <i>7, 486,</i> en se lamentant.<p><b>Étym</b>. <i>cf</i>. ὀλοφύρομαι.`

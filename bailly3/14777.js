@@ -1,1 +1,0 @@
-lar[14777]=`<b>ἀρι·φανής, ής, ές</b> <font color="purple">[ᾰῐᾰ]</font> très brillant, ANTH. <i>7, 698 (var</i>. ἀειφανής).<p><b>Étym</b>. ἀρι-, φαίνω.`

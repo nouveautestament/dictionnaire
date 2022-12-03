@@ -1,1 +1,0 @@
-lar[105492]=`<b>φιλ·άπεπτος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui a les digestions pénibles, ORIB. <i>92 Matthäi</i>.`

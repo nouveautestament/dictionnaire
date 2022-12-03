@@ -1,1 +1,0 @@
-lar[67478]=`<b>ης, ες</b> <font color="purple">[ῠ]</font><br><b>      1</b> de rat, PLUT. <i>M. 458c.</i><br><b>      2</b> musculeux, DS. <i>5, 139</i> ; PLUT. <i>M. 733b ;</i> ARR. <i>Cyn. 6, 2</i>.<p><b>Étym</b>. μῦς, -ωδης.`

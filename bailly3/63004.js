@@ -1,1 +1,0 @@
-lar[63004]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐνᾱ]</font> = <i>lat</i>. Martinianus, <i>n. d’h. rom</i>. ANTH. <i>8, 104, etc</i>.`

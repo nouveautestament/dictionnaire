@@ -1,1 +1,0 @@
-lar[49491]=`<b>η, ον</b> <font color="purple">[ῑῐ]</font> d’iris ; <i>subst</i>. τὸ ἴρινον (<i>s.-e</i>. μύρον) TH. <i>H.P. 9, 9, 2,</i> huile <i>ou</i> parfum d’iris.<p><b>Étym</b>. ἶρις.`

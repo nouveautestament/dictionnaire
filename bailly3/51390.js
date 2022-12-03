@@ -1,1 +1,0 @@
-lar[51390]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> qui fatigue, qui épuise, pénible, HÉS. <i>O. 582</i> ; PD. <i>N. 3, 28</i>.<p>•<i> Cp</i>. -έστερος, TH. <i>Lap. 13</i>.<p><b>Étym</b>. κάματος, -ωδης.`

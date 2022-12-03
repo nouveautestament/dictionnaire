@@ -1,1 +1,0 @@
-lar[29080]=`<b>δωδεκά·δωρος, ος, ον</b> <font color="purple">[ᾰ]</font> de douze palmes, <i>mesure,</i> ANTH. <i>6, 96</i>.<p><b>Étym</b>. δ. δῶρον.`

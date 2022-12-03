@@ -1,1 +1,0 @@
-lar[68693]=`<b>νή·χυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule à flots, abondant, A.RH. <i>3, 530, etc.</i> ; NIC. <i>Th. 33, Al. 600</i>.<p><b>Étym</b>. νη-, χέω.`

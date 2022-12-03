@@ -1,1 +1,0 @@
-lar[6382]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> jeu d’une articulation, HPC. <i>Art. 833</i>.<p><b>Étym</b>. ἀμφισφάλλω.`

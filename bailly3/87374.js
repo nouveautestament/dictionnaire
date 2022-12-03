@@ -1,1 +1,0 @@
-lar[87374]=`<b>πτηνο·πέδιλος, ος, ον</b> <font color="purple">[ῑ]</font> aux talonnières ailées, ORPH. <i>H. 27, 4</i>.<p><b>Étym</b>. πτ. πέδιλον.`

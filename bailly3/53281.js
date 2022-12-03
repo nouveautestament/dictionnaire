@@ -1,1 +1,0 @@
-lar[53281]=`<b>κατά·ρρυθμος, ος, ον</b>, ajusté avec mesure, nombreux, cadencé, LGN <i>41, 1</i>.<p><b>Étym</b>. κ. ῥυθμός.`

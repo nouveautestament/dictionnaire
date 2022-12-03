@@ -1,1 +1,0 @@
-lar[30190]=`<b>ατος (τὸ)</b> usage, accoutumance, XÉN. <i>Eq. 6, 13</i> ; PLAT. <i>Leg. 793d</i>.<p><b>Étym</b>. ἐθίζω.`

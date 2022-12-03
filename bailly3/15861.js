@@ -1,1 +1,0 @@
-lar[15861]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῐνᾱ]</font> fête de l’Asinaros, <i>à Syracuse, en souvenir de la défaite des Athéniens,</i> PLUT. <i>Nic. 28</i>.<p><b>Étym</b>. Ἀσίναρος.`

@@ -1,1 +1,0 @@
-lar[92613]=`<b>ή, όν</b>, pointillé, tacheté, de couleurs variées, SOPH. <i>Ph. 184, El. 568 ; en parl. de peau de faon,</i> EUR. <i>Bacch. 111 ; en parl. du plumage de l’</i>ἔποψ, ESCHL. <i>fr. 305, 7 ; du paon,</i> PHILSTR. <i>856 ; de l’hyène,</i> OPP. <i>C. 3, 288 ; particul</i>. tatoué, ANTH. <i>7, 10</i>.<p><b>Étym</b>. <i>vb. de</i> στίζω.`

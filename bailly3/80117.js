@@ -1,1 +1,0 @@
-lar[80117]=`<b>οπος (ὁ)</b> sarcelle (<i>Anas penelope</i> L.) <i>oiseau aquatique,</i> AR. <i>Av. 298</i> ; ARSTT. <i>H.A. 8, 3, 16, etc</i>.<p>➳ ἡ π. IBYC. <i>fr. 8 Bgk</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,1 +1,0 @@
-lar[68362]=`<b>ας (ἡ)</b> corde faite d’un nerf tordu, SPT. <i>Jud. 16, 7, 8, corr</i>. νευρά.<p><b>Étym</b>. νευρά.`

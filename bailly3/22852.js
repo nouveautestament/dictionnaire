@@ -1,1 +1,0 @@
-lar[22852]=`<b>(ἡ)</b> (<i>seul. gén. éol</i>. Γυρίννως) Gyrinnô, <i>amie de Sappho,</i> SAPPH. <i>76</i>.`

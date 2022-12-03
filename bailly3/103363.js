@@ -1,1 +1,0 @@
-lar[103363]=`<font color="purple">[δῡ]</font> courir qqe risque, PLUT. <i>Pel. 2</i>.`

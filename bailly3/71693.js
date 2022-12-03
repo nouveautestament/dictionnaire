@@ -1,1 +1,0 @@
-lar[71693]=`<b>ὁμό·σπορος, ος, ον :<br>      1</b> né du même sang, de même race, HH. <i>Cer. 85</i> ; PD. <i>N. 543</i> ; ESCHL. <i>Sept. 820, etc.</i><br><b>      2</b> <i>au fém</i>. que deux hommes ont également fécondée, SOPH. <i>O.R. 254</i>.<p><b>Étym</b>. ὁμ. σπείρω.`

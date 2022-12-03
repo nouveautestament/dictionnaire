@@ -1,1 +1,0 @@
-lar[37111]=`<b>ἐπ·εξαιτέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐπεξῄτησα)</font> réclamer en outre, CHRYS. <i>1, 160</i> ; BAS. <i>2, 774, 1035</i>.`

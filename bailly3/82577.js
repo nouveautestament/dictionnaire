@@ -1,1 +1,0 @@
-lar[82577]=`<b>πολύ·χρηστος, ος, ον</b>, très utile <i>ou</i> très employé, ARSTT. <i>Pol. 8, 3, 1, etc</i>.<p>•<i> Sup</i>. -ότατος, ORIB.<p><b>Étym</b>. π. χρηστός.`

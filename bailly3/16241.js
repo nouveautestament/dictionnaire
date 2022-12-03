@@ -1,1 +1,0 @@
-lar[16241]=`<b>ας (ἡ)</b> manque d’affection, insensibilité, MÉN. (STOB. <i>Fl. 16, 10</i>) ; DH. <i>3, 18</i>.<p><b>Étym</b>. ἄστοργος.`

@@ -1,1 +1,0 @@
-lar[70841]=`<b>ὀκτα·μερής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se compose de huit parties, DL. <i>7, 110</i>.<p><b>Étym</b>. ὀ. μέρος.`

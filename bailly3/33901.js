@@ -1,1 +1,0 @@
-lar[33901]=`<b>ἐναντιο·φορέω-ῶ</b>, porter en sens contraire, ORIG. <i>2, 61 Migne</i>.<p><b>Étym</b>. ἐ. φορέω.`

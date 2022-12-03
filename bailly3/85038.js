@@ -1,1 +1,0 @@
-lar[85038]=`<b>προ·πυρεταίνω</b> <font color="purple">[ῠ]</font> avoir la fièvre auparavant, HPC. <i>1128h</i>.`

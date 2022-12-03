@@ -1,1 +1,0 @@
-lar[99740]=`<b>ας (ἡ)</b> = Tudertia (<i>auj</i>. Todi) <i>v. d’Ombrie,</i> PLUT. <i>Crass. 6</i>.`

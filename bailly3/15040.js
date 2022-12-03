@@ -1,1 +1,0 @@
-lar[15040]=`<b>ή, όν</b>, rapace, DIOSC. <i>1, 101, etc</i>.<p>•<i> Cp</i>. -ώτερος, LUC. <i>Pisc. 34</i>.<p><b>Étym</b>. ἁρπάζω.`

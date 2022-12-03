@@ -1,1 +1,0 @@
-lar[105330]=`<font color="purple">[ῐῐ]</font> <i>c</i>. φθισιάω, GAL. <i>p. 529, 552</i>.<p><b>Étym</b>. φθισικός.`

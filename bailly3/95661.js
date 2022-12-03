@@ -1,1 +1,0 @@
-lar[95661]=`<b>συν·επιορκέω-ῶ</b>, se parjurer avec <i>ou</i> en même temps, PLUT. <i>M. 808a</i>.`

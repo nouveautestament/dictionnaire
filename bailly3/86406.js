@@ -1,1 +1,0 @@
-lar[86406]=`<b>προσ·σπένδω</b>, faire encore des libations de, <i>acc</i>. DH. <i>7, 72</i>.`

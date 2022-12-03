@@ -1,1 +1,0 @@
-lar[4440]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> pêche, ARSTT. <i>Pol. 1, 8, 7 ; Œc. 2, 4, 2</i> ; PLUT. <i>Tim. 20 etc</i>.<p><b>Étym</b>. ἀλιεύς.`

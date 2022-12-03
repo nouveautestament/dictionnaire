@@ -1,1 +1,0 @@
-lar[17062]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> infortune, insuccès, échec, ARR. (ANT. <i>124, 29</i> ; DÉM. <i>643, 10, etc</i>.).<br><b>      2</b> faute involontaire, méprise (<i>p. opp. à</i> ἀδίκημα et à ἁμάρτημα), ARSTT. <i>Rhet. 1, 13, 16 ; etc. ; par euphém. pour</i> crime, POL. <i>12, 14</i>.<p><b>Étym</b>. ἀτυχέω.`

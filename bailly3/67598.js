@@ -1,1 +1,0 @@
-lar[67598]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> toison, fourrure, PD. <i>P. 4, 58</i> ; HDT. <i>2, 42</i> ; THCR. <i>Idyl. 5, 2</i> ; LUC. <i>Syr. 55</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

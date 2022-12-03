@@ -1,1 +1,0 @@
-lar[72138]=`<b>ὀξυ·όστρακος, ος, ον</b> <font color="purple">[ᾰ]</font> aux écailles pointues, tranchantes, LUC. <i>Lex. 13</i>.<p><b>Étym</b>. ὀ. ὄστρακον.`

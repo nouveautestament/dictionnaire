@@ -1,1 +1,0 @@
-lar[6485]=`<b>ἄ·μωμος, ος, ον</b>, irréprochable, HDT. <i>2, 177</i> ; ESCHL. <i>Pers. 185</i> ; THCR. <i>Idyl. 18, 25, etc</i>.<p><b>Étym</b>. ἀ, μῶμος.`

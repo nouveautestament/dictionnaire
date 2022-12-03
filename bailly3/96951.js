@@ -1,1 +1,0 @@
-lar[96951]=`<b>ας (ἡ)</b> instrument de travail :<br><b>      1</b> marteau, OD. <i>3, 434</i> ; HDT. <i>1, 68</i> ; ESCHL. <i>fr. 297</i> ; CRAT. (HÉPH. <i>p. 17, 8</i>) ; ARSTT. <i>G.A. 5, 8, 12</i>.<br><b>      2</b> houe pour le travail des champs, HÉS. <i>O. 423</i> ; AR. <i>Pax 566</i>.`

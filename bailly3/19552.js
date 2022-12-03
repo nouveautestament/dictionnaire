@@ -1,1 +1,0 @@
-lar[19552]=`<b>εος (τὸ)</b> coquillage contenant une perle, ANDROSTH. (ATH. <i>93b</i>).<p><b>Étym</b>. <i>mot étranger</i>.`

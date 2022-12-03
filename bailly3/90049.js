@@ -1,1 +1,0 @@
-lar[90049]=`<b>ου (ὁ)</b> Sthénios, <i>litt</i>. « le Fort » :<br><b>      1</b> <i>surn. de Zeus chez les Argiens,</i> PAUS. <i>2, 32, 7, etc.</i><br><b>      2</b> <i>h</i>. ANTH. <i>5, 201</i>.<p><b>Étym</b>. σθένος.`

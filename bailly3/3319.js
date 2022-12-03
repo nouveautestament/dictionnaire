@@ -1,1 +1,0 @@
-lar[3319]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> remède, SOPH. <i>fr. 427</i>.<p><b>Étym</b>. ἀκέομαι.`

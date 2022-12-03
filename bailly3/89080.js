@@ -1,1 +1,0 @@
-lar[89080]=`<b>ας (ἡ)</b> <font color="purple">[σᾰ]</font> pêche à la seine, PLUT. <i>M. 730b ;</i> HIM. (PHOT. <i>Bibl. 364, 26).</i><p><b>Étym</b>. σαγηνεύω.`

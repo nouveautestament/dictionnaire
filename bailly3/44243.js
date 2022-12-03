@@ -1,1 +1,0 @@
-lar[44243]=`<b>ίων, ἔχθιον</b>, <i>gén</i>. <b>ονος</b>, <i>sert de comp. à</i> ἐχθρός, ESCHL. <i>Pers. 438</i> ; SOPH. <i>O.R. 272</i> ; EUR. <i>El. 222</i>.<p><b>Étym</b>. <i>cf</i>. ἔχθιστος.`

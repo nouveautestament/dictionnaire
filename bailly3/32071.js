@@ -1,1 +1,0 @@
-lar[32071]=`<b>ἐκ·συρίττω</b> <font color="purple">[ῡ]</font> (<i>seul. prés</i>.) : chasser en sifflant, huer, siffler, DÉM. <i>449, 19</i> ; LUC. <i>Nigr. 9 ; au pass</i>. ANTIPH. (ATH. <i>223a</i>).`

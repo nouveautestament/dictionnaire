@@ -1,1 +1,0 @@
-lar[65315]=`<b>ης (ἡ)</b> Mèthymna (Méthymne) <i>v. de Lesbos (auj</i>. Míthymna <i>ou</i> Mólyvos), THC. <i>3, 2, 18, etc.</i> ; XÉN. <i>Hell. 1, 2, 12 ; 6, 13, etc</i>.`

@@ -1,1 +1,0 @@
-lar[52217]=`<b>οῦ (ὁ)</b> grande vieillesse, HIPPIATR. <i>p. 53</i>.<p><b>Étym</b>. καταγηράσκω.`

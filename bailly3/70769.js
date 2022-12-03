@@ -1,1 +1,0 @@
-lar[70769]=`<b>ου (τὸ)</b> lieu d’où l’on observe le vol <i>ou</i> le cri des oiseaux, PAUS. <i>9, 16, 1</i>.<p><b>Étym</b>. οἰωνοσκόπος.`

@@ -1,1 +1,0 @@
-lar[68806]=`<b>ου</b> (<i>genre inconnu) autre n. de la plante</i> ἑλένιον, GAL. <i>13, 943</i>.`

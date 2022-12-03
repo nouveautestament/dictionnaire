@@ -1,1 +1,0 @@
-lar[30242]=`<b>ων, ον</b>, savant, instruit de, <i>gén</i>. ATH. (DL. <i>6, 14</i>) ; ANTH. <i>9, 505</i>.<p><b>Étym</b>. *εἴδω.`

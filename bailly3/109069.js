@@ -1,1 +1,0 @@
-lar[109069]=`<b>χρονο·τριβέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1 <i>intr.</i></b> traîner le temps en hésitations, être lent, incertain, ARSTT. <i>Rhet. 3, 3, 3</i> ; LÉONID. (PLUT. <i>M. 225b</i>) ; NT. <i>Ap. 20, 16, etc.</i><br><b>      2 <i>tr.</i></b> traîner en longueur, <i>acc</i>. PLUT. <i>Cato mi. 53</i>.<p><b>Étym</b>. χρόνος, τρίβω.`

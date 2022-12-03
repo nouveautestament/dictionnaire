@@ -1,1 +1,0 @@
-lar[34782]=`<b>ἔν·νομος, ος, ον</b>, qui habite (<i>litt</i>. qui paît) dans, habitant, ESCHL. <i>Suppl. 565</i>.<p><b>Étym</b>. ἐν, νέμομαι.`

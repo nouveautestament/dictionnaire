@@ -1,1 +1,0 @@
-lar[95920]=`<b>συν·θάπτω</b>, ensevelir avec : τινά τινι, EUR. <i>Alc. 149,</i> une personne avec une autre ; τινά, ESCHL. <i>Sept. 1027</i> ; SOPH. <i>Aj. 1378, etc</i>. ensevelir qqn avec (d’autres) ; <i>au pass</i>. HDT. <i>5, 5</i> ; THC. <i>1, 8, etc</i>.`

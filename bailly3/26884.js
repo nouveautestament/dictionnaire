@@ -1,1 +1,0 @@
-lar[26884]=`<b>Διὸς ἱερόν (τὸ)</b> le sanctuaire de Zeus, <i>v. d’Ionie,</i> THC. <i>8, 19</i>.`

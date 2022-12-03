@@ -1,1 +1,0 @@
-lar[54383]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῑλ]</font> mauvaise compagnie, PHILOD. <i>Œc. 3</i>.<p><b>Étym</b>. καχόμιλος.`

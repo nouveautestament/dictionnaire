@@ -1,1 +1,0 @@
-lar[84713]=`<b>προ·μεταβάλλω :<br>      1 <i>tr.</i></b> changer auparavant, GAL. <i>6, 42</i>.<br><b>      2 <i>intr.</i></b> se changer auparavant, SEXT. <i>M. 5, 59</i>.`

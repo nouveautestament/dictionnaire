@@ -1,1 +1,0 @@
-lar[83970]=`<b>προ·διευκρινέω-ῶ</b> <font color="purple">[κρῐ]</font> discuter <i>ou</i> éclaircir auparavant, POL. <i>Exc. Vat. 6, 3 Tauchn</i>.`

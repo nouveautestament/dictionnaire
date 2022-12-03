@@ -1,1 +1,0 @@
-lar[26798]=`<b>Διονυσ·αλέξανδρος (ὁ)</b> <font color="purple">[ῡᾰ]</font> Alexandre-Dionysos, <i>titre d’une comédie de Cratinos,</i> CRAT. (<i>Com. fr. 1, 413).</i><p><b>Étym</b>. Διόνυσος, Ἀλέξανδρος.`

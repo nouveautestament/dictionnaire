@@ -1,1 +1,0 @@
-lar[41721]=`<b>εὐβοτέομαι-οῦμαι</b>, abonder en pâturages, STR. <i>500</i>.<p><b>Étym</b>. εὔβοτος.`

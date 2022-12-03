@@ -1,1 +1,0 @@
-lar[14948]=`<b>ός, όν</b>, de la nature du bélier : ἀ. ὄϊς, OD. <i>10, 527, 572, d’où subst</i>. ὁ ἀ. IL. <i>2, 550 ; 3, 197</i> ; OD. <i>1, 25, etc</i>. bélier.<p>➳ <i>Inscr. att</i>. ἀρνεώς (<i>sel. Köhler</i> ἀρνέως) CIA. <i>2, 844 (400/350 av. J.-C.)</i>.<p><b>Étym</b>. <i>p.-ê. indo-europ</i>. *h₂ers-n-i-, bélier ; <i>cf</i>. ἄρρην.`

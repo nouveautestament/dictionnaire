@@ -1,1 +1,0 @@
-lar[13352]=`<b>ἀπο·σμάω-ῶ</b>, essuyer, nettoyer, LUC. <i>Anach. 29</i> ; DIOSC. <i>5, 92</i>.`

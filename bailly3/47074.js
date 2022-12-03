@@ -1,1 +1,0 @@
-lar[47074]=`<b>α, ον</b>, <i>vb. de</i> τίθημι, PLAT. <i>Epin. 984a ;</i> ARSTT. <i>Pol. 3, 5, 1 ; au neutre,</i> XÉN. <i>Mem. 4, 2, 14</i> ; PLAT. <i>Leg. 832e</i>.`

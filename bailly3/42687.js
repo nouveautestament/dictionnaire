@@ -1,1 +1,0 @@
-lar[42687]=`<b>ας (ἡ) :<br>      1</b> juste mesure, harmonie, proportion, LGN <i>fr. 3, 6</i>.<br><b>      2</b> mesure, modération, ARÉT. <i>Cur. m. acut. 2, 3</i>.<br><b>      3</b> mesure <i>ou</i> quantité correcte, NAZ. <i>3, 1336a Migne (ion</i>. -ίη).<p><b>Étym</b>. εὔμετρος.`

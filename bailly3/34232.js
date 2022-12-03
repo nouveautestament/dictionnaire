@@ -1,1 +1,0 @@
-lar[34232]=`<b>ἐν·δοξάζω</b>, glorifier, SPT. <i>Ex. 33, 16 ; Ps. 88, 6 ; Sir. 38, 6, etc. ; au pass</i>. SPT. <i>Ex. 14, 4</i> ; NT. <i>2Thess. 1, 10 et 12</i>.`

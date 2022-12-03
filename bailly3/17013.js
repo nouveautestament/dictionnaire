@@ -1,1 +1,0 @@
-lar[17013]=`<b>ωνος (ὁ)</b> Attaliôn, <i>médecin,</i> ORIB.`

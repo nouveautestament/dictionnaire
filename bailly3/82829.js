@@ -1,1 +1,0 @@
-lar[82829]=`<b>ακος (ὁ)</b> Porpax :<br><b>      1</b> <i>fl. près de Ségeste, en Sicile,</i> EL. <i>V.H. 2, 33</i>.<br><b>      2</b> <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

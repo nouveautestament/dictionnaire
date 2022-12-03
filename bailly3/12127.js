@@ -1,1 +1,0 @@
-lar[12127]=`<b>ἀπο·βιβάζω</b>, <i>f. att</i>. -βιβῶ <font color="purple">[ῐ]</font> faire descendre, faire débarquer : τινά, THC. <i>6, 97,</i> qqn ; ἐς νησῖδα, HDT. <i>8, 76</i> ; ἐς τὴν Τάναγραν, THC. <i>7, 29,</i> dans une petite île, à Tanagra.<br><b><i>Moy.</i></b> faire descendre : ἀπὸ τῶν νεῶν, HDT. <i>9, 32,</i> faire débarquer (des troupes).`

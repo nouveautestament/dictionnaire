@@ -1,1 +1,0 @@
-lar[85949]=`<b>προσ·καταλαλέω-ῶ</b> <font color="purple">[λᾰ]</font> fatiguer de son bavardage, AR. <i>Nub. arg</i>.`

@@ -1,1 +1,0 @@
-lar[44705]=`<i>opt. prés. act. de</i> ζάω.`

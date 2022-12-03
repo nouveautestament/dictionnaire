@@ -1,1 +1,0 @@
-lar[49444]=`<b>ἱππ·ουρεύς, έως (ὁ)</b> sorte de poisson de mer, HICÉS. (ATH. <i>504c</i>).<p><b>Étym</b>. ἵ. οὐρά, <i>cf</i>. ἵππουρος.`

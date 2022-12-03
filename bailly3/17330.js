@@ -1,1 +1,0 @@
-lar[17330]=`<b>ας (ἡ)</b> qualité de ce qui se suffit à soi-même <i>ou</i> état de celui qui se suffit à lui-même <i>ou</i> fait qqe ch. par lui-même, PLAT. <i>Phil. 67a ;</i> ARSTT. <i>Nic. 1, 7, 5, etc</i>.<p>➳ <i>Ion</i>. αὐταρκίη, ARÉT. <i>73, 61</i>.<p><b>Étym</b>. αὐτάρκης.`

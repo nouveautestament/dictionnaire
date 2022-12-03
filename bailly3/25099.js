@@ -1,1 +1,0 @@
-lar[25099]=`<b>δι·αναβάλλομαι</b>, remettre sans cesse, différer continuellement, CHRYS. <i>1, 181</i>.`

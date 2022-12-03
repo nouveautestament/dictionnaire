@@ -1,1 +1,0 @@
-lar[39411]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec soin, HDT. <i>1, 108 ; 4, 139</i>.<p><b>Étym</b>. <i>ion. c</i>. ἐπιτηδείως ; <i>cf</i>. ἐπιτήδεος <i>et</i> ἐπιτήδειος.`

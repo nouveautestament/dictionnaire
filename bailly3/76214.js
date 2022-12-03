@@ -1,1 +1,0 @@
-lar[76214]=`<b>παρα·σκοπέω-ῶ :<br>      1</b> regarder à côté de, <i>càd</i>. voir de travers, mal comprendre, <i>gén</i>. ESCHL. <i>Ag. 1252</i>.<br><b>      2</b> regarder de côté, jeter les yeux de côté sur, PLAT. <i>Conv. 221b</i>.`

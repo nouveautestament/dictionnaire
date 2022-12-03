@@ -1,1 +1,0 @@
-lar[29427]=`<b>ἐγερσί·χορος, ος, ον</b> <font color="purple">[ῐ]</font> qui excite les chœurs, OPP. <i>C. 4, 236</i>.<p><b>Étym</b>. ἐγείρω, χορός.`

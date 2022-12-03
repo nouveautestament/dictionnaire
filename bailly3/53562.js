@@ -1,1 +1,0 @@
-lar[53562]=`<b>κατα·τοιχογραφέω-ῶ</b> <font color="purple">[ᾰφ]</font> afficher <i>ou</i> écrire des placards injurieux, STR. <i>674</i>.`

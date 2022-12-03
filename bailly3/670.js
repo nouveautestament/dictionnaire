@@ -1,1 +1,0 @@
-lar[670]=`<b>ων (τὰ)</b> <i>s.-e</i>. σχοινιά <i>ou</i> πείσματα, cordages <i>ou</i> chaînes qui retiennent l’ancre, DS. <i>14, 73</i>.<p><b>Étym</b>. ἄγκυρα ; <i>ne pas confondre avec le pl. de</i> ἀγκύριον.`

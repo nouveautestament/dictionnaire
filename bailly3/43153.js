@@ -1,1 +1,0 @@
-lar[43153]=`<b>εὐ·ραθάμιγξ, ιγγος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font> aux pluies abondantes <i>ou</i> fortes, NONN. <i>D. 5, 258</i>.<p><b>Étym</b>. εὖ, ῥαθάμιγξ.`

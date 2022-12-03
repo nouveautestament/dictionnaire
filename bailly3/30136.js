@@ -1,1 +1,0 @@
-lar[30136]=`<b>ἐθέλ·εχθρος, ος, ον</b>, qui cherche querelle, malveillant, CRAT. (POLL. <i>3, 64</i>) ; PHIL. <i>2, 269</i>.<p><b>Étym</b>. ἐθέλω, ἐχθρός.`

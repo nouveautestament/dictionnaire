@@ -1,1 +1,0 @@
-lar[22890]=`<b>γωνιο·ειδής, ής, ές</b>, en forme d’angle, angulaire, TH. <i>H.P. 1, 10, 1</i>.<p><b>Étym</b>. γωνία, εἶδος.`

@@ -1,1 +1,0 @@
-lar[14107]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρ]</font><br><b>      1</b> bruit d’un corps que l’on frappe, choc bruyant (de tambours), EUR. <i>Cycl. 202</i>.<br><b>      2</b> <i>c</i>. κάταγμα, SOR. <i>Fract. p. 48, 2 Cocch</i>.<p><b>Étym</b>. ἀράσσω.`

@@ -1,1 +1,0 @@
-lar[108209]=`<b>ή, όν</b>, habile à soumettre, à subjuguer, PLAT. <i>Pol. 219d ;</i> ἡ χειρωτική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 221b, 223b</i>, l’art de soumettre.<p><b>Étym</b>. χειρόω.`

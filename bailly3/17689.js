@@ -1,1 +1,0 @@
-lar[17689]=`<b>αὐτό·σκευος, ος, ον</b>, qui se fait de soi-même, <i>càd</i>. sans préparation, sans art, naturel, ARISTÉN. <i>2, 21</i>.<p><b>Étym</b>. αὐ. σκευή.`

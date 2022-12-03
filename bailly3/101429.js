@@ -1,1 +1,0 @@
-lar[101429]=`<b>ὑγρό·φθογγος, ος, ον</b>, qui fait des glouglous, <i>en parl. d’une bouteille dont on verse le liquide,</i> ANTH. <i>6, 248</i>.<p><b>Étym</b>. ὑ. φθέγγω.`

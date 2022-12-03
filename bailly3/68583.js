@@ -1,1 +1,0 @@
-lar[68583]=`<b>ητος (ἡ) :<br>      1</b> première enfance, PLAT. <i>Leg. 808e ;</i> ARSTT. <i>Probl. 10, 50</i>.<br><b>      2</b> enfantillage, puérilité, LUC. <i>Halc. 3</i>.<p><b>Étym</b>. νήπιος.`

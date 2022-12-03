@@ -1,1 +1,0 @@
-lar[8344]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> Anémôreia, <i>v. de Phocide, près de Delphes,</i> IL. <i>2, 521</i>.`

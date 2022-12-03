@@ -1,1 +1,0 @@
-lar[24569]=`<b>δια·δοξάζω</b> (<i>seul. prés</i>.) décider, être d’avis, PLAT. <i>Phil. 38b</i>.`

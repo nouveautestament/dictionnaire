@@ -1,1 +1,0 @@
-lar[19177]=`<b>βαρύ·νωτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à la lourde <i>ou</i> dure coquille, <i>en parl. de l’huître,</i> EMPÉD. (PLUT. <i>M. 618b</i>).<p><b>Étym</b>. β. νῶτος.`

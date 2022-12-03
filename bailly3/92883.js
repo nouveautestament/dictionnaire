@@ -1,1 +1,0 @@
-lar[92883]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> méchant petit général, CIC. <i>Att. 16, 15, 3</i>.<p><b>Étym</b>. στρατός.`

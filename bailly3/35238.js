@@ -1,1 +1,0 @@
-lar[35238]=`<i>forme non att. pour</i> ἑξ- <i>dans certains composés</i> (ἑξάβιβλος, ἑξάβραχυς, ἑξαδάκτυλος, <i>etc.) sur le modèle de</i> ἑξάκις, ἑξακόσιοι, <i>v. Meisterh. p. 125, 4</i>.`

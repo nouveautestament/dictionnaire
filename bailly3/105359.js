@@ -1,1 +1,0 @@
-lar[105359]=`<b>ή, όν</b>, enviable, CLÉM. <i>832</i>.<p><b>Étym</b>. <i>vb. de</i> φθονέω.`

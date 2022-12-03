@@ -1,1 +1,0 @@
-lar[89952]=`<b>σημειοσκοπέω-ῶ</b>, observer les présages, SYMM. <i>Deut. 18, 10</i>.<p><b>Étym</b>. σημειοσκόπος.`

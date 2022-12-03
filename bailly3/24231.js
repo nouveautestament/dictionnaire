@@ -1,1 +1,0 @@
-lar[24231]=`<i>adv</i>., en artiste, en maître, AR. <i>Pax 429</i>.`

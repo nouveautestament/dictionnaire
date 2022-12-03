@@ -1,1 +1,0 @@
-lar[16803]=`<b>ἀ·τίθηνος, ος, ον</b> <font color="purple">[ῐ]</font> sans nourrice, MAN. <i>4, 368</i>.<p><b>Étym</b>. ἀ, τιθήνη.`

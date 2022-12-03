@@ -1,1 +1,0 @@
-lar[97122]=`<i>adv</i>., comme dans les écoles, dans le style de l’école, SEXT. <i>M. 8, 13</i>.`

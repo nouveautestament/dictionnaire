@@ -1,1 +1,0 @@
-lar[44750]=`<b>ζωο·δότης, ου</b>, <i>adj. m</i>. qui donne la vie, THÉM. <i>198b</i>.<p><b>Étym</b>. ζωή, δίδωμι.`

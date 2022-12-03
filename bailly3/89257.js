@@ -1,1 +1,0 @@
-lar[89257]=`<b>ου (ὁ)</b> Samippos, <i>Arcadien,</i> LUC. <i>Nav. 1</i>.`

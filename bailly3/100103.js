@@ -1,1 +1,0 @@
-lar[100103]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> trentième, PD. <i>O. 8, 87</i> ; HDT. <i>4, 44 ; 5, 89</i> ; HPC. <i>Aph. 1250</i> ; XÉN. <i>Cyr. 5, 3, 6 ; 8, 4, 27</i> ; ἡ τριακοστή (<i>s.-e</i>. μερίς) DÉM. <i>467, 2,</i> l’impôt du trentième.<p>➳ <i>Ion</i>. τριηκοστός, HDT. <i>ll. cc</i>.<p><b>Étym</b>. τριάκοντα.`

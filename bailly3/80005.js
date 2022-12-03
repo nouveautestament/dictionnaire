@@ -1,1 +1,0 @@
-lar[80005]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Pégase, AR. <i>Pax 76</i>.<p><b>Étym</b>. Πήγασος.`

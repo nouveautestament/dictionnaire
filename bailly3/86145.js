@@ -1,1 +1,0 @@
-lar[86145]=`<i>inf. ao.2 de l’inus</i>. προσβλώσκω, venir vers, <i>acc</i>. SOPH. <i>Aj. 721 ; abs</i>. SOPH. <i>Aj. 72, Tr. 1109</i>.`

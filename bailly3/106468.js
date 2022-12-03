@@ -1,1 +1,0 @@
-lar[106468]=`<b>φλυκταινο·ειδής, ής, ές</b>, qui ressemble à une pustule <i>ou</i> à des pustules, HPC. <i>641, 12</i>.<p><b>Étym</b>. φλύκταινα, εἶδος.`

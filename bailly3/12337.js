@@ -1,1 +1,0 @@
-lar[12337]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> fuite, HDT. <i>4, 140</i> ; LUC. <i>D. mort. 27, 9</i>.<br><b>      2</b> action d’esquiver, <i>gén</i>. DÉM. <i>568, 9</i> ; PLUT. <i>M. 641c</i>.<p>➳ <i>Ion</i>. ἀπόδρησις, HDT. <i>l. c</i>.<p><b>Étym</b>. ἀποδιδράσκω.`

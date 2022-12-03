@@ -1,1 +1,0 @@
-lar[101019]=`<b>τυμβο·φόνος, ος, ον</b>, <i>litt</i>. « meurtrier des tombeaux », <i>càd</i>. qui trouble la paix des tombeaux, ANTH. <i>8, 216</i>.<p><b>Étym</b>. τύμβος, πεφνεῖν.`

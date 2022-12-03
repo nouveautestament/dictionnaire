@@ -1,1 +1,0 @@
-lar[69287]=`<b>ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1 <i>intr</i></b>. qui ne sent pas la douleur, PD. <i>N. 8, 50</i>.<br><b>      2 <i>tr</i></b>. qui apaise la douleur, SOPH. <i>Ph. 44</i>.<p><b>Étym</b>. νη-, ὀδύνη.`

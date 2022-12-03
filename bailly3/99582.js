@@ -1,1 +1,0 @@
-lar[99582]=`<b>τοξ·άζομαι</b>, tirer de l’arc, OD. <i>8, 220, 228</i> ; τινος, OD. <i>8, 218 ; 22, 27, ou acc</i>. OPP. <i>C. 4, 54,</i> contre qqn.<p>➳ <i>Fut. épq. 3 sg</i>. τοξάσσεται, OD. <i>22, 27 ; opt. ao. épq. 3 sg</i>. τοξάσσαιτο, OD. <i>22, 78</i>.<p><b>Étym</b>. τόξον.`

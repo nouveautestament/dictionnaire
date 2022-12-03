@@ -1,1 +1,0 @@
-lar[44724]=`<b>ζωμο·ποιός, οῦ (ὁ) :<br>      1</b> qui fait des sauces, PLUT. <i>M. 218c.</i><br><b>      2</b> qui achève une sauce, qui donne du goût à une sauce, DIOSC. <i>4, 83</i>.<p><b>Étym</b>. ζωμός, ποιέω.`

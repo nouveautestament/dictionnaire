@@ -1,1 +1,0 @@
-lar[10484]=`<b>ἀντι·ταράσσω</b> <font color="purple">[τᾰ]</font> troubler à son tour, M. TYR. <i>55, 7</i>.`

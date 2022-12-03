@@ -1,1 +1,0 @@
-lar[95419]=`<b>συν·εκτίκτω</b>, enfanter <i>ou</i> produire en même temps, ARSTT. <i>G.A. 3, 2, 9</i> ; POL. <i>1, 3 (8), 6, etc</i>.`

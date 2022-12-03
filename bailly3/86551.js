@@ -1,1 +1,0 @@
-lar[86551]=`<b>προ·συντάσσομαι</b>, mettre en ligne auparavant, JOS. <i>B.J. 5, 1, 1</i>.`

@@ -1,1 +1,0 @@
-lar[39024]=`<b>ἐπι·σκύνιον, ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> la peau du front au-dessus des sourcils, IL. <i>17, 136</i> ; AR. <i>Ran. 823</i> ; THCR. <i>Idyl. 24, 116</i> ; ANTH. <i>6, 64, etc.</i><br><b>      2</b> <i>fig</i>. orgueil, fierté, ANTH. <i>7, 63 ; ou simpl</i>. gravité, air sévère, POL. <i>26, 5, 6</i>.`

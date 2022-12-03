@@ -1,1 +1,0 @@
-lar[108818]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> passion pour les danses <i>ou</i> les chœurs, A. PL. <i>289</i>.<p><b>Étym</b>. χοροιμανής.`

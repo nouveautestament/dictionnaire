@@ -1,1 +1,0 @@
-lar[55732]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> κλάδος, ANTH. <i>9, 78</i> ; DIOSC. <i>Par. 1, 129</i>.`

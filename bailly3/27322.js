@@ -1,1 +1,0 @@
-lar[27322]=`<b>εως (ἡ)</b> action de dompter, de maîtriser, IL. <i>17, 476</i>.<p><b>Étym</b>. δαμάω.`

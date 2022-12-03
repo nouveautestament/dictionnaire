@@ -1,1 +1,0 @@
-lar[3800]=`<b>ἀκρό·λοφος, ος, ον</b>, au sommet élevé, ANTH. <i>12, 185</i> ; OPP. <i>C. 1, 418</i> ; ὁ ἀ. PLUT. <i>Popl. 22,</i> sommet d’une colline.<p><b>Étym</b>. ἄ. λόφος.`

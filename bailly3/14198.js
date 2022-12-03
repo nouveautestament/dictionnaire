@@ -1,1 +1,0 @@
-lar[14198]=`<b>ων (οἱ)</b> = <i>lat</i>. Arverni, les Arvernes, <i>pple de Gaule,</i> PLUT. <i>Cæs. 26</i>.`

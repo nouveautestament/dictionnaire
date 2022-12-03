@@ -1,1 +1,0 @@
-lar[48347]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. Ἴβηρ², CRAT. (<i>Com. fr. 2, 78</i>).`

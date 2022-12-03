@@ -1,1 +1,0 @@
-lar[93157]=`<b>ης (ἡ)</b> mole, <i>poisson de mer,</i> OPP. <i>H. 1, 129 ; cf</i>. ὕαινα.`

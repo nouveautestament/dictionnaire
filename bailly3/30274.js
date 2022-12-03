@@ -1,1 +1,0 @@
-lar[30274]=`<b>οῦ (ὁ)</b> idolâtre, <i>en parl. de l’empereur Julien, avec jeu de mots sur la terminaison de</i> Ἰουλιανός, NAZ. <i>1, 604a Migne</i>.<p><b>Étym</b>. εἴδωλον.`

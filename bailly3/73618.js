@@ -1,1 +1,0 @@
-lar[73618]=`<b>ου (ὁ)</b> = <i>lat</i>. Volturnus (<i>auj</i>. Volturno) <i>fl. de Campanie,</i> PLUT. <i>Fab. 6</i>.`

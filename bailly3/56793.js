@@ -1,1 +1,0 @@
-lar[56793]=`<b>ου (τὸ) :<br>      1</b> <i>dim. de</i> κόμη, ARR. <i>Epict. 2, 24, 24</i>.<br><b>      2</b> partie du crâne scalpée, PYTHAG. <i>fr. p. 713</i>.<p><b>Étym</b>. κόμη.`

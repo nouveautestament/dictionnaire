@@ -1,1 +1,0 @@
-lar[46677]=`<b>θεο·κόλλητος, ος, ον</b>, fermement attaché (<i>propr</i>. collé) à Dieu, CHRYS. <i>5, 816</i>.<p><b>Étym</b>. θ. κολλάω.`

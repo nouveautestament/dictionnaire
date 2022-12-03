@@ -1,1 +1,0 @@
-lar[55973]=`<i>seul. moy</i>. considérer comme un présage, augurer, SPT. <i>4Reg. 21, 6 ; Deut. 18, 10 ; 2Par. 33, 6</i>.<p><b>Étym</b>. κληδών.`

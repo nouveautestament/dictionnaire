@@ -1,1 +1,0 @@
-lar[63834]=`<b>μελαν·αυγέτις, ιδος</b> <font color="purple">[ᾰ]</font> <i>adj. f. c</i>. v ORPH. <i>Arg. 511 conj</i>.`

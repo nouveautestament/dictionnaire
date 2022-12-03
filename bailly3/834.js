@@ -1,1 +1,0 @@
-lar[834]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰσ]</font> <i>c</i>. ἀγόρασις TÉLÉCL. (POLL. <i>1, 127) ; au plur</i>. DL. <i>2, 78</i>.`

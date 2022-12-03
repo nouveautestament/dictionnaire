@@ -1,1 +1,0 @@
-lar[16325]=`<b>ἀστρολογέω-ῶ</b> <i>f</i>. ήσω, disserter sur les astres, s’occuper d’astronomie, SOSIPATER (ATH. <i>378a</i>) ; TH. POL. ; τὰ ἀστρολογούμενα, CLÉM. traités d’astronomie.<p><b>Étym</b>. ἀστρολόγος.`

@@ -1,1 +1,0 @@
-lar[71125]=`<b>ὁλκαδο·χρίστης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> ouvrier qui goudronne <i>ou</i> peint les vaisseaux de transport, MAN. <i>4, 342</i>.<p><b>Étym</b>. ὁλκάς, χρίω.`

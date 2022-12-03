@@ -1,1 +1,0 @@
-lar[43773]=`<b>ας (ἡ) :<br>      1</b> belle <i>ou</i> forte voix, XÉN. <i>Mem. 3, 3, 13</i> ; ARSTT. <i>Probl. 11, 39</i>.<br><b>      2</b> harmonie, nombre oratoire, DH. <i>Isocr. 3</i> ; PLUT. <i>M. 838e</i>.<p><b>Étym</b>. εὔφωνος.`

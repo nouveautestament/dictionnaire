@@ -1,1 +1,0 @@
-lar[9805]=`<b>έως (ὁ)</b> <font color="purple">[ᾰφ]</font> contrôleur des contributions, ESCHN. <i>57, 23</i> ; DÉM. <i>615, 14</i>.<p><b>Étym</b>. ἀντιγράφω.`

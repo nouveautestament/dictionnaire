@@ -1,1 +1,0 @@
-lar[94970]=`<b>συν·αρμόττω</b>, <i>att. c</i>. συναρμόζω. PLAT. <i>Theæt. 204a, Leg. 729a, etc.</i> ; ARSTT. <i>Metaph. 1, 5, etc</i>.`

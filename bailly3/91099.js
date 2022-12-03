@@ -1,1 +1,0 @@
-lar[91099]=`<b>σκολοπο·ειδής, ής, ές</b>, qui ressemble à un pieu, DIOSC. <i>1, 134</i>.<p><b>Étym</b>. σκ. εἶδος.`

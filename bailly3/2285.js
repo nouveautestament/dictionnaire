@@ -1,1 +1,0 @@
-lar[2285]=`<b>ορος (ὁ)</b> Æglator, <i>h</i>. PLUT. <i>Mul. virt. 19</i>.`

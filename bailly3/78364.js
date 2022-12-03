@@ -1,1 +1,0 @@
-lar[78364]=`<b>περι·ακοντίζω</b> <font color="purple">[ᾰ]</font> assaillir de toutes parts avec des javelots, PLUT. <i>Galb. 26</i>.`

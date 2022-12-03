@@ -1,1 +1,0 @@
-lar[60709]=`<i>adv</i>., entièrement, tout à fait, DYSC. <i>Pron. p. 334</i> ; GAL. <i>Lex. Hipp. 19, 118</i>.`

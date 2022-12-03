@@ -1,1 +1,0 @@
-lar[40046]=`<b>ἑπτ·ήρης, ης, ες</b>, à sept rangs de rameurs, POL. <i>1, 23, 4</i> ; DS. <i>20, 50</i> ; ATH. <i>203d</i>.<p><b>Étym</b>. ἑ. ἐρέσσω.`

@@ -1,1 +1,0 @@
-lar[105397]=`<b>ῶν (αἱ)</b> Fidènes, <i>v. de la Sabine en Italie,</i> PLUT. <i>Rom. 23, 25 ; Popl. 22, etc</i>.`

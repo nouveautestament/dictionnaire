@@ -1,1 +1,0 @@
-lar[64448]=`<b>οῦ (ὁ)</b> place d’honneur, <i>propr</i>. « entre deux assistants », CHRYS. <i>6, 14c</i>.<p><b>Étym</b>. μεσάζω.`

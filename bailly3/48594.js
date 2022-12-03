@@ -1,1 +1,0 @@
-lar[48594]=`<b>ἱερο·κῆρυξ, υκος (ὁ)</b> <font color="purple">[ῡκ]</font> héraut des sacrifices, héraut sacré, DÉM. <i>1371, 16</i> ; HERMIAS (ATH. <i>149e</i>).<p><b>Étym</b>. ἱ. κῆρυξ.`

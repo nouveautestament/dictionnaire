@@ -1,1 +1,0 @@
-lar[13808]=`<b>εως (ἡ) :<br>      1</b> action de se défaire de, PLUT. <i>M. 267f.</i><br><b>      2</b> usage modéré, <i>càd</i>. action de se contenter de, DH. <i>1, 58</i>.<br><b>      3</b> action de mésuser, NT.<p><b>Étym</b>. ἀποχράομαι.`

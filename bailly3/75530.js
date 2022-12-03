@@ -1,1 +1,0 @@
-lar[75530]=`<b>παρα·δοξάζω :<br>      1</b> rendre éclatant, marquer d’une manière extraordinaire, <i>acc</i>. SPT. <i>2Macc. 3, 30 ; particul. en b. part,</i> glorifier, rendre illustre, SPT. <i>Deut. 28, 59</i>.<br><b>      2</b> tracer une ligne de démarcation entre, séparer, diviser, <i>gén</i>. SPT. <i>Ex. 9, 4 ; acc</i>. SPT. <i>Ex. 8, 22</i>.`

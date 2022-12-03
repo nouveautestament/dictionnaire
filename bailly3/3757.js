@@ -1,1 +1,0 @@
-lar[3757]=`<b>ἀκρό·βολος, ος, ον</b>, frappé de loin, <i>en parl. de créneaux,</i> ESCHL. <i>Sept. 158</i>.<p><b>Étym</b>. ἄκρος, βάλλω.`

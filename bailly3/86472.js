@@ -1,1 +1,0 @@
-lar[86472]=`<b>προ·στέλλω :<br>      1</b> envoyer devant, <i>d’où au pass</i>. s’avancer, SOPH. <i>O.C. 20</i>.<br><b>      2</b> couvrir, protéger, <i>acc</i>. THC. <i>5, 71</i>.<br><b><i>Moy.</i></b> envoyer en avant, pousser, exciter, <i>acc</i>. ESCHL. <i>Sept. 415</i>.<p>➳ <i>Ao.2 pass. contr. 2 sg</i>. προὐστάλης, SOPH. <i>O.C. 20</i>.`

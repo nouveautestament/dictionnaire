@@ -1,1 +1,0 @@
-lar[75841]=`<b>ος, ον</b>, ce qu’on peut omettre <i>ou</i> négliger, CHRYSIPP. (ATH. <i>8d</i>).<p><b>Étym</b>. παραλείπω.`

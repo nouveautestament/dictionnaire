@@ -1,1 +1,0 @@
-lar[84078]=`<b>προ·εκκλύζω</b>, laver auparavant, GAL. <i>10, 387</i>.`

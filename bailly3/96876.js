@@ -1,1 +1,0 @@
-lar[96876]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> σφήν, HÉRON <i>Bel. 8</i>.`

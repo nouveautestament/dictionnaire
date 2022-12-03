@@ -1,1 +1,0 @@
-lar[2243]=`<b>έων (οἱ)</b> les Chevriers, <i>l’une des quatre tribus attiques primitives ainsi nommée, selon Hérodote, de</i> Αἰγικορεύς, PLUT. <i>Sol. 23 ; att</i>. οἱ Αἰγικορῆς, EUR. <i>Ion 1581 ; ion</i>. οἱ Αἰγικορέες, HDT. <i>5, 66</i>.<p><b>Étym</b>. αἴξ, κορέννυμι.`

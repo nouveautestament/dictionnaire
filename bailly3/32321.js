@@ -1,1 +1,0 @@
-lar[32321]=`<b>ἐκ·φλεγματόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> se changer en flegme, HPC. <i>Acut. 394</i>.<p><b>Étym</b>. ἐκ, φλέγμα.`

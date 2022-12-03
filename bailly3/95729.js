@@ -1,1 +1,0 @@
-lar[95729]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. συνεργάτης ANTH. <i>7, 295</i>.`

@@ -1,1 +1,0 @@
-lar[28145]=`<b>δυσαίθριος, ος, ον</b> <font color="purple">[ῠ]</font> sombre, EUR. <i>Her. 857</i>.<p><b>Étym</b>. δ. αἰθρία.`

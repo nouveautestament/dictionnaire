@@ -1,1 +1,0 @@
-lar[80007]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Pégase, <i>cheval ailé de Persée,</i> EUR. <i>fr. 308, 309</i> ; AR. <i>Pax 76, etc. ; au plur</i>. HÉS. <i>Th. 281</i> ; PLAT. <i>Phædr. 229e</i>, des Pégases.<p>➳ <i>Dor</i>. Πάγασος <font color="purple">[ᾱᾰ]</font> PD. <i>O. 13, 89 ; I. 7, 64</i>.<p><b>Étym</b>. <i>emprunt à une langue anatolienne</i>.`

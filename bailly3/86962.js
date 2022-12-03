@@ -1,1 +1,0 @@
-lar[86962]=`<b>προ·φθίμενος, η, ον</b> <font color="purple">[ῐ]</font> mort avant, ANTH. <i>7, 184</i>.<p><b>Étym</b>. π. φθίνω.`

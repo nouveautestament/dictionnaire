@@ -1,1 +1,0 @@
-lar[36402]=`<b>ἐπ·αθρέω-ῶ</b> <font color="purple">[ᾰ]</font> considérer, A.RH. <i>4, 497</i> ; Q. SM. <i>1, 111</i>.`

@@ -1,1 +1,0 @@
-lar[88827]=`<b>ή, όν</b>, qu’on peut avaler, STR. <i>709</i> ; DIOSC. <i>5, 124</i>.<p><b>Étym</b>. <i>vb. de</i> ῥοφέω.`

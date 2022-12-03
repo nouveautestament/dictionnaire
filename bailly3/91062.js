@@ -1,1 +1,0 @@
-lar[91062]=`<i>adv.</i> :<br><b>   I</b> <i>au propre</i> : durement (être assis, AR. <i>Eq. 783</i> ; être couché, XÉN. <i>Cyn. 12, 2</i>).<br><b>   II</b> <i>fig.</i> :<br><b>      1</b> avec rudesse, PLAT. <i>Leg. 885d.</i><br><b>      2</b> difficilement, avec peine, EUR. <i>fr. 284, 9</i>.<br><b>      3</b> avec ténacité, PLAT. <i>Leg. 629a</i>.<p><b>Étym</b>. σκληρός.`

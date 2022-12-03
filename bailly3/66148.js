@@ -1,1 +1,0 @@
-lar[66148]=`<b>ου (ὁ)</b> <font color="purple">[νᾱ]</font> Mnaséas, <i>h</i>. DÉM. <i>324, 10</i> ; ARSTT. <i>Pol. 5, 4</i>.<p><b>Étym</b>. μνάομαι.`

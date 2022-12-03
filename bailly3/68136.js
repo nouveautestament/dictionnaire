@@ -1,1 +1,0 @@
-lar[68136]=`<b>νεο·ῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font> de jeune âge, jeune, ORPH. <i>H. 86, 7</i>.<p><b>Étym</b>. ν. ἧλιξ.`

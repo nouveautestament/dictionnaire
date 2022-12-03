@@ -1,1 +1,0 @@
-lar[103299]=`<b>ὑπ·οιμώζω</b>, se lamenter en secret, LUC. <i>M. cond. 27</i>.`

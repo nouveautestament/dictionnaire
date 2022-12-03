@@ -1,1 +1,0 @@
-lar[5554]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> faucille, M. TYR. <i>30 fin</i>.`

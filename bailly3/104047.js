@@ -1,1 +1,0 @@
-lar[104047]=`<b>ος, ον</b>, qui revient, qui est de retour, IL. <i>6, 367, etc.</i> ; OD. <i>20, 332, etc.</i> ; HH. <i>Ap. 476</i>.<p><b>Étym</b>. ὑποτρέπω.`

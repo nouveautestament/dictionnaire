@@ -1,1 +1,0 @@
-lar[26489]=`<b>δικαιο·πρακτικός, ή, όν</b> <font color="purple">[δῐ]</font> capable d’agir avec justice, ORIG. <i>2, 96a, Migne</i>.<p><b>Étym</b>. δ. πράσσω.`

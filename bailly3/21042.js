@@ -1,1 +1,0 @@
-lar[21042]=`<b>βυσ·αύχην, ενος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> qui a le cou enfoncé dans les épaules, AR. (POLL. <i>2, 135) ; p. anal. en parl. d’un oignon,</i> ramassé sur soi-même, XÉNARQ. (ATH. <i>63f</i>).<p><b>Étym</b>. βύω, αὐχήν.`

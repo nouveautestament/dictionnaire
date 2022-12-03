@@ -1,1 +1,0 @@
-lar[94136]=`<b>συμ·παρομαρτέω-ῶ</b>, accompagner <i>ou</i> escorter ensemble, <i>dat</i>. XÉN. <i>Cyr. 1, 6, 24 ; fig</i>. XÉN. <i>Cyr. 8, 7, 7, etc</i>.`

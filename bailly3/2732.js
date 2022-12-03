@@ -1,1 +1,0 @@
-lar[2732]=`<b>αἰολέω-ῶ</b> (<i>seul. prés</i>.) orner de couleurs variées, tacheter, PLAT. <i>Crat. 409a</i>.<p><b>Étym</b>. αἰόλος.`

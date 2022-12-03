@@ -1,1 +1,0 @@
-lar[96638]=`<b>συσ·σεύω</b> (<i>seul. ao</i>. συνέσευα) pousser ensemble <i>ou</i> en même temps, HH. <i>Merc. 94 dout.</i><br><b><i>Moy.</i></b> <font color="darkgreen">(<i>impf. épq</i>. συνεσσευόμην)</font> s’élancer ensemble, ORPH. <i>Arg. 980</i>.`

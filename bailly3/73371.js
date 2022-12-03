@@ -1,1 +1,0 @@
-lar[73371]=`<b>(ὁ)</b> Otaspès, <i>Perse,</i> HDT. <i>7, 63</i>.`

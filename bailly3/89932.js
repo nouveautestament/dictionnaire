@@ -1,1 +1,0 @@
-lar[89932]=`<b>ας (ἡ)</b> enseigne, étendard, PLUT. <i>Cic. 16</i>.<p><b>Étym</b>. σῆμα.`

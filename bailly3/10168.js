@@ -1,1 +1,0 @@
-lar[10168]=`<b>ῆς (ἡ)</b> rapprochement, comparaison, ARSTT. <i>Rhet. 3, 13, 3</i>.<p><b>Étym</b>. ἀντιπαραβάλλω.`

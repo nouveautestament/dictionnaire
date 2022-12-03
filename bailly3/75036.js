@@ -1,1 +1,0 @@
-lar[75036]=`<b>παν·ήμερος, ος, ον :<br>      1</b> qui dure tout le jour ; <i>adv. neutre</i> πανήμερον, HDT. <i>7, 183,</i> toute la journée.<br><b>      2</b> de chaque jour, jour par jour, ESCHL. <i>Pr. 1024</i>.<p>➳ <i>Dor</i>. πανάμερος <font color="purple">[ᾰᾱ]</font> EUR. <i>Hipp. 369</i>.<p><b>Étym</b>. π. ἡμέρα.`

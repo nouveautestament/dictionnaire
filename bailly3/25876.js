@@ -1,1 +1,0 @@
-lar[25876]=`<b>δια·φράσσω</b>, <i>att</i>. <b>-φράττω</b>, séparer par une cloison <i>ou</i> par une barrière, <i>d’où</i> intercepter, fortifier, DS. <i>17, 96 ; 20, 86</i> ; DIOSC. <i>2, 26</i> ; THÉM. <i>235d ;</i> HDN <i>3, 1, 8</i>.<p><i>cf</i>. διαφράγνυμι.`

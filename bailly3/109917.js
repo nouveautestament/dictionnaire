@@ -1,1 +1,0 @@
-lar[109917]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῠ]</font> mensonge, ESCHL. <i>Ag. 478, 1089</i> ; CALL. <i>fr. 184</i>.<p><b>Étym</b>. ψεύδω.`

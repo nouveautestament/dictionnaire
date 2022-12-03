@@ -1,1 +1,0 @@
-lar[29701]=`<b>ἐγ·κοιτάς, άδος</b>, <i>adj. f</i>. qui sert de couche, ANTH. <i>7, 626</i>.<p><b>Étym</b>. ἐν, κοίτη.`

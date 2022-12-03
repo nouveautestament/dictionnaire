@@ -1,1 +1,0 @@
-lar[28238]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> désunion (entre époux) PLUT. <i>Æmil. 5</i>.<p><b>Étym</b>. δυσάρμοστος.`

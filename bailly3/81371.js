@@ -1,1 +1,0 @@
-lar[81371]=`<b>ποικιλ·έρυθρος, ος, ον</b> <font color="purple">[ῐῠ]</font> tacheté de rouge, ARSTT. (ATH. <i>327f</i>).<p><b>Étym</b>. π. ἐρυθρός.`

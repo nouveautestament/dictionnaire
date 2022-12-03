@@ -1,1 +1,0 @@
-lar[75004]=`<b>παν·έσχατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> tout à fait le dernier, A.RH. <i>4, 308</i>.<p><b>Étym</b>. π. ἔσχατος.`

@@ -1,1 +1,0 @@
-lar[21376]=`<b>ων (οἱ)</b> <font color="purple">[ᾰᾰ]</font> les Garamantes, <i>pple de l’intérieur de l’Afrique (auj</i>. le Fezzan), HDT. <i>4, 174, 183, etc.</i> ; LUC. <i>Dips. 2</i> ; DP. <i>217 ; etc</i>.`

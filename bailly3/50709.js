@@ -1,1 +1,0 @@
-lar[50709]=`<b>κακο·δόκιμος, ος, ον</b> <font color="purple">[ᾰῐ]</font> mal famé, décrié, EPICH. (ATH. <i>85d</i>).<p><b>Étym</b>. κ. δόκιμος.`

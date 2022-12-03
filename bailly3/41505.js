@@ -1,1 +1,0 @@
-lar[41505]=`<b>εὐ·άγκαλος, ος, ον</b> <font color="purple">[κᾰ]</font><br><b>      1</b> qu’on porte facilement dans ses bras, EUR. <i>fr. 782 ; fig</i>. facile à supporter, ESCHL. <i>Pr. 350</i>.<br><b>      2</b> agréable à embrasser, LUC. <i>Am. 25</i>.<p><b>Étym</b>. εὖ, ἀγκάλη.`

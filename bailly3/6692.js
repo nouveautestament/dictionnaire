@@ -1,1 +1,0 @@
-lar[6692]=`<b>ἀνα·δέρκομαι</b> <font color="darkgreen">(<i>seul. ao.2, 3 sg</i>. ἀνέδρακεν <font color="purple">[ᾰκ]</font>)</font> regarder en haut, lever les yeux, IL. <i>14, 436</i> ; A.RH. <i>3, 1009</i>.`

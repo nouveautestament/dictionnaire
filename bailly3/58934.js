@@ -1,1 +1,0 @@
-lar[58934]=`<b>αντος (ὁ) :<br>      1</b> Kyrbas, <i>h</i>. NONN. <i>D. 14, 35</i>.<br><b>      2</b> <i>au pl. c</i>. Κορύβαντες, LYC. <i>77</i> ; CALL. <i>Jov. 46</i> ; ORPH. <i>H. 38, 2</i>.<p>➳ <i>Dat. pl. poét</i>. Κυρβάντεσσι, SOPH. (PLUT. <i>Amat. 16</i>).`

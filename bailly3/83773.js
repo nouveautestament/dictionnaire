@@ -1,1 +1,0 @@
-lar[83773]=`<font color="purple">[ᾰ]</font><br><b>      1</b> garder des moutons, APP. <i>Civ. 1, 7</i>.<br><b>      2</b> mener paître des moutons, ANTH. <i>7, 636 ; d’où au pass</i>. être brouté par le bétail, DH. <i>1, 37</i>.<p><b>Étym</b>. πρόβατον.`

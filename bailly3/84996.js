@@ -1,1 +1,0 @@
-lar[84996]=`<b>ος, ον</b>, qui suit un convoi funèbre, NAZ.<p><b>Étym</b>. προπέμπω.`

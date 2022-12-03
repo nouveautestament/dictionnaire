@@ -1,1 +1,0 @@
-lar[96703]=`<b>συ·στοχάζομαι</b>, viser ensemble à, <i>gén</i>. M. ANT. <i>3, 11</i>.`

@@ -1,1 +1,0 @@
-lar[101409]=`<b>ὑγρό·μυρον, ου (τὸ)</b> <font color="purple">[μῠ]</font> parfum <i>ou</i> onguent liquide, AÉT. <i>16, 114</i>.<p><b>Étym</b>. ὑ. μύρον.`

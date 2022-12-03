@@ -1,1 +1,0 @@
-lar[53739]=`<b>κατα·χορηγέω-ῶ :<br>      1</b> dépenser en frais de chorégie, LYS. <i>155, 33</i>.<br><b>      2</b> <i>p. suite,</i> dépenser, gaspiller, <i>acc</i>. DH. <i>3, 72</i> ; PLUT. <i>Lys. 9, M. 348f</i>.`

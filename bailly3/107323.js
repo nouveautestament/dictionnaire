@@ -1,1 +1,0 @@
-lar[107323]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>pass</i>. formé par la nature, naturel, PD. <i>P. 5, 55</i>.<br><b>      2</b> <i>act</i>. qui engendre, fécond, fertile, SPT. <i>Ezech. 17, 5</i>.<p><b>Étym</b>. <i>vb. de</i> φύω.`

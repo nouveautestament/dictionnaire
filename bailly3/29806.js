@@ -1,1 +1,0 @@
-lar[29806]=`<b>ἐγ·κυρέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐνεκύρησα)</font> <font color="purple">[ῠ]</font> tomber sur <i>ou</i> dans, rencontrer, <i>dat</i>. ARCHIL. <i>72</i> ; δυσχωρίαις ἀνεξόδοις, DH. <i>3, 59 (cf</i>. POL. <i>7, 12, 11 ; 8, 1, 5</i>) se trouver engagé dans des difficultés sans issue ; <i>gén</i>. HDT. <i>7, 208</i>.<p><b>Étym</b>. ἐν, κ.`

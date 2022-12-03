@@ -1,1 +1,0 @@
-lar[2931]=`<b>ή, όν</b>, dont on doit rougir, honteux, Ps.-PHOCYL. <i>189 dout</i>.`

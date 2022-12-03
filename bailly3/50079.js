@@ -1,1 +1,0 @@
-lar[50079]=`<b>ύος (ὁ)</b> Ikhthys (<i>auj</i>. Katákolo cap Zanchi) <i>promont. d’Élide,</i> THC. <i>2, 25</i> ; XÉN. <i>Hell. 6, 2, 31</i>.`

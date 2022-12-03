@@ -1,1 +1,0 @@
-lar[101908]=`<b>ὑπ·ακολουθέω-ῶ</b> <font color="purple">[ῠᾰ]</font> suivre de près, <i>dat</i>. XÉN. <i>Hell. 5, 1, 21 (var</i>. ἐπ-) ; ARSTT. <i>H.A. 2, 1, 15 (var</i>. ἐπ-) ; PHIL. <i>1, 224</i>.`

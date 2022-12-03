@@ -1,1 +1,0 @@
-lar[61708]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite colline, coteau, EL. <i>N.A. 16, 15</i>.<p><b>Étym</b>. λόφος.`

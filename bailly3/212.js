@@ -1,1 +1,0 @@
-lar[212]=`<b>ἀ·βρώς, ῶτος (ὁ, ἡ)</b> qui est à jeun, SOPH. <i>fr. 796 (Cobet ; vulg</i>. ἄβρωτος) ; ANTH. <i>9, 764</i>.<p><b>Étym</b>. ἀ, βιβρώσκω.`

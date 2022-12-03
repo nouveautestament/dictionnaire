@@ -1,1 +1,0 @@
-lar[62892]=`<b>οῦ (ὁ)</b> Marakos, <i>h</i>. ARSTT. <i>Probl. 30, 1</i>.`

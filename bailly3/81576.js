@@ -1,1 +1,0 @@
-lar[81576]=`<b>οῦ (ὁ)</b> habile à assiéger les villes, <i>d’où</i> preneur de villes, <i>ou</i> poliorcète, <i>surn. de Dèmétrios, roi de Macédoine,</i> DS. <i>20, 92</i> ; PLUT. <i>Demetr. 42, etc</i>.<p><b>Étym</b>. πολιορκέω.`

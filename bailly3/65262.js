@@ -1,1 +1,0 @@
-lar[65262]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en aucune manière, nullement, ESCHL. <i>Pr. 58</i> ; SOPH. <i>Ph. 789</i>.<p><b>Étym</b>. <i>dat. fém. sg. de</i> μηδαμός.`

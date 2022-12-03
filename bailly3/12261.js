@@ -1,1 +1,0 @@
-lar[12261]=`<b>ἀπο·δερματόω-ῶ</b> <font color="purple">[μᾰ]</font> dépouiller de sa peau, de sa couverture, POL. <i>6, 25, 7</i>.<p><b>Étym</b>. ἀπόδερμα.`

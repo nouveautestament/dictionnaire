@@ -1,1 +1,0 @@
-lar[83510]=`<i>adv</i>., par un libre choix, volontairement, THÉAGÈS (STOB. <i>Ecl. phys. 1, 204</i>).`

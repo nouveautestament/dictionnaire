@@ -1,1 +1,0 @@
-lar[46173]=`<b>θαλασσο·πόρος, ος, ον</b> <font color="purple">[θᾰ]</font> qui traverse la mer, ANTH. <i>6, 27 ; 9, 376</i> ; MUS. <i>2</i>.<p><b>Étym</b>. θ. πορεύομαι.`

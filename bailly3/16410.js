@@ -1,1 +1,0 @@
-lar[16410]=`<b>ἀ·σύγγραφος, ος, ον</b> <font color="purple">[ᾰφ]</font> non convenu par écrit, DS. <i>1, 79</i>.<p><b>Étym</b>. ἀ, συγγραφή.`

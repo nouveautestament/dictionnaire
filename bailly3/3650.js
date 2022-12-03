@@ -1,1 +1,0 @@
-lar[3650]=`<b>ή, όν</b> <font color="purple">[ᾰτ]</font> qui concerne l’intempérance, ARSTT. <i>Rhet. 2, 16</i>.<p><b>Étym</b>. ἀκρατεύομαι.`

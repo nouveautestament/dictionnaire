@@ -1,1 +1,0 @@
-lar[96608]=`<b>συ·σκιρτάω-ῶ</b>, bondir en même temps <i>ou</i> ensemble, EL. <i>N.A. 2, 7</i> ; NONN. <i>D. 8, 28</i>.`

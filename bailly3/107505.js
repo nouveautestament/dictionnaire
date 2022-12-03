@@ -1,1 +1,0 @@
-lar[107505]=`<b>ου (τὸ)</b> <font color="purple">[χᾰ]</font> <i>dim. de</i> χάλαζα II, 2 ; P. ÉG. <i>3, 22 ; 6, 16</i> ; CELS. <i>7, 7</i>.`

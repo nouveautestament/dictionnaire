@@ -1,1 +1,0 @@
-lar[67371]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> sorte d’olivier, NIC. <i>Al. 88</i>.<p><b>Étym</b>. μύρτος.`

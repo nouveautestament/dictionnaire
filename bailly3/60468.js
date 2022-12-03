@@ -1,1 +1,0 @@
-lar[60468]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> cosse, écale, enveloppe d’un fruit, BATR. <i>131</i> ; DIOSC. <i>Par. 1, 95</i>.<p><b>Étym</b>. λέπω.`

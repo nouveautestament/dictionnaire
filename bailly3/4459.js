@@ -1,1 +1,0 @@
-lar[4459]=`<b>ἁλι·ηγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui brise les vagues, OPP. <i>H. 3, 460</i>.<p><b>Étym</b>. ἅλς, ἄγνυμι.`

@@ -1,1 +1,0 @@
-lar[89851]=`<b>ου (ὁ)</b> = <i>lat</i>. Sergius, <i>n. d’h. rom</i>. PLUT. <i>Ant. 9, etc</i>.`

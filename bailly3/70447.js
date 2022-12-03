@@ -1,1 +1,0 @@
-lar[70447]=`<b>οἰκτρο·χοέω-οῶ</b> : φωνήν, AR. <i>Vesp. 555,</i> se répandre en lamentations.<p><b>Étym</b>. οἰκτρός, χοή.`

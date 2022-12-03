@@ -1,1 +1,0 @@
-lar[51923]=`<b>εως (ἡ)</b> action de couper, de rogner, TH. <i>C.P. 4, 8, 5</i>.<p><b>Étym</b>. κείρω.`

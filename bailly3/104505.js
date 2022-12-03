@@ -1,1 +1,0 @@
-lar[104505]=`<b>Ὑψι·κρέων, οντος (ὁ)</b> Hypsikréon, <i>h</i>. ARSTT. <i>fr. 168</i> (PLUT. <i>Mul. virt. 17</i>).`

@@ -1,1 +1,0 @@
-lar[1978]=`<b>ἀ·θέμιστος, ος, ον :<br>      1</b> <i>en parl. de pers</i>. sans loi, sans règle, criminel, IL. <i>9, 63</i> ; OD. <i>9, 106</i> ; XÉN. <i>Cyr. 8, 8, 5</i>.<br><b>      2</b> <i>en parl. de choses,</i> illicite, HDT. <i>8, 143</i> ; XÉN. <i>Mem. 1, 1, 9, etc</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Cyr. 8, 8, 5</i>.<p><b>Étym</b>. ἀ, θέμις.`

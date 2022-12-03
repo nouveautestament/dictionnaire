@@ -1,1 +1,0 @@
-lar[989]=`<b>ῶνος (ὁ)</b> Agrôn, <i>roi de Lydie,</i> HDT. <i>1, 7, etc</i>.`

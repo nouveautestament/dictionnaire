@@ -1,1 +1,0 @@
-lar[22188]=`<b>γλυκύ·φυτον, ου (τὸ)</b> <font color="purple">[ῠῠῠ]</font> réglisse (<i>cf</i>. γλυκύρριζα) DIOSC. <i>3, 5</i>.<p><b>Étym</b>. γλ. φυτόν.`

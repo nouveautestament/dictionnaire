@@ -1,1 +1,0 @@
-lar[1920]=`<b>ου (ὁ) :<br>      1</b> souffle (du vent) IL. <i>15, 626, etc.</i> ; HÉS. <i>O. 623, 677</i>.<br><b>      2</b> <i>poét</i>. le vent, PLAT. <i>Crat. 410b ; au plur</i>. THCR. <i>Idyl. 2, 38 ; 22, 8</i>.<p><b>Étym</b>. ἄημι.`

@@ -1,1 +1,0 @@
-lar[30855]=`<i>anc. att</i>. <b>ἐσοχή, ῆς (ἡ)</b> éloignement d’un objet en peinture, <i>p. opp. à</i> ἐξοχή, <i>au plur</i>. STR. <i>125</i> (ἐσ.) ; SEXT. <i>25</i> (εἰσ-).<p><b>Étym</b>. εἰσέχω.`

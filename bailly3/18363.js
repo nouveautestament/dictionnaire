@@ -1,1 +1,0 @@
-lar[18363]=`<b>ης (ἡ)</b> cerf <i>ou</i> biche de grande espèce, ARSTT. <i>H.A. 9, 5, 8</i>.`

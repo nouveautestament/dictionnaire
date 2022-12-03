@@ -1,1 +1,0 @@
-lar[15117]=`<b>ἀρρενο·κυέω-ῶ</b>, accoucher d’un enfant mâle, STR. <i>206</i>.<p><b>Étym</b>. ἄρρην, κ.`

@@ -1,1 +1,0 @@
-lar[54986]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite pièce de monnaie, PLUT. <i>Cim. 10</i> ; ARR. <i>Epict. 3, 2, 8, etc</i>.<p><b>Étym</b>. <i>dim. de</i> κέρμα.`

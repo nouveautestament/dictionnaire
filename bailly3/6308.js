@@ -1,1 +1,0 @@
-lar[6308]=`<b>ἀμφι·περιφρίσσω</b> (<i>seul. prés</i>.) se hérisser tout autour, OPP. <i>H. 4, 54</i>.`

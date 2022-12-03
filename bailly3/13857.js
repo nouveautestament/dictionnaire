@@ -1,1 +1,0 @@
-lar[13857]=`<font color="purple">[πᾰπ]</font> <i>interj</i>. ah ! ah ! <i>cri de joie,</i> AR. <i>Vesp. 235</i>.`

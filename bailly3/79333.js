@@ -1,1 +1,0 @@
-lar[79333]=`<b>περισσο·παθέω-ῶ</b> <font color="purple">[ᾰ]</font> souffrir à l’excès, CASS. <i>Probl. 15</i>.<p><b>Étym</b>. π. πάθος.`

@@ -1,1 +1,0 @@
-lar[49021]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Inakhos :<br><b>      1</b> <i>héros argien, père d’Iô,</i> ESCHL. <i>Pr. 663</i>.<br><b>      2</b> <i>fl. d’Argolide,</i> ESCHL. <i>fr. 170</i> ; EUR. <i>El. 1</i>.<br><b>      3</b> <i>fl. d’Acarnanie,</i> STR. <i>326, 327</i>.`

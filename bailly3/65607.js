@@ -1,1 +1,0 @@
-lar[65607]=`<b>μηχανο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte <i>ou</i> sert à porter des machines, PLUT. <i>Ant. 38</i>.<p><b>Étym</b>. μ. φέρω.`

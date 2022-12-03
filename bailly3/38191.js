@@ -1,1 +1,0 @@
-lar[38191]=`<b>ἐπι·κρώζω</b>, croasser contre <i>ou</i> sur, AR. <i>Eq. 1051 ; dat</i>. THÉM. <i>61d</i>.`

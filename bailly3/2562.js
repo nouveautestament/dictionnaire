@@ -1,1 +1,0 @@
-lar[2562]=`<b>αἱματο·χυσία, ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> effusion de sang, TAT. <i>Or. ad Græc. 23</i>.<p><b>Étym</b>. αἷ. χέω.`

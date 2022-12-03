@@ -1,1 +1,0 @@
-lar[44170]=`<font color="purple">[ῠ]</font> <i>adv</i>., à Éphyra, <i>avec mouv</i>. CALL. <i>Del. 42</i>.<p><b>Étym</b>. Ἐφύρη, -δε.`

@@ -1,1 +1,0 @@
-lar[45058]=`(<i>seul. prés. et impf</i>.) flotter dans l’air, voltiger, IL. <i>2, 448</i> ; A.RH. <i>2, 1082 ; 3, 68 ; fig</i>. IL. <i>3, 108</i>.<p>➳ <i>3 pl. prés</i>. ἠερέθονται, IL. <i>3, 108, et impf</i>. ἠερέθοντο, IL. <i>2, 448</i> ; A.RH. <i>ll. cc</i>.<p><b>Étym</b>. ἀείρω.`

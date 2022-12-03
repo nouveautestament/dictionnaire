@@ -1,1 +1,0 @@
-lar[110528]=`<i>adv</i>., avec véhémence, avec violence, M. ANT. <i>9, 3</i>.`

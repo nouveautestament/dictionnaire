@@ -1,1 +1,0 @@
-lar[31188]=`<b>ἐκ·διαπρίζω</b> (<i>seul. part. prés</i>.) détacher en sciant, APP. <i>Civ. 4, 20</i>.`

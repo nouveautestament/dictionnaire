@@ -1,1 +1,0 @@
-lar[13491]=`<b>ἀπο·σύρω</b>, enlever en raclant <i>ou</i> en rasant, <i>d’où</i> :<br><b>      1</b> écorcher, déchirer (le visage) THCR. <i>Idyl. 22, 105</i>.<br><b>      2</b> raser (une palissade) THC. <i>7, 43</i> ; racler <i>ou</i> niveler (le sol) POL. <i>34, 10 ; p. ext. avec un rég. de pers</i>. POL. <i>10, 15, 1</i>.`

@@ -1,1 +1,0 @@
-lar[35685]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de six manières, ARSTT. <i>Top. 2, 7, 1</i> ; DC. <i>75, 4</i>.<p><b>Étym</b>. <i>cf</i>. ἑξαχῇ.`

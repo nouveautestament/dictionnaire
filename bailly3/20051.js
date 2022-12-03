@@ -1,1 +1,0 @@
-lar[20051]=`<b>βοηλατέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰ]</font><br><b>      1</b> pousser des bœufs devant soi, LYC. <i>816 ; p. ext</i>. conduire <i>ou</i> garder les bœufs, AR. <i>fr. 598</i>.<br><b>      2</b> aiguillonner les bœufs ; <i>fig</i>. aiguillonner, exciter, SOSITH. (DL. <i>7, 173).</i><p><b>Étym</b>. βοηλάτης.`

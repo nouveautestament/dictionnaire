@@ -1,1 +1,0 @@
-lar[52695]=`<b>κατ·αλγέω-ῶ</b> (<i>pf</i>. κατήλγηκα) ressentir une vive douleur, SOPH. <i>Ph. 368</i> ; POL. <i>3, 80, 4</i>.`

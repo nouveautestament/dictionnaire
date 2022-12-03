@@ -1,1 +1,0 @@
-lar[44999]=`<b>*ἡδυ·μιγής</b>, <i>seul. dor</i>. <b>ἁδυ·μιγής, ής, ές</b> <font color="purple">[ᾱῠῐ]</font> au doux mélange, ANTH. <i>7, 736</i>.<p><b>Étym</b>. ἡ. μίγνυμι.`

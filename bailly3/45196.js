@@ -1,1 +1,0 @@
-lar[45196]=`<i>ou</i> <b>Ἡλίας, ου (ὁ)</b> Élie <i>ou</i> Hélie, <i>prophète hébreu</i>.<p>➳ Ἠλ. ANTH. <i>1, 72, etc.</i> ; Ἡλ. ANTH. <i>8, 49, etc</i>.`

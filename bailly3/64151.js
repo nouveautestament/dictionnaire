@@ -1,1 +1,0 @@
-lar[64151]=`<b>ας (ἡ)</b> aliment rafraîchissant préparé avec du lait aigri, A. TR. <i>7, 5</i>.<p><b>Étym</b>. <i>Mot réc., au lieu du grec</i> ὀξύγαλα, <i>du lat</i>. melca, <i>qui est un emprunt au germanique, cf. all</i>. Milch, Melk, Molke.`

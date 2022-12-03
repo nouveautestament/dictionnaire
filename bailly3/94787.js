@@ -1,1 +1,0 @@
-lar[94787]=`<b>συν·άνειμι</b>, monter <i>ou</i> avancer ensemble, EL. <i>N.A. 6, 63</i>.`

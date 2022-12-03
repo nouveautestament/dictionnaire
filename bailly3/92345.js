@@ -1,1 +1,0 @@
-lar[92345]=`<b>Στεμφυλο·χαίρων (ὁ)</b> <font color="purple">[ῠ]</font> Amateur de marc d’olives <i>ou</i> de raisins, <i>n. de parasite,</i> ALCIPHR. <i>3, 46</i>.<p><b>Étym</b>. στέμφυλον, χαίρω.`

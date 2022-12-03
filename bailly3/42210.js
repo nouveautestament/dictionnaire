@@ -1,1 +1,0 @@
-lar[42210]=`<b>εὔ·θοινος, ος, ον :<br>      1</b> grand mangeur, <i>ép. d’Hèraklès,</i> PLUT. <i>M. 267e.</i><br><b>      2</b> qui consiste en un riche festin, ESCHL. <i>Ch. 257</i>.<p><b>Étym</b>. εὖ, θοίνη.`

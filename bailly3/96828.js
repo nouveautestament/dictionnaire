@@ -1,1 +1,0 @@
-lar[96828]=`<font color="purple">[ᾱ]</font> <i>acc. pl. fém. de</i> σφός.`

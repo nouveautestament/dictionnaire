@@ -1,1 +1,0 @@
-lar[61420]=`<font color="purple">[λῐ]</font> se hâter, AR. <i>Pax 562</i>.`

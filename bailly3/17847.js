@@ -1,1 +1,0 @@
-lar[17847]=`<b>ατος (τὸ)</b> part réservée, <i>d’où</i> :<br><b>      1</b> tribut, SPT. <i>1Macc. 15, 5</i>.<br><b>      2</b> offrande pour un sacrifice, SPT. <i>Ex. 35, 22 ; Num. 18, 27 ; etc.</i> ; JOS. <i>A.J. 14, 10, 12</i>.<p><b>Étym</b>. ἀφαιρέω.`

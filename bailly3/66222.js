@@ -1,1 +1,0 @@
-lar[66222]=`<b>Μνησί·στρατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Mnèsistratos, <i>philosophe,</i> DL. <i>7, 6</i>.<p><b>Étym</b>. μν. στρατός.`

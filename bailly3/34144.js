@@ -1,1 +1,0 @@
-lar[34144]=`<b>ἐνδεσμέω-ῶ</b>, lier dans, empaqueter, DIOSC. <i>4, 43</i> ; AQU. <i>Ex. 23, 22 ; Ps. 6, 8</i>.<p><b>Étym</b>. ἔνδεσμος.`

@@ -1,1 +1,0 @@
-lar[101874]=`<b>έως (ὁ)</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> truelle de maçon, AR. <i>Av. 1149</i>.<br><b>      2</b> chevalet mobile pour les instruments à cordes, NICOM. <i>Harm. p. 18</i> ; JAMBL. <i>Nicom. ar. p. 157d</i>.<p><b>Étym</b>. ὑπάγω.`

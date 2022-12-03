@@ -1,1 +1,0 @@
-lar[81781]=`<b>πολύ·γαλος, ος, ον</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. πολυγάλακτος AÉT. <i>2, 17</i> ; τὸ π. polygale, <i>plante,</i> DIOSC. <i>4, 142</i>.<p><b>Étym</b>. π. γάλα.`

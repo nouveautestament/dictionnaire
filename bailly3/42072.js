@@ -1,1 +1,0 @@
-lar[42072]=`<i>adv</i>., avec une heureuse émulation, ANTH. <i>11, 144</i>.`

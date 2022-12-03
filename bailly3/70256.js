@@ -1,1 +1,0 @@
-lar[70256]=`<b>ίδος (ἡ)</b> (<i>s.-e</i>. γῆ) la terre d’Œaxos, <i>càd</i>. la Crète, A.RH. <i>1, 1131</i>.<p><b>Étym</b>. Ὄαξος.`

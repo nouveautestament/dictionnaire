@@ -1,1 +1,0 @@
-lar[110157]=`<b>η, ον</b> <font color="purple">[ῐῐ]</font> fait avec du basilic, DIOSC. <i>1, 67</i>.<p><b>Étym</b>. ὤκιμον.`

@@ -1,1 +1,0 @@
-lar[9323]=`<b>ἀν·ορροπύγιος, ος, ον</b> <font color="purple">[ῡ]</font> sans croupion <i>ou</i> sans queue, ARSTT. <i>H.A. 4, 2, 8</i>.<p><b>Étym</b>. ἀν-, ὀρροπύγιον.`

@@ -1,1 +1,0 @@
-lar[105419]=`<b>ου (ὁ)</b> <font color="purple">[φῐ]</font> Philagrios, <i>h</i>. ANTH. <i>8, 100</i>.<p><b>Étym</b>. φίλαγρος.`

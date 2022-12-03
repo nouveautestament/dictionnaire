@@ -1,1 +1,0 @@
-lar[60648]=`<b>ή, όν</b>, de Leuctres, PLUT. <i>Pel. 16, 20, etc</i>.<p><b>Étym</b>. Λεῦκτρα.`

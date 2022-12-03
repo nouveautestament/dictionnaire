@@ -1,1 +1,0 @@
-lar[47393]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les thiases, de thiase, <i>ou</i> pour les thiases, ARSTT. <i>Œc. 2, 4, 1</i>.<p><b>Étym</b>. θίασος.`

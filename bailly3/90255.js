@@ -1,1 +1,0 @@
-lar[90255]=`<font color="purple">[ῐ]</font> <i>adv</i>., en forme de courge <i>ou</i> de concombre, <i>en parl. d’une fracture allongée et nette,</i> P. ÉG. <i>6, 89</i> ; SOR. <i>Fract. p. 47 Cocch</i>.<p><b>Étym</b>. σικύα <i>ou</i> σίκυος, -δον.`

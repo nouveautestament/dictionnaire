@@ -1,1 +1,0 @@
-lar[21561]=`<b>ής, ές</b> <font color="purple">[ᾱ]</font> riant, joyeux (cœur), PD. <i>O. 5, 2 ; P. 4, 181</i>.<p><b>Étym</b>. γελάω.`

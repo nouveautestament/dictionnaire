@@ -1,1 +1,0 @@
-lar[13488]=`<b>ἀπο·συριγγόω-ῶ</b> <font color="purple">[ῡ]</font> creuser en forme de flûte, rendre fistuleux, HPC. <i>280, 3</i>.<p><b>Étym</b>. ἀ. σῦριγξ.`

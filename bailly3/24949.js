@@ -1,1 +1,0 @@
-lar[24949]=`<b>ατος (τὸ) :<br>      1</b> objet donné en échange <i>ou</i> substitué (à un autre) EUR. <i>Hel. 586</i>.<br><b>      2</b> différence, DH. <i>7, 64</i>.<p><b>Étym</b>. διαλλάσσω.`

@@ -1,1 +1,0 @@
-lar[2741]=`<i>adv</i>., en dialecte éolien, E. BYZ. <i>v°</i> Μυσία ; SEXT. <i>616, 27 Bkk</i>.`

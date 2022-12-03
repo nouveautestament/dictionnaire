@@ -1,1 +1,0 @@
-lar[32660]=`<b>ἑλειο·σέλινον, ου (τὸ)</b> <font color="purple">[λῑ]</font> ache de marais <i>ou</i> céleri (<i>Apium graveolens</i> L.) <i>plante,</i> TH. <i>H.P. 7, 6, 3</i> ; DIOSC. <i>3, 75</i>.<p><b>Étym</b>. ἕλειος, σέλινον.`

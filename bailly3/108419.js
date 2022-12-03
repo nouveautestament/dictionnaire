@@ -1,1 +1,0 @@
-lar[108419]=`<b>χθονο·τρεφής, ής, ές</b>, nourri par la terre, né de la terre, ESCHL. <i>Ag. 1407</i>.<p><b>Étym</b>. χθ. τρέφω.`

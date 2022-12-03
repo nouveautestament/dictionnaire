@@ -1,1 +1,0 @@
-lar[3658]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱτ]</font> déjeuner, ARSTT. <i>H.A. 6, 8, 3</i> ; ATH. <i>11d</i>.<p><b>Étym</b>. ἀκρατίζομαι.`

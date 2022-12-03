@@ -1,1 +1,0 @@
-lar[65672]=`<b>ου (ὁ)</b> Mithros, <i>c</i>. Μίθρης, PLUT. <i>Adv. Epic. 15</i>.`

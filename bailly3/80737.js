@@ -1,1 +1,0 @@
-lar[80737]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> dont on peut s’approcher, ESCHL. <i>Eum. 53 conj</i>.<p><b>Étym</b>. <i>vb. de</i> πελάω.`

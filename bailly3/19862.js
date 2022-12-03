@@ -1,1 +1,0 @@
-lar[19862]=`<b>ή, όν</b>, nuisible, malfaisant, ARR. <i>Epict. 3, 23, 4</i> ; PHIL. <i>1, 14</i> ; βλ. τινος, STR. <i>707,</i> nuisible à qqn.<p><b>Étym</b>. βλάπτω.`

@@ -1,1 +1,0 @@
-lar[102807]=`<b>ὑπερ·στρώννυμι</b>, étendre par-dessus, envelopper, OLYMPIOD.`

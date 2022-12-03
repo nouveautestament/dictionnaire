@@ -1,1 +1,0 @@
-lar[96092]=`<b>συν·ογκάομαι-ῶμαι</b>, braire ensemble, ARR. <i>Epict. 2, 24, 18</i>.`

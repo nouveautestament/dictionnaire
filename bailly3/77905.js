@@ -1,1 +1,0 @@
-lar[77905]=`être pauvre, indigent, PHOCYL. <i>26 ; avec le gén</i>. EMPÉD. <i>309 Mullach,</i> manquer de.<p><b>Étym</b>. πένης.`

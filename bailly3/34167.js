@@ -1,1 +1,0 @@
-lar[34167]=`<b>ἐν·διαιτάομαι-ῶμαι</b>, vivre <i>ou</i> habiter dans, XÉN. <i>Mem. 3, 8, 8 ; avec</i> ἐν <i>et le dat</i>. HDT. <i>8, 41 ; fig</i>. PLUT. <i>M. 608e</i>.<p>➳ <i>Ion</i>. -έομαι, HDT. <i>l. c</i>.`

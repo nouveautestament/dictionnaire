@@ -1,1 +1,0 @@
-lar[64368]=`<b>ου (ὁ)</b> Maharbal, <i>n. d’h. Phénicien ou Carthaginois,</i> HDT. <i>7, 98</i>.`

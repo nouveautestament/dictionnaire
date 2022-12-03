@@ -1,1 +1,0 @@
-lar[60877]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de brigand <i>ou</i> de pirate : ναῦς λῃστρίς, DÉM. <i>1237, 10 ; 1432, 8 ; ou simpl</i>. λῃστρίς, DS. <i>16, 5 et 82</i> ; PLUT. <i>Pomp. 24,</i> navire de pirate ; λ. γυνή, PLUT. <i>Thes. 9,</i> voleuse, femme vivant de brigandage.<p><b>Étym</b>. <i>contr. de</i> *ληϊστρίς, <i>de</i> ληΐζομαι.`

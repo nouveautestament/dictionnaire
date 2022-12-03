@@ -1,1 +1,0 @@
-lar[84528]=`<b>προ·κατέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> -κατῆλθον)</font> revenir auparavant, HDN <i>1, 10, 15</i>.`

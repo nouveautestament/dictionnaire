@@ -1,1 +1,0 @@
-lar[11705]=`<b>εως (ἡ)</b> exil d’un an, <i>d’où abs</i>. exil, PLAT. <i>Leg. 868d</i>.<p><b>Étym</b>. ἀπενιαυτέω.`

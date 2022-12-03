@@ -1,1 +1,0 @@
-lar[11931]=`<i>adv.</i> :<br><b>      1</b> conséquemment à, <i>dat</i>. PLUT. <i>M. 105e.</i><br><b>      2</b> séparément, M. ANT. <i>4, 45</i>.<p><b>Étym</b>. ἀπαρτάω.`

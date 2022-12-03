@@ -1,1 +1,0 @@
-lar[73364]=`<i>ou mieux</i> <b>ὠσχοφορικός, ή, όν</b>, qui concerne la fête des oskhophories ATH. <i>631b</i>.<p><b>Étym</b>. ὀσχοφόρος.`

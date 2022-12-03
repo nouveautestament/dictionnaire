@@ -1,1 +1,0 @@
-lar[103202]=`<b>ὑποδρομέω-ῶ</b> (<i>pf. 3 sg. dor</i>. ὑποδεδρόμακεν <font color="purple">[ᾱ]</font>) <i>c</i>. ὑποτρέχω, <i>avec l’acc</i>. SAPPH. <i>2, 10</i>.`

@@ -1,1 +1,0 @@
-lar[90526]=`<b>σιτο·δότης, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui distribue du blé, MAN. <i>5, 308</i>.<p><b>Étym</b>. σῖτος, δίδωμι.`

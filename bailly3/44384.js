@@ -1,1 +1,0 @@
-lar[44384]=`<b>ζά·κοτος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait irrité, furieux, IL. <i>3, 220</i> ; PD. <i>N. 6, 91</i> ; THCR. <i>Idyl. 25, 83</i>.<p><b>Étym</b>. ζα-, κότος.`

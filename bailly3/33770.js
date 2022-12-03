@@ -1,1 +1,0 @@
-lar[33770]=`<b>ἐν·αγείρω</b> <font color="purple">[ᾰ]</font> assembler dans, <i>dat</i>. NIC. <i>Th. 945</i>.<br><b><i>Moy.</i></b> se rassembler dans, A.RH. <i>3, 347</i>.<p>➳ <i>Part. ao.2 pass. poét</i>. ἐναγρόμενος, OPP. <i>H. 2, 351</i>.`

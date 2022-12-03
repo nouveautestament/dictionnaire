@@ -1,1 +1,0 @@
-lar[102126]=`<b>ὑπ·εκπέμπω</b>, envoyer secrètement au dehors, THC. <i>4, 8 ; gén</i>. τινὰ χθονός, EUR. <i>Hec. 6,</i> qqn hors d’un pays ; <i>cf</i>. EUR. <i>Andr. 47 ; au pass</i>. être envoyé secrètement vers <i>ou</i> dans, <i>acc</i>. SOPH. <i>El. 1350</i>.`

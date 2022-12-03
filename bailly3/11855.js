@@ -1,1 +1,0 @@
-lar[11855]=`<b>ἀπ·ευφημέω-ῶ</b>, prononcer des paroles de mauvais augure, PHILSTR. <i>202, 286</i>.`

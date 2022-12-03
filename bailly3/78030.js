@@ -1,1 +1,0 @@
-lar[78030]=`<b>πεντά·πορος, ος, ον</b> <font color="purple">[ᾰ]</font> à cinq ouvertures <i>ou</i> issues, DP. <i>301</i>.<p><b>Étym</b>. π. πόρος.`

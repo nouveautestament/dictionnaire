@@ -1,1 +1,0 @@
-lar[15727]=`<i>lac. acc. pl. de</i> Ἀθηναῖος <font color="purple">[σᾱ]</font> AR. <i>Lys</i>. 170, 1244, 1250.`

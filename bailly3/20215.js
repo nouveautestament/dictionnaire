@@ -1,1 +1,0 @@
-lar[20215]=`<b>ου (ὁ)</b> fils de Borée ; <i>au plur</i>. οἱ βορεάδαι, les enfants de Borée, <i>càd</i>. Zétès et Kalaïs, ALEX. (ATH. <i>244e</i>) ; DS. <i>4, 44</i>.<p><b>Étym</b>. βορέας.`

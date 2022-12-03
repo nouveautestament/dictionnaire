@@ -1,1 +1,0 @@
-lar[110177]=`<b>Ὠκύ·θοος, όου (ὁ)</b> <font color="purple">[ῠ]</font> Ôkythoos :<br><b>      1</b> <i>Corybante,</i> NONN. <i>D. 13, 144, etc.</i><br><b>      2</b> <i>Lycien,</i> Q. SM. <i>3, 230</i>.<p>➳ <i>Gén. épq</i>. Ὠχυθόοιο, NONN. <i>D. 37, 629</i>.<p><b>Étym</b>. <i>v</i>. ὠκύθοος.`

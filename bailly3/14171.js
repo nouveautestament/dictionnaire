@@ -1,1 +1,0 @@
-lar[14171]=`<b>Ἀράτου τεῖχος (τὸ)</b> le mur d’Aratos, <i>lieu de la Chersonèse de Thrace,</i> ANTH. <i>App. 187</i>.`

@@ -1,1 +1,0 @@
-lar[27226]=`<b>διχό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> discordant, <i>càd</i>. voué à la discorde (par les malédictions paternelles) ESCHL. <i>Sept. 899</i>.<p><b>Étym</b>. δίχα, φρήν.`

@@ -1,1 +1,0 @@
-lar[55812]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> Kléeia, <i>Nymphe,</i> HÉS. <i>fr. 60, 2 Gaisford</i>.`

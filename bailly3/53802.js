@@ -1,1 +1,0 @@
-lar[53802]=`<b>κατά·ψυχρος, ος, ον</b> <font color="purple">[ῡ]</font> très froid, DIOSC. <i>2, 86 ; 5, 176</i> ; GAL. <i>2, 277</i> ; A. APHR. <i>Probl. 2, 55, etc</i>.<p><b>Étym</b>. κ. ψυχρός.`

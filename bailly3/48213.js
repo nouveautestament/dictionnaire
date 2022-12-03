@@ -1,1 +1,0 @@
-lar[48213]=`<b>ος, ον</b>, ïambique, ARSTT. <i>Poet. 4, 10</i>.<p><b>Étym</b>. ἴαμβος.`

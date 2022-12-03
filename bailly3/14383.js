@@ -1,1 +1,0 @@
-lar[14383]=`<b>ῴα, ῷον</b>, d’Argô, ORPH. <i>Arg. 1270</i> ; EUR. <i>Andr. 794, etc.</i> ; Ἀ. λιμήν, A.RH. <i>4, 656,</i> port d’Argô <i>en Œthalie</i>.<p>➳ <i>Fém. épq</i>. -ῴη, A.RH. <i>1, 319, etc</i>.<p><b>Étym</b>. Ἀργώ.`

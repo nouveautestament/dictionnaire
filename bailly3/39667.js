@@ -1,1 +1,0 @@
-lar[39667]=`<b>ος, ον :<br>      1</b> <i>pass</i>. qui est un sujet de joie, ESCHL. <i>Ag. 722</i> ; SOPH. <i>Tr. 1262 ; particul. en mauv. part,</i> qui est l’objet d’une joie maligne, ESCHL. <i>Pr. 158</i> ; THC. <i>3, 67</i> ; PLAT. <i>Ep. 356b.</i><br><b>      2</b> <i>act</i>. qui se réjouit, PHILONID. (POLL. <i>3, 101).</i><p><b>Étym</b>. ἐπιχαίρω.`

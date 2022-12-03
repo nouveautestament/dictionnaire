@@ -1,1 +1,0 @@
-lar[86615]=`<b>προσ·φιλοσοφέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> philosopher en outre sur, <i>seul. chez les écriv. réc.,</i> PLUT. <i>M. 669c.</i><br><b>      2</b> philosopher auprès de <i>ou</i> avec, <i>dat</i>. LUC. <i>Tim. 6</i> ; PHILSTR. <i>556</i> ; τινί τι, LUC. <i>Gall. 11,</i> avec qqe ch. sur qqe ch.`

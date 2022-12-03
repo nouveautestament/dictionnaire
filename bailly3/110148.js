@@ -1,1 +1,0 @@
-lar[110148]=`<b>ίτιδος</b> <font color="purple">[ᾰῑτῐδ]</font> <i>adj. f. c</i>. Ὠκεανίς ANTH. <i>4, 3, 54</i> ; Ὠ. θάλασσα, DH. <i>1, 3,</i> l’Océan ; ἡ Ὠ. (<i>s.-e</i>. γῆ) STR. <i>35,</i> le rivage de l’Océan.<p><b>Étym</b>. Ὠκεανός.`

@@ -1,1 +1,0 @@
-lar[109637]=`<b>ψευδ·άργυρος, ου (ὁ)</b> <font color="purple">[ῠ]</font> zinc (<i>litt</i>. faux argent) <i>métal,</i> STR. <i>610</i>.`

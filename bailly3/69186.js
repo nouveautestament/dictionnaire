@@ -1,1 +1,0 @@
-lar[69186]=`<b>νυκτο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> qui fait une garde de nuit, XÉN. <i>An. 7, 2, 18 ; 7, 3, 34</i> ; LUC. <i>Per. 27, etc. ; en parl. des gardes de nuit, à Rome,</i> JOS. <i>B.J. 4, 11, 4</i>.`

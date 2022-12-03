@@ -1,1 +1,0 @@
-lar[42525]=`<b>εὐ·κρότητος, ος, ον</b>, bien frappé sur l’enclume, bien forgé, SOPH. <i>Ant. 430</i> ; EUR. <i>El. 819</i>.<p><b>Étym</b>. εὖ, κροτέω.`

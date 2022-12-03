@@ -1,1 +1,0 @@
-lar[94920]=`<b>συν·αποστερέω-ῶ</b>, spolier : χρήματα, PLAT. <i>Leg. 948c</i>, une fortune ; τινα τῶν ὄντων, DÉM. <i>864, 16 ; 872, 22,</i> qqn de sa fortune.`

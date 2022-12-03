@@ -1,1 +1,0 @@
-lar[95489]=`<b>συν·εξαιθριάζω</b>, exposer ensemble <i>ou</i> en même temps au grand air, DIOSC. <i>3, 163</i>.`

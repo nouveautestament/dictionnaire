@@ -1,1 +1,0 @@
-lar[54283]=`<i>adv</i>., comme une tige coupée, OPP. <i>C. 2, 511 ; particul. en parl. d’une fracture nette et transversale,</i> GAL. <i>10, 143</i> ; P. ÉG. <i>210, 36</i>.<p><b>Étym</b>. καυλός, -δόν.`

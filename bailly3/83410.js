@@ -1,1 +1,0 @@
-lar[83410]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. de Priam, EUR. <i>Hel. 1158, Or. 1481</i>.<p><b>Étym</b>. Πρίαμος.`

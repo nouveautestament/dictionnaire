@@ -1,1 +1,0 @@
-lar[19127]=`<b>βαρύ·γουνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. βαρυγούνατος CALL. <i>Del. 78</i> ; COL.`

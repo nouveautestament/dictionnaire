@@ -1,1 +1,0 @@
-lar[9898]=`<b>ἀντι·θόωκος, ος, ον</b>, qui siège en face <i>ou</i> en opposition à, NAZ. <i>2, 169</i>.<p><b>Étym</b>. ἀ. θῶκος.`

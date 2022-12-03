@@ -1,1 +1,0 @@
-lar[21276]=`<b>ας (ἡ)</b> Galilée, <i>contrée du N. de la Palestine,</i> NT. <i>Matth. 4, 15</i> ; STR. JOS. <i>etc</i>.`

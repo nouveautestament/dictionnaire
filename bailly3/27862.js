@@ -1,1 +1,0 @@
-lar[27862]=`<b>*δραστήρ</b>, <i>seul. ion</i>. <b>δρηστήρ, ῆρος</b>, <i>adj. m</i>. fugitif, BABR. <i>6, p. 406 Cor</i>.<p><b>Étym</b>. *διδράσκω.`

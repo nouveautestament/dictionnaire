@@ -1,1 +1,0 @@
-lar[5521]=`<b>ἀ·μέτοχος, ος, ον</b>, qui ne participe pas à, <i>gén</i>. PLUT. <i>M. 877f ;</i> RHÉT. (<i>1, 628 W., etc</i>.).<p><b>Étym</b>. ἀ, μετέχω.`

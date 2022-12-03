@@ -1,1 +1,0 @@
-lar[53225]=`<b>κατ·αρκέω-ῶ</b>, suffire largement : τινι, EUR. <i>Rhes. 447,</i> à qqn ; <i>avec un part</i>. HDT. <i>1, 32,</i> suffire à faire qqe ch. ; <i>impers</i>. καταρκεῖ, <i>avec une prop. inf</i>. SOPH. <i>fr. 107,</i> il suffit que, <i>etc</i>.`

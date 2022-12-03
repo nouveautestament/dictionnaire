@@ -1,1 +1,0 @@
-lar[10249]=`<b>ἀντι·περιγράφω</b> <font color="purple">[ᾰφ]</font> décrire du côté opposé, PTOL. <i>Geogr. 8, 1</i>.`

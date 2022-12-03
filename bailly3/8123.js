@@ -1,1 +1,0 @@
-lar[8123]=`<b>ἀνδρο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui mange de la chair humaine, OD. <i>10, 200</i> ; οἱ Ἀνδροφάγοι, HDT. <i>4, 18, 106,</i> les mangeurs de chair humaine, <i>pple du nord de la Scythie</i>.<p><b>Étym</b>. ἀνήρ, φαγεῖν ; <i>cf</i>. ἀνθρωποφάγος.`

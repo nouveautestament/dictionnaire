@@ -1,1 +1,0 @@
-lar[85262]=`<b>προσ·απορέω-ῶ</b>, être en outre dans le doute, ARSTT. <i>Pol. 3, 2, 4</i>.`

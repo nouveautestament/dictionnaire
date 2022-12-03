@@ -1,1 +1,0 @@
-lar[85471]=`<b>προσ·εγκαλέω-ῶ</b> <font color="purple">[ᾰ]</font> accuser en outre, faire en outre des reproches : τινι, PLUT. <i>M. 401b</i>, à qqn ; ὅτι, DS. <i>14, 17 ou</i> ὡς, DC. <i>41, 6,</i> reprocher en outre de <i>ou</i> que, <i>etc. ; abs</i>. ALEX. (ATH. <i>558f</i>) ; DH. <i>7, 46</i>.`

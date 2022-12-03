@@ -1,1 +1,0 @@
-lar[50030]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐῐ]</font> fils d’Iphitos, IL. <i>8, 128</i>.<p><b>Étym</b>. <i>patr. de</i> Ἴφιτος.`

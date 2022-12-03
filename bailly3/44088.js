@@ -1,1 +1,0 @@
-lar[44088]=`<b>ἐφ·ιππεύω :<br>      1</b> attaquer avec de la cavalerie, <i>dat</i>. DS. <i>17, 19</i>.<br><b>      2</b> chevaucher sur, BABR. <i>76, 10 ; p. anal</i>. saillir, couvrir, OPP. <i>C. 1, 390</i>.<p><b>Étym</b>. ἐπί, ἱ.`

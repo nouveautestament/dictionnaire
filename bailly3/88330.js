@@ -1,1 +1,0 @@
-lar[88330]=`<b>ή, όν</b> <font color="purple">[ᾰῐ]</font> cousu, SPT. <i>Ex. 37, 21</i>.<p><b>Étym</b>. <i>vb. de</i> *ῥαφιδεύω <i>de</i> ῥαφίς.`

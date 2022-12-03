@@ -1,1 +1,0 @@
-lar[12065]=`(<i>seul. prés</i>.) agir simplement <i>ou</i> franchement : πρός τινά τι, XÉN. <i>Mem. 4, 2, 18,</i> avec qqn en qqe ch.<p><b>Étym</b>. ἁπλόος.`

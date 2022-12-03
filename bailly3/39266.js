@@ -1,1 +1,0 @@
-lar[39266]=`<b>ἐπί·σφαιρον, ου (τὸ)</b> (<i>seul. plur</i>.) :<br><b>      1</b> sorte de gant de cuir pour la lutte, PLUT. <i>M. 825c.</i><br><b>      2</b> bouton de fleuret, POL. <i>10, 20, 3</i>.<p><b>Étym</b>. ἐπί, σφαῖρα.`

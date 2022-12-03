@@ -1,1 +1,0 @@
-lar[56634]=`<b>ή, όν</b>, collé, soudé, PLAT. <i>Pol. 279e ;</i> ὑποκρητηρίδιον κ. HDT. <i>1, 25,</i> pied d’une coupe soudé à la coupe.<p><b>Étym</b>. <i>vb. de</i> κολλάω.`

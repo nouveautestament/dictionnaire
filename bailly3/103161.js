@@ -1,1 +1,0 @@
-lar[103161]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> propre à assister, à servir, PHIL. <i>2, 94</i>.<p><b>Étym</b>. ὑποδιάκονος.`

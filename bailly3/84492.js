@@ -1,1 +1,0 @@
-lar[84492]=`<b>προ·καταπονέω-ῶ</b>, fatiguer auparavant, ORIB. <i>288 Matthäi</i>.`

@@ -1,1 +1,0 @@
-lar[27967]=`<b>(ὁ)</b> <font color="purple">[ῠᾰδ]</font> le fils de Dryas, <i>càd</i>. Lykourgos, NONN. <i>D. 20, 187</i>.<p><b>Étym</b>. <i>patr. de</i> Δρύας.`

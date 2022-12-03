@@ -1,1 +1,0 @@
-lar[29527]=`<b>ἐγ·κατακρούω :<br>      1</b> heurter parmi : χορείαν ποδί, AR. <i>Ran. 330,</i> frapper le sol en dansant au milieu (des initiés).<br><b>      2</b> enfoncer en frappant : τί τινι, CLÉM. <i>240,</i> une chose dans une autre.<p><b>Étym</b>. ἐν, κ.`

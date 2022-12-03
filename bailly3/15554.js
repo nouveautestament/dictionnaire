@@ -1,1 +1,0 @@
-lar[15554]=`<b>α (ὁ) :<br>      1</b> commandant, chef, EUR. <i>El. 1149</i>.<br><b>      2</b> <i>adj</i>. de chef, de roi, royal, EUR. <i>Her. 753</i>.<p><b>Étym</b>. ἄρχω.`

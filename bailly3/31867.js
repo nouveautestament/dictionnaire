@@ -1,1 +1,0 @@
-lar[31867]=`<b>ἐκ·πλήγνυμι</b> <font color="purple">[ῡ]</font> (<i>seul. inf. pr. pass</i>. ἐκπλήγνυσθαι) <i>c</i>. ἐκπλήσσω, THC. <i>4, 125</i>.`

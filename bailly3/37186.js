@@ -1,1 +1,0 @@
-lar[37186]=`<b>ἐπ·εσχάριος, ος, ον</b> <font color="purple">[ᾰ]</font> qui est sur le foyer <i>ou</i> près du foyer, ANTH. <i>7, 648</i>.<p><b>Étym</b>. ἐπί, ἐσχάρα.`

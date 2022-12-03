@@ -1,1 +1,0 @@
-lar[92419]=`<b>ητος (ἡ)</b> solidité, fermeté, PLAT. <i>Tim. 74e ;</i> ARSTT. <i>P.A. 3, 3, 5</i> ; PLUT. <i>M. 810e</i>.<p><b>Étym</b>. στερεός.`

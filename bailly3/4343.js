@@ -1,1 +1,0 @@
-lar[4343]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> qui agit franchement, HÉRACLITE GRAMM. <i>All. Hom. 67</i>.<p><b>Étym</b>. ἀληθής, ἔργον.`

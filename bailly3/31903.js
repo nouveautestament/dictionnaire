@@ -1,1 +1,0 @@
-lar[31903]=`<b>ἐκ·πολεμέω-ῶ :<br>      1</b> transporter la guerre, THC. <i>6, 91</i>.<br><b>      2</b> exciter à la guerre : τινα πρός τινα, XÉN. <i>Hell. 5, 4, 20,</i> l’un contre l’autre.<br><b>      3</b> partir en guerre contre, <i>acc</i>. POL. <i>15, 6, 6</i>.`

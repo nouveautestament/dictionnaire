@@ -1,1 +1,0 @@
-lar[30167]=`<b>ἐθελό·συχνος, ος, ον</b>, qui redit <i>ou</i> recommence volontiers la même chose, CRATÈS <i>fr. 8</i>.<p><b>Étym</b>. ἐθέλω, συχνός.`

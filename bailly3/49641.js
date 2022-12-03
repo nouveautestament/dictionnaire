@@ -1,1 +1,0 @@
-lar[49641]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> égalité avec les dieux, CHRYS. <i>1, 166, Migne etc</i>.<p><b>Étym</b>. ἰσόθεος.`

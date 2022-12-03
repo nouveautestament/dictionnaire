@@ -1,1 +1,0 @@
-lar[17634]=`<b>αὐτο·πηγή, ῆς (ἡ)</b> la source même, la véritable source, CHRYS.`

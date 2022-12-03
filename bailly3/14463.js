@@ -1,1 +1,0 @@
-lar[14463]=`<b>ου (ὁ)</b> Arétæos (Arétée) :<br><b>      1</b> <i>médecin</i>.<br><b>      2</b> <i>autres,</i> LUC. <i>Tox. 22</i>.<p><b>Étym</b>. ἀρετή.`

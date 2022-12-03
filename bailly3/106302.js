@@ -1,1 +1,0 @@
-lar[106302]=`faire un bruit inarticulé, GAL. <i>Lex. Hipp. 19, 151 ; cf</i>. παφλάζω.`

@@ -1,1 +1,0 @@
-lar[3318]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> sage-femme, HPC. <i>254, 50</i>.<p><b>Étym</b>. ἀκέομαι.`

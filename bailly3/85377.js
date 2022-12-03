@@ -1,1 +1,0 @@
-lar[85377]=`<b>ατος (τὸ)</b> réception, accueil, SOPH. <i>Tr. 628</i>.<p><b>Étym</b>. προσδέχομαι.`

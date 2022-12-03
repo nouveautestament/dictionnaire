@@ -1,1 +1,0 @@
-lar[15454]=`<b>ου</b>, <i>ion</i>. <b>εω (ὁ)</b> Aryandès, <i>Perse,</i> HDT. <i>4, 166</i>.`

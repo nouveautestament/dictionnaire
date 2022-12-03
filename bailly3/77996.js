@@ -1,1 +1,0 @@
-lar[77996]=`<b>πεντά·λιτρος, ος, ον</b> <font color="purple">[ᾰ]</font> du poids de cinq livres, SOSICR. COM. (POLL. <i>4, 173).</i><p><b>Étym</b>. π. λίτρα.`

@@ -1,1 +1,0 @@
-lar[77772]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> taillé en forme de hache, HÉRON (MATH. <i>p. 251).</i><p><b>Étym</b>. *πελεκινόω <i>de</i> πελεκῖνος.`

@@ -1,1 +1,0 @@
-lar[8784]=`<b>ἀνθεμό·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui découle des fleurs, EUR. <i>I.T. 634</i>.<p><b>Étym</b>. ἄ. ῥέω.`

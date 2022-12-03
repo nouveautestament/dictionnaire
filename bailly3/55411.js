@@ -1,1 +1,0 @@
-lar[55411]=`<b>ατος (τὸ)</b> <font color="purple">[ῐθᾰ]</font> son de la cithare, air joué sur la cithare, PLAT. <i>Prot. 326b ;</i> A. TAT. <i>2, 1, etc.</i> ; DC. <i>63, 26</i>.<p><b>Étym</b>. κιθαρίζω.`

@@ -1,1 +1,0 @@
-lar[6468]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Amphrysos :<br><b>      1</b> <i>fl. de Thessalie,</i> A.RH. <i>1, 54</i> ; ORPH. <i>Arg. 190, etc.</i><br><b>      2</b> <i>v. de Phocide</i>.`

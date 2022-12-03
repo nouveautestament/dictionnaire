@@ -1,1 +1,0 @@
-lar[108323]=`<b>χερσόω-ῶ :<br>      1 <i>tr.</i></b> rendre inculte, laisser en friche : γῆ κεχερσωμένη, PLUT. <i>M. 10d</i>, terre en friche.<br><b>      2 <i>intr.</i></b> être inculte, rester en friche, SPT. <i>Prov. 24, 31</i> ; CLÉM. <i>252</i>.<p><b>Étym</b>. χέρσος.`

@@ -1,1 +1,0 @@
-lar[50493]=`<b>καθ·υπηρετέω-ῶ</b>, être au service de, servir, <i>dat</i>. EUM. <i>9, 4</i>.`

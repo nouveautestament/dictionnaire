@@ -1,1 +1,0 @@
-lar[86873]=`<b>προ·ϋπεργάζομαι :<br>      1</b> machiner auparavant, PHIL. <i>1, 168 ; 2, 94</i>.<br><b>      2</b> préparer habilement, <i>acc</i>. DS. <i>3, 16</i>.`

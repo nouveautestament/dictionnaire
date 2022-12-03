@@ -1,1 +1,0 @@
-lar[77566]=`<b>πέζ·αρχος, ου (ὁ)</b> commandant de l’infanterie, XÉN. <i>Cyr. 5, 3, 41</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 88, 8 (376/356 av. J.-C.) ; v. Meisterh. p. 97, § 47</i>.<p><b>Étym</b>. π. ἄρχω.`

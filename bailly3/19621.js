@@ -1,1 +1,0 @@
-lar[19621]=`<b>οῦ (ὁ)</b> seuil d’une maison, <i>d’où</i> maison, demeure, IL. <i>1, 591</i> ; Q. SM. <i>13, 483</i>.<p>➳ <i>Dor</i>. βαλός <font color="purple">[ᾱ]</font> ESCHL. <i>Ch. 571</i>.<p><b>Étym</b>. βαίνω.`

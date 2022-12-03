@@ -1,1 +1,0 @@
-lar[18970]=`<b>ου (ὁ)</b> Baleinos, <i>h</i>. PLUT. <i>Alex. 49</i>.<p><b>Étym</b>. <i>macéd. p</i>. Φάλεινος.`

@@ -1,1 +1,0 @@
-lar[83445]=`<b>ιδος (ἡ)</b> <font color="purple">[ῑ]</font> bétoine (<i>Betonica officinalis</i> L.) <i>plante à feuilles dentelées,</i> ARÉT. <i>Cur. m. acut. 2, 8</i> ; A. TR. <i>9, 531</i>.<p><b>Étym</b>. πρίων.`

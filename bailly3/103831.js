@@ -1,1 +1,0 @@
-lar[103831]=`<b>οῦ (ὁ) :<br>      1</b> action de renverser par un croc-en-jambe, SPT. <i>Prov. 11, 3</i>.<br><b>      2</b> chute produite par un croc-en-jambe, SPT.<p><b>Étym</b>. ὑποσκελίζω.`

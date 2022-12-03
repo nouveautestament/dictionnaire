@@ -1,1 +1,0 @@
-lar[22792]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> de femme, féminin, ARSTT. <i>G.A. 4, 2, 1</i>.<p>•<i> Cp</i>. ώτερος, ARSTT. <i>H.A. 7, 1, 15</i>.<p><b>Étym</b>. γυνή.`

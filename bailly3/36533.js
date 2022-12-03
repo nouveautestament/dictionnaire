@@ -1,1 +1,0 @@
-lar[36533]=`<b>ου</b>, <i>rar</i>. <b>α (ὁ)</b> <font color="purple">[ᾰμ]</font> Épaminondas, <i>général thébain,</i> XÉN. <i>Hell. 7, 1, 29</i> ; PLUT. <i>Ages. 34, Pel. 12, etc</i>.<p>➳ <i>Gén</i>. -α, STR. <i>402</i> ; PLUT. <i>An seni resp. ger. sit 8</i> ; DL. <i>8, 1</i> ; ARSTD. <i>49, 385</i>.<p><b>Étym</b>. <i>patr. de</i> Ἐπαμείνων.`

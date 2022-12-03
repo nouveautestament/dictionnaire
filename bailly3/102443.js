@@ -1,1 +1,0 @@
-lar[102443]=`<b>εως (ἡ)</b> intervention, <i>particul</i>. intercession, NAZ.<p><b>Étym</b>. ὑπερεντυγχάνω.`

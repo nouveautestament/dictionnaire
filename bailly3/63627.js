@@ -1,1 +1,0 @@
-lar[63627]=`<b>ῆς (ἡ)</b> action de tirer en un autre sens, diversion, PLUT. <i>M. 517d ;</i> PHIL. <i>1, 559</i>.<p><b>Étym</b>. μεθέλκω.`

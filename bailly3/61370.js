@@ -1,1 +1,0 @@
-lar[61370]=`<b>λιποτριχέω-ῶ</b>, <i>mieux que</i> <b>λειποτριχέω</b> <font color="purple">[ῐῐ]</font> perdre ses cheveux <i>ou</i> ses poils, GAL. <i>14, 530</i>.<p><b>Étym</b>. λιπότριχος.`

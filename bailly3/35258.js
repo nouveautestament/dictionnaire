@@ -1,1 +1,0 @@
-lar[35258]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui révèle des secrets, PTOL. <i>Tetr. 158</i>.<p><b>Étym</b>. ἐξαγορεύω.`

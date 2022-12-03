@@ -1,1 +1,0 @@
-lar[98992]=`<b>ου (ἡ)</b> Tèmnos (<i>auj</i>. Menemen) <i>v. de Mysie,</i> HDT. <i>1, 149</i> ; XÉN. <i>Hell. 4, 8, 5, etc</i>.`

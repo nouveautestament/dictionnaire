@@ -1,1 +1,0 @@
-lar[213]=`<i>adv.</i> :<br><b>      1</b> avec mollesse, DC. <i>73, 16</i>.<br><b>      2</b> avec délices, EUR. <i>Med. 830</i>.<p>•<i> Cp</i>. -οτέρως, HLD. <i>1, 17</i>.<p><b>Étym</b>. ἁβρός.`

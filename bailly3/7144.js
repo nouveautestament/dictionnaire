@@ -1,1 +1,0 @@
-lar[7144]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾱᾰ]</font> <i>dim. de</i> ἀνάλωμα PHIL. BYZ.`

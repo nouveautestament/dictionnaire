@@ -1,1 +1,0 @@
-lar[88561]=`<b>ῥιζο·φυής, ής, ές :<br>      1</b> qui pousse des racines, TH. <i>C.P. 1, 8, 1</i>.<br><b>      2</b> qui prend racine, TH. <i>H.P. 7, 10, 1</i>.<p><b>Étym</b>. ῥίζα, φύω.`

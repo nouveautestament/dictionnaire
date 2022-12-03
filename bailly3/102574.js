@@ -1,1 +1,0 @@
-lar[102574]=`<b>εως (ἡ)</b> <font color="purple">[κᾰ]</font> purgation excessive, HPC. <i>Aph. 1252 ; cf. 208g ;</i> DIOSC. <i>Alex. 33</i>.<p><b>Étym</b>. ὑπερκαθαίρω.`

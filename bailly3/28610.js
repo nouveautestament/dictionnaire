@@ -1,1 +1,0 @@
-lar[28610]=`<b>δυσ·κράτητος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à vaincre, JOS. <i>A.J. 14, 4, 1</i> ; τὸ δυσκράτητον τῆς ἐπιβολῆς, DS. <i>3, 3,</i> indomptable énergie.<p><b>Étym</b>. δ. κρατέω.`

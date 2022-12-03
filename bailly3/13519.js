@@ -1,1 +1,0 @@
-lar[13519]=`<b>ἀπο·σχεδιάζω :<br>      1</b> faire à peu près, <i>càd</i>. à la hâte, improviser, ARSTT. <i>Nic. 5, 1, 14</i> ; POL. <i>12, 3, 7</i>.<br><b>      2</b> faire aussitôt, sans retard, ATH. <i>125c ;</i> PHILSTR. <i>222</i>.`

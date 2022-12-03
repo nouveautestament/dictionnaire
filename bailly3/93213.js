@@ -1,1 +1,0 @@
-lar[93213]=`<b>συγ·γομφόω-ῶ</b>, clouer ensemble, DS. <i>14, 72</i> ; PLUT. <i>Num. 9, M. 922b ;</i> ARÉT. <i>Caus. m. diut. 1, 6 ; fig</i>. PLUT. <i>Pyrrh. 33</i>.`

@@ -1,1 +1,0 @@
-lar[16266]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰγᾰῑῐδ]</font> sorte d’iris, <i>plante,</i> GAL.<p><b>Étym</b>. ἀστράγαλος.`

@@ -1,1 +1,0 @@
-lar[56427]=`<b>κοιλο·γάστωρ, ορος (ὁ, ἡ) :<br>      1</b> bouclier dont le ventre (<i>càd</i>. le milieu) est concave, ESCHL. <i>Sept. 496</i>.<br><b>      2</b> au ventre creux, <i>càd</i>. affamé, ESCHL. <i>Sept. 1035</i>.<p><b>Étym</b>. κοῖλος, γαστήρ.`

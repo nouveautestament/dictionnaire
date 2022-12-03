@@ -1,1 +1,0 @@
-lar[107608]=`<b>χαλκεό·φωνος, ος, ον</b>, à la voix forte <i>ou</i> retentissante comme l’airain, IL. <i>5, 785</i> ; HÉS. <i>Th. 311</i> ; ANTH. <i>9, 505</i>.<p><b>Étym</b>. χ. φωνή.`

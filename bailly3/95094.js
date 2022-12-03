@@ -1,1 +1,0 @@
-lar[95094]=`<b>συν·διαζάω-ῶ</b>, passer sa vie avec, BAS. <i>4, 353 Migne</i>.`

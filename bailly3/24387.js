@@ -1,1 +1,0 @@
-lar[24387]=`<i>crase éol. p</i>. δὴ αὖτε, SAPPH. (HÉPH. <i>7, 7</i>) ; ANACR. (HÉPH. <i>7, 2, etc</i>.).`

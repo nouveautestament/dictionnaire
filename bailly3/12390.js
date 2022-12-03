@@ -1,1 +1,0 @@
-lar[12390]=`<b>α, ον</b> <font color="purple">[ρᾰ]</font> <i>vb. de</i> ἀποθεραπεύω, SOR. <i>p. 50, 18 Dietz ; 223, 7 Dietz</i>.`

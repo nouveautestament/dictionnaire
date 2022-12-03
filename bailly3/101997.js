@@ -1,1 +1,0 @@
-lar[101997]=`<b>ὑπ·αποψήχω</b> <font color="purple">[ῠᾰ]</font> essuyer légèrement <i>ou</i> peu à peu, EL. <i>N.A. 3, 23</i>.`

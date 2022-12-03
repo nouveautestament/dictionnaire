@@ -1,1 +1,0 @@
-lar[48015]=`<b>θυρεο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à un bouclier long, GAL. <i>2, 839</i>.<p><b>Étym</b>. θυρεός, εἶδος.`

@@ -1,1 +1,0 @@
-lar[107926]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> Kharinos :<br><b>      1</b> <i>danseur comique à Sparte et personnage de la comédie dorienne</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>35, 14 Baiter-Sauppe, etc.</i> ; PLUT. <i>Per. 30, etc</i>.`

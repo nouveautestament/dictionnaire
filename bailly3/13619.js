@@ -1,1 +1,0 @@
-lar[13619]=`<b>ἀπο·τμήγω :<br>      1</b> séparer en coupant, couper : χεῖρας, IL. <i>11, 146</i> ; λαιμόν, IL. <i>18, 34,</i> les mains, la gorge.<br><b>      2</b> <i>fig</i>. τινὰ λαοῦ, πόλιος, IL. <i>10, 364 ; 22, 456,</i> amener (un combattant) à l’écart, loin de l’armée, loin (des murs) de la ville.`

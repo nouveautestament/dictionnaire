@@ -1,1 +1,0 @@
-lar[4269]=`<b>Ἀλεξί·νομος, ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Alexinomos, <i>h</i>. Q. SM. <i>8, 78</i>.<p><b>Étym</b>. ἀ. νόμος.`

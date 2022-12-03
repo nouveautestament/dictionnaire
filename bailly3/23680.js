@@ -1,1 +1,0 @@
-lar[23680]=`<b>ας (ἡ)</b> dizaine, décurie, ARR. <i>Tact. 10</i>.<p><b>Étym</b>. δεκανός.`

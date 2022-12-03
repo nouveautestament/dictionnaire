@@ -1,1 +1,0 @@
-lar[66991]=`<b>α, ον</b> <font color="purple">[ῠᾰ, <i>irrég. dans les vers daclyliques</i> ῡᾰ]</font><br><b>      1</b> humide de, <i>dat</i>. IL. <i>11, 54</i> ; HÉS. <i>Sc. 270</i> ; SOPH. <i>El. 167 ; abs</i>. HÉS. <i>O. 558</i>.<br><b>      2</b> moisi par l’humidité, A.RH. <i>2, 191</i>.<p><b>Étym</b>. μύδος.`

@@ -1,1 +1,0 @@
-lar[18453]=`<b>όνος (ἡ) :<br>      1</b> poids accablant, lourde charge, <i>fig</i>. ESCHL. <i>Pr. 26</i>.<br><b>      2</b> <i>p. suite,</i> souci, chagrin, ennui, THC. <i>2, 37</i> ; PLAT. <i>Leg. 734a ;</i> δι' ἀχθηδόνα, THC. <i>4, 40,</i> pour tourmenter (qqn).<p><b>Étym</b>. ἄχθος ; <i>pour la formation, cf</i>. ἀλγηδών <i>de</i> ἄλγος.`

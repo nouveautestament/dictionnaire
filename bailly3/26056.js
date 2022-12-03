@@ -1,1 +1,0 @@
-lar[26056]=`<b>ητος (ἡ)</b> <font color="purple">[ῐῠ]</font> état de choses naturellement doubles (<i>yeux, mains, etc</i>.) PLAT. <i>Phil. 57d ;</i> GAL. <i>4, 497</i> ; A. QUINT. <i>p. 162</i>.<p><b>Étym</b>. δίδυμος.`

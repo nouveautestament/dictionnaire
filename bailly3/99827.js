@@ -1,1 +1,0 @@
-lar[99827]=`<b>τραγ·άκανθα, ης (ἡ)</b> <font color="purple">[ᾰγᾰ]</font> arbrisseau épineux qui donne la gomme adragante, TH. <i>H.P. 9, 1, 3</i> ; DIOSC. <i>3, 20</i> ; GAL. <i>13, 962</i>.<p><b>Étym</b>. τράγος, ἄκανθα.`

@@ -1,1 +1,0 @@
-lar[56048]=`<font color="purple">[ῑᾰ]</font> <i>adv</i>., par degrés, SYN. <i>48c ;</i> BAS. <i>Ep. 34</i>.<p><b>Étym</b>. κλῖμαξ, -δον.`

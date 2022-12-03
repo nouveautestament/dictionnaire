@@ -1,1 +1,0 @@
-lar[64948]=`<b>ας (ἡ)</b> bavardage dans les nues, <i>càd</i>. sur des questions ardues <i>ou</i> inabordables, PLUT. <i>Per. 5</i> ; DL. <i>5, 43</i>.<p><b>Étym</b>. <i>v</i>. μεταρσιολέσχης.`

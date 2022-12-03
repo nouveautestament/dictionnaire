@@ -1,1 +1,0 @@
-lar[68487]=`<b>ου (ἡ)</b> Nègrétos, <i>n. d’une fontaine imaginaire,</i> LUC. <i>V.H. 2, 33</i>.`

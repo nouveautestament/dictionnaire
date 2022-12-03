@@ -1,1 +1,0 @@
-lar[74031]=`<b>ὀψι·φανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui se montre tardivement, NONN. <i>Jo. 7, 14</i>.<p><b>Étym</b>. ὀψέ, φαίνω.`

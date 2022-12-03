@@ -1,1 +1,0 @@
-lar[85870]=`<b>προσ·θιγγάνω</b> <font color="darkgreen">(<i>f</i>. προσθίξομαι, <i>ao.2</i> προσέθιγον)</font> toucher à, <i>gén</i>. ESCHL. <i>Ch. 1059</i> ; SOPH. <i>O.C. 173, Ph. 9</i> ; EUR. <i>I.A. 339</i>.`

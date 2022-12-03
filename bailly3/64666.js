@@ -1,1 +1,0 @@
-lar[64666]=`<b>ή, όν</b>, changeant, PLUT. <i>M. 718d, etc.</i> ; SEXT. <i>424 Bkk. etc</i>.<p><b>Étym</b>. <i>vb. de</i> μεταβάλλω.`

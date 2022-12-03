@@ -1,1 +1,0 @@
-lar[61267]=`<b>λινό·χλαινος, ος, ον</b> <font color="purple">[ῐ]</font> couvert d’un manteau de lin, NONN. <i>D. 26, 59</i>.<p><b>Étym</b>. λ. χλαῖνα.`

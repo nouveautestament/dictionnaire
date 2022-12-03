@@ -1,1 +1,0 @@
-lar[84733]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> annonce faite d’avance, CHRYS.<p><b>Étym</b>. προμηνύω.`

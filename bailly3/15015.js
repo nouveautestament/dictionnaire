@@ -1,1 +1,0 @@
-lar[15015]=`<b>(ὁ)</b> Arouèris, <i>divinité égyptienne,</i> PLUT. <i>Is. et Os. 12</i>.`

@@ -1,1 +1,0 @@
-lar[89311]=`<b>σανιδ·ώδης, ης, ες</b> <font color="purple">[ᾰῐ]</font> qui ressemble à une planche, ARÉT. <i>Caus. m. diut. 18</i> ; GAL. <i>3, 67</i>.<p><b>Étym</b>. σανίς, -ωδης.`

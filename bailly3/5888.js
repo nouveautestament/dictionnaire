@@ -1,1 +1,0 @@
-lar[5888]=`<b>ου</b> <font color="purple">[ᾰᾰῑ]</font> <i>adj. m</i>. semblable à une amande, PLIN. <i>H.N. 26, 8</i>.<p><b>Étym</b>. ἀμυγδάλη.`

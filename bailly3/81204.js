@@ -1,1 +1,0 @@
-lar[81204]=`<b>εως (ἡ)</b> action de souffler, NAZ.<p><b>Étym</b>. πνέω.`

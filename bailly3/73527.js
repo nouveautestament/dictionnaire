@@ -1,1 +1,0 @@
-lar[73527]=`<b>οντος (ὁ)</b> <font color="purple">[ᾰ]</font> Oukalégôn (Ucalégon) <i>Troyen,</i> IL. <i>3, 148</i>.`

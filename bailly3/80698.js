@@ -1,1 +1,0 @@
-lar[80698]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰᾰ]</font> cliquette, sorte de castagnette, ARSTT. <i>Pol. 8, 6, 1</i> ; A.RH. <i>2, 1056</i> ; DS. <i>4, 13</i> ; PLUT. <i>M. 714e, etc</i>.<p><b>Étym</b>. πλατάσσω.`

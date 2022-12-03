@@ -1,1 +1,0 @@
-lar[57412]=`<b>Κουρῆτις χθών (ἡ)</b> le territoire des Curètes, <i>en Étolie,</i> A.RH. <i>4, 1229</i>.<p><b>Étym</b>. Κουρής².`

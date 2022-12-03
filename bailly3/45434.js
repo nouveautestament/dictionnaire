@@ -1,1 +1,0 @@
-lar[45434]=`<b>ἡμί·θεος, ου (ὁ)</b> <font color="purple">[ῐ]</font> demi-dieu, <i>en parl. des héros,</i> IL. <i>12, 23</i> ; HH. <i>31, 18 ; 32, 19</i> ; HÉS. <i>O. 159 ; joint à</i> ἡρωΐνας, LUC. <i>Nec. 15 ; en parl. des Argonautes,</i> PD. <i>P. 4, 327, 375</i>.<p>➳ <i>Dor</i>. ἁμίθεος <font color="purple">[ᾱ]</font> PD. <i>ll. cc</i>.<p><b>Étym</b>. ἡμι-, θ.`

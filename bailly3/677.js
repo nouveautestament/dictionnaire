@@ -1,1 +1,0 @@
-lar[677]=`<b>ας (ἡ)</b> maintien d’un navire à l’ancre, ESCHL. <i>Suppl. 766</i>.<p><b>Étym</b>. ἄγκ. ἔχω.`

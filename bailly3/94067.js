@@ -1,1 +1,0 @@
-lar[94067]=`<b>συμ·παρακαθίζω</b>, faire asseoir ensemble près de, <i>acc</i>. THÉM. <i>189c.</i><br><b><i>Moy.</i></b> faire asseoir ensemble près de soi, <i>acc</i>. DÉM. <i>840, 9</i>.`

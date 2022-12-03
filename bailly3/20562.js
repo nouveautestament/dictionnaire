@@ -1,1 +1,0 @@
-lar[20562]=`<b>βου·φόνος, ος, ον :<br>      1</b> qui tue <i>ou</i> immole des bœufs, HH. <i>Merc. 436</i> ; SIM. (ATH. <i>456c</i>) ; DS. <i>4, 12</i> ; ὁ β. PAUS. <i>1, 28, 10,</i> sacrificateur chargé d’égorger les bœufs pour le sacrifice, <i>à Athènes</i>.<br><b>      2</b> où l’on immole des bœufs, ESCHL. <i>Pr. 531</i>.<p><b>Étym</b>. βοῦς, φεν- <i>de</i> πεφνεῖν.`

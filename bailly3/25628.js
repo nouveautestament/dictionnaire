@@ -1,1 +1,0 @@
-lar[25628]=`<b>δια·στομόω-ῶ</b> (<i>part. pf. pass</i>. διεστομωμένον) déboucher, ouvrir, ARSTT. <i>H.A. 10, 2, 6</i>.`

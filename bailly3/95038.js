@@ -1,1 +1,0 @@
-lar[95038]=`<b>συν·αφυπνίζομαι</b> <font color="purple">[ᾰῠπν]</font> s’éveiller ensemble, NYSS.`

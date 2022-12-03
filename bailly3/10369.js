@@ -1,1 +1,0 @@
-lar[10369]=`<b>ἀντί·ρρινον, ου (τὸ)</b> <font color="purple">[ρῑ]</font> oronce, <i>plante,</i> TH. <i>H.P. 9, 19, 2</i> ; DIOSC. <i>4, 133</i>.<p><b>Étym</b>. ἀ. ῥίς.`

@@ -1,1 +1,0 @@
-lar[59144]=`<b>κωλυσι·εργέω-ῶ</b> <font color="purple">[ῡ]</font> empêcher de faire qqe ch. POL. <i>6, 15, 5, etc</i>.<p><b>Étym</b>. κ. ἔργον.`

@@ -1,1 +1,0 @@
-lar[37389]=`<i>adv</i>., avec des desseins hostiles, DH. <i>11, 49</i> ; PLUT. <i>M. 715b, 716a ; Pomp. 47, Cato mi. 21</i>.<p><b>Étym</b>. ἐπίβουλος.`

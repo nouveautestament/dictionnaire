@@ -1,1 +1,0 @@
-lar[46275]=`<b>θαμνο·μήκης, ης, ες</b>, de la taille d’un arbrisseau, ION (ATH. <i>451d</i>).<p><b>Étym</b>. θάμνος, μῆκος.`

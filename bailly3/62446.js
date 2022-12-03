@@ -1,1 +1,0 @@
-lar[62446]=`<b>ίτιδος</b> <font color="purple">[ᾰῑῐδ]</font> <i>adj. f</i>. Macédonienne, EL. <i>N.A. 15, 20</i>.<p><b>Étym</b>. Μακεδών.`

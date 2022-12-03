@@ -1,1 +1,0 @@
-lar[15499]=`<b>ἀρχαιο·πρεπής, ής, ές :<br>      1</b> vénérable par son antiquité, ESCHL. <i>Pr. 409</i>.<br><b>      2</b> antique, <i>en gén</i>. PLAT. <i>Soph. 229e</i>.<p>•<i> Sup</i>. -έστατος, DH. <i>Comp. c. 23</i>.<p><b>Étym</b>. ἀ. πρέπω.`

@@ -1,1 +1,0 @@
-lar[21896]=`<b>*γεω·τραγία</b>, <i>seul. ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ᾰγ]</font> action de manger de la terre, HPC. <i>513, 19</i>.<p><b>Étym</b>. γῆ, τραγεῖν.`

@@ -1,1 +1,0 @@
-lar[102499]=`<b>ὑπερ·ήμισυς, υς, υ</b> <font color="purple">[ῐ]</font> plus d’à moitié, plus qu’à demi, HDT. <i>7, 40, 156</i> ; XÉN. <i>An. 6, 2, 10</i>.`

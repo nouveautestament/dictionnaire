@@ -1,1 +1,0 @@
-lar[63692]=`<b>ων (τὰ)</b> (<i>s.-e</i>. ἱερά) offrande expiatoire, ESCHL. <i>Pers. 610</i>.<p><b>Étym</b>. μειλίσσω.`

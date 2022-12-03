@@ -1,1 +1,0 @@
-lar[5229]=`<b>ἁμαξό·ποδες, ων (οἱ)</b> boîtes (<i>litt</i>. pieds) de l’essieu, VITR. <i>10, 20</i>.<p><b>Étym</b>. ἅ. πούς.`

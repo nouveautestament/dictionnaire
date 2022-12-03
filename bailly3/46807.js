@@ -1,1 +1,0 @@
-lar[46807]=`<b>θεο·τείχης, ης, ες</b>, aux murs bâtis par les dieux, ANTH. <i>App. 214</i>.<p><b>Étym</b>. θ. τεῖχος.`

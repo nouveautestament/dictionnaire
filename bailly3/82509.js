@@ -1,1 +1,0 @@
-lar[82509]=`<b>πολύ·φθογγος, ος, ον</b>, au son vibrant <i>ou</i> qui rend beaucoup de son, PLUT. <i>M. 827a, 973c ;</i> EL. <i>N.A. 5, 51</i>.<p><b>Étym</b>. π. φθόγγος.`

@@ -1,1 +1,0 @@
-lar[55741]=`<i>sel. Bgk</i> <b>Κλῆϊς, ϊδος (ἡ)</b> <font color="purple">[ᾱῑδ]</font> Klaïs, <i>f</i>. SAPPH. <i>85 Bgk</i>.<p><b>Étym</b>. <i>v</i>. κλαΐς.`

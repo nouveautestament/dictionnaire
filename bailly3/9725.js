@@ -1,1 +1,0 @@
-lar[9725]=`<b>εως (ἡ)</b> attaque impétueuse contre, HLD. <i>8, 17</i>.<p><b>Étym</b>. ἀντεφορμάω.`

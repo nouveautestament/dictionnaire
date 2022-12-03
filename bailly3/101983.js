@@ -1,1 +1,0 @@
-lar[101983]=`<b>ὑπ·αντλέω-ῶ</b> <font color="purple">[ῠ]</font> soulever (l’eau avec sa poitrine) PHILSTR. <i>Im. 2, 13</i>.`

@@ -1,1 +1,0 @@
-lar[81206]=`<b>ή, όν :<br>      1</b> qui concerne le souffle, propre à la respiration, GAL. <i>4, 506</i>.<br><b>      2</b> qui donne des vents, DIPH. (ATH. <i>69e</i>).<p>•<i> Cp</i>. -ώτερος, DIPH. <i>l. c</i>.<p><b>Étym</b>. πνέω.`

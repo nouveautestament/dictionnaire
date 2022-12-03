@@ -1,1 +1,0 @@
-lar[65889]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῐῐδ]</font> la fille de Minyas (Klyménè) A.RH. <i>1, 233</i>.<p><b>Étym</b>. Μινύας.`

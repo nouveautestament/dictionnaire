@@ -1,1 +1,0 @@
-lar[6842]=`<b>ἀν·αίμων, ων, ον</b>, <i>gén</i>. ονος, <i>c</i>. ἄναιμος, IL. <i>5, 342</i> ; ION (ATH. <i>318e</i>) ; <i>fig. en parl. du vin,</i> PLUT. <i>M. 692e</i>.`

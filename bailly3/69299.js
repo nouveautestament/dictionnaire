@@ -1,1 +1,0 @@
-lar[69299]=`<b>ης, ες</b>, qui a l’air lent, nonchalant, HPC. <i>119e</i>.<p><b>Étym</b>. νωθρός, -ωδης.`

@@ -1,1 +1,0 @@
-lar[100061]=`<b>τριαινο·ειδής, ής, ές</b>, qui a la forme d’un trident, PLUT. <i>M. 877e ;</i> P. ÉG. <i>6, 48</i>.<p><b>Étym</b>. τρίαινα, εἶδος.`

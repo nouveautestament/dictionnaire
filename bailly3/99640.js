@@ -1,1 +1,0 @@
-lar[99640]=`<b>τοπο·κλισία, ας (ἡ)</b> <font color="purple">[ῐσ]</font> endroit où l’on se met (<i>litt</i>. où l’on se couche) à table, PLUT. <i>M. 149b</i>.<p><b>Étym</b>. τ. κλίσις.`

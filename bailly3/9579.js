@@ -1,1 +1,0 @@
-lar[9579]=`<b>ἀντ·εκτρέχω</b> <font color="darkgreen">(<i>ao</i>. -εξέδραμον)</font> s’élancer au-devant de, XÉN. <i>Hell. 4, 3, 17, etc</i>.<p><b>Étym</b>. ἀντί, ἐκ.`

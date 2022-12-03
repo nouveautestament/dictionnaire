@@ -1,1 +1,0 @@
-lar[18667]=`<b>ἀωρό·τοκος, ος, ον</b>, qui vient avant terme, HIPPIATR.<p><b>Étym</b>. ἄωρος, τίκτω.`

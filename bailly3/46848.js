@@ -1,1 +1,0 @@
-lar[46848]=`<b>θεό·φορος, ος, ον</b>, inspiré par un dieu, ESCHL. <i>Ag. 1150</i>.<p><b>Étym</b>. θ. φέρω.`

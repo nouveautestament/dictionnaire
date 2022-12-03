@@ -1,1 +1,0 @@
-lar[30049]=`<b>οῦ (ὁ)</b> action d’asseoir <i>ou</i> de s’asseoir, GEOP. <i>6, 2 titre</i> ; ORIG. <i>3, 1377b Migne</i>.<p><b>Étym</b>. ἑδράζω.`

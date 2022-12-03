@@ -1,1 +1,0 @@
-lar[57519]=`<b>κραιπαλό·βοσκος, ος, ον</b> <font color="purple">[ᾰ]</font> nourri par l’ivresse, <i>d’où, en parl. de la soif,</i> ardent, SOPATR. (ATH. <i>784b</i>).<p><b>Étym</b>. κραιπάλη, βόσκω.`

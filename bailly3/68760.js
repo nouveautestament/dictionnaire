@@ -1,1 +1,0 @@
-lar[68760]=`<b>Νικο·δίκη, ης (ἡ)</b> <font color="purple">[ῑῐ]</font> Nikodikè, <i>f</i>. AR. <i>Lys. 321</i>.<p><b>Étym</b>. <i>fém. de</i> Νικόδικος.`

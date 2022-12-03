@@ -1,1 +1,0 @@
-lar[77303]=`<b>ου (ὁ)</b> Patækos, <i>h</i>. HDT. <i>7, 154</i> ; DÉM. <i>Ep. 3</i> ; PLUT. <i>Sol. 6, etc</i>.`

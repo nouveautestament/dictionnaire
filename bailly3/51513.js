@@ -1,1 +1,0 @@
-lar[51513]=`<b>ητος (ὁ)</b> <font color="purple">[ᾰ]</font> couvercle <i>ou</i> natte de jonc, CRATÈS (<i>Com. fr. 2, 236, 5</i>) ; SOL. (PLUT. <i>Sol. 21).</i><p><b>Étym</b>. <i>cf</i>. κάννα.`

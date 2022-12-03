@@ -1,1 +1,0 @@
-lar[76758]=`<b>ας (ἡ)</b> court séjour <i>ou</i> court voyage en pays étranger, PLAT. <i>Ax. 365b ;</i> POL. <i>4, 4, 2</i>.<p><b>Étym</b>. παρεπίδημος.`

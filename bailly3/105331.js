@@ -1,1 +1,0 @@
-lar[105331]=`<b>ή, όν</b> <font color="purple">[ῐσ]</font> atteint de consomption, phtisique, ARSTT. <i>Probl. 5, 31</i> ; PLUT. <i>M. 674b ;</i> GEOP. <i>12, 17, 3</i>.<p><b>Étym</b>. φθίω.`

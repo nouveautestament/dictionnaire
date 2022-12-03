@@ -1,1 +1,0 @@
-lar[50165]=`<b>ου (ὁ)</b> sorte de vin de Sicile, ATH. <i>27d</i>.`

@@ -1,1 +1,0 @@
-lar[30749]=`<b>εἰσ·επιδημέω-ῶ</b>, s’établir comme étranger qqe part, PLAT. <i>Leg. 952d</i>.`

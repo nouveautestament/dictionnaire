@@ -1,1 +1,0 @@
-lar[83867]=`<b>ή, όν</b>, qui concerne les ancêtres, qui vient des ancêtres, POL. <i>3, 64, 2 ; 13, 6, 3</i>.<p><b>Étym</b>. πρόγονος.`

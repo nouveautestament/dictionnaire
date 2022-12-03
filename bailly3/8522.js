@@ -1,1 +1,0 @@
-lar[8522]=`<b>ἀν·επιφανής, ής, ές</b> <font color="purple">[φᾰ]</font> non apparent, non visible, JOS. <i>A.J. 17, 10, 7</i> ; PTOL. <i>Tetr. 168</i>.<p><b>Étym</b>. ἀν-, ἐ.`

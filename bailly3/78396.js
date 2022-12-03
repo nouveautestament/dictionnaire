@@ -1,1 +1,0 @@
-lar[78396]=`<b>ος, ον</b>, attaché autour, ARSTT. <i>Nic. 1, 8, 12</i> ; τὸ περίαπτον, PLAT. <i>Rsp. 426b ;</i> TH. <i>H.P. 9, 19, 2,</i> amulette qu’on porte autour du cou.<p><b>Étym</b>. περιάπτω.`

@@ -1,1 +1,0 @@
-lar[75905]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> paralysé, <i>fig</i>. ARTÉM. <i>383 Reiff</i>.<p><b>Étym</b>. παραλύω.`

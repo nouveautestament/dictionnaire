@@ -1,1 +1,0 @@
-lar[101882]=`<b>ὑπ·αείδω</b> <font color="purple">[ῠᾰ]</font> <i>poét. c</i>. ὑπᾴδω CALL. <i>Dian. 242</i>.<p>➳ <font color="purple">[ᾱ]</font> <i>à l’arsis,</i> CALL. <i>Del. 304</i>.`

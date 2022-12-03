@@ -1,1 +1,0 @@
-lar[46243]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰῡ]</font><br><b>      1</b> prêtresse de Dèmèter, NONN. <i>D. 12, 103</i>.<br><b>      2</b> qui concerne la fête des Thalysies : θ. ὁδός, THCR. <i>Idyl. 7, 31,</i> voyage <i>ou</i> pèlerinage à la fête des Thalysies.<p><b>Étym</b>. θαλύσιος, Θαλύσια.`

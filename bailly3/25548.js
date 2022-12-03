@@ -1,1 +1,0 @@
-lar[25548]=`<b>δι·ασκέω-ῶ :<br>      1</b> exercer, <i>d’où</i> préparer, <i>et, p. suite,</i> arranger, <i>particul</i>. orner : τινα, LUC. <i>V. auct. 9,</i> qqn ; <i>au pass</i>. être orné, ATH. <i>526a.</i><br><b>      2</b> pratiquer, <i>acc</i>. DL. <i>4, 49</i>.`

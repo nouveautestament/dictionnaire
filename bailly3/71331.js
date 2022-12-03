@@ -1,1 +1,0 @@
-lar[71331]=`<b>ὅμ·αυλος, ος, ον</b>, qui vit ensemble <i>ou</i> auprès, <i>d’où</i> limitrophe, voisin, SOPH. <i>fr. 19 Dind</i>.<p><b>Étym</b>. ὁμός, αὐλή.`

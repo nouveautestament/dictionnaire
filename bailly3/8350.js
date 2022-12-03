@@ -1,1 +1,0 @@
-lar[8350]=`<b>ἀν·ενδοίαστος, ος, ον</b>, non douteux, indubitable, LUC. <i>Herm. 67</i> ; JOS. <i>A.J. 17, 9, 6</i>.`

@@ -1,1 +1,0 @@
-lar[65961]=`<b>μισ·άρετος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui hait la vertu, JOS. <i>Macc. 11, 4</i>.<p><b>Étym</b>. μ. ἀρετή.`

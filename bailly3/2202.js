@@ -1,1 +1,0 @@
-lar[2202]=`<b>ῶνος (ὁ)</b> plant <i>ou</i> bois de peupliers noirs, STR. <i>774</i>.<p><b>Étym</b>. αἴγειρος.`

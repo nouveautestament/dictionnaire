@@ -1,1 +1,0 @@
-lar[71166]=`<b>ατος (τὸ)</b> offrande en holocauste, SPT. <i>Ex. 30, 20 ; Lev. 16, 24 ; Sap. 3, 6</i>.<p><b>Étym</b>. ὁλοκαρπόω.`

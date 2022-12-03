@@ -1,1 +1,0 @@
-lar[47620]=`<b>ης (ἡ)</b> fille de Thrace, <i>n. d’esclave,</i> DÉM. <i>59, 35 ; 120, 124 Baiter-Sauppe</i>.<p><b>Étym</b>. Θρᾷξ.`

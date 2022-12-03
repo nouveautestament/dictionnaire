@@ -1,1 +1,0 @@
-lar[107565]=`<b>χαλινο·ποιητική, ῆς (ἡ)</b> <i>s.-e</i>. τέχνη <font color="purple">[ᾰῑ]</font> l’art de fabriquer des freins, des mors, ARSTT. <i>Nic. 1, 1, 4</i>.<p><b>Étym</b>. χαλινός, ποιέω.`

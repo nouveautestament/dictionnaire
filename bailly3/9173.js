@@ -1,1 +1,0 @@
-lar[9173]=`<b>ωνος (ὁ)</b> Annon <i>ou</i> Hannon, <i>général carthaginois,</i> HDT. <i>7, 165</i> ; ARSTT. <i>Pol. 5, 7, etc</i>.`

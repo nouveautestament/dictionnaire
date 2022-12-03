@@ -1,1 +1,0 @@
-lar[30524]=`<b>εἰν·αλί·φοιτος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui se plonge dans la mer, ANTH. <i>6, 16</i>.<p><b>Étym</b>. εἰν, ἅλς, φοιτάω.`

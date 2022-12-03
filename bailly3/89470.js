@@ -1,1 +1,0 @@
-lar[89470]=`<b>σαρκο·χαρής, ής, ές</b> <font color="purple">[χᾰ]</font> qui aime la chair, NAZ. <i>3, 1556a Migne</i>.<p><b>Étym</b>. σ. χαίρω.`

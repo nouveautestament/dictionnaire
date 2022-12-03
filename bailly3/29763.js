@@ -1,1 +1,0 @@
-lar[29763]=`<b>ἐγ·κρούω :<br>      1</b> enfoncer (des clous, <i>etc</i>.) en frappant, <i>avec</i> εἰς <i>et l’acc</i>. AR. <i>Vesp. 130</i> ; ἐγκρ. τινί τι, ANTH. <i>7, 195,</i> frapper une chose avec une autre.<br><b>      2</b> danser en mesure, AR. <i>Ran. 374</i>.`

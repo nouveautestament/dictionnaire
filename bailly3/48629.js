@@ -1,1 +1,0 @@
-lar[48629]=`<b>ου (ὁ)</b> Hiérosolymos, <i>fondateur imaginaire de Jérusalem,</i> PLUT. <i>M. 363c</i>.<p><b>Étym</b>. Ἱεροσόλυμα.`

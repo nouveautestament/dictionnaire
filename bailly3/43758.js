@@ -1,1 +1,0 @@
-lar[43758]=`<b>ης (ἡ)</b> Euphrosynè :<br><b>      1</b> <i>f</i>. ATH. <i>583e, etc.</i><br><b>      2</b> <i>particul. l’une des Grâces,</i> HÉS. <i>Th. 909</i> ; PD. <i>O. 14, 20, etc</i>.<p>➳ <i>Dor</i>. -ύνα, PD. <i>l. c</i>.<p><b>Étym</b>. εὐφροσύνη.`

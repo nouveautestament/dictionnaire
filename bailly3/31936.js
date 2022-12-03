@@ -1,1 +1,0 @@
-lar[31936]=`<b>ἐκ·πρέπω</b> (<i>seul. prés</i>.) se distinguer, EUR. <i>Her. 597</i>.`

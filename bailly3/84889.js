@@ -1,1 +1,0 @@
-lar[84889]=`<b>προ·παραβάλλω</b>, jeter devant, <i>rég. ind. au dat</i>. A. TR. <i>9, 533</i>.<br><b><i>Moy.</i></b> déposer <i>ou</i> amasser d’avance pour soi, <i>acc</i>. THC. <i>7, 5</i>.`

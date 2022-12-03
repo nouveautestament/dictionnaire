@@ -1,1 +1,0 @@
-lar[97807]=`<b>ταυρο·φόνος, ος, ον</b>, qui tue un taureau <i>ou</i> des taureaux, PD. <i>N. 6, 69</i> ; ORPH. <i>H. 14, 2</i> ; ANTH. <i>11, 60</i> ; THCR. <i>Idyl. 17, 20</i>.<p><b>Étym</b>. τ. πεφνεῖν.`

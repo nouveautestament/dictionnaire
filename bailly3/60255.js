@@ -1,1 +1,0 @@
-lar[60255]=`<i>adv.</i> :<br><b>      1</b> en usant habilement des mots, DL. <i>7, 62</i>.<br><b>      2</b> au sens de, avec la signification de, DYSC. <i>Adv. 608, 31</i>.<br><b>      3</b> en prose, DH. <i>Comp. 25, p. 201 Reiske</i>.`

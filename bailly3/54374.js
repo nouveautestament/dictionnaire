@@ -1,1 +1,0 @@
-lar[54374]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui a une mauvaise constitution, cachectique, GAL. <i>13, 424</i> ; A. TR. <i>11, p. 630</i>.<p><b>Étym</b>. καχέκτης.`

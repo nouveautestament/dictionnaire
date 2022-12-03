@@ -1,1 +1,0 @@
-lar[20240]=`<i>adv</i>., en venant du Nord, CIA. <i>2, 777, 4, 11, 17 (commenc. du 4<sup>e</sup> siècle av. J.-C.) ; 600, 9 (300 av. J.-C.)</i> ; TH. <i>fr. 6, 1, 11</i>.<p><b>Étym</b>. βορρᾶς, -θεν.`

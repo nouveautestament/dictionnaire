@@ -1,1 +1,0 @@
-lar[90622]=`<b>(ἡ)</b> sorte d’oiseau, ARSTT. <i>H.A. 8, 3, 13</i>.`

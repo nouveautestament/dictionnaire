@@ -1,1 +1,0 @@
-lar[33090]=`<b>ης</b>, <i>ou</i> <b>ἐμβατή, ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> baignoire, DIOSC. <i>Eup. 2, 57</i>.<p><b>Étym</b>. ἐμβατός.`

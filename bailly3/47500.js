@@ -1,1 +1,0 @@
-lar[47500]=`<b>θορυβο·ποιός, ός, όν</b> <font color="purple">[ῠ]</font> qui fait du bruit, du tapage, qui cause du désordre, PLUT. <i>Mar. 28</i>.<p><b>Étym</b>. θόρυβος, ποιέω.`

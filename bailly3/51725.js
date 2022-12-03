@@ -1,1 +1,0 @@
-lar[51725]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Carbo, Carbon, <i>n. d’h. rom</i>. PLUT. <i>Syll. 22, etc</i>.`

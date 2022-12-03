@@ -1,1 +1,0 @@
-lar[83297]=`<b>υος (ὁ)</b> Pratys, <i>h</i>. ARSTT. <i>Rhet. 3, 11</i>.`

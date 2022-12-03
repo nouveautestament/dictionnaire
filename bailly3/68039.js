@@ -1,1 +1,0 @@
-lar[68039]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> <i>c</i>. νεκταρώδης, NYSS. <i>3, 1105d Migne</i>.<p><b>Étym</b>. νεκτάριος, -ωδης.`

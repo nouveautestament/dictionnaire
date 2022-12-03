@@ -1,1 +1,0 @@
-lar[93596]=`<b>συγ·χαρίζομαι</b> <font color="purple">[ᾰ]</font> accorder une faveur, être agréable à, PLUT. <i>M. 44e</i>.`

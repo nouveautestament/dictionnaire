@@ -1,1 +1,0 @@
-lar[101142]=`<b>τυροπωλέω-ῶ</b> <font color="purple">[ῡ]</font> vendre comme du fromage, AR. <i>Ran. 1369</i>.<p><b>Étym</b>. τυροπώλης.`

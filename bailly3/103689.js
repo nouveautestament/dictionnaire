@@ -1,1 +1,0 @@
-lar[103689]=`<b>ὑπο·πλάγιος, ος, ον</b> <font color="purple">[ᾰ]</font> légèrement oblique, HPC. <i>Mochl. 842a</i>.`

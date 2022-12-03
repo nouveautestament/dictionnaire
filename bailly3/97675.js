@@ -1,1 +1,0 @@
-lar[97675]=`<b>ταριχ·ηγός, ός, όν</b> <font color="purple">[ᾰῑ]</font> qui importe des salaisons et en fait le commerce, ALEX. (ATH. <i>120b</i>).<p><b>Étym</b>. τάριχος, ἄγω.`

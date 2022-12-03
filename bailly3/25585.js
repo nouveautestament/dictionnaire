@@ -1,1 +1,0 @@
-lar[25585]=`<b>διά·σπιλος, ος, ον</b> <font color="purple">[πῐ]</font> tout rocailleux, M. RUBR. <i>43</i>.<p><b>Étym</b>. διά, σπίλος.`

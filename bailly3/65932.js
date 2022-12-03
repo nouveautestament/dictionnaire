@@ -1,1 +1,0 @@
-lar[65932]=`<b>μιξό·θηρ, ηρος (ὁ, ἡ)</b> qui est moitié homme, moitié animal, EUR. <i>Ion 1161</i> ; LYC. <i>650</i> ; DH. <i>6, 822 Reiske, etc</i>.<p><b>Étym</b>. μ. θήρ.`

@@ -1,1 +1,0 @@
-lar[22427]=`<font color="purple">[ᾰ]</font><br><b>      1</b> heurter du genou, CRAT. (POLL. <i>2, 188</i>).<br><b>      2</b> s’agenouiller, ORIG. <i>2, 136a.</i><br><b>      3</b> faire s’agenouiller, AQU. <i>Gen. 24, 11</i>.<p><b>Étym</b>. γονατ- <i>rad. de</i> γόνυ.`

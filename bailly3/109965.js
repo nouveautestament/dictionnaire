@@ -1,1 +1,0 @@
-lar[109965]=`<b>ψυχο·βόρος, ος, ον</b> <font color="purple">[ῡ]</font> qui dévore <i>ou</i> ronge l’âme, SYN. <i>320c</i>.<p><b>Étym</b>. ψ. βιβρώσκω.`

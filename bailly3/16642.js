@@ -1,1 +1,0 @@
-lar[16642]=`<b>ου</b>, <i>béot</i>. <b>-ω (ὁ)</b> <font color="purple">[ᾱῐ]</font> Asôpikhos, <i>h</i>. PD. PLUT. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[12937]=`<b>εως (ἡ)</b> engourdissement, HPC. <i>811h, etc.</i> ; ARSTT. <i>Probl. 3, 29</i>.<p><b>Étym</b>. ἀποναρκόω.`

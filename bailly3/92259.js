@@ -1,1 +1,0 @@
-lar[92259]=`couvrir, XÉN. <i>Cyr. 7, 1, 32 ; au pass</i>. XÉN. <i>Œc. 19, 13</i> ; ANT. <i>132, 8 ; fig</i>. SOPH. <i>El. 781</i> ; τὸ στεγάζον, DL. <i>10, 65,</i> l’enveloppe de l’âme, <i>càd</i>. le corps.<p><b>Étym</b>. στέγη.`

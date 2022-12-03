@@ -1,1 +1,0 @@
-lar[3704]=`<b>ἀκριβο·λόγος, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui parle avec précision, TIMON <i>50, 2</i> (DL. <i>2, 19).</i><p><b>Étym</b>. ἀκριβής, λέγω.`

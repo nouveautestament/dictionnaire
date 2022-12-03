@@ -1,1 +1,0 @@
-lar[92074]=`<b>*στάδιος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. στάδιον, <i>seul. plur</i>. HDT. <i>1, 26 ; 2, 149, 158, etc.</i> ; THC. <i>7, 78 (deux fois</i> σταδίους, <i>une fois</i> στάδια) ; PLAT. <i>Criti. 113c, 117e, etc</i>.`

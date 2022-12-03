@@ -1,1 +1,0 @@
-lar[80334]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰῐδ]</font> tablette, HPC. <i>1199f ;</i> ARSTT. <i>Mir. 57, 2 ; particul</i>. tablette pour écrire, PLUT. <i>Eum. 1, etc</i>.<p><b>Étym</b>. <i>dim. de</i> πινακίς.`

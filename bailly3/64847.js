@@ -1,1 +1,0 @@
-lar[64847]=`<b>μετα·μίγνυμι</b>, mélanger avec : τινί τι, OD. <i>22, 221,</i> mêler une chose avec une autre.`

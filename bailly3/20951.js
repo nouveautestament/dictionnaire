@@ -1,1 +1,0 @@
-lar[20951]=`<font color="purple">[μᾰ]</font> manger, dévorer, NAZ. <i>2, 101b Migne</i>.<p><b>Étym</b>. βρῶμα.`

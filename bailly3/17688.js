@@ -1,1 +1,0 @@
-lar[17688]=`<b>αὐτο·σκαπανεύς, έως (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui cultive lui-même, véritable cultivateur, ALCIPHR. <i>3, 70</i>.`

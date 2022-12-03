@@ -1,1 +1,0 @@
-lar[19697]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit livre, ANTH. <i>11, 78</i>.<p><b>Étym</b>. <i>dim. de</i> βίβλος.`

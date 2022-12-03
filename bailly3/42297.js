@@ -1,1 +1,0 @@
-lar[42297]=`<b>εὔ·θυρσος, ος, ον</b>, aux beaux thyrses, EUR. <i>Bacch. 1158</i> ; NONN. <i>D. 13, 53, etc</i>.<p><b>Étym</b>. εὖ, θύρσος.`

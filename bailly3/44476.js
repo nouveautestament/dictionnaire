@@ -1,1 +1,0 @@
-lar[44476]=`<b>ζευγο·τρόφος, ος, ον</b>, qui entretient un attelage, PLUT. <i>Per. 12</i>.<p><b>Étym</b>. ζεῦγος, τρέφω.`

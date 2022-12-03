@@ -1,1 +1,0 @@
-lar[47559]=`<font color="purple">[ᾱ]</font> briser, mettre en pièces, LYC. <i>664</i>.<p><b>Étym</b>. <i>cf</i>. θραύω.`

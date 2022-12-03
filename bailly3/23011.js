@@ -1,1 +1,0 @@
-lar[23011]=`<b>οῦ (ὁ)</b> <i>litt</i>. celui qui découpe les aliments et distribue les portions, OD. <i>1, 141 ; 4, 57 ; 17, 331</i> ; LYC. <i>35</i> ; NIC. <i>Al. 258</i> ; ATH. <i>12e</i>.<p><b>Étym</b>. δαίνυμι.`

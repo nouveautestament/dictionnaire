@@ -1,1 +1,0 @@
-lar[16548]=`<font color="purple">[ᾰῠᾱ]</font> <i>adv. dor</i>. indignement, misérablement, DIUS (STOB. <i>Fl. 65, 16).</i><p><b>Étym</b>. <i>p</i>. *ἀσυφήλως, <i>de</i> ἀσύφηλος.`

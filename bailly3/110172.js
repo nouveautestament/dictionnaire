@@ -1,1 +1,0 @@
-lar[110172]=`<b>ὠκυ·δρόμας, ου</b> <font color="purple">[ᾱ]</font> <i>adj. m. c</i>. ὠκυδρόμος, ANTH. <i>App. 389</i>.`

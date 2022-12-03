@@ -1,1 +1,0 @@
-lar[102295]=`être tout à fait haletant, ARR. <i>Cyn. 14, 3</i>.<p><b>Étym</b>. ὑπέρασθμος.`

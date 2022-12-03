@@ -1,1 +1,0 @@
-lar[60214]=`<b>Λειχο·πίναξ, ακος (ὁ)</b> <font color="purple">[ῐᾰκ]</font> Lèche-tablette (d’un garde-manger) :<br><b>      1</b> <i>n. de rat,</i> BATR. <i>100, 233</i>.<br><b>      2</b> <i>n. de parasite,</i> ALCIPHR. <i>3, 44</i>.<p><b>Étym</b>. λείχω, πίναξ.`

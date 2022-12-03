@@ -1,1 +1,0 @@
-lar[34302]=`<b>ατος (τὸ)</b> enveloppe, JOS. <i>A.J. 12, 2, 11</i> ; ARTÉM. <i>104 Reiff</i>.<p><b>Étym</b>. ἐνειλέω.`

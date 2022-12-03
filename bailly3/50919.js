@@ -1,1 +1,0 @@
-lar[50919]=`<b>κακό·χαρτος, ος, ον</b> <font color="purple">[κᾰ]</font> qui se réjouit du malheur d’autrui, HÉS. <i>O. 28, 194</i>.<p><b>Étym</b>. κ. χαίρω.`

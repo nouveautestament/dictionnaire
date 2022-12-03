@@ -1,1 +1,0 @@
-lar[15586]=`<i>ou</i> <b>Ἀρχιδάμειος πόλεμος (ὁ)</b> la guerre d’Arkhidamos, <i>nom donné à la première période de la guerre du Péloponnèse,</i> LYS. (HARP. <i>v°</i> Ἀρχιδάμειος).<p><b>Étym</b>. <i>v</i>. Ἀρχίδαμος.`

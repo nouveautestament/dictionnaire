@@ -1,1 +1,0 @@
-lar[59202]=`<b>κωμῳδιο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> auteur comique, POL. <i>Exc. Vat. 12, 13, 7</i> ; DS. <i>12, 14</i>.<p><b>Étym</b>. κωμῳδία, γράφω.`

@@ -1,1 +1,0 @@
-lar[10094]=`<b>ἀντι·μέτειμι</b> (<i>part. prés</i>. -μετίων) briguer contre, être compétiteur, PLUT. <i>Arist. c. Cat. ma. 2</i>.`

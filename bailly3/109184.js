@@ -1,1 +1,0 @@
-lar[109184]=`<b>χρυσό·κερως, ως, ων</b>, <i>gén</i>. <b>ω</b> <font color="purple">[ῡ]</font><br><b>      1</b> aux cornes d’or, PD. <i>O. 3, 52</i> ; CRAT. (<i>Com. fr. 2, 182) ; en parl. de la nouvelle lune,</i> ANTH. <i>5, 16, etc.</i><br><b>      2</b> aux cornes dorées, PLAT. <i>2 Alc. 149c ;</i> ESCHN. <i>77, 12</i>.<p><b>Étym</b>. χρ. κέρας.`

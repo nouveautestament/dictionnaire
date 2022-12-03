@@ -1,1 +1,0 @@
-lar[76576]=`<b>παρ·είρω</b> (<i>seul. prés</i>.) insérer de côté, <i>d’où</i> introduire doucement, ESCHL. <i>fr. 265 Dind.</i> ; XÉN. <i>Conv. 6, 2</i> ; POL. <i>18, 1, 13 ; d’où</i> mêler, confondre, SOPH. <i>Ant. 368</i>.`

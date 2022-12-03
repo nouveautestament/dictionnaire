@@ -1,1 +1,0 @@
-lar[47949]=`<b>Θυμο·τέλης (ὁ)</b> <font color="purple">[ῡ]</font> Thymotélès, <i>h</i>. PLUT. <i>Mul. virt. 26</i>.<p><b>Étym</b>. θ. τέλος.`

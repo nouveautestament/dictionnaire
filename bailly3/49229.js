@@ -1,1 +1,0 @@
-lar[49229]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Hipparinos, <i>h</i>. PLAT. <i>Ep. 324a, etc.</i> ; ARSTT. <i>Pol. 5, 5, 6</i>.`

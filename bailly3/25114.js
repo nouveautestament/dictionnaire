@@ -1,1 +1,0 @@
-lar[25114]=`<b>δια·ναρκάω-ῶ</b> (<i>seul. prés</i>.) demeurer engourdi, CORN. <i>35</i>.`

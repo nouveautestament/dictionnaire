@@ -1,1 +1,0 @@
-lar[82985]=`<b>ποταμό·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> arrosé par un fleuve <i>ou</i> par des fleuves, SCYMN. <i>164</i>.<p><b>Étym</b>. π. ῥέω.`

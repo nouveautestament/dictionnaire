@@ -1,1 +1,0 @@
-lar[29695]=`<b>ἔγ·κοιλος, ος, ον</b>, profondément creux, TH. <i>H.P. 7, 13, 1 ; 8, 5, 4, etc. ; en parl. d’yeux profondément enfoncés,</i> HPC. <i>37, 21</i> ; ARSTT. <i>H.A. 8, 24, 2</i> ; τὰ ἔγκοιλα, PLAT. <i>Phæd. 111c</i>, les cavités.<p><b>Étym</b>. ἐν, κοῖλος.`

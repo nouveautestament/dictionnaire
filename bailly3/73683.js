@@ -1,1 +1,0 @@
-lar[73683]=`<i>crase att. p</i>. ὁ ἐργάτης, SOPH. <i>Ant. 252</i>.`

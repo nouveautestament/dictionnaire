@@ -1,1 +1,0 @@
-lar[107047]=`<b>ή, όν</b> <font color="purple">[ᾰῐ]</font> fuyard, craintif, lâche, IL. <i>13, 102</i>.<p><b>Étym</b>. φύζα.`

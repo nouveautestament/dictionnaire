@@ -1,1 +1,0 @@
-lar[67572]=`<b>(τὸ)</b> <i>indécl</i>. Nazareth, <i>v. de Galilée,</i> NT. <i>Matth. 2, 23, etc</i>.`

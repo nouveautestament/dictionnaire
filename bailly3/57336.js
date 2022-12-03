@@ -1,1 +1,0 @@
-lar[57336]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> action de jouer au cottabe, PLUT. <i>M. 654c</i>.<p><b>Étym</b>. κοτταβίζω.`

@@ -1,1 +1,0 @@
-lar[85969]=`<b>προσ·καταρρήγνυμι</b>, briser <i>ou</i> déchirer en outre, <i>acc</i>. DC. <i>78, 7</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. DC. <i>54, 1</i>.`

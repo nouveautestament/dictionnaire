@@ -1,1 +1,0 @@
-lar[20274]=`<font color="purple">[ῠ]</font> arranger en boucles, friser, ANAXIL. (POLL. <i>2, 27) ; fig. en parl. du style,</i> DH. <i>Comp. 25</i>.<br><b><i>Moy.</i></b> se friser, DH. <i>7, 9</i>.<p><b>Étym</b>. βόστρυχος.`

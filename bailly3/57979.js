@@ -1,1 +1,0 @@
-lar[57979]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐῐ]</font> <i>fém. de</i> κριτής, A. APHR. <i>An. p. 161, 3 dout</i>.`

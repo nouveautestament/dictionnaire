@@ -1,1 +1,0 @@
-lar[34115]=`<i>adv</i>., onze fois, ARSTT. <i>H.A. 6, 4, 6</i>.<p><b>Étym</b>. ἕνδεκα, -κις.`

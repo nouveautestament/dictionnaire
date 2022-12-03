@@ -1,1 +1,0 @@
-lar[51962]=`<font color="purple">[ᾰᾰ]</font> jouer avec des noix, PHIL. <i>1, 11</i>.<p><b>Étym</b>. κάρυον.`

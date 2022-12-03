@@ -1,1 +1,0 @@
-lar[38158]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à maîtriser, astringent, GAL. <i>De medic. fac. 12, 361</i>.<p><b>Étym</b>. ἐπικρατέω.`

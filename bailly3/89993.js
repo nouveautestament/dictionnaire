@@ -1,1 +1,0 @@
-lar[89993]=`<b>ης, ες :<br>      1</b> semé de creux, PAUS. <i>10, 12, 4</i> ; DC. <i>48, 51, etc. ; p. suite,</i> creux, HPC. <i>p. 252, 39</i>.<br><b>      2</b> poreux, HPC. <i>249, 43 ; 250, 24 ; 269, 25 ; V.C. 896, etc. ; subst</i>. τὸ σηραγγῶδες, EL. <i>N.A. 9, 37 ; 12, 20,</i> porosité.<p><b>Étym</b>. σῆραγξ, -ωδης.`

@@ -1,1 +1,0 @@
-lar[6431]=`<b>ἀμφι·χαράσσω</b> (<i>prés. pass</i>.) <font color="purple">[χᾰ]</font> creuser autour, MAN. <i>2, 66</i>.`

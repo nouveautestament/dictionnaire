@@ -1,1 +1,0 @@
-lar[21228]=`<b>ου (τὸ)</b> <font color="purple">[γᾰ]</font> sanctuaire d’Apollon Γαλάξιος, <i>en Béotie,</i> PLUT. <i>M. 409a</i>.`

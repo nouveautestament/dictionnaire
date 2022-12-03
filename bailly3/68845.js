@@ -1,1 +1,0 @@
-lar[68845]=`<b>νιφό·βολος, ος, ον</b> <font color="purple">[ῐ]</font> couvert de neige, <i>propr</i>. battu par la neige, EUR. <i>Ph. 214, I.A. 1284</i> ; AR. <i>Av. 952</i> ; PLUT. <i>Sert. 17</i>.<p><b>Étym</b>. *νίψ, βάλλω.`

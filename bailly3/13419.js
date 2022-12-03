@@ -1,1 +1,0 @@
-lar[13419]=`<b>ἀπο·στείχω</b> <font color="darkgreen">(<i>f</i>. είξω, <i>ao.2</i> ἀπέστιχον, <i>d’où impér</i>. ἀπόστιχε <font color="purple">[ῐ]</font> IL. <i>1, 522</i>)</font> s’en aller, ESCHL. <i>Suppl. 769 ; particul</i>. retourner chez soi, OD. <i>11, 132</i> ; HDT. <i>9, 56</i> ; SOPH. <i>El. 799, etc</i>.`

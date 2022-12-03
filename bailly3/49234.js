@@ -1,1 +1,0 @@
-lar[49234]=`<b>ἱππ·αρμοστής, οῦ (ὁ)</b> commandant de cavalerie <i>à Sparte,</i> XÉN. <i>Hell. 4, 4, 10, etc</i>.`

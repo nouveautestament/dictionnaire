@@ -1,1 +1,0 @@
-lar[34432]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> gage, nantissement, SPT. <i>Ex. 22, 26 ; Ezech. 33, 15</i>.<p><b>Étym</b>. ἐνεχυράζω.`

@@ -1,1 +1,0 @@
-lar[63368]=`<b>μεγαλό·καρπος, ος, ον</b> <font color="purple">[γᾰ]</font> qui produit de gros fruits, TH. <i>H.P. 4, 4, 5</i>.<p><b>Étym</b>. μ. καρπός.`

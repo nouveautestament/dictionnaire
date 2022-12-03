@@ -1,1 +1,0 @@
-lar[6102]=`<b>ἀμφι·δέω</b> <font color="darkgreen">(<i>impf</i>. ἀμφέδεον)</font> lier tout autour, A.RH. <i>2, 64</i>.`

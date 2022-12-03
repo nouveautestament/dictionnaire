@@ -1,1 +1,0 @@
-lar[35739]=`<b>ἐξ·εκκλησιάζω</b>, convoquer <i>ou</i> tenir une assemblée, ARSTT. <i>Œc. 2, 14</i> ; JOS. <i>A.J. 17, 6, 3</i>.`

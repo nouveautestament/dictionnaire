@@ -1,1 +1,0 @@
-lar[44458]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> mauvais petit attelage, mauvaise paire de bœufs, AR. <i>Av. 582, etc</i>.<p><b>Étym</b>. ζεῦγος.`

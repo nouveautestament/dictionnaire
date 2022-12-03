@@ -1,1 +1,0 @@
-lar[32403]=`<b>ἐκ·χρέμπτομαι</b>, expectorer, cracher, HPC. <i>496, 36</i>.`

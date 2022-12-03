@@ -1,1 +1,0 @@
-lar[61063]=`<b>λιθο·κτονία, ας (ἡ)</b> <font color="purple">[λῐ]</font> meurtre <i>ou</i> mort par lapidation, ANTH. <i>9, 157</i>.<p><b>Étym</b>. λ. κτείνω.`

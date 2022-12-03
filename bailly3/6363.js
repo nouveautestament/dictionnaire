@@ -1,1 +1,0 @@
-lar[6363]=`<b>ος, ον</b>, contesté, disputé, THC. <i>6, 6</i>.<p><b>Étym</b>. <i>vb. de</i> ἀμφισβητέω.`

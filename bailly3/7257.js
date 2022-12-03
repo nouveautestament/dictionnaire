@@ -1,1 +1,0 @@
-lar[7257]=`<b>ῆς (ἡ)</b> nouveau partage, EUR. <i>Temen. 748 Nauck</i>.<p><b>Étym</b>. ἀνανέμω.`

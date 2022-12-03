@@ -1,1 +1,0 @@
-lar[31747]=`<i>adv</i>., de bon gré, volontairement, Ps.-PHOCYL. <i>16</i> ; PLUT. <i>Sert. c. Eum. 2</i>.<p><b>Étym</b>. ἑκών.`

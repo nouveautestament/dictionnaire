@@ -1,1 +1,0 @@
-lar[71391]=`<b>ή, όν :<br>      1</b> d’Homère, homérique, PLAT. <i>Rsp. 600b.</i><br><b>      2</b> imitateur d’Homère, ANTH. <i>11, 218</i>.<p>•<i> Cp</i>. -ώτερος, STR. <i>3 ; • Sup</i>. -ώτατος, LGN <i>13</i>.`

@@ -1,1 +1,0 @@
-lar[20162]=`<b>οῦ</b>, <i>adj. m</i>. bourdonnant (<i>essaim</i>), ANTH. <i>6, 236</i>.<p><b>Étym</b>. βομβέω.`

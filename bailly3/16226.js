@@ -1,1 +1,0 @@
-lar[16226]=`<b>ἄ·στικτος, ος, ον :<br>      1</b> non piqué, non tatoué, HDT. <i>5, 6</i>.<br><b>      2</b> non grevé d’hypothèques, <i>litt</i>. non pointé de bornes qui signalaient les biens grevés, LYS. (HARP.) ; MÉN. (SCH.-LUC. <i>J. tr. 48).</i><p><b>Étym</b>. ἀ, στίζω.`

@@ -1,1 +1,0 @@
-lar[13918]=`<b>ἀ·προνόητος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> non prémédité, ARSTT. <i>M. mor. 2, 6, 42</i>.<br><b>      2</b> non examiné <i>ou</i> exploré d’avance, POL. <i>3, 48, 4 ; 4, 5, 5</i>.<br><b>   II</b> <i>act</i>. imprévoyant, inconsidéré, XÉN. <i>Hell. 5, 3, 7 ; avec le gén</i>. LUC. <i>Bis acc. 2</i>.<p><b>Étym</b>. ἀ, προνοέω.`

@@ -1,1 +1,0 @@
-lar[31772]=`<b>ἐκ·παππόομαι-οῦμαι</b>, avoir une aigrette comme la fleur du chardon, TH. <i>H.P. 3, 16, 6</i>.<p><b>Étym</b>. ἐκ, πάππος.`

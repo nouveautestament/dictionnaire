@@ -1,1 +1,0 @@
-lar[57141]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> de Corybante, PLUT. <i>M. 759a</i>.<p><b>Étym</b>. Κορύβας.`

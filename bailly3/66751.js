@@ -1,1 +1,0 @@
-lar[66751]=`<b>η, ον</b>, de porcelaine ; λιθία μορρίνη, M. RUBR. <i>6,</i> porcelaine.<p><b>Étym</b>. <i>lat</i>. murrhina ; <i>cf</i>. μόρρια.`

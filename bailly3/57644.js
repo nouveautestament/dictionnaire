@@ -1,1 +1,0 @@
-lar[57644]=`<b>Κρατησί·πολις (ἡ)</b> Kratèsipolis, <i>f</i>. PLUT. <i>Demetr. 9</i>.<p><b>Étym</b>. κρατέω, πόλις.`

@@ -1,1 +1,0 @@
-lar[10939]=`<b>ἀξιο·πραγία, ας (ἡ)</b> <font color="purple">[ᾱγ]</font> conduite digne <i>ou</i> loyale, CLÉM. <i>226, 17</i>.<p><b>Étym</b>. ἄ. πράσσω.`

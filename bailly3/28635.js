@@ -1,1 +1,0 @@
-lar[28635]=`<b>δυσ·μάλακτος, ος, ον</b> <font color="purple">[μᾰ]</font> difficile à amollir, RUF. (ORIB. <i>2, 210 B.-Dar</i>.).<p><b>Étym</b>. δ. μαλάσσω.`

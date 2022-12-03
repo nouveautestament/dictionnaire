@@ -1,1 +1,0 @@
-lar[46531]=`<b>ῆρος (ὁ)</b> qui charme, adoucit, apaise, HH. <i>15, 4</i>.<p><b>Étym</b>. θέλγω.`

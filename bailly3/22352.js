@@ -1,1 +1,0 @@
-lar[22352]=`<b>ου (ὁ) :<br>      1</b> celui qui connaît, <i>gén</i>. NT. <i>Ap. 26, 3 ; particul</i>. qui connaît l’avenir, devin, SPT. <i>1Reg. 28, 3</i>.<br><b>      2</b> <i>c</i>. γνωστήρ, PLUT. <i>Flam. 4</i>.<p><b>Étym</b>. γιγνώσκω.`

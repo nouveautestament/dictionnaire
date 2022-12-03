@@ -1,1 +1,0 @@
-lar[18791]=`<b>βαθύ·πλουτος, ος, ον</b> <font color="purple">[ᾰυ]</font> profondément, <i>càd</i>. immensément riche, ESCHL. <i>Suppl. 555</i> ; EUR. <i>fr. 462</i> ; AR. <i>fr. 163</i> ; ANTH. NONN. ALCIPHR.<p><b>Étym</b>. β. πλοῦτος.`

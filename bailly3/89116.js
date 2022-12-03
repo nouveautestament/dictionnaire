@@ -1,1 +1,0 @@
-lar[89116]=`<b>α (ὁ)</b> Sakadas, <i>poète et musicien d’Argos,</i> PD. <i>fr. 244 Bgk</i> ; Ps.-PLUT. <i>Mus. 8, 12, etc</i>.`

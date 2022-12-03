@@ -1,1 +1,0 @@
-lar[84083]=`<b>προ·εκκρούω</b>, repousser auparavant, DC. <i>43, 4</i>.`

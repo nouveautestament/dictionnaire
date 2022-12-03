@@ -1,1 +1,0 @@
-lar[87518]=`<b>όνος (ἡ)</b> <font color="purple">[ῠ]</font> sorte de coudée plus petite de 4 doigts que la coudée πῆχυς, HDT. <i>2, 175</i> ; XÉN. <i>Cyn. 10, 2</i> ; ARCHESTR. (ATH. <i>321a</i>).<p><b>Étym</b>. πύξ.`

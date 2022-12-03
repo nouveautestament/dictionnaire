@@ -1,1 +1,0 @@
-lar[76292]=`<b>παρα·σχεδόν</b>, <i>adv.</i> :<br><b>      1</b> (<i>lieu</i>) tout auprès, A.RH. <i>2, 10 et 859</i>.<br><b>      2</b> (<i>temps</i>) tout aussitôt, sur-le-champ, NIC. <i>Th. 799</i> ; A.RH. <i>1, 354</i>.<br><b>      3</b> à peu près, presque, DH. <i>7, 45</i>.`

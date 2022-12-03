@@ -1,1 +1,0 @@
-lar[49634]=`<b>ἰσο·ετής, ής, ές</b> <font color="purple">[ῑ̆]</font> dont la durée égale l’année : τὸ ἰσοετές, PLIN. <i>H.N. 25, 102,</i> plante qui reste verte toute l’année.<p><b>Étym</b>. ἴ. ἔτος.`

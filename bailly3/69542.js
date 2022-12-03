@@ -1,1 +1,0 @@
-lar[69542]=`<b>ξηρο·βατικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui va sur la terre ferme, PLAT. <i>Pol. 264d ;</i> ARSTT. <i>H.A. 6, 2, 2, var</i>. ξηροβιωτικός, qui vit sur la terre ferme.<p><b>Étym</b>. ξηρός, βαίνω.`

@@ -1,1 +1,0 @@
-lar[106853]=`<b>φρενο·κηδής, ής, ές</b>, qui est un souci pour l’âme, SYN. <i>Hymn. 2, 85</i>.<p><b>Étym</b>. φρ. κήδω.`

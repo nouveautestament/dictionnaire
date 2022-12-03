@@ -1,1 +1,0 @@
-lar[88176]=`<b>ας (ἡ) :<br>      1</b> port des faisceaux, <i>d’où</i> faisceau de licteur, <i>à Rome,</i> PLUT. <i>Fab. 4</i>.<br><b>      2</b> <i>p. suite,</i> troupe <i>ou</i> escorte de licteurs portant les faisceaux, PLUT. <i>Cic. 16</i>.<p><b>Étym</b>. ῥαβδοῦχος.`

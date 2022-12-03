@@ -1,1 +1,0 @@
-lar[104710]=`<b>φαλαγγιό·δηκτος, ος, ον</b> <font color="purple">[φᾰ]</font> mordu <i>ou</i> piqué par une tarentule, DIOSC. <i>4, 52, 116</i>.<p><b>Étym</b>. φαλάγγιον, δάκνω.`

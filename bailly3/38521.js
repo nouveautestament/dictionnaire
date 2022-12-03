@@ -1,1 +1,0 @@
-lar[38521]=`<b>ἐπι·νηνέω</b> <font color="darkgreen">(<i>impf</i>. ἐπενήνεον)</font> entasser, amonceler sur, <i>gén</i>. IL. <i>7, 428, 431</i>.<p><b>Étym</b>. ἐπί, νέω <i>avec redoubl</i>.`

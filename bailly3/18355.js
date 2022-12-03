@@ -1,1 +1,0 @@
-lar[18355]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῐν]</font> <i>c</i>. ἀχαΐνη, BABR. <i>95, 87</i>.`

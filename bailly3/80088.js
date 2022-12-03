@@ -1,1 +1,0 @@
-lar[80088]=`<b>ή, όν</b>, qui concerne ceux qui travaillent l’argile, GAL.<p><b>Étym</b>. πηλοποιός.`

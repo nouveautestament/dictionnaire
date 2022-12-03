@@ -1,1 +1,0 @@
-lar[43555]=`<b>εὐ·τακής, ής, ές</b> <font color="purple">[ᾰ]</font> facile à faire fondre, à faire cuire, LUC. <i>Herm. 61</i>.<p><b>Étym</b>. εὖ, τήκω.`

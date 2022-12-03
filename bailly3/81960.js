@@ -1,1 +1,0 @@
-lar[81960]=`<b>πολυ·καμπής, ής, ές</b> <font color="purple">[ῠ]</font> très courbé, très sinueux, TH. <i>Sens. 65</i> ; ANTH. <i>6, 297</i> ; PLUT. <i>M. 649b, etc. ; fig</i>. PLUT. <i>M. 615c</i>.<p><b>Étym</b>. π. κάμπτω.`

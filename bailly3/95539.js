@@ -1,1 +1,0 @@
-lar[95539]=`<b>συν·εξίσταμαι</b> <font color="darkgreen">(<i>f</i>. -εκστήσομαι, <i>ao.2</i> -εξέστην, <i>etc</i>.)</font> s’offrir <i>ou</i> s’avancer ensemble pour le combat, POL. <i>3, 34, 9, etc</i>.`

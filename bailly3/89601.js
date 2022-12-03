@@ -1,1 +1,0 @@
-lar[89601]=`<b>(ὁ)</b> Saôkès, <i>mt. de Samothrace,</i> NONN. <i>D. 13, 397</i>.`

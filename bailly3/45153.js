@@ -1,1 +1,0 @@
-lar[45153]=`<b>(ὁ)</b> HDN GR. <i>π. μ. λ. p. 17, 8 ; d’ord. au pl</i>. ἠλακατῆνες, ων (οἱ) MÉN. (ATH. <i>301d</i>) poisson de mer (en forme de fuseau) propre à la salaison.<p><b>Étym</b>. ἠλακάτη.`

@@ -1,1 +1,0 @@
-lar[887]=`<b>ή, όν</b>, pris à la chasse <i>ou</i> à la pêche, OPP. <i>H. 3, 541</i>.`

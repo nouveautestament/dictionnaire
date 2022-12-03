@@ -1,1 +1,0 @@
-lar[85622]=`<b>προσ·εξηπειρόω-ῶ</b>, convertir de plus en plus en terre ferme (par des alluvions incessantes) <i>acc</i>. STR. <i>536</i>.`

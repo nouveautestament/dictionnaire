@@ -1,1 +1,0 @@
-lar[733]=`<b>ἀ·γλευκής, ής, ές</b>, sans douceur, amer <i>ou</i> âcre, LUC. <i>Lex. 6 ; p. opp. à</i> γλυκύς, ARSTT. <i>Probl. 4, 12, 1</i>.<p>•<i> Cp</i>. -έστερος, XÉN. <i>Hier. 1, 21</i>.<p><b>Étym</b>. ἀ, γλεῦκος.`

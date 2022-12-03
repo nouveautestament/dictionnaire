@@ -1,1 +1,0 @@
-lar[12752]=`<b>ἀπο·λεπιδόομαι</b> <font color="purple">[ῐ]</font> s’écailler, HPC. <i>774g</i>.<p><b>Étym</b>. ἀπό, λεπίς.`

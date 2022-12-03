@@ -1,1 +1,0 @@
-lar[73140]=`<b>ώ (ὁ)</b> <i>att. c</i>. ὄρφος, AR. <i>Vesp. 493</i> ; PLAT. COM. (ATH. <i>5d</i>), <i>etc</i>.`

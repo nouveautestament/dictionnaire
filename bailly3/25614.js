@@ -1,1 +1,0 @@
-lar[25614]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font><br><b>      1</b> qui a de l’étendue <i>ou</i> des dimensions, PHIL. <i>2, 184</i>.<br><b>      2</b> qui marque l’éloignement (<i>p. ex. le pron</i>. ἐκεῖνος) DYSC. <i>Pron. 332b.</i><br><b>      3</b> séparé par des intervalles, <i>t. de mus</i>. ARISTOX. <i>Elem. p. 9, 10</i>.<p><b>Étym</b>. διάστημα.`

@@ -1,1 +1,0 @@
-lar[42330]=`<b>ας (ἡ)</b> direction en ligne droite, droit chemin, PLAT. <i>Rsp. 436e, Tim. 45c ;</i> ARSTT. <i>An. 1, 2, 14</i> ; PLUT. <i>M. 2d ;</i> κατ' εὐθυωρίαν, T. LOCR. <i>94b ;</i> ARSTT. <i>P.A. 2, 8, 7</i> ; εἰς εὐθυωρίαν, ARSTT. <i>Metaph. 1, 2, 1,</i> directement.<p><b>Étym</b>. εὐθύωρος.`

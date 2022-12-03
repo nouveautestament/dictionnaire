@@ -1,1 +1,0 @@
-lar[55628]=`<b>κισσο·δέτας, ου</b> <font color="purple">[ᾱ]</font> <i>adj. m. dor</i>. couronné de lierre, <i>ép. de Bacchus,</i> PD. <i>fr. 45, 9</i>.<p><b>Étym</b>. κισσός, δέω.`

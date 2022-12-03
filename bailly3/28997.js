@@ -1,1 +1,0 @@
-lar[28997]=`<b>δυσ·φώρατος, ος, ον</b> <font color="purple">[ᾱ]</font> difficile à prendre en flagrant délit, PLUT. <i>M. 51d</i>.<p><b>Étym</b>. δ. φωράω.`

@@ -1,1 +1,0 @@
-lar[80268]=`<b>ας (ἡ)</b> sorte d’antidote, A. TR. <i>1, p. 26</i>.`

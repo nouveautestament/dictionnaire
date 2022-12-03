@@ -1,1 +1,0 @@
-lar[76373]=`<b>Παρ·αυαῖοι, ων (οἱ)</b> riverains du fl. Auos <i>en Thesprotie,</i> THC. <i>2, 80</i>.<p><b>Étym</b>. π. Αὖος.`

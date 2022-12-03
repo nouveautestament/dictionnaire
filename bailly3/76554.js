@@ -1,1 +1,0 @@
-lar[76554]=`<b>ή, όν</b>, sédentaire, <i>d’où</i> fixe, durable, ORIB. <i>329 Matthäi</i>.<p><b>Étym</b>. παρεδρεύω.`

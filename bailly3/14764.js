@@ -1,1 +1,0 @@
-lar[14764]=`<b>ἀριστο·φυής, ής, ές</b> (<i>seul</i>. <i>• Sup</i>. -έστατος) <font color="purple">[ᾰ]</font> d’une excellente nature, ECPHANT. (STOB. <i>Fl. 48, 64).</i><p><b>Étym</b>. ἄ. φύω.`

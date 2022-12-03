@@ -1,1 +1,0 @@
-lar[104823]=`<b>Φανό·δημος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Phanodèmos, <i>h</i>. PLUT. <i>Them. 13, Cim. 12, 19, etc</i>.<p><b>Étym</b>. φαίνω, δῆμος.`

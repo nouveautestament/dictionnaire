@@ -1,1 +1,0 @@
-lar[3654]=`<b>ἀ·κράτητος, ος, ον</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> non maîtrisé, ARSTT. <i>Meteor. 4, 7, 11</i>.<br><b>      2</b> qu’on ne peut maîtriser, immodéré, effréné, HDN <i>1, 8</i>.<p><b>Étym</b>. ἀ, κρατέω.`

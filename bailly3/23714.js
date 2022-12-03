@@ -1,1 +1,0 @@
-lar[23714]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> prélèvement <i>ou</i> paiement de la dîme, DH. <i>1, 40</i>.<br><b>      2</b> action de décimer, décimation, DH. <i>1, 24</i>.<p><b>Étym</b>. δεκατεύω.`

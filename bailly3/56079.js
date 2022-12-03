@@ -1,1 +1,0 @@
-lar[56079]=`<b>κλινο·χαρής, ής, ές</b> <font color="purple">[ῑᾰ]</font> qui se plaît au lit, LUC. <i>Trag. 131</i>.<p><b>Étym</b>. κλίνη, χαίρω.`

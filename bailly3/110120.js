@@ -1,1 +1,0 @@
-lar[110120]=`<b>ης (ἡ)</b> Ôéroè (<i>auj</i>. Oerói <i>ou</i> Livadóstra) <i>ruisseau de Béotie, ainsi nommé d’une fille d’Asopos,</i> HDT. <i>9, 51</i>.`

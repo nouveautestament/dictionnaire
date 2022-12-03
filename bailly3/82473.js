@@ -1,1 +1,0 @@
-lar[82473]=`<b>πολυ·τρίπους, -ποδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> riche en trépieds, ANTH. <i>7, 709</i>.`

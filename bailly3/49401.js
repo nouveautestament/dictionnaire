@@ -1,1 +1,0 @@
-lar[49401]=`<b>ἱππο·πῆραι, ῶν (αἱ)</b> porte-manteau de cavalier, SÉN. <i>Ep. 87, 7</i>.<p><b>Étym</b>. ἵ. πήρα.`

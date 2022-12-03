@@ -1,1 +1,0 @@
-lar[88220]=`<b>ιγγος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> jaillissement, éclaboussure, <i>d’où</i> :<br><b>      1</b> goutte d’eau, IL. <i>11, 536 ; 20, 501</i> ; HÉS. <i>Th. 183</i> ; ANTH. <i>9, 302</i>.<br><b>      2</b> grains de poussière qui vole, IL. <i>23, 502</i>.`

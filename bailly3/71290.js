@@ -1,1 +1,0 @@
-lar[71290]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> sorte de froment <i>ou</i> d’épeautre, IL. <i>5, 196 ; 8, 564</i> ; HDT. <i>2, 36, 77</i> ; DÉM. <i>100 fin, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

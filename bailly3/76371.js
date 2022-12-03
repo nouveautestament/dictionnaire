@@ -1,1 +1,0 @@
-lar[76371]=`<font color="purple">[ῠῐ]</font> <i>adv</i>., par une reproduction grossière, GAL. <i>7, 454</i>.`

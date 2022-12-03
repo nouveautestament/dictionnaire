@@ -1,1 +1,0 @@
-lar[97512]=`<b>ου (ὁ)</b> Tanaros, <i>fl. de Ligurie, affl. du Pô,</i> EL. <i>N.A. 14, 29</i>.`

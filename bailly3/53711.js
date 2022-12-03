@@ -1,1 +1,0 @@
-lar[53711]=`<b>κατα·χαλκεύω :<br>      1</b> travailler en cuivre <i>ou</i> en airain, garnir de cuivre <i>ou</i> d’airain, PLUT. <i>Lys. 17</i>.<br><b>      2</b> travailler, fabriquer, <i>en gén</i>. NYSS. <i>2, 770</i>.`

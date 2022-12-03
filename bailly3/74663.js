@@ -1,1 +1,0 @@
-lar[74663]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰτ]</font> vin de palmier, A. TR. <i>7, 374</i>.`

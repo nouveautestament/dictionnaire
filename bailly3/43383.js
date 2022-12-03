@@ -1,1 +1,0 @@
-lar[43383]=`<i>adv</i>., avec vigueur, avec force, XÉN. <i>Ages. 2, 24</i>.`

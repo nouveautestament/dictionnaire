@@ -1,1 +1,0 @@
-lar[44293]=`<i>seul. dans la locut</i>. ἐχόντως νοῦν, HDT. <i>4, 36 conj.</i> ; PLAT. <i>Leg. 686e</i>, PHIL. <i>64a, c</i>. νουνεχόντως.<p><b>Étym</b>. ἔχω.`

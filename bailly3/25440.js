@@ -1,1 +1,0 @@
-lar[25440]=`<b>δι·αρμόζω</b> <i>ou</i> <b>δι·αρμόττω</b> <font color="darkgreen">(<i>f</i>. -αρμόσω)</font> disposer en divers endroits, EUR. <i>Or. 1450</i>.<br><b><i>Moy.</i></b> disposer, arranger, POL. <i>8, 27, 5 ; fig</i>. ordonner, régler (sa vie) PLUT. <i>M. 88a</i>.`

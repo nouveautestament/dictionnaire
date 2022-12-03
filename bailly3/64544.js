@@ -1,1 +1,0 @@
-lar[64544]=`<b>*μεσο·παγής</b>, <i>épq</i>. <b>μεσσο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> fiché par le milieu, NONN. <i>D. 1, 233</i> ; SYN. <i>Hymn. 6, 9</i>.<p><b>Étym</b>. μέσος, πήγνυμι.`

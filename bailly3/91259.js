@@ -1,1 +1,0 @@
-lar[91259]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> la Scythie (<i>v</i>. Σκύθης) EUR. (ARSTT. <i>Meteor. 1, 13</i>) ; PLUT. <i>Pomp. 70, etc</i>.<p>➳ <i>Ion</i>. Σκυθίη, CALL. <i>Dian. 174</i> ; ANTH. <i>4, 397, etc</i>.<p><b>Étym</b>. Σκύθης.`

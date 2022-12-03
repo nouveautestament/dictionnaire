@@ -1,1 +1,0 @@
-lar[96164]=`<b>συν·ομαρτέω-ῶ</b>, accompagner, <i>dat</i>. SOL. <i>5, 55</i> ; PÉRICT. (STOB. <i>Fl. 85, 19</i>) ; PLUT. <i>M. 786e</i>.`

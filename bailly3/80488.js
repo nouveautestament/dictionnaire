@@ -1,1 +1,0 @@
-lar[80488]=`<b>ας (ἡ) :<br>      1</b> abreuvoir, EUR. <i>Cycl. 47</i>.<br><b>      2</b> boisson, STR. <i>356</i>.<p><b>Étym</b>. πίνω.`

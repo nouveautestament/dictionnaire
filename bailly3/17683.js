@@ -1,1 +1,0 @@
-lar[17683]=`<b>αὐτο·σανδαράκη, ης (ἡ)</b> <font color="purple">[δᾰᾰ]</font> la sandaraque en soi, ALCIPHR. <i>fr. 4, 1</i>.`

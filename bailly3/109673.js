@@ -1,1 +1,0 @@
-lar[109673]=`<b>ψευδο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ῐκᾰ]</font> faux maître, faux docteur, NT. <i>2Petr. 2, 1</i>.`

@@ -1,1 +1,0 @@
-lar[9420]=`<b>ἀντ·ακολουθέω-ῶ</b> <font color="purple">[ᾰκ]</font> suivre à son tour, <i>dat</i>. CHRYSIPP. (PLUT. <i>M. 1046e</i>) ; DL. <i>7, 125</i>.`

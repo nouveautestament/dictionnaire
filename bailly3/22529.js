@@ -1,1 +1,0 @@
-lar[22529]=`<b>ων (οἱ)</b> les Goths, <i>pple scythe,</i> THÉM. <i>140</i> ; ANTH. <i>9, 805</i>.`

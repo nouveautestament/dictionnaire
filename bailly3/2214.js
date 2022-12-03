@@ -1,1 +1,0 @@
-lar[2214]=`<b>ΐδος (ἡ)</b> la tribu Ægèïde, <i>à Athènes,</i> ESCHN. <i>1, 125 Baiter-Sauppe</i> ; PLUT. <i>Alc. 21, etc</i>.<p><b>Étym</b>. Αἰγεύς.`

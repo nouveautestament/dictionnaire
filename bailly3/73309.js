@@ -1,1 +1,0 @@
-lar[73309]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> bannissement par l’ostracisme, ARSTT. <i>Pol. 3, 13, etc</i>.<p><b>Étym</b>. ὀστρακίζω.`

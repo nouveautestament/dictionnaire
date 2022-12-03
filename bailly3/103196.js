@@ -1,1 +1,0 @@
-lar[103196]=`<b>ὑπο·δράω-ῶ</b>, être serviteur de, <i>dat</i>. OD. <i>15, 333</i> ; EL. <i>N.A. 9, 33</i>.<p>➳ <i>Prés. ind. 3 pl. épq</i>. ὑποδρώωσιν, OD. <i>l. c</i>.`

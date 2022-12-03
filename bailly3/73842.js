@@ -1,1 +1,0 @@
-lar[73842]=`<b>ὀφιο·μάχης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>sorte de sauterelle (propr</i>. qui combat les serpents) SPT. <i>Lev. 11, 22</i>.<p><b>Étym</b>. ὄφ. μάχομαι.`

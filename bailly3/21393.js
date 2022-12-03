@@ -1,1 +1,0 @@
-lar[21393]=`<b>ου (ἡ)</b> <font color="purple">[ᾰρο]</font> Gargaros, <i>v. près de la cime Γάργαρον du mt Ida,</i> Q. SM. <i>10, 90, etc</i>.`

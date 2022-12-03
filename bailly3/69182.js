@@ -1,1 +1,0 @@
-lar[69182]=`<b>ου (ὁ)</b> gardien de nuit, <i>n. d’une constellation, sel. d’autres</i> la planète Saturne, PLUT. <i>M. 941c</i>.`

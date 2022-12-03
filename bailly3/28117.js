@@ -1,1 +1,0 @@
-lar[28117]=`<b>δυο·τριακοστός, ή, όν</b> <font color="purple">[ᾱ]</font> trente-deuxième, ORIG. <i>2, 80 Migne</i>.`

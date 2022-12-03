@@ -1,1 +1,0 @@
-lar[106540]=`<b>Φοινικιάς ἄνεμος (ὁ)</b> <font color="purple">[νῑ]</font> le vent de Phénicie, <i>càd</i>. du sud-est, ARSTT. <i>Meteor. 2, 6, 10 ; Vent. 6</i>.<p><b>Étym</b>. Φοῖνιξ.`

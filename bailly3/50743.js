@@ -1,1 +1,0 @@
-lar[50743]=`<b>κακο·θεραπεία, ας (ἡ)</b> <font color="purple">[ᾰρᾰ]</font> guérison incomplète, HPC. <i>521, 34 ; 522, 24</i>.<p><b>Étym</b>. κ. θεραπεύω.`

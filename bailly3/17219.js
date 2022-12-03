@@ -1,1 +1,0 @@
-lar[17219]=`<b>αὐλο·ποιϊκή, ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art de fabriquer des aulos, PLAT. <i>Euthyd. 289c</i>.<p><b>Étym</b>. αὐλοποιός.`

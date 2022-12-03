@@ -1,1 +1,0 @@
-lar[98641]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> quadruple, PLAT. <i>Rsp. 369e, etc. ; avec le gén</i>. quadruple de, ARSTT. <i>H.A. 2, 17, 16</i>.<p><b>Étym</b>. τετρα, -πλάσιος.`

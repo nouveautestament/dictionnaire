@@ -1,1 +1,0 @@
-lar[58463]=`<b>ων (οἱ)</b> <font color="purple">[ῠ]</font> les Kydônes, <i>pple de Crète,</i> OD. <i>3, 292 ; 19, 176</i> ; CALL. <i>Jov. 45 ; Dian. 197</i>.<p><b>Étym</b>. Κυδωνία.`

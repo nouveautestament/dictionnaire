@@ -1,1 +1,0 @@
-lar[34319]=`<b>ἐν·εκπλύνω</b> <font color="purple">[ῡ]</font> (<i>seul. prés</i>.) laver dans, POLYZ. (POLL. <i>10, 76</i>).`

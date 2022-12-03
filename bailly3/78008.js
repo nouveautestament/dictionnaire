@@ -1,1 +1,0 @@
-lar[78008]=`<b>πεντά·νευρον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>sorte de</i> plantain à larges nervures, GAL. <i>14, 528</i>.<p><b>Étym</b>. π. νεῦρον.`

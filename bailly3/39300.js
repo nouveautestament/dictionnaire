@@ -1,1 +1,0 @@
-lar[39300]=`<b>ἐπι·σχίζω</b>, fendre à la surface, sillonner, rayer, A.RH. <i>2, 662</i> ; STR. <i>763</i>.`

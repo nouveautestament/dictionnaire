@@ -1,1 +1,0 @@
-lar[66849]=`<i>mieux que</i> <b>Μουνυχίαζε</b>, <i>adv</i>., à Munichie, <i>avec mouv</i>. LYS. <i>132, 25</i>.<p><b>Étym</b>. Μ. -ζε.`

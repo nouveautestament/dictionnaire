@@ -1,1 +1,0 @@
-lar[13967]=`<b>ἀ·πρόσμαχος, ος, ον</b> <font color="purple">[μᾰ]</font> contre qui l’on ne peut combattre, irrésistible, SOPH. <i>Tr. 1098</i> ; LUC. <i>Tox. 48</i>.<p><b>Étym</b>. ἀ, προσμάχομαι.`

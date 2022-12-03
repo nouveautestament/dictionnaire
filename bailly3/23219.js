@@ -1,1 +1,0 @@
-lar[23219]=`<i>adv</i>., en mordant, OPP. <i>H. 4, 60</i>.<p><b>Étym</b>. δάκνω, <i>cf</i>. ὀδάξ.`

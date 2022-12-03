@@ -1,1 +1,0 @@
-lar[106436]=`(<i>seul. part. prés. fém</i>. φλοίουσα) <i>c</i>. φλέω, ANTIM. <i>36 Kinkel</i>.`

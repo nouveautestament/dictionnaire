@@ -1,1 +1,0 @@
-lar[26316]=`<b>ῆρος (ὁ)</b> directeur, gouverneur, MAN. <i>4, 106</i>.<p><b>Étym</b>. διευθύνω.`

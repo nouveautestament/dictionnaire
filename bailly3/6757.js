@@ -1,1 +1,0 @@
-lar[6757]=`<b>εως (ἡ)</b> recherche, PLAT. <i>Criti. 110a</i>.`

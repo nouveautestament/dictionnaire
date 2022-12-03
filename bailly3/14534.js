@@ -1,1 +1,0 @@
-lar[14534]=`<b>(ὁ)</b> Arthmiadas, <i>h</i>. PLUT. <i>Lyc. 5</i>.<p><b>Étym</b>. <i>patr. de</i> Ἄρθμιος.`

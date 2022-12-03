@@ -1,1 +1,0 @@
-lar[6797]=`<b>ἄν·αθλος, ος, ον</b> <font color="purple">[ᾱθ]</font> impropre à la lutte, LUC. <i>Cal. 12</i>.<p><b>Étym</b>. ἀν-, ἆθλος.`

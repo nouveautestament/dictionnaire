@@ -1,1 +1,0 @@
-lar[108448]=`<b>ης (ἡ)</b> <font color="purple">[χῑ]</font> sacrifice de mille victimes, JOS. <i>Hypomn. c. 74</i> ; JUL. <i>214a</i>.<p><b>Étym</b>. <i>mot formé sur le modèle de</i> ἑκατόμβη, <i>de</i> χίλιοι.`

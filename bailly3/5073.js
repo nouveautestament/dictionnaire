@@ -1,1 +1,0 @@
-lar[5073]=`<b>α, ον</b> <font color="purple">[ῐ]</font> propre à contenir de la farine, ANTIPH. (POLL. <i>10, 179</i> ; ἀλφιτηρόν, <i>sel. Cobet).</i><p><b>Étym</b>. ἄλφιτον.`

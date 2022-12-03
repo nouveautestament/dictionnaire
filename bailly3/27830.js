@@ -1,1 +1,0 @@
-lar[27830]=`<b>δραματο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾱᾰ]</font> auteur dramatique, LUC. <i>Philopatr. 13</i>.<p><b>Étym</b>. δρᾶμα, ποιέω.`

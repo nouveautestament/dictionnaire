@@ -1,1 +1,0 @@
-lar[102667]=`<b>ὑπερ·νοέω-οῶ</b>, réfléchir <i>ou</i> méditer sur, <i>acc</i>. SOPH. <i>O.C. 1741 dout</i>.`

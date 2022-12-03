@@ -1,1 +1,0 @@
-lar[58242]=`<b>οῦ (ὁ)</b> action de peigner, EUR. <i>El. 529</i>.<p><b>Étym</b>. κτενίζω.`

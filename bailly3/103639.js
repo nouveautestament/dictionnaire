@@ -1,1 +1,0 @@
-lar[103639]=`<b>ὑπο·παίζω</b>, plaisanter un peu, badiner, EL. <i>N.A. 12, 2</i>.`

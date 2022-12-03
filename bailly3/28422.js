@@ -1,1 +1,0 @@
-lar[28422]=`<b>δυσ·επίγνωστος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à connaître, APP. <i>Civ. 1, 18</i> ; SYN. <i>152c</i>.<p>•<i> Cp</i>. -ότερος, NYSS.<p><b>Étym</b>. δ. ἐπιγιγνώσκω.`

@@ -1,1 +1,0 @@
-lar[24891]=`<b>δια·κωδωνίζω :<br>      1</b> éprouver (un vase) par le son, <i>d’où</i> éprouver, <i>acc</i>. DÉM. <i>393, 17</i>.<br><b>      2</b> sonner la cloche pour congédier (des enfants, <i>etc</i>.) PHILSTR. <i>619</i>.<br><b>      3</b> répandre un bruit de côté et d’autre, divulguer, STR. <i>99</i>.`

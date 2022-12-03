@@ -1,1 +1,0 @@
-lar[16015]=`(<i>seul. prés</i>.) <font color="purple">[πᾰ]</font> palpiter, se débattre, ARSTT. <i>P.A. 4, 13, 11</i>.<p><b>Étym</b>. ἀσπαίρω.`

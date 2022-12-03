@@ -1,1 +1,0 @@
-lar[47749]=`<b>ου (τὸ)</b> Thronion (près de Romani) <i>capitale de la Locride épicnémidienne,</i> IL. <i>2, 533</i> ; THC. <i>2, 26</i>.`

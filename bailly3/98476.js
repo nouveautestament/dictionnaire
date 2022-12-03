@@ -1,1 +1,0 @@
-lar[98476]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec économie, DH. <i>Thuc. 41</i>.<p><b>Étym</b>. ταμιεύω.`

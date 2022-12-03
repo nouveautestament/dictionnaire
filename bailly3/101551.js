@@ -1,1 +1,0 @@
-lar[101551]=`<b>ὑδρο·κιρσοκήλη, ης (ἡ)</b> sorte de maladie des organes génitaux, GAL. <i>Def. med. 19, 448</i>.`

@@ -1,1 +1,0 @@
-lar[74981]=`<b>Παν·ελλήνιος, α, ον :<br>      1</b> protecteur de tous les Grecs (Zeus) PAUS. <i>1, 18, 9, etc.</i><br><b>      2</b> <i>subst</i>. τὰ Πανελλήνια (<i>s.e</i>. ἱερά) PHILSTR. <i>549, 597,</i> fête de Zeus Panhellènios dans les États helléniques.<p><b>Étym</b>. π. Ἕλλην.`

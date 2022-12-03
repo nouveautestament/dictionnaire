@@ -1,1 +1,0 @@
-lar[106551]=`<b>α, ον</b> <font color="purple">[νῑ]</font> de Phénicie, phénicien, SOPH. <i>fr. 460</i> ; DS. <i>3, 67 ; 5, 74</i> ; PLUT. <i>M. 738e</i>.<p><b>Étym</b>. Φοῖνιξ.`

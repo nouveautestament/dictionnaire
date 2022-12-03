@@ -1,1 +1,0 @@
-lar[70470]=`<b>οἰναδο·θήρας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> chasseur de pigeons ramiers, EL. <i>N.A. 4, 38</i>.<p><b>Étym</b>. οἰνάς, θηράω.`

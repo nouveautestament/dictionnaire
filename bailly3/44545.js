@@ -1,1 +1,0 @@
-lar[44545]=`<b>ζηνο·δοτήρ, ῆρος (ὁ)</b> qui transmet les oracles de Zeus (Apollon) ANTH. <i>9, 525</i>.<p><b>Étym</b>. Ζήν, δοτήρ.`

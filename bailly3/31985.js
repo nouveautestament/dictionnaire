@@ -1,1 +1,0 @@
-lar[31985]=`<b>ἐκ·πυτίζω</b> <font color="purple">[ῡ]</font><br><b>      1</b> rejeter un liquide après l’avoir dégusté, ALEX. (ATH. <i>124b</i>).<br><b>      2</b> <i>p. suite,</i> épancher (un liquide d’une coupe) HÉRON <i>Aut. 247</i>.`

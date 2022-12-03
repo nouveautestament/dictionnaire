@@ -1,1 +1,0 @@
-lar[59361]=`<b>λαβρο·φαγέω-ῶ</b> <font color="purple">[αᾰ]</font> manger avec voracité <i>ou</i> intempérance, DL. <i>6, 28</i>.<p><b>Étym</b>. λάβρος, φαγεῖν.`

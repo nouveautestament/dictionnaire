@@ -1,1 +1,0 @@
-lar[69577]=`<b>ξιφισμός, οῦ (ὁ)</b> <font color="purple">[ξῐ]</font> sorte de danse guerrière, ATH. <i>629f</i>.<p><b>Étym</b>. ξιφίζω.`

@@ -1,1 +1,0 @@
-lar[30528]=`<b>ων (αἱ)</b> <font color="purple">[ᾰ]</font> femmes de frères <i>ou</i> de beaux-frères, belles-sœurs, IL. <i>6, 378 ; 22, 473</i>.<p><b>Étym</b>. <i>cf. lat</i>. janitrīces, <i>sscr</i>. yâtaras.`

@@ -1,1 +1,0 @@
-lar[35694]=`<b>εως (ἡ)</b> caution, garantie, DÉM. <i>725, 10</i>.<p><b>Étym</b>. ἐξεγγυάω.`

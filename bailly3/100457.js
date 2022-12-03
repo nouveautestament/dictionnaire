@@ -1,1 +1,0 @@
-lar[100457]=`<b>τρισκαιδεκα·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui donne treize récoltes par an, LUC. <i>V.H. 2, 13</i>.<p><b>Étym</b>. τρ. φέρω.`

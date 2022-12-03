@@ -1,1 +1,0 @@
-lar[65451]=`<b>ιδος (ὁ)</b> Mènis, <i>roi d’Égypte,</i> EL. <i>N.A. 11, 10 et 40</i>.<p><b>Étym</b>. <i>cf</i>. Μήν <i>et</i> Μηνᾶς.`

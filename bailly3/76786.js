@@ -1,1 +1,0 @@
-lar[76786]=`<b>παρ·έρπω</b> (<i>seul. prés. et impf</i>.) :<br><b>      1</b> se glisser furtivement, THCR. <i>Idyl. 15, 48</i>.<br><b>      2</b> passer le long de <i>ou</i> au delà de, <i>acc</i>. A. PL. <i>4, 11</i>.<p><b>Étym</b>. π. ἕρπω.`

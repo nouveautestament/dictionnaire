@@ -1,1 +1,0 @@
-lar[10789]=`<b>Ἀνύσιος νομός (ὁ)</b> le nome d’Anysis, <i>en Égypte,</i> HDT. <i>2, 166</i>.<p><b>Étym</b>. Ἄνυσις.`

@@ -1,1 +1,0 @@
-lar[91809]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> enroulement, peloton, PLUT. <i>M. 1077b</i>.<p><b>Étym</b>. σπειράω.`

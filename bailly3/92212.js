@@ -1,1 +1,0 @@
-lar[92212]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> fil à plomb, <i>d’où</i> niveau ; ἵπποι σταφύλῃ ἐπὶ νῶτον ἐῗσαι, IL. <i>2, 765,</i> cavales dont le dos est de niveau, comme un fil à plomb.<p><b>Étym</b>. <i>cf</i>. σταφυλή.`

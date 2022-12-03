@@ -1,1 +1,0 @@
-lar[72466]=`<b>ή, όν</b>, visible, LUC. <i>Lex. 9</i>.<p><b>Étym</b>. <i>vb. de</i> ὄψομαι.`

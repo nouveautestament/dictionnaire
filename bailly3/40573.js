@@ -1,1 +1,0 @@
-lar[40573]=`<b>Ἑρμ·άνουβις, ιδος (ὁ)</b> <font color="purple">[ᾰ]</font> statue d’Hermès-Anoubis, PLUT. <i>Is. et Os. 61</i> ; ANTH. <i>11, 360</i>.<p><b>Étym</b>. Ἑρμῆς, Ἄνουβις.`

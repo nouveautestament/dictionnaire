@@ -1,1 +1,0 @@
-lar[58840]=`<b>κυνο·σσόος, όος, όον</b>, qui lance des chiens, chasseur, ATH. <i>160b ;</i> NONN. <i>D. 1, 233</i>.<p><b>Étym</b>. κ. σεύω.`

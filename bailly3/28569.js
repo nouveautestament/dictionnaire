@@ -1,1 +1,0 @@
-lar[28569]=`<b>δυσ·κατούλωτος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à cicatriser, DIOSC. <i>5, 95</i> ; APOLL. PAR. <i>Hist. mir. 199, 37</i>.<p><b>Étym</b>. δ. κατουλόω.`

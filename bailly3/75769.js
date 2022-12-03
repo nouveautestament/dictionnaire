@@ -1,1 +1,0 @@
-lar[75769]=`<b>παρα·κολλάω-ῶ :<br>      1</b> coller à, souder avec, <i>dat</i>. HPC. <i>Mochl. 843</i>.<br><b>      2</b> rapprocher les bords d’une blessure, GAL. <i>14, 519</i>.`

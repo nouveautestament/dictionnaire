@@ -1,1 +1,0 @@
-lar[83706]=`<b>προ·αρθρεμβολέω-ῶ</b>, remboîter auparavant, GAL. <i>18, 772</i>.`

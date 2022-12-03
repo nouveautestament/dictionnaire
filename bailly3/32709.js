@@ -1,1 +1,0 @@
-lar[32709]=`<i>adv</i>., d’une manière libérale, XÉN. <i>Mem. 2, 7, 4</i>.<p>•<i> Cp</i>. -ώτερον, XÉN. <i>Mem. 1, 6, 3, etc. ; • Sup</i>. -ώτατα, XÉN. <i>Mem. 4, 8, 1</i>.<p><b>Étym</b>. ἐλευθέριος.`

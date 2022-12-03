@@ -1,1 +1,0 @@
-lar[90547]=`<b>ή, όν</b> <font color="purple">[σῑ]</font> qui concerne la préparation du pain <i>ou</i> des aliments, XÉN. <i>Cyr. 6, 2, 31 ; Œc. 9, 9</i> ; POL. <i>1, 22, 7</i>.<p><b>Étym</b>. σιτοποιός.`

@@ -1,1 +1,0 @@
-lar[90191]=`<b>εντος</b>, <i>p. contr</i>. <b>Σιδοῦς, οῦντος (ὁ)</b> <font color="purple">[ῐ]</font> Sidunte, <i>lieu près de Corinthe,</i> XÉN. <i>Hell. 4, 4, 13</i> ; NIC. <i>et</i> EUPH. (ATH. <i>82a</i>).<p>➳ Σιδόεις, NIC. <i>et</i> EUPH. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. σιδόεις.`

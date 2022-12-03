@@ -1,1 +1,0 @@
-lar[14325]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> gain d’argent, STR. <i>300</i> ; PHIL. <i>1, 145, etc</i>.<p><b>Étym</b>. ἀργυρίζομαι.`

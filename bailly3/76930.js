@@ -1,1 +1,0 @@
-lar[76930]=`<b>α, ον</b>, des Parthes, <i>d’où</i> ἡ Παρθυαία (<i>s.-e</i>. χώρα) STR. <i>491,</i> la Parthiène, <i>pays des Parthes</i> ; οἱ Παρθυαῖοι, PLUT. <i>Eum. 18, etc</i>. les Parthes.<p><b>Étym</b>. Πάρθοι.`

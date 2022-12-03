@@ -1,1 +1,0 @@
-lar[85700]=`<b>προσ·επινοέω-οῶ</b>, inventer <i>ou</i> imaginer en outre, POL. <i>20, 6, 4</i> ; DS. <i>1, 15</i> ; LUC. <i>Alex. 36</i>.`

@@ -1,1 +1,0 @@
-lar[56721]=`<b>ή, όν</b>, de Kolophôn, qui concerne Kolophôn, ATH. <i>569d</i>.<p><b>Étym</b>. Κολοφών.`

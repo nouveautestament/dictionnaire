@@ -1,1 +1,0 @@
-lar[102762]=`<b>ὑπερ·πλεονάζω</b>, être surabondant, excessif, HÉRON <i>Spir. p. 165, 40</i> ; NT. <i>1Tim. 1, 14</i>.`

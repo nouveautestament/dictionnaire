@@ -1,1 +1,0 @@
-lar[68829]=`<b>ιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. qui contient du nitre, STR. <i>12, 14, 8 Kram</i>.<p><b>Étym</b>. νίτρον.`

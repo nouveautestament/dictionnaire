@@ -1,1 +1,0 @@
-lar[1468]=`<font color="purple">[ᾱͅ]</font> <i>adv</i>., en venant des enfers, HERMÈS. (ATH. <i>597b</i>).<p><b>Étym</b>. ᾍδης, -θεν.`

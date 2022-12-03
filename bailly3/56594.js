@@ -1,1 +1,0 @@
-lar[56594]=`<b>Κολακο·φωρο·κλείδης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> fils de Kolakophôroklès (<i>propr</i>. flatteur et voleur) <i>parodie du nom</i> Ἱεροκλείδης (fils d’Hiéroklès) HERMIPP. <i>et</i> PHRYN. (HSCH.).<p><b>Étym</b>. κόλαξ, φώρ, κλέος.`

@@ -1,1 +1,0 @@
-lar[91909]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. σπινθήρ, HH. <i>Ap. 442</i>.`

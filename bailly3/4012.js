@@ -1,1 +1,0 @@
-lar[4012]=`<b>ων (τὰ)</b> Alabandes :<br><b>      1</b> <i>v. de Carie,</i> HDT. <i>7, 195</i>.<br><b>      2</b> <i>anc. n. d’Antioche en Phrygie,</i> HDT. <i>8, 136</i>.`

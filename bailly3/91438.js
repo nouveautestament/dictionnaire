@@ -1,1 +1,0 @@
-lar[91438]=`<font color="purple">[ᾰᾰ]</font> <i>c</i>. σμαραγέω, HÉS. <i>Th. 693</i> ; Q. SM. <i>14, 558</i>.<p>➳ <i>Impf. épq</i>. σμαράγιζον, Q. SM. <i>l. c</i>.`

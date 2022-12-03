@@ -1,1 +1,0 @@
-lar[96999]=`<b>οῦ (ὁ)</b> constructeur de barques, de canots <i>ou</i> de radeaux, THÉM. <i>316b</i>.<p><b>Étym</b>. σχεδία, ἔργον.`

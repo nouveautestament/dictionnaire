@@ -1,1 +1,0 @@
-lar[99135]=`<b>ου (ὁ)</b> Tithraustès, <i>Perse,</i> XÉN. <i>Hell. 3, 4, 25</i> ; PLUT. <i>Cim. 12, Ages. 10, etc</i>.`

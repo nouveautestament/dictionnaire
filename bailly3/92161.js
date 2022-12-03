@@ -1,1 +1,0 @@
-lar[92161]=`<b>Στασι·κράτης, ους (ὁ)</b> <font color="purple">[ᾱᾰ]</font> Stasikratès. <i>h</i>. PLUT. <i>Alex. 72, etc.</i> ; ANTH. <i>12, 91</i>.<p>➳ <i>Acc</i>. -ην, PLUT. <i>l. c</i>.<p><b>Étym</b>. ἵστημι, κράτος.`

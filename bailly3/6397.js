@@ -1,1 +1,0 @@
-lar[6397]=`<b>ἀμφι·τιττυβίζω</b> (<i>prés</i>.) <font color="purple">[ῠ]</font> gazouiller autour, AR. <i>Av. 235</i>.`

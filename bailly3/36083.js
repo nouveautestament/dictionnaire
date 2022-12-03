@@ -1,1 +1,0 @@
-lar[36083]=`<b>εως (ἡ)</b> changement de résidence, émigration, PLAT. <i>Leg. 704c, 850b</i>.<p><b>Étym</b>. ἐξοικέω.`

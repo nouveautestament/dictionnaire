@@ -1,1 +1,0 @@
-lar[79559]=`<b>περι·τυπόω-ῶ</b> <font color="purple">[ῠ]</font> façonner tout autour, dessiner les formes de, <i>acc</i>. SEXT. <i>P. 3, 75, 131, M. 10, 95</i>.`

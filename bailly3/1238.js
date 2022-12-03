@@ -1,1 +1,0 @@
-lar[1238]=`<b>ας (ἡ)</b> <font color="purple">[ᾰδ]</font> meurtre d’un frère <i>ou</i> d’une sœur, fratricide, JOS. <i>B.J. 1, 31, 2</i>.`

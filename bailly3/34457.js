@@ -1,1 +1,0 @@
-lar[34457]=`<b>ης (ἡ)</b> <i>ion</i>. bonne volonté, douceur, IL. <i>17, 670</i> ; OPP. <i>H. 5, 519</i>.<p><b>Étym</b>. ἐνηής.`

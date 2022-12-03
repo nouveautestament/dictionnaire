@@ -1,1 +1,0 @@
-lar[39378]=`<b>ἐπι·τεταμένως</b>, <i>adv</i>., avec intensité, fortement, ATH. <i>45d ;</i> DIOSC. <i>1, 105 ; 5, 171</i>.<p><b>Étym</b>. ἐπιτείνω.`

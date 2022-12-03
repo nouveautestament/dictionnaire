@@ -1,1 +1,0 @@
-lar[81458]=`<b>ποιν·ήλατος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> poursuivi par les Furies vengeresses, ANON. (SUID.).<br><b>      2</b> envoyé par les Furies vengeresses, SIMPL. <i>Epict. p. 117, 36 Dübn</i>.<p><b>Étym</b>. ποινή, ἐλαύνω.`

@@ -1,1 +1,0 @@
-lar[72029]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> instrument pour se tailler les ongles, POSIDIPP. (POLL. <i>10, 140).</i><p><b>Étym</b>. ὀνυχίζω.`

@@ -1,1 +1,0 @@
-lar[63046]=`<b>(ὁ)</b> Maskas, <i>fl. d’Arabie,</i> XÉN. <i>An. 1, 5, 4</i>.`

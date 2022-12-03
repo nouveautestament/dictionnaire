@@ -1,1 +1,0 @@
-lar[47770]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. θρυλιγμός, PORPH. PTOL. <i>Harm. p. 204</i>.`

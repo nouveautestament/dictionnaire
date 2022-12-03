@@ -1,1 +1,0 @@
-lar[102480]=`<b>ὑπερ·εχθαίρω</b>, haïr avec passion, SOPH. <i>Ant. 128</i>.`

@@ -1,1 +1,0 @@
-lar[97449]=`<b>Ταλθύ·βιος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Talthybios, <i>héraut d’Agamemnon,</i> IL. <i>1, 320 ; 19, 196, etc.</i> ; HDT. <i>7, 137</i> ; EUR. <i>I.A. 95, 1563, etc</i>.<p><b>Étym</b>. <i>p</i>. *Θαλεθόβιος, <i>de</i> θάλλω, βίος, « à la vie florissante ».`

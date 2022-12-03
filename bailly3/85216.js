@@ -1,1 +1,0 @@
-lar[85216]=`<b>προσ·αντλέω-ῶ</b>, bassiner, A. TR. <i>1, p. 51</i> ; ORIB. <i>p. 249 Matthäi</i>.`

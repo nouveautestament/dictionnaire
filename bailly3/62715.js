@@ -1,1 +1,0 @@
-lar[62715]=`<b>ῶν (οἱ)</b> les Malles, <i>pple indien,</i> PLUT. <i>Alex. 63</i>.`

@@ -1,1 +1,0 @@
-lar[81044]=`<b>ης (ἡ)</b> flux, grossissement d’une vague, HÉS. <i>fr. 25 Gaisford</i>.<p><b>Étym</b>. πλήθω.`

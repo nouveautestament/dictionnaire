@@ -1,1 +1,0 @@
-lar[43614]=`<b>εὔ·τοξος, ος, ον</b>, aux bonnes flèches <i>ou</i> aux traits nombreux, A. PL. <i>4, 214</i>.<p><b>Étym</b>. εὖ, τόξον.`

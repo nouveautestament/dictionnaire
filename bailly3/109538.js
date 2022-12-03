@@ -1,1 +1,0 @@
-lar[109538]=`<b>ψαλμ·ῳδός, οῦ (ὁ)</b> qui chante des psaumes, SPT. <i>1Par. 6, 33 ; Sir. 50, 10, 18 (var</i>. ψαλτῳδοί) ; CLÉM. <i>289</i>.<p><b>Étym</b>. ψαλμός, ᾠδή.`

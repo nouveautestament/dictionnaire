@@ -1,1 +1,0 @@
-lar[41774]=`<b>εὔ·γηρως, ως, ων</b>, qui jouit d’une belle vieillesse, CALL. <i>Ep. 41</i> ; ARSTT. <i>Rhet. 1, 5, 15</i>.<p><b>Étym</b>. εὖ, γῆρας.`

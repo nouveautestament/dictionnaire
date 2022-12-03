@@ -1,1 +1,0 @@
-lar[103575]=`<b>ὑπο·μυκάομαι-ῶμαι</b> <font color="purple">[μῡ]</font> mugir sourdement, ESCHL. <i>fr. 54</i>.`

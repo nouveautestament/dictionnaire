@@ -1,1 +1,0 @@
-lar[61927]=`<b>λυκόω-ῶ</b> <font color="purple">[ῠ]</font> dévorer, <i>en parl. d’un loup ; au pass</i>. <b>λυκόομαι-οῦμαι</b>, être dévoré par un loup <i>ou</i> par des loups, XÉN. <i>Cyr. 8, 3, 16</i>.<p><b>Étym</b>. λύκος.`

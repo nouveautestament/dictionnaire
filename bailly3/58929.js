@@ -1,1 +1,0 @@
-lar[58929]=`<b>ων (οἱ)</b> <font color="purple">[ῡ]</font> les habitants de Kyres, NONN. <i>D. 26, 174 (var</i>. Κιρραῖοι).<p><b>Étym</b>. Κῦρα.`

@@ -1,1 +1,0 @@
-lar[71598]=`<b>ὁμό·κραιρος, ος, ον</b>, aux cornes <i>ou</i> à la tête semblables, NONN. <i>D. 1, 336</i>.<p><b>Étym</b>. ὁμ. κραῖρα.`

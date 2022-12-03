@@ -1,1 +1,0 @@
-lar[40663]=`<b>υγος (ὁ)</b> jeune pousse, jeune branche, <i>d’où</i> corne naissante, ARSTT. <i>Poet. 21, 17</i>.<p><b>Étym</b>. ἔρνος.`

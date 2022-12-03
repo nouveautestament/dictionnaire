@@ -1,1 +1,0 @@
-lar[14603]=`<b>ων (τὰ)</b> <font color="purple">[ᾰῐ]</font> Arimes, <i>contrée et mt de Cilicie,</i> IL. <i>2, 783</i> ; HÉS. <i>Th. 301</i>.`

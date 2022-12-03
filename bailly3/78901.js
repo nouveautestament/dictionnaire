@@ -1,1 +1,0 @@
-lar[78901]=`<b>περι·μάδαρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> chauve tout autour de la tête, HPC. <i>Aph. 1256, etc</i>.<p><b>Étym</b>. π. μαδαρός.`

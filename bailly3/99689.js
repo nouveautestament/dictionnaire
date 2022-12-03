@@ -1,1 +1,0 @@
-lar[99689]=`<b>οῦ (ὁ)</b> <i>s.-e</i>. ζωμός, <i>sorte de</i> panade, C. AUR. <i>Chron. 1, 1</i>.<p><b>Étym</b>. τορυνάω.`

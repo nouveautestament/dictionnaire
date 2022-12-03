@@ -1,1 +1,0 @@
-lar[66055]=`<b>μισοποιέω-ῶ</b> <font color="purple">[ῑ]</font> rendre odieux, AQU. <i>Ps. 80, 16</i>.<p><b>Étym</b>. μισοποιός.`

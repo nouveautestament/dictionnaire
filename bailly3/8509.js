@@ -1,1 +1,0 @@
-lar[8509]=`<i>adv</i>., sans extension, PROCL. <i>Inst. theol. c. 52, p. 82</i>.`

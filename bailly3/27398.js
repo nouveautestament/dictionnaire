@@ -1,1 +1,0 @@
-lar[27398]=`<b>ου (τὸ)</b> petite poutre, ARSTT. <i>H.A. 4, 7, 14</i> ; DS. <i>18, 42</i>.<p><b>Étym</b>. δοκός.`

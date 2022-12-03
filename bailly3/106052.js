@@ -1,1 +1,0 @@
-lar[106052]=`<b>ας (ἡ)</b> <font color="purple">[ῐῑ]</font> sentiment de charité pour les pauvres (<i>litt</i>. pour les mendiants) ANTH. <i>15, 34</i>.<p><b>Étym</b>. φιλόπτωχος.`

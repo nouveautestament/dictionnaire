@@ -1,1 +1,0 @@
-lar[17912]=`<font color="purple">[ᾰ]</font> <i>adv</i>., faiblement, ANTH. <i>6, 267</i>.<p>•<i> Cp</i>. ἀφαυρότερον, ARAT. <i>227</i>.`

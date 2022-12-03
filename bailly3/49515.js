@@ -1,1 +1,0 @@
-lar[49515]=`<b>α (ὁ)</b> <font color="purple">[δᾱ]</font> Isadas, <i>Lacédémonien,</i> EL. <i>V.H. 6, 3</i>.`

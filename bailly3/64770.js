@@ -1,1 +1,0 @@
-lar[64770]=`<b>μετά·κοινος, ος, ον</b>, qui participe avec, associé à, <i>dat</i>. ESCHL. <i>Eum. 964 ; abs. Eum. 351, etc</i>.<p><b>Étym</b>. μ. κοινός.`

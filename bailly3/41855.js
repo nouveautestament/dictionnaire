@@ -1,1 +1,0 @@
-lar[41855]=`<b>εὐ·διάθετος, ος, ον</b> <font color="purple">[ᾰ]</font> bien ordonné, bien disposé, DYSC. <i>Synt. 291, 15</i>.<p><b>Étym</b>. εὖ, διατίθημι.`

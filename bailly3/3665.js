@@ -1,1 +1,0 @@
-lar[3665]=`<b>*ἀκρατο·πότης</b>, <i>seul. ion</i>. <b>ἀκρητο·πότης (ὁ)</b> qui boit du vin pur, solide buveur, HDT. <i>6, 84</i>.<p><b>Étym</b>. ἄ. πίνω.`

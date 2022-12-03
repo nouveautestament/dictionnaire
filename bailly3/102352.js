@@ -1,1 +1,0 @@
-lar[102352]=`<i>adv</i>., excessivement, ORPH. <i>Arg. 255</i>.<p><b>Étym</b>. ὑπερβάλλω, -δην.`

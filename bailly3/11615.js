@@ -1,1 +1,0 @@
-lar[11615]=`<b>ἀπειρό·τοκος, ος, ον</b>, qui ne connaît pas l’enfantement, vierge, ANTH. <i>6, 10</i>.<p><b>Étym</b>. ἄ. τόκος.`

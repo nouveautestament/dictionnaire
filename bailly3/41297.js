@@ -1,1 +1,0 @@
-lar[41297]=`<b>ἑτερό·γναθος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la bouche (<i>litt</i>. la mâchoire) est plus dure <i>ou</i> plus tendre d’un côté que de l’autre, <i>en parl. d’un cheval,</i> XÉN. <i>Eq. 1, 9, etc</i>.<p><b>Étym</b>. ἕ. γνάθος.`

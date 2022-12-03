@@ -1,1 +1,0 @@
-lar[84497]=`<b>προ·καταρτύω</b>, apprêter <i>ou</i> assaisonner auparavant, PLUT. <i>M. 31d</i>.`

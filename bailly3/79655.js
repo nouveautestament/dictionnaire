@@ -1,1 +1,0 @@
-lar[79655]=`<b>περι·χαίρω</b>, se réjouir fort, EUN. <i>p. 20</i>.`

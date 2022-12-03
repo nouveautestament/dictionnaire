@@ -1,1 +1,0 @@
-lar[13126]=`<b>ἀπο·πορεύομαι :<br>      1</b> s’éloigner de, <i>gén</i>. XÉN. <i>An. 7, 6, 33</i>.<br><b>      2</b> revenir sur ses pas, se retirer, retourner, POL. <i>25, 8, 6 ; en parl. d’automates,</i> HÉRON <i>Aut. 262</i>.`

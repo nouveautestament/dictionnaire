@@ -1,1 +1,0 @@
-lar[58379]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Kybélè (Cybèle) <i>déesse de Phrygie, dont le culte se confondit avec celui de Rhéa,</i> AR. <i>Av. 877</i> ; ANTH. <i>6, 173, etc</i>.<p>➳ <i>Dor</i>. Κυβέλα, EUR. <i>Bacch. 79</i>.`

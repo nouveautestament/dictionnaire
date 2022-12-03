@@ -1,1 +1,0 @@
-lar[22895]=`<b>γωνιόω-ῶ</b>, disposer en forme d’angle, <i>d’où, au pass</i>. avoir une forme angulaire, DIOSC. <i>3, 9, etc</i>.<p><b>Étym</b>. γωνία.`

@@ -1,1 +1,0 @@
-lar[10073]=`<b>ἀντι·μέμφομαι</b>, se plaindre à son tour <i>ou</i> en retour, HDT. <i>2, 133</i>.`

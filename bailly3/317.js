@@ -1,1 +1,0 @@
-lar[317]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> EUR. <i>I.T. 1290</i> ; <b>Ἀγαμεμνόνεος, η, ον</b> (<i>ion</i>.) IL. <i>23, 295</i> ; OD. <i>3, 265, etc.</i> ; <b>Ἀγαμεμνόνιος, α, ον</b> <font color="purple">[ᾰᾰ]</font> PD. <i>P. 11, 31</i> ; ESCHL. <i>Ag. 1499, Ch. 861, etc</i>. d’Agamemnon.<p><b>Étym</b>. Ἀγαμέμνων.`

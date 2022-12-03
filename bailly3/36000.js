@@ -1,1 +1,0 @@
-lar[36000]=`<font color="purple">[ῑ]</font> <i>vb. de</i> ἐξιλάσκομαι, SYN. <i>Ep. 44, 1369d Migne</i>.`

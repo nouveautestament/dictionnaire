@@ -1,1 +1,0 @@
-lar[9102]=`<b>ἄ·νιπτος, ος, ον :<br>      1</b> non lavé, IL. <i>6, 266</i> ; HÉS. <i>O. 723</i> ; LUC. <i>Demon. 4</i>.<br><b>      2</b> qui ne peut être lavé, ESCHL. <i>Ag. 1459</i>.<p><b>Étym</b>. ἀ, νίπτω.`

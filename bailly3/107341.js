@@ -1,1 +1,0 @@
-lar[107341]=`<font color="darkgreen">(<i>d’où part. ao</i>. φώξας, ORIB. <i>41 ; ao. pass</i>. φωχθείς, DIOSC. <i>Parab. 2, 113</i> ; ARÉT. <i>76, 3</i> ; ORIB. <i>40 ; part. pf. pass</i>. πεφωγμένος, EUST. <i>962, 49)</font> c</i>. φώγω DIOSC. <i>1, 80</i>.`

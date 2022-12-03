@@ -1,1 +1,0 @@
-lar[15093]=`<b>ἀ·ρρᾳδιούργητος, ος, ον</b>, non tempéré par, non mélangé de, pur, POLYCR. (EUS. <i>H.E. 5, 24).</i><p><b>Étym</b>. ἀ, ῥᾳδιουργέω.`

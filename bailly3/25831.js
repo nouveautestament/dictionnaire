@@ -1,1 +1,0 @@
-lar[25831]=`<b>δια·φαυλίζω</b>, dénigrer, mépriser, PLAT. <i>Leg. 804b ;</i> HIÉROCL. (STOB. <i>Fl. 3, 140</i>).`

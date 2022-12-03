@@ -1,1 +1,0 @@
-lar[20601]=`<b>εος-ους (τὸ)</b> <i>au plur</i>. branchies de poissons, OPP. <i>H. 1, 160</i>.`

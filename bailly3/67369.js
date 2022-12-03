@@ -1,1 +1,0 @@
-lar[67369]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> plante semblable au myrte, HPC. <i>603, 38</i>.<br><b>      2</b> excroissance parasite sur l’écorce du myrte, DIOSC. <i>1, 156</i> ; GAL. <i>19, 106</i>.<br><b>      3</b> fruit du poivrier, <i>arbre de Perse,</i> HPC. <i>672, 15</i>.<p><b>Étym</b>. μύρτος.`

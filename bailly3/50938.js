@@ -1,1 +1,0 @@
-lar[50938]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> mauvais renom, déshonneur, SYMM. <i>Ex. 32, 25</i>.<p><b>Étym</b>. κ. ὄνομα.`

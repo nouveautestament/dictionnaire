@@ -1,1 +1,0 @@
-lar[102367]=`<b>ὑπερ·βριθής, ής, ές</b> <font color="purple">[ῑ]</font> d’un poids excessif, SOPH. <i>Aj. 951</i>.<p><b>Étym</b>. ὑ. βρῖθος.`

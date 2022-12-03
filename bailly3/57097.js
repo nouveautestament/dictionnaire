@@ -1,1 +1,0 @@
-lar[57097]=`<b>ας (ἡ)</b> = <i>lat</i>. Cornēlia, <i>n. de f. rom</i>. PLUT. <i>T. Gracch. 1, etc</i>.`

@@ -1,1 +1,0 @@
-lar[64516]=`<b>μεσό·δμη, ης (ἡ) :<br>      1</b> poutre transversale où s’emboîte le mât, <i>vulg</i>. le coursier, OD. <i>2, 424 ; 15, 289, etc.</i> ; A.RH. <i>1, 563, etc.</i><br><b>      2</b> entre-colonnement, OD. <i>19, 37</i>.<br><b>      3</b> machine à peser de lourds fardeaux, HPC. <i>832g</i>.<p><b>Étym</b>. μ. δέμω.`

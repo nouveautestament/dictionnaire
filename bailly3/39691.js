@@ -1,1 +1,0 @@
-lar[39691]=`<b>ἐπι·χερρονησιάζω</b>, avoir à peu près la forme d’une presqu’île, STR. <i>277</i>.`

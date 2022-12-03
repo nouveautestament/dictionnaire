@@ -1,1 +1,0 @@
-lar[30377]=`<b>εἰκοσί·κλινος, ος, ον</b> <font color="purple">[ῑν]</font> à vingt lits de table, DS. <i>1, 49</i>.<p><b>Étym</b>. εἴ. κλίνη.`

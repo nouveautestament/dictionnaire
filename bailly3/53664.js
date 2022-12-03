@@ -1,1 +1,0 @@
-lar[53664]=`<i>adv</i>., avec violence, CHRYS. <i>10, 363c Migne</i>.`

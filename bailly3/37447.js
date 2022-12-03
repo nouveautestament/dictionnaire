@@ -1,1 +1,0 @@
-lar[37447]=`<b>ή, όν</b>, qui se produit après, P. ÉG. <i>262 Briau</i>.<p><b>Étym</b>. ἐπιγίγνομαι.`

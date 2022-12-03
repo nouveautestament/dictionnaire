@@ -1,1 +1,0 @@
-lar[64720]=`<b>ῆς (ἡ)</b> poursuite, chasse, XÉN. <i>Cyr. 3, 7, au pl</i>. EUR. <i>I.T. 941</i>.<p><b>Étym</b>. μεταδραμεῖν.`

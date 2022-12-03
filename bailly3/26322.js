@@ -1,1 +1,0 @@
-lar[26322]=`<b>δι·ευπραγέω-ῶ</b> <font color="purple">[ᾱ]</font> réussir toujours dans ses entreprises, JOS. <i>A.J. 6, 10, 2</i>.`

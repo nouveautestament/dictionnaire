@@ -1,1 +1,0 @@
-lar[62041]=`<b>λυσι·μέριμνος, ος, ον</b> <font color="purple">[ῡῐ]</font> qui dissipe les soucis, ANTH. <i>9, 524</i> ; ORPH. <i>H. 27, 6, etc</i>.<p><b>Étym</b>. λ. μέριμνα.`

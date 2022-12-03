@@ -1,1 +1,0 @@
-lar[78807]=`<b>περί·κομος, ος, ον</b>, dont les branches pendent autour comme une chevelure, TH. <i>H.P. 3, 8, 4</i>.<p><b>Étym</b>. π. κόμη.`

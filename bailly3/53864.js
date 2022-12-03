@@ -1,1 +1,0 @@
-lar[53864]=`<b>κατ·εμέω-ῶ</b>, vomir sur, <i>gén</i>. AR. <i>fr. 207</i> ; EL. <i>N.A. 4, 36</i> ; LUC. <i>Sat. 38</i>.`

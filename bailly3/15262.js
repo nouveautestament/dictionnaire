@@ -1,1 +1,0 @@
-lar[15262]=`<b>(ὁ)</b> Artaxas, <i>roi d’Arménie,</i> PLUT. <i>Luc. 31</i>.`

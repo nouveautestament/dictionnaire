@@ -1,1 +1,0 @@
-lar[93065]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. στυγνότης, APD. (STOB. <i>Ecl. 1, 1012).</i><p><b>Étym</b>. στυγνάζω.`

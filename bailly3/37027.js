@@ -1,1 +1,0 @@
-lar[37027]=`<b>ἐπ·εκδύω</b> (<i>part. prés</i>.) dépouiller, mettre à nu, NYSS. <i>2, 236</i>.`

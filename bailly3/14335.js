@@ -1,1 +1,0 @@
-lar[14335]=`<b>ἀργυρο·θήκη, ης (ἡ)</b> <font color="purple">[ῠ]</font> coffre pour l’argenterie, ANTIPH. (POLL. <i>10, 152</i>.<br>POLL. <i>4, 19</i>.<p><b>Étym</b>. ἄ. θήκη.`

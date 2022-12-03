@@ -1,1 +1,0 @@
-lar[6499]=`<font color="purple">[ᾰᾰ]</font> <i>voc. de</i> ἄναξ.`

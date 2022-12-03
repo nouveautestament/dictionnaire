@@ -1,1 +1,0 @@
-lar[106013]=`<b>Φιλο·ποίμην, μενος (ὁ)</b> <font color="purple">[ῐ]</font> Philopœmen :<br><b>      1</b> <i>chef de la ligue achéenne,</i> POL. <i>2, 40, 2</i> ; PLUT. <i>Phil. 1, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>An seni resp. ger. sit p. 16, etc</i>.<p>➳ <i>Voc</i>. Φιλοποίμην, PLUT. <i>Phil. 2</i>.<p><b>Étym</b>. φ. ποιμήν.`

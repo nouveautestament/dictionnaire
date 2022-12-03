@@ -1,1 +1,0 @@
-lar[94831]=`<b>οῦ (ὁ)</b> corrélation, PHILOX.<p><b>Étym</b>. συναπαρτίζω.`

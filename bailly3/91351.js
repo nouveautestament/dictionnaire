@@ -1,1 +1,0 @@
-lar[91351]=`<b>ου</b> <font color="purple">[ῠᾰᾱ]</font> <i>adj. m</i>. qui ressemble à un gros bâton, TH. <i>H.P. 7, 4, 6</i> ; ATH. <i>74a</i>.<p><b>Étym</b>. σκυτάλη.`

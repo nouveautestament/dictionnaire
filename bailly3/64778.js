@@ -1,1 +1,0 @@
-lar[64778]=`<b>μετα·κόσμιος, ος, ον</b>, qui est entre deux mondes : τὸ μετακόσμιον, DL. <i>10, 89, ou</i> τὰ μετακόσμια, PLUT. <i>M. 734c</i>, les espaces entre les mondes.<p><b>Étym</b>. μ. κόσμος.`

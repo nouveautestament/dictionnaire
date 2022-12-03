@@ -1,1 +1,0 @@
-lar[57197]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> têtière de cheval, XÉN. <i>Eq. 3, 2, etc.</i><br><b>      2</b> touffe de cheveux du sommet de la tête, LUC. <i>Lex. 5</i>.<p><b>Étym</b>. κορυφή.`

@@ -1,1 +1,0 @@
-lar[4414]=`<b>άδος (ἡ)</b> <i>s.-e</i>. ναῦς <font color="purple">[ᾰλ]</font> bateau de pêcheur, petite barque, ARSTT. <i>H.A. 4, 8, 12</i> ; MOSCHION HIST. (ATH. <i>208e</i>) ; DS. <i>3, 21</i>.<p><b>Étym</b>. ἅλς.`

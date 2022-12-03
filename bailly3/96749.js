@@ -1,1 +1,0 @@
-lar[96749]=`<b>συ·φορβός, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> porcher, IL. <i>21, 282</i> ; OD. <i>14, 504</i> ; PLUT. <i>Thes. c. Rom. 4 M. 917c</i>.<p><b>Étym</b>. σῦς, φέρβω.`

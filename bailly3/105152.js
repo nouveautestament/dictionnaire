@@ -1,1 +1,0 @@
-lar[105152]=`<b>φερέσ·βιος, ος, ον</b>, qui apporte la vie <i>ou</i> la nourriture, nourricier, HH. <i>Ap. 341, Cer. 450</i> ; HÉS. <i>Th. 693</i> ; ESCHL. <i>fr. 304</i> ; ANTIPH. (ATH. <i>396b</i>) ; EMPÉD. <i>6, 2 Diels</i>.<p><b>Étym</b>. φ. βίος.`

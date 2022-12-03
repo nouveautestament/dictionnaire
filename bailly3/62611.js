@@ -1,1 +1,0 @@
-lar[62611]=`<b>ου (τὸ)</b> <font color="purple">[ᾰλᾰ]</font> <i>feuille d’une plante indienne employée comme piment, vraisembl</i>. le bétel, DIOSC. <i>1, 11</i> ; P. ÉG. <i>4, 48</i> ; GEOP. <i>6, 6, etc</i>.`

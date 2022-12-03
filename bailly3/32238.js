@@ -1,1 +1,0 @@
-lar[32238]=`<i>adv</i>., d’une façon étrange, rudement, NYSS. <i>2, 444b Migne</i>.`

@@ -1,1 +1,0 @@
-lar[87838]=`<b>πυρι·άλωτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> pris <i>ou</i> détruit au moyen du feu, PHILSTR. <i>Im. 2, 17</i>.<p><b>Étym</b>. πῦρ, <i>vb. de</i> ἁλίσκομαι.`

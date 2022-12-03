@@ -1,1 +1,0 @@
-lar[53738]=`<b>κατα·χορεύω :<br>      1</b> danser en signe de réjouissance pour, <i>gén</i>. EL. <i>N.A. 1, 30</i>.<br><b>      2</b> <i>fig</i>. insulter à, ANON. (SUID.).`

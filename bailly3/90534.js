@@ -1,1 +1,0 @@
-lar[90534]=`<b>σιτολογέω-ῶ</b> <font color="purple">[ῑ]</font> recueillir du blé, <i>d’où</i> fourrager, POL. <i>1, 17, 9 et 10</i> ; χώραν, POL. <i>3, 101, 2,</i> fourrager dans un pays.<p><b>Étym</b>. *σιτολόγος <i>de</i> σῖτος, λέγω.`

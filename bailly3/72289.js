@@ -1,1 +1,0 @@
-lar[72289]=`<b>ὀπισθό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, qui va derrière, suivant, serviteur, EUR. <i>Hipp. 54</i>.<p>➳ <i>Acc. sg</i>. ὀπισθόπουν, ESCHL. <i>Ch. 713 conj</i>.<p><b>Étym</b>. ὄπισθε, πούς.`

@@ -1,1 +1,0 @@
-lar[2222]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰῑτ]</font> <i>fém. de</i> αἰγιαλίτης ANTH. <i>7, 404 ; 10, 8</i> ; STR. <i>182</i>.`

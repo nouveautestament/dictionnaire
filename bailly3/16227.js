@@ -1,1 +1,0 @@
-lar[16227]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> citadin, SOPH. <i>fr. 81</i>.<p><b>Étym</b>. ἄστυ.`

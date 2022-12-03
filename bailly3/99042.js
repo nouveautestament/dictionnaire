@@ -1,1 +1,0 @@
-lar[99042]=`<b>εος-ους (τὸ)</b> manque, privation, besoin, EUR. (ATH. <i>613 conj</i>.).`

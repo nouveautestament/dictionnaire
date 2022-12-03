@@ -1,1 +1,0 @@
-lar[21060]=`<b>ίδος (ἡ)</b> sorte d’oiseau de l’Inde, EL. <i>N.A. 13, 25</i>.`

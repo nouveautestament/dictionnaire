@@ -1,1 +1,0 @@
-lar[14878]=`<b>ἁρματο·τροφία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> entretien d’une écurie de courses, XÉN. <i>Hier. 11, 5</i>.<p><b>Étym</b>. <i>v</i>. ἁρματοτροφέω.`

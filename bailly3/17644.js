@@ -1,1 +1,0 @@
-lar[17644]=`<b>αὐτό·ποιος, ος, ον</b>, qui s’est produit de soi-même, né spontanément, SOPH. <i>O.C. 698</i>.<p><b>Étym</b>. αὐ. ποιέω.`

@@ -1,1 +1,0 @@
-lar[44660]=`<b>ζυμίτης ἄρτος (ὁ)</b> <font color="purple">[ῡῑ]</font> pain fait avec du levain, XÉN. <i>An. 7, 3, 21</i> ; CRAT. (ATH. <i>111e</i>) ; PHILSTR. <i>Im. 2, 26</i>.<p><b>Étym</b>. ζύμη.`

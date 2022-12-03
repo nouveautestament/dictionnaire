@@ -1,1 +1,0 @@
-lar[63278]=`<b>ου (ὁ)</b> Mégabakkhos, <i>h</i>. PLUT. <i>Crass. 25</i>.`

@@ -1,1 +1,0 @@
-lar[99613]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> habileté à tirer de l’arc, IL. <i>13, 314</i> ; EUR. <i>Andr. 1194</i>.<p><b>Étym</b>. τόξον.`

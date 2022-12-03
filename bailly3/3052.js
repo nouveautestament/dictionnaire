@@ -1,1 +1,0 @@
-lar[3052]=`<b>ας (ἡ)</b> langage hors de saison, BAS. <i>3, 873 Migne</i>.<p><b>Étym</b>. ἀκαιρολόγος.`

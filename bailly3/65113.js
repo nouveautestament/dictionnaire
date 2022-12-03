@@ -1,1 +1,0 @@
-lar[65113]=`<b>μετ·επιγράφω</b>, revêtir d’une autre inscription, d’un autre titre, PLUT. <i>M. 839d</i>.`

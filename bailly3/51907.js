@@ -1,1 +1,0 @@
-lar[51907]=`<b>καρπο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> qui garde les fruits, qui veille sur les fruits, ANTH. <i>6, 22</i>.<p><b>Étym</b>. κ. φύλαξ.`

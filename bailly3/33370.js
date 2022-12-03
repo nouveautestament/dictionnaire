@@ -1,1 +1,0 @@
-lar[33370]=`<b>ἐμπεδό·φυλλος, ος, ον</b>, qui conserve ses feuilles, EMPÉD. (PLUT. <i>M. 649c</i>).<p><b>Étym</b>. ἔ. φύλλον.`

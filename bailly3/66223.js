@@ -1,1 +1,0 @@
-lar[66223]=`<b>μνησί·τοκος, ος, ον</b> <font color="purple">[ῐ]</font> <i>propr</i>. « qui songe à enfanter », qui enfante, HPC. <i>593, 2</i>.<p><b>Étym</b>. μν. τίκτω.`

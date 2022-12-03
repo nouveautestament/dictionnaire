@@ -1,1 +1,0 @@
-lar[11771]=`<b>ἀ·περιλάλητος, ος, ον</b> <font color="purple">[λᾰ]</font> loquace, bavard, AR. <i>Ran. 839</i>.<p><b>Étym</b>. ἀ, περιλαλέω.`

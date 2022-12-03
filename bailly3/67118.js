@@ -1,1 +1,0 @@
-lar[67118]=`<b>ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font><br><b>      1</b> pierre meulière, <i>d’où</i> grosse pierre, roche, IL. <i>12, 161</i> ; OPP. <i>C. 3, 137</i>.<br><b>      2</b> meule, ANTH. <i>9, 418</i>.<br><b>      3</b> pierre à feu, ANTH. <i>9, 546</i>.<p><b>Étym</b>. μύλη.`

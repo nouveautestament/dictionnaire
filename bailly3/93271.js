@@ -1,1 +1,0 @@
-lar[93271]=`<b>ή, όν</b> <font color="purple">[ᾰᾰᾰ]</font> qui condescend, accommodant, NYSS. <i>2, 236</i> ; CHRYS. <i>1, 465 Migne</i>.<p><b>Étym</b>. συγκαταβαίνω.`

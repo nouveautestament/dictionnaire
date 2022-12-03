@@ -1,1 +1,0 @@
-lar[984]=`<b>ῆρος</b>, <i>adj</i>. qui passe la nuit à veiller, MAN. <i>1, 81</i>.`

@@ -1,1 +1,0 @@
-lar[2558]=`<b>αἱματο·σταγής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> dégouttant de sang, ESCHL. <i>Pers. 816, etc.</i> ; EUR. <i>Suppl. 812</i> ; AR. <i>Ran. 471</i>.<p><b>Étym</b>. αἷ. στάζω.`

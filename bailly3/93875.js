@@ -1,1 +1,0 @@
-lar[93875]=`<b>ή, όν :<br>      1</b> qui explique à l’aide d’un signe, symbolique, THÉON <i>Prog. 99, 15 ; subst</i>. τὸ συμβολικόν, PLUT. <i>M. 354e</i>, caractère symbolique.<br><b>      2</b> conventionnel, DYSC. <i>Conj. 493, Synt. 187</i>.<br><b>      3</b> qui concerne un pique-nique, ATH. <i>547d ;</i> ANTH. <i>5, 134</i>.<p><b>Étym</b>. συμβολή.`

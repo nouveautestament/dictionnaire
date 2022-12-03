@@ -1,1 +1,0 @@
-lar[68614]=`<b>νηριτο·τρόφος, ος, ον</b> <font color="purple">[ῑ]</font> qui produit (<i>propr</i>. qui nourrit) des coquillages, ESCHL. <i>fr. 438</i> (ATH. <i>86b</i>).<p><b>Étym</b>. νηρίτης, τρέφω.`

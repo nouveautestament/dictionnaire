@@ -1,1 +1,0 @@
-lar[14682]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par rang de noblesse <i>ou</i> de mérite, PLAT. <i>Leg. 855c ;</i> ISOCR. <i>71b ;</i> DÉM. <i>1069, 8, etc</i>.<p><b>Étym</b>. ἄριστος.`

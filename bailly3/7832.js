@@ -1,1 +1,0 @@
-lar[7832]=`<b>ἀν·αύξησις, εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> défaut de croissance, HPC. <i>Art. 819</i>.<p><b>Étym</b>. ἀν-, αὔξω.`

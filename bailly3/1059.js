@@ -1,1 +1,0 @@
-lar[1059]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> vivacité d’esprit, intelligence, PLAT. <i>Charm. 160a ;</i> ARSTT. <i>Rhet. 1, 6, 15, etc</i>.<p><b>Étym</b>. ἀγχίνοος.`

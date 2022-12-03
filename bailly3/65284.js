@@ -1,1 +1,0 @@
-lar[65284]=`<i>adv</i>., ni d’une ni d’autre façon, ARSTT. <i>Poet. 14, 8</i>.<p><b>Étym</b>. μηδέτερος.`

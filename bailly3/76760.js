@@ -1,1 +1,0 @@
-lar[76760]=`<b>παρ·επικουρέω-ῶ</b>, porter secours, <i>dat</i>. SEXT. <i>M. 5, 75</i>.`

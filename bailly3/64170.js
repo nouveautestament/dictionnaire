@@ -1,1 +1,0 @@
-lar[64170]=`<b>μελλο·δειπνικός, ή, όν</b>, qui se chante en attendant le dîner, AR. <i>Eccl. 1153</i>.<p><b>Étym</b>. μ. δεῖπνον.`

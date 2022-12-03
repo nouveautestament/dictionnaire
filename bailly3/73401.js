@@ -1,1 +1,0 @@
-lar[73401]=`<b>ῶν (αἱ)</b> Otryes, <i>lieu de Phrygie,</i> PLUT. <i>Luc. 8</i>.`

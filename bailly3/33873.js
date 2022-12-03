@@ -1,1 +1,0 @@
-lar[33873]=`<b>ἐν·ανάπτω</b> <font color="purple">[ᾰν]</font> ajuster <i>ou</i> attacher à, <i>dat</i>. GAL. <i>12, 459</i>.`

@@ -1,1 +1,0 @@
-lar[8549]=`<b>ἀν·ερευνάω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἀνηρεύνων)</font> découvrir à force de recherches, PLAT. <i>Phæd. 63a.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. PLAT. <i>Leg. 816c</i>.<p><b>Étym</b>. ἀνά, ἐ.`

@@ -1,1 +1,0 @@
-lar[62184]=`<b>ακος (ὁ)</b> mendiant, CHRYS. <i>Hom. 13</i>.<p><b>Étym</b>. λωτός.`

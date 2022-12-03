@@ -1,1 +1,0 @@
-lar[70356]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> fils d’Œkeus <i>ou</i> d’Œkias, CALL. <i>Del. 102</i>.<p><b>Étym</b>. *Οἰκεύς <i>ou</i> *Οἰκίας.`

@@ -1,1 +1,0 @@
-lar[25786]=`(<i>seul. part. prés</i>.) aller au trot, <i>en parl. d’un cheval,</i> XÉN. <i>Eq. 7, 11</i>.<p><b>Étym</b>. διατρέχω.`

@@ -1,1 +1,0 @@
-lar[85041]=`<b>προ·πυρόομαι-οῦμαι</b> <font color="purple">[ῠ]</font> enflammer auparavant, A. TR. <i>8, 425</i>.`

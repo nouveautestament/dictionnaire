@@ -1,1 +1,0 @@
-lar[22379]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. γογγυσμός SPT. <i>Num. 14, 27</i>.`

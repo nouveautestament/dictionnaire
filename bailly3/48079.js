@@ -1,1 +1,0 @@
-lar[48079]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> autel pour le sacrifice, SPT. <i>Gen. 8, 20 ; Ex. 27, 3 ; 2Par. 14, 5</i> ; NT. <i>Matth. 23, 18</i> ; JOS. <i>A.J. 8, 4, 1</i>.<p><b>Étym</b>. <i>neutre de</i> θυσιαστήριος.`

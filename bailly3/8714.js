@@ -1,1 +1,0 @@
-lar[8714]=`<b>ἀν·ημερόω-ῶ</b>, purger de bêtes sauvages, SOPH. <i>fr. 223</i>.<p><b>Étym</b>. ἀνά, ἡ.`

@@ -1,1 +1,0 @@
-lar[94157]=`<b>συμ·πένομαι</b> (<i>seul. prés</i>.) être pauvre ensemble : τινί τινος, PLAT. <i>Men. 71b</i>, manquer de qqe ch. avec <i>ou</i> comme un autre.`

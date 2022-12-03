@@ -1,1 +1,0 @@
-lar[79562]=`<b>περι·ύω</b>, pleuvoir tout autour, STR. <i>658</i>.`

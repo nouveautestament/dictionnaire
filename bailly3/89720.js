@@ -1,1 +1,0 @@
-lar[89720]=`<b>ας (ἡ)</b> Séleukeia (Séleucie) <i>n. de diverses v. d’Asie, particul. v. près du Tigre,</i> PLUT. <i>Luc. 22, Crass. 17, 21, etc</i>.`

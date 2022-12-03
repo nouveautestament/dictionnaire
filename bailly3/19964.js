@@ -1,1 +1,0 @@
-lar[19964]=`<b>ης, ες</b>, semblable à un mouton (<i>litt</i>. à un animal bêlant) <i>càd</i>. sot, bête, BABR. <i>93, 5</i>.<p><b>Étym</b>. βληχάομαι, -ωδης.`

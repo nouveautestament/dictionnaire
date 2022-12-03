@@ -1,1 +1,0 @@
-lar[84689]=`<b>προ·μαραίνω</b> <font color="purple">[μᾰ]</font> épuiser (<i>litt</i>. flétrir) auparavant, ARSTT. <i>Probl. 23, 11</i>.`

@@ -1,1 +1,0 @@
-lar[72704]=`<i>adv</i>., conformément à une opinion saine, SIMPL. <i>Arstt. Cat. 2a</i>.`

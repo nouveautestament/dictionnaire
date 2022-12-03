@@ -1,1 +1,0 @@
-lar[8536]=`<b>ας (ἡ)</b> vie sans amour, THÉM. <i>163d</i>.<p><b>Étym</b>. ἀνέραστος.`

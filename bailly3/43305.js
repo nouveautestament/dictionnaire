@@ -1,1 +1,0 @@
-lar[43305]=`<b>Εὐρύ·νομος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Eurynomos :<br><b>      1</b> <i>h</i>. OD. <i>2, 21, etc.</i><br><b>      2</b> <i>divinité souterraine,</i> PAUS. <i>10, 28, 7</i>.<p><b>Étym</b>. εὐ. νέμω.`

@@ -1,1 +1,0 @@
-lar[34176]=`<b>ἐν·διαπρέπω</b>, briller dans <i>ou</i> parmi, <i>dat</i>. DS. <i>Exc. 538, 49</i>.`

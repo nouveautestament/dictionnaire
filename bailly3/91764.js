@@ -1,1 +1,0 @@
-lar[91764]=`<b>α, ον</b>, de Spartacus, PLUT. <i>Crass. 8, Pomp. 31, etc</i>.<p><b>Étym</b>. Σπάρτακος.`

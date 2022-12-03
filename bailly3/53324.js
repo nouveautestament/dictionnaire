@@ -1,1 +1,0 @@
-lar[53324]=`<b>κατα·σικελίζω</b> <font color="darkgreen">(<i>impf</i>. κατεσικέλιζον)</font> <font color="purple">[σῐ]</font> manger gloutonnement (un fromage) de Sicile, <i>acc</i>. AR. <i>Vesp. 911</i>.`

@@ -1,1 +1,0 @@
-lar[81389]=`<b>ποικιλό·δακρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ῐ]</font> qui répand des larmes abondantes, NONN. <i>D. 10, 45</i>.<p><b>Étym</b>. π. δάκρυ.`

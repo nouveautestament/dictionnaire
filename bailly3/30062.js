@@ -1,1 +1,0 @@
-lar[30062]=`<b>ός, όν</b>, fort mangeur, vorace, HPC. <i>Aër. 284</i>.<p><b>Étym</b>. ἔδω.`

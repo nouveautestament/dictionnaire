@@ -1,1 +1,0 @@
-lar[8876]=`<b>ἀνθο·νομέω-ῶ</b>, se nourrir de fleurs, ESCHL. <i>Suppl. 14 conj</i>.<p><b>Étym</b>. ἀνθονόμος.`

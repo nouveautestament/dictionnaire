@@ -1,1 +1,0 @@
-lar[32471]=`<b>ἐλαιό·σπονδα, ων (τὰ)</b> (<i>s.-e</i>. ἱερά) sacrifices consistant en libations d’huile, PORPH. <i>Abst. 2, 20</i>.<p><b>Étym</b>. ἔ. σπονδή.`

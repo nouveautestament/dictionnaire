@@ -1,1 +1,0 @@
-lar[76951]=`<b>παρ·ισάζω</b> <font color="purple">[ῐ]</font> rendre égal <i>ou</i> presque égal, CLÉM. <i>743</i> ; SEXT. <i>637, 25 Bkk</i>.`

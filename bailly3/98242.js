@@ -1,1 +1,0 @@
-lar[98242]=`<b>α, ον :<br>      1</b> de Telphousa, <i>v. d’Arcadie,</i> LYC. <i>562</i> ; ἡ T. LYC. <i>1040,</i> le territoire de Telphousa.<br><b>      2</b> le dieu de la fontaine Telphousa, <i>càd</i>. Apollon, HH. <i>2, 208</i>.<p><b>Étym</b>. Τέλφουσα.`

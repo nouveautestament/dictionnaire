@@ -1,1 +1,0 @@
-lar[55657]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> κίστη, HPC. <i>635, 52</i>.`

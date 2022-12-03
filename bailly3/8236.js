@@ -1,1 +1,0 @@
-lar[8236]=`<b>ἀν·εκλάλητος, ος, ον</b> <font color="purple">[λᾰ]</font> inexprimable, NT. <i>1Petr. 1, 8, etc</i>.<p><b>Étym</b>. ἀν-, ἐκλαλέω.`

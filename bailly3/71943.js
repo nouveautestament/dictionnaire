@@ -1,1 +1,0 @@
-lar[71943]=`<b>ὀνό·βλιτον, ου (τὸ)</b> <font color="purple">[ῐ]</font> blette, <i>plante potagère,</i> HPC. <i>669, 20</i>.<p><b>Étym</b>. ὄν. βλίτον.`

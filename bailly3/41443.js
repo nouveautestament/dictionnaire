@@ -1,1 +1,0 @@
-lar[41443]=`<b>Ἑτοιμ·άριστος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Prêt-à-déjeuner, <i>n. de parasite,</i> ALCIPHR. <i>3, 55</i>.<p><b>Étym</b>. ἕτοιμος, ἄριστον.`

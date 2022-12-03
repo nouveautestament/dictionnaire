@@ -1,1 +1,0 @@
-lar[34453]=`<b>ἐν·ηβάω-ῶ</b>, être dans la fleur de la jeunesse, grandir, LGS <i>3, 13 ; fig</i>. NIC. (ATH. <i>370a</i>).`

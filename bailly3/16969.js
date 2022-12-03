@@ -1,1 +1,0 @@
-lar[16969]=`<b>ἀτριχό·σαρκος, ος, ον</b> <font color="purple">[ῐ]</font> dont la chair n’a pas de poils, PROCL.<p><b>Étym</b>. ἄτριχος, σάρξ.`

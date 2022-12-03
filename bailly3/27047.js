@@ -1,1 +1,0 @@
-lar[27047]=`<b>δισσολογέω-ῶ</b>, exprimer deux fois la même idée (<i>p. ex</i>. στεφάνῳ στεφανῶσαι, AR. <i>Pl. 585</i>) SCH.-AR. <i>ibid</i>.<p><b>Étym</b>. δισσολόγος.`

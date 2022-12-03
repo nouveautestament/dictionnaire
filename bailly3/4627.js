@@ -1,1 +1,0 @@
-lar[4627]=`<b>ου (ὁ)</b> Alkétès, <i>h</i>. XÉN. <i>Hell. 6, 1, 7, etc.</i> ; PLAT. <i>Gorg. 471a, etc</i>.<p>➳ <i>Dor</i>. Ἀλκέτας, <i>d’où gén</i>. -α, PLUT. <i>Pyrrh. 1</i> ; ARR. <i>An. 4, 22, 1, etc. ; dat</i>. -ᾳ, DS. <i>18, 46 ; 19, 88</i> ; PLUT. <i>Alex. 55. Ion. gén</i>. -εω, HDT. <i>8, 139</i>.`

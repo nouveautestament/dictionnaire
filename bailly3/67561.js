@@ -1,1 +1,0 @@
-lar[67561]=`<i>adv.,</i> oui certes, <i>dans le langage du Triballe des Oiseaux,</i> AR. <i>Av. 1615</i>.`

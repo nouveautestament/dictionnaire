@@ -1,1 +1,0 @@
-lar[65915]=`<b>Μινώ·ταυρος, ου (ὁ)</b> le Minotaure, <i>monstre moitié taureau, moitié homme,</i> ISOCR. <i>10, 27 Baiter-Sauppe</i> ; PAUS. <i>1, 27, 10</i> ; PLUT. <i>Thes. 15, etc</i>.<p><b>Étym</b>. Μίνως, ταῦρος.`

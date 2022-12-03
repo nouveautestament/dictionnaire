@@ -1,1 +1,0 @@
-lar[27762]=`<b>ου (τὸ)</b> récipient, réceptacle, vase pour recevoir <i>ou</i> contenir, ANTH. <i>5, 63</i> ; GAL. <i>2, 374</i>.<p>➳ <i>Ion</i>. δοχήϊον, ANTH. <i>6, 66</i>.<p><b>Étym</b>. δοχεύς.`

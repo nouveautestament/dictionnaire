@@ -1,1 +1,0 @@
-lar[103390]=`<b>ὑπο·κολακεύω</b> <font color="purple">[ᾰ]</font> flatter doucement <i>ou</i> un peu, POL. <i>6, 18, 5</i>.`

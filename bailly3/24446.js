@@ -1,1 +1,0 @@
-lar[24446]=`<b>δια·βόσκω</b>, repaître : τινά, PHILSTR. <i>18 (impf. 3 sg</i>. διέβοσκεν) ; SOCR. <i>Ep. 10 (fut</i>. -ήσει) qqn ; τὴν γαστέρα, ALCIPHR. <i>3, 7 (prés. inf</i>.) le ventre.`

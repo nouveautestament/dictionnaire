@@ -1,1 +1,0 @@
-lar[70788]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ὀκνηρός, NONN. <i>D. 18, 207</i>.`

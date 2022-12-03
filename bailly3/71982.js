@@ -1,1 +1,0 @@
-lar[71982]=`<b>ὀνοματο·θέτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui impose un nom, qui nomme, PLAT. <i>Charm. 175d</i>.<p><b>Étym</b>. ὄνομα, τίθημι.`

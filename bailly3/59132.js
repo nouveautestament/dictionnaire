@@ -1,1 +1,0 @@
-lar[59132]=`<b>ή, όν :<br>      1</b> qui souffre de la colique, DIOSC. <i>2, 59</i>.<br><b>      2</b> qui consiste en colique, GAL. <i>2, 264</i>.<p><b>Étym</b>. κῶλον.`

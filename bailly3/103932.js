@@ -1,1 +1,0 @@
-lar[103932]=`<b>ὑπο·συναλείφομαι</b> <font color="darkgreen">(<i>ao</i>. -συνηλείφθην)</font> <font color="purple">[ᾰ]</font> subir une synalèphe, <i>t. de gr</i>. DYSC. <i>Synt. 131, 146</i>.`

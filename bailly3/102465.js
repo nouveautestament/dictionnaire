@@ -1,1 +1,0 @@
-lar[102465]=`<b>ὑπέρ·ευ</b>, <i>adv</i>., mieux qu’on ne saurait dire, tout à fait bien, XÉN. <i>Hier. 6, 9</i> ; PLAT. <i>Theæt. 185d ;</i> DÉM. <i>228, 17</i>.`

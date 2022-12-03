@@ -1,1 +1,0 @@
-lar[7522]=`<font color="darkgreen">(<i>part. pf</i>. ἀνηριστηκώς)</font> <font color="purple">[ᾱρ]</font> n’avoir pas dîné (<i>en parl. du repas du matin ou du milieu du jour</i>), HPC. <i>Acut. 388</i>.<p><b>Étym</b>. ἀνάριστος.`

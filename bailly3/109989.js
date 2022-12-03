@@ -1,1 +1,0 @@
-lar[109989]=`<b>ψυχο·στόλος, ος, ον</b> <font color="purple">[ῡ]</font> qui escorte les âmes (dans les Enfers) <i>en parl. d’Hermès,</i> TRIPHIOD. <i>572</i>.<p><b>Étym</b>. ψ. στέλλω.`

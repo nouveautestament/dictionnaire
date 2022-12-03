@@ -1,1 +1,0 @@
-lar[96029]=`<b>συνιστορέω-ῶ :<br>      1</b> savoir avec, MÉN. <i>4, 237 Meineke</i>.<br><b>      2</b> raconter avec, CLÉANTH. (ATH. <i>471b</i>) ; PTOL. <i>1, 17, 5</i>.<p><b>Étym</b>. συνίστωρ.`

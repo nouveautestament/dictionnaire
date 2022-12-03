@@ -1,1 +1,0 @@
-lar[60781]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> déclamation emphatique, PLUT. <i>M. 1086e</i>.<p><b>Étym</b>. ληκυθίζω.`

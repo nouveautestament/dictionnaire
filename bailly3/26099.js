@@ -1,1 +1,0 @@
-lar[26099]=`<i>part. pf. pass. de</i> διΐημι.`

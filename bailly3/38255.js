@@ -1,1 +1,0 @@
-lar[38255]=`<b>ἐπι·λαμπρύνω</b> <font color="purple">[ῡ]</font><br><b>      1</b> rendre brillant, parer, embellir, <i>acc</i>. PLUT. <i>Lys. 30</i>.<br><b>      2</b> rendre clair, <i>en parl. du son, de la voix,</i> DH. <i>Comp. p. 96 Schæf.</i> ; PLUT. <i>M. 912c</i>.`

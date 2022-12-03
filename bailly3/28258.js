@@ -1,1 +1,0 @@
-lar[28258]=`<b>δυσ·βάϋκτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui pousse des cris lamentables, ESCHL. <i>Pers. 574</i>.<p><b>Étym</b>. δ. βαΰζω.`

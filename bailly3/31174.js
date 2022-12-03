@@ -1,1 +1,0 @@
-lar[31174]=`<b>ἔκ·δηλος, ος, ον :<br>      1</b> qui a lieu au grand jour, public, DÉM. <i>24, 10,</i> POL. <i>3, 12, 4</i>.<br><b>      2</b> illustre, remarquable, IL. <i>5, 2</i>.<p><b>Étym</b>. ἐκ, δῆλος.`

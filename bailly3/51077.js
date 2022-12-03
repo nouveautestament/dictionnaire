@@ -1,1 +1,0 @@
-lar[51077]=`<b>Καλλι·άναξ, άνακτος (ὁ)</b> <font color="purple">[ᾰν]</font> Kallianax, <i>h</i>. PD. <i>O. 7, 171, etc</i>.<p><b>Étym</b>. κάλλος, ἄναξ.`

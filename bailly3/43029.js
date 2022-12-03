@@ -1,1 +1,0 @@
-lar[43029]=`<b>εὐ·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui suit bien la piste, OPP. <i>C. 4, 365</i>.<p><b>Étym</b>. εὖ, πλανάω.`

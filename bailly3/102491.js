@@ -1,1 +1,0 @@
-lar[102491]=`<i>adv</i>., avec un très grand plaisir, XÉN. <i>Cyr. 1, 6, 21</i>.<p>•<i> Sup</i>. ὑπερήδιστα, LUC. <i>D. mort. 9, 1</i>.<p><b>Étym</b>. ὑπέρηδυς.`

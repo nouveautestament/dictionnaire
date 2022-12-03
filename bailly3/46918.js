@@ -1,1 +1,0 @@
-lar[46918]=`chauffer, échauffer.<br><b><i>Moy.</i></b> <i>m. sign</i>. NIC. <i>Al. 600</i>.<p><b>Étym</b>. θερμός.`

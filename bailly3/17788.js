@@ -1,1 +1,0 @@
-lar[17788]=`<b>αὐτό·χρημα</b>, <i>adv.</i> :<br><b>      1</b> en fait, réellement, AR. <i>Eq. 78</i>.<br><b>      2</b> justement, exactement, EL. <i>N.A. 2, 44</i> ; LUC. <i>Dem. enc. 13</i>.<p><b>Étym</b>. αὐ. χρῆμα.`

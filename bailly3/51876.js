@@ -1,1 +1,0 @@
-lar[51876]=`<b>καρπο·βάλσαμον, ου (τὸ)</b> fruit du balsamier, DIOSC. <i>1, 18</i> ; GAL. <i>13, 915, etc</i>.<p><b>Étym</b>. κ. βάλσαμον. Cf. Gaffiot s.v. carpobalsamum.`

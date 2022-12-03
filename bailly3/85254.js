@@ -1,1 +1,0 @@
-lar[85254]=`<b>προσ·απολύω</b>, délivrer en outre de, <i>rég. ind. au gén</i>. SCH.-ISOCR. <i>p. 102, 22</i>.`

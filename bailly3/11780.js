@@ -1,1 +1,0 @@
-lar[11780]=`<b>ἀ·περίπνευστος, ος, ον</b>, à l’abri des courants d’air <i>ou</i> du vent, AGATHIN. <i>p. 288 Matthäi</i>.<p><b>Étym</b>. ἀ, περιπνέω.`

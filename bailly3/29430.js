@@ -1,1 +1,0 @@
-lar[29430]=`<i>adv.</i> :<br><b>      1</b> vivement, SOPH. <i>Ant. 413</i>.<br><b>      2</b> avec vigilance, EUR. <i>Rhes. 524</i>.<p><b>Étym</b>. ἐγείρω.`

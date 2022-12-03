@@ -1,1 +1,0 @@
-lar[102830]=`<b>ὑπερ·τιμάω-ῶ</b> <font color="purple">[ῑ]</font> honorer <i>ou</i> estimer particulièrement, <i>acc</i>. SOPH. <i>Ant. 284</i> ; PHIL. <i>1, 112 ; au pass</i>. LUC. <i>J. tr. 48</i>.`

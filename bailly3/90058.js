@@ -1,1 +1,0 @@
-lar[90058]=`<b>οντος (ὁ)</b> Sthénôn, <i>litt</i>. « le Fort » :<br><b>      1</b> <i>n. d’h</i>. PLUT. <i>Præc. reip. ger. 19, etc.</i><br><b>      2</b> <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. σθένω.`

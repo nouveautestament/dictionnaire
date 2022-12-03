@@ -1,1 +1,0 @@
-lar[36253]=`<b>ἕξ·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, <i>c</i>. ἑξάπους <i>ou</i> ἕκπους, PLAT. COM. <i>2-2, 690, 35 Mein. ; cf</i>. EA. <i>1886, p. 205-6, 83-4 (commenc. du 4<sup>e</sup> siècle av. J.-C.) ; v. Meisterh. p. 125, 4</i>.`

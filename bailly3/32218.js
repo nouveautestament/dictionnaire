@@ -1,1 +1,0 @@
-lar[32218]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> d’une grosseur extraordinaire, monstrueux, énorme, PHÉRÉCR. (<i>Com. fr. 2, 327</i>) ; EL. <i>N.A. 14, 9</i>.<p><b>Étym</b>. ἐκτρέπω.`

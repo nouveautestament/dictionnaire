@@ -1,1 +1,0 @@
-lar[44739]=`<b>ζῳογονέω-ῶ</b>, engendrer des vers <i>ou</i> animalcules, TH. <i>H.P. 8, 11, 12 ; d’où au pass</i>. se remplir de vers, pulluler, TH. <i>C.P. 3, 24, 3</i>.<p><b>Étym</b>. *ζῳογόνος, <i>de</i> ζῷον, γίγνομαι.`

@@ -1,1 +1,0 @@
-lar[83573]=`<b>προ·ανασκευάζω</b>, s’approvisionner d’avance de, <i>acc</i>. JOS. <i>B.J. 1, 13, 9</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. JOS. <i>B.J. 1, 15, 6</i>.`

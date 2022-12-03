@@ -1,1 +1,0 @@
-lar[22544]=`<b>ου (τὸ)</b> = <i>lat</i>. guttātum, sorte de gâteau, ATH. <i>647c</i>.`

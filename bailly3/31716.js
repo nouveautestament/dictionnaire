@@ -1,1 +1,0 @@
-lar[31716]=`<b>ἐκ·νέω</b> <font color="darkgreen">(<i>f</i>. -νεύσομαι, <i>ao.1</i> ἐξένευσα) :</font><br><b>      1</b> nager de, du milieu de, en s’éloignant de, EUR. <i>Hipp. 823</i>.<br><b>      2</b> <i>p. suite,</i> s’échapper à la nage, THC. <i>2, 90 ; d’où, p. ext</i>. échapper, EUR. <i>Hipp. 470</i>.`

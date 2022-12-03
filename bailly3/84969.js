@@ -1,1 +1,0 @@
-lar[84969]=`<b>πρόπλοος-ους, οος-ους, οον-ουν</b>, qui navigue en avant : νῆες πρόπλοι, THC. <i>6, 44, 46 ; ou simpl</i>. αἱ πρόπλοι, ISOCR. <i>59d ;</i> APP. <i>Civ. 5, 85,</i> navires d’exploration <i>ou</i> de course.<p><b>Étym</b>. προπλέω.`

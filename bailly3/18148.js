@@ -1,1 +1,0 @@
-lar[18148]=`<b>ἀ·φλύαρος, ος, ον</b> <font color="purple">[ῠᾱρ]</font> non frivole, M. ANT. <i>5, 5</i>.`

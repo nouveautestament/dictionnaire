@@ -1,1 +1,0 @@
-lar[22121]=`<b>άδος</b>, <i>adj. f</i>. tenace, entêté, <i>d’où</i> rétif (cheval), SOPH. <i>fr. 863</i>.<p><b>Étym</b>. γλοιά.`

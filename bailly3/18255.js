@@ -1,1 +1,0 @@
-lar[18255]=`<b>ου (ὁ)</b> Aphroditos, <i>h</i>. TH.`

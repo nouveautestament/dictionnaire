@@ -1,1 +1,0 @@
-lar[55652]=`<b>ης, ες</b>, qui voudrait s’attacher comme le lierre, NONN. <i>D. 1, 17</i>.<p><b>Étym</b>. κισσός, -ωδης.`

@@ -1,1 +1,0 @@
-lar[55031]=`<b>οῦ (ὁ)</b> sécheresse, <i>d’où</i> enrouement, GAL. <i>au plur</i>.<p><b>Étym</b>. κέρχνω.`

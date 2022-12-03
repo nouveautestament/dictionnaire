@@ -1,1 +1,0 @@
-lar[81730]=`<b>πολυ·αρχία, ας (ἡ)</b> gouvernement de plusieurs <i>ou</i> de beaucoup (<i>p. opp. à</i> ὀλιγαρχία) polyarchie, THC. <i>6, 72</i> ; XÉN. <i>An. 6, 1, 18</i>.<p><b>Étym</b>. πολύαρχος.`

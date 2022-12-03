@@ -1,1 +1,0 @@
-lar[20430]=`<b>ης (ἡ)</b> = <i>lat</i>. vulva, pellicule, enveloppe d’un légume, pelure d’un fruit, A. TR. <i>2, 134</i>.`

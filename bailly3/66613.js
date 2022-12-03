@@ -1,1 +1,0 @@
-lar[66613]=`<b>ου (τὸ)</b> marché avec droit de monopole, SCYL. <i>714, 12</i>.<p><b>Étym</b>. <i>cf</i>. μονοπώλιον.`

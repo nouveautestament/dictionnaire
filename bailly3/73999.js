@@ -1,1 +1,0 @@
-lar[73999]=`<b>ὀψί·γαμος, ου (ὁ, ἡ)</b> <font color="purple">[ῐᾰ]</font> marié tard, PLUT. <i>M. 493e</i>.<p><b>Étym</b>. ὀψέ, γάμος.`

@@ -1,1 +1,0 @@
-lar[40036]=`<b>Ἑπτά·χαλκον, ου (τὸ)</b> Heptakhalkon, <i>lieu d’Athènes,</i> PLUT. <i>Syll. 14</i>.<p><b>Étym</b>. ἑ. χαλκός.`

@@ -1,1 +1,0 @@
-lar[5079]=`<b>ἀλφιτό·πωλις, ιδος</b> <font color="purple">[φῐῐδ]</font><br><b>      1</b> <i>adj. f</i>. où l’on vend de la farine, AR. <i>Eccl. 682</i>.<br><b>      2</b> ἡ ἀ. marchande de farine, DL. <i>6, 9</i>.<p><b>Étym</b>. <i>fém. de</i> ἀλφιτοπώλης.`

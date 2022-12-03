@@ -1,1 +1,0 @@
-lar[56123]=`<b>ου (ὁ)</b> = <i>lat</i>. Cluvius, <i>h</i>. PLUT. <i>Oth. 3, etc</i>.`

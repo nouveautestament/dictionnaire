@@ -1,1 +1,0 @@
-lar[104629]=`<i>ion</i>. <b>Φαιηκίς, ίδος</b> <font color="purple">[ᾱῐδ]</font> <i>adj. f</i>. des Phéaciens, A.RH. <i>4, 1222, 1722</i> ; νῆσος, A.RH. <i>4, 769,</i> l’î. des Phéaciens.<p><b>Étym</b>. Φαίακες.`

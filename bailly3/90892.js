@@ -1,1 +1,0 @@
-lar[90892]=`<b>ατος (τὸ) :<br>      1</b> ombre projetée, DS. <i>2, 31</i> ; PLUT. <i>M. 891e.</i><br><b>      2</b> ombre dessinée <i>ou</i> peinte, CALLISTR. <i>5, p. 896</i>.<p><b>Étym</b>. σκιάζω.`

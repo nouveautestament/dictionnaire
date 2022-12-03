@@ -1,1 +1,0 @@
-lar[55998]=`<b>ιδος</b> <font color="purple">[ᾰῑτῐδ]</font> <i>adj. f</i>. de sarment, sarmenteux, DIOSC. <i>3, 6</i> ; ἡ κλ. DIOSC. <i>4, 182,</i> plante sarmenteuse, <i>particul</i>. clématite.<p><b>Étym</b>. κλῆμα.`

@@ -1,1 +1,0 @@
-lar[10279]=`<b>ἀντι·πλέκω</b>, plier en sens contraire, GAL. <i>12, 46</i>.`

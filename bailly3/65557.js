@@ -1,1 +1,0 @@
-lar[65557]=`<b>μητρό·ληπτος, ος, ον</b>, frappé (de démence) par la mère des dieux, HERMIAS <i>Phædr. p. 105</i>.<p><b>Étym</b>. μ. ληπτός.`

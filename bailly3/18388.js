@@ -1,1 +1,0 @@
-lar[18388]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font><br><b>      1</b> manque de grâce, rudesse, grossièreté, PLAT. <i>Rsp. 441e.</i><br><b>      2</b> ingratitude, XÉN. <i>Cyr. 1, 2, 7</i> ; DÉM. <i>330, 14</i> ; LUC. <i>Salt. 41</i>.<p><b>Étym</b>. ἀχάριστος.`

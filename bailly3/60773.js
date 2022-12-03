@@ -1,1 +1,0 @@
-lar[60773]=`<b>ατος (τὸ)</b> claquement, <i>ou p.-ê</i>. débauche, obscénité, EPIC. (CLEOM. <i>2, 1</i>).`

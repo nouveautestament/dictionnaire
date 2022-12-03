@@ -1,1 +1,0 @@
-lar[62096]=`<b>ου (ὁ)</b> = <i>lat</i>. Lutatius, <i>n. d’h. rom</i>. PLUT. <i>Pomp. 13</i>.`

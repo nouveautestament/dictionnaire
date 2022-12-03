@@ -1,1 +1,0 @@
-lar[82807]=`<b>ου (τὸ)</b> <font color="purple">[<i>p. exc</i>. ῑδ <i>au lieu de</i> ῐδ]</font> <i>dim. de</i> πόρνη AR. <i>Ran. 1301</i>.`

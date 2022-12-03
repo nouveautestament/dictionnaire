@@ -1,1 +1,0 @@
-lar[20170]=`avoir des borborygmes, <i>d’où</i> crier, <i>en parl. des intestins,</i> ARSTT. <i>Probl. 27, 11 (var</i>. βομβυλίζω).<p><b>Étym</b>. βομβυλιός.`

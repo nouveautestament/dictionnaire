@@ -1,1 +1,0 @@
-lar[51928]=`<i>ou</i> <b>κάρταλος, ου (ὁ)</b> corbeille <i>ou</i> panier se terminant en pointe, SPT. <i>Deut. 26, 2, 4 ; 4Reg. 10, 7, etc.</i> ; PHIL. <i>1, 694</i> ; CLÉM. <i>Pæd. 1, 10 § 92</i>.`

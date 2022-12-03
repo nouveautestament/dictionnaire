@@ -1,1 +1,0 @@
-lar[50409]=`<b>καθ·ίδρως</b>, <i>gén</i>. <b>ωτος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> ruisselant de sueur, BAS. <i>3, 440 Migne</i>.<p><b>Étym</b>. κ. ἱδρώς.`

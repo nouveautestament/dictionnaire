@@ -1,1 +1,0 @@
-lar[92199]=`<b>σταυρο·φόρος, ος, ον</b>, qui porte une croix, ANTH. <i>8, 146</i> ; BAS. <i>3, 625</i> ; NAZ. <i>4, 71 Migne</i>.<p><b>Étym</b>. στ. φέρω.`

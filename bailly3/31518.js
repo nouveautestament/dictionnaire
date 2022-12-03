@@ -1,1 +1,0 @@
-lar[31518]=`<b>ἐκ·κυκλέω-ῶ :<br>      1</b> faire tourner au moyen de l’ἐκκύκλημα, CLÉM. <i>Protr. 2, 12, p. 12 ; d’où au pass</i>. ἀλλ' ἐκκυκλήθητι, AR. <i>Ach. 408 (cf. 409</i>) fais-toi rouler dehors par l’eccyclème.<br><b>      2</b> <i>p. ext</i>. produire en public, PLUT. <i>M. 80a ;</i> CLÉM. <i>Str. 7, 14</i>.`

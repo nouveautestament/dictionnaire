@@ -1,1 +1,0 @@
-lar[92228]=`<b>σταφυλο·τόμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui sert à couper les tumeurs sur la luette, P. ÉG. <i>160 Briau</i>.<p><b>Étym</b>. στ. τέμνω.`

@@ -1,1 +1,0 @@
-lar[30315]=`<i>adv</i>., fortuitement, accidentellement, par hasard, SEXT. <i>662, 15 Bkk.</i> ; DL. <i>2, 128</i>.<p><b>Étym</b>. εἰκαῖος.`

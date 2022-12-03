@@ -1,1 +1,0 @@
-lar[69702]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> construction en bois, boiserie, charpente, THC. <i>2, 14 ; 4, 48</i> ; JOS. <i>A.J. 3, 6, 5</i>.<p><b>Étym</b>. ξυλόω.`

@@ -1,1 +1,0 @@
-lar[53608]=`<b>κατ·αυχέω-ῶ</b>, se glorifier de, <i>dat</i>. ESCHL. <i>Pers. 352</i>.`

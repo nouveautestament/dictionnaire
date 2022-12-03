@@ -1,1 +1,0 @@
-lar[14790]=`<b>άδος (ὁ, ἡ)</b> <font color="purple">[ᾰδ]</font> Arcadien, IL. <i>2, 611, etc.</i> ; οἱ Ἀρκάδες, les Arcadiens, IL. <i>7, 134 ; au sg</i>. Ἀρκάς, un Arcadien, XÉN. <i>An. 7, 6, 8</i>.<p>➳ <i>Dat. pl</i>. Ἀρκάσι, IL. <i>7, 134 ; poét</i>. -κάδεσσι, SAPPH. <i>57 Bgk</i>.<p><b>Étym</b>. <i>le rapport avec</i> ἄρκτος <i>est incertain</i>).`

@@ -1,1 +1,0 @@
-lar[109719]=`<b>ψευδο·περίπτερος, ος, ον</b>, muni d’un faux péristyle, <i>en parl. d’un temple dont les colonnes latérales sont rattachées au corps de l’édifice au lieu d’être isolées,</i> VITR. <i>4, 8</i>.`

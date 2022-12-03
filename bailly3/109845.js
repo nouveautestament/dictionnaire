@@ -1,1 +1,0 @@
-lar[109845]=`<b>ψιλο·κόρσης, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui a les tempes dégarnies, HDN <i>4, 8</i>.`

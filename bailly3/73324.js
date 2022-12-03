@@ -1,1 +1,0 @@
-lar[73324]=`<b>η, ον</b> <font color="purple">[ῐ]</font> qui vit dans une coquille, PLAT. <i>Phil. 21c</i>.<p><b>Étym</b>. ὄστρεον.`

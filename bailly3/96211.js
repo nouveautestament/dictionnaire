@@ -1,1 +1,0 @@
-lar[96211]=`<b>συν·ορίζω :<br>      1 <i>tr.</i></b> enfermer dans les mêmes limites, ARSTT. <i>Cæl. 3, 8, 12 ; au pass</i>. PTOL. <i>Harm. 22c.</i><br><b>      2 <i>intr.</i></b> être limitrophe de, <i>dat</i>. A. CAR. <i>84</i> ; DS. <i>1, 30 ; abs</i>. DS. <i>14, 44 ; 17, 4</i>.`

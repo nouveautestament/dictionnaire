@@ -1,1 +1,0 @@
-lar[5394]=`<b>ἀ·μέθοδος, ος, ον</b>, qui n’a pas de plan <i>ou</i> de méthode, LGN <i>2, 2</i> ; SEXT. <i>P. 2, 21</i>.`

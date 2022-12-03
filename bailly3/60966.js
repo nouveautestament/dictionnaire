@@ -1,1 +1,0 @@
-lar[60966]=`<b>ή, όν</b>, des Lingons, <i>pple gaulois</i> : τὰ Λιγγονικά, PLUT. <i>Cæs. 26</i>, le pays des Lingons.`

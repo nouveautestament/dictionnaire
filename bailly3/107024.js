@@ -1,1 +1,0 @@
-lar[107024]=`<b>φυγ·ανθρωπία, ας (ἡ)</b> <font color="purple">[ῠ]</font> éloignement pour la société des hommes, ARÉT. <i>Caus. m. diut. 1, 5</i>.<p><b>Étym</b>. <i>v</i>. φυγανθρωπεύω.`

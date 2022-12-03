@@ -1,1 +1,0 @@
-lar[88488]=`<b>ῆρος (ὁ)</b> celui qui parle, qui dit, <i>gén</i>. IL. <i>9, 433</i> ; ANTH. <i>7, 579, etc</i>.<p><b>Étym</b>. εἴρω², <i>cf</i>. ῥήτωρ.`

@@ -1,1 +1,0 @@
-lar[28960]=`<b>δυσ·υποβίβαστος, ος, ον</b> <font color="purple">[ῠῠῐ]</font> qui ne passe pas bien, indigeste, ATH. <i>74c</i>.<p><b>Étym</b>. δ. ὑποβιβάζω.`

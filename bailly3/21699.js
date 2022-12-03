@@ -1,1 +1,0 @@
-lar[21699]=`<i>adv.</i> :<br><b>      1</b> d’une façon générale, GAL. <i>9, 270 ; p. opp. à</i> κατὰ μέρος, M. ANT. <i>8, 55, etc.</i><br><b>      2</b> au génitif, HERMOG. <i>Rhet. 3, 163, 4</i>.`

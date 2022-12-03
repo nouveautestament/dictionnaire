@@ -1,1 +1,0 @@
-lar[92390]=`<b>στενυγρόω-ῶ</b>, resserrer, contracter, HPC. <i>1168f ;</i> GAL. <i>9, 392</i>.<p><b>Étym</b>. στενυγρός.`

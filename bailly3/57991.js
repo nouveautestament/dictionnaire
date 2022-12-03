@@ -1,1 +1,0 @@
-lar[57991]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> semblable à un bélier, PHIL. <i>1, 113</i>.<p><b>Étym</b>. κριός, -ωδης.`

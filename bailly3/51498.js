@@ -1,1 +1,0 @@
-lar[51498]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> bruyant, retentissant, NIC. <i>Th. 620</i>.<p><b>Étym</b>. καναχή, <i>cf</i>. καναχής.`

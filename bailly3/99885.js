@@ -1,1 +1,0 @@
-lar[99885]=`<b>τρακτὸς κηρός (ὁ)</b> cire blanche <i>ou</i> vierge, P. ÉG. <i>4, 21</i>.<p><b>Étym</b>. <i>lat</i>. tractus <i>ou</i> tractum.`

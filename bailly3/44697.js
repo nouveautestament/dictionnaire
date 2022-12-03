@@ -1,1 +1,0 @@
-lar[44697]=`<b>ή, όν</b>, <i>propr</i>. qui concerne les constellations d’animaux, <i>d’où</i> ζ. κύκλος, PLUT. <i>M. 888c ; ou subst</i>. ὁ ζῳδιακός, EUDÈME RH. (THÉON SM. <i>198, 15</i>) ; CLÉOM. <i>1, 2 ; ou</i> ἡ ζῳδιακή (<i>s.-e</i>. ὁδός) MAN. <i>4, 168</i>, le zodiaque.<p><b>Étym</b>. ζῴδιον.`

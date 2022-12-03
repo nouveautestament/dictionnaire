@@ -1,1 +1,0 @@
-lar[37147]=`<b>ἐπ·έραστος, ος, ον</b>, aimable, digne d’être aimé, DS. <i>4, 7</i> ; LUC. <i>D. mort. 22, Prom. 1, Tim. 17, Im. 10, etc</i>.`

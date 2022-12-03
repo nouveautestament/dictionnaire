@@ -1,1 +1,0 @@
-lar[51145]=`<b>Καλλι·κράτης, ους</b> <i>et</i> <b>ου (ὁ)</b> <font color="purple">[ᾰτ]</font> Kallikratès, <i>h</i>. HDT. <i>9, 72, 85</i> ; THC. <i>1, 29, etc</i>.<p><b>Étym</b>. κ. κράτος.`

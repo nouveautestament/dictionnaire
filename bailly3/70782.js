@@ -1,1 +1,0 @@
-lar[70782]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> <i>adj. m.</i> : δίφρος, PAUS. <i>1, 27, 1</i> ; ATH. <i>512c</i>, chaise pliante, pliant.<br><b>      2</b> <i>subst</i>. ὁ ὀκλ. <i>m. sign</i>. AR. <i>Eq. 1384</i> ; LUC. <i>Lex. 6</i>.<p><b>Étym</b>. ὀκλάζω.`

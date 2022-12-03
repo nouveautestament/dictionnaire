@@ -1,1 +1,0 @@
-lar[16414]=`<i>adv</i>., sans consentir, CHRYSIPP. (PLUT. <i>M. 1057a</i>).`

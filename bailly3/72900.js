@@ -1,1 +1,0 @@
-lar[72900]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>béot. c</i>. ὄρνεον, AR. <i>Ach. 913</i>.`

@@ -1,1 +1,0 @@
-lar[73301]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> potier, A. PL. <i>191</i>.<p><b>Étym</b>. ὄστρακον.`

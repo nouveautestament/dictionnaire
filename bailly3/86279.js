@@ -1,1 +1,0 @@
-lar[86279]=`<b>προσ·παρατρώγω</b> <font color="darkgreen">(<i>f</i>. -τρώξομαι, <i>ao</i>. -παρέτραγον, <i>etc</i>.)</font> ronger <i>ou</i> déchiqueter en outre, DL. <i>2, 107</i>.`

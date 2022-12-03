@@ -1,1 +1,0 @@
-lar[63949]=`<b>οῦ (ὁ</b> <i>et</i> <b>ἡ)</b> qui prend soin de, gardien, gardienne, HDT. <i>2, 65 ; 3, 61, etc.</i> ; DH. <i>1, 67</i>.<p>➳ <i>Mot ion. ou d’usage réc</i>.<p><b>Étym</b>. μέλει.`

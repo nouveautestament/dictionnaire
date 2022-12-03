@@ -1,1 +1,0 @@
-lar[77832]=`<b>ΐδος</b> <font color="purple">[ῐ]</font> <i>adj. f</i>. de Pélops, NONN. <i>D. 37, 137</i> ; Π. γαῖα, A.RH. <i>4, 1568, etc</i>. la terre de Pélops, le Péloponnèse ; <i>subst</i>. ἡ Π. CALL. <i>Del. 72, m. sign</i>.`

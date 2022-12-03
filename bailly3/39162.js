@@ -1,1 +1,0 @@
-lar[39162]=`<b>ἐπι·στομόω-ῶ</b>, boucher, obstruer, HÉRON <i>Spir. 186d</i>.<p><b>Étym</b>. ἐπί, στόμα.`

@@ -1,1 +1,0 @@
-lar[32414]=`<b>ἐκ·χύνω</b> <i>(seul. prés.) c</i>. ἐκχέω, NT. <i>Matth. 23, 35 ; Luc. 11, 50 ; Ap. 22, 20 ; blâmé par</i> LUC. <i>Pseud. 29</i>.`

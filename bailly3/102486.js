@@ -1,1 +1,0 @@
-lar[102486]=`<b>ος, ον</b>, qui a trop bouilli, ARSTT. <i>Mund. 4, 27</i>.<p><b>Étym</b>. ὑπερζέω.`

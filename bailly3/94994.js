@@ -1,1 +1,0 @@
-lar[94994]=`<b>οῦ (ὁ)</b> compagnon d’armes, SOPH. <i>O.C. 379</i> ; A. PL. <i>184</i>.<p><b>Étym</b>. συνασπίζω.`

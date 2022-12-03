@@ -1,1 +1,0 @@
-lar[101004]=`<b>α, ον</b>, sépulcral, funéraire, LYC. <i>882</i>.<p><b>Étym</b>. τύμβος.`

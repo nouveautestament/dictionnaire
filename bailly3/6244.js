@@ -1,1 +1,0 @@
-lar[6244]=`<b>ων (οἱ)</b> les habitants de l’Amphilokhie, THC. <i>2, 68, etc</i>.<p><b>Étym</b>. Ἀμφιλοχία.`

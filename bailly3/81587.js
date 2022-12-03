@@ -1,1 +1,0 @@
-lar[81587]=`<b>πολι·ρραίστης, ου</b>, <i>adj. m</i>. destructeur de villes, LYC. <i>210</i>.<p><b>Étym</b>. πόλις, ῥαίω.`

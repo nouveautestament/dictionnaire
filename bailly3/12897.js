@@ -1,1 +1,0 @@
-lar[12897]=`<b>ἀπό·μισθος, ος, ον :<br>      1</b> non payé <i>ou</i> mal payé, XÉN. <i>Hell. 6, 2, 16</i> ; DÉM. <i>53, 16</i>.<br><b>      2</b> à qui l’on ne donne pas la solde promise, LYS. (HARP.).<br><b>      3</b> à qui l’on ne donne plus de solde, DÉM. <i>671, 1</i> ; COM. (PLUT. <i>M. 789c</i>).<p><b>Étym</b>. ἀπό, μισθός.`

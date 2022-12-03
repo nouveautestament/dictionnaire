@@ -1,1 +1,0 @@
-lar[29532]=`<b>ατος (τὸ)</b> reste, souvenir, monument, ARSTT. <i>fr. 2</i> ; EPICT. (DL. <i>10, 50</i>) ; SPT. <i>Ps. 75, 10 ; etc</i>.<p><b>Étym</b>. ἐγκαταλείπω.`

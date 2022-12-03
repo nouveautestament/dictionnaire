@@ -1,1 +1,0 @@
-lar[53197]=`<b>κατα·πυτίζω</b> <font color="purple">[ῡ]</font> rejeter en crachant, HÉRON <i>Spir. 206</i>.`

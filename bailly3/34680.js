@@ -1,1 +1,0 @@
-lar[34680]=`<b>ἐννα·ετηρίς, ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> période <i>ou</i> durée de neuf ans, PLAT. <i>Min. 319e ;</i> PLUT. <i>M. 293b</i>.<p><b>Étym</b>. ἐνναέτηρος.`

@@ -1,1 +1,0 @@
-lar[22750]=`<b>ατος (τὸ) :<br>      1</b> exercice gymnique, ATH. <i>413c ;</i> LUC. <i>Gymn. 8</i>.<br><b>      2</b> exercice de rhétorique, DH. <i>Rhet. 1</i> ; PLUT. <i>M. 1119d</i>.<p><b>Étym</b>. γυμνάζω.`

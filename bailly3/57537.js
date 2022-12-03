@@ -1,1 +1,0 @@
-lar[57537]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> chenille du chou, EL. <i>N.A. 9, 39</i>.<p><b>Étym</b>. κράμβη.`

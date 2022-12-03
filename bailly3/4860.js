@@ -1,1 +1,0 @@
-lar[4860]=`<b>άδος (ἡ)</b> <i>s.-e</i>. ἐλαία, olive confite dans la saumure, AR. <i>fr. 190</i> ; HERMIPP. (ATH. <i>56c</i>) ; PLUT. <i>M. 687d</i>.<p><b>Étym</b>. ἅλμη.`

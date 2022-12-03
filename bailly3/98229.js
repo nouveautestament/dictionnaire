@@ -1,1 +1,0 @@
-lar[98229]=`<b>τελματόω-ῶ</b> <font color="purple">[ᾱ]</font> changer en marais, <i>d’où au pass</i>. devenir marécageux, STR. <i>793</i>.<p><b>Étym</b>. τέλμα.`

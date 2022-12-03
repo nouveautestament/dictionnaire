@@ -1,1 +1,0 @@
-lar[42456]=`<b>Εὔ·κναμος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Euknamos, <i>h</i>. PLUT. <i>M. 761d</i>.<p><b>Étym</b>. <i>dor. c</i>. εὔκνημος.`

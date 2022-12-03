@@ -1,1 +1,0 @@
-lar[107872]=`<b>οῦ (ὁ)</b> <font color="purple">[χᾰ]</font> désignation au moyen d’un signe caractéristique, CLÉM. <i>156</i> ; SOPATER (<i>W. 8, 751,</i> etc.).<p><b>Étym</b>. χαρακτηρίζω.`

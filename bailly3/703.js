@@ -1,1 +1,0 @@
-lar[703]=`<b>ἀγλαό·κουρος, ος, ον</b>, à la brillante jeunesse, aux beaux jeunes hommes, PD. <i>O. 13, 5</i>.<p><b>Étym</b>. ἀ. κοῦρος.`

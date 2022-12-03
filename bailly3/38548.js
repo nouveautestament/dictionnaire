@@ -1,1 +1,0 @@
-lar[38548]=`<i>adv</i>., en mauvais état de santé, HPC. <i>Epid. 1, 942</i>.<p><b>Étym</b>. ἐπίνοσος.`

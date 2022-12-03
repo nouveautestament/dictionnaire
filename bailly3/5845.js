@@ -1,1 +1,0 @@
-lar[5845]=`<b>ου (τὸ)</b> <font color="purple">[ᾰκ]</font> <i>c</i>. ἀμπλακία PD. <i>P. 11, 26</i>.`

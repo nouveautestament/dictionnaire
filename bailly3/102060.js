@@ -1,1 +1,0 @@
-lar[102060]=`<b>ὑπ·αφανίζω</b> <font color="purple">[ῠᾰᾰ]</font> faire disparaître <i>ou</i> consumer peu à peu, EL. <i>N.A. 2, 56</i>.`

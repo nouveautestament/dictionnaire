@@ -1,1 +1,0 @@
-lar[105685]=`<b>ων (τὰ)</b> <font color="purple">[ῐῐτ]</font> <i>c</i>. φειδίτια, ANTIPH. (<i>Com. fr. 3, 22) ; au sg</i>. τὸ φιλίτιον, XÉN. <i>Hell. 5, 4, 28 ; Lac. 3, 5,</i> repas commun, <i>à Sparte</i>.<p><b>Étym</b>. <i>cf</i>. φειδίτιον <i>et</i> φιδίτιον.`

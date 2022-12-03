@@ -1,1 +1,0 @@
-lar[81311]=`<b>ποεσί·χροος, ος, ον</b>, de la couleur du gazon, verdoyant, OPP. <i>C. 2, 409</i>.<p><b>Étym</b>. πόα, χρόα.`

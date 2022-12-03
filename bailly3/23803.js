@@ -1,1 +1,0 @@
-lar[23803]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> petit dauphin de plomb <i>ou</i> de fer, HÉRON <i>Aut. 271</i>.<p><b>Étym</b>. δελφίς.`

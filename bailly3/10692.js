@@ -1,1 +1,0 @@
-lar[10692]=`<b>άδος (ἡ)</b> <i>s.-e</i>. ναῦς, le vaisseau d’Antoine, <i>n. d’un vaisseau de Cléopâtre,</i> PLUT. <i>Ant. 60</i>.`

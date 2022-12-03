@@ -1,1 +1,0 @@
-lar[78876]=`<b>περι·λέπω</b>, peler tout autour, HDT. <i>8, 115</i>.`

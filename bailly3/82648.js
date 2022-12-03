@@ -1,1 +1,0 @@
-lar[82648]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Pompo, <i>n. d’h. rom</i>. PLUT. <i>Num. 21</i>.`

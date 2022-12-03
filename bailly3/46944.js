@@ -1,1 +1,0 @@
-lar[46944]=`<b>θερμο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font> trempé dans l’eau chaude, TH. <i>Od. 22</i>.<p><b>Étym</b>. θ. βάπτω.`

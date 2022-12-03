@@ -1,1 +1,0 @@
-lar[13155]=`<b>ἀπο·προσωπίζομαι</b>, ôter de dessus sa figure, se découvrir <i>ou</i> se nettoyer le visage, PHÉRÉCR. (POLL. <i>2, 48).</i><p><b>Étym</b>. ἀπό, πρόσωπον.`

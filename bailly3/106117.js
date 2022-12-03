@@ -1,1 +1,0 @@
-lar[106117]=`<b>φιλο·συνήθης, ης, ύνηθες</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ῐῠ]</font> qui aime à se lier, sociable, PLUT. <i>M. 56c</i>.`

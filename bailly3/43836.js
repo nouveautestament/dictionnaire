@@ -1,1 +1,0 @@
-lar[43836]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> bonne qualité des sucs, HPC. <i>412, 19</i>.<br><b>      2</b> saveur agréable, TH. <i>C.P. 6, 11, 4</i>.<p>➳ <i>Ion</i>. -ιή, HPC. <i>l. c</i>.<p><b>Étym</b>. εὔχυμος.`

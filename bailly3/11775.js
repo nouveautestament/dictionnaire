@@ -1,1 +1,0 @@
-lar[11775]=`<b>ἀ·περινόητος, ος, ον</b>, incompréhensible, EPIC. (DL. <i>10, 46</i>) ; CLÉM. <i>994</i> ; PHIL. <i>1, 581, etc</i>.<p><b>Étym</b>. ἀ, περινοέω.`

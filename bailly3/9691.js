@@ -1,1 +1,0 @@
-lar[9691]=`<b>ἀντ·εριδαίνω</b> <font color="purple">[ῐ]</font> <i>c</i>. ἀντερίζω NONN. <i>Jo. 7, 43</i>.`

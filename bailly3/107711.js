@@ -1,1 +1,0 @@
-lar[107711]=`<b>ός, όν :<br>      1</b> qui travaille le cuivre <i>ou</i> l’airain ; <i>subst</i>. ὁ χ. chaudronnier <i>ou</i> forgeron, LUC. <i>J. tr. 33</i>.<br><b>      2</b> où l’on travaille le cuivre, DIOSC. <i>5, 106</i>.<p><b>Étym</b>. χαλκός, ἔργον.`

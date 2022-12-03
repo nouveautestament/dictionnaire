@@ -1,1 +1,0 @@
-lar[103539]=`<b>ης, ες</b>, <i>gén</i>. <b>εος</b>, un peu long, ARSTT. <i>fr. 318</i> ; DL. <i>1, 7</i> ; DIOSC. <i>4, 118</i>.<p><b>Étym</b>. ὑ. μῆκος.`

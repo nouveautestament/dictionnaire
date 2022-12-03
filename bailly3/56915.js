@@ -1,1 +1,0 @@
-lar[56915]=`<b>ή, όν</b>, petit, POLÉM. <i>Physiogn. 1, 18, p. 268</i> ; ADAM. <i>Physiogn. 2, 15, p. 390</i>.`

@@ -1,1 +1,0 @@
-lar[104071]=`<b>ὑπ·ουθάτιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui est encore à la mamelle, ANTH. <i>10, 101</i>.<p><b>Étym</b>. ὑ. οὖθαρ.`

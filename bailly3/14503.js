@@ -1,1 +1,0 @@
-lar[14503]=`<b>ἀρηΐ·φθορος, ος, ον</b> <font color="purple">[ᾰ]</font> tué par Arès, <i>càd</i>. dans le combat, CORN. <i>21</i> Ἄρης, φθείρω).`

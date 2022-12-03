@@ -1,1 +1,0 @@
-lar[100475]=`<b>τρισμυριό·παλαι</b> <font color="purple">[ῡᾰ]</font> <i>adv</i>., il y a trente mille siècles, <i>càd</i>. très longtemps, AR. <i>Eq. 1156</i>.<p><b>Étym</b>. τρ. πάλαι.`

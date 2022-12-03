@@ -1,1 +1,0 @@
-lar[66793]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Mosynos, <i>h</i>. Q. SM. <i>6, 631</i>.`

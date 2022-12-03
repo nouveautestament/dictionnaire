@@ -1,1 +1,0 @@
-lar[83939]=`<b>προ·διαρθρόω-ῶ</b>, expliquer auparavant, SEXT. <i>M. 1, 96 ; 11, 8</i>.`

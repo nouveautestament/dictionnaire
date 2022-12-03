@@ -1,1 +1,0 @@
-lar[18575]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῠ]</font> construction en paille, nid fait avec de la paille, ARSTT. <i>H.A. 9, 7, 1</i>.<p><b>Étym</b>. ἀχυρόω.`

@@ -1,1 +1,0 @@
-lar[84462]=`<b>προ·κατάκειμαι</b>, être couché (à table) à la première place <i>ou</i> sur un lit plus élevé que les autres, LUC. <i>M. cond. 18</i> ; HLD. <i>4, 16</i>.`

@@ -1,1 +1,0 @@
-lar[91432]=`<b>η, ον</b> <font color="purple">[μᾰῐ]</font> d’un vert d’émeraude, NT. <i>Apoc. 4, 3</i>.<p><b>Étym</b>. σμάραγδος.`

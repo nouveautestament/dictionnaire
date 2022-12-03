@@ -1,1 +1,0 @@
-lar[86601]=`<b>πρόσ·φημι</b> <font color="darkgreen">(<i>impf. ou ao.2</i> προσέφην, <i>f</i>. προσφήσω)</font> adresser la parole à, <i>acc</i>. IL. <i>4, 401 ; abs</i>. IL. <i>13, 768</i> ; OD. <i>11, 565</i>.<br><b><i>Moy.</i></b> (<i>inf. ao.2</i> προσφάσθαι) <i>m. sign</i>. OD. <i>23, 106</i>.<p><b>Étym</b>. π. φημί.`

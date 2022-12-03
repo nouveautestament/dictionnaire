@@ -1,1 +1,0 @@
-lar[36529]=`<b>ῆρος (ὁ)</b> <font color="purple">[βᾱ]</font> <i>litt</i>. qui fond sur, assaillant, ESCHL. <i>Ch. 280</i>.<p><b>Étym</b>. <i>v</i>. ἐπάμβασις.`

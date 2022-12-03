@@ -1,1 +1,0 @@
-lar[7664]=`<b>ῆρος (ὁ)</b> <font color="purple">[τᾰ]</font> destructeur, ESCHL. <i>Sept. 1015, Ch. 303</i>.<p><b>Étym</b>. ἀνίστημι.`

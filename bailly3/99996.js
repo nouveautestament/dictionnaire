@@ -1,1 +1,0 @@
-lar[99996]=`<b>τραχύ·στομος, ος, ον</b> <font color="purple">[ᾱ]</font> dont la prononciation est rude, STR. <i>662</i>.<p><b>Étym</b>. τρ. στόμα.`

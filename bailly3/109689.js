@@ -1,1 +1,0 @@
-lar[109689]=`<b>ψευδοκλητείας γραφή</b> <i>ou</i> <b>δίκη (ἡ)</b> action pour fausse assignation, <i>càd</i>. contre celui qui déclare faussement avoir assigné qqn, DÉM. <i>1251, 21 ; 1252, 6</i> ; AND. <i>10, 22</i>.<p><b>Étym</b>. ψευδοκλητεύω.`

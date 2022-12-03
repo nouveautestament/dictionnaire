@@ -1,1 +1,0 @@
-lar[67763]=`<b>ναυ·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui combat sur mer, ANTH. <i>7, 741</i>.<p><b>Étym</b>. ναῦς, μάχομαι.`

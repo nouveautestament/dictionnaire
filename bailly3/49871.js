@@ -1,1 +1,0 @@
-lar[49871]=`<b>Ἰσχ·αγόρας, ου (ὁ)</b> <font color="purple">[ᾰγ]</font> Iskhagoras, <i>général spartiate,</i> THC. <i>4, 132 ; 5, 19 et 24</i>.<p><b>Étym</b>. ἴσχω, ἀγορά.`

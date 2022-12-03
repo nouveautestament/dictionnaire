@@ -1,1 +1,0 @@
-lar[70563]=`<b>οἰνοποτέω-ῶ</b>, boire du vin, ATH. <i>781d ;</i> SPT. <i>Prov. 31, 4</i>.<p><b>Étym</b>. οἰνοπότης.`

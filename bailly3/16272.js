@@ -1,1 +1,0 @@
-lar[16272]=`<b>α, ον</b>, étoilé, NONN. <i>D. 1, 191, etc</i>.<p>➳ <i>Fém. ion</i>. -η, NONN. <i>D. 8, 388, etc</i>.<p><b>Étym</b>. ἀστήρ.`

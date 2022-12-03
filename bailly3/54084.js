@@ -1,1 +1,0 @@
-lar[54084]=`<b>κατ·όζω</b>, infecter, <i>gén</i>. ARR. <i>Epict. 4, 11, 16</i>.`

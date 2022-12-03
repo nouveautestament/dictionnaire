@@ -1,1 +1,0 @@
-lar[88915]=`<b>ή, όν</b>, sali, souillé, NAZ.<p><b>Étym</b>. <i>vb. de</i> ῥυπόω.`

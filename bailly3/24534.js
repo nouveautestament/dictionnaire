@@ -1,1 +1,0 @@
-lar[24534]=`<b>δια·δατέομαι-οῦμαι</b> <font color="purple">[δᾰ]</font> (<i>seul. prés. part</i>. -ουμένης) être partagé, APP. <i>Civ. 1, 1</i>.`

@@ -1,1 +1,0 @@
-lar[76099]=`<b>*παρα·πόδιος</b>, <i>poét</i>. <b>παρ·πόδιος, ος, ον</b>, qui est devant les pieds, présent, PD. <i>N. 9, 38</i>.<p><b>Étym</b>. π. πούς.`

@@ -1,1 +1,0 @@
-lar[98847]=`<b>ήεσσα, ῆεν :<br>      1</b> fait avec art, bien travaillé, OD. <i>8, 297</i>.<br><b>      2</b> habile à travailler, Q. SM. <i>8, 196</i>.<br><b>      3</b> artificieux, A. PL. <i>1, 3 (dor</i>. -άεις <font color="purple">[ᾱ]</font>).<p>•<i> Cp</i>. -ηέστερος, EL. <i>N.A. 1, 59</i>.<p><b>Étym</b>. τέχνη.`

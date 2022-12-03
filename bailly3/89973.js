@@ -1,1 +1,0 @@
-lar[89973]=`engendrer la corruption, empoisonner, MAN. <i>4, 269</i>.<p><b>Étym</b>. σήψ.`

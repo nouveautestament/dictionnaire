@@ -1,1 +1,0 @@
-lar[75586]=`<b>*παρα·θερίζω</b> <font color="darkgreen">(<i>ao. sync. 3 pl</i>. παρέθρισαν)</font> moissonner à côté, A.RH. <i>2, 601 ; cf</i>. ἔθρισαν <i>p</i>. ἐθέρισαν, <i>de</i> θερίζω.`

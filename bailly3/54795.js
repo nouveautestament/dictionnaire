@@ -1,1 +1,0 @@
-lar[54795]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de terre cuite, d’argile, PLUT. <i>Galb. 12</i> ; DC. <i>42, 26</i>.<p>➳ <i>Ion. et épq</i>. κεραμήϊος, HOM. <i>Ep. 14</i> ; NIC. <i>Th. 80</i>.<p><b>Étym</b>. κέραμος.`

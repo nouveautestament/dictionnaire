@@ -1,1 +1,0 @@
-lar[65290]=`être du parti des Mèdes <i>ou</i> des Perses, HDT. <i>4, 144</i> ; THC. <i>3, 62</i> ; XÉN. <i>Hell. 3, 1, 6, etc</i>.<p><b>Étym</b>. Μῆδοι.`

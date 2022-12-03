@@ -1,1 +1,0 @@
-lar[12551]=`<b>οῦ (ὁ)</b> <font color="purple">[φᾰ]</font> décapitation, PLUT. <i>M. 358e</i>.`

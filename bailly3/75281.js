@@ -1,1 +1,0 @@
-lar[75281]=`<b>παντο·πώλιον, ου (τὸ)</b> lieu <i>ou</i> boutique où l’on vend des marchandises de toute sorte, bazar, PLAT. <i>Rsp. 557d</i>.<p><b>Étym</b>. π. πωλέω.`

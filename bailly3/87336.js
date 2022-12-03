@@ -1,1 +1,0 @@
-lar[87336]=`<b>εως (ἡ)</b> chute des plumes, <i>d’où</i> mue, HIÉROCL. <i>C. aur. p. 470 Mullach</i>.<p><b>Étym</b>. πτερορρυέω.`

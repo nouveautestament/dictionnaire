@@ -1,1 +1,0 @@
-lar[27387]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> essayé, éprouvé, DL. <i>7, 105</i>.<p><b>Étym</b>. <i>vb. de</i> δοκιμάζω.`

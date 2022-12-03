@@ -1,1 +1,0 @@
-lar[4938]=`<b>ἁλόσ·ανθον, ου (τὸ)</b> <font color="purple">[ᾰλ]</font> salpêtre (<i>litt</i>. fleur de sel) GAL. <i>13, 317</i>.<p><b>Étym</b>. ἅλς², ἄνθος.`

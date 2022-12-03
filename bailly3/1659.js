@@ -1,1 +1,0 @@
-lar[1659]=`<b>ἀει·θανής, ής, ές</b> <font color="purple">[ᾰν]</font> toujours mort <i>ou</i> mourant (de peur) MAN. <i>1, 166</i>.<p><b>Étym</b>. ἀ. θανεῖν.`

@@ -1,1 +1,0 @@
-lar[52994]=`<b>κατα·παννυχίζω</b> <font color="purple">[ῠ]</font> passer toute la nuit, ALCIPHR. <i>1, 39, 7</i>.`

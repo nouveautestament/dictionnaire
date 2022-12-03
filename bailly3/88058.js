@@ -1,1 +1,0 @@
-lar[88058]=`<b>εως (ἡ) :<br>      1</b> question, interrogation, enquête, THC. <i>1, 5</i> ; PLAT. <i>Lach. 196c ;</i> LUC. <i>Alex. 32</i>.<br><b>      2</b> bruit, nouvelle, renommée, ESCHL. <i>Sept. 54</i> ; EUR. <i>El. 690</i> ; THC. <i>3, 82 etc</i>.<p><b>Étym</b>. πυνθάνομαι.`

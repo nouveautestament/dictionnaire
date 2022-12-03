@@ -1,1 +1,0 @@
-lar[67832]=`<b>ναυτιλο·φθόρος, ος, ον</b> <font color="purple">[ῐ]</font> funeste aux navigateurs, LYC. <i>650</i>.<p><b>Étym</b>. ναυτίλος, φθείρω.`

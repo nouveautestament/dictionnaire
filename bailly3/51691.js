@@ -1,1 +1,0 @@
-lar[51691]=`cheveu, <i>seul. au gén</i>. <b>καρός</b> <font color="purple">[ᾰ]</font> <i>dans la loc</i>. τίω δέ μιν ἐν καρὸς αἴσῃ, IL. <i>9, 378,</i> je fais cas de lui comme d’un cheveu.<p><b>Étym</b>. <i>inconnue</i>.`

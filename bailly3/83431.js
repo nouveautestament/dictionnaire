@@ -1,1 +1,0 @@
-lar[83431]=`<b>(ἡ)</b> = <i>lat</i>. Prima, <i>n. de f. rom</i>. PLUT. <i>Rom. 14</i>.`

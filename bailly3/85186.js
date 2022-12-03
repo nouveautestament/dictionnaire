@@ -1,1 +1,0 @@
-lar[85186]=`<b>προσ·ανατρέφω</b>, rendre les forces par un bon régime, DS. <i>1, 43</i> ; CIC. <i>Att. 6, 1, 2</i>.`

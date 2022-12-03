@@ -1,1 +1,0 @@
-lar[89934]=`<b>σημαιο·φόρος, ου (ὁ)</b> porte-enseigne, POL. <i>6, 24, 6</i> ; PLUT. <i>Galb. 22, etc. (cf. lat</i>. signifer).<p><b>Étym</b>. σῆμα, φέρω.`

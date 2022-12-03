@@ -1,1 +1,0 @@
-lar[51204]=`<b>καλλί·πυργος, ος, ον</b>, aux belles tours, EUR. <i>Bacch. 1202 ; fig</i>. défendue comme par de solides tours, <i>en parl. de la Sagesse,</i> AR. <i>Nub. 1024</i>.<p><b>Étym</b>. κ. πύργος.`

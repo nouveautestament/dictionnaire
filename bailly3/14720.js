@@ -1,1 +1,0 @@
-lar[14720]=`<b>ἀριστο·λοχία, ας (ἡ)</b> <font color="purple">[ᾰρ]</font> aristoloche, <i>plante renommée pour faciliter les accouchements,</i> TH. <i>H.P. 9, 20, 4</i> ; DIOSC. <i>3, 4</i>.<p><b>Étym</b>. ἄ. λόχος.`

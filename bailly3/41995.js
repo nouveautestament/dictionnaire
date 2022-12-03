@@ -1,1 +1,0 @@
-lar[41995]=`<b>εὐ·εξέλεγκτος, ος, ον</b>, facile à prouver, PLAT. <i>Hipp. ma. 293d</i>.<p><b>Étym</b>. εὖ, ἐξελέγχω.`

@@ -1,1 +1,0 @@
-lar[54484]=`<b>εως (ἡ)</b> action de garder comme un trésor, EUST. <i>Od. vol. 2, p. 323, 21</i>.<p><b>Étym</b>. *κειμηλιόω, <i>de</i> κειμήλιον.`

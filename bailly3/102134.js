@@ -1,1 +1,0 @@
-lar[102134]=`<b>ὑπ·εκ·προ·λύω</b> <font color="darkgreen">(<i>ao. 3 pl</i>. ὑπεκπροέλυσαν)</font> dételer de, <i>rég. ind. au gén</i>. OD. <i>6, 88</i>.`

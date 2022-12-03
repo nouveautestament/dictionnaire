@@ -1,1 +1,0 @@
-lar[27430]=`<b>δολιχ·ήρης, ης, ες</b> <font color="purple">[ῐ]</font> ajusté longuement, <i>d’où</i> long, NIC. <i>Th. 183</i> ; OPP. <i>H. 1, 408 ; 2, 497</i>.<p><b>Étym</b>. δολιχός, *ἄρω.`

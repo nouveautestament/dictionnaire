@@ -1,1 +1,0 @@
-lar[93890]=`<b>συμ·βουλή, ῆς (ἡ) :<br>      1</b> conseil, HDT. <i>1, 157</i> ; XÉN. <i>An. 5, 6, 4 ; au plur</i>. PLAT. <i>Gorg. 520d, etc.</i><br><b>      2</b> délibération, consultation, PLAT. <i>Prot. 313a, 322e, Gorg. 455e, etc</i>.`

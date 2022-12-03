@@ -1,1 +1,0 @@
-lar[74779]=`<b>πάμ·φλεκτος, ος, ον</b>, tout enflammé, tout ardent, SOPH. <i>Ant. 1006, etc.</i> ; AXION. (ATH. <i>372b</i>).<p><b>Étym</b>. π. φλέγω.`

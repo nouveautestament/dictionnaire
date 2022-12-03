@@ -1,1 +1,0 @@
-lar[6444]=`<b>ἄμφ·οδος, ου (ἡ)</b> rue avec les maisons qui la bordent, quartier d’une ville, CLÉM. <i>257</i> ; GAL. <i>4, 266</i>.<p><b>Étym</b>. ἀ. ὁδός.`

@@ -1,1 +1,0 @@
-lar[108516]=`<b>ης, ες :<br>   I</b> semblable à la neige, blanc comme neige, HPC. <i>Epid. 3, 1082</i> ; ANTH. <i>11, 410, 5</i>.<br><b>   II</b> neigeux, <i>càd.</i> :<br><b>      1</b> couvert de neige, EUR. <i>Hec. 81</i> ; A.RH. <i>1, 826</i> ; TH. <i>Vent. 14</i>.<br><b>      2</b> qui amène la neige, GEOP. <i>1, 12, 3</i>.<p><b>Étym</b>. χ. -ωδης.`

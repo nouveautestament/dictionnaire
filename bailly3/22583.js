@@ -1,1 +1,0 @@
-lar[22583]=`<b>ή, όν</b> <font color="purple">[μᾰῐκ]</font> qui concerne les éléments de la grammaire, THÉM. <i>23, p. 297d ;</i> ἡ γρ. PHIL. <i>1, 540</i> ; SEXT. <i>P. 1, 44,</i> l’art d’enseigner les éléments de la grammaire.<p><b>Étym</b>. γραμματιστής.`

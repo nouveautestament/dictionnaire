@@ -1,1 +1,0 @@
-lar[55047]=`<b>ή, όν</b>, de châtaigne ; κεστιανὴ βάλανος, AÉT. <i>8, 69,</i> châtaigne ; τὰ κεστιανά, châtaignes, GAL. <i>13, 490, etc</i>.`

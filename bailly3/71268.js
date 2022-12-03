@@ -1,1 +1,0 @@
-lar[71268]=`<i>adv</i>., à Olympie, <i>sans mouv</i>. THC. <i>1, 121, 143</i> ; PLAT. <i>Ap. 36d ;</i> DÉM. <i>561, 26</i>.<p>➳ <font color="purple">[ᾰ]</font> AR. <i>Lys. 1131, Vesp. 1382</i>.<p><b>Étym</b>. Ὀλυμπία, -σι.`

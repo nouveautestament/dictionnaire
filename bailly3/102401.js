@@ -1,1 +1,0 @@
-lar[102401]=`<b>ὑπερδυναμόω-ῶ</b> <font color="purple">[ῠᾰ]</font> prévaloir sur, <i>acc</i>. SPT. <i>Ps. 64, 3</i>.<p><b>Étym</b>. ὑπερδύναμος.`

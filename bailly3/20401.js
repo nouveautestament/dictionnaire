@@ -1,1 +1,0 @@
-lar[20401]=`<b>εως (ἡ)</b> action de soulager, de calmer, PLUT. <i>M. 802e</i>.<p><b>Étym</b>. βουκολέω.`

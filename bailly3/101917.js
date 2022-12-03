@@ -1,1 +1,0 @@
-lar[101917]=`<b>ὑπ·αλεαίνω</b>, échauffer légèrement, EL. <i>N.A. 15, 12</i>.`

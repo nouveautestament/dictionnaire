@@ -1,1 +1,0 @@
-lar[95623]=`<b>συν·επίθρυψις, εως (ἡ)</b> participation à une vie molle et efféminée, PLUT. <i>M. 1092d</i>.<p><b>Étym</b>. σύν, ἐπιθρύπτω.`

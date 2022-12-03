@@ -1,1 +1,0 @@
-lar[16811]=`<b>α, ον</b> <font color="purple">[ῑ]</font> <i>vb. de</i> ἀτιμάζω, HPC. <i>773d ;</i> XÉN. <i>Conv. 4, 17</i> ; PLAT. <i>Phædr. 266d</i>.`

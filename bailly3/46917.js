@@ -1,1 +1,0 @@
-lar[46917]=`<b>ῶν (τὰ)</b> les Thermes, <i>sources thermales, dans l’isthme de Corinthe,</i> XÉN. <i>Hell. 4, 5, 8</i>.<p><b>Étym</b>. θερμός.`

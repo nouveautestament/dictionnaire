@@ -1,1 +1,0 @@
-lar[68866]=`<b>(ὁ)</b> Noès :<br><b>      1</b> <i>fl. de Thrace,</i> HDT. <i>4, 49</i>.<br><b>      2</b> <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

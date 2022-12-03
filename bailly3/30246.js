@@ -1,1 +1,0 @@
-lar[30246]=`<b>ή, όν</b>, qui concerne la connaissance, JAMBL. <i>Math. 189, 210</i> ; PROCL. <i>Plat. Parm. 562, etc</i>.<p><b>Étym</b>. *εἴδω.`

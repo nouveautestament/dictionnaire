@@ -1,1 +1,0 @@
-lar[58583]=`<b>α, ον</b>, de Cyclope, PD. <i>fr. 134</i> ; EUR. <i>Or. 965</i>.<p><b>Étym</b>. Κύκλωψ.`

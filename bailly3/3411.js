@@ -1,1 +1,0 @@
-lar[3411]=`<i>adv</i>., sans pleurer, CALL. <i>Dian. 267</i>.<p><b>Étym</b>. ἄκλαυτος.`

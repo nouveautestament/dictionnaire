@@ -1,1 +1,0 @@
-lar[108904]=`<b>ατος (τὸ)</b> hennissement, grondement, ANTH. <i>5, 245</i>.<p><b>Étym</b>. χρεμετίζω.`

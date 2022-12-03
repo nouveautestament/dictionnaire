@@ -1,1 +1,0 @@
-lar[40439]=`<b>ἐρι·θηλής, ής, ές</b> <font color="purple">[ῐ]</font> qui pousse beaucoup de branches <i>ou</i> de rejetons, IL. <i>10, 467 ; 17, 53</i> ; HÉS. <i>Th. 30, etc. ; d’où en gén</i>. fécond, fertile, IL. <i>5, 90</i> ; A.RH. <i>2, 723 ; fig</i>. A. PL. <i>4, 72</i>.<p><b>Étym</b>. ἐρι-, θάλλω.`

@@ -1,1 +1,0 @@
-lar[28585]=`<i>adv</i>., sans gloire, sans honneur, SOPH. <i>El. 1006</i> ; EUR. <i>Hel. 999</i> ; PLUT. <i>M. 169a</i>.<p><b>Étym</b>. δυσκλεής.`

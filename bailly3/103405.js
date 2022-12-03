@@ -1,1 +1,0 @@
-lar[103405]=`<b>ή, όν</b>, caressant, <i>d’où</i> propre à atténuer, ANON. (EUS. <i>H.E. 5, 16</i>) ; ὄνομα ὑποκοριστικόν, GRAMM. <i>ou subst</i>. τὸ ὑποκοριστικόν, ATH. <i>650e ;</i> GRAMM. diminutif.<p><b>Étym</b>. ὑποκορίζομαι.`

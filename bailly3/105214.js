@@ -1,1 +1,0 @@
-lar[105214]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> étincelle de cendre chaude, reste d’un feu mal éteint, AR. <i>Ach. 278, 668 ; Vesp. 227</i> ; ARSTT. <i>Meteor. 2, 8, 15</i> ; LYC. <i>178</i>.`

@@ -1,1 +1,0 @@
-lar[72357]=`<b>ὁπλο·σκοπία, ας (ἡ)</b> inspection d’armes, revue militaire, PHIL. <i>2, 130</i>.<p><b>Étym</b>. ὅπλ. σκοπέω.`

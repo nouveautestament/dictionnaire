@@ -1,1 +1,0 @@
-lar[96514]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> formation d’une fistule, ANTYLL. (ORIB. <i>p. 16 Mai).</i><p><b>Étym</b>. συριγγόω.`

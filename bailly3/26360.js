@@ -1,1 +1,0 @@
-lar[26360]=`<b>ή, όν</b>, qui aime à raconter, ARSTT. <i>Nic. 3, 10, 2</i>.`

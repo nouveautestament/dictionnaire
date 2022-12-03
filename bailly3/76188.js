@@ -1,1 +1,0 @@
-lar[76188]=`<b>ων (οἱ)</b> Parasies, <i>v. de Thessalie,</i> THC. <i>3, 22</i>.`

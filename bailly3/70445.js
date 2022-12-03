@@ -1,1 +1,0 @@
-lar[70445]=`<b>οἰκτρο·μέλαθρος, ος, ον</b>, qui habite une demeure lamentable, MAN. <i>4, 33</i>.<p><b>Étym</b>. οἰκτρός, μέλαθρον.`

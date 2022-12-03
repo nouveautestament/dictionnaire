@@ -1,1 +1,0 @@
-lar[80709]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> de platane ; τὰ πλατάνια (<i>s.-e</i>. μῆλα), ATH. <i>81a</i>, sorte de pommes de même saveur que la feuille tendre du platane.<p><b>Étym</b>. πλάτανος.`

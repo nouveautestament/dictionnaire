@@ -1,1 +1,0 @@
-lar[51654]=`<b>(ὁ)</b> de Cappadoce, Cappadocien ; <i>d’ord. au plur</i>. οἱ Καππάδοκες, PLUT. <i>Luc. 26, etc</i>. les Cappadociens.<p>➳ <i>Dat. pl</i>. Καππάδοξι, PLUT. <i>Luc. 14 ; poét</i>. Καππαδόκεσσι, ANTH. <i>8, 147, 184</i>.<p><b>Étym</b>. <i>v</i>. Καππαδόκης, Καππαδοκία.`

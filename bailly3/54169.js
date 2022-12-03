@@ -1,1 +1,0 @@
-lar[54169]=`<b>κάτ·ορθος, ος, ον</b>, tout à fait droit, MNÉSITH. (ORIB. <i>2, 251 B.-Dar</i>.).<p><b>Étym</b>. κ. ὀρθός.`

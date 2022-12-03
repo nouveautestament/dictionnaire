@@ -1,1 +1,0 @@
-lar[13810]=`<b>ἀπο·χρίω</b>, ôter un enduit, <i>d’où fig</i>. effacer, CHRYS. <i>1, 585</i>.`

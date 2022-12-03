@@ -1,1 +1,0 @@
-lar[73358]=`<b>ης (ἡ) :<br>      1</b> jeune pousse, jeune branche, NIC. <i>Al. 108</i>.<br><b>      2</b> <i>c</i>. ὄσχεος, HPC. <i>483, 15 ; 486, 13, etc</i>.`

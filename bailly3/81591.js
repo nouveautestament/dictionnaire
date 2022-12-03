@@ -1,1 +1,0 @@
-lar[81591]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite ville, bourgade, POL. <i>1, 24, 12</i>.<p><b>Étym</b>. <i>dim. de</i> πόλισμα.`

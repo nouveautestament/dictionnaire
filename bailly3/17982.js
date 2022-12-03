@@ -1,1 +1,0 @@
-lar[17982]=`<b>ἀφ·έστιος, ος, ον</b>, absent de sa maison, SPT.<p><b>Étym</b>. ἀπό, ἑστία.`

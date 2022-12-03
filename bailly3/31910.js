@@ -1,1 +1,0 @@
-lar[31910]=`<b>ῆς (ἡ) :<br>      1</b> envoi (de colonies) PLAT. <i>Leg. 740e.</i><br><b>      2</b> <i>au pl</i>. excursions, incursions (de brigands), THC. <i>3, 51</i>.<br><b>      3</b> renvoi, <i>d’où</i> répudiation d’une femme, divorce, ANT. (STOB. <i>422, 2).</i><p><b>Étym</b>. ἐκπέμπω.`

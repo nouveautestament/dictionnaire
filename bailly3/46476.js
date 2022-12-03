@@ -1,1 +1,0 @@
-lar[46476]=`<b>οῦ (ὁ) :<br>      1</b> inspiration divine, DH. <i>7, 68</i>.<br><b>      2</b> <i>p. suite,</i> superstition, THC. <i>7, 50</i> ; PLUT. <i>M. 855b</i>.<p><b>Étym</b>. θειάζω.`

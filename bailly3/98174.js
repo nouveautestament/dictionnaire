@@ -1,1 +1,0 @@
-lar[98174]=`<b>τελεσσί·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui consomme les mariages, NONN. <i>D. 48, 232, etc</i>.<p><b>Étym</b>. <i>épq. p</i>. *τελεσίγαμος <i>de</i> τελέω, γάμος.`

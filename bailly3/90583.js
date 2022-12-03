@@ -1,1 +1,0 @@
-lar[90583]=`<b>ου (ἡ)</b> Siphnos (<i>auj</i>. Sífnos) <i>Cyclade,</i> HDT. <i>3, 57, etc</i>.`

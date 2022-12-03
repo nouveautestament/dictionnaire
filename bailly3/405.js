@@ -1,1 +1,0 @@
-lar[405]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> service <i>ou</i> fonction de courrier, ARR. <i>Epict. 4, 1, 79</i>.<p><b>Étym</b>. ἀγγαρεύω.`

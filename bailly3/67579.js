@@ -1,1 +1,0 @@
-lar[67579]=`<b>άδος (ἡ)</b> <font color="purple">[νᾱ]</font> Naïade, <i>divinité des cours d’eau,</i> ANTH. <i>9, 668 ; au plur</i>. ANTH. <i>9, 827, etc</i>.<p><b>Étym</b>. Ναΐς ; <i>cf</i>. Νηϊάς.`

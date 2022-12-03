@@ -1,1 +1,0 @@
-lar[25764]=`<b>δια·τρανόω-ῶ</b> <font color="purple">[ᾱν]</font> <font color="darkgreen">(<i>ao. 3 sg</i>. διετράνωσεν)</font> exposer clairement, NICOM. <i>Harm. 7, p. 249, l. 3 Jan, Theol. 47</i> ; JAMBL. <i>V. Pyth. p. 258</i>.`

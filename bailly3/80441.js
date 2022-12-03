@@ -1,1 +1,0 @@
-lar[80441]=`<b>ά, όν</b>, de poix ; ἡ πισσηρή (<i>ion</i>.) HPC. emplâtre de poix.<p><b>Étym</b>. πίσσα.`

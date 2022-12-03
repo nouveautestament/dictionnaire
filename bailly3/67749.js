@@ -1,1 +1,0 @@
-lar[67749]=`<b>ου (ὁ)</b> naulage, AR. <i>Ran. 270</i>.<p>➳ <i>Dans les inscr. att</i>. CIA. <i>2, add. 834, b, 2, 23 (329 av. J.-C.) ; v. Meisterh. p. 101, 21</i>.<p><b>Étym</b>. <i>v</i>. ναῦλον.`

@@ -1,1 +1,0 @@
-lar[79589]=`<b>περι·φιμόω-ῶ</b> <font color="purple">[φῑ]</font> serrer tout autour, fermer, MÉD.`

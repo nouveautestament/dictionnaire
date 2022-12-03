@@ -1,1 +1,0 @@
-lar[4834]=`<b>ἀλλο·φανής, ής, ές</b> <font color="purple">[φᾰ]</font> qui a une autre apparence, NONN. <i>D. 11, 47</i>.<p><b>Étym</b>. ἄ. φαίνω.`

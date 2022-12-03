@@ -1,1 +1,0 @@
-lar[75575]=`<b>παρα·ζώννυμι</b> <font color="purple">[ῡ]</font> suspendre à la ceinture, <i>acc</i>. PLAT. <i>Rsp. 553c ; fig</i>. suspendre comme une ceinture, TH. <i>Sign. 4, 2</i>.<br><b><i>Moy.</i></b> porter suspendu à la ceinture, <i>acc</i>. DH. <i>2, 70</i> ; PLUT. <i>Ant. 79</i>.`

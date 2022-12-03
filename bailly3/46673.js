@@ -1,1 +1,0 @@
-lar[46673]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action d’implorer les dieux, POL. <i>24, 8, 7</i>.<p><b>Étym</b>. θεοκλυτέω.`

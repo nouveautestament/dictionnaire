@@ -1,1 +1,0 @@
-lar[98403]=`<b>ονος (ὁ)</b> terme, limite, ESCHL. <i>fr. 191</i> ; EUR. <i>Hipp. 746 ; au plur</i>. EUR. <i>Hipp. 3, 1053, etc. ; en prose,</i> PLUT. <i>Pyrrh. 12 ; fig</i>. terme, fin, ESCHL. <i>Suppl. 624</i> ; EUR. <i>Ph. 1352</i>.<p><b>Étym</b>. τέρμα.`

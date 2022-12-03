@@ -1,1 +1,0 @@
-lar[21086]=`<b>βωλο·στροφέω-ῶ</b>, retourner les mottes (de terre), biner, GEOP. <i>2, 23</i>.<p><b>Étym</b>. βῶλος, -στροφος <i>de</i> στρέφω.`

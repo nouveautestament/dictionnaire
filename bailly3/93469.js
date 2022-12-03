@@ -1,1 +1,0 @@
-lar[93469]=`<b>ῶν (αἱ)</b> <font color="purple">[ῐν]</font> anfractuosités d’une région montagneuse, PLUT. <i>Pomp. 32, Pyrrh. 28</i>.<p><b>Étym</b>. συγκλίνω.`

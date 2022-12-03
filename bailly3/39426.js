@@ -1,1 +1,0 @@
-lar[39426]=`<b>εως (ἡ)</b> <font color="purple">[τῑ]</font><br><b>      1</b> élévation de prix, renchérissement, APP. <i>Civ. 4, 117</i>.<br><b>      2</b> châtiment, peine, ARSTT. <i>Rhet. 1, 1, 12, etc. ; ou simpl</i>. blâme, reproche, THC. <i>7, 48</i> ; ARSTT. <i>Rhet. 1, 1, 12, etc</i>.<p><b>Étym</b>. ἐπιτιμάω.`

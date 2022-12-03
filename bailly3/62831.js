@@ -1,1 +1,0 @@
-lar[62831]=`<b>ου (ὁ)</b> Mantithéos, <i>h</i>. XÉN. <i>Hell. 1, 1, 6, etc.</i> ; DÉM. <i>39, 28 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. μάντις, θεός.`

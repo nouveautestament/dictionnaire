@@ -1,1 +1,0 @@
-lar[22438]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> vitalité d’un nouveau-né, THEOL. <i>p. 39</i>.<p><b>Étym</b>. γόνιμος.`

@@ -1,1 +1,0 @@
-lar[85756]=`<b>προσ·επιχέω</b> <font color="darkgreen">(<i>ao</i>. -επέχεα, <i>etc</i>.)</font> verser en outre <i>ou</i> encore, DIOSC. <i>2, 90</i> ; ORIB. <i>219 Matthäi</i>.`

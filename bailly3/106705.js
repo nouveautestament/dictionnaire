@@ -1,1 +1,0 @@
-lar[106705]=`<b>φορμο·κοιτέω-ῶ</b>, coucher <i>ou</i> dormir sur une natte, COM. <i>(Bkk. 1, 70).</i><p><b>Étym</b>. φορμός, κοίτη.`

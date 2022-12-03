@@ -1,1 +1,0 @@
-lar[53566]=`<b>ος, ον</b>, tiré en bas, baissé fortement, VITR. <i>10, 10, 6</i>.<p><b>Étym</b>. κατατείνω.`

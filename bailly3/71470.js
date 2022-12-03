@@ -1,1 +1,0 @@
-lar[71470]=`<b>ὁμό·δοξος, ος, ον :<br>      1</b> qui a la même opinion, LUC. <i>Eun. 2</i>.<br><b>      2</b> d’égal renom, NAZ. <i>2, 476c Migne</i>.<p><b>Étym</b>. ὁμ. δόξα.`

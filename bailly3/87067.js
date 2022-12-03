@@ -1,1 +1,0 @@
-lar[87067]=`<b>ου (ὁ)</b> poutre servant à pousser des blocs de pierre sur des assiégeants, EN. TACT. <i>Pol. 32</i>.<p><b>Étym</b>. προωθέω.`

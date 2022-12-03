@@ -1,1 +1,0 @@
-lar[37100]=`<b>εως</b> <font color="purple">[ᾰ]</font> tension renouvelée, surcroît de tension (d’une machine de jet) PHIL. BYZ.<p><b>Étym</b>. ἐπεντείνω.`

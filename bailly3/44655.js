@@ -1,1 +1,0 @@
-lar[44655]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> attelé de 4 chevaux, SOPH. <i>El. 702</i>.<p><b>Étym</b>. <i>vb. de</i> ζυγόω.`

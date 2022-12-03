@@ -1,1 +1,0 @@
-lar[18110]=`<b>ἀ·φιλόπονος, ος, ον</b> <font color="purple">[ῐ]</font> (<i>seul</i>. <i>• Sup</i>. -ότατος) qui n’aime pas la fatigue <i>ou</i> le travail, POL. <i>Exc. p. 402 Mai</i>.`

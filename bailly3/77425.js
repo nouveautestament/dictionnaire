@@ -1,1 +1,0 @@
-lar[77425]=`<b>ης (ἡ)</b> = <i>lat</i>. Paulina, <i>n. de f. rom</i>. ANTH. <i>App. 339</i>.<p><b>Étym</b>. <i>fém. de</i> Παυλῖνος.`

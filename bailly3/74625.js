@@ -1,1 +1,0 @@
-lar[74625]=`<b>παλι·ρρύμη, ης (ἡ)</b> <font color="purple">[ᾰῡ]</font> mouvement en sens inverse, retour, <i>fig</i>. POL. <i>15, 17, 1</i> ; PLUT. <i>Flam. 10</i>.<p><b>Étym</b>. π. ῥέω.`

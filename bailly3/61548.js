@@ -1,1 +1,0 @@
-lar[61548]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de lance, ESCHL. <i>Ag. 405</i>.<p><b>Étym</b>. λόγχη.`

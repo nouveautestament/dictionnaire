@@ -1,1 +1,0 @@
-lar[6598]=`<b>ἀναγκα·θέτησις, εως (ἡ)</b> <font color="purple">[ᾰνκᾰ]</font> action d’imposer une obligation, ŒNOM. (EUS. <i>3, 444 Migne).</i><p><b>Étym</b>. ἀνάγκη, τίθημι ; <i>formé par anal. avec</i> νομοθέτησις.`

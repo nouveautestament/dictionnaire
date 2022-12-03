@@ -1,1 +1,0 @@
-lar[78430]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> bandage autour, HPC. <i>Art. 799</i>.<p><b>Étym</b>. περιβαίνω.`

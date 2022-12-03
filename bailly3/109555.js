@@ -1,1 +1,0 @@
-lar[109555]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> de sable, sablonneux, HH. <i>Merc. 75, 347, 350</i> ; A.RH. <i>4, 1376, etc</i>.<p><b>Étym</b>. ψάμαθος, -ωδης.`

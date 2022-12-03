@@ -1,1 +1,0 @@
-lar[104267]=`<b>ου (ὁ)</b> Hyrôdès, <i>roi des Parthes,</i> PLUT. <i>Crass. 10, 21, etc</i>.`

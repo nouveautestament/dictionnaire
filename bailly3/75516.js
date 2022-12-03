@@ -1,1 +1,0 @@
-lar[75516]=`<b>παρα·διατάττομαι</b>, disposer <i>ou</i> ordonner autrement, HIÉROCL. (STOB. <i>Fl. 39, 16</i>).`

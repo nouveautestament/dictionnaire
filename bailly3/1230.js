@@ -1,1 +1,0 @@
-lar[1230]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. ἐραστής, SPT. <i>Cant. 1, 13, 14, etc</i>.`

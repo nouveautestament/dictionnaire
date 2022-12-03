@@ -1,1 +1,0 @@
-lar[106843]=`<b>οῦ</b> <font color="purple">[ῑτ]</font> transport de folie, délire, PLUT. (STOB. <i>402, 42).</i><p><b>Étym</b>. φρενιτίζω.`

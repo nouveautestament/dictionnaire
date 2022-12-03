@@ -1,1 +1,0 @@
-lar[77980]=`<b>πεντα·κέλευθος, ος, ον</b> <font color="purple">[ᾰ]</font> à cinq routes, ORACL. (PAUS. <i>8, 9, 2</i>).`

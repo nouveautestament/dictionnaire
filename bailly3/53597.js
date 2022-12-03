@@ -1,1 +1,0 @@
-lar[53597]=`<b>κατ·αυγέω-ῶ</b>, briller, éclairer, GÉM. <i>El. astr. 12, 7</i>.<p><b>Étym</b>. κ. αὐγή.`

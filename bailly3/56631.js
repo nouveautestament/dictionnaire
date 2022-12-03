@@ -1,1 +1,0 @@
-lar[56631]=`<b>(ὁ)</b> Kollètès, <i>Indien,</i> NONN. <i>D. 36, 241, 351</i>.`

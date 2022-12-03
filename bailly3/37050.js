@@ -1,1 +1,0 @@
-lar[37050]=`<b>ἐπ·ελαφρύνω</b> <font color="purple">[ᾰῡ]</font> alléger, <i>acc</i>. JOS. <i>A.J. 18, 1, 1</i> ; τινί τι, PLUT. <i>M. 165f</i>, qqn de qqe ch.`

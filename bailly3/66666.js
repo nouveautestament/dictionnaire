@@ -1,1 +1,0 @@
-lar[66666]=`<b>μονο·φαλαγγία, ας (ἡ)</b> <font color="purple">[φᾰ]</font> une seule φάλαγξ, EL. TACT. <i>36, 4</i>.`

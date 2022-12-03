@@ -1,1 +1,0 @@
-lar[85648]=`<b>προσ·επεξεργάζομαι</b>, travailler encore à, mettre la dernière main à, <i>acc</i>. PHIL. <i>2, 203</i> ; PORPH. <i>Isag. 3, 19</i>.`

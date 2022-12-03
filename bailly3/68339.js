@@ -1,1 +1,0 @@
-lar[68339]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Nero, Néron, <i>empereur romain,</i> ANTH. <i>9, 178, 572, etc.</i> ; PLUT. <i>Oth. 18, etc</i>.`

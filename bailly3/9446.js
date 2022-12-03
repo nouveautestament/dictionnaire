@@ -1,1 +1,0 @@
-lar[9446]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font><br><b>      1</b> répercussion, réfraction (de la lumière, PLUT. <i>M. 901d ;</i> du son, PLUT. <i>M. 502d</i>).<br><b>      2</b> <i>t. de gr</i>. répétition d’un mot en un autre sens, QUINT. <i>9, 3, 68</i>.<p><b>Étym</b>. ἀντανακλάω.`

@@ -1,1 +1,0 @@
-lar[6425]=`<b>ἀμφι·φύα, ης (ἡ)</b> nouvelle pousse autour d’un tronc, TH. <i>H.P. 3, 7, 1</i>.<p><b>Étym</b>. ἀ. φύω.`

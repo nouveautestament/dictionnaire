@@ -1,1 +1,0 @@
-lar[103924]=`<b>ὑπο·συγχέω :<br>      1</b> rendre un peu confus ; <i>d’où au pass</i>. être un peu confus <i>ou</i> indistinct, ARSTT. <i>Aud. 28</i> ; LUC. <i>Sol. 10</i>.<br><b>      2</b> <i>fig</i>. confondre, troubler, JOS. <i>A.J. 16, 4, 4</i>.`

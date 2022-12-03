@@ -1,1 +1,0 @@
-lar[102673]=`<b>ὑπερ·νότιος, ος, ον</b>, situé au delà du Sud <i>ou</i> à l’extrême Sud, HDT. <i>4, 36</i> ; STR. <i>62</i>.<p>➳ <i>Fém</i>. -α, <i>ion</i>. -η, DP. <i>151</i>.<p><b>Étym</b>. ὑ. νότος.`

@@ -1,1 +1,0 @@
-lar[7828]=`<b>ἀ·ναυμαχίου ὀφλεῖν</b> <font color="purple">[μᾰ]</font> AND. <i>10, 21,</i> être accusé d’avoir tenu un navire en dehors de l’action.<p><b>Étym</b>. ἀ, ναυμαχία.`

@@ -1,1 +1,0 @@
-lar[54093]=`<b>ου (τὸ)</b> lieu d’habitation, résidence, séjour, SPT. <i>Ex. 12, 20, etc.</i> ; NT. <i>Apoc. 18, 2, etc</i>.<p><b>Étym</b>. κατοικέω.`

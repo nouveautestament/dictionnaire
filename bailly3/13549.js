@@ -1,1 +1,0 @@
-lar[13549]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> allongement, PLUT. <i>M. 670c ;</i> ARÉT. <i>p. 4, 22 ; d’où</i> prolongation (d’un son), ARSTT. <i>H.A. 5, 14, 8</i>.<br><b>      2</b> but où l’on tend, DYSC. <i>Synt. 113, 5 ; Pron. 283b</i>.<p><b>Étym</b>. ἀποτείνω.`

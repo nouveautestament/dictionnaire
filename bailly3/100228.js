@@ -1,1 +1,0 @@
-lar[100228]=`<b>ας (ἡ) :<br>      1</b> commandement d’une trirème, ARSTT. <i>Pol. 6, 8, 15</i>.<br><b>      2</b> <i>à Athènes,</i> obligation d’équiper une trirème à ses frais (<i>v</i>. λειτουργία) LYS. <i>908, 5</i> ; XÉN. <i>Ath. 1, 13 ; Œc. 2, 6, etc</i>.<p><b>Étym</b>. τριήραρχος.`

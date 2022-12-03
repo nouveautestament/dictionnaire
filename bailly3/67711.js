@@ -1,1 +1,0 @@
-lar[67711]=`<b>ναυαγιο·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui cause (<i>litt</i>. qui apporte) des naufrages, CHRYS. <i>7, 327</i>.<p><b>Étym</b>. ναυάγιον, φέρω.`

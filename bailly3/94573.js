@@ -1,1 +1,0 @@
-lar[94573]=`<b>συν·αδοξέω-ῶ</b> <font color="purple">[ᾰ]</font> être également déshonoré, PLUT. <i>M. 96a</i>.`

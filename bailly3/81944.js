@@ -1,1 +1,0 @@
-lar[81944]=`<b>πολύ·θυτος, ος, ον</b> <font color="purple">[ῠῠ]</font><br><b>      1</b> accompagné <i>ou</i> qui se compose de nombreux sacrifices, PD. <i>P. 5, 102, etc.</i> ; SOPH. <i>Tr. 756</i> ; EUR. <i>Her. 777</i>.<br><b>      2</b> où l’on offre de nombreux sacrifices, EUR. <i>I.A. 185</i>.<p><b>Étym</b>. π. θύω.`

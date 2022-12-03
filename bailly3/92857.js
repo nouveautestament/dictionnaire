@@ -1,1 +1,0 @@
-lar[92857]=`<b>στρατο·λογέω-ῶ</b> <font color="purple">[ᾰ]</font> enrôler des soldats, DH. <i>11, 24 ; au pass</i>. DS. <i>12, 67</i> ; PLUT. <i>Cæs. 35</i>.<p><b>Étym</b>. στρ. -λογος <i>de</i> λέγω.`

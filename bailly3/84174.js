@@ -1,1 +1,0 @@
-lar[84174]=`<b>προ·εξαγγέλλω</b>, annoncer <i>ou</i> divulguer d’avance, DÉM. <i>419, 15</i> ; ARR. <i>An. 6, 4, 8</i>.`

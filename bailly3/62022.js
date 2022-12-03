@@ -1,1 +1,0 @@
-lar[62022]=`<b>λυσί·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῡῐχ]</font> aux cheveux flottants, épars, GEOP. <i>12, 8, 5</i>.<p><b>Étym</b>. λ. θρίξ.`

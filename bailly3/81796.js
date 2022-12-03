@@ -1,1 +1,0 @@
-lar[81796]=`<b>πολύ·γναμπτος, ος, ον :<br>      1</b> qui a beaucoup de sinuosités, aux détours nombreux, PD. <i>O. 3, 49</i> ; ANTH. <i>9, 191</i>.<br><b>      2</b> recourbé, frisé, <i>en parl. de certains feuillages,</i> THCR. <i>Idyl. 7, 68</i>.<p><b>Étym</b>. π. γνάμπτω.`

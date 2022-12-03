@@ -1,1 +1,0 @@
-lar[25735]=`<b>δια·τιμάω-ῶ</b> <font color="purple">[τῑ]</font> (<i>seul. pf. pass. 3 sg</i>. διατετίμηται) juger, décider, ESCHL. <i>Sept. 1047</i>.<br><b><i>Moy.</i></b> évaluer en détail <i>ou</i> contradictoirement, <i>d’où</i> évaluer, estimer, <i>acc</i>. DS. <i>4, 21 ; 16, 29</i> ; JOS. <i>A.J. 13, 9, 2</i>.`

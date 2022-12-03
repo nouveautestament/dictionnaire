@@ -1,1 +1,0 @@
-lar[64381]=`<b>ατος (τὸ)</b> soin, souci, inquiétude, PD. <i>fr. 277, 278 Bgk</i> ; SOPH. <i>Ph. 187</i>.<p>➳ <i>Dor</i>. μερίμναμα <font color="purple">[νᾱ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. μεριμνάω.`

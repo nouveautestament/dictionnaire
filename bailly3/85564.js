@@ -1,1 +1,0 @@
-lar[85564]=`<i>vb. de</i> προσεμβρέχω SOR. <i>Obst. 220 Dietz</i>.`

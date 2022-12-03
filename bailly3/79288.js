@@ -1,1 +1,0 @@
-lar[79288]=`<b>περι·σοβέω-ῶ :<br>      1 <i>tr.</i></b> agiter tout autour, <i>d’où</i> faire circuler, <i>acc</i>. HIPPOLOCH. (ATH. <i>130c</i>) ; <i>au pass</i>. circuler, LUC. <i>Conv. 15</i> ; ALCIPHR. <i>1, 22, etc.</i><br><b>      2 <i>intr.</i></b> circuler, MÉN. <i>4, 136 Meineke ; avec l’acc</i>. circuler autour de <i>ou</i> à travers, parcourir, AR. <i>Av. 1425</i>.`

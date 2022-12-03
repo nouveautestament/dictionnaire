@@ -1,1 +1,0 @@
-lar[46607]=`<b>θεο·γαμία, ας (ἡ)</b> <font color="purple">[γᾰ]</font> mariage des dieux, PHIL. <i>2, 205</i>.<p><b>Étym</b>. θ. γάμος.`

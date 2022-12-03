@@ -1,1 +1,0 @@
-lar[14851]=`<b>ατος (τὸ) :<br>      1</b> nourriture, <i>litt</i>. ce qu’on prend, HPC.<br><b>      2</b> charge, fardeau, AQU. <i>Deut. 1, 12 ; Esaï. 21, 13</i>.<p><b>Étym</b>. αἴρω.`

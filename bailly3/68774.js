@@ -1,1 +1,0 @@
-lar[68774]=`<b>Νικομάχειος, ος, ον</b> <font color="purple">[ῑᾰ]</font> de Nikomakhos, ARSTT. <i>Nic. titre</i>.<p><b>Étym</b>. Νικόμαχος.`

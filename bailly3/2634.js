@@ -1,1 +1,0 @@
-lar[2634]=`<b>ος, ον</b>, d’un rouge sang, ATH. <i>76b</i>.<p><b>Étym</b>. αἵμων².`

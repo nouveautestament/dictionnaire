@@ -1,1 +1,0 @@
-lar[94478]=`<b>συμ·φυλάσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[φῠ]</font> veiller ensemble sur, garder ensemble, HDT. <i>7, 172</i> ; XÉN. <i>Mem. 2, 8, 3</i> ; PLAT. <i>Rsp. 451d</i>.`

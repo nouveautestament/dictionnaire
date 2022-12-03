@@ -1,1 +1,0 @@
-lar[99369]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. τιτθίον AR. (POLL. <i>7, 66</i>).`

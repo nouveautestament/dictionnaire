@@ -1,1 +1,0 @@
-lar[60673]=`<b>ου (τὸ)</b> Lékhæon (<i>auj</i>. Lécheo) <i>port de Corinthe,</i> XÉN. <i>Ages. 2, 17, etc.</i> ; PLAT. <i>Menex. 245e, etc</i>.`

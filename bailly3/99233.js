@@ -1,1 +1,0 @@
-lar[99233]=`<b>ου</b>, <i>ion</i>. <b>εω (ὁ)</b> Timnès, <i>Scythe,</i> HDT. <i>4, 76</i>.`

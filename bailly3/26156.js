@@ -1,1 +1,0 @@
-lar[26156]=`<b>δι·εκτρέχω</b>, traverser en courant <i>ou</i> dans sa course, PHIL. BYZ. <i>Bel. 77</i>.`

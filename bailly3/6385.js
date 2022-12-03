@@ -1,1 +1,0 @@
-lar[6385]=`<b>ἀμφι·τάλαντος, ος, ον</b> <font color="purple">[τᾰ]</font> qui balance de côté et d’autre, NAZ. <i>Ep. 4, 6, etc</i>.<p><b>Étym</b>. ἀ. τάλαντον.`

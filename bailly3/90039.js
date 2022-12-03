@@ -1,1 +1,0 @@
-lar[90039]=`<b>ας (ἡ)</b> Sthénébœa, <i>f</i>. LUC. <i>Salt. 42 ; au pl</i>. AR. <i>Ran. 1043</i>.<p>➳ <i>Gén. ion</i>. Σθενεβοίης, LUC. <i>Syr. 23</i>.<p><b>Étym</b>. σθένος, βοῦς.`

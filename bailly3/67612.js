@@ -1,1 +1,0 @@
-lar[67612]=`<b>ου (ἡ)</b> Nannarion, <i>f</i>. MÉN. (ATH. <i>587d</i>).<p><b>Étym</b>. <i>dim. de</i> Νάννιον.`

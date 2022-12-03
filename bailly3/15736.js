@@ -1,1 +1,0 @@
-lar[15736]=`<b>ἀ·σαρκής, ής, ές</b>, non charnel, immatériel, ANTH. <i>8, 142</i>.<p><b>Étym</b>. <i>cf</i>. ἄσαρκος.`

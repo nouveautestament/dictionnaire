@@ -1,1 +1,0 @@
-lar[78391]=`<b>περι·ανθίζω</b>, orner de fleurs tout autour, <i>d’où</i> orner, parer, NYSS.`

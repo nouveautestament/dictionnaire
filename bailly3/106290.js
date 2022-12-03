@@ -1,1 +1,0 @@
-lar[106290]=`<b>οῦ (ὁ) :<br>      1</b> souche, tronc, ARSTT. <i>Plant. 1, 43 ; d’où</i> pièce de bois, IL. <i>12, 29 ; 21, 314 ; 23, 123</i> ; OD. <i>12, 11</i> ; A.RH. <i>1, 405</i> ; ORPH. <i>Arg. 950, 961, etc.</i><br><b>      2</b> tison, torche, LYC. <i>913</i>.<p><b>Étym</b>. φῖτυ.`

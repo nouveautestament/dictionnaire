@@ -1,1 +1,0 @@
-lar[91859]=`<b>σπερμολογέω-ῶ :<br>      1</b> ramasser <i>ou</i> picorer des grains, HPC. <i>357, 40</i> ; PLUT. <i>M. 473a.</i><br><b>      2</b> faire le bouffon (<i>v</i>. σπερμολόγος) PHILSTR. <i>203</i>.<p><b>Étym</b>. σπερμολόγος.`

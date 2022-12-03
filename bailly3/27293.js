@@ -1,1 +1,0 @@
-lar[27293]=`<b>ης (ἡ)</b> Diônassa, <i>f</i>. PLUT. <i>Lyc. 1</i>.<p>➳ <i>Poét</i>. Διάνασσα, LYC. <i>2</i>.`

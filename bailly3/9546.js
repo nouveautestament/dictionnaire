@@ -1,1 +1,0 @@
-lar[9546]=`<b>ἀντ·εγχειρίζω</b> <font color="darkgreen">(<i>ao</i>. ἀντενεχείρισα)</font> intenter à son tour, DC. <i>60, 24</i>.`

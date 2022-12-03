@@ -1,1 +1,0 @@
-lar[35696]=`<b>εως (ἡ) :<br>      1</b> action d’éveiller, POL. <i>9, 15, 4</i>.<br><b>      2</b> action de réveiller, d’exciter, DH. <i>3, 70</i> ; PLUT. <i>M. 909c</i>.<p><b>Étym</b>. ἐξεγείρω.`

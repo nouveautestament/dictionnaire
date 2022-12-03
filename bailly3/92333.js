@@ -1,1 +1,0 @@
-lar[92333]=`<b>ίδος (ἡ)</b> loranthe, <i>sorte de gui,</i> TH. <i>C.P. 2, 17, 1</i>.`

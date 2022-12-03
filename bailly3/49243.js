@@ -1,1 +1,0 @@
-lar[49243]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font><br><b>   I</b> équitation, <i>d’où</i> :<br><b>      1</b> manœuvre de cavalerie, AR. <i>Ach. 1165</i> ; XÉN. <i>Eq. 8, 9</i>.<br><b>      2</b> action de conduire des chevaux <i>ou</i> une voiture, LUC. <i>D. deor. 12, 1</i>.<br><b>   II</b> corps de cavalerie ; ARR. <i>An. 4, 4</i>.<p><b>Étym</b>. ἱππάζομαι.`

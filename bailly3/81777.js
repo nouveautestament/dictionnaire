@@ -1,1 +1,0 @@
-lar[81777]=`<b>Πολυ·βώτης</b>, <i>dor</i>. <b>Πολυ·βώτας, α (ὁ)</b> <font color="purple">[ῠ]</font> Polybôtès, <i>h</i>. THCR. <i>Idyl. 10, 15, etc</i>.<p><b>Étym</b>. π. βόσκω.`

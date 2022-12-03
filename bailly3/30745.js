@@ -1,1 +1,0 @@
-lar[30745]=`<b>εἰσ·ελκύω</b> (<i>part. ao</i>. εἰσελκύσας) <font color="purple">[ῠ]</font> <i>c</i>. εἰσέλκω AR. <i>Ach. 378</i>.<p>➳ <i>Ao. ion</i>. ἐσείλκυσα, HDT. <i>2, 175</i>.`

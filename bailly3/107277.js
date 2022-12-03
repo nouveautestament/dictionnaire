@@ -1,1 +1,0 @@
-lar[107277]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> habitude changée en une seconde nature, HIPPARQ. (STOB. <i>Fl. 108, 81 fin).</i><p><b>Étym</b>. φυσιόω¹.`

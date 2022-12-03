@@ -1,1 +1,0 @@
-lar[78043]=`<b>πεντα·στάτηρος, ος, ον</b> <font color="purple">[ᾰτ]</font> qui pèse <i>ou</i> vaut cinq statères, SOSICR. COM. (POLL. <i>4, 173).</i><p><b>Étym</b>. π. στατήρ.`

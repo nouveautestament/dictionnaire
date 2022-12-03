@@ -1,1 +1,0 @@
-lar[84724]=`<b>προ·μηθεύς</b>, <i>dor</i>. <b>προ·μαθεύς, έως (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> prévoyant, prudent, ESCHL. <i>Suppl. 700</i>.<p><b>Étym</b>. π. μανθάνω.`

@@ -1,1 +1,0 @@
-lar[95200]=`<b>συν·διορίζω</b>, délimiter <i>ou</i> distinguer en même temps <i>ou</i> également, STR. <i>96</i>.`

@@ -1,1 +1,0 @@
-lar[6009]=`<b>ἀμφ·ελυτρόω-ῶ</b>, envelopper comme d’un fourreau, LYC. <i>75</i>.<p><b>Étym</b>. ἀ. ἔλυτρον.`

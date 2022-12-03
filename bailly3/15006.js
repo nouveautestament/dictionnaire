@@ -1,1 +1,0 @@
-lar[15006]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui préside au labour (Phœbus) ORPH. <i>H. 33, 3</i>.`

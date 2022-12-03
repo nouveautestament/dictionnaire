@@ -1,1 +1,0 @@
-lar[100922]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne les Troglodytes : ἡ Τρωγλοδυτική (<i>s.-e</i>. γῆ) le pays des Troglodytes, <i>en Éthiopie,</i> DS. <i>3, 34</i> ; STR. <i>768, etc.</i> ; PLUT. <i>Def. or. 2 ; ou (s.-e</i>. σμύρνα) DIOSC. <i>1, 78,</i> myrrhe d’Éthiopie, <i>parfum</i>.<p><b>Étym</b>. Τρωγλοδύτης.`

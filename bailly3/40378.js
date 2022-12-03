@@ -1,1 +1,0 @@
-lar[40378]=`<b>εως (ἡ)</b> dépopulation, dévastation, ARR. <i>An. 1, 9, 13 ; d’où en gén</i>. désolation, SPT. <i>Lev. 26, 34 ; 2Par. 30, 7 ; Jer. 4, 7 ; 7, 34 ; Dan. 3, 13</i> ; NT. <i>Matth. 24, 15 ; Marc. 13, 14 ; Luc. 21, 20 ; au plur</i>. SPT. <i>Dan. 9, 27</i>.<p><b>Étym</b>. ἐρημόω.`

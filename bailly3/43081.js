@@ -1,1 +1,0 @@
-lar[43081]=`<b>εὐ·πόρφυρος, ος, ον</b> <font color="purple">[ῠ]</font> d’une belle pourpre, SPT. <i>Ezech. 23, 12 var</i>.<p><b>Étym</b>. εὖ, πορφύρα.`

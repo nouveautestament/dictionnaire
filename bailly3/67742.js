@@ -1,1 +1,0 @@
-lar[67742]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne une victoire navale, DC. <i>51, 21</i>.<p><b>Étym</b>. ναυκρατέω.`

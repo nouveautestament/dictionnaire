@@ -1,1 +1,0 @@
-lar[3664]=`<b>ἀκρατοποτέω-ῶ</b> <font color="purple">[ᾱτ]</font> boire du vin pur, ARSTT. <i>Probl. 3, 5</i>.<p><b>Étym</b>. ἀκρατοπότης.`

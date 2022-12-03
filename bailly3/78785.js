@@ -1,1 +1,0 @@
-lar[78785]=`<b>περι·κλονέω-ῶ</b>, combattre tout autour contre, <i>dat</i>. Q. SM. <i>2, 649</i>.`

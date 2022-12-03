@@ -1,1 +1,0 @@
-lar[44053]=`<b>ἐφ·ησυχάζω</b> <font color="purple">[ῠ]</font><br><b>      1</b> se reposer sur, <i>dat</i>. HLD. <i>6, 7</i>.<br><b>      2</b> être tranquille, ARÉT. <i>Cur. m. diut. 1, 8</i>.<p><b>Étym</b>. ἐπί, ἡσ.`

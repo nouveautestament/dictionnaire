@@ -1,1 +1,0 @@
-lar[88888]=`<font color="purple">[ῠᾰ]</font> être sale, sordide, NT. <i>Apoc. 22, 11 var</i>.<p><b>Étym</b>. ῥυπαρός.`

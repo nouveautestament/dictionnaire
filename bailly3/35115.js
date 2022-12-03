@@ -1,1 +1,0 @@
-lar[35115]=`<b>ων (τὰ)</b> intestins, entrailles, T. LOCR. <i>100b ;</i> ARSTT. <i>P.A. 4, 9, 7</i> ; LUC. <i>Nav. 27, etc</i>.<p><b>Étym</b>. ἔντοσθε.`

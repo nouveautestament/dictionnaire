@@ -1,1 +1,0 @@
-lar[58169]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> ψύλλιον, DIOSC. <i>4, 70</i>.<p><b>Étym</b>. κρύσταλλος.`

@@ -1,1 +1,0 @@
-lar[62577]=`<b>μακρο·φλυαρήτης, ου (ὁ)</b> <font color="purple">[ᾱρ]</font> bavard intarissable, ANTH. <i>11, 134</i>.<p><b>Étym</b>. μ. φλυαρέω.`

@@ -1,1 +1,0 @@
-lar[11877]=`<b>ἀπ·εωρίζω</b> (<i>part. pf. pass</i>. ἀπεωρισμένος) repousser, NYSS. <i>1, 17</i>.`

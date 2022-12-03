@@ -1,1 +1,0 @@
-lar[14468]=`<b>ἀρετάω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> prospérer, être heureux, OD. <i>8, 329 ; 19, 114</i>.`

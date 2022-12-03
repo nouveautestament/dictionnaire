@@ -1,1 +1,0 @@
-lar[61660]=`<b>οῦ (ὁ)</b> Lucien, <i>écrivain grec</i>.<p>➳ <i>Par nécess. métr</i>. <font color="purple">[ᾰ]</font> ANTH. <i>App. 49, 1</i>.`

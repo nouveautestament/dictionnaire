@@ -1,1 +1,0 @@
-lar[55895]=`<b>Κλεό·δικος</b>, <i>ion</i>. <b>Κλεύ·δικος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Kléodikos, <i>h</i>. ANTH. <i>7, 482</i>.<p><b>Étym</b>. κλ. δίκη.`

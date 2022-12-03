@@ -1,1 +1,0 @@
-lar[108206]=`<b>α, ον</b>, de Chiron : πάνακες Χειρώνειον, TH. <i>H.P. 9, 11, 1</i> ; DIOSC. <i>3, 56,</i> la panacée de Chiron, <i>càd</i>. la gentiane ; Χειρώνειον ἕλκος, A. APHR. <i>Probl. 1, 92</i> ; ZÉNOB. <i>6, 46,</i> ulcère de Chiron, <i>sorte d’ulcère malin</i>.<p><b>Étym</b>. Χείρων.`

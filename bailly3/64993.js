@@ -1,1 +1,0 @@
-lar[64993]=`<b>μετα·σφαιρισμός, οῦ (ὁ)</b> action de renvoyer une balle, ANTYLL. (ORIB. <i>p. 123 Matthäi).</i><p><b>Étym</b>. μ. σφαιρίζω.`

@@ -1,1 +1,0 @@
-lar[78040]=`<b>πεντα·σπίθαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> long <i>ou</i> large de cinq empans, XÉN. <i>Cyn. 2, 4 et 7</i> ; STR. <i>711</i>.<p><b>Étym</b>. π. σπιθαμή.`

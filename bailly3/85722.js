@@ -1,1 +1,0 @@
-lar[85722]=`<b>προσ·επισκώπτω</b>, railler en outre <i>ou</i> encore davantage, PLUT. <i>Ages. 15</i> ; DC. <i>47, 8</i>.`

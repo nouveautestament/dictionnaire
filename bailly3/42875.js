@@ -1,1 +1,0 @@
-lar[42875]=`<b>εὐ·όριστος, ος, ον :<br>      1</b> facile à limiter, à définir, ARSTT. <i>Meteor. 2, 4, 6</i>.<br><b>      2</b> borné, restreint, ARSTT. <i>Meteor. 4, 1, 2</i>.<p><b>Étym</b>. εὖ, ὁρίζω.`

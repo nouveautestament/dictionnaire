@@ -1,1 +1,0 @@
-lar[61787]=`<b>ου (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> toute tige <i>ou</i> baguette flexible, <i>particul</i>. osier <i>ou</i> gatilier (<i>Vitex agnus castus</i> L.) OD. <i>9, 427</i> ; HH. <i>6, 13</i>.<br><b>      2</b> couronne d’osier, NICÆN. (ATH. <i>673b</i>).<br><b>      3</b> <i>p.-ê. adj</i>. souple comme l’osier, flexible, IL. <i>11, 105</i>.`

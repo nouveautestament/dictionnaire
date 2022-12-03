@@ -1,1 +1,0 @@
-lar[77690]=`<b>Πεισι·νόη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Peisinoè, <i>f</i>. NONN. <i>D. 4, 72, etc</i>.<p><b>Étym</b>. π. νόος.`

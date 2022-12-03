@@ -1,1 +1,0 @@
-lar[76907]=`<b>ας (ἡ)</b> Parthénopeia, <i>anc. n. de Neapolis,</i> ANTH. <i>14, 118, 120</i>.<p>➳ <i>Ion</i>. -είη, ANTH. <i>4, 118</i>.`

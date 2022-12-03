@@ -1,1 +1,0 @@
-lar[34565]=`<b>ου (τὸ)</b> gâteau imbibé de vin, DÉM. <i>314, 1</i>.<p><b>Étym</b>. ἐνθρύπτω.`

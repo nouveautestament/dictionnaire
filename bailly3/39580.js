@@ -1,1 +1,0 @@
-lar[39580]=`<b>ἐπι·φλεβοτομέω-ῶ</b>, pratiquer en outre l’incision des veines, ANTYLL. (ORIB. <i>2, 41, 7 B.-Dar</i>.).`

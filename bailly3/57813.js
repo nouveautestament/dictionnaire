@@ -1,1 +1,0 @@
-lar[57813]=`<b>κρημνοβατέω-ῶ</b> <font color="purple">[ᾰ]</font> gravir des lieux escarpés, STR. <i>710</i> ; LGS <i>2, 28</i>.<p><b>Étym</b>. κρημνοβάτης.`

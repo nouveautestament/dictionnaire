@@ -1,1 +1,0 @@
-lar[13296]=`<b>ἀπο·σιτίζομαι</b> <font color="purple">[σῑ]</font> se procurer des vivres, ARISTÉN. <i>1, 3</i>.`

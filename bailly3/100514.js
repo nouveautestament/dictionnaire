@@ -1,1 +1,0 @@
-lar[100514]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., en trois syllabes, DYSC. <i>Pron. p. 360</i>.<p><b>Étym</b>. τρισύλλαβος.`

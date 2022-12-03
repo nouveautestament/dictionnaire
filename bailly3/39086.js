@@ -1,1 +1,0 @@
-lar[39086]=`<b>ατος (τὸ)</b> ordre, dépêche, commission, TH. <i>Char. 6</i>.<p><b>Étym</b>. ἐπιστέλλω.`

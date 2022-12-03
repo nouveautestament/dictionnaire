@@ -1,1 +1,0 @@
-lar[87571]=`<i>adv</i>., de fond en comble, <i>litt</i>. depuis la racine, HPC. <i>Acut. 390</i>.<p><b>Étym</b>. πυθμήν, -θεν.`

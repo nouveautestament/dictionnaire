@@ -1,1 +1,0 @@
-lar[83903]=`<b>προ·διαβεβαιόω-ῶ</b>, confirmer auparavant, NICOM. <i>Arithm. 1, p. 70</i>.`

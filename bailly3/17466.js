@@ -1,1 +1,0 @@
-lar[17466]=`<b>αὐτο·έλικτος, ος, ον :<br>      1</b> qui s’enroule <i>ou</i> se boucle de soi-même, <i>en parl. de cheveux,</i> CHRIST. <i>Ecphr. 269</i>.<br><b>      2</b> qui s’enroule, se replie <i>ou</i> revient sur soi-même, <i>en parl. d’un cercle,</i> NONN. <i>D. 33, 272, etc</i>.<p><b>Étym</b>. αὐ. ἐλίσσω.`

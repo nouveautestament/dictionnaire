@@ -1,1 +1,0 @@
-lar[71047]=`<b>ὀλιγό·ρριζος, ος, ον</b> <font color="purple">[ῐγ]</font> qui n’a que peu de racines, TH. <i>H.P. 1, 6, 3</i> ; GEOP. <i>4, 1, 12</i>.<p><b>Étym</b>. ὀλ. ῥίζα.`

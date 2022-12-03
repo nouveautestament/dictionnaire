@@ -1,1 +1,0 @@
-lar[72726]=`<b>ὀρθο·μαντεία, ας (ἡ)</b> divination <i>ou</i> prédiction juste, ESCHL. <i>Ag. 1215</i>.<p><b>Étym</b>. ὀ. μαντεία.`

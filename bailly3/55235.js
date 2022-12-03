@@ -1,1 +1,0 @@
-lar[55235]=`<b>(ὁ)</b> Kèpis, <i>h</i>. PLAT. <i>Prot. 315e</i>.`

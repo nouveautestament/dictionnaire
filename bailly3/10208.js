@@ -1,1 +1,0 @@
-lar[10208]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> moyens d’attaque dans une discussion, SEXT. <i>M. 7, 150</i>.<p><b>Étym</b>. ἀντιπαρεξάγω.`

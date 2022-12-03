@@ -1,1 +1,0 @@
-lar[106374]=`<b>ιδος (ἡ)</b> sorte d’oiseau inconnu à plumes rouges, AR. <i>Av. 884</i>.`

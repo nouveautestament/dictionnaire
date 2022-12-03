@@ -1,1 +1,0 @@
-lar[96875]=`<b>έως (ὁ)</b> muge, <i>poisson de mer,</i> EUTHYD. (ATH. <i>307b</i>).<p><b>Étym</b>. σφήν.`

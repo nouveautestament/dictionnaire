@@ -1,1 +1,0 @@
-lar[83370]=`<b>ῶνος (ὁ)</b> jabot des oiseaux, AR. <i>Eq</i>. 374, <i>Av</i>. 1113.<p><b>Étym</b>. πρό, ἀγείρω.`

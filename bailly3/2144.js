@@ -1,1 +1,0 @@
-lar[2144]=`<b>ω (ὁ)</b> <font color="purple">[ᾰ]</font> Athôs, <i>mt de Chalcidigue,</i> HDT. THC. <i>etc</i>.<p>➳ <i>Voc</i>. Ἄθω, PLUT. <i>M. 455d ; acc</i>. Ἄθω, PLAT. <i>Leg. 699a, etc. ; acc. ion. et att</i>. Ἄθων, HDT. <i>6, 44</i> ; THC. <i>5, 3, etc</i>. NONN. <i>épq. et ion</i>. Ἀθόως, HH. <i>Ap. 33 ; gén</i>. Ἀθόω, IL. <i>14, 229</i>.`

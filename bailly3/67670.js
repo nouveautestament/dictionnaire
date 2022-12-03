@@ -1,1 +1,0 @@
-lar[67670]=`<b>εως (ἡ)</b> action d’engourdir, engourdissement, GAL.<p><b>Étym</b>. ναρκάω.`

@@ -1,1 +1,0 @@
-lar[84337]=`<b>προ·θέλυμνος, ος, ον :<br>      1</b> arraché jusqu’au fondement, extirpé jusqu’à la racine, <i>en parl. d’arbres,</i> IL. <i>9, 541</i> ; AR. <i>Eq. 528, etc. ; de cheveux,</i> IL. <i>10, 15 ; fig. en parl. de pers</i>. AR. <i>Pax 1210, etc.</i><br><b>      2</b> solidement fixé, solide, IL. <i>13, 130</i>.<p><b>Étym</b>. π. θέλυμνον.`

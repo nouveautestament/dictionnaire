@@ -1,1 +1,0 @@
-lar[61861]=`<b>*λύκη, ης (ἡ)</b> <font color="purple">[ῠ]</font> lumière, MACR. <i>Sat. 1, 17, mot supposé d’après les composés</i> ἀμφιλύκη, λυκηγενής, λυκόφως, <i>etc. ; cf</i>. λεύσσω <i>et lat</i>. luceō, lūx, lūna, <i>etc</i>.<p><b>Étym</b>. <i>cf</i>. λύχνος.`

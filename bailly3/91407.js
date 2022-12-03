@@ -1,1 +1,0 @@
-lar[91407]=`<b>ου (τὸ)</b> obstacle, empêchement, SPT. <i>Ex. 10, 7 ; cf</i>. σκῶλος.`

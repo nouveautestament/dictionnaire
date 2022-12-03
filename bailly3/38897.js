@@ -1,1 +1,0 @@
-lar[38897]=`<b>ἐπί·ρρινον, ου (τὸ)</b> <font color="purple">[ρῑ]</font> anneau pour le nez, <i>ornement,</i> SYMM. <i>Job 42, 11</i>.<p><b>Étym</b>. <i>cf</i>. ἐπίρρινος.`

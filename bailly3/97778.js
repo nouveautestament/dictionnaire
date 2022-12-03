@@ -1,1 +1,0 @@
-lar[97778]=`<b>ταυρο·δέτις, ιδος</b> <font color="purple">[ῐδ]</font> qui lie un taureau, ANTH. <i>6, 41</i>.<p><b>Étym</b>. τ. δέω.`

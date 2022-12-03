@@ -1,1 +1,0 @@
-lar[103067]=`<b>ὑπό·γεισος, ος, ον</b>, qui est sous la saillie du toit ; <i>subst</i>. ἡ ὑπ. PLIN. <i>H.N. 25, 102,</i> joubarbe, <i>plante qui pousse dans les interstices des toits</i>.<p><b>Étym</b>. ὑ. γεῖσον.`

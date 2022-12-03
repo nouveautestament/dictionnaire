@@ -1,1 +1,0 @@
-lar[22728]=`<b>ος, ον</b>, qui comprime les membres, LYC. <i>1076</i>.<p><b>Étym</b>. γ. ἔχω.`

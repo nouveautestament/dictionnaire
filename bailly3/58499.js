@@ -1,1 +1,0 @@
-lar[58499]=`<b>άδος (ἡ)</b> <font color="purple">[ῠᾰδ]</font> <i>c</i>. Κυθέρεια, ANTH. <i>6, 206</i>.`

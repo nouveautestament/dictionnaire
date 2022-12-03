@@ -1,1 +1,0 @@
-lar[61856]=`<b>λυκέη-ῆ, έης-ῆς (ἡ)</b> <font color="purple">[ῠ]</font> <i>s.-e</i>. δορά, IL. <i>10, 459 ; p. contr</i>. λυκῆ, APP. <i>Iber. 48,</i> peau de loup.<p><b>Étym</b>. λύκος.`

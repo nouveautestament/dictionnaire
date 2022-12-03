@@ -1,1 +1,0 @@
-lar[24244]=`<b>δημο·θοινία, ας (ἡ)</b> banquet populaire <i>ou</i> public, ARSTT. (STOB. <i>Ecl. 1, 82</i>) ; LUC. <i>Dem. enc. 16</i> ; ALCIPHR. <i>1, 5</i>.<p><b>Étym</b>. δ. θοίνη.`

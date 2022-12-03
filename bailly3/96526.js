@@ -1,1 +1,0 @@
-lar[96526]=`<b>ου (ὁ)</b> habitant de Syros <i>ou</i> Syra, ARSTT. <i>H.A. 5, 31</i> ; ANTH. <i>2, 351, etc.</i> ; DL. <i>1, 116</i>.<p><b>Étym</b>. Σύρος <i>et</i> Σύρα.`

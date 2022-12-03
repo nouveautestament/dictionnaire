@@ -1,1 +1,0 @@
-lar[105763]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour de la gloire, recherche de la renommée, POL. <i>3, 104, 1 ; 26, 2, 8 ; au pl</i>. PLUT. <i>M. 1050d</i>.<p><b>Étym</b>. φιλόδοξος.`

@@ -1,1 +1,0 @@
-lar[75802]=`<b>παρα·κρίνω :<br>      1</b> ranger à côté l’un de l’autre, mettre en ligne, aligner, <i>au pass</i>. HDT. <i>8, 70 ; 9, 98</i> ; PLUT. <i>Cato mi. 13</i>.<br><b>      2</b> mettre en parallèle, comparer, HSCH. <i>v°</i> παραβραβεύων.`

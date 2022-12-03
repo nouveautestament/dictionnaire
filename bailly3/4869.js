@@ -1,1 +1,0 @@
-lar[4869]=`<b>ων (τὰ)</b> poissons conservés dans le sel, salaisons, MÉN. (ATH. <i>132b</i>).<p><b>Étym</b>. ἅλμη.`

@@ -1,1 +1,0 @@
-lar[38921]=`<b>ἐπι·ρρωγο·λογέομαι-οῦμαι</b>, grappiller après la vendange, JOS. <i>Macc. 3</i>.<p><b>Étym</b>. ἐπί, ῥώξ, λέγω, <i>cf</i>. ἐπικαρπολογέομαι.`

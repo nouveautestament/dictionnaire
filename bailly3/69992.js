@@ -1,1 +1,0 @@
-lar[69992]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρ]</font> <i>c</i>. ὀαρισμός OPP. <i>C. 4, 23</i>.`

@@ -1,1 +1,0 @@
-lar[74897]=`<b>παν·άφυλλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> entièrement dépouillé de feuilles, HH. <i>Cer. 452</i>.<p><b>Étym</b>. π. ἄφυλλος.`

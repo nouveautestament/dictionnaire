@@ -1,1 +1,0 @@
-lar[38030]=`<b>ἐπι·κιναίδισμα, ατος (τὸ)</b> <font color="purple">[κῐ]</font> action <i>ou</i> propos de débauché, CLÉM. <i>270</i>.<p><b>Étym</b>. ἐπί, κιναιδίζω.`

@@ -1,1 +1,0 @@
-lar[94133]=`<b>συμ·πάροικος, ος, ον</b>, qui habite ensemble auprès, EUP. (POLL. <i>6, 159 ; 9, 37</i>).`

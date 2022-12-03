@@ -1,1 +1,0 @@
-lar[44414]=`<b>ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. de Zarèx, <i>v. de Laconie</i>, LYC. <i>580</i>.`

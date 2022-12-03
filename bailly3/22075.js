@@ -1,1 +1,0 @@
-lar[22075]=`<b>εως (ἡ)</b> atteinte de glaucome, HPC. <i>Aph. 1248</i> h (<i>plur. ion</i>. γλαυκώσιες) ; GAL. <i>4, 537</i>.<p><b>Étym</b>. γλαυκόω ; <i>cf</i>. γλαύκωμα.`

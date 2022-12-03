@@ -1,1 +1,0 @@
-lar[64278]=`<b>μεμψί·μοιρος, ος, ον</b> <font color="purple">[ῐ]</font> qui se plaint de son sort, ISOCR. <i>234c ;</i> LUC. <i>Tim. 13, etc</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>H.A. 9, 1, 7</i>.<p><b>Étym</b>. μέμφομαι, μοῖρα.`

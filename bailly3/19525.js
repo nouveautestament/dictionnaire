@@ -1,1 +1,0 @@
-lar[19525]=`<font color="darkgreen">(<i>f</i>. ιῶ)</font> <font color="purple">[ῑκ]</font> faire tourner comme une toupie, faire pirouetter, AR. <i>Vesp. 1517</i>.<p><b>Étym</b>. βέμβιξ.`

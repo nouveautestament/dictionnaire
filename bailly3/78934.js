@@ -1,1 +1,0 @@
-lar[78934]=`<b>περι·μοτόω-ῶ</b>, garnir de charpie, HLD. CHIR. (CHIR. <i>p. 158 Cocch</i>.).`

@@ -1,1 +1,0 @@
-lar[35928]=`<b>ἑξηκοντα·επτά</b>, <i>n. de n. indécl</i>. soixante-sept, SPT. <i>1Esdr. 5, 15</i>.`

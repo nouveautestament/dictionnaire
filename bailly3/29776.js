@@ -1,1 +1,0 @@
-lar[29776]=`<b>ἐγ·κτερεΐζω</b> <font color="darkgreen">(<i>ao. 3 pl</i>. ἐνεκτερέϊξαν)</font> accomplir une cérémonie funèbre sur, <i>dat</i>. A.RH. <i>1, 1060</i>.<p><b>Étym</b>. ἐν, κ.`

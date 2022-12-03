@@ -1,1 +1,0 @@
-lar[85382]=`il faut montrer en outre, ARSTT. <i>Top. 4, 2, 7</i>.<p><b>Étym</b>. π. δείκνυμι.`

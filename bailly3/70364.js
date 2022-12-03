@@ -1,1 +1,0 @@
-lar[70364]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de fonder une colonie, THC. <i>5, 11</i>.<p><b>Étym</b>. οἰκίζω.`

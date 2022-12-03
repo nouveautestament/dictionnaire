@@ -1,1 +1,0 @@
-lar[27350]=`<b>δογματο·λογία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> exposition d’une doctrine, SEXT. <i>M. 8, 367</i>.<p><b>Étym</b>. δόγμα, λόγος.`

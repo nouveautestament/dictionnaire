@@ -1,1 +1,0 @@
-lar[7668]=`<b>ἀναστατόω-ῶ</b> <font color="purple">[τᾰ]</font> troubler, bouleverser : τὴν οἰκουμένην, NT. <i>Ap. 17, 6,</i> la terre ; <i>en parl. de l’esprit,</i> NT. <i>Gal. 5, 12</i>.<p><b>Étym</b>. ἀνάστατος.`

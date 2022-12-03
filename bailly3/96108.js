@@ -1,1 +1,0 @@
-lar[96108]=`<b>συν·οδυνάομαι-ῶμαι</b> <font color="purple">[δῠ]</font> compatir à, <i>dat</i>. SPT. <i>Sir. 30, 10</i>.`

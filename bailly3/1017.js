@@ -1,1 +1,0 @@
-lar[1017]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> collecte, quête, DH. <i>1, 274, 11 Reiske</i>.<br><b>      2</b> réunion, assemblée, BABR. <i>102, 5</i>.<p><b>Étym</b>. ἀγείρω.`

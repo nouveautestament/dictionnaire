@@ -1,1 +1,0 @@
-lar[101363]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> guérison, ARSTT. <i>Phys. 5, 4, 6 ; 5, 5, 3, etc</i>.<p><b>Étym</b>. ὑγιαίνω.`

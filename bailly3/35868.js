@@ -1,1 +1,0 @@
-lar[35868]=`<b>ου (τὸ)</b> épreuve, preuve, ORIG.`

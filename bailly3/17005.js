@@ -1,1 +1,0 @@
-lar[17005]=`<b>α</b>, <i>att</i>. <b>ἀτταγᾶς, ᾶ (ὁ)</b> <font color="purple">[τᾰ]</font> <i>sorte de perdrix,</i> AL. MYND. (ATH. <i>387f</i>) ; AR. <i>Ach. 875, etc. ; sel. d’autres c</i>. ἀτταγήν.`

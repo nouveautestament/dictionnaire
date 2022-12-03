@@ -1,1 +1,0 @@
-lar[23251]=`<b>ή, όν</b> <font color="purple">[ᾰν]</font> troyen, ANTH. <i>7, 2 ; 9, 155</i>.`

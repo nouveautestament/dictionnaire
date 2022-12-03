@@ -1,1 +1,0 @@
-lar[57910]=`<b>ας (ἡ)</b> <font color="purple">[ῑφᾰ]</font> action de donner du pain d’orge <i>au lieu de pain de blé aux soldats romains punis,</i> POL. <i>6, 38, 4</i>.<p><b>Étym</b>. κριθοφάγος.`

@@ -1,1 +1,0 @@
-lar[10567]=`<b>Ἀντί·φονος, ου (ὁ)</b> Antiphonos, <i>fils de Priam,</i> IL. <i>24, 250</i>.`

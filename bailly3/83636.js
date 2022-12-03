@@ -1,1 +1,0 @@
-lar[83636]=`<b>προ·απογλυκαίνω</b> <font color="purple">[ῠ]</font> édulcorer d’abord, RUF. <i>p. 79 Matthäi</i>.`

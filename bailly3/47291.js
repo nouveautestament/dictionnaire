@@ -1,1 +1,0 @@
-lar[47291]=`<b>θηριο·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui lutte contre les bêtes féroces, <i>dans les jeux publics, à Rome,</i> M. ANT. <i>10, 8</i> ; LUC. <i>Lex. 19</i>.<p><b>Étym</b>. θ. μάχομαι.`

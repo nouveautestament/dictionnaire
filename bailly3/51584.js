@@ -1,1 +1,0 @@
-lar[51584]=`<b>ου (τὸ)</b> fleur de sureau, P. ÉG.`

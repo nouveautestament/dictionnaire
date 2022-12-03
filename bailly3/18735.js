@@ -1,1 +1,0 @@
-lar[18735]=`<b>βαθυ·αγκής, ής, ές</b> <font color="purple">[ᾰῠ]</font> aux vallées profondes, ANTH. <i>9, 283</i>.<p><b>Étym</b>. βαθύς, ἄγκος.`

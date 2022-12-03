@@ -1,1 +1,0 @@
-lar[96159]=`<i>adv</i>., en somme, au total, ISOCR. <i>278b ;</i> ATH. <i>31b</i>.<p><b>Étym</b>. σύνολος.`

@@ -1,1 +1,0 @@
-lar[85484]=`<b>πρόσ·εδρος, ος, ον</b>, qui siège auprès, DC. <i>57, 7 ; d’où en gén</i>. qui se trouve auprès, SOPH. <i>Tr. 794</i>.<p><b>Étym</b>. π. ἕδρα.`

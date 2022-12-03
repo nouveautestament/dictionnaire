@@ -1,1 +1,0 @@
-lar[80719]=`<b>ης (ἡ)</b> <font color="purple">[ᾰτ]</font> Platéa (<i>auj</i>. Barba’a) <i>î. sur la côte de Libye</i>.<p>➳ Πλάτεα, ης, ῃ, αν, HDT. <i>4, 151, 153, 156, 169</i>.`

@@ -1,1 +1,0 @@
-lar[48054]=`<b>θυρσο·τινάκτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui agite un thyrse (Bacchus) ORPH. <i>H. 51, 4</i>.<p><b>Étym</b>. θ. τινάσσω.`

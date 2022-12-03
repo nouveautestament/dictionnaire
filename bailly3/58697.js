@@ -1,1 +1,0 @@
-lar[58697]=`<b>κυμινο·πρίστης, ου (ὁ)</b> <font color="purple">[ῠῑν]</font><br><b>      1</b> qui scie un grain de cumin, <i>càd</i>. ladre, avare, ARSTT. <i>Nic. 4, 1</i>.<br><b>      2</b> qui consiste à scier un grain de cumin, <i>càd</i>. qui est le fait d’un avare, ALEX. (ATH. <i>365c</i>).<p><b>Étym</b>. κύμινον, πρίω.`

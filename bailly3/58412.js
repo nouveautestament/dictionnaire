@@ -1,1 +1,0 @@
-lar[58412]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> thon, HICÉS. <i>et</i> POSIDIPP. (ATH. <i>118a</i>).<p><b>Étym</b>. κύβος.`

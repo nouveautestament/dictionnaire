@@ -1,1 +1,0 @@
-lar[7975]=`<b>ἀνδρ·αγαθία, ας (ἡ)</b> <font color="purple">[ρᾰᾰθ]</font><br><b>      1</b> courage, THC. <i>2, 42</i>.<br><b>      2</b> loyauté, vertu, THC. <i>3, 57</i> ; XÉN. <i>Cyr. 3, 3, 55 ; Ages. 10, 2</i> ; DÉM. <i>1370, 19</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>1, 99</i>.<p><b>Étym</b>. ἀνήρ, ἀγαθός.`

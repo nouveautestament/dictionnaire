@@ -1,1 +1,0 @@
-lar[38371]=`<b>ἐπί·μαρτυς (ὁ, ἡ)</b> (<i>au masc. acc. sg</i>. ἐπιμάρτυρα, ANTH. <i>1, 179</i> ; MUS. <i>1 ; dat. pl</i>. -υσι, AR. <i>Lys. 1287 ; acc. pl</i>. -υρας, A.RH. <i>4, 229 ; au fém</i>. CHRIST. <i>Ecphr. 193) c</i>. ἐπιμάρτυρος.`

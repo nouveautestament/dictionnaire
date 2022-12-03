@@ -1,1 +1,0 @@
-lar[61497]=`<b>ητος (ἡ)</b> éloquence, PLUT. <i>M. 205a, 348d, 486f, etc.</i> ; PHIL. <i>V. Mos. p. 615a</i>.<p><b>Étym</b>. λόγιος.`

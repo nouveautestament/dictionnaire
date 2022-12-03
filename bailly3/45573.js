@@ -1,1 +1,0 @@
-lar[45573]=`<b>ἡμι·σφαίριον, ου (τὸ)</b> demi-boule, hémisphère, PLAT. <i>Ax. 371a ;</i> ALEX. (ATH. <i>60a</i>) ; HÉRON <i>Spir. 161, 201</i>.<p><b>Étym</b>. ἡμι-, σφαῖρα.`

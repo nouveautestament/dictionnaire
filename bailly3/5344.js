@@ -1,1 +1,0 @@
-lar[5344]=`<b>-ῶ</b>, avoir la vue affaiblie <i>ou</i> faible, HPC. <i>Progn. 38</i> ; XÉN. <i>Cyn. 5, 27 dout</i>.`

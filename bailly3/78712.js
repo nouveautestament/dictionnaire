@@ -1,1 +1,0 @@
-lar[78712]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> enveloppe, couverture, PLAT. <i>Pol. 279d</i>.<p><b>Étym</b>. περικαλύπτω.`

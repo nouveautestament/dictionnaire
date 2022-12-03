@@ -1,1 +1,0 @@
-lar[57466]=`<b>κοφινόω-ῶ</b> <font color="purple">[ῐ]</font> couvrir d’une corbeille, <i>peine infamante chez les Béotiens,</i> N. DAM. (STOB. <i>Fl. 44, 40).</i><p><b>Étym</b>. κόφινος.`

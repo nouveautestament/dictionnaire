@@ -1,1 +1,0 @@
-lar[71177]=`<b>ὁλό·κοπος, ος, ον</b>, entièrement brisé <i>ou</i> haché, DIOSC. <i>5, 65</i>.<p><b>Étym</b>. ὅλ. κόπτω.`

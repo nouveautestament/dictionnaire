@@ -1,1 +1,0 @@
-lar[14166]=`<b>ου (ὁ, ἡ)</b> sorte de figue, TH. (ATH. <i>77a</i>).`

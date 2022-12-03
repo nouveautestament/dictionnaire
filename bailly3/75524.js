@@ -1,1 +1,0 @@
-lar[75524]=`<b>παρα·δινέω-ῶ</b> <font color="purple">[ῑ]</font> faire tourner de travers, <i>acc</i>. GAL. <i>Lex. Hipp. 19, 91 v°</i> γλοιάζειν.`

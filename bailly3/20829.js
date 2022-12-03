@@ -1,1 +1,0 @@
-lar[20829]=`<b>βρογχο·παράταξις, εως (ἡ)</b> <font color="purple">[ᾰᾰτ]</font> assaut de gorge, <i>càd</i>. de gloutonnerie, ATH. <i>298e</i>.`

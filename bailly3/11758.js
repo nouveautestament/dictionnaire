@@ -1,1 +1,0 @@
-lar[11758]=`<i>adv</i>., sans recherche, sans raffinement, BAS. <i>1, 371</i> ; HIÉROCL. <i>C. aur. p. 464 Mullach</i>.`

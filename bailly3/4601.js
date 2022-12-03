@@ -1,1 +1,0 @@
-lar[4601]=`<b>ἁλιφθορία, ας (ἡ)</b> <font color="purple">[ᾰλ]</font> perte en mer, naufrage, ANTH. <i>9, 41</i>.<p><b>Étym</b>. ἁλιφθόρος.`

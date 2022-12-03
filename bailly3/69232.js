@@ -1,1 +1,0 @@
-lar[69232]=`<b>νυμφο·στόλος, ος, ον :<br>      1</b> qui pare la fiancée, <i>p. suite,</i> qui la conduit à son époux, JOS. <i>A.J. 5, 8, 6</i>.<br><b>      2</b> de mariage, nuptial, MUS. <i>10</i>.<p><b>Étym</b>. νύμφη, στέλλω.`

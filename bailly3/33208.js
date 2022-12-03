@@ -1,1 +1,0 @@
-lar[33208]=`<b>ης, ες</b>, qui ressemble à un vomissement, HPC. <i>Coac. 209</i>.<p><b>Étym</b>. ἔμετος, -ωδης.`

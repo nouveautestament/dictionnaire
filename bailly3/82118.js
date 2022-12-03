@@ -1,1 +1,0 @@
-lar[82118]=`<b>πολυ·μήχανος, ος, ον</b> <font color="purple">[ῠᾰ]</font> au génie inventif, industrieux, fertile en expédients, IL. <i>2, 173, etc.</i> ; HH. <i>Merc. 319</i> ; SOPH. <i>Ph. 1135</i>.<p><b>Étym</b>. π. μηχανή.`

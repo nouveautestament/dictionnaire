@@ -1,1 +1,0 @@
-lar[95504]=`<b>συν·εξανίεμαι</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) se relâcher avec, SOR. <i>Obst. 19 Dietz</i>.`

@@ -1,1 +1,0 @@
-lar[26964]=`<b>διπλό·θριξ</b>, <i>gén</i>. <b>-τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> à feuille double <i>ou</i> correspondante, <i>en parl. du pin,</i> OPP. <i>Ix. 1, 23</i>.<p><b>Étym</b>. διπλόος, θρίξ.`

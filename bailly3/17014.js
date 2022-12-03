@@ -1,1 +1,0 @@
-lar[17014]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font> Attalos (Attale) :<br><b>      1</b> <i>n. macéd</i>. DS. <i>etc. ; part. général d’Alexandre le Grand et roi de Pergame,</i> POL. PLUT. <i>etc.</i><br><b>      2</b> <i>sculpteur athénien,</i> PAUS.<br><b>      3</b> <i>autres,</i> ESCHN. DS. <i>etc</i>.`

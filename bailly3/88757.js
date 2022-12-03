@@ -1,1 +1,0 @@
-lar[88757]=`conduire à l’abreuvoir, <i>acc</i>. HIPPIATR. <i>220</i>.<br><b><i>Moy.</i></b> avoir un flux de ventre, STR. <i>673</i>.<p><b>Étym</b>. ῥόος.`

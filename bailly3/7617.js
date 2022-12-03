@@ -1,1 +1,0 @@
-lar[7617]=`<b>ἀνα·σκεδάννυμι</b>, disperser, PLUT. <i>Pyrrh. 22 ; au pass</i>. POLYEN <i>1, 40, 2</i>.`

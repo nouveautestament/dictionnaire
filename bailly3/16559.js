@@ -1,1 +1,0 @@
-lar[16559]=`<b>ἀ·σφάδαστος, ος, ον</b> <font color="purple">[φᾰ]</font> sans convulsions, <i>d’où</i> sans douleur, ESCHL. <i>Ag. 1293</i> ; SOPH. <i>Aj. 833</i>.<p><b>Étym</b>. ἀ, σφαδάζω.`

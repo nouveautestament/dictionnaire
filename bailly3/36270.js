@@ -1,1 +1,0 @@
-lar[36270]=`<b>ἐξ·υμνέω-ῶ</b>, célébrer par des hymnes <i>ou</i> des chants, POL. <i>6, 47, 7</i> ; DS. <i>Exc. Vat. p. 23 ; au pass</i>. LYC. <i>1195</i>.`

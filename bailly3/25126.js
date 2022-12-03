@@ -1,1 +1,0 @@
-lar[25126]=`<b>οῦ (ὁ)</b> distributeur, ARSTT. <i>fr. 383</i>.<p><b>Étym</b>. διανέμω.`

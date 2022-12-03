@@ -1,1 +1,0 @@
-lar[54886]=`<b>ας (ἡ)</b> sorte de pervenche, DIOSC. <i>4, 89</i>.`

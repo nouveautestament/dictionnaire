@@ -1,1 +1,0 @@
-lar[41591]=`<b>εὐ·ανάτρεπτος, ος, ον</b> <font color="purple">[ᾰν]</font> facile à retourner <i>ou</i> à renverser, CIC. <i>Att. 2, 14, 1</i> ; GAL. <i>12, 407c</i>.<p><b>Étym</b>. εὖ, ἀνατρέφω.`

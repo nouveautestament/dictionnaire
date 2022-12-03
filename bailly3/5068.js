@@ -1,1 +1,0 @@
-lar[5068]=`<b>ἀλφιτ·αμοιβός, οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> marchand de farine, AR. <i>Av. 491</i>.<p><b>Étym</b>. ἄλφιτον, ἀμείβω.`

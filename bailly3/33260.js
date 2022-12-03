@@ -1,1 +1,0 @@
-lar[33260]=`<b>ῶν (οἱ)</b> <font color="purple">[ῐ]</font> les Emménides, <i>famille d’Agrigente,</i> PD. <i>O. 3, 40</i>.`

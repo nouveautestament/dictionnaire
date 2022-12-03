@@ -1,1 +1,0 @@
-lar[2056]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾱ]</font> combattant, lutteur, OD. <i>8, 164</i>.<p>➳ <i>Ion</i>. ἀεθλ. ANTH. <i>11, 59</i>.<p><b>Étym</b>. ἀθλέω.`

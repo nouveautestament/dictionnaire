@@ -1,1 +1,0 @@
-lar[44574]=`<i>adv</i>., au moyen d’une recherche, CHRYS. <i>2, 290</i>.<p><b>Étym</b>. ζητέω.`

@@ -1,1 +1,0 @@
-lar[38952]=`<b>ἐπι·σημειόομαι-οῦμαι :<br>      1</b> marquer d’un signe, SEXT. <i>M. 5, 68</i>.<br><b>      2</b> marquer son approbation, approuver, <i>acc</i>. PLUT. <i>M. 235c</i>.`

@@ -1,1 +1,0 @@
-lar[50768]=`<b>κακο·μαθής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui apprend mal, difficilement, ANAXANDR. <i>8 Kock</i>.<p><b>Étym</b>. κ. μανθάνω.`

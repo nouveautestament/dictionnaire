@@ -1,1 +1,0 @@
-lar[107532]=`<b>ων (τὰ)</b> <i>s.-e</i>. σχοινία <font color="purple">[χᾰ]</font> cordages pour abaisser une trappe, APP. <i>Civ. 4, 78</i>.<p><b>Étym</b>. χαλάω.`

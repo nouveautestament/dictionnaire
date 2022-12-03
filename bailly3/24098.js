@@ -1,1 +1,0 @@
-lar[24098]=`<font color="purple">[ᾰ]</font> mordre, irriter, SYN.<p><b>Étym</b>. δῆγμα.`

@@ -1,1 +1,0 @@
-lar[38114]=`<b>ος, ον :<br>      1</b> coupé, taillé, <i>en parl. des arbres,</i> TH. <i>H.P. 5, 1, 12</i>.<br><b>      2</b> τὸ ἐπίκοπον, <i>c</i>. ἐπικόπανον, LUC. <i>D. mort. 10, 9</i>.<p><b>Étym</b>. ἐπικόπτω.`

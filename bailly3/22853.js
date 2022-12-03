@@ -1,1 +1,0 @@
-lar[22853]=`<i>ou</i> <b>γύρινος, ου (ὁ)</b> <font color="purple">[ῡῑ]</font> têtard de grenouille <i>ou</i> de crapaud, PLAT. <i>Theæt. 161c ;</i> EL. <i>N.A. 1, 58</i>.<p>➳ <font color="purple">[ῠ]</font> ARAT. <i>947</i>.<p><b>Étym</b>. γυρός.`

@@ -1,1 +1,0 @@
-lar[15625]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> d’Archiloque, HÉPH. <i>15, 2</i> ; Ἀ. μέτρον, DIOM. <i>509, 3,</i> le mètre d’Archiloque.<p><b>Étym</b>. Ἀρχίλοχος.`

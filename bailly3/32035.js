@@ -1,1 +1,0 @@
-lar[32035]=`<b>ἐκ·σήπω</b>, faire pourrir complètement, <i>d’où pass</i>. TH. <i>C.P. 5, 16, 2,</i> être tout pourri.`

@@ -1,1 +1,0 @@
-lar[105350]=`<b>ου (ὁ)</b> petite pastille, HPC. <i>621, 2, etc</i>.<p><b>Étym</b>. <i>dim. de</i> φθόϊς.`

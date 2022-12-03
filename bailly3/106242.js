@@ -1,1 +1,0 @@
-lar[106242]=`<b>φιλ·υπόστροφος, ος, ον</b> <font color="purple">[ῐῠ]</font> sujet à des retours, <i>en parl. d’un mal,</i> HPC. <i>Coac. 172, Mochl. 862, etc</i>.<p><b>Étym</b>. φ. ὑποστρέφω.`

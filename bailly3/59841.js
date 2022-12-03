@@ -1,1 +1,0 @@
-lar[59841]=`<b>λαπαθο·ειδής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui ressemble à la patience, DIOSC. <i>Noth. p. 447e ; v</i>. λάπαθον.<p><b>Étym</b>. λάπαθον, εἶδος.`

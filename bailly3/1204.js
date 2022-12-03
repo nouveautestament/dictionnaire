@@ -1,1 +1,0 @@
-lar[1204]=`<b>ἄ·δειλος, ος, ον</b>, sans crainte, intrépide, ADAM. <i>Physiogn. 2, 1, p. 373</i>.<p><b>Étym</b>. ἀ, δειλός.`

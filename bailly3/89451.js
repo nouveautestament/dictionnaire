@@ -1,1 +1,0 @@
-lar[89451]=`<b>ας (ἡ)</b> formation de chair, PORPH. <i>Antr. nymph. 14, p. 14</i>.<p><b>Étym</b>. σαρκοποιός.`

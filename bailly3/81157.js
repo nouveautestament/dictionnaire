@@ -1,1 +1,0 @@
-lar[81157]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> lavé, nettoyé, blanchi, HPC. <i>Art. 802</i>.<p><b>Étym</b>. <i>vb. de</i> πλύνω.`

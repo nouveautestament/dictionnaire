@@ -1,1 +1,0 @@
-lar[61952]=`<b>λυπ·αλγής, ής, ές</b> <font color="purple">[ῡ]</font> que le chagrin fait souffrir, P. SIL. <i>Ecphr. ag. Soph. 891</i>.<p><b>Étym</b>. λύπη, ἄλγος.`

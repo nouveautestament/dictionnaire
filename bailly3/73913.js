@@ -1,1 +1,0 @@
-lar[73913]=`<b>ῆς (ἡ) :<br>      1</b> <i>pass</i>. nourriture, aliment, LYC. <i>482</i> ; ATH. <i>363b.</i><br><b>      2</b> <i>act</i>. caverne, grotte, ARAT. <i>956 ; cf</i>. ὀχεά.<p><b>Étym</b>. ἔχω, contenir.`

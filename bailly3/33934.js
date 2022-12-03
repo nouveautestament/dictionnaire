@@ -1,1 +1,0 @@
-lar[33934]=`<b>ἐν·αποδέω</b> <font color="darkgreen">(<i>f</i>. -δήσω)</font> <font color="purple">[ᾰ]</font> lier dans, <i>dat</i>. HPC. <i>Mochl. 845</i>.`

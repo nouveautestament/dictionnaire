@@ -1,1 +1,0 @@
-lar[3756]=`<b>ῶν (τὰ)</b> javelots de tirailleurs, EL. TACT. <i>17, 1</i>.`

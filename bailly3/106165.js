@@ -1,1 +1,0 @@
-lar[106165]=`<b>φιλο·ϋγιής, ής, ές</b> <font color="purple">[ῐῠ]</font> qui aime la santé, ARSTT. <i>Eud. 2, 5, 5</i>.<p><b>Étym</b>. φ. ὑγιής.`

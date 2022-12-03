@@ -1,1 +1,0 @@
-lar[76763]=`<b>παρ·επιπλέκω</b> <font color="darkgreen">(<i>ao.2 pass</i>. παρεπεπλάκην)</font> entrelacer, enlacer, GAL. <i>19, 557</i>.`

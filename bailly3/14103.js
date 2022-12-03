@@ -1,1 +1,0 @@
-lar[14103]=`<i>adv</i>., en arabe, E. BYZ. <i>v°</i> Ναβαταῖοι.<p><b>Étym</b>. Ἄραψ.`

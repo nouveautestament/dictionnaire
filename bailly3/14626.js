@@ -1,1 +1,0 @@
-lar[14626]=`<b>ης (ἡ)</b> <font color="purple">[ᾰι]</font> <i>ion</i>. distinction, supériorité, NAZ. <i>2, 152, 292</i>.<p><b>Étym</b>. ἀριπρεπής.`

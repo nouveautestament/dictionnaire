@@ -1,1 +1,0 @@
-lar[30135]=`<b>ἐθελεχθρέω-ῶ</b>, chercher querelle à, <i>dat</i>. CHAROND. (STOB. <i>Fl. 44, 40).</i><p><b>Étym</b>. ἐθέλεχθρος.`

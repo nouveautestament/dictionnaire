@@ -1,1 +1,0 @@
-lar[85959]=`<b>εως (ἡ)</b> remarque s’ajoutant à d’autres, EPIC. (DL. <i>10, 79).</i><p><b>Étym</b>. προσκατανοέω.`

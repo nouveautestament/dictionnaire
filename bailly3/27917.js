@@ -1,1 +1,0 @@
-lar[27917]=`<b>ας (ἡ)</b> <font color="purple">[ῑῠᾰγ]</font> usage d’aliments aigres, DIOSC. <i>2, 33</i> ; P. ÉG. <i>3, 118</i>.<p><b>Étym</b>. <i>v</i>. δριμυφαγέω.`

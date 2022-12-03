@@ -1,1 +1,0 @@
-lar[74284]=`<b>παιδοκομέω-ῶ</b>, soigner des enfants, ANTH. <i>7, 623</i>.<p><b>Étym</b>. παιδοκόμος.`

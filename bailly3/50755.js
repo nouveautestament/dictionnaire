@@ -1,1 +1,0 @@
-lar[50755]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> honteuse cupidité, THGN. <i>225</i>.<p><b>Étym</b>. κακοκερδής.`

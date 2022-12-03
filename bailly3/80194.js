@@ -1,1 +1,0 @@
-lar[80194]=`<b>ας (ἡ)</b> <font color="purple">[πῑ]</font> la Piérie, <i>contrée de Macédoine, près de l’Olympe, séjour des Muses,</i> IL. <i>6, 226</i> ; OD. <i>5, 50</i> ; HH. <i>Merc. 70</i> ; HÉS. <i>Th. 53</i> ; HDT. <i>7, 131, 177</i> ; THC. <i>2, 99, 100, etc</i>.<p>➳ <i>Épq. et ion</i>. Πιερίη, HOM. HÉS. HDT. <i>ll. cc.</i> ; HH. <i>Merc. 85</i> ; HÉS. <i>O. 1</i>.`

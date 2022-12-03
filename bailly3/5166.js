@@ -1,1 +1,0 @@
-lar[5166]=`<b>οῦντος (ἡ)</b> Amathunte (<i>auj</i>. Limassol) <i>v. de Chypre,</i> DURIS (ATH. <i>167d</i>) ; STR. <i>683, etc</i>.<p><b>Étym</b>. <i>contr. de</i> -όεις, όεντος, <i>de</i> ἄμαθος.`

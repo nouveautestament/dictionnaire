@@ -1,1 +1,0 @@
-lar[98950]=`<b>τηλέ·φιλον, ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>litt</i>. « qui aime de loin », <i>plante dont on faisait claquer les feuilles entre les doigts pour s’assurer de la fidélité d’un amant absent,</i> THCR. <i>Idyl. 3, 29 ; adj</i>. τηλέφιλον πλατάγημα, ANTH. <i>5, 296,</i> claquement de cette plante.<p><b>Étym</b>. τ. φίλος.`

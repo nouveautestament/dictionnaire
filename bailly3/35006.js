@@ -1,1 +1,0 @@
-lar[35006]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à tendre, excitant, XÉNOCR. <i>Al. 16</i> ; MÉD. <i>p. 10 Matthäi</i> ; τὸ ἐντατικόν, DIOSC. <i>3, 144,</i> sorte de plante aphrodisiaque.<p>•<i> Cp</i>. -ώτερος, GEOP. <i>19, 6</i>.<p><b>Étym</b>. ἐντατός.`

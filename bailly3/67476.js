@@ -1,1 +1,0 @@
-lar[67476]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> qui a des enfoncements, des gouffres, EUR. <i>Ion 494 conj</i>.<p><b>Étym</b>. μυχός, -ωδης.`

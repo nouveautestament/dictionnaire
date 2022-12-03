@@ -1,1 +1,0 @@
-lar[84288]=`<b>προ·ευφραίνω</b>, réjouir d’avance, EL. <i>N.A. 10, 19</i> ; PHIL. <i>1, 96, etc</i>.`

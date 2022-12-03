@@ -1,1 +1,0 @@
-lar[40075]=`<b>ἐπ·ωθέω-ῶ</b>, <i>f</i>. ἐπώσω, pousser sur <i>ou</i> contre, ARSTT. <i>Meteor. 3, 1, 4 ; Probl. 16, 8, 7</i> ; PLUT. <i>Crass. 27</i>.`

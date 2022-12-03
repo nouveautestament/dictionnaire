@@ -1,1 +1,0 @@
-lar[44600]=`<b>ά, όν</b>, sombre, <i>en parl. du chaos</i>, HÉS. <i>Th. 814 ; d’une maison,</i> HPC. <i>399, 37 ; de l’air,</i> LUC. <i>Nigr. 4 ; de la mer,</i> ARSTT. <i>Mir. 130, 5 ; fig. en parl. de soucis,</i> ANTH. <i>5, 297</i> ; τὸ ζ. HPC. <i>563, 2</i> ; ARSTT. <i>An. 3, 2, 9</i>, obscurité.<p><b>Étym</b>. ζόφος.`

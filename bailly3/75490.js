@@ -1,1 +1,0 @@
-lar[75490]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> <i>dim. de</i> παράδειγμα, PHIL. BYZ. <i>Bel. 58</i>.`

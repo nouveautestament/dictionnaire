@@ -1,1 +1,0 @@
-lar[41597]=`<b>Εὔ·ανδρος, ου (ὁ)</b> Euandros (Évandre) <i>h</i>. DÉM. <i>743, 18</i> ; PLUT. <i>Lys. 23 ; particul. chef d’une colonie grecque dans le Latium,</i> STR. <i>230</i> ; PAUS. <i>8, 43, 2 ; 44, 5</i>.<p><b>Étym</b>. <i>cf</i>. εὔανδρος.`

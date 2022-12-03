@@ -1,1 +1,0 @@
-lar[79295]=`<b>ή, όν</b>, capable de distraire, SEXT. <i>M. 6, 21</i>.<p><b>Étym</b>. περισπάω.`

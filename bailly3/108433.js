@@ -1,1 +1,0 @@
-lar[108433]=`<b>χιλιά·γωνος, ος, ον</b> <font color="purple">[χῑᾰ]</font> à mille angles, ARCHIM. <i>324</i>.<p><b>Étym</b>. χίλιοι, γωνία.`

@@ -1,1 +1,0 @@
-lar[38565]=`<b>ἐπί·ξανθος, ος, ον</b>, jaunâtre, fauve, <i>en parl. du lièvre,</i> XÉN. <i>Cyn. 5, 22 ; en parl. de plantes,</i> TH. <i>H.P. 3, 10, 4</i>.<p><b>Étym</b>. ἐπί, ξανθός.`

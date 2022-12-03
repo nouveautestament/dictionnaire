@@ -1,1 +1,0 @@
-lar[45980]=`<b>α, ον</b> <font color="purple">[ῠ]</font> calme, tranquille, paisible, placide, SOPH. <i>O.C. 197</i> ; EUR. <i>Med. 808</i> ; PLAT. <i>Leg. 775c, etc.</i> ; τὸ ἡσυχαῖον, SOPH. <i>fr. 678, 6,</i> immobilité, inactivité.<p><b>Étym</b>. ἥσυχος.`

@@ -1,1 +1,0 @@
-lar[21833]=`<b>Γευσι·στράτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Geusistratè, <i>f</i>. AR. <i>Eccl. 49</i>.<p><b>Étym</b>. γεύομαι, στρατός.`

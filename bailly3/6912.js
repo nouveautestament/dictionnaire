@@ -1,1 +1,0 @@
-lar[6912]=`<b>ου (τὸ)</b> temple des Dioscures, THC. <i>8, 93</i> ; AND. <i>7, 10</i> ; DÉM. <i>1125, 24</i>.<p>➳ <i>Dans une inscr. att</i>. Ἀνάκιον, CIA. <i>2, 660, 44 (390 av. J.-C.) ; Meisterh. p. 42</i>.<p><b>Étym</b>. Ἄνακες.`

@@ -1,1 +1,0 @@
-lar[73064]=`<b>ας (ἡ)</b> = <i>lat</i>. Horta, <i>divinité rom</i>. PLUT. <i>Qu. rom. 46</i>.`

@@ -1,1 +1,0 @@
-lar[66167]=`<b>εύϊος (ὁ)</b> Mnévis, <i>taureau sacré, adoré à Hèliopolis en Égypte,</i> DS. <i>1, 21</i> ; STR. <i>803, 805</i> ; PLUT. <i>M. 364c</i>.`

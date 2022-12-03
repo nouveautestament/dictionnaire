@@ -1,1 +1,0 @@
-lar[73322]=`<b>ὀστρακόω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> briser en morceaux comme un vase de terre, ESCHL. <i>fr. 166 Dind.</i><br><b>      2</b> rendre dur comme de la terre cuite, ARSTT. <i>Probl. 2, 32</i>.<br><b>      3</b> couvrir d’une écaille, <i>d’où au pass</i>. se couvrir d’une écaille dure, LYC. <i>88</i>.<p><b>Étym</b>. ὄστρακον.`

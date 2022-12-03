@@ -1,1 +1,0 @@
-lar[94739]=`<b>συν·αναπηδάω-ῶ</b>, s’élancer en même temps sur, <i>dat</i>. APP. <i>Iber. 88</i>.`

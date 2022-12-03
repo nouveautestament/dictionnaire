@@ -1,1 +1,0 @@
-lar[76398]=`<b>παρα·φεύγω</b> (<i>inf. ao.2 sync</i>. παρφυγέειν) passer en fuyant le long de <i>ou</i> devant, <i>dat</i>. OD. <i>12, 99</i>.`

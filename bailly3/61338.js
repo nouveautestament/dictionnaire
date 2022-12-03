@@ -1,1 +1,0 @@
-lar[61338]=`<b>λιπό·μαστος, ος, ον</b> <font color="purple">[ῐ]</font> dépourvu de mamelles, NAZ. <i>2, 139</i>.<p><b>Étym</b>. λ. μαστός.`

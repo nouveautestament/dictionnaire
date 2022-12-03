@@ -1,1 +1,0 @@
-lar[34684]=`(<i>acc</i>. <b>-ιν</b>) <i>adj. f</i>. habitante, A.RH. <i>1, 1126</i>.<p><b>Étym</b>. <i>fém. de</i> ἐνναέτης.`

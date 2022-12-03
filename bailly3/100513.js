@@ -1,1 +1,0 @@
-lar[100513]=`<b>τρι·σύλλαβος, ος, ον</b> <font color="purple">[ῐᾰ]</font> de trois syllabes, trisyllabique, DH. <i>Comp. 17</i> ; LUC. <i>Philops. 35</i>.<p><b>Étym</b>. τρεῖς, συλλαβή.`

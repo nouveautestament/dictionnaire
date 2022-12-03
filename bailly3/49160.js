@@ -1,1 +1,0 @@
-lar[49160]=`<b>α (ὁ)</b> Jugurtha, <i>roi de Numidie,</i> PLUT. <i>Mar. 7, etc</i>.`

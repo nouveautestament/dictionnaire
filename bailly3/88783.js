@@ -1,1 +1,0 @@
-lar[88783]=`<b>ας (ἡ)</b> large sabre à deux tranchants, <i>à l’usage des Thraces,</i> PLUT. <i>Æmil. 18 ; d’où en gén</i>. sabre, épée, SPT. <i>Gen. 3, 24, etc. ; fig</i>. NT. <i>Luc. 2, 35, etc</i>.`

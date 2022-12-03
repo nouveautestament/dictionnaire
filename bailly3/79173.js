@@ -1,1 +1,0 @@
-lar[79173]=`<b>περιπορφυρό·σημος, ος, ον</b> <font color="purple">[ῠ]</font> revêtu de la robe prétexte, ANTH. <i>12, 185</i>.<p><b>Étym</b>. περιπόρφυρος, σῆμα.`

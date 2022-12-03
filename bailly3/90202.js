@@ -1,1 +1,0 @@
-lar[90202]=`<b>άδος</b> <font color="purple">[σῑᾰδ]</font> <i>adj. f</i>. originaire de Sidon, EUR. <i>Hel. 1451</i>.<p><b>Étym</b>. Σιδών.`

@@ -1,1 +1,0 @@
-lar[88075]=`<b>πωγωνο·τροφία, ας (ἡ)</b> habitude de laisser croître sa barbe, PLUT. <i>M. 352b</i>.<p><b>Étym</b>. πώγων, -τροφος <i>de</i> τρέφω.`

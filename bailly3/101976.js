@@ -1,1 +1,0 @@
-lar[101976]=`<b>ὑπ·αντάξ</b> <font color="purple">[ῠ]</font> <i>adv</i>., en face, AR. <i>fr. 534</i>.<p><b>Étym</b>. ὑπό, ἄντα.`

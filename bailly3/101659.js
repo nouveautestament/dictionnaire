@@ -1,1 +1,0 @@
-lar[101659]=`<b>υἱο·κτόνος, ος, ον</b>, qui tue son propre fils, RHÉT. <i>3, 675 W</i>.<p><b>Étym</b>. υἱός, κτείνω.`

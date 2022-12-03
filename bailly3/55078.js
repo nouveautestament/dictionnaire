@@ -1,1 +1,0 @@
-lar[55078]=`<b>ή, όν</b> <font color="purple">[φᾰ]</font><br><b>      1</b> <i>pass</i>. qui souffre de maux de tête, GAL. <i>6, 438, etc.</i><br><b>      2</b> <i>act</i>. qui fait mal à la tête, DIOCL. (ATH. <i>26c</i>).<p><b>Étym</b>. κεφαλαλγία.`

@@ -1,1 +1,0 @@
-lar[70003]=`<b>ὀβελίας ἄρτος (ὁ)</b> <font color="purple">[ᾱ]</font> HPC. <i>356, 13</i> ; AR. (ATH. <i>111b</i>) <i>ou simpl</i>. ὀβελίας, COM. (ATH. <i>111b</i>) sorte de pain <i>ou</i> de gâteau cuit à la broche, <i>ou, avec jeu de mots,</i> qui coûtait une obole, <i>v</i>. ὀβολίας.<p><b>Étym</b>. ὀβελός.`

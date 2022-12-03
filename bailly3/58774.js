@@ -1,1 +1,0 @@
-lar[58774]=`<font color="darkgreen">(<i>f. att</i>. κυνιῶ)</font> <font color="purple">[ῠ]</font> vivre en chien, en philosophe cynique, LUC. <i>Per. 43</i> ; ATH. <i>588f ;</i> DL. <i>7, 121</i>.<p><b>Étym</b>. κύων.`

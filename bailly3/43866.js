@@ -1,1 +1,0 @@
-lar[43866]=`<b>εὐ·ώνυμος, ου (ἡ)</b> fusain, arbrisseau (<i>Euonymus europæus</i> L.) PLIN. <i>H.N. 13, 38</i> ; τὸ εὐώνυμον δένδρον, TH. <i>H.P. 3, 18, 13, m. sign</i>.`

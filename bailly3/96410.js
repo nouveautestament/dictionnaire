@@ -1,1 +1,0 @@
-lar[96410]=`<b>συν·υπηρετέω-ῶ</b>, servir <i>ou</i> venir en aide à, <i>dat</i>. PLAT. <i>Leg. 943b ;</i> πρός τι, ARSTT. <i>P.A. 4, 9, 10,</i> pour qqe ch.`

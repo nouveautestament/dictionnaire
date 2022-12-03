@@ -1,1 +1,0 @@
-lar[658]=`<b>ἀγκυλό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ῠ]</font> aux pieds recourbés : ἀ. δίφρος, PLUT. <i>Mar. 5,</i> chaise curule, <i>à Rome</i>.<p><b>Étym</b>. ἀ, πούς.`

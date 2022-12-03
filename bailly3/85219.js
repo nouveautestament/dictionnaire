@@ -1,1 +1,0 @@
-lar[85219]=`<b>προσ·αξιόω-ῶ</b>, demander encore <i>ou</i> en outre, POL. <i>3, 11, 7 ; 17, 8, 5</i>.`

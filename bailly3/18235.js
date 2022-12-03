@@ -1,1 +1,0 @@
-lar[18235]=`<b>ῆς (ἡ)</b> la province romaine d’Afrique (<i>distincte de la région géographique du même nom que les Grecs appelaient</i> Λιβύη) DC. ARR.<p><b>Étym</b>. <i>lat</i>. Afrĭca ; <i>cf</i>. Ἄφρικα.`

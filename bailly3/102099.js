@@ -1,1 +1,0 @@
-lar[102099]=`<b>ὑπ·εισρέω</b>, couler tout doucement dans, se glisser furtivement <i>ou</i> peu à peu dans, <i>acc</i>. LGS <i>1, 1</i>.`

@@ -1,1 +1,0 @@
-lar[62192]=`<b>λωτο·τρόφος, ος, ον</b>, qui nourrit des fleurs, fleuri, EUR. <i>Ph. 1571</i>.<p><b>Étym</b>. λωτός, τρέφω.`

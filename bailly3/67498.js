@@ -1,1 +1,0 @@
-lar[67498]=`<b>οῦ (ὁ) :<br>      1</b> moqueur, ARSTT. <i>H.A. 1, 9</i> ; A. CAR. <i>c. 125</i>.<br><b>      2</b> flatteur, SPT. <i>Sir. 33, 6</i>.<p><b>Étym</b>. <i>cf</i>. μωκάω.`

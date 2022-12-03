@@ -1,1 +1,0 @@
-lar[76490]=`<b>παρα·ψαύω</b> (<i>pf</i>. παρέψαυκα) toucher légèrement, effleurer, <i>gén</i>. PLUT. <i>M. 971e ; abs</i>. HPC. <i>504, 40 ; fig</i>. SEXT. <i>M. 7, 116</i>.`

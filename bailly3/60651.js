@@ -1,1 +1,0 @@
-lar[60651]=`<b>λευκ·ώλενος, ος, ον</b>, aux coudes blancs, aux bras blancs, IL. <i>1, 55, etc.</i> ; OD. <i>6, 239, etc.</i> ; PD. <i>P. 3, 98</i>.<p><b>Étym</b>. λ. ὠλένη.`

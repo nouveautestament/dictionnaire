@@ -1,1 +1,0 @@
-lar[41961]=`<b>εὐ·εκπύρωτος, ος, ον</b> <font color="purple">[ῠ]</font> facile à enflammer, STR. <i>579</i>.<p><b>Étym</b>. εὖ, ἐκπυρόω.`

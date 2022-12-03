@@ -1,1 +1,0 @@
-lar[73774]=`<b>Οὔ·τις</b>, <i>acc</i>. <b>ιν (ὁ)</b> Personne, <i>nom que se donne Ulysse pour tromper Polyphème,</i> OD. <i>9, 366, etc.</i> ; EUR. <i>Cycl. 545, etc</i>.`

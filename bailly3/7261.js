@@ -1,1 +1,0 @@
-lar[7261]=`<font color="purple">[ᾰγ]</font> <i>adv</i>., sans lutte, PLUT. <i>M. 1128b</i>.`

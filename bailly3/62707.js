@@ -1,1 +1,0 @@
-lar[62707]=`<b>ης (ἡ)</b> engourdissement par le froid, <i>particul</i>. aux pieds et aux mains, onglée, NIC. <i>Al. 353, Th. 724 ; au pl</i>. NIC. <i>Th. 383</i>.`

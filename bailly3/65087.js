@@ -1,1 +1,0 @@
-lar[65087]=`<b>μετ·ελέγχω</b>, convaincre et faire changer d’avis, JAMBL. <i>V. Pyth. 218, p. 436</i>.`

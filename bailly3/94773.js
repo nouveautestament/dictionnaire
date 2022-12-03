@@ -1,1 +1,0 @@
-lar[94773]=`<b>συν·αναφύρω</b> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> pétrir avec, <i>d’où au pass.</i> :<br><b>      1</b> se rouler dans, se vautrer dans, <i>avec</i> ἐν <i>et le dat</i>. HYPÉR. (ATH. <i>567a</i>) ; LUC. <i>Gymn. 1</i>.<br><b>      2</b> avoir commerce avec, <i>dat</i>. LUC. <i>Ep. sat. 28</i>.`

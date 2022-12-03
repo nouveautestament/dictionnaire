@@ -1,1 +1,0 @@
-lar[102045]=`<b>ὑπ·άτοπος, ος, ον</b> <font color="purple">[ῠᾰ]</font> quelque peu absurde, ARSTT. <i>P.A. 1, 4, 5</i>.`

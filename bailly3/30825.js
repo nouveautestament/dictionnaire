@@ -1,1 +1,0 @@
-lar[30825]=`<b>*εἰσ·οιδαίνω</b>, <i>ion</i>. <b>ἐσ·οιδαίνω</b> (<i>seul. prés</i>.) faire enfler, ARÉT. <i>Cur. m. diut. 1, 2, p. 117</i>.`

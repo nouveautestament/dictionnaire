@@ -1,1 +1,0 @@
-lar[85182]=`<b>προσ·ανατείνω</b>, élever vers, <i>avec</i> εἰς <i>et l’acc</i>. CLÉM. <i>854</i>.<br><b><i>Moy.</i></b> :<br><b>      1 <i>intr.</i></b> s’emporter, se répandre en menaces contre, <i>dat</i>. POL. <i>18, 36, 9</i>.<br><b>      2 <i>tr.</i></b> lancer comme menace, <i>acc</i>. POL. <i>26, 3, 13</i>.`

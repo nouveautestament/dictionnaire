@@ -1,1 +1,0 @@
-lar[25566]=`<b>δια·σμιλεύω</b> <font color="purple">[μῑ]</font> limer : <i>fig</i>. δ. βίβλους, ANTH. <i>15, 38,</i> limer des ouvrages ; φροντίδες διεσμιλευμέναι, ALEX. (ATH. <i>161b</i>) préoccupations raffinées <i>ou</i> subtiles.`

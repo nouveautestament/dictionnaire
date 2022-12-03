@@ -1,1 +1,0 @@
-lar[103713]=`<b>ὑπο·πολλαπλάσιος, ος, ον</b> <font color="purple">[ᾰσ]</font> plusieurs fois plus petit, sous-multiple, NICOM. <i>Arithm. p. 93, 94</i>.`

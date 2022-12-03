@@ -1,1 +1,0 @@
-lar[50635]=`<b>κακ·ελπιστέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir mauvais espoir, ARR. <i>Epict. 4, 5, 27</i>.<p><b>Étym</b>. κ. ἐλπιστός.`

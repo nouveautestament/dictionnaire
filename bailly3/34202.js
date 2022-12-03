@@ -1,1 +1,0 @@
-lar[34202]=`<b>ἐν·διοδεύω</b>, entrer dans, s’avancer dans, <i>dat</i>. NYSS. <i>1, 380</i>.`

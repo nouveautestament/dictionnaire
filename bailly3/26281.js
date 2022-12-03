@@ -1,1 +1,0 @@
-lar[26281]=`<i>adv</i>., d’une manière décousue, en désordre, POL. <i>3, 58, 3</i> ; CLÉM. <i>1, 753b ; 2, 556c Migne</i>.<p><b>Étym</b>. διαρρίπτω.`

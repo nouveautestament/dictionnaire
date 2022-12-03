@@ -1,1 +1,0 @@
-lar[104106]=`<b>ὑπο·φθίνω</b> <font color="purple">[ῐ]</font> consumer peu à peu, HÉRACLITE GRAMM. <i>All. Hom. 61</i>.`

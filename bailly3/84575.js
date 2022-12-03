@@ -1,1 +1,0 @@
-lar[84575]=`<b>προ·κοίλιος, ος, ον</b>, au ventre proéminent, RHÉT. <i>5, 594 W.</i> ; SYN. <i>Ep. 110 vulg</i>. πρόκοιλος.<p><b>Étym</b>. π. κοιλία.`

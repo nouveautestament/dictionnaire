@@ -1,1 +1,0 @@
-lar[11208]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> d’apparence tendre et délicate, GAL.<p><b>Étym</b>. ἁπαλός, -ωδης.`

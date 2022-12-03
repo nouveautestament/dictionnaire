@@ -1,1 +1,0 @@
-lar[78060]=`<b>(οἱ, αἱ, τὰ)</b> <i>n. de n. indécl.,</i> cinq, HOM. ATT. <i>etc</i>.<p>➳ <i>Éol</i>. πέμπε, Ps.-HDT. <i>V. Hom. 37 ; gén</i>. πέμπων, ALC. <i>33, 7</i>.<p><b>Étym</b>. <i>indo-europ</i>. *pénk<sup>w</sup>e ; <i>cf. lat</i>. quīnque, <i>sscr</i>. páñca, <i>gotique</i> fimf.`

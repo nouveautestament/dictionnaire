@@ -1,1 +1,0 @@
-lar[104101]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en devançant, OPP. <i>H. 3, 145, 618</i>.<p><b>Étym</b>. ὑποφθάνω, -δον.`

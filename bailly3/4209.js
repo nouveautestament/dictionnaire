@@ -1,1 +1,0 @@
-lar[4209]=`<b>ἀλεκτρυονο·πωλητήριον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> marché à la volaille, PHRYN. (POLL. <i>7, 136).</i><p><b>Étym</b>. ἀ. πωλέω.`

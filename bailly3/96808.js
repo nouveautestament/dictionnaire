@@ -1,1 +1,0 @@
-lar[96808]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> atteinte de gangrène sèche, HPC. <i>Art. 463, 7 ; particul</i>. de carie, HPC. <i>Art. 799 ; en parl. des plantes,</i> dessèchement, TH. <i>H.P. 4, 14, 2</i>.<p><b>Étym</b>. σφακελίζω.`

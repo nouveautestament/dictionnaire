@@ -1,1 +1,0 @@
-lar[4303]=`<b>ων (τὰ)</b> mouture, PLUT. <i>M. 693 e dout</i>.<p><b>Étym</b>. ἀλέω.`

@@ -1,1 +1,0 @@
-lar[61158]=`<b>ῶν (αἱ)</b> Limnes, <i>propr</i>. « les Marais » :<br><b>      1</b> <i>quartier d’Athènes au sud de l’Acropole, avec un temple à Dionysos,</i> THC. <i>2, 15</i> ; AR. <i>Ran. 216, etc.</i><br><b>      2</b> <i>v. de Messénie, sur la frontière de Laconie,</i> CALL. <i>H. 3, 172</i>.`

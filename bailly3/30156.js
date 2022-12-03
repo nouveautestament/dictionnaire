@@ -1,1 +1,0 @@
-lar[30156]=`<i>adv</i>., volontairement, THC. <i>8, 98</i> ; POL. <i>6, 31, 2</i> ; DC. <i>53, 8</i>.<p><b>Étym</b>. ἐθέλω, -δον.`

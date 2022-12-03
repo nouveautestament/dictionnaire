@@ -1,1 +1,0 @@
-lar[4965]=`<b>ῶν (οἱ)</b> Alpènes, <i>v. de la Locride épicnémidienne, près des Thermopyles,</i> HDT. <i>7, 176, 229</i>.`

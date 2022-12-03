@@ -1,1 +1,0 @@
-lar[11107]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰθᾰᾰ]</font> <i>c</i>. ἀπαθανάτισις CORN. <i>188</i>.`

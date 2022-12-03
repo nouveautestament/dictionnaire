@@ -1,1 +1,0 @@
-lar[33610]=`<b>ἐμ·πρόσωπος, ος, ον</b>, qui est devant les yeux de, <i>dat</i>. PHALAR. <i>Ep. 13</i>.<p><b>Étym</b>. ἐν, πρόσωπον.`

@@ -1,1 +1,0 @@
-lar[64531]=`<b>μεσό·κωλον, ου (τὸ)</b> partie du mésentère adhérente à l’intestin côlon, HPC. <i>274, 15</i>.<p><b>Étym</b>. μ. κῶλον.`

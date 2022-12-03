@@ -1,1 +1,0 @@
-lar[23858]=`<b>δενδρο·μαλάχη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> mauve en arbre (<i>althæa rosea</i>) GEOP. <i>15, 5, 5</i>.`

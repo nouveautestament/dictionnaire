@@ -1,1 +1,0 @@
-lar[61765]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de marbre blanc, ANTH. <i>6, 209</i> ; PHILSTR. <i>Im. p. 763</i> ; BABR. <i>30, 1</i>.<br><b>      2</b> blanc comme le marbre λύγδος, ANACR. <i>28, 27</i> ; ANTH. <i>6, 209</i>.<p><b>Étym</b>. λύγδος.`

@@ -1,1 +1,0 @@
-lar[2448]=`<b>ήεσσα, ῆεν</b>, rouge de feu, NIC. <i>Al. 394</i>.<p><b>Étym</b>. αἴθω.`

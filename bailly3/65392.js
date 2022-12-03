@@ -1,1 +1,0 @@
-lar[65392]=`<b>μηλο·θύτης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m.</i> :<br><b>      1</b> qui offre des brebis en sacrifice, EUR. <i>Alc. 121</i>.<br><b>      2</b> où l’on offre des brebis en sacrifice, EUR. <i>I.T. 1116</i>.<p><b>Étym</b>. μῆλον¹, θύω.`

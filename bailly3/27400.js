@@ -1,1 +1,0 @@
-lar[27400]=`<b>οῦ (ἡ) :<br>      1</b> poutre, solive, IL. <i>17, 744</i> ; OD. <i>22, 176</i> ; THC. <i>4, 112</i> ; AR. <i>Nub. 1496</i> ; ARSTT. <i>Rhet. 3, 12, 3</i> ; LUC. <i>Her. 5 ; particul</i>. faîtage (d’un toit) ATHÉNÉE MÉC.<br><b>      2</b> météore en forme de poutre, DL. <i>5, 81</i>.<p>➳ ὁ δ. LUC. <i>V.H. 2, 1</i> ; DÉMÉTR. (DL. <i>5, 81</i>).`

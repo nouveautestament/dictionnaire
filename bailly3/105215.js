@@ -1,1 +1,0 @@
-lar[105215]=`<b>φεψαλόω-ῶ</b> <font color="purple">[ᾰ]</font> réduire en cendres, ESCHL. <i>Pr. 363</i> ; POLÉM. <i>Or. fun. p. 15a</i>.<p><b>Étym</b>. φέψαλος.`

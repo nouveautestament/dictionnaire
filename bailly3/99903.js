@@ -1,1 +1,0 @@
-lar[99903]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> éclaircissement, BAS.<p><b>Étym</b>. τρανόω.`

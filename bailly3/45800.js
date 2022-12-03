@@ -1,1 +1,0 @@
-lar[45800]=`<b>Ἡρακλειο·ξανθίας, ου (ὁ)</b> Hèraklès-Xanthias, <i>càd</i>. Xanthias jouant le rôle d’Hèraklès, AR. <i>Ran. 499</i>.<p><b>Étym</b>. Ἡράκλειος, Ξανθίας.`

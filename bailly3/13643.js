@@ -1,1 +1,0 @@
-lar[13643]=`<b>ή, όν</b>, propre à détourner de, <i>gén</i>. ARSTT. <i>Rhet. Al. 2, 1</i> ; LUC. <i>Philopatr. 8</i>.<p><b>Étym</b>. ἀποτρέπω.`

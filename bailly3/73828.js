@@ -1,1 +1,0 @@
-lar[73828]=`<b>ὀφθαλμο·φανής, ής, ές</b> <font color="purple">[φᾰ]</font> qui se montre aux yeux, visible, STR. <i>75</i> ; ARISTOX. <i>H. p. 41</i>.<p><b>Étym</b>. ὀφθ., φαίνω.`

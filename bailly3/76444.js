@@ -1,1 +1,0 @@
-lar[76444]=`<b>παρα·φυσάω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> enfler secrètement, ES. <i>94 Halm</i>.<br><b>      2</b> détourner, par son souffle, du droit chemin, CLÉM. <i>1, 269 Migne</i>.`

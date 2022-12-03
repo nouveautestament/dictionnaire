@@ -1,1 +1,0 @@
-lar[78393]=`<b>περι·ανοίγω</b> <font color="purple">[ᾰ]</font> ouvrir tout autour, PHIL. <i>2, 597 au pass</i>.`

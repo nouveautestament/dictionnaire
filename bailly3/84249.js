@@ -1,1 +1,0 @@
-lar[84249]=`<b>προ·επίσταμαι</b> <font color="purple">[ᾰ]</font> savoir d’avance, XÉN. <i>Cyr. 4, 3, 12</i> ; PLAT. <i>Gorg. 459e, etc</i>.`

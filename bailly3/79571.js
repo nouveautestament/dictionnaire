@@ -1,1 +1,0 @@
-lar[79571]=`<b>Περί·φας, αντος (ὁ)</b> <font color="purple">[ῑᾱς]</font> Périphas, <i>h</i>. IL. <i>5, 842, 847 ; 17, 323, etc</i>.`

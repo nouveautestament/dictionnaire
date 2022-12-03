@@ -1,1 +1,0 @@
-lar[49759]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆]</font> état politique de l’ἰσοτελής, XÉN. <i>Hell. 2, 4, 25, etc</i>.`

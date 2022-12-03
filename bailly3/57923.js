@@ -1,1 +1,0 @@
-lar[57923]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> garni d’anneaux, CARYST. (ATH. <i>548e</i>) ; κρικωτὴ σφαῖρα, PTOL. <i>Geogr. 7, 6, etc</i>. sphère armillaire.<p><b>Étym</b>. <i>vb. de</i> κρικόω.`

@@ -1,1 +1,0 @@
-lar[84225]=`<b>προ·επαφίημι</b> <font color="darkgreen">(<i>f</i>. -επαφήσω, <i>ao</i>. -επαφῆκα, <i>etc</i>.)</font> lancer en avant <i>ou</i> d’avance contre qqn, LUC. <i>Tox. 54</i>.`

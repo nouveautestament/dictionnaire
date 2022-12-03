@@ -1,1 +1,0 @@
-lar[17193]=`<b>ίδος (ἡ)</b> joueuse d’aulos, AR. <i>Ach. 551</i> ; XÉN. <i>Hell. 2, 2, 23</i> ; PLAT. ISOCR. <i>etc</i>.<p><b>Étym</b>. <i>fém. de</i> αὐλητήρ.`

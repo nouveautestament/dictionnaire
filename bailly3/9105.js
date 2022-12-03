@@ -1,1 +1,0 @@
-lar[9105]=`<b>ἀν·ισάζω</b> <font color="purple">[ῐ]</font> égaler, égaliser, HPC. <i>368, 2</i> ; ARSTT. <i>Inc. an. 7, 11, etc</i>.<p><b>Étym</b>. ἀνά, ἰ.`

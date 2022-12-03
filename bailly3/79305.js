@@ -1,1 +1,0 @@
-lar[79305]=`<b>περι·σπουδάζω</b>, être très empressé, SYMM. <i>Ps. 67, 16</i>.`

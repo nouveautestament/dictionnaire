@@ -1,1 +1,0 @@
-lar[49860]=`<b>ης (ἡ)</b> Istriè, <i>v. du Pont,</i> HDT. <i>2, 33</i>.`

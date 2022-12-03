@@ -1,1 +1,0 @@
-lar[60685]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f.</i> :<br><b>      1</b> <i>c</i>. λεχώ, A.RH. <i>4, 136</i> ; CALL. <i>Del. 56, 124 ; Dian. 121</i>.<br><b>      2</b> <i>c</i>. λεχώϊος, NONN. <i>Jo. 9, 3</i>.<p><b>Étym</b>. λεχώ.`

@@ -1,1 +1,0 @@
-lar[89736]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par rapport à la lune, selon la lune, PROCL. <i>Plat. Parm. 631</i>.`

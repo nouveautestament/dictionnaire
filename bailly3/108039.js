@@ -1,1 +1,0 @@
-lar[108039]=`<b>ῶνος (ὁ)</b> pâtisserie légère, SPT. <i>Jer. 44, 19</i>.<p><b>Étym</b>. <i>hébr</i>. kavvân.`

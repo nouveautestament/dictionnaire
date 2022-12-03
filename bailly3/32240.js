@@ -1,1 +1,0 @@
-lar[32240]=`<b>ἐκ·τροχάζω :<br>      1</b> s’élancer, APD. <i>2, 7, 3</i>.<br><b>      2</b> parcourir, exposer en détail, <i>acc</i>. DIOSC. <i>Iob. 2</i>.<p><b>Étym</b>. ἐκτρέχω.`

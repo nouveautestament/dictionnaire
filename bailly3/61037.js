@@ -1,1 +1,0 @@
-lar[61037]=`<b>λιθό·βολος, ος, ον</b> <font color="purple">[ῐ]</font> lapidé, EUR. <i>Ph. 1062</i>.<p><b>Étym</b>. λ. βάλλω.`

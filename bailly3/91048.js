@@ -1,1 +1,0 @@
-lar[91048]=`<b>σκληρο·τράχηλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a le cou dur, <i>fig</i>. entêté, SPT. <i>Ex. 33, 3, etc.</i> ; NT. <i>Ap. 7, 51</i>.<p><b>Étym</b>. σκληρός, τράχηλος.`

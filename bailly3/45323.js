@@ -1,1 +1,0 @@
-lar[45323]=`<b>      1</b> passer la journée : ἔν τινι τόπῳ, XÉN. <i>Hell. 5, 4, 3,</i> dans un lieu ; <i>abs</i>. passer la journée à faire une marche, ESCHL. <i>Ch. 710</i>.<br><b>      2</b> passer ses jours, vivre, SOPH. <i>El. 787</i>.<p><b>Étym</b>. ἡμέρα.`

@@ -1,1 +1,0 @@
-lar[10801]=`<b>ου (ὁ)</b> Anytos :<br><b>      1</b> <i>accusateur de Socrate,</i> XÉN. <i>Hell. 2, 3, 44 ; Ap. 29</i> ; PLAT. <i>Ap. 18b, etc.</i><br><b>      2</b> <i>autre,</i> DÉM. <i>59, 61 Baiter-Sauppe</i>.`

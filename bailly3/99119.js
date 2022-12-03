@@ -1,1 +1,0 @@
-lar[99119]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> nourrisson, CHÆRÉM. (ATH. <i>608e</i>).<p><b>Étym</b>. τιθηνέω.`

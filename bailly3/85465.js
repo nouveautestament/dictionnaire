@@ -1,1 +1,0 @@
-lar[85465]=`<b>προσ·εγγίζω :<br>      1 <i>tr.</i></b> approcher : τί τινι, LUC. <i>Am. 53,</i> une chose d’une autre.<br><b>      2 <i>intr.</i></b> s’approcher de, <i>dat</i>. ANTH. <i>7, 422</i> ; DS. <i>3, 16 ; abs</i>. POL. <i>39, 1, 4</i>.`

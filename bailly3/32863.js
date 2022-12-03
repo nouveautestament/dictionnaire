@@ -1,1 +1,0 @@
-lar[32863]=`<b>οῦ (ὁ)</b> action d’être entraîné, capture avec violence, IL. <i>6, 465</i> ; NYSS. <i>2, 259, 260</i>.<p><b>Étym</b>. ἑλκέω.`

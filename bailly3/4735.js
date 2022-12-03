@@ -1,1 +1,0 @@
-lar[4735]=`<b>ἀλληλο·γονία, ας (ἡ)</b> procréation mutuelle, NYSS. <i>2, 205 Migne</i>.<p><b>Étym</b>. ἀ. γόνος.`

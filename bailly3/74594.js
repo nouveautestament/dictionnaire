@@ -1,1 +1,0 @@
-lar[74594]=`<b>παλίν·στρεπτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui retourne sur ses pas, MAX. <i>π. κατ. 80</i>.<p><b>Étym</b>. π. στρέφω ; <i>cf</i>. παλίστρεπτος.`

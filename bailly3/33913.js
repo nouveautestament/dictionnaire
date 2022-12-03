@@ -1,1 +1,0 @@
-lar[33913]=`<b>ἐν·αολλής, ής, ές</b>, rassemblé, compact, NIC. <i>Al. 236</i>.`

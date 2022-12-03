@@ -1,1 +1,0 @@
-lar[79392]=`<b>περι·στεφανόω-ῶ</b> <font color="purple">[ᾰ]</font> ceindre d’une couronne, <i>d’où</i> :<br><b>      1</b> ceindre, entourer, AR. <i>Pl. 787 ; au pass</i>. HDT. <i>7, 92, 130</i>.<br><b>      2</b> disposer circulairement, DH. <i>3, 30 ; 8, 66 ; au pass</i>. ARSTT. <i>Mund. 3, 13</i>.`

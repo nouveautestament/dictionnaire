@@ -1,1 +1,0 @@
-lar[62200]=`<b>εως (ἡ)</b> cessation, repos, THC. <i>4, 81</i>.<p><b>Étym</b>. λωφάω.`

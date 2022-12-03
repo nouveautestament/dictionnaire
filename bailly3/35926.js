@@ -1,1 +1,0 @@
-lar[35926]=`<b>ἑξηκοντα·εννέα</b>, <i>n. de n. indécl</i>. soixante-neuf, SPT. <i>1Esdr. 2, 13</i>.`

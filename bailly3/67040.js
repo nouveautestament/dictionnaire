@@ -1,1 +1,0 @@
-lar[67040]=`<b>μυθογραφέω-ῶ</b> <font color="purple">[ῡᾰ]</font> écrire <i>ou</i> composer des fables, des récits fabuleux, STR. <i>157</i>.<p><b>Étym</b>. μυθογράφος.`

@@ -1,1 +1,0 @@
-lar[64119]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> lieu où l’on prépare le miel, STR. <i>16, 4, 2 Kram</i>.<p><b>Étym</b>. *μελιτουργός, <i>de</i> μέλι, ἔργον.`

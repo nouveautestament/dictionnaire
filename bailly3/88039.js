@@ -1,1 +1,0 @@
-lar[88039]=`<font color="purple">[ῠ]</font> <i>adv</i>., en brûlant, DIOGÈNE <i>p. 252 Mullach</i>. (STOB. <i>Ecl. 1, 508).</i><p><b>Étym</b>. πυρώδης.`

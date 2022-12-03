@@ -1,1 +1,0 @@
-lar[62843]=`<b>ου (ὁ)</b> <font color="purple">[ῐσ]</font> Mantisios, <i>litt</i>. le devin, <i>surn. du poète Kalliktèr,</i> ANTH. <i>11, 5</i>.<p><b>Étym</b>. μάντις.`

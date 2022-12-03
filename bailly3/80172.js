@@ -1,1 +1,0 @@
-lar[80172]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> action d’engraisser, engrais, EL. <i>N.A. 13, 25</i>.<p><b>Étym</b>. πιαίνω.`

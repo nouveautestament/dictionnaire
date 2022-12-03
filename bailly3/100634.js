@@ -1,1 +1,0 @@
-lar[100634]=`<b>τριχοποιέω-ῶ</b> <font color="purple">[ῐ]</font> faire pousser les cheveux, CASS. <i>Probl. 50</i> ; A. TR. <i>1, p. 3</i>.<p><b>Étym</b>. τριχοποιός.`

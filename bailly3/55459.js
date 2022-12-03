@@ -1,1 +1,0 @@
-lar[55459]=`<b>ας (ἡ)</b> économie sordide, ladrerie, ARSTT. <i>Virt. et vit. 7, 3</i>.`

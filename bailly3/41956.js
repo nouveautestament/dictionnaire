@@ -1,1 +1,0 @@
-lar[41956]=`<b>εὐ·έκβατος, ος, ον</b> <font color="purple">[ᾰ]</font> d’où l’on peut facilement sortir, HPC. <i>Acut. 39</i>.<p><b>Étym</b>. εὖ, ἐκβαίνω.`

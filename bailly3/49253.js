@@ -1,1 +1,0 @@
-lar[49253]=`<b>ἱππ·άφεσις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> barrière d’où les chevaux s’élançaient dans les courses, POL. <i>Fr. gr. 76</i> ; DH. <i>3, 68</i> ; ANTH. <i>App. 274</i>.<p><b>Étym</b>. ἵππος, ἄφεσις.`

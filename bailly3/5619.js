@@ -1,1 +1,0 @@
-lar[5619]=`<b>ου (ὁ)</b> Amisôdaros, <i>roi de Carie,</i> IL. <i>16, 328</i>.`

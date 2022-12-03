@@ -1,1 +1,0 @@
-lar[77327]=`<b>(ὁ)</b> Patèsiadas, <i>h</i>. XÉN. <i>Hell. 2, 3, 10</i>.`

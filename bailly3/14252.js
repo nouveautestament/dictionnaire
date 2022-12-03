@@ -1,1 +1,0 @@
-lar[14252]=`<b>ἀργι·κέρως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux cornes blanches, ORACL. (DS. <i>Exc. p. 4).</i><p><b>Étym</b>. ἀργός¹, κέρας.`

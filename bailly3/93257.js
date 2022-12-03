@@ -1,1 +1,0 @@
-lar[93257]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> συγκαλύπτω, ESCHL. <i>Pr. 496</i>.`

@@ -1,1 +1,0 @@
-lar[52538]=`<b>κατα·κισσηρίζω</b> (<i>part. pf. pass</i>. κατακεκισσηρισμένος) frotter avec la pierre ponce, ATH. <i>529a</i>.<p><b>Étym</b>. κ. κίσσηρις.`

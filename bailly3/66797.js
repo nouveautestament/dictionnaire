@@ -1,1 +1,0 @@
-lar[66797]=`<b>ας (ἡ)</b> plantation d’une marcotte, PHIL. PARADOX. <i>VII mir. c. 1, p. 6</i>.<p><b>Étym</b>. μοσχεύω.`

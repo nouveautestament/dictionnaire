@@ -1,1 +1,0 @@
-lar[39670]=`<b>ἐπι·χαυνόομαι-οῦμαι</b>, s’enfler de, s’enorgueillir de, <i>dat</i>. JAMBL. <i>Protr. p. 362</i>.`

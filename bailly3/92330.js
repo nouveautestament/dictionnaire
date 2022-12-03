@@ -1,1 +1,0 @@
-lar[92330]=`<b>ης, ες</b>, en forme de tige <i>ou</i> de tronc, TH. <i>H.P. 3, 15, 1 ; 3, 17, 1</i> ; DIOSC. <i>4, 73</i>.<p><b>Étym</b>. στέλεχος, -ωδης.`

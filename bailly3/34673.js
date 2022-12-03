@@ -1,1 +1,0 @@
-lar[34673]=`<b>ἐν·λαξεύω</b> (<i>pf. pass. 3 pl</i>. ἐνλελάξευνται) graver sur la pierre, ANTH. <i>3, 9</i>.`

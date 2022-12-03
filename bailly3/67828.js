@@ -1,1 +1,0 @@
-lar[67828]=`<i>adv</i>., comme les matelots ; ν. δανείζειν, DL. <i>7, 13,</i> prêter de l’argent à la grosse, <i>càd. avec de gros risques de pertes ou de profits, selon l’échec ou le succès d’une affaire maritime</i>.`

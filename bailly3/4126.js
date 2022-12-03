@@ -1,1 +1,0 @@
-lar[4126]=`<b>ἀλγεσί·δωρος, ος, ον</b> <font color="purple">[ῐ]</font> qui cause de la douleur, OPP. <i>H. 2, 668</i>.<p><b>Étym</b>. ἄλγος, δῶρον.`

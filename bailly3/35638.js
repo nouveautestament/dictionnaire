@@ -1,1 +1,0 @@
-lar[35638]=`<b>ἐξ·ασφαλίζομαι</b> <font color="purple">[φᾰ]</font> rendre tout à fait sûr, <i>acc</i>. CIC. <i>Att. 6, 4, 3</i> ; STR. <i>17, 1, 54 Kram.</i> ; JOS. <i>B.J. 2, 8, 7</i>.`

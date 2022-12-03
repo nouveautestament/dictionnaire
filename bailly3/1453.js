@@ -1,1 +1,0 @@
-lar[1453]=`<b>ἀ·δίχαστος, ος, ον</b> <font color="purple">[ῐ]</font> qu’on ne peut diviser en deux nombres entiers, NICOM. <i>Theol. 78</i>.<p><b>Étym</b>. ἀ, διχάζω.`

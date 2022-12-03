@@ -1,1 +1,0 @@
-lar[42302]=`<b>εὐθυ·σκοπέω-ῶ</b>, regarder droit devant soi, PLUT. <i>M. 737a</i>.`

@@ -1,1 +1,0 @@
-lar[101119]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. τυρεία, ARSTT. <i>H.A. 3, 20, 13</i>.`

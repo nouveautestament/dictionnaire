@@ -1,1 +1,0 @@
-lar[2673]=`<i>adv</i>., par énigmes, ESCHL. <i>Pr. 949</i>.`

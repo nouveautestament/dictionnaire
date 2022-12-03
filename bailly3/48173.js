@@ -1,1 +1,0 @@
-lar[48173]=`<i>gén</i>. <b>θωπός (ὁ) :<br>      1</b> flatteur HDT. <i>3, 80</i> ; ANT. (Suid.).<br><b>      2</b> <i>adj</i>. θῶπες λόγοι, PLAT. <i>Theæt. 175e</i>, discours flatteurs.<p><b>Étym</b>. <i>cf</i>. θωπεύω.`

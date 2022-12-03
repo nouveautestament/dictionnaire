@@ -1,1 +1,0 @@
-lar[36637]=`il faut revenir sur qqe ch., repasser qqe ch. ARSTT. <i>Gen. et corr. 1, 3, 5</i>.<p><b>Étym</b>. <i>vb. de</i> *ἐπαναποδίζω, <i>de</i> ἐπί, ἀ.`

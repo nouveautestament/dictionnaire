@@ -1,1 +1,0 @@
-lar[47552]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> banc, escabeau, AR. <i>Ran. 121</i> ; EL. <i>N.A. 16, 33</i>.<p><b>Étym</b>. <i>dim. de</i> θρᾶνος.`

@@ -1,1 +1,0 @@
-lar[42392]=`<b>εὐ·κατάπρηστος, ος, ον</b>, facile à consumer par le feu, BAS. <i>1, 225 ; 3, 377d Migne</i>.<p><b>Étym</b>. εὖ, καταπίμπρημι.`

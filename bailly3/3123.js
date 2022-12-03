@@ -1,1 +1,0 @@
-lar[3123]=`<b>ἀκανθο·φάγος, ος, ον</b> <font color="purple">[ᾰκφᾰ]</font> qui mange des chardons, ARSTT. <i>H.A. 8, 3, 6</i>.<p><b>Étym</b>. ἄκ. φαγεῖν.`

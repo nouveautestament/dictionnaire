@@ -1,1 +1,0 @@
-lar[79814]=`<b>ατος (τὸ) :<br>      1</b> chute, ESCHL. <i>Suppl. 937</i> ; SOPH. <i>Aj. 1033</i> ; EUR. <i>Ph. 640</i>.<br><b>      2</b> corps tombé, EUR. <i>Andr. 653</i>.<p><b>Étym</b>. πίπτω.`

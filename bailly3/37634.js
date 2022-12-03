@@ -1,1 +1,0 @@
-lar[37634]=`<b>εως (ἡ)</b> correction pour atténuer ce qu’on vient de dire, HDN GR. π. σχημ. <i>p. 53, 55</i>.`

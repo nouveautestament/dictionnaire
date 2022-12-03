@@ -1,1 +1,0 @@
-lar[7484]=`<b>ου (ὁ)</b> qui enflamme (les esprits, les peuples, <i>etc</i>.) NAZ. <i>2, 485 Migne</i>.<p><b>Étym</b>. ἀνάπτω².`

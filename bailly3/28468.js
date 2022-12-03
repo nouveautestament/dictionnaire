@@ -1,1 +1,0 @@
-lar[28468]=`<b>δυσ·ήκεστος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à guérir, HPC. <i>Fract. 770 fin</i> ; ANTH. <i>3, 19</i>.<p><b>Étym</b>. δ. ἀκέομαι.`

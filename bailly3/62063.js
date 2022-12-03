@@ -1,1 +1,0 @@
-lar[62063]=`<b>ας (ἡ)</b> <font color="purple">[ῡῐ]</font> avantage, gain, profit, TH. (DL. <i>5, 54</i>) ; POL. <i>38, 13, 11</i> ; DS. <i>1, 36, etc</i>.<p><b>Étym</b>. λυσιτελής.`

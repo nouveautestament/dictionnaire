@@ -1,1 +1,0 @@
-lar[54793]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> le Kérameikos (Céramique) <i>propr</i>. le quartier des potiers :<br><b>      1</b> <i>place publique d’Athènes,</i> SCH.-AR. <i>Eq. 769</i>.<br><b>      2</b> <i>faubourg d’Athènes où l’on enterrait les soldats morts en combattant,</i> SCH.-AR. <i>Av. 395 ; cf</i>. THC. <i>2, 34</i>.<p><b>Étym</b>. κεραμεύς.`

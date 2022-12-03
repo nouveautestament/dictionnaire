@@ -1,1 +1,0 @@
-lar[108588]=`<b>χλο·αυγής, ής, ές</b>, qui brille d’un vert tendre <i>ou</i> d’un jaune pâle, LUC. <i>Dom. 11</i>.<p><b>Étym</b>. χλόη, αὐγή.`

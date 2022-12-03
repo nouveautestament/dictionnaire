@@ -1,1 +1,0 @@
-lar[40858]=`<i>part. ao. pass. de</i> εἵργω.`

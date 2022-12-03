@@ -1,1 +1,0 @@
-lar[7952]=`<b>εως (ἡ) :<br>      1</b> action d’allumer, DH. <i>2, 66</i>.<br><b>      2</b> action de s’allumer, PLUT. <i>M. 355c ; en parl. des étoiles,</i> EPIC. (DL. <i>10, 92).</i><p><b>Étym</b>. ἀνάπτω².`

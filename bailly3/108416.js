@@ -1,1 +1,0 @@
-lar[108416]=`<b>χθονο·βριθής, ής, ές</b> <font color="purple">[ῑ]</font> qui pèse sur la terre, accablant pour la terre, SYN. <i>Hymn. 4, 289</i>.<p><b>Étym</b>. χθών, βρῖθος.`

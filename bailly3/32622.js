@@ -1,1 +1,0 @@
-lar[32622]=`<b>ῆρος (ὁ)</b> celui qui réfute <i>ou</i> convainc, ANT. <i>119, 32</i>.<p><b>Étym</b>. ἐλέγχω.`

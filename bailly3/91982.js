@@ -1,1 +1,0 @@
-lar[91982]=`<b>έως (ὁ)</b> sorte de pain, PHILÉT. (ATH. <i>114e</i>).`

@@ -1,1 +1,0 @@
-lar[109201]=`<b>χρυσο·λάχανον, ου (τὸ)</b> <font color="purple">[ῡᾰᾰ]</font> arroche, <i>plante,</i> GEOP. <i>2, 145</i>.<p><b>Étym</b>. χρ. λάχανον.`

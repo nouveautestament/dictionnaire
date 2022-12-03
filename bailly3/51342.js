@@ -1,1 +1,0 @@
-lar[51342]=`<b>καλυκο·στέφανος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> couronné de boutons de fleurs, <i>particul</i>. de boutons de roses, ANTH. <i>6, 55</i> ; POÈT. (PLUT. <i>M. 993e</i>).<p><b>Étym</b>. κάλυξ, στέφανος.`

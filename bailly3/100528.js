@@ -1,1 +1,0 @@
-lar[100528]=`<b>ας (ἡ)</b> Tritæa, <i>v. d’Achaïe,</i> PLUT. <i>Arat. 11, Cleom. 16, etc</i>.`

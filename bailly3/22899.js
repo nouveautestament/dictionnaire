@@ -1,1 +1,0 @@
-lar[22899]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> étui d’un arc, OD. <i>21, 54</i>.<br><b>      2</b> carquois, LYC. <i>458</i> ; LUC. <i>Herc. 1</i>.<p>➳ ἡ γ. ANTH. <i>6, 34</i>.`

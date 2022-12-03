@@ -1,1 +1,0 @@
-lar[11121]=`<b>ας (ἡ)</b> manque d’enfants, HDT. <i>6, 139</i> ; SOPH. <i>O.R. 1024</i> ; EUR. <i>Ion 513, etc</i>.<p>➳ <font color="purple">[ῑ]</font> MAN. <i>6, 239. Ion</i>. -ίη, HDT. MAN. <i>ll. cc</i>.<p><b>Étym</b>. ἄπαις.`

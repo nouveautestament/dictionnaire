@@ -1,1 +1,0 @@
-lar[63139]=`<b>ματαιο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui fait des sottises, ATH. <i>179f</i>.<p><b>Étym</b>. μάταιος, ποιέω.`

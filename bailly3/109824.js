@@ -1,1 +1,0 @@
-lar[109824]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> goutte, <i>au pl</i>. IL. <i>16, 459</i> ; HÉS. <i>Sc. 384</i>.<p><b>Étym</b>. ψίω.`

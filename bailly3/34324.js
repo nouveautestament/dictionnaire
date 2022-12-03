@@ -1,1 +1,0 @@
-lar[34324]=`<font color="purple">[ᾰ]</font> donner un lavement, AÉT.<p><b>Étym</b>. ἔνεμα.`

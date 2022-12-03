@@ -1,1 +1,0 @@
-lar[42132]=`<b>Εὐ·ήνωρ, ορος (ὁ)</b> Euènor, <i>h</i>. PLAT. <i>Criti. 113b, etc.</i> ; ANTH. <i>App. 59, etc</i>.<p><b>Étym</b>. <i>v</i>. εὐήνωρ.`

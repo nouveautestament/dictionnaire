@@ -1,1 +1,0 @@
-lar[106749]=`<b>ου (ὁ)</b> = <i>lat</i>. folliculus, ballon, ATH. <i>14f</i>.`

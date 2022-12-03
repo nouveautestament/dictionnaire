@@ -1,1 +1,0 @@
-lar[2843]=`<b>ή, όν</b>, perceptible par les sens, sensible, PLAT. <i>Tim. 37b etc.</i> ; SEXT. <i>756, 22 Bkk. ; p. opp. à</i> νοητός, PLAT. <i>Pol. 285e</i>.<p>➳ <i>Fém</i>. -ός, PLAT. <i>Men. 76d</i>.`

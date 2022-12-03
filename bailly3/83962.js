@@ -1,1 +1,0 @@
-lar[83962]=`<b>προ·διεξέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> -εξῆλθον, <i>etc</i>.) :</font><br><b>      1</b> traverser le premier, XÉN. <i>Cyn. 5, 4</i>.<br><b>      2</b> <i>fig</i>. aller auparavant à travers, ESCHN. <i>2, 10</i>.`

@@ -1,1 +1,0 @@
-lar[50050]=`<b>ά, όν</b>, de poisson, AR. <i>Pl. 813</i> ; LUC. <i>Lex. 5</i>.<p><b>Étym</b>. ἰχθύς.`

@@ -1,1 +1,0 @@
-lar[107765]=`<b>χαμαί·κισσος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> lierre terrestre, <i>plante,</i> DIOSC. <i>4, 126</i> ; PLIN. <i>H.N. 16, 62, etc</i>.<p><b>Étym</b>. χ. κισσός.`

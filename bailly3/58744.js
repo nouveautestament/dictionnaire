@@ -1,1 +1,0 @@
-lar[58744]=`<b>κύν·ειρα, ας (ἡ)</b> <font color="purple">[ῠ]</font> laisse de chien, COM. AN. <i>fr. 121 Mein</i>.<p><b>Étym</b>. κύων, εἰρύω.`

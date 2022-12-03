@@ -1,1 +1,0 @@
-lar[20301]=`<font color="purple">[ῡ]</font> <i>adv</i>., par grappe, en forme de grappe, IL. <i>2, 89</i> ; TH. <i>H.P. 3, 16, 4 (var</i>. βοτρυηδόν) ; OPP. <i>H. 1, 550</i> ; GEOP. <i>15, 2, 28</i>.<p><b>Étym</b>. βότρυς.`

@@ -1,1 +1,0 @@
-lar[8959]=`<b>ἀνθρωπό·λιχνος, ος, ον</b>, gourmand de chair humaine, HERM. (STOB. <i>Ecl. 1, 1074).</i><p><b>Étym</b>. ἄ. λίχνος.`

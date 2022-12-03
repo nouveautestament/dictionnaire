@@ -1,1 +1,0 @@
-lar[61261]=`<b>ός, όν</b> <font color="purple">[ῐ]</font> filé <i>ou</i> tissu en lin, ION (ATH. <i>451e</i>).<p><b>Étym</b>. λ. ἕλκω.`

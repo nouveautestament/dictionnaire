@@ -1,1 +1,0 @@
-lar[83663]=`<b>προ·απόλλυμι</b> (<i>seul. pf</i>. προαπόλωλα <i>au sens intr</i>.) succomber auparavant, DÉM. <i>50, 24</i>.<br><b><i>Moy</i>. προαπόλλυμαι</b>, être détruit <i>ou</i> périr avant ; <i>gén</i>. LYS. <i>193, 3 ; abs</i>. THC. <i>5, 61 ; 6, 77</i> ; ANT. <i>137, 20</i>.<p>➳ <i>Sbj. prés. pass. 3 sg</i>. προαπολλύηται, PLAT. <i>Phæd. 91d</i>.`

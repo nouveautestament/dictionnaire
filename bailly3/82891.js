@@ -1,1 +1,0 @@
-lar[82891]=`<b>α, ον</b> <font color="purple">[ᾰσ]</font> combien de fois plus grand ? PLAT. <i>Men. 83b</i>.<p><b>Étym</b>. πόσος, -πλάσιος.`

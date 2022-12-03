@@ -1,1 +1,0 @@
-lar[3584]=`<b>ἀ·κοσμήεις, ήεσσα, ῆεν</b>, troublé, furieux, <i>en parl. de la mer,</i> NIC. <i>Al. 175</i>.<p><b>Étym</b>. ἀ, κόσμος.`

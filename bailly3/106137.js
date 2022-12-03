@@ -1,1 +1,0 @@
-lar[106137]=`<b>ας (ἡ) :<br>      1</b> goût des arts <i>ou</i> de l’élégance, <i>d’où</i> culture des arts, PLAT. <i>Criti. 109c ;</i> ARR. <i>Epict. 2, 5, 21</i>.<br><b>      2</b> habileté, <i>en mauv. part,</i> CTÉS. (DS. <i>2, 8</i>) ; DS. <i>3, 37</i>.<p><b>Étym</b>. φιλότεχνος.`

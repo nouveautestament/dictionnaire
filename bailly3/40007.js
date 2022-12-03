@@ -1,1 +1,0 @@
-lar[40007]=`<b>ἑπτά·πλευρος, ος, ον</b>, à sept côtés <i>ou</i> côtes, ARSTT. <i>H.A. 1, 15, 1</i> ; τὸ ἑπτάπλευρον, DIOSC. <i>2, 153,</i> plantain, <i>plante</i>.<p><b>Étym</b>. ἑ. πλευρά.`

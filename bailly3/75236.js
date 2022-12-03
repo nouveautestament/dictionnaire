@@ -1,1 +1,0 @@
-lar[75236]=`<b>παντο·γόνος, ος, ον</b>, qui engendre tout, ORACL. (ZOS. <i>2, 6).</i><p><b>Étym</b>. π. γίγνομαι.`

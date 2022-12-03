@@ -1,1 +1,0 @@
-lar[56225]=`<i>réc</i>. <b>γναφαλώδης, ης, ες</b> <font color="purple">[ᾰᾰ]</font> moelleux comme la laine, DIOSC. <i>3, 37</i> (γν-) ; A. TR. <i>1, p. 27</i> (κν-).<p><b>Étym</b>. κνάφαλον, -ωδης.`

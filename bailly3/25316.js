@@ -1,1 +1,0 @@
-lar[25316]=`<b>δια·ποικίλλω :<br>      1</b> parsemer de broderies, broder, ARSTT. <i>H.A. 2, 11, 6</i> ; PLUT. <i>Sert. 14, fig. en parl. de poésie,</i> ISOCR. <i>190e.</i><br><b>      2</b> former de parties diverses, PLAT. <i>Leg. 693d</i>.`

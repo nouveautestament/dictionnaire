@@ -1,1 +1,0 @@
-lar[94168]=`<i>adv</i>., en conclusion, ARSTT. <i>Soph. el. 15, 11</i>.<p><b>Étym</b>. συμπεραίνω.`

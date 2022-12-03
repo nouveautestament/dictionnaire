@@ -1,1 +1,0 @@
-lar[94611]=`<b>συν·αιχμαλωτίζω</b> <font color="purple">[ᾰ]</font> faire prisonnier avec <i>ou</i> ensemble, SEXT. <i>M. 1, 295 au pass</i>.`

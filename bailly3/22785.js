@@ -1,1 +1,0 @@
-lar[22785]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> petite femme, femmelette, DIOCL. <i>(Bkk. 87</i>) ; M. ANT. <i>5, 11</i> ; EPICT. <i>Ench. 7</i> ; NT. <i>2Tim. 3, 6</i>.<p><b>Étym</b>. <i>dim. de</i> γυνή.`

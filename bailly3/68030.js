@@ -1,1 +1,0 @@
-lar[68030]=`<b>ης, ες</b>, qui ressemble à un mort, à un cadavre, LUC. <i>Ep. sat. 28</i> ; ARÉT. <i>p. 24, 25, etc</i>.<p><b>Étym</b>. νεκρός, -ωδης.`

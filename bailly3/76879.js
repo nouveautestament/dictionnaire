@@ -1,1 +1,0 @@
-lar[76879]=`<b>παρ·ησυχάζω</b> <font color="purple">[ῠ]</font> passer sous silence, <i>acc</i>. PHIL. <i>1, 93</i>.`

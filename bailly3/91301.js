@@ -1,1 +1,0 @@
-lar[91301]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> dépouille d’un ennemi tué, <i>d’où</i> dépouille <i>en gén</i>. THC. <i>4, 44</i> ; EUR. <i>Ph. 857, Ion 1145</i>.<p><b>Étym</b>. σκυλεύω.`

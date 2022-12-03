@@ -1,1 +1,0 @@
-lar[96795]=`<b>σφαιρο·παικτική, ῆς (ἡ)</b> <font color="purple">[τῐ]</font> (<i>s.-e</i>. τέχνη) l’art de jouer à la balle, SOPATER (<i>W. 5, 22).</i><p><b>Étym</b>. σφαῖρα, παίζω.`

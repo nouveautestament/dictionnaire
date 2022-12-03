@@ -1,1 +1,0 @@
-lar[3151]=`<b>ἀκαρπέω-ῶ</b>, ne pas donner de fruit, TH. <i>H.P. 3, 3, 4</i>.<p><b>Étym</b>. ἄκαρπος.`

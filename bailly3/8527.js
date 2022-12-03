@@ -1,1 +1,0 @@
-lar[8527]=`<b>ἀν·επίφθονος, ος, ον</b>, qui n’excite pas l’envie, <i>d’où</i> irrépréhensible, irréprochable, SOPH. <i>Tr. 1033</i> ; THC. <i>6, 83</i> ; PLAT. <i>Rsp. 612b</i>.<p>•<i> Cp</i>. -ώτερος, ISOCR. <i>Antid. p. 443, 107 ; • Sup</i>. -ώτατος, DÉM. <i>331, 33</i>.<p><b>Étym</b>. ἀν-, ἐπίφθονος.`

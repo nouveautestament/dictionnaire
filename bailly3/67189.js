@@ -1,1 +1,0 @@
-lar[67189]=`se terminer en queue de rat, DP. <i>405</i>.<p><b>Étym</b>. μύουρος.`

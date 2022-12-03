@@ -1,1 +1,0 @@
-lar[90882]=`<b>ης (ἡ)</b> ombre, <i>poisson de mer,</i> ARSTT. <i>H.A. 8, 19, 5</i> ; EL. <i>N.A. 9, 7</i> ; ATH. <i>322f</i>.<p><b>Étym</b>. σκιά.`

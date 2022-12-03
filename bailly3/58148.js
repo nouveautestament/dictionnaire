@@ -1,1 +1,0 @@
-lar[58148]=`<b>κρυμο·παγής, ής, ές</b> <font color="purple">[ῡᾰ]</font> glacial, qui glace, ORPH. <i>H. 79, 2</i>.<p><b>Étym</b>. κρυμός, πήγνυμι.`

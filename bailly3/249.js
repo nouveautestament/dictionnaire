@@ -1,1 +1,0 @@
-lar[249]=`<b>ἀγαθο·γονία, ας (ἡ)</b> <font color="purple">[ᾰγᾰ]</font> procréation du bien, JAMBL.<p><b>Étym</b>. ἀγ. γονή.`

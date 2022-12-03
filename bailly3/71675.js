@@ -1,1 +1,0 @@
-lar[71675]=`<b>*ὁμό·ρρυθμος</b>, <i>ion</i>. <b>ὁμό·ρρυσμος, ος, ον</b>, d’égale proportion, exactement semblable, HPC. <i>915h</i>.<p><b>Étym</b>. ὁμ. ῥυθμός.`

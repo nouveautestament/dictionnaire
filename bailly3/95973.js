@@ -1,1 +1,0 @@
-lar[95973]=`<b>συν·θραύω</b>, briser, broyer, fracasser, EUR. <i>Or. 1569</i> ; PLUT. <i>Arist. 18 ; au pass</i>. XÉN. <i>Ages. 2, 14</i> ; POL. <i>8, 7, 11, etc</i>.`

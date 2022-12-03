@@ -1,1 +1,0 @@
-lar[77354]=`<b>ας (ἡ)</b> patriarcat, BAS. <i>4, 641 Migne, etc</i>.<p><b>Étym</b>. πατριάρχης.`

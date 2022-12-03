@@ -1,1 +1,0 @@
-lar[23853]=`<b>ή, όν</b>, qui concerne la végétation des arbres, EL. <i>N.A. 13, 18</i>.<p><b>Étym</b>. δενδρόκομος.`

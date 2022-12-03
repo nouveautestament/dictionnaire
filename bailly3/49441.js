@@ -1,1 +1,0 @@
-lar[49441]=`<b>ἱππο·τυφία, ας (ἡ)</b> <font color="purple">[ῡ]</font> faste <i>ou</i> orgueil excessif, PLAT. (DL. <i>3, 39</i>) ; LUC. <i>H. conscr. 45</i>.<p><b>Étym</b>. ἵ. τῦφος.`

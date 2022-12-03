@@ -1,1 +1,0 @@
-lar[77917]=`<b>ας (ἡ)</b> Penthésileia, <i>fille d’Arès, reine des Amazones,</i> Q. SM. <i>1, 19, etc</i>.<p>➳ <i>Ion. et épq. gén</i>. -ης, Q. SM. <i>1, 314, etc. ; dat</i>. -ῃ, Q. SM. <i>1, 47, etc. ; dans une inscr. att. du 7<sup>e</sup>/6<sup>e</sup> siècle av. J.-C</i>. Πενθεσιλέα, <i>v. Meisterh. p. 33, 1</i>.<p><b>Étym</b>. πένθος.`

@@ -1,1 +1,0 @@
-lar[35133]=`<b>ἔν·τριχος, ος, ον</b> <font color="purple">[ῐ]</font> chevelu, ANTH. <i>14, 62</i> ; SYMM. <i>Ps. 67, 22</i>.<p><b>Étym</b>. ἐν, θρίξ.`

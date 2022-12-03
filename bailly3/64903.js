@@ -1,1 +1,0 @@
-lar[64903]=`<b>μετα·πιπίσκω</b> (<i>seul. prés</i>.) donner à boire, HPC. <i>484, 20</i>.`

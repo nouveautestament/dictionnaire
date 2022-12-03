@@ -1,1 +1,0 @@
-lar[23987]=`<b>ου (τὸ) :<br>      1</b> lien, <i>au plur</i>. ANTH. <i>9, 479</i>.<br><b>      2</b> petite gerbe, petite botte, petite poignée, A. TR. <i>9, p. 158</i>.<p><b>Étym</b>. <i>dim. de</i> δεσμός.`

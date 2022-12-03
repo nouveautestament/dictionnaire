@@ -1,1 +1,0 @@
-lar[18333]=`<i>adv</i>., sans dispositions naturelles, sans aptitude (pour qqe ch.) POL. <i>1, 88, 11</i> ; PLUT. <i>Æmil. 6</i>.<p><b>Étym</b>. ἀφυής.`

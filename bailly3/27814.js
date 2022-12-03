@@ -1,1 +1,0 @@
-lar[27814]=`<b>δρακοντό·μορφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a la forme d’un dragon <i>ou</i> d’un serpent, LYC. <i>1043</i>.<p><b>Étym</b>. δράκων, μορφή.`

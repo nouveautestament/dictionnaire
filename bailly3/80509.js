@@ -1,1 +1,0 @@
-lar[80509]=`<b>ῶν (οἱ)</b> descendants de Pitthée, ANTH. <i>App. 299</i>.<p><b>Étym</b>. Πιτθεύς.`

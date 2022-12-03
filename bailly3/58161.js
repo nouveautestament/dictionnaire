@@ -1,1 +1,0 @@
-lar[58161]=`<b>ή, όν</b>, propre à cacher, à dissimuler, A. APHR. <i>Top. 8, 1, 6</i>.<p><b>Étym</b>. κρύπτω.`

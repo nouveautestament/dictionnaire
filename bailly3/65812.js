@@ -1,1 +1,0 @@
-lar[65812]=`<b>μιλτο·πάρῃος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> aux bords (<i>litt</i>. aux joues) d’un rouge vermillon, <i>ép. d’un navire,</i> IL. <i>2, 637</i> ; OD. <i>9, 125</i>.<br><b>      2</b> <i>p. ext</i>. dont la surface est rouge, OPP. <i>C. 3, 509</i> ; ORPH. <i>Lith. 609</i>.<p><b>Étym</b>. μίλτος, παρειά.`

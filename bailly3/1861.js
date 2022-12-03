@@ -1,1 +1,0 @@
-lar[1861]=`<b>ἀ·ζηλότυπος, ος, ον</b> <font color="purple">[ῠ]</font> exempt de jalousie, PLUT. <i>Lyc. c. Num. 3</i>.`

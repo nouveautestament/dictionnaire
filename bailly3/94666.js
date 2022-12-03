@@ -1,1 +1,0 @@
-lar[94666]=`<b>συν·αλοιφή, ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> fusion, union, ORIG. <i>7, 309</i> ; NAZ. <i>1, 1073 Migne ; t. de gr</i>. synalèphe, <i>sorte de contraction, qui réunit par la prononciation deux syllabes conservées par l’écriture,</i> DH. <i>Comp. 6, 22</i> ; STR. <i>370</i> ; SEXT. <i>M. 1, 161, etc</i>.<p><b>Étym</b>. συναλείφω, <i>cf</i>. ἀλοιφή.`

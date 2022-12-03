@@ -1,1 +1,0 @@
-lar[94683]=`<b>συν·αναβαίνω :<br>      1</b> monter ensemble <i>ou</i> en même temps : τινὶ ἅρμα, LUC. <i>Charid. 19,</i> monter avec qqn sur un char.<br><b>      2</b> s’enfoncer de la côte dans l’intérieur d’un pays avec : τινί, XÉN. <i>An. 1, 3, 18</i> ; ISOCR. <i>70e</i>, avec qqn ; <i>abs</i>. HDT. <i>7, 6</i> ; XÉN. <i>An. 5, 4, 16</i> ; ISOCR. <i>71b, etc</i>.`

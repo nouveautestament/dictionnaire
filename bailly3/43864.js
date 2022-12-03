@@ -1,1 +1,0 @@
-lar[43864]=`<b>Εὐ·ωνυμεύς, έως</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. du dème Euônymeia, <i>de la tribu Érekhthéide,</i> ESCHN. <i>8, 18</i> ; ANTH. <i>6, 346</i> (Εὐωνύμεια, E. BYZ.).`

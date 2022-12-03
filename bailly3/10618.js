@@ -1,1 +1,0 @@
-lar[10618]=`<b>ἀντί·ψηφος, ος, ον</b>, qui vote <i>ou</i> se déclare contre, <i>dat</i>. PLAT. <i>2 Alc. 150b ;</i> ARISTÉN. <i>1, 15</i>.<p><b>Étym</b>. ἀ. ψῆφος.`

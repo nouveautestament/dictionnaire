@@ -1,1 +1,0 @@
-lar[77489]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui rend épais, DIOSC. <i>5, 81</i>.`

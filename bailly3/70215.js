@@ -1,1 +1,0 @@
-lar[70215]=`<b>ης (ἡ) :<br>      1</b> linge fin, toile fine pour vêtements de femme, IL. <i>3, 141 ; 18, 595</i> ; OD. <i>7, 107</i> ; LUC. <i>D. mer. 5</i>.<br><b>      2</b> voile de vaisseau, LUC. <i>J. tr. 46 ; au pl</i>. ANTH. <i>12, 53</i>.<br><b>      3</b> <i>au plur</i>. membrane de la pupille de l’œil, EMPÉD. <i>227 Mullach</i>.<p><b>Étym</b>. <i>emprunt égyptien</i>.`

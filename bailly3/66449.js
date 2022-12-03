@@ -1,1 +1,0 @@
-lar[66449]=`<b>μον·αγρία, ας (ἡ)</b> domaine solitaire, ALCIPHR. <i>2, 2, 7</i>.<p><b>Étym</b>. μ. ἀγρός.`

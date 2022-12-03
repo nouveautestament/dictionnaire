@@ -1,1 +1,0 @@
-lar[66563]=`<b>ιδος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui n’a qu’une chaussure, PD. <i>P. 4, 75</i> ; LYC. <i>1310</i> ; A. PL. <i>127, 1</i>.<p><b>Étym</b>. μ. κρηπίς.`

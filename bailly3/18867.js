@@ -1,1 +1,0 @@
-lar[18867]=`<font color="darkgreen">(<i>f</i>. εύσω)</font> s’appuyer sur un bâton, NAZ.`

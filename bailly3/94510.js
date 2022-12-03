@@ -1,1 +1,0 @@
-lar[94510]=`compter ensemble, NT. <i>Ap. 19, 19</i>.<br><b><i>Moy.</i></b> voter avec, être d’accord avec, <i>dat</i>. AR. <i>Lys. 142</i>.<p><b>Étym</b>. σύμψηφος.`

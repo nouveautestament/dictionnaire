@@ -1,1 +1,0 @@
-lar[106289]=`<b>έων (οἱ)</b> les Féciales, PLUT. <i>Num. 12</i>.<p><b>Étym</b>. <i>lat</i>. Fetiales.`

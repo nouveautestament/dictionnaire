@@ -1,1 +1,0 @@
-lar[8998]=`<b>ἀνθ·υπαλλάσσω</b>, <i>att</i>. <b>-άττω</b>, échanger une chose pour une autre, PHALAR. <i>Ep. 59</i>.<br><b><i>Moy.</i></b> recevoir en échange, PHIL. <i>2, 440</i>.<p><b>Étym</b>. ἀντί, ὑ.`

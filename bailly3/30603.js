@@ -1,1 +1,0 @@
-lar[30603]=`<b>εἰρηνο·δίκαι, ῶν (οἱ)</b> <font color="purple">[ῐ]</font> parlementaires, féciaux <i>à Rome,</i> DH. <i>2, 72 ; 1, 389, 8 ; 390, 6 ; 411, 4 Reiske</i> ; APP. <i>1, 51, 96 Schweigh</i>.<p><b>Étym</b>. εἰρήνη, δίκη.`

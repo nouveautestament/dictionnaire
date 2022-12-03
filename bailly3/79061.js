@@ -1,1 +1,0 @@
-lar[79061]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> promenade de gens qui conversent, DL. <i>7, 98</i> ; SEXT. <i>M. 1, 74</i>.<p><b>Étym</b>. περιπατέω.`

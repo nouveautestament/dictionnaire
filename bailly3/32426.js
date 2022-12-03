@@ -1,1 +1,0 @@
-lar[32426]=`<i>mauv. prononc. de</i> ἔχω, AR. <i>Th. 1197, 1220</i>.`

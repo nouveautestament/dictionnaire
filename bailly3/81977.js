@@ -1,1 +1,0 @@
-lar[81977]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πολυκέρδεια, ADAM. <i>Physiogn. 2, 26</i>.`

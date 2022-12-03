@@ -1,1 +1,0 @@
-lar[1284]=`<b>ἄ·δημος, ος, ον</b>, absent de son pays, SOPH. <i>fr. 566</i>.<p><b>Étym</b>. ἀ, δῆμος.`

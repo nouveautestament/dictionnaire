@@ -1,1 +1,0 @@
-lar[80016]=`<b>πηγό·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule d’une source, ORPH. <i>H. 82, 5</i>.<p><b>Étym</b>. πηγή, ῥέω.`

@@ -1,1 +1,0 @@
-lar[49527]=`<b>ἰσ·ανάφορος, ος, ον</b> <font color="purple">[ῑ̆ᾰᾰ]</font> d’une hauteur égale à l’horizon, <i>t. d’astr</i>. P. ALEX. <i>Apot. 12, p. 26, l. 12 Boer, etc</i>.<p><b>Étym</b>. ἴσος, ἀναφορά.`

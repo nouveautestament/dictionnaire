@@ -1,1 +1,0 @@
-lar[33545]=`<b>ἐμ·ποικίλλω</b>, broder dans <i>ou</i> sur, PLUT. <i>Tim. 8</i>.<p><b>Étym</b>. ἐν, π.`

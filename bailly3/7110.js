@@ -1,1 +1,0 @@
-lar[7110]=`<b>ἀν·αλλοίωτος, ος, ον</b>, invariable, immuable, ARSTT. <i>Metaph. 11, 7, 13 ; Cæl. 1, 3, 9,</i> PLUT. <i>M. 1025c ;</i> DL. <i>4, 17</i>.<p><b>Étym</b>. ἀν-, ἀλλοιόω.`

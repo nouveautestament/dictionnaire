@@ -1,1 +1,0 @@
-lar[41655]=`<i>adv</i>., d’accord avec, en harmonie avec, πρός <i>et l’acc</i>. ISOCR. <i>223e ;</i> GAL. <i>4, 591 ; 14, 288, 727</i> ; CLÉM. <i>Pæd. p. 277</i> ; εὐ. πρὸς τὴν ὄψιν, HÉRON <i>Aut. 258,</i> à souhait pour le plaisir des yeux.`

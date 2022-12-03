@@ -1,1 +1,0 @@
-lar[13787]=`<b>ἀπο·χειρο·βίωτος, ος, ον</b>, qui vit du travail de ses mains, HDT. <i>3, 42</i> ; XÉN. <i>Cyr. 8, 3, 37</i>.<p><b>Étym</b>. ἀπό, χείρ, βιόω.`

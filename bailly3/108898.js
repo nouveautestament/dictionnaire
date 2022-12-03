@@ -1,1 +1,0 @@
-lar[108898]=`<i>adv</i>., utilement, d’une manière avantageuse, BAS.<p><b>Étym</b>. χρειώδης.`

@@ -1,1 +1,0 @@
-lar[29704]=`<b>ατος (τὸ)</b> gravure en creux, gravure, SPT. <i>Ex. 36, 13</i>.<p><b>Étym</b>. ἐγκολάπτω.`

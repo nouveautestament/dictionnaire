@@ -1,1 +1,0 @@
-lar[45144]=`<b>η, ον</b>, très faible, très petit, <i>d’où</i> incapable de, <i>inf</i>. EL. <i>N.A. 9, 1 ; 4, 31</i>.<p><b>Étym</b>. <i>formé d’après le pl. neutre adv</i>. ἥκιστα.`

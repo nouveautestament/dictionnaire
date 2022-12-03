@@ -1,1 +1,0 @@
-lar[40214]=`<b>ἐργο·λάβος, ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui se charge d’un travail moyennant une somme, entrepreneur à forfait, maître d’œuvre, PLAT. <i>Rsp. 373c ;</i> PLUT. <i>Per. 31</i> ; ἐργ. δίκης, THÉM. <i>260b</i>, avocat.<br><b>      2</b> <i>adj</i>. lucratif, POL. <i>Exc. Vat. 410</i>.<p><b>Étym</b>. ἔργον, λαμβάνω.`

@@ -1,1 +1,0 @@
-lar[49167]=`<b>οῦ (ὁ)</b> institution juive, judaïsme, SPT. <i>2Macc. 2, 21 ; 14, 38</i> ; NT. <i>Gal. 1, 13, 14</i>.<p><b>Étym</b>. ἰουδαΐζω.`

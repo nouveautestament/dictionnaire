@@ -1,1 +1,0 @@
-lar[5966]=`<b>ἀ·μυσχρός, ός, όν</b>, non souillé, pur, PARTH. <i>p. 261 Mein.</i> ; BABR. <i>107, 7 conj</i>.<p><b>Étym</b>. ἀ, μύσος.`

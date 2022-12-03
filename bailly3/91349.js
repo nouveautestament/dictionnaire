@@ -1,1 +1,0 @@
-lar[91349]=`<b>σκυταληφορέω-ῶ</b> <font color="purple">[ῠᾰ]</font> porter un bâton <i>ou</i> une massue, STR. <i>688</i>.<p><b>Étym</b>. σκυταληφόρος.`

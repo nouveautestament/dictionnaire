@@ -1,1 +1,0 @@
-lar[56279]=`<b>ίδος (ἡ)</b> aiguille à coiffer, PLUT. <i>Ant. 86</i>.<p><b>Étym</b>. κνάω.`

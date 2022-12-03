@@ -1,1 +1,0 @@
-lar[107181]=`<b>Φυλο·μέδουσα, ης (ἡ)</b> <font color="purple">[ῡ]</font> Phylomédousa, <i>f</i>. IL. <i>7, 10</i>.<p><b>Étym</b>. φῦλον, μέδων.`

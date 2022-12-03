@@ -1,1 +1,0 @@
-lar[68235]=`<b>οῦ (ἡ)</b> <i>s.-e</i>. γῆ, terre qui a reçu un premier labour, terre en jachère, XÉN. <i>Œc. 16, 10 et 12</i> ; TH. <i>C.P. 4, 8, 3</i>.<p><b>Étym</b>. νειός.`

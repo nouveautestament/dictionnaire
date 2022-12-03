@@ -1,1 +1,0 @@
-lar[67194]=`<b>μυό·χοδα, ων (τὰ)</b> crottes de rat <i>ou</i> de souris, TH. <i>H.P. 5, 4, 5</i> ; DIOSC. <i>2, 98</i> ; GAL. <i>14, 349</i>.<p><b>Étym</b>. μ. χέζω.`

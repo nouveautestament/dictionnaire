@@ -1,1 +1,0 @@
-lar[75959]=`<b>παρ·αναγκάζω</b> <font color="purple">[ᾰν]</font><br><b>      1</b> ajuster <i>ou</i> emboîter de force, HPC. <i>Art. 800</i>.<br><b>      2</b> forcer la conviction, DH. <i>Lys. 12</i>.`

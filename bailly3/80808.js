@@ -1,1 +1,0 @@
-lar[80808]=`<i>adv</i>., en entrelaçant, OPP. <i>H. 2, 317</i> ; A. PL. <i>196</i>.<p><b>Étym</b>. πλέκω, -δην.`

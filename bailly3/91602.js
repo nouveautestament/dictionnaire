@@ -1,1 +1,0 @@
-lar[91602]=`<b>σορο·δαίμων, ονος (ὁ)</b> dieu des cercueils, <i>en parl. d’un vieillard décrépit,</i> PLUT. <i>M. 13b</i>.<p><b>Étym</b>. σορός, δαίμων.`

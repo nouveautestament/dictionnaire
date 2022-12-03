@@ -1,1 +1,0 @@
-lar[33622]=`<b>ἐμπυέω-ῶ</b> <font color="purple">[ῠ]</font> avoir des abcès purulents intérieurs, HPC. <i>Progn. 43</i> ; ARÉT. <i>Caus. m. diut. 1, 8</i>.<p><b>Étym</b>. ἔμπυος.`

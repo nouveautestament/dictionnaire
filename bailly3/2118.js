@@ -1,1 +1,0 @@
-lar[2118]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec découragement : ἀ. διάγειν, XÉN. <i>Cyr. 3, 1, 24</i> ; ἔχειν πρός τι, XÉN. <i>Hell. 4, 5, 4,</i> être découragé <i>ou</i> mal disposé pour une entreprise.<p>•<i> Cp</i>. -ότερον, ARSTT. <i>H.A. 9, 40</i>.<p><b>Étym</b>. ἄθυμος.`

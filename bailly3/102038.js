@@ -1,1 +1,0 @@
-lar[102038]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰτ]</font> Hypatia, <i>f. philosophe,</i> ANTH. <i>9, 400</i>.<p><b>Étym</b>. ὕπατος.`

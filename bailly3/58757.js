@@ -1,1 +1,0 @@
-lar[58757]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κυνηγία PLUT. <i>Alex. 40</i> ; ATH. <i>677e</i>.`

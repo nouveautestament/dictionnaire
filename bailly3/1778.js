@@ -1,1 +1,0 @@
-lar[1778]=`<b>*ἀερο·δίνης</b>, <i>seul. ion</i>. <b>ἠερο·δίνης, ης, ες</b> <font color="purple">[ῑ]</font> qui tournoie <i>ou</i> tourne dans les airs, ANTH. <i>9, 223</i>.<p><b>Étym</b>. ἀ. δινέω.`

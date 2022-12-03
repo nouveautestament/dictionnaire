@@ -1,1 +1,0 @@
-lar[97528]=`<b>α, ον</b> <font color="purple">[ᾰλ]</font> <i>c</i>. Ταντάλειος ANTH. <i>5, 2, 236</i>.`

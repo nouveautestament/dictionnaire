@@ -1,1 +1,0 @@
-lar[68989]=`<font color="purple">[ᾰ]</font> avec une constitution maladive, TH. <i>C.P. 6, 10, 5</i>.`

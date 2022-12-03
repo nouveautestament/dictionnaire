@@ -1,1 +1,0 @@
-lar[68794]=`<b>Νικο·χάρης, ους (ὁ)</b> <font color="purple">[ῑᾰ]</font> Nikokharès, <i>poète de l’ancienne comédie</i>.<p><b>Étym</b>. νίκη, χαίρω.`

@@ -1,1 +1,0 @@
-lar[101879]=`<b>ός, όν</b> <font color="purple">[ῠᾰ]</font> laxatif, qui relâche, <i>gén</i>. DIOSC. <i>2, 35</i> ; ARÉT. <i>Cur. m. diut. 1, 2 ; subst</i>. τὸ ὑπ. GAL. <i>19, 661,</i> relâchement.<p><b>Étym</b>. ὑπάγω.`

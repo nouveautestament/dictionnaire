@@ -1,1 +1,0 @@
-lar[63517]=`<b>εως (ἡ)</b> agrandissement, GAL. <i>2, 275</i>.<p><b>Étym</b>. μεγεθοποιέω.`

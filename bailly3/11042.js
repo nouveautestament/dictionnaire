@@ -1,1 +1,0 @@
-lar[11042]=`<b>ἀοριστέω-ῶ :<br>      1</b> être incertain, ARSTT. <i>Probl. 18, 7 ; 26, 13</i>.<br><b>      2</b> <i>t. de gr</i>. être indéterminé, indéfini, DYSC. <i>Adv. 607, 10, etc.</i> ; τὰ ἀοριστούμενα, DYSC. <i>Adv. 536, 20,</i> les particules indéfinies (που, πως, ὅπου).<p><b>Étym</b>. ἀόριστος.`

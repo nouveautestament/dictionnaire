@@ -1,1 +1,0 @@
-lar[29028]=`<b>δύσ·χροος-ους, οος-ους, οον-ουν</b>, de mauvaise couleur, qui a mauvais teint, HPC. <i>Aph. 1244</i> ; ATH. <i>94a ;</i> NYSS. <i>519a</i>.<p><b>Étym</b>. δ. χρόα.`

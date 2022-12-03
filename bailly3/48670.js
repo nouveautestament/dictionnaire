@@ -1,1 +1,0 @@
-lar[48670]=`<b>εως (ἡ)</b> action d’aller, <i>mot forgé par</i> PLAT. <i>Crat. 426c</i>.<p><b>Étym</b>. ἰέναι.`

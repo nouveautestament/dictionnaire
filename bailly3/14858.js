@@ -1,1 +1,0 @@
-lar[14858]=`<b>ἁρματ·αρχία, ας (ἡ)</b> commandement de chars (de guerre) ASCLÉPIOD. <i>8</i> ; EL. TACT. <i>22, 2</i>.<p><b>Étym</b>. ἅρμα, ἄρχω.`

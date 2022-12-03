@@ -1,1 +1,0 @@
-lar[77177]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. παρυφές, MÉN. <i>4, 210 Meineke</i>.<p><b>Étym</b>. <i>v</i>. παρυφής.`

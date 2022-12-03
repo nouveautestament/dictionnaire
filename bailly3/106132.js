@@ -1,1 +1,0 @@
-lar[106132]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> œuvre d’art, CIC. <i>Att. 13, 40, 1</i> ; HLD. <i>196</i>.<br><b>      2</b> artifice, ruse, DS. <i>3, 37 ; 15, 18</i>.<p><b>Étym</b>. φιλοτεχνέω.`

@@ -1,1 +1,0 @@
-lar[40835]=`<b>ης, ες</b> <font color="purple">[ῠῑ]</font> gâté par la rouille, couvert de nielle, ARSTT. <i>H.A. 8, 17, 3 ; 9, 40, 46</i> ; TH. <i>C.P. 3, 24, 4</i>.<p><b>Étym</b>. ἐρυσίβη, -ωδης.`

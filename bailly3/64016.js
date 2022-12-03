@@ -1,1 +1,0 @@
-lar[64016]=`<b>μελι·καρίς, ίδος (ἡ)</b> <font color="purple">[ῐᾱῐδ]</font> sorte d’écrevisse, PHILOX. (ATH. <i>147b ; sel. d’autres,</i> μελικηρίς).<p><b>Étym</b>. μέλι, καρίς.`

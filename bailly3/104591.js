@@ -1,1 +1,0 @@
-lar[104591]=`<i>sert d’inf. ao.2 à</i> ἐσθίω.<p><b>Étym</b>. <i>R. indo-europ</i>. *b<sup>h</sup>(e)h₂g-, partager ; <i>cf. sscr</i>. bhájati.`

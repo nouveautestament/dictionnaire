@@ -1,1 +1,0 @@
-lar[77290]=`<b>πασχητιάω-ῶ :<br>      1</b> avoir des désirs impurs, ATH. <i>187c ;</i> LUC. <i>Am. 26</i>.<br><b>      2</b> inspirer des désirs impurs, CLÉM. <i>1, 400 Migne</i>.<p><b>Étym</b>. πάσχω.`

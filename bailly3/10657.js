@@ -1,1 +1,0 @@
-lar[10657]=`<b>εως (ἡ)</b> contre-mine, PHIL. BYZ. <i>100</i>.<p><b>Étym</b>. ἀντορύσσω.`

@@ -1,1 +1,0 @@
-lar[53607]=`<b>κατ·αυχένιος, ος, ον</b>, qui tombe <i>ou</i> flotte sur le cou, ANTH. <i>5, 73</i>.<p><b>Étym</b>. κ. αὐχήν.`

@@ -1,1 +1,0 @@
-lar[11796]=`<b>ἀ·περίτμητος, ος, ον :<br>      1</b> non circonscrit, PLUT. <i>M. 495c.</i><br><b>      2</b> non circoncis, SPT. <i>Gen. 17, 14 ; Ex. 12, 48, etc. ; fig</i>. SPT. <i>Lev. 26, 41, etc.</i> ; NT. <i>Ap. 7, 51 ; p. ext</i>. non coupé tout autour, SYMM. <i>Ex. 6, 12 ; Jer. 6, 10</i>.<p><b>Étym</b>. ἀ, περιτέμνω.`

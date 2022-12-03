@@ -1,1 +1,0 @@
-lar[24596]=`<b>ής, ές</b>, à travers quoi on peut voir, limpide (eau) THCR. <i>Idyl. 16, 62</i>.<p><b>Étym</b>. διαείδω.`

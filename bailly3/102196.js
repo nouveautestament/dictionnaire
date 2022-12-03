@@ -1,1 +1,0 @@
-lar[102196]=`<b>ὑπ·εξανάγομαι</b> <font color="purple">[ᾰᾰ]</font> mettre à la voile <i>ou</i> gagner le large secrètement, THC. <i>3, 74</i>.`

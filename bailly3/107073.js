@@ -1,1 +1,0 @@
-lar[107073]=`<b>ης, ες</b> <font color="purple">[ῡ]</font><br><b>      1</b> plein d’algues, ARSTT. <i>H.A. 8, 19, 9</i>.<br><b>      2</b> qui concerne les algues, DIOSC. <i>5, 135</i>.<p><b>Étym</b>. φῦκος, -ωδης.`

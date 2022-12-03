@@ -1,1 +1,0 @@
-lar[74538]=`<b>παλιμ·πνόη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> vent en sens contraire, TH. <i>Vent. 26</i>.<p><b>Étym</b>. π. πνοή.`

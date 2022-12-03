@@ -1,1 +1,0 @@
-lar[98255]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> poisson bon à être dépecé et salé, EUB. (ATH. <i>340d</i>) ; ALCIPHR. <i>3, 5</i>.<p><b>Étym</b>. τέμαχος.`

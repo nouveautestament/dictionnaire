@@ -1,1 +1,0 @@
-lar[102028]=`<b>ὕπ·αστρος, ος, ον</b> <font color="purple">[ῠ]</font> soumis à l’influence des astres, ESCHL. <i>Suppl. 393</i>.<p><b>Étym</b>. ὑ. ἄστρον.`

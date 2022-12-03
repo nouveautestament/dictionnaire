@@ -1,1 +1,0 @@
-lar[66062]=`<b>μισο·πόνηρος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait les méchants, DÉM. <i>584, 12</i> ; ESCHN. <i>10, 21</i>.<p><b>Étym</b>. μ. πονηρός.`

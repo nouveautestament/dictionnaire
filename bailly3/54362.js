@@ -1,1 +1,0 @@
-lar[54362]=`<b>(ὁ)</b> Kaphis, <i>h</i>. PLUT. <i>Syll. 12 et 15</i>.`

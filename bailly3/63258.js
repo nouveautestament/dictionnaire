@@ -1,1 +1,0 @@
-lar[63258]=`<b>ων (οἱ)</b> les Makhlyes :<br><b>      1</b> <i>pple de Libye,</i> HDT. <i>4, 178</i>.<br><b>      2</b> <i>pple de Scythie,</i> LUC. <i>Tox. 44</i>.`

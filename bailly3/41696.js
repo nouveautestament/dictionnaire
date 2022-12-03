@@ -1,1 +1,0 @@
-lar[41696]=`<b>εὐβλάστεια</b> <i>ou</i> <b>εὐβλαστία, ας (ἡ)</b> végétation vigoureuse <i>ou</i> rapide, TH. <i>C.P. 1, 20, 5</i>.<p><b>Étym</b>. εὐβλαστής.`

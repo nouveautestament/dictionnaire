@@ -1,1 +1,0 @@
-lar[27848]=`<b>ιδος</b> <font color="purple">[ᾱ]</font> <i>f. de</i> δραπέτης, SOPH. <i>fr. 148 (acc</i>. -ιν) ; ANTH. <i>12, 80</i> ; Δραπέτιδες, les Fugitives, <i>comédie de Cratinos</i>.`

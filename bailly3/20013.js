@@ -1,1 +1,0 @@
-lar[20013]=`<b>ιδος</b>, <i>adj. f. dor</i>. qui crie, ESCHL. <i>Pers. 575</i>.<p><b>Étym</b>. βοάω ; <i>cf</i>. βοητής.`

@@ -1,1 +1,0 @@
-lar[57933]=`<b>ης, ες</b>, qui ressemble à de la grosse farine, farineux, HPC. <i>Aph. 1259, etc.</i> ; AR. <i>Nub. 965</i>.<p><b>Étym</b>. κρῖμνον, -ωδης.`

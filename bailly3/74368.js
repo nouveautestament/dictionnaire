@@ -1,1 +1,0 @@
-lar[74368]=`<b>ου (ὁ)</b> = <i>lat</i>. Pætilius <i>n. d’h. rom</i>. PLUT. <i>Reg. apophth. Scip. 10</i>.`

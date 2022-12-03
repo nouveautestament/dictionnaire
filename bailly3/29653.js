@@ -1,1 +1,0 @@
-lar[29653]=`<b>ἐγ·κίνυμαι</b> <font color="purple">[ῑῠ]</font> être troublé de, <i>dat</i>. Q. SM. <i>13, 245</i>.<p><b>Étym</b>. ἐν, κ.`

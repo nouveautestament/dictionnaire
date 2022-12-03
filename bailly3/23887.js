@@ -1,1 +1,0 @@
-lar[23887]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> le fils de Dexios (Iphinoos), IL. <i>7, 15</i>.<p><b>Étym</b>. Δεξιός <i>ou</i> Δέξιος.`

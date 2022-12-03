@@ -1,1 +1,0 @@
-lar[87971]=`<b>ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. roux, SPT. <i>Gen. 25, 25 ; 1Reg. 16, 12 ; 17, 42</i>.<p><b>Étym</b>. πυρρός.`

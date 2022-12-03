@@ -1,1 +1,0 @@
-lar[97288]=`<b>ης, ες</b>, salutaire, <i>dat</i>. JUL. <i>2, 464 Ideler, Physici et medici græci minores</i>.<p>•<i> Cp</i>. -έστερος, DC. <i>53, 19 ; • Sup</i>. -έστατος, GAL. <i>14, 248, 11</i>.<p><b>Étym</b>. σωτήριος, -ωδης.`

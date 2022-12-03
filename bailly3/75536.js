@@ -1,1 +1,0 @@
-lar[75536]=`<b>παραδοξο·νίκης, ου (ὁ)</b> <font color="purple">[ῑ]</font> vainqueur contre toute attente <i>ou</i> d’une manière extraordinaire, PLUT. <i>Cim. c. Luc. 2</i>.<p><b>Étym</b>. παράδοξος, νικάω.`

@@ -1,1 +1,0 @@
-lar[77551]=`<b>πεδο·κοίτης, ου</b>, <i>adj. m</i>. qui repose sur le sol, ANTH. <i>6, 102</i>.<p><b>Étym</b>. πέδον, κοίτη.`

@@ -1,1 +1,0 @@
-lar[24438]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> du diable, diabolique, CLÉM. <i>1, 1181b ; 2, 629b Migne</i>.<p><b>Étym</b>. διάβολος.`

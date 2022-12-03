@@ -1,1 +1,0 @@
-lar[45523]=`<b>ἡμι·πέρσης, ου (ὁ)</b> <font color="purple">[ῐ]</font> demi-Perse, ŒNOM. (EUS. <i>3, 365a Migne).</i><p><b>Étym</b>. ἡμι-, Πέρσης ; <i>cf</i>. ἡμίμηδος.`

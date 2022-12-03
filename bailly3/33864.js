@@ -1,1 +1,0 @@
-lar[33864]=`<b>ἐν·αμιλλάομαι-ῶμαι</b> <font color="purple">[ᾰμ]</font> lutter contre, <i>avec</i> πρός <i>et l’acc</i>. THÉM. <i>310, 4 G. Dind</i>.`

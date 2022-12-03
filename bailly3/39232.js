@@ -1,1 +1,0 @@
-lar[39232]=`<b>ἐπι·σύνειμι</b> (<i>inf</i>. -συνιέναι) venir se joindre à, se réunir à, DH. <i>1, 63</i>.`

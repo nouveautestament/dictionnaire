@@ -1,1 +1,0 @@
-lar[95341]=`<b>ῆς (ἡ)</b> déviation <i>ou</i> irrégularité, par analogie, de formes, de flexions, <i>etc</i>. DYSC. <i>Adv. p. 552, 29 Bkk</i>.<p><b>Étym</b>. συνεκδραμεῖν.`

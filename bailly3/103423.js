@@ -1,1 +1,0 @@
-lar[103423]=`<b>ὑπο·κροτέω-ῶ</b>, frapper légèrement (du pied) NAZ.`

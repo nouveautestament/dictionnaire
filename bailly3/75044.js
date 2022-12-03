@@ -1,1 +1,0 @@
-lar[75044]=`<b>παν·θελγής, ής, ές</b>, qui charme <i>ou</i> séduit tout le monde, NONN. <i>D. 31, 271</i>.<p><b>Étym</b>. π. θέλγω.`

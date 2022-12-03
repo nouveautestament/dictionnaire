@@ -1,1 +1,0 @@
-lar[22848]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> corbeille d’osier, AR. (POLL. <i>10, 158) ; particul</i>. corbeille pour le pain, LUC. <i>D. mer. 14</i>.<br><b>      2</b> nasse d’osier pour la pêche, ARSTT. <i>H.A. 5, 27, 4</i>.`

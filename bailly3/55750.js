@@ -1,1 +1,0 @@
-lar[55750]=`<b>ῶν (αἱ)</b> galoches, sabots, DC. <i>77, 4</i>.`

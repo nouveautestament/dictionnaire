@@ -1,1 +1,0 @@
-lar[47675]=`<b>υος (ὁ) :<br>      1</b> escabeau pour les pieds, IL. <i>14, 240</i> ; OD. <i>19, 57</i>.<br><b>      2</b> banc de rameurs, IL. <i>15, 729</i>.<p><b>Étym</b>. θρᾶνος.`

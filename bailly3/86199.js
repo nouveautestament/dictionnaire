@@ -1,1 +1,0 @@
-lar[86199]=`<b>προσ·ολοφύρομαι</b> <font color="purple">[ῡ]</font> se lamenter sur, <i>dat</i>. THC. <i>8, 66</i> ; PLUT. <i>Cic. 47</i>.`

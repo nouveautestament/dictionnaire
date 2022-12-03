@@ -1,1 +1,0 @@
-lar[68619]=`<b>α, ον</b>, d’île, insulaire, EUR. <i>I.A. 203</i> ; ARAT. <i>982</i> ; ν. ἵπποι, EUR. <i>fr. 1114,</i> chevaux de l’île, <i>càd</i>. d’Asie, <i>en parl. d’une race de chevaux de Médie et de Perse,</i> E. BYZ. <i>v°</i> νῆσος.<p><b>Étym</b>. νῆσος.`

@@ -1,1 +1,0 @@
-lar[51890]=`<b>ου (ὁ)</b> Karpos, <i>h</i>. ANTH. <i>App. 177</i>.`

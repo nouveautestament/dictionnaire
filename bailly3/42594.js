@@ -1,1 +1,0 @@
-lar[42594]=`<b>εὔ·λιμνος, ος, ον</b>, abondant en lacs, ARSTT. <i>H.A. 8, 19, 3</i>.<p><b>Étym</b>. εὖ, λίμνη.`

@@ -1,1 +1,0 @@
-lar[23661]=`<b>ας (ἡ)</b> période de dix ans, STR. <i>705</i> ; DH. <i>1, 71</i> ; PLUT. <i>Num. 10, etc</i>.<p><b>Étym</b>. δεκαετής.`

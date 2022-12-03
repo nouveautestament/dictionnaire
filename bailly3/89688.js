@@ -1,1 +1,0 @@
-lar[89688]=`<b>οῦ (ὁ)</b> ébranlement, commotion, PLAT. <i>Phil. 33e, Leg. 790e, etc.</i> ; σ. γῆς, EUR. <i>H.f. 862</i> ; THC. <i>3, 87</i> ; σ. χθονός, EUR. <i>I.T. 1166 ; ou simpl</i>. σεισμός, HDT. <i>4, 28, etc.</i> ; THC. <i>1, 23</i> ; SOPH. <i>O.C. 95</i> ; AR. <i>Eccl. 791, etc</i>. tremblement de terre.<p><b>Étym</b>. σείω.`

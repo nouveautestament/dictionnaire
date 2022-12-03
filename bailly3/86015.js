@@ -1,1 +1,0 @@
-lar[86015]=`<b>προ·σκιαγραφέω-ῶ</b> <font color="purple">[ᾱᾰ]</font> ébaucher d’avance <i>ou</i> auparavant, CHRYS.`

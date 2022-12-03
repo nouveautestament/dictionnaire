@@ -1,1 +1,0 @@
-lar[21891]=`<b>γεωρυχέω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) :<br><b>      1</b> creuser la terre, ouvrir une mine, HDT. <i>4, 200</i> ; EL. <i>N.A. 16, 15</i>.<br><b>      2</b> extraire d’une mine, <i>acc</i>. CLÉM. <i>242</i>.<p><b>Étym</b>. γεώρυχος.`

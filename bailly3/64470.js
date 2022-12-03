@@ -1,1 +1,0 @@
-lar[64470]=`tenir le milieu de <i>ou</i> entre, <i>gén</i>. PLAT. <i>Leg. 756e ; abs</i>. XÉN. <i>Hell. 7, 1, 48</i> ; ARSTT. <i>Pol. 7, 7</i>.<p><b>Étym</b>. μέσος.`

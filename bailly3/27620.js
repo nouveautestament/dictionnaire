@@ -1,1 +1,0 @@
-lar[27620]=`<b>ιος (ὁ)</b> Dorkis, <i>général spartiate,</i> THC. <i>1, 95</i>.`

@@ -1,1 +1,0 @@
-lar[57180]=`<b>κορυμβο·φόρος, ος, ον :<br>      1</b> qui porte ses fleurs <i>ou</i> ses fruits en grappes, LGS <i>2, 26</i>.<br><b>      2</b> couronné de grappes de lierre, <i>ép. de Dionysos,</i> NONN. <i>D. 18, 3</i>.<p><b>Étym</b>. κόρυμβος, φέρω.`

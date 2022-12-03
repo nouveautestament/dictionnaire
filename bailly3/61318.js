@@ -1,1 +1,0 @@
-lar[61318]=`<b>λιπό·γληνος, ος, ον</b> <font color="purple">[ῐ]</font> privé d’yeux, aveugle, NONN. <i>D. 37, 517</i>.<p><b>Étym</b>. λ. γλήνη.`

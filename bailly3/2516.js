@@ -1,1 +1,0 @@
-lar[2516]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Ælianus, Élien :<br><b>      1</b> <i>sophiste et polygraphe</i>.<br><b>      2</b> <i>écrivain militaire</i>.`

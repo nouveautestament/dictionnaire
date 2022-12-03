@@ -1,1 +1,0 @@
-lar[61331]=`<b>λιπο·θυμέω-ῶ</b>, <i>mieux que</i> <b>λειπο·θυμέω</b> <font color="purple">[ῐῡ]</font> manquer de courage, HPC. <i>652, 55</i> ; DIOSC. <i>3, 36</i> ; JOS. <i>Macc. 6, etc</i>.<p><b>Étym</b>. λ. θυμός.`

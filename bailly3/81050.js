@@ -1,1 +1,0 @@
-lar[81050]=`<i>adv</i>., de manière à remplir <i>ou</i> à rassasier, GAL. <i>19, 5</i>.`

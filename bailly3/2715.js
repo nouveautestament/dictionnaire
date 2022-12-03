@@ -1,1 +1,0 @@
-lar[2715]=`<b>αἰνο·τόκος, ος, ον</b>, qui enfante pour le malheur, OPP. <i>H. 5, 526</i>.<p><b>Étym</b>. αἰν. τίκτω.`

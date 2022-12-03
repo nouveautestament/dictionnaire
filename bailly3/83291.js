@@ -1,1 +1,0 @@
-lar[83291]=`<b>(ὁ)</b> <font color="purple">[ᾱᾱ]</font> Pratinas, <i>poète tragique grec,</i> Ps.-PLUT. <i>Mus. 7, etc</i>.`

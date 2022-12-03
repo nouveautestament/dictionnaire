@@ -1,1 +1,0 @@
-lar[52210]=`<b>κατά·γελως, ωτος (ὁ)</b> dérision, moquerie, AR. <i>Ach. 1125, etc.</i> ; XÉN. <i>Œc. 13, 5</i> ; ὥσπερ κ. τῆς πράξεως, PLAT. <i>Crit. 45e</i>, le plus dérisoire de l’affaire.<p>➳ <i>Acc</i>. -ωτα, ESCHL. <i>Ag. 1264</i> ; EPICT. <i>Ench. 22 ; ou</i> -ων, PHILSTR. <i>303</i>.<p><b>Étym</b>. κ. γέλως.`

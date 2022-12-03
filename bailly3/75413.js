@@ -1,1 +1,0 @@
-lar[75413]=`<b>παρα·βοηθέω-ῶ :<br>      1</b> porter secours, <i>abs</i>. AR. <i>Eq. 257</i> ; THC. <i>3, 22</i> ; XÉN. <i>Hell. 1, 1, 6</i> ; τινι, THC. <i>1, 47</i> ; ANTIPH. (<i>Com. fr. 3, 134</i>) ; πρός τινα, POL. <i>2, 54, 10,</i> à qqn.<br><b>      2</b> porter secours à son tour <i>ou</i> d’un autre côté, PLAT. <i>Rsp. 572e</i>.`

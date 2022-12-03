@@ -1,1 +1,0 @@
-lar[85133]=`<b>προσ·αναγορεύω</b> <font color="purple">[ᾰᾰ]</font> déclarer en outre, PLAT. <i>Rsp. 580c</i>.`

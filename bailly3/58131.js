@@ -1,1 +1,0 @@
-lar[58131]=`<b>ατος (τὸ)</b> <i>c</i>. κροῦμα, DIOSC. <i>3, 8</i> ; ANTH. <i>6, 27</i> ; Anon. <i>de vir. herb. 121</i>.`

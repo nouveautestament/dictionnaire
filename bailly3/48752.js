@@ -1,1 +1,0 @@
-lar[48752]=`<b>ἰθυπορέω-ῶ</b> <font color="purple">[ῑ]</font> aller en droite ligne, HPC. <i>278, 46</i>.<p><b>Étym</b>. ἰθυπόρος.`

@@ -1,1 +1,0 @@
-lar[61841]=`<b>ας (ἡ)</b> <font color="purple">[ῠκᾱ]</font> Lycaonie, <i>contrée d’Asie Mineure,</i> XÉN. <i>An. 1, 2, 19, etc.</i> ; PLUT. <i>Luc. 23, etc</i>.<p><b>Étym</b>. Λυκάων.`

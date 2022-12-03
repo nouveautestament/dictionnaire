@@ -1,1 +1,0 @@
-lar[98820]=`<b>οῦ (ὁ)</b> homme armé, guerrier, combattant, ESCHL. <i>Sept. 644</i> ; A.RH. <i>3, 415</i> ; CALL. <i>Jov. 77</i>.<p><b>Étym</b>. τεῦχος.`

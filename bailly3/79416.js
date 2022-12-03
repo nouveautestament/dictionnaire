@@ -1,1 +1,0 @@
-lar[79416]=`<b>περί·στομος, ος, ον</b>, qui fait face de tous les côtés, <i>t. de tact</i>. EL. TACT.<p><b>Étym</b>. π. στόμα.`

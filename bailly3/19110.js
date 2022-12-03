@@ -1,1 +1,0 @@
-lar[19110]=`<b>ης (ἡ)</b> Barsinè, <i>n. de f. persan,</i> PLUT. ARR. <i>etc</i>.`

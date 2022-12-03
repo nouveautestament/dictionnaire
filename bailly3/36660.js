@@ -1,1 +1,0 @@
-lar[36660]=`<b>ἐπ·ανατρυγάω-ῶ</b> <font color="purple">[ῠ]</font> grappiller après la vendange, SPT. <i>Deut. 24, 21 ; avec un acc</i>. SPT. <i>Lev. 19, 10</i>.`

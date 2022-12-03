@@ -1,1 +1,0 @@
-lar[76140]=`<b>παρ·αριθμέω-ῶ</b> <font color="purple">[ᾰρι]</font><br><b>      1</b> compter en outre, PLUT. <i>M. 78f.</i><br><b>      2</b> tromper par un compte inexact, STOB. <i>Ecl. 2, 232</i>.`

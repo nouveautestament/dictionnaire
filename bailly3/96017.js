@@ -1,1 +1,0 @@
-lar[96017]=`<b>συν·ιππάζομαι</b>, aller à cheval avec, PLUT. <i>M. 1043c ;</i> JOS. <i>B.J. 1, 20, 3</i>.`

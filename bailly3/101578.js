@@ -1,1 +1,0 @@
-lar[101578]=`<b>ου (ὁ)</b> Hydros, <i>promontoire d’Éolide,</i> PLUT. <i>Cim. 13</i>.<p><b>Étym</b>. <i>v</i>. ὕδρος.`

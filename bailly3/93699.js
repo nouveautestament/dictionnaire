@@ -1,1 +1,0 @@
-lar[93699]=`<b>ου (τὸ)</b> <font color="purple">[ῡῐδ]</font> <i>dim. de</i> σῦκον, AR. <i>Pax 598</i>.`

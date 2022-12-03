@@ -1,1 +1,0 @@
-lar[87965]=`<b>εως (ἡ)</b> dévastation par le feu, JOS. <i>B.J. 3, 7, 11</i>.<p><b>Étym</b>. πυρπολέω.`

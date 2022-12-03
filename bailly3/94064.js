@@ -1,1 +1,0 @@
-lar[94064]=`<b>συμ·παραινέω</b>, <i>anc. att</i>. <b>ξυμ·παραινέω-ῶ :<br>      1</b> conseiller en même temps, SOPH. <i>fr. 14</i> ; AR. <i>Ran. 687</i>.<br><b>      2</b> approuver en même temps, AR. <i>Av. 852</i>.`

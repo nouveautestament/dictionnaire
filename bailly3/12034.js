@@ -1,1 +1,0 @@
-lar[12034]=`<i>adv</i>., sans feinte, <i>d’où</i> :<br><b>      1</b> franchement, PLAT. <i>Ep. 319b, etc.</i><br><b>      2</b> naturellement, sans apprêts, TH. <i>H.P. 4, 11, 4, etc</i>.<p><b>Étym</b>. ἄπλαστος.`

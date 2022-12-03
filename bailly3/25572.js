@@ -1,1 +1,0 @@
-lar[25572]=`<b>δια·σπαθάω-ῶ</b> <font color="purple">[πᾰ]</font> <font color="darkgreen">(<i>ao. inf</i>. -ῆσαι)</font> gaspiller, prodiguer en folles dépenses, PLUT. <i>Cic. 27</i>.`

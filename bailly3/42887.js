@@ -1,1 +1,0 @@
-lar[42887]=`<b>εὐοσμέω-ῶ</b>, exhaler une odeur agréable, TH. <i>C.P. 6, 16, 1</i>.<p><b>Étym</b>. εὔοσμος.`

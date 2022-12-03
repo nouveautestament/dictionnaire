@@ -1,1 +1,0 @@
-lar[10541]=`<b>ου (ὁ)</b> <font color="purple">[φᾰ]</font> Antiphatès, <i>h</i>. IL. <i>12, 191</i> ; OD. <i>10, 106, 114, etc</i>.<p>➳ <i>Gén. épq</i>. -αο, OD. <i>10, 106 ; acc</i>. -ην, <i>poét</i>. -ῆα, OD. <i>10, 114 ; acc. dor</i>. -αν, POL. <i>33, 15</i>.<p><b>Étym</b>. ἀντίφημι.`

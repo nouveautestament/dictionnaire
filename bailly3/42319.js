@@ -1,1 +1,0 @@
-lar[42319]=`<b>Εὐθύ·φημος, ου (ὁ)</b> Euthyphèmos, <i>h</i>. DÉM. <i>58, 8 Baiter-Sauppe</i>.<p><b>Étym</b>. εὐ. φήμη ; <i>cf</i>. εὐθυρρήμων.`

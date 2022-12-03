@@ -1,1 +1,0 @@
-lar[49084]=`<b>ἰξο·βόρος, ος, ον</b>, qui dévore la glu ; <i>subst</i>. ὁ ἰξ. ARSTT. <i>H.A. 9, 20,</i> sorte de grive.<p><b>Étym</b>. ἰξός, βιβρώσκω.`

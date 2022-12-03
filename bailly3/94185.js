@@ -1,1 +1,0 @@
-lar[94185]=`<b>συμ·περίειμι</b> <font color="darkgreen">(<i>impf</i>. -περιῄειν)</font> entourer, <i>dat</i>. XÉN. <i>Cyn. 10, 4</i> ; DL. <i>6, 97 ; acc</i>. EN. TACT. <i>Pol. 38</i>.`

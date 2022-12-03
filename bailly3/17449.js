@@ -1,1 +1,0 @@
-lar[17449]=`<b>αὐτο·δίκαιον, ου (τὸ)</b> <font color="purple">[ῐ]</font> le droit en soi, le droit absolu, ARSTD. <i>t. 2, 182</i>.`

@@ -1,1 +1,0 @@
-lar[23323]=`<b>δασύ·στερνος, ος, ον</b> <font color="purple">[ᾰ]</font> à la poitrine velue, HÉS. <i>O. 512</i> ; SOPH. <i>Tr. 557</i> ; NONN. <i>D. 44, 918</i>.<p><b>Étym</b>. δ. στέρνον.`

@@ -1,1 +1,0 @@
-lar[106298]=`<b>(ἡ)</b> Phla, <i>î. dans le lac Tritonis,</i> HDT. <i>4, 178</i>.`

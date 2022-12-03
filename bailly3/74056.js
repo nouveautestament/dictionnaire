@@ -1,1 +1,0 @@
-lar[74056]=`<b>ὀψο·φόρος, ος, ον</b>, qui sert à porter les mets, MATR. (ATH. <i>135d</i>).<p><b>Étym</b>. ὄψ. φέρω.`

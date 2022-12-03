@@ -1,1 +1,0 @@
-lar[70126]=`<b>ὁδό·μετρον, ου (τὸ)</b> hodomètre, instrument pour mesurer le chemin parcouru, HÉRON.<p><b>Étym</b>. ὁδός, μέτρον.`

@@ -1,1 +1,0 @@
-lar[54449]=`<b>ων (τὰ) :<br>      1</b> fluxions, HPC. <i>1240d, etc. ; particul. dans la région de l’aine,</i> GAL. <i>Lex. Hipp. 19, 111</i>.<br><b>      2</b> rupture d’un vaisseau sanguin, ARÉT.`

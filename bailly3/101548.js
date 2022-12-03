@@ -1,1 +1,0 @@
-lar[101548]=`<b>ὑδρο·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui concerne l’hydrocéphale, ANTYLL.<p><b>Étym</b>. <i>v</i>. ὑδροκέφαλον.`

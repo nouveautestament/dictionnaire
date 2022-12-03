@@ -1,1 +1,0 @@
-lar[3938]=`<b>ἀκτινο·βολέω-ῶ</b> <font color="purple">[ῑ]</font> lancer des rayons, PHIL. <i>1, 638 ; au pass</i>. être éclairé par des rayons, ISID. CHAR. (ATH. <i>94a</i>).<p><b>Étym</b>. ἀκτίς, -βολος <i>de</i> βάλλω.`

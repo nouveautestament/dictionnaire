@@ -1,1 +1,0 @@
-lar[48397]=`<b>ἰδιο·γάμια, ων (τὰ)</b> <font color="purple">[ῐδγᾰ]</font> mariages séparés, <i>p. opp. à</i> κοινογάμια, NAZ. <i>Or. 25, t. 1, p. 1208b</i>.<p><b>Étym</b>. ἴδ. γάμος.`

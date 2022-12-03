@@ -1,1 +1,0 @@
-lar[37948]=`<b>ἐπι·κατασπάω-ῶ :<br>      1</b> tirer ensuite, ARSTT. <i>Probl. 11, 18</i>.<br><b>      2</b> <i>au pass</i>. avoir ensuite une convulsion, HPC. <i>369, 33</i>.`

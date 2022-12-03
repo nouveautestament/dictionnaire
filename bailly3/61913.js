@@ -1,1 +1,0 @@
-lar[61913]=`<b>Λυκ·ουρία, ας (ἡ)</b> <font color="purple">[ῠ]</font> la montagne aux loups, <i>lieu du N. de l’Arcadie,</i> PLUT. <i>Pyth. or. 1</i>.<p><b>Étym</b>. λύκος, ὄρος.`

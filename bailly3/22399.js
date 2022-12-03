@@ -1,1 +1,0 @@
-lar[22399]=`<b>ίδος (ἡ)</b> sorcière, NYSS. <i>2, 108b Migne</i>.<p><b>Étym</b>. γόης.`

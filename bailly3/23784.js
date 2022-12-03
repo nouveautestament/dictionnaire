@@ -1,1 +1,0 @@
-lar[23784]=`<b>ου (τὸ)</b> <i>dim. de</i> δέλεαρ, SOPHR. (EM. <i>254, 53) (de</i> δελητ-, <i>contraction de</i> δελεατ- <i>th. de</i> δέλεαρ ; <i>cf. dat</i>. δέλητι = δελέατι, HSCH. ; <i>v</i>. δέλεαρ).`

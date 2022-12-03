@@ -1,1 +1,0 @@
-lar[89604]=`<b>εως (ἡ)</b> Saôsis, <i>reine de Byblos,</i> PLUT. <i>Is. et Os. 15</i>.`

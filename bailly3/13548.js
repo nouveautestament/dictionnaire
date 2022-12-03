@@ -1,1 +1,0 @@
-lar[13548]=`<b>εως (ἡ)</b> mise à part, <i>càd</i>. répartition des contribuables par catégories, ANT. (HARP.).<p><b>Étym</b>. ἀποτάσσω.`

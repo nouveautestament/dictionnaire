@@ -1,1 +1,0 @@
-lar[89966]=`<i>dor</i>. <b>Σᾶμος, ου (ὁ)</b> Sèmos <i>ou</i> Samos, <i>h</i>. PD. <i>O. 11, 81</i>.`

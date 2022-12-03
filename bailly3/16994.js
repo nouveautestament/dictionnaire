@@ -1,1 +1,0 @@
-lar[16994]=`<b>ἀ·τρύπητος, ος, ον</b> <font color="purple">[αῡ]</font> non percé, ARSTT. <i>fr. 424</i> ; PLUT. <i>Cic. 26, etc</i>.<p><b>Étym</b>. ἀ, τρυπάω.`

@@ -1,1 +1,0 @@
-lar[101894]=`<b>ὑπ·αίθω</b> (<i>seul. prés</i>.) <font color="purple">[ῠ]</font> allumer en dessous, enflammer, SOPH. <i>Tr. 1210 ; fig. en parl. de l’amour,</i> SOPH. <i>fr. 312</i>.`

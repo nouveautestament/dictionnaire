@@ -1,1 +1,0 @@
-lar[17182]=`<b>*αὐλήεις, ήεσσα, ῆεν</b>, <i>seul. neutre dor</i>. αὐλᾶεν, <i>p. contr</i>. αὐλᾶν, joué sur l’aulos (air), PD. <i>P. 12, 19 (sel. Bœckh et autres,</i> αὐλῶν).<p><b>Étym</b>. αὐλός.`

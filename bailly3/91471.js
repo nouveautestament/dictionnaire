@@ -1,1 +1,0 @@
-lar[91471]=`<b>ατος (τὸ)</b> sorte de tube qu’on ajuste à un siphon, HÉRON <i>Spir. 159</i>.<p><b>Étym</b>. σμηρίζω.`

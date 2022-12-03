@@ -1,1 +1,0 @@
-lar[67773]=`<b>ναυ·πηγός, οῦ (ὁ)</b> constructeur de navires, THC. <i>1, 13</i> ; XÉN. <i>Ath. 1, 2</i> ; PLAT. <i>Rsp. 333c, etc</i>.<p><b>Étym</b>. ναῦς, πήγνυμι.`

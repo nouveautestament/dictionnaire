@@ -1,1 +1,0 @@
-lar[109912]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ψύδραξ, DIOSC. <i>5, 126</i>.`

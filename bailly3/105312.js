@@ -1,1 +1,0 @@
-lar[105312]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> déclin <i>ou</i> décours d’un astre, ESCHL. <i>Pers. 232</i>.<p><b>Étym</b>. φθίνω.`

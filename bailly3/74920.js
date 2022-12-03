@@ -1,1 +1,0 @@
-lar[74920]=`<b>πάν·δεινος, ος, ον :<br>      1</b> tout à fait redoutable, terrible, PLAT. <i>Rsp. 610d ;</i> LUC. <i>Pr. 8</i>.<br><b>      2</b> tout à fait habile, PLAT. <i>Pol. 290b ;</i> DÉM. <i>378, 8</i>.<p><b>Étym</b>. π. δεινός.`

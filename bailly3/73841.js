@@ -1,1 +1,0 @@
-lar[73841]=`<b>ὀφιο·κτόνη, ης (ἡ)</b> <i>propr</i>. « qui tue les serpents », <i>sorte de scolopendre,</i> DIOSC. <i>7, 6</i>.<p><b>Étym</b>. ὀφιοκτόνος.`

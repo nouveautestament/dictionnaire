@@ -1,1 +1,0 @@
-lar[64174]=`<b>μελλό·πλουτος, ος, ον</b>, qui est sur le point de devenir riche, EUN. <i>79, 3</i>.<p><b>Étym</b>. μ. πλοῦτος.`

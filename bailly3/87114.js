@@ -1,1 +1,0 @@
-lar[87114]=`<b>πρωϊ·βλαστής, ής, ές</b>, qui germe <i>ou</i> pousse de bonne heure, précoce, TH. <i>H.P. 1, 14, 3</i>.<p><b>Étym</b>. πρ. βλαστάνω.`

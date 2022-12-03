@@ -1,1 +1,0 @@
-lar[81259]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit pied, PLAT. COM. <i>2-2, 693 Mein.</i> ; ALEX. (<i>Com. fr. 3, 429).</i><p><b>Étym</b>. πούς.`

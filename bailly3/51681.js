@@ -1,1 +1,0 @@
-lar[51681]=`<font color="purple">[ᾰῠ]</font> se faire bien vivre, vivre en débauché, STR. <i>800</i>.<p><b>Étym</b>. καπυρός.`

@@ -1,1 +1,0 @@
-lar[35022]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. ἐντείχιος, LUC. <i>Par. 42</i> ; ONOS. <i>p. 139, 1Cor</i>.`

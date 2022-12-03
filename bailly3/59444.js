@@ -1,1 +1,0 @@
-lar[59444]=`<b>ης (ἡ)</b> Ladè, <i>petite î. devant Milet,</i> HDT. <i>6, 7</i> ; THC. <i>8, 17, 24, etc</i>.`

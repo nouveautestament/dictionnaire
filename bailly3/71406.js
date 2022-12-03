@@ -1,1 +1,0 @@
-lar[71406]=`<font color="purple">[ῑ]</font> <i>adv. c</i>. ὁμιλαδόν, HÉS. <i>Sc. 170</i>.`

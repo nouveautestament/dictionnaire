@@ -1,1 +1,0 @@
-lar[90519]=`<b>σιτό·βρυτις, ιδος</b>, <i>acc</i>. <b>ιν</b> <font color="purple">[ῑῠῐδ]</font> <i>adj. f</i>. qui fait pousser le blé, <i>ép. de Dèmèter,</i> POÈT. (<i>Wernsd. Philæ Carm. gr. p. 40, 207).</i><p><b>Étym</b>. σῖτος.`

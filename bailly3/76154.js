@@ -1,1 +1,0 @@
-lar[76154]=`<b>ή, όν :<br>      1</b> qu’on peut fléchir <i>ou</i> persuader, IL. <i>9, 526</i>.<br><b>      2</b> qu’on dit pour persuader : τὰ παραρρητά, IL. <i>13, 726,</i> conseils, avis, avertissements.<p><b>Étym</b>. π. ῥητός.`

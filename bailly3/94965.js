@@ -1,1 +1,0 @@
-lar[94965]=`<b>εως (ἡ)</b> harmonie parfaite, PORPH.<p><b>Étym</b>. συναρμόζω.`

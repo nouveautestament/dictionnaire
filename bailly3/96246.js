@@ -1,1 +1,0 @@
-lar[96246]=`<b>συν·οχέω-ῶ</b>, voiturer ensemble, <i>d’où au pass</i>. être voituré <i>ou</i> transporté avec, PLUT. <i>Galb. 20, etc</i>.`

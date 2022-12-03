@@ -1,1 +1,0 @@
-lar[29516]=`<b>ἐγ·καταδύνω</b> (<i>part. prés</i>.) <font color="purple">[ῡ]</font> se plonger <i>ou</i> pénétrer dans, être pénétrant, <i>en parl. du soleil,</i> HPC. <i>283, 20</i>.<p><b>Étym</b>. ἐν, κ.`

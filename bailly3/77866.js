@@ -1,1 +1,0 @@
-lar[77866]=`<b>ου (τὸ)</b> chose d’une grandeur <i>ou</i> d’une grosseur énorme, <i>d’où</i> prodige, monstre, IL. <i>2, 321, etc.</i> ; OD. <i>10, 168, etc.</i> ; HÉS. <i>Th. 295, etc</i>.<p><b>Étym</b>. πέλωρ.`

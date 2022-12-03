@@ -1,1 +1,0 @@
-lar[15433]=`<b>ἀρτο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui mange du pain, ATH. <i>418e ; 447c</i>.<p><b>Étym</b>. ἄ. φαγεῖν.`

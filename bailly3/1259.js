@@ -1,1 +1,0 @@
-lar[1259]=`<i>adv</i>., sans nom d’auteur, JOS. <i>c. Ap. 1, 16</i>.`

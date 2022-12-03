@@ -1,1 +1,0 @@
-lar[13005]=`<b>ἀπο·ξυρέω-ῶ</b> <font color="purple">[ῠ]</font> raser, tondre, AR. <i>Th. 215, 1043</i> ; LUC. <i>Sacr. 15</i> ; τινα τὴν κεφαλήν, HDT. <i>5, 35,</i> raser la tête à qqn.`

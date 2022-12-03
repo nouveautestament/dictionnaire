@@ -1,1 +1,0 @@
-lar[30766]=`<b>*εἰσ·ηθέω</b>, <i>ion</i>. <b>ἐσηθέω</b> (<i>part. ao</i>. ἐσηθήσαντες) injecter au moyen d’une seringue, HDT. <i>2, 87</i>.`

@@ -1,1 +1,0 @@
-lar[61706]=`<b>λοφη·φόρος, ος, ον</b>, qui porte une crête <i>ou</i> une aigrette, BABR. <i>88, 8</i>.<p><b>Étym</b>. λόφη, φέρω.`

@@ -1,1 +1,0 @@
-lar[72142]=`<b>ὀξυ·πέπερι, εος (τὸ)</b> <font color="purple">[ῠ]</font> mélange de vinaigre et de poivre, XÉNOCR. <i>Al. 49</i>.<p><b>Étym</b>. ὀ. πέπερι.`

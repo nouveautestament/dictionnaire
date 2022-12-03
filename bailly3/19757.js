@@ -1,1 +1,0 @@
-lar[19757]=`<b>βιο·ζυγής, ής, ές</b> <font color="purple">[ῠ]</font> qui unit la vie (hymen), NONN. <i>D. 33, 179</i>.<p><b>Étym</b>. β. ζεύγνυμι.`

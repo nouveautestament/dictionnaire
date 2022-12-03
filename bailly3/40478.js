@@ -1,1 +1,0 @@
-lar[40478]=`<font color="purple">[ῑ]</font> <i>mot arcad</i>. être en fureur, PAUS. <i>8, 25, 5</i>.<p><b>Étym</b>. ἐρινύς.`

@@ -1,1 +1,0 @@
-lar[22312]=`<b>ή, όν</b>, en forme de sentence, qui procède par sentences : ποιηταὶ γνωμικοί, ATH. <i>191e</i>, poètes Gnomiques (Solon, Phocylide, Théognis, <i>etc</i>.) ATH. <i>191e ;</i> τὰ γνωμικά, SEXT. <i>662, 30,</i> sentences, maximes.<p><b>Étym</b>. γνώμη.`

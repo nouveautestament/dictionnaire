@@ -1,1 +1,0 @@
-lar[40535]=`<b>Ἐρι·χθόνιος, ου (ὁ)</b> Érikhthonios :<br><b>      1</b> <i>roi des Dardaniens,</i> IL. <i>20, 219, 230</i>.<br><b>      2</b> <i>fils d’Hèphæstos et de la Terre,</i> EUR. <i>Ion 21, 268</i> ; LUC. <i>Philops. 3 ; ou d’Hèphæstos et d’Athèna,</i> APD. <i>3, 14, 6</i> ; LUC. <i>Dom. 27</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. Ἐρεχθεύς.`

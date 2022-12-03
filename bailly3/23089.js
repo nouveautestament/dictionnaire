@@ -1,1 +1,0 @@
-lar[23089]=`<b>ας (ἡ)</b> la Dalmatie, <i>contrée d’Illyrie,</i> STR. <i>314</i> ; POSIDON. (ATH. <i>369d</i>).`

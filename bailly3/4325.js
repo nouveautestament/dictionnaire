@@ -1,1 +1,0 @@
-lar[4325]=`<b>ἁλ·ηγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui transporte du sel, PLUT. <i>M. 685e</i>.<p><b>Étym</b>. ἅλς, ἄγω.`

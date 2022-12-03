@@ -1,1 +1,0 @@
-lar[109882]=`<b>ας (ἡ)</b> muscles lombaires, reins, HPC. <i>Art. 810, etc.</i> ; SPT. <i>2Reg. 2, 23, etc</i>.<p><b>Étym</b>. <i>cf</i>. ψοιά <i>et</i> ψύα.`

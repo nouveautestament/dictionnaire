@@ -1,1 +1,0 @@
-lar[105645]=`<b>(ὁ)</b> <font color="purple">[φῐᾰ]</font> Philiadès :<br><b>      1</b> <i>tyran de Messine,</i> DÉM. <i>212, 26, etc.</i><br><b>      2</b> <i>autre,</i> LUC. <i>Tim. 47</i>.`

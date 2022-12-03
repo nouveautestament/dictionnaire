@@ -1,1 +1,0 @@
-lar[33294]=`<b>ἔμ·μοχθος, ος, ον</b>, laborieux, pénible (vie) EUR. <i>Suppl. 1004 ; d’où</i> douloureux, cruel (morsure) NIC. <i>Th. 756</i>.<p><b>Étym</b>. ἐν, μόχθος.`

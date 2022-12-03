@@ -1,1 +1,0 @@
-lar[20919]=`<b>ου (ὁ)</b> hérisson de mer, ARSTT. <i>H.A. 4, 5, 2</i>.`

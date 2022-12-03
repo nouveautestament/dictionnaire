@@ -1,1 +1,0 @@
-lar[21966]=`<b>(ὁ)</b> Gèrytadès, <i>litt</i>. le Braillard, <i>titre d’une comédie d’Aristophane,</i> AR. <i>fr. 9</i>.<p><b>Étym</b>. γηρύω.`

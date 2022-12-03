@@ -1,1 +1,0 @@
-lar[62522]=`<b>μακρο·καταληξία, ας (ἡ)</b> état d’un vers dont le dernier demi-pied est long, GRAMM.<p><b>Étym</b>. <i>Cram. 4, 381</i>.`

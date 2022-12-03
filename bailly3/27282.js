@@ -1,1 +1,0 @@
-lar[27282]=`<b>ύος (ἡ)</b> <i>mot ion</i>. poursuite, CALL. <i>Dian. 194</i>.<p><b>Étym</b>. διώκω.`

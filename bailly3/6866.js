@@ -1,1 +1,0 @@
-lar[6866]=`<b>ἀναισχυντο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰφ]</font> écrivain obscène, POL. <i>12, 13, 1</i>.<p><b>Étym</b>. ἀναίσχυντος, γράφω.`

@@ -1,1 +1,0 @@
-lar[62597]=`<b>ας (ἡ) :<br>   I</b> instrument pour pétrir <i>ou</i> masser, <i>d’où</i> :<br><b>      1</b> huche, pétrin, AR. <i>Ran. 1159</i> ; XÉN. <i>Œc. 9, 7</i>.<br><b>      2</b> mortier pour broyer des drogues, NIC. <i>Th. 708</i>.<br><b>   II</b> lieu où l’on masse, baignoire, EUP. <i>2-1, 480 Meineke</i> ; POL. <i>30, 20, 3</i>.<p><b>Étym</b>. μάσσω.`

@@ -1,1 +1,0 @@
-lar[13951]=`<b>ἀπροσθετέω-ῶ</b>, ne pas adhérer à une opinion, DL. <i>9, 76</i>.<p><b>Étym</b>. ἀπρόσθετος.`

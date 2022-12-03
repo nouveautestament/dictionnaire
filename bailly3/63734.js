@@ -1,1 +1,0 @@
-lar[63734]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> jeune garçon, adolescent, PLAT. <i>Phædr. 237b</i>.<p><b>Étym</b>. μεῖραξ.`

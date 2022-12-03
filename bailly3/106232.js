@@ -1,1 +1,0 @@
-lar[106232]=`<b>φίλ·υβρις, ιος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> enclin à la violence <i>ou</i> à l’insulte, CRATÈS (CLÉM. <i>492</i>).`

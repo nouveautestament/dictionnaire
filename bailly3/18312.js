@@ -1,1 +1,0 @@
-lar[18312]=`<b>ἀ·φύξιμος, ος, ον</b>, NIC. <i>Th. 603,</i> non passager, durable (ἀ, φύξιμος) ; <i>sel. d’autres,</i> abondant.<p><b>Étym</b>. ἀφύσσω.`

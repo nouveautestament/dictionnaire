@@ -1,1 +1,0 @@
-lar[80803]=`<b>ίδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>., de Platon, CHRISTOD. <i>Ecphr. 393</i>.<p><b>Étym</b>. Πλάτων.`

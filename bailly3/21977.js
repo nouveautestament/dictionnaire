@@ -1,1 +1,0 @@
-lar[21977]=`<b>γή·χυτον, ου (τὸ)</b> terre végétale, <i>litt</i>. fusible, <i>càd</i>. molle, non pierreuse, GAL. <i>Lex. Hipp. 19, 91</i>.<p><b>Étym</b>. γῆ, χέω.`

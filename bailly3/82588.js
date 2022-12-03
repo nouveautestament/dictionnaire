@@ -1,1 +1,0 @@
-lar[82588]=`<b>πολύ·χυλος, ος, ον</b> <font color="purple">[ῠῡ]</font> au suc abondant, XÉNOCR. <i>Al. 42</i>.<p><b>Étym</b>. π. χυλός.`

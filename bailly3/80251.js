@@ -1,1 +1,0 @@
-lar[80251]=`<b>ιδος</b> <font color="purple">[ῐῑῐδ]</font> <i>adj. f. sorte de</i> coquelicot (Papaver rhoeas), DIOSC. <i>4, 65</i> ; <i>sens fig.</i>, en forme de jarre, de tonneau.<p><b>Étym</b>. πίθος.`

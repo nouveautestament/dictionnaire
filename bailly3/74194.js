@@ -1,1 +1,0 @@
-lar[74194]=`<font color="purple">[ᾰ]</font> se prêter à des actes infâmes, ANTH. <i>11, 73</i>.<p><b>Étym</b>. *παθικός, <i>de</i> πάθος.`

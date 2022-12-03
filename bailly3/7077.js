@@ -1,1 +1,0 @@
-lar[7077]=`<b>ἀν·άλειπτος, ος, ον</b> <font color="purple">[ᾰλ]</font> non graissé, AÉT. <i>3, 9</i>.<p><b>Étym</b>. ἀν-, ἀλείφω.`

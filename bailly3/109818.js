@@ -1,1 +1,0 @@
-lar[109818]=`<b>ῶνος (ὁ)</b> habile calculateur, MAN. <i>5, 277</i>.<p><b>Étym</b>. ψῆφος.`

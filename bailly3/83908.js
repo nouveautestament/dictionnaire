@@ -1,1 +1,0 @@
-lar[83908]=`<b>εως (ἡ)</b> examen <i>ou</i> recherche préalable, HPC. <i>369, 4</i>.<p><b>Étym</b>. προδιαγιγνώσκω.`

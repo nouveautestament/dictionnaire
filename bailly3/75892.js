@@ -1,1 +1,0 @@
-lar[75892]=`<b>ου (ὁ)</b> Paralos, <i>h</i>. PLAT. <i>Prot. 315a, etc.</i> ; PLUT. <i>Per. 24, etc</i>.<p><b>Étym</b>. <i>v</i>. πάραλος.`

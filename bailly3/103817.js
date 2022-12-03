@@ -1,1 +1,0 @@
-lar[103817]=`<b>ὑπό·σιμος, ος, ον</b> <font color="purple">[ῑ]</font> légèrement camus, EL. <i>N.A. 12, 27</i> ; PHILSTR. <i>717</i>.<p><b>Étym</b>. ὑ. σιμός.`

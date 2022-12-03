@@ -1,1 +1,0 @@
-lar[6304]=`<b>ἀμφι·περιστρωφάω-ῶ</b> (<i>seul. impf. 3 sg. poét</i>. -περιστρώφα) faire tourner tout autour, IL. <i>8, 348</i>.`

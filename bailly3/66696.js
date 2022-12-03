@@ -1,1 +1,0 @@
-lar[66696]=`<b>μον·ῳδία, ας (ἡ) :<br>      1</b> action de chanter seul, sans accompagnement, AR. <i>Ran. 849, 944, 1329</i> ; PLAT. <i>Leg. 764d ; au plur. p. opp. à</i> συναυλίαι, PLAT. <i>Leg. 765a.</i><br><b>      2</b> chant triste, complainte, PHILSTR. <i>V. Ap. 4, 21 ; p. ext</i>. oraison funèbre, HIM. <i>Or. 23</i>.<p><b>Étym</b>. μ. ᾠδή.`

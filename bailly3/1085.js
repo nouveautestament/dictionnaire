@@ -1,1 +1,0 @@
-lar[1085]=`<b>ἀγχι·τέρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> limitrophe, voisin de, <i>dat</i>. EUR. <i>Rhes. 426 ; gén</i>. LYC. <i>1130 ; abs</i>. SOPH. <i>fr. 349</i>.<p>➳ <i>En prose seul</i>. XÉN. <i>Hier. 10, 7</i>.<p><b>Étym</b>. ἄ. τέρμα.`

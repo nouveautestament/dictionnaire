@@ -1,1 +1,0 @@
-lar[906]=`<b>ἀγριό·βουλος, ος, ον</b>, aux sentiments sauvages, POLÉM. <i>230</i>.<p><b>Étym</b>. ἄγρ. βουλή.`

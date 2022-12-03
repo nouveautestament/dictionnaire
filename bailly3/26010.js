@@ -1,1 +1,0 @@
-lar[26010]=`<b>ου (τὸ)</b> <font color="purple">[ῐκᾰ]</font><br><b>      1</b> enseignement, instruction, HDT. <i>5, 58 ; d’où</i> leçon, XÉN. <i>Eq. 11, 5</i>.<br><b>      2</b> <i>au plur</i>. honoraires d’un maître, PLUT. <i>Alex. 7</i>.<br><b>      3</b> <i>postér</i>. école, BAS. <i>1, 68b Migne (cf</i>. διδασκαλεῖον).<p><b>Étym</b>. διδάσκαλος.`

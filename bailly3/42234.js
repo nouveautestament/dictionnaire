@@ -1,1 +1,0 @@
-lar[42234]=`<b>ας (ἡ)</b> <font color="purple">[ῠδῐ]</font> action de plaider au fond : εὐθυδικίᾳ εἰσιέναι, DÉM. <i>1103, 11, ou</i> εἰσελθεῖν, IS. <i>60, 32</i> ; εὐθυδικίαν εἰσιέναι, DÉM. <i>908, 7, ou</i> ἀποδέχεσθαι, IS. <i>63, 15,</i> plaider au fond.<p><b>Étym</b>. εὐθύδικος.`

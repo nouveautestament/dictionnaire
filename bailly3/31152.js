@@ -1,1 +1,0 @@
-lar[31152]=`<b>-ῶ</b>, rendre résineux, <i>d’où au pass</i>. devenir résineux, TH. <i>C.P. 6, 11, 9</i>.<p><b>Étym</b>. ἐκ, δᾴς.`

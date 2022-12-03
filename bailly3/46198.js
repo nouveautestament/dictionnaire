@@ -1,1 +1,0 @@
-lar[46198]=`<b>ας (ἡ)</b> <font color="purple">[θᾰ]</font> végétation de jeunes pousses, TH. <i>C.P. 3, 5, 1 ; au plur. ibid. 1, 20, 3</i>.<p><b>Étym</b>. θάλλω.`

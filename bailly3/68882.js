@@ -1,1 +1,0 @@
-lar[68882]=`<i>p. contr</i>. <b>νοίδιον, ου (τὸ)</b> pensée, AR. <i>Eq. 100</i> ; PHILSTR. <i>p. 586</i>.<p><b>Étym</b>. <i>dim. de</i> νοῦς.`

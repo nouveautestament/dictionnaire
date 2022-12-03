@@ -1,1 +1,0 @@
-lar[108683]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> petit coquillage de mer, dont les juges Athéniens se servaient pour voter, AR. <i>Eq. 1332, Vesp. 333</i>.`

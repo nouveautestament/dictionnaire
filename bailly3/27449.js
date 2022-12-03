@@ -1,1 +1,0 @@
-lar[27449]=`<b>δολο·εργός, ός, όν</b>, qui agit avec perfidie, à l’œuvre perfide, MAN. <i>4, 57, 243</i>.<p><b>Étym</b>. δόλος, ἔργον.`

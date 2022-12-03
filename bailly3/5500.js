@@ -1,1 +1,0 @@
-lar[5500]=`<b>ἀ·μετάπειστος, ος, ον</b>, qu’on ne peut dissuader, <i>d’où</i> :<br><b>      1</b> inflexible, ARSTT. <i>An. post. 1, 2 fin, etc.</i> ; PLUT. <i>Thes. 17, etc.</i><br><b>      2</b> immuable, <i>en parl. de choses,</i> DS. <i>Exc. 612, 35</i>.`

@@ -1,1 +1,0 @@
-lar[101318]=`<b>ης (ἡ)</b> Hyampéiè (<i>auj</i>. Yámpia, <i>anc</i>. Flemboúkos) <i>un des sommets du Parnasse,</i> HDT. <i>8, 39</i>.`

@@ -1,1 +1,0 @@
-lar[62140]=`<b>ας (ἡ)</b> illumination, THÉM.<p><b>Étym</b>. λυχνοποιός.`

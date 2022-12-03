@@ -1,1 +1,0 @@
-lar[90443]=`<b>ου (ὁ)</b> habitant de Siris, <i>dans la Grande-Grèce,</i> HDT. <i>6, 127, etc</i>.<p><b>Étym</b>. Σῖρις¹.`

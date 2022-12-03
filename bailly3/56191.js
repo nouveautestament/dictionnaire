@@ -1,1 +1,0 @@
-lar[56191]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰ]</font> lieu rocheux <i>ou</i> escarpé, <i>d’où</i> rocher, LYC. <i>653</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. κρῶμαξ.`

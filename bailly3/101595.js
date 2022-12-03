@@ -1,1 +1,0 @@
-lar[101595]=`<b>ή, όν</b>, qui concerne l’hydrophobie, DIOSC. <i>Ther. 2</i> ; GAL. <i>14, 208</i>.<p><b>Étym</b>. ὑδροφοβία.`

@@ -1,1 +1,0 @@
-lar[9021]=`<b>ἀνθ·υπορύσσω</b> <font color="darkgreen">(<i>ao</i>. -υπώρυξα)</font> faire une contre-mine, POLYEN <i>6, 17</i>.`

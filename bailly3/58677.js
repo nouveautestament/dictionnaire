@@ -1,1 +1,0 @@
-lar[58677]=`<font color="darkgreen">(<i>ao</i>. ἐκυμβάλισα)</font> <font color="purple">[ᾰ]</font> jouer des cymbales, LUC. <i>Cal. 16,</i> MÉN. <i>4, 166 Meineke</i>.<p><b>Étym</b>. κύμβαλον.`

@@ -1,1 +1,0 @@
-lar[11704]=`<b>ἀπ·ενιαυτέω-ῶ</b>, être banni pour un an, <i>d’où abs</i>. être banni, PLAT. <i>Leg. 868c</i>.<p><b>Étym</b>. ἀπό, ἐνιαυτός.`

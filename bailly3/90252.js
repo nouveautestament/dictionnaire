@@ -1,1 +1,0 @@
-lar[90252]=`<b>εως (ἡ)</b> <font color="purple">[ῐκ]</font> application de ventouses, P. ÉG. <i>198 Briau</i>.<p><b>Étym</b>. σικυάζω.`

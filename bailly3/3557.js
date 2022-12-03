@@ -1,1 +1,0 @@
-lar[3557]=`<font color="purple">[ᾱ]</font> <i>adv</i>., malgré soi, XÉN. <i>Hell. 4, 8, 5</i> ; PLAT. <i>Prot. 333b, Hipp. ma. 374d</i>.<p><b>Étym</b>. ἄκων².`

@@ -1,1 +1,0 @@
-lar[95198]=`<b>συν·διοράω-ῶ</b>, voir en même temps à fond, ISOCR. <i>80c</i>.`

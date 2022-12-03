@@ -1,1 +1,0 @@
-lar[15203]=`<b>ου (ὁ)</b> Arsakès (Arsacès) :<br><b>      1</b> <i>Perse,</i> ESCHL. <i>Pers. 996</i> ; THC. <i>8, 108</i>.<br><b>      2</b> <i>n. de plusieurs rois parthes,</i> PLUT. <i>Syll. 5, Crass. 18, etc</i>.<p>➳ <font color="purple">[σᾱ]</font> ESCHL. <i>l. c</i>.`

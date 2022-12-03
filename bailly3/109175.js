@@ -1,1 +1,0 @@
-lar[109175]=`<b>χρυσό·ζωνος, ος, ον</b> <font color="purple">[ῡ]</font> à ceinture d’or, POÈT. (SCH.-PD. <i>N. 3, 64).</i><p><b>Étym</b>. χρ. ζώνη.`

@@ -1,1 +1,0 @@
-lar[592]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> sainteté.<p><b>Étym</b>. ἅγιος.`

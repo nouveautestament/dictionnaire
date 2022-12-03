@@ -1,1 +1,0 @@
-lar[93009]=`<b>έως (ὁ)</b> gond de porte, AR. <i>Th. 487</i> ; TH. <i>H.P. 5, 6, 4</i> ; POL. <i>7, 16, 5</i> ; LUC. <i>D. mer. 12, 3</i>.<p><b>Étym</b>. στρέφω.`

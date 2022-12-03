@@ -1,1 +1,0 @@
-lar[75556]=`<b>παρα·δυναστεύω</b> <font color="purple">[ῠν]</font> exercer le pouvoir à côté de <i>ou</i> avec, <i>dat</i>. THC. <i>2, 97</i> ; DC. <i>53, 19</i>.`

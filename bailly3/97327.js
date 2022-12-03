@@ -1,1 +1,0 @@
-lar[97327]=`<i>divinité parthe correspondant à l’</i>Ἑστία, <i>des Grecs,</i> HDT. <i>4, 59</i>.`

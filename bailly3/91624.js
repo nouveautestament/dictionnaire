@@ -1,1 +1,0 @@
-lar[91624]=`<b>Σουνι·άρατος, ος, ον</b> <font color="purple">[ᾰᾱ]</font> honoré à Sounion, <i>altéré en</i> Σουνιέρακος, <i>p.-ê. avec jeu de mots sur</i> ἱέραξ, faucon, épervier de Sounion, AR. <i>Eq. 560, Av. 869</i>.<p><b>Étym</b>. Σούνιον, ἀράομαι.`

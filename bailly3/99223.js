@@ -1,1 +1,0 @@
-lar[99223]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> celui qui taxe, <i>particul</i>. qui fixe une amende, PLAT. <i>Leg. 843d ;</i> ARSTT. <i>Rhet. Al. 5, 12</i> ; expert, ARSTT. <i>Ath. 39, 3</i>.<br><b>      2</b> <i>à Rome,</i> censeur, POL. <i>6, 13, 3</i> ; PLUT. <i>Cic. 27, etc</i>.<p><b>Étym</b>. τιμάω.`

@@ -1,1 +1,0 @@
-lar[105107]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> fourbe, trompeur, AR. <i>Ran. 909 ; avec jeu de mots p. allus. à</i> φοῖνιξ, AR. <i>Ach. 89</i>.`

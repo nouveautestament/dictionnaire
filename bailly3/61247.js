@@ -1,1 +1,0 @@
-lar[61247]=`<b>λιν·όπτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui a l’œil sur la ligne <i>ou</i> le filet, ARSTT. (SCH.-AR. <i>Pax 1178).</i><p><b>Étym</b>. λ. ὄψομαι.`

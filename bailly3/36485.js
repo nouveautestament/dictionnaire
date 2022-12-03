@@ -1,1 +1,0 @@
-lar[36485]=`<b>ἐπ·αλαλάζω</b> <font color="purple">[ᾰλᾰλ]</font> pousser un cri de guerre, de victoire, ESCHL. <i>Sept. 497, etc.</i> ; τῷ Ἐνυαλίῳ, XÉN. <i>Cyr. 7, 1, 26,</i> en l’honneur d’Ényalios.`

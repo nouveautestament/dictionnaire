@@ -1,1 +1,0 @@
-lar[39741]=`<b>ἐπι·χώομαι</b> (<i>moy. ao. 3 sg</i>. ἐπεχώσατο) s’irriter contre, <i>dat</i>. A.RH. <i>3, 367</i>.`

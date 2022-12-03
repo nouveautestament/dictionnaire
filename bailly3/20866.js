@@ -1,1 +1,0 @@
-lar[20866]=`<b>βροτοκτονέω-ῶ</b> (<i>seul. part. prés</i>.) commettre un homicide, ESCHL. <i>Eum. 421</i>.<p><b>Étym</b>. βροτοκτόνος.`

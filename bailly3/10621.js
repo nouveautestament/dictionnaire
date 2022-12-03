@@ -1,1 +1,0 @@
-lar[10621]=`<b>ἀντι·ψωμίζω</b>, repaître à son tour <i>ou</i> en retour, AR. <i>Eq. arg. 1</i>.`

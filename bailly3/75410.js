@@ -1,1 +1,0 @@
-lar[75410]=`<i>gén</i>. <b>ῶπος (ὁ, ἡ)</b> qui regarde de travers, louche, IL. <i>9, 503</i> ; LUC. <i>Ind. 7</i> ; ANTH. <i>11, 361</i>.<p><b>Étym</b>. παραβλέπω.`

@@ -1,1 +1,0 @@
-lar[102630]=`<b>ὑπερ·λίαν</b>, <i>adv</i>., excessivement, supérieurement, NT. <i>2Cor. 11, 5 ; 12, 11</i>.`

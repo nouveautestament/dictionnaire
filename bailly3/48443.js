@@ -1,1 +1,0 @@
-lar[48443]=`<b>ἰδιό·τροφος, ος, ον</b> <font color="purple">[ῐδ]</font> qui se nourrit d’une manière particulière, ARSTT. <i>H.A. 1, 1, 26</i>.<p><b>Étym</b>. ἴδ. τρέφω.`

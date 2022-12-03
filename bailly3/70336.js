@@ -1,1 +1,0 @@
-lar[70336]=`<b>ή, όν</b>, qui concerne le service <i>ou</i> les serviteurs, PLAT. <i>Soph. 226b ;</i> ARSTT. <i>Pol. 2, 2, 3</i> ; τὸ οἰκετικόν, PLUT. <i>Syll. 9,</i> les gens, les domestiques.<p><b>Étym</b>. οἰκέτης.`

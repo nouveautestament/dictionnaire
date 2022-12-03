@@ -1,1 +1,0 @@
-lar[76602]=`<b>παρ·εισφθείρομαι</b>, s’introduire <i>ou</i> survenir pour le malheur d’autrui <i>ou</i> pour le sien propre, PHIL. <i>2, 11, 341, 570</i> ; JOS. <i>B.J. 4, 2, 1</i>.`

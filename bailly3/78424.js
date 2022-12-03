@@ -1,1 +1,0 @@
-lar[78424]=`<b>περι·αχυρίζω</b> <font color="purple">[ᾰῠ]</font> enlever de la paille tout autour, DIEUCH. (ORIB. <i>p. 43 Matthäi).</i><p><b>Étym</b>. π. ἄχυρον.`

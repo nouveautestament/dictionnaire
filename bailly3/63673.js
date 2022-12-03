@@ -1,1 +1,0 @@
-lar[63673]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action de sourire, PORPH. <i>Abst. 312</i>.<p><b>Étym</b>. μειδιάω.`

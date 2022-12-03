@@ -1,1 +1,0 @@
-lar[102551]=`<b>ὑπερ·ιάχω</b> (<i>seul. prés. et impf</i>.) <font color="purple">[ᾰ]</font> résonner plus fort que, couvrir de son bruit, <i>gén</i>. A. PL. <i>305</i>.`

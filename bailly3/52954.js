@@ -1,1 +1,0 @@
-lar[52954]=`<i>vb. de</i> καταντλέω, ANTYLL. (ORIB. <i>248 Matthäi</i>).`

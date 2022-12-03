@@ -1,1 +1,0 @@
-lar[15341]=`<b>ἀρτί·ζωος, ος, ον</b>, dont la vie est courte, HPC. <i>261, 55</i>.<p><b>Étym</b>. ἄ. ζωή.`

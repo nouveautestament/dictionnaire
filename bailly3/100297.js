@@ -1,1 +1,0 @@
-lar[100297]=`<b>α, ον</b> <font color="purple">[τρῐ]</font> <i>c</i>. τρίμοιρος, APD. POL. <i>26</i>.`

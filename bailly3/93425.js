@@ -1,1 +1,0 @@
-lar[93425]=`<b>συγ·κέλλω</b>, pousser ensemble <i>ou</i> en même temps, OPP. <i>H. 5, 602</i>.`

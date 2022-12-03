@@ -1,1 +1,0 @@
-lar[75053]=`<i>adv</i>., dans un grand repas, HDN GR. <i>Epim. p. 255 Boissonade</i>.<p><b>Étym</b>. πάνθοινος.`

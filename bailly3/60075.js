@@ -1,1 +1,0 @@
-lar[60075]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> de Lébadeia, ARSTT. <i>H.A. 8, 28</i>.<p><b>Étym</b>. Λεβάδεια.`

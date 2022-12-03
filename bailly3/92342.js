@@ -1,1 +1,0 @@
-lar[92342]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> olive noire, ATH. <i>56c</i>.<p><b>Étym</b>. <i>cf</i>. στεμφυλῖτις, στέμφυλον.`

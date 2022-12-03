@@ -1,1 +1,0 @@
-lar[50916]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvais naturel, PLAT. <i>Def. 416</i>.<p><b>Étym</b>. κακοφυής.`

@@ -1,1 +1,0 @@
-lar[101806]=`<b>ὑμν·αγόρας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> chanteur d’hymnes, <i>ép. d’Apollon,</i> ANTH. <i>9, 525, 21</i>.<p><b>Étym</b>. ὕμνος, ἀγορεύω.`

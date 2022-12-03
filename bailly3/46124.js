@@ -1,1 +1,0 @@
-lar[46124]=`<b>ῶν (αἱ)</b> Thalames, <i>forteresse d’Élide,</i> XÉN. <i>Hell. 7, 4, 26</i>.`

@@ -1,1 +1,0 @@
-lar[78320]=`<b>ή, όν</b> <font color="purple">[ῑῐ]</font> de perdrix, AR. (<i>Com. fr. 2, 1119).</i><p><b>Étym</b>. πέρδιξ.`

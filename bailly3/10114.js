@@ -1,1 +1,0 @@
-lar[10114]=`<b>ἀντί·μουσος, ος, ον</b>, qui répond par des accords à, <i>dat</i>. RHÉT. <i>1, 493 W</i>.<p><b>Étym</b>. ἀ. μοῦσα.`

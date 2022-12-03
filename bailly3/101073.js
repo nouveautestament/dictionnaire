@@ -1,1 +1,0 @@
-lar[101073]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> marteau, A.RH. <i>4, 762</i> ; DS. <i>3, 12</i>.<p><b>Étym</b>. τύπτω.`

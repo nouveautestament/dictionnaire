@@ -1,1 +1,0 @@
-lar[65692]=`<b>μικρο·γένειος, ος, ον</b> <font color="purple">[ῑ]</font> qui a le menton petit, POLÉM. <i>Physiogn. 1, 13</i>.<p><b>Étym</b>. μ. γένειον.`

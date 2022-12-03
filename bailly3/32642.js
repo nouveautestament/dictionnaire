@@ -1,1 +1,0 @@
-lar[32642]=`<b>ας (ἡ)</b> discours propre à exciter la pitié, lamentation, PLAT. <i>Phædr. 272a</i>.<p><b>Étym</b>. <i>cf</i>. ἐλεεινολογέομαι.`

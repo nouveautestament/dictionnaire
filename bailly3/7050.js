@@ -1,1 +1,0 @@
-lar[7050]=`<b>ἀνα·κυρίωσις, εως (ἡ)</b> action de se concilier de l’autorité, HPC. <i>24, 42 dout</i>.<p><b>Étym</b>. ἀνά, κυριόω.`

@@ -1,1 +1,0 @@
-lar[97676]=`<b>ϊέων</b>, <i>acc</i>. <b>-ΐας (αἱ)</b> Tarikhèïes, <i>v. d’Égypte, près de la bouche Canopique du Nil,</i> HDT. <i>2, 113</i>.`

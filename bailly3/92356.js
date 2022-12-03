@@ -1,1 +1,0 @@
-lar[92356]=`<b>στενό·βουλος, ος, ον</b>, dont la volonté est étroite, <i>càd</i>. rigide, SIB. <i>5, 241</i>.<p><b>Étym</b>. στενός, βουλή.`

@@ -1,1 +1,0 @@
-lar[40123]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> collecte, PLAT. <i>Leg. 915e</i>.<p><b>Étym</b>. ἐρανίζω.`

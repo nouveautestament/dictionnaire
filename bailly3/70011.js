@@ -1,1 +1,0 @@
-lar[70011]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. ὀβολιαῖος, THÉANO <i>Ep. 3</i>.`

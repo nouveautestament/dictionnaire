@@ -1,1 +1,0 @@
-lar[9768]=`<b>ἀντι·βιάζομαι</b> <font color="darkgreen">(<i>part. ao</i>. -βιασθείς)</font> opposer la force à la force, ANTH. <i>12, 183</i> ; PHIL. <i>2, 423</i>.`

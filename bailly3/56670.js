@@ -1,1 +1,0 @@
-lar[56670]=`<b>ητος (ἡ)</b> état d’une chose courte et insuffisante, PLUT. <i>M. 800e ;</i> πνεύματος, PLUT. <i>Dem. 6,</i> respiration courte.<p><b>Étym</b>. κολοβός.`

@@ -1,1 +1,0 @@
-lar[83604]=`<b>προ·ανοίγω</b>, ouvrir auparavant, PLUT. <i>M. 36d</i>.`

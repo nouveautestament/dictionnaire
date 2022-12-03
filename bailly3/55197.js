@@ -1,1 +1,0 @@
-lar[55197]=`<b>ου (τὸ)</b> machine pour tirer de l’eau, pompe, AR. <i>fr. 554</i> ; ARSTT. <i>Mech. 28</i>.<p>➳ <i>Ion</i>. -ήϊον, HDT. <i>1, 193 ; 9, 119</i>.<p><b>Étym</b>. <i>cf</i>. κήλων.`

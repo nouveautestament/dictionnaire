@@ -1,1 +1,0 @@
-lar[5220]=`<b>οῦ (ἡ)</b> Hamaxitos, <i>v. sur la côte de Troade,</i> THC. <i>8, 101</i> ; XÉN. <i>Hell. 3, 1, 13, etc</i>.`

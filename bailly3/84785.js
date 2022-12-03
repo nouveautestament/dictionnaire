@@ -1,1 +1,0 @@
-lar[84785]=`<b>ας (ἡ)</b> action de fourrager, <i>p. suite,</i> de dévaster le territoire ennemi, POL. <i>4, 68, 3</i>.<p><b>Étym</b>. προνομεύω.`

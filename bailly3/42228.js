@@ -1,1 +1,0 @@
-lar[42228]=`<b>ή, όν</b>, qui concerne la ligne droite, JAMBL. <i>Nicom. ar. 36c, 80a, etc</i>.<p><b>Étym</b>. εὐθύγραμμος.`

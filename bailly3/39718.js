@@ -1,1 +1,0 @@
-lar[39718]=`<b>εως (ἡ)</b> <font color="purple">[ῑσ]</font> action d’enduire, onction, STR. <i>199</i>.<p><b>Étym</b>. ἐπιχρίω.`

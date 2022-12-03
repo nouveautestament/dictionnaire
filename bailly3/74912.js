@@ -1,1 +1,0 @@
-lar[74912]=`<font color="purple">[δᾱ]</font> <i>adv. c</i>. πανδημεί, ESCHL. <i>Eum. 1039</i> <font color="purple">[ῑ]</font> ; ANTH. <i>5, 44</i> <font color="purple">[ῐ]</font>.`

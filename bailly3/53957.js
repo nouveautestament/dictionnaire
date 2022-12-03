@@ -1,1 +1,0 @@
-lar[53957]=`<b>κατ·εσκολιωμένως</b>, <i>adv</i>., d’une manière tortueuse, ANTYLL. (ORIB. <i>p. 16 Mai).</i><p><b>Étym</b>. κατά, σκολιόω.`

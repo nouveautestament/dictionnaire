@@ -1,1 +1,0 @@
-lar[49757]=`<b>ἰσο·ταχής, ής, ές</b> <font color="purple">[ῑ̆ᾰ]</font> également rapide, ARSTT. <i>Phys. 4, 8, 15</i> ; POL. <i>10, 44, 9, etc</i>.<p><b>Étym</b>. ἴ. τάχος.`

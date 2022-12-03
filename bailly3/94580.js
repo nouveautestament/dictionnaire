@@ -1,1 +1,0 @@
-lar[94580]=`<b>εως (ἡ)</b> effort commun, BAS. <i>3, 1005 Migne</i>.<p><b>Étym</b>. συναθλέω.`

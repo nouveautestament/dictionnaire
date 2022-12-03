@@ -1,1 +1,0 @@
-lar[4768]=`<b>ἀλλο·γνοέω-οῶ :<br>      1</b> prendre pour un autre, se méprendre, HDT. <i>1, 85</i>.<br><b>      2</b> avoir l’esprit égaré, GAL. <i>Lex. Hipp. 19, 75</i>.<p>➳ <i>Part. ao. ion</i>. -γνώσας, <i>v</i>. -γνοήσας, HDT. <i>l. c</i>.<p><b>Étym</b>. ἄ. *γνοέω, <i>d’où</i> νοέω.`

@@ -1,1 +1,0 @@
-lar[9798]=`<b>ων (τὰ)</b> fêtes en l’honneur d’Antigone, POL. <i>28, 16, 3 ; 30, 20, 3</i>.<p><b>Étym</b>. Ἀντίγονος.`

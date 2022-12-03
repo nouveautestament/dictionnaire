@@ -1,1 +1,0 @@
-lar[34440]=`<b>ατος (τὸ)</b> infusion, décoction, ARÉT. <i>Cur. m. acut. 1, 1</i>.<p><b>Étym</b>. ἐνέψω.`

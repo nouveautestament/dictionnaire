@@ -1,1 +1,0 @@
-lar[46743]=`<b>θεο·πληξία, ας (ἡ)</b> châtiment infligé par Dieu, ŒNOM. (EUS. <i>P.E. 234c</i>).<p><b>Étym</b>. θ. πλήσσω.`

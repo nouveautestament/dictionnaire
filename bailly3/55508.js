@@ -1,1 +1,0 @@
-lar[55508]=`<b>ου (ὁ)</b> <font color="purple">[ῑν]</font> Kinèsias, <i>poète dithyrambique d’Athènes,</i> AR. <i>Ran. 153, 1437 ; Av. 1377, etc</i>.<p>➳ <i>Voc</i>. -ία, ANTH. <i>6, 732, etc</i>.`

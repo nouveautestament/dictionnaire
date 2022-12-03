@@ -1,1 +1,0 @@
-lar[55418]=`<b>ας (ἡ)</b> <font color="purple">[ῐθᾰ]</font> <i>fém. c</i>. κιθαριστής, ARSTT. <i>Ath. 50, 2</i>.`

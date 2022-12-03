@@ -1,1 +1,0 @@
-lar[26982]=`<b>ου (ὁ)</b> <font color="purple">[ῐῑ]</font> citoyen de deux villes, MAN. <i>5, 291</i>.<p><b>Étym</b>. δίπολις.`

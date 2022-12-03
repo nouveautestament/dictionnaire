@@ -1,1 +1,0 @@
-lar[34089]=`<b>ἐν·δαίνυμαι</b> <font color="purple">[ῡ]</font> (<i>seul. prés</i>.) se nourrir de, <i>acc</i>. ATH. <i>277a</i>.`

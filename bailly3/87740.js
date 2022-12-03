@@ -1,1 +1,0 @@
-lar[87740]=`<b>πυρ·άγρα</b>, <i>ion</i>. <b>πυρ·άγρη, ης (ἡ)</b> <font color="purple">[ῠ]</font> pince pour remuer <i>ou</i> manier du feu, pincettes, IL. <i>18, 477</i> ; OD. <i>3, 434</i> ; CALL. <i>Del. 144</i>.<p><b>Étym</b>. πῦρ, ἀγρέω.`

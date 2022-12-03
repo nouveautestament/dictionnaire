@@ -1,1 +1,0 @@
-lar[84234]=`<b>προ·επιδέω</b>, bander auparavant, GAL. <i>18, 1, 814</i>.`

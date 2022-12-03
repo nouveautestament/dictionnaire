@@ -1,1 +1,0 @@
-lar[62761]=`<b>ή, όν</b> <font color="purple">[ᾰγ]</font> de mandragore, A. TR. <i>1, p. 18</i>.<p><b>Étym</b>. μανδραγόρας.`

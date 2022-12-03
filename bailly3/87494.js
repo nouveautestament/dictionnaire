@@ -1,1 +1,0 @@
-lar[87494]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> fève, <i>ou p.-ê</i>. gros grain d’orge mondé, HLD. ATH. (ATH. <i>406c</i>).`

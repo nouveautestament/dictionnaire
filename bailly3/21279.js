@@ -1,1 +1,0 @@
-lar[21279]=`<b>εως (ἡ)</b> galiopsis, <i>plante,</i> DIOSC. <i>4, 95</i>.`

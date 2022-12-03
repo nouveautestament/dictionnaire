@@ -1,1 +1,0 @@
-lar[22408]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> grincement <i>ou</i> claquement de dents, DIOSC. <i>2, 63</i>.<p><b>Étym</b>. γομφιάζω.`

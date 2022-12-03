@@ -1,1 +1,0 @@
-lar[75680]=`<b>παρα·καταβαίνω</b>, descendre (de cheval, POL. <i>3, 115, 3, ou</i> d’un navire, DS. <i>3, 40</i>) pendant qu’une chose se fait.`

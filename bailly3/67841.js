@@ -1,1 +1,0 @@
-lar[67841]=`<b>ναυ·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui dévore <i>ou</i> détruit les navires, LYC. <i>1095</i>.<p><b>Étym</b>. ν. φαγεῖν.`

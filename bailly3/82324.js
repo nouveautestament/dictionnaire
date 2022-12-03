@@ -1,1 +1,0 @@
-lar[82324]=`<b>πολυ·ρραγής, ής, ές</b> <font color="purple">[ᾰ]</font> aux nombreuses fentes <i>ou</i> crevasses, NIC. <i>Th. 59</i>.<p><b>Étym</b>. π. ῥήγνυμι.`

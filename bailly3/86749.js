@@ -1,1 +1,0 @@
-lar[86749]=`<b>ῆς (ἡ)</b> mort prématurée, P. ALEX. <i>Apot. 24, p. 62, l. 6 Boer</i>.<p><b>Étym</b>. <i>v</i>. προτελευτάω.`

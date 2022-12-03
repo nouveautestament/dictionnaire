@@ -1,1 +1,0 @@
-lar[71019]=`<b>ὀλιγό·καιρος, ος, ον</b> <font color="purple">[ῐ]</font> qui a peu de temps pour agir, HPC. <i>422, 7</i>.<p><b>Étym</b>. ὀλ. καιρός.`

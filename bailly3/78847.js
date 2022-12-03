@@ -1,1 +1,0 @@
-lar[78847]=`<b>περι·κύκλῳ</b>, <i>adv</i>., tout autour, SPT. <i>Ex. 28, 29 ; 1Par. 9, 27 ; Ps. 88, 8 ; d’où l’adj</i>. περίκυκλος, ος, ον, entièrement rond, NONN. <i>D. 25, 145</i>.<p><b>Étym</b>. π. κύκλῳ, <i>dat. de</i> κύκλος.`

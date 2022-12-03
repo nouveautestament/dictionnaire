@@ -1,1 +1,0 @@
-lar[65016]=`<b>μετ·αῦθις</b>, <i>adv</i>., plus tard, ensuite, ESCHL. <i>Eum. 478, 498</i>.`

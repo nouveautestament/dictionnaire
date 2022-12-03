@@ -1,1 +1,0 @@
-lar[74041]=`<b>ὀψοποιέω-ῶ</b>, apprêter des mets, PLUT. <i>M. 663b ; fig</i>. PLUT. <i>M. 55a.</i><br><b><i>Moy.</i></b> apprêter des mets pour soi, XÉN. <i>Mem. 3, 14, 5 ; etc</i>.<p><b>Étym</b>. ὀψοποιός.`

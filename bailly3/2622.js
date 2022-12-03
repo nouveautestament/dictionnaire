@@ -1,1 +1,0 @@
-lar[2622]=`(<i>seul. prés</i>.) amuser, tromper, AR. <i>Pl. Arg</i>.<p><b>Étym</b>. αἱμύλος.`

@@ -1,1 +1,0 @@
-lar[39537]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> succès, réussite, POL. <i>1, 6, 4 ; 5, 14, 11 ; 6, 15, 7</i> ; DH. <i>3, 70, etc.</i><br><b>      2</b> avantage, PHIL. <i>2, 326</i>.<p><b>Étym</b>. ἐπιτυχής.`

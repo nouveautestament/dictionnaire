@@ -1,1 +1,0 @@
-lar[29962]=`<b>ατος (τὸ)</b> terrassement, levée de terre, POL. <i>4, 39, 9 ; 4, 40, 9</i>.<p><b>Étym</b>. ἐγχώννυμι.`

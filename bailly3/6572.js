@@ -1,1 +1,0 @@
-lar[6572]=`<b>ἀνα·βρόχω</b> <font color="darkgreen">(<i>ao. opt. 3 sg</i>. -βρόξειε, OD. <i>12, 240 ; part. fém</i>. -βρόξασα, A.RH. <i>4, 826 ; part. ao.2 pass</i>. -βροχέν, OD. <i>11, 586</i>)</font> engloutir ; <i>cf</i>. καταβρόχω.`

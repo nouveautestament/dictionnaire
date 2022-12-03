@@ -1,1 +1,0 @@
-lar[32631]=`<b>ης (ἡ)</b> reproche infamant, opprobre, IL. <i>22, 100</i> ; A.RH. <i>3, 1115</i>.<p><b>Étym</b>. ἔλεγχος.`

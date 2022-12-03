@@ -1,1 +1,0 @@
-lar[60776]=`<b>ή, όν</b>, qui se termine en (<i>en</i> λς <i>comme</i> ἅλς, <i>en</i> ρς <i>c</i>. μάκαρς, <i>etc</i>.) DYSC. <i>Synt. 7, 10</i>.<p><b>Étym</b>. λήγω.`

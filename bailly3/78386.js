@@ -1,1 +1,0 @@
-lar[78386]=`<b>περι·αμφίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> mouvement en tous sens, EUP. <i>2-1, 574 Meineke</i>.<p><b>Étym</b>. π. ἀμφί.`

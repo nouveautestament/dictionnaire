@@ -1,1 +1,0 @@
-lar[82374]=`<b>πολύ·σπαστον, ου (τὸ)</b> machine formée de poulies avec des cordes pour soulever les fardeaux, PLUT. <i>Marc. 14 ; particul</i>. moufle (de bandage d’une machine de jet) HÉRON.<p><b>Étym</b>. π. σπάω.`

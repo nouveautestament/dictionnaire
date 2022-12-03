@@ -1,1 +1,0 @@
-lar[51794]=`<font color="purple">[ᾰ]</font><br><b>      1</b> agir comme un Carien, <i>càd</i>. comme un homme de rien, DIOGÉN. <i>7, 65</i>.<br><b>      2</b> parler la langue des Cariens, STR. <i>663</i>.<p><b>Étym</b>. Κάρ.`

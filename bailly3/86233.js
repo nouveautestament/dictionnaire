@@ -1,1 +1,0 @@
-lar[86233]=`<b>προσ·ορχέομαι-οῦμαι</b>, danser auprès, LUC. <i>Cal. 16, ou</i> à l’occasion de, <i>dat</i>. PLUT. <i>M. 46b</i>.`

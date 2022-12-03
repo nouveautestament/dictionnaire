@@ -1,1 +1,0 @@
-lar[39]=`<b>ἀ·βάλε</b> <font color="purple">[ᾰᾰ]</font> <i>formule de souhait,</i> <font color="brown">plaise aux dieux que !</font> <i>avec l’ao. ind</i>. CALL. <i>fr. 455, ou inf</i>. ANTH. <i>7, 699</i>.<p><b>Étym</b>. ἆ, βάλε, <i>impér. ao.2 de</i> βάλλω.`

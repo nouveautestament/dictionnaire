@@ -1,1 +1,0 @@
-lar[49523]=`<b>ἰσ·αμέριος, α, ον</b> <font color="purple">[ῑ̆ᾱμ]</font> qui dure autant de jours, aussi longtemps, SOPH. <i>fr. 692</i>.<p><b>Étym</b>. <i>dor. c</i>. *ἰσημέριος <i>de</i> ἴσος, ἡμέρα.`

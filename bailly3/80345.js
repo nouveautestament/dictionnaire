@@ -1,1 +1,0 @@
-lar[80345]=`<b>πινακο·πώλης, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> marchand de petits oiseaux qu’on étalait sur une planche tout préparés pour être cuits, AR. <i>Av. 14</i>.<p><b>Étym</b>. π. πωλέω.`

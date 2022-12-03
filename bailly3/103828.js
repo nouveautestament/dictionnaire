@@ -1,1 +1,0 @@
-lar[103828]=`<b>ὑπο·σκεδάννυμι</b> <font color="darkgreen">(<i>ao</i>. ὑπεσκέδασα)</font> répandre en dessous, NAZ.`

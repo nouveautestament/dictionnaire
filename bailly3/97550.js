@@ -1,1 +1,0 @@
-lar[97550]=`<b>τανυ·κρήπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ᾰῑδ]</font> à la base allongée, NONN. <i>D. 28, 205</i>.<p><b>Étym</b>. τανυ-, κρηπίς.`

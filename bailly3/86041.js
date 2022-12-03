@@ -1,1 +1,0 @@
-lar[86041]=`<b>εως (ἡ)</b> attachement, dévouement, JOS. <i>A.J. 8, 3, 2</i>.<p><b>Étym</b>. προσκολλάω.`

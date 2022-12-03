@@ -1,1 +1,0 @@
-lar[78119]=`<b>πεντηκοντα·έξ</b>, <i>n. de n. indécl</i>. cinquante-six, SPT. <i>1Esdr. 5, 10</i>.`

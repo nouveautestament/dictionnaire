@@ -1,1 +1,0 @@
-lar[28045]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., dans le nombre deux, PROCL. <i>Plat. Parm. 915 Stallb., Tim. 208</i>.`

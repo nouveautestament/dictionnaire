@@ -1,1 +1,0 @@
-lar[9664]=`<b>ἀντ·επίσκοπος, ου (ὁ)</b> anti-évêque <i>ou</i> évêque rival, NAZ. <i>2, 8a</i>.`

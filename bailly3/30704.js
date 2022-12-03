@@ -1,1 +1,0 @@
-lar[30704]=`<b>*εἰσ·αφάσσω</b>, <i>ion</i>. <b>ἐσ·αφάσσω</b> <font color="purple">[ᾰφ]</font> introduire en tâtant : τὸν δάκτυλον, HPC. <i>566, 50 ; 577, 24,</i> introduire le doigt en tâtant ; <i>d’où</i> tâter intérieurement : τῷ δακτύλῳ, HPC. <i>577, 32 ; 578, 11,</i> avec le doigt.`

@@ -1,1 +1,0 @@
-lar[27850]=`<b>δραπετο·ποιός, ός, όν</b> <font color="purple">[ᾱ]</font> qui rend fugitif, CHRYS. <i>5, 125</i>.<p><b>Étym</b>. δραπέτης, ποιέω.`

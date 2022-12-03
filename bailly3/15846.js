@@ -1,1 +1,0 @@
-lar[15846]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> impuissance à se taire, PLUT. <i>M. 502c</i>.<p><b>Étym</b>. ἀσίγητος.`

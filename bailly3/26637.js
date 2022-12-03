@@ -1,1 +1,0 @@
-lar[26637]=`<i>adv</i>., en deux parties, GEOP. <i>10, 9</i>.`

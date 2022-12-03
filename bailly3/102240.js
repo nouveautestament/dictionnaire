@@ -1,1 +1,0 @@
-lar[102240]=`<b>ὑπερ·αιόλιος, ος, ον</b>, hyperéolien, <i>n. d’un mode musical,</i> ANON. MUS. <i>37, 1</i>.`

@@ -1,1 +1,0 @@
-lar[86223]=`<b>προσ·οργίζομαι</b>, s’irriter contre, <i>dat</i>. PLUT. <i>M. 13d ;</i> JOS. <i>B.J. 2, 14, 6</i>.<p><b>Étym</b>. π. ὀργίζω.`

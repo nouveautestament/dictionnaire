@@ -1,1 +1,0 @@
-lar[94788]=`<b>συν·ανείργω</b>, contenir <i>ou</i> réprimer ensemble, ARSTT. <i>An. 1, 2, 3</i>.`

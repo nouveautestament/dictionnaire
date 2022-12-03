@@ -1,1 +1,0 @@
-lar[16864]=`<b>ή, όν</b>, évaporé, vaporisé, ARSTT. <i>Meteor. 4, 9, 28</i>.<p><b>Étym</b>. ἀτμίζω.`

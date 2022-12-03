@@ -1,1 +1,0 @@
-lar[12540]=`<i>adv</i>., par hasard, CHRYS. <i>Gen. 2, 15</i>.<p><b>Étym</b>. ἀποκληρόω.`

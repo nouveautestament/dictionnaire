@@ -1,1 +1,0 @@
-lar[50470]=`<b>καθ·υβρίζω</b> <font color="purple">[ᾰ]</font> accabler d’outrages, insulter, maltraiter, <i>abs</i>. SOPH. <i>O.C. 1535</i> ; τινός, SOPH. <i>O.C. 960, Ph. 1364</i> ; τινί, HDT. <i>1, 212</i> ; PAUS. <i>4, 27, 3</i> ; τινά, SOPH. <i>El. 522</i> ; EUR. <i>El. 698</i> ; εἴς τινα, DH. <i>11, 2,</i> outrager qqn.`

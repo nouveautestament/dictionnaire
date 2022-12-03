@@ -1,1 +1,0 @@
-lar[92036]=`<b>ου (ὁ)</b> Spoudias, <i>h</i>. DÉM. <i>41, 16 et 26 Baiter-Sauppe</i>.`

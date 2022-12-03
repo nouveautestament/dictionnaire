@@ -1,1 +1,0 @@
-lar[50978]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. καλάμινθος, AR. <i>Eccl. 648</i> ; TH. <i>C.P. 2, 16, 4, etc</i>.`

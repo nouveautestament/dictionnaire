@@ -1,1 +1,0 @@
-lar[66977]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> moule, XÉNOCR. <i>Al. p. 12</i>.<br><b>      2</b> <i>c</i>. μύστρον, CRITON (GAL. <i>Lex. Hipp. 19, 138 v°</i> σκαφίδα).<p><b>Étym</b>. μῦς.`

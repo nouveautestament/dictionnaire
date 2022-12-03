@@ -1,1 +1,0 @@
-lar[27232]=`<b>ας (ἡ)</b> double couleur, ARSTT. <i>G.A. 3, 1, 30</i>.<p><b>Étym</b>. δίχροος.`

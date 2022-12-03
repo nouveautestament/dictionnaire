@@ -1,1 +1,0 @@
-lar[10539]=`<b>ἀντι·φάρμακος, ος, ον</b> <font color="purple">[μᾰ]</font> qui sert de contre-poison, DS. <i>17, 90</i> ; τὸ ἀντιφάρμακον, ARSTT. <i>Mir. 86</i> ; ATH. <i>85a</i>, contre-poison, antidote.<p><b>Étym</b>. ἀ. φάρμακον.`

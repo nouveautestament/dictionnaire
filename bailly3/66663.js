@@ -1,1 +1,0 @@
-lar[66663]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> action de manger seul, JOS. <i>Macc. 2, p. 499</i>.<p><b>Étym</b>. μονοφάγος.`

@@ -1,1 +1,0 @@
-lar[88761]=`<b>ή, όν</b>, courbe, recourbé, THCR. <i>Idyl. 7, 18 ; particul</i>. cagneux, ARCHIL. <i>52</i> ; HPC. <i>Mochl. 853</i> ; τὸ ῥ. ARSTT. <i>Soph. el. 31, 3,</i> jambes cagneuses ; <i>cf</i>. ῥικνός.`

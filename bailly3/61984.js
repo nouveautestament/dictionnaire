@@ -1,1 +1,0 @@
-lar[61984]=`<b>λυρό·δμητος, ος, ον</b> <font color="purple">[ῠ]</font> bâti aux sons de la lyre, NONN. <i>D. 25, 415</i>.<p><b>Étym</b>. λύρα, δέμω.`

@@ -1,1 +1,0 @@
-lar[56687]=`<b>ης (ἡ)</b> citrouille, <i>plante et fruit,</i> DIOSC. <i>2, 162</i>.<p><b>Étym</b>. <i>cf</i>. κολοκύνθη, κολοκυνθίς.`

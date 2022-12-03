@@ -1,1 +1,0 @@
-lar[81230]=`<b>Πνυτ·αγόρας (ὁ)</b> <font color="purple">[ῡᾰᾱ]</font> Pnytagoras :<br><b>      1</b> <i>roi de Chypre,</i> ISOCR. <i>9, 62 Baiter-Sauppe, etc.</i><br><b>      2</b> <i>autre,</i> ANTH. <i>7, 374</i>.<p>➳ <i>Épq. et ion</i>. Πνυταγόρης, ANTH. <i>l. c. ; gén</i>. -εω, ARR. <i>Ind. 18, 8</i>.<p><b>Étym</b>. πνέω, ἀγορά.`

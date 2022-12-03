@@ -1,1 +1,0 @@
-lar[14844]=`<b>ἀρκυ·στασία, ας (ἡ)</b> <font color="purple">[τᾰ]</font> action de tendre les filets à la chasse, <i>d’où</i> filets de chasse tendus, XÉN. <i>Cyn. 6, 6</i>.<p><b>Étym</b>. ἀρκύστατος.`

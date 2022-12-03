@@ -1,1 +1,0 @@
-lar[84089]=`<b>προ·εκμανθάνω</b> <font color="darkgreen">(<i>f</i>. -εκμαθήσομαι, <i>ao.2</i> -εξέμαθον, <i>etc</i>.)</font> s’instruire auparavant, THÉON <i>Prog. 74, 11</i>.`

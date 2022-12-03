@@ -1,1 +1,0 @@
-lar[40141]=`<b>Ἐρασι·φῶν, ῶντος (ὁ)</b> <font color="purple">[ᾰῐ]</font> Érasiphôn, <i>h</i>. LYS. <i>148</i>.<p><b>Étym</b>. ἐράω, *φάω.`

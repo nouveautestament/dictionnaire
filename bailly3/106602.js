@@ -1,1 +1,0 @@
-lar[106602]=`<b>ή, όν :<br>      1</b> rouge de sang, IL. <i>16, 159</i>.<br><b>      2</b> sanguinaire, meurtrier, HH. <i>Ap. 362</i> ; NIC. <i>Th. 146, 675</i>.<p><b>Étym</b>. <i>cf</i>. φοίνιος.`

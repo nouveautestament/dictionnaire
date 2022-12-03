@@ -1,1 +1,0 @@
-lar[72970]=`<b>ου (ὁ)</b> le fruit du grenadier παλίουρος, NIC. <i>Th. 869</i>.`

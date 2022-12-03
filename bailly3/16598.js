@@ -1,1 +1,0 @@
-lar[16598]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> arrêt du pouls, asphyxie, GAL. ARÉT.<p><b>Étym</b>. ἄσφυκτος.`

@@ -1,1 +1,0 @@
-lar[97424]=`<b>ταλαντόω-ῶ</b> <font color="purple">[τᾰ]</font> <i>c</i>. ταλαντεύω, PLAT. <i>Tim. 52e</i>.`

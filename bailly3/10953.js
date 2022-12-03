@@ -1,1 +1,0 @@
-lar[10953]=`<b>ἀξιο·φίλητος, ος, ον</b> <font color="purple">[φῐ]</font> digne d’être aimé, XÉN. <i>Œc. 10, 3</i>.<p><b>Étym</b>. ἄ. φιλέω.`

@@ -1,1 +1,0 @@
-lar[76640]=`<b>ῆς (ἡ) :<br>      1</b> action de détourner, DC. <i>Exc. 35, 98</i>.<br><b>      2</b> détour, chemin détourné, CLÉM. <i>876</i>.<p><b>Étym</b>. παρεκτρέπω.`

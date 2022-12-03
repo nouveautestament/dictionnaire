@@ -1,1 +1,0 @@
-lar[4605]=`<b>ἁλί·χλαινος, ος, ον</b> <font color="purple">[ᾰ]</font> à la robe de pourpre (<i>litt</i>. teinte avec le pourpre de mer) NONN. <i>D. 20, 105</i>.<p><b>Étym</b>. ἅλς, χλαῖνα.`

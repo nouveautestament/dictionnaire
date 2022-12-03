@@ -1,1 +1,0 @@
-lar[22619]=`<b>ωνος (ὁ) :<br>      1</b> homme <i>ou</i> animal qui sent le bouc, ATH. <i>585e.</i><br><b>      2</b> <i>p. suite,</i> odeur de bouc, M. ANT. <i>8, 37</i>.<p><b>Étym</b>. γράσος.`

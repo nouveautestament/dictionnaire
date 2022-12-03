@@ -1,1 +1,0 @@
-lar[9352]=`<b>ιδος</b>, <i>acc</i>. <b>ιν (ὁ)</b> Anoubis (Anubis) <i>dieu égyptien à tête de chien,</i> STR. <i>805</i> ; DS. <i>1, 18, 87</i>.`

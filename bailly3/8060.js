@@ -1,1 +1,0 @@
-lar[8060]=`<b>ἀνδρο·θέα, ας (ἡ)</b> la déesse virile (Athèna) ANTH. <i>15, 22</i>.<p><b>Étym</b>. ἀνήρ, θεά.`

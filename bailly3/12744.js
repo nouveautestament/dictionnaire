@@ -1,1 +1,0 @@
-lar[12744]=`<b>ος, ον</b>, choisi, distingué, THC. <i>6, 68</i> ; XÉN. <i>An. 2, 3, 15</i>.<p><b>Étym</b>. ἀπολέγω.`

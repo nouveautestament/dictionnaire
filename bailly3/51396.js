@@ -1,1 +1,0 @@
-lar[51396]=`<b>α, ον</b>, de Kameiros, <i>v. de Rhodes,</i> BABR. <i>108</i>.<p><b>Étym</b>. Κάμειρος.`

@@ -1,1 +1,0 @@
-lar[21282]=`<b>ου (ὁ)</b> sorte de poisson de mer, DORION (ATH. <i>315f ; var</i>. γελλαρίας).`

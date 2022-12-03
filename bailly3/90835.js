@@ -1,1 +1,0 @@
-lar[90835]=`<b>σκηνο·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> décorateur de théâtre, DL. <i>2, 125</i>.<p><b>Étym</b>. σκηνή, γράφω.`

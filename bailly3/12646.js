@@ -1,1 +1,0 @@
-lar[12646]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> coupure, section nette, HPC. <i>831e</i>.<p><b>Étym</b>. ἀποκόπτω.`

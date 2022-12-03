@@ -1,1 +1,0 @@
-lar[9740]=`<b>(ἡ)</b> rencontre, <i>seul</i>. κατ' ἄντηστιν, OD. <i>20, 387,</i> en face.<p><b>Étym</b>. ἀντάω ; <i>cf. pour la formation,</i> μνῆστις <i>et</i> κνῆστις ; <i>qqf. écrit</i> κατάντηστιν.`

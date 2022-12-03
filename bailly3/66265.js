@@ -1,1 +1,0 @@
-lar[66265]=`<b>μογι·λάλος, ος, ον</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> qui parle difficilement, qui bégaie, AÉT. <i>8, 38</i>.<br><b>      2</b> muet, SPT. <i>Esaï. 35, 6</i> ; NT. <i>Marc. 7, 32</i>.<p><b>Étym</b>. μόγις, λαλέω.`

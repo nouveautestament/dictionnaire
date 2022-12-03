@@ -1,1 +1,0 @@
-lar[29697]=`<b>εως (ἡ) :<br>      1</b> action de coucher dans <i>ou</i> sur, <i>avec</i> ἐν <i>et le dat</i>. CLÉM. <i>216</i>.<br><b>      2</b> <i>particul</i>. action de coucher dans un temple, <i>ou</i> incubation (<i>v</i>. ἐγκοιμάομαι) DS. <i>1, 53</i>.<p><b>Étym</b>. ἐγκοιμάομαι.`

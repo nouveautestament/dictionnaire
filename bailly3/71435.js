@@ -1,1 +1,0 @@
-lar[71435]=`<b>ὁμο·βλαστής, ής, ές</b>, qui croît de même <i>ou</i> en même temps, TH. <i>C.P. 5, 5, 4</i>.<p><b>Étym</b>. ὁμ. βλαστάνω.`

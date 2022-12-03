@@ -1,1 +1,0 @@
-lar[109227]=`<b>χρυσο·πέδιλος, ος, ον</b> <font color="purple">[ῡῑ]</font> aux chaussures d’or, <i>en parl. d’Hèra,</i> OD. <i>11, 604</i> ; HÉS. <i>Th. 454 ; de l’Aurore,</i> SAPPH. <i>fr. 18 Bgk</i> ; ANTH. <i>5, 69, 1, etc</i>.<p><b>Étym</b>. χρ. πέδιλον.`

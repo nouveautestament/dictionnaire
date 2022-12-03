@@ -1,1 +1,0 @@
-lar[84773]=`<b>προ·νηστεύω</b>, jeûner d’avance <i>ou</i> auparavant, HDT. <i>2, 40</i> ; HPC. <i>584, 14, etc</i>.`

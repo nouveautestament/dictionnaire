@@ -1,1 +1,0 @@
-lar[55443]=`<font color="purple">[ῐ]</font> <i>adv</i>., dans le dème Kikynna, LYS. <i>148, 33</i>.<p><b>Étym</b>. <i>v</i>. Κικυννεύς.`

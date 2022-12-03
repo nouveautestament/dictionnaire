@@ -1,1 +1,0 @@
-lar[85742]=`<b>προσ·επιτραγῳδέω-ῶ</b> <font color="purple">[ᾰ]</font> ajouter avec une exagération tragique, ANON. (SUID.).`

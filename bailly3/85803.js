@@ -1,1 +1,0 @@
-lar[85803]=`<b>προσ·ευπορέω-ῶ :<br>      1 <i>tr.</i></b> procurer en outre, DÉM. <i>962, 3 ; au pass</i>. DÉM. <i>731, 4</i>.<br><b>      2 <i>intr.</i></b> être à la disposition de, PROCL. <i>Hyp. p. 151, 3</i>.`

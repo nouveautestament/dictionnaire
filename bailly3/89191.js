@@ -1,1 +1,0 @@
-lar[89191]=`<b>ων (οἱ)</b> = <i>lat</i>. Salii, les prêtres Saliens, <i>à Rome,</i> PLUT. <i>Num. 13, etc</i>.`

@@ -1,1 +1,0 @@
-lar[90094]=`<font color="purple">[ῑ]</font> faire taire, <i>acc</i>. XÉN. <i>An. 6, 1, 32</i> ; OPP. <i>C. 3, 286</i>.<p>➳ <i>Act. seul. prés. et ao</i>. ἐσίγασα <font color="purple">[γᾰ]</font> DC. <i>64, 14 ; pass. ao</i>. ἐσιγάσθην, DC. <i>39, 34</i>.<p><b>Étym</b>. σιγή.`

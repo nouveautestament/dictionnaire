@@ -1,1 +1,0 @@
-lar[59243]=`<b>κωνωπο·ειδής, ής, ές</b>, qui ressemble à un moucheron, TH. <i>H.P. 3, 14, 1</i>.<p><b>Étym</b>. κώνωψ, εἶδος.`

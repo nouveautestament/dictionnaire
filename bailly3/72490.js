@@ -1,1 +1,0 @@
-lar[72490]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰῐ]</font> cabane du gardien d’un verger, SPT. <i>Esaï. 1, 8</i>.<p><b>Étym</b>. ὀπωροφύλαξ.`

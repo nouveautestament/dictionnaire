@@ -1,1 +1,0 @@
-lar[55074]=`<b>ατος (τὸ)</b> <font color="purple">[φᾰ]</font> somme, total, <i>propr</i>. récapitulation, HDT. <i>3, 159</i>.<p><b>Étym</b>. κεφαλαιόω.`

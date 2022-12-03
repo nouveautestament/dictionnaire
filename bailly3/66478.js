@@ -1,1 +1,0 @@
-lar[66478]=`<b>μοναυλέω-ῶ</b>, jouer de la flûte, PLUT. <i>Cæs. 52</i>.<p><b>Étym</b>. μόναυλος.`

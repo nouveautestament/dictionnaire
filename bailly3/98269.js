@@ -1,1 +1,0 @@
-lar[98269]=`<b>ης (ἡ)</b> Témésè, <i>v. ou contrée de Chypre, ou sel. d’autres, de la côte italienne,</i> OD. <i>1, 184</i>.`

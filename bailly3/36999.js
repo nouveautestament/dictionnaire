@@ -1,1 +1,0 @@
-lar[36999]=`<b>ἐπ·είσοδος, ου (ἡ) :<br>      1</b> intervention, SOPH. <i>O.C. 730</i>.<br><b>      2</b> action de s’introduire, PLUT. <i>M. 903d</i>.<p><b>Étym</b>. ἐπί, εἴσοδος.`

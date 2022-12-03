@@ -1,1 +1,0 @@
-lar[84066]=`<b>προ·εκδίδωμι</b> <font color="darkgreen">(<i>f</i>. -εκδώσω, <i>ao</i>. -εξέδωκα, <i>etc</i>.)</font> <font color="purple">[δῐ]</font> publier auparavant <i>ou</i> pour la première fois, <i>acc</i>. POL. <i>16, 20, 7</i> ; DH. <i>Thuc. 1</i>.`

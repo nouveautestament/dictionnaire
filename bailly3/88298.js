@@ -1,1 +1,0 @@
-lar[88298]=`<b>πεδίον</b>, <i>ou, avec l’aspiration éol</i>. <b>᾿Ράριον πεδίον</b>, PAUS. <i>1, 38, 6 ; ou abs</i>. τὸ ᾿Ράριον <font color="purple">[ᾱ]</font> HH. <i>Cer. 450,</i> la plaine de Rharos <i>ou</i> Raros <i>près d’Éleusis</i>.<p><b>Étym</b>. Ῥᾶρος.`

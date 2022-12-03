@@ -1,1 +1,0 @@
-lar[50013]=`<b>Ἰφι·δάμας, αντος (ὁ)</b> <font color="purple">[ῑῐᾰμ]</font> Iphidamas, <i>h</i>. IL. <i>11, 221</i>.<p><b>Étym</b>. ἶφι, δαμάω.`

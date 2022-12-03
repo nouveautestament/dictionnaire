@@ -1,1 +1,0 @@
-lar[14594]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ᾰι]</font> action de compter, compte, HDT. <i>2, 143</i>.<p><b>Étym</b>. ἀριθμέω.`

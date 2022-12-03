@@ -1,1 +1,0 @@
-lar[289]=`<b>ἀγα·κλυμένη, ης</b> <font color="purple">[ᾰᾰῠ]</font> <i>adj. f</i>. très illustre, ANTIM. (ATH. <i>469f</i>).<p><b>Étym</b>. ἀγα-, κλύμενος.`

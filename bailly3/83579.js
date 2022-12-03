@@ -1,1 +1,0 @@
-lar[83579]=`<b>προ·ανατείνω</b>, tenir en haut devant soi, JOS. <i>B.J. 6, 1, 6</i>.`

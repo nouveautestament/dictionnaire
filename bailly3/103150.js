@@ -1,1 +1,0 @@
-lar[103150]=`<b>ὑπο·δηλόω-ῶ</b>, montrer en dessous, faire comprendre, insinuer, AR. <i>Th. 1011</i> ; PLUT. <i>Nic. 4, etc</i>.`

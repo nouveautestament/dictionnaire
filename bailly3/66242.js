@@ -1,1 +1,0 @@
-lar[66242]=`<b>ύος (ἡ)</b> <font color="purple">[ῡς, ῠο]</font> demande en mariage, OD. <i>2, 199 ; 16, 294 ; 19, 13</i> ; ANACR. <i>18, 12</i>.<p><b>Étym</b>. μνάομαι.`

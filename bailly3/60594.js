@@ -1,1 +1,0 @@
-lar[60594]=`<b>λευκο·πάρυφος, ος, ον</b> <font color="purple">[ᾰῠ]</font> vêtu d’un habit bordé de blanc, AL. MYND. (PLUT. <i>M. 180).</i><p><b>Étym</b>. λ. παρυφή.`

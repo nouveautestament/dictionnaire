@@ -1,1 +1,0 @@
-lar[12491]=`<b>ἀπο·καίριος, ος, ον</b>, inopportun, intempestif, SOPH. <i>Ph. 155</i>.<p><b>Étym</b>. ἀπό, καιρός.`

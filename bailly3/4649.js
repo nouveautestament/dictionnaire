@@ -1,1 +1,0 @@
-lar[4649]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰ]</font> Alkimakheia, <i>f</i>. NONN. <i>D. 27, 330, etc</i>.<p><b>Étym</b>. ἀλκίμαχος.`

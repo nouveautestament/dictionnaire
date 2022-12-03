@@ -1,1 +1,0 @@
-lar[109860]=`<b>ψιμυθιο·φανής, ής, ές</b>, <i>gén</i>. <b>εως</b> <font color="purple">[ῐῡᾰ]</font> qui a l’aspect du blanc de céruse, DIOSC. <i>5, 97</i>.<p><b>Étym</b>. ψιμύθιον, φαίνω.`

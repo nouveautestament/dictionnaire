@@ -1,1 +1,0 @@
-lar[63768]=`<b>μελαγ·κρήπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑδ]</font> aux souliers noirs, P. SIL. <i>Ecphr. ag. Soph. 261</i>.<p><b>Étym</b>. μ. κρηπίς.`

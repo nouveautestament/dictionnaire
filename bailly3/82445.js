@@ -1,1 +1,0 @@
-lar[82445]=`<font color="purple">[ῠ]</font> somptueusement, LYS. <i>111, 8</i> ; XÉN. <i>Mem. 3, 11, 4</i>.<p>•<i> Cp</i>. -έστερον, POL. <i>10, 25, 5 ; • Sup</i>. -έστατον, HDT. <i>12, 86</i>.<p><b>Étym</b>. πολυτελής.`

@@ -1,1 +1,0 @@
-lar[51251]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> capillaire, <i>plante,</i> HPC. <i>1226e</i>.<p><b>Étym</b>. <i>neutre de</i> καλλίφυλλος.`

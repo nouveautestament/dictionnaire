@@ -1,1 +1,0 @@
-lar[109945]=`<font color="purple">[ῡ]</font> se rafraîchir, EL. <i>N.A. 6, 21</i> ; ALCIPHR. <i>3, 12</i>.<p><b>Étym</b>. ψῦχος.`

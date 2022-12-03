@@ -1,1 +1,0 @@
-lar[41346]=`<b>ας (ἡ)</b> différence de mètre, <i>t. de pros</i>. HÉPH. <i>15, 3</i>.<p><b>Étym</b>. ἑτερόμετρος.`

@@ -1,1 +1,0 @@
-lar[47268]=`<b>ας (ἡ)</b> chasseresse, THÉM. <i>220b</i>.<p><b>Étym</b>. <i>fém. de</i> θηρευτήρ.`

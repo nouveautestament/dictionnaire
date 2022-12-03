@@ -1,1 +1,0 @@
-lar[25571]=`<b>δια·σοφίζομαι</b> (<i>seul. prés. sbj. 3 sg</i>. -σοφίζηται) recourir à des sophismes (pour éluder une promesse) AR. <i>Av. 1619</i>.`

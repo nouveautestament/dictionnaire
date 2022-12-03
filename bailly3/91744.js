@@ -1,1 +1,0 @@
-lar[91744]=`<font color="purple">[γᾰ]</font> <i>c</i>. σπαργανόω, HÉS. <i>Th. 485</i>.`

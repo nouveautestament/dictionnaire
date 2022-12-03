@@ -1,1 +1,0 @@
-lar[61144]=`<b>ου (τὸ)</b> <font color="purple">[λῐ]</font> <i>dim. de</i> λιμήν, SYN. <i>167</i>.`

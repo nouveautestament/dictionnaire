@@ -1,1 +1,0 @@
-lar[74710]=`<b>παμ·μήκης, ης, ες</b>, tout à fait long, très long, SOPH. <i>O.C. 1609</i> ; PLAT. <i>Pol. 286e, etc.</i> ; ARSTT. <i>Meteor. 1, 14, 5</i>.<p><b>Étym</b>. π. μῆκος.`

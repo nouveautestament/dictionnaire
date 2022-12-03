@@ -1,1 +1,0 @@
-lar[58799]=`<b>κυν·όζολον, ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>litt</i>. « qui sent le chien », <i>n. d’une plante,</i> PLIN. <i>H.N. 22, 21</i>.<p><b>Étym</b>. κύων, ὄζω.`

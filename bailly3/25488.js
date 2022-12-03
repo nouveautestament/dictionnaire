@@ -1,1 +1,0 @@
-lar[25488]=`<b>δι·αρτάζω</b> <font color="darkgreen">(<i>ao. impér</i>. διάρτασον)</font> fixer un détail, ESCHL. <i>fr. 333</i>.`

@@ -1,1 +1,0 @@
-lar[90159]=`<b>σιδηρο·μήτωρ, ορος (ἡ)</b> <font color="purple">[ῐ]</font> mère du fer, <i>en parl. de la Scythie,</i> ESCHL. <i>Pr. 301</i>.<p><b>Étym</b>. σ. μήτηρ.`

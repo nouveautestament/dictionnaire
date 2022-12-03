@@ -1,1 +1,0 @@
-lar[25621]=`<b>δια·στίλβω</b> (<i>seul. prés</i>.) briller à travers, AR. <i>Pax 567</i> ; PLUT. <i>M. 497e</i>.`

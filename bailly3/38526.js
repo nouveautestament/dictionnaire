@@ -1,1 +1,0 @@
-lar[38526]=`<b>ἐπι·νικάω-ῶ</b> <font color="purple">[ῑ]</font> <i>c</i>. νικάω, SPT. <i>Esdr. 3, 8 et 9</i>.`

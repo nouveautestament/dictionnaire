@@ -1,1 +1,0 @@
-lar[15013]=`<b>ἀροτρό·πους, -ποδος (ὁ)</b> <font color="purple">[ᾰ]</font> soc de la charrue, SPT. <i>Jud. 3, 31</i>.<p><b>Étym</b>. ἄ, πούς.`

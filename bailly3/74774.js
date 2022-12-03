@@ -1,1 +1,0 @@
-lar[74774]=`<b>πάμ·φθαρτος, ος, ον</b>, qui détruit tout, funeste, ESCHL. <i>Ch. 296</i>.<p><b>Étym</b>. π. φθείρω.`

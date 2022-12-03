@@ -1,1 +1,0 @@
-lar[85851]=`<b>προσ·ηῷος, α, ον</b>, <i>ion</i>. situé vers l’orient, PLUT. <i>Them. 8</i> ; DS. <i>5, 55 ; adv</i>. τὸ ποταῷον (<i>dor</i>.) THCR. <i>Idyl. 4, 33,</i> vers l’orient.<p><b>Étym</b>. π. ἠώς.`

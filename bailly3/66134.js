@@ -1,1 +1,0 @@
-lar[66134]=`<b>α, ον</b>, <i>c</i>. μνααῖος, ARSTT. <i>Cæl. 4, 4</i> ; ATH. <i>89a ;</i> POL. <i>13, 2, 3</i> ; PHIL. BYZ. <i>Bel. p. 69c</i>.`

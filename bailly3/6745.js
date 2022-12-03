@@ -1,1 +1,0 @@
-lar[6745]=`<b>ἀν·αερτάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀνηέρτησα)</font> <i>c</i>. ἀναερτάζω ANTH. <i>6, 195</i>.`

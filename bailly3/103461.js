@@ -1,1 +1,0 @@
-lar[103461]=`<b>εως (ἡ) :<br>      1</b> action de rester en arrière, TH. <i>C.P. 5, 1, 11</i> ; PTOL. <i>Math. synt. t. 2, p. 313, 14 Halma</i>.<br><b>      2</b> diminution graduelle, amoindrissement, perte : ὀδόντων, ARSTT. <i>G.A. 2, 6, 52,</i> perte des dents ; ἡλίου, JAMBL. <i>V. Pyth. p. 70,</i> éclipse de soleil.<p><b>Étym</b>. ὑπολείπω.`

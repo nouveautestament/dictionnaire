@@ -1,1 +1,0 @@
-lar[40891]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> petit Amour, ANACR. <i>33, 13</i>.<p><b>Étym</b>. Ἔρως.`

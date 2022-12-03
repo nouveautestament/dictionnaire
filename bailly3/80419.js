@@ -1,1 +1,0 @@
-lar[80419]=`<b>α, ον</b> <font color="purple">[ῑ]</font> de Pisa, <i>en Élide,</i> NIC. (ATH. <i>683a</i>) ; ANTH. <i>6, 350, etc.</i> ; οἱ Πισαῖοι, LUC. <i>Sacr. 11</i>, les habitants de Pisa.<p><b>Étym</b>. Πῖσα.`

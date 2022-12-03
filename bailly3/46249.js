@@ -1,1 +1,0 @@
-lar[46249]=`<b>ου (ὁ)</b> Thamasios, <i>Perse,</i> HDT. <i>7, 194</i>.`

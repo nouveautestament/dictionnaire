@@ -1,1 +1,0 @@
-lar[57645]=`<b>κρατησί·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰῐ]</font> qui l’emporte par les pieds, <i>càd</i>. à la course, PD. <i>P. 10, 25</i>.<p><b>Étym</b>. κρατέω, πούς.`

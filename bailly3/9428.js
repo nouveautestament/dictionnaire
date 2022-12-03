@@ -1,1 +1,0 @@
-lar[9428]=`<b>Ἀντ·αλκίδας, ου (ὁ)</b> Antalkidas (Antalcidas) <i>général lacédémonien,</i> XÉN. <i>Hell. 4, 8 ; 5, 1, etc</i>.<p><b>Étym</b>. ἀντί, Ἀλκίδας.`

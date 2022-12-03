@@ -1,1 +1,0 @@
-lar[31393]=`<b>ἐκ·καπηλεύω</b> <font color="purple">[ᾰ]</font> falsifier, PHIL.`

@@ -1,1 +1,0 @@
-lar[46538]=`<b>Θελξι·νόη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Thelxinoè, servante de Sémélè, NONN. <i>D. 8, 195</i>.<p><b>Étym</b>. <i>fém. de</i> θελξίνοος.`

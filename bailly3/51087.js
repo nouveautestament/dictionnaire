@@ -1,1 +1,0 @@
-lar[51087]=`<b>καλλι·βόας, ου (ὁ)</b> <font color="purple">[ῐᾱ]</font> qui a une belle voix, un beau son, SIM. (ARSTD. <i>t. 2, 381</i>) ; SOPH. <i>Tr. 640</i> ; AR. <i>Av. 682</i>.<p><b>Étym</b>. κ. βοή.`

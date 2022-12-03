@@ -1,1 +1,0 @@
-lar[19340]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> seuil d’une porte, AMIPS. (POLL. <i>2, 200) ; p. anal</i>. base de la lyre où les cordes sont fixées, NICOM. <i>Harm. p. 13, 19</i>.<br><b>      2</b> bâton (pour soutenir la marche) NIC. <i>Th. 377</i>.<p><b>Étym</b>. <i>v</i>. βαίνω.`

@@ -1,1 +1,0 @@
-lar[33316]=`<b>ἐμ·παιδεύω</b>, élever dans, former à, <i>dat</i>. PHILSTR. <i>516</i>.<p><b>Étym</b>. ἐν, π.`

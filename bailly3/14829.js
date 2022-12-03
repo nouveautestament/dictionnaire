@@ -1,1 +1,0 @@
-lar[14829]=`<b>ή, όν</b>, initial, du commencement, DYSC. <i>Synt. p. 17, 28, etc</i>.<p><b>Étym</b>. ἄρχω.`

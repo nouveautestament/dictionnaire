@@ -1,1 +1,0 @@
-lar[75830]=`<b>παρα·λάμπω</b>, briller auprès, à côté, PLUT. <i>M. 889d</i>.`

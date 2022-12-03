@@ -1,1 +1,0 @@
-lar[29180]=`<b>δωρο·δότης, ου (ὁ)</b> qui fait présent de, qui donne, <i>gén</i>. ANTH. <i>12, 49</i>.<p><b>Étym</b>. δῶρον, δίδωμι.`

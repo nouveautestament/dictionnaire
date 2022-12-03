@@ -1,1 +1,0 @@
-lar[54682]=`<b>ας (ἡ)</b> <font color="purple">[ᾱ]</font> vain bavardage, POÈT. (PLAT. <i>Rsp. 607b</i>).<p><b>Étym</b>. κενεαγόρος.`

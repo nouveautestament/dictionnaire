@@ -1,1 +1,0 @@
-lar[90575]=`<b>ῶν (αἱ)</b> <font color="purple">[ῑ]</font> Siphes (<i>auj</i>. Alykí) <i>port de Béotie,</i> THC. <i>4, 76, etc</i>.`

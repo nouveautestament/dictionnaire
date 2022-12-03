@@ -1,1 +1,0 @@
-lar[22592]=`<b>ου (τὸ)</b> <font color="purple">[μᾰῠᾰ]</font> dépôt d’archives, PLUT. <i>M. 520b ;</i> JOS. <i>B.J. 2, 17, 6</i> ; SEXT. <i>M. 2, 27</i>.<p><b>Étym</b>. γραμματοφύλαξ.`

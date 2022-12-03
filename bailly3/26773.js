@@ -1,1 +1,0 @@
-lar[26773]=`<b>δί·ομβρος, ος, ον</b>, traversé par la pluie, ARSTT. <i>Probl. 2, 41</i> ; ORIB. <i>233 Matthäi</i>.<p><b>Étym</b>. διά, ὄμβρος.`

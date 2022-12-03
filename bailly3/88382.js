@@ -1,1 +1,0 @@
-lar[88382]=`<b>ης (ἡ)</b> <i>ion</i>., paralysie, HPC. <i>1215e</i>.<p><b>Étym</b>. ῥέμβος.`

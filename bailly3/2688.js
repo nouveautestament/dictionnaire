@@ -1,1 +1,0 @@
-lar[2688]=`<b>αἰνο·δρυφής, ής, ές</b> <font color="purple">[ῠ]</font> déchiré en signe de deuil, POÈT. (DYSC. <i>Pron. 356).</i><p><b>Étym</b>. αἰν. δρύπτω.`

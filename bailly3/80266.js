@@ -1,1 +1,0 @@
-lar[80266]=`(<i>genre inconnu</i>) Picines, <i>lieu d’Italie,</i> PLUT. <i>Syll. 9</i>.`

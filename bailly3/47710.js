@@ -1,1 +1,0 @@
-lar[47710]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐᾰῑν]</font> <i>dim. de</i> θριδακίνη STRATT. <i>fr. 59a</i>.`

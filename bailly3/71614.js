@@ -1,1 +1,0 @@
-lar[71614]=`<b>Ὁμολωΐδες πύλαι (αἱ)</b> la porte de Zeus Homolôios, <i>à Thèbes,</i> ESCHL. <i>Sept. 570</i> ; EUR. <i>Ph. 1119, etc</i>.<p><b>Étym</b>. <i>cf</i>. Ὁμολωΐς.`

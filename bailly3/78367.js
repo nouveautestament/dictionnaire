@@ -1,1 +1,0 @@
-lar[78367]=`<b>περι·αλγέω-ῶ</b>, être très affligé : τινι, THC. <i>4, 14 ; ou</i> ἐπί τινι, EL. <i>V.H. 2, 4,</i> de qqe ch.`

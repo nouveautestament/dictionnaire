@@ -1,1 +1,0 @@
-lar[56484]=`<b>κοινο·λογία, ας (ἡ)</b> conversation, entretien, POL. <i>2, 8, 7, etc.</i> ; PLUT. <i>Ages. 25</i> ; DL. <i>2, 14 ; particul</i>. consultation, HPC. <i>27, 35 (ion</i>. -ίη).<p><b>Étym</b>. κοινός, λόγος.`

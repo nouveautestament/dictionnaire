@@ -1,1 +1,0 @@
-lar[64307]=`<b>μενε·κράτης, ης, ες</b> <font color="purple">[ᾰ]</font> fort et résistant, DIONYS. (ATH. <i>98d</i>).<p><b>Étym</b>. μ. κράτος.`

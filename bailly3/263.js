@@ -1,1 +1,0 @@
-lar[263]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγᾰ]</font> action de faire le bien, NT. <i>1Petr. 4, 19</i>.<p><b>Étym</b>. ἀγαθοποιός.`

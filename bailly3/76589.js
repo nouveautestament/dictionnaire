@@ -1,1 +1,0 @@
-lar[76589]=`<b>παρ·εισερπύζω</b>, s’introduire en rampant, PHIL. (EUS. <i>P.E. 391a</i>).`

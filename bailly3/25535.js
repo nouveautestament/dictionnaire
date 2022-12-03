@@ -1,1 +1,0 @@
-lar[25535]=`<b>ή, όν</b>, propre à la digestion, digestif, DIOSC. <i>3, 94 ; 5, 133</i>.<p><b>Étym</b>. διασκεδάννυμι.`

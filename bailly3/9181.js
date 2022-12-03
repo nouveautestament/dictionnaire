@@ -1,1 +1,0 @@
-lar[9181]=`<b>ἀν·οδύρομαι</b> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> déplorer à grands cris, XÉN. <i>Cyr. 5, 1, 6</i> ; PLUT. <i>M. 123c</i>.<p><b>Étym</b>. ἀνά, ὀ.`

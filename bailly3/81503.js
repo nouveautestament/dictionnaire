@@ -1,1 +1,0 @@
-lar[81503]=`<b>ας (ἡ)</b> fonction <i>ou</i> dignité de polémarque, POLÉM. <i>p. 3</i>.<p><b>Étym</b>. πολέμαρχος.`

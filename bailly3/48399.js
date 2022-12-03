@@ -1,1 +1,0 @@
-lar[48399]=`<b>ἰδιό·γλωσσος, ος, ον</b> <font color="purple">[ῐδ]</font> qui parle une langue particulière, STR. <i>226</i>.<p><b>Étym</b>. ἴδ. γλῶσσα.`

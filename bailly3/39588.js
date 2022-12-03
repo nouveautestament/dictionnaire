@@ -1,1 +1,0 @@
-lar[39588]=`<b>όου (ὁ)</b> écorce, épiderme, écaille, ANTH. <i>9, 706</i>.<p><b>Étym</b>. ἐπί, φλοιός.`

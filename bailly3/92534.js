@@ -1,1 +1,0 @@
-lar[92534]=`<font color="purple">[ῑ]</font><br><b>      1</b> inscrire sur une colonne, publier, <i>acc</i>. PLUT. <i>M. 354b ; fig</i>. PHIL. <i>2, 2</i>.<br><b>      2</b> inscrire une condamnation, <i>d’où</i> déshonorer, flétrir, PHIL. <i>1, 206, 379</i>.<p><b>Étym</b>. στηλίτης.`

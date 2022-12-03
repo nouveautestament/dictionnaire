@@ -1,1 +1,0 @@
-lar[26808]=`<b>α, ον</b> <font color="purple">[ῐῡ]</font> de Dionysos, SIM. <i>fr. 89</i> ; BACCHYL. <i>fr. 20B, 9</i> ; ANACR. <i>29, 53 et 54, etc</i>.<p><b>Étym</b>. Διόνυσος.`

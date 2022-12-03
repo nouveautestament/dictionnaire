@@ -1,1 +1,0 @@
-lar[29191]=`<b>δωρο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> avide de présents, HÉS. <i>O. 219, 262</i> ; POL. <i>6, 9, 7</i>.<p><b>Étym</b>. δῶρον, φαγεῖν.`

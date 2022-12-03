@@ -1,1 +1,0 @@
-lar[27224]=`<b>διχοφρονέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ῐ]</font> être d’avis différents, PLUT. <i>M. 763e</i>.<p><b>Étym</b>. διχό- φρων.`

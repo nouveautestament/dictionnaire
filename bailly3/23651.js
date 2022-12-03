@@ -1,1 +1,0 @@
-lar[23651]=`<b>ου (ὁ)</b> l’un des Dix, <i>à Athènes,</i> LYS. (HARP.).<p><b>Étym</b>. δεκάς, ἔχω.`

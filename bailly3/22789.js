@@ -1,1 +1,0 @@
-lar[22789]=`<b>ά, όν</b> <font color="purple">[ῠ]</font> <i>c</i>. γυναικεῖος, DIOCL. <i>(Bkk. 87</i>).`

@@ -1,1 +1,0 @@
-lar[31734]=`<b>ου (ὁ)</b> POL. <i>1, 25 ; ou</i> Ἔκνομος λόφος (ὁ) DS. <i>19, 104, 108,</i> le mont Eknomos (Ecnome), <i>près de Géla en Sicile</i>.`

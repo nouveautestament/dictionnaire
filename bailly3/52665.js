@@ -1,1 +1,0 @@
-lar[52665]=`<b>κατακυκλόω-ῶ</b>, enfermer dans un cercle, cerner, SPT. <i>Jud. 16, 2</i> ; JOS. <i>B.J. 3, 8, 6</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>Sert. 9</i> ; GAL. <i>12, 477</i>.<p><b>Étym</b>. κατάκυκλος.`

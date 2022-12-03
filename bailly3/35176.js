@@ -1,1 +1,0 @@
-lar[35176]=`<i>adv</i>., dans l’eau, JAMBL. <i>Myst. 33, 8</i>.<p><b>Étym</b>. ἐνύδριος.`

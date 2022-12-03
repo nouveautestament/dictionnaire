@@ -1,1 +1,0 @@
-lar[78006]=`<b>πεντά·μυρον, ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> parfum composé de cinq substances, A. TR. <i>7, p. 356</i>.<p><b>Étym</b>. π. μύρον.`

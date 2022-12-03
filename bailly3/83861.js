@@ -1,1 +1,0 @@
-lar[83861]=`<b>πρό·γλωσσος, ος, ον</b>, qui a la langue trop longue <i>ou</i> bien pendue, bavard, CLÉM. <i>660, etc</i>.<p><b>Étym</b>. π. γλῶσσα.`

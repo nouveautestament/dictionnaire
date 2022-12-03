@@ -1,1 +1,0 @@
-lar[105785]=`<b>φιλό·θεος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime Dieu, pieux, ARSTT. <i>Rhet. 2, 17, 6</i> ; LUC. <i>Cal. 14, etc</i>.<p><b>Étym</b>. φ. θεός ; <i>cf</i>. θεόφιλος.`

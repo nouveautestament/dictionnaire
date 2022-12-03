@@ -1,1 +1,0 @@
-lar[40354]=`<b>ος, ον</b>, propre à couvrir, PLAT. <i>Criti. 111c ;</i> TH. <i>H.P. 4, 2, 8</i>.<p><b>Étym</b>. ἐρέφω.`

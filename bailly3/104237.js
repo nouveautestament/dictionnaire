@@ -1,1 +1,0 @@
-lar[104237]=`<b>ὑπ·ωμίη, ης (ἡ)</b> partie du corps immédiatement sous les épaules, HPC. (GAL. <i>Lex. Hipp. 19, 150, l. 6).</i><p><b>Étym</b>. ὑ. ὦμος.`

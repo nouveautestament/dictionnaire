@@ -1,1 +1,0 @@
-lar[5187]=`<b>ης (ἡ)</b> <font color="purple">[ᾰμ]</font><br><b>      1</b> gerbe, faisceau, SOPH. <i>fr. 540</i> ; PLUT. <i>Popl. 8, etc.</i><br><b>      2</b> lien pour les gerbes, PHILSTR. (<i>v</i>. ἀμάλη).<br><b>      3</b> blé (sur pied) Q. SM. <i>11, 156, etc</i>.<p><b>Étym</b>. ἀμάω.`

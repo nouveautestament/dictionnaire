@@ -1,1 +1,0 @@
-lar[61869]=`<b>(ὁ)</b> <font color="purple">[ῠῐᾱ]</font> Lykidas, <i>h</i>. DÉM. <i>497, 7, etc.</i> ; THCR. <i>Idyl. 7, 13, etc.</i> ; BION <i>4, 10, etc</i>.<p>➳ <i>Ion</i>. -ίδης, HDT. <i>9, 5</i>.<p><b>Étym</b>. <i>patr. de</i> Λύκος.`

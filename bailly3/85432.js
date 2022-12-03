@@ -1,1 +1,0 @@
-lar[85432]=`<b>προσ·διαφθείρω</b>, perdre <i>ou</i> faire périr en outre, SOPH. <i>Ph. 76</i> ; PLUT. <i>Luc. 30 ; au pass</i>. ISOCR. <i>390b</i>.`

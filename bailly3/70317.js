@@ -1,1 +1,0 @@
-lar[70317]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> maisonnette, LYS. (POLL. <i>9, 5).</i><p><b>Étym</b>. <i>dim. de</i> οἶκος.`

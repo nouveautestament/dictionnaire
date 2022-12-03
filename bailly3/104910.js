@@ -1,1 +1,0 @@
-lar[104910]=`<b>φαρμακό·πνευστος, ος, ον</b> <font color="purple">[μᾰ]</font> fasciné (<i>litt</i>. inspiré) par un sortilège, ensorcelé, NICOL. HYDR. <i>Epigr. 2, p. 8 Bast, Spec. ed. Aristæn</i>.<p><b>Étym</b>. φάρμακον, πνέω.`

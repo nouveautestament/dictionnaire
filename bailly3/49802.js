@@ -1,1 +1,0 @@
-lar[49802]=`<b>(ὁ)</b> Israël :<br><b>      1</b> <i>surn. de Jacob,</i> NT. <i>Matth. 10, 6, etc.</i><br><b>      2</b> <i>p. ext. pour les Juifs en gén</i>. NT. <i>Matth. 2, 6, etc</i>.<p><b>Étym</b>. <i>mot hébreu</i> ‏ יִשְׂרָאֵל‎.`

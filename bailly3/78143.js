@@ -1,1 +1,0 @@
-lar[78143]=`<b>πεντηκοντό·γυος, ος, ον</b>, d’une étendue de cinquante arpents, IL. <i>9, 579</i>.<p><b>Étym</b>. π. γύα.`

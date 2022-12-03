@@ -1,1 +1,0 @@
-lar[4951]=`<b>ἁλουργο·βαφής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> teint en pourpre, CLÉM. <i>235</i>.<p><b>Étym</b>. ἁλουργός, βάπτω.`

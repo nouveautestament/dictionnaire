@@ -1,1 +1,0 @@
-lar[99981]=`<b>*τραχυ·βατέω</b>, <i>ion</i>. <b>τρηχυ·βατέω</b> <font color="purple">[ᾱῠᾰ]</font> marcher sur un sol raboteux, rocailleux, HPC. <i>Ep. 1283, 52</i>.<p><b>Étym</b>. τραχύς, βαίνω.`

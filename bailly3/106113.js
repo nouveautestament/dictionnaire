@@ -1,1 +1,0 @@
-lar[106113]=`<b>φιλό·στροφος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui aime le changement, inconstant, POLL. <i>6, 168</i>.<br><b>      2</b> qui aime à retourner à un lieu, <i>en parl. d’abeilles,</i> PORPH. <i>Antr. nymph. 19</i>.<p><b>Étym</b>. φ. στρέφω.`

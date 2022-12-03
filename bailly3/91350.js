@@ -1,1 +1,0 @@
-lar[91350]=`<b>σκυταλη·φόρος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui porte une scytale, STR. <i>776</i>.<p><b>Étym</b>. σκυτάλη, φέρω.`

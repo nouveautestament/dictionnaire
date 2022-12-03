@@ -1,1 +1,0 @@
-lar[100044]=`<b>α, ον</b> <font color="purple">[χᾰ]</font> <i>ion. c</i>. τραχύς, ANTH. <i>5, 292 ; 6, 63, etc.</i> ; NONN. <i>D. 45, 290</i>.`

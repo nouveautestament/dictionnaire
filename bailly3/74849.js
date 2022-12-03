@@ -1,1 +1,0 @@
-lar[74849]=`<b>παν·αλάστωρ</b>, <i>gén</i>. <b>ορος (ὁ, ἡ)</b> <font color="purple">[ᾰνᾰ]</font> vengeur de tous les crimes, ANTH. <i>9, 269</i>.<p><b>Étym</b>. π. ἀλάστωρ.`

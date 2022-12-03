@@ -1,1 +1,0 @@
-lar[57663]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> la Force <i>personnifiée,</i> HÉS. <i>Th. 385</i> ; ESCHL. <i>Pr. 12, etc</i>.<p><b>Étym</b>. <i>v</i>. κράτος.`

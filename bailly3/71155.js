@@ -1,1 +1,0 @@
-lar[71155]=`<b>ὀλο·εργός, ός, όν</b>, malfaisant, funeste, NIC. <i>Th. 828</i>.<p><b>Étym</b>. ὀλοός, ἔργον.`

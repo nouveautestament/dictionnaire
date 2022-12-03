@@ -1,1 +1,0 @@
-lar[24878]=`<b>ου</b>, <i>ion</i>. <b>-εω (ὁ)</b> Diaktoridès, <i>h</i>. HDT. <i>6, 71</i>.`

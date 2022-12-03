@@ -1,1 +1,0 @@
-lar[99934]=`fouler le raisin, OD. <i>7, 125</i> ; HÉS. <i>Sc. 301</i> ; ANAN. (ATH. <i>282b</i>).<p><b>Étym</b>. <i>R. indo-europ</i>. *trep-, appuyer le pied ; <i>cf</i>. τρέπω.`

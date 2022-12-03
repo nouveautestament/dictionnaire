@@ -1,1 +1,0 @@
-lar[43886]=`<b>ἐφ·αγνίζω</b> <font color="darkgreen">(<i>ao. inf</i>. ἐφαγνίσαι)</font> <i>c</i>. ἐφαγιστεύω SOPH. <i>Ant. 196</i>.<p><b>Étym</b>. ἐπί, ἁ.`

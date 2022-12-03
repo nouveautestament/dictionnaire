@@ -1,1 +1,0 @@
-lar[30873]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> amoureux (<i>litt</i>. soupirant) <i>à Lacédémone,</i> CALL. <i>fr. 169</i>.<p><b>Étym</b>. εἰσπνέω.`

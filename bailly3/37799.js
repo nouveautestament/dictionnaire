@@ -1,1 +1,0 @@
-lar[37799]=`<i>adv</i>., adjectivement, CORN. <i>212</i>.<p>•<i> Cp</i>. -ώτερον, DYSC. <i>Synt. p. 81, 15</i>.`

@@ -1,1 +1,0 @@
-lar[14985]=`<b>ου (τὸ)</b> arum, <i>plante,</i> ARSTT. <i>H.A. 8, 17, 4</i> ; TH. <i>H.P. 1, 6, 6, etc</i>.`

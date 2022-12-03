@@ -1,1 +1,0 @@
-lar[98805]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Teutamos, <i>h</i>. PLUT. <i>Eum. 13, 16, etc</i>.`

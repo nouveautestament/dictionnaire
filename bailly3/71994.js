@@ -1,1 +1,0 @@
-lar[71994]=`<b>ὀνό·πυξος, ου (ἡ)</b> sorte de chardon (<i>propr</i>. buis d’âne) TH. <i>H.P. 6, 4, 3</i>.<p><b>Étym</b>. ὄ. πύξος.`

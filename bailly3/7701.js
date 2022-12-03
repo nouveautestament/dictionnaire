@@ -1,1 +1,0 @@
-lar[7701]=`<b>ἀνα·στοναχίζω</b> <font color="purple">[ᾰχ]</font> <i>(seul. prés.) c</i>. ἀναστοναχέω Q. SM. <i>2, 634</i>.`

@@ -1,1 +1,0 @@
-lar[64975]=`<b>μετα·στοιχειόω-ῶ</b>, transformer un corps en d’autres éléments, changer la nature <i>ou</i> la forme d’une chose, PHIL. <i>1124c</i>.<p><b>Étym</b>. μ. στοιχεῖον.`

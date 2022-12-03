@@ -1,1 +1,0 @@
-lar[45788]=`<b>ας (ἡ)</b> Hèræa (<i>auj</i>. Áyios Ioánnis Archéas Iréas) <i>v. d’Arcadie,</i> XÉN. <i>Hell. 3, 2, 30 ; 6, 5, 22</i> ; ARSTT. <i>Pol. 5, 2, 9</i> ; PLUT. <i>Lys. 22, etc</i>.`

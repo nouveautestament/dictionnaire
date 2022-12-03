@@ -1,1 +1,0 @@
-lar[54837]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> cerise, DIPH. (ATH. <i>51f</i>) ; DIOSC. <i>1, 158</i>.<br><b>      2</b> cerisier, GEOP. <i>10, 41</i>.<p><b>Étym</b>. κέρασος.`

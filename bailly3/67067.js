@@ -1,1 +1,0 @@
-lar[67067]=`<b>μυΐδιον, ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> μυῖα, M. ANT. <i>7, 3</i>.`

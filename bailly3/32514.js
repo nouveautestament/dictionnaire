@@ -1,1 +1,0 @@
-lar[32514]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Élasos, <i>Troyen,</i> IL. <i>16, 696</i>.<p><b>Étym</b>. ἐλάω.`

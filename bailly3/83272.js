@@ -1,1 +1,0 @@
-lar[83272]=`<b>εως (ἡ)</b> vente, HDT. <i>1, 153</i> ; SOPH. <i>fr. 756</i> ; PLAT. <i>Soph. 223d, etc.</i> ; πρᾶσιν ποιεῖσθαι, ESCHN. <i>16, 22,</i> mettre en vente, vendre ; <i>au plur</i>. ARSTT. <i>Pol. 4, 4, 10</i>.<p>➳ <i>Ion</i>. πρῆσις, HPC. <i>l. c</i>.<p><b>Étym</b>. πιπράσκω.`

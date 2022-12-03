@@ -1,1 +1,0 @@
-lar[45194]=`<b>άδος</b>, <i>adj. f.</i> :<br><b>      1</b> solaire, ORACL. (LUC. <i>Alex. 34</i>).<br><b>      2</b> ἡλιὰς Ῥόδος, LUC. <i>Am. 7,</i> Rhodes consacrée au Soleil.<p><b>Étym</b>. ἥλιος.`

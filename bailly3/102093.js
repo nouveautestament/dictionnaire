@@ -1,1 +1,0 @@
-lar[102093]=`<b>ὑπ·είρω</b>, tirer en dessous, <i>acc</i>. HPC. <i>Art. 799</i>.`

@@ -1,1 +1,0 @@
-lar[53269]=`<b>ή, όν</b>, catarrhal, HPC. <i>1254a ;</i> PLAT. <i>Tim. 85b</i>.<p><b>Étym</b>. κατάρροος.`

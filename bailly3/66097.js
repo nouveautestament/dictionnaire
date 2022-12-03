@@ -1,1 +1,0 @@
-lar[66097]=`<b>μιτό·εργος, ος, ον</b> <font color="purple">[ῐ]</font> qui travaille le fil, <i>en parl. du fuseau,</i> ANTH. <i>6, 289</i>.<p><b>Étym</b>. μίτος, ἔργον.`

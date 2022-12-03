@@ -1,1 +1,0 @@
-lar[7867]=`<b>ἀνα·φλάω-ῶ</b>, exciter par attouchement, <i>acc</i>. LUC. <i>Per. 17 ; abs</i>. LUC. <i>Lex. 12</i>.`

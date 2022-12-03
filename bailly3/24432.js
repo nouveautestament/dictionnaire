@@ -1,1 +1,0 @@
-lar[24432]=`<b>δια·βλύζω</b> (<i>seul. part. fém</i>. -βλύζουσα) faire couler à travers <i>ou</i> le long de, épancher, NONN. <i>D. 22, 21</i>.`

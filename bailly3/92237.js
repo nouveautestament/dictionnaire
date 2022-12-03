@@ -1,1 +1,0 @@
-lar[92237]=`<b>σταχυη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte des épis, PHIL. <i>2, 583</i> ; MAN. <i>4, 454</i>.<p><b>Étym</b>. στ. φέρω.`

@@ -1,1 +1,0 @@
-lar[84406]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> fils de Prœtos, ANTH. <i>App. 100</i>.<p><b>Étym</b>. <i>patr. de</i> Προῖτος.`

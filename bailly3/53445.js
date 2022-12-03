@@ -1,1 +1,0 @@
-lar[53445]=`<b>κατ·αστερίζω :<br>      1</b> placer parmi les astres, DS. <i>4, 61</i> ; DH. <i>1, 61</i> ; PLUT. <i>M. 308a.</i><br><b>      2</b> parsemer de constellations, PROCL.`

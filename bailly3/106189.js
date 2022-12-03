@@ -1,1 +1,0 @@
-lar[106189]=`<b>φίλ·οχλος, ος, ον</b> <font color="purple">[ῐ]</font> ami de la foule, du peuple : τὸ φ. DL. <i>4, 41,</i> l’amour de la faveur populaire, PTOL. <i>Tetr. 163, 11</i>.`

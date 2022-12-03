@@ -1,1 +1,0 @@
-lar[109306]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> fonte de l’or, <i>d’où</i> travail de l’or, ANON. (SUID. <i>v°</i> ἀέτιος).<p><b>Étym</b>. χρυσοχόος.`

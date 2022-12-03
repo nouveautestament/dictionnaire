@@ -1,1 +1,0 @@
-lar[54906]=`<b>κεραυνο·φόρος, ος, ον</b>, qui porte la foudre, PLUT. <i>Alc. 16, etc.</i> ; κ. στρατόπεδον, DC. <i>55, 23,</i> la légion fulminante, <i>à Rome</i>.<p><b>Étym</b>. κεραυνός, φέρω.`

@@ -1,1 +1,0 @@
-lar[84668]=`<b>προ·λυμαίνομαι</b> <font color="purple">[ῡ]</font> dévaster auparavant, POL. <i>2, 68, 5</i>.`

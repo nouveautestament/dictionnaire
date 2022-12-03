@@ -1,1 +1,0 @@
-lar[1834]=`<b>ης (ἡ)</b> trouble d’esprit, folie, <i>seul. pl</i>. OD. <i>15, 470</i> ; HÉS. <i>Th. 502</i>.<p><b>Étym</b>. ἀεσίφρων.`

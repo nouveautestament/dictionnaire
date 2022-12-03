@@ -1,1 +1,0 @@
-lar[57643]=`<b>κρατησί·μαχος, ος, ον</b> <font color="purple">[ᾰῐᾰ]</font> qui l’emporte dans le combat, PD. <i>P. 9, 149</i>.<p><b>Étym</b>. κρατέω, μάχη.`

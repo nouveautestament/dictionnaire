@@ -1,1 +1,0 @@
-lar[94095]=`<b>συμ·παραστατέω-ῶ</b> <font color="purple">[στᾰ]</font> se tenir auprès pour assister, <i>d’où</i> assister, secourir, <i>dat</i>. ESCHL. <i>Pr. 218</i> ; AR. <i>Eccl. 15 ; abs</i>. AR. <i>Ran. 385</i>.<p><b>Étym</b>. συμπαραστάτης.`

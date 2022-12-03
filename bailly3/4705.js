@@ -1,1 +1,0 @@
-lar[4705]=`<b>ή, όν</b>, qui concerne l’échange <i>ou</i> les échanges, ARSTT. <i>Nic. 5, 6, 6</i> ; ἡ -ική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 223c</i>, l’art des échanges.<p><b>Étym</b>. ἀλλάσσω.`

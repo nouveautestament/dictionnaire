@@ -1,1 +1,0 @@
-lar[47670]=`<b>οῦ (ὁ)</b> qui se lamente sur, <i>gén</i>. ESCHL. <i>Ag. 1075</i>.<p><b>Étym</b>. θρηνέω.`

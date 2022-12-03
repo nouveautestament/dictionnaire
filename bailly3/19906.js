@@ -1,1 +1,0 @@
-lar[19906]=`<b>ή, όν</b>, qui bave, <i>d’où</i> idiot, sot, SOPHR. <i>(Bkk. 85</i>) ; ŒNOM. (EUS. <i>3, 37a Migne</i>).`

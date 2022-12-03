@@ -1,1 +1,0 @@
-lar[22134]=`<b>α, ον</b> <font color="purple">[ῠ]</font> douceâtre, doux, SYN. <i>Febr. p. 62 et 190</i>.<p><b>Étym</b>. γλυκύς.`

@@ -1,1 +1,0 @@
-lar[33359]=`<b>ἐμπεδο·λώβης, ου</b>, <i>adj. m</i>. qui ne cesse de nuire, MAN. <i>4, 196</i>.<p><b>Étym</b>. ἔ. λώβη.`

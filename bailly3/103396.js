@@ -1,1 +1,0 @@
-lar[103396]=`<b>ὑπό·κομψος, ος, ον</b>, élégant, prétentieux, POLÉM. <i>Physiogn. 2, 12</i>.<p><b>Étym</b>. ὑ. κομψός.`

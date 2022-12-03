@@ -1,1 +1,0 @@
-lar[106617]=`<b>φολιδο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> semblable à une écaille, écailleux, P. ÉG. <i>4, 2</i>.<p><b>Étym</b>. φολίς, εἶδος.`

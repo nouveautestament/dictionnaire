@@ -1,1 +1,0 @@
-lar[65427]=`<b>ου (τὸ)</b> couleuvrée <i>ou</i> vigne-blanche, TH. <i>H.P. 3, 18, 11</i>.`

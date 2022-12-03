@@ -1,1 +1,0 @@
-lar[12594]=`<b>ἀπο·κληρονόμος, ος, ον</b>, exclu d’un héritage, déshérité, ARR. <i>Epict. 3, 8, 2</i>.`

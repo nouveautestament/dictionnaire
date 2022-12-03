@@ -1,1 +1,0 @@
-lar[2402]=`<b>ἀ·ΐζηλος, ος, ον</b>, invisible : τὸν μὲν ἀΐζηλον θῆκεν θεὸς ὅσπερ ἔφηνεν, IL. <i>2, 318,</i> le dieu qui l’avait fait paraître le fit disparaître (<i>cf</i>. CIC. <i>de Div. 2, 30 : Qui luci ediderat genitor Saturnius idem abdidit) ; au contr., sel. d’autres,</i> très visible, <i>c</i>. ἀρίδηλος.<p><b>Étym</b>. ἀ, ἰδεῖν.`

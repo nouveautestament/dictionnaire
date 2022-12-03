@@ -1,1 +1,0 @@
-lar[65657]=`<b>ου (ὁ)</b> <font color="purple">[ῑῠ]</font> Midylos, <i>Éginète,</i> PD. <i>fr. 166</i>.`

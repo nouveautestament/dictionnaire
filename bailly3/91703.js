@@ -1,1 +1,0 @@
-lar[91703]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> spatule, AR. <i>fr. 8</i> ; EUB. <i>3, 253 Meineke</i>.<p><b>Étym</b>. σπάθη.`

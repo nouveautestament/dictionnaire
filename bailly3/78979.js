@@ -1,1 +1,0 @@
-lar[78979]=`<b>ή, όν</b>, raclé, <i>d’où</i> poli tout autour, OD. <i>12, 79</i>.<p><b>Étym</b>. περιξέω.`

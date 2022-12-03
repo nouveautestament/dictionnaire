@@ -1,1 +1,0 @@
-lar[18433]=`<b>ου</b>, <i>adj. m</i>. du dème Akherdunte (Ἀχερδοῦς) <i>de la tribu Hippothoontide,</i> ESCHN. DÉM.`

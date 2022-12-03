@@ -1,1 +1,0 @@
-lar[12490]=`<b>ἀπο·καίνυμαι</b> (<i>seul. prés. et impf</i>.) l’emporter sur : τινά τινι, OD. <i>8, 127, 219,</i> sur qqn en qqe ch.`

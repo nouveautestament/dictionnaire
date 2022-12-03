@@ -1,1 +1,0 @@
-lar[71496]=`<b>ὀμό·ζυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font><br><b>      1</b> compagnon de joug, PLAT. <i>Phædr. 256a.</i><br><b>      2</b> <i>fig</i>. de même sorte, de même espèce, PROTARCH. (ARSTT. <i>Phys. 2, 6, 2).</i><p><b>Étym</b>. ὁμ. ζεύγνυμι.`

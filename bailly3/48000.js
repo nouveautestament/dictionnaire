@@ -1,1 +1,0 @@
-lar[48000]=`<b>θυρ·ανοίκτης, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> qui ouvre les portes, DYSC. <i>Synt. 318, 30</i> ; CHRYS. <i>6, 974</i>.<p><b>Étym</b>. θύρα, ἀνοίγω.`

@@ -1,1 +1,0 @@
-lar[88246]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> loque, haillon ; <i>d’ord. au plur</i>. AR. <i>Vesp. 128, etc. ; fig. au sg</i>. AR. <i>Ach. 415</i>.<p><b>Étym</b>. <i>dim. de</i> ῥάκος.`

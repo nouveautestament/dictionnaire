@@ -1,1 +1,0 @@
-lar[67890]=`<b>ου</b> <font color="purple">[ᾱῑ]</font> <i>adj. m</i>. de Néapolis, LYC. <i>736</i>.<p>➳ <i>Dans les inscr. att</i>. Νεοπολίτης (<i>cf</i>. Δικαιοπολίτης <i>de</i> Δίκαια, Μεγαλοπολίτης <i>de</i> Μεγαλήπολις) CIA. <i>1, 226, 29 (454 av. J.-C.), etc. ; la forme Νεαπολίτης est de l’époque macédonienne, v. Meisterh. p. 91, 9</i>.<p><b>Étym</b>. Νεάπολις.`

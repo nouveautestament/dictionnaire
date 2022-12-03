@@ -1,1 +1,0 @@
-lar[21980]=`<b>α, ον</b> <font color="purple">[γῐ]</font> <i>c</i>. γιγάντειος, ES. <i>53 Halm</i>.`

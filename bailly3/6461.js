@@ -1,1 +1,0 @@
-lar[6461]=`<i>adv.</i> :<br><b>      1</b> des deux côtés, IL. <i>5, 726</i> ; HÉS. <i>Th. 733</i> ; HDT. <i>2, 29</i> ; XÉN. <i>An. 3, 4, 29, etc.</i> ; PLAT. <i>Leg. 877d, etc.</i><br><b>      2</b> à deux fins, OD. <i>10, 167</i>.<p><b>Étym</b>. ἀμφότερος, -θεν.`

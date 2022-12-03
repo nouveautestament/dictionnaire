@@ -1,1 +1,0 @@
-lar[12813]=`<b>ας (ἡ) :<br>      1</b> défense, justification, THC. <i>3, 61</i> ; XÉN. <i>Mem. 4, 8, 5, etc.</i> ; PLAT. <i>Ap. 28a, etc.</i> ; ἀπολογίαν ποιεῖσθαι, LYS. <i>142, 23</i> ; IS. <i>62, 29, etc</i>. présenter sa défense, se défendre.<br><b>      2</b> réponse, NT. <i>1Petr. 3, 15</i>.<p><b>Étym</b>. ἀπόλογος.`

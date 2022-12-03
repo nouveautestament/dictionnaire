@@ -1,1 +1,0 @@
-lar[22342]=`<b>α (ὁ)</b> Gnôsias, <i>Syracusain,</i> XÉN. <i>Hell. 1, 1, 29</i>.`

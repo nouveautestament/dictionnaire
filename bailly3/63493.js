@@ -1,1 +1,0 @@
-lar[63493]=`<b>ΐδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f. c</i>. Μεγαρήϊος NIC. (ATH. <i>683b</i>).`

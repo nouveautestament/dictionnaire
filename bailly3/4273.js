@@ -1,1 +1,0 @@
-lar[4273]=`<b>α (ὁ)</b> Alexippidas, <i>éphore lacédémonien,</i> THC. <i>8, 58</i> ; XÉN. <i>Hell. 2, 3, 10</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀλέξιππος.`

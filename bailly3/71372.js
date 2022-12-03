@@ -1,1 +1,0 @@
-lar[71372]=`<b>ὁμ·ήθης, ης, ὅμηθες :<br>      1</b> qui a le même caractère <i>ou</i> les mêmes mœurs, A.RH. <i>2, 917</i>.<br><b>      2</b> auprès duquel on réside (<i>propr</i>. avec qui l’on vit) NIC. <i>Th. 415</i>.<p><b>Étym</b>. ὁμός, ἦθος.`

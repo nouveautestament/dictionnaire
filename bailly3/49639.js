@@ -1,1 +1,0 @@
-lar[49639]=`<b>ἰσό·ζυξ</b>, <i>gén</i>. <b>υγος (ὁ, ἡ)</b> <font color="purple">[ῑ̆ῠγ]</font> accouplé également, <i>d’où</i> apparié, NONN. <i>Jo. 5, 27, etc. ; t. de gr</i>. approprié à la personne, DYSC. <i>Pron. 348</i>.<p><b>Étym</b>. ἴ. ζεύγνυμι.`

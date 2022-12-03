@@ -1,1 +1,0 @@
-lar[99511]=`<b>οῦ (ὁ)</b> qui prête à intérêts, <i>d’où</i> usurier, PLAT. <i>2 Alc. 149e ;</i> ARSTT. <i>Nic. 4, 1, 40</i>.<p><b>Étym</b>. τοκίζω.`

@@ -1,1 +1,0 @@
-lar[40172]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> instrument de travail, outil, THC. <i>6, 44</i> ; PLAT. <i>Pol. 281c</i>.<p>➳ <i>Ion</i>. ἐργαλήϊον, HDT. <i>3, 131</i>.<p><b>Étym</b>. ἔργον.`

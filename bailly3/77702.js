@@ -1,1 +1,0 @@
-lar[77702]=`<i>adv</i>., d’une manière persuasive, SEXT. <i>M. 2, 62</i>.`

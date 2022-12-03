@@ -1,1 +1,0 @@
-lar[102260]=`<b>ατος (τὸ)</b> saut par-dessus <i>ou</i> au delà, ARTÉM. <i>1, 55</i>.<p><b>Étym</b>. ὑπεράλλομαι.`

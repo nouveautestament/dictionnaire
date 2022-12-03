@@ -1,1 +1,0 @@
-lar[11933]=`<font color="purple">[ιᾱ]</font> <i>adv</i>., sans rougir, impudemment, APD. <i>fr. 1</i>.<p><b>Étym</b>. ἀπερυθριάω.`

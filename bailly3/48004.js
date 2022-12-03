@@ -1,1 +1,0 @@
-lar[48004]=`<b>θυρ·αυλία, ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de passer la nuit à la porte, PHIL. <i>1, 155</i>.<br><b>      2</b> action de vivre en plein air, T. LOCR. <i>103b ; en parl. d’animaux sauvages,</i> ARSTT. <i>G.A. 5, 3, 20 ; particul</i>. campement de troupes en plein air, PLUT. <i>M. 498c</i>.<p><b>Étym</b>. θύρα, αὐλή.`

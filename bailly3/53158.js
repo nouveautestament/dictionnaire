@@ -1,1 +1,0 @@
-lar[53158]=`<b>κατα·προβάλλω</b>, renverser, jeter à bas, GAL. <i>19, 622</i>.`

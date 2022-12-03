@@ -1,1 +1,0 @@
-lar[93677]=`<b>συ·ζωοποιέω-ῶ</b>, rendre vivant <i>ou</i> vivifier ensemble, NT. <i>Eph. 2, 5</i>.`

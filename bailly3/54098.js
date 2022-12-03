@@ -1,1 +1,0 @@
-lar[54098]=`<b>εως (ἡ)</b> <font color="purple">[κῐ]</font> l’action d’établir dans une résidence, <i>particul</i>. de fonder <i>ou</i> de peupler une colonie, THC. <i>6, 77</i> ; PLAT. <i>Leg. 969d, etc. ; au plur</i>. APP. <i>Civ. 5, 14</i>.<p><b>Étym</b>. κατοικίζω.`

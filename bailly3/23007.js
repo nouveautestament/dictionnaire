@@ -1,1 +1,0 @@
-lar[23007]=`<i>adv</i>., en sortant d’un repas, OD. <i>10, 216</i> ; THCR. <i>Idyl. 17, 28</i>.<p><b>Étym</b>. δαίτη, -θεν.`

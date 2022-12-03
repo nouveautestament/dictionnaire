@@ -1,1 +1,0 @@
-lar[8477]=`<i>adv</i>., sans signe distinctif, APSIN. <i>p. 43, 7</i>.`

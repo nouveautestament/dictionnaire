@@ -1,1 +1,0 @@
-lar[1474]=`<b>ἀδολεσχέω-ῶ</b> <font color="purple">[ᾱ]</font> bavarder, XÉN. <i>Œc. 11, 3</i> ; PLAT. <i>Phæd. 70c, etc</i>.<p><b>Étym</b>. ἀδολέσχης.`

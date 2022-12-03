@@ -1,1 +1,0 @@
-lar[91709]=`<i>n. de la</i> chienne <i>chez les Mèdes,</i> HDT. <i>1, 110</i>.<p><b>Étym</b>. <i>mot perse ou p.-ê. acc. d’un subst</i>. *σπάξ.`

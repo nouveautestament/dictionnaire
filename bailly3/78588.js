@@ -1,1 +1,0 @@
-lar[78588]=`<b>περι·εσθίω</b> <font color="darkgreen">(<i>f</i>. -έδομαι, <i>ao.2</i> -έφαγον, <i>etc</i>.)</font> ronger tout autour, <i>acc</i>. DS. <i>5, 33</i> ; LUC. <i>M. cond. 26 ; fig</i>. LUC. <i>Lex. 23</i>.<br><b><i>Moy.</i></b> se ronger, se consumer, <i>fig</i>. NYSS.`

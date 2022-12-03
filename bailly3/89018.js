@@ -1,1 +1,0 @@
-lar[89018]=`ου (ὁ) :<br><b>      1</b> menue marchandise, STR. <i>200, 376 ; d’où</i> marchandise de peu de valeur, DÉM. <i>910, 1 ; p. ext</i>. pacotille de menues marchandises, ESCHL. <i>fr. 256 Dind.</i><br><b>      2</b> peinture de menus objets, tableau de nature morte, DH. <i>Exc. 16, 6</i>.<p><b>Étym</b>. ῥώψ.`

@@ -1,1 +1,0 @@
-lar[15713]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Asæos, <i>h</i>. IL. <i>11, 301</i>.`

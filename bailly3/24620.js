@@ -1,1 +1,0 @@
-lar[24620]=`<b>δια·ζωμεύω</b>, faire bouillir de la viande de manière à faire du bouillon, HPC. <i>536, 10, dout</i>.`

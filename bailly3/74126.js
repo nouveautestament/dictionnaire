@@ -1,1 +1,0 @@
-lar[74126]=`<i>adv</i>., d’une manière commune à tous, MAN. <i>4, 506</i>.`

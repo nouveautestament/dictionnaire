@@ -1,1 +1,0 @@
-lar[80087]=`<b>πηλοποιέω-ῶ</b>, travailler l’argile, LYC. <i>473</i>.<p><b>Étym</b>. πηλοποιός.`

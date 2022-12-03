@@ -1,1 +1,0 @@
-lar[72602]=`<b>ὀρειο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se plaît sur les montagnes, A. PL. <i>256</i>.<p><b>Étym</b>. ὄρειος, χαίρω.`

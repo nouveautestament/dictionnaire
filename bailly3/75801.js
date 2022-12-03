@@ -1,1 +1,0 @@
-lar[75801]=`<b>παρά·κρημνος, ος, ον</b>, qui est en pente, escarpé, STR. <i>391</i> ; DS. <i>11, 8</i> ; PLUT. <i>Phil. 18, etc</i>.<p><b>Étym</b>. π. κρημνός.`

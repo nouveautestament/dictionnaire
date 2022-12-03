@@ -1,1 +1,0 @@
-lar[73284]=`<b>ιγγος (ὁ) :<br>   I</b> boucle de cheveux, CALL. <i>fr. 12</i>.<br><b>   II</b> <i>p. anal.</i> :<br><b>      1</b> tentacule de poulpe, NIC. <i>Al. 470</i>.<br><b>      2</b> vrille des plantes, TH. <i>H.P. 3, 18, 5</i>.<br><b>      3</b> jet de flammes en spirale, A.RH. <i>1, 1297</i>.`

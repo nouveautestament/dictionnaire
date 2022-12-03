@@ -1,1 +1,0 @@
-lar[61645]=`<b>λορδόω-ῶ</b>, courber, pencher en avant, HPC. <i>812d, etc.</i><br><b><i>Moy.</i></b> se pencher en avant, AR. <i>Eccl. 10</i>.<p><b>Étym</b>. λορδός.`

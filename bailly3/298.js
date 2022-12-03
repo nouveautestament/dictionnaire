@@ -1,1 +1,0 @@
-lar[298]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγιᾱ]</font> transport de joie, SPT. <i>Tob. 13, 11 ; Judith 12, 14, etc</i>.<p><b>Étym</b>. ἀγαλλιάω.`

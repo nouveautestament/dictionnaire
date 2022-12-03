@@ -1,1 +1,0 @@
-lar[104724]=`<b>ης (ἡ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> baleine, ARSTT. <i>H.A. 1, 5 ; 3, 20, etc.</i> ; EL. <i>N.A. 5, 4 ; 9, 50, etc.</i><br><b>      2</b> tout animal énorme et vorace, <i>fig</i>. AR. <i>Vesp. 35, 39</i> ; LYC. <i>841</i>.<p><b>Étym</b>. φάλη.`

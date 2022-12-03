@@ -1,1 +1,0 @@
-lar[92285]=`<b>στεγο·ποιέω-ῶ</b>, <i>au moy</i>. se bâtir une maison, PROCL. <i>Hes. O. 569</i>.<p><b>Étym</b>. στέγος, π.`

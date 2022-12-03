@@ -1,1 +1,0 @@
-lar[18901]=`<b>βακχέ·χορος, ος, ον</b>, qui conduit les chœurs des bacchants <i>ou</i> des bacchantes, ORPH. <i>H. 56</i>.<p><b>Étym</b>. βάκχος, χορός.`

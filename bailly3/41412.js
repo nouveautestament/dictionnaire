@@ -1,1 +1,0 @@
-lar[41412]=`<b>ἑτερ·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> qui diffère de nom, NICOM. <i>Arithm. 82</i> ; CLÉM. <i>928</i>.<p><b>Étym</b>. ἕ. ὄνομα.`

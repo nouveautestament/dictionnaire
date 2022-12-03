@@ -1,1 +1,0 @@
-lar[77233]=`<b>ου (ὁ)</b> <font color="purple">[πᾱ]</font> Pasias, <i>h</i>. AR. <i>Nub. 21, etc</i>.`

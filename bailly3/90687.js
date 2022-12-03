@@ -1,1 +1,0 @@
-lar[90687]=`<b>σκατοφαγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> manger des excréments, ANTIPH. (<i>Com. fr. 3, 68).</i><p><b>Étym</b>. σκατοφάγος.`

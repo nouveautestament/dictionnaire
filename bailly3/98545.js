@@ -1,1 +1,0 @@
-lar[98545]=`<b>τετραγωνο·πρόσωπος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a la face carrée, HDT. <i>4, 109</i>.<p><b>Étym</b>. τ. πρόσωπον.`

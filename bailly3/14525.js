@@ -1,1 +1,0 @@
-lar[14525]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> fils <i>ou</i> descendant d’Arètos (Nisos), OD. <i>16, 395 (gén. épq</i>. -αο).<br><b>      2</b> fils d’Arès (Kyknos) HÉS. <i>Sc. 57</i>.<p><b>Étym</b>. Ἄρητος <i>et</i> Ἄρης.`

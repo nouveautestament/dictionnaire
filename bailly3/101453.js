@@ -1,1 +1,0 @@
-lar[101453]=`<font color="purple">[ῠᾰ]</font><br><b>      1</b> être hydropique, HPC.<br><b>      2</b> avoir des flueurs blanches, HPC. (GAL. <i>Lex. Hipp. 19, 148</i>) ; EROT. <i>p. 312</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>1008g</i>.<p><b>Étym</b>. ὕδωρ.`

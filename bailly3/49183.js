@@ -1,1 +1,0 @@
-lar[49183]=`<b>ας (ἡ)</b> = <i>lat</i>. Junia, <i>n. de f. rom</i>. PLUT. <i>Brut. 7</i>.`

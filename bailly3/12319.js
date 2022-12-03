@@ -1,1 +1,0 @@
-lar[12319]=`<b>ή, όν</b> <font color="purple">[κῐ]</font> apte à rejeter, à reconnaître indigne, ARR. <i>Epict. 1, 1, 1</i>.`

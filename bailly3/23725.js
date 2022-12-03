@@ -1,1 +1,0 @@
-lar[23725]=`<b>δεκα·τρεῖς, εῖς, ία</b> = τρισκαίδεκα, treize, DÉM. <i>1158, 25</i> ; SPT. <i>Gen. 17, 25</i> ; JOS. <i>19, 6</i> ; PLUT. <i>M. 1019a ; etc</i>.<p>➳ <i>Écrit en deux mots dans une inscr. att</i>. CIA. <i>1, 324, c, 2, 16</i>.`

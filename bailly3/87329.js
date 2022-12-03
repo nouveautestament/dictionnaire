@@ -1,1 +1,0 @@
-lar[87329]=`<b>πτερο·δρομία, ας (ἡ)</b> course ailée, <i>càd</i>. vol <i>ou</i> élan impétueux, ANTH. <i>7, 699</i>.<p><b>Étym</b>. πτ. δρόμος.`

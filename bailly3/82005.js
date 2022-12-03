@@ -1,1 +1,0 @@
-lar[82005]=`<b>πολύ·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> qui contient beaucoup de lits, HLD. <i>5, 18</i>.<p><b>Étym</b>. π. κλίνη.`

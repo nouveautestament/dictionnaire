@@ -1,1 +1,0 @@
-lar[11124]=`<b>ἀπ·αιθριάζω :<br>   I <i>tr</i>.<br>      1</b> exposer à l’air libre, HPC. <i>497, 15</i>.<br><b>      2</b> écarter du ciel, <i>d’où</i> rendre serein, <i>fig</i>. AR. <i>Av. 1502</i>.<br><b>   II <i>intr.</i></b> être limpide, <i>en parl. de l’eau,</i> LIB. <i>1, 343 ; fig</i>. M. ANT. <i>3, 4</i>.`

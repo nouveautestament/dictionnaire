@@ -1,1 +1,0 @@
-lar[12695]=`<b>ἀπό·κτισις, εως (ἡ)</b> <font color="purple">[ῐσ]</font> établissement au dehors, colonie, CALL. <i>Ap. 74</i> ; DH. <i>1, 49</i>.<p><b>Étym</b>. ἀπό, κτίζω.`

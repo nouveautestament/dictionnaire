@@ -1,1 +1,0 @@
-lar[42492]=`<b>εὐ·κόχωνος, ος, ον</b>, aux hanches fortes, STOB. <i>Ecl. phys. p. 992</i> (εὐκοχωνέστεροι <i>Mein</i>.).<p><b>Étym</b>. εὖ, κοχώνη.`

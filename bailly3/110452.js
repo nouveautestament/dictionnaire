@@ -1,1 +1,0 @@
-lar[110452]=`<b>ου (τὸ)</b> appareil pour dire l’heure, cadran, horloge, <i>particul</i>. cadran solaire, CLÉOM. <i>1, 10</i> ; PLUT. <i>M. 1006e ;</i> horloge hydraulique, ARISTOCL. (ATH. <i>174c</i>) <i>etc</i>.<p><b>Étym</b>. ὡρολόγος.`

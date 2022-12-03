@@ -1,1 +1,0 @@
-lar[49276]=`<b>ἱππ·ηλάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> cavalier, EUR. <i>Rhes. 117</i>.<p>➳ <i>Dor</i>. ἱππηλάτας <font color="purple">[ᾰᾱ]</font> ESCHL. <i>Pers. 126</i>.<p><b>Étym</b>. ἵππος, ἐλαύνω.`

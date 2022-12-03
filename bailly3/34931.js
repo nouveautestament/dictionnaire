@@ -1,1 +1,0 @@
-lar[34931]=`<b>ἐν·σκηνοβατέω-ῶ</b> <font color="purple">[ᾰ]</font> produire sur la scène, ALCIPHR. <i>2, 4, 6</i>.`

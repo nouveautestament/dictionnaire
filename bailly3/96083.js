@@ -1,1 +1,0 @@
-lar[96083]=`<b>ου (ὁ)</b> action de paître ensemble, <i>d’où</i> réunion, EL. <i>N.A. 15, 3 dout</i>.<p><b>Étym</b>. συννέμω.`

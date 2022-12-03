@@ -1,1 +1,0 @@
-lar[85720]=`<b>εως (ἡ)</b> observation <i>ou</i> recherche ultérieure, PHILOD. <i>Œc</i>.<p><b>Étym</b>. προσεπισκέπτομαι.`

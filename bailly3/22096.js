@@ -1,1 +1,0 @@
-lar[22096]=`<b>έως (ὁ)</b> Glènée, <i>Centaure,</i> NONN. <i>D. 1, 187</i>.`

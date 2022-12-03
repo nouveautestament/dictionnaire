@@ -1,1 +1,0 @@
-lar[98072]=`<b>τεκνό·ποινος, ος, ον</b>, qui venge les enfants, ESCHL. <i>Ag. 155</i>.<p><b>Étym</b>. τέκνον, ποινή.`

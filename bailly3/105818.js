@@ -1,1 +1,0 @@
-lar[105818]=`<b>φιλο·κάθολος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime l’ensemble, l’universalité, OLYMPIOD. <i>Plat. 1 Alc</i>.`

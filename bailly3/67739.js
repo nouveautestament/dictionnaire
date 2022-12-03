@@ -1,1 +1,0 @@
-lar[67739]=`<b>ναυκρατέω-ῶ</b> <font color="purple">[ᾰ]</font> dominer <i>ou</i> vaincre sur mer, THC. <i>7, 60</i> ; XÉN. <i>Hell. 6, 2, 8</i>.<p><b>Étym</b>. ναυκράτης.`

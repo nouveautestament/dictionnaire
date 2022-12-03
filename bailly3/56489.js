@@ -1,1 +1,0 @@
-lar[56489]=`<b>κοινό·πους, ους, ουν</b>, <i>gén</i>. <b>ποδος</b>, qui s’avance <i>ou</i> se présente en même temps, SOPH. <i>El. 1104</i>.<p><b>Étym</b>. κοινός, πούς.`

@@ -1,1 +1,0 @@
-lar[87923]=`<b>πυρί·χρως, ωτος</b>, <i>acc</i>. <b>ων (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui a la couleur du feu, ALCIDAM. (ARSTT. <i>Rhet. 3, 3, 1).</i><p><b>Étym</b>. π. χρώς.`

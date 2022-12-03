@@ -1,1 +1,0 @@
-lar[78495]=`<b>περι·γνάμπτω</b>, <i>litt</i>. courber <i>ou</i> détourner autour, <i>d’où</i> doubler un cap, <i>acc.</i> : Μάλειαν, OD. <i>9, 80,</i> doubler le cap Maleia ; <i>cf</i>. A.RH. <i>2, 360</i>.`

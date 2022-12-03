@@ -1,1 +1,0 @@
-lar[24053]=`(<i>seul. inf. prés</i>.) jouer le second rôle, AR. <i>Eccl. 634</i>.<p><b>Étym</b>. δευτέριος.`

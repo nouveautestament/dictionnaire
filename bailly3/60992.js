@@ -1,1 +1,0 @@
-lar[60992]=`<b>λιγυ·πτερό·φωνος, ος, ον</b> <font color="purple">[ῐ]</font> dont les ailes font un bruit harmonieux, SIB. <i>proœm. 48</i>.<p><b>Étym</b>. λ. πτερόν, φωνή.`

@@ -1,1 +1,0 @@
-lar[24009]=`<b>α, ον</b>, qui concerne le maître, du maître, LYC. <i>1183</i>.`

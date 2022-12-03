@@ -1,1 +1,0 @@
-lar[101511]=`<b>ή, όν</b>, d’orgue hydraulique, ATH. <i>174c</i>.<p><b>Étym</b>. ὕδραυλις.`

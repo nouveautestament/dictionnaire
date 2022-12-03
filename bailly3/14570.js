@@ -1,1 +1,0 @@
-lar[14570]=`<b>ου (ὁ)</b> Aribæos, <i>roi de Cappadoce,</i> XÉN. <i>Cyr. 2, 1, 5</i>.`

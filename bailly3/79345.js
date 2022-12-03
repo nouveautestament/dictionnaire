@@ -1,1 +1,0 @@
-lar[79345]=`<b>περισσό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, d’une prudence remarquable, ESCHL. <i>Pr. 328</i>.<p><b>Étym</b>. π. φρήν.`

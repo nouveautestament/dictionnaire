@@ -1,1 +1,0 @@
-lar[98179]=`<b>τελεσσί·φρων, ονος (ὁ, ἡ)</b> qui accomplit ses projets, ESCHL. <i>Ag. 700</i>.<p><b>Étym</b>. <i>poét. p</i>. *τελεσίφρων <i>de</i> τελέω, φρήν.`

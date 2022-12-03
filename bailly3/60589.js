@@ -1,1 +1,0 @@
-lar[60589]=`<b>Λευκὸν πεδίον (τὸ)</b> la Plaine blanche, <i>plaine de Mégaride,</i> NONN. <i>D. 10, 76</i>.`

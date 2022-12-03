@@ -1,1 +1,0 @@
-lar[101891]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ὑπαίθριος SOPH. <i>Ant. 357 conj</i>.`

@@ -1,1 +1,0 @@
-lar[80388]=`<b>πιο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> en forme de Π, HÉRON.<p><b>Étym</b>. πῖ, εἶδος.`

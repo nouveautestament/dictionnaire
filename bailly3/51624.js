@@ -1,1 +1,0 @@
-lar[51624]=`<b>κάπνεος ἄμπελος (ἡ)</b> sorte de vigne, dont le raisin a une couleur de fumée, ARSTT. <i>G.A. 4, 4, 12</i>.<p><b>Étym</b>. καπνός, <i>cf</i>. κάπνιος.`

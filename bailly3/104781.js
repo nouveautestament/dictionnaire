@@ -1,1 +1,0 @@
-lar[104781]=`<b>οῦ (ὁ)</b> phallus, <i>emblème de la génération qu’on portait aux fêtes de Bacchus,</i> HDT. <i>2, 48, 49</i> ; AR. <i>Ach. 243</i> ; LUC. <i>Syr. 16</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

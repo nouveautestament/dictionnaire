@@ -1,1 +1,0 @@
-lar[105676]=`<b>ου (ὁ)</b> <font color="purple">[φῐ]</font> Philistiadès, <i>h</i>. ALCIPHR. <i>3, 55</i>.<p><b>Étym</b>. <i>patr. de</i> Φίλιστος.`

@@ -1,1 +1,0 @@
-lar[56218]=`<b>(τὸ)</b> lait, THESPIS (CLÉM. <i>Str. 5, p. 675</i>).`

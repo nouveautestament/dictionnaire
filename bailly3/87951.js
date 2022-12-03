@@ -1,1 +1,0 @@
-lar[87951]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> ardeur, GAL. <i>19, 442, 4</i> ; PLOT. <i>180a</i>.<p><b>Étym</b>. πῦρ.`

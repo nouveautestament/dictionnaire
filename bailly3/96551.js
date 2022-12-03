@@ -1,1 +1,0 @@
-lar[96551]=`<b>συρραθαγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> dévorer ensemble et avec bruit, NIC. <i>Th. 194</i>.`

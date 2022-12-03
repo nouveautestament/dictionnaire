@@ -1,1 +1,0 @@
-lar[74687]=`<b>Παμ·βοιώτια, ων (τὰ)</b> <i>s.e</i>. ἱερά, sacrifices <i>ou</i> fête de tous les Béotiens, POL. <i>4, 3, 5, etc.</i> ; PLUT. <i>Am. narr. 4, 5</i>.<p><b>Étym</b>. π. βοιωτία.`

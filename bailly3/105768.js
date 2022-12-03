@@ -1,1 +1,0 @@
-lar[105768]=`<b>φιλό·δροσος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la rosée, NONN. <i>D. 1, 357</i>.<p><b>Étym</b>. φ. δρόσος.`

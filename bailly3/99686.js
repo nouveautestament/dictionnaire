@@ -1,1 +1,0 @@
-lar[99686]=`<b>τορυνάω-ῶ</b> <font color="purple">[ῡ]</font> <i>c</i>. τορύνω, HPC. <i>556, 37</i> ; EUB. (POLL. <i>10, 97), etc</i>.`

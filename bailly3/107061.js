@@ -1,1 +1,0 @@
-lar[107061]=`<b>ου (τὸ)</b> Phykion, <i>lieu où se tenait le Sphinx,</i> PLUT. <i>Brut. rat. uti 4, 7</i>.`

@@ -1,1 +1,0 @@
-lar[73660]=`<font color="purple">[ᾰ]</font> du haut du ciel, OD. <i>5, 294 ; 6, 281 ; 9, 69</i> ; HÉS. <i>Th. 761</i> ; ἀπ' οὐρανόθεν, IL. <i>21, 199</i> ; OD. <i>11, 18</i> ; HÉS. <i>Sc. 384</i> ; ἐξ οὐρανόθεν, IL. <i>8, 19, etc.</i> ; κατ' οὐρανόθεν, ORPH. <i>Lith. 595, m. sign</i>.<p><b>Étym</b>. οὐρ. -θεν.`

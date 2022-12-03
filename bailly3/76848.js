@@ -1,1 +1,0 @@
-lar[76848]=`<b>παρ·ήγορος, ος, ον</b>, qui exhorte, qui console, A.RH. <i>1, 479 ; subst</i>. ὁ π. SOPH. <i>El. 229,</i> consolateur ; ἡ Π. PAUS. <i>1, 43, 6,</i> la déesse de la Persuasion.<p>➳ <i>Dor</i>. παράγορος <font color="purple">[ρᾱ]</font> SOPH. <i>l. c</i>.<p><b>Étym</b>. π. ἀγορεύω.`

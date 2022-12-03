@@ -1,1 +1,0 @@
-lar[32699]=`<b>ῶν (αἱ)</b> Éleuthères, <i>v. sur la frontière d’Attique et de Béotie,</i> XÉN. <i>Hell. 5, 4, 14</i> ; PLUT. <i>Thes. 29, etc</i>.`

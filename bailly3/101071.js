@@ -1,1 +1,0 @@
-lar[101071]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui représente, qui figure, allégorique, PLUT. <i>M. 442c</i>.<p><b>Étym</b>. τύπος.`

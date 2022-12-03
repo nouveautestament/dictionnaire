@@ -1,1 +1,0 @@
-lar[44071]=`<b>ἐφ·ιδρόω</b> <font color="purple">[ῑ]</font><br><b>      1</b> transpirer par tout le corps <i>ou</i> seulement dans la région supérieure, HPC. <i>Epid. 1, 941</i>.<br><b>      2</b> transpirer en même temps que <i>ou</i> à la suite de (la fièvre) HPC. <i>ibid</i>.<p><b>Étym</b>. ἐπί, ἱ.`

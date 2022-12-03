@@ -1,1 +1,0 @@
-lar[24680]=`<b>δι·αίθω</b>, enflammer, <i>d’où, au pass</i>. être enflammé, <i>t. de méd</i>. ARÉT. <i>Caus. m. diut. 1, 11</i>.`

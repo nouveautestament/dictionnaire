@@ -1,1 +1,0 @@
-lar[92800]=`<b>στραγγ·ουρία, ας (ἡ)</b> strangurie, <i>maladie de ceux qui n’urinent que goutte à goutte,</i> HPC. <i>Aph. 1247, etc.</i> ; AR. <i>Vesp. 810</i> ; PLAT. <i>Ep. 358e</i>.<p>➳ <i>Ion</i>. στραγγουρίη, HPC. <i>l. c</i>.<p><b>Étym</b>. στράγξ, οὐρέω.`

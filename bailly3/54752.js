@@ -1,1 +1,0 @@
-lar[54752]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> sorte de serpent, EL. <i>N.A. 6, 51</i>.<p><b>Étym</b>. κέντρον.`

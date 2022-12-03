@@ -1,1 +1,0 @@
-lar[56000]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> sarmenteux, NIC. <i>Al. 530</i>.<p><b>Étym</b>. κλῆμα.`

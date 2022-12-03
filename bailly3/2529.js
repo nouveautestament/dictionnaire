@@ -1,1 +1,0 @@
-lar[2529]=`<b>εως (ἡ)</b> saignée, ARÉT. <i>Cur. m. acut. 1, 6</i>.<p><b>Étym</b>. αἱμάσσω.`

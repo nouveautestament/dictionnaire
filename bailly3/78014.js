@@ -1,1 +1,0 @@
-lar[78014]=`<b>πεντα·πέτηλον, ου (τὸ)</b> quintefeuille, <i>plante,</i> NIC. <i>Th. 839</i>.<p><b>Étym</b>. π. πέταλον.`

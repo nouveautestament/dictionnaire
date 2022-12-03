@@ -1,1 +1,0 @@
-lar[54570]=`<b>α, ον</b>, de Cécrops ; Κεκροπία πέτρα, EUR. <i>Ion 936,</i> la roche de Cécrops, la citadelle d’Athènes ; Κεκροπία χθών, EUR. <i>Hipp. 34, etc</i>. la terre de Cécrops, l’Attique ; οἱ Κεκρόπιοι, A. PL. <i>295,</i> les descendants de Cécrops, les Athéniens.<p><b>Étym</b>. Κέκροψ.`

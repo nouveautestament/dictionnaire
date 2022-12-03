@@ -1,1 +1,0 @@
-lar[95117]=`<b>εως (ἡ)</b> délibération commune, M. ANT. <i>1, 10</i>.<p><b>Étym</b>. συνδιαλαμβάνω.`

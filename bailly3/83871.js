@@ -1,1 +1,0 @@
-lar[83871]=`<b>ατος (τὸ) :<br>      1</b> ordre du jour, DÉM. <i>772, 15, etc.</i><br><b>      2</b> inscription, PLUT. <i>Galb. 5</i>.<br><b>      3</b> ordre du jour, ARSTT. <i>Ath. 44, 2</i>.<p><b>Étym</b>. προγράφω.`

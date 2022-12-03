@@ -1,1 +1,0 @@
-lar[84391]=`<b>ος, ον</b>, qui fait qqe ch. gratuitement, ANTH. <i>6, 120</i>.<p><b>Étym</b>. *προΐξ.`

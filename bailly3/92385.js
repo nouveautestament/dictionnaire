@@ -1,1 +1,0 @@
-lar[92385]=`<b>α, ον</b>, de Stentor, ARSTT. <i>Pol. 7, 4, 7</i> ; ARSTD. <i>t. 2, 28</i>.<p><b>Étym</b>. Στέντωρ.`

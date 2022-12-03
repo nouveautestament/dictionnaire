@@ -1,1 +1,0 @@
-lar[86799]=`<b>προ·τίω</b>, honorer de préférence, <i>d’où</i> préférer, ESCHL. <i>Ag. 789, Eum. 545</i> ; τινὰ τάφου, SOPH. <i>Ant. 22,</i> juger qqn digne des honneurs de la sépulture.`

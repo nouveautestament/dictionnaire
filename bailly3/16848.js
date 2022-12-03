@@ -1,1 +1,0 @@
-lar[16848]=`<b>ἀτλητέω-ῶ</b> <font color="purple">[α]</font> (<i>seul. prés</i>.) être incapable de supporter, SOPH. <i>O.R. 515</i>.<p><b>Étym</b>. ἄτλητος.`

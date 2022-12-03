@@ -1,1 +1,0 @@
-lar[49343]=`<b>ωνος (ὁ)</b> Hippokiôn, <i>fl. de Sicile,</i> THCR. <i>Idyl. 10, 16</i>.`

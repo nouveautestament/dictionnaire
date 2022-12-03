@@ -1,1 +1,0 @@
-lar[23385]=`<b>δαφνό·κομος, ος, ον</b>, couvert <i>ou</i> couronné de laurier, ANTH. <i>9, 505</i>.<p><b>Étym</b>. δάφνη, κόμη.`

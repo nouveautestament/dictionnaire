@@ -1,1 +1,0 @@
-lar[96065]=`<b>*συν·νέφω</b>, <i>anc. att</i>. <b>ξυν·νέφω</b> (<i>seul. pf</i>. συννένοφα) <i>c</i>. συννεφέω :<br><b>      1</b> se couvrir <i>ou</i> être couvert de nuages, AR. <i>fr. 142</i>.<br><b>      2</b> être sombre, triste, PHILSTR. <i>508</i> ; DC. <i>55, 11</i>.`

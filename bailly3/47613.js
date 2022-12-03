@@ -1,1 +1,0 @@
-lar[47613]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰῠ]</font> hardiesse, audace, HPC. LEX. <i>2</i> ; THC. <i>2, 61, etc. ; au pl</i>. ISOCR. <i>56b ;</i> DÉM. <i>1452, 18</i>.<p><b>Étym</b>. θρασύς.`

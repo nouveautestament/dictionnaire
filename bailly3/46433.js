@@ -1,1 +1,0 @@
-lar[46433]=`<b>θεατρο·κρατία, ας (ἡ)</b> <font color="purple">[ᾱᾰτ]</font> domination exercée par le théâtre, PLAT. <i>Leg. 701a</i>.<p><b>Étym</b>. θ. κρατέω.`

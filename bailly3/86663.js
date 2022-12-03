@@ -1,1 +1,0 @@
-lar[86663]=`<b>προσ·χράομαι-ῶμαι</b>, se servir en outre de : τινι, PLAT. <i>Phil. 44c</i>, de qqn <i>ou</i> de qqe ch. ; τινί τι, PLAT. <i>Phil. 44d</i>, faire en outre usage de qqn en qqe ch. ; τινι εἴς τι, PLAT. <i>Crat. 435c ; ou</i> πρός τι, PLAT. <i>Criti. 115a</i>, se servir en outre de qqn <i>ou</i> de qqe ch. en vue de qqe ch.`

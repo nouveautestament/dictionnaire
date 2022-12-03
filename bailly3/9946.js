@@ -1,1 +1,0 @@
-lar[9946]=`<b>ἀντι·κατηγορέω-ῶ :<br>      1</b> accuser à son tour, <i>gén</i>. LYS. <i>106, 41</i> ; ESCHN. <i>25, 25</i>.<br><b>      2</b> <i>t. de log</i>. changer de catégorie, <i>càd</i>. transposer l’attribut, faire de l’attribut le sujet, <i>ou</i> du sujet l’attribut, <i>etc</i>. ARSTT. <i>An. post. 1, 3, 7, etc.</i> ; DH. <i>Thuc. c. 24</i>.`

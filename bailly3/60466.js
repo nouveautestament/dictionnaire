@@ -1,1 +1,0 @@
-lar[60466]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> petite enveloppe de fruit, <i>particul.</i> :<br><b>      1</b> petite cosse, THCR. <i>Idyl. 5, 95</i>.<br><b>      2</b> petite écale, ARSTT. <i>H.A. 5, 15, 2</i>.<br><b>      3</b> petite coque (d’œuf) HPC. <i>236, 40</i>.<p><b>Étym</b>. <i>dim. de</i> λέπυρον.`

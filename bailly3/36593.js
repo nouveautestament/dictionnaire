@@ -1,1 +1,0 @@
-lar[36593]=`<b>ἐπ·αναίρω</b>, lever, élever, <i>acc</i>. XÉN. <i>Cyn. 6, 23</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao</i>. ἐπανηράμην) :</font><br><b>      1 <i>tr.</i></b> lever : δόρυ, SOPH. <i>O.C. 424,</i> lever sa lance ; τὴν βακτηρίαν τινί, THC. <i>8, 84,</i> lever son bâton sur qqn.<br><b>      2 <i>intr.</i></b> se lever, AR. <i>Eq. 784</i>.`

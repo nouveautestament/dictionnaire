@@ -1,1 +1,0 @@
-lar[33666]=`<i>adv</i>., d’une manière significative, expressive, POL. <i>11, 12, 1</i> ; PLUT. <i>Arat. 32, M. 104b</i>.<p>•<i> Cp</i>. -ώτερον, POL. <i>12, 27, 10. • Sup</i>. -ώτατα, PHIL. <i>1, 50</i>.`

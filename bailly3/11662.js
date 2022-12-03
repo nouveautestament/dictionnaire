@@ -1,1 +1,0 @@
-lar[11662]=`<b>ας (ἡ)</b> une affranchie, ATH. <i>115b ;</i> ἀπ. τινος, IS. <i>58, 13,</i> l’affranchie de qqn.<p>➳ <i>Ion</i>. ἀπελευθέρη, HPC. <i>1159c</i>.<p><b>Étym</b>. <i>fém. de</i> ἀπελεύθερος.`

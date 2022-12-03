@@ -1,1 +1,0 @@
-lar[61089]=`<b>ας (ἡ)</b> <font color="purple">[λῐ]</font> travail de la pierre, <i>au pl</i>. BRUT. <i>Ep. 37</i>.<p><b>Étym</b>. λιθουργός.`

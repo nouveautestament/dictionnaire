@@ -1,1 +1,0 @@
-lar[71607]=`<b>οῦ (ὁ)</b> confesseur de la foi, martyr, CHRYS. <i>1, 729</i>.<p><b>Étym</b>. ὁμολογέω.`

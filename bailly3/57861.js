@@ -1,1 +1,0 @@
-lar[57861]=`<b>(ὁ)</b> lieu pour une danse sur le rythme crétois, SIM. <i>fr. 45</i> ; PD. <i>fr. 119</i>.<p><b>Étym</b>. Κρήτη.`

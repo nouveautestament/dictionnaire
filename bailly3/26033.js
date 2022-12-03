@@ -1,1 +1,0 @@
-lar[26033]=`<b>ων (τὰ)</b> <font color="purple">[ῐῠ]</font> Didymes, <i>lieu près de Milet avec un temple et un oracle d’Apollon,</i> HDT. <i>6, 19</i> ; LUC. <i>Alex. 29</i> ; EL. <i>N.A. 13, 21, etc</i>.`

@@ -1,1 +1,0 @@
-lar[49989]=`<b>υος (ὁ)</b> <font color="purple">[ῐ]</font> Itys, <i>fils de Tèrée et de Proknè,</i> ESCHL. <i>Ag. 1144</i> ; SOPH. <i>El. 148</i> ; THC. <i>2, 29, etc</i>.`

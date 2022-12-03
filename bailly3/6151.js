@@ -1,1 +1,0 @@
-lar[6151]=`<b>ἀμφι·θάλλω</b> (<i>pf</i>. -τέθηλα <i>au sens d’un prés</i>.) fleurir tout autour, être tout fleuri, ANTH. <i>9, 231 ; 12, 96</i>.`

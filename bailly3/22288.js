@@ -1,1 +1,0 @@
-lar[22288]=`<b>ου (ὁ)</b> Gniphônidès, <i>Athénien,</i> AND. <i>3, 17</i>.<p><b>Étym</b>. <i>patr. de</i> Γνίφων.`

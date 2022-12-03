@@ -1,1 +1,0 @@
-lar[42379]=`<b>εὐ·κατάγωγος, ος, ον</b> <font color="purple">[ᾰγ]</font> facile à armer <i>ou</i> à bander, PHIL. BYZ. <i>Bel. 10</i>.<p><b>Étym</b>. εὖ, καταγωγή.`

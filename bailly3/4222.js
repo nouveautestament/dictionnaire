@@ -1,1 +1,0 @@
-lar[4222]=`<i>neutre de</i> ἀλείς, <i>part. ao.2 pass. de</i> εἴλω.`

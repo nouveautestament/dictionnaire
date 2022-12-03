@@ -1,1 +1,0 @@
-lar[48842]=`<b>ή, όν</b>, qui a la jaunisse, GEOP. <i>12, 17, 9, etc.</i> ; GAL. <i>2, 42, etc</i>.<p><b>Étym</b>. ἴκτερος.`

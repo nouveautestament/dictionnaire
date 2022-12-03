@@ -1,1 +1,0 @@
-lar[43254]=`<b>Εὐρύ·βιος, ου (ὁ)</b> Eurybios, <i>h</i>. PLAT. <i>Ep. 348e ;</i> NONN. <i>D. 14, 188, etc</i>.<p><b>Étym</b>. εὐ. βίος.`

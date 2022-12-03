@@ -1,1 +1,0 @@
-lar[86566]=`<b>προσ·υποθήγω</b>, aiguiser contre, <i>rég. ind. au dat</i>. EL. <i>N.A. 9, 16</i>.`

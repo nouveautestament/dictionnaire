@@ -1,1 +1,0 @@
-lar[2246]=`<b>ων (τὰ)</b> <i>autre n. du dème att</i>. Αἰγιλιά, PHILÉM. GR. (ATH. <i>652e</i>).`

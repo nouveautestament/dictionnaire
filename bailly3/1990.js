@@ -1,1 +1,0 @@
-lar[1990]=`<b>ἀθερηΐς, ΐδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. épineux, NIC. <i>Th. 848</i>.<p><b>Étym</b>. ἀθήρ.`

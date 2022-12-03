@@ -1,1 +1,0 @@
-lar[78611]=`<b>περί·ζυγα, ων (τὰ)</b> <font color="purple">[ῠ]</font> harnais <i>ou</i> objets de rechange (<i>propr</i>. en surplus) pour un attelage, XÉN. <i>Cyr. 6, 2, 32</i>.<p><b>Étym</b>. π. ζυγός.`

@@ -1,1 +1,0 @@
-lar[10047]=`<b>ἀντι·λοιδορέω-ῶ</b>, injurier à son tour, PLUT. <i>M. 88e ;</i> NT. <i>1Petr. 2, 22</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. LUC. <i>Conv. 40</i>.`

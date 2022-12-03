@@ -1,1 +1,0 @@
-lar[76021]=`<b>παρα·παιδαγωγέω-ῶ</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> aider à élever, à former, PLUT. <i>M. 321b.</i><br><b>      2</b> améliorer peu à peu par l’éducation, LUC. <i>Nigr. 12</i>.`

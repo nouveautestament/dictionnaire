@@ -1,1 +1,0 @@
-lar[69123]=`<b>νυκτερό·φοιτος, ος, ον</b>, qui va <i>ou</i> erre pendant la nuit, ORPH. <i>H. 35, 6</i>.<p><b>Étym</b>. ν. φοιτάω ; <i>cf</i>. νυκτίφοιτος.`

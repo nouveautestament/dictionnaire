@@ -1,1 +1,0 @@
-lar[50982]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> semblable au calament <i>ou</i> rempli de calament, STR. <i>367</i>.<p><b>Étym</b>. κ. -ωδης.`

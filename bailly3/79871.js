@@ -1,1 +1,0 @@
-lar[79871]=`<b>ου (ὁ)</b> = <i>lat</i>. Petilius, <i>n. d’h. rom</i>. PLUT. <i>Num. 22</i>.`

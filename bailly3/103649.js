@@ -1,1 +1,0 @@
-lar[103649]=`<b>ὑπο·παταγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> faire un faible bruit, PHILSTR. <i>671</i>.`

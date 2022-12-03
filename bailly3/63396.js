@@ -1,1 +1,0 @@
-lar[63396]=`<b>μεγαλό·πλουτος, ος, ον</b> <font color="purple">[ᾰ]</font> très riche, DS. <i>15, 58 ; fig</i>. EUB. (ATH. <i>300c</i>).<p><b>Étym</b>. μ. πλοῦτος.`

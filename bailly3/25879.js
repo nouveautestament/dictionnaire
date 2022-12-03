@@ -1,1 +1,0 @@
-lar[25879]=`<b>δια·φροντίζω :<br>      1</b> méditer sur, <i>acc</i>. EL. <i>V.H. 2, 21 ; abs</i>. méditer, EPICRAT. (ATH. <i>59f</i>).<br><b>      2</b> se préoccuper de, <i>acc</i>. HPC. <i>280, 42</i> ; ARSTT. <i>Pol. 2, 4, 8</i>.`

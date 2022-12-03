@@ -1,1 +1,0 @@
-lar[96885]=`<i>adv</i>., du dème Sphèttos, PLUT. <i>Thes. 13</i>.`

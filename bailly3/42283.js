@@ -1,1 +1,0 @@
-lar[42283]=`<b>εὐθυπλοέω-οῶ</b>, naviguer directement, STR. <i>493</i> ; ARR. <i>Cyn. 25, 8</i>.<p><b>Étym</b>. εὐθύπλοος.`

@@ -1,1 +1,0 @@
-lar[48744]=`<b>ἰθυ·μάχος, ος, ον</b> <font color="purple">[ῑῠᾰ]</font> qui combat en rase campagne, SIM. <i>fr. 137, t. 3, p. 481 Poet. lyr. gr. Bgk</i>.<p><b>Étym</b>. ἰ. μάχομαι.`

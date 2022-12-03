@@ -1,1 +1,0 @@
-lar[73291]=`<b>ὀστο·λόγος, ος, ον</b>, qui ramasse <i>ou</i> rassemble les os, ESCHL. (ATH. <i>667c</i>).<p><b>Étym</b>. ὀστέον, λέγω.`

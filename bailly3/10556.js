@@ -1,1 +1,0 @@
-lar[10556]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> affection mutuelle, ARSTT. <i>Eud. 7, 2, 12</i>.<p><b>Étym</b>. ἀ. φίλος.`

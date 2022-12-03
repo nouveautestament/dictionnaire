@@ -1,1 +1,0 @@
-lar[91869]=`<b>οῦ (ὁ)</b> le Sperkheios, <i>propr</i>. « le rapide », (<i>auj</i>. Sperchiós, <i>anc</i>. Alamána) <i>fl. de Thessalie,</i> IL. <i>16, 174 ; 23, 142, etc.</i> ; SIM. (HDT. <i>7, 228</i>) ; HDT. <i>7, 198</i>.<p>➳ <i>Ion</i>. Σπερχηϊός, HDT. <i>ll. cc</i>.<p><b>Étym</b>. σπέρχω.`

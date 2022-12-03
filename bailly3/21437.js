@@ -1,1 +1,0 @@
-lar[21437]=`<b>γαστρο·ρραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> suture d’une plaie <i>ou</i> d’une incision du bas-ventre, GAL. <i>10, 120e ;</i> ORIB. <i>p. 22 Mai</i>.<p><b>Étym</b>. γαστήρ, ῥάπτω.`

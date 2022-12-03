@@ -1,1 +1,0 @@
-lar[105575]=`<b>Φιλ·έταιρος, ου (ὁ)</b> Philétæros (Philétère) :<br><b>      1</b> <i>poète de la moyenne comédie</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Frat. am. 5</i> ; LUC. <i>Macr. 12, etc</i>.<p><b>Étym</b>. <i>v</i>. φιλέταιρος.`

@@ -1,1 +1,0 @@
-lar[64085]=`<b>μελισσο·τρόφος</b>, <i>att</i>. <b>μελιττοτρόφος, ος, ον</b>, qui nourrit des abeilles, EUR. <i>Tr. 795</i> ; ὁ μ. JOS. <i>B.J. 4, 8, 3,</i> apiculteur.<p><b>Étym</b>. μ. τρέφω.`

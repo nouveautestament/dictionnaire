@@ -1,1 +1,0 @@
-lar[37477]=`<b>ή, όν</b>, capable de connaître, ARR. <i>Epict. 2, 3, 4</i>.<p><b>Étym</b>. ἐπιγιγνώσκω.`

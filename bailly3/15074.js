@@ -1,1 +1,0 @@
-lar[15074]=`<b>ης (ἡ)</b> le territoire d’Arpinum, <i>dans le Latium,</i> PLUT. <i>Mar. 3</i>.`

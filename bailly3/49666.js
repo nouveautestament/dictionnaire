@@ -1,1 +1,0 @@
-lar[49666]=`<b>ἰσό·κτυπος, ος, ον</b> <font color="purple">[ῑ̆ῠ]</font> qui fait un bruit égal, NONN. <i>D. 27, 92</i>.<p><b>Étym</b>. ἴ. κτυπέω.`

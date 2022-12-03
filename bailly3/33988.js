@@ -1,1 +1,0 @@
-lar[33988]=`<b>ἐν·αποσφραγίζω</b> <font color="purple">[ᾱγ]</font> imprimer dans, <i>avec</i> εἰς <i>et l’acc</i>. JOS. <i>Macc. 15, abs</i>. DL. <i>7, 46</i>.<br><b><i>Moy.</i></b> s’imprimer dans, <i>dat</i>. CLÉM. <i>1, 224 Migne</i>.`

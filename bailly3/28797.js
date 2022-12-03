@@ -1,1 +1,0 @@
-lar[28797]=`<b>δυσ·περιάγωγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui exécute difficilement les mouvements tournants, qui évolue difficilement, ARR. <i>Tact. 16, 8</i>.<p><b>Étym</b>. δ. περιαγωγή.`

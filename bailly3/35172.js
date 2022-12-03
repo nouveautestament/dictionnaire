@@ -1,1 +1,0 @@
-lar[35172]=`<b>ἔν·υγρος, ος, ον :<br>      1</b> qui vit dans l’eau, aquatique, ARSTT. <i>Spir. 2, 12</i>.<br><b>      2</b> humide, ARSTT. <i>Meteor. 1, 14, 1 ; en parl. des saisons,</i> ARSTT. <i>H.A. 6, 15, 8</i>.<br><b>      3</b> aqueux, DS. <i>12, 58</i>.<p><b>Étym</b>. ἐν, ὑγρός.`

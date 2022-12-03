@@ -1,1 +1,0 @@
-lar[24122]=`<b>ῆτος (ἡ) :<br>   I</b> hostilité, OD. <i>6, 203</i>.<br><b>   II</b> <i>p. suite</i> : combat, bataille, IL. <i>3, 20 ; 5, 593 ; joint à</i> πόλεμος, IL. <i>5, 348, etc. ; à</i> μάχη, IL. <i>7, 290 ; à l’épithète</i> αἰνός, IL. <i>5, 409 ; 7, 119 ; 22, 64</i>.<p><b>Étym</b>. δήϊος.`

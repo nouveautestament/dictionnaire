@@ -1,1 +1,0 @@
-lar[49552]=`<i>ou</i> <b>Ἴσειον, ου (τὸ)</b> <font color="purple">[ῑ]</font> le temple d’Isis, PLUT. <i>M. 352a ;</i> DC. <i>66, 24, 2</i>.<p><b>Étym</b>. Ἶσις.`

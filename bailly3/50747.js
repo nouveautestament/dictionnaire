@@ -1,1 +1,0 @@
-lar[50747]=`<b>κακό·θροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> médisant, SOPH. <i>Aj. 138</i>.<p><b>Étym</b>. κ. θρέω.`

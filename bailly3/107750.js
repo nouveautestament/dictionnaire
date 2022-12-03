@@ -1,1 +1,0 @@
-lar[107750]=`<b>χαμαί·βατος, ου (ὁ)</b> sorte de ronce rampante, à fruits bleus, TH. <i>H.P. 3, 18, 4</i>.<p><b>Étym</b>. χ. βατός.`

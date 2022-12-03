@@ -1,1 +1,0 @@
-lar[76756]=`<b>παρ·επιδείκνυμι</b>, montrer en outre, SPT. <i>2Macc. 15, 10</i>.<br><b><i>Moy</i>. παρεπιδείκνυμαι</b>, montrer à contretemps <i>ou</i> avec ostentation, PLUT. <i>M. 43d ;</i> LUC. <i>H. conscr. 57</i>.`

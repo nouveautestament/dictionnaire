@@ -1,1 +1,0 @@
-lar[109132]=`<b>ήεσσα, ῆεν</b> <font color="purple">[ῡ]</font> <i>c</i>. χρύσεος, SIB. <i>fr. 225</i>.`

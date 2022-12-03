@@ -1,1 +1,0 @@
-lar[104521]=`<b>*ὑψι·πετήης, ης, ες</b>, <i>d’où acc. pl. fém</i>. ὑψιπετήεις <font color="purple">[ῐ]</font> <i>c</i>. ὑψιπετήεις MATR. (ATH. <i>136c</i>).`

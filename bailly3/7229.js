@@ -1,1 +1,0 @@
-lar[7229]=`<b>ἀν·ανάγκαστος, ος, ον</b> <font color="purple">[ανᾰν]</font> non contraint, ARR. <i>Epict. 1, 6, 40</i>.<p><b>Étym</b>. ἀν-, ἀναγκάζω.`

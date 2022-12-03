@@ -1,1 +1,0 @@
-lar[21255]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> sorte de lézard moucheté, AR. <i>Nub. 174</i>.<br><b>      2</b> épée, <i>poisson de mer</i> (<i>v</i>. ξιφίας), POL. <i>34, 2, 12 et 15 ; 34, 3, 1</i> ; LUC. <i>V.H. 1, 35, etc</i>.`

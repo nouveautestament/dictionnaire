@@ -1,1 +1,0 @@
-lar[33013]=`<b>εος-ους (τὸ) :<br>      1</b> bas-fond, lieu humide et marécageux, IL. <i>20, 221</i> ; OD. <i>14, 474, etc.</i> ; A.RH. <i>4, 976</i> ; NONN. <i>D. 1, 112 ; au pl</i>. plaines basses et humides de l’Égypte, HDT. <i>1, 191</i> ; THC. <i>1, 110, etc.</i><br><b>      2</b> marais, <i>joint à</i> λίμναι, PLAT. <i>Leg. 824b, etc</i>.`

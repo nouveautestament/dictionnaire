@@ -1,1 +1,0 @@
-lar[43311]=`<b>εὐρυ·πέδιλος, ος, ον</b> <font color="purple">[ῠῑ]</font> qui est une large chaussure, large, <i>en parl. d’une chaussure,</i> OPP. <i>C. 1, 288</i>.<p><b>Étym</b>. εὐ. πέδιλον.`

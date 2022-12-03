@@ -1,1 +1,0 @@
-lar[74858]=`<b>παν·αμείλικτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qu’il est tout à fait impossible d’adoucir, cruel, OPP. <i>C. 3, 223</i>.<p><b>Étym</b>. π. ἀμείλικτος.`

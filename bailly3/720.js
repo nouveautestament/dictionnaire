@@ -1,1 +1,0 @@
-lar[720]=`<b>ἀγλαό·φημος, ος, ον</b>, d’un renom éclatant, ORPH. <i>H. 30, 4</i>.<p><b>Étym</b>. ἀ. φήμη.`

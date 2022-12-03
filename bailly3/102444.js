@@ -1,1 +1,0 @@
-lar[102444]=`<b>ὑπερ·εντρυφάω</b> <font color="purple">[τρῠ]</font> traiter avec une suprême arrogance, <i>dat</i>. ALCIPHR. <i>1, 37</i>.`

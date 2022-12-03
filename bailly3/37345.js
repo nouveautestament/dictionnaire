@@ -1,1 +1,0 @@
-lar[37345]=`<b>ἐπι·βλασφημέω-ῶ</b>, accabler de reproches, APP. <i>Civ. 1, 115</i> ; JOS. <i>A.J. 20, 5, 4</i>.`

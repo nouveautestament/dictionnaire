@@ -1,1 +1,0 @@
-lar[28609]=`<b>δυσ·κρατής, ής, ές</b> <font color="purple">[ᾰ]</font> difficile à gouverner, PLUT. (STOB. <i>Fl. 33, 10) au</i> <i>• Sup</i>. -έστατος.<p><b>Étym</b>. δ. κράτος.`

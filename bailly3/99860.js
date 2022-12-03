@@ -1,1 +1,0 @@
-lar[99860]=`<b>τραγο·πτισάνη, ης (ἡ)</b> <font color="purple">[ᾰῐᾰ]</font> = <i>lat</i>. tragoptisana, tisane de gruau, C. AUR. <i>Chron. 3, 2, p. 441</i>.`

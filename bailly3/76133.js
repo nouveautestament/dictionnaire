@@ -1,1 +1,0 @@
-lar[76133]=`<b>παρα·πυλίς, ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> petite porte à côté d’une grande, guichet, poterne, HLD. <i>8, 12</i>.<p><b>Étym</b>. π. πύλη.`

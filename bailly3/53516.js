@@ -1,1 +1,0 @@
-lar[53516]=`<b>κατα·σχετλιάζω</b>, s’irriter contre, <i>gén</i>. JOS. <i>B.J. 1, 32, 4</i>.`

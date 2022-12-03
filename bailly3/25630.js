@@ -1,1 +1,0 @@
-lar[25630]=`<b>ίδος (ἡ)</b> sorte de sonde de chirurgien, GAL. <i>2, 97b</i>.`

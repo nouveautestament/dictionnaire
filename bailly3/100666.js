@@ -1,1 +1,0 @@
-lar[100666]=`<b>α, ον</b> du prix de trois oboles, DIOSC. <i>1, 131</i> ; GAL. <i>13, 914</i> ; A. TR. <i>8, p. 445, 447</i>.<p><b>Étym</b>. τριώβολον.`

@@ -1,1 +1,0 @@
-lar[49135]=`<b>ἰό·μωρος, ος, ον</b>, <i>ép. des Argiens, de sign. obscure, p.-ê</i>. qui brille par ses cris, qui crie fort, braillard, vantard, IL. <i>4, 242 ; joint à</i> ἀπειλάων ἀκόρητοι, IL. <i>14, 479</i>.<p><b>Étym</b>. <i>cf. p.-ê</i>. ἰά <i>ou</i> ἰή, <i>et R. indo-europ</i>. *moh₁-ro-, grand, <i>cf</i>. ἐγχεσίμωρος.`

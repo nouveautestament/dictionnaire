@@ -1,1 +1,0 @@
-lar[12523]=`<b>ἀπο·καταφαίνω</b>, réfléchir une image, ARISTÉN. <i>1, 3</i>.`

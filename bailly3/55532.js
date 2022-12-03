@@ -1,1 +1,0 @@
-lar[55532]=`<b>ου</b> <i>et</i> <b>α (ὁ)</b> <font color="purple">[ᾱ]</font> Cinna, <i>n. d’h. rom</i>. PLUT. <i>Syll. 10, etc</i>.<p>➳ <i>Gén</i>. -ου, DS. <i>38, 2</i> ; DC. <i>44, 10, etc.</i> ; -α, DS. <i>38, 2, etc</i>.`

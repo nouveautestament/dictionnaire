@@ -1,1 +1,0 @@
-lar[83890]=`<b>πρό·δειπνος, ος, ον</b>, qui précède le souper <i>ou p.-ê</i>. qui a soupé auparavant, ATH. <i>406e</i>.<p><b>Étym</b>. π. δεῖπνον.`

@@ -1,1 +1,0 @@
-lar[50751]=`<b>κακ·οικονόμος, ου (ὁ)</b> mauvais administrateur, PHIL. <i>2, 269</i>.<p><b>Étym</b>. κ. οἰκονόμος.`

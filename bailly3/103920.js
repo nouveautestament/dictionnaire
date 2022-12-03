@@ -1,1 +1,0 @@
-lar[103920]=`<b>ὑποστυλόω-ῶ</b> <font color="purple">[ῡλ]</font> soutenir par des colonnes, APD. POL. <i>22</i>.<p><b>Étym</b>. ὑπόστυλος.`

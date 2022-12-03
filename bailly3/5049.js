@@ -1,1 +1,0 @@
-lar[5049]=`<b>ου (ὁ)</b> officier de police, <i>chez les Éléens (litt</i>. qui fait des rondes) EM. <i>72, 12</i>.<p><b>Étym</b>. ἀλύω.`

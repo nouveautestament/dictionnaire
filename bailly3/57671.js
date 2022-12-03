@@ -1,1 +1,0 @@
-lar[57671]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> affermissement, HPC. <i>Epid. 6, 8, 29</i>.<p><b>Étym</b>. κρατύνω.`

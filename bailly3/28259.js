@@ -1,1 +1,0 @@
-lar[28259]=`<b>δυσ·βίοτος, ος, ον</b>, dont la vie est pénible, ANTH. <i>7, 648</i>.<p><b>Étym</b>. δ. βίοτος.`

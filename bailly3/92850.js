@@ -1,1 +1,0 @@
-lar[92850]=`<b>ιδος</b> <font color="purple">[ᾰῐδ]</font><br><b>      1</b> <i>adj. f</i>. de soldat, ESCHL. <i>Ag. 47</i> ; PLUT. <i>Marc. 14</i> ; ναῦς, THC. <i>1, 116 ; 6, 43 ; 8, 62</i> ; XÉN. <i>Hell. 1, 1, 36,</i> vaisseau de transport pour les troupes.<br><b>      2</b> <i>subst</i>. ἡ στρ. GEOP. <i>2, 5, 4, n. de plante, c</i>. στρατιώτης II.<p><b>Étym</b>. στρατιώτης.`

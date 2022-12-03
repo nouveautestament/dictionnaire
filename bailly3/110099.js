@@ -1,1 +1,0 @@
-lar[110099]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> petite ode, petite chanson, LGN <i>41, 2</i> ; ARR. <i>Epict. 3, 23, 21</i>.<p><b>Étym</b>. <i>dim. de</i> ᾠδή.`

@@ -1,1 +1,0 @@
-lar[107746]=`<font color="purple">[χᾰ]</font> <i>adv</i>., de dessus terre, HDT. <i>2, 125 ; 4, 172</i> ; AR. <i>Vesp. 249, etc</i>.<p><b>Étym</b>. <i>th</i>. χαμα-, -θεν.`

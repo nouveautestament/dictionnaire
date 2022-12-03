@@ -1,1 +1,0 @@
-lar[93292]=`<b>συγ·καταζεύγνυμι</b> <font color="purple">[ῡ]</font> unir : τινά τινι, PLUT. <i>Cam. 2</i> ; LUC. <i>Tox. 25,</i> une personne à une autre ; <i>fig. au pass</i>. SOPH. <i>Aj. 123</i>.`

@@ -1,1 +1,0 @@
-lar[74743]=`<b>πάμ·πληκτος, ος, ον</b>, où l’on reçoit toute sorte de coups, SOPH. <i>Tr. 505</i>.<p><b>Étym</b>. π. πλήσσω.`

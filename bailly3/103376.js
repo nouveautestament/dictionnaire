@@ -1,1 +1,0 @@
-lar[103376]=`<b>ὑπο·κλέπτω :<br>      1</b> soustraire, dérober, BABR. <i>2, 3</i> ; SOPH. <i>Aj. 225</i> ; ὑπ. ἑαυτόν, LUC. <i>D. mer. 10,</i> se dérober aux regards ; <i>au pass</i>. être volé, <i>avec l’acc. de l’objet dérobé,</i> SOPH. <i>El. 115</i>.<br><b>      2</b> dissimuler, cacher, MUS. <i>85 ; au pass</i>. se dissimuler, demeurer caché, secret, ANTH. <i>5, 267</i>.`

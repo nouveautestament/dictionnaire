@@ -1,1 +1,0 @@
-lar[75122]=`<b>ΐδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. de Panopée, NONN. <i>D. 13, 272, etc</i>.<p><b>Étym</b>. Πανοπεύς.`

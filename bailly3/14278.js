@@ -1,1 +1,0 @@
-lar[14278]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. qui amène le repos <i>ou</i> qui reste inactive (la nuit) CLÉM. <i>2, 80b</i>.<p><b>Étym</b>. ἀργός².`

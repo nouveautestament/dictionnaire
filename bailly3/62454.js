@@ -1,1 +1,0 @@
-lar[62454]=`<b>ου (ὁ)</b> enclos fermé d’une grille, VARR. <i>L.L. 5, 146</i>.`

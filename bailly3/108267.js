@@ -1,1 +1,0 @@
-lar[108267]=`<b>χερι·άρης, αρα</b>, <i>adj. m</i>. <font color="purple">[ᾰρ, <i>au gén</i>. ᾱ <i>fin</i>.]</font> adroit de ses mains, habile, PD. <i>P. 5, 47</i>.<p><b>Étym</b>. χείρ, *ἄρω.`

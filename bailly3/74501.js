@@ -1,1 +1,0 @@
-lar[74501]=`<b>παλιγ·κάπηλος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> revendeur, AR. <i>Pl. 1156 ; fig</i>. DÉM. <i>784, 9</i>.<p><b>Étym</b>. π. κάπηλος.`

@@ -1,1 +1,0 @@
-lar[78659]=`<b>ου</b>, <i>adj. m</i>. habitant du dème Περιθοῖδαι, <i>de la tribu Œnéide,</i> DÉM. <i>50, 41</i> ; ESCHN. <i>1, 156, Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Περίθους.`

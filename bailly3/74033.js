@@ -1,1 +1,0 @@
-lar[74033]=`<b>ὀψο·δαίδαλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se connaît en cuisine, ARCHESTR. (ATH. <i>101b</i>).<p><b>Étym</b>. ὄψον, δαίδαλος.`

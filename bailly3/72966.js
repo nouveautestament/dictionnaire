@@ -1,1 +1,0 @@
-lar[72966]=`<b>ου (ὁ)</b> Oroandès, <i>Crétois,</i> PLUT. <i>Æmil. 26</i>.`

@@ -1,1 +1,0 @@
-lar[97021]=`<b>ου (τὸ)</b> moyen d’arrêter, de calmer, remède contre, <i>gén</i>. EUR. <i>Cycl. 135</i>.<p><b>Étym</b>. σχεῖν.`

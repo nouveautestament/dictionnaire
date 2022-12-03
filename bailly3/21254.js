@@ -1,1 +1,0 @@
-lar[21254]=`<b>ῶν (οἱ)</b> les Galéôtes, <i>famille de devins siciliens,</i> EL. <i>V.H. 12, 46</i>.`

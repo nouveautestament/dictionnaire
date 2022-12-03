@@ -1,1 +1,0 @@
-lar[107157]=`<b>φυλλορροέω-οῶ</b>, laisser tomber <i>ou</i> perdre ses feuilles, HPC. <i>378, 51</i> ; XÉN. <i>Œc. 19, 19</i> ; ARSTT. <i>An. post. 2, 16, 1</i> ; TH. <i>C.P. 2, 19, 2</i> ; PLUT. <i>M. 910c ; comiq. fig</i>. AR. <i>Av. 1481</i>.<p><b>Étym</b>. φυλλόρροος.`

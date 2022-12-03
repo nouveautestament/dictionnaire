@@ -1,1 +1,0 @@
-lar[96845]=`<b>σφενδονάω-ῶ :<br>      1</b> lancer avec la fronde, THC. <i>2, 81</i> ; XÉN. <i>An. 3, 3, 17 ; p. ext</i>. lancer comme avec la fronde, lancer vivement, SPT. <i>1Reg. 25, 29 ; au pass</i>. EUR. <i>Ph. 1183</i> ; EL. <i>N.A. 4, 37</i> ; A. QUINT. <i>2, p. 89, 28</i>.<br><b>      2</b> frapper de la fronde, HLD. <i>10, 30</i>.<p><b>Étym</b>. σφενδόνη.`

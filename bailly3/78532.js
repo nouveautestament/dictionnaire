@@ -1,1 +1,0 @@
-lar[78532]=`<b>ής, ές</b> <font color="purple">[δῑ]</font> tournoyant, ANTH. <i>6, 23</i>.<p><b>Étym</b>. περιδινέω.`

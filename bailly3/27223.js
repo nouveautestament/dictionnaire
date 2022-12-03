@@ -1,1 +1,0 @@
-lar[27223]=`<b>διχο·φορέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ῐ]</font> être ballotté entre deux sentiments, PLUT. <i>M. 447c</i>.<p><b>Étym</b>. δίχα, φορέω.`

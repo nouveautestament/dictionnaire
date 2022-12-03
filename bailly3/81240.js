@@ -1,1 +1,0 @@
-lar[81240]=`<b>ποδαγράω-ῶ</b>, avoir la goutte aux pieds, être podagre, AR. <i>Pl. 559</i> ; PLAT. <i>2 Alc. 139e ; en parl. d’animaux,</i> ARSTT. <i>H.A. 6, 21, 5</i> ; EL. <i>N.A. 4, 40</i>.<p><b>Étym</b>. ποδάγρα.`

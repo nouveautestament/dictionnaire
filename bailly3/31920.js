@@ -1,1 +1,0 @@
-lar[31920]=`<b>ἐκ·πορθμεύω</b> (<i>seul. pf. pass. 3 sg</i>. ἐκπεπόρθμευται) transporter sur un navire hors de, <i>gén</i>. EUR. <i>Hel. 1179 (pf. pass. au sens pass</i>.).<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Hel. 1517</i>.<p><b>Étym</b>. <i>pf. pass. au sens moy</i>.`

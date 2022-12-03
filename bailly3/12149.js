@@ -1,1 +1,0 @@
-lar[12149]=`<b>έως (ὁ)</b> qui rejette <i>ou</i> laisse tomber, PLAT. <i>Leg. 944b</i>.<p><b>Étym</b>. ἀποβάλλω.`

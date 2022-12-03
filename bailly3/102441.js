@@ -1,1 +1,0 @@
-lar[102441]=`<b>ὑπερ·ενιαυτίζω</b>, durer plus d’une année, JUL. <i>392a</i>.`

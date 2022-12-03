@@ -1,1 +1,0 @@
-lar[102385]=`<b>ὑπερ·δεκα·τάλαντος, ος, ον</b> <font color="purple">[ᾰτᾰ]</font> qui vaut plus de dix talents, PHALAR. <i>Ep. 113</i>.<p><b>Étym</b>. ὑ. δέκα, τάλαντον.`

@@ -1,1 +1,0 @@
-lar[37904]=`<b>εως (ἡ)</b> action de courber, de disposer en courbe, DC. <i>50, 31</i>.<p><b>Étym</b>. ἐπικάμπτω.`

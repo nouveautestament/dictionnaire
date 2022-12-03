@@ -1,1 +1,0 @@
-lar[29502]=`<i>adv</i>., au fond, HPC. <i>899c ;</i> GAL. <i>Lex. Hipp. 19, 94</i>.`

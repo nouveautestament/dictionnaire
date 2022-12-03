@@ -1,1 +1,0 @@
-lar[59823]=`<b>λαο·σσόος, όος, όον</b> <font color="purple">[ᾱ]</font> qui sauve le peuple, NONN. <i>Jo. 7, 117 ; 8, 1</i> ; ANTH. <i>9, 689</i>.<p><b>Étym</b>. λ. σῴζω.`

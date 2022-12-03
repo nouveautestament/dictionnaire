@@ -1,1 +1,0 @@
-lar[47412]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de comprimer, de froisser, de meurtrir, ARSTT. <i>Meteor. 4, 9, 10 ; Probl. 9, 4, 3</i> ; TH. <i>fr. 7, § 18, etc</i>.<p><b>Étym</b>. θλάω.`

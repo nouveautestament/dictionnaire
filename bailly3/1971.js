@@ -1,1 +1,0 @@
-lar[1971]=`<font color="purple">[ᾰ]</font> traire, <i>d’où au pass. (seul. prés</i>. HPC. <i>114, 36, et f. moy. au sens pass</i>. ARÉT. <i>48 ed. Ox</i>.) être trait.<p><b>Étym</b>. <i>pré-grec</i>.`

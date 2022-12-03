@@ -1,1 +1,0 @@
-lar[17185]=`<b>εως (ἡ)</b> action de jouer de l’aulos, PLAT. <i>Prot. 327b, etc.</i> ; ARSTT. <i>Pol. 8, 6, 14, etc</i>.<p><b>Étym</b>. αὐλέω.`

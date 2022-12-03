@@ -1,1 +1,0 @@
-lar[101336]=`<b>ὑβριο·παθέω-ῶ</b> <font color="purple">[ᾰ]</font> être maltraité <i>ou</i> traité avec insolence, HERMOG. <i>3, 181 Walz</i>.<p><b>Étym</b>. ὕβρις, πάθος.`

@@ -1,1 +1,0 @@
-lar[58416]=`<b>κυβιστάω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> se jeter la tête en avant, se précipiter, IL. <i>16, 745 ; en parl. de poissons qui plongent,</i> IL. <i>21, 354</i>.<br><b>      2</b> faire la culbute, tourner sur soi-même en retombant sur ses jambes, XÉN. <i>Conv. 2, 11, Mem. 1, 3, 9</i> ; PLAT. <i>Conv. 190a</i>.<p><b>Étym</b>. κύβη, tête, EM.`

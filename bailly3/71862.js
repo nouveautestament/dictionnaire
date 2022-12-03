@@ -1,1 +1,0 @@
-lar[71862]=`<b>ου (τὸ)</b> le mt Oneion, <i>au S. E. de Corinthe,</i> THC. <i>4, 44</i> ; XÉN. <i>Hell. 6, 5, 51, etc</i>.<p><b>Étym</b>. <i>cf</i>. ὄνειδος.`

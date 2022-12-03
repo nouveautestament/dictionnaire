@@ -1,1 +1,0 @@
-lar[82838]=`<i>adv</i>., de plus loin, ISOCR. <i>45a, 119a, etc</i>.<p><b>Étym</b>. πορρωτέρω, -θεν.`

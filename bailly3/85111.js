@@ -1,1 +1,0 @@
-lar[85111]=`<b>προσ·ακροβολίζομαι</b>, engager de loin une escarmouche, POL. <i>3, 71, 10</i>.`

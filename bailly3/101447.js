@@ -1,1 +1,0 @@
-lar[101447]=`<b>ητος (ἡ)</b> <font color="purple">[ῠᾰ]</font> nature aqueuse, <i>fig. càd</i>. défaut de consistance, faiblesse, CLÉM.<p><b>Étym</b>. ὑδαρός.`

@@ -1,1 +1,0 @@
-lar[101778]=`<font color="purple">[ῠ]</font><br><b>      1</b> chanter le chant nuptial, ESCHL. <i>Pr. 557</i>.<br><b>      2</b> prendre pour femme, épouser une femme, AR. <i>Pax 1076, 1112</i> ; THCR. <i>Idyl. 22, 179</i>.<p><b>Étym</b>. ὑμέναιος.`

@@ -1,1 +1,0 @@
-lar[78203]=`<b>ιδος (ὁ)</b> <font color="purple">[ῐδ]</font> poivre, EUB. (ATH. <i>66d</i>), <i>etc</i>.<p>➳ <i>Gén</i>. -ιδος, EUB. <i>l. c. ; dat</i>. -ιδι, EL. <i>N.A. 9, 48 ; acc</i>. -ιν, NIC. <i>Al. 332, Th. 876</i>.<p><b>Étym</b>. <i>cf</i>. πέπερι.`

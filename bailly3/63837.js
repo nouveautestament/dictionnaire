@@ -1,1 +1,0 @@
-lar[63837]=`<b>μελαν·δίνης, ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. dont l’eau s’agite en noirs tournants, DP. <i>577</i>.<p><b>Étym</b>. μ. δινέω.`

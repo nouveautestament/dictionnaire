@@ -1,1 +1,0 @@
-lar[75560]=`(<i>seul. prés</i>.) avoir envie de livrer, THC. <i>4, 28</i>.<p><b>Étym</b>. παραδώσω, <i>fut. de</i> παραδίδωμι.`

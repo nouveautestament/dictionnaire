@@ -1,1 +1,0 @@
-lar[50639]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec fourberie, BAS. <i>4, 865 Migne</i>.`

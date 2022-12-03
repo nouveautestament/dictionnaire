@@ -1,1 +1,0 @@
-lar[38193]=`<b>ἐπι·κτείνω</b> <font color="darkgreen">(<i>f</i>. -κτενῶ) :</font><br><b>      1</b> tuer sur <i>ou</i> par-dessus, PLUT. <i>Cæs. 46</i>.<br><b>      2</b> tuer encore, SOPH. <i>Ant. 1030</i>.`

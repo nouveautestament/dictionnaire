@@ -1,1 +1,0 @@
-lar[100400]=`<b>τρί·πορνος, ου (ἡ)</b> <font color="purple">[ῐ]</font> triple prostituée, THPP. (ATH. <i>595b</i>).<p><b>Étym</b>. τρ. πόρνη.`

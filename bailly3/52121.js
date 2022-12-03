@@ -1,1 +1,0 @@
-lar[52121]=`<b>κατα·βασανίζω</b> <font color="purple">[βᾰᾰ]</font> mettre à la torture, éprouver d’une manière pénible, HPC. <i>85b</i>.`

@@ -1,1 +1,0 @@
-lar[93807]=`<b>ου (τὸ)</b> <i>seul. au pl.</i> :<br><b>      1</b> dépouille d’un temple, BABR. <i>2, 12</i>.<br><b>      2</b> nantissement, gage, LYS. <i>185, 18</i> ; ARSTT. <i>Œc. 2, 11, etc</i>.<p><b>Étym</b>. <i>cf</i>. σύλη.`

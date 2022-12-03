@@ -1,1 +1,0 @@
-lar[51406]=`<b>καμηλο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui monte un chameau, CLÉM. <i>228, 267</i>.<p><b>Étym</b>. κ. βαίνω.`

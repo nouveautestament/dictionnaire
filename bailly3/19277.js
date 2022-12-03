@@ -1,1 +1,0 @@
-lar[19277]=`<font color="purple">[ᾰῑῐ]</font> <i>barbarisme d’un étranger pour</i> βασίλιννα, AR. <i>Av. 1678</i>.`

@@ -1,1 +1,0 @@
-lar[67069]=`<b>μυιο·ειδής, ής, ές</b>, semblable à une mouche, CASS. <i>Probl. 19</i>.<p><b>Étym</b>. μυῖα, εἶδος.`

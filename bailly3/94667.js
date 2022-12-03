@@ -1,1 +1,0 @@
-lar[94667]=`<b>ου (ὁ)</b> Synalos, <i>général carthaginois,</i> PLUT. <i>Dio. 25, etc</i>.`

@@ -1,1 +1,0 @@
-lar[3539]=`<i>adv</i>., sans effort, CHARIT.<p><b>Étym</b>. ἀκόνιτος.`

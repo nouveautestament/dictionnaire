@@ -1,1 +1,0 @@
-lar[97222]=`<b>ατος (τὸ)</b> amas, monceau, XÉN. <i>Cyr. 7, 1, 32</i> ; EUB. <i>et</i> POSIDON. (ATH. <i>396a, 540b</i>).<p><b>Étym</b>. σωρεύω.`

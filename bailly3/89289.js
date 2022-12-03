@@ -1,1 +1,0 @@
-lar[89289]=`<b>ου (ὁ)</b> <font color="purple">[δᾰ]</font> <i>sorte de bandage,</i> ORIB. <i>84</i>.`

@@ -1,1 +1,0 @@
-lar[49754]=`<b>ἰσό·σχημος, ος, ον</b> <font color="purple">[ῑ̆]</font> qui a la même forme, DIOM. <i>p. 497 Putsch</i>.<p><b>Étym</b>. ἴ. σχῆμα.`

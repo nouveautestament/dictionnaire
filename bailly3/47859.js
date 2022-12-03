@@ -1,1 +1,0 @@
-lar[47859]=`<b>όεσσα, όεν</b> <font color="purple">[ῡᾰ]</font> <i>c</i>. θυλακοειδής NIC. <i>Al. 403</i>.`

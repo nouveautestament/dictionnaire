@@ -1,1 +1,0 @@
-lar[58624]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> Cylistarus, <i>fl. d’Italie,</i> LYC. <i>946</i>.`

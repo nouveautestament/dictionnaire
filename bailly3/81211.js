@@ -1,1 +1,0 @@
-lar[81211]=`<b>ά, όν</b> <font color="purple">[ῑ]</font> étouffant, où l’on étouffe, <i>d’où</i> étroit, resserré, THC. <i>2, 52</i> ; ARSTT. <i>Probl. 25, 16</i> ; PLUT. <i>Per. 34, etc</i>.<p><b>Étym</b>. πνίγω.`

@@ -1,1 +1,0 @@
-lar[12706]=`<b>ἀπο·κυλίω</b> <font color="purple">[ῠ]</font><br><b>      1 <i>tr.</i></b> faire rouler, SPT. <i>Gen. 29, 3</i> ; NT. <i>Matth. 28, 2 ; Marc. 16, 3</i>.<br><b>      2 <i>intr.</i></b> rouler, LUC. <i>Rh. præc. 3</i>.`

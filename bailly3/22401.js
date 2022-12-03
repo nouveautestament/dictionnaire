@@ -1,1 +1,0 @@
-lar[22401]=`(<i>genre inconnu), indécl</i>. le mt Golgotha, <i>au N. O. de Jérusalem,</i> NT. <i>Matth. 27, 33 ; Marc. 15, 22 ; Joh. 19, 17</i>.`

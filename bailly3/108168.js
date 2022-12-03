@@ -1,1 +1,0 @@
-lar[108168]=`<b>χειρο·σκόπος, ου (ὁ)</b> devin qui prédit l’avenir d’après l’inspection des mains, ARTÉM. <i>2, 67</i>.<p><b>Étym</b>. χ. σκοπέω.`

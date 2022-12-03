@@ -1,1 +1,0 @@
-lar[56814]=`<b>οῦ (ὁ) :<br>      1</b> coup dont on se frappe la poitrine, <i>en signe de deuil,</i> ESCHL. <i>Ch. 423</i> ; BION <i>1, 97</i>.<br><b>      2</b> <i>dans la tragédie ou la comédie,</i> chant de deuil, <i>chanté tour à tour par un ou plusieurs des principaux acteurs et par le chœur tout entier,</i> ARSTT. <i>Poet. 12, 3</i>.<p><b>Étym</b>. κόπτω.`

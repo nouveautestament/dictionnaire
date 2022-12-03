@@ -1,1 +1,0 @@
-lar[72100]=`<b>η, ον</b> <font color="purple">[ῠῐ]</font> de hêtre, en bois de hêtre, TH. <i>H.P. 5, 7, 2</i> ; THPP. COLOPH. (ATH. <i>183b</i>).<p><b>Étym</b>. ὀξύα.`

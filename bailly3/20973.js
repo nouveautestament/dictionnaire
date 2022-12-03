@@ -1,1 +1,0 @@
-lar[20973]=`<b>ου (ὁ)</b> hibou (<i>Strix bubo</i> L.), <i>oiseau,</i> ARSTT. <i>H.A. 8, 3, 2</i> (<i>var</i>. βρύας) ; DC. <i>56, 29 ; 72, 24</i>.`

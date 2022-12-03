@@ -1,1 +1,0 @@
-lar[107039]=`<b>φυγό·μαχος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui fuit le combat, lâche, SIM. (STOB. <i>Fl. 118, 6).</i><p><b>Étym</b>. φεύγω, μάχη.`

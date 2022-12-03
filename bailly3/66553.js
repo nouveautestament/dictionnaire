@@ -1,1 +1,0 @@
-lar[66553]=`<b>μονο·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui n’a qu’une tête, <i>en parl. de certains végétaux,</i> DIOSC. <i>2, 182</i>.<p><b>Étym</b>. μ. κεφαλή.`

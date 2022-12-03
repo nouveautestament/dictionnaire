@@ -1,1 +1,0 @@
-lar[85214]=`<b>προσ·αντιβολέω-ῶ</b> <font color="purple">[ῐ]</font> supplier encore, JOS. <i>B.J. 6, 2, 1</i>.`

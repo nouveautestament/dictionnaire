@@ -1,1 +1,0 @@
-lar[30256]=`<b>ης</b>, <i>ou</i> <b>Εἰδομενή, ῆς (ἡ)</b> Eidoménè, <i>v. de Macédoine,</i> THC. <i>2, 100</i>.<p><b>Étym</b>. *εἴδω.`

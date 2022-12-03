@@ -1,1 +1,0 @@
-lar[54699]=`<b>ας (ἡ)</b> recherche <i>ou</i> amour de la vaine gloire, POL. <i>3, 81, 9, etc.</i> ; PLUT. <i>M. 57d, etc</i>.<p><b>Étym</b>. κενόδοξος.`

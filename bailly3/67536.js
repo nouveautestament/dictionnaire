@@ -1,1 +1,0 @@
-lar[67536]=`<b>ου (τὸ)</b> sorte de mandragore, <i>plante qui rend fous ceux qui en mangent,</i> HSCH.<p><b>Étym</b>. μωρός.`

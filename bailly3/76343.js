@@ -1,1 +1,0 @@
-lar[76343]=`<b>παρα·τόξευσις, εως (ἡ)</b> action de lancer un trait à côté <i>ou</i> au delà PLUT. <i>M. 521b</i>.<p><b>Étym</b>. π. τοξεύω.`

@@ -1,1 +1,0 @@
-lar[6619]=`<b>ἀν·άγκυλος, ος, ον</b> <font color="purple">[ῠ]</font> sans courroie (javelot) DS. <i>3, 8</i>.<p><b>Étym</b>. ἀν-, ἀγκύλη.`

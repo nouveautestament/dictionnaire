@@ -1,1 +1,0 @@
-lar[60882]=`<b>Λητο·γενής, οῦς (ὁ)</b> né de Latone, ANTH. <i>9, 525</i>.<p>➳ <i>Dor</i>. Λατογενής <font color="purple">[ᾱ]</font> EUR. <i>Ion 465</i>.<p><b>Étym</b>. Λητώ, γένος.`

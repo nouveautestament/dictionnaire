@@ -1,1 +1,0 @@
-lar[19006]=`<b>ῶνος (ὁ)</b> <font color="purple">[σᾰ]</font> plant de baumiers, PALL.<p><b>Étym</b>. βάλσαμον.`

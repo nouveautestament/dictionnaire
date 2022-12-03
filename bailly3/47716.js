@@ -1,1 +1,0 @@
-lar[47716]=`<font color="darkgreen">(<i>seul. ao</i>. ἔθρισα)</font> <i>sync. poét. p</i>. θερίζω, ESCHL. <i>Ag. 536</i> ; ANTH. <i>7, 439</i>.`

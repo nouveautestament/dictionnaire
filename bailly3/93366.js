@@ -1,1 +1,0 @@
-lar[93366]=`<b>συγ·κατασκηνόω-ῶ</b>, réunir dans la même tente, XÉN. <i>Cyr. 5, 4, 17</i>.`

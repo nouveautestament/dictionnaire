@@ -1,1 +1,0 @@
-lar[14713]=`<b>Ἀριστο·κρέων, οντος (ὁ)</b> <font color="purple">[ᾰ]</font> Aristokréon, <i>h</i>. PLUT. <i>Stoïc. rep. 2</i>.<p>➳ <i>Gén</i>. -ωνος, EL. <i>N.A. 7, 40 Hœrch</i>.<p><b>Étym</b>. ἄ. κρέων.`

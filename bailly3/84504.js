@@ -1,1 +1,0 @@
-lar[84504]=`<b>εως (ἡ)</b> <font color="purple">[στᾰ]</font> préambule <i>ou</i> sommaire d’un discours, DH. <i>Rhet. 7, 4</i>.<p><b>Étym</b>. προκαθίστημι.`

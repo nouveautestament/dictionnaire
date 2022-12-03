@@ -1,1 +1,0 @@
-lar[9661]=`<b>ἀντ·επιπλέω</b>, naviguer contre, s’avancer contre, <i>en parl. de vaisseaux,</i> THC. <i>1, 50, 54</i> (<i>var</i>. ἀντιπλέω).`

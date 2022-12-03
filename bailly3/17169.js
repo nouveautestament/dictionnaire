@@ -1,1 +1,0 @@
-lar[17169]=`<b>αὐλακ·εργάτης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui trace des sillons, ANTH. <i>9, 742</i>.<p><b>Étym</b>. αὖλαξ, ἐ.`

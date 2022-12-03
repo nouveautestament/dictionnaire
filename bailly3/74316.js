@@ -1,1 +1,0 @@
-lar[74316]=`<font color="purple">[ῐβ]</font> <i>adv</i>., comme un maître de gymnastique, AR. <i>Eq. 492</i>.`

@@ -1,1 +1,0 @@
-lar[71742]=`<b>ὁμο·φεγγής, ής, ές</b>, qui brille ensemble <i>ou</i> d’une lumière égale, NONN. <i>D. 5, 113</i>.<p><b>Étym</b>. ὁμ. φέγγος.`

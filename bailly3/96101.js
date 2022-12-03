@@ -1,1 +1,0 @@
-lar[96101]=`<b>ας (ἡ)</b> voyage fait de compagnie, BABR. <i>110 epim</i>.<p><b>Étym</b>. συνοδοιπόρος.`

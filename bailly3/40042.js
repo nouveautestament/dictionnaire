@@ -1,1 +1,0 @@
-lar[40042]=`<b>ἑπτά·ωρος, ος, ον</b>, de sept heures, THEOL. <i>p. 45</i>.<p><b>Étym</b>. ἑ. ὥρα.`

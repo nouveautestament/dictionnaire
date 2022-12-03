@@ -1,1 +1,0 @@
-lar[95596]=`<b>συν·επευθύνω</b> <font color="purple">[θῡ]</font> diriger ensemble, PLUT. <i>Rom. 7</i>.`

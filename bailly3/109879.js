@@ -1,1 +1,0 @@
-lar[109879]=`<b>Ψιχό·μαχος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> « Dispute-les-miettes », <i>n. de parasite,</i> ALCIPHR. <i>3, 71</i>.<p><b>Étym</b>. ψίξ, μάχομαι.`

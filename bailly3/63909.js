@@ -1,1 +1,0 @@
-lar[63909]=`<b>μελανό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> de couleur noire <i>ou</i> sombre, OD. <i>19, 246</i>.<p><b>Étym</b>. μ. χρόα.`

@@ -1,1 +1,0 @@
-lar[39102]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> propre à se maintenir solidement, ferme, DL. <i>7, 45</i>.<br><b>      2</b> propre à gouverner : ἡ ἐπιστατική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 292b, 308e</i>, l’art de gouverner.<p><b>Étym</b>. ἐφίστημι.`

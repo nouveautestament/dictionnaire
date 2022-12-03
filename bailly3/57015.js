@@ -1,1 +1,0 @@
-lar[57015]=`<b>ου (τὸ)</b> corail, <i>substance marine,</i> M. RUBR. <i>28</i> ; DIOSC. <i>5, 130</i>.`

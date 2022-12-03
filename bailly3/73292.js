@@ -1,1 +1,0 @@
-lar[73292]=`<b>ὀστο·μαχία, ας (ἡ)</b> <i>ou</i> <b>ὀστο·μάχιον, ου (τὸ)</b> <font color="purple">[μᾰ]</font> jeu de quatorze pièces d’ivoire qu’on disposait de manière à former diverses figures, AUS. <i>Idyll. 13 præf</i>.<p><b>Étym</b>. ὀστέον, μάχομαι.`

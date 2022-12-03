@@ -1,1 +1,0 @@
-lar[11316]=`<i>adv.</i> :<br><b>      1</b> inexorablement, durement, THC. <i>3, 84</i> ; POL. <i>22, 14, 15, etc.</i> ; PLUT. <i>Sol. 23, Per. 23, etc.</i><br><b>      2</b> sans pouvoir fléchir (qqn) PLUT. <i>Them. 23</i>.`

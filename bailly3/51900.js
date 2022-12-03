@@ -1,1 +1,0 @@
-lar[51900]=`<b>καρπο·φάγος, ος, ον</b> <font color="purple">[ᾰγ]</font> qui se nourrit de fruits, ARSTT. <i>H.A. 1, 1, 26, etc</i>.<p><b>Étym</b>. κ. φαγεῖν.`

@@ -1,1 +1,0 @@
-lar[56663]=`<b>κολοβο·ανθής, ής, ές</b>, aux fleurs papilionacées tronquées, TH. <i>H.P. 6, 5, 3</i>.<p><b>Étym</b>. κολοβός, ἄνθος.`

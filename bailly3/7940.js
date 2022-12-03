@@ -1,1 +1,0 @@
-lar[7940]=`<b>ἀνα·χώννυμι :<br>      1</b> relever par un terrassement, DÉM. <i>1279, 20</i> ; LUC. <i>Tox. 43</i>.<br><b>      2</b> relever, amonceler, <i>en gén</i>. ANTH. <i>7, 537</i>.`

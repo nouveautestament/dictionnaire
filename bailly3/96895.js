@@ -1,1 +1,0 @@
-lar[96895]=`<b>ή, όν :<br>      1</b> étreint, étroitement serré, ANTH. <i>5, 175</i> ; P. ÉG. <i>6, 99 ; adv</i>. σφιγκτά, ANTH. <i>6, 272,</i> étroitement.<br><b>      2</b> qui a lieu par strangulation, OPP. <i>H. 3, 590</i>.<p>•<i> Cp</i>. -ότερος, P. ÉG. <i>l. c</i>.<p><b>Étym</b>. σφίγγω.`

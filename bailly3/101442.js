@@ -1,1 +1,0 @@
-lar[101442]=`<b>α, ον</b> <font color="purple">[ῠᾰ]</font> aqueux, HPC. <i>Prorrh. 84</i> ; P. ÉG. <i>p. 45, 16</i>.<p>•<i> Cp</i>. -ώτερος, P. ÉG. <i>l. c</i>.<p><b>Étym</b>. ὕδωρ.`

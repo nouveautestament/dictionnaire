@@ -1,1 +1,0 @@
-lar[78869]=`<b>περι·λέγω</b> (<i>seul. prés</i>.) user de circonlocutions, HERMIPP. (<i>Com. fr. 2, 416</i>).`

@@ -1,1 +1,0 @@
-lar[14369]=`<b>ἀργυρο·χάλινος, ος, ον</b> <font color="purple">[ῠᾰῑ]</font> au frein d’argent, PHILSTR. <i>532</i>.<p><b>Étym</b>. ἄ. χαλινός.`

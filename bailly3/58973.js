@@ -1,1 +1,0 @@
-lar[58973]=`<b>κυρκανάω-ῶ</b> <font color="purple">[κᾰ]</font> mêler, brouiller, HPC. <i>610, 38 ; fig</i>. ὄλεθρόν τινι, AR. <i>Th. 429,</i> machiner la perte de qqn.<p><b>Étym</b>. <i>cf</i>. κυκανάω.`

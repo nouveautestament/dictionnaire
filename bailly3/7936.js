@@ -1,1 +1,0 @@
-lar[7936]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> épanchement (de bile) ARÉT. <i>Caus. m. diut. 1, 15 ; fig</i>. épanchement (de l’âme) PHIL. <i>2, 187 ; en mauv. part,</i> désordre des mœurs, NT. <i>1Petr. 4, 4</i>.<br><b>      2</b> estuaire, STR. <i>140</i>.<p><b>Étym</b>. ἀναχέω.`

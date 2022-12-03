@@ -1,1 +1,0 @@
-lar[16208]=`<b>ἀστερόω-ῶ</b>, <i>f</i>. ώσω, changer en constellation, STOB. <i>Ecl. 1, 25 ; au pass</i>. être étoilé, ARAT. <i>548</i>.`

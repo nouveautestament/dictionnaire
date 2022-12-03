@@ -1,1 +1,0 @@
-lar[88963]=`<b>εος-ους (τὸ)</b> sorte de plante épineuse, TH. <i>H.P. 6, 4, 4</i>.`

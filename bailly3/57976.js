@@ -1,1 +1,0 @@
-lar[57976]=`<b>ου (ὁ)</b> Kritias :<br><b>      1</b> <i>l’un des trente tyrans d’Athènes,</i> XÉN. <i>Hell. 2, 3, 2</i> ; PLAT. <i>Prot. 316a.</i><br><b>      2</b> <i>autres,</i> PLAT. <i>Tim. 25, etc</i>.<p>➳ <i>Voc</i>. -ία, XÉN. <i>Hell. 2, 3, 49</i> ; PLAT. <i>Criti. 108a. Ion</i>. Κριτίης, SOL. <i>fr. 20</i> ; HIPPON. <i>fr. 74, etc</i>.`

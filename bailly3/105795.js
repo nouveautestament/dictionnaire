@@ -1,1 +1,0 @@
-lar[105795]=`<b>φιλό·θοινος, ος, ον</b> <font color="purple">[ῐ]</font> ami des festins, CÉB. <i>Tab. 19 conj</i>.<p><b>Étym</b>. φ. θοίνη.`

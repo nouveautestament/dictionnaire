@@ -1,1 +1,0 @@
-lar[54141]=`<b>κατ·οξύνω</b>, hâter vivement, accélérer, <i>acc</i>. ARTÉMON (ATH. <i>637e</i>).`

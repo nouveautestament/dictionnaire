@@ -1,1 +1,0 @@
-lar[18804]=`<b>ου (ὁ)</b> sorte de fromage, GAL. <i>6, 385d</i>.`

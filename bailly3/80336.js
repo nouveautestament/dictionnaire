@@ -1,1 +1,0 @@
-lar[80336]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., en forme de table (des matières) PTOL. <i>Tetr. 53, 13</i>.`

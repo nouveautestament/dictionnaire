@@ -1,1 +1,0 @@
-lar[8921]=`<b>ἀνθρωπαρεσκέω-ῶ</b> <font color="purple">[ᾰρ]</font> professer le respect humain, NAZ. <i>3, 1331 Migne</i>.<p><b>Étym</b>. ἀνθρωπάρεσκος.`

@@ -1,1 +1,0 @@
-lar[57946]=`<b>κριο·βόλος, ος, ον</b> <font color="purple">[ῑ]</font> qui immole un bélier <i>ou</i> des béliers, ANTH. <i>App. 164, 239</i>.<p><b>Étym</b>. κριός, βάλλω.`

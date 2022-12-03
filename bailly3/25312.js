@@ -1,1 +1,0 @@
-lar[25312]=`<b>δι·αποβλέπω</b> (<i>seul. prés</i>.) regarder à travers, plonger des regards dans, <i>avec</i> ἐν <i>et le dat</i>. CHRYS. <i>2, 753</i>.`

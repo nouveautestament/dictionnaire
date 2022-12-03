@@ -1,1 +1,0 @@
-lar[90970]=`<b>Σκιρο·φόρια, ων (τὰ)</b> <font color="purple">[σκῐ]</font> Skirophories, <i>fête d’Athèna, célébrée dans le mois</i> Σκιροφοριών, <i>différente de la fête</i> Σκίρα PAUS. <i>1, 1, 4</i> ; CLÉM. <i>13, 14</i>.<p><b>Étym</b>. σκίρον, φέρω.`

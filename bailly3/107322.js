@@ -1,1 +1,0 @@
-lar[107322]=`<b>φυτόομαι-οῦμαι</b> (<i>seul. prés</i>.) <font color="purple">[ῠ]</font> devenir une plante, THEOL. <i>p. 6</i>.<p><b>Étym</b>. φυτόν.`

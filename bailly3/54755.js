@@ -1,1 +1,0 @@
-lar[54755]=`<b>ου (ὁ)</b> Kentritès (<i>auj</i>. Bitlis) <i>fl. d’Arménie,</i> XÉN. <i>An. 4, 3, 1</i>.`

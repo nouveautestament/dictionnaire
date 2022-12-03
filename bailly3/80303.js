@@ -1,1 +1,0 @@
-lar[80303]=`<b>πι·λιπής, ής, ές</b> <font color="purple">[ῑῐ]</font> sans la lettre π, ANTH. <i>15, 21</i>.<p><b>Étym</b>. πῖ, λείπω.`

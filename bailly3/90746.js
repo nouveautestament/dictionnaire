@@ -1,1 +1,0 @@
-lar[90746]=`<b>ου (τὸ)</b> petite jambe, ARR. <i>Epict. 1, 12, 24</i>.<p><b>Étym</b>. σκέλος.`

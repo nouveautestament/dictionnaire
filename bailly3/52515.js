@@ -1,1 +1,0 @@
-lar[52515]=`<b>κατα·κεντίζω</b>, abattre en perçant, EL. <i>N.A. 7, 2</i>.`

@@ -1,1 +1,0 @@
-lar[66319]=`<b>μοιχ·άγρια, ων (τὰ)</b> <i>litt</i>. prise de l’adultère, <i>càd</i>. amende que paie l’adultère pris sur le fait, OD. <i>8, 332</i>.<p><b>Étym</b>. μοιχός, ἀγρέω.`

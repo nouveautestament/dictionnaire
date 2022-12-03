@@ -1,1 +1,0 @@
-lar[33183]=`<b>ἐμβυρσόω-ῶ</b>, envelopper de cuir, PLUT. <i>M. 1150e</i>.<p><b>Étym</b>. ἐν, βύρσα.`

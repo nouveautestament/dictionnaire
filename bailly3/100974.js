@@ -1,1 +1,0 @@
-lar[100974]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῦ]</font> la fille de Tydée, TRIPHIOD. <i>160</i>.<p><b>Étym</b>. <i>v</i>. Τυδεύς.`

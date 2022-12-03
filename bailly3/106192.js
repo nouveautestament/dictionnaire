@@ -1,1 +1,0 @@
-lar[106192]=`<b>Φιλό·χορος, ου (ὁ)</b> Philokhoros, <i>historien athénien,</i> DH. <i>Din. 3, 13</i> ; PLUT. <i>Thes. 14, etc</i>.<p><b>Étym</b>. <i>cf</i>. φιλόχορος.`

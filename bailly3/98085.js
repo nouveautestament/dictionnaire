@@ -1,1 +1,0 @@
-lar[98085]=`<b>τεκνο·φόνος, ος, ον</b>, meurtrier de ses propres enfants, SPT. <i>Sap. 14, 23</i>.<p><b>Étym</b>. τ. πεφνεῖν.`

@@ -1,1 +1,0 @@
-lar[31249]=`<i>adv</i>., de cette manière, THC. <i>1, 77 ; 3, 46, etc.</i> ; PLAT. <i>Rsp. 516e ;</i> ISOCR. <i>196c, 269b ;</i> DÉM. <i>475, 13, etc</i>.<p><b>Étym</b>. ἐκεῖνος.`

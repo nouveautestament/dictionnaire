@@ -1,1 +1,0 @@
-lar[9520]=`<b>ἀντ·αριθμέω-ῶ</b> <font color="purple">[ᾰρ]</font> compter à son tour, PAUS. <i>10, 20, 2</i>.`

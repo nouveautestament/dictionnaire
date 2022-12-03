@@ -1,1 +1,0 @@
-lar[34572]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., en forme d’enthymème, ARSTT. <i>Rhet. 3, 17, 17</i> ; THÉON <i>Prog. 99, 30</i>.`

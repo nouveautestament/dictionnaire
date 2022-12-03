@@ -1,1 +1,0 @@
-lar[94246]=`<b>*συμπιλητικός</b>, <i>dor</i>. <b>συμπιλατικός, ή, όν</b> <font color="purple">[ῑᾱ]</font> propre à resserrer en foulant, T. LOCR. <i>100e</i>.<p><b>Étym</b>. συμπιλέω.`

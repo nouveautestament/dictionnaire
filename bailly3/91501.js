@@ -1,1 +1,0 @@
-lar[91501]=`<font color="purple">[ῑ]</font> entailler avec un ciseau, NAZ. <i>3, 1341 Migne</i>.<p><b>Étym</b>. σμίλη.`

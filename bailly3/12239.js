@@ -1,1 +1,0 @@
-lar[12239]=`<b>ἀπο·δεικτός, ή, όν</b>, qu’on peut démontrer, qu’on démontre, ARSTT. <i>An. post. 1, 10, 7, etc.</i> ; PHILOD. <i>V. Herc. part. 1, p. 61d</i>.<p><b>Étym</b>. <i>vb. de</i> ἀποδείκνυμι.`

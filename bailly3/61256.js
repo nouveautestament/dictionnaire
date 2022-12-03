@@ -1,1 +1,0 @@
-lar[61256]=`<b>λινο·στατέω-ῶ</b> <font color="purple">[ᾰ]</font> tendre des filets pour la chasse, chasser au filet, OPP. <i>C. 4, 64, d’où au pass</i>. être pourchassé, <i>fig</i>. ATH. <i>219d</i>.<p>➳ <i>Prés. sbj. 3 pl. ion</i>. λινοστατέωσι, OPP. <i>l. c. ; impf</i>. ἐλινοστάτουν, LGS <i>2, 13</i>.<p><b>Étym</b>. λ. στατός.`

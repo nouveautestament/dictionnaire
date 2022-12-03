@@ -1,1 +1,0 @@
-lar[36450]=`<b>ἐπ·ακανθίζω</b> <font color="purple">[ᾰκ]</font> se couvrir d’épines, TH. <i>H.P. 3, 10, 1</i>.<p><b>Étym</b>. ἐπί, ἄκανθα.`

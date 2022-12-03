@@ -1,1 +1,0 @@
-lar[3172]=`<b>ἀ·καταθύμιος, ος, ον</b> <font color="purple">[ῡ]</font> désagréable, ARTÉM. <i>2, 48</i>.`

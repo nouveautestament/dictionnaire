@@ -1,1 +1,0 @@
-lar[87898]=`<b>πυρι·σθενής, ής, ές</b> <font color="purple">[ῠ]</font> puissant par le feu, NONN. <i>D. 29, 193</i>.<p><b>Étym</b>. π. σθένος.`

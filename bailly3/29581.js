@@ -1,1 +1,0 @@
-lar[29581]=`<b>ῆς (ἡ)</b> incision à l’intérieur, HPC. <i>914</i>.<p><b>Étym</b>. ἐγκατατέμνω.`

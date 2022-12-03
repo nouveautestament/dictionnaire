@@ -1,1 +1,0 @@
-lar[52521]=`<b>κατα·κεραυνόω-ῶ</b>, renverser en frappant de la foudre, LUC. <i>Philopatr. 4</i> ; EUM. <i>p. 150</i>.`

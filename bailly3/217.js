@@ -1,1 +1,0 @@
-lar[217]=`<b>ή, όν</b> <font color="purple">[ᾰῡ]</font>, d’Abydos, HDT. <i>7, 44, etc.</i> ; ἡ Ἀβυδηνή (<i>s.-e</i>. χώρα), XÉN. <i>Hell. 4, 8, 35,</i> territoire d’Abydos.<p><b>Étym</b>. Ἄβυδος.`

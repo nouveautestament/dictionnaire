@@ -1,1 +1,0 @@
-lar[93015]=`<b>ου (τὸ) :<br>      1</b> ceinture <i>ou</i> bandelette de femme pour se soutenir la gorge, AR. <i>Lys. 931 ; Th. 139, 255, etc.</i><br><b>      2</b> bandeau, bandelette pour la tête, PLUT. <i>Arat. 53</i> ; ARR. <i>Epict. 3, 21, 16</i> ; ATH. <i>543f.</i><br><b>      3</b> sorte de gant, PHILSTR.<p><b>Étym</b>. στρόφος.`

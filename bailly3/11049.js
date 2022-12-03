@@ -1,1 +1,0 @@
-lar[11049]=`<b>ἀ·όρμητος, ος, ον</b>, sans élan, sans volonté, PHIL. <i>1, 278</i>.<p><b>Étym</b>. ἀ, ὁρμάω.`

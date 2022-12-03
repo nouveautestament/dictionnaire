@@ -1,1 +1,0 @@
-lar[103159]=`<b>εως (ἡ)</b> subdivision, DL. <i>7, 61</i> ; SEXT. <i>M. 11, 15</i> ; NICOM. <i>Arithm. 1, 8</i> ; HERMOG. <i>Inv. 1, 2 ; 3, 10</i>.<p><b>Étym</b>. ὑποδιαιρέω.`

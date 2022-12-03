@@ -1,1 +1,0 @@
-lar[5241]=`<b>η, ον</b> <font color="purple">[ᾰμᾰ]</font><br><b>      1</b> d’amarante, PHILSTR. <i>741</i>.<br><b>      2</b> d’immortelles, NT. <i>1Petr. 5, 4</i>.<p><b>Étym</b>. ἀμάραντος.`

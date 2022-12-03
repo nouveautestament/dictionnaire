@@ -1,1 +1,0 @@
-lar[35400]=`<b>ἐξ·αλλοτριόω-ῶ :<br>      1</b> exporter, STR. <i>215</i>.<br><b>      2</b> rendre étranger, aliéner, SPT. <i>1Macc. 12, 10</i> ; SEXT. <i>683, 10 Bkk</i>.`

@@ -1,1 +1,0 @@
-lar[109938]=`<font color="purple">[ᾰ]</font> <i>interj</i>. psitt ! :<br><b>      1</b> <i>pour interpeller,</i> EUR. <i>Cycl. 49</i>.<br><b>      2</b> <i>pour marquer une idée de hâte (d’ord. joint au verbe</i> κατατείνω, redoubler de vitesse) LUC. <i>Lex. 3</i> ; ALCIPHR. <i>3, 24</i> ; ANTH. <i>11, 351</i>.<p><b>Étym</b>. <i>cf</i>. ψίττα, σίττα.`

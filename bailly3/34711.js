@@ -1,1 +1,0 @@
-lar[34711]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> qui a lieu <i>ou</i> qui agit le dix-neuvième jour, SOR. <i>V. Hipp. commenc</i>.<p><b>Étym</b>. <i>dér. de</i> ἐννεακαιδέκατος.`

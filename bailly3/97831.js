@@ -1,1 +1,0 @@
-lar[97831]=`<b>ταὐτο·πάθεια, ας (ἡ)</b> <font color="purple">[πᾰ]</font> sens réfléchi, HDN (<i>Cram. 3, 271).</i><p><b>Étym</b>. ταὐτό, πάθος.`

@@ -1,1 +1,0 @@
-lar[76534]=`<b>πάρ·εγγυς</b> <font color="purple">[ῠ]</font> <i>adv. et prép</i>. assez près, tout près, ARSTT. <i>H.A. 8, 28, 1 ; avec idée de temps,</i> ARSTT. <i>Pol. 7, 16, 3, etc. ; p. anal</i>. à peu près de même, ARSTT. <i>Metaph. 6, 16, 2 ; avec un gén</i>. à peu près comme, ARSTT. <i>Pol. 2, 10, 1</i>.<p><b>Étym</b>. π. ἐγγύς.`

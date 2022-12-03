@@ -1,1 +1,0 @@
-lar[50820]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> malfaisance, SPT. <i>2Esdr. 4, 22 ; 3 Macc. 3, 2</i>.<p><b>Étym</b>. κακοποιέω.`

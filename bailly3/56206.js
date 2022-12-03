@@ -1,1 +1,0 @@
-lar[56206]=`<b>οῦ (ὁ)</b> gloussement, PLUT. <i>M. 129</i>.<p><b>Étym</b>. <i>cf</i>. κλωγμός.`

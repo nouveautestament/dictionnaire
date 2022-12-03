@@ -1,1 +1,0 @@
-lar[4013]=`<b>ης (ἡ)</b> <font color="purple">[ᾰλᾰ]</font> <i>ion. c</i>. ἀλαβαρχία, ANTH. <i>11, 383</i>.<p><b>Étym</b>. ἀλαβάρχης.`

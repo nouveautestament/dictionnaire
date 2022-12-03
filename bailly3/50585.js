@@ -1,1 +1,0 @@
-lar[50585]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Cæpio, Cépion, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 14, Cam. 19, etc</i>.`

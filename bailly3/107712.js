@@ -1,1 +1,0 @@
-lar[107712]=`<b>(ὁ)</b> Khalkous, <i>litt</i>. le sol aux mines de cuivre, <i>en Attique,</i> DÉM. <i>fr. 13, 62 Baiter-Sauppe</i> ; PLUT. <i>Dem. 11</i>.<p><b>Étym</b>. <i>cf</i>. χαλκοῦς.`

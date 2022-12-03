@@ -1,1 +1,0 @@
-lar[11836]=`<b>ἀπ·εσχαρόω-ῶ</b> <font color="purple">[χᾰ]</font> faire tomber une escarre, ZOPYR. MED. (ORIB. <i>2, 587 B.-Dar</i>.).`

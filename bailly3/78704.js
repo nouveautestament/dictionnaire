@@ -1,1 +1,0 @@
-lar[78704]=`<b>περι·κακέω-ῶ</b> <font color="purple">[ᾰ]</font> être dans le malheur, <i>d’où</i> se décourager, se désespérer, POL. <i>1, 58, 5, etc</i>.<p><b>Étym</b>. π. κακόν.`

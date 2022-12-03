@@ -1,1 +1,0 @@
-lar[107112]=`<b>Φύλ·αρχος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Phylarkhos, <i>historien grec,</i> PLUT. <i>Them. 32, Cam. 19, Pyrrh. 27, etc</i>.<p><b>Étym</b>. <i>v</i>. φύλαρχος.`

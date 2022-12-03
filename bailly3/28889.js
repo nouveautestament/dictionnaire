@@ -1,1 +1,0 @@
-lar[28889]=`<b>δυσ·σεβής, ής, ές</b>, impie, <i>en parl. de pers</i>. ESCHL. <i>Sept. 598</i> ; SOPH. <i>Aj. 1293</i> ; EUR. <i>Hipp. 1050 ; en parl. de choses,</i> ESCHL. <i>Ag. 758</i> ; SOPH. <i>Ant. 514</i> ; EUR. <i>Med. 1287, I.T. 694, etc</i>.<p>•<i> Cp</i>. -έστερος, ESCHL. <i>Sept. 598 ; • Sup</i>. -έστατος, SOPH. <i>Aj. 1293</i>.<p><b>Étym</b>. δ. σέβομαι.`

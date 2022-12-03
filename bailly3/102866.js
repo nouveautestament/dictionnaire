@@ -1,1 +1,0 @@
-lar[102866]=`<b>ὑπερ·φεύγω</b>, échapper à (une crise, un danger, <i>etc</i>.) au delà de, <i>acc</i>. HPC. <i>468, 18 ; 470, 30</i>.`

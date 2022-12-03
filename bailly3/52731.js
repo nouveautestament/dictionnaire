@@ -1,1 +1,0 @@
-lar[52731]=`<b>καταληρέω-ῶ :<br>      1</b> perdre en plaisantant, <i>acc</i>. EUB. <i>fr. 53 Kock</i>.<br><b>      2</b> amuser <i>ou</i> duper par de belles paroles, se moquer de, <i>gén</i>. JUL. <i>Ep. 32</i> ; A. TAT. <i>7, 11</i>.`

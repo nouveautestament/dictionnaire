@@ -1,1 +1,0 @@
-lar[102855]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> extension de la ligne de bataille de manière à déborder l’ennemi, EL. TACT. <i>29, 9 ; cf</i>. ὑπερκέρασις.<p><b>Étym</b>. ὑπερφαλαγγέω.`

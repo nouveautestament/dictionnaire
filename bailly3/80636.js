@@ -1,1 +1,0 @@
-lar[80636]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> en forme de gâteau, TH. <i>H.P. 4, 10, 4</i> ; ATH. <i>646c</i>.<p><b>Étym</b>. πλακοῦς, -ωδης.`

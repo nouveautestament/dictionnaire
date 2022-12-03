@@ -1,1 +1,0 @@
-lar[101640]=`<b>ή, όν</b>, de porc, qui convient aux porcs, PLAT. <i>Leg. 819d</i>.<p><b>Étym</b>. ὗς.`

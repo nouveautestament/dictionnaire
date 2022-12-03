@@ -1,1 +1,0 @@
-lar[12844]=`<b>ἀπο·λωτίζω</b>, déflorer, <i>d’où</i> arracher, <i>en gén</i>. EUR. <i>I.A. 793, Suppl. 449</i>.<p><b>Étym</b>. ἀπό, λωτός.`

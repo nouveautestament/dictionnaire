@@ -1,1 +1,0 @@
-lar[82461]=`<b>πολύ·τλητος, ος, ον :<br>      1</b> qui a beaucoup souffert, OD. <i>11, 38 ; d’où</i> malheureux, infortuné, MAN. <i>2, 398</i>.<br><b>      2</b> qui cause de vives souffrances, Q. SM. <i>11, 25</i>.<p>➳ <i>Dat. pl. épq</i>. πολυτλήτῃσιν, Q. SM. <i>l. c</i>.<p><b>Étym</b>. π. τλάω.`

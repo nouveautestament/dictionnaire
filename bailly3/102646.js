@@ -1,1 +1,0 @@
-lar[102646]=`<i>adv</i>., d’une grandeur démesurée, PHIL. <i>1, 103</i>.<p><b>Étym</b>. ὑπερμεγέθης.`

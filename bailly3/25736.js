@@ -1,1 +1,0 @@
-lar[25736]=`<b>εως (ἡ)</b> <font color="purple">[τῑ]</font> estimation <i>ou</i> évaluation contradictoire, ATH. <i>274e</i>.<p><b>Étym</b>. διατιμάω.`

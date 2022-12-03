@@ -1,1 +1,0 @@
-lar[35678]=`<b>ἐξ·αφρόω-ῶ</b>, changer en écume, CLÉM. <i>1, 308 Migne</i>.`

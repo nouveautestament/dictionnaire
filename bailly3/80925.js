@@ -1,1 +1,0 @@
-lar[80925]=`<b>α, ον</b>, de Pleurôn, IL. <i>23, 635</i> ; SOPH. <i>fr. 708 Dind</i>.<p><b>Étym</b>. Πλευρών.`

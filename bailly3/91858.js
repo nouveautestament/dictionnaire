@@ -1,1 +1,0 @@
-lar[91858]=`<b>σπερμο·γόνος, ος, ον</b>, qui produit de la semence, fécond, NAZ.<p><b>Étym</b>. σπέρμα.`

@@ -1,1 +1,0 @@
-lar[99690]=`<font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> remuer et écraser avec une cuiller de bois, AR. <i>Eq. 1172</i>.<p><b>Étym</b>. <i>cf</i>. τορύνη.`

@@ -1,1 +1,0 @@
-lar[3300]=`<b>α, ον</b> <font color="purple">[ᾰκ]</font> d’Akessa, <i>v. de Sicile, d’où</i> Sicilien, SOPH. <i>fr. 599</i>.`

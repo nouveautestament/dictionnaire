@@ -1,1 +1,0 @@
-lar[68441]=`<i>dat. sg. et nom. pl. de</i> νεώς.`

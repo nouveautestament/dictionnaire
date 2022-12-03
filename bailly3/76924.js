@@ -1,1 +1,0 @@
-lar[76924]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Παρθικός ; LUC. <i>H. conscr. 32</i>.`

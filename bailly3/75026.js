@@ -1,1 +1,0 @@
-lar[75026]=`<font color="purple">[ᾰῠ]</font> comme dans une fête nationale <i>ou</i> dans un éloge public, <i>càd</i>. avec pompe <i>ou</i> ostentation, PLUT. <i>Cam. 16, Ant. 61, M. 393b, etc</i>.<p>•<i> Cp</i>. -ώτερον, POL. <i>5, 34, 3</i>.`

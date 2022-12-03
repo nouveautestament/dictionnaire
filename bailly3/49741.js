@@ -1,1 +1,0 @@
-lar[49741]=`<b>ἰσο·σκέλεια, ας (ἡ)</b> <font color="purple">[ῑ̆]</font> état de ce qui est ἰσοσκελής, PTOL. <i>Tetr. 125</i>.<p><b>Étym</b>. ἰσοσκελής.`

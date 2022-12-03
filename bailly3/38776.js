@@ -1,1 +1,0 @@
-lar[38776]=`<i>adv</i>., avec peine, laborieusement, HPC. <i>Epid. 1, 939</i> ; THC. <i>1, 22</i> ; XÉN. <i>Mem. 1, 7, 2</i>.<p>•<i> Cp</i>. -ώτερον, ARCHÉD. (ATH. <i>294c</i>) ; <i>sup</i>. -ώτατα, XÉN. <i>Cyr. 7, 5, 67</i>.`

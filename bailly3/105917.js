@@ -1,1 +1,0 @@
-lar[105917]=`<b>φιλό·μαστος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime encore la mamelle, <i>en parl. d’animaux,</i> ESCHL. <i>Ag. 142, 720</i>.<p><b>Étym</b>. φ. μαστός.`

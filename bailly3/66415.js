@@ -1,1 +1,0 @@
-lar[66415]=`<b>μολυβδο·ειδής, ής, ές</b>, semblable au plomb, DIOSC. <i>5, 98</i>.<p><b>Étym</b>. μ. εἶδος.`

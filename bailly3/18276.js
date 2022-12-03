@@ -1,1 +1,0 @@
-lar[18276]=`<b>ἀφρουρέω-ῶ</b> (<i>seul. prés</i>.) être sans gardien, STR. <i>709</i>.<p><b>Étym</b>. ἄφρουρος.`

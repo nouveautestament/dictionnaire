@@ -1,1 +1,0 @@
-lar[64710]=`<b>εως (ἡ)</b> poursuite, NICOM. <i>Arithm. 67</i>.<p><b>Étym</b>. μεταδιώκω.`

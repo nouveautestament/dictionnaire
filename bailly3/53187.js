@@ -1,1 +1,0 @@
-lar[53187]=`<b>ης (ἡ)</b> <font color="purple">[ῡῠ]</font> débauche infâme, CRAT. (<i>Com. fr. 2, 46</i>) ; AR. <i>Nub. 1023</i> ; LUC. <i>Somn. 32</i>.<p><b>Étym</b>. καταπύγων.`

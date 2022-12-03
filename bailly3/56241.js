@@ -1,1 +1,0 @@
-lar[56241]=`<b>      1</b> gratter, <i>d’où</i> irriter, ARSTT. <i>Probl. 31, 3</i> ; ANTH. <i>12, 238</i>.<br><b>      2</b> chatouiller, NT. <i>2Tim. 4, 3</i> ; CLÉM. <i>328</i>.<br><b><i>Moy.</i></b> gratter sur soi, <i>acc</i>. ARSTT. <i>H.A. 9, 1, 10</i>.<p><b>Étym</b>. κνάω.`

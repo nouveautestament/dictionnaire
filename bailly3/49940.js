@@ -1,1 +1,0 @@
-lar[49940]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σῠ]</font> équivalent d’un nom, pronom, <i>terme blâmé par</i> DYSC. <i>Pron. 269c</i>.<p><b>Étym</b>. ἰσώνυμος.`

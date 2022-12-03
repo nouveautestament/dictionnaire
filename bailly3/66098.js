@@ -1,1 +1,0 @@
-lar[66098]=`<b>μιτο·ρραφής, ής, ές</b> <font color="purple">[ῐᾰ]</font> cousu avec du fil, ANTH. <i>6, 185</i>.<p><b>Étym</b>. μίτος, ῥάπτω.`

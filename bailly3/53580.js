@@ -1,1 +1,0 @@
-lar[53580]=`<b>κατα·τρυγάω-ῶ</b> <font color="purple">[ῠ]</font> achever la moisson, la vendange, EUM. <i>p. 433 dout</i>.`

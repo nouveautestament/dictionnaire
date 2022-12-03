@@ -1,1 +1,0 @@
-lar[71466]=`<b>ὁμο·δογματέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir la même opinion, M. ANT. <i>11, 8</i>.<p><b>Étym</b>. ὁμ. δόγμα.`

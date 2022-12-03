@@ -1,1 +1,0 @@
-lar[31395]=`<b>ἐκ·καρπέω-ῶ</b> (<i>prés. inf</i>.) monter en graine, HPC. <i>785b</i>.<p><b>Étym</b>. ἐκ, καρπός.`

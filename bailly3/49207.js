@@ -1,1 +1,0 @@
-lar[49207]=`<b>ἰπο·κτόνος, ος, ον</b> <font color="purple">[ῑ]</font> qui tue les vers, STR. <i>613</i>.<p><b>Étym</b>. ἴψ, κτείνω.`

@@ -1,1 +1,0 @@
-lar[48181]=`<b>      1</b> agir <i>ou</i> parler comme les Ioniens, HERMOG. <i>π. ἰδ. 2, 4, p. 206</i>.<br><b>      2</b> se servir du dialecte ionien, DYSC. <i>Conj. 500, 14</i>.<p><b>Étym</b>. Ἰάς.`

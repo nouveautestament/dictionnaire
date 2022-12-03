@@ -1,1 +1,0 @@
-lar[75162]=`<b>ας (ἡ)</b> mélange de toutes sortes de semences, PLAT. <i>Tim. 73c ;</i> ARSTT. <i>An. 1, 2, 3</i> ; PLUT. <i>M. 462f</i>.<p><b>Étym</b>. πάνσπερμος.`

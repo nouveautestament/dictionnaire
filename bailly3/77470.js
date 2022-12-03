@@ -1,1 +1,0 @@
-lar[77470]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> épaisseur, OD. <i>9, 324</i> ; HDT. <i>4, 81, etc.</i> ; THC. <i>1, 93, etc.</i><br><b>      2</b> embonpoint, EUR. <i>Cycl. 380</i> ; PLAT. <i>Rsp. 523e, etc.</i><br><b>      3</b> consistance d’un liquide, ARSTT. <i>Sens. 4, 7, etc</i>.<p><b>Étym</b>. παχύς.`

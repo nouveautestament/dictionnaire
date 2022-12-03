@@ -1,1 +1,0 @@
-lar[37923]=`<b>ἐπι·καταδύνω</b>, se coucher après, <i>dat., en parl. d’une constellation,</i> GÉM. <i>El. astr. 9, 1</i>.`

@@ -1,1 +1,0 @@
-lar[41768]=`<b>*εὐ·γηθής</b>, <i>seul. dor</i>. <b>εὐ·γαθής, ής, ές</b> <font color="purple">[ᾱ]</font> réjouissant, agréable, EUR. <i>H.f. 792</i>.<p><b>Étym</b>. εὖ, γηθέω.`

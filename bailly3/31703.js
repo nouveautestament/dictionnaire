@@ -1,1 +1,0 @@
-lar[31703]=`<b>ἐκ·ναρκάω-ῶ</b>, être profondément engourdi, PLUT. <i>Cor. 31</i>.`

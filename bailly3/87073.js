@@ -1,1 +1,0 @@
-lar[87073]=`<b>ιος (ὁ)</b> <font color="purple">[ῠ]</font> Prylis, <i>devin,</i> PLUT. <i>Prov. 42</i> ; LYC. <i>219</i>.`

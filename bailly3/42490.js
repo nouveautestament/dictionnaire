@@ -1,1 +1,0 @@
-lar[42490]=`<i>adv.</i> :<br><b>      1</b> en bon ordre, OD. <i>21, 123</i> ; HÉS. <i>O. 626</i>.<br><b>      2</b> d’une façon ornée, XÉN. <i>Cyr. 2, 4, 1 ; fig</i>. PLUT. <i>Dem. 11</i>.<p>•<i> Sup</i>. -ότατα, XÉN. <i>l. c</i>.`

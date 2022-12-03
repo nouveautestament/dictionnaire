@@ -1,1 +1,0 @@
-lar[3003]=`<b>ήεσσα, ῆεν</b>, qui combat avec la lance, belliqueux, OPP. <i>C. 3, 321</i>.<p>➳ <i>Dor</i>. -άεις <font color="purple">[ᾱ]</font> ESCHL. <i>Pers. 136</i>.<p><b>Étym</b>. αἰχμή.`

@@ -1,1 +1,0 @@
-lar[25517]=`<b>δια·σήπω</b>, putréfier complètement ; <i>d’où pf. au sens pass</i>. διασέσηπα, TH. <i>H.P. 5, 7, 5</i> ; GEOP. <i>5, 44, 6,</i> être complètement pourri ; <i>et part. ao.2 pass</i>. διασαπείς, LUC. <i>Luct. 18,</i> complètement pourri.`

@@ -1,1 +1,0 @@
-lar[91363]=`<b>*σκύτη</b>, <i>dor</i>. <b>σκύτα, ας (ἡ)</b> <font color="purple">[ᾱ]</font> tête, ARCHIL. <i>109</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

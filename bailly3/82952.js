@@ -1,1 +1,0 @@
-lar[82952]=`<b>Ποσω·χάρης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Posôkharès, <i>h</i>. ANTH. <i>6, 293, 298</i>.<p><b>Étym</b>. πόσος, χαίρω.`

@@ -1,1 +1,0 @@
-lar[75305]=`<b>παν·τρόπος, ος, ον</b>, qui fait fuir tout le monde, ESCHL. <i>Sept. 955</i>.<p><b>Étym</b>. π. τρέπω.`

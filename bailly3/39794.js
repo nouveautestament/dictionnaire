@@ -1,1 +1,0 @@
-lar[39794]=`<b>ἐπ·όζω</b>, sentir mauvais, GAL. <i>19, 100</i> ; SPT. <i>Ex. 7, 18 (au fut</i>. -οζέσω) <i>et 21</i>.`

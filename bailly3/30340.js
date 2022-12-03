@@ -1,1 +1,0 @@
-lar[30340]=`<b>εἰκονο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> peintre <i>ou</i> dessinateur de portraits, ARSTT. <i>Poet. 15, 11</i> ; THÉM. <i>309b</i>.<p><b>Étym</b>. εἰκών, γράφω.`

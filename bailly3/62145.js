@@ -1,1 +1,0 @@
-lar[62145]=`<b>ου (ὁ)</b> <i>propr</i>. qui supporte <i>ou</i> contient une lumière, <i>d’où</i> :<br><b>      1</b> chandelier, HLD. <i>8, 12</i>.<br><b>      2</b> flambeau <i>ou</i> lanterne, PLUT. <i>M. 710c ;</i> ATH. <i>699d</i>.<p><b>Étym</b>. λύχνος, ἔχω.`

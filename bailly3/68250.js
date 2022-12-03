@@ -1,1 +1,0 @@
-lar[68250]=`<b>*νεοσσο·κόμος</b>, <i>seul</i>. <b>νεοττο·κόμος, ος, ον</b>, qui abrite de jeunes oiseaux, <i>en parl. d’un nid,</i> ANTH. <i>7, 210</i>.<p><b>Étym</b>. νεοττός, κομέω.`

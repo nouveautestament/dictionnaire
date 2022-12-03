@@ -1,1 +1,0 @@
-lar[20855]=`<b>ης, ες</b>, tonnant, P. SIL. <i>Th. Pyth. 86</i> ; PTOL. <i>Tetr. 94, 95</i>.<p><b>Étym</b>. βροντή, -ωδης.`

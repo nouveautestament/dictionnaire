@@ -1,1 +1,0 @@
-lar[98857]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> œuvre d’art, M. TYR. <i>34, 3</i>.<p><b>Étym</b>. τεχνιτεύω.`

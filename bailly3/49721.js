@@ -1,1 +1,0 @@
-lar[49721]=`<b>ἰσο·πολίτης, ου (ὁ)</b> <font color="purple">[ῑ̆ῑτ]</font> citoyen investi de droits égaux ; <i>particul. à Rome,</i> citoyen d’un municipe, SPT. <i>3Macc. 2, 30</i> ; DH. <i>3, 1694 Reiske</i> ; JOS. <i>A.J. 12, 1, 1</i>.<p><b>Étym</b>. ἴ. πολίτης.`

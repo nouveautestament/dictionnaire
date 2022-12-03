@@ -1,1 +1,0 @@
-lar[71029]=`<b>ὀλιγο·μυθία, ας (ἡ)</b> <font color="purple">[ῐῡ]</font> action de parler peu, parole brève <i>ou</i> concise, DÉMOCR. (STOB. <i>Fl. 74, 38).</i><p><b>Étym</b>. ὀλ. μῦθος.`

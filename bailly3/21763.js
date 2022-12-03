@@ -1,1 +1,0 @@
-lar[21763]=`<b>γερανο·μαχία, ας (ἡ)</b> <font color="purple">[ρᾰμᾰ]</font> combat des grues (avec les Pygmées) STR. <i>70</i>.<p><b>Étym</b>. γέρανος, μάχη.`

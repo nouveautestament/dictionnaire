@@ -1,1 +1,0 @@
-lar[6769]=`<b>ας (ἡ)</b> sorte de bandelette, GAL. <i>12, 471</i>.<p><b>Étym</b>. ἀναζώννυμι.`

@@ -1,1 +1,0 @@
-lar[31726]=`<b>ἐκ·νιτρόω-ῶ</b> <font color="purple">[ῐ]</font> lessiver, ALEX. (ATH. <i>230b</i>).<p><b>Étym</b>. ἐκ, νίτρον.`

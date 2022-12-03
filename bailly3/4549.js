@@ -1,1 +1,0 @@
-lar[4549]=`<b>ἁλί·ρραντος, ος, ον</b> <font color="purple">[ᾰλ]</font> qui baigne de ses flots, ANTH. <i>9, 333</i>.<p><b>Étym</b>. ἅ. ῥαίνω.`

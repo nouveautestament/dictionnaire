@@ -1,1 +1,0 @@
-lar[61852]=`<b>λυκ·αυγής, ής, ές</b> <font color="purple">[ῠ]</font> crépusculaire : τὸ λυκαυγές, PLUT. <i>M. 931f, etc.</i> ; LUC. <i>V.H. 2, 12, etc</i>. le crépuscule.<p><b>Étym</b>. *λύκη, αὐγή.`

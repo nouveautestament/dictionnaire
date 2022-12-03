@@ -1,1 +1,0 @@
-lar[42048]=`<i>adv</i>., d’une façon serviable <i>ou</i> efficace, ARSTT. <i>Meteor. 3, 6, 5</i>.<p><b>Étym</b>. εὐεργός.`

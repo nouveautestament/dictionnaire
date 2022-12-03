@@ -1,1 +1,0 @@
-lar[99531]=`<b>εως (ἡ)</b> hardiesse, audace, PLAT. <i>Def. 412b</i>.<p><b>Étym</b>. τολμάω.`

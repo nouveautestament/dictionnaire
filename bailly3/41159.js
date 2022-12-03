@@ -1,1 +1,0 @@
-lar[41159]=`<b>ἑστιόω-ῶ</b>, donner un fondement solide, EUR. <i>Ion 1464</i>.<p><b>Étym</b>. ἑστία.`

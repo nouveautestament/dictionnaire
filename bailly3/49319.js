@@ -1,1 +1,0 @@
-lar[49319]=`<b>ἱππο·διώκτας, ου (ὁ)</b> <i>dor</i>. qui excite les chevaux à la course, cavalier, THCR. <i>Idyl. 14, 12</i>.<p><b>Étym</b>. ἵ. διώκω.`

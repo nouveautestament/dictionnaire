@@ -1,1 +1,0 @@
-lar[58861]=`<b>κυν·υλαγμός, οῦ (ὁ)</b> <font color="purple">[ῠῡ]</font> hurlement de chien, aboiement plaintif, STÉSICH. <i>fr. 85</i>.<p><b>Étym</b>. κύων, ὑ.`

@@ -1,1 +1,0 @@
-lar[61143]=`<b>α, ον</b> <font color="purple">[λῐ]</font> protecteur <i>ou</i> protectrice des ports, <i>ép. de Zeus et d’Aphrodite,</i> PAUS. <i>2, 34, 11</i>.<p><b>Étym</b>. λιμήν.`

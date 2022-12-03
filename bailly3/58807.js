@@ -1,1 +1,0 @@
-lar[58807]=`<b>κυνο·κλόπος, ου (ὁ)</b> <font color="purple">[ῠ]</font> voleur de chiens, AR. <i>Ran. 605</i>.<p><b>Étym</b>. κ. κλέπτω.`

@@ -1,1 +1,0 @@
-lar[48745]=`<b>ἰθύ·νοος, οος, οον</b>, à l’esprit droit, P. SIL. <i>Ecphr. ag. Soph. 1017</i>.<p><b>Étym</b>. ἰ. νόος.`

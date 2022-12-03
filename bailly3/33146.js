@@ -1,1 +1,0 @@
-lar[33146]=`<b>ἐμ·βρέχω</b>, mouiller, tremper, PLUT. <i>M. 74d.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. NIC. <i>Al. 237, m</i>.<p>➳ <i>Part. ao. pass</i>. ἐμβραχείς, P. ÉG.<p><b>Étym</b>. ἐν, βρ.`

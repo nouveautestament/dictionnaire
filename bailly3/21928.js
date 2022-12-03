@@ -1,1 +1,0 @@
-lar[21928]=`<b>γή·πεδον, ου (τὸ)</b> fonds de terre, PLAT. <i>Leg. 741b ;</i> ARSTT. <i>Pol. 2, 5, 2 ; particul</i>. fonds de terre attenant à une maison, jardin, PHRYN. <i>(Bkk. 32, 1).</i><p><b>Étym</b>. γῆ, -πεδον ; <i>cf</i>. δάπεδον.`

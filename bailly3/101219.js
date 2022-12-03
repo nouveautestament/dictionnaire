@@ -1,1 +1,0 @@
-lar[101219]=`<b>ά, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> fortuit, accidentel, DH. <i>7, 68</i> ; PLUT. <i>M. 6a, etc.</i> ; τὸ τυχηρόν, PLUT. <i>M. 23e</i>, le hasard ; τὰ τυχηρά, PLUT. <i>M. 35a</i>, les chances du hasard.<br><b>      2</b> heureux, ESCHL. <i>Ag. 464</i> ; ARSTT. <i>Pol. 4, 11, 1</i>.<p><b>Étym</b>. τύχη.`

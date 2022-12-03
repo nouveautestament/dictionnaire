@@ -1,1 +1,0 @@
-lar[90419]=`<b>ων (τὰ)</b> Sinôres, <i>v. d’Arménie,</i> PLUT. <i>Pomp. 32</i>.`

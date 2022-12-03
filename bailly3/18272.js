@@ -1,1 +1,0 @@
-lar[18272]=`<b>ἀφροσι·βόμβαξ, ακος (ὁ)</b> <font color="purple">[ῐᾰκ]</font> stupide hâbleur, TIMON (DL. <i>2, 126).</i><p><b>Étym</b>. ἄφρων, βομβέω.`

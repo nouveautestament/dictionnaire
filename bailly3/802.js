@@ -1,1 +1,0 @@
-lar[802]=`<b>ας (ἡ) :<br>      1</b> ignorance de, <i>gén</i>. THC. <i>8, 66</i> ; EUR. <i>Med. 1204 ; abs</i>. ignorance, <i>p. opp. à</i> γνῶσις, PLAT. <i>Soph. 267b.</i><br><b>      2</b> obscurité, PLAT. <i>Menex. 238d</i>.<p><b>Étym</b>. ἀγνώς.`

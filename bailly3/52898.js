@@ -1,1 +1,0 @@
-lar[52898]=`<b>κατα·ναυμαχέω-ῶ</b> <font color="purple">[μᾰ]</font> vaincre dans un combat naval, <i>abs</i>. XÉN. <i>Hell. 7, 1, 10 ; acc</i>. DÉM. <i>347, 20 ; au pass</i>. ISOCR. <i>254c ;</i> LUC. <i>H. conscr. 38</i>.`

@@ -1,1 +1,0 @@
-lar[41621]=`<b>εὐ·απόβλητος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à rejeter <i>ou</i> à perdre, SIMPL. (EPICT. <i>p. 419, 216).</i><p><b>Étym</b>. εὖ, ἀποβάλλω.`

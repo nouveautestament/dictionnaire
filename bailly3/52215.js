@@ -1,1 +1,0 @@
-lar[52215]=`<b>κατα·γεωργέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. κατεγεώργουν)</font> cultiver avec soin, STR. <i>419</i>.`

@@ -1,1 +1,0 @@
-lar[80397]=`<b>πιόω-ῶ</b> <font color="purple">[ῑ]</font> rendre gras, <i>au pass</i>. devenir gras, ES. <i>420 Korais</i>.<p><b>Étym</b>. πίων.`

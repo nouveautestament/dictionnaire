@@ -1,1 +1,0 @@
-lar[94795]=`<b>συν·ανθρωπεύω</b>, rendre sociable, PORPH. <i>Abst. 1, 36 ; 4, 22</i>.<br><b><i>Moy.</i></b> vivre avec les hommes, ARSTT. <i>H.A. 8, 14, 1</i> ; ζῷα συνανθρωπευόμενα, ARSTT. <i>H.A. 5, 8, 6</i> ; TH. <i>H.P. 3, 2, 2,</i> animaux apprivoisés.`

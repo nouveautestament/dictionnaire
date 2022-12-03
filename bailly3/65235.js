@@ -1,1 +1,0 @@
-lar[65235]=`<b>μετριόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐμετρίωσα)</font> mesurer, CHRYS. <i>10, 913</i>.<p><b>Étym</b>. μέτριος.`

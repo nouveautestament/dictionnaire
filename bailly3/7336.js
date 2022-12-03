@@ -1,1 +1,0 @@
-lar[7336]=`<b>ἀνα·πατέω-ῶ</b> <font color="purple">[πᾰ]</font> aller et venir, HIPPIATR.`

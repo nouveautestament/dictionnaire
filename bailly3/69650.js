@@ -1,1 +1,0 @@
-lar[69650]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ξυλεία, POL. <i>10, 27, 10</i> ; PLUT. <i>M. 1112d</i>.`

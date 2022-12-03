@@ -1,1 +1,0 @@
-lar[60415]=`<b>λεπτο·κοπέω-ῶ</b>, couper mince, hacher menu, DIOSC. <i>1, 11</i> ; SPT. <i>Esaï. 27, 9, etc</i>.<p><b>Étym</b>. λ. -κοπος <i>de</i> κόπτω.`

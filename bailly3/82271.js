@@ -1,1 +1,0 @@
-lar[82271]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grand nombre de pieds, ARSTT. <i>P.A. 4, 6, 1</i>.<p><b>Étym</b>. πολύπους.`

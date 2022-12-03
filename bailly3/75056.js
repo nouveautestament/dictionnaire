@@ -1,1 +1,0 @@
-lar[75056]=`<b>πάν·θοινος, ος, ον :<br>      1</b> qui se compose de tout le festin, BABR. (SUID.).<br><b>      2</b> chargé de toute sorte de mets, OPP. <i>H. 2, 221</i>.<p>➳ <i>fém</i>. -η, BABR. <i>l.c</i>.<p><b>Étym</b>. π. θοίνη.`

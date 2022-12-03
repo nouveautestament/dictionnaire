@@ -1,1 +1,0 @@
-lar[74988]=`<b>παν·επάρκιος, ος, ον</b> <font color="purple">[ᾰν]</font> tout à fait suffisant, EPIGR. (SUID. <i>v°</i> Παλαμήδης).<p><b>Étym</b>. π. ἐπαρκέω.`

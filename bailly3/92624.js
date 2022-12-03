@@ -1,1 +1,0 @@
-lar[92624]=`<b>ωνος (ὁ)</b> Stilbôn, <i>h</i>. ARSTT. <i>Rhet. 2, 23</i>.<p><b>Étym</b>. στίλβω.`

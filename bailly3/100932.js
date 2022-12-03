@@ -1,1 +1,0 @@
-lar[100932]=`<font color="purple">[ᾱ]</font> <i>adv</i>., de Troie, PD. <i>N. 7, 60</i>.<p><b>Étym</b>. Τρωΐα, -θεν.`

@@ -1,1 +1,0 @@
-lar[66467]=`<b>μοναρχέω-ῶ</b>, commander seul, régner souverainement, PD. <i>P. 4, 165</i> ; HDT. <i>5, 46 et 61</i> ; PLAT. <i>Rsp. 576b, Pol. 302b, etc. ; d’où, au pass</i>. être gouverné par un seul maître, ARSTT. <i>Pol. 1, 7</i>.<p>➳ <i>Ion</i>. μουναρχέω, HDT. <i>ll. cc</i>.<p><b>Étym</b>. μόναρχος.`

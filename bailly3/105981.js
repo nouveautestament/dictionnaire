@@ -1,1 +1,0 @@
-lar[105981]=`<b>φιλο·παίσμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> <i>c</i>. φιλοπαίγμων, PLAT. <i>Rsp. 452e, Crat. 406c</i>.`

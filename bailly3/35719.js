@@ -1,1 +1,0 @@
-lar[35719]=`<b>εως (ἡ)</b> action de dérouler, évolution, PLAT. <i>Leg. 796a</i>.<p><b>Étym</b>. ἐξειλέω.`

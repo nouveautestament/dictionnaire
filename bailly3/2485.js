@@ -1,1 +1,0 @@
-lar[2485]=`<b>αἰθρο·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui erre dans les airs, MAN. <i>4, 586</i>.<p><b>Étym</b>. αἴ. πλανάω.`

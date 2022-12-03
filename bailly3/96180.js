@@ -1,1 +1,0 @@
-lar[96180]=`<b>συν·ομολόγος, ος, ον</b>, qui tombe d’accord avec, <i>gén</i>. CLÉM. <i>673</i>.`

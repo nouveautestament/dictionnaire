@@ -1,1 +1,0 @@
-lar[18136]=`(<i>seul. prés</i>. SPT. <i>Eccl. 2, 18, et impf. 3 sg</i>. ἤφιε, NT. <i>Marc. 11, 16, etc.) c</i>. ἀφίημι.`

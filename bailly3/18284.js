@@ -1,1 +1,0 @@
-lar[18284]=`<b>ης, ες</b>, écumeux, écumant, HPC. <i>69a, etc.</i> ; EUR. <i>Or. 220</i> ; PLAT. <i>Tim. 60b, etc. ; subst</i>. τὸ ἀφρῶδες, HPC. <i>179c</i>, l’écume.<p>•<i> Cp</i>. ἀφρωδέστερος, HPC. <i>393, 4</i>.<p><b>Étym</b>. ἀφρός, -ωδης.`

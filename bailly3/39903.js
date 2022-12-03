@@ -1,1 +1,0 @@
-lar[39903]=`<b>ἐπουρόω-ῶ</b>, avoir un vent favorable, <i>fig</i>. POL. <i>2, 10, 6</i>.<p><b>Étym</b>. ἔπουρος.`

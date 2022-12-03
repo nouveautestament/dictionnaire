@@ -1,1 +1,0 @@
-lar[48508]=`<i>épq</i>. <b>ἰδυίη</b>, savante, ingénieuse, <i>seul. dat. pl. dans la locut</i>. ἰδυίῃσι πραπίδεσσιν, IL. <i>1, 608, etc.</i> ; OD. <i>7, 92, etc</i>. par son esprit savant, par son art ingénieux, <i>en parl. d’Hèphæstos</i>.<p><b>Étym</b>. <i>c</i>. εἰδυῖα, <i>fém. de</i> εἰδώς.`

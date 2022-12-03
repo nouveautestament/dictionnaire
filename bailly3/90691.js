@@ -1,1 +1,0 @@
-lar[90691]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> σκαφεῖον HDN GR. <i>Epim. p. 239 Boissonade</i>.`

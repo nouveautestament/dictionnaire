@@ -1,1 +1,0 @@
-lar[51381]=`<b>καμαρο·ειδής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> en forme de voûte, GAL. <i>10, 151</i>.<p><b>Étym</b>. καμάρα, εἶδος.`

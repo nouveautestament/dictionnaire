@@ -1,1 +1,0 @@
-lar[6226]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> ampleur, abondance, CIC. <i>Q. fr. 2, 6, 3</i> ; GEOP. <i>2, 8, 1</i>.<p><b>Étym</b>. ἀμφιλαφής.`

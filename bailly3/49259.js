@@ -1,1 +1,0 @@
-lar[49259]=`<b>ἱππ·έλαφος, ου (ἡ)</b> <font color="purple">[ᾰ]</font> sorte d’élan <i>ou</i> de gazelle, ARSTT. <i>H.A. 2, 1, 20</i>.<p><b>Étym</b>. ἵ. ἔλαφος.`

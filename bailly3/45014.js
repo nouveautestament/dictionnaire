@@ -1,1 +1,0 @@
-lar[45014]=`<b>ατος</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> disposition à la joie, enjouement, ATH. (DL. <i>6, 14</i>).<br><b>      2</b> mollesse, sensualité, ANTH. <i>9, 496</i>.<p><b>Étym</b>. ἡδυπαθέω.`

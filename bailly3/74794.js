@@ -1,1 +1,0 @@
-lar[74794]=`<i>adv</i>., avec toute espèce de sons, SYN. <i>287</i>.`

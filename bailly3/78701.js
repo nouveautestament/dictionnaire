@@ -1,1 +1,0 @@
-lar[78701]=`<b>περι·καθίζω</b> <font color="darkgreen">(<i>f</i>. ιῶ, <i>ao</i>. περιεκάθισα)</font> s’asseoir autour, s’établir <i>ou</i> camper autour : περὶ πόλιν, SPT. <i>1Macc. 11, 61 ; ou</i> ἐπὶ πόλιν, SPT. <i>4Reg. 6, 24,</i> autour d’une ville ; <i>ou simpl. avec l’acc</i>. assiéger, DS. <i>20, 103</i> ; APP. <i>Iber. 53</i>.`

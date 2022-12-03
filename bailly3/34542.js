@@ -1,1 +1,0 @@
-lar[34542]=`<i>adv</i>., en comprimant, en serrant, SEXT. <i>137, 16 Bkk</i>.<p><b>Étym</b>. ἐνθλίβω.`

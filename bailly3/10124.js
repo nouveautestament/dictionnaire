@@ -1,1 +1,0 @@
-lar[10124]=`<i>adv</i>., contradictoirement, <i>en parl. de lois,</i> DÉM. <i>592 arg</i>.`

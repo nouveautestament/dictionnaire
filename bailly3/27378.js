@@ -1,1 +1,0 @@
-lar[27378]=`<i>mot comique pour</i> δοκῶ, HERMIPP. (HSCH.).`

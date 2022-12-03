@@ -1,1 +1,0 @@
-lar[95313]=`<b>συν·εισκατοικέω-ῶ</b>, aller habiter avec, HPC. <i>1289, 6 dout</i>.`

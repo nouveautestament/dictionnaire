@@ -1,1 +1,0 @@
-lar[46072]=`<font color="purple">[ᾰ]</font> <i>adj. m. ion. et épq. c</i>. ἠχέτης HÉS. <i>O. 580</i> ; ANTH. <i>7, 201</i>.<p>➳ <i>Dor</i>. ἀχ- <font color="purple">[ᾱ]</font> ANTH. <i>7, 213</i>.`

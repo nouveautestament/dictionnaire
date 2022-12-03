@@ -1,1 +1,0 @@
-lar[50722]=`<i>épq</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> méchanceté, méfait, OD. <i>22, 374</i>.<p><b>Étym</b>. κακοεργός.`

@@ -1,1 +1,0 @@
-lar[82801]=`<b>ου (ὁ) :<br>      1</b> nasse de pêcheur, ANTIPH. (<i>Com. fr. 3, 62</i>) ; DIPH. (<i>Com. fr. 4, 410</i>) ; PLAT. <i>Soph. 220c ;</i> PLUT. <i>M. 780c.</i><br><b>      2</b> sorte d’animal, LYC. <i>74</i>.<br><b>      3</b> = <i>lat</i>. porcus, PLUT. <i>Popl. 11</i> ; VARR. <i>L.L. 5, 97</i>.`

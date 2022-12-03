@@ -1,1 +1,0 @@
-lar[7116]=`<i>vb. de</i> ἀναλογέω ARSTT. <i>Rhet. Al. 37, 26</i>.`

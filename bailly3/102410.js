@@ -1,1 +1,0 @@
-lar[102410]=`<b>ὑπ·έρεικον, ου (τὸ)</b> herbe de la St-Jean, <i>plante,</i> DIOSC. <i>3, 171</i>.<p><b>Étym</b>. ὑπό, ἐρείκη, <i>cf</i>. ὑπέρικον.`

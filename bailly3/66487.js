@@ -1,1 +1,0 @@
-lar[66487]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une seule manière, seulement, ARSTT. <i>Nic. 2, 6, 14 ; H.A. 5, 2, etc</i>.<p><b>Étym</b>. μοναχός.`

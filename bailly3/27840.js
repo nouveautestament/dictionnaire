@@ -1,1 +1,0 @@
-lar[27840]=`<b>δρακός (ἡ)</b> <font color="purple">[ᾰκ]</font> poignée, BATR. <i>240</i> ; SPT. <i>3Macc. 5, 2 ; Eccl. 4, 6</i>.<p>➳ ὁ δρ. STOB. <i>Ecl. 1, 968</i>.<p><b>Étym</b>. δράσσομαι.`

@@ -1,1 +1,0 @@
-lar[12632]=`<b>ατος (τὸ)</b> rognure, fragment, THCR. <i>Idyl. 10, 7</i> ; LUC. <i>V.H. 1, 18 ; en mauv. part,</i> tronc de bois, <i>en parl. d’idoles,</i> AQU. <i>Ezech. 20, 7</i>.<p><b>Étym</b>. ἀποκόπτω.`

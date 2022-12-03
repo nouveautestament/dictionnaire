@@ -1,1 +1,0 @@
-lar[23392]=`<b>ης, ες :<br>      1</b> semblable au laurier, TH. <i>C.P. 9, 10, 1</i>.<br><b>      2</b> paré de lauriers, EUR. <i>Ion 76</i>.<p><b>Étym</b>. δάφνη, -ωδης.`

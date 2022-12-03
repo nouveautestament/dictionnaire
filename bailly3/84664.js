@@ -1,1 +1,0 @@
-lar[84664]=`<b>προ·λούω</b>, baigner auparavant, HPC. <i>617, 10</i> ; CLÉARQ. (ATH. <i>5f</i>).`

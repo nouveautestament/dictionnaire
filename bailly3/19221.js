@@ -1,1 +1,0 @@
-lar[19221]=`<b>βαρύ·φορτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui porte un lourd fardeau, NONN. <i>D. 48, 769</i>.<p><b>Étym</b>. β. φόρτος.`

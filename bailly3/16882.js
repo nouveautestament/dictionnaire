@@ -1,1 +1,0 @@
-lar[16882]=`<i>adv</i>., sans hardiesse, timidement, POL. <i>3, 103</i> ; PLUT. <i>M. 47b</i>.`

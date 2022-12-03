@@ -1,1 +1,0 @@
-lar[71628]=`<b>ας (ἡ) :<br>      1</b> conformité de sentiments, unanimité, union, concorde, XÉN. <i>Cyr. 5, 5, 11, etc.</i> ; PLAT. <i>Pol. 311b, etc.</i> ; CALL. <i>Cer. 134, etc.</i><br><b>      2</b> la Concorde personnifiée, A.RH. <i>2, 718</i> ; PAUS. <i>5, 14, 9</i>.<p>➳ <i>Ion</i>. Ὁμονοίη, A.RH. <i>l. c</i>.<p><b>Étym</b>. ὁμόνοος.`

@@ -1,1 +1,0 @@
-lar[20686]=`<b>βραχυ·βλαδής, ής, ές</b> <font color="purple">[ᾰῠ]</font> qui cause un court dommage <i>ou</i> peu de dommage, LUC. <i>Trag. 323</i>.<p><b>Étym</b>. βρ. βλάπτω.`

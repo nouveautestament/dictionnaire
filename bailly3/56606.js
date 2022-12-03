@@ -1,1 +1,0 @@
-lar[56606]=`<b>ου (τὸ) :<br>      1</b> lieu de punition, de supplice, LUC. <i>Nec. 14</i>.<br><b>      2</b> instrument de supplice, PLUT. <i>M. 166b, 342e ;</i> SYN. <i>Ep. 58</i>.<br><b>      3</b> châtiment, XÉN. <i>Mem. 1, 4, 1</i>.<p><b>Étym</b>. κολάζω.`

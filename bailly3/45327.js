@@ -1,1 +1,0 @@
-lar[45327]=`<b>ου (ὁ)</b> vin doux, PLUT. <i>M. 663d, 692e ; en parl. de Bacchus, le dieu du vin doux,</i> PLUT. <i>M. 451c, 994a</i>.<p><b>Étym</b>. ἥμερος.`

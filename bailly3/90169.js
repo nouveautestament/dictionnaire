@@ -1,1 +1,0 @@
-lar[90169]=`<b>σιδηρό·σπαρτος, ος, ον</b> <font color="purple">[ῐ]</font> engendré par le fer, LUC. <i>Oc. 100</i>.<p><b>Étym</b>. σ. <i>vb. de</i> σπείρω.`

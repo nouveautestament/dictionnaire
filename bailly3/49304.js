@@ -1,1 +1,0 @@
-lar[49304]=`<b>ἱππό·βροτος, ος, ον</b>, moitié cheval, moitié homme, LYC. <i>842</i>.<p><b>Étym</b>. ἵ. βροτός.`

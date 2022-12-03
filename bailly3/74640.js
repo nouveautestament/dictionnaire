@@ -1,1 +1,0 @@
-lar[74640]=`<b>ου (ὁ)</b> <font color="purple">[λᾰῑ]</font> enfant né d’une concubine, SOPHR. (EG. <i>450, 18).</i><p><b>Étym</b>. πάλλαξ.`

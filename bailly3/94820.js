@@ -1,1 +1,0 @@
-lar[94820]=`<b>συν·ανύτω</b>, <i>anc. att</i>. <b>ξυν·ανύτω</b> (<i>seul. prés</i>.) <font color="purple">[ᾰνῠ]</font> achever, <i>d’où</i> cesser, finir, ESCHL. <i>Ag. 1123 ; cf</i>. συνανύω.`

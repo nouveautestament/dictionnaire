@@ -1,1 +1,0 @@
-lar[64872]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> coupe que l’on vide à la fin du repas après s’être lavé les mains, ATH. <i>423d</i>.<p><b>Étym</b>. μ. νίπτω.`

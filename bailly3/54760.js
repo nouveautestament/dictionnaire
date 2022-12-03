@@ -1,1 +1,0 @@
-lar[54760]=`<b>κεντρο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> blessé par l’éperon, ANTH. <i>13, 18</i>.<br><b>      2</b> dont l’aiguillon rend fou (d’amour) ANTH. <i>5, 247</i>.<p><b>Étym</b>. κέντρον, μαίνομαι.`

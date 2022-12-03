@@ -1,1 +1,0 @@
-lar[67423]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> prêtre chargé d’initier aux mystères, mystagogue, PLUT. <i>Alc. 34 ; fig</i>. MÉN. (PLUT. <i>M. 474b</i>).<br><b>      2</b> guide, cicérone dans les temples, CIC. <i>Verr. 4, 59</i>.<p><b>Étym</b>. μύστης, ἄγω.`

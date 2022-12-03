@@ -1,1 +1,0 @@
-lar[6134]=`<b>ἀμφι·εννύω</b> (<i>seul. prés</i>.) vêtir, habiller : τινά, PLUT. <i>Per. 9,</i> qqn ; τὸ σῶμα τοῦ τεθνηκότος λευκοῖς, PLUT. <i>M. 270e</i>, revêtir de vêtements blancs le corps du mort.<p><b>Étym</b>. <i>cf</i>. ἀμφιέννυμι.`

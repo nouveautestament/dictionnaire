@@ -1,1 +1,0 @@
-lar[88898]=`<b>ῥυπ·έλαιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> huile sale, épaissie, P. ÉG. <i>7, 17</i>.<p><b>Étym</b>. ῥύπος, ἔ.`

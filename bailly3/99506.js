@@ -1,1 +1,0 @@
-lar[99506]=`<b>οῦ (ὁ) :<br>      1</b> enfantement, ARSTT. <i>G.A. 2, 8, 21, etc. ; au plur</i>. ANTH. <i>9, 311</i>.<br><b>      2</b> enfant, rejeton, AGATH. <i>proœm. Anth. 64</i>.<p><b>Étym</b>. τόκος.`

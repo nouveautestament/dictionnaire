@@ -1,1 +1,0 @@
-lar[109507]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> ψακάς, TH. <i>C.P. 2, 9, 3</i> ; POLIOCH. (ATH. <i>60b</i>).`

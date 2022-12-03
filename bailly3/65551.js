@@ -1,1 +1,0 @@
-lar[65551]=`<b>*μητρο·κασιγνήτη</b>, <i>dor</i>. <b>ματροκασιγνήτα, ας (ἡ)</b> <font color="purple">[μᾱκᾰ]</font> sœur de mère, ESCHL. <i>Eum. 962</i>.`

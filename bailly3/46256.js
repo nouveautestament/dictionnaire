@@ -1,1 +1,0 @@
-lar[46256]=`<b>ή, όν</b>, effrayant, redoutable, LYC. <i>552</i>.<p><b>Étym</b>. θαμβέω.`

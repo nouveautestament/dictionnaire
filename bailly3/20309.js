@@ -1,1 +1,0 @@
-lar[20309]=`<b>βοτρυό·δωρος, ος, ον</b>, qui produit (<i>litt</i>. qui donne) des grappes, AR. <i>Pax 520</i>.<p><b>Étym</b>. βότρυς, δῶρον.`

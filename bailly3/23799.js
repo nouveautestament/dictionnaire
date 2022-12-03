@@ -1,1 +1,0 @@
-lar[23799]=`<b>δελφακόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> (<i>seul. part. prés. fém. dor</i>. -ουμένα) devenir un petit cochon, AR. <i>Ach. 786</i>.<p><b>Étym</b>. δέλφαξ.`

@@ -1,1 +1,0 @@
-lar[3130]=`<b>ου (ὁ)</b> Akanias, <i>port de Rhodes,</i> ARSTT.`

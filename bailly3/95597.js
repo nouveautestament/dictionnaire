@@ -1,1 +1,0 @@
-lar[95597]=`<b>συν·επευφημέω-ῶ</b>, approuver par des acclamations unanimes, DS. <i>1, 72 ; 17, 72</i>.`

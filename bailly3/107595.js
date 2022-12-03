@@ -1,1 +1,0 @@
-lar[107595]=`<b>χαλκεό·γομφος, ος, ον</b>, fixé avec des clous d’airain, SIM. <i>fr. 37, 7 Bgk</i>.<p><b>Étym</b>. χάλκεος, γόμφος.`

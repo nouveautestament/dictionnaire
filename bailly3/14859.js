@@ -1,1 +1,0 @@
-lar[14859]=`<b>α, ον</b> <font color="purple">[μᾰ]</font> qui concerne les chars, de char, EUR. <i>I.A. 230</i> ; XÉN. <i>Cyr. 6, 4, 9</i> ; PLUT. <i>M. 2e, 889f ;</i> ἁ. μέλος, EUR. <i>Or. 1385,</i> musique de char, sorte de chant funèbre ; ἁ. νόμος, PLUT. <i>M. 335a, 1133e</i>, rythme pour la conduite des chars de combat, sorte de chant aigu.<p><b>Étym</b>. ἅρμα.`

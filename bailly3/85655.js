@@ -1,1 +1,0 @@
-lar[85655]=`<b>προσ·επιβαίνω :<br>      1 <i>intr.</i></b> passer par-dessus, <i>d’où</i> prévariquer, PHIL. <i>De Temul. 197e.</i><br><b>      2</b> <i>tr. (à l’ao.1</i> προσεπέβησα) faire monter sur : τινά τινι, JOS. <i>B.J. 3, 7, 30,</i> faire monter qqn sur qqe ch.`

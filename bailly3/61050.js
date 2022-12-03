@@ -1,1 +1,0 @@
-lar[61050]=`<b>λιθό·δερμος, ος, ον</b> <font color="purple">[ῐ]</font> dont la peau <i>ou</i> l’écaille est dure comme une pierre, ARSTT. <i>Rhet. 1, 15, 26</i>.<p><b>Étym</b>. λ. δέρμα.`

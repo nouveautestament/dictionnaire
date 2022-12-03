@@ -1,1 +1,0 @@
-lar[55240]=`<b>κηπο·ποιΐα, ας (ἡ)</b> plantation d’un jardin, GEOP. <i>12, 2, 1</i>.<p><b>Étym</b>. κῆπος, ποιέω.`

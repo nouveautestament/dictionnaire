@@ -1,1 +1,0 @@
-lar[82571]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. très riche, DL. <i>6, 28</i>.<p><b>Étym</b>. πολυχρήματος.`

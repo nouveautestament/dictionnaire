@@ -1,1 +1,0 @@
-lar[81285]=`<b>οῦ (ὁ)</b> <i>lat</i>. podismus, action de mesurer par pieds, VÉG. <i>Mil. 2, 7 ; 3, 15</i>.<p><b>Étym</b>. ποδίζω.`

@@ -1,1 +1,0 @@
-lar[56423]=`<b>ου (τὸ)</b> ceinture où l’on mettait son argent, TH. <i>Char. 18, 1 dout</i>.<p><b>Étym</b>. κοιλία, ἔχω.`

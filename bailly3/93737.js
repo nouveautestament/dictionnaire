@@ -1,1 +1,0 @@
-lar[93737]=`<b>συλ·αγωγέω-ῶ</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> emporter comme butin, enlever, <i>acc</i>. HLD. <i>10, 35 ; fig</i>. NT. <i>Col. 2, 8</i>.<br><b>      2</b> piller, dévaster, <i>acc</i>. ARISTÉN. <i>2, 22</i>.<p><b>Étym</b>. σῦλον, ἀγωγός.`

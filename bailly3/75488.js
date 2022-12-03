@@ -1,1 +1,0 @@
-lar[75488]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> propre à servir d’exemple, PHIL. <i>1, 18</i> ; HERMOG. <i>Rhet. 145, 12</i>.<p><b>Étym</b>. παράδειγμα.`

@@ -1,1 +1,0 @@
-lar[103328]=`<b>ὑπο·καταβαίνω :<br>      1</b> descendre tout à fait en bas, <i>ou simpl</i>. descendre, XÉN. <i>An. 7, 4, 11</i> ; DC. <i>40, 26</i>.<br><b>      2</b> descendre peu à peu, HDT. <i>2, 15, etc. ; fig</i>. céder <i>ou</i> se relâcher peu à peu, HPC. <i>1243c.</i><br><b>      3</b> descendre secrètement, THC. <i>7, 60</i>.`

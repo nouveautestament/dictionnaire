@@ -1,1 +1,0 @@
-lar[15474]=`(<i>seul. prés</i>.) <font color="purple">[ᾰῠ]</font> <i>att. c</i>. ἀρύω¹ PLAT. <i>Phædr. 253a.</i><br><b><i>Moy.</i></b> (<i>seul. prés</i>.) PLAT. <i>Ion 534a, etc</i>.`

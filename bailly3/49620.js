@@ -1,1 +1,0 @@
-lar[49620]=`<b>ἰσό·δενδρος, ος, ον</b> <font color="purple">[ῑ̆]</font> égal à un arbre, PD. <i>fr. 146</i>.<p><b>Étym</b>. ἴ. δένδρον.`

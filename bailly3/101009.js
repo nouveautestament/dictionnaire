@@ -1,1 +1,0 @@
-lar[101009]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. τυμβεῖος, ORPH. <i>Arg. 575 ; H. proœm. 47, 71</i>.`

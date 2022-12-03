@@ -1,1 +1,0 @@
-lar[33129]=`<font color="purple">[ῐ]</font> (<i>seul. lat. gén</i>. embolimæi) <i>adj. m</i>. intercalaire, AUSON. <i>Eclog. de rat. dier. 12</i>.<p><b>Étym</b>. ἐμβόλιμος.`

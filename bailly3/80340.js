@@ -1,1 +1,0 @@
-lar[80340]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> <i>dim. de</i> πίναξ, AR. <i>Pl. 813, etc.</i> ; LYNC. (<i>Com. fr. 4, 433</i>) ; PHÉRÉCR. (<i>Com. fr. 2, 300</i>).`

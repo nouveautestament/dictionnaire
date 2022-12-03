@@ -1,1 +1,0 @@
-lar[7754]=`<b>οῦ (ὁ)</b> reconstruction de murs, XÉN. <i>Hell. 4, 8, 9</i>.`

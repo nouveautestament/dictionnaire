@@ -1,1 +1,0 @@
-lar[42909]=`<b>ας (ἡ)</b> bonne éducation, EUR. <i>fr. 1084</i> ; ARÉT. <i>p. 32, 2</i>.<p><b>Étym</b>. εὐπαίδευτος.`

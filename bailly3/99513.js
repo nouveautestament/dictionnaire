@@ -1,1 +1,0 @@
-lar[99513]=`<b>τοκο·γλύφος, ου (ὁ)</b> <font color="purple">[ῠ]</font> prêteur rapace, usurier avide (<i>v</i>. τοκογλυφέω) ANTH. <i>9, 570</i> ; PLUT. <i>M. 18e ;</i> LUC. <i>Nec. 11, V. auct. 23</i>.<p><b>Étym</b>. τόκος, γλύφω.`

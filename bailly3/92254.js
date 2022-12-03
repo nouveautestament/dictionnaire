@@ -1,1 +1,0 @@
-lar[92254]=`<b>στεατο·κήλη, ης (ἡ)</b> <font color="purple">[ᾱ]</font> tumeur graisseuse, GAL. <i>2, 396</i>.<p><b>Étym</b>. στέαρ, κήλη.`

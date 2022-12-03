@@ -1,1 +1,0 @@
-lar[80071]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> <i>t. de phil</i>. grandeur, <i>d’où</i> quantité, NICOM. <i>Arithm. 75</i> ; DYSC. <i>Pron. 292, etc</i>.<p><b>Étym</b>. πηλικός.`

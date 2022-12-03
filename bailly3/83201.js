@@ -1,1 +1,0 @@
-lar[83201]=`faire du butin, DC. <i>fr. Vat. p. 144</i>.<p><b>Étym</b>. <i>lat</i>. prædor.`

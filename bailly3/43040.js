@@ -1,1 +1,0 @@
-lar[43040]=`<b>ας</b>, <i>adj. f</i>. qui donne une heureuse navigation, <i>ép. d’Aphrodite chez les Cnidiens,</i> PAUS. <i>1, 1, 3</i>.<p><b>Étym</b>. εὔπλοος.`

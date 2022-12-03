@@ -1,1 +1,0 @@
-lar[93335]=`<b>συγ·καταλύω</b>, <i>anc. att</i>. <b>ξυγ·καταλύω :<br>      1 <i>tr.</i></b> aider à dissoudre, à détruire, THC. <i>8, 68</i> ; AND. <i>13, 39</i> ; LYS. <i>146, 7 ; avec un acc. de pers</i>. PLUT. <i>Pomp. 67</i> ; ἅμα τινί, DH. <i>Isocr. 1,</i> avec qqn.<br><b>      2 <i>intr.</i></b> faire une halte, s’arrêter qqe part avec qqn, PLUT. <i>M. 94a</i>.`

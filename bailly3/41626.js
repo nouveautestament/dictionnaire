@@ -1,1 +1,0 @@
-lar[41626]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., de manière à répondre facilement, ARTÉM. <i>4, 63</i>.`

@@ -1,1 +1,0 @@
-lar[64416]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῐδ]</font> l’î. des Méropes, <i>càd</i>. de Kos, CALL. <i>Del. 160</i>.<p><b>Étym</b>. Μέροπες.`

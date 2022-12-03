@@ -1,1 +1,0 @@
-lar[64187]=`<b>μελο·ποιός, οῦ (ὁ, ἡ) :<br>      1</b> qui compose des chants, poète lyrique, AR. <i>Ran. 1250</i> ; PLAT. <i>Prot. 326b ; au fém</i>. LUC. <i>Im. 18</i>.<br><b>      2</b> chanteur (<i>rossignol</i>) EUR. <i>Rhes. 550</i>.<p><b>Étym</b>. μέλος, ποιέω.`

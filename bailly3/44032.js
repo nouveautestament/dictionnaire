@@ -1,1 +1,0 @@
-lar[44032]=`<b>ἔφ·ηλος, ος, ον :<br>      1</b> qui a une tache blanche sur l’œil, EL. <i>N.A. 15, 18</i> ; POÈT. (EM. <i>714, 6</i>).<br><b>      2</b> brûlé par le soleil, SPT. <i>Lev. 21, 20</i>.<p><b>Étym</b>. ἐπί, ἥλιος.`

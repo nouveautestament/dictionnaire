@@ -1,1 +1,0 @@
-lar[107720]=`<b>χαλκο·χάρμης, ου</b>, <i>adj. m</i>. qui combat avec une armure d’airain, PD. <i>P. 5, 109</i>.<p><b>Étym</b>. χ. χάρμη.`

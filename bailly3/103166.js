@@ -1,1 +1,0 @@
-lar[103166]=`<b>ὑπο·διασπάω-ῶ</b>, écarter l’un de l’autre légèrement, HPC. <i>Epid. 1, 986</i>.`

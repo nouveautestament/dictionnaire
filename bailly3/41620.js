@@ -1,1 +1,0 @@
-lar[41620]=`<b>εὐ·απόβατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> où l’on peut facilement aborder <i>ou</i> débarquer, THC. <i>4, 30 au cp</i>. -ώτερος.<p><b>Étym</b>. εὖ, ἀποβαίνω.`

@@ -1,1 +1,0 @@
-lar[85878]=`<b>προσ·θροέω-οῶ</b>, adresser la parole à, <i>acc</i>. ESCHL. <i>Pr. 595</i>.`

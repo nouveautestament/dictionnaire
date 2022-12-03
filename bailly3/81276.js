@@ -1,1 +1,0 @@
-lar[81276]=`<b>ποδηρο·φορέω-ῶ</b>, porter une robe qui descend jusqu’aux pieds, CLÉM. <i>250</i>.<p><b>Étym</b>. ποδήρης, φέρω.`

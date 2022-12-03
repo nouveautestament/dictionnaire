@@ -1,1 +1,0 @@
-lar[14757]=`<b>ἀριστο·τόκος</b> <font color="purple">[ᾰ]</font> <i>adj. f. c</i>. ἀριστοτόκεια OPP. <i>C. 3, 62</i> ; ANTH. <i>8, 135</i>.<p><b>Étym</b>. ἄ. τίκτω.`

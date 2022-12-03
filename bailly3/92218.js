@@ -1,1 +1,0 @@
-lar[92218]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῠῐδ]</font><br><b>      1</b> petite grappe de raisin, THCR. <i>Idyl. 27, 9</i>.<br><b>      2</b> petite tumeur sur la luette, HPC. <i>471, 4</i>.<p><b>Étym</b>. σταφυλή.`

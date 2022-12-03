@@ -1,1 +1,0 @@
-lar[96260]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> commandement d’une compagnie, d’un bataillon, ARR. <i>Tact. 10, 3</i>.<p><b>Étym</b>. συνταγματάρχης.`

@@ -1,1 +1,0 @@
-lar[46207]=`<b>θαλέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. θάλλω, Q. SM. <i>11, 96</i> ; NONN. <i>D. 15, 78</i>.<p>➳ <i>Impf. itér. 3 sg</i>. θαλέεσκε, MOSCH. <i>2, 67</i> (<i>var</i>. θαλέθεσκε, <i>v</i>. θαλεθέσκω).`

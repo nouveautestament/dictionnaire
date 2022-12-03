@@ -1,1 +1,0 @@
-lar[94860]=`<b>συν·απόδημος, ος, ον</b>, compagnon de voyage en pays étranger, ARSTT. <i>Pol. 2, 5, 4</i>.`

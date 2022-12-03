@@ -1,1 +1,0 @@
-lar[12404]=`<b>ἀπο·θεωρέω-ῶ</b>, observer de loin, ARSTT. <i>Mir. 104</i> ; POL. <i>27, 4, 4</i>.`

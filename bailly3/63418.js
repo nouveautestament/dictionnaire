@@ -1,1 +1,0 @@
-lar[63418]=`<b>μεγαλορρημονέω-ῶ</b> <font color="purple">[ᾰ]</font> faire de grandes phrases, parler avec emphase, STR. <i>601</i>.<p><b>Étym</b>. μεγαλορρήμων.`

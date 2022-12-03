@@ -1,1 +1,0 @@
-lar[6474]=`<b>ἀμφ·ώδους, -ώδοντος (ὁ, ἡ)</b> à double rangée de dents, ARSTT. <i>H.A. 2, 1, 50</i> ; ὁ ἀ. LYC. <i>1401,</i> l’âne, à cause de ses larges dents.<p><b>Étym</b>. ἀ. ὀδούς.`

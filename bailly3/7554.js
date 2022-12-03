@@ -1,1 +1,0 @@
-lar[7554]=`<b>εως (ἡ)</b> déchirement, rupture, PLUT. <i>Ant. 66</i> ; τῶν αἱμάτων ἀν. HPC. <i>91d</i>, rupture des vaisseaux sanguins, <i>d’où</i> hémorrhagie.<p><b>Étym</b>. ἀναρρήγνυμι.`

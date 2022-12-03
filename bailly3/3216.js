@@ -1,1 +1,0 @@
-lar[3216]=`<b>ἀ·κατάσκοπος, ος, ον</b>, qui n’attire pas les regards, CLÉM. <i>1, 657 Migne</i>.`

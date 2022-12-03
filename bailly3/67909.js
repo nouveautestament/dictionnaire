@@ -1,1 +1,0 @@
-lar[67909]=`<b>νεβριδό·πεπλος, ος, ον</b> <font color="purple">[ῐ]</font> dont la tunique est une peau de faon, ANTH. <i>9, 524, 14</i>.<p><b>Étym</b>. νεβρίς, πέπλος.`

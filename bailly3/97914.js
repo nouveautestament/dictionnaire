@@ -1,1 +1,0 @@
-lar[97914]=`<b>ταχύ·πους, -πους, -πουν</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> aux pieds agiles, EUR. <i>Bacch. 782, etc.</i> ; AR. <i>Eq. 1068</i>.<p><b>Étym</b>. τ. πούς.`

@@ -1,1 +1,0 @@
-lar[22827]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> semblable à une femme, efféminé, DS. <i>2, 24</i> ; LUC. <i>Nigr. 11 ; joint à</i> ἀγεννής, POL. <i>2, 56, 9 ; à</i> ἄνανδρος, PLUT. <i>Sol. 21</i>.<p><b>Étym</b>. <i>th</i>. γυναικ- <i>de</i> γυνή, -ωδης.`

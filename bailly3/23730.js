@@ -1,1 +1,0 @@
-lar[23730]=`<b>δεκά·χαλκον, ου (τὸ)</b> <font color="purple">[κᾰ]</font> denier romain valant dix as (<i>ou</i> sols) de cuivre, PLUT. <i>Cam. 13</i>.<p><b>Étym</b>. δ. χαλκός.`

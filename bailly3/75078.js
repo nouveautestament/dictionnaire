@@ -1,1 +1,0 @@
-lar[75078]=`<b>Παν·ίωνες, ων (οἱ)</b> <font color="purple">[ᾰ]</font> la confédération des Ioniens, EUST. <i>1414, 36</i>.<p><b>Étym</b>. π. Ἴωνες.`

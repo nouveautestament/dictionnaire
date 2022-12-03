@@ -1,1 +1,0 @@
-lar[37042]=`<b>ἐπ·εκφέρω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐπεξέφερε)</font> produire contre, susciter contre, PLUT. <i>Alex. 26</i>.`

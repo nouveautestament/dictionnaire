@@ -1,1 +1,0 @@
-lar[11911]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>pass</i>. absence de souffrance, THGN. <i>758</i> ; ANTH. <i>11, 382</i>.<br><b>      2</b> <i>act</i>. innocuité, OPP. <i>H. 2, 647</i>.<p><b>Étym</b>. ἀπήμων.`

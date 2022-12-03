@@ -1,1 +1,0 @@
-lar[106475]=`<b>ας (ἡ)</b> = <i>lat</i>. Flora, <i>déesse des fleurs, à Rome,</i> PLUT. <i>Pomp. 2, 53</i>.`

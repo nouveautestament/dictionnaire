@@ -1,1 +1,0 @@
-lar[98852]=`<b>ή, όν</b>, fait par l’art, artificiel, HPC. <i>Off. 740 ; p. opp. à</i> θεῖος, PLUT. <i>Per. 6</i> ; THÉM. <i>303c</i>.<p><b>Étym</b>. τεχνάω.`

@@ -1,1 +1,0 @@
-lar[95110]=`<b>συν·διακοσμέω-ῶ</b>, régler <i>ou</i> organiser en même temps, PLAT. <i>Leg. 712b ;</i> PLUT. <i>Num. 1, Sol. 26</i>.`

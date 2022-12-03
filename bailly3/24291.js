@@ -1,1 +1,0 @@
-lar[24291]=`<b>οῦ (ὁ) :<br>      1</b> graisse des animaux (<i>lat</i>. omentum) <i>particul</i>. des bœufs et des brebis, IL. <i>22, 501 ; 23, 750, etc.</i> ; OD. <i>14, 428, etc.</i> ; HÉS. <i>Th. 538</i> ; AR. <i>Vesp. 40 ; en parl. d’anguilles,</i> ARSTT. <i>H.A. 8, 2</i>.<br><b>      2</b> <i>rar</i>. graisse de l’homme, IL. <i>8, 380</i>.<p><b>Étym</b>. <i>inconnue</i>.`

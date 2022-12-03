@@ -1,1 +1,0 @@
-lar[66925]=`<b>μουσο·πρόσωπος, ος, ον</b>, qui a les traits d’une Muse, ANTH. <i>9, 570</i>.<p><b>Étym</b>. μ. πρόσωπον.`

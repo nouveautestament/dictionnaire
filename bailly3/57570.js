@@ -1,1 +1,0 @@
-lar[57570]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> cornouiller, <i>arbre,</i> GEOP. <i>7, 35, 1 ; cf</i>. κράνεια.`

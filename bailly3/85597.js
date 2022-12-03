@@ -1,1 +1,0 @@
-lar[85597]=`<b>προσ·εντείνω</b> <font color="darkgreen">(<i>ao</i>. -ενέτεινα, <i>etc</i>.)</font> étendre <i>ou</i> allonger encore : πληγάς τινι, DÉM. <i>528, 25</i> ; LUC. <i>Tim. 47,</i> asséner de nouveaux coups ; προσεντείνειν ἑτέρας (<i>s.-e</i>. πληγάς) PLUT. <i>M. 237d, m. sign</i>.`

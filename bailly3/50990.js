@@ -1,1 +1,0 @@
-lar[50990]=`<b>καλαμο·βόας, ου (ὁ)</b> <font color="purple">[ᾰᾰᾱ]</font> <i>propr</i>. « qui crie avec son roseau », <i>sobriquet d’un philosophe qui n’osait discuter avec Carnéade que le roseau (càd. la plume) à la main,</i> PLUT. <i>M. 514d</i>.<p><b>Étym</b>. κάλαμος, βοάω.`

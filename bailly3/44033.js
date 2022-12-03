@@ -1,1 +1,0 @@
-lar[44033]=`<b>ητος (ἡ)</b> tache blanche sur l’œil, SEXT. <i>M. 7, 23</i>.<p><b>Étym</b>. ἔφηλος.`

@@ -1,1 +1,0 @@
-lar[91360]=`<b>έως (ὁ)</b> <font color="purple">[ῡ]</font> tout ouvrier travaillant le cuir, <i>particul</i>. cordonnier, AR. <i>Av. 491</i> ; XÉN. <i>Mem. 1, 2, 37 ; 4, 4, 5</i> ; PLAT. <i>Rsp. 601c, Gorg. 491a</i>.<p><b>Étym</b>. σκῦτος.`

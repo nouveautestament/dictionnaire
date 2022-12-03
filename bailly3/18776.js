@@ -1,1 +1,0 @@
-lar[18776]=`<b>βαθύ·μαλλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à l’épaisse toison, PD. <i>P. 4, 161</i> ; APP. <i>Mithr. 103</i>.<p><b>Étym</b>. β. μαλλός.`

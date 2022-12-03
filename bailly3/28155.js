@@ -1,1 +1,0 @@
-lar[28155]=`<b>δυσ·αλθής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> difficile à guérir, HPC. <i>807d ;</i> PLAT. <i>Ax. 367b ;</i> CHRISTOD. <i>Ecphr. 179, 188 ; adv</i>. δυσαλθέα, Q. SM. <i>12, 408,</i> incurablement.<br><b>      2</b> <i>p. ext</i>. mortel, NIC. <i>Al. 12, 157</i>.<p><b>Étym</b>. δ. ἀλθαίνω.`

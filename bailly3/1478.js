@@ -1,1 +1,0 @@
-lar[1478]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui convient à un bavard ; τὸ ἀδ. PLAT. <i>Soph. 225d</i>, bavardage.`

@@ -1,1 +1,0 @@
-lar[17645]=`<b>αὐτό·ποκος, ος, ον</b>, avec la toison même, <i>en parl. d’un vêtement de laine brute, encore garni de la toison,</i> COM. (POLL. <i>7, 61).</i><p><b>Étym</b>. αὐ. πόκος.`

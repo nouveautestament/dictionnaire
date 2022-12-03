@@ -1,1 +1,0 @@
-lar[13511]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> constriction, compression, HPC. <i>744f, etc</i>.<p><b>Étym</b>. ἀποσφίγγω.`

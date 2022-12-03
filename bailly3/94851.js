@@ -1,1 +1,0 @@
-lar[94851]=`<b>συν·αποβρέχω</b>, mouiller <i>ou</i> plonger en même temps, DIOSC. <i>1, 57</i>.`

@@ -1,1 +1,0 @@
-lar[54235]=`<b>κατ·ωμαδόν</b> <font color="purple">[μᾰ]</font><br><b>      1</b> en atteignant, en frappant à l’épaule, IL. <i>15, 352 ; 23, 500</i>.<br><b>      2</b> sur l’épaule, sur les épaules, A.RH. <i>2, 679</i>.<p><b>Étym</b>. κ. ὦμος, -δόν.`

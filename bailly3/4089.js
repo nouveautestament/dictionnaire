@@ -1,1 +1,0 @@
-lar[4089]=`(<i>seul. ao</i>.) <font color="purple">[ᾰᾰ]</font> aveugler, priver, ANTH. <i>7, 601</i> ; ἀ. ὀφθαλμοῦ, OD. <i>1, 69 ; 9, 516,</i> priver d’un œil.<p>➳ <i>Ao. ind. 3 sg</i>. ἀλάωσε, OD. ANTH. <i>ll. cc. ; inf</i>. -αῶσαι, OD. <i>9, 504 ; part</i>. -αώσας, OPP. <i>C. 3, 228</i>.<p><b>Étym</b>. ἀλαός.`

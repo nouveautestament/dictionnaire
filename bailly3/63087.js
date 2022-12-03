@@ -1,1 +1,0 @@
-lar[63087]=`<b>ου (τὸ)</b> <font color="purple">[τῑ]</font> <i>dim. de</i> μάστιξ, M. ANT. <i>10, 38</i>.`

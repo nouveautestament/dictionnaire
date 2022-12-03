@@ -1,1 +1,0 @@
-lar[11521]=`<b>ας (ἡ) :<br>      1</b> désobéissance, XÉN. <i>Mem. 3, 5, 5</i> ; DH. <i>9, 41 et 50</i> ; PLUT. <i>Æmil. 31</i> ; ARR. <i>Epict. 3, 24, 24</i> ; πρός τι, CLÉM. <i>159,</i> désobéissance à qqe ch.<br><b>      2</b> défiance, incrédulité, NT. <i>Eph. 5, 7</i>.<p><b>Étym</b>. ἀπειθής.`

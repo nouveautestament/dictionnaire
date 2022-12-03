@@ -1,1 +1,0 @@
-lar[17243]=`<b>ης (ἡ)</b> croissance, HPC. <i>238, 4</i> ; PLAT. <i>Rsp. 509b, etc.</i> ; ARSTT. <i>H.A. 7, 1, etc.</i> ; TH. EL. <i>etc. ; au plur</i>. PLAT. <i>Phil. 42d</i>.<p><b>Étym</b>. αὔξω.`

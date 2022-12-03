@@ -1,1 +1,0 @@
-lar[52353]=`<b>ατος (τὸ)</b> déchirure, écorchure, égratignure, EUR. <i>Suppl. 52</i>.<p><b>Étym</b>. καταδρύπτω.`

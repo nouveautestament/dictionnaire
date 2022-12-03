@@ -1,1 +1,0 @@
-lar[28292]=`<b>δυσ·διάθετος, ος, ον :<br>      1</b> difficile à disposer, à arranger, PLUT. <i>Cæs. 11, M. 1047e ;</i> DC. <i>73, 15</i>.<br><b>      2</b> difficile à placer, <i>en parl. d’une fille à marier,</i> MÉN. (STOB. <i>Fl. 75, 6).</i><p><b>Étym</b>. δ. διατίθημι.`

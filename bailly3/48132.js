@@ -1,1 +1,0 @@
-lar[48132]=`<b>ή, όν</b>, propre à flatter, qui convient pour flatter, PLAT. <i>Leg. 634a ;</i> ARSTT. <i>H.A. 1, 1, 33</i>.<p><b>Étym</b>. θωπεύω.`

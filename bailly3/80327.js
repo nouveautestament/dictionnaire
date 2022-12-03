@@ -1,1 +1,0 @@
-lar[80327]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Pimpleia, A.RH. <i>1, 25 ; au plur. en parl. des Muses,</i> ANTH. <i>5, 206</i>.<p><b>Étym</b>. Πίμπλεια.`

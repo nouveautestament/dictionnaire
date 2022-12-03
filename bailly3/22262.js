@@ -1,1 +1,0 @@
-lar[22262]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> fils <i>ou</i> descendant de Gnathôn, <i>n. de parasite,</i> PLUT. <i>Tim. 45</i> ; LUC. <i>Fug. 19</i>.<p><b>Étym</b>. Γνάθων.`

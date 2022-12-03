@@ -1,1 +1,0 @@
-lar[83733]=`<b>προ·αυξής, ής, ές :<br>      1</b> qui se développe avant l’âge, HPC. <i>Art. 827</i>.<br><b>      2</b> qui affecte seulement les adultes, GAL. <i>Lex. Hipp. 19, 132</i>.<p><b>Étym</b>. π. αὔξω.`

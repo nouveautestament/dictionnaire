@@ -1,1 +1,0 @@
-lar[86253]=`<b>προσ·παθέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir un goût passionné pour : τινι, ARR. <i>Epict. 4, 1, 77</i> ; πρός τι, ARR. <i>Epict. 3, 24, 82,</i> pour qqe ch.<p><b>Étym</b>. π. πάθος.`

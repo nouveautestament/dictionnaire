@@ -1,1 +1,0 @@
-lar[95172]=`<b>συν·διαφυλάσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[φῠ]</font><br><b>      1</b> contribuer à garder, à veiller sur, LYCURG. <i>168, 16</i>.<br><b>      2</b> garder <i>ou</i> conserver avec : τινὶ τὴν ἀρχήν, POL. <i>7, 3, 7,</i> conserver le pouvoir avec qqn ; <i>cf</i>. POL. <i>31, 19, 11</i> ; PLUT. <i>Dio. c. Brut. 3</i>.`

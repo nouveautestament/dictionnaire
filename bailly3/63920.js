@@ -1,1 +1,0 @@
-lar[63920]=`<b>ας (ἡ)</b> noir de cordonnier, ARSTT. <i>Col. 4, 1</i> ; DIOSC. <i>5, 118</i> ; LUC. <i>Cat. 15</i>.<p><b>Étym</b>. μελαίνω.`

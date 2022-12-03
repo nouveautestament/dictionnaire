@@ -1,1 +1,0 @@
-lar[79598]=`<b>περι·φλιδάω</b> (<i>part. prés. épq</i>. περιφλιδόων) être bourrelé (de graisse) NIC. <i>Al. 62</i>.`

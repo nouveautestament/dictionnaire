@@ -1,1 +1,0 @@
-lar[15264]=`<i>ou</i> <b>Ἀρτοξέρξης, ου</b>, <i>acc</i>. <b>ην (ὁ)</b> Artaxerxès <i>ou</i> Artoxerxès, <i>n. de plus. rois de Perse,</i> HDT. <i>6, 98, etc.</i> ; THC. <i>1, 104, etc</i>.<p><b>Étym</b>. <i>persan</i> Arta-Khshatrâ, <i>litt</i>. « le maître souverain ».`

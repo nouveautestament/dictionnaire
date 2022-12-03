@@ -1,1 +1,0 @@
-lar[83320]=`<b>ης, ες</b>, qui ressemble à une souche, TH. <i>H.P. 4, 10, 5</i>.<p><b>Étym</b>. πρέμνον, -ωδης.`

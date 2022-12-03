@@ -1,1 +1,0 @@
-lar[90995]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑ]</font> Skirôn, <i>brigand tué par Thésée,</i> XÉN. <i>Mem. 2, 1, 14</i> ; ARSTT. <i>Rhet. 33, etc</i>.`

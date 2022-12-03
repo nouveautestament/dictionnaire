@@ -1,1 +1,0 @@
-lar[82277]=`<b>πολυ·ποίκιλος, ος, ον</b> <font color="purple">[ῠῐ]</font> très varié, EUR. <i>I.T. 1150</i> ; EUB. <i>3, 252 Meineke</i> ; ORPH. <i>H. 5, 11, etc</i>.<p><b>Étym</b>. π. ποικίλος.`

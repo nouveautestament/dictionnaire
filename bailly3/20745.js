@@ -1,1 +1,0 @@
-lar[20745]=`<b>βραχυ·φωνία, ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> voix courte, <i>d’où</i> voix faible, POLYEN <i>1, 21, 2</i>.<p><b>Étym</b>. βρ. φωνή.`

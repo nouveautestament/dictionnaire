@@ -1,1 +1,0 @@
-lar[106434]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de travailler l’écorce pour en tresser des nattes, PLAT. <i>Pol. 288d</i>.<p><b>Étym</b>. φλοΐζω.`

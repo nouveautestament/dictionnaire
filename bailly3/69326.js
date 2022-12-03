@@ -1,1 +1,0 @@
-lar[69326]=`<b>ων (τὰ)</b> les Nôres, <i>mt. de Cappadoce,</i> PLUT. <i>Eum. 10</i>.`

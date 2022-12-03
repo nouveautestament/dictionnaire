@@ -1,1 +1,0 @@
-lar[1472]=`<b>ἀ·δοκίμαστος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a pas encore subi l’épreuve de la δοκιμασία, LYS. <i>140, 14, etc.</i> ; ESCHN. <i>56, 3, etc</i>.<p><b>Étym</b>. ἀ, δοκιμάζω.`

@@ -1,1 +1,0 @@
-lar[103636]=`<b>ὕπ·οξυς, υς, υ</b>, <i>gén</i>. <b>εος</b>, un peu aigre, un peu acide, DIOSC. <i>2, 98</i>.<p><b>Étym</b>. ὑ. ὀξύς.`

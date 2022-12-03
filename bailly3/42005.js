@@ -1,1 +1,0 @@
-lar[42005]=`<b>εὐ·επήβολος</b>, <i>ou</i> <b>εὐ·επίβολος, ος, ον :<br>      1</b> <i>act</i>. qui obtient facilement ce qu’il désire, habile, SEXT. <i>M. 7, 322</i>.<br><b>      2</b> <i>pass</i>. facile à atteindre, à obtenir, PTOL. <i>p. 199, 25 Halm</i>.`

@@ -1,1 +1,0 @@
-lar[73707]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> hampe de la lance <i>destinée à recevoir un fer pointu qui servait à planter l’arme en terre,</i> IL. <i>13, 443 ; 16, 612 ; 17, 528, etc.</i> ; A.RH. <i>3, 1253, 1287</i> ; ANTH. <i>6, 111</i>.<p><b>Étym</b>. οὐρά.`

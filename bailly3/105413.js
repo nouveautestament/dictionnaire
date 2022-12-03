@@ -1,1 +1,0 @@
-lar[105413]=`<b>φιλ·αγέννητος, ος, ον</b>, qui admet un Dieu non engendré, NAZ. <i>t. 1, 209</i>.<p><b>Étym</b>. φίλος, ἀγέννητος.`

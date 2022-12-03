@@ -1,1 +1,0 @@
-lar[81072]=`<b>ας (ἡ)</b> fabrication de briques, SPT. <i>Ex. 5, 8</i>.<p><b>Étym</b>. πλινθουργός.`

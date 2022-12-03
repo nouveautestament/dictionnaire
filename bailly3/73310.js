@@ -1,1 +1,0 @@
-lar[73310]=`<b>ου</b> <font color="purple">[ᾰῑ]</font><br><b>   Ι</b> <i>adj. m</i>. semblable à de la terre cuite.<br><b>   ΙΙ</b> <i>subst</i>. ὁ ὀστρ. :<br><b>      1</b> (<i>s.-e</i>. πλακοῦς) <i>sorte de gâteau,</i> ATH. <i>647f.</i><br><b>      2</b> λίθος, DIOSC. <i>5, 165,</i> ostracite, <i>pierre ou p.-ê. os de seiche</i>.<p><b>Étym</b>. ὄστρακον.`

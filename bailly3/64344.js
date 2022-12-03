@@ -1,1 +1,0 @@
-lar[64344]=`<b>έως (ὁ)</b> Ménœkée :<br><b>      1</b> <i>père de Créon,</i> SOPH. <i>O.R. 69, etc.</i> ; EUR. <i>Ph. 10, etc.</i><br><b>      2</b> <i>fils de Créon,</i> EUR. <i>Ph. 769</i>.<p>➳ <i>Voc</i>. Μενοικεῦ, EUR. <i>Ph. 841</i>.`

@@ -1,1 +1,0 @@
-lar[5758]=`<b>ἄ·μορος, ος, ον</b> : qui n’a pas sa part de :<br><b>      1</b> exempt de, <i>gén</i>. ANTH. <i>7, 465</i>.<br><b>      2</b> privé de, <i>gén</i>. EUR. <i>Med. 1395</i>.<br><b>      3</b> malheureux, SOPH. <i>O.R. 269</i>.<p><b>Étym</b>. ἀ. μείρομαι.`

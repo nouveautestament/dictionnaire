@@ -1,1 +1,0 @@
-lar[86205]=`<b>προσ·ομιλία, ας (ἡ)</b> <font color="purple">[μῑ]</font><br><b>      1</b> commerce, relation habituelle, ARÉT. <i>Cur. m. acut. 1, 1</i> ; A. APHR. <i>Probl. 1, 115</i>.<br><b>      2</b> allocution, homélie, BAS. <i>2, 825 Migne</i>.<p><b>Étym</b>. π. ὁμιλέω.`

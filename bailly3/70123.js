@@ -1,1 +1,0 @@
-lar[70123]=`<b>ος, ον</b>, qu’on peut traverser, BAS. <i>3, 467b</i>.<p><b>Étym</b>. *ὁδοιπορίζω, <i>c</i>. ὁδοιπορέω.`

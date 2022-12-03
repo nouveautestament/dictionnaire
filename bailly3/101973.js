@@ -1,1 +1,0 @@
-lar[101973]=`<b>ὑπ·ανίσχω</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. ὑπανατέλλω, EL. <i>N.A. 11, 10</i> ; PHILSTR. <i>95</i>.`

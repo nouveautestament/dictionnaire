@@ -1,1 +1,0 @@
-lar[59942]=`<b>η, ον</b> <font color="purple">[ᾰῑ]</font> = <i>lat</i>. Latinus, du Latium, des Latins, STR. <i>228</i> ; ἡ Λατίνη, TH. <i>H.P. 9, 15, 1</i> ; STR. <i>229,</i> le territoire du Latium ; οἱ Λατῖνοι, LYC. <i>1254</i> ; ORPH. <i>Arg. 1246,</i> les Latins.`

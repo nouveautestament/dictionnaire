@@ -1,1 +1,0 @@
-lar[83967]=`<b>προ·διερευνάω-ῶ</b>, explorer auparavant, DS. <i>20, 26</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. XÉN. <i>Cyr. 5, 4, 4</i>.`

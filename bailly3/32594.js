@@ -1,1 +1,0 @@
-lar[32594]=`<b>ας (ἡ)</b> = <i>lat</i>. Helvia, <i>mère de Cicéron,</i> PLUT. <i>Cic. 1</i>.`

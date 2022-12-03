@@ -1,1 +1,0 @@
-lar[2381]=`<b>ἀϊδρο·δίκης, ου (ὁ)</b> <font color="purple">[ῑῐ]</font> qui ne connaît pas la justice, injuste, PD. <i>N. 1, 63</i>.<p><b>Étym</b>. ἄϊδρις, δίκη.`

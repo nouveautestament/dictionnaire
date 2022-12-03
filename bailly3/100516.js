@@ -1,1 +1,0 @@
-lar[100516]=`<b>τρισ·υπόστατος, ος, ον</b> <font color="purple">[ῐῠᾰ]</font> formé de trois substances, CHRYS.<p><b>Étym</b>. τρ. ὑφίστημι.`

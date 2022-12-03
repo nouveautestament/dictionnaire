@@ -1,1 +1,0 @@
-lar[85688]=`<b>προσ·επικρατέω-ῶ</b> <font color="purple">[ᾰ]</font> vaincre encore une fois, DC. <i>44, 27</i>.`

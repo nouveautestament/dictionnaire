@@ -1,1 +1,0 @@
-lar[12742]=`<b>ἀπο·λείχω</b>, essuyer en léchant, ATH. <i>250a ;</i> NT. <i>Luc. 16, 21</i>.`

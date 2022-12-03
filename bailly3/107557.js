@@ -1,1 +1,0 @@
-lar[107557]=`<b>ης, ες</b> <font color="purple">[ᾰῐ]</font> de la forme <i>ou</i> de la grosseur d’un moellon, TH. <i>fr. 2, 65</i>.<p><b>Étym</b>. χάλιξ, -ωδης.`

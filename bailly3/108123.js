@@ -1,1 +1,0 @@
-lar[108123]=`<b>χειρο·βρώς, ῶτος (ὁ, ἡ)</b> qui mange, <i>càd</i>. use <i>ou</i> écorche les mains, <i>en parl. du ceste,</i> STÉSICH. <i>4</i>.<p><b>Étym</b>. χ. βιβρώσκω.`

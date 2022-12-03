@@ -1,1 +1,0 @@
-lar[643]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qu’on lance comme un javelot, ESCHL. <i>fr. 178</i> ; τὸ ἀγκυλητόν, ESCHL. <i>fr. 44,</i> javelot, javeline.<p><b>Étym</b>. ἀγκυλέομαι.`

@@ -1,1 +1,0 @@
-lar[27147]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> conduite d’un char, PD. <i>O. 3, 67</i>.<p><b>Étym</b>. διφρηλάτης.`

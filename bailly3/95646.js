@@ -1,1 +1,0 @@
-lar[95646]=`<b>συν·επιλαμπρύνω</b> <font color="purple">[πρῡ]</font> faire briller en même temps, PLUT. <i>M. 795a</i>.`

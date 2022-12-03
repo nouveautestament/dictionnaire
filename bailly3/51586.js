@@ -1,1 +1,0 @@
-lar[51586]=`<i>par apoc. et assimil. épq. p</i>. κατά <i>devant</i> π <i>ou</i> φ : κὰπ πεδίον, IL. <i>6, 201</i> ; κὰπ φάλαρα, IL. <i>16, 106</i>.`

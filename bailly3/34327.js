@@ -1,1 +1,0 @@
-lar[34327]=`<b>ἐνενηκοντα·εννέα</b>, <i>n. de n. indécl</i>. quatre-vingt-dix-neuf, SPT. <i>Gen. 17, 1</i>.<p><b>Étym</b>. ἐ. ἐννέα.`

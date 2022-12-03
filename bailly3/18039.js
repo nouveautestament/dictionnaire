@@ -1,1 +1,0 @@
-lar[18039]=`<b>ας (ἡ) :<br>      1</b> incorruptibilité, intégrité, SPT. <i>Sap. 2, 23</i>.<br><b>      2</b> immortalité, EPIC. (DL. <i>10, 76, 123</i>) ; CHRYSIPP. (PLUT. <i>M. 425d</i>) ; PLUT. <i>M. 881b, etc</i>.<p><b>Étym</b>. ἄφθαρτος.`

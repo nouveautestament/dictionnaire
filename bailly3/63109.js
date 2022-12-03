@@ -1,1 +1,0 @@
-lar[63109]=`<b>η, ον</b> <font color="purple">[ῐῐ]</font> fait avec la gomme du lentisque, DIOSC. <i>1, 51</i>.<p><b>Étym</b>. μαστίχη.`

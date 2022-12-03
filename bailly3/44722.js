@@ -1,1 +1,0 @@
-lar[44722]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> mauvais bouillon <i>ou</i> petit potage, AR. <i>Nub. 389</i>.<p><b>Étym</b>. ζωμός.`

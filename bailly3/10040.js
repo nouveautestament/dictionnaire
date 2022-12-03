@@ -1,1 +1,0 @@
-lar[10040]=`<b>ἀντι·λογέω-ῶ</b>, <i>c</i>. ἀντιλέγω, SOPH. <i>Ant. 377</i> ; AR. <i>Nub. 322</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ANT. (POLL. <i>2, 120</i>).`

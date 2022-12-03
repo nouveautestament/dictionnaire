@@ -1,1 +1,0 @@
-lar[64971]=`<b>μετα·στείχω</b> <font color="darkgreen">(<i>f</i>. -στείξω, <i>ao.2</i> μετέστιχον)</font> <font color="purple">[ῐ]</font><br><b>      1</b> courir après, se mettre en quête de, <i>acc</i>. EUR. <i>Hec. 509, etc.</i><br><b>      2</b> s’éloigner, A.RH. <i>3, 451</i>.`

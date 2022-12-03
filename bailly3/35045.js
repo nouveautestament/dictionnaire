@@ -1,1 +1,0 @@
-lar[35045]=`<b>ή, όν</b>, intestinal, ARSTT. <i>P.A. 3, 14, 14</i>.<p><b>Étym</b>. ἔντερον.`

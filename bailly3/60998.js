@@ -1,1 +1,0 @@
-lar[60998]=`<font color="purple">[ῐῠ]</font> <i>adv</i>., avec un son clair <i>ou</i> mélodieux, THCR. <i>Idyl. 8, 71</i> ; PLUT. <i>M. 874b ;</i> LUC. <i>D. mar. 8, 2, etc</i>.<p>•<i> Cp</i>. -ώτερον, PLUT. <i>M. 397a</i>.`

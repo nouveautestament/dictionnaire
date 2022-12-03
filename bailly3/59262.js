@@ -1,1 +1,0 @@
-lar[59262]=`<b>ου (τὸ)</b> petite rame, AR. <i>Ran. 269</i> ; EL. <i>N.A. 13, 19</i>.<p><b>Étym</b>. κώπη.`

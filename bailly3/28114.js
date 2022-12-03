@@ -1,1 +1,0 @@
-lar[28114]=`<b>δυο·και·πεντηκοστός, ή, όν</b>, cinquante-deuxième, ARCHIM. <i>330 Tor</i>.`

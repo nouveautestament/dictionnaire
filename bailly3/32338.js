@@ -1,1 +1,0 @@
-lar[32338]=`<b>ή, όν</b>, qui concerne l’élocution : τὸ ἐκφορικόν, PLUT. <i>M. 1113b</i>, l’élocution.<p><b>Étym</b>. ἐκφορά.`

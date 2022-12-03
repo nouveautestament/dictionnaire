@@ -1,1 +1,0 @@
-lar[57282]=`<b>κοσμο·πληθής, ής, ές</b>, qui remplit le monde, SPT. <i>4Macc. 15, 31</i>.<p><b>Étym</b>. κ. πλῆθος.`

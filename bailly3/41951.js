@@ -1,1 +1,0 @@
-lar[41951]=`<b>εὐειματέω-ῶ</b> <font color="purple">[ᾰ]</font> être richement vêtu, SOTAD. (STOB. <i>Fl. 1, 420</i>) ; ANTIPH. <i>(Bkk. 95, 32</i>) ; ARSTT. <i>Rhet. Al. 1, 2</i>.<p><b>Étym</b>. εὐείματος.`

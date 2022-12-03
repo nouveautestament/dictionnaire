@@ -1,1 +1,0 @@
-lar[95121]=`<b>συν·διαλυμαίνομαι</b> <font color="purple">[λῡ]</font> corrompre avec, DH. <i>1, 23</i>.`

@@ -1,1 +1,0 @@
-lar[21717]=`<b>οῦ (ὁ)</b> celui qui engendre <i>ou</i> produit, père, ARSTT. <i>Nic. 3, 7, 5 ; d’ord. au plur</i>. parents, SOPH. <i>O.R. 1015,</i> PLAT. <i>Crit. 51e ; Leg. 717e ;</i> CIA. <i>2, 596, 5 (336/324 av. J.-C.)</i>.<p><b>Étym</b>. γεννάω.`

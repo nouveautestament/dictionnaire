@@ -1,1 +1,0 @@
-lar[45267]=`<b>ιδος</b>, <i>acc</i>. <b>ιν</b>, <i>adj. f</i>. du soleil, SOPH. <i>Tr. 697</i>.<p>➳ <i>Poét</i>. ἠελιῶτις, ANTH. <i>7, 601</i>.<p><b>Étym</b>. <i>fém. de</i> ἡλιώτης.`

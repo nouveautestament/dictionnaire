@@ -1,1 +1,0 @@
-lar[74210]=`<b>ή, όν</b> <font color="purple">[ᾱν]</font> qui concerne le péan, ATH. <i>696d</i>.<p><b>Étym</b>. παιάν.`

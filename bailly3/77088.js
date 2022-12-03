@@ -1,1 +1,0 @@
-lar[77088]=`<b>ή, όν</b> <font color="purple">[ρᾱ]</font> qui regarde avec indifférence, insouciant de, <i>gén</i>. PLUT. <i>M. 716b</i>.<p><b>Étym</b>. παροράω.`

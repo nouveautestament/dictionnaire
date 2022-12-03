@@ -1,1 +1,0 @@
-lar[52297]=`<b>κατά·δενδρος, ος, ον</b>, couvert d’arbres, NYMPHOD. (ATH. <i>265d</i>) ; DS. <i>17, 68, etc</i>.<p><b>Étym</b>. κ. δένδρον.`

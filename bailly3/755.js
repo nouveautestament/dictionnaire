@@ -1,1 +1,0 @@
-lar[755]=`<b>ου (ὁ)</b> le fils d’Hagnias (Tiphys) A.RH. <i>1, 105, etc</i>.<p><b>Étym</b>. Ἁγνίας.`

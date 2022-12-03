@@ -1,1 +1,0 @@
-lar[37778]=`<b>ἐπι·θάπτω</b>, ensevelir de nouveau, PHILSTR. <i>670</i>.`

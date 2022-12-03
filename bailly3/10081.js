@@ -1,1 +1,0 @@
-lar[10081]=`<b>ῆς (ἡ)</b> <i>t. de rhét</i>. réversion <i>ou</i> répétition de mots dans un ordre inverse (<i>p. ex</i>. non ut edam vivo, sed ut vivam edo) LGN <i>23</i>.<p><b>Étym</b>. ἀντιμεταβάλλω.`

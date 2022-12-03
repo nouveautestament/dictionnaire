@@ -1,1 +1,0 @@
-lar[106409]=`<b>ή, όν :<br>      1</b> consumé par la flamme, SOPH. <i>El. 58</i>.<br><b>      2</b> inflammable, ARSTT. <i>Meteor. 4, 9, 30</i>.<p><b>Étym</b>. φλογίζω.`

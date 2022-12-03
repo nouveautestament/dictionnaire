@@ -1,1 +1,0 @@
-lar[61382]=`<i>mieux que</i> <b>λειπυρίας, ου (ὁ)</b> <font color="purple">[λῐ]</font> <i>s.-e</i>. πυρετός, <i>c</i>. λιπυρία HPC. <i>479, 20</i>.`

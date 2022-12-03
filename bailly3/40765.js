@@ -1,1 +1,0 @@
-lar[40765]=`<b>(ἡ)</b> la Motte-Rouge, <i>v. d’Égypte,</i> HDT. <i>2, 111</i>.`

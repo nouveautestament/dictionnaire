@@ -1,1 +1,0 @@
-lar[32060]=`<font color="purple">[ᾰ]</font> <i>adv</i>., ἐκστ. ἔχειν, être hors de soi, être égaré <i>ou</i> furieux, POL. <i>15, 13, 6,</i> PLUT. <i>Dio. 55</i>.`

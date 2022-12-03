@@ -1,1 +1,0 @@
-lar[28027]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> emplacement fermé d’une balustrade, STR. <i>629</i>.<p><b>Étym</b>. δρυφακτόω.`

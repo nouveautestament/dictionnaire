@@ -1,1 +1,0 @@
-lar[60423]=`<b>λεπτό·μιτος, ος, ον</b> <font color="purple">[ῐ]</font> à trame fine, finement tissé, EUR. <i>Andr. 832</i> ; A.RH. <i>2, 31 ; fig</i>. ANTH. <i>6, 11</i>.<p><b>Étym</b>. λ. μίτος.`

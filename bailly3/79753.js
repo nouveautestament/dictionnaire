@@ -1,1 +1,0 @@
-lar[79753]=`<b>ας (ἡ)</b> légèreté, frivolité, étourderie, CLÉM. <i>251, etc</i>.<p><b>Étym</b>. πέρπερος.`

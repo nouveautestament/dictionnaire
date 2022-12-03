@@ -1,1 +1,0 @@
-lar[23898]=`<b>δεξιό·γυιος, ος, ον</b>, aux membres agiles, souple, adroit, PD. <i>O. 9, 111</i>.<p><b>Étym</b>. δεξιός, γυῖον.`

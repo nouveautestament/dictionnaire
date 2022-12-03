@@ -1,1 +1,0 @@
-lar[3420]=`<b>ἄ·κλεπτος, ος, ον</b>, qui ne dérobe rien, qui ne trompe pas, SOPH. <i>fr. 615</i>.<p><b>Étym</b>. ἀ, κλέπτω.`

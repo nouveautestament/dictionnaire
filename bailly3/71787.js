@@ -1,1 +1,0 @@
-lar[71787]=`<font color="purple">[ᾰ]</font> n’être pas encore mûr, être vert, acide, GEOP. <i>3, 13, 5, etc.</i><br><b><i>Moy.</i></b> cueillir le raisin encore vert ; <font color="blue"><i>prov.</i> : Σικελὸς ὀμφακίζεται</font>, EPICH. (ZÉNOB. <i>5, 84</i>) le Sicilien cueille le raisin encore vert, <i>en parl. d’un homme trop pressé de jouir</i>.<p><b>Étym</b>. ὄμφαξ.`

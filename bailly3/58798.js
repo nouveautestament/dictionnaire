@@ -1,1 +1,0 @@
-lar[58798]=`<b>κυν·οζεματῖτις, ίτιδος (ἡ)</b> <font color="purple">[ῠᾰῑῐδ]</font> sorte de κόνυζα, DIOSC. <i>3, 136</i>.`

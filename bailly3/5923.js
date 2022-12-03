@@ -1,1 +1,0 @@
-lar[5923]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Amykos, <i>roi des Bébryces,</i> PLAT. <i>Leg. 796a ;</i> THCR. <i>Idyl. 22, 75 et 85</i> ; A.RH. <i>1, 51, etc</i>.`

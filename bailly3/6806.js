@@ -1,1 +1,0 @@
-lar[6806]=`<b>ος, ον</b>, élevé dans la maison (esclave) APP. <i>Civ. 4, 43</i>.<p><b>Étym</b>. ἀνατρέφω.`

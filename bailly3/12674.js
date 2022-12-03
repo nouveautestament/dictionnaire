@@ -1,1 +1,0 @@
-lar[12674]=`<b>ή, όν</b>, propre à repousser <i>ou</i> à rejeter, répulsif, DIOSC. <i>1, 168</i> ; GAL. <i>2, 226 ; 12, 226</i>.<p><b>Étym</b>. ἀποκρούω.`

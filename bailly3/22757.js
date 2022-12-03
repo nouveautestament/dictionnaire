@@ -1,1 +1,0 @@
-lar[22757]=`<b>Γυμνήσιαι νῆσοι (αἱ)</b> les î. Baléares, <i>dont les habitants, réputés comme frondeurs, servaient au dehors dans les troupes légères</i> (<i>v</i>. γυμνής), ARSTT. <i>Mir. 88</i> ; STR. <i>167</i> ; DS. <i>5, 17</i> ; DC. <i>43, 29 ; etc</i>.<p><b>Étym</b>. <i>Cf</i>. Γυμνήσιοι.`

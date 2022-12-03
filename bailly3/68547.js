@@ -1,1 +1,0 @@
-lar[68547]=`<b>νηνεμέω-ῶ</b>, n’être pas exposé au vent, <i>d’où</i> être calme, HPC. <i>698, 18</i> ; STR. <i>307</i>.<p><b>Étym</b>. νήνεμος.`

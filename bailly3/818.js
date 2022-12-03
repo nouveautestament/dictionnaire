@@ -1,1 +1,0 @@
-lar[818]=`<b>ἄ·γοος, ος, ον</b>, sans gémissements, non pleuré, ESCHL. <i>Sept. 1063</i>.<p><b>Étym</b>. ἀ. γόος.`

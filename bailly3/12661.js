@@ -1,1 +1,0 @@
-lar[12661]=`<b>ἀπο·κριδόν</b> <font color="purple">[ῐ]</font> <i>adv</i>., loin de, <i>gén</i>. A.RH. <i>2, 15</i> ; OPP. <i>H. 1, 548</i>.<p><b>Étym</b>. ἀπό, κρίνω.`

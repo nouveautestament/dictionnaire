@@ -1,1 +1,0 @@
-lar[77445]=`<b>ῶν (οἱ)</b> les Pauses, <i>pple près de la mer Caspienne,</i> HDT. <i>3, 92</i>.`

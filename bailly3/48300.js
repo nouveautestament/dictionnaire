@@ -1,1 +1,0 @@
-lar[48300]=`<b>ή, όν</b> <font color="purple">[ῑᾱ]</font> propre à guérir, qui guérit, <i>gén</i>. DIOSC. <i>5, 141</i> ; CHRYS. <i>2, 700</i>.<p><b>Étym</b>. ἰατός.`

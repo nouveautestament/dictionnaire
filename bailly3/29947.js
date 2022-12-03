@@ -1,1 +1,0 @@
-lar[29947]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> infusion, injection, GAL. <i>2, 256d</i>.<p><b>Étym</b>. ἐγχέω.`

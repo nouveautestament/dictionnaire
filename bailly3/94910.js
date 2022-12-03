@@ -1,1 +1,0 @@
-lar[94910]=`<b>συν·απορρήγνυμι</b>, arracher avec <i>ou</i> en même temps, PLUT. <i>Mar. 12</i> ; JOS. <i>B.J. 5, 6, 4</i>.`

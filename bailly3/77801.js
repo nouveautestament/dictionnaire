@@ -1,1 +1,0 @@
-lar[77801]=`<b>πελιόω-ῶ</b>, rendre livide, <i>d’où au pass</i>. devenir <i>ou</i> être livide, HPC. <i>Fract. 760</i> ; ARSTT. <i>Probl. 8, 1</i>.<p><b>Étym</b>. πελιός.`

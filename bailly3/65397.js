@@ -1,1 +1,0 @@
-lar[65397]=`<b>ης (ἡ)</b> hanneton, <i>sorte de scarabée doré,</i> AR. <i>Nub. 763</i> ; ARSTT. <i>H.A. 1, 5, etc. ; P.A. 4, 6, etc</i>.`

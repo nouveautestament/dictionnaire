@@ -1,1 +1,0 @@
-lar[73872]=`<b>ης (ἡ)</b> hauteur, escarpement, HDT. <i>4, 181, 185</i> ; EUR. <i>Her. 394</i>.<p><b>Étym</b>. ὀφρύς.`

@@ -1,1 +1,0 @@
-lar[21096]=`<b>ατος (τὸ)</b> trait de moquerie bouffonne, AR. <i>Eq. 902 ; Pax 748</i>.<p><b>Étym</b>. βωμολοχεύομαι.`

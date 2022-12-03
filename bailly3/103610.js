@@ -1,1 +1,0 @@
-lar[103610]=`<b>οῦ (ὁ)</b> qui travaille aux mines, mineur, PTOL. <i>Tetr. p. 179, 18</i>.<p><b>Étym</b>. ὑπονομεύω.`

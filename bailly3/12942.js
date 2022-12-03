@@ -1,1 +1,0 @@
-lar[12942]=`<b>ή, όν</b>, qui distribue, qui répartit : τὸ ἀπονεμητικόν, M. ANT. <i>1, 16,</i> la justice distributive.<p><b>Étym</b>. ἀπονέμω.`

@@ -1,1 +1,0 @@
-lar[22524]=`<b>ας (ἡ) :<br>      1</b> Gortynia, <i>v. de Macédoine,</i> THC. <i>2, 100</i>.<br><b>      2</b> le pays de Gortyne, STR. <i>476</i>.<p><b>Étym</b>. Γόρτυν.`

@@ -1,1 +1,0 @@
-lar[14940]=`<b>ου (ὁ)</b> Arnæos, <i>ancien nom du mendiant Iros,</i> OD. <i>18, 5</i>.`

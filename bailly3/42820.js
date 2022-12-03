@@ -1,1 +1,0 @@
-lar[42820]=`<b>Εὐξί·θεος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Euxithéos, <i>h</i>. DÉM. <i>18, 295 ; 54, 10, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. εὔχομαι, θεός.`

@@ -1,1 +1,0 @@
-lar[4052]=`(<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> errer çà et là, <i>en parl. de pers</i>. ESCHL. <i>Ag. 82</i> ; EUR. <i>Or. 521, El. 204, I.T. 284, etc. ; en parl. de choses (pied, démarche, etc</i>.) EUR. <i>Ph. 1536</i>.<p><b>Étym</b>. <i>cf</i>. ἀλάομαι <i>et</i> ἠλαίνω.`

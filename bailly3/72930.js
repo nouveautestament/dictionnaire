@@ -1,1 +1,0 @@
-lar[72930]=`<b>ὀρνιθο·θήρας, ου (ὁ)</b> <font color="purple">[ῑ]</font> oiseleur, AR. <i>Av. 62</i> ; ARSTT. <i>H.A. 9, 1</i> ; PLUT. <i>M. 800a</i>.<p><b>Étym</b>. ὄρνις, θηράω.`

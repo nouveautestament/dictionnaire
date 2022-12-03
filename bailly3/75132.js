@@ -1,1 +1,0 @@
-lar[75132]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> flambeau, torche, ESCHL. <i>Ag. 284, c</i>. φανός.`

@@ -1,1 +1,0 @@
-lar[105377]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> <i>dim. de</i> φιάλιον MATH. <i>166</i>.`

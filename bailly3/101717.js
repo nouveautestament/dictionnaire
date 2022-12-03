@@ -1,1 +1,0 @@
-lar[101717]=`<b>ὑλη·ωρός, ός, όν</b> <font color="purple">[ῡ]</font> qui surveille <i>ou</i> visite les forêts, A.RH. <i>1, 1227</i> ; ANTH. <i>9, 337</i>.<p><b>Étym</b>. ὕλη, ὤρα.`

@@ -1,1 +1,0 @@
-lar[55456]=`<b>ῶντος (ὁ)</b> <font color="purple">[ῐκ]</font> Killikôn, <i>traître qui livra Milet aux habitants de Priène,</i> AR. <i>Pax 362</i>.`

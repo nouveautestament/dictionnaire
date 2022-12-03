@@ -1,1 +1,0 @@
-lar[48888]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> qui apaise, qui concilie, AQU. <i>Ps. 85, 4</i>.<p><b>Étym</b>. ἱλάσκομαι.`

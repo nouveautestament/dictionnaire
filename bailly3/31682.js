@@ -1,1 +1,0 @@
-lar[31682]=`<b>εως (ἡ)</b> <font color="purple">[μῑ]</font> imitation exacte, AR. <i>Av. arg</i>.<p><b>Étym</b>. ἐκμιμέομαι.`

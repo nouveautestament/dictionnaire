@@ -1,1 +1,0 @@
-lar[74690]=`<b>πάμ·βοτος, ος, ον</b>, qui nourrit tout le monde, plantureux, ESCHL. <i>Suppl. 559</i>.<p><b>Étym</b>. π. βόσκω.`

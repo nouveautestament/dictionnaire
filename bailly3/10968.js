@@ -1,1 +1,0 @@
-lar[10968]=`<b>ου (τὸ) :<br>      1</b> petit axe, petit pivot, tourillon, HÉRON <i>Aut. 271, etc.</i><br><b>      2</b> clef <i>ou</i> levier (de torsion) dans les machines de jet, HÉRON <i>Spir. 183</i>.<p><b>Étym</b>. ἄξων.`

@@ -1,1 +1,0 @@
-lar[18177]=`<b>ατος (τὸ)</b> image faite d’après un modèle, reproduction, copie, PLAT. <i>Rsp. 395b</i>.<p><b>Étym</b>. ἀφομοιόω.`

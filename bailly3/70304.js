@@ -1,1 +1,0 @@
-lar[70304]=`<b>ατος (τὸ)</b> haute opinion de soi-même, présomption, suffisance, PLUT. <i>M. 39d, 43b, etc</i>.<p><b>Étym</b>. οἴομαι.`

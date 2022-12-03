@@ -1,1 +1,0 @@
-lar[31457]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de laver, lavement, A. TR. <i>12, p. 216</i>.<p><b>Étym</b>. ἐκκλύζω.`

@@ -1,1 +1,0 @@
-lar[36909]=`<b>ή, όν</b>, propre à réveiller, à exciter, ARSTT. <i>Probl. 6, 5 ; avec le gén</i>. PLUT. <i>M. 138b</i>.<p><b>Étym</b>. ἐπεγείρω.`

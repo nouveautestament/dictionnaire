@@ -1,1 +1,0 @@
-lar[108307]=`<b>η, ον</b>, <i>c</i>. χερσαῖος, <i>en parl. de tortues,</i> PLIN. <i>H.N. 9, 10, 12</i>.<p><b>Étym</b>. χέρσος.`

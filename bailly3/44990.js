@@ -1,1 +1,0 @@
-lar[44990]=`<b>ἡδυλογέω-ῶ</b> <font color="purple">[ῠ]</font> dire des choses agréables à, <i>dat</i>. PHRYN. COM. (ATH. <i>165b</i>).<p><b>Étym</b>. ἡδυλόγος.`

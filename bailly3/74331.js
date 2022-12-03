@@ -1,1 +1,0 @@
-lar[74331]=`<b>ας (ἡ)</b> meurtre d’enfants, PLUT. <i>M. 727d</i>.<p><b>Étym</b>. παιδοφόνος.`

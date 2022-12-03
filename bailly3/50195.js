@@ -1,1 +1,0 @@
-lar[50195]=`<b>α, ον</b> <font color="purple">[ᾰν]</font> <i>c</i>. κάγκανος, MAN. <i>4, 324</i>.`

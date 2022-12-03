@@ -1,1 +1,0 @@
-lar[39698]=`<b>ἐπι·χλιαίνω</b>, faire chauffer à la surface, LUC. <i>Alex. 21 ; d’où au pass</i>. devenir chaud à la surface, HPC. <i>Coac. 219</i>.`

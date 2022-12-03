@@ -1,1 +1,0 @@
-lar[101086]=`<b>ιδος</b> <font color="purple">[ῠ]</font>, <i>adj. f. c</i>. τυπωτής, ORPH. <i>H. 33, 26</i>.`

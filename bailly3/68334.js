@@ -1,1 +1,0 @@
-lar[68334]=`<b>α, ον</b>, des enfers, infernal, ORPH. <i>Arg. 1369</i> ; ANTH. <i>9, 459, etc</i>.<p><b>Étym</b>. νέρτερος.`

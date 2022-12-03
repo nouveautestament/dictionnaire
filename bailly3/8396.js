@@ -1,1 +1,0 @@
-lar[8396]=`<b>ἀν·έορτος, ος, ον</b>, sans fête, <i>d’où</i> :<br><b>      1</b> non fêté, DH. <i>8, 25</i> ; ALCIPHR. <i>3, 49</i>.<br><b>      2</b> exclu des fêtes, <i>en gén</i>. exclu de, <i>gén</i>. EUR. <i>El. 310</i>.<p><b>Étym</b>. ἀν-, ἑορτή.`

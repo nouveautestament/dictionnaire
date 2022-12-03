@@ -1,1 +1,0 @@
-lar[83732]=`<b>προ·αύλιον, ου (τὸ)</b> prélude sur la flûte, PLAT. <i>Crat. 417e ;</i> ARSTT. <i>Rhet. 3, 14, 1 ; fig</i>. THÉM. <i>367a</i>.<p><b>Étym</b>. π. αὐλός.`

@@ -1,1 +1,0 @@
-lar[97919]=`<b>ταχύ·ρρωστος, ος, ον</b> <font color="purple">[ᾰ]</font> à l’essor <i>ou</i> au vol rapide, SOPH. <i>O.C. 1081</i>.<p><b>Étym</b>. τ. ῥώομαι.`

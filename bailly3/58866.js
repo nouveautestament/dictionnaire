@@ -1,1 +1,0 @@
-lar[58866]=`<b>οῦ (ὁ)</b> sorte de coup au jeu de dés, EUB. <i>3, 232 Meineke</i>.`

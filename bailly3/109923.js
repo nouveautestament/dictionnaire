@@ -1,1 +1,0 @@
-lar[109923]=`<b>ή, όν</b>, rafraîchissant, SEXT. <i>p. 163, 13</i> ; PLUT. <i>M. 652c ;</i> τὰ ψυκτικά, HPC. <i>Aph. 1259,</i> les réfrigérants.<p>•<i> Sup</i>. -ώτατος, PLUT. <i>M. 691b</i>.<p><b>Étym</b>. ψύχω.`

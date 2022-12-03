@@ -1,1 +1,0 @@
-lar[75571]=`<b>υγος (ὁ, ἡ)</b> attaché auprès, <i>d’où</i> accessoire, qui compte pour peu ; <i>fig</i>. οἱ παράζυγες, ARSTT. <i>Pol. 2, 6, 11,</i> les prolétaires.<p><b>Étym</b>. παραζεύγνυμι.`

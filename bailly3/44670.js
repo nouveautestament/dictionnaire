@@ -1,1 +1,0 @@
-lar[44670]=`<b>ζω·αρκής, ής, ές</b>, qui soutient l’existence, suffisant pour vivre, PROCL. <i>H. Sol. 2</i> ; NONN. <i>D. 25, 178</i> ; SIB. <i>8, 444</i>.<p><b>Étym</b>. ζωή, ἀρκέω.`

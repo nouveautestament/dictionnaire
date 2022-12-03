@@ -1,1 +1,0 @@
-lar[55195]=`<b>ης (ἡ)</b> Kèlousa, <i>mt de Sicyone,</i> XÉN. <i>Hell. 4, 7, 7</i>.`

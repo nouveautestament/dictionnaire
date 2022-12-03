@@ -1,1 +1,0 @@
-lar[55531]=`<b>κινναμωμο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui produit des canneliers <i>ou</i> de la cannelle, STR. <i>63, 72, etc</i>.<p><b>Étym</b>. κιννάμωμον, φέρω.`

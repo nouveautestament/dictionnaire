@@ -1,1 +1,0 @@
-lar[31542]=`<b>ἐκ·λαλέω-ῶ</b> <font color="purple">[ᾰ]</font> bavarder, divulguer, EUR. (STOB. <i>Fl. 2, 47</i>) ; DÉM. <i>16, 25</i> ; ἐκλ. ὅτι, <i>ind</i>. NT. <i>Ap. 23, 22,</i> révéler que, <i>etc</i>.`

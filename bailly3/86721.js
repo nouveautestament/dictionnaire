@@ -1,1 +1,0 @@
-lar[86721]=`<b>ατος (τὸ)</b> rang devant un autre, rang de devant, DS. <i>19, 27</i> ; PLUT. <i>Luc. 28</i>.<p><b>Étym</b>. προτάσσω.`

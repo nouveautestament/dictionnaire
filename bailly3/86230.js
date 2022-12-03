@@ -1,1 +1,0 @@
-lar[86230]=`<b>εως (ἡ)</b> action d’aborder, d’atterrir, THC. <i>4, 10</i> ; SYN. <i>272d</i>.<p><b>Étym</b>. προσορμίζω.`

@@ -1,1 +1,0 @@
-lar[1357]=`<b>ἀ·διαρροίη, ης (ἡ)</b> <i>ion</i>. absence d’écoulement <i>ou</i> d’évacuation, HPC. (EROT.).`

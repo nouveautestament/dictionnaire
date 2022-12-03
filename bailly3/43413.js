@@ -1,1 +1,0 @@
-lar[43413]=`<b>ας (ἡ)</b> signe favorable, ARSTT. <i>Ath. 44, 4</i>.<p><b>Étym</b>. εὔσημος.`

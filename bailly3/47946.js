@@ -1,1 +1,0 @@
-lar[47946]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> Thymos, <i>n. de chien</i>, XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. <i>cf</i>. θυμός.`

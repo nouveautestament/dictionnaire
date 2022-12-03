@@ -1,1 +1,0 @@
-lar[99529]=`<i>adv</i>., avec hardiesse <i>ou</i> audace, THC. <i>3, 74, 83</i> ; XÉN. <i>Conv. 2, 12</i>.<p>•<i> Cp</i>. -ότερον, THC. <i>4, 126</i> ; POL. <i>1, 17, 7 ; • Sup</i>. -ότατα, POLL. <i>3, 136</i>.<p><b>Étym</b>. τολμηρός.`

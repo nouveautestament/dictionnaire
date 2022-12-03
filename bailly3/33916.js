@@ -1,1 +1,0 @@
-lar[33916]=`<b>ἐν·απειλέω-ῶ</b> <font color="purple">[ᾰ]</font> menacer de : τι, DH. <i>5, 54,</i> de qqe ch.`

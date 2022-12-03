@@ -1,1 +1,0 @@
-lar[101367]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> <i>c</i>. ὑγιαντός, ARSTT. <i>Phys. 8, 5, 14 ; Cæl. 4, 3, 7</i>.`

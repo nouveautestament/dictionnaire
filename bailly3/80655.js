@@ -1,1 +1,0 @@
-lar[80655]=`<b>ιδος</b> <font color="purple">[ᾰ]</font> <i>c</i>. πλανήτης, <i>adj. f</i>. LYC. <i>998</i>.`

@@ -1,1 +1,0 @@
-lar[74348]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> originaire <i>ou</i> habitant du dème att. Pæonides, <i>dans la tribu Léontide,</i> AR. <i>Lys. 852</i>.<p><b>Étym</b>. Παιονίδαι.`

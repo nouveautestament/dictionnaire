@@ -1,1 +1,0 @@
-lar[93557]=`<b>συγ·κυβεύω</b> <font color="purple">[κῠ]</font> jouer aux dés avec, <i>dat</i>. HDT. <i>2, 122</i> ; ARSTT. <i>Nic. 9, 12, 2</i>.`

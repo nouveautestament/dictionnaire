@@ -1,1 +1,0 @@
-lar[92003]=`<font color="purple">[ᾰ]</font> <i>adv</i>., çà et là, THC. <i>2, 4</i> ; PLAT. <i>Prot. 322a ;</i> ISOCR. <i>48c ;</i> ARSTT. <i>Pol. 1, 11, 7, etc</i>.<p><b>Étym</b>. σποράς, -δην.`

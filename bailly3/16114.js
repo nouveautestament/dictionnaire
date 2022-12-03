@@ -1,1 +1,0 @@
-lar[16114]=`<b>ἀ·σταγής, ής, ές</b> <font color="purple">[τᾰ]</font> qui ne coule pas goutte à goutte, <i>d’où</i> :<br><b>      1</b> qui ne fond pas, dur, SOPH. <i>fr. 162</i>.<br><b>      2</b> qui coule abondamment, A.RH. <i>3, 804</i> ; NIC. <i>Th. 307</i>.<p><b>Étym</b>. ἀ, στάζω.`

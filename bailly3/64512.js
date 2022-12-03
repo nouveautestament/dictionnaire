@@ -1,1 +1,0 @@
-lar[64512]=`<b>μεσο·γονάτιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> espace entre deux nœuds <i>ou</i> articulations, TH. <i>H.P. 4, 11 ; 6, 7</i>.<p><b>Étym</b>. μέσος, γόνυ.`

@@ -1,1 +1,0 @@
-lar[81594]=`<b>πολισσο·νόμος, ος, ον :<br>      1</b> qui régit la cité, ESCHL. <i>Ch. 864, etc.</i><br><b>      2</b> soumis <i>ou</i> conforme aux lois de la cité, ESCHL. <i>Pers. 853</i>.<p><b>Étym</b>. πολισσόος, νέμω.`

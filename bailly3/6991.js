@@ -1,1 +1,0 @@
-lar[6991]=`<b>ἀνα·κοσμέω-ῶ</b>, remettre en ordre, restaurer, ARSTD. <i>t. 1, 225</i>.`

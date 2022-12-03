@@ -1,1 +1,0 @@
-lar[91857]=`<b>σπερμογονέω-ῶ</b>, produire de la semence <i>ou</i> des graines, TH. <i>H.P. 7, 14, 3</i>.<p><b>Étym</b>. σπερμογόνος.`

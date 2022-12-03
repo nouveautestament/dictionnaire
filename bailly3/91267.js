@@ -1,1 +1,0 @@
-lar[91267]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>mot méthymnéen, c</i>. σκύφος, PARMÉNON (ATH. <i>500b</i>).`

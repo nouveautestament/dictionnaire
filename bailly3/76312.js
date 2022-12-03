@@ -1,1 +1,0 @@
-lar[76312]=`<font color="purple">[τᾰ]</font> <i>adv</i>., à l’imparfait, SEXT. <i>496, 32 Bkk</i>.`

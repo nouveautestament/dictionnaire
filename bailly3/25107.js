@@ -1,1 +1,0 @@
-lar[25107]=`<b>δι·ανακλάομαι-ῶμαι</b> (<i>seul. prés</i>.) être complètement réfléchi, <i>en parl. de la lumière,</i> ARSTT. <i>Probl. 12, 23</i>.`

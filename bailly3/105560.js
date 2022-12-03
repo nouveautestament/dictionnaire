@@ -1,1 +1,0 @@
-lar[105560]=`<b>φιλ·έραστος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> enclin à l’amour, POL. <i>24, 5, 7, etc.</i><br><b>      2</b> agréable <i>ou</i> cher aux amants, ANTH. <i>5, 136</i>.<p><b>Étym</b>. φ. ἐράω.`

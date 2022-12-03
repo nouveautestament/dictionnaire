@@ -1,1 +1,0 @@
-lar[99907]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui vit de la table de qqn, <i>d’où</i> : κύων τρ. IL. <i>22, 69 ; 23, 173</i> ; OD. <i>17, 309,</i> chien domestique ; <i>abs</i>. parasite, PLUT. <i>M. 50c ;</i> ARISTIAS (ATH. <i>688a</i>).<p><b>Étym</b>. τράπεζα.`

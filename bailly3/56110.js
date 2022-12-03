@@ -1,1 +1,0 @@
-lar[56110]=`<b>α, ον :<br>      1</b> volé, dérobé, ESCHL. <i>Pr. 110</i> ; EUR. <i>Alc. 1035</i>.<br><b>      2</b> furtif, qui se fait à la dérobée, PLAT. <i>Leg. 934c ;</i> DH. <i>2, 71</i>.<p><b>Étym</b>. κλοπή.`

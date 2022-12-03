@@ -1,1 +1,0 @@
-lar[78696]=`<b>οῦ (ὁ)</b> <font color="purple">[κᾰ]</font> purification, PLAT. <i>Leg. 815c dout</i>.<p><b>Étym</b>. περικαθαίρω.`

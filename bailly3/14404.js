@@ -1,1 +1,0 @@
-lar[14404]=`<b>εως (ἡ) :<br>      1</b> pointe de javelot, dard, HDT. <i>4, 81</i>.<br><b>      2</b> aiguillon, ESCHL. <i>Pr. 880</i>.<p>➳ <i>Acc</i>. ἄρδιν, HDT. <i>4, 81 ; acc. pl. ion</i>. ἄρδις, HDT. <i>1, 215</i>.`

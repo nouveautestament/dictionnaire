@@ -1,1 +1,0 @@
-lar[5137]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> fourbe comme un renard, SOPH. <i>fr. 242</i>.<p><b>Étym</b>. ἀλώπηξ.`

@@ -1,1 +1,0 @@
-lar[84179]=`<b>προ·εξαΐσσω</b> <font color="purple">[ᾱ]</font> s’élancer auparavant <i>ou</i> le premier, HDT. <i>9, 62</i>.<p>➳ <i>Part. ao. pl. avec contr. att</i>. προεξᾴξαντες, THC. <i>8, 25 conj</i>.`

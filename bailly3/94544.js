@@ -1,1 +1,0 @@
-lar[94544]=`<b>συν·αγοράζω</b> <font color="purple">[ᾰγ]</font> acheter avec <i>ou</i> ensemble, ARSTT. <i>Œc. 2, 9, 1</i> ; PLUT. <i>M. 796d ;</i> Ps.-PLUT. <i>Fluv. 7, 3</i> ; ATH. <i>6a, 214e</i>.`

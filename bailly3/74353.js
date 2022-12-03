@@ -1,1 +1,0 @@
-lar[74353]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Pæonie, HDT. <i>4, 33</i> ; ANTH. <i>9, 300, etc</i>.<p><b>Étym</b>. Παιονία.`

@@ -1,1 +1,0 @@
-lar[8411]=`<b>ἀν·επαχθής, ής, ές</b>, non pénible à supporter, PLUT. <i>Cato mi. 8, Pomp. 1</i> ; LUC. <i>Ep. sat. 34</i>.<p><b>Étym</b>. ἀν-, ἐπ.`

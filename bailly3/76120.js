@@ -1,1 +1,0 @@
-lar[76120]=`<b>παρα·προσδέχομαι</b>, admettre sans faire attention, ARR. <i>Epict. 1, 20, 11</i>.`

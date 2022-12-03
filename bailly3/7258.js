@@ -1,1 +1,0 @@
-lar[7258]=`<b>ἀνα·νοσέω-ῶ</b>, redevenir malade, JOS. <i>B.J. 5, 6, 1</i>.`

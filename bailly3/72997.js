@@ -1,1 +1,0 @@
-lar[72997]=`<b>ὀρο·κάρυον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> noyer de montagne, <i>arbre qui croissait dans les montagnes du Pont,</i> STR. <i>546</i>.<p><b>Étym</b>. ὄρος, κάρυον.`

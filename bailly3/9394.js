@@ -1,1 +1,0 @@
-lar[9394]=`<b>ἀντ·αγείρω</b> <font color="purple">[ᾰγ]</font> mendier à son tour, CELS. (ORIG. <i>c. Cels. 303</i>).`

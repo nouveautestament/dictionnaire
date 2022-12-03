@@ -1,1 +1,0 @@
-lar[26126]=`<b>δι·εκθρῴσκω</b>, s’élancer hors de, <i>gén</i>. CLÉM. <i>21, 25</i>.<p>➳ <i>Ao.2 inf. poét</i>. διεκθορέειν, OPP. <i>H. 4, 674</i>.`

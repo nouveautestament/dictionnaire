@@ -1,1 +1,0 @@
-lar[20447]=`<b>βουληγορέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐβουληγόρησα)</font> parler dans le sénat, APP. <i>Civ. 3, 51</i>.<p><b>Étym</b>. βουληγόρος.`

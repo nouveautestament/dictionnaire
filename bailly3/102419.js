@@ -1,1 +1,0 @@
-lar[102419]=`<b>ὑπερ·έκκειμαι</b>, être couché <i>ou</i> étendu sur, PLUT. <i>M. 1066c dout</i>.`

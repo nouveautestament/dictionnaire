@@ -1,1 +1,0 @@
-lar[34708]=`<b>ἐννεακαιδεκα·έτης, ου</b> <font color="purple">[ᾰᾰ]</font> <i>adj. m</i>. âgé de dix-neuf ans, DS. <i>2, 47,</i> DH. <i>3, 1428, 12 Reiske</i>.<p><b>Étym</b>. ἐ. ἔτος.`

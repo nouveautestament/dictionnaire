@@ -1,1 +1,0 @@
-lar[98026]=`<b>τειχ·ολέτις, ιδος (ἡ)</b> qui détruit les remparts <i>ou</i> les fortifications d’une ville, SIMYL. (PLUT. <i>Rom. 17).</i><p><b>Étym</b>. τ. ὄλλυμι.`

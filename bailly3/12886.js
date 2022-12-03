@@ -1,1 +1,0 @@
-lar[12886]=`<b>ἀπο·μεστόω-ῶ</b>, remplir complètement, <i>d’où au pass</i>. être entièrement plein, PLAT. <i>Phædr. 255c</i>.`

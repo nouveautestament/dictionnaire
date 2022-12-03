@@ -1,1 +1,0 @@
-lar[28537]=`<b>δυσ·κάθοδος, ος, ον</b> <font color="purple">[ᾰ]</font> où il est difficile de descendre, CON. <i>35</i>.<p><b>Étym</b>. δ. κάθοδος.`

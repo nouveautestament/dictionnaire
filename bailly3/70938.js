@@ -1,1 +1,0 @@
-lar[70938]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> coude, AR. <i>Pax 443 ; cf</i>. ὠλέκρανον.`

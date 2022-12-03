@@ -1,1 +1,0 @@
-lar[4818]=`<b>ἀλλοτριο·νομέω-ῶ :<br>      1</b> faire une fausse attribution, se méprendre, PLAT. <i>Theæt. 195a.</i><br><b>      2</b> suivre des coutumes étrangères, DC. <i>52, 36</i>.<p><b>Étym</b>. ἀ. νόμος.`

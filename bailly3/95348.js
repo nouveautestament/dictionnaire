@@ -1,1 +1,0 @@
-lar[95348]=`<b>συν·εκθνῄσκω</b>, mourir avec <i>ou</i> en même temps, EUR. <i>Cycl. 571</i>.`

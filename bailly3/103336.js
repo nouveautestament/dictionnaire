@@ -1,1 +1,0 @@
-lar[103336]=`<b>ὑπο·κατασκευάζω :<br>      1</b> préparer secrètement, <i>acc</i>. JOS. <i>A.J. 15, 4, 2 ; 16, 1, 2</i>.<br><b>      2</b> préparer avec soin, <i>acc</i>. D. PHAL. <i>§ 232</i>.<br><b>      3</b> préparer peu à peu, disposer graduellement, <i>acc</i>. CLÉM. <i>131</i>.`

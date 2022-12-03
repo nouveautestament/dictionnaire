@@ -1,1 +1,0 @@
-lar[13429]=`<b>οῦ (ὁ)</b> qui prive de, spoliateur, PLAT. <i>Rsp. 344b ;</i> ARSTT. <i>Eud. 3, 4, 5</i>.<p><b>Étym</b>. ἀποστερέω.`

@@ -1,1 +1,0 @@
-lar[84952]=`<b>εως (ἡ)</b> <font color="purple">[ᾰκῐ]</font> insulte, outrage, PLAT. <i>Rsp. 329b</i>.<p><b>Étym</b>. προπηλακίζω.`

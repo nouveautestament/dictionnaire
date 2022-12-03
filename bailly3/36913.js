@@ -1,1 +1,0 @@
-lar[36913]=`<b>ἐπ·εγκαχάζω</b> <font color="purple">[κᾰ]</font> (<i>seul. part. prés</i>.) ricaner de, <i>dat</i>. LYC. <i>285</i>.`

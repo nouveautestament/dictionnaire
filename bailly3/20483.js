@@ -1,1 +1,0 @@
-lar[20483]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> qui vit sur les collines (<i>Pan</i>), ANTH. <i>6, 106</i>.<p><b>Étym</b>. βουνός.`

@@ -1,1 +1,0 @@
-lar[88831]=`<i>adv</i>., avec flux de ventre, CASS. <i>Probl. 6</i>.<p><b>Étym</b>. ῥοώδης.`

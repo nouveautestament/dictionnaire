@@ -1,1 +1,0 @@
-lar[88594]=`<b>ας (ἡ)</b> <font color="purple">[ρῑ λᾰ]</font> action de suivre en flairant la piste, LGS <i>1, 9</i>.<p><b>Étym</b>. ῥινήλατος.`

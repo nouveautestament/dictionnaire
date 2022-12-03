@@ -1,1 +1,0 @@
-lar[107068]=`<b>φυκο·φάγος, ος, ον</b> <font color="purple">[ῡᾰ]</font> qui se nourrit d’algues ; <i>subst</i>. ὁ φ. ARSTT. (ATH. <i>305f</i>) <i>sorte de poisson</i>.<p><b>Étym</b>. φῦκος, φαγεῖν.`

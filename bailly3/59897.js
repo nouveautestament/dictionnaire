@@ -1,1 +1,0 @@
-lar[59897]=`<b>λαρυγγιάω-ῶ</b> (<i>seul. part. prés. ion</i>. λαρυγγιόων) parler <i>ou</i> crier d’une voix rauque, ANTH. <i>11, 382</i>.<p><b>Étym</b>. λάρυγξ.`

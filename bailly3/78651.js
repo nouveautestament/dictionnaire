@@ -1,1 +1,0 @@
-lar[78651]=`<b>ος, ον</b> <i>et</i> <b>περιθετός, ή, όν</b>, qu’on met autour ; κεφαλή, AR. <i>Th. 258,</i> tête (<i>càd</i>. masque avec cheveux) dont on s’affuble ; περιθεταὶ τρίχες, POL. <i>3, 78, 2</i> ; κόμη, EL. <i>V.H. 1, 26 ; ou simpl</i>. ἡ περιθετή, POLYEN <i>5, 42, etc. ou</i> προκόμια περιθετά, ATH. <i>523a m. sign</i>.<p><b>Étym</b>. περιτίθημι.`

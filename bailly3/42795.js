@@ -1,1 +1,0 @@
-lar[42795]=`<b>Εὔ·νοστος, ου (ὁ)</b> Eunostos, <i>héros de Tanagra,</i> DIOCL. (PLUT. <i>Qu. gr. 40).</i><p><b>Étym</b>. εὖ, νόστος.`

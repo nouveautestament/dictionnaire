@@ -1,1 +1,0 @@
-lar[1953]=`<b>ιος (ὁ)</b> Athanis, <i>historien,</i> PLUT. <i>Tim. 23, 37</i>.`

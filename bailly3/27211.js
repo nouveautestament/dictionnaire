@@ -1,1 +1,0 @@
-lar[27211]=`<font color="purple">[ῐ]</font> <i>adv</i>., d’une manière incertaine, ESCHL. <i>Ag. 349, 815, 1272 ; Suppl. 605, 982, touj. avec une nég</i>.`

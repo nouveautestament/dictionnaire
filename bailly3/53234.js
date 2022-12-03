@@ -1,1 +1,0 @@
-lar[53234]=`<b>ου (ὁ) :<br>      1</b> Katarrhaktès, <i>fl. de Phrygie,</i> HDT. <i>7, 26</i>.<br><b>      2</b> <i>plur</i>. les Cataractes du Nil (<i>cf</i>. κατάδουποι) STR. <i>786, 817</i>.<p>➳ <i>Ion</i>. Καταρρήκτης, HDT. <i>l. c</i>.<p><b>Étym</b>. <i>v</i>. καταρράκτης.`

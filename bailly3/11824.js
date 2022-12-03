@@ -1,1 +1,0 @@
-lar[11824]=`<b>αντος (ὁ)</b> <font color="purple">[ᾰπ]</font> Apésante :<br><b>      1</b> <i>héros et roi de Némée,</i> Ps.-PLUT. <i>Fluv. 18, 9</i>.<br><b>      2</b> <i>mt d’Argolide avec un temple à Zeus,</i> HÉS. <i>Th. 331</i>.`

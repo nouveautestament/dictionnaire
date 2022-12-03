@@ -1,1 +1,0 @@
-lar[39527]=`<b>ἐπι·τρώγω</b>, manger après, LUC. <i>Sat. 21, 28</i> ; τινός, EL. <i>N.A. 3, 5,</i> manger ensuite de qqe ch.`

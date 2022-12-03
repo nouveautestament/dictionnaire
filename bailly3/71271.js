@@ -1,1 +1,0 @@
-lar[71271]=`<b>οῦ (ὁ)</b> Olympikos, <i>h</i>. ANTH. <i>11, 75, etc</i>.<p><b>Étym</b>. <i>v</i>. Ὀλυμπικός.`

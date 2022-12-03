@@ -1,1 +1,0 @@
-lar[23527]=`<b>δειλιάω-ῶ</b>, <i>f</i>. άσω, être effrayé, s’effrayer de, <i>acc</i>. DS. <i>20, 78</i> ; SPT. <i>Deut. 1, 21 ; Ps. 13, 5 ; 2 Macc. 15, 8, etc</i>.<p><b>Étym</b>. δειλία.`

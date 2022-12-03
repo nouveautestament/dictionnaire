@@ -1,1 +1,0 @@
-lar[106489]=`<i>adv.</i> :<br><b>      1</b> d’une manière effrayante, terrible, XÉN. <i>Ages. 1, 10</i> ; SPT. <i>Ps. 12, 26</i>.<br><b>      2</b> avec crainte <i>ou</i> timidité, LYS. <i>169, 33</i>.<p>•<i> Cp</i>. -ώτερον, XÉN. <i>Ages. 1, 10 ; • Sup</i>. -ώτατα, XÉN. <i>Cyr. 8, 3, 5 ; Hipp. 8, 20</i>.<p><b>Étym</b>. φοβερός.`

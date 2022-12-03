@@ -1,1 +1,0 @@
-lar[18869]=`<font color="darkgreen">(<i>f</i>. άσω)</font> soutenir comme un bâton, servir de bâton <i>ou</i> de soutien à, <i>acc</i>. CHRYS. <i>5, 690</i>.<p><b>Étym</b>. βακτηρία.`

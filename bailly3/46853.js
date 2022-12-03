@@ -1,1 +1,0 @@
-lar[46853]=`<b>Θεό·φραστος, ου (ὁ)</b> Théophrastos (Théophraste) :<br><b>      1</b> disciple d’Aristote, philosophe péripatéticien, PLUT. <i>Per. 23, etc.</i><br><b>      2</b> <i>autres,</i> AR. <i>Vesp. 1302, etc</i>.<p>➳ <i>Par contr</i>. Θούφραστας, AR. <i>l. c</i>.<p><b>Étym</b>. θ. φράζω.`

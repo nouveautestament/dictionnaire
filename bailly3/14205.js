@@ -1,1 +1,0 @@
-lar[14205]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> <i>au plur. c</i>. ἀρβύλη 1, THCR. <i>Idyl. 7, 26</i> ; A. PL. <i>306</i>.`

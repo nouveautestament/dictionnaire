@@ -1,1 +1,0 @@
-lar[107226]=`<font color="purple">[ῡᾰ]</font> <i>ou</i> <b>φυσαλλίς, ίδος (ἡ) :<br>      1</b> bulle d’eau, LUC. <i>Char. 19</i>.<br><b>      2</b> sorte de flûte, AR. <i>Lys. 1245</i>.<br><b>      3</b> plante dont le calice se gonfle comme une vessie, <i>p.-ê</i>. coqueret, DIOSC. <i>4, 72</i>.`

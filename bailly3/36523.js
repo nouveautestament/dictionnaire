@@ -1,1 +1,0 @@
-lar[36523]=`<b>ἐπ·αλωστής, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui bat le grain en broyant les épis sous les pieds des bœufs, ἐπαλωσταῖς XÉN. <i>Œc. 18, 5</i>.<p><b>Étym</b>. ἐπί, ἀλοάω.`

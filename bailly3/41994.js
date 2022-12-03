@@ -1,1 +1,0 @@
-lar[41994]=`<b>εὐ·εξάρτητος, ος, ον</b>, facile à ajuster, à fabriquer, PHIL. BYZ. <i>Bel. 15</i>.<p><b>Étym</b>. εὖ, ἐξαρτάω.`

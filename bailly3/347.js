@@ -1,1 +1,0 @@
-lar[347]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., d’une manière aimable, avec douceur, EUR. <i>I.A. 602</i>.<p>•<i> Cp</i>. -ώτερον, AR. <i>Lys. 886</i>.<p><b>Étym</b>. ἀγανός.`

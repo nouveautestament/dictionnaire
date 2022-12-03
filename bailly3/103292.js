@@ -1,1 +1,0 @@
-lar[103292]=`<b>ὑπ·οίγνυμι</b>, ouvrir tout doucement, ouvrir secrètement <i>ou</i> entr’ouvrir, AR. <i>Th. 424, Eccl. 15</i> ; ALCIM. (ATH. <i>441a</i>).`

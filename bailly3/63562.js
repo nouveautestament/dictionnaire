@@ -1,1 +1,0 @@
-lar[63562]=`<b>*μεθ·ανδάνω</b> (<i>seul. ao.2 éol</i>. μετεύαδον <font color="purple">[ᾰ]</font>, <i>p</i>. μετέϝαδον, <i>du th. verb</i>. μετα·ϝαδ, <i>v</i>. ἁνδάνω) plaire parmi, plaire à, <i>dat</i>. Q. SM. <i>5, 127 (corr</i>. μέγ' εὔαδον).<p><b>Étym</b>. μ. ἁνδάνω.`

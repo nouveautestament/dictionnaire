@@ -1,1 +1,0 @@
-lar[92172]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> étable ; <i>sel. d’autres,</i> στασιωρός, οῦ (ὁ) gardien d’un troupeau, EUR. <i>Cycl. 53 dout</i>.<p><b>Étym</b>. στάσις, ὤρα.`

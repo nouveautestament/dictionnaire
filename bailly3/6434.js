@@ -1,1 +1,0 @@
-lar[6434]=`<b>ἀμφι·χολόομαι-οῦμαι</b> <font color="darkgreen">(<i>ao. part. fém</i>. -ωσαμένη)</font> s’irriter de, NAZ. <i>2, 121</i>.`

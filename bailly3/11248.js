@@ -1,1 +1,0 @@
-lar[11248]=`<b>ἀπ·ανδρίζομαι</b>, devenir un homme, CALLISTR. <i>Stat. 3</i>.`

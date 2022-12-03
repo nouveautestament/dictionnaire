@@ -1,1 +1,0 @@
-lar[4671]=`<b>ῶν (οἱ)</b> les Alcméonides, <i>famille noble d’Athènes,</i> HDT. <i>6, 121</i> ; THC. <i>6, 59</i>.<p><b>Étym</b>. Ἀλκμαίων ; <i>cf</i>. Ἀλκμεωνίδαι.`

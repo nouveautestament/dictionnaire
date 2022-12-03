@@ -1,1 +1,0 @@
-lar[13172]=`<b>ος, ον</b>, rejeté en crachant, <i>càd</i>. avec mépris : θεοῖς, ESCHL. <i>Eum. 191,</i> par les dieux ; <i>abs</i>. SOPH. <i>O.C. 1383</i> ; EUR. <i>Med. 1373</i> ; AR. <i>Eq. 1285</i>.<p><b>Étym</b>. ἀποπτύω.`

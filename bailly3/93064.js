@@ -1,1 +1,0 @@
-lar[93064]=`<b>      1</b> être d’humeur sombre : ἐπί τινι, NT. <i>Marc. 10, 22,</i> au sujet de qqe ch.<br><b>      2</b> avoir l’air sombre, <i>fig</i>. στυγνάζει ὁ οὐρανός, NT. <i>Matth. 16, 3,</i> le ciel est sombre, menaçant.<p><b>Étym</b>. στυγνός.`

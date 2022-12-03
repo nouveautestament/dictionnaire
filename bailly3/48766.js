@@ -1,1 +1,0 @@
-lar[48766]=`<b>ή, όν</b> <font color="purple">[ῑῠ]</font> relatif aux chants <i>ou</i> danses ithyphalliques, HÉPH. <i>p. 35, 7</i> ; DH. <i>Comp. 4</i>.<p><b>Étym</b>. ἰθύφαλλος.`

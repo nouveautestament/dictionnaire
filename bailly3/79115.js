@@ -1,1 +1,0 @@
-lar[79115]=`<b>ή, όν</b>, qui se replie autour, qui enveloppe, GAL. <i>2, 99</i>.<p><b>Étym</b>. περιπλέκω.`

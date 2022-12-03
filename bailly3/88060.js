@@ -1,1 +1,0 @@
-lar[88060]=`<b>α, ον</b> <font color="purple">[ῡῑ]</font> fait d’osier, AR. <i>Av. 798</i>.<p><b>Étym</b>. πυτίνη.`

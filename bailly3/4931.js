@@ -1,1 +1,0 @@
-lar[4931]=`<b>ἀ·λόπιστος, ος, ον</b> <font color="purple">[ᾰ]</font> non dépouillé de son écorce, TH. <i>H.P. 5, 1, 2</i>.<p><b>Étym</b>. ἀ, λοπίζω.`

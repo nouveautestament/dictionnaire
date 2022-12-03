@@ -1,1 +1,0 @@
-lar[92204]=`<b>α, ον</b> <font color="purple">[ᾰῐ]</font> fait de raisiné, HPC. <i>497, 8</i>.<p><b>Étym</b>. σταφίς.`

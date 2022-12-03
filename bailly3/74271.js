@@ -1,1 +1,0 @@
-lar[74271]=`<b>ου (ὁ)</b> petit garçon, XÉN. <i>Hell. 5, 4, 32</i>.<p><b>Étym</b>. παῖς.`

@@ -1,1 +1,0 @@
-lar[57667]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> propre à affermir, fortifiant, HPC. <i>628, 18</i>.<p><b>Étym</b>. κρατύνω.`

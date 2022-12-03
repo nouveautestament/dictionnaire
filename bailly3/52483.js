@@ -1,1 +1,0 @@
-lar[52483]=`<b>κατα·κάρδιος, ος, ον</b>, qui va au cœur, dans la région du cœur, HDN <i>7, 11, 6</i>.<p><b>Étym</b>. κ. καρδία.`

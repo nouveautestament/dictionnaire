@@ -1,1 +1,0 @@
-lar[76931]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> rythme où domine le pied παρίαμβος pour les joueurs de lyre, EPICH. <i>fr. 75 Ahrens etc</i>.`

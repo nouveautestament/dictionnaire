@@ -1,1 +1,0 @@
-lar[49854]=`<b>ἱστό·τονος, ος, ον</b>, tendu sur un métier de tisserand, AR. <i>Ran. 1315</i>.<p><b>Étym</b>. ἱ. τείνω.`

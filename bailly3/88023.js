@@ -1,1 +1,0 @@
-lar[88023]=`<b>πυρσο·λαμπής, ής, ές</b>, brillant de l’éclat du feu, RHÉT. <i>3, 525 W</i>.<p><b>Étym</b>. π. λάμπω.`

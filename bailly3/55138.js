@@ -1,1 +1,0 @@
-lar[55138]=`<b>ος, ον</b>, dont il faut prendre soin pour la sépulture, IL. <i>23, 160</i>.<p><b>Étym</b>. <i>cf</i>. κήδειος.`

@@ -1,1 +1,0 @@
-lar[65040]=`<b>μετα·φωτίζω</b>, briller ensuite, PTOL. <i>Math. synt. 3, t. 1, p. 155c</i>.<p><b>Étym</b>. μ. φῶς.`

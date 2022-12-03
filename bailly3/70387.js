@@ -1,1 +1,0 @@
-lar[70387]=`<b>εως (ἡ) :<br>      1</b> action de construire une maison, THC. <i>3, 21</i> ; PLAT. <i>Gorg. 455b ; au pl</i>. PLAT. <i>Rsp. 394a.</i><br><b>      2</b> <i>p. ext</i>. construction, édifice, PLAT. <i>Criti. 117a, Leg. 778e</i>.<p><b>Étym</b>. οἰκοδομέω.`

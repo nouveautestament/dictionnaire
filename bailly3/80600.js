@@ -1,1 +1,0 @@
-lar[80600]=`<b>πλαδαρόω-ῶ</b> <font color="purple">[ᾰᾰ]</font> rendre flasque, AQU. <i>Esai. 19, 3</i>.<p><b>Étym</b>. πλαδαρός.`

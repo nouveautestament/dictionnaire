@@ -1,1 +1,0 @@
-lar[38755]=`<b>ος, ον</b>, feint, controuvé, SYN. <i>17c</i>.<p><b>Étym</b>. ἐπιποιέω.`

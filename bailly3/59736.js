@@ -1,1 +1,0 @@
-lar[59736]=`<b>ας (ἡ)</b> port de vêtements brillants, NAZ. <i>1, 1200 Migne</i>.<p><b>Étym</b>. λ. φέρω.`

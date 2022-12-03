@@ -1,1 +1,0 @@
-lar[108674]=`<b>ων (οἱ)</b> <i>vraisembl</i>. les sacrificateurs de porcs, <i>n. d’une famille de Dèlos,</i> ATH. <i>173a</i>.<p><b>Étym</b>. χοῖρος.`

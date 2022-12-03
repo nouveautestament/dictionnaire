@@ -1,1 +1,0 @@
-lar[55937]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰ, <i>gén</i>. ᾱ]</font> voleuse, SOTAD. <i>(Bkk. p. 102, 28).</i><p><b>Étym</b>. κλέπτω.`

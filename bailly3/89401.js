@@ -1,1 +1,0 @@
-lar[89401]=`<b>ου (τὸ)</b> pierre précieuse rouge et transparente, <i>càd</i>. la cornaline ; <i>ou</i> brune, <i>càd</i>. la sarde, AR. <i>fr. 309, 13 Dind.</i> ; PLAT. <i>Phæd. 110d ;</i> TH. <i>Lap. 8 et 23, etc</i>.<p><b>Étym</b>. Σάρδεις.`

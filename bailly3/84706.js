@@ -1,1 +1,0 @@
-lar[84706]=`<b>προ·μεθύσκω</b> (<i>part. ao. pass</i>. -μεθυσθείς) enivrer auparavant, PLUT. <i>M. 734a</i>.`

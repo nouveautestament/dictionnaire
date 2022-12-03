@@ -1,1 +1,0 @@
-lar[33387]=`<i>adv</i>., avec expérience : ἐ. ἔχειν τινός, XÉN. <i>An. 2, 6, 1</i> ; DÉM. <i>1351, 7,</i> avoir l’expérience de qqe ch.<p>•<i> Cp</i>. -οτέρως, ESCHN. <i>12, 5</i>.<p><b>Étym</b>. ἔμπειρος.`

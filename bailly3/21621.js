@@ -1,1 +1,0 @@
-lar[21621]=`<b>ου (ὁ)</b> = <i>lat</i>. Gĕmellus, <i>n. d’h. rom</i>. ANTH. <i>7, 575</i>.`

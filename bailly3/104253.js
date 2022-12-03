@@ -1,1 +1,0 @@
-lar[104253]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> <font color="purple">[ῠ]</font> Hyriée, <i>fils de Poséidôn, fondateur de la v. d’Hyria,</i> NONN. <i>D. 13, 97</i>.`

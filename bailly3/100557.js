@@ -1,1 +1,0 @@
-lar[100557]=`<b>τρί·τονον, ου (τὸ)</b> <font color="purple">[ῐ]</font> espace de trois tons, EUCL. <i>Intr. harm. 5</i>.<p><b>Étym</b>. τρ. τόνος.`

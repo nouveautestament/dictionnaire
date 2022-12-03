@@ -1,1 +1,0 @@
-lar[109238]=`<b>χρυσό·ποκος, ος, ον</b> <font color="purple">[ῡ]</font> à toison d’or, NONN. <i>D. 10, 102</i>.<p><b>Étym</b>. χρ. πόκος.`

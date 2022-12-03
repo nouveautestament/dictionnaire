@@ -1,1 +1,0 @@
-lar[100365]=`<b>τριπλασι·εφέβδομος, ος, ον</b>, trois fois un septième aussi grand, NICOM. <i>Arithm. 1, 22</i>.<p><b>Étym</b>. τρ. ἐφέβδομος.`

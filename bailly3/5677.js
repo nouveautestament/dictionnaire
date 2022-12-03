@@ -1,1 +1,0 @@
-lar[5677]=`<b>ου (ὁ)</b> Ammônios, <i>h</i>. PLUT. <i>Them. 32, etc</i>.`

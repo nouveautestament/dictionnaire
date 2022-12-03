@@ -1,1 +1,0 @@
-lar[201]=`<b>ἁβρο·φυής, ής, ές</b>, d’une nature délicate, ANTH. <i>9, 412</i>.<p><b>Étym</b>. ἁβρός, φύω.`

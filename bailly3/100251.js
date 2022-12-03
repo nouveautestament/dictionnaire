@@ -1,1 +1,0 @@
-lar[100251]=`<b>τρί·κλυστος, ος, ον</b>, lavé trois fois <i>ou</i> très souvent, AR. (POLL. <i>6, 165).</i><p><b>Étym</b>. τρίς, κλύζω.`

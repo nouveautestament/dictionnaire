@@ -1,1 +1,0 @@
-lar[44696]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> animalcule <i>ou</i> insecte, ARSTT. <i>H.A. 5, 32, 1</i> ; ATH. <i>210c</i>.<p>➳ ζῳδάριον (<i>non</i> ζωδάριον) CIA. <i>2, 736, a, 4 (après 307 av. J.-C.), v. Meisterh. p. 51, 8</i>.<p><b>Étym</b>. ζῴδιον.`

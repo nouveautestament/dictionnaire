@@ -1,1 +1,0 @@
-lar[83316]=`<b>πραΰ·τροπος, ος, ον</b> <font color="purple">[ᾱ]</font> qui a le caractère doux : τὸ πραΰτροπον, PLUT. <i>M. 493d</i>, bon caractère.<p><b>Étym</b>. πρ. τρόπος.`

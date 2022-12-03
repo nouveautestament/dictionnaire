@@ -1,1 +1,0 @@
-lar[34523]=`<b>ἔν·θερμος, ος, ον</b>, échauffé, très chaud, HPC. <i>1180e ;</i> PLUT. <i>M. 951e ; fig</i>. ARSTT. <i>Physiogn. 2, 9</i>.<p><b>Étym</b>. ἐν, θερμός.`

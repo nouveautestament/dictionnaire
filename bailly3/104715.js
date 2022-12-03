@@ -1,1 +1,0 @@
-lar[104715]=`<b>ου (τὸ)</b> <font color="purple">[φᾰῑτ]</font> <i>c</i>. φαλάγγιον 2, DIOSC. <i>3, 122</i>.`

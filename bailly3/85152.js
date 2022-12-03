@@ -1,1 +1,0 @@
-lar[85152]=`<b>προσ·ανακρίνω</b> <font color="purple">[ῑ]</font><br><b>      1</b> rechercher en outre, PLUT. <i>M. 43e.</i><br><b>      2</b> examiner en outre, PLUT. <i>M. 592e</i>.`

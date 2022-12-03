@@ -1,1 +1,0 @@
-lar[17981]=`<b>ῆρος (ὁ)</b> officier qui recueillait les votes, <i>à Cnide,</i> PLUT. <i>M. 292a</i>.`

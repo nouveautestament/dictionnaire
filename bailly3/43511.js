@@ -1,1 +1,0 @@
-lar[43511]=`<b>εὐ·σύμφυτος, ος, ον</b> <font color="purple">[φῠ]</font> qui se soude aisément, TH. <i>C.P. 3, 7, 10</i>.<p><b>Étym</b>. εὖ, συμφύω.`

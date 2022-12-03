@@ -1,1 +1,0 @@
-lar[62115]=`<font color="purple">[ῠ]</font> <i>adv</i>., de manière à être délié <i>ou</i> dissous, ARSTT. <i>P.A. 2, 2, 25</i>.<p><b>Étym</b>. λυτός.`

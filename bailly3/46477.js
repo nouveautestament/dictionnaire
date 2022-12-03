@@ -1,1 +1,0 @@
-lar[46477]=`<font color="purple">[ᾱ]</font> <i>adv. béot. c</i>. Θήβηθεν, AR. <i>Ach. 862</i>.`

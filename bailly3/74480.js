@@ -1,1 +1,0 @@
-lar[74480]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾱ]</font> = <i>lat</i>. Palatium, le mt Palatin, STR. <i>234, etc.</i> ; PLUT. <i>Rom. 18, etc</i>.`

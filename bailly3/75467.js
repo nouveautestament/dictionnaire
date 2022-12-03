@@ -1,1 +1,0 @@
-lar[75467]=`<b>ος, ον</b>, qui a les membres contrefaits <i>ou</i> mutilés, RHÉT. <i>3, 663 W</i>.<p><b>Étym</b>. π. γυῖον.`

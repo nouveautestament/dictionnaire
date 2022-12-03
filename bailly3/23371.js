@@ -1,1 +1,0 @@
-lar[23371]=`<b>ή, όν</b>, qui concerne la Daphnèphorie, PROCL.<p><b>Étym</b>. Δαφνηφορία.`

@@ -1,1 +1,0 @@
-lar[51042]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Calenus, <i>h</i>. PLUT. <i>Brut. 8, etc</i>.`

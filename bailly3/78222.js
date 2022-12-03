@@ -1,1 +1,0 @@
-lar[78222]=`<b>ου (τὸ)</b> sorte d’euphorbe, <i>plante,</i> HPC. <i>Acut. 387</i>.<p><b>Étym</b>. πέπλος.`

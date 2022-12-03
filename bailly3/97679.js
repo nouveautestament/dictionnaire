@@ -1,1 +1,0 @@
-lar[97679]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῑχ]</font> petit morceau de salaison (viande <i>ou</i> poisson) AR. <i>Pax 563</i> ; CÉPHISOD. (<i>Com. fr. 2, 885</i>) ; ATH. <i>119c, etc</i>.<p><b>Étym</b>. <i>dim. de</i> τάριχος.`

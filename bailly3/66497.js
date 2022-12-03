@@ -1,1 +1,0 @@
-lar[66497]=`<b>ης (ἡ)</b> Monēta, <i>n. rom. de Junon,</i> PLUT. <i>Rom. 20, Cam. 36</i>.`

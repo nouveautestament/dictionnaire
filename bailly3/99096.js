@@ -1,1 +1,0 @@
-lar[99096]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾱ]</font> <i>c</i>. τιθασεία, TH. <i>H.P. 3, 2, 2 dout</i>.`

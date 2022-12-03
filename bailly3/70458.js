@@ -1,1 +1,0 @@
-lar[70458]=`<b>ης (ἡ)</b> marche d’un récit, <i>d’où</i> récit, poème, OD. <i>8, 75</i> ; CALL. <i>Del. 9</i> ; A.RH. <i>4, 150</i> ; LYC. <i>11 ; au pl</i>. OD. <i>8, 481 ; 22, 347</i>.<p><b>Étym</b>. <i>cf</i>. οἶμος.`

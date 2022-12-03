@@ -1,1 +1,0 @@
-lar[25802]=`<b>δια·τύφω</b> <font color="purple">[ῡ]</font> (<i>part. pf. pass</i>. διατετυμμένος) remplir de fumée, <i>fig</i>. aveugler, LIB. <i>1, 68</i>.`

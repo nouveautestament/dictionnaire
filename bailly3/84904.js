@@ -1,1 +1,0 @@
-lar[84904]=`<b>προ·παρατίθημι</b> <font color="purple">[τῐ]</font> exposer auparavant, CLÉM. <i>325</i>.<br><b><i>Moy.</i></b> servir (à table) auparavant <i>ou</i> servir pour le premier service, ATH. <i>53c</i>.`

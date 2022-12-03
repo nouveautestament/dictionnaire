@@ -1,1 +1,0 @@
-lar[82364]=`<b>πολυ·σκεπής, ής, ές</b>, aux nombreux abris <i>ou</i> aux abris profonds, EL. <i>N.A. 14, 26</i>.<p><b>Étym</b>. π. σκέπη.`

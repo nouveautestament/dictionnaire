@@ -1,1 +1,0 @@
-lar[38767]=`<b>ἐπι·πολεύω</b>, rester à la surface, EL. <i>N.A. 9, 61 ; au pass</i>. être surchargé à la surface, GAL. <i>6, 6, 433</i>.<p><b>Étym</b>. ἐπιπολή.`

@@ -1,1 +1,0 @@
-lar[100110]=`<b>άδος (ἡ) :<br>      1</b> le nombre trois, groupe de trois, PLAT. <i>Phæd. 104a, Rsp. 546c ;</i> PLUT. <i>Fab. 4</i>.<br><b>      2</b> le troisième jour, PHIL. <i>1, 13</i>.<br><b>      3</b> la Trinité, ECCL.<p><b>Étym</b>. τρεῖς.`

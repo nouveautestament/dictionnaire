@@ -1,1 +1,0 @@
-lar[74468]=`<b>α, ον</b> <font color="purple">[ᾰλᾰ]</font> de Palamède, <i>càd</i>. ingénieux, ALCIPHR. <i>3, 4, 2</i>.<p><b>Étym</b>. Παλαμήδης.`

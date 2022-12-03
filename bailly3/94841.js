@@ -1,1 +1,0 @@
-lar[94841]=`<b>συν·απεργάζομαι :<br>      1</b> aider à achever, à accomplir <i>ou</i> à exécuter, PLAT. <i>Rsp. 443c, Tim. 38c ;</i> PLUT. <i>M. 316e.</i><br><b>      2</b> venir en aide à, compléter <i>ou</i> achever l’effet (de la parole par la diction, le geste, <i>etc</i>.) ARSTT. <i>Poet. 17, 1 ; Rhet. 2, 8, 14</i>.`

@@ -1,1 +1,0 @@
-lar[10646]=`<i>adv</i>., vers l’orient, DP. <i>260</i>.<p><b>Étym</b>. ἀντολίη, -δε.`

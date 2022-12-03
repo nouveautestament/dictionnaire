@@ -1,1 +1,0 @@
-lar[41732]=`<i>adv</i>., avec prudence <i>ou</i> sagesse ; <i>au cp</i>. -ότερον, DC. <i>43, 16 ; au</i> <i>• Sup</i>. -ότατα, GEOP. <i>5, 16, 1</i>.<p><b>Étym</b>. εὔβουλος.`

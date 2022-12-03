@@ -1,1 +1,0 @@
-lar[58585]=`<b>εως (ἡ) :<br>      1</b> action d’entourer, d’envelopper, XÉN. <i>Hell. 4, 2, 20</i>.<br><b>      2</b> corps de troupes manœuvrant pour cerner, THC. <i>4, 128</i>.<p><b>Étym</b>. κυκλόω.`

@@ -1,1 +1,0 @@
-lar[9694]=`<b>ἀντ·ερύομαι</b>, être estimé à l’égal de, <i>gén</i>. THGN. <i>77</i>.`

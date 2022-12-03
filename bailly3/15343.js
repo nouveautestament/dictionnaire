@@ -1,1 +1,0 @@
-lar[15343]=`<b>ἀρτι·θανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> mort depuis peu, EUR. <i>Alc. 608</i>.<p><b>Étym</b>. ἄ. θνῄσκω.`

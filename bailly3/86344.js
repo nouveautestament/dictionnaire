@@ -1,1 +1,0 @@
-lar[86344]=`<b>ατος (τὸ) :<br>      1</b> ce que l’on prend <i>ou</i> prélève pour soi, ARSTT. <i>Nic. 4, 7, 1</i>.<br><b>      2</b> affectation, faux-semblant, feinte, DH. <i>10, 13</i> ; APP. <i>Civ. 3, 64, etc</i>.<p><b>Étym</b>. προσποιέω.`

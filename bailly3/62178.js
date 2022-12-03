@@ -1,1 +1,0 @@
-lar[62178]=`<b>λωποδυσίου δίκη (ἡ)</b> <font color="purple">[ῠ]</font> procès pour vol d’habit, HERMOG.<p><b>Étym</b>. λωποδύτης.`

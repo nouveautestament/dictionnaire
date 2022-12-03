@@ -1,1 +1,0 @@
-lar[99564]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite flûte pour donner le ton aux chanteurs et aux orateurs, PLUT. <i>T. Gracch. 2, M. 456a ;</i> QUINT. <i>1, 10, 27</i>.<p><b>Étym</b>. τόνος.`

@@ -1,1 +1,0 @@
-lar[96628]=`<b>ή, όν</b>, qui montre de l’empressement pour, M. ANT. <i>1, 16</i>.<p><b>Étym</b>. συσπουδάζω.`

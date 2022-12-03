@@ -1,1 +1,0 @@
-lar[104798]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui donne <i>ou</i> apporte la lumière, <i>ép. de Zeus,</i> EUR. <i>Rhes. 355</i>.`

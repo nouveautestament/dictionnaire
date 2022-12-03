@@ -1,1 +1,0 @@
-lar[96359]=`<b>συν·τορμόω-ῶ</b>, assujettir à l’aide de chevilles, PHIL. BYZ. <i>Bel. 57</i>.<p><b>Étym</b>. σύν, τόρμος.`

@@ -1,1 +1,0 @@
-lar[32236]=`<b>ου (τὸ)</b> renversement de la paupière inférieure, <i>maladie des yeux,</i> GAL. <i>2, 271</i> ; P. ÉG. <i>114 Briau</i>.<p><b>Étym</b>. ἐκτροπή.`

@@ -1,1 +1,0 @@
-lar[68371]=`<b>νευρό·καυλος, ος, ον</b>, à tige fibreuse <i>ou</i> filamenteuse, TH. <i>H.P. 6, 1, 4</i>.<p><b>Étym</b>. ν. καυλός.`

@@ -1,1 +1,0 @@
-lar[58329]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> champ de fèves, TH. <i>H.P. 4, 10</i>.<p><b>Étym</b>. κύαμος.`

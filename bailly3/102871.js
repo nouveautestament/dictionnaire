@@ -1,1 +1,0 @@
-lar[102871]=`<b>ὑπερ·φιλέω-ῶ</b> <font color="purple">[ῐ]</font> aimer à l’excès, passionnément, AR. <i>Pl. 1072</i> ; XÉN. <i>Cyr. 3, 1, 36 ; Hell. 7, 1, 13</i> ; ARSTT. <i>Nic. 9, 1</i>.`

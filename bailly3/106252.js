@@ -1,1 +1,0 @@
-lar[106252]=`<b>η, ον</b> <font color="purple">[ῐῠῐ]</font><br><b>      1</b> de tilleul, HPC. <i>Art. 813</i>.<br><b>      2</b> léger <i>ou</i> mince comme l’écorce du tilleul, AR. <i>Av. 1377</i> ; DC. <i>67, 15</i> ; GAL. <i>18, 566</i>.<p><b>Étym</b>. φιλύρα.`

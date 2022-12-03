@@ -1,1 +1,0 @@
-lar[26818]=`<b>ῶν (αἱ)</b> sorte de pendants d’oreilles, AR. <i>fr. 309</i>.<p><b>Étym</b>. δίοπος².`

@@ -1,1 +1,0 @@
-lar[20737]=`<b>βραχυτομέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰῠ]</font> couper <i>ou</i> tailler court, TH. <i>C.P. 3, 14, 2</i> ; GEOP. <i>5, 32</i>.<p><b>Étym</b>. *βραχυτόμος, <i>de</i> βρ. τέμνω.`

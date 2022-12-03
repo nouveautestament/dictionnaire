@@ -1,1 +1,0 @@
-lar[57956]=`<b>κριόω-ῶ</b> <font color="purple">[ῑ]</font> transformer en bélier, assimiler à un bélier, BAS. <i>1, 1112a</i>.<p><b>Étym</b>. κριός.`

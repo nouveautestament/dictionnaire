@@ -1,1 +1,0 @@
-lar[31500]=`<b>ής, ές</b>, suspendu, <i>en parl. d’une besace,</i> HDN <i>1, 9, 7 ; fig</i>. ἐκκρ. τινος, ANTH. <i>5, 247</i> ; ἐπί τινι, ANTH. <i>5, 241,</i> suspendu à qqe ch. (à une espérance, <i>etc</i>.).<p><b>Étym</b>. ἐκκρέμαμαι.`

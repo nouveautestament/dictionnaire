@@ -1,1 +1,0 @@
-lar[2016]=`<b>ἄ·θηλος, ος, ον :<br>      1</b> non allaité, AR. <i>Lys. 814</i>.<br><b>      2</b> qui ne tète plus, sevré, SIM. AM. <i>fr. 5</i>.<p><b>Étym</b>. ἀ, θήλη.`

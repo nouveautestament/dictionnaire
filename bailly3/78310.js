@@ -1,1 +1,0 @@
-lar[78310]=`<b>ου</b> <font color="purple">[ᾰῐ]</font> <i>adj. m</i>. habitant de Pergame, ANTH. <i>App. 9, 45</i>.<p><b>Étym</b>. Πέργαμος.`

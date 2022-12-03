@@ -1,1 +1,0 @@
-lar[39864]=`<b>ῆρος (ὁ)</b> qui veille à <i>ou</i> sur, <i>gén</i>. ESCHL. <i>Sept. 640</i> ; ARSTT. <i>Mund. 6, 11</i>.`

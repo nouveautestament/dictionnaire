@@ -1,1 +1,0 @@
-lar[78795]=`<b>περι·κνημίς, ῖδος (ἡ)</b> <font color="purple">[ῑδ]</font> armure des jambes, jambart, DH. <i>4, 16</i> ; PLUT. <i>Phil. 9</i>.<p><b>Étym</b>. π. κνήμη.`

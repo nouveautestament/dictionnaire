@@ -1,1 +1,0 @@
-lar[109809]=`<b>ψηφοπαικτέω-ῶ</b>, escamoter, faire des tours de prestidigitation, ARTÉM. <i>3, 56 ; fig. avec un acc</i>. LYS. <i>fr. 7</i>.<p><b>Étym</b>. ψηφοπαίκτης.`

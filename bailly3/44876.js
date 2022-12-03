@@ -1,1 +1,0 @@
-lar[44876]=`<b>α, ον</b> <font color="purple">[ᾰλ]</font> brisé, POÈT. (EM. <i>418, 1).</i><p><b>Étym</b>. ἄγνυμι.`

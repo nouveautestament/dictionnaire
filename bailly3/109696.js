@@ -1,1 +1,0 @@
-lar[109696]=`<b>ψευδολογέω-ῶ</b>, dire des mensonges, des faussetés, ISOCR. <i>209d ;</i> ESCHN. <i>43, 41, etc</i>.<p><b>Étym</b>. ψευδολόγος.`

@@ -1,1 +1,0 @@
-lar[40193]=`<font color="purple">[ᾰ]</font> d’une manière efficace <i>ou</i> avantageuse, PLUT. <i>Cam. 16</i>.`

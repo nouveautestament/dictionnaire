@@ -1,1 +1,0 @@
-lar[91290]=`<b>ίτιδος</b> <font color="purple">[ῠᾰῑῐδ]</font> <i>adj. f</i>. protectrice des chiens, <i>ép. d’Artémis et d’Hékatè,</i> ORPH. <i>H. 35, 12</i>.<p><b>Étym</b>. σκύλαξ.`

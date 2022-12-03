@@ -1,1 +1,0 @@
-lar[20629]=`<b>βραδυ·πεψία, ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> digestion lente <i>ou</i> difficile, GAL. <i>7, 62</i>.<p><b>Étym</b>. βρ. πεπτός.`

@@ -1,1 +1,0 @@
-lar[86569]=`<b>προσ·υπομένω</b>, supporter en outre <i>ou</i> encore, PHIL. <i>2, 531</i>.`

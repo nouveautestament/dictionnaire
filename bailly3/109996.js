@@ -1,1 +1,0 @@
-lar[109996]=`<b>ψυχο·τρόφος, ος, ον</b> <font color="purple">[ῡ]</font> qui entretient la vie, vivifiant, ORPH. <i>H. 15, 3</i> ; SYN. <i>p. 322</i>.<p><b>Étym</b>. ψ. τρέφω.`

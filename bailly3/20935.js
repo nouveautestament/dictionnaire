@@ -1,1 +1,0 @@
-lar[20935]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. βρύχημα OPP. <i>C. 4, 171</i>.`

@@ -1,1 +1,0 @@
-lar[33028]=`<b>ή, όν</b>, qu’on peut espérer, PLAT. <i>Leg. 853e ;</i> ARSTT. <i>Mem. 1</i>.<p><b>Étym</b>. <i>vb. de</i> ἐλπίζω.`

@@ -1,1 +1,0 @@
-lar[23575]=`<b>δεινο·προσωπέω-ῶ</b> (<i>part. ao</i>. -ωπήσαντος) avoir un visage terrible, EUR. <i>Ph. arg</i>.<p><b>Étym</b>. δ. πρόσωπον.`

@@ -1,1 +1,0 @@
-lar[109901]=`<b>ψοφο·ειδής, ής, ές</b>, qui fait une sorte de bruit : φωνήεντα ψοφοειδῆ, DH. <i>Comp. 16,</i> consonnes sonores.<p><b>Étym</b>. ψόφος, εἶδος.`

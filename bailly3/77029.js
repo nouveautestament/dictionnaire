@@ -1,1 +1,0 @@
-lar[77029]=`<b>ατος (τὸ)</b> construction élevée près d’une autre <i>ou</i> pour intercepter, ARSTT. <i>P.A. 3, 10, 3</i>.<p><b>Étym</b>. π. οἰκοδομέω.`

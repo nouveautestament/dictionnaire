@@ -1,1 +1,0 @@
-lar[13023]=`<b>ἀπο·παπταίνω</b> <font color="darkgreen">(<i>f. épq. 3 pl</i>. -παπτανέουσιν)</font> <font color="purple">[ᾰν]</font> regarder derrière soi pour fuir, IL. <i>14, 101</i>.`

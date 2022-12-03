@@ -1,1 +1,0 @@
-lar[103538]=`<b>ὑπο·μετέωρος, ος, ον</b>, qui a légèrement besoin de support, HPC. <i>Fract. 766 Littré</i>.`

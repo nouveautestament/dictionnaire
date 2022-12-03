@@ -1,1 +1,0 @@
-lar[30385]=`<b>εἰκοσι·τέσσαρες</b> <i>ou</i> <b>-τέτταρες, ες, α</b> <font color="purple">[ῐᾰ]</font> vingt-quatre, SPT. <i>Num. 7, 88</i> ; DS. <i>14, 92</i>.<p><b>Étym</b>. εἴ. τέσσαρες.`

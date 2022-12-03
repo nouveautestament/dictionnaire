@@ -1,1 +1,0 @@
-lar[7131]=`<b>ἄν·αλτος, ος, ον</b>, insatiable, OD. <i>17, 228 ; 18, 364</i>.<p><b>Étym</b>. ἀν-, <i>indo-europ</i>. *h₂el-, croître ; pousser, nourrir ; <i>cf</i>. ἀλδαίνω, <i>lat</i>. alō.`

@@ -1,1 +1,0 @@
-lar[39643]=`<b>ἐπιχαιρέ·κακος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se réjouit du malheur d’autrui, ANTIPH. (ATH. <i>688b</i>) ; ARSTT. <i>Nic. 2, 7, 15</i>.<p><b>Étym</b>. ἐπιχαίρω, κακός.`

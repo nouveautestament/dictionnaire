@@ -1,1 +1,0 @@
-lar[31453]=`<b>ή, όν</b> <font color="purple">[ῐτ]</font> disposé à éviter, ARR. <i>Epict. 1, 1, 12</i>.<p><b>Étym</b>. ἐκκλίνω.`

@@ -1,1 +1,0 @@
-lar[64372]=`<b>ας (ἡ)</b> <font color="purple">[ῐδ]</font> commandement d’une section de troupes, gouvernement d’une portion de territoire, JOS. <i>A.J. 15, 7, 3</i>.<p><b>Étym</b>. μεριδάρχης.`

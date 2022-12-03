@@ -1,1 +1,0 @@
-lar[64336]=`<i>vb. réc. de</i> μένω, DH. <i>7, 27</i> ; ES. <i>158 Korais</i>.`

@@ -1,1 +1,0 @@
-lar[28791]=`<b>δυσ·πένθερος, ος, ον</b>, causé par un mauvais beau-père, NONN. <i>D. 3, 309</i>.<p><b>Étym</b>. δ. πενθερός.`

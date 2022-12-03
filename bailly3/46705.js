@@ -1,1 +1,0 @@
-lar[46705]=`<b>θεο·μανία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> transport divin, inspiration divine, PHIL. <i>1, 571</i>.<p><b>Étym</b>. θεομανής.`

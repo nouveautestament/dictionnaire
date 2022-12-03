@@ -1,1 +1,0 @@
-lar[29906]=`<b>ἐγχεσί·χειρ, -χειρος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> dont la main porte une lance, belliqueux, ORPH. <i>fr. 2, 18</i>.<p><b>Étym</b>. ἔγχος, χείρ.`

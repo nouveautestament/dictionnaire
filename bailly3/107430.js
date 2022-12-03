@@ -1,1 +1,0 @@
-lar[107430]=`<b>ή, όν</b>, lumineux, XÉN. <i>Mem. 3, 10, 1 ; 4, 3, 4</i> ; PLUT. <i>M. 1110b ; fig</i>. PLUT. <i>M. 9b</i>.<p>•<i> Cp</i>. -ότερος, PLUT. <i>M. 9b ;</i> SPT. <i>Sir. 17, 25 ; • Sup</i>. -ότατος, SCH.-IL. <i>1, 399</i>.<p><b>Étym</b>. φῶς.`

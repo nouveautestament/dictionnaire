@@ -1,1 +1,0 @@
-lar[28306]=`<b>δυσ·διαχώρητος, ος, ον :<br>      1</b> difficile à digérer, ARSTT. <i>Probl. 21, 8, 1</i>.<br><b>      2</b> qui sécrète <i>ou</i> évacue difficilement, A. APHR. <i>Probl. 1, 90</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. δ. διαχωρέω.`

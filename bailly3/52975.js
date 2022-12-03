@@ -1,1 +1,0 @@
-lar[52975]=`<i>adv</i>., d’une manière digne de, <i>gén</i>. SOPH. <i>O.C. 911 ; abs</i>. d’une manière méritée, POL. <i>1, 88, 5</i>.<p><b>Étym</b>. κατάξιος.`

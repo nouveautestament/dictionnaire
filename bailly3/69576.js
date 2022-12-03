@@ -1,1 +1,0 @@
-lar[69576]=`<b>ου (τὸ)</b> <font color="purple">[ξῐ]</font> glaïeul (<i>propr</i>. petite épée, <i>cf. lat</i>. gladiolus) <i>plante,</i> TH. <i>H.P. 6, 8, 1, etc.</i> ; DIOSC. <i>4, 20</i>.<p><b>Étym</b>. <i>dim. de</i> ξίφος.`

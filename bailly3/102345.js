@@ -1,1 +1,0 @@
-lar[102345]=`<b>ὑπερ·βιβάζω</b> <font color="purple">[ῐ]</font><br><b>      1</b> faire passer par-dessus <i>ou</i> au delà, transporter, POL. <i>8, 36, 9</i> ; LUC. <i>V.H. 2, 42</i>.<br><b>      2</b> transposer une lettre <i>ou</i> un accent, Ps.-PLUT. <i>V. Hom. 9</i> ; DYSC. <i>Synt. 66</i>.`

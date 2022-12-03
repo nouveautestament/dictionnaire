@@ -1,1 +1,0 @@
-lar[106083]=`<b>φιλό·σκοπος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le but, habitué à viser le but, HIM. <i>Or. 14</i>.<p><b>Étym</b>. φ. σκοπός.`

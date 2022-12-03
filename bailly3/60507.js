@@ -1,1 +1,0 @@
-lar[60507]=`<b>ας (ἡ)</b> territoire de Leucade, THC. <i>3, 94 ; 8, 13</i>.<p><b>Étym</b>. Λευκάς.`

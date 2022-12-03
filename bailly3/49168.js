@@ -1,1 +1,0 @@
-lar[49168]=`<i>adv</i>., à la manière des Juifs, SPT. <i>4Reg. 18, 26</i>.<p><b>Étym</b>. ἰουδαΐζω.`

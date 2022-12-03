@@ -1,1 +1,0 @@
-lar[3540]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> Akontée, <i>h</i>. ANTH. <i>6, 91</i>.`

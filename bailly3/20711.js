@@ -1,1 +1,0 @@
-lar[20711]=`<b>ας (ἡ)</b> <font color="purple">[ᾰχ]</font> respiration courte, GAL. <i>7, 249, 285</i>.<p><b>Étym</b>. βραχύπνοος.`

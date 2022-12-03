@@ -1,1 +1,0 @@
-lar[79969]=`<i>adv</i>., avec réflexion, DIOTOG. (STOB. <i>251, 31</i>).`

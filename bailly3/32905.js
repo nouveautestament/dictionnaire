@@ -1,1 +1,0 @@
-lar[32905]=`<b>ου (ὁ)</b> Hellanikos :<br><b>      1</b> <i>ancien historien de Lesbos,</i> THC. <i>1, 97</i> ; DH. <i>1, 22</i> ; PLUT. <i>Thes. 17, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Dio. 42, etc</i>.`

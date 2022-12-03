@@ -1,1 +1,0 @@
-lar[71060]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> petit nombre d’enfants, PROCL. <i>Ptol. 4, 6, p. 264</i>.<p><b>Étym</b>. ὀλιγότεκνος.`

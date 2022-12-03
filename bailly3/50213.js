@@ -1,1 +1,0 @@
-lar[50213]=`<i>par apocope et assimilation poét. pour</i> κατά <i>devant un</i> δ : κὰδ δέ, IL. <i>2, 160, etc.</i> ; κὰδ δύναμιν, HÉS. <i>O. 334, etc</i>.`

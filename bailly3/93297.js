@@ -1,1 +1,0 @@
-lar[93297]=`<i>adv</i>., avec approbation, ARR. <i>Epict. 1, 14, 7</i>.`

@@ -1,1 +1,0 @@
-lar[38451]=`<i>adv</i>., confusément, pêle-mêle, IL. <i>11, 525, etc.</i> ; OD. <i>11, 537</i>.<p><b>Étym</b>. ἐπιμίγνυμι.`

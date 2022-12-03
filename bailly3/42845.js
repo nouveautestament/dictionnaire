@@ -1,1 +1,0 @@
-lar[42845]=`<i>adv</i>., par une voie facile, facilement, heureusement, SPT. <i>Prov. 30, 29</i>.<p><b>Étym</b>. εὔοδος.`

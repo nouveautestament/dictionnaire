@@ -1,1 +1,0 @@
-lar[72872]=`<b>όεσσα, όεν</b>, qui a une longue tige, NIC. <i>Th. 840</i>.<p><b>Étym</b>. ὄρμενος.`

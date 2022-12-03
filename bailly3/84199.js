@@ -1,1 +1,0 @@
-lar[84199]=`<b>προ·εξεπίσταμαι</b>, <i>par contr</i>. <b>προὐξεπίσταμαι</b> (<i>seul. prés</i>.) savoir d’avance, <i>acc</i>. ESCHL. <i>Pr. 101, 699</i>.`

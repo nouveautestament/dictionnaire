@@ -1,1 +1,0 @@
-lar[55435]=`<font color="purple">[ᾰ]</font> crier comme le chat-huant, AR. <i>Lys. 760</i>.<p><b>Étym</b>. κικκαβαῦ.`

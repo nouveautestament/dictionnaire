@@ -1,1 +1,0 @@
-lar[6005]=`<b>ἀμφ·ελελίζω</b> (<i>seul. prés. et ao. sbj. 3 sg</i>. -ίξῃ) faire tourner autour, APOLLIN. <i>Ps. 28, 16 ; au pass. (seul. prés</i>.) tourner autour, Q. SM. <i>11, 465</i> ; NONN. <i>D. 5, 148 ; 6, 185</i>.`

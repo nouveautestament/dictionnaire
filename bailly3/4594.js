@@ -1,1 +1,0 @@
-lar[4594]=`<b>ἁλί·τροχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui court à travers la mer, IBYC. <i>fr. 49 (acc. sg. irrég</i>. -τροχα).<p><b>Étym</b>. ἅ. τρέχω.`

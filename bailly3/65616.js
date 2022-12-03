@@ -1,1 +1,0 @@
-lar[65616]=`<b>μιαιφονέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἐμιαιφόνουν ; <i>ao. pass</i>. ἐμιαιφονήθην) :</font><br><b>      1</b> se souiller d’un meurtre, PLAT. <i>Rsp. 565e ;</i> EUR. <i>I.A. 1364</i>.<br><b>      2</b> <i>act</i>. tuer, assassiner, PLAT. <i>Rsp. 571d ;</i> ISOCR. <i>271b ;</i> LUC. <i>D. mort. 12, 3, etc</i>.<p><b>Étym</b>. μιαιφόνος.`

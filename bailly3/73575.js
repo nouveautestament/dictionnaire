@@ -1,1 +1,0 @@
-lar[73575]=`<b>οὐλό·φρων, ονος (ὁ, ἡ)</b> à l’esprit funeste, ESCHL. <i>Suppl. 750 conj. p</i>. δουλόφρων.`

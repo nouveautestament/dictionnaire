@@ -1,1 +1,0 @@
-lar[60614]=`<b>λευκο·σώματος, ος, ον</b> <font color="purple">[ᾰ]</font> au corps blanc, ANTIPH. (ATH. <i>112d</i>).<p><b>Étym</b>. λ. σῶμα.`

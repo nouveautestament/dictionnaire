@@ -1,1 +1,0 @@
-lar[71482]=`<b>*ὁμοεθνία</b>, <i>ion</i>. <b>ὁμοεθνίη, ης (ἡ)</b> union intime des parties d’un tout, HPC. <i>408, 30 ; 663, 52</i>.<p><b>Étym</b>. ὁμοεθνής.`

@@ -1,1 +1,0 @@
-lar[54764]=`<b>κεντρό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> frappé de l’aiguillon <i>ou</i> du fouet, <i>d’où</i> misérable, NAZ.`

@@ -1,1 +1,0 @@
-lar[79656]=`<b>περι·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font> se détacher tout autour, JOS. <i>Macc. 7</i>.`

@@ -1,1 +1,0 @@
-lar[79588]=`<b>περι·φίλητος, ος, ον</b> <font color="purple">[φῐ]</font> très aimé de, très cher à, <i>dat</i>. APP. <i>Civ. 4, 85</i>.<p><b>Étym</b>. π. φιλέω.`

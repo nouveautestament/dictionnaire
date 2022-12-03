@@ -1,1 +1,0 @@
-lar[34766]=`<b>ἐνν·ῆμαρ</b>, <i>adv</i>., pendant neuf jours, IL. <i>1, 53, etc</i>.<p><b>Étym</b>. ἐννέα, ἦμαρ.`

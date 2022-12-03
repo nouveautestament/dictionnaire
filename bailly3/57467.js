@@ -1,1 +1,0 @@
-lar[57467]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> plein de cailloux, TH. <i>H.P. 9, 9, 6</i>.<p><b>Étym</b>. κόχλαξ, -ωδης.`

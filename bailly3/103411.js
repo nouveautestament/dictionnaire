@@ -1,1 +1,0 @@
-lar[103411]=`<b>ὑπο·κρέκω :<br>      1</b> résonner doucement, <i>en parl. d’un instrument à cordes,</i> LUC. <i>D. mer. 15, 2 ; fig</i>. ἀεὶ τὸ ἡδὺ καὶ τὸ πρὸς χάριν ὑποκρέκειν, PLUT. <i>M. 55d</i>, ne faire entendre que des sons agréables et des paroles flatteuses.<br><b>      2</b> résonner d’accord avec, <i>dat</i>. PD. <i>O. 9, 59</i>.`

@@ -1,1 +1,0 @@
-lar[91716]=`<font color="purple">[ᾰῐᾰῐ]</font> <i>adv</i>., rarement, LUC. <i>Rh. præc. 18</i>.<p><b>Étym</b>. σπάνιος, -άκις.`

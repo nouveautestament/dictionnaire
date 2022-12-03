@@ -1,1 +1,0 @@
-lar[84376]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Prothytès, <i>propr</i>. « qui sacrifie devant l’autel », <i>Thébain,</i> PLUT. <i>Alex. 11</i>.<p><b>Étym</b>. προθύω.`

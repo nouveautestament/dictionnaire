@@ -1,1 +1,0 @@
-lar[78672]=`<b>περι·θύομαι</b>, faire des sacrifices nombreux <i>ou</i> de tous côtés, PLUT. <i>M. 168d</i>.`

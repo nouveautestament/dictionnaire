@@ -1,1 +1,0 @@
-lar[82408]=`<b>πολύ·στρεπτος, ος, ον :<br>      1</b> tout à fait enroulé <i>ou</i> tordu, NIC. <i>Al. 224 ; p. suite,</i> bien tressé, ORPH. <i>Arg. 1092</i>.<br><b>      2</b> <i>fig</i>. facile à retourner, changeant, inconstant, CHRISTOD. <i>Ecphr. 172, 224</i>.<p><b>Étym</b>. π. στρέφω.`

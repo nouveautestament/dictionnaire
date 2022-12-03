@@ -1,1 +1,0 @@
-lar[93726]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> d’une manière calomnieuse, DS. <i>15, 40</i> ; DICÉARQ. <i>p. 9 Huds</i>.<p>•<i> Cp</i>. -έστερος, LYS. (ATH. <i>611f</i>).<p><b>Étym</b>. συκοφάντης, -ωδης.`

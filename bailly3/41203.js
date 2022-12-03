@@ -1,1 +1,0 @@
-lar[41203]=`<b>*ἐσχατάω</b> (<i>seul. part. épq</i>. ἐσχατόων) <font color="purple">[χᾰ]</font><br><b>      1</b> être à l’extrémité, IL. <i>2, 508, 616 ; 10, 206</i> ; ἕσπερος ἐ. CALL. <i>Del. 174,</i> l’extrême couchant.<br><b>      2</b> <i>avec idée de temps,</i> qui arrive enfin, MAN. <i>4, 459</i>.<p><b>Étym</b>. ἔσχατος.`

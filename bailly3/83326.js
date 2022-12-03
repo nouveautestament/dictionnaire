@@ -1,1 +1,0 @@
-lar[83326]=`<b>ης, ες</b>, convenable, bienséant, AR. <i>Pl. 793</i> ; τινί, AR. <i>Pl. 797,</i> pour qqn.<p>•<i> Cp</i>. -έστερος, PLAT. <i>1 Alc. 135b ; sup</i>. -έστατος, XÉN. <i>Mem. 2, 7, 10</i>.<p><b>Étym</b>. πρέπω, -ωδης.`

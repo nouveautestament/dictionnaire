@@ -1,1 +1,0 @@
-lar[106978]=`<font color="purple">[ῠ]</font> imiter les Phrygiens, E. BYZ. <i>v°</i> Ἀρμενία.<p><b>Étym</b>. Φρύξ.`

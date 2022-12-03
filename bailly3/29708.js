@@ -1,1 +1,0 @@
-lar[29708]=`<b>ἐγ·κολλάω-ῶ</b>, coller dans, encoller, coller (un joint) HÉRON <i>Aut. 265</i> ; SPT. <i>Zach. 14, 5</i> ; MOSCHION <i>Mul. pass. 5, p. 3</i>.`

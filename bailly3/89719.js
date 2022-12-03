@@ -1,1 +1,0 @@
-lar[89719]=`<b>ου (ὁ)</b> Seldômos, <i>Carien,</i> HDT. <i>7, 98</i>.`

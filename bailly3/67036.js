@@ -1,1 +1,0 @@
-lar[67036]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui concerne les mythes, mythique, PLAT. <i>Phædr. 265c ;</i> DH. <i>1, 2</i> ; PLUT. <i>M. 628b ;</i> τὰ μυθικά, ATH. <i>572f</i>, recueil de légendes.<p><b>Étym</b>. μῦθος.`

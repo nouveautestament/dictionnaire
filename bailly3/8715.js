@@ -1,1 +1,0 @@
-lar[8715]=`<i>adv</i>., d’une manière sauvage, durement, DS. <i>Exc. p. 100</i>.`

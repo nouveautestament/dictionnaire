@@ -1,1 +1,0 @@
-lar[66778]=`<b>εως (ἡ) :<br>      1</b> action de donner une forme à, TH. <i>C.P. 3, 7, 4</i>.<br><b>      2</b> <i>d’où</i> forme, figure, extérieur, NT. <i>Rom. 2, 20 ; 2Tim. 3, 5</i>.<p><b>Étym</b>. μορφόω.`

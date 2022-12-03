@@ -1,1 +1,0 @@
-lar[34975]=`<b>ἐν·στρατοπεδεύω</b> <font color="purple">[ᾰ]</font> camper dans, THC. <i>2, 20 ; avec</i> ἐν <i>et le dat</i>. PLUT. <i>Thes. 27</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HDT. <i>9, 2, 85</i>.`

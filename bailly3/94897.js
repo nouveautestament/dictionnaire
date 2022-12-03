@@ -1,1 +1,0 @@
-lar[94897]=`<b>συν·απομαλάσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[μᾰ]</font> amollir avec <i>ou</i> en même temps, ARISTÉN. <i>1, 1</i>.`

@@ -1,1 +1,0 @@
-lar[55587]=`<b>(ἡ)</b> Cirta (<i>auj</i>. Constantine) <i>v. de Numidie,</i> POL. <i>37, 3, etc</i>.`

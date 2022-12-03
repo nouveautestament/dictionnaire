@@ -1,1 +1,0 @@
-lar[18967]=`<i>impér. ao.2 de</i> βάλλω, <i>employé c. interj</i>. plût aux dieux que ! <i>avec l’opt</i>. ALCM. <i>21</i>.`

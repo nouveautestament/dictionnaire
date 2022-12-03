@@ -1,1 +1,0 @@
-lar[66717]=`<b>*μορία</b>, <i>seul. ion</i>. <b>μορίη, ης (ἡ)</b> <font color="purple">[ῑ]</font> <i>c</i>. μωρία, ANTH. <i>11, 305</i>.`

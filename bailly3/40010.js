@@ -1,1 +1,0 @@
-lar[40010]=`<b>ἑπτά·πορος, ος, ον</b> <font color="purple">[ᾰ]</font> à sept directions :<br><b>      1</b> à sept étoiles, <i>en parl. de planètes,</i> HH. <i>Mars 7 ; ou des Pléiades,</i> EUR. <i>I.A. 7, Or. 1005, Rhes. 529</i> ; ANTH. <i>7, 748</i>.<br><b>      2</b> à sept embouchures, <i>en parl. du Nil,</i> MOSCH. <i>2, 51</i> ; DP. <i>264</i>.<p><b>Étym</b>. ἑ. πόρος.`

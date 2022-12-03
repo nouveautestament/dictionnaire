@@ -1,1 +1,0 @@
-lar[14729]=`<b>Ἀριστο·μήδης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Aristomèdès, <i>h</i>. DÉM. <i>10, 70 Baiter-Sauppe, au voc</i>. Ἀριστόμηδες.<p><b>Étym</b>. ἄ. μήδομαι.`

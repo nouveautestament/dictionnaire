@@ -1,1 +1,0 @@
-lar[32560]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> qui chasse les cerfs, chasseresse (Artémis) PAUS. <i>6, 22, 10 et 11</i>.<p><b>Étym</b>. ἔλαφος.`

@@ -1,1 +1,0 @@
-lar[82056]=`<b>πολυ·κώκυτος, ος, ον</b> <font color="purple">[ῠῡ]</font> qui se lamente beaucoup, THGN. <i>244</i>.<p><b>Étym</b>. π. κοκύω.`

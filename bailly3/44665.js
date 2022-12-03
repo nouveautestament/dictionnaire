@@ -1,1 +1,0 @@
-lar[44665]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> propre à faire fermenter, DIOCL. (ATH. <i>55b</i>).<p><b>Étym</b>. ζυμωτός.`

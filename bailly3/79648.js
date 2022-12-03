@@ -1,1 +1,0 @@
-lar[79648]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> planté tout autour, APP. <i>Iber. 64</i>.<p><b>Étym</b>. περιφύω.`

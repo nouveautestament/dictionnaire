@@ -1,1 +1,0 @@
-lar[290]=`<b>ἀγα·κλυτός, ή, όν</b> <font color="purple">[ᾰαῠ]</font> très illustre, <i>en parl. de pers</i>. IL. <i>6, 436</i> ; OD. <i>8, 502, etc. ; en parl. de choses, seul. avec</i> δώματα, OD. <i>3, 388, etc</i>.<p><b>Étym</b>. ἀγα-, κλ.`

@@ -1,1 +1,0 @@
-lar[17365]=`<b>αὐτ·ήκοος, ος, ον :<br>      1</b> qui a entendu de ses oreilles, <i>gén</i>. THC. <i>1, 133</i> ; PLAT. <i>Leg. 658c.</i><br><b>      2</b> qui n’écoute que soi-même, qui ne se confie <i>ou</i> n’obéit à personne, PHIL. <i>1, 645</i>.<p><b>Étym</b>. αὐτός, ἀκούω.`

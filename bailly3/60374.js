@@ -1,1 +1,0 @@
-lar[60374]=`<b>λεπράω-ῶ :<br>      1</b> être atteint de la lèpre, être lépreux, HPC. <i>1146g ;</i> SPT. <i>Lev. 22, 4, Ex. 4, 6, Num. 12, 10</i>.<br><b>      2</b> se couvrir de fleurs blanches, <i>en parl. du vin,</i> AR. <i>fr. 511</i>.<p><b>Étym</b>. λέπρα.`

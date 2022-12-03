@@ -1,1 +1,0 @@
-lar[82455]=`<b>πολύ·τιμος, ος, ον</b> <font color="purple">[ῠῑ]</font><br><b>      1</b> très honoré, MÉN. <i>4, 101 Meineke dout.</i><br><b>      2</b> très estimé, précieux, ANTH. <i>5, 36</i> ; BABR. <i>57, 9</i>.<p><b>Étym</b>. π. τιμή.`

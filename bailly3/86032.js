@@ -1,1 +1,0 @@
-lar[86032]=`<b>ου (ὁ)</b> <i>litt</i>. « celui qui baigne de ses flots », <i>ép. de Poséidon,</i> PAUS. <i>2, 22, 4</i>.<p><b>Étym</b>. προσκλύζω.`

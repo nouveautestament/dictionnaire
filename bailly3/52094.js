@@ -1,1 +1,0 @@
-lar[52094]=`<b>ου (ὁ)</b> = <i>lat</i>. Castus, <i>n. d’h. rom</i>. PLUT. <i>Crass. 11</i>.`

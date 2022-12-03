@@ -1,1 +1,0 @@
-lar[75254]=`<i>adv</i>., de toute sorte, de toute façon, HDT. <i>7, 211</i> ; PLAT. <i>Rsp. 559d, etc</i>.`

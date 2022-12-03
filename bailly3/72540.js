@@ -1,1 +1,0 @@
-lar[72540]=`<b>ή, όν</b>, qui concerne les délégués de corporations <i>ou</i> les prêtres appelés ὀργεῶνες, ATH. <i>185f</i>.<p><b>Étym</b>. <i>v</i>. ὀργεών.`

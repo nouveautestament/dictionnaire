@@ -1,1 +1,0 @@
-lar[50270]=`<b>καθ·άπερ</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., de même que, comme, AR. <i>Eccl. 61, etc</i>.<p>➳ <i>Forme usuelle dans les inscr. att</i>. CIA. <i>1, 31a, 10 (444/440 av. J.-C.) etc. ; une fois avec l’aspiration intérieure</i> καθἅπερ, <i>v. Meisterh. p. 215, 52. Ion</i>. κατάπερ, HDT. <i>1, 131, 144, 145, etc</i>.<p><b>Étym</b>. κ. ἅπερ.`

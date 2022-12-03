@@ -1,1 +1,0 @@
-lar[18646]=`<font color="purple">[ῡᾰ]</font> <i>adv</i>., sans avoir le cœur réjoui (<i>litt</i>. entraîné) JUL. <i>252a</i>.`

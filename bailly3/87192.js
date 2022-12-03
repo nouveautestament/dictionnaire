@@ -1,1 +1,0 @@
-lar[87192]=`<b>πρωτο·γενής, ής, ές</b>, le premier-né, le plus ancien, ORPH. <i>H. 24, 2, etc. ; en parl. de choses,</i> PLAT. <i>Pol. 288e, 289a</i>.<p><b>Étym</b>. πρ. γένος.`

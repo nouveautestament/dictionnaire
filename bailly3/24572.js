@@ -1,1 +1,0 @@
-lar[24572]=`<b>ος, ον</b>, qui se transmet, SYN. <i>202d</i>.<p><b>Étym</b>. διαδίδωμι.`

@@ -1,1 +1,0 @@
-lar[71158]=`<b>οῦ (ὁ)</b> exterminateur, NT. <i>1Cor. 10, 10</i>.<p><b>Étym</b>. ὀλοθρεύω.`

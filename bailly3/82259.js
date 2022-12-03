@@ -1,1 +1,0 @@
-lar[82259]=`<b>πολυ·πληθύνω</b> <font color="purple">[θῡ]</font> rendre très nombreux, <i>d’où</i> multiplier à l’excès, SPT. <i>Dan. 3, 36</i>.`

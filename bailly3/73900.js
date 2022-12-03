@@ -1,1 +1,0 @@
-lar[73900]=`<b>ου (τὸ)</b> petit conduit, DL. <i>9, 49</i>.<p><b>Étym</b>. <i>dim. de</i> ὀχετός.`

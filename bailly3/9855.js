@@ -1,1 +1,0 @@
-lar[9855]=`<b>ἀντι·δοξάζω</b> (<i>inf. ao</i>. -δοξάσαι) avoir une opinion contraire, PLAT. <i>Theæt. 170d ;</i> DL. <i>9, 18</i>.`

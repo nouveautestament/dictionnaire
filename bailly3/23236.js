@@ -1,1 +1,0 @@
-lar[23236]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> dépensier, prodigue, THC. <i>5, 103</i>.<br><b>      2</b> qui consume, qui épuise, <i>gén</i>. PLUT. <i>M. 624d</i> (ATH. <i>52e</i>).<p><b>Étym</b>. <i>cf</i>. δαπάνη.`

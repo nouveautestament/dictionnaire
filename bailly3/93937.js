@@ -1,1 +1,0 @@
-lar[93937]=`<b>συμ·μελανειμονέω-ῶ</b> <font color="purple">[ᾰ]</font> porter ensemble des vêtements noirs, BAS. <i>3, 257 Migne</i>.`

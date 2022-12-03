@@ -1,1 +1,0 @@
-lar[77853]=`<b>ου (ὁ)</b> <i>nom du poisson</i> κορακῖνος <i>après la salaison,</i> DIPH. SIPHN. (ATH. <i>121f</i>).`

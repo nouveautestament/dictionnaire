@@ -1,1 +1,0 @@
-lar[95566]=`<b>συν·επαισθάνομαι</b> <font color="purple">[ᾰ]</font> avoir en même temps le sentiment de, <i>gén</i>. NAZ.`

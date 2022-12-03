@@ -1,1 +1,0 @@
-lar[95346]=`<b>συν·εκθηλύνω</b>, efféminer également, CLÉARQ. (ATH. <i>687a</i>).`

@@ -1,1 +1,0 @@
-lar[53260]=`<b>κατα·ρριπίζω</b> <font color="purple">[ῑπ]</font> être porté par un vent favorable, EUM. <i>p. 246</i>.<p><b>Étym</b>. κ. ῥιπίζω.`

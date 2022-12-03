@@ -1,1 +1,0 @@
-lar[76925]=`<i>adv</i>., dans la langue des Parthes, PLUT. <i>Ant. 46</i>.<p><b>Étym</b>. Πάρθοι.`

@@ -1,1 +1,0 @@
-lar[71751]=`<b>ὁμο·φυής, ής, ές</b>, de même croissance <i>ou</i> de même nature que, <i>dat</i>. PLAT. <i>Rsp. 439e ; abs</i>. PLAT. <i>Phæd. 86a, etc</i>.<p><b>Étym</b>. ὁμ. φύω.`

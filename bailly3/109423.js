@@ -1,1 +1,0 @@
-lar[109423]=`<b>ου (τὸ)</b> fonderie, SPT. <i>3Reg. 8, 51, etc</i>.<p><b>Étym</b>. χωνεύω.`

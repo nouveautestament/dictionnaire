@@ -1,1 +1,0 @@
-lar[2641]=`<b>ῶν (αἱ)</b> Æneies, <i>v. de Thrace,</i> HIPPON. <i>fr. 42</i>.`

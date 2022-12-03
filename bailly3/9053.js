@@ -1,1 +1,0 @@
-lar[9053]=`<b>ἀν·ιδρόω-ῶ</b>, suer de nouveau, avoir une nouvelle poussée de sueur, HPC. <i>Coac. 120</i>.<p><b>Étym</b>. ἀνά, ἱδρόω.`

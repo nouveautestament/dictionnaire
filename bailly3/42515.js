@@ -1,1 +1,0 @@
-lar[42515]=`<b>ας (ἡ)</b> <font color="purple">[ῐν]</font> pureté, clarté, PLAT. <i>Def. 414a ; en parl. du style,</i> HERMOG. <i>π. ἰδ. 1, p. 42</i>.<p><b>Étym</b>. εὐκρινής.`

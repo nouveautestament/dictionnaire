@@ -1,1 +1,0 @@
-lar[67120]=`<i>ou</i> <b>Μυλασσεύς, έως (ὁ)</b> habitant <i>ou</i> originaire de Mylases, HDT. <i>5, 37, 121</i>.<p><b>Étym</b>. <i>v</i>. Μυλάσα.`

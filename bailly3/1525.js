@@ -1,1 +1,0 @@
-lar[1525]=`<b>ου (ὁ)</b> descendant d’Adraste, PD. <i>O. 2, 80</i>.<p><b>Étym</b>. Ἄδραστος.`

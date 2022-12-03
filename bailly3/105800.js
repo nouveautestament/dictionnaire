@@ -1,1 +1,0 @@
-lar[105800]=`<b>φιλό·θρηνος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui aime à se lamenter, NONN. <i>D. 9, 294</i>.<br><b>      2</b> tout à fait lamentable, NONN. <i>Jo. 11, 44</i>.<p><b>Étym</b>. φ. θρῆνος.`

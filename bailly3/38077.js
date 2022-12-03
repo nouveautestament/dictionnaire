@@ -1,1 +1,0 @@
-lar[38077]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> fameux, A.RH. <i>2, 236</i>.<p><b>Étym</b>. ἐπικλύω.`

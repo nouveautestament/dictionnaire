@@ -1,1 +1,0 @@
-lar[77567]=`<b>πεζ·έμπορος, ος, ον</b>, qui fait le commerce par terre, STR. <i>766</i>.<p><b>Étym</b>. π. ἔμπορος.`

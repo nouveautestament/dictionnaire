@@ -1,1 +1,0 @@
-lar[31566]=`<b>ἐκ·λειοτριβέω-ῶ</b> <font color="purple">[ῐ]</font> broyer <i>ou</i> écraser menu, DIOSC. <i>Iob. 19, p. 75</i>.`

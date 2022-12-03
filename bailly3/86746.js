@@ -1,1 +1,0 @@
-lar[86746]=`<b>ατος (τὸ)</b> prédiction, PTOL. <i>Tetr. 77</i>.<p><b>Étym</b>. προτελέω.`

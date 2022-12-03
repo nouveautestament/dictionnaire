@@ -1,1 +1,0 @@
-lar[72368]=`<b>ὀπο·ειδής, ής, ές</b>, semblable à du jus (de figuier) ; <i>p. suite,</i> qui fait aigrir et cailler le lait, HPC. <i>1216f</i>.<p><b>Étym</b>. ὀπός, εἶδος.`

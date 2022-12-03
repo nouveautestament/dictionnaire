@@ -1,1 +1,0 @@
-lar[24004]=`<b>ατος (τὸ)</b> volonté souveraine, souveraineté, MAN. <i>4, 38</i>.<p><b>Étym</b>. δεσπόζω.`

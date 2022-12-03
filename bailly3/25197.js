@@ -1,1 +1,0 @@
-lar[25197]=`<b>δι·απαντάω-ῶ</b> <font color="purple">[ᾰπ]</font> (<i>part. prés</i>.) rencontrer, PORPH. <i>Abst. 3, 10</i>.`

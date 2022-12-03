@@ -1,1 +1,0 @@
-lar[109487]=`<b>ή, όν :<br>      1</b> fait de terres amoncelées, EUR. <i>Rhes. 414</i>.<br><b>      2</b> construit <i>ou</i> dirigé en forme de jetée, LYC. <i>698</i> ; POL. <i>4, 61, 7</i>.<p><b>Étym</b>. <i>vb. de</i> χώννυμι.`

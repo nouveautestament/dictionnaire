@@ -1,1 +1,0 @@
-lar[62506]=`<b>μακρο·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> aux longs doigts, ARSTT. <i>P.A. 4, 10, 65</i>.<p><b>Étym</b>. μ. δ.`

@@ -1,1 +1,0 @@
-lar[48913]=`<b>ων (τὰ)</b> <font color="purple">[ῑλ]</font> fête en l’honneur d’Ilion, ATH. <i>351a</i>.<p><b>Étym</b>. Ἴλιον.`

@@ -1,1 +1,0 @@
-lar[104082]=`<b>ὑπ·ουρέω-ῶ</b>, uriner un peu, HIPPIATR. <i>p. 73, 28</i>.`

@@ -1,1 +1,0 @@
-lar[33117]=`<b>α, ον</b>, <i>vb. de</i> ἐμβάλλω, HPC. <i>Mochl. 863 ; au neutre,</i> PLAT. <i>Phil. 62b</i>.`

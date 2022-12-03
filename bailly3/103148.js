@@ -1,1 +1,0 @@
-lar[103148]=`<b>*ὑποδεῶς</b>, <i>adv. seul. cp</i>. ὑποδεεστέρως, THC. <i>8, 87</i> ; ANT. <i>128, 34 ; ou pl. neutre</i> ὑποδεέστερα, ANT. <i>123, 24,</i> d’une manière inférieure, moins.<p><b>Étym</b>. ὑποδεής.`

@@ -1,1 +1,0 @@
-lar[76784]=`<i>adv</i>., d’une manière accessoire, <i>d’où</i> superficiellement, <i>p. opp. à</i> ἀκριβῶς, PLAT. <i>Leg. 793e, à</i> ἐξεταστικῶς, DÉM. <i>215, 9</i>.`

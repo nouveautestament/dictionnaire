@@ -1,1 +1,0 @@
-lar[14590]=`<b>ῶν (οἱ)</b> les Ariènes, <i>pple indien,</i> NONN. <i>D. 26, 165, etc</i>.`

@@ -1,1 +1,0 @@
-lar[32228]=`<b>εως (ἡ)</b> action de percer, <i>d’où</i> trou, ouverture. HPC. <i>680, 21</i> ; ARÉT. <i>Caus. m. diut. 2, 13</i>.<p><b>Étym</b>. ἐκτιτραίνω.`

@@ -1,1 +1,0 @@
-lar[8538]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> impuissance à faire qqe ch. ARTÉM. <i>1, 67 ; 2, 28</i>.<p><b>Étym</b>. ἀνέργαστος.`

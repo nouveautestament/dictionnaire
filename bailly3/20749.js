@@ -1,1 +1,0 @@
-lar[20749]=`<b>ατος (τὸ) :<br>      1</b> sommet de la tête (où afflue la gourme des enfants), BATR. <i>230</i> ; HPC. <i>896</i> ; ARSTT. <i>H.A. 1, 7, 2, etc.</i><br><b>      2</b> infusion, décoction, <i>c</i>. ἀπόβρεγμα, DS. <i>3, 32</i>.<p><b>Étym</b>. βρέχω.`

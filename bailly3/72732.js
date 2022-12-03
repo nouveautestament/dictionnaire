@@ -1,1 +1,0 @@
-lar[72732]=`<b>ὀρθο·πάλη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> lutte debout (<i>p. opp. à</i> κλινοπάλη) LUC. <i>Lex. 5</i>.<p><b>Étym</b>. ὀ. πάλη.`

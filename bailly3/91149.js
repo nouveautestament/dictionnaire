@@ -1,1 +1,0 @@
-lar[91149]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. σκορδίνημα HPC. <i>1184e</i>.`

@@ -1,1 +1,0 @@
-lar[97325]=`<b>ου (ὁ)</b> coupe en bois, AMYNT. (ATH. <i>500d</i>).<p><b>Étym</b>. <i>mot persan</i>.`

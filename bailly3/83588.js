@@ -1,1 +1,0 @@
-lar[83588]=`<b>προ·αναφυράω-ῶ</b> <font color="purple">[ῡ]</font> souiller <i>ou</i> saturer auparavant, RUF. <i>p. 231</i>.`

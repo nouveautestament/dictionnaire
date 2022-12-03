@@ -1,1 +1,0 @@
-lar[9824]=`<b>ἀντι·δημιουργέω-ῶ</b>, être rival comme artisan : τινι, CLÉM. <i>262,</i> de qqn.<br><b><i>Moy.</i></b> <i>m. sign.</i> : πρός τι, ATH. <i>469b</i>, pour qqe ch.`

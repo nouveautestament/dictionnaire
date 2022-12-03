@@ -1,1 +1,0 @@
-lar[34388]=`<b>εως (ἡ)</b> action d’enrouler, d’enlacer, d’attacher, THC. <i>1, 6</i>.<p><b>Étym</b>. ἐνείρω.`

@@ -1,1 +1,0 @@
-lar[40110]=`<b>ἐπ·ωφελέω-ῶ</b> : être utile à, aider, assister, secourir : τινα, SOPH. <i>El. 578 ; Ph. 905</i> ; EUR. <i>Or. 955</i> ; τινι, SOPH. <i>O.C. 442</i> ; EUR. <i>Andr. 667,</i> qqn ; <i>abs</i>. PLAT. <i>Leg. 843c</i>.`

@@ -1,1 +1,0 @@
-lar[21761]=`<b>γερανο·βοτία, ας (ἡ)</b> <font color="purple">[ρᾰ]</font> troupe de grues qui cherchent leur pâture, PLAT. <i>Pol. 264c</i> (<i>ms</i>. -βωτία).<p><b>Étym</b>. γέρανος, βόσκω.`

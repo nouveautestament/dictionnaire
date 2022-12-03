@@ -1,1 +1,0 @@
-lar[37572]=`<b>ἐπι·δηλόω-ῶ</b>, faire comprendre, PHILSTR. <i>V. Ap. 5, 34</i>.`

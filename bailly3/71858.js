@@ -1,1 +1,0 @@
-lar[71858]=`<b>ή, όν</b>, injurieux, outrageant, LUC. <i>D. mar. 1, 2 ; Char. 7</i>.<p><b>Étym</b>. ὀνειδίζω.`

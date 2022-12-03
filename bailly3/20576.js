@@ -1,1 +1,0 @@
-lar[20576]=`<b>βο·ώνης, ου (ὁ)</b> agent chargé de l’achat des bœufs pour les sacrifices publics, <i>à Athènes,</i> DÉM. <i>570, 7</i>.<p><b>Étym</b>. βοῦς, ὠνέομαι.`

@@ -1,1 +1,0 @@
-lar[62068]=`<b>λυσι·τόκος, ος, ον</b>, dont le petit <i>ou</i> dont l’œuf est sorti, OPP. <i>C. 3, 128</i>.<p><b>Étym</b>. λύω, τόκος.`

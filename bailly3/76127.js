@@ -1,1 +1,0 @@
-lar[76127]=`<b>ατος (τὸ) :<br>      1</b> échec, revers, DS. <i>19, 100</i>.<br><b>      2</b> faute, erreur, SPT. <i>Ps. 18, 13, etc.</i> ; POL. <i>9, 10, 6</i> ; LGN <i>36, 2</i>.<br><b>      3</b> dérogation à, violation de, SPT. <i>Ezech. 14, 13</i> ; NT. <i>Matth. 6, 14</i> ; GAL. <i>6, 1, etc</i>.<p><b>Étym</b>. παραπίπτω.`

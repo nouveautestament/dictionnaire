@@ -1,1 +1,0 @@
-lar[100277]=`<b>τρί·λοβος, ος, ον</b> <font color="purple">[ῐ]</font> à trois lobes, ARSTT. <i>et</i> ALEX. MYND. (ATH. <i>319e, 392c</i>).<p><b>Étym</b>. τρ. λοβός.`

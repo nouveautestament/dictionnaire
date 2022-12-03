@@ -1,1 +1,0 @@
-lar[8873]=`<b>ἀνθ·ομιλέω-ῶ</b> <font color="purple">[ῑ]</font> converser, HPC. <i>1283, 35</i>.<p><b>Étym</b>. ἀντί, ὁμιλέω.`

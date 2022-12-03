@@ -1,1 +1,0 @@
-lar[82550]=`<b>πολύ·χαρμος, ος, ον</b> <font color="purple">[ῠ]</font> très belliqueux, ANTH. <i>5, 202</i>.<p><b>Étym</b>. π. χάρμη.`

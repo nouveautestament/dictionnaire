@@ -1,1 +1,0 @@
-lar[49359]=`<i>adv</i>., selon la doctrine d’Hippocrate, GAL. <i>1, 452</i>.`

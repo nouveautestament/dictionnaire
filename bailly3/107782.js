@@ -1,1 +1,0 @@
-lar[107782]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> action de ramper, JAMBL. <i>Protr. 346</i>.<p><b>Étym</b>. χαμαιπετής.`

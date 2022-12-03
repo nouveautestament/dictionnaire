@@ -1,1 +1,0 @@
-lar[74654]=`<b>α, ον</b>, de Pallènè, A.RH. <i>1, 599</i> ; Παλληναῖοι, ων (οἱ) les habitants de Pallènè, HDT. <i>8, 128</i>.<p>➳ <i>Dor</i>. Παλλαναῖος <font color="purple">[λᾱ]</font> ANTH. <i>6, 159</i>.<p><b>Étym</b>. Παλλήνη.`

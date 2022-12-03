@@ -1,1 +1,0 @@
-lar[52422]=`<b>κατα·θρηνέω-ῶ</b>, pleurer sur, déplorer, <i>acc</i>. DS. <i>17, 118</i> ; PLUT. <i>M. 1103a ;</i> APP. <i>Lib. 81 ; abs</i>. EUR. <i>El. 1326</i>.`

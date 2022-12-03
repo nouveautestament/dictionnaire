@@ -1,1 +1,0 @@
-lar[30266]=`<b>ας (ἡ)</b> Eidyia, <i>n. de f</i>. LYC. <i>1024</i> ; A.RH. <i>3, 243</i>.<p><b>Étym</b>. <i>fém. de</i> εἰδώς.`

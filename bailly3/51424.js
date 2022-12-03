@@ -1,1 +1,0 @@
-lar[51424]=`<b>καμινίτης ἄρτος</b> <font color="purple">[ᾰῑ ῑ]</font> PHILIST. (ATH. <i>115a</i>) pain cuit au four.<p><b>Étym</b>. κάμινος.`

@@ -1,1 +1,0 @@
-lar[47280]=`<b>ος, ον</b>, de Thèriklès : Θ. κύλιξ <i>ou</i> κρατήρ, ALEX. (ATH. <i>471e</i>) coupe de terre noire fabriquée par Thèriklès ; <i>subst</i>. ἡ Θηρίκλειος, TH. (ATH. <i>470f</i>) ; ἡ Θηρικλεία, MÉN. <i>et</i> DIOXIPP. (ATH. <i>472b</i>), <i>s.-e</i>. κύλιξ ; τὰ Θηρίκλεια (<i>s.-e</i>. ποτήρια) POLÉM. (ATH. <i>472c</i>) <i>m. sign</i>.<p><b>Étym</b>. Θηρικλῆς.`

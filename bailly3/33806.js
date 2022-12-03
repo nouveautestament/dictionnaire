@@ -1,1 +1,0 @@
-lar[33806]=`<b>ἐν·αιθέριος, ος, ον</b>, qui est dans l’éther, céleste, M. ANT. <i>12, 24</i>.<p><b>Étym</b>. ἐν, αἰθήρ.`

@@ -1,1 +1,0 @@
-lar[2561]=`<b>αἱματο·χάρμης, ου (ὁ)</b> <font color="purple">[μᾰ]</font> qui se plaît dans le sang, sanguinaire, ANTH. <i>15, 30</i>.<p><b>Étym</b>. αἷ. χαίρω.`

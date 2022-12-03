@@ -1,1 +1,0 @@
-lar[30321]=`<b>οῦ (ὁ)</b> conjecture, PLUT. <i>Mar. 11</i> ; LUC. <i>Herm. 16</i>.<p><b>Étym</b>. εἰκάζω.`

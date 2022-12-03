@@ -1,1 +1,0 @@
-lar[46799]=`<b>θεο·σύλης, ου (ὁ)</b> <font color="purple">[ῡ]</font> qui pille les temples, sacrilège, EL. <i>V.H. 5, 16</i> ; ANON. (SUID.).<p><b>Étym</b>. θ. συλάω.`

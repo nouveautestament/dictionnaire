@@ -1,1 +1,0 @@
-lar[37152]=`<b>ἐπ·ερεθισμός, οῦ (ὁ)</b> irritation, excitation, PLUT. <i>M. 908e</i>.<p><b>Étym</b>. ἐπερεθίζω.`

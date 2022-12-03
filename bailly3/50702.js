@@ -1,1 +1,0 @@
-lar[50702]=`<font color="purple">[ᾰ]</font> <i>adv</i>., malheureusement, misérablement, LUC. <i>V. auct. 7</i>.<p><b>Étym</b>. κακοδαίμων.`

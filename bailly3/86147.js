@@ -1,1 +1,0 @@
-lar[86147]=`<b>ος, ον</b>, durable, permanent, ORIB. <i>329 Matthäi</i>.<p><b>Étym</b>. προσμένω.`

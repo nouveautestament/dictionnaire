@@ -1,1 +1,0 @@
-lar[20705]=`<font color="darkgreen">(<i>f</i>. υνῶ)</font> <font color="purple">[ᾰ ; ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font><br><b>      1</b> abréger, raccourcir, HPC. <i>Aph. 1243</i>.<br><b>      2</b> prononcer une syllabe comme brève, abréger, <i>acc</i>. PLUT. <i>Per. 4</i> ; D. THR. <i>633, 2</i> ; HÉPH. <i>1, 1</i> ; SEXT. <i>622, 29</i>.<p><b>Étym</b>. βραχύς.`

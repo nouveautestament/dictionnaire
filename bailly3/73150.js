@@ -1,1 +1,0 @@
-lar[73150]=`<b>εως (ἡ) :<br>      1</b> danse, XÉN. <i>An. 6, 1, 11</i> ; PLAT. <i>Leg. 654b ;</i> PLUT. <i>M. 705a, etc.</i><br><b>      2</b> pantomime, HDT. <i>6, 129, etc</i>.<p><b>Étym</b>. ὀρχέομαι.`

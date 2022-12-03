@@ -1,1 +1,0 @@
-lar[38700]=`<b>ἐπι·πλαταγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> applaudir bruyamment, THCR. <i>Idyl. 9, 22</i>.`

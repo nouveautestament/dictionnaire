@@ -1,1 +1,0 @@
-lar[76770]=`<b>παρ·επιτείνω</b>, tendre légèrement, ORIB. <i>159 Matthäi</i>.`

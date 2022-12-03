@@ -1,1 +1,0 @@
-lar[48933]=`<font color="purple">[ῠ]</font> parler la langue illyrienne, E. BYZ. <i>v°</i> Ἰλλυρία.`

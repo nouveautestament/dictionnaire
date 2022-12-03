@@ -1,1 +1,0 @@
-lar[81509]=`(<i>seul. prés</i>.) désirer la guerre, THC. <i>1, 33</i> ; DC. <i>51, 25</i>.<p><b>Étym</b>. πολεμέω.`

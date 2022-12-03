@@ -1,1 +1,0 @@
-lar[100872]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠᾰ]</font> petit morceau, SPT. <i>1Reg. 17, 18</i>.<p><b>Étym</b>. τρύφος.`

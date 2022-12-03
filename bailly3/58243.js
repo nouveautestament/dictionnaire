@@ -1,1 +1,0 @@
-lar[58243]=`<b>ή, όν</b>, peigné, cardé, SYMM. <i>Esaï. 19, 9</i>.<p><b>Étym</b>. <i>vb. de</i> κτενίζω.`

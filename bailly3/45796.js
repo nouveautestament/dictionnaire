@@ -1,1 +1,0 @@
-lar[45796]=`<b>ας (ἡ)</b> <i>sorte de plante, p.-ê. le</i> nénuphar, TH. <i>H.P. 9, 15, 5</i>.<p><b>Étym</b>. <i>fém. de</i> Ἡράκλειος.`

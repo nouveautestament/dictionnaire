@@ -1,1 +1,0 @@
-lar[6250]=`<b>ἀμφι·μάομαι</b> <font color="darkgreen">(<i>seul. ao. ind. 3 pl</i>. ἀμφεμάσαντο, Q. SM. <i>9, 428, et impér. 2 pl</i>. ἀμφιμάσασθε, OD. <i>20, 152</i>)</font> <font color="purple">[μᾰσ]</font> essuyer tout autour.`

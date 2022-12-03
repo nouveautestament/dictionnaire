@@ -1,1 +1,0 @@
-lar[89573]=`<b>ου (ὁ) :<br>      1</b> lézard, HDT. <i>4, 183</i> ; HPC. <i>58, 18 ; 490, 47</i> ; ARSTT. <i>H.A. 2, 11, 6, etc.</i><br><b>      2</b> <i>autre n. du poisson de mer</i> τραχοῦρος, ALEX. (<i>Com. fr. 3, 442</i>) ; ARSTT. <i>H.A. 9, 2, 1</i> ; EL. <i>N.A. 12, 25</i>.`

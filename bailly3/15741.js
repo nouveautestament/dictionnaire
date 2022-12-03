@@ -1,1 +1,0 @@
-lar[15741]=`<b>ου (τὸ)</b> asarum (<i>Asarum europ</i>. L.) <i>plante,</i> DIOSC. <i>7, 9</i>, = βάκχαρις.`

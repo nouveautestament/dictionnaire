@@ -1,1 +1,0 @@
-lar[80662]=`<b>πλανο·στιβής, ής, ές</b> <font color="purple">[ᾰῐ]</font> foulé par des pas errants, ESCHL. <i>Eum. 79</i>.<p><b>Étym</b>. πλάνος, στείβω.`

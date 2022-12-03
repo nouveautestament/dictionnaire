@@ -1,1 +1,0 @@
-lar[3237]=`<b>ἀ·κατονόμαστος, ος, ον</b>, qu’on ne désigne <i>ou</i> qu’on ne peut désigner par aucun nom, EPIC. (PLUT. <i>M. 898d ; cf. 1118e</i>) ; DS. <i>5, 146 L. Dind</i>.<p><b>Étym</b>. ἀ, κατονομάζω.`

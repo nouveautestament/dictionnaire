@@ -1,1 +1,0 @@
-lar[40241]=`<b>ος, ον</b>, de la nature du pois chiche, ZÉNOB. <i>3, 83</i>.`

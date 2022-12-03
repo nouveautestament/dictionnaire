@@ -1,1 +1,0 @@
-lar[90414]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Sinôpè (Sinope) :<br><b>   I</b> <i>v. de Paphlagonie (auj</i>. Sinop) HDT. <i>1, 76, etc.</i> ; XÉN. <i>An. 5, 5, 7, etc.</i><br><b>   II</b> <i>n. de f.</i> :<br><b>      1</b> <i>fille d’Asopos,</i> A.RH. <i>2, 946</i> ; PLUT. <i>Luc. 23, etc.</i><br><b>      2</b> <i>autres,</i> DÉM. <i>22, 56 Baiter-Sauppe, etc</i>.`

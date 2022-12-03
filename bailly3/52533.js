@@ -1,1 +1,0 @@
-lar[52533]=`<b>κατα·κηπεύω</b>, cultiver un jardin, EUM. <i>206</i>.`

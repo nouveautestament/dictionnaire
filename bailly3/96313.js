@@ -1,1 +1,0 @@
-lar[96313]=`<b>συν·τερετίζω</b>, accompagner (un joueur de flûte) en fredonnant, TH. <i>Char. 20</i>.`

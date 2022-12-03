@@ -1,1 +1,0 @@
-lar[34123]=`<b>ἑν·δεκέμβριος, ου (ὁ)</b> le mois « ondécembre » <i>onzième mois créé par Licinius,</i> DC. <i>54, 21</i>.<p><b>Étym</b>. εἷς, δ. ; <i>cf</i>. δωδεκέμβριος.`

@@ -1,1 +1,0 @@
-lar[38993]=`<b>ἐπι·σκήνιον, ου (τὸ)</b> espace ménagé au-dessus de la scène pour les machines, VITR. <i>5, 7</i>.<p><b>Étym</b>. ἐπί, σκηνή.`

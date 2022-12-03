@@ -1,1 +1,0 @@
-lar[35222]=`<b>ῆς (ἡ)</b> la vue, les yeux, NIC. <i>Th. 227 ; dat. adv</i>. ἐνωπῇ, IL. <i>5, 374 ; 21, 510,</i> en face, ouvertement.<p><b>Étym</b>. ἐν, ὤψ.`

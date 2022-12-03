@@ -1,1 +1,0 @@
-lar[68810]=`<b>ου (τὸ)</b> eau pour se laver, ESCHL. (POLL. <i>10, 77</i>) ; EUR. <i>Hel. 1384</i> ; ANTH. <i>12, 68, etc. ; au pl</i>. τὰ νίπτρα, <i>titre de la dernière partie du 19<sup>e</sup> chant de l’Odyssée,</i> ARSTT. <i>Poet. 16, 24</i>.<p><b>Étym</b>. νίπτω.`

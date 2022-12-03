@@ -1,1 +1,0 @@
-lar[109578]=`<b>ά, όν</b> <font color="purple">[ᾱ]</font> d’un gris pommelé, AR. <i>Nub. 1225</i> ; ARSTT. <i>H.A. 9, 49, 2</i> ; EL. <i>N.A. 12, 28</i>.<p>•<i> Cp</i>. ψαρότερος, EL. <i>l. c</i>.`

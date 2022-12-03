@@ -1,1 +1,0 @@
-lar[54397]=`<b>καχυποτοπέομαι-οῦμαι</b>, avoir des soupçons malveillants <i>ou</i> injustes, AR. <i>Ran. 958 (vulg., corr</i>. καχ' ὑποτοπεῖσθαι).<p><b>Étym</b>. καχυπότοπος.`

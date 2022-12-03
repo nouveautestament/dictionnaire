@@ -1,1 +1,0 @@
-lar[87966]=`<b>πυρ·πόλος, ος, ον :<br>      1</b> <i>act</i>. qui ravage par le feu, EUR. <i>Suppl. 640</i>.<br><b>      2</b> <i>pass</i>. dévasté par le feu, ORACL. (PHLÉG. TR. <i>Mir. 3).</i><p><b>Étym</b>. πῦρ, πολέω.`

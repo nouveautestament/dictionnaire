@@ -1,1 +1,0 @@
-lar[7447]=`<b>εως (ἡ)</b> action de repasser (dans son esprit), <i>d’où</i> rappel d’une idée, d’un souvenir, DYSC. <i>Pron. 81a ;</i> PLOT. <i>Enn. 2, 9, 12 ; 4, 6, 3 Creuz</i>.`

@@ -1,1 +1,0 @@
-lar[22213]=`<b>ας (ἡ)</b> démangeaison de parler, bavardage sans fin, EUR. <i>Med. 525 ; Andr. 690</i> ; PLUT. <i>M. 510a ;</i> PHIL. CLÉM. <i>etc</i>.<p><b>Étym</b>. γλῶσσαλγος.`

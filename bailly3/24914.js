@@ -1,1 +1,0 @@
-lar[24914]=`<b>δι·αλγέω-ῶ</b>, éprouver une profonde douleur : ἐπί τινι, POL. <i>4, 4, 2</i>, de qqe ch. ; <i>abs</i>. PLUT. <i>M. 70a</i>.`

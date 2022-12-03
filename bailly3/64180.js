@@ -1,1 +1,0 @@
-lar[64180]=`<b>μελο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui compose des chants, poète lyrique, ANTH. <i>11, 133</i>.<p><b>Étym</b>. μέλος, γράφω.`

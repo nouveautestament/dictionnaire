@@ -1,1 +1,0 @@
-lar[82752]=`<b>εως (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> <i>var. de</i> πάρδαλις.`

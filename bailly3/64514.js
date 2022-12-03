@@ -1,1 +1,0 @@
-lar[64514]=`<b>μεσο·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> qui est entre les doigts : τὰ μεσοδάκτυλα, DIOSC. <i>4, 188,</i> l’intervalle entre les doigts.`

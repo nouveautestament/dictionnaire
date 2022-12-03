@@ -1,1 +1,0 @@
-lar[68254]=`<b>νεοσσο·τροφεῖον, ου (τὸ)</b> volière où l’on élève de jeunes oiseaux, COLUM. <i>8, 15</i>.<p><b>Étym</b>. νεοσσός, τροφή.`

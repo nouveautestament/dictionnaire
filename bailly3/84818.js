@@ -1,1 +1,0 @@
-lar[84818]=`<b>προ·ξυρίζω</b> <font color="purple">[ῠ]</font> <i>c</i>. προξυράω, προξυρεύω ORIB. <i>297 Matthäi</i>.`

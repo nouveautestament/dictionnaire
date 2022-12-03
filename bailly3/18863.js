@@ -1,1 +1,0 @@
-lar[18863]=`<b>βακκάριον μύρον</b>, MAGN. <i>fr. 6, ou</i> ἔλαιον, HPC. <i>569, 49,</i> parfum <i>ou</i> huile de sclarée.<p><b>Étym</b>. βάκκαρις.`

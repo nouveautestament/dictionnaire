@@ -1,1 +1,0 @@
-lar[32251]=`<b>ατος (τὸ)</b> fruit avorté, ARSTT. <i>G.A. 4, 5, 4</i> ; SPT. <i>Job 3, 16</i> ; NT. <i>1Cor. 15, 8, etc</i>.<p><b>Étym</b>. ἐκτιτρώσκω.`

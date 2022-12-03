@@ -1,1 +1,0 @@
-lar[97637]=`<b>ταραξι·κάρδιος, ος, ον</b> <font color="purple">[τᾰξῐ]</font> qui trouble le cœur, qui tourmente, AR. <i>Ach. 315</i>.<p><b>Étym</b>. ταράσσω, καρδία.`

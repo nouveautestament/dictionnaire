@@ -1,1 +1,0 @@
-lar[60345]=`<b>λεοντο·φόρος, ος, ον</b>, qui porte un lion (figuré) <i>en parl. d’un jeton,</i> LUC. <i>Herm. 44</i>.<p><b>Étym</b>. λ. φέρω.`

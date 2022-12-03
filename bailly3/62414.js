@@ -1,1 +1,0 @@
-lar[62414]=`<b>αρος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Makar, <i>h</i>. IL. <i>24, 544</i> ; HH. <i>Ap. 37</i>.<p><b>Étym</b>. <i>v</i>. μάκαρ.`

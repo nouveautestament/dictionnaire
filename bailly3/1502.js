@@ -1,1 +1,0 @@
-lar[1502]=`<b>ἄ·δοτος, ος, ον</b>, à qui l’on n’a pas donné, HH. <i>Merc. 573</i>.<p><b>Étym</b>. ἀ, δίδωμι.`

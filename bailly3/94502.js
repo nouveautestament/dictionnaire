@@ -1,1 +1,0 @@
-lar[94502]=`<i>adv</i>., d’accord avec, <i>dat</i>. PLAT. <i>Leg. 662e</i>.<p><b>Étym</b>. συμφωνέω.`

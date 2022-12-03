@@ -1,1 +1,0 @@
-lar[53799]=`<b>ή, όν</b>, rafraîchissant, ARSTT. <i>Respir. 18, 1</i>.<p><b>Étym</b>. καταψύχω.`

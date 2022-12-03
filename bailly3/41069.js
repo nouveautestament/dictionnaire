@@ -1,1 +1,0 @@
-lar[41069]=`<b>ῶν (οἱ)</b> les Hespérites, <i>habitants d’une contrée d’Arménie (auj</i>. İspir) XÉN. <i>An. 7, 8, 14</i>.<p><b>Étym</b>. ἕσπερος.`

@@ -1,1 +1,0 @@
-lar[100450]=`<b>τρισκαιδεκά·μηνος, ος, ον</b> <font color="purple">[ᾰ]</font> de treize mois, PTOL. <i>Math. synt. t. 1, p. 377</i>.<p><b>Étym</b>. τρ. μήν.`

@@ -1,1 +1,0 @@
-lar[94647]=`<b>συν·αλιάζω</b> <font color="purple">[ᾱλ]</font> réunir en assemblée, AR. <i>Lys. 93</i>.<p><b>Étym</b>. σ. ἁλία.`

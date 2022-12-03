@@ -1,1 +1,0 @@
-lar[89075]=`<b>ων (οἱ)</b> les Sagarties, <i>pple perse,</i> HDT. <i>1, 125 ; 3, 95 ; 7, 85</i>.`

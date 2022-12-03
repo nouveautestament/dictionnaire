@@ -1,1 +1,0 @@
-lar[61591]=`<i>adv</i>., avec contagion pestilentielle, SEXT. <i>p. 570</i>.`

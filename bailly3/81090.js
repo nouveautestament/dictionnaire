@@ -1,1 +1,0 @@
-lar[81090]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. πλόκαμος, PHÉRÉCR. (<i>Com. fr. 2, 355) au pl</i>.`

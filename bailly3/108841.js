@@ -1,1 +1,0 @@
-lar[108841]=`<b>α, ον</b>, de fourrage, d’herbe : χιτών, AR. <i>fr. 704</i> ; DH. <i>7, 72</i> ; EL. <i>V.H. 4, 30,</i> tunique d’une étoffe à longs poils <i>que les Silènes portaient au théâtre et qui figurait le feuillage dont ils se couvraient à l’origine</i>.<p><b>Étym</b>. χόρτος.`

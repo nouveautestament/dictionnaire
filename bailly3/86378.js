@@ -1,1 +1,0 @@
-lar[86378]=`<b>προσ·ράπτω</b>, coudre à : τι πρός τι, HPC. <i>Art. 827 ; ou</i> τί τινι, DL. <i>6, 91,</i> une ch. à une autre ; <i>au pass</i>. PLUT. <i>Ages. 30</i>.`

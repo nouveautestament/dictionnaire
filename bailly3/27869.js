@@ -1,1 +1,0 @@
-lar[27869]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> écorché, IL. <i>23, 169, vb. de</i> δέρω.<p><b>Étym</b>. <i>cf</i>. δαρτός.`

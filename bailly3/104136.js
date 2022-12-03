@@ -1,1 +1,0 @@
-lar[104136]=`<b>εως (ἡ)</b> acclamation, cri pour exciter, PLUT. <i>M. 33d</i>.<p><b>Étym</b>. ὑποφωνέω.`

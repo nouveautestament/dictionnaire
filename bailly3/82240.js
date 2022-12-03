@@ -1,1 +1,0 @@
-lar[82240]=`<b>πολυ·πινής, ής, ές</b> <font color="purple">[ῠῐ]</font> très sale, EUR. <i>Rhes. 716</i>.<p><b>Étym</b>. π. πίνος.`

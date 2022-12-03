@@ -1,1 +1,0 @@
-lar[94061]=`<b>συμ·παραδηλόω-ῶ</b>, montrer en même temps, STR. <i>118</i>.`

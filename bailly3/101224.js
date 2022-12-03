@@ -1,1 +1,0 @@
-lar[101224]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> fortuit, accidentel, POL. <i>9, 6, 5</i>.<p><b>Étym</b>. τύχη.`

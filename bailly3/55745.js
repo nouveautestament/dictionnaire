@@ -1,1 +1,0 @@
-lar[55745]=`<b>κλαι·ωμιλία, ας (ἡ)</b> <font color="purple">[μῐ]</font> communauté de larmes, ANTH. <i>9, 573</i>.<p><b>Étym</b>. κλαίω, ὁμιλία.`

@@ -1,1 +1,0 @@
-lar[21495]=`<i>adv</i>., avec joie, PHIL. <i>2, 295</i> ; HLD. <i>7, 5</i>.<p><b>Étym</b>. γεγηθώς, <i>pf. de</i> γηθέω.`

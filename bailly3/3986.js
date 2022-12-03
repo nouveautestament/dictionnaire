@@ -1,1 +1,0 @@
-lar[3986]=`<b>ἀ·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡ]</font> <i>c</i>. ἄκυμος PD. <i>fr. 259</i> ; ESCHL. <i>Ag. 566 ; fig</i>. PLUT. <i>M. 8b</i>.`

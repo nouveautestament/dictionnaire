@@ -1,1 +1,0 @@
-lar[47754]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. de Thronion, LYC. <i>1148</i>.<p><b>Étym</b>. Θρόνιον.`

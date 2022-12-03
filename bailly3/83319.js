@@ -1,1 +1,0 @@
-lar[83319]=`<b>ου (τὸ) :<br>      1</b> souche, <i>partie inférieure du tronc,</i> AR. <i>Lys. 267</i> ; LYS. <i>110, 6</i> ; XÉN. <i>Œc. 19, 13, etc. ; d’où</i> bois à brûler, <i>en gén</i>. HH. <i>Merc. 238</i>.<br><b>      2</b> <i>fig</i>. fondement, PD. <i>fr. 58 ; fig</i>. AR. <i>Av. 321</i> ; Q. SM. <i>14, 197</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ; cf</i>. πρυμνός.`

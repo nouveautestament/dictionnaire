@@ -1,1 +1,0 @@
-lar[12623]=`<b>ἀπο·κοιτέω-ῶ</b>, quitter son poste pour aller dormir, DÉM. <i>238, 10 (décr</i>.).<p><b>Étym</b>. ἀπό, κοίτη.`

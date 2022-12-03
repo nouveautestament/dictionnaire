@@ -1,1 +1,0 @@
-lar[60447]=`<b>λεπτουργέω-ῶ :<br>      1</b> travailler finement, faire des ouvrages délicats, PLUT. <i>Æmil. 37, etc.</i><br><b>      2</b> <i>fig</i>. subtiliser, EUR. <i>Hipp. 923</i> ; PLAT. <i>Pol. 262b</i>.<p><b>Étym</b>. λεπτουργός.`

@@ -1,1 +1,0 @@
-lar[17224]=`<b>ἀϋλότης, ητος (ἡ)</b> <font color="purple">[ῡ]</font> immatérialité, PLOT. <i>Enn. 1, 32</i>.<p><b>Étym</b>. ἄϋλος.`

@@ -1,1 +1,0 @@
-lar[27365]=`<b>ά, όν</b>, double, CALL. <i>Ep. 1, 3</i> ; ANTH. <i>9, 46 ; pl</i>. δοιοί, αί, ά, deux, IL. <i>5, 206,</i> HÉS. <i>O. 430</i> ; PD. <i>P. 4, 172 ; N. 1, 44 ; adv</i>. δοιά, OD. <i>2, 46,</i> de deux manières.<p>➳ <i>Duel</i> δοιώ, IL. <i>3, 236 ; 24, 648</i>.<p><b>Étym</b>. <i>indo-europ</i>. *duoi-, double ; <i>cf</i>. δύο, δίς.`

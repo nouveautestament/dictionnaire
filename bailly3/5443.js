@@ -1,1 +1,0 @@
-lar[5443]=`<b>ἀ·μεμφής, ής, ές :<br>      1</b> irréprochable, PD. <i>O. 6, 46</i> ; ESCHL. <i>Suppl. 581, Pers. 168</i> ; PLUT. <i>M. 439b, Cim. 2</i>.<br><b>      2</b> qui ne fait pas de reproche de, <i>gén</i>. PLUT. <i>Æmil. 3</i>.<p><b>Étym</b>. ἀ, μέμφομαι.`

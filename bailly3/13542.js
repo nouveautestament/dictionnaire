@@ -1,1 +1,0 @@
-lar[13542]=`<b>ἀπο·ταλαντεύω</b> <font color="purple">[τᾰ]</font> balancer, RHÉT. <i>1, 497 W</i>.`

@@ -1,1 +1,0 @@
-lar[9519]=`<b>Ἀντ·άρης, εος (ὁ)</b> Antarès, <i>litt</i>. en face de (la planète) Mars, <i>n. d’une étoile du Scorpion,</i> PROCL. <i>Ptol. 1, 9, p. 35</i>.<p><b>Étym</b>. ἀντί, Ἄρης.`

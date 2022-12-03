@@ -1,1 +1,0 @@
-lar[78401]=`<b>περι·αργυρόω-ῶ</b> <font color="purple">[ῠ]</font> argenter tout autour, ATH. <i>476e ;</i> RHÉT.<p><b>Étym</b>. <i>W. 1, 203</i>.`

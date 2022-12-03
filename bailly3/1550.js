@@ -1,1 +1,0 @@
-lar[1550]=`<b>ἁδρό·βωλος, ος, ον</b>, aux mottes fortes <i>ou</i> grasses, DIOSC. <i>1, 80</i>.<p><b>Étym</b>. ἁ. βῶλος.`

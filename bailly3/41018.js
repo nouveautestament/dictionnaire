@@ -1,1 +1,0 @@
-lar[41018]=`<i>adv</i>., avec réflexion, après réflexion, DÉM. <i>749, 8</i>.<p><b>Étym</b>. ἐσκεμμένος, <i>part. de</i> ἔσκεμμαι.`

@@ -1,1 +1,0 @@
-lar[72094]=`<b>ὀξύ·θηκτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> finement aiguisé, acéré, EUR. <i>Andr. 1150, etc.</i><br><b>      2</b> blessé d’un trait aigu, <i>fig</i>. SOPH. <i>Ant. 1301</i>.<p><b>Étym</b>. ὀ. θήγω.`

@@ -1,1 +1,0 @@
-lar[75581]=`<b>παρα·θαρρύνω</b> <font color="purple">[ῡ]</font> donner du courage, de la confiance à, <i>acc</i>. XÉN. <i>An. 3, 1, 39, etc.</i> ; PLAT. <i>Criti. 108c, etc. ; avec la propos. inf</i>. THC. <i>4, 115</i>.<p>➳ <i>Anc. att</i>. παραθαρσύνω, THC. <i>l.c. etc</i>.`

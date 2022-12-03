@@ -1,1 +1,0 @@
-lar[78574]=`<b>περι·έννυμι</b>, revêtir ; <i>au moy. (ao. inf</i>. περιέσσασθαι) s’envelopper de, se couvrir de, <i>acc</i>. HÉS. <i>O. 537</i>.`

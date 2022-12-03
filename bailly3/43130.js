@@ -1,1 +1,0 @@
-lar[43130]=`<b>εὐ·πρόφορος, ος, ον</b>, facile à prononcer, DH. <i>Comp. 12</i>.<p><b>Étym</b>. εὖ, προφέρω.`

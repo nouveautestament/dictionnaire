@@ -1,1 +1,0 @@
-lar[17510]=`<b>αὐτο·κασιγνήτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> propre sœur, OD. <i>10, 137</i> ; HH. <i>27, 3</i> ; EUR. <i>Ph. 136</i>.<p><b>Étym</b>. <i>fém. de</i> αὐτοκασίγνητος.`

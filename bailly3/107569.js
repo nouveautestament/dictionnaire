@@ -1,1 +1,0 @@
-lar[107569]=`<b>εως (ἡ)</b> <font color="purple">[ᾰλῑ]</font> action de brider, XÉN. <i>Eq. 3, 11</i>.<p><b>Étym</b>. χαλινόω.`

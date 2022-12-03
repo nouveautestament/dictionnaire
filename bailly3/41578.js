@@ -1,1 +1,0 @@
-lar[41578]=`<b>εὐ·ανάγωγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> facile à amener au dehors, à rejeter par en haut, DIOSC. <i>2, 196</i>.<p><b>Étym</b>. εὖ, ἀνάγω.`

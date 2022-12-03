@@ -1,1 +1,0 @@
-lar[28533]=`<b>δυσ·καής, ής, ές</b> <font color="purple">[ᾰ]</font> qui brûle difficilement, PLUT. <i>M. 952c</i>.<p><b>Étym</b>. δ. καίω.`

@@ -1,1 +1,0 @@
-lar[44913]=`<b>ατος (τὸ)</b> conduite, direction, <i>d’où</i> dessein, SPT. <i>Ezech. 17, 3</i>.<p><b>Étym</b>. ἡγέομαι.`

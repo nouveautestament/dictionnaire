@@ -1,1 +1,0 @@
-lar[28543]=`<b>δυσ·κατάγωγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à manœuvrer, <i>particul</i>. à armer <i>ou</i> à bander, <i>en parl. d’une machine de jet,</i> PHIL. BYZ. (<i>Math. vet. 53).</i><p><b>Étym</b>. δ. καταγωγή.`

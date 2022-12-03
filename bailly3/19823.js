@@ -1,1 +1,0 @@
-lar[19823]=`<b>βιψανία παστάς (ἡ)</b> = <i>lat</i>. Vipsania porticus, PLUT. <i>Galb. 26,</i> le portique de Vipsanius, <i>à Rome</i>.`

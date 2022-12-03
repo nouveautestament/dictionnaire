@@ -1,1 +1,0 @@
-lar[16581]=`<font color="darkgreen">(<i>• Cp</i>. -ωδεστέρως)</font> <i>adv</i>., de nature bitumineuse, ORIG.`

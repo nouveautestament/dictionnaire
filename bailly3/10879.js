@@ -1,1 +1,0 @@
-lar[10879]=`<b>ἀν·ώχυρος</b>, <i>mieux que</i> <b>ἀνόχυρος, ος, ον</b>, non fortifié, XÉN. <i>Ages. 6, 6</i> ; χώρη ἀ. HPC. <i>Aër. 295,</i> pays ouvert.<p><b>Étym</b>. ἀν-, ὀχυρός.`

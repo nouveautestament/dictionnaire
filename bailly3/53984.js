@@ -1,1 +1,0 @@
-lar[53984]=`<b>ας</b>, <i>adj. f</i>. qui endort, qui apaise, NONN. <i>D. 33, 325</i> ; P. SIL. <i>Ecphr. ag. Soph. 994</i>.<p><b>Étym</b>. κατευνάω.`

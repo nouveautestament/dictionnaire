@@ -1,1 +1,0 @@
-lar[11532]=`<b>ἀπ·εικονίζω</b> <font color="darkgreen">(<i>ao</i>. ἀπεικόνισα)</font> représenter une chose d’après une autre, ANTH. <i>12, 56</i> ; PHIL. <i>1, 106, etc.</i> ; CLÉM. <i>101</i>.`

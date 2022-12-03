@@ -1,1 +1,0 @@
-lar[94769]=`<b>συν·αναφθέγγομαι</b>, crier ensemble, PLUT. <i>Mar. 19</i>.`

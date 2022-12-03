@@ -1,1 +1,0 @@
-lar[64374]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite part, ARR. <i>Epict. 2, 22, 23</i>.<p><b>Étym</b>. <i>dim. de</i> μερίς.`

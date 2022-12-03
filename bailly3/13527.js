@@ -1,1 +1,0 @@
-lar[13527]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> embranchement d’une veine, ARSTT. <i>H.A. 3, 3, 4</i>.<p><b>Étym</b>. ἀποσχίζω.`

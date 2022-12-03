@@ -1,1 +1,0 @@
-lar[77559]=`<b>πεδό·τριψ, ιβος (ὁ, ἡ)</b> <font color="purple">[ῐβ]</font> qui use les entraves (à force de les porter) <i>càd</i>. mauvais esclave, LUC. <i>Tim. 14, etc</i>.<p><b>Étym</b>. πέδη, τρίβω.`

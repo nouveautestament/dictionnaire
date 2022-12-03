@@ -1,1 +1,0 @@
-lar[5067]=`<b>ου (ὁ)</b> Alphios, <i>mt d’Étolie,</i> Ps.-PLUT. <i>Fluv. 8, 3</i>.`

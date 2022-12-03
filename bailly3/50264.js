@@ -1,1 +1,0 @@
-lar[50264]=`<b>κάθ·αλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>pass</i>. très salé, DIPH. (ATH. <i>132e</i>).<br><b>      2</b> <i>act</i>. qui sale trop, POSIDIPP. (ATH. <i>662a</i>).<p><b>Étym</b>. κ. ἅλς.`

@@ -1,1 +1,0 @@
-lar[21656]=`<b>ου (τὸ) :<br>      1</b> descendance, ESCHL. <i>Suppl. 290</i>.<br><b>      2</b> descendant, rejeton, ESCHL. <i>Ag. 784, etc.</i> ; SOPH. <i>Ph. 453</i> ; SIM. (PLAT. <i>Prot. 346e</i>) ; τὰ θνητῶν γ. SOPH. <i>O.R. 1425,</i> les enfants des hommes.<p><b>Étym</b>. <i>Cf</i>. γενέθλη.`

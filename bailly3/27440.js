@@ -1,1 +1,0 @@
-lar[27440]=`<b>δολιχό·σκιος, ος, ον</b> <font color="purple">[ῐῐ]</font><br><b>      1</b> qui projette son ombre au loin, IL. <i>3, 346 ; 22, 273</i> ; OD. <i>24, 519</i> ; OPP. <i>C. 1, 410</i>.<br><b>      2</b> <i>p. ext</i>. qui se répand au loin (odeur) NONN. <i>D. 11, 499</i>.<p><b>Étym</b>. δολιχός, σκιά.`

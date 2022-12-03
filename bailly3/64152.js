@@ -1,1 +1,0 @@
-lar[64152]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> jeune garçon, HSCH.<p><b>Étym</b>. <i>pré-grec ; cf</i>. μίλαξ.`

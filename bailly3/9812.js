@@ -1,1 +1,0 @@
-lar[9812]=`<b>ἀντι·δάκνω</b>, mordre à son tour, HDT. <i>4, 168</i> ; EL. <i>N.A. 4, 19</i>.`

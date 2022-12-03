@@ -1,1 +1,0 @@
-lar[15859]=`<b>ἄ·σικχος, ος, ον :<br>      1</b> non dégoûté, non délicat, PLUT. <i>Lyc. 16</i>.<br><b>      2</b> qui ne cause pas de dégoût, PLUT. <i>M. 132b, au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. ἀ, σικχός.`

@@ -1,1 +1,0 @@
-lar[90360]=`<b>ας (ἡ)</b> <font color="purple">[ῐνᾰ]</font><br><b>      1</b> gourmandise, ARSTT. <i>Nic. 7, 6, 6</i>.<br><b>      2</b> dissipation, prodigalité, extravagance, THÉM. <i>294a</i>.<p><b>Étym</b>. σινάμωρος.`

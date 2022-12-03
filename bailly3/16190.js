@@ -1,1 +1,0 @@
-lar[16190]=`<i>adv</i>., en forme d’étoile, DIOSC. <i>1, 18</i>.`

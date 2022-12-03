@@ -1,1 +1,0 @@
-lar[51136]=`<b>Καλλι·κλῆς</b>, <i>gén</i>. <b>έους (ὁ)</b> Kalliklès, <i>h</i>. PD. <i>N. 4, 130</i> ; PLAT. <i>Gorg. 447a, etc</i>.<p><b>Étym</b>. κ. κλέος.`

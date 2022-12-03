@@ -1,1 +1,0 @@
-lar[47037]=`<b>έως</b>, <i>adj. m</i>. de Thespies : οἱ Θεσπιεῖς, les Thespiens.<p>➳ <i>Acc. ion</i>. -έα, HDT. <i>8, 75. Plur. nom</i>. -εῖς, DS. <i>11, 32, etc. ; att</i>. -ῆς, THC. <i>4, 93 ; ion</i>. -έες, HDT. <i>5, 79 ; 7, 222, etc. ; acc</i>. -έας, XÉN. <i>Hell. 4, 2, 10, etc. ; et</i> -εῖς, THC. <i>4, 96, etc</i>.<p><b>Étym</b>. Θεσπιαί.`

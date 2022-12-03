@@ -1,1 +1,0 @@
-lar[35135]=`<b>εως (ἡ) :<br>      1</b> action d’oindre, <i>particul</i>. de farder, XÉN. <i>Cyr. 1, 3, 2</i> ; HLD. <i>6, 11</i>.<br><b>      2</b> <i>p. ext</i>. fard, EL. <i>V.H. 12, 1</i>.<p><b>Étym</b>. ἐντρίβω.`

@@ -1,1 +1,0 @@
-lar[4338]=`<font color="purple">[ᾰῡ]</font> dire la vérité, DÉMOCR. (STOB. <i>Fl. 12, 13</i>).`

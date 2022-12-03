@@ -1,1 +1,0 @@
-lar[24582]=`<b>εως (ἡ)</b> <font color="purple">[ρᾱ]</font> évasion, fuite, JOS. <i>A.J. 17, 10, 2 ; 18, 5, 4</i>.<p><b>Étym</b>. διαδιδράσκω.`

@@ -1,1 +1,0 @@
-lar[94741]=`<b>συν·αναπίμπλημι</b>, remplir de, <i>gén</i>. M. TYR. <i>18, 9 ; au pass</i>. JOS. <i>B.J. 7, 8, 7</i>.`

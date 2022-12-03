@@ -1,1 +1,0 @@
-lar[45471]=`<b>ἡμί·λεπτος, ος, ον</b> <font color="purple">[ῐ]</font> à demi éclos, ANACR. <i>26, 10</i>.<p><b>Étym</b>. ἡμι-, λέπω.`

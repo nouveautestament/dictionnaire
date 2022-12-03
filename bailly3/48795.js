@@ -1,1 +1,0 @@
-lar[48795]=`<b>ου (τὸ)</b> emplâtre d’Hikésios, A. TR. <i>8, p. 415 (vulg</i>. Ἰκήσιον).<p><b>Étym</b>. Ἱκέσιος.`

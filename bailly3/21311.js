@@ -1,1 +1,0 @@
-lar[21311]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> <i>s.-e</i>. θυσία, sacrifice et repas de noces que le fiancé offrait aux membres de sa phratrie, IS. <i>45, 33 ; 46, 5</i> ; γαμηλίαν εἰσφέρειν, DÉM. <i>1312, 12 ; 1310, 13, etc</i>. offrir aux membres de sa phratrie le repas de noces consacré.<p><b>Étym</b>. γαμήλιος.`

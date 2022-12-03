@@ -1,1 +1,0 @@
-lar[34831]=`<b>ἐν·ομόργνυμι</b>, <i>seul. au moy</i>. essuyer sur, <i>càd</i>. laisser une marque <i>ou</i> une empreinte sur, <i>dat</i>. PLUT. <i>M. 1081b ; fig</i>. PLUT. <i>Cic. 32</i>.`

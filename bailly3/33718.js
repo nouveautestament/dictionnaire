@@ -1,1 +1,0 @@
-lar[33718]=`<i>adv</i>., sensément, avec prudence, PLAT. <i>Rsp. 396c</i>.<p>•<i> Sup</i>. ἐμφρονέστατα, PLUT. <i>Ant. 14</i>.<p><b>Étym</b>. ἔμφρων.`

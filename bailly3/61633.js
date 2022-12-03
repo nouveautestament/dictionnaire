@@ -1,1 +1,0 @@
-lar[61633]=`<b>Λοπαδ·έκθαμβος, ου</b> <font color="purple">[ᾰ]</font> Épouvantail-des-plats, <i>n. de parasite,</i> ALCIPHR. <i>3, 4</i>.`

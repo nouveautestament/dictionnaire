@@ -1,1 +1,0 @@
-lar[6048]=`<b>ου (ὁ)</b> <i>s.-e</i>. οἶνος, mauvais vin (de Sicile) NICOSTR. <i>et</i> SOSICR. COM. (ATH. <i>31e</i>).`

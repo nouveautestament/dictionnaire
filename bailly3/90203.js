@@ -1,1 +1,0 @@
-lar[90203]=`<b>ου (ὁ)</b> Sidônios, <i>sophiste,</i> LUC. <i>Demon. 14</i>.`

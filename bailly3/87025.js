@@ -1,1 +1,0 @@
-lar[87025]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῐδ]</font> vase de nuit, XÉN. <i>Cyr. 8, 8, 10</i>.<p><b>Étym</b>. προχέω.`

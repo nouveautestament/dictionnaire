@@ -1,1 +1,0 @@
-lar[105096]=`<b>ου (ὁ)</b> sorte d’oiseau aquatique, OPP. <i>Ix. 3, 23</i>.`

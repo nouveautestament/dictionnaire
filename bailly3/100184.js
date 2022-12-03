@@ -1,1 +1,0 @@
-lar[100184]=`<b>τρι·έλικτος, ος, ον</b>, qui se replie <i>ou</i> s’enroule trois fois sur soi-même, ORACL. (HDT. <i>6, 77</i>) ; ANTH. <i>6, 110 ; p. suite,</i> à triple maille, ANTH. <i>App. 15</i>.<p><b>Étym</b>. τρ. ἑλίσσω.`

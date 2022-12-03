@@ -1,1 +1,0 @@
-lar[81176]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. asthmatique, poussif, HPC. <i>Acut. 386</i>.<p><b>Étym</b>. πνεῦμα.`

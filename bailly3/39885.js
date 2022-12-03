@@ -1,1 +1,0 @@
-lar[39885]=`<b>ἐπ·οροφόω-ῶ</b>, placer en guise de toit <i>ou</i> de couverture : τι ἐπί τινι, HÉRACLITE GRAMM. <i>All. Hom. 48,</i> une chose sur une autre.`

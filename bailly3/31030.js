@@ -1,1 +1,0 @@
-lar[31030]=`<b>ἑκατοντά·κλινος, ος, ον</b> <font color="purple">[κᾰῑ]</font> garni de cent lits, CHARÈS (ATH. <i>538c</i>) ; JOS. <i>B.J. 5, 4, 4 (var</i>. ἑκατοντατρίκλινος).<p><b>Étym</b>. ἑ. κλίνη.`

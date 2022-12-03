@@ -1,1 +1,0 @@
-lar[39992]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de sept mois, âgé de sept mois, CIC. <i>Att. 10, 18, 1</i> ; PLUT. <i>M. 908b ;</i> LUC. <i>D. deor. 9, 2</i> ; JOS. <i>A.J. 5, 11, 4</i>.<p><b>Étym</b>. ἑπτάμηνος.`

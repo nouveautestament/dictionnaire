@@ -1,1 +1,0 @@
-lar[90513]=`<b>ή, όν</b> <font color="purple">[σῑ]</font> engraissé, <i>en parl. des volatiles,</i> ATH. <i>656e ;</i> NT. <i>Matth. 22, 4</i> ; JOS. <i>A.J. 8, 2, 4</i>.<p><b>Étym</b>. σιτίζω.`

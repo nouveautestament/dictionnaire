@@ -1,1 +1,0 @@
-lar[33846]=`<b>ου (ὁ)</b> qui a des mœurs contre nature, <i>litt</i>. qui intervertit (l’ordre de la nature) AQU. <i>Esai. 3, 4</i>.<p><b>Étym</b>. ἐναλλάσσω.`

@@ -1,1 +1,0 @@
-lar[86692]=`<b>προσ·ῳδός, ός, όν :</b> que l’on chante avec accompagnement d’un instrument, EUR. <i>fr. 632 ; abs</i>. EUR. <i>Ph. 1499 ; fig</i>. qui s’accorde avec, <i>dat</i>. EUR. <i>Ion 359</i> ; PLUT. <i>M. 138b</i>.<p><b>Étym</b>. π. ᾄδω.`

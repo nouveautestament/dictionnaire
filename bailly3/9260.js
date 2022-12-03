@@ -1,1 +1,0 @@
-lar[9260]=`<b>ας (ἡ) :<br>      1</b> violation de la loi, illégalité, EUR. <i>I.A. 1095 ; d’où</i> iniquité, injustice, HDT. <i>1, 96, 97</i> ; EUR. <i>Ion 443</i> ; ANT. <i>125, 44 ; particul</i>. impiété, EUR. <i>I.T. 275</i>.<br><b>      2</b> absence de lois, anarchie, désordre, PLAT. <i>Rsp. 575a</i>.<p><b>Étym</b>. ἄνομος.`

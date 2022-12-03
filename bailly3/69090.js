@@ -1,1 +1,0 @@
-lar[69090]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> piquant, ARSTT. <i>Probl. 27, 3, 2</i>.<p><b>Étym</b>. νύγμα, -ωδης.`

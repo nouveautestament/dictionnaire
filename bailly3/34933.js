@@ -1,1 +1,0 @@
-lar[34933]=`<b>ἐν·σκιάζω</b>, mettre à l’ombre, NYSS. <i>2, 1136c Migne</i>.`

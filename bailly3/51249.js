@@ -1,1 +1,0 @@
-lar[51249]=`<b>καλλί·φλοξ, ογος (ὁ, ἡ)</b> à la flamme brillante, EUR. <i>Ion 706</i>.<p><b>Étym</b>. κ. φλόξ.`

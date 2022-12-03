@@ -1,1 +1,0 @@
-lar[36598]=`<b>ἐπ·ανάκειμαι</b>, être exposé <i>ou</i> réservé à, <i>dat</i>. XÉN. <i>Cyr. 3, 3, 52</i>.`

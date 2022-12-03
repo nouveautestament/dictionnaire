@@ -1,1 +1,0 @@
-lar[91751]=`<b>ους (ὁ)</b> Spargapisès, <i>fils de Tomyris,</i> HDT. <i>1, 211, 213</i>.`

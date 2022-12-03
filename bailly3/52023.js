@@ -1,1 +1,0 @@
-lar[52023]=`<i>seul. plur</i>. <b>καρωτίδες, ων (αἱ)</b> <font color="purple">[ᾰ]</font> les deux artères carotides, <i>qui conduisent le sang au cerveau,</i> GAL. <i>4, 694, etc.</i> ; ARÉT. <i>Cur. m. acut. 2, 11</i>.<p><b>Étym</b>. καρόω.`

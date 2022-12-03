@@ -1,1 +1,0 @@
-lar[56128]=`<b>ου (τὸ)</b> sorte de pâtisserie, CHRYSIPP. (ATH. <i>674d</i>).`

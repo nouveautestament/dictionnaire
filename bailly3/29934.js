@@ -1,1 +1,0 @@
-lar[29934]=`<b>ος, ον</b>, qui sert à oindre, à enduire, ARSTT. <i>G.A. 2, 7, 18</i> ; THCR. <i>Idyl. 11, 2</i>.<p><b>Étym</b>. ἐγχρίω.`

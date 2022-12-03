@@ -1,1 +1,0 @@
-lar[21844]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> plaisanterie grossière, raillerie injurieuse, STR. <i>400</i>.<p><b>Étym</b>. γεφυρίζω.`

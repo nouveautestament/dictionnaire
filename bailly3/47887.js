@@ -1,1 +1,0 @@
-lar[47887]=`<b>ων (τὰ)</b> Thymbrares, <i>v. de Lydie,</i> XÉN. <i>Cyr. 6, 2, 11 ; 7, 1, 45</i>.`

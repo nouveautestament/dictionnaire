@@ -1,1 +1,0 @@
-lar[75392]=`<b>ης (ἡ)</b> boisson de millet mêlé avec de la sarriette, HÉCAT. (ATH. <i>447d</i>).`

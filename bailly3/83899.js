@@ -1,1 +1,0 @@
-lar[83899]=`<b>ή, όν</b>, qui peut indiquer d’avance, <i>gén</i>. PLAT. <i>Def. 414b</i>.<p><b>Étym</b>. προδηλόω.`

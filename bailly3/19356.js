@@ -1,1 +1,0 @@
-lar[19356]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> ronce, <i>d’où</i> mûre sauvage, OD. <i>24, 230</i> ; ANTH. <i>7, 315, etc.</i> ; βάτος Ἰδαία, DIOSC. <i>4, 38,</i> mûre sauvage du mt Ida, <i>càd</i>. framboise.<br><b>      2</b> épine, <i>en gén</i>. ANTH. <i>5, 28</i>.<p>➳ ὁ βάτος, AR. <i>fr. 593</i> ; TH. <i>H.P. 1, 5, 3</i> ; POL. SPT. <i>etc</i>.`

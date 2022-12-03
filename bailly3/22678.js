@@ -1,1 +1,0 @@
-lar[22678]=`<b>γρυμεο·πώλης</b>, <i>mieux que</i> <b>γρυμαιο·πώλης, ου (ὁ)</b> <font color="purple">[ῠ]</font> marchand de friperie, LUC. <i>Lex. 3</i>.<p><b>Étym</b>. γρυμέα, πωλέω.`

@@ -1,1 +1,0 @@
-lar[72208]=`<i>interj</i>. oh ! oh ! oh ! <i>exclamation d’un Scythe,</i> AR. <i>Th. 1191</i>.`

@@ -1,1 +1,0 @@
-lar[100433]=`<b>τρισ·άωρος, ος, ον</b> <font color="purple">[ῐ]</font> tout à fait (<i>litt</i>. trois fois) hors de saison, ANTH. <i>7, 527</i>.`

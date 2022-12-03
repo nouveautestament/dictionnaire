@@ -1,1 +1,0 @@
-lar[81596]=`<b>ος, ον :<br>      1</b> protecteur de la cité, ESCHL. <i>Sept. 69, 185, 271 ; Ag. 338</i>.<br><b>      2</b> qui habite la cité, ESCHL. <i>Eum. 775, 883, etc</i>.<p><b>Étym</b>. πολισσόος, ἔχω.`

@@ -1,1 +1,0 @@
-lar[58363]=`<b>κυάν·οφρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ῠᾰ]</font> aux sourcils sombres <i>ou</i> noirs, THCR. <i>Idyl. 3, 18 ; 17, 53</i>.<p><b>Étym</b>. κυανός², ὀφρύς.`

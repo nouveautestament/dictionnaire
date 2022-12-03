@@ -1,1 +1,0 @@
-lar[80822]=`<b>πλειονο·ψηφία, ας (ἡ)</b> influence dominante, <i>en parl. d’astrologie (litt</i>. compte plus élevé), P. ALEX. <i>Apot. 33, p. 88, l. 9 Boer</i>.<p><b>Étym</b>. πλ. ψῆφος.`

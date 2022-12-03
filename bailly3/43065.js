@@ -1,1 +1,0 @@
-lar[43065]=`<b>ας (ἡ)</b> Eupolémeia, <i>f</i>. A.RH. <i>1, 55</i> ; ORPH. <i>Arg. 134</i>.<p><b>Étym</b>. εὐπόλεμος.`

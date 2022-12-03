@@ -1,1 +1,0 @@
-lar[9024]=`<b>ἀνθυποφορά, ᾶς (ἡ)</b> réplique à une objection possible <i>ou</i> prévue, DH. <i>Dem. 54</i> ; QUINT. <i>9, 2, 106</i> ; DYSC. <i>Synt. 72, 26</i>.<p><b>Étym</b>. ἀνθυποφέρω.`

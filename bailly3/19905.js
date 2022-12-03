@@ -1,1 +1,0 @@
-lar[19905]=`<b>ου (ὁ)</b> baveuse, <i>poisson appelé aussi</i> βαιών, OPP. <i>H. 1, 109</i> ; SOPHR. (ATH. <i>288a</i>).`

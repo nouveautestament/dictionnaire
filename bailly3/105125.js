@@ -1,1 +1,0 @@
-lar[105125]=`<b>φερέ·βοτρυς, υς, υ</b>, <i>gén</i>. <b>υος</b>, qui porte des grappes (de raisin) NONN. <i>D. 19, 53</i>.<p><b>Étym</b>. φέρω, βότρυς.`

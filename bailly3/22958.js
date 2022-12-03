@@ -1,1 +1,0 @@
-lar[22958]=`<b>δαϊ·κτάμενος, η, ον</b> <font color="purple">[ᾰᾰ]</font> tué dans la mêlée, IL. <i>21, 146, 301</i> ; Q. SM. <i>1, 630, etc</i>.<p><b>Étym</b>. δαΐς, κτείνω.`

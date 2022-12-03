@@ -1,1 +1,0 @@
-lar[69669]=`<b>ξυλο·κόλλα, ης (ἡ)</b> <font color="purple">[ῠ]</font> colle forte (<i>propr</i>. pour le bois) DIOSC. <i>3, 101</i>.<p><b>Étym</b>. ξ. κόλλα.`

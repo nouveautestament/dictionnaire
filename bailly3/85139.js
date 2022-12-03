@@ -1,1 +1,0 @@
-lar[85139]=`<b>προσ·αναθλίβω</b> <font color="purple">[ῑ]</font> comprimer encore plus <i>ou</i> en outre, CLÉM. <i>221</i>.`

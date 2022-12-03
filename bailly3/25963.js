@@ -1,1 +1,0 @@
-lar[25963]=`<b>εως (ἡ)</b> <font color="purple">[φῐ]</font><br><b>      1</b> action d’apporter chacun son vote, <i>d’où</i> vote, PLAT. <i>Leg. 855d, 956e, 958a ;</i> προτιθέναι τὴν διαψήφισιν, XÉN. <i>Hell. 1, 7, 14,</i> soumettre au vote, faire voter.<br><b>      2</b> <i>t. de droit att</i>. vote de révision de la liste civique, DÉM. <i>1306, etc</i>.`

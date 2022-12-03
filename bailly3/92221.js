@@ -1,1 +1,0 @@
-lar[92221]=`<b>σταφυλό·δενδρον, ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> sorte d’arbre à grappes, PLIN. <i>H.N. 16, 16, 27</i>.`

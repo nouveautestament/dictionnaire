@@ -1,1 +1,0 @@
-lar[33163]=`<b>ἐμ·βρύκω</b> <font color="purple">[ῡ]</font> mordre, ronger, NIC. <i>Th. 824, etc</i>.<p><b>Étym</b>. ἐν, βρ.`

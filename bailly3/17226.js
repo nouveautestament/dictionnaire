@@ -1,1 +1,0 @@
-lar[17226]=`<b>ας (ἡ)</b> aulodie, chant accompagné par l’aulos, <i>que joue un autre musicien,</i> PLAT. <i>Leg. 700d ;</i> PLUT. <i>M. 1132f</i>.<p><b>Étym</b>. αὐλῳδός.`

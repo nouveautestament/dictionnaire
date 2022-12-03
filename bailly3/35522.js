@@ -1,1 +1,0 @@
-lar[35522]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> trompeur, HPC. <i>347, 9</i>.<p><b>Étym</b>. ἐξαπατάω.`

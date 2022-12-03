@@ -1,1 +1,0 @@
-lar[42623]=`<b>ας</b> <font color="purple">[μᾰ]</font> facilité à apprendre, docilité, PLAT. <i>Rsp. 490c ; cf</i>. εὐμαθία.<p><b>Étym</b>. εὐμαθής.`

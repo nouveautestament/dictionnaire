@@ -1,1 +1,0 @@
-lar[3886]=`<b>ἀκρο·χορδών, όνος (ἡ)</b> verrue avec une petite queue mince, HPC. <i>Aph. 1248</i> ; PLUT. <i>Fab. 1</i>.<p><b>Étym</b>. ἄ. χορδή.`

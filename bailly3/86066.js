@@ -1,1 +1,0 @@
-lar[86066]=`<b>εως (ἡ)</b> <font color="purple">[ρῐ]</font> amalgame, fusion, ARTÉM. <i>4, 2</i>.<p><b>Étym</b>. προσκρίνω.`

@@ -1,1 +1,0 @@
-lar[25779]=`<b>ή, όν</b>, <i>avec double sens,</i> qui use par le frottement et qui retarde, AR. <i>Lys. 943</i>.<p><b>Étym</b>. διατρίβω.`

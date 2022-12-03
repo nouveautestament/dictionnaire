@@ -1,1 +1,0 @@
-lar[44181]=`<b>ἐχε·γλωττία, ας (ἡ)</b> discrétion, silence, LUC. <i>Lex. 9</i>.<p><b>Étym</b>. ἔχω, γλῶττα.`

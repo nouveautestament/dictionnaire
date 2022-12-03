@@ -1,1 +1,0 @@
-lar[48988]=`<b>ας (ἡ)</b> Himéra (Himère, <i>auj. près de</i> Termini) <i>v. de la côte nord de la Sicile,</i> PD. <i>O. 12, 2</i> ; HDT. <i>6, 24 ; 7, 165</i> ; THC. <i>6, 5 et 62</i>.<p>➳ <i>Ion</i>. Ἱμέρη, HDT. <i>ll. cc. etc</i>.`

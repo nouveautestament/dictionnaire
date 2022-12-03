@@ -1,1 +1,0 @@
-lar[24868]=`<b>δι·ακροβολίζομαι</b> <font color="darkgreen">(<i>impf. 3 pl</i>. διηκροβολίζοντο)</font> engager une escarmouche, JOS. <i>B.J. 4, 7, 1</i>.`

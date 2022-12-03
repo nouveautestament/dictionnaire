@@ -1,1 +1,0 @@
-lar[109075]=`<b>χρυσ·αίετος, ου (ἡ)</b> <font color="purple">[ῡ]</font> l’aigle doré <i>ou</i> royal, EL. <i>N.A. 2, 39</i>.<p><b>Étym</b>. χρ. αἰετός.`

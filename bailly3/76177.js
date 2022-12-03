@@ -1,1 +1,0 @@
-lar[76177]=`<b>παρα·σεύομαι</b> <font color="darkgreen">(<i>seul. part. pf</i>. παρεσσυμένος <font color="purple">[ῠ]</font>) :</font><br><b>      1</b> s’élancer vers, le long de <i>ou</i> au delà de, accourir, Q. SM. <i>2, 114</i>.<br><b>      2</b> s’élancer le long de <i>ou</i> au delà de, Q. SM. <i>8, 44</i>.`

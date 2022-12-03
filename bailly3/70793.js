@@ -1,1 +1,0 @@
-lar[70793]=`<i>adv</i>., nonchalamment, <i>d’où</i> timidement, XÉN. <i>An. 7, 1, 7</i> ; DÉM. <i>138, 24</i>.<p>•<i> Cp</i>. ὀκνηρότερον, XÉN. <i>Cyr. 1, 4, 6</i>.`

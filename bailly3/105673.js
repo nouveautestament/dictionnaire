@@ -1,1 +1,0 @@
-lar[105673]=`<b>ου (ὁ)</b> Philiskos, <i>h</i>. XÉN. <i>Hell. 7, 1, 27</i> ; DÉM. <i>Or. 23, 141, etc. Baiter-Sauppe</i> ; EL. <i>V.H. 9, 12, etc</i>.<p><b>Étym</b>. <i>v</i>. φιλίσκος.`

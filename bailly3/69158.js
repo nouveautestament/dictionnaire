@@ -1,1 +1,0 @@
-lar[69158]=`<b>νυκτι·φαής, ής, ές</b> <font color="purple">[ῐ]</font> qui brille pendant la nuit, PARMÉN. (PLUT. <i>M. 116a</i>) ; ORPH. <i>H. 53, 10</i>.<p><b>Étym</b>. ν. φάος ; <i>cf</i>. νυκτοφαής.`

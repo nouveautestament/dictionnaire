@@ -1,1 +1,0 @@
-lar[52798]=`<b>κατα·μάρπτω</b>, saisir, <i>acc</i>. IL. <i>6, 364, etc.</i> ; OD. <i>24, 390 ; particul</i>. atteindre à la course, <i>acc</i>. IL. <i>5, 65, etc</i>.`

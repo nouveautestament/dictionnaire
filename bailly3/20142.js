@@ -1,1 +1,0 @@
-lar[20142]=`<b>ή, όν</b>, qu’on peut prendre avec un filet, PLUT. <i>M. 977e</i>.<p><b>Étym</b>. βολίζω.`

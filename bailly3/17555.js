@@ -1,1 +1,0 @@
-lar[17555]=`<b>αὐτο·κύλιστος, ος, ον</b> <font color="purple">[ῠ]</font> qui se déroule <i>ou</i> se meut de soi-même, OPP. <i>H. 2, 604</i> ; NONN. <i>D. 2, 434</i>.<p><b>Étym</b>. αὐ. κυλίω.`

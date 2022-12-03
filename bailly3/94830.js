@@ -1,1 +1,0 @@
-lar[94830]=`<b>συν·απαρτίζω :<br>   I <i>tr.</i></b> rendre égal <i>ou</i> semblable à, <i>dat</i>. CLÉM. <i>544</i>.<br><b>   II <i>intr</i>.<br>      1</b> correspondre à, <i>dat</i>. DH. <i>Comp. 26 commenc.</i> ; STR. <i>616</i>.<br><b>      2</b> s’étendre contre <i>ou</i> le long de, <i>dat</i>.`

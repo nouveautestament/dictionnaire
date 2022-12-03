@@ -1,1 +1,0 @@
-lar[81922]=`<b>ας (ἡ)</b> polythéisme, SIB. <i>2 titre</i>.`

@@ -1,1 +1,0 @@
-lar[33564]=`<b>ἔμ·πονος, ος, ον :<br>      1</b> qui supporte le travail, la fatigue, HPC. <i>Aër. 289, etc.</i><br><b>      2</b> qui coûte de la peine, ARÉT. <i>Caus. m. acut. 1, 9 ; d’où</i> fort, véhément (cri) SPT. <i>3Macc. 1, 28</i>.<p><b>Étym</b>. ἐν, πόνος.`

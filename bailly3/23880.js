@@ -1,1 +1,0 @@
-lar[23880]=`<font color="darkgreen">(<i>f</i>. άσω, <i>ao</i>. ἐδέννασα, <i>pf. inus</i>.)</font> injurier, outrager : τινά, THGN. <i>1211,</i> qqn ; ἐπὶ ψόγοισι δ. SOPH. <i>Ant. 759, ou</i> κακὰ ῥήματα δ. SOPH. <i>Aj. 243,</i> adresser des reproches outrageants.<p><b>Étym</b>. δέννος.`

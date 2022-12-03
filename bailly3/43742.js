@@ -1,1 +1,0 @@
-lar[43742]=`<b>ου (ὁ)</b> Euphræos, <i>h</i>. PLAT. <i>Ep. 321c</i>, d ; DÉM. <i>126, 6</i>.`

@@ -1,1 +1,0 @@
-lar[11292]=`<b>εως (ἡ)</b> dédain, refus, POL. <i>Fr. hist. 42</i> ; DH. <i>1, 9 ; 5, 71</i>.<p><b>Étym</b>. ἀπαξιόω.`

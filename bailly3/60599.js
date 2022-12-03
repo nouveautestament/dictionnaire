@@ -1,1 +1,0 @@
-lar[60599]=`<b>λευκό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, aux pieds blancs, <i>càd</i>. nus, EUR. <i>Cycl. 72</i> ; AR. <i>Lys. 665, etc</i>.<p><b>Étym</b>. λ. πούς.`

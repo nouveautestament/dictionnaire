@@ -1,1 +1,0 @@
-lar[95745]=`<b>συν·ερείπω</b>, démolir, détruire, ALCIDAM. <i>V. Soph. p. 87</i>.`

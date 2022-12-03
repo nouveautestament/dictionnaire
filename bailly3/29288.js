@@ -1,1 +1,0 @@
-lar[29288]=`<b>(οἱ, αἱ, τὰ</b>) <i>indécl</i>. soixante-dix, HDT. <i>1, 32, etc.</i> ; ATT. <i>etc.</i> ; οἱ ἑ. πρεσβύτεροι, JOS. <i>A.J. 12, 2, 7,</i> les Septante, <i>càd</i>. les 70 interprètes (<i>exactement non 70, mais 72</i>) qui traduisirent en grec le texte hébreu de l’Ancien Testament.<p><b>Étym</b>. ἕβδομος.`

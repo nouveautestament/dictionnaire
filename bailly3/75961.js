@@ -1,1 +1,0 @@
-lar[75961]=`<b>παρ·αναδύομοι</b> <font color="darkgreen">(<i>f</i>. -αναδύσομαι, <i>ao.2</i> -ανέδυν, <i>etc</i>.)</font> sortir d’auprès de, <i>avec</i> ἐκ <i>et le gén</i>. PLUT. <i>Alex. 2</i>.`

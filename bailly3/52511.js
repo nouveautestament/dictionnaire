@@ -1,1 +1,0 @@
-lar[52511]=`<b>κατα·κενόω-ῶ</b>, vider entièrement, SPT. <i>Gen. 42, 35 ; Sam. 2, 13, 9</i> ; JOS. <i>B.J. 1, 30, 6</i>.`

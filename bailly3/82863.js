@@ -1,1 +1,0 @@
-lar[82863]=`<b>πορφυρίτης λίθος (ὁ)</b> <font color="purple">[ῠῑ]</font> porphyre, <i>sorte de marbre,</i> DC. <i>76, 15</i>.<p><b>Étym</b>. πορφύρα.`

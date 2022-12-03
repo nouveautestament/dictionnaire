@@ -1,1 +1,0 @@
-lar[110513]=`<b>εως (ἡ) :<br>      1</b> action de pousser, impulsion, HPC. <i>Aph. 1248</i> ; ARSTT. <i>Phys. 7, 2, 3</i> ; AN. <i>3, 10, 9</i>.<br><b>      2</b> heurt, coup, <i>joint à</i> πληγάς, PLUT. <i>M. 916d</i>.<p><b>Étym</b>. ὠθέω.`

@@ -1,1 +1,0 @@
-lar[52594]=`<b>κατά·κομος, ος, ον</b>, couvert d’une longue <i>ou</i> d’une épaisse chevelure, EUR. <i>Bacch. 1185</i> ; LUC. <i>D. deor. 19, 1 ; fig</i>. ὕλαι κ. SYN. <i>75,</i> bois aux arbres couverts de feuilles.<p><b>Étym</b>. κ. κόμη.`

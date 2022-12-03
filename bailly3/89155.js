@@ -1,1 +1,0 @@
-lar[89155]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. σαλάμβη, SOPH. <i>fr. 940 Dind</i>.`

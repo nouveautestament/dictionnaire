@@ -1,1 +1,0 @@
-lar[11408]=`<b>εως (ἡ) :<br>      1</b> action de suspendre, CLÉM. <i>248</i>.<br><b>      2</b> séparation, PHIL. <i>1, 209</i>.<p><b>Étym</b>. ἀπαρτάω.`

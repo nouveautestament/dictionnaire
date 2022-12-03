@@ -1,1 +1,0 @@
-lar[104142]=`<b>ὑπο·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font> se relâcher peu à peu de, <i>gén</i>. EL. <i>N.A. 12, 46 ; abs</i>. RHÉT. <i>1, 621 W</i>.`

@@ -1,1 +1,0 @@
-lar[45352]=`<b>ων (τὰ)</b> guet pendant le jour, EN. TACT. <i>Pol. 22, 6</i>.<p><b>Étym</b>. ἡμεροσκόπος.`

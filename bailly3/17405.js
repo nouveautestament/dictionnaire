@@ -1,1 +1,0 @@
-lar[17405]=`<b>αὐτό·γα</b> <font color="purple">[ᾰ]</font> cela même, THCR. <i>Idyl. 11, 60 (sel. Ahrens</i> αὖ τό γα).<p><b>Étym</b>. αὐτός, <i>dor</i>. γα, <i>v</i>. γε.`

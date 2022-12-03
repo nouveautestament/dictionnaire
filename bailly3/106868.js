@@ -1,1 +1,0 @@
-lar[106868]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de creuser des puits, JOS. <i>A.J. 1, 18, 2</i>.`

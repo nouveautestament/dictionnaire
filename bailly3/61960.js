@@ -1,1 +1,0 @@
-lar[61960]=`<b>α, ον</b> <font color="purple">[ῡ]</font> affligeant, CHRYS. <i>5, 368</i>.<p><b>Étym</b>. λυπέω.`

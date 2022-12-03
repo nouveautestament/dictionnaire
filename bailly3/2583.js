@@ -1,1 +1,0 @@
-lar[2583]=`<b>ας (ἡ)</b> Hémonie :<br><b>      1</b> <i>contrée de Macédoine,</i> A.RH. <i>2, 506 ; 3, 1089</i> ; NONN. <i>D. 44, 2</i>.<br><b>      2</b> <i>anc n. de la Thessalie,</i> STR. <i>443</i> ; DH. <i>1, 17</i>.<p>➳ <i>Ion</i>. -ίη, A.RH. NONN. <i>D. ll. cc</i>.`

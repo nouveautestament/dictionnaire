@@ -1,1 +1,0 @@
-lar[101451]=`<b>ου (ὁ) :<br>      1</b> l’Hydaspe (<i>auj</i>. Jhelum) <i>fl. de l’Inde,</i> NONN. <i>D. 17, 254, etc.</i> ; PLUT. <i>Alex. 60, 61, etc.</i><br><b>      2</b> Hydaspès, <i>dieu de ce fl</i>. NONN. <i>D. 17, 293, etc</i>.<p>➳ <i>Gén. ion</i>. -εω, ARR. <i>Ind. 19, 1, 6 ; acc. ion</i>. -εα, ARR. <i>Ind. 3, 10, etc</i>.`

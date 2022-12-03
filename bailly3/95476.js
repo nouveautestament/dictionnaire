@@ -1,1 +1,0 @@
-lar[95476]=`<b>συν·ενδείκνυμι</b> <font color="purple">[νῡ]</font> indiquer avec <i>ou</i> en même temps, GAL. <i>10, 210</i>.`

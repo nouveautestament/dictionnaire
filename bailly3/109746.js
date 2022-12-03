@@ -1,1 +1,0 @@
-lar[109746]=`<b>ψευδό·φημος, ος, ον</b>, qui est une fausse prédiction, <i>d’où</i> mensonger, SOPH. <i>O.C. 1517</i>.<p><b>Étym</b>. ψ. φήμη.`

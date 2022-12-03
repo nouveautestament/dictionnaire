@@ -1,1 +1,0 @@
-lar[13261]=`<b>ἀπ·ορφανίζω</b> <font color="purple">[φᾰ]</font> (<i>seul. ao. pass</i>. ἀπωρφανίσθην, NT. ; <i>part. pf. pass</i>. ἀπωρφανισμένος, ESCHL. <i>Ch. 249</i>) rendre orphelin, <i>d’où, en gén.,</i> priver de.`

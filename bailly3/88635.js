@@ -1,1 +1,0 @@
-lar[88635]=`<b>οῦ (ὁ)</b> agitation continuelle, HPC. <i>Acut. 393 ; fig</i>. inquiétude <i>ou</i> agitation d’un malade, HPC. <i>Coac. 129</i> ; PLUT. <i>M. 455b</i>.<p><b>Étym</b>. ῥιπτάζω.`

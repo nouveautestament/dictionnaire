@@ -1,1 +1,0 @@
-lar[82256]=`<b>πολυπληθέω-ῶ :<br>      1</b> être très abondant en, <i>dat</i>. SPT. <i>Lev. 11, 42, 2</i>.<br><b>      2</b> se multiplier, SPT. <i>Ex. 5, 5</i>.<p><b>Étym</b>. πολυπληθής.`

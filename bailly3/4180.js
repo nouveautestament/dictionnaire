@@ -1,1 +1,0 @@
-lar[4180]=`<i>gén. de</i> Ἀλείσιος, d’Aleisios, <i>prétendant d’Hippodamie, ou p.-ê. de</i> Ἀλείσιον (colline d’)Aleision, IL. <i>11, 757</i>.`

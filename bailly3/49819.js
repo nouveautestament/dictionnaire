@@ -1,1 +1,0 @@
-lar[49819]=`<b>ας (ἡ)</b> Histiæa, <i>v. d’Eubée,</i> IL. <i>2, 537</i> ; HDT. <i>8, 23, etc</i>.<p>➳ <i>trisyllab. dans</i> HOM. <i>l. c</i>.`

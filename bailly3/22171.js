@@ -1,1 +1,0 @@
-lar[22171]=`<b>γλυκύ·μηλον, ου (τὸ)</b> sorte de pomme très douce, <i>c</i>. μελίμηλον, DIOSC. <i>1, 161</i> ; ORIB. <i>1, 427 ; fig. t. de tendresse,</i> THCR. <i>Idyl. 11, 39</i>.<p>➳ <i>Dor</i>. γλυκύμαλον <font color="purple">[ᾱ]</font> SAPPH. <i>fr. 93 Bgk</i> ; THCR. <i>l. c</i>.<p><b>Étym</b>. γλ. μῆλον.`

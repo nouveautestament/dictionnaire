@@ -1,1 +1,0 @@
-lar[90891]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> Skias, <i>f</i>. DIOCL. (PLUT. <i>Qu. gr. 40).</i><p><b>Étym</b>. <i>v</i>. σκιάς.`

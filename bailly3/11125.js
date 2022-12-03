@@ -1,1 +1,0 @@
-lar[11125]=`<b>ἀπ·αιθύσσω</b> (<i>seul. prés. pass</i>.) agiter une flamme, DS. <i>2, 53</i>.`

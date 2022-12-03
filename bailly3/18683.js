@@ -1,1 +1,0 @@
-lar[18683]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰᾰκ]</font> <i>c</i>. βαβάκτης, ARCHIL., LYC.`

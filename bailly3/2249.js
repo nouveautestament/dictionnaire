@@ -1,1 +1,0 @@
-lar[2249]=`<b>ων (τὰ)</b> Ægilies, <i>port de l’Érétriade,</i> HDT. <i>6, 101</i>.`

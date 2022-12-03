@@ -1,1 +1,0 @@
-lar[36960]=`<b>οῦ (ὁ)</b> Épeios, <i>constructeur du cheval de Troie,</i> IL. <i>23, 665</i> ; OD. <i>8, 493 ; 11, 523</i> ; EUR. <i>Tr. 10, etc</i>.`

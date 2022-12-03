@@ -1,1 +1,0 @@
-lar[20157]=`<b>βομβ·αύλιος, ου (ὁ)</b> qui fait résonner la flûte, joueur de flûte, AR. <i>Ach. 866</i>.<p><b>Étym</b>. βόμβος, αὐλός.`

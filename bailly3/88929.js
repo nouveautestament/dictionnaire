@@ -1,1 +1,0 @@
-lar[88929]=`<b>οῦ (ὁ)</b> étendue de territoire, DP. <i>271</i>.<p><b>Étym</b>. <i>cf</i>. ῥυμός.`

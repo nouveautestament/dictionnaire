@@ -1,1 +1,0 @@
-lar[73702]=`<b>ῆρος (ὁ) :<br>      1</b> <i>c</i>. οὐρήθρα, HPC. <i>192h ;</i> ARSTT. <i>H.A. 3, 15</i>.<br><b>      2</b> uretère, <i>conduit qui amène l’urine des reins dans la vessie,</i> ARÉT. <i>p. 23, 21, etc</i>.<p><b>Étym</b>. οὐρέω¹.`

@@ -1,1 +1,0 @@
-lar[5580]=`<b>ου (ὁ)</b> Amizôkès, <i>Scythe,</i> LUC. <i>Tox. 20</i>.`

@@ -1,1 +1,0 @@
-lar[69363]=`<b>ου (ὁ)</b> Xanthès, <i>général des Mardes,</i> ESCHL. <i>Pers. 995</i>.`

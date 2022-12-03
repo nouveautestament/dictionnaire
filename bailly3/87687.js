@@ -1,1 +1,0 @@
-lar[87687]=`<b>πυλη·δόκος, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. qui veille <i>ou</i> accueille aux portes d’une ville, <i>ép. d’Hermès,</i> HH. <i>Merc. 15</i>.<p><b>Étym</b>. πύλη, δοκεύω.`

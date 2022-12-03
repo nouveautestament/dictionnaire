@@ -1,1 +1,0 @@
-lar[24991]=`<b>δια·μαλάσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[μᾰ]</font> amollir complètement, macérer, LUC. <i>Prom. 13</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>679</i>.`

@@ -1,1 +1,0 @@
-lar[53148]=`<b>εως (ἡ)</b> <font color="purple">[ᾱξ]</font> accomplissement, exécution, CLÉM. <i>318, 443</i> ; JOS. <i>A.J. 19, 1, 4</i>.<p><b>Étym</b>. καταπράσσω.`

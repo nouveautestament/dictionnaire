@@ -1,1 +1,0 @@
-lar[92602]=`<b>ατος (τὸ) :<br>      1</b> piqûre, ARSTT. <i>H.A. 7, 6, 6 ; particul</i>. piqûre au fer rouge, HDT. <i>7, 233 ; particul</i>. tatouage par suite de pratiques religieuses, HDT. <i>2, 113 ; ou en gén</i>. DS. <i>14, 30</i>.<br><b>      2</b> tacheture, moucheture, HÉS. <i>Sc. 166</i> ; DIOSC. <i>2, 98, 205</i>.<p><b>Étym</b>. στίζω.`

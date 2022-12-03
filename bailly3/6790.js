@@ -1,1 +1,0 @@
-lar[6790]=`<b>ἀνα·θεωρέω-ῶ</b>, considérer de nouveau <i>ou</i> à fond, TH. <i>H.P. 1, 5, 1 ; 8, 6, 2 ; au pass</i>. DS. <i>18, 74, etc</i>.`

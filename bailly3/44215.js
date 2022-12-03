@@ -1,1 +1,0 @@
-lar[44215]=`<b>ἐχέ·στονος, ος, ον</b>, qui cause de la douleur (<i>propr</i>. des gémissements) THCR. <i>Idyl. 25, 213</i>.<p><b>Étym</b>. ἔχω, στόνος.`

@@ -1,1 +1,0 @@
-lar[25850]=`<b>δια·φιλονεικέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. διεφιλονείκησα)</font> <font color="purple">[φῐ]</font> être en lutte, disputer fortement avec qqn, ARSTT. <i>Soph. el. 3, 1</i> ; PLUT. <i>Alex. 29</i> ; DL. <i>3, 34</i>.`

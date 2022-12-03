@@ -1,1 +1,0 @@
-lar[4754]=`<b>*ἀλληλοφονία</b>, <i>dor</i>. <b>ἀλλαλοφονία, ας (ἡ)</b> <font color="purple">[λᾱ]</font> action de s’entre-tuer, PD. <i>O. 2, 42</i>.<p><b>Étym</b>. ἀλληλοφόνος.`

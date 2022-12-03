@@ -1,1 +1,0 @@
-lar[88805]=`<b>(ὁ)</b> Rhous, <i>v. de Mégaride,</i> PLUT. <i>Thes. 27, v</i>. ῥόος.`

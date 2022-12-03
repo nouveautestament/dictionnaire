@@ -1,1 +1,0 @@
-lar[19943]=`<b>ας</b>, <i>adj. f</i>. qui lance, <i>gén</i>. ALEX. ÉT. (MACR. <i>Sat. 5, 22).</i><p><b>Étym</b>. βάλλω.`

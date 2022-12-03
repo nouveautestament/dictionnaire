@@ -1,1 +1,0 @@
-lar[2091]=`<b>Ἀθριβίτης νομός (ὁ)</b> le nome égyptien d’Athribis, HDT. <i>2, 166</i>.`

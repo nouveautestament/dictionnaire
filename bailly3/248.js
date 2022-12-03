@@ -1,1 +1,0 @@
-lar[248]=`<b>Ἀγαθό·βουλος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Agathoboulos :<br><b>      1</b> <i>frère d’Épicure,</i> PLUT. <i>Epic. 5, 2</i>.<br><b>      2</b> <i>philosophe cynique,</i> LUC. <i>Demon. 2</i>.<p><b>Étym</b>. ἀγ. βουλή.`

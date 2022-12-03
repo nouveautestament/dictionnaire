@@ -1,1 +1,0 @@
-lar[42532]=`<b>εὐ·κτέανος, ος, ον</b>, aux fibres tendres, <i>d’où</i> facile à fendre, à couper, PLUT. <i>Marc. 8</i>.<p>•<i> Cp</i>. -ώτερος, TH. <i>H.P. 3, 9, 3</i>.<p><b>Étym</b>. εὖ, κτείς.`

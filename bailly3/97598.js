@@ -1,1 +1,0 @@
-lar[97598]=`<b>ου (ὁ)</b> if, <i>arbre,</i> GAL.<p><b>Étym</b>. <i>lat</i>. taxus.`

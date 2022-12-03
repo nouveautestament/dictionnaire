@@ -1,1 +1,0 @@
-lar[10322]=`<b>ἀντι·προαίρεσις, εως (ἡ)</b> préférence mutuelle, ARSTT. <i>Eud. 7, 2, 12</i>.`

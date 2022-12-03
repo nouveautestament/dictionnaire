@@ -1,1 +1,0 @@
-lar[52778]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> destructeur, NAZ. <i>2, 101 et 652 Migne</i>.<p><b>Étym</b>. καταλύω, <i>v</i>. καταλύτης.`

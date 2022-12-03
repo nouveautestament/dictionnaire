@@ -1,1 +1,0 @@
-lar[24279]=`<b>*Δημο·μένης</b>, <i>seul. dor</i>. <b>Δαμομένης (ὁ)</b> <font color="purple">[ᾱ]</font> Damoménès, <i>h</i>. THCR. <i>Epigr. 11</i>.<p><b>Étym</b>. δ. μένος.`

@@ -1,1 +1,0 @@
-lar[20185]=`<b>βοο·κλόπος, ου (ὁ, ἡ)</b> qui vole des bœufs, ORPH. <i>Arg. 1055</i> ; NONN. <i>D. 1, 337</i>.<p><b>Étym</b>. βοῦς, κλέπτω.`

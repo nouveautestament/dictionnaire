@@ -1,1 +1,0 @@
-lar[96209]=`<b>σύν·ορθρος, ος, ον</b>, qui commence à paraître avec, qui pointe avec, <i>dat. en parl. du jour,</i> ESCHL. <i>Ag. 254 conj</i>.`

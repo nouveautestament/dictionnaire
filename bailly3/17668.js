@@ -1,1 +1,0 @@
-lar[17668]=`<i>adv</i>., d’après le témoignage des yeux, GAL.`

@@ -1,1 +1,0 @@
-lar[29057]=`<b>δυωδεκά·βοιος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui vaut douze bœufs, IL. <i>23, 703</i>.<p><b>Étym</b>. δ. βοῦς.`

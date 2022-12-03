@@ -1,1 +1,0 @@
-lar[104233]=`<b>ὑπ·ῳάδιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui est encore dans l’œuf, non encore éclos, OPP. <i>H. 1, 752</i>.<p><b>Étym</b>. ὑ. ᾠόν.`

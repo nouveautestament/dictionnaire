@@ -1,1 +1,0 @@
-lar[102372]=`<b>ὑπέρ·γειος, ος, ον :<br>      1</b> qui est sur la surface de la terre, ARSTT. <i>H.A. 1, 1, 27</i> ; GEOP. <i>1, 30</i>.<br><b>      2</b> qui est au-dessus de la terre, GEOP. <i>1, 7, 1</i>.<p><b>Étym</b>. ὑ. γῆ.`

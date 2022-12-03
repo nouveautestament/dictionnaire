@@ -1,1 +1,0 @@
-lar[74158]=`<b>παγ·χάλεπος, ος, ον</b> <font color="purple">[χᾰ]</font> tout à fait difficile, XÉN. <i>An. 5, 2, 20</i> ; PLAT. <i>Phæd. 85c</i>.<p><b>Étym</b>. πᾶς, χαλεπός.`

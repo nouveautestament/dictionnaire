@@ -1,1 +1,0 @@
-lar[62740]=`<b>μαμμᾶν αἰτεῖν</b>, demander à manger, <i>mot d’enfant,</i> AR. <i>Nub. 1383</i>.<p><b>Étym</b>. <i>inf. dér. de</i> μάμμη.`

@@ -1,1 +1,0 @@
-lar[75654]=`<b>η, ον</b> <font color="purple">[φᾰ]</font><br><b>      1</b> qui exhorte, qui encourage, HH. <i>Cer. 337</i> ; HÉS. <i>Th. 90</i>.<br><b>      2</b> qui réprimande, qui blâme, IL. <i>24, 771</i>.<p><b>Étym</b>. <i>part. prés. moy. poét. de</i> παράφημι.`

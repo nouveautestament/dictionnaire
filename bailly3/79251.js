@@ -1,1 +1,0 @@
-lar[79251]=`<b>περι·σίδηρος, ος, ον</b> <font color="purple">[σῐ]</font> tout entouré de fer, DS. <i>3, 33</i>.`

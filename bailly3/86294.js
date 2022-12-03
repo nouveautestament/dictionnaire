@@ -1,1 +1,0 @@
-lar[86294]=`<i>vb. de</i> προσπελάζω MOSCHION <i>Mul. pass. 94</i>.`

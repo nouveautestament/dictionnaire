@@ -1,1 +1,0 @@
-lar[93724]=`<i>adv</i>., en calomniateur, ISOCR. <i>Antid. § 330</i> ; LUC. <i>H. conscr. 10</i>.`

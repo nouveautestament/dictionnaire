@@ -1,1 +1,0 @@
-lar[68346]=`<b>α, ον</b>, de Nestor, PD. <i>P. 6, 32</i> ; EUR. (ATH. <i>665a</i>).<p><b>Étym</b>. Νέστωρ.`

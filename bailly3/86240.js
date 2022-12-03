@@ -1,1 +1,0 @@
-lar[86240]=`<b>προσ·οφθαλμιάω-ῶ</b>, avoir les veux fixés sur, convoiter du regard, <i>dat</i>. PHIL. <i>2, 560</i>.`

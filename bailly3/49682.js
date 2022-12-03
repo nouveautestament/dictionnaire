@@ -1,1 +1,0 @@
-lar[49682]=`<b>ἰσο·μέτρητος, ος, ον</b> <font color="purple">[ῑ̆]</font> d’une mesure <i>ou</i> d’une grandeur égale, PLAT. <i>Phædr. 235d ;</i> ARSTT. <i>fr. 377</i> ; PLUT. <i>Sol. 25, etc</i>.<p><b>Étym</b>. ἴ. μετρέω.`

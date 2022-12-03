@@ -1,1 +1,0 @@
-lar[67159]=`<b>ων (τὰ)</b> sorte de chaussures à la Mynnakos, <i>ainsi nommées d’un cordonnier</i> Μύννακος, ATH. <i>351a</i>.`

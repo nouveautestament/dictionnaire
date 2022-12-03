@@ -1,1 +1,0 @@
-lar[6110]=`<b>ἀμφι·δοκεύω</b>, épier tout alentour, BION <i>2, 6</i> ; ORPH. <i>Arg. 930</i>.`

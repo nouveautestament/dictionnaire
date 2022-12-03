@@ -1,1 +1,0 @@
-lar[93163]=`<b>ή, όν</b> <font color="purple">[ῠᾰῑτ]</font> de Sybarite, AR. <i>Vesp. 1259</i> ; EL. <i>V.H. 14, 20</i>.<p><b>Étym</b>. Σύβαρις.`

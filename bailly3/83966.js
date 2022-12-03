@@ -1,1 +1,0 @@
-lar[83966]=`<b>προ·διεργάζομαι</b>, travailler <i>ou</i> accomplir auparavant, ARSTT. <i>Nic. 10, 9, 6 ; ao. inf</i>. προδιεργασθῆναι, <i>au sens pass</i>. ARSTT. <i>Probl. 22, 11, 2</i>.`

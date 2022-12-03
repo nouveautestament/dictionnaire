@@ -1,1 +1,0 @@
-lar[25187]=`<b>δια·παγκρατιάζω</b> <font color="purple">[ᾰτ]</font> <font color="darkgreen">(<i>ao. ind. 3 sg</i>. διεπαγκρατίασεν)</font> lutter au pancrace, PLUT. <i>M. 811d</i>.`

@@ -1,1 +1,0 @@
-lar[63042]=`<b>ου (ὁ)</b> Masistios, <i>Perse,</i> HDT. <i>7, 79 ; 9, 20, 24</i>.`

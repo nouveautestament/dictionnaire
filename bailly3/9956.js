@@ -1,1 +1,0 @@
-lar[9956]=`<i>adv</i>., par antithèse, ARSTT. <i>Rhet. 2, 24, 2, etc</i>.`

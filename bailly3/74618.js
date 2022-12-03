@@ -1,1 +1,0 @@
-lar[74618]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> agité d’un mouvement de flux et de reflux, OD. <i>5, 430 ; 9, 485</i> ; A.RH. <i>1, 1170</i> ; ARAT. <i>347 ; fig</i>. ANTH. <i>9, 367, 12</i>.<p><b>Étym</b>. παλίρροθος.`

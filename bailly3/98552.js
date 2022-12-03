@@ -1,1 +1,0 @@
-lar[98552]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> nombre de quatre, réunion de quatre personnes <i>ou</i> de quatre choses, NT. <i>Ap. 12, 4</i> ; PHIL. <i>2, 533</i>.<p><b>Étym</b>. τετράς.`

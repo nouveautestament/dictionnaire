@@ -1,1 +1,0 @@
-lar[96059]=`<b>ας (ἡ)</b> amas de nuages, ciel nuageux, ARSTT. <i>Probl. 26, 38</i>.<p><b>Étym</b>. συννεφής.`

@@ -1,1 +1,0 @@
-lar[102344]=`<b>ὑπερ·βιάζομαι</b>, contraindre par la violence, THC. <i>2, 52</i> ; JOS. <i>A.J. 9, 10, 2</i> ; PHIL. <i>2, 328</i>.`

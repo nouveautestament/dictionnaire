@@ -1,1 +1,0 @@
-lar[560]=`<b>ἀ·γήρατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> exempt de vieillesse, impérissable, EUR. <i>I.A. 567</i> ; XÉN. <i>Mem. 4, 3, 13</i> ; PLAT. <i>Ax. 370d, etc</i>.<p><b>Étym</b>. ἀ, γηράσκω.`

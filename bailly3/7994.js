@@ -1,1 +1,0 @@
-lar[7994]=`<b>ἀνδραποδο·κάπηλος, ου (ὁ)</b> <font color="purple">[ᾰπ,κᾰ]</font> marchand d’esclaves, LUC. <i>Ind. 24</i> ; PHIL. <i>2, 338</i>.`

@@ -1,1 +1,0 @@
-lar[103653]=`<b>ὑπο·πείθω</b>, persuader peu à peu, <i>au pass</i>. HLD. <i>7, 2</i>.`

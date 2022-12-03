@@ -1,1 +1,0 @@
-lar[88335]=`<b>α, ον</b> <font color="purple">[ῥᾰ]</font> de l’épine dorsale, HPC. <i>Aph. 1259, etc</i>.<p><b>Étym</b>. ῥάχις.`

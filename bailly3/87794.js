@@ -1,1 +1,0 @@
-lar[87794]=`<b>ου (ὁ)</b> charpente servant de support aux tours sur un vaisseau de guerre, POL. <i>16, 3, 12</i>.<p><b>Étym</b>. π. ἔχω.`

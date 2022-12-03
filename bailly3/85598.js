@@ -1,1 +1,0 @@
-lar[85598]=`<b>προσ·εντέλλομαι</b>, prescrire en outre, XÉN. <i>Cyr. 4, 5, 34</i> ; POL. <i>14, 2, 6, etc</i>.`

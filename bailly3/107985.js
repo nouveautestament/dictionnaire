@@ -1,1 +1,0 @@
-lar[107985]=`<b>χαρο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui réjouit, agréable, EUR. <i>Hec. 917 dout.</i> ; SPT. <i>Gen. 4, 12</i>.<p><b>Étym</b>. χαρά, ποιέω.`

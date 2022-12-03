@@ -1,1 +1,0 @@
-lar[54304]=`<font color="purple">[ᾰ]</font> brûler, consumer par la chaleur, NT. <i>Apoc. 16, 8 ; d’où au pass</i>. être brûlé, NT. <i>Matth. 13, 6 ; fig</i>. avoir une fièvre ardente, PLUT. <i>M. 100d, 691e</i>.<p><b>Étym</b>. καῦμα.`

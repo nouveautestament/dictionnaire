@@ -1,1 +1,0 @@
-lar[3214]=`<b>ἀ·κατασκήνωτος, ος, ον</b>, où l’on ne peut dresser une tente, ONOS. <i>Strat. 1, 8</i>.<p><b>Étym</b>. ἀ, κατασκηνόω.`

@@ -1,1 +1,0 @@
-lar[1654]=`<b>ας (ἡ)</b> vie éternelle, ORIG. <i>7, 168 Migne</i>.<p><b>Étym</b>. ἀείζωος.`

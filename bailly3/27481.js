@@ -1,1 +1,0 @@
-lar[27481]=`<i>gén</i>. <b>Δόλοπος (ὁ)</b> Dolope :<br><b>      1</b> <i>n. d’h. myth</i>. ORPH. <i>Arg. 464</i>.<br><b>      2</b> <i>Grec,</i> IL. <i>11, 302</i>.<br><b>      3</b> <i>Troyen,</i> IL. <i>15, 526, 555</i>.`

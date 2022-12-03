@@ -1,1 +1,0 @@
-lar[82520]=`<b>πολύ·φοιτος, ος, ον</b> <font color="purple">[ῠ]</font> qui va et vient sans cesse, vagabond, MUS. <i>181</i>.<p><b>Étym</b>. π. φοιτάω.`

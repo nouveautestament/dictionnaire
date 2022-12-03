@@ -1,1 +1,0 @@
-lar[109856]=`<font color="purple">[ῑ]</font> <i>adv.</i> :<br><b>      1</b> à nu, <i>càd</i>. sans explication, sans preuves, PLAT. <i>Phædr. 262c, etc.</i><br><b>      2</b> simplement, seulement, PLUT. <i>Per. 15</i>.<br><b>      3</b> avec un esprit doux, ATH. <i>369b</i>.<p><b>Étym</b>. ψιλός.`

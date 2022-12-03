@@ -1,1 +1,0 @@
-lar[106695]=`(<i>seul. prés</i>.) :<br><b>      1</b> jouer de la lyre, IL. <i>18, 605</i> ; OD. <i>1, 155 ; 4, 18 ; 8, 266</i> ; MOSCH. <i>3, 121</i>.<br><b>      2</b> jouer sur la lyre, <i>acc</i>. HERMÉS. <i>3, 48</i>.<p><b>Étym</b>. φόρμιγξ.`

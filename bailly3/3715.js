@@ -1,1 +1,0 @@
-lar[3715]=`<b>ιος (ἡ) :<br>      1</b> sommet d’une montagne, <i>plur</i>. OD. <i>9, 400, etc.</i> ; HH. <i>Cer. 382</i>.<br><b>      2</b> <i>p. suite,</i> région montagneuse, OD. <i>10, 281</i>.<p><b>Étym</b>. <i>cf</i>. ἄκρος.`

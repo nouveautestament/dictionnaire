@@ -1,1 +1,0 @@
-lar[2744]=`<i>adv</i>., en dialecte éolien, STR. <i>333</i>.<p><b>Étym</b>. αἰολίζω.`

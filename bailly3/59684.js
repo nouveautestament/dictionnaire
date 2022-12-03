@@ -1,1 +1,0 @@
-lar[59684]=`<b>λαμπαδη·δρομία, ας (ἡ)</b> <font color="purple">[πᾰ]</font> course aux flambeaux <i>aux fêtes des divinités du feu, Hèphæstos, Athèna et Prométhée,</i> SCH.-AR. <i>Ran. 131 ; plus tard, après les guerres Médiques, à celle de Pan,</i> HDT. <i>6, 106 ; plus tard encore, lorsque furent instituées les courses de chevaux, à celle d’Artémis,</i> PLAT. <i>Pol. 328a</i>.`

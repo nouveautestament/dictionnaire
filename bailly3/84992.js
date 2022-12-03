@@ -1,1 +1,0 @@
-lar[84992]=`<b>ας (ἡ)</b> action de marcher en tête d’une procession, D. CHR. <i>2, 148</i> ; RHÉT. <i>4, 182 W</i>.<p><b>Étym</b>. προπομπεύω.`

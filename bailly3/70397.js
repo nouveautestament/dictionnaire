@@ -1,1 +1,0 @@
-lar[70397]=`<i>adv. avec mouv.</i> :<br><b>      1</b> à la maison, IL. <i>1, 606, etc</i>. OD. <i>6, 159</i>.<br><b>      2</b> dans l’appartement des femmes, OD. <i>1, 360, etc.</i><br><b>      3</b> dans le pays, dans la patrie, IL. <i>2, 158, 354</i>.<p><b>Étym</b>. οἶκος, -δε.`

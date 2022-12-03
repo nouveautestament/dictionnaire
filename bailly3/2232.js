@@ -1,1 +1,0 @@
-lar[2232]=`<b>ου (ἡ)</b> <font color="purple">[ῐδ]</font> Chevrette, <i>surn. de f</i>. EUB. (ATH. <i>679d</i>).`

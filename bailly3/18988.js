@@ -1,1 +1,0 @@
-lar[18988]=`<b>βαλλ·αχράδαι, ῶν (οἱ)</b> <i>litt</i>. « qui font tomber <i>ou</i> se lancent des poires sauvages » <i>sobriquet des jeunes garçons, à Argos,</i> PLUT. <i>M. 303a</i>.<p><b>Étym</b>. βάλλω, ἀχράς.`

@@ -1,1 +1,0 @@
-lar[25560]=`<b>ή, όν</b>, qui a la propriété de dissiper, ANTYLL. (ORIB. <i>1, 509, 10 B.-Dar</i>.).<p><b>Étym</b>. διασκορπίζω.`

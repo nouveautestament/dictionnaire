@@ -1,1 +1,0 @@
-lar[75610]=`<b>παρα·θρύπτω</b>, briser de langueur, énerver, NYSS. <i>2, 253 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[58940]=`<b>ης (ἡ)</b> Kyrè, <i>fontaine de Libye où fut bâtie Kyrènè (Cyrène</i>) CALL. <i>H. 2, 88</i>.`

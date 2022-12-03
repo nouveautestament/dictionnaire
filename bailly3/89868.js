@@ -1,1 +1,0 @@
-lar[89868]=`<b>ου (τὸ)</b> Serrheion (<i>auj</i>. Makri <i>ou</i> Megri) <i>mt. et promont. sur la côte de Thrace</i> ; Σέρρειον τεῖχος, DÉM. <i>7, 37 ; 9, 15</i> ; ESCHN. <i>3, 82 Baiter-Sauppe,</i> forteresse sur le promontoire Serrheion.`

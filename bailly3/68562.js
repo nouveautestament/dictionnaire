@@ -1,1 +1,0 @@
-lar[68562]=`<b>νηο·φθόρος, ος, ον</b>, qui perd <i>ou</i> détruit les navires, NONN. <i>D. 39, 122</i>.<p><b>Étym</b>. ν. φθείρω.`

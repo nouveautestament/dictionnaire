@@ -1,1 +1,0 @@
-lar[41959]=`<b>εὐ·έκπλυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui lave bien, purgatif, HPC. <i>Acut. 385</i>.<p><b>Étym</b>. εὖ, ἐκπλύνω.`

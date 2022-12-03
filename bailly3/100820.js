@@ -1,1 +1,0 @@
-lar[100820]=`(<i>seul. prés</i>.) <font color="purple">[ῠ]</font> avoir de la lie <i>ou</i> ressembler à de la lie, ARÉT. <i>Caus. m. diut. 2, 8</i>.<p><b>Étym</b>. τρύξ.`

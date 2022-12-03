@@ -1,1 +1,0 @@
-lar[72105]=`<b>ὀξυ·κέλευθος, ος, ον</b> <font color="purple">[ῠ]</font> qui voyage rapidement, NONN. <i>D. 5 ; 223 vulg</i>.<p><b>Étym</b>. ὀ. κέλευθος.`

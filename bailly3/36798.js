@@ -1,1 +1,0 @@
-lar[36798]=`<b>ατος (τὸ)</b> gonflement, HPC. <i>Epid. 1, 938 ; fig</i>. vanité, SOTAD. (STOB. <i>Fl. 22, 26, t. 1, p. 338).</i><p><b>Étym</b>. ἐπαίρω.`

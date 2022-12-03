@@ -1,1 +1,0 @@
-lar[98978]=`<b>τηλ·ῶπις, ιδος</b>, <i>adj. f</i>. qui voit au loin, ORPH. <i>Arg. 898</i>.<p><b>Étym</b>. τῆλε, ὤψ.`

@@ -1,1 +1,0 @@
-lar[79728]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. πέρκος, ERATOSTH. (ATH. <i>284d</i>).`

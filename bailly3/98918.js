@@ -1,1 +1,0 @@
-lar[98918]=`<i>adv</i>., en brillant au loin, <i>d’où</i> distinctement, NT. <i>Marc. 8, 35</i> ; τηλαυγέστερον ὁρᾶν, DS. <i>1, 58,</i> voir mieux de loin.<p><b>Étym</b>. τηλαυγής.`

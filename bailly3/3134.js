@@ -1,1 +1,0 @@
-lar[3134]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> en forme de tête épineuse, TH. <i>H.P. 6, 4, 3</i>.<p><b>Étym</b>. ἄκανος, -ωδης.`

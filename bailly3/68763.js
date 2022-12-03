@@ -1,1 +1,0 @@
-lar[68763]=`<b>Νικό·δωρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Nikodôros, <i>h</i>. EL. <i>V.H. 2, 23</i>.<p><b>Étym</b>. νίκη, δῶρον.`

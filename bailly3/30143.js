@@ -1,1 +1,0 @@
-lar[30143]=`<b>ή, όν</b>, volontaire, SOPH. <i>O.C. 527 conj. p</i>. αὐθαίρετος.<p><b>Étym</b>. <i>vb. de</i> ἐθέλω.`

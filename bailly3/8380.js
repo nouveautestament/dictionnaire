@@ -1,1 +1,0 @@
-lar[8380]=`<b>ἀν·εξέταστος, ος, ον :<br>      1</b> non examiné, non scruté, DÉM. <i>50, 16, etc.</i> ; ESCHN. <i>57, 3</i>.<br><b>      2</b> qui ne recherche pas, qui n’examine pas, PLAT. <i>Ap. 38a</i>.<p><b>Étym</b>. ἀν-, ἐξετάζω.`

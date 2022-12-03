@@ -1,1 +1,0 @@
-lar[100975]=`<i>éol. et dor. c</i>. τῇδε :<br><b>      1</b> ici, THCR. <i>Idyl. 5, 30</i>.<br><b>      2</b> par ici, SAPPH. <i>1, 5</i> ; THCR. <i>Idyl. 28, 5</i>.`

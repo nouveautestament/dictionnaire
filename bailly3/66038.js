@@ -1,1 +1,0 @@
-lar[66038]=`<b>μισό·καλος, ος, ον</b> <font color="purple">[ῑᾰ]</font> ennemi du beau, PHIL. <i>352d</i>.<p><b>Étym</b>. μ. καλός.`

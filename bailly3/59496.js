@@ -1,1 +1,0 @@
-lar[59496]=`<b>(ὁ, ἡ)</b> <i>slmt acc. pl</i>. λαθροπόδας, <i>ANTH</i>. 9.409, qui s’avance secrètement <i>ou</i> insensiblement.<p><b>Étym</b>. λάθρᾳ, πούς.`

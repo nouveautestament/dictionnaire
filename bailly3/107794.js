@@ -1,1 +1,0 @@
-lar[107794]=`<b>χαμαί·στρωτος, ος, ον</b> <font color="purple">[ᾰ]</font> étendu à terre, POÈT. (ATH. <i>460b</i>).<p><b>Étym</b>. χ. στρώννυμι.`

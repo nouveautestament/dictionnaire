@@ -1,1 +1,0 @@
-lar[105520]=`<b>φιλ·αστράγαλος, ος, ον</b> <font color="purple">[ῐρᾰᾰλ]</font> qui aime les osselets <i>ou</i> les dés, ANTH. <i>6, 276</i>.`

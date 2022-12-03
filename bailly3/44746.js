@@ -1,1 +1,0 @@
-lar[44746]=`<i>adv</i>., avec la propriété d’engendrer des êtres vivants, PROCL. <i>Plat. 1 Alc. p. 52</i>.`

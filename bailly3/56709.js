@@ -1,1 +1,0 @@
-lar[56709]=`<b>α, ον</b>, escarpé, abrupt, CALL. <i>fr. 66</i>.<p><b>Étym</b>. κόλουρος.`

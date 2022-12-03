@@ -1,1 +1,0 @@
-lar[42242]=`<b>εὐθυ·εργής, ής, ές</b> <font color="purple">[ῠ]</font> travaillé en droite ligne ; τὸ εὐθυεργές, LUC. <i>H. conscr. 72 dout</i>. ligne tirée au cordeau.<p><b>Étym</b>. εὐ. ἔργον.`

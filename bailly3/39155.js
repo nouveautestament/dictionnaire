@@ -1,1 +1,0 @@
-lar[39155]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la rédaction des lettres, épistolaire, CLÉM. <i>657</i>.<p><b>Étym</b>. ἐπιστολογράφος.`

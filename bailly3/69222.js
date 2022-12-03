@@ -1,1 +1,0 @@
-lar[69222]=`<b>ιδος (ὁ)</b> Nymphis, <i>h</i>. PLUT. <i>Mul. virt. 9</i>.<p><b>Étym</b>. νύμφη.`

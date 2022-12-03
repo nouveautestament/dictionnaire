@@ -1,1 +1,0 @@
-lar[19636]=`<b>οῦ (ἡ)</b> Bèrytos (<i>auj</i>. Bairut <i>ou</i> Beyrouth) <i>port sur la côte de Phénicie,</i> POL. PLUT. ANTH. <i>9, 426, etc</i>.`

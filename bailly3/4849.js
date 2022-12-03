@@ -1,1 +1,0 @@
-lar[4849]=`<b>ἀλλό·χροος-ους, οος-ους, οον-ουν</b>, qui prend une autre couleur, <i>càd</i>. dont la beauté se flétrit, EUR. <i>Hipp. 175</i>.<p><b>Étym</b>. ἄ. χρόα.`

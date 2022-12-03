@@ -1,1 +1,0 @@
-lar[67070]=`<b>μυιο·κέφαλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> tête de mouche, <i>sorte de tumeur aux yeux,</i> P. ÉG. <i>3, 22</i>.<p><b>Étym</b>. μυῖα, κεφαλή.`

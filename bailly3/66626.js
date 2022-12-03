@@ -1,1 +1,0 @@
-lar[66626]=`<b>μονο·σιτία, ας (ἡ)</b> <font color="purple">[σῑ]</font> action de ne manger qu’une fois par jour, HPC. <i>1010e ;</i> ORIB. <i>p. 68 Mai</i>.<p>➳ <i>Ion</i>. μονοσιτίη, HPC. <i>l. c</i>.<p><b>Étym</b>. μ. σῖτος.`

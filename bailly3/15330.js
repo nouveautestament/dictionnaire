@@ -1,1 +1,0 @@
-lar[15330]=`<b>ἀρτι·δαής, ής, ές</b> <font color="purple">[ῐᾰ]</font> nouvellement appris, ANTH. <i>6, 227</i>.<p><b>Étym</b>. ἄ. διδάσκω.`

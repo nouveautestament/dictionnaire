@@ -1,1 +1,0 @@
-lar[47437]=`<b>α, ον</b> <font color="purple">[ῐ]</font> mort de maladie ; τὸ θνησιμαῖον, SPT. <i>3Reg. 13, 25,</i> corps mort ; τὰ θνησιμαῖα (<i>s.-e</i>. κρέα) HIÉROCL. <i>C. aur. p. 480 Mullach,</i> chair d’un animal mort de maladie.<p><b>Étym</b>. θνητός.`

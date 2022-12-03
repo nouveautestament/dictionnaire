@@ -1,1 +1,0 @@
-lar[102852]=`<b>ὑπερ·υψόω-ῶ</b>, élever outre mesure, exalter, <i>acc</i>. NT. <i>Phil. 2, 9 ; au pass</i>. SPT. <i>Ps. 36, 35 ; 96, 9</i>.`

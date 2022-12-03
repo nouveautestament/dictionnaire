@@ -1,1 +1,0 @@
-lar[57995]=`(<i>seul. prés</i>.) :<br><b>      1</b> frapper, <i>particul</i>. frapper le sol, <i>en parl. d’un cheval au galop,</i> IL. <i>6, 507 ; 15, 264</i> ; OPP. <i>C. 1, 279</i>.<br><b>      2</b> <i>fig</i>. faire retentir un chant sur la lyre, ANACR. <i>62, 6</i>.<p><b>Étym</b>. <i>cf</i>. κρούω.`

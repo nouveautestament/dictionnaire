@@ -1,1 +1,0 @@
-lar[108676]=`<b>ῶν (αἱ)</b> Khœrées (<i>auj</i>. Alivéri) <i>lieu du territoire d’Érétrie en Eubée,</i> HDT. <i>6, 101</i>.<p><b>Étym</b>. χοῖρος.`

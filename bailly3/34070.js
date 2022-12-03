@@ -1,1 +1,0 @@
-lar[34070]=`<b>ἔν·αυλος, ου (ὁ) :<br>      1</b> lit d’un torrent, ravin, IL. <i>16, 71 ; d’où</i> torrent, IL. <i>21, 283</i>.<br><b>      2</b> vallon, <i>d’où</i> grotte, HH. <i>Ven. 74, 124,</i> HÉS. <i>Th. 129</i> ; EUR. <i>H.f. 371 ; etc.</i> ; Ποσειδάωνος ἔν. OPP. <i>H. 3, 5,</i> les grottes de Poséidon, <i>càd</i>. la mer.<p><b>Étym</b>. ἐν, αὐλός.`

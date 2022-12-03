@@ -1,1 +1,0 @@
-lar[83977]=`<b>ας (ἡ)</b> <font color="purple">[ῐκᾰ]</font> instruction contradictoire avant un jugement, ANT. <i>146, 15</i>.<p><b>Étym</b>. προδικάζω.`

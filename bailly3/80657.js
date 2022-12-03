@@ -1,1 +1,0 @@
-lar[80657]=`<b>α, ον</b> <font color="purple">[ᾰν]</font> <i>c</i>. πλάνος¹, ANTH. <i>7, 715</i>.`

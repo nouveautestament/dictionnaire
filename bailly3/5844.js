@@ -1,1 +1,0 @@
-lar[5844]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> égarement, faute, PD. <i>I. 5, 27, etc.</i> ; τινός, EUR. <i>Hipp. 832,</i> envers qqn ; <i>d’où</i> dommage, malheur, ANTH. <i>7, 604</i>.<p>➳ <i>Ion</i>. -ίη, ESCHL. <i>l. c</i>.<p><b>Étym</b>. ἀμπλακίσκω.`

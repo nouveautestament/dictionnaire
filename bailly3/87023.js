@@ -1,1 +1,0 @@
-lar[87023]=`<b>ῆς (ἡ) :<br>      1</b> embouchure d’un fleuve, <i>d’ord. au plur</i>. IL. <i>17, 263</i> ; OD. <i>5, 453, etc. ; au sg</i>. HÉS. <i>O. 759</i>.<br><b>      2</b> bord de la mer, <i>inondé par la marée,</i> OD. <i>11, 242</i>.<br><b>      3</b> promontoire, ARCHESTR. (ATH. <i>314e</i>).<p><b>Étym</b>. προχέω.`

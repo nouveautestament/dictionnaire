@@ -1,1 +1,0 @@
-lar[72544]=`<b>οῦ</b>, <i>adj. m</i>. homme passionné, ADAM. <i>Physiogn. 2, 28, p. 429</i>.<p><b>Étym</b>. ὀργάω.`

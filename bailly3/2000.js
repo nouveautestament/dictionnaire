@@ -1,1 +1,0 @@
-lar[2000]=`<b>ἀθεσμό·λεκτρος, ος, ον</b>, qui contracte une union illégitime, LYC. <i>1143</i>.<p><b>Étym</b>. ἄθ. λέκτρον.`

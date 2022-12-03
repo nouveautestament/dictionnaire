@@ -1,1 +1,0 @@
-lar[14056]=`<b>ἀ·πύρωτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui n’a pas encore vu le feu, IL. <i>23, 270</i>.<br><b>      2</b> non enflammé, qui ne brille pas, PLUT. <i>M. 891e</i>.<p><b>Étym</b>. ἀ, πυρόω.`

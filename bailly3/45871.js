@@ -1,1 +1,0 @@
-lar[45871]=`<b>ου (τὸ) :<br>      1</b> tertre, <i>d’où</i> tombeau, IL. <i>23, 126</i> ; DÉM. <i>1319, 27</i> ; PLUT. <i>Them. 4</i> ; THCR. <i>Idyl. 2, 13, etc.</i><br><b>      2</b> excavation, ANTH. <i>7, 180</i>.<p><b>Étym</b>. ἔρα.`

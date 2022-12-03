@@ -1,1 +1,0 @@
-lar[19965]=`<b>ωνος</b> (ἡ, <i>postér</i>. ὁ) <i>c</i>. βληχώ, <i>seul. sous les formes ion. dat</i>. γλήχωνι, HH. <i>Cer. 209, et dor. gén</i>. γλάχωνος <font color="purple">[ᾱ]</font> AR. <i>Ach. 869 ; acc</i>. γλάχωνα, AR. <i>Ach. 861</i>.<p>➳ ὁ βλ. GEOP.<p><b>Étym</b>. <i>Cf</i>. βληχώ.`

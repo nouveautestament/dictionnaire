@@ -1,1 +1,0 @@
-lar[57101]=`<b>ου (ὁ)</b> <i>lat</i>. Cornificius, <i>n. d’h. rom</i>. PLUT. <i>Brut. 27</i>.`

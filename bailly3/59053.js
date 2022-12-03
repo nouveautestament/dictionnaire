@@ -1,1 +1,0 @@
-lar[59053]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῡ]</font> courbure, dos voûté, bosse, HPC. <i>807a</i>.<p><b>Étym</b>. κύπτω.`

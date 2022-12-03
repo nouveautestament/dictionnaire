@@ -1,1 +1,0 @@
-lar[82420]=`<b>πολυ·σύνθετος, ος, ον</b> <font color="purple">[λῠ]</font><br><b>      1</b> composé de plusieurs éléments, SCH.-AR. <i>Ran. 844, etc.</i><br><b>      2</b> souvent employé pour réunir des propositions : τὸ πολυσύνθετον, emploi fréquent de particules pour unir des propositions, R. LUP. <i>1, 14</i>.`

@@ -1,1 +1,0 @@
-lar[49331]=`<b>ἱππο·θόρος νόμος (ὁ)</b> air qu’on jouait pendant la saillie d’une jument par un âne, PLUT. <i>M. 138b, 704f</i>.<p><b>Étym</b>. ἵ. θόρνυμαι.`

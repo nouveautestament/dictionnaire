@@ -1,1 +1,0 @@
-lar[69505]=`<b>ξενο·φωνέω-ῶ</b>, employer des mots étranges, CHRYS. <i>2, 95, etc</i>.<p><b>Étym</b>. ξένος, φωνή.`

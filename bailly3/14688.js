@@ -1,1 +1,0 @@
-lar[14688]=`<b>ἀριστό·βιος, ος, ον</b> <font color="purple">[ᾰ]</font> d’une vie excellente, <i>càd</i>. honnête, ORACL. (HLD. <i>2, 35).</i><p><b>Étym</b>. ἄ. βίος.`

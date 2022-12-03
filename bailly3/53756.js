@@ -1,1 +1,0 @@
-lar[53756]=`<b>ος, ον</b>, oint, enduit de haut en bas <i>ou</i> complètement, ORIB. <i>p. 321 Matthäi</i>.<p><b>Étym</b>. καταχρίω.`

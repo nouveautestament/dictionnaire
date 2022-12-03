@@ -1,1 +1,0 @@
-lar[53001]=`<b>ος, ον :<br>      1</b> saupoudré, jonché, couvert de, <i>dat</i>. AR. <i>Eq. 502</i> ; TÉLÉCL. (ATH. <i>268c</i>).<br><b>      2</b> brodé de, <i>dat</i>. DC. <i>72, 17</i> ; HLD. <i>3, 4</i>.<p><b>Étym</b>. καταπάσσω.`

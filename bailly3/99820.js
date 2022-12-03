@@ -1,1 +1,0 @@
-lar[99820]=`<i>adv. dor</i>. d’ici, THCR. <i>Idyl. 4, 48</i>.<p><b>Étym</b>. τοῦτο, -θεν.`

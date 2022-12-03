@@ -1,1 +1,0 @@
-lar[42378]=`<b>εὐ·καταγέλαστος, ος, ον</b>, tout à fait risible <i>ou</i> ridicule, A. APHR. <i>Probl. 25, 29</i>.`

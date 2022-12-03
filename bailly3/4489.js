@@ -1,1 +1,0 @@
-lar[4489]=`<b>ἁλι·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῐῡ]</font> baigné par les flots, ANTH. <i>9, 429</i>.<p><b>Étym</b>. ἅ. κῦμα.`

@@ -1,1 +1,0 @@
-lar[70828]=`<b>ὀκτά·ζυγος, ος, ον</b> <font color="purple">[ῠ]</font> à huit jougs, P. SIL. <i>Ecphr. ag. Soph. 732</i>.<p><b>Étym</b>. ὀ. ζυγόν.`

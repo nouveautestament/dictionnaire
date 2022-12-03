@@ -1,1 +1,0 @@
-lar[12900]=`<b>ατος (τὸ)</b> parole <i>ou</i> action mémorable, DS. <i>1, 14</i> ; PLUT. <i>Pomp. 2 ; au plur</i>. Ἀπομνημονεύματα, les Mémorables, <i>titre d’un ouvrage de Xénophon sur Socrate ; cf</i>. DH. <i>Rhet. 1, 12</i> ; PLUT. <i>Cato ma. 9</i>.<p><b>Étym</b>. ἀπομνημονεύω.`

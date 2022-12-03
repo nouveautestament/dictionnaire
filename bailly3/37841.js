@@ -1,1 +1,0 @@
-lar[37841]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> désiré <i>ou</i> désirable, ARSTT. <i>Nic. 3, 10, 6</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπιθυμέω.`

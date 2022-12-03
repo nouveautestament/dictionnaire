@@ -1,1 +1,0 @@
-lar[26632]=`<b>δί·μακρος, ος, ον</b> <font color="purple">[ῐᾰ]</font> composé de deux syllabes longues, DRAC. <i>59, 10</i>.<p><b>Étym</b>. δίς, μακρός.`

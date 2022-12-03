@@ -1,1 +1,0 @@
-lar[67987]=`<b>νεκρ·εγερσία, ας (ἡ)</b> résurrection des morts, CHRYS. <i>7, 322</i>.<p><b>Étym</b>. ν. ἐγείρω.`

@@ -1,1 +1,0 @@
-lar[35437]=`<b>ου (ὁ)</b> Exampæos (<i>mot scythe, signifiant</i> voies sacrées) <i>source et lieu de Scythie,</i> HDT. <i>4, 52, 81</i>.`

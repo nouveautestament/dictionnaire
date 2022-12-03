@@ -1,1 +1,0 @@
-lar[7881]=`<i>adv</i>., en un sens relatif, <i>en parl. de pronoms,</i> DYSC. <i>Pron. 5, 20 Schneider-Uhlig, etc</i>.`

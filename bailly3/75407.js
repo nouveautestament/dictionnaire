@@ -1,1 +1,0 @@
-lar[75407]=`<b>ή, όν</b>, comparable, GAL. <i>5, 61</i> ; εἴς τι, PLUT. <i>Æmil. 7,</i> pour <i>ou</i> en qqe ch.<p><b>Étym</b>. παραβάλλω.`

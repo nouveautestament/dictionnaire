@@ -1,1 +1,0 @@
-lar[39826]=`<b>ἐπ·οκλάζω</b>, s’agenouiller sur, s’abattre sur, s’affaisser sur, <i>dat</i>. HLD. <i>4, 17</i> ; NYSS. <i>1, 197</i>.`

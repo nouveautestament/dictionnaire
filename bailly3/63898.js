@@ -1,1 +1,0 @@
-lar[63898]=`<b>μελανο·συρμαῖος, ος, ον</b> <font color="purple">[ᾰ]</font> habitué aux médecines noires, <i>en parl. des Égyptiens, avec jeu de mot, p. allus. aux longues traînes (σύρματα) de leurs robes,</i> AR. <i>Th. 957</i>.<p><b>Étym</b>. μ. συρμαία.`

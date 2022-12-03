@@ -1,1 +1,0 @@
-lar[56064]=`<b>κλιν·άρχης, ου (ὁ)</b> <font color="purple">[ῑ]</font> celui qui préside une table, PHIL. <i>2, 537</i>.<p><b>Étym</b>. κλίνη, ἄρχω.`

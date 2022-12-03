@@ -1,1 +1,0 @@
-lar[87320]=`<b>οῦ (ὁ)</b> qui donne des crocs-en-jambe, <i>d’où</i> trompeur, POLÉM. <i>Physiogn. 1, 6, p. 229</i> ; PHIL. <i>1, 55 ; en parl. de Jacob,</i> PHIL. <i>1, 84</i>.<p><b>Étym</b>. πτερνίζω.`

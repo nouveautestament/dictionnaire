@@ -1,1 +1,0 @@
-lar[102472]=`<b>ὑπερ·ευδοκιμέω-ῶ</b> <font color="purple">[ῐ]</font> avoir une excellente réputation, LYS. <i>112, 45</i>.`

@@ -1,1 +1,0 @@
-lar[25661]=`<b>ῆς (ἡ)</b> <font color="purple">[φᾰ]</font> déchirure, ouverture, brèche, SPT. <i>Neh. 4, 7</i>.<p><b>Étym</b>. διασφάττω.`

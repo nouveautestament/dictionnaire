@@ -1,1 +1,0 @@
-lar[29252]=`<b>ων (οἱ)</b> <font color="purple">[ᾱ]</font> les Éares, <i>pple indien,</i> NONN. <i>D. 26, 166</i>.`

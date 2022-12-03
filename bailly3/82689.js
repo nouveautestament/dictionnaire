@@ -1,1 +1,0 @@
-lar[82689]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de la mer, maritime, PD. <i>N. 4, 59, etc.</i> ; EUR. <i>Hec. 444, etc</i>.<p><b>Étym</b>. πόντος.`

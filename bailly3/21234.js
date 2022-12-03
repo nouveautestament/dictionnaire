@@ -1,1 +1,0 @@
-lar[21234]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> de Galatie <i>ou</i> de Gaule, ARSTT. <i>Mund. 3, 9 et 11</i> ; POL. <i>2, 32, etc.</i> ; STR. <i>190, etc.</i> ; PLUT. <i>Cæs. 29, etc.</i> ; DC. <i>etc</i>.<p><b>Étym</b>. Γαλάτης.`

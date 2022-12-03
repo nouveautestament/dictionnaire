@@ -1,1 +1,0 @@
-lar[32941]=`<i>adv.</i> :<br><b>      1</b> à la manière des Grecs, HDT. <i>4, 108</i> ; EUR. <i>I.T. 660</i> ; PLUT. <i>Marc. 3, Arat. 45 ; d’où, en b. part,</i> avec humanité, avec douceur, EL. <i>V.H. 3, 22</i>.<br><b>      2</b> en langue grecque, XÉN. <i>An. 1, 8, 1</i>.`

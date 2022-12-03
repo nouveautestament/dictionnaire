@@ -1,1 +1,0 @@
-lar[14714]=`<b>Ἀριστό·κριτος, ου (ὁ)</b> Aristokritos, <i>h</i>. PLAT. <i>Ep. 319a, etc</i>.<p><b>Étym</b>. ἄ. κρίνω.`

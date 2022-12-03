@@ -1,1 +1,0 @@
-lar[28220]=`<b>δυσ·απόνιπτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à laver, THEOL. <i>p. 22, 17, au cp</i>. -ότερος.<p><b>Étym</b>. δ. ἀπονίπτω.`

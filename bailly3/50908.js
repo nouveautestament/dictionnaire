@@ -1,1 +1,0 @@
-lar[50908]=`<b>κακο·φραδής, ής, ές</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui raisonne mal, insensé, A.RH. <i>3, 936</i>.<br><b>      2</b> qui a de mauvais desseins, malveillant, IL. <i>23, 483</i>.<p><b>Étym</b>. κ. φράζομαι.`

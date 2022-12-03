@@ -1,1 +1,0 @@
-lar[47707]=`<b>ΐδος</b> <font color="purple">[ῐᾰ]</font> <i>adj. f</i>. de laitue, NIC. <i>Th. 838</i>.<p><b>Étym</b>. θρίδαξ.`

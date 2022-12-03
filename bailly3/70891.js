@@ -1,1 +1,0 @@
-lar[70891]=`<b>ὀκτώ·φορος, ου (ὁ, ἡ)</b> litière portée par huit hommes, CIC. <i>2 Verr. 5, 11, etc</i>.<p><b>Étym</b>. ὀ. φέρω.`

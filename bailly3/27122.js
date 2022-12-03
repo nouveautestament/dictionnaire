@@ -1,1 +1,0 @@
-lar[27122]=`(<i>genre inconnu</i>) sorte de serpent, <i>mot crétois,</i> ARTÉM. <i>2, 13</i>.`

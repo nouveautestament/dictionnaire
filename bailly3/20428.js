@@ -1,1 +1,0 @@
-lar[20428]=`<b>βούλ·αρχος, ου (ὁ)</b> auteur d’un avis, ESCHL. <i>Suppl. 12, 969</i>.<p><b>Étym</b>. βουλή, ἄρχω.`

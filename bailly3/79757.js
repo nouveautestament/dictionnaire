@@ -1,1 +1,0 @@
-lar[79757]=`<b>ας (ἡ)</b> <i>mot copte,</i> le soleil, LYC. <i>1428</i>.`

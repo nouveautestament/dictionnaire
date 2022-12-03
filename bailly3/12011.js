@@ -1,1 +1,0 @@
-lar[12011]=`<b>εως (ἡ)</b> <font color="purple">[πῐ]</font> action d’égaler, NICOM. <i>Arithm. p. 105</i>.<p><b>Étym</b>. ἀπισόω.`

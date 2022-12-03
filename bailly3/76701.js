@@ -1,1 +1,0 @@
-lar[76701]=`<b>παρ·ενεισαγωγή, ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> action de s’introduire doucement <i>ou</i> furtivement, A. APHR.`

@@ -1,1 +1,0 @@
-lar[21326]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> crime d’adultère, SIB. <i>2, 52 ; 5, 429</i>.<p><b>Étym</b>. γαμοκλόπος.`

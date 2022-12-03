@@ -1,1 +1,0 @@
-lar[35315]=`<b>ἐξαιματωτικός, ή, όν</b> <font color="purple">[ᾰ]</font> propre à convertir en sang, A. APHR. <i>Probl. p. 72, 32 et 33</i>.<p><b>Étym</b>. ἐξαιματόω.`

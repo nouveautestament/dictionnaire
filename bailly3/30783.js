@@ -1,1 +1,0 @@
-lar[30783]=`<b>εἰσ·ιππεύω</b>, <i>anc. att</i>. <b>ἐσ·ιππεύω</b>, entrer <i>ou</i> s’avancer à cheval, <i>avec</i> εἰς <i>et l’acc</i>. DS. <i>17, 12 (impf</i>. εἰσίππευον) ; <i>abs</i>. DC. <i>44, 10</i>.<p><b>Étym</b>. <i>part. prés</i>. ἐσιππεύοντα.`

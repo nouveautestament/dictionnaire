@@ -1,1 +1,0 @@
-lar[23681]=`<b>οῦ (ὁ)</b> divinité qui préside à la naissance, dans la cosmogonie byzantine, GAL. <i>11, 797</i> ; PORPH. JAMBL. <i>etc</i>.<p><b>Étym</b>. <i>lat</i>. decanus.`

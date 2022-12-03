@@ -1,1 +1,0 @@
-lar[63601]=`<b>μεθ·ημερινός, ή, όν</b> <font color="purple">[ῐ]</font><br><b>      1</b> de jour, qui se fait pendant le jour, XÉN. <i>Lac. 12, 2</i> ; PLAT. <i>Tim. 45c ; adv</i>., τὸ μεθημερινόν, pendant le jour, PLAT. <i>Soph. 220d.</i><br><b>      2</b> qui se fait en plein jour, DÉM. <i>270, 10</i>.<p><b>Étym</b>. μ. ἡμέρα.`

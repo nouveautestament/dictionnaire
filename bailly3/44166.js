@@ -1,1 +1,0 @@
-lar[44166]=`<b>ου</b> <font color="purple">[ῠ]</font> <i>adj. m. c</i>. Ἐφύρειος PD. <i>P. 10, 85</i> ; THCR. <i>Idyl. 16, 33</i>.`

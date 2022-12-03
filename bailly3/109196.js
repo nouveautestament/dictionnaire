@@ -1,1 +1,0 @@
-lar[109196]=`<b>χρυσό·κομος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> aux cheveux d’or, ANTH. <i>6, 264</i>.<br><b>      2</b> aux plumes d’or, HDT. <i>2, 73</i>.<p><b>Étym</b>. χρ. κόμη.`

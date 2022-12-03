@@ -1,1 +1,0 @@
-lar[38646]=`<b>ἐπι·πειθής, ής, ές</b>, qui se laisse persuader, obéissant à, <i>dat</i>. ARSTT. <i>Nic. 1, 7, 13</i> ; TIMON (DL. <i>2, 62).</i><p><b>Étym</b>. ἐπιπείθομαι.`

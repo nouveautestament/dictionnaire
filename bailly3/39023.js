@@ -1,1 +1,0 @@
-lar[39023]=`<b>ἐπι·σκυθρωπάζω</b>, avoir l’air sombre <i>ou</i> morose, <i>en parl. de pers</i>. PLUT. <i>M. 37a ; en parl. de chiens,</i> XÉN. <i>Cyn. 3, 5</i>.`

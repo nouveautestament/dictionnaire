@@ -1,1 +1,0 @@
-lar[31806]=`<b>ἐκ·περινοστέω-ῶ</b>, faire complètement le tour de, <i>acc</i>. SYN. <i>Ep. 101, 1472b Migne</i>.`

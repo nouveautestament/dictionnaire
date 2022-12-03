@@ -1,1 +1,0 @@
-lar[59305]=`<i>gén</i>. <b>κωπός (ὁ)</b> sorte de chouette, ARSTT. (EL. <i>N.A. 15, 28</i>).`

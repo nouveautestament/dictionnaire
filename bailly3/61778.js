@@ -1,1 +1,0 @@
-lar[61778]=`<b>ου (ὁ)</b> Lynkos, <i>Troyen,</i> Q. SM. <i>11, 90</i>.`

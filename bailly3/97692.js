@@ -1,1 +1,0 @@
-lar[97692]=`<b>ας (ἡ)</b> = <i>lat</i>. Tarquinia, <i>n. de f. rom</i>. PLUT. <i>Popl. 8</i>.`

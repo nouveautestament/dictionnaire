@@ -1,1 +1,0 @@
-lar[72149]=`<b>ὀξύ·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ῠ]</font> aux pieds agiles, EUR. <i>Or. 1550</i>.<p><b>Étym</b>. ὀ. πούς.`

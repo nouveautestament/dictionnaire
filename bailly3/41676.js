@@ -1,1 +1,0 @@
-lar[41676]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> douceur du toucher, HÉRACLIDE CUM. (ATH. <i>48d</i>).<p><b>Étym</b>. εὐαφής.`

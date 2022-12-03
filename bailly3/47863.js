@@ -1,1 +1,0 @@
-lar[47863]=`<b>ακος (ὁ)</b> <font color="purple">[ῡᾰκ]</font> <i>c</i>. θύλακος, ES. <i>15 Halm</i>.`

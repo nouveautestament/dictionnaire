@@ -1,1 +1,0 @@
-lar[102301]=`<b>οῦ (ὁ)</b> protection, SPT. <i>Ps. 17, 35, etc</i>.<p><b>Étym</b>. ὑπερασπίζω.`

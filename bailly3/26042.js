@@ -1,1 +1,0 @@
-lar[26042]=`<b>α, ον</b> <font color="purple">[ῐῠ]</font> de Didymes, OPP. <i>C. 3, 283</i>.<p><b>Étym</b>. Δίδυμα.`

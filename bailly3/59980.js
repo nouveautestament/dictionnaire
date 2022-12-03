@@ -1,1 +1,0 @@
-lar[59980]=`<b>ου (ὁ)</b> Lauréas, <i>poète,</i> ANTH. <i>7, 17, etc</i>.`

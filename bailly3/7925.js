@@ -1,1 +1,0 @@
-lar[7925]=`<b>ἀνα·χνοιαίνομαι</b> <font color="darkgreen">(<i>ao</i>. ἀνεχνοιάνθην)</font> se couvrir de soies (<i>litt</i>. de duvet) AR. <i>Ach. 791</i>.<p><b>Étym</b>. ἀνά, χνόος.`

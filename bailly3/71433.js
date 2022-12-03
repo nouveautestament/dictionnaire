@@ -1,1 +1,0 @@
-lar[71433]=`<i>c</i>. ὄμνυμι <i>seul. au prés. 1 sg</i>. XÉN. <i>An. 6, 1, 31 ; impér. 3 sg</i>. ὀμνυέτω, IL. <i>19, 175 ; et à l’impf. 3 sg</i>. ὤμνυε, IL. <i>14, 278</i> ; OD. <i>19, 288</i>.<p>➳ <i>Sur l’emploi de ὀμνύω dans les inscr. att. v</i>. ὄμνυμι.`

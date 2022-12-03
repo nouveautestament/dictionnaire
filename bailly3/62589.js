@@ -1,1 +1,0 @@
-lar[62589]=`<b>οῦ (ὁ)</b> éloignement, ARSTT. <i>Plant. 2, 2, 19</i> ; AQU. <i>Ps. 55, 1 ; 119, 5</i>.<p><b>Étym</b>. μακρύνω.`

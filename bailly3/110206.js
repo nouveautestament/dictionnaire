@@ -1,1 +1,0 @@
-lar[110206]=`<b>ὠκυ·σκόπος, ος, ον</b>, qui vise d’un regard prompt <i>ou</i> perçant, ANTH. <i>9, 525</i>.<p><b>Étym</b>. ὠ. σκοπέομαι.`

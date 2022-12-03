@@ -1,1 +1,0 @@
-lar[95578]=`<b>συν·επαφίημι</b> <font color="purple">[ᾰ]</font> lancer ensemble, JOS. <i>B.J. 3, 7, 28</i>.`

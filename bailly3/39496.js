@@ -1,1 +1,0 @@
-lar[39496]=`<b>ἐπι·τρί·πεμπτος, ος, ον</b>, qui comprend un entier plus ³⁄₅, NICOM. <i>Arithm. 108</i>.<p><b>Étym</b>. ἐπί, τρεῖς, πέμπτος.`

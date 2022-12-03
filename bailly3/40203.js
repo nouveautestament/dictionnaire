@@ -1,1 +1,0 @@
-lar[40203]=`<b>ατος (τὸ) :<br>      1</b> clôture, défense, ARSTT. <i>P.A. 2, 15, 1</i>.<br><b>      2</b> <i>p. suite,</i> fermeture, obstacle, HPC. <i>675, 49</i>.<p><b>Étym</b>. εἵργω.`

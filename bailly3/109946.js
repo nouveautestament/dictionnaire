@@ -1,1 +1,0 @@
-lar[109946]=`<b>α, ον</b> <font color="purple">[ῡ]</font> qui concerne l’âme, de l’âme, P. SIL. <i>Ecphr. amb. 16</i>.<p><b>Étym</b>. ψυχή.`

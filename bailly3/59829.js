@@ -1,1 +1,0 @@
-lar[59829]=`<b>λαο·τρόφος, ος, ον</b> <font color="purple">[ᾱ]</font> qui nourrit le peuple, <i>sel. d’autres,</i> nourri par le peuple, PD. <i>O. 5, 9, etc</i>.<p><b>Étym</b>. λ. τρέφω.`

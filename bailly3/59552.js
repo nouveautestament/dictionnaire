@@ -1,1 +1,0 @@
-lar[59552]=`<b>α, ον</b> <font color="purple">[ᾱῐ]</font> <i>c</i>. λάϊνος, IL. <i>22, 154</i> ; EUR. <i>Ph. 815</i> ; THCR. <i>Idyl. 23, 58</i>.`

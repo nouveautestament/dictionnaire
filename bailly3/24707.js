@@ -1,1 +1,0 @@
-lar[24707]=`<b>οῦ (ὁ)</b> arbitre, HDT. <i>5, 95</i> ; PLAT. <i>Leg. 956c ; etc. ; particul</i>. à Athènes, diætète, arbitre chargé de juger les procès privés, DÉM. <i>541, 16</i> ; ARSTT. <i>Pol. 4, 12, 5</i>.<p><b>Étym</b>. διαιτάω.`

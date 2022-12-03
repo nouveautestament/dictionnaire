@@ -1,1 +1,0 @@
-lar[105410]=`<b>φιλ·άγαθος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> qui aime le bien <i>ou</i> les gens de bien, ARSTT. <i>M. mor. 2, 14, 3</i> ; PLUT. <i>Thes. c. Rom. 2, M. 140c</i>.<p><b>Étym</b>. φίλος, ἀγαθός.`

@@ -1,1 +1,0 @@
-lar[69454]=`<b>ξενο·δαίτης, ου (ὁ)</b> qui mange ses hôtes <i>ou</i> des étrangers, EUR. <i>Cycl. 658</i>.<p><b>Étym</b>. ξ. δαίομαι.`

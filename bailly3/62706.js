@@ -1,1 +1,0 @@
-lar[62706]=`<b>ου (ὁ)</b> Malkandros, <i>h</i>. PLUT. <i>Is. et Os. 15</i>.`

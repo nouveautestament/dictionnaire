@@ -1,1 +1,0 @@
-lar[51000]=`<b>καλαμο·στεφής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> couronné <i>ou</i> couvert de roseaux, BATR. <i>127</i>.<p><b>Étym</b>. κ. στέφω.`

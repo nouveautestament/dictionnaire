@@ -1,1 +1,0 @@
-lar[101151]=`<b>ας (ἡ)</b> Tyrrhénie <i>ou</i> Étrurie, <i>contrée de l’Italie,</i> PLAT. <i>Tim. 25b, etc.</i> ; ARSTT. <i>Mir. 93, etc</i>.<p>➳ <i>Anc. att</i>. Τυρσηνία, THC. <i>6, 88, 103, etc. ; ion</i>. Τυρσηνίη, HDT. <i>1, 94, etc</i>.<p><b>Étym</b>. Τυρρηνοί.`

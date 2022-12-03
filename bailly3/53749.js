@@ -1,1 +1,0 @@
-lar[53749]=`<b>εως (ἡ) :<br>      1</b> usage, emploi, GAL. <i>19, 679</i>.<br><b>      2</b> <i>particul. t. de rhét</i>. catachrèse, <i>emploi d’un mot en un sens abusif,</i> ARSTT. (CIC. <i>Orat. 27</i>) ; RHÉT. <i>8, 731 W., etc.</i> ; GAL. <i>6, 136, etc</i>.<p><b>Étym</b>. καταχράομαι.`

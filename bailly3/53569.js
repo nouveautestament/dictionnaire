@@ -1,1 +1,0 @@
-lar[53569]=`<b>κατα·τραγῳδέω-ῶ</b> <font color="purple">[ᾰγ]</font> déclamer avec une emphase tragique, EUM. <i>p. 150</i> ; τί τινος, A. TAT. <i>8, 9,</i> qqe ch. contre qqn.`

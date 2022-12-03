@@ -1,1 +1,0 @@
-lar[101552]=`<b>ὑδρο·λάπαθον, ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>seul. lat</i>. hydrolapathum, patience aquatique, <i>plante,</i> PLIN. <i>H.N. 20, 21, 85</i>.<p><b>Étym</b>. ὕδ. λάπαθον.`

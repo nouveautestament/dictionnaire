@@ -1,1 +1,0 @@
-lar[101238]=`<i>duel, aux trois genres, de</i> ὁ, ἡ, τό.`

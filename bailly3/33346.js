@@ -1,1 +1,0 @@
-lar[33346]=`<b>ἐμ·παταγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> faire du bruit dans, <i>dat</i>. THÉM. <i>60, 24 G. Dind</i>.<p><b>Étym</b>. ἐν, π.`

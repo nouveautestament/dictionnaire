@@ -1,1 +1,0 @@
-lar[86850]=`<b>ης (ἡ)</b> prunier (<i>Prunus domestica</i> L.) TH. <i>H.P. 9, 1, 2</i> ; DIOSC. <i>1, 174</i>.`

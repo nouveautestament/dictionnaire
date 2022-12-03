@@ -1,1 +1,0 @@
-lar[85123]=`<b>*προσ·αμέλγω</b>, <i>dor</i>. <b>ποτ·αμέλγω</b> <font color="purple">[ᾰ]</font> traire en outre, THCR. <i>Idyl. 1, 26</i>.<p><b>Étym</b>. <i>fut. moy. au sens pass</i>.`

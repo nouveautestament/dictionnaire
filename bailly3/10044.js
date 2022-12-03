@@ -1,1 +1,0 @@
-lar[10044]=`<i>adv</i>., à la façon de ceux qui discutent, PLAT. <i>Theæt. 164c</i>.`

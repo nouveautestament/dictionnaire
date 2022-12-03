@@ -1,1 +1,0 @@
-lar[97438]=`<b>ταλασιουργέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> travailler, <i>càd</i>. filer la laine, XÉN. <i>Mem. 3, 9, 11</i> ; DS. <i>2, 23</i>.<p><b>Étym</b>. ταλασιουργός.`

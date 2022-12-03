@@ -1,1 +1,0 @@
-lar[22056]=`<b>ου (ὁ) :<br>      1</b> poisson d’un gris bleuâtre, DAMOX. <i>et</i> BATON (ATH. <i>102b et 103d</i>) ; ANTH. <i>5, 185</i> ; ARSTT. <i>H.A. 8, 30</i>.<br><b>      2</b> sorte de plante, <i>p.-ê. c</i>. γλαύκιον, HÉGÉSANDRE (ATH. <i>62d</i>).<p><b>Étym</b>. γλαυκός.`

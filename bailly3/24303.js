@@ -1,1 +1,0 @@
-lar[24303]=`<b>εως (ἡ)</b> déclaration publique, CHRYS. <i>2, 339 ; 6, 424</i>.<p><b>Étym</b>. δημοσιεύω.`

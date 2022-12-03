@@ -1,1 +1,0 @@
-lar[63147]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> vanité, chose vaine <i>ou</i> frivole, SPT. <i>Ps. 4, 3 ; Eccl. 1, 2</i> ; NT. <i>Rom. 8, 20</i>.<p><b>Étym</b>. μάταιος.`

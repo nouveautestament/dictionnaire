@@ -1,1 +1,0 @@
-lar[93478]=`<b>σύγ·κλυς, υδος</b> (ὁ, ἡ, τὸ) <font color="purple">[ῠς ῠδ]</font> balayé de tous côtés par les flots, <i>d’où en parl. de pers</i>. qui forme un ramassis, THC. <i>7, 5</i> ; PLAT. <i>Rsp. 569a ;</i> PLUT. <i>Mar. 45 ; en parl. de choses avec un subst. neutre,</i> EUR. <i>I.A. 301</i> ; PHIL. <i>2, 312</i>.<p><b>Étym</b>. σύν, κλύζω.`

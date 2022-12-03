@@ -1,1 +1,0 @@
-lar[6178]=`<b>ἀμφί·καυστις, εως (ἡ)</b> orge à moitié mûre, dont on faisait une bouillie après l’avoir grillée et moulue, CRAT. (<i>Com. fr. 2, 186).</i><p><b>Étym</b>. ἀ. καίω.`

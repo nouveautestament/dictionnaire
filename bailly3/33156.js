@@ -1,1 +1,0 @@
-lar[33156]=`<b>ος, ον</b>, frappé de la foudre, terrifié par la foudre, XÉN. <i>An. 3, 4, 12 ; p. suite,</i> qui a l’esprit égaré, insensé, AR. <i>Eccl. 793</i> ; PLAT. <i>2 Alc. 140c ;</i> DÉM. <i>308, 5</i>.<p><b>Étym</b>. <i>vb. de</i> ἐμβροντάω.`

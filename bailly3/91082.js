@@ -1,1 +1,0 @@
-lar[91082]=`<b>ητος (ἡ) :<br>      1</b> obliquité, inégalité, HPC. <i>400, 8</i>.<br><b>      2</b> sinuosité, STR. <i>577 ; d’où</i> courbure, PLUT. <i>Crass. 24 ; fig</i>. perversité, SPT. <i>Ezech. 16, 5</i>.<p><b>Étym</b>. σκολιός.`

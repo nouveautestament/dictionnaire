@@ -1,1 +1,0 @@
-lar[37]=`<b>ος, ον</b>, <font color="brown">malheureux</font>, Ps.-HDT. <i>V. Hom. 32</i>.`

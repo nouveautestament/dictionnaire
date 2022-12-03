@@ -1,1 +1,0 @@
-lar[31842]=`<b>ἐκ·πιέζω :<br>      1</b> faire sortir en pressant, pressurer, exprimer, HPC. <i>de Morb. mul. p. 616, 20 ; Acut. 387</i> ; PLUT. <i>M. 950a.</i><br><b>      2</b> refouler (des assaillants), POL. <i>18, 15, 3</i>.`

@@ -1,1 +1,0 @@
-lar[1578]=`<b>ἀ·δύναμος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> sans force, faible, DIOSC. <i>5, 13</i>.<p><b>Étym</b>. ἀ, δύναμις.`

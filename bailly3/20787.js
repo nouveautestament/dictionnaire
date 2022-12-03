@@ -1,1 +1,0 @@
-lar[20787]=`<i>forme apocopée, c</i>. βριθύ <i>(Bkk. 567), ou c</i>. βριαρόν, HÉS. (STR. <i>364</i>).`

@@ -1,1 +1,0 @@
-lar[84518]=`<b>προ·καταχράομαι-ῶμαι :<br>      1</b> user <i>ou</i> abuser d’avance de, <i>dat</i>. DH. <i>Rhet. 10, 13</i> ; PLUT. <i>Dio. c. Brut. 1 ; p. suite,</i> user complètement de, épuiser, DÉM. <i>389, 13</i>.<br><b>      2</b> tuer auparavant, <i>acc</i>. DC. <i>53, 23</i>.`

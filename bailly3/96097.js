@@ -1,1 +1,0 @@
-lar[96097]=`convoquer une assemblée, BAS.`

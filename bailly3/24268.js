@@ -1,1 +1,0 @@
-lar[24268]=`<font color="purple">[ᾰ]</font> <i>adv</i>., selon le régime démocratique, STR. <i>280</i> ; DS. <i>2, 32</i>.`

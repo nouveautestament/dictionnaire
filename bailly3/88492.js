@@ -1,1 +1,0 @@
-lar[88492]=`<b>ῥητινόω-ῶ</b> (<i>part. pf. pass</i>. ἐρρητινωμένος) <font color="purple">[ῑ]</font> mélanger <i>ou</i> enduire de résine, HPC. <i>Art. 827</i>.<p><b>Étym</b>. ῥητίνη.`

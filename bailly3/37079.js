@@ -1,1 +1,0 @@
-lar[37079]=`<b>ἐπ·εμπηδάω-ῶ</b>, fouler aux pieds, <i>dat</i>. AR. <i>Nub. 550</i>.`

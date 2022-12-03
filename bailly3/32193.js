@@ -1,1 +1,0 @@
-lar[32193]=`<b>ἐκ·τοξεύω :<br>   I <i>tr</i>.<br>      1</b> lancer des flèches d’un endroit, XÉN. <i>An. 7, 8, 14</i> ; ARR. <i>An. 1, 1</i>.<br><b>      2</b> épuiser ses traits, HDT. <i>1, 214 ; fig</i>. ἐκτ. βίον, AR. <i>Pl. 34,</i> épuiser, <i>càd</i>. user sa vie.<br><b>   II <i>intr.</i></b> frapper hors du but, s’écarter de, <i>gén., fig</i>. EUR. <i>Andr. 365</i>.`

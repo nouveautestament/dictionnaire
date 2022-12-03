@@ -1,1 +1,0 @@
-lar[39990]=`<b>ἑπτα·μερής, ής, ές</b> <font color="purple">[ᾰ]</font> consistant en sept parties, PHIL. <i>1, 45</i> ; PROCL. <i>Plat. Tim. 204</i>.<p><b>Étym</b>. ἑ. μέρος.`

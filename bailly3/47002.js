@@ -1,1 +1,0 @@
-lar[47002]=`<b>θεσμο·δότης, ου (ὁ)</b> qui donne des lois, législateur, LGN <i>9, 19</i>.<p><b>Étym</b>. θεσμός, δίδωμι.`

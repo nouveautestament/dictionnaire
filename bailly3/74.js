@@ -1,1 +1,0 @@
-lar[74]=`<b>ἀ·βδέλυκτος, ος, ον</b>, qu’on ne doit pas détester, ESCHL. <i>fr. 118</i>.<p><b>Étym</b>. ἀ, βδελύσσομαι.`

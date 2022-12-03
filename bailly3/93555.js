@@ -1,1 +1,0 @@
-lar[93555]=`<b>συγ·κτυπέω-ῶ</b> <font color="purple">[τῠ]</font> résonner avec, NONN. <i>D. 3, 240</i>.`

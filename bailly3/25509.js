@@ -1,1 +1,0 @@
-lar[25509]=`<b>ος, ον</b>, qu’on agite en tous sens (osselets, <i>etc</i>.) ESCHN. <i>9, 9</i>.<p><b>Étym</b>. διασείω.`

@@ -1,1 +1,0 @@
-lar[103518]=`<b>ὑπό·μαργος, ος, ον</b>, <i>seul. cp</i>. -ότερος, un peu querelleur, provocant, HDT. <i>3, 29, 145 ; 6, 75</i> ; DH. <i>3, 2</i> ; APP. <i>Civ. 5, 49</i>.`

@@ -1,1 +1,0 @@
-lar[80349]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> noir pour les chaussures, DIOSC. <i>5, 114</i>.<p><b>Étym</b>. πίνος.`

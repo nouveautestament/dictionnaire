@@ -1,1 +1,0 @@
-lar[9002]=`<b>ας (ἡ)</b> <font color="purple">[ῠπᾰ]</font> proconsulat, <i>à Rome,</i> HDN <i>7, 5</i>.<p><b>Étym</b>. ἀνθυπατεύω.`

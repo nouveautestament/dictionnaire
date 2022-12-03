@@ -1,1 +1,0 @@
-lar[110419]=`<b>α, ον</b>, qui dure une heure, SEXT. <i>M. 563</i> ; PTOL. <i>1, 11, 1 ; 1, 14, 10 ; 1, 23, 1 ; subst</i>. τὰ ὡριαῖα, PTOL. <i>1, 15, 5 ; 1, 17, 2,</i> les heures.<p><b>Étym</b>. ὥρα.`

@@ -1,1 +1,0 @@
-lar[102337]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> d’inversion, inversif, <i>t. de gr</i>. MARCELL. <i>V. Thuc. 50</i>.<p><b>Étym</b>. ὑπερβαίνω.`

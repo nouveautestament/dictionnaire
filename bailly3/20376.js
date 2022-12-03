@@ -1,1 +1,0 @@
-lar[20376]=`<b>βου·θρέμμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui nourrit des bœufs, ES. <i>131, p. 333 Korais</i>.<p><b>Étym</b>. βοῦς, τρέφω.`

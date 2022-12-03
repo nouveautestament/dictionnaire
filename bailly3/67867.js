@@ -1,1 +1,0 @@
-lar[67867]=`<b>νέ·ανδρος, ος, ον</b>, de jeune homme, d’adolescent, LYC. <i>1345</i>.<p><b>Étym</b>. νέος, ἀνήρ.`

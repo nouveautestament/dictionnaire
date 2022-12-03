@@ -1,1 +1,0 @@
-lar[58594]=`<b>ίτιδος</b> <font color="purple">[ῑτῐδ]</font> <i>adj. f</i>. de cygne, SOPH. <i>fr. 457</i>.`

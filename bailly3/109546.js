@@ -1,1 +1,0 @@
-lar[109546]=`<b>ψαλτ·ῳδός, ός, όν</b>, qui chante en s’accompagnant de la harpe, <i>particul</i>. qui chante des psaumes <i>ou</i> des cantiques, SPT. <i>1Par. 9, 33 ; 2, 5, 12, etc.</i> ; JOS. <i>Hypomn. c. 73</i>.<p><b>Étym</b>. ψαλτός, ᾄδω.`

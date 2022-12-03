@@ -1,1 +1,0 @@
-lar[12188]=`<b>εως (ἡ)</b> action d’engendrer, acte de la génération, EPIC. (DL. <i>10, 105).</i><p><b>Étym</b>. ἀπογεννάω.`

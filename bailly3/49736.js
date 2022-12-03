@@ -1,1 +1,0 @@
-lar[49736]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆]</font> égalité de forces, de puissance, EPIC. (DL. <i>10, 32</i>) ; DL. <i>9, 73</i> ; SEXT. <i>4, 15 Bkk</i>.<p><b>Étym</b>. ἰσοσθενής.`

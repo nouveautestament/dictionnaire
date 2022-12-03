@@ -1,1 +1,0 @@
-lar[63858]=`<b>μελ·άνθεμον, ου (τὸ)</b> <i>espèce de</i> ἀνθεμίς noire, <i>càd</i>. camomille, DIOSC. <i>3, 154</i>.<p><b>Étym</b>. μ. ἀνθεμίς.`

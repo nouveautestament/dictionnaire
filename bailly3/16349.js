@@ -1,1 +1,0 @@
-lar[16349]=`<b>ἀστρόω-ῶ</b> (<i>part. pf. pass</i>. ἠστρωμένος) consteller, SIMPL.<p><b>Étym</b>. ἄστρον.`

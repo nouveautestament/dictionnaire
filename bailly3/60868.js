@@ -1,1 +1,0 @@
-lar[60868]=`<i>adv</i>., à la manière des brigands <i>ou</i> des pirates, THC. <i>1, 10, au cp</i>. -ώτερον.`

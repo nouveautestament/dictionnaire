@@ -1,1 +1,0 @@
-lar[103386]=`<b>ὑπο·κνίζω</b> (<i>part. pf. pass</i>. ὑποκεκνισμένος) piquer légèrement, <i>fig</i>. aiguillonner <i>ou</i> exciter peu à peu les désirs, PD. <i>P. 10, 94</i> ; ARISTÉN. <i>2, 1 ; au pass</i>. XÉN. <i>Mem. 3, 11, 3</i> ; PLUT. <i>Syll. 35</i>.`

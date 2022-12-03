@@ -1,1 +1,0 @@
-lar[5546]=`<b>ἄ·μηνις, ιος (ὁ, ἡ)</b> sans ressentiment, JOS. <i>A.J. 19, 4, 6</i>.<p><b>Étym</b>. ἀ, μῆνις.`

@@ -1,1 +1,0 @@
-lar[82809]=`<b>πορνοβοσκέω-ῶ</b>, tenir une maison de prostitution, AR. <i>Pax 849</i>.<p><b>Étym</b>. πορνοβοσκός.`

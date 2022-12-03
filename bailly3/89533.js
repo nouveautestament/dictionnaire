@@ -1,1 +1,0 @@
-lar[89533]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> = <i>lat</i>. Satureius, <i>n. d’h. rom</i>. PLUT. <i>T. Gracch. 19</i> ; ANTH. <i>9, 776</i>.`

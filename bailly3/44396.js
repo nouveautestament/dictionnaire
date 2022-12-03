@@ -1,1 +1,0 @@
-lar[44396]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> agitation de l’eau, flot agité, NIC. <i>Th. 568</i>.<p><b>Étym</b>. ζάλη.`

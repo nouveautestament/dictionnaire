@@ -1,1 +1,0 @@
-lar[16390]=`<b>ἀστυ·πολέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ῠ]</font><br><b>      1</b> aller et venir dans la ville, THPP. (ATH. <i>526c</i>).<br><b>      2</b> vivre à la ville, M. TYR. <i>8, 9</i>.<p><b>Étym</b>. ἀστυπόλος.`

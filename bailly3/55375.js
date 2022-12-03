@@ -1,1 +1,0 @@
-lar[55375]=`<b>ατος (τὸ)</b> marchandise falsifiée, <i>d’où</i> falsification, PLAT. <i>Leg. 917e</i>.<p><b>Étym</b>. κιβδηλεύω.`

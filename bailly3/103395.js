@@ -1,1 +1,0 @@
-lar[103395]=`<b>ὑπο·κομπέω-ῶ</b>, résonner à mesure, PLUT. <i>M. 672a</i>.`

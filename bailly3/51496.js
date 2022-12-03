@@ -1,1 +1,0 @@
-lar[51496]=`<font color="purple">[ᾰᾰ]</font> (<i>seul. impf. 3 sg. poét</i>. κανάχιζε) retentir, résonner, IL. <i>12, 36</i> ; OD. <i>10, 399</i> ; HÉS. <i>Sc. 373</i>.<p><b>Étym</b>. καναχή.`

@@ -1,1 +1,0 @@
-lar[42913]=`<b>εὔ·παις, αιδος (ὁ, ἡ) :<br>      1</b> qui est heureux en enfants, HH. <i>30, 5</i> ; HDT. <i>1, 32</i> ; EUR. <i>Hec. 810 ; Suppl. 955, etc.</i><br><b>      2</b> bon fils, bonne fille, EUR. <i>H.f. 689</i> ; enfant bien né, EUR. <i>I.T. 1234</i>.<p><b>Étym</b>. εὖ, παῖς.`

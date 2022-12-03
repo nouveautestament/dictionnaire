@@ -1,1 +1,0 @@
-lar[23241]=`<b>ας</b>, <i>adj. f</i>. qui dévore <i>ou</i> consume (maladie), NAZ. <i>3, 1386a Migne</i>.<p><b>Étym</b>. δάπτω.`

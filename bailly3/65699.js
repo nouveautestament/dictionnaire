@@ -1,1 +1,0 @@
-lar[65699]=`<b>ας (ἡ)</b> <font color="purple">[ῑῡ]</font> petitesse d’âme, pusillanimité, PLUT. <i>M. 906f</i>.<p><b>Étym</b>. μικρόθυμος.`

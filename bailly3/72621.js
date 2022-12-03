@@ -1,1 +1,0 @@
-lar[72621]=`<b>ὀρ·εμπόται, ῶν (οἱ)</b> qui boivent les vapeurs des montagnes, <i>càd</i>. formés par ces vapeurs, <i>en parl. des fleuves,</i> ORACL. (PLUT. <i>M. 406f</i>).<p><b>Étym</b>. ὄρος, ἐμπίνω.`

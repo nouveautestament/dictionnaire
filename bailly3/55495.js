@@ -1,1 +1,0 @@
-lar[55495]=`<b>κινδύνευμα, ατος (τὸ)</b> <font color="purple">[ῡ]</font> entreprise hardie, trait de bravoure <i>ou</i> de hardiesse, SOPH. <i>O.C. 564, etc.</i> ; EUR. <i>I.T. 1001</i> ; PLAT. <i>Leg. 969a, etc</i>.<p><b>Étym</b>. κινδυνεύω.`

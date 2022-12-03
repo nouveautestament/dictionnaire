@@ -1,1 +1,0 @@
-lar[57227]=`<b>οῦ (ὁ) :<br>      1</b> bateleur, chanteur ambulant (<i>v</i>. κορωνίζω) ATH. <i>359e.</i><br><b>      2</b> <i>au pl</i>. jeunes hommes, <i>chez les Cyméens,</i> PLUT. <i>M. 261d</i>.<p><b>Étym</b>. κορωνίζω.`

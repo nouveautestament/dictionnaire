@@ -1,1 +1,0 @@
-lar[102128]=`<b>ὑπ·εκπηδάω-ῶ</b>, s’élancer <i>ou</i> s’agiter au fond de l’âme, ARISTÉN. <i>2, 5</i>.`

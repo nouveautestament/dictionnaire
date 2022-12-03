@@ -1,1 +1,0 @@
-lar[96919]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> berce, <i>plante,</i> DIOSC. <i>3, 90</i>.`

@@ -1,1 +1,0 @@
-lar[108444]=`<b>χιλιο·έτις, ιδος</b> <font color="purple">[χῑ]</font> <i>adj. f. c</i>. χιλιετής, NAZ.`

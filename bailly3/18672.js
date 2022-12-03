@@ -1,1 +1,0 @@
-lar[18672]=`<b>ἀωτέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> dormir : πάννυχον ὕπνον ἀ. IL. <i>10, 159,</i> dormir toute la nuit ; γλυκὺν ὕπνον ἀ. OD. <i>10, 548,</i> dormir d’un doux sommeil ; <i>abs</i>. SIM.<p><b>Étym</b>. <i>cf</i>. ἄημι, ἄω¹.`

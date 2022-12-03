@@ -1,1 +1,0 @@
-lar[98615]=`<b>τετρά·μορφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a quatre formes <i>ou</i> aspects, EUR. <i>fr. 120</i>.<p><b>Étym</b>. τ. μορφή.`

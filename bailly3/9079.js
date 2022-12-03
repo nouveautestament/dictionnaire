@@ -1,1 +1,0 @@
-lar[9079]=`<b>ου (τὸ)</b> sorte d’aneth, DIOSC. <i>Noth. 3, 60 ; 4, 124</i>.<p><b>Étym</b>. <i>neutre de</i> ἀνίκητος.`

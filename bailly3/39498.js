@@ -1,1 +1,0 @@
-lar[39498]=`<b>ἐπι·τρίς</b>, <i>adv</i>., par trois fois, DIOSC. <i>5, 4</i>.`

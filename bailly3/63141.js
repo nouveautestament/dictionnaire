@@ -1,1 +1,0 @@
-lar[63141]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> effort inutile, peine perdue, JAMBL. <i>V. Pyth. 24</i>.<p><b>Étym</b>. ματαιοπονέω.`

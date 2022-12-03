@@ -1,1 +1,0 @@
-lar[70514]=`<b>οἰνο·βρώς, ῶτος (ὁ, ἡ)</b> qu’on mange <i>ou</i> qu’on peut manger avec du vin, apprêté avec du vin, NIC. <i>Al. 493</i>.<p><b>Étym</b>. οἶν. βιβρώσκω.`

@@ -1,1 +1,0 @@
-lar[54275]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>   I</b> <i>n. géogr.</i> :<br><b>      1</b> le Caucase, <i>chaîne de montagnes,</i> HDT. <i>1, 203, 204, etc.</i> ; ESCHL. <i>Pr. 420, 719, etc.</i><br><b>      2</b> <i>autre nom du</i> Paropamisos, ARR. <i>An. 5, 5, 3</i>.<br><b>   II</b> Kaukasos, <i>n. d’h</i>. CLÉANTH. (Ps.-PLUT. <i>Fluv. 5, 3</i>).`

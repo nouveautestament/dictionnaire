@@ -1,1 +1,0 @@
-lar[99222]=`<b>ος, ον</b> <font color="purple">[τῑ]</font> qui est une marque d’honneur, qui honore, JUL. <i>Or. 5, 176</i>.<p><b>Étym</b>. τιμάω.`

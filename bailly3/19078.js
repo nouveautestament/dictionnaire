@@ -1,1 +1,0 @@
-lar[19078]=`<b>ου</b> (ἡ <i>ou</i> ὁ) <font color="purple">[ῐ]</font> instrument de musique à plusieurs cordes, luth, PD. (ATH. <i>635d</i>) ; ATH. <i>182f, etc</i>.<p>➳ ὁ β. ANACR. <i>9, 34</i> ; PD. ATH. <i>ll. cc.</i> ; ἡ β. ANACR. <i>1, 3 ; genre incert</i>. EUR. <i>Alc. 346 ; Cycl. 40</i> ; AR. <i>Th. 137</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

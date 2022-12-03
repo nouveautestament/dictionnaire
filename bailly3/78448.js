@@ -1,1 +1,0 @@
-lar[78448]=`<b>περι·βλύω :<br>      1 <i>intr.</i></b> jaillir tout autour, de tous côtés, A.RH. <i>4, 788</i>.<br><b>      2 <i>tr.</i></b> faire sourdre tout autour, <i>acc</i>. PHILSTR. <i>116</i>.`

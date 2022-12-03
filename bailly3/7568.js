@@ -1,1 +1,0 @@
-lar[7568]=`<b>ας (ἡ)</b> reflux, ARSTT. <i>Mir. 130, 4</i> ; ATH. <i>332f, etc</i>.<p><b>Étym</b>. ἀνάρροος.`

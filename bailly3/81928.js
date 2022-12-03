@@ -1,1 +1,0 @@
-lar[81928]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec pluralité de dieux, NAZ.<p><b>Étym</b>. πολύθεος.`

@@ -1,1 +1,0 @@
-lar[33860]=`<b>ἐν·αμαυρόω-ῶ</b>, obscurcir dans, <i>dat</i>. NYSS. <i>2, 786</i>.`

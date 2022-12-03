@@ -1,1 +1,0 @@
-lar[75971]=`<b>παρ·ανδρόομαι-οῦμαι</b>, devenir <i>ou</i> être presque nubile, <i>en parl. d’une jeune fille,</i> HPC. <i>562, 35</i>.`

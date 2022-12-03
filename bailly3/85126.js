@@ -1,1 +1,0 @@
-lar[85126]=`<b>προσ·αμφιέννυμι</b> <font color="darkgreen">(<i>f</i>. -αμφιέσω, <i>att</i>. -αμφιῶ)</font> faire revêtir : τινά τι, AR. <i>Eq. 891,</i> qqe ch. à qqn.`

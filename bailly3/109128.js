@@ -1,1 +1,0 @@
-lar[109128]=`<b>έως (ὁ)</b> <font color="purple">[ῡ]</font> de Khrysa, <i>v. de Troade,</i> ESCHL. <i>Pers. 314</i>.`

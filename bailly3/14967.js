@@ -1,1 +1,0 @@
-lar[14967]=`<b>ἀρνό·γλωσσον, ου (τὸ)</b> plantain, <i>litt</i>. langue d’agneau, TH. <i>H.P. 7, 8, 3, etc.</i> ; DIOSC. <i>2, 153</i> ; LUC. <i>Trag. 150</i>.<p><b>Étym</b>. ἀρήν, γλῶσσα.`

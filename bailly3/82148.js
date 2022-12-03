@@ -1,1 +1,0 @@
-lar[82148]=`<b>πολυ·μύελος, ος, ον</b> <font color="purple">[ῠῡ]</font> plein de moelle, HPC. <i>Fract. 774</i>.<p><b>Étym</b>. π. μυελός.`

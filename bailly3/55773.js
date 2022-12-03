@@ -1,1 +1,0 @@
-lar[55773]=`<b>οῦ (ὁ)</b> lamentation, gémissement, IL. <i>24, 717</i> ; OD. <i>4, 212, etc.</i> ; ESCHL. <i>Ag. 1553 ; en parl. d’enfants,</i> ARSTT. <i>Pol. 7, 17, etc</i>.<p><b>Étym</b>. κλαίω.`

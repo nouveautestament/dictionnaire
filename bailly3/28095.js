@@ -1,1 +1,0 @@
-lar[28095]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. δυνάστης, ESCHL. <i>Pers. 674 dout</i>.`

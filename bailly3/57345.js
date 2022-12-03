@@ -1,1 +1,0 @@
-lar[57345]=`<b>ωνος (ὁ)</b> Kottyphiôn, <i>n. d’h. fictif,</i> LUC. <i>V.H. 1, 29</i>.<p><b>Étym</b>. Κόττυφος.`

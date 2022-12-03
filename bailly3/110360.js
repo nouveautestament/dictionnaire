@@ -1,1 +1,0 @@
-lar[110360]=`<b>ᾠο·σκύφιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> vase à double fond en forme d’œuf, ASCLÉP. (ATH. <i>503e</i>).<p><b>Étym</b>. ᾠ. σκύφος.`

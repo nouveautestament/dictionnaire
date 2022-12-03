@@ -1,1 +1,0 @@
-lar[85980]=`<b>προσ·κατατρέχω</b>, ruiner en outre par des incursions, JOS. <i>A.J. 13, 12, 6</i>.`

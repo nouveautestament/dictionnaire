@@ -1,1 +1,0 @@
-lar[81773]=`<b>πολυ·βῶλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῠᾰκ]</font> <i>c</i>. πολύβωλος STASIN. (ATH. <i>334c</i>).`

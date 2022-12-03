@@ -1,1 +1,0 @@
-lar[16140]=`<b>ἄ·στατος, ος, ον</b> <font color="purple">[τᾰ]</font><br><b>      1</b> instable, non fixe, incertain, ARSTT. <i>Metaph. 11, 8, 4</i> ; POL. DS. PLUT. <i>etc.</i><br><b>      2</b> non pesé, NIC. <i>Th. 602</i>.<p><b>Étym</b>. ἀ, ἵστημι.`

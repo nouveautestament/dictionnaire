@@ -1,1 +1,0 @@
-lar[107864]=`<b>χαρακο·βολία, ας (ἡ)</b> <font color="purple">[ᾰρᾰ]</font> installation d’une palissade, SPT. <i>Ezech. 17, 17</i>.<p><b>Étym</b>. χάραξ, βάλλω.`

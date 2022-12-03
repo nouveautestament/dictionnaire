@@ -1,1 +1,0 @@
-lar[50444]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> action de guider, de conduire, STR. <i>99</i>.<p><b>Étym</b>. καθοδηγός.`

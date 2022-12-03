@@ -1,1 +1,0 @@
-lar[62591]=`<b>ωνος (ὁ)</b> à longue tête, <i>d’où</i> :<br><b>      1</b> ὁ Μ. ANTH. <i>11, 95,</i> Macrôn, <i>propr</i>. « l’homme à tête longue », <i>n. fictif</i>.<br><b>      2</b> οἱ Μάκρωνες, HDT. <i>2, 104, etc.</i> ; XÉN. <i>An. 4, 8, 1</i> ; A.RH. <i>2, 394, etc</i>. les hommes à longue tête, <i>pple du Pont</i>.<p><b>Étym</b>. μακρός.`

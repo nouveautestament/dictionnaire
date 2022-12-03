@@ -1,1 +1,0 @@
-lar[6343]=`<b>ἀμφι·ρρεπής, ής, ές</b>, qui peut incliner vers l’un <i>ou</i> vers l’autre des deux côtés, qui a le choix du bien et du mal, NAZ. <i>3, 463 Migne</i>.<p><b>Étym</b>. ἀ. ῥέπω.`

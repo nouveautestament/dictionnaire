@@ -1,1 +1,0 @@
-lar[98016]=`<b>εως (ἡ)</b> <font color="purple">[χῐ]</font> construction d’un rempart, d’un ouvrage de défense, THC. <i>7, 6</i> ; XÉN. <i>Hell. 6, 5, 4</i>.<p><b>Étym</b>. τειχίζω.`

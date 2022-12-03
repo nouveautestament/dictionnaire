@@ -1,1 +1,0 @@
-lar[74971]=`<b>παν·εθνεί</b> <font color="purple">[ᾰ]</font> <i>adv</i>., avec tout le peuple réuni, STR. <i>213</i>.<p><b>Étym</b>. π. ἔθνος.`

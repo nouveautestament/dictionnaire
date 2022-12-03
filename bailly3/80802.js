@@ -1,1 +1,0 @@
-lar[80802]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à la manière de Platon, STR. <i>300</i>.<p>•<i> Cp</i>. -ώτερον, CLÉM. <i>Str. 3, 553</i>.`

@@ -1,1 +1,0 @@
-lar[38773]=`<b>ῆς (ἡ)</b> sort jeté sur qqn, maléfice, DIOSC. <i>Noth. p. 478</i> ; Anon. <i>de vir. herb. 22, 165, 175</i>.<p><b>Étym</b>. ἐπιπέμπω.`

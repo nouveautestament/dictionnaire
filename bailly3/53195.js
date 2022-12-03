@@ -1,1 +1,0 @@
-lar[53195]=`<b>κατα·πυρπολέω-ῶ</b>, détruire par le feu, AR. <i>Th. 243</i> ; POL. <i>5, 19, 8</i> ; PHALAR. <i>Ep. 40, p. 141</i>.`

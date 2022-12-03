@@ -1,1 +1,0 @@
-lar[29734]=`<b>ἔγ·κοτος, ος, ον</b>, qui conserve du ressentiment, ESCHL. <i>Ch. 392, 924, 1054</i> ; ANTH. <i>7, 40</i>.<p><b>Étym</b>. ἐν, κότος.`

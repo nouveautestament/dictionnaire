@@ -1,1 +1,0 @@
-lar[34133]=`<b>οῦ (ὁ)</b> action de continuer, <i>d’où</i> :<br><b>      1</b> continuité, perpétuité, JOS. <i>A.J. 11, 4, 1</i> ; SPT. <i>Ex. 30, 8, etc.</i><br><b>      2</b> <i>particul</i>. sacrifice perpétuel, offrande perpétuelle, SPT. <i>Ex. 29, 38 et 42</i>.<p><b>Étym</b>. ἐνδελεχίζω.`

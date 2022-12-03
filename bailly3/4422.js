@@ -1,1 +1,0 @@
-lar[4422]=`<b>ἁλί·βαπτος, ος, ον</b> <font color="purple">[ᾰ, ῑ <i>pour</i> ῐ <i>à l’arsis</i>]</font> plongé dans la mer, NIC. <i>Al. 618</i>.<p><b>Étym</b>. ἅλς, βάπτω.`

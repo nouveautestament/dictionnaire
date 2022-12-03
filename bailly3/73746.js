@@ -1,1 +1,0 @@
-lar[73746]=`<b>ης, ες</b>, essentiel, substantiel, PLUT. <i>M. 1085d</i>.<p>•<i> Cp</i>. -έστερος, PLOT. <i>Enn. 1242, 8</i>.<p><b>Étym</b>. οὐσία, -ωδης.`

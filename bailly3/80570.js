@@ -1,1 +1,0 @@
-lar[80570]=`<i>(seul. prés.) d’où impér. 2 sg</i>. πίφρα, porter.<p><b>Étym</b>. <i>prés. avec redoubl. ; de</i> προΐημι, <i>avec élis. de</i> ο <i>et aspiration de</i> π ; <i>v</i>. εἰσπίφρημι, εἰσφρέω, ἐκφρέω.`

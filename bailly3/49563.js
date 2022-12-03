@@ -1,1 +1,0 @@
-lar[49563]=`<b>ἰσ·ήρης, ης, ες</b> <font color="purple">[ῑ̆]</font> ajusté également, <i>d’où</i> égal, semblable à, <i>dat</i>. EUR. <i>I.T. 1472</i> ; NIC. <i>Th. 643</i>.<p>➳ <font color="purple">[ῑ]</font> NIC. <i>l. c.</i> ; <font color="purple">[ῐ]</font> <i>Th. 788</i>.<p><b>Étym</b>. ἴ. *ἄρω, <i>cf</i>. ἀραρίσκω.`

@@ -1,1 +1,0 @@
-lar[41330]=`<b>ἑτεροκλινέω-ῶ</b> <font color="purple">[ῐ]</font> pencher d’un côté, SYMM. <i>Ps. 16, 11</i>.<p><b>Étym</b>. ἑτεροκλινής.`

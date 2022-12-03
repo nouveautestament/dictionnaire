@@ -1,1 +1,0 @@
-lar[71716]=`<b>ας (ἡ)</b> <font color="purple">[τῑ]</font> égalité de rang, de considération <i>ou</i> d’honneurs, LUC. <i>D. mort. 15, 2</i>.<p><b>Étym</b>. ὁμότιμος.`

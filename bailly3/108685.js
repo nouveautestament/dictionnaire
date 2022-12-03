@@ -1,1 +1,0 @@
-lar[108685]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de cochon, de porc ; <i>subst</i>. ἡ χοιρίνη (<i>s.-e</i>. δορά) LUC. <i>H. conscr. 23,</i> couenne de porc.<p><b>Étym</b>. χοῖρος.`

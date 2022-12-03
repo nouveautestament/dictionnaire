@@ -1,1 +1,0 @@
-lar[18381]=`<b>ἀ·χαρακτήριστος, ος, ον</b> <font color="purple">[χᾰ]</font> sans caractère distinctif, NYSS. <i>3, 469a</i>.<p><b>Étym</b>. ἀ, χαρακτηρίζω.`

@@ -1,1 +1,0 @@
-lar[68520]=`<b>ής, ές</b>, insouciant, négligent, ALCM. <i>21, 4</i>.<p><b>Étym</b>. νη-, ἀλέγω.`

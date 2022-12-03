@@ -1,1 +1,0 @@
-lar[91817]=`<b>σπειρο·ειδῶς</b>, <i>adv</i>., en forme de spirale, RUF. <i>62</i>.<p><b>Étym</b>. σπεῖρα, εἶδος.`

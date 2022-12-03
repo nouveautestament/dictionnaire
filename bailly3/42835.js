@@ -1,1 +1,0 @@
-lar[42835]=`<b>εὐοδέω-ῶ</b>, avoir un chemin facile, s’ouvrir facilement un passage, DÉM. <i>1274, 19</i> ; ARSTT. <i>G.A. 1, 18, 50 ; fig</i>. THPP. COM. <i>2, 818 (fr. 72)</i> ; M. ANT. <i>6, 17</i>.<p><b>Étym</b>. εὔοδος.`

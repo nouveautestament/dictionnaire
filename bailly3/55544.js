@@ -1,1 +1,0 @@
-lar[55544]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> bête venimeuse, reptile, NIC. <i>Th. 26</i> ; CALL. <i>Jov. 25, etc</i>.`

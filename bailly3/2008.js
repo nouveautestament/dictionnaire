@@ -1,1 +1,0 @@
-lar[2008]=`<b>ἄ·θετος, ος, ον :<br>      1</b> sans place, sans position, ARSTT. <i>Metaph. 4, 6, 25</i>.<br><b>      2</b> qu’on met de côté, invalide, POL. <i>17, 9, 10 ; d’où</i> impropre : τινι, DIOSC. <i>1, 159</i> ; πρός τι, DIOSC. <i>2, 123,</i> à qqe ch.`

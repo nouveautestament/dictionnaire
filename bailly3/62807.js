@@ -1,1 +1,0 @@
-lar[62807]=`<b>Μανό·δωρος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Manodôros, <i>n. d’esclave,</i> AR. <i>Av. 657</i>.`

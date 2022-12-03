@@ -1,1 +1,0 @@
-lar[71924]=`<b>Ὀνθὶς λίμνη (ἡ)</b> le lac Onthis, <i>en Étolie,</i> NIC. <i>Th. 215</i>.`

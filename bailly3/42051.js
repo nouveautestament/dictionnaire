@@ -1,1 +1,0 @@
-lar[42051]=`<b>ας (ἡ)</b> bonne clôture, rempart solide, PLAT. <i>Leg. 778c, 779d</i>.<p><b>Étym</b>. εὐερκής.`

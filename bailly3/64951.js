@@ -1,1 +1,0 @@
-lar[64951]=`<b>μεταρσιόω-ῶ</b>, élever dans les airs, HDT. <i>8, 65</i>.<p><b>Étym</b>. μετάρσιος.`

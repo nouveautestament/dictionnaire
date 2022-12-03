@@ -1,1 +1,0 @@
-lar[30882]=`<i>anc. att</i>. <b>ἔσπραξις, εως (ἡ)</b> <font color="purple">[ᾱ]</font> perception, THC. <i>5, 53</i> (ἔσπρ.) ; DÉM. <i>702, 13</i> ; PLUT. <i>Demetr. 27</i>.<p><b>Étym</b>. εἰσπράσσω.`

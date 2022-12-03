@@ -1,1 +1,0 @@
-lar[62442]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Makédonios (<i>litt</i>. le Macédonien) <i>poète de l’Anthologie,</i> ANTH. <i>9, 275</i>.<p><b>Étym</b>. Μακεδών.`

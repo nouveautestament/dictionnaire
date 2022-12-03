@@ -1,1 +1,0 @@
-lar[91294]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> qui concerne l’éducation des jeunes chiens, EL. <i>N.A. 6, 8</i>.<p><b>Étym</b>. σκυλακοτρόφος.`

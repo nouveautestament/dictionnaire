@@ -1,1 +1,0 @@
-lar[95370]=`<b>συν·εκλύω :<br>      1</b> affranchir de, <i>gén</i>. NYSS.<br><b>      2</b> dissoudre avec, <i>dat</i>. PLUT. <i>M. 596a ;</i> ANTH. <i>6, 56 ; fig. en parl. du langage,</i> LGN <i>39, 4</i>.`

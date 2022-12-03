@@ -1,1 +1,0 @@
-lar[75347]=`<i>voc</i>. <b>α</b>, <i>gén</i>. <b>ου (ὁ)</b> cher petit papa, <i>dim. de tendresse de</i> πάππας, AR. <i>Vesp. 297, Pax 128</i>.`

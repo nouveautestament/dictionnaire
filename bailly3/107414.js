@@ -1,1 +1,0 @@
-lar[107414]=`<b>Φώρων λιμήν</b>, le port Phôrôn (<i>auj</i>. Klephtho-Limáni) <i>petite anse près d’Athènes, p.-ê. avec chang. d’accent p</i>. Φωρῶν λιμήν, le port des voleurs <i>ou</i> des contrebandiers, DÉM. <i>932, 13 ; 942, 5</i> ; STR. <i>395</i>.<p><b>Étym</b>. <i>v</i>. φώρ.`

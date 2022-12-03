@@ -1,1 +1,0 @@
-lar[22919]=`<b>ου (ὁ)</b> porteur de torche, CIA. <i>4, b, 27, b, 25 (439 av. J.-C.)</i> ; οἱ δ. XÉN. <i>Hell. 6, 3, 3,</i> les porteurs de torches, prêtres qui célébraient les mystères de Dèmèter à Éleusis par une procession aux flambeaux ; <i>fig</i>. δᾳδοῦχοι τῆς σοφίας, PLUT. <i>M. 10e</i>, prêtres de la sagesse.<p><b>Étym</b>. δᾴς, ἔχω.`

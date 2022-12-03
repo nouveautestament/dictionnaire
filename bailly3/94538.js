@@ -1,1 +1,0 @@
-lar[94538]=`<b>συν·άγκεια, ας (ἡ) :<br>      1</b> embranchement de plusieurs vallées, TH. <i>C.P. 2, 4, 8</i> ; POL. <i>18, 14, 5</i> ; ANTH. <i>6, 188</i>.<br><b>      2</b> fond d’une vallée où se réunissent les eaux des montagnes, BABR. <i>27, 2</i>.<p><b>Étym</b>. σ. ἄγκος.`

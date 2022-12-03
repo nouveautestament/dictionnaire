@@ -1,1 +1,0 @@
-lar[108918]=`<b>ῶν (οἱ)</b> <i>litt</i>. « les banqueroutiers », <i>n. des partisans de la σεισάχθια de Solon,</i> PLUT. <i>Sol. 15</i>.<p><b>Étym</b>. χρεοκοπέω.`

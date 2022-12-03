@@ -1,1 +1,0 @@
-lar[59156]=`<b>ατος (τὸ)</b> sommeil profond, IL. <i>14, 359</i> ; OD. <i>18, 201, etc.</i> ; ὕπνου κῶμα, THCR. <i>Epigr. 3, 6, m. sign. ; en mauv. part,</i> HÉS. <i>Th. 798, etc. ; particul</i>. sommeil lourd et prolongé, état comateux, HPC. <i>Epid. 3, 1085</i>.<p><b>Étym</b>. κοιμάω.`

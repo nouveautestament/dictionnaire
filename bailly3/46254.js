@@ -1,1 +1,0 @@
-lar[46254]=`<b>εως (ἡ) :<br>      1</b> étonnement, effroi, MAN. <i>4, 365</i> ; AQU. <i>Ps. 30, 23</i>.<br><b>      2</b> effarement, <i>d’où</i> précipitation, hâte, AQU. <i>Deut. 16, 3</i>.<p><b>Étym</b>. θαμβέω.`

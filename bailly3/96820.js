@@ -1,1 +1,0 @@
-lar[96820]=`<b>σφαλμέω-ῶ</b>, faire un faux pas, trébucher, POL. <i>35, 5, 2</i>.<p><b>Étym</b>. σφαλμός.`

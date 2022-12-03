@@ -1,1 +1,0 @@
-lar[83853]=`<b>προ·γεύομαι</b>, goûter auparavant, ARSTT. <i>P.A. 4, 11, 3</i> ; PLUT. <i>M. 49e, etc</i>.`

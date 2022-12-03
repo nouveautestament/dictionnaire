@@ -1,1 +1,0 @@
-lar[94825]=`<b>συναορέω-ῶ</b>, accompagner, PD. <i>fr. 194 Bgk</i>.<p><b>Étym</b>. συνάορος.`

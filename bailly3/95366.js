@@ -1,1 +1,0 @@
-lar[95366]=`<b>συν·εκλεαίνω</b>, polir avec, DIOSC. <i>Alex. 4</i> ; ORIB. <i>p. 70 Mai</i>.`

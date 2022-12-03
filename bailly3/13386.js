@@ -1,1 +1,0 @@
-lar[13386]=`<b>ἀπό·σπονδος, ος, ον</b> (qu’on laisse sortir d’une citadelle) après une capitulation, PLUT. <i>Pel. 13 (conj</i>. ὑπόσπονδος).<p><b>Étym</b>. ἀ. σπονδή.`

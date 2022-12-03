@@ -1,1 +1,0 @@
-lar[110573]=`<b>ὠτό·τμητος, ος, ον</b>, qui a les oreilles coupées, SPT. <i>Lev. 21, 18 ; 22, 23</i>.<p><b>Étym</b>. οὖς, τέμνω.`

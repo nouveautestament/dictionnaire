@@ -1,1 +1,0 @@
-lar[81936]=`<b>πολύ·θρηνος, ος, ον :<br>      1</b> lamentable, déplorable, NIC. <i>Th. 902</i>.<br><b>      2</b> qui se lamente beaucoup, plaintif, ESCHL. <i>Ag. 714</i> ; LUC. <i>Halc. 1 ; en parl. d’un chant,</i> très plaintif, ESCHL. <i>Ag. 711</i>.<p>•<i> Sup</i>. -ότατος, HIM. <i>880</i>.<p><b>Étym</b>. π. θρῆνος.`

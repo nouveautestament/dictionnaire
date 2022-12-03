@@ -1,1 +1,0 @@
-lar[46220]=`<b>ου (ὁ)</b> Thalliskos (<i>propr</i>. petite pousse) <i>n. de cultivateur,</i> ALCIPHR.<p><b>Étym</b>. θαλλός.`

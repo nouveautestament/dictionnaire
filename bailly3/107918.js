@@ -1,1 +1,0 @@
-lar[107918]=`<b>Χαρι·κράτης, ους (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Kharikratès, <i>h</i>. PLUT. <i>Qu. gr. 11</i>.<p><b>Étym</b>. χάρις, κράτος.`

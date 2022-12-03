@@ -1,1 +1,0 @@
-lar[29482]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de se voiler, honte, STR. <i>353</i> ; PLUT. <i>M. 266e ;</i> M. ANT. <i>5, 10</i>.<p><b>Étym</b>. ἐγκαλύπτω.`

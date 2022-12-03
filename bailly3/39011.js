@@ -1,1 +1,0 @@
-lar[39011]=`<i>adv</i>., en évêque, NAZ. <i>3, 101 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[11673]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> d’Apelle, A. PL. <i>178, 181</i>.<p><b>Étym</b>. Ἀπελλῆς.`

@@ -1,1 +1,0 @@
-lar[4707]=`<font color="purple">[λᾱ]</font> <i>dor. c</i>. ἀλληλοφόνος.`

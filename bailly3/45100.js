@@ -1,1 +1,0 @@
-lar[45100]=`<b>εως (ἡ)</b> <font color="purple">[θῐ]</font> action de filtrer, ARSTT. <i>Probl. 2, 41</i>.<p><b>Étym</b>. *ἠθίζω, <i>cf</i>. ἠθέω ; <i>p.-ê. faute d’iotacisme p</i>. ἤθησις ; <i>ttef. v. Bonitz Index Aristotelicus, v°</i> ἤθισις.`

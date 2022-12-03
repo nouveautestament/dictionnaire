@@ -1,1 +1,0 @@
-lar[96960]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> travail avec le marteau, SYMM. <i>Prov. 19, 29</i>.<p><b>Étym</b>. σφυροκόπος.`

@@ -1,1 +1,0 @@
-lar[10112]=`<b>ἀντί·μορφος, ος, ον</b>, formé d’après, dont la forme répond à, qui correspond à, <i>gén</i>. LUC. <i>Am. 44</i>.<p><b>Étym</b>. ἀ. μορφή.`

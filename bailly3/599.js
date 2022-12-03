@@ -1,1 +1,0 @@
-lar[599]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> sainteté, SPT. <i>2Macc. 3, 12</i> ; NT. <i>Rom. 1, 4, etc</i>.<p><b>Étym</b>. ἅγιος.`

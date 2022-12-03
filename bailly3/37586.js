@@ -1,1 +1,0 @@
-lar[37586]=`<b>ἐπι·δια·γιγνώσκω</b>, examiner <i>ou</i> discuter de nouveau, HDT. <i>1, 133</i> ; SYN. <i>Ep. 67, p. 213</i>.<p>➳ -γινώσκω <font color="purple">[ῑ]</font> HDT. <i>l. c</i>.`

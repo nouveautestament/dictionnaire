@@ -1,1 +1,0 @@
-lar[106030]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour de la boisson, XÉN. <i>Mem. 1, 2, 22 ; au pl</i>. PLAT. <i>Phæd. 81e</i>.<p><b>Étym</b>. φιλοπότης.`

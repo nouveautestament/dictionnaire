@@ -1,1 +1,0 @@
-lar[101157]=`<b>οῦ (ὁ)</b> Tyrrhènos, <i>fils d’Atys et qui émigra de Lydie en Italie,</i> STR. <i>219, 221, etc</i>.<p>➳ <i>Ion</i>. Τυρσηνός, HDT. <i>1, 94</i>.`

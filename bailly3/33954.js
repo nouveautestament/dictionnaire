@@ -1,1 +1,0 @@
-lar[33954]=`<b>ἐν·απολαμβάνω</b>, enfermer dans, <i>avec</i> εἰς <i>et l’acc</i>. PLAT. <i>Tim. 84d ; ou</i> ἐν <i>et le dat</i>. ARSTT. <i>Phys. 4, 6, 3 ; au pass. avec le dat. seul,</i> DS. <i>1, 7</i>.`

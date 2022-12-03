@@ -1,1 +1,0 @@
-lar[26658]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Dinarkhos, <i>h</i>. ANTH. <i>11, 169</i>.<p><i>cf</i>. Δείναρχος.`

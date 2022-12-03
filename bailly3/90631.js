@@ -1,1 +1,0 @@
-lar[90631]=`<b>οῦ (ὁ)</b> cheville où l’on fixe la rame au plat-bord du navire, HH. <i>6, 42</i> ; ESCHL. <i>Pers. 376</i> ; EUR. <i>I.T. 1347, etc.</i> ; ARSTT. <i>Mech. 4, 1</i> ; A.RH. <i>1, 379, 392</i> ; σκ. θρανίτης, POL. <i>16, 3, 4,</i> rameur de l’étage le plus élevé, <i>litt</i>. « cheville pour les rameurs du plat-bord ».<p><b>Étym</b>. σκάλλω.`

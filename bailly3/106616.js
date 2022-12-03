@@ -1,1 +1,0 @@
-lar[106616]=`<b>ου (ἡ)</b> Pholégandros (<i>auj</i>. Folégandros, <i>anc</i>. Polýkandro) <i>une des Sporades,</i> ANTH. <i>9, 421</i>.`

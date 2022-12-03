@@ -1,1 +1,0 @@
-lar[63398]=`<b>μεγαλο·πόλεμος, ος, ον</b> <font color="purple">[ᾰ]</font> grand à la guerre, JOS. <i>A.J. 11, 2, 12</i>.`

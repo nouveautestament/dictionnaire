@@ -1,1 +1,0 @@
-lar[32072]=`<b>ἐκ·σύρω</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao. pass. 3 sg</i>. ἐξεσύρη)</font> tirer dehors, ANTH. <i>9, 56</i>.`

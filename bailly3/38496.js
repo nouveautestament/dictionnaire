@@ -1,1 +1,0 @@
-lar[38496]=`<b>ἐπι·μώομαι</b>, inventer, <i>acc</i>. BION <i>7, 2</i>.<p><b>Étym</b>. <i>impf</i>. ἐπεμώετο, <i>sel. d’autres,</i> ἐπεμαίετο.`

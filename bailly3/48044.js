@@ -1,1 +1,0 @@
-lar[48044]=`<b>ης (ἡ)</b> <i>autre n. de la plante</i> ὀροβάγχη, DIOSC. <i>Noth. 2, 172</i>.<p><b>Étym</b>. θύρσος.`

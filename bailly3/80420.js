@@ -1,1 +1,0 @@
-lar[80420]=`<b>Πίσ·ανδρος, ου (ὁ)</b> Pisandros, <i>poète de Rhodes,</i> ANTH. <i>7, 304</i>.<p><b>Étym</b>. πείθω, ἀνήρ.`

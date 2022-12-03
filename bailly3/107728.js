@@ -1,1 +1,0 @@
-lar[107728]=`<b>ῶν (οἱ)</b> les descendants de Khalkôdôn, <i>càd</i>. les Eubéens, EUR. <i>Ion 59</i>.<p><b>Étym</b>. <i>patr. de</i> Χαλκώδων.`

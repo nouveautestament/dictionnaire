@@ -1,1 +1,0 @@
-lar[6784]=`<b>ἀνα·θερμαίνω :<br>      1</b> réchauffer, PLUT. <i>Phoc. 6, M. 405f ;</i> LUC. <i>Dem. enc. 5 ; au pass</i>. se réchauffer, HPC. <i>Epid. 1, 940, 970</i> ; ARSTT. <i>H.A. 6, 15, 6</i>.<br><b>      2</b> échauffer de nouveau ; <i>au pass</i>. redevenir fiévreux, HPC. <i>Progn. 42</i>.`

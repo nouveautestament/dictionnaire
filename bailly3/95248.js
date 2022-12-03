@@ -1,1 +1,0 @@
-lar[95248]=`<b>συν·εγκλίνω</b> <font color="purple">[ῑ]</font> incliner <i>ou</i> se diriger en même temps vers, DS. <i>3, 26 conj</i>.`

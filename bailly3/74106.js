@@ -1,1 +1,0 @@
-lar[74106]=`<font color="purple">[ᾰ]</font> <i>adv</i>., tout à fait mal, misérablement, ESCHL. <i>Sept. 552, etc.</i> ; EUR. <i>Med. 1135</i>.`

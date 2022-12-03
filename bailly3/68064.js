@@ -1,1 +1,0 @@
-lar[68064]=`<i>adv</i>., de Némée, CALL. (PLUT. <i>M. 677b</i>).<p><b>Étym</b>. Νεμέα, -θε.`

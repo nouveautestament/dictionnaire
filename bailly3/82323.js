@@ -1,1 +1,0 @@
-lar[82323]=`<b>πολύ·ρραβδος, ος, ον</b>, entièrement rayé, <i>en parl. d’une étoffe,</i> ARSTT. (ATH. <i>305d</i>).<p><b>Étym</b>. π. ῥάβδος.`

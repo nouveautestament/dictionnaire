@@ -1,1 +1,0 @@
-lar[69530]=`<b>η, ον</b> <font color="purple">[ῐ]</font> qui a la couleur d’une feuille de vigne desséchée, <i>en parl. d’une sorte de pourpre,</i> SUID. <i>cf. lat</i>. vestes xerampelinæ, JUV. <i>6, 517</i>.<p><b>Étym</b>. ξηρός, ἄμπελος.`

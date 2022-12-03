@@ -1,1 +1,0 @@
-lar[27112]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> matière passée à la chausse, GAL. <i>13, 468</i>.<p><b>Étym</b>. διυλίζω.`

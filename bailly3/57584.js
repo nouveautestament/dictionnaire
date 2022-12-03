@@ -1,1 +1,0 @@
-lar[57584]=`<b>οῦ (ἡ)</b> Krasos, <i>v. de Troade,</i> NIC. <i>Th. 669</i>.`

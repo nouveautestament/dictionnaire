@@ -1,1 +1,0 @@
-lar[40627]=`<b>Ἑρμο·δάμας, αντος (ὁ)</b> Hermodamas, <i>maître de Pythagore,</i> DL. <i>8, 2</i>.<p><b>Étym</b>. Ἑ. δαμάω.`

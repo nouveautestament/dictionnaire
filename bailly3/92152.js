@@ -1,1 +1,0 @@
-lar[92152]=`<b>εως (ἡ)</b> écoulement goutte à goutte, HPC. <i>80e, 171e, 183h, etc</i>.<p><b>Étym</b>. στάζω.`

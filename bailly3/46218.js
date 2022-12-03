@@ -1,1 +1,0 @@
-lar[46218]=`<b>ου (τὸ)</b> pousse d’olivier, DIOSC. <i>Par. 1, 187</i>.<p><b>Étym</b>. θαλλός.`

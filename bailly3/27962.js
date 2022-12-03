@@ -1,1 +1,0 @@
-lar[27962]=`<i>ou</i> <b>δρόγγος, ου (ὁ)</b> = <i>lat</i>. drungus, corps d’infanterie variant de 1 000 à 3 000 hommes, MAUR. <i>1, 3 ; 2, 2, etc. ; d’où fig</i>. troupe, compagnie, CHRYS. <i>3, 596 Migne</i>.`

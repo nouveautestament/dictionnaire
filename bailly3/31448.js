@@ -1,1 +1,0 @@
-lar[31448]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> incliné, penché, ARSTT. <i>Probl. 15, 6, etc</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Probl. 9, 7</i>.<p><b>Étym</b>. ἐκκλίνω.`

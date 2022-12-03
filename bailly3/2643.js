@@ -1,1 +1,0 @@
-lar[2643]=`<b>ης (ἡ)</b> descendante d’Énée, Romaine, ANTH. <i>App. 51, 38</i>.<p><b>Étym</b>. Αἰνείας.`

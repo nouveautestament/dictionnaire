@@ -1,1 +1,0 @@
-lar[18186]=`<b>ἀφορέω-ῶ</b>, <i>f</i>. ήσω, être stérile, <i>en parl. de la terre,</i> XÉNAGOR. (MACR. <i>Sat. 5, 19</i>) ; TH. <i>H.P. 4, 16, 6</i> ; PHIL. <i>732a</i>.<p><b>Étym</b>. ἄφορος.`

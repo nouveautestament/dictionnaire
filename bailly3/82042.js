@@ -1,1 +1,0 @@
-lar[82042]=`<b>ης (ἡ)</b> <font color="purple">[σῠ]</font> grande richesse, CLÉM. <i>268</i>.<p><b>Étym</b>. πολυκτήμων.`

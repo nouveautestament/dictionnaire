@@ -1,1 +1,0 @@
-lar[47199]=`<b>θηλύ·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ῠ]</font> βάσις, EUR. <i>I.A. 421,</i> un pied de femme.<p><b>Étym</b>. θ. πούς.`

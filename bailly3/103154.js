@@ -1,1 +1,0 @@
-lar[103154]=`<b>ὑποδηματο·ποιός, οῦ (ὁ)</b> qui fait des souliers, cordonnier, CHRYS.<p><b>Étym</b>. ὑ. ποιέω.`

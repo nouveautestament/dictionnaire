@@ -1,1 +1,0 @@
-lar[99593]=`<b>έως (ὁ)</b> Toxée, <i>fils d’Œnée,</i> HÉS. <i>fr. 41, 4 Gaisford</i>.<p>➳ <i>Gén. épq</i>. -έος, NONN. <i>D. 35, 86</i>.`

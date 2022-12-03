@@ -1,1 +1,0 @@
-lar[56829]=`<b>οῦ (ὁ)</b> vantardise, jactance, PLUT. <i>Syll. 16</i>.<p><b>Étym</b>. κομπάζω.`

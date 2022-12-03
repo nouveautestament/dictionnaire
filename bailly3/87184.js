@@ -1,1 +1,0 @@
-lar[87184]=`<b>πρωτο·βόλος, ος, ον :<br>      1</b> qui pousse le premier <i>ou</i> pour la première fois, <i>fig</i>. ANTH. <i>7, 217</i>.<br><b>      2</b> qui pousse ses premières dents, <i>en parl. d’un cheval,</i> HIPPIATR. <i>67, 3</i>.<p><b>Étym</b>. πρ. βάλλω.`

@@ -1,1 +1,0 @@
-lar[63281]=`<b>μεγα·βρόντης, ου</b>, <i>adj. m</i>. au tonnerre bruyant, AR. <i>Vesp. 323</i>.<p><b>Étym</b>. μ. βροντάω.`

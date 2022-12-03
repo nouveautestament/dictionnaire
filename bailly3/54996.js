@@ -1,1 +1,0 @@
-lar[54996]=`<b>κερο·βάτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. aux pieds de corne, <i>ép. de Pan,</i> AR. <i>Ran. 230</i>.<p><b>Étym</b>. κέρας, βαίνω.`

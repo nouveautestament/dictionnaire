@@ -1,1 +1,0 @@
-lar[74382]=`<b>ή, όν</b>, de péon, comme un péon, PLUT. <i>M. 1143b</i>.<p><b>Étym</b>. παιάν.`

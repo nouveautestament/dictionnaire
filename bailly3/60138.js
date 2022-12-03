@@ -1,1 +1,0 @@
-lar[60138]=`<b>ητος (ἡ)</b> qualité de ce qui est lisse, ESCHL. <i>Pr. 493</i> ; XÉN. <i>Eq. 10, 6</i> ; PLAT. <i>Tim. 46c ; au pl</i>. PLAT. <i>Tim. 65c, etc. ; particul</i>. douceur de la voix, ARSTT. <i>G.A. 5, 7 ; ou</i> style coulant, D. PHAL. <i>§ 299</i> ; DH. <i>Isocr. 13</i>.<p><b>Étym</b>. λεῖος.`

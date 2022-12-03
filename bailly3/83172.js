@@ -1,1 +1,0 @@
-lar[83172]=`<b>ης (ἡ)</b> = <i>lat</i>. posca, oxycrat, <i>breuvage acide,</i> A. TR.`

@@ -1,1 +1,0 @@
-lar[21888]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. γεωργός, RHÉT. <i>7, 45 W</i>.`

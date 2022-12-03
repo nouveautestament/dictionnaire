@@ -1,1 +1,0 @@
-lar[93671]=`<b>α, ον</b> <font color="purple">[ζῠ]</font><br><b>      1</b> <i>pass</i>. uni, EUR. <i>Hipp. 1147</i>.<br><b>      2</b> <i>act</i>. qui préside aux unions, <i>ép. d’Hèra,</i> STOB. <i>Ecl. 2, 54</i>.<p><b>Étym</b>. σύζυγος.`

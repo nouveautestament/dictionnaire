@@ -1,1 +1,0 @@
-lar[94682]=`<b>συν·άμφω</b> (οἱ, αἱ, τὰ) <i>indécl</i>. tous les deux ensemble, PLAT. <i>Pol. 278c ; précédé d’un gén</i>. POL. <i>2, 24, 11 ; collect</i>. ὁ συνάμφω, STR. <i>44</i> ; τὸ συνάμφω, ARSTT. <i>Metaph. 7, 2, 9</i> ; STR. <i>107,</i> l’ensemble des deux.`

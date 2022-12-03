@@ -1,1 +1,0 @@
-lar[6556]=`<b>ης (ἡ)</b> délai, TRYPH. <font color="purple">[<i>réf. non retrouvée</i>]</font>.<p>➳ <i>Poét</i>. ἀμβ-, A.RH. <i>3, 143</i> ; ANTH. <i>13, 21, etc</i>.`

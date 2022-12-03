@@ -1,1 +1,0 @@
-lar[53136]=`<b>κατα·ποντόω-ῶ :<br>      1</b> jeter à la mer, HDT. <i>1, 165 ; 3, 30,</i> ANT. <i>134, 10</i> ; PLAT. <i>Gorg. 511e.</i><br><b>      2</b> <i>p. ext</i>. jeter à l’eau, <i>en gén</i>. εἰς ποταμόν, ATH. <i>387f</i>, dans un fleuve.<p><b>Étym</b>. κ. πόντος.`

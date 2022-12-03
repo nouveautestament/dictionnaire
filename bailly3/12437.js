@@ -1,1 +1,0 @@
-lar[12437]=`<b>ἀπό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> sans souci de, indifférent, PLUT. <i>M. 87f</i>.<p><b>Étym</b>. ἀπό, θυμός.`

@@ -1,1 +1,0 @@
-lar[96084]=`<b>σύν·νοος-ους, οος-ους, οον-ουν :<br>      1</b> qui réfléchit, pensif, méditatif, ISOCR. <i>5a ;</i> PLUT. <i>M. 206b, Them. 3, etc.</i><br><b>      2</b> prudent, circonspect, réfléchi, ARSTT. <i>Pol. 2, 7, 17</i>.<br><b>      3</b> préoccupé, soucieux, triste, HPC. <i>1277, 30</i> ; DH. <i>4, 66 ; en parl. du regard,</i> ARSTT. <i>Pol. 2, 7, 17</i>.`

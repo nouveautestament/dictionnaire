@@ -1,1 +1,0 @@
-lar[51612]=`<b>ης (ἡ)</b> mesure de deux chénices, <i>chez les Perses,</i> XÉN. <i>An. 1, 5, 6</i>.<p><b>Étym</b>. <i>cf</i>. καπέτις.`

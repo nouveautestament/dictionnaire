@@ -1,1 +1,0 @@
-lar[92740]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. m. c</i>. στομίας, ESCHL. <i>fr. 346 Dind</i>.`

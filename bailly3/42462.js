@@ -1,1 +1,0 @@
-lar[42462]=`<b>εὐ·κοίλιος, ος, ον</b>, qui rend le ventre libre, qui relâche, PLUT. <i>M. 137a ;</i> DIOSC. <i>1, 134 ; 2, 149</i>.<p>•<i> Cp</i>. -ώτερος, ATH. <i>371b</i>.<p><b>Étym</b>. εὖ, κοιλία.`

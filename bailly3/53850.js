@@ -1,1 +1,0 @@
-lar[53850]=`<b>κατ·εκλύω</b>, relâcher, <i>fig. càd</i>. affaiblir, POL. <i>5, 63, 2</i>.`

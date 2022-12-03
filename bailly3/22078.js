@@ -1,1 +1,0 @@
-lar[22078]=`<b>(τὸ)</b> <font color="purple">[ᾰῠ]</font> caverne, antre, grotte, HÉS. <i>O. 531</i>.<p><b>Étym</b>. <i>inconnue ; cf</i>. γλαφυρός <i>et</i> γλάφω.`

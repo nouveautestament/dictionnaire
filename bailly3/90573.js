@@ -1,1 +1,0 @@
-lar[90573]=`<b>ων (οἱ)</b> les Sitônies (<i>auj</i>. Suède) <i>pple du N. de l’Europe</i> PLUT. <i>Pro Nobil. 20</i>.`

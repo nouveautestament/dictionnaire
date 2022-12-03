@@ -1,1 +1,0 @@
-lar[23033]=`<b>*δακνιστήρ, ῆρος (ὁ)</b> qui mord, qui ronge, ESCHL. <i>Suppl. 466, conj. p</i>. μακιστήρ.`

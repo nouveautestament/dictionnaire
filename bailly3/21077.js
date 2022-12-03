@@ -1,1 +1,0 @@
-lar[21077]=`<b>(οἱ)</b> les Bôlinges, <i>pple indien,</i> NONN. <i>D. 26, 143 ; 30, 316</i>.<p><b>Étym</b>. <i>au dat. pl</i>. βωλίγγεσσι.`

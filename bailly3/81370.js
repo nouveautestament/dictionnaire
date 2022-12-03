@@ -1,1 +1,0 @@
-lar[81370]=`<b>ποικιλ·είμων, ονος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> au manteau tacheté, <i>càd</i>. parsemé d’étoiles, <i>ép. de la nuit,</i> ESCHL. <i>Pr. 24</i>.<p><b>Étym</b>. π. εἷμα.`

@@ -1,1 +1,0 @@
-lar[84617]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> roulis (des vagues, <i>etc</i>.) SYN. <i>149d</i>.<p><b>Étym</b>. προκυλινδέομαι.`

@@ -1,1 +1,0 @@
-lar[99665]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> borne que tournent les chars dans la carrière, LYC. <i>262, 487</i>.<p><b>Étym</b>. <i>cf</i>. τόρμος.`

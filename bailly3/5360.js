@@ -1,1 +1,0 @@
-lar[5360]=`<b>ή, όν</b>, propre à faire avorter, GAL.<p><b>Étym</b>. ἀμβλόω.`

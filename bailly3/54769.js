@@ -1,1 +1,0 @@
-lar[54769]=`<b>ή, όν :<br>      1</b> armé d’un aiguillon, ARSTT. <i>H.A. 9, 40, 17</i>.<br><b>      2</b> κεντρωτὸς βόλος, EUB. (POLL. <i>7, 205</i>) le coup de l’aiguillon au jeu de dés.<br><b>      3</b> muni de clous pointus, STR. <i>506</i> ; PLUT. <i>M. 202b</i>.<p><b>Étym</b>. <i>vb. de</i> κεντρόω.`

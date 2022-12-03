@@ -1,1 +1,0 @@
-lar[40013]=`<b>ἑπτά·πυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à sept portes, IL. <i>4, 406</i> ; OD. <i>11, 263</i> ; ESCHL. <i>Sept. 165, etc</i>.<p><b>Étym</b>. ἑ. πύλη.`

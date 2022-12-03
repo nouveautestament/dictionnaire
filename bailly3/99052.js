@@ -1,1 +1,0 @@
-lar[99052]=`<b>τιαρό·δεσμον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> cordon pour attacher la tiare par derrière, POLYEN <i>7, 11, 2</i>.<p><b>Étym</b>. τιάρα, δεσμός.`

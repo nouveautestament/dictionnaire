@@ -1,1 +1,0 @@
-lar[105462]=`<b>φιλ·άλληλος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime d’une affection mutuelle, PLUT. <i>M. 979f ;</i> BABR. <i>124, 9</i> ; τὸ φιλάλληλον, PLUT. <i>M. 977c</i>, affection mutuelle.<p><b>Étym</b>. φ. ἀλλήλων.`

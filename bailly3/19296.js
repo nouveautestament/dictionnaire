@@ -1,1 +1,0 @@
-lar[19296]=`<b>βασκάνου τάφος (ὁ)</b> le tombeau de Baskanos, <i>à Naxos,</i> PLUT. <i>Mul. virt. 17</i>.`

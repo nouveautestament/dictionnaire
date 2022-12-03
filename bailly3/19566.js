@@ -1,1 +1,0 @@
-lar[19566]=`<b>*βερέκυς (ὁ, ἡ)</b> <i>inus. au nomin. sg</i>. des Bérécyntes, <i>pple de Phrygie</i> : βερέκυντα χῶρον, ESCHL. <i>fr. 146,</i> territoire des Bérécyntes ; οἱ βερέκυντες, STR. les Bérécyntes.`

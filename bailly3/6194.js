@@ -1,1 +1,0 @@
-lar[6194]=`<b>ἀμφι·κνεφής, ής, ές</b>, obscur tout autour, SYN. <i>140d</i>.<p><b>Étym</b>. ἀ. κνέφας.`

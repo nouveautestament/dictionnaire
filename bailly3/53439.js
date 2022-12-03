@@ -1,1 +1,0 @@
-lar[53439]=`<b>κατα·στείβω :<br>      1</b> fouler aux pieds, SAPPH. <i>95 Bgk</i>.<br><b>      2</b> fouler, marcher sur, SOPH. <i>O.C. 467</i>.`

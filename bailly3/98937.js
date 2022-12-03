@@ -1,1 +1,0 @@
-lar[98937]=`<b>ου (ὁ)</b> Tèlémos, <i>anc. devin,</i> OD. <i>9, 509</i> ; THCR. <i>Idyl. 6, 23, etc</i>.`

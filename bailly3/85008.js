@@ -1,1 +1,0 @@
-lar[85008]=`<b>οῦ (ὁ) :<br>      1</b> action de faire boire auparavant, DIOSC. <i>2, 180</i>.<br><b>      2</b> breuvage <i>ou</i> potion qu’on prend d’avance <i>ou</i> par précaution. GAL. <i>13, 144</i>.<p><b>Étym</b>. προποτίζω.`

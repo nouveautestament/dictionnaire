@@ -1,1 +1,0 @@
-lar[107010]=`<b>φυγ·αγωγός, ός, όν</b> <font color="purple">[ῠᾰ]</font> qui emmène les fugitifs, les fuyards, <i>càd</i>. les captifs, POLYEN <i>8, 16, 6 dout. ; sel. Lob</i>. λαφυραγωγός, qui emmène le butin.<p><b>Étym</b>. φυγή, ἄγω <i>ou</i> λάφυρον, ἄγω.`

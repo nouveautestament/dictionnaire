@@ -1,1 +1,0 @@
-lar[75451]=`<b>παρ·άγνυμι</b> <font color="purple">[ῡ]</font> fracturer, HPC. <i>Mochl. 866</i>.`

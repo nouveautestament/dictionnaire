@@ -1,1 +1,0 @@
-lar[18929]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> bain, salle de bain, AR. <i>Pl. 535, etc.</i> ; DÉM. <i>1217, 24, etc. ; au plur</i>. AR. <i>Nub. 991 ; etc.</i><br><b>      2</b> bain, eau de bain, ARISTON (PLUT. <i>M. 42b</i>).<p><b>Étym</b>. <i>cf. lat</i>. balineum, balneum.`

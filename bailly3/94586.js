@@ -1,1 +1,0 @@
-lar[94586]=`<b>συν·αΐδιος, ος, ον</b> <font color="purple">[ᾱῐδ]</font> coéternel, NAZ. <i>2, 77 Migne</i>.`

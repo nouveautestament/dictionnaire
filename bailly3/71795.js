@@ -1,1 +1,0 @@
-lar[71795]=`<b>ὀμφακο·ρράξ</b>, <i>par nécess. prosod</i>. <b>ὀμφακο·ράξ, ᾶγος (ὁ, ἡ)</b> <font color="purple">[ᾰκᾱγ]</font> aux grappes encore vertes, ANTH. <i>9, 561</i>.<p><b>Étym</b>. ὄμφαξ, ῥάξ.`

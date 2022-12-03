@@ -1,1 +1,0 @@
-lar[74042]=`<b>ατος (τὸ)</b> mets apprêté, SPT. <i>Judith 12, 1</i>.<p><b>Étym</b>. ὀψοποιέω.`

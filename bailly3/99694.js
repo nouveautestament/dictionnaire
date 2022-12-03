@@ -1,1 +1,0 @@
-lar[99694]=`<font color="purple">[ᾰ]</font> <i>adv., seul. épq</i>. τοσσάκι, IL. <i>21, 268 ; 22, 197</i> ; SIM. (ANTH. <i>6, 213</i>) ; CALL. <i>Cer. 14 ; avec élis</i>. τοσσάχ' (ὕδωρ) OD. <i>11, 586,</i> autant de fois.<p><b>Étym</b>. τόσος, -άκις.`

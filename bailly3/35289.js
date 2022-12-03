@@ -1,1 +1,0 @@
-lar[35289]=`<b>ἐξ·αδυνατέω-ῶ</b> <font color="purple">[ᾰῠᾰ]</font> devenir impuissant, sans force, ARSTT. <i>H.A. 6, 21, 2</i> ; PLUT. <i>M. 53d, Alc. 23, Mar. 33</i> ; POL. <i>1, 58, 5 ; 10, 30, 3 ; avec l’inf</i>. ARSTT. <i>Pol. 3, 11, 19, etc</i>.`

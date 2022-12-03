@@ -1,1 +1,0 @@
-lar[90199]=`<b>ης (ἡ)</b> Sidoussa, <i>v. d’Ionie,</i> THC. <i>8, 24</i>.<p><b>Étym</b>. <i>contr. de</i> σιδόεσσα, <i>fém. de</i> σιδόεις.`

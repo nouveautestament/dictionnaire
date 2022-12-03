@@ -1,1 +1,0 @@
-lar[15173]=`<b>ἀ·ρρίπιστος, ος, ον</b> <font color="purple">[ρῑ]</font> non ventilé, GAL. <i>10, 251</i>.<p><b>Étym</b>. ἀ, ῥιπίζω.`

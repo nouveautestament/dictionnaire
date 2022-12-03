@@ -1,1 +1,0 @@
-lar[3996]=`<b>ος, ον</b> <font color="purple">[ῡ]</font> non confirmé, <i>d’où</i> incertain, EUR. <i>Ion 801</i>.<p><b>Étym</b>. ἀκυρόω.`

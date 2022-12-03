@@ -1,1 +1,0 @@
-lar[51181]=`<b>καλλι·πάρῃος, ος, ον</b> <font color="purple">[ῐᾰ]</font> aux belles joues, IL. <i>1, 143</i> ; OD. <i>15, 123, etc.</i> ; ANTH. <i>9, 96</i>.<p><b>Étym</b>. κ. παρειά.`

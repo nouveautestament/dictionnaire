@@ -1,1 +1,0 @@
-lar[20196]=`<b>βοό·στολος, ος, ον</b>, porté par un bœuf, monté sur un bœuf, NONN. <i>D. 1, 66</i>.<p><b>Étym</b>. βοῦς, στέλλω.`

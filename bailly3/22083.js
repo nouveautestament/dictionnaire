@@ -1,1 +1,0 @@
-lar[22083]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. γλαφυρία, LUC. <i>Demon. 6</i> ; PHIL. <i>1, 170</i>.`

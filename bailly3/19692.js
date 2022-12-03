@@ -1,1 +1,0 @@
-lar[19692]=`<font color="purple">[ῐ]</font> <i>part. masc. d’un verbe inus., dans la loc</i>. μακρὰ β. IL. <i>13, 809 ; 15, 676 ; 16, 534,</i> qui fait de grandes enjambées, de grands pas.<p><b>Étym</b>. <i>cf</i>. βιβάω.`

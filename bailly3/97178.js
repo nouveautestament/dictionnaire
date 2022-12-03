@@ -1,1 +1,0 @@
-lar[97178]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> du corps, corporel, ARSTT. <i>Nic. 1, 12, 6, etc.</i><br><b>      2</b> corporel, matériel, <i>p. opp. à</i> ἀσώματος, T. LOCR. <i>96a ;</i> ARSTT. <i>Metaph. 1, 5, 14, etc</i>.<p>•<i> Cp</i>. -ώτερος, TH. <i>C.P. 1, 14, 3 ; • Sup</i>. -ώτατος, TH. <i>fr. 1, 37</i>.<p><b>Étym</b>. σῶμα.`

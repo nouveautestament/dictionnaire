@@ -1,1 +1,0 @@
-lar[84795]=`<b>πρό·νοος-ους, οος-ους, οον-ουν</b>, prévoyant, prudent, HDT. <i>3, 36</i> ; ESCHL. <i>Suppl. 969</i>.<p>•<i> Cp</i>. -νούστερος, SOPH. <i>Aj. 119</i>.<p><b>Étym</b>. π. νόος.`

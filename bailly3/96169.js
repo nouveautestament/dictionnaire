@@ -1,1 +1,0 @@
-lar[96169]=`<b>συν·ομηρεύω</b>, être otage ensemble, POL. <i>21, 9, 9</i>.`

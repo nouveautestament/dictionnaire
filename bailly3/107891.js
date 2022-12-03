@@ -1,1 +1,0 @@
-lar[107891]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Khariadès, <i>Athénien,</i> IS. <i>4, 3, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Χαρίας.`

@@ -1,1 +1,0 @@
-lar[85559]=`<b>προσ·ελυτρόω-ῶ</b>, couvrir d’une nouvelle enveloppe, PITHYLLOS (ATH. <i>6c</i>).`

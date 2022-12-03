@@ -1,1 +1,0 @@
-lar[57357]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κοτύλιον PHÉRÉCR. (ATH. <i>479b</i>).`

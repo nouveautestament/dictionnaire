@@ -1,1 +1,0 @@
-lar[106706]=`<b>φορμο·ρραφέω-ῶ</b> <font color="purple">[ᾰ]</font> coudre dans une natte, <i>fig. càd</i>. mettre à l’étroit, dans une situation gênante, réduire aux extrémités, ESCHN. <i>77, 28</i>.<p><b>Étym</b>. φορμός, ῥάπτω.`

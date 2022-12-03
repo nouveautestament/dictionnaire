@@ -1,1 +1,0 @@
-lar[41990]=`<b>εὐ·εξάλειπτος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à effacer, XÉN. <i>Hell. 2, 3, 53, au cp</i>. -ότερος.<p><b>Étym</b>. εὖ, ἐξαλείφω.`

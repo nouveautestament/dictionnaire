@@ -1,1 +1,0 @@
-lar[95409]=`<b>συν·εκταπεινόω-ῶ</b> <font color="purple">[ᾰ]</font>, abaisser aussi <i>ou</i> en même temps, PLUT. <i>M. 529e</i>.`

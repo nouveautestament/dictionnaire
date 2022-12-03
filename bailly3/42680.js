@@ -1,1 +1,0 @@
-lar[42680]=`<b>εὐ·μετακύλιστος, ος, ον</b> <font color="purple">[ῠ]</font> facile à rouler <i>ou</i> à déplacer, GAL. <i>2, 4</i>.<p><b>Étym</b>. εὖ, μετακυλίω.`

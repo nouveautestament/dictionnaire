@@ -1,1 +1,0 @@
-lar[31497]=`<b>ἐκ·κρέμαμαι</b> <font color="purple">[μᾰ]</font> être suspendu, HPC. <i>836 c et h ; fig</i>. τινος, PLAT. <i>Ion 536a ;</i> PLUT. <i>Mar. 12</i> ; ANTH. <i>9, 411, 4,</i> être suspendu à (un désir, une espérance), se rattacher à, <i>etc.</i> ; ὁ λαὸς ἅπας ἐξεκρέματο αὐτοῦ ἀκούων, NT. <i>Luc. 20, 48,</i> tout le peuple l’écoutait suspendu à ses lèvres.`

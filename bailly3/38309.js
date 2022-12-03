@@ -1,1 +1,0 @@
-lar[38309]=`<b>ἐπι·λιμνάζω</b> (<i>part. pf. pass</i>. ἐπιλελιμνασμένος) former un marais en couvrant d’eaux stagnantes, PLUT. <i>Cæs. 25</i>.`

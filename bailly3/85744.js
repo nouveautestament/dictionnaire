@@ -1,1 +1,0 @@
-lar[85744]=`<b>προσ·επιτρίβω</b> <font color="purple">[ῑβ]</font> broyer encore plus, <i>càd.</i> :<br><b>      1</b> accabler encore, <i>acc</i>. PLUT. <i>M. 1048e ;</i> HLD. <i>1, 44</i> ; HIPPIATR. <i>p. 123</i>.<br><b>      2</b> rendre encore plus douloureux, <i>acc</i>. CHRYS.`

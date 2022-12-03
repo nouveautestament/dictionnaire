@@ -1,1 +1,0 @@
-lar[63409]=`<b>μεγαλο·πράγμων, ων, ον</b>, <i>gén</i>. <b>-ονος</b> <font color="purple">[γᾰ]</font> qui entreprend de grandes choses, XÉN. <i>Hell. 5, 2, 36</i> ; PLUT. <i>Ages. 32</i>.<p><b>Étym</b>. μ. πρᾶγμα.`

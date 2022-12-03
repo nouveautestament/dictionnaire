@@ -1,1 +1,0 @@
-lar[58424]=`<b>ή, όν</b> <font color="purple">[ῠῠ]</font> qui est le produit de la multiplication de deux nombres cubiques, <i>càd</i>. élevé à la 6<sup>e</sup> puissance, DIOPH. <i>Arithm. p. 3, 5, 6</i>.<p><b>Étym</b>. κυβόκυβος.`

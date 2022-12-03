@@ -1,1 +1,0 @@
-lar[27846]=`<b>(ὁ)</b> <font color="purple">[ᾱῐᾰ]</font> <i>dor</i>. fils d’un esclave fugitif, MOSCH. <i>1, 3</i>.<p><b>Étym</b>. δραπέτης.`

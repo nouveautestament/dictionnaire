@@ -1,1 +1,0 @@
-lar[110202]=`<b>Ὠκυ·ρόη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Ôkyroè :<br><b>      1</b> <i>fille d’Ôkéanos,</i> HH. <i>Cer. 420</i> ; HÉS. <i>Th. 360</i>.<br><b>      2</b> <i>autre,</i> Q. SM. <i>11, 37</i>.<p><b>Étym</b>. <i>cf</i>. ὠκυρόης.`

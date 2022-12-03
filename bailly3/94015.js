@@ -1,1 +1,0 @@
-lar[94015]=`<b>σύμ·μολπος, ος, ον</b>, qui chante avec, EUR. <i>Ion 165</i>.<p><b>Étym</b>. σ. μολπή.`

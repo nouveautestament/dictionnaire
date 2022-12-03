@@ -1,1 +1,0 @@
-lar[93188]=`<b>ορος (ὁ)</b> père commun, PLAT. <i>Leg. 874c</i>.<p><b>Étym</b>. συγγεννάω.`

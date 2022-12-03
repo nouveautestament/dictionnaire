@@ -1,1 +1,0 @@
-lar[104474]=`<b>ὑψί·βατος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui monte, <i>ou</i> s’élève, <i>d’où</i> haut, élevé, PD. <i>N. 10, 88</i> ; SOPH. <i>Aj. 1404</i>.<p><b>Étym</b>. ὕψι, βαίνω.`

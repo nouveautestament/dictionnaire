@@ -1,1 +1,0 @@
-lar[79796]=`<b>εως (ἡ)</b> destruction d’une ville, ARSTT. <i>Poet. 18, 15 ; 23, 7</i> ; PAUS. <i>10, 25, 5, etc</i>.<p><b>Étym</b>. πέρθω.`

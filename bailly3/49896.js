@@ -1,1 +1,0 @@
-lar[49896]=`<b>ή, όν</b> (<i>seul. cp</i>. -ώτερος) propre à faire maigrir, ARSTT. <i>Probl. 5, 40</i>.<p><b>Étym</b>. ἰσχναίνω.`

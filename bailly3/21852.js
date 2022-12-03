@@ -1,1 +1,0 @@
-lar[21852]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> constructeur d’un pont, PLUT. <i>Luc. 26</i>.<p><b>Étym</b>. γεφυρόω.`

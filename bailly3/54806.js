@@ -1,1 +1,0 @@
-lar[54806]=`<b>κεραμιδόω-ῶ</b> <font color="purple">[ᾰ]</font> couvrir en tuiles, ARSTT. <i>Phys. 7, 3, 17</i>.<p><b>Étym</b>. κεραμίς.`

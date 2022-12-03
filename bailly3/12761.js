@@ -1,1 +1,0 @@
-lar[12761]=`<b>ἀπο·ληΐζομαι</b>, <i>ion</i>. emporter du butin, piller, HDT. <i>1, 69</i>.`

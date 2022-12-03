@@ -1,1 +1,0 @@
-lar[43873]=`<b>εὔ·ωρος, ος, ον</b>, qui ne prend pas soin de, qui néglige, <i>gén</i>. EUPH. <i>fr. 102</i>.<p><b>Étym</b>. εὖ, ὤρα.`

@@ -1,1 +1,0 @@
-lar[70988]=`<b>ὀλιγ·ήμερος, ος, ον</b> <font color="purple">[ῐ]</font> de peu de jours <i>ou</i> en peu de jours, HPC. <i>386, 11</i>.<p>•<i> Cp</i>. -ώτερος, HPC. <i>l. c. ; • Sup</i>. -ώτατος, HPC. <i>Art. 829</i>.<p><b>Étym</b>. ὀλ. ἡμέρα.`

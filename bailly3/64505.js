@@ -1,1 +1,0 @@
-lar[64505]=`<b>μεσό·γαια, ας (ἡ)</b> l’intérieur des terres, HDT. <i>1, 175 ; 2, 7 et 9, etc</i>.<p><b>Étym</b>. μέσος, γαῖα.`

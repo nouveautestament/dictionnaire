@@ -1,1 +1,0 @@
-lar[48444]=`<b>ἰδιό·τυπος, ος, ον</b> <font color="purple">[ῐδῠ]</font> qui a un type particulier, une forme originale, HERM. (STOB. <i>Ecl. 1, 938).</i><p><b>Étym</b>. ἴδ. τύπος.`

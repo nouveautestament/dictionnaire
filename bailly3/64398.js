@@ -1,1 +1,0 @@
-lar[64398]=`<b>Μερκηδόνιος μήν (ὁ)</b> = <i>lat</i>. mensis Mercedonius, PLUT. <i>Cæs. 59</i>.`

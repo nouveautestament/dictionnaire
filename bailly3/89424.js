@@ -1,1 +1,0 @@
-lar[89424]=`arracher par morceaux : τὸ δέρμα, HDT. <i>4, 64,</i> la peau.<p><b>Étym</b>. σάρξ.`

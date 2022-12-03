@@ -1,1 +1,0 @@
-lar[48450]=`<b>ἰδιόω-ῶ</b> <font color="purple">[ῐδ]</font> donner en propre, <i>d’où moy.</i> :<br><b>      1</b> s’approprier, <i>acc</i>. PLAT. <i>Rsp. 547b, Leg. 742b.</i><br><b>      2</b> se concilier, <i>acc</i>. DC. <i>39, 29</i>.<p><b>Étym</b>. ἴδιος.`

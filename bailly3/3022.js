@@ -1,1 +1,0 @@
-lar[3022]=`<b>αἰωνο·τόκος, ος, ον</b>, qui engendre l’éternité, SYN.<p><b>Étym</b>. αἰών, τίκτω.`

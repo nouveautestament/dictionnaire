@@ -1,1 +1,0 @@
-lar[21100]=`<b>ή, όν</b>, de bouffon, de mauvais plaisant, LUC. <i>Herm. 58</i>.<p><b>Étym</b>. βωμολόχος.`

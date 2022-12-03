@@ -1,1 +1,0 @@
-lar[2603]=`<b>ή, όν</b>, qui concerne <i>ou</i> provoque les flux de sang, les hémorrhoïdes, HPC. <i>Aph. 1254</i>.<p><b>Étym</b>. αἱμόρροια.`

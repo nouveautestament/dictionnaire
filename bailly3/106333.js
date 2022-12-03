@@ -1,1 +1,0 @@
-lar[106333]=`<b>φλεβο·τμής, ῆτος (ὁ, ἡ)</b> qui a une veine coupée <i>ou</i> les veines coupées, HDN (SCH.-IL. <i>16, 44).</i><p><b>Étym</b>. φλέψ, τέμνω.`

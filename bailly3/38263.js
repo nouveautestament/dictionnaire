@@ -1,1 +1,0 @@
-lar[38263]=`<b>εως (ἡ)</b> action de polir, PHIL. <i>1, 254</i>.<p><b>Étym</b>. ἐπιλεαίνω.`

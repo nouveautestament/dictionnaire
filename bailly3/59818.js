@@ -1,1 +1,0 @@
-lar[59818]=`<b>λαο·πόρος</b>, <i>att</i>. <b>λεω·πόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui procure le passage au peuple <i>ou</i> à l’armée, ESCHL. <i>Pers. 113</i>.<p><b>Étym</b>. λ. πόρος.`

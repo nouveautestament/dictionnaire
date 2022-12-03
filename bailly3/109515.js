@@ -1,1 +1,0 @@
-lar[109515]=`<b>ψαλ·άκανθα, ης (ἡ)</b> <font color="purple">[ᾰᾰκ]</font> plante épineuse dont on nourrissait les chevaux <i>en Égypte,</i> EUB. <i>fr. 28 Kock</i>.<p><b>Étym</b>. ψαλάσσω, ἄκανθα.`

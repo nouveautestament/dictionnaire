@@ -1,1 +1,0 @@
-lar[55258]=`être semblable à de la cire <i>ou</i> sécréter un suc semblable à de la cire, ARSTT. <i>H.A. 5, 15, 4</i>.<p><b>Étym</b>. κηρός.`

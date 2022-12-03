@@ -1,1 +1,0 @@
-lar[14930]=`<b>ή, όν</b>, qu’on peut adapter, THEOL. <i>34</i>.<p><b>Étym</b>. ἁρμόζω.`

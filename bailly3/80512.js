@@ -1,1 +1,0 @@
-lar[80512]=`<b>πιτνάω-ῶ</b> (<i>seul. 3 sg. impf. épq</i>. πίτνα <font color="purple">[ᾱ]</font>) <i>c</i>. πίτνημι, IL. <i>21, 7</i>.`

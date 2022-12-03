@@ -1,1 +1,0 @@
-lar[27933]=`<b>δρομο·κῆρυξ, υκος (ὁ)</b> <font color="purple">[ῡκ]</font> courrier, ESCHN. <i>F. leg. § 130 Baiter-Sauppe</i> ; DC. <i>78, 35</i> ; POLYEN <i>5, 27</i>.<p><b>Étym</b>. δρόμος, κῆρυξ.`

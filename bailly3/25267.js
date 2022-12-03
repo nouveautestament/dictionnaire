@@ -1,1 +1,0 @@
-lar[25267]=`<b>δια·πικραίνομαι</b> <font color="purple">[πῐ]</font> (<i>seul. prés. 3 pl</i>. -αίνονται) être très amer, <i>càd</i>. très dur : πρός τινα, PLUT. <i>M. 457a</i>, pour qqn.`

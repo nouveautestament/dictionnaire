@@ -1,1 +1,0 @@
-lar[8190]=`<b>ἀν·ειλείθυια, ας</b>, <i>adj. f</i>. que n’a pas assistée la déesse Eileithyia, <i>càd</i>. qui n’a pas encore enfanté, EUR. <i>Ion 453</i>.<p><b>Étym</b>. ἀν-, Εἰλείθυια.`

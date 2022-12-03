@@ -1,1 +1,0 @@
-lar[63727]=`<b>μειρακι·εξαπάτης, ου (ὁ)</b> <font color="purple">[ᾰᾰᾰ]</font> séducteur de la jeunesse, <i>ép. des philosophes,</i> HÉGÉSANDRE (ATH. <i>162a</i>).<p><b>Étym</b>. μειράκιον, ἐξαπατάω.`

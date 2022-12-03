@@ -1,1 +1,0 @@
-lar[77182]=`<b>παρ·φυγέειν</b> <font color="purple">[ῠ]</font> <i>inf. ao.2,</i> fuir le long <i>ou</i> devant, <i>dat</i>. OD. <i>12, 99</i>.<p><b>Étym</b>. <i>poét. c</i>. παραφεύγω <i>de</i> π. φεύγω.`

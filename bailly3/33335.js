@@ -1,1 +1,0 @@
-lar[33335]=`<b>ἐμ·παρασκευάζω</b>, préparer, produire, causer, CLIN. (STOB. <i>p. 3, 19</i>) ; EN. TACT. <i>Pol. c. 9</i>.<p><b>Étym</b>. ἐν, π.`

@@ -1,1 +1,0 @@
-lar[32037]=`<b>ἐκ·σιφωνίζω</b> <font color="purple">[σῑ]</font> épuiser à l’aide d’un siphon, <i>d’où</i> épuiser, <i>en gén</i>. SPT. <i>Job 5, 5</i>.<p><b>Étym</b>. ἐκ, σίφων.`

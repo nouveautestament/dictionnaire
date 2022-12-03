@@ -1,1 +1,0 @@
-lar[93393]=`<b>συγ·καταψεύδομαι</b>, calomnier en même temps, ESCHN. <i>49, 21</i>.`

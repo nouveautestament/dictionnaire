@@ -1,1 +1,0 @@
-lar[98803]=`(<i>pf</i>. τετεύτακα) s’occuper longtemps d’une même chose, y insister, PHÉRÉCR. (<i>Com. fr. 2, 354</i>) ; περί τι, PLAT. <i>Rsp. 521e, Phil. 59e, Tim. 90b</i>, s’appliquer à qqe ch.<br><b><i>Moy.</i></b> <i>m. sign</i>. THÉM. (<i>mot blâmé par</i> LUC. <i>Lex. 21</i>).`

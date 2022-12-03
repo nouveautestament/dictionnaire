@@ -1,1 +1,0 @@
-lar[109280]=`<b>χρυσό·τυπος, ος, ον</b> <font color="purple">[ῡῠ]</font> fait d’or battu, EUR. <i>El. 470</i> ; CRITIAS <i>1, 7</i>.<p><b>Étym</b>. χρ. τύπτω.`

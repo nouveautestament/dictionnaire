@@ -1,1 +1,0 @@
-lar[33547]=`<b>α, ον</b>, qui préside au commerce (Hermès) AR. <i>Ach. 816, etc</i>.<p><b>Étym</b>. ἐμπολή.`

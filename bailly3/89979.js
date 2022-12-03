@@ -1,1 +1,0 @@
-lar[89979]=`<b>ου (τὸ)</b> <font color="purple">[ῑδ]</font> <i>dim. de</i> σηπία, HPC. <i>649, 35</i> ; AR. <i>fr. 242 Dind.</i> ; ARSTT. <i>H.A. 5, 18</i>.`

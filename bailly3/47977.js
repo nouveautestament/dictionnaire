@@ -1,1 +1,0 @@
-lar[47977]=`<b>ας (ἡ)</b> action de guetter les thons, STR. <i>834</i>.<p><b>Étym</b>. θυννοσκόπος.`

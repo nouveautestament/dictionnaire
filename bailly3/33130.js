@@ -1,1 +1,0 @@
-lar[33130]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> intercalé, intercalaire (mois, jour, <i>etc</i>.) HDT. <i>1, 32 ; 2, 4</i> ; DS. <i>1, 50</i> ; PLUT. <i>Num. 18</i> ; τὰ ἐμβ. ARSTT. <i>Poet. 18, 20,</i> les interpolations.<br><b>      2</b> <i>p. suite,</i> supposé (enfant) EUP. <i>2-1, 477 Meineke</i>.<p><b>Étym</b>. ἐμβολή.`

@@ -1,1 +1,0 @@
-lar[86210]=`<i>adv</i>., avec quelque ressemblance, PLAT. <i>Leg. 811c</i>.<p><b>Étym</b>. προσόμοιος.`

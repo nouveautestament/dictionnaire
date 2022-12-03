@@ -1,1 +1,0 @@
-lar[109624]=`<b>ας (ἡ)</b> fausse nouvelle, XÉN. <i>Hipp. 5, 8</i> ; DC. <i>49, 28</i>.<p><b>Étym</b>. ψευδάγγελος.`

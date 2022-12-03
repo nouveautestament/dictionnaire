@@ -1,1 +1,0 @@
-lar[63967]=`<b>ή, όν :<br>      1</b> qui convient pour qu’on s’exerce, propre à un exercice, CLÉM. <i>204</i>.<br><b>      2</b> μ. ὕλη, DL. <i>3, 47,</i> recueil d’exercices <i>ou</i> de méditations.<p><b>Étym</b>. μελετάω.`

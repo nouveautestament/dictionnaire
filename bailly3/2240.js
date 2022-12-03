@@ -1,1 +1,0 @@
-lar[2240]=`<b>*αἰγί·κνημος</b>, <i>dor</i>. <b>αἰγί·κναμος, ος, ον</b> <font color="purple">[ᾱ]</font> aux jambes de chèvre, ANTH. <i>6, 167</i>.<p><b>Étym</b>. αἴξ, κνήμη.`

@@ -1,1 +1,0 @@
-lar[87000]=`<b>προ·χάνη</b>, <i>dor</i>. <b>προ·χάνα, ας</b> (ἁ) <font color="purple">[ᾰνᾱ]</font> prétexte, CALL. <i>Cer. 73, fr. 26</i>.<p><b>Étym</b>. π. χαίνω.`

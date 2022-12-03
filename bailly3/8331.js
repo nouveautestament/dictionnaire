@@ -1,1 +1,0 @@
-lar[8331]=`<b>ἀν·έμπλοος, οος, οον</b>, sur lequel on ne peut naviguer, NONN. <i>Jo. 6, 90</i>.<p><b>Étym</b>. ἀν-, ἐμπλέω.`

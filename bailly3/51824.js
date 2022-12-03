@@ -1,1 +1,0 @@
-lar[51824]=`<b>καρκινόω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> recourber en forme de pince de crabe, ANTIPH. (ATH. <i>667a</i>) ; <i>d’où au pass</i>. se recourber, TH. <i>H.P. 1, 6, 3, etc.</i><br><b>      2</b> <i>au pass</i>. être atteint d’un cancer, HPC. <i>570, 30</i>.<p><b>Étym</b>. καρκίνος.`

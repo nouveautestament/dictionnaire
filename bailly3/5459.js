@@ -1,1 +1,0 @@
-lar[5459]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ἡμερήσιος.`

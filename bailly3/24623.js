@@ -1,1 +1,0 @@
-lar[24623]=`<b>εως (ἡ)</b> ceinture (du zodiaque) EUDÈME RH. (THÉON SM. <i>198, 15).</i><p><b>Étym</b>. διαζώννυμι.`

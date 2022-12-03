@@ -1,1 +1,0 @@
-lar[91701]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>   I</b> petite spatule de tisserand, ANTH. <i>6, 283</i>.<br><b>   II</b> <i>p. anal.</i> :<br><b>      1</b> petite spatule de chirurgien, GAL. <i>4, 191</i>.<br><b>      2</b> plat d’une petite épée, MATH. <i>p. 318a.</i><br><b>      3</b> petite étrille, HIPPIATR.<p><b>Étym</b>. <i>dim. de</i> σπάθη.`

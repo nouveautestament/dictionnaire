@@ -1,1 +1,0 @@
-lar[78623]=`<b>ός, όν</b>, entouré d’une bordure, ANTIPH. (<i>Com. fr. 3, 84).</i><p><b>Étym</b>. περιηγέομαι.`

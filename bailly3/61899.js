@@ -1,1 +1,0 @@
-lar[61899]=`<b>α, ον</b> <font color="purple">[ῠ]</font> du fleuve Lykormas, <i>autre n. du fl</i>. Εὐηνός, LYC. <i>1012</i>.`

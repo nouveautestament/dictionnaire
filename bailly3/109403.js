@@ -1,1 +1,0 @@
-lar[109403]=`<b>ας (ἡ)</b> claudication, PLAT. <i>Hipp. mi. 374c ;</i> LUC. <i>V. auct. 21</i>.<p><b>Étym</b>. χωλεύω.`

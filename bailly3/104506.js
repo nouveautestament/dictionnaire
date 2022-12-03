@@ -1,1 +1,0 @@
-lar[104506]=`<b>ὑψί·κρημνος, ος, ον :<br>      1</b> aux escarpements élevés <i>ou</i> profonds, HOM. <i>Epigr. 6, 4</i>.<br><b>      2</b> bâti sur une hauteur escarpée, ESCHL. <i>Pr. 421</i>.<p><b>Étym</b>. ὕ. κρημνός.`

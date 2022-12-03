@@ -1,1 +1,0 @@
-lar[107349]=`<i>adv</i>., de Phocée, LUC. <i>Lex. 7</i>.<p><b>Étym</b>. Φώκαια, -θεν.`

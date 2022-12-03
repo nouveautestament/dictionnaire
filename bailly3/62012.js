@@ -1,1 +1,0 @@
-lar[62012]=`<b>Λυσι·άνασσα, ης (ἡ)</b> <font color="purple">[ῡᾰν]</font> Lysianassa, <i>Néréide,</i> HÉS. <i>Th. 258</i>.<p><b>Étym</b>. λύω, ἄνασσα.`

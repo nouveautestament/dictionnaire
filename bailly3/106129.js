@@ -1,1 +1,0 @@
-lar[106129]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour pour ses enfants, PLUT. <i>M. 14b ;</i> HDN <i>6, 5, 18</i> ; DL. <i>1, 26</i>.<p><b>Étym</b>. φιλότεκνος.`

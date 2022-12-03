@@ -1,1 +1,0 @@
-lar[72199]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec emportement, SOPH. <i>Ant. 955 conj</i>.`

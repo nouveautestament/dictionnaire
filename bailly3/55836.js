@@ -1,1 +1,0 @@
-lar[55836]=`<b>ου (ὁ)</b> Kleinias (Clinias) :<br><b>      1</b> <i>père d’Alcibiade,</i> AR. <i>Ach. 716</i> ; PLUT. <i>Alc. 1</i>.<br><b>      2</b> <i>frère d’Alcibiade,</i> PLAT. <i>Prot. 320a.</i><br><b>      3</b> <i>fils d’Axiokhos,</i> PLAT. <i>Euthyd. 273a</i> etc.<p>➳ <i>Voc</i>. -ία, PLAT. <i>Euthyd. 273c. Ion</i>. -ίης, HDT. <i>8, 17</i>.<p><b>Étym</b>. κλεινός.`

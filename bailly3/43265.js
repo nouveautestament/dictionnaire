@@ -1,1 +1,0 @@
-lar[43265]=`<b>εὐρυ·δίνης, ου</b> <font color="purple">[ῠῑ]</font> <i>adj. m</i>. aux larges tourbillons, BACCHYL. <i>3, 6 ; 5, 38</i>.<p><b>Étym</b>. εὐ. δίνη.`

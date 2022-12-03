@@ -1,1 +1,0 @@
-lar[61479]=`<b>(ἡ)</b> <font color="purple">[ᾱ]</font> Longâtis, <i>ép. d’Athèna,</i> LYC. <i>520, 1032</i>.`

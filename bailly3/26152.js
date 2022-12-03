@@ -1,1 +1,0 @@
-lar[26152]=`<b>δι·εκτέμνω</b> (<i>seul. prés</i>.) couper en deux, séparer, <i>acc</i>. JOS. <i>B.J. 3, 10, 7</i>.`

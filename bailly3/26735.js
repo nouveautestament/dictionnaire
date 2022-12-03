@@ -1,1 +1,0 @@
-lar[26735]=`<b>εως (ἡ)</b> changement de résidence, émigration, LYS. <i>901 Reiske conj</i>.<p><b>Étym</b>. διοικίζω.`

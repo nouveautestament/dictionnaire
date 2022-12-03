@@ -1,1 +1,0 @@
-lar[27334]=`<b>ου (ὁ)</b> obscurité, ténèbres, SIM. <i>fr. 37, 8 ; au pl</i>. ESCHL. <i>Ch. 52</i>.<p>➳ <i>Postér</i>. γνόφος, LUC. <i>Per. 42</i> ; SPT. <i>Ex. 10, 22 ; au plur</i>. ARSTT. <i>Mund. 2</i> ; D. CHRYS. <i>2, 51</i>.<p><b>Étym</b>. <i>cf</i>. κνέφας.`

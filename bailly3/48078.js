@@ -1,1 +1,0 @@
-lar[48078]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> sacrifice, SPT. <i>Ex. 23, 18 ; 29, 18 ; Lev. 2, 13 ; Num. 18, 9 ; Jud. 16, 23 ; 2Esdr. 6, 3</i>.<p><b>Étym</b>. θυσιάζω.`

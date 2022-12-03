@@ -1,1 +1,0 @@
-lar[14735]=`<b>Ἀριστο·νόη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Aristonoè, <i>f</i>. DÉM. <i>42, 27 Baiter-Sauppe</i> ; ANTH. <i>5, 53</i>.<p><b>Étym</b>. <i>fém. de</i> Ἀριστόνοος.`

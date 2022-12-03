@@ -1,1 +1,0 @@
-lar[65949]=`<b>ας (ἡ)</b> <font color="purple">[ῑᾰδ]</font> haine entre frères, PLUT. <i>M. 478c</i>.<p><b>Étym</b>. μισάδελφος.`

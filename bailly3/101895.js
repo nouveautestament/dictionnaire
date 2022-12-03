@@ -1,1 +1,0 @@
-lar[101895]=`<b>ὑπ·αικάλλω</b> <font color="purple">[ῠ]</font> caresser, cajoler, EL. <i>N.A. 4, 45, etc</i>.`

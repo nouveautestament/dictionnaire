@@ -1,1 +1,0 @@
-lar[63505]=`<b>ου (ἡ)</b> Mégarsos, <i>v. de Cilicie,</i> LYC. <i>1145</i>.`

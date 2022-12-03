@@ -1,1 +1,0 @@
-lar[79284]=`<b>περι·σκυλακισμός, οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> immolation d’un chien comme victime expiatoire, PLUT. <i>Rom. 21, etc</i>.<p><b>Étym</b>. π. σκύλαξ.`

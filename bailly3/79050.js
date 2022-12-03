@@ -1,1 +1,0 @@
-lar[79050]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> vive affection de l’âme, PHIL. <i>1, 158</i>.<p><b>Étym</b>. περιπαθέω.`

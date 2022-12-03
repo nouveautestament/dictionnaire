@@ -1,1 +1,0 @@
-lar[8503]=`<b>ἀν·επισφαλής, ής, ές</b> <font color="purple">[φᾰ]</font> qui n’expose pas à glisser, sûr, THÉM. <i>190a</i>.<p><b>Étym</b>. ἀν-, ἐ.`

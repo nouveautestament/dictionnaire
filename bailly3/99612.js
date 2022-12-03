@@ -1,1 +1,0 @@
-lar[99612]=`<b>τοξο·ποιέω-ῶ</b>, arquer, recourber : τὰς ὀφρῦς, AR. <i>Lys. 8</i> ; ALCIPHR. <i>3, 19, 2, etc</i>. froncer les sourcils ; εἴς τινα, LGS <i>4, 20,</i> en signe de mécontentement contre qqn.<p><b>Étym</b>. τόξον, ποιέω.`

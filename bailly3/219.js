@@ -1,1 +1,0 @@
-lar[219]=`<font color="purple">[ᾰῡ]</font> <i>adv</i>., à Abydos, <i>sans mouv</i>. IL. <i>17, 584</i>.<p><b>Étym</b>. Ἄ. -θι.`

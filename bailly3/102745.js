@@ -1,1 +1,0 @@
-lar[102745]=`<b>ὑπερ·περισσεύω</b>, <i>att</i>. <b>ὑπερ·περιττεύω</b>, surabonder, MOSCHION <i>Mul. pass. p. 6 ; fig</i>. NT. <i>Rom. 5, 20</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NT. <i>2Cor. 7, 4</i>.<p><b>Étym</b>. *ὑπερπέρισσος, <i>v</i>. ὑπερπερίσσως.`

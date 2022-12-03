@@ -1,1 +1,0 @@
-lar[17636]=`<b>ας (ἡ)</b> l’amertume même, CHRYS.<p><b>Étym</b>. αὐ. πικρός.`

@@ -1,1 +1,0 @@
-lar[21952]=`<b>γηρο·κόμος, ος, ον</b>, qui prend soin de la vieillesse, HÉS. <i>Th. 605</i> ; OPP. <i>H. 5, 85</i> ; ALCIPHR. <i>3, 16, etc</i>.<p><b>Étym</b>. γῆρας, -κομέω.`

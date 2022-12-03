@@ -1,1 +1,0 @@
-lar[74414]=`<b>παλαί·θετος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> établi depuis longtemps, <i>d’où</i> ancien, ION (ATH. <i>634f</i>).<br><b>      2</b> mis en réserve depuis longtemps, CALL. <i>fr. 459</i>.<p><b>Étym</b>. π. θετός.`

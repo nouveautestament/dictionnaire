@@ -1,1 +1,0 @@
-lar[60743]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui fait oublier, LUC. <i>Salt. 79</i>.<p><b>Étym</b>. λήθη.`

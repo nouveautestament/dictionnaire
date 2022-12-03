@@ -1,1 +1,0 @@
-lar[98703]=`<b>τετρά·φυλος, ος, ον</b> <font color="purple">[ᾰῡ]</font> divisé en quatre tribus, HDT. <i>5, 66</i> ; DH. <i>4, 14</i>.<p><b>Étym</b>. τ. φυλή.`

@@ -1,1 +1,0 @@
-lar[67656]=`<b>ου (τὸ)</b> petite boîte à serrer des onguents et des remèdes, DIOSC. <i>Noth. p. 448</i>.<p><b>Étym</b>. <i>dim. de</i> νάρθηξ.`

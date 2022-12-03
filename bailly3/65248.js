@@ -1,1 +1,0 @@
-lar[65248]=`<b>ης (ἡ)</b> Métôpè :<br><b>      1</b> <i>f</i>. PD. <i>O. 6, 84</i>.<br><b>      2</b> <i>fl. d’Arcadie,</i> CALL. <i>Jov. 26</i> ; EL. <i>V.H. 2, 32</i>.`

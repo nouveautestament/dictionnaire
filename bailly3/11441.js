@@ -1,1 +1,0 @@
-lar[11441]=`<b>ἀπ·άτερθε</b>, <i>dev. une voy</i>. <b>ἀπάτερθεν</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., à l’écart, IL. <i>2, 587</i> ; THGN. <i>1059</i> ; PD. <i>O. 7, 74 ; avec le gén</i>. loin de, IL. <i>5, 445</i>.<p><b>Étym</b>. ἀπό, ἄτερθε.`

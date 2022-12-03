@@ -1,1 +1,0 @@
-lar[92692]=`<b>εως (ἡ) :<br>      1</b> agencement des éléments, formation, SPT. <i>2Macc. 7, 22</i> ; TAT. <i>Or. ad Græc. c. 825 Migne</i>.<br><b>      2</b> action d’enseigner les éléments, DL. <i>10, 37</i> ; HIÉROCL. <i>C. aur. p. 445 Mullach</i>.<br><b>      3</b> livre d’éléments, <i>particul</i>. de mathématiques, DL. <i>10, 44</i>.<p><b>Étym</b>. στοιχειόω.`

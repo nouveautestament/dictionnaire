@@ -1,1 +1,0 @@
-lar[109047]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> frémissement <i>ou</i> craquement, IL. <i>23, 688</i>.<p><b>Étym</b>. χρεμέθω ; <i>cf</i>. χρεμετίζω, χρέμπτομαι.`

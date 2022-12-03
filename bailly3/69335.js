@@ -1,1 +1,0 @@
-lar[69335]=`<b>νωτ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui porte sur le dos, HIPPIATR.<p><b>Étym</b>. νῶτος, ἄγω.`

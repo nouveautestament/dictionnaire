@@ -1,1 +1,0 @@
-lar[89950]=`<b>σημειο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui écrit en signes convenus, sténographe, PLUT. <i>Cato mi. 23</i>.<p><b>Étym</b>. σημεῖον, γράφω.`

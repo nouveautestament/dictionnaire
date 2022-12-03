@@ -1,1 +1,0 @@
-lar[31675]=`<b>ἐκ·μηκύνω</b> <font color="purple">[ῠ]</font> prolonger, DH. <i>6, 83</i> ; JOS. <i>B.J. 7, 8, 3 ; au pass</i>. DH. <i>1, 56 ; 4, 13 ; Isocr. 10</i>.`

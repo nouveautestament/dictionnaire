@@ -1,1 +1,0 @@
-lar[10572]=`<b>ἀντι·φράζω</b>, exprimer par le contraire, par antithèse <i>ou</i> par négation, GAL. <i>13, 143</i> ; RHÉT. <i>8, 755 W</i>.`

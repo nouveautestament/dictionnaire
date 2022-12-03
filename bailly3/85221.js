@@ -1,1 +1,0 @@
-lar[85221]=`<b>προσ·απαγορεύω</b> <font color="purple">[ᾰγ]</font> défendre <i>ou</i> refuser en outre, DC. <i>38, 34 ; 48, 43</i>.`

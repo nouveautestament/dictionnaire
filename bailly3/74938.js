@@ -1,1 +1,0 @@
-lar[74938]=`<b>παν·δίκως</b> <font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> avec toute justice, ESCHL. <i>Sept. 172, etc.</i><br><b>      2</b> sûrement, exactement, SOPH. <i>Tr. 611, etc.</i> ; absolument, SOPH. <i>Tr. 1247</i>.`

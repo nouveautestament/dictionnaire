@@ -1,1 +1,0 @@
-lar[44711]=`<b>ζω·θήκη, ης (ἡ)</b> (<i>seul. lat</i>. zōthēcă) cabinet de repos pour faire la sieste, PLIN. MIN. <i>Ep. 2, 17</i>.<p><b>Étym</b>. ζάω, θήκη.`

@@ -1,1 +1,0 @@
-lar[68305]=`<b>ός, όν</b>, nouvellement fait <i>ou</i> travaillé, PLAT. <i>Rsp. 495e ;</i> PLUT. <i>Æmil. 18, M. 374e</i>.<p><b>Étym</b>. νέος, ἔργον.`

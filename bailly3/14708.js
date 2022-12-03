@@ -1,1 +1,0 @@
-lar[14708]=`<b>ἀριστο·κρατέομαι-οῦμαι</b> <font color="purple">[ᾰᾰ]</font> (<i>seul. prés</i>.) être gouverné aristocratiquement, AR. <i>Av. 125</i> ; XÉN. <i>Hell. 6, 4, 18</i> ; PLAT. <i>Rsp. 338d</i>.<p><b>Étym</b>. ἄ. κρατέω.`

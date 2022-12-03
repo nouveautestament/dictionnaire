@@ -1,1 +1,0 @@
-lar[82275]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> semblable aux poulpes, ARSTT. <i>P.A. 4, 9, 10</i>.<p><b>Étym</b>. πολύπους, -ωδης.`

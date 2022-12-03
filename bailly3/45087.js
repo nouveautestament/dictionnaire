@@ -1,1 +1,0 @@
-lar[45087]=`<b>α, ον</b> <font color="purple">[ᾰλ]</font> auquel on est accoutumé, habituel, OPP. <i>C. 2, 306</i>.<p><b>Étym</b>. ἦθος.`

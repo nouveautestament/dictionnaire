@@ -1,1 +1,0 @@
-lar[48196]=`<b>ου (ὁ)</b> Iakkhos, <i>n. mystique de Bacchus,</i> AR. <i>Ran. 398</i> ; PLUT. <i>Alc. 34</i>.<p><b>Étym</b>. ἰακχή.`

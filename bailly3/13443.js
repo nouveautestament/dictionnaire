@@ -1,1 +1,0 @@
-lar[13443]=`<b>ἀπο·στηρίζω :<br>      1</b> appuyer, soutenir fortement, A. PL. <i>265</i>.<br><b>      2</b> se reporter sur un point (du corps) <i>en parl. d’un mal,</i> HPC. <i>99, 8, etc</i>.`

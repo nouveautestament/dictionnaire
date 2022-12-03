@@ -1,1 +1,0 @@
-lar[43891]=`<b>Ἐφαλλο·χύτρας (ὁ)</b> <font color="purple">[ρᾱ]</font> Saute-sur-la-marmite, <i>n. d’un parasite,</i> ALCIPHR. <i>3, 64 conj</i>.<p><b>Étym</b>. ἐφάλλομαι, χύτρα.`

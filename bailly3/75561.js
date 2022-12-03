@@ -1,1 +1,0 @@
-lar[75561]=`<b>παρ·αείδω</b>, chanter auprès, en présence, en l’honneur de, <i>dat</i>. OD. <i>22, 348</i>.<p><b>Étym</b>. π. ἀείδω.`

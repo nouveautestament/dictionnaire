@@ -1,1 +1,0 @@
-lar[74845]=`<b>Πάν·ακρον, ου (τὸ)</b> <font color="purple">[πᾰ]</font> Panakron, <i>v. de Chypre,</i> NONN. <i>D. 13, 446</i>.<p><b>Étym</b>. <i>cf</i>. Πάνακρα.`

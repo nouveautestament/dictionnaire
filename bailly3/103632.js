@@ -1,1 +1,0 @@
-lar[103632]=`<b>ὑπό·ξυλος, ος, ον</b> <font color="purple">[ξῠ]</font> dont le dessous <i>ou</i> l’intérieur est en bois, <i>en parl. des statues (à l’extérieur) d’or ou d’ivoire, etc</i>. XÉN. <i>Œc. 10, 3</i> ; LUC. <i>J. tr. 8 ; fig. càd</i>. d’apparence trompeuse, ALEX. (ATH. <i>385b</i>).<p><b>Étym</b>. ὑ. ξύλον.`

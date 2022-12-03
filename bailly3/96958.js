@@ -1,1 +1,0 @@
-lar[96958]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> <i>ion. c</i>. σπυρίς, HPC. <i>dout</i>.`

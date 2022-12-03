@@ -1,1 +1,0 @@
-lar[90140]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> extraction du fer, XÉN. <i>An. 5, 5, 1</i>.<p><b>Étym</b>. σιδηρεύω.`

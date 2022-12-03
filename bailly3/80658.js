@@ -1,1 +1,0 @@
-lar[80658]=`<b>πλαν·όδιος</b> (<i>seul. acc. f. pl</i>. πλανοδίας) <font color="purple">[ᾱν <i>par nécessité métr. p</i>. ᾰν]</font> égaré, HH. <i>Merc. 75 ; sel. d’autres, gén. sg. d’un subst</i>. πλανοδία, ας (ἡ) écart hors du droit chemin.<p><b>Étym</b>. πλάνη, ὁδός.`

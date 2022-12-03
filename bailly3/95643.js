@@ -1,1 +1,0 @@
-lar[95643]=`<b>συν·επικυρόω-ῶ</b> <font color="purple">[ῡ]</font> ratifier ensemble, POL. <i>4, 30, 2 ; 6, 16, 2 ; 22, 7, 3</i> ; PLUT. <i>Marc. 25</i> ; τῷ δήμῳ τοὺς νόμους, PLUT. <i>Cæs. 14,</i> garantir au peuple les lois (de César).`

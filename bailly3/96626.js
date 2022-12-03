@@ -1,1 +1,0 @@
-lar[96626]=`<b>σύ·σπονδος, ος, ον</b>, qui offre des libations avec qqn, ESCHN. <i>50, 9</i>.<p><b>Étym</b>. σύν, σπονδή.`

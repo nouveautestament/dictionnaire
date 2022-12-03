@@ -1,1 +1,0 @@
-lar[14996]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> propre au labour, ARAT. <i>1053</i>.<p><b>Étym</b>. ἄροτος.`

@@ -1,1 +1,0 @@
-lar[80260]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> en forme de jarre, de tonneau, ARSTT. <i>H.A. 5, 33, 3</i>.<p><b>Étym</b>. πίθος, -ωδης.`

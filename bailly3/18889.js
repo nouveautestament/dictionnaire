@@ -1,1 +1,0 @@
-lar[18889]=`<b>ου (τὸ) :<br>      1</b> délire de Bacchus, <i>càd</i>. ivresse, EUR. <i>Ph. 21</i>.<br><b>      2</b> (βακχεῖον) fête de Bacchus, sacrifice en l’honneur de Bacchus, AR. <i>Lys. 1</i>.<p><b>Étym</b>. <i>neutre de</i> βακχεῖος.`

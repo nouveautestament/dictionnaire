@@ -1,1 +1,0 @@
-lar[38439]=`<b>ἐπι·μηρύομαι</b> <font color="purple">[ῡ]</font> (<i>seul. prés</i>.) tirer par-dessus, amasser, PHIL. BYZ. <i>Bel. 34</i>.`

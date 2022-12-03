@@ -1,1 +1,0 @@
-lar[40593]=`<b>εως (ἡ)</b> interprétation, explication, LGN <i>fr. 8, 2</i> ; DC. <i>66, 1</i>.<p><b>Étym</b>. ἑρμηνεύω.`

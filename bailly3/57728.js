@@ -1,1 +1,0 @@
-lar[57728]=`<i>(seul. prés. et impf.) c</i>. κρεμάννυμι ARSTT. <i>H.A. 9, 6, 4</i> ; TH. <i>C.P. 4, 3, 3</i> ; THÉM. <i>26, 331</i>.`

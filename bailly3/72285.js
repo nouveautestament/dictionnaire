@@ -1,1 +1,0 @@
-lar[72285]=`<b>ὀπισθό·μηρον, ου (τὸ)</b> derrière de la cuisse, PTOL. <i>Math. synt. t. 2, p. 8a, etc</i>.<p><b>Étym</b>. ὄπισθε, μηρός.`

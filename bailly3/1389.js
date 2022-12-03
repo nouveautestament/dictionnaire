@@ -1,1 +1,0 @@
-lar[1389]=`<b>ἀ·διάφρακτος, ος, ον</b>, sans séparation, sans articulation, TH. <i>H.P. 1, 5, 3, etc</i>.<p><b>Étym</b>. ἀ, διαφράσσω.`

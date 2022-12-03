@@ -1,1 +1,0 @@
-lar[90477]=`<b>σιταγωγέω-ῶ</b> <font color="purple">[ῑᾰ]</font> amener un convoi de blé, LUC. <i>Nav. 14</i> ; DC. <i>47, 37 ; 49, 27</i>.<p><b>Étym</b>. σιταγωγός.`

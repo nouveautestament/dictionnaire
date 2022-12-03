@@ -1,1 +1,0 @@
-lar[12088]=`<b>ἄ·πλουτος, ος, ον</b>, sans richesses, sans fortune, SOPH. <i>fr. 718</i> ; πλοῦτον ἄπλουτον ἀπεργάζεσθαι, PLUT. <i>Lyc. 10,</i> faire que la richesse n’en soit plus une, <i>càd</i>. annuler la richesse des riches (par l’institution des repas communs).<p><b>Étym</b>. ἀ, πλοῦτος.`

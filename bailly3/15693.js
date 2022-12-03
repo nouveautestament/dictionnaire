@@ -1,1 +1,0 @@
-lar[15693]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> aromatique, ARSTT. <i>Plant. 1, 6, 1</i> ; PLUT. <i>M. 791b, etc</i>.<p><b>Étym</b>. ἄρωμα¹.`

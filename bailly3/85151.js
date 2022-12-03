@@ -1,1 +1,0 @@
-lar[85151]=`<b>προσ·ανακουφίζω</b>, soulager en outre, JOS. <i>Vit. 18</i>.`

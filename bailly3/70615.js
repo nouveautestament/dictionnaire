@@ -1,1 +1,0 @@
-lar[70615]=`<b>ας (ἡ)</b> l’Œnôtrie, <i>région S. E. de l’Italie, comprenant le Bruttium et la Lucanie, d’où fig</i>. l’Italie entière, HDT. <i>1, 167</i> ; ARSTT. <i>Pol. 7, 9, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c</i>.`

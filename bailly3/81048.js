@@ -1,1 +1,0 @@
-lar[81048]=`<b>ή, όν</b>, qui a l’habitude de se bourrer, THÉANO (SOCR. <i>Ep. 1, p. 55 Orelli).</i><p><b>Étym</b>. πλησμονή.`

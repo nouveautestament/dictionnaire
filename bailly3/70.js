@@ -1,1 +1,0 @@
-lar[70]=`<b>ου (ὁ)</b> Abaukhas, <i>Scythe,</i> LUC. <i>Tox. 61</i>.`

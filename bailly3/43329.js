@@ -1,1 +1,0 @@
-lar[43329]=`<b>ῶν (οἱ)</b> les Eurysthénides <i>ou</i> descendants d’Eurysthénès, <i>famille royale de Sparte,</i> STR. <i>366</i>.<p><b>Étym</b>. Εὐρυσθένης.`

@@ -1,1 +1,0 @@
-lar[22313]=`<i>adv</i>., par sentences, sentencieusement, ATH. <i>191e ;</i> M. ANT. <i>5, 18 ; etc</i>.`

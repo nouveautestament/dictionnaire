@@ -1,1 +1,0 @@
-lar[62617]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. μαλάκιον, OPP. <i>H. 1, 638</i>.`

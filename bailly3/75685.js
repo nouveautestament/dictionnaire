@@ -1,1 +1,0 @@
-lar[75685]=`<b>παρα·καταθήκη, ης (ἡ)</b> dépôt confié à qqn ; <i>en parl. de pers</i>. HDT. <i>2, 156</i> ; DÉM. <i>840, 11, etc. ; en parl. de choses,</i> THC. <i>2, 72</i> ; ARSTT. <i>Nic. 5, 8, 4, etc. ; particul</i>. argent <i>ou</i> bien confié à la garde de qqn, XÉN. <i>An. 5, 3, 7</i> ; PLAT. <i>Rsp. 442e, etc.</i> ; argent déposé dans une banque, DÉM. <i>946, 1</i>.`

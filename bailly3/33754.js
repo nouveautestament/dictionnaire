@@ -1,1 +1,0 @@
-lar[33754]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> froid, ARCHÉL. (STOB. <i>Ecl. 1, 454).</i><p><b>Étym</b>. ἔμψυχος².`

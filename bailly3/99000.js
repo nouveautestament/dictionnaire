@@ -1,1 +1,0 @@
-lar[99000]=`<b>ου (ὁ)</b> vainqueur acclamé par le cri τήνελλα, AR. <i>Eq. 276 dout</i>.`

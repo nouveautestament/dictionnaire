@@ -1,1 +1,0 @@
-lar[97232]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> qui amoncelle les gerbes, <i>en parl. de Dèmèter,</i> ORPH. <i>H. 39, 5</i>.<p><b>Étym</b>. <i>fém. de</i> σωρίτης.`

@@ -1,1 +1,0 @@
-lar[64460]=`<b>μεσ·εγγυάω-ῶ</b>, consigner un gage entre les mains d’un tiers, POLL. <i>8, 28 ; au pass</i>. être consigné <i>ou</i> déposé, <i>en parl. d’un gage,</i> LYS. <i>182, 1</i> ; PLAT. <i>Leg. 914d.</i><br><b><i>Moy.</i></b> se faire remettre un gage, exiger une garantie, ISOCR. <i>292a ;</i> DÉM. <i>995, 21</i>.<p><b>Étym</b>. μεσεγγύη.`

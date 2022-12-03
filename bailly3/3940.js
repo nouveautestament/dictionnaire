@@ -1,1 +1,0 @@
-lar[3940]=`<b>ἀκτινο·γραφία, ας (ἡ)</b> <font color="purple">[ῑᾰφ]</font> traité sur le rayonnement de la lumière, DH. <i>9, 48</i>.<p><b>Étym</b>. ἀκτίς, γράφω.`

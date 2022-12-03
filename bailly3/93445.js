@@ -1,1 +1,0 @@
-lar[93445]=`<b>εως (ἡ)</b> <font color="purple">[κῑ]</font> commotion, ARSTT. <i>Probl. 26, 48, 1</i> ; LGN <i>20</i>.<p><b>Étym</b>. συγκινέω.`

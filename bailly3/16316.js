@@ -1,1 +1,0 @@
-lar[16316]=`<b>ἀστρο·θεάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[εᾱ]</font> qui observe les astres, A. DIOG. <i>9</i>.<p><b>Étym</b>. ἄ. θεάομαι.`

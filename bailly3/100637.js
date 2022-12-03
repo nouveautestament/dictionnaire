@@ -1,1 +1,0 @@
-lar[100637]=`<b>τριχορροέω-οῶ</b> <font color="purple">[ῐ]</font> perdre ses cheveux, ses poils, PLUT. <i>M. 642e</i>.<p><b>Étym</b>. θρίξ, ῥόος.`

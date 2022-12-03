@@ -1,1 +1,0 @@
-lar[13027]=`<b>ἀπο·πάσχω</b> <font color="darkgreen">(<i>f</i>. ἀποπείσομαι, <i>ao.2</i> ἀπέπαθον, <i>etc.)</font> t. stoïc</i>. écarter une impression, une idée : ἀπόπαθε ὅτι ἡμέρα ἐστί, ARR. <i>Epict. 1, 28, 3,</i> ôte-toi de l’esprit qu’il fait jour.`

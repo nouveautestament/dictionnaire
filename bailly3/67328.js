@@ -1,1 +1,0 @@
-lar[67328]=`<b>μυρό·ρραντος, ος, ον</b> <font color="purple">[ῠ]</font> arrosé de parfums, ANTH. <i>5, 198</i>.<p><b>Étym</b>. μύρον, ῥαίνω.`

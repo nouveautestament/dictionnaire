@@ -1,1 +1,0 @@
-lar[67552]=`<b>μωρόω-ῶ</b>, rendre fou <i>ou</i> imbécile, <i>au pass</i>. être stupéfié, devenir fou <i>ou</i> imbécile, HPC. <i>562, 43, etc.</i> ; ARSTT. <i>H.A. 9, 3, 3</i>.<p><b>Étym</b>. μωρός.`

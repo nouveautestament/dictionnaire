@@ -1,1 +1,0 @@
-lar[63319]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> magnifiquement, XÉN. <i>Œc. 11, 9 ; Lac. 4, 6</i>.<br><b>      2</b> grandement, POL. <i>3, 87, 5 ; 5, 27, 6, etc</i>.<p>•<i> Cp</i>. μεγαλειοτέρως, XÉN. <i>Hell. 4, 1, 9</i> ; μεγαλειότερον, PLAT. <i>Theæt. 168c</i>.<p><b>Étym</b>. μεγαλεῖος.`

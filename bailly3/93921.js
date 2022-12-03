@@ -1,1 +1,0 @@
-lar[93921]=`<b>συμ·μάχομαι</b> <font color="purple">[ᾰ]</font><br><b>      1</b> assister dans un combat, être l’allié de, <i>dat</i>. PLAT. <i>Leg. 699a, etc.</i><br><b>      2</b> <i>p. ext</i>. assister, être l’auxiliaire de, <i>dat</i>. HDT. <i>7, 239</i> ; XÉN. <i>An. 5, 4, 10</i> ; πρός τινα, ARSTT. <i>Pol. 4, 15, 15,</i> contre qqn.`

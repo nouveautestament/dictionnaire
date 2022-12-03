@@ -1,1 +1,0 @@
-lar[82712]=`<b>ποντο·πλάνητος, ος, ον</b> <font color="purple">[ᾰ]</font> errant sur mer, ORPH. <i>H. 37, 5</i>.<p><b>Étym</b>. π. πλανάομαι.`

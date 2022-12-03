@@ -1,1 +1,0 @@
-lar[8035]=`<b>ἀνδριαντο·ποιός, οῦ (ὁ)</b> statuaire, sculpteur, PD. <i>N. 5, 1</i> ; XÉN. <i>Mem. 2, 6, 6, etc.</i> ; PLAT. <i>Rsp. 540c, etc</i>.<p><b>Étym</b>. ἀνδριάς, ποιέω.`

@@ -1,1 +1,0 @@
-lar[8625]=`<b>ἀν·εύχομαι</b>, rétracter un vœu <i>ou</i> une prière. PLAT. <i>2 Alc. 142d, 148b</i>.<p><b>Étym</b>. ἀνά, εὔχ.`

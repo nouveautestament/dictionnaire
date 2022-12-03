@@ -1,1 +1,0 @@
-lar[24604]=`<b>δι·αέριος, ος, ον</b> <font color="purple">[ᾱ]</font> qui traverse les airs, aérien, LUC. <i>Salt. 42</i> ; A. TAT. <i>2, 22 ; fig. en parl. de paroles, joint à</i> μετέωρος, LUC. <i>Ic. 1</i>.<p>➳ <i>Ion</i>. διηέριος, A.RH. <i>2, 227 ; 4, 953</i> ; OPP. <i>C. 3, 76 ; 4, 409</i> ; Q. SM. <i>11, 456, etc</i>.<p><b>Étym</b>. διά, ἀήρ.`

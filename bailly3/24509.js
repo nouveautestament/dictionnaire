@@ -1,1 +1,0 @@
-lar[24509]=`(<i>seul. prés</i>.) jouer au trictrac, <i>à cause des lignes dessinées sur le tableau,</i> PHILÉM. (EUST. <i>634, 1).</i><p><b>Étym</b>. διάγραμμα.`

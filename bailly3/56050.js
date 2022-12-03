@@ -1,1 +1,0 @@
-lar[56050]=`<font color="purple">[ῑᾰ]</font> essayer de renverser par un croc en jambe, <i>fig</i>. κλ. τοὺς νομούς, DIN. (SUID.) donner une entorse aux lois.<p><b>Étym</b>. κλῖμαξ.`

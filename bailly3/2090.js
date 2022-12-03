@@ -1,1 +1,0 @@
-lar[2090]=`<i>vb. de</i> ἀθρέω, EUR. <i>Hipp. 379</i> ; XÉN. <i>Conv. 8, 39</i>.`

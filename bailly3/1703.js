@@ -1,1 +1,0 @@
-lar[1703]=`<b>ἀει·σύμφορος, ος, ον</b>, toujours utile, CLÉANTH. (EUS. <i>P.E. 679c</i>).`

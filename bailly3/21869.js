@@ -1,1 +1,0 @@
-lar[21869]=`<b>ας (ἡ) :<br>      1</b> portion de terre, OPP. <i>C. 4, 430</i> ; NIC. <i>Al. 10</i>.<br><b>      2</b> culture de la terre, ALCIPHR. <i>1, 4, etc. ; d’où</i> moisson, ANTH. <i>6, 258</i>.<p>➳ <i>Ion</i>. ίη, OPP. NIC. <i>ll. cc</i>.<p><b>Étym</b>. γεωμόρος.`

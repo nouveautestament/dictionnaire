@@ -1,1 +1,0 @@
-lar[46698]=`<b>ή, όν</b>, qui concerne la connaissance de Dieu, ARSTT. <i>Metaph. 5, 1, 10</i> ; STR. <i>474</i> ; ἡ θεολογική (<i>s.-e</i>. ἐπιστήμη) ARSTT. <i>Metaph. 10, 7, 7,</i> la science de la connaissance de Dieu.<p><b>Étym</b>. θεολόγος.`

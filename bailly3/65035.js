@@ -1,1 +1,0 @@
-lar[65035]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> transplantation, TH. <i>H.P. 2, 6, 3</i>.<p><b>Étym</b>. μεταφυτεύω.`

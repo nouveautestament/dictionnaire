@@ -1,1 +1,0 @@
-lar[42556]=`<b>εὐ·κύμαντος, ος, ον</b> <font color="purple">[ῡ]</font> couvert <i>ou</i> agité de grosses vagues, NICOM. <i>Harm. p. 6, 17, au cp</i>. -ότερος.<p><b>Étym</b>. εὖ, κυμαίνω.`

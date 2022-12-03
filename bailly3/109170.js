@@ -1,1 +1,0 @@
-lar[109170]=`<b>χρυσο·έθειρ</b>, <i>gén</i>. <b>-έθειρος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> à la chevelure d’or, ARCHIL. <i>120</i>.<p><b>Étym</b>. χρ. ἔθειρα.`

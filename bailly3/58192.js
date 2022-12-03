@@ -1,1 +1,0 @@
-lar[58192]=`<b>ου (ὁ)</b> Kryphios <i>ou</i> (l’écueil) caché (dans le Scamandre) <i>n. d’une pierre ou d’un rocher,</i> Ps.-PLUT. <i>Fluv. 13, 4</i>.<p><b>Étym</b>. <i>v</i>. κρύφιος.`

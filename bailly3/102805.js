@@ -1,1 +1,0 @@
-lar[102805]=`<b>ὑπερ·σταχύω</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> donner trop d’épis, SIB. <i>1, 298</i>.<p><b>Étym</b>. ὑ. στάχυς.`

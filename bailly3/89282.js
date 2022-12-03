@@ -1,1 +1,0 @@
-lar[89282]=`<b>ου (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. σάμψυχον ARÉT. <i>Cur. m. acut. 2, 6</i>.`

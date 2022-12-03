@@ -1,1 +1,0 @@
-lar[43762]=`<font color="purple">[ῠ]</font> <i>adv</i>., gaiement, joyeusement, THGN. <i>764</i>.`

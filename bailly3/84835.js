@@ -1,1 +1,0 @@
-lar[84835]=`<i>vb. de</i> προοιμιάζομαι, DH. <i>Rhet. 2, 8</i>.<p>➳ <i>Par contr. att</i>. φροιμιαστέον, ARSTT. <i>Rhet. Al. 36, 1 ; 38, 2</i>.`

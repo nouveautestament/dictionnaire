@@ -1,1 +1,0 @@
-lar[23729]=`<b>δεκά·φυλος, ος, ον</b> <font color="purple">[ᾰῡ]</font> partagé en dix tribus, HDT. <i>5, 66</i>.<p><b>Étym</b>. δ. φυλή.`

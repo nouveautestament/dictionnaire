@@ -1,1 +1,0 @@
-lar[39122]=`<b>ατος (τὸ) :<br>      1</b> cippe funéraire, PLAT. <i>Leg. 958e ;</i> DH. <i>9, 67</i>.<br><b>      2</b> ornement à la proue d’un vaisseau, DS. <i>13, 3</i>.<p><b>Étym</b>. ἐφίστημι.`

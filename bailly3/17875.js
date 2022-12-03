@@ -1,1 +1,0 @@
-lar[17875]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> qu’il faut <i>ou</i> qu’on peut faire disparaître, <i>càd</i>. supprimer, ISOCR. <i>281b</i>.<p><b>Étym</b>. <i>vb. de</i> ἀφανίζω.`

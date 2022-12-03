@@ -1,1 +1,0 @@
-lar[77175]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> toge brodée d’une frange, <i>particul</i>. de pourpre, la toge prétexte, <i>à Rome,</i> PLUT. <i>M. 239c ;</i> CLÉARQ. (ATH. <i>522e</i>).<br><b>      2</b> bande <i>ou</i> frange brodée dans un vêtement, <i>fig</i>. JUL. <i>238b</i>.<p><b>Étym</b>. παρυφαίνω.`

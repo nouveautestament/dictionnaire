@@ -1,1 +1,0 @@
-lar[30616]=`<b>εἱρκτοφυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> (<i>seul. prés. inf</i>.) être geôlier, PHIL. <i>1, 290</i>.<p><b>Étym</b>. εἱρκτοφύλαξ.`

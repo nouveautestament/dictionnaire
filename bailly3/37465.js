@@ -1,1 +1,0 @@
-lar[37465]=`<b>ἐπι·γλωσσάομαι</b>, <i>att</i>. <b>-ωττάομαι-ῶμαι</b>, tenir de mauvais propos, ESCHL. <i>Ch. 1045</i> ; ἐπ. τί τινος, ESCHL. <i>Pr. 929, ou</i> περί τινος, AR. <i>Lys. 37,</i> dire du mal de qqn.<p><b>Étym</b>. ἐπί, γλῶσσα.`

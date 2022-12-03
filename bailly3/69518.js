@@ -1,1 +1,0 @@
-lar[69518]=`<b>εως (ἡ)</b> action de racler, de polir, TH. <i>H.P. 5, 6, 4</i>.<p><b>Étym</b>. ξέω.`

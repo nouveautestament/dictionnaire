@@ -1,1 +1,0 @@
-lar[15682]=`<b>ου (ὁ)</b> Arkhônidès, <i>h</i>. THC. <i>7, 1</i>.<p>➳ <i>Dor</i>. -ίδας, SOPHR. <i>fr. 25</i>.`

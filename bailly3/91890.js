@@ -1,1 +1,0 @@
-lar[91890]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. σπιδής ESCHL. <i>fr. 323 Dind</i>.`

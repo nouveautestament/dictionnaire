@@ -1,1 +1,0 @@
-lar[89258]=`<b>ῶν (οἱ)</b> <i>n. rom. des</i> Samnites, <i>appelés par les Grecs</i> Σαυνῖται, PLUT. <i>Parall. min. 3, p. 4, etc</i>.`

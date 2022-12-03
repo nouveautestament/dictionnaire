@@ -1,1 +1,0 @@
-lar[26172]=`<b>οῦ (ὁ) :<br>      1</b> action de tirer, <i>ou</i> de traîner jusqu’au bout, DH. <i>Comp. 20</i>.<br><b>      2</b> action de tirer d’un autre côté, <i>d’où</i> altercation, querelle, AR. <i>Ach. arg</i>.<p><b>Étym</b>. *διελκύω.`

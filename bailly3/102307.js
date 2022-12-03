@@ -1,1 +1,0 @@
-lar[102307]=`<b>ὑπερ·ασχάλλω</b>, s’affecter trop vivement de, <i>dat</i>. ARSTD. <i>t. 1, 555</i>.`

@@ -1,1 +1,0 @@
-lar[69956]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à de la raclure, à une poussière fine, HPC. <i>40, 19 ; 54, 12, etc</i>.<p>•<i> Cp</i>. -έστερος, HPC. <i>392, 46</i>.<p><b>Étym</b>. ξύσμα, -ωδης.`

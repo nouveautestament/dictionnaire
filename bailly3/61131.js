@@ -1,1 +1,0 @@
-lar[61131]=`<b>λιμ·αγχία, ας (ἡ)</b> <font color="purple">[λῑ]</font> épuisement par la faim, RUF. <i>p. 65 Matthäi</i>.<p><b>Étym</b>. λιμός, ἄγχω.`

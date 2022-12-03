@@ -1,1 +1,0 @@
-lar[33624]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐμπύη HPC. <i>Progn. 41, Epid. 3, 1059</i> ; ARSTT. <i>H.A. 9, 40, 10</i>.<p><b>Étym</b>. ἐμπυέω.`

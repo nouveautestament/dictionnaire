@@ -1,1 +1,0 @@
-lar[71890]=`<b>ης, ες</b>, semblable à un songe, aussi vain qu’un songe, PHILSTR. <i>295</i>.<p><b>Étym</b>. ὄνειρος, -ωδης.`

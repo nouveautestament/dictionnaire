@@ -1,1 +1,0 @@
-lar[76291]=`<b>παρά·σφυρος, ος, ον</b> <font color="purple">[ῠ]</font> qui a le fanon malade, HIPPIATR.<p><b>Étym</b>. π. σφυρόν.`

@@ -1,1 +1,0 @@
-lar[76809]=`<b>παρ·ετυμολογέω-ῶ</b> <font color="purple">[ῠ]</font> <i>au pass. en parl. d’un mot,</i> dériver de, ATH. <i>35c, etc</i>.`

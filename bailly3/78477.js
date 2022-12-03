@@ -1,1 +1,0 @@
-lar[78477]=`<b>περι·γανόω-ῶ</b>, polir, lisser, CASS. <i>Probl. 62</i>.`

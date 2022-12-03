@@ -1,1 +1,0 @@
-lar[2795]=`<font color="purple">[ῠ]</font> <i>adv</i>., d’en haut, THÉODOT.<p><b>Étym</b>. αἰπύς, -θεν.`

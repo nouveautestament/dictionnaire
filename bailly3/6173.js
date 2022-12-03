@@ -1,1 +1,0 @@
-lar[6173]=`<b>ἀμφι·καίνυμαι</b> <font color="darkgreen">(<i>seul. pl.q.pf. 3 sg</i>. ἀμφεκέκαστο)</font> être paré tout autour, Q. SM. <i>10, 179</i>.`

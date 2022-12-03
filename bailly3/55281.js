@@ -1,1 +1,0 @@
-lar[55281]=`<b>κηρό·πισσος, ου (ὁ)</b> onguent de cire et de poix, HPC. <i>467, 41</i>.<p><b>Étym</b>. κηρός, πίσσα.`

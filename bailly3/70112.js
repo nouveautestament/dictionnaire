@@ -1,1 +1,0 @@
-lar[70112]=`<b>ὁδοιδοκέω-ῶ</b>, détrousser les passants, être voleur de grand chemin, DS. <i>Exc. p. 601, 91</i>.<p><b>Étym</b>. ὁδοιδόκος.`

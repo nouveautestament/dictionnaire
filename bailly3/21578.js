@@ -1,1 +1,0 @@
-lar[21578]=`<b>γελγιδόομαι-οῦμαι</b>, se condenser en gousse <i>ou</i> en noyau, TH. <i>H.P. 7, 4, 11</i>.<p><b>Étym</b>. γέλγις.`

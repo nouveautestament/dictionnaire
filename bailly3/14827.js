@@ -1,1 +1,0 @@
-lar[14827]=`<b>ου (τὸ)</b> préservatif, EUR. <i>Tel. fr. 698 Nauck dout</i>.<p><b>Étym</b>. ἀρκέω.`

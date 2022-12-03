@@ -1,1 +1,0 @@
-lar[62253]=`<b>ης (ἡ)</b> Magnèsa, <i>autre n. de Μαγνησία de Thessalie,</i> A.RH. <i>1, 584</i>.`

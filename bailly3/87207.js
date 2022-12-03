@@ -1,1 +1,0 @@
-lar[87207]=`<b>ου (ὁ)</b> Prôtothyès, <i>Scythe,</i> HDT. <i>1, 103</i>.`

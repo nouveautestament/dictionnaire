@@ -1,1 +1,0 @@
-lar[25810]=`<b>ου (τὸ)</b> ouverture par où passe le jour, HÉRON <i>Spir. p. 163</i>.<p><b>Étym</b>. <i>cf</i>. διαύγεια.`

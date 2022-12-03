@@ -1,1 +1,0 @@
-lar[27094]=`(<i>seul. prés</i>.) <font color="purple">[δῐ]</font> accentuer de deux manières, SCH.-SOPH. <i>Aj. 733</i>.<p><b>Étym</b>. δίτονος.`

@@ -1,1 +1,0 @@
-lar[14337]=`<b>ἀργυρο·θώραξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῠᾱκ]</font> au sein argenté (tunique) RHÉT. <i>1, 531 W</i>.`

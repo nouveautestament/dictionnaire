@@ -1,1 +1,0 @@
-lar[53138]=`<b>κατ·απορέω-ῶ</b>, compromettre par son ignorance, son impuissance <i>ou</i> son hésitation, HPC. <i>827c ;</i> GAL. <i>18, 585</i>.`

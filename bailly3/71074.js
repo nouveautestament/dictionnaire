@@ -1,1 +1,0 @@
-lar[71074]=`<b>ὀλιγο·φόρος, ος, ον</b> <font color="purple">[ῐ]</font> qui supporte peu l’eau, <i>en parl. du vin, p. opp. à</i> πολυφόρος, HPC. <i>393, 22</i>.<p><b>Étym</b>. ὀλ. φέρω.`

@@ -1,1 +1,0 @@
-lar[90275]=`<b>ή, όν</b>, qui provoque le dégoût, qui inspire de l’aversion, M. ANT. <i>8, 24</i>.<p><b>Étym</b>. <i>vb. de</i> σικχαίνω.`

@@ -1,1 +1,0 @@
-lar[21629]=`<b>γεν·άρχης, ου (ὁ)</b> chef d’une race <i>ou</i> d’une famille, CALL. <i>fr. 36</i> ; LYC. <i>1307</i> ; ORPH. <i>H. 12, 8 ; 81, 3</i> ; PHIL. <i>2, 527, etc</i>.<p><b>Étym</b>. γένος, ἄρχω.`

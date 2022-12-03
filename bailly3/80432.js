@@ -1,1 +1,0 @@
-lar[80432]=`<b>(τὸ)</b> <font color="purple">[ῑ]</font> <i>seul. nom. acc. pl</i>. πίσεα, lieux humides, prairies, IL. <i>20, 9</i> ; OD. <i>6, 124</i> ; HH. <i>Ven. 99</i> ; SIM. <i>fr. 193 Bgk, etc</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

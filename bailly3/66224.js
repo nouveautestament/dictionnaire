@@ -1,1 +1,0 @@
-lar[66224]=`<b>Μνησί·φιλος, ου (ὁ)</b> <font color="purple">[ῐῐ]</font> Mnèsiphilos, <i>h</i>. HDT. <i>8, 57</i> ; DÉM. <i>235, 2 ; 238, 2</i>.<p><b>Étym</b>. μν. φίλος.`

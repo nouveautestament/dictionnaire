@@ -1,1 +1,0 @@
-lar[37648]=`<b>ἐπι·διχασμός, οῦ</b> <font color="purple">[δῐ]</font> partage en deux, AQU. <i>Deut. 14, 16</i>.<p><b>Étym</b>. ἐπί, διχάζω.`

@@ -1,1 +1,0 @@
-lar[14521]=`<b>ας (ἡ)</b> <font color="purple">[ᾰρ]</font> <i>fém. de</i> ἀρητήρ, CALL. <i>Cer. 43</i> ; A.RH. <i>1, 312, etc</i>.`

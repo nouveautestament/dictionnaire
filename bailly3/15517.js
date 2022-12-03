@@ -1,1 +1,0 @@
-lar[15517]=`<b>ἀρχέ·γονος, ος, ον :<br>      1</b> primitif, originaire, ARSTT. <i>Plant. 1, 3, 14</i> ; NONN. <i>D. 6, 61, etc.</i><br><b>      2</b> qui est le premier auteur, l’origine <i>ou</i> la cause de, <i>gén</i>. DAMOX. (ATH. <i>102a</i>) ; DS. <i>1, 88</i>.<p>•<i> Cp</i>. -ώτερος, THÉM. <i>162a</i>.<p><b>Étym</b>. ἄρχω, γίγνομαι.`

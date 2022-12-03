@@ -1,1 +1,0 @@
-lar[72237]=`<b>ὁπηλικοσ·οῦν, -ηοῦν, -ονοῦν</b>, de quelque grandeur que ce soit, ARSTT. <i>Cæl. 1, 6, 12, etc</i>.<p><b>Étym</b>. <i>corrélat. de</i> πηλίκος.`

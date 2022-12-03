@@ -1,1 +1,0 @@
-lar[64020]=`<b>μελι·κηρίς, ίδος (ἡ)</b> <font color="purple">[ῐῐδ]</font><br><b>      1</b> mélicéris, <i>tumeur dont le pus ressemble à du miel,</i> HPC. <i>113c.</i><br><b>      2</b> gâteau de miel, PHILOX. (ATH. <i>147b</i>).<p><b>Étym</b>. <i>cf</i>. μελίκηρον.`

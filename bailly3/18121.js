@@ -1,1 +1,0 @@
-lar[18121]=`<b>ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font> mépris <i>ou</i> indifférence pour les richesses, PLUT. <i>Agis et Cleom. c. Gracch. 1</i>.<p><b>Étym</b>. ἀφιλοχρήματος.`

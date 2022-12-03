@@ -1,1 +1,0 @@
-lar[96992]=`<b>οῦ (ὁ)</b> <i>c</i>. σχεδίασμα PLAT. <i>Sis. 390c ;</i> AGATHARCH. <i>p. 3, Huds</i>.<p><b>Étym</b>. σχεδιάζω.`

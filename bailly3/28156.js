@@ -1,1 +1,0 @@
-lar[28156]=`<b>δυσ·άλθητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à guérir, MAN. <i>6, 624</i> ; NONN. <i>Jo. 5, 16</i>.<p><b>Étym</b>. δ. ἀλθαίνω.`

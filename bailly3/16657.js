@@ -1,1 +1,0 @@
-lar[16657]=`<b>ἀταβυρίτης ἄρτος (ὁ)</b> sorte de pain, SOPATR. (ATH. <i>109e</i>).`

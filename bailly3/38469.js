@@ -1,1 +1,0 @@
-lar[38469]=`<b>οῦ (ὁ)</b> formation d’un rapport de la forme (1 + 1/n), JAMBL. <i>Nicom. ar. 151</i>.<p><b>Étym</b>. ἐπιμόριος.`

@@ -1,1 +1,0 @@
-lar[63640]=`<b>Μεθ·ύδριον, ου (τὸ)</b> Méthydrion (<i>auj</i>. Methýđrio) <i>v. d’Arcadie,</i> THC. <i>5, 58</i>.<p><b>Étym</b>. μ. ὕδωρ ; <i>pour la formation cf. franç</i>. Entraigues, Entragues ; <i>ital</i>. Interamnia.`

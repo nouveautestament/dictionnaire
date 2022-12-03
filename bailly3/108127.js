@@ -1,1 +1,0 @@
-lar[108127]=`<b>χειρο·δάϊκτος, ος, ον</b>, déchiré avec la main, égorgé, SOPH. <i>Aj. 219</i>.<p><b>Étym</b>. χ. δαΐζω.`

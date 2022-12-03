@@ -1,1 +1,0 @@
-lar[70612]=`<b>ης (ἡ)</b> Œnônè (Œnone) :<br><b>      1</b> <i>anc. n. de l’î. d’Égine,</i> PD. <i>N. 5, 16, etc.</i> ; HDT. <i>8, 46</i>.<br><b>      2</b> <i>n. de f</i>. BION <i>15, 11, etc</i>.<p>➳ <i>Dor</i>. Οἰνώνα, PD. <i>l. c</i>.<p><b>Étym</b>. οἶνος.`

@@ -1,1 +1,0 @@
-lar[37826]=`<b>ος, ον</b>, nourri sur, par excroissance, HPC. <i>106d</i>.<p><b>Étym</b>. ἐπιτρέφω.`

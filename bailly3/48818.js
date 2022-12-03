@@ -1,1 +1,0 @@
-lar[48818]=`<i>c</i>. ἰκμάζω NIC. <i>Al. 112 ; au pass</i>. NIC. <i>fr. 3, 7</i> ; A.RH. <i>4, 1066</i>.<br><b><i>Moy.</i></b> oindre pour soi : δέμας ἰκμαίνεσθαι, A.RH. <i>3, 847,</i> oindre son corps.<p><b>Étym</b>. ἰκμάς.`

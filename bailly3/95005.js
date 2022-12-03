@@ -1,1 +1,0 @@
-lar[95005]=`<b>συν·ατιμάζω</b> <font color="purple">[ᾰῑ]</font> disgracier <i>ou</i> déshonorer en même temps, PLUT. <i>Agis 17</i> ; MAN. (JOS. <i>c. Ap. 1, 26</i>).`

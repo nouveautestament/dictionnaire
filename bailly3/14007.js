@@ -1,1 +1,0 @@
-lar[14007]=`<b>ἀ·προφύλακτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>   I</b> <i>pass.</i> :<br><b>      1</b> (guerre) pour laquelle on n’a pas pris ses mesures, ses précautions, THC. <i>4, 55</i>.<br><b>      2</b> non gardé, OPP. <i>H. 5, 106</i>.<br><b>   II</b> <i>act</i>. qui ne se met pas en garde, A. TAT.<p><b>Étym</b>. ἀ, προφυλάσσω.`

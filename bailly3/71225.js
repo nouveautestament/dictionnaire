@@ -1,1 +1,0 @@
-lar[71225]=`<b>ας (ἡ)</b> universalité, généralité, ensemble, STR. <i>79</i>.<p><b>Étym</b>. ὁλοσχερής.`

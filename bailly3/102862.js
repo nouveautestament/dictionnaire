@@ -1,1 +1,0 @@
-lar[102862]=`<b>ου</b>, <i>adj. m</i>. qui l’emporte sur tout, tout-puissant, <i>mot imaginé par</i> DH. <i>2, 34, pour expliquer le surn. Feretrius donné au Jupiter romain</i>.<p><b>Étym</b>. ὑπερφέρω.`

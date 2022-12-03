@@ -1,1 +1,0 @@
-lar[70554]=`<b>οἰνο·πλήξ</b>, <i>gén</i>. <b>ῆγος (ὁ, ἡ)</b> frappé d’ivresse, pris de vin, ANTH. <i>9, 323</i>.<p><b>Étym</b>. οἶν. πλήσσω.`

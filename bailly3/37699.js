@@ -1,1 +1,0 @@
-lar[37699]=`<b>ἐπι·είκελος, ος, ον</b>, tout à fait semblable à, <i>dat</i>. IL. <i>1, 265, etc.</i> ; HÉS. <i>Th. 968</i>.<p><b>Étym</b>. ἐπί, εἴκελος.`

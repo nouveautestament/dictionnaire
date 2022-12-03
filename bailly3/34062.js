@@ -1,1 +1,0 @@
-lar[34062]=`<b>ἐναυθεντέω-ῶ</b>, avoir autorité sur, <i>dat</i>. BAS. <i>3, 1024 Migne</i>.`

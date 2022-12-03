@@ -1,1 +1,0 @@
-lar[61053]=`<b>λιθο·δόμος, ος, ον</b> <font color="purple">[ῐ]</font> qui bâtit avec des pierres, architecte, XÉN. <i>Cyr. 3, 2, 11</i>.<p><b>Étym</b>. λ. δέμω.`

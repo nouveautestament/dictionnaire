@@ -1,1 +1,0 @@
-lar[73978]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> qui apprête des mets, cuisinier, HYPÉR. (POLL. <i>6, 37</i>) ; POL. <i>12, 9, 4</i>.<p><b>Étym</b>. ὀψαρτύω.`

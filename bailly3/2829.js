@@ -1,1 +1,0 @@
-lar[2829]=`<b>α, ον</b> <font color="purple">[σᾰ]</font> d’Æsakos, LYC. <i>224</i>.<p><b>Étym</b>. Αἴσακος.`

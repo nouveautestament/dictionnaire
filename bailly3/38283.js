@@ -1,1 +1,0 @@
-lar[38283]=`<b>ἐπι·ληΐς, ΐδος</b>, <i>adj. f</i>. conquise comme butin, <i>càd</i>. par le droit de la guerre, XÉN. <i>Hell. 3, 2, 23</i>.<p><b>Étym</b>. ἐπί, λεία.`

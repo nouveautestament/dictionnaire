@@ -1,1 +1,0 @@
-lar[57133]=`<b>ῆς (ἡ)</b> Korsôtè, <i>v. de Mésopotamie,</i> XÉN. <i>An. 1, 5, 4</i>.`

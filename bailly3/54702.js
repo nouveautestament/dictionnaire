@@ -1,1 +1,0 @@
-lar[54702]=`<b>κενο·δρομέω-ῶ</b>, courir dans le vide, <i>càd</i>. au hasard, PROCL. <i>Ptol. p. 163</i> ; MAN. <i>2, 486</i>.<p><b>Étym</b>. κ. δρόμος.`

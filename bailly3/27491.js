@@ -1,1 +1,0 @@
-lar[27491]=`<b>α, ον</b>, qui concerne les constructions, A. PL. <i>4, 279</i> ; οἱ δομαῖοι, <i>s.-e</i>. λίθοι, A.RH. <i>1, 737,</i> pierres de construction, <i>càd</i>. fondations.<p><b>Étym</b>. δόμος.`

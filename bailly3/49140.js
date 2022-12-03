@@ -1,1 +1,0 @@
-lar[49140]=`<b>ου (ὁ)</b> petit bouton sur la peau, HPC. <i>Epid. 1, 970</i> ; ARSTT. <i>H.A. 5, 31, 2 ; Probl. 34, 4 ; 36, 3</i>.`

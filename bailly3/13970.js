@@ -1,1 +1,0 @@
-lar[13970]=`<b>ἀ·πρόσοδος, ος, ον</b>, inabordable, PHRYN. COM. <i>2-1, 587, 1 Mein</i>.`

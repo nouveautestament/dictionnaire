@@ -1,1 +1,0 @@
-lar[19625]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui mesure par le nombre de pas, arpenteur, ATH. <i>422c</i>.<p><b>Étym</b>. βηματίζω.`

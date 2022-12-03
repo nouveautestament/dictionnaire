@@ -1,1 +1,0 @@
-lar[102579]=`<b>ὑπέρ·καιρος, ος, ον</b>, qui vient trop tard, ATH. <i>613c citant</i> XÉN. <i>Ages. 5, 1 ; mais dans le texte de</i> XÉN. <i>l. c</i>. ὑπὲρ καιρόν.<p><b>Étym</b>. ὑ. καιρός.`

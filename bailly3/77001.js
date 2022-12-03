@@ -1,1 +1,0 @@
-lar[77001]=`<b>Παρνόπιος Ἀπόλλων (ὁ)</b> Apollon qui préserve des sauterelles, PAUS. <i>1, 24, 8</i>.<p><b>Étym</b>. πάρνοψ.`

@@ -1,1 +1,0 @@
-lar[8960]=`<b>ἀνθρωπο·λογέω-ῶ</b>, parler un langage humain, PHIL. <i>1, 282</i>.<p><b>Étym</b>. ἄ. λόγος.`

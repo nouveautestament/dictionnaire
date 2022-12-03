@@ -1,1 +1,0 @@
-lar[4091]=`<b>ης (ἡ)</b> <font color="purple">[ᾰπᾰ]</font> faiblesse, Q. SM. <i>7, 12</i>.<p><b>Étym</b>. ἀλαπαδνός.`

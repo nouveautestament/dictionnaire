@@ -1,1 +1,0 @@
-lar[58570]=`<b>ας (ἡ)</b> mouvement circulaire, ARSTT. <i>Phys. 8, 9, 1</i>.<p><b>Étym</b>. κυκλοφόρος.`

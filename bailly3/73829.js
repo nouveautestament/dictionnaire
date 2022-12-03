@@ -1,1 +1,0 @@
-lar[73829]=`<font color="purple">[φᾰ]</font> <i>adv</i>., visiblement, SEXT. <i>p. 558</i> ; SPT. <i>Esth. 8, 13, etc</i>.<p><b>Étym</b>. ὀφθαλμοφανής.`

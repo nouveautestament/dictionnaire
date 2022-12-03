@@ -1,1 +1,0 @@
-lar[47459]=`<b>ορος (ὁ)</b> <font color="purple">[ᾱ]</font> convive, EUR. <i>Ion 1206, 1217</i>.`

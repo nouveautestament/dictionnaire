@@ -1,1 +1,0 @@
-lar[25179]=`<b>δια·ξηραίνω</b> <font color="darkgreen">(<i>ao. sbj. 3 sg</i>. -ξηράνῃ)</font> sécher complètement, DS. <i>1, 10</i>.`

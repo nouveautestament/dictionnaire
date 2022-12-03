@@ -1,1 +1,0 @@
-lar[102292]=`<b>ὑπέραρσις, εως (ἡ)</b> élévation au-dessus, exaltation, SPT. <i>Ezech. 47, 11</i>.<p><b>Étym</b>. ὑπεραίρω.`

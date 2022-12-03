@@ -1,1 +1,0 @@
-lar[42254]=`<b>εὐθυ·μάχος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui va droit à l’ennemi, ANTH. <i>7, 442 ; App. 73</i>.<p><b>Étym</b>. εὐ. μάχομαι.`

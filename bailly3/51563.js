@@ -1,1 +1,0 @@
-lar[51563]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> règle pour le papier, ANTH. <i>6, 295</i>.<br><b>      2</b> règle grammaticale, EUST. <i>p. 439, 26</i>.<p><b>Étym</b>. κανονίζω.`

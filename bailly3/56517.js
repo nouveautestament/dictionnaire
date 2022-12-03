@@ -1,1 +1,0 @@
-lar[56517]=`<b>ας (ἡ)</b> l’intérêt commun, l’utilité commune, DS. <i>1, 51</i>.<p><b>Étym</b>. κοινωφελής.`

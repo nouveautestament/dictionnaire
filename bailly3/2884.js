@@ -1,1 +1,0 @@
-lar[2884]=`<b>ας (ἡ)</b> Æskra, <i>litt</i>. « la laide » <i>f</i>. ANTH. <i>5, 181</i>.<p>➳ <i>Ion</i>. Αἴσχρη, ANTH. <i>7, 458</i>.`

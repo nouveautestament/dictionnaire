@@ -1,1 +1,0 @@
-lar[31764]=`<b>ἐκ·παίζω</b>, se jouer de, railler, <i>acc</i>. SPT. <i>1Esdr. 1, 49</i>.`

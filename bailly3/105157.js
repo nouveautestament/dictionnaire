@@ -1,1 +1,0 @@
-lar[105157]=`<b>φερεσσί·πονος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. φερέπονος, EPIGR. ANON. <i>1026</i>.`

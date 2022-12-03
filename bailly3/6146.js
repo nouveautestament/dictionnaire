@@ -1,1 +1,0 @@
-lar[6146]=`<b>ἀμφι·ζέω</b>, bouillonner autour, Q. SM. <i>6, 104</i>.`

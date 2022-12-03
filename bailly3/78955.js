@@ -1,1 +1,0 @@
-lar[78955]=`<b>περί·νεφρος, ος, ον</b>, dont les reins sont entourés de graisse, ARSTT. <i>H.A. 3, 17, 6 ; P.A. 3, 9, 16</i>.<p><b>Étym</b>. π. νεφρός.`

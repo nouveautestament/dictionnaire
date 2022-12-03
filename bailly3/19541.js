@@ -1,1 +1,0 @@
-lar[19541]=`<b>ας (ἡ)</b> = <i>lat</i>. Vĕnĕrĕa, <i>fém. de</i> Venereus, de Vénus, DIOSC. <i>1, 2 ; 2, 154 ; 3, 151</i>.<p><b>Étym</b>. <i>Cf</i>. βένους.`

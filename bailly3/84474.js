@@ -1,1 +1,0 @@
-lar[84474]=`<b>προ·καταλλάσσω :<br>      1</b> faire rentrer en grâce, <i>d’où au pass</i>. rentrer en grâce, DC. <i>3, p. 362 Sturz</i>.<br><b>      2</b> fixer d’avance : προκατηλλαγμένος χρόνος, CLÉM. <i>184,</i> temps fixé d’avance.`

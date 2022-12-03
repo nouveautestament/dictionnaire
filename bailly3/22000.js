@@ -1,1 +1,0 @@
-lar[22000]=`<i>adv</i>., en forme de charnière, GAL. <i>4, 10</i> ; ORIB. <i>p. 153, 28</i>.`

@@ -1,1 +1,0 @@
-lar[45452]=`<b>ἡμι·κόσμιον, ου (τὸ)</b> <font color="purple">[μῐ]</font> moitié du monde, hémisphère, CLÉM. <i>38</i>.<p><b>Étym</b>. ἡμι-, κόσμος.`

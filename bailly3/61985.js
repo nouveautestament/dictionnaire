@@ -1,1 +1,0 @@
-lar[61985]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font><br><b>      1</b> semblable à la lyre, THPP. COLOPH. (ATH. <i>183b</i>).<br><b>      2</b> qui convient à la lyre, lyrique, ANTH. <i>7, 30</i>.<p><b>Étym</b>. λύρα.`

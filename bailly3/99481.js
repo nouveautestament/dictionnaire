@@ -1,1 +1,0 @@
-lar[99481]=`<i>adv.</i> de la même façon, HPC. <i>Art. 809</i> ; ARSTT. <i>Plant. 1, 4, 13</i> ; PROCL. <i>V. Hes. p. 48, 89 West</i>.`

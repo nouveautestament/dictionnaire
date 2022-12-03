@@ -1,1 +1,0 @@
-lar[32009]=`<b>ἐκ·ριπίζω</b> <font color="purple">[ρῑ]</font> souffler le feu, allumer, enflammer, ARSTT. <i>Meteor. 1, 8, 14 ; fig</i>. PLUT. <i>Pomp. 8</i>.`

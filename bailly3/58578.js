@@ -1,1 +1,0 @@
-lar[58578]=`<b>ας (ἡ)</b> Récit du séjour d’Ulysse chez les Cyclopes, <i>titre du 9<sup>e</sup> chant de l’Odyssée,</i> EL. <i>V.H. 13, 14</i> ; PHILSTR. <i>p. 248</i>.<p><b>Étym</b>. Κύκλωψ.`

@@ -1,1 +1,0 @@
-lar[75854]=`<b>ατος (τὸ)</b> bavardage à tort et à travers, radotage, DC. <i>59, 26</i>.<p><b>Étym</b>. παραληρέω.`

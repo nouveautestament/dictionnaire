@@ -1,1 +1,0 @@
-lar[21389]=`(<i>seul. prés</i>.) gargariser, DIOSC. <i>1</i>.<p><b>Étym</b>. γαργαρεών.`

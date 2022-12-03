@@ -1,1 +1,0 @@
-lar[45409]=`<b>ἡμι·δανάκη, ης (ἡ)</b> <font color="purple">[ᾰν]</font> demi-δανάκη, <i>monnaie barbare,</i> THÉON <i>Prog. 13 conj</i>.<p><b>Étym</b>. ἡμι-, δ.`

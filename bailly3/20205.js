@@ -1,1 +1,0 @@
-lar[20205]=`(<i>seul. part. prés</i>.) sentir la bourbe, DIOSC. <i>5, 85</i>.<p><b>Étym</b>. βόρβορος.`

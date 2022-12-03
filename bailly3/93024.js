@@ -1,1 +1,0 @@
-lar[93024]=`<b>ατος (τὸ)</b> gond, charnière, <i>ou en gén</i>. appareil <i>ou</i> mouvement rotatoire, HÉRON <i>Bel. 130</i>.<p><b>Étym</b>. στροφόω.`

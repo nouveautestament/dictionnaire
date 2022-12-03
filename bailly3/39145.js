@@ -1,1 +1,0 @@
-lar[39145]=`<b>ἐπι·στοιβάζω</b>, amasser, entasser, SPT. <i>Lev. 1, 7, 8, 12 ; Sir. 8, 3</i>.`

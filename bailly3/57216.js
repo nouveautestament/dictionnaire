@@ -1,1 +1,0 @@
-lar[57216]=`<b>ας (ἡ)</b> Korôneia (Coronée <i>près de</i> Camari) <i>v. de Béotie,</i> IL. <i>2, 503</i> ; THC. <i>1, 113</i> ; XÉN. <i>An. 5, 3, 7</i> ; PLAT. <i>1 Alc. 112c, etc</i>.<p>➳ <i>Ion</i>. -είη, NONN. <i>D. 4, 335</i>.`

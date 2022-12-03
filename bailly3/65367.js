@@ -1,1 +1,0 @@
-lar[65367]=`être de couleur vert pomme, DIOSC. <i>1, 173</i>.<p><b>Étym</b>. μῆλον².`

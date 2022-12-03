@@ -1,1 +1,0 @@
-lar[24255]=`<b>ας (ἡ)</b> recherche de la faveur populaire par la brigue, DH. <i>6, 60 ; 7, 15</i> ; PLUT. <i>Dio. 47</i> ; APP. <i>Hann. 7, 17 ; Civ. 2, 21 ; 3, 60 ; au plur</i>. APP. <i>It. 9</i>.<p><b>Étym</b>. δημοκόπος.`

@@ -1,1 +1,0 @@
-lar[32160]=`<b>ἔκ·τιμος, ος, ον</b> <font color="purple">[ῑ]</font> qui n’honore pas, SOPH. <i>El. 242</i>.<p><b>Étym</b>. ἐκ, τιμή.`

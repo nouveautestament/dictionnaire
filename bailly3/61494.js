@@ -1,1 +1,0 @@
-lar[61494]=`<b>η, ον</b> <font color="purple">[ῐ]</font> digne de mention, notable, remarquable, HDT. <i>1, 143, etc</i>.<p>•<i> Sup</i>. -ώτατος, HDT. <i>9, 37</i>.<p><b>Étym</b>. λόγος.`

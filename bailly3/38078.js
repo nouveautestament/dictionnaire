@@ -1,1 +1,0 @@
-lar[38078]=`<b>ἐπι·κλύω</b> <font color="purple">[ῠ]</font> (<i>seul. impf. 3 sg</i>. ἐπέκλυεν) entendre, écouter, <i>acc</i>. IL. <i>23, 652</i> ; A.RH. <i>3, 598 ; gén</i>. OD. <i>5, 150</i> ; A.RH. <i>1, 1240</i>.`

@@ -1,1 +1,0 @@
-lar[44583]=`<b>(ἡ)</b> sorte de lézard, ARSTT. <i>H.A. 8, 24, 7</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

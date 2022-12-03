@@ -1,1 +1,0 @@
-lar[107700]=`<b>χαλκό·τορος, ος, ον :<br>      1</b> fabriqué (<i>litt</i>. percé <i>ou</i> creusé) en airain, PD. <i>P. 4, 261</i>.<br><b>      2</b> fait (<i>litt</i>. percé <i>ou</i> creusé) par une arme d’airain, <i>en parl. d’une blessure,</i> OPP. <i>H. 5, 329</i>.<p><b>Étym</b>. χ. τείρω.`

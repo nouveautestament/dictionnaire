@@ -1,1 +1,0 @@
-lar[6296]=`<b>ἀμφι·περικτίονες, ων (οἱ)</b> voisins tout alentour, CALLIN. <i>1, 2</i> ; THGN. <i>1058</i>.`

@@ -1,1 +1,0 @@
-lar[35229]=`<b>ἐν·ωτίζομαι</b>, écouter, entendre (<i>litt</i>. se mettre dans l’oreille) SPT. <i>Gen. 4, 23 ; Num. 23, 18 ; Job 32, 11 ; etc.</i> ; NT. <i>Ap. 2, 14</i>.<p><b>Étym</b>. ἐν, <i>th</i>. ὠτ- <i>de</i> οὖς.`

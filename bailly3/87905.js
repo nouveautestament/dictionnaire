@@ -1,1 +1,0 @@
-lar[87905]=`<b>πυρι·στεφής, ής, ές</b> <font color="purple">[ῠ]</font> entouré de feu, NONN. <i>D. 8, 289</i>.<p><b>Étym</b>. π. στέφω.`

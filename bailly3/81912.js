@@ -1,1 +1,0 @@
-lar[81912]=`<b>πολυ·ήχητος</b>, <i>dor</i>. <b>-άχητος, ος, ον</b> <font color="purple">[ᾱ]</font> très sonore, retentissant, EUR. <i>Alc. 918</i>.<p><b>Étym</b>. π. ἠχέω.`

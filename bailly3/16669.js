@@ -1,1 +1,0 @@
-lar[16669]=`(<i>seul. prés. et impf</i>.) <font color="purple">[ᾰτ]</font> nourrir avec tendresse, caresser, <i>acc</i>. HOM. <i>Ep. 4, 2</i> ; SOPH. <i>Aj. 559 ; fig</i>. PD. <i>fr. 233 ; d’où au pass</i>. croître, grandir, HH. <i>Merc. 400</i>.<p><b>Étym</b>. <i>v</i>. ἀτάλλω¹ ; <i>cf</i>. ἀτιτάλλω.`

@@ -1,1 +1,0 @@
-lar[22713]=`<b>ου (τὸ)</b> Gythion, <i>c</i>. Γύθειον, POL. <i>2, 69, etc.</i> ; PLUT. <i>Phil. 14, etc.</i> ; LUC. <i>D. mer. 14, 4 ; etc</i>.`

@@ -1,1 +1,0 @@
-lar[95114]=`<b>συν·διαλαμβάνω</b>, délibérer ensemble, PTOL. <i>Tetr. p. 8 fin</i> ; περί τινος, POL. <i>16, 25, 1,</i> sur qqe ch.`

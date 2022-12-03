@@ -1,1 +1,0 @@
-lar[66414]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. semblable au plomb, DIOSC. <i>5, 102</i> ; PLIN. <i>H.N. 33, 6</i>.`

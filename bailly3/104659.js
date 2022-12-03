@@ -1,1 +1,0 @@
-lar[104659]=`<b>ου (ὁ)</b> Phænestios, <i>h</i>. ANTIPH. (ATH. <i>15a</i>).`

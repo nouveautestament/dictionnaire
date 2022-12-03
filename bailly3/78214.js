@@ -1,1 +1,0 @@
-lar[78214]=`<i>adv</i>., fidèlement, avec foi, ARISTOX. (STOB. <i>Fl. 79, 45).</i><p><b>Étym</b>. πιστεύω.`

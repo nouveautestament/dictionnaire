@@ -1,1 +1,0 @@
-lar[34017]=`<b>ἐν·αρθρόω-ῶ</b>, emboîter des articulations, GAL. <i>2, 735</i>.`

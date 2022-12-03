@@ -1,1 +1,0 @@
-lar[116]=`<b>ἄ·βλαστος, ος, ον</b>, qui ne germe pas <i>ou</i> qui germe mal, TH. <i>H.P. 1, 2, 5</i>.<p><b>Étym</b>. ἀ, βλαστέω.`

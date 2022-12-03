@@ -1,1 +1,0 @@
-lar[24516]=`<b>διά·γυιος, ος, ον</b>, allongé d’un temps, <i>t. de mus</i>. A. QUINT. <i>p. 38</i>.<p><b>Étym</b>. διά, γυῖον.`

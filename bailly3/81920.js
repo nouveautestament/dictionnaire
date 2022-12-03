@@ -1,1 +1,0 @@
-lar[81920]=`<b>πολυ·θαρσής, ής, ές</b>, plein de confiance, audacieux, IL. <i>17, 156</i> ; OD. <i>13, 387</i>.<p><b>Étym</b>. π. θάρσος.`

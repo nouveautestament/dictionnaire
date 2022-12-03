@@ -1,1 +1,0 @@
-lar[99699]=`<font color="purple">[ᾰσ]</font> <i>adv</i>., autant de fois plus, ORIG.<p><b>Étym</b>. τοσαυταπλασίων.`

@@ -1,1 +1,0 @@
-lar[34434]=`<font color="purple">[ῠ]</font> <i>c</i>. ἐνεχυράζω, POL. <i>6, 37, 8</i>.<p><b>Étym</b>. ἐνεχύριος.`

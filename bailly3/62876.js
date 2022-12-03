@@ -1,1 +1,0 @@
-lar[62876]=`<font color="purple">[μᾰ]</font> <i>adv</i>., comme du fenouil, DIOSC. <i>2, 169</i>.`

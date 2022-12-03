@@ -1,1 +1,0 @@
-lar[35979]=`<b>ἐξ·ιδιόομαι-οῦμαι</b> <font color="purple">[ῐδ]</font> <i>c</i>. ἐξιδιάζομαι, XÉN. <i>Hell. 2, 4, 8</i> ; ISOCR. <i>241d</i>.`

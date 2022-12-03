@@ -1,1 +1,0 @@
-lar[67745]=`<b>ου</b>, <i>adj. m</i>. de Naukratis, ANTH. <i>13, 25</i>.<p><b>Étym</b>. Ναύκρατις.`

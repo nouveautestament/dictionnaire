@@ -1,1 +1,0 @@
-lar[18659]=`<font color="purple">[ᾰῐ]</font> à une heure indue, HÉRACLIDE COM. (ATH. <i>532e</i>) ; LUC. <i>Bis acc. 1</i> ; ANTH. <i>12, 116, 3</i> ; νυκτὸς ἀωρί, THCR. <i>Idyl. 24, 38</i> ; ἀ. τῆς νυκτός, ANT. <i>119, 39</i> ; THCR. <i>Idyl. 11, 40</i> ; ἀ. τῶν νυκτῶν, ANT. <i>115, 18</i> ; ἀ, νύκτωρ, AR. <i>Eccl. 741,</i> à une heure indue de la nuit.<p><b>Étym</b>. ἄωρος.`

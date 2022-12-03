@@ -1,1 +1,0 @@
-lar[70269]=`<b>ατος (τὸ)</b> gonflement, tumeur, LUC. <i>Philops. 9, etc. ; fig</i>. gonflement (de colère), PLUT. <i>Cor. 15</i>.<p><b>Étym</b>. οἰδέω.`

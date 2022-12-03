@@ -1,1 +1,0 @@
-lar[72414]=`<b>ὁποτερωθεν·οῦν</b>, <i>adv. relat</i>. de quelque côté que, de quelque part que, ARSTT. <i>An. pr. 2, 11, 3</i>.<p><b>Étym</b>. ὁποτέρωθεν, οὖν.`

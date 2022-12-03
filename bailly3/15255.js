@@ -1,1 +1,0 @@
-lar[15255]=`<b>ἀρταμέω-ῶ</b> (<i>seul. prés. et ao</i>. ἠρτάμησα) <font color="purple">[τᾰ]</font> découper, dépecer, <i>d’où</i> dévorer, EUR. <i>El. 816, Alc. 494</i>.<p><b>Étym</b>. ἄρταμος.`

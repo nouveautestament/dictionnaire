@@ -1,1 +1,0 @@
-lar[81237]=`<b>ποδ·αβρός, ός, όν</b>, à la démarche efféminée, ORACL. (HDT. <i>1, 55).</i><p><b>Étym</b>. πούς, ἁβρός.`

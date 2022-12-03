@@ -1,1 +1,0 @@
-lar[32612]=`<b>*ἐλεγειδάριον, ου (τὸ)</b> <i>lat</i>. elegidarion, <i>dim. de</i> ἐλεγείδιον PÉTRON. <i>Satyr. 109, 8</i>.`

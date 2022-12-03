@@ -1,1 +1,0 @@
-lar[76159]=`<b>παρά·ρρυθμος, ος, ον :<br>      1</b> dont le rythme <i>ou</i> le mouvement est irrégulier, AR. <i>Th. 121 ; en parl. du pouls,</i> GAL. <i>19, 409</i>.<br><b>      2</b> selon le rythme, en mesure, ORPH. <i>H. 30, 3</i>.<p>➳ <i>Poét</i>. παράρυθμος, AR. <i>l. c</i>.<p><b>Étym</b>. π. ῥυθμός.`

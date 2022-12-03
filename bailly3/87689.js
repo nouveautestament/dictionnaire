@@ -1,1 +1,0 @@
-lar[87689]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Pylos, SOPH. <i>Ph. 422</i> ; LUC. <i>Im. 13, etc. ; particul</i>. habitant <i>ou</i> originaire de Pylos, IL. <i>1, 248, etc.</i> ; OD. <i>3, 59</i> ; HDT. <i>5, 65</i> ; XÉN. <i>Hell. 7, 4, 26, etc</i>.<p><b>Étym</b>. Πύλος.`

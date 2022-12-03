@@ -1,1 +1,0 @@
-lar[103985]=`<b>ὑπο·τέρπομαι</b>, se réjouir <i>ou</i> être charmé secrètement, TIMAR.<p><b>Étym</b>. <i>Not. mss. 9, 2, 176</i>.`

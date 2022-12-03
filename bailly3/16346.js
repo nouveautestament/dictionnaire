@@ -1,1 +1,0 @@
-lar[16346]=`<b>ἀστρο·φόρητος, ος, ον</b>, emporté par les astres, SYN. <i>Hymn. 2, 15</i>.<p><b>Étym</b>. ἄ. φορέω.`

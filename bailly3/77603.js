@@ -1,1 +1,0 @@
-lar[77603]=`<b>πείθ·αρχος, ος, ον</b>, obéissant au chef, docile, ESCHL. <i>Pers. 374</i>.<p><b>Étym</b>. π. ἀρχή.`

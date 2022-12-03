@@ -1,1 +1,0 @@
-lar[62998]=`<b>ῶν (οἱ)</b> les Marses, <i>pple du Samnium,</i> PLUT. <i>Syll. 4, etc. ; au sg</i>. Μαρσός, PLUT. <i>Fab. 20,</i> un Marse.`

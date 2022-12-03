@@ -1,1 +1,0 @@
-lar[26559]=`<b>δι·κόνδυλος, ος, ον</b> <font color="purple">[ῐῠ]</font> à deux articulations, ARSTT. <i>H.A. 1, 15, 3</i>.<p><b>Étym</b>. δίς, κόνδυλος.`

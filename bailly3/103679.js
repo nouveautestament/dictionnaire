@@ -1,1 +1,0 @@
-lar[103679]=`<b>οῦ (ὁ)</b> pression en dessous <i>ou</i> pression légère, NAZ.`

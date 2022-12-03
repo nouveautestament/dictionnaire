@@ -1,1 +1,0 @@
-lar[35541]=`<font color="purple">[ᾰσ]</font> multiplier par six, NICOM. <i>Arithm. 48</i>.<p><b>Étym</b>. ἑξαπλάσιος.`

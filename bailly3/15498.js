@@ -1,1 +1,0 @@
-lar[15498]=`<b>ἀρχαιό·πλουτος, ος, ον</b>, d’une antique opulence, ESCHL. <i>Ag. 1043</i> ; SOPH. <i>El. 1395</i> ; LYS. <i>156, 16</i>.<p><b>Étym</b>. ἀ. πλοῦτος.`

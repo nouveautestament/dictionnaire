@@ -1,1 +1,0 @@
-lar[82947]=`<b>ας (ἡ)</b> = <i>lat</i>. Postumia, <i>n. de f. rom</i>. PLUT. <i>Inim. ut. 6</i>.`

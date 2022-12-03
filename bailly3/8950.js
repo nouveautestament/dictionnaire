@@ -1,1 +1,0 @@
-lar[8950]=`<b>ἀνθρωπο·θυσία, ας (ἡ)</b> <font color="purple">[ῠ]</font> sacrifice humain, STR. <i>198</i> ; PLUT. <i>M. 417c</i>.<p><b>Étym</b>. ἄ. θύω.`

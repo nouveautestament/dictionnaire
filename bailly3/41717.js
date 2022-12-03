@@ -1,1 +1,0 @@
-lar[41717]=`<b>εὔ·βολος, ος, ον :<br>      1</b> qui jette (les dés) adroitement, EUB. <i>fr. 58 Kock</i>.<br><b>      2</b> <i>p. ext</i>. qui réussit, heureux, OPP. <i>H. 3, 71</i> ; HLD. <i>5, 18</i>.<p>•<i> Sup</i>. -ώτατος, EUB. <i>l. c</i>.<p><b>Étym</b>. εὖ, βάλλω.`

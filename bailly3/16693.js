@@ -1,1 +1,0 @@
-lar[16693]=`<b>ου (τὸ)</b> temple d’Atargatis, SPT. <i>2Macc. 12, 26</i>.`

@@ -1,1 +1,0 @@
-lar[65995]=`<b>μισθοδοτέω-ῶ :<br>      1</b> donner un salaire : τινι, XÉN. <i>An. 7, 1, 13</i> ; DÉM. <i>667, 3,</i> à qqn ; <i>abs</i>. XÉN. <i>Hell. 4, 8, 21 ; au pass</i>. recevoir une solde, POL. <i>1, 66, 3</i>.<br><b>      2</b> solder, soudoyer une troupe, DÉM. <i>265, 14 (décr</i>.) ; POL. <i>5, 2, 11, etc</i>.<p><b>Étym</b>. μισθοδότης.`

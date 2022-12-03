@@ -1,1 +1,0 @@
-lar[74005]=`<b>ὀψι·κέλευθος, ος, ον</b> <font color="purple">[ῐ]</font> qui voyage <i>ou</i> qui arrive tard, NONN. <i>Jo. 11, 17</i>.<p><b>Étym</b>. ὀψέ, κέλευθος.`

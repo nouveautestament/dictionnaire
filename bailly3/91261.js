@@ -1,1 +1,0 @@
-lar[91261]=`<font color="purple">[ῠ]</font> <i>adv</i>., vers la Scythie, CALL. <i>Dian. 256</i>.<p><b>Étym</b>. Σκυθία, -δε.`

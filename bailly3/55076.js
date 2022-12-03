@@ -1,1 +1,0 @@
-lar[55076]=`<b>κεφαλ·αλγής, ής, ές</b> <font color="purple">[φᾰ]</font><br><b>      1</b> <i>pass</i>. qui a mal à la tête, PLUT. <i>M. 147f.</i><br><b>      2</b> <i>act</i>. qui fait mal à la tête, XÉN. <i>An. 2, 3, 15</i> ; ARÉT. <i>p. 117d, etc</i>.<p><b>Étym</b>. κεφαλή, ἄλγος.`

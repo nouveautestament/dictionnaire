@@ -1,1 +1,0 @@
-lar[70703]=`<i>adv</i>., comme un animal piqué par un taon, OPP. <i>H. 4, 142</i>.<p><b>Étym</b>. οἶστρος, -δον.`

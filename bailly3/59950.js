@@ -1,1 +1,0 @@
-lar[59950]=`<b>λατομέω-ῶ</b> <font color="purple">[ᾱ]</font><br><b>      1</b> tailler des pierres, DS. <i>3, 12 ; avec l’acc.</i> : πέτρας, DS. <i>5, 39, m. sign.</i><br><b>      2</b> tailler dans la pierre, SPT. <i>Ex. 21, 33</i>.<p><b>Étym</b>. λατόμος.`

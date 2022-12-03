@@ -1,1 +1,0 @@
-lar[98117]=`<b>τελέ·αρχος, ου (ὁ)</b> téléarque, <i>officier de police à Thèbes,</i> PLUT. <i>M. 811b</i>.<p><b>Étym</b>. τέλος, ἄρχω.`

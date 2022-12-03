@@ -1,1 +1,0 @@
-lar[16359]=`<b>ἀστυ·άναξ, -άνακτος (ὁ)</b> <font color="purple">[ᾰν]</font> qui règne dans la ville, ESCHL. <i>Suppl. 1019</i>.<p><b>Étym</b>. ἄστυ, ἄναξ.`

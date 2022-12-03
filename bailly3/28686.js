@@ -1,1 +1,0 @@
-lar[28686]=`<b>ου (ὁ)</b> Dysnikètos (<i>litt</i>. l’invincible) <i>h</i>. DÉM. <i>1132, 25</i>.<p><b>Étym</b>. <i>cf</i>. δυσνίκητος.`

@@ -1,1 +1,0 @@
-lar[59558]=`<b>ου</b> <i>ou</i> <b>λαιός, οῦ (ὁ)</b> grive, <i>oiseau,</i> ARSTT. <i>H.A. 9, 19</i> ; A. LIB. <i>19</i>.`

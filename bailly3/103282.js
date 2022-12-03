@@ -1,1 +1,0 @@
-lar[103282]=`<font color="purple">[θῡᾱ]</font> <i>vb. de</i> ὑποθυμιάω GEOP. <i>16, 7, 1</i>.`

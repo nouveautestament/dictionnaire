@@ -1,1 +1,0 @@
-lar[15108]=`<i>adv</i>., au masculin, ATH. <i>590b, etc</i>.<p>➳ ἀρσενικῶς, STR. <i>8, 3, 11 Kram</i>.`

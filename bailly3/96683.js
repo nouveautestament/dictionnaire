@@ -1,1 +1,0 @@
-lar[96683]=`<b>συ·στενάχομαι</b> (<i>seul. impf</i>.) <font color="purple">[ᾰ]</font> <i>c</i>. συστενάζω NONN. <i>D. 40, 163</i>.`

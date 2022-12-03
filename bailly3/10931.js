@@ -1,1 +1,0 @@
-lar[10931]=`<b>ἀξιό·νικος, ος, ον</b> <font color="purple">[νῑ]</font> digne de vaincre, XÉN. <i>Cyr. 1, 5, 10, avec un inf</i>. digne de l’emporter pour, <i>d’où abs</i>. digne de, HDT. <i>7, 187</i>.<p>•<i> Cp</i>. -ότερος, HDT. <i>l. c. ; • Sup</i>. -ότατος, LUC. <i>Anach. 36</i>.<p><b>Étym</b>. ἄ. νίκη.`

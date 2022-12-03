@@ -1,1 +1,0 @@
-lar[39606]=`<b>ατος (τὸ)</b> couvercle, bouchon, HÉRON <i>Spir. 157</i>.<p><b>Étym</b>. ἐπιφράσσω.`

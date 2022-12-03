@@ -1,1 +1,0 @@
-lar[89949]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> ciseleur d’emblèmes sur boucliers, ESCHL. <i>Sept. 491</i>.<p><b>Étym</b>. σῆμα, ἔργον.`

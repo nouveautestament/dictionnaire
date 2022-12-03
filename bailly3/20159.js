@@ -1,1 +1,0 @@
-lar[20159]=`<i>adv</i>., en bourdonnant, A.RH. <i>2, 133</i> ; LUC. <i>Pisc. 42</i> ; MAN. <i>4, 449</i>.<p><b>Étym</b>. βομβέω.`

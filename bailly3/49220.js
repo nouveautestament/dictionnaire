@@ -1,1 +1,0 @@
-lar[49220]=`<b>ἱππ·αλεκτρυών, όνος (ὁ)</b> <font color="purple">[ᾰ]</font> animal fantastique, moitié cheval, moitié coq, ESCHL. <i>fr. 137</i> ; AR. <i>Ran. 937, 959, etc</i>.<p><b>Étym</b>. ἵππος, ἀ.`

@@ -1,1 +1,0 @@
-lar[46910]=`<b>ή, όν</b>, qui concerne la moisson, de moisson : τὸ θεριστικόν, moisson, STR. <i>831</i>.<p><b>Étym</b>. θερίζω.`

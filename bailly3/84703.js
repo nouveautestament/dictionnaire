@@ -1,1 +1,0 @@
-lar[84703]=`<b>Πρό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Promakhos, <i>h</i>. DÉM. <i>40, 28 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. πρόμαχος.`

@@ -1,1 +1,0 @@
-lar[102935]=`<b>ὑπ·ευλαβέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> être quelque peu effrayé de, <i>avec l’inf</i>. SPT. <i>2Macc. 14, 18</i>.`

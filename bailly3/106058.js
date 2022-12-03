@@ -1,1 +1,0 @@
-lar[106058]=`<b>φιλ·όργιος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime les cérémonies orgiaques <i>ou</i> les fêtes, ANTH. <i>10, 25</i>.<p><b>Étym</b>. φ. ὄργια.`

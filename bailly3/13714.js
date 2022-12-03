@@ -1,1 +1,0 @@
-lar[13714]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> négation, <i>p. opp. à</i> φάσις, PLAT. <i>Soph. 263e ;</i> ARSTT. <i>Interpr. 6, 1, etc. ; t. de gramm</i>. négation, PLUT. <i>M. 513a ;</i> DYSC. <i>Conj. 526, 20, etc</i>.<p><b>Étym</b>. ἀπόφημι.`

@@ -1,1 +1,0 @@
-lar[54903]=`<b>κεραυνο·σκοπία, ας (ἡ)</b> action d’observer la foudre pour les présages, DS. <i>5, 40</i>.<p><b>Étym</b>. κεραυνός, σκοπέω.`

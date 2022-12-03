@@ -1,1 +1,0 @@
-lar[97063]=`<b>εως (ἡ)</b> <font color="purple">[χῐ]</font> fente, séparation, PLAT. <i>Phæd. 97a, 101c, etc. ; en parl. des pieds des animaux</i> (<i>v</i>. σχιστός) ARSTT. <i>P.A. 3, 2, 8 ; de la séparation d’un cours d’eau en bras,</i> PLUT. <i>M. 93b ;</i> σχ. τοῦ γάλακτος, ORIB. <i>63 Mai,</i> séparation du lait qui caille.<p><b>Étym</b>. σχίζω.`

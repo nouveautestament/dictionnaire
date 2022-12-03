@@ -1,1 +1,0 @@
-lar[91232]=`<b>α, ον</b>, de Skotoussa, XÉN. <i>Hell. 4, 3, 3, etc.</i> ; ἡ Σκοτουσσαία (<i>s.-e</i>. χώρα) PLUT. <i>Thes. 27,</i> le territoire de Skotoussa.<p><b>Étym</b>. Σκοτοῦσσα.`

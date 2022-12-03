@@ -1,1 +1,0 @@
-lar[100947]=`<i>gén</i>. <b>τρωγός (ὁ)</b> ver qui mange les fruits <i>ou</i> les légumes, STRATT. (PHOT. <i>p. 609, 11).</i><p><b>Étym</b>. τρώγω.`

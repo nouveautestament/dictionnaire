@@ -1,1 +1,0 @@
-lar[13523]=`<b>ἀπο·σχηματίζω</b> <font color="purple">[μᾰ]</font> changer l’extérieur, transformer, SOCR. <i>Ep. 28</i>.`

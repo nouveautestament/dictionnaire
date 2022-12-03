@@ -1,1 +1,0 @@
-lar[29096]=`<b>δωδεκά·παλαι</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., depuis un siècle (<i>litt</i>. depuis douze fois longtemps) AR. <i>Eq. 1154</i>.<p><b>Étym</b>. δ. πάλαι.`

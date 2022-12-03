@@ -1,1 +1,0 @@
-lar[47654]=`<b>εως (ἡ)</b> action de nourrir, d’élever, GAL. <i>2, 243</i> ; A. APHR. <i>Probl. 74, 19</i> ; SEXT. <i>243, 19 ; 265, 18 Bkk</i>.<p><b>Étym</b>. τρέφω.`

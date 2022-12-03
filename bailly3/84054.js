@@ -1,1 +1,0 @@
-lar[84054]=`<b>προ·εισέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> -ῆλθον, <i>etc</i>.)</font> entrer auparavant <i>ou</i> le premier, <i>avec</i> εἰς <i>et l’acc</i>. DÉM. <i>840, 5</i> ; DS. <i>16, 94</i>.`

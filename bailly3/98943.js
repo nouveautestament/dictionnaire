@@ -1,1 +1,0 @@
-lar[98943]=`<b>τηλε·σκόπος, ος, ον</b>, qui observe au loin, AR. <i>Nub. 290</i>.<p><b>Étym</b>. τ. σκοπέω.`

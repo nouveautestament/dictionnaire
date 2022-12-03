@@ -1,1 +1,0 @@
-lar[56643]=`<b>ου (ὁ)</b> la massue d’Orion, <i>constellation,</i> PTOL. <i>Math. synt. t. 2, p. 68, 39 et 89, 7</i>.`

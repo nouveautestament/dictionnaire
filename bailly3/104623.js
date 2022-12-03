@@ -1,1 +1,0 @@
-lar[104623]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> lumière, CALL. <i>Dian. 11</i> ; MUS. <i>302</i>.<p><b>Étym</b>. φαεσφόρος.`

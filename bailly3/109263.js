@@ -1,1 +1,0 @@
-lar[109263]=`<b>χρυσό·στεγος, ος, ον</b> <font color="purple">[ῡ]</font> au toit d’or <i>ou</i> doré, HIM. <i>18, 3</i>.<p><b>Étym</b>. χρ. στέγη.`

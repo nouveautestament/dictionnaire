@@ -1,1 +1,0 @@
-lar[11695]=`<b>ἀπ·εναρίζω</b> <font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>ao. pass</i>. ἀπηναρίσθην)</font> dépouiller, HIPPON. <i>fr. 42</i>.<p><b>Étym</b>. ἀπό, ἐναρίζω.`

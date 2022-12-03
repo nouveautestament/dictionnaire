@@ -1,1 +1,0 @@
-lar[97086]=`<b>ίτιδος</b> <font color="purple">[ῑτῐδ]</font> fait de jonc, ANTH. <i>7, 295</i>.<p><b>Étym</b>. σχοῖνος.`

@@ -1,1 +1,0 @@
-lar[51892]=`<b>καρπο·σπόρος, ος, ον</b>, qui sème des graines, qui ensemence, MAN. <i>4, 256</i>.<p><b>Étym</b>. κ. σπείρω.`

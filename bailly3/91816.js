@@ -1,1 +1,0 @@
-lar[91816]=`<b>ου (τὸ)</b> petite base de colonne, d’un monument, HÉRON <i>Aut. 246c</i>.<p><b>Étym</b>. σπεῖρα.`

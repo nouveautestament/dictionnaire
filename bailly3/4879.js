@@ -1,1 +1,0 @@
-lar[4879]=`<b>ων (οἱ)</b> les Almôpes, <i>pple macédonien,</i> THC. <i>2, 99</i>.<p><b>Étym</b>. <i>v</i>. Ἀλμωπία.`

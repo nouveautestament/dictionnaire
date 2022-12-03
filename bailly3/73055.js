@@ -1,1 +1,0 @@
-lar[73055]=`<b>(ὁ)</b> Orsodatès, <i>Perse,</i> PLUT. <i>Alex. 57</i>.`

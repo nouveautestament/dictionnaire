@@ -1,1 +1,0 @@
-lar[103792]=`<b>ὑπ·ορχέομαι-οῦμαι :<br>      1</b> danser au son de la musique, ESCHL. <i>Ch. 1025</i> ; ὄρχησιν, PLUT. <i>Num. 13,</i> exécuter une danse au son de la musique.<br><b>      2</b> danser une pantomime (<i>litt</i>. danser en laissant deviner les sentiments du personnage) LUC. <i>Salt. 16</i> ; γόους, HLD. <i>6, 8,</i> danser une pantomime avec gémissements.`

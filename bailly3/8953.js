@@ -1,1 +1,0 @@
-lar[8953]=`<b>ἀνθρωπο·κόμος, ου (ὁ)</b> qui prend soin des hommes, RHÉT. <i>3, 607 W</i>.<p><b>Étym</b>. ἄ. κομέω.`

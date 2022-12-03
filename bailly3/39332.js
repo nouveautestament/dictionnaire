@@ -1,1 +1,0 @@
-lar[39332]=`<b>εως (ἡ)</b> ordre, injonction, PLAT. <i>Theæt. 209d, Tim. 20d, Leg. 834d ;</i> ARSTT. <i>Pol. 1, 1 ; 7, 4</i> ; ἐπ. τοῦ φόρου, HDT. <i>3, 89,</i> réquisition du tribut ; <i>fig</i>. ἐπ. τῆς ψυχῆς, PLAT. <i>Leg. 687c</i>, suggestion de l’âme.<p><b>Étym</b>. ἐπιτάσσω.`

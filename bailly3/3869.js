@@ -1,1 +1,0 @@
-lar[3869]=`<b>ἀκρο·φύσιον, ου (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> extrémité du tuyau d’un soufflet, THC. <i>4, 100</i> ; SOPH. <i>fr. 824</i> ; AR. <i>fr. 561</i>.<br><b>      2</b> queue de comète, DC. <i>78, 30</i>.<p><b>Étym</b>. ἄ. φῦσα.`

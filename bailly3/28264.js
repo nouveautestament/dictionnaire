@@ -1,1 +1,0 @@
-lar[28264]=`<b>δύσ·βωλος, ος, ον</b>, qui consiste en mauvaises mottes de terre, HOM. <i>Ep. 7</i> ; ANTH. <i>7, 401</i>.<p><b>Étym</b>. δ. βῶλος.`

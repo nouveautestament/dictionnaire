@@ -1,1 +1,0 @@
-lar[54915]=`<b>ου (ὁ)</b> Kerbéros (Cerbère) <i>chien à trois têtes qui gardait l’entrée des enfers</i> ; HÉS. <i>Th. 311</i> ; XÉN. <i>An. 6, 2, 2</i> ; PLAT. <i>Rsp. 588c ;</i> LUC. <i>D. mort. 20, etc</i>.`

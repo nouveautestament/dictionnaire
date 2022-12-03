@@ -1,1 +1,0 @@
-lar[25989]=`<b>δί·γνωμος, ος, ον</b>, qui hésite entre deux avis, irrésolu, SIMPL. <i>Epict. p. 322</i> ; DIOGÉN. <i>4, 32</i>.<p><b>Étym</b>. δίς, γνώμη.`

@@ -1,1 +1,0 @@
-lar[77677]=`<b>ας (ἡ)</b> Peisaura (<i>auj</i>. Pesaro) <i>v. sur l’Adriatique,</i> PLUT. <i>Ant. 60</i>.`

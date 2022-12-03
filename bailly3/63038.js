@@ -1,1 +1,0 @@
-lar[63038]=`<b>ητος (ὁ) :<br>      1</b> cuir travaillé, <i>d’où</i> lanière <i>ou</i> cordon de cuir, HPC. <i>482, 28</i> ; SOPH. <i>fr. 137</i>.<br><b>      2</b> <i>fig</i>. souple comme une lanière, <i>càd</i>. plat, rusé, AR. <i>Eq. 270, Nub. 449</i>.<p><b>Étym</b>. μάσθλη.`

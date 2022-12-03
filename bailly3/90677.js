@@ -1,1 +1,0 @@
-lar[90677]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. σκαριφισμός NUMÉN. (EUS. <i>P.E. 728b</i>).`

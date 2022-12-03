@@ -1,1 +1,0 @@
-lar[746]=`<b>ἄ·γναμπτος, ος, ον</b>, qui ne plie pas, inflexible : πρός τι, PLUT. <i>Cato mi. 11,</i> à l’égard de qqe ch.<p><b>Étym</b>. ἀ, γνάμπτω.`

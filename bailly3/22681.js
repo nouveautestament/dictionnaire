@@ -1,1 +1,0 @@
-lar[22681]=`<b>ου</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. de Gryneion (Apollon), ORPH. <i>H. 34, 4 ; etc</i>.<p><b>Étym</b>. Γρύνειον.`

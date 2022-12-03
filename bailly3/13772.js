@@ -1,1 +1,0 @@
-lar[13772]=`<b>ἀπο·φυτεύω</b> <font color="purple">[ῠ]</font> planter une bouture, ARSTT. <i>G.A. 3, 11, 11</i> ; TH. <i>H.P. 7, 2, 1</i>.`

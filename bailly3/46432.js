@@ -1,1 +1,0 @@
-lar[46432]=`<b>θεατρο·κόπος, ος, ον</b> <font color="purple">[ᾱ]</font> qui brigue les applaudissements sur la scène, PROCL. <i>Ptol. p. 231</i>.<p><b>Étym</b>. θ. κόπτω.`

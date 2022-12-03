@@ -1,1 +1,0 @@
-lar[68228]=`<b>νεο·ρραφής, ής, ές</b> <font color="purple">[ᾰ]</font> nouvellement cousu, LGS <i>4, 14</i>.<p><b>Étym</b>. ν. ῥάπτω.`

@@ -1,1 +1,0 @@
-lar[3427]=`<b>ατος (τὸ)</b> mauvaise chance, malheur, DS. <i>13, 31</i>.<p><b>Étym</b>. ἀκληρέω.`

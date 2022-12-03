@@ -1,1 +1,0 @@
-lar[1910]=`<b>ατος (τὸ)</b> souffle, ESCHL. <i>Ag. 1418, Eum. 905</i> ; SOPH. <i>Aj. 674</i>.<p><b>Étym</b>. ἄημι.`

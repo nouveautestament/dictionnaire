@@ -1,1 +1,0 @@
-lar[10017]=`<b>ἀντι·λακτίζω</b> <font color="darkgreen">(<i>ao</i>. ἀντελάκτισα)</font> ruer contre, regimber contre, <i>dat</i>. AR. <i>Pax 613 ; acc</i>. PLUT. <i>M. 10c</i>.`

@@ -1,1 +1,0 @@
-lar[99177]=`<b>τιμαιο·γραφέω-ῶ</b> <font color="purple">[ῑᾰ]</font> écrire un dialogue intitulé Timæos, <i>en parl. de Platon,</i> TIMON <i>26, 3</i>.<p><b>Étym</b>. Τίμαιος, γράφω.`

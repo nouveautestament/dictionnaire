@@ -1,1 +1,0 @@
-lar[59403]=`<b>      1</b> avoir un commerce intime, <i>en parl. de l’homme,</i> HPC. <i>548, 27</i>.<br><b>      2</b> être libertin, PLUT. <i>M. 136d.</i><br><b><i>Moy.</i></b> <i>c. à l’act., en parl. de la femme,</i> HPC. <i>1149d</i>.<p><b>Étym</b>. λάγνης.`

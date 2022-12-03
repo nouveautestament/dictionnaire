@@ -1,1 +1,0 @@
-lar[50710]=`<b>κακοδοξέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir une mauvaise réputation, XÉN. <i>Mem. 1, 7, 2, etc</i>.<p><b>Étym</b>. κακόδοξος.`

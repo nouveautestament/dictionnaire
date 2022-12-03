@@ -1,1 +1,0 @@
-lar[108942]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> homme riche, MAN. <i>4, 378</i>.<p><b>Étym</b>. χρῆμα.`

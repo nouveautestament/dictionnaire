@@ -1,1 +1,0 @@
-lar[94763]=`<b>ῆς (ἡ)</b> lever simultané de deux astres, STR. <i>12</i>.<p><b>Étym</b>. συνανατέλλω.`

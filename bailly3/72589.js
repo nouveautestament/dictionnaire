@@ -1,1 +1,0 @@
-lar[72589]=`<b>ὀρει·δρόμος, ος, ον</b>, qui court à travers les montagnes, EUR. <i>I.A. 1593</i>.<p><b>Étym</b>. ὄρος, δραμεῖν.`

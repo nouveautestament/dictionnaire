@@ -1,1 +1,0 @@
-lar[33877]=`<b>ἐν·ανθρωπίνως</b>, <i>adv</i>., à la façon des hommes, BAS. <i>1, 760 Migne</i>.<p><b>Étym</b>. ἐν, ἀνθρώπινος.`

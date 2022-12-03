@@ -1,1 +1,0 @@
-lar[40416]=`<b>ἐρί·δηλος, ος, ον</b>, très clair, <i>d’où</i> très connu, NONN. <i>Jo. 18, v. 15</i>.<p><b>Étym</b>. ἐρι-, δῆλος.`

@@ -1,1 +1,0 @@
-lar[11269]=`<font color="purple">[τᾰ]</font> <i>adv</i>., partout, en tous lieux, <i>avec mouv</i>. PLUT. <i>Cam. 41</i>.`

@@ -1,1 +1,0 @@
-lar[83988]=`<b>προ·διορθόομαι-οῦμαι</b>, corriger auparavant, HERMIAS <i>Plat. Phædr. p. 109</i>.`

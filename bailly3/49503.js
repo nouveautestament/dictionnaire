@@ -1,1 +1,0 @@
-lar[49503]=`<b>ων (τὰ)</b> <font color="purple">[ῑῠ]</font> <i>ion. c</i>. Ἱεροσόλυμα, NONN. <i>Jo. 2, 71, etc</i>.`

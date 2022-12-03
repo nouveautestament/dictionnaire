@@ -1,1 +1,0 @@
-lar[28771]=`<b>δυσ·παρατήρητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à observer, A. CAR. <i>140</i> ; PORPH. <i>Abst. 3, 4</i>.<p><b>Étym</b>. δ. παρατηρέω.`

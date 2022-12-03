@@ -1,1 +1,0 @@
-lar[9104]=`<font color="purple">[ᾰῐ]</font> <i>adv. béot. c</i>. ἄνευ, sans, AR. <i>Ach. 834</i> ; LYC. <i>350</i> ; NIC. <i>Al. 419</i>.`

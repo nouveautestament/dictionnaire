@@ -1,1 +1,0 @@
-lar[462]=`<b>ἀγελαιο·τρόφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui élève des troupeaux, M. TYR. <i>105, 31 Dübn</i>.<p><b>Étym</b>. ἀγελαῖος, τρέφω.`

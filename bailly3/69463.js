@@ -1,1 +1,0 @@
-lar[69463]=`<b>ξενο·δόχος, ος, ον</b>, qui accueille les étrangers, hospitalier, JAMBL. <i>V. Pyth. p. 113</i>.<p>➳ <i>Ion</i>. ξεινοδόκος, IL. <i>3, 354</i> ; OD. <i>8, 542, etc</i>.<p><b>Étym</b>. ξένος, δέχομαι.`

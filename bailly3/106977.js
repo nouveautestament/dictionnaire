@@ -1,1 +1,0 @@
-lar[106977]=`<b>οῦ (τὸ)</b> <i>sorte de plante,</i> GEOP. <i>12, 1, 2</i>.`

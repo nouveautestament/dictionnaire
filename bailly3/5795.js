@@ -1,1 +1,0 @@
-lar[5795]=`<b>ῶνος (ὁ)</b> vignoble, THCR. <i>Idyl. 25, 157</i>.<p><b>Étym</b>. ἄμπελος.`

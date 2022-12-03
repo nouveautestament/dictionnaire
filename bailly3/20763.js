@@ -1,1 +1,0 @@
-lar[20763]=`<b>ου (τὸ)</b> = <i>lat</i>. Brundusium (<i>auj</i>. Brindisi), Brindes, <i>v. de Calabre,</i> HDT. <i>4, 99</i> ; POL. <i>etc</i>.`

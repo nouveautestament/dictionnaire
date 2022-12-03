@@ -1,1 +1,0 @@
-lar[18947]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰῑ]</font> <i>s.-e</i>. λίθος, sorte de pierre précieuse en forme de gland, PLIN. <i>H.N. 37, 10</i>.<p><b>Étym</b>. βάλανος.`

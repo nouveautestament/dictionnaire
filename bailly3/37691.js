@@ -1,1 +1,0 @@
-lar[37691]=`<b>ἐπι·δυσχεραίνω</b>, être fâché <i>ou</i> mécontent de, PLUT. <i>M. 864b</i>.`

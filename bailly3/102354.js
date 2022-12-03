@@ -1,1 +1,0 @@
-lar[102354]=`<b>ὑπερ·βλύζω</b>, bouillonner par-dessus, déborder, <i>acc</i>. Q. SM. <i>11, 192 ; abs</i>. Q. SM. <i>5, 324 ; fig</i>. CLÉM. <i>167</i>.`

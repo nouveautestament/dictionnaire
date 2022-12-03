@@ -1,1 +1,0 @@
-lar[71601]=`<b>ὁμό·λεκτρος, ος, ον</b>, qui partage son lit avec, EUR. <i>Or. 476</i> ; épouse, <i>Or. 508</i> ; ANTH. <i>7, 295</i>.<p><b>Étym</b>. ὁμ. λέκτρον.`

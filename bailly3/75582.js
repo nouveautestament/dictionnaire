@@ -1,1 +1,0 @@
-lar[75582]=`<b>παρα·θεάομαι-εῶμαι</b>, mettre en regard, comparer, PLAT. <i>Ep. 313c ;</i> TH. <i>Char. proœm</i>.`

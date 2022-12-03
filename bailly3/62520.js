@@ -1,1 +1,0 @@
-lar[62520]=`<b>μακροκαταληκτέω-ῶ</b> <font color="purple">[ᾰτᾰ]</font> avoir la κατάληξις longue, <i>càd. en parl. d’un vers auquel manque un demi-pied,</i> avoir long le demi-pied de la fin, DRAC. <i>19, 17</i> ; ARC. <i>193, 5</i>.<p><b>Étym</b>. μακροκατάληκτος.`

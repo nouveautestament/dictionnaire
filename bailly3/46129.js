@@ -1,1 +1,0 @@
-lar[46129]=`<b>θαλαμ·ηγός, ός, όν</b> <font color="purple">[ᾰᾰ]</font> garni de chambres, <i>d’où subst</i>. ἡ θαλαμηγός, DS. <i>1, 85</i> ; STR. <i>800</i> ; ATH. <i>204d ;</i> τὸ θαλαμηγόν, APP. <i>Pr. 10,</i> sorte de gondole égyptienne.<p><b>Étym</b>. θάλαμος, ἄγω.`

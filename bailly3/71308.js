@@ -1,1 +1,0 @@
-lar[71308]=`<b>ας (ἡ)</b> alliance militaire, confédération, THC. <i>1, 18</i> ; APP. <i>Celt. 15</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>7, 145 ; 8, 140</i>.<p><b>Étym</b>. ὅμαιχμος.`

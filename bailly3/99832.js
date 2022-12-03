@@ -1,1 +1,0 @@
-lar[99832]=`<b>α, ον</b> <font color="purple">[ᾰγᾰ]</font> de Tragases <i>en Troade,</i> HELLANIC. (E. BYZ. <i>v°</i> Τραγασαῖος) ; STR. <i>605 ; p. allus. comique au rad. de</i> τραγεῖν (avaler) goulu, <i>en parl. de porcs,</i> AR. <i>Ach. 808</i>.`

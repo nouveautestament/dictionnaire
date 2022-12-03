@@ -1,1 +1,0 @@
-lar[97037]=`<b>σχηματο·θήκη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> magasin de masques <i>ou</i> de costumes, ATH. <i>258a</i>.<p><b>Étym</b>. σχῆμα, θήκη.`

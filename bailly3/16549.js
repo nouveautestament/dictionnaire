@@ -1,1 +1,0 @@
-lar[16549]=`<b>ης (ἡ)</b> sorte de cannelier, <i>arbre,</i> DIOSC. <i>1, 12</i>.`

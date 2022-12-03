@@ -1,1 +1,0 @@
-lar[7687]=`<b>ἀνα·στεφανόω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[φᾰ]</font> <i>c</i>. ἀναστέφω ANTH. <i>5, 36</i>.`

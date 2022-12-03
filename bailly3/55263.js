@@ -1,1 +1,0 @@
-lar[55263]=`<b>κηριο·κλέπτης, ου (ὁ)</b> qui vole des rayons de miel, THCR. <i>Idyl. 19 (titre).</i><p><b>Étym</b>. κηρίον, κλέπτης.`

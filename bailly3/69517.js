@@ -1,1 +1,0 @@
-lar[69517]=`<b>ά, όν</b>, sec, <i>seul. dans les locut</i>. ποτὶ ξερὸν ἠπείροιο, OD. <i>5, 402, ou simpl</i>. ποτὶ ξερόν, ANTH. <i>6, 304</i> ; ἐπὶ ξερόν, NIC. <i>Th. 704,</i> vers la terre ferme.<p><b>Étym</b>. <i>ion. et épq. c</i>. ξηρός.`

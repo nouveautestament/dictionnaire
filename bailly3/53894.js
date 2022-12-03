@@ -1,1 +1,0 @@
-lar[53894]=`<b>κατ·επάγω</b>, amener <i>ou</i> porter sur, AR. <i>Eq. 25 ; fig</i>. τιμωρίαν τινί, PLUT. <i>M. 551d</i>, infliger un châtiment à qqn.`

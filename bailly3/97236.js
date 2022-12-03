@@ -1,1 +1,0 @@
-lar[97236]=`<b>εως (τὸ)</b> substance métallique inconnue, <i>p.-ê</i>. sulfate de cuivre, DIOSC. <i>5, 119</i>.<p>➳ <i>Gén</i>. *σώρυος = <i>lat</i>. soryos, PLIN. <i>H.N. 34, 10, 29</i>.`

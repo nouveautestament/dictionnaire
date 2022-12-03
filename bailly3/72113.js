@@ -1,1 +1,0 @@
-lar[72113]=`<b>ὀξυλαβέω-ῶ</b> <font color="purple">[ῠ]</font> saisir promptement l’occasion, être actif, XÉN. <i>Hell. 7, 4, 27</i>.<p><b>Étym</b>. ὀξυλαβής.`

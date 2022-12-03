@@ -1,1 +1,0 @@
-lar[45030]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit assaisonnement, TÉLÉCL. (ATH. <i>268c</i>).<p><b>Étym</b>. ἥδυσμα.`

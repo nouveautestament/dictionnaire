@@ -1,1 +1,0 @@
-lar[97784]=`<b>ταυρό·κερως, ωτος (ὁ, ἡ)</b> aux cornes de taureau, EUR. <i>Bacch. 100</i> ; ORPH. <i>H. 52, 2</i>.<p><b>Étym</b>. τ. κέρας.`

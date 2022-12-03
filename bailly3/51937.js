@@ -1,1 +1,0 @@
-lar[51937]=`<b>ων (τὰ)</b> Kartéries, <i>petite î. près de Smyrne,</i> THC. <i>8, 101 (var</i>. Κρατέρεια).<p><b>Étym</b>. καρτερός.`

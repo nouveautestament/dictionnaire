@@ -1,1 +1,0 @@
-lar[28658]=`<b>δυσ·μετάθετος, ος, ον</b>, difficile à changer, PLUT. <i>M. 799b ; d’où</i> obstiné, POL. <i>Exc. Vat. p. 401</i>.<p><b>Étym</b>. δ. μετατίθημι.`

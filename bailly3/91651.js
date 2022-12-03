@@ -1,1 +1,0 @@
-lar[91651]=`<b>ου (τὸ)</b> = <i>lat</i>. colonia Sutrina (<i>auj</i>. Sutri) <i>v. d’Étrurie,</i> PLUT. <i>Cam. 33, 35, etc</i>.`

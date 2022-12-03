@@ -1,1 +1,0 @@
-lar[8777]=`<b>ίδος (ἡ) :<br>      1</b> fleur, ANTH. <i>6, 267</i>.<br><b>      2</b> <i>particul</i>. camomille, DIOSC. <i>3, 144</i> ; NIC. (ATH. <i>683e</i>).<p><b>Étym</b>. ἄνθος.`

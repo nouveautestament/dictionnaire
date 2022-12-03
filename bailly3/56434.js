@@ -1,1 +1,0 @@
-lar[56434]=`<b>κοιλό·σταθμος, ος, ον</b>, plafonné de planches recourbées, lambrissé, SPT. <i>Agg. 1, 4</i>.<p><b>Étym</b>. κοῖλος, σταθμός.`

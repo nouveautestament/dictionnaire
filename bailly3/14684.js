@@ -1,1 +1,0 @@
-lar[14684]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> d’Aristippe, D. PHAL. <i>29</i>.<p><b>Étym</b>. <i>v</i>. Ἀρίστιππος.`

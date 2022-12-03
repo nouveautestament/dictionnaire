@@ -1,1 +1,0 @@
-lar[48989]=`<b>ας (ἡ)</b> <i>mot forgé par</i> PLAT. <i>Crat. 418c</i>, d, <i>pour expliquer</i> ἡμέρα.`

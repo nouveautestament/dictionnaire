@@ -1,1 +1,0 @@
-lar[70867]=`<b>ὀκτ·ήρης, ης, ες</b>, <i>propr</i>. ajusté huit fois : <i>subst</i>. ἡ ὀ. (<i>s.-e</i>. ναῦς) POL. <i>16, 3, 2 et 7, etc.</i> ; PLUT. <i>Ant. 61,</i> vaisseau à huit rangs de rames.<p><b>Étym</b>. ὀ. ἀραρίσκω <i>et</i> ἐρέσσω.`

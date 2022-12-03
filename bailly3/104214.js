@@ -1,1 +1,0 @@
-lar[104214]=`<b>ὑπό·ψιλος, ος, ον</b> <font color="purple">[ῑ]</font> presque sans poils, PTOL. <i>Tetr. p. 143</i>.<p><b>Étym</b>. ὑ. ψιλός.`

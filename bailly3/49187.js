@@ -1,1 +1,0 @@
-lar[49187]=`<b>ου (ὁ)</b> = <i>lat</i>. Justinus, <i>n. d’h</i>. ANTH. <i>1, 2, etc</i>.`

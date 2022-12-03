@@ -1,1 +1,0 @@
-lar[27484]=`<b>ωνος (ὁ)</b> Dolôn, <i>Troyen,</i> IL. <i>10, 314, etc.</i> ; EUR. <i>Rhes. 154, etc</i>.<p>➳ <i>Voc</i>. -ων, IL. <i>10, 447</i>.<p><b>Étym</b>. δόλος.`

@@ -1,1 +1,0 @@
-lar[23632]=`<b>δεισ·ήνωρ, ορος (ὁ, ἡ)</b> qui craint <i>ou</i> respecte un époux, ESCHL. <i>Ag. 154</i>.<p><b>Étym</b>. δείδω, ἀνήρ.`

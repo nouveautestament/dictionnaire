@@ -1,1 +1,0 @@
-lar[6256]=`<b>ἀμφι·μάχομαι</b> <font color="darkgreen">(<i>seul. prés. et impf. 3 pl</i>. ἀμφεμάχοντο <font color="purple">[μᾰ]</font>) :</font><br><b>      1</b> combattre autour de, <i>acc</i>. IL. <i>6, 461 ; 16, 73 ; 18, 208</i>.<br><b>      2</b> combattre pour, au sujet de, <i>gén</i>. IL. <i>13, 391 ; 16, 496 ; 18, 20</i>.`

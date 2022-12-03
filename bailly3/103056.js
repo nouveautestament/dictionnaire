@@ -1,1 +1,0 @@
-lar[103056]=`<b>ὑπό·γαιος, ος, ον</b>, souterrain, HDT. <i>2, 100, 148 ; 4, 200</i> ; ESCHL. <i>fr. 55</i> ; PAUS. <i>2, 18, 6 ; 3, 25, 5</i> ; SPT. <i>Jer. 45, 11, etc.</i> ; τὸ ὑπ. HDN <i>1, 15, 13,</i> le souterrain.<p><b>Étym</b>. ὑ. γῆ ; <i>cf</i>. ὑπόγειος.`

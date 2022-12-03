@@ -1,1 +1,0 @@
-lar[47514]=`<b>Θού·μαντις, ιδος</b>, <i>acc</i>. <b>-ιν (ὁ)</b> Thoumantis, <i>h</i>. AR. <i>Eq. 1268</i> ; HERMIPP. (ATH. <i>551a</i>).<p><b>Étym</b>. θεός, μάντις.`

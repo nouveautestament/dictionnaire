@@ -1,1 +1,0 @@
-lar[107271]=`<b>φυσιο·ποιέω-ῶ</b> <font color="purple">[ῠ]</font> faire comme d’après la nature, CLÉM. <i>631</i>.<p><b>Étym</b>. φύσις, ποιέω.`

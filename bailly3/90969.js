@@ -1,1 +1,0 @@
-lar[90969]=`<b>ου (ὁ)</b> Skiros, <i>héros de Salamine,</i> PLUT. <i>Thes. 17</i>.`

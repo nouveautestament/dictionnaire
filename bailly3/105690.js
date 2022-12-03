@@ -1,1 +1,0 @@
-lar[105690]=`<b>ή, όν</b> <font color="purple">[φῐ]</font> propre à créer <i>ou</i> à entretenir l’amitié, THEOL. <i>p. 5</i>.<p><b>Étym</b>. φιλιόω.`

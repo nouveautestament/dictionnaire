@@ -1,1 +1,0 @@
-lar[78161]=`<b>πεντ·ώβολος, ος, ον</b>, qui coûte cinq oboles, AR. <i>Eq. 798</i> ; τὸ πεντώβολον, LYC. (ATH. <i>420b</i>), somme de cinq oboles.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>1, 324, a, 45 (408 av. J.-C.) ; v. Meisterh. p. 18, 8 ; sur l’écriture</i> πεντώβολος, <i>non</i> πεντώβελος, <i>v</i>. ὀβελός <i>et</i> ὀβολός.<p><b>Étym</b>. π. ὀβολός.`

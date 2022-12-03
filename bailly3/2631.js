@@ -1,1 +1,0 @@
-lar[2631]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, sanglant, ESCHL. <i>Suppl. 847</i> ; EUR. <i>Hec. 90</i>.<p><b>Étym</b>. αἷμα.`

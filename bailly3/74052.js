@@ -1,1 +1,0 @@
-lar[74052]=`<b>ὀψοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> manger des aliments cuits, ARSTT. <i>H.A. 9, 40, 32</i>.<br><b>      2</b> manger des poissons, AR. <i>Nub. 983</i>.<p><b>Étym</b>. ὀψοφάγος.`

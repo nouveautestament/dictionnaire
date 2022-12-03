@@ -1,1 +1,0 @@
-lar[23800]=`<b>ακος</b> (ἡ, <i>postér</i>. ὁ) <font color="purple">[ᾰ]</font><br><b>      1</b> cochon, HDT. <i>2, 70</i> ; AR. <i>fr. 421</i> ; COM. (ATH. <i>374d</i>).<br><b>      2</b> cochon de lait, ARSTT. <i>H.A. 6, 18, 19</i>.<p>➳ ἡ δέλφαξ, HDT. AR. ARSTT. <i>ll. cc.</i> ; ὁ δέλφαξ, EPICH. ANAXIL. <i>et</i> PLAT. COM. (ATH. <i>l. c</i>.).<p><b>Étym</b>. <i>cf</i>. δελφύς.`

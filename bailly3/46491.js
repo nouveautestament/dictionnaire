@@ -1,1 +1,0 @@
-lar[46491]=`<b>θειο·δάμη, ης</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. qui dompte les dieux, ORACL. (Suid.).<p><b>Étym</b>. θεῖος¹, δαμάω.`

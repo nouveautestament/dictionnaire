@@ -1,1 +1,0 @@
-lar[55997]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> bois de sarment, bois sec, THC. <i>7, 53</i> ; ARSTT. <i>H.A. 5, 18</i> ; AR. <i>Th. 728</i>.<br><b>      2</b> clématite, <i>plante sarmenteuse,</i> DIOSC. <i>4, 7</i>.<p><b>Étym</b>. κλῆμα.`

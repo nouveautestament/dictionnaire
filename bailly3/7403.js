@@ -1,1 +1,0 @@
-lar[7403]=`<b>ατος (τὸ)</b> supplément, ARSTT. <i>Mir. 4, 4</i>.<p><b>Étym</b>. ἀναπληρόω.`

@@ -1,1 +1,0 @@
-lar[4492]=`<b>ας (ἡ)</b> <font color="purple">[λῐ]</font> manque de port, HYPÉR. <i>(Bkk. 78).</i><p><b>Étym</b>. ἀλίμενος.`

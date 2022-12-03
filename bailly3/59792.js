@@ -1,1 +1,0 @@
-lar[59792]=`<b>Λαο·δάμας, αντος (ὁ)</b> <font color="purple">[ᾱδᾰ]</font> Laodamas, <i>h</i>. IL. <i>15, 516</i> ; OD. <i>6, 170, etc</i>. HDT. <i>4, 138, etc</i>.<p>➳ <i>Voc</i>. -δάμα <font color="purple">[μᾱ]</font> OD. <i>8, 141</i>.<p><b>Étym</b>. <i>v</i>. λαοδάμας.`

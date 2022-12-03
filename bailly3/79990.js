@@ -1,1 +1,0 @@
-lar[79990]=`<b>      1 <i>intr.</i></b> sourdre, jaillir comme d’une source, CLÉM. <i>119 ; fig</i>. A. PL. <i>310</i>.<br><b>      2 <i>tr.</i></b> faire sourdre, faire couler comme d’une source, épancher, ANTH. <i>9, 404</i> ; HÉRACLITE GRAMM. <i>All. Hom. 9, etc</i>.<p><b>Étym</b>. πηγή.`

@@ -1,1 +1,0 @@
-lar[43303]=`<b>ου (ὁ)</b> Eurymnos, <i>h</i>. PLUT. <i>Prov. 74</i>.`

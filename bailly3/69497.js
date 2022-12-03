@@ -1,1 +1,0 @@
-lar[69497]=`<b>(ὁ)</b> <font color="purple">[δᾱ]</font> Xénophantidas, <i>h</i>. THC. <i>8, 55</i>.<p><b>Étym</b>. <i>patr. de</i> Ξενόφαντος.`

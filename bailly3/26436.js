@@ -1,1 +1,0 @@
-lar[26436]=`<b>δι·ϊππεύω</b> <font color="darkgreen">(<i>ao</i>. διΐππευσα)</font> s’élancer à cheval à travers, DS. <i>19, 33</i> ; DC. <i>55, 1 ; 59, 17</i>.<p><b>Étym</b>. διά, ἱππεύω.`

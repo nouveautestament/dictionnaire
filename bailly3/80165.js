@@ -1,1 +1,0 @@
-lar[80165]=`<b>έως</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. habitant de Pialeia (<i>auj</i>. ruines entre Pialía et Xylopáriko) <i>en Thessalie,</i> ANTH. <i>9, 264</i>.`

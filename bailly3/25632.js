@@ -1,1 +1,0 @@
-lar[25632]=`<b>δια·στρατεύομαι</b> <font color="purple">[ᾰτ]</font> achever son temps de service militaire : οἱ διαστρατευσάμενοι, DC. <i>58, 18,</i> les vétérans.`

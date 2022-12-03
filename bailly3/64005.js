@@ -1,1 +1,0 @@
-lar[64005]=`<b>μελί·εφθος, ος, ον</b>, cuit avec du miel, M. RUBR. <i>6 et 8</i>.<p><b>Étym</b>. μ. ἕψω.`

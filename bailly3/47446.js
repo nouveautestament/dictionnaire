@@ -1,1 +1,0 @@
-lar[47446]=`<b>ῶν (αἱ)</b> les î. Thoes (<i>auj</i>. Kursolari) <i>à l’embouchure de l’Akhélôos,</i> OD. <i>15, 299</i>.`

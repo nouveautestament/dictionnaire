@@ -1,1 +1,0 @@
-lar[28518]=`<b>δυσθυμέω-ῶ</b> <font color="purple">[θῡ]</font> se décourager, se laisser abattre, HDT. <i>8, 100</i> ; PLUT. <i>Tim. 34</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Med. 91</i>.<p><b>Étym</b>. δύσθυμος.`

@@ -1,1 +1,0 @@
-lar[17025]=`<i>seul. ion</i>. <b>Ἀττικίη, ης (ἡ)</b> <font color="purple">[τῐ]</font> Attikiè, <i>f</i>. ANTH. <i>7, 343</i>.`

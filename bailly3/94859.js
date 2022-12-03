@@ -1,1 +1,0 @@
-lar[94859]=`<b>συναποδημέω-ῶ</b>, voyager en pays étranger avec : τινι, DS. <i>4, 4</i> ; PLUT. <i>Crass. 3</i> ; ATH. <i>549d ; ou</i> μετά τινος, LUC. <i>D. mer. 9, 1,</i> avec qqn ; <i>abs</i>. ARSTT. <i>Pol. 5, 11, 20</i> ; PLUT. <i>M. 95c</i>.<p><b>Étym</b>. συναπόδημος.`

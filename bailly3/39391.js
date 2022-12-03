@@ -1,1 +1,0 @@
-lar[39391]=`<b>ἐπι·τευτάζω</b>, <i>c</i>. τευτάζω, PLAT. (DID. <i>dans Miller Mél. de litt. gr. p. 399</i>).`

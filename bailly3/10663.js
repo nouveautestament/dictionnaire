@@ -1,1 +1,0 @@
-lar[10663]=`<b>ῆς (ἡ)</b> action de retenir avec force, cohésion, GAL. <i>2, 272</i> ; ORIB. <i>34 Mai</i>.<p><b>Étym</b>. ἀντέχω.`

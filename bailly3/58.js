@@ -1,1 +1,0 @@
-lar[58]=`<b>ἀ·βασίλευτος, ος, ον</b> <font color="purple">[βᾰῐ]</font> sans roi, THC. <i>2, 80</i> ; XÉN. <i>Hell. 5, 2, 17</i>.<p><b>Étym</b>. ἀ, βασιλεύω.`

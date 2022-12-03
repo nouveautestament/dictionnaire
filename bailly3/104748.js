@@ -1,1 +1,0 @@
-lar[104748]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Phalaros, <i>chevrier,</i> THCR. <i>Idyl. 5, 103</i>.<p><b>Étym</b>. <i>v</i>. φαλαρός.`

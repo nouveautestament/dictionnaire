@@ -1,1 +1,0 @@
-lar[82881]=`<b>πορφυρό·στρωτος, ος, ον</b> <font color="purple">[ῠ]</font> couvert d’un tapis de pourpre, ESCHL. <i>Ag. 910</i>.<p><b>Étym</b>. π. στρώννυμι.`

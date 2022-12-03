@@ -1,1 +1,0 @@
-lar[15578]=`<b>ἀρχι·βουκόλος, ου (ὁ)</b> chef des bouviers, <i>ou, en gén.,</i> des pâtres, SCH.-IL. <i>1, 39</i>.<p><b>Étym</b>. ἄ. βουκόλος.`

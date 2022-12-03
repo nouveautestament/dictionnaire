@@ -1,1 +1,0 @@
-lar[42130]=`<b>ου (ὁ)</b> fils d’Euènor (Leiokritos) OD. <i>2, 242 ; 22, 294</i> ; (Agélaos) Q. SM. <i>4, 334</i>.<p><b>Étym</b>. Εὐήνωρ.`

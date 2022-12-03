@@ -1,1 +1,0 @@
-lar[81742]=`<b>πολυ·αυξής, ής, ές</b>, qui a pris beaucoup d’accroissement, grand, fort, NIC. <i>Th. 73, 596</i>.<p><b>Étym</b>. π. αὔξω.`

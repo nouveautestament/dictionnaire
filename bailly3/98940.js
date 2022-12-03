@@ -1,1 +1,0 @@
-lar[98940]=`<b>τηλέ·πορος, ος, ον :<br>      1</b> qui va <i>ou</i> se répand au loin, CYDIAS (AR. <i>Nub. 967</i>).<br><b>      2</b> <i>p. suite,</i> lointain, SOPH. <i>Ant. 983</i> ; ORPH. <i>H. 18, 9, etc</i>.<p><b>Étym</b>. τ. πόρος.`

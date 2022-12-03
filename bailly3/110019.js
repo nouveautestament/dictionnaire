@@ -1,1 +1,0 @@
-lar[110019]=`<b>ψυχρο·λούτης, ου (ὁ)</b> qui prend un bain froid, SÉN. <i>Ep. 53 et 83</i>.<p><b>Étym</b>. ψ. λούω.`

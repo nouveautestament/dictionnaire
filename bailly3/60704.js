@@ -1,1 +1,0 @@
-lar[60704]=`<b>ας (ἡ)</b> pierre lisse, roche nue, SPT. <i>Ezech. 24, 7, 8 ; 26, 4, 14</i> ; DS. <i>3, 16</i>.<p><b>Étym</b>. λεῖος, πέτρα.`

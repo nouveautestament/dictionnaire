@@ -1,1 +1,0 @@
-lar[57574]=`<b>ῆρος (ὁ) :<br>   I</b> qui achève, qui accomplit, LYC. <i>305</i>.<br><b>   II</b> <i>subst.</i> :<br><b>      1</b> <i>au plur</i>. dents machelières, ARSTT. <i>H.A. 2, 4 ; p. ext</i>. dents, NIC. <i>Th. 446</i>.<br><b>      2</b> défense de sanglier, LYC. <i>833</i>.<p><b>Étym</b>. κραίνω.`

@@ -1,1 +1,0 @@
-lar[79431]=`<b>περιστρωφάω-ῶ</b>, tourner tout autour, Q. SM. <i>6, 504</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. Q. SM. <i>12, 404 ; d’où</i> parcourir, <i>acc</i>. HDT. <i>8, 135</i>.<p><b>Étym</b>. περιστροφή.`

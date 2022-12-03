@@ -1,1 +1,0 @@
-lar[52559]=`<b>ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> couché, HPC. <i>Epid. 3, 1096</i> ; POL. <i>31, 21, 7</i>.<br><b>      2</b> incliné, qui va en pente, ANTH. <i>App. 48</i> ; DH. <i>5, 38</i>.<p><b>Étym</b>. κατακλίνω.`

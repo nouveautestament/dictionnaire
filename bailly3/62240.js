@@ -1,1 +1,0 @@
-lar[62240]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> <i>s.-e</i>. τέχνη, l’art de la magie, PLAT. <i>Pol. 280d</i>.<p><b>Étym</b>. μαγεύω.`

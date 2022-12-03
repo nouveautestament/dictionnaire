@@ -1,1 +1,0 @@
-lar[21584]=`<b>οντος (ὁ)</b> Géléon, <i>fondateur de la tribu des Géléontes</i> (<i>v</i>. Γελέοντες) HDT. <i>5, 66</i> ; EUR. <i>Ion 1579</i>.`

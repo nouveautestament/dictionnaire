@@ -1,1 +1,0 @@
-lar[53369]=`rendre dur, <i>d’où au pass</i>. se durcir, TH. <i>C.P. 4, 12, 9</i>.<p><b>Étym</b>. κατάσκληρος.`

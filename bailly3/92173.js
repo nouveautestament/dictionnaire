@@ -1,1 +1,0 @@
-lar[92173]=`<b>οῦ (ὁ)</b> gardien d’un troupeau, EUR. <i>Cycl</i>. 53 <i><font color="darkorange">dout</font></i>.<p><b>Étym</b>. στάσις, ὤρα.`

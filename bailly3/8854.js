@@ -1,1 +1,0 @@
-lar[8854]=`<b>ἀνθοβολέω-ῶ :<br>      1</b> joncher <i>ou</i> couvrir de fleurs, ANTH. <i>5, 147 ; au pass</i>. être couvert de fleurs lancées en signe d’admiration, PLUT. <i>Pomp. 57</i>.<br><b>      2 <i>intr.</i></b> pousser des fleurs, se couvrir de fleurs, GEOP. <i>10, 2, 10</i>.<p><b>Étym</b>. ἀνθόβολος.`

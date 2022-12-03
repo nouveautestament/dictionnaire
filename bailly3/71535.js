@@ -1,1 +1,0 @@
-lar[71535]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> conformité d’affections <i>ou</i> de sentiments, ARSTT. <i>M. mor. 2, 11, 35 et 38</i> ; ATH. <i>675a.</i><br><b>      2</b> condition semblable, homogénéité, STR. <i>6</i> ; DS. <i>13, 25</i>.<p><b>Étym</b>. ὁμοιοπαθής.`

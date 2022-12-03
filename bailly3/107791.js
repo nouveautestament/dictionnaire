@@ -1,1 +1,0 @@
-lar[107791]=`<b>χαμαι·ρεπής, ής, ές</b> <font color="purple">[ᾰ]</font> qui penche vers la terre, NYSS.<p><b>Étym</b>. χ. ῥέπω.`

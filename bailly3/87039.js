@@ -1,1 +1,0 @@
-lar[87039]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πρόχοος, ION (ATH. <i>463b</i>) ; <i>particul</i>. urne pour libations, EUR. <i>I.A. 955</i>.`

@@ -1,1 +1,0 @@
-lar[17973]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> le Libérateur, <i>ép. de Zeus, à Mégare et à Argos,</i> PAUS. <i>1, 44, 13</i>.<p><b>Étym</b>. ἀφίημι.`

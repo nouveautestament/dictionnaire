@@ -1,1 +1,0 @@
-lar[101735]=`<b>ὑλο·βάτης</b>, <i>dor</i>. <b>ὑλο·βάτας, ου (ὁ)</b> <font color="purple">[ῡᾰᾱ]</font> qui parcourt les forêts, <i>ép. de Pan,</i> ANTH. <i>6, 32</i>.<p><b>Étym</b>. ὕλη, βαίνω.`

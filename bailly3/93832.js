@@ -1,1 +1,0 @@
-lar[93832]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> ce qui arrive, PHIL. <i>1, 277</i> ; συμβατόν ἐστι, POL. <i>9, 2, 4,</i> il est possible (<i>v</i>. συμβαίνει, <i>impers</i>.).<p><b>Étym</b>. συμβαίνω.`

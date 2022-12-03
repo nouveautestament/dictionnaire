@@ -1,1 +1,0 @@
-lar[24172]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> art de conduire le peuple, <i>particul</i>. en captant sa faveur, AR. <i>Eq. 191</i> ; ARSTT. <i>Pol. 5, 6, 6</i>.<p><b>Étym</b>. δημαγωγός.`

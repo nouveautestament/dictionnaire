@@ -1,1 +1,0 @@
-lar[68584]=`<b>νηπιό·φρων, ων, ον</b>, d’esprit enfantin, simple, naïf, STR. <i>37</i>.<p><b>Étym</b>. ν. φρήν.`

@@ -1,1 +1,0 @@
-lar[9403]=`<b>ος, ον</b> <font color="purple">[ᾰγ]</font> débattu, disputé, POLÉM. <i>2, 50</i>.<p><b>Étym</b>. ἀνταγωνίζομαι.`

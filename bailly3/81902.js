@@ -1,1 +1,0 @@
-lar[81902]=`<b>πολύ·ζωος, ος, ον</b>, qui vit longtemps, ANON. (<i>Com. fr. 4, 666).</i><p><b>Étym</b>. π. ζωή.`

@@ -1,1 +1,0 @@
-lar[109469]=`<b>χωρο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> géographe <i>ou</i> historien qui fait la description d’un pays, STR. <i>18</i>.<p><b>Étym</b>. χώρα, γράφω.`

@@ -1,1 +1,0 @@
-lar[21647]=`<b>γενεθλιαλογέω-ῶ</b> <font color="purple">[ᾱ]</font> tirer un horoscope, STR. <i>739</i> ; ORIG. <i>c. Cels. 1, 28</i> ; NYSS. <i>1, 912b</i>.<p><b>Étym</b>. γενεθλιαλόγος.`

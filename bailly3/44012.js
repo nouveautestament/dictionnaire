@@ -1,1 +1,0 @@
-lar[44012]=`<b>α, ον</b>, qui concerne l’adolescence, ANTH. <i>7, 427, 12 dout</i>.<p><b>Étym</b>. ἔφηβος.`

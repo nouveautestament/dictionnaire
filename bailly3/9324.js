@@ -1,1 +1,0 @@
-lar[9324]=`<b>ἀν·ορταλίζω</b> <font color="darkgreen">(<i>impf</i>. ἀνωρτάλιζον)</font> battre des ailes en signe de victoire, <i>d’où</i> s’enorgueillir, AR. <i>Eq. 1344</i>.<p><b>Étym</b>. ἀνά, ὀ.`

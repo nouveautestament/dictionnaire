@@ -1,1 +1,0 @@
-lar[29740]=`<b>ἐγ·κραιπαλάω-ῶ</b> <font color="purple">[πᾰ]</font> vivre dans l’ivresse, HDN <i>2, 10</i>.<p><b>Étym</b>. ἐν, κραιπάλη.`

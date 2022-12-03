@@ -1,1 +1,0 @@
-lar[42851]=`<b>ας (ἡ)</b> abondance <i>ou</i> bonne qualité du vin, E. BYZ. <i>v°</i> Λάμψαχος.<p><b>Étym</b>. εὔοινος.`

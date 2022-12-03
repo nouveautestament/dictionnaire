@@ -1,1 +1,0 @@
-lar[39054]=`<i>adv</i>., en hâte, avec empressement, XÉN. <i>Cyr. 4, 1, 3</i>.<p><b>Étym</b>. ἐπισπερχής.`

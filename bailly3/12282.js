@@ -1,1 +1,0 @@
-lar[12282]=`<b>ἀπο·διαιτάω-ῶ</b> <font color="darkgreen">(<i>f</i>. ήσω, <i>ao</i>. ἀπεδιῄτησα, <i>pf</i>. ἀποδεδιῄτηκα)</font> écarter une sentence d’arbitre : τινὶ τὴν δίαιταν ἀπ. DÉM. <i>544, 24 ; ou abs</i>. ἀπ. τινος (<i>s.-e</i>. δίκην) DÉM. <i>1013, 14,</i> décharger qqn d’une accusation prononcée par sentence arbitrale.`

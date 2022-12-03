@@ -1,1 +1,0 @@
-lar[60706]=`<b>Λεω·πρέπης, ους (ὁ)</b> Léôprépès :<br><b>      1</b> <i>père du poète Simonide,</i> HDT. <i>7, 228</i> ; PLUT. <i>M. 785a.</i><br><b>      2</b> <i>Spartiate,</i> HDT. <i>6, 85</i>.<p>➳ <i>Gén. épq. et ion</i>. -εος, HDT. PLUT. <i>ll. cc</i>.<p><b>Étym</b>. λεώς, πρέπω.`

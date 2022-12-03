@@ -1,1 +1,0 @@
-lar[2959]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾱ]</font> (<i>s.-e</i>. πτῶσις) accusatif, <i>t. de gr</i>. D. THR. <i>656, 6</i> ; DH. <i>6, 800 Reiske</i> ; DYSC. <i>Pron. 272a</i>.<p><b>Étym</b>. αἰτιάομαι.`

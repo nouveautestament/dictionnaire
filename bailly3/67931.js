@@ -1,1 +1,0 @@
-lar[67931]=`<b>νε·ήκης, ης, ες</b>, nouvellement <i>ou</i> fraîchement aiguisé, IL. <i>13, 391 ; 16, 484</i>.<p><b>Étym</b>. ν. ἀκή.`

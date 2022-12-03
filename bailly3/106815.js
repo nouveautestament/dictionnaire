@@ -1,1 +1,0 @@
-lar[106815]=`<i>béot. c</i>. φράζω, CORINN. <i>fr. 40 Bgk</i>.`

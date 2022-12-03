@@ -1,1 +1,0 @@
-lar[38134]=`<b>ή, όν :<br>      1</b> propre à secourir, PLAT. <i>Rsp. 434c, 441a.</i><br><b>      2</b> auxiliaire ; τὸ ἐπικουρικόν, THC. <i>4, 52</i> ; DH. <i>9, 5,</i> troupe auxiliaire ; <i>p. suite,</i> qui consiste en troupes auxiliaires <i>ou</i> qui repose sur des troupes auxiliaires, THC. <i>7, 48</i>.<p><b>Étym</b>. ἐπίκουρος.`

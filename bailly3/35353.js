@@ -1,1 +1,0 @@
-lar[35353]=`<b>ἑξά·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> à six lits ; τὸ ἑξάκλινον, MART. <i>9, 60,</i> lit de table à six places.<p><b>Étym</b>. ἕξ, κλίνη.`

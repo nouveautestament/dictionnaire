@@ -1,1 +1,0 @@
-lar[18356]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῐν]</font> sorte de grand pain qu’on fabriquait pour les Thesmophories, SEMUS (ATH. <i>109f</i>).`

@@ -1,1 +1,0 @@
-lar[107304]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> rejeton d’une plante, HPC. <i>242, 47 ; 243, 4 et 13</i> ; XÉN. <i>Œc. 19, 13</i> ; TH. <i>H.P. 2, 2, 4 ; 2, 5, 3 ; C.P. 3, 3, 1 ; 3, 5, 1</i>.<br><b>      2</b> pépinière, DÉM. <i>1251, 23</i>.<p><b>Étym</b>. φυτεύω.`

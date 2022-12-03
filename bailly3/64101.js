@@ -1,1 +1,0 @@
-lar[64101]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> Méliteia :<br><b>      1</b> <i>v. de Thessalie,</i> PLUT. <i>Syll. 20</i>.<br><b>      2</b> <i>n. de f</i>. ANTH. <i>9, 228</i>.`

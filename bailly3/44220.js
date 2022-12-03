@@ -1,1 +1,0 @@
-lar[44220]=`<b>ήεσσα, ῆεν</b>, qui concerne le manche de la charrue, ANTH. <i>6, 41</i>.<p><b>Étym</b>. ἐχέτλη.`

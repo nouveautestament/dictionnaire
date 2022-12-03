@@ -1,1 +1,0 @@
-lar[109316]=`<b>ος, ον</b> <font color="purple">[ῡ]</font> acheté pour de l’or <i>ou</i> à prix d’or, ATH. <i>263e</i>.<p><b>Étym</b>. <i>vb. de</i> χρυσωνέω.`

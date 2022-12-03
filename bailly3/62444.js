@@ -1,1 +1,0 @@
-lar[62444]=`<b>ης (ἡ)</b> <font color="purple">[μᾰ]</font> Macédonienne, STRATT. <i>(Bkk. 108, 29).</i><p><b>Étym</b>. Μακεδών.`

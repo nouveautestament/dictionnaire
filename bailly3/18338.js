@@ -1,1 +1,0 @@
-lar[18338]=`<b>ἀφωνία, ας (ἡ) :<br>      1</b> impuissance à parler, aphonie, HPC. <i>Epid. 3, 1098 (ion</i>. -ίη), <i>etc.</i><br><b>      2</b> mutisme, PLAT. <i>Conv. 198c ;</i> ATH. <i>348a</i>.<p><b>Étym</b>. ἄφωνος.`

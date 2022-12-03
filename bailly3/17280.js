@@ -1,1 +1,0 @@
-lar[17280]=`<b>(ὁ)</b> <i>transcr. du n. d’h. rom</i>. Aurĕŏlus, ANTH. <i>App. 223</i>.`

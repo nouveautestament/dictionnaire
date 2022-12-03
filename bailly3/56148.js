@@ -1,1 +1,0 @@
-lar[56148]=`<b>ατος (τὸ) :<br>      1</b> lavement, clystère, HDT. <i>2, 77, 87</i>.<br><b>      2</b> endroit baigné par les flots, PLUT. <i>Cæs. 52</i> ; LUC. <i>D. mar. 6, 3, etc</i>.<p><b>Étym</b>. κλύζω.`

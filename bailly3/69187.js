@@ -1,1 +1,0 @@
-lar[69187]=`<b>ου (τὸ)</b> temple de la Nuit, LUC. <i>V.H. 2, 33</i>.<p><b>Étym</b>. νύξ.`

@@ -1,1 +1,0 @@
-lar[59567]=`<b>ων (οἱ)</b> <font color="purple">[ῡ]</font> les Lestrygons, <i>pple myth. de la Sicile ou de l’Italie du sud,</i> THC. <i>6, 2</i> ; STR. <i>20 ; au sg</i>. Λαιστρυγών, OD. <i>10, 119</i>.<p><b>Étym</b>. <i>Orig. inconnue</i>.`

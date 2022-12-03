@@ -1,1 +1,0 @@
-lar[95159]=`<b>συν·διατελέω-ῶ</b>, persévérer avec <i>ou</i> en même temps, PLAT. <i>Phæd. 91b ;</i> DÉM. <i>1412 fin</i>.`

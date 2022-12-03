@@ -1,1 +1,0 @@
-lar[21070]=`<b>α, ον</b> <font color="purple">[ᾰκ]</font> formé de mottes, <i>càd</i>. gras, fertile (sol), PD. <i>P. 4, 228</i>.<p><b>Étym</b>. βῶλαξ.`

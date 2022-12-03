@@ -1,1 +1,0 @@
-lar[16397]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> impuissance, DC. <i>79, 16</i>.<p><b>Étym</b>. ἄστυτος.`

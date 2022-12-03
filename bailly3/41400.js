@@ -1,1 +1,0 @@
-lar[41400]=`<b>ἑτεροχροέω-οῶ</b>, différer de couleur, CHIRURG. <i>93</i>.<p><b>Étym</b>. ἑτερόχροος.`

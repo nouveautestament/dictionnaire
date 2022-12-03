@@ -1,1 +1,0 @@
-lar[90505]=`<b>ος, ον</b> <font color="purple">[σῑ]</font> <i>c</i>. σιτηρός DIOSC. <i>2Proœm</i>.`

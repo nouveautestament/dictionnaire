@@ -1,1 +1,0 @@
-lar[5274]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> fils d’Amarynkée, IL. <i>2, 622 ; 4, 517</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀμαρυγκεύς.`

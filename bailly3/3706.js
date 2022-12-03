@@ -1,1 +1,0 @@
-lar[3706]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> connaissance exacte, EPIC. (DL. <i>10, 36).</i><p><b>Étym</b>. ἀκριβόω.`

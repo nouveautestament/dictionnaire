@@ -1,1 +1,0 @@
-lar[19178]=`<b>*βαρυοδμία, ας</b>, <i>seul. ion</i>. <b>βαρυοδμίη, ης (ἡ)</b> odeur désagréable, ARÉT. <i>Caus. m. acut. 1, 5</i>.<p><b>Étym</b>. βαρύοδμος.`

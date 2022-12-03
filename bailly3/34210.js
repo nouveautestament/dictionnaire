@@ -1,1 +1,0 @@
-lar[34210]=`<b>ἐν·δίφριος, ος, ον</b>, placé sur un siège <i>ou</i> à table près de qqn, compagnon de table, convive, XÉN. <i>An. 7, 2, 33</i>.<p><b>Étym</b>. ἐν, δίφρος.`

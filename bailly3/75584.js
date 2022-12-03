@@ -1,1 +1,0 @@
-lar[75584]=`<b>ατος (τὸ)</b> offrande suspendue (à un autel), SPT. <i>Ex. 38, 4</i>.<p><b>Étym</b>. παρατίθημι.`

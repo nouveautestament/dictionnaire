@@ -1,1 +1,0 @@
-lar[52242]=`<b>κατα·γνυπόω-ῶ</b> <font color="purple">[ῡ]</font> renfrogner, <i>d’où au pass</i>. être renfrogné, PLUT. <i>M. 753c</i>.`

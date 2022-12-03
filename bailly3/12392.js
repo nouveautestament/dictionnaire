@@ -1,1 +1,0 @@
-lar[12392]=`<b>ἀπο·θεραπεύω</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> soigner, traiter avec égards, DH. <i>3, 71, etc.</i><br><b>      2</b> donner des soins médicaux, HPC. <i>26, 52 ; fig</i>. secourir, PLUT. <i>M. 118c</i>.`

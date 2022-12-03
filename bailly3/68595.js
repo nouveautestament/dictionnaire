@@ -1,1 +1,0 @@
-lar[68595]=`<font color="purple">[ῠ]</font> agir comme un petit enfant, ANTH. <i>11, 140</i>.<p><b>Étym</b>. νηπύτιος.`

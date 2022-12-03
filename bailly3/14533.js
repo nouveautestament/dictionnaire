@@ -1,1 +1,0 @@
-lar[14533]=`<b>ἀρθμέω-ῶ</b>, ajuster, <i>d’où</i> joindre, unir, IL. <i>7, 302, (part. ao. duel</i> ἀρθμήσαντε) ; A.RH. <i>1, 1344 (part. ao. pass</i>. ἀρθμηθέντες).<p><b>Étym</b>. ἀρθμός.`

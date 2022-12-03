@@ -1,1 +1,0 @@
-lar[46963]=`<b>θερμο·ποτίς, ίδος (ἡ)</b> coupe pour boissons chaudes, PAMPHIL. (ATH. <i>475d</i>).<p><b>Étym</b>. <i>fém. de</i> θερμοπότης.`

@@ -1,1 +1,0 @@
-lar[39669]=`<b>ἐπι·χασμάομαι-ῶμαι</b>, avoir la bouche béante sur, <i>d’où</i> bâiller, HLD. <i>4, 5</i>.`

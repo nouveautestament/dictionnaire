@@ -1,1 +1,0 @@
-lar[94442]=`<b>εως (ἡ) :<br>      1</b> action de fréquenter ensemble (une école, ESCHN. <i>2, 33</i> ; le sénat, DC. <i>55, 3 ; etc</i>.).<br><b>      2</b> action d’aller ensemble, de s’accoupler, <i>en parl. d’animaux,</i> EL. <i>N.A. 6, 60</i>.<p><b>Étym</b>. συμφοιτάω.`

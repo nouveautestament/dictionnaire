@@ -1,1 +1,0 @@
-lar[66056]=`<b>μισο·ποιός, οῦ (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui rend odieux, SYMM. <i>Ps. 80, 16</i>.<p><b>Étym</b>. μ. ποιέω.`

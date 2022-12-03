@@ -1,1 +1,0 @@
-lar[108407]=`<b>χθαμαλο·φροσύνη, ης (ἡ)</b> <font color="purple">[ᾰᾰῠ]</font> sentiments humbles <i>ou</i> bas, NAZ. <i>Carm. 16, 40</i> ; OPP. <i>2, p. 92a</i>.<p><b>Étym</b>. χθαμαλός, φρήν.`

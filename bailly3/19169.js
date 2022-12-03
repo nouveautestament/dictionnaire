@@ -1,1 +1,0 @@
-lar[19169]=`<b>βαρύ·μηνις, ις, ι</b>, <i>gén</i>. <b>ιος</b>, <i>acc</i>. <b>-ιν</b> <font color="purple">[ᾰῠ]</font> qui éprouve un ressentiment profond, vindicatif ; τὸ βαρύμηνι, le ressentiment, le courroux, PHIL. <i>2, 106</i>.<p>➳ <i>gén</i>. -ιδος, HLD. <i>7, 20</i>.<p><b>Étym</b>. β. μῆνις.`

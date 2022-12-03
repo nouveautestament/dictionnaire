@@ -1,1 +1,0 @@
-lar[73288]=`<b>ὀστο·κόπος, ου (ὁ)</b> courbature, <i>prop</i>. qui brise les os, GAL. <i>6, 102</i>.<p><b>Étym</b>. ὀ. κόπτω.`

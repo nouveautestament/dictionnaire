@@ -1,1 +1,0 @@
-lar[94635]=`<b>συν·αλγύνω</b> <font color="purple">[γῠ <i>prés.,</i> ῠ <i>fut</i>.]</font> émouvoir d’un même sentiment de pitié, OPP. <i>H. 1, 726</i>.`

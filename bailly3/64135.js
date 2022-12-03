@@ -1,1 +1,0 @@
-lar[64135]=`<b>μελιτ·ώδης, ης, ες</b> <font color="purple">[ῐ]</font> qui ressemble au miel, PLUT. <i>M. 628c, 673e ;</i> LUC. <i>V. auct. 19</i> ; ἡ Μ. THCR. <i>Idyl. 15, 94,</i> la déesse au miel, <i>càd</i>. Perséphonè, <i>à qui l’on offrait des gâteaux de miel</i>.<p><b>Étym</b>. μέλι, -ωδης.`

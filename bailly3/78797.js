@@ -1,1 +1,0 @@
-lar[78797]=`<b>περι·κνίζω</b>, gratter tout autour, ronger, <i>fig</i>. DH. <i>9, 32</i> ; PLUT. <i>M. 10d.</i><br><b><i>Moy.</i></b> (<i>2 pl. impér. ao</i>. περικνίξασθε) <i>m. sign</i>. ANTH. <i>9, 226</i>.`

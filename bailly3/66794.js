@@ -1,1 +1,0 @@
-lar[66794]=`<b>ου (ὁ)</b> Mosykhlos, <i>volcan de Lemnos,</i> NIC. <i>Th. 472</i>.`

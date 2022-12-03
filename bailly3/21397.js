@@ -1,1 +1,0 @@
-lar[21397]=`<i>adv</i>., à Gargèttos, <i>sans mouv</i>. STR. <i>377</i> ; PLUT. <i>Thes. 13, 35</i>.<p><b>Étym</b>. Γαργηττός.`

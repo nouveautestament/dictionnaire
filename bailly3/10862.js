@@ -1,1 +1,0 @@
-lar[10862]=`<b>η, ον</b>, le plus haut, le plus élevé : τὰ ἀ. HDT. <i>3, 125,</i> la région supérieure.<p><b>Étym</b>. <i>superl. dérivé de</i> ἄνω ; <i>cf</i>. ἀνώτερος.`

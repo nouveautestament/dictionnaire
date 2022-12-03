@@ -1,1 +1,0 @@
-lar[32535]=`<b>ή, όν</b>, d’Élatée, <i>en Phocide,</i> PLUT. <i>Syll. 16</i>.<p><b>Étym</b>. Ἐλάτεια.`

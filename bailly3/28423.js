@@ -1,1 +1,0 @@
-lar[28423]=`<b>δυσ·επίθετος, ος, ον</b> <font color="purple">[ῠῐ]</font> difficile à attaquer, EN. TACT. <i>Pol. Proœm. p. 1</i>.<p><b>Étym</b>. δ. ἐπιτίθημι.`

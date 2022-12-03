@@ -1,1 +1,0 @@
-lar[63828]=`<b>μελαμ·ψήφις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> aux cailloux noirs, CALL. <i>Dian. 101, Del. 76</i>.`

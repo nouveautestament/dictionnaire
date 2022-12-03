@@ -1,1 +1,0 @@
-lar[40987]=`<b>εως (ἡ)</b> action de se vêtir, <i>d’où</i> vêtement, <i>au plur</i>. ATH. <i>18e ;</i> NT. <i>Luc. 24, 4</i>.<p><b>Étym</b>. ἐσθέω.`

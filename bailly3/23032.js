@@ -1,1 +1,0 @@
-lar[23032]=`<b>ά, όν</b>, mordant, HERM. (STOB. <i>Ecl. 1, 964) ; t. de méd</i>. mordicant, A. TR. <i>2, 47</i>.<p><b>Étym</b>. δάκνω.`

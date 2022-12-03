@@ -1,1 +1,0 @@
-lar[6186]=`<b>ἀμφί·κλαυτος, ος, ον</b>, autour duquel on pleure, OPP. <i>H. 4, 257</i>.<p><b>Étym</b>. ἀ. κλαίω.`

@@ -1,1 +1,0 @@
-lar[1344]=`<b>ἀδιαπνευστέω-ῶ</b>, ne pas transpirer, ne pas s’évaporer, GAL. <i>10, 528</i>.`

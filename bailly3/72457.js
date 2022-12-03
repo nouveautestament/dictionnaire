@@ -1,1 +1,0 @@
-lar[72457]=`<b>ας</b>, <i>adj. f</i>. qui sert à rôtir <i>ou</i> à cuire, CALL. <i>(Bkk. p. 1209).</i><p><b>Étym</b>. ὀπτάω.`

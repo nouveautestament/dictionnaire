@@ -1,1 +1,0 @@
-lar[109811]=`<b>ψηφο·περι·βομβήτρια, ας (ἡ)</b> <i>mot de sign. obscure, p.-ê</i>. coupe de métal comme l’urne où résonnent les cailloux lorsque les juges les laissent tomber pour voter, EUB. (ATH. <i>471d</i>).<p><b>Étym</b>. ψ. περί, βομβέω.`

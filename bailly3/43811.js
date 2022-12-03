@@ -1,1 +1,0 @@
-lar[43811]=`<b>εὔ·χλοος, οος, οον :<br>      1</b> <i>pass</i>. à la belle verdure, OPP. <i>H. 1, 132</i> ; NONN. <i>D. 41, 15 ; Jo. 18, 5</i>.<br><b>      2</b> <i>act</i>. qui produit une belle verdure, SOPH. <i>O.C. 1600</i>.<p><b>Étym</b>. εὖ, χλόη.`

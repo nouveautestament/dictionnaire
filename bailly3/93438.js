@@ -1,1 +1,0 @@
-lar[93438]=`<b>συγ·κηδεύω</b>, ensevelir ensemble, PHYLARQ. <i>25 ; fig</i>. PLUT. <i>M. 114e</i>.`

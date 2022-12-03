@@ -1,1 +1,0 @@
-lar[86186]=`<b>προσ·οικειόω-ῶ :<br>      1</b> assigner en propre : τινί τι, STR. <i>244,</i> qqe ch. à qqn.<br><b>      2</b> rendre parent, proche <i>ou</i> familier, apparenter : τινά τινι, PLUT. <i>Ant. 60,</i> une personne à une autre ; οἱ προσῳκειωμένοι, DS. <i>3, 9,</i> les proches parents.`

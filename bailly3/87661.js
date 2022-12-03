@@ -1,1 +1,0 @@
-lar[87661]=`<b>πυλαγορέω-ῶ</b> <font color="purple">[ῠᾱ]</font> être pylagore <i>ou</i> député au conseil des Amphictions, DÉM. <i>279, 15</i> ; ESCHN. <i>71, 26</i>.<p><b>Étym</b>. πυλαγόρας.`

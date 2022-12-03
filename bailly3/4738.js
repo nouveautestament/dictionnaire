@@ -1,1 +1,0 @@
-lar[4738]=`<b>ἀλληλο·κτόνος, ος, ον :<br>      1</b> qui s’entre-tuent, MOSCH. (STOB. <i>Ecl. 1, 242</i>).<br><b>      2</b> qui pousse à s’entre-tuer, DH. <i>2, 24</i>.<p><b>Étym</b>. ἀλλήλων, κτείνω.`

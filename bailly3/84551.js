@@ -1,1 +1,0 @@
-lar[84551]=`<b>εως (ἡ)</b> publication par un héraut, TH. (STOB. <i>Fl. 44, 2).</i><p><b>Étym</b>. προκηρύσσω.`

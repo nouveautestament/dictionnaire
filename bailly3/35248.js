@@ -1,1 +1,0 @@
-lar[35248]=`<b>ἐξ·αγγίζω</b>, verser d’un vase, HPC. <i>V. med. 18</i>.<p><b>Étym</b>. ἐξ, ἄγγος.`

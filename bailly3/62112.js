@@ -1,1 +1,0 @@
-lar[62112]=`<b>ή, όν</b>, qui peut être racheté <i>ou</i> affranchi, SPT. <i>Lev. 25, 31, 32</i>.<p><b>Étym</b>. <i>vb. de</i> λυτρόω.`

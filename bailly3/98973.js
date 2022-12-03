@@ -1,1 +1,0 @@
-lar[98973]=`<b>      1</b> loin, au loin, IL. <i>11, 712 ; avec un gén</i>. τ. τῶν ἀγρῶν, AR. <i>Nub. 138,</i> loin dans les champs ; τηλοῦ ἀπό, <i>gén</i>. HÉS. <i>Th. 304,</i> loin de.<br><b>      2</b> loin de, <i>gén</i>. OD. <i>13, 249 ; 23, 68</i> ; EUR. <i>Cycl. 689</i>.<p><b>Étym</b>. τῆλε ; <i>cf</i>. τηλοτέρω <i>et</i> τηλοτάτω.`

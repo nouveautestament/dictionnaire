@@ -1,1 +1,0 @@
-lar[105747]=`<b>φιλο·δέσποινος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime sa maîtresse, <i>en parl. d’un animal,</i> CHRYS. <i>Hom. 12</i>.<p><b>Étym</b>. φ. δέσποινα.`

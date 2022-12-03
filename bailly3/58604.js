@@ -1,1 +1,0 @@
-lar[58604]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐκ]</font><br><b>      1</b> petite coupe, ATH. <i>148a ;</i> LYC. <i>et</i> PHILÉT. (ATH. <i>420b et 498a</i>).<br><b>      2</b> coffret, TH. <i>H.P. 5, 9, 8</i> ; JOS. <i>A.J. 12</i> ; SPT. <i>Esth. 1, 7</i>.<p><b>Étym</b>. <i>dim. de</i> κύλιξ.`

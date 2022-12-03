@@ -1,1 +1,0 @@
-lar[59322]=`<b>ου (ὁ)</b> <font color="purple">[δᾰ]</font> Labdakos, <i>roi de Thèbes,</i> SOPH. <i>O.R. 224</i> ; EUR. <i>Ph. 8</i>.`

@@ -1,1 +1,0 @@
-lar[78079]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui arrive <i>ou</i> se fait le quinzième jour, STR. <i>725, 780</i>.<p><b>Étym</b>. πεντεκαιδέκατος.`

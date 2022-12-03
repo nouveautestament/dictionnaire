@@ -1,1 +1,0 @@
-lar[87001]=`<b>ατος (τὸ)</b> ébauche, esquisse, NICOM. <i>Arithm. 1, 6</i> ; RHÉT. <i>1, 444 W</i>.<p><b>Étym</b>. προχαράττω.`

@@ -1,1 +1,0 @@
-lar[85787]=`<b>προσ·εσπέριος, ος, ον</b>, qui regarde le couchant, occidental, ARSTT. <i>fr. 433</i> ; POL. <i>1, 2, 6, etc</i>.<p><b>Étym</b>. π. ἕσπερος.`

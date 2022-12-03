@@ -1,1 +1,0 @@
-lar[93144]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> babillard, bavard, ARISTÉN. <i>1, 1</i>.<p><b>Étym</b>. στωμύλος.`

@@ -1,1 +1,0 @@
-lar[13076]=`<b>ου (ὁ)</b> <font color="purple">[ᾰν]</font> qui fourvoie, trompeur, CRAT. (DL. <i>8, 37).</i><p><b>Étym</b>. ἀποπλανάω.`

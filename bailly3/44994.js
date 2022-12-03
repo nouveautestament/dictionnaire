@@ -1,1 +1,0 @@
-lar[44994]=`<b>ἡδυ·λύρης, ου</b> <font color="purple">[ῠῠ]</font> <i>adj. m. ion</i>. à la lyre agréable, ANTH. <i>11, 370</i>.<p><b>Étym</b>. ἡ. λύρα.`

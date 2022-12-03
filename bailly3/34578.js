@@ -1,1 +1,0 @@
-lar[34578]=`<b>ἐν·θυμιάω-ῶ</b> <font color="purple">[ῡ]</font> encenser, parfumer, SYN. <i>Ep. 121, 1500c Migne</i>.`

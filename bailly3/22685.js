@@ -1,1 +1,0 @@
-lar[22685]=`<b>γρυπ·αλώπηξ, εκος (ἡ)</b> <font color="purple">[ῡᾰ]</font> <i>litt</i>. dont les muscles lombaires (ἀλώπεκες) sont recourbés, <i>en parl. d’une personne infirme au corps voûté,</i> HPC. <i>1201e</i>.<p><b>Étym</b>. γρύψ, ἀ.`

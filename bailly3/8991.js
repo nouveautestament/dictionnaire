@@ -1,1 +1,0 @@
-lar[8991]=`<b>ου (τὸ) :<br>      1</b> petite fleur, M. ANT. <i>4, 20</i>.<br><b>      2</b> <i>c</i>. ἀνθυλλίς DIOSC. <i>2, 214, etc</i>.<p><b>Étym</b>. ἄνθος.`

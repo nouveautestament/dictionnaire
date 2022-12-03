@@ -1,1 +1,0 @@
-lar[87068]=`<b>ή, όν</b>, qui a la vertu d’expulser, purgatif, GAL. <i>2, 148</i>.<p><b>Étym</b>. προωθέω.`

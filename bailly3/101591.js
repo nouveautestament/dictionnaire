@@ -1,1 +1,0 @@
-lar[101591]=`<b>ὑδρο·φαντικός, ή, όν</b>, qui concerne la découverte des sources : ἡ ὑδροφαντική (<i>s.-e</i>. τέχνη), <i>ou</i> τὰ ὑδροφαντικά, GEOP. <i>2, 6, 1,</i> l’art de découvrir les sources <i>ou</i> les eaux souterraines, GEOP. <i>2, 6, 1</i>.<p><b>Étym</b>. ὕδ. φαίνω.`

@@ -1,1 +1,0 @@
-lar[8592]=`<b>ἀν·έτοιμος, ος, ον :<br>      1</b> non prêt, POL. <i>12, 20</i> ; DS. <i>12, 41</i> ; εἴς τι, A. PL. <i>242,</i> à qqe ch.<br><b>      2</b> non à portée, HÉS. <i>fr. 118 Göttling</i>.<p><b>Étym</b>. ἀν-, ἕτοιμος.`

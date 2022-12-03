@@ -1,1 +1,0 @@
-lar[9926]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> échange, PLUT. <i>M. 49d</i>.<p><b>Étym</b>. ἀντικαταλλάσσω.`

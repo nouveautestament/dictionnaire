@@ -1,1 +1,0 @@
-lar[22129]=`<b>οῦ (ὁ)</b> Glous, <i>Égyptien,</i> XÉN. <i>An. 1, 4, 16 ; etc</i>.`

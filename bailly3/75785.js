@@ -1,1 +1,0 @@
-lar[75785]=`<b>παρ·ακοντίζω</b> <font color="purple">[ᾰκ]</font> dépasser le but en lançant le javelot, LUC. <i>Par. 61</i>.`

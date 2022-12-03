@@ -1,1 +1,0 @@
-lar[75384]=`<b>ή, όν</b> <font color="purple">[βᾰ]</font> opposé à, contraire à, <i>gén</i>. ORIG. <i>c. Cels. 582d</i>.<p><b>Étym</b>. παραβαίνω.`

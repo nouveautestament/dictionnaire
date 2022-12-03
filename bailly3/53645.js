@@ -1,1 +1,0 @@
-lar[53645]=`<b>κατα·φιλέω-ῶ</b> <font color="purple">[ῐ]</font> baiser tendrement, XÉN. <i>Cyr. 7, 5, 32 etc.</i> ; PLUT. <i>Alex. 67, etc</i>.`

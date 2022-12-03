@@ -1,1 +1,0 @@
-lar[50506]=`<b>καθ·υποκρίνομαι</b> <font color="purple">[ῑ]</font><br><b>      1</b> tromper par un art de comédien : τινα, DÉM. <i>449, 16,</i> qqn ; <i>fig</i>. altérer, détruire, DH. <i>Dem. 53</i>.<br><b>      2</b> feindre, <i>acc</i>. PHIL. <i>2, 520</i> ; HIM. <i>p. 68, avec un inf</i>. feindre de, LUC. <i>D. mar. 13, 2</i>.`

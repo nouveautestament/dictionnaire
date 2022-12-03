@@ -1,1 +1,0 @@
-lar[8553]=`<b>ἀν·ερίναστος, ος, ον</b> <font color="purple">[ῑ]</font> non fécondé par la caprification, <i>d’où</i> stérile, sans force, TH. <i>H.P. 2, 8, 3 ; C.P. 2, 9, 12</i>.<p><b>Étym</b>. ἀν-, ἐρινάζω.`

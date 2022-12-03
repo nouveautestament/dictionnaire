@@ -1,1 +1,0 @@
-lar[8255]=`<i>adv</i>., avec patience, HIÉROCL. <i>C. aur. p. 447 Mullach</i>.`

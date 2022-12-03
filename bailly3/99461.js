@@ -1,1 +1,0 @@
-lar[99461]=`<font color="purple">[ῐ]</font><br><b>      1</b> <i>adv. démonstr. corrél. de</i> πόθι, ποθί <i>et</i> ὅθι, là même, OD. <i>15, 239</i> ; HH. <i>Ap. 244</i>.<br><b>      2</b> <i>adv. relat. c</i>. ὅθι, où, HH. <i>18, 25</i> ; PD. <i>N. 4, 84</i> ; THCR. <i>Idyl. 22, 199, etc</i>.<p><b>Étym</b>. <i>th. démonstr</i>. το-, -θι.`

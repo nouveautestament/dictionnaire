@@ -1,1 +1,0 @@
-lar[11795]=`<b>ἀ·περίστικτος, ος, ον</b>, non entouré de points d’un côté et de l’autre, <i>en parl. d’une ligne droite servant de signe critique,</i> GAL. <i>13, 975</i>.<p><b>Étym</b>. ἀ, περιστίζω.`

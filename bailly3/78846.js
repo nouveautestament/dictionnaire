@@ -1,1 +1,0 @@
-lar[78846]=`<b>περι·κυκλόω-ῶ :<br>      1 <i>tr.</i></b> entourer comme d’un cercle, envelopper, ARSTT. <i>H.A. 4, 8, 11</i> ; SPT. <i>Gen. 19, 4</i>.<br><b>      2 <i>intr.</i></b> aller autour, LUC. <i>Oc. 63</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HDT. <i>8, 78</i> ; XÉN. <i>An. 6, 3, 11, etc</i>.`

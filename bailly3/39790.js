@@ -1,1 +1,0 @@
-lar[39790]=`<b>ἐπ·όγμιος, ος, ον</b>, qui préside aux sillons, <i>ép. de Dèmèter,</i> ANTH. <i>6, 258</i>.<p><b>Étym</b>. ἐπί, ὄγμος.`

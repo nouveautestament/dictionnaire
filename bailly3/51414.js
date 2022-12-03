@@ -1,1 +1,0 @@
-lar[51414]=`<b>ου (ὁ)</b> = Camillus (Camille) <i>n. d’h. rom</i>. PLUT. <i>Cam. 1, etc</i>.`

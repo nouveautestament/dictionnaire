@@ -1,1 +1,0 @@
-lar[76069]=`<b>παρά·πλειος, ος, ον</b>, presque plein, PLAT. <i>Rsp. 390a</i>.<p>➳ <i>Fém</i>. -α, OD. <i>9, 8, dout</i>.`

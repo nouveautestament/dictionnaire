@@ -1,1 +1,0 @@
-lar[106396]=`<i>ou mieux</i> <b>Φλειοῦς, οῦντος (ὁ)</b> Phliunte, <i>v. d’Argolide,</i> THC. <i>4, 133 ; 5, 57, 58</i> ; XÉN. <i>Hell. 7, 2, 11</i>.<p>➳ <i>Sur l’écriture</i> Φλειοῦς <i>v</i>. Φλιάσιος.`

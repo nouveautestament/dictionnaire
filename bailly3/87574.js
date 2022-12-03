@@ -1,1 +1,0 @@
-lar[87574]=`<b>Πυθό·δημος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Pythodèmos, <i>h</i>. LYS. (POLL. <i>7, 17), etc</i>.<p><b>Étym</b>. Πυθώ, δῆμος.`

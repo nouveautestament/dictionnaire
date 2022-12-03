@@ -1,1 +1,0 @@
-lar[70226]=`<font color="purple">[ῡ]</font>, <b>υος (ἡ)</b> <font color="purple">[ῠ]</font> Othrys (<i>auj</i>. Óthrys <i>ou</i> Órthrys) <i>mt. de Thessalie,</i> HÉS. <i>Th. 632</i> ; HDT. <i>7, 129</i> ; EUR. <i>Alc. 580, etc</i>.`

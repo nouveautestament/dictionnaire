@@ -1,1 +1,0 @@
-lar[105715]=`<b>φιλο·γενναῖος, ος, ον</b>, qui aime le sérieux : τὸ φιλογενναῖον, DL. <i>4, 19,</i> le sérieux, la gravité.`

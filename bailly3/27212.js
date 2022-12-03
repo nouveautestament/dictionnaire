@@ -1,1 +1,0 @@
-lar[27212]=`<b>διχο·στασία, ας (ἡ)</b> <font color="purple">[ῐτᾰ]</font><br><b>      1</b> dissension, discorde, HDT. <i>5, 75</i> ; PLUT. <i>M. 20c, 479a.</i><br><b>      2</b> <i>p. suite,</i> séparation, sédition, SOL. <i>3, 37</i>.<br><b>      3</b> doute, incertitude, THGN. <i>78</i>.<p>➳ <i>Ion</i>. -ίη, HDT. THGN. <i>ll. cc. etc</i>.<p><b>Étym</b>. δίχα, ἵστημι.`

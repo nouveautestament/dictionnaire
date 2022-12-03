@@ -1,1 +1,0 @@
-lar[100366]=`<b>τριπλασι·εφήμισυς, εια, υ</b> <font color="purple">[ᾰμῐ]</font> trois fois et demi aussi grand, NICOM. <i>Arithm. 1, 22</i>.<p><b>Étym</b>. τρ. ἐφήμισυς.`

@@ -1,1 +1,0 @@
-lar[30231]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> de belle apparence, OD. <i>24, 279</i>.<br><b>      2</b> semblable à, <i>gén</i>. ANTH. <i>7, 491</i>.<p><b>Étym</b>. εἶδος.`

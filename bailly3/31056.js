@@ -1,1 +1,0 @@
-lar[31056]=`<b>ου</b> <font color="purple">[ᾰ]</font> <i>adj. m. c</i>. ἑκατονταέτης, LUC. <i>Macr. 14</i>.<p><b>Étym</b>. ἐ. ἔτος.`

@@ -1,1 +1,0 @@
-lar[58793]=`<b>κυν·όδους, όδοντος (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> dent canine des hommes et des animaux, HPC. <i>1248d ;</i> XÉN. <i>Eq. 6, 8</i>.<br><b>      2</b> dent venimeuse de serpent, NIC. <i>Th. 130</i>.<br><b>      3</b> dent de scie, EL. <i>N.A. 10, 20</i>.<p><b>Étym</b>. κύων, ὀδούς.`

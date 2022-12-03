@@ -1,1 +1,0 @@
-lar[78001]=`<b>πεντά·μηνος, ος, ον</b> <font color="purple">[ᾰ]</font> de cinq mois, HPC. <i>Epid. 3, 1079</i> ; ARSTT. <i>H.A. 7, 4, 19</i> ; PLUT. <i>M. 933e</i>.<p><b>Étym</b>. πέντε, μήν.`

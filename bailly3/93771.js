@@ -1,1 +1,0 @@
-lar[93771]=`<b>εως (ἡ)</b> action de réunir, d’amasser, ANTIPH. (<i>Com. fr. 3, 122).</i><p><b>Étym</b>. συλλέγω.`

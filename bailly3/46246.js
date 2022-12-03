@@ -1,1 +1,0 @@
-lar[46246]=`<font color="purple">[ᾰᾰ]</font> <i>adv.</i> :<br><b>      1</b> en grand nombre, IL. <i>15, 470</i>.<br><b>      2</b> souvent, fréquemment, en se succédant rapidement, IL. <i>16, 207</i> ; OD. <i>16, 27</i> ; XÉN. <i>Mem. 2, 1, 22</i> ; PLAT. <i>Phæd. 72e</i>.`

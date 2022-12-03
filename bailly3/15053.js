@@ -1,1 +1,0 @@
-lar[15053]=`<b>Ἁρπά·λυκος, ου (ὁ)</b> <font color="purple">[πᾰῠ]</font> Harpalykos, <i>h</i>. THCR. <i>Idyl. 24, 116</i>.<p><b>Étym</b>. ἅρπη, λύκος.`

@@ -1,1 +1,0 @@
-lar[108038]=`<b>ή, όν</b>, propre à relâcher, à amollir, <i>gén</i>. PLUT. <i>M. 771b</i>.<p><b>Étym</b>. χαυνόω.`

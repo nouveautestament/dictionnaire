@@ -1,1 +1,0 @@
-lar[10187]=`<b>ἀντι·παραπήγνυμι</b> (<i>part. pf. pass</i>. -παραπεπηγμένος) mettre en opposition (<i>litt</i>. fixer auprès en opposition) DYSC. <i>Synt. 37</i>.`

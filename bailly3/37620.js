@@ -1,1 +1,0 @@
-lar[37620]=`<b>ἐπι·δίζημαι</b> (<i>seul. prés</i>.) :<br><b>      1</b> rechercher en outre, HDT. <i>1, 95</i>.<br><b>      2</b> demander en outre, HDT. <i>5, 106</i>.`

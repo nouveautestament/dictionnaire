@@ -1,1 +1,0 @@
-lar[28772]=`<b>δυσ·πάρευνος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la couche est funeste, SOPH. <i>Tr. 791</i>.`

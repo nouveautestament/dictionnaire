@@ -1,1 +1,0 @@
-lar[63169]=`<b>ματιανὰ μῆλα (τὰ)</b> sorte de pommes, ATH. <i>82c</i>.`

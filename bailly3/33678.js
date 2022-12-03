@@ -1,1 +1,0 @@
-lar[33678]=`<b>ἐμ·φεύγω</b> <font color="darkgreen">(<i>impf</i>. ἐνέφευγον)</font> se réfugier dans, <i>avec</i> εἰς <i>et l’acc</i>. LUC. <i>Pseud. 1, 27</i>.<p><b>Étym</b>. ἐν, φ.`

@@ -1,1 +1,0 @@
-lar[86894]=`<b>προ·ϋποτέμνω</b>, couper auparavant, HLD. <i>4, 18</i>.`

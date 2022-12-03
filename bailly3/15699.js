@@ -1,1 +1,0 @@
-lar[15699]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> aromatique, DIOSC. <i>1, 12</i> ; GAL. <i>2, 227</i>.<p><b>Étym</b>. ἄρωμα¹, -ωδης.`

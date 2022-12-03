@@ -1,1 +1,0 @@
-lar[91126]=`<b>ή, όν</b>, capable d’observer, ORIG. <i>3, 613, 616 Migne</i>.<p><b>Étym</b>. σκοπεύω.`

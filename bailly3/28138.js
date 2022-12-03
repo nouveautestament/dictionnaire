@@ -1,1 +1,0 @@
-lar[28138]=`<b>δυσ·άδελφος, ος, ον</b> <font color="purple">[ῠᾰ]</font> malheureux par ses frères, ESCHL. <i>Sept. 870 (sup</i>. -ότατος).<p><b>Étym</b>. δ. ἀδελφός.`

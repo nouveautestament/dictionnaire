@@ -1,1 +1,0 @@
-lar[90987]=`<b>σκιρτο·πόδης, ου</b>, <i>adj. m</i>. aux pieds bondissants, A. PL. <i>15</i>.<p><b>Étym</b>. σκιρτάω, πούς.`

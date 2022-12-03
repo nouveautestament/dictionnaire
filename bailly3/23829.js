@@ -1,1 +1,0 @@
-lar[23829]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit faisceau, petite botte, HIPPIATR.<p><b>Étym</b>. <i>dim. de</i> δέμα.`

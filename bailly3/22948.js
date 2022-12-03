@@ -1,1 +1,0 @@
-lar[22948]=`<b>δαιδαλό·γλωσσος, ος, ον</b> <font color="purple">[ᾰ]</font> au langage artificieux <i>ou</i> habile, SYN. <i>324a</i>.<p><b>Étym</b>. δαίδαλος, γλῶσσα.`

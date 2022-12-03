@@ -1,1 +1,0 @@
-lar[66323]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> femme adultère, ESCHN. (ATH. <i>220b</i>).<p><b>Étym</b>. μοιχός.`

@@ -1,1 +1,0 @@
-lar[65693]=`<b>μικρό·γενυς, υος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui a les mâchoires petites, ADAM. <i>Physiogn. 2, 17</i>.<p><b>Étym</b>. μ. γένυς.`

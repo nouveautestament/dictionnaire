@@ -1,1 +1,0 @@
-lar[99651]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> sorte de plante ombellifère, NIC. <i>Th. 841</i>.`

@@ -1,1 +1,0 @@
-lar[2481]=`<b>ης, ες</b>, semblable à un ciel serein, HÉRACLITE GRAMM. <i>All. Hom. 36</i>.<p><b>Étym</b>. αἰθρία, -ωδης.`

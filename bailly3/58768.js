@@ -1,1 +1,0 @@
-lar[58768]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. du Cynthe, CALL. <i>Ap. 61</i>.<p><b>Étym</b>. Κύνθος.`

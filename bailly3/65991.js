@@ -1,1 +1,0 @@
-lar[65991]=`<b>ή, όν</b>, d’homme à gages, de mercenaire, ARSTT. <i>Pol. 8, 2, 5, etc</i>.<p><b>Étym</b>. μισθάρνης.`

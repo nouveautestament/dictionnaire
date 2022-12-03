@@ -1,1 +1,0 @@
-lar[81585]=`<b>πολιόω-ῶ</b>, faire grisonner, <i>d’où au pass</i>. grisonner, commencer à avoir les cheveux blancs, ARSTT. <i>G.A. 5, 1, 32, etc.</i> ; CLÉM. <i>262, etc</i>.<p><b>Étym</b>. πολιός.`

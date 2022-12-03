@@ -1,1 +1,0 @@
-lar[85071]=`<b>προσ·αγκαλίζομαι</b> <font color="purple">[κᾰ]</font> serrer dans ses bras, ARISTÉN. <i>1, 21</i> ; JOS. <i>B.J. 7, 9, 1</i>.`

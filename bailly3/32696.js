@@ -1,1 +1,0 @@
-lar[32696]=`<b>ή, όν</b>, qu’on peut prendre <i>ou</i> saisir, IL. <i>9, 409</i>.<p><b>Étym</b>. <i>vb. de</i> ἑλεῖν.`

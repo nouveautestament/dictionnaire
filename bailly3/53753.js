@@ -1,1 +1,0 @@
-lar[53753]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de graisser, onction, A. APHR. <i>Probl. 2, 59</i>.<p><b>Étym</b>. καταχρίω.`

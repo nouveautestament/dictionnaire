@@ -1,1 +1,0 @@
-lar[51684]=`<b>Καπυρ·οσφράντης, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Flaire-la-grillade, <i>n. de parasite,</i> ALCIPHR. <i>3, 62</i>.<p><b>Étym</b>. κ. ὀσφραίνομαι.`

@@ -1,1 +1,0 @@
-lar[62973]=`<font color="purple">[ᾰρι]</font><br><b>      1</b> briller, resplendir, PD. <i>fr. 88</i>.<br><b>      2</b> être dur comme du marbre, DS. <i>3, 12</i>.<p>➳ <i>Seul. part. prés. fém</i>. μαρμαρίζουσα, DS. <i>l. c. ; acc. pl. dor</i>. μαρμαριζοίσας, PD. <i>l. c</i>.<p><b>Étym</b>. μάρμαρος.`

@@ -1,1 +1,0 @@
-lar[3677]=`<b>όνος (ὁ) :<br>      1</b> grosse branche se ramifiant en menues branches, ARSTT. <i>Plant. 2, 10, 3</i> ; TH. <i>H.P. 1, 1, 9</i>.<br><b>      2</b> branche, rejeton, <i>en gén</i>. EUR. <i>Cycl. 455</i> ; THCR. <i>Idyl. 16, 96, etc</i>.<p><b>Étym</b>. ἄκρος.`

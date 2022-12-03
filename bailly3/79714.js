@@ -1,1 +1,0 @@
-lar[79714]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> vive douleur, HPC. <i>516, 38</i> ; PLAT. <i>Rsp. 583d, etc. ; au plur</i>. HPC. <i>407, 23, etc.</i> ; ARSTT. <i>Poet. 11, 10</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>516, 38, etc</i>.<p><b>Étym</b>. περιώδυνος.`

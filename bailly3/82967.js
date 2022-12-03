@@ -1,1 +1,0 @@
-lar[82967]=`<b>ποταμ·ηγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui transporte sur un fleuve, DH. <i>2, 53, 55 ; 3, 56</i>.<p><b>Étym</b>. ποταμός, ἄγω.`

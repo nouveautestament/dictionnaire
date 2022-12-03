@@ -1,1 +1,0 @@
-lar[88743]=`<b>ου (ὁ)</b> bruit retentissant, SOPH. <i>Ant. 1004</i> ; AR. <i>Nub. 107</i>.<p><b>Étym</b>. <i>cf</i>. ῥοῖζος.`

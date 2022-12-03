@@ -1,1 +1,0 @@
-lar[92328]=`<b>εος-ους (τὸ) :<br>      1</b> base de la tige <i>ou</i> du tronc, PD. <i>N. 10, 165</i> ; HDT. <i>8, 55 ; d’où</i> tige <i>ou</i> tronc, AR. <i>Lys. 336</i> ; DÉM. <i>1073, 27</i> ; ARSTT. <i>H.A. 6, 17, etc.</i><br><b>      2</b> tronc coupé, bûche, <i>fig</i>. LYSIPP. (<i>Com. fr. 2, 746</i>).`

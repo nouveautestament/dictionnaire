@@ -1,1 +1,0 @@
-lar[57261]=`<b>ορος (ὁ)</b> ordonnateur, <i>d’où</i> chef, IL. <i>1, 16, etc.</i> ; OD. <i>18, 152</i> ; A.RH. <i>1, 194</i>.<p><b>Étym</b>. κοσμέω.`

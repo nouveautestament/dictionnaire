@@ -1,1 +1,0 @@
-lar[76863]=`<i>adv</i>., d’une manière inusitée <i>ou</i> différente, POL. <i>15, 13, 6</i> ; DS. <i>14, 112</i>.<p><b>Étym</b>. παρηλλαγμένος, <i>part. pf. pass. de</i> παραλλάσσω.`

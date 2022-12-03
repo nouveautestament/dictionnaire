@@ -1,1 +1,0 @@
-lar[5691]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> oubli, ingratitude, EUR. <i>Ion 1100</i>.<p><b>Étym</b>. ἀμνήμων.`

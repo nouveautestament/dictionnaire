@@ -1,1 +1,0 @@
-lar[80158]=`<b>α, ον</b>, long, large, <i>etc</i>. d’une coudée, A.RH. <i>3, 1207 ; fig</i>. χρόνος, MIMNERME <i>2, 3,</i> court espace de temps ; <i>subst</i>. ὁ π. A.RH. <i>1, 379,</i> manche de rame.<p><b>Étym</b>. πῆχυς.`

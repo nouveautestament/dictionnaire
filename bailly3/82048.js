@@ -1,1 +1,0 @@
-lar[82048]=`<b>πολυ·κτόνος, ος, ον</b>, qui fait périr beaucoup d’êtres, ESCHL. <i>Ag. 461, 734</i> ; EUR. <i>Hel. 198</i>.<p><b>Étym</b>. π. κτείνω.`

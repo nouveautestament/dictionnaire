@@ -1,1 +1,0 @@
-lar[13630]=`<b>άδος</b>, <i>adj. f.</i> :<br><b>      1</b> coupée à pic, escarpée, DS. <i>2, 13, etc.</i><br><b>      2</b> <i>subst</i>. ἡ ἀπ. JOS. <i>A.J. 3, 1, 2,</i> pièce de bois.<p><b>Étym</b>. ἀποτέμνω.`

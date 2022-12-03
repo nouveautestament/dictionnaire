@@ -1,1 +1,0 @@
-lar[39553]=`<b>ἐπι·φάσκω</b> (<i>seul. prés</i>.) alléguer, déclarer, PHIL. <i>2, 536</i>.`

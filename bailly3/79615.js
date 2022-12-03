@@ -1,1 +1,0 @@
-lar[79615]=`<b>ος, ον :<br>      1</b> qu’on peut porter tout autour, portatif, HDT. <i>4, 190</i>.<br><b>      2</b> qu’on porte tout autour, ANACR. <i>19, 2</i> ; STR. <i>155</i>.<br><b>      3</b> dont le nom est répandu tout autour, célèbre, PLUT. <i>Per. 27</i>.<p><b>Étym</b>. περιφορέω.`

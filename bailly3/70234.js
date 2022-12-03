@@ -1,1 +1,0 @@
-lar[70234]=`<i>nom. plur. masc. de</i> ὅς, ἥ, ὅ, <i>ou de ὅ pron. démonstr. ou pour οἱ dev. une enclit</i>.`

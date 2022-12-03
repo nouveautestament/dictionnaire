@@ -1,1 +1,0 @@
-lar[98690]=`<b>τετρά·σχοινος, ος, ον</b>, long de quatre schènes, <i>càd</i>. de 240 stades, STR. <i>558</i>.<p><b>Étym</b>. τ. σχοῖνος.`

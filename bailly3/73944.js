@@ -1,1 +1,0 @@
-lar[73944]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de capter la foule, SEXT. <i>M. 2, 50</i>.<p><b>Étym</b>. ὀχλοκόπος.`

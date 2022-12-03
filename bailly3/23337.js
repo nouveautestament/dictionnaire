@@ -1,1 +1,0 @@
-lar[23337]=`(<i>seul. inf</i>. -εσθαι), manger, avaler, ARÉT. <i>68a</i>.<p><b>Étym</b>. δατέομαι.`

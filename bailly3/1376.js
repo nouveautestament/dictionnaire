@@ -1,1 +1,0 @@
-lar[1376]=`<b>ας (ἡ)</b> audace, hardiesse, SUÉT. <i>Calig. 29</i>.<p><b>Étym</b>. ἀδιάτρεπτος.`

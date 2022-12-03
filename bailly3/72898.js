@@ -1,1 +1,0 @@
-lar[72898]=`<b>ὁρμο·δοτήρ, ῆρος (ὁ)</b> qui fait aborder (canot, barque), ANTH. <i>10, 16</i>.<p><b>Étym</b>. ὅρμος, δίδωμι.`

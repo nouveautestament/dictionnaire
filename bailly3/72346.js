@@ -1,1 +1,0 @@
-lar[72346]=`<b>ὁπλομαχέω-ῶ</b> <font color="purple">[ᾰ]</font> combattre avec des armes pesantes, <i>particul</i>. à l’escrime, ISOCR. <i>482</i> ; PLUT. <i>Cato ma. 20, etc</i>.<p><b>Étym</b>. ὁπλομάχος.`

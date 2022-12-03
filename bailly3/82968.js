@@ -1,1 +1,0 @@
-lar[82968]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme un fleuve, LUC. <i>Sat. 7</i> ; ARÉT. <i>Caus. m. diut. 2, 13</i>.<p><b>Étym</b>. π. -δον.`

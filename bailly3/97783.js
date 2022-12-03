@@ -1,1 +1,0 @@
-lar[97783]=`<b>ταυρο·κάρηνος, ος, ον</b> <font color="purple">[ᾰ]</font> à tête de taureau, NONN. <i>D. 26, 317</i>.<p><b>Étym</b>. τ. κάρηνον.`

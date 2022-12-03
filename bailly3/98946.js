@@ -1,1 +1,0 @@
-lar[98946]=`<b>τηλε·φανής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui apparaît <i>ou</i> qu’on voit de loin, OD. <i>24, 83</i> ; PD. <i>fr. 97, 5</i> ; AR. <i>Nub. 281</i>.<br><b>      2</b> <i>p. anal.,</i> qu’on entend de loin, SOPH. <i>Ph. 189</i>.<p><b>Étym</b>. τ. φαίνω.`

@@ -1,1 +1,0 @@
-lar[68865]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> réfléchi, prudent, sage, OD. <i>2, 282 ; 3, 133</i> ; LUC. <i>Philops. 34</i>.<br><b>      2</b> qui est dans son bon sens, HDT. <i>3, 34</i>.<p><b>Étym</b>. νοέω.`

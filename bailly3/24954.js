@@ -1,1 +1,0 @@
-lar[24954]=`<b>εως (ἡ)</b> réconciliation, EMPÉD. (ARSTT. <i>Gen. et corr. 1, 1, 7, etc</i>.).<p><b>Étym</b>. διαλλάσσω.`

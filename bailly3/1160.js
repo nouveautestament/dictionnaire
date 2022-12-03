@@ -1,1 +1,0 @@
-lar[1160]=`<b>ἄ·δακρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[δα]</font><br><b>      1</b> qui ne pleure pas, <i>gén</i>. EUR. <i>Alc. 1047</i>.<br><b>      2</b> qui ne fait pas verser de larmes (guerre, victoire) DS. <i>15, 72</i> ; PLUT. <i>M. 318b</i>.<p><b>Étym</b>. ἀ, δάκρυ.`

@@ -1,1 +1,0 @@
-lar[96163]=`<b>συν·ομαλύνω</b> <font color="purple">[ᾰῡ]</font> rendre tout à fait uni, PLUT. <i>Tim. 22, Syll. 14</i>.`

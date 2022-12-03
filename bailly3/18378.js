@@ -1,1 +1,0 @@
-lar[18378]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font><br><b>      1</b> large ouverture, P. ÉG. <i>6, 107</i>.<br><b>      2</b> vide immense, gouffre, M. ANT. <i>12, 7</i>.<p><b>Étym</b>. ἀχανής.`

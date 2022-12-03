@@ -1,1 +1,0 @@
-lar[64984]=`<b>ῆς (ἡ)</b> action de se retourner, PLAT. <i>Rsp. 525c, 532b</i>.<p><b>Étym</b>. μεταστρέφω.`

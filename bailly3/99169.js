@@ -1,1 +1,0 @@
-lar[99169]=`<b>Τιμα·γένης, ους (ὁ)</b> <font color="purple">[ῑᾱ]</font> Timagénès, <i>rhéteur et historien,</i> PLUT. <i>M. 68b</i>.<p><b>Étym</b>. τιμή, γένος.`

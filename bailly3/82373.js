@@ -1,1 +1,0 @@
-lar[82373]=`<b>πολυ·σπαθής, ής, ές</b> <font color="purple">[ᾰ]</font> d’une trame très serrée, ANTH. <i>6, 37</i>.<p><b>Étym</b>. π. σπάθη.`

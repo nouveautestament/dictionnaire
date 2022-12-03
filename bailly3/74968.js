@@ -1,1 +1,0 @@
-lar[74968]=`<b>πάν·δωρος, ος, ον</b>, qui donne toute sorte de présents, bienfaisant, fécond, HOM. <i>Ep. 7</i> ; OPP. <i>C. 1, 12, etc</i>.`

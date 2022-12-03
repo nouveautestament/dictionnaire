@@ -1,1 +1,0 @@
-lar[21384]=`<b>ου (τὸ)</b> sorte de plante, DIOSC. <i>4, 50</i>.`

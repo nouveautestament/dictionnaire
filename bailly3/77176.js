@@ -1,1 +1,0 @@
-lar[77176]=`<b>ής, ές</b> <font color="purple">[ῠ]</font> broché, brodé : τὸ παρυφές, AR. <i>fr. 309,</i> vêtement de femme bordé de pourpre.<p><b>Étym</b>. παρυφαίνω.`

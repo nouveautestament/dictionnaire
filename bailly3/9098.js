@@ -1,1 +1,0 @@
-lar[9098]=`<b>ἀν·ιππεύω</b>, s’élever dans les airs avec ses coursiers, <i>en parl. du soleil,</i> EUR. <i>Ion 41</i>.<p><b>Étym</b>. ἀνά, ἱ.`

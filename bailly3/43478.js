@@ -1,1 +1,0 @@
-lar[43478]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec un bon estomac, CIC. <i>Att. 9, 5, 2</i> ; ANTH. <i>11, 4</i>.`

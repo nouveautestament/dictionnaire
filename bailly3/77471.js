@@ -1,1 +1,0 @@
-lar[77471]=`<b>παχύ·αιμος, ος, ον</b> <font color="purple">[ᾰχ]</font> au sang épais, HPC. <i>357, 10</i>.<p><b>Étym</b>. παχύς, αἷμα.`

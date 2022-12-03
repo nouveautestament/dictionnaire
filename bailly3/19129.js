@@ -1,1 +1,0 @@
-lar[19129]=`<b>βαρυδαιμονέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰῠ]</font> être très malheureux, AR. <i>Eq. 558</i>.<p><b>Étym</b>. βαρυδαίμων.`

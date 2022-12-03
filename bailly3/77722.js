@@ -1,1 +1,0 @@
-lar[77722]=`<b>πελαγόω-ῶ</b> <font color="purple">[ᾰ]</font> transformer en une vaste mer, A. TAT. <i>4, 12</i>.<p><b>Étym</b>. πέλαγος.`

@@ -1,1 +1,0 @@
-lar[43296]=`<b>εὐρυ·μέδων, οντος</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. qui règne au loin, <i>ép. de Poséidon,</i> PD. <i>O. 8, 31 ; de Chiron,</i> PD. <i>P. 3, 4 ; du ciel</i> (αἰθήρ) EMPÉD. <i>438 Mullach ; d’une montagne qui par sa hauteur domine au loin les contrées environnantes,</i> THCR. <i>Idyl. 7, 46</i>.<p><b>Étym</b>. εὐ. μέδω.`

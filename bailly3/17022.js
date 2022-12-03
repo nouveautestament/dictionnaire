@@ -1,1 +1,0 @@
-lar[17022]=`<b>ας (ἡ)</b> Attia, <i>mère de l’empereur rom. Octavien,</i> PLUT.`

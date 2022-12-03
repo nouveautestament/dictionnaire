@@ -1,1 +1,0 @@
-lar[55646]=`<b>κισσό·φυλλον, ου (τὸ) :<br>      1</b> feuille de lierre, SPT. <i>3Macc. 2, 29 ; p. anal. t. de mécan</i>. pièce en forme de feuille de lierre, PHIL. BYZ. <i>p. 70</i>.<br><b>      2</b> plante à feuilles de lierre, <i>particul</i>. cyclamen, <i>v</i>. κυκλάμινον, DIOSC. <i>3, 106</i>.<p><b>Étym</b>. κισσός, φύλλον.`

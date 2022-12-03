@@ -1,1 +1,0 @@
-lar[19003]=`<b>ου (ἡ)</b> <font color="purple">[σᾰ]</font> baumier, <i>arbrisseau,</i> PALL. (<i>cf</i>. βάλσαμον).`

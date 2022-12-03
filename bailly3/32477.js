@@ -1,1 +1,0 @@
-lar[32477]=`<b>οῦντος (ὁ)</b> Éléonte, <i>v. de la Chersonèse de Thrace,</i> HDT. <i>7, 22, etc.</i> ; THC. <i>8, 102, 107</i> ; XÉN. <i>Hell. 2, 1, 20, etc</i>.<p><b>Étym</b>. <i>contract. de</i> *ἐλαιόεις, όεντος, planté d’oliviers, <i>de</i> ἐλαία.`

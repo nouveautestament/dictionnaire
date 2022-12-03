@@ -1,1 +1,0 @@
-lar[63633]=`<b>μεθ·ορμάομαι-ῶμαι</b> <font color="darkgreen">(<i>ao</i>. μεθωρμήθην)</font> poursuivre, se jeter sur, <i>acc</i>. IL. <i>20, 192</i> ; OD. <i>5, 325</i>.<p><b>Étym</b>. μ. ὁρμάω.`

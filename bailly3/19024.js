@@ -1,1 +1,0 @@
-lar[19024]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> d’artisan, XÉN. <i>Conv. 3, 4 ; Œc. 4, 2 ; 6, 5</i>.<p><b>Étym</b>. βάναυσος.`

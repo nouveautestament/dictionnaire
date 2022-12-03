@@ -1,1 +1,0 @@
-lar[47330]=`<b>θηρό·τροφος, ος, ον</b>, qui se nourrit d’animaux sauvages, EUR. <i>Ph. 820</i>.<p><b>Étym</b>. θ. τρέφω.`

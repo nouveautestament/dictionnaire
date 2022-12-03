@@ -1,1 +1,0 @@
-lar[87584]=`<b>Πυθό·μαντις, εως (ὁ, ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> oracle pythique, Pythie, ESCHL. <i>Ch. 1030</i>.<br><b>      2</b> qui concerne l’oracle pythique, SOPH. <i>O.R. 965</i>.<p><b>Étym</b>. Πυθώ, μάντις.`

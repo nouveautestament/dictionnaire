@@ -1,1 +1,0 @@
-lar[11231]=`<b>ἀπ·αμφιάζω</b> <font color="darkgreen">(<i>impf</i>. ἀπημφίαζον, <i>ao</i>. ἀπημφίασα)</font> dévêtir, dépouiller, <i>acc</i>. ANTH. <i>7, 76</i> ; PLUT. <i>M. 406d.</i><br><b><i>Moy.</i></b> se dévêtir de, <i>acc</i>. ANTH. <i>7, 49</i> ; PHIL. <i>1, 270</i>.`

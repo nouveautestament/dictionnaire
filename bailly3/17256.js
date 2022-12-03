@@ -1,1 +1,0 @@
-lar[17256]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1 <i>tr</i></b>. qui fait croître, EMPÉD. (ARSTT. <i>Respir. 7</i>) ; XÉN. <i>Cyn. 7, 3</i>.<br><b>      2 <i>intr</i></b>. qui pousse bien, bien développé, HPC. <i>347, 19, etc</i>.<p>•<i> Cp</i>. -ώτερος, HPC. <i>364, 27</i>.<p><b>Étym</b>. αὔξω.`

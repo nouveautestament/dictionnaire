@@ -1,1 +1,0 @@
-lar[13021]=`<i>adv</i>., en rebondissant, SEXT. <i>Phys. 2, 223, p. 670</i>.<p><b>Étym</b>. ἀποπάλλω.`

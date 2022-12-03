@@ -1,1 +1,0 @@
-lar[106211]=`<b>φιλό·ψιλος, ου (ὁ, ἡ)</b> <font color="purple">[ῐῐ]</font> qui aime à se placer en tête du chœur, ALCM. <i>152</i>.<p><b>Étym</b>. φ. ψιλεύς.`

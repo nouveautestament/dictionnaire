@@ -1,1 +1,0 @@
-lar[87545]=`<b>όνος (ἡ)</b> <font color="purple">[ῡ]</font> pourriture, NIC. <i>Th. 466 au plur</i>.<p><b>Étym</b>. πύθω.`

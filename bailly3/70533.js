@@ -1,1 +1,0 @@
-lar[70533]=`<b>Οἰνό·λαλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Jase-du-vin, <i>n. de paras</i>. ALCIPHR. <i>3, 57</i>.<p><b>Étym</b>. οἶν. λαλέω.`

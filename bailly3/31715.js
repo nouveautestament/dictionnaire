@@ -1,1 +1,0 @@
-lar[31715]=`<b>ἐκ·νεφόομαι-οῦμαι</b>, se transformer en nuage, TH. <i>fr. 5, 7</i>.<p><b>Étym</b>. ἐκ, νέφος.`

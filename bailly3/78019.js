@@ -1,1 +1,0 @@
-lar[78019]=`<b>πενταπλασι·επι·τέταρτος, ος, ον</b>, cinq fois aussi grand avec un quart en sus, NICOM. <i>Arithm. p. 122</i>.`

@@ -1,1 +1,0 @@
-lar[56817]=`<b>εως (ἡ)</b> action de parer, d’orner avec recherche, ATH. <i>568a</i>.<p><b>Étym</b>. κομμόω.`

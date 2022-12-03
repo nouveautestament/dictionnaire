@@ -1,1 +1,0 @@
-lar[48993]=`<b>α (ὁ)</b> <font color="purple">[ῑ]</font> Himéras, <i>n. d’un fl. de Sicile (auj</i>. Imera settentrionale <i>ou</i> Fiume Grande <i>dans son cours supérieur</i> ; Imera meridionale <i>ou</i> Salso Himeras <i>dans son cours inférieur) près d’Himéra,</i> PD. <i>P. 1, 152</i> ; THCR. <i>Idyl. 5, 124</i>.`

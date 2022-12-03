@@ -1,1 +1,0 @@
-lar[101906]=`<b>ὑπ·ακμάζω</b> <font color="purple">[ῠ]</font> être dans toute sa force sous <i>ou</i> auprès de, EL. <i>fr</i>. (SUID. <i>dout</i>.).`

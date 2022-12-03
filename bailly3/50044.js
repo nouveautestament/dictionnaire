@@ -1,1 +1,0 @@
-lar[50044]=`<b>ἰχθύ·βοτος, ος, ον</b> <font color="purple">[ῠ]</font> où paissent, <i>càd</i>. où s’ébattent les poissons, OPP. <i>H. 2, 1</i> ; NONN. <i>Jo. 21, 80</i>.<p><b>Étym</b>. ἰ. βόσκω.`

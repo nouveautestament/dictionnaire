@@ -1,1 +1,0 @@
-lar[95065]=`<b>εως (ἡ) :<br>      1</b> union, jonction, PLAT. <i>Tim. 43d ;</i> PLUT. <i>M. 697b, 793a.</i><br><b>      2</b> cohésion, consistance, épaisseur, HPC. <i>1174f, etc.</i> ; DS. <i>13, 113</i>.<p><b>Étym</b>. συνδέω.`

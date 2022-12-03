@@ -1,1 +1,0 @@
-lar[58706]=`<b>Κυμο·πόλεια, ας (ἡ)</b> <font color="purple">[ῡ]</font> Kymopoleia (<i>litt</i>. qui va à travers les flots) <i>fille de Poséidon,</i> HÉS. <i>Th. 819</i>.<p><b>Étym</b>. κῦμα, πολέω.`

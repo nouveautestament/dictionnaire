@@ -1,1 +1,0 @@
-lar[63731]=`<b>μειρακιόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> devenir adolescent, XÉN. <i>Lac. 3, 2</i> ; EL. <i>V.H. 12, 1</i>.<p><b>Étym</b>. μεῖραξ.`

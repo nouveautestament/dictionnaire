@@ -1,1 +1,0 @@
-lar[40489]=`<b>ἐρι·ούνιος, ου (ὁ) :<br>      1</b> <i>p.-ê</i>. le rapide <i>ou</i> le bienfaisant, <i>ép. d’Hermès,</i> IL. <i>20, 72 ; 24, 360, 457, 679, etc.</i> ; HH. <i>Merc. 28</i> ; AR. <i>Ran. 1144</i>.<br><b>      2</b> <i>adj</i>. bienfaisant, ORPH. <i>Lith. 197</i>.<p><b>Étym</b>. <i>inconnue, sel. les anc. de</i> ἐρι-, ὀνίνημι.`

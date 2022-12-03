@@ -1,1 +1,0 @@
-lar[89726]=`<b>ου (τὸ)</b> <i>nom de l’</i>ortie <i>chez les Égyptiens,</i> DIOSC. <i>4, 94</i>.`

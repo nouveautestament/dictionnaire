@@ -1,1 +1,0 @@
-lar[52979]=`<b>ας (ἡ)</b> Cataonie, <i>contrée de Cappadoce,</i> PLUT. <i>Demetr. 48</i>.`

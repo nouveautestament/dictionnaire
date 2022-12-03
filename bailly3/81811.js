@@ -1,1 +1,0 @@
-lar[81811]=`<b>πολυγραφέω-ῶ</b> <font color="purple">[ᾰ]</font> écrire beaucoup <i>ou</i> sur beaucoup de sujets, ATH. (<i>Math. vet. p. 1, 23).</i><p><b>Étym</b>. πολυγράφος.`

@@ -1,1 +1,0 @@
-lar[7068]=`<b>ἀν·αλγής, ής, ές :<br>      1</b> sans douleur, PLUT. <i>Sol. 27</i>.<br><b>      2</b> insensible, <i>au physique,</i> HPC. <i>Art. 831 ; au mor</i>. πρός τι, PLUT. <i>M. 528e</i>, à l’égard de qqe ch.<p><b>Étym</b>. ἀν-, ἄλγος.`

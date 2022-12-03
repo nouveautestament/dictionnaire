@@ -1,1 +1,0 @@
-lar[92724]=`<b>στομα·διαστολεύς, έως (ὁ)</b> <font color="purple">[ᾰ]</font> instrument de chirurgie pour tenir la bouche ouverte, HLD. CHIR. (ORIB. <i>p. 10 Mai).</i><p><b>Étym</b>. στόμα, διαστέλλω.`

@@ -1,1 +1,0 @@
-lar[73260]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>att. c</i>. ἀσταφίς, CRAT. <i>et</i> NICOPH. (<i>Com. fr. 2, 92 ; 2, 854</i>).`

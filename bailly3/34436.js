@@ -1,1 +1,0 @@
-lar[34436]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> donné en gage, SOCR. <i>Ep. 9</i>.<p><b>Étym</b>. ἐνέχυρον.`

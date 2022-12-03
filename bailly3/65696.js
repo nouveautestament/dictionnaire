@@ -1,1 +1,0 @@
-lar[65696]=`<b>ας (ἡ)</b> <font color="purple">[ῑᾰφ]</font> écriture par un omicron, EUST. <i>Il. p. 410, 47</i>.<p><b>Étym</b>. <i>cf</i>. μικρογραφέω.`

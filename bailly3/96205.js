@@ -1,1 +1,0 @@
-lar[96205]=`<b>συν·ορέγομαι</b>, avoir des désirs communs avec, <i>dat</i>. ARR. <i>Epict. 2, 17, 23 ; 4, 7, 20</i>.`

@@ -1,1 +1,0 @@
-lar[109333]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne les ornements du discours, APSIN. (<i>W. 7, 512</i>).<br><b>      2</b> qui concerne la chromatique (<i>v</i>. χρῶμα) DH. <i>Comp. 19</i> ; τὸ χρωματικόν, PLUT. <i>M. 744c</i>, la chromatique.<p><b>Étym</b>. χρῶμα.`

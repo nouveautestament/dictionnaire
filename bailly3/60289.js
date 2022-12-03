@@ -1,1 +1,0 @@
-lar[60289]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec relâchement, HPC. <i>194 ; d’où</i> ouvertement, CHION. <i>Ep. 7, p. 28</i>.<p><b>Étym</b>. λύω.`

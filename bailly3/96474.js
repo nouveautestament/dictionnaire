@@ -1,1 +1,0 @@
-lar[96474]=`<b>συο·θρέμμων, ονος (ὁ, ἡ)</b> qui nourrit les porcs, NAZ. <i>3, 1536 Migne</i>.`

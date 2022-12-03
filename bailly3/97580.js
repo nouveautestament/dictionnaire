@@ -1,1 +1,0 @@
-lar[97580]=`<b>τανύ·σφυρος, ος, ον</b> <font color="purple">[ᾰφῠ]</font> aux chevilles allongées, <i>càd</i>. aux jambes fines, HH. <i>Cer. 2, 77</i> ; HÉS. <i>Th. 364</i>.<p><b>Étym</b>. τανυ-, σφυρόν.`

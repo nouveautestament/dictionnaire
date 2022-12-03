@@ -1,1 +1,0 @@
-lar[54064]=`<b>α (ὁ)</b> = <i>lat</i>. Catilina, <i>n. d’h. rom</i>. PLUT. <i>Syll. 32, etc</i>.`

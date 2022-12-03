@@ -1,1 +1,0 @@
-lar[35269]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> droit qu’on paye pour l’exportation, JOS. <i>A.J. 14, 10</i>.<p><b>Étym</b>. ἐξάγω.`

@@ -1,1 +1,0 @@
-lar[84415]=`<b>προ·καθέζομαι</b> <font color="darkgreen">(<i>f</i>. -καθεδοῦμαι, <i>inf. ao. pass. au sens intr</i>. προκαθεσθῆναι) :</font><br><b>      1</b> présider, <i>gén</i>. PHINTYS (STOB. <i>Fl. 74, 61</i>).<br><b>      2</b> camper devant, <i>gén</i>. A. POLYH. (EUS. <i>P.E. 432d</i>) ; CLÉM. <i>418</i>.`

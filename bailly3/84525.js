@@ -1,1 +1,0 @@
-lar[84525]=`<b>προ·κατελπίζω</b>, espérer avant le temps, concevoir une espérance prématurée, <i>avec</i> περί <i>et le gén</i>. POL. <i>14, 3, 1, etc. ; ou</i> ὑπέρ <i>et le gén</i>. POL. <i>2, 4, 5</i>.`

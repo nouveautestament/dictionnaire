@@ -1,1 +1,0 @@
-lar[72011]=`<b>Ὀνουφίτης νομός (ὁ)</b> <font color="purple">[ῑ]</font> le nome <i>ou</i> district d’Onouphis <i>dans la Basse-Égypte,</i> HDT. <i>2, 166</i>.<p><b>Étym</b>. Ὄνουφις.`

@@ -1,1 +1,0 @@
-lar[108149]=`<b>χειρο·μάχα, ας</b> <font color="purple">[ᾰᾱ]</font> <i>adj. f</i>. qui fait le coup de poing, <i>litt</i>. « qui combat avec les mains », <i>n. d’un parti politique à Milet,</i> PLUT. <i>M. 298c</i>.<p><b>Étym</b>. <i>fém. dor. de</i> χειρομάχος.`

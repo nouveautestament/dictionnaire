@@ -1,1 +1,0 @@
-lar[44133]=`<b>εως (ἡ) :<br>      1</b> mouillage, THC. <i>6, 48, etc.</i><br><b>      2</b> <i>particul</i>. mouillage en face d’un port où d’une flotte ennemie, <i>d’où</i> blocus, THC. <i>2, 89</i>.<p><b>Étym</b>. ἐφορμέω.`

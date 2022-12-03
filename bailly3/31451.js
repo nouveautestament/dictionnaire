@@ -1,1 +1,0 @@
-lar[31451]=`<font color="purple">[ῐ]</font> <i>vb. de</i> ἐκκλίνω, PLUT. <i>M. 584d ;</i> ATH. <i>120d</i>.`

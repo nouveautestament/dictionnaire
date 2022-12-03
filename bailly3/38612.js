@@ -1,1 +1,0 @@
-lar[38612]=`<b>ἐπι·παίζω :<br>      1</b> se jouer sur, <i>dat</i>. PHILSTR. <i>835</i>.<br><b>      2</b> se jouer de, <i>dat</i>. HLD. <i>10, 13 ; abs</i>. ALEX. (ATH. <i>516f</i>).`

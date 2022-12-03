@@ -1,1 +1,0 @@
-lar[68995]=`rendre malade, ARSTT. <i>Probl. 1, 3, 2</i>.<p><b>Étym</b>. νόσος.`

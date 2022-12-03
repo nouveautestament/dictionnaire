@@ -1,1 +1,0 @@
-lar[12374]=`<b>ἀπο·ζώννυμι</b> <font color="darkgreen">(<i>ao</i>. ἀπέζωσα ; <i>pass. ao</i>. ἀπεζώσθην, <i>pf</i>. ἀπέζωσμαι)</font> dépouiller de la ceinture <i>ou</i> du baudrier, <i>càd</i>. décharger du service, licencier, HDN <i>2, 13, 17 ; 2, 13, 21, etc</i>.`

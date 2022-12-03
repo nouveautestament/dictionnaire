@@ -1,1 +1,0 @@
-lar[107399]=`<b>φωνο·μαζέω-ῶ</b>, exercer (<i>litt</i>. pétrir) la voix, PHIL. <i>in Flacc. p. 537, dout., cf</i>. φωνασκέω.<p><b>Étym</b>. φωνή, μᾶζα.`

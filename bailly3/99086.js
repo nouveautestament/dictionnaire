@@ -1,1 +1,0 @@
-lar[99086]=`<font color="darkgreen">(<i>seul. 3 sg. ao. moy</i>. ἐτιθήνατο)</font> <i>c</i>. τιθηνέω, LUC. <i>Trag. 94</i>.`

@@ -1,1 +1,0 @@
-lar[70480]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> mauvais petit vin, COM. (ATH. <i>60c, etc</i>.) ; DÉM. <i>933, 24</i>.<br><b>      2</b> un peu de vin, EPICT. <i>Ench. 12</i>.<p>➳ <font color="purple">[ᾰ]</font> ANTH. <i>11, 189</i>.<p><b>Étym</b>. οἶνος.`

@@ -1,1 +1,0 @@
-lar[79419]=`<b>περί·στοον, ου (τὸ)</b> cour <i>ou</i> place entourée de colonnes, DS. <i>5, 40</i>.<p><b>Étym</b>. π. στοά.`

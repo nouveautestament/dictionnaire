@@ -1,1 +1,0 @@
-lar[18349]=`<b>ιδος (ἡ)</b> <i>s.-e</i>. χώρα, la contrée d’Achaïe, POL. <i>4, 17</i>.`

@@ -1,1 +1,0 @@
-lar[35300]=`<b>ἑξα·ήμερος, ος, ον</b>, de six jours, PHIL. <i>1, 69</i> ; ἡ Ἑξ. les Six Jours (de la création) <i>ouvrage de saint Basile ; cf</i>. NAZ. <i>2, 585a Migne</i>.<p><b>Étym</b>. ἕξ, ἡμέρα.`

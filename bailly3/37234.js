@@ -1,1 +1,0 @@
-lar[37234]=`<b>ας (ἡ) :<br>      1</b> accusation, blâme, DC. <i>43, 46 ; 55, 18 ; 60, 4 ; 66, 2, etc.</i><br><b>      2</b> appellation, nom, <i>c</i>. προσηγορία, NYSS. <i>3, 1104 Migne</i>.<p>➳ <i>Dor</i>. ἐπαγ- <font color="purple">[ᾱ]</font> PD. (ATH. <i>574a, conj</i>.).<p><b>Étym</b>. <i>cf</i>. ἐπηγορεύω.`

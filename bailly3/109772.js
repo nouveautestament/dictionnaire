@@ -1,1 +1,0 @@
-lar[109772]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ψῆγμα HÉRACLITE ÉPH. (PLUT. <i>M. 883b</i>).`

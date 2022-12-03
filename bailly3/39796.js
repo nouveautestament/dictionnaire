@@ -1,1 +1,0 @@
-lar[39796]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> gonflé, HPC. <i>544, 46</i>.<p><b>Étym</b>. <i>cf</i>. ἐποιδαίνω.`

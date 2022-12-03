@@ -1,1 +1,0 @@
-lar[99734]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Tubero, <i>n. d’h. rom</i>. PLUT. <i>Æmil. 5, etc</i>.`

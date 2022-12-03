@@ -1,1 +1,0 @@
-lar[17073]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. νόσος, consomption, épuisement, HPC. <i>484, 24</i>.<p><b>Étym</b>. αὐαίνω.`

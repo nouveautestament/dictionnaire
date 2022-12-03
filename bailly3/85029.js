@@ -1,1 +1,0 @@
-lar[85029]=`<b>προ·πτύω</b>, cracher devant, SPT. <i>2Macc. 6, 20</i>.`

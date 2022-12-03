@@ -1,1 +1,0 @@
-lar[78898]=`<b>περι·λυγίζω</b> <font color="purple">[ῠ]</font> courber tout autour, OLYMPIOD.`

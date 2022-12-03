@@ -1,1 +1,0 @@
-lar[90246]=`<b>ου (ὁ)</b> <font color="purple">[ῐῐ]</font> Sikinos, <i>fils de Thoas,</i> A.RH. <i>1, 625</i>.`

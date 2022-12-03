@@ -1,1 +1,0 @@
-lar[67056]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> invention <i>ou</i> fiction poétique, PLUT. <i>M. 17a ;</i> EL. <i>N.A. 7, 29</i>.<p><b>Étym</b>. μυθοποιέω.`

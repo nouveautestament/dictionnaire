@@ -1,1 +1,0 @@
-lar[62812]=`<b>ητος (ἡ)</b> <font color="purple">[ᾱ]</font> défaut de consistance, de densité, PLAT. <i>Tim. 72c, 86d ; p. opp. à</i> πυκνότης, PLAT. <i>Leg. 812d ; cf</i>. TH. <i>H.P. 8, 9, 1, etc</i>.<p><b>Étym</b>. μανός.`

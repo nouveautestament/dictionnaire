@@ -1,1 +1,0 @@
-lar[87012]=`<b>ητος (ἡ) :<br>      1</b> bonne volonté, ardeur, ARR. <i>Epict. 3, 21, 18</i>.<br><b>      2</b> action de traiter, maniement, SEXT. <i>M. 1, 249</i>.<p><b>Étym</b>. πρόχειρος.`

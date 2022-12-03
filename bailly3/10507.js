@@ -1,1 +1,0 @@
-lar[10507]=`<b>ἀντι·τιμωρέομαι-οῦμαι</b> <font color="purple">[ῑμ]</font> se venger à son tour de, <i>acc</i>. EUR. <i>I.T. 357</i> ; THC. <i>3, 82 ; abs</i>. AR. <i>Pax 134, etc</i>.`

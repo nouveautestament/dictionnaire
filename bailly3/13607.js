@@ -1,1 +1,0 @@
-lar[13607]=`<b>εως (ἡ)</b> <font color="purple">[τῑ]</font><br><b>      1</b> prise d’hypothèques, DÉM. <i>878 fin</i>.<br><b>      2</b> dénombrement, cens, PLUT. <i>Crass. 13</i> ; JOS. <i>A.J. 18, 1, 1</i>.<p><b>Étym</b>. ἀποτιμάω.`

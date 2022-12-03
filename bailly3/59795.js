@@ -1,1 +1,0 @@
-lar[59795]=`<b>ου (τὸ)</b> <font color="purple">[ᾱδῐ]</font> Laodikion, <i>plaine près de Mégalopolis,</i> THC. <i>4, 134</i>.<p><b>Étym</b>. <i>cf</i>. Λαοδίκη.`

@@ -1,1 +1,0 @@
-lar[8824]=`<b>ης (ἡ)</b> Anthènè, <i>v. du Péloponnèse,</i> THC. <i>5, 41</i>.`

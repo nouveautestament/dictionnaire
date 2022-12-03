@@ -1,1 +1,0 @@
-lar[2316]=`<b>αἰγό·τριψ, ιβος (ὁ, ἡ)</b> <font color="purple">[ῐβ]</font> foulé <i>ou</i> fréquenté par les chèvres <i>ou</i> les chamois, DH. <i>19, 12</i>.<p><b>Étym</b>. αἴξ, τρίβω.`

@@ -1,1 +1,0 @@
-lar[84114]=`<b>προ·εκτυπόω-ῶ</b> <font color="purple">[ῠ]</font> façonner <i>ou</i> modeler auparavant, PHIL. <i>1, 4</i>.`

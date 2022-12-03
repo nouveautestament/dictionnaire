@@ -1,1 +1,0 @@
-lar[58200]=`<b>κρυψί·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> qui cache sa pensée, dissimulé, XÉN. <i>Cyr. 1, 6, 27, etc</i>.<p><b>Étym</b>. κρύπτω, νόος.`

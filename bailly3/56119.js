@@ -1,1 +1,0 @@
-lar[56119]=`<b>α, ον :<br>      1</b> de voleur, ANTH. <i>9, 249</i>.<br><b>      2</b> fourbe, artificieux, OD. <i>13, 295</i>.<p><b>Étym</b>. κλοπός.`

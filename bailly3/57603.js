@@ -1,1 +1,0 @@
-lar[57603]=`<b>(ὁ)</b> Krataïdas, <i>Laconien,</i> PLUT. <i>Mul. virt. 8</i>.`

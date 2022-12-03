@@ -1,1 +1,0 @@
-lar[95524]=`<b>συν·εξεργάζομαι</b>, achever <i>ou</i> détruire avec, ARSTD. <i>t. 1, 412</i>.`

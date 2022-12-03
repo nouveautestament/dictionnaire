@@ -1,1 +1,0 @@
-lar[16497]=`<b>ας (ἡ)</b> manque de sens, CHRYS.<p><b>Étym</b>. ἀσυνείδητος.`

@@ -1,1 +1,0 @@
-lar[93805]=`<b>συλ·λυσσάομαι-ῶμαι</b>, être enragé <i>ou</i> furieux avec, <i>dat</i>. A. PL. <i>83</i>.<p><b>Étym</b>. σ. λυσσάω.`

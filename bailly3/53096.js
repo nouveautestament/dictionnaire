@@ -1,1 +1,0 @@
-lar[53096]=`<b>κατά·πλεως, ως, ων</b>, plein de, rempli de, <i>gén</i>. XÉN. <i>Cyr. 8, 3, 30</i> ; PLUT. <i>M. 498e ; dat</i>. APP. <i>Lib. 117</i>.<p><b>Étym</b>. κ. πλέως.`

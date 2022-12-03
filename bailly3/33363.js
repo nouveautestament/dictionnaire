@@ -1,1 +1,0 @@
-lar[33363]=`<b>ἐμπεδ·ορκέω-ῶ</b>, être obstinément fidèle à son serment, HDT. <i>4, 201</i> ; XÉN. <i>Lac. 15, 7</i>.<p><b>Étym</b>. ἔ. ὅρκος.`

@@ -1,1 +1,0 @@
-lar[91226]=`<b>σκοτο·μήνη, ης (ἡ)</b> nuit obscure, <i>litt</i>. « où la lune ne brille pas », ARSTD. <i>t. 1, 570 ; fig</i>. obscurité, trouble SPT. <i>Ps. 10, 2</i>.<p><b>Étym</b>. σκότος, μήν.`

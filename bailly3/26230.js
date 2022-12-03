@@ -1,1 +1,0 @@
-lar[26230]=`<b>δι·εξικνέομαι-οῦμαι</b> <font color="darkgreen">(<i>ao.2 opt. 3 sg</i>. -ίκοιτο)</font> parvenir, <i>avec εἰς et l’acc</i>. POL. <i>10, 29, 3</i>.`

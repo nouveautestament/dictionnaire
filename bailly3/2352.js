@@ -1,1 +1,0 @@
-lar[2352]=`<b>ης (ἡ)</b> modestie, réserve, ZÉNON (STOB. <i>Ecl. 2, 106</i>).`

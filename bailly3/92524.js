@@ -1,1 +1,0 @@
-lar[92524]=`<b>στηθο·μελής, ής, ές</b>, qui chante de la poitrine, <i>en parl. de la cigale,</i> THCR. <i>Idyl. 7, 139</i> ; NAZ. <i>Carm. 2, 86</i>.<p><b>Étym</b>. στ. μέλος.`

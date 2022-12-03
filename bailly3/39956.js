@@ -1,1 +1,0 @@
-lar[39956]=`<b>ας (ἡ)</b> durée <i>ou</i> âge de sept ans, PLAT. <i>Ax. 366d ;</i> PLUT. <i>Demetr. 44</i>.<p><b>Étym</b>. ἑπταετής.`

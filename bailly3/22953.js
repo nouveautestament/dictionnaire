@@ -1,1 +1,0 @@
-lar[22953]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> curieux travail, HERM. <i>Poem. 33, 2</i>.<p><b>Étym</b>. δαιδαλοεργός.`

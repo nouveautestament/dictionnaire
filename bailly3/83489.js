@@ -1,1 +1,0 @@
-lar[83489]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> action de pousser en avant, de promouvoir (en honneurs, en puissance, <i>etc</i>.) POSIDON. (ATH. <i>212a</i>) ; POL. <i>6, 8, 4, etc.</i> ; JOS. <i>A.J. 15, 1, 1 ; d’où</i> profit, intérêt : ἐκ προαγωγῆς φίλος, DÉM. <i>678, 19,</i> ami de circonstance, <i>propr</i>. selon le profit.<p><b>Étym</b>. προάγω.`

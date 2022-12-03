@@ -1,1 +1,0 @@
-lar[43469]=`<b>εὔ·στερνος, ος, ον</b>, à la belle <i>ou</i> robuste poitrine, EMPÉD. <i>96, 1 Diels</i> ; MAN. <i>4, 96</i> ; GEOP. <i>17, 2, 1</i>.<p><b>Étym</b>. εὖ, στέρνον.`

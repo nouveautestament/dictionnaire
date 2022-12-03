@@ -1,1 +1,0 @@
-lar[36488]=`<b>ἐπ·αλαστέω-ῶ</b> <font color="purple">[ᾰλ]</font> être mécontent <i>ou</i> affligé, OD. <i>1, 252</i> ; A.RH. <i>3, 369</i>.<p><b>Étym</b>. ἐπί, ἄλαστος.`

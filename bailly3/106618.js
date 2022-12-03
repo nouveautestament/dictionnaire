@@ -1,1 +1,0 @@
-lar[106618]=`<b>φολιδόω-ῶ</b> <font color="purple">[ῐ]</font> couvrir d’écailles, ORIG. <i>c. Cels. 221</i>.`

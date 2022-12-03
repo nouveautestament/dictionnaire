@@ -1,1 +1,0 @@
-lar[20921]=`<b>βρυσωνο·θρασυμαχειο·ληψι·κέρματοι, ων (οἱ)</b> <font color="purple">[ῠᾰῠᾰῐᾰ]</font> partisans fanatiques de Brysôn et de Thrasymakhos, <i>litt</i>. qui recueillent les rognures de Br. et de Thr. EPHIPP. (ATH. <i>509e</i>) <i>conj</i>.<p><b>Étym</b>. βρύσων, Θρασύμαχος, λαμβάνω, κέρμα.`

@@ -1,1 +1,0 @@
-lar[107175]=`<b>φυλο·κρινέω-ῶ</b> <font color="purple">[ῡῐ]</font> classer, <i>litt</i>. diviser en tribus <i>ou</i> en espèces, THC. <i>6, 18</i> ; LUC. <i>Abd. 4</i> ; PHALAR. <i>Ep. 2, 9</i> ; DC. <i>52, 19, etc</i>.<p><b>Étym</b>. φ. κρίνω.`

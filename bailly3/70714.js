@@ -1,1 +1,0 @@
-lar[70714]=`<b>οἰστρο·μανία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[μᾰ]</font> transport de fureur <i>ou</i> de passion, HPC. <i>1284, 20</i>.<p><b>Étym</b>. οἰστρομανής.`

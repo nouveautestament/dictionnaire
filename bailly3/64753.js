@@ -1,1 +1,0 @@
-lar[64753]=`<b>μετα·κινέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> changer de place, déplacer, <i>acc</i>. XÉN. <i>Eq. 7, 6 ; au pass</i>. se déplacer, HDT. <i>9, 51</i> ; PLAT. <i>Leg. 894a ; abs</i>. s’éloigner, HDT. <i>9, 74</i>.<br><b>      2</b> changer, bouleverser, XÉN. <i>Lac. 15, 1, etc.</i> ; DÉM. <i>688, 26, etc</i>.`

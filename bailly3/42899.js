@@ -1,1 +1,0 @@
-lar[42899]=`<b>εὔ·οψος, ος, ον</b>, abondant en poissons, STR. <i>804</i> ; ANAXANDR. <i>et</i> ARCHESTR. (ATH. <i>227c, 304e</i>).<p><b>Étym</b>. εὖ, ὄψον.`

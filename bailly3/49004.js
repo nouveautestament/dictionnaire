@@ -1,1 +1,0 @@
-lar[49004]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> aimable, charmant, CALLISTR. <i>11</i>.<p><b>Étym</b>. ἵμερος, -ωδης.`

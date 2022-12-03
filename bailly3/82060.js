@@ -1,1 +1,0 @@
-lar[82060]=`<b>πολυ·κώτιλος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui gazouille sans cesse, SIM. <i>fr. 73 Bgk</i>.<p><b>Étym</b>. π. κωτίλλω.`

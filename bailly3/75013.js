@@ -1,1 +1,0 @@
-lar[75013]=`<b>παν·εύνους, ους, ουν</b> <font color="purple">[ᾰ]</font> tout à fait bienveillant, MÉN. RHÉT. <i>9, 229 W</i>.<p><b>Étym</b>. π. εὔνους.`

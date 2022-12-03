@@ -1,1 +1,0 @@
-lar[31513]=`<b>ος, ον</b>, repoussé, <i>càd</i>. travaillé en relief, ESCHL. <i>Sept. 542</i>.<p><b>Étym</b>. ἐκκρούω.`

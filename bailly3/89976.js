@@ -1,1 +1,0 @@
-lar[89976]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. σήπιον, NIC. <i>Al. 472</i>.`

@@ -1,1 +1,0 @@
-lar[2539]=`<font color="purple">[ᾰ]</font><br><b>      1</b> ensanglanter, ESCHL. <i>Suppl. 648</i>.<br><b>      2</b> tirer du sang, ARSTT. <i>H.A. 4, 7, 6</i>.<p><b>Étym</b>. αἷμα.`

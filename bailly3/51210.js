@@ -1,1 +1,0 @@
-lar[51210]=`<b>ης (ἡ) :<br>      1</b> parole élégante, DH. <i>Thuc. 23</i>.<br><b>      2</b> parole facile, volubilité de parole, LUC. <i>D. deor. 21, 2</i>.<p><b>Étym</b>. καλλιρρήμων.`

@@ -1,1 +1,0 @@
-lar[26619]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font> embarcation à deux rames, LUC. <i>Char. 1</i>.<p><b>Étym</b>. δίκωπος.`

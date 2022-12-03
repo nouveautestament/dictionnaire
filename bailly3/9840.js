@@ -1,1 +1,0 @@
-lar[9840]=`<b>ἀντι·διατάσσω</b>, <i>att</i>. <b>-τάττω</b>, opposer, comparer, SEXT. <i>M. 7, 159</i> ; τί τινι, SYN. <i>249b</i>, une chose à une autre.`

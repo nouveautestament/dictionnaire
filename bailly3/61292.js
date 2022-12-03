@@ -1,1 +1,0 @@
-lar[61292]=`<b>λιπαρο·πλόκαμος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> aux boucles <i>ou</i> aux tresses brillantes, IL. <i>19, 126</i> ; PD. <i>fr. 87 (58).</i><p><b>Étym</b>. λ. πλόκαμος.`

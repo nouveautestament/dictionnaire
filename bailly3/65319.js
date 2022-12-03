@@ -1,1 +1,0 @@
-lar[65319]=`<b>(ὁ)</b> Mèiôn, <i>anc. roi de Phrygie et de Lydie, ancêtre légendaire des Méoniens,</i> HDT. <i>1, 7</i>.`

@@ -1,1 +1,0 @@
-lar[19598]=`<b>ων (οἱ)</b> Békheires, <i>pple scythe,</i> A.RH. DP.`

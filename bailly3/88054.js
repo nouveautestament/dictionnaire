@@ -1,1 +1,0 @@
-lar[88054]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> interrogatif, SEXT. <i>M. 1, 315</i> ; DYSC. <i>Synt. 72</i>.<p><b>Étym</b>. πύσμα.`

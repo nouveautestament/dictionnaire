@@ -1,1 +1,0 @@
-lar[87]=`<b>ἀβελτερο·κόκκυξ, υγος (ὁ)</b> <font color="purple">[ᾰ]</font> sot, PLAT. COM. <i>2-2, 636 Mein</i>.`

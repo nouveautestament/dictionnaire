@@ -1,1 +1,0 @@
-lar[14768]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristyllos, <i>h</i>. AR. <i>Pl. 314, Eccl. 647, etc</i>.`

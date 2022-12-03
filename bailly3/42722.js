@@ -1,1 +1,0 @@
-lar[42722]=`<b>εὔ·μορφος, ος, ον</b>, de belle forme, beau, noble, HDT. <i>1, 196</i> ; ESCHL. <i>Ag. 416, 454, etc.</i> ; SOPH. <i>fr. 109, 10</i> ; POL. <i>31, 24, 2</i>.<p>•<i> Cp</i>. -ότερος, SAPPH. <i>78</i>.<p><b>Étym</b>. εὖ, μορφή.`

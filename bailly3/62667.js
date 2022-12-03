@@ -1,1 +1,0 @@
-lar[62667]=`<b>α, ον</b> <font color="purple">[μᾰ]</font> de Maléa <i>en Laconie,</i> ANTH. <i>7, 544</i>.<p><b>Étym</b>. Μάλεια.`

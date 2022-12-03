@@ -1,1 +1,0 @@
-lar[20781]=`<b>ης, ες</b>, de petit enfant, PHIL. <i>1, 394</i> ; NYSS. <i>3, 632</i> ; CLÉM. PROCL. <i>etc</i>.<p><b>Étym</b>. βρέφος, -ωδης.`

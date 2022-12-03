@@ -1,1 +1,0 @@
-lar[81990]=`<b>πολύ·κλαδος, ος, ον</b> <font color="purple">[ᾰ]</font> aux nombreuses branches, TH. <i>H.P. 1, 3, 1</i>.<p><b>Étym</b>. π. κλάδος.`

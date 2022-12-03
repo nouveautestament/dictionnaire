@@ -1,1 +1,0 @@
-lar[101800]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> l’Hymettos (Hymette) <i>mt de l’Attique (auj</i>. Ymittós, Trelovoúni <i>pour le versant N.,</i> Mavrovoúni <i>pour le versant S</i>.) TH. <i>Sign. 1, 20, etc.</i> ; STR. <i>399</i> ; LUC. <i>M. cond. 35, etc</i>.<p>➳ <i>Ion</i>. Ὑμησσός, HDT. <i>6, 137</i> ; LUC. <i>J. voc. 8</i>.`

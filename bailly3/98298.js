@@ -1,1 +1,0 @@
-lar[98298]=`<b>ης, ες</b>, percé de trous, comme les alvéoles d’un guêpier, DÉMOCR. (EL. <i>N.A. 12, 20 conj</i>.).<p><b>Étym</b>. τενθρήνιον, -ωδης.`

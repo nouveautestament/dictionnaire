@@ -1,1 +1,0 @@
-lar[97062]=`<b>σχινο·τρώκτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui se blanchit les dents en mâchant du bois de lentisque <i>ou</i> avec un cure-dents en bois de lentisque, LUC. <i>Lex. 12</i> ; ZÉNOB. <i>5, 96</i>.<p><b>Étym</b>. σχῖνος, τρώγω.`

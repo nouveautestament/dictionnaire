@@ -1,1 +1,0 @@
-lar[92206]=`<b>σταφιδο·ποιΐα, ας (ἡ)</b> <font color="purple">[ᾰῐδ]</font> préparation des raisins secs, GEOP. <i>5, 52</i>.<p><b>Étym</b>. σταφίς, ποιέω.`

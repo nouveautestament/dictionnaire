@@ -1,1 +1,0 @@
-lar[42718]=`<b>ου (ὁ) :<br>      1</b> Eumolpidas, <i>h</i>. THC. <i>3, 20 (var</i>. Εὐπομπίδας) ; PLUT. <i>Gen. Socr. titre</i>.<br><b>      2</b> <i>au plur</i>. οἱ Εὐμολπίδαι, les Eumolpides, descendants d’Eumolpos, <i>famille sacerdotale à Athènes,</i> THC. <i>8, 53</i> ; SOPH. <i>O.C. 1053</i>.<p><b>Étym</b>. Εὔμολπος.`

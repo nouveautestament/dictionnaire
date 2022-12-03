@@ -1,1 +1,0 @@
-lar[96965]=`<b>σφυρόω-ῶ</b> <font color="purple">[ῠ]</font> (<i>part. pf. pass</i>. ἐσφυρωμένος) qui se tient droit sur ses pieds, COM. (ATH. <i>622c</i>).<p><b>Étym</b>. σφυρόν.`

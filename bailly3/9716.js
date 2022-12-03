@@ -1,1 +1,0 @@
-lar[9716]=`<b>ἀντ·ευχαριστητέον</b> <font color="purple">[χᾰ]</font> <i>adj. vb</i>. il faut avoir de la reconnaissance en échange, PORPH. <i>Abst. 2, 37</i>.`

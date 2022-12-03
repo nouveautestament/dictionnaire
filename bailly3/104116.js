@@ -1,1 +1,0 @@
-lar[104116]=`<b>ὑπο·φοινίσσω :<br>      1</b> <i>tr.</i> : teindre légèrement en rouge pourpre, <i>au pass</i>. devenir d’un rouge pourpre, NIC. <i>Th. 187, 769</i> ; DIOSC. <i>2, 78, etc.</i><br><b>      2 <i>intr.</i></b> être d’un rouge légèrement pourpre, DIOSC. <i>4, 24</i>.`

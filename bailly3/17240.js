@@ -1,1 +1,0 @@
-lar[17240]=`<b>ή, όν</b>, fait en forme de tube, cylindrique, ESCHL. <i>fr. 330</i>.<p><b>Étym</b>. *αὐλόω, <i>de</i> αὐλός.`

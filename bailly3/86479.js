@@ -1,1 +1,0 @@
-lar[86479]=`<b>προ·στεφανόω-ῶ</b> <font color="purple">[ᾰ]</font> couronner auparavant, ATH. <i>128c</i>.`

@@ -1,1 +1,0 @@
-lar[14651]=`<b>ἀρίστ·αρχος, ος, ον</b> <font color="purple">[ᾰρι]</font> maître souverain, SIM. (ATH. <i>99b</i>).<p><b>Étym</b>. ἄριστος, ἄρχω.`

@@ -1,1 +1,0 @@
-lar[3189]=`<i>adv</i>., d’une manière irréconciliable, DÉM. <i>153, 17</i> ; POL. <i>4, 32, 4 ; 11, 29, 13 ; 12, 7, 5, etc</i>.`

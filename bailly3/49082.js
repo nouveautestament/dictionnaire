@@ -1,1 +1,0 @@
-lar[49082]=`<b>ἰξοβολέω-ῶ</b>, chasser à la glu, <i>fig</i>. ANTH. <i>9, 273</i>.<p><b>Étym</b>. ἰξοβόλος.`

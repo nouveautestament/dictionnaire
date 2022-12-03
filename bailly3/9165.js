@@ -1,1 +1,0 @@
-lar[9165]=`<b>ου</b> <i>et</i> <b>α (ὁ)</b> Annibal <i>ou</i> Hannibal, <i>général carthaginois,</i> PLUT. <i>Luc. 31, etc</i>.<p>➳ <i>Gén</i>. -α, XÉN. <i>Hell. 1, 1, 37</i> ; POL. <i>7, 1</i> ; PLUT. <i>Marc. 11, 12, etc</i>.`

@@ -1,1 +1,0 @@
-lar[61048]=`<b>λιθό·δενδρον, ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>propr</i>. « arbre-pierre », <i>càd</i>. corail, <i>zoophyte arborescent,</i> DIOSC. <i>5, 139</i>.<p><b>Étym</b>. λ. δένδρον.`

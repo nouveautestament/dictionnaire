@@ -1,1 +1,0 @@
-lar[65061]=`<b>μετα·χυμίζω</b> <font color="purple">[ῡ]</font> changer de suc, RHÉT. <i>3, 523 W</i>.<p><b>Étym</b>. μ. χυμός.`

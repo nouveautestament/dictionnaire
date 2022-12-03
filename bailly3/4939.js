@@ -1,1 +1,0 @@
-lar[4939]=`<b>ἁλοσ·άχνη, ης (ἡ)</b> <font color="purple">[ᾰλ]</font> écume de mer, <i>algue ou zoophyte de la famille des</i> ἁλκυόνεια (<i>v</i>. ἁλκυόνειον) ARSTT. <i>H.A. 9, 14, 12</i>.`

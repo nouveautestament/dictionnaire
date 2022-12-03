@@ -1,1 +1,0 @@
-lar[31296]=`<b>ἐκθειόω-ῶ</b>, diviniser, mettre au rang des dieux <i>ou</i> des choses divines, HH. <i>2, 75</i> ; PLUT. <i>M. 856d</i>.`

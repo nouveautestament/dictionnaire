@@ -1,1 +1,0 @@
-lar[9015]=`<b>ἀνθ·υποκλέπτω</b> <font color="darkgreen">(<i>ao</i>. -υπέκλεψα)</font> dérober à son tour, <i>acc</i>. EUM. <i>193</i>.<p><b>Étym</b>. ἀντί, ὑ.`

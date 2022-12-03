@@ -1,1 +1,0 @@
-lar[108141]=`<b>χειρο·κόπος, ος, ον</b>, qui coupe les mains, MACR. <i>Verb. 2</i>.<p><b>Étym</b>. χ. κόπτω.`

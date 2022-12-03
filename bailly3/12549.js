@@ -1,1 +1,0 @@
-lar[12549]=`<b>ἀπο·κερματίζω</b> <font color="purple">[μᾰ]</font><br><b>      1</b> réduire en petite monnaie, PORPH. (STOB. <i>Ecl. 1, 1, 822</i>).<br><b>      2</b> <i>fig</i>. gaspiller, dissiper, ANTH. <i>7, 607</i>.`

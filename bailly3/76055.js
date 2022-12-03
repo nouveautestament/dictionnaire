@@ -1,1 +1,0 @@
-lar[76055]=`<b>οῦ (ὁ)</b> pression de côté, ORIB. <i>101 Cocch</i>.<p><b>Étym</b>. παραπιέζω.`

@@ -1,1 +1,0 @@
-lar[99188]=`<b>Τιμ·άνωρ, ορος (ὁ)</b> <font color="purple">[ῑᾰ]</font> Timanor, <i>h</i>. THC. <i>1, 29</i>.<p><b>Étym</b>. τιμή, ἀνήρ.`

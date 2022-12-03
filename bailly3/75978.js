@@ -1,1 +1,0 @@
-lar[75978]=`<b>*παρανέω</b>, <i>seul. avec redoubl. épq</i>. παρανηνέω <font color="darkgreen">(<i>impf</i>. παρενήνεον)</font> entasser auprès, OD. <i>1, 147 ; 16, 51</i> ; A.RH. <i>1, 1123</i>.`

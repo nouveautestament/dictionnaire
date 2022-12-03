@@ -1,1 +1,0 @@
-lar[91085]=`<b>ης, ες</b>, d’aspect oblique, APOLL. <i>Lex. Hom. p. 126, 12 Bkk</i>.<p><b>Étym</b>. σκ. -ωδης.`

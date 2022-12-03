@@ -1,1 +1,0 @@
-lar[75038]=`<b>πάν·ηστος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait agréable, SIB. <i>14, 145 Mai</i>.<p><b>Étym</b>. π. ἥδομαι.`

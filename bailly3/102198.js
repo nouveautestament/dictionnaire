@@ -1,1 +1,0 @@
-lar[102198]=`<b>ὑπ·εξανίσταμαι</b> <font color="darkgreen">(<i>f</i>. -αναστήσομαι, <i>ao.2</i> -ανέστην, <i>etc</i>.)</font> <font color="purple">[ᾰ]</font> se lever pour faire place à, <i>dat</i>. PLUT. <i>Lyc. 20</i> ; LUC. <i>Demon. 63 ; avec</i> πρός <i>et le dat</i>. LUC. <i>M. cond. 39 ; abs</i>. PLUT. <i>Pyrrh. 11, etc</i>.`

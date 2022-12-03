@@ -1,1 +1,0 @@
-lar[38435]=`<b>ἐπι·μηλίς, ίδος (ἡ) :<br>      1</b> sorte de néflier, DIOSC. <i>1, 170</i>.<br><b>      2</b> sorte d’ache, PAMPHIL. (ATH. <i>82d</i>).<p><b>Étym</b>. ἐπί, μῆλον ; <i>cf</i>. ἐπιμηλίδες.`

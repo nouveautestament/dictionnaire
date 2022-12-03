@@ -1,1 +1,0 @@
-lar[66047]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font> haine de l’étranger, SPT. <i>Sap. 19, 13</i>.<p><b>Étym</b>. μισόξενος.`

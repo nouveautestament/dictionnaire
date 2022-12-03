@@ -1,1 +1,0 @@
-lar[49162]=`imiter les Juifs <i>ou</i> se conformer à leurs croyances, SPT. <i>Esth. 8, 17</i> ; NT. <i>Gal. 2, 14</i> ; JOS. <i>B.J. 2, 17, 10, etc</i>.<p><b>Étym</b>. Ἰουδαῖος.`

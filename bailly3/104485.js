@@ -1,1 +1,0 @@
-lar[104485]=`<b>ὑψί·δμητος, ος, ον</b>, de construction élevée, SIB. <i>14, 216</i>.<p><b>Étym</b>. ὕ. δέμω.`

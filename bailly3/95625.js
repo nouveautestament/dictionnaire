@@ -1,1 +1,0 @@
-lar[95625]=`<b>συν·επιθυμητής, οῦ (ὁ)</b> <font color="purple">[θῡ]</font> compétiteur, rival, PLAT. <i>Clit. 408c</i>.<p><b>Étym</b>. συνεπιθυμέω.`

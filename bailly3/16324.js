@@ -1,1 +1,0 @@
-lar[16324]=`<b>ἀστρο·λάβος, ου (ὁ)</b> <font color="purple">[λᾰ]</font> astrolabe, <i>instrument pour prendre la hauteur des astres,</i> PTOL. <i>Geogr. 1, 2, 2</i>.<p><b>Étym</b>. ἄ, λαμβάνω.`

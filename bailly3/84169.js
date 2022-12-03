@@ -1,1 +1,0 @@
-lar[84169]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> προενίστημι, ARSTT. <i>Soph. el. 17, 19</i>.`

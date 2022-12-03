@@ -1,1 +1,0 @@
-lar[93004]=`<b>ου (ὁ)</b> Strophakos, <i>Thessalien,</i> THC. <i>4, 78</i>.`

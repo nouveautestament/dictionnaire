@@ -1,1 +1,0 @@
-lar[61909]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> de Lycurgue, PLUT. <i>Lyc. c. Num. 2</i> ; POLYEN <i>6, 6, 2</i>.<p><b>Étym</b>. Λυκοῦργος.`

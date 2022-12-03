@@ -1,1 +1,0 @@
-lar[50146]=`<b>ας (ἡ)</b> l’Ionie, <i>côte occidentale de l’Asie Mineure,</i> HDT. <i>1, 146, etc.</i> ; THC. <i>1, 2</i> ; XÉN. <i>Cyr. 8, 6, 7, etc.</i> ; PLAT. <i>Theæt. 179d, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>ll. cc</i>.`

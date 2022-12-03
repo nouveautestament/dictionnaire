@@ -1,1 +1,0 @@
-lar[57521]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> ivrogne, PLUT. <i>M. 647d</i>.<p><b>Étym</b>. κραιπάλη, -ωδης.`

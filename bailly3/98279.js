@@ -1,1 +1,0 @@
-lar[98279]=`<font color="purple">[ᾰ]</font> avoir peu d’eau, être vaseux, STR. <i>50</i> ; PLUT. <i>Luc. 24</i>.<p><b>Étym</b>. τέναγος.`

@@ -1,1 +1,0 @@
-lar[98230]=`<b>ης, ες :<br>      1</b> marécageux, bourbeux, ARSTT. <i>H.A. 6, 16, 2</i> ; PLUT. <i>Mar. 38</i> ; DS. <i>1, 30</i>.<br><b>      2</b> τὰ τελματώδεα, HPC. <i>271, 6,</i> parties du corps pleines d’humeurs.<p><b>Étym</b>. τέλμα, -ωδης.`

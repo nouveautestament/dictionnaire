@@ -1,1 +1,0 @@
-lar[71874]=`<b>ου (τὸ)</b> <i>c</i>. ὄνειρος, OD. <i>4, 841</i> ; HDT. <i>7, 14, etc.</i> ; ESCHL. <i>Ch. 541, etc.</i> ; SOPH. <i>El. 1390</i> ; EUR. <i>H.f. 517, etc</i>.`

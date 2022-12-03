@@ -1,1 +1,0 @@
-lar[77153]=`<i>adv</i>., franchement, M. ANT. <i>6, 30</i>.<p>•<i> Cp</i>. -ώτερον, JOS. <i>B.J. 2, 21, 4</i>.`

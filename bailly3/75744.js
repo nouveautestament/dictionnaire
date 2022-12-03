@@ -1,1 +1,0 @@
-lar[75744]=`être intercesseur, PHIL. <i>2, 520</i>.<p><b>Étym</b>. παράκλητος.`

@@ -1,1 +1,0 @@
-lar[31240]=`<b>ἐκ·δωριόομαι-οῦμαι</b> <font color="darkgreen">(<i>pf. 3 pl. ion</i>. ἐκδεδωρίευνται)</font> devenir <i>ou</i> se faire tout à fait dorien, HDT. <i>8, 73</i>.<p><b>Étym</b>. ἐκ, Δωριεύς.`

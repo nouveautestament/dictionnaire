@@ -1,1 +1,0 @@
-lar[67924]=`<b>ης, ες</b>, vêtu d’une peau de faon, <i>propr</i>. « semblable à un faon », ANTH. <i>9, 524, 14</i>.<p><b>Étym</b>. νεβρός, -ωδης.`

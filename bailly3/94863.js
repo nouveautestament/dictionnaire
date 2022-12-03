@@ -1,1 +1,0 @@
-lar[94863]=`<b>συν·αποδοκιμάζω</b> <font color="purple">[ῐ]</font> désapprouver <i>ou</i> rejeter ensemble, XÉN. <i>Œc. 6, 5</i>.`

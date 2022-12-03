@@ -1,1 +1,0 @@
-lar[3289]=`<b>Ἀκέσ·ανδρος, ου (ὁ)</b> Akésandros, <i>historien,</i> PLUT. <i>Qu. conv. 5, 2</i>.<p><b>Étym</b>. ἀκέομαι, ἀνήρ.`

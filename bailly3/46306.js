@@ -1,1 +1,0 @@
-lar[46306]=`<b>ας (ἡ)</b> Thargèlia, <i>f</i>. PLUT. <i>Per. 24</i>.`

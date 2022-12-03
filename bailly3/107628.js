@@ -1,1 +1,0 @@
-lar[107628]=`<b>χαλκ·ήλατος, ος, ον</b> <font color="purple">[λᾰ]</font> forgé <i>ou</i> fondu (<i>litt</i>. étendu) en cuivre <i>ou</i> en airain, ESCHL. <i>Sept. 386, 539, etc.</i> ; SOPH. <i>fr. 68, 314</i> ; EUR. <i>Bacch. 799</i> ; LYC. <i>1434, etc</i>.<p><b>Étym</b>. χαλκός, ἐλαύνω.`

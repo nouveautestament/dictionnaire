@@ -1,1 +1,0 @@
-lar[60844]=`<b>εως (ἡ)</b> action de radoter, de dire <i>ou</i> de faire des sottises, PLUT. <i>M. 504b, 716f ;</i> ARÉT. <i>Caus. m. diut. 1, 6, p. 37</i>.<p><b>Étym</b>. ληρέω.`

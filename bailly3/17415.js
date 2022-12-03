@@ -1,1 +1,0 @@
-lar[17415]=`<b>αὐτό·γη, ης (ἡ)</b> la terre par elle-même, HERM. (STOB. <i>Fl. 11, 23</i>).`

@@ -1,1 +1,0 @@
-lar[17700]=`<b>αὐτό·στεγος, ος, ον</b>, couvert d’un toit <i>ou</i> d’un abri naturel, DION. TRAG. (ATH. <i>401f</i>).<p><b>Étym</b>. αὐ. στέγη.`

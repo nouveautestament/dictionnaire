@@ -1,1 +1,0 @@
-lar[3500]=`<i>adv</i>., sans retenue, PLAT. <i>Gorg. 493c ;</i> ARSTT. <i>Probl. 28, etc.</i> ; ἀκολαστοτέρως ἔχειν πρός τι, XÉN. <i>Mem. 2, 1, 1,</i> n’avoir pas assez de retenue en qqe ch.`

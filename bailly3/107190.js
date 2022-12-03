@@ -1,1 +1,0 @@
-lar[107190]=`<b>φυματόομαι-οῦμαι</b> <font color="purple">[ῡᾰ]</font> se former en excroissance <i>ou</i> en tumeur, HPC. <i>1229h</i>.<p><b>Étym</b>. φῦμα.`

@@ -1,1 +1,0 @@
-lar[91459]=`<i>adv</i>., comme un essaim d’abeilles, en foule, HDN GR. <i>Epim. p. 127 Boissonade</i>.<p><b>Étym</b>. σμῆνος, -δον.`

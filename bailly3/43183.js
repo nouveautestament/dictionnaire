@@ -1,1 +1,0 @@
-lar[43183]=`<b>εὑρησι·επής, ής, ές</b>, qui trouve les mots, qui a la parole facile, PD. <i>O. 9, 86 ; en mauv. part,</i> sophiste, bavard <i>ou</i> verbeux, AR. <i>Nub. 447</i>.<p><b>Étym</b>. εὑρίσκω, ἔπος.`

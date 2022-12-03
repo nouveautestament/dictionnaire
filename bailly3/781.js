@@ -1,1 +1,0 @@
-lar[781]=`<b>ἁγνό·στροφος, ος, ον</b>, qui se roule saintement, MAN. <i>6, 105 dout</i>.<p><b>Étym</b>. ἁ. στρέφω.`

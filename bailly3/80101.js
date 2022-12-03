@@ -1,1 +1,0 @@
-lar[80101]=`<b>πηλό·χυτος, ος, ον</b> <font color="purple">[ῠ]</font> moulé avec de la boue, <i>en parl. d’un nid,</i> ANTH. <i>10, 16</i>.<p><b>Étym</b>. π. χέω.`

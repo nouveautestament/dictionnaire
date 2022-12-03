@@ -1,1 +1,0 @@
-lar[60413]=`<b>λεπτό·καρφος, ος, ον</b>, dont les rameaux sont grêles, minces, DIOSC. <i>3, 27</i>.<p><b>Étym</b>. λ. κάρφος.`

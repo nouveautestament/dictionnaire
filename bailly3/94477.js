@@ -1,1 +1,0 @@
-lar[94477]=`<b>συμ·φύλαξ, ακος (ὁ)</b> <font color="purple">[φῠᾰκ]</font> qui garde avec, compagnon de garde, THC. <i>5, 80</i> ; PLAT. <i>Rsp. 463b et c ; fig</i>. XÉN. <i>Cyr. 8, 6, 11</i>.`

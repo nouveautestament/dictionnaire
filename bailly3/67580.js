@@ -1,1 +1,0 @@
-lar[67580]=`<b>ου (τὸ)</b> <font color="purple">[ᾱῐδ]</font> petit temple, POL. <i>6, 53, 4</i> ; STR. <i>379</i>.<p><b>Étym</b>. ναός.`

@@ -1,1 +1,0 @@
-lar[38401]=`<i>adv</i>., avec soin, PLAT. <i>Tim. 88c, etc</i>.<p>•<i> Cp</i>. -εστέρως, ATH. <i>629b ; sup</i>. -έστατα, PLAT. <i>2 Alc. 104d</i>.<p>➳ <i>Ion</i>. ἐπιμελέως, HPC. <i>Art. 822</i>.<p><b>Étym</b>. ἐπιμελής.`

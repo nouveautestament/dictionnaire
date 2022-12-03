@@ -1,1 +1,0 @@
-lar[63023]=`<b>ας (ἡ)</b> Marôneia :<br><b>      1</b> <i>v. de Thrace (auj</i>. Marónia) HDT. <i>7, 109</i>.<br><b>      2</b> <i>lieu d’Attique,</i> DÉM. <i>681, 26 ; 1213, 3</i>.`

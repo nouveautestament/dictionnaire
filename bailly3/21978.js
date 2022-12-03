@@ -1,1 +1,0 @@
-lar[21978]=`<b>α, ον</b> <font color="purple">[ῐ]</font> de géant, LUC. <i>Philops. 23</i> ; ANTH. <i>9, 708</i>.<p><b>Étym</b>. γίγας.`

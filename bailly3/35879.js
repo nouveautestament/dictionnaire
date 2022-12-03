@@ -1,1 +1,0 @@
-lar[35879]=`<b>ἐξ·ευκρινέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> rechercher avec soin, POL. <i>35, 2, 6</i>.<br><b>      2</b> manier délicatement, HPC. <i>Fract. 763</i>.`

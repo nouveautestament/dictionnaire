@@ -1,1 +1,0 @@
-lar[76180]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> témoignage d’approbation, marque d’honneur, POL. <i>23, 18, 1</i>.<br><b>      2</b> indication, PTOL. <i>Tetr. 93</i>.<p><b>Étym</b>. παρασημαίνω.`

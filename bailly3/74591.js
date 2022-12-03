@@ -1,1 +1,0 @@
-lar[74591]=`<b>παλιν·σκοπιά, ᾶς (ἡ)</b> <font color="purple">[ᾰλ]</font> regard en arrière, <i>acc. adv</i>. en sens opposé, EUR. <i>Or. 1262 conj</i>.<p><b>Étym</b>. π. σκοπέω.`

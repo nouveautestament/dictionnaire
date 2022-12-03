@@ -1,1 +1,0 @@
-lar[43150]=`<b>εὐ·πώγων, ων, ον</b>, <i>gén</i>. <b>ωνος</b>, à la belle <i>ou</i> longue barbe, ANTH. <i>9, 99, 744</i> ; NONN. <i>D. 19, 59</i> ; ARSTT. <i>Physiogn. 3, 11</i>.<p><b>Étym</b>. εὖ, πώγων.`

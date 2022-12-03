@@ -1,1 +1,0 @@
-lar[58197]=`<b>κρυψί·δομος, ος, ον</b> <font color="purple">[ῐ]</font> (<i>v</i>. κρυψίδρομος) dont la demeure est cachée.<p><b>Étym</b>. κρύπτω, δόμος.`

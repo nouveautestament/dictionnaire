@@ -1,1 +1,0 @@
-lar[55360]=`<b>έως</b> <font color="purple">[ῑσ]</font> <i>adj. m</i>. habitant <i>ou</i> originaire de Kèphisia, PLAT. <i>Ap. 33e, etc.</i> ; CIA. <i>1, 338, 5 (408 av. J.-C.) etc. ; v. Meisterh. p. 75, 12</i>.<p><b>Étym</b>. Κηφισιά.`

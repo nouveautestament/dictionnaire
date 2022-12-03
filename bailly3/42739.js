@@ -1,1 +1,0 @@
-lar[42739]=`<b>ας</b>, <i>adj. f</i>. qui procure le sommeil, soporifique, ANDROM. (GAL. <i>13, 876).</i><p><b>Étym</b>. <i>fém. de</i> εὐναστήρ.`

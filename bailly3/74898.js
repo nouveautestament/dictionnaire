@@ -1,1 +1,0 @@
-lar[74898]=`<b>ᾶς</b> <font color="purple">[ᾰνᾰχ]</font> <i>adj. f</i>. honorée par tous les Achéens, <i>càd</i>. tous les Grecs (Dèmèter) PAUS. <i>7, 24, 3</i>.<p><b>Étym</b>. <i>cf</i>. Παναχαιοί.`

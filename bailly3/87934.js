@@ -1,1 +1,0 @@
-lar[87934]=`<b>πυρο·γενής, ής, ές</b> <font color="purple">[ῡ]</font> fait avec du froment, ANTH. <i>9, 368</i>.<p><b>Étym</b>. πυρός, γίγνομαι.`

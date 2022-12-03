@@ -1,1 +1,0 @@
-lar[24905]=`<b>δια·λακτίζω :<br>      1</b> déchirer à coups de talon, PLUT. <i>M. 648b ;</i> SYMM. <i>Ps. 67, 33</i>.<br><b>      2</b> faire tomber en piétinant, <i>acc</i>. THCR. <i>Idyl. 24, 25</i>.`

@@ -1,1 +1,0 @@
-lar[110315]=`<i>sel. d’autres</i> <b>ὦ 'νδρες</b>, <i>crase ou élis. poét. et ion. p</i>. ὦ ἄνδρες.`

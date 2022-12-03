@@ -1,1 +1,0 @@
-lar[46861]=`<b>θεό·χρηστος, ος, ον</b>, prononcé par la divinité, PHIL. <i>2, 577</i>.<p><b>Étym</b>. θ. χράω.`

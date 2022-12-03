@@ -1,1 +1,0 @@
-lar[89541]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> satyrium, <i>plante excitante de la famille des orchidées,</i> PLUT. <i>M. 126a ;</i> DIOSC. <i>3, 143, etc.</i><br><b>      2</b> sorte de loutre, ARSTT. <i>H.A. 8, 5, 8</i>.<p><b>Étym</b>. σάτυρος.`

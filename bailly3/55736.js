@@ -1,1 +1,0 @@
-lar[55736]=`<b>ῶν (αἱ)</b> Klazomènes (<i>auj</i>. Urla) <i>v. d’Ionie,</i> HDT. <i>1, 16, etc.</i> ; THC. <i>8, 23</i> ; XÉN. <i>Hell. 1, 1, 10, etc</i>.`

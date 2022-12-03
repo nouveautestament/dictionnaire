@@ -1,1 +1,0 @@
-lar[61085]=`<b>λιθο·τριβική, ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de polir la pierre, LYS. <i>fr. 40</i>.<p><b>Étym</b>. λ. τρίβω.`

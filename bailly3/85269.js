@@ -1,1 +1,0 @@
-lar[85269]=`<b>προσ·αποστρέφω</b>, tourner contre, <i>rég. ind. au dat</i>. JOS. <i>B.J. 2, 12, 1</i>.`

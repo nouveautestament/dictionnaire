@@ -1,1 +1,0 @@
-lar[104738]=`<b>ος, ον</b> <font color="purple">[φᾰ]</font> chauve sur le front, ANTH. <i>9, 317</i> ; DL. <i>7, 160</i>.<p><b>Étym</b>. <i>cf</i>. φαλακρός.`

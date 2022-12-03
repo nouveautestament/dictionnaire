@@ -1,1 +1,0 @@
-lar[92111]=`<i>ou</i> <b>σταῖς, σταιτός (τὸ) :<br>      1</b> pâte de farine de froment, HDT. <i>2, 36</i> ; HPC. <i>Art. 805</i> ; ARSTT. <i>Meteor. 4, 9, 16, etc.</i><br><b>      2</b> <i>c</i>. στέαρ, HPC. <i>585, 3 ; 631, 41</i>.`

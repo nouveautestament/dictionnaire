@@ -1,1 +1,0 @@
-lar[11835]=`<b>οῦς (ἡ)</b> <font color="purple">[ᾰ]</font> éloignement, absence, HDT. <i>9, 85</i> ; CALL. <i>fr. 340</i>.<p><b>Étym</b>. ἄπειμι¹.`

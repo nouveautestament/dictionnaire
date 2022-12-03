@@ -1,1 +1,0 @@
-lar[56664]=`<b>κολοβο·διέξοδος, ος, ον</b>, dont le passage est incertain <i>ou</i> peu apparent, <i>en parl. des astres,</i> PTOL. <i>Appar. 5, p. 8, l. 16</i>.<p><b>Étym</b>. κολοβός, διέξοδος.`

@@ -1,1 +1,0 @@
-lar[44543]=`<b>Ζηνο·βία, ας (ἡ)</b> Zénobie, <i>reine de Palmyre</i>, ZOS. <i>1, 59</i>.<p><b>Étym</b>. Ζήν, βία.`

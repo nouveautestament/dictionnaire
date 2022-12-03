@@ -1,1 +1,0 @@
-lar[31321]=`<b>ἐκ·θηριόω-ῶ</b>, transformer en bête sauvage, rendre sauvage, EUR. <i>Bacch. 1332</i> ; PHIL. <i>1, 430</i>.`

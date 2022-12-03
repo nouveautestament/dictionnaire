@@ -1,1 +1,0 @@
-lar[102393]=`<b>ὑπερ·δισκεύω</b>, lancer le disque plus loin qu’un autre, <i>d’où</i> surpasser, CLÉM. <i>834</i>.`

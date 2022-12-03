@@ -1,1 +1,0 @@
-lar[31233]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> dépouille, ANTH. <i>5, 199</i>.<p><b>Étym</b>. ἐκδύω.`

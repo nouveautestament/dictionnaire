@@ -1,1 +1,0 @@
-lar[101392]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui marche <i>ou</i> vit dans l’eau, ATH. <i>99b</i>.<p><b>Étym</b>. <i>cf</i>. ὑγροβατέω.`

@@ -1,1 +1,0 @@
-lar[9615]=`<b>ἀντ·εξαπατάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> tromper à son tour, DC. <i>58, 18</i>.`

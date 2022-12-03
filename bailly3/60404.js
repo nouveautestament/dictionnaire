@@ -1,1 +1,0 @@
-lar[60404]=`<b>ας (ἡ)</b> finesse de la peau, TH. <i>C.P. 3, 5, 3</i>.<p><b>Étym</b>. λεπτόδερμος.`

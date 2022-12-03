@@ -1,1 +1,0 @@
-lar[77998]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en cinq parties, DIOSC. <i>3, 55</i>.`

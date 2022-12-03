@@ -1,1 +1,0 @@
-lar[19344]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font> ronce, épine, PD. <i>O. 6, 90</i>.<p><b>Étym</b>. βάτος¹.`

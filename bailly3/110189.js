@@ -1,1 +1,0 @@
-lar[110189]=`<b>ὠκύ·πλανος, ος, ον</b> <font color="purple">[ᾰ]</font> qui hâte sa course errante, EUR. <i>fr. 597</i>.<p><b>Étym</b>. ὠ. πλάνη.`

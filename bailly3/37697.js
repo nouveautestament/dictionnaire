@@ -1,1 +1,0 @@
-lar[37697]=`<b>ἐπι·δώτης, ου (ὁ)</b> le dispensateur, <i>ép. de divers dieux,</i> PAUS. <i>3, 9, 2</i> ; PLUT. <i>M. 1102f</i>.<p><b>Étym</b>. ἐπιδίδωμι.`

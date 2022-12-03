@@ -1,1 +1,0 @@
-lar[1110]=`<font color="purple">[ᾱ]</font> <i>crase p</i>. ἃ ἐγώ, SOPH. <i>El. 259</i>.`

@@ -1,1 +1,0 @@
-lar[78047]=`<b>πεντά·σχημος, ος, ον</b>, à cinq formes <i>ou</i> aspects, PLUT. <i>fr. p. 1287 Wyttenbach</i>.<p><b>Étym</b>. π. σχῆμα.`

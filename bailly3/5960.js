@@ -1,1 +1,0 @@
-lar[5960]=`<b>ου (ὁ)</b> Amyros, <i>fl. de Thessalie,</i> HÉS. (STR. <i>442</i>) ; A.RH. <i>1, 596, etc</i>.`

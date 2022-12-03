@@ -1,1 +1,0 @@
-lar[91988]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> composé de spondées, spondaïque, PLUT. <i>M. 1137b ;</i> JAMBL. <i>V. Pyth. p. 240</i>.<p><b>Étym</b>. σπονδεῖος.`

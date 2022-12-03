@@ -1,1 +1,0 @@
-lar[24163]=`<b>ατος (τὸ)</b> moyen de faire connaître, PLAT. <i>Leg. 792a, etc.</i> ; PLUT. <i>M. 78e ; au plur. ibid. 62d, etc</i>.<p><b>Étym</b>. δηλόω.`

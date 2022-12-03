@@ -1,1 +1,0 @@
-lar[12447]=`<b>ἀπ·οιδίσκω</b>, gonfler, <i>d’où au pass</i>. se gonfler, HPC. <i>544, 42</i>.<p><b>Étym</b>. <i>sel. L. Dind</i>. ἐποιδίσκω.`

@@ -1,1 +1,0 @@
-lar[16592]=`<b>οῦ</b>, <i>adj. m</i>. plein d’asphodèles, où croissent les asphodèles, OD. <i>11, 539 et 573 ; 24, 13</i> ; HH. <i>Merc. 221</i>.<p><b>Étym</b>. ἀσφόδελος, <i>cf</i>. σφοδελός.`

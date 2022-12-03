@@ -1,1 +1,0 @@
-lar[50973]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰ]</font> qui ramasse le chaume, glaneuse, PLUT. <i>M. 784a</i>.<p><b>Étym</b>. καλάμη.`

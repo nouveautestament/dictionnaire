@@ -1,1 +1,0 @@
-lar[78917]=`<b>περι·μεμφής, ής, ές</b>, qui gronde fort <i>ou</i> sans cesse, ARAT. <i>109</i>.<p><b>Étym</b>. π. μέμφομαι.`

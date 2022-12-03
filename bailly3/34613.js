@@ -1,1 +1,0 @@
-lar[34613]=`<b>εως (ἡ)</b> action de s’asseoir dans <i>ou</i> sur, <i>avec</i> ἐς <i>et l’acc</i>. ARÉT. <i>Cur. m. acut. 1, 4</i>.<p><b>Étym</b>. ἐνίζω.`

@@ -1,1 +1,0 @@
-lar[55829]=`<b>κλειδο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> geôlier, LUC. <i>Am. 14</i>.<p><b>Étym</b>. κλείς, φύλαξ.`

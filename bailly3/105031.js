@@ -1,1 +1,0 @@
-lar[105031]=`<b>ου (ὁ)</b> = <i>lat</i>. Faunus, <i>divinité romaine,</i> PLUT. <i>Rom. 21, etc</i>.`

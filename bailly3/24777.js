@@ -1,1 +1,0 @@
-lar[24777]=`<b>διά·κλασις, εως (ἡ)</b> <font color="purple">[ᾰσ]</font> cassure, <i>d’où</i> faiblesse (de la voix) CHRYS. <i>6, 268</i> ; PROCL. <i>Hyp. 75</i>.<p><b>Étym</b>. διακλάω.`

@@ -1,1 +1,0 @@
-lar[100599]=`<b>τρί·φυλλος, ος, ον</b> <font color="purple">[ῐ]</font> à trois feuilles, DIOSC. <i>4, 112 ; subst</i>. ἡ τρίφυλλος, DIOSC. <i>2, 177, ou</i> τὸ τρίφυλλον, HDT. <i>1, 132</i> ; PHÉRÉCR. (<i>Com. fr. 2, 305</i>) ; DIOSC. <i>4, 111,</i> trèfle, <i>plante</i>.<p><b>Étym</b>. τρ. φύλλον.`

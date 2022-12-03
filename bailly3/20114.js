@@ -1,1 +1,0 @@
-lar[20114]=`<b>ης (ἡ)</b> Bolbè :<br><b>      1</b> <i>n. de f</i>. HÉGÉSANDRE (ATH. <i>334e</i>).<br><b>      2</b> <i>lac de Macédoine,</i> ESCHL. THC.`

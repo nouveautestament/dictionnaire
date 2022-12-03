@@ -1,1 +1,0 @@
-lar[93942]=`<i>adv</i>., avec de justes proportions, HPC. <i>Mochl. 864</i>.<p><b>Étym</b>. συμμετρέω.`

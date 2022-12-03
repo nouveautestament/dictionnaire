@@ -1,1 +1,0 @@
-lar[27799]=`<b>ου</b> <font color="purple">[ᾰκ]</font> <i>adj. m</i>. de dragon : δ. πυρός, TH. <i>H.P. 3, 21, 2,</i> sorte de blé ; δ. σικυός, ATH. <i>74b</i>, sorte de concombre.<p><b>Étym</b>. δράκων.`

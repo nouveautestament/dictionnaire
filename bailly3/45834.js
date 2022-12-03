@@ -1,1 +1,0 @@
-lar[45834]=`<b>α, ον :<br>      1</b> doux, paisible, tranquille, <i>en parl. de choses,</i> PLAT. <i>Pol. 306e, etc. ; adv</i>. ἠρεμαῖα, doucement (<i>c</i>. ἠρέμα) <i>p. opp. à</i> σφόδρα, PLAT. <i>Leg. 733c.</i><br><b>      2</b> léger, modéré (accès de fièvre) HPC. <i>606, 21</i>.<p>•<i> Cp</i>. -ότερος, PLUT. <i>Sol. 31</i>.<p><b>Étym</b>. ἠρέμα.`

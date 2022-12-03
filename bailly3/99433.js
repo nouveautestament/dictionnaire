@@ -1,1 +1,0 @@
-lar[99433]=`<b>τλησί·πονος, ος, ον</b> <font color="purple">[ῐ]</font> qui supporte la fatigue, courageux, OPP. <i>C. 4, 4 ; H. 1, 35</i>.<p><b>Étym</b>. *τλάω, πόνος.`

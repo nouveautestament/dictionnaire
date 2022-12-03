@@ -1,1 +1,0 @@
-lar[107531]=`<b>οῦ (ὁ)</b> <font color="purple">[χᾰ]</font> <i>c</i>. χάλασις, DIOSC. <i>1, 150</i> ; ORIB. <i>293 Matthäi</i>.`

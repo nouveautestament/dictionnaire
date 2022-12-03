@@ -1,1 +1,0 @@
-lar[53296]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action d’élever, de former, de dresser, de discipliner, PLUT. <i>Them. 2</i> ; JAMBL. <i>V. Pyth. § 68</i>.<p><b>Étym</b>. καταρτύω.`

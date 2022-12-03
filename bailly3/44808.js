@@ -1,1 +1,0 @@
-lar[44808]=`<b>ζωροποτέω-ῶ</b>, boire du vin pur, boire sans retenue, ANTH. <i>11, 25</i> ; CALL. <i>fr. 109</i>.<p><b>Étym</b>. ζωροπότης.`

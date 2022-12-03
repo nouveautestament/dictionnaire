@@ -1,1 +1,0 @@
-lar[31357]=`<b>ἐκ·θώπτω</b> <font color="darkgreen">(<i>ao</i>. ἐξεθώψας)</font> séduire par des flatteries, SOPH. <i>fr. 772 Nauck</i>.`

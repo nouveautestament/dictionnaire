@@ -1,1 +1,0 @@
-lar[20728]=`<b>βραχυ·στελέχης, ης, ες</b> <font color="purple">[ᾰ]</font> dont la tige est courte, TH. <i>H.P. 4, 6, 10</i>.<p><b>Étym</b>. βρ. στέλεχος.`

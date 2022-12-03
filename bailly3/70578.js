@@ -1,1 +1,0 @@
-lar[70578]=`<b>οἰνο·τρόφος, ος, ον</b>, qui produit (<i>propr</i>. qui nourrit) du vin, ANTH. <i>9, 375</i>.<p><b>Étym</b>. οἶν. τρέφω.`

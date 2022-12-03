@@ -1,1 +1,0 @@
-lar[1500]=`<i>ou</i> <b>ἄδος, εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> satiété, dégoût, IL. <i>11, 88</i>.<p><b>Étym</b>. ἅδην ; <i>cf</i>. ἄω³.`

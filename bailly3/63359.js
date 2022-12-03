@@ -1,1 +1,0 @@
-lar[63359]=`<b>*μεγαλοεργέω</b>, <i>p. contr</i>. <b>μεγαλουργέω-ῶ</b> <font color="purple">[ᾰ]</font> faire de grandes choses, PHIL. <i>2, 142, etc</i>.<p><b>Étym</b>. μεγαλοεργός.`

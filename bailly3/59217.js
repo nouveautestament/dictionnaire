@@ -1,1 +1,0 @@
-lar[59217]=`<b>κωνάω-ῶ</b>, porter en rond, AR. <i>fr. 439</i>.`

@@ -1,1 +1,0 @@
-lar[27766]=`<b>ῆς</b>, <i>ou</i> <b>δόχμη, ης (ἡ)</b> palme, <i>mesure de la largeur d’un travers de main,</i> CRAT. (<i>Com. fr. 2, 206</i>) ; AR. <i>Eq. 318</i>.<p>➳ <i>Duel</i> δόχμα, COM. (<i>Com. fr. 4, 627).</i><p><b>Étym</b>. δοχμός.`

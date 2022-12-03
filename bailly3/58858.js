@@ -1,1 +1,0 @@
-lar[58858]=`<b>α, ον</b> = <i>lat</i>. Quintilis : νόνναις Κυντιλίαις, PLUT. <i>Rom. 27, Syll. 27,</i> aux nones du mois Quintilis.`

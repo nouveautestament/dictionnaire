@@ -1,1 +1,0 @@
-lar[70774]=`<i>adv</i>., comment, de quelle manière, comme, SOPH. <i>Aj. 923, etc.</i> ; AR. <i>Vesp. 1363</i>.<p><b>Étym</b>. οἷος.`

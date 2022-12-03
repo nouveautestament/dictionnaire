@@ -1,1 +1,0 @@
-lar[20343]=`<b>ῶν (οἱ)</b> = <i>lat</i>. Bubulci, <i>plur. du n. rom</i>. Bubulcus, <i>surn. des Junius,</i> PLUT. <i>Qu. rom. 41 ; cf</i>. βουβοῦλκοι.`

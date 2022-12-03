@@ -1,1 +1,0 @@
-lar[28217]=`<b>δυσ·απόκριτος, ος, ον</b> <font color="purple">[ῠᾰῐ]</font><br><b>      1</b> auquel il est difficile de répondre, LUC. <i>V. auct. 22</i>.<br><b>      2</b> qui répond difficilement, P. ÉG. <i>61, 17</i>.<p><b>Étym</b>. δ. ἀποκρίνομαι.`

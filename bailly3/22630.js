@@ -1,1 +1,0 @@
-lar[22630]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> comme en peinture, comme dans les tableaux, PLUT. <i>Ant. 26</i>.<br><b>      2</b> en peintre, d’une façon pittoresque, PLUT. <i>M. 747c ;</i> LUC. <i>Im. 15</i>.`

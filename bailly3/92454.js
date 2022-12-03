@@ -1,1 +1,0 @@
-lar[92454]=`<b>εως (ἡ)</b> tendresse, affection, CLÉM. <i>451</i>.<p><b>Étym</b>. στέργω.`

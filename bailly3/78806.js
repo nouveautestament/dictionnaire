@@ -1,1 +1,0 @@
-lar[78806]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> περίκομμα AR. <i>Eq. 770</i> ; ATHÉNION (ATH. <i>661b</i>).`

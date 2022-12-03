@@ -1,1 +1,0 @@
-lar[81194]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> évaporation, ARSTT. <i>Respir. 20, 6</i>.<br><b>      2</b> gonflement causé par des vents, PLUT. <i>M. 906a</i>.<p><b>Étym</b>. πνευματόω.`

@@ -1,1 +1,0 @@
-lar[52059]=`ressembler (pour la forme <i>ou</i> pour l’odeur) au cannelier <i>ou</i> à la cannelle, DIOSC. <i>1, 13</i>.<p><b>Étym</b>. κασσία.`

@@ -1,1 +1,0 @@
-lar[51095]=`<b>καλλι·γένεια, ας</b> <font color="purple">[ῐ]</font> <i>adj. f</i>. qui engendre de beaux rejetons, qui produit de belles choses, <i>ép. de Démèter, ou, sel. d’autres, d’une suivante de Dèmèter, ou d’une fille de Zeus et de Dèmèter,</i> AR. <i>Th. 299</i> ; ALCIPHR. <i>2, 4, 1</i>.<p><b>Étym</b>. κ. γένος.`

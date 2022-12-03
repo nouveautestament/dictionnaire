@@ -1,1 +1,0 @@
-lar[39853]=`<b>ἐπ·οξίζω</b>, devenir acide, EROT. <i>266</i>.`

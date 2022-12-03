@@ -1,1 +1,0 @@
-lar[16189]=`<b>ἀστερο·ειδής, ής, ές :<br>      1</b> semblable à une étoile, astéroïde, PLUT. <i>M. 933e.</i><br><b>      2</b> étoilé, EUR. AR. <i>Th. 1067</i>.<p><b>Étym</b>. ἀστήρ, εἶδος.`

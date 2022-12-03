@@ -1,1 +1,0 @@
-lar[109285]=`<b>χρυσο·ϋφής, ής, ές</b> <font color="purple">[ῡῠ]</font> tissu <i>ou</i> brodé en or, CALLIX. (ATH. <i>196f</i>) ; DS. <i>5, 46</i> ; τὰ χρ. CHARÈS (ATH. <i>538d</i>) tissus d’or.<p><b>Étym</b>. χρ. ὑφαίνω.`

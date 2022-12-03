@@ -1,1 +1,0 @@
-lar[46800]=`<b>θεοσυλία, ας (ἡ)</b> <font color="purple">[ῡ]</font> pillage d’un temple, vol sacrilège, EL. <i>N.A. 10, 28</i>.<p><b>Étym</b>. θεόσυλος.`

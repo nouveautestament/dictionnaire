@@ -1,1 +1,0 @@
-lar[16328]=`<b>ἀστρο·λόγος, ου (ὁ) :<br>      1</b> astronome, XÉN. <i>Mem. 4, 2, 10</i>.<br><b>      2</b> <i>postér</i>. astrologue, EPIC. (DL. <i>10, 93</i>) ; SPT.<p><b>Étym</b>. ἄστρον, λέγω.`

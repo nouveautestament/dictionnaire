@@ -1,1 +1,0 @@
-lar[12290]=`<b>ἀπο·διατίθημι</b>, changer les dispositions, <i>d’où au pass</i>. être disposé autrement, NICOM. <i>Theol. 49</i>.`

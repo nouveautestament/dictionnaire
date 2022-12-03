@@ -1,1 +1,0 @@
-lar[88065]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> suppuration, GAL. <i>19, 433</i>.<p><b>Étym</b>. πυόω.`

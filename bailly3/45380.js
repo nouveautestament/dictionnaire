@@ -1,1 +1,0 @@
-lar[45380]=`<b>ἡμι·άνθρωπος, ου (ὁ)</b> qui n’a d’un homme que la moitié du corps, LUC. <i>C. deor. 4</i>.<p><b>Étym</b>. ἡμι-, ἄ.`

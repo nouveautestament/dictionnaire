@@ -1,1 +1,0 @@
-lar[10379]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> contrepoids, compensation, HDT. <i>4, 50</i>.<p><b>Étym</b>. ἀντισηκόω.`

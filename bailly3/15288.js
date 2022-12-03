@@ -1,1 +1,0 @@
-lar[15288]=`<b>Ἀρτεμι·δώρα, ας (ἡ)</b> <font color="purple">[ῐ]</font> Artémidôra, <i>f</i>. ANTH. <i>11, 101</i>.<p><b>Étym</b>. <i>v</i>. Ἀρτεμίδωρος.`

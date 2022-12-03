@@ -1,1 +1,0 @@
-lar[7764]=`<b>ἀνα·τινάσσω</b> <font color="purple">[ῐ]</font> secouer fortement, EUR. <i>Bacch. 622</i> ; CLÉM. <i>242</i>.`

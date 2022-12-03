@@ -1,1 +1,0 @@
-lar[95016]=`<b>ας (ἡ)</b> vie en commun, union, ANAXANDR. (ATH. <i>48a</i>) ; ARSTT. <i>Pol. 8, 16, 10</i>.<p><b>Étym</b>. σύναυλος².`

@@ -1,1 +1,0 @@
-lar[43215]=`<i>adv</i>., en inclinant facilement : εὐρ. ἔχει, ANT. <i>138, 20,</i> cela est facile.`

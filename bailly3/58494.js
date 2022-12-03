@@ -1,1 +1,0 @@
-lar[58494]=`<b>ων (τὰ)</b> <font color="purple">[ῠ]</font> Kythères (Cythère, <i>auj</i>. Kýthira, <i>anc</i>. Cerigo) <i>î. et v. de Laconie,</i> IL. <i>15, 432</i> ; OD. <i>9, 81</i> ; HDT. <i>1, 105</i>.`

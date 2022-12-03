@@ -1,1 +1,0 @@
-lar[10564]=`<b>ἀντι·φλυαρέω-ῶ</b> <font color="purple">[ῠᾰ]</font> bavarder contre <i>ou</i> en réponse à, <i>dat</i>. GAL. <i>8, 80, 501</i>.`

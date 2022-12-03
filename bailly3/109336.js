@@ -1,1 +1,0 @@
-lar[109336]=`<b>χρωματο·ποιΐα, ας (ἡ)</b> <font color="purple">[μᾰ]</font> fabrication de couleurs, préparation de teinture, fard, PHILSTR. <i>Ep. 2</i>.<p><b>Étym</b>. χρῶμα, ποιέω.`

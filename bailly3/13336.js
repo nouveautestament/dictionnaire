@@ -1,1 +1,0 @@
-lar[13336]=`<b>ἀπο·σκοπιάζω</b> (<i>seul. impf</i>. ἀπεσκοπίαζον) observer de loin, Q. SM. <i>6, 114</i>.`

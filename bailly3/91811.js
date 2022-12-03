@@ -1,1 +1,0 @@
-lar[91811]=`<b>σπειράω-ῶ</b>, rouler en spirales, A. TAT. ASTR. <i>Isag. in Arat. 63, 7 Maass</i> ; SEXT. <i>P. 1, 227 ; fig. en parl. du style,</i> D. PHAL. <i>§ 8</i>.<br><b><i>Moy.</i></b> (<i>ao. pass</i>.) se rouler en spirales, NIC. <i>Th. 457</i> ; PAUS. <i>10, 33, 9, etc</i>.<p>➳ <i>Ao. pass. part. ion</i>. σπειρηθείς, NIC. <i>l. c</i>.<p><b>Étym</b>. σπεῖρα.`

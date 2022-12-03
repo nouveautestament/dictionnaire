@@ -1,1 +1,0 @@
-lar[59799]=`<b>Λαό·δοκος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Laodokos, <i>h</i>. IL. <i>4, 87 ; 17, 699</i>.<p><b>Étym</b>. λαός, δέχομαι.`

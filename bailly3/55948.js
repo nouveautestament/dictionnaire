@@ -1,1 +1,0 @@
-lar[55948]=`<b>κλεψί·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui se livre à des amours coupables <i>ou</i> furtifs, SIB. <i>2, p. 281 ; 3, p. 357</i> ; NONN. <i>D. 8, 60</i>.<p><b>Étym</b>. κλέπτω, γάμος.`

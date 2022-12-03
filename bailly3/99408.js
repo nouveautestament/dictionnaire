@@ -1,1 +1,0 @@
-lar[99408]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> marécageux, STR. <i>346</i>.<p><b>Étym</b>. τῖφος, -ωδης.`

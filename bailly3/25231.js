@@ -1,1 +1,0 @@
-lar[25231]=`<b>δια·πέντε</b> <i>ou</i> mieux <b>διὰ πέντε (ἡ)</b> <i>càd</i>. ἡ διὰ πέντε (χορδῶν συμφωνία) la quinte, échelle de cinq sons, PLUT. <i>M. 389d</i>.`

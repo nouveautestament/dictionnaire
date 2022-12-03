@@ -1,1 +1,0 @@
-lar[37783]=`<b>ἐπι·θεάζω</b>, invoquer les dieux contre, <i>dat</i>. PHÉRÉCR. <i>fr. 120 ; abs</i>. faire des imprécations, PLAT. <i>Phædr. 241b</i>.<p><b>Étym</b>. ἐπί, θεός.`

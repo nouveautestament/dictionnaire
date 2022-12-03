@@ -1,1 +1,0 @@
-lar[46406]=`<b>ονος (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> qui contemple, qui regarde, <i>gén</i>. SYN. <i>128b</i>.<p>➳ <i>Ion</i>. θεήμων, A. PL. <i>365</i>.`

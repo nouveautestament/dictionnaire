@@ -1,1 +1,0 @@
-lar[44123]=`<b>ας (ἡ)</b> dignité d’éphore, <i>à Sparte,</i> XÉN. <i>Lac. 8, 3</i> ; LYS. (POLL. <i>2, 55</i>) ; ARSTT. <i>Pol. 2, 9, 19</i>.<p><b>Étym</b>. ἐφορεύω.`

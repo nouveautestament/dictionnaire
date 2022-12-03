@@ -1,1 +1,0 @@
-lar[27663]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> service des gardes du corps, XÉN. <i>Cyr. 2, 2, 10</i>.<br><b>      2</b> <i>p. suite,</i> gardes du corps, SPT. <i>2Macc. 3, 28 ; p. anal</i>. astres satellites (du soleil) PLUT. <i>M. 890e</i>.<p><b>Étym</b>. δορυφόρος.`

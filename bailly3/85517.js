@@ -1,1 +1,0 @@
-lar[85517]=`<b>προσ·εκδιδάσκω</b> <font color="purple">[ῐ]</font> instruire en outre, DC. <i>Exc. 20, 2 Sturz</i>.`

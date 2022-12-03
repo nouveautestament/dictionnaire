@@ -1,1 +1,0 @@
-lar[83509]=`<b>ή, όν :<br>      1</b> préféré, ARSTT. <i>Nic. 3, 3, 17, etc.</i><br><b>      2</b> que l’on choisit librement, que l’on décide spontanément, ARSTT. <i>Metaph. 5, 1, 5, etc</i>.<p><b>Étym</b>. <i>vb. de</i> προαιρέω.`

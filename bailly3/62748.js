@@ -1,1 +1,0 @@
-lar[62748]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., rarement, PLAT. COM. <i>2-2, 696, 71 Mein</i>.<p><b>Étym</b>. μανός.`

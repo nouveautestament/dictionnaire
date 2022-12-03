@@ -1,1 +1,0 @@
-lar[72207]=`<i>gén</i>. <b>ὄου (τὸ)</b> corme, <i>fruit du sorbier,</i> PLAT. <i>Conv. 190d</i>.`

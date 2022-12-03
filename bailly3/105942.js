@@ -1,1 +1,0 @@
-lar[105942]=`<b>Φιλό·μοσχος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philomoskhos, <i>litt</i>. Ami-des-veaux, <i>n. de pâtre,</i> ALCIPHR. <i>1, 24</i>.<p><b>Étym</b>. φ. μόσχος.`

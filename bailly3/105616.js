@@ -1,1 +1,0 @@
-lar[105616]=`<i>ou</i> (ὁ) <font color="purple">[ῐῐ]</font> fils de Philémon, XÉN. <i>Vect. 4, 15</i> ; PLAT. <i>Theag. 129b</i>.<p><b>Étym</b>. <i>patr. de</i> Φιλήμων.`

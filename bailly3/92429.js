@@ -1,1 +1,0 @@
-lar[92429]=`<b>εως (ἡ) :<br>      1</b> privation, spoliation, THC. <i>2, 63</i> ; PLAT. <i>Leg. 865b.</i><br><b>      2</b> <i>t. de rhét. ou de log</i>. privation, négation, ARSTT. <i>Rhet. 3, 6, 7</i> ; τὰ κατὰ στέρησιν λεγόμενα, CHRYSIPP. (DL. <i>7, 190</i>) les expressions négatives.<p><b>Étym</b>. στερέω.`

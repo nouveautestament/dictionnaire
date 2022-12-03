@@ -1,1 +1,0 @@
-lar[108811]=`<b>ας (ἡ)</b> <font color="purple">[δῐκᾰ]</font>) fonction du maître de ballet <i>ou</i> directeur des chœurs, PLAT. <i>1 Alc. 125e</i> (χορῶν διδασκαλία, XÉN. <i>Mem. 3, 4, 4).</i><p><b>Étym</b>. χοροδιδάσκαλος.`

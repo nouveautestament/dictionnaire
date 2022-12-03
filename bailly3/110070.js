@@ -1,1 +1,0 @@
-lar[110070]=`<i>nom. et acc. duel de</i> ὅς, ἥ, ὅ.`

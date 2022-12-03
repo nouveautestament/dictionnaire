@@ -1,1 +1,0 @@
-lar[45593]=`<b>ἡμι·ύφαντος, ος, ον</b> <font color="purple">[ῠ]</font> à demi tressé, EN. TACT. <i>Pol. 29</i>.<p><b>Étym</b>. ἡμι-, ὑφαίνω.`

@@ -1,1 +1,0 @@
-lar[15864]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῐ]</font> Asinè :<br><b>      1</b> <i>v. d’Argolide,</i> IL. <i>2, 560</i>.<br><b>      2</b> <i>v. de Messénie,</i> HDT. POL. <i>etc.</i><br><b>      3</b> <i>v. de Laconie,</i> THC. XÉN. <i>etc</i>.`

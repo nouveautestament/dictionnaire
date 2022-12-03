@@ -1,1 +1,0 @@
-lar[9113]=`<b>ἀνισο·ειδής, ής, ές</b> <font color="purple">[ᾰῐ]</font> de forme inégale <i>ou</i> différente, PORPH. <i>V. Pyth. 50</i>.<p><b>Étym</b>. ἄνισος, εἶδος.`

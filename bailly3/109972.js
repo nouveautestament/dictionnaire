@@ -1,1 +1,0 @@
-lar[109972]=`<b>ψυχο·ειδής, ής, ές</b> <font color="purple">[ῡ]</font> qui ressemble à l’âme, de la nature de l’âme, PHIL. <i>1, 15</i>.<p><b>Étym</b>. ψ. εἶδος.`

@@ -1,1 +1,0 @@
-lar[22179]=`<b>γλυκύ·ρριζα, ης (ἡ)</b> <font color="purple">[ῠκ]</font> réglisse (<i>litt</i>. racine douce), DIOSC. <i>5, 73</i> ; GAL. <i>2, 88a ;</i> ANTYLL. (ORIB. <i>2, 439).</i><p><b>Étym</b>. γλ. ῥίζα.`

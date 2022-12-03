@@ -1,1 +1,0 @@
-lar[10961]=`<font color="purple">[μᾰ]</font> <i>adv</i>., avec dignité, DH. <i>Dem. 43</i>.`

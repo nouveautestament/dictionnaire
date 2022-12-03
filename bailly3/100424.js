@@ -1,1 +1,0 @@
-lar[100424]=`<b>τρισ·αλιτήριος, ος, ον</b> <font color="purple">[ῐᾰῐ]</font> trois fois criminel, très criminel, SPT. <i>2Macc. 8, 34, etc</i>.`

@@ -1,1 +1,0 @@
-lar[54261]=`<b>κατ·ωχριάω-ῶ</b>, devenir très pâle, LUC. <i>Philopatr. 18</i>.`

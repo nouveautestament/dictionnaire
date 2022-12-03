@@ -1,1 +1,0 @@
-lar[95718]=`<b>συν·έραμαι</b> <font color="darkgreen">(<i>seul. inf. prés</i>. συνέρασθαι)</font> s’aimer mutuellement, BION <i>16, 8 ; v</i>. συνεράω¹.`

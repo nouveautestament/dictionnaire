@@ -1,1 +1,0 @@
-lar[88697]=`<b>ῥοδό·κισσος, ου (ὁ)</b> lierre-rose, THCR. <i>Idyl. 5, 131 dout</i>.<p><b>Étym</b>. ῥ. κισσός.`

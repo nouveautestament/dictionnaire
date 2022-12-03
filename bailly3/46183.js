@@ -1,1 +1,0 @@
-lar[46183]=`<i>att</i>. <b>θαλάττωσις, εως (ἡ)</b> <font color="purple">[θᾰ]</font> submersion par les eaux de la mer, PHIL. <i>2, 174</i>.<p><b>Étym</b>. θαλασσόω.`

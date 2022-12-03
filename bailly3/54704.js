@@ -1,1 +1,0 @@
-lar[54704]=`<b>κενό·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font> au crâne <i>ou</i> à la cervelle vide, SIB. <i>3, 430</i>.<p><b>Étym</b>. κ. *κρᾶνον, <i>cf</i>. κρανίον.`

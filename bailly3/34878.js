@@ -1,1 +1,0 @@
-lar[34878]=`<b>ητος (ἡ) :<br>      1</b> unité, ARSTT. <i>Metaph. 4, 9, 3, etc.</i><br><b>      2</b> <i>p. suite,</i> union, NT. <i>Eph. 4, 3, 13</i> ; PLUT. <i>M. 769f ;</i> CLÉM. <i>1, 200 Migne</i>.<p><b>Étym</b>. εἷς.`

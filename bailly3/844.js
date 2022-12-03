@@ -1,1 +1,0 @@
-lar[844]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vers <i>ou</i> dans l’assemblée, IL. <i>1, 54</i>.<p><b>Étym</b>. ἀγορή, -δε.`

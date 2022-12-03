@@ -1,1 +1,0 @@
-lar[47599]=`<b>θρασύ·μητις (ὁ)</b> <font color="purple">[ᾰῠ]</font> à l’esprit hardi, ANTH. <i>6, 324</i>.<p><b>Étym</b>. θρ. μῆτις.`

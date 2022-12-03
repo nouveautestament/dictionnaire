@@ -1,1 +1,0 @@
-lar[82346]=`<b>πολύ·σαθρος, ος, ον</b> <font color="purple">[ῠᾰ]</font> tout pourri, tout usé, LUC. <i>Philopatr. 21</i>.<p><b>Étym</b>. π. σαθρός.`

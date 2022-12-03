@@ -1,1 +1,0 @@
-lar[92519]=`<b>ή, όν</b>, de la poitrine, ARSTT. <i>P.A. 3, 4, 19</i>.<p><b>Étym</b>. στῆθος.`

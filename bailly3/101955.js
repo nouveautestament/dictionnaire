@@ -1,1 +1,0 @@
-lar[101955]=`<b>ὑπ·αναστρέφω</b> <font color="purple">[ῠᾰν]</font> revenir, <i>en parl. d’une maladie,</i> HPC. <i>464, 46</i>.`

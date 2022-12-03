@@ -1,1 +1,0 @@
-lar[89014]=`<b>ου (τὸ)</b> buisson, broussailles, DC. <i>63, 28</i>.<p><b>Étym</b>. <i>dim. de</i> ῥώψ.`

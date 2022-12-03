@@ -1,1 +1,0 @@
-lar[8125]=`<b>ἀνδρό·φθορος, ος, ον</b>, qui provient d’un homme tué : ἀ. αἷμα, SOPH. <i>Ant. 1022,</i> le sang d’un cadavre ; <i>cf</i>. τραγοκτόνον αἷμα.<p><b>Étym</b>. ἀνήρ, φθείρω.`

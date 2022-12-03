@@ -1,1 +1,0 @@
-lar[15379]=`<b>ἀρτι·τελής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> nouvellement initié, PLAT. <i>Phædr. 251a.</i><br><b>      2</b> récemment accompli, NONN. <i>D. 26, 46</i>.<p><b>Étym</b>. ἄ. τέλος.`

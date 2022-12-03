@@ -1,1 +1,0 @@
-lar[53854]=`<b>ατος (τὸ)</b> course à cheval pour descendre une pente, EL. TACT. <i>44 dout</i>.<p><b>Étym</b>. κατελαύνω.`

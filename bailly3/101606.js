@@ -1,1 +1,0 @@
-lar[101606]=`<b>ης, ες</b>, semblable à l’eau, aqueux, TH. <i>C.P. 5, 12, 3</i>.<p><b>Étym</b>. ὕδωρ, -ωδης.`

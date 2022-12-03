@@ -1,1 +1,0 @@
-lar[84052]=`<b>προ·εισδέω</b>, lier par une convention antérieure : οἱ προεισδεδεμένοι, POL. <i>9, 31, 1,</i> personnes liées par une convention antérieure.`

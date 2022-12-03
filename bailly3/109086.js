@@ -1,1 +1,0 @@
-lar[109086]=`<b>χρυσ·άορος, ος, ον</b> <font color="purple">[ῡᾱ]</font> à l’épée <i>ou</i> au glaive d’or, <i>ép. de certaines divinités, Apollon,</i> IL. <i>5, 509, etc.</i> ; HH. <i>Ap. 123 ; cf. de même Artémis,</i> ORACL. (HDT. <i>8, 77) ; Dèmèter,</i> HH. <i>Cer. 4 ; Orphée,</i> PD. <i>fr. 187</i>.<p><b>Étym</b>. χρ. ἀείρω.`

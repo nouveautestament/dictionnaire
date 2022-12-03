@@ -1,1 +1,0 @@
-lar[78606]=`<b>περι·ζαμενῶς</b> <font color="purple">[ᾰ]</font> avec une grande violence, HH. <i>Merc. 495</i>.<p><b>Étym</b>. π. ζαμενής.`

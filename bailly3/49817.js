@@ -1,1 +1,0 @@
-lar[49817]=`<b>α, ον</b>, qu’il faut savoir <i>ou</i> connaître, ATH. <i>699e, au neutre</i> ἰστέον, il faut savoir, GAL. <i>5, 172 ; ou</i> il faut voir, PLAT. <i>Conv. 217c, Theæt. 202e</i>.<p><b>Étym</b>. <i>vb. de</i> οἶδα.`

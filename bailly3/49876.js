@@ -1,1 +1,0 @@
-lar[49876]=`<b>ἴσχ·αιμος, ος, ον</b>, qui arrête le sang, TH. <i>H.P. 9, 13, 1</i> ; LUC. <i>Tim. 46</i> ; τὸ ἴσχαιμον (<i>s.-e</i>. φάρμακον), ARÉT. <i>107, 22</i> ; ORIB. <i>p. 314 Matthäi</i> remède hémostatique ; ἡ ἴσχαιμος (<i>s.-e</i>. βοτάνη) TH. <i>H.P. 9, 15, 3,</i> plante hémostatique.<p><b>Étym</b>. ἴσχω, αἷμα.`

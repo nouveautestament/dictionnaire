@@ -1,1 +1,0 @@
-lar[6624]=`<b>ἀνα·γλύφω</b>, ciseler <i>ou</i> relever en bosse, JOS. <i>A.J. 12, 2, 8</i>.`

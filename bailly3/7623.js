@@ -1,1 +1,0 @@
-lar[7623]=`<i>adv.</i> :<br><b>      1</b> de façon à guérir, HÉRODOTUS (ORIB. <i>1, 422 B.-Dar</i>.).<br><b>      2</b> de façon à réfuter, ARSTT. <i>An. pr. 1, 46, 13</i>.`

@@ -1,1 +1,0 @@
-lar[52362]=`<b>κατα·δυσωπέω-ῶ</b>, troubler, émouvoir, fléchir, <i>acc</i>. LUC. <i>Sacr. 3</i> ; EUM. <i>304</i>.`

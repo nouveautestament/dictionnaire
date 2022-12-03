@@ -1,1 +1,0 @@
-lar[58756]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> chasse, ARSTT. <i>Pol. 4, 8, 9, etc. ; fig</i>. poursuite, SOPH. <i>Aj. 36</i>.<p>➳ <i>Dor</i>. κυναγία <font color="purple">[ᾱγ]</font> SOPH. <i>l. c.</i> ; EUR. <i>Hipp. 109</i>.<p><b>Étym</b>. κυνηγός.`

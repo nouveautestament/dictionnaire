@@ -1,1 +1,0 @@
-lar[54746]=`<b>ων (τὰ)</b> Kentoripes (<i>auj</i>. Centuripe) <i>v. de Sicile,</i> THC. <i>6, 94</i>.`

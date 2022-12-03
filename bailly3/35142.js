@@ -1,1 +1,0 @@
-lar[35142]=`<b>ἔν·τρυγος, ος, ον</b>, qui contient de la lie <i>ou</i> du marc, HIPPIATR. <i>p. 190, 24</i>.<p><b>Étym</b>. ἐν, τρύξ.`

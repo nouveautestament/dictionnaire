@@ -1,1 +1,0 @@
-lar[61720]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> <i>dor. c</i>. λοχαγός, ESCHL. <i>Sept. 42</i> ; EUR. <i>Ph. 974, Suppl. 502</i>.<p><b>Étym</b>. λοχαγέω.`

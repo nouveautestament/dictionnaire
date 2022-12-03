@@ -1,1 +1,0 @@
-lar[52574]=`<b>κατα·κνάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. κατέκνησα) :</font><br><b>      1</b> gratter, racler, DIOSC. <i>2, 149</i>.<br><b>      2</b> couper en petits morceaux, <i>d’où</i> partager, distribuer, AR. <i>Vesp. 965, 966</i>.`

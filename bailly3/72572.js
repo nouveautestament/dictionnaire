@@ -1,1 +1,0 @@
-lar[72572]=`<font color="purple">[ῠ]</font> (<i>seul. prés</i>.) tendre, étendre, <i>acc</i>. IL. <i>1, 351 ; 22, 37</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ANTH. <i>7, 506</i>.<p>➳ <i>Act. et pass. seul. part. prés</i>. ὀρεγνύς, IL. <i>1, 351 ; 22, 37</i> ; ὀρεγνύμενος ; MOSCH. <i>2, 112</i> ; ANTH. <i>7, 506</i>.<p><b>Étym</b>. <i>c</i>. ὀρέγω.`

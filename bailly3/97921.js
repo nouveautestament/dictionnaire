@@ -1,1 +1,0 @@
-lar[97921]=`<b>ῆτος (ἡ)</b> <font color="purple">[ᾰῠ]</font> vitesse, rapidité, agilité, IL. <i>23, 740</i> ; OD. <i>17, 315</i> ; HDT. <i>3, 102</i> ; PLAT. <i>Lach. 192a etc</i>.<p>➳ <i>Dor</i>. ταχυτάς, ᾶτος <font color="purple">[ᾰῠᾱ]</font> PD. <i>O. 1, 155</i>.<p><b>Étym</b>. ταχύς.`

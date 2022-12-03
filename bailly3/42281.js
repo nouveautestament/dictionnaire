@@ -1,1 +1,0 @@
-lar[42281]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> songe véridique, ARSTT. <i>Insomn. 2</i> ; GEOP. <i>2, 35, 3</i>.<p><b>Étym</b>. εὐθυόνειρος.`

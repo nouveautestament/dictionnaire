@@ -1,1 +1,0 @@
-lar[42002]=`<b>εὐ·επακολούθητος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à suivre, <i>en parl. d’un raisonnement,</i> ARSTT. <i>Rhet. 1, 2, 13</i>.<p><b>Étym</b>. εὖ, ἐπακολουθέω.`

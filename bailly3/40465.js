@@ -1,1 +1,0 @@
-lar[40465]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> pollinisé par la caprification, TH. <i>C.P. 2, 9, 12</i>.<p><b>Étym</b>. <i>vb. de</i> ἐρινάζω.`

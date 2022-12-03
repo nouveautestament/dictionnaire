@@ -1,1 +1,0 @@
-lar[74762]=`<b>πάμ·πυος, ος, ον</b> <font color="purple">[ῡ]</font> tout plein de pus, HPC. <i>Coac. 177</i>.<p><b>Étym</b>. π. πύον.`

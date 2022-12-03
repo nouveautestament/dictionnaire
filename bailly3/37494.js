@@ -1,1 +1,0 @@
-lar[37494]=`<b>ἐπί·γρυπος, ος, ον</b> <font color="purple">[ῡ]</font> légèrement crochu, <i>en parl. du bec de l’ibis,</i> HDT. <i>2, 76 ; du mufle du</i> βοῦς ἄγριος, ARSTT. <i>H.A. 2, 1, 22 ; des naseaux d’un cheval,</i> PLAT. <i>Phædr. 253d ;</i> au nez crochu, PLAT. <i>Euthyphr. 2b</i>.`

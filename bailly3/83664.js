@@ -1,1 +1,0 @@
-lar[83664]=`<b>προ·απολογέομαι-οῦμαι</b>, se défendre, se justifier auparavant, ORIG. <i>1, 805 Migne</i>.`

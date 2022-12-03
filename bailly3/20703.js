@@ -1,1 +1,0 @@
-lar[20703]=`<b>βραχυ·λόγος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui s’exprime brièvement, concis, laconique, PLAT. <i>Leg. 641e ;</i> PLUT. <i>Lyc. 19 ; etc</i>.<p>•<i> Cp</i>. -ώτερος, PLAT. <i>Gorg. 449c</i>.<p><b>Étym</b>. βρ. λέγω.`

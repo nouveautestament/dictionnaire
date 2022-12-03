@@ -1,1 +1,0 @@
-lar[32695]=`<b>ίδος (ἡ)</b> région marécageuse, A.RH. <i>1, 1266</i>.<p><b>Étym</b>. ἕλος.`

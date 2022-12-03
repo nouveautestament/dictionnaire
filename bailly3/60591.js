@@ -1,1 +1,0 @@
-lar[60591]=`<b>λευκο·όπωρος, ος, ον</b>, à fruits blancs, <i>en parl. d’une sorte de figuier,</i> ANTH. <i>9, 563</i>.<p><b>Étym</b>. λ. ὀπώρα.`

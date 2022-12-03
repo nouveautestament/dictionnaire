@@ -1,1 +1,0 @@
-lar[106970]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> sorte de poêlon pour griller l’orge, POLYZ. (POLL. <i>10, 109).</i><p><b>Étym</b>. φρύγω.`

@@ -1,1 +1,0 @@
-lar[4980]=`<b>ης, ες :<br>      1</b> boisé, entouré de bois, EUR. <i>I.A. 141</i> ; EL. <i>N.A. 4, 60</i> ; ATH. <i>503c.</i><br><b>      2</b> qui croît dans les bois, TH. <i>H.P. 3, 2, 4, etc.</i> ; PLUT. <i>M. 648c ;</i> SPT. <i>4Reg. 16, 4 ; Jer. 17, 8</i>.<p><b>Étym</b>. ἄλσος, -ωδης.`

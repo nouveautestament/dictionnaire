@@ -1,1 +1,0 @@
-lar[4989]=`<b>ή, όν :<br>      1</b> qui concerne le saut, qui se fait par sauts, ARSTT. <i>P.A. 4, 6, 16</i> ; PLUT. <i>Num. 13</i>.<br><b>      2</b> habile à sauter, XÉN. <i>Cyr. 8, 4, 20</i>.<p><b>Étym</b>. ἅλλομαι.`

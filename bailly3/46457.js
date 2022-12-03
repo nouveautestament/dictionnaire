@@ -1,1 +1,0 @@
-lar[46457]=`<b>θεη·κόλος, ου (ὁ)</b> prêtre, PAUS. <i>5, 15, 10</i>.<p>➳ <i>Dans les inscr. att</i>. θεηκόλος (<i>non</i> θεοκόλος) CIA. <i>3, 305 ; 487 (2<sup>e</sup> siècle après J.-C. ; v</i>. θεηκολέω <i>et</i> θεοκόλος) ; <i>v. Meisterh. p. 16, 40</i>.<p><b>Étym</b>. <i>cf</i>. θεοπόλος.`

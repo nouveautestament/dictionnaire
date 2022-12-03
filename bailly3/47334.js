@@ -1,1 +1,0 @@
-lar[47334]=`<b>θηροφονέω-ῶ</b>, tuer des animaux sauvages, OPP. <i>C. 4, 24</i>.<p><b>Étym</b>. θηροφόνος.`

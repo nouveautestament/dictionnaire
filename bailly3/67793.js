@@ -1,1 +1,0 @@
-lar[67793]=`<b>Ναυσι·κράτης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Nausikratès, <i>h</i>. DÉM. <i>927, 17, etc</i>.<p><b>Étym</b>. ν. κράτος.`

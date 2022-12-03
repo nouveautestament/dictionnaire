@@ -1,1 +1,0 @@
-lar[52268]=`<b>ου (τὸ)</b> <font color="purple">[ᾰγ]</font> <i>dout. c</i>. καταγώγιον, ANTIPH. <i>fr. 53 Kock</i> ; MACH. (ATH. <i>337d</i>).`

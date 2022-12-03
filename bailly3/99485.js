@@ -1,1 +1,0 @@
-lar[99485]=`<i>adv</i>., de la façon que voici <i>ou</i> que voilà, ORIG.<p><b>Étym</b>. <i>cf</i>. τοιούτως.`

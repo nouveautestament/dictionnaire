@@ -1,1 +1,0 @@
-lar[92068]=`<font color="purple">[ᾰ]</font> courir dans le stade, <i>d’où</i> accomplir une course, parcourir, <i>acc</i>. ARSTT. <i>fr. 13 ; fig</i>. PHIL. <i>1, 328</i>.<p><b>Étym</b>. σταδιεύς.`

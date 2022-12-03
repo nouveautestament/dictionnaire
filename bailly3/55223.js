@@ -1,1 +1,0 @@
-lar[55223]=`THCR. <i>Idyl</i>. 15.74, <i>crase dor. p</i>. καὶ ἔπειτα.`

@@ -1,1 +1,0 @@
-lar[50358]=`<b>α, ον</b> <font color="purple">[κᾰ]</font> qui sert à sonder, <i>t. de chir</i>. ARÉT. <i>Cur. m. acut. 2, 9</i>.<p><b>Étym</b>. καθετήρ.`

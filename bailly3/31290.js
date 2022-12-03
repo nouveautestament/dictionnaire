@@ -1,1 +1,0 @@
-lar[31290]=`<b>ατος (τὸ)</b> élan de confiance, confiance, PLUT. <i>M. 1103a</i>.<p><b>Étym</b>. ἐκθαρσέω.`

@@ -1,1 +1,0 @@
-lar[12993]=`<b>ἀπο·ξαίνω</b>, déchirer, écorcher, SPT. <i>4Macc. 6, 61</i>.`

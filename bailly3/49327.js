@@ -1,1 +1,0 @@
-lar[49327]=`<b>Ἱππο·θέρσης, ους (ὁ)</b> Hippothersès, <i>h</i>. LYS. (HARP.).`

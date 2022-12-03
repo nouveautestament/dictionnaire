@@ -1,1 +1,0 @@
-lar[24906]=`<b>δια·λαλέω-ῶ</b> <font color="purple">[λᾰ]</font> converser : πρός τινα, POL. <i>23, 9, 6</i>, avec qqn ; τινὶ περί τινος, POL. <i>1, 85, 2</i> ; ὑπέρ τινος, POL. <i>9, 32, 1</i>, s’entretenir avec qqn de qqe ch. ; <i>au pass</i>. être l’objet des entretiens, NT. <i>Luc. 1, 65</i>.`

@@ -1,1 +1,0 @@
-lar[46862]=`<b>θεόω-θεῶ</b>, diviniser, CALL. <i>Dian. 159</i> ; JAMBL. <i>V. Pyth. p. 222</i>.<p><b>Étym</b>. θεός.`

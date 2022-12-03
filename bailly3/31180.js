@@ -1,1 +1,0 @@
-lar[31180]=`<b>ας (ἡ) :<br>      1</b> voyage <i>ou</i> séjour à l’étranger, EUR. <i>(Bkk. 93</i>) ; PLAT. <i>Leg. 950e.</i><br><b>      2</b> exil, PLAT. <i>Leg. 869e.</i><br><b>      3</b> départ de la vie, mort, ANTH. <i>3, 5</i>.`

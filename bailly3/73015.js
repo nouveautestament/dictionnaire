@@ -1,1 +1,0 @@
-lar[73015]=`<b>ους (ὁ)</b> Orophernès, <i>roi de Cappadoce,</i> EL. <i>V.H. 2, 41</i>.`

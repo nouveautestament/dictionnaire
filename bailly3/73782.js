@@ -1,1 +1,0 @@
-lar[73782]=`<i>adv. nég. p</i>. οὐ, <i>dev. une voy. aspirée</i>.`

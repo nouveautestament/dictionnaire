@@ -1,1 +1,0 @@
-lar[104684]=`<b>ας</b> (ἁ) Phæsana, <i>v. d’Arcadie ou d’Élide,</i> PD. <i>O. 6, 34</i>.`

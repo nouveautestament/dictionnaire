@@ -1,1 +1,0 @@
-lar[74091]=`<b>παγ·γυναικί</b> <font color="purple">[ῠ]</font> <i>adv</i>., avec toutes les femmes, DC. <i>41, 9</i>.<p><b>Étym</b>. π. γυνή.`

@@ -1,1 +1,0 @@
-lar[29830]=`<b>ἐγ·ξηραίνω</b> (<i>prés. inf</i>.) faire sécher dans, HPC. <i>636, 11</i>.<p><b>Étym</b>. ἐν, ξ.`

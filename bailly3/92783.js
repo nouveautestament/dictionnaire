@@ -1,1 +1,0 @@
-lar[92783]=`<b>ης (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> lacet, cordon, SEXT. <i>P. 3, 15</i>.<br><b>      2</b> action d’étrangler, PLUT. <i>Agis 20 ; fig</i>. anxiété, JOS. <i>A.J. 6, 8, 2</i>.<p><b>Étym</b>. στράγξ.`

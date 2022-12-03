@@ -1,1 +1,0 @@
-lar[64342]=`<b>Μενιτίδες πύλαι (αἱ)</b> la porte Ménitide, <i>à Syracuse,</i> PLUT. <i>Dio. 29</i>.`

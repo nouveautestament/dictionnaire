@@ -1,1 +1,0 @@
-lar[54926]=`<b>ή, όν</b>, dont on peut tirer profit, PÉRIANDR. (DL. <i>1, 97).</i><p><b>Étym</b>. κερδαίνω.`

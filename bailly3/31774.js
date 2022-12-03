@@ -1,1 +1,0 @@
-lar[31774]=`<b>ἐκ·παταγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> faire un grand bruit, THÉM. <i>308, 20 G. Dind</i>.`

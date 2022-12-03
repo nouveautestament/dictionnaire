@@ -1,1 +1,0 @@
-lar[106299]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱᾰ <i>au lieu de</i> ᾱᾱ]</font> = <i>lat</i>. Flavianus, <i>n. d’h. rom</i>. ANTH. <i>App. 381</i>.`

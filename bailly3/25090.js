@@ -1,1 +1,0 @@
-lar[25090]=`<b>δια·μυλλαίνω</b> (<i>seul. impf. 3 sg</i>. διεμύλλαινεν) se plisser <i>ou</i> se contourner les lèvres pour faire la grimace, AR. <i>Vesp. 1315</i>.`

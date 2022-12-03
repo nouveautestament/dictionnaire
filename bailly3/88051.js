@@ -1,1 +1,0 @@
-lar[88051]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> enflammé, ANTIPH. (ATH. <i>624a</i>).<p><b>Étym</b>. <i>vb. de</i> πυρόω.`

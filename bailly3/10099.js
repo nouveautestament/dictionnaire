@@ -1,1 +1,0 @@
-lar[10099]=`<b>ἀντι·μηχανάομαι-ῶμαι</b> <font color="purple">[χᾰ]</font><br><b>      1</b> machiner contre, HDT. <i>8, 52</i> ; EUR. <i>Bacch. 291</i>.<br><b>      2</b> imaginer en guise de défense, THC. <i>7, 53</i> ; τι πρός τι, XÉN. <i>Hell. 5, 3, 16,</i> imaginer qqe expédient pour lutter contre une difficulté.<p>➳ <i>Impf. ion. 3 pl</i>. ἀντεμηχανέοντο, HDT. <i>8, 52</i>.`

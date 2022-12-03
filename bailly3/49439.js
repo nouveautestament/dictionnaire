@@ -1,1 +1,0 @@
-lar[49439]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art d’élever les chevaux, CLÉM. <i>338</i>.<p><b>Étym</b>. ἱπποτρόφος.`

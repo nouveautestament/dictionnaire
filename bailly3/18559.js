@@ -1,1 +1,0 @@
-lar[18559]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> manque de suc, TH. <i>H.P. 6, 12, 6</i>.<p><b>Étym</b>. ἄχυμος.`

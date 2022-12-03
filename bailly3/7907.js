@@ -1,1 +1,0 @@
-lar[7907]=`<font color="purple">[ᾰφ]</font> <i>adv</i>., sans toucher, JAMBL. <i>Myst. p. 103, 119</i>.<p><b>Étym</b>. ἀναφής.`

@@ -1,1 +1,0 @@
-lar[11470]=`<font color="purple">[θᾱ]</font> <i>c</i>. ἀπαυθαδίζομαι PHIL. <i>2, 441</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. JOS. <i>B.J. 3, 7, 11</i> ; THÉM. <i>131d, 135a</i>.`

@@ -1,1 +1,0 @@
-lar[11068]=`<i>adv</i>., sans trouble, tranquillement, CLÉM. <i>496, 4</i>.<p>•<i> Sup</i>. -ότατα, GAL. <i>15, 707</i>.`

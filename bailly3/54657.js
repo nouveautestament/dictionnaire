@@ -1,1 +1,0 @@
-lar[54657]=`<i>adv</i>., à la manière des Celtes, LUC. <i>Alex. 51</i>.<p><b>Étym</b>. Κέλται.`

@@ -1,1 +1,0 @@
-lar[65568]=`<b>Μητρο·φάνης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Mètrophanès, <i>h</i>. ANTH. <i>11, 345, au voc</i>. Μητρόφανες.<p><b>Étym</b>. μήτηρ, φαίνω.`

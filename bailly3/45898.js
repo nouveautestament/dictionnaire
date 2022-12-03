@@ -1,1 +1,0 @@
-lar[45898]=`<b>ου :<br>      1 (ἡ)</b> panicaut <i>ou</i> chardon-roland, <i>plante,</i> NIC. <i>Th. 648, 849</i>.<br><b>      2 (ὁ)</b> barbe de bouc <i>ou</i> de chèvre, <i>plante,</i> ARSTT. <i>H.A. 9, 3, 3</i>.`

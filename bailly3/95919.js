@@ -1,1 +1,0 @@
-lar[95919]=`<b>συν·θαμβέω-ῶ</b>, s’étonner avec, PLAT. <i>Ion 535e</i>.`

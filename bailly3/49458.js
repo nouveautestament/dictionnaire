@@ -1,1 +1,0 @@
-lar[49458]=`<b>ἱππο·φορβός, ός, όν :<br>      1</b> qui procure du fourrage aux chevaux, propre à nourrir des chevaux, DH. <i>1, 37</i>.<br><b>      2</b> <i>subst</i>. ὁ ἱππ. celui qui élève un cheval, des chevaux, PLAT. <i>Pol. 261d ;</i> ARSTT. <i>H.A. 6, 22, 18</i> ; DH. <i>1, 37</i>.<p><b>Étym</b>. ἵ. φέρβω.`

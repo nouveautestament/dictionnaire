@@ -1,1 +1,0 @@
-lar[57680]=`<b>ιδος (ὁ)</b> Kraugis, <i>père de Philopœmen,</i> PLUT. <i>Phil. 1</i> ; ANTH. <i>App. 870</i>.`

@@ -1,1 +1,0 @@
-lar[79091]=`<b>εως (ἡ)</b> cristallisation, STR. <i>568</i>.<p><b>Étym</b>. περιπήγνυμι.`

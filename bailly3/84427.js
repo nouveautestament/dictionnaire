@@ -1,1 +1,0 @@
-lar[84427]=`<b>προ·καθοράω-ῶ</b> (<i>seul. f</i>. προκατόψομαι) considérer <i>ou</i> examiner auparavant, HDT. <i>8, 23</i>.`

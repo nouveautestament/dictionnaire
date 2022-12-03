@@ -1,1 +1,0 @@
-lar[57763]=`<b>ός, όν</b>, qui concerne le dépècement des viandes ; κρεουργὸν ἦμαρ, ESCHL. <i>Ag. 1592,</i> jour meurtrier.<p><b>Étym</b>. κρέας, ἔργον.`

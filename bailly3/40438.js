@@ -1,1 +1,0 @@
-lar[40438]=`<font color="purple">[ῑ]</font>:<br><b>      1</b> travailler à gages <i>ou</i> comme mercenaire ; <i>particul. en parl. de femmes,</i> filer, SPT. <i>Tob. 2, 11</i>.<br><b>      2</b> travailler, <i>en gén</i>. HLD. <i>1, 5</i>.<p><b>Étym</b>. ἔριθος.`

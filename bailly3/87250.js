@@ -1,1 +1,0 @@
-lar[87250]=`<b>πρωτο·σπόρος, ος, ον</b>, qui sème, <i>càd</i>. qui engendre <i>ou</i> crée le premier, LUC. <i>Am. 32</i> ; COL. <i>61</i>.<p><b>Étym</b>. πρ. σπείρω.`

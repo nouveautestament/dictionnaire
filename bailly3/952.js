@@ -1,1 +1,0 @@
-lar[952]=`<b>ά, όν</b>, rustique, grossier, E. BYZ. <i>v°</i> ἀγρός.<p><b>Étym</b>. ἀγροῖκος.`

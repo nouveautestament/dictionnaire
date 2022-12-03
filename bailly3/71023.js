@@ -1,1 +1,0 @@
-lar[71023]=`<b>ὀλιγό·κερως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux petites cornes, GEOP. <i>18, 1, 3</i>.<p><b>Étym</b>. ὀλ. κέρας.`

@@ -1,1 +1,0 @@
-lar[20268]=`<b>α, ον</b>, du Bosphore, SOPH. <i>Aj. 885 ; Ant. 967</i> ; ANTH. <i>7, 551, 552, 569</i> ; οἱ βοσπόριοι, STR. <i>311,</i> les habitants du Bosphore.<p><b>Étym</b>. βόσπορος.`

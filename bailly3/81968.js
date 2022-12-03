@@ -1,1 +1,0 @@
-lar[81968]=`<b>Πολύ·καρπος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Polykarpos, <i>h</i>. ANTH. <i>1, 87, etc. ; 11, 346, etc</i>.<p><b>Étym</b>. <i>v</i>. πολύκαρπος.`

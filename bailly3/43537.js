@@ -1,1 +1,0 @@
-lar[43537]=`<b>εὐσχημονέω-ῶ</b>, avoir <i>ou</i> prendre un extérieur honnête, convenable, PLAT. <i>Leg. 732c</i>.<p><b>Étym</b>. εὐσχήμων.`

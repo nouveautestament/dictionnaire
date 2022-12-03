@@ -1,1 +1,0 @@
-lar[22310]=`<b>ου (τὸ)</b> courte sentence, AR. <i>Eq. 100 ; Nub. 320</i> ; LUC. <i>Par. 42 ; etc</i>.<p><b>Étym</b>. <i>dim. de</i> γνώμη.`

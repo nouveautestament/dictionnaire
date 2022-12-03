@@ -1,1 +1,0 @@
-lar[48969]=`<b>ἱματιο·κάπηλος, ου (ὁ)</b> <font color="purple">[ῑᾰᾰ]</font> marchand fripier, LUC. <i>M. cond. 38, etc</i>.<p><b>Étym</b>. ἱμάτιον, κάπηλος.`

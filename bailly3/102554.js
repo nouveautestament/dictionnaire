@@ -1,1 +1,0 @@
-lar[102554]=`<b>ὑπερ·ίημι</b> <font color="darkgreen">(<i>f</i>. ὑπερήσω, <i>ao</i>. ὑπερῆκα, <i>etc</i>.)</font> lancer au delà du point atteint par un des concurrents, OD. <i>8, 198</i>.<br><b><i>Moy.</i></b> passer par-dessus <i>ou</i> au delà, XÉNOPHAN. (HÉRACLITE GRAMM. <i>All. Hom. 44</i>).`

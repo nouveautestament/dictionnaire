@@ -1,1 +1,0 @@
-lar[71382]=`<b>ατος (τὸ)</b> gage, caution, PLUT. <i>Rom. 16</i>.<p><b>Étym</b>. ὁμηρεύω.`

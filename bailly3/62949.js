@@ -1,1 +1,0 @@
-lar[62949]=`<b>μαριλο·καύτης, ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> qui brûle du charbon, SOPH. <i>fr. 908</i>.`

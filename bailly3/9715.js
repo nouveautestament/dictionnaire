@@ -1,1 +1,0 @@
-lar[9715]=`<b>ατος (τὸ)</b> le contraire de la joie, AGATHON (SUID.).<p><b>Étym</b>. ἀντευφραίνω.`

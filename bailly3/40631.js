@@ -1,1 +1,0 @@
-lar[40631]=`<b>Ἑρμο·καϊκό·ξανθος, ου (ὁ)</b> <font color="purple">[ᾱῑ]</font> Hermo-Kaïko-Xanthos, <i>exemple de composé emphatique,</i> ARSTT. <i>Poet. 21</i>.`

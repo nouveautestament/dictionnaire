@@ -1,1 +1,0 @@
-lar[35012]=`<b>ἐν·ταφιάζω</b> <font color="purple">[τᾰ]</font> préparer l’ensevelissement, ANTH. <i>11, 125</i> ; PLUT. <i>M. 995c ;</i> SPT. <i>Gen. 50, 2</i> ; NT. <i>Matth. 26, 12 ; Joh. 19, 40</i>.<p><b>Étym</b>. ἐντάφιος.`

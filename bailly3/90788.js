@@ -1,1 +1,0 @@
-lar[90788]=`<b>σκευαγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> plier bagage, <i>d’où</i> s’en aller, émigrer, ESCHN. <i>46, 28 ; 65, 10</i> ; DÉM. <i>237, 21</i>.<p><b>Étym</b>. σκευαγωγός.`

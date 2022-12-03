@@ -1,1 +1,0 @@
-lar[83315]=`<b>πραϋ·τόκος, ος, ον</b> <font color="purple">[ᾱῠ]</font> qui enfante doucement, sans douleur, PHIL. <i>1, 577</i>.<p><b>Étym</b>. πραΰς, τίκτω.`

@@ -1,1 +1,0 @@
-lar[22205]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> ciseau de sculpteur, LUC. <i>Somn. 13</i>.<p><b>Étym</b>. γλύφω.`

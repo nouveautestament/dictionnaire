@@ -1,1 +1,0 @@
-lar[1352]=`<i>adv</i>., sans se tromper, POL. <i>6, 26, 4, etc.</i> ; DS. <i>1, 50</i>.`

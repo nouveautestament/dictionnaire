@@ -1,1 +1,0 @@
-lar[14175]=`<b>Ἀραφηνίδες Ἁλαί (αἱ)</b> Hales du dème Araphène, CALL. <i>Dian. 3, 173</i>.<p><b>Étym</b>. Ἀραφήν.`

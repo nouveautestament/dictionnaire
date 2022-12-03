@@ -1,1 +1,0 @@
-lar[52170]=`<b>κατα·βόσκω</b>, faire paître sur, <i>acc</i>. THCR. <i>Idyl. 15, 126</i>.<br><i>Pass.-moy. (f</i>. -ηθήσομαι ; <i>ao. moy</i>. -ησάμην) paître, GEOP. <i>2, 39, 12 (fut</i>.) ; LGS <i>2, 16 (ao.) ; fig. càd</i>. dévorer, dévaster, <i>en parl. de la peste, du malheur,</i> CALL. <i>Dian. 125</i> ; NIC. <i>Th. 244</i>.`

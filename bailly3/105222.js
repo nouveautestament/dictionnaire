@@ -1,1 +1,0 @@
-lar[105222]=`<b>έως (ὁ)</b> Phègée :<br><b>      1</b> <i>Troyen,</i> IL. <i>5, 11, 15</i>.<br><b>      2</b> <i>roi de Phocide,</i> HDT. <i>9, 26</i>.<p><b>Étym</b>. φηγός.`

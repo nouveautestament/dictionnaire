@@ -1,1 +1,0 @@
-lar[22016]=`<i>ou</i> <b>γίζι (ἡ)</b> <i>indécl</i>. sorte de cassia, <i>plante,</i> GAL. <i>13, 885</i>.`

@@ -1,1 +1,0 @@
-lar[102776]=`<b>ὑπέρ·πολυς, -πόλλη, -πολυ</b>, excessivement <i>ou</i> extrêmement abondant, ESCHL. <i>Pers. 794</i> ; XÉN. <i>Hell. 3, 2, 26</i> ; DÉM. <i>1073, 28</i> ; PLUT. <i>M. 4f</i>.<p><b>Étym</b>. ὑ. πολύς.`

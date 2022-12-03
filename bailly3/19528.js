@@ -1,1 +1,0 @@
-lar[19528]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. βεμβιναῖος RHIAN. (E. BYZ.).<p>➳ <i>Ion</i>. βεμβινήτης, <i>gén</i>. -αο, PANYAS. (E. BYZ.).`

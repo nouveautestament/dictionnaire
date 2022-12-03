@@ -1,1 +1,0 @@
-lar[101502]=`<b>α, ον</b>, aquatique, OLYMPIOD. <i>(Bkk. p. 1426).</i><p><b>Étym</b>. ὕδωρ.`

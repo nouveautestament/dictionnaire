@@ -1,1 +1,0 @@
-lar[102665]=`<b>ὑπερ·νεωλκέω-ῶ</b>, tirer des vaisseaux à terre, POL. <i>8, 36, 12</i> ; STR. <i>278</i> ; PLUT. <i>Ant. 69</i>.`

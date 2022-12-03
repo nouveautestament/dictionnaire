@@ -1,1 +1,0 @@
-lar[90912]=`<b>α, ον</b>, de Skillunte, PLUT. <i>Exil. 10</i> ; οἱ Σκιλλούντιοι, habitants de Skillunte, XÉN. <i>Hell. 6, 5, 2 etc</i>.<p><b>Étym</b>. Σκιλλοῦς.`

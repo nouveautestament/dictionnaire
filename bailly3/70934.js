@@ -1,1 +1,0 @@
-lar[70934]=`<b>ὀλεθρο·φόρος, ος, ον</b>, qui apporte la ruine, funeste, SPT. <i>4Macc. 8, 18</i>.<p><b>Étym</b>. ὄλεθρος, φέρω.`

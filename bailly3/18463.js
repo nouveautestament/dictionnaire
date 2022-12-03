@@ -1,1 +1,0 @@
-lar[18463]=`<b>ή, όν</b>, qui concerne le transport des fardeaux, BAS.<p><b>Étym</b>. ἀχθοφόρος.`

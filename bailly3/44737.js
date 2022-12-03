@@ -1,1 +1,0 @@
-lar[44737]=`<b>ζῳο·γενής, ής, ές</b>, de nature animale, PLAT. <i>Pol. 309c</i>.<p><b>Étym</b>. ζῷον, γένος.`

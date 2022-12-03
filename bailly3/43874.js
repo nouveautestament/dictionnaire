@@ -1,1 +1,0 @@
-lar[43874]=`<b>εὔ·ωρος, ος, ον</b>, qui se fait dans la juste saison, mûr, SOPH. <i>fr. 200</i>.<p><b>Étym</b>. εὖ, ὥρα.`

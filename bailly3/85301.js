@@ -1,1 +1,0 @@
-lar[85301]=`<b>προσ·αρτίως</b>, <i>adv</i>., dernièrement, SPT. <i>3Macc. 1, 19</i>.<p><b>Étym</b>. π. ἀρτίως.`

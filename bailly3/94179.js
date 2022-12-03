@@ -1,1 +1,0 @@
-lar[94179]=`<b>συμ·περιβάλλω</b>, envelopper entièrement, GAL. <i>14, 402</i>.`

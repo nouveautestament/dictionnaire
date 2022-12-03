@@ -1,1 +1,0 @@
-lar[34120]=`<b>ἑνδεκα·σύλλαβος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> de onze syllabes, hendécasyllabe, PLIN. MIN. <i>Ep. 4, 13, 2</i> ; HÉPH. <i>14, 2</i>.<p><b>Étym</b>. ἕ. συλλαβή.`

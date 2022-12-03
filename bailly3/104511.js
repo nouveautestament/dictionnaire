@@ -1,1 +1,0 @@
-lar[104511]=`<b>Ὑψι·μέδων</b>, <i>voc</i>. <b>Ὑψίμεδον (ὁ)</b> <font color="purple">[ῐ]</font> Hypsimédôn, <i>h</i>. ANTH. <i>App. 298</i>.<p><b>Étym</b>. <i>v</i>. ὑψιμέδων.`

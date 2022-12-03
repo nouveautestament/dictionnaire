@@ -1,1 +1,0 @@
-lar[78899]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> grande tristesse, affliction, DL. <i>7, 97</i>.<p><b>Étym</b>. περίλυπος.`

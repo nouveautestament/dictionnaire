@@ -1,1 +1,0 @@
-lar[23018]=`<b>(ὁ)</b> Daïpharnès, <i>Perse,</i> XÉN. <i>Cyr. 8, 3, 21</i>.`

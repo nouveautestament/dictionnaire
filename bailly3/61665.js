@@ -1,1 +1,0 @@
-lar[61665]=`<b>ου (ὁ)</b> = <i>lat</i>. Lucinus, <i>n. d’h. rom</i>. PLUT. <i>Mar. 45</i>.`

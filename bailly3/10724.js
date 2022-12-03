@@ -1,1 +1,0 @@
-lar[10724]=`<b>ἀ·νύμφευτος, ος, ον :<br>      1</b> non marié, SOPH. <i>El. 165</i>.<br><b>      2</b> <i>p. suite,</i> né d’un mariage qui n’a pas été heureux, SOPH. <i>Ant. 980</i>.`

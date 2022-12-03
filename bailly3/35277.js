@@ -1,1 +1,0 @@
-lar[35277]=`<b>ἑξά·γωνος, ος, ον</b> <font color="purple">[ᾰ]</font> à six angles, hexagonal ; τὸ ἑξάγωνον, ARSTT. <i>Cæl. 3, 8, 1 ; H.A. 5, 23, 2,</i> hexagone ; ὁ ἑξ. ἀριθμός, NICOM. <i>Arithm. 121,</i> le nombre hexagonal, <i>formé par l’addition du</i> τρίγωνος <i>au</i> πεντάγωνος <i>correspondant, c. 6, 15, 28</i>.<p><b>Étym</b>. ἕξ, γωνία.`

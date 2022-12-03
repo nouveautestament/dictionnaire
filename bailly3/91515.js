@@ -1,1 +1,0 @@
-lar[91515]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> sorte de pioche <i>ou</i> de hoyau à deux branches, AR. <i>Nub. 1486, 1500, Av. 602, Pax 546</i> ; XÉN. <i>Cyr. 6, 2, 34</i> ; PLAT. <i>Rsp. 370d</i>.`

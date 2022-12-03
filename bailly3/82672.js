@@ -1,1 +1,0 @@
-lar[82672]=`<b>πονηρο·κρατία, ας (ἡ)</b> <font color="purple">[ρᾰ]</font> domination des méchants, DH. <i>8, 5</i>.<p><b>Étym</b>. π. κράτος.`

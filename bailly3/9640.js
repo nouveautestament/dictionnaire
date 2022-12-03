@@ -1,1 +1,0 @@
-lar[9640]=`<b>ἀντ·επελαύνω</b> <font color="darkgreen">(<i>impf</i>. -επήλαυνον)</font> pousser mutuellement (son cheval) contre, se lancer mutuellement contre, APP. <i>Lib. 26</i>.`

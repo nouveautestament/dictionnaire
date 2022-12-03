@@ -1,1 +1,0 @@
-lar[90175]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> atelier de forgeron, STR. <i>19, etc</i>.<p><b>Étym</b>. σιδηρουργός.`

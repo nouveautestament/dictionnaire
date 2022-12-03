@@ -1,1 +1,0 @@
-lar[52484]=`<b>ου (τὸ)</b> enveloppe d’un fruit, capsule, TH. <i>H.P. 4, 10, 3</i>.<p><b>Étym</b>. κατάκαρπος.`

@@ -1,1 +1,0 @@
-lar[12129]=`<b>ἀπο·βιβρώσκω</b> (<i>part. ao. pass</i>. ἀποβρωθείς) ronger, dévorer, ANTH. <i>7, 294</i>.`

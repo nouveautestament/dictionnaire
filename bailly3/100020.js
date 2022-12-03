@@ -1,1 +1,0 @@
-lar[100020]=`<b>ή, όν</b>, tournant, changeant, variable, ARSTT. <i>Mund. 2, 10</i> ; PLUT. <i>M. 883e ;</i> SEXT. <i>M. 7, 434</i>.<p><b>Étym</b>. τρέπω.`

@@ -1,1 +1,0 @@
-lar[74825]=`<b>ων (οἱ)</b> les Panæes, <i>pple thrace,</i> THC. <i>2, 101</i>.`

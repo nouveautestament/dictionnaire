@@ -1,1 +1,0 @@
-lar[14386]=`<b>ου (ὁ)</b> Ardalos, <i>poète de Trœzène,</i> PLUT. <i>M. 149f</i>.`

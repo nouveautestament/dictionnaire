@@ -1,1 +1,0 @@
-lar[109244]=`<b>χρυσό·πρασος, ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> sorte de pierre précieuse d’un vert de poireau à reflets dorés, NT. <i>Apoc. 21, 20</i>.<p><b>Étym</b>. χρ. πράσον.`

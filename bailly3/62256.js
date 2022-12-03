@@ -1,1 +1,0 @@
-lar[62256]=`<b>ης</b>, <i>adj. f. c</i>. Μαγνήσιος THCR. <i>Idyl. 22, 79</i> ; ἡ Μ. ORPH. <i>Lith. 302,</i> aimant.<p><b>Étym</b>. <i>v</i>. Μάγνης.`

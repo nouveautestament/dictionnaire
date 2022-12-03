@@ -1,1 +1,0 @@
-lar[76781]=`<b>παρ·εργολαβέω-ῶ</b> <font color="purple">[λᾰ]</font> faire en sus du devis comme œuvre accessoire, PHIL. <i>4, 541</i>.`

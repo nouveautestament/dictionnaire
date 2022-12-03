@@ -1,1 +1,0 @@
-lar[44311]=`<b>ἑψέω-ῶ</b>, <i>c</i>. ἕψω.<p>➳ <i>Prés. rare,</i> DIOSC. <i>4, 140</i> ; EUP. <i>18, p. 103 ; impf. 3 sg</i>. ἕψεε HDT. <i>1, 48</i> (ἕψε Bredow ; ἧψε <i>Dind., Stein) ; les fut</i>. ἑψήσω, <i>ao</i>. ἥψησα, <i>ao. pass</i>. ἡψήθην, <i>pf</i>. ἥψημαι <i>servent à la conjug. de</i> ἕψω, <i>seul us. en attique au prés. et à l’impf</i>.`

@@ -1,1 +1,0 @@
-lar[825]=`<b>Ἀγορά·κριτος, ου (ὁ)</b> <font color="purple">[ᾰᾱῐ]</font> Agorakritos, <i>h</i>. AR. <i>Eq. 1257</i>.<p><b>Étym</b>. ἀγ. κρίνω.`

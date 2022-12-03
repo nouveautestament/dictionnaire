@@ -1,1 +1,0 @@
-lar[59571]=`<font color="darkgreen">(<i>sbj. ao. 3 sg</i>. -άξῃ)</font> laper, NIC. <i>Th. 477</i>.<p><b>Étym</b>. <i>cf</i>. λάπτω <i>et</i> λαφύσσω.`

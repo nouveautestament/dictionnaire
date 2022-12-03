@@ -1,1 +1,0 @@
-lar[106351]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> φλέγμα, SOTAD. (STOB. <i>Fl. 22, 26</i>).`

@@ -1,1 +1,0 @@
-lar[2912]=`<b>ητος (ἡ)</b> laideur, difformité, PLAT. <i>Gorg. 525a</i>.<p><b>Étym</b>. αἰσχρός.`

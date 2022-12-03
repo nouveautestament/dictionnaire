@@ -1,1 +1,0 @@
-lar[65082]=`<b>μετ·εκδέχομαι</b>, recevoir ensuite, DP. <i>74</i> ; P. SIL. <i>Ecphr. ag. Soph. 236</i>.`

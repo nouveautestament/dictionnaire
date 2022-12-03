@@ -1,1 +1,0 @@
-lar[85797]=`<b>προσ·ευκαιρέω-ῶ</b>, vaquer à, s’adonner à, <i>dat</i>. PLUT. <i>M. 316a, 1149d ;</i> ARR. <i>Epict. 3, 22, 72</i> ; πρ. χωρίοις, PLUT. <i>M. 1150b</i>, fréquenter le pays.`

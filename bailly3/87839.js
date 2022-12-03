@@ -1,1 +1,0 @@
-lar[87839]=`<b>ατος (τὸ)</b> <font color="purple">[ῠᾱμ]</font> fomentation, ARSTT. <i>Probl. 1, 55, etc</i>.<p>➳ <i>Ion</i>. πυρίημα, HPC. <i>298, 48</i>.<p><b>Étym</b>. πυριάω.`

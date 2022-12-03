@@ -1,1 +1,0 @@
-lar[66942]=`<b>μοχθηρόω-ῶ</b>, rendre pénible, <i>d’où au pass</i>. être pénible, AQU. <i>Job 6, 25</i>.<p><b>Étym</b>. μοχθηρός.`

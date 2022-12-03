@@ -1,1 +1,0 @@
-lar[57997]=`<b>ου (ὁ)</b> Krœos, <i>Titan,</i> ORPH. <i>fr. 8</i>.`

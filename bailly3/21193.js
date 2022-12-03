@@ -1,1 +1,0 @@
-lar[21193]=`<b>ου (τὸ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> un peu de lait, M. ANT. <i>5, 4</i>.<br><b>      2</b> au <i>plur</i>. laitage, ALCIPHR. <i>fr. 6, 10 var</i>.<p><b>Étym</b>. <i>dim. de</i> γάλα.`

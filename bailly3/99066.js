@@ -1,1 +1,0 @@
-lar[99066]=`<b>ου (ὁ)</b> = <i>lat</i>. Tigellinus, <i>n. d’h. rom</i>. PLUT. <i>Galb. 2, 8, etc</i>.`

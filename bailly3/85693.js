@@ -1,1 +1,0 @@
-lar[85693]=`<b>προσ·επιλέγω</b>, ajouter à ce qu’on a dit, TH. <i>C.P. 1, 21, 7</i> ; POL. <i>22, 7, 14, etc.</i><br><b><i>Moy.</i></b> choisir en outre, <i>acc</i>. DS. <i>19, 6</i>.`

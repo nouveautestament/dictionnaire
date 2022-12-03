@@ -1,1 +1,0 @@
-lar[66894]=`<b>μούσ·αρχος, ου (ὁ)</b> maître des Muses, <i>en parl. d’Apollon, Fr. adesp. 108 Bgk</i>.<p><b>Étym</b>. μοῦσα, ἄρχω.`

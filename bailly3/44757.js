@@ -1,1 +1,0 @@
-lar[44757]=`<b>ζωό·μορφος, ος, ον</b>, qui a la forme d’un animal, PLUT. <i>Num. 8</i>.<p><b>Étym</b>. ζῷον, μορφή.`

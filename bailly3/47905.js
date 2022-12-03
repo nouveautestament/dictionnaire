@@ -1,1 +1,0 @@
-lar[47905]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> pensée, SPT. <i>1Par. 28, 9</i>.<p><b>Étym</b>. θυμέω.`

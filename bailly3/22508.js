@@ -1,1 +1,0 @@
-lar[22508]=`<b>Γοργωπὶς λίμνη (ἡ)</b> le lac Gorgôpis, <i>en Mégaride,</i> ESCHL. <i>Ag. 302</i>.`

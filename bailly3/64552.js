@@ -1,1 +1,0 @@
-lar[64552]=`<b>μεσο·πόρφυρος, ος, ον</b> <font color="purple">[ῠ]</font> mêlé de pourpre, PLUT. <i>Arat. 53</i> ; DC. <i>78, 3</i> ; τὰ μεσοπόρφυρα, SPT. <i>Esaï. 3, 20,</i> vêtements dont le fond est de couleur pourpre.<p><b>Étym</b>. μ. πορφύρα.`

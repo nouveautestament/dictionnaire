@@ -1,1 +1,0 @@
-lar[60736]=`<b>ῶνος (ὁ)</b> Lèthæôn, <i>mt. d’Italie,</i> LYC. <i>703</i>.`

@@ -1,1 +1,0 @@
-lar[95144]=`<b>συν·διαρθρόω-ῶ</b>, articuler <i>ou</i> prononcer distinctement, ARSTT. <i>Metaph. 1, 8, 11</i>.`

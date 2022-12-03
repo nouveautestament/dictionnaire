@@ -1,1 +1,0 @@
-lar[47494]=`<b>όεσσα, όεν</b>, qui n’est encore qu’une semence, un embryon, OPP. <i>C. 3, 522</i>.<p><b>Étym</b>. θορός.`

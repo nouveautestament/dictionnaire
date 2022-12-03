@@ -1,1 +1,0 @@
-lar[97376]=`<b>ταινιόω-ῶ</b>, ceindre de bandelettes <i>ou</i> orner de rubans, THC. <i>4, 121</i> ; XÉN. <i>Hell. 5, 1, 3 ; au pass</i>. AR. <i>Ran. 393</i> ; DS. <i>17, 101</i>.<br><b><i>Moy.</i></b> se ceindre de bandelettes <i>ou</i> se parer de rubans, AR. <i>Eccl. 1032</i>.<p><b>Étym</b>. ταινία.`

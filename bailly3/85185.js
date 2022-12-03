@@ -1,1 +1,0 @@
-lar[85185]=`<b>προσ·ανατρέπω</b>, renverser <i>ou</i> détruire en outre, SPT. <i>Sir. 13, 27</i>.`

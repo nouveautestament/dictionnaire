@@ -1,1 +1,0 @@
-lar[41863]=`<b>εὐ·διάκοπος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à couper <i>ou</i> à déblayer, POL. <i>3, 46, 4</i>.<p><b>Étym</b>. εὖ, διακόπτω.`

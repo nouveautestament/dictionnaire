@@ -1,1 +1,0 @@
-lar[11053]=`<b>Ἀορρατία λίμνη (ἡ)</b> le lac Aorratia, <i>dans l’Inde,</i> EL. <i>N.A. 17, 40</i>.`

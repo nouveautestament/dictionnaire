@@ -1,1 +1,0 @@
-lar[101686]=`<b>ου (ὁ)</b> <font color="purple">[ῡᾰῐ]</font> fils d’Hylakos, OD. <i>14, 204</i>.<p><b>Étym</b>. *Ὕλακος.`

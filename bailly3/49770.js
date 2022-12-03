@@ -1,1 +1,0 @@
-lar[49770]=`<i>adv</i>., avec une égale tension, avec une force égale, DIOSC. <i>1, 83</i>.`

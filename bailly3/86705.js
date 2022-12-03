@@ -1,1 +1,0 @@
-lar[86705]=`<b>προσωποληπτέω-ῶ</b>, avoir égard aux personnes, NT. <i>Jac. 2, 9</i>.<p><b>Étym</b>. προσωπολήπτης.`

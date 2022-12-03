@@ -1,1 +1,0 @@
-lar[37055]=`<b>ή, όν :<br>      1</b> qui survient, soudain, STR. <i>12, 3, 27 Kram.</i><br><b>      2</b> accidentel, contingent, <i>t. de philosophie stoïcienne,</i> CHRYSIPP. (PLUT. <i>M. 1045b</i>).<p><b>Étym</b>. ἐπελεύσομαι, <i>fut. de</i> ἐπέρχομαι.`

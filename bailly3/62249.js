@@ -1,1 +1,0 @@
-lar[62249]=`<b>ατος (τὸ)</b> pâte pétrie, <i>d’où</i> onguent sec, ANDROM. (GAL. <i>13, 877).</i><p><b>Étym</b>. μάσσω.`

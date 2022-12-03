@@ -1,1 +1,0 @@
-lar[17671]=`<b>αὐτο·πυρίτης, ου (ὁ)</b> <font color="purple">[ῡῑ]</font> de farine pure : ἄρτος αὐτ. PHRYN. COM. (ATH. <i>118e</i>) ; HPC. <i>542, 56, etc. ou subst</i>. ὁ αὐτοπυρίτης, LUC. <i>Pisc. 45,</i> pain de farine pure.<p><b>Étym</b>. αὐτόπυρος.`

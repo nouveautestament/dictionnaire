@@ -1,1 +1,0 @@
-lar[59344]=`<b>λαβρ·αγόρης, ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> bavard insupportable, IL. <i>23, 479</i>.<p><b>Étym</b>. λάβρος, ἀγορεύω.`

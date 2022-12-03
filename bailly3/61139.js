@@ -1,1 +1,0 @@
-lar[61139]=`<b>λιμενή·οχος, ος, ον</b> <font color="purple">[ῐ]</font> pourvu d’un port, A.RH. <i>2, 965</i>.<p><b>Étym</b>. λιμήν, ἔχω.`

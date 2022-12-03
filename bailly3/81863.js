@@ -1,1 +1,0 @@
-lar[81863]=`<b>πολυ·δύναμος, ος, ον</b> <font color="purple">[ῠῠᾰ]</font> très puissant, STOB. <i>Ecl. 1, 840</i>.<p><b>Étym</b>. π. δύναμις.`

@@ -1,1 +1,0 @@
-lar[101889]=`<b>ὑπ·αίετος, ου (ὁ)</b> <font color="purple">[ῠ]</font> sorte d’aigle, A. LIB. <i>20</i>.`

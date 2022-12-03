@@ -1,1 +1,0 @@
-lar[104270]=`<b>ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> Hysakos, <i>h</i>. NONN. <i>D. 34, 23, 72, 88</i>.`

@@ -1,1 +1,0 @@
-lar[101378]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> santé, SEXT. <i>M. 8, 118</i>.<p><b>Étym</b>. ὑγιής.`

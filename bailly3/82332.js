@@ -1,1 +1,0 @@
-lar[82332]=`<b>πολύ·ρρην, ηνος (ὁ, ἡ)</b> riche en agneaux, <i>p. suite,</i> en troupeaux, NAUPACT. <i>fr. 2 ; d’ord. au pl</i>. IL. <i>9, 154, 296</i> ; HÉS. <i>fr. 80, 3 Göttling</i>.<p><b>Étym</b>. <i>p</i>. *πολύϝρην, <i>v</i>. ἀρήν.`

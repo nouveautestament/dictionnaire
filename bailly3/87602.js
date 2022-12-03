@@ -1,1 +1,0 @@
-lar[87602]=`<i>leçon fausse p</i>. πύυρ SIM. (HDN GR. <i>π. μ. λ. p. 919, 14), v</i>. πῦρ.`

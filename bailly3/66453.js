@@ -1,1 +1,0 @@
-lar[66453]=`<font color="purple">[ᾰ]</font> <i>adv</i>., isolément, individuellement, PLUT. <i>M. 744e</i>.`

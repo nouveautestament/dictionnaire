@@ -1,1 +1,0 @@
-lar[9194]=`<b>ῆς (ἡ)</b> action d’ouvrir, de déployer, CHRYS. <i>1, 950</i>.<p><b>Étym</b>. ἀνοίγω.`

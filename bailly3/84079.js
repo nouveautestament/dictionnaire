@@ -1,1 +1,0 @@
-lar[84079]=`<b>προ·εκκομίζω</b>, emporter, <i>particul</i>. porter en terre auparavant, HDT. <i>2, 63</i> ; PLUT. <i>Tim. 37</i>.<br><b><i>Moy.</i></b> emporter auparavant, HIPPIATR. <i>201, 10</i>.`

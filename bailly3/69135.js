@@ -1,1 +1,0 @@
-lar[69135]=`<b>νυκτι·κόραξ, ακος (ὁ)</b> <font color="purple">[ῐᾰκ]</font> corbeau de nuit, sorte de chouette, ARSTT. <i>H.A. 8, 3</i> ; STR. <i>823</i>.<p><b>Étym</b>. ν. κόραξ.`

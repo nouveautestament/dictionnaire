@@ -1,1 +1,0 @@
-lar[26182]=`<b>δι·εμπίπτω</b> <font color="darkgreen">(<i>ao.2 part</i>. διεμπεσόντας)</font> tomber sur, <i>avec</i> εἰς <i>et l’acc</i>. POL. <i>38, 1, 4</i>.`

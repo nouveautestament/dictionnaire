@@ -1,1 +1,0 @@
-lar[68193]=`<b>νεό·μυστος, ος, ον</b>, nouvellement initié, ORPH. <i>H. 42, 10</i>.<p><b>Étym</b>. ν. μύω.`

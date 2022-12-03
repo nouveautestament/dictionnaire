@@ -1,1 +1,0 @@
-lar[44780]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> action de manger des animaux <i>ou</i> de la chair d’animaux, ARSTT. <i>H.A. 9, 41, 13</i>.<p><b>Étym</b>. ζῳοφάγος.`

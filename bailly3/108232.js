@@ -1,1 +1,0 @@
-lar[108232]=`<b>ου (ὁ)</b> <i>autre n. du poisson</i> μύλλος, ATH. <i>118c</i>.`

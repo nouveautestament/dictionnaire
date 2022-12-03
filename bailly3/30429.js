@@ -1,1 +1,0 @@
-lar[30429]=`<b>(ἡ)</b> Eilénia, <i>l’Athèna du temple de Lagaria (Italie</i>), ARSTT. <i>Mir. 108</i>.`

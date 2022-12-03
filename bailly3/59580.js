@@ -1,1 +1,0 @@
-lar[59580]=`<b>ης (ἡ)</b> sorte d’orme, <i>arbre,</i> TH. <i>H.P. 3, 3, 1, etc</i>.<p><b>Étym</b>. <i>conj. p</i>. λακάθη.`

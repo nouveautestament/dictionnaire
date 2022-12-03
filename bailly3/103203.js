@@ -1,1 +1,0 @@
-lar[103203]=`<b>ῆς (ἡ) :<br>      1</b> action de courir sous, de pénétrer dans, ANT. <i>121, 32</i> ; CLÉOM. <i>Subl. 2, 3, p. 98 Balf. ; fig</i>. action de solliciter une protection, <i>d’où</i> obséquiosité, adulation, EL. <i>V.H. 14, 29</i>.<br><b>      2</b> lieu d’asile, refuge, abri, EL. <i>N.A. 16, 15, etc</i>.<p><b>Étym</b>. ὑποδραμεῖν.`

@@ -1,1 +1,0 @@
-lar[92693]=`<b>οῦ (ὁ)</b> celui qui enseigne les éléments, DYSC. <i>Synt. p. 303</i> ; RHÉT. <i>2, p. 903 W</i>.<p><b>Étym</b>. στοιχειόω.`

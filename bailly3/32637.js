@@ -1,1 +1,0 @@
-lar[32637]=`<b>ου (ὁ)</b> Élenkhos, <i>litt</i>. la Preuve personnifiée, LUC. <i>Philops. 4, Pisc. 17</i>.`

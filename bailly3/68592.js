@@ -1,1 +1,0 @@
-lar[68592]=`<b>νηπτικός, ή, όν</b>, sobre, tempérant, PLUT. <i>M. 709b</i>.<p><b>Étym</b>. νήφω.`

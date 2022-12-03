@@ -1,1 +1,0 @@
-lar[91450]=`<b>ατος (τὸ)</b> substance pour nettoyer <i>ou</i> dégraisser, HPC. <i>Acut. 395</i> ; PLUT. <i>Demetr. 27</i>.<p><b>Étym</b>. σμήχω ; <i>cf</i>. σμῆμα.`

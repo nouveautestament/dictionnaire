@@ -1,1 +1,0 @@
-lar[86221]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> visible, PLUT. <i>M. 316e</i>.<p><b>Étym</b>. <i>vb. de</i> προσοράω.`

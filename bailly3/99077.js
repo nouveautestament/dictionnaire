@@ -1,1 +1,0 @@
-lar[99077]=`<b>ῶν (οἱ)</b> les Tigurins, <i>pple helvétique,</i> PLUT. <i>Cæs. 18, etc</i>.`

@@ -1,1 +1,0 @@
-lar[96437]=`<b>εως (ἡ)</b> <font color="purple">[ῠῠ]</font> action de tisser ensemble, <i>d’où</i> tissu, PLAT. <i>Pol. 310e</i>.<p><b>Étym</b>. συνυφαίνω.`

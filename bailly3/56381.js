@@ -1,1 +1,0 @@
-lar[56381]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κογχίτης, AR. <i>fr. 240</i>.`

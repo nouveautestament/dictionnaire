@@ -1,1 +1,0 @@
-lar[10156]=`<b>ἀντι·παιανίζω</b> <font color="purple">[ᾱνι]</font> chanter de son côté le péan, EN. TACT. <i>Pol. 27, 2</i>.`

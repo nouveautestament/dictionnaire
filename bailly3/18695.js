@@ -1,1 +1,0 @@
-lar[18695]=`<b>υος (ὁ)</b> Babys :<br><b>      1</b> <i>roi d’Égypte,</i> HELLANIC.<br><b>      2</b> <i>mauvais joueur de flûte,</i> ATH. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[72522]=`<font color="darkgreen">(<i>seul. prés. et ao</i>. ὤργανα <font color="purple">[γᾱ]</font> <i>d’où opt. 2 sg</i>. ὀργάνειας) :</font><br><b>      1 <i>tr.</i></b> mettre en colère, irriter, SOPH. <i>O.R. 335</i>.<br><b>      2 <i>intr.</i></b> se mettre en colère, être irrité, SOPH. <i>Tr. 552</i> ; τινί, EUR. <i>Alc. 1106,</i> contre qqn.<p><b>Étym</b>. ὀργή.`

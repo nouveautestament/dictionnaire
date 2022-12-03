@@ -1,1 +1,0 @@
-lar[101431]=`<b>ὑγρό·φοιτος, ος, ον</b>, qui va sur les eaux <i>ou</i> à travers les eaux, LYC. <i>88</i>.<p><b>Étym</b>. ὑ. φοιτάω.`

@@ -1,1 +1,0 @@
-lar[19771]=`<b>βιο·πόνος, ος, ον</b>, qui gagne sa vie en travaillant, HIPPODAM. (STOB. <i>Fl. 43, 92, t. 2, p. 98, l. 25).</i><p><b>Étym</b>. β. πένομαι.`

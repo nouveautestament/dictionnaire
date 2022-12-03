@@ -1,1 +1,0 @@
-lar[33604]=`<b>ἐμπροσθό·κεντρος, ος, ον</b>, muni d’un aiguillon par devant, ARSTT. <i>H.A. 1, 5, 12</i>.<p><b>Étym</b>. ἔμπροσθε, κέντρον.`

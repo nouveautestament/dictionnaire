@@ -1,1 +1,0 @@
-lar[62500]=`<b>ας (ἡ)</b> action de lancer loin, STR. <i>168</i>.<p><b>Étym</b>. μακροβόλος.`

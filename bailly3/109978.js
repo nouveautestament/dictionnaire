@@ -1,1 +1,0 @@
-lar[109978]=`<b>ας (ἡ)</b> <font color="purple">[ῡμᾰ]</font> combat pour défendre sa vie, combat acharné, POL. <i>1, 59, 6</i>.<p><b>Étym</b>. <i>cf</i>. ψυχομαχέω.`

@@ -1,1 +1,0 @@
-lar[10306]=`<b>ἀντι·πονέομαι</b> <font color="darkgreen">(<i>impf</i>. ἀντεπονούμην)</font> travailler contre <i>ou</i> de son côté, APP. <i>Civ. 5, 33</i>.`

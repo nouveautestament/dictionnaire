@@ -1,1 +1,0 @@
-lar[55901]=`<b>Κλεό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kléomakhos, <i>h</i>. PLUT. <i>Amat. 17</i>.<p><b>Étym</b>. κλ. μάχη.`

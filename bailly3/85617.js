@@ -1,1 +1,0 @@
-lar[85617]=`<b>προσ·εξερείδομαι</b>, s’appuyer fortement sur, <i>dat</i>. POL. <i>3, 55, 4</i>.<p><b>Étym</b>. π. ἐξερείδω.`

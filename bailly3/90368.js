@@ -1,1 +1,0 @@
-lar[90368]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾱ]</font> application de sinapismes, ANTYLL. <i>297</i> ; DIOSC. <i>Ther. 3, etc</i>.<p><b>Étym</b>. σιναπίζω.`

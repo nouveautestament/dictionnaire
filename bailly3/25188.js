@@ -1,1 +1,0 @@
-lar[25188]=`<b>δια·παιδαγωγέω-ῶ</b> <font color="purple">[ᾰγ]</font> diriger l’éducation d’enfants, <i>d’où</i> diriger, <i>en gén</i>. PLAT. <i>Tim. 89d ; p. anal</i>. δ. ἡδοναῖς τὴν πόλιν, PLUT. <i>Per. 11</i>, façonner la cité aux plaisirs ; δ. τὸν καιρόν, PLUT. <i>Sert. 16</i>, faire naître les occasions, <i>sel. d’autres,</i> profiter des occasions.`

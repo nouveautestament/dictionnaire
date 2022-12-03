@@ -1,1 +1,0 @@
-lar[26535]=`<b>δι·κέφαλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à deux têtes, ARSTT. <i>H.A. 5, 4 ; G.A. 4, 4, 6</i> ; DC. <i>50, 7</i>.<p><b>Étym</b>. δίς, κεφαλή.`

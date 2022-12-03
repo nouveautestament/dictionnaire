@@ -1,1 +1,0 @@
-lar[39474]=`<b>ἐπι·τραυματίζω</b> <font color="purple">[μᾰ]</font> faire de nouvelles blessures, NYSS. <i>2, 236</i>.`

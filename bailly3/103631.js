@@ -1,1 +1,0 @@
-lar[103631]=`<b>ὑπ·οξίζω</b>, être légèrement acide, ATH. <i>114c</i>.`

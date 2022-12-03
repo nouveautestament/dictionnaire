@@ -1,1 +1,0 @@
-lar[61448]=`<b>άδος (ἡ)</b> <font color="purple">[ῐ]</font> empan, distance entre le pouce et l’index écartés, HÉRON.<p><b>Étym</b>. λιχανός.`

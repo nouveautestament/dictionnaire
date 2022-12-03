@@ -1,1 +1,0 @@
-lar[16434]=`<b>ἀ·σύλητος, ος, ον</b> <font color="purple">[ῡ]</font> inviolable, EUR. <i>Hel. 449</i> ; DC. <i>75, 14</i>.<p><b>Étym</b>. ἀ, συλάω.`

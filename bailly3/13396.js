@@ -1,1 +1,0 @@
-lar[13396]=`<font color="purple">[τᾰ]</font> <i>c</i>. ἀποστάζω :<br><b>      1 <i>tr.</i></b> SPT. <i>Amos 9, 12, etc.</i><br><b>      2 <i>intr.</i></b> LUC. <i>Am. 45</i>.`

@@ -1,1 +1,0 @@
-lar[54618]=`<b>οῦ (ὁ)</b> <font color="purple">[λᾰ]</font> <i>c</i>. κελάρυσμα CLÉM. <i>185</i>.`

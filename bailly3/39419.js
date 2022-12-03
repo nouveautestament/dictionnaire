@@ -1,1 +1,0 @@
-lar[39419]=`<b>ή, όν</b>, qui guette l’occasion de, PLUT. <i>M. 538e ; abs</i>. DL. <i>7, 114</i>.<p><b>Étym</b>. ἐπιτηρέω.`

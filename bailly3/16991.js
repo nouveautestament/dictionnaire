@@ -1,1 +1,0 @@
-lar[16991]=`<b>ἀ·τρύγητος, ος, ον</b> <font color="purple">[αῠ]</font> <i>c</i>. ἀτρυγής ARSTT. <i>Probl. 20, 23, 1</i> ; EUM. <i>466</i>.`

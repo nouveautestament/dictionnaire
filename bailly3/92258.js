@@ -1,1 +1,0 @@
-lar[92258]=`<b>ου (τὸ)</b> <font color="purple">[ᾱᾰ]</font> <i>dim. de</i> στεάτωμα HLD. CHIR. (ORIB. <i>37 Mai</i>).`

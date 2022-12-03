@@ -1,1 +1,0 @@
-lar[18090]=`<b>ἀ·φιλάργυρος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui n’aime pas l’argent, exempt d’avarice <i>ou</i> de cupidité, NT. <i>1Tim. 3, 3 ; Hebr. 13, 5</i>.`

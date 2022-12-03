@@ -1,1 +1,0 @@
-lar[18538]=`<b>ἀχρηστόω-ῶ</b>, faire un mauvais usage de, corrompre, <i>acc</i>. DH. <i>Comp. p. 360</i>.`

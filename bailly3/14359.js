@@ -1,1 +1,0 @@
-lar[14359]=`<b>ἀργυρο·στερής, ής, ές</b> <font color="purple">[ῠ]</font> qui dépouille qqn de son argent, ESCHL. <i>Ch. 1002</i>.<p><b>Étym</b>. ἄ. στερίσκω.`

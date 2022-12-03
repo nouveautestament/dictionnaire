@@ -1,1 +1,0 @@
-lar[44868]=`<b>*ἡβός</b>, <i>seul. dor</i>. <b>ἁβός, ά, όν</b>, mûr, THCR. <i>Idyl. 5, 109 dout</i>.`

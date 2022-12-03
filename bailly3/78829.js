@@ -1,1 +1,0 @@
-lar[78829]=`<b>περί·κροτος, ος, ον</b>, qui retentit tout autour, NONN. <i>D. 9, 117, etc</i>.<p><b>Étym</b>. π. κρότος.`

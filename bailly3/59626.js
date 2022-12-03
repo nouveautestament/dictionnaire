@@ -1,1 +1,0 @@
-lar[59626]=`<b>ωνος</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>adj. m</i>. de Lacédémone, lacédémonien, ATT.<br><b>      2</b> <i>subst</i>. Lakôn (<i>litt</i>. le laconien), <i>n. d’h</i>. THC. <i>3, 52</i>.`

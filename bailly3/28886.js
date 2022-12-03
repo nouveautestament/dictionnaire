@@ -1,1 +1,0 @@
-lar[28886]=`<b>δυσσεβέω-ῶ</b> (<i>seul. prés</i>.) être impie, ESCHL. <i>Eum. 909</i> ; SOPH. <i>Tr. 1245</i> ; EUR. <i>Med. 755</i>.<p><b>Étym</b>. δυσσεβής.`

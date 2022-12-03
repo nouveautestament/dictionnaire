@@ -1,1 +1,0 @@
-lar[27934]=`<b>(ὁ)</b> Dromokleidès, <i>h</i>. PLUT. <i>Demetr. 13 et 34</i>.<p><b>Étym</b>. <i>patr. de</i> *Δρομοκλῆς, <i>de</i> δρόμος, κλέος.`

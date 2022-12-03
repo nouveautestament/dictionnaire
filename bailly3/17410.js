@@ -1,1 +1,0 @@
-lar[17410]=`<b>ή, όν</b>, de sa propre race, ORIG.<p><b>Étym</b>. αὐτογενής.`

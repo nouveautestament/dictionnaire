@@ -1,1 +1,0 @@
-lar[15708]=`<b>ἅς</b> <font color="purple">[ᾱ]</font> <i>acc. pl. f. de</i> ὅς, ἥ, ὅ.`

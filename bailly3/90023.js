@@ -1,1 +1,0 @@
-lar[90023]=`<b>ης, ες</b>, qui convient à Sestius, à la façon de Sestius, <i>d’où cp. adv</i>. Σηστιωδέστερον, plus à la façon de Sestius, CIC. <i>Att. 7, 17, 2</i>.<p><b>Étym</b>. Σήστιος², -ωδης.`

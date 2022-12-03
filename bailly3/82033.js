@@ -1,1 +1,0 @@
-lar[82033]=`<b>Πολυ·κρίτη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Polykritè, <i>f</i>. PLUT. <i>Arist. 27, etc</i>.<p><b>Étym</b>. <i>v</i>. πολύκριτος.`

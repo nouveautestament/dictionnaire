@@ -1,1 +1,0 @@
-lar[85171]=`<b>προσ·αναπλάσσω</b>, <i>att</i>. <b>-πλάττω :<br>      1</b> modeler <i>ou</i> appliquer sur, <i>dat</i>. CLÉM. <i>234</i>.<br><b>      2</b> imaginer en outre, SEXT. <i>M. 11, 158 ; au pass. fig</i>. LGN <i>7</i>.`

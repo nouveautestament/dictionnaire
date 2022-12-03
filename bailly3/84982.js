@@ -1,1 +1,0 @@
-lar[84982]=`<b>προ·πολέμιος, ος, ον</b>, qui précède une guerre, DH. <i>3, 9</i> ; DC. <i>46, 33</i> ; τὰ προπολέμια (<i>s.-e</i>. ἱερά) DC. <i>50, 4,</i> sacrifices qui précèdent une guerre.<p><b>Étym</b>. π. πόλεμος.`

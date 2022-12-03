@@ -1,1 +1,0 @@
-lar[88559]=`<b>ῥιζο·φοίτητος, ος, ον</b>, qui provient de la racine, CHÆRÉM. (TH. <i>H.P. 5, 9, 5).</i><p><b>Étym</b>. ῥ. φοιτάω.`

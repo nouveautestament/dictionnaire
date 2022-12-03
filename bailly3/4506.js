@@ -1,1 +1,0 @@
-lar[4506]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> action de se rouler, HPC. <i>364, 13 ; 368, 26</i>.`

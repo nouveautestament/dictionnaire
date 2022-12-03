@@ -1,1 +1,0 @@
-lar[15434]=`<b>Ἀρτο·φάγος, ου (ὁ)</b> <font color="purple">[φᾰ]</font> Artophagos, <i>litt</i>. Mange-pain, <i>n. de rat,</i> BATR. <i>209</i>.<p><b>Étym</b>. <i>v</i>. ἀρτοφάγος.`

@@ -1,1 +1,0 @@
-lar[42563]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. εὐλάβεια, THGN. <i>118</i> ; ARÉT. <i>p. 80, 39</i>.`

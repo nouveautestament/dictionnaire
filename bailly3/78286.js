@@ -1,1 +1,0 @@
-lar[78286]=`<b>ου (ὁ)</b> habitant de la région ultérieure, JOS. <i>B.J. 2, 20, 4</i>.<p><b>Étym</b>. περαία.`

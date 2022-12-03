@@ -1,1 +1,0 @@
-lar[58435]=`<b>ήεσσα, ῆεν</b> <font color="purple">[ῡ]</font> illustre, glorieux, fameux, MAN. <i>2, 231, etc.</i> ; ANTH. <i>9, 697</i>.<p><b>Étym</b>. κῦδος.`

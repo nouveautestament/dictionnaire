@@ -1,1 +1,0 @@
-lar[62363]=`désirer vivement, ANTH. <i>9, 272</i>.<p><b>Étym</b>. <i>cf</i>. μαιμάω.`

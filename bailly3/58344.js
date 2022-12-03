@@ -1,1 +1,0 @@
-lar[58344]=`<b>ίτιδος</b> <font color="purple">[ᾰῑῐδ]</font> <i>adj. fém</i>. d’un bleu sombre, HPC. <i>688</i>.<p><b>Étym</b>. κυανός².`

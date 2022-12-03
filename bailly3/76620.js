@@ -1,1 +1,0 @@
-lar[76620]=`<b>παρ·εκλείπω :<br>      1</b> négliger, omettre, <i>acc</i>. ARSTD. <i>t. 1, 171</i>.<br><b>      2</b> faire défaut à, manquer à, <i>acc</i>. SPT. <i>Judith 11, 12</i>.`

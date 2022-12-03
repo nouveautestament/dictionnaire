@@ -1,1 +1,0 @@
-lar[87728]=`<b>πυο·ποιός, ός, όν</b> <font color="purple">[ῡ]</font> qui fait suppurer, DIOSC. <i>2, 181</i> ; ARÉT. <i>Cur. m. acut. 2, 6</i>.<p><b>Étym</b>. πῦον, ποιέω.`

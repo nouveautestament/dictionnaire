@@ -1,1 +1,0 @@
-lar[109009]=`<b>ας (ἡ)</b> langage honnête (en apparence), <i>d’où en mauv. part,</i> langage spécieux <i>ou</i> séduisant, NT. <i>Rom. 16, 18</i>.<p><b>Étym</b>. χρηστολόγος.`

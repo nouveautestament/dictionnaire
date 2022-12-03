@@ -1,1 +1,0 @@
-lar[49159]=`<b>ου (ὁ)</b> = <i>lat</i>. Juncus, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 2</i>.`

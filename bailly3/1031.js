@@ -1,1 +1,0 @@
-lar[1031]=`<b>ου (ὁ)</b> = <i>lat</i>. Ancharius, <i>n. d’h. rom</i>. PLUT. <i>Mar. 43, etc</i>.`

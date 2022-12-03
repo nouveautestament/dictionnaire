@@ -1,1 +1,0 @@
-lar[12738]=`<b>ἀπο·λείβω</b>, laisser tomber goutte à goutte : μέλι, DS. <i>17, 75,</i> du miel ; δάκρυα, ALCIPHR. <i>3, 21,</i> des larmes ; <i>abs</i>. répandre une libation, HÉS. <i>Th. 793</i>.<br><b><i>Moy.</i></b> tomber goutte à goutte de, <i>gén</i>. OD. <i>7, 107</i> ; HÉS. <i>Sc. 174</i>.`

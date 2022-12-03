@@ -1,1 +1,0 @@
-lar[104658]=`<b>(ὁ)</b> = <i>lat</i>. Fenestella, <i>écrivain rom</i>. PLUT. <i>Syll. 28, etc</i>.`

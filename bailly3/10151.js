@@ -1,1 +1,0 @@
-lar[10151]=`<i>v</i>. ἀντιάω ; <i>ne pas confondre avec</i> ἀντιόομαι.`

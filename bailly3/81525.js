@@ -1,1 +1,0 @@
-lar[81525]=`<b>πολεμό·κλονος, ος, ον</b>, qui excite le tumulte de la guerre, BATR. <i>4, 276</i> ; ORPH. <i>H. 32, 2</i>.<p><b>Étym</b>. π. κλόνος.`

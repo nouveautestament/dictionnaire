@@ -1,1 +1,0 @@
-lar[70010]=`<b>ὀβολίας ἄρτος (ὁ)</b> <font color="purple">[ᾱς]</font> pain du prix d’une obole, <i>jeu de mots sur</i> ὀβελίας, AR. <i>fr. 384 Dind</i>.<p><b>Étym</b>. ὀβολός.`

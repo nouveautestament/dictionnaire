@@ -1,1 +1,0 @@
-lar[52634]=`<b>κατα·κροαίνω</b> <font color="darkgreen">(<i>impf</i>. κατεκρόαινον)</font> frapper, ébranler, <i>acc</i>. NAZ. <i>Ep. 2, 1</i>.<p><b>Étym</b>. <i>cf</i>. κατακρούω.`

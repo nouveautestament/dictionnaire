@@ -1,1 +1,0 @@
-lar[53974]=`<b>οῦ (ὁ)</b> direction en droite ligne, CLÉM. <i>130</i>.<p><b>Étym</b>. κατευθύνω.`

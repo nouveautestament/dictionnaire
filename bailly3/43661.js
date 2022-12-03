@@ -1,1 +1,0 @@
-lar[43661]=`<b>εὐ·τύπωτος, ος, ον</b> <font color="purple">[ῠ]</font> facile à façonner, qui reçoit aisément une impression, GAL. <i>2, 202</i> ; PLUT. <i>M. 660c</i>.<p><b>Étym</b>. εὖ, τυπόω.`

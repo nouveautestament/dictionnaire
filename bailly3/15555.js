@@ -1,1 +1,0 @@
-lar[15555]=`<b>Ἀρχέ·τιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Arkhétimos, <i>h</i>. THC. <i>1, 29, etc</i>.<p><b>Étym</b>. ἄρχω, τιμή.`

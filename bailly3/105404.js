@@ -1,1 +1,0 @@
-lar[105404]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> CALL. <i>fr. 460, mauv. leç. p</i>. φειδός.`

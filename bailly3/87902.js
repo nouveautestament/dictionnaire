@@ -1,1 +1,0 @@
-lar[87902]=`<b>πυρί·σπορος, ος, ον</b> <font color="purple">[ῠ]</font> né du feu <i>ou</i> dans le feu, ORPH. <i>H. 44, 1</i> ; OPP. <i>C. 4, 304</i>.<p><b>Étym</b>. π. σπείρω.`

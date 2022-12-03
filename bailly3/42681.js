@@ -1,1 +1,0 @@
-lar[42681]=`<b>εὐ·μετάπειστος, ος, ον</b>, facile à faire changer d’avis, ARSTT. <i>Nic. 7, 9, 10</i> ; THÉM. <i>98b</i>.<p><b>Étym</b>. εὖ, μεταπείθω.`

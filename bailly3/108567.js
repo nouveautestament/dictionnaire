@@ -1,1 +1,0 @@
-lar[108567]=`<b>χλιάω-ῶ</b> (<i>seul. part. prés. épq. dat. sg</i>. χλιόωντι <font color="purple">[ῐο]</font>) être tiède, NIC. <i>Al. 110</i>.<p><b>Étym</b>. χλιαίνω.`

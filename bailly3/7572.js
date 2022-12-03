@@ -1,1 +1,0 @@
-lar[7572]=`<b>ἀνάρροος-ους, όου-ου (ὁ)</b> écoulement <i>ou</i> flux par en haut, HPC. <i>881h</i>.<p><b>Étym</b>. ἀναρρέω.`

@@ -1,1 +1,0 @@
-lar[65884]=`<b>άδος (ἡ)</b> <font color="purple">[ῐᾰδ]</font> <i>au plur</i>. les filles de Minyas, EL. <i>V.H. 3, 42</i>.<p><b>Étym</b>. Μινύας.`

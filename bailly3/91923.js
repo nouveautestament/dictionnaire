@@ -1,1 +1,0 @@
-lar[91923]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> <i>c</i>. σπινός PTOL. <i>Tetr. 3, p. 143, 6 ; 145, 15</i>.<p><b>Étym</b>. σπινός, -ωδης.`

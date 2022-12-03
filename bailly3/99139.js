@@ -1,1 +1,0 @@
-lar[99139]=`<b>ου (ὁ)</b> Tithymalos ; <i>n. de parasite,</i> ARISTOPHON (ATH. <i>238c, etc</i>.).<p><b>Étym</b>. <i>v</i>. τιθύμαλος.`

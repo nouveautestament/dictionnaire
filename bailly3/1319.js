@@ -1,1 +1,0 @@
-lar[1319]=`<i>adv</i>., indivisiblement, indissolublement, BITON <i>Mach. 108</i>.`

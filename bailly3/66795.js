@@ -1,1 +1,0 @@
-lar[66795]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> μόσχος, SPT. <i>Gen. 18, 7, 8 ; Lev. 9, 2, etc</i>.`

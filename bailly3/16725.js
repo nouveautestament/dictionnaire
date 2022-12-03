@@ -1,1 +1,0 @@
-lar[16725]=`<b>ας (ἡ)</b> privation d’enfants, <i>ou</i> de petits, ARSTT. <i>G.A. 3, 1 ; au plur</i>. ARSTT. <i>Pol. 2, 6</i>.<p><b>Étym</b>. ἄτεκνος.`

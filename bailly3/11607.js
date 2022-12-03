@@ -1,1 +1,0 @@
-lar[11607]=`<i>adv</i>., sans expérience de la guerre, APP. <i>Civ. 2, 71</i>.`

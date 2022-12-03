@@ -1,1 +1,0 @@
-lar[103898]=`<b>ὑπο·στόμια, ων (τὰ)</b> partie d’un vase immédiatement au-dessous de l’orifice, GEOP. <i>6, 8 dout</i>.<p><b>Étym</b>. ὑ. στόμα.`

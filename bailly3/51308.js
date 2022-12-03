@@ -1,1 +1,0 @@
-lar[51308]=`<b>καλό·πους</b>, <i>gén</i>. <b>ποδος (ὁ)</b> <font color="purple">[ᾱ]</font> forme en bois pour fabriquer des chaussures, PLAT. <i>Conv. 191a</i> (<i>var</i>. καλάπους) ; GAL. <i>6, 37</i>.<p><b>Étym</b>. κᾶλον, πούς.`

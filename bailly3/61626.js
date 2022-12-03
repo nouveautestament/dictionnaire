@@ -1,1 +1,0 @@
-lar[61626]=`<b>λοξ·όφθαλμος, ος, ον</b>, aux yeux de travers, PROCL. <i>Ptol. p. 204</i>.<p><b>Étym</b>. λ. ὀφθαλμός.`

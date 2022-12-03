@@ -1,1 +1,0 @@
-lar[8382]=`<b>ἀν·εξεύρετος, ος, ον</b>, qu’on ne peut parvenir à trouver, ARSTT. <i>Mund. 2, 8 ; d’où</i> incalculable, THC. <i>3, 87</i>.<p><b>Étym</b>. ἀν-, ἐξευρίσκω.`

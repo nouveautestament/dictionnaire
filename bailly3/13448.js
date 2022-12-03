@@ -1,1 +1,0 @@
-lar[13448]=`<b>ἀπο·στίλβω :<br>      1</b> briller par reflet, par réverbération, LUC. <i>Char. 11</i> ; ALCIPHR. <i>1, 1</i>.<br><b>      2</b> briller de : ἀπ. ἀλείφατος, OD. <i>3, 408,</i> briller de graisse ; <i>avec le dat</i>. LYC. <i>253</i> ; ANTH. <i>5, 26 ; abs</i>. briller, BATR. <i>296</i>.`

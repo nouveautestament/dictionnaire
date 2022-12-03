@@ -1,1 +1,0 @@
-lar[27731]=`<b>(τὸ)</b> <i>réc. c</i>. δόρυ, <i>nomin. fait d’après le gén</i>. δούρατος, <i>Th. Bergk, Poetæ lyrici græci, Fragmenta adespota, vol. 3, p. 689 et sq. 105</i> ; ANTH. <i>6, 97</i>.`

@@ -1,1 +1,0 @@
-lar[77301]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Patækiôn, <i>malfaiteur fameux,</i> ESCHN. <i>81, 9</i> ; PLUT. <i>M. 21d</i>.`

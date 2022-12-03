@@ -1,1 +1,0 @@
-lar[67087]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. μυκηθμός EUR. <i>Bacch. 690</i> ; CALL. <i>Del. 310</i> ; PLUT. <i>M. 972d ; en parl. d’une lionne,</i> THCR. <i>Idyl. 26, 21</i>.`

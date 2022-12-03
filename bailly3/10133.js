@@ -1,1 +1,0 @@
-lar[10133]=`<i>adv</i>., avec des dispositions hostiles, PHILSTR. <i>315</i>.`

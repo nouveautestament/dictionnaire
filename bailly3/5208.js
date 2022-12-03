@@ -1,1 +1,0 @@
-lar[5208]=`<b>α, ον</b> <font color="purple">[ᾰμ]</font> <i>c</i>. ἁμαξιαῖος, NONN. <i>D. 1, 251</i>.`

@@ -1,1 +1,0 @@
-lar[110008]=`<b>ας (ἡ) :<br>      1</b> froid, PLUT. <i>Alex. 3</i>.<br><b>      2</b> froideur, PLUT. <i>M. 1038f</i>.<p><b>Étym</b>. ψυχρός.`

@@ -1,1 +1,0 @@
-lar[88916]=`<font color="purple">[ῡ]</font> rider, NIC. <i>Al. 78</i>. ANTH. <i>14, 103</i>.<p><b>Étym</b>. ῥυσός.`

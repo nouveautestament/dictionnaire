@@ -1,1 +1,0 @@
-lar[75908]=`<b>παρα·μαίνομαι</b>, être tout à fait fou, AMIPS. (<i>Com. fr. 2, 704</i>).`

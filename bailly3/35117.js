@@ -1,1 +1,0 @@
-lar[35117]=`<b>ἐν·τραγῳδέω-ῶ</b> <font color="purple">[ᾰ]</font> déclamer avec une emphase tragique devant, <i>dat</i>. LUC. <i>Sat. 19</i>.`

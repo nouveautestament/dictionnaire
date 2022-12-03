@@ -1,1 +1,0 @@
-lar[22100]=`<b>γληνο·ειδής, ής, ές</b>, semblable à la cavité où s’emboîte un os, HPC. <i>Art. 838</i>.<p><b>Étym</b>. γλήνη, εἶδος.`

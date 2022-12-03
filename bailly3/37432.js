@@ -1,1 +1,0 @@
-lar[37432]=`<b>ἐπι·γαυριάω-ῶ</b>, se réjouir de, se glorifier de, <i>dat</i>. NYSS. <i>5, 759</i> ; BAS. <i>1, 1097</i>.`

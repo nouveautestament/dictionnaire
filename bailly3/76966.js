@@ -1,1 +1,0 @@
-lar[76966]=`<b>εως (ἡ)</b> <font color="purple">[ρῐ]</font> correspondance de sons <i>ou</i> de membres de phrase semblables, ISOCR. <i>233b ;</i> ARSTT. <i>Rhet. 3, 9, 9, etc</i>.<p><b>Étym</b>. παρισόω.`

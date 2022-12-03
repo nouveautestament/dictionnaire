@@ -1,1 +1,0 @@
-lar[37427]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> nuptial, PHIL. <i>2, 301</i>.<p><b>Étym</b>. ἐπίγαμος.`

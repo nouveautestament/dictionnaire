@@ -1,1 +1,0 @@
-lar[104962]=`<b>ῶν (οἱ)</b> les habitants de Phasèlis, PLUT. <i>Prov. 1, 72</i>.<p><b>Étym</b>. Φάσηλις.`

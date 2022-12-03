@@ -1,1 +1,0 @@
-lar[15295]=`<b>ου (ὁ)</b> Artémisios, <i>mois lacédémonien,</i> THC. <i>5, 19 ; ou macédonien,</i> JOS. <i>B.J. 2, 14, 4</i>.`

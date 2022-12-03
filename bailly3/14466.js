@@ -1,1 +1,0 @@
-lar[14466]=`<b>α (ὁ)</b> Arétas, <i>n. d’h. arabe,</i> SPT. <i>2Macc. 5, 8, etc</i>.`

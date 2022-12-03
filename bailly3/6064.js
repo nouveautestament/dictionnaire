@@ -1,1 +1,0 @@
-lar[6064]=`<b>ἀμφι·βόητος, ος, ον :<br>      1</b> qui résonne tout autour, CALL. <i>Del. 303</i>.<br><b>      2</b> dont le nom retentit alentour, ANTH. <i>9, 241</i>.<br><b>      3</b> à double sens, douteux, ANTAG. (DL. <i>4, 26 ; conj</i>. ἀμφίσβητον <i>Mein</i>.).<p>➳ <i>Contr. ion</i>. ἀμφίβωτος, ION (HSCH.).<p><b>Étym</b>. ἀ. βοάω.`

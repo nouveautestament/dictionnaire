@@ -1,1 +1,0 @@
-lar[108240]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> poitrine, <i>particul</i>. le sternum (<i>cf</i>. χέλυς) JOS. <i>A.J. 4, 4, 4</i>.<br><b>      2</b> voûte du ciel, HIPPARQ. <i>ad Arat. 243</i>.<p><b>Étym</b>. χελύνη.`

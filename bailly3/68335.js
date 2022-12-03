@@ -1,1 +1,0 @@
-lar[68335]=`<b>νερτερο·δρόμος, ου (ὁ)</b> courrier des enfers, LUC. <i>Per. 41</i>.<p><b>Étym</b>. ν. δραμεῖν.`

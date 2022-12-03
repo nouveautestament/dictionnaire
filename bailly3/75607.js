@@ -1,1 +1,0 @@
-lar[75607]=`<b>παρα·θραύω</b>, briser, GAL. <i>8, 504 ; fig</i>. PLAT. <i>Leg. 757e</i>.`

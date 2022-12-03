@@ -1,1 +1,0 @@
-lar[27719]=`<b>εως (ἡ)</b> asservissement, THC. <i>3, 10</i> ; PLAT. <i>Leg. 791d ;</i> PLUT. <i>Popl. 21</i> ; DC. <i>53, 7</i>.<p><b>Étym</b>. δουλόω.`

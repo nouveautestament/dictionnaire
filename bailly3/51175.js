@@ -1,1 +1,0 @@
-lar[51175]=`<b>Καλλι·όπη, ης (ἡ)</b> Kalliopè (Calliope) <i>la Muse de la poésie épique,</i> HH. <i>31, 2</i> ; HÉS. <i>Th. 79</i> ; ARSTT. <i>Rhet. 3, 2</i>.<p>➳ <i>Dor</i>. -όπα, PD. <i>O. 11, 18, etc</i>.<p><b>Étym</b>. <i>v</i>. καλλιόπη.`

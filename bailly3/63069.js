@@ -1,1 +1,0 @@
-lar[63069]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, plus long, plus grand, OD. <i>8, 203</i> ; PD. <i>O. 13, 162, etc.</i> ; ESCHL. <i>Ag. 598, etc. (cp. de</i> μακρός, <i>pour</i> *μακίων ; <i>cf</i>. ἐχθρός, ἐχθίων. <i>De ce cp. s’est formé un cp. dérivé, neutre</i> μασσότερον, DIUS).`

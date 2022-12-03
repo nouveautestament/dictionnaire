@@ -1,1 +1,0 @@
-lar[18243]=`<b>ας (ἡ)</b> Aphrodisia, <i>brg de Laconie,</i> THC.`

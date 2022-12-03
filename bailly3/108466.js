@@ -1,1 +1,0 @@
-lar[108466]=`<b>χιλόω-ῶ</b> <font color="purple">[ῑ]</font> mener au fourrage, au vert, au pré, <i>acc</i>. XÉN. <i>An. 7, 2, 21</i>.<p><b>Étym</b>. χιλός.`

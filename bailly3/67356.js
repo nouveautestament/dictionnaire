@@ -1,1 +1,0 @@
-lar[67356]=`<b>μυρσινο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> semblable au myrte, HH. <i>Merc. 81</i>.<p><b>Étym</b>. μυρσίνη, εἶδος.`

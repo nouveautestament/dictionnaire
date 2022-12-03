@@ -1,1 +1,0 @@
-lar[79336]=`<b>περισσοσυλλαβέω-ῶ</b> <font color="purple">[ᾰ]</font> être imparisyllabique, EM. <i>35, 41 ; 132, 1, etc</i>.`

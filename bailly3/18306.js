@@ -1,1 +1,0 @@
-lar[18306]=`<b>ἀφ·υλίζω</b> (<i>seul. ao</i>. ἀφύλισα) <font color="purple">[ῡ]</font> clarifier en filtrant, ANTH. <i>6, 191</i>.<p><b>Étym</b>. ἀπό, ὑλίζω.`

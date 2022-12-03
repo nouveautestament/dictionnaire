@@ -1,1 +1,0 @@
-lar[4928]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Alopè :<br><b>   I</b> <i>n. géogr.</i> :<br><b>      1</b> <i>v. de Phthiotide,</i> IL. <i>2, 682</i>.<br><b>      2</b> <i>v. de Locride,</i> THC. <i>2, 26</i>.<br><b>   II</b> <i>fille de Kerkyôn,</i> DÉM. <i>60, 31 Baiter-Sauppe, etc</i>.`

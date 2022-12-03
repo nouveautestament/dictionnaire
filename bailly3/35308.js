@@ -1,1 +1,0 @@
-lar[35308]=`<b>ἐξ·αιθερόω-ῶ</b>, changer en substance éthérée, PLUT. <i>M. 922b</i>.<p><b>Étym</b>. ἐξ, αἰθήρ.`

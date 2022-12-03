@@ -1,1 +1,0 @@
-lar[55198]=`puiser à l’aide d’une pompe <i>ou</i> comme une pompe, HÉRON <i>Spir. 174, etc.</i> ; ATHÉNÉE MÉC. <i>30, 4</i>.<p><b>Étym</b>. κήλων.`

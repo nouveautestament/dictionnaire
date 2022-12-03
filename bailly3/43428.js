@@ -1,1 +1,0 @@
-lar[43428]=`<b>εὔ·σκαρθμος, ος, ον</b>, qui bondit bien, agile, rapide, Q. SM. <i>14, 10</i> ; NIC. <i>Al. 325</i> ; ANTH. <i>6, 32</i> ;.<p>➳ <i>Épq</i>. ἐΰσκ. IL. <i>13, 31</i>.<p><b>Étym</b>. εὖ, σκαίρω.`

@@ -1,1 +1,0 @@
-lar[77370]=`<b>πατρο·γένειος, ος, ον</b>, né dans le pays, indigène, <i>ép. de Poséidon,</i> PLUT. <i>M. 730e</i>.<p><b>Étym</b>. π. γένος.`

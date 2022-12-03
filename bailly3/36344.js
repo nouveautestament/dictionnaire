@@ -1,1 +1,0 @@
-lar[36344]=`<b>ῶν (οἱ)</b> les Éordes, <i>pple au N. O. de la Macédoine,</i> HDT. <i>7, 185</i> ; THC. <i>2, 99</i>.`

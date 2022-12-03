@@ -1,1 +1,0 @@
-lar[50910]=`<b>ης (ἡ)</b> <font color="purple">[κᾰ]</font> <i>c</i>. κακοφραδία DÉMOCRIT. (STOB. <i>Fl. 73, 62</i>).`

@@ -1,1 +1,0 @@
-lar[34116]=`<b>ἑνδεκά·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> à onze lits, <i>càd</i>. très long, <i>ironiq. en parl. de la tête de Périclès,</i> TÉLÉCL. (PLUT. <i>Per. 3).</i><p><b>Étym</b>. ἕνδεκα, κλίνη.`

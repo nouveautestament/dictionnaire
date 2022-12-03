@@ -1,1 +1,0 @@
-lar[96636]=`<b>οῦ (ὁ)</b> ébranlement profond, <i>d’où</i> ouragan, tremblement de terre, <i>etc</i>. SPT. <i>3Reg. 2, 1 ; 19, 12</i>.<p><b>Étym</b>. συσσείω.`

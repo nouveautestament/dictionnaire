@@ -1,1 +1,0 @@
-lar[96505]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾱ]</font> Syrianos, <i>h</i>. ANTH. <i>7, 341</i>.<p><b>Étym</b>. Σύριος.`

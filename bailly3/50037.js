@@ -1,1 +1,0 @@
-lar[50037]=`<b>ας (ἡ)</b> peau desséchée de poisson dont on faisait des râpes <i>ou</i> des limes, GAL. <i>5, 157</i> ; RUF. <i>p. 177 Matthäi</i>.<p>➳ <i>Ion</i>. -ύη, HPC. <i>914e ;</i> GAL. <i>l. c</i>.<p><b>Étym</b>. ἰχθύς.`

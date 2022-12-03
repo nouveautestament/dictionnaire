@@ -1,1 +1,0 @@
-lar[94930]=`<b>συν·απόφασις, εως (ἡ)</b> <font color="purple">[φᾰ]</font> refus de concert avec qqn, ARSTT. <i>Metaph. 9, 5, 10</i>.<p><b>Étym</b>. σύν, ἀπόφημι.`

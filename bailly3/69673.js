@@ -1,1 +1,0 @@
-lar[69673]=`<b>ξυλο·λυχνοῦχος, ου (ὁ)</b> <font color="purple">[ῠ]</font> chandelier de bois, ALEX. (<i>Com. fr. 3, 517).</i><p><b>Étym</b>. ξ. λυχνοῦχος.`

@@ -1,1 +1,0 @@
-lar[17942]=`XÉN. <i>Mem. 1, 2, 34 ; plur</i>. ἀφεκτέα, AR. <i>Lys. 124,</i> il faut s’abstenir de, <i>gén</i>.<p><b>Étym</b>. <i>vb. de</i> ἀπέχομαι.`

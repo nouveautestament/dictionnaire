@@ -1,1 +1,0 @@
-lar[72781]=`<b>οῦ (ὁ)</b> recherche faite dès le point du jour, AQU. <i>Prov. 11, 27</i>.<p><b>Étym</b>. ὀρθρίζω.`

@@ -1,1 +1,0 @@
-lar[63794]=`<b>Μέλαινα ἄκρη (ἡ)</b> le promontoire Mélæna, <i>en Bithynie,</i> A.RH. <i>2, 651</i>.`

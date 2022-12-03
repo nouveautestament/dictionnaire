@@ -1,1 +1,0 @@
-lar[73221]=`<b>ή, όν</b>, qui frappe l’odorat, qu’on flaire, TH. <i>fr. 1, 90</i>.<p><b>Étym</b>. <i>vb. de</i> ὀσμάομαι.`

@@ -1,1 +1,0 @@
-lar[20600]=`<b>ου (ὁ)</b> enrouement, HPC. THC. <i>2, 49</i> ; ARSTT. <i>H.A. 8, 21, 1</i>.`

@@ -1,1 +1,0 @@
-lar[109066]=`<b>χρονο·κράτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> maître du temps, qui commande aux temps, <i>t. d’astrol</i>. PROCL. <i>Ptol. p. 290</i>.<p><b>Étym</b>. χρ. κρατέω.`

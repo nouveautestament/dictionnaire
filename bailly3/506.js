@@ -1,1 +1,0 @@
-lar[506]=`<i>adv</i>., lâchement, EUR. <i>I.A. 1458, etc.</i> ; οὐκ ἀγεννῶς, noblement, PLAT. <i>Charm. 158e, ou</i> hardiment. PLAT. <i>Phædr. 264b</i>.<p><b>Étym</b>. ἀγεννής.`

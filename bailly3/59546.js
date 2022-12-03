@@ -1,1 +1,0 @@
-lar[59546]=`<b>λαιμοτομέω-ῶ</b>, couper la gorge à, égorger, <i>acc</i>. A.RH. <i>2, 840</i> ; STR. <i>7</i> ; PLUT. <i>Oth. 2 ; abs</i>. A.RH. <i>4, 1601</i>.<p><b>Étym</b>. λαιμοτόμος.`

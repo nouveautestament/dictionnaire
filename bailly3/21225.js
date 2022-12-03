@@ -1,1 +1,0 @@
-lar[21225]=`<b>εσσα, εν</b> <font color="purple">[γᾰ]</font> blanc comme du lait, NONN. <i>D. 22, 18</i>.<p><b>Étym</b>. γάλα.`

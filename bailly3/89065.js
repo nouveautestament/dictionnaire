@@ -1,1 +1,0 @@
-lar[89065]=`<b>ου (ὁ)</b> Sabylinthos, <i>h</i>. THC. <i>2, 80</i>.`

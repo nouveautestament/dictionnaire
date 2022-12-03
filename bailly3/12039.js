@@ -1,1 +1,0 @@
-lar[12039]=`<b>ἀ·πλεονέκτητος, ος, ον :<br>      1</b> sans cupidité, sans ambition, CLÉM. <i>663, 26</i>.<br><b>      2</b> sans surplus, THEOL. <i>p. 34, 6</i>.<p><b>Étym</b>. ἀ, πλεονεκτέω.`

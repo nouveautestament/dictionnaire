@@ -1,1 +1,0 @@
-lar[31991]=`<b>ἐκ·ραβδίζω</b>, chasser à coups de verges, AR. <i>Lys. 576</i>.<p><b>Étym</b>. ἐκ, ῥάβδος.`

@@ -1,1 +1,0 @@
-lar[79791]=`<b>      1</b> imiter les Perses, STR. <i>520</i>.<br><b>      2</b> parler la langue persane, XÉN. <i>An. 4, 5, 34</i> ; ARR. <i>An. 7, 6, 3, etc</i>.<p><b>Étym</b>. Πέρσης².`

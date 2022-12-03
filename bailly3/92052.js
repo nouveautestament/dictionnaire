@@ -1,1 +1,0 @@
-lar[92052]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> goutte qui découle, AQU. <i>Prov. 19, 13</i>.<p><b>Étym</b>. στάζω.`

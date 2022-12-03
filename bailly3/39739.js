@@ -1,1 +1,0 @@
-lar[39739]=`<b>ἐπι·χωνεύω</b>, fondre par-dessus, PHIL. PARADOX. <i>VII mir. c. 4</i>.`

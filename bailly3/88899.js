@@ -1,1 +1,0 @@
-lar[88899]=`<b>ων (αἱ)</b> Rhypes, <i>v. d’Achaïe,</i> HDT. <i>1, 145, etc</i>.<p>➳ <font color="purple">[ῠ]</font> ESCHL. <i>fr. 394</i> ; <font color="purple">[ῡ]</font> NIC. <i>Th. 215</i>.`

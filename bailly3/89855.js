@@ -1,1 +1,0 @@
-lar[89855]=`<b>ου (τὸ)</b> <font color="purple">[ρῑ]</font> absinthe marine (<i>Artemisia maritima</i> L.) <i>plante,</i> GAL. <i>13, 126</i> ; DIOSC. <i>3, 27</i> (<i>var</i>. σέριφος).`

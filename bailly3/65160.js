@@ -1,1 +1,0 @@
-lar[65160]=`<b>μετ·ηνέμιος, ος, ον</b>, aussi rapide que le vent, A. PL. <i>62</i>.<p><b>Étym</b>. μ. ἄνεμος.`

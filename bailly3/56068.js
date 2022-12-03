@@ -1,1 +1,0 @@
-lar[56068]=`<b>ου (τὸ)</b> <font color="purple">[ῑῐδ]</font> petit lit, AR. <i>Lys. 916</i> ; PLUT. <i>M. 781e, etc</i>.<p><b>Étym</b>. <i>dim. de</i> κλίνη.`

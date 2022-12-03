@@ -1,1 +1,0 @@
-lar[101771]=`<b>ὑμε·δαπός, ή, όν</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> de votre pays, votre compatriote, ATH. <i>366a.</i><br><b>      2</b> <i>postér</i>. votre (<i>c</i>. ὑμέτερος) CLÉM. <i>35</i>.<p><b>Étym</b>. ὑμεῖς, -δαπος.`

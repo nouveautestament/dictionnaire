@@ -1,1 +1,0 @@
-lar[90609]=`<i>adv</i>., gauchement, maladroitement, AR. <i>Eccl. 644, etc</i>.<p><b>Étym</b>. σκαιός.`

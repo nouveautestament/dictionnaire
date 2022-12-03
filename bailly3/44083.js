@@ -1,1 +1,0 @@
-lar[44083]=`<b>ἐφ·ιμείρω</b> <font color="purple">[ῑ]</font> (<i>seul. prés</i>.) désirer : τινός, ANTH. <i>5, 269</i> ; NONN. <i>D. 14, 355</i> ; τι, NIC. (ATH. <i>683f</i>) qqe ch. ; <i>avec un inf</i>. MUS. <i>80</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ARAT. <i>975</i>.<p><b>Étym</b>. ἐπί, ἱ.`

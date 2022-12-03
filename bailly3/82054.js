@@ -1,1 +1,0 @@
-lar[82054]=`<b>πολυ·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠῡ]</font> aux flots agités, houleux, SOL. <i>El. 13 (4), 19 Bgk</i> ; EMPÉD. <i>235 Mullach</i>.<p><b>Étym</b>. π. κῦμα.`

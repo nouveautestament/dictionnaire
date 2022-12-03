@@ -1,1 +1,0 @@
-lar[37393]=`<b>*ἐπι·βράχω</b> (<i>seul. ao.2, 3 sg</i>. ἐπέβραχε <font color="purple">[ᾰ]</font>) résonner, retentir, Q. SM. <i>5, 498, etc</i>.`

@@ -1,1 +1,0 @@
-lar[6288]=`<b>ἀμφι·παρα·σχεδόν</b>, <i>adv</i>., dans les environs de, à peu près, PROCL.`

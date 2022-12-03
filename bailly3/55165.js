@@ -1,1 +1,0 @@
-lar[55165]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> coquillage, EPICH. (ATH. <i>85c</i>).`

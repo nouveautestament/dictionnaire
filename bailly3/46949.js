@@ -1,1 +1,0 @@
-lar[46949]=`<b>θερμο·κοίλιος, ος, ον</b>, qui a le bas-ventre brûlant, HPC. <i>1180g</i>.<p><b>Étym</b>. θ. κοιλία.`

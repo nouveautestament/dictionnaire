@@ -1,1 +1,0 @@
-lar[106954]=`<b>ου</b> <font color="purple">[μᾰᾱ]</font> <i>adj. m</i>. orgueilleux, arrogant, PLUT. <i>Ant. 2</i>.<p><b>Étym</b>. φρύαγμα.`

@@ -1,1 +1,0 @@
-lar[9537]=`<b>ἀντ·αφαιρέω-ῶ</b> <font color="purple">[ᾰφ]</font> soustraire à son tour, <i>càd</i>. soustraire du nombre inférieur d’une première soustraction le reste de cette soustraction, <i>p. ex</i>. 45 — 23 = 22 ; 23 — 22 = 1, NICOM. <i>Theol. 86</i>.<br><b><i>Moy.</i></b> enlever ensuite <i>ou</i> tour à tour, ANT. <i>125, 46</i>.`

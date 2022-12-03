@@ -1,1 +1,0 @@
-lar[5414]=`<b>ου (ὁ)</b> Ameipsias, <i>poète de l’anc. comédie,</i> AR. <i>Ran. 14</i>.`

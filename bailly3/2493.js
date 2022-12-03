@@ -1,1 +1,0 @@
-lar[2493]=`<b>ῆρος (ὁ)</b> impétueux, violent, OPP. <i>C. 2, 322</i> ; ANTH. <i>6, 296</i>.<p><b>Étym</b>. αἰθύσσω.`

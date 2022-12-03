@@ -1,1 +1,0 @@
-lar[49322]=`<b>ἱππό·δρομος, ου (ὁ)</b> hippodrome, lieu pour les courses de chevaux <i>ou</i> de chars, IL. <i>23, 330</i> ; PLAT. <i>Criti. 117c ;</i> DÉM. <i>1155, 9 ; fig</i>. carrière, arène, POSIDIPP. (ATH. <i>377e</i>).<p><b>Étym</b>. ἵ. δραμεῖν.`

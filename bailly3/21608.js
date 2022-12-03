@@ -1,1 +1,0 @@
-lar[21608]=`<b>ῶν (οἱ)</b> les Gélônes, <i>pple de la Sarmatie d’Europe,</i> HDT. <i>4, 102, etc. ; au sg</i>. ὁ Γελωνός (<i>s.-e</i>. λεώς) HDT. <i>4, 119, ou</i> τὸ Γελωνὸν ἔθνος, ORPH. <i>Arg. 1064,</i> le peuple des Gélônes.`

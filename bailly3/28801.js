@@ -1,1 +1,0 @@
-lar[28801]=`<b>δυσ·περινόητος, ος, ον</b> <font color="purple">[ῐ]</font> difficile à comprendre, PHIL. <i>1, 570</i>.<p><b>Étym</b>. δ. περινοέω.`

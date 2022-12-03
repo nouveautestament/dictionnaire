@@ -1,1 +1,0 @@
-lar[104773]=`<b>ης (ἡ)</b> chauve-souris, SIB. <i>14, 160</i>.`

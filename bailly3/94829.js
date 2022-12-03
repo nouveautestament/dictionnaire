@@ -1,1 +1,0 @@
-lar[94829]=`<b>συν·απαντάω-ῶ :<br>      1</b> venir au devant en même temps, ARSTT. <i>Mir. 56</i>.<br><b>      2</b> avoir commerce avec, NYSS.`

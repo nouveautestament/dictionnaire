@@ -1,1 +1,0 @@
-lar[73287]=`<b>ὀστο·κατάκτης, ου</b> <font color="purple">[κᾰ]</font> <i>adj. m</i>. qui brise les os, HPC.<p><b>Étym</b>. ὀστέον, κατάγνυμι.`

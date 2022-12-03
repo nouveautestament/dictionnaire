@@ -1,1 +1,0 @@
-lar[35897]=`<b>ἐξ·εύχομαι :<br>      1</b> se vanter : τι, ESCHL. <i>Ag. 533, Suppl. 272 et 275,</i> de qqe ch. ; <i>avec un inf</i>. PD. <i>O. 13, 59</i>.<br><b>      2</b> désirer vivement, ESCHL. <i>Ch. 215, etc. ; avec la prop. inf</i>. EUR. <i>Med. 930,</i> désirer vivement que.`

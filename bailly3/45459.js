@@ -1,1 +1,0 @@
-lar[45459]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> <i>c</i>. ἡμικρανικός GAL.`

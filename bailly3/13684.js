@@ -1,1 +1,0 @@
-lar[13684]=`<b>ἀπο·τυφλόω-ῶ :<br>      1</b> rendre aveugle, ARSTT. <i>H.A. 8, 19 ; 9, 30</i> ; PLUT. <i>Arat. 10</i>.<br><b>      2</b> couper <i>ou</i> arracher un bourgeon (<i>litt</i>. un œil) <i>ou</i> une jeune pousse, PLUT. <i>M. 529b.</i><br><b>      3</b> <i>p. ext</i>. aveugler, boucher, obstruer, <i>en gén</i>. ARSTT. <i>Probl. 4, 26, 2</i> ; STR. <i>58</i>.`

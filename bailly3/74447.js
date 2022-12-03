@@ -1,1 +1,0 @@
-lar[74447]=`<b>ῶν (οἱ)</b> habitants de la Palestine, HDT. <i>3, 5</i>.<p><b>Étym</b>. <i>v</i>. Παλαιστίνη.`

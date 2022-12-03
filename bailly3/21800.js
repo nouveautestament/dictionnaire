@@ -1,1 +1,0 @@
-lar[21800]=`<i>adv</i>., en vieillard, AR. <i>Vesp. 1127</i> ; PLUT. <i>M. 639b</i>.`

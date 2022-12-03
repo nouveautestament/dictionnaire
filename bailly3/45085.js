@@ -1,1 +1,0 @@
-lar[45085]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἠθάς, OPP. <i>C. 448</i>.`

@@ -1,1 +1,0 @@
-lar[20366]=`<b>βού·δορον, ου (τὸ)</b> Boudoron, <i>promont. et forteresse de l’î. de Salamine,</i> THC. <i>2, 94 ; 3, 51</i>.<p><b>Étym</b>. <i>v</i>. βουδόρος.`

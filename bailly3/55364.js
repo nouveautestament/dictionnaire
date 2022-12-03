@@ -1,1 +1,0 @@
-lar[55364]=`<b>Κηφισό·δημος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Kèphisodèmos, <i>h</i>. AR. <i>Ach. 705</i>.<p><b>Étym</b>. Κ. δῆμος.`

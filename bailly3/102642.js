@@ -1,1 +1,0 @@
-lar[102642]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> défenseur, protecteur, ANTH. <i>7, 147</i> ; SPT. <i>Sap. 16, 17</i>.<p><b>Étym</b>. ὑπερμάχομαι.`

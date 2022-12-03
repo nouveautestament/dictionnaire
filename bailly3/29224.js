@@ -1,1 +1,0 @@
-lar[29224]=`(<i>non</i> ἕ) <i>ou qqf. redoublé</i> ἒ ἔ, <i>ou répété plusieurs fois</i> ἒ ἒ ἒ ἔ, <i>cri de douleur ou de tristesse,</i> hélas ! ESCHL. <i>Ag. 1085</i> ; SOPH. <i>O.C. 147</i>.`

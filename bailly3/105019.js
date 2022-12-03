@@ -1,1 +1,0 @@
-lar[105019]=`tenir pour vil, mépriser, <i>acc</i>. XÉN. <i>Mem. 1, 6, 5 ; 4, 4, 14, etc.</i> ; PLAT. <i>Leg. 667a</i>.<p><b>Étym</b>. φαῦλος.`

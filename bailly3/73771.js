@@ -1,1 +1,0 @@
-lar[73771]=`<b>(ἡ)</b> sorte d’animal inconnu, ALCM. <i>146b</i>.`

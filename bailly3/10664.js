@@ -1,1 +1,0 @@
-lar[10664]=`<b>ἀντ·οχυρόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀντωχύρωσα)</font> fortifier contre <i>ou</i> à son tour, JOS. <i>B.J. 3, 7, 23</i>.`

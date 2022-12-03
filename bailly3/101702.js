@@ -1,1 +1,0 @@
-lar[101702]=`<b>έως (ὁ)</b> Hylée, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

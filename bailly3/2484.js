@@ -1,1 +1,0 @@
-lar[2484]=`<b>αἰθρο·δόνητος, ος, ον</b>, qui s’élance dans les airs, MAN. <i>4, 298</i>.<p><b>Étym</b>. αἴ. δονέω.`

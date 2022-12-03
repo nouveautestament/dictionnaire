@@ -1,1 +1,0 @@
-lar[40803]=`<i>seul. dor</i>. <b>Ἐρύκα, ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. Ἔρυξ, THCR. <i>Idyl. 15, 100</i>.<p><b>Étym</b>. <i>acc</i>. Ἐρύκαν, <i>vulg</i>. Ἔρυκα.`

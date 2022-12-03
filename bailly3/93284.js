@@ -1,1 +1,0 @@
-lar[93284]=`<b>συγ·καταδαρθάνω</b> <font color="darkgreen">(<i>f</i>. -δαρθήσω, <i>ao.2</i> συγκατέδαρθον, <i>etc</i>.)</font> dormir avec, AR. <i>Eccl. 613, 622</i>.`

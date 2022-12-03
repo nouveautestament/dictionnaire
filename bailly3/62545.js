@@ -1,1 +1,0 @@
-lar[62545]=`<b>μακροπορέω-ῶ</b>, faire une longue route, STR. <i>353</i>.<p><b>Étym</b>. μακρόπορος.`

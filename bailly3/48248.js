@@ -1,1 +1,0 @@
-lar[48248]=`<font color="purple">[ᾱ]</font> <i>adv</i>., d’Ionie, NIC. (ATH. <i>683a</i>).<p><b>Étym</b>. Ἰαόνιος, -θεν.`

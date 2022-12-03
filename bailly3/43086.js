@@ -1,1 +1,0 @@
-lar[43086]=`<i>adv</i>., heureusement, MUSON. <i>176</i>.`

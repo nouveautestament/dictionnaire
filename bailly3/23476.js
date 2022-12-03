@@ -1,1 +1,0 @@
-lar[23476]=`<b>ατος (τὸ)</b> prière : δ. δεῖσθαι, AR. <i>Ach. 1059,</i> adresser une prière.<p><b>Étym</b>. δέομαι.`

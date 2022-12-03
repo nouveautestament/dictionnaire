@@ -1,1 +1,0 @@
-lar[73048]=`<b>ὀρσι·νεφής, ής, ές</b> <font color="purple">[ῐ]</font> qui soulève <i>ou</i> pousse les nuages, PD. <i>N. 5, 34</i>.<p><b>Étym</b>. ὄρνυμι, νέφος.`

@@ -1,1 +1,0 @@
-lar[92922]=`<b>(ἡ)</b> = <i>lat</i>. strēna, étrennes, ATH. <i>97d</i>.`

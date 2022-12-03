@@ -1,1 +1,0 @@
-lar[99267]=`<b>οῦς (ἡ)</b> <font color="purple">[ῑ]</font> Timô, <i>f</i>. HDT. <i>6, 134, etc.</i> ; ANTH. <i>5, 197, etc</i>.<p><b>Étym</b>. τιμή.`

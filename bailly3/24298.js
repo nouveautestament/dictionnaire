@@ -1,1 +1,0 @@
-lar[24298]=`<b>ή, όν</b>, semblable à Démosthène, de Démosthène, DH. <i>Rhet. 11, 10 ; Dem. 34, etc.</i> ; PLUT. <i>Dem. c. Cic. 1</i> ; LGN <i>12 ; etc</i>.<p><b>Étym</b>. Δημοσθένης.`

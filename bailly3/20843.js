@@ -1,1 +1,0 @@
-lar[20843]=`<b>ιδος</b>, <i>adj. f. c</i>. βρομιώδης OPP. <i>C. 4, 340 ; subst</i>. ἡ βρ. bacchante, <i>C. 300</i>.`

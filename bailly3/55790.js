@@ -1,1 +1,0 @@
-lar[55790]=`<b>ή, όν</b>, qu’il faut pleurer, déplorable, SOPH. <i>O.C. 1360</i>.<p><b>Étym</b>. <i>vb. de</i> κλαίω.`

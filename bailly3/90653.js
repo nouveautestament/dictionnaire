@@ -1,1 +1,0 @@
-lar[90653]=`<b>σκανδαλ·ώδης, ης, ες</b> <font color="purple">[δᾰ]</font> qui est une occasion de scandale <i>ou</i> de péché, CHRYS.<p><b>Étym</b>. σκάνδαλον, -ωδης.`

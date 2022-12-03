@@ -1,1 +1,0 @@
-lar[12037]=`<b>ἄ·πλατος, ος, ον</b> <font color="purple">[ᾱτ]</font> inabordable, <i>d’où</i> terrible, HÉS. <i>O. 147, Th. 151</i> (<i>ion</i>. ἄπλητος) ; PD. <i>P. 1, 21</i> ; ἀ. κοίτα, EUR. <i>Med. 151,</i> la couche terrible, le tombeau.<p><b>Étym</b>. ἀ, πελάω.`

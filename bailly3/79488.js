@@ -1,1 +1,0 @@
-lar[79488]=`<b>εως (ἡ)</b> fusion tout autour, <i>d’où</i> entière liquéfaction, HPC. <i>Coac. 194</i>.<p><b>Étym</b>. περιτήκω.`

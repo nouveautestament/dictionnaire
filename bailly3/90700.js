@@ -1,1 +1,0 @@
-lar[90700]=`<b>σκαφη·φόρος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> scaphéphore, <i>n. des étrangers domiciliés à Athènes et qui, aux Panathénées, portaient les vases pour le sacrifice,</i> DIN. <i>et</i> TH. (HARP.).<p><b>Étym</b>. σκάφη, φέρω ; <i>cf</i>. κανηφόρος, ὑδριαφόρος <i>et</i> σκιαδηφόρος.`

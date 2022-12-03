@@ -1,1 +1,0 @@
-lar[86159]=`<b>προσ·νεύω :<br>      1</b> se pencher vers, s’incliner, GAL. <i>6, 85</i>.<br><b>      2</b> <i>p. suite,</i> donner son assentiment, PLUT. <i>Brut. 1</i> ; DYSC. <i>Synt. 241, 21</i>.`

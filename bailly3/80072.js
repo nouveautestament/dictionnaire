@@ -1,1 +1,0 @@
-lar[80072]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de boue <i>ou</i> d’argile, ISOCR. <i>Ep. 10</i> ; ARSTT. <i>Metaph. 6, 10, 10</i> ; DÉM. <i>47, 15, etc.</i><br><b>      2</b> fait en torchis (<i>v</i>. πηλός) PLUT. <i>Dem. 11</i>.<p>➳ <i>Fém</i>. -ος, D. CHR. <i>1, 646</i>.<p><b>Étym</b>. πηλός.`

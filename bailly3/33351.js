@@ -1,1 +1,0 @@
-lar[33351]=`<b>ἐμ·πεδάω-ῶ</b>, <i>ion</i>. <b>-δέω</b>, entraver, enchaîner, HDT. <i>4, 69, dout</i>.<p><b>Étym</b>. ἐν, πέδη.`

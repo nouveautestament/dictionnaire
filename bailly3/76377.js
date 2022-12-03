@@ -1,1 +1,0 @@
-lar[76377]=`<b>πάρ·αυλος, ος, ον</b>, qui habite auprès, <i>ou, sel. d’autres,</i> en plein air, dans les champs, SOPH. <i>O.C. 785</i>.<p><b>Étym</b>. π. αὐλή.`

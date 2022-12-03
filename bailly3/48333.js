@@ -1,1 +1,0 @@
-lar[48333]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰχ]</font> grand bruit, sifflement d’un serpent, EUR. <i>H.f. 883</i> ; son d’un instrument, ANTH. <i>6, 165</i>.<p><b>Étym</b>. ἰαχέω.`

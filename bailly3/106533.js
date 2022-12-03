@@ -1,1 +1,0 @@
-lar[106533]=`<b>οῦ (ὁ)</b> action de faire rougir la peau au moyen d’excitants, P. ÉG. <i>3</i>.<p><b>Étym</b>. φοινίσσω.`

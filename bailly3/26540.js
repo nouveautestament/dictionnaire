@@ -1,1 +1,0 @@
-lar[26540]=`<b>εως (ἡ)</b> <font color="purple">[δῐ]</font> vengeance, SPT. <i>Sir. 47, 25</i>.`

@@ -1,1 +1,0 @@
-lar[99493]=`<b>τοιχο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui écrit <i>ou</i> peint sur une muraille, ORIG.<p><b>Étym</b>. τοῖχος, γράφω.`

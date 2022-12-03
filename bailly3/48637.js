@@ -1,1 +1,0 @@
-lar[48637]=`<b>ἱερό·συλος, ου (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> qui pille un temple, voleur sacrilège, AR. <i>Pl. 30</i> ; PLAT. <i>Rsp. 334b, etc</i>.<p><b>Étym</b>. ἱ. συλέω.`

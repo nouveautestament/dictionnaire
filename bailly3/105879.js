@@ -1,1 +1,0 @@
-lar[105879]=`<b>Φιλό·κυπρος, ου (ὁ)</b> <font color="purple">[ῐῡ]</font> Philokypros, <i>roi de Chypre,</i> HDT. <i>5, 113</i> ; SOL. (PLUT. <i>Sol. 26</i>).`

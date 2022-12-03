@@ -1,1 +1,0 @@
-lar[37380]=`<b>ἐπι·βούλευμα, ατος (τὸ) :<br>      1</b> entreprise, projet, JOS. <i>A.J. 17, 12, 2</i>.<br><b>      2</b> <i>en mauv. part,</i> projet hostile, machination, THC. <i>3, 45 ; 4, 68 et 89</i> ; PLUT. <i>Cæs. 4</i> ; DC. <i>37, 29, etc</i>.<p><b>Étym</b>. ἐπιβουλεύω.`

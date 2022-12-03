@@ -1,1 +1,0 @@
-lar[80114]=`<b>Πηνέ·λεως, εω (ὁ)</b> Pènéléôs, <i>chef des guerriers Béotiens devant Troie,</i> IL. <i>2, 494, etc</i>.<p>➳ <i>Gén</i>. Πηνελέωο, IL. <i>14, 489, dat</i>. Πηνέλεῳ, IL. <i>14, 487</i>.<p><b>Étym</b>. πένομαι, λαός.`

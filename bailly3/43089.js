@@ -1,1 +1,0 @@
-lar[43089]=`<b>εὐπραγέω-ῶ</b> <font color="purple">[ᾱ]</font> être heureux, réussir, THC. <i>2, 60 ; 6, 16</i> ; XÉN. <i>Ap. 27, etc</i>.<p><b>Étym</b>. εὐπραγής.`

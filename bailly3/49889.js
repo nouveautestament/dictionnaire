@@ -1,1 +1,0 @@
-lar[49889]=`marcher en se balançant fortement de droite et de gauche ; <i>p. ext. au pass</i>. être tendu à droite et à gauche, GAL. <i>18, 786</i>.<p><b>Étym</b>. ἰσχιάς.`

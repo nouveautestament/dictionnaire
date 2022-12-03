@@ -1,1 +1,0 @@
-lar[20453]=`<b>ή, όν</b>, que l’on veut <i>ou</i> que l’on peut vouloir ; τὸ βουλητόν, PLAT. <i>Leg. 733d ;</i> ARSTT. <i>Nic. 3, 5, 1,</i> ce qui dépend de la volonté, <i>joint à</i> ἑκούσιον.<p><b>Étym</b>. <i>vb. de</i> βούλομαι.`

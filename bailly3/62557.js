@@ -1,1 +1,0 @@
-lar[62557]=`<b>ου (ὁ)</b> = <i>lat</i>. Macer, <i>n. d’h. rom</i>. PLUT. <i>Galb. 6, 13</i>.`

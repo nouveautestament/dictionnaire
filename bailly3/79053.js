@@ -1,1 +1,0 @@
-lar[79053]=`<b>περι·πάλλομαι</b>, être agité <i>ou</i> trembler de tous ses membres, Q. SM. <i>10, 371 ; 14, 44</i>.`

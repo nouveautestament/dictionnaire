@@ -1,1 +1,0 @@
-lar[81501]=`<b>ος, ον</b>, de polémarque, ATH. <i>210b ;</i> τὸ πολεμάρχειον, XÉN. <i>Hell. 5, 4, 5</i> ; POL. <i>4, 79, 5</i>, résidence du polémarque.<p><b>Étym</b>. πολέμαρχος.`

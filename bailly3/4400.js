@@ -1,1 +1,0 @@
-lar[4400]=`<b>ας</b> <i>ou</i> <b>ἁλιά, ᾶς (ἡ)</b> <font color="purple">[ᾰλ]</font> mortier à piler le sel, <i>d’où</i> boîte au sel, ARCHIPP. <i>et</i> STRATT. (POLL. <i>10, 169</i>) ; ἁλίην (<i>ion</i>.) τρυπᾶν, CALL. <i>Ep. 51, 1,</i> gratter la boîte au sel, <i>signe d’une extrême pauvreté</i>.`

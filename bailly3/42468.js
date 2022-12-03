@@ -1,1 +1,0 @@
-lar[42468]=`<b>ων (τὰ)</b> Eukolles, <i>v. de l’Inde,</i> NONN. <i>D. 26, 293</i>.`

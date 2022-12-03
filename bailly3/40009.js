@@ -1,1 +1,0 @@
-lar[40009]=`<b>ἑπτά·πολις, ις, ι</b> <font color="purple">[ᾰ]</font> à sept villes, DP. <i>251</i>.<p><b>Étym</b>. ἑ. πόλις.`

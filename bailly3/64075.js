@@ -1,1 +1,0 @@
-lar[64075]=`<b>μελισσό·βοτος, ος, ον</b>, qui nourrit les abeilles, ANTH. <i>9, 523</i> ; NONN. <i>Jo. 1, 13</i> ; τὸ μ. NIC. <i>Th. 667,</i> mélisse, <i>plante</i>.<p><b>Étym</b>. μ. βόσκω.`

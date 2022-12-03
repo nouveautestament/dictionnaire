@@ -1,1 +1,0 @@
-lar[64546]=`<b>μεσό·πλατος, ος, ον</b> <font color="purple">[ᾰ]</font> large au milieu, AGATHÉM. <i>p. 3</i>.<p><b>Étym</b>. μ. πλατύς.`

@@ -1,1 +1,0 @@
-lar[36459]=`<b>ἐπ·ακόλουθος, ος, ον</b> <font color="purple">[ᾰ]</font> qui est la suite <i>ou</i> la conséquence de, <i>dat</i>. ARSTD. <i>t. 2, 498</i>.<p><b>Étym</b>. ἐπί, ἀκόλουθος.`

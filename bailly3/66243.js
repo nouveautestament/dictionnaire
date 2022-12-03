@@ -1,1 +1,0 @@
-lar[66243]=`<b>ορος :<br>      1</b> <i>adj. m</i>. qui pense à, qui se souvient de, <i>gén</i>. ESCHL. <i>Sept. 181</i>.<br><b>      2</b> <i>subst</i>. ὁ μν. CLÉM. <i>212,</i> prétendant.<p><b>Étym</b>. μνάομαι.`

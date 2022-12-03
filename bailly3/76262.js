@@ -1,1 +1,0 @@
-lar[76262]=`<b>παρα·στρόγγυλος, ος, ον</b> <font color="purple">[ῠ]</font> à peu près rond, APD. POL. <i>19</i>.<p><b>Étym</b>. π. στρογγύλος.`

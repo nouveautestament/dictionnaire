@@ -1,1 +1,0 @@
-lar[48048]=`<b>ωνος (ὁ)</b> <i>sorte de</i> squale, <i>poisson,</i> ATH. <i>310e</i>.<p><b>Étym</b>. θύρσος, <i>lat</i>. thursio.`

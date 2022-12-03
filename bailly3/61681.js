@@ -1,1 +1,0 @@
-lar[61681]=`<b>έως</b>, <i>adj. m</i>. habitant <i>ou</i> originaire de Louses, XÉN. <i>An. 4, 2, 21 ; 4, 7, 11, 12</i>.<p><b>Étym</b>. Λουσοί.`

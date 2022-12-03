@@ -1,1 +1,0 @@
-lar[69989]=`<b>ὄαρος (ἡ)</b> <font color="purple">[ᾰ]</font> (<i>gén. pl</i>. ὀάρων, IL. <i>9, 327, contr. au dat. pl. épq</i>. ὤρεσσι, <i>p</i>. ὀάρεσσι, IL. <i>5, 486</i>) compagne, épouse.<p><b>Étym</b>. <i>p.-ê. pré-grec ; cf</i>. δάμαρ.`

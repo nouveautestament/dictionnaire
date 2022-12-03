@@ -1,1 +1,0 @@
-lar[27859]=`<b>*δράστειρα</b>, <i>seul. ion</i>. <b>δρήστειρα, ας (ἡ)</b> servante active <i>ou</i> empressée, OD. <i>10, 349 ; 19, 345</i>.<p><b>Étym</b>. δράω.`

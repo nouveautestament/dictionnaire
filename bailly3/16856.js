@@ -1,1 +1,0 @@
-lar[16856]=`<b>ένος (ὁ)</b> esclave, serviteur, EM. <i>164, 32</i>.<p><b>Étym</b>. <i>cf</i>. ἀτμενία, <i>etc</i>.`

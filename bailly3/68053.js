@@ -1,1 +1,0 @@
-lar[68053]=`<b>νεκυο·στόλος, ος, ον</b>, qui transporte les morts, <i>ép. de Charon,</i> ANTH. <i>7, 634</i> ; MAN. <i>4, 405, etc</i>.<p><b>Étym</b>. νέκυς, στέλλω.`

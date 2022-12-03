@@ -1,1 +1,0 @@
-lar[38492]=`<b>ἐπι·μωκεύω</b>, se moquer, LUC. <i>J. tr. 16 conj</i>.`

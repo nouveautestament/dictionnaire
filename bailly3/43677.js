@@ -1,1 +1,0 @@
-lar[43677]=`<b>εὔ·υδρος, ος, ον :<br>      1</b> abondant en eau, SIM. <i>fr. 102</i> ; PD. <i>P. 1, 79</i> ; HDT. <i>4, 47 ; 9, 25</i>.<br><b>      2</b> aux belles eaux, EUR. <i>I.T. 399</i>.<p>•<i> Cp</i>. -ότερος, HDT. <i>9, 25</i> ; GEOP. <i>2, 6, 5. • Sup</i>. -ότατος, EUST. <i>Il. p. 1194, 64</i>.<p><b>Étym</b>. εὖ, ὕδωρ.`

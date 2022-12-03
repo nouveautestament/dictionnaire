@@ -1,1 +1,0 @@
-lar[56248]=`<b>ή, όν</b>, d’un jaune de carthame, <i>d’où</i> roux, fauve ; ὁ κν. (<i>s.-e</i>. θήρ) le loup, BABR. <i>113, 2</i>.<p>➳ <i>Dor</i>. κνακός <font color="purple">[ᾱ]</font> THCR. <i>Idyl. l. c</i>.`

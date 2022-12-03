@@ -1,1 +1,0 @@
-lar[101445]=`<b>(ὁ)</b> Hydarnès, <i>Perse,</i> HDT. <i>3, 70 ; 6, 133, etc</i>.<p>➳ <i>Gén. ion</i>. -έος, HDT. <i>7, 65, 83 ; acc. ion</i>. -εα, HDT. <i>3, 70 ; 6, 133, etc</i>.`

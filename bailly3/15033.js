@@ -1,1 +1,0 @@
-lar[15033]=`<b>ατος (τὸ)</b> objet ravi, butin, fruit de vol, PLUT. <i>M. 330d ;</i> rapt, ESCHN. <i>85, 27</i>.<p><b>Étym</b>. ἁρπάζω.`

@@ -1,1 +1,0 @@
-lar[9115]=`<b>ἀνισό·μετρος, ος, ον</b> <font color="purple">[ᾰῐ]</font> d’inégale mesure, ARÉT. <i>Caus. m. diut. 2, 2</i>.<p><b>Étym</b>. ἄν. μέτρον.`

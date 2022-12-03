@@ -1,1 +1,0 @@
-lar[21030]=`<b>βυρσο·δέψης, ου (ὁ)</b> corroyeur, tanneur, AR. <i>Eq. 44, 447 ; Nub. 581</i> : PLAT. <i>Conv. 221e</i>.<p><b>Étym</b>. βύρσα, δέψω.`

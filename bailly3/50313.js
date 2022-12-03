@@ -1,1 +1,0 @@
-lar[50313]=`<b>ος, ον</b>, posé sur un siège, P. ÉG. <i>146, 154 Briau</i>.<p><b>Étym</b>. καθέδρα.`

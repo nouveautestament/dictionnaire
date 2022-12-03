@@ -1,1 +1,0 @@
-lar[51786]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Karèsos, <i>fl. de Troade,</i> IL. <i>12, 20</i>.`

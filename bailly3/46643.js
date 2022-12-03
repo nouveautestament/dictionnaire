@@ -1,1 +1,0 @@
-lar[46643]=`<b>ου (ὁ)</b> Théodotès, <i>h</i>. PLAT. <i>Ep. 318c, 320e, 348b</i>.<p>➳ <i>Dor</i>. -ας, LUC. <i>Zeux. 9, Cal. 2</i>.<p><b>Étym</b>. θ. δίδωμι.`

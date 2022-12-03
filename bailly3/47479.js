@@ -1,1 +1,0 @@
-lar[47479]=`<b>εως (ἡ)</b> action de rendre trouble, de salir, ARSTT. <i>P.A. 4, 5, 12</i>.<p><b>Étym</b>. θολόω.`

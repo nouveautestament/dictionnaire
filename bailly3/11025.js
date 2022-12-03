@@ -1,1 +1,0 @@
-lar[11025]=`<b>ου (ὁ)</b> Aollius, <i>fils de Romulus,</i> PLUT. <i>Rom. 14</i>.`

@@ -1,1 +1,0 @@
-lar[87536]=`<b>ίδος</b> <font color="purple">[ῡᾰῐδ]</font> <i>adj. f</i>. disciple de Pythagore, pythagoricienne, JAMBL. <i>V. Pyth. 267 fin</i>.<p><b>Étym</b>. Πυθαγόρας.`

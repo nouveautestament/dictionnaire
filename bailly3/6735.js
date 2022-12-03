@@ -1,1 +1,0 @@
-lar[6735]=`<b>ῆς (ἡ) :<br>      1</b> mouvement de la sève qui monte dans la tige, TH. <i>C.P. 4, 5, 1</i>.<br><b>      2</b> soubresaut (de douleur) HPC. <i>Coac. 168</i>.<br><b>      3</b> croissance, accroissement, EUR. (HSCH.).`

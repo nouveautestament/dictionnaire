@@ -1,1 +1,0 @@
-lar[29128]=`<i>adv</i>., de Dodone, CALL. <i>Del. 284</i>.<p>➳ <i>Dor</i>. Δωδώναθεν <font color="purple">[ᾱ]</font> PD. <i>N. 4, 86</i>.<p><b>Étym</b>. Δωδώνη, -θε.`

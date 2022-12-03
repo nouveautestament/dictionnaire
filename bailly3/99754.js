@@ -1,1 +1,0 @@
-lar[99754]=`<i>crase att. et poét. p</i>. τὸ ἔμπαλιν, AR. <i>Th. 1224</i>.`

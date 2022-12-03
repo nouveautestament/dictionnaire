@@ -1,1 +1,0 @@
-lar[21992]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> de géant, gigantesque, SPT. <i>Sir. 23, 4</i> ; PHIL. <i>2, 117</i>.<p><b>Étym</b>. γίγας, -ωδης.`

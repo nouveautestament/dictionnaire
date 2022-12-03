@@ -1,1 +1,0 @@
-lar[51477]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σκαμωνία, NIC. <i>Al. 484</i>.`

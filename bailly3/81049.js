@@ -1,1 +1,0 @@
-lar[81049]=`<b>ης, ες</b>, qui rassasie, HPC. <i>Acut. 393</i>.<p><b>Étym</b>. πλησμονή, -ωδης.`

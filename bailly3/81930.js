@@ -1,1 +1,0 @@
-lar[81930]=`<b>πολυ·θλιβής, ής, ές</b> <font color="purple">[ῐ]</font> obtenu par un frottement répété, NONN. <i>D. 2, 494</i>.<p><b>Étym</b>. π. θλίβω.`

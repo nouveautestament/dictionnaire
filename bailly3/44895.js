@@ -1,1 +1,0 @@
-lar[44895]=`<i>adv.</i> :<br><b>      1</b> à la façon d’un général, ARSTT. <i>fr. 81</i> ; PLUT. <i>M. 329b.</i><br><b>      2</b> comme il convient à un général, en général, PLUT. <i>Sert. 27</i>.`

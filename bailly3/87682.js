@@ -1,1 +1,0 @@
-lar[87682]=`<b>πυλα·ωρός, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> gardien des portes, IL. <i>21, 530 ; 24, 681 ; en parl. de chiens,</i> IL. <i>22, 69 ; particul. en parl. de Cerbère,</i> ANTH. <i>7, 319</i>.<p><b>Étym</b>. <i>p</i>. *πυλαϝορός, <i>de</i> πύλη, ὤρα ; <i>cf</i>. πυλωρός.`

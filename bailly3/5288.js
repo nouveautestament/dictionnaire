@@ -1,1 +1,0 @@
-lar[5288]=`<b>οῦ (ὁ)</b> habitant <i>ou</i> originaire d’Amastris, LUC. <i>Alex. 25</i>.<p><b>Étym</b>. <i>v</i>. Ἄμαστρις.`

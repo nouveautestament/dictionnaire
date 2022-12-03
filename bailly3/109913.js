@@ -1,1 +1,0 @@
-lar[109913]=`<b>ψυδρακόω-ῶ</b> <font color="purple">[ᾰ]</font> produire un bouton blanc, GAL. <i>13, 874</i>.<p><b>Étym</b>. ψύδραξ.`

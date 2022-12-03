@@ -1,1 +1,0 @@
-lar[25547]=`<b>εως (ἡ) :<br>      1</b> examen approfondi, PLAT. <i>Leg. 697c.</i><br><b>      2</b> <i>au plur</i>. questions à examiner, PLUT. <i>Tim. 38</i>.`

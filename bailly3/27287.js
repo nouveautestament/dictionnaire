@@ -1,1 +1,0 @@
-lar[27287]=`<b>ας (ἡ)</b> serment prêté par les deux parties en justice, ANT. <i>139, 41 ; 141, 44</i> ; DÉM. <i>643, 3</i> ; LYS. <i>117, 13</i>.<p><b>Étym</b>. διώμοτος.`

@@ -1,1 +1,0 @@
-lar[74730]=`<b>παμ·παθής, ής, ές</b> <font color="purple">[ᾰθ]</font> qui souffre tout, JAMBL. <i>Myst. 3, 29</i> ; MAN. <i>4, 311</i>.<p><b>Étym</b>. π. πάσχω.`

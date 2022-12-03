@@ -1,1 +1,0 @@
-lar[83585]=`<b>προ·αναφέρω</b>, <i>au pass.</i> :<br><b>      1</b> se porter en avant, ARSTT. <i>Probl. 10, 54, 5</i>.<br><b>      2</b> se lever avant, <i>en parl. d’un astre,</i> SEXT. <i>M. 5, 15</i>.`

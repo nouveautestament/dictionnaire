@@ -1,1 +1,0 @@
-lar[79196]=`<b>περι·πύημα, ατος (τὸ)</b> suppuration tout autour, HPC. <i>1138h</i>.<p><b>Étym</b>. π. πυέω.`

@@ -1,1 +1,0 @@
-lar[24618]=`<b>δια·ζωγραφέω-ῶ</b> <font color="purple">[ᾰφ]</font> peindre d’une façon achevée, faire une peinture complète, PLAT. <i>Tim. 55c ;</i> EL. <i>V.H. 12, 41</i> ; PLUT. <i>M. 1003c</i>.`

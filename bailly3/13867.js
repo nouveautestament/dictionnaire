@@ -1,1 +1,0 @@
-lar[13867]=`<b>ης (ἡ)</b> état d’un homme ἀπράγμων, <i>d’où</i> :<br><b>      1</b> humeur paisible ; <i>en mauv. part,</i> indolence, THC. <i>2, 63</i> ; XÉN. <i>Mem. 3, 11, 16</i> ; DÉM. <i>560, 21, etc.</i><br><b>      2</b> <i>en parl. d’un État,</i> inaction, inertie, THC. <i>1, 32</i>.<p><b>Étym</b>. ἀπράγμων.`

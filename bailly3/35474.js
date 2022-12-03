@@ -1,1 +1,0 @@
-lar[35474]=`<b>ἐξ·ανατέλλω</b> <font color="darkgreen">(<i>impf</i>. ἐξανέτελλον, <i>ao</i>. ἐξανέτειλα) :</font><br><b>      1 <i>tr.</i></b> faire lever, faire naître : χθονὸς ποίην, A.RH. <i>4, 1423,</i> l’herbe du sein de la terre ; <i>fig</i>. TÉLÉCL. (PLUT. <i>Per. 3</i>).<br><b>      2 <i>intr.</i></b> se lever de, sortir de, <i>gén</i>. MOSCH. <i>2, 58</i>.`

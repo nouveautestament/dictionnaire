@@ -1,1 +1,0 @@
-lar[96216]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. συνδρομάς, <i>au plur</i>. SIM. <i>fr. 22 Bgk</i>.`

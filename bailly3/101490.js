@@ -1,1 +1,0 @@
-lar[101490]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Hydè, <i>v. de Lydie,</i> IL. <i>20, 385</i>.`

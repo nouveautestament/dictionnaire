@@ -1,1 +1,0 @@
-lar[93041]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> στρῶμα, M. ANT. <i>5, 1</i>.`

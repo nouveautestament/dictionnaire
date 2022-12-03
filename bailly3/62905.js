@@ -1,1 +1,0 @@
-lar[62905]=`<b>μαργαρῖτις λίθος (ἡ)</b> <font color="purple">[ᾰῑτ]</font> ANDROSTH. (ATH. <i>93b</i>), <i>ou simpl</i>. μαργαρῖτις, ίτιδος (ἡ) ISID. CHAR. (ATH. <i>93e</i>) perle.<p><b>Étym</b>. <i>cf</i>. μαργαρίτης.`

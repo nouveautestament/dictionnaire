@@ -1,1 +1,0 @@
-lar[12408]=`<b>ης (ἡ)</b> lieu de dépôt : βιβλίων, LUC. <i>Ind. 5,</i> dépôt de livres ; σώματος, LUC. <i>Char. 22,</i> tombeau ; <i>abs</i>. magasin (de vivres, d’approvisionnements) THC. <i>6, 97 ; fig</i>. ἀποθήκην ποιεῖσθαι ἔς τινα, HDT. <i>8, 109,</i> se ménager un lieu de refuge auprès de qqn.<p><b>Étym</b>. ἀποτίθημι.`

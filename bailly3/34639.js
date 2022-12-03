@@ -1,1 +1,0 @@
-lar[34639]=`<b>έως (ὁ)</b> <font color="purple">[ῑ]</font> l’Énipée, <i>fl.</i> :<br><b>      1</b> <i>de Thessalie,</i> OD. <i>11, 238, 240</i> ; HDT. <i>7, 129</i> ; THC. <i>4, 78</i>.<br><b>      2</b> <i>de Macédoine, etc.</i> ; POL. <i>29, 3, 4, etc</i>.`

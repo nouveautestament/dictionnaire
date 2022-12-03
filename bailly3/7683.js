@@ -1,1 +1,0 @@
-lar[7683]=`<b>ἀνα·στενάχω</b> (<i>seul. prés</i>.) <font color="purple">[ᾰχ]</font> gémir sur, <i>acc</i>. IL. <i>23, 211</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. IL. <i>18, 315, 355</i>.`

@@ -1,1 +1,0 @@
-lar[87367]=`<b>ή, όν</b>, qui peut voler, capable de voler, HIÉROCL. <i>C. aur. p. 477 Mullach</i>.<p><b>Étym</b>. πτερόω.`

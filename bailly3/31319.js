@@ -1,1 +1,0 @@
-lar[31319]=`<font color="purple">[ᾱ]</font> <i>vb. de</i> ἐκθηράομαι M. TYR. <i>136, 29</i>.`

@@ -1,1 +1,0 @@
-lar[87680]=`<b>Πυλ·άρτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> Pylartès, <i>Troyen,</i> IL. <i>11, 491 ; 16, 696</i>.<p><b>Étym</b>. <i>v</i>. πυλάρτης.`

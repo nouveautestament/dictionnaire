@@ -1,1 +1,0 @@
-lar[40530]=`<b>ου (ὁ)</b> Ériphos, <i>poète de la moyenne comédie,</i> ATH. <i>58b</i>.<p><b>Étym</b>. <i>v</i>. ἔριφος.`

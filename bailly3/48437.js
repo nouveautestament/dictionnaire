@@ -1,1 +1,0 @@
-lar[48437]=`<b>ἰδιο·συστασία, ας (ἡ)</b> <font color="purple">[τᾰ]</font> constitution (physique) propre à qqn, SOR. <i>Obst. p. 273 Erm</i>.<p><b>Étym</b>. ἴδ. συστασία.`

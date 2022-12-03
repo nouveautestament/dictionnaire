@@ -1,1 +1,0 @@
-lar[19371]=`<b>ου (ὁ)</b> <i>s.-e</i>. λίθος <font color="purple">[ᾰᾰῑ]</font> batrachite, <i>pierre d’un vert clair,</i> PLIN. <i>H.N. 37, 10</i>.<p><b>Étym</b>. βάτραχος.`

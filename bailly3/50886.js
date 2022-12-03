@@ -1,1 +1,0 @@
-lar[50886]=`<b>κακό·τροπος, ος, ον</b> <font color="purple">[ᾰ]</font> d’un mauvais naturel, pervers, fourbe, DC. <i>52, 2</i>.<p>•<i> Cp</i>. -ώτερος, DC. <i>Exc. p. 38, 26 ; • Sup</i>. -ώτατος, ZÉNOB. <i>Prov. 5, 41</i>.<p><b>Étym</b>. κ. -τροπος.`

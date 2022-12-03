@@ -1,1 +1,0 @@
-lar[44738]=`<b>ζωο·γλύφος, ου (ὁ)</b> <font color="purple">[ῠ]</font> sculpteur, statuaire, ANTH. <i>12, 56, 57</i>.<p><b>Étym</b>. ζωός, γλύφω.`

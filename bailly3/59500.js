@@ -1,1 +1,0 @@
-lar[59500]=`<b>λαθρο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui mange secrètement, BAS. <i>3, 640 Migne</i>.<p><b>Étym</b>. λάθρᾳ, φαγεῖν.`

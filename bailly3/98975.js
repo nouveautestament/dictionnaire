@@ -1,1 +1,0 @@
-lar[98975]=`<i>adv. éol. c</i>. τῆλε, DYSC. <i>Pron. p. 329b</i>.`

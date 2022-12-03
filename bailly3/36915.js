@@ -1,1 +1,0 @@
-lar[36915]=`<b>ἐπ·εγκεράννυμι</b> <font color="purple">[ῡ]</font> mêler en outre : τί τινι, PLUT. <i>M. 1025b</i>, une chose à une autre.<br><b><i>Moy.</i></b> :<br><b>      1</b> prendre sur soi, se charger de, PLAT. <i>Pol. 273d.</i><br><b>      2</b> mêler, mélanger, NIC. <i>Al. 166</i>.`

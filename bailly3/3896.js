@@ -1,1 +1,0 @@
-lar[3896]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> bout des ongles, <i>d’où</i> extrémité, <i>en gén.</i> : ἀ. ὄρους, XÉN. <i>Hell. 4, 6, 7, et sans</i> ὄρους, XÉN. <i>An. 3, 4, 37,</i> sommet d’une montagne.<p><b>Étym</b>. ἀκρώνυχος.`

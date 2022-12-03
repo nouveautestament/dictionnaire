@@ -1,1 +1,0 @@
-lar[10235]=`<b>ἀντι·πενθής, ής, ές</b>, qui cause de la douleur à son tour <i>ou</i> en retour, ESCHL. <i>Eum. 782</i>.<p><b>Étym</b>. ἀ. πένθος.`

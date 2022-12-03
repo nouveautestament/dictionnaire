@@ -1,1 +1,0 @@
-lar[107448]=`<b>(ὁ)</b> Khabès, <i>Athénien,</i> AR. <i>Vesp. 234</i>.`

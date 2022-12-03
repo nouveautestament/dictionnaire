@@ -1,1 +1,0 @@
-lar[49614]=`<b>ἰσο·γονία, ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> naissance égale, PLAT. <i>Menex. 239a ;</i> DC. <i>52, 4</i>.<p><b>Étym</b>. ἴ. γόνος.`

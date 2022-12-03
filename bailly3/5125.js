@@ -1,1 +1,0 @@
-lar[5125]=`<i>adv</i>., dans le dème Alôpékè, HDT. <i>5, 63</i> ; ESCHN. <i>13, 43</i>.<p><b>Étym</b>. <i>v</i>. Ἀλωπεκῆθεν.`

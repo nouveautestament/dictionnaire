@@ -1,1 +1,0 @@
-lar[94934]=`<b>συν·αποχράομαι-ῶμαι</b>, se servir en même temps de, J. ANT. <i>p. 838 Valois</i> (SUID. <i>v°</i> ἀποχρησάμενος).`

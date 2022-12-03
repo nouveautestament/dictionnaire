@@ -1,1 +1,0 @@
-lar[4586]=`<b>ἁλι·τρεφής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se nourrit <i>ou</i> qui vit dans la mer, Q. SM. <i>3, 272</i> ; NONN. <i>D. 24, 216</i>.<p><b>Étym</b>. ἅλς, τρέφω.`

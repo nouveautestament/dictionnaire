@@ -1,1 +1,0 @@
-lar[23566]=`<b>Δεινό·λοχος, ου (ὁ)</b> Deinolokhos, <i>h</i>. EL. <i>N.A. 6, 51</i> ; PAUS. ATH.<p><b>Étym</b>. δ. λόχος.`

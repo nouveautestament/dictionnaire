@@ -1,1 +1,0 @@
-lar[105279]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> maladie pédiculaire, PLUT. <i>Syll. 36</i> ; ARSTT. <i>H.A. 5, 31, 3</i> ; MÉD.<p><b>Étym</b>. φθειριάω.`

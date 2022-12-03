@@ -1,1 +1,0 @@
-lar[64803]=`<b>ή, όν :<br>      1</b> changé, ESCHL. <i>Sept. 706</i>.<br><b>      2</b> qu’on peut <i>ou</i> qu’il faut changer, PD. <i>fr. 241</i>.<p><b>Étym</b>. <i>vb. de</i> μεταλλάσσω.`

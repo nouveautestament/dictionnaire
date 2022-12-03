@@ -1,1 +1,0 @@
-lar[93901]=`<b>σύμ·βωμος, ος, ον</b>, adoré sur le même autel, STR. <i>512 ; avec un dat</i>. PLUT. <i>M. 492c</i>.<p><b>Étym</b>. σ. βωμός.`

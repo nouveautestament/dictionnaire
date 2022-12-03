@@ -1,1 +1,0 @@
-lar[72184]=`<b>ὀξύ·τονος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> au son aigu, <i>d’où</i> aigu, perçant, SOPH. <i>El. 243</i>.<br><b>      2</b> <i>t. de gr</i>. frappé d’un accent aigu sur la dernière syllabe, DH. <i>Comp. 11</i> ; GRAMM.<p><b>Étym</b>. ὀ. τόνος.`

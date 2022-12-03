@@ -1,1 +1,0 @@
-lar[95701]=`<b>συν·επιφάσκω</b> (<i>seul. prés</i>.) parler comme un autre, être du même avis, PLUT. <i>M. 63c</i>.`

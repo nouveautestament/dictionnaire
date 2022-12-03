@@ -1,1 +1,0 @@
-lar[90160]=`<b>(τὸ)</b> <i>seul. pl</i>. <b>σίδηρα, ων (τὰ)</b> <font color="purple">[ῐ]</font> <i>c</i>. σίδηρος, ARÉT. <i>Caus. m. diut. 2, 12</i>.`

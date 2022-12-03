@@ -1,1 +1,0 @@
-lar[26136]=`<b>δι·εκπηδάω-ῶ</b> (<i>seul. prés</i>.) bondir, ORIB. <i>118 Matthäi ; fig</i>. ARISTÉN. <i>2, 13</i>.`

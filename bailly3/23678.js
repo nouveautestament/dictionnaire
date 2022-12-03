@@ -1,1 +1,0 @@
-lar[23678]=`<b>δεκα·ναΐα, ας (ἡ)</b> <font color="purple">[ᾰνᾱ]</font> division navale, <i>litt</i>. flotte de dix vaisseaux (unité tactique navale), POL. <i>23, 7, 4 ; 25, 7, 1</i> ; DS. <i>14, 103</i> ; STR. <i>325</i>.<p><b>Étym</b>. δ. ναῦς.`

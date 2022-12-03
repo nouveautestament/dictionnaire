@@ -1,1 +1,0 @@
-lar[83030]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> ποτήριον, MÉN. (<i>Com. fr. 4, 318</i>).`

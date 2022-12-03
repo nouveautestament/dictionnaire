@@ -1,1 +1,0 @@
-lar[20497]=`<b>βου·πάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱ]</font> riche en bœufs, ANTH. <i>6, 263 ; 7, 740</i>.<p><b>Étym</b>. βοῦς, *πάομαι.`

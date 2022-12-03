@@ -1,1 +1,0 @@
-lar[3265]=`<b>ἀ·κέντητος, ος, ον :<br>      1</b> qui n’est pas <i>ou</i> n’a pas besoin d’être aiguillonné, PD. <i>O. 1, 21</i> ; EL. <i>N.A. 15, 24</i> ; ANTH. <i>5, 203</i>.<br><b>      2</b> non tacheté, PLIN. <i>H.N. 37, 2, 10</i>.<p><b>Étym</b>. ἀ, κεντέω.`

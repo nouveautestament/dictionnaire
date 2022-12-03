@@ -1,1 +1,0 @@
-lar[65313]=`<b>μηθ·είς</b>, <i>seul. au masc. et au neutre <b>μηθέν</b> (pour le fém. on n’emploie que μηδεμία de</i> μηδείς).<p><b>Étym</b>. μήτε, εἷς.`

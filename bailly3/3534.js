@@ -1,1 +1,0 @@
-lar[3534]=`<b>ή, όν</b> <font color="purple">[ᾰνῑ]</font> fait d’aconit, XÉN. <i>Cyr. 11, 2</i>.<p><b>Étym</b>. ἀκόνιτον.`

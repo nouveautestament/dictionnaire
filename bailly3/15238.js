@@ -1,1 +1,0 @@
-lar[15238]=`<b>ους (ὁ)</b> Artabazanès, <i>frère de Xerxès,</i> HDT. <i>7, 2, 3</i>.`

@@ -1,1 +1,0 @@
-lar[54766]=`<b>κεντρόω-ῶ :<br>   I</b> (κέντρον, aiguillon) :<br><b>      1</b> armer d’un aiguillon, PLAT. <i>Rsp. 552d, 555d.</i><br><b>      2</b> piquer d’un aiguillon, HDT. <i>3, 16 ; fig</i>. ARSTD. <i>t. 1, 327</i>.<br><b>   II</b> (κέντρον, centre) placer au centre, P. ALEX. <i>Apot. 25, p. 73, l. 15 Boer</i>.<p><b>Étym</b>. κέντρον.`

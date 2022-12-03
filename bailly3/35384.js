@@ -1,1 +1,0 @@
-lar[35384]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’effacer, de détruire, SPT. <i>Mich. 7, 11 ; Ezech. 9, 6</i>.<p><b>Étym</b>. ἐξαλείφω.`

@@ -1,1 +1,0 @@
-lar[74040]=`<b>ὀψο·νόμος, ου (ὁ)</b> opsonome, inspecteur qui contrôlait le prix des comestibles, <i>particul</i>. du poisson, à Athènes, SOPHIL. (ATH. <i>228b</i>).<p><b>Étym</b>. ὄψον, νέμω.`

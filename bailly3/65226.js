@@ -1,1 +1,0 @@
-lar[65226]=`<b>μετριοπαθέω-ῶ</b> <font color="purple">[ᾰ]</font> être modéré dans ses passions <i>ou</i> ses sentiments, JOS. <i>A.J. 12, 3, 2</i> ; τινι, NT. <i>Hebr. 5, 2,</i> à l’égard de qqn.<p><b>Étym</b>. μετριοπαθής.`

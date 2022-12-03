@@ -1,1 +1,0 @@
-lar[52280]=`PHRYN. TR. faire un geste obscène du majeur en touchant le cul du voisin  ; = <i>att</i>. σκιμαλίζειν faire la figue. <i>Cf</i>. καταδακτυλικός.`

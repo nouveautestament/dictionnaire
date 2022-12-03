@@ -1,1 +1,0 @@
-lar[70455]=`<b>ατος (τὸ)</b> élan impétueux, IL. <i>16, 752 ; 21, 252</i> ; Q. SM. <i>6, 201</i>.<p><b>Étym</b>. <i>p.-ê. p</i>. *οἶσμα, <i>de la R. indo-europ</i>. *h₃eis-, bouger rapidement ; <i>cf. sscr</i>. íṣyati, <i>lat</i>. īra.`

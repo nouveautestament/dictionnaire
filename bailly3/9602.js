@@ -1,1 +1,0 @@
-lar[9602]=`<b>ἀντ·ενδείκνυμαι</b>, fournir une contre-indication, GAL.`

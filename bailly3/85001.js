@@ -1,1 +1,0 @@
-lar[85001]=`<b>ας (ἡ)</b> chemin parcouru auparavant, POL. <i>9, 5, 8</i>.<p><b>Étym</b>. προπορεύω.`

@@ -1,1 +1,0 @@
-lar[38982]=`<b>α, ον</b>, qu’il faut examiner, considérer, THC. <i>6, 18</i> ; PLAT. <i>Phæd. 107b ; au neutre,</i> PLAT. <i>Rsp. 598d</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπισκέπτομαι.`

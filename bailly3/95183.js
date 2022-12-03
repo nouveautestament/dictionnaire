@@ -1,1 +1,0 @@
-lar[95183]=`<b>συν·διέρχομαι</b>, traverser ensemble, GAL. <i>8, 83</i>.`

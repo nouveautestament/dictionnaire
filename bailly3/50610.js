@@ -1,1 +1,0 @@
-lar[50610]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> = <i>lat</i>. Cæsarius, <i>n. d’h. rom</i>. ANTH. <i>8, 77</i>.`

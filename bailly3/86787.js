@@ -1,1 +1,0 @@
-lar[86787]=`<b>εως (ἡ)</b> <font color="purple">[τῑ]</font> action de priser davantage, prédilection, préférence pour, <i>gén</i>. THC. <i>3, 82</i> ; κατὰ προτίμησιν, RHÉT. <i>3, 708 W</i>. par ordre d’importance.<p><b>Étym</b>. προτιμάω.`

@@ -1,1 +1,0 @@
-lar[39283]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. ἐπισφράγισις RHÉT. <i>7, 17 W</i>.`

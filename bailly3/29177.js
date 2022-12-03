@@ -1,1 +1,0 @@
-lar[29177]=`<i>adv. litt</i>. sur l’air <i>ou</i> le mode de la corruption, <i>càd</i>. à la façon de ceux qui se laissent corrompre, <i>par jeu de mots avec</i> δωριστί, AR. <i>Eq. 996</i>.<p><b>Étym</b>. δωροδοκέω.`

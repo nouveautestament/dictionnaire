@@ -1,1 +1,0 @@
-lar[94918]=`<b>συν·αποστέλλω</b>, envoyer ensemble <i>ou</i> en même temps, THC. <i>6, 88</i> ; XÉN. <i>Cyr. 3, 3, 4 ; 5, 2, 37</i> ; IS. <i>59, 9, etc</i>.`

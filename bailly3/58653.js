@@ -1,1 +1,0 @@
-lar[58653]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> paupière supérieure, RUF. <i>p. 136, 4</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

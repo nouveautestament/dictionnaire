@@ -1,1 +1,0 @@
-lar[69349]=`<b>νωτοφορέω-ῶ</b>, porter sur son dos, DS. <i>2, 54, etc</i>.<p><b>Étym</b>. νωτοφόρος.`

@@ -1,1 +1,0 @@
-lar[4381]=`<b>ἀλητο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à la farine, HPC. <i>Coac. 217</i>.<p><b>Étym</b>. ἀ. εἶδος.`

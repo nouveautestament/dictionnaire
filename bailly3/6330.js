@@ -1,1 +1,0 @@
-lar[6330]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire d’Amphipolis, THC. <i>4, 104</i> ; XÉN. <i>An. 1, 10, 7, etc</i>.<p><b>Étym</b>. Ἀμφίπολις.`

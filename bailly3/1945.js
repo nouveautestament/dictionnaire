@@ -1,1 +1,0 @@
-lar[1945]=`<font color="purple">[θᾱ]</font> <i>dor. c</i>. Ἀθηναῖος.`

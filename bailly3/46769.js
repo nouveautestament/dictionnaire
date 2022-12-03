@@ -1,1 +1,0 @@
-lar[46769]=`<b>θεό·πτυστος, ος, ον</b>, rejeté (<i>litt</i>. conspué) par la divinité, ESCHL. <i>Sept. 604</i>.<p><b>Étym</b>. θ. πτύω.`

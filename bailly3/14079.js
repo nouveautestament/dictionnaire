@@ -1,1 +1,0 @@
-lar[14079]=`<b>ας (ἡ)</b> refus de se souder, <i>en parl. d’une fracture,</i> P. ÉG. <i>6, 110</i>.<p><b>Étym</b>. ἀπώρωτος.`

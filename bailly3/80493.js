@@ -1,1 +1,0 @@
-lar[80493]=`<b>εως (ἡ)</b> justification, confirmation, PLAT. <i>Leg. 943c ;</i> DC. <i>38, 12</i>.<p><b>Étym</b>. πιστόω.`

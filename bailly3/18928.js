@@ -1,1 +1,0 @@
-lar[18928]=`<b>βαλανει·όμφαλος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> qui a un renflement au milieu, <i>en parl. d’une bouteille,</i> CRAT. (ATH. <i>501d</i>).<p><b>Étym</b>. βαλανεῖον, ὀμφαλός.`

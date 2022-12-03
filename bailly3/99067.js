@@ -1,1 +1,0 @@
-lar[99067]=`<b>(ἡ)</b> Tigennis, <i>v. de Maurétanie,</i> PLUT. <i>Sert. 9</i>.`

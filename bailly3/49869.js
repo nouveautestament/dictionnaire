@@ -1,1 +1,0 @@
-lar[49869]=`<b>ης (ἡ)</b> Istônè, <i>mt de l’î. de Corcyre,</i> THC. <i>3, 85 ; 4, 46</i>.`

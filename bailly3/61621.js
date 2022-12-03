@@ -1,1 +1,0 @@
-lar[61621]=`<b>λοξο·πορέω-ῶ</b> marcher obliquement, tortueusement, PLUT. <i>M. 890e</i>.<p><b>Étym</b>. λ. πόρος.`

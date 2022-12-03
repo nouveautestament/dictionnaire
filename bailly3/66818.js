@@ -1,1 +1,0 @@
-lar[66818]=`<b>οῦ (ὁ)</b> charpie, rouleau de charpie, HPC. <i>477, 10 ; 483, 2</i> ; PLUT. <i>M. 100d</i>.`

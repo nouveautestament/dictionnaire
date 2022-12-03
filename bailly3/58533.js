@@ -1,1 +1,0 @@
-lar[58533]=`<font color="purple">[υ]</font><br><b>      1 <i>intr.</i></b> décrire un cercle autour, STR. <i>283</i>.<br><b>      2 <i>tr.</i></b> entourer, envelopper, APP. <i>Civ. 4, 71</i>.<p><b>Étym</b>. κύκλος.`

@@ -1,1 +1,0 @@
-lar[58729]=`<b>κυν·αλώπηξ, πεκος (ἡ)</b> <font color="purple">[ῠᾰ]</font> chien hybride, né d’un renard et d’une chienne, CÆL. RHOD. <i>10, 41 ; fig. en parl. d’un homme rusé et impudent,</i> AR. <i>Eq. 1067, 1069 ; en parl. des philosophes cyniques,</i> LUC. <i>Per. 30 ; n. pr</i>. AR. <i>Lys. 957</i>.<p><b>Étym</b>. κύων, ἀλώπηξ.`

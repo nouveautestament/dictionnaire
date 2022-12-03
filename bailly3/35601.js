@@ -1,1 +1,0 @@
-lar[35601]=`<b>ἐξ·άριθμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui est en surplus, ASCLÉPIOD. <i>2, 9</i>.<p><b>Étym</b>. ἐξ, ἀριθμός.`

@@ -1,1 +1,0 @@
-lar[40394]=`<b>ἐρι·βόας, όου</b>, <i>adj. m</i>. à la voix retentissante, <i>ép. de Bacchus,</i> PD. <i>fr. 45, 10 ; d’Hermès,</i> ANTH. <i>15, 27</i>.<p><b>Étym</b>. ἐρι-, βοή.`

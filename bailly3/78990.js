@@ -1,1 +1,0 @@
-lar[78990]=`<b>ας (ἡ)</b> ronde, patrouille, EN. TACT. <i>Pol. 21</i>.<p><b>Étym</b>. περίοδος.`

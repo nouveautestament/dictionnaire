@@ -1,1 +1,0 @@
-lar[85614]=`<b>προσ·εξεμέω-ῶ</b>, vomir en outre, PLUT. <i>M. 524a</i>.`

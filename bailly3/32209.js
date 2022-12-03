@@ -1,1 +1,0 @@
-lar[32209]=`<b>η, ον</b>, sixième, IL. <i>2, 407</i> ; OD. <i>3, 415</i> ; HÉS. <i>O. 611</i> ; THC. <i>2, 2 ; etc. ; subst</i>. ὁ ἕκτος (<i>s.-e</i>. μήν) = <i>lat</i>. sextilis, le 6<sup>e</sup> mois, le mois d’août, PLUT. <i>M. 268a</i>.<p><b>Étym</b>. ἕξ.`

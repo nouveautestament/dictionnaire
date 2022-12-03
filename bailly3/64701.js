@@ -1,1 +1,0 @@
-lar[64701]=`<b>ος, ον :<br>      1</b> qui existe <i>ou</i> se répand parmi le peuple, OD. <i>13, 46</i>.<br><b>      2</b> qui est dans le pays, OD. <i>8, 293 ; ou</i> du pays, DP. <i>774</i>.<p><b>Étym</b>. μ. δῆμος.`

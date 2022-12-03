@@ -1,1 +1,0 @@
-lar[35682]=`<b>ἑξα·χοίνικος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui contient six chénices, AR. (<i>Com. fr. 2, 1198, 93).</i><p><b>Étym</b>. ἕξ, χοῖνιξ.`

@@ -1,1 +1,0 @@
-lar[77396]=`<b>πατρο·τύπτης, ου</b>, <i>adj. m</i>. qui frappe son père, IS. (POLL. <i>3, 13</i>) ; SEXT. <i>683, 24 Bkk</i>.<p><b>Étym</b>. π. τύπτω.`

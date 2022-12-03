@@ -1,1 +1,0 @@
-lar[63592]=`<b>εως (ἡ)</b> action de laisser aller, abandon, PHIL. <i>1, 354</i>.<p><b>Étym</b>. μεθίημι.`

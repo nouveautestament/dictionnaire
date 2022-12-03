@@ -1,1 +1,0 @@
-lar[22490]=`<b>γοργόομαι-οῦμαι</b> (<i>seul. part. prés</i>. -ούμενος) donner des signes d’impatience, piaffer, s’agiter, <i>en parl. d’un cheval,</i> XÉN. <i>Eq. 10, 4</i>.<p><b>Étym</b>. γοργός.`

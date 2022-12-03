@@ -1,1 +1,0 @@
-lar[85110]=`<b>προσ·ακριβόω-ῶ</b> <font color="purple">[ῑ]</font> faire avec le plus grand soin, ARSTT. (DL. <i>5, 28</i>) ; STR. <i>690</i>.`

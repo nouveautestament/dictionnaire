@@ -1,1 +1,0 @@
-lar[18496]=`<b>ἄ·χονδρος, ος, ον</b>, sans cartilage, ARSTT. <i>Spir. 6, 4</i>.<p><b>Étym</b>. ἀ, χόνδρος.`

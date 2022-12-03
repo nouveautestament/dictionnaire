@@ -1,1 +1,0 @@
-lar[47443]=`<b>ητος (ἡ)</b> qualité d’un être mortel, CHRYS. <i>10, 150 Migne</i>.<p><b>Étym</b>. θνητός.`

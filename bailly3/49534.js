@@ -1,1 +1,0 @@
-lar[49534]=`<b>(ὁ)</b> Isaras, <i>n. lycien d’Amisadôros,</i> PLUT. <i>Mul. virt. 9</i>.`

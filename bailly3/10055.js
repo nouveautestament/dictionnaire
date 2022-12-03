@@ -1,1 +1,0 @@
-lar[10055]=`<b>ἀντι·μανθάνω</b> (<i>part. ao.2</i> -μαθών) apprendre à son tour <i>ou</i> en retour <i>ou</i> à la place, AR. <i>Vesp. 1453</i>.`

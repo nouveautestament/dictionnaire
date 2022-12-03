@@ -1,1 +1,0 @@
-lar[70278]=`<b>Οἰδί·πος, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. Οἰδίπους ESCHL. <i>Sept. 203, etc.</i> ; SOPH. <i>O.R. 40, etc</i>.`

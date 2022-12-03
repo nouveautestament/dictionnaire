@@ -1,1 +1,0 @@
-lar[1684]=`<i>adv</i>., d’une façon éternellement mémorable, ESCHN. <i>52, 22</i>.`

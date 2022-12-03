@@ -1,1 +1,0 @@
-lar[59433]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> lièvre, <i>c</i>. λαγώς, IL. <i>10, 361 ; 22, 310</i> ; OD. <i>17, 294</i> ; XÉN. <i>Cyn. 10, 2</i> ; ARSTT. <i>H.A. 8, 28, etc.</i><br><b>      2</b> constellation, NONN. <i>D. 16, 205, etc</i>.`

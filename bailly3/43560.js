@@ -1,1 +1,0 @@
-lar[43560]=`<b>εὐ·ταμίευτος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> bien distribué, distribué avec mesure, <i>d’où</i> bien mesuré, modéré, ARSTT. <i>G.A. 5, 7, 14</i>.<br><b>      2</b> facile à répartir, <i>d’où</i> qu’on peut facilement se procurer, facile, HPC. <i>Art. 799, 803</i>.<p><b>Étym</b>. εὖ, ταμιεύω.`

@@ -1,1 +1,0 @@
-lar[29034]=`<b>δυσ·χωρία, ας (ἡ)</b> difficulté d’un lieu, d’un terrain, XÉN. <i>Cyr. 1, 6, 37</i> ; PLAT. <i>Menex. 245a ; au plur</i>. XÉN. <i>Cyr. 1, 6, 35, etc.</i> ; ISOCR. <i>132d</i>.<p><b>Étym</b>. δ. χώρα.`

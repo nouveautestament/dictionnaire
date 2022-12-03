@@ -1,1 +1,0 @@
-lar[100299]=`<b>τρί·μοιρος, ος, ον</b> <font color="purple">[ῐ]</font> triple (<i>litt</i>. formé de trois parts) ESCHL. <i>Ag. 872</i>.<p><b>Étym</b>. τρ. μοῖρα.`

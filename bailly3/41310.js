@@ -1,1 +1,0 @@
-lar[41310]=`<b>ἑτερο·ειδής, ής, ές</b>, d’autre apparence, d’autre aspect ; <i>p. suite,</i> d’autre espèce, ARSTT. <i>H.A. 2, 12, 13</i> ; PLUT. <i>M. 894a</i>.<p><b>Étym</b>. ἕ. εἶδος.`

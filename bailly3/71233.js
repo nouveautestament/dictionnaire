@@ -1,1 +1,0 @@
-lar[71233]=`<i>adv</i>., complètement, AQU. <i>Deut. 13, 16, etc</i>.<p><b>Étym</b>. ὁλοτελής.`

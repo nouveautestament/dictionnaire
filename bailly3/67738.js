@@ -1,1 +1,0 @@
-lar[67738]=`<b>ναύ·κραρος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> président de section de chaque tribu, <i>à Athènes,</i> HDT. <i>5, 71</i> ; THC. <i>1, 126, etc</i>.<p><b>Étym</b>. ναῦς, κάρα.`

@@ -1,1 +1,0 @@
-lar[83655]=`<b>προ·αποκρούομαι</b>, repousser d’abord, SYN. <i>146a</i>.`

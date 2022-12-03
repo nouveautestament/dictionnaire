@@ -1,1 +1,0 @@
-lar[69029]=`<b>οῦ (ὁ)</b> usurpation, vol, POL. <i>32, 21, 8 ; particul</i>. concussion, péculat, PLUT. <i>M. 843</i>.<p><b>Étym</b>. νοσφίζω.`

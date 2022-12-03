@@ -1,1 +1,0 @@
-lar[18961]=`<b>οῦ (ὁ)</b> exilé, PAUS. <i>10, 17, 9, mot corse</i>.`

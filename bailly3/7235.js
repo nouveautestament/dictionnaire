@@ -1,1 +1,0 @@
-lar[7235]=`<i>adv</i>., non virilement, lâchement, ANT. <i>116, 2</i> ; PLAT. <i>Theæt. 177b, 203e ;</i> ISOCR. <i>72d, etc</i>.`

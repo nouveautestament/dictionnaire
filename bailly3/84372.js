@@ -1,1 +1,0 @@
-lar[84372]=`<b>α, ον</b> <font color="purple">[ῠ]</font> qui est devant la porte, <i>ép. d’Artémis,</i> ORPH. <i>H. 1, 4</i> ; τὰ προθύραια, HH. <i>Merc. 384,</i> le vestibule.<p><b>Étym</b>. πρόθυρον.`

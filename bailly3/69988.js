@@ -1,1 +1,0 @@
-lar[69988]=`<b>ου (ἡ)</b> <font color="purple">[ᾱ]</font> Oanos, <i>v. de Lydie,</i> NONN. <i>D. 13, 471</i>.`

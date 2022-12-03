@@ -1,1 +1,0 @@
-lar[41730]=`<b>εὔ·βουλος, ος, ον</b>, de bon conseil, HDT. <i>8, 110</i> ; THC. <i>1, 84</i> ; SOPH. <i>O.C. 9, 47</i> ; EUR. <i>Rhes. 105, etc. ; particul. ép. de Thémis,</i> PD. <i>O. 13, 8</i>.<p>➳ <i>• Cp</i>. -ότερος, AR. <i>Pax 689</i> PLAT. <i>Sis. 391c. • Sup</i>. -ότατος, AND. <i>18, 18</i>.<p><b>Étym</b>. εὖ, βουλή.`

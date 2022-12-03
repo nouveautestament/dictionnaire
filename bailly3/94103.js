@@ -1,1 +1,0 @@
-lar[94103]=`<b>εως (ἡ)</b> observation simultanée, GAL. <i>2, 300</i> ; SEXT. <i>M. 8, 154</i>.<p><b>Étym</b>. συμπαρατηρέω.`

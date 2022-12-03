@@ -1,1 +1,0 @@
-lar[15902]=`<b>ἀσκ·αύλης, ου (ὁ)</b> joueur de cornemuse, D. CHR. <i>2, 381</i>.<p><b>Étym</b>. ἀσκός, αὐλέω.`

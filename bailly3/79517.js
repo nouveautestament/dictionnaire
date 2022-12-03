@@ -1,1 +1,0 @@
-lar[79517]=`<b>εως (ἡ)</b> action de trouer autour, ORIB. <i>p. 97 Cocch</i>.<p><b>Étym</b>. περιτιτραίνω.`

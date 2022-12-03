@@ -1,1 +1,0 @@
-lar[9304]=`<b>ἀν·οργίαστος, ος, ον :<br>      1</b> non honoré par des mystères <i>ou</i> un culte, PLAT. <i>Epin. 985d ; en parl. de sacrifices,</i> non célébré, AR. <i>Lys. 898</i>.<br><b>      2</b> non initié à, <i>gén</i>. THÉM. <i>166</i>.<p><b>Étym</b>. ἀν-, ὀργιάζω.`

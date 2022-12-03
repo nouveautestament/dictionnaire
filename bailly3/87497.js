@@ -1,1 +1,0 @@
-lar[87497]=`<b>α, ον</b> <font color="purple">[ῡ]</font> des fesses ; τὸ πυγαῖον, ARCHIPP. (SCH.-AR. <i>Eq. 424</i>) fesse ; τὸ πυγαῖον ἄκρον, HDT. <i>2, 76, ou</i> τὸ πυγαῖον, HPC. <i>Art. 823</i> ; ARSTT. <i>H.A. 9, 35, etc</i>. le croupion.<p><b>Étym</b>. πυγή.`

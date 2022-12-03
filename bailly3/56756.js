@@ -1,1 +1,0 @@
-lar[56756]=`<b>κολῳάω-ῳῶ</b>, criailler, pousser un cri rauque (<i>propr</i>. un cri de geai) IL. <i>2, 212</i>.<p><b>Étym</b>. κολοιός.`

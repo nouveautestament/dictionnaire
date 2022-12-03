@@ -1,1 +1,0 @@
-lar[32134]=`<b>εως (ἡ)</b> enfantement, ARSTT. <i>Mir. 177</i> ; SEXT. <i>M. 5, 55</i>.<p><b>Étym</b>. ἐκτίκτω.`

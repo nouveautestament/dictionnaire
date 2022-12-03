@@ -1,1 +1,0 @@
-lar[87659]=`<b>ης (ἡ)</b> <font color="purple">[σῠ]</font> art du pugilat, XÉNOPHAN. (ATH. <i>414a</i>).<p><b>Étym</b>. πύκτης.`

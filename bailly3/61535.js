@@ -1,1 +1,0 @@
-lar[61535]=`<b>λογο·πώλης, ου (ὁ)</b> marchand de paroles, PHILSTR. <i>p. 526</i> ; PHIL. <i>1, 526</i>.<p><b>Étym</b>. λ. πωλέω.`

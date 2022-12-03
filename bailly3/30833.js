@@ -1,1 +1,0 @@
-lar[30833]=`<b>εἰσ·οιχνέω-ῶ</b>, entrer dans, <i>acc. seul. 3 pl. épq</i>. εἰσοιχνεῦσιν, OD. <i>9, 120</i> ; ESCHL. <i>Pr. 122 ; et part. prés. épq</i>. εἰσοιχνεῦσαν, OD. <i>6, 157</i>.<p><b>Étym</b>. εἰς, οἴχομαι.`

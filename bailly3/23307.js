@@ -1,1 +1,0 @@
-lar[23307]=`<b>δασύ·κερκος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à la queue velue, THCR. <i>Idyl. 5, 112</i>.<p><b>Étym</b>. δ. κέρκος.`

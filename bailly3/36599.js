@@ -1,1 +1,0 @@
-lar[36599]=`<b>ἐπ·ανακεφαλαιόομαι-οῦμαι</b> <font color="purple">[φᾰ]</font> récapituler, HERMOG. <i>Rhet. 26, 5</i>.`

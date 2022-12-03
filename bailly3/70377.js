@@ -1,1 +1,0 @@
-lar[70377]=`<b>οἰκο·δέσποινα, ης (ἡ)</b> maîtresse de maison, PHINTYS (STOB. <i>Fl. 74, 61</i>) ; PLUT. <i>M. 140c, etc.</i> ; BABR. <i>10, 5</i>.<p><b>Étym</b>. οἶκ. δέσποινα.`

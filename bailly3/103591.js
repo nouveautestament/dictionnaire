@@ -1,1 +1,0 @@
-lar[103591]=`<b>ὑπο·νεφέλη, ης (ἡ)</b> nuage dans les urines, GAL. <i>19, 617</i>.<p><b>Étym</b>. <i>cf</i>. ὑπονέφελος.`

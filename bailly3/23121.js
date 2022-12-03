@@ -1,1 +1,0 @@
-lar[23121]=`<b>δαμασί·μβροτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui dompte les mortels (Sparte), SIM. (PLUT. <i>Ages. 1</i>).<br><b>      2</b> qui fait périr les mortels (lance), PD. <i>O. 9, 85</i>.<p><b>Étym</b>. δαμάζω, βροτός.`

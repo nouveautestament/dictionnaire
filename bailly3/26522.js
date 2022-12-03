@@ -1,1 +1,0 @@
-lar[26522]=`<font color="purple">[δῐ]</font> <i>adv</i>., à la manière des juges, LUC. <i>Herm. 47</i>.`

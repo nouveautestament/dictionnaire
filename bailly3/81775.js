@@ -1,1 +1,0 @@
-lar[81775]=`<b>πολύ·βωμος, ος, ον</b> <font color="purple">[ῠ]</font> aux nombreux autels, CALL. <i>Del. 266</i>.<p><b>Étym</b>. π. βωμός.`

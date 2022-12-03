@@ -1,1 +1,0 @@
-lar[35262]=`<b>ἐξ·αγριαίνω :<br>      1</b> aigrir, exaspérer, PLAT. <i>Lys. 206b ;</i> τινὰ πρός τινα, PLUT. <i>Dio. 7</i> ; τινὰ ἐπί τινι, JOS. <i>A.J. 17, 6, 5,</i> une personne contre une autre ; <i>au pass</i>. être exaspéré, s’exaspérer, PLAT. <i>Rsp. 336d.</i><br><b>      2 <i>intr.</i></b> s’irriter, APP. <i>Ill. 23</i>.`

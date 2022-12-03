@@ -1,1 +1,0 @@
-lar[79269]=`<b>ος, ον :<br>      1</b> visible de tous côtés, <i>d’où</i> élevé, <i>ou, au contr</i>. en plaine, OD. <i>1, 426 ; 12, 211</i> ; A. PL. <i>160, etc.</i><br><b>      2</b> digne d’être vu par tous, joli, admirable, CALL. <i>Epigr. 5</i>.<br><b>      3</b> admiré, ANTH. <i>12, 91</i>.<p><b>Étym</b>. περισκέπτομαι.`

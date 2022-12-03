@@ -1,1 +1,0 @@
-lar[104538]=`<b>ὑψι·τενής, ής, ές</b> <font color="purple">[ῐ]</font> qui tend vers les hauteurs, haut, élevé, NONN. <i>Jo. 19, 171</i>.<p><b>Étym</b>. ὕ. τείνω.`

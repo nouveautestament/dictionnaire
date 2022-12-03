@@ -1,1 +1,0 @@
-lar[90272]=`<font color="purple">[ῐ]</font> <i>adv</i>., de Sicyone, PD. <i>N. 9, 2 ; 10, 80</i>.<p><b>Étym</b>. Σικυών, -θε.`

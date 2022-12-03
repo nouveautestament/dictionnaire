@@ -1,1 +1,0 @@
-lar[39485]=`<b>ἐπι·τριακοστό·μονος λόγος (ὁ)</b> <font color="purple">[ᾱ]</font> proportion de ³²⁄₃₁, PTOL. <i>Harm. 2, 14, p. 168 Wal</i>.`

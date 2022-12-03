@@ -1,1 +1,0 @@
-lar[103111]=`<b>(ὁ)</b> <i>litt</i>. « le peureux », <i>n. com. d’oiseau,</i> AR. <i>Av. 65</i>.<p><b>Étym</b>. ὑποδέδια.`

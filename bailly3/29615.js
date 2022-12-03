@@ -1,1 +1,0 @@
-lar[29615]=`<b>οῦ (ὁ)</b> qui peint à l’encaustique, PLUT. <i>M. 348e</i>.<p><b>Étym</b>. ἐγκαίω.`

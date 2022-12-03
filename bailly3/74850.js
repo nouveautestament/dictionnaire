@@ -1,1 +1,0 @@
-lar[74850]=`<b>παν·αληθής, ής, ές</b> <font color="purple">[ᾰνᾰ]</font><br><b>      1</b> tout à fait véridique, ESCHL. <i>Sept. 724</i>.<br><b>      2</b> tout à fait réel, PLAT. <i>Rsp. 583b</i>.<p><b>Étym</b>. π. ἀληθής.`

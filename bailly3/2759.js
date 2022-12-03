@@ -1,1 +1,0 @@
-lar[2759]=`<b>αἰολο·μίτρης, ου (ὁ) :<br>      1</b> au ceinturon de couleurs variées, IL. <i>5, 707</i>.<br><b>      2</b> aux mitres <i>ou</i> tiares (persanes) de couleurs variées, THCR. <i>Idyl. 17, 19</i>.<p><b>Étym</b>. αἰ. μίτρα.`

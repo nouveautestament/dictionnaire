@@ -1,1 +1,0 @@
-lar[109241]=`<b>Χρυσό·πολις, εως (ἡ)</b> <font color="purple">[ῡ]</font> Khrysopolis, <i>litt</i>. « ville d’or » (<i>auj</i>. Üsküdar) <i>lieu de Bithynie,</i> XÉN. <i>An. 6, 6, 38 ; 7, 1, 1 ; Hell. 1, 1, 22, etc</i>.<p><b>Étym</b>. χρ. πόλις.`

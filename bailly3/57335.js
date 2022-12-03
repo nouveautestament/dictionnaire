@@ -1,1 +1,0 @@
-lar[57335]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> coupe pour jouer au cottabe, ATH. <i>149b, 479c</i>.<p><b>Étym</b>. κότταβος.`

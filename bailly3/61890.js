@@ -1,1 +1,0 @@
-lar[61890]=`<b>Λυκο·λέων, οντος (ὁ)</b> <font color="purple">[ῠ]</font> Lykoleôn, <i>orateur athénien,</i> ARSTT. <i>Rhet. 3, 10</i>.`

@@ -1,1 +1,0 @@
-lar[3139]=`<b>ἀ·κάπνωτος, ος, ον</b>, non rempli de fumée, EUR. <i>Phaëth. fr. 2, 54</i>.<p><b>Étym</b>. ἀ, καπνόω.`

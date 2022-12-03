@@ -1,1 +1,0 @@
-lar[76823]=`<b>παρ·ευρίσκω :<br>      1</b> trouver en outre, STR. <i>758 ; au pass</i>. HDT. <i>3, 31</i>.<br><b>      2</b> imaginer, inventer, controuver : τι, HDT. <i>1, 26</i> ; τι ἔς τινα, PAUS. <i>9, 5, 3,</i> ourdir une intrigue contre qqn.`

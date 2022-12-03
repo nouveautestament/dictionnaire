@@ -1,1 +1,0 @@
-lar[34824]=`<b>ἐν·οκλάζω</b>, être accroupi sur les genoux <i>ou</i> les jarrets, PHILSTR. <i>867</i>.`

@@ -1,1 +1,0 @@
-lar[39052]=`<b>ής, ές</b>, actif, empressé, ARSTT. <i>Physiogn. 3, 2</i>.<p><b>Étym</b>. ἐπισπέρχω.`

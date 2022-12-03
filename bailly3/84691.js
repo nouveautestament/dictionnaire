@@ -1,1 +1,0 @@
-lar[84691]=`<b>προ·μαρτύρομαι</b> <font color="purple">[ῡ]</font> attester d’avance, NT. <i>1Petr. 1, 11</i>.`

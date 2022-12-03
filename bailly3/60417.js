@@ -1,1 +1,0 @@
-lar[60417]=`<b>ας (ἡ)</b> discussion subtile sur des riens, HERMIPP. (<i>Com. fr. 2, 386</i>) ; PHILSTR. <i>V. Ap. 1, p. 21</i>.<p><b>Étym</b>. λεπτολόγος.`

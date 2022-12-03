@@ -1,1 +1,0 @@
-lar[54038]=`<b>κατ·ήρης, ης, ες</b>, tout garni : τινί, EUR. <i>Suppl. 122</i> ; NIC. <i>Th. 69,</i> muni <i>ou</i> garni de qqe ch. ; ὀσμῇ, EUR. <i>El. 498,</i> tout parfumé ; <i>en parl. de navires</i> : πλοῖον κ. HDT. <i>8, 21,</i> navire tout équipé ; ταρσὸς κ. EUR. <i>I.T. 1346,</i> rame bien ajustée.<p><b>Étym</b>. κ. *ἄρω.`

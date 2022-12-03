@@ -1,1 +1,0 @@
-lar[48250]=`<b>ίδος</b> <font color="purple">[ᾱ]</font> <i>adj. f</i>. d’Ionie, NIC. (ATH. <i>683b</i>).<p><b>Étym</b>. Ἰάονες.`

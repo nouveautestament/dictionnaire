@@ -1,1 +1,0 @@
-lar[99128]=`<b>τιθηνο·κόμος, ος, ον</b> <font color="purple">[ῐ]</font> qui donne les soins d’une nourrice, PHIL.<p><b>Étym</b>. τιθήνη, κομέω.`

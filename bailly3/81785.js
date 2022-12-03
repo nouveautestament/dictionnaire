@@ -1,1 +1,0 @@
-lar[81785]=`<b>πολύ·γηθος, ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. πολυγηθής ORPH. <i>H. 9, 10</i>.<p><b>Étym</b>. <i>dout</i>.`

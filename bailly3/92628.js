@@ -1,1 +1,0 @@
-lar[92628]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> goutte d’eau : ὅσον στίλην, AR. <i>Vesp. 213,</i> aussi peu que rien.`

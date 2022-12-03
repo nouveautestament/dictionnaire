@@ -1,1 +1,0 @@
-lar[101424]=`<b>ὑγρο·τράχηλος, ος, ον</b> <font color="purple">[ᾰ]</font> au cou flexible, ARSTT.`

@@ -1,1 +1,0 @@
-lar[23778]=`<i>adv</i>., d’une manière attrayante <i>ou</i> séduisante, CLÉM. <i>Str. 2, 20, 120</i>.`

@@ -1,1 +1,0 @@
-lar[54827]=`<i>(seul. prés.) c</i>. κεράννυμι, PLAT. <i>Phil. 61b ;</i> ALC. COM. (<i>Com. fr. 2, 829</i>) ; THÉOPHILE COM. <i>3, 627</i>.`

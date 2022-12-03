@@ -1,1 +1,0 @@
-lar[63083]=`<b>μαστιάω-ῶ</b> (<i>seul. part. prés. épq</i>. μαστιόων) fouetter, HÉS. <i>Sc. 431</i>.<p><b>Étym</b>. μάστις.`

@@ -1,1 +1,0 @@
-lar[71207]=`<b>ὁλό·πυρος, ος, ον</b> <font color="purple">[ῡ]</font> dont les grains sont entiers ; ὁ ὁλόπυρος, HLD. ATH. (ATH. <i>406d</i>), blé cuit sans être moulu.<p><b>Étym</b>. ὅλ. πυρός.`

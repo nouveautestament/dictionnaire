@@ -1,1 +1,0 @@
-lar[35448]=`<b>ἐξ·αναγιγνώσκω</b> <font color="darkgreen">(<i>f</i>. -αναγνώσομαι)</font> lire jusqu’au bout, PLUT. <i>Cato mi. 68, etc</i>.`

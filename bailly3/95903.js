@@ -1,1 +1,0 @@
-lar[95903]=`<i>adv.</i> :<br><b>      1</b> conjointement, collectivement, PHOT. <i>Bibl. 323, 9 ; p. suite,</i> en général, AMMON.Gr. <i>p. 63</i>.<br><b>      2</b> par contraction, HSCH. <i>v°</i> ἅλιον.<p><b>Étym</b>. συναιρέω.`

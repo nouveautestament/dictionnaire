@@ -1,1 +1,0 @@
-lar[108249]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> lyre, POSIDON. (ATH. <i>527f</i>).<br><b>      2</b> sorte d’escabeau rond, SEXT. <i>M. 1, 246</i>.<br><b>      3</b> seuil d’une tente, SPT. <i>Judith 14, 15</i>.<p><b>Étym</b>. χελώνη.`

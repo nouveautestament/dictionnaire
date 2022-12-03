@@ -1,1 +1,0 @@
-lar[15510]=`<b>Ἀρχάνδρου πόλις (ἡ)</b> la ville d’Arkhandros, <i>dans la basse Égypte,</i> HDT. <i>2, 98</i>.`

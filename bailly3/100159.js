@@ -1,1 +1,0 @@
-lar[100159]=`<b>οῦ (ὁ)</b> petit cri aigu des petits oiseaux, ARSTT. <i>H.A. 9, 8, 10 ; ou</i> de certains poissons, ARSTT. <i>H.A. 4, 9, 5</i>.<p><b>Étym</b>. τρίζω.`

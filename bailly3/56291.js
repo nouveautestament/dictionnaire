@@ -1,1 +1,0 @@
-lar[56291]=`<font color="purple">[ῐ]</font> <i>adv</i>., de Cnide, LUC. <i>Lex. 7</i>.<p><b>Étym</b>. Κνίδος, -θεν.`

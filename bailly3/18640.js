@@ -1,1 +1,0 @@
-lar[18640]=`<b>ἄ·ψυκτος, ος, ον</b>, qui ne peut être rafraîchi <i>ou</i> refroidi, PLAT. <i>Phæd. 106a</i>.<p><b>Étym</b>. ἀ, ψύχω.`

@@ -1,1 +1,0 @@
-lar[6170]=`<b>*ἀμφι·θρῴσκω</b> (<i>seul. part. ao.2</i> ἀμφιθορών) sauter autour, A.RH. <i>3, 1373</i>.`

@@ -1,1 +1,0 @@
-lar[69197]=`<b>ας (ἡ)</b> nénuphar, <i>plante aquatique,</i> TH. <i>H.P. 9, 13</i> ; DIOSC. <i>3, 148</i>.`

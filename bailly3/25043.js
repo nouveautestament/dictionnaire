@@ -1,1 +1,0 @@
-lar[25043]=`<b>ου (τὸ)</b> portion mesurée, ration de soldat, PLUT. <i>Dem. 40 (var</i>. διάμετρος).<p><b>Étym</b>. <i>neutre de</i> διάμετρος.`

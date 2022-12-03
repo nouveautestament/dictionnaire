@@ -1,1 +1,0 @@
-lar[88643]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Rhiphonos, <i>chef des Centaures,</i> NONN. <i>D. 14, 189</i>.`

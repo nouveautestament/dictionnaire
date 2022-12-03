@@ -1,1 +1,0 @@
-lar[3850]=`<b>ἀκρο·σχιδής, ής, ές</b> <font color="purple">[ῐ]</font> fendu à l’extrémité, TH. <i>H.P. 3, 11, 1, au cp</i>. -έστερος.<p><b>Étym</b>. ἄ. σχίζω.`

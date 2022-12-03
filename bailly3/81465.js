@@ -1,1 +1,0 @@
-lar[81465]=`<b>ποιολογέω-ῶ</b>, cueillir de l’herbe, cueillir <i>ou</i> ramasser des épis, THCR. <i>Idyl. 3, 32</i>.<p><b>Étym</b>. ποιολόγος.`

@@ -1,1 +1,0 @@
-lar[71195]=`<b>ὁλο·μερής, ής, ές</b>, dont les parties sont entières, en gros morceaux, DS. <i>5, 28</i>.<p><b>Étym</b>. ὅλ. μέρος.`

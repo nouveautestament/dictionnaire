@@ -1,1 +1,0 @@
-lar[77009]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> voyageur qui passe, passant, HPC. <i>1280, 16</i> ; ANTH. <i>9, 249</i>.<p><b>Étym</b>. πάροδος.`

@@ -1,1 +1,0 @@
-lar[94307]=`<b>συμ·πολίζω</b>, réunir en une ville, JOS. <i>B.J. 5, 4, 2 ; au pass</i>. DH. <i>1, 71</i> ; STR. <i>337</i>.`

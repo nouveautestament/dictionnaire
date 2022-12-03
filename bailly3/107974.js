@@ -1,1 +1,0 @@
-lar[107974]=`<b>ου (ὁ)</b> Kharmos, <i>h</i>. PLUT. <i>Sol. 1, etc</i>.<p><b>Étym</b>. χαίρω.`

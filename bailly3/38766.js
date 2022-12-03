@@ -1,1 +1,0 @@
-lar[38766]=`<i>adv</i>., avec violence, POL. <i>4, 12, 9</i>.`

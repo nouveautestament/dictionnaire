@@ -1,1 +1,0 @@
-lar[29846]=`<b>εως (ἡ)</b> veille, PHIL. <i>1, 71 Migne</i> ; CHRYS. <i>5, 880</i>.<p><b>Étym</b>. ἐγρήγορα.`

@@ -1,1 +1,0 @@
-lar[49844]=`<b>ατος (τὸ) :<br>      1</b> sujet d’enquête, question, ANACR. <i>4, 9</i>.<br><b>      2</b> récit, narration, DH. <i>2, 61</i> ; ARSTD. <i>t. 1, 24</i>.<p><b>Étym</b>. ἱστορέω.`

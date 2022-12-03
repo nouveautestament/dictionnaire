@@ -1,1 +1,0 @@
-lar[75168]=`<font color="purple">[ῠ]</font> <i>adv. c</i>. πανσυδίᾳ ARAT. 714.`

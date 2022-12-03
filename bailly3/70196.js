@@ -1,1 +1,0 @@
-lar[70196]=`<b>ὀζόομαι-οῦμαι</b>, former des nœuds, <i>d’où</i> pousser en branches, TH. <i>C.P. 3, 5, 1</i>.<p><b>Étym</b>. ὄζος.`

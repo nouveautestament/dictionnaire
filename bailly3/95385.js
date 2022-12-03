@@ -1,1 +1,0 @@
-lar[95385]=`<b>συν·εκπλέω</b>, s’embarquer avec : τινι, THC. <i>4, 3</i> ; μετά τινος, LYS. <i>132, 16,</i> avec qqn ; <i>abs</i>. LYS. <i>132, 7 et 10</i>.`

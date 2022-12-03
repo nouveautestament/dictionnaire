@@ -1,1 +1,0 @@
-lar[52478]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> couverture, enveloppe, SPT. <i>Ex. 26, 14, etc.</i> ; JOS. <i>B.J. 5, 12, 3</i>.<p><b>Étym</b>. κατακαλύπτω.`

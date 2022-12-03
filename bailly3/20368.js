@@ -1,1 +1,0 @@
-lar[20368]=`<b>βου·δύτης, ου (ὁ)</b> sorte de petit oiseau, <i>p.-ê</i>. bergeronnette, OPP. <i>Ix. 3, 2</i>.<p><b>Étym</b>. βοῦς, δύω.`

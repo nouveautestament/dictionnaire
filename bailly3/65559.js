@@ -1,1 +1,0 @@
-lar[65559]=`<b>μητρο·μιξία, ας (ἡ)</b> union incestueuse avec sa mère, SEXT. <i>Eth. 11, 191</i>.<p><b>Étym</b>. μ. μίγνυμι.`

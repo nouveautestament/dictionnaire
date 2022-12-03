@@ -1,1 +1,0 @@
-lar[1449]=`<i>adv</i>., d’une manière indéfinie, ARSTT. <i>Phys. 1, 1, 3</i>.`

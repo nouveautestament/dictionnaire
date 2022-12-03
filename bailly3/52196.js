@@ -1,1 +1,0 @@
-lar[52196]=`<b>ας (ἡ) :<br>      1</b> annonce, déclaration, PLUT. <i>Rom. 14</i> ; LUC. <i>Par. 42</i>.<br><b>      2</b> accusation, JOS. <i>A.J. 10, 7, 4</i>.<p><b>Étym</b>. κατάγγελος.`

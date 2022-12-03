@@ -1,1 +1,0 @@
-lar[18609]=`<b>ἁψιδο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> en forme de voûte, DC. <i>68, 25</i>.<p><b>Étym</b>. ἁψίς, εἶδος.`

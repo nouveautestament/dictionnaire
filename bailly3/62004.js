@@ -1,1 +1,0 @@
-lar[62004]=`<b>λυσ·ανίας, ου</b> <font color="purple">[ῡᾰᾱ]</font> <i>adj. m</i>. qui dissipe le chagrin, AR. <i>Nub. 1162</i>.<p><b>Étym</b>. λ. ἀνία.`

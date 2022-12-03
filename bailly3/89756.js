@@ -1,1 +1,0 @@
-lar[89756]=`<b>σελινο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> qui ressemble au persil, TH. <i>H.P. 3, 12, 5</i>.<p><b>Étym</b>. σέλινον, εἶδος.`

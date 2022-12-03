@@ -1,1 +1,0 @@
-lar[48359]=`<b>ύος (ἡ)</b> <i>c</i>. ἰγνύα.<p>➳ <i>Acc</i>. ἰγνύν, ARSTT. <i>H.A. 1, 14, ou</i> ἴγνυα, ARSTT. <i>H.A. 3, 5 ; pl. gén</i>. -ύων, ARSTT. <i>H.A. 3, 3, 1 ; dat</i>. -ύσι, HH. <i>Merc. 152 ; acc</i>. -ύας, ARSTT. <i>H.A. 3, 4, 13</i>.`

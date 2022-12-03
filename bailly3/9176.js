@@ -1,1 +1,0 @@
-lar[9176]=`<b>ἄν·οδμος, ος, ον</b>, inodore, HPC. <i>Prorrh. 151</i> ; ARSTT. <i>Probl. 3, 13</i>.<p><b>Étym</b>. ἀν-, ὀδμή.`

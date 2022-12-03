@@ -1,1 +1,0 @@
-lar[80653]=`<b>ου</b>, <i>voc</i>. Πλανητιάδη (ὁ) <font color="purple">[ᾰᾰ]</font> <i>propr</i>. « fils de vagabond, vagabond », <i>surn. de Didyme le Cynique,</i> PLUT. <i>Def. or. 7</i>.<p><b>Étym</b>. <i>patr. de</i> πλανήτης.`

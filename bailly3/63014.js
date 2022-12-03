@@ -1,1 +1,0 @@
-lar[63014]=`<b>μαρτυρο·ποιΐα, ας (ἡ)</b> <font color="purple">[ῠ]</font> action d’appeler en témoignage, PTOL. <i>Tetr. 183</i>.<p><b>Étym</b>. μάρτυς, ποιέω.`

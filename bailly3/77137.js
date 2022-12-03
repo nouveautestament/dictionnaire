@@ -1,1 +1,0 @@
-lar[77137]=`<b>παρ·οψίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> plat de friandises <i>ou</i> de hors-d’œuvre, XÉN. <i>Cyr. 1, 3, 4</i> ; ARCHESTR. (ATH. <i>64a</i>), <i>etc.</i><br><b>      2</b> plat, assiette, PLUT. <i>M. 828a ;</i> NT. <i>Matth. 23, 65</i> ; ARTÉM. <i>1, 74 ; fig</i>. MAGN. (<i>Com. fr. 2, 9).</i><p><b>Étym</b>. π. ὄψον.`

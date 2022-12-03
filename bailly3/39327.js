@@ -1,1 +1,0 @@
-lar[39327]=`<b>ου (τὸ)</b> Épitalion, <i>v. d’Élide,</i> XÉN. <i>Hell. 3, 2, 29</i>.`

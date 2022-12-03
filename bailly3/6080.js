@@ -1,1 +1,0 @@
-lar[6080]=`<b>ας (ἡ)</b> Amphigéneia, <i>v. d’Élide,</i> IL. <i>2, 593</i>.`

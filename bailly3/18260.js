@@ -1,1 +1,0 @@
-lar[18260]=`<b>ἀφρονέω-ῶ</b>, <i>f</i>. ήσω :<br><b>      1</b> (<i>seul. part. prés</i>.) être insensé, IL. <i>15, 104</i> ; HPC. <i>370, 5</i> ; ANTH. <i>10, 66</i>.<br><b>      2</b> rendre insensé, AQU. <i>2Reg. 15, 31 (impér. ao</i>. ἀφρόνησον).<p><b>Étym</b>. ἄφρων.`

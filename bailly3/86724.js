@@ -1,1 +1,0 @@
-lar[86724]=`<b>ή, όν</b>, qu’on place devant, <i>en parl. de l’article, p. opp. à</i> ἄρθρον ὑποτακτικόν <i>ou pronom relatif,</i> DYSC. <i>Pron. 264c ; en parl. des voyelles,</i> α, ε <i>ou</i> η, ο <i>ou</i> ω, <i>parce qu’elles forment le premier élément d’une diphtongue,</i> D. THR. <i>631, 6 ; cf</i>. DYSC. <i>Synt. 7, 5</i> ; ARCAD. <i>141, 8</i>.<p><b>Étym</b>. προτάσσω.`

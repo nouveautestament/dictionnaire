@@ -1,1 +1,0 @@
-lar[2027]=`<b>ου (τὸ)</b> temple d’Athèna, HDT. <i>5, 95</i> ; PLUT. <i>Cleom. 4</i>.`

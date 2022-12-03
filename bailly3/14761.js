@@ -1,1 +1,0 @@
-lar[14761]=`<b>Ἀριστό·φαντος, ου (ὁ)</b> <font color="purple">[ᾰρ]</font> Aristophantos, <i>h</i>. HDT. <i>6, 66</i>.<p><b>Étym</b>. ἄ. φαίνω.`

@@ -1,1 +1,0 @@
-lar[91810]=`<b>σπειρ·αχθής, ής, ές</b>, qui se fatigue à se rouler en spirales, NIC. <i>Th. 399</i>.<p><b>Étym</b>. σπεῖρα, ἄχθος.`

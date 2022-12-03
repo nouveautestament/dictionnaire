@@ -1,1 +1,0 @@
-lar[70726]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> suint <i>ou</i> graisse de la laine, <i>d’où</i> laine encore grasse, ARÉT. <i>p. 75, 42</i> ; ARSTD. <i>t. 1, 315</i>.`

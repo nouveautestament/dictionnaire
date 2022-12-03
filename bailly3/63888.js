@@ -1,1 +1,0 @@
-lar[63888]=`<b>μελανο·πτέρυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ᾰῠγ]</font> <i>c</i>. μελανόπτερος <i>au propre,</i> AR. <i>fr. 452 ; en parl. d’un songe,</i> EUR. <i>Hec. 71</i>.`

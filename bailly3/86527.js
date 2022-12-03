@@ -1,1 +1,0 @@
-lar[86527]=`<b>προ·συγχέω</b>, confondre <i>ou</i> bouleverser auparavant, POL. <i>5, 84, 9</i>.`

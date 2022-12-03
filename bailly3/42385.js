@@ -1,1 +1,0 @@
-lar[42385]=`<b>εὐ·καταλήπτως</b>, <i>adv</i>., de manière à comprendre facilement, HPC. <i>Off. 743</i>.`

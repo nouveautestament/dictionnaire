@@ -1,1 +1,0 @@
-lar[104952]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. φάρυγξ, HPC. <i>915h ;</i> RUF. <i>2, 99, 207</i>.`

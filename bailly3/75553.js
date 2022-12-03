@@ -1,1 +1,0 @@
-lar[75553]=`<b>ος, ον :<br>      1</b> <i>act</i>. qui court auprès, qui va à côté, CLÉM. <i>270</i>.<br><b>      2</b> <i>pass</i>. à côté de qui <i>ou</i> à côté de quoi l’on court : τὰ παράδρομα, XÉN. <i>Cyn. 6, 9,</i> intervalle par où le gibier pourrait s’échapper entre des filets tendus.<p><b>Étym</b>. παραδραμεῖν.`

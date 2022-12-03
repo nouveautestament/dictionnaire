@@ -1,1 +1,0 @@
-lar[24639]=`<b>διά·θερμος, ος, ον :<br>      1</b> chaud profondément <i>ou</i> à l’intérieur, HPC. <i>V. med. 15</i>.<br><b>      2</b> d’un tempérament chaud, ARSTT. <i>Rhet. 2, 12, 8 ; Probl. 27, 3</i>.<p><b>Étym</b>. διά, θερμός.`

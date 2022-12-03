@@ -1,1 +1,0 @@
-lar[3069]=`<font color="purple">[κᾰ]</font> <i>adv</i>., sans défaut, HIÉROCL.`

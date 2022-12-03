@@ -1,1 +1,0 @@
-lar[16296]=`<b>ἀ·στρατηγικός, ή, όν</b>, <i>seul</i>. <i>• Sup</i>. -ώτατος <font color="purple">[ᾰτ]</font> qui n’entend rien au commandement militaire, CIC. <i>Att. 8, 16</i>.`

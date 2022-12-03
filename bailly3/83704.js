@@ -1,1 +1,0 @@
-lar[83704]=`<b>προ·αργέω-ῶ</b>, vivre auparavant dans la paresse, JOS. <i>B.J. 3, 5, 1</i>.`

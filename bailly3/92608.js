@@ -1,1 +1,0 @@
-lar[92608]=`<b>α, ον :<br>      1</b> aussi petit qu’un point, PLUT. <i>M. 1084b ;</i> GAL. <i>19, 187</i>.<br><b>      2</b> qui dure un moment (<i>v</i>. στιγμή) PLUT. <i>M. 117e</i>.<p><b>Étym</b>. στιγμή.`

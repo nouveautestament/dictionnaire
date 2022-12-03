@@ -1,1 +1,0 @@
-lar[75522]=`<b>εως (ἡ)</b> exposition de considérations accessoires au sujet, RHÉT. <i>3, 453 W</i>.<p><b>Étym</b>. παραδιηγέομαι.`

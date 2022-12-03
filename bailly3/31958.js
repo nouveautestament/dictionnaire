@@ -1,1 +1,0 @@
-lar[31958]=`<b>ἐκ·προφαίνω</b> (<i>seul. part. fut.2</i> -φανοῦσα) montrer au dehors, ORPH. <i>H. 70, 7</i>.`

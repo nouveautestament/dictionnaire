@@ -1,1 +1,0 @@
-lar[63342]=`<b>μεγαλό·βρυχος, ος, ον</b> <font color="purple">[ᾰῡ]</font> qui rugit avec force, Q. SM. <i>5, 188</i>.<p><b>Étym</b>. μ. βρυχάομαι.`

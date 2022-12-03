@@ -1,1 +1,0 @@
-lar[49402]=`<b>ἱππο·πόλος, ος, ον</b>, qui s’adonne aux chevaux, qui vit à cheval, IL. <i>13, 4 ; 14, 227</i>.<p><b>Étym</b>. ἵ. -πόλος, <i>cf</i>. πολέω.`

@@ -1,1 +1,0 @@
-lar[55576]=`<b>κιρρο·ειδής, ής, ές</b>, d’aspect jaunâtre, jaune, APD. (ATH. <i>281f</i>).<p><b>Étym</b>. κιρρός, εἶδος.`

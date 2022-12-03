@@ -1,1 +1,0 @@
-lar[36165]=`<b>ἐξ·οπίσω</b> <font color="purple">[ῐ]</font> en arrière :<br><b>      1</b> (<i>avec idée de lieu</i>) IL. <i>11, 461, etc.</i> ; SOPH. <i>fr. 479 ; avec mouv</i>. HÉS. <i>O. 88</i> ; τινός, IL. <i>17, 357,</i> en arrière de qqn.<br><b>      2</b> (<i>avec idée de temps</i>) dans la suite, plus tard, OD. <i>4, 35, etc.</i> ; HÉS. <i>Th. 500</i>.`

@@ -1,1 +1,0 @@
-lar[95838]=`<b>συν·εφοράω-ῶ</b> <font color="darkgreen">(<i>ao.2</i> συνεπεῖδον)</font> inspecter en même temps, THÉM. <i>122d ;</i> PTOL. <i>Tetr. 3, p. 146c</i>.`

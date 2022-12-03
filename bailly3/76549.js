@@ -1,1 +1,0 @@
-lar[76549]=`<b>παρ·εγχρώννυμι</b>, toucher en passant <i>ou</i> légèrement, ATH. <i>215e</i>.<p><b>Étym</b>. π. ἐν, χρώννυμι.`

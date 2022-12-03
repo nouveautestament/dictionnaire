@@ -1,1 +1,0 @@
-lar[45864]=`<b>Ἠρι·γόνη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Èrigonè, <i>f</i>. NONN. <i>D. 47, 40, etc</i>.<p><b>Étym</b>. ἦρ, γίγνομαι.`

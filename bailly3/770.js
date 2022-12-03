@@ -1,1 +1,0 @@
-lar[770]=`<b>ή, όν</b>, qui provient d’ignorance, ARSTT. <i>Eud. 7, 13, 3</i>.<p><b>Étym</b>. ἀγνοέω.`

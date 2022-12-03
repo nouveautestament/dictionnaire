@@ -1,1 +1,0 @@
-lar[2233]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite chèvre, chevreau, chevrette, PHÉRÉCR. (ATH. <i>648c</i>).<p><b>Étym</b>. αἰγίς.`

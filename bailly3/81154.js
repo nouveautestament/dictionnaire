@@ -1,1 +1,0 @@
-lar[81154]=`<b>εως</b> <font color="purple">[ῠ]</font> (ἡ) lessivage, PLAT. <i>Rsp. 429e ;</i> STR. <i>446, etc</i>.<p><b>Étym</b>. πλύνω.`

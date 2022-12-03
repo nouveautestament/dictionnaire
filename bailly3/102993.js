@@ -1,1 +1,0 @@
-lar[102993]=`<b>ὑπνο·ποιός, ός, όν</b>, qui fait dormir, soporifique, EL. <i>N.A. 16, 27</i> ; GAL. <i>19, 382</i> ; GEOP. <i>8, 3</i>.<p><b>Étym</b>. ὕ. ποιέω.`

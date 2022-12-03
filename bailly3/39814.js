@@ -1,1 +1,0 @@
-lar[39814]=`<b>ἐπ·οικτίζω</b>, déplorer, plaindre, SOPH. <i>O.R. 1296</i>.<br><b><i>Moy.</i></b> se lamenter, JOS. <i>B.J. 1, 27, 3</i>.`

@@ -1,1 +1,0 @@
-lar[87267]=`<b>πρωτό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui est le premier type, de création primitive, primitif, LGN <i>fr. 3, 11</i> ; DYSC. <i>Synt. 107, 12</i>.<p><b>Étym</b>. πρ. τύπτω.`

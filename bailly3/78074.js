@@ -1,1 +1,0 @@
-lar[78074]=`<font color="purple">[ᾰ]</font> <i>adj</i>. quinze fois, PTOL. <i>Geogr. 1, 24, 2</i>.<p><b>Étym</b>. πεντεκαίδεκα.`

@@ -1,1 +1,0 @@
-lar[83230]=`<b>ου (ὁ)</b> Pranikhos, <i>poète grec,</i> PLUT. <i>Alex. 50</i>.`

@@ -1,1 +1,0 @@
-lar[96632]=`<b>εως (ἡ)</b> croissance, réunion <i>ou</i> consolidation des chairs, GAL. <i>4, 11</i> ; ANTYLL. (ORIB. <i>p. 22 Mai).</i><p><b>Étym</b>. συσσαρκόω.`

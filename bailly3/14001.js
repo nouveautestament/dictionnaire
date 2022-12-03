@@ -1,1 +1,0 @@
-lar[14001]=`<b>ἀ·προτί·οπτος, ος, ον :<br>      1</b> dont on ne peut supporter l’aspect, terrible, OPP. <i>H. 3, 159</i>.<br><b>      2</b> invisible, Q. SM. <i>7, 74</i>.<p><b>Étym</b>. ἀ, προτί, ὄψομαι.`

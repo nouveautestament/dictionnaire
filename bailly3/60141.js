@@ -1,1 +1,0 @@
-lar[60141]=`<b>λειο·τριχέω-ῶ</b> <font color="purple">[ῐ]</font> avoir des cheveux lisses, ARSTT. <i>H.A. 8, 8, 1</i>.<p><b>Étym</b>. λ. θρίξ.`

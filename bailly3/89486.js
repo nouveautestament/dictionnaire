@@ -1,1 +1,0 @@
-lar[89486]=`<b>σαρόω-ῶ</b> <font color="purple">[ᾰ]</font> balayer, <i>acc</i>. NT. <i>Luc. 15, 8</i> ; ARTÉM. <i>2, 33 ; au pass</i>. NT. <i>Matth. 12, 44, etc. ; fig</i>. LYC. <i>389</i>.<p><b>Étym</b>. σάρος.`

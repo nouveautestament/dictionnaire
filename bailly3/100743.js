@@ -1,1 +1,0 @@
-lar[100743]=`<b>ις, ι</b>, <i>gén</i>. <b>ιος :<br>      1</b> bien nourri, gros et gras, fort, HDT. <i>4, 9 ; p. anal.</i> : τρόφι κῦμα, IL. <i>11, 307,</i> vague énorme.<br><b>      2</b> nourri ; <i>subst</i>. nourrisson, OPP. <i>H. 2, 634</i> ; LYC. <i>264</i>.<p><b>Étym</b>. τρέφω.`

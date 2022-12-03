@@ -1,1 +1,0 @@
-lar[47931]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Thymœtès, <i>Troyen,</i> IL. <i>3, 146</i>.<p><b>Étym</b>. θυμός.`

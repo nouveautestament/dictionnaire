@@ -1,1 +1,0 @@
-lar[61761]=`<b>ης, ες</b>, sujet au hoquet, HPC. <i>123f ; 401, 41, etc</i>.<p><b>Étym</b>. λύγξ, -ωδης.`

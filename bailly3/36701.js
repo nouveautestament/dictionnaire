@@ -1,1 +1,0 @@
-lar[36701]=`<b>ἐπ·ανθοπλοκέω-ῶ</b> (<i>part. prés</i>. -οῦντα) enlacer de guirlandes de fleurs, ANTH. <i>12, 8</i>.`

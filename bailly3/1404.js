@@ -1,1 +1,0 @@
-lar[1404]=`<b>ἀ·διήγητος, ος, ον :<br>      1</b> qu’un ne peut raconter, indescriptible, XÉN. <i>Cyr. 8, 7, 22</i> ; DÉM. <i>219 fin</i>.<br><b>      2</b> non encore raconté, HLD. <i>2, 16</i>.<p><b>Étym</b>. ἀ, διηγέομαι.`

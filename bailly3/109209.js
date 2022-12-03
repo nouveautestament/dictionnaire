@@ -1,1 +1,0 @@
-lar[109209]=`<b>χρυσό·μαλλος, ος, ον</b> <font color="purple">[ῡ]</font> à la toison d’or, PHÉRÉCYD. <i>66</i> ; EUR. <i>Or. 998, El. 725</i> ; DS. <i>4, 15</i> ; PLUT. <i>M. 1156d ; fig</i>. DIOGÉN. (DL. <i>6, 47).</i><p><b>Étym</b>. χρ. μαλλός.`

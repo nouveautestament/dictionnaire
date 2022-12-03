@@ -1,1 +1,0 @@
-lar[52493]=`<b>κατακαυματόω-ῶ</b> <font color="purple">[μᾰ]</font> brûler, enflammer, EUM. <i>p. 149</i>.<p><b>Étym</b>. κατάκαυμα.`

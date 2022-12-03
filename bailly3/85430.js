@@ -1,1 +1,0 @@
-lar[85430]=`<b>προσ·διατίθημι</b> <font color="purple">[τῐ]</font> mettre en outre dans telle <i>ou</i> telle disposition, affecter en outre, <i>acc</i>. DYSC. <i>Synt. 287</i>.`

@@ -1,1 +1,0 @@
-lar[42998]=`<b>εὐ·περίψυκτος, ος, ον</b>, facile à rafraîchir, SOR. <i>Obst. p. 185 Dietz</i>.<p><b>Étym</b>. εὖ, περιψύχω.`

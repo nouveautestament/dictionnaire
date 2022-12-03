@@ -1,1 +1,0 @@
-lar[11037]=`<b>ἀ·όργητος, ος, ον</b>, qui ne se fâche pas, <i>d’où</i> :<br><b>      1</b> indifférent, ARR. <i>Epict. 3, 20, 9</i>.<br><b>      2</b> <i>en b. part,</i> doux, calme, PLUT. <i>M. 10b ;</i> LUC. <i>Herm. 12, Dem. 51</i>.<p><b>Étym</b>. ἀ, ὀργάω.`

@@ -1,1 +1,0 @@
-lar[52024]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰ]</font> carotte, DIPH. SIPHN. (ATH. <i>371e</i>).`

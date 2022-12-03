@@ -1,1 +1,0 @@
-lar[96698]=`<b>σύ·στομος, ος, ον :<br>      1</b> dont la bouche <i>ou</i> le museau se termine en pointe, ARSTT. <i>P.A. 3, 1, 12</i>.<br><b>      2</b> dont l’ouverture est rétrécie, ARCHYT. <i>B 1, p. 433, 12</i>.<br><b>      3</b> qui se donne bouche contre bouche (baiser) TÉLÉCL. (POLL. <i>10, 68).</i><p>•<i> Cp</i>. -ώτερος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. σύν, στόμα.`

@@ -1,1 +1,0 @@
-lar[10451]=`<b>ου (τὸ)</b> machine de guerre qu’on peut tourner en diverses directions, DS. <i>20, 91 au plur</i>.<p><b>Étym</b>. ἀντιστρέφω.`

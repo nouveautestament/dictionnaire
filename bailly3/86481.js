@@ -1,1 +1,0 @@
-lar[86481]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> buste, <i>litt</i>. image taillée jusqu’à la poitrine, POL. <i>22, 20, 6</i>.<p><b>Étym</b>. π. στῆθος.`

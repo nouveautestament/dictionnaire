@@ -1,1 +1,0 @@
-lar[44366]=`<b>Ζ, ζ</b> (ζῆτα) zêta, <i>6<sup>e</sup> lettre de l’alphabet grec ; comme chiffre</i> ζʹ = 7 (<i>le nombre 6 étant représenté par le signe</i> ϛʹ) ; ͵ζ = 7 000.`

@@ -1,1 +1,0 @@
-lar[8770]=`<b>ἀνθ·έλκω :<br>      1</b> tirer de son côté, THC. <i>4, 14</i> ; PLAT. <i>Leg. 644e, etc.</i><br><b>      2</b> tirer en sens contraire de, PLAT. <i>Rsp. 439b ; au pass</i>. PLAT. <i>Ax. 372a ;</i> DH. <i>3, 30, etc</i>.<p><b>Étym</b>. ἀντί, ἕ.`

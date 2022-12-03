@@ -1,1 +1,0 @@
-lar[62621]=`<b>μαλακιάω-ῶ</b> <font color="purple">[ᾰλᾰ]</font><br><b>      1</b> être mou, faible, maladif, XÉN. <i>Cyn. 5, 2</i> ; PLUT. <i>M. 559f ;</i> LUC. <i>Lex. 2</i>.<br><b>      2</b> être faible, pusillanime, THÉM. <i>50</i>.<p>➳ <i>Dans tous ces pass., correct. de L. Dind</i>. μαλκίω.<p><b>Étym</b>. μαλακός.`

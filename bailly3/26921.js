@@ -1,1 +1,0 @@
-lar[26921]=`<b>έως (ὁ)</b> originaire <i>ou</i> habitant de Dipæa, HDT. <i>9, 35</i> ; PAUS. <i>3, 11, 6</i>.<p><b>Étym</b>. Δίπαια.`

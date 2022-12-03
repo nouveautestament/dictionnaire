@@ -1,1 +1,0 @@
-lar[109753]=`<b>ψευδ·ωμότης, ου (ὁ)</b> parjure, <i>litt</i>. qui fait un faux serment, LYC. <i>523</i>.<p><b>Étym</b>. ψεῦδος, ὄμνυμι.`

@@ -1,1 +1,0 @@
-lar[19961]=`<b>ου (ἡ)</b> sorte de plante des bois qui fleurit tard, TH. <i>C.P. 1, 7, 4</i>.`

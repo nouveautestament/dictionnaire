@@ -1,1 +1,0 @@
-lar[59565]=`<b>λαι·σποδίας, ου (ὁ)</b> <font color="purple">[ᾱ]</font> débauché, APD. COM. (<i>Com. fr. 4, 454).</i><p><b>Étym</b>. λαι-, σποδέω.`

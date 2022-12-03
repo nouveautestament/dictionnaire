@@ -1,1 +1,0 @@
-lar[103506]=`<b>ὑπο·λύριος, ος, ον</b> <font color="purple">[λῠ]</font> placé au bas de la lyre : δόναξ, AR. <i>Ran. 234,</i> roseau formant la traverse inférieure de la lyre.<p><b>Étym</b>. ὑ. λύρα.`

@@ -1,1 +1,0 @@
-lar[72730]=`<b>ὀρθο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> fiché droit, qui se tient droit, PLUT. <i>M. 340c</i>.<p><b>Étym</b>. ὀ. πήγνυμι.`

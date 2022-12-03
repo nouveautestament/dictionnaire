@@ -1,1 +1,0 @@
-lar[109692]=`<b>ψευδο·κύπειρος, ου (ὁ)</b> <font color="purple">[ῠ]</font> faux souchet, PLIN. <i>H.N. 17, 30</i>.`

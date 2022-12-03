@@ -1,1 +1,0 @@
-lar[50478]=`<b>καθ·υλίζω</b> <font color="purple">[ᾰῡ]</font> filtrer, <i>acc</i>. ATH. <i>420</i>.`

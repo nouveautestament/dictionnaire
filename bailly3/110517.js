@@ -1,1 +1,0 @@
-lar[110517]=`<b>ὤσ·περ</b>, <i>barbarisme d’un Scythe pour</i> ὥσπερ, AR. <i>Th. 1185, 1192</i>.`

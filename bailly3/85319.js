@@ -1,1 +1,0 @@
-lar[85319]=`<b>προσ·αυτουργέω-ῶ</b>, exécuter en outre et par soi-même, THÉM. <i>319a</i>.`

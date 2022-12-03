@@ -1,1 +1,0 @@
-lar[24348]=`<b>ωνος (ὁ)</b> Dèmôn, <i>h</i>. DÉM. <i>816, fin ; 840, 10 ; 881, 27</i> ; ESCHN. <i>Tim. § 125, p. 44 Baiter-Sauppe ; etc</i>.<p>➳ <i>Dor</i>. Δάμων <font color="purple">[ᾱ]</font> PLAT. <i>Lach. 180d, 200a ; Rsp. 400b, etc.</i> ; ARSTT. (PLUT. <i>Per. 4</i>) ; PLUT. <i>Arist. 1 ; etc</i>.`

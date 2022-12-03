@@ -1,1 +1,0 @@
-lar[6279]=`<b>ἀμφι·ξέω-ῶ</b> (<i>seul. ao. 3 sg</i>. ἀμφέξεσε) racler tout autour, polir, OD. <i>23, 196</i>.`

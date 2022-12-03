@@ -1,1 +1,0 @@
-lar[95950]=`<b>συν·θήγω</b>, aiguiser, exciter fortement, EUR. <i>Hipp. 689</i>.`

@@ -1,1 +1,0 @@
-lar[107418]=`<b>*φώσκω</b> (<i>seul. prés</i>.) éclairer, illuminer, PROCL.<p><b>Étym</b>. φῶς.`

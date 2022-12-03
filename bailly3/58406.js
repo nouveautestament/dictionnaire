@@ -1,1 +1,0 @@
-lar[58406]=`<b>ιδος (ἡ)</b> <font color="purple">[ῠ]</font> hache, ANAXIPP. (ATH. <i>169c</i>).`

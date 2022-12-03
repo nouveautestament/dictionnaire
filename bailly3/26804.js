@@ -1,1 +1,0 @@
-lar[26804]=`<b>(ὁ)</b> Dionysidès, <i>poète tragique,</i> STR. <i>675</i>.<p><b>Étym</b>. Διόνυσος.`

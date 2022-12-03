@@ -1,1 +1,0 @@
-lar[14254]=`<b>ίδος (ἡ)</b> Argiléônis, <i>mère de Brasidas,</i> PLUT. <i>Lyc. 25, etc</i>.`

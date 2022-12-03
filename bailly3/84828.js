@@ -1,1 +1,0 @@
-lar[84828]=`<b>προ·οικειόομαι-οῦμαι</b>, se concilier d’avance l’amitié de qqn, DH. <i>5, 64</i>.`

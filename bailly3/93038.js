@@ -1,1 +1,0 @@
-lar[93038]=`<b>ου (ὁ, ἡ)</b> solanum, <i>n. de diverses plantes, la plupart vénéneuses, une seule</i> στρ. κηπαῖος, solanum de jardin (<i>Solanum hortense</i> L.) <i>plante comestible,</i> TH. <i>H.P. 7, 15, 4</i> ; DIOSC. <i>4, 71, 74</i>.`

@@ -1,1 +1,0 @@
-lar[68202]=`<b>νεο·πενθής, ής, ές :<br>      1</b> récemment affligé, OD. <i>11, 39</i>.<br><b>      2</b> pleuré récemment, ANTH. <i>App. 215</i>.<p><b>Étym</b>. ν. πένθος.`

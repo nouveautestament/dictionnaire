@@ -1,1 +1,0 @@
-lar[52771]=`<b>κατα·λυκουργίζω</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) invoquer les lois de Lycurgue : τινός, ALCIPHR. <i>2, 1,</i> contre qqn.<p><b>Étym</b>. κ. Λυκοῦργος.`

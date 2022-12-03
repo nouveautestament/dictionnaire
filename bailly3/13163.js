@@ -1,1 +1,0 @@
-lar[13163]=`<b>ατος (τὸ)</b> menus fragments d’une matière pilée, ARSTT. <i>Mir. 113 (var</i>. ἀπόπρισμα, sciure, <i>de</i> ἀποπρίω).<p><b>Étym</b>. ἀποπτίσσω.`

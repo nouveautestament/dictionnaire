@@ -1,1 +1,0 @@
-lar[50432]=`<b>καθ·ιπποτροφέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>pf</i>. καθιπποτρόφηκα) se ruiner à élever des chevaux, IS. <i>55, 22</i>.`

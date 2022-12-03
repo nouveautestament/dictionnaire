@@ -1,1 +1,0 @@
-lar[73962]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> forte position d’un lieu, d’une ville, <i>etc</i>. POL. <i>5, 62, 6, etc</i>.`

@@ -1,1 +1,0 @@
-lar[103501]=`<b>ὑπο·λοπάω-ῶ</b>, sortir peu à peu de son écale <i>ou</i> de son enveloppe, TH. <i>H.P. 5, 1, 4</i>.`

@@ -1,1 +1,0 @@
-lar[42727]=`<b>εὔ·μυθος, ος, ον</b> <font color="purple">[ῡ]</font> éloquent, ANTH. <i>4, 3, 107</i>.<p><b>Étym</b>. εὖ, μῦθος.`

@@ -1,1 +1,0 @@
-lar[10252]=`<b>ἀντι·περιηχέω-ῶ</b>, retentir tout autour, PLUT. <i>M. 502d</i>.`

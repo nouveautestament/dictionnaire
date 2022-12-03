@@ -1,1 +1,0 @@
-lar[61412]=`<b>ου (τὸ) :<br>   I</b> instrument de jardinier :<br><b>      1</b> bêche <i>ou</i> hoyau, OD. <i>22, 455</i>.<br><b>      2</b> batte <i>ou</i> pelle, MOSCH. <i>4, 101</i> ; LYC. <i>1348</i>.<br><b>   II</b> cuiller, AR. <i>fr. 639</i>.`

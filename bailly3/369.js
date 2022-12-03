@@ -1,1 +1,0 @@
-lar[369]=`<b>ης (ἡ)</b> Agaristè, <i>f</i>. HDT. <i>6, 131</i> ; PLUT. <i>Per. 3, etc</i>.`

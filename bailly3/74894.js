@@ -1,1 +1,0 @@
-lar[74894]=`<b>παν·αφῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ᾰνᾰῐκ]</font> qui n’a <i>ou</i> qui n’a plus aucun camarade, IL. <i>22, 490</i>.<p><b>Étym</b>. π. ἀφῆλιξ.`

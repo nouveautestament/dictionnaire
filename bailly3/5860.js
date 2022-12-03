@@ -1,1 +1,0 @@
-lar[5860]=`<b>έως (ὁ)</b> <font color="purple">[ᾰκ]</font> habitant <i>ou</i> originaire d’Ambracie, A.RH. <i>4, 1226</i>.`

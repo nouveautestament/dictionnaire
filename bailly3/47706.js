@@ -1,1 +1,0 @@
-lar[47706]=`<b>ατος (τὸ)</b> revêtement de mur, faîte, PLUT. <i>M. 684b ;</i> JOS. <i>A.J. 15, 11 ; p. anal</i>. bord d’un autel, EUR. <i>I.T. 74</i>.<p><b>Étym</b>. θριγκόω.`

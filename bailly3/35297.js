@@ -1,1 +1,0 @@
-lar[35297]=`<b>ἑξα·ετής, ής, ές</b>, qui dure six ans, PLUT. <i>Pyrrh. 26 ; adv</i>. <b>ἑξάετες</b>, OD. <i>3, 115,</i> pendant six ans.<p><b>Étym</b>. ἕξ, ἔτος.`

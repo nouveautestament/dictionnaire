@@ -1,1 +1,0 @@
-lar[55357]=`<font color="purple">[ῑσ]</font> <i>adv</i>., en venant du dème Kèphisia, ALCIPHR. <i>2, 2, 24</i>.<p><b>Étym</b>. Κηφισιά, -θεν.`

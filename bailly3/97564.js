@@ -1,1 +1,0 @@
-lar[97564]=`<b>τανύ·πτορθος, ος, ον</b> <font color="purple">[ᾰ]</font> aux longs rameaux, NONN. <i>D. 5, 320</i>.<p><b>Étym</b>. τανυ-, πτόρθος.`

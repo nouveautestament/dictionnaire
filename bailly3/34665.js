@@ -1,1 +1,0 @@
-lar[34665]=`<b>ἐν·ισχύω :<br>      1 <i>intr.</i></b> avoir <i>ou</i> prendre de la force dans, <i>dat</i>. ARSTT. <i>Nic. 10, 9, 14</i> ; TH. <i>fr. 1, 65 ; abs</i>. ARSTT. <i>P.A. 2, 7, 17</i> ; TH. <i>C.P. 5, 9, 3</i> ; ἐνίσχυσεν ὡς, DS. <i>5, 57,</i> cette croyance s’affermit dans les esprits que, <i>etc.</i><br><b>      2 <i>tr.</i></b> fortifier, HPC. <i>Lex. 2, 26</i>.`

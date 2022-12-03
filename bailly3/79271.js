@@ -1,1 +1,0 @@
-lar[79271]=`<b>εως (ἡ)</b> examen attentif, STR. <i>195, etc</i>.<p><b>Étym</b>. περισκέπτομαι.`

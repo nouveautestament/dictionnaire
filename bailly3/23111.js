@@ -1,1 +1,0 @@
-lar[23111]=`<b>ιδος (ἡ)</b> Damaris, <i>Athénienne,</i> NT. <i>Ap. 17, 34</i>.`

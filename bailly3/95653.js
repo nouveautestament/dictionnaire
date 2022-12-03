@@ -1,1 +1,0 @@
-lar[95653]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> témoignage à l’appui, M. ANT. <i>1, 10</i>.<p><b>Étym</b>. συνεπιμαρτυρέω.`

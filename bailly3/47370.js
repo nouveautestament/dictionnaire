@@ -1,1 +1,0 @@
-lar[47370]=`<i>gén</i>. <b>-άδαο (ὁ)</b> descendant de Thésée, ANTH. <i>App. 51, 33</i>.<p><b>Étym</b>. <i>cf</i>. Θησείδης.`

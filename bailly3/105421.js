@@ -1,1 +1,0 @@
-lar[105421]=`<b>Φίλ·αγρος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philagros, <i>h</i>. PLAT. <i>Ep. 363b ;</i> DÉM. <i>Or. 43, 24 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. φίλαγρος.`

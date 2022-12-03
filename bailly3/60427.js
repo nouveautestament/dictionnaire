@@ -1,1 +1,0 @@
-lar[60427]=`<b>λεπτο·ποιέω-ῶ</b>, rendre mince, ténu, ORIB. <i>p. 190 Mai</i>.`

@@ -1,1 +1,0 @@
-lar[10756]=`<b>ἀν·υπόθετος, ος, ον :<br>      1</b> sans fondement, PLUT. <i>M. 358f.</i><br><b>      2</b> non soumis à des conditions, absolu, PLAT. <i>Rsp. 510b</i>.<p><b>Étym</b>. ἀν-, ὑποτίθημι.`

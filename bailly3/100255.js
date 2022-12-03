@@ -1,1 +1,0 @@
-lar[100255]=`<b>τρι·κόλωνος, ος, ον</b> <font color="purple">[ῐ]</font> à trois collines, ORACL. (STR. <i>256).</i><p><b>Étym</b>. τρεῖς, κολωνός.`

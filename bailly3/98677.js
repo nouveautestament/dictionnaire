@@ -1,1 +1,0 @@
-lar[98677]=`<b>τετρά·σκαλμος, ος, ον</b>, à quatre appareils pour les rames, à quatre rames, DS. <i>Exc. 632, 77</i>.<p><b>Étym</b>. τ. σκαλμός.`

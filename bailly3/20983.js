@@ -1,1 +1,0 @@
-lar[20983]=`<b>ίδος (ἡ)</b> Byblis, <i>n. de f. myth</i>. PARTH. <i>11</i> ; NONN. <i>D. 13, 557, etc. ; changée en fontaine, près de Milet,</i> THCR. <i>Idyl. 7, 115, etc</i>.`

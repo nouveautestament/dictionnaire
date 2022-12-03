@@ -1,1 +1,0 @@
-lar[15175]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐχῐδ]</font> <i>c</i>. ἄρριχος ATH. <i>139c</i>.`

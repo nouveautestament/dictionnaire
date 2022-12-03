@@ -1,1 +1,0 @@
-lar[65413]=`<b>μηλο·σσόος, ος, ον</b>, protecteur des brebis <i>ou</i> des troupeaux, <i>ép. d’Hermès,</i> ANTH. <i>6, 334</i>.<p><b>Étym</b>. μῆλον¹, σῴζω.`

@@ -1,1 +1,0 @@
-lar[16120]=`<b>ου (ὁ)</b> <font color="purple">[ᾰκ]</font> Astakidès, <i>h</i>. ANTH. <i>7, 518</i>.<p><b>Étym</b>. <i>patron. de</i> Ἄστακος¹.`

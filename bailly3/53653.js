@@ -1,1 +1,0 @@
-lar[53653]=`<b>κατα·φλυαρέω-ῶ</b> <font color="purple">[ᾱ]</font> bavarder sur le compte de <i>ou</i> aux dépens de, <i>gén</i>. STR. <i>550</i> ; τί τινος, DL. <i>5, 20,</i> tenir qqe propos sur qqn.`

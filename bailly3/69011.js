@@ -1,1 +1,0 @@
-lar[69011]=`<b>νοσσὰς ὄρνις (ἡ)</b> jeune poulet, PANYAS. (ATH. <i>172d</i>).<p><b>Étym</b>. νοσσός.`

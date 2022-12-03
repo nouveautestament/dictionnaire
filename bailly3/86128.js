@@ -1,1 +1,0 @@
-lar[86128]=`<b>προσ·μειδιάω-ῶ</b>, sourire à, <i>dat</i>. PLUT. <i>M. 28a, etc.</i> ; τινί τι, PLUT. <i>M. 821f</i>, faire à qqn la faveur de qqe ch. ; <i>abs</i>. LUC. <i>M. cond. 7 et 16</i>.`

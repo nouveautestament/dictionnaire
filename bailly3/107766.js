@@ -1,1 +1,0 @@
-lar[107766]=`<b>χαμαι·κλινής, ής, ές</b> <font color="purple">[ᾰῐ]</font> couché à terre, STR. <i>710</i>.<p><b>Étym</b>. χ. κλίνω.`

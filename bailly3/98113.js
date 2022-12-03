@@ -1,1 +1,0 @@
-lar[98113]=`<font color="purple">[ᾰ]</font> bander une blessure, une plaie, SATYR. (ATH. <i>248f</i>).<p><b>Étym</b>. τελαμών.`

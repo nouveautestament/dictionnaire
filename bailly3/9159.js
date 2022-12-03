@@ -1,1 +1,0 @@
-lar[9159]=`<b>(ἡ)</b> Anna, <i>f</i>. ANTH. <i>8, 27, etc.</i> ; NT. <i>Luc. 2, 36 ; au plur</i>. ANTH. <i>8, 28</i>.<p><b>Étym</b>. <i>n. hébr</i>.`

@@ -1,1 +1,0 @@
-lar[64157]=`<b>ατος (τὸ)</b> retard, délai, lenteur, EUR. <i>I.A. 818</i> ; ESCHN. <i>64, 4, etc</i>.<p><b>Étym</b>. μέλλω.`

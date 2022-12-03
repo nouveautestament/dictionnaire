@@ -1,1 +1,0 @@
-lar[45888]=`<b>Ἡρό·στρατος, ου (ὁ) :<br>      1</b> Hèrostratos (Érostrate) <i>incendiaire du temple d’Artémis à Éphèse,</i> STR. <i>640</i> ; EL. <i>N.A. 6, 40</i>.<br><b>      2</b> <i>autre,</i> PLUT. <i>Brut. 24, etc</i>.<p><b>Étym</b>. Ἥρα, στρατός.`

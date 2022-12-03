@@ -1,1 +1,0 @@
-lar[61236]=`<b>λινό·κροκος, ος, ον</b> <font color="purple">[ῐ]</font> au tissu de lin, EUR. <i>Hec. 1081</i>.<p><b>Étym</b>. λ. κρέκω.`

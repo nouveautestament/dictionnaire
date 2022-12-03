@@ -1,1 +1,0 @@
-lar[19276]=`<font color="purple">[ᾰσῐ]</font> <i>adv</i>., royalement, en roi, XÉN. <i>Cyr. 1, 4, 14</i> ; ARSTT. <i>Pol. 1, 12, etc</i>.`

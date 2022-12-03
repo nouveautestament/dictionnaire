@@ -1,1 +1,0 @@
-lar[96676]=`<b>η, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qu’on peut construire, DYSC. <i>Synt. 2, 27</i>.<br><b>      2</b> construit, SEXT. <i>M. 1, 104, d’où</i> construit solidement, consistant, SEXT. <i>M. 1, 57</i>.<p><b>Étym</b>. <i>vb. de</i> συνίστημι.`

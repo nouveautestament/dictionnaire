@@ -1,1 +1,0 @@
-lar[106800]=`<b>ορος (ὁ)</b> qui indique, qui montre, ESCHL. <i>Suppl. 493</i>.<p><b>Étym</b>. φράζω.`

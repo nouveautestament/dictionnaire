@@ -1,1 +1,0 @@
-lar[84583]=`<b>προ·κολακεύω</b> <font color="purple">[ᾰ]</font> flatter auparavant, PLAT. <i>Rsp. 494c ;</i> PLUT. <i>M. 65e</i>.`

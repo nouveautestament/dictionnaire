@@ -1,1 +1,0 @@
-lar[1436]=`<font color="purple">[ᾰῐ]</font> <i>adv.</i> :<br><b>      1</b> injustement, HH. <i>Merc. 316</i> ; HDT. <i>6, 137</i> ; PLAT. <i>Leg. 743b.</i><br><b>      2</b> sans droit, sans raison : οὐκ ἀδ. PLAT. <i>Phæd. 72a</i>, à bon droit, avec raison.<p>•<i> Sup</i>. -ώτατα, XÉN. <i>Hell. 5, 4, 24</i>.`

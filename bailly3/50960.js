@@ -1,1 +1,0 @@
-lar[50960]=`<b>καλαμ·άγρωστις, ιδος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>propr</i>. jonc sauvage, <i>sorte d’herbe,</i> DIOSC. <i>4, 31</i>.<p><b>Étym</b>. κάλαμος, ἄγρωστις.`

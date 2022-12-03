@@ -1,1 +1,0 @@
-lar[103977]=`<b>εως (ἡ)</b> <font color="purple">[χῐ]</font> construction d’un mur de soutien au-dessous, THC. <i>6, 100</i>.<p><b>Étym</b>. ὑποτειχίζω.`

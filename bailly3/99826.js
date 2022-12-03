@@ -1,1 +1,0 @@
-lar[99826]=`<b>ης (ἡ)</b> <font color="purple">[ᾰγ]</font> chèvre stérile, ARSTT. <i>G.A. 4, 4, 15</i>.<p><b>Étym</b>. τράγος.`

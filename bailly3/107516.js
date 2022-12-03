@@ -1,1 +1,0 @@
-lar[107516]=`<b>ων (οἱ)</b> habitants de Khalæon <i>dans la Locride Ozolienne,</i> THC. <i>3, 101</i>.`

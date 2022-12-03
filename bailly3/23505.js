@@ -1,1 +1,0 @@
-lar[23505]=`<b>α (ὁ)</b> mime, bouffon, <i>chez les Lacédémoniens,</i> PLUT. <i>Ages. 21 ; M. 212f ;</i> ATH. <i>621e</i>.<p><b>Étym</b>. <i>lac. p</i>. *δεικηλίστης, <i>de</i> *δεικηλίζω, <i>de</i> δείκηλον.`

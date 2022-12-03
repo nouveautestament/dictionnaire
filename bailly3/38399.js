@@ -1,1 +1,0 @@
-lar[38399]=`<b>ἐπι·μέλπω</b>, chanter par surcroît, en outre, <i>acc</i>. ESCHL. <i>Sept. 869</i>.`

@@ -1,1 +1,0 @@
-lar[18843]=`<b>ου (τὸ) :<br>      1</b> feuille de palmier, SPT. <i>1Macc. 13, 51</i>.<br><b>      2</b> <i>au plur</i>. branche de palmier, <i>et p. ext</i>. de myrte, d’olivier, de laurier, NT. <i>Joh. 12, 13</i> ; ECCL.<p><b>Étym</b>. βάϊς.`

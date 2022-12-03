@@ -1,1 +1,0 @@
-lar[25716]=`<b>ατος (τὸ) :<br>      1</b> lieu fortifié (<i>litt</i>. coupé du pays d’alentour par un mur) THC. <i>3, 34 ; 7, 60</i>.<br><b>      2</b> mur de séparation, retranchement, fortification, POL. <i>8, 36, 9 ; fig</i>. LUC. <i>D. mer. 11, 4</i>.<p><b>Étym</b>. διατειχίζω.`

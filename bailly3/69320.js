@@ -1,1 +1,0 @@
-lar[69320]=`<b>ιδος</b> <font color="purple">[ᾱτ]</font> <i>adj. f</i>. de Nonakris, LYC. <i>680</i>.<p><b>Étym</b>. Νώνακρις.`

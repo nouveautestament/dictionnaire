@@ -1,1 +1,0 @@
-lar[51741]=`<b>καρδι·αλγής, ής, ές</b>, qui souffre de maux d’estomac, GAL. <i>6, 614</i>.<p><b>Étym</b>. κ. ἄλγος.`

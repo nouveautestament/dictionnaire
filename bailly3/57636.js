@@ -1,1 +1,0 @@
-lar[57636]=`<font color="purple">[ᾱ]</font><br><b>      1</b> boire à plein cratère, <i>càd</i>. sans mesure, SOPHR. (ATH. <i>504b</i>).<br><b>      2</b> faire une libation avec le cratère, DÉM. <i>313, 16</i>.<p>➳ <i>Pl.q.pf. 1 pl. dor</i>. ἐκεκρατηρίχημες, SOPHR. <i>l. c</i>.<p><b>Étym</b>. κρατήρ.`

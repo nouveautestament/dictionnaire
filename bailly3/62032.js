@@ -1,1 +1,0 @@
-lar[62032]=`<b>ης (ἡ)</b> <font color="purple">[ῡῐᾰ]</font> Lysimakhè, <i>prêtresse d’Athèna,</i> PLUT. <i>M. 534c</i>.<p><b>Étym</b>. <i>fém. de</i> Λυσίμαχος.`

@@ -1,1 +1,0 @@
-lar[61940]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῡ]</font> destructeur, XÉN. <i>Hier. 3, 3</i>.<p><b>Étym</b>. λυμαίνομαι.`

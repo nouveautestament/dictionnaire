@@ -1,1 +1,0 @@
-lar[56249]=`<b>ου (ὁ)</b> safran bâtard <i>ou</i> carthame, <i>sorte de chardon à fleur orangée,</i> HPC. <i>Acut. 394</i> ; ARSTT. <i>H.A. 5, 19</i> ; TH. <i>C.P. 1, 13, 3 ; H.P. 6, 4, 5, etc</i>.`

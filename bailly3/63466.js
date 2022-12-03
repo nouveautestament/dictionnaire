@@ -1,1 +1,0 @@
-lar[63466]=`<b>μεγαλο·χάσμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui ouvre une large bouche, EPICH. (ATH. <i>315f</i>).<p><b>Étym</b>. μ. χάσμα.`

@@ -1,1 +1,0 @@
-lar[102587]=`<b>ὑπερ·κατάκειμαι</b>, être couché à table au-dessus de qqn, PLUT. <i>Mar. 3</i> ; LUC. <i>Conv. 31, etc</i>.`

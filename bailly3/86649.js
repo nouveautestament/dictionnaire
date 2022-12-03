@@ -1,1 +1,0 @@
-lar[86649]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> cher, BAS. <i>4, 353 Migne</i>.<p><b>Étym</b>. προσχαίρω.`

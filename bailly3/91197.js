@@ -1,1 +1,0 @@
-lar[91197]=`<b>σκοτεινο·φόρος, ος, ον</b>, qui apporte <i>ou</i> produit les ténèbres, CHRYS.<p><b>Étym</b>. σκοτεινός, φέρω.`

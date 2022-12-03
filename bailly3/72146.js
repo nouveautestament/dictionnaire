@@ -1,1 +1,0 @@
-lar[72146]=`<b>ὀξυποδέω-ῶ</b> <font color="purple">[ῠ]</font> avoir les pieds agiles, CHRYS. <i>6, 869</i>.<p><b>Étym</b>. ὀξύπους.`

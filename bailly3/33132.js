@@ -1,1 +1,0 @@
-lar[33132]=`<b>ατος (τὸ)</b> (<i>au plur</i>.) pièce rajustée à un vêtement, AQU. <i>Ezech. 16, 16</i>.<p><b>Étym</b>. *ἐμβολίζω, <i>de</i> ἔμβολος.`

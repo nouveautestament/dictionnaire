@@ -1,1 +1,0 @@
-lar[80296]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> laine foulée, ATH. <i>535f, etc.</i> ; DIOSC. <i>1, 68 ; d’où</i> bonnet de feutre, CALL. <i>fr. 124, 125</i>.<br><b>      2</b> toute matière foulée (air condensé, <i>etc</i>.) ARSTT. <i>Mund. 4, 17</i>.<p><b>Étym</b>. πιλέω.`

@@ -1,1 +1,0 @@
-lar[82559]=`<b>πολύ·χηλος, ος, ον</b> <font color="purple">[ῠ]</font> qui a beaucoup de sabots, PHIL. <i>2, 353</i>.<p><b>Étym</b>. π. χηλή.`

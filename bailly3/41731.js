@@ -1,1 +1,0 @@
-lar[41731]=`<b>Εὔ·βουλος, ου (ὁ)</b> Euboulos (Eubule) <i>h</i>. THC. <i>8, 23</i> ; XÉN. <i>Hell. 1, 1, 22, etc</i>.<p>➳ <i>Gén. épq</i>. Εὐβούλοιο, ANTH. <i>7, 452 ; avec crase</i> τωὐβούλοιο, THCR. <i>Idyl. 2, 66</i>.<p><b>Étym</b>. <i>v</i>. εὔβουλος.`

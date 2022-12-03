@@ -1,1 +1,0 @@
-lar[18943]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> tisane de glands doux, NICOCH. (ATH. <i>34e</i>).<br><b>      2</b> petit suppositoire, HPC. <i>627, 31, etc</i>.<p><b>Étym</b>. βάλανος.`

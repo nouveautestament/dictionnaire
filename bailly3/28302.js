@@ -1,1 +1,0 @@
-lar[28302]=`<b>δυσ·διάτμητος, ος, ον</b>, difficile à couper, à séparer, CHRYS. <i>9, 527b Migne</i>.<p><b>Étym</b>. δ. διατέμνω.`

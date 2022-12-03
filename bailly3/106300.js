@@ -1,1 +1,0 @@
-lar[106300]=`<b>ου (τὸ)</b> soufflet, ATH. <i>647f</i>.<p><b>Étym</b>. <i>lat</i>. flabellum.`

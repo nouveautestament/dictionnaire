@@ -1,1 +1,0 @@
-lar[105064]=`<b>ου (ὁ)</b> Pheidippidès, <i>h</i>. HDT. <i>6, 105 (gén. ion</i>. -εω) ; AR. <i>Nub. 80 (voc</i>. -η).<p><b>Étym</b>. <i>patr. de</i> Φείδιππος.`

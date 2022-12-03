@@ -1,1 +1,0 @@
-lar[37928]=`<b>ἐπι·κατακαίω</b>, faire brûler sur, <i>dat</i>. LIB. <i>4, 371</i>.`

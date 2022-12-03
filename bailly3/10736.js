@@ -1,1 +1,0 @@
-lar[10736]=`<i>adv</i>., sans mesure, à l’excès, ARSTT. <i>Rhet. 1, 11, 13</i>.`

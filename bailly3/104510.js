@@ -1,1 +1,0 @@
-lar[104510]=`<b>Ὑψι·μέδουσα, ης (ἡ)</b> <font color="purple">[ῐ]</font> la reine des cieux, J. GÉOM. <i>Hymn. 5, 21</i>.<p><b>Étym</b>. <i>fém. de</i> ὑψιμέδων.`

@@ -1,1 +1,0 @@
-lar[47888]=`<b>θυμβρ·επίδειπνος, ος, ον</b>, qui n’a que de la sarriette pour manger, <i>càd</i>. sobre, frugal, AR. <i>Nub. 421</i>.<p><b>Étym</b>. θύμβρα, ἐπίδειπνον.`

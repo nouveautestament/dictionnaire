@@ -1,1 +1,0 @@
-lar[71755]=`<b>ὁμό·φυτος, ος, ον</b> <font color="purple">[ῠ]</font> enfanté <i>ou</i> né en même temps, THEOL. <i>p. 50</i>.<p><b>Étym</b>. ὁμ. φύω.`

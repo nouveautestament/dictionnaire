@@ -1,1 +1,0 @@
-lar[15666]=`<b>Ἀρχί·τιμος, ου (ὁ)</b> Arkhitimos, <i>auteur de recherches historiques sur l’Arcadie,</i> PLUT. <i>M. 300b</i>.<p><b>Étym</b>. ἄρχω, τιμή.`

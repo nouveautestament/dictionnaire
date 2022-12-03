@@ -1,1 +1,0 @@
-lar[99371]=`<b>τιτθο·λαβέω-ῶ</b> <font color="purple">[ᾰ]</font> prendre le sein, ARISTÉN. <i>2, 16</i>.<p><b>Étym</b>. τιτθός, λαμβάνω.`

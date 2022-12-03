@@ -1,1 +1,0 @@
-lar[13372]=`<b>οῦ (ὁ) :<br>      1</b> action de déchirer, d’arracher, PLUT. <i>M. 77c.</i><br><b>      2</b> séparation, STR. <i>346</i> ; DH. <i>5, 55</i>.<p><b>Étym</b>. ἀποσπάω.`

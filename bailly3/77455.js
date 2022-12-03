@@ -1,1 +1,0 @@
-lar[77455]=`<b>ή, όν</b> <font color="purple">[ᾱᾰγ]</font> de Paphlagonie, XÉN. <i>An. 5, 4, 13, etc</i>.<p><b>Étym</b>. Παφλαγών.`

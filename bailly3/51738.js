@@ -1,1 +1,0 @@
-lar[51738]=`<b>ή, όν :<br>      1</b> qui souffre du cœur <i>ou</i> de l’estomac, DIOSC. <i>1, 155</i>.<br><b>      2</b> qui consiste en une affection du cœur <i>ou</i> de l’estomac, GAL. <i>2, 263</i>.<p><b>Étym</b>. καρδία.`

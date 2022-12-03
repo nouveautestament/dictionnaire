@@ -1,1 +1,0 @@
-lar[10261]=`<b>ἀντι·περισπάω-ῶ</b>, tirer en sens contraire, ARSTT. <i>P.A. 3, 7, 15</i> ; DS. <i>3, 37 ; d’où, t. milit.,</i> faire une diversion, POL. <i>2, 24, 8</i>.`

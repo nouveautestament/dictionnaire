@@ -1,1 +1,0 @@
-lar[89035]=`<b>ος, ον</b> <font color="purple">[σᾰ]</font> de Sabazios : Σαβάζια θύσθλα, OPP. <i>C. 1, 26, ou</i> μυστήρια, CLÉM. <i>Protr. 14 ; ou subst</i>. τὰ Σ. STR. <i>471,</i> sacrifices <i>ou</i> mystères de Bacchus.<p><b>Étym</b>. <i>v</i>. Σαβάζιος.`

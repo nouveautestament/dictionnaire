@@ -1,1 +1,0 @@
-lar[65338]=`<b>ου</b>, <i>adj. m</i>. de Mèkyberna, THC. <i>5, 18</i>.<p>➳ <i>Dans les inscr. att. l’écriture flotte entre la forme</i> Μηκυπερναῖοι, CIA. <i>1, 226, 10 (454 av. J.-C.) etc. et la forme</i> Μηκυβερνᾶοι, CIA. <i>1, 232, 9 (448 av. J.-C.) etc. ; v. Meisterh. p. 59, § 28, 2</i>.<p><b>Étym</b>. <i>v</i>. Μηκύβερνα.`

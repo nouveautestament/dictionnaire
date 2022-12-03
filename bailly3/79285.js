@@ -1,1 +1,0 @@
-lar[79285]=`<b>περι·σμαραγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> faire retentir tout autour, DP. <i>844 ; au pass</i>. retentir de, <i>dat</i>. LUC. <i>H. conscr. 22</i>.`

@@ -1,1 +1,0 @@
-lar[17211]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> garçon de ferme, SOPH. <i>fr. 445</i>.`

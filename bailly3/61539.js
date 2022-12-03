@@ -1,1 +1,0 @@
-lar[61539]=`<b>λογο·φίλης, ου (ὁ)</b> <font color="purple">[ῐ]</font> ami de l’éloquence <i>ou</i> de la science, PHIL. <i>1, 58</i>.<p><b>Étym</b>. λ. φίλος.`

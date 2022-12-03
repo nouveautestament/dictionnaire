@@ -1,1 +1,0 @@
-lar[87391]=`<b>πτισανο·ρροφία, ας (ἡ)</b> <font color="purple">[ῐσᾰ]</font> action de boire de la tisane, HPC. <i>Acut. 385</i>.<p><b>Étym</b>. πτισάνη, ῥοφέω.`

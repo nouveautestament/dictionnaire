@@ -1,1 +1,0 @@
-lar[20777]=`<b>βρεφο·κτόνος, ος, ον</b>, qui tue de petits enfants, LYC. <i>229</i>.<p><b>Étym</b>. βρέφος, κτείνω.`

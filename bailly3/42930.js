@@ -1,1 +1,0 @@
-lar[42930]=`<b>εὐ·παρακόμιστος, ος, ον :<br>      1</b> facile à transporter, à amener, PLUT. <i>Luc. 13 ; fig</i>. PLUT. <i>M. 597b.</i><br><b>      2</b> où l’on peut transporter facilement qqe ch. ARSTT. <i>Pol. 7, 5, 4</i>.<p><b>Étym</b>. εὖ, παρακομίζω.`

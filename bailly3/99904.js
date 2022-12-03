@@ -1,1 +1,0 @@
-lar[99904]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> explicatif, THEOL.<p><b>Étym</b>. τρανόω.`

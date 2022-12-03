@@ -1,1 +1,0 @@
-lar[12313]=`<b>ος, ον</b>, chassé, HDN GR. <i>Epim. p. 103, 12 Boissonade</i>.<p><b>Étym</b>. ἀποδιώκω.`

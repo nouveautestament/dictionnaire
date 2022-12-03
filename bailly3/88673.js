@@ -1,1 +1,0 @@
-lar[88673]=`<b>ας (ἡ)</b> Rhodeia, <i>fille d’Okéanos et de Téthys,</i> HH. <i>Cer. 419</i> ; HÉS. <i>Th. 351</i>.<p><b>Étym</b>. ῥόδον.`

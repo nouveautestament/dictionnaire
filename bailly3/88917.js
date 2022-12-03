@@ -1,1 +1,0 @@
-lar[88917]=`<b>α, ον</b> <font color="purple">[ῡᾰ]</font> ridé, NIC. <i>Al. 180</i>.<p><b>Étym</b>. ῥυσός.`

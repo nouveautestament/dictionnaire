@@ -1,1 +1,0 @@
-lar[59997]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de dévorer, <i>d’où</i> voracité, ATH. <i>362f</i>.<p><b>Étym</b>. λαφύσσω.`

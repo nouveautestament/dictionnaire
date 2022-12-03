@@ -1,1 +1,0 @@
-lar[10637]=`<b>ας (ἡ)</b> construction en face de, POL. <i>1, 48, 1</i>.`

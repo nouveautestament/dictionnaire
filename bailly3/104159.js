@@ -1,1 +1,0 @@
-lar[104159]=`<b>ὑπο·χθόνιος, ος, ον</b>, qui est sous terre <i>ou</i> dans les enfers, souterrain, HÉS. <i>O. 140</i> ; EUR. <i>Andr. 515</i> ; LUC. <i>Char. 22</i>.<p>➳ <i>Fém. ion</i>. -η, CALL. <i>fr. 172</i>.<p><b>Étym</b>. ὑ. χθών.`

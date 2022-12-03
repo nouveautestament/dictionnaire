@@ -1,1 +1,0 @@
-lar[25650]=`<b>δια·συντηρέω-ῶ</b> (<i>seul. prés</i>.) conserver jusqu’au bout, BAS. <i>1, 721a</i>.`

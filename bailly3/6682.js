@@ -1,1 +1,0 @@
-lar[6682]=`<b>ἀν·άδελφος, ος, ον</b> <font color="purple">[ᾰδ]</font> sans frère <i>ou</i> sœur, EUR. <i>Or. 310, I.T. 461</i> ; XÉN. <i>Mem. 2, 3, 4</i> ; PLUT. <i>M. 480e</i>.<p><b>Étym</b>. ἀν-, ἀδελφός.`

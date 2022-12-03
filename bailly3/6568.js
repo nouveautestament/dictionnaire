@@ -1,1 +1,0 @@
-lar[6568]=`<b>ἀνα·βρομέω-ῶ</b>, éclater avec bruit, ATH. <i>126d ;</i> NONN. <i>D. 45, 330</i>.`

@@ -1,1 +1,0 @@
-lar[84382]=`<b>προ·ϊδρόω</b>, suer auparavant, ORIB. <i>313 Matthäi</i>.`

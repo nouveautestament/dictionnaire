@@ -1,1 +1,0 @@
-lar[108492]=`<b>α, ον</b> <font color="purple">[ῐ, <i>p. exc</i>. ῑ <i>à l’arsis</i>]</font><br><b>      1</b> de neige, ANTH. <i>9, 244</i> ; COL. <i>226</i> ; NONN. <i>Jo. 247</i>.<br><b>      2</b> d’une blancheur de neige, BION <i>1, 10</i> ; ASIOS (ATH. <i>525f</i>).<p><b>Étym</b>. χιών.`

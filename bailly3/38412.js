@@ -1,1 +1,0 @@
-lar[38412]=`<b>ἐπι·μερής, ής, ές</b>, qui contient un entier plus une fraction ayant un numérateur autre que l’unité (<i>par ex. 5 par rapport à 3</i>) NICOM. <i>Arithm. 99</i> ; PHIL. <i>2, 183</i> ; JAMBL. <i>Math. 197</i>.<p><b>Étym</b>. <i>v</i>. ἐπιμόριος.`

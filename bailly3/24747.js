@@ -1,1 +1,0 @@
-lar[24747]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> différemment de, <i>gén</i>. ARSTT. <i>H.A. 8, 16, 2</i>.<br><b>      2</b> avec distinction, <i>càd</i>. supérieurement, PAUS. <i>10, 33, 7</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> διακρίνω.`

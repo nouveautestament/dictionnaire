@@ -1,1 +1,0 @@
-lar[104782]=`<b>φαλλοφορέω-ῶ</b>, porter un phallus, ATH. <i>445b</i>.<p><b>Étym</b>. φαλλοφόρος.`

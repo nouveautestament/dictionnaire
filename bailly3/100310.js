@@ -1,1 +1,0 @@
-lar[100310]=`<b>ου</b> <font color="purple">[δῑ]</font> <i>adj. m</i>. qui fréquente les carrefours, de carrefour, E. BYZ. <i>v°</i> τρίοδος.<p><b>Étym</b>. τρίοδος.`

@@ -1,1 +1,0 @@
-lar[10444]=`<b>εως (ἡ)</b> <font color="purple">[ᾰτ]</font> <i>c</i>. ἀντιστρατήγημα ONOS. <i>32</i>.`

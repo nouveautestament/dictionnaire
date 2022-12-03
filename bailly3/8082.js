@@ -1,1 +1,0 @@
-lar[8082]=`<b>ἀνδρό·λαγνος, ος, ον</b>, qui entretient commerce avec des hommes, TH. <i>Char. 28</i>.<p><b>Étym</b>. ἀνήρ, λάγνος.`

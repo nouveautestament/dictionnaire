@@ -1,1 +1,0 @@
-lar[90641]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> habitant du dème Skambônides, <i>dème att. de la tribu Léontide,</i> AR. <i>Vesp. 81, etc</i>.`

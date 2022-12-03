@@ -1,1 +1,0 @@
-lar[32130]=`<b>ας (ἡ)</b> tension, <i>d’où</i> :<br><b>      1</b> application continue, persévérance, CIC. <i>Att. 10, 17</i> ; μετὰ πάσης ἐκτενείας, SPT. <i>2Macc. 14, 38,</i> avec tout le zèle possible ; ἐν ἐκτενείᾳ, NT. <i>Ap. 26, 7,</i> avec zèle <i>ou</i> persévérance.<br><b>      2</b> <i>p. suite,</i> abondance, HDN <i>7, 2, 8 ; 8, 2, 15</i>.<p><b>Étym</b>. ἐκτενής.`

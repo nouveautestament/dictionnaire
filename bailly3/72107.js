@@ -1,1 +1,0 @@
-lar[72107]=`<b>ας (ἡ)</b> <font color="purple">[ῠκῑ]</font> vivacité de mouvement, EUM. <i>p. 46</i>.<p><b>Étym</b>. ὀξυκίνητος.`

@@ -1,1 +1,0 @@
-lar[18462]=`<b>ας (ἡ)</b> action de porter un fardeau <i>ou</i> des fardeaux, HPC. <i>Art. 829 (ion</i>. -ίη) ; PLUT. <i>M. 1130d</i>.<p><b>Étym</b>. ἀχθοφόρος.`

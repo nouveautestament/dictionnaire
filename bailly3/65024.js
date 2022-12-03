@@ -1,1 +1,0 @@
-lar[65024]=`<b>ᾶς (ἡ)</b> transport, <i>d’où</i> :<br><b>      1</b> changement (de la lune) PLUT. <i>M. 923c.</i><br><b>      2</b> <i>fig</i>. transport du sens propre au sens figuré, métaphore, <i>t. de rhét</i>. ISOCR. <i>190d ;</i> ARSTT. <i>Poet. 21</i> ; D. PHAL. <i>78</i>.<p><b>Étym</b>. μεταφέρω.`

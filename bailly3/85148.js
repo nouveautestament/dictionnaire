@@ -1,1 +1,0 @@
-lar[85148]=`<b>προσ·ανακλίνομαι</b> <font color="purple">[ῑ]</font> s’appuyer <i>ou</i> être appuyé contre, DS. <i>17, 41</i> ; PAUS. <i>10, 36, 6 ; en parl. d’une ville,</i> être appuyé contre (une montagne) <i>dat</i>. STR. <i>649</i>.`

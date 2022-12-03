@@ -1,1 +1,0 @@
-lar[31963]=`<b>ἐκ·πτήσσω</b> <font color="darkgreen">(<i>ao. dor. 2 sg</i>. ἐξέπταξας)</font> faire sortir tout tremblant, EUR. <i>Hec. 180</i>.`

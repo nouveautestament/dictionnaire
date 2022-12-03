@@ -1,1 +1,0 @@
-lar[750]=`<b>ατος (τὸ)</b> conduite chaste, chasteté, EUR. <i>Tr. 501</i> ; ἅ. θεῖον, EUR. <i>El. 256, litt</i>. chasteté envers les dieux, <i>càd</i>. vœu de chasteté.<p><b>Étym</b>. ἁγνεύω.`

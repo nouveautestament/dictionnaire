@@ -1,1 +1,0 @@
-lar[8524]=`<i>adv</i>., sans chercher à briller, sans éclat, M. ANT. <i>1, 9</i>.<p><b>Étym</b>. ἀν-, ἐπιφαίνω.`

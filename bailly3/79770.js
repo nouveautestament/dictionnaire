@@ -1,1 +1,0 @@
-lar[79770]=`<b>ου (ὁ)</b> fils <i>ou</i> descendant de Persée, THC. <i>1, 9, etc.</i> ; οἱ Περσεῖδαι, les Perséides <i>ou</i> descendants de Persée, HDT. <i>1, 125</i> ; XÉN. <i>Cyr. 1, 2, 1</i>.<p>➳ <i>Dat. pl. ion</i>. Περσεΐδῃσι, ORACL. (HDT. <i>7, 220).</i><p><b>Étym</b>. Περσεύς <i>et</i> Πέρσης.`

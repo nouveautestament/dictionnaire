@@ -1,1 +1,0 @@
-lar[68874]=`<b>ας (ἡ)</b> bâtardise, naissance illégitime, PLUT. <i>Them. 1, etc</i>.<p><b>Étym</b>. νόθος.`

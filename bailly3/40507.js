@@ -1,1 +1,0 @@
-lar[40507]=`<b>ἐρι·σμάραγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> au fracas épouvantable, <i>en parl. du tonnerre de Zeus,</i> HÉS. <i>Th. 815 ; de la mer,</i> MUS. <i>318 ; de la foudre,</i> LUC. <i>Tim. 1</i>.<p><b>Étym</b>. ἐρι-, σμάραγος.`

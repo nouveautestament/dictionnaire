@@ -1,1 +1,0 @@
-lar[84194]=`<b>προ·εξέδρα</b>, <i>ion</i>. <b>προ·εξέδρη, ης (ἡ)</b> siège élevé au-dessus des <i>autres,</i> HDT. <i>7, 44 et 48</i>.`

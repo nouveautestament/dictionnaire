@@ -1,1 +1,0 @@
-lar[61350]=`<b>λιπό·πτολις, ιος (ὁ, ἡ)</b> qui abandonne la ville, NONN. <i>D. 3, 296, etc</i>.<p><b>Étym</b>. λ. πτ.`

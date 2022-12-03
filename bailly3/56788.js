@@ -1,1 +1,0 @@
-lar[56788]=`<b>ιδος</b> <font color="purple">[ῐ]</font> <i>fém. de</i> κομήτης, SYN. <i>71</i>.`

@@ -1,1 +1,0 @@
-lar[23336]=`<b>ου (τὸ)</b> Daton (<i>auj</i>. Kavála), <i>v. de Thrace,</i> HDT. STR.`

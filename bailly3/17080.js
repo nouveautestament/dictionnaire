@@ -1,1 +1,0 @@
-lar[17080]=`<b>ου (ὁ)</b> <i>autre forme du n</i>. Ἄβγαρος, HDN, <i>etc</i>.`

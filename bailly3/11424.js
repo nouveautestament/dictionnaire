@@ -1,1 +1,0 @@
-lar[11424]=`<b>ἀπ·αρχαιόομαι-οῦμαι</b>, être vieux, ANTIPH. (ATH. <i>503e</i>) ; λέξις ἀπηρχαιωμένη, DH. <i>Thuc. 24, etc</i>. locution vieillie, surannée.<p><b>Étym</b>. ἀπό, ἀρχαῖος.`

@@ -1,1 +1,0 @@
-lar[14216]=`(<i>ou</i> <b>Ἀργανθώνιον</b>, STR. <i>564</i>) <b>ὄρος (τὸ)</b> l’Arganthônéion <i>ou</i> l’Arganthônion, <i>mt de Bithynie,</i> A.RH. <i>1, 178</i>.`

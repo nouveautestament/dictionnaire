@@ -1,1 +1,0 @@
-lar[64593]=`<b>μεσό·χωρος, ος, ον</b>, qui occupe le milieu : τὸ μεσόχωρον, APD. POL. <i>42,</i> l’espace au milieu, le milieu.<p><b>Étym</b>. μ. χώρα.`

@@ -1,1 +1,0 @@
-lar[42491]=`<b>εὔ·κουρος, ος, ον</b>, bien rasé <i>ou</i> tondu, HÉGÉMON (ATH. <i>698e</i>).<p><b>Étym</b>. εὖ, κείρω.`

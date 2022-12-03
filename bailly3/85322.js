@@ -1,1 +1,0 @@
-lar[85322]=`<b>προσ·αφέψω</b>, faire cuire en outre, GAL. <i>6, 153</i>.`

@@ -1,1 +1,0 @@
-lar[30851]=`<b>εἰσ·ορμίζομαι :<br>      1</b> entrer au port, aborder, XÉN. <i>Vect. 3, 1</i> (εἰσορμισθέντας).<br><b>      2</b> <i>p. ext</i>. entrer pour se mettre à l’abri, <i>avec</i> εἰς <i>et l’acc</i>. PLUT. <i>Cim. 12</i>.<p><b>Étym</b>. εἰσωρμίσαντο.`

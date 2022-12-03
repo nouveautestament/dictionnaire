@@ -1,1 +1,0 @@
-lar[50966]=`<b>έως (ὁ)</b> <font color="purple">[ᾰᾰ]</font> pêcheur à la ligne, PANCRAT. (ATH. <i>305d</i>).<p><b>Étym</b>. κάλαμος.`

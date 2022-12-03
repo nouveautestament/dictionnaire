@@ -1,1 +1,0 @@
-lar[15996]=`<b>ας (ἡ)</b> manque de sagesse, folie, PLUT. <i>Pyrrh. 29</i> ; LUC. <i>Astr. 2</i>.<p><b>Étym</b>. ἄσοφος.`

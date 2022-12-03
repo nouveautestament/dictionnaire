@@ -1,1 +1,0 @@
-lar[82307]=`<b>πολυ·πρήων, ωνος (ὁ, ἡ)</b> aux nombreux sommets, HERMÉSIAN. (ATH. <i>598a</i>).<p><b>Étym</b>. π. πρηών.`

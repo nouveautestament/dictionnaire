@@ -1,1 +1,0 @@
-lar[46630]=`<b>θεο·δίδακτος, ος, ον</b> <font color="purple">[ῐ]</font> instruit par la divinité, NT. <i>1Thess. 4, 9</i> ; CHRYS. <i>4, 29</i>.<p><b>Étym</b>. θ. διδάσκω.`

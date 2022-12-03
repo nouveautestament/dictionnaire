@@ -1,1 +1,0 @@
-lar[73169]=`<b>ὀρχί·πεδον, ου (τὸ)</b> <font color="purple">[ῐ]</font> la région des bourses, AR. <i>Pl. 955, Av. 442 au pl</i>.<p><b>Étym</b>. ὄρχις, πέδον.`

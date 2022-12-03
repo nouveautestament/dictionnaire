@@ -1,1 +1,0 @@
-lar[89670]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> siriase, <i>maladie inflammatoire causée par la chaleur,</i> P. ÉG. <i>1, 13</i>.<p><b>Étym</b>. σειριάω.`

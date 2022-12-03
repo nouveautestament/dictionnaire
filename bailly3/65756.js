@@ -1,1 +1,0 @@
-lar[65756]=`<b>μικρ·όφθαλμος, ος, ον</b>, dont les yeux sont petits, PROCL. <i>Ptol. p. 203, 204</i>.<p>➳ <i>Ion</i>. σμικρ-, HPC. <i>1194</i>.<p><b>Étym</b>. μ. ὀφθαλμός.`

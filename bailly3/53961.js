@@ -1,1 +1,0 @@
-lar[53961]=`<i>adv</i>., à la renverse, à rebours, PLUT. <i>M. 907b</i>.<p><b>Étym</b>. κατεστραμμένος, <i>part. pf. pass. de</i> καταστρέφω.`

@@ -1,1 +1,0 @@
-lar[58731]=`<b>κυνά·μυια, ας (ἡ)</b> <font color="purple">[ῠᾰμ]</font> <i>litt</i>. « mouche qui attaque les chiens » <i>càd</i>. mouche impudente, <i>en parl. de femmes impudentes,</i> IL. <i>21, 394, 421, ou d’hommes de mauvaise vie,</i> ATH. <i>126a, etc</i>.<p><b>Étym</b>. κύων, μυῖα.`

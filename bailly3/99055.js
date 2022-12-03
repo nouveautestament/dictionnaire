@@ -1,1 +1,0 @@
-lar[99055]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐᾰ]</font> <i>adj. f</i>. des Tibarènes, A.RH. <i>2, 1010</i>.<p><b>Étym</b>. <i>v</i>. Τιβαρηνοί.`

@@ -1,1 +1,0 @@
-lar[93130]=`<b>ου (ὁ)</b> gain, HSCH. <i>v°</i> στυφός ; NYSS. <i>3, 185 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[105139]=`<b>φερε·μμελίης, ου (ὁ)</b> qui porte une lance, MIMNERME <i>14, 4</i>.<p><b>Étym</b>. <i>poét. p</i>. *φερεμελίας, <i>de</i> φ. μελία.`

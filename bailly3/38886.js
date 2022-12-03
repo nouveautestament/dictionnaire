@@ -1,1 +1,0 @@
-lar[38886]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> adverbial, DYSC. <i>Adv. 530, 13</i>.<p><b>Étym</b>. ἐπίρρημα.`

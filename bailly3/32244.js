@@ -1,1 +1,0 @@
-lar[32244]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> sciure d’un trou que l’on creuse, TH. <i>H.P. 5, 6, 3</i>.<p><b>Étym</b>. ἐκτρυπάω.`

@@ -1,1 +1,0 @@
-lar[27007]=`<b>δί·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui est en pente (<i>litt</i>. qui coule) de deux côtés, HÉRON <i>p. 214 Wescher, Poliorcétique des Grecs</i>.<p><b>Étym</b>. δίς, ῥέω.`

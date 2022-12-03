@@ -1,1 +1,0 @@
-lar[16489]=`<b>ἀ·συνάρτητος, ος, ον :<br>      1</b> sans connexion, incohérent, DH. <i>Thuc. 6</i>.<br><b>      2</b> <i>t. de métr</i>. ἀσυνάρτητοι, HÉPH. <i>15,</i> vers asynartètes, <i>càd</i>. formés de deux parties chacune de mètres différents.<p><b>Étym</b>. ἀ, συναρτάω.`

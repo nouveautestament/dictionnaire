@@ -1,1 +1,0 @@
-lar[14846]=`<b>ἀρκύ·στατος, ος, ον</b> <font color="purple">[τᾰ]</font> tendu comme un filet pour enlacer, EUR. <i>Or. 1420</i> ; τὰ ἀρκύστατα, ESCHL. <i>Eum. 112, Ag. 1375</i> ; SOPH. <i>El. 1476,</i> filets tendus.<p>➳ <i>Fém. dor</i>. ἀρκυστάτα, EUR. <i>l. c</i>.<p><b>Étym</b>. ἄρκυς, στατός.`

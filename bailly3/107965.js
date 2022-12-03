@@ -1,1 +1,0 @@
-lar[107965]=`<b>(ὁ)</b> Kharmidas, <i>philosophe de l’Académie,</i> SEXT. <i>P. 1, 220 ; M. 2, 20</i>.<p><b>Étym</b>. <i>dor. c</i>. Χαρμίδης.`

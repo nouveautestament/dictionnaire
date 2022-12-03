@@ -1,1 +1,0 @@
-lar[68195]=`<b>νεό·νυμφος, ος, ον</b>, nouvellement marié, SOSTRAT. (STOB. <i>Fl. 64, 33</i>) ; LUC. <i>As. 34</i>.<p><b>Étym</b>. ν. νύμφη.`

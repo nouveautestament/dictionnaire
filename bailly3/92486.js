@@ -1,1 +1,0 @@
-lar[92486]=`<font color="darkgreen">(<i>ao. dor</i>. ἐστεφάνιξα)</font> <font color="purple">[ᾰ]</font> couronner, AR. <i>Eq. 1221</i>.<p><b>Étym</b>. στέφανος.`

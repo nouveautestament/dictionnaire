@@ -1,1 +1,0 @@
-lar[61589]=`<b>ης (ἡ)</b> <i>ion</i>. peste, HPC. 28.22 <i><font color="darkorange">dout</font></i>.<p><b>Étym</b>. λοιμός.`

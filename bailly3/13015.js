@@ -1,1 +1,0 @@
-lar[13015]=`<b>ἀπο·παιδαγωγέω-ῶ</b> <font color="purple">[ᾰγ]</font> élever de façon à détourner du bien, JAMBL. <i>Protr. p. 308</i>.`

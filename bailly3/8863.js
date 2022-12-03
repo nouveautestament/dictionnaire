@@ -1,1 +1,0 @@
-lar[8863]=`<b>ἀνθοκομέω-ῶ</b>, se couvrir de fleurs, ANTH. <i>7, 321</i>.<p><b>Étym</b>. ἀνθοκόμος.`

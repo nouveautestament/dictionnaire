@@ -1,1 +1,0 @@
-lar[65175]=`<b>ας (ἡ) :<br>   I</b> habitation avec, SOPH. <i>Ant. 890</i>.<br><b>   II.1</b> émigration, THC. <i>1, 2</i>.<br><b>      2</b> établissement d’un étranger dans une ville, ESCHL. <i>Eum. 1018</i> ; XÉN. <i>Vect. 2, 7</i> ; PLAT. <i>Leg. 850c.</i><br><b>      3</b> situation et droits d’un étranger domicilié, LYS. <i>107, 31</i>.<p><b>Étym</b>. μέτοικος.`

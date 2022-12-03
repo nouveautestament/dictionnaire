@@ -1,1 +1,0 @@
-lar[85691]=`<b>προσ·επικτάομαι-ῶμαι</b>, acquérir en outre, <i>acc</i>. ARSTT. <i>Rhet. 1, 9, 31</i> ; τισί τινας, HDT. <i>1, 20,</i> des peuples <i>ou</i> des pays qui s’ajoutent à d’autres.`

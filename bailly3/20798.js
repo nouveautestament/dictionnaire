@@ -1,1 +1,0 @@
-lar[20798]=`<font color="darkgreen">(<i>seul. prés. et ao</i>. ἔβριξα)</font> être lourd, <i>d’où</i> être somnolent, dormir, ESCHL. <i>Ch. 897</i> ; EUR. <i>Rhes. 825 (ao</i>. ἔβριξα) ; <i>fig. càd</i>. être inerte, IL. <i>4, 223 ; d’où,</i> être épais, être lourd, <i>en parl. du sang,</i> ESCHL. <i>Eum. 280 ; de l’intelligence,</i> ESCHL. <i>Ag. 275</i>.<p><b>Étym</b>. βρίθω.`

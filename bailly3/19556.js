@@ -1,1 +1,0 @@
-lar[19556]=`<b>ης (ἡ)</b> Bergè, <i>v. de Thrace, lieu de naissance du poète Antiphane,</i> STR. E. BYZ.<p><b>Étym</b>. <i>v</i>. βεργαΐζω.`

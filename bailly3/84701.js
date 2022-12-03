@@ -1,1 +1,0 @@
-lar[84701]=`<b>προμαχ·όρμα (ἡ)</b> <font color="purple">[μᾰ]</font> qui s’élance pour combattre devant l’armée <i>ou</i> pour protéger le πρόμαχος, <i>ép. d’Athèna, honorée sous ce nom sur le promontoire Bouporthmos,</i> PAUS. <i>2, 34, 8</i>.<p><b>Étym</b>. πρόμαχος, ὁρμάω.`

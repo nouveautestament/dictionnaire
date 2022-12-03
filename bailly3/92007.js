@@ -1,1 +1,0 @@
-lar[92007]=`<b>ου (ὁ)</b> Sporgilos, <i>h</i>. AR. <i>Av. 300</i>.`

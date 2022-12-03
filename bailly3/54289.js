@@ -1,1 +1,0 @@
-lar[54289]=`<b>η, ον</b>, fait avec une tige, LUC. <i>V.H. 1, 16</i>.<p><b>Étym</b>. καυλός.`

@@ -1,1 +1,0 @@
-lar[94883]=`<b>συν·αποκόπτω</b>, retrancher avec, <i>fig</i>. PLUT. <i>M. 529c</i>.`

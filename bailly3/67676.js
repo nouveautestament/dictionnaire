@@ -1,1 +1,0 @@
-lar[67676]=`<i>adv. ion</i>. dans un état d’engourdissement, de torpeur, HPC. <i>77g ; 656, 50</i>.<p><b>Étym</b>. ναρκώδης.`

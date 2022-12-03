@@ -1,1 +1,0 @@
-lar[86531]=`se servir du syllogisme προσυλλογισμός, ARSTT. <i>An. pr. 2, 19, 2, etc</i>.`

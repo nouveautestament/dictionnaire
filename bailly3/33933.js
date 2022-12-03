@@ -1,1 +1,0 @@
-lar[33933]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> exprimé clairement, ARSTT. <i>Rhet. Al. 18</i>.<p><b>Étym</b>. ἐναποδείκνυμι.`

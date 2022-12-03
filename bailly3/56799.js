@@ -1,1 +1,0 @@
-lar[56799]=`<b>ας</b>, <i>adj. f</i>. qui prend soin de, ORPH. <i>H. 9, 16</i>.<p><b>Étym</b>. κομίζω ; <i>cf</i>. κομιστήρ <i>et</i> κομιστής.`

@@ -1,1 +1,0 @@
-lar[100593]=`<b>ου</b> <font color="purple">[ῐῡ]</font> <i>adj. m</i>. habitant <i>ou</i> originaire de Triphylie, XÉN. <i>Hell. 4, 2, 16, etc</i>.<p><b>Étym</b>. Τριφυλία.`

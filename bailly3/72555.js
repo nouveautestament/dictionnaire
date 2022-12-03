@@ -1,1 +1,0 @@
-lar[72555]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> irascibilité, ARSTT. <i>Nic. 2, 7, etc.</i> ; PLUT. <i>M. 443d</i>.<p><b>Étym</b>. ὀργίλος.`

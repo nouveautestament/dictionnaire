@@ -1,1 +1,0 @@
-lar[40139]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> d’Érasistrate, ATH. <i>87b</i>.<p><b>Étym</b>. <i>v</i>. Ἐρασίστρατος.`

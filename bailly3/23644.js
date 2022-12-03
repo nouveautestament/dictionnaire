@@ -1,1 +1,0 @@
-lar[23644]=`<b>δεκα·δάκτυλος, ος, ον</b> <font color="purple">[κᾰῠ]</font><br><b>      1</b> à dix doigts, DL. <i>4, 34</i> ; DC. <i>47, 10</i>.<br><b>      2</b> large de dix doigts, HPC. <i>491, 47</i>.<p><b>Étym</b>. δ. δάκτυλος.`

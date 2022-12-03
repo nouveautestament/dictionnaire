@@ -1,1 +1,0 @@
-lar[60774]=`<i>adv.</i> : παίζειν, jouer à faire claquer, LUC. <i>Lex. 8</i>.<p><b>Étym</b>. ληκέω.`

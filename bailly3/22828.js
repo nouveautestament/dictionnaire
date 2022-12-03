@@ -1,1 +1,0 @@
-lar[22828]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῠ]</font> appartement des femmes, gynécée, XÉN. <i>Cyr. 5, 5, 1</i>.<p><b>Étym</b>. γυνή.`

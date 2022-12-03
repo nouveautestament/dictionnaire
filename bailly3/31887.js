@@ -1,1 +1,0 @@
-lar[31887]=`<b>ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> enlevé par le lavage, lavé, <i>fig</i>. ESCHL. <i>Eum. 281</i> ; PLAT. <i>Leg. 872e.</i><br><b>      2</b> qui se déteint <i>ou</i> s’efface sans peine, PLAT. <i>Rsp. 429e</i>.<p><b>Étym</b>. ἐκπλύνω.`

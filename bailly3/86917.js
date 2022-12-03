@@ -1,1 +1,0 @@
-lar[86917]=`<b>προ·ϋφίστημι</b> (<i>seul. ao.2 intr</i>. προϋπέστην <i>et au moy</i>.) exister avant, <i>gén</i>. PLUT. <i>M. 570f, 636c, etc., abs</i>. préexister, NICOM. <i>Arithm. 72, 74</i>.`

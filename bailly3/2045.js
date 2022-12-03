@@ -1,1 +1,0 @@
-lar[2045]=`<b>ἄ·θηρος, ος, ον :<br>      1</b> sans gibier, HDT. <i>4, 185</i> ; τὸ ἄθ. PLUT. <i>M. 981c</i>, manque de gibier : ἄθ. ἡμέρα, ESCHL. <i>fr. 239,</i> jour où l’on ne chasse pas.<br><b>      2</b> qui écarte les animaux sauvages, GEOP. <i>10, 32</i>.<p><b>Étym</b>. ἀ, θήρ.`

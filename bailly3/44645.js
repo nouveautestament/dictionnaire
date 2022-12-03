@@ -1,1 +1,0 @@
-lar[44645]=`<b>ζυγο·στάτης, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> préposé aux poids et balances, SEXT. <i>197, 22 Bkk.</i> ; ARTÉM. <i>2, 37</i>.<p><b>Étym</b>. ζυγόν, ἵστημι.`

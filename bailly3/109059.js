@@ -1,1 +1,0 @@
-lar[109059]=`<b>ητος (ἡ)</b> longueur de temps, longue durée, TH. <i>H.P. 9, 14, 2</i>.<p><b>Étym</b>. χρόνιος.`

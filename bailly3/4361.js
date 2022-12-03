@@ -1,1 +1,0 @@
-lar[4361]=`<b>ηκος (ὁ)</b> sorte de légume, A. TR. <i>p. 81</i>.`

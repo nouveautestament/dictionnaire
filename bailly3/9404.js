@@ -1,1 +1,0 @@
-lar[9404]=`<b>ἀντ·αδικέω-ῶ</b> <font color="purple">[τᾰῐ]</font> faire du tort en échange : ἀλλήλους, PLAT. <i>Theæt. 173a</i>, se faire tort mutuellement.`

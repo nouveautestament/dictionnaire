@@ -1,1 +1,0 @@
-lar[61884]=`<b>λυκο·δίωκτος, ος, ον</b> <font color="purple">[ῠ]</font> poursuivi par un loup, ESCHL. <i>Suppl. 350</i>.<p><b>Étym</b>. λ. διώκω.`

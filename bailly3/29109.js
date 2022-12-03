@@ -1,1 +1,0 @@
-lar[29109]=`<b>δωδεκα·σύλλαβος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> de douze syllabes, HÉPH. <i>10, 8 ; 14, 6</i>.<p><b>Étym</b>. δ. συλλαβή.`

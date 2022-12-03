@@ -1,1 +1,0 @@
-lar[31294]=`<b>ἐκ·θειάζω :<br>      1</b> diviniser, consacrer comme dieu, LUC. <i>Tox. 3 et 8</i> ; HDN <i>4, 2, 1, etc.</i><br><b>      2</b> regarder comme être divin <i>ou</i> comme chose divine, <i>acc</i>. PLUT. <i>Sert. 11</i> ; HDN <i>1, 7, 9 ; 1, 14, 10 ; etc</i>.`

@@ -1,1 +1,0 @@
-lar[70570]=`<b>οἰνο·πῶλις, ιδος (ἡ)</b> <font color="purple">[ῐδ]</font> marchande de vin, cabaretière, LIB. <i>t. 4, p. 139</i>.<p><b>Étym</b>. <i>fém. de</i> οἰνοπώλης.`

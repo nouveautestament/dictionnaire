@@ -1,1 +1,0 @@
-lar[108828]=`<b>χορό·νικος, ος, ον</b> <font color="purple">[ῑ]</font> qui remporte le prix (<i>litt</i>. la victoire) dans un chœur, ALEX. (ATH. <i>638c</i>).<p><b>Étym</b>. χ. νίκη.`

@@ -1,1 +1,0 @@
-lar[87580]=`<b>Πυθό·κραντος, ος, ον</b> <font color="purple">[ῡ]</font> prédit par Apollon Pythien : τὰ Π. ESCHL. <i>Ag. 1255,</i> les oracles d’Apollon Pythien.<p><b>Étym</b>. Πύθων, κραίνω.`

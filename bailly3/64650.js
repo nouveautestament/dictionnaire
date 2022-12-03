@@ -1,1 +1,0 @@
-lar[64650]=`<b>μετα·βασανίζω</b> <font color="purple">[ᾰᾰᾰ]</font> explorer encore une fois, GAL. <i>12, 90</i>.`

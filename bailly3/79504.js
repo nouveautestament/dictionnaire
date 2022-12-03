@@ -1,1 +1,0 @@
-lar[79504]=`<b>περι·τοξεύω</b>, percer de traits lancés de toutes parts, AR. <i>Ach. 712</i>.`

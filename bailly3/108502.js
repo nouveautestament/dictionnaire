@@ -1,1 +1,0 @@
-lar[108502]=`<b>χιονό·βλητος, ος, ον</b>, couvert (<i>litt</i>. battu) de neige, AR. <i>Nub. 270</i> ; ARR. <i>Ind. 6, 7</i>.<p><b>Étym</b>. χ. βάλλω.`

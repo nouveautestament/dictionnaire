@@ -1,1 +1,0 @@
-lar[43031]=`<b>εὐ·πλατής, ής, ές</b> <font color="purple">[ᾰ]</font> très large, XÉN. <i>Cyn. 10, 3</i>.<p><b>Étym</b>. εὖ, πλάτος.`

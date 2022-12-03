@@ -1,1 +1,0 @@
-lar[59247]=`<b>ου (ὁ)</b> <i>d’ord. au pl</i>. οἱ κῶοι, gîte d’un animal, STR. <i>367</i>.<p><b>Étym</b>. <i>cf</i>. κοῖλος.`

@@ -1,1 +1,0 @@
-lar[74556]=`<b>παλίμ·ψηστος, ος, ον</b> <font color="purple">[ᾰ]</font> qu’on gratte pour écrire de nouveau, PLUT. <i>M. 779c ;</i> τὸ π. PLUT. <i>M. 504d</i>, palimpseste, <i>en parl. d’un manuscrit qu’on a gratté pour y écrire autre chose</i>.<p><b>Étym</b>. π. ψάω.`

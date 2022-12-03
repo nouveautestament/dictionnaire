@@ -1,1 +1,0 @@
-lar[105488]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec humanité, avec bonté, DÉM. <i>411, 10, etc. ; joint à</i> δημοτικῶς, DÉM. <i>707, 24 ; à</i> θεοφιλῶς, ISOCR. <i>197c</i>.<p>•<i> Sup</i>. -ώτατα, DÉM. <i>760, 5</i>.`

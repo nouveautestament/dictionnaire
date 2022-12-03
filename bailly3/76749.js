@@ -1,1 +1,0 @@
-lar[76749]=`<b>παρ·εξωθέω-ῶ</b>, repousser de côté <i>ou</i> en passant, ARSTT. <i>Mund. 4, 29</i>.`

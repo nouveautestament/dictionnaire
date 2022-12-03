@@ -1,1 +1,0 @@
-lar[2918]=`<b>ου (ὁ)</b> Æskhylidès :<br><b>      1</b> <i>écrivain agronomique,</i> EL. <i>N.A. 16, 32</i>.<br><b>      2</b> <i>autres,</i> LYS. <i>12, 38 Baiter-Sauppe</i> ; ANTH. <i>11, 2</i>.<p><b>Étym</b>. Αἰσχύλος.`

@@ -1,1 +1,0 @@
-lar[47397]=`<b>ου (ὁ)</b> Thibrakhos, <i>h</i>. XÉN. <i>Hell. 2, 4, 33</i>.`

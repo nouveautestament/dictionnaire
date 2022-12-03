@@ -1,1 +1,0 @@
-lar[99367]=`<b>      1</b> être nourrice, DÉM. <i>1309, 13, 19</i> ; ATH. <i>618e.</i><br><b>      2</b> allaiter, nourrir, <i>acc</i>. DÉM. <i>1311 fin ; 1312, 24 ; au pass</i>. ARSTT. <i>G.A. 3, 2, 27 ; en parl. d’un pays,</i> PLUT. <i>Lyc. 16</i>.<p><b>Étym</b>. τίτθη.`

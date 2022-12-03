@@ -1,1 +1,0 @@
-lar[75311]=`<b>παν·υπείροχος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui l’emporte sur tout, tout à fait supérieur, OPP. <i>C. 2, 63</i> ; ANTH. <i>9, 656, 741</i>.<p><b>Étym</b>. π. ὑπερέχω.`

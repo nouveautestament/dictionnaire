@@ -1,1 +1,0 @@
-lar[83536]=`<b>προ·αναβαίνω</b>, monter auparavant <i>ou</i> le premier sur, <i>acc</i>. THC. <i>3, 112 ; avec</i> ἐπί <i>et l’acc</i>. POLYEN <i>6, 8, 1</i>.`

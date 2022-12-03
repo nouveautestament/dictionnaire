@@ -1,1 +1,0 @@
-lar[101688]=`<b>ὑλακό·μωρος, ος, ον</b> <font color="purple">[ῡ <i>à l’arsis,</i> ᾰ]</font> qui ne cesse d’aboyer, OD. <i>14, 29 ; 16, 4</i>.<p><b>Étym</b>. ὑλακή, -μωρός ; <i>pour la formation, cf</i>. ἐγχεσίμωρος, ἰόμωρος.`

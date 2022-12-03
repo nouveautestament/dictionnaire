@@ -1,1 +1,0 @@
-lar[56593]=`<b>ίδος</b> <font color="purple">[ᾰ]</font> flatteuse, <i>particul. surn. des femmes</i> κλιμακίδες (<i>v</i>. κλιμακίς) PLUT. <i>M. 50d ;</i> ATH. <i>256d</i>.<p><b>Étym</b>. κόλαξ.`

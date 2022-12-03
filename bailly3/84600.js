@@ -1,1 +1,0 @@
-lar[84600]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> jugement porté d’avance, prévention, NT. <i>1Tim. 5, 21</i> ; RHÉT. <i>7, 1123 W</i>.<p><b>Étym</b>. προκρίνω.`

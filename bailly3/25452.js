@@ -1,1 +1,0 @@
-lar[25452]=`<b>δια·ρραχίζω</b> <font color="purple">[ρᾰ]</font> (<i>seul. pf. pass. 3 sg</i>. διερράχισται) couper en deux l’échine, <i>ou</i> selon la direction de l’échine, EUB. <i>fr. 15, 4 Kock</i>.<p><b>Étym</b>. διά, ῥάχις.`

@@ -1,1 +1,0 @@
-lar[21506]=`<i>adv</i>., d’une voix éclatante, PHILSTR. <i>131, 673</i>.<p><b>Étym</b>. γεγωνός.`

@@ -1,1 +1,0 @@
-lar[69984]=`<i>ou</i> <b>ὁ-</b>, <i>préfixe marquant l’union, v</i>. ὀπάτριος.<p><b>Étym</b>. <i>indo-europ</i>. *sem- ; <i>probabl. éol. p</i>. ἀ <i>cop., v</i>. ἀ- 2.`

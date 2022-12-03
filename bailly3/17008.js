@@ -1,1 +1,0 @@
-lar[17008]=`<b>ου (ὁ)</b> Attaginos, <i>Thébain,</i> HDT. ATH.`

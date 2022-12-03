@@ -1,1 +1,0 @@
-lar[28339]=`<b>δυσ·έκδρομος, ος, ον</b> <font color="purple">[ῠ]</font> qu’il est difficile d’éviter dans sa course, NIC. <i>Al. 14</i>.<p><b>Étym</b>. δ. ἐκδραμεῖν.`

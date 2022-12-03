@@ -1,1 +1,0 @@
-lar[87851]=`<b>πυρί·βολος, ος, ον</b> <font color="purple">[ῠῐ]</font> atteint par le feu <i>ou</i> frappé de la foudre, EUR. <i>Phaëth. fr. 781, 65 Nauck</i>.`

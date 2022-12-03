@@ -1,1 +1,0 @@
-lar[27120]=`<b>διφαλαγγ·αρχία, ας (ἡ)</b> <font color="purple">[ῐᾰλ]</font> commandement d’une double phalange, EL. TACT. <i>9, 9</i>.<p><b>Étym</b>. διφαλαγγία, ἄρχω.`

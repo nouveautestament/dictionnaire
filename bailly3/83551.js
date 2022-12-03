@@ -1,1 +1,0 @@
-lar[83551]=`<font color="purple">[ῑ]</font> <i>vb. de</i> προανακινέω ORIB. <i>288 Matthäi</i>.`

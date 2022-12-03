@@ -1,1 +1,0 @@
-lar[71627]=`<b>ας (ἡ)</b> Homonœa (<i>litt</i>. Concorde) <i>n. de f</i>. ANTH. <i>App. 210</i>.<p><b>Étym</b>. <i>v</i>. ὁμόνοια.`

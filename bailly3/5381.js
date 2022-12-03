@@ -1,1 +1,0 @@
-lar[5381]=`<b>ἀμβροτό·πωλος, ος, ον</b>, aux coursiers divins, EUR. <i>Tr. 536 conj</i>.<p><b>Étym</b>. ἄμβροτος, πῶλος.`

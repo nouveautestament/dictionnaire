@@ -1,1 +1,0 @@
-lar[20929]=`<b>α, ον</b>, du Bruttium, LUC. <i>Alex. 21</i> ; DIOSC. <i>1, 97</i> ; οἱ βρύττιοι, APP. <i>Hann. 44, etc</i>. les habitants du Bruttium. <i>Cf</i>. βρέττιοι.`

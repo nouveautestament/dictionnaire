@@ -1,1 +1,0 @@
-lar[56640]=`<b>κολλο·μελέω-ῶ</b>, ajuster des vers les uns aux autres, AR. <i>Th. 54</i>.<p><b>Étym</b>. κόλλα, μέλος.`

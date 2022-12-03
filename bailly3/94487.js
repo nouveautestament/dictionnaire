@@ -1,1 +1,0 @@
-lar[94487]=`<b>ος, ον</b>, confondu, confus, brouillé, EUR. <i>Hipp. 1234</i>.<p><b>Étym</b>. συμφύρω.`

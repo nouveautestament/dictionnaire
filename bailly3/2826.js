@@ -1,1 +1,0 @@
-lar[2826]=`<b>ης (ἡ)</b> Æsa, <i>v. de Chalcidique située dans le golfe Thermaïque,</i> HDT. <i>7, 123</i>.`

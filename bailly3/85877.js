@@ -1,1 +1,0 @@
-lar[85877]=`<b>προσθο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> visible par devant, GAL. <i>18, 777</i>.<p><b>Étym</b>. πρόσθεν, φαίνομαι.`

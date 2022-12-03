@@ -1,1 +1,0 @@
-lar[33308]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> cautionnement, SYMM. <i>Prov. 11, 15</i>.<p><b>Étym</b>. ἐμπήγνυμι.`

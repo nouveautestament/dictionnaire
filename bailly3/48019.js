@@ -1,1 +1,0 @@
-lar[48019]=`<b>θυρεόω-εῶ</b> <font color="purple">[ῠ]</font> couvrir d’un bouclier long, AQU. <i>Esai. 31, 5</i>.<p><b>Étym</b>. θυρεός.`

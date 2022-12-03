@@ -1,1 +1,0 @@
-lar[62124]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite lampe <i>ou</i> petite lanterne, AR. (<i>Com. fr. 2, 1059</i>) ; PLUT. <i>Demetr. 20</i> ; LUC. <i>Tim. 14</i>.<p><b>Étym</b>. λύχνος.`

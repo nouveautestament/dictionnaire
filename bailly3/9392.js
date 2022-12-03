@@ -1,1 +1,0 @@
-lar[9392]=`<b>ἀντ·αγανακτέω-ῶ</b> <font color="purple">[ᾰγᾰν]</font> s’indigner à son tour, ŒNOM. (EUS. <i>3, 437 Migne).</i><p><b>Étym</b>. ἀντί, ἀγ.`

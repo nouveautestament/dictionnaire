@@ -1,1 +1,0 @@
-lar[101740]=`<b>ὑλο·δρόμος, ος, ον</b> <font color="purple">[ῡ]</font> qui court dans les bois, AR. <i>Th. 47</i>.<p><b>Étym</b>. ὕλη, δραμεῖν.`

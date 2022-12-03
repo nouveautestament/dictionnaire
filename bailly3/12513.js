@@ -1,1 +1,0 @@
-lar[12513]=`<b>ἀπο·καρφολογέω-ῶ</b>, ramasser des brins de paille, HPC. <i>38, 4</i>.`

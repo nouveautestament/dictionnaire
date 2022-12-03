@@ -1,1 +1,0 @@
-lar[28636]=`<b>δυσ·μανής, ής, ές</b> <font color="purple">[ᾱ]</font> difficile à raréfier, <i>d’où</i> épais, dense, <i>en parl. de l’eau,</i> TH. <i>H.P. 7, 5, 2 dout</i>.<p><b>Étym</b>. δ. μανός.`

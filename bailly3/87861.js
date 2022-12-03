@@ -1,1 +1,0 @@
-lar[87861]=`<b>πυρί·γονος, ος, ον</b> <font color="purple">[ῠῐ]</font> né du feu <i>ou</i> dans le feu, EL. <i>N.A. 2, 2</i>.<p><b>Étym</b>. π. γίγνομαι.`

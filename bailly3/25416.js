@@ -1,1 +1,0 @@
-lar[25416]=`<b>δια·πυτίζω</b> <font color="purple">[ῡ]</font> (<i>seul. prés. et fut</i>. -πυτιῶ) rejeter en crachant, cracher, ARCHÉD. (ATH. <i>294c</i>) ; CLÉM. <i>182</i>.`

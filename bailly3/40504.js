@@ -1,1 +1,0 @@
-lar[40504]=`<b>ἐρι·σθενής, ής, ές</b>, très fort, très puissant, <i>en parl. de Zeus,</i> IL. <i>13, 54</i> ; OD. <i>8, 289</i> ; HÉS. <i>Th. 4 ; en parl. de pers</i>. PD. <i>P. 7, 2</i> ; A.RH. <i>1, 41, 543 ; en parl. de choses,</i> ANTH. <i>9, 808</i>.<p><b>Étym</b>. ἐρι-, σθένος.`

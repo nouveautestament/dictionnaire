@@ -1,1 +1,0 @@
-lar[50825]=`<b>κακο·πονητικός, ή, όν</b> <font color="purple">[ᾰ]</font> peu propre à supporter la fatigue <i>ou</i> le travail, ARSTT. <i>Pol. 7, 6, 12</i>.<p><b>Étym</b>. κ. πονέω.`

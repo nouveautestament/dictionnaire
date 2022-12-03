@@ -1,1 +1,0 @@
-lar[11327]=`<b>ἀ·παραλόγιστος, ος, ον</b>, qui ne se laisse pas tromper, CHRYS. <i>1, 136</i> ; NYSS. <i>2, 294</i> ; JAMBL. <i>V. Pyth. 115 p. 246</i>.<p><b>Étym</b>. ἀ, παραλογίζομαι.`

@@ -1,1 +1,0 @@
-lar[50862]=`<b>κακο·στόμαχος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>pass</i>. qui a un mauvais estomac, CIC. <i>Fam. 16, 4, 1</i> ; ANTH. <i>11, 155</i>.<br><b>      2</b> <i>act</i>. qui débilite <i>ou</i> fatigue l’estomac, HÉRACLIDE TAR. (ATH. <i>120b</i>).<p>•<i> Cp</i>. -ώτερος, DIPH. SIPHN. (ATH. <i>56b</i>).<p><b>Étym</b>. κ. στόμαχος.`

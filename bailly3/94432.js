@@ -1,1 +1,0 @@
-lar[94432]=`<b>συμ·φιλονεικέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> se mêler à une querelle, PLUT. <i>Arat. 3</i>.<br><b>      2</b> prendre parti pour qqn, <i>dat</i>. PLAT. <i>Prot. 336e ;</i> AND. <i>31, 39</i> ; STR. <i>381, etc.</i> ; DH. <i>6, 57</i>.`

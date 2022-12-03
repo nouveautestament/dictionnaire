@@ -1,1 +1,0 @@
-lar[36730]=`EUR. <i>Alc. 463, et</i> <b>ἐπάνωθεν</b> <font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> de dessus, d’en haut, THC. <i>2, 99 ; avec un gén</i>. ἀπὸ ἐπάνωθέν μου, SPT. <i>2Reg. 13, 19,</i> loin d’au-dessus de moi, loin de moi.<br><b>      2</b> d’autrefois, THCR. <i>Idyl. 7, 5</i>.<p><b>Étym</b>. ἐπάνω, -θεν.`

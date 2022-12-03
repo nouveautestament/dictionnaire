@@ -1,1 +1,0 @@
-lar[107347]=`<b>ας (ἡ)</b> Phôkæa (Phocée) :<br><b>      1</b> <i>v. sur la côte d’Ionie (auj</i>. Foça) HH. <i>Ap. 35</i> ; HDT. <i>1, 80, etc.</i> ; THC. <i>8, 31</i> ; XÉN. <i>Hell. 1, 3, 1, etc.</i><br><b>      2</b> <i>au plur</i>. αἱ Φωκαῖαι, Phôkæes, <i>v. des Léontins, en Sicile,</i> THC. <i>5, 4</i>.<p>➳ <i>Ion</i>. Φωκαίη, HDT. <i>1, 163, 167</i>.`

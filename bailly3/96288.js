@@ -1,1 +1,0 @@
-lar[96288]=`<b>συν·τειχίζω</b>, fortifier d’une enceinte de murs, THC. <i>4, 57</i> ; XÉN. <i>Cyr. 3, 2, 24</i>.`

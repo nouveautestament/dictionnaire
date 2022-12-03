@@ -1,1 +1,0 @@
-lar[21460]=`<b>Γαύρανον ὄρος (τὸ)</b> le mt Gauranon, <i>près du Tigre,</i> Ps.-PLUT. <i>Fluv. 24, 3</i>.`

@@ -1,1 +1,0 @@
-lar[54384]=`<b>καχ·όμιλος, ος, ον</b> <font color="purple">[ᾰῑ]</font> qui est de mauvaise compagnie, d’un commerce désagréable, PHILOD. <i>De ira</i>.<p><b>Étym</b>. κακός, ὁμιλέω.`

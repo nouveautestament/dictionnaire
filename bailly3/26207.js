@@ -1,1 +1,0 @@
-lar[26207]=`<b>δι·εξανθίζω</b> (<i>part. pf. pass</i>. διεξηνθισμένων) former (une couronne) de fleurs variées, EUB. (ATH. <i>679e, conj</i>.).`

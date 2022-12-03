@@ -1,1 +1,0 @@
-lar[86200]=`<b>προσ·όμαλος, ος, ον</b> <font color="purple">[ᾰ]</font> à peu près uni <i>ou</i> égal, DIOGÉN. <i>1, 65</i>.`

@@ -1,1 +1,0 @@
-lar[59137]=`<b>κωλο·τομέω-ῶ</b>, couper les membres, dépecer, <i>acc</i>. POÈT. (PLUT. <i>M. 377e</i>).<p><b>Étym</b>. κῶλον, -τομος <i>de</i> τέμνω.`

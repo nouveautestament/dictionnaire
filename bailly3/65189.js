@@ -1,1 +1,0 @@
-lar[65189]=`<b>μετ·οιωνίζομαι</b>, recommencer sous de nouveaux auspices, <i>acc</i>. DIN. <i>94, 5 ; 101, 43</i>.`

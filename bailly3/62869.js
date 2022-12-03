@@ -1,1 +1,0 @@
-lar[62869]=`<b>ης (ἡ)</b> fouet, lanière de cuir, ESCHL. <i>Ch. 375</i> ; EUR. <i>Rhes. 817</i> ; PLAT. COM. <i>2-2, 636 Mein</i>.`

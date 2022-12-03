@@ -1,1 +1,0 @@
-lar[43132]=`<b>ής, ές</b>, <i>p.-ê</i>. qui a le vent en poupe, <i>càd</i>. au vent propice, <i>fig</i>. qui vogue sûrement, ESCHL. <i>Suppl. 989</i>.<p><b>Étym</b>. <i>cf</i>. εὔπρυμνος.`

@@ -1,1 +1,0 @@
-lar[15746]=`<b>ας (ἡ)</b> <font color="purple">[σᾰ]</font> obscurité, PLAT. <i>Rsp. 478c ;</i> PLUT. <i>Sol. 19</i>.<p>➳ <i>Ion</i>. ἀσαφίη, HPC. <i>28, 41</i>.<p><b>Étym</b>. ἀσαφής.`

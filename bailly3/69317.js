@@ -1,1 +1,0 @@
-lar[69317]=`<b>ορος (ὁ) :<br>      1</b> qui distribue, MAN. <i>6, 357</i>.<br><b>      2</b> qui conduit <i>ou</i> dirige, NONN. <i>D. 12, 20, etc</i>.`

@@ -1,1 +1,0 @@
-lar[47502]=`<b>ης, ες</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>pass</i>. tumultueux, PLAT. <i>Leg. 671a ;</i> ARSTT. <i>H.A. 9, 49</i> ; PLUT. <i>Ages. 13</i>.<br><b>      2</b> <i>act</i>. qui trouble, qui effraye, XÉN. <i>Eq. 9, 15</i>.<p><b>Étym</b>. θόρυβος, -ωδης.`

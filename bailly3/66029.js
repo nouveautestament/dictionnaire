@@ -1,1 +1,0 @@
-lar[66029]=`<b>μισό·δουλος βοτάνη (ἡ)</b> <font color="purple">[ῑ]</font> la plante qui hait la servitude, <i>autre n. de la plante</i> ὤκιμον, GEOP. <i>11, 28</i>.`

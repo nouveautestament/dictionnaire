@@ -1,1 +1,0 @@
-lar[2584]=`<b>ου (ὁ)</b> le fils d’Hæmôn :<br><b>      1</b> <i>Méon,</i> IL. <i>4, 394</i>.<br><b>      2</b> <i>autre,</i> Q. SM. <i>1, 229</i>.<p><b>Étym</b>. Αἵμων.`

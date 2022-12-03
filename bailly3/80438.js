@@ -1,1 +1,0 @@
-lar[80438]=`<b>πισσ·έλαιον, ου (τὸ) :<br>      1</b> huile mêlée de poix, GAL.<br><b>      2</b> <i>c</i>. πίσσανθος, DIOSC.`

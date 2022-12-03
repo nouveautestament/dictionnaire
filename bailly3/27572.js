@@ -1,1 +1,0 @@
-lar[27572]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> javeline, THC. <i>4, 34</i> ; PLUT. <i>M. 184b ;</i> LUC. <i>Zeux. 10</i>.<p>➳ <i>ion</i>. δουράτιον, HDT. <i>1, 34</i>.<p><b>Étym</b>. δορατ-, <i>th. de</i> δόρυ.`

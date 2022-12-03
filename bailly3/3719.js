@@ -1,1 +1,0 @@
-lar[3719]=`<b>ἀκρ·ίσχιον, ου (τὸ)</b> extrémité de la hanche, HLD. CHIR. (GAL. <i>12, 531).</i><p><b>Étym</b>. ἄκρος, ἰσχίον.`

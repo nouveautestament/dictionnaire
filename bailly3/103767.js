@@ -1,1 +1,0 @@
-lar[103767]=`<b>ὑπ·όρνυμι</b> <font color="purple">[νῡ]</font> <font color="darkgreen">(<i>f</i>. ὑπόρσω, <i>ao</i>. ὑπῶρσα, <i>pf</i>. ὑπώρορα)</font> exciter peu à peu, faire naître insensiblement, <i>fig. (avec tm</i>.) IL. <i>23, 153</i> ; OD. <i>4, 183, etc</i>.<p>➳ <i>Ao.2 épq. 3 sg</i>. ὑπώρορε, OD. <i>24, 62</i>.`

@@ -1,1 +1,0 @@
-lar[72397]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en combien de façons, XÉN. <i>Cyn. 6, 23</i>.<p><b>Étym</b>. ὁπόσος, -χη.`

@@ -1,1 +1,0 @@
-lar[55705]=`(<i>seul. prés. et imp</i>. ἔκιον) aller, <i>d’ord. en parl. de pers</i>. IL. <i>2, 565, etc.</i> ; OD. <i>4, 427, etc. ; en parl. de vaisseaux,</i> IL. <i>2, 509</i> ; OD. <i>9, 64</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *ḱeih₂-, mettre en mouvement ; <i>cf</i>. κινέω, <i>lat</i>. citus, cieō.`

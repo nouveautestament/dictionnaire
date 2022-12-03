@@ -1,1 +1,0 @@
-lar[65533]=`<b>μητρ·εγχύτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> instrument pour injections dans la matrice, MÉD. <i>p. 323 Matthäi</i>.<p><b>Étym</b>. μήτρα, ἐγχέω.`

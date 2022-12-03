@@ -1,1 +1,0 @@
-lar[73236]=`<b>ὀσπριο·φαγέω-ῶ</b>, manger des légumineuses, HPC. <i>1037f</i>.<p><b>Étym</b>. ὄσπριον, φαγεῖν.`

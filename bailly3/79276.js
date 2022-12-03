@@ -1,1 +1,0 @@
-lar[79276]=`<b>περί·σκληρος, ος, ον :<br>      1</b> sec <i>ou</i> dur tout autour, HPC. <i>530, 5 ; 1165b.</i><br><b>      2</b> très sec, ANTIPH. (<i>Com. fr. 3, 117).</i><p><b>Étym</b>. π. σκληρός.`

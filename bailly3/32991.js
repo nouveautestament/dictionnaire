@@ -1,1 +1,0 @@
-lar[32991]=`<b>ἐλ·λοχίζω</b> (<i>seul. prés</i>.) :<br><b>      1 <i>intr.</i></b> être en embuscade, EUR. <i>Bacch. 723</i>.<br><b>      2 <i>tr.</i></b> mettre en embuscade, <i>acc</i>. PLUT. <i>Phil. 14</i>.<p><b>Étym</b>. ἐν, λόχος.`

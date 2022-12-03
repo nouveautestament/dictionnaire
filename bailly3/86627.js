@@ -1,1 +1,0 @@
-lar[86627]=`<b>ου (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πρόσφυξ, ES. <i>417 Halm</i>.`

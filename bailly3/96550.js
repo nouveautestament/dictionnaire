@@ -1,1 +1,0 @@
-lar[96550]=`<b>συρ·ρᾳδιουργέω-ῶ</b>, commettre une faute <i>ou</i> un crime, de complicité avec, <i>dat</i>. PLUT. <i>M. 53c ;</i> PHIL. <i>2, 196</i>.`

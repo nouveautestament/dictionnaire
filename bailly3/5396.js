@@ -1,1 +1,0 @@
-lar[5396]=`<b>ἀ·μέθυσος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui prévient <i>ou</i> dissipe l’ivresse, DIOSC. <i>1, 176</i>.<br><b>      2</b> <i>subst</i>. ὁ ἀμέθυσος, JOS. <i>A.J. 3, 7, 5 ; ou</i> τὸ ἀμέθυσον, TH. <i>Lap. 30, etc., c</i>. ἡ ἀμέθυστος.`

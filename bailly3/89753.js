@@ -1,1 +1,0 @@
-lar[89753]=`<b>η, ον</b> <font color="purple">[ῑῑ]</font> d’ache <i>ou</i> de persil, DC. <i>fr. 4, 5</i>.<p><b>Étym</b>. σέλινον.`

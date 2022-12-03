@@ -1,1 +1,0 @@
-lar[15084]=`<b>ου (ὁ)</b> Arrhabæos, <i>chef des Lynkestes,</i> ARSTT. <i>Pol. 5, 8, 11</i>.`

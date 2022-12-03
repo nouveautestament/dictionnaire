@@ -1,1 +1,0 @@
-lar[47282]=`<b>Θηρί·μαχος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Thèrimakhos, <i>h</i>. XÉN. <i>Hell. 4, 7, 29</i> ; ANTH. <i>6, 188</i>.<p><b>Étym</b>. θήρ, μάχομαι.`

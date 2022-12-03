@@ -1,1 +1,0 @@
-lar[1856]=`<b>ῶν (οἱ)</b> Azéiôtes, <i>pple troyen,</i> SOPH. <i>fr. 156</i>.`

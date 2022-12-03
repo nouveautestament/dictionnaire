@@ -1,1 +1,0 @@
-lar[77504]=`<b>παχύ·φλοιος, ος, ον</b> <font color="purple">[ᾰ]</font> à l’écorce épaisse, TH. <i>H.P. 1, 5, 2</i> ; DIOSC. <i>1, 12</i> ; GAL. <i>6, 126</i>.<p><b>Étym</b>. π. φλοιός.`

@@ -1,1 +1,0 @@
-lar[50929]=`<b>κακο·ψυχία, ας (ἡ)</b> <font color="purple">[ῡ]</font> manque de courage, lâcheté, PLAT. <i>Leg. 791c</i>.<p><b>Étym</b>. κ. ψυχή.`

@@ -1,1 +1,0 @@
-lar[51459]=`<b>ή, όν :<br>      1</b> recourbé ; ὁ κ. AQU. <i>Prov. 2, 9, c</i>. καμπτήρ.<br><b>      2</b> flexible, PLAT. <i>Tim. 44e ;</i> ARSTT. <i>Meteor. 4, 9</i>.<p><b>Étym</b>. <i>vb. de</i> κάμπτω.`

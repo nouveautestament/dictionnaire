@@ -1,1 +1,0 @@
-lar[18711]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à marcher, TH. (ATH. <i>387b</i>) ; <i>d’où</i> bon marcheur, AR. <i>Ran. 128</i> ; τὸ βαδιστικόν, ARSTT. <i>Interpr. 12,</i> aptitude à marcher.<p><b>Étym</b>. βαδίζω.`

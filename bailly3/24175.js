@@ -1,1 +1,0 @@
-lar[24175]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> de Démade, D. PHAL. <i>Eloc. 282</i>.`

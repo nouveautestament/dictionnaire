@@ -1,1 +1,0 @@
-lar[9575]=`<b>ἀντ·εκτίθημι :<br>      1</b> exposer à la place, PLUT. <i>Arat. 1</i>.<br><b>      2</b> exposer par contre, SEXT. <i>M. 1, 251</i>.`

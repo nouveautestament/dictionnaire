@@ -1,1 +1,0 @@
-lar[89887]=`<b>ιος</b> <i>ou</i> <b>ιδος (ὁ)</b> Sésostris, <i>roi d’Égypte,</i> HDT. <i>2, 102, etc.</i> ; ARSTT. <i>Meteor. 1, 14</i> ; PLUT. <i>Is. et Os. 24, etc</i>.<p>➳ <i>Gén</i>. -ιος, HDT. ARSTT. PLUT. <i>ll. cc.</i> ; -ιδος, ARR. (PHOT. <i>Bibl. 58</i>) ; ARSTD. <i>16, 245</i>.`

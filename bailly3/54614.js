@@ -1,1 +1,0 @@
-lar[54614]=`<b>κελαιν·ῶπις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. à l’aspect sombre, <i>au propre,</i> PD. <i>P. 1, 13</i>.<p><b>Étym</b>. <i>fém. de</i> κελαινώπης.`

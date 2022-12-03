@@ -1,1 +1,0 @@
-lar[38166]=`<b>ής, ές</b>, suspendu sur, CHRIST. <i>Ecphr. 183</i>.<p><b>Étym</b>. ἐπικρεμάννυμι.`

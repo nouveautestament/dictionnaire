@@ -1,1 +1,0 @@
-lar[44929]=`<b>ας (ἡ)</b> conductrice, ANTH. <i>6, 43</i> ; OPP. <i>C. 1, 253</i>.<p><b>Étym</b>. <i>fém. de</i> ἡγητήρ.`

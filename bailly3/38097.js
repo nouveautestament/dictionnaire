@@ -1,1 +1,0 @@
-lar[38097]=`<b>ἐπι·κοίρανος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> maître, chef, ORPH. <i>Arg. 292 dout</i>.`

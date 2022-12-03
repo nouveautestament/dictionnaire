@@ -1,1 +1,0 @@
-lar[1395]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> sans apprendre, PLUT. <i>M. 673f, etc.</i><br><b>      2</b> sans instruction, CHRYS. <i>3, 211</i>.`

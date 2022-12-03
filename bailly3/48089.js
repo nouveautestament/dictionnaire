@@ -1,1 +1,0 @@
-lar[48089]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> emplacement pour le sacrifice, <i>dans la plaine de Krisa,</i> ESCHN. <i>70 fin</i>.<p><b>Étym</b>. θύω¹.`

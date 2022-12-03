@@ -1,1 +1,0 @@
-lar[101634]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> pluvieux, JOS. <i>A.J. 1, 1, 1</i>.<p><b>Étym</b>. ὑετός, -ωδης.`

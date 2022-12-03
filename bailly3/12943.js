@@ -1,1 +1,0 @@
-lar[12943]=`<i>adv</i>., par répartition, DL. <i>7, 126</i>.`

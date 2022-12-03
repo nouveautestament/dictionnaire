@@ -1,1 +1,0 @@
-lar[40558]=`<b>ἑρμ·αγέλη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> troupeau d’Hermès (sous la conduite d’Hermès) <i>càd</i>. troupe de morts, ANTH. <i>11, 353</i>.<p><b>Étym</b>. Ἑρμῆς, ἀγέλη.`

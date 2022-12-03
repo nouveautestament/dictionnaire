@@ -1,1 +1,0 @@
-lar[5399]=`<b>ἀ·μειαγώγητος, ος, ον</b> <font color="purple">[ᾰγ]</font> non pesé, SYN. <i>Ep. 10, 170c</i>.<p><b>Étym</b>. ἀ, μειαγωγέω.`

@@ -1,1 +1,0 @@
-lar[71370]=`<b>ὁμ·ήγυρις, ιος (ἡ)</b> <font color="purple">[ῠ]</font> réunion, rassemblement, IL. <i>20, 142</i> ; HH. <i>Cer. 484</i> ; ESCHL. <i>Ch. 9, etc.</i> ; EUR. <i>Hipp. 1179</i>.<p>➳ <i>Dor</i>. ὁμάγυρις <font color="purple">[ᾱ]</font> PD. <i>I. 7, 66</i>.<p><b>Étym</b>. ὁμός, ἄγυρις.`

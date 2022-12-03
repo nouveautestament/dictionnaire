@@ -1,1 +1,0 @@
-lar[97824]=`<b>ταὐτο·κλινής, ής, ές</b> <font color="purple">[ῐ]</font> de même inclinaison, sous la même latitude, STR. <i>74, 829</i>.<p><b>Étym</b>. ταὐτό, κλίνω.`

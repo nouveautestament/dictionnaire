@@ -1,1 +1,0 @@
-lar[102321]=`<b>ὑπερ·αφρίζω</b> <font color="purple">[ᾰ]</font> déborder en écumant <i>ou simpl</i>. écumer fortement, EUP. <i>et</i> ARISTOPHON (ATH. <i>471d, 472c</i>).`

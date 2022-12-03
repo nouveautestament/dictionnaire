@@ -1,1 +1,0 @@
-lar[48424]=`<b>ας (ἡ)</b> <font color="purple">[ῐδᾱγ]</font><br><b>      1</b> action d’agir pour soi-même, PLAT. <i>Leg. 875b.</i><br><b>      2</b> action d’agir de soi-même, d’une façon indépendante, CLÉM. <i>803</i>.<p><b>Étym</b>. ἰδιοπραγέω.`

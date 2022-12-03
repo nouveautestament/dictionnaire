@@ -1,1 +1,0 @@
-lar[107148]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑτῐδ]</font> scolopendre, <i>sorte de fougère,</i> DIOSC. <i>3, 121</i>.<p><b>Étym</b>. <i>fém. de</i> φυλλίτης.`

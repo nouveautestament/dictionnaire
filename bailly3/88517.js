@@ -1,1 +1,0 @@
-lar[88517]=`<b>ή, όν</b> <font color="purple">[ῑᾰ]</font> qui fait frissonner, ANTH. <i>9, 384 ; fig</i>. qui fait frissonner de crainte, qui inspire l’horreur, IL. <i>19, 325</i> ; A.RH. <i>4, 1343</i> ; OPP. <i>H. 5, 37</i>.<p><b>Étym</b>. ῥῖγος.`

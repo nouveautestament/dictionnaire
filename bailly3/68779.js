@@ -1,1 +1,0 @@
-lar[68779]=`<b>ας (ἡ)</b> Nikomèdeia (Nicomédie, <i>auj</i>. İzmit) <i>v. de Bithynie,</i> PLUT. <i>Luc. 13</i>.`

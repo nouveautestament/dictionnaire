@@ -1,1 +1,0 @@
-lar[47378]=`<b>(τὸ)</b> <i>indécl</i>. thêta, <i>8<sup>e</sup> lettre de l’alphabet grec,</i> AR. <i>Eccl. 685</i> ; PLAT. <i>Theæt. 207a</i>.<p>➳ <i>Gén</i>. θήτατος, <i>forgé par</i> DÉMOCR. <i>(Bkk. p. 781, 23).</i><p><b>Étym</b>. <i>cf</i>. Θ.`

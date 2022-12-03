@@ -1,1 +1,0 @@
-lar[28146]=`<b>δυσ·αιμορράγητος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui saigne difficilement, AÉT. <i>14, 5</i>.<p><b>Étym</b>. δ. αἱμορραγέω.`

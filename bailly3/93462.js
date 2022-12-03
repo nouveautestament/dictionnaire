@@ -1,1 +1,0 @@
-lar[93462]=`<b>ας (ἡ)</b> héritage avec une autre personne, CLÉM. <i>2, 337 Migne</i>.<p><b>Étym</b>. συγκληρονόμος.`

@@ -1,1 +1,0 @@
-lar[98324]=`interpréter des présages, prophétiser, ESCHL. <i>Ag. 125</i>.<p><b>Étym</b>. τέρας.`

@@ -1,1 +1,0 @@
-lar[12405]=`<b>εως (ἡ) :<br>      1</b> action d’observer de loin <i>ou</i> d’un poste élevé, DS. <i>19, 38</i>.<br><b>      2</b> action d’observer, de viser, d’avoir un rapport direct avec, PLUT. <i>Pel. 25, etc</i>.<p><b>Étym</b>. ἀποθεωρέω.`

@@ -1,1 +1,0 @@
-lar[104304]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en dernier lieu, HIPPIATR. <i>p. 69, 19</i>.`

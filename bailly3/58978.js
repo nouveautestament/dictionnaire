@@ -1,1 +1,0 @@
-lar[58978]=`<b>ου (ὁ)</b> <i>fl. d’Arménie, le même que Κῦρος II</i> (<i>auj</i>. Kura) PLUT. <i>Pomp. 34, 35</i>.`

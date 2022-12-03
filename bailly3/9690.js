@@ -1,1 +1,0 @@
-lar[9690]=`<b>εως (ἡ)</b> résistance d’une chose appuyée sur une autre, HPC. <i>817</i> ; ARSTT. <i>Inc. an. 3, 2</i> ; PLUT. <i>Lys. 12</i>.<p><b>Étym</b>. ἀντερείδω.`

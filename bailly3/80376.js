@@ -1,1 +1,0 @@
-lar[80376]=`<font color="purple">[ῐ]</font> <i>c</i>. πινύσκω.<p>➳ <i>Act. seul. prés</i>. NAUMACH. (STOB. <i>74, 7) et impf. 3 sg</i>. ἐπίνυσσεν, IL. <i>14, 249 ; pass. seul. ao</i>. ἐπινύσθην, PYTHAG. (PROCL. <i>Plat. Tim. 5, 291</i>) ; <i>part</i>. πινυσθείς, JAMBL. <i>V. Pyth. 308</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

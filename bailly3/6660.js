@@ -1,1 +1,0 @@
-lar[6660]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> manque d’éducation, grossièreté, POL. <i>7, 10, 5</i> ; PLUT. <i>M. 800d, etc</i>.<p><b>Étym</b>. ἀνάγωγος.`

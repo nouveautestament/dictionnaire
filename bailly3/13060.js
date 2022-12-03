@@ -1,1 +1,0 @@
-lar[13060]=`<b>εως (ἡ)</b> répulsion pour, <i>gén</i>. PLUT. <i>M. 769f, etc</i>.<p><b>Étym</b>. ἀποπηδάω.`

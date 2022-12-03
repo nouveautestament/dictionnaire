@@ -1,1 +1,0 @@
-lar[100384]=`<b>ας (ἡ)</b> <font color="purple">[ῐπ]</font> tripodie, <i>réunion de trois pieds métriques,</i> A. QUINT. <i>1, p. 39</i>.<p><b>Étym</b>. τρίπους.`

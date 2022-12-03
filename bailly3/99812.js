@@ -1,1 +1,0 @@
-lar[99812]=`<b>(ἡ)</b> = <i>lat</i>. Tutola, <i>n. de f. rom</i>. PLUT. <i>Rom. 29, Cam. 33</i>.`

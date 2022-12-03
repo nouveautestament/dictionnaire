@@ -1,1 +1,0 @@
-lar[91408]=`<b>ου (ἡ)</b> Skôlos :<br><b>      1</b> <i>brg de Béotie,</i> IL. <i>2, 497</i> ; HDT. <i>9, 15</i> ; XÉN. <i>Hell. 5, 4, 49, etc.</i><br><b>      2</b> <i>v. de Chalcidique,</i> THC. <i>5, 18</i>.<p>➳ <i>Dans les inscr. att</i>. Στῶλος, <i>v. Meisterh. p. 61, 1</i>.`

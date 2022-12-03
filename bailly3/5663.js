@@ -1,1 +1,0 @@
-lar[5663]=`<b>ἄ·μμορος, ος, ον :<br>      1</b> qui ne participe pas à, privé <i>ou</i> exempt de, <i>gén</i>. IL. <i>18, 489</i> ; OD. <i>5, 275</i> ; PD. <i>O. 1, 84</i> ; SOPH. <i>Ph. 182</i> ; EUR. <i>Hec. 421, etc.</i><br><b>      2</b> <i>abs</i>. malheureux, IL. <i>6, 408 ; 24, 773</i> ; PD. <i>N. 6, 24</i>.<p><b>Étym</b>. <i>p</i>. *ἄσμορος ; <i>cf</i>. μείρομαι.`

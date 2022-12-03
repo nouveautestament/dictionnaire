@@ -1,1 +1,0 @@
-lar[4643]=`<b>ἀλκί·βιος, ου (ἡ)</b> <font color="purple">[κῐ]</font> buglose <i>ou</i> vipérine, <i>plante qui guérit de la morsure des serpents,</i> NIC. <i>Th. 541</i>.<p><b>Étym</b>. ἀλκή, βίος.`

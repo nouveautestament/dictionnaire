@@ -1,1 +1,0 @@
-lar[56574]=`<b>οῦ (ὁ)</b> son aigu comme le cri du coucou <i>ou</i> du coq, NICOM. <i>Harm. 11, 1, p. 256 Jan</i>.<p><b>Étym</b>. κοκκύζω.`

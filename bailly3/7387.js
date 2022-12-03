@@ -1,1 +1,0 @@
-lar[7387]=`<b>οῦ (ὁ)</b> fiction, PLUT. <i>M. 113d ;</i> SEXT. <i>M. 7, 222</i>.`

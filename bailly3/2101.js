@@ -1,1 +1,0 @@
-lar[2101]=`<i>att</i>. <b>ἁθροισμός, οῦ (ὁ) :<br>      1</b> rassemblement, POL. <i>4, 22, 10</i>.<br><b>      2</b> <i>t. de rhét</i>. accumulation <i>ou</i> amplification, LGN <i>23, 1</i>.<br><b>      3</b> condensation, TH. <i>C.P. 5, 2, 1</i>.<p><b>Étym</b>. ἀθροίζω.`

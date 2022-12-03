@@ -1,1 +1,0 @@
-lar[90989]=`<b>οῦ</b> <i>ou</i> <b>Σκίρτος, ου (ὁ)</b> Skirtos :<br><b>      1</b> <i>Satyre,</i> NONN. <i>D. 14, 111</i>.<br><b>      2</b> <i>autre,</i> ANTH. <i>7, 707</i>.<p><b>Étym</b>. <i>v</i>. σκιρτός.`

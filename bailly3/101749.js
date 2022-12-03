@@ -1,1 +1,0 @@
-lar[101749]=`<b>ὑλοτομέω-ῶ</b> <font color="purple">[ῡ]</font> couper des arbres <i>ou</i> du bois dans une forêt, HÉS. <i>O. 420</i> ; DH. <i>4, 44</i> ; JOS. <i>A.J. 8, 5, 3 ; c. Ap. 1, 17</i>.<p><b>Étym</b>. ὑλοτόμος.`

@@ -1,1 +1,0 @@
-lar[84896]=`<b>προ·παραμυθέομαι-οῦμαι</b> <font color="purple">[ῡ]</font> exposer auparavant, SEXT. <i>M. 9, 293</i>.`

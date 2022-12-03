@@ -1,1 +1,0 @@
-lar[46849]=`<b>θεο·φόρος, ος, ον :<br>      1</b> qui porte un dieu, ESCHL. <i>fr. 224</i>.<br><b>      2</b> (nom) qui renferme un nom de divinité, <i>c</i>. Διόδωρος, Διοχλῆς, <i>etc</i>. ATH. <i>448e</i>.<p><b>Étym</b>. θ. φέρω.`

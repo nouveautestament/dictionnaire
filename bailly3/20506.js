@@ -1,1 +1,0 @@
-lar[20506]=`<b>βου·ποίητος, ος, ον</b>, né des entrailles d’un bœuf, <i>en parl. d’abeilles,</i> ANTH. <i>12, 249</i>.<p><b>Étym</b>. βοῦς, ποιέω.`

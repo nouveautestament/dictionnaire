@@ -1,1 +1,0 @@
-lar[3856]=`<b>ἀκροτομέω-ῶ :<br>      1</b> couper par le bout <i>ou</i> la surface, XÉN. <i>Œc. 18, 2 ; particul</i>. couper l’extrémité d’une pièce (de bois) PHIL. BYZ. (<i>Math. vet. 67</i>).<br><b>      2</b> décapiter, <i>fig</i>. ἀνδρῶν ἀ. τὴν πατρίδα, JOS. <i>B.J. 2, 10, 1,</i> décapiter la patrie de l’élite de ses hommes.<p><b>Étym</b>. ἀκρότομος.`

@@ -1,1 +1,0 @@
-lar[86417]=`<b>προσ·συγχρίω</b> <font color="purple">[ῑ]</font> oindre en outre <i>ou</i> encore, A. TR. <i>12, 769</i>.`

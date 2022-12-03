@@ -1,1 +1,0 @@
-lar[21838]=`<b>ή, όν</b>, dont on peut goûter, ARSTT. <i>Rhet. 1, 11, 5 ; An. 2, 10, 3, etc</i>.<p><b>Étym</b>. <i>vb. de</i> γεύω.`

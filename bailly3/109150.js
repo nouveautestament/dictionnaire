@@ -1,1 +1,0 @@
-lar[109150]=`<b>Χρύσ·ιππος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Khrysippos (Chrysippe) :<br><b>      1</b> <i>philosophe stoïcien,</i> PLUT. <i>Exil. 14, etc.</i> ; LUC. <i>Conv. 30, etc.</i> ; DL. <i>7, 7, etc.</i><br><b>      2</b> <i>autres,</i> THC. <i>1, 9</i> ; PLAT. <i>Crat. 395b, etc</i>.<p><b>Étym</b>. χρ. ἵππος.`

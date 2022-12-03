@@ -1,1 +1,0 @@
-lar[59593]=`<b>ῆρος (ὁ)</b> Lakètèr, <i>pointe de terre de l’î. de Kôs,</i> PLUT. <i>Qu. gr. 58</i>.`

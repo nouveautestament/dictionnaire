@@ -1,1 +1,0 @@
-lar[47326]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> chasse, OPP. <i>C. 4, 43</i> ; NONN. <i>D. 16, 134</i>.<p>➳ <i>Dor</i>. θηροσύνα, ANTH. <i>6, 167</i>.<p><b>Étym</b>. θήρ.`

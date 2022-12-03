@@ -1,1 +1,0 @@
-lar[83972]=`<b>εως (ἡ)</b> préambule d’une narration, ESCHN. <i>16, 30</i> ; ARSTT. <i>Rhet. 3, 13, 5</i>.<p><b>Étym</b>. προδιηγέομαι.`

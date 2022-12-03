@@ -1,1 +1,0 @@
-lar[98032]=`<b>τειχοποιέω-ῶ</b>, construire des fortifications, DÉM. <i>Cor. Arg. 2</i>.<p><b>Étym</b>. τειχοποιός.`

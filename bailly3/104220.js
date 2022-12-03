@@ -1,1 +1,0 @@
-lar[104220]=`<b>ὑπ·οψωνέω-ῶ</b>, tromper sur le prix des denrées, AR. <i>Ach. 842</i>.`

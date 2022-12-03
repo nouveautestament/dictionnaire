@@ -1,1 +1,0 @@
-lar[92991]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> petit oiseau, <i>fig. en parl. d’un débauché,</i> ALEX. (<i>Com. fr. 3, 449).</i><p><b>Étym</b>. στρουθός.`

@@ -1,1 +1,0 @@
-lar[93204]=`<b>ή, όν :<br>      1</b> <i>act</i>. indulgent, ARSTT. <i>Rhet. 2, 6, 19</i>.<br><b>      2</b> <i>pass</i>. pardonnable, ARSTT. <i>Nic. 5, 8, 12, etc</i>.<p><b>Étym</b>. συγγνώμων.`

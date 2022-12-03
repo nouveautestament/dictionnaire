@@ -1,1 +1,0 @@
-lar[57278]=`<b>κοσμ·ολέτης, ου</b>, <i>adj. m</i>. destructeur du monde, NAZ. <i>2, 87b</i>.<p><b>Étym</b>. κ. ὄλλυμι.`

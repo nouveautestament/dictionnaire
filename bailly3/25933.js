@@ -1,1 +1,0 @@
-lar[25933]=`<b>εως (ἡ)</b> <font color="purple">[ῑσ]</font> action d’enduire, onction, GEOP. <i>6, 9, 2</i>.<p><b>Étym</b>. διαχρίω.`

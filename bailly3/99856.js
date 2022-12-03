@@ -1,1 +1,0 @@
-lar[99856]=`<b>τραγο·κτόνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui tue les boucs : αἷμα τραγοκτόνον, EUR. <i>Bacch. 139,</i> sang d’un bouc immolé.<p><b>Étym</b>. τρ. κτείνω.`

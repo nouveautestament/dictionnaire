@@ -1,1 +1,0 @@
-lar[57830]=`<b>ῖδος (ἡ)</b> <font color="purple">[ῑδ]</font> <i>dim. de</i> κρήνη, EUR. <i>Hipp. 208</i> ; DH. <i>1, 32</i>.<p>➳ <i>Dor</i>. κρανίς <font color="purple">[ᾱ]</font> PD. <i>fr. 136</i>.`

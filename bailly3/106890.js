@@ -1,1 +1,0 @@
-lar[106890]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑ]</font> Phrykôn, <i>h</i>. HOM. <i>Ep. 4</i> ; A. PL. <i>243</i>.<p><b>Étym</b>. φρίξ.`

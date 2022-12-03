@@ -1,1 +1,0 @@
-lar[11060]=`<b>ας (ἡ)</b> mauvaise odeur, <i>p. opp. à</i> εὐοσμία, TH. <i>C.P. 6, 16, 3</i>.<p><b>Étym</b>. ἄοσμος.`

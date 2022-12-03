@@ -1,1 +1,0 @@
-lar[16427]=`<b>ἀ·συγχώρητος, ος, ον</b>, non pardonné, impardonnable, DS. <i>1, 78</i> ; SEXT. <i>etc</i>.<p><b>Étym</b>. ἀ, συγχωρέω.`

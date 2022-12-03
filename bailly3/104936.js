@@ -1,1 +1,0 @@
-lar[104936]=`<b>ου</b>, <i>ion</i>. <b>εω (ὁ)</b> Pharnaspès, <i>grand-père maternel de Cambyse,</i> HDT. <i>2, 1 ; 3, 2, 68</i>.`

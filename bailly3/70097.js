@@ -1,1 +1,0 @@
-lar[70097]=`<b>ῆρος</b>, <i>adj. m</i>. qui guide les voyageurs, ANTH. <i>App. 283</i> ; ORPH. <i>H. 40, 6</i>.<p><b>Étym</b>. ὁδηγέω.`

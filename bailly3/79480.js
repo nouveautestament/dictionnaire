@@ -1,1 +1,0 @@
-lar[79480]=`<b>ής, ές</b>, tendu tout autour <i>ou</i> fortement tendu, HPC. <i>Art. 812, etc</i>.<p><b>Étym</b>. περιτείνω.`

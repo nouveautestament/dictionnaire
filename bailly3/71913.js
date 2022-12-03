@@ -1,1 +1,0 @@
-lar[71913]=`<font color="purple">[ῐ]</font> <i>adv</i>., d’une manière utile, secourable, PLAT. <i>Leg. 747c</i>.<p><b>Étym</b>. ὀνήσιμος.`

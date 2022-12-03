@@ -1,1 +1,0 @@
-lar[33893]=`<b>ἐναντιο·παθέω-ῶ</b> <font color="purple">[πᾰ]</font> avoir des propriétés contraires, THEOL. <i>10 ; particul. c</i>. ἐναντιωνυμέω, NICOM. <i>Arithm. p. 79</i>.<p><b>Étym</b>. ἐν. πάθος.`

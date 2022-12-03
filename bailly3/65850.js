@@ -1,1 +1,0 @@
-lar[65850]=`<i>ou</i> <b>μιμεία, ας (ἡ)</b> <font color="purple">[ῑμ]</font> imitation, PHIL. <i>2, 5, 98</i>.<p><b>Étym</b>. μῖμος.`

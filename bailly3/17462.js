@@ -1,1 +1,0 @@
-lar[17462]=`<b>αὐτο·δύναμος, ος, ον</b> <font color="purple">[ῠᾰ]</font> puissant par soi-même, NAZ.<p><b>Étym</b>. αὐ. δύναμις.`

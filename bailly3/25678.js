@@ -1,1 +1,0 @@
-lar[25678]=`<b>διά·σφυξις, εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> mouvement du pouls, HPC. <i>383, 4, etc</i>.<p><b>Étym</b>. διά, σφύζω.`

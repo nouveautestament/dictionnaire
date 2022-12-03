@@ -1,1 +1,0 @@
-lar[77485]=`<b>παχυ·νευρέω-ῶ</b> <font color="purple">[ᾰῠ]</font> avoir de gros muscles, STR. <i>700</i>.<p><b>Étym</b>. π. νεῦρον.`

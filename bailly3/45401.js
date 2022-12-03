@@ -1,1 +1,0 @@
-lar[45401]=`<b>*ἡμι·γύναιξ</b> <font color="purple">[ῐῠ]</font> <i>seul. à l’acc</i>. ἡμιγύναικα, <i>adj. m</i>. à moitié femme, ANTH. <i>6, 217</i>.<p><b>Étym</b>. ἡμι-, γυνή.`

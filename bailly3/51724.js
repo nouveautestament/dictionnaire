@@ -1,1 +1,0 @@
-lar[51724]=`<b>ου (ὁ)</b> = <i>lat</i>. Carvilius, <i>n. d’h. rom</i>. PLUT. <i>Thes. c. Rom. 5</i>.`

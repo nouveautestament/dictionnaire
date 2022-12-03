@@ -1,1 +1,0 @@
-lar[89489]=`<b>όνος (ὁ)</b> Sarpèdon :<br><b>      1</b> <i>chef des Lyciens devant Troie,</i> IL. <i>2, 876 ; 6, 199, etc.</i> ; AR. <i>Nub. 622</i> ; LUC. <i>Par. 46, etc.</i><br><b>      2</b> <i>roi de Lydie,</i> HDT. <i>1, 173, etc.</i><br><b>      3</b> <i>autres,</i> PLUT. <i>Cato mi. 1 et 3</i> ; ANTH. <i>9, 202, etc</i>.<p>➳ <i>Voc</i>. Σαρπῆδον, IL. <i>5, 633</i>.`

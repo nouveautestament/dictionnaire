@@ -1,1 +1,0 @@
-lar[76275]=`<b>παρασυναπτικός σύνδεσμος (ὁ)</b> conjonction marquant un rapport de dépendance entre deux idées, <i>particul. en parl. des conjonctions causales,</i> D. THR. <i>642, 643, etc</i>.<p><b>Étym</b>. παρασυνάπτω.`

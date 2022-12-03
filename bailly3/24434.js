@@ -1,1 +1,0 @@
-lar[24434]=`<b>εως (ἡ)</b> action de crier de tous côtés, PLUT. <i>M. 455b</i>.<p><b>Étym</b>. δια-, βοάω.`

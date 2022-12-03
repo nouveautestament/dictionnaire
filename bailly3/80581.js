@@ -1,1 +1,0 @@
-lar[80581]=`<b>πλαγί·αυλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> flûte traversière <i>ou</i> sorte de clarinette dont l’anche est latérale, THCR. <i>Idyl. 20, 29</i> ; BION <i>3, 7, etc</i>.<p><b>Étym</b>. πλάγιος, αὐλός ; <i>v. ces deux mots</i>.`

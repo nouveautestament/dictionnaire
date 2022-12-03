@@ -1,1 +1,0 @@
-lar[81758]=`<b>πολυ·βλέφαρος, ος, ον</b> <font color="purple">[ᾰ]</font> aux nombreuses paupières, NONN. <i>D. 20, 65</i>.<p><b>Étym</b>. π. βλέφαρον.`

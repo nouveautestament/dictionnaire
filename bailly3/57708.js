@@ -1,1 +1,0 @@
-lar[57708]=`<b>ου (ὁ)</b> sorte de coquillage, HÉGÉSANDRE (ATH. <i>87b</i>), <i>c</i>. κριός ΙΙ.5.`

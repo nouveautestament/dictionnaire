@@ -1,1 +1,0 @@
-lar[62048]=`<b>λυσι·πήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ <i>par nécess. prosod</i>.]</font> qui délivre des maux, ORPH. <i>H. 1, 11 ; 58, 20</i>.<p><b>Étym</b>. λύω, πῆμα.`

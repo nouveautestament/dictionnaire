@@ -1,1 +1,0 @@
-lar[63029]=`<b>μασάομαι-ῶμαι</b> <font color="purple">[μᾰ]</font><br><b>      1</b> mâcher, <i>d’où</i> manger, <i>acc</i>. HPC. <i>1213</i> ; AR. <i>Pl. 320, etc.</i> ; TH. <i>H.P. 4, 8, 4 ; abs</i>. AR. <i>Eq. 717, Vesp. 780</i>.<br><b>      2</b> plisser les lèvres avec dédain, PHILSTR. <i>V. Ap. 7, 21</i>.`

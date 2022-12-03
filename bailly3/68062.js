@@ -1,1 +1,0 @@
-lar[68062]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de Némée, PD. <i>N. 3, 2</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 794, c, 25 (356 av. J.-C.) ; v. Meisterh. p. 33, 1</i>.<p><b>Étym</b>. Νεμέα.`

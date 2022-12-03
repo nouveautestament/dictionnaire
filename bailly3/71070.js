@@ -1,1 +1,0 @@
-lar[71070]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> court sommeil, JAMBL. <i>V. Pyth. c. 69</i>.<p><b>Étym</b>. ὀλιγόϋπνος.`

@@ -1,1 +1,0 @@
-lar[64046]=`<b>μελί·πνοος-ους, οος-ους, οον-ουν :<br>      1</b> au doux parfum (<i>encens</i>) ANTH. <i>6, 231</i>.<br><b>      2</b> aux doux accents (<i>flûte,</i> THCR. <i>Idyl. 1, 128 ; chant,</i> NONN. <i>Jo. 19, 36 ; muse,</i> TRIPHIOD. <i>429).</i><p><b>Étym</b>. μ. πνέω.`

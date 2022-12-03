@@ -1,1 +1,0 @@
-lar[81018]=`<b>ή, όν</b>, propre à remplir, DIOSC. <i>1, 84, etc. ; particul</i>. propre à prendre de l’embonpoint, DIOSC. <i>7, 95</i> ; à fermer une blessure, DIOSC. <i>2, 95</i>.<p><b>Étym</b>. πληρόω.`

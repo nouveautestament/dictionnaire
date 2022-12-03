@@ -1,1 +1,0 @@
-lar[37981]=`<b>ἐπι·καυχάομαι-ῶμαι</b>, se glorifier de, NYSS. <i>1, 524 Migne</i>.`

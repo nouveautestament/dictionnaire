@@ -1,1 +1,0 @@
-lar[109645]=`<b>ψευδ·έγγραφος, ος, ον</b> <font color="purple">[ᾰ]</font> inscrit à tort sur les registres, CIC. <i>Att. 15, 26</i>.<p><b>Étym</b>. ψ. ἐγγράφω.`

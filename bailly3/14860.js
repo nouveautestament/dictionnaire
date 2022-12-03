@@ -1,1 +1,0 @@
-lar[14860]=`<b>(ὁ)</b> Harmatée, <i>Athénien,</i> DÉM. <i>1104, 2</i>.<p><b>Étym</b>. ἅρμα.`

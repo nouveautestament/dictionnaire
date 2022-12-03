@@ -1,1 +1,0 @@
-lar[58204]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> glacial, PLUT. <i>M. 653a</i>.<p><b>Étym</b>. κρύος, -ωδης.`

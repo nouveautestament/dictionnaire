@@ -1,1 +1,0 @@
-lar[13811]=`<b>ἀπο·χρυσόω-ῶ</b> <font color="purple">[ῡ]</font> convertir en or <i>ou</i> en monnaie d’or, ARTÉM. <i>1, 52</i>.`

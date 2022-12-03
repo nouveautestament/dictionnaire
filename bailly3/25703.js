@@ -1,1 +1,0 @@
-lar[25703]=`<b>δια·ταράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="darkgreen">(<i>f</i>. άξω, <i>etc</i>.)</font> <font color="purple">[τᾰ]</font> troubler profondément, bouleverser, XÉN. <i>Mem. 4, 2, 20</i> ; PLAT. <i>Leg. 693c</i>.`

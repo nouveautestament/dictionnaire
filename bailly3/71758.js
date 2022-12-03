@@ -1,1 +1,0 @@
-lar[71758]=`<b>ὁμό·φωνος, ος, ον :<br>      1</b> qui parle la même langue que, <i>dat</i>. HDT. <i>3, 98</i> ; THC. <i>4, 40</i> ; XÉN. <i>Mem. 4, 4, 19</i> ; PLAT. <i>Leg. 708c.</i><br><b>      2</b> qui rend le même son, qui est d’accord, à l’unisson, ESCHL. <i>Ag. 153</i>.<p><b>Étym</b>. ὁμ. φωνή.`

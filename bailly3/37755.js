@@ -1,1 +1,0 @@
-lar[37755]=`<b>ἐπι·ζώννυμι :<br>      1</b> attacher à la ceinture : ἐπεζωσμένος ἐγχειρίδιον, PLUT. <i>C. Gracch. 15,</i> ayant un poignard attaché à sa ceinture ; <i>cf</i>. PAUS. <i>9, 39, 8</i>.<br><b>      2</b> relever un vêtement et l’attacher à la ceinture, retrousser, HDT. <i>2, 85</i>.`

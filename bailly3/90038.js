@@ -1,1 +1,0 @@
-lar[90038]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec force, APOLLIN. <i>Ps. 101, 45</i>.`

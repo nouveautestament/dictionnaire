@@ -1,1 +1,0 @@
-lar[47458]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui concerne les festins, de festin, XÉN. <i>Œc. 9, 7 (vulg</i>. -ητικός).<p><b>Étym</b>. θοινάω.`

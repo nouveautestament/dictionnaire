@@ -1,1 +1,0 @@
-lar[85436]=`<b>προσ·διευκρινέω-ῶ</b> <font color="purple">[ῐν]</font> distinguer en outre, DYSC. <i>Synt. p. 280, 27</i>.`

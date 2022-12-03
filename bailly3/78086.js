@@ -1,1 +1,0 @@
-lar[78086]=`<b>πεντε·και·εικοσά·σημος, ος, ον</b> <font color="purple">[ᾰ]</font> de vingt-cinq signes <i>ou</i> temps, A. QUINT. <i>p. 35</i>.<p><b>Étym</b>. π. κ. εἴκοσι, σῆμα.`

@@ -1,1 +1,0 @@
-lar[18771]=`<b>βαθυ·λείμων, ων, ον</b>, <i>gén</i>. <b>ωνος</b> <font color="purple">[ᾰῠ]</font> aux herbages épais, PD. <i>P. 10, 15</i>.<p><b>Étym</b>. β. λειμών.`

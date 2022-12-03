@@ -1,1 +1,0 @@
-lar[72015]=`<b>ὀνό·χειλος, ου (ἡ)</b> orcanette <i>ou</i> lèvre-d’âne, <i>plante de la famille de l’</i>ἄγχουσα, P. ÉG. <i>7</i>.<p><b>Étym</b>. ὄ. χεῖλος.`

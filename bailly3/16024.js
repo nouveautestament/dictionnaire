@@ -1,1 +1,0 @@
-lar[16024]=`<b>οῦ (ὁ) :<br>      1</b> salut amical, NT. <i>Matth. 23, 7, etc.</i><br><b>      2</b> embrassement, THGN. <i>858</i>.<br><b>      3</b> <i>p. suite,</i> affection, tendresse, PLAT. <i>Leg. 919e ;</i> PLUT.<p><b>Étym</b>. ἀσπάζομαι.`

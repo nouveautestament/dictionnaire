@@ -1,1 +1,0 @@
-lar[69007]=`<b>ας (ἡ) :<br>      1</b> soins qu’on prend d’une maladie, PLAT. <i>Rsp. 407b.</i><br><b>      2</b> régime d’une personne malade, PLAT. <i>Rsp. 496c ;</i> EL. <i>V.H. 4, 15</i>.<p><b>Étym</b>. νόσος, τρέφω.`

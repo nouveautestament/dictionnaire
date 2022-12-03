@@ -1,1 +1,0 @@
-lar[61800]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Lydias (<i>auj</i>. Louđías, Mavronéri <i>ou</i> Kara Asmak) <i>fl. de Macédoine,</i> EUR. <i>Bacch. 571</i>.<p>➳ <i>Gén. ion</i>. Λυδίεω, HDT. <i>7, 127</i>.`

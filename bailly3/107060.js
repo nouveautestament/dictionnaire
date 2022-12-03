@@ -1,1 +1,0 @@
-lar[107060]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. φῦκος, <i>sans idée de dimin.</i> :<br><b>      1</b> algue, ARSTT. <i>H.A. 6, 13 ; d’ord. au pl</i>. PLAT. <i>Rsp. 611d ;</i> ARSTT. <i>H.A. 8, 2, 18, etc.</i> ; THCR. <i>Idyl. 7, 58</i>.<br><b>      2</b> fard, LUC. <i>H. conscr. 8</i> ; THÉM. <i>336c</i>.<p><b>Étym</b>. φῦκος.`

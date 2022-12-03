@@ -1,1 +1,0 @@
-lar[106919]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec sagesse <i>ou</i> prudence, XÉN. <i>Cyr. 3, 3, 57</i> ; PLAT. <i>Epin. 974c, 982b, etc. ; p. opp. à</i> ἀλόγως, ISOCR. <i>28b ; joint à</i> εὐλογίστως, PLUT. <i>M. 1071e</i>.<p>•<i> Cp</i>. -ώτερον, XÉN. <i>Hell. 5, 4, 35</i> ; ISOCR. <i>16e ; ou</i> -ωτέρως, ISOCR. <i>294b</i>.`

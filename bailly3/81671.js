@@ -1,1 +1,0 @@
-lar[81671]=`<b>ου (ὁ)</b> sorte de bouillie de farine <i>ou</i> de pain cuit avec des légumes, ALCM. <i>75</i> ; EPICH. <i>fr. 11 Ahrens</i> ; PLUT. <i>M. 201c, etc</i>.<p><b>Étym</b>. <i>cf. lat</i>. puls.`

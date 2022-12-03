@@ -1,1 +1,0 @@
-lar[73635]=`<b>ας (ἡ)</b> <font color="purple">[ᾱγ]</font> arrière-garde, POL. <i>1, 19, 14, etc</i>.<p><b>Étym</b>. οὐραγός.`

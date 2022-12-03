@@ -1,1 +1,0 @@
-lar[77186]=`<b>ου (ὁ)</b> cheval dont la robe est d’un rouge cendré, ARSTT. <i>H.A. 9, 45</i>.`

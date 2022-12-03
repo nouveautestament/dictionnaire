@@ -1,1 +1,0 @@
-lar[16501]=`<b>ἀ·συνέλευστος, ος, ον</b>, qui ne s’accorde pas avec, DYSC. <i>Pron. 57</i>.<p><b>Étym</b>. ἀ, συνελεύσομαι, <i>de</i> συνέρχομαι.`

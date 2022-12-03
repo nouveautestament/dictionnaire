@@ -1,1 +1,0 @@
-lar[15190]=`<b>ἀ·ρρυσίαστος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> non pris comme butin, ESCHL. <i>Suppl. 610</i>.<br><b>      2</b> qu’on ne peut prendre pour gage, DH. <i>6, 41</i>.<p><b>Étym</b>. ἀ, ῥυσιάζω.`

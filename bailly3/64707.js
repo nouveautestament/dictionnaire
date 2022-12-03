@@ -1,1 +1,0 @@
-lar[64707]=`<b>ή, όν</b>, qu’on peut <i>ou</i> qu’il faut poursuivre, JAMBL. <i>Math. 197</i>.<p><b>Étym</b>. <i>vb. de</i> μεταδιώκω.`

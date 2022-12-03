@@ -1,1 +1,0 @@
-lar[34461]=`<b>ἐν·ήκοος, οος, οον</b>, qui entend <i>ou</i> peut entendre, PHRYN. (POLL. <i>2, 82).</i><p><b>Étym</b>. ἐν, ἀκοή.`

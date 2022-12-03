@@ -1,1 +1,0 @@
-lar[69223]=`<b>νυμφό·βας, αντος (ὁ)</b> époux des nymphes, <i>ép. de Silène,</i> ACHÆ. (HSCH. <i>et</i> PHOT.).<p><b>Étym</b>. νύμφη, βαίνω.`

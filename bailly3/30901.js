@@ -1,1 +1,0 @@
-lar[30901]=`<b>εἰσ·τρυπάω-ῶ</b> <font color="purple">[ῡ]</font> (<i>seul. prés. inf</i>.) s’introduire clandestinement (<i>litt</i>. faire un trou pour pénétrer dans), ÆL. DION. (EUST. <i>1532, 5</i>).`

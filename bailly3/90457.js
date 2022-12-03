@@ -1,1 +1,0 @@
-lar[90457]=`<b>ου (ἡ)</b> sorte de plante, ARSTT. <i>Mir. 160</i> ; PLUT. <i>M. 1155e</i>.`

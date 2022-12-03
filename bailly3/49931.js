@@ -1,1 +1,0 @@
-lar[49931]=`<b>ἰσχυρόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἰσχύρωσα)</font> <font color="purple">[ῡ]</font> fortifier, affermir, consolider, JOS. <i>A.J. 13, 1, 3</i> ; SPT. <i>Esaï. 41, 7</i>.<p><b>Étym</b>. ἰσχυρός.`

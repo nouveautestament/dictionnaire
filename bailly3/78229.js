@@ -1,1 +1,0 @@
-lar[78229]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec prudence <i>ou</i> sagesse, DÉMOCR.<p><b>Étym</b>. πέπνυμαι.`

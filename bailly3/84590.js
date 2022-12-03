@@ -1,1 +1,0 @@
-lar[84590]=`<b>α, ον</b>, de Prokonnèsos, HDT. <i>4, 15, 138, etc</i>.<p>➳ <i>Avec double</i> ν <i>dans les inscr. att</i>. CIA. <i>1, 237, 22 (443 av. J.-C.) etc. ; v. Meisterh. p. 74, 9</i>.<p><b>Étym</b>. Προκόννησος.`

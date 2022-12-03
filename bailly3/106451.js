@@ -1,1 +1,0 @@
-lar[106451]=`<b>φλυαρο·κοπέω-ῶ</b> <font color="purple">[ᾱ]</font> aimer à dire des niaiseries, STR. <i>166</i>.<p><b>Étym</b>. φλ. κόπτω.`

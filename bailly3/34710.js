@@ -1,1 +1,0 @@
-lar[34710]=`<b>ἐννεακαιδεκα·πλασίων, ων, ον</b> <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰκᾰσ]</font> dix-neuf fois aussi grand, PLUT. <i>M. 891b ;</i> A. TAT. ASTR. <i>Isag. in Arat. 960d Migne</i>.<p><b>Étym</b>. ἐ. -πλασίων.`

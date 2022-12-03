@@ -1,1 +1,0 @@
-lar[54854]=`<b>κερασ·φόρος, ος, ον</b>, qui porte des cornes, EUR. <i>Ph. 255</i> ; PLAT. <i>Pol. 265c ;</i> LUC. <i>D. deor. 22, 2, etc. ; fig</i>. ANTH. <i>11, 278</i>.<p><b>Étym</b>. κέρας, φέρω.`

@@ -1,1 +1,0 @@
-lar[34777]=`<b>οῦ (ὁ)</b> qui réfléchit, ORIG. (<i>Migne Patr. gr. t. 16, p. 3086).</i><p><b>Étym</b>. ἐννοέω.`

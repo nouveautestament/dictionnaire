@@ -1,1 +1,0 @@
-lar[13048]=`<b>ἀπο·πενθέω-ῶ</b>, pleurer sur, <i>abs</i>. PLUT. <i>Cor. 39</i>.`

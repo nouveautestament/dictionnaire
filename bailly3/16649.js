@@ -1,1 +1,0 @@
-lar[16649]=`<font color="darkgreen">(<i>f</i>. εύσομαι) :</font><br><b>      1</b> vivre en prodigue, mener une vie déréglée, ARSTT. <i>Pol. 5, 12, 17</i> ; EL. ATH. <i>etc.</i><br><b>      2 <i>tr.</i></b> gaspiller, dissiper, <i>acc</i>. EL. <i>V.H. 5, 9</i>.<p><b>Étym</b>. ἄσωτος.`

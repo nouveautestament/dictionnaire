@@ -1,1 +1,0 @@
-lar[98722]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de quatre façons, de quatre sortes, ARSTT. <i>Categ. 12, 1 ; Metaph. 1, 3, 1</i>.<p><b>Étym</b>. τέτραχα.`

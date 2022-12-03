@@ -1,1 +1,0 @@
-lar[50636]=`<b>κακ·έμφατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> malsonnant, qui sonne mal à l’oreille, <i>càd</i>. inconvenant, indécent, QUINT. <i>8, 3, 44</i>.<p><b>Étym</b>. κ. ἔμφατος.`

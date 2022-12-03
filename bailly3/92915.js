@@ -1,1 +1,0 @@
-lar[92915]=`<b>στρεψ·αύχην, χενος (ὁ, ἡ)</b> au col tortu, <i>en parl. d’un vase,</i> THPP. COM. <i>2, 812</i>.<p><b>Étym</b>. στρέψω, αὐχήν.`

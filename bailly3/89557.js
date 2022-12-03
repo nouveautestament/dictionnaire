@@ -1,1 +1,0 @@
-lar[89557]=`viser <i>ou</i> frapper avec un javelot, <i>acc</i>. DS. <i>5, 29</i>.<p><b>Étym</b>. σαυνίον.`

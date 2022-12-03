@@ -1,1 +1,0 @@
-lar[79881]=`<b>ου (τὸ)</b> plante de rocher, TH. <i>H.P. 9, 15, 7</i>.`

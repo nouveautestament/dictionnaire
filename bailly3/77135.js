@@ -1,1 +1,0 @@
-lar[77135]=`<b>παρ·οψάομαι-ῶμαι</b>, manger qqe ch. avec <i>ou</i> sur son pain, LUC. <i>M. cond. 26</i>.`

@@ -1,1 +1,0 @@
-lar[99840]=`ARSTT. <i>Nic. 10, 5, 4 ; au moy</i>. τραγηματίζομαι <font color="purple">[ᾰᾰ]</font> manger pour dessert <i>ou</i> comme régal, MÉN. (ATH. <i>172b</i>) ; ATH. <i>140e, etc</i>.<p><b>Étym</b>. τράγημα.`

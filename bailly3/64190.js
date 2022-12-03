@@ -1,1 +1,0 @@
-lar[64190]=`<b>οῦ (ὁ)</b> musicien, chanteur, MAN. <i>4, 185</i>.<p><b>Étym</b>. μέλος, ἔργον.`

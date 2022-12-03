@@ -1,1 +1,0 @@
-lar[18773]=`<i>acc</i>. <b>-ιν (ὁ)</b> Bathylis, <i>h</i>. EL.`

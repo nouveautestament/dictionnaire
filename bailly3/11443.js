@@ -1,1 +1,0 @@
-lar[11443]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> trompeur, fourbe, XÉN. <i>Cyr. 1, 6, 27</i> ; PLAT. <i>Rsp. 451a</i>.<p><b>Étym</b>. ἀπατάω.`

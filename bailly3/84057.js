@@ -1,1 +1,0 @@
-lar[84057]=`<b>προ·εισόδιον, ου (τὸ)</b> vestibule, <i>fig</i>. introduction, prélude, HLD. <i>8, 17</i>.`

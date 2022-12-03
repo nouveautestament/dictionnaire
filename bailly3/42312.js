@@ -1,1 +1,0 @@
-lar[42312]=`<b>εὔ·θυτος, ος, ον</b> <font color="purple">[ῠ]</font> bien sacrifié, EUP. <i>2-1, 441 Meineke</i>.<p><b>Étym</b>. εὖ, θύω.`

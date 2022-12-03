@@ -1,1 +1,0 @@
-lar[15639]=`<b>ἀρχι·οινοχόος, όου (ὁ)</b> grand-échanson, PLUT. <i>Alex. 74</i> ; SPT. <i>Gen. 40, 1</i>.`

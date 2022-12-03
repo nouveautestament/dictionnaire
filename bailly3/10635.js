@@ -1,1 +1,0 @@
-lar[10635]=`<b>ἀντ·οικοδομέω-ῶ</b>, construire en face <i>ou</i> en remplacement de, POL. <i>1, 42, 12, etc. ; fig</i>. EL. <i>V.H. 4, 9</i>.`

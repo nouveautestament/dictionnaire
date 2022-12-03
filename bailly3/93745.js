@@ -1,1 +1,0 @@
-lar[93745]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> spoliation, vol, PLAT. <i>Leg. 853d</i>.<p><b>Étym</b>. συλάω.`

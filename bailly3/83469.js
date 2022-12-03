@@ -1,1 +1,0 @@
-lar[83469]=`<b>προ·αγαπάω-ῶ</b> <font color="purple">[ᾰᾰπ]</font> aimer de préférence, CLÉM. <i>2, 633 Migne</i>.`

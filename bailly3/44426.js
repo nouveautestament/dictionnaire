@@ -1,1 +1,0 @@
-lar[44426]=`<b>ου (ὁ)</b> Zakharias (Zacharie) <i>n. d’h. hébreu</i>, NT. <i>Luc. 1, 5 ; Matth. 23, 35, etc</i>.<p>➳ <i>Voc</i>. -ία, NT. <i>Luc. 1, 13</i>.`

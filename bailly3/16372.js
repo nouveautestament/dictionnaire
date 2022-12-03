@@ -1,1 +1,0 @@
-lar[16372]=`<b>Ἄ·στυλος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Astylos, <i>h</i>. PLAT. DIN. <i>etc</i>.<p><b>Étym</b>. <i>v</i>. ἄστυλος.`

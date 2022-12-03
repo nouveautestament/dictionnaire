@@ -1,1 +1,0 @@
-lar[28140]=`<b>δυσ·άερος, ος, ον</b> <font color="purple">[ῠᾱ]</font><br><b>      1</b> dont l’air est insalubre, D. CHR. <i>1, 550</i> ; ORIB. <i>246 Matthäi</i>.<br><b>      2</b> <i>en parl. de l’air lui-même,</i> qui est un air insalubre, PROCL. <i>Ptol. p. 122, 21</i>.<p><b>Étym</b>. δυσ-, ἀήρ.`

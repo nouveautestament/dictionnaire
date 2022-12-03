@@ -1,1 +1,0 @@
-lar[47566]=`<b>ου (ὁ)</b> vent de N. N. O., ARSTT. <i>Mund. 4, 13 ; Meteor. 2, 6, 9</i> ; TH. <i>Vent. 42</i>.<p><b>Étym</b>. Θρᾷξ.`

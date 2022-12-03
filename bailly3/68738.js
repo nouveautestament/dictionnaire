@@ -1,1 +1,0 @@
-lar[68738]=`<b>ή, όν</b> <font color="purple">[νῑ]</font> propre à vaincre <i>ou</i> à faire vaincre, XÉN. <i>Mem. 3, 4, 11</i>.<p>•<i> Cp</i>. -ώτερος, POL. <i>26, 2, 4 ; • Sup</i>. -ώτατος, PLUT. <i>Phil. c. Flam. 2</i>.<p><b>Étym</b>. νικάω.`

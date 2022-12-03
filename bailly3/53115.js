@@ -1,1 +1,0 @@
-lar[53115]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de laver, XÉN. <i>Eq. 5, 9</i>.<p><b>Étym</b>. καταπλύνω.`

@@ -1,1 +1,0 @@
-lar[52958]=`<b>κατα·νυστάζω :<br>      1 <i>intr.</i></b> sommeiller, ALEX. (ATH. <i>34d</i>).<br><b>      2 <i>tr.</i></b> assoupir, endormir, EL. <i>N.A. 14, 20</i>.`

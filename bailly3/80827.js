@@ -1,1 +1,0 @@
-lar[80827]=`<i>contract. p</i>. πλείονες <i>et</i> πλείονας, <i>nom. et acc. pl. de</i> πλείων.`

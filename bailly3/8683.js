@@ -1,1 +1,0 @@
-lar[8683]=`<b>ἀν·ηκίδωτος, ος, ον</b> <font color="purple">[ῐ]</font> sans pointe, ESCHL. <i>fr. 262</i>.<p><b>Étym</b>. ἀν-, *ἀκιδωτός, <i>vb. de</i> *ἀκιδόω, <i>de</i> ἀκίς.`

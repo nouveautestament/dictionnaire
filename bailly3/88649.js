@@ -1,1 +1,0 @@
-lar[88649]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> témérité, PTOL. <i>Tetr. p. 182, 15</i>.<p><b>Étym</b>. ῥιψοκίνδυνος.`

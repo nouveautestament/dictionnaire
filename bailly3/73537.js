@@ -1,1 +1,0 @@
-lar[73537]=`<b>οὐλαμ·ώνυμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> au nom guerrier, LYC. <i>183</i>.<p><b>Étym</b>. οὐλαμός, ὄνομα.`

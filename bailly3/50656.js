@@ -1,1 +1,0 @@
-lar[50656]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> blâme, reproche, STR. <i>422</i>.<p><b>Étym</b>. κακίζω.`

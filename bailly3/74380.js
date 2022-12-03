@@ -1,1 +1,0 @@
-lar[74380]=`<i>c</i>. παιανίζω, HDT. <i>5, 1</i> ; THC. <i>4, 43, etc. ; au pass</i>. ESCHL. <i>fr. 156</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PHILSTR. (PHOT. <i>Bibl. 328, 18).</i><p><b>Étym</b>. παιών ; <i>cf</i>. παιανίζω.`

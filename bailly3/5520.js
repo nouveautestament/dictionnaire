@@ -1,1 +1,0 @@
-lar[5520]=`<i>adv</i>., avec stabilité, BAS. <i>3, 949 Migne</i>.`

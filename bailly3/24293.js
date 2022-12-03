@@ -1,1 +1,0 @@
-lar[24293]=`<b>Δημο·σάτυροι, ων (οἱ)</b> les Satyres du peuple, <i>comédie de Timoklès,</i> ATH. <i>165f</i>.<p><b>Étym</b>. δῆμος, σάτυροι.`

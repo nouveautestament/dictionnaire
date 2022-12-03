@@ -1,1 +1,0 @@
-lar[61358]=`<b>λιπο·σθενής, ής, ές</b> <font color="purple">[ῐ]</font> sans force, faible, NONN. <i>D. 14, 101</i>.<p><b>Étym</b>. λ. σθένος.`

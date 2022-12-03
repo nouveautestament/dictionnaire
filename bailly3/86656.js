@@ -1,1 +1,0 @@
-lar[86656]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> allongement d’un mot au moyen d’une syllabe <i>comme dans</i> ἐγώνη, τουτονί, TRIPHIOD. <i>19</i> ; DRAC. <i>160, 11</i> ; ARCAD. <i>8, 18</i> ; RHÉT. <i>3, 367 W</i>.<p><b>Étym</b>. πρόσχημα.`

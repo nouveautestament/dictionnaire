@@ -1,1 +1,0 @@
-lar[56503]=`<b>οῦς (ἡ)</b> Kœnô, <i>f</i>. PLUT. <i>X orat. Isocr. 50</i>.`

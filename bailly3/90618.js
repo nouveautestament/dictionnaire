@@ -1,1 +1,0 @@
-lar[90618]=`<b>σκαληνο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> d’apparence boiteuse, qui penche d’un côté, HPC. <i>916b</i>.<p><b>Étym</b>. σκαληνός, εἶδος.`

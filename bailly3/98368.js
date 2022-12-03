@@ -1,1 +1,0 @@
-lar[98368]=`<b>ας (ἡ)</b> = <i>lat</i>. Terentia, <i>n. de f. rom</i>. PLUT. <i>Cato mi. 19, Cic. 8, etc</i>.`

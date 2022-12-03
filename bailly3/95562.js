@@ -1,1 +1,0 @@
-lar[95562]=`<b>συνεπαινέτης, ου (ὁ)</b> celui qui loue <i>ou</i> approuve avec d’autres, NAZ. <i>3, 312</i>.<p><b>Étym</b>. συνεπαινέω.`

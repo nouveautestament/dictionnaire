@@ -1,1 +1,0 @@
-lar[65626]=`<b>μιαρο·φαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger des aliments impurs, SPT. <i>4Macc. 5, 19, 25, 27</i>.<p><b>Étym</b>. μιαρός, φαγεῖν.`

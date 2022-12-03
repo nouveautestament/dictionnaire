@@ -1,1 +1,0 @@
-lar[64065]=`<b>μελισσαῖος, α, ον</b>, d’abeille, qui concerne les abeilles, NIC. <i>Th. 611</i>.<p><b>Étym</b>. μέλισσα.`

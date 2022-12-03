@@ -1,1 +1,0 @@
-lar[91971]=`<b>ου (τὸ)</b> scorie des métaux, POSIDON. (STR. <i>163</i>).`

@@ -1,1 +1,0 @@
-lar[92918]=`<b>στρεψί·μαλλος, ος, ον</b> <font color="purple">[ῐ]</font> à la toison entortillée, <i>d’où fig</i>. captieux, AR. <i>fr. 642 Dind</i>.<p><b>Étym</b>. στρέφω, μαλλός.`

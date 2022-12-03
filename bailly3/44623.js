@@ -1,1 +1,0 @@
-lar[44623]=`<b>ζυγη·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte un joug, ESCHL. <i>fr. 341</i> ; EUR. <i>Rhes. 303</i>.<p><b>Étym</b>. ζυγόν, φέρω.`

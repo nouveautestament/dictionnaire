@@ -1,1 +1,0 @@
-lar[29819]=`<b>ή, όν</b>, digne d’éloge, PHIL. <i>1, 453</i>.<p><b>Étym</b>. <i>vb. de</i> ἐγκωμιάζω.`

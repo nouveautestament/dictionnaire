@@ -1,1 +1,0 @@
-lar[60892]=`<b>οῦ (ὁ)</b> tirage au sort, ANTIM. <i>53 Kinkel</i>.<p><b>Étym</b>. λῆξις¹.`

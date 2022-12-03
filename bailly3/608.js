@@ -1,1 +1,0 @@
-lar[608]=`<b>ίδος (ἡ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> bras recourbé : ἐν ἀγκαλίδεσσι, IL. <i>22, 503,</i> dans les bras.<br><b>      2</b> brassée, NICOSTR. <i>3, 287 Com. fr.</i> ; PLUT. <i>Rom. 8</i>.<p><b>Étym</b>. ἀγκάλη.`

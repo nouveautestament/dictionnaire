@@ -1,1 +1,0 @@
-lar[39277]=`<b>ἐπί·σφηνος, ος, ον</b>, en forme de coin : τὸ ἐπίσφηνον, CLÉM. <i>2, 344 Migne,</i> action de greffer en pratiquant une incision en forme de coin.<p><b>Étym</b>. ἐπί, σφήν.`

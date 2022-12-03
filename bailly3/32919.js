@@ -1,1 +1,0 @@
-lar[32919]=`<b>ης (ἡ)</b> elléborine, <i>plante,</i> TH. <i>H.P. 9, 10, 2</i> ; DIOSC. <i>4, 109</i>.<p><b>Étym</b>. ἑλλέβορος.`

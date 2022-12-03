@@ -1,1 +1,0 @@
-lar[38868]=`<b>ἐπι·ρράπτω</b>, coudre à <i>ou</i> sur : τι ἐπί τινι, NT. <i>Marc. 2, 21,</i> une chose sur une autre.<p><b>Étym</b>. ἐπί, ῥάπτω.`

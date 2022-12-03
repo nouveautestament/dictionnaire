@@ -1,1 +1,0 @@
-lar[21277]=`<b>α, ον</b>, de Galilée ; Γ. θάλασσα, NT. <i>Joh. 6, 1,</i> la mer de Galilée, <i>càd</i>. le lac de Tibériade ; οἱ Γαλιλαῖοι, NT. <i>Marc. 14, 70, etc</i>. les Galiléens ; <i>p. ext. synon. de</i> chrétien, LUC. <i>Philopatr. 12</i>.`

@@ -1,1 +1,0 @@
-lar[91540]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> embaumement avec de la myrrhe, AÉT. <i>16</i>.<p><b>Étym</b>. σμυρνίζω.`

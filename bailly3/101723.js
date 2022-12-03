@@ -1,1 +1,0 @@
-lar[101723]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῡ]</font> filtre, chausse, DIOSC. <i>2, 123</i> ; ORIB. <i>p. 54 Matthäi</i>.<p><b>Étym</b>. ὑλίζω.`

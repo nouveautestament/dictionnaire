@@ -1,1 +1,0 @@
-lar[85674]=`<b>προσ·επιζητέω-ῶ</b>, rechercher en outre, demander encore, <i>acc</i>. POL. <i>25, 5, 11</i> ; M. ANT. <i>5, 4</i>.`

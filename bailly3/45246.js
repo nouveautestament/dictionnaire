@@ -1,1 +1,0 @@
-lar[45246]=`<b>(ἡ)</b> Hèliopolis <i>ou</i> Ville du Soleil, <i>v. de Basse-Égypte</i>, HDT. 2.3.`

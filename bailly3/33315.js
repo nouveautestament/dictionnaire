@@ -1,1 +1,0 @@
-lar[33315]=`<b>οῦ (ὁ) :<br>      1</b> action de se jouer de, <i>d’où</i> raillerie, moquerie, SPT. <i>Ps. 37, 8 ; Sir. 27, 28 ; Ezech. 22, 4 ; 2 Macc. 7, 7</i>.<br><b>      2</b> injure, mauvais traitement, <i>3 Macc. 5, 22</i>.<br><b>      3</b> illusion, SPT. <i>Sap. 12, 25</i>.<p><b>Étym</b>. ἐμπαίζω.`

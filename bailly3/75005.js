@@ -1,1 +1,0 @@
-lar[75005]=`<b>πάν·ετες</b>, <i>adv</i>., durant toute l’année, PD. <i>P. 1, 38</i>.<p><b>Étym</b>. π. ἔτος.`

@@ -1,1 +1,0 @@
-lar[85174]=`<b>προσ·αναπληρόω-ῶ</b>, suppléer à l’insuffisance de, compléter, suppléer, combler, <i>acc</i>. ARSTT. <i>Pol. 1, 8, 8</i> ; DS. <i>5, 71</i> ; NT. <i>2Cor. 9, 12</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLAT. <i>Men. 84d</i>.`

@@ -1,1 +1,0 @@
-lar[28540]=`<b>δύσ·καπνος, ος, ον :<br>      1</b> <i>pass</i>. enfumé, ESCHL. <i>Ag. 774</i>.<br><b>      2</b> <i>act</i>. qui produit une fumée désagréable, CHÆRÉM. (TH. <i>H.P. 5, 9, 5).</i><p><b>Étym</b>. δ. καπνός.`

@@ -1,1 +1,0 @@
-lar[61241]=`<b>λινο·πλήξ</b>, <i>gén</i>. <b>ῆγος</b> <font color="purple">[ῐ]</font> qui frappe le filet, <i>en parl. du poisson pris qui se débat,</i> NUMÉN. (ATH. <i>321b</i>) ; <i>fig</i>. CHRYS. <i>3, 403</i>.<p>•<i> Sup</i>. -έστατος, NUMÉN. <i>l. c</i>.<p><b>Étym</b>. λ. πλήσσω.`

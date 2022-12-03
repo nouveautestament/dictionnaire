@@ -1,1 +1,0 @@
-lar[10778]=`<b>ἀν·υποτίμητος, ος, ον</b> <font color="purple">[ῑ]</font> non taxé d’une amende, <i>d’où</i> non condamné, JOS. <i>A.J. 15, 7, 10</i>.<p><b>Étym</b>. ἀν-, ὑποτιμάω.`

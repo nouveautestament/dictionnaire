@@ -1,1 +1,0 @@
-lar[96662]=`<b>ας (ἡ)</b> mélange à poids égaux <i>ou</i> à doses égales, DIOSC. <i>1, 64</i> ; Ps.-JAMBL. <i>Theol. arithm. p. 59</i> ; A. TR. <i>2, p. 96</i>.<p><b>Étym</b>. σύσταθμος.`

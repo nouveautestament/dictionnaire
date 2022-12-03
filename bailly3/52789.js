@@ -1,1 +1,0 @@
-lar[52789]=`<b>κατα·μακαρίζω</b> <font color="purple">[ᾰκᾰ]</font> chanter les louanges de, <i>acc</i>. EUM. <i>p. 357</i>.`

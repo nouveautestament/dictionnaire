@@ -1,1 +1,0 @@
-lar[55546]=`<b>ου (ὁ)</b> voleur de grand chemin, DÉMOCR. (STOB. <i>Fl. 44, 19).</i><p><b>Étym</b>. <i>Orig. inconnue</i>.`

@@ -1,1 +1,0 @@
-lar[4407]=`<b>ἁλι·αής, ής, ές</b> <font color="purple">[ᾰᾱ]</font> qui souffle sur la mer, OD. <i>4, 361</i>.<p><b>Étym</b>. ἅλς, ἄημι.`

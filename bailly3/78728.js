@@ -1,1 +1,0 @@
-lar[78728]=`<b>περι·καταλείπω</b> <font color="darkgreen">(<i>ao. 3 sg. poét</i>. περικάλλιπεν)</font> abandonner complètement, délaisser, NIC. <i>Th. 809</i>.`

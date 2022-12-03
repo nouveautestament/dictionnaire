@@ -1,1 +1,0 @@
-lar[74926]=`<b>παν·δερκής, ής, ές :<br>      1</b> vu de tous, BACCHYL. <i>17, 70</i>.<br><b>      2</b> qui voit tout, ANTH. <i>9, 525</i> ; Q. SM. <i>2, 443, etc</i>.<p><b>Étym</b>. π. δέρκομαι.`

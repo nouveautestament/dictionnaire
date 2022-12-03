@@ -1,1 +1,0 @@
-lar[46245]=`<b>εως (ἡ)</b> action d’échauffer, de réchauffer, HPC. <i>Acut. 387</i> ; SEXT. <i>267, 4 Bkk</i>.<p><b>Étym</b>. θάλπω.`

@@ -1,1 +1,0 @@
-lar[37535]=`<i>adv</i>., de façon à contenir, à suffire à, PLUT. <i>M. 28e</i>.`

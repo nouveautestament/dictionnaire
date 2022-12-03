@@ -1,1 +1,0 @@
-lar[50772]=`<b>κακο·μέλετος, ος, ον</b> <font color="purple">[ᾰ]</font> qui chante des malheurs, ESCHL. <i>Pers. 936</i>.<p><b>Étym</b>. κ. μελέτη.`

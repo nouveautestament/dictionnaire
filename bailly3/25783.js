@@ -1,1 +1,0 @@
-lar[25783]=`<b>ῆς (ἡ)</b> changement de disposition, <i>d’où</i> :<br><b>      1</b> confusion, trouble, POL. <i>8, 7, 3 ; 16, 8, 10 ; joint à</i> φόβος, DS. <i>17, 41</i>.<br><b>      2</b> honte, CIC. <i>Att. 9, 13</i>.`

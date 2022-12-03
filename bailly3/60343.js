@@ -1,1 +1,0 @@
-lar[60343]=`<b>ος, ον</b>, qui possède des lions, MARIN. <i>V. Procl. p. 47 Fabr</i>.<p><b>Étym</b>. λ. ἔχω.`

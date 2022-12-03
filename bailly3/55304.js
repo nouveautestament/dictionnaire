@@ -1,1 +1,0 @@
-lar[55304]=`<font color="purple">[ῡ]</font> proclamer, annoncer, <i>acc</i>. ESCHL. <i>Suppl. 221</i> ; EUR. <i>Tr. 782</i> ; PLAT. <i>Leg. 941a</i>.<p><b>Étym</b>. κῆρυξ.`

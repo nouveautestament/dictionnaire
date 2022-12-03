@@ -1,1 +1,0 @@
-lar[57905]=`<b>κριθο·λόγος, ος, ον</b> <font color="purple">[ῑ]</font> magistrat chargé de préparer l’orge pour les sacrifices, <i>chez les Opuntiens,</i> PLUT. <i>M. 292b</i>.<p><b>Étym</b>. κριθή, λέγω.`

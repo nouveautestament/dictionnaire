@@ -1,1 +1,0 @@
-lar[105941]=`<b>φιλό·μολπος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les chants et les chœurs, PD. <i>N. 7, 12</i>.<p><b>Étym</b>. φ. μέλπω.`

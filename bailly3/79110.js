@@ -1,1 +1,0 @@
-lar[79110]=`<b>περι·πλαταγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> craquer tout autour, Q. SM. <i>7, 500</i>.`

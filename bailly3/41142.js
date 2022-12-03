@@ -1,1 +1,0 @@
-lar[41142]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱμ]</font><br><b>      1</b> banquet, festin, EUR. <i>I.T. 387</i>.<br><b>      2</b> <i>fig</i>. aliment, nourriture, PLAT. <i>Leg. 935a</i>.<p><b>Étym</b>. ἑστιάω.`

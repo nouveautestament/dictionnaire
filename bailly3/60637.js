@@ -1,1 +1,0 @@
-lar[60637]=`<b>λευκοχροέω-οῶ</b>, être de couleur blanche, HPC. <i>954d</i>.<p><b>Étym</b>. λευκόχροος.`

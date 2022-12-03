@@ -1,1 +1,0 @@
-lar[32108]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui aime à allonger, qui allonge, DYSC. <i>Adv. 600, 21 et 22</i>.<p><b>Étym</b>. ἐκτατός.`

@@ -1,1 +1,0 @@
-lar[95985]=`<b>ου (ὁ)</b> <font color="purple">[θῠ]</font> prêtre qui offre un sacrifice avec d’autres, APD. <i>2, 7, 2</i>.<p><b>Étym</b>. συνθύω.`

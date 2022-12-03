@@ -1,1 +1,0 @@
-lar[45466]=`<b>ου (ὁ)</b> <font color="purple">[ῐῠ]</font> demi-cylindre, DL. <i>8, 83</i>.<p><b>Étym</b>. ἡμι-, κ.`

@@ -1,1 +1,0 @@
-lar[52187]=`<b>εως (ἡ)</b> action de dévorer, SPT. <i>Gen. 31, 15, etc</i>.<p><b>Étym</b>. καταβιβρώσκω.`

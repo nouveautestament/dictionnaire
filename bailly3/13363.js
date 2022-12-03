@@ -1,1 +1,0 @@
-lar[13363]=`<b>ἀπο·σοφόω-ῶ</b>, faire devenir sage, rendre sage, ARR. <i>Epict. 1, 18, 10</i>.<p><b>Étym</b>. ἀ. σοφός.`

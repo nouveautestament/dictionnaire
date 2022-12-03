@@ -1,1 +1,0 @@
-lar[16329]=`<b>ας (ἡ)</b> divination par l’observation des astres, DS. <i>36, 5</i>.<p><b>Étym</b>. ἀστρόμαντις.`

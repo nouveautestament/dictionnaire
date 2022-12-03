@@ -1,1 +1,0 @@
-lar[61183]=`<b>ός, όν</b>, qui travaille dans les étangs <i>ou</i> les lacs, <i>càd</i>. pêcheur, PLUT. <i>Mar. 37</i>.<p><b>Étym</b>. λ. ἔργον.`

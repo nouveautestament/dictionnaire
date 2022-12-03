@@ -1,1 +1,0 @@
-lar[107154]=`<b>φυλλο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ne pousse qu’en feuilles, SCH.-SOPH. <i>Aj. 143</i>.<p><b>Étym</b>. φ. μαίνομαι ; <i>cf</i>. ὑλομανής <i>et</i> ὑλομανέω.`

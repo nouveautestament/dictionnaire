@@ -1,1 +1,0 @@
-lar[75537]=`<b>παραδοξοποιέω-ῶ</b>, faire des choses incroyables <i>ou</i> merveilleuses, des miracles, CHRYS.<p><b>Étym</b>. παραδοξοποιός.`

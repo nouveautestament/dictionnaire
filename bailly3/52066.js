@@ -1,1 +1,0 @@
-lar[52066]=`<b>κασσιτερόω-ῶ</b> <font color="purple">[ῐ]</font> enduire d’une couche d’étain fondu, étamer, DIOSC. <i>1, 33</i>.<p><b>Étym</b>. κασσίτερος.`

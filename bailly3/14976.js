@@ -1,1 +1,0 @@
-lar[14976]=`<b>ἀρν·ῳδός, οῦ (ὁ)</b> rhapsode qui disputait un agneau pour prix du chant, EUST. <i>Il. p. 6, 26 ; Op. p. 53, 39, etc</i>.<p><b>Étym</b>. ἀρήν, ᾠδή ; <i>cf</i>. τραγῳδός.`

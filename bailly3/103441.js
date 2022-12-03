@@ -1,1 +1,0 @@
-lar[103441]=`<b>ὑπο·κωμῳδέω-ῶ</b>, railler d’une façon détournée à la façon d’un poète comique, LUC. <i>Tox. 14</i>.`

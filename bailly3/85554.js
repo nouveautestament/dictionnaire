@@ -1,1 +1,0 @@
-lar[85554]=`<b>*προ·σεληναῖος</b>, <i>seul. dor</i>. <b>προσελαναῖος, α, ον</b> <font color="purple">[ᾱ]</font> <i>Poet. lyr. gr. t. 3, fr. ad. 84, 8 Bgk, c</i>. προσέληνος.`

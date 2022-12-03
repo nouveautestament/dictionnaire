@@ -1,1 +1,0 @@
-lar[6390]=`<b>ἀμφι·τείνομαι</b> <font color="darkgreen">(<i>part. ao. pass</i>. ἀμφιταθείς)</font> s’étendre autour de <i>ou</i> sur, <i>dat</i>. CHRIST. <i>Ecphr. 326</i>.`

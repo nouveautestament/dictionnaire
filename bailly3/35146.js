@@ -1,1 +1,0 @@
-lar[35146]=`<b>ής, ές</b> <font color="purple">[ῠ]</font> voluptueux, MAN. <i>4, 85</i>.<p><b>Étym</b>. ἐντρυφάω.`

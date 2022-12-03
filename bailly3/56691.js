@@ -1,1 +1,0 @@
-lar[56691]=`<b>ίδος (ἡ)</b> coloquinte, <i>plante et fruit,</i> GAL. <i>6, 467 ; 14, 324, etc.</i> ; DIOSC. <i>4, 178</i>.<p><b>Étym</b>. κολοκύνθη.`

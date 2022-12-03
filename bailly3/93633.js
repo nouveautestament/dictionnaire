@@ -1,1 +1,0 @@
-lar[93633]=`<b>συγ·χρωματίζομαι</b> <font color="purple">[ᾰ]</font> <i>c</i>. συγχρώζω <i>au pass</i>. HERM. TRISM. <i>Poem. 10, 12</i>.`

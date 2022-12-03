@@ -1,1 +1,0 @@
-lar[56613]=`<i>ou</i> <b>κολοκάνος, ου (ὁ)</b> grand homme long et maigre, STRATT. <i>fr. 65 Mein</i>.`

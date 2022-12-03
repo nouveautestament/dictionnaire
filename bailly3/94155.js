@@ -1,1 +1,0 @@
-lar[94155]=`<b>συμ·πένης (ὁ, ἡ)</b> compagnon de pauvreté, NAZ. <i>1, 847 Migne</i>.`

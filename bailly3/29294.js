@@ -1,1 +1,0 @@
-lar[29294]=`<b>ἑβδομηκοντά·πηχυς, υς, υ</b> <font color="purple">[ᾰ]</font> de 70 coudées, PHIL. PARADOX. <i>VII mir. 4</i>.`

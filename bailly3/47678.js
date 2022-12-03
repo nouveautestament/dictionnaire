@@ -1,1 +1,0 @@
-lar[47678]=`<b>ας (ἡ)</b> chant plaintif, PLAT. <i>Rsp. 604d ;</i> PLUT. <i>M. 657a</i>.<p><b>Étym</b>. θρηνῳδός.`

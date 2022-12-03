@@ -1,1 +1,0 @@
-lar[24982]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> qu’on peut dissoudre, qui peut se dissoudre, PLAT. <i>Phæd. 80b, Tim. 57b.</i><br><b>      2</b> qu’on peut disjoindre <i>ou</i> démonter (échelle) PLUT. <i>Arat. 6</i>.<p><b>Étym</b>. <i>vb. de</i> διαλύω.`

@@ -1,1 +1,0 @@
-lar[28794]=`<b>δυσπεπτέω-ῶ</b>, avoir peine à digérer, DIOSC. <i>4, 83 ; 5, 25</i>.<p><b>Étym</b>. δύσπεπτος.`

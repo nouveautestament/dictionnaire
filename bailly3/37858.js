@@ -1,1 +1,0 @@
-lar[37858]=`<b>ἐπι·θωΰσσω</b> <font color="darkgreen">(<i>ao</i>. ἐπεθώϋξα)</font> crier sur, <i>d’où</i> presser, exhorter, encourager, <i>dat</i>. ESCHL. <i>Pr. 73, 277</i> ; EUR. <i>I.T. 1127 ; acc</i>. SYN. <i>320c</i>.`

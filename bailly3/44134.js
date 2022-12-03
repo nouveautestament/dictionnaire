@@ -1,1 +1,0 @@
-lar[44134]=`<b>εως (ἡ)</b> attaque, irruption, HLD. <i>8, 9, p. 231, 32 Bkk</i>.<p><b>Étym</b>. ἐφορμάω.`

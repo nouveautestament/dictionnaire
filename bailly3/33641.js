@@ -1,1 +1,0 @@
-lar[33641]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> embrasement, incendie, HYPÉR. (PHRYN. <i>p. 335</i> ; POLL. <i>9, 156</i>) ; SPT. <i>Lev. 10, 6 ; Num. 11, 3</i> ; POL. <i>9, 41, 5, etc</i>.<p><b>Étym</b>. ἐμπυρίζω.`

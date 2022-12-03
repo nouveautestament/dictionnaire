@@ -1,1 +1,0 @@
-lar[37211]=`<b>ή, όν</b>, souhaité, désiré, SPT. <i>Jer. 20, 14</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπεύχομαι.`

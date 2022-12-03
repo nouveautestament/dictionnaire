@@ -1,1 +1,0 @@
-lar[92638]=`<b>ιδος (ἡ)</b> noir d’antimoine pour se teindre les cils, les sourcils, <i>etc</i>. ANTIPH. (<i>Com. fr. 3, 103</i>) ; CHŒROB. <i>2, 373, 13</i>.<p>➳ <i>Gén</i>. -εως, GRAMM. ; <i>acc</i>. -ιν, ION (POLL. <i>5, 101</i>) ; ANTIPH. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. στίβι.`

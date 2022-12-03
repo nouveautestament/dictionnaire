@@ -1,1 +1,0 @@
-lar[101607]=`<b>ας (ἡ)</b> hydropisie, ORIB.<p><b>Étym</b>. ὕδρωψ.`

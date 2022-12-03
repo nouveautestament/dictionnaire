@@ -1,1 +1,0 @@
-lar[42785]=`<b>ας (ἡ) :<br>      1</b> bon pâturage, PHILSTR. <i>Im. 2, 2</i>.<br><b>      2</b> action de faire paître dans de bons pâturages, LYS. <i>1, 5</i>.<p><b>Étym</b>. εὔνομος².`

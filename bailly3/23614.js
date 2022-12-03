@@ -1,1 +1,0 @@
-lar[23614]=`<b>ας (ἡ)</b> procession pour offrir un repas à Hersè, Pandrosos et Aglauros, IS. (POLL. <i>6, 102).</i><p><b>Étym</b>. δειπνοφόρος.`

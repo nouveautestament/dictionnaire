@@ -1,1 +1,0 @@
-lar[110026]=`<b>ψυχροποτέω-ῶ</b>, boire de l’eau fraîche <i>ou</i> froide, PLUT. <i>M. 60a ;</i> A. TR. <i>1, p. 19</i>.<p><b>Étym</b>. ψυχροπότης.`

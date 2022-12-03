@@ -1,1 +1,0 @@
-lar[66184]=`<i>adv</i>., avec une bonne mémoire, EL. <i>N.A. 13, 22</i>.<p><b>Étym</b>. μνήμων.`

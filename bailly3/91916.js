@@ -1,1 +1,0 @@
-lar[91916]=`<b>      1</b> lancer des étincelles, TH. <i>H.P. 3, 8, 7 ; Sign. 49</i>.<br><b>      2</b> faire jaillir des étincelles, PLUT. <i>M. 893c</i>.<p><b>Étym</b>. σπινθήρ.`

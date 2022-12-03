@@ -1,1 +1,0 @@
-lar[42800]=`rendre eunuque, mutiler, LUC. <i>Cron. 12</i> ; ATH. <i>515c ; au pass</i>. DC. <i>68, 2</i>.<p><b>Étym</b>. εὐνοῦχος.`

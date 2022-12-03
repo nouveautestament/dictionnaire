@@ -1,1 +1,0 @@
-lar[64970]=`<font color="purple">[στᾰ]</font> déplacé, transporté, HPC. <i>302, 31</i>.<p><b>Étym</b>. <i>vb. de</i> μεθίστημι.`

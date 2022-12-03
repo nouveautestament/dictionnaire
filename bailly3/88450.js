@@ -1,1 +1,0 @@
-lar[88450]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit mot, petite phrase, AR. <i>Ach. 444, 447 ; Nub. 943</i> ; LUC. <i>M. cond. 17</i>.<p><b>Étym</b>. <i>dim. de</i> ῥῆμα.`

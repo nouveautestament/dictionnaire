@@ -1,1 +1,0 @@
-lar[49895]=`<b>εως (ἡ)</b> amaigrissement, EUST. <i>Op. p. 129, 23</i>.<p><b>Étym</b>. ἰσχναίνω.`

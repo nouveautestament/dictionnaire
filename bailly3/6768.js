@@ -1,1 +1,0 @@
-lar[6768]=`<b>εως (ἡ)</b> action de rallumer, JOS. <i>A.J. 12, 8, 1</i>.`

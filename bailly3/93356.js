@@ -1,1 +1,0 @@
-lar[93356]=`<b>συγ·καταρρέω</b> <font color="darkgreen">(<i>f</i>. -ρρυήσομαι, <i>ao.2</i> -κατερρύην, <i>etc</i>.)</font> s’écouler avec, tomber ensemble, ONOS. <i>4</i>.`

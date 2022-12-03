@@ -1,1 +1,0 @@
-lar[17619]=`<b>αὐτό·ξυλος, ος, ον</b> <font color="purple">[ῠ]</font> fait simplement en bois, SOPH. <i>Ph. 35</i> ; A. PL. <i>4, 235</i> ; STR. <i>502</i>.<p><b>Étym</b>. αὐ. ξύλον.`

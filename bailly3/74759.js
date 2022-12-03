@@ -1,1 +1,0 @@
-lar[74759]=`<b>παμ·πρόσωπος, ος, ον</b>, avec toutes ses faces, PLUT. <i>Enn. 6, 7, 15</i>.<p><b>Étym</b>. π. πρόσωπον.`

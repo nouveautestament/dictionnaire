@@ -1,1 +1,0 @@
-lar[59779]=`<b>οῦ (ὁ)</b> tailleur de pierres, MAN. <i>1, 77</i>.<p><b>Étym</b>. λαξεύω.`

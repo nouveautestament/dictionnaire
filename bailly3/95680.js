@@ -1,1 +1,0 @@
-lar[95680]=`<b>συν·επιστατέω-ῶ</b> <font color="purple">[ᾰ]</font> surveiller <i>ou</i> présider ensemble, PLAT. <i>Rsp. 528c</i>.`

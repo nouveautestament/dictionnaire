@@ -1,1 +1,0 @@
-lar[55644]=`<b>*κισσοφορέω</b>, <i>att</i>. <b>κιττοφορέω-ῶ</b>, porter du lierre, <i>càd</i>. être couronné de lierre <i>ou</i> porter le thyrse entouré de lierre, <i>aux fêtes de Dionysos,</i> PLUT. <i>M. 5b</i>.<p><b>Étym</b>. κισσοφόρος.`

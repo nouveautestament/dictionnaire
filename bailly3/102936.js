@@ -1,1 +1,0 @@
-lar[102936]=`<b>ὑπ·ευνάομαι-ῶμαι</b> <font color="darkgreen">(<i>seul. part. ao. fém</i>. ὑπευνηθεῖσα) :</font><br><b>      1</b> être couchée sous, <i>d’où</i> fécondée, HÉS. <i>Th. 374 conj.</i><br><b>      2</b> être couchée au milieu de, <i>dat</i>. NIC. <i>Al. 296</i>.`

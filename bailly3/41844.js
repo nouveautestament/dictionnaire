@@ -1,1 +1,0 @@
-lar[41844]=`<b>α, ον</b>, d’Eudèmos, ARSTT. <i>Eud. titre</i>.<p><b>Étym</b>. Εὔδημος.`

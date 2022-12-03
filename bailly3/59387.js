@@ -1,1 +1,0 @@
-lar[59387]=`<i>adv</i>., à coups de talons, SOPH. <i>fr. 606</i>.<p><b>Étym</b>. λάξ, -δην.`

@@ -1,1 +1,0 @@
-lar[79089]=`<b>περι·πηδάω-ῶ</b>, bondir autour, LUC. <i>Anach. 31</i>.`

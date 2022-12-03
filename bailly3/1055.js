@@ -1,1 +1,0 @@
-lar[1055]=`<b>ου (ὁ)</b> Ankhimolios, <i>h</i>. HDT. <i>5, 63</i>.<p><b>Étym</b>. <i>cf</i>. ἀγχίμολος.`

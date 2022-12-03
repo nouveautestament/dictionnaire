@@ -1,1 +1,0 @@
-lar[7251]=`<b>ἀν·ανθής, ής, ές :<br>      1</b> sans fleur, TH. <i>C.P. 3, 19, 1</i>.<br><b>      2</b> <i>fig</i>. qui n’est pas dans sa fleur, PLAT. <i>Conv. 196b</i>.<p><b>Étym</b>. ἀν-, ἄνθος.`

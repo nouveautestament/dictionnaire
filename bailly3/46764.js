@@ -1,1 +1,0 @@
-lar[46764]=`<b>θεο·πρόσπλοκος, ος, ον</b>, attaché (<i>litt</i>. enlacé) à Dieu, fanatique, PROCL. <i>Ptol. p. 224</i>.<p><b>Étym</b>. θ. προσπλέκω.`

@@ -1,1 +1,0 @@
-lar[50640]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγᾰ]</font> mauvaise digestion (<i>propr</i>. élaboration) TH. <i>fr. 9, 10</i>.<p><b>Étym</b>. κ. ἐργασία.`

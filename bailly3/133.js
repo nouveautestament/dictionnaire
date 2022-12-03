@@ -1,1 +1,0 @@
-lar[133]=`<b>ἀ·βοήθητος, ος, ον :<br>      1</b> sans secours possible, incurable, RUF. <i>58</i> ; POL. <i>1, 81, 5</i>.<br><b>      2</b> dont on ne tire aucun secours, DS. <i>20, 42</i>.<br><b>      3</b> dénué de secours, sans ressources, PLUT. <i>Arat. 2</i>.<p><b>Étym</b>. ἀ, βοηθέω.`

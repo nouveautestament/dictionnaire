@@ -1,1 +1,0 @@
-lar[94813]=`<b>ατος (τὸ)</b> rencontre, événement, accident, SPT. <i>Ex. 9, 14</i> ; RHÉT. <i>1, 646 W</i>.<p><b>Étym</b>. συναντάω.`

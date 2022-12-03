@@ -1,1 +1,0 @@
-lar[90812]=`<b>σκευοφυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> veiller aux bagages, PLUT. <i>Alex. 32</i>.<p><b>Étym</b>. σκευοφύλαξ.`

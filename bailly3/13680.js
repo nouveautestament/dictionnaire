@@ -1,1 +1,0 @@
-lar[13680]=`<b>ἀπο·τυπόω-ῶ</b> <font color="purple">[ῠ]</font> modeler <i>ou</i> façonner d’après un modèle, <i>acc</i>. LUC. <i>Alex. 21</i>.<br><b><i>Moy.</i></b> représenter d’après un modèle : τι πρός τι, PLAT. <i>Tim. 39e</i>, modeler une chose à l’imitation d’une autre.`

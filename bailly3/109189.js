@@ -1,1 +1,0 @@
-lar[109189]=`<b>χρυσό·κολλα, ης (ἡ) :<br>      1</b> soudure d’or <i>càd</i>. borax, ARSTT. <i>Mir. 58</i> ; TH. <i>Lap. 26 et 40</i> ; DIOSC. <i>5, 84, etc.</i><br><b>      2</b> sorte de confiture de miel et de graine de lin, ALCM. (ATH. <i>111a</i>).<p><b>Étym</b>. χρ. κόλλα.`

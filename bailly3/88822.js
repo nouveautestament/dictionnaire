@@ -1,1 +1,0 @@
-lar[88822]=`<b>ατος (τὸ)</b> sorte de bouillie, <i>p. opp. à</i> πόμα, HPC. <i>Aph. 1261, etc.</i> ; ARSTT. <i>Probl. 1, 37, 2</i> ; TH. <i>Ign. 49</i> ; PLUT. <i>M. 123d, etc</i>.<p><b>Étym</b>. ῥοφέω.`

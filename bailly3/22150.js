@@ -1,1 +1,0 @@
-lar[22150]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>autre n. de la plante</i> γλυκύρριζα, DIOSC. <i>3, 5</i>.`

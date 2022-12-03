@@ -1,1 +1,0 @@
-lar[55574]=`<b>άδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. jaune, NIC. <i>Th. 519</i>.<p><b>Étym</b>. κιρρός.`

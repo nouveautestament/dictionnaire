@@ -1,1 +1,0 @@
-lar[56078]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> fabricant de lits, de litières, PLAT. <i>Rsp. 597a</i>.<p><b>Étym</b>. κλίνη, ἔργον.`

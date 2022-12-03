@@ -1,1 +1,0 @@
-lar[33961]=`<b>ἐν·απολούω</b>, laver dans, <i>d’où au moy</i>. se laver dans, <i>dat</i>. ATH. <i>43a</i>.`

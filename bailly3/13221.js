@@ -1,1 +1,0 @@
-lar[13221]=`<b>ἀπο·ρράσσω</b>, arracher, expulser violemment, DH. <i>6, 5</i> ; DC. <i>56, 14</i>.`

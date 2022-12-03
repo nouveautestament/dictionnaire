@@ -1,1 +1,0 @@
-lar[4808]=`<b>ἀλλο·πρόσ·αλλος, ος, ον</b>, qui va de l’un à l’autre, inconstant, IL. <i>5, 831, 889</i> ; ANTH. <i>15, 12, etc</i>.<p><b>Étym</b>. ἄ. πρός, ἄ.`

@@ -1,1 +1,0 @@
-lar[72181]=`<b>ὀξυ·τόμος, ος, ον</b> <font color="purple">[ῠ]</font> au tranchant aiguisé, PD. <i>P. 4, 263</i>.<p><b>Étym</b>. ὀ. τέμνω.`

@@ -1,1 +1,0 @@
-lar[68797]=`<b>(ἡ)</b> Nikyrta, <i>f</i>. HIPPON. <i>fr. 49</i>.`

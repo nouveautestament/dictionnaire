@@ -1,1 +1,0 @@
-lar[36298]=`<b>ἐξώ·κοιτος, ου (ὁ)</b> poisson de mer qui vient dormir à terre, TH. <i>fr. 171</i> ; EL. <i>N.A. 9, 36</i> ; OPP. <i>H. 1, 158</i>.<p><b>Étym</b>. ἔξω, κοίτη.`

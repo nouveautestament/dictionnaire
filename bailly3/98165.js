@@ -1,1 +1,0 @@
-lar[98165]=`<b>ας (ἡ)</b> achèvement, accomplissement d’une tâche, PROCL. <i>Plat. 1 Alc. p. 72</i>.<p><b>Étym</b>. τελεσιουργός.`

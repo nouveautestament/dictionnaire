@@ -1,1 +1,0 @@
-lar[5077]=`<b>ἀλφιτο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> meunier, ŒNOM. (EUS. <i>P.E. 232c</i>).<p><b>Étym</b>. ἄλφιτον, ποιέω.`

@@ -1,1 +1,0 @@
-lar[78843]=`<b>περι·κυκλάς, άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui se meut en cercle, ORPH. <i>H. 46, 5</i>.<p><b>Étym</b>. π. κύκλος.`

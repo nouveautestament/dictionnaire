@@ -1,1 +1,0 @@
-lar[2335]=`<b>ας (ἡ)</b> Ægôneia, <i>v. de Thessalie,</i> LYC. <i>903</i>.`

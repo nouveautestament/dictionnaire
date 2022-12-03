@@ -1,1 +1,0 @@
-lar[97583]=`<b>τανύ·φλοιος, ος, ον</b> <font color="purple">[ᾰ]</font> à l’écorce allongée, IL. <i>16, 767 ; p. suite,</i> au tronc élancé, SOPH. <i>fr. 692 Dind.</i> ; THCR. <i>Idyl. 25, 250</i> ; ORPH. <i>Arg. 170</i>.<p><b>Étym</b>. τανυ-, φλοιός.`

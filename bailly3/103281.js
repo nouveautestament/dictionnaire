@@ -1,1 +1,0 @@
-lar[103281]=`<b>εως (ἡ)</b> <font color="purple">[θῡᾱ]</font> fumigation au moyen d’aromates, HIPPIATR. <i>p. 72, 13</i>.<p><b>Étym</b>. ὑποθυμιάω.`

@@ -1,1 +1,0 @@
-lar[82741]=`<i>onomatopée pour imiter le cri de la huppe,</i> AR. <i>Av. 227</i>.`

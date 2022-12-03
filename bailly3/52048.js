@@ -1,1 +1,0 @@
-lar[52048]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Kasmylos, <i>h</i>. A. PL. <i>4, 23</i>.`

@@ -1,1 +1,0 @@
-lar[21033]=`<b>βυρσο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> fait de peau, <i>litt</i>. où l’on a fixé de la peau, <i>en parl. de tambours,</i> PLUT. <i>Crass. 23</i>.<p><b>Étym</b>. βύρσα, πήγνυμι.`

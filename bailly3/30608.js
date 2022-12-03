@@ -1,1 +1,0 @@
-lar[30608]=`<b>εἰρηνοφυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> (<i>part. prés</i>. -οῦντι) veiller à la conservation de la paix, PHIL. <i>2, 209, 290</i>.<p><b>Étym</b>. εἰρηνοφύλαξ.`

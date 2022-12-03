@@ -1,1 +1,0 @@
-lar[16435]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> inviolabilité <i>d’une personne,</i> ESCHL. <i>Suppl. 610</i> ; DH. <i>11, 25 ; d’un lieu d’asile,</i> POL. <i>4, 74</i>.<p><b>Étym</b>. ἄσυλος.`

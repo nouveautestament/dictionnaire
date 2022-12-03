@@ -1,1 +1,0 @@
-lar[92520]=`<b>ου (τὸ)</b> <i>c</i>. στῆθος, ALEX. (<i>Com. fr. 3, 423</i>) ; ARSTT. <i>Physiogn. 6, 11</i>.`

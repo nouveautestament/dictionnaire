@@ -1,1 +1,0 @@
-lar[32243]=`<b>ἐκ·τρυπάω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> évider en trouant, trouer, percer, GEOP. <i>10, 23, 5</i>.<br><b>      2</b> <i>fig</i>. faire une trouée, <i>càd</i>. s’esquiver, AR. <i>Eccl. 337</i>.`

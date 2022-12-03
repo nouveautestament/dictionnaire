@@ -1,1 +1,0 @@
-lar[62343]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. μαιευτικός, NONN. <i>D. 3, 403</i>.`

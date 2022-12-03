@@ -1,1 +1,0 @@
-lar[103584]=`<b>ὑπο·νεάω-εῶ</b>, donner une façon à la terre, TH. <i>H.P. 3, 1, 6</i>.`

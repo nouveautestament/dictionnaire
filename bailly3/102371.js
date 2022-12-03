@@ -1,1 +1,0 @@
-lar[102371]=`<b>ὑπερ·γαργαλίζω</b> <font color="purple">[ᾰλ]</font> chatouiller à l’excès, EUM. <i>3, p. 89</i>.`

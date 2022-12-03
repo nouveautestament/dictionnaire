@@ -1,1 +1,0 @@
-lar[65145]=`<b>μετεωρο·πόλος, ου (ὁ, ἡ)</b> qui s’occupe des choses célestes, PHIL. <i>1, 598</i>.<p><b>Étym</b>. μετέωρος, πολέω.`

@@ -1,1 +1,0 @@
-lar[36611]=`<b>ἐπ·ανακυκλέω-ῶ</b>, ramener en tournant comme dans un cercle ; <i>d’où au pass</i>. tourner comme dans un cercle, PLAT. <i>Rsp. 617b</i>.`

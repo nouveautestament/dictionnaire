@@ -1,1 +1,0 @@
-lar[12050]=`<b>ἀ·πλήξ, ῆγος (ὁ, ἡ)</b> <i>c</i>. ἄπληκτος, ARR. <i>Epict. 4, 1, 124 ; en un sens obscène,</i> LUC. <i>Am. 54</i>.`

@@ -1,1 +1,0 @@
-lar[89348]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> pourriture, DIOSC. <i>1, 112</i> ; ANTH. <i>15, 38</i>.<p><b>Étym</b>. σαπρός.`

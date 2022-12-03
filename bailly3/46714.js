@@ -1,1 +1,0 @@
-lar[46714]=`<b>Θεο·μήστωρ, ορος (ὁ)</b> Théomèstôr, <i>tyran de Samos,</i> HDT. <i>8, 85</i>.<p><b>Étym</b>. <i>v</i>. θεομήστωρ.`

@@ -1,1 +1,0 @@
-lar[76136]=`<b>παρ·αρθρέω-ῶ :<br>      1</b> être légèrement déboîté <i>ou</i> luxé, HPC. <i>Art. 794</i>.<br><b>      2 <i>tr.</i></b> disloquer, <i>fig</i>. PLAT. <i>Ax. 367b</i>.<p><b>Étym</b>. π. ἄρθρον.`

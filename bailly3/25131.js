@@ -1,1 +1,0 @@
-lar[25131]=`<b>δια·νέομαι</b> <font color="darkgreen">(<i>seul. part. prés. dor</i>. διανεύμενος)</font> traverser, parcourir, <i>acc</i>. ANTH. <i>2, 34</i>.`

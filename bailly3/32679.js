@@ -1,1 +1,0 @@
-lar[32679]=`<b>ἑλενηφορέω-ῶ</b>, porter les corbeilles sacrées aux fêtes d’Artémis, DIPH. (ATH. <i>223a conj</i>.).<p><b>Étym</b>. ἑλένη, φορέω.`

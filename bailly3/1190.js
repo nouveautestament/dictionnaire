@@ -1,1 +1,0 @@
-lar[1190]=`<b>ιχος (ἡ)</b> <font color="purple">[ῐχ]</font> mesure de 4 chénices ¼ = 2,325 litres, AR. <i>fr. 573</i>.`

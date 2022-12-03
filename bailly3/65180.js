@@ -1,1 +1,0 @@
-lar[65180]=`<b>οῦ (ὁ)</b> émigration, PLUT. <i>Agis 11, Popl. 22, etc</i>.<p><b>Étym</b>. μετοικίζω.`

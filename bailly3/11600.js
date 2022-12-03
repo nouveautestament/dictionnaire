@@ -1,1 +1,0 @@
-lar[11600]=`<b>ἀπειρο·παθής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui souffre infiniment, SPT. <i>Esth. 12, 4 dout</i>.<p><b>Étym</b>. ἄ. πάθος.`

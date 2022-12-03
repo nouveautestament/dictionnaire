@@ -1,1 +1,0 @@
-lar[53671]=`<b>ος, ον</b>, enfermé dans une armure <i>ou</i> protégé par un abri : ἵππος, POL. <i>31, 3, 9,</i> cheval bardé de fer ; πλοῖον, THC. <i>1, 10,</i> navire cuirassé, <i>càd</i>. garni de planches massives qui, exhaussant le bord, protégeaient latéralement les rameurs.<p><b>Étym</b>. καταφράσσω, <i>cf</i>. κατάφαρκτος.`

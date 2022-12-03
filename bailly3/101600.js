@@ -1,1 +1,0 @@
-lar[101600]=`<b>ὑδρο·φόρος, ος, ον</b>, qui porte de l’eau, PLUT. <i>Them. 31 ; subst</i>. ὁ <i>ou</i> ἡ ὑδρ. porteur d’eau, porteuse d’eau, HDT. <i>3, 14</i> ; XÉN. <i>An. 4, 5, 10</i> ; LUC. <i>V. auct. 7 ; V.H. 1, 24 ; Philops. 26 ; au pl. titre de tragédies d’Eschyle, fr. 219 ; et de Sophocle, fr. 597</i>.<p><b>Étym</b>. ὕδωρ, φέρω.`

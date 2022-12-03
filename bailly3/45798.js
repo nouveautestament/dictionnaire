@@ -1,1 +1,0 @@
-lar[45798]=`<b>α, ον</b>, d’Hèrakleidès <i>ou</i> des Héraclides, GAL. <i>1, 45</i>.<p><b>Étym</b>. Ἡρακλείδης.`

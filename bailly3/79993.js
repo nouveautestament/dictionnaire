@@ -1,1 +1,0 @@
-lar[79993]=`<i>adv</i>., comme d’une source, PROCL. <i>Plat. Parm. 566</i>.`

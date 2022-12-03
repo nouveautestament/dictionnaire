@@ -1,1 +1,0 @@
-lar[84431]=`<b>πρό·κακος, ος, ον</b> <font color="purple">[ᾰ]</font> très mauvais : κακὰ πρόκακα, ESCHL. <i>Pers. 986, 991,</i> maux terribles.<p><b>Étym</b>. π. κακός.`

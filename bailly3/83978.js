@@ -1,1 +1,0 @@
-lar[83978]=`<b>προδικέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> être l’avocat <i>ou, en gén</i>. le défenseur des intérêts de qqn, PLUT. <i>M. 787b, 973a.</i><br><b>      2</b> <i>p. ext</i>. être gardien de, <i>gén</i>. PLUT. <i>M. 975b</i>.<p><b>Étym</b>. πρόδικος.`

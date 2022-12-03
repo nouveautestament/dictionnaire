@@ -1,1 +1,0 @@
-lar[18281]=`<b>ἀφρόω-ῶ</b>, changer en écume, <i>d’où au pass</i>. <b>ἀφρόομαι-οῦμαι</b> (<i>seul. prés</i>.) devenir de l’écume, THEOL. <i>40</i>.<p><b>Étym</b>. ἀφρός.`

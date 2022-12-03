@@ -1,1 +1,0 @@
-lar[40496]=`<i>ion</i>. <b>ἐρίπνη, ης (ἡ)</b> sommet escarpé, pic, EUR. <i>El. 210</i> ; A.RH. <i>2, 1247</i> ; NIC. <i>Th. 22 ; fig</i>. EUR. <i>Ph. 1168, au pl</i>.<p><b>Étym</b>. ἐρείπω.`

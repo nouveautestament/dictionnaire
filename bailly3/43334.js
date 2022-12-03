@@ -1,1 +1,0 @@
-lar[43334]=`<b>εὐρύ·στομος, ος, ον :<br>      1</b> à large bouche, ATH. <i>453a.</i><br><b>      2</b> à large ouverture, HPC. <i>609, 12</i> ; XÉN. <i>Eq. 10, 10</i>.<p><b>Étym</b>. εὐ. στόμα.`

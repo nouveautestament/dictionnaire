@@ -1,1 +1,0 @@
-lar[49110]=`<b>α (ὁ)</b> = <i>lat</i>. Jugurtha, <i>roi de Numidie,</i> PLUT. <i>Syll. 3 et 6</i>.<p><b>Étym</b>. <i>cf</i>. Ἰουγούρθας.`

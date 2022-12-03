@@ -1,1 +1,0 @@
-lar[52887]=`<b>κατ·αναισιμόω-ῶ</b> <font color="purple">[ῐ]</font> dépenser, consommer, HPC. <i>496</i>.`

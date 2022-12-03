@@ -1,1 +1,0 @@
-lar[81295]=`<b>ποδο·ρραγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui s’entr’ouvre (<i>propr</i>. brisé) d’un coup de pied, ANTH. <i>9, 225</i>.<p><b>Étym</b>. πούς, ῥήγνυμι.`

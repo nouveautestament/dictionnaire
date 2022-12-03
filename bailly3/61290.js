@@ -1,1 +1,0 @@
-lar[61290]=`<b>λιπαρο·κρήδεμνος, ος, ον</b> <font color="purple">[ῐᾰ]</font> aux bandelettes brillantes, IL. <i>18, 382</i> ; HH. <i>Cer. 25, 459, etc</i>.<p><b>Étym</b>. λ. κρήδεμνον.`

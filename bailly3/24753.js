@@ -1,1 +1,0 @@
-lar[24753]=`<i>adv. p</i>. διὰ κενῆς (<i>s.-e</i>. πράξεως) vainement, en vain, HPC. <i>1210g ; 1230f ;</i> EUR. <i>Tr. 753</i> ; POL. <i>3, 70, 10</i> ; μάτην δ. PLAT. COM. (ATH. <i>442a</i>) d’une façon absolument vaine ; διακενῆς (<i>sel. d’autres</i> διὰ κενῆς) ἄλλως, <i>m. sign</i>. AR. <i>Vesp. 929</i>.`

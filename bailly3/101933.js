@@ -1,1 +1,0 @@
-lar[101933]=`<b>ὑπ·αμβλύς, εῖα, ύ</b> <font color="purple">[ῠπ]</font> un peu obtus, PHIL. BYZ. <i>Bel. p. 65</i>.`

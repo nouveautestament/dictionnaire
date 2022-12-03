@@ -1,1 +1,0 @@
-lar[68751]=`<b>Νίκ·ιππος, ου (ὁ)</b> <font color="purple">[νῑ]</font> Nikippos, <i>h</i>. DÉM. <i>1212, 3</i>.<p><b>Étym</b>. νικάω, ἵππος.`

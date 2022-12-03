@@ -1,1 +1,0 @@
-lar[42892]=`<b>εὔ·οφρυς, υος (ὁ, ἡ)</b> aux beaux sourcils, ANTH. <i>5, 76</i>.<p><b>Étym</b>. εὖ, ὀφρύς.`

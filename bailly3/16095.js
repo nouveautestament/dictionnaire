@@ -1,1 +1,0 @@
-lar[16095]=`<b>ου (ἡ)</b> Assèsos, <i>v. près de Milet,</i> HDT.`

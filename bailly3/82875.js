@@ -1,1 +1,0 @@
-lar[82875]=`<b>πορφυρο·κλέπτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> voleur de pourpre, DL. <i>6, 57</i>.<p><b>Étym</b>. π. κλέπτω.`

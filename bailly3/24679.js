@@ -1,1 +1,0 @@
-lar[24679]=`<b>δι·αιθύσσω</b> (<i>seul. prés</i>.) :<br><b>      1</b> s’élancer successivement dans toutes les directions, <i>en parl. du vent,</i> PD. <i>O. 7, 175</i> ; NONN. <i>D. 3, 130</i>.<br><b>      2</b> s’élancer à travers, <i>acc. fig. en parl. de l’espérance,</i> BACCHYL. <i>fr. 20B, 8</i> (ATH. <i>39e</i>).`

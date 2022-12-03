@@ -1,1 +1,0 @@
-lar[89147]=`<b>αρος (τὸ)</b> sucre, <i>particul</i>. sucre de bambou, <i>ou, sel. d’autres,</i> de canne, GAL. <i>De medic. fac. 12, 71</i>.<p><b>Étym</b>. <i>emprunt à l’indien, cf. sscr</i>. śárkarā-.`

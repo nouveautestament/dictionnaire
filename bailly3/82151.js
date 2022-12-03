@@ -1,1 +1,0 @@
-lar[82151]=`<b>πολύ·ναος, ος, ον</b> <font color="purple">[ῠᾱ]</font> aux nombreux temples, THCR. <i>Idyl. 15, 109</i>.<p><b>Étym</b>. π. ναός.`

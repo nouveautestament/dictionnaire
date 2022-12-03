@@ -1,1 +1,0 @@
-lar[26344]=`<b>εως (ἡ)</b> recherche, PARMÉN. (PLAT. <i>Soph. 237a, cf. 258d</i>) ; SEXT. <i>394</i>.<p>➳ <i>Gén. ion</i>. -ιος, PARMÉN. <i>l. c</i>.<p><b>Étym</b>. δίζημαι.`

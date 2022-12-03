@@ -1,1 +1,0 @@
-lar[29117]=`<b>ου (ὁ)</b> le mois « dôdécembre » <i>litt</i>. le 12<sup>e</sup> mois, <i>nom inventé par Licinius,</i> DC. <i>54, 21, 5</i>.<p><b>Étym</b>. <i>par substitut. de</i> δώδεκα <i>à</i> δέκα <i>du mot</i> Δεκέμβριος.`

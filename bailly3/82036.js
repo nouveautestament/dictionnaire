@@ -1,1 +1,0 @@
-lar[82036]=`<b>Πολύ·κριτος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Polykritos, <i>h</i>. HDT. <i>6, 50, etc.</i> ; DÉM. <i>18, 77 Baiter-Sauppe</i> ; ARSTT. <i>Mir. 112, etc</i>.<p><b>Étym</b>. <i>v</i>. πολύκριτος.`

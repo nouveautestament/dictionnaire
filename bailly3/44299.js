@@ -1,1 +1,0 @@
-lar[44299]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> solidité, bon état de défense, PHIL. <i>1, 644</i>.<p><b>Étym</b>. ἐχυρός.`

@@ -1,1 +1,0 @@
-lar[82441]=`<b>πολύ·τεκνος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui a un grand nombre d’enfants, ESCHL. <i>Pr. 137 ; ou</i> de petits, ARSTT. <i>H.A. 9, 15, 3</i>.<br><b>      2</b> <i>fig</i>. très fécondant, fertilisant, <i>en parl. de fleuves,</i> ESCHL. <i>Suppl. 1029</i>.<p><b>Étym</b>. π. τέκνον.`

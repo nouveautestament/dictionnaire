@@ -1,1 +1,0 @@
-lar[1527]=`<b>Ἄ·δραστος, ου (ὁ)</b> Adrastos (Adraste) :<br><b>      1</b> <i>roi d’Argos et de Sicyone,</i> IL. <i>2, 572</i> ; PD. <i>O. 6, 19</i> ; ESCHL. <i>Sept. 50, etc.</i><br><b>      2</b> <i>autres,</i> IL. <i>2, 830, etc</i>.<p>➳ <i>Ion</i>. Ἄδρηστος, IL. <i>14, 121, etc</i>.`

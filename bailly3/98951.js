@@ -1,1 +1,0 @@
-lar[98951]=`<b>ου (τὸ)</b> sorte de plante, HPC. <i>573, 25 ; 670, 29</i> ; NIC. <i>Th. 873 ; d’après</i> GAL. <i>l’</i>ἀείζωον ἄγριον <i>ou l’</i> ἀνδράχνη ἀγρία ; <i>d’après</i> DIOSC. <i>l’</i> ἀείζωον <i>dit</i> « <i>sedum anacampseros</i> ».`

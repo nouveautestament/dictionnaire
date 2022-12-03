@@ -1,1 +1,0 @@
-lar[15833]=`<b>Ἀσια·γενής, ής, ές</b> <font color="purple">[ᾰᾱ]</font> originaire d’Asie, DS. <i>17, 77</i>.<p>➳ <i>Ion</i>. Ἀσιηγενής, OPP. <i>C. 1, 235</i>.<p><b>Étym</b>. Ἀσία, γένος.`

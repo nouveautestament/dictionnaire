@@ -1,1 +1,0 @@
-lar[97787]=`<b>ταυρό·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font> à tête de taureau, EUR. <i>Or. 1378</i> ; A. PL. <i>126</i>.<p><b>Étym</b>. τ. *κρᾶνον ; <i>cf</i>. κάρηνον.`

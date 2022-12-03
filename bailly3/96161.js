@@ -1,1 +1,0 @@
-lar[96161]=`<b>συν·ομαίμων</b>, <i>gén</i>. <b>ονος (ὁ, ἡ)</b> du même sang, PHOCYL. <i>194 ; d’où subst</i>. frère <i>ou</i> sœur, ESCHL. <i>Pr. 410</i> ; EUR. <i>Hel. 640, I.T. 848</i>.<p><b>Étym</b>. σύν, ὅμαιμος.`

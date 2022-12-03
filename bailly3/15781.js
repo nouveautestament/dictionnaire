@@ -1,1 +1,0 @@
-lar[15781]=`<font color="darkgreen">(<i>impf</i>. ἠσέλγαινον, <i>f</i>. ἀσελγανῶ ; <i>v. ci-dessous</i>)</font> être déréglé, <i>d’où</i> être impudent <i>ou</i> insolent, AND. <i>30, 2</i> ; PLAT. <i>Conv. 190c ;</i> DÉM. <i>1257, 25</i>.<p>➳ <i>Ao. réc. inf</i>. ἀσελγᾶναι, DC. <i>52, 31</i>.<p><b>Étym</b>. ἀσελγής.`

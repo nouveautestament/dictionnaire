@@ -1,1 +1,0 @@
-lar[69583]=`<b>ξιφο·μάχαιρα, ας (ἡ)</b> <font color="purple">[ῐᾰχ]</font> couteau-poignard, THPP. COM. <i>2, 794, 800, v</i>. ξιπομάκαιρα.<p><b>Étym</b>. ξ. μάχαιρα.`

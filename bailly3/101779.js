@@ -1,1 +1,0 @@
-lar[101779]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> dieu de l’hymen <i>ou</i> du plaisir, <i>ép. de Bacchus,</i> ANTH. <i>9, 524, 21</i>.<p><b>Étym</b>. ὑμήν.`

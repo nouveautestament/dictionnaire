@@ -1,1 +1,0 @@
-lar[109055]=`<i>adv</i>., selon le temps où l’on vit, HÉRACLITE GRAMM. <i>All. Hom. 26, p. 93</i>.`

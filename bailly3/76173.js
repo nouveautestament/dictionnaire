@@ -1,1 +1,0 @@
-lar[76173]=`<b>ατος (τὸ)</b> balancement de côté, <i>particul</i>. balancement des bras <i>ou</i> d’un bras pour courir plus vite, HPC. <i>363 fin</i>.<p><b>Étym</b>. παρασείω.`

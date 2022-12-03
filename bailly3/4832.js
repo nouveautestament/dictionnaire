@@ -1,1 +1,0 @@
-lar[4832]=`<b>εως (ἡ)</b> hostilité THC. <i>1, 35</i> ; SPT. <i>Jer. 17, 17</i> ; εἴς τινα, APP. <i>Civ. 3, 13,</i> à l’égard de qqn.<p><b>Étym</b>. ἀλλοτριόω.`

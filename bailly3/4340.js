@@ -1,1 +1,0 @@
-lar[4340]=`<b>ἀληθ·ορκέω-ῶ</b>, jurer la vérité, CHRYSIPP. (STOB. <i>Fl. 28, 15).</i><p><b>Étym</b>. ἀληθής, ὅρκος.`

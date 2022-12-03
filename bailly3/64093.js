@@ -1,1 +1,0 @@
-lar[64093]=`<b>μελι·σταγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui distille du miel, A.RH. <i>2, 1272</i> ; ANTH. <i>5, 295, etc.</i> ; BABR. <i>Proœm. 18</i>.<p><b>Étym</b>. μέλι, στάζω.`

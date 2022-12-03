@@ -1,1 +1,0 @@
-lar[104247]=`<b>ας (ἡ)</b> <font color="purple">[ῠχ]</font> excavation, APP. <i>Civ. 4, 111</i>.<p><b>Étym</b>. ὑπορύσσω.`

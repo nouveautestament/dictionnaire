@@ -1,1 +1,0 @@
-lar[89554]=`<b>η, ον :<br>      1</b> qui se meut lentement, avec nonchalance <i>ou</i> abandon ; σαῦλα ποσὶ βαίνειν, HH. <i>Merc. 28,</i> marcher lentement, <i>en parl. de la tortue</i> ; σαῦλα βαίνειν, ANACR. <i>168</i> ; SIM. AM. <i>fr. 18 Bgk, m. sign.</i><br><b>      2</b> <i>en mauv. part,</i> d’allure efféminée, ANACR. <i>55</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

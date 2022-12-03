@@ -1,1 +1,0 @@
-lar[45332]=`<b>ἡμερο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui tient un journal quotidien, MARIN. <i>V. Procl. p. 29</i>.<p><b>Étym</b>. ἡμέρα, γράφω.`

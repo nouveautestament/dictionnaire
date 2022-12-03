@@ -1,1 +1,0 @@
-lar[51464]=`(<i>seul. prés</i>.) courber, plier, HPC. <i>812c ;</i> GAL. <i>18, 661</i>.<p><b>Étym</b>. καμπύλος.`

@@ -1,1 +1,0 @@
-lar[15640]=`<b>ἀρχι·πατριώτης, ου (ὁ)</b> <font color="purple">[χῐ]</font> chef de famille, SPT. <i>Jos. 21, 1</i>.`

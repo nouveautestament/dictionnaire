@@ -1,1 +1,0 @@
-lar[88797]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Rŭbĭco, ōnis, le Rubicon (<i>auj</i>. Rubicone) <i>fleuve marquant la limite entre la Gaule Cisalpine et l’Italie propr. dite,</i> PLUT. <i>Pomp. 60, etc</i>.`

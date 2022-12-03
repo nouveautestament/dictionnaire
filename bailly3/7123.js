@@ -1,1 +1,0 @@
-lar[7123]=`<b>οῦ (ὁ) :<br>      1</b> réflexion, THC. <i>3, 36 ; 8, 84</i>.<br><b>      2</b> raisonnement, XÉN. <i>Hell. 5, 1, 19</i>.<br><b>      3</b> proportion, DÉM. <i>262, 5</i>.<p><b>Étym</b>. <i>docum</i>.`

@@ -1,1 +1,0 @@
-lar[105265]=`<b>ή, όν</b>, propre à corrompre <i>ou</i> à détruire, <i>gén</i>. PLAT. <i>Def. 416</i> ; ARSTT. <i>Phys. 1, 9, 4</i> ; NIC. <i>6, 5, 6, etc. ; abs</i>. ARSTT. <i>Top. 2, 9, 6 ; 4, 4, 3, etc.</i> ; PLUT. <i>M. 134f, 947d</i>.<p><b>Étym</b>. φθείρω.`

@@ -1,1 +1,0 @@
-lar[67925]=`<b>ης (ἡ)</b> Nédè, <i>nymphe et fl. d’Élide,</i> CALL. <i>Jov. 33, 38</i>.`

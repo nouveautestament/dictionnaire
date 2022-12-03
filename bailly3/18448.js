@@ -1,1 +1,0 @@
-lar[18448]=`<b>(ὁ, ἡ)</b> <font color="purple">[ᾱ, <i>mais v</i>. ἀχηνία]</font> (<i>seul. nomin</i>.) pauvre, indigent, THCR. <i>Idyl. 16, 33</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

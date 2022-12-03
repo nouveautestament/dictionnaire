@@ -1,1 +1,0 @@
-lar[60348]=`<b>λεοντό·χορτος, ος, ον</b>, dévoré par les lions, ESCHL. <i>fr. 316</i>.<p><b>Étym</b>. λ. χόρτος.`

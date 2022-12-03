@@ -1,1 +1,0 @@
-lar[94998]=`<b>συν·αστράπτω</b>, lancer également des éclairs, briller avec, NONN. <i>D. 1, 457</i>.`

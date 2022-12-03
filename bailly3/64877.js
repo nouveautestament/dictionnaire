@@ -1,1 +1,0 @@
-lar[64877]=`<b>ή, όν</b>, porté à se repentir, M. TYR. <i>11, 3, p. 193</i>.<p><b>Étym</b>. μετανοέω.`

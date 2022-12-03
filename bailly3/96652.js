@@ -1,1 +1,0 @@
-lar[96652]=`<b>συσ·σύρω</b> <font color="purple">[ῡρ]</font> tirer <i>ou</i> traîner des objets ramassés de toutes parts, SPT. <i>2Macc. 5, 16</i> ; AQU. <i>Sam. 1, 12, 25</i>.`

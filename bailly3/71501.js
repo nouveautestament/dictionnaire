@@ -1,1 +1,0 @@
-lar[71501]=`<b>ας (ἡ)</b> conformité de mœurs <i>ou</i> de caractère, PHILSTR. <i>61</i>.<p><b>Étym</b>. ὁμοήθης.`

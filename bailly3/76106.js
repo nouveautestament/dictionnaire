@@ -1,1 +1,0 @@
-lar[76106]=`<b>παρ·απολαύω</b>, retirer, en passant, un profit <i>ou</i> un désavantage de, <i>gén</i>. PHIL. <i>2, 36</i> ; LUC. <i>Alex. 45</i>.`

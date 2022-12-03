@@ -1,1 +1,0 @@
-lar[92822]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. στρατηγός, LUC. <i>3, 595 Reitz</i>.<p><b>Étym</b>. στρατηγέω.`

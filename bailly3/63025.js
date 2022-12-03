@@ -1,1 +1,0 @@
-lar[63025]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font><br><b>      1</b> <i>adj. f</i>. de Marôn (fils de Bacchus) <i>càd</i>. bachique, NONN. <i>D. 1, 36 ; 17, 22</i>.<br><b>      2</b> <i>subst</i>. ἡ Μ. Marônis, <i>f</i>. ANTH. <i>7, 455</i>.<p><b>Étym</b>. Μάρων.`

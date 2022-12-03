@@ -1,1 +1,0 @@
-lar[29813]=`<font color="purple">[ῠῑ]</font> <i>adv</i>., jusqu’à la peau, ARCHIL. <i>34</i> ; CALL. <i>fr. 311 Ern</i>.<p><b>Étym</b>. ἐν, κύτος.`

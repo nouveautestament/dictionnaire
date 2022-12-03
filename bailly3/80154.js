@@ -1,1 +1,0 @@
-lar[80154]=`mesurer à la coudée, SYMM. <i>Ezech. 43, 15</i>.<p><b>Étym</b>. πῆχυς.`

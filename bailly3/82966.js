@@ -1,1 +1,0 @@
-lar[82966]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> <i>propr</i>. le Vent du fleuve, <i>le même qu’</i>Ἀπηλιώτης <i>à Tripolis,</i> ARSTT. <i>fr. 238</i>.<p><b>Étym</b>. ποταμός.`

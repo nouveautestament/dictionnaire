@@ -1,1 +1,0 @@
-lar[33160]=`<b>ἐμ·βροχίζω</b> (<i>part. ao</i>. -ίσας) enlacer, étreindre, APD. <i>2, 5, 4</i>.<p><b>Étym</b>. ἐν, βρόχος.`

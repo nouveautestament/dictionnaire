@@ -1,1 +1,0 @@
-lar[6780]=`<font color="purple">[μᾰ]</font> maudire, <i>acc</i>. SPT. <i>4Reg. 19, 11</i> ; NT. <i>Ap. 23, 14 ; au pass</i>. être maudit, SPT. <i>Num. 18, 14 ; abs</i>. prononcer une malédiction, NT. <i>Marc. 14, 71</i>.<p><b>Étym</b>. ἀνάθεμα.`

@@ -1,1 +1,0 @@
-lar[34889]=`<b>ἐν·οφθαλμιάζομαι</b>, supporter la greffe, l’inoculation, PLUT. <i>M. 640b</i>.<p><b>Étym</b>. ἐν, ὀφθαλμός.`

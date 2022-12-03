@@ -1,1 +1,0 @@
-lar[5478]=`<b>ἄ·μεσος, ος, ον</b>, immédiat, ARSTT. <i>An. pr. 2, 23, 4 ; An. post. 1, 3, 2</i> ; LUC. <i>H. conscr. 32</i>.<p><b>Étym</b>. ἀ, μέσος.`

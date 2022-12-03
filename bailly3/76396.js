@@ -1,1 +1,0 @@
-lar[76396]=`<b>παρ·αφάσσω</b>, <i>ion</i>. <b>παρ·απάσσω</b> <font color="purple">[ᾰπ]</font> tâter légèrement avec le doigt, HPC. <i>565, 15</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>597, 25 ; 647, 51</i>.`

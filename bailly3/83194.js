@@ -1,1 +1,0 @@
-lar[83194]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> vin qui produit des vents, <i>ou en gén</i>. qui amollit, HPC. <i>Progn. 40</i>.<p><b>Étym</b>. πέρδω.`

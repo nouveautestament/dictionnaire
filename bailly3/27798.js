@@ -1,1 +1,0 @@
-lar[27798]=`<b>αδος</b> <font color="purple">[ᾰκ]</font> <i>adj. f</i>. δ. πελειάς (ἡ) sorte de pigeon, NIC. (ATH. <i>395c</i>).<p><b>Étym</b>. δράκων.`

@@ -1,1 +1,0 @@
-lar[30360]=`<b>εἰκοσα·στάδιος, ος, ον</b> <font color="purple">[τᾰ]</font> de vingt stades, STR. <i>426</i>.<p><b>Étym</b>. εἴ. στάδιον.`

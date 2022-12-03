@@ -1,1 +1,0 @@
-lar[22507]=`<b>γοργ·ῶπις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. γοργωπός, SOPH. <i>Aj. 450 ; fr. 724</i>.`

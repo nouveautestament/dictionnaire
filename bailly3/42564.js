@@ -1,1 +1,0 @@
-lar[42564]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec prudence, ARSTT. <i>Rhet. 3, 7</i>.<p><b>Étym</b>. εὐλαβέομαι.`

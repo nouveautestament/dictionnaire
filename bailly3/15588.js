@@ -1,1 +1,0 @@
-lar[15588]=`<b>ἀρχι·δεσμοφύλαξ, ακος (ὁ)</b> <font color="purple">[ῐῠᾰκ]</font> geôlier-chef, SPT. <i>Gen. 39, 21</i>.`

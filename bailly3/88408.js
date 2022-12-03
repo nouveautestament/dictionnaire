@@ -1,1 +1,0 @@
-lar[88408]=`<b>ή, όν</b>, fluide, coulant, PLUT. <i>Æmil. 14, M. 905e</i>.<p><b>Étym</b>. ῥευστός.`

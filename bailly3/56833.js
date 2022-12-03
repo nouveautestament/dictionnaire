@@ -1,1 +1,0 @@
-lar[56833]=`<b>ου (ὁ)</b> <font color="purple">[ᾱῠ]</font> vantard, fanfaron, AR. <i>Ach. 589</i>.<p><b>Étym</b>. κομπολακέω.`

@@ -1,1 +1,0 @@
-lar[5917]=`<b>ῶν (αἱ)</b> <font color="purple">[ᾰῡ]</font> Amyklæ (Amyclées), <i>v. de Laconie,</i> IL. <i>2, 584</i> ; PD. <i>O. 6, 14</i> ; XÉN. <i>Hell. 7, 2, 3</i>.`

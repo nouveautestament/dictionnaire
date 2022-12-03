@@ -1,1 +1,0 @@
-lar[30153]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec malveillance, <i>d’où</i> en se faisant battre volontairement, APP. <i>fr. 1, 37 Schweigh</i>.`

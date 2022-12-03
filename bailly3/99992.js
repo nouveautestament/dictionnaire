@@ -1,1 +1,0 @@
-lar[99992]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱχ]</font> rudesse, aspérité, ATH. <i>475b</i>.<p>➳ <i>Ion</i>. τρήχυσμα, HPC. <i>1020c</i>.<p><b>Étym</b>. τραχύνω.`

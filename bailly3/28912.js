@@ -1,1 +1,0 @@
-lar[28912]=`<b>δυ·στατέω</b> <i>ou mieux</i> <b>δυσ·στατέω-ῶ</b> (<i>part. prés</i>.) <font color="purple">[ᾰ]</font> n’être pas stable, ferme, solide, PLUT. <i>M. 993e, 1124b</i>.<p><b>Étym</b>. δ. ἵστημι.`

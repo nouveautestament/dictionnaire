@@ -1,1 +1,0 @@
-lar[94314]=`<b>συμ·πομπεύω</b>, aller en procession avec, <i>dat</i>. ESCHN. <i>6, 42</i> ; ARSTT. <i>Rhet. Al. 3, 5 et 11</i> ; PLUT. <i>Arat. 53</i> ; POLYEN <i>1, 3, 2</i>.`

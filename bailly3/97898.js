@@ -1,1 +1,0 @@
-lar[97898]=`<b>ταχυ·κίνησις, εως (ἡ)</b> <font color="purple">[ᾰῠκῑ]</font> mouvement rapide, SYN. <i>Febr. p. 28</i>.<p><b>Étym</b>. τ. κινέω.`

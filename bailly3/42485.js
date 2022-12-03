@@ -1,1 +1,0 @@
-lar[42485]=`<b>εὐ·κόρυφος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui a un beau sommet, une belle tête, HERM. (STOB. <i>Ecl. 1, 992</i>).<br><b>      2</b> <i>fig</i>. qui se termine bien, bien arrondi, <i>en parl. d’une période,</i> DH. <i>Dem. 40 et 43</i>.<p><b>Étym</b>. εὖ, κορυφή.`

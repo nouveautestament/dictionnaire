@@ -1,1 +1,0 @@
-lar[20878]=`<i>ou</i> <b>βροῦχος, ου (ὁ)</b> sorte de sauterelle non ailée (<i>cf</i>. ἀττέλαβος), TH. <i>fr. 14, 4</i>.`

@@ -1,1 +1,0 @@
-lar[6562]=`<b>οῦ (ὁ)</b> bouillonnement, SYN. <i>Febr. p. 142, 214</i>.<p><b>Étym</b>. ἀναβράζω.`

@@ -1,1 +1,0 @@
-lar[16033]=`<b>ἄ·σπερμος, ος, ον :<br>      1</b> sans semence, ARSTT. <i>G.A. 1, 18, 57 ; en parl. de plantes,</i> TH. <i>H.P. 7, 4, 4</i>.<br><b>      2</b> <i>fig</i>. sans postérité, IL. <i>20, 303</i>.<p><b>Étym</b>. ἀ, σπέρμα.`

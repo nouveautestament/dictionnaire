@@ -1,1 +1,0 @@
-lar[103789]=`<b>εως (ἡ)</b> fouille souterraine, ATHÉNÉE MÉC. <i>31, 6</i> ; PHIL. BYZ. <i>p. 99, 11 Thévenot</i>.<p><b>Étym</b>. ὑπορύσσω.`

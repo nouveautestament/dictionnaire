@@ -1,1 +1,0 @@
-lar[10710]=`<i>adv</i>., sans outrage, DÉMOCR. (STOB. <i>Fl. 5, 78</i>).`

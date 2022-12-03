@@ -1,1 +1,0 @@
-lar[98161]=`<b>ης (ἡ)</b> Télésilla :<br><b>      1</b> <i>poétesse d’Argos,</i> PLUT. <i>Mul. virt. 4</i> ; LUC. <i>Am. 30</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>6, 160, etc</i>.<p>➳ Τελεσίλλα, ANTH. <i>App. 316</i>.<p><b>Étym</b>. τελέω.`

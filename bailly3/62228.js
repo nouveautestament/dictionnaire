@@ -1,1 +1,0 @@
-lar[62228]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> lieu où l’on fait la cuisine, cuisine, ARSTT. <i>H.A. 9, 43, etc.</i><br><b>      2</b> quartier des cuisiniers, des restaurateurs, ANTIPH. (POLL. <i>9, 48</i>) ; TH. <i>Char. 7, 3</i>.<p><b>Étym</b>. μάγειρος.`

@@ -1,1 +1,0 @@
-lar[57332]=`<font color="purple">[ᾰ]</font> jouer au cottabe, AR. <i>Pax 342</i> ; ANTIPH. (ATH. <i>666f</i>).<p><b>Étym</b>. κότταβος.`

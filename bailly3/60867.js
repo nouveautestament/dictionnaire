@@ -1,1 +1,0 @@
-lar[60867]=`<b>ή, όν :<br>      1</b> enclin au brigandage, PLAT. <i>Soph. 222c ;</i> ARSTT. <i>Pol. 8, 3</i>.<br><b>      2</b> qui concerne le brigandage : ἡ λῃστική, PLAT. <i>Soph. 222c</i>, le brigandage ; τὸ λῃστικόν, la piraterie, THC. <i>1, 4, 13, ou</i> troupe de brigands, THC. <i>2, 69</i>.<p><b>Étym</b>. λῃστής.`

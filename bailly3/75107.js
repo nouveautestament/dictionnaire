@@ -1,1 +1,0 @@
-lar[75107]=`<b>παν·όλβιος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait heureux, HH. <i>6, 54</i> ; THGN. <i>441</i>.<p><b>Étym</b>. π. ὄλβιος.`

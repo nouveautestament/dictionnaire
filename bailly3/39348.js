@@ -1,1 +1,0 @@
-lar[39348]=`<b>ἐπι·τείρω</b> (<i>seul. impf. pass. 3 sg</i>. ἐπετείρετο) meurtrir, broyer, <i>fig</i>. ORPH. <i>Arg. 1089</i>.`

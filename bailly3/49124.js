@@ -1,1 +1,0 @@
-lar[49124]=`<b>ἰό·κολπος, ος, ον</b>, au sein paré de violettes, <i>ou p.-ê</i>. à la ceinture violette, ALC. (DYSC. <i>Pron. 384b</i>).<p><b>Étym</b>. ἴον, κόλπος.`

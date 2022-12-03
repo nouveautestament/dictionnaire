@@ -1,1 +1,0 @@
-lar[75937]=`<b>παρα·μινυθέω-ῶ</b> <font color="purple">[ῑῠ]</font> devenir trop petit, ne plus suffire à, <i>gén</i>. HPC. <i>599, 14</i>.`

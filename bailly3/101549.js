@@ -1,1 +1,0 @@
-lar[101549]=`<b>ὑδρο·κήλη, ης (ἡ)</b> hydropisie des bourses <i>ou</i> hydrocèle, GAL. <i>2, 275</i>.<p><b>Étym</b>. ὕδ. κήλη.`

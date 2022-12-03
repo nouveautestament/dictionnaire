@@ -1,1 +1,0 @@
-lar[82447]=`<b>πολυ·τερπής, ής, ές</b> <font color="purple">[ῠ]</font> très agréable, charmant, ORPH. (EUS. <i>P.E. 100c</i>) ; ANTH. <i>9, 504</i>.<p><b>Étym</b>. π. τέρπω.`

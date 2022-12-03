@@ -1,1 +1,0 @@
-lar[30420]=`<b>ου (ὁ)</b> le fils d’Élara (Tityos) HÉS. (EM. <i>60, 41).</i><p><b>Étym</b>. Ἐλάρα.`

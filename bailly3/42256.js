@@ -1,1 +1,0 @@
-lar[42256]=`<b>Εὐθυ·μένης, ους</b>, <i>acc</i>. <b>-η</b>, <i>voc</i>. <b>-ες (ὁ)</b> <font color="purple">[ῠ]</font> Euthyménès, <i>h</i>. PD. <i>N. 5, 41 ; I. 5, 55</i> ; AR. <i>Ach. 67</i>.<p><b>Étym</b>. εὐ. μένος.`

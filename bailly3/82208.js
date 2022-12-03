@@ -1,1 +1,0 @@
-lar[82208]=`<b>ας (ἡ)</b> affluence de population, POL. <i>10, 14, 15</i> ; SPT. <i>Job 39, 7</i>.<p><b>Étym</b>. πολύοχλος.`

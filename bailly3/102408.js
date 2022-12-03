@@ -1,1 +1,0 @@
-lar[102408]=`<b>ου (ὁ)</b> Hypéreidès (Hypéride) :<br><b>      1</b> <i>célèbre orateur athénien</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>Or. 18, 137 Baiter-Sauppe, etc</i>.`

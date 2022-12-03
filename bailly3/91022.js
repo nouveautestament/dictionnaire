@@ -1,1 +1,0 @@
-lar[91022]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> induration, GAL.<p><b>Étym</b>. σκληρός.`

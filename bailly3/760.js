@@ -1,1 +1,0 @@
-lar[760]=`<b>ατος (τὸ)</b> offrande <i>ou</i> victime expiatoire, ESCHL. <i>Eum. 326</i>.<p><b>Étym</b>. ἁγνίζω.`

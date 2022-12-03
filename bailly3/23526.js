@@ -1,1 +1,0 @@
-lar[23526]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> frayeur, PLUT. <i>Fab. 17</i>.<p><b>Étym</b>. δειλιάω.`

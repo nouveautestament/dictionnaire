@@ -1,1 +1,0 @@
-lar[8525]=`<b>ἀν·επίφατος, ος, ον</b> <font color="purple">[φᾰ]</font> secret, PHIL. <i>2, 533</i>.<p><b>Étym</b>. ἀν-, ἐπιφαίνω.`

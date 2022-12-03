@@ -1,1 +1,0 @@
-lar[49383]=`<b>ἱππο·μάραθρον, ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> grande espèce de fenouil, fenouil sauvage, <i>plante,</i> TH. <i>H.P. 6, 1, 4</i>.<p><b>Étym</b>. ἵ. μάραθρον.`

@@ -1,1 +1,0 @@
-lar[101137]=`<b>τυρό·μαντις, εως (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> devin <i>ou</i> devineresse qui prédit l’avenir au moyen d’un fromage, ARTÉM. <i>2, 69</i>.<p><b>Étym</b>. τ. μάντις.`

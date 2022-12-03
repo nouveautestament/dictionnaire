@@ -1,1 +1,0 @@
-lar[12215]=`<b>ἀπο·γυιόω-ῶ</b>, briser les membres, <i>d’où</i> affaiblir, <i>en parl. de l’effet du vin,</i> IL. <i>6, 265</i> ; ATH. <i>10b</i>.`

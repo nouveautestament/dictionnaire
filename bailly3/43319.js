@@ -1,1 +1,0 @@
-lar[43319]=`<b>Εὐρύ·πυλος, ου (ὁ)</b> <font color="purple">[ῠῠ]</font> Eurypylos, <i>h</i>. IL. <i>2, 736, etc.</i> ; OD. <i>11, 520</i> ; PD. <i>P. 4, 33</i>.<p>➳ <i>Voc</i>. -ε, IL. <i>11, 819 ; gén. épq</i>. -οιο, IL. <i>2, 677, etc.</i> ; HDT. <i>9, 58, etc</i>.`

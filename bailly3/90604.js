@@ -1,1 +1,0 @@
-lar[90604]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. σκαιότης SOPH. <i>O.C. 1213</i>.`

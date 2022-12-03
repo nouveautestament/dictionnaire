@@ -1,1 +1,0 @@
-lar[50390]=`<b>καθ·ηλόω-ῶ</b> <font color="purple">[ᾰ]</font> clouer, POL. <i>1, 22, 5</i> ; πρός τι, PLUT. <i>Alex. 24</i> ; πρός τινι, DS. <i>20, 54</i> ; περί τι, APD. <i>1, 9, 1</i> ; εἴς τι, PLUT. <i>M. 499d</i>, sur qqe ch.<p>➳ <i>Ao. att. inf</i>. κατηλῶσαι, CIA. <i>2, 791, 31 (377 av. J.-C.) ; v. Meisterh. p. 79, β</i>.`

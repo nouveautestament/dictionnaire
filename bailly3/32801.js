@@ -1,1 +1,0 @@
-lar[32801]=`<b>ἑλικ·άστερος, ος, ον</b> <font color="purple">[ῐ]</font> ἑλ. σεληναίη, MAN. <i>4, 224,</i> l’astre lunaire, <i>càd</i>. la lune qui accomplit son évolution.<p><b>Étym</b>. ἕ. ἀστήρ.`

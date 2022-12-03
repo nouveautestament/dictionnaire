@@ -1,1 +1,0 @@
-lar[67912]=`<b>ίδος (ἡ)</b> <i>s.-e</i>. δορά, peau de faon, EUR. <i>Bacch. 24, etc.</i> ; PLUT. <i>M. 672a, etc</i>.<p>➳ <font color="purple">[ῐδ, EUR. <i>Bacch. 137, etc. ; irrég</i>. <font color="purple">[ῑδ]</font> DP. <i>703, 946</i>]</font>.<p><b>Étym</b>. νεβρός.`

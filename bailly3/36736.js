@@ -1,1 +1,0 @@
-lar[36736]=`<b>ἐπ·αξιόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐπηξίωσα) :</font><br><b>      1</b> juger convenable, <i>avec l’inf</i>. SOPH. <i>Ph. 803</i>.<br><b>      2</b> <i>abs. avec une prop. inf</i>. croire, SOPH. <i>El. 658</i>.`

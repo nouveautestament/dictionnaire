@@ -1,1 +1,0 @@
-lar[44203]=`<b>ἐχεμυθέω-ῶ</b> <font color="purple">[ῡ]</font> être silencieux, discret, LUC. <i>D. deor. 21, 2</i> ; τὰ ἐχεμυθούμενα, JAMBL. <i>Protr. p. 310,</i> les choses secrètes.<p><b>Étym</b>. ἐχέμυθος.`

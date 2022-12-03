@@ -1,1 +1,0 @@
-lar[75105]=`<b>παν·οίκιος, ος, ον</b> <font color="purple">[ᾰ]</font> avec toute la maison, <i>ou</i> toute la famille, STR. <i>196</i> ; DC. <i>5, 20</i>.<p><b>Étym</b>. π. οἰκία.`

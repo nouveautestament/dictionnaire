@@ -1,1 +1,0 @@
-lar[22947]=`<b>ατος (τὸ)</b> œuvre d’art, THCR. <i>Idyl. 1, 32</i> ; LUC. <i>Am. 13</i>.<p><b>Étym</b>. δαιδάλλω.`

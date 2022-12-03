@@ -1,1 +1,0 @@
-lar[13073]=`<b>ἀπο·πλανάω-ῶ</b> <font color="purple">[ᾰν]</font> égarer, écarter de, POL. <i>3, 57, 4</i> ; LUC. <i>Gymn. 21 ; fig</i>. τινα ἀπὸ τῆς ὑποθέσεως, ESCHN. <i>79, 6,</i> écarter qqn du sujet.<br><b><i>Moy.</i></b> s’écarter de, <i>gén</i>. ISOCR. <i>155d ;</i> LUC. <i>Nec. 19 ; abs</i>. faire fausse route, s’égarer, ARSTT. <i>H.A. 5, 23, 1</i>.`

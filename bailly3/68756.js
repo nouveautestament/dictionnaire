@@ -1,1 +1,0 @@
-lar[68756]=`<b>Νικό·βουλος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Nikoboulos, <i>h</i>. DÉM. <i>966</i>.<p><b>Étym</b>. <i>v</i>. νικόβουλος.`

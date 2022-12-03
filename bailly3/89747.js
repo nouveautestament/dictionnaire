@@ -1,1 +1,0 @@
-lar[89747]=`<b>σεληνο·τρόπιον, ου (τὸ)</b> plante qu’on croyait se tourner vers la lune, PROCL. <i>Sacr. ; cf</i>. ἡλιοτρόπιον.<p><b>Étym</b>. σελήνη, -τροπος <i>de</i> τρέπω.`

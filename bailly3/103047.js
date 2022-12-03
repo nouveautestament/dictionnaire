@@ -1,1 +1,0 @@
-lar[103047]=`<b>ὑπο·βρέμω</b> (<i>seul. prés</i>.) frémir <i>ou</i> murmurer en dessous <i>ou</i> doucement, ESCHL. <i>Pr. 434</i> ; ORPH. <i>Arg. 1273</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NIC. <i>Al. 290</i>.`

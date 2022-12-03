@@ -1,1 +1,0 @@
-lar[25908]=`<b>δια·χαίνω</b> <font color="darkgreen">(<i>ao.2</i> διέχανον, <i>pf</i>. διακέχηνα)</font> s’entr’ouvrir, PLUT. <i>M. 976b</i>.`

@@ -1,1 +1,0 @@
-lar[27737]=`<b>α, ον</b>, de bois, EUR. <i>Tr. 14</i> ; AR. <i>Av. 1128</i> ; PLAT. <i>Theæt. 184d, etc</i>.<p><b>Étym</b>. δόρυ.`

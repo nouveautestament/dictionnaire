@@ -1,1 +1,0 @@
-lar[18866]=`<font color="purple">[τᾱ]</font> <i>mot inintelligible du Triballe dans</i> AR. <i>Av. 1629</i>.`

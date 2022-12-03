@@ -1,1 +1,0 @@
-lar[4287]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> amas, réunion, GAL. <i>Lex. Hipp. 19, 75</i>.<p><b>Étym</b>. ἁλής.`

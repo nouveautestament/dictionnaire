@@ -1,1 +1,0 @@
-lar[10080]=`<b>εως (ἡ)</b> <font color="purple">[βᾰ]</font> lutte <i>ou</i> efforts contre (le courant d’un fleuve) pour le traverser, PLUT. <i>M. 319c</i>.<p><b>Étym</b>. ἀντιμεταβαίνω.`

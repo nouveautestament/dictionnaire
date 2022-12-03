@@ -1,1 +1,0 @@
-lar[87746]=`<b>Πυρ·αίχμης, ου (ὁ)</b> <font color="purple">[υ]</font> Pyrækhmès :<br><b>      1</b> <i>chef des Pæoniens,</i> IL. <i>2, 848 ; 16, 287</i> <font color="purple">[ῡ]</font><br><b>      2</b> <i>autre,</i> ANTH. <i>App. 9, 42</i> <font color="purple">[ῠ]</font>.<p><b>Étym</b>. π. αἰχμή.`

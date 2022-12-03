@@ -1,1 +1,0 @@
-lar[8778]=`<b>ωνος (ὁ)</b> Anthémiôn, <i>h</i>. IL. <i>4, 473</i> ; PLAT. <i>Men. 90a, etc</i>.<p><b>Étym</b>. ἄνθεμον.`

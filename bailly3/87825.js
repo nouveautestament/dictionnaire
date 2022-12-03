@@ -1,1 +1,0 @@
-lar[87825]=`<b>ων (τὰ)</b> <font color="purple">[ῡ]</font> les Pyrénées, <i>chaîne de mt. entre la Gaule et l’Espagne,</i> PLUT. <i>Sert. 7</i> ; ANTH. <i>9, 283, etc</i>.<p><b>Étym</b>. Πυρήνη.`

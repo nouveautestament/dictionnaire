@@ -1,1 +1,0 @@
-lar[108005]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f. c</i>. Χαρώνειος NONN. <i>D. 19, 7 ; 26, 205</i>.`

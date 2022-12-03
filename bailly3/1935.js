@@ -1,1 +1,0 @@
-lar[1935]=`<b>ων (οἱ)</b> Athamanes, <i>pple d’Épire,</i> PLUT. <i>Flam. 15, etc</i>.`

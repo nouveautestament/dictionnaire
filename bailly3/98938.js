@@ -1,1 +1,0 @@
-lar[98938]=`<b>τηλέ·πλανος, ος, ον</b> <font color="purple">[ᾰ]</font> qui erre au loin, ESCHL. <i>Pr. 576 (corr. p</i>. *τηλέπλαγκτος).<p><b>Étym</b>. τ. πλανάομαι.`

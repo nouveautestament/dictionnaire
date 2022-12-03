@@ -1,1 +1,0 @@
-lar[9464]=`<b>ἀντ·αναχωρέω-ῶ</b>, reculer <i>ou</i> se retenir à son tour, ARSTD. <i>t. 1, 529</i>.`

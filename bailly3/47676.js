@@ -1,1 +1,0 @@
-lar[47676]=`<b>θρηνῳδέω-ῶ</b>, chanter un chant plaintif sur, <i>acc</i>. EUR. <i>I.A. 1176</i>.<p><b>Étym</b>. θρηνῳδός.`

@@ -1,1 +1,0 @@
-lar[73487]=`<b>ου (ὁ)</b> = <i>lat</i>. Vĕlesus <i>ou</i> Volesus, <i>n. d’h. rom</i>. PLUT. <i>Num. 5</i>.`

@@ -1,1 +1,0 @@
-lar[36419]=`<b>ου (ὁ)</b> Épænétos, <i>h</i>. DÉM. <i>59, 64 Baiter-Sauppe</i> ; NT. <i>Rom. 16, 5, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἐπαινετός.`

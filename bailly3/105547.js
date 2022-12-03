@@ -1,1 +1,0 @@
-lar[105547]=`<b>φιλ·έμπορος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le commerce, NONN. <i>D. 9, 88</i> ; HLD. <i>p. 232</i>.`

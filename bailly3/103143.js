@@ -1,1 +1,0 @@
-lar[103143]=`<b>ίδος (ἡ)</b> ligament pour soutenir un membre fracturé, HPC. <i>426, 28 ; 745b, 832c</i>.<p><b>Étym</b>. ὑποδέω.`

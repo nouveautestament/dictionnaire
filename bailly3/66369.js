@@ -1,1 +1,0 @@
-lar[66369]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Molionè, <i>f</i>. IBYC. (ATH. <i>58a</i>).<p><b>Étym</b>. <i>v</i>. Μολίων.`

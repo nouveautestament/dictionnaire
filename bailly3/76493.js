@@ -1,1 +1,0 @@
-lar[76493]=`<b>παρα·ψήχω :<br>      1</b> nettoyer en frottant de côté, <i>acc</i>. PLUT. <i>M. 641e ;</i> EL. <i>N.A. 9, 16</i>.<br><b>      2</b> caresser, <i>d’où fig</i>. adoucir, CALL. <i>Cer. 46</i>.<br><b><i>Moy.</i></b> (<i>3 pl. impf</i>. παρεψήχοντο, <i>corr. p</i>. παρεψύχοντο, THCR. <i>Idyl. 13, 54) c. à l’act. fig</i>.`

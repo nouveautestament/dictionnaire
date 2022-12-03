@@ -1,1 +1,0 @@
-lar[76915]=`<b>ης, ες</b>, qui ressemble à une jeune fille, de jeune fille, E. BYZ. <i>v°</i> παρθένιος.<p><b>Étym</b>. π. -ωδης.`

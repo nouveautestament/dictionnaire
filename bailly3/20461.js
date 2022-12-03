@@ -1,1 +1,0 @@
-lar[20461]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> <i>c</i>. βουλιμιώδης, HÉRODOTUS (ORIB. <i>1, 421).</i><p><b>Étym</b>. βούλιμος, -ωδης.`

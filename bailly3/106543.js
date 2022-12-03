@@ -1,1 +1,0 @@
-lar[106543]=`(<i>seul. prés</i>.) <font color="purple">[νῑ]</font> avoir les mœurs obscènes des Phéniciens, LUC. <i>Pseud. 28</i>.<p><b>Étym</b>. Φοῖνιξ.`

@@ -1,1 +1,0 @@
-lar[78059]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de cinq manières, SEXT. <i>M. 1, 122</i>.<p><b>Étym</b>. πέντε, -χως.`

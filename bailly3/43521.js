@@ -1,1 +1,0 @@
-lar[43521]=`<b>ας (ἡ)</b> vive intelligence, perspicacité, ARSTT. <i>Nic. 6, 10, 2</i>.<p><b>Étym</b>. εὐσύνετος.`

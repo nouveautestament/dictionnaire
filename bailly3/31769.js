@@ -1,1 +1,0 @@
-lar[31769]=`<b>ἐκ·παλέω-ῶ</b> <font color="purple">[ᾰ]</font> se déboîter, HPC. <i>Fract. 777, Art. 822</i>.<p><b>Étym</b>. ἐκπάλομαι.`

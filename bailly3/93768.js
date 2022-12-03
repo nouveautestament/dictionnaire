@@ -1,1 +1,0 @@
-lar[93768]=`<b>συλ·λειτουργέω-ῶ</b>, être collègue de qqn pour un service public, PHIL. <i>2, 227</i>.`

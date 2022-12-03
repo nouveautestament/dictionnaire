@@ -1,1 +1,0 @@
-lar[7702]=`<b>ἀνα·στράπτω</b> (<i>seul. prés. et part. ao</i>.) lancer des éclairs, PHIL. <i>2, 204</i>.`

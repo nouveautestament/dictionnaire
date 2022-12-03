@@ -1,1 +1,0 @@
-lar[90582]=`chanter des chants efféminés comme les habitants de Siphnos, AR. <i>fr. 558 Dind</i>.<p><b>Étym</b>. Σίφνος.`

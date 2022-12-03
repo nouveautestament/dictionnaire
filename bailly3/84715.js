@@ -1,1 +1,0 @@
-lar[84715]=`<b>οῦ (ὁ)</b> mesureur public sous les ordres du μετρονόμος, HYPÉR. <i>et</i> DIN. (HARP.).<p><b>Étym</b>. προμετρέω.`

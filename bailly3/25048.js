@@ -1,1 +1,0 @@
-lar[25048]=`<b>δια·μηρίζω</b> (<i>seul. prés. fut. et ao</i>.) écarter les cuisses, AR. <i>Av. 669</i>.`

@@ -1,1 +1,0 @@
-lar[38742]=`<b>εως (ἡ)</b> action de souffler sur <i>ou</i> dans, inspiration, STR. <i>467</i>.<p><b>Étym</b>. ἐπιπνέω.`

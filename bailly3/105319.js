@@ -1,1 +1,0 @@
-lar[105319]=`<b>φθιν·όπωρον, ου (τὸ)</b> <font color="purple">[ῐ]</font> fin de l’automne, HDT. <i>4, 42 ; 9, 117</i> ; HPC. <i>Aph. 1244</i> ; THC. <i>2, 31</i> ; ARSTT. <i>H.A. 8, 19, 4, etc</i>.<p><b>Étym</b>. φθίνω, ὀπώρα.`

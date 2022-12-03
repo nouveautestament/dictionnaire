@@ -1,1 +1,0 @@
-lar[81763]=`<b>πολύ·βοσκος, ος, ον</b> <font color="purple">[ῠ]</font> qui nourrit beaucoup d’êtres, PD. <i>O. 7, 114</i>.<p><b>Étym</b>. π. βόσκω.`

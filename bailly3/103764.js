@@ -1,1 +1,0 @@
-lar[103764]=`<b>ὑπ·ορθόω-ῶ</b>, redresser, soutenir, SYMM. <i>Ps. 43, 19 ; fig</i>. SYMM. <i>Ps. 72, 2</i>.`

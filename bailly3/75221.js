@@ -1,1 +1,0 @@
-lar[75221]=`<b>ας (ἡ)</b> armure complète, EUR. <i>Her. 720, 787, etc.</i> ; σὺν παντευχίᾳ, ESCHL. <i>Sept. 31,</i> avec une armure complète.<p><b>Étym</b>. πάντευχος.`

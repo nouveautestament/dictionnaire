@@ -1,1 +1,0 @@
-lar[61345]=`<b>λιπό·παις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> sans enfant, MAN. <i>4, 585</i>.<p><b>Étym</b>. λ. παῖς.`

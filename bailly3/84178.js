@@ -1,1 +1,0 @@
-lar[84178]=`<b>προ·εξαιρέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -αιρήσω, <i>ao.2</i> -εξεῖλον, <i>etc</i>.) :</font><br><b>      1</b> enlever <i>ou</i> détruire auparavant, <i>au pass</i>. LUC. <i>Alex. 15</i>.<br><b>      2</b> conquérir auparavant, APP. <i>Civ. 4, 76</i> ; DC. <i>46, 37</i>.`

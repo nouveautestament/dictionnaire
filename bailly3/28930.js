@@ -1,1 +1,0 @@
-lar[28930]=`<b>δύ·στομος, ος, ον</b>, qui a la bouche dure, <i>en parl. d’un cheval,</i> HIPPIATR. <i>p. 3</i> ; A. PL. <i>5, 361</i>.<p><b>Étym</b>. δ. στόμα.`

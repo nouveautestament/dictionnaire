@@ -1,1 +1,0 @@
-lar[55504]=`<b>ωνος (ὁ)</b> Kinésôn, <i>h. ; seul. plur</i>. Κινέσωνες, des hommes semblables à Kinésôn, PLUT. <i>Pyth. or. 20</i>.`

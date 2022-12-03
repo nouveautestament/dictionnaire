@@ -1,1 +1,0 @@
-lar[41615]=`<i>adv</i>., avec facilité pour échanger <i>ou</i> vendre, EN. TACT. <i>Pol. 16, 10</i>.`

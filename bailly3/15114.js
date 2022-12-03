@@ -1,1 +1,0 @@
-lar[15114]=`<b>ἀρρενό·θηλυς, υς, υ</b>, <i>gén</i>. <b>-έος</b>, mâle et femelle à la fois, hermaphrodite, MAN. <i>5, 140</i>.<p>➳ ἀρσενό-, PLUT. <i>M. 368d</i>.<p><b>Étym</b>. ἄρρην, θῆλυς.`

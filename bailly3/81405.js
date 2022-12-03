@@ -1,1 +1,0 @@
-lar[81405]=`<b>ποικιλό·νωτος, ος, ον</b> <font color="purple">[ῐ]</font> au dos tacheté, PD. <i>P. 4, 442</i> ; EUR. <i>I.T. 1245, H.f. 376</i>.<p><b>Étym</b>. π. νῶτος.`

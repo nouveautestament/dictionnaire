@@ -1,1 +1,0 @@
-lar[80169]=`<b>ά, όν</b> <font color="purple">[ῑᾰ]</font> gras, fertile, HPC. <i>241, 45 ; 242, 5</i>.<p><b>Étym</b>. πῖαρ.`

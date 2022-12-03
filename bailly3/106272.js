@@ -1,1 +1,0 @@
-lar[106272]=`<b>εως (ἡ)</b> <font color="purple">[φῑ]</font> rétrécissement du prépuce <i>ou</i> de l’anus, GAL. <i>12, 70</i> ; P. ÉG. <i>6, 55</i>.<p><b>Étym</b>. φιμόω.`

@@ -1,1 +1,0 @@
-lar[17030]=`<b>οῦ (ὁ)</b> <font color="purple">[τῐ]</font><br><b>      1</b> imitateur <i>ou</i> curieux des élégances de la langue attique, JAMBL. <i>V. Pyth. p. 172</i> ; GRAMM.<br><b>      2</b> qui recueille les mots <i>ou</i> les locutions attiques, <i>surn. de l’atticiste Mœris</i>.<p><b>Étym</b>. ἀττικίζω.`

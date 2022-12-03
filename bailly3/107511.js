@@ -1,1 +1,0 @@
-lar[107511]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font> dévastation par la grêle, TH. <i>C.P. 5, 8, 2</i>.<p><b>Étym</b>. <i>v</i>. χαλαζοκοπέω.`

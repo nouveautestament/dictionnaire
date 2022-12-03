@@ -1,1 +1,0 @@
-lar[28375]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> manque de confiance, désespoir, ARSTT. <i>Virt. et vit. 7, 6</i> ; POL. <i>1, 39, 14 ; 1, 71, 2 etc.</i> ; APP. <i>Civ. 4, 12, etc</i>.<p><b>Étym</b>. δυσέλπιστος.`

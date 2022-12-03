@@ -1,1 +1,0 @@
-lar[18345]=`<b>ἀ·φώτιστος, ος, ον :<br>      1</b> non éclairé, obscur, JOS. <i>A.J. 13, 11, 2</i> ; SEXT. <i>M. 10, 164</i>.<br><b>      2</b> non éclairé (par la religion), <i>càd</i>. non baptisé, NYSS. <i>3, 424b</i>.<p><b>Étym</b>. ἀ, φωτίζω.`

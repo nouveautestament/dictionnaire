@@ -1,1 +1,0 @@
-lar[4337]=`<b>ἀληθό·μαντις, εως (ὁ, ἡ)</b> <font color="purple">[ᾰλ]</font> prophète de vérité, ESCHL. <i>Ag. 1341</i> ; PHIL. <i>2, 176</i>.<p><b>Étym</b>. ἀληθής, μ.`

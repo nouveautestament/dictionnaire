@@ -1,1 +1,0 @@
-lar[69652]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> de bois, ARSTT. <i>P.A. 3, 14, 4</i>.<br><b>      2</b> qui vient sur un arbre, ARTÉM. <i>2, 37</i>.<p><b>Étym</b>. ξύλον.`

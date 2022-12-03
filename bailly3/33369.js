@@ -1,1 +1,0 @@
-lar[33369]=`<b>ἐμπεδό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, d’un esprit ferme, PHALAR. <i>Ep. 115</i>.<p><b>Étym</b>. ἔ. φρήν.`

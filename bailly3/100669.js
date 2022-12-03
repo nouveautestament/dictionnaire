@@ -1,1 +1,0 @@
-lar[100669]=`<b>τρι·ώνυχος, ος, ον</b> <font color="purple">[ῠ]</font> à trois pointes (<i>propr</i>. à trois griffes) LYC. <i>392</i>.<p><b>Étym</b>. τρεῖς, ὄνυξ.`

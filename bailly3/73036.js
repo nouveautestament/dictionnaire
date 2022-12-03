@@ -1,1 +1,0 @@
-lar[73036]=`<b>ὀρρόω-ῶ</b>, changer en petit-lait, CLÉM. <i>128 dout</i>.<p><b>Étym</b>. ὀρρός.`

@@ -1,1 +1,0 @@
-lar[94341]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> associé pour une vente, LYS. (POLL. <i>7, 12).</i><p><b>Étym</b>. συμπιπράσκω.`

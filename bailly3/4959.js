@@ -1,1 +1,0 @@
-lar[4959]=`<b>ἄ·λουτος, ος, ον</b>, non lavé, sale, HDT. <i>2, 64</i> ; EUR. <i>El. 1107</i> ; AR. <i>Av. 1554</i> ; PLUT. <i>M. 123d, etc</i>.<p><b>Étym</b>. ἀ, λούω.`

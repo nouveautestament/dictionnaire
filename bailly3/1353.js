@@ -1,1 +1,0 @@
-lar[1353]=`<b>ἀ·διάρθρωτος, ος, ον :<br>      1</b> non articulé, sans articulations, ARSTT. <i>H.A. 2, 1, 5</i>.<br><b>      2</b> inarticulé, confus, inintelligible, PLUT. <i>M. 378c</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. ἀ, διαρθρόω.`

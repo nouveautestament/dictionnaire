@@ -1,1 +1,0 @@
-lar[58097]=`<b>ωνος (ἡ)</b> Krotôn (Crotone, <i>auj</i>. Crotone) <i>v. du Bruttium,</i> HDT. <i>3, 136, etc.</i> ; THCR. <i>Idyl. 4, 32, etc</i>.<p>➳ ὁ Κρ. ORACL. (DS. <i>8, 20), etc</i>.`

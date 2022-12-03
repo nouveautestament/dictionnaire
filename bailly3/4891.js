@@ -1,1 +1,0 @@
-lar[4891]=`<b>ἀλογίου δίκη</b>, poursuites contre celui qui ne rend pas ses comptes, EUP. <i>349 Kock</i>.<p><b>Étym</b>. ἄλογος.`

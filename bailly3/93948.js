@@ -1,1 +1,0 @@
-lar[93948]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> situation sous un même méridien, STR. <i>12</i>.<p><b>Étym</b>. συμμεσουρανέω.`

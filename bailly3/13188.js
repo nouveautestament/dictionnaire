@@ -1,1 +1,0 @@
-lar[13188]=`<b>ἀπ·οργής, ής, ές</b>, non irascible ; d’un caractère doux, paisible, HPC. <i>763e au cp</i>. -έστερος.<p><b>Étym</b>. ἀπό, ὀργή.`

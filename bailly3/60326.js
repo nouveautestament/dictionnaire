@@ -1,1 +1,0 @@
-lar[60326]=`<b>ου (ἡ)</b> Léontion, <i>f</i>. PLUT. <i>Adv. Epic. 4, 16, etc</i>.<p><b>Étym</b>. λέων.`

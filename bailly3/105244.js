@@ -1,1 +1,0 @@
-lar[105244]=`<b>Φημο·νόη, ης (ἡ)</b> Phèmonoè, <i>fille d’Apollon, première prêtresse de Delphes,</i> ANTH. <i>6, 208</i>.<p><b>Étym</b>. φήμη, νόος.`

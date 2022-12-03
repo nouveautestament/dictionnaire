@@ -1,1 +1,0 @@
-lar[77701]=`<b>ή, όν</b>, propre à persuader, persuasif, PLAT. <i>Gorg. 445a, etc.</i> ; ARSTT. <i>Rhet. 1, 2, 1</i> ; ἡ πειστική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 304d, ou</i> τὸ πειστικόν, PLAT. <i>Pol. 304c</i>, l’art de persuader.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>Cyr. 1, 6, 10</i>.<p><b>Étym</b>. πείθω.`

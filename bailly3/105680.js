@@ -1,1 +1,0 @@
-lar[105680]=`<b>ωνος (ὁ)</b> Philistion, <i>h</i>. PLAT. <i>Ep. 314d et e, etc</i>.<p><b>Étym</b>. Φίλιστος.`

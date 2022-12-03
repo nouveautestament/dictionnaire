@@ -1,1 +1,0 @@
-lar[96201]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> <i>c</i>. συνοπτικός, PLUT. <i>t. 5, p. 770 Wyttenbach</i> ; ARR. <i>Epict. 1, 6, 1</i> ; STOB. <i>Ecl. 1, 6</i>.`

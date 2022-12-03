@@ -1,1 +1,0 @@
-lar[102731]=`<b>ας (ἡ)</b> mépris, dédain de, <i>gén</i>. THC. <i>1, 84</i> ; ISOCR. <i>178d, etc. ; abs</i>. hauteur, arrogance, LYS. <i>128, 42</i> ; ISOCR. <i>283c, etc</i>.<p><b>Étym</b>. ὑπερόψομαι.`

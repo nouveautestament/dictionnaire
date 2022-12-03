@@ -1,1 +1,0 @@
-lar[1558]=`<b>ἁδρό·σφαιρος, ος, ον</b>, qui forme de grosses boules, M. RUBR. <i>65</i>.<p><b>Étym</b>. ἁ. σφαῖρα.`

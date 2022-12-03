@@ -1,1 +1,0 @@
-lar[35304]=`<b>ἐξ·αθροίζομαι</b> <font color="purple">[ᾱ]</font> rassembler, ramasser, EUR. <i>Ph. 1169</i>.`

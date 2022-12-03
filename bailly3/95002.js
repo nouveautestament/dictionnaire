@@ -1,1 +1,0 @@
-lar[95002]=`<b>συν·ασχημονέω-ῶ</b>, s’associer à une infamie <i>ou</i> à une inconvenance, PLUT. <i>M. 64c ;</i> DC. <i>79, 13</i>.`

@@ -1,1 +1,0 @@
-lar[101295]=`<font color="purple">[ᾰ]</font> ressembler à la jacinthe, PLIN. <i>H.N. 37, 5, 20</i>.<p><b>Étym</b>. ὑάκινθος.`

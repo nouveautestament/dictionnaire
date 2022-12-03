@@ -1,1 +1,0 @@
-lar[63392]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> grande intelligence, esprit sublime, génie, PLAT. <i>Leg. 935b ;</i> PLUT. <i>M. 401d ;</i> LUC. <i>Pisc. 22</i>.<br><b>      2</b> magnanimité, EL. <i>N.A. 15, 22</i>.<p><b>Étym</b>. μεγαλόνοος.`

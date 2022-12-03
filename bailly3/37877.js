@@ -1,1 +1,0 @@
-lar[37877]=`<b>ἐπι·καθυγραίνομαι</b>, humecter dessus, ORIB. <i>4, 636 B.-Dar.</i> ; SOR. <i>Obst. p. 60 Erm</i>.`

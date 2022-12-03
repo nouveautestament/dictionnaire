@@ -1,1 +1,0 @@
-lar[77075]=`<b>πάρ·οξυς, εια, υ :<br>      1</b> aigu, pointu, HPC. <i>Fract. 773</i>.<br><b>      2</b> un peu vif, irascible, ANTIPH. (<i>Com. fr. 3, 45).</i><p><b>Étym</b>. π. ὀξύς.`

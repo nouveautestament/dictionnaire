@@ -1,1 +1,0 @@
-lar[78723]=`<b>περι·καρφισμός, οῦ (ὁ)</b> habitude des poules qui ont pondu de se nettoyer elles et leurs œufs, PLUT. <i>M. 700d</i>.<p><b>Étym</b>. π. κάρφος.`

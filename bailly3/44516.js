@@ -1,1 +1,0 @@
-lar[44516]=`<b>ζηλο·δοτήρ, ῆρος</b>, <i>adj. m</i>. qui procure des biens enviables (Bacchus) ANTH. <i>9, 524, 7</i>.<p><b>Étym</b>. ζῆλος, δοτήρ.`

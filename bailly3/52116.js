@@ -1,1 +1,0 @@
-lar[52116]=`<b>οῦ (ὁ)</b> qui submerge, qui noie, NAZ. <i>Or. 40, t. 2, p. 421c</i>.<p><b>Étym</b>. καταβαπτίζω.`

@@ -1,1 +1,0 @@
-lar[90719]=`<b>ά, όν</b>, exact, juste, parfait, HPC. <i>595, 27</i> ; LYC. <i>270</i>.<p>•<i> Cp</i>. -ότερος, HPC. <i>Art. 817</i>.<p><b>Étym</b>. <i>cf</i>. σχεθεῖν.`

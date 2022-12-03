@@ -1,1 +1,0 @@
-lar[36848]=`<b>ἐπ·αυξάνω</b> <font color="darkgreen">(<i>f</i>. -αυξήσω)</font> accroître, augmenter, THC. <i>7, 70</i> ; DÉM. <i>38, 1, etc.</i><br><b><i>Moy.</i></b> s’accroître, croître, PLAT. <i>Tim. 19a</i>.`

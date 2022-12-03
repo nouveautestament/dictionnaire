@@ -1,1 +1,0 @@
-lar[26452]=`<b>ός, όν</b> <font color="purple">[ῐτ]</font> pénétrable, ARSTT. <i>Probl. 11, 58, 4</i>.<p><b>Étym</b>. δίειμι².`

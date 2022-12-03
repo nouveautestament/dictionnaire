@@ -1,1 +1,0 @@
-lar[98920]=`<b>τηλε·βαθής, ής, ές</b> <font color="purple">[ᾰ]</font> très profond, ORPH. <i>H. 1, 633</i>.<p><b>Étym</b>. τῆλε, βάθος.`

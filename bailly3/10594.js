@@ -1,1 +1,0 @@
-lar[10594]=`<b>ἀντι·χαλκεύομαι</b>, forger <i>ou</i> construire contre, POLYEN <i>8, 7, 2</i>.`

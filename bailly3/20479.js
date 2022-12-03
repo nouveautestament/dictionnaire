@@ -1,1 +1,0 @@
-lar[20479]=`<font color="darkgreen">(<i>f</i>. ίσω)</font> amonceler, entasser, SPT. <i>Ruth 2, 14, 16</i>.<p><b>Étym</b>. βουνός.`

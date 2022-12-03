@@ -1,1 +1,0 @@
-lar[79773]=`<b>α, ον</b>, de Persée, EUR. <i>Hel. 1464</i> ; ORPH. <i>H. 1, 4</i>.<p><b>Étym</b>. Περσεύς.`

@@ -1,1 +1,0 @@
-lar[52275]=`<b>οῦ (ὁ)</b> vainqueur dans une lutte, JAMBL. <i>V. Pyth. p. 127</i>.<p><b>Étym</b>. καταγωνίζομαι.`

@@ -1,1 +1,0 @@
-lar[51501]=`<b>ου (ὁ)</b> Kandaulès (Candaule) <i>roi de Lydie, etc</i>. HDT. <i>1, 7, etc</i>.`

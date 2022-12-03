@@ -1,1 +1,0 @@
-lar[18756]=`<b>βαθυ·κάρδιος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à l’esprit (<i>litt</i>. au cœur) profond, PROCL.<p><b>Étym</b>. β. καρδία.`

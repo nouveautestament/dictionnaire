@@ -1,1 +1,0 @@
-lar[64057]=`<b>ατος (τὸ) :<br>      1</b> chant, THCR. <i>Idyl. 14, 31 ; 20, 28</i>.<br><b>      2</b> air chanté avec accompagnement, mélodie, ANTH. <i>4, 1, 35 ; 7, 196</i>.<p><b>Étym</b>. μελίζω².`

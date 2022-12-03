@@ -1,1 +1,0 @@
-lar[101733]=`<b>ου (ὁ)</b> ichneumon, <i>sorte de petit reptile, ou plutôt</i> mangouste, PISID.<p><b>Étym</b>. ὕδρος.`

@@ -1,1 +1,0 @@
-lar[82599]=`<b>πολύ·ψηφος, ος, ον</b>, qui réunit beaucoup de suffrages, LUC. <i>Harm. 3, au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. π. ψῆφος.`

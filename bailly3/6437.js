@@ -1,1 +1,0 @@
-lar[6437]=`<b>ἀμφίχυτος, ος, ον</b> <font color="purple">[ῠ]</font> amoncelé (<i>litt</i>. répandu) autour, IL. <i>20, 145</i>.<p><b>Étym</b>. ἀμφιχέω.`

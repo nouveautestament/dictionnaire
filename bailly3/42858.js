@@ -1,1 +1,0 @@
-lar[42858]=`<b>εὐ·όλκιμος, ος, ον</b>, bien filant, onctueux, HPC. <i>Art. 802</i>.<p><b>Étym</b>. εὖ, ἕλκω.`

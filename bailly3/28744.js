@@ -1,1 +1,0 @@
-lar[28744]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne les rétentions d’urine, CIC. <i>Fam. 7, 26 var</i>.<p><b>Étym</b>. δυσουρία.`

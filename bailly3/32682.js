@@ -1,1 +1,0 @@
-lar[32682]=`<b>ἐλεο·δύτης, ου (ὁ)</b> ministre des festins sacrés à Dèlos, ATH. <i>173a</i>.<p><b>Étym</b>. ἐλεός, δύω.`

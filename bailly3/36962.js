@@ -1,1 +1,0 @@
-lar[36962]=`<b>ἐπ·εῖπον</b> (<i>inf</i>. ἐπειπεῖν) :<br><b>      1</b> dire en outre, HDT. <i>1, 125</i> ; THC. <i>1, 67</i> ; ESCHN. <i>49, 15, etc.</i><br><b>      2</b> dire sur : ψόγον ἐπ. τινι, ESCHL. <i>Suppl. 972,</i> parler de qqn en le blâmant.<p><b>Étym</b>. ἐπί, εἶπον.`

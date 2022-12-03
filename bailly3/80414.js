@@ -1,1 +1,0 @@
-lar[80414]=`<b>(ὁ)</b> pivert, <i>oiseau,</i> A. MYND. (ATH. <i>65b</i>).`

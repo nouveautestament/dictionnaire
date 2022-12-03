@@ -1,1 +1,0 @@
-lar[85345]=`<b>προσ·βλασφημέω-ῶ</b>, blasphémer <i>ou</i> invectiver en outre, JOS. <i>A.J. 6, 6, 13</i>.`

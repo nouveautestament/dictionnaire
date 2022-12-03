@@ -1,1 +1,0 @@
-lar[3865]=`<b>ἀκρο·φανής, ής, ές</b> <font color="purple">[φᾰ]</font> qui brille en haut <i>ou</i> d’un vif éclat, NONN. <i>D. 40, 383</i>.<p><b>Étym</b>. ἄ. φαίνω.`

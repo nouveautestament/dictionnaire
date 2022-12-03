@@ -1,1 +1,0 @@
-lar[74099]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> fixe, <i>d’où</i> ferme, solide, LUC. <i>Alex. 21 ; fig</i>. PLAT. <i>Epin. 984d ;</i> DC. <i>65, 1</i>.<p>•<i> Cp</i>. -ώτερος, LUC. <i>l.c. ; • Sup</i>. -ώτατος, DC. <i>76, 12</i>.<p><b>Étym</b>. πήγνυμι.`

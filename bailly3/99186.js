@@ -1,1 +1,0 @@
-lar[99186]=`<b>(ὁ)</b> <font color="purple">[ῑᾰῐᾱ]</font> Timanoridas, <i>h</i>. DÉM. <i>1354, 11, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Τιμάνωρ.`

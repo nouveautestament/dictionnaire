@@ -1,1 +1,0 @@
-lar[95619]=`<b>συν·επιθήγω</b>, aiguiser, <i>d’où</i> exciter ensemble, PLUT. <i>M. 433d</i>.`

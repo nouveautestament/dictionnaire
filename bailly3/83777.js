@@ -1,1 +1,0 @@
-lar[83777]=`<b>προβατο·δόρας, ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. où l’on écorche les moutons, PROCL. <i>Hes. O. 504</i>.<p><b>Étym</b>. πρ. δείρω.`

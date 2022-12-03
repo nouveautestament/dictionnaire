@@ -1,1 +1,0 @@
-lar[11374]=`<font color="purple">[ῡ]</font> <i>adv</i>., sans distraction, avec attention, M. ANT. <i>6, 53</i>.`

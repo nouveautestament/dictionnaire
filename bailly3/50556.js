@@ -1,1 +1,0 @@
-lar[50556]=`<b>καινο·πήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui éprouve une douleur nouvelle, inconnue, ESCHL. <i>Sept. 363</i>.<p><b>Étym</b>. κ. πῆμα.`

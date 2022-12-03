@@ -1,1 +1,0 @@
-lar[1432]=`<b>ἀδικό·τροπος, ος, ον</b> <font color="purple">[ᾰῐ]</font> au caractère injuste, <i>ou</i> aux mœurs blâmables, CRATÈS <i>(Bkk. 343, 10).</i><p><b>Étym</b>. ἄδ. τρόπος.`

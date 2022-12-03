@@ -1,1 +1,0 @@
-lar[79453]=`<b>εως (ἡ) :<br>      1</b> investissement, DC. <i>50, 31</i>.<br><b>      2</b> ligne d’investissement, troupe qui investit, DC. <i>40, 39, etc</i>.<p><b>Étym</b>. περιέχω.`

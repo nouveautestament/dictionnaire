@@ -1,1 +1,0 @@
-lar[51722]=`<b>η, ον</b> <font color="purple">[βᾰῐ]</font> de cuir, PHIL. BYZ. <i>(Math. vet. p. 101).</i><p><b>Étym</b>. <i>emprunt à un substrat europ. ; cf</i>. καρβατίνη.`

@@ -1,1 +1,0 @@
-lar[9109]=`<b>ἀνισ·επίπεδος, ος, ον</b> <font color="purple">[νῐ]</font> aux surfaces planes inégales, JAMBL. <i>Nicom. ar. 131, etc</i>.<p><b>Étym</b>. ἄνισος, ἐπίπεδον.`

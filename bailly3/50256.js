@@ -1,1 +1,0 @@
-lar[50256]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> καθαιρέω, THC. <i>1, 121</i> ; SYN. π. βασιλ. <i>p. 43 Krab</i>.`

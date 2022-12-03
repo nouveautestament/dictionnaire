@@ -1,1 +1,0 @@
-lar[69184]=`<b>νυκτο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> sombre comme la nuit, ANTH. <i>9, 806</i>.<p><b>Étym</b>. <i>cf</i>. νυκτιφανής.`

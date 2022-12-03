@@ -1,1 +1,0 @@
-lar[7573]=`<b>*ἀναρροπία</b>, <i>ion</i>. <b>ἀναρροπίη, ης (ἡ)</b> tendance à monter, ascension, HPC. <i>47, 10</i>.`

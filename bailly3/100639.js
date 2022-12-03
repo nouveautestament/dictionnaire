@@ -1,1 +1,0 @@
-lar[100639]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> qui perd ses cheveux, ESCHL. <i>fr. 255</i>.<p><b>Étym</b>. θρίξ, ῥέω.`

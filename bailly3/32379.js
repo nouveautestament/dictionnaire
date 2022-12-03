@@ -1,1 +1,0 @@
-lar[32379]=`<b>ἐκ·χαλινόω-ῶ</b> <font color="purple">[ᾰῑ]</font> ôter le mors, débrider, PLUT. <i>Pel. 33</i>.`

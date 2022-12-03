@@ -1,1 +1,0 @@
-lar[8517]=`<i>adv</i>., sans application, sans art, DH. <i>Lys. p. 468</i> ; LUC. <i>Pisc. 12</i>.`

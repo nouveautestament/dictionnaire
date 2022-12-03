@@ -1,1 +1,0 @@
-lar[105466]=`<b>φιλ·αμαρτήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐᾰμ]</font> qui aime le péché, SPT. <i>Prov. 17, 19</i>.<p><b>Étym</b>. φ. ἁμάρτημα.`

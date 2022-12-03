@@ -1,1 +1,0 @@
-lar[101102]=`<b>τυραννοκτονέω-ῶ</b> (<i>pf. act</i>. τετυραννοκτόνηκα <i>et pass</i>. τετυραννοκτόνημαι) <font color="purple">[ῠ]</font> tuer un tyran, PLUT. <i>M. 1128f ;</i> LUC. <i>Tyr. 21 ; au pass</i>. LUC. <i>Tyr. 20</i>.<p><b>Étym</b>. τυραννοκτόνος.`

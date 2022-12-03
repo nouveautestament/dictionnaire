@@ -1,1 +1,0 @@
-lar[41395]=`<b>ἑτερό·φυλος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> d’une autre tribu <i>ou</i> race, SCYMN. <i>101</i> ; EL. <i>N.A. 16, 27</i>.<br><b>      2</b> d’une autre sorte, NICOM. <i>Arithm. 71</i>.<p><b>Étym</b>. ἕ. φυλή.`

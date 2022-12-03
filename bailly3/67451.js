@@ -1,1 +1,0 @@
-lar[67451]=`<b>ιδος (ὁ)</b> Mytalis, <i>h</i>. HIPPON. <i>fr. 15</i>.`

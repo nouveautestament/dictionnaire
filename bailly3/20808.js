@@ -1,1 +1,0 @@
-lar[20808]=`(<i>mieux que</i> <b>βριλησσὸν</b>) <b>ὄρος (τὸ)</b> le mt Brilèsos, <i>au N. O. du Lykabettos,</i> THC. <i>2, 23</i>.`

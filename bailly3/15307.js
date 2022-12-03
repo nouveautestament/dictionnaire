@@ -1,1 +1,0 @@
-lar[15307]=`<b>ή, όν :<br>      1</b> qui concerne la trachée-artère <i>ou</i> les bronches, GAL. <i>2, 49</i>.<br><b>      2</b> artériel, PLUT. <i>M. 899a</i>.<p><b>Étym</b>. ἀρτηρία.`

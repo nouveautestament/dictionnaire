@@ -1,1 +1,0 @@
-lar[86395]=`<b>προσ·σέβω</b> (<i>seul. prés</i>.) honorer <i>ou</i> adorer en outre, ESCHL. <i>Sept. 1023</i>.`

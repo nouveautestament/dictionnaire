@@ -1,1 +1,0 @@
-lar[32168]=`<b>οῦ (ὁ)</b> celui qui fait payer <i>ou</i> expier, vengeur, BAS. <i>3, 357b Migne</i>.<p><b>Étym</b>. ἐκτίνω.`

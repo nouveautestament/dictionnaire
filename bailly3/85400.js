@@ -1,1 +1,0 @@
-lar[85400]=`<b>προσ·διαβάλλω</b>, calomnier <i>ou</i> décrier encore <i>ou</i> en outre : τινά, ANT. <i>124, 12</i> ; PLUT. <i>Alc. 28,</i> qqn ; τινά τινι, PLUT. <i>Cor. 27,</i> une personne auprès d’une autre ; τινὰ εἴς τι, PLUT. <i>Per. 29,</i> qqn au sujet de qqe ch. ; <i>p. suite,</i> chercher à rendre plus odieux, PLUT. <i>Fab. 7</i>.`

@@ -1,1 +1,0 @@
-lar[29559]=`<b>ἐγ·καταρριζόω-ῶ</b> <font color="darkgreen">(<i>ao. 3 pl</i>. ἐγκατερρίζωσαν)</font> enraciner dans, BAS. <i>2, 217c</i>.<p><b>Étym</b>. ἐν, κ.`

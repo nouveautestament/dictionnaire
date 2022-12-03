@@ -1,1 +1,0 @@
-lar[29613]=`<b>ατος (τὸ) :<br>      1</b> brûlure, PLAT. <i>Tim. 26c, d’où</i> plaie produite par une brûlure, LUC. <i>D. deor. 13, 2</i>.<br><b>      2</b> peinture à l’encaustique, PLUT. <i>M. 759c.</i><br><b>      3</b> sorte d’ulcère sur l’œil, AÉT. <i>7, 26</i>.<p><b>Étym</b>. ἐγκαίω.`

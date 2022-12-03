@@ -1,1 +1,0 @@
-lar[58099]=`<b>ης (ἡ)</b> la loupe, <i>maladie de certains arbres, particul. de l’olivier,</i> TH. <i>H.P. 1, 8, 6</i>.<p><b>Étym</b>. κροτών.`

@@ -1,1 +1,0 @@
-lar[100937]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Τρώϊος IL. <i>7, 297 (var</i>. Τρῳάδας) ; DH. <i>1, 52</i>.`

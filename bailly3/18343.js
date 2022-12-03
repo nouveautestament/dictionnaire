@@ -1,1 +1,0 @@
-lar[18343]=`<i>adv.</i> :<br><b>      1</b> séparément, ARSTT. <i>Categ. 7, 32, etc.</i><br><b>      2</b> sous une forme brève et précise, en forme d’aphorisme <i>ou</i> de sentence, PLUT. <i>M. 466</i>.<p><b>Étym</b>. ἀφορίζω.`

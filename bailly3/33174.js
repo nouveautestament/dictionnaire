@@ -1,1 +1,0 @@
-lar[33174]=`<b>ἐμβρυουλκέω-ῶ</b>, extraire un embryon, COLUM. <i>7, 3, 16</i>.<p><b>Étym</b>. ἔ. ἕλκω.`

@@ -1,1 +1,0 @@
-lar[32386]=`<b>ἐκ·χαυνόω-ῶ</b>, gonfler, <i>càd.</i> :<br><b>      1</b> rendre vain et hautain, EUR. <i>Suppl. 412</i>.<br><b>      2</b> rendre hébété, stupide, HPC. <i>Art. 808</i>.`

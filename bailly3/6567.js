@@ -1,1 +1,0 @@
-lar[6567]=`<b>ἀνα·βρέχω</b>, mouiller de nouveau, ARSTT. <i>Probl. 21, 6</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NICÉPH. <i>7, 11 W</i>.`

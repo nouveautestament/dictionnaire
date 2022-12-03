@@ -1,1 +1,0 @@
-lar[37518]=`<b>ατος (τὸ)</b> marque, exemple, preuve, XÉN. <i>Conv. 6, 6</i> ; PLAT. <i>Hipp. mi. 368c</i>.<p><b>Étym</b>. ἐπιδείκνυμι.`

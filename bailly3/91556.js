@@ -1,1 +1,0 @@
-lar[91556]=`<b>ῆς (ἡ)</b> Sogdiane (<i>auj</i>. Boukhara) <i>contrée d’Asie entre l’Iaxarte et l’Oxus,</i> PLUT. <i>Alex. fort. 1, 5</i>.`

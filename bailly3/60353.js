@@ -1,1 +1,0 @@
-lar[60353]=`<b>α, ον</b>, montagneux, rocheux, EUR. <i>Her. 394, Hipp. 1249, I.T. 324</i>.<p><b>Étym</b>. λέπας.`

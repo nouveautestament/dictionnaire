@@ -1,1 +1,0 @@
-lar[32956]=`<b>ἐλ·λιμενίζω</b> <font color="purple">[λῐ]</font> (<i>seul. prés</i>.) :<br><b>      1</b> séjourner <i>ou</i> mouiller dans un port, SYN. <i>166b.</i><br><b>      2</b> <i>act</i>. percevoir le droit de séjour dans le port, AR. <i>fr. 392</i>.<p><b>Étym</b>. ἐν, λιμήν.`

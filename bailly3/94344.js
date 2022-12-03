@@ -1,1 +1,0 @@
-lar[94344]=`<b>συμ·πρέπω</b> (<i>seul. prés</i>.) s’accorder avec, <i>dat</i>. PD. <i>N. 3, 119</i> ; ARISTÉN. <i>1, 12</i> ; PLUT. <i>Phil. 11</i>.`

@@ -1,1 +1,0 @@
-lar[40372]=`<b>ἐρημό·πτολις, ιδος</b>, <i>adj. f</i>. qui n’a plus de patrie, EUR. <i>Tr. 599</i>.<p><b>Étym</b>. ἔ. πτόλις.`

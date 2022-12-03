@@ -1,1 +1,0 @@
-lar[62739]=`<b>μαμμά·κυθος, ου (ὁ)</b> <font color="purple">[ᾱκῠ]</font> qui se cache dans les jupes de sa mère, <i>càd</i>. niais, nigaud, sot, AR. <i>Ran. 990</i>.<p><b>Étym</b>. μάμμα, κεύθω.`

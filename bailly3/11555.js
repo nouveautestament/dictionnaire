@@ -1,1 +1,0 @@
-lar[11555]=`<b>ἀπειραγαθέω-ῶ</b> <font color="purple">[ρᾰᾰ]</font> n’avoir pas l’expérience <i>ou</i> le sentiment de ce qui est bien, P. ÉG. <i>6, 50</i>.`

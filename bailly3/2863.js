@@ -1,1 +1,0 @@
-lar[2863]=`(<i>contr. de</i> ἀϊστ.), <b>ος, ον</b>, destructeur, LYC. <i>71</i>.<p><b>Étym</b>. ἀϊστόω.`

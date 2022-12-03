@@ -1,1 +1,0 @@
-lar[54947]=`<b>ου (ὁ)</b> petit oiseau, <i>p.-ê</i>. le grimpereau, ARSTT. <i>H.A. 9, 17, 2</i>.`

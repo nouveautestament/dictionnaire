@@ -1,1 +1,0 @@
-lar[24645]=`<b>δια·θεωρέω-ῶ</b>, examiner à fond, SEXT.`

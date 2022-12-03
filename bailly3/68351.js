@@ -1,1 +1,0 @@
-lar[68351]=`<b>ου (ὁ)</b> Nestos, <i>fl. de Thrace,</i> HDT. <i>7, 109, 126</i> ; THC. <i>2, 96, etc</i>.`

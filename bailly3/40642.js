@@ -1,1 +1,0 @@
-lar[40642]=`<b>Ἑρμο·πιθηκιάδαι, ῶν (οἱ)</b> <font color="purple">[πῐ]</font> nés d’un singe en forme d’hermès, <i>sobriquet, en parl. des enfants d’un certain Hermolykos,</i> ANTH. <i>11, 353</i>.<p><b>Étym</b>. Ἑ. πίθηκος.`

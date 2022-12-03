@@ -1,1 +1,0 @@
-lar[28980]=`<b>ος, ον</b>, difficile à supporter, EUR. <i>Cycl. 344</i>.<p><b>Étym</b>. δυσφορέω.`

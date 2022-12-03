@@ -1,1 +1,0 @@
-lar[30369]=`<b>εἰκοσι·δύο</b>, vingt-deux, SPT. <i>1Esdr. 5, 13, etc</i>.`

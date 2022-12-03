@@ -1,1 +1,0 @@
-lar[8995]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> subordination, relation, DYSC. <i>Synt. 19, 12 ; 74, 3</i>.<p><b>Étym</b>. ἀνθυπάγω.`

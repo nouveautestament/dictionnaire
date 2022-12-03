@@ -1,1 +1,0 @@
-lar[27969]=`<b>άδος (ἡ)</b> <i>seul. gén. pl</i>. δρυάδων, pièces formant la quille d’un navire, PLUT. <i>M. 312e</i> (<i>conj</i>. δρυάκων, <i>de</i> *δρύαξ, <i>m. sign</i>.).<p><b>Étym</b>. δρῦς.`

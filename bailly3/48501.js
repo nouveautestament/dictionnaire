@@ -1,1 +1,0 @@
-lar[48501]=`<i>adv. seul. cp</i>. -ωτέρως, avec disposition à transpirer, ARSTT. <i>Probl. 2, 40</i>.`

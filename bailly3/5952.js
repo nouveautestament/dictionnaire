@@ -1,1 +1,0 @@
-lar[5952]=`<b>οντος (ὁ)</b> <font color="purple">[ᾰ]</font> Amynôn, <i>h</i>. AR. <i>Eccl. 365</i>.<p><b>Étym</b>. ἀμύνω.`

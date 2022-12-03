@@ -1,1 +1,0 @@
-lar[100172]=`<b>τριγωνο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> en forme de triangle, triangulaire, ARSTT. <i>H.A. 3, 7, 3</i> ; POL. <i>2, 14, 4, etc</i>.<p><b>Étym</b>. τρίγωνος, εἶδος.`

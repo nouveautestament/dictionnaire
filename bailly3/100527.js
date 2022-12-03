@@ -1,1 +1,0 @@
-lar[100527]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui joue les troisièmes rôles, <i>càd</i>. acteur de troisième ordre, acteur médiocre, DÉM. <i>270, 12 ; 297, 26, etc</i>.<p><b>Étym</b>. τρίτος, ἀγωνίζομαι.`

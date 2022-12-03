@@ -1,1 +1,0 @@
-lar[39711]=`<b>ἐπι·χραίνω</b>, teindre <i>ou</i> colorer à la surface, LUC. <i>Bis acc. 6</i>.`

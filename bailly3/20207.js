@@ -1,1 +1,0 @@
-lar[20207]=`<b>βορβορο·κοίτης, ου (ὁ)</b> Couche-dans-la-boue, <i>n. de rat,</i> BATR. <i>229</i>.<p><b>Étym</b>. β. κοίτη.`

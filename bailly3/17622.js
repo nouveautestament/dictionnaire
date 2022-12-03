@@ -1,1 +1,0 @@
-lar[17622]=`<b>αὐτο·ουσία, ας (ἡ)</b> la substance en soi, la notion abstraite de substance, PLOT. <i>Enn. 6, 8</i>.`

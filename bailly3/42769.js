@@ -1,1 +1,0 @@
-lar[42769]=`<b>ου (τὸ)</b> couchette, ARTÉM. <i>155 Reiff</i>.<p><b>Étym</b>. <i>dim. de</i> εὐνή.`

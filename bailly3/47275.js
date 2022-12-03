@@ -1,1 +1,0 @@
-lar[47275]=`changer en bête sauvage. HERM. <i>p. 11, b, 26</i>.<p><b>Étym</b>. θηρίον.`

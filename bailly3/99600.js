@@ -1,1 +1,0 @@
-lar[99600]=`<b>τοξ·ήρης, ης, ες :<br>      1</b> armé d’un arc, EUR. <i>Alc. 35, etc.</i><br><b>      2</b> qui concerne la corde d’un arc, EUR. <i>H.f. 1063</i>.<br><b>      3</b> qui concerne un archer, EUR. <i>H.f. 188</i>.<p><b>Étym</b>. τόξον, *ἄρω.`

@@ -1,1 +1,0 @@
-lar[7799]=`<b>ῆς (ἡ)</b> nourriture, éducation, DH. <i>Rhet. 5, 3</i> ; PLUT. <i>M. 608c ;</i> LUC. <i>Anach. 20</i>.<p><b>Étym</b>. ἀνατρέφω.`

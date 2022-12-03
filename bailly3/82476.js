@@ -1,1 +1,0 @@
-lar[82476]=`<b>ας (ἡ) :<br>      1</b> souplesse, habileté, HDT. <i>2, 121</i> ; M. ANT. <i>12, 24</i>.<br><b>      2</b> variété, HPC. <i>Acut. 383</i> ; DH. <i>Amm. 2, 3</i>.<p>➳ <i>Ion</i>. -ίη, HDT. HPC. <i>ll. cc</i>.<p><b>Étym</b>. πολύτροπος.`

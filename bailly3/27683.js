@@ -1,1 +1,0 @@
-lar[27683]=`<b>δουλ·έκ·δουλος, ος, ον</b>, esclave né d’un père <i>ou</i> d’une mère esclave, ATH. <i>267d</i>.<p><b>Étym</b>. δοῦλος, ἐκ, δοῦλος.`

@@ -1,1 +1,0 @@
-lar[61055]=`<b>λιθο·εργής, ής, ές</b> <font color="purple">[ῐ]</font> qui pétrifie, <i>ép. de Méduse,</i> OPP. <i>C. 3, 222</i>.<p><b>Étym</b>. λ. ἔργον.`

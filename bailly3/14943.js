@@ -1,1 +1,0 @@
-lar[14943]=`<b>ους (ὁ)</b> Arnapès, <i>Perse,</i> XÉN. <i>Hell. 1, 3, 12</i>.`

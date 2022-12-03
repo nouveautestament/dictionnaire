@@ -1,1 +1,0 @@
-lar[90685]=`<b>οῦ (ὁ)</b> claudication, AQU. <i>Ps. 34, 18</i>.<p><b>Étym</b>. σκάζω.`

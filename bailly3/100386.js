@@ -1,1 +1,0 @@
-lar[100386]=`<b>ου</b>, <i>adj. m</i>. du bourg de Tripodiskos, PLUT. <i>Qu. gr. 17</i>.<p><b>Étym</b>. Τριποδίσκος.`

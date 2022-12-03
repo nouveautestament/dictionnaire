@@ -1,1 +1,0 @@
-lar[18948]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰᾰῑ ῐδ]</font> sorte de châtaigne, PLIN. <i>H.N. 15, 23</i>.<p><b>Étym</b>. βάλανος.`

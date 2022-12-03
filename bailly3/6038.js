@@ -1,1 +1,0 @@
-lar[6038]=`<b>ή, όν</b>, à double aviron, <i>càd</i>. manœuvré par un seul rameur muni de deux avirons (appuyés sur les deux bords du bâtiment) THC. <i>4, 67</i>.`

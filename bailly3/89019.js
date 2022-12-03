@@ -1,1 +1,0 @@
-lar[89019]=`<b>εως (ἡ) :<br>      1</b> action de fortifier, PHIL. <i>1, 516 ; fig</i>. PLOT. <i>284f.</i><br><b>      2</b> <i>p. suite,</i> force, TH. <i>Vent. 23, d’où</i> vigueur, SEXT. <i>M. 11, 97</i>.<p><b>Étym</b>. ῥώννυμι.`

@@ -1,1 +1,0 @@
-lar[37251]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> survenu, qui survient, XÉN. <i>Œc. 11, 4</i> ; DH. <i>3, 72</i> ; PHIL. <i>1, 160</i>.<p><b>Étym</b>. <i>cf</i>. ἔπηλυς.`

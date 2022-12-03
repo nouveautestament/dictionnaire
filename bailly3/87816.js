@@ -1,1 +1,0 @@
-lar[87816]=`<b>οῦ (ὁ)</b> Pyrétos (<i>auj</i>. Prout) <i>fl. de Scythie,</i> HDT. <i>4, 48</i>.`

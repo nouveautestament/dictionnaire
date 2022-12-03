@@ -1,1 +1,0 @@
-lar[83333]=`<b>ατος (τὸ) :<br>      1</b> <i>c</i>. πρέσβευσις, EUR. <i>Suppl. 173</i>.<br><b>      2</b> <i>au plur. collect</i>. membres d’une ambassade, ambassade, PLUT. <i>Tim. 9, M. 541e</i>.`

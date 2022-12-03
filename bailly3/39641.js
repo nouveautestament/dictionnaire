@@ -1,1 +1,0 @@
-lar[39641]=`<b>ἐπιχαιρ·άγαθος, ος, ον</b> <font color="purple">[ᾰγᾰ]</font> qui se réjouit du bonheur d’autrui, <i>p. opp. à</i> ἐπιχαιρέκακος, ERATOSTH. (STR. <i>61).</i><p><b>Étym</b>. ἐπιχαίρω, ἀγαθός.`

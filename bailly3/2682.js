@@ -1,1 +1,0 @@
-lar[2682]=`<b>αἰνο·βίης, ου</b>, <i>adj. m</i>. d’une force terrible, ANTH. <i>7, 226</i>.<p><b>Étym</b>. αἰνός, βία.`

@@ -1,1 +1,0 @@
-lar[94509]=`<b>συμ·ψεύδομαι</b>, mentir ensemble <i>ou</i> avec, <i>dat</i>. POL. <i>6, 3, 10</i> ; PLUT. <i>M. 508e</i>.`

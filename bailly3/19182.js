@@ -1,1 +1,0 @@
-lar[19182]=`<b>βαρυ·όπης, ου</b> <font color="purple">[ᾰῠ]</font> <i>adj. m</i>. à la voix pesante, <i>càd</i>. terrible, PD. <i>P. 6, 24</i>.<p><b>Étym</b>. β. ὄψ¹.`

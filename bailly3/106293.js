@@ -1,1 +1,0 @@
-lar[106293]=`<b>(τὸ)</b> <font color="purple">[ῑῠ]</font> <i>c</i>. φίτυμα, AR. <i>Pax 1164</i> ; EUP. (SCH.-PLAT. <i>p. 211</i>).`

@@ -1,1 +1,0 @@
-lar[59852]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. δάπεδον, LYC. <i>617 conj. Mein</i>.`

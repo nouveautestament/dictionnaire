@@ -1,1 +1,0 @@
-lar[10003]=`<b>ἀντι·κυμαίνω</b> <font color="purple">[ῡ]</font><br><b>      1</b> ballotter sur les flots ; <i>au pass</i>. être ballotté sur les flots, PLUT. <i>M. 397b.</i><br><b>      2</b> ballotter, <i>en gén</i>. ORIB. <i>244 Matthäi</i>.`

@@ -1,1 +1,0 @@
-lar[1419]=`<font color="purple">[ᾰδῐ]</font> <i>adv</i>., avec penchant à l’injustice, STOB. <i>2, 603 Gaisf</i>.`

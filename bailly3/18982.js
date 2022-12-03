@@ -1,1 +1,0 @@
-lar[18982]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Balios :<br><b>      1</b> <i>n. d’un des chevaux d’Achille,</i> IL. <i>16, 149 ; 19, 400 (voc</i>. βαλίε).<br><b>      2</b> <i>n. d’un des chiens d’Actéon, Fr. lyr. (Bgk fr. adesp. 39).</i><p><b>Étym</b>. βαλιός.`

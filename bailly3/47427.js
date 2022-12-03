@@ -1,1 +1,0 @@
-lar[47427]=`<b>ατος (τὸ)</b> meurtrissure causée par un pincement, DIOSC. <i>2, 51</i>.<p><b>Étym</b>. θλίβω.`

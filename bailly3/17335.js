@@ -1,1 +1,0 @@
-lar[17335]=`<b>αὐταρχέω-ῶ</b>, être maître absolu <i>ou</i> empereur, DC. <i>44, 2, etc</i>.<p><b>Étym</b>. αὔταρχος.`

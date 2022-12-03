@@ -1,1 +1,0 @@
-lar[2629]=`<b>ας (ἡ)</b> scorbut, ARSTT. <i>Probl. 1, 38</i>.<p><b>Étym</b>. αἱμώδης.`

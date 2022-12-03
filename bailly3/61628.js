@@ -1,1 +1,0 @@
-lar[61628]=`<b>οῦς (ἡ)</b> Loxô, <i>l’une des trois jeunes filles qui vinrent des régions hyperboréennes à Dèlos,</i> CALL. <i>Del. 292</i> ; NONN. <i>D. 5, 489</i>.<p><b>Étym</b>. λοξός.`

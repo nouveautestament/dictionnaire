@@ -1,1 +1,0 @@
-lar[17310]=`<b>ῶν (οἱ)</b> les Auskhises, <i>pple de la Cyrénaïque,</i> HDT. DS. NONN. <i>D. 13, 376</i>.`

@@ -1,1 +1,0 @@
-lar[7063]=`<b>ἀν·αλαλάζω</b> <font color="darkgreen">(<i>impf</i>. ἀνηλάλαζον, <i>ao</i>. ἀνηλάλαξα)</font> <font color="purple">[ᾰλᾰλ]</font><br><b>      1</b> pousser le cri de guerre, XÉN. <i>An. 4, 3, 19</i> ; EUR. <i>Ph. 1395</i>.<br><b>      2</b> pousser un grand cri, EUR. <i>Suppl. 719</i>.`

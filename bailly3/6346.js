@@ -1,1 +1,0 @@
-lar[6346]=`<b>ἀμφί·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> baigné tout autour, ORACL. (HDT. <i>4, 163).</i><p><b>Étym</b>. ἀ. ῥέω.`

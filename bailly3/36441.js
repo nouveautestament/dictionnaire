@@ -1,1 +1,0 @@
-lar[36441]=`<b>εως (ἡ)</b> demande, SPT. <i>Sir. 40, 30</i> ; DH. <i>Rhet. 9, 13</i>.<p><b>Étym</b>. ἐπαιτέω.`

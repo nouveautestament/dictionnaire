@@ -1,1 +1,0 @@
-lar[25063]=`<b>δια·μισθόω-ῶ</b>, affermer, louer, APP. <i>Civ. 2, 10</i>.`

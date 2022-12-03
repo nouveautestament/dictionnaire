@@ -1,1 +1,0 @@
-lar[4847]=`<b>ἀλλοχροέω-οῶ</b>, changer de couleur, ARSTT. <i>Probl. 4, 29</i>.<p><b>Étym</b>. ἀλλόχροος.`

@@ -1,1 +1,0 @@
-lar[83303]=`<b>πραΰ·μητις, ιος (ὁ, ἡ)</b> <font color="purple">[ᾱῠ]</font> qui a des pensées douces, bienveillantes, qui a un bon cœur, PD. <i>O. 6, 71</i>.<p><b>Étym</b>. πρ. μῆτις.`

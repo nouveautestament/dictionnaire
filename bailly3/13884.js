@@ -1,1 +1,0 @@
-lar[13884]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., sans rançon, OD. <i>14, 317</i>.<p><b>Étym</b>. <i>acc. fém. de</i> ἀπρίατος.`

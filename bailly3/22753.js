@@ -1,1 +1,0 @@
-lar[22753]=`<b>οῦ (ὁ)</b> maître de gymnastique, <i>différent du</i> παιδοτρίβης, ARSTT. <i>Nic. 10, 9, 15 ; cf</i>. POL. <i>3, 6, 7 ; particul</i>. gymnaste, chargé de l’enseignement aux athlètes, XÉN. <i>Mem. 2, 1, 20</i> ; PLAT. <i>Leg. 720e</i>.<p><b>Étym</b>. γυμνάζω.`

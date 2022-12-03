@@ -1,1 +1,0 @@
-lar[57112]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la fabrication des poupées, PROCL. <i>Plat. Tim. 2, p. 120</i>.<p><b>Étym</b>. κοροπλάθος.`

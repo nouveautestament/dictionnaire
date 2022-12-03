@@ -1,1 +1,0 @@
-lar[73318]=`<b>ὀστρακό·ρινος</b>, <i>p. nécess. prosod. p</i>. <b>*ὀστρακό·ρρινος, ος, ον</b> <font color="purple">[ᾰῑ]</font> qui a une écaille en guise de cuir, OPP. <i>H. 1, 313 ; 5, 589</i>.<p><b>Étym</b>. ὄ. ῥινός.`

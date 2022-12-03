@@ -1,1 +1,0 @@
-lar[14483]=`<font color="purple">[ᾰ]</font> <i>2 sg. sbj. ao.2 moy. de</i> αἴρω.`

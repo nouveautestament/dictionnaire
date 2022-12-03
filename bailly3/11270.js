@@ -1,1 +1,0 @@
-lar[11270]=`<font color="purple">[τᾰ]</font> <i>adv</i>., partout, EUR. <i>I.T. 517</i> ; ALEX. (ATH. <i>354d</i>) ; SOSIPATER (ATH. <i>378d</i>) ; MÉN. (STOB. <i>Fl. 9, 2</i>) ; LUC. <i>Sat. 7, etc.</i> ; ἁ. γῆς, DC. <i>69, 13,</i> sur tous les points de la terre.`

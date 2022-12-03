@@ -1,1 +1,0 @@
-lar[43801]=`<b>εὐ·χείρωτος, ος, ον</b>, facile à prendre, à soumettre, ESCHL. <i>Pers. 452</i> ; XÉN. <i>Hell. 5, 3, 4</i>.<p>•<i> Cp</i>. -ότερος, DC. <i>36, 7 ; • Sup</i>. -ότατος, XÉN. <i>Cyr. 1, 6, 36, etc</i>.<p><b>Étym</b>. εὖ, χειρόω.`

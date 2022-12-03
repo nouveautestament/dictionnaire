@@ -1,1 +1,0 @@
-lar[44183]=`<b>ας (ἡ)</b> Ekhédèmia, <i>ancien nom de l’Académie, du nom du héros Ekhédèmos,</i> DICÉARQ. (PLUT. <i>Thes. 32).</i><p><b>Étym</b>. <i>v</i>. Ἐχέδημος.`

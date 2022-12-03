@@ -1,1 +1,0 @@
-lar[107419]=`<i>ou</i> <b>φώσων, ωνος (ὁ)</b> grosse étoffe de lin, <i>d’où</i> :<br><b>      1</b> bande de toile, <i>p. suite,</i> vêtement de toile, CRAT. (<i>Com. fr. 2, 164</i>).<br><b>      2</b> voile de navire, LYC. <i>26</i>.<p><b>Étym</b>. <i>mot égyptien</i>.`

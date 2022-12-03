@@ -1,1 +1,0 @@
-lar[43671]=`<b>Εὐ·τυχίς, ίδος (ἡ)</b> <font color="purple">[ῠ]</font> Eutykhis, <i>f</i>. THCR. <i>Idyl. 15, 67</i>.<p><b>Étym</b>. <i>cf</i>. εὐτυχής.`

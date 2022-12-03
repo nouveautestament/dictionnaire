@@ -1,1 +1,0 @@
-lar[54452]=`<b>άτιδος (ἡ)</b> « la déesse du cèdre », <i>épith. d’Artémis à Orchomène,</i> PAUS. <i>8, 13, 2</i>.<p><b>Étym</b>. κέδρος.`

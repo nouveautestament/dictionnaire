@@ -1,1 +1,0 @@
-lar[104196]=`<b>ὑπο·ψάθυρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> un peu friable, un peu tendre, HPC. <i>Coac. 218</i>.<p><b>Étym</b>. ὑ. ψαθυρός.`

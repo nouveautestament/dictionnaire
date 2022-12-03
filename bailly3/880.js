@@ -1,1 +1,0 @@
-lar[880]=`<b>ης (ἡ)</b> <i>ion</i>., chasse, ANTH. <i>6, 13</i> ; CALL. <i>fr. 22, 2</i>.<p><b>Étym</b>. ἀγρέω.`

@@ -1,1 +1,0 @@
-lar[6398]=`<b>ἀμφί·τομος, ος, ον</b>, à deux tranchants, ESCHL. <i>Ag. 1496</i> ; EUR. <i>Hipp. 1375, El. 164</i> ; A.RH. <i>1, 68</i>.<p><b>Étym</b>. ἀ. τέμνω.`

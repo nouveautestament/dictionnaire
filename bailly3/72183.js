@@ -1,1 +1,0 @@
-lar[72183]=`<i>vb. de</i> ὀξυτονέω GRAMM. <i>457, 12 Bekker, Anecdota græca etc</i>.`

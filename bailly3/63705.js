@@ -1,1 +1,0 @@
-lar[63705]=`<b>μειλιχό·βουλος, ος, ον</b> <font color="purple">[ῐ]</font> aux conseils doux, aimables, PROCL. <i>H. Min. 40</i>.<p><b>Étym</b>. βουλή.`

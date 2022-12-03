@@ -1,1 +1,0 @@
-lar[61215]=`<b>ου (ὁ)</b> Lindos, <i>fondateur de la v. de Lindos,</i> PD. <i>O. 7, 74</i>.<p><b>Étym</b>. <i>v</i>. Λίνδος.`

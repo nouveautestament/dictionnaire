@@ -1,1 +1,0 @@
-lar[52132]=`<b>κατα·βαΰζω</b> (<i>part. ao</i>. -βαΰξας) <font color="purple">[βᾰ]</font> aboyer contre, <i>gén</i>. ANTH. <i>7, 408</i>.`

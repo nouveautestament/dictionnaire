@@ -1,1 +1,0 @@
-lar[103357]=`<b>ὑπό·κερας</b>, <i>gén</i>. <b>αος-ως</b> (ὁ, ἡ, τὸ) muni de corne en dessous, PORPH. PTOL. <i>Harm. 243</i>.<p><b>Étym</b>. ὑ. κέρας.`

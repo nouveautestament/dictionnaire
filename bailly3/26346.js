@@ -1,1 +1,0 @@
-lar[26346]=`<b>δι·ζυγής, ής, ές</b> <font color="purple">[ῠ]</font> double, HLD. CHIR. (ORIB. <i>19 Mai).</i><p><b>Étym</b>. <i>cf</i>. δίζυξ.`

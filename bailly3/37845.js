@@ -1,1 +1,0 @@
-lar[37845]=`<b>ος, ον</b> <font color="purple">[ῡ]</font> désireux de, <i>gén</i>. MAN. <i>4, 565</i>.<p><b>Étym</b>. ἐπιθυμέω.`

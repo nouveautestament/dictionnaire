@@ -1,1 +1,0 @@
-lar[44878]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. τήγανον, <i>avec jeu de mots,</i> ANACR. <i>24</i>.`

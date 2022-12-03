@@ -1,1 +1,0 @@
-lar[18679]=`Baal :<br><b>   I (ὁ) :<br>      1</b> <i>dieu tyrien,</i> JOS. <i>A.J. 9, 6, 6</i>.<br><b>      2</b> <i>roi tyrien,</i> JOS. <i>A.J. 10, 9, 2</i>.<br><b>      3</b> <i>n. d’un mois tyrien,</i> SPT. <i>3Reg. 6, 38</i>.<br><b>   II (ἡ)</b> <i>déesse tyrienne,</i> NT. <i>Rom. 11, 4</i>.`

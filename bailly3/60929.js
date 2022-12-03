@@ -1,1 +1,0 @@
-lar[60929]=`<b>ου (ὁ)</b> = <i>lat</i>. lībertus, affranchi, POL. <i>30, 16, 3</i>.`

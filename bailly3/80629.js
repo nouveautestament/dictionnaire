@@ -1,1 +1,0 @@
-lar[80629]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. πλακούντιον, STR. <i>812</i> ; ARR. <i>Epict. 3, 12, 11</i>.`

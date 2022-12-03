@@ -1,1 +1,0 @@
-lar[88387]=`<b>ου (ὁ)</b> = <i>lat</i>. Remus, <i>n. d’h. rom. frère de Romulus,</i> BUT. (PLUT. <i>Rom. 21</i>).`

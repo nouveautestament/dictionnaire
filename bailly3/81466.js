@@ -1,1 +1,0 @@
-lar[81466]=`<b>ποιο·λόγος, ος, ον</b>, qui recueille le suc des plantes, ARSTT. <i>fr. 274</i>.<p><b>Étym</b>. ποία, λέγω.`

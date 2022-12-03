@@ -1,1 +1,0 @@
-lar[24021]=`<b>ου (ὁ)</b> celui qui lie, NAZ. <i>3, 450a Migne</i>.<p><b>Étym</b>. δέω¹.`

@@ -1,1 +1,0 @@
-lar[3871]=`<b>ἀκρο·χανής, ής, ές</b> <font color="purple">[χᾰ]</font> qui s’ouvre à la surface, ANTH. <i>6, 57</i>.<p><b>Étym</b>. ἄ. χαίνω.`

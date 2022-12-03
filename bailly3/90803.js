@@ -1,1 +1,0 @@
-lar[90803]=`<b>ας (ἡ)</b> fabrication de meubles, <i>particul</i>. de costumes <i>ou</i> d’objets de théâtre, PHILSTR. <i>V. Ap. p. 245</i>.<p><b>Étym</b>. σκευοποιός.`

@@ -1,1 +1,0 @@
-lar[19151]=`<b>βαρύ·θυμος, ος, ον</b> <font color="purple">[ᾰῠῡ]</font> irrité, mécontent, EUR. <i>Med. 176</i> ; CALL. <i>Cer. 81 ; Del. 215</i> ; PLUT. <i>Alex. 9</i>.<p>•<i> Cp</i>. -ότερος, SYN. <i>183d</i>.<p><b>Étym</b>. β. θυμός.`

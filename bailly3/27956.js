@@ -1,1 +1,0 @@
-lar[27956]=`<b>δροσό·μελι, ιτος (τὸ)</b> <font color="purple">[ῐτ]</font> miellat, miel aérien, manne, GAL. <i>6, 399</i>.<p><b>Étym</b>. δρόσος, μέλι.`

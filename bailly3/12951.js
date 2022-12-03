@@ -1,1 +1,0 @@
-lar[12951]=`<b>εως (ἡ)</b> inclination, tendance, THÉM. <i>230b, etc</i>.<p><b>Étym</b>. ἀπονεύω.`

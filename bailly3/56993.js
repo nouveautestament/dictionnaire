@@ -1,1 +1,0 @@
-lar[56993]=`<b>ή, όν</b>, meurtri, CRAT. (POLL. <i>6, 81</i>) ; ANTIPH. (<i>Com. fr. 3, 73).</i><p><b>Étym</b>. <i>vb. de</i> κόπτω ; <i>cf</i>. κοπτή.`

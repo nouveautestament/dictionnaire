@@ -1,1 +1,0 @@
-lar[95928]=`<b>ατος (τὸ) :<br>      1</b> <i>c</i>. σύνθημα, ANTH. <i>App. 30</i>.<br><b>      2</b> somme, total, DIOPH. <i>Arithm. 5, 19</i>.<br><b>      3</b> assemblée, SPT. <i>Eccl. 12, 11</i>.<p><b>Étym</b>. συντίθημι.`

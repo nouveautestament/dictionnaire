@@ -1,1 +1,0 @@
-lar[51632]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action d’enfumer, ARSTT. <i>Probl. 10, 51</i> ; ANTH. <i>9, 174</i>.<p><b>Étym</b>. καπνίζω.`

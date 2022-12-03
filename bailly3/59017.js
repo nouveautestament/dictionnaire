@@ -1,1 +1,0 @@
-lar[59017]=`<b>ου (τὸ)</b> physalide, <i>plante,</i> DIOSC. <i>4, 72</i>.`

@@ -1,1 +1,0 @@
-lar[96671]=`<b>οῦ (ὁ)</b> <font color="purple">[τᾰ]</font> complice d’une sédition, JOS. <i>A.J. 14, 2, 1</i> ; NT. <i>Marc. 15, 7</i>.<p><b>Étym</b>. συστασιάζω.`

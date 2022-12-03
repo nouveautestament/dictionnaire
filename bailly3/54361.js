@@ -1,1 +1,0 @@
-lar[54361]=`<b>ων (αἱ)</b> Κ. πέτραι, EUR. <i>Hel. 1129</i> ; Q. SM. <i>6, 524 ; 14, 362 ; ou abs</i>. αἱ Καφηρίδες, ANTH. <i>9, 289,</i> les roches <i>ou</i> le promontoire de Kaphèrée.<p><b>Étym</b>. <i>v</i>. Καφηρεύς.`

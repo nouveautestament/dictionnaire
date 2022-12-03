@@ -1,1 +1,0 @@
-lar[92369]=`<b>στενο·πρόσωπος, ος, ον</b>, au visage étroit, mince, ARSTT. <i>Physiogn. 5, 5 au cp</i>.<p><b>Étym</b>. στ. πρόσωπον.`

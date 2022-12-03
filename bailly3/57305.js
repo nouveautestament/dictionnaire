@@ -1,1 +1,0 @@
-lar[57305]=`<b>ου (ὁ)</b> Kossinitès, <i>fl. de Thrace,</i> EL. <i>N.A. 15, 25</i>.`

@@ -1,1 +1,0 @@
-lar[29618]=`<b>ἐγ·καυχάομαι-ῶμαι</b>, se glorifier de, <i>avec</i> ἐν <i>et le dat</i>. SPT. <i>Ps. 73, 14 (ao. 3 pl</i>. ἐνεκαυχήσαντο) ; CLÉM. <i>127 (inf. prés</i>.).<p><b>Étym</b>. ἐν, κ.`

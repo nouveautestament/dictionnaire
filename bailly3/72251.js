@@ -1,1 +1,0 @@
-lar[72251]=`<b>ας (ἡ)</b> le territoire des Opiques, THC. <i>6, 4</i>.<p><b>Étym</b>. <i>v</i>. Ὀπικός.`

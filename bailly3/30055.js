@@ -1,1 +1,0 @@
-lar[30055]=`<b>ἑδρο·διαστολεύς, έως (ὁ)</b> instrument de chirurgie pour écarter l’ouverture du fondement et permettre une inspection <i>ou</i> une exploration intérieure, P. ÉG. <i>205, 44</i>.<p><b>Étym</b>. ἕδρα, διαστολεύς.`

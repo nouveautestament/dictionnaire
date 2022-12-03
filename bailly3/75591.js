@@ -1,1 +1,0 @@
-lar[75591]=`<b>ή, όν</b>, propre à avertir, qui avertit, BAS. <i>4, 293 Migne</i>.<p><b>Étym</b>. παραθετός.`

@@ -1,1 +1,0 @@
-lar[90370]=`<b>υος (τὸ)</b> <font color="purple">[ῐᾱῠ]</font> <i>c</i>. σίναπι, ANAXIPP. <i>et</i> DIOCL. (ATH. <i>404e, 68e</i>).`

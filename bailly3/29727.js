@@ -1,1 +1,0 @@
-lar[29727]=`<b>ἐγ·κόσμιος, ος, ον</b>, qui est dans l’univers, SYN. <i>2, 318b ;</i> BAS. <i>1, 41 Migne</i>.<p><b>Étym</b>. ἐν, κόσμος.`

@@ -1,1 +1,0 @@
-lar[9940]=`<b>ἀντι·κατατάσσω</b>, <i>att</i>. <b>-τάττω</b>, mettre à la place de, CLÉM. <i>351</i>.`

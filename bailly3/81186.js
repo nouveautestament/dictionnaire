@@ -1,1 +1,0 @@
-lar[81186]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> dont le nombril est gonflé par des vents, GAL. <i>2, 395</i> ; τὸ πνευματόμφαλον, GAL. <i>2, 395,</i> maladie du nombril gonflé par des vents.<p><b>Étym</b>. πν. ὀμφαλός.`

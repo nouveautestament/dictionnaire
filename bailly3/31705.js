@@ -1,1 +1,0 @@
-lar[31705]=`<b>ἐκ·νεάζω</b>, rajeunir, LUC. <i>Am. 33</i> ; AQU. <i>Prov. 30, 33</i>.`

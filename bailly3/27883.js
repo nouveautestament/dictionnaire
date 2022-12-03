@@ -1,1 +1,0 @@
-lar[27883]=`<b>δρεπανο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a la forme d’une faux, THC. <i>6, 4</i> ; STR. <i>335</i>.<p><b>Étym</b>. δρέπανον, εἶδος.`

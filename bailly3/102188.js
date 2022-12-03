@@ -1,1 +1,0 @@
-lar[102188]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> enlèvement et transport secret, M. ANT. <i>5, 23</i> ; HLD. <i>6, 8</i>.<p><b>Étym</b>. ὑπεξάγω.`

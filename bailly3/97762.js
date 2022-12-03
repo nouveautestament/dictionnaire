@@ -1,1 +1,0 @@
-lar[97762]=`<b>ταυράω-ῶ</b> (<i>seul. prés</i>.) désirer le taureau, <i>en parl. de la vache,</i> ARSTT. <i>H.A. 6, 18, 12</i>.<p><b>Étym</b>. ταῦρος.`

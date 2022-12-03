@@ -1,1 +1,0 @@
-lar[73571]=`<b>οὐλοτριχέω-ῶ</b> <font color="purple">[ῐ]</font> avoir les cheveux crépus, STR. <i>690, 696</i>.<p><b>Étym</b>. οὐλότριχος.`

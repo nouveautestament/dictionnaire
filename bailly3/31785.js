@@ -1,1 +1,0 @@
-lar[31785]=`<b>ἐκ·πέλει</b>, il est permis, SOPH. <i>Ant. 478</i>.<p><b>Étym</b>. ἐκ, πέλω.`

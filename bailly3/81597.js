@@ -1,1 +1,0 @@
-lar[81597]=`<b>οῦ (ὁ)</b> fondateur d’une ville, JOS. <i>A.J. 18, 1, 5 conj</i>.<p><b>Étym</b>. πολίζω.`

@@ -1,1 +1,0 @@
-lar[20304]=`<b>βοτρυη·φόρος, ος, ον</b>, qui porte <i>ou</i> produit des grappes (vigne), PHIL. <i>1, 681</i>.<p><b>Étym</b>. βότρυς, φέρω.`

@@ -1,1 +1,0 @@
-lar[6011]=`<b>ἀμφ·ενέπω</b>, appeler, nommer, NIC. <i>Th. 627</i>.`

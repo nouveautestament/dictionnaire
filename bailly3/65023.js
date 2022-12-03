@@ -1,1 +1,0 @@
-lar[65023]=`<b>μετα·φοιτάω-ῶ</b>, aller d’un endroit à un autre, STR. <i>783</i>.`

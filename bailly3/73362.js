@@ -1,1 +1,0 @@
-lar[73362]=`<b>ου (ὁ)</b> jeune pousse, jeune branche, AR. <i>Ach. 997</i>.<p><b>Étym</b>. <i>cf</i>. ὄσχη.`

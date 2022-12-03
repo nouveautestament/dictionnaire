@@ -1,1 +1,0 @@
-lar[1995]=`<b>ἀθερο·λόγιον, ου (τὸ)</b> pince à extraire des esquilles d’os, ORIB. <i>Fract. 11, 12 et 14, p. 97 et 98</i>.<p><b>Étym</b>. ἀθήρ, λέγω.`

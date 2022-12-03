@@ -1,1 +1,0 @@
-lar[6574]=`<b>ἀνα·βρυχάομαι-ῶμαι</b> <font color="darkgreen">(<i>seul. part. ao</i>. ἀναβρυχησάμενος)</font> <font color="purple">[ῠ]</font> pousser des cris (<i>litt</i>. des rugissements) de douleur, PLAT. <i>Phæd. 117d</i>.`

@@ -1,1 +1,0 @@
-lar[49358]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> d’Hippocrate, hippocratique, SEXT. <i>17 Bkk</i>.<p><b>Étym</b>. Ἱπποκράτης.`

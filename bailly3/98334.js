@@ -1,1 +1,0 @@
-lar[98334]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> récit de choses extraordinaires, d’histoires merveilleuses et invraisemblables, AR. <i>Nub. 317, Eq. 627, Ran. 834</i> ; ESCHN. <i>2, 11 Baiter-Sauppe</i> ; ISOCR. <i>232a.</i><br><b>      2</b> <i>p. ext</i>. caractère étrange, JUL. <i>56d</i>.<p><b>Étym</b>. τερατεύομαι.`

@@ -1,1 +1,0 @@
-lar[84520]=`<b>προ·καταψύχω</b> <font color="purple">[ῡ]</font> refroidir auparavant, PROCL. <i>Ptol. p. 22</i>.`

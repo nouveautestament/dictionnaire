@@ -1,1 +1,0 @@
-lar[43359]=`<b>εὐρύ·χορος, ος, ον</b> <font color="purple">[ῠ]</font> au large emplacement, vaste, spacieux, <i>ép. de villes,</i> IL. <i>2, 498</i> ; OD. <i>15, 1 ; de pays (Grèce,</i> IL. <i>9, 478 ; Asie,</i> PD. <i>O. 7, 18, etc.) ; de rues,</i> EUR. <i>Bacch. 87 ; de maisons,</i> ANTH. <i>6, 319, etc. (p. lic. poét. p</i>. εὐρύχωρος).<p><b>Étym</b>. εὐ. χώρα.`

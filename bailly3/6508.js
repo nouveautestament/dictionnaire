@@ -1,1 +1,0 @@
-lar[6508]=`<b>(ὁ)</b> le Sinueux, <i>litt</i>. qui va et revient, qui se replie sur lui-même, <i>anc. n. du fl. Méandre,</i> Ps.-PLUT. <i>Fluv. 9, 1</i>.<p><b>Étym</b>. ἀναβαίνω.`

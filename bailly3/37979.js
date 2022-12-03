@@ -1,1 +1,0 @@
-lar[37979]=`<b>εως (ἡ)</b> brûlure :<br><b>      1</b> inflammation aux yeux, AÉT. <i>p. 124, 2</i>.<br><b>      2</b> brûlure sur la peau, PLAT. <i>Ax. 368c ;</i> DIOSC. <i>2, 166</i>.`

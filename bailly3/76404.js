@@ -1,1 +1,0 @@
-lar[76404]=`<b>ατος (τὸ) :<br>      1</b> parole à côté de la question, réflexion incidente, PLAT. <i>Euthyd. 296b.</i><br><b>      2</b> son faux <i>ou</i> discordant, ARSTD. <i>t. 2, 365</i>.<p><b>Étym</b>. παραφθέγγομαι.`

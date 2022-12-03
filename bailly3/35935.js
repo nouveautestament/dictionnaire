@@ -1,1 +1,0 @@
-lar[35935]=`<b>ἑξηκοντα·πέντε</b>, <i>n. de n. indécl</i>. soixante-cinq, SPT. <i>Num. 3, 50</i> ; CLÉM. <i>1, 872</i>.`

@@ -1,1 +1,0 @@
-lar[8927]=`<b>η, ον</b>, <i>ion</i>. d’homme : ἡ ἀνθρωπηΐη (<i>s.-e</i>. δορά) HDT. <i>5, 25,</i> peau d’homme.<p><b>Étym</b>. <i>ion. c</i>. ἀνθρώπειος.`

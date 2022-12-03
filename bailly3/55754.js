@@ -1,1 +1,0 @@
-lar[55754]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Klaros, PLUT. <i>Pomp. 24</i> ; ὁ Κλάριος, CALL. <i>Ap. 70,</i> le dieu de Klaros, <i>càd</i>. Apollon.<p><b>Étym</b>. Κλάρος.`

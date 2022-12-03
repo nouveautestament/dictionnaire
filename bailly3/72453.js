@@ -1,1 +1,0 @@
-lar[72453]=`<b>ῆρος (ὁ) :<br>      1</b> observateur, surveillant, espion, OD. <i>14, 261 ; 17, 430</i> ; ESCHL. <i>Suppl. 186</i> ; SOPH. <i>Aj. 29</i>.<br><b>      2</b> témoin oculaire, ANT. <i>132, 33</i> ; XÉN. <i>Cyr. 4, 5, 17</i>.<p><b>Étym</b>. ὄψομαι.`

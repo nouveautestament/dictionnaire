@@ -1,1 +1,0 @@
-lar[36338]=`<i>acc. neutre ou masc. de</i> ἑός.`

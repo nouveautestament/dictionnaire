@@ -1,1 +1,0 @@
-lar[8351]=`<i>adv</i>., indubitablement, DYSC. <i>Synt. 218, 18</i> ; HLD. <i>7, 296</i>.`

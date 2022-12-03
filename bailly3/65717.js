@@ -1,1 +1,0 @@
-lar[65717]=`<b>μικρο·μελής, ής, ές</b> <font color="purple">[ῑ]</font> dont les membres sont petits, grêles, ARSTT. <i>Physiogn. 3, 13</i>.<p><b>Étym</b>. μ. μέλος.`

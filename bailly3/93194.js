@@ -1,1 +1,0 @@
-lar[93194]=`<b>συγ·γηράσκω</b> <font color="darkgreen">(<i>f</i>. άσομαι)</font> vieillir avec, HDT. <i>3, 134</i> ; EUR. <i>fr. 1044 Nauck</i> ; ISOCR. <i>2c</i>.`

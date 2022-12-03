@@ -1,1 +1,0 @@
-lar[36237]=`<b>οῦ (ὁ)</b> qui a le pouvoir, maître, SPT. <i>Esaï. 9, 6</i> ; CHRYS. <i>4, 60b Migne</i>.<p><b>Étym</b>. ἐξουσιάζω.`

@@ -1,1 +1,0 @@
-lar[61595]=`<b>ης, ες</b>, pestilentiel, contagieux, HPC. <i>Acut. 384, 840f ;</i> THC. <i>1, 23</i> ; ARSTT. <i>H.A. 8, 19</i> ; PLUT. <i>Per. 34, etc</i>.<p><b>Étym</b>. λοιμός, -ωδης.`

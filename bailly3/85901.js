@@ -1,1 +1,0 @@
-lar[85901]=`<b>προ·σιτίζω</b> <font color="purple">[σῑ]</font> nourrir auparavant, ORIB. <i>p. 139 Matthäi</i>.`

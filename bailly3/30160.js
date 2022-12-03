@@ -1,1 +1,0 @@
-lar[30160]=`<i>adv</i>., volontairement, THC. <i>8, 2</i> ; DS. <i>18, 53</i>.<p><b>Étym</b>. ἐθέλω.`

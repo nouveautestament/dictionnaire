@@ -1,1 +1,0 @@
-lar[37194]=`<b>ἐπετειό·φυλλος, ος, ον</b>, qui renouvelle son feuillage tous les ans, TH. <i>H.P. 7, 11, 3</i>.<p><b>Étym</b>. ἐπέτειος, φύλλον.`

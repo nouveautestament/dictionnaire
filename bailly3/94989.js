@@ -1,1 +1,0 @@
-lar[94989]=`<b>οῦ (ὁ)</b> joie commune, PHIL.<p><b>Étym</b>. συνασμενίζω.`

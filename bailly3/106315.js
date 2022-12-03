@@ -1,1 +1,0 @@
-lar[106315]=`<b>ου (ὁ)</b> = <i>lat</i>. Flavius, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 61, etc</i>.`

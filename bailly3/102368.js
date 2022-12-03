@@ -1,1 +1,0 @@
-lar[102368]=`<b>ὑπερ·βρύω</b>, être rempli de, regorger de, <i>dat</i>. LUC. <i>Rh. præc. 6</i>.`

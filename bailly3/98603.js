@@ -1,1 +1,0 @@
-lar[98603]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> réunion de quatre parties <i>ou</i> division en quatre parties, ASCLÉP. <i>11, 6</i>.<p><b>Étym</b>. τετραμερής.`

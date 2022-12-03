@@ -1,1 +1,0 @@
-lar[65028]=`<i>adv</i>., par métaphore, métaphoriquement, PLUT. <i>M. 884a</i>.`

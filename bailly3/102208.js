@@ -1,1 +1,0 @@
-lar[102208]=`<b>ὑπ·εξευρίσκω</b>, découvrir peu à peu, BAS.`

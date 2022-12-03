@@ -1,1 +1,0 @@
-lar[16202]=`<b>ἀστεροσκοπέω-ῶ</b>, observer les astres, SEXT.<p><b>Étym</b>. ἀστεροσκόπος.`

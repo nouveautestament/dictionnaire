@@ -1,1 +1,0 @@
-lar[48366]=`<b>ου (ὁ)</b> Idanthyrsos, <i>roi de Scythie,</i> HDT. <i>4, 76, 120, 127</i>.`

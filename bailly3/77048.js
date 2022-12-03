@@ -1,1 +1,0 @@
-lar[77048]=`<b>α, ον</b> : qui est plus en avant :<br><b>      1</b> <i>avec idée de lieu,</i> IL. <i>23, 459, 480</i> ; A.RH. <i>4, 982</i>.<br><b>      2</b> <i>avec idée de temps,</i> NAZ. <i>982</i>.<p><b>Étym</b>. <i>cp. de</i> πάρος ; <i>v</i>. παροίτατος.`

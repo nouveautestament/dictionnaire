@@ -1,1 +1,0 @@
-lar[34960]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. qui se dresse contre, qui barre le chemin, <i>d’où</i> adversaire, ennemi, SOPH. <i>Aj. 104</i> ; EL. (SUID.).<p><b>Étym</b>. ἐνίστημι.`

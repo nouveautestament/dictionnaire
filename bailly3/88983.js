@@ -1,1 +1,0 @@
-lar[88983]=`<b>ωνος (ὁ)</b> narine, HIPPIATR. <i>70, 12 ; d’ord. au pl</i>. les narines, le nez, NIC. <i>Th. 213, Al. 117</i> ; STR. <i>312, etc.</i> ; DH. <i>Comp. 14, 22, etc</i>.`

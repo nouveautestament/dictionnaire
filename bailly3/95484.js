@@ -1,1 +1,0 @@
-lar[95484]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> tension de toutes les parties d’un tout, PLUT. <i>M. 589a, 901d ;</i> MÉD. <i>p. 108 Matthäi</i>.<p><b>Étym</b>. συνεντείνω.`

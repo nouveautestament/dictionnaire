@@ -1,1 +1,0 @@
-lar[29862]=`<i>c</i>. ἐγείρω (<i>seul. impér. prés. 3 sg</i>. ἐγρέτω) SOPATR. (ATH. <i>175c</i>).<br><b><i>Moy.</i></b> <i>c</i>. ἐγείρομαι (<i>seul. prés. 3 pl</i>. ἔγρονται, EUR. <i>Phaëth. 5, 29, et impf. 3 sg</i>. ἔγρετο, OPP. <i>C. 3, 421</i>).`

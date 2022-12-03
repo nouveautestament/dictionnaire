@@ -1,1 +1,0 @@
-lar[92746]=`<b>ης, ες</b>, emphatique, HERMOG. <i>6, 225 Walz</i>.<p><b>Étym</b>. στόμφος, -ωδης.`

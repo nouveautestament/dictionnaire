@@ -1,1 +1,0 @@
-lar[71879]=`<b>ας (ἡ)</b> action de rêver, <i>d’où</i> rêve, songe, PLAT. <i>Epin. 985c</i>.<p><b>Étym</b>. ὀνειροπόλος.`

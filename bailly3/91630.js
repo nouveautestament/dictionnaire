@@ -1,1 +1,0 @@
-lar[91630]=`<b>α (ὁ)</b> Suréna, <i>chef des Parthes,</i> PLUT. <i>Crass. 21, etc</i>.`

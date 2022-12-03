@@ -1,1 +1,0 @@
-lar[81103]=`<b>πλου·δοκέω-ῶ</b>, attendre le moment favorable pour s’embarquer, CIC. <i>Att. 10, 8, 9</i>.<p><b>Étym</b>. πλοῦς, δοκέω.`

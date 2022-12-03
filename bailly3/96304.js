@@ -1,1 +1,0 @@
-lar[96304]=`<i>adv</i>., au parfait, SEXT. <i>M. 10, 101</i>.<p><b>Étym</b>. <i>v</i>. συντελεστικός.`

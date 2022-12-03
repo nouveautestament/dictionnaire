@@ -1,1 +1,0 @@
-lar[77146]=`<b>ου (ὁ)</b> Parrhasios, <i>peintre d’Éphèse,</i> XÉN. <i>Mem. 3, 10, 1</i> ; PLUT. <i>Thes. 4, etc</i>.`

@@ -1,1 +1,0 @@
-lar[108498]=`<b>ου (τὸ)</b> sorte de pommade blanche pour les yeux, A. TR. <i>2, 142</i>.<p><b>Étym</b>. χιών.`

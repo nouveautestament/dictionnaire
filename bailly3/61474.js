@@ -1,1 +1,0 @@
-lar[61474]=`<b>λογ·αοιδικός, ή, όν</b> <font color="purple">[ᾰ]</font> logaœdique, <i>n. d’un vers dactylique (de quatre dactyles et deux trochées) qui tient de la prose et des vers,</i> DL. <i>4, 65</i> ; HÉPH. <i>p. 43</i>.<p><b>Étym</b>. λόγος, ἀοιδή.`

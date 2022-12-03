@@ -1,1 +1,0 @@
-lar[15065]=`<b>ου (ὁ)</b> Arpatès, <i>Perse,</i> PLUT. <i>Artax. 30</i>.`

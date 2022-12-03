@@ -1,1 +1,0 @@
-lar[15970]=`<b>ἄ·σκυρον, ου (τὸ)</b> sorte de millepertuis (<i>Hypericum androsæmon</i> L.) <i>plante,</i> DIOSC. <i>3, 172</i> ; GAL. <i>etc</i>.<p><b>Étym</b>. ἀ <i>cop</i>. σκύρον.`

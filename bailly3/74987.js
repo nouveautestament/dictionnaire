@@ -1,1 +1,0 @@
-lar[74987]=`<b>παν·έορτος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait de fête, de grande fête, PHIL. <i>2, 477</i>.<p><b>Étym</b>. π. ἑορτή.`

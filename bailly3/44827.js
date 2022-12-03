@@ -1,1 +1,0 @@
-lar[44827]=`<b>ας (ἡ)</b> lien, bandelette, THCR. <i>Idyl. 2, 122</i>.<p><b>Étym</b>. ζώννυμι.`

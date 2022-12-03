@@ -1,1 +1,0 @@
-lar[66658]=`<i>adv</i>., uniformément, simplement, JOS. <i>B.J. 5, 10, 4</i>.`

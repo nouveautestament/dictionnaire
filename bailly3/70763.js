@@ -1,1 +1,0 @@
-lar[70763]=`<b>ή, όν</b>, qui concerne la divination par le vol <i>ou</i> le cri des oiseaux, DH. <i>3, 70</i>.<p><b>Étym</b>. οἰωνόμαντις.`

@@ -1,1 +1,0 @@
-lar[60388]=`être lépreux, NIC. <i>Th. 156, 262</i>.`

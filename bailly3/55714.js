@@ -1,1 +1,0 @@
-lar[55714]=`<i>adv</i>., avec un bruit aigu, BABR. <i>124, 13</i>.<p><b>Étym</b>. *κλάγξ.`

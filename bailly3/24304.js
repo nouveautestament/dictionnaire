@@ -1,1 +1,0 @@
-lar[24304]=`<i>vb. de</i> δημοσιεύω, DAMASC. <i>Plat. Phil. 250, 4</i>.`

@@ -1,1 +1,0 @@
-lar[78771]=`<b>ή, όν</b>, qui peut servir à enfermer, <i>gén. fig</i>. JAMBL. <i>Nicom. ar. p. 86</i>.<p><b>Étym</b>. περικλείω.`

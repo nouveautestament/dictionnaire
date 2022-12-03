@@ -1,1 +1,0 @@
-lar[46052]=`<b>ος, ον</b>, d’Hèphæstos ; <i>subst</i>. τὰ Ἡφαίστεια, XÉN. <i>Ath. 3, 4</i> ; AND. <i>17, 20</i> ; DC. <i>78, 25,</i> fêtes d’Hèphæstos.<p><b>Étym</b>. Ἥφαιστος.`

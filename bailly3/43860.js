@@ -1,1 +1,0 @@
-lar[43860]=`<b>εὐ·ώνητος, ος, ον</b>, facile à acheter, qui est à bas prix, STR. <i>218</i>.<p><b>Étym</b>. εὖ, ὠνέομαι.`

@@ -1,1 +1,0 @@
-lar[40120]=`<b>ἐραν·άρχης, ου (ὁ)</b> <font color="purple">[ρᾰ]</font> qui préside à un festin par écot, DL. <i>6, 63</i> ; ARTÉM. <i>1, 18</i>.<p><b>Étym</b>. ἔρανος, ἄρχω.`

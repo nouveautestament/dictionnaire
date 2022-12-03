@@ -1,1 +1,0 @@
-lar[69353]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font> lenteur, nonchalance, JAMBL. <i>V. Pyth. 65, p. 134</i>.<p><b>Étym</b>. νωχαλής.`

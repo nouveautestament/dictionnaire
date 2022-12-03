@@ -1,1 +1,0 @@
-lar[74638]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> <i>c</i>. παλλακεία, IS. <i>41 fin</i>.`

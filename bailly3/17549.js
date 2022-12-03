@@ -1,1 +1,0 @@
-lar[17549]=`<b>αὐτοκτονέω-ῶ</b> (<i>seul. part. prés</i>.) s’entr’égorger, SOPH. <i>Ant. 56</i>.<p><b>Étym</b>. αὐτοκτόνος.`

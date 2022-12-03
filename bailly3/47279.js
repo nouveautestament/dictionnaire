@@ -1,1 +1,0 @@
-lar[47279]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite bête sauvage, TH. <i>H.P. 2, 8, 3</i> ; ARR. <i>Epict. 2, 9</i>.<p><b>Étym</b>. θηρίον.`

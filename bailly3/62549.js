@@ -1,1 +1,0 @@
-lar[62549]=`<b>μακρό·πτερος, ος, ον</b>, aux longues ailes, ARSTT. <i>P.A. 1, 4, 2</i>.<p><b>Étym</b>. μ. πτερόν.`

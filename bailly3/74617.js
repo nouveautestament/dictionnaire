@@ -1,1 +1,0 @@
-lar[74617]=`<b>παλιρροέω-ῶ</b> <font color="purple">[ᾰ]</font> être agité d’un mouvement de flux et de reflux, TH. <i>Vent. 10</i> ; STR. <i>153</i>.<p><b>Étym</b>. παλίρροος.`

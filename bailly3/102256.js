@@ -1,1 +1,0 @@
-lar[102256]=`<b>ὑπερ·άλιος</b>, <i>épq</i>. <b>ὑπειρ·άλιος, ος, ον</b> <font color="purple">[ᾰ]</font> situé au bord de la mer, maritime, DP. <i>851, 1085</i>.<p><b>Étym</b>. ὑ. ἅλς.`

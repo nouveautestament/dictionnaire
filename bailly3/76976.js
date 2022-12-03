@@ -1,1 +1,0 @@
-lar[76976]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> de Parménide, PLUT. <i>An. procr. in Tim. 10</i> ; DL. <i>2, 106</i>.<p><b>Étym</b>. Παρμενίδης.`

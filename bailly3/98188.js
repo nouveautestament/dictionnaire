@@ -1,1 +1,0 @@
-lar[98188]=`<b>ορος (ὁ)</b> Télestôr, <i>h</i>. Ps.-PLUT. <i>Fluv. 8</i>.<p><b>Étym</b>. <i>v</i>. τελέστωρ.`

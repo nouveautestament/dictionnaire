@@ -1,1 +1,0 @@
-lar[33923]=`<b>ἐν·απερεύγω</b> <font color="purple">[ᾰ]</font> (<i>part. ao.2</i> ἐναπερυγών) vomir dans <i>ou</i> sur, <i>dat</i>. PHIL. <i>2, 202</i>.`

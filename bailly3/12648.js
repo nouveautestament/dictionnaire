@@ -1,1 +1,0 @@
-lar[12648]=`<b>ἀπο·κράδιος, ος, ον</b> <font color="purple">[ᾰδ]</font> cueilli à un figuier, ANTH. <i>6, 300</i>.<p><b>Étym</b>. ἀ. κράδη.`

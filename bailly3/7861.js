@@ -1,1 +1,0 @@
-lar[7861]=`<b>ατος (τὸ)</b> action d’annoncer, PHIL. <i>1, 661</i>.<p><b>Étym</b>. ἀναφθέγγομαι.`

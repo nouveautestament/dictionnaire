@@ -1,1 +1,0 @@
-lar[47875]=`<b>ωπος (ὁ)</b> <font color="purple">[ῡᾰ]</font> tison à moitié brûlé, AR. <i>Ach. 321, Th. 729</i> ; STRATT. (POLL. <i>10, 101</i>).`

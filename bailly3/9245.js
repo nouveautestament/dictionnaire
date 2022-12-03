@@ -1,1 +1,0 @@
-lar[9245]=`<b>ῆς (ἡ) :<br>      1</b> action de tirer en haut, THC. <i>4, 112</i>.<br><b>      2</b> remorquage d’un navire à la sortie d’un port (<i>cf</i>. καθολκή) EN. TACT. <i>Pol. 10</i>.<p><b>Étym</b>. ἀνέλκω.`

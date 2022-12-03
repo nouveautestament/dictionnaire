@@ -1,1 +1,0 @@
-lar[59938]=`<b>άδος</b> <font color="purple">[ᾰῑνᾰδ]</font> <i>adj. f. c</i>. Λατῖνος, P. SIL. <i>Ecphr. ag. Soph. 164</i>.`

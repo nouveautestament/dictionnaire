@@ -1,1 +1,0 @@
-lar[15372]=`<b>ου (ὁ)</b> petit morceau de pain, HPC. <i>677, 27</i> ; DIOSC. <i>2, 203</i>.<p><b>Étym</b>. ἄρτος.`

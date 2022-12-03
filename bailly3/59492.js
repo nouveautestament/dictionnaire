@@ -1,1 +1,0 @@
-lar[59492]=`<b>λαθρό·βολος, ος, ον</b>, qui frappe insidieusement, ANTH. <i>9, 824</i>.<p><b>Étym</b>. λάθρᾳ, βάλλω.`

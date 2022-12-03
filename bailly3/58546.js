@@ -1,1 +1,0 @@
-lar[58546]=`<b>κυκλοβορέω-ῶ</b>, faire autant de bruit que le Κυκλοβόρος, AR. <i>Ach. 381, etc</i>.`

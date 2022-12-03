@@ -1,1 +1,0 @@
-lar[64165]=`<b>α, ον</b> <font color="purple">[ῐχ]</font> <i>éol. c.</i> μειλίχιος, SAPPH. <i>fr. 100 Bgk</i>.`

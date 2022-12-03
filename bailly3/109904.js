@@ -1,1 +1,0 @@
-lar[109904]=`<b>ης, ες</b>, bruyant, HPC. <i>Epid, 1, 959</i> ; ARSTT. <i>Rhet. 3, 3, 3</i>.<p><b>Étym</b>. ψόφος, -ωδης.`

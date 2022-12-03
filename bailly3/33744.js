@@ -1,1 +1,0 @@
-lar[33744]=`<b>ἐμφωνέω-ῶ</b>, appeler en criant, <i>dat</i>. CLÉM. <i>1, 261 Migne</i>.<p><b>Étym</b>. ἔμφωνος.`

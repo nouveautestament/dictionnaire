@@ -1,1 +1,0 @@
-lar[34614]=`<b>ἐν·ίζω</b> <font color="darkgreen">(<i>f</i>. -ιζήσω)</font>, s’asseoir dans <i>ou</i> sur, s’établir dans <i>ou</i> sur, <i>dat</i>. PLAT. <i>Conv. 196b ;</i> ἐς <i>avec l’acc</i>. ARÉT. <i>Cur. m. acut. 2, 8 ; acc</i>. EUR. <i>Hel. 1108</i>.<br><b><i>Moy.</i></b> <i>m. sign. dat</i>. EMPÉD.`

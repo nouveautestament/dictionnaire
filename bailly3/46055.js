@@ -1,1 +1,0 @@
-lar[46055]=`<b>έως</b>, <i>adj. m</i>. habitant d’Hèphæstia, <i>v. de Lemnos,</i> HDT. <i>6, 140</i>.<p><b>Étym</b>. <i>plur. ion</i>. Ἡφαιστιέες.`

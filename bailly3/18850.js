@@ -1,1 +1,0 @@
-lar[18850]=`<b>βαιτο·φόρος, ος, ον</b>, qui porte une casaque de peau, DS. <i>Exc. p. 15, 7, conj</i>.<p><b>Étym</b>. βαίτη, φέρω.`

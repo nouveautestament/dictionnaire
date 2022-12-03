@@ -1,1 +1,0 @@
-lar[27183]=`<b>διχ·ήρης, ης, ες</b> <font color="purple">[ῐ]</font> qui marque la division (du mois) en deux parties, <i>ép. de la lune,</i> EUR. <i>Ion 1156</i>.<p><b>Étym</b>. δίχα, ἀραρίσκω.`

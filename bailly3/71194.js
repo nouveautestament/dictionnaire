@@ -1,1 +1,0 @@
-lar[71194]=`<b>ὁλο·μελής, ής, ές</b>, qui a ses membres entiers, non entamé, DIPH. (ATH. <i>540b</i>, c).<p><b>Étym</b>. ὅλος, μέλος.`

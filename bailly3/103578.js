@@ -1,1 +1,0 @@
-lar[103578]=`<b>ης, ες</b>, morveux, visqueux, gluant, GAL. <i>18, 1, 363</i>.<p><b>Étym</b>. ὑπόμυξος, -ωδης.`

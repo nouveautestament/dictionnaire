@@ -1,1 +1,0 @@
-lar[83662]=`<b>προ·απολήγω</b>, cesser le premier <i>ou</i> auparavant, M. ANT. <i>3, 1</i>.`

@@ -1,1 +1,0 @@
-lar[93372]=`<b>συγ·καταστρέφω</b>, terminer en même temps, PLUT. <i>Dem. 3</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> aider à réduire (d’autres peuples) sous le même joug que soi-même, THC. <i>6, 69</i>.<br><b>      2</b> aider à renverser une domination, XÉN. <i>Cyr. 8, 1, 8</i>.`

@@ -1,1 +1,0 @@
-lar[64577]=`<b>μεσοτομέω-ῶ</b>, couper par le milieu <i>ou</i> par moitié, XÉN. <i>Œc. 18, 2</i> ; PLAT. <i>Pol. 265a</i>.<p><b>Étym</b>. μεσότομος.`

@@ -1,1 +1,0 @@
-lar[44643]=`<b>ζυγό·σταθμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> balance, PLUT. <i>M. 928b</i>.<p><b>Étym</b>. ζυγόν, σταθμός.`

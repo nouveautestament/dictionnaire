@@ -1,1 +1,0 @@
-lar[51519]=`<b>ου (τὸ)</b> <font color="purple">[ᾰρ]</font> petite coupe pour boire, PLUT. <i>M. 461e</i>.<p><b>Étym</b>. <i>dim. de</i> κάνθαρος.`

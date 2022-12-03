@@ -1,1 +1,0 @@
-lar[7842]=`<b>ἀν·αΰω</b> (<i>seul. ao. 3 sg</i>. ἀνήϋσε, A.RH. <i>4, 75, et 3 pl. dor</i>. ἀνάϋσαν <font color="purple">[νᾱ]</font> THCR. <i>Idyl. 4, 37</i>) s’écrier.<p><b>Étym</b>. ἀνά, ἀΰω.`

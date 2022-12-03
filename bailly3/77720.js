@@ -1,1 +1,0 @@
-lar[77720]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vers <i>ou</i> dans la pleine mer, A.RH. <i>4, 1133</i>.<p><b>Étym</b>. πέλαγος, -δε.`

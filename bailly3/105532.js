@@ -1,1 +1,0 @@
-lar[105532]=`<font color="purple">[ῐ]</font> <i>adv</i>., par amour de soi, avec égoïsme, LUC. <i>Am. 27</i> ; SEXT. <i>258, 16</i>.`

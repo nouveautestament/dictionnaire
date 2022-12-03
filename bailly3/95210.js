@@ -1,1 +1,0 @@
-lar[95210]=`<b>συν·δοξάζω :<br>      1</b> approuver ensemble, ARSTT. <i>Pol. 5, 9, 12</i>.<br><b>      2</b> convenir de, consentir à, PORPH. (STOB. <i>Fl. 1, 88</i>).<br><b>      3</b> glorifier ensemble, <i>au pass</i>. NT. <i>Rom. 8, 17</i>.`

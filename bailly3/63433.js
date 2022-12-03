@@ -1,1 +1,0 @@
-lar[63433]=`<b>μεγαλό·στηθος, ος, ον</b> <font color="purple">[ᾰ]</font> à large poitrine, MNÉSITH. (ORIB. <i>3, 24 B.-Dar</i>.).<p><b>Étym</b>. μ. στῆθος.`

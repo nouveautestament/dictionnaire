@@ -1,1 +1,0 @@
-lar[19353]=`<b>βατο·δρόπος, ος, ον</b> <font color="purple">[ᾰ]</font> qui arrache les ronces, HH. <i>Merc. 190</i>.<p><b>Étym</b>. βάτος¹, δρέπω.`

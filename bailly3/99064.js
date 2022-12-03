@@ -1,1 +1,0 @@
-lar[99064]=`<b>ή, όν</b> <font color="purple">[ᾰᾰῐ]</font> teint en vermillon, DAMASC. (PHOT. <i>Bibl. p. 1065</i>).`

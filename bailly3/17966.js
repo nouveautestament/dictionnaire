@@ -1,1 +1,0 @@
-lar[17966]=`<b>ἀφ·ερμηνεύω</b> (<i>seul. prés</i>.) interpréter, expliquer, PLAT. <i>Soph. 246e ; Leg. 660b</i>.`

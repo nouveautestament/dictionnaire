@@ -1,1 +1,0 @@
-lar[105556]=`<b>φιλ·επιστήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[φῐ]</font> qui aime la science, PHIL. <i>2, 374</i>.<p><b>Étym</b>. φ. ἐπιστήμη.`

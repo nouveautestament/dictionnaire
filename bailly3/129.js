@@ -1,1 +1,0 @@
-lar[129]=`<b>ἀ·βληχρός, ά, όν</b>, faible, sans défense, IL. <i>5, 337, etc.</i> ; ἀ. θάνατος, OD. <i>11, 135, etc</i>. mort douce, <i>en parl. d’un vieillard</i> ; κῶμα ἀ. A.RH. <i>2, 205,</i> sommeil languissant.<p><b>Étym</b>. <i>cf</i>. βληχρός.`

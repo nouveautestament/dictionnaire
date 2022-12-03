@@ -1,1 +1,0 @@
-lar[74904]=`<b>παν·δαισία, ας (ἡ)</b> repas complet où tout abonde, <i>ou</i> repas où ne manque personne, AR. <i>Pax 565</i> ; PLUT. <i>M. 1102a</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>5, 20</i>.<p><b>Étym</b>. π. δαίς.`

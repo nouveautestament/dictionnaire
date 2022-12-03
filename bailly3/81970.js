@@ -1,1 +1,0 @@
-lar[81970]=`<b>πολύ·καυλος, ος, ον</b> <font color="purple">[ῠ]</font> aux nombreuses tiges, TH. <i>H.P. 7, 2, 8</i>.<p><b>Étym</b>. π. καυλός.`

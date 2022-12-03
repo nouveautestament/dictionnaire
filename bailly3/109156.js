@@ -1,1 +1,0 @@
-lar[109156]=`<b>χρυσο·βάλανος, ου (ἡ)</b> <font color="purple">[ῡᾰᾰ]</font> noix muscade (<i>Chebule myrobalanus</i> L.) (<i>litt</i>. gland d’or) GAL.`

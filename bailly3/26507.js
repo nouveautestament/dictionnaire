@@ -1,1 +1,0 @@
-lar[26507]=`<b>δικαρπέω-ῶ</b> <font color="purple">[ῐ]</font> produire des fruits deux fois l’an, TH. <i>C.P. 1, 13, 9</i>.<p><b>Étym</b>. δίκαρπος.`

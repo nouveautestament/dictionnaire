@@ -1,1 +1,0 @@
-lar[97916]=`<b>ταχύ·πτερος, ος, ον</b> <font color="purple">[ᾰ]</font> aux ailes rapides, ESCHL. <i>Pr. 88</i>.<p><b>Étym</b>. τ. πτερόν.`

@@ -1,1 +1,0 @@
-lar[89141]=`<b>ου (ὁ)</b> sorte de poisson, GEOP. <i>20, 7, 1</i>.`

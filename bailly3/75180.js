@@ -1,1 +1,0 @@
-lar[75180]=`<b>παντα·εθνής, ής, ές</b>, de toute nation, APP. <i>2, 576 Schweigh</i>.<p><b>Étym</b>. π. ἔθνος.`

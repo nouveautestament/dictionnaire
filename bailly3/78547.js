@@ -1,1 +1,0 @@
-lar[78547]=`<b>περι·δρύπτω</b>, déchirer tout autour, ANTH. <i>9, 706 ; au pass</i>. IL. <i>23, 395</i> ; PHIL. <i>1, 311</i>.`

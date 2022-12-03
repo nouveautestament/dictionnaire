@@ -1,1 +1,0 @@
-lar[90390]=`<i>acc</i>. <b>υν (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. σίνηπυ NIC. <i>Al. 533</i>.`

@@ -1,1 +1,0 @@
-lar[82380]=`<b>πολυ·σπιλάς, άδος</b> <font color="purple">[ῐᾰδ]</font> <i>adj. f</i>. aux pics nombreux, DIONYS. (E. BYZ. <i>v°</i> Ἡραία).<p><b>Étym</b>. π. σπιλάς.`

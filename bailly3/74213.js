@@ -1,1 +1,0 @@
-lar[74213]=`<b>παιανο·γράφος, ος, ον</b> <font color="purple">[ᾱνᾰφ]</font> qui écrit <i>ou</i> compose des péans, APOLL. PAR. <i>Hist. mir. 199, 33</i>.<p><b>Étym</b>. παιάν, γράφω.`

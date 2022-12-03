@@ -1,1 +1,0 @@
-lar[73283]=`<b>ὀστίτης μυελός (ὁ)</b> moelle des os, RUF. <i>p. 43 Clinch</i>.<p><b>Étym</b>. ὀστέον.`

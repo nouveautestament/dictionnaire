@@ -1,1 +1,0 @@
-lar[50913]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> méchanceté, mauvais dessein, SPT. <i>Prov. 16, 18</i>.<br><b>      2</b> folie, imprudence, OPP. <i>H. 3, 363</i>.<p><b>Étym</b>. κακόφρων.`

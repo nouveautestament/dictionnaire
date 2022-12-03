@@ -1,1 +1,0 @@
-lar[102590]=`<b>ὑπερ·καχλάζω</b>, s’échapper <i>ou</i> déborder en bouillonnant, LUC. <i>D. mar. 11, 2</i> ; PHILSTR. <i>Im. 11</i>.`

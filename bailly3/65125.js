@@ -1,1 +1,0 @@
-lar[65125]=`<b>μετ·εύχομαι</b>, former d’autres souhaits, EUR. <i>Med. 600</i>.`

@@ -1,1 +1,0 @@
-lar[21424]=`<b>ιδος</b> <font color="purple">[ῐδ]</font><br><b>   I</b> <i>adj</i>. (ὁ, ἡ) :<br><b>      1</b> ventru, EL. <i>N.A. 14, 26</i>.<br><b>      2</b> gourmand, glouton, AR. <i>Av. 1604 ; Th. 816</i>.<br><b>   II</b> <i>subst</i>. ὁ γ. sorte de gâteau, CHRYSIPP. (ATH. <i>647f</i>).<p>•<i> Cp</i>. γαστρίστερος, PLAT. COM. (POLL. <i>2, 175).</i><p><b>Étym</b>. γαστήρ.`

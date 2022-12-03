@@ -1,1 +1,0 @@
-lar[197]=`<b>ἀβροτονίτης οἶνος (ὁ)</b> vin aromatisé d’aurone, DIOSC. <i>5, 62</i>.<p><b>Étym</b>. ἀβρότονον.`

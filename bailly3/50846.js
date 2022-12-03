@@ -1,1 +1,0 @@
-lar[50846]=`<b>κακό·ρρυθμος, ος, ον</b> <font color="purple">[ᾰ]</font> mal rythmé, mal cadencé, GAL. <i>2, 258</i>.<p><b>Étym</b>. κ. ῥυθμός.`

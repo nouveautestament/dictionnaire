@@ -1,1 +1,0 @@
-lar[42926]=`<b>εὐ·παραίτητος, ος, ον</b>, facile à apaiser, PLUT. <i>Phoc. 29, Dio. 47</i>.<p><b>Étym</b>. εὖ, παραιτέω.`

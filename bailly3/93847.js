@@ -1,1 +1,0 @@
-lar[93847]=`<b>εως (ἡ)</b> vie en commun, camaraderie, intimité, POL. <i>5, 81, 2</i> ; CIC. <i>Att. 13, 23</i> ; μετά τινος, POL. <i>32, 11, 10</i> ; DS. <i>1, 62 ; 4, 54 ; Exc. p. 571, 27,</i> avec qqn.<p><b>Étym</b>. συμβιόω.`

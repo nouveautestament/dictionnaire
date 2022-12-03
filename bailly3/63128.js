@@ -1,1 +1,0 @@
-lar[63128]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰλῐδ]</font> aisselle des feuilles d’une plante, <i>jeune branche partant de l’aisselle,</i> TH. <i>H.P. 3, 7, 5</i> ; CTÉS. <i>Ind. 28</i>.<p><b>Étym</b>. μασχάλη.`

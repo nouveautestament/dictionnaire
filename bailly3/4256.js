@@ -1,1 +1,0 @@
-lar[4256]=`<b>(ὁ)</b> <i>seul. voc</i>. -άδα, le fils d’Alexibios, PD. <i>P. 5, 59</i>.<p><b>Étym</b>. ἀλέξω, βία.`

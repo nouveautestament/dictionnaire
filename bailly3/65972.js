@@ -1,1 +1,0 @@
-lar[65972]=`<b>*μισ·ηδονία</b>, <i>dor</i>. <b>μισ·αδονία, ας (ἡ)</b> <font color="purple">[ῑᾱδ]</font> haine du plaisir, THÉAGÈS (STOB. <i>Fl. 1, 67).</i><p><b>Étym</b>. μισέω, ἡδονή.`

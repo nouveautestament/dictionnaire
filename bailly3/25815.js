@@ -1,1 +1,0 @@
-lar[25815]=`<b>διαυλοδρομέω-ῶ</b>, revenir sur ses pas, ARSTT. <i>G.A. 2, 5, 11</i> ; PHIL. <i>2, 291</i>.`

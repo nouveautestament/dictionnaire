@@ -1,1 +1,0 @@
-lar[91711]=`<b>ακος</b> (ἡ, <i>postér</i>. ὁ) <font color="purple">[ᾰᾰκ]</font> taupe, ARSTT. <i>An. 3, 1, 5 (fém</i>.) ; EL. <i>N.A. 11, 37</i> ; CLÉM. <i>71</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. ἀσπάλαξ.`

@@ -1,1 +1,0 @@
-lar[8954]=`<b>ἀνθρωποκτονέω-ῶ</b>, tuer un homme <i>ou</i> des hommes, EUR. <i>Hec. 260</i> ; NAZ. <i>1, 897 Migne</i>.<p><b>Étym</b>. ἀνθρωποκτόνος.`

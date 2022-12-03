@@ -1,1 +1,0 @@
-lar[44766]=`<b>ας (ἡ)</b> génération d’êtres vivants, TH. <i>C.P. 5, 18, 2</i>.<p><b>Étym</b>. ζωοποιός.`

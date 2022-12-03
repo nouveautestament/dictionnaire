@@ -1,1 +1,0 @@
-lar[37135]=`<b>ἐπ·έξοδος, ου (ἡ) :<br>      1</b> action de marcher à l’ennemi, THC. <i>5, 8 ; particul</i>. sortie, DC. <i>39, 4, 4</i>.<br><b>      2</b> vengeance, châtiment, PHIL. <i>2, 314</i>.<p><b>Étym</b>. ἐπί, ἔξοδος.`

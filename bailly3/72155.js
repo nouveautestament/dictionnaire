@@ -1,1 +1,0 @@
-lar[72155]=`<b>ὀξυρεγμιάω-ῶ</b> <font color="purple">[ῠ]</font> <i>ou mieux</i> <b>ὀξυρρεγμιάω-ῶ</b>, avoir des rapports aigres, des aigreurs d’estomac, DIOSC. <i>3, 35, etc</i>.<p><b>Étym</b>. ὀξυρεγμία.`

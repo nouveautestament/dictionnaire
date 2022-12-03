@@ -1,1 +1,0 @@
-lar[36657]=`<b>ἐπ·ανατρέπω :<br>      1</b> bouleverser, renverser, HDN <i>3, 8</i>.<br><b>      2 <i>intr.</i></b> revenir à, <i>avec</i> εἰς <i>et l’acc</i>. CRAT. <i>fr. 181 conj</i>.`

@@ -1,1 +1,0 @@
-lar[13699]=`<b>ἀπ·ουρίζω</b> (<i>seul. f. 3 pl</i>. -ουρίσσουσιν) <i>ion. c</i>. ἀφορίζω, déplacer les bornes (d’un champ), <i>càd</i>. empiéter sur, usurper, IL. <i>22, 489</i>.<p><b>Étym</b>. <i>sel. d’autres, var</i>. ἀπουρήσουσι = ἀπαυρήσουσι, <i>v</i>. ἀπαυράω.`

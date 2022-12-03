@@ -1,1 +1,0 @@
-lar[88302]=`<i>att</i>. <b>ῥάττω</b> <font color="darkgreen">(<i>f</i>. ῥάξω, <i>ao</i>. ἔρραξα, <i>pf. pass</i>. ἔρραγμαι)</font> heurter, frapper, battre, <i>acc</i>. SPT. <i>Esaï. 9, 11 ; d’où</i> bousculer, jeter en bousculant <i>avec εἰς et l’acc</i>. DÉM. <i>1259, 11</i>.<p><b>Étym</b>. <i>incert</i>.`

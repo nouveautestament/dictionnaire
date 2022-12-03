@@ -1,1 +1,0 @@
-lar[23715]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> bureau de perception de la dîme, XÉN. <i>Hell. 1, 1, 22</i>.<p><b>Étym</b>. δεκατεύω.`

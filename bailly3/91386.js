@@ -1,1 +1,0 @@
-lar[91386]=`<b>σκυφο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> en forme de coupe, ATH. <i>499a</i>.<p><b>Étym</b>. σκ. εἶδος.`

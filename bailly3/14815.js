@@ -1,1 +1,0 @@
-lar[14815]=`<b>ου (ὁ, ἡ)</b> ours, ourse, EL. <i>N.A. 1, 31</i> ; SPT. <i>1Reg. 17, 35, etc. ; cf</i>. ἄρκτος.`

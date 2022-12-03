@@ -1,1 +1,0 @@
-lar[72421]=`<b>ὁπου·οῦν</b>, <i>adv</i>., en quelque lieu que ce soit, PLAT. <i>Crat. 403c</i>.<p><b>Étym</b>. ὅπου, οὖν.`

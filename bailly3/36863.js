@@ -1,1 +1,0 @@
-lar[36863]=`<b>ἐπ·αυχένιος, ος, ον</b>, qui étreint le cou <i>ou</i> la gorge, PD. <i>P. 2, 93 ; en parl. d’une esquinancie,</i> ANTH. <i>6, 34</i>.<p><b>Étym</b>. ἐπί, αὐχήν.`

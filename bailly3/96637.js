@@ -1,1 +1,0 @@
-lar[96637]=`<b>συσ·σείω :<br>      1</b> ébranler de fond en comble, POLYEN <i>6, 3</i> ; GEOP. <i>11, 17, 4 ; au pass</i>. ARSTT. <i>Probl. 37, 6</i>.<br><b>      2</b> faire trembler, SPT. <i>Ps. 28, 7</i>.<br><b>      3</b> faire chanceler : τινά, XÉNARQ. (ATH. <i>693c</i>) rendre qqn vacillant, <i>en parl. de l’ivresse</i>.`

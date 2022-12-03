@@ -1,1 +1,0 @@
-lar[23599]=`<b>ου (τὸ)</b> petit souper, collation, AR. <i>fr. 407</i>.<p><b>Étym</b>. <i>dim. de</i> δεῖπνον.`

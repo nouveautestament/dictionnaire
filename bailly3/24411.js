@@ -1,1 +1,0 @@
-lar[24411]=`<b>ή, όν</b> <font color="purple">[βᾰ]</font><br><b>      1</b> capable de franchir (les hauteurs) <i>en parl. d’un esprit élevé ou pénétrant,</i> NAZ. <i>1, 147</i>.<br><b>      2</b> transitif, <i>en parl. des verbes,</i> DYSC. <i>Synt. 48 ; Pron. 315c, 406b</i>.<p><b>Étym</b>. διαβατός.`

@@ -1,1 +1,0 @@
-lar[62413]=`<b>ων (τὰ)</b> Macalles, <i>v. d’Italie,</i> LYC. <i>927</i>.`

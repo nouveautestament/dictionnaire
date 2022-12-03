@@ -1,1 +1,0 @@
-lar[52305]=`<b>ου (ὁ) :<br>      1</b> lien, THPP. COM. <i>2, 807</i>.<br><b>      2</b> <i>particul</i>. lien magique, <i>càd</i>. charme que l’on fait au moyen d’un nœud, PLAT. <i>Rsp. 364c ;</i> ARTÉM. <i>1, 77</i> ; SYN. <i>p. 257</i>.<p><b>Étym</b>. καταδέω¹.`

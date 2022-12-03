@@ -1,1 +1,0 @@
-lar[55789]=`<b>ῆρος</b>, <i>adj. m</i>. qui pleure, qui déplore, MAN. <i>4, 192</i>.<p><b>Étym</b>. κλαίω.`

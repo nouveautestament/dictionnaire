@@ -1,1 +1,0 @@
-lar[37129]=`<b>ἐπ·εξηγέομαι-οῦμαι</b>, exposer <i>ou</i> expliquer en détail, PLUT. <i>Artax. 8</i> ; CLÉM. <i>1, 916a Migne</i>.`

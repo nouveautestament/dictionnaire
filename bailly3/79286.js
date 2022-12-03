@@ -1,1 +1,0 @@
-lar[79286]=`<b>περι·σμήχω</b>, frotter <i>ou</i> essuyer tout autour, DIOSC. <i>3, 52</i>.`

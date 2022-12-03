@@ -1,1 +1,0 @@
-lar[37843]=`<b>ατος (τὸ)</b> <font color="purple">[ῡᾱμ]</font> parfum qu’on brûle, SOPH. <i>O.R. 913</i>.<p><b>Étym</b>. ἐπιθυμιάω.`

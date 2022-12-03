@@ -1,1 +1,0 @@
-lar[48315]=`<b>Ἰατρο·κλῆς, έους (ὁ)</b> <font color="purple">[ῑᾱ]</font> Iatroklès, <i>h</i>. DÉM. <i>402, 22, etc</i>.<p><b>Étym</b>. ἰατρός, κλέος.`

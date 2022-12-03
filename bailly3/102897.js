@@ -1,1 +1,0 @@
-lar[102897]=`<b>ὑπερ·χειρία, ας</b>, <i>adj. f</i>. qui étend les mains sur, qui protège, <i>ép. de Hèra en Laconie,</i> PAUS. <i>3, 13, 8</i>.<p><b>Étym</b>. ὑ. χείρ.`

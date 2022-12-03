@@ -1,1 +1,0 @@
-lar[18423]=`<b>ἀ·χειρο·γεώργητος, ος, ον</b>, qu’on n’a pas produit en labourant le sol de ses mains, <i>en parl. de la manne céleste,</i> CHRYS.<p><b>Étym</b>. ἀ, χείρ, γεωργέω.`

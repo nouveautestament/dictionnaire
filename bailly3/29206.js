@@ -1,1 +1,0 @@
-lar[29206]=`<b>δωσί·δικος, ος, ον</b> <font color="purple">[ῐῐ]</font> qui s’en remet à la justice, <i>p. opp. à</i> celui qui se fait justice lui-même, HDT. <i>6, 42</i> ; POL. <i>4, 4, 3</i>.<p><b>Étym</b>. δίδωμι, δίκη.`

@@ -1,1 +1,0 @@
-lar[2111]=`<b>υος (ὁ)</b> Athrys (<i>auj</i>. Yantra) <i>fl. de Thrace, affl. de l’Ister,</i> HDT. <i>4, 49</i>.`

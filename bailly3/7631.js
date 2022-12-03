@@ -1,1 +1,0 @@
-lar[7631]=`<b>ἀνα·σκολοπίζω</b>, empaler, HDT. <i>1, 128, etc.</i> ; LUC. <i>Prom. 7, etc</i>.<p>➳ <i>Fut. moy. au sens pass. inf</i>. -ιεῖσθαι, HDT. <i>3, 132 ; 4, 43</i>.`

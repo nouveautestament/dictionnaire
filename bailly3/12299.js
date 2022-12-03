@@ -1,1 +1,0 @@
-lar[12299]=`<b>ἀπο·δικάζω</b> <font color="purple">[ῐ]</font> acquitter (<i>p. opp. à</i> καταδικάζω) ANT. <i>147, 5</i> ; ARSTT. <i>Pol. 2, 8, 15</i> ; CRITIAS (POLL. <i>8, 25</i>).`

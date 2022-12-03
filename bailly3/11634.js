@@ -1,1 +1,0 @@
-lar[11634]=`<b>ῆς (ἡ)</b> action de rejeter en choisissant, SEXT. <i>715</i> ; CLÉM. <i>631</i>.<p><b>Étym</b>. ἀπεκλέγω.`

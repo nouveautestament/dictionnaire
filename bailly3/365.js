@@ -1,1 +1,0 @@
-lar[365]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Agapôménos, <i>litt</i>. « aimé », <i>h</i>. ANTH. <i>App. 315</i>.<p><b>Étym</b>. ἀγαπάω.`

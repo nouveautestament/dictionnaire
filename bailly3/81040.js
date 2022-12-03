@@ -1,1 +1,0 @@
-lar[81040]=`<b>πλησι·φαής, ής, ές</b> <font color="purple">[ῐ]</font> qui brille dans son plein, <i>en parl. de la lune,</i> MAN. <i>1, 208</i> ; NONN. <i>D. 41, 258</i>.<p><b>Étym</b>. πλήθω, φάος.`

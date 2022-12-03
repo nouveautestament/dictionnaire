@@ -1,1 +1,0 @@
-lar[44721]=`<b>ζωμ·ήρυσις, εως (ἡ)</b> <font color="purple">[ῠ]</font> cuiller à potage, COM. (ATH. <i>126d</i>) ; ANTH. <i>6, 101</i>.<p><b>Étym</b>. ζωμός, ἀρύω¹.`

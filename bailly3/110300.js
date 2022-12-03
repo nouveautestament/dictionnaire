@@ -1,1 +1,0 @@
-lar[110300]=`<b>ὠμο·φορέω-ῶ</b> porter sur les épaules, JOS. <i>A.J. 3, 7, 2, etc</i>.<p><b>Étym</b>. ὦμος, φορέω.`

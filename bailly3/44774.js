@@ -1,1 +1,0 @@
-lar[44774]=`<b>ζῳοτροφέω-ῶ :<br>      1</b> nourrir <i>ou</i> entretenir des animaux, PHIL. <i>2, 233</i>.<br><b>      2</b> faire l’élevage des bestiaux, TH. <i>C.P. 2, 17, 8</i>.<p><b>Étym</b>. ζῳοτρόφος.`

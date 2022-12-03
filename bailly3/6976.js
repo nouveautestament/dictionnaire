@@ -1,1 +1,0 @@
-lar[6976]=`<b>ος, ον</b> <font color="purple">[ᾰκ]</font> <i>c</i>. ἀνακόλουθος, DH. <i>6, 937 Reiske</i>.<p><b>Étym</b>. ἀνακολουθέω.`

@@ -1,1 +1,0 @@
-lar[3773]=`<b>ἀκρο·θιγής, ής, ές</b> <font color="purple">[ῐ]</font> qui touche la surface, qui effleure, ANTH. <i>12, 68</i>.<p><b>Étym</b>. ἄ. θιγεῖν.`

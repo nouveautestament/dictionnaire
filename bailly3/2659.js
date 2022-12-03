@@ -1,1 +1,0 @@
-lar[2659]=`<b>ης (ἡ)</b> Ænètè, <i>femme d’Énée,</i> A.RH. <i>1, 950</i> ; ORPH. <i>Arg. 506</i>.`

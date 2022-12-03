@@ -1,1 +1,0 @@
-lar[9341]=`<b>ἀ·νόστητος, ος, ον :<br>      1</b> qui ne revient pas, ORPH. <i>Arg. 1, 1268</i>.<br><b>      2</b> d’où l’on ne revient pas, ANTH. <i>7, 467</i> ; OPP. <i>H. 3, 586</i>.<p><b>Étym</b>. ἀ, νοστέω.`

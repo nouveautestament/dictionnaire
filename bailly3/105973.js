@@ -1,1 +1,0 @@
-lar[105973]=`<b>(ὁ)</b> <font color="purple">[ῐῐ]</font> Philoxénidès, <i>h</i>. CALL. <i>Ep. 57</i> ; ANTH. <i>6, 99</i>.<p><b>Étym</b>. <i>patr. de</i> Φιλόξενος.`

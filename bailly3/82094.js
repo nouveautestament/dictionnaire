@@ -1,1 +1,0 @@
-lar[82094]=`<b>*πολυ·μεθής</b>, <i>poét</i>. <b>πουλυ·μεθής, ής, ές</b>, qui boit beaucoup de vin, ANTH. <i>11, 45</i>.<p><b>Étym</b>. π. μέθη.`

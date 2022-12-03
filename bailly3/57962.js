@@ -1,1 +1,0 @@
-lar[57962]=`<font color="purple">[ῐσ]</font> <i>adv</i>., d’une manière décisive, en état de crise, HPC. <i>80f, etc</i>.`

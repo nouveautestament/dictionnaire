@@ -1,1 +1,0 @@
-lar[86103]=`<b>προσ·λείπω</b> (<i>seul. part. prés. neutre impers</i>.) τὸ προσλεῖπον, ce qui manque, lacune, ARSTT. <i>Pol. 7, 17, 15</i>.`

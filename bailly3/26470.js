@@ -1,1 +1,0 @@
-lar[26470]=`<b>δικαιο·κρίτης, ου (ὁ)</b> <font color="purple">[ῐρῐ]</font> juge équitable, SPT. <i>2Macc. 14, 41 ; Esth. 8, 13</i> ; SIB. <i>3, 704</i>.<p><b>Étym</b>. δ. κριτής.`

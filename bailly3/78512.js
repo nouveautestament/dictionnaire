@@ -1,1 +1,0 @@
-lar[78512]=`<b>περί·δειπνον, ου (τὸ)</b> repas funéraire, DÉM. <i>321, 25</i> ; MÉN. <i>4, 179 Meineke etc</i>.<p><b>Étym</b>. π. δεῖπνον.`

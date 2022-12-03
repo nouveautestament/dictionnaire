@@ -1,1 +1,0 @@
-lar[82004]=`<b>πολυ·κλινής</b>, <i>épq</i>. <b>πουλυ·κλινής, ής, ές</b> <font color="purple">[ῐ]</font> qui couche avec beaucoup de personnes, MAN. <i>3, 332</i>.<p><b>Étym</b>. π. κλίνω.`

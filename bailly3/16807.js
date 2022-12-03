@@ -1,1 +1,0 @@
-lar[16807]=`<b>ἀτιμ·αγέλης, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> qui abandonne le troupeau par dédain, qui paît solitaire, SOPH. <i>fr. 850</i> ; THCR. <i>Idyl. 25, 132</i> ; ANTH. <i>6, 255</i>.<p><b>Étym</b>. ἄτιμος, ἀγέλη.`

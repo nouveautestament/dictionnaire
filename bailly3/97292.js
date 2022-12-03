@@ -1,1 +1,0 @@
-lar[97292]=`<b>Σω·φάνης, ους (ὁ)</b> Sôphanès, <i>général athénien,</i> HDT. <i>6, 92 ; 9, 73, etc. ; au plur</i>. Σωφάναι, PLUT. <i>Arist. c. Cat. ma. 2,</i> des généraux comme Sôphanès.<p>➳ <i>Gén. ion</i>. -εος, HDT. <i>6, 92 ; acc. ion</i>. -εα, HDT. <i>9, 75</i>.<p><b>Étym</b>. σῶς, φαίνω.`

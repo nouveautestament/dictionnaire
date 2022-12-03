@@ -1,1 +1,0 @@
-lar[31975]=`<b>ἐκ·πυΐσκω</b> <font color="purple">[ῡ]</font> faire suppurer, <i>d’où au pass</i>. suppurer, HPC. <i>Progn. 41, 41 ; 44, 53</i>.<p><b>Étym</b>. ἐκπυέω.`

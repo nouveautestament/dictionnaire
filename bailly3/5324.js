@@ -1,1 +1,0 @@
-lar[5324]=`<i>adv.</i> :<br><b>      1</b> faiblement, JOS. <i>A.J. 19, 2, 5</i>.<br><b>      2</b> obscurément, ARCHIG. (ORIB. <i>2, 157 B.-Dar</i>.).<p>•<i> Cp</i>. ἀμβλυτέρως, JOS. <i>l. c. ; ou</i> ἀμβλύτερον, PLAT. <i>Pol. 273b</i>.<p><b>Étym</b>. ἀμβλύς.`

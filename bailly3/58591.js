@@ -1,1 +1,0 @@
-lar[58591]=`<b>α, ον</b>, de Kyknos, <i>fils d’Arès,</i> PD. <i>O. 10, 19</i>.`

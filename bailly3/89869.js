@@ -1,1 +1,0 @@
-lar[89869]=`<b>ου (ὁ)</b> = <i>lat</i>. Sertōrius, <i>n. d’h. rom</i>. PLUT. <i>Sert. 2, etc. ; Mar. 1, etc</i>.`

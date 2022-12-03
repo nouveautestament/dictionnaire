@@ -1,1 +1,0 @@
-lar[44909]=`<b>Ἡγέ·στρατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Hègestratos, <i>h</i>. DÉM. <i>883</i> ; PHÆNIAS (PLUT. <i>Sol. 32).</i><p><b>Étym</b>. ἡγέομαι, στρατός.`

@@ -1,1 +1,0 @@
-lar[44926]=`<b>εως (ἡ)</b> conduite, direction, SPT. <i>1Macc. 9, 31</i>.<p><b>Étym</b>. ἡγέομαι.`

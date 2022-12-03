@@ -1,1 +1,0 @@
-lar[92241]=`<b>σταχυο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à un épi, DIOSC. <i>4, 15</i>.<p><b>Étym</b>. στ. εἶδος.`

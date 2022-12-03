@@ -1,1 +1,0 @@
-lar[17170]=`<font color="darkgreen">(<i>seul. prés. act. et pf. pass. poét</i>. αὐλακισμένος)</font> tracer des sillons (dans la terre), PRATIN. (ATH. <i>461e</i>) ; <i>fig</i>. sillonner (ses joues de larmes, <i>etc</i>.) EUM. <i>213</i>.<p><b>Étym</b>. αὖλαξ.`

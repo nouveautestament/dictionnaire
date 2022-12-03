@@ -1,1 +1,0 @@
-lar[40760]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> rougeur de la peau, du visage, HPC. <i>Aph. 1260</i> ; EUR. <i>Ph. 1488</i> ; XÉN. <i>Cyn. 6, 18</i> ; PLUT. <i>M. 154b.</i><br><b>      2</b> rougeur maladive, inflammation, HPC. <i>397, 7</i> ; THC. <i>2, 49</i>.<p><b>Étym</b>. ἐρυθαίνω.`

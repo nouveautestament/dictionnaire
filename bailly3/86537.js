@@ -1,1 +1,0 @@
-lar[86537]=`<b>προ·συμπάσσω</b>, saupoudrer toute la surface auparavant, AGATHIN. (ORIB. <i>2, 400 B.-Dar</i>.).`

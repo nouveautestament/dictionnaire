@@ -1,1 +1,0 @@
-lar[52120]=`<b>κατα·βαρύνω</b> <font color="purple">[βᾰ]</font> surcharger, accabler sous le poids, TH. <i>fr. 8, 9</i> ; SPT. <i>Joel 2, 8, etc. ; fig</i>. ANTIPAT. (STOB. <i>Fl. 67, 25</i>).`

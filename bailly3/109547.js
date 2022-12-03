@@ -1,1 +1,0 @@
-lar[109547]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰῡῐδ]</font> les Psalykhides, <i>famille d’Égine,</i> PD. <i>I. 5, 63</i>.`

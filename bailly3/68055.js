@@ -1,1 +1,0 @@
-lar[68055]=`<b>ων (τὰ)</b> <font color="purple">[ῡ]</font> sacrifices aux mânes des morts, ARTÉM. <i>4, 83</i>.<p><b>Étym</b>. νέκυς.`

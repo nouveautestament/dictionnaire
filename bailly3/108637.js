@@ -1,1 +1,0 @@
-lar[108637]=`manger avec plaisir <i>ou</i> avidement, EPICH. (ATH. <i>309f</i>) ; EUR. <i>Cycl. 358 ; particul</i>. croquer des friandises, EUB. (ATH. <i>65d</i>).<p><b>Étym</b>. <i>cf</i>. κνάω.`

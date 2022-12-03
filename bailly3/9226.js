@@ -1,1 +1,0 @@
-lar[9226]=`<b>ἀν·οιμώζω</b> <font color="darkgreen">(<i>ao</i>. ἀνῴμωξα)</font> éclater en gémissements, ESCHL. <i>Pers. 465</i> ; THC. <i>3, 13, etc</i>.<p>➳ <i>Impf. itér. 3 sg</i>. ἀνοιμώζεσκε, Q. SM. <i>14, 281</i>.<p><b>Étym</b>. ἀνά, οἰ.`

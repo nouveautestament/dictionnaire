@@ -1,1 +1,0 @@
-lar[2500]=`<b>ῶν (οἱ)</b> les Èques, <i>pple du Latium,</i> PLUT. <i>Cam. 2, 33, etc</i>.`

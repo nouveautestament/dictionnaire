@@ -1,1 +1,0 @@
-lar[21535]=`<b>γεισί·πους</b> <i>ou</i> <b>γεισή·πους, -ποδος (ὁ)</b> entablement au bord d’un toit, LEX.<p>➳ <i>Inscr. att</i>. γεισήπ-, CIA. <i>2, 167, 51 (peu après 307 av. J.-C.)</i>.<p><b>Étym</b>. γεῖσον, πούς.`

@@ -1,1 +1,0 @@
-lar[34631]=`<i>adv.</i> :<br><b>      1</b> d’une manière une, NAZ. <i>2, 417b Migne</i>.<br><b>      2</b> <i>t. de gramm</i>. au singulier, E. BYZ. <i>v°</i> Ἄγρα.`

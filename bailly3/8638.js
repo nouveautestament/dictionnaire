@@ -1,1 +1,0 @@
-lar[8638]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀνεψιαδοῦς JAMBL. <i>Protr. 364</i>.`

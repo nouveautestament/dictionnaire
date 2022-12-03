@@ -1,1 +1,0 @@
-lar[70702]=`<b>οἰστρέω-ῶ</b>, <i>c</i>. οἰστράω.<p>➳ <i>Act. seul. prés</i>. A. TAT. <i>2, 37 ; fut</i>. οἰστρήσω, THÉODORID. (ATH. <i>302c</i>) ; GEOP. <i>17, 2 ; pass. seul. prés. inf</i>. EL. <i>N.A. 15, 9</i>.`

@@ -1,1 +1,0 @@
-lar[70498]=`<b>οἰν·ήρυσις, εως (ἡ)</b> <font color="purple">[ῠ]</font> vase pour puiser du vin, AR. <i>Ach. 1067</i>.<p><b>Étym</b>. οἶν. ἀρύω¹.`

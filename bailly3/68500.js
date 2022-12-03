@@ -1,1 +1,0 @@
-lar[68500]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> une Naïade, A.RH. <i>1, 626 ; 4, 543, etc</i>.<p>➳ <i>Dat. pl. épq</i>. Νηϊάδεσσι, ORPH. <i>Lith. 679</i> ; OD. <i>13, 104, 348</i>.`

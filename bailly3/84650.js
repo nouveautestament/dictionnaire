@@ -1,1 +1,0 @@
-lar[84650]=`<b>ατος (τὸ)</b> ce qu’on prend par anticipation, <i>d’où</i> prérogative, privilège, POL. <i>17, 10, 3</i>.<p><b>Étym</b>. προλαμβάνω.`

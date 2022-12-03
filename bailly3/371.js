@@ -1,1 +1,0 @@
-lar[371]=`<b>ή, όν</b> <font color="purple">[ᾰγ]</font> d’Agarrhes, <i>v. de Susiane,</i> ANTH. <i>9, 430</i> (Ἄγαρρα, PTOL.).`

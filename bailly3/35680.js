@@ -1,1 +1,0 @@
-lar[35680]=`<b>ἑξά·χειρ, -χειρος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> à six mains, LUC. <i>Tox. 62</i>.<p><b>Étym</b>. ἕξ, χείρ.`

@@ -1,1 +1,0 @@
-lar[10145]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire d’Antioche, POL. <i>5, 59</i>.`

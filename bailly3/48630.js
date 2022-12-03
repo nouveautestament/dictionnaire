@@ -1,1 +1,0 @@
-lar[48630]=`<b>ἱερο·στάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui préside à un sacrifice, SPT. <i>1Esdr. 7, 2</i>.<p><b>Étym</b>. ἱ. ἵστημι.`

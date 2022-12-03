@@ -1,1 +1,0 @@
-lar[24148]=`<b>ή, όν</b>, de Dèlos, THC. <i>3, 104</i> ; PLUT. DH. <i>etc</i>.<p><b>Étym</b>. Δῆλος.`

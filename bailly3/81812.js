@@ -1,1 +1,0 @@
-lar[81812]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> action d’écrire beaucoup <i>ou</i> sur beaucoup de sujets, DL. <i>10, 26</i>.<p><b>Étym</b>. πολυγράφος.`

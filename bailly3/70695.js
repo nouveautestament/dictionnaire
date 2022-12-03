@@ -1,1 +1,0 @@
-lar[70695]=`<b>ὀϊστο·δέγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui renferme les traits, ESCHL. <i>Pers. 1020</i>.<p><b>Étym</b>. ὀϊστός, δέχομαι.`

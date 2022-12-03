@@ -1,1 +1,0 @@
-lar[71670]=`<b>ὁμό·ρρητος, ος, ον</b>, dit ensemble, <i>càd</i>. avec un sentiment d’union, NONN. <i>Jo. 1, 46</i>.<p><b>Étym</b>. ὁμ. ῥητός.`

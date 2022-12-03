@@ -1,1 +1,0 @@
-lar[76941]=`<b>ων (οἱ)</b> les Parikanies :<br><b>      1</b> <i>pple voisin des Mèdes,</i> HDT. <i>3, 92, 94</i>.<br><b>      2</b> <i>pple de Colchide,</i> HDT. <i>7, 86</i>.`

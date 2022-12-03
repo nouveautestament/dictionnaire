@@ -1,1 +1,0 @@
-lar[102032]=`<font color="purple">[ῠᾰ]</font> être consul, PLUT. <i>Popl. 3, etc.</i> ; ATH. <i>213b ;</i> HDN <i>2, 6</i>.<p><b>Étym</b>. ὕπατος.`

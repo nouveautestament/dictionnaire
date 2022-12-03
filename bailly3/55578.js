@@ -1,1 +1,0 @@
-lar[55578]=`<b>ά, όν</b>, jaunâtre, NIC. <i>Al. 44</i> ; κ. οἶνος, HPC. <i>392, 42</i> ; GAL. <i>6, 804</i> ; MNÉSITH. (ATH. <i>32d</i>) vin jaunâtre, <i>càd</i>. vin blanc.`

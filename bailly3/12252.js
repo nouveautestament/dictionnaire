@@ -1,1 +1,0 @@
-lar[12252]=`<b>ῆρος (ὁ)</b> receveur, percepteur, XÉN. <i>Cyr. 8, 1, 9</i> ; ARSTT. <i>Mund. 6, 10</i>.<p><b>Étym</b>. ἀποδέχομαι.`

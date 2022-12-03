@@ -1,1 +1,0 @@
-lar[58895]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> souchet long, <i>plante,</i> IL. <i>21, 351</i> ; OD. <i>4, 603</i> ; TH. <i>H.P. 4, 10, 5, etc</i>.<p><b>Étym</b>. <i>cf</i>. κύπειρος.`

@@ -1,1 +1,0 @@
-lar[70972]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> <i>c</i>. ὀλιγανδρία, THC. <i>1, 11 ; 3, 93</i> ; XÉN. <i>Mem. 2, 7, 2 ; au pl</i>. PLAT. <i>Leg. 780b</i>.<p><b>Étym</b>. ὀλιγάνθρωπος.`

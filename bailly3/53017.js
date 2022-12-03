@@ -1,1 +1,0 @@
-lar[53017]=`<b>κατα·πείθω</b>, persuader, déterminer, LUC. <i>Charid. 16</i> ; SPT. <i>2Reg. 17, 16</i>.`

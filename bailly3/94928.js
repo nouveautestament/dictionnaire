@@ -1,1 +1,0 @@
-lar[94928]=`<b>συν·αποτροχάζω</b>, s’enfuir ensemble en courant, GRAMM. <i>p. 427, 30 Bekker, Anecdota græca</i>.`

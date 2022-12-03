@@ -1,1 +1,0 @@
-lar[77174]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. παρυφή ORIB. <i>65 Cocch</i>.`

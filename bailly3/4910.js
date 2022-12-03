@@ -1,1 +1,0 @@
-lar[4910]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> qui broie, NONN. <i>D. 17, 237</i> ; ἀλοιητῆρες ὀδόντες, ANTH. <i>11, 379,</i> dents molaires (<i>litt</i>. qui broient).<p><b>Étym</b>. ἀλοιάω.`

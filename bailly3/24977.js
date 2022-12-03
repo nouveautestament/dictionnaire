@@ -1,1 +1,0 @@
-lar[24977]=`<b>διαλυσί·φιλος, ος, ον</b> <font color="purple">[ῡῐῐ]</font> qui sépare des amis, qui détruit l’amitié <i>ou</i> l’amour, ANTH. <i>5, 21</i>.<p><b>Étym</b>. διαλύω, φίλος.`

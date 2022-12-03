@@ -1,1 +1,0 @@
-lar[34230]=`<b>ἐνδό·μυχος, ος, ον</b> <font color="purple">[ῠ]</font> qui se cache dans l’intérieur, secret, retiré, SOPH. <i>Ph. 1457</i> ; CALL. <i>Cer. 88</i> ; NONN. <i>D. 8, 329</i>.<p><b>Étym</b>. ἔνδον, μυχός.`

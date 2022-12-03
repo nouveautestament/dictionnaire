@@ -1,1 +1,0 @@
-lar[47829]=`<b>θυηπολέω-ῶ</b>, être chargé du soin d’un sacrifice, ESCHL. <i>Ag. 260</i> ; EUR. <i>Tr. 330</i> ; PLAT. <i>Rsp. 364e ; d’où</i> sacrifier, offrir en sacrifice : τινί τι, SOPH. <i>fr. 132,</i> qqe ch. à qqn ; <i>p. suite au pass</i>. θ. ὑπό τινος, EUR. <i>Her. 401,</i> être le théâtre d’un sacrifice offert par qqn.<p><b>Étym</b>. θυηπόλος.`

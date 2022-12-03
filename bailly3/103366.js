@@ -1,1 +1,0 @@
-lar[103366]=`<b>ὑπο·κίνυμαι</b> <font color="darkgreen">(<i>3 sg. impf. poét</i>. ὑποκίνυτο)</font> <font color="purple">[ῑ]</font> être soulevé, Q. SM. <i>3, 36</i>.`

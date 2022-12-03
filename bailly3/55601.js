@@ -1,1 +1,0 @@
-lar[55601]=`<b>Κισσ·αίθα (ἡ)</b> Kissætha, <i>n. de chèvre,</i> THCR. <i>Idyl. 1, 151</i>.<p><b>Étym</b>. κισσός, αἴθω.`

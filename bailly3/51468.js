@@ -1,1 +1,0 @@
-lar[51468]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> courbure, inflexion, ARSTT. <i>H.A. 1, 9</i> ; GAL. <i>4, 796</i>.<p><b>Étym</b>. καμπύλος.`

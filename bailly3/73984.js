@@ -1,1 +1,0 @@
-lar[73984]=`(<i>seul. prés</i>.) désirer voir, être curieux <i>ou</i> avide de, <i>gén</i>. IL. <i>14, 37</i>.<p>➳ <i>Impf. dor</i>. ὤψεον, (<i>ou</i> ὤ) SOPHR. <i>39 Ahrens</i>.<p><b>Étym</b>. ὄψομαι.`

@@ -1,1 +1,0 @@
-lar[110278]=`<i>adv</i>., d’un aveu unanime, d’un commun accord, DS. <i>15, 10</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> ὁμολογέω.`

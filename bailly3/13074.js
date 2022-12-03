@@ -1,1 +1,0 @@
-lar[13074]=`<b>εως (ἡ)</b> <font color="purple">[ᾰν]</font> action de s’égarer, de s’écarter de, PLAT. <i>Pol. 263c</i>.<p><b>Étym</b>. ἀποπλανάω.`

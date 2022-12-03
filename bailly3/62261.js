@@ -1,1 +1,0 @@
-lar[62261]=`<b>ων (οἱ)</b> les Mages, <i>un des six peuples qui ont formé la nation des Mèdes,</i> HDT. <i>1, 101</i>.`

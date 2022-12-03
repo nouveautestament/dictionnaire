@@ -1,1 +1,0 @@
-lar[55128]=`DYSC. <i>Adv. 596f, seul. dans la locut</i>. ποῖ κῆγχος ; <i>ou</i> ποῖ κῆχος ; PHÉRÉCR. (<i>Cram. 1 p. 344, 27) etc</i>. en quel lieu ? (<i>avec mouv</i>.).<p><b>Étym</b>. <i>p-ê. sync. de</i> κήναχος, <i>dérivé de</i> κῆνος ; <i>cf</i>. κεῖθι.`

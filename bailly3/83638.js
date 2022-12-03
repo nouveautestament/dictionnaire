@@ -1,1 +1,0 @@
-lar[83638]=`<b>προ·αποδείκνυμι :<br>      1</b> montrer <i>ou</i> expliquer auparavant, ISOCR. <i>29b ;</i> ARSTT. <i>Plant. 2, 4, 10, etc.</i><br><b>      2</b> désigner d’avance (pour une fonction) <i>au pass</i>. DC. <i>52, 42 ; 59, 9, etc.</i><br><b><i>Moy.</i></b> montrer <i>ou</i> expliquer auparavant, APP. <i>Civ. 5, 41</i>.`

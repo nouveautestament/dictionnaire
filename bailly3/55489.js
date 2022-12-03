@@ -1,1 +1,0 @@
-lar[55489]=`<b>κιναρη·φάγος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> qui mange des artichauts, JUBA (ATH. <i>343f</i>).<p><b>Étym</b>. κινάρα, φαγεῖν.`

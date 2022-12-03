@@ -1,1 +1,0 @@
-lar[47563]=`<b>ου (ὁ)</b> Thrasios, Péonien, IL. <i>21, 210</i>.`

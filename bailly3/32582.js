@@ -1,1 +1,0 @@
-lar[32582]=`<i>adv</i>., légèrement, <i>càd.</i> :<br><b>      1</b> <i>au propre,</i> avec légèreté, OD. <i>5, 240</i>.<br><b>      2</b> <i>fig</i>. sans peine, facilement, PD. <i>P. 2</i> ; XÉN. <i>An. 6, 1, 7 ; 7, 3, 16 ; etc</i>.`

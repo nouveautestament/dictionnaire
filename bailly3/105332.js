@@ -1,1 +1,0 @@
-lar[105332]=`<b>φθισί·μβροτος, ος, ον</b> <font color="purple">[ῑσ]</font> qui consume <i>ou</i> fait périr les mortels, IL. <i>13, 339</i> ; OD. <i>22, 297</i>.<p><b>Étym</b>. φθίω, βροτός.`

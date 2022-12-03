@@ -1,1 +1,0 @@
-lar[88393]=`<b>ῥεπανό·σπορον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> graine de rave, GAL. <i>14, 562</i>.<p><b>Étym</b>. ῥάφανος, σπείρω.`

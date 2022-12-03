@@ -1,1 +1,0 @@
-lar[25622]=`<b>εως (ἡ)</b> ponctuation, GAL.<p><b>Étym</b>. διαστίζω.`

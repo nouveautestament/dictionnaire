@@ -1,1 +1,0 @@
-lar[47536]=`<i>adv.</i> :<br><b>      1</b> rapidement, promptement, IL. <i>3, 325</i> ; OD. <i>5, 243</i> ; ESCHL. <i>Pr. 1060, Pers. 398, etc.</i><br><b>      2</b> bientôt, OD. <i>15, 216</i>.<p>•<i> Cp</i>. θοώτερον, A.RH. <i>3, 1406</i>.<p><b>Étym</b>. θοός.`

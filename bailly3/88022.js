@@ -1,1 +1,0 @@
-lar[88022]=`<b>πυρσο·κόρυμβος, ος, ον</b>, aux grappes d’un rouge de feu, P. SIL. <i>Ecphr. amb. 166</i>.`

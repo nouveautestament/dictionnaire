@@ -1,1 +1,0 @@
-lar[24437]=`<b>ας (ἡ)</b> <font color="purple">[ᾱβ]</font> PD. <i>P. 2, 76, ion</i>. διαβολίη <font color="purple">[ᾱ]</font> THGN. <i>324, c</i>. διαβολή.<p>➳ <i>Dans les deux passages</i> διαι- <i>sel. Bgk, cf</i>. καταιβατός, μεταιβολία.<p><b>Étym</b>. διαβολή.`

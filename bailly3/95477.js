@@ -1,1 +1,0 @@
-lar[95477]=`<b>συν·ενδιάω-ῶ</b>, se trouver avec, NONN. <i>Jo. 20, 14</i>.`

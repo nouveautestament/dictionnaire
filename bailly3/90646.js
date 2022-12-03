@@ -1,1 +1,0 @@
-lar[90646]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> <i>c</i>. σκαμμωνία, EUB. <i>3, 214 Meineke</i>.`

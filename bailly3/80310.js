@@ -1,1 +1,0 @@
-lar[80310]=`<b>πιλοφορέω-ῶ</b> <font color="purple">[ῑ]</font> porter un bonnet de feutre, APP. <i>Civ. 1, 65</i>.<p><b>Étym</b>. πιλοφόρος.`

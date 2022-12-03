@@ -1,1 +1,0 @@
-lar[32814]=`<b>ἑλικο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> qui est comme roulé en spirale, sinueux, tortueux, DS. <i>5, 30</i> ; PLUT. <i>Num. 13</i> ; CLÉOM. <i>15, 9</i> ; ARÉT. <i>Caus. m. diut. 3, 3</i> ; SEXT. <i>29, 32 Bkk</i>.<p><b>Étym</b>. ἑ. εἶδος.`

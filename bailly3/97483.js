@@ -1,1 +1,0 @@
-lar[97483]=`<b>ου (ἡ)</b> <font color="purple">[ᾰῐ]</font> présure pour faire cailler le lait, THCR. <i>Idyl. 7, 16 ; 11, 66</i> ; NIC. <i>Al. 373, Th. 711</i>.`

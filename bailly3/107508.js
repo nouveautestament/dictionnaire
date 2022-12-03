@@ -1,1 +1,0 @@
-lar[107508]=`<b>χαλαζοβολέω-ῶ</b> <font color="purple">[χᾰ]</font> faire tomber (<i>litt</i>. lancer) de la grêle, ANTH. <i>5, 64</i> ; CLÉM. <i>754</i>.<p><b>Étym</b>. χαλαζοβόλος.`

@@ -1,1 +1,0 @@
-lar[1300]=`<b>ἀδη·φάγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> vorace, glouton, THCR. <i>Idyl. 22, 115 ; fig</i>. ἀδ. νόσος, SOPH. <i>Ph. 313,</i> mal qui dévore.<br><b>      2</b> <i>fig</i>. qui engloutit l’argent, coûteux, LYS. (HARP.).<p><b>Étym</b>. ἄδην, φαγεῖν.`

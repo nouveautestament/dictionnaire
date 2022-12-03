@@ -1,1 +1,0 @@
-lar[7843]=`<b>ἀν·αύω</b>, mettre le feu à, PHIL. <i>2, 507</i>.`

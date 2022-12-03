@@ -1,1 +1,0 @@
-lar[89672]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de la grande chaleur <i>ou</i> de la canicule, LYCURG. (HARP.).<p><b>Étym</b>. σείριος.`

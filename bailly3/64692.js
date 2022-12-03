@@ -1,1 +1,0 @@
-lar[64692]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> changement d’écriture <i>ou</i> d’orthographe, GAL. <i>12, 58</i>.<p><b>Étym</b>. μ. *γραμματίζω <i>de</i> γράμμα.`

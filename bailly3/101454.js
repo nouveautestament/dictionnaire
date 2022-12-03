@@ -1,1 +1,0 @@
-lar[101454]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. ὑδάτινος, HPC. <i>Aër. 283, 289</i> ; MATR. (ATH. <i>136c, correct. p</i>. ὑδάτινος).`

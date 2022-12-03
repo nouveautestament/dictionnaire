@@ -1,1 +1,0 @@
-lar[1451]=`<i>adv</i>., sans aucun doute, ANTH. <i>12, 151</i>.`

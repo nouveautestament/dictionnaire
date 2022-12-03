@@ -1,1 +1,0 @@
-lar[84633]=`<b>προ·λαγχάνω</b> <font color="darkgreen">(<i>f</i>. προλήξομαι, <i>pf</i>. προείληχα)</font> obtenir d’avance <i>ou</i> auparavant par le sort, AR. <i>Eccl. 1159</i>.`

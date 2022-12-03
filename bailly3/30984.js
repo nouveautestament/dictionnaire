@@ -1,1 +1,0 @@
-lar[30984]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de chacune des deux manières, PLAT. <i>Leg. 895e</i>.<p><b>Étym</b>. ἑκάτερος.`

@@ -1,1 +1,0 @@
-lar[70280]=`(<i>seul. prés</i>.) faire grossir, gonfler, GAL. <i>8, 614</i> ; A. APHR. <i>Probl. 1, 9</i>.<p><b>Étym</b>. οἰδέω.`

@@ -1,1 +1,0 @@
-lar[87840]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾱ]</font> <i>d’ord. au pl</i>. action de fomenter, fomentation, TH. <i>Ign. 37</i> ; DIOSC. <i>1, 15</i>.<p><b>Étym</b>. πυριάω.`

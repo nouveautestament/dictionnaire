@@ -1,1 +1,0 @@
-lar[34919]=`<b>ἐν·σβέννυμι</b> <font color="purple">[ῡ]</font> éteindre dans, <i>rég. ind. au dat</i>. DIOSC. <i>5, 93</i>.`

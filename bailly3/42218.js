@@ -1,1 +1,0 @@
-lar[42218]=`<b>εὔ·θρυπτος, ος, ον :<br>      1</b> facile à amollir, à rompre, <i>en parl. du cou,</i> ARSTT. <i>P.A. 4, 12, 30</i> ; du sol, STR. <i>579</i> ; PLUT. <i>Sert. 17 ; en parl. de viande,</i> facile à digérer, PLUT. <i>M. 916b.</i><br><b>      2</b> <i>fig</i>. amolli, efféminé, GAL. <i>2, 326</i>.<p><b>Étym</b>. εὖ, θρύπτω.`

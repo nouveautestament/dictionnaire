@@ -1,1 +1,0 @@
-lar[27359]=`<b>δοιδυκο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῡ]</font> fabricant de pilons, PLUT. <i>Phoc. 4</i>.<p><b>Étym</b>. δοίδυξ, ποιέω.`

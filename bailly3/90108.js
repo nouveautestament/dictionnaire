@@ -1,1 +1,0 @@
-lar[90108]=`<b>ά, όν</b> <font color="purple">[ῑ]</font> <i>c</i>. σιγηλός, MÉN. <i>Monost. 167</i> ; SPT. <i>Sir. 26, 14</i>.`

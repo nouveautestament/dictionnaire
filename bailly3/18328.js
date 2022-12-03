@@ -1,1 +1,0 @@
-lar[18328]=`<b>ἀ·φύτευτος, ος, ον</b> <font color="purple">[ῠ]</font> non planté, XÉN. <i>Œc. 20, 22</i>.<p><b>Étym</b>. ἀ, φυτεύω.`

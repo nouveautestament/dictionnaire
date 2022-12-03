@@ -1,1 +1,0 @@
-lar[100038]=`<b>ῶν (οἱ)</b> les Trères, <i>pple de Thrace,</i> THC. <i>2, 96</i>.`

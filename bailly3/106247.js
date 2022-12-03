@@ -1,1 +1,0 @@
-lar[106247]=`<b>ων (οἱ)</b> <font color="purple">[ῐῠ]</font> les Philyres, <i>pple du Pont-Euxin,</i> A.RH. <i>2, 393, etc</i>.`

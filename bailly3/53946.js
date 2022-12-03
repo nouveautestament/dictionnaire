@@ -1,1 +1,0 @@
-lar[53946]=`<b>κατ·ερνής, ής, ές</b>, couvert de rameaux, ORPH. <i>Arg. 916</i>.<p><b>Étym</b>. κ. ἔρνος.`

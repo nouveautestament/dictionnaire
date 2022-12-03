@@ -1,1 +1,0 @@
-lar[32920]=`<b>οῦ (ὁ)</b> traitement par l’ellébore, HPC. <i>1287, 26</i>.<p><b>Étym</b>. ἑλλεβορίζω.`

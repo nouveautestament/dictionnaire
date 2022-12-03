@@ -1,1 +1,0 @@
-lar[90144]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> forgeron, XÉN. <i>Ages. 1, 26 ; Vect. 4, 6</i>.<p><b>Étym</b>. σίδηρος.`

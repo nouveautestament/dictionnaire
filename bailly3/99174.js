@@ -1,1 +1,0 @@
-lar[99174]=`<b>(ἡ)</b> <font color="purple">[ῑᾱ]</font> Timaessa, <i>f</i>. ANTH. <i>6, 272</i>.<p><b>Étym</b>. τιμάεσσα, <i>fém. de</i> τιμάεις.`

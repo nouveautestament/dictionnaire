@@ -1,1 +1,0 @@
-lar[49667]=`<b>ἰσό·κυκλος, ος, ον</b> <font color="purple">[ῑ̆]</font> également rond, PHILOX. (ATH. <i>147a</i>).<p><b>Étym</b>. ἴ. κύκλος.`

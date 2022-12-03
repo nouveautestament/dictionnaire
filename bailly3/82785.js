@@ -1,1 +1,0 @@
-lar[82785]=`<b>οῦ (ὁ)</b> Porthmos, <i>port d’Érétrie,</i> DÉM. <i>9, 33, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. πορθμός.`

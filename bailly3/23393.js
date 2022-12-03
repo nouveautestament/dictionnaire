@@ -1,1 +1,0 @@
-lar[23393]=`<b>ῶνος (ὁ)</b> bosquet de lauriers, STR. <i>16, 4, 14 Kram.</i> ; A. GELL. <i>2, 20</i> ; ARC. <i>14, 8</i> ; M. RUBR. <i>11</i>.<p><b>Étym</b>. δάφνη.`

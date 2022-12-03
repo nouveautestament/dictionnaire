@@ -1,1 +1,0 @@
-lar[60725]=`<b>(ἡ)</b> Lèda, <i>épouse de Tyndare, mère d’Hélène, de Clytemnestre et des Dioscures,</i> PD. <i>O. 3, 63 ; N. 10, 123, etc.</i> ; ESCHL. <i>Ag. 914</i> ; EUR. <i>Hel. 19, etc</i>.<p>➳ <i>Ion. et épq</i>. Λήδη, OD. <i>11, 298</i>.`

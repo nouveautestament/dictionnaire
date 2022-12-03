@@ -1,1 +1,0 @@
-lar[85358]=`<b>προσ·βραχής, ής, ές</b> <font color="purple">[ᾰ]</font> peu profond, <i>d’où</i> guéable, STR. <i>244</i>.<p><b>Étym</b>. π. βράχος.`

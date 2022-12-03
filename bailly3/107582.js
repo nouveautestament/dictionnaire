@@ -1,1 +1,0 @@
-lar[107582]=`<b>ης, ες</b>, qui ressemble à la couperose, ANTYLL. (ORIB. <i>279 Matthäi).</i><p><b>Étym</b>. χαλκάνθη, -ωδης.`

@@ -1,1 +1,0 @@
-lar[110187]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Ôkypétè, <i>litt</i>. « à l’élan rapide » <i>n. d’une Harpyie,</i> HÉS. <i>Th. 267</i>.<p><b>Étym</b>. <i>cf</i>. ὠκυπέτης.`

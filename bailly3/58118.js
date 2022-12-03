@@ -1,1 +1,0 @@
-lar[58118]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. de source, de fontaine, ORPH. <i>Arg. 50, 9</i>.<p><b>Étym</b>. κρουνός.`

@@ -1,1 +1,0 @@
-lar[104064]=`<b>ὑπο·τυρίς, ίδος (ἡ)</b> <font color="purple">[τῡ]</font> gâteau de lait et de miel, CHRYSIPP. (ATH. <i>647f</i>).<p><b>Étym</b>. ὑ. τυρός.`

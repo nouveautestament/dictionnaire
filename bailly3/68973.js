@@ -1,1 +1,0 @@
-lar[68973]=`<b>*νοσαλέος</b>, <i>seul. poét</i>. <b>νουσαλέος, η, ον</b> <font color="purple">[ᾰ]</font> maladif, malade, NONN. <i>Jo. 5, 31 ; 11, 15 et 23</i>.<p><b>Étym</b>. νόσος.`

@@ -1,1 +1,0 @@
-lar[10089]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσι]</font> déplacement réciproque <i>ou</i> en sens contraire, ARSTT. <i>Phys. 4, 1, 2 ; en parl. de circonstances,</i> DH. <i>3, 19</i>.<p><b>Étym</b>. ἀντιμεθίστημι.`

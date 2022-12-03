@@ -1,1 +1,0 @@
-lar[28304]=`<b>ας (ἡ)</b> difficulté de transpirer, CASS. <i>Probl. 66</i>.<p><b>Étym</b>. δυσδιαφόρητος.`

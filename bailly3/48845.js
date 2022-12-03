@@ -1,1 +1,0 @@
-lar[48845]=`<b>ἰκτερόομαι-οῦμαι</b>, avoir la jaunisse, HPC. <i>69g</i>.<p><b>Étym</b>. ἴκτερος.`

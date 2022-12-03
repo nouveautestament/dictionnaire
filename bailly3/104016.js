@@ -1,1 +1,0 @@
-lar[104016]=`<b>ὑπο·τραχήλιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> frise d’un chapiteau de colonne, VITR. <i>3, 3, 12 ; 4, 3, 7 ; 4, 7, 4</i>.<p><b>Étym</b>. ὑ. τράχηλος.`

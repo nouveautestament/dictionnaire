@@ -1,1 +1,0 @@
-lar[25557]=`<b>δια·σκοπιάομαι-ῶμαι</b> (<i>seul. inf. prés</i>. -ᾶσθαι) :<br><b>      1</b> observer tout alentour, IL. <i>10, 388</i>.<br><b>      2</b> discerner, distinguer, IL. <i>17, 252</i>.<p><b>Étym</b>. διά, σκοπιά.`

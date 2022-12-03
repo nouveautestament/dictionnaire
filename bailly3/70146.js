@@ -1,1 +1,0 @@
-lar[70146]=`<b>ας (ἡ)</b> <i>c</i>. ὁδοποίησις, XÉN. <i>Cyr. 6, 2, 36</i> ; PLUT. <i>C. Gracch. 7</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, add. 834, c, 28 (317/307 av. J.-C.) ; v. Meisterh. p. 45, 6</i>.<p><b>Étym</b>. ὁδοποιός.`

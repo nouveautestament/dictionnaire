@@ -1,1 +1,0 @@
-lar[107387]=`<b>ας (ἡ)</b> action de s’exercer au chant <i>ou</i> à la déclamation, soin qu’on prend de sa voix en suivant un régime convenable, DÉM. <i>319, 9</i> ; TH. <i>H.P. 9, 9, 2</i>.<p><b>Étym</b>. φωνασκός.`

@@ -1,1 +1,0 @@
-lar[70868]=`<b>(οἱ, αἱ, τὰ)</b> <i>indécl</i>. huit, IL. <i>2, 313, etc</i>.<p><b>Étym</b>. <i>indo-europ</i>. *h₃eḱteh₃, huit ; <i>cf. lat</i>. octō, <i>sscr</i>. aṣṭā́(u), <i>gotique</i> ahtau.`

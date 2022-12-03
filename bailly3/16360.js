@@ -1,1 +1,0 @@
-lar[16360]=`<b>ἀστυ·βοώτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui crie par la ville (héraut) IL. <i>24, 701</i>.<p><b>Étym</b>. ἄ. βοάω.`

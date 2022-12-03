@@ -1,1 +1,0 @@
-lar[105890]=`<b>φιλό·λαλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime à parler, bavard, DL. <i>1, 92</i>.<p><b>Étym</b>. φ. λαλέω.`

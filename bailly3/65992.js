@@ -1,1 +1,0 @@
-lar[65992]=`<b>μισθ·αρχίδης, ου (ὁ)</b> <font color="purple">[χῐ]</font> qui recherche les fonctions lucratives, AR. <i>Ach. 597</i>.<p><b>Étym</b>. μ. ἀρχή.`

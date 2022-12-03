@@ -1,1 +1,0 @@
-lar[71054]=`<b>ας (ἡ)</b> <font color="purple">[ῐῐχ]</font> ensemble de peu de vers, ANTH. <i>4, 2</i>.<p><b>Étym</b>. ὀλιγόστιχος.`

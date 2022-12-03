@@ -1,1 +1,0 @@
-lar[105546]=`<b>φιλ·έλλην, ηνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> ami des Grecs, de leur langue, de leur littérature, HDT. <i>2, 178</i> ; XÉN. <i>Ages. 2, 31 ; 7, 4</i> ; PLAT. <i>Rsp. 470e ;</i> ISOCR. <i>60d, 107a, 199a ;</i> PLUT. <i>Ant. 23</i>.<p><b>Étym</b>. φ. Ἕλλην.`

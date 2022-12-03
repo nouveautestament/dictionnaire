@@ -1,1 +1,0 @@
-lar[60459]=`<b>λεπτο·ψάμαθος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> au sable fin, ESCHL. <i>Suppl. 3</i>.`

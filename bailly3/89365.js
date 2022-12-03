@@ -1,1 +1,0 @@
-lar[89365]=`<b>οῦς (ἡ)</b> Sappho, <i>femme poète de Lesbos,</i> HDT. <i>2, 135</i> ; ALC. <i>55 (41, 42)</i> ; PLAT. <i>Phædr. 235c, etc</i>.<p>➳ Ψάπφω, SAPPH. <i>1, 20 Bgk ; voc</i>. Σαπφοῖ, ANTH. <i>9, 521 ; éol</i>. Σάπφοι, ALC. <i>55, ou</i> Ψάπφοι, SAPPH. <i>fr. 59 (58) Bgk</i>.`

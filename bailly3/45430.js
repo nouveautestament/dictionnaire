@@ -1,1 +1,0 @@
-lar[45430]=`<b>ἡμι·θαλής, ής, ές</b> <font color="purple">[ῐᾰ]</font> à demi verdoyant, ANTH. <i>7, 465</i>.<p><b>Étym</b>. ἡμι-, θάλλω.`

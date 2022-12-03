@@ -1,1 +1,0 @@
-lar[7481]=`<b>ἀνα·πτερυγίζω</b> <font color="purple">[ῠ]</font> prendre son vol, EL. <i>N.A. 4, 30 ; fig</i>. PHILOD. <i>De sup. 18</i>.`

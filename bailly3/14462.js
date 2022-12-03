@@ -1,1 +1,0 @@
-lar[14462]=`<b>(ὁ)</b> Arétazès, <i>écrivain grec,</i> Ps.-PLUT. <i>Fluv. 12, 2</i>.`

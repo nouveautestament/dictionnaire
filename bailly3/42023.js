@@ -1,1 +1,0 @@
-lar[42023]=`<b>εὐ·επίτακτος, ος, ον</b>, qui obéit sans peine, docile, ANTH. <i>11, 73</i>.<p><b>Étym</b>. εὖ, ἐπιτάσσω.`

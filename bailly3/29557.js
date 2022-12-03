@@ -1,1 +1,0 @@
-lar[29557]=`<b>ἐγ·καταριθμέω-ῶ</b> (<i>pass. pf. part</i>. -κατηριθμημένην) compter au nombre de, <i>dat</i>. CLÉM. <i>263</i>.<p><b>Étym</b>. ἐν, κ.`

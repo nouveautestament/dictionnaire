@@ -1,1 +1,0 @@
-lar[84533]=`<b>προκατηγορία, ας (ἡ)</b> accusation anticipée, THC. <i>3, 53</i>.<p><b>Étym</b>. <i>cf</i>. προκατηγορέω.`

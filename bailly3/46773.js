@@ -1,1 +1,0 @@
-lar[46773]=`<b>θεό·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule d’une source divine, OPP. <i>H. 5, 9</i> ; NONN. <i>Jo. 8, 10</i>.<p><b>Étym</b>. θ. ῥέω.`

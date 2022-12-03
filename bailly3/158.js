@@ -1,1 +1,0 @@
-lar[158]=`<i>adv</i>., avec irréflexion, HDT. <i>3, 71</i>.<p>•<i> Sup</i>. -ότατα, HDT. <i>7, 9</i>.`

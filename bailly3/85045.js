@@ -1,1 +1,0 @@
-lar[85045]=`<b>προ·ρέω :<br>      1 <i>intr.</i></b> couler en avant, s’épancher, IL. <i>12, 19 ; 21, 260, etc.</i> ; OD. <i>5, 444 ; 10, 351</i> ; HÉS. <i>Th. 792</i>.<br><b>      2 <i>tr.</i></b> faire couler en avant, épancher, HH. <i>Ap. 380</i> ; A.RH. <i>3, 225</i> ; SOPH. <i>Aj. 1130</i>.<p><b>Étym</b>. <i>poét. p</i>. *προ·ρρέω, <i>de</i> π. ῥέω.`

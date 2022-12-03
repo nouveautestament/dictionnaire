@@ -1,1 +1,0 @@
-lar[55712]=`<i>adv</i>., avec un bruit aigu, IL. <i>2, 463</i>.<p><b>Étym</b>. κλαγγή, -δον.`

@@ -1,1 +1,0 @@
-lar[74081]=`<b>παγ·γέλοιος, ος, ον</b>, tout à fait ridicule, PLAT. <i>Phædr. 260c, etc.</i> ; EUB. <i>3, 230 Meineke</i>.<p><b>Étym</b>. πᾶν, γελοῖος.`

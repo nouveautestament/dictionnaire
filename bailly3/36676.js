@@ -1,1 +1,0 @@
-lar[36676]=`<b>ἐπ·ανεγείρω</b> (<i>part. ao. pass</i>. -εγερθείς) réveiller, ranimer, HPC. <i>85e ;</i> PLUT. <i>M. 101a</i>.`

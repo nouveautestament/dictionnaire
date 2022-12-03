@@ -1,1 +1,0 @@
-lar[54263]=`<b>ῆς (ἡ)</b> Kauè, <i>brg de Mysie,</i> XÉN. <i>Hell. 4, 1, 20</i>.`

@@ -1,1 +1,0 @@
-lar[386]=`<font color="purple">[ᾰγ]</font> <i>adv</i>., admirablement, XÉN. <i>Ages. 1, 24</i>.<p><b>Étym</b>. ἀγαστός.`

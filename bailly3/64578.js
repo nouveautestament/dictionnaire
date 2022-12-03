@@ -1,1 +1,0 @@
-lar[64578]=`<b>*μεσό·τομος</b>, <i>seul</i>. <b>μεσσό·τομος, ος, ον</b>, coupé <i>ou</i> taillé par le milieu, ANTH. <i>6, 63</i>.<p><b>Étym</b>. μέσος, τέμνω.`

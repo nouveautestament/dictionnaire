@@ -1,1 +1,0 @@
-lar[10901]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> hache, IL. <i>13, 612 ; 15, 711</i> ; HDT. <i>7, 64</i>.<br><b>      2</b> cognée, XÉN. <i>An. 1, 5, 12</i>.<p><b>Étym</b>. <i>emprunt à une langue sémitique ou anatolienne</i>.`

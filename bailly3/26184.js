@@ -1,1 +1,0 @@
-lar[26184]=`<b>δι·εμφαίνω</b> (<i>part. prés</i>. -οντες) faire briller, jeter une lueur, LUC. <i>Alex. 3</i>.`

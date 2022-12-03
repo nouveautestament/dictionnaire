@@ -1,1 +1,0 @@
-lar[61076]=`<b>*λιθο·σόος</b>, <i>poét</i>. <b>λιθο·σσόος, ος, ον</b> <font color="purple">[ῐ]</font> qui chasse <i>ou</i> poursuit à coups de pierre, NONN. <i>Jo. 8, 59</i>.<p><b>Étym</b>. λ. σεύω.`

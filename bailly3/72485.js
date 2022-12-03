@@ -1,1 +1,0 @@
-lar[72485]=`<b>ὀπωρο·θήκη, ης (ἡ)</b> lieu pour déposer les fruits, fruitier, VARR. <i>R.R. 1, 59</i>.<p><b>Étym</b>. ὀπώρα, θ.`

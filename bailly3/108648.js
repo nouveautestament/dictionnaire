@@ -1,1 +1,0 @@
-lar[108648]=`<b>α, ον</b>, de la contenance d’un conge, HIPPOLOCH. (ATH. <i>129e</i>).<p><b>Étym</b>. <i>v</i>. χοῦς.`

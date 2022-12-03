@@ -1,1 +1,0 @@
-lar[82169]=`<b>πολύ·νοστος, ος, ον</b> <font color="purple">[ῠ]</font> <i>propr</i>. qui revient <i>ou</i> rend beaucoup, <i>d’où</i> :<br><b>      1</b> plein de suc, nourrissant, HPC. <i>361, 12</i>.<br><b>      2</b> très farineux, <i>en parl. du blé,</i> TH. <i>H.P. 8, 8, 2</i>.<p><b>Étym</b>. π. νόστος.`

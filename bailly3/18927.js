@@ -1,1 +1,0 @@
-lar[18927]=`<b>βαλαν·άγρα, ας (ἡ)</b> <font color="purple">[ᾰᾰν]</font><br><b>      1</b> clef <i>ou</i> crochet pour pousser un verrou, HDT. <i>3, 155</i> ; XÉN. <i>Hell. 5, 2, 29 ; etc.</i><br><b>      2</b> verrou, POL. <i>7, 16, 5</i>.<p><b>Étym</b>. βάλανος, ἀγρέω.`

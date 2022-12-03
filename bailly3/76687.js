@@ -1,1 +1,0 @@
-lar[76687]=`<b>ής, ές</b>, qui a quelque ressemblance avec, <i>dat</i>. ARSTT. <i>H.A. 4, 1, 18, etc</i>.<p><b>Étym</b>. παρεμφέρω.`

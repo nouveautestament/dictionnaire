@@ -1,1 +1,0 @@
-lar[109876]=`<b>ωνος (ὁ)</b> <font color="purple">[ψῑ]</font> Psikhiôn, <i>litt</i>. « l’homme aux miettes », <i>n. de parasite,</i> ALCIPHR. <i>3, 45</i>.<p><b>Étym</b>. ψίξ.`

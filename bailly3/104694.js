@@ -1,1 +1,0 @@
-lar[104694]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> faisceau, botte, fagot, HDT. <i>4, 62, 67</i> ; THC. <i>2, 77</i> ; EUR. <i>Cycl. 242</i>.`

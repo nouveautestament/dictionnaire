@@ -1,1 +1,0 @@
-lar[58206]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Krôbylè :<br><b>      1</b> <i>lieu de Thrace,</i> DÉM. <i>159, 10</i>.<br><b>      2</b> <i>f</i>. LUC. <i>D. mer. 6</i>.`

@@ -1,1 +1,0 @@
-lar[18721]=`<b>βάθ·ιππος, ου (ὁ)</b> Bathippos, <i>Athénien,</i> DÉM. <i>etc</i>.<p><b>Étym</b>. βαίνω, ἵππος.`

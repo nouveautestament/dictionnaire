@@ -1,1 +1,0 @@
-lar[87712]=`<b>ῶν (αἱ)</b> Pyxæ, <i>v. de Cos,</i> THCR. <i>Idyl. 7, 130</i>.`

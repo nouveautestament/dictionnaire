@@ -1,1 +1,0 @@
-lar[54716]=`<b>κενο·ταφέω-ῶ</b> <font color="purple">[ᾰ]</font> τινα, EUR. <i>Hel. 1060,</i> élever un tombeau vide à qqn, <i>càd</i>. à un mort dont on n’a pas le corps ; <i>fig</i>. τὸν βίον, PLUT. <i>M. 1190c</i>, ensevelir en qqe sorte sa vie, <i>càd</i>. s’enterrer en qqe sorte vivant.<p><b>Étym</b>. κ. τάφος.`

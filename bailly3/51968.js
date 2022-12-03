@@ -1,1 +1,0 @@
-lar[51968]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> de noix, TH. <i>H.P. 1, 11, 3</i>.<p><b>Étym</b>. κάρυον.`

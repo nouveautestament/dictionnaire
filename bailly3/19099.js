@@ -1,1 +1,0 @@
-lar[19099]=`<i>acc</i>. <b>ιν (ἡ)</b> Barkétis, <i>f</i>. LUC. <i>Tox. 50</i>.`

@@ -1,1 +1,0 @@
-lar[94967]=`<b>οῦ (ὁ) :<br>      1</b> celui qui ajuste <i>ou</i> arrange, LUC. <i>Somn. 2</i>.<br><b>      2</b> <i>fig</i>. gouverneur-adjoint, LUC. <i>Tox. 32</i>.<p><b>Étym</b>. συναρμόζω.`

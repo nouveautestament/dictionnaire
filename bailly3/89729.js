@@ -1,1 +1,0 @@
-lar[89729]=`<b>α, ον :<br>      1</b> qui concerne la lune, A.RH. <i>4, 167</i> ; ANTH. <i>App. 51, 27, etc.</i> ; LUC. <i>Ic. 13</i>.<br><b>      2</b> éclairé par la lune, ORACL. (HDT. <i>1, 62</i>).<br><b>      3</b> qui a la forme <i>ou</i> la largeur de la lune, DL. <i>1, 24</i>.<p><b>Étym</b>. σελήνη.`

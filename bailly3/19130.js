@@ -1,1 +1,0 @@
-lar[19130]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> grave infortune, ANT. <i>116, 29</i> ; démence, LYS. <i>101, 24</i>.<p><b>Étym</b>. βαρυδαίμων.`

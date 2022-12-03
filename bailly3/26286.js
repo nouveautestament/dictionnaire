@@ -1,1 +1,0 @@
-lar[26286]=`<b>δι·έρυθρος, ος, ον</b> <font color="purple">[ῠ]</font> mélangé de rouge, DIOSC. <i>3, 11</i>.<p><b>Étym</b>. διά, ἐρυθρός.`

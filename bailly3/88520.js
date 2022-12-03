@@ -1,1 +1,0 @@
-lar[88520]=`<font color="purple">[ῑγ]</font> <i>adv.</i> :<br><b>      1</b> plus froidement, OD. <i>17, 191</i>.<br><b>      2</b> <i>compar. neutre,</i> plus terrible, plus fâcheux, IL. <i>1, 325, etc.</i> ; OD. <i>20, 220</i> ; HÉS. <i>O. 701</i>.<p><b>Étym</b>. <i>cp. dérivé de</i> ῥῖγος ; <i>cf</i>. ῥίγιστος.`

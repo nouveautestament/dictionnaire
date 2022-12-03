@@ -1,1 +1,0 @@
-lar[94752]=`<b>συν·ανασκευάζω</b>, réfuter ensemble, SEXT. <i>M. 7, 214</i>.`

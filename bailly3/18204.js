@@ -1,1 +1,0 @@
-lar[18204]=`<i>adv</i>., sans se rendre insupportable, TÉLÈS (STOB. <i>Fl. 5, 67</i>).`

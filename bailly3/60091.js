@@ -1,1 +1,0 @@
-lar[60091]=`<i>inf. ao</i>. frapper, AR. (<i>Com. fr. 2, 1214</i>).`

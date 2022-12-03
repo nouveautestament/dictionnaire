@@ -1,1 +1,0 @@
-lar[58355]=`<b>κυανό·πρῳρος, ος, ον</b> <font color="purple">[ῠᾰ]</font> à la proue sombre, IL. <i>15, 693, etc.</i> ; OD. <i>9, 482, etc</i>.<p><b>Étym</b>. κ. πρῷρα.`

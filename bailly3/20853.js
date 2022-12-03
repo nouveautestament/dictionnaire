@@ -1,1 +1,0 @@
-lar[20853]=`<b>α, ον</b>, de tonnerre, <i>càd</i>. d’orage (pluie), HPC. <i>1180f</i>.<p><b>Étym</b>. βροντή.`

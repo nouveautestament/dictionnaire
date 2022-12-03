@@ -1,1 +1,0 @@
-lar[76821]=`<b>εως (ἡ)</b> action d’inventer des prétextes, <i>d’où</i> :<br><b>      1</b> prétexte, DÉM. <i>238, 6 (décr</i>.).<br><b>      2</b> rouerie, STR. <i>402</i>.<p><b>Étym</b>. παρευρίσκω.`

@@ -1,1 +1,0 @@
-lar[84736]=`<b>προ·μηχανάομαι-ῶμαι</b> <font color="purple">[χᾰ]</font> machiner <i>ou</i> préparer d’avance, DH. <i>2, 46 ; 7, 13</i> ; LUC. <i>Alex. 36</i>.`

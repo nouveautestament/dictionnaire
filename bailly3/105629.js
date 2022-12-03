@@ -1,1 +1,0 @@
-lar[105629]=`<b>ᾶ</b> <i>ou</i> <b>Φιλήτας, α (ὁ)</b> <font color="purple">[ῐ]</font> Philètas, <i>poète élégiaque de Kos,</i> HERMÉS. <i>fr. 2, 77</i> ; THCR. <i>Idyl. 7, 40</i> ; EL. <i>V.H. 9, 14</i> ; PLUT. <i>Per. 2, etc</i>.<p>➳ <i>Voc</i>. -ᾶ, LGS <i>2, 5, 1</i> ; Φιλήτας, PAUS. <i>5, 8, 10</i> ; PLUT. <i>An seni resp. ger. sit p. 15, etc</i>.<p><b>Étym</b>. φιλέω.`

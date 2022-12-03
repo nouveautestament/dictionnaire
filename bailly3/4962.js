@@ -1,1 +1,0 @@
-lar[4962]=`<b>ἄ·λοχος, ος, ον</b>, qui n’a pas enfanté, vierge (Artémis) PLAT. <i>Theæt. 149b</i>.<p><b>Étym</b>. ἀ, λέχος.`

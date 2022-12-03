@@ -1,1 +1,0 @@
-lar[83543]=`<b>προ·αναγράφω</b> <font color="purple">[ᾰφ]</font> inscrire d’avance <i>ou</i> inscrire sur une liste officielle (<i>cf. lat</i>. proscribere) APP. <i>Civ. 5, 145 ; au pass</i>. JOS. <i>A.J. 1, 3, 4</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. APP. <i>Civ. 1, 6</i>.`

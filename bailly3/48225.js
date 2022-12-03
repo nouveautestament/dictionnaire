@@ -1,1 +1,0 @@
-lar[48225]=`<b>ἰαμβο·ποιός, οῦ (ὁ)</b> poète ïambique, ARSTT. <i>Poet. 9</i> ; ATH. <i>359e</i>.<p><b>Étym</b>. ἰ. ποιέω.`

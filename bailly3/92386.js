@@ -1,1 +1,0 @@
-lar[92386]=`<b>Στεντορὶς λίμνη (ἡ)</b> le lac Stentoris, <i>en Thrace,</i> HDT. <i>7, 58</i>.`

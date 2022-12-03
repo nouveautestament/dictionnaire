@@ -1,1 +1,0 @@
-lar[88278]=`<b>α, ον</b>, arrosé, mouillé, ESCHL. <i>Ag. 1092</i>.<p><b>Étym</b>. ῥαντήρ.`

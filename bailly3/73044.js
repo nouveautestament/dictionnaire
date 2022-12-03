@@ -1,1 +1,0 @@
-lar[73044]=`<b>Ὀρσι·βόη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Orsiboè, <i>f</i>., NONN. <i>D. 30, 285</i>.<p><b>Étym</b>. ὄρνυμι, βοή.`

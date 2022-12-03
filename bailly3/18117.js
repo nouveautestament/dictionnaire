@@ -1,1 +1,0 @@
-lar[18117]=`<b>ἀ·φιλόστοργος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a pas de tendresse, PLUT. <i>M. 140c ;</i> ARR. <i>Epict. 2, 17, 37</i>.`

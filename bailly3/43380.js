@@ -1,1 +1,0 @@
-lar[43380]=`<b>ῶτος (ἡ)</b> moisissure, <i>d’où</i> saleté, pourriture causée par l’humidité, THGN. <i>452</i> ; EUR. <i>Ion 1393</i> ; PLAT. <i>Tim. 84b, etc. ; fig</i>. PLUT. <i>M. 48c</i>.<p><b>Étym</b>. <i>cf</i>. εὐρώεις.`

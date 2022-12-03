@@ -1,1 +1,0 @@
-lar[54165]=`<b>κατ·οργανίζω</b> <font color="purple">[γᾰ]</font> charmer par le jeu <i>ou</i> les accords d’un instrument, ANTH. <i>9, 264</i>.`

@@ -1,1 +1,0 @@
-lar[21703]=`<b>γενναιο·πρεπῶς</b>, <i>adv</i>., comme il convient à un être bien né, AR. <i>Pax 988</i>.<p><b>Étym</b>. γενναῖος, πρέπω.`

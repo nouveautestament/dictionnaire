@@ -1,1 +1,0 @@
-lar[88036]=`<b>πυρφορέω-ῶ :<br>      1</b> porter du feu, <i>en parl. de la théorie revenant de Dèlos,</i> PHILSTR. <i>740 ; particul</i>. porter un flambeau, EUR. <i>Tr. 348</i> ; HLD. <i>4, 1</i>.<br><b>      2</b> porter le feu, mettre le feu, brûler, <i>acc</i>. ESCHL. <i>Sept. 341</i>.<p><b>Étym</b>. πυρφόρος.`

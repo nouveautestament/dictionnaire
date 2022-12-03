@@ -1,1 +1,0 @@
-lar[15446]=`<b>ἀρτυσί·λαος</b>, <i>ion</i>. <b>ἀρτυσίλεως, ω (ὁ)</b> <font color="purple">[ῡῐ]</font> ministre des sacrifices (<i>litt</i>. ordonnateur du peuple) <i>à Dèlos, ou p.-ê. n. pr</i>. Artysilaos <i>ou</i> Artysiléos, ATH. <i>173a</i>.<p><b>Étym</b>. ἀρτύω, λαός.`

@@ -1,1 +1,0 @@
-lar[59877]=`<i>mieux que</i> <b>Λαρισσαῖος, α, ον</b> <font color="purple">[ᾱ]</font> de Larisa, STR. <i>440</i> ; PAUS. <i>2, 24, 3 ; subst</i>. ὁ Λ. sorte de vase fabriqué à Larisa, ARSTT. <i>Pol. 3, 2, 2</i>.<p>➳ <i>Ion</i>. Ληρισαῖος, HDT. <i>9, 1 et 58. Dans les inscr. att</i>. Λαρισαῖος, CIA. <i>2, 963, 61 (après 346 av. J.-C.) v. Meisterh. p. 75, 12</i>.`

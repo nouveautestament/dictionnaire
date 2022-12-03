@@ -1,1 +1,0 @@
-lar[63196]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Matôn, <i>sophiste,</i> ANAXIL. (ATH. <i>307c</i>) <i>etc</i>.`

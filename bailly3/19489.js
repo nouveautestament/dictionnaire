@@ -1,1 +1,0 @@
-lar[19489]=`<b>ου (τὸ) :<br>      1</b> trait, javeline, IL. <i>22, 206 (plur</i>.).<br><b>      2</b> hache, ESCHL. <i>Ag. 1496, 1520</i>.<br><b>      3</b> grêlons, grêle, ORPH. <i>Lith. 591 (plur</i>.).<p><b>Étym</b>. βέλος.`

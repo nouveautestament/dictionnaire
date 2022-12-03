@@ -1,1 +1,0 @@
-lar[110248]=`<b>ας (ἡ)</b> épaule, <i>fig</i>. traverse, colonne d’appui, <i>sel. d’autres,</i> côté <i>ou</i> angle d’une construction, SPT. <i>3Reg. 6, 8 ; 7, 2, 30, etc</i>.<p><b>Étym</b>. ὦμος.`

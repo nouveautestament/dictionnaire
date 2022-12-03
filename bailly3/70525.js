@@ -1,1 +1,0 @@
-lar[70525]=`<b>όεσσα, όεν</b>, de vin, <i>d’où subst. att</i>. ἡ οἰνοῦττα :<br><b>      1</b> gâteau fait d’orge, d’eau, d’huile et de vin, AR. <i>Pl. 1121</i>.<br><b>      2</b> sorte de plante vénéneuse, ARSTT. (ATH. <i>429c</i>) ; EL. <i>V.H. 2, 40</i>.<p><b>Étym</b>. οἶνος.`

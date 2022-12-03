@@ -1,1 +1,0 @@
-lar[3376]=`<b>ἀ·κίθαρις, ις, ι</b>, <i>gén</i>. <b>ιος</b> <font color="purple">[ῐᾰ]</font> sans lyre, ESCHL. <i>Suppl. 681</i>.<p><b>Étym</b>. ἀ, κιθάρα.`

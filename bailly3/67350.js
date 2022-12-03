@@ -1,1 +1,0 @@
-lar[67350]=`<b>μυρσιν·έλαιον, ου (τὸ)</b> <font color="purple">[ῐ]</font> huile de myrte, DIOSC. <i>1, 48</i>.<p><b>Étym</b>. μυρσίνη, ἔλαιον.`

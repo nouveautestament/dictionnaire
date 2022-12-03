@@ -1,1 +1,0 @@
-lar[40888]=`<b>ή, όν</b>, habile à interroger, PLAT. <i>Crat. 398e ;</i> ἡ ἐρωτητική, ARSTT. <i>Soph. el. 11, 9,</i> l’art d’interroger (de façon à tirer la conclusion des réponses).<p><b>Étym</b>. ἐρωτάω.`

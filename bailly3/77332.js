@@ -1,1 +1,0 @@
-lar[77332]=`<b>(ὁ)</b> Patiramphès, <i>Perse,</i> HDT. <i>7, 40</i>.`

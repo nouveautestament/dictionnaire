@@ -1,1 +1,0 @@
-lar[5682]=`<b>άδος (ἡ)</b> jeune agnelle, SPT. <i>Gen. 31, 41</i>.<p><b>Étym</b>. ἀμνός.`

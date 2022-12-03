@@ -1,1 +1,0 @@
-lar[74881]=`<b>παν·άριστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> tout à fait supérieur <i>ou</i> supérieur en tout, HÉS. <i>O. 291</i> ; ANTH. <i>11, 394</i>.<p><b>Étym</b>. π. ἄριστος.`

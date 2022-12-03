@@ -1,1 +1,0 @@
-lar[106198]=`<b>φιλοχρημονέω-ῶ</b> <font color="purple">[ῐ]</font> <i>c</i>. φιλοχρηματέω, PLAT. <i>Leg. 729a</i>.`

@@ -1,1 +1,0 @@
-lar[2041]=`<b>ἀ·θήρευτος, ος, ον</b>, qu’on ne prend pas à la chasse, XÉN. <i>Cyr. 1, 4, 16</i> ; OPP. <i>C. 4, 513</i>.<p><b>Étym</b>. ἀ, θηρεύω.`

@@ -1,1 +1,0 @@
-lar[64662]=`<b>μετα·βλέπω :<br>      1</b> jeter les yeux vers <i>ou</i> sur, <i>acc</i>. A.RH. <i>4, 726</i>.<br><b>      2</b> changer de point de vue, ARAT. <i>186</i>.`

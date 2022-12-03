@@ -1,1 +1,0 @@
-lar[86617]=`<b>προσ·φιλοτεχνέω-ῶ</b> <font color="purple">[ῐ]</font> appliquer son esprit <i>ou</i> son industrie à, <i>dat</i>. ATHÉNION (ATH. <i>661b</i>) ; PHIL. <i>2, 509, 618 ; avec l’inf</i>. ARR. <i>Epict. 2, 20, 21</i>.`

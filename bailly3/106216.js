@@ -1,1 +1,0 @@
-lar[106216]=`<b>ας (ἡ)</b> <font color="purple">[ῐῡ]</font> amour de la vie, attachement excessif à la vie, HDT. <i>6, 22</i> ; PLAT. <i>Ap. 37c, Leg. 944f ;</i> PLUT. <i>Æmil. 26</i>.<p>➳ <i>Ion</i>. φιλοψυχίη, HDT. <i>l.c</i>.<p><b>Étym</b>. φιλόψυχος.`

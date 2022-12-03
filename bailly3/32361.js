@@ -1,1 +1,0 @@
-lar[32361]=`<b>ής, ές</b>, qui est en saillie, qui dépasse, PROCL. <i>Hyp. p. 15, 19</i>.<p><b>Étym</b>. ἐκφύω.`

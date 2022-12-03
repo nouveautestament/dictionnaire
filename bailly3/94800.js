@@ -1,1 +1,0 @@
-lar[94800]=`<b>συν·ανίημι</b>, relâcher <i>ou</i> laisser aller en même temps, PHIL. <i>2, 23</i>.`

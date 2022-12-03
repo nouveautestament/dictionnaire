@@ -1,1 +1,0 @@
-lar[28705]=`<b>δυσ·όδευτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à franchir, APP. <i>Syr. 21</i>.<p><b>Étym</b>. δ. ὁδεύω.`

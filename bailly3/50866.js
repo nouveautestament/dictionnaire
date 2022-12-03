@@ -1,1 +1,0 @@
-lar[50866]=`<b>κακό·στρωτος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la couche est dure <i>ou</i> mauvaise, <i>en parl. d’un lit,</i> ESCHL. <i>Ag. 556</i>.<p><b>Étym</b>. κ. στρώννυμι.`

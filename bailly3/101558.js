@@ -1,1 +1,0 @@
-lar[101558]=`<b>ὑδρό·μελι, ιτος (τὸ)</b> hydromel, <i>mélange d’eau et de miel,</i> DIOSC. <i>5, 17</i> ; GAL. <i>6, 274</i> ; SEXT. <i>M. 6, 44, etc</i>.<p><b>Étym</b>. ὕδ. μέλι.`

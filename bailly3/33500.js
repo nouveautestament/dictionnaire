@@ -1,1 +1,0 @@
-lar[33500]=`<i>prép</i>. à l’exception de, <i>gén</i>. ARCHIL. <i>100</i> ; CALL. <i>Del. 73</i>.<p><b>Étym</b>. ἐν. πλ.`

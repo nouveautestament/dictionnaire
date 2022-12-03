@@ -1,1 +1,0 @@
-lar[6218]=`<b>ἀμφι·κυλίω</b> (<i>seul. part. ao. dor</i>. -κυλίσαις) <font color="purple">[ῠ]</font> faire rouler tout autour <i>ou</i> sur, faire se précipiter sur, <i>dat</i>. PD. <i>N. 8, 23</i>.`

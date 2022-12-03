@@ -1,1 +1,0 @@
-lar[88675]=`<b>α, ον :<br>      1</b> de rose, EUR. <i>Hel. 245, Med. 841, etc.</i><br><b>      2</b> fait avec des roses, NIC. <i>Al. 155</i>.<br><b>      3</b> qui a la couleur d’une rose, ANTH. <i>6, 102</i> ; NONN. <i>D. 9, 296</i>.<p><b>Étym</b>. ῥόδον.`

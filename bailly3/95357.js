@@ -1,1 +1,0 @@
-lar[95357]=`<b>συν·εκκλίνω</b> <font color="purple">[ῑ]</font> courber de côté, DS. <i>3, 26</i>.`

@@ -1,1 +1,0 @@
-lar[102451]=`<b>ὑπερ·εξηκοντέτης, ης, ες</b>, plus que sexagénaire, AR. <i>Eccl. 982</i>.`

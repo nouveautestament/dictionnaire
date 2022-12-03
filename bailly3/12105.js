@@ -1,1 +1,0 @@
-lar[12105]=`<i>adv</i>., sans respirer, PLUT. <i>M. 844f</i>.<p><b>Étym</b>. ἄπνευστος.`

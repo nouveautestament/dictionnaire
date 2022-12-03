@@ -1,1 +1,0 @@
-lar[97755]=`<b>ου (ὁ)</b> <i>n. oriental du</i> faisan, PAMPHIL. (ATH. <i>387d</i>).<p><b>Étym</b>. <i>cf. persan</i> tedsrew.`

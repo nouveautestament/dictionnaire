@@ -1,1 +1,0 @@
-lar[59824]=`<b>λαο·σσόος, όος, όον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> qui pousse le peuple au combat, <i>d’ord. en parl. de divinités,</i> IL. <i>13, 128, etc. ; qqf. en parl. d’hommes,</i> OD. <i>15, 244</i> ; HÉS. <i>Sc. 37</i>.<br><b>      2</b> qui rassemble le peuple, <i>en parl. des concours, des jeux,</i> PD. <i>P. 12, 24</i>.<p><b>Étym</b>. λ. σεύω.`

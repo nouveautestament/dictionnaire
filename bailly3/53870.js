@@ -1,1 +1,0 @@
-lar[53870]=`<b>κατ·έναντα</b> <font color="purple">[τᾰ]</font> <i>adv</i>., en face de, à l’encontre de, <i>gén</i>. CYDIAS (PLAT. <i>Charm. 155d</i>) ; MAN. <i>3, 176, etc. ; abs</i>. Q. SM. <i>1, 552, etc</i>.<p><b>Étym</b>. κ. ἔναντα.`

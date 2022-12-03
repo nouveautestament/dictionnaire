@@ -1,1 +1,0 @@
-lar[77653]=`<font color="purple">[ᾱ]</font><br><b>      1</b> faire le métier de brigand <i>ou</i> de pirate, STR. <i>664</i>.<br><b>      2</b> <i>au pass</i>. être attaqué par des pirates, DURIS (SCH.-EUR. <i>Hec. 933).</i><p><b>Étym</b>. πειρατής.`

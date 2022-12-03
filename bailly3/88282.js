@@ -1,1 +1,0 @@
-lar[88282]=`<b>ή, όν</b>, tacheté, SPT. <i>Gen. 30, 32</i>.<p><b>Étym</b>. <i>vb. de</i> ῥαίνω.`

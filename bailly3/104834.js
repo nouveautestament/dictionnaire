@@ -1,1 +1,0 @@
-lar[104834]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰ]</font> territoire de Phanotée, THC. <i>4, 76</i>.<p><b>Étym</b>. <i>v</i>. φανότης.`

@@ -1,1 +1,0 @@
-lar[84027]=`<b>προ·εγχαράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[χᾰ]</font><br><b>      1</b> graver auparavant dans, PHIL. <i>2, 229</i>.<br><b>      2</b> scarifier auparavant, ARÉT. <i>Cur. m. acut. 2, 13</i>.`

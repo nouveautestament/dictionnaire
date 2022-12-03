@@ -1,1 +1,0 @@
-lar[102893]=`<b>ὑπερ·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font> faire descendre par-dessus, <i>avec</i> ἐκ <i>et le gén</i>. ANTH. <i>11, 200 dout</i>.`

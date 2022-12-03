@@ -1,1 +1,0 @@
-lar[83786]=`<b>ατος (τὸ)</b> pas en avant, marche, AR. <i>Pl. 759</i>.<p><b>Étym</b>. προβαίνω.`

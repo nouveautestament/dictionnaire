@@ -1,1 +1,0 @@
-lar[54562]=`<i>2 sg. impér. pf. pass. de</i> κράζω.`

@@ -1,1 +1,0 @@
-lar[59618]=`<b>Λά·κριτος, ου (ὁ)</b> <font color="purple">[ᾱῐ]</font> Lakritos, <i>sophiste,</i> DÉM. <i>923</i>.<p><b>Étym</b>. λαός, κρίνω ; <i>cf</i>. Κριτόλαος.`

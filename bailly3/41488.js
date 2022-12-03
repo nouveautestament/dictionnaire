@@ -1,1 +1,0 @@
-lar[41488]=`<b>ας (ἡ)</b> bonne nouvelle, SPT. <i>2Reg. 18, 20 et 27 ; 4, 7, 9</i> ; JOS. <i>A.J. 18, 6, 10</i>.<p><b>Étym</b>. εὐάγγελος.`

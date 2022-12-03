@@ -1,1 +1,0 @@
-lar[41298]=`<b>ης (ἡ)</b> différence d’opinions, JOS. <i>A.J. 10, 11, 7</i>.<p><b>Étym</b>. ἑτερογνώμων.`

@@ -1,1 +1,0 @@
-lar[1692]=`<b>ἀει·πλανής, ής, ές</b> <font color="purple">[ᾰν]</font> <i>c</i>. ἀείπλανος NAZ. <i>3, 1347 Migne</i>.`

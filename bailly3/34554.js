@@ -1,1 +1,0 @@
-lar[34554]=`<b>ἐνθουσιάω-ῶ</b> <i>(seul. prés.) c</i>. ἐνθουσιάζω, ESCHL. <i>fr. 64a ;</i> XÉN. <i>Cyr. 1, 4, 8</i> ; PLAT. <i>Phædr. 253a</i>.`

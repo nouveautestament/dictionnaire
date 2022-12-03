@@ -1,1 +1,0 @@
-lar[36383]=`<b>ἐπαγρυπνέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> veiller sur, <i>dat</i>. PLUT. <i>Brut. 37</i> ; LUC. <i>Gall. 31</i>.<br><b>      2</b> veiller pour, <i>dat</i>. DS. <i>14, 68 ; abs</i>. ARISTÉN. <i>1, 27</i>.<p><b>Étym</b>. ἐπάγρυπνος.`

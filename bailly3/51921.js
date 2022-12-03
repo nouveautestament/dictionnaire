@@ -1,1 +1,0 @@
-lar[51921]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, meilleur, plus fort, T. LOCR. <i>194c ;</i> EPICH. <i>fr. 115 Ahrens</i> ; ANTH. <i>7, 413, dor. c</i>. κρείσσων.<p><b>Étym</b>. <i>p</i>. *κάρτϳων, <i>d’où</i> *κάρσ(σ)ων ; <i>cf</i>. καρτερός, κράτος.`

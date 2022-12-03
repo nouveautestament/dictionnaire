@@ -1,1 +1,0 @@
-lar[103230]=`<b>ὑπο·ζέω</b>, bouillir un peu, entrer en ébullition, GEOP. <i>6, 12, 2</i>.`

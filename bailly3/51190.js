@@ -1,1 +1,0 @@
-lar[51190]=`<b>καλλί·πλουτος, ος, ον</b>, aux splendides richesses, PD. <i>O. 13, 159</i>.<p><b>Étym</b>. κ. πλοῦτος.`

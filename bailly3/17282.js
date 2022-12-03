@@ -1,1 +1,0 @@
-lar[17282]=`<b>οῦ (ὁ)</b> <i>transcr. du n. d’h. rom</i>. Aurēliānus, <i>part. l’empereur</i> Aurélien, A. PL. <i>4, 73</i> ; DC. <i>etc</i>.`

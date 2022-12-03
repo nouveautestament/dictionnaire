@@ -1,1 +1,0 @@
-lar[13622]=`<b>εως (ἡ)</b> action de couper de, de retrancher, PHIL. BYZ. <i>Bel. 100 etc</i>.<p><b>Étym</b>. ἀποτέμνω.`

@@ -1,1 +1,0 @@
-lar[109950]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> rafraîchissement, HDN GR. <i>Epim. p. 155 Boissonade</i>.<p><b>Étym</b>. ψυχάζω.`

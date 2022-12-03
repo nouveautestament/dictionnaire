@@ -1,1 +1,0 @@
-lar[4915]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>éol. c</i>. ἀλείτης, EMPÉD. (PLUT. <i>M. 113b</i>).`

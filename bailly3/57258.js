@@ -1,1 +1,0 @@
-lar[57258]=`<b>ή, όν</b>, qui concerne le soin de la parure, ARSTT. <i>Œc. 1, 6, 1</i> ; ἡ κοσμητική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 277a, Pol. 282a</i>, l’art de la parure, de la toilette.<p><b>Étym</b>. κοσμέω.`

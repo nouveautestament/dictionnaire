@@ -1,1 +1,0 @@
-lar[77735]=`<b>ης, ες</b>, qui ressemble à une cigogne, STR. <i>823</i>.<p><b>Étym</b>. πελαργός, -ωδης.`

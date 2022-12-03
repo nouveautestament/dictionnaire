@@ -1,1 +1,0 @@
-lar[45495]=`<b>ἡμί·νηρος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié frais, <i>càd</i>. à demi salé (poisson) ATH. <i>118f, 121b ;</i> XÉNOCR. <i>Al. 77</i>.<p><b>Étym</b>. <i>contract. de</i> *ἡμινέαρος.`

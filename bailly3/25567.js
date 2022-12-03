@@ -1,1 +1,0 @@
-lar[25567]=`<b>διά·σμυρνος, ος, ον</b>, parfumé de myrrhe (collyre) GAL. <i>13, 277d, 438a</i>.<p><b>Étym</b>. διά, σμύρνα.`

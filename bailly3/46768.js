@@ -1,1 +1,0 @@
-lar[46768]=`<b>ή, όν</b>, qui est en état de voir la divinité, HERM. (STOB. <i>Fl. 11, 23).</i><p><b>Étym</b>. θεόπτης.`

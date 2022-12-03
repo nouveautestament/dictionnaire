@@ -1,1 +1,0 @@
-lar[980]=`<b>ἄ·γρυκτος, ος, ον</b>, dont on n’ose parler même à voix basse, PHÉRÉCR. <i>(Bkk. 339).</i><p><b>Étym</b>. ἀ, γρύζω.`

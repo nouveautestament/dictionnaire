@@ -1,1 +1,0 @@
-lar[98685]=`<b>τετρά·στοιχος, ος, ον</b>, disposé sur quatre rangs <i>ou</i> rangées, TH. <i>H.P. 8, 4, 2</i>.<p><b>Étym</b>. τ. στοῖχος.`

@@ -1,1 +1,0 @@
-lar[36159]=`<b>ἐξ·οπίζω</b>, exprimer le suc, ARSTT. <i>H.A. 3, 20, 15</i>.`

@@ -1,1 +1,0 @@
-lar[96330]=`<b>εως (ἡ) :<br>      1</b> fusion de deux <i>ou</i> plusieurs choses, union étroite <i>ou</i> intime, CIC. <i>Att. 10, 8, 10</i>.<br><b>      2</b> dissolution, consomption, HPC. <i>402, 22 ; 405, 28, etc.</i> ; ARSTT. <i>P.A. 4, 2, 7, etc.</i> ; TH. <i>C.P. 1, 22, 6</i>.<p><b>Étym</b>. συντήκω.`

@@ -1,1 +1,0 @@
-lar[31955]=`<b>ἐκ·προπίπτω</b>, tomber de, ORPH. <i>Lith. 319</i>.`

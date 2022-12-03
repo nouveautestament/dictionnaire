@@ -1,1 +1,0 @@
-lar[85618]=`<b>προσ·εξετάζω</b>, rechercher en outre, DÉM. <i>586, 23 ; 722, 23</i> ; LUC. <i>Tyr. 11</i>.`

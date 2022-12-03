@@ -1,1 +1,0 @@
-lar[35197]=`<b>ἐν·υπόκειμαι</b>, servir de fondement à, <i>dat</i>. ARISTOMBR. (STOB. <i>Fl. App. 17, 21, vol. 4, p. 175, l. 22 Mein</i>.).`

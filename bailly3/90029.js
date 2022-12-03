@@ -1,1 +1,0 @@
-lar[90029]=`<b>ας (ἡ)</b> Setia (<i>auj</i>. Sezze) <i>v. du Latium,</i> PLUT. <i>Cæs. 58</i>.`

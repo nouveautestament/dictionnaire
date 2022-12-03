@@ -1,1 +1,0 @@
-lar[16907]=`<b>ων (οἱ)</b> <font color="purple">[ᾰκ]</font> habitants d’Atrax <i>ou</i> riverains de l’Atrax, LYC. <i>1309 (corr. p</i>. ἅρπαγας).<p><b>Étym</b>. Ἄτραξ.`

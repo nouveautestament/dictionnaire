@@ -1,1 +1,0 @@
-lar[77575]=`<b>πεζο·βατέω-ῶ</b> <font color="purple">[ᾰ]</font> traverser à pied, <i>acc</i>. ANTH. <i>9, 551</i>.<p><b>Étym</b>. πεζός, βατός.`

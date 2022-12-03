@@ -1,1 +1,0 @@
-lar[92675]=`<b>ῆς (ἡ)</b> tout ce qui sert à bourrer, à boucher, <i>particul. autre n. de la plante</i> φέως, <i>dont les feuilles servaient de bourre ou de bouchon,</i> TH. <i>H.P. 1, 10, 4 ; 6, 1, 3</i> ; PLUT. <i>Thes. 8 ; et qqf. de balai,</i> HIPPON. <i>fr. 51 ; fig</i>. remplissage, AR. <i>Ran. 1176</i>.<p><b>Étym</b>. στείβω.`

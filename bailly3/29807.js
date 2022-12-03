@@ -1,1 +1,0 @@
-lar[29807]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de heurter contre, choc, rencontre, SEXT. <i>387, 682</i>.<p><b>Étym</b>. ἐγκυρέω.`

@@ -1,1 +1,0 @@
-lar[2165]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> Æakos (Éaque), <i>roi d’Égine, juge des enfers,</i> IL. <i>21, 189</i> ; PLAT. <i>Gorg. 524a, etc</i>.`

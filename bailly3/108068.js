@@ -1,1 +1,0 @@
-lar[108068]=`<b>ης, ες</b>, semblable à un torrent, STR. <i>400, 616</i>.<p><b>Étym</b>. χείμαρρος, -ωδης.`

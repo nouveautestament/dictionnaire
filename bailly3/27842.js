@@ -1,1 +1,0 @@
-lar[27842]=`<b>δραπετ·αγωγός, οῦ (ὁ)</b> <font color="purple">[ᾱᾰ]</font> <i>litt</i>. le Rameneur d’esclaves fugitifs, <i>comédie d’Antiphane,</i> ATH. <i>161e</i>.<p><b>Étym</b>. δραπέτης, ἄγω.`

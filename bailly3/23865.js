@@ -1,1 +1,0 @@
-lar[23865]=`<b>δενδροφορέω-ῶ</b> (<i>seul. prés. inf</i>.) porter des branches d’arbres, <i>à côté de</i> θυρσοφορέω, ARTÉM. <i>2, 37</i>.<p><b>Étym</b>. δενδροφόρος.`

@@ -1,1 +1,0 @@
-lar[97752]=`<b>ου (ὁ)</b> = <i>lat</i>. Tatius, <i>roi des Sabins,</i> PLUT. <i>Rom. 17, etc. ; Num. 2, etc</i>.`

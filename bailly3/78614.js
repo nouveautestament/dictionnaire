@@ -1,1 +1,0 @@
-lar[78614]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> περίζωμα DH. <i>10, 17</i>.`

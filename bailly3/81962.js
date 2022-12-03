@@ -1,1 +1,0 @@
-lar[81962]=`<b>πολυ·κανής, ής, ές</b> <font color="purple">[ῠᾰ]</font> très meurtrier, ESCHL. <i>Ag. 1169</i>.<p><b>Étym</b>. π. καίνω.`

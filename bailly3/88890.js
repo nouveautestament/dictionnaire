@@ -1,1 +1,0 @@
-lar[88890]=`<b>ῥυπαρο·γράφος, ου (ὁ)</b> <font color="purple">[ῠᾰᾰ]</font> peintre de menus objets <i>ou</i> d’objets de nature morte, PLIN. <i>H.N. 35, 10, 37</i>.<p><b>Étym</b>. ῥυπαρός, γράφω.`

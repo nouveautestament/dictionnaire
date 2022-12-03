@@ -1,1 +1,0 @@
-lar[82008]=`<b>πολύ·κλυστος, ος, ον :<br>      1</b> aux vagues fortement agitées, OD. <i>4, 354 ; 6, 204</i> ; HÉS. <i>Th. 189</i>.<br><b>      2</b> fortement battu des flots, HÉS. <i>Th. 199</i>.<p><b>Étym</b>. π. κλύζω.`

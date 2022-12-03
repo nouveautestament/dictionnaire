@@ -1,1 +1,0 @@
-lar[25593]=`<b>δια·στάζω</b> (<i>fut. 3 sg</i>. -στάξει) tomber goutte à goutte, dégoutter, GEOP. <i>7, 8, 4</i>.`

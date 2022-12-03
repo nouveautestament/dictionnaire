@@ -1,1 +1,0 @@
-lar[3845]=`<b>ἀκρο·στιχίς, ίδος (ἡ)</b> <font color="purple">[ῐχ]</font> acrostiche, pièce où les initiales de chaque vers réunies forment un sens, DH. <i>4, 62</i> ; CIC. <i>Div. 2, 54</i>.<p><b>Étym</b>. ἄ. στίχος.`

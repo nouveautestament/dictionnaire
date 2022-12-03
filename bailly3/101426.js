@@ -1,1 +1,0 @@
-lar[101426]=`<b>ὑγρ·ουσία, ας (ἡ)</b> substance humide <i>ou</i> liquide, CHALCID. (PLAT. <i>Tim. fol. 36).</i><p><b>Étym</b>. ὑ. οὐσία.`

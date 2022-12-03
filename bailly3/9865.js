@@ -1,1 +1,0 @@
-lar[9865]=`<b>ἀντι·δράσσομαι</b>, <i>att</i>. <b>ἀντιδράττομαι</b>, s’emparer à son tour de, <i>gén</i>. THÉM. <i>357b</i>.`

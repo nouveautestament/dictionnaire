@@ -1,1 +1,0 @@
-lar[105759]=`<b>Φιλο·δίκης (ὁ)</b> Philodikès, <i>Athénien,</i> XÉN. <i>Hell. 1, 3, 13</i>.<p><b>Étym</b>. <i>cf</i>. φιλόδικος.`

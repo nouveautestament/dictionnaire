@@ -1,1 +1,0 @@
-lar[4068]=`<b>ύος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀλαλητός ANTH. <i>4, 152</i>.`

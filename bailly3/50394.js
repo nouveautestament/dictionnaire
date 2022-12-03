@@ -1,1 +1,0 @@
-lar[50394]=`<font color="purple">[κᾰ]</font> <i>adv</i>., d’une manière rebattue, <i>càd</i>. triviale, vulgaire, ÆL. DION. (EUST. <i>p. 1387, 9).</i><p><b>Étym</b>. καθαμαξεύω.`

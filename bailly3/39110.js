@@ -1,1 +1,0 @@
-lar[39110]=`<b>ἐπι·στείχω</b> (<i>seul. prés</i>.) s’approcher de, <i>acc</i>. ESCHL. <i>Eum. 906 ; abs</i>. EUR. <i>fr. 813, 7</i>.`

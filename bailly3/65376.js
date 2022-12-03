@@ -1,1 +1,0 @@
-lar[65376]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> maladie des ânes, ARSTT. <i>H.A. 8, 25</i>.`

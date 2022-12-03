@@ -1,1 +1,0 @@
-lar[21981]=`<b>άδος (ἡ)</b> la Gigantiade <i>ou</i> les Aventures des Géants, <i>poème de Dionysios,</i> E. BYZ. <i>v</i>° Δωδώνη.<p><b>Étym</b>. γίγας.`

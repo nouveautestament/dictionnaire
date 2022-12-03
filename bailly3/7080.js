@@ -1,1 +1,0 @@
-lar[7080]=`<b>*ἀναλειψία</b>, <i>ion</i>. <b>ἀναλειψίη, ης (ἡ)</b> <font color="purple">[ᾰλ]</font> état de celui dont le corps n’est pas graissé, HPC. <i>362, 5</i> ; SYMM. <i>Ps. 108, 24</i>.<p><b>Étym</b>. ἀνάλειπτος.`

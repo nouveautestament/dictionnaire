@@ -1,1 +1,0 @@
-lar[20115]=`<i>ou</i> <b>βολβίτιον, ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit polype de mer d’une odeur nauséabonde, HPC. <i>649, 36 ; 651, 50. Cf</i>. βολβιτίς, βολβιτίνη, βολίταινα.<p><b>Étym</b>. βολβός.`

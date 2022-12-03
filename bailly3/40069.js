@@ -1,1 +1,0 @@
-lar[40069]=`<b>ἐπ·ωδυνάομαι-ῶμαι</b> <font color="purple">[ῠ]</font> éprouver de la douleur au sujet de, <i>dat</i>. NYSS. <i>1, 243</i>.<p><b>Étym</b>. ἐπί, ὀδύνη.`

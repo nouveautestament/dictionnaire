@@ -1,1 +1,0 @@
-lar[31023]=`<b>ἑκατοντα·έτης, ης, ες</b> <font color="purple">[ᾰᾰ]</font> de cent ans, séculaire, PD. <i>P. 4, 282</i> ; SPT. <i>Gen. 17, 17</i>.<p><b>Étym</b>. ἑ. ἔτος.`

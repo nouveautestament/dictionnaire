@@ -1,1 +1,0 @@
-lar[21934]=`<b>ά, όν</b>, vieux, âgé, HÉS. <i>O. 376</i> ; PD. <i>P. 4, 157</i> ; EUR. <i>Alc. 60</i> ; HDT. <i>3, 64, etc.</i> ; XÉN. <i>Ages. 11, 15</i> ; PLAT. <i>Conv. 179e ; en parl. de choses</i> (cœur, esprit), ESCHL. <i>Suppl. 606</i>.<p>➳ <i>Fém</i>. γηραιός, ANT. <i>125, 25</i>.<p><b>Étym</b>. γῆρας ; <i>cf</i>. γεραιός.`

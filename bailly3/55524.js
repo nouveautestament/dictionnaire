@@ -1,1 +1,0 @@
-lar[55524]=`<b>κινναμο·λόγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>propr</i>. qui ramasse (pour faire un nid) des branches de cannelier, <i>n. d’un oiseau,</i> PLIN. <i>H.N. 10, 50</i>.<p><b>Étym</b>. κίνναμον, λέγω.`

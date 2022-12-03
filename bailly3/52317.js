@@ -1,1 +1,0 @@
-lar[52317]=`<b>κατα·δημοβορέω-ῶ</b>, dévorer en commun parmi le peuple, IL. <i>18, 301</i>.<p><b>Étym</b>. κ. δημοβόρος.`

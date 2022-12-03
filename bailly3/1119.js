@@ -1,1 +1,0 @@
-lar[1119]=`<b>(οἱ)</b> = <i>lat</i>. Agōnāles, prêtres du collège des Saliens, DH. <i>2, 70</i>.`

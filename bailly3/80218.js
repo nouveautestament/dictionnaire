@@ -1,1 +1,0 @@
-lar[80218]=`<b>ας (ἡ)</b> <font color="purple">[ῐθᾰ]</font> langage persuasif, raison spécieuse, PLAT. <i>Theæt. 163a ;</i> NT. <i>Col. 2, 4</i>.<p><b>Étym</b>. πιθανολόγος.`

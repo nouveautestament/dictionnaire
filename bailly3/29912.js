@@ -1,1 +1,0 @@
-lar[29912]=`<b>ἐγ·χλαινόω-ῶ</b> (<i>seul. part. prés. pass</i>.) couvrir d’un vêtement de laine, LYC. <i>947, 1347</i>.<p><b>Étym</b>. ἐν, χλαῖνα.`

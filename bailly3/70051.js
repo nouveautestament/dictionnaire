@@ -1,1 +1,0 @@
-lar[70051]=`<i>dout. p</i>. <b>ὀγκητής, οῦ</b>, <i>adj. m</i>. qui brait, ANTH. <i>9, 301</i>.<p><b>Étym</b>. ὀγκάομαι.`

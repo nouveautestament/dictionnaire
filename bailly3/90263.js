@@ -1,1 +1,0 @@
-lar[90263]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> qui ressemble au concombre <i>ou</i> à la citrouille, TH. <i>H.P. 7, 13, 1</i>.<p><b>Étym</b>. σικύα <i>ou</i> σίκυος, -ωδης.`

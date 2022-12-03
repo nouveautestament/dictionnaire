@@ -1,1 +1,0 @@
-lar[99228]=`<b>(ὁ)</b> <font color="purple">[ῑῐᾱ]</font> Timidas, <i>h</i>. PD. <i>N. 6, 70</i>.<p><b>Étym</b>. τιμή.`

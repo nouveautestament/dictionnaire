@@ -1,1 +1,0 @@
-lar[98968]=`<b>ου (ἡ)</b> Tèlos (<i>auj</i>. Tílos) <i>î. près de Rhodes,</i> HDT. <i>7, 153</i>.`

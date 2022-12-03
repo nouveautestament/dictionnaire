@@ -1,1 +1,0 @@
-lar[62921]=`<b>ων (οἱ)</b> les Mardonies, <i>pple d’Asie, dans la région du Masios,</i> XÉN. <i>An. 4, 3, 4</i>.<p><b>Étym</b>. <i>conj</i>. Μάρδοι.`

@@ -1,1 +1,0 @@
-lar[34258]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> vêtement, STR. <i>3, 3, 7 Kram.</i> ; PLUT. <i>Sol. 8</i> ; SPT. <i>2Reg. 1, 24 ; Prov. 29, 40, etc.</i> ; NT. <i>Matth. 7, 15, etc.</i> ; JOS. <i>A.J. 3, 7, 2 ; B.J. 5, 5, 7</i>.<p><b>Étym</b>. ἐνδύω.`

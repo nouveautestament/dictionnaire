@@ -1,1 +1,0 @@
-lar[96273]=`<b>συν·ταπεινόω-ῶ</b> <font color="purple">[ᾰ]</font> abaisser ensemble <i>ou</i> en même temps, STR. <i>817</i>.`

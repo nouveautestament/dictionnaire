@@ -1,1 +1,0 @@
-lar[42704]=`<b>εὐ·μίσητος, ος, ον</b> <font color="purple">[ῑ]</font> tout à fait détestable, XÉN. <i>Cyr. 3, 1, 9 au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. εὖ, μισέω.`

@@ -1,1 +1,0 @@
-lar[25303]=`<b>δια·πλώω</b>, <i>ion. c</i>. διαπλέω, naviguer à travers, <i>acc</i>. A.RH. NIC. <i>etc</i>.<p>➳ <i>Prés. ind. 3 sg</i>. -πλώει, NIC. <i>Al. 571 ; inf</i>. -πλώειν, A.RH. <i>2, 629. Ao. part</i>. -πλώσας, ANTH. <i>7, 23</i>.`

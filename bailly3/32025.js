@@ -1,1 +1,0 @@
-lar[32025]=`<b>ἐκ·σαλάσσω</b> <font color="purple">[σᾰ]</font> secouer violemment, ANTH. <i>5, 235 ; fig</i>. THCR. <i>Idyl. 2, 85</i>.`

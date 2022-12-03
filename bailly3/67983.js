@@ -1,1 +1,0 @@
-lar[67983]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font><br><b>      1</b> monceau <i>ou</i> rangée de cadavres, IL. <i>5, 886</i> ; ANTH. <i>15, 40</i> ; LUC. <i>Philopatr. 10</i>.<br><b>      2</b> ligne de combattants, CALL. <i>fr. 231</i>.<br><b>      3</b> âme, CYCLIQ. (EM. <i>600, 9).</i><p><b>Étym</b>. <i>cf</i>. νεκρός, νέκυς.`

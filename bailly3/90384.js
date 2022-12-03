@@ -1,1 +1,0 @@
-lar[90384]=`<b>ου (ἡ)</b> Sindos, <i>v. de Mygdonie,</i> HDT. <i>7, 123, etc</i>.`

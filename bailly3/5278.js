@@ -1,1 +1,0 @@
-lar[5278]=`<b>Ἀμαρυνθίαδες κοῦραι (αἱ)</b> <font color="purple">[ᾰᾰᾰ]</font> les jeunes filles d’Amarynthos, ANTH. <i>6, 156</i>.`

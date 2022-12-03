@@ -1,1 +1,0 @@
-lar[104542]=`<b>ὑψι·φάεννος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. ὑψιφαής PHIL. (EUS. <i>P.E. 453a</i>).`

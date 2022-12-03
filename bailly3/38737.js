@@ -1,1 +1,0 @@
-lar[38737]=`<b>ἐπίπλοος-ους, όου-ου (ὁ) :<br>      1</b> action de naviguer contre, <i>d’où</i> expédition navale contre, <i>dat</i>. THC. <i>3, 78 ; 2, 17 ; 8, 30</i> ; ἐπί <i>et l’acc</i>. THC. <i>8, 63</i> ; XÉN. <i>Hell. 2, 1, 28 ; 4, 3, 11</i>.<br><b>      2</b> <i>rar</i>. action de naviguer vers, approche de vaisseaux amis, THC. <i>8, 102</i>.<p><b>Étym</b>. ἐπιπλέω.`

@@ -1,1 +1,0 @@
-lar[106541]=`<b>ου (τὸ)</b> <font color="purple">[νῑῐδ]</font> petit Phénicien, DL. <i>7, 3</i>.<p><b>Étym</b>. Φοῖνιξ.`

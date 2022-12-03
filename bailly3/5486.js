@@ -1,1 +1,0 @@
-lar[5486]=`<b>ἀμεταδότως</b>, <i>adv</i>., sans partager avec autrui, PLUT. <i>M. 525d</i>.`

@@ -1,1 +1,0 @@
-lar[6957]=`<b>ἀνα·κλύζω :<br>      1</b> baigner de ses flots, A.RH. <i>2, 551</i>.<br><b>      2</b> être agité comme des vagues, PLUT. <i>M. 590f</i>.`

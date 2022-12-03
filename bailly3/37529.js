@@ -1,1 +1,0 @@
-lar[37529]=`<b>ος, ον</b>, qui arrive après le repas, LUC. <i>Lex. 9</i>.<p><b>Étym</b>. ἐπίδειπνον.`

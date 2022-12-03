@@ -1,1 +1,0 @@
-lar[22190]=`<b>γλυκύ·φωνος, ος, ον</b> <font color="purple">[ῠῠ]</font> à la voix douce, au doux son, SCH.-PD. <i>O. 4, 4</i>.<p><b>Étym</b>. γλ. φωνή.`

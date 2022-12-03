@@ -1,1 +1,0 @@
-lar[60078]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> peau qui s’écaille, <i>particul</i>. peau dont se dépouillent les serpents et les insectes, lors de la mue, HPC. <i>625, 41, etc.</i> ; JOS. <i>A.J. 3, 7, 2</i>.<br><b>      2</b> terrier de lièvre, AR. <i>fr. 102</i> ; STR. <i>144</i> ; ATH. <i>362b ;</i> ALCIPHR. <i>3, 19</i>.<p><b>Étym</b>. λέπω.`

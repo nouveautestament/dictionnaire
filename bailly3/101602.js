@@ -1,1 +1,0 @@
-lar[101602]=`<b>Ὑδρό·χαρις (ἡ)</b> <font color="purple">[ᾰ]</font> Hydrokharis (<i>litt</i>. « qui se plaît dans l’eau ») <i>n. de grenouille,</i> BATR. <i>229</i>.<p><b>Étym</b>. ὕδ. χαίρω.`

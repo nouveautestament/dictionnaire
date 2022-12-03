@@ -1,1 +1,0 @@
-lar[3832]=`<b>ἀκρό·πτερον, ου (τὸ)</b> bout de l’aile, ANTH. <i>6, 229</i> ; ἀκρόπτερα φωτῶν, OPP. <i>C. 4, 127,</i> hommes postés à l’extrémité d’un filet.<p><b>Étym</b>. ἄ. πτερόν.`

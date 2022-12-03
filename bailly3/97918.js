@@ -1,1 +1,0 @@
-lar[97918]=`<b>ταχύ·ρροθος, ος, ον</b> <font color="purple">[ᾰ]</font> qui s’élance vivement, impétueux, ESCHL. <i>Sept. 285</i>.<p><b>Étym</b>. τ. ῥόθος.`

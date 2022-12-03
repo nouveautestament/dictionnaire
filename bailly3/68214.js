@@ -1,1 +1,0 @@
-lar[68214]=`<b>νεο·ποιέω-ῶ</b>, renouveler, CLÉM. <i>1, 577 Migne</i>.<p><b>Étym</b>. ν. ποιέω.`

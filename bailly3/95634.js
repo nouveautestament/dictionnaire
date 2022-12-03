@@ -1,1 +1,0 @@
-lar[95634]=`<b>συν·επικόπτω</b>, raccourcir <i>ou</i> couper en même temps, NYSS.`

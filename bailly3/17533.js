@@ -1,1 +1,0 @@
-lar[17533]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> pouvoir absolu, autocratie, PLAT. <i>Def. 412d</i>.<p><b>Étym</b>. αὐτοκρατής.`

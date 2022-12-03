@@ -1,1 +1,0 @@
-lar[87787]=`<b>πυργο·μάχος, ος, ον</b>, qui attaque <i>ou</i> défend une tour, ATH. <i>154f</i>.<p><b>Étym</b>. π. μάχομαι.`

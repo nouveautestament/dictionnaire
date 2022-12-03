@@ -1,1 +1,0 @@
-lar[101358]=`<b>(οἱ)</b> les Hygennées, <i>pple d’Asie Mineure,</i> HDT. <i>3, 90</i>.`

@@ -1,1 +1,0 @@
-lar[60643]=`<b>λευκο·χρώματος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. λευκόχρως PHINTYS (STOB. <i>Fl. 74, 61).</i><p><b>Étym</b>. λ. χρῶμα.`

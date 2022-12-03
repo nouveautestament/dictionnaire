@@ -1,1 +1,0 @@
-lar[65822]=`<b>ῶν (οἱ)</b> les Milyes, <i>pple Lycien primit. appelé</i> Σόλυμοι, HDT. <i>1, 173 ; 3, 90</i>.<p>➳ <i>Gén. ion</i>. Μιλυέων, HDT. <i>3, 90</i>.`

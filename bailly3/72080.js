@@ -1,1 +1,0 @@
-lar[72080]=`<b>οῦς (ἡ)</b> la déesse au regard perçant, <i>càd</i>. Athèna, PAUS. <i>2, 24, 2</i>.<p><b>Étym</b>. ὀξυδερκής.`

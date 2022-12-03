@@ -1,1 +1,0 @@
-lar[93527]=`<b>συγ·κρατύνω</b> <font color="purple">[ᾰ, ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> confirmer, corroborer, PLUT. <i>M. 656e ; au pass</i>. HPC. <i>1006c</i>.`

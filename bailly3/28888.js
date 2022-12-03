@@ -1,1 +1,0 @@
-lar[28888]=`<b>ατος (τὸ)</b> acte d’impiété, DH. <i>3, 1409 Reiske</i> ; SPT. <i>2Macc. 12, 3</i>.<p><b>Étym</b>. δυσσεβέω.`

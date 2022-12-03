@@ -1,1 +1,0 @@
-lar[78263]=`<i>adv</i>., d’une manière compacte, CHRYS. <i>1, 979</i>.<p><b>Étym</b>. πυκνόω.`

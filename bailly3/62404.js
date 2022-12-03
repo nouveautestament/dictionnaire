@@ -1,1 +1,0 @@
-lar[62404]=`<b>Μαιώτης ποταμός (ὁ)</b> le Tanaïs <i>ou</i> Don, <i>fl. de Scythie,</i> HDT. <i>4, 45</i>.`

@@ -1,1 +1,0 @@
-lar[18796]=`<b>βαθυ·ρρείτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. au courant profond, IL. <i>21, 195 (gén. épq</i>. -ρρείταο) ; HÉS. <i>Th. 265</i>.<p><b>Étym</b>. β. ῥέω.`

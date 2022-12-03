@@ -1,1 +1,0 @@
-lar[14497]=`<b>ἀρηϊ·κτάμενος, ος, ον</b> <font color="purple">[ᾱᾰ]</font> tué par Arès, IL. <i>22, 72</i>.<p><b>Étym</b>. Ἄρης, κτείνω.`

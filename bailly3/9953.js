@@ -1,1 +1,0 @@
-lar[9953]=`<b>Ἀντι·κάτων, ωνος (ὁ)</b> l’Anticaton, <i>titre d’un ouvrage de César en réponse au Caton de Cicéron,</i> PLUT. <i>Cæs. 54</i> ; APP. <i>Civ. 2, 99</i>.<p><b>Étym</b>. ἀ. Κάτων.`

@@ -1,1 +1,0 @@
-lar[41306]=`<i>adv</i>., d’opinion hétérodoxe, PHILSTR. <i>559</i>.`

@@ -1,1 +1,0 @@
-lar[40125]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> ἐρανίζω, CLÉM. <i>785</i>.`

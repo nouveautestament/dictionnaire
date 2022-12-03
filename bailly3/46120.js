@@ -1,1 +1,0 @@
-lar[46120]=`<b>ατος (τὸ)</b> <font color="purple">[θᾱ]</font><br><b>      1</b> action de s’asseoir <i>ou</i> d’être assis comme un suppliant, SOPH. <i>O.C. 1160, 1179</i>.<br><b>      2</b> siège, SOPH. <i>O.C. 1380</i> ; EUR. <i>Ion 492</i>.<p><b>Étym</b>. θακέω.`

@@ -1,1 +1,0 @@
-lar[109020]=`<i>adv</i>., bien, comme il faut, <i>d’où</i> :<br><b>      1</b> de bonne foi, loyalement, AR. <i>Eccl. 219</i>.<br><b>      2</b> d’une façon salutaire, utile, pratique, HDT. <i>4, 117</i> ; AR. <i>Eq. 345</i> ; SPT. <i>Sap. 8, 1 ; p. opp. à</i> αἰσχρῶς, PLUT. <i>Nic. c. Crass. 1</i>.<p><b>Étym</b>. χρηστός.`

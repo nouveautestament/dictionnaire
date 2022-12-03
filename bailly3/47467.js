@@ -1,1 +1,0 @@
-lar[47467]=`<b>ητος (ἡ)</b> apparence trouble d’un liquide, HPC. <i>1028d</i>.<p><b>Étym</b>. θολερός.`

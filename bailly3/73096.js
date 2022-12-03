@@ -1,1 +1,0 @@
-lar[73096]=`<b>ου (ὁ) :<br>      1</b> enfouisseur, ARCHESTR. (ATH. <i>326b</i>).<br><b>      2</b> soc de charrue, STR. <i>692</i>.<p><b>Étym</b>. ὀρύσσω.`

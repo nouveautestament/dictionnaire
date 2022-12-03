@@ -1,1 +1,0 @@
-lar[11854]=`<b>ἀπ·ευτακτέω-ῶ</b>, payer régulièrement un tribut, STR. <i>206, 311</i>.`

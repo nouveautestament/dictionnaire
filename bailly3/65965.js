@@ -1,1 +1,0 @@
-lar[65965]=`<b>α (ὁ)</b> <font color="purple">[ᾱᾱ]</font> Misgolaïdas, <i>Spartiate,</i> XÉN. <i>Hell. 2, 3, 10</i>.<p><b>Étym</b>. <i>patr. de</i> Μισγόλας.`

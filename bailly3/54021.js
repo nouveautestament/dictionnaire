@@ -1,1 +1,0 @@
-lar[54021]=`<b>κατ·ῆλιψ, ιφος (ἡ)</b> <font color="purple">[ῐφ]</font> grenier <i>ou</i> combles d’une maison, AR. <i>Ran. 564</i> ; LUC. <i>Lex. 8</i>.<p><b>Étym</b>. <i>inconnue</i>.`

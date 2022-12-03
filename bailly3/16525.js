@@ -1,1 +1,0 @@
-lar[16525]=`<b>ἀ·σύνοπτος, ος, ον</b>, que l’on ne peut embrasser d’un coup d’œil, difficile à saisir, ESCHN. <i>47, 31</i>.<p><b>Étym</b>. ἀ, συνόψομαι.`

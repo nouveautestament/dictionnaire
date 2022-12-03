@@ -1,1 +1,0 @@
-lar[1553]=`<i>adv</i>., en gros, GAL. <i>13, 861</i>.`

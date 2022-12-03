@@ -1,1 +1,0 @@
-lar[51812]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> pêcheur de crabes, ARTÉM. <i>2, 14</i>.<p><b>Étym</b>. καρκίνος.`

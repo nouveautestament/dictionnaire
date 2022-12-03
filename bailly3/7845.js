@@ -1,1 +1,0 @@
-lar[7845]=`<b>ἀν·αφαίρετος, ος, ον :<br>      1</b> qu’on ne peut enlever, DS. <i>18, 18, etc.</i> ; DH. <i>2, 25, etc.</i> ; ARR. <i>Epict. 3, 24, 8, etc.</i><br><b>      2</b> qu’on ne peut diminuer par une soustraction (nombre) THEOL. <i>30</i>.<p><b>Étym</b>. ἀν-, ἀφαιρέω.`

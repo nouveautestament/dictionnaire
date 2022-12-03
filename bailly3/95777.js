@@ -1,1 +1,0 @@
-lar[95777]=`<i>adv</i>., fermement, ARSTT. <i>Pol. 8, 5, 22</i>.<p><b>Étym</b>. συνεστηκώς.`

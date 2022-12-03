@@ -1,1 +1,0 @@
-lar[10083]=`<b>ἀντι·μετάθεσις, εως (ἡ)</b> <i>t. de rhét.</i> :<br><b>      1</b> action de mettre une personne à la place d’une autre, <i>p. ex</i>. la 2<sup>e</sup> à la place de la 1<sup>re</sup>, LGN <i>26</i>.<br><b>      2</b> emploi d’un mot en deux sens différents (<i>cf. lat</i>. traductio) ALEX. (<i>W. 8, 479).</i><p><b>Étym</b>. ἀντιμετατίθημι.`

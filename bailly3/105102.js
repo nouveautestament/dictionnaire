@@ -1,1 +1,0 @@
-lar[105102]=`<b>οῦ (ὁ) :<br>      1</b> chêne-liège, TH. <i>H.P. 1, 2, 7, etc.</i><br><b>      2</b> <i>p. suite,</i> liège, PD. <i>P. 2, 146</i> ; ESCHL. <i>Ch. 506</i> ; PLAT. <i>Pol. 288e</i>.<p><b>Étym</b>. <i>cf</i>. φλοιός.`

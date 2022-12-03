@@ -1,1 +1,0 @@
-lar[5122]=`<b>α, ον</b> <font color="purple">[ᾰλ]</font> de renard, GAL. <i>10, 581</i>.<p><b>Étym</b>. ἀλώπηξ.`

@@ -1,1 +1,0 @@
-lar[26623]=`<b>ος, ον</b> <font color="purple">[ῐᾰ]</font> composé de deux propositions en forme de dilemme, HERMOG. <i>Rhet. 3, 167</i>.<p><b>Étym</b>. δίλημμα.`

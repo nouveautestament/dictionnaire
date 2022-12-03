@@ -1,1 +1,0 @@
-lar[64350]=`<b>(ὁ)</b> le fils de Ménœtios (Patrocle) IL. <i>1, 307, etc</i>.<p>➳ <i>Voc</i>. -άδη, IL. <i>11, 608, etc. ; gén. épq</i>. -άδαο <font color="purple">[ᾰᾱ]</font> IL. <i>17, 420, etc. ; ion</i>. -άδεω. IL. <i>18, 93</i>.<p><b>Étym</b>. <i>v</i>. Μενοίτιος.`

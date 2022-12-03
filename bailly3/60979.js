@@ -1,1 +1,0 @@
-lar[60979]=`<b>ης, ες</b>, semblable à la suie, fuligineux, GAL. <i>3, 59</i> ; A. APHR. <i>Probl. 1, 21</i>.<p><b>Étym</b>. λιγύς, -ωδης.`

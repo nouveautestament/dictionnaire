@@ -1,1 +1,0 @@
-lar[97102]=`<b>σχοινο·τενής, ής, ές :<br>   I</b> tendu comme une corde, <i>d’où</i> :<br><b>      1</b> en droite ligne, droit, HDT. <i>1, 189, 199 ; 7, 23</i>.<br><b>      2</b> étendu, allongé, prolixe, PHILSTR. <i>747</i>.<br><b>   II</b> fait de jonc tendu, tressé de jonc, ANTH. <i>6, 5</i>.<p><b>Étym</b>. σχοῖνος, τείνω.`

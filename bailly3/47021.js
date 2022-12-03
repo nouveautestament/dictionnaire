@@ -1,1 +1,0 @@
-lar[47021]=`<b>θεσμο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien des lois et des institutions, <i>en Élide,</i> THC. <i>5, 47</i> ; DS. <i>5, 67</i>.<p><b>Étym</b>. θ. φύλαξ.`

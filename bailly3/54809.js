@@ -1,1 +1,0 @@
-lar[54809]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. κεράμειος, HDT. <i>3, 96</i> ; XÉN. <i>An. 3, 4, 7</i>.`

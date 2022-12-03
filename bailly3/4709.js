@@ -1,1 +1,0 @@
-lar[4709]=`<b>ἀλλαντο·ποιός, οῦ (ὁ)</b> qui fait des saucissons, charcutier, DL. <i>2, 60</i>.<p><b>Étym</b>. ἀλλᾶς, ποιέω.`

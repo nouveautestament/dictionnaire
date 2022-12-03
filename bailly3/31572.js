@@ -1,1 +1,0 @@
-lar[31572]=`<b>ἐκ·λειτουργέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐξελειτούργησεν)</font> remplir jusqu’au bout les devoirs d’une magistrature, IS. <i>67, 29</i>.`

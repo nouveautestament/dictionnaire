@@ -1,1 +1,0 @@
-lar[100558]=`<b>τριτο·πάτωρ, ορος (ὁ)</b> <font color="purple">[ῐᾰ]</font> bisaïeul, ARSTT. <i>fr. 376</i>.<p>➳ <i>Dans les inscr. att</i>. Τριτοπατρεύς (<i>inscr. de 400/350 av. J.-C.) non</i> Τριτοπάτωρ ; <i>v. Meisterh. p. 111, 11</i>.<p><b>Étym</b>. τρίτος, πατήρ.`

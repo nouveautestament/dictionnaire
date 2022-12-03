@@ -1,1 +1,0 @@
-lar[59944]=`<b>α, ον</b>, de Latmos, THCR. <i>Idyl. 20, 39, etc</i>.<p><b>Étym</b>. Λάτμος.`

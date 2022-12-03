@@ -1,1 +1,0 @@
-lar[57295]=`<b>κοσμο·τέχνης, ου (ὁ)</b> l’artisan de l’univers, <i>càd</i>. Dieu, SYN. <i>327d</i>.<p><b>Étym</b>. κ. τέχνη.`

@@ -1,1 +1,0 @@
-lar[107386]=`<b>φωνασκέω-ῶ</b>, exercer sa voix, s’exercer au chant <i>ou</i> à la déclamation et suivre un régime approprié, PLAT. <i>Leg. 665e ;</i> DÉM. <i>328, 11 ; 421, 21 ; 449, 14</i> ; ARSTT. <i>Probl. 11, 22</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>M. 349a</i>.<p><b>Étym</b>. φωνασκός.`

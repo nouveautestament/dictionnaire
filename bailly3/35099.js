@@ -1,1 +1,0 @@
-lar[35099]=`<b>ος, ον</b>, incisé, entaillé ; <i>subst</i>. τὰ ἔντομα :<br><b>      1</b> (<i>s.-e</i>. ζῷα) ARSTT. <i>H.A. 1, 1, 13, etc</i>. les insectes.<br><b>      2</b> (<i>s.-e</i>. σφάγια) HDT. <i>2, 119 ; 7, 191</i> ; A.RH. <i>1, 589,</i> victimes offertes aux mânes, sacrifices aux mânes.<p><b>Étym</b>. ἐντέμνω.`

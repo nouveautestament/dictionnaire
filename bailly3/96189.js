@@ -1,1 +1,0 @@
-lar[96189]=`suivre de près, accompagner, SOPH. <i>fr. 342 Dind</i>.<p><b>Étym</b>. συνοπαδός.`

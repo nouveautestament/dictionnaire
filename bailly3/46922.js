@@ -1,1 +1,0 @@
-lar[46922]=`<i>seul. fém</i>. θερμαία, protectrice des bains chauds (Artémis) ARSTD. <i>t. 1, 322</i>.`

@@ -1,1 +1,0 @@
-lar[48254]=`<b>ίδος (ἡ)</b> Iapis, <i>ravin conduisant d’Athènes à Mégare,</i> CALL. (E. BYZ.).`

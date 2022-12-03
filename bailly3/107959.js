@@ -1,1 +1,0 @@
-lar[107959]=`<b>χαριτ·ώπης, ου</b> <font color="purple">[ᾰῐ]</font> <i>adj. m</i>. à l’air gracieux, ORPH. <i>H. 16, 5</i>.<p><b>Étym</b>. χάρις, ὤψ.`

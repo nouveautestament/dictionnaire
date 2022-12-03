@@ -1,1 +1,0 @@
-lar[90239]=`<b>ου (ὁ)</b> = <i>lat</i>. Sicinnius, <i>n. d’h. rom</i>. PLUT. <i>Cor. 7, etc</i>.`

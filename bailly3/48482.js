@@ -1,1 +1,0 @@
-lar[48482]=`<b>άδος (ἡ)</b> l’Idriade, <i>contrée de Phrygie, limitrophe de la Carie,</i> HDT. <i>5, 118</i>.`

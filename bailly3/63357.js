@@ -1,1 +1,0 @@
-lar[63357]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> munificence, LUC. <i>Sat. 4</i> ; HLD. <i>9, 24</i>.<p><b>Étym</b>. μεγαλόδωρος.`

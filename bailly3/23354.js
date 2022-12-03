@@ -1,1 +1,0 @@
-lar[23354]=`<b>(ὁ)</b> Daurisès, <i>Perse,</i> HDT. <i>5, 116</i>.`

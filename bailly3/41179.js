@@ -1,1 +1,0 @@
-lar[41179]=`<b>ιος (ἡ)</b> <font color="purple">[ᾰ]</font> action d’enfoncer, enfoncement, HPC. <i>899f</i>.<p><b>Étym</b>. ἐσφλάω.`

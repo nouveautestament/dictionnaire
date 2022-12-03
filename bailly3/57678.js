@@ -1,1 +1,0 @@
-lar[57678]=`<b>ή, όν</b>, qui aime à crier, criard, PROCL. <i>Ptol. p. 230, 3</i>.`

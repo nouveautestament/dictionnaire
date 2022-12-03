@@ -1,1 +1,0 @@
-lar[1197]=`<b>ής, ές</b>, qui n’a pas besoin de, <i>gén</i>. M. TYR. <i>5, 1, etc</i>.<p><b>Étym</b>. ἀ, δέομαι.`

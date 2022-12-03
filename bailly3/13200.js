@@ -1,1 +1,0 @@
-lar[13200]=`<i>vb. de</i> ἀπορέω, SEXT. <i>729</i> ; PLOT. <i>Enn. p. 55, 14 Creuz</i>.`

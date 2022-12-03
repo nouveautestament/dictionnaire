@@ -1,1 +1,0 @@
-lar[54580]=`<b>ων (οἱ)</b> <font color="purple">[ῠ]</font> les Kékryphes, <i>pple Scythe,</i> ORPH. <i>Arg. 1060</i>.`

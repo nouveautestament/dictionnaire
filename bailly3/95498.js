@@ -1,1 +1,0 @@
-lar[95498]=`<b>συν·εξαμαρτάνω</b> <font color="purple">[ᾰμ]</font> se tromper <i>ou</i> faillir avec, <i>dat</i>. ISOCR. <i>119e ;</i> DÉM. <i>1407, 2</i> ; POL. <i>5, 11, 1</i> ; μετά τινος, ANT. <i>138, 18 ; abs</i>. THC. <i>3, 43</i> ; ISOCR. <i>12a ;</i> PLUT. <i>Dio. 8, etc</i>.`

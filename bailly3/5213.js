@@ -1,1 +1,0 @@
-lar[5213]=`<b>α, ον</b> <font color="purple">[ᾰμ]</font> énorme, <i>litt</i>. qui ferait la charge d’un chariot, XÉN. <i>Hell. 2, 4, 27 ; An. 4, 2, 3</i> ; DÉM. <i>1277, 12</i> ; DS. <i>17, 68, etc</i>.<p><b>Étym</b>. ἅμαξα.`

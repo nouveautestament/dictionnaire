@@ -1,1 +1,0 @@
-lar[100348]=`<b>τρι·πέμπελος, ος, ον</b> <font color="purple">[ῐ]</font> trois fois vieux, décrépit, PLUT. <i>M. 1071c ;</i> EUM. <i>11, p. 410</i>.<p><b>Étym</b>. τρ. πέμπελος.`

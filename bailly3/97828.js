@@ -1,1 +1,0 @@
-lar[97828]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> ce qui se produit spontanément ; ἀπὸ ταὐτομάτου, THC. <i>6, 36</i> ; PLAT. <i>Euthyd. 282c</i>, spontanément.<p><b>Étym</b>. <i>contr. p</i>. τὸ αὐτόματον.`

@@ -1,1 +1,0 @@
-lar[29946]=`<font color="purple">[ῡ]</font> <i>adv</i>., sous forme de suc <i>ou</i> de jus, ARCHIG. (GAL. <i>8, 156</i>).`

@@ -1,1 +1,0 @@
-lar[39548]=`<b>ος, ον :<br>      1</b> visible, POÈT. (STOB. <i>Ecl. phys. 1, p. 68</i>).<br><b>      2</b> que l’on voit sur la terre, <i>càd</i>. encore vivant, SOPH. <i>Ant. 841</i>.<p><b>Étym</b>. ἐπιφαίνω.`

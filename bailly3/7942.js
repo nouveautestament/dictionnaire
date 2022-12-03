@@ -1,1 +1,0 @@
-lar[7942]=`<b>ατος (τὸ)</b> mouvement de retrait, ARSTT. <i>Mund. 4, 33</i>.<p><b>Étym</b>. ἀναχωρέω.`

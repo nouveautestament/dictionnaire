@@ -1,1 +1,0 @@
-lar[89829]=`<b>ου (ὁ)</b> = <i>lat</i>. September, Septembre, <i>mois romain,</i> PLUT. <i>Num. 19</i>.`

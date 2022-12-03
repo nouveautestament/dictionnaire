@@ -1,1 +1,0 @@
-lar[49312]=`<b>Ἱππό·δαμος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Hippodamos :<br><b>      1</b> <i>Troyen,</i> IL. <i>11, 335</i>.<br><b>      2</b> <i>architecte athénien, contemporain de Périclès,</i> ARSTT. <i>Pol. 2, 5</i>.<br><b>      3</b> <i>autres,</i> XÉN. <i>Hell. 7, 1, 45, etc</i>.<p><b>Étym</b>. ἵ. δάμνημι.`

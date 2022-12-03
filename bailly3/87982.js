@@ -1,1 +1,0 @@
-lar[87982]=`<b>ή, όν</b> <font color="purple">[ῐχᾰ]</font> composé de pyrrhiques, <i>t. de pros</i>. HÉPH.<p><b>Étym</b>. πυρρίχιος.`

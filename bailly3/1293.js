@@ -1,1 +1,0 @@
-lar[1293]=`<b>ἀ·δήριτος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> sans combat, IL. <i>17, 42</i>.<br><b>      2</b> non contesté, non disputé, POL. <i>1, 2, 3</i>.<br><b>      3</b> qu’on ne peut combattre, invincible, inexpugnable, ESCHL. <i>Pr. 105</i>.<p><b>Étym</b>. ἀ, δηρίομαι.`

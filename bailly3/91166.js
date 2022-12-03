@@ -1,1 +1,0 @@
-lar[91166]=`<b>σκοροδο·πανδοκευτρι·αρτόπωλις, ιδος (ἡ)</b> <font color="purple">[ῐδ]</font> aubergiste marchande d’ail et de pain, gargotière, AR. <i>Lys. 458</i>.<p><b>Étym</b>. σκ. πανδοκεύτρια, ἀρτοπώλης.`

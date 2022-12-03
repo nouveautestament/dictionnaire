@@ -1,1 +1,0 @@
-lar[7147]=`<b>α, ον</b> <font color="purple">[ᾰᾱ]</font> <i>vb. de</i> ἀναλίσκω, PLAT. <i>Leg. 847e</i>.`

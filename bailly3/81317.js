@@ -1,1 +1,0 @@
-lar[81317]=`<i>adv. seul. au cp</i>. ποθεινοτέρως, avec un vif désir, XÉN. <i>Lac. 1, 5</i>.`

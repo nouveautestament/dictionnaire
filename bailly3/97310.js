@@ -1,1 +1,0 @@
-lar[97310]=`<b>οῦ (ὁ)</b> conseiller, précepteur, moniteur, THC. <i>3, 65 ; 6, 87 ; 8, 48</i> ; PLAT. <i>Rsp. 471a, etc. ; en parl. de choses,</i> LYC. (ATH. <i>420c</i>) ; DH. <i>2, 24</i>.<p><b>Étym</b>. σωφρονίζω.`

@@ -1,1 +1,0 @@
-lar[65962]=`<font color="purple">[ᾰ]</font> <i>adv</i>., pêle-mêle, DYSC.<p><b>Étym</b>. μίσγω.`

@@ -1,1 +1,0 @@
-lar[70994]=`<b>ὀλιγ·ηροσίη, ης (ἡ)</b> <font color="purple">[ῐγ]</font> <i>ion</i>. petite terre labourée, petit champ, ANTH. <i>6, 98</i>.<p><b>Étym</b>. ὀλ. ἀρόω.`

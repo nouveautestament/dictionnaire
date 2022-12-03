@@ -1,1 +1,0 @@
-lar[31800]=`<b>ἐκ·πέρθω</b> <font color="darkgreen">(<i>f</i>. -πέρσω)</font> détruire de fond en comble, IL. <i>1, 19, 164, etc.</i> ; ESCHL. <i>Sept. 427</i> ; EUR. <i>Andr. 1095 ; fig</i>. τὴν Διὸς τυραννίδ' ἐκπ. ESCHL. <i>Pr. 357,</i> renverser la tyrannie de Zeus.<p>➳ <i>Ao.2, 1 pl. épq</i>. ἐξεπράθομεν, IL. <i>1, 125</i>.`

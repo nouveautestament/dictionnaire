@@ -1,1 +1,0 @@
-lar[49182]=`<b>ης, ες</b>, semblable à la scolopendre, ARSTT. <i>P.A. 4, 5, 56, v</i>. ἴουλος IV, 1.<p><b>Étym</b>. ἴουλος, -ωδης.`

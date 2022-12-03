@@ -1,1 +1,0 @@
-lar[85850]=`<b>προσ·ηχέω-ῶ</b>, résonner auprès de <i>ou</i> contre, PLUT. <i>Alex. 31</i> ; ARSTD. <i>t. 2, 361</i> ; PHILSTR. <i>833, 487</i>.`

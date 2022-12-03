@@ -1,1 +1,0 @@
-lar[78325]=`<b>περδικο·θήρας, ου (ὁ)</b> <font color="purple">[ῑ]</font> chasseur de perdrix, EL. <i>N.A. 12, 4</i>.<p><b>Étym</b>. πέρδιξ, θηράω.`

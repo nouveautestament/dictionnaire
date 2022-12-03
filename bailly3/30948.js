@@ -1,1 +1,0 @@
-lar[30948]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Hékalè :<br><b>      1</b> <i>vieille femme qui soigna Thésée dans sa jeunesse,</i> PLUT. <i>Thes. 14</i> ; CALL. <i>fr. 131</i> ; ANTH. <i>9, 545</i>.<br><b>      2</b> <i>dème attique de la tribu Léontide,</i> LEX. <i>(Bkk. 247, 7</i>).`

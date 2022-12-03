@@ -1,1 +1,0 @@
-lar[71503]=`<b>ὁμο·ῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font> <i>c</i>. ὁμῆλιξ, ANTH. <i>App. 303</i>.`

@@ -1,1 +1,0 @@
-lar[96015]=`<b>συν·ίλλω</b> (<i>seul. prés. moy</i>.) enrouler, EUB. <i>3, 251 Meineke</i>.`

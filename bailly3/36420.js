@@ -1,1 +1,0 @@
-lar[36420]=`<i>adv</i>., d’une manière louable, BAS. <i>1, 120</i>.<p><b>Étym</b>. ἐπαινετός.`

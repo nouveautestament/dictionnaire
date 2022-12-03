@@ -1,1 +1,0 @@
-lar[36499]=`<b>ἐπ·αλής, ής, ές</b> <font color="purple">[ᾱ]</font> chaud <i>ou</i> échauffant, HÉS. <i>O. 495 (sel. d’autres</i> ἐπ' ἀλέα).<p><b>Étym</b>. ἐπί, ἀλέα.`

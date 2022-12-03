@@ -1,1 +1,0 @@
-lar[86525]=`<b>προ·συγγίγνομαι</b>, <i>ancien att</i>. <b>προ·ξυγγίγνομαι :<br>      1</b> conférer auparavant avec, <i>dat</i>. THC. <i>8, 14</i>.<br><b>      2</b> se mettre d’accord auparavant avec, DC. <i>52, 33</i>.`

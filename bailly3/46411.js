@@ -1,1 +1,0 @@
-lar[46411]=`<b>ορος (ὁ)</b> <font color="purple">[ᾱ]</font> Théanôr, <i>philosophe pythagoricien,</i> PLUT. <i>Gen. Socr. titre et 13, 25, etc</i>.<p><b>Étym</b>. θεός, ἀνήρ.`

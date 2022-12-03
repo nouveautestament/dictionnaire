@@ -1,1 +1,0 @@
-lar[27585]=`<b>δορί·γαμβρος, ος, ον</b> <font color="purple">[ῐ]</font> que son époux réclame la lance à la main (Hélène) ESCHL. <i>Ag. 686</i>.<p><b>Étym</b>. δόρυ, γαμβρός.`

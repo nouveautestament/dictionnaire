@@ -1,1 +1,0 @@
-lar[16858]=`<i>adv</i>., d’une manière indivisible, NAZ. <i>2, 193b</i>.`

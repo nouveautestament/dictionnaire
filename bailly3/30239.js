@@ -1,1 +1,0 @@
-lar[30239]=`<i>adv</i>., d’aspect hideux, NYSS. <i>3, 241a Migne</i>.`

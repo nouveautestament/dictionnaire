@@ -1,1 +1,0 @@
-lar[2375]=`<i>adv</i>., avec respect, ALCIPHR. <i>fr. 6, 18</i>.<p><b>Étym</b>. αἰδέομαι.`

@@ -1,1 +1,0 @@
-lar[87914]=`<b>πυρι·φεγγής, ής, ές</b> <font color="purple">[ῠῐ]</font> qui brille comme le feu, ORPH. <i>Arg. 212</i> ; PROCL. <i>H. Ven. 6</i>.<p><b>Étym</b>. π. φέγγος.`

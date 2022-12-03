@@ -1,1 +1,0 @@
-lar[47251]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> qui sert à la chasse, propre à amorcer, SOPH. <i>fr. 121</i>.<p><b>Étym</b>. θηράω.`

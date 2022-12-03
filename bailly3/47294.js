@@ -1,1 +1,0 @@
-lar[47294]=`<b>θηριο·νάρκη, ης (ἡ)</b> plante qui engourdit les serpents, PLIN. <i>H.N. 24, 102</i>.<p><b>Étym</b>. θηρίον, νάρκη.`

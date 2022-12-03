@@ -1,1 +1,0 @@
-lar[75683]=`<b>ῆς (ἡ)</b> consignation d’une amende préjudicielle, DÉM. <i>1198, 5, etc</i>.<p><b>Étym</b>. <i>v</i>. παρακαταβάλλω.`

@@ -1,1 +1,0 @@
-lar[35162]=`<b>ἐν·τύφω</b> <font color="purple">[ῡ]</font><br><b>      1</b> enfumer, AR. <i>Vesp. 459</i>.<br><b>      2</b> <i>p. suite,</i> enflammer ; <i>au pass</i>. brûler dans, couver sous, <i>dat</i>. PHIL. <i>1, 455</i>.`

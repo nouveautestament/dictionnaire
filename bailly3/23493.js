@@ -1,1 +1,0 @@
-lar[23493]=`<b>ου (ὁ)</b> = <i>lat</i>. Dīdĭus, <i>n. d’h</i>. PLUT. <i>Cæs. 56, Sert. 3 ; etc</i>.`

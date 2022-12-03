@@ -1,1 +1,0 @@
-lar[80576]=`<b>ου (ὁ)</b> sorte d’aigle, ARSTT. <i>H.A. 9, 32</i>.<p><b>Étym</b>. πλάζω.`

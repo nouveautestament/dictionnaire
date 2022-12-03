@@ -1,1 +1,0 @@
-lar[107941]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> bienfaisant, libéral, PLUT. <i>M. 632c ;</i> Q. SM. <i>2, 1, 5</i> ; SYMM. <i>Ps. 111, 5</i> ; τὸ χαριστικόν, PLUT. <i>M. 332,</i> la libéralité.<p><b>Étym</b>. χαρίζομαι.`

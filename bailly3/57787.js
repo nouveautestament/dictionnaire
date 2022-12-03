@@ -1,1 +1,0 @@
-lar[57787]=`<b>Κρεώ·φυλος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Kréôphylos, <i>ancien chantre ou poète de Samos, ami et maître d’Homère,</i> PLAT. <i>Rsp. 600b</i>.<p><b>Étym</b>. κρέας, φυλή.`

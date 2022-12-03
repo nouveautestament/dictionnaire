@@ -1,1 +1,0 @@
-lar[59441]=`<b>λαγώ·χειλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a un bec-de-lièvre, <i>càd</i>. la lèvre fendue, GAL. <i>1, 362e</i>.<p><b>Étym</b>. λαγώς, χεῖλος.`

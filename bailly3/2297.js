@@ -1,1 +1,0 @@
-lar[2297]=`<b>αἰγο·θήρας, ου (ὁ)</b> chasseur de chèvres <i>ou</i> de chamois, EL. <i>N.A. 14, 16</i>.<p><b>Étym</b>. αἴξ, θηράω.`

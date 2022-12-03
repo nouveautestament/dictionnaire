@@ -1,1 +1,0 @@
-lar[83328]=`<b>ης</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. respectable par son âge <i>ou</i> par sa condition, vénérable, <i>en parl. d’une déesse</i> (Hèra, IL. <i>5, 721 ; 8, 383, etc.</i> ; Atè, <i>19, 91) ; ou en gén</i>. OD. <i>3, 452</i>.<p><b>Étym</b>. <i>cf</i>. πρέσβυς.`

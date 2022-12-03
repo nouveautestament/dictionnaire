@@ -1,1 +1,0 @@
-lar[40931]=`<i>slmt ion. et anc. att. c</i>. *εἰσαράσσω.`

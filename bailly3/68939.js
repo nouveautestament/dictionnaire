@@ -1,1 +1,0 @@
-lar[68939]=`<b>ατος (τὸ)</b> ce qui est fixé par une loi, acte législatif, HPC. <i>1, 22</i> ; PLAT. <i>Leg. 913c, etc.</i> ; ARSTT. <i>Pol. 5, 8</i>.<p><b>Étym</b>. νομοθετέω.`

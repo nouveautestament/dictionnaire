@@ -1,1 +1,0 @@
-lar[28116]=`<b>δυο·ποιός, ός, όν</b>, qui produit le nombre deux, ARSTT. <i>Metaph. 12, 8, 14</i>.<p><b>Étym</b>. δύο, ποιέω.`

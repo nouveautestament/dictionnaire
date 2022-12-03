@@ -1,1 +1,0 @@
-lar[6357]=`<b>ατος (τὸ) :<br>      1</b> controverse, contestation, PLUT. <i>Sol. 18, Pomp. 39, M. 825e.</i><br><b>      2</b> sujet de discussion (philosophique <i>ou</i> autre), question discutée, PLAT. <i>Theæt. 158b ;</i> ARSTT. <i>Pol. 3, 2, 4</i>.<br><b>      3</b> thèse soutenue par l’un des controversistes, PLAT. <i>Phil. commenc.b</i>.<p><b>Étym</b>. ἀμφισβητέω.`

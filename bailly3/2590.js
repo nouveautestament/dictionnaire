@@ -1,1 +1,0 @@
-lar[2590]=`<b>αἱμο·πτυϊκός, ή, όν</b>, qui crache le sang, DIOSC. <i>1, 27, 82</i> ; RUF. (ORIB. <i>2, 206 B.-Dar</i>.) ; GAL. <i>8, 539, 540, etc</i>.<p><b>Étym</b>. αἷμα, πτύω.`

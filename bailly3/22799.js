@@ -1,1 +1,0 @@
-lar[22799]=`<b>γυναικο·θοίνας (ὁ)</b> <font color="purple">[ῠ]</font> fêté par des banquets de femmes (Arès), PAUS. <i>8, 48, 4</i>.<p><b>Étym</b>. γ. θοίνη.`

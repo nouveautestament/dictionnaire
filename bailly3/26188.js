@@ -1,1 +1,0 @@
-lar[26188]=`<b>δι·ενειλέω-ῶ</b> (<i>part. pf. pass</i>. -ειλημένος) enrouler, entortiller, <i>fig</i>. LUC. <i>Philopatr. 1</i>.`

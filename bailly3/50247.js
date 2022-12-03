@@ -1,1 +1,0 @@
-lar[50247]=`<b>καθ·αγιάζω</b> <font color="purple">[ᾰᾰγ]</font> <i>c</i>. καθαγίζω SPT. <i>Lev. 27, 26 ; 2 Macc. 1, 26, etc</i>.`

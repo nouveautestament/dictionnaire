@@ -1,1 +1,0 @@
-lar[4597]=`<b>ἁλί·τυπος, ος, ον</b> <font color="purple">[ᾰῐῠ]</font> battu des flots, ESCHL. <i>Pers. 945</i>.<p><b>Étym</b>. ἅλς, τύπτω.`

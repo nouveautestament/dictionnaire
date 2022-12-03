@@ -1,1 +1,0 @@
-lar[3515]=`<b>ἀ·κόλυμβος, ος, ον</b>, qui ne sait pas plonger <i>ou</i> nager, BATR. <i>157</i> ; STR. <i>275</i> ; PLUT. <i>M. 599b</i>.<p><b>Étym</b>. ἀ, κόλυμβος.`

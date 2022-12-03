@@ -1,1 +1,0 @@
-lar[40622]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> l’art de la statuaire, PLUT. <i>M. 580e</i>.<p><b>Étym</b>. ἑρμογλύφος.`

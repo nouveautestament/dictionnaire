@@ -1,1 +1,0 @@
-lar[57917]=`<b>κρικ·ηλασία, ας (ἡ)</b> <font color="purple">[ῐᾰσ]</font> jeu de cerceau <i>ou jeu analogue,</i> ANTYLL. (ORIB. <i>1, 521 B.-Dar</i>.).<p><b>Étym</b>. κρίκος, ἐλαύνω.`

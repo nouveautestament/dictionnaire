@@ -1,1 +1,0 @@
-lar[92772]=`<i>adv</i>., d’une façon conjecturale, ARSTT. <i>Rhet. 1, 1, 11</i>.`

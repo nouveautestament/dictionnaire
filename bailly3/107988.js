@@ -1,1 +1,0 @@
-lar[107988]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> couleur d’un bleu clair, <i>en parl. du ciel,</i> PLUT. <i>M. 352d, ou</i> des yeux des Germains (<i>cf</i>. cærulei oculi, TAC. <i>Germ. 4</i>) PLUT. <i>Mar. 11</i>.<p><b>Étym</b>. χαροπός.`

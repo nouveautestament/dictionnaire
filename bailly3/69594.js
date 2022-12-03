@@ -1,1 +1,0 @@
-lar[69594]=`<b>ϊδος</b>, <i>acc</i>. <b>ιν (ἡ)</b> Xoïs, <i>v. et î. du Delta, en Égypte,</i> LUC. <i>Rh. præc. 24</i>.`

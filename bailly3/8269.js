@@ -1,1 +1,0 @@
-lar[8269]=`<b>ἀν·έλαιος, ος, ον</b>, sans olives <i>ou</i> sans huile, TH. <i>C.P. 2, 3, 8</i> ; STR. <i>809</i>.<p><b>Étym</b>. ἀν-, ἔλαιον.`

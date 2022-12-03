@@ -1,1 +1,0 @@
-lar[77638]=`<i>adv</i>., dans le Pirée, EL. <i>V.H. 2, 13</i>.<p><b>Étym</b>. Πειραιεύς.`

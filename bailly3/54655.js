@@ -1,1 +1,0 @@
-lar[54655]=`<b>ή, όν</b>, de Celtique <i>ou</i> des Celtes, PLUT. <i>Marc. 3, etc. ; subst</i>. ἡ Κελτική, la Celtique, ARSTT. <i>H.A. 8, 28 ; particul</i>. la Gaule, PLUT. <i>Cæs. 4</i>.<p><b>Étym</b>. Κέλται.`

@@ -1,1 +1,0 @@
-lar[32462]=`<b>ἐλαιολογέω-ῶ</b>, cueillir les olives, SPT. <i>Deut. 24, 22</i> ; PHIL. <i>2, 390</i>.<p><b>Étym</b>. *ἐλαιολόγος.`

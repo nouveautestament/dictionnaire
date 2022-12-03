@@ -1,1 +1,0 @@
-lar[54421]=`<b>ης, ες</b> <font color="purple">[ᾰῐ]</font> qui ressemble à des graines de figue, TH. <i>H.P. 1, 11, 3</i>.<p><b>Étym</b>. κεγχραμίς, -ωδης.`

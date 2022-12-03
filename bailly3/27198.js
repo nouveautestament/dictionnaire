@@ -1,1 +1,0 @@
-lar[27198]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font><br><b>      1</b> premier jour de la pleine lune, <i>càd</i>. milieu du mois, <i>chez les Grecs,</i> PLUT. <i>Dio. 23</i>.<br><b>      2</b> pleine lune, SPT. <i>Sir. 39, 12</i>.<p><b>Étym</b>. διχόμηνος.`

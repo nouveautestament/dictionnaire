@@ -1,1 +1,0 @@
-lar[87208]=`<b>πρωτο·καθεδρία, ας (ἡ)</b> première place dans une assemblée, préséance, NT. <i>Matth. 23, 6</i> ; CLÉM. <i>113, 16 Sylb</i>.<p><b>Étym</b>. πρ. καθέδρα.`

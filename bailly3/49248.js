@@ -1,1 +1,0 @@
-lar[49248]=`<b>ῆρος (ὁ)</b> qui sert pour l’équitation, ANTH. <i>5, 203 ; 7, 424</i>.<p><b>Étym</b>. ἱππάζομαι.`

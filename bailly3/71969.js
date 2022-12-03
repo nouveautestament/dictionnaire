@@ -1,1 +1,0 @@
-lar[71969]=`<b>Ὀνόμ·αρχος, ου (ὁ)</b> Onomarkhos :<br><b>      1</b> <i>général phocéen dans la 3<sup>e</sup> guerre Sacrée,</i> DÉM. <i>443, 27, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Eum. 18, etc</i>.<p><b>Étym</b>. ὄν. ἄρχω.`

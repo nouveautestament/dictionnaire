@@ -1,1 +1,0 @@
-lar[105725]=`<b>φιλογραμματέω-ῶ</b> <font color="purple">[ῐμᾰ]</font> aimer les lettres <i>ou</i> les livres, PLUT. <i>Æmil. 28, M. 742a</i>.<p><b>Étym</b>. φιλογράμματος.`

@@ -1,1 +1,0 @@
-lar[87622]=`<b>πυκνό·βλαστος, ος, ον</b>, aux bourgeons drus <i>ou</i> nombreux, TH. <i>C.P. 3, 8, 11</i>.<p><b>Étym</b>. πυκνός, βλαστάνω.`

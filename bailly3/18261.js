@@ -1,1 +1,0 @@
-lar[18261]=`<b>ἀφρό·νιτρον, ου (τὸ)</b> écume <i>ou</i> fleur de nitre, salpêtre, DIOSC. <i>4, 187 ; 5, 82</i> ; AÉT. <i>2, 60</i> ; GEOP. <i>2, 28, 6</i> ; GAL. <i>10, 191, etc</i>.<p><b>Étym</b>. ἀφρός, νίτρον ; <i>cf</i>. ἀφρόλιτρον.`

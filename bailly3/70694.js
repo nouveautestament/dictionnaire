@@ -1,1 +1,0 @@
-lar[70694]=`<b>ὀϊστο·βόλος, ος, ον</b>, qui lance des traits, ANTH. <i>7, 427</i> ; NONN. <i>D. 24, 139, etc</i>.<p><b>Étym</b>. ὀϊστός, βάλλω.`

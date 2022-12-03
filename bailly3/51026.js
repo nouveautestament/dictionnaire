@@ -1,1 +1,0 @@
-lar[51026]=`<b>ου (ὁ)</b> = <i>lat</i>. Calvus, <i>n. d’h. rom</i>. EL. <i>N.A. 7, 10</i>.`

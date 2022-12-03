@@ -1,1 +1,0 @@
-lar[60244]=`<b>λεκιθό·πωλις, ιδος (ἡ)</b> <font color="purple">[ῐῐδ]</font> marchande de purée de légumes, AR. <i>Pl. 427</i> ; LUC. <i>Lex. 3</i>.`

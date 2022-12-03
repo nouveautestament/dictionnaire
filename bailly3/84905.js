@@ -1,1 +1,0 @@
-lar[84905]=`<b>προ·παρέχω :<br>      1</b> offrir d’avance, <i>acc</i>. XÉN. <i>Cyr. 5, 5, 20, etc.</i><br><b>      2</b> fournir d’avance, <i>acc</i>. XÉN. <i>Hell. 5, 1, 18</i>.`

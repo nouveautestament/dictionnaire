@@ -1,1 +1,0 @@
-lar[44976]=`<b>ἡδύ·γελως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> au rire agréable, HH. <i>18, 37 ; en parl. d’une bouteille,</i> ANTH. <i>5, 135</i>.<p><b>Étym</b>. ἡ. γέλως.`

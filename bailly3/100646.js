@@ -1,1 +1,0 @@
-lar[100646]=`<b>τριχό·φοιτος, ος, ον</b> <font color="purple">[ῐ]</font> au duvet flottant <i>ou</i> clairsemé, ANTH. <i>12, 10</i>.<p><b>Étym</b>. θρίξ, φοιτάω.`

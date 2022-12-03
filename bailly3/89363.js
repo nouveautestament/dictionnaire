@@ -1,1 +1,0 @@
-lar[89363]=`<b>ή, όν</b>, de Sappho, sapphique, D. PHAL. <i>§ 148</i> ; PLUT. <i>Pyth. or. 6, Metr. 1, etc.</i> ; μέτρον Σ. vers sapphique, DRAC. <i>139</i> ; HÉPH. <i>7, 9 ; 10, 5 et 12</i>.<p><b>Étym</b>. Σαπφώ.`

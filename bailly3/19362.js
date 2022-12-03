@@ -1,1 +1,0 @@
-lar[19362]=`<b>οῦς, οῦν</b> <font color="purple">[ᾰᾰ]</font> d’un vert de grenouille, vert clair, CIA. <i>2, 759, 2, 17 (vers 334 av. J.-C.) ; 758, B, 1, 24 (pas av. 334 av. J.-C.) ; contracté en</i> βατραχεοῦν, CIA. <i>2, 758, B, 2, 12 (pas av. 334 av. J.-C.) ; cf</i>. βατραχιοῦν.`

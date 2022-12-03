@@ -1,1 +1,0 @@
-lar[71090]=`<b>ὀλιγοψυχέω-ῶ</b> <font color="purple">[ῐῡ]</font> être pusillanime, peu courageux, ISOCR. <i>392b ;</i> SPT. <i>Jon. 4, 9 ; Sir. 4, 9</i>.<p><b>Étym</b>. ὀλιγόψυχος.`

@@ -1,1 +1,0 @@
-lar[15828]=`(<i>seul. prés. et impf</i>.) :<br><b>      1</b> respirer péniblement, haleter, IL. <i>10, 376</i> ; ESCHL. PLUT. LUC.<br><b>      2</b> râler, IL. <i>15, 10</i>.<br><b>      3</b> soupirer après, <i>acc</i>. HLD. <i>4, 3</i>.<p><b>Étym</b>. ἆσθμα.`

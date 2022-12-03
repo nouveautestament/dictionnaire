@@ -1,1 +1,0 @@
-lar[86316]=`<b>προσ·πηχύνομαι</b>, prendre dans ses bras, CALL. <i>Jov. 46</i>.<p>➳ <i>Dor</i>. ποτιπηχύνομαι, ANTH. <i>12, 121</i>.`

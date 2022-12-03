@@ -1,1 +1,0 @@
-lar[6528]=`<b>ἀνα·βήσσω</b>, expectorer en toussant, HPC. <i>Progn. 41</i>.`

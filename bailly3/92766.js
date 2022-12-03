@@ -1,1 +1,0 @@
-lar[92766]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. στοχασμός, PLAT. <i>Phil. 62b</i>.`

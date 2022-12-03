@@ -1,1 +1,0 @@
-lar[88889]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰρ]</font><br><b>      1</b> saleté, PLUT. <i>M. 60d, 142a.</i><br><b>      2</b> <i>fig</i>. avarice sordide, CRITIAS (POLL. <i>3, 116</i>) ; TÉLÈS (STOB. <i>Fl. 97, 81) etc</i>.<p><b>Étym</b>. ῥυπαρός.`

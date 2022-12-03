@@ -1,1 +1,0 @@
-lar[1768]=`<b>ας (ἡ)</b> <font color="purple">[ᾱε]</font> <i>s.-e</i>. γῆ « la brumeuse », <i>anc. n. de l’Égypte,</i> ESCHL. <i>Suppl. 71</i>.<p>➳ <i>Ion</i>. Ἠερίη, A.RH. <i>4, 267</i>.<p><b>Étym</b>. ἀέριος.`

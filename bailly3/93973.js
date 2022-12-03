@@ -1,1 +1,0 @@
-lar[93973]=`<b>συμ·μετεωροπορέω-ῶ</b>, s’avancer dans les régions supérieures avec, NYSS. <i>3, 549, 972 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[68396]=`<b>ης, ες :<br>      1</b> nerveux, HPC. <i>V. med. 18, etc.</i> ; PLAT. <i>Tim. 75b ;</i> ARSTT. <i>H.A. 3, 5</i> ; GAL. <i>13, 712</i> ; τὸ νευρῶδες, ANTYLL. <i>74, 119, etc</i>. le système nerveux.<br><b>      2</b> <i>p. suite,</i> robuste, <i>en parl. d’Hercule,</i> DICÉARQ. (CLÉM. <i>Protr. p. 26, 30).</i><p><b>Étym</b>. νεῦρον, -ωδης.`

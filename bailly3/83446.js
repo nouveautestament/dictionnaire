@@ -1,1 +1,0 @@
-lar[83446]=`<b>πριονο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> en forme de scie, dentelé, GAL. <i>2, 737</i>.<p><b>Étym</b>. πρίων, εἶδος.`

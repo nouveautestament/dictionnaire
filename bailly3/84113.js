@@ -1,1 +1,0 @@
-lar[84113]=`<b>προ·εκτρύχω</b> <font color="purple">[ῡ]</font> épuiser auparavant, APP. <i>Civ. 4, 108</i>.`

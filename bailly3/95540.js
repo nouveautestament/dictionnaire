@@ -1,1 +1,0 @@
-lar[95540]=`<b>συν·εξιχνεύω</b>, suivre ensemble à la piste, PLUT. <i>Cic. 18</i>.`

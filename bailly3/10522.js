@@ -1,1 +1,0 @@
-lar[10522]=`<b>ἀντι·τρέχω</b>, courir contre <i>ou</i> à l’encontre, P. SIL. <i>Th. Pyth. 16</i> ; CHRYS. <i>6, 288</i>.`

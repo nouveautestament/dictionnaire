@@ -1,1 +1,0 @@
-lar[104262]=`<b>ου (ὁ)</b> Hyrrhadios, <i>père de Pittakos, ou, sel. d’autres, Pittakos lui-même,</i> CALL. (ANTH. <i>7, 89).</i><p>➳ <i>Gén</i>. Ὑρραδέω, CALL. <i>Ep. 1, 2</i>.`

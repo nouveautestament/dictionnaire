@@ -1,1 +1,0 @@
-lar[15732]=`<b>ἀ·σαπής, ής, ές</b> <font color="purple">[σᾰ]</font> non putrescible, HPC. <i>1150g ;</i> ARSTT. <i>Probl. 14, 7</i>.<p><b>Étym</b>. ἀ, σήπομαι.`

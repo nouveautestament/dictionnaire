@@ -1,1 +1,0 @@
-lar[65182]=`<b>οῦ (ὁ)</b> qui peuple une ville d’étrangers, PLUT. <i>Thes. c. Rom. 4</i>.<p><b>Étym</b>. μετοικίζω.`

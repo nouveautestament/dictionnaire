@@ -1,1 +1,0 @@
-lar[22204]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> instrument pour tailler <i>ou</i> graver, ciseau, burin, HH. <i>Merc. 41</i> ; THCR. <i>Idyl. 1, 28</i> ; γλ. καλάμου, ANTH. <i>6, 63,</i> canif.<p><b>Étym</b>. γλύφω.`

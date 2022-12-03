@@ -1,1 +1,0 @@
-lar[48005]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne les stations devant la porte, PHILSTR. <i>940</i>.<p><b>Étym</b>. θυραυλία.`

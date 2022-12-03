@@ -1,1 +1,0 @@
-lar[19749]=`<b>ακος (ὁ)</b> = <i>lat</i>. Vindex, <i>h</i>. LUC. <i>Ner. 5</i>.`

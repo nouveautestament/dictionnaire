@@ -1,1 +1,0 @@
-lar[77251]=`<b>πασι·φανής, ής, ές</b> <font color="purple">[ᾱῐᾰ]</font> visible pour tous, NONN. <i>Jo. 12, 3</i>.<p><b>Étym</b>. π. φαίνω.`

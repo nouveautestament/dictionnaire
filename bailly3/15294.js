@@ -1,1 +1,0 @@
-lar[15294]=`<b>ου (τὸ)</b> <font color="purple">[μῑ]</font><br><b>      1</b> temple <i>ou</i> lieu consacré à Artémis, HDT. <i>4, 34</i> ; PLUT. <i>M. 264c, etc.</i><br><b>      2</b> Artémision, <i>promont. d’Eubée,</i> HDT. <i>7, 175</i> ; THC. <i>3, 54, etc</i>.<p>➳ <i>Dor</i>. Ἀρταμίτιον, AR. <i>Lys. 1251</i>.`

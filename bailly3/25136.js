@@ -1,1 +1,0 @@
-lar[25136]=`<b>ατος (τὸ)</b> ce qu’on file, trame, PLAT. <i>Pol. 309b</i>.<p><b>Étym</b>. *διανέω, <i>de</i> διά, νέω, filer.`

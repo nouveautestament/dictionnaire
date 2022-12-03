@@ -1,1 +1,0 @@
-lar[142]=`<b>ἄ·βολος, ου (ἡ)</b> sorte de manteau de cavalier, M. RUBR. <i>6 dout.,</i> ALCIPHR. <i>1, 23, 2 conj</i>.<p><b>Étym</b>. <i>cf</i>. ἀβόλλα.`

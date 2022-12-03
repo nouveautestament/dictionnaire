@@ -1,1 +1,0 @@
-lar[103476]=`<i>adv</i>., par l’intelligence, par la pensée, M. ANT. <i>7, 16</i>.`

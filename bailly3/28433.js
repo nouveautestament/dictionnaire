@@ -1,1 +1,0 @@
-lar[28433]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans pouvoir être arrêté facilement, GAL. <i>7, 319</i>.`

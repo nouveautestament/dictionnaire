@@ -1,1 +1,0 @@
-lar[28857]=`<b>δυσ·πρόπτωτος, ος, ον</b> qui tombe difficilement en avant, GAL. <i>10, 387</i>.<p><b>Étym</b>. δ. προπίπτω.`

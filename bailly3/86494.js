@@ -1,1 +1,0 @@
-lar[86494]=`<b>προσ·τιμωρέω-ῶ</b> <font color="purple">[ῑ]</font> porter secours à, <i>dat</i>. HPC. <i>Acut. 385</i> ; ARÉT. <i>Cur. m. acut. 1, 7, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. GAL. <i>2, 42</i>.`

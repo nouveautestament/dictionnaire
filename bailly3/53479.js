@@ -1,1 +1,0 @@
-lar[53479]=`<b>κατα·στρατηγέω-ῶ</b> <font color="purple">[ρᾰ]</font> vaincre par une ruse <i>ou</i> une manœuvre de guerre, POL. <i>3, 71, 1</i> ; PLUT. <i>Tim. 11 ; fig</i>. DH. <i>Is. 3</i>.`

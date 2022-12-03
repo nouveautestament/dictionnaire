@@ -1,1 +1,0 @@
-lar[17151]=`<b>*αὐθ·έψης, ου (ὁ)</b> <i>seul. lat</i>. authepsa, qui cuit de soi-même, <i>n. d’un réchaud à double récipient, l’un pour le feu, l’autre pour les aliments,</i> CIC. <i>Amer. 46</i> ; LAMPRID. <i>Hel. 19</i>.<p><b>Étym</b>. αὐτός, ἕψω.`

@@ -1,1 +1,0 @@
-lar[20774]=`<b>ας (ἡ)</b> le Bruttium, <i>contrée de la Grande-Grèce,</i> POL. <i>9, 7</i> ; STR. PLUT. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[52155]=`<b>ατος (τὸ) :<br>      1</b> frange d’un tissu, ATH. <i>536a.</i><br><b>      2</b> sorte de bandage, HPC. <i>799f</i>.<p><b>Étym</b>. καταβάλλω.`

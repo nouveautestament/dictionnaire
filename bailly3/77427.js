@@ -1,1 +1,0 @@
-lar[77427]=`<b>ου (ὁ)</b> = <i>lat</i>. Paulus, Paul :<br><b>      1</b> <i>n. d’h. rom</i>. PLUT. <i>Syll. 12, Æmil. 12, etc.</i><br><b>      2</b> <i>particul., n. d’un apôtre</i>.`

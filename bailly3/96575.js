@@ -1,1 +1,0 @@
-lar[96575]=`<b>ου (ὁ) :<br>      1</b> corde pour tirer, MAN. <i>5, 172</i>.<br><b>      2</b> sorte de machine pour tirer, poulie, APD. POL. <i>47c</i>.<p><b>Étym</b>. σύρω.`

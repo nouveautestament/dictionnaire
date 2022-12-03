@@ -1,1 +1,0 @@
-lar[43837]=`<b>εὔ·χυμος, ος, ον</b> <font color="purple">[ῡ]</font> d’un bon suc, <i>d’où</i> d’une saveur agréable, ARSTT. <i>G.A. 3, 11</i> ; POSIDON. (ATH. <i>649d</i>).<p>•<i> Cp</i>. -ότερος, PLUT. <i>M. 690a</i>.<p><b>Étym</b>. εὖ, χυμός.`

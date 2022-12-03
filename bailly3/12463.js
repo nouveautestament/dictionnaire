@@ -1,1 +1,0 @@
-lar[12463]=`<b>ἀπ·οικονομέω-ῶ</b>, tenir à l’écart de sa maison, PLOT. <i>Enn. 1, 65</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HIÉROCL. (STOB. <i>Fl. 39, 36</i>).`

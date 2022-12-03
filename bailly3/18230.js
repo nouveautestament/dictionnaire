@@ -1,1 +1,0 @@
-lar[18230]=`<b>ἀ·φρήτωρ, ορος</b>, <i>adj. m</i>. sans lien de parenté, sans relations de famille <i>ou</i> de compagnons, IL. <i>9, 63</i>.<p><b>Étym</b>. ἀ, φρήτρη, <i>ion. c</i>. φράτρα.`

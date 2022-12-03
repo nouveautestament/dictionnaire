@@ -1,1 +1,0 @@
-lar[58030]=`<b>κροκο·νητική, ῆς (ἡ)</b> <font color="purple">[ῐ]</font> <i>s.-e</i>. τέχνη, l’art de former la trame, PLAT. <i>Pol. 282e</i>.<p><b>Étym</b>. κρόκη, νέω.`

@@ -1,1 +1,0 @@
-lar[18149]=`<b>ἀ·φλυκταίνωτος, ος, ον</b>, sans éruption de pustules, DIOSC. <i>5, 176</i>.<p><b>Étym</b>. ἀ, φλυκταινόομαι.`

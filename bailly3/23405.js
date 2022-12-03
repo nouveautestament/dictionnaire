@@ -1,1 +1,0 @@
-lar[23405]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> en abondance (fournir qqe ch.), DS. <i>5, 14</i>.<br><b>      2</b> dans l’abondance (vivre), XÉN. <i>Mem. 2, 7, 6 ; Cyr. 1, 6, 17</i>.<p>•<i> Sup</i>. -έστατα, XÉN. <i>ll. cc</i>.<p>➳ <i>Poét</i>. δαψιλέως, THCR. <i>Idyl. 7, 145</i>.`

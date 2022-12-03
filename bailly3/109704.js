@@ -1,1 +1,0 @@
-lar[109704]=`<b>ψευδομαρτυρέω-ῶ</b> <font color="purple">[ῠ]</font> rendre un faux témoignage, XÉN. <i>Mem. 4, 4, 11</i> ; PLAT. <i>Rsp. 575b ;</i> ARSTT. <i>Rhet. 1, 14, 6</i> ; κατά τινος, SPT. <i>Ex. 20, 16 ; Deut. 5, 20</i> ; NT. <i>Matth. 19, 18 ; Marc. 14, 56,</i> contre qqn.<p><b>Étym</b>. ψευδόμαρτυς.`

@@ -1,1 +1,0 @@
-lar[8454]=`<font color="purple">[ῡ]</font> <i>adv</i>., sans empêchement, DS. <i>2, 21</i> ; JOS. <i>A.J. 16, 6, 5, etc.</i> ; ALCIPHR. <i>3, 8</i>.`

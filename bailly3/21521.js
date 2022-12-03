@@ -1,1 +1,0 @@
-lar[21521]=`<b>γει·αρότης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> laboureur, ANTH. <i>9, 23</i> ; A. PL. <i>4, 94</i>.<p><b>Étym</b>. γῆ, ἀρόω.`

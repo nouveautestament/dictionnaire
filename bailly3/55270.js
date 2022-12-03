@@ -1,1 +1,0 @@
-lar[55270]=`<b>ωνος (ὁ)</b> flambeau de cire, cierge, PLUT. <i>M. 263e</i>.<p><b>Étym</b>. κηρός.`

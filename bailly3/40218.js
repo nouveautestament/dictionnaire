@@ -1,1 +1,0 @@
-lar[40218]=`<b>ἐργο·πόνος, ου (ὁ, ἡ) :<br>   I</b> <i>adj</i>. laborieux, COL. <i>192 au fém.</i><br><b>   II</b> <i>subst</i>. ὁ ἐργ. travailleur, <i>particul.</i> :<br><b>      1</b> cultivateur, ANTH. <i>11, 9</i>.<br><b>      2</b> chasseur, OPP. <i>C. 1, 148</i>.<br><b>      3</b> pêcheur, NIC. <i>Th. 830</i>.<p><b>Étym</b>. ἔργον, πόνος.`

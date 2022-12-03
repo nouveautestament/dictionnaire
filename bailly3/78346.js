@@ -1,1 +1,0 @@
-lar[78346]=`<b>περι·αγκωνίζω</b>, lier les mains derrière le dos, SPT. <i>4Macc. 6, 3</i>.`

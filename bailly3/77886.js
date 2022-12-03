@@ -1,1 +1,0 @@
-lar[77886]=`<b>α, ον</b>, qui conduit une pompe funèbre, NAZ. <i>Carm. p. 24</i>.<p><b>Étym</b>. πέμπω.`

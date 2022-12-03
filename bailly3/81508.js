@@ -1,1 +1,0 @@
-lar[81508]=`<b>η, ον</b>, de guerre, qui concerne la guerre, IL. <i>2, 338 ; 7, 193, etc.</i> ; HÉS. <i>Sc. 238</i> ; HDT. <i>5, 111</i>.<p><b>Étym</b>. <i>adj. ion. de</i> πόλεμος.`

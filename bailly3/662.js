@@ -1,1 +1,0 @@
-lar[662]=`<b>ἀγκυλο·χείλης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. au bec recourbé, IL. <i>16, 428</i> ; HÉS. <i>Sc. 405, etc</i>.<p><b>Étym</b>. ἀ. χεῖλος.`

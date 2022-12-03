@@ -1,1 +1,0 @@
-lar[95236]=`<b>συν·δυστυχέω-ῶ</b> <font color="purple">[τῠ]</font> être malheureux ensemble <i>ou</i> en même temps, EUR. <i>Or. 1099</i> ; IS. <i>56, 17</i>.`

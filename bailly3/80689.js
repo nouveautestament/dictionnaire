@@ -1,1 +1,0 @@
-lar[80689]=`<b>πλαστο·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui fait de fausses écritures, faussaire, ARTÉM. <i>1, 51</i> ; MAN. <i>2, 305</i>.<p><b>Étym</b>. πλαστός, γράφω.`

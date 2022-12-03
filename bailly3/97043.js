@@ -1,1 +1,0 @@
-lar[97043]=`<b>ης, ες</b> <font color="purple">[ῐᾰ]</font> en forme de copeaux <i>ou</i> d’éclats, DIOSC. <i>5, 181</i>.<p><b>Étym</b>. σχίδαξ, -ωδης.`

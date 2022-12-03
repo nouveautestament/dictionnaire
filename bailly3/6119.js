@@ -1,1 +1,0 @@
-lar[6119]=`<b>ἀμφι·δρόμια, ων (τὰ)</b> fête des nouveau-nés que l’on portait en courant, le 5<sup>e</sup> jour après la naissance, autour du foyer, AR. <i>Lys. 757</i>.<p><b>Étym</b>. ἀμφίδρομος.`

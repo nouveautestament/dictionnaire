@@ -1,1 +1,0 @@
-lar[52083]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> Kastianeira, <i>femme de Priam,</i> IL. <i>8, 305</i>.`

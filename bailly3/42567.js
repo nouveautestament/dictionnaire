@@ -1,1 +1,0 @@
-lar[42567]=`<b>εὐ·λᾶϊγξ, ϊγγος (ὁ, ἡ)</b> construit en belles pierres <i>ou</i> en pierres solides, ANTH. <i>9, 767, etc</i>. COL. <i>46</i> ; NONN. <i>D. 16, 403, etc</i>.<p><b>Étym</b>. εὖ, λᾶας.`

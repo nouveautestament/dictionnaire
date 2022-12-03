@@ -1,1 +1,0 @@
-lar[78516]=`<b>περι·δέραιος, ος, ον</b>, qu’on met autour du cou, PLUT. <i>Galb. 17, M. 647e, etc.</i> ; τὸ περιδέραιον, collier, AR. <i>fr. 309, 5 Dind.</i> ; ARSTT. <i>Poet. 16, 3, etc</i>.<p><b>Étym</b>. π. δέρη.`

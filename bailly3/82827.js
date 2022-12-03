@@ -1,1 +1,0 @@
-lar[82827]=`<b>ατος (τὸ)</b> <font color="purple">[πᾱ]</font> vêtement attaché avec une agrafe, <i>au pl</i>. EUR. <i>El. 820, etc</i>.<p><b>Étym</b>. πορπάω.`

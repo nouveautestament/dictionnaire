@@ -1,1 +1,0 @@
-lar[68420]=`<b>υος (ἡ)</b> Nephthys, <i>divinité égyptienne,</i> PLUT. <i>M. 355f, 366b</i>.`

@@ -1,1 +1,0 @@
-lar[58003]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Krokalè, <i>f</i>. LUC. <i>D. mer. 15</i>.<p><b>Étym</b>. <i>cf</i>. κροκάλη.`

@@ -1,1 +1,0 @@
-lar[41343]=`<b>ἑτερο·μάσχαλος, ος, ον</b> <font color="purple">[χᾰ]</font> qui n’a qu’une manche (tunique) <i>p. opp. à</i> ἀμφιμάσχαλος, SCH.-AR. <i>Eq. 882</i>.<p><b>Étym</b>. ἕ. μασχάλη.`

@@ -1,1 +1,0 @@
-lar[106098]=`<b>φιλο·σπῆλυγξ, υγγος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui aime les cavernes, ANTH. <i>11, 194</i>.`

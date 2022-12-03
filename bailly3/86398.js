@@ -1,1 +1,0 @@
-lar[86398]=`<b>προσ·σιαλίζω</b> <font color="purple">[ᾰ]</font> <i>ou</i> <b>προσ·σιελίζω</b>, baver sur, <i>dat</i>. SPT. <i>Lev. 15, 8</i>.`

@@ -1,1 +1,0 @@
-lar[100490]=`<i>adv</i>., de trois côtés, ANTH. <i>9, 651</i>.<p><b>Étym</b>. τρισσός, -θεν.`

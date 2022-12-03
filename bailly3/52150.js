@@ -1,1 +1,0 @@
-lar[52150]=`<b>*κατα·βιόω-ῶ</b> <font color="darkgreen">(<i>f</i>. καταβιώσομαι, <i>ao.1</i> κατεβίωσα, <i>ao.2</i> κατεβίων)</font> vivre jusqu’au bout : βίον, PLAT. <i>Prot. 355a, Rsp. 578c</i>, passer sa vie ; <i>abs</i>. POL. <i>12, 28, 6</i> ; PLUT. <i>Dem. 24</i>.`

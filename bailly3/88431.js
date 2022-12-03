@@ -1,1 +1,0 @@
-lar[88431]=`<i>(seul. prés.) c</i>. ῥήγνυμι, ARSTT. <i>Mund. 4, 17</i>.`

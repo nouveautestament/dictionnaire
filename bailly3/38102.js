@@ -1,1 +1,0 @@
-lar[38102]=`<b>ἐπι·κολλαίνω</b>, <i>sel. d’autres</i> <b>ἐπικολλάω-ῶ</b>, coller sur, appliquer sur, TH. <i>C.P. 1, 6, 6</i>.`

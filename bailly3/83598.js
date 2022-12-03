@@ -1,1 +1,0 @@
-lar[83598]=`<b>προ·ανέρχομαι</b>, s’élever auparavant, ARSTT. <i>Meteor. 2, 3, 6</i>.`

@@ -1,1 +1,0 @@
-lar[96661]=`<b>συσταθμάομαι-ῶμαι</b>, mesurer également, JAMBL. <i>Nicom. ar. 171c</i>.`

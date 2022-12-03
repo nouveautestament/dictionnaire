@@ -1,1 +1,0 @@
-lar[82371]=`<b>πολύ·σμηνος, ος, ον</b>, aux nombreux essaims, CHŒRIL. (HDN GR. <i>π. μ. λ. p. 13, 9).</i><p><b>Étym</b>. π. σμῆνος.`

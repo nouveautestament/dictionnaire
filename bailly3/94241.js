@@ -1,1 +1,0 @@
-lar[94241]=`<b>εως (ἡ)</b> <font color="purple">[πῐ]</font> compression, resserrement, PLAT. <i>Crat. 427a</i>.<p><b>Étym</b>. συμπιέζω.`

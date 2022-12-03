@@ -1,1 +1,0 @@
-lar[91729]=`<b>σπανό·τεκνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a peu d’enfants, SEXT. <i>M. 5, 101</i>.<p><b>Étym</b>. σπ. τέκνον.`

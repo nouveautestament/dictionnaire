@@ -1,1 +1,0 @@
-lar[91598]=`<b>*σόος</b>, <i>par contr</i>. <b>σοῦς, σοῦ (ὁ)</b> élan, impétuosité, DÉMOCR. (ARSTT. <i>Cæl. 4, 6, 31).</i><p><b>Étym</b>. <i>p</i>. *σόϝος, <i>cf</i>. σεύω.`

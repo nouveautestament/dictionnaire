@@ -1,1 +1,0 @@
-lar[58460]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Kydônia, NONN. <i>D. 13, 226 ; 33, 374</i>.<p><b>Étym</b>. Κυδωνία.`

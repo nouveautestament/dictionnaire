@@ -1,1 +1,0 @@
-lar[8270]=`<b>ἀν·ελάττωτος, ος, ον</b>, non amoindri, PROCL. <i>Plat. 1 Alc. p. 76</i>.<p><b>Étym</b>. ἀν-, ἐλαττόω.`

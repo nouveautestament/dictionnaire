@@ -1,1 +1,0 @@
-lar[35780]=`<b>ἐξ·εμπεδόω-ῶ</b>, confirmer, sanctionner, XÉN. <i>Cyr. 3, 1, 12</i>.`

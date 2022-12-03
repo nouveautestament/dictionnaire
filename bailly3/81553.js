@@ -1,1 +1,0 @@
-lar[81553]=`<b>πολιαρχέω-ῶ</b>, être gouverneur d’une ville, DC. <i>53, 33, 60, 5</i>.<p><b>Étym</b>. πολίαρχος.`

@@ -1,1 +1,0 @@
-lar[34806]=`<b>ἑνο·ειδῶς</b>, <i>adv</i>., simplement, uniquement, NICOM. <i>Arithm. 74</i> ; JAMBL. <i>Myst. 1, 17, etc</i>.<p><b>Étym</b>. ἑνοειδής.`

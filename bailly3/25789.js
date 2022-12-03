@@ -1,1 +1,0 @@
-lar[25789]=`<b>δια·τρυφάω-ῶ</b> <font color="purple">[ῠφ]</font> s’abandonner à la mollesse, PLAT. <i>Leg. 695c, etc</i>.`

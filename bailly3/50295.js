@@ -1,1 +1,0 @@
-lar[50295]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> épuré, GEOP. <i>20, 35</i>.<p><b>Étym</b>. κ. ἔργον.`

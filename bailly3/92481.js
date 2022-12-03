@@ -1,1 +1,0 @@
-lar[92481]=`<b>στεφανηφορέω-ῶ</b> <font color="purple">[ᾰ]</font> porter une couronne, EUR. <i>H.f. 781</i> ; DÉM. <i>530 fin</i>.<p><b>Étym</b>. στεφανηφόρος.`

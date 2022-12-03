@@ -1,1 +1,0 @@
-lar[45697]=`<i>adv</i>., avec union, ensemble, PROCL. <i>Plat. Parm. 2, p. 87</i>.<p><b>Étym</b>. ἐνόω.`

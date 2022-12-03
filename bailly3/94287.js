@@ -1,1 +1,0 @@
-lar[94287]=`<b>συμ·πλησιάζω</b>, s’approcher ensemble, avoir des relations ensemble, <i>dat</i>. ATH. <i>329e</i>.<p><b>Étym</b>. <i>corr</i>. συμπαίζει.`

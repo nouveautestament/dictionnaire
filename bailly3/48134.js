@@ -1,1 +1,0 @@
-lar[48134]=`flatter, caresser : τινά, SOPH. <i>O.C. 1003, 1336</i> ; EUR. <i>Her. 983</i> ; PLAT. <i>Theæt. 173a</i>, qqn ; τι, SOPH. <i>El. 397,</i> faire qqe flatterie ; καιρόν, Ps.-PHOCYL. <i>93,</i> ménager <i>ou</i> exploiter l’occasion ; <i>p. anal</i>. flatter un cheval, XÉN. <i>Eq. 10, 13, etc.</i> ; caresser un chien, ARSTT. <i>Physiogn. 6, 29</i>.<p><b>Étym</b>. θώψ.`

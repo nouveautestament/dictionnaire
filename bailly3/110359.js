@@ -1,1 +1,0 @@
-lar[110359]=`<b>ᾠο·σκοπικά, ῶν (τὰ)</b> traité sur la divination par l’examen des œufs, <i>ouvrage attribué à Orphée</i>.<p><b>Étym</b>. ᾠόν, σκέπτομαι.`

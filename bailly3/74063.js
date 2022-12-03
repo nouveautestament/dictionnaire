@@ -1,1 +1,0 @@
-lar[74063]=`munir de vivres, <i>en parl. d’une armée,</i> DS. <i>Exc. 598, 38 ; au pass</i>. être approvisionné, POL. <i>23, 8, 4</i> ; DS. <i>16, 22</i>.<p><b>Étym</b>. ὀψώνιον.`

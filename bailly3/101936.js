@@ -1,1 +1,0 @@
-lar[101936]=`<b>ὑπ·αμπέχω</b> <font color="purple">[ῠ]</font> envelopper d’un vêtement, PLUT. <i>M. 562b</i>.`

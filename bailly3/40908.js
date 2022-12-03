@@ -1,1 +1,0 @@
-lar[40908]=`<b>ἐρωτο·τόκος, ος, ον</b>, qui enfante <i>ou</i> fait naître l’amour, MUS. <i>159</i> ; NONN. <i>D. 7, 276</i>.<p><b>Étym</b>. ἔ. τίκτω.`

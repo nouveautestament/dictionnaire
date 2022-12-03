@@ -1,1 +1,0 @@
-lar[28373]=`<b>δύσ·ελπις, ις, ι</b>, <i>gén</i>. <b>ιδος</b> <font color="purple">[ῠ]</font> qui espère difficilement, qui désespère, ESCHL. <i>Ch. 412</i> ; XÉN. <i>Hell. 5, 4, 31</i> ; ARSTT. <i>Rhet. 2, 13, 11, etc</i>.<p>➳ <i>Acc. neutre</i> δύσελπι, ARSTT. <i>H.A. 9, 1</i>.<p><b>Étym</b>. δ. ἐλπίς.`

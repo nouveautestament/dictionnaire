@@ -1,1 +1,0 @@
-lar[45579]=`<b>ἡμι·τέλεστος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié fini, THC. <i>3, 3</i> ; DH. <i>1, 59, etc</i>.<p><b>Étym</b>. ἡμι-, τελέω.`

@@ -1,1 +1,0 @@
-lar[86310]=`<b>προσ·πέτομαι</b> <font color="darkgreen">(<i>f</i>. προσπτήσομαι, <i>ao</i>. προσέπτην)</font> voler auprès de <i>ou</i> vers, <i>avec</i> πρός <i>et l’acc</i>. ARSTT. <i>H.A. 8, 3, 7 ; fig. avec le dat</i>. ESCHL. <i>Pr. 555, etc.</i> ; XÉN. <i>Mem. 3, 11, 5 ; avec l’acc</i>. ESCHL. <i>Pr. 115</i>.`

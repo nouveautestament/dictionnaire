@@ -1,1 +1,0 @@
-lar[35765]=`<b>εως (ἡ)</b> évolution, A. QUINT. <i>2, p. 71</i> ; PLOT. <i>Enn. 2, 999 Creuz</i>.<p><b>Étym</b>. ἐξελίσσω.`

@@ -1,1 +1,0 @@
-lar[10353]=`<b>ἀντί·πρῳρος, ος, ον :<br>      1</b> qui présente la proue en avant, HDT. <i>8, 11</i> ; THC. <i>4, 8, etc.</i><br><b>      2</b> <i>p. suite,</i> qui s’avance vers <i>ou simpl</i>. qui regarde en face, face à face, SOPH. <i>Tr. 223</i> ; κατ' ἀντίπρῳρα ναυστάθμων, EUR. <i>Rhes. 136,</i> au-devant de la station des vaisseaux.<p><b>Étym</b>. ἀ. πρῷρα.`

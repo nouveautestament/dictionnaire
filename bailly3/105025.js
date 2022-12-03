@@ -1,1 +1,0 @@
-lar[105025]=`<b>ου (ὁ)</b> Phayllos :<br><b>      1</b> <i>tyran phocéen,</i> DÉM. <i>Or. 23, 124 Baiter-Sauppe</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>8, 47</i> : AR. <i>Ach. 215, Vesp. 1206, etc</i>.`

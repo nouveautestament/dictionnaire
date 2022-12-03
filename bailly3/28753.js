@@ -1,1 +1,0 @@
-lar[28753]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., sans pouvoir résister, ESCHL. <i>Suppl. 867</i>.`

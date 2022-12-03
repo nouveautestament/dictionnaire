@@ -1,1 +1,0 @@
-lar[66019]=`<b>μισο·βασιλεύς, έως (ὁ)</b> <font color="purple">[ῑᾰῐ]</font> qui hait le roi, ennemi du roi, PLUT. <i>M. 447a</i>.<p><b>Étym</b>. μισέω, β.`

@@ -1,1 +1,0 @@
-lar[35203]=`<b>ός, όν</b> <font color="purple">[ῠ]</font> tissé, brodé, THCR. <i>Idyl. 15, 83</i>.<p><b>Étym</b>. ἐνυφαίνω.`

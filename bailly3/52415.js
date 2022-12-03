@@ -1,1 +1,0 @@
-lar[52415]=`<b>κατα·θοινάομαι-ῶμαι</b> <font color="darkgreen">(<i>ao</i>. κατεθοινησάμην, ES. <i>14 Halm ; ao. avec forme pass</i>. κατεθοινήθην, ATH. <i>283b</i>)</font> se repaître de, dévorer.`

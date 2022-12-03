@@ -1,1 +1,0 @@
-lar[57210]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> récapitulation, réunion en un total, NICOM. <i>Arithm. 2, 14, 5, p. 104, l. 10 Hoche</i>.<p><b>Étym</b>. κορυφόω.`

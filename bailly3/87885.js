@@ -1,1 +1,0 @@
-lar[87885]=`<b>πυρι·μάρμαρος, ος, ον</b> <font color="purple">[ῠῐᾰρο]</font> resplendissant comme le feu, MAN. <i>4, 93 ; 391</i>.<p><b>Étym</b>. π. μαρμαίρω.`

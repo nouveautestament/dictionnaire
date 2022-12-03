@@ -1,1 +1,0 @@
-lar[42570]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Eulalios, <i>h</i>. ANTH. <i>8, 151</i>.<p><b>Étym</b>. εὔλαλος.`

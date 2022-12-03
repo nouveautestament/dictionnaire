@@ -1,1 +1,0 @@
-lar[48118]=`<b>ᾶ (ὁ)</b> Thomas, <i>h</i>. NT. <i>Matth. 10, 3</i> ; A. PL. <i>315, etc</i>.`

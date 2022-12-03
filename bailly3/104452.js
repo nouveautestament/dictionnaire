@@ -1,1 +1,0 @@
-lar[104452]=`<b>ὑψηλό·νοος-ους, οος-ους, οον-ουν</b>, aux sentiments élevés ; <i>subst</i>. τὸ ὑψηλόνουν, PLAT. <i>Phædr. 270a ;</i> PLUT. <i>Per. 8</i> ; THÉM. <i>222b</i>, élévation des sentiments.<p><b>Étym</b>. ὑ. νόος.`

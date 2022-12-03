@@ -1,1 +1,0 @@
-lar[92710]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> plissé, XÉN. <i>Cyr. 6, 4, 2</i>.<p><b>Étym</b>. στολιδόω.`

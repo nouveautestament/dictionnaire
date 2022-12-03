@@ -1,1 +1,0 @@
-lar[18558]=`<b>ἀ·χύλωτος, ος, ον</b> <font color="purple">[ῡ]</font> non transformé en chyle, GAL.<p><b>Étym</b>. ἀ, χυλόω.`

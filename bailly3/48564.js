@@ -1,1 +1,0 @@
-lar[48564]=`<b>ης (ἡ)</b> <i>ion</i>. prêtresse, ANTH. <i>7, 733 (corr. p</i>. ἱερή <i>Mein</i>.) ; PLUT. <i>M. 795d</i>.<p><b>Étym</b>. ἱερός.`

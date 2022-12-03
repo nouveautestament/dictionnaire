@@ -1,1 +1,0 @@
-lar[64510]=`<b>μεσό·γεως, ως, ων</b>, <i>att. c</i>. μεσόγαιος, PLAT. <i>Leg. 909a</i>.<p>➳ <i>Ttef. dans les inscr. att. on ne trouve que Μεσόγεοι et Μεσόγειοι,</i> CIA. <i>2, 602 et 603 (envir. 270 av. J.-C.) ; v. Meisterh. p. 100, 18 ; poét</i>. μεσσόγεως, CALL. <i>Dian. 37</i>.`

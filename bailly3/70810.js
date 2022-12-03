@@ -1,1 +1,0 @@
-lar[70810]=`<b>ὀκριο·ειδής, ής, ές</b>, semblable à une pointe, HPC. <i>Art. 802 ; au cp</i>. -έστερος.<p><b>Étym</b>. ὄκρις, εἶδος.`

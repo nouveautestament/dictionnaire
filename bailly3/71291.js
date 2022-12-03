@@ -1,1 +1,0 @@
-lar[71291]=`<b>ου</b> <font color="purple">[ῡῑ]</font> <i>adj. m</i>. fait avec de l’épeautre, SPT. <i>3Reg. 19, 6</i>.<p><b>Étym</b>. ὄλυρα.`

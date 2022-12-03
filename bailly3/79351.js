@@ -1,1 +1,0 @@
-lar[79351]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> dont le dénominateur est impair, JAMBL. <i>Nicom. ar. p. 118</i>.<p><b>Étym</b>. περισσός, ὄνομα.`

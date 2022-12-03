@@ -1,1 +1,0 @@
-lar[53797]=`<b>κατα·ψιλόω-ῶ</b> <font color="purple">[ῑ]</font> dénuder, DS. <i>20, 96</i>.`

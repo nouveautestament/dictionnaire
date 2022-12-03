@@ -1,1 +1,0 @@
-lar[33292]=`<b>ἔμ·μουσος, ος, ον</b>, <i>seul. au</i> <i>• Sup</i>. -ότατος, musical, NICOM. <i>Arithm. 2, 109</i>.<p><b>Étym</b>. ἐν, μοῦσα.`

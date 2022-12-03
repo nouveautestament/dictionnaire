@@ -1,1 +1,0 @@
-lar[17956]=`<font color="purple">[ᾰ]</font> <i>adv</i>., simplement, sans recherche, THGN. <i>1211</i> ; POL. <i>39, 1, 4</i> ; PLUT. <i>Pomp. 14 ; M. 41a, etc</i>.<p>•<i> Cp</i>. ἀφελέστερον, SEXT. <i>P. 1, 17, etc. • Sup</i>. ἀφελέστατα, PLUT. <i>Lys. 6</i>.<p><b>Étym</b>. ἀφελής.`

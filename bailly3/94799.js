@@ -1,1 +1,0 @@
-lar[94799]=`<b>συν·ανιάομαι-ῶμαι</b>, s’affliger avec, compatir à, SYN. <i>Ep. 46, 1376a Migne</i>.`

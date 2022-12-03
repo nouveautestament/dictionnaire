@@ -1,1 +1,0 @@
-lar[24424]=`<b>δια·βιβρώσκω</b>, manger entièrement, dévorer, <i>fig</i>. HPC. PLAT. <i>etc</i>.<p>➳ <i>Act. prés. inf</i>. GAL. <i>13, 702. — Pass. fut. 3 sg</i>. διαβρωθήσεται, <i>ibid. 674. Ao. part</i>. διαβρωθείς, PLUT. <i>M. 65 d. Pf. inf</i>. διαβεβρῶσθαι, HPC. <i>469, 14</i> ; PLAT. <i>Tim. 83a ;</i> LUC. <i>Ind. 1 ; part</i>. διαβεβρωμέναι, A.RH. <i>1, 995</i>.`

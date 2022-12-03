@@ -1,1 +1,0 @@
-lar[16330]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) divination par l’observation des astres, SEXT. <i>M. 9, 132</i>.<p><b>Étym</b>. ἀστρόμαντις.`

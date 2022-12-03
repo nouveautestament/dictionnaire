@@ -1,1 +1,0 @@
-lar[2046]=`<b>ατος (τὸ)</b> loupe de matière graisseuse, GAL. <i>2, 272</i>.<p><b>Étym</b>. ἀθήρα.`

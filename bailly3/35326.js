@@ -1,1 +1,0 @@
-lar[35326]=`<b>ἐξαιρόομαι-οῦμαι</b>, se convertir en ivraie, TH. <i>C.P. 2, 16, 2</i>.<p><b>Étym</b>. ἐξ, αἶρα.`

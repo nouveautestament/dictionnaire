@@ -1,1 +1,0 @@
-lar[60751]=`<b>*ληθοσύνη</b>, <i>dor</i>. <b>λαθοσύνα, ας (ἡ)</b> <font color="purple">[ᾱῠ]</font> oubli, EUR. <i>I.T. 1278</i>.<p><b>Étym</b>. <i>cf</i>. λήθη.`

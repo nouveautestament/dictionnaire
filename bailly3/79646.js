@@ -1,1 +1,0 @@
-lar[79646]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> croissance tout autour, excroissance, ARSTT. <i>Inc. an. 10, 9</i> ; TH. <i>H.P. 5, 2, 2</i>.<p><b>Étym</b>. περιφύω.`

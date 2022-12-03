@@ -1,1 +1,0 @@
-lar[12949]=`<b>ἀπο·νευρόομαι-οῦμαι</b>, se durcir en forme de nerf <i>ou</i> de tendon, GAL. <i>2, 252, etc</i>.`

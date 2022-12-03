@@ -1,1 +1,0 @@
-lar[16491]=`<b>ἀ·συνδεξίαστος, ος, ον</b>, sans s’être donné la main, sans engagement, PTOL. <i>Tetr. 166</i>.<p><b>Étym</b>. ἀ, σύν, δεξιά.`

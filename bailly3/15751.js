@@ -1,1 +1,0 @@
-lar[15751]=`<b>ἀσαφό·γραφος, ος, ον</b> <font color="purple">[σᾰᾰ]</font> écrit en un style obscur, RHÉT. <i>6, 587 W</i>.<p><b>Étym</b>. ἀσαφής, γράφω.`

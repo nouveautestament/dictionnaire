@@ -1,1 +1,0 @@
-lar[33155]=`<b>ας (ἡ)</b> stupeur <i>ou</i> stupidité d’un homme qui est comme frappé de la foudre, PLUT. <i>M. 1119b</i>.<p><b>Étym</b>. ἐμβρόντητος.`

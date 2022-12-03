@@ -1,1 +1,0 @@
-lar[41634]=`<b>εὐ·απόσβεστος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à éteindre, ARTÉM. <i>1, 74</i>.<p><b>Étym</b>. εὖ, ἀποσβέννυμι.`

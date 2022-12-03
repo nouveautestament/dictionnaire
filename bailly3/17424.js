@@ -1,1 +1,0 @@
-lar[17424]=`<b>αὐτό·γονος, ος, ον</b>, né de soi-même, produit par soi-même, NONN. <i>D. 8, 103</i>.<p><b>Étym</b>. αὐ. γίγνομαι.`

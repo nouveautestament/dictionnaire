@@ -1,1 +1,0 @@
-lar[61639]=`<b>οῦ (ὁ)</b> temps de la sève où certains arbres laissent tomber leur écorce, TH. <i>H.P. 5, 1, 1</i>.<p><b>Étym</b>. λοπάω.`

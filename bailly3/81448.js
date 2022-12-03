@@ -1,1 +1,0 @@
-lar[81448]=`<b>η, ον</b>, qui concerne les troupeaux <i>ou</i> un troupeau, IL. <i>2, 470</i>, HÉS. <i>O. 789</i>.<p><b>Étym</b>. ποίμνη.`

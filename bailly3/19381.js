@@ -1,1 +1,0 @@
-lar[19381]=`<b>(ὁ)</b> <font color="purple">[ῐᾰ]</font> descendant de Battos, ANTH. ; <i>au plur</i>. HDT.<p>➳ <i>Gén. épq</i>. βαττιάδαο <font color="purple">[δᾱ]</font> ANTH. <i>7, 42, ou</i> βαττιάδεω, ANTH. <i>7, 415</i>.<p><b>Étym</b>. βάττος ; <i>cf</i>. βαττίδης.`

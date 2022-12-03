@@ -1,1 +1,0 @@
-lar[50512]=`<b>καθ·υποτάσσω</b>, soumettre complètement, CLÉM. <i>2, 89 Migne</i>.`

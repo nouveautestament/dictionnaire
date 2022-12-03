@@ -1,1 +1,0 @@
-lar[102135]=`<b>ὑπ·εκ·προ·ρέω</b> (<i>seul. prés</i>.) couler sous <i>ou</i> dessous, OD. <i>6, 89</i>.`

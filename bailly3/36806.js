@@ -1,1 +1,0 @@
-lar[36806]=`<b>ή, όν</b>, propre à faire lever <i>ou</i> gonfler, ARÉT. <i>Cur. m. diut. 1, 2</i>.<p><b>Étym</b>. ἐπαίρω.`

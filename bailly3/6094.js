@@ -1,1 +1,0 @@
-lar[6094]=`<b>ἀμφι·δέαι, ῶν (αἱ) :<br>      1</b> bracelet, anneau, HDT. <i>2, 69</i> ; AR. <i>fr. 309</i>.<br><b>      2</b> chaîne pour fermer une porte, LYS. (HARP.).<p><b>Étym</b>. ἀ. δέω.`

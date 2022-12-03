@@ -1,1 +1,0 @@
-lar[100092]=`<b>(τὸ)</b> navire à trente rameurs, ARSTT. <i>Ath. 56, 4</i>.`

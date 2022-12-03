@@ -1,1 +1,0 @@
-lar[35267]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne l’exportation, STR. <i>17, 1, 13 Kram</i>.<p><b>Étym</b>. ἐξάγω.`

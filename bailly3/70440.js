@@ -1,1 +1,0 @@
-lar[70440]=`<b>ου (ὁ) :<br>      1</b> lamentation, ESCHL. <i>Ch. 411, etc.</i> ; SOPH. <i>Aj. 895</i>.<br><b>      2</b> <i>p. suite,</i> pitié, compassion, OD. <i>2, 81 ; 24, 438</i> ; ESCHL. <i>Pr. 239, etc.</i> ; SOPH. <i>Aj. 525, etc.</i> ; EUR. <i>Med. 931, etc. ; au plur</i>. PLAT. <i>Rsp. 387d, etc</i>.<p><b>Étym</b>. <i>onomatopée ; cf</i>. οἴ.`

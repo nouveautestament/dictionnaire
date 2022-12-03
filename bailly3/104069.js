@@ -1,1 +1,0 @@
-lar[104069]=`<b>ὑπ·ουάτιος, ος, ον</b> <font color="purple">[ᾰ]</font> placé sous les oreilles, ORPH. <i>Arg. 219</i>.<p><b>Étym</b>. ὑ. οὖας.`

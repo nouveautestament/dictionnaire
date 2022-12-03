@@ -1,1 +1,0 @@
-lar[58453]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font><br><b>   I</b> tumulte d’un combat, IL. <i>10, 523 ; d’où</i> :<br><b>      1</b> désordre, IL. <i>18, 218</i>.<br><b>      2</b> combat (de coqs) THCR. <i>Idyl. 22, 72</i>.<br><b>   II</b> le Tumulte du combat <i>personnifié,</i> IL. <i>5, 593 ; 18, 535</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

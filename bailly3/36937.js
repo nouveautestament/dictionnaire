@@ -1,1 +1,0 @@
-lar[36937]=`<b>ἐπ·εθίζω</b> <font color="darkgreen">(<i>ao. pass. inf</i>. ἐπεθισθῆναι)</font> accoutumer, ARISTOX. <i>p. 33 Meib</i>.`

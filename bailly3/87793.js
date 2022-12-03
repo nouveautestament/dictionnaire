@@ -1,1 +1,0 @@
-lar[87793]=`<b>πυργο·σκάφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui sape les tours, LYC. <i>469</i>.<p><b>Étym</b>. π. σκάπτω.`

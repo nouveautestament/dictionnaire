@@ -1,1 +1,0 @@
-lar[94098]=`<b>εως (ἡ)</b> action de ranger en bataille, <i>d’où</i> bataille rangée, <i>p. suite, fig</i>. lutte acharnée entre la constitution d’un malade et la maladie, HPC.<p><b>Étym</b>. συμπαρατάσσομαι.`
